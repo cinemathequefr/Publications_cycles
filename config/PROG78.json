@@ -60,10 +60,27 @@
       "titreCycle": "Aujourd'hui le cinéma",
       "sousCycles": []
     },
+
     {
       "idCycleProg": 143,
       "titreCycle": "Fenêtre sur les collections",
-      "sousCycles": []
+      "sousCycles": [
+        {
+          "titre": "Albatros : pleins feux sur Nathalie Lissenko",
+          "cats": [2395],
+          "tri": 4
+        },
+        {
+          "titre": "Magie de la peinture au cinéma",
+          "cats": [2398],
+          "tri": 4
+        },
+        {
+          "titre": "La Cinémathèque-musée",
+          "cats": [2394],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 152,
@@ -125,6 +142,17 @@
         {
           "titre": "Rencontres et conférences",
           "cats": [2218],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 472,
+      "titreCycle": "Archi Vives",
+      "sousCycles": [
+        {
+          "titre": "Films et conférences",
+          "cats": [2385, 2146],
           "tri": 4
         }
       ]
