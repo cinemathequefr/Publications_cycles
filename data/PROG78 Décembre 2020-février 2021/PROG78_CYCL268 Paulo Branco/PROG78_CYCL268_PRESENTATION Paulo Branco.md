@@ -1,0 +1,15 @@
+# Paulo Branco ou le risque du goût
+
+Comme un éditeur, un producteur se jauge à son catalogue. Dis-moi qui sont tes auteurs, je te dirai qui tu es... Paulo Branco a eu la chance (et le goût) de produire tout de suite, à l'orée des années 1980, trois immenses cinéastes qui n'étaient pas encore sortis de la clandestinité : Manoel de Oliveira, João César Monteiro et Raoul Ruiz.
+
+Au Portugal, le « cas Oliveira » faisait scandale, _Amour de perdition_ (1978) venait de sortir avec insuccès et haussement d'épaules, après des années de silence forcé et d'incompréhension, et le vieux maître (il avait déjà 70 ans) était menacé de ne plus tourner du tout. Branco produisit _Francisca_ (1981), dernier volume de la tétralogie des « amours frustrées », après avoir sorti à Paris _Amour de perdition_ dans sa salle du République, sans grand succès. Mais une critique parisienne alors influente salua l'événement, et c'est ainsi que Branco remit Oliveira en selle et plaça le Portugal sur la carte.
+
+## La légende
+
+Du coup, Alain Tanner fit à Lisbonne l'un de ses plus beaux films, avec un sublime Bruno Ganz (_Dans la ville blanche_, 1983) ; Wim Wenders débarqua sur le tournage interrompu (plus d'argent) du _Territoire_ de Raoul Ruiz, parce qu'il était amoureux d'Isabelle Weingarten (qui vient de nous quitter, nous ne l'oublions pas), et improvisa aussitôt, avec ceux qui se trouvaient là, avec Samuel Fuller, une histoire de tournage suspendu et de producteur introuvable. Résultat, un film qui devint vite le talisman de toute l'internationale cinéphile et le reflet d'une époque rêveuse et angoissée : le cinéma allait-il vraiment s'arrêter là ? Avec _L'État des choses_, la légende de Paulo Branco était née. Parfois dorée, parfois noire. Beaucoup d'anecdotes hautes en couleur courent sur son compte – qu'il alimente volontiers lui-même – et les mots de « joueur », « aventurier », voire « pirate » (comme lui et ses amis Balsan et Sandoz s'étaient surnommés), lui collent à la peau et à la réputation. C'est vrai que l'homme est fascinant, avec son habitude de s'endormir à Paris et de se réveiller à Lisbonne, son immense culture, la diversité de ses centres d'intérêt et son goût intact pour le cinéma le plus risqué, celui qui n'a pas déjà été fait mille fois, donc le moins monnayable.
+
+Mais surtout, et cette rétrospective est l'occasion de le rappeler et d'en montrer une sélection forcément injuste et parcellaire, les grands films sont là, à foison, même s'ils ne lui appartiennent plus, car les vrais producteurs « à l'ancienne » perdent souvent leur catalogue en même temps que leur chemise, pour pouvoir monter le film d'après.
+
+Aux trois phares initiaux sont venus s'agréger tout ce que l'Europe comptait de « grands modernes », de Werner Schroeter à Chantal Akerman (_La Captive_, sommet absolu), mais aussi les Portugais les plus novateurs (João Botelho et Pedro Costa en tête), avant que la génération de Laurence Ferreira Barbosa, Marie Vermillard, Emmanuelle Cuau ou Mathieu Amalric ne rejoignent Branco pour former une constellation de regards singuliers sur le monde.
+
+Frédéric Bonnaud
