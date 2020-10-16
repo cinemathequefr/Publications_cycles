@@ -2,7 +2,7 @@
 
 ## Albatros : pleins feux sur Nathalie Lissenko
 
-**La célèbre société de production Albatros, créée par des russes blanc émigrés en France après la révolution de 1917, constituait une véritable troupe de réalisateurs, de comédiens, de techniciens. Avec près d'une quinzaine de films à son actif, l'actrice Nathalie Lissenko en était une figure de proue.**
+**La célèbre société de production Albatros, créée par des Russes blancs émigrés en France après la révolution de 1917, constituait une véritable troupe de réalisateurs, de comédiens, de techniciens. Avec près d'une quinzaine de films à son actif, l'actrice Nathalie Lissenko en était une figure de proue.**
 
 [51482]  
 **La Riposte**  
@@ -26,7 +26,7 @@ Accompagnement musical par Jean-François Zygel. Séance présentée par Emmanue
 
 ## Magie de la peinture au cinéma
 
-**La Cinémathèque présente quelques uns des joyaux de sa collection. Films expérimentaux ou films des premiers temps du cinéma, beaucoup ont été méticuleusement peints sur pellicule à la main ou au pochoir, une image après l'autre : fééries colorées (Gaston Velle), animations joyeuses et rythmées (par Len Lye, Albert Pierru et Norman McLaren) ou paysages intérieurs abstraits (José Antonio Sistiaga). Les deux films de Jean-Michel Bouhours quant à eux entretiennent un rapport fort à la peinture dont les éléments fixes permettent d'analyser le mouvement des images cinématographiques. Les films sont montrés dans les copies argentiques 35mm ou 16mm, à l'exception de ceux d'Albert Pierru qui existent dans de nouvelles copies numériques.**
+**La Cinémathèque présente quelques uns des joyaux de sa collection. Films expérimentaux ou films des premiers temps du cinéma, beaucoup ont été méticuleusement peints sur pellicule à la main ou au pochoir, une image après l'autre : fééries colorées (Gaston Velle), animations joyeuses et rythmées (Len Lye, Albert Pierru et Norman McLaren) ou paysages intérieurs abstraits (José Antonio Sistiaga). Les deux films de Jean-Michel Bouhours, quant à eux, entretiennent un rapport fort à la peinture, dont les éléments fixes permettent d'analyser le mouvement des images cinématographiques. Les films sont montrés dans les copies argentiques 35 mm ou 16 mm, à l'exception de ceux d'Albert Pierru qui existent dans de nouvelles copies numériques.**
 
 [146317]  
 **Chantilly**  
@@ -39,12 +39,13 @@ de Jean-Michel Bouhours
 France / 1982 / 17 min / 16 mm  
 suivi de  
 [113480]  
-**Impresiones en la alta atmosfera**  
+**Impresiones en la alta atmósfera**  
 de José Antonio Sistiaga  
 Espagne / 1988 / 9 min / 35 mm  
 suivi de  
 [146316]  
-**Paysage inquiétant – Nocturne**  
+**Paysage inquiétant - Nocturne**  
+**(Paisaje inquietante - Nocturno)**  
 de José Antonio Sistiaga  
 France / 1991 / 14 min / 35 mm
 
@@ -67,7 +68,7 @@ d'Albert Pierru
 France / 1956 / 5 min / DCP  
 suivi de  
 [71613]  
-**Free radicals**  
+**Free Radicals**  
 de Len Lye  
 États-Unis / 1957 / 5 min / 35 mm  
 suivi de  
@@ -77,7 +78,7 @@ de Len Lye
 Grande-Bretagne / 1936 / 4 min / 35 mm  
 suivi de  
 [117483]  
-**Nocturne party**  
+**Nocturne Party**  
 d'Albert Pierru  
 France / 1960 / 4 min / 35 mm  
 suivi de  
@@ -97,7 +98,7 @@ d'Albert Pierru
 France / 1957 / 3 min / DCP  
 suivi de  
 [120997]  
-**Teintes, tâches, touches**  
+**Teintes, taches, touches**  
 d'Albert Pierru  
 France / 1956 / 3 min / DCP  
 suivi de  
@@ -111,7 +112,7 @@ Séance présentée par Pauline de Raymond
 
 ## La Cinémathèque-musée
 
-**En 1955, la Cinémathèque française propose une grande exposition commémorative des soixante ans du cinéma au Musée d'art moderne de la Ville de Paris, en lien avec la FIAF. Plusieurs cycles de films sont proposés dans ce cadre. C'est de la programmation consacrée à l'Avant-garde, si chère à Langlois, que sont extraits ces deux programmes de trois films. On tentera ainsi de s'immerger dans l'atmosphère visuelle caractéristique des programmes de Langlois, qui enthousiasmèrent le public de l'époque. En « avant-programme » de ces reconstitutions, un reportage de la même période autour du Musée du Cinéma. Programmation en collaboration avec l'AFRHC et le CNC à l'occasion de la publication de l'ouvrage de Stéphanie Louis La Cinémathèque- Musée : une innovation cinéphile au cœur de la patrimonialisation du cinéma en France (1944-1968).**
+**En 1955, la Cinémathèque française propose une grande exposition commémorative des soixante ans du cinéma au Musée d'art moderne de la Ville de Paris, en lien avec la FIAF. Plusieurs cycles de films sont proposés dans ce cadre. C'est de la programmation consacrée à l'avant-garde, si chère à Langlois, que sont extraits ces deux programmes de trois films. On tentera ainsi de s'immerger dans l'atmosphère visuelle caractéristique des programmes de Langlois, qui enthousiasmèrent le public de l'époque. En avant-programme de ces reconstitutions, un reportage de la même période autour du Musée du cinéma. Programmation en collaboration avec l'AFRHC et le CNC à l'occasion de la publication de l'ouvrage de Stéphanie Louis _La Cinémathèque-musée : une innovation cinéphile au cœur de la patrimonialisation du cinéma en France (1944-1968)_.**
 
 [146314]  
 **Le Musée du cinéma**  
@@ -124,7 +125,7 @@ de Jacques Lemare
 France / 1940 / 10 min / DCP  
 suivi de  
 [81145]  
-**Le Mont Saint-Michel**  
+**Le Mont-Saint-Michel**  
 de Maurice Cloche  
 France / 1934 / 30 min / 35 mm  
 suivi de  

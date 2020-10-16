@@ -5,14 +5,14 @@
 de Len Lye  
 Grande-Bretagne / 1935
 
-[48390]*  
+[48390]  
 **L'Affiche**  
 de Jean Epstein  
 France / 1924  
 Avec Nathalie Lissenko, Genica Missirio, Camille Bardou, Sylviane de Castillo.  
 Le combat d'une mère brisée par la perte de son enfant dont l'image a été utilisée sur une affiche publicitaire qui envahit la ville.
 
-[58563]*  
+[58563]  
 **Blinkity Blank**  
 de Norman McLaren  
 Canada / 1955
@@ -27,7 +27,7 @@ France / 1976
 de Jean-Michel Bouhours  
 France / 1982
 
-[74882]*  
+[74882]  
 **Fantaisie sur quatre cordes**  
 d'Albert Pierru  
 France / 1957
@@ -37,31 +37,29 @@ France / 1957
 de Jacques Lemare  
 France / 1940
 
-[71613]*  
-**Free radicals**  
+[71613]  
+**Free Radicals**  
 de Len Lye  
 États-Unis / 1957
 
-[113480]*  
-**Impresiones en la alta atmosfera**  
+[113480]  
+**Impresiones en la alta atmósfera**  
 de José Antonio Sistiaga  
 Espagne / 1988
-
-> (Site) voyage interstellaire !
 
 [146312]  
 **Jazz of Lights**  
 d'Ian Hugo  
 États-Unis / 1954
 
-[132172]*  
+[132172]  
 **Kipho**  
 de Guido Seeber  
 Allemagne / 1925  
 Film sous réserve
 
 [81145]  
-**Le Mont Saint-Michel**  
+**Le Mont-Saint-Michel**  
 de Maurice Cloche  
 France / 1934
 
@@ -75,8 +73,8 @@ France / 1955
 d'Anonyme  
 France / 1960
 
-[117483]*  
-**Nocturne party**  
+[117483]  
+**Nocturne Party**  
 d'Albert Pierru  
 France / 1960
 
@@ -91,7 +89,8 @@ de Roger Leenhardt
 France / 1949
 
 [146316]  
-**Paysage inquiétant – Nocturne**  
+**Paysage inquiétant - Nocturne**  
+**(Paisaje inquietante - Nocturno)**  
 de José Antonio Sistiaga  
 France / 1991
 
@@ -100,12 +99,12 @@ France / 1991
 d'Edmond Levy, Arcady, Gilbert Pignol  
 France / 1953
 
-[88986]*  
+[88986]  
 **Rainbow Dance**  
 de Len Lye  
 Grande-Bretagne / 1936
 
-[89755]*  
+[89755]  
 **Rhythm**  
 de Len Lye  
 États-Unis / 1957
@@ -117,20 +116,18 @@ France / 1922
 Avec Nathalie Lissenko, Jean Angelo, Bartkevitch.  
 Renvoyée d'un cirque où elle était écuyère, Alpha hérite d'un ticket de loterie qui va changer sa vie.
 
-[129602]*  
+[129602]  
 **Sarabande**  
 d'Albert Pierru  
 France / 1953
 
-[74994]*  
+[74994]  
 **Soir de fête**  
 d'Albert Pierru  
 France / 1956
 
-> (Site) Parade de formes chatoyantes sur une musique rythmée. Dessin animé réalisé directement sur pellicule.
-
-[120997]*  
-**Teintes, tâches, touches**  
+[120997]  
+**Teintes, taches, touches**  
 d'Albert Pierru  
 France / 1956
 
