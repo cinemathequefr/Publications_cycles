@@ -59,6 +59,12 @@ D'après la pièce _Petites peurs partagées_ d'Alan Ayckbourn.
 Avec Sabine Azéma, Isabelle Carré, André Dussollier.  
 Les rencontres, les amours et le destin de Thierry, Charlotte, Nicole, Dan et Lionel dans un quartier du 13<sup>e</sup> arrondissement de Paris.
 
+[146482]  
+**Dans les oreilles d'Alain Resnais**  
+de Géraldine Boudot  
+France / 2019  
+Un portrait du réalisateur Alain Resnais qui tente de percer la singularité de son œuvre. Il explore le style Resnais et l'attention particulière que le cinéaste a porté à la musique et aux voix dans chacun de ses films.
+
 [79521]  
 **Domela**  
 d'Alain Resnais  

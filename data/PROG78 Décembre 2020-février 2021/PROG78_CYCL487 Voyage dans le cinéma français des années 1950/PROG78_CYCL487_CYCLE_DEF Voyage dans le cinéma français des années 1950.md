@@ -161,15 +161,6 @@ Michel a volé par amour pour Juliette. Emprisonné, il s'endort et rêve.
 
 - me 9 déc 20h30 JE
 
-[54410]  
-**Le Marchand de Venise**  
-de Pierre Billon  
-France-Italie / 1952 / 102 min / 35 mm  
-Avec Michel Simon, Massimo Serato, Andrée Debar.  
-Afin de courtiser la belle Portia, Bassanio demande à son ami Antonio, riche marchant de Venise, de lui prêter une forte somme.
-
-- sa 6 fév 20h30 JE
-
 [52029]  
 **Monsieur Scrupule, gangster**  
 de Jacques Daroy  

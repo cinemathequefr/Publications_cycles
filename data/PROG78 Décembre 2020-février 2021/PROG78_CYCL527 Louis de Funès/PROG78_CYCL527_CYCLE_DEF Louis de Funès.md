@@ -110,3 +110,11 @@ Léonard Monestier possède une belle fortune, mais sa femme fait un mauvais pla
 
 ## Autour de Louis de Funès
 
+[146483]  
+**Louis de Funès, créature/créateur**  
+de Baptiste Etchegaray, Nicolas Perge  
+France / 2020 / DCP  
+« Acteur comique préféré des Français », Louis de Funès a fait rire des générations de spectateurs avec son personnage de petit chef méchant, colérique et radin, aux mimiques si particulières. Le rire a été l'affaire de sa vie, au point que la star prend une part prépondérante dans la fabrication de ses films. Comment le roi du box-office des années 1960-70 a-t-il inventé et peaufiné son double à l'écran ?
+
+- di 3 jan 16h30 JE
+
