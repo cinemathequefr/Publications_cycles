@@ -6,7 +6,7 @@
 **300**  
 de Zack Snyder  
 États-Unis / 2005 / 115 min / VOSTF / DCP  
-D'après le roman graphique _300_ de Frank Miller et Lynn Varley.    
+D'après le roman graphique _300_ de Frank Miller et Lynn Varley.  
 Avec Gerard Butler, Lena Headey, David Wenham, Dominic West.  
 En 480 avant Jésus-Christ, la bataille des Thermopyles oppose Léonidas, roi de Sparte, et ses trois-cents soldats à l'imposante armée perse.
 
@@ -16,7 +16,7 @@ En 480 avant Jésus-Christ, la bataille des Thermopyles oppose Léonidas, roi de
 **Akira**  
 de Katsuhiro Otomo, Izo Hashimoto  
 Japon / 1990 / 124 min / VOSTF / DCP  
-D'après le manga _Akira_ de Katsuhiro Otomo.    
+D'après le manga _Akira_ de Katsuhiro Otomo.  
 En 1988, Tokyo est détruite par une explosion, ce qui déclenche la Troisième Guerre mondiale. Trente-et-un ans plus tard, la nouvelle mégalopole, peuplée de bandes de jeunes drogués et de gangs de motards, se prépare à accueillir les Jeux olympiques.
 
 - lu 28 déc 17h15 HL
@@ -60,6 +60,17 @@ En 1854, au cours de la guerre de Crimée, l'Angleterre et la France choisissent
 
 - je 17 déc 19h30 HL
 
+[36385]  
+**Les Dents de la mer**  
+**(Jaws)**  
+de Steven Spielberg  
+États-Unis / 1974 / 124 min / VOSTF / DCP  
+D'après le roman _Les Dents de la mer_ de Peter Benchley.  
+Avec Richard Dreyfuss, Roy Scheider, Robert Shaw.  
+Dans une petite station balnéaire, au début de l'été, le corps mutilé d'une jeune vacancière est retrouvé sur la plage. Martin Brody, le nouveau chef de la police, est persuadé qu'il s'agit de l'œuvre d'un requin.
+
+- sa 26 déc 19h15 HL
+
 [39583]  
 **Fitzcarraldo**  
 de Werner Herzog  
@@ -68,16 +79,6 @@ Avec Klaus Kinski, Claudia Cardinale, José Lewgoy, Miguel Ángel Fuentes.
 Un mégalomane passionné d'art lyrique entreprend de construire un opéra en pleine forêt amazonienne.
 
 - di 27 déc 17h15 HL
-
-[63751]  
-**Il faut sauver le soldat Ryan**  
-**(Saving Private Ryan)**  
-de Steven Spielberg  
-États-Unis / 1997 / 169 min / VOSTF / 35 mm  
-Avec Tom Hanks, Tom Sizemore, Edward Burns.  
-Le 6 juin 1944, les Alliés débarquent sur les plages de Normandie. Le capitaine Miller a pour mission de créer une percée dans les lignes ennemies et, à l'aide de sa compagnie, de secourir le soldat Ryan, dont les frères sont tous morts au combat.
-
-- sa 26 déc 19h15 HL
 
 [65575]  
 **Jin-Roh, la brigade des loups**  
@@ -143,7 +144,7 @@ Un scientifique machiavélique a créé un robot nommé Kong pour rechercher sou
 **Zoulou**  
 **(Zulu)**  
 de Cy Endfield  
-Grande-Bretagne / 1963 / 138 min / VOSTF / DCP  
+Grande-Bretagne / 1963 / 138 min / VOSTF / 35 mm  
 Avec Michael Caine, Richard Burton, Ulla Jacobsson.  
 En janvier 1879, au Natal (Afrique du Sud), une petite garnison est prise d'assaut par des milliers de Zoulous en rébellion contre l'oppresseur britannique.
 
@@ -229,4 +230,3 @@ Avec Jeff Bridges, Karen Allen, Charles Martin Smith.
 Échoué sur terre et pourchassé par l'armée américaine, un extraterrestre trouve refuge chez une jeune femme, prenant l'apparence de son défunt mari.
 
 - me 30 déc 15h00 HL
-

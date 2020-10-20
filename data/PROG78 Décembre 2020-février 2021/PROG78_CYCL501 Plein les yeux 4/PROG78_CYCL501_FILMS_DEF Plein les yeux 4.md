@@ -55,6 +55,15 @@ de Michael Curtiz
 Avec Errol Flynn, Olivia de Havilland, Patric Knowles.  
 En 1854, au cours de la guerre de Crimée, l'Angleterre et la France choisissent de défendre la Turquie contre les Russes. Un régiment de brigade légère est envoyé au front, mené à l'échec par des officiers rivaux.
 
+[36385]  
+**Les Dents de la mer**  
+**(Jaws)**  
+de Steven Spielberg  
+États-Unis / 1974  
+D'après le roman _Les Dents de la mer_ de Peter Benchley.  
+Avec Richard Dreyfuss, Roy Scheider, Robert Shaw.  
+Dans une petite station balnéaire, au début de l'été, le corps mutilé d'une jeune vacancière est retrouvé sur la plage. Martin Brody, le nouveau chef de la police, est persuadé qu'il s'agit de l'œuvre d'un requin.
+
 [36541]  
 **L'Expérience interdite**  
 **(Flatliners)**  
