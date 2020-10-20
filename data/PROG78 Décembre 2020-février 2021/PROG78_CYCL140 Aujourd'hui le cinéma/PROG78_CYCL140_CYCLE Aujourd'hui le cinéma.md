@@ -2,6 +2,8 @@
 
 ## Hassen Ferhani
 
+**Après le remarquable _Dans ma tête un rond-point_, Hassen Ferhani pose sa caméra dans le café de Malika au bord de la Transsaharienne, à 900 km au sud d'Alger. Ce road-movie immobile dresse le portrait d'une véritable héroïne autant que celui d'un pays en quête d'un avenir meilleur.**
+
 [146369]  
 **143, Rue du Désert**  
 de Hassen Ferhani  
@@ -12,7 +14,7 @@ Avant-première avec Météore Films. Retrouvez le film en salles à partir du 1
 - je 10 déc 20h00 GF  
 Avant-première. Séance suivie d'une discussion avec Hassen Ferhani. Séance présentée par Hassen Ferhani
 
-## Prix Gérard Frot-Coutaz / Festival Entrevues Belfort
+## Prix Gérard Frot-Coutaz
 
 **Sous l'égide de la Fondation de France, le prix Gérard Frot-Coutaz récompense une première fiction française sortie dans l'année. Remise du prix à Amin Sidi Boumédiène suivie de la projection de son film Abou Leila. En présence d'Emmanuelle Cuau, Laurent Achard et Gaël Teicher, membres du jury, et d'Elsa Charbit, directrice artistique du festival.**
 
@@ -26,6 +28,10 @@ Algérie, 1994. S. et Lotfi, deux amis d'enfance, traversent le désert à la re
 - lu 14 déc 19h30 GF  
 Séance suivie d'une discussion avec Amin Sidi-Boumedine
 
+## Benjamin Parent
+
+**Récit d'apprentissage, réflexion sur la virilité à l'épreuve de l'adolescence, regard juste et intimiste sur le deuil d'un proche, tout cela résonne dans Un vrai bonhomme, le premier long métrage de Benjamin Parent, qui en bon dévoreur de films a choisi pour sa carte blanche Les Dents de la mer de Steven Spielberg.**
+
 [143639]  
 **Un vrai bonhomme**  
 de Benjamin Parent  
@@ -33,25 +39,22 @@ France-Belgique / 2018 / 88 min / DCP
 Avec Thomas Guy, Benjamin Voisin, Isabelle Carré, Laurent Lucas.  
 Tom, un adolescent timide et sensible, fait sa rentrée dans un nouveau lycée. Son grand frère s'emploie à faire de lui un mec, un vrai, mais son omniprésence va rapidement se transformer en une influence toxique.
 
-- lu 4 jan 19h00 JE
+- lu 4 jan 19h00 JE  
+Séance suivie d'une discussion avec Benjamin Parent
 
-## Ariane Boukerche / Amat Escalante
+[36385]  
+**Les Dents de la mer**  
+**(Jaws)**  
+de Steven Spielberg  
+États-Unis / 1974 / 124 min / VOSTF / DCP  
+Avec Richard Dreyfuss, Roy Scheider, Robert Shaw.
 
-[146487]  
-**Ils salivent**  
-d'Ariane Boukerche  
-France / 2019 / 20 min / DCP  
-Avec Olga Riazanova, Def, Julie Sokolowski.  
-_Ils salivent_ est l'histoire d'un baiser. Un couple s'embrasse longuement dans leur salon désert. La femme recrache le baiser dans un verre pendant que son mari ouvre aux invités. Ils installent une ambiance festive et dansante. L'un des invités boit dans le verre le dernier baiser du couple.  
-suivi de  
-[136362]  
-**La Région sauvage**  
-**(La Región salvaje)**  
-d'Amat Escalante  
-Mexique / 2016 / 99 min / VOSTF / DCP  
-Avec Ruth Ramos, Simone Bucio, Jesús Meza.
+- lu 4 jan 21h15 JE  
+Séance présentée par Benjamin Parent
 
-- lu 15 fév 19h00 JE
+## Festival Entrevues Belfort 2020
+
+## Prix du film singulier
 
 ## Jihane Chouaib
 
@@ -98,7 +101,7 @@ Séance suivie d'une discussion avec Mathilde Delaunay
 
 ## Fondation Gan / Rohena Gera
 
-**Chaque trimestre, la Fondation Gan pour le Cinéma met à l'honneur un(e) réalisateur(rice) qui a bénéficié de son soutien. Rohena Gera est lauréate 2018, pour Monsieur, son premier long métrage à la mise en scène affirmée la cinéaste dépeint avec une grande délicatesse deux êtres suspendus à un amour interdit.**
+**Chaque trimestre, la Fondation Gan pour le Cinéma met à l'honneur un(e) réalisateur(rice) qui a bénéficié de son soutien. Rohena Gera est lauréate 2018 pour _Monsieur_, un premier long-métrage à la mise en scène affirmée qui dépeint avec une grande délicatesse deux êtres suspendus à un amour interdit. La séance sera suivie d'une rencontre avec la réalisatrice et d'une carte blanche, le bouleversant _In the Mood for Love_ de Wong Kar-wai.**
 
 [138947]  
 **Monsieur**  
@@ -124,6 +127,8 @@ Séance présentée par Rohena Gera
 
 ## Luc Battiston
 
+**Voyage sensoriel à la mise en scène organique, le nouveau film de Luc Battiston (_Si la photo est bonne_) est une déambulation dans le dédale du cœur où s'entrechoquent fantasme et sentiment amoureux. Pour sa carte blanche, Luc Battiston présentera _De la Guerre_ de Bertrand Bonello suivi d'une rencontre avec les deux cinéastes.**
+
 [146372]  
 **Mon cœur s'invente des souvenirs**  
 de Luc Battiston  
@@ -141,7 +146,48 @@ A la suite d'un incident, Bertrand se retrouve enfermé dans un cercueil pour la
 - lu 8 fév 19h00 JE  
 Séance suivie d'une discussion avec Luc Battiston et Bertrand Bonello
 
+## Ariane Boukerche / Amat Escalante
+
+**L'un des plus singuliers courts métrages français vus ces derniers temps prend aujourd'hui avec la pandémie une toute autre résonance. Ariane Boukerche avait inconsciemment anticipé ce nouvel interdit de nos sociétés contemporaines. Pour accompagner son film, la cinéaste a choisi un autre film étrange et sexuel, _La Région du monde_ du cinéaste mexicain Amat Escalante.**
+
+[146487]  
+**Ils salivent**  
+d'Ariane Boukerche  
+France / 2019 / 20 min / DCP  
+Avec Olga Riazanova, Def, Julie Sokolowski.  
+_Ils salivent_ est l'histoire d'un baiser. Un couple s'embrasse longuement dans leur salon désert. La femme recrache le baiser dans un verre pendant que son mari ouvre aux invités. Ils installent une ambiance festive et dansante. L'un des invités boit dans le verre le dernier baiser du couple.  
+suivi de  
+[136362]  
+**La Région sauvage**  
+**(La Región salvaje)**  
+d'Amat Escalante  
+Mexique / 2016 / 99 min / VOSTF / DCP  
+Avec Ruth Ramos, Simone Bucio, Jesús Meza.
+
+- lu 15 fév 19h00 JE  
+Séance présentée par Ariane Boukerche
+
 ## Christelle Lheureux
+
+**Le nouveau film de Christelle Lheureux _(La Terre penche_) convoque des temporalités différentes qui s'entrechoquent comme autant de possibilités de rencontres. Un film qui mêle lyrisme et comédie, réalisme et fantastique. Il est accompagné dans ce programme de _Hill of Freedom_ de Hong Sang-soo, comme un écho poétique et saisissant.**
+
+[146505]  
+**80 000 ans**  
+de Christelle Lheureux  
+France / 2020 / 28 min / DCP  
+Avec Laetitia Spigarelli, Aurélien Gabrielli, Andy Gillet.  
+C'est l'été en Normandie. Céline passe un week-end dans sa maison d'enfance à l'occasion d'un chantier de fouille. Ses recherches archéologiques se mêlent à des retrouvailles plus ou moins probables au fil de ses promenades.  
+suivi de  
+[127338]  
+**Hill of freedom**  
+**(Ja-yu-eui eon-deok)**  
+de Sang-soo Hong  
+Corée / 2014 / 66 min / VOSTF / DCP  
+Avec Ryo Kase, So-ri Moon, Young-hwa Seo.  
+Mori, un jeune japonais, se rend à Séoul afin de retrouver la femme qu'il aime. Mais celle-ci est absente. Attendant son retour, il s'installe dans dans une chambre d'hôtes et y fait différentes rencontres.
+
+- lu 22 fév 19h00 JE  
+Séance suivie d'une discussion avec Christelle Lheureux
 
 ## Les rélévations d'Émergence 2021
 
