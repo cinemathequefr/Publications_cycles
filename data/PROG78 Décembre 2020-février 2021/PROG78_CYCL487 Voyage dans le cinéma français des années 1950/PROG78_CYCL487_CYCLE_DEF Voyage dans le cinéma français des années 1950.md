@@ -114,15 +114,6 @@ De retour de la guerre, Marceau se souvient de son passé. Tombé entre les grif
 
 - sa 12 déc 20h30 JE
 
-[46416]  
-**L'Homme et l'enfant**  
-de Raoul André  
-France-Italie / 1956 / 35 mm  
-Avec Eddie Constantine, Juliette Greco, Folco Lulli.  
-Sur la Côte d'Azur, des adolescentes disparaissent. Un riche Américain, établi en France après la guerre, se charge de mener l'enquête.
-
-- je 7 jan 20h30 JE
-
 [48203]  
 **Horizons sans fin**  
 de Jean Dréville  
@@ -160,6 +151,15 @@ Avec Gérard Philipe, Suzanne Cloutier, Jean-Roger Caussimon.
 Michel a volé par amour pour Juliette. Emprisonné, il s'endort et rêve.
 
 - me 9 déc 20h30 JE
+
+[47685]  
+**Mademoiselle de La Ferté**  
+de Roger Dallier  
+France / 1949 / 98 min / 35 mm  
+Avec Jany Holt, Pierre Cressoy, Jean Servais.  
+Bafouée dans son amour pour Jacques de Saint-Selve, Anne de la Ferté se venge en empoisonnant sa veuve, puis son entourage.
+
+- je 7 jan 20h30 JE
 
 [52029]  
 **Monsieur Scrupule, gangster**  

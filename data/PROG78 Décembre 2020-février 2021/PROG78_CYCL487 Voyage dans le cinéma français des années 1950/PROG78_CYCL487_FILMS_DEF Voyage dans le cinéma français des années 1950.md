@@ -125,6 +125,13 @@ D'après la pièce _Juliette ou la Clé des songes_ de Georges Neveux.
 Avec Gérard Philipe, Suzanne Cloutier, Jean-Roger Caussimon.  
 Michel a volé par amour pour Juliette. Emprisonné, il s'endort et rêve.
 
+[47685]  
+**Mademoiselle de La Ferté**  
+de Roger Dallier  
+France / 1949  
+Avec Jany Holt, Pierre Cressoy, Jean Servais.  
+Bafouée dans son amour pour Jacques de Saint-Selve, Anne de la Ferté se venge en empoisonnant sa veuve, puis son entourage.
+
 [54410]  
 **Le Marchand de Venise**  
 de Pierre Billon  
