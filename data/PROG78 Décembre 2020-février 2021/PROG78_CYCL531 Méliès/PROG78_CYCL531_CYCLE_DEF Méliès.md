@@ -11,8 +11,7 @@ suivi de
 **Voyage dans la Lune**  
 de Georges Méliès  
 France / 1902 / 15 min / Numérique  
-D'après le roman _De la Terre à la Lune_ de Jules Verne.  
-D'après le roman _Les Premiers hommes dans la Lune_ de H.G. Wells.  
+D'après les romans _De la Terre à la Lune_ de Jules Verne et _Les Premiers hommes dans la Lune_ de H. G. Wells.  
 suivi de  
 [52462]  
 **La Fée Carabosse ou Le Poignard fatal**  
@@ -41,9 +40,9 @@ France / 1896
 
 ## Séance spectaculaire : Magie en clair-obscur
 
-\***\*Présentation** Une séance en deux temps (sélection de films d'inspiration magique sur support numérique et argentique, 1896-1908) et trois mouvements (interludes kaléidoscopiques inspirés de la magie Fin-de-siècle) autour de l'univers enchanteur de Georges Méliès. Deux fées électrifiées et leur magicien promettent un capharnaüm poétique de silhouettes incertaines et d'ombres profondes, neige japonaise et papillon d'or au détour de la silhouette familière d'un Méphisto de papier retrouvé – comme par hasard – dans les pages d'un carnet de croquis. **Programme** _Une séance de prestidigitation_ (1896, film chromolithographique) _Illusionniste fin de siècle_ (1899) _Escamotage d'une Dame chez Robert-Houdin_ (1896) Premier interlude _Les Cartes vivantes_ (1904) _L'Homme-orchestre_ (1900) _Pygmalion et Galathée_ (1898) _La Lune à un mètre_ (1898) _Le Roi du maquillage_ (1904) Second interlude _Le Menuet lilliputien_ (1904) _Le Fakir de Singapour_ (1908) _Spiritisme abracadabrant_ (1900) _La Chrysalide et le Papillon d'or_ (1900) Troisième interlude _La Lanterne magique_ (1903)\*\*
+**Une séance en deux temps (sélection de films d'inspiration magique sur support numérique et argentique, 1896-1908) et trois mouvements (interludes kaléidoscopiques inspirés de la magie fin-de-siècle) autour de l'univers enchanteur de Georges Méliès. Deux fées électrifiées et leur magicien promettent un capharnaüm poétique de silhouettes incertaines et d'ombres profondes, neige japonaise et papillon d'or au détour de la silhouette familière d'un Méphisto de papier retrouvé - comme par hasard - dans les pages d'un carnet de croquis. **Programme** _Une séance de prestidigitation_ (1896, film chromolithographique) _Illusionniste fin de siècle_ (1899) _Escamotage d'une Dame chez Robert-Houdin_ (1896) Premier interlude _Les Cartes vivantes_ (1904) _L'Homme-orchestre_ (1900) _Pygmalion et Galathée_ (1898) _La Lune à un mètre_ (1898) _Le Roi du maquillage_ (1904) Second interlude _Le Menuet lilliputien_ (1904) _Le Fakir de Singapour_ (1908) _Spiritisme abracadabrant_ (1900) _La Chrysalide et le Papillon d'or_ (1900) Troisième interlude _La Lanterne magique_ (1903)**
 
-**Accompagnement musical par Eduardo Raon (harpe et effets)Performance « Magie en clair-obscur » conçue et interprétée par Frédéric Tabet, assisté de Elena Selena et Emilie Cauquy.**
+**Accompagnement musical par Eduardo Raon (harpe et effets). Performance « magie en clair-obscur » conçue et interprétée par Frédéric Tabet, assisté d'Elena Selena et Émilie Cauquy.**
 
 **Remerciements à la direction du Patrimoine du Centre national du cinéma et de l'image animée (CNC).**
 
@@ -53,7 +52,7 @@ de Georges Méliès
 France / 1896  
 suivi de  
 [84852]  
-**L'Illusionniste fin de siècle = L'Impressionniste fin de siècle**  
+**L'Illusionniste fin de siècle**  
 de Georges Méliès  
 France / 1899  
 suivi de  
@@ -109,3 +108,4 @@ de Georges Méliès
 France / 1903
 
 - ve 22 jan 20h00 HL
+
