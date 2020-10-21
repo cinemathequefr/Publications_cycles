@@ -4,7 +4,7 @@
 
 [82271]  
 **L'Enfant qui voulait être un ours**  
-**(Drengen der ville vaere bjorn)**  
+**(Drengen der ville være bjørn)**  
 de Jannik Hastrup  
 Danemark-France / 2001 / 78 min / VF / 35 mm
 
@@ -40,6 +40,7 @@ de Merian C. Cooper, Ernest B. Schoedsack
 **(The Jungle Book)**  
 de Zoltan Korda  
 États-Unis / 1942 / 107 min / VOSTF / 35 mm  
+D'après le roman _Le Livre de la jungle_ de Rudyard Kipling.  
 Avec Sabu.
 
 - [6 ans] me 16 déc 15h00 HL
@@ -53,11 +54,11 @@ Suède / 1953 / 95 min / VF / DCP
 - [6 ans] me 6 jan 15h00 HL
 
 [32627]  
-**L'Impossible Monsieur Bébé**  
+**L'Impossible monsieur Bébé**  
 **(Bringing Up Baby)**  
 de Howard Hawks  
 États-Unis / 1937 / 101 min / VOSTF / 35 mm  
-D'après la nouvelle _Bringing up baby_ de Hagar Wilde.  
+D'après la nouvelle _Bringing Up Baby_ de Hagar Wilde.  
 Avec Katharine Hepburn, Cary Grant, Charles Ruggles.
 
 - [10 ans] di 10 jan 15h00 GF
@@ -83,11 +84,12 @@ Avec Asa Butterfield, Chloë Grace Moretz, Ben Kingsley.
 - [8 ans] di 17 jan 15h00 GF
 
 [33293]  
-**Voyage au centre de la terre**  
+**Voyage au centre de la Terre**  
 **(Journey to the Center of the Earth)**  
 de Henry Levin  
 États-Unis / 1959 / 132 min / VF / 35 mm  
-Avec James Mason, Arlene Dahl.
+D'après le roman _Voyage au centre de la Terre_ de Jules Verne  
+Avec James Mason, Pat Boone, Diane Baker.
 
 - [8 ans] me 27 jan 15h00 GF
 
@@ -95,7 +97,7 @@ Avec James Mason, Arlene Dahl.
 **La Belle et la bête**  
 de Jean Cocteau  
 France / 1945 / 100 min / 35 mm  
-D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.  
+D'après le conte _La Belle et la bête_ de Jeanne-Marie Leprince de Beaumont.  
 Avec Josette Day, Jean Marais, Marcel André.
 
 - [6 ans] di 31 jan 15h00 GF
@@ -121,7 +123,7 @@ Avec Dominique Abel, Fiona Gordon, Philippe Martz, Bruno Romy.
 **Mary Poppins**  
 de Robert Stevenson  
 États-Unis / 1963 / 140 min / VF / DCP  
-D'après la série de romans _Mary Poppins_ de P.L. Travers.  
+D'après le roman _Mary Poppins_ de Pamela L. Travers.  
 Avec Julie Andrews, Dick Van Dyke, David Tomlinson.
 
 - [4 ans] me 10 fév 15h00 HL
@@ -176,32 +178,33 @@ Projection spéciale
 
 [40563]  
 **Voyage dans la préhistoire**  
-**(Cesta do praveku)**  
+**(Cesta do pravěku)**  
 de Karel Zeman  
-Tchécoslovaquie / 1955 / 88 min / VOSTF / DCP
+Tchécoslovaquie / 1955 / 88 min / VOSTF / DCP  
+Avec Petr Herrmann, Vladimír Bejval, Josef Lukáš.
 
 - [8 ans] di 14 fév 15h00 GF
 
 [40513]  
 **L'Invention diabolique**  
-**(Vynalez zkazy)**  
+**(Vynález zkázy)**  
 de Karel Zeman  
 Tchécoslovaquie / 1958 / 85 min / VF / DCP  
-Avec Lubor Tokos, Jana Zatloukalová.
+Avec Lubor Tokoš, Jana Zatloukalová, Arnošt Navrátil.
 
 - [6 ans] me 17 fév 15h00 GF
 
 [45410]  
 **Le Baron de Crac**  
-**(Baron Prasil)**  
+**(Baron Prášil)**  
 de Karel Zeman  
 Tchécoslovaquie / 1961 / 83 min / VOSTF / DCP
 
 - [10 ans] di 21 fév 15h00 GF
 
 [65867]  
-**L'Arche de M. Servadac**  
-**(Na komete)**  
+**L'Arche de monsieur Servadac**  
+**(Na kometě)**  
 de Karel Zeman  
 Tchécoslovaquie / 1970 / 76 min / VF / DCP
 
@@ -209,11 +212,11 @@ Tchécoslovaquie / 1970 / 76 min / VF / DCP
 
 [73569]  
 **Le Dirigeable volé**  
-**(Ukradena vzducholod)**  
+**(Ukradená vzducholoď)**  
 de Karel Zeman  
 Tchécoslovaquie / 1966 / 85 min / VF / DCP  
 D'après le roman _Deux ans de vacances_ de Jules Verne.  
-Avec Michal Pospisil, Hanus Bor, Jan Cisek, Josef Stranik.
+Avec Michael Pospíšil, Hanuš Bor, Jan Čížek, Josef Stráník.
 
 - [8 ans] di 28 fév 15h00 HL
 
