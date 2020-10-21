@@ -18,7 +18,7 @@ Ouverture de la rétrospective
 de Noah Baumbach  
 Grande-Bretagne-États-Unis / 2018 / 136 min / VOSTF / DCP  
 Avec Adam Driver, Scarlett Johansson, Laura Dern.  
-Un metteur en scène et sa femme, comédienne, se débattent dans un divorce exténuant qui les pousse à des extrêmes.
+Un metteur en scène et sa femme, comédienne, se débattent dans un divorce exténuant.
 
 - je 3 déc 16h30 HL
 
@@ -28,7 +28,7 @@ Un metteur en scène et sa femme, comédienne, se débattent dans un divorce ext
 d'Ethan Coen, Joel Coen  
 États-Unis / 2017 / 133 min / VOSTF / DCP  
 Avec James Franco, Tim Blake Nelson.  
-Six fables sur la conquête de l'Ouest, mythe américain par excellence.
+Six fables sur la conquête de l'Ouest.
 
 - je 3 déc 19h30 HL
 
@@ -57,7 +57,7 @@ Quatre vétérans afro-américains retournent au Vietnam plusieurs décennies ap
 de Joon-ho Bong  
 États-Unis-Corée / 2016 / 118 min / VOSTF / DCP  
 Avec Tilda Swinton, Sheena Kamal, Michael Mitton.  
-Des militants de la cause animale, une entreprise cupide et des scientifiques occupés d'éthique s'arrachent une gentille créature géante élevée par une jeune fille.
+Des militants de la cause animale, une entreprise cupide et des scientifiques s'arrachent une innocente créature géante, élevée par une jeune fille.
 
 - sa 5 déc 14h30 HL
 
@@ -72,13 +72,13 @@ Le tueur à gages Frank Sheeran évoque des secrets qui remontent à l'époque o
 - sa 5 déc 17h30 HL
 
 [143292]  
-**The Laundromat : L'affaire des Panama Papers**  
+**The Laundromat : L'Affaire des Panama Papers**  
 **(The Laundromat)**  
 de Steven Soderbergh  
 États-Unis / 2018 / 95 min / VOSTF  
 D'après l'ouvrage _The Laundromat: Inside the Panama Papers Investigation of Illicit Money Networks and the Global Elite_ de Jake Bernstein.  
 Avec Gary Oldman, Antonio Banderas, Meryl Streep.  
-Après s'être fait extorquer l'argent de son assurance, une veuve en colère enquête jusqu'au Panama, où deux avocats rusés dissimulent de l'argent pour les super riches.
+Après s'être fait extorquer l'argent de son assurance, une veuve en colère enquête jusqu'au Panama, où deux avocats rusés gèrent des comptes offshore grâce à de savants montages financiers.
 
 - sa 5 déc 21h30 HL
 
@@ -88,7 +88,7 @@ d'Alex Garland
 États-Unis-Grande-Bretagne / 2016 / 115 min / VOSTF / DCP  
 D'après le roman _Annihilation_ de Jeff VanderMeer.  
 Avec Natalie Portman, Jennifer Jason Leigh, Gina Rodriguez.  
-Lorsque son mari disparaît au cours d'une mission secrète, une biologiste se joint à une expédition dans une région mystérieuse, bouclée par le gouvernement américain.
+Lorsque son mari disparaît au cours d'une mission secrète, une biologiste se joint à une expédition de sauvetage dans une région mystérieuse, bouclée par le gouvernement américain.
 
 - di 6 déc 18h45 HL
 
@@ -97,7 +97,7 @@ Lorsque son mari disparaît au cours d'une mission secrète, une biologiste se j
 d'Alfonso Cuarón  
 États-Unis / 2017 / 135 min / VOSTF / DCP  
 Avec Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey.  
-Chronique d'une année tumultueuse dans la vie d'une famille de la classe moyenne à Mexico au début des années 1970.
+Chronique d'une année tumultueuse dans la vie d'une famille de la classe moyenne à Mexico, au début des années 1970.
 
 - di 6 déc 21h15 HL
 
