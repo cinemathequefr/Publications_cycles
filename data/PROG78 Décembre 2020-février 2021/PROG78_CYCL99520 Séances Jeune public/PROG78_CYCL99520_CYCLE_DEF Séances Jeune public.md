@@ -4,7 +4,7 @@
 
 [82271]  
 **L'Enfant qui voulait être un ours**  
-**(Drengen der ville vaere bjorn)**  
+**(Drengen der ville være bjørn)**  
 de Jannik Hastrup  
 Danemark-France / 2001 / 78 min / VF / 35 mm  
 [JP] Un petit d'homme, élevé par une maman ourse pleine d'amour, devient peu à peu un vrai ours. Mais lorsque ses parents naturels le retrouvent enfin, l'enfant doit choisir sa véritable famille.
@@ -17,7 +17,7 @@ Danemark-France / 2001 / 78 min / VF / 35 mm
 de Lorenzo Mattotti  
 Italie-France / 2018 / 90 min / DCP  
 D'après le roman _La Famosa invasione degli orsi in Sicilia_ de Dino Buzzati.  
-[JP] Le Roi Léonce, qui se morfond depuis que son fils Tonio a été enlevé par les hommes, entraîne à sa recherche toute son armée d'ours. Sur sa route se dresseront de nombreuses embûches dont il devra triompher aussi bien par la force que par la ruse.
+[JP] Le roi Léonce, qui se morfond depuis que son fils Tonio a été enlevé par les hommes, entraîne à sa recherche toute son armée d'ours. Sur sa route se dresseront de nombreuses embûches dont il devra triompher aussi bien par la force que par la ruse.
 
 - [8 ans] di 6 déc 15h00 GF
 
@@ -45,6 +45,7 @@ Accompagnement musical par Ignacio Plaza et Sélène Saint-Aimé
 **(The Jungle Book)**  
 de Zoltan Korda  
 États-Unis / 1942 / 107 min / VOSTF / 35 mm  
+D'après le roman _Le Livre de la jungle_ de Rudyard Kipling.  
 Avec Sabu.  
 [JP] Vous connaissez déjà le petit d'homme, Mowgli, élevé par les loups au milieu de la jungle ? Nous le retrouvons adolescent, dans un petit village, au moment où une nouvelle aventure l'entraîne à la rencontre de ses amis, les animaux sauvages.
 
@@ -60,11 +61,11 @@ Suède / 1953 / 95 min / VF / DCP
 - [6 ans] me 6 jan 15h00 HL
 
 [32627]  
-**L'Impossible Monsieur Bébé**  
+**L'Impossible monsieur Bébé**  
 **(Bringing Up Baby)**  
 de Howard Hawks  
 États-Unis / 1937 / 101 min / VOSTF / 35 mm  
-D'après la nouvelle _Bringing up baby_ de Hagar Wilde.  
+D'après la nouvelle _Bringing Up Baby_ de Hagar Wilde.  
 Avec Katharine Hepburn, Cary Grant, Charles Ruggles.  
 [JP] Monsieur Bébé, c'est un bien joli nom pour un léopard apprivoisé. Mais s'agit-il bien d'un gentil animal et non d'un dangereux prédateur tout juste échappé d'un cirque en tournée ? Cette histoire entraîne un sérieux paléontologue dans bien des péripéties, aux côtés de la charmante et joyeusement farfelue Susan.
 
@@ -135,12 +136,13 @@ Projection spéciale
 - [6 ans] di 24 jan 15h00 HL
 
 [33293]  
-**Voyage au centre de la terre**  
+**Voyage au centre de la Terre**  
 **(Journey to the Center of the Earth)**  
 de Henry Levin  
 États-Unis / 1959 / 132 min / VF / 35 mm  
-Avec James Mason, Arlene Dahl.  
-[JP] Plus on s'enfonce dans le ventre de la terre et plus on fait d'étranges rencontres, des monstres préhistoriques, une île engloutie... Mais comment revenir à la surface ? Des champignons géants tout droit sortis d'un film de Méliès poussent aussi dans ce film inspiré de Jules Verne.
+D'après le roman _Voyage au centre de la Terre_ de Jules Verne  
+Avec James Mason, Pat Boone, Diane Baker.  
+[JP] Plus on s'enfonce dans le ventre de la Terre et plus on fait d'étranges rencontres : des monstres préhistoriques, une île engloutie... Mais comment revenir à la surface ? Des champignons géants tout droit sortis d'un film de Méliès poussent aussi dans ce film inspiré de Jules Verne.
 
 - [8 ans] me 27 jan 15h00 GF
 
@@ -148,7 +150,7 @@ Avec James Mason, Arlene Dahl.
 **La Belle et la bête**  
 de Jean Cocteau  
 France / 1945 / 100 min / 35 mm  
-D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.  
+D'après le conte _La Belle et la bête_ de Jeanne-Marie Leprince de Beaumont.  
 Avec Josette Day, Jean Marais, Marcel André.  
 [JP] Des portes qui s'ouvrent toutes seules, des bras qui tiennent des candélabres, de longs couloirs où souffle la magie, la Belle est bien perdue dans le château de la Bête. Un conte de fées qui explore de poétiques trucages de cinéma, jouant avec les ralentis, les décors et les ombres.
 
@@ -169,7 +171,7 @@ Avec Barret Oliver, Tami Stronach, Patricia Hayes.
 de Dominique Abel, Fiona Gordon, Bruno Romy  
 France-Belgique / 2010 / 93 min / DCP  
 Avec Dominique Abel, Fiona Gordon, Philippe Martz, Bruno Romy.  
-[JP] « Je suis une fée, vous avez le droit à trois vœux », voici comment débutent les aventures rocambolesques de Dom, gardien de nuit dans un hôtel, et de Fiona, la Fée qui trouve que le monde moderne manque de fantaisie.
+[JP] « Je suis une fée, vous avez droit à trois vœux ! » : voici comment débutent les aventures rocambolesques de Dom, gardien de nuit dans un hôtel, et de Fiona, la fée qui trouve que le monde moderne manque de fantaisie.
 
 - [8 ans] di 7 fév 15h00 GF
 
@@ -177,7 +179,7 @@ Avec Dominique Abel, Fiona Gordon, Philippe Martz, Bruno Romy.
 **Mary Poppins**  
 de Robert Stevenson  
 États-Unis / 1963 / 140 min / VF / DCP  
-D'après la série de romans _Mary Poppins_ de P.L. Travers.  
+D'après le roman _Mary Poppins_ de Pamela L. Travers.  
 Avec Julie Andrews, Dick Van Dyke, David Tomlinson.  
 [JP] La vie de deux enfants un peu trop sages est bousculée par l'arrivée d'une nouvelle gouvernante farfelue, Mary Poppins. Sa valise ressemble un peu à celle de Méliès : comme lui, elle peut en extirper tout un mobilier et bien d'autres surprises !
 
@@ -185,35 +187,36 @@ Avec Julie Andrews, Dick Van Dyke, David Tomlinson.
 
 [40563]  
 **Voyage dans la préhistoire**  
-**(Cesta do praveku)**  
+**(Cesta do pravěku)**  
 de Karel Zeman  
 Tchécoslovaquie / 1955 / 88 min / VOSTF / DCP  
-[JP] Le petit Georges, qui rêve de rencontrer des dinosaures, se lance avec ses trois meilleurs amis dans un incroyable voyage, qui les ramène à l'ère jurassique ! Pour faire revivre les dinosaures, Karel Zeman mêle techniques du cinéma d'animation et prises de vues réelles des acteurs.
+Avec Petr Herrmann, Vladimír Bejval, Josef Lukáš.  
+[JP] Le petit Georges, qui rêve de rencontrer des dinosaures, se lance avec ses trois meilleurs amis dans un incroyable voyage, qui les ramène à l'ère jurassique ! Pour faire revivre les dinosaures, Karel Zeman mêle techniques du cinéma d'animation et prises de vue réelles des acteurs.
 
 - [8 ans] di 14 fév 15h00 GF
 
 [40513]  
 **L'Invention diabolique**  
-**(Vynalez zkazy)**  
+**(Vynález zkázy)**  
 de Karel Zeman  
 Tchécoslovaquie / 1958 / 85 min / VF / DCP  
-Avec Lubor Tokos, Jana Zatloukalová.  
+Avec Lubor Tokoš, Jana Zatloukalová, Arnošt Navrátil.  
 [JP] Simon Hart et le professeur Roch sont deux chercheurs brillants et imaginatifs. Ils sont enlevés par le terrible comte Artigas, qui veut utiliser leur dernière invention : un explosif particulièrement dangereux et destructeur. Pour adapter ce roman peu connu, Karel Zeman s'inspire des gravures qui illustrent les livres de Jules Verne.
 
 - [6 ans] me 17 fév 15h00 GF
 
 [45410]  
 **Le Baron de Crac**  
-**(Baron Prasil)**  
+**(Baron Prášil)**  
 de Karel Zeman  
 Tchécoslovaquie / 1961 / 83 min / VOSTF / DCP  
-[JP] Quand le baron de Crac arrive sur la Lune, il y retrouve des aventuriers, des explorateurs, des rêveurs, qui ont chacun tenté de s'élancer vers cet astre fascinant en empruntant toutes sortes de machines plus ou moins fantaisistes. Va-t-il rencontrer un Sélénite, resté là depuis le Voyage sur la Lune de Georges Méliès ?
+[JP] Quand le baron de Crac arrive sur la Lune, il y retrouve des aventuriers, des explorateurs, des rêveurs, qui ont chacun tenté de s'élancer vers cet astre fascinant en empruntant toutes sortes de machines plus ou moins fantaisistes. Va-t-il rencontrer un Sélénite, resté là depuis le _Voyage sur la Lune_ de Georges Méliès ?
 
 - [10 ans] di 21 fév 15h00 GF
 
 [65867]  
-**L'Arche de M. Servadac**  
-**(Na komete)**  
+**L'Arche de monsieur Servadac**  
+**(Na kometě)**  
 de Karel Zeman  
 Tchécoslovaquie / 1970 / 76 min / VF / DCP  
 [JP] En 1888, la Terre entre en collision avec une comète qui arrache sur son passage un morceau du continent africain et le propulse dans l'espace. Au cours de ce voyage forcé, Hector Servadac, jeune capitaine de l'armée française, tente de convaincre les ennemis d'hier de s'allier contre les dangers célestes qui les guettent. Alors que ce petit monde s'organise, une horde de dinosaures surgit du désert.
@@ -222,12 +225,12 @@ Tchécoslovaquie / 1970 / 76 min / VF / DCP
 
 [73569]  
 **Le Dirigeable volé**  
-**(Ukradena vzducholod)**  
+**(Ukradená vzducholoď)**  
 de Karel Zeman  
 Tchécoslovaquie / 1966 / 85 min / VF / DCP  
 D'après le roman _Deux ans de vacances_ de Jules Verne.  
-Avec Michal Pospisil, Hanus Bor, Jan Cisek, Josef Stranik.  
-[JP] Cinq jeunes garçons se glissent dans la nacelle d'un dirigeable et se laissent emporter dans les airs à la découverte du vaste monde. Mais bientôt l'aéronef se dégonfle et les voilà contraints d'expérimenter toutes sortes de moyens de transports : vélomoteur, voiture à cheval, dirigeable à voile ou encore sous-marin.
+Avec Michael Pospíšil, Hanuš Bor, Jan Čížek, Josef Stráník.  
+[JP] Cinq jeunes garçons se glissent dans la nacelle d'un dirigeable et se laissent emporter dans les airs à la découverte du vaste monde. Mais bientôt l'aéronef se dégonfle, et les voilà contraints d'expérimenter toutes sortes de moyens de transports : vélomoteur, voiture à cheval, dirigeable à voile ou encore sous-marin.
 
 - [8 ans] di 28 fév 15h00 HL
 
