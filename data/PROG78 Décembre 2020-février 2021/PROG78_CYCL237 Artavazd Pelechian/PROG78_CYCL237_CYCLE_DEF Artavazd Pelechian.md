@@ -20,7 +20,7 @@ URSS / 1964 / 10 min / Numérique
 suivi de  
 [74686]  
 **Au début**  
-**(Natchalo)**  
+**(Skizby)**  
 d'Artavazd Pelechian  
 URSS / 1967 / 9 min / 35 mm  
 Essai questionnant, cinquante ans après, l'influence de la révolution d'Octobre sur le XX<sup>e</sup> siècle.  
@@ -36,14 +36,14 @@ Alternance d'images où les regards succèdent aux visages, montrant le peuple a
 
 [127967]  
 **La Terre des hommes**  
-**(Zemlia lioudeï)**  
+**(Mardkanc yerkiry)**  
 d'Artavazd Pelechian  
 URSS / 1966 / 10 min / Numérique  
 L'être humain et ses réalisations techniques, source de pouvoir et d'enfermement.  
 suivi de  
 [117857]  
 **Les Habitants**  
-**(Obitateli)**  
+**(Bnikner)**  
 d'Artavazd Pelechian  
 URSS / 1970 / 10 min / DCP  
 Une volée d'oiseaux, des bruits de fusils : les relations entre la nature et l'humain sont questionnées en un vibrant poème cinématographique.  
@@ -59,14 +59,14 @@ Au fil des saisons, agriculteurs et bergers des montagnes arméniennes prennent 
 
 [74720]  
 **Notre siècle**  
-**(Nach vek)**  
+**(Mer dary)**  
 d'Artavazd Pelechian  
 URSS / 1982 / 50 min / 35 mm  
 Méditation sur la conquête de l'espace, les mises à feu qui ne vont nulle part, le rêve d'Icare encapsulé par les Russes et les Américains, le visage des cosmonautes déformés par l'accélération, la catastrophe imminente.  
 suivi de  
 [74712]  
 **Fin**  
-**(Verj)**  
+**(Verjy)**  
 d'Artavazd Pelechian  
 Arménie / 1992 / 8 min / DCP  
 Dans un mouvement contemplatif, des visages de voyageurs du train Moscou-Erevan se diluent par le montage, se mêlant aux paysages qui filent derrière les vitres.  

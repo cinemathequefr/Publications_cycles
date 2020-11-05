@@ -8,15 +8,15 @@ Artavazd Pelechian a réalisé une œuvre unique parce qu'il pense la fabricatio
 
 [74686]  
 **Au début**  
-**(Natchalo)**  
-**(Начало)**  
+**(Skizby)**  
+**(Սկիզբը)**  
 d'Artavazd Pelechian  
 URSS / 1967  
 Essai questionnant, cinquante ans après, l'influence de la révolution d'Octobre sur le XX<sup>e</sup> siècle.
 
 [74712]  
 **Fin**  
-**(Verj)**  
+**(Verjy)**  
 **(Վերջը)**  
 d'Artavazd Pelechian  
 Arménie / 1992  
@@ -24,8 +24,8 @@ Dans un mouvement contemplatif, des visages de voyageurs du train Moscou-Erevan 
 
 [117857]  
 **Les Habitants**  
-**(Obitateli)**  
-**(Обитатели)**  
+**(Bnikner)**  
+**(Բնիկներ)**  
 d'Artavazd Pelechian  
 URSS / 1970  
 Une volée d'oiseaux, des bruits de fusils : les relations entre la nature et l'humain sont questionnées en un vibrant poème cinématographique.
@@ -38,8 +38,8 @@ La précaire cohabitation des communautés humaines avec leur environnement, à 
 
 [74720]  
 **Notre siècle**  
-**(Nach vek)**  
-**(Наш век)**  
+**(Mer dary)**  
+**(Մեր դարը)**  
 d'Artavazd Pelechian  
 URSS / 1982  
 Méditation sur la conquête de l'espace, les mises à feu qui ne vont nulle part, le rêve d'Icare encapsulé par les Russes et les Américains, le visage des cosmonautes déformés par l'accélération, la catastrophe imminente.
@@ -77,8 +77,8 @@ Portrait du cinéaste arménien Artavazd Pelechian, poète du cinéma soviétiqu
 
 [127967]  
 **La Terre des hommes**  
-**(Zemlia lioudeï)**  
-**(Земля людей)**  
+**(Mardkanc yerkiry)**  
+**(Մարդկանց երկիրը)**  
 d'Artavazd Pelechian  
 URSS / 1966  
 L'être humain et ses réalisations techniques, source de pouvoir et d'enfermement.
