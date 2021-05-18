@@ -1,0 +1,87 @@
+{
+  "header": {
+    "idCycleProg": 555,
+    "titreCycle": "Wang Bing",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          2455
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 92
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "textes": [],
+      "items": [
+        {
+          "idFilm": 102104,
+          "titre": "Etat du monde",
+          "art": "L'",
+          "titreVo": "Estado do mundo",
+          "artVo": "O",
+          "realisateurs": "Apichatpong Weerasethakul, Vicente Ferraz, Bing Wang, [etc.]",
+          "annee": 2006,
+          "pays": "Portugal",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film à sketches, _Brutality Factory_ segment réalisé par Wang Bing (16') La Chine moderne. Par une belle journée ensoleillée, un immeuble industriel est détruit. La nuit tombe. Les ruines de l'usine sont vides et silencieuses. Les fantômes apparaissent, des voix s'élèvent et racontent leur histoire..."
+            }
+          ],
+          "duree": 105,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 41818,
+              "ordre": 1,
+              "idEvenement": 24056,
+              "dateHeure": "2021-06-23T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 102030,
+          "titre": "Fengming, chronique d'une femme chinoise",
+          "titreVo": "He Fengming",
+          "realisateurs": "Bing Wang",
+          "annee": 2006,
+          "pays": "Chine",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'hiver en Chine. Une ville enneigée. Le jour tombe. Enveloppée dans son manteau, une femme s'avance lentement. Elle traverse une cité puis rentre dans son modeste appartement. Fengming s'installe au creux du fauteuil de son salon. Elle se rappelle. Ses souvenirs nous ramènent aux débuts, en 1949. Commence alors la traversée de plus de 30 ans de sa vie et de cette nouvelle Chine..."
+            }
+          ],
+          "duree": 186,
+          "format": "DCP",
+          "version": "VOSTF",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 41819,
+              "ordre": 1,
+              "idEvenement": 23874,
+              "dateHeure": "2021-06-23T18:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
