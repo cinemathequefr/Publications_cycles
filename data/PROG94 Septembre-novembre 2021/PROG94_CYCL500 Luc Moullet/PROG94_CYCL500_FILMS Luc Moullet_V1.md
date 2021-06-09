@@ -26,8 +26,6 @@ de Luc Moullet
 France / 1998  
 La réaction du plus célèbre des alpinistes, le jour où sa femme meurt sur un sentier très facile.
 
-Sous réserve.
-
 [149927]  
 **Balance et cécité**  
 de Luc Moullet  
@@ -69,7 +67,7 @@ Dans les ruines romaines, une Française qui ne comprend pas l'italien et un Ita
 **Catherine Breillat, la première fois**  
 de Luc Moullet  
 France / 2012  
-À travers une longue interview de Catherine Breillat, mais aussi en laissant parler ceux qui l'entourent, et travaillent avec elle, Luc Moullet cherchera à percer les mystères de son cinéma.
+À travers une longue interview de Catherine Breillat, mais aussi en laissant parler ceux qui l'entourent, sa monteuse, son chef opérateur, certains de ses acteurs, et, enfin en montrant quelques extraits de films, Luc Moullet cherchera à percer les mystères de son cinéma.
 
 [131933]  
 **Chef-d'œuvre ?**  
@@ -79,7 +77,7 @@ Un chef-d'œuvre n'est pas une notion d'actualité puisqu'il faut toujours un gr
 
 [50365]*  
 **La Comédie du travail**  
-de Luc Moullet  
+de Hassan Ezzedine, Luc Moullet, Antonietta Pizzorno  
 France / 1987  
 Avec Roland Blanche, Sabine Haudepin, Henri Déus.  
 Françoise Duru, employée d'une agence pour l'emploi, est secrètement amoureuse de l'un de ses visiteurs. Elle tentera de le placer dans l'agence, sans tenir compte des envies de celui-ci.
@@ -111,7 +109,7 @@ Comment ouvrir une bouteille de Coca-Cola lorsque la capsule résiste.
 **Le Fantôme de Longstaff**  
 de Luc Moullet  
 France / 1996  
-Un riche anglais qui va mourir de phtisie, Reginald Longstaff, rencontre en 1880 sur une plage normande une jeune américaine, Diane, fort jolie. Il tombe amoureux d'elle et lui fait demander de venir à son chevet sur son lit de mort...
+Un riche anglais qui va mourir de phtisie, Reginald Longstaff, rencontre en 1880 sur une plage normande une jeune américaine, Diane, fort jolie. Il tombe amoureux d'elle et n'ose lui adresser la parole. Mais, par l'entremise de la dame de compagnie de Diane, il lui fait demander de venir à son chevet sur son lit de mort...
 
 [149876]  
 **Film sans titre – La Maison de production**  
@@ -133,11 +131,6 @@ Luc Moullet s'interroge sur l'origine des aliments qu'il mange et décide d'enqu
 
 > (Site) Luc Moullet s'interroge sur l'origine des aliments qu'il mange et décide d'enquêter en remontant la chaîne de la consommation à la production.
 
-[150070]  
-**Grand Guignol**  
-de Vincent Le Port  
-France / 2008
-
 [74348]  
 **Les Havres**  
 de Luc Moullet  
@@ -155,7 +148,7 @@ Depuis ses débuts cinématographiques, en 1960, Luc Moullet n'a jamais cessé d
 **Imphy, capitale de la France**  
 de Luc Moullet  
 France / 1994  
-Pour résoudre les graves problèmes nés de la concentration de population autour de Paris, une équipe de cinéastes part à la recherche d'une nouvelle capitale...
+Pour résoudre les graves problèmes nés de la concentration de population autour de Paris, une équipe de cinéastes part à la recherche d'une nouvelle capitale... Au terme d'une longue pérégrination, réussiront-ils à trouver une capitale ? Quel sera leur choix ?
 
 [83260]  
 **Introduction**  
@@ -241,7 +234,7 @@ Un rallye cycliste consiste en l'ascension du col du Parpaillon, dans la Haute-U
 de Luc Moullet  
 France / 2005  
 Avec Luc Moullet, Antonietta Pizzorno, Claire Bouanich.  
-Luc Moullet part dans le sud de la France pour faire les repérages de son prochain film dont il n'a pas encore trouvé le financement. Au cours de ses déplacements en montagne, il découvre un cadavre.
+Luc Moullet part dans le sud de la France pour faire les repérages de son prochain film dont il n'a pas encore trouvé le financement. Au cours de ses déplacements en montagne, il découvre un cadavre. Il décide de troquer son passeport contre celui du défunt afin que le scoop de sa mort lui permette de mieux diffuser ses œuvres et de financer ainsi son prochain film. Cependant, il ne s'agissait pas de n'importe quel cadavre...
 
 [149928]  
 **Quelques gouttes en plus**  
@@ -284,7 +277,7 @@ Partant du constat de n'être pas « quelqu'un de très normal », Luc Moullet e
 de Luc Moullet  
 France / 1961  
 Avec Luc Moullet, Françoise Vatel.  
-Ce deuxième court métrage de Luc Moullet explore deux villages, Mantet dans les Pyrénées et Mariaud dans les Alpes, qui, faute de route, ont en quelque sorte disparu du monde.
+Ce deuxième court métrage de Luc Moullet explore deux villages, Mantet dans les Pyrénées et Mariaud dans les Alpes, qui, faute de route, ont en quelque sorte disparu du monde. Parodie ethnographique, Terres noires est une première démonstration brillante du travail de distanciation du cinéaste.
 
 [131934]  
 **Toujours moins**  
@@ -310,17 +303,17 @@ Livrés à eux-mêmes, un frère et une sœur se disputent un repas frugal prép
 de Luc Moullet  
 France / 1970  
 Avec Jean-Pierre Léaud, Rachel Kesterber, Jean Valmont.  
-Après avoir réussi seul le hold-up de la diligence de la Wells Fargo, Billy a bien du mal à transporter son butin. Il rencontre Ann qui a fui devant l'attaque des Cherokee.
+Après avoir réussi seul le hold-up de la diligence de la Wells Fargo, Billy a bien du mal à transporter son butin. Il rencontre Ann qui a fui devant l'attaque des Cherokee. Un western burlesque et amoureux qui, de vengeances en courses-poursuites, nous ramène à un premier plan pour le moins curieux...
 
 [74338]  
 **La Valse des médias**  
 de Luc Moullet  
 France / 1987  
-Etude sur l'évolution des bibliothèques publiques et les nouvelles prestations qu'elles offrent.
+Etude sur l'évolution des bibliothèques publiques et les nouvelles prestations qu'elles offrent. Les rats de bibliothèques sont de curieux animaux.
 
 [74354]  
 **Le Ventre de l'Amérique**  
 de Luc Moullet  
 France / 1995  
-Les États-Unis, ce n'est pas seulement New York, Frisco, Hollywood. Ce sont aussi les deux cents millions d'habitants de l'Amérique profonde. Et cette Amérique, représentée ici par la ville de Des Moines, Iowa, qu'est-ce qu'elle a dans le ventre ?
+Les États-Unis, ce n'est pas seulement New York, Frisco, Hollywood. Ce sont aussi les deux cents millions d'habitants de l'Amérique profonde. Et cette Amérique, représentée ici par la ville de Des Moines, Iowa, qu'est-ce qu'elle a dans le ventre ?Ventre est le mot clé dans cette capitale de l'obésité.
 
