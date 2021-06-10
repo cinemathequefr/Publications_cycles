@@ -21,6 +21,7 @@ Tomek, dix-neuf ans, espionne de la fenêtre de son appartement une jeune femme 
 **(Blizna)**  
 de Krzysztof Kieslowski  
 Pologne / 1976  
+Avec Franciszek Pieczka, Jerzy Stuhr, Mariusz Dmochowski.  
 Un grand complexe chimique doit être construit dans une petite ville. La réalisation du projet est confiée à Bednarz, qui a habité autrefois cette ville, où sa femme était très engagée politiquement.
 
 [72511]  
@@ -65,6 +66,7 @@ Un vieux médecin bourru rentre chez lui et trouve sur son palier une de ses voi
 **(Dekalog, trzy)**  
 de Krzysztof Kieslowski  
 Pologne / 1989  
+Avec Daniel Olbrychski, Maria Pakulnis.  
 Le soir de Noël, Janusz offre des cadeaux à ses enfants et à sa femme. Mais il a l'esprit ailleurs. Il a reconnu dans l'assistance de la messe de minuit son ancienne maîtresse, Ewa. Et voici qu'Ewa sonne à sa porte et lui demande de l'aider à retrouver son mari.
 
 [60698]  
@@ -72,6 +74,7 @@ Le soir de Noël, Janusz offre des cadeaux à ses enfants et à sa femme. Mais i
 **(Dekalog, cztery)**  
 de Krzysztof Kieslowski  
 Pologne / 1989  
+Avec Adrianna Biedrzynska, Janusz Gajos, Artur Barcis, Adam Hanuszkiewicz.  
 Michal et sa fille Anka vivent seuls depuis la mort de la mère d'Anka. L'un comme l'autre sentent bien qu'un sentiment plus troublant que l'amour filial les rapproche. Or, voici qu'une lettre posthume de la mère leur révèle qu'Anka n'est peut-être pas la fille de Michal.
 
 Le soir de Noël, Janusz offre des cadeaux à ses enfants et à sa femme. Mais il a l'esprit ailleurs. Il a reconnu dans l'assistance de la messe de minuit son ancienne maîtresse, Ewa. Et voici qu'Ewa sonne à sa porte et lui demande de l'aider à retrouver son mari.
@@ -133,6 +136,7 @@ Un gardien de nuit expérimenté développe un goût aigu pour la surveillance e
 **(Przypadek)**  
 de Krzysztof Kieslowski  
 Pologne / 1981  
+Avec Boguslaw Linda, Tadeusz Lomnicki.  
 A la mort de son père, Witek décide d'interrompre ses études de médecine. Il veut quitter Lodz et commencer une nouvelle vie. Il arrive sur le quai de la gare alors que le train s'ébranle. Witek s'élance en courant, sans savoir qu'à ce moment, sa vie peut prendre trois orientations radicalement différentes.
 
 [72512]  
@@ -161,6 +165,7 @@ Un homme profite d'un voyage à Varsovie avec ses élèves pour retrouver la fem
 **(Personel)**  
 de Krzysztof Kieslowski  
 Pologne / 1975  
+Avec Juliusz Machulski, Irena Lorentowicz, Wlodzimnierz Borunski.  
 Un jeune homme de dix-sept ans vient travailler dans l'atelier de costumes de l'Opéra. Alors qu'il rêve de héros magnifiques, ses idéaux artistiques et humains se trouvent confrontés à une réalité faite de rivalités et de coups bas.
 
 [68503]  
@@ -232,6 +237,7 @@ Deuxième volet de la trilogie Trois couleurs (Bleu/Blanc/Rouge) qui explore suc
 **Trois couleurs bleu**  
 de Krzysztof Kieslowski  
 France-Suisse-Pologne / 1992  
+Avec Juliette Binoche, Benoît Régent, Florence Pernel.  
 Premier volet de la trilogie Trois couleurs (Bleu/Blanc/Rouge) qui explore successivement les trois termes de la devise de la France : « Liberté, Égalité, Fraternité ».
 
 Julie se réveille à l'hôpital après un accident de voiture qui a coûté la vie à son mari, Patrice, un compositeur célèbre, et à sa fille, Anna. Elle fait une tentative de suicide. Bientôt, Julie décide de faire table rase du passé. Elle se débarrasse de sa maison et détruit la partition inachevée de Patrice.
@@ -240,6 +246,7 @@ Julie se réveille à l'hôpital après un accident de voiture qui a coûté la 
 **Trois couleurs rouge**  
 de Krzysztof Kieslowski  
 France-Suisse-Pologne / 1993  
+Avec Irène Jacob, Jean-Louis Trintignant, Frédérique Feder.  
 Troisième volet de la trilogie Trois couleurs (Bleu/Blanc/Rouge) qui explore successivement les trois termes de la devise de la France : « Liberté, Égalité, Fraternité ».
 
 Valentine, étudiante à Genève et mannequin à ses heures, passe son temps à attendre les appels téléphoniques de son petit ami, Michel, qui vit en Angleterre. Auguste, son voisin, épris de Karin, travaille d'arrache-pied pour devenir avocat. Un juge acariâtre à la retraite les à mis sur écoute pour s'occuper.
