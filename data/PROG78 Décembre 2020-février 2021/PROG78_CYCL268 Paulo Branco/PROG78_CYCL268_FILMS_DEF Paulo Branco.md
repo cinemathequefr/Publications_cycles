@@ -21,7 +21,7 @@ Adaptation radicale du texte de Robert Walser.
 de Hugo Vieira da Silva  
 Portugal / 2006  
 Avec Sylta Fee Wegmann, Alice Dwyer, Julika Jenkins.  
-Depuis 1980, des institutions allemandes envoient des adolescents dans le sud du Portugal dans le cadre de divers projets expérimentaux de rééducation sociale.
+Depuis 1980, des institutions allemandes envoient des adolescents dans le Sud du Portugal dans le cadre de divers projets expérimentaux de rééducation sociale.
 
 [69094]  
 **La Captive**  
@@ -241,4 +241,3 @@ Portugal-France-Suisse / 1992
 D'après le roman _Vale Abraão_ d'Agustina Bessa-Luís.  
 Avec Leonor Silveira, Luís Miguel Cintra, Cécile Sanz de Alba.  
 Dans la région du Douro, la jeune Ema épouse le docteur Carlos de Paiva, qu'elle n'aime pas.
-

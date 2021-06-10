@@ -63,11 +63,23 @@ France / 1999
 Avec Jean Lefebvre, Lydia Feld, Mike Marshall.  
 Le metteur en scène d'une pièce de boulevard intitulée _L'Œuf de Pâques_ se voit remettre un Molière. Il prend cette récompense pour une mauvaise blague, il pense à une cabale. Il décide d'y répondre en modifiant sa pièce.
 
+[145964]  
+**Jeanne Moreau**  
+de Jacques Rozier  
+France / 1972  
+Actualité cinématographique présentée par Jeanne Moreau suivie d'un dîner au Ritz avec Orson Welles. Le cinéaste s'exprime en français.
+
+[133772]  
+**Joséphine en tournée TV**  
+de Jacques Rozier  
+France / 1989  
+Une petite troupe sillonne le Languedoc. Elle donne des représentations d'opérettes ou des comédies de Molière.
+
 [116789]  
 **La Lettre de la Sierra Morena**  
 de Jacques Rozier  
 France / 1983  
-Avec Yves Afonso, Fabrice Luchini.  
+Avec Yves Afonso, Fabrice Luchini, Maurice Risch.  
 Deux aspirants réalisateurs de film s'opposent quant aux méthodes de travail :obtention ou non de l'avance sur recettes, moyens de tournage, choix des acteurs, etc.
 
 [55934]*  
@@ -77,7 +89,14 @@ France / 1985
 Avec Bernard Menez, Luis Rego, Yves Afonso.  
 Déjanira, une danseuse brésilienne, prend un train à Paris. N'ayant pas composté, elle se retrouve confrontée à deux contrôleurs pointilleux. Une avocate intervient et propose de faire l'interprète à bord du wagon Première classe du « Maine Océan ».
 
-> (Site) Dejanira, une danseuse brésilienne, prend un train en gare Montparnasse. N'ayant pas composté, elle se retrouve confrontée à deux contrôleurs pointilleux. Une avocate intervient et propose de faire l'interprète.
+> (Site) Dejanira, une danseuse brésilienne, prend un train en gare Montparnasse sans composter son billet. Lorsqu'elle est confrontée à deux contrôleurs pointilleux, une avocate intervient et se propose comme interprète.
+
+[145965]  
+**Marketing mix**  
+de Jacques Rozier  
+France / 1979  
+Avec Bernard Menez, Bernard Dumaine, Maurice Vallier.  
+Jean-Yves Maginot, jeune diplômé d'école de commerce, souhaite grimper les échelons au plus vite. Pour cela, il tente d'imposer une nouvelle méthode de stratégie de marché dans l'entreprise qui l'engage en tant qu'attaché commercial.
 
 [56895]*  
 **Les Naufragés de l'île de la Tortue**  
@@ -90,11 +109,39 @@ Restauration 4K par La Cinémathèque française et A17 au laboratoire Hiventy �
 
 > (Site) Deux employés d'une agence de voyages imaginent une formule touristique pour faire revivre l'expérience de Robinson Crusoé. Envoyés en repérages aux Antilles, ils voient débarquer un groupe de vacanciers.
 
+[146005]  
+**Ni figue, ni raisin de Corinthe**  
+de Jacques Rozier  
+France / 1965  
+Avec Dalida, Arlette Didier.  
+« La tentative de détournement de l'émission » Ni Figue Ni Raisin « continue de plus belle. (...) Le thème choisi : sur un plateau de télévision, une fantaisie mythologie, »Les Argonautes« , a des ratés en raison du caprice d'une interprète qui juge son rôle de proue du vaisseau Argo inintéressant. » Jacques Rozier
+
+[146003]  
+**Ni figue, ni raisin N°5**  
+de Jacques Rozier  
+France / 1965  
+Avec Pierre Richard.  
+Le concept de la série d'émission « Ni Figue Ni Raisin » consistait à étoffer des numéros chantés (de stars du showbiz venant présenter leurs nouveaux albums) par une trame narrative sommaire.
+
 [145831]  
 **Nono Nénesse**  
 de Jacques Rozier  
 France / 1976  
+Avec Bernard Menez.  
 Sur scène, Bernard Ménez, Jacques Villeret et Maurice Risch jouent le rôle de trois bébés.
+
+[146009]  
+**Oh, oh, oh, jolie tournée !**  
+de Jacques Rozier  
+France / 1984  
+Avec Bernard Menez.  
+Texte à saisir
+
+[146010]  
+**L'Opéra du roi**  
+de Jacques Rozier  
+France / 1989  
+Tourné en 1989 au Théâtre lyrique de Montpellier, le film dévoile les coulisses d'une représentation d' _Atys_ dirigée par William Christie (musique) et Francine Lancelot (chorégraphie).
 
 [63574]*  
 **Paparazzi**  
@@ -130,5 +177,6 @@ C'est la rentrée des classes dans un petit village du Var. René n'a pas fait s
 **Roméos et jupettes**  
 de Jacques Rozier  
 France / 1966  
+Avec Pierre Richard, Margareth Clementi.  
 Trois jeunes lectrices soumettent à une rédaction spécialisée leurs « problèmes sentimentaux »
 
