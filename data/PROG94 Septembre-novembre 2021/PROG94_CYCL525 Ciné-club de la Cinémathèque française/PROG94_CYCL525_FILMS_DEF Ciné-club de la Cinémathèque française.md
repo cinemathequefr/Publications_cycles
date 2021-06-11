@@ -7,7 +7,7 @@ France / 1959
 Avec Jean-Paul Belmondo, Jean Seberg, Henri-Jacques Huet, Jean-Pierre Melville.  
 À bord d'une voiture volée, Michel Poiccard abat un motard puis, à Paris, retrouve Patricia, une jeune Américaine dont il est amoureux.
 
-« J'ai documenté la fiction » (JLG)
+« J'ai documenté la fiction. » (JLG)
 
 [51603]  
 **Cléo de 5 à 7**  
