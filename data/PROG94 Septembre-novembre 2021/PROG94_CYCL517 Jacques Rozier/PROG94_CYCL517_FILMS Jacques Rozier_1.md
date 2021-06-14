@@ -63,36 +63,17 @@ France / 1999
 Avec Jean Lefebvre, Lydia Feld, Mike Marshall.  
 Le metteur en scène d'une pièce de boulevard intitulée _L'Œuf de Pâques_ se voit remettre un Molière. Il prend cette récompense pour une mauvaise blague, il pense à une cabale. Il décide d'y répondre en modifiant sa pièce.
 
-En 2001 Jacques Rozier présente à la Mostra de Venise Fifi Martingale. En 2010 et 2011, une autre version du film sera présentée dans quelques festivals en France (FID, La Roche-sur-Yon) et à Tokyo. C'est cette version qui est aujourd'hui restaurée et montrée.
-
 [145964]  
 **Jeanne Moreau**  
 de Jacques Rozier  
 France / 1972  
 Actualité cinématographique présentée par Jeanne Moreau suivie d'un dîner au Ritz avec Orson Welles. Le cinéaste s'exprime en français.
 
-[150141]  
-**Joséphine en tournée – Episode 1 TV**  
-de Jacques Rozier  
-France / 1989
-
-[150142]  
-**Joséphine en tournée – Episode 2 TV**  
-de Jacques Rozier  
-France / 1989
-
-[150143]  
-**Joséphine en tournée – Episode 3 TV**  
-de Jacques Rozier  
-France / 1989
-
-[150144]  
-**Joséphine en tournée – Episode 4 TV**  
+[133772]  
+**Joséphine en tournée TV**  
 de Jacques Rozier  
 France / 1989  
-Lily Strasberg, actrice de boulevard, qui triomphe dans « L'œuf de Pâques » avec le rôle de Joséphine, achève la saison avec sa 457ème représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.
-
-Version restaurée.
+Une petite troupe sillonne le Languedoc. Elle donne des représentations d'opérettes ou des comédies de Molière.
 
 [116789]  
 **La Lettre de la Sierra Morena**  
@@ -148,6 +129,13 @@ de Jacques Rozier
 France / 1976  
 Avec Bernard Menez.  
 Sur scène, Bernard Ménez, Jacques Villeret et Maurice Risch jouent le rôle de trois bébés.
+
+[146009]  
+**Oh, oh, oh, jolie tournée !**  
+de Jacques Rozier  
+France / 1984  
+Avec Bernard Menez.  
+Texte à saisir
 
 [146010]  
 **L'Opéra du roi**  
