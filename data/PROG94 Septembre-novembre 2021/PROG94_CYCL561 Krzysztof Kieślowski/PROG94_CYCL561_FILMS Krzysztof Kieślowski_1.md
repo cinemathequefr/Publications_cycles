@@ -176,8 +176,7 @@ Pologne / 1968
 Le cinéaste part à la recherche des deux protagonistes d'une photo de l'époque de la libération de la Pologne.
 
 [68514]  
-**Premier amour TV**  
-**(Pierwsza milosc TV)**  
+**Pierwsza milosc**  
 de Krzysztof Kieslowski  
 Pologne / 1974  
 Jadwiga, dix-sept ans, et Romek, vingt ans, attendent leur premier enfant. Ils cherchent un logement.
