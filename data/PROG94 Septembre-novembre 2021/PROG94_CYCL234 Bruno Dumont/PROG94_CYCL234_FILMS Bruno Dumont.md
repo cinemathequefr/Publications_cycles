@@ -41,6 +41,13 @@ France / 2005
 Avec Adélaïde Leroux, Samuel Boidin, Henri Cretel.  
 De nos jours, dans les Flandres, Demester et de jeunes gars du pays partent soldats dans un conflit lointain. Amoureux de la jeune Barbe, Demester supportait ses mœurs étranges et ses amants. Attendant les soldats, seule en Flandres, Barbe dépérit. Face à ce conflit, Demester se transforme en guerrier.
 
+[150118]  
+**France**  
+de Bruno Dumont  
+France / 2019  
+Avec Léa Seydoux, Blanche Gardin, Benjamin Biolay.  
+« France » est à la fois le portrait d'une femme, journaliste à la télévision, d'un pays, le nôtre, et d'un système, celui des médias.
+
 [109862]  
 **Hadewijch**  
 de Bruno Dumont  
