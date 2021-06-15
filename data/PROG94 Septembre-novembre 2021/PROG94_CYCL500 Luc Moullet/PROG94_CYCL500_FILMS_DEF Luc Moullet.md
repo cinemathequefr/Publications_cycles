@@ -11,7 +11,7 @@ Des habitants d'Orly évoquent les nuisances sonores provoquées par la proximit
 de Luc Moullet, Antonietta Pizzorno  
 France / 1975  
 Avec Luc Moullet, Christine Hébert, Antonietta Pizzorno.  
-Un cinéaste et une enseignante analysent la difficulté de leurs rapports de couple. La prise de conscience féministe de la jeune femme va modifier leur relation.
+Un cinéaste et sa compagne analysent les difficultés de leurs rapports de couple, affectés par la prise de conscience féministe de la jeune femme.
 
 [144431]  
 **Assemblée générale**  
@@ -57,7 +57,7 @@ Et si les terrils du Nord de la France étaient considérés comme un centre d'a
 **Le Cabot**  
 de Jean-Pierre Letellier  
 France / 1972  
-Avec L, u, c, , M, o, u, l, l, e, t.  
+Avec Luc Moullet.  
 Pour les besoins d'une scène, un assistant réalisateur doit tuer un chien. Mais l'animal se révèle increvable.
 
 [74336]  
