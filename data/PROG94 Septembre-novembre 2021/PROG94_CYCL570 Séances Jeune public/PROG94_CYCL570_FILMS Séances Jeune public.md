@@ -53,6 +53,27 @@ Avec Marilyn Monroe, Tony Curtis, Jack Lemmon.
 
 > (Site) Chicago, 1929. Pour échapper à la mafia qui veut leur peau, deux musiciens se travestissent et partent en tournée avec un orchestre exclusivement féminin.
 
+[65733]*  
+**La Chrysalide et le papillon d'or**  
+de Georges Méliès  
+France / 1901
+
+[101917]*  
+**La Danse du feu**  
+de Georges Méliès  
+France / 1899
+
+[52462]*  
+**La Fée Carabosse ou Le Poignard fatal**  
+de Georges Méliès  
+France / 1906  
+Avec Georges Méliès.
+
+[52471]*  
+**L'Homme à la tête en caoutchouc**  
+de Georges Méliès  
+France / 1901
+
 [94169]  
 **Les Indestructibles**  
 **(The Incredibles)**  
@@ -78,6 +99,34 @@ de Chris Columbus
 États-Unis / 1993  
 D'après le roman _Alias Madame Doubtfire_ d'Anne Fine.
 
+[63765]*  
+**Le Masque de Zorro**  
+**(The Mask of Zorro)**  
+de Martin Campbell  
+États-Unis / 1997
+
+[45662]*  
+**Le Mélomane**  
+de Georges Méliès  
+France / 1903
+
+[150390]  
+**Même les souris vont au paradis**  
+**(I mysi patrí do nebe)**  
+de Denisa Grimmová Abrhámová, Jan Bubenícek  
+République tchèque / 2021
+
+[30965]*  
+**Milliardaire pour un jour**  
+**(Pocketful of Miracles)**  
+de Frank Capra  
+États-Unis / 1961  
+D'après la nouvelle _Madame la Gimp_ de Damon Runyon.  
+D'après le scénario du film _Lady for a day_ de Robert Riskin.  
+Avec Bette Davis, Glenn Ford, Peter Falk.
+
+> (Site) Annie, une sans-abri, se fait passer pour une grande dame auprès de sa fille. Cette dernière, sur le point de se marier avec un aristocrate, rend visite à sa mère en compagnie de sa belle-famille qui souhaite s'assurer de son rang social.
+
 [51709]  
 **Le Mouton à cinq pattes**  
 de Henri Verneuil  
@@ -94,6 +143,11 @@ Avec Dennis Price, Valerie Hobson, Joan Greenwood, Alec Guinness.
 
 > (Site) Les membres d'une famille aristocratique britannique, qui ont tous la tête de Sir Alec Guinness, sont la cible d'un cousin éloigné et déchu, forcé de se grimer pour parvenir à ses fins.
 
+[84596]*  
+**Panorama pris d'un train en marche**  
+de Georges Méliès  
+France / 1898
+
 [32370]*  
 **La Panthère Rose**  
 **(The Pink Panther)**  
@@ -109,11 +163,28 @@ Avec Catherine Deneuve, Jacques Perrin, Jean Marais, Delphine Seyrig.
 
 > (Site) Obéissant aux manigances de la Fée des lilas, Peau d'âne fuit son père, le roi, dissimulée sous sa fameuse peau de bête. Elle trouvera l'amour du prince charmant dans une forêt voisine. **Film restauré par Ciné Tamaris avec le soutien du CNC et du Domaine National de Chambord.**
 
+[84853]*  
+**Le Portrait mystérieux**  
+de Georges Méliès  
+France / 1899
+
+[52496]*  
+**Le Raid Paris-Monte-Carlo en automobile = Le Raid Paris-Monte Carlo en deux heures**  
+de Georges Méliès  
+France / 1905
+
 [29198]*  
 **Le Roi des masques**  
 **(Bian lian)**  
 de Tian-Ming Wu  
 Hong-Kong / 1995
+
+[128540]*  
+**La Saint-Festin**  
+d'Anne-Laure Daffis, Léo Marchand  
+France / 2008
+
+> (Site) Chaque 40 novembre, on célèbre la Saint-Festin, la grande fête des ogres.
 
 [33724]*  
 **Le Signe de Zorro**  
@@ -133,6 +204,12 @@ Grande-Bretagne / 1959
 Avec Jean Seberg, Peter Sellers.
 
 > (Site) Un petit État d'Europe nommé le duché de Fenwick exporte son vin aux États-Unis. Un jour, le commerce s'effondre et la guerre commence. Peter Sellers joue une pléiade de rôles dans le même film!
+
+[79289]  
+**Spider-Man**  
+de Sam Raimi  
+États-Unis / 2001  
+D'après la bande dessinée _Spiderman_ de Stan Lee et Steve Ditko.
 
 [42208]  
 **Superman**  
@@ -166,6 +243,11 @@ Avec Jerry Lewis, Donna Butterworth.
 
 > (Site) Une jeune orpheline très riche doit choisir avec quel membre de sa famille elle souhaite vivre. Jerry Lewis joue sept personnages différents, dont six oncles plus motivés par le magot que par le sens de la famille.
 
+[150230]  
+**La Traversée**  
+de Florence Miailhe  
+France / 2020
+
 [47650]*  
 **La Tulipe Noire**  
 de Christian-Jaque  
@@ -184,4 +266,14 @@ D'après la pièce _Connie Goes Home_ d'Edward Childs Carpenter.
 Avec Ginger Rogers, Ray Milland, Rita Johnson.
 
 > (Site) À bord d'un train, une jeune fille dévergondée se déguise pour se faire passer pour une fillette afin de bénéficier d'un billet demi-tarif, séduisant par là-même le très digne commandant Kirby.
+
+[150388]  
+**Les Voisins de mes voisins sont mes voisins**  
+d'Anne-Laure Daffis, Léopold Marchand  
+France / 2020
+
+[133164]  
+**Wallace et Gromit : Les inventuriers**  
+de Nick Park, Merlin Crossingham  
+Grande-Bretagne / 1989
 
