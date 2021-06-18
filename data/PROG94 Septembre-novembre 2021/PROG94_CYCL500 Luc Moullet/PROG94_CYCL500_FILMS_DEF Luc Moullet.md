@@ -78,7 +78,7 @@ Avec Catherine Breillat, Luc Moullet, Roxane Mesquida.
 **Chef-d'œuvre ?**  
 de Luc Moullet  
 France / 2010  
-Réflexion et tentative de définition autour de la notion de chef-d'œuvre.
+Réflexion autour de la notion de chef-d'œuvre, et tentative de définition.
 
 [50365]  
 **La Comédie du travail**  
