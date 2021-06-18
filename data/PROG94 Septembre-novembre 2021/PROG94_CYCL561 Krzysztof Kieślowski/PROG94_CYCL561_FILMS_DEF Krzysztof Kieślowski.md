@@ -94,7 +94,7 @@ Jacek, qui vient de tuer un chauffeur de taxi misanthrope, brutalement et sans r
 de Krzysztof Kieślowski  
 Pologne / 1987  
 Avec Olaf Lubaszenko, Grażyna Szapołowska.  
-Tomek, jeune postier timide, brûle d'amour pour sa voisine, Magda, une jeune femme aux mœurs libres qu'il épie depuis sa fanêtre. N'osant l'approcher directement, il la fait venir dans l'agence il travaille en lui envoyant un faux mandat.
+Tomek, jeune postier timide, brûle d'amour pour sa voisine, Magda, une jeune femme aux mœurs libres qu'il épie depuis sa fenêtre. N'osant l'approcher directement, il la fait venir dans l'agence il travaille, en lui envoyant un faux mandat.
 
 [60746]  
 **Le Décalogue 7 : Tu ne voleras pas**  

@@ -149,7 +149,7 @@ Le Havre, montré non pas comme une ville d'un seul tenant axé sur son port, ma
 **L'Homme des roubines**  
 de Gérard Courant  
 France / 2001  
-Avec L, u, c, , M, o, u, l, l, e, t.  
+Avec Luc Moullet.  
 Depuis ses débuts cinématographiques, en 1960, Luc Moullet n'a jamais cessé de tourner ses films dans les décors arides, sauvages et splendides de sa région d'origine, les Alpes du Sud. Il nous guide dans les décors de ses films en évoquant son œuvre.
 
 [74352]  
@@ -265,7 +265,7 @@ Les éphémérides de La Sept, ou du moins La Sept telle que l'imaginaient Luc M
 de Luc Moullet  
 France / 1989  
 Avec Jean Abeillé, Dominique Zardi, Olivier Maltinti, Sabine Haudepin.  
-Paris, 1955. Guy, critique aux _Cahiers du Cinéma_, va souvent voir les films de Vittorio Cottafavi dans une salle de quartier. Il y aperçoit Jeanne, critique de la revue ennemie _Positif_, qui semble le suivre.
+Paris, 1955. Guy, critique aux _Cahiers du cinéma_, va souvent voir les films de Vittorio Cottafavi dans une salle de quartier. Il y aperçoit Jeanne, critique de la revue ennemie _Positif_, qui semble le suivre.
 
 [74366]  
 **Le Système Zsygmondy**  
