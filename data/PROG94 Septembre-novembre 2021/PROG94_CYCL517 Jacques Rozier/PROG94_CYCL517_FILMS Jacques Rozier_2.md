@@ -4,7 +4,7 @@
 **Adieu Philippine**  
 de Jacques Rozier  
 France-Italie / 1960  
-Avec Jean-Claude Aimini, Daniel Descamps, Stefania Sabatini, Yveline Cery.  
+Avec Jean-Claude Aimini, Daniel Descamps, Stefania Sabatini.  
 Michel est machiniste à la télévision. Il lui reste deux mois avant de partir effectuer son service militaire en Algérie. La rencontre de Juliette et Liliane le pousse à quitter son travail pour partir en Corse profiter de ses derniers jours de liberté.
 
 Numérisé en 4K et restauré en 2K, à partir des négatifs originaux image et son, au laboratoire Hiventy par La Cinémathèque française et A17, avec le soutien du CNC, en collaboration avec Les Archives audiovisuelles de Monaco, La Cinémathèque Suisse et Extérieur Nuit.
@@ -69,32 +69,27 @@ En 2001 Jacques Rozier présente à la Mostra de Venise Fifi Martingale. En 2010
 **Jeanne Moreau**  
 de Jacques Rozier  
 France / 1972  
-Avec Jeanne Moreau.  
 Actualité cinématographique présentée par Jeanne Moreau suivie d'un dîner au Ritz avec Orson Welles. Le cinéaste s'exprime en français.
 
 [150141]  
 **Joséphine en tournée – Episode 1 TV**  
 de Jacques Rozier  
-France / 1989  
-Avec Lydia Feld, Henri Guybet, Vicente Pradal.
+France / 1989
 
 [150142]  
 **Joséphine en tournée – Episode 2 TV**  
 de Jacques Rozier  
-France / 1989  
-Avec Lydia Feld, Henri Guybet, Vicente Pradal.
+France / 1989
 
 [150143]  
 **Joséphine en tournée – Episode 3 TV**  
 de Jacques Rozier  
-France / 1989  
-Avec Lydia Feld, Henri Guybet, Vicente Pradal.
+France / 1989
 
 [150144]  
 **Joséphine en tournée – Episode 4 TV**  
 de Jacques Rozier  
 France / 1989  
-Avec Lydia Feld, Henri Guybet, Vicente Pradal.  
 Lily Strasberg, actrice de boulevard, qui triomphe dans « L'œuf de Pâques » avec le rôle de Joséphine, achève la saison avec sa 457ème représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.
 
 Version restaurée.
@@ -110,7 +105,7 @@ Deux aspirants réalisateurs de film s'opposent quant aux méthodes de travail :
 **Maine océan**  
 de Jacques Rozier  
 France / 1985  
-Avec Bernard Menez, Luis Rego, Yves Afonso, Rosa-Maria Gomes.  
+Avec Bernard Menez, Luis Rego, Yves Afonso.  
 Déjanira, une danseuse brésilienne, prend un train à Paris. N'ayant pas composté, elle se retrouve confrontée à deux contrôleurs pointilleux. Une avocate intervient et propose de faire l'interprète à bord du wagon Première classe du « Maine Océan ».
 
 > (Site) Dejanira, une danseuse brésilienne, prend un train en gare Montparnasse sans composter son billet. Lorsqu'elle est confrontée à deux contrôleurs pointilleux, une avocate intervient et se propose comme interprète.
@@ -137,7 +132,7 @@ Restauration 4K par La Cinémathèque française et A17 au laboratoire Hiventy �
 **Ni figue, ni raisin de Corinthe**  
 de Jacques Rozier  
 France / 1965  
-Avec Dalida, Arlette Didier, Pierre Richard.  
+Avec Dalida, Arlette Didier.  
 « La tentative de détournement de l'émission » Ni Figue Ni Raisin « continue de plus belle. (...) Le thème choisi : sur un plateau de télévision, une fantaisie mythologie, »Les Argonautes« , a des ratés en raison du caprice d'une interprète qui juge son rôle de proue du vaisseau Argo inintéressant. » Jacques Rozier
 
 [146003]  
@@ -145,13 +140,13 @@ Avec Dalida, Arlette Didier, Pierre Richard.
 de Jacques Rozier  
 France / 1965  
 Avec Pierre Richard.  
-Le concept de la série d'émission « Ni figue, ni raisin » consistait à étoffer des numéros chantés (de stars du showbiz venant présenter leurs nouveaux albums) par une trame narrative sommaire. Jacques Rozier filme la chanson « Etoile des neiges ».
+Le concept de la série d'émission « Ni Figue Ni Raisin » consistait à étoffer des numéros chantés (de stars du showbiz venant présenter leurs nouveaux albums) par une trame narrative sommaire.
 
 [145831]  
 **Nono Nénesse**  
 de Jacques Rozier  
 France / 1976  
-Avec Bernard Menez, Jacques Villeret.  
+Avec Bernard Menez.  
 Sur scène, Bernard Ménez, Jacques Villeret et Maurice Risch jouent le rôle de trois bébés.
 
 [146010]  
@@ -164,7 +159,7 @@ Tourné en 1989 au Théâtre lyrique de Montpellier, le film dévoile les coulis
 **Paparazzi**  
 de Jacques Rozier  
 France / 1963  
-Avec Brigitte Bardot, Jean-Luc Godard, Michel Piccoli, Jack Palance.  
+Avec Brigitte Bardot, Jean-Luc Godard, Michel Piccoli.  
 Sur le tournage du Mépris de Jean-Luc Godard, Brigitte Bardot doit affronter l'objectif des paparazzi omniprésents.
 
 Restauré en 2017, en 2K, par Jacques Rozier et la Cinémathèque française, au laboratoire Hiventy, avec le soutien du CNC, de la Cinémathèque suisse, des Archives audiovisuelles de Monaco et d'Extérieur Nuit.
@@ -182,27 +177,13 @@ La numérisation 4K et la restauration 2K du film ont été menées par Jacques 
 
 > (Site) «  Avec Michel Piccoli, Brigitte Bardot a joué. Mais on ne verra jamais ce plan.  » (Jacques Rozier)
 
-[150360]  
-**Le Perroquet parisien**  
-de Jacques Rozier  
-France / 2007  
-Texte à saisir
-
-Film inédit-inachevé.
-
 [67926]*  
 **Rentrée des classes**  
 de Jacques Rozier  
 France / 1955  
-Avec René Boglio, Marius Sumian, Léon Sauve.  
 C'est la rentrée des classes dans un petit village du Var. René n'a pas fait ses devoirs. Il jette son cartable à la rivière et part faire l'école buissonnière.
 
 > (Site) C'est le jour de la rentrée des classes dans un petit village du Var. René n'a pas fait ses devoirs de vacances : il jette son cartable à la rivière et part faire l'école buissonnière.
-
-[150359]  
-**Revenez plaisirs exilés**  
-de Jacques Rozier  
-France / 2012
 
 [75902]*  
 **Roméos et jupettes**  

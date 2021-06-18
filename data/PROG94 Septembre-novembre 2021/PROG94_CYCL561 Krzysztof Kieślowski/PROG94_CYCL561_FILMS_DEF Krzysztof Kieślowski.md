@@ -248,7 +248,7 @@ France-Suisse-Pologne / 1993
 Avec Irène Jacob, Jean-Louis Trintignant, Frédérique Feder.  
 Troisième volet de la trilogie _Trois couleurs_.
 
-Un juge à la retraite a mis ses voisins sur écoute téléphonique. Parmi eux, Valentine, étudiante et mannequin. Un jour, Valentine ramène au juge son chien égaré. Une étrange relation se noue entre eux.
+Un juge à la retraite a mis ses voisins sur écoute téléphonique. Parmi eux, Valentine, étudiante et mannequin. Un jour, Valentine ramène au juge son chien égaré. Une étrange relation se noue alors entre eux.
 
 [149303]  
 **Tu ne tueras point**  
