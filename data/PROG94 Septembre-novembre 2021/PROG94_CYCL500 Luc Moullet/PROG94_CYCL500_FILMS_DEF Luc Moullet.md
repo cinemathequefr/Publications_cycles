@@ -226,6 +226,7 @@ Après de longues années de blocage, Luc Moullet apprend laborieusement et cour
 **Mademoiselle Else**  
 d'Isabelle Prim  
 France / 2010  
+D'après la nouvelle _Mademoiselle Else_ d'Arthur Schnitzler.  
 Avec Jean-Pierre Beauviala, Isabelle Prim.  
 En vacances dans les Alpes, la jeune Else est contrainte de demander de l'argent à Dorsday, un avocat jouisseur, pour sauver de la faillite son père criblé de dettes. En contrepartie, Dorsday lui demande de l'admirer nue.
 
@@ -386,3 +387,4 @@ Avec Luc Moullet, Jean Abeillé, Claude Melki, Claude Buchwald.
 de Luc Moullet  
 France / 1995  
 Exploration de la ville de Des Moines, dans l'Iowa, capitale de l'obésité, qui représente une part de l'Amérique profonde.
+
