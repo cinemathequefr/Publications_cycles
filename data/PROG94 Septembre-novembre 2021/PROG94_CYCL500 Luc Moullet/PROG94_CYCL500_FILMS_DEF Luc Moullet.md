@@ -25,13 +25,13 @@ Une assemblée générale de copropriétaires vue par Luc Moullet.
 de Luc Moullet  
 France / 1998  
 Avec Olivier Peissel, Iliana Lolic.  
-La réaction du plus célèbre des alpinistes, le jour où sa femme meurt sur un sentier très facile.
+La réaction stupéfiante du plus célèbre des alpinistes, le jour où sa femme meurt sur un sentier très facile.
 
 [149927]  
 **Balance et cécité**  
 de Luc Moullet  
 France / 2010  
-La figure de l'aveugle au cinéma et, plus particulièrement, dans les films de Fritz Lang, John Ford, Marcel Carné.
+La figure de l'aveugle mouchard au cinéma et, plus particulièrement, dans les films de Fritz Lang, John Ford, Marcel Carné.
 
 [66485]  
 **Barres**  
@@ -43,14 +43,19 @@ Une suite de sketches montre toutes les façons imaginables de passer sans ticke
 [50364]  
 **Brigitte et Brigitte**  
 de Luc Moullet  
-France / 1965  
+France / 1966  
 Avec Françoise Vatel, Colette Descombes, Claude Melki.  
-Brigitte et Brigitte, deux provinciales de villes différentes, arrivent à Paris pour leur première année universitaire. Après avoir fait connaissance sur un banc de la gare, elles deviennent amies et décident de partager un appartement. Mais certains points les séparent...
+Brigitte, une fille des Pyrénées, et Brigitte, une fille des Alpes, font connaissance gare d'Austerlitz. Venues à Paris pour leur première année universitaire, elles deviennent amies et décident de partager un appartement. Mais malgré leurs similitudes, certains points les séparent...
+
+[150383]  
+**Brigitte et Brigitte (bande-annonce)**  
+de Luc Moullet  
+France / 1965
 
 [65706]  
 **La Cabale des oursins**  
 de Luc Moullet  
-France / 1990  
+France / 1991  
 Et si les terrils du Nord de la France étaient considérés comme un centre d'attraction touristique, au même titre que le Grand Canyon du Colorado ou les Pyramides d'Égypte ?
 
 [103554]  
@@ -58,7 +63,7 @@ Et si les terrils du Nord de la France étaient considérés comme un centre d'a
 de Jean-Pierre Letellier  
 France / 1972  
 Avec Luc Moullet.  
-Pour les besoins d'une scène, un assistant réalisateur doit tuer un chien. Mais l'animal se révèle increvable.
+Pour les besoins d'une scène, un assistant réalisateur doit tuer un chien pour les besoins d'un film qui ne sortira jamais. Mais l'animal se révèle increvable.
 
 [74336]  
 **Capito ?**  
@@ -85,7 +90,12 @@ Réflexion autour de la notion de chef-d'œuvre, et tentative de définition.
 de Luc Moullet  
 France / 1987  
 Avec Roland Blanche, Sabine Haudepin, Henri Déus.  
-Françoise Duru, employée d'une agence pour l'emploi, tente de faire engager auprès d'elle l'un de ses visiteurs, dont elle est secrètement amoureuse, sans tenir compte de ses envies.
+Françoise Duru, employée d'une agence pour l'emploi, tente de trouver du travail à un chômeur, alors qu'il désire chômer.
+
+[150373]  
+**La Comédie du travail (bande-annonce)**  
+de Luc Moullet  
+France / 1987
 
 [58990]  
 **Les Contrebandières**  
@@ -99,6 +109,14 @@ Deux contrebandières, qui sévissent près de la frontière, découvrent qu'ell
 de Luc Moullet  
 France / 1986  
 Les chiens, leurs propriétaires et l'anthropomorphisme : réflexion caustique sur la place du meilleur ami de l'homme dans la ville.
+
+[31591]  
+**L'Empreinte du passé**  
+**(The Road to Yesterday)**  
+de Cecil B. DeMille  
+États-Unis / 1925  
+Avec Joseph Schildkraut, Jetta Goudal, William Boyd.  
+Victimes d'un accident ferroviaire, deux couples insatisfaits sont soudain projetés dans une vie antérieure, dans l'Angleterre du XVI<sup>e</sup> siècle.
 
 [74341]  
 **Essai d'ouverture**  
@@ -169,7 +187,13 @@ France / 1982
 **Jean-Luc selon Luc**  
 de Luc Moullet  
 France / 2006  
-« Un petit film tourné en une matinée dans mon appartement, et monté en quatre heures. Comme il y avait une exposition Godard, on m'a alors demandé de faire une vidéo sur lui. Je suis parti de la célèbre séquence des _Carabiniers_. » (Luc Moullet)
+« Un petit film tourné en une matinée dans mon appartement, et monté en quatre heures. Comme il y avait une exposition Godard, on m'a alors demandé de faire une vidéo sur lui. Je suis parti de la célèbre séquence des cartes postales dans _Les Carabiniers_. » (Luc Moullet)
+
+[150353]  
+**Léa, Léa et Léa**  
+de Collectif Film  
+France / 2001  
+Film d'école supervisé par Luc Moullet, conçu comme une suite de _Chaînes conjugales_ de Mankiewicz, avec référence à Addie Ross, la séductrice qui n'apparaît pas à l'image, et à la danse de sept voiles de Salomé.
 
 [149936]  
 **Lettre ouverte à Luc Moullet**  
@@ -181,7 +205,7 @@ France / 2016
 **Le Litre de lait**  
 de Luc Moullet  
 France / 2006  
-Avec Iliana Lolic, Claire Bouanich, Lucas Harari.  
+Avec Claire Bouanich, Lucas Harari, Iliana Lolic.  
 Anne et Gilles, deux adolescents, sont en vacances à la montagne. Leur mère, qui a besoin de lait, envoie Gilles à la ferme d'à côté, alors qu'elle est la maîtresse du fermier.
 
 [115228]  
@@ -198,6 +222,13 @@ France / 1981
 Avec Luc Moullet, Odette Duval, Paul-Louis Martin, Marie-Christine Questerbert.  
 Après de longues années de blocage, Luc Moullet apprend laborieusement et courageusement à nager, démontrant qu'il n'est jamais trop tard.
 
+[131927]  
+**Mademoiselle Else**  
+d'Isabelle Prim  
+France / 2010  
+Avec Jean-Pierre Beauviala, Isabelle Prim.  
+En vacances dans les Alpes, la jeune Else est contrainte de demander de l'argent à Dorsday, un avocat jouisseur, pour sauver de la faillite son père criblé de dettes. En contrepartie, Dorsday lui demande de l'admirer nue.
+
 [74347]  
 **Les Minutes d'un faiseur de films**  
 de Luc Moullet  
@@ -211,6 +242,11 @@ de Luc Moullet
 France / 2001  
 Avec Patrick Bouchitey, Iliana Lolic, Sabine Haudepin, Mathieu Amalric.  
 Pendant la guerre du Golfe, un champion de rallye automobile et sa jeune copilote s'embourbent dans un chemin isolé des Alpes-de-Haute-Provence. Ils découvrent alors un endroit faussement paisible, où se croisent un astrophysicien, un berger et des militaires.
+
+[150375]  
+**Les Naufragés de la D 17 (bande-annonce)**  
+de Luc Moullet  
+France / 2001
 
 [74357]  
 **Nous sommes tous des cafards**  
@@ -237,8 +273,16 @@ Plusieurs personnes se battent avec divers emballages à ouverture soi-disant «
 **Parpaillon**  
 de Luc Moullet  
 France / 1992  
-Avec Jean Abeillé, Clément Boutterin.  
+Avec Brigitte Canaan, Rémy Henri, Claude Melki.  
 Les concurrents d'un rallye cycliste se lancent dans l'ascension du col du Parpaillon, dans la Haute-Ubaye.
+
+[150355]  
+**Prélude à l'après-midi d'un vieux faune**  
+d'Esther Archambault  
+France / 2021  
+Luc Moullet exécute une danse à la Cro-Magnon sur la _Messe pour le temps présent_ de Pierre Henry.
+
+Extrait du film.
 
 [101951]  
 **Le Prestige de la mort**  
@@ -251,7 +295,7 @@ Parti en repérages dans le Sud de la France pour son prochain film, Luc Moullet
 **Quelques gouttes en plus**  
 de Luc Moullet  
 France / 2007  
-Supplément au film _Les Naufragés de la D 17_ de 2002.
+Best-of du _Litre de lait_.
 
 [83261]  
 **La Sept selon Jean et Luc**  
@@ -267,11 +311,17 @@ France / 1989
 Avec Jean Abeillé, Dominique Zardi, Olivier Maltinti, Sabine Haudepin.  
 Paris, 1955. Guy, critique aux _Cahiers du cinéma_, va souvent voir les films de Vittorio Cottafavi dans une salle de quartier. Il y aperçoit Jeanne, critique de la revue ennemie _Positif_, qui semble le suivre.
 
+[150370]  
+**Le Système Moullet**  
+d'André S. Labarthe  
+France / 2009  
+À l'occasion d'une série d'entretiens avec Emmanuel Burdeau et Jean Narboni, Luc Moullet donne un aperçu concret de sa méthode de travail
+
 [74366]  
 **Le Système Zsygmondy**  
 de Luc Moullet  
 France / 2000  
-Avec Antonietta Pizzorno, Charlotte Véry, Iliana Lolic, Olivier Maltinti.  
+Avec Iliana Lolic, Charlotte Véry, Antonietta Pizzorno.  
 Deux jeunes marcheuses arrivent un soir au refuge Zsygmondy, alors qu'elles doivent gravir un pic le lendemain. Mais il ne reste plus qu'une seule place libre.
 
 [108434]  
@@ -280,6 +330,11 @@ de Luc Moullet
 France / 2008  
 Avec Luc Moullet.  
 Partant du constat de n'être pas « quelqu'un de très normal », Luc Moullet enquête sur le « pentagone de la folie » dans les Alpes-de-Haute-Provence. Il recueille des témoignages sur une quarantaine de crimes irrationnels et élabore des théories sur les origines de ce phénomène.
+
+[150372]  
+**La Terre de la folie (bande-annonce)**  
+de Luc Moullet  
+France / 2008
 
 [50367]  
 **Terres noires**  
@@ -304,15 +359,20 @@ Réflexion sur le consumérisme à travers le monde des supermarchés.
 **Un steack trop cuit**  
 de Luc Moullet  
 France / 1960  
-Avec Françoise Vatel, Albert Juross, Luc Moullet.  
+Avec Jacqueline Fynnaerc, Françoise Vatel, Albert Juross.  
 Livrés à eux-mêmes, un frère et une sœur se disputent un repas frugal préparé par la jeune fille.
 
 [50368]  
 **Une aventure de Billy le Kid**  
 de Luc Moullet  
-France / 1970  
+France / 1971  
 Avec Jean-Pierre Léaud, Rachel Kesterber, Jean Valmont.  
 Après avoir réussi seul le hold-up de la diligence de la Wells Fargo, Billy a bien du mal à transporter son butin. Il rencontre Ann, qui a fui devant l'attaque des Cherokees.
+
+[150374]  
+**Une aventure de Billy le Kid (bande-annonce)**  
+de Luc Moullet  
+France / 1971
 
 [74338]  
 **La Valse des médias**  
