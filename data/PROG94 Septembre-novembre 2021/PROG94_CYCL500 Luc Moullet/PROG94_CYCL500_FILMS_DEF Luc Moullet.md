@@ -50,7 +50,7 @@ Brigitte, une fille des Pyrénées, et Brigitte, une fille des Alpes, font conna
 [150383]  
 **Brigitte et Brigitte (bande-annonce)**  
 de Luc Moullet  
-France / 1965
+France / 1966
 
 [65706]  
 **La Cabale des oursins**  
@@ -386,4 +386,3 @@ Avec Luc Moullet, Jean Abeillé, Claude Melki, Claude Buchwald.
 de Luc Moullet  
 France / 1995  
 Exploration de la ville de Des Moines, dans l'Iowa, capitale de l'obésité, qui représente une part de l'Amérique profonde.
-
