@@ -63,7 +63,7 @@ Et si les terrils du Nord de la France étaient considérés comme un centre d'a
 de Jean-Pierre Letellier  
 France / 1972  
 Avec Luc Moullet.  
-Pour les besoins d'une scène, un assistant réalisateur doit tuer un chien pour les besoins d'un film qui ne sortira jamais. Mais l'animal se révèle increvable.
+Un assistant réalisateur doit tuer un chien pour les besoins d'un film qui ne sortira jamais. Mais l'animal se révèle increvable.
 
 [74336]  
 **Capito ?**  
