@@ -14,9 +14,17 @@ La naissance de sa fille est pour Filip l'occasion d'acheter une caméra. Nommé
 de Krzysztof Kieślowski  
 Pologne / 1987  
 Avec Grażyna Szapołowska, Olaf Lubaszenko, Piotr Machalica.  
+Le jeune Tomek espionne depuis son appartement sa voisine d'en face, Magda. Amoureux mais réservé, il finit par l'aborder. Magda l'éconduit d'abord, avant de l'inviter chez elle.
+
 Version cinéma de l'épisode 6 du _Décalogue_.
 
-Le jeune Tomek espionne depuis son appartement sa voisine d'en face, Magda. Amoureux mais réservé, il finit par l'aborder. Magda l'éconduit d'abord, avant de l'inviter chez elle.
+[117515]  
+**Le Calme**  
+**(Spokój)**  
+de Krzysztof Kieślowski  
+Pologne / 1976  
+Avec Jerzy Stuhr, Izabella Olszewska, Jerzy Trela.  
+Après avoir purgé une peine pour un délit mineur, un jeune homme veut commencer une nouvelle vie et fonder une famille. Engagé comme maçon dans une entreprise de construction, il se retrouve impliqué malgré lui dans les malversations de son patron.
 
 [29779]  
 **La Cicatrice**  
@@ -259,6 +267,14 @@ Avec Mirosław Baka, Krzysztof Globisz.
 Version cinéma de l'épisode 5 du _Décalogue_.
 
 Piotr vient de réussir son examen d'entrée au barreau. Pour sa première affaire, il doit défendre Jacek, un jeune homme qui a sauvagement assassiné un chauffeur de taxi.
+
+[149843]  
+**Une courte journée de travail**  
+**(Krótki dzień pracy)**  
+de Krzysztof Kieślowski  
+Pologne / 1981  
+Avec Wacław Ulewicz, Lech Grzmociński, Tadeusz Bartosik.  
+En juin 1976, à Radom, la foule manifeste contre la hausse des prix des denrées alimentaires. Assiégé, le premier secrétaire de la section locale du Parti est bien décidé à leur tenir tête.
 
 [68506]  
 **L'Usine**  
