@@ -11,9 +11,9 @@ Michel est machiniste à la télévision. Il lui reste deux mois avant de partir
 Numérisation 4K et restauration 2K réalisées au laboratoire Hiventy à partir des négatifs originaux image et son. Film restauré par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec les Archives audiovisuelles de Monaco, la Cinémathèque suisse et Extérieur Nuit.
 
 - di 14 nov 14h30 HL  
-Film précédé de _Supplément au voyage en terre philippine_ de Jacques Rozier  
+  Film précédé de _Supplément au voyage en terre philippine_ de Jacques Rozier
 - sa 27 nov 15h00 GF  
-Film précédé de _Supplément au voyage en terre philippine_ de Jacques Rozier
+  Film précédé de _Supplément au voyage en terre philippine_ de Jacques Rozier
 
 [59251]  
 **Du côté d'Orouët**  
@@ -22,7 +22,7 @@ France / 1969 / 161 min / 35 mm
 Avec Danièle Croisy, Françoise Guégan, Caroline Cartier, Bernard Menez.  
 Trois jeunes filles débordant d'enthousiasme et de vitalité s'échappent de Paris pour passer le mois de septembre sur la côte vendéenne. Gilbert, un chef de bureau un peu gauche, débarque au milieu du trio.
 
-- me 10 nov 20h00 HL  
+- me 10 nov 20h00 HL
 - sa 27 nov 17h30 GF
 
 [104143]  
@@ -32,7 +32,7 @@ France / 1999 / 120 min / DCP
 Avec Jean Lefebvre, Lydia Feld, Mike Marshall.  
 Le metteur en scène d'une pièce de boulevard intitulée _L'Œuf de Pâques_ se voit remettre un Molière. Prenant cette récompense pour une mauvaise blague, il pense à une cabale et décide d'y répondre en modifiant sa pièce.
 
-- lu 15 nov 20h30 GF  
+- lu 15 nov 20h30 GF
 - di 28 nov 20h15 GF
 
 [55934]  
@@ -42,7 +42,7 @@ France / 1986 / 131 min / 35 mm
 Avec Bernard Menez, Luis Rego, Yves Afonso, Lydia Feld.  
 Dejanira, une danseuse brésilienne, prend un train en gare Montparnasse sans composter son billet. Lorsqu'elle est confrontée à deux contrôleurs pointilleux, une avocate intervient et se propose comme interprète.
 
-- di 14 nov 18h30 HL  
+- di 14 nov 18h30 HL
 - di 28 nov 17h30 GF
 
 [56895]  
@@ -53,7 +53,7 @@ Avec Pierre Richard, Jacques Villeret, Maurice Risch.
 Deux employés d'une agence de voyages imaginent une formule touristique pour faire revivre l'expérience de Robinson Crusoé. Envoyés en repérages aux Antilles, ils voient débarquer un groupe de vacanciers.  
 Restauration 4K à partir des négatifs image et son. Film restauré réalisée au laboratoire Hiventy par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec l'Institut audiovisuel de Monaco, la Cinémathèque suisse et Extérieur Nuit.
 
-- je 11 nov 20h00 HL  
+- je 11 nov 20h00 HL
 - sa 27 nov 20h45 GF
 
 [146010]  
@@ -63,9 +63,9 @@ France / 1989 / 42 min / DCP
 Tourné en 1989 au Théâtre lyrique de Montpellier, le film dévoile les coulisses d'une représentation d'_Atys_ dirigée par William Christie (musique) et Francine Lancelot (chorégraphie).
 
 - sa 20 nov 19h00 JE  
-Film suivi de _Revenez plaisirs exilés_ de Jacques Rozier  
+  Film suivi de _Revenez plaisirs exilés_ de Jacques Rozier
 - je 25 nov 19h30 JE  
-Film suivi de _Revenez plaisirs exilés_ de Jacques Rozier
+  Film suivi de _Revenez plaisirs exilés_ de Jacques Rozier
 
 [150360]  
 **Le Perroquet parisien**  
@@ -73,7 +73,7 @@ de Jacques Rozier
 France / 2007 / 60 min / DCP  
 Film inachevé inédit.
 
-- lu 15 nov 19h00 GF  
+- lu 15 nov 19h00 GF
 - ve 26 nov 19h30 GF
 
 [150359]  
@@ -83,9 +83,9 @@ France / 2012 / 60 min / Numérique
 Les répétitions et la générale d'_Alceste_, opéra de Jean-Baptiste Lully, à l'Opéra royal du château de Versailles et au Théâtre des Champs-Élysées (direction musicale Jean-Claude Malgoire, mise en scène Jean-Louis Martinoty).
 
 - sa 20 nov 19h00 JE  
-Film précédé de _L'Opéra du roi_ de Jacques Rozier  
+  Film précédé de _L'Opéra du roi_ de Jacques Rozier
 - je 25 nov 19h30 JE  
-Film précédé de _L'Opéra du roi_ de Jacques Rozier
+  Film précédé de _L'Opéra du roi_ de Jacques Rozier
 
 [150389]  
 **Supplément au voyage en terre philippine**  
@@ -94,9 +94,9 @@ France / 2008 / 12 min / Numérique
 Jacques Rozier commente des photos de tournage et des extraits d'_Adieu Philippine._
 
 - di 14 nov 14h30 HL  
-Film suivi d'_Adieu Philippine_ de Jacques Rozier  
+  Film suivi d'_Adieu Philippine_ de Jacques Rozier
 - sa 27 nov 15h00 GF  
-Film suivi d'_Adieu Philippine_ de Jacques Rozier
+  Film suivi d'_Adieu Philippine_ de Jacques Rozier
 
 ## Courts métrages
 
@@ -121,7 +121,7 @@ de Jacques Rozier
 France / 1976 / 26 min / DCP  
 Trois bébés qui grandissent et évoluent sur la scène d'un théâtre, dans un décor à leur échelle.
 
-- sa 13 nov 19h30 GF  
+- sa 13 nov 19h30 GF
 - di 21 nov 17h30 JE
 
 [67926]  
@@ -155,7 +155,7 @@ Avec Brigitte Bardot, Jean-Luc Godard, Fritz Lang, Jack Palance.
 Mai 1963 : Jean-Luc Godard, son équipe, ses deux vedettes – Brigitte Bardot et Michel Piccoli – arrivent à Capri pour y tourner des scènes du _Mépris_ dans le cadre spectaculaire, entre mer et rochers, de la villa Malaparte.  
 Numérisation 4K et restauration 2K réalisée au laboratoire Hiventy à partir du marron et du négatif son. Film restauré par Jacques Rozier et la Cinémathèque française avec le soutien du CNC, en collaboration avec la Cinémathèque suisse, l'Institut audiovisuel de Monaco et Extérieur nuit.
 
-- sa 13 nov 21h00 GF  
+- sa 13 nov 21h00 GF
 - ve 26 nov 21h00 GF
 
 ## Films pour la télévision
@@ -168,7 +168,7 @@ France / 1964 / 94 min / Vidéo
 Portrait du cinéaste Jean Vigo pour la collecion produite par Janine Bazin et André S. Labarthe.  
 « C'est Jacques Rozier qui a réalisé le film sur Jean Vigo. Il a tourné de façon très libre, comme pour _Adieu Philippine_, sans découpage, sans langage codé à l'avance. Il y allait à l'instinct. Rozier remettait systématiquement en question le scénario au tournage, puis au montage. Il était très inventif. » (André S. Labarthe)
 
-- ve 12 nov 19h30 JE  
+- ve 12 nov 19h30 JE
 - je 18 nov 19h00 JE
 
 [145964]  
@@ -193,7 +193,7 @@ France / 1979 / 15 min / Numérique
 Avec Bernard Menez, Bernard Dumaine, Maurice Vallier.  
 Jean-Yves Maginot, jeune diplômé d'école de commerce, souhaite grimper les échelons au plus vite. Il tente d'imposer une nouvelle méthode de stratégie de marché dans l'entreprise qui l'engage comme attaché commercial.
 
-- ve 12 nov 22h00 JE  
+- ve 12 nov 22h00 JE
 - sa 20 nov 16h30 JE
 
 [150141]  
@@ -212,7 +212,7 @@ Avec Lydia Feld, Henri Guybet, Vicente Pradal.
 Lily Strasberg, actrice de boulevard qui triomphe dans _L'Œuf de Pâques_ dans le rôle de Joséphine, achève la saison avec sa 457<sup>e</sup> représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.  
 Version restaurée.
 
-- me 17 nov 19h00 JE  
+- me 17 nov 19h00 JE
 - di 21 nov 19h00 JE
 
 [150143]  
@@ -231,7 +231,7 @@ Avec Lydia Feld, Henri Guybet, Vicente Pradal.
 Lily Strasberg, actrice de boulevard qui triomphe dans _L'Œuf de Pâques_ dans le rôle de Joséphine, achève la saison avec sa 457<sup>e</sup> représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.  
 Version restaurée.
 
-- me 17 nov 21h15 JE  
+- me 17 nov 21h15 JE
 - di 21 nov 21h15 JE
 
 [146003]  
@@ -255,6 +255,5 @@ France / 1995 / 18 min / DCP
 Avec Eloïse Charretier, Jean-Christophe Averty.  
 La jeune Agathe veut faire du cinéma, mais sa famille cherche à l'en dissuader. Une connaissance de ses parents l'accompagne sur un tournage de Jean-Christophe Averty à la télévision.
 
-- di 14 nov 22h00 GF  
+- di 14 nov 22h00 GF
 - je 18 nov 21h00 JE
-
