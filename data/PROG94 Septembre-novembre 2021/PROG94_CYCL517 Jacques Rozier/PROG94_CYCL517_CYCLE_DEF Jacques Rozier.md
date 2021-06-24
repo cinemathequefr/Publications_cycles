@@ -35,58 +35,6 @@ Le metteur en scène d'une pièce de boulevard intitulée _L'Œuf de Pâques_ se
 - lu 15 nov 20h30 GF  
 - di 28 nov 20h15 GF
 
-[150141]  
-**Joséphine en tournée, épisode 1**  
-de Jacques Rozier  
-France / 1989 / 50 min / DCP  
-Avec Lydia Feld, Henri Guybet, Vicente Pradal.  
-Lily Strasberg, actrice de boulevard qui triomphe dans _L'Œuf de Pâques_ dans le rôle de Joséphine, achève la saison avec sa 457<sup>e</sup> représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.  
-Version restaurée.
-
-- me 17 nov 19h00 JE  
-Film suivi de _Joséphine en tournée, épisode 2_ de Jacques Rozier  
-- di 21 nov 19h00 JE  
-Film suivi de _Joséphine en tournée, épisode 2_ de Jacques Rozier
-
-[150142]  
-**Joséphine en tournée, épisode 2**  
-de Jacques Rozier  
-France / 1989 / 50 min / DCP  
-Avec Lydia Feld, Henri Guybet, Vicente Pradal.  
-Lily Strasberg, actrice de boulevard qui triomphe dans _L'Œuf de Pâques_ dans le rôle de Joséphine, achève la saison avec sa 457<sup>e</sup> représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.  
-Version restaurée.
-
-- me 17 nov 19h00 JE  
-Film précédé de _Joséphine en tournée, épisode 1_ de Jacques Rozier  
-- di 21 nov 19h00 JE  
-Film précédé de _Joséphine en tournée, épisode 1_ de Jacques Rozier
-
-[150143]  
-**Joséphine en tournée, épisode 3**  
-de Jacques Rozier  
-France / 1989 / 50 min / DCP  
-Avec Lydia Feld, Henri Guybet, Vicente Pradal.  
-Lily Strasberg, actrice de boulevard qui triomphe dans _L'Œuf de Pâques_ dans le rôle de Joséphine, achève la saison avec sa 457<sup>e</sup> représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.  
-Version restaurée.
-
-- me 17 nov 21h15 JE  
-Film suivi de _Joséphine en tournée, épisode 4_ de Jacques Rozier  
-- di 21 nov 21h15 JE  
-Film suivi de _Joséphine en tournée, épisode 4_ de Jacques Rozier
-
-[150144]  
-**Joséphine en tournée, épisode 4**  
-de Jacques Rozier  
-France / 1989 / 50 min / DCP  
-Avec Lydia Feld, Henri Guybet, Vicente Pradal.  
-Lily Strasberg, actrice de boulevard qui triomphe dans _L'Œuf de Pâques_ dans le rôle de Joséphine, achève la saison avec sa 457<sup>e</sup> représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.  
-Version restaurée.
-
-- me 17 nov 21h15 JE  
-Film précédé de _Joséphine en tournée, épisode 3_ de Jacques Rozier  
-- di 21 nov 21h15 JE  
-Film précédé de _Joséphine en tournée, épisode 3_ de Jacques Rozier
-
 [55934]  
 **Maine Océan**  
 de Jacques Rozier  
@@ -248,6 +196,44 @@ Jean-Yves Maginot, jeune diplômé d'école de commerce, souhaite grimper les é
 - ve 12 nov 22h00 JE  
 - sa 20 nov 16h30 JE
 
+[150141]  
+**Joséphine en tournée, épisode 1**  
+de Jacques Rozier  
+France / 1989 / 50 min / DCP  
+Avec Lydia Feld, Henri Guybet, Vicente Pradal.  
+Lily Strasberg, actrice de boulevard qui triomphe dans _L'Œuf de Pâques_ dans le rôle de Joséphine, achève la saison avec sa 457<sup>e</sup> représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.  
+Version restaurée.  
+suivi de  
+[150142]  
+**Joséphine en tournée, épisode 2**  
+de Jacques Rozier  
+France / 1989 / 50 min / DCP  
+Avec Lydia Feld, Henri Guybet, Vicente Pradal.  
+Lily Strasberg, actrice de boulevard qui triomphe dans _L'Œuf de Pâques_ dans le rôle de Joséphine, achève la saison avec sa 457<sup>e</sup> représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.  
+Version restaurée.
+
+- me 17 nov 19h00 JE  
+- di 21 nov 19h00 JE
+
+[150143]  
+**Joséphine en tournée, épisode 3**  
+de Jacques Rozier  
+France / 1989 / 50 min / DCP  
+Avec Lydia Feld, Henri Guybet, Vicente Pradal.  
+Lily Strasberg, actrice de boulevard qui triomphe dans _L'Œuf de Pâques_ dans le rôle de Joséphine, achève la saison avec sa 457<sup>e</sup> représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.  
+Version restaurée.  
+suivi de  
+[150144]  
+**Joséphine en tournée, épisode 4**  
+de Jacques Rozier  
+France / 1989 / 50 min / DCP  
+Avec Lydia Feld, Henri Guybet, Vicente Pradal.  
+Lily Strasberg, actrice de boulevard qui triomphe dans _L'Œuf de Pâques_ dans le rôle de Joséphine, achève la saison avec sa 457<sup>e</sup> représentation. Pour se reposer, elle décide de descendre dans le Midi. Un ami, homme de théâtre, l'accompagne à l'aéroport.  
+Version restaurée.
+
+- me 17 nov 21h15 JE  
+- di 21 nov 21h15 JE
+
 [146003]  
 **Ni figue, ni raisin n° 5**  
 de Jacques Rozier  
@@ -271,6 +257,4 @@ La jeune Agathe veut faire du cinéma, mais sa famille cherche à l'en dissuader
 
 - di 14 nov 22h00 GF  
 - je 18 nov 21h00 JE
-
-## Jacques Rozier et la musique
 
