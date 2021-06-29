@@ -38,36 +38,27 @@
         "idCopie": 21081,
         "duree": 82,
         "version": "",
-        "format": "Numérique",
+        "format": "DCP",
         "valide": 1
       }
     ],
+    "titreEvenement": "Ouverture",
     "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 2284,
     "typeEvenement": 13,
-    "idEvenement": 24369,
+    "idEvenement": 24527,
     "idSeance": 45798,
     "dateHeure": "2021-09-09T19:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
-        "idFilm": 150383,
-        "ordre": 1,
-        "idSeance": 45798,
-        "idCopie": 22640,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      },
-      {
         "idFilm": 50367,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 45798,
         "idCopie": 20975,
         "duree": 19,
@@ -77,25 +68,25 @@
       },
       {
         "idFilm": 50364,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 45798,
-        "idCopie": 22579,
+        "idCopie": 20979,
         "duree": 75,
         "version": "",
-        "format": "35 mm",
+        "format": "Numérique",
         "valide": 1
       }
     ]
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24477,
     "idSeance": 45799,
     "dateHeure": "2021-09-09T22:00:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -168,17 +159,18 @@
         "format": "Numérique",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Villes"
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24472,
     "idSeance": 45800,
     "dateHeure": "2021-09-10T19:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -231,7 +223,8 @@
         "format": "Numérique",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Animaux"
   },
   {
     "idCategorie": 2284,
@@ -240,8 +233,8 @@
     "idSeance": 45801,
     "dateHeure": "2021-09-10T21:45:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -269,7 +262,7 @@
   {
     "idCategorie": 2284,
     "typeEvenement": 13,
-    "idEvenement": 22338,
+    "idEvenement": 24531,
     "idSeance": 45802,
     "dateHeure": "2021-09-11T16:15:00",
     "idSalle": [
@@ -278,18 +271,8 @@
     ],
     "items": [
       {
-        "idFilm": 150374,
-        "ordre": 1,
-        "idSeance": 45802,
-        "idCopie": 22635,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      },
-      {
         "idFilm": 50368,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 45802,
         "idCopie": 22575,
         "duree": 77,
@@ -300,7 +283,7 @@
     ]
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24487,
     "idSeance": 45803,
@@ -327,7 +310,7 @@
         "idCopie": 21100,
         "duree": 19,
         "version": "",
-        "format": "16 mm",
+        "format": "Numérique",
         "valide": 1
       },
       {
@@ -360,12 +343,13 @@
         "format": "Numérique",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Montagne et miscellanées"
   },
   {
     "idCategorie": 2284,
     "typeEvenement": 13,
-    "idEvenement": 24510,
+    "idEvenement": 24530,
     "idSeance": 45804,
     "dateHeure": "2021-09-11T20:00:00",
     "idSalle": [
@@ -374,8 +358,18 @@
     ],
     "items": [
       {
-        "idFilm": 108434,
+        "idFilm": 150375,
         "ordre": 1,
+        "idSeance": 45804,
+        "idCopie": 22633,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 108434,
+        "ordre": 2,
         "idSeance": 45804,
         "idCopie": 7056,
         "duree": 90,
@@ -388,17 +382,29 @@
   {
     "idCategorie": 2284,
     "typeEvenement": 13,
-    "idEvenement": 24500,
+    "idEvenement": 24528,
     "idSeance": 45797,
     "dateHeure": "2021-09-12T14:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
+    "idSeanceAssoc": 47056,
+    "typeAssoc": 117,
     "items": [
       {
-        "idFilm": 50365,
+        "idFilm": 150383,
         "ordre": 1,
+        "idSeance": 45797,
+        "idCopie": 22640,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 50365,
+        "ordre": 2,
         "idSeance": 45797,
         "idCopie": 6505,
         "duree": 88,
@@ -409,7 +415,23 @@
     ]
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2508,
+    "typeEvenement": 14,
+    "idEvenement": 24513,
+    "idSeance": 47056,
+    "dateHeure": "2021-09-12T17:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "idSeanceAssoc": 45797,
+    "typeAssoc": 117,
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24467,
     "idSeance": 45796,
@@ -479,10 +501,11 @@
         "format": "16 mm",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Du cinéma"
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 22354,
     "idSeance": 45667,
@@ -512,17 +535,18 @@
         "format": "Numérique",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Cycle"
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24462,
     "idSeance": 45805,
     "dateHeure": "2021-09-15T19:00:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -552,7 +576,7 @@
         "idCopie": 22486,
         "duree": 24,
         "version": "",
-        "format": "DCP",
+        "format": "Numérique",
         "valide": 1
       },
       {
@@ -585,32 +609,23 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Société et institutions"
   },
   {
     "idCategorie": 2284,
     "typeEvenement": 13,
-    "idEvenement": 22365,
+    "idEvenement": 24529,
     "idSeance": 45806,
     "dateHeure": "2021-09-15T21:15:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
-        "idFilm": 150375,
-        "ordre": 1,
-        "idSeance": 45806,
-        "idCopie": 22633,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      },
-      {
         "idFilm": 78975,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 45806,
         "idCopie": 2362,
         "duree": 81,
@@ -621,14 +636,14 @@
     ]
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24457,
     "idSeance": 45807,
     "dateHeure": "2021-09-16T19:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -681,7 +696,8 @@
         "format": "16 mm",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Liquides"
   },
   {
     "idCategorie": 2284,
@@ -690,13 +706,23 @@
     "idSeance": 45808,
     "dateHeure": "2021-09-16T21:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
-        "idFilm": 50366,
+        "idFilm": 150374,
         "ordre": 1,
+        "idSeance": 45808,
+        "idCopie": 22635,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 50366,
+        "ordre": 2,
         "idSeance": 45808,
         "idCopie": 407,
         "duree": 117,
@@ -707,7 +733,7 @@
     ]
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24477,
     "idSeance": 45849,
@@ -787,10 +813,11 @@
         "format": "Numérique",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Villes"
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2512,
     "typeEvenement": 13,
     "idEvenement": 24430,
     "idSeance": 45674,
@@ -820,7 +847,8 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Autour du cinéaste 2"
   },
   {
     "idCategorie": 2504,
@@ -837,9 +865,9 @@
         "idFilm": 31591,
         "ordre": 1,
         "idSeance": 45848,
-        "idCopie": 22659,
-        "duree": 107,
-        "version": "",
+        "idCopie": 22629,
+        "duree": 136,
+        "version": "INT. FR.",
         "format": "16 mm",
         "valide": 1
       }
@@ -848,17 +876,29 @@
   {
     "idCategorie": 2284,
     "typeEvenement": 13,
-    "idEvenement": 24510,
+    "idEvenement": 24530,
     "idSeance": 45811,
     "dateHeure": "2021-09-19T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
+    "idSeanceAssoc": 47057,
+    "typeAssoc": 117,
     "items": [
       {
-        "idFilm": 108434,
+        "idFilm": 150375,
         "ordre": 1,
+        "idSeance": 45811,
+        "idCopie": 22633,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 108434,
+        "ordre": 2,
         "idSeance": 45811,
         "idCopie": 7056,
         "duree": 90,
@@ -869,9 +909,25 @@
     ]
   },
   {
+    "idCategorie": 2508,
+    "typeEvenement": 14,
+    "idEvenement": 24514,
+    "idSeance": 47057,
+    "dateHeure": "2021-09-19T17:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "idSeanceAssoc": 45811,
+    "typeAssoc": 117,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 2284,
     "typeEvenement": 13,
-    "idEvenement": 22338,
+    "idEvenement": 24531,
     "idSeance": 45813,
     "dateHeure": "2021-09-19T18:00:00",
     "idSalle": [
@@ -880,18 +936,8 @@
     ],
     "items": [
       {
-        "idFilm": 150374,
-        "ordre": 1,
-        "idSeance": 45813,
-        "idCopie": 22635,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      },
-      {
         "idFilm": 50368,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 45813,
         "idCopie": 22575,
         "duree": 77,
@@ -902,7 +948,7 @@
     ]
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24487,
     "idSeance": 45812,
@@ -929,7 +975,7 @@
         "idCopie": 21100,
         "duree": 19,
         "version": "",
-        "format": "16 mm",
+        "format": "Numérique",
         "valide": 1
       },
       {
@@ -962,10 +1008,11 @@
         "format": "Numérique",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Montagne et miscellanées"
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24462,
     "idSeance": 45814,
@@ -1002,7 +1049,7 @@
         "idCopie": 22486,
         "duree": 24,
         "version": "",
-        "format": "DCP",
+        "format": "Numérique",
         "valide": 1
       },
       {
@@ -1035,7 +1082,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Société et institutions"
   },
   {
     "idCategorie": 2284,
@@ -1049,8 +1097,18 @@
     ],
     "items": [
       {
-        "idFilm": 50366,
+        "idFilm": 150374,
         "ordre": 1,
+        "idSeance": 45815,
+        "idCopie": 22635,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 50366,
+        "ordre": 2,
         "idSeance": 45815,
         "idCopie": 407,
         "duree": 117,
@@ -1061,7 +1119,7 @@
     ]
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24467,
     "idSeance": 45816,
@@ -1131,10 +1189,11 @@
         "format": "16 mm",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Du cinéma"
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 22354,
     "idSeance": 45817,
@@ -1164,10 +1223,11 @@
         "format": "Numérique",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Cycle"
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24457,
     "idSeance": 45818,
@@ -1227,12 +1287,13 @@
         "format": "16 mm",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Liquides"
   },
   {
     "idCategorie": 2284,
     "typeEvenement": 13,
-    "idEvenement": 22365,
+    "idEvenement": 24529,
     "idSeance": 45819,
     "dateHeure": "2021-09-25T19:00:00",
     "idSalle": [
@@ -1241,18 +1302,8 @@
     ],
     "items": [
       {
-        "idFilm": 150375,
-        "ordre": 1,
-        "idSeance": 45819,
-        "idCopie": 22633,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      },
-      {
         "idFilm": 78975,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 45819,
         "idCopie": 2362,
         "duree": 81,
@@ -1265,7 +1316,7 @@
   {
     "idCategorie": 2284,
     "typeEvenement": 13,
-    "idEvenement": 24500,
+    "idEvenement": 24528,
     "idSeance": 45820,
     "dateHeure": "2021-09-25T21:30:00",
     "idSalle": [
@@ -1274,8 +1325,18 @@
     ],
     "items": [
       {
-        "idFilm": 50365,
+        "idFilm": 150383,
         "ordre": 1,
+        "idSeance": 45820,
+        "idCopie": 22640,
+        "duree": 2,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 50365,
+        "ordre": 2,
         "idSeance": 45820,
         "idCopie": 6505,
         "duree": 88,
@@ -1288,7 +1349,7 @@
   {
     "idCategorie": 2284,
     "typeEvenement": 13,
-    "idEvenement": 24369,
+    "idEvenement": 24527,
     "idSeance": 45821,
     "dateHeure": "2021-09-26T16:00:00",
     "idSalle": [
@@ -1297,18 +1358,8 @@
     ],
     "items": [
       {
-        "idFilm": 150383,
-        "ordre": 1,
-        "idSeance": 45821,
-        "idCopie": 22640,
-        "duree": 2,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      },
-      {
         "idFilm": 50367,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 45821,
         "idCopie": 20975,
         "duree": 19,
@@ -1318,18 +1369,18 @@
       },
       {
         "idFilm": 50364,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 45821,
-        "idCopie": 22579,
+        "idCopie": 20979,
         "duree": 75,
         "version": "",
-        "format": "35 mm",
+        "format": "Numérique",
         "valide": 1
       }
     ]
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2513,
     "typeEvenement": 13,
     "idEvenement": 24472,
     "idSeance": 45825,
@@ -1389,7 +1440,8 @@
         "format": "Numérique",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Animaux"
   },
   {
     "idCategorie": 2284,
@@ -1429,13 +1481,14 @@
         "idCopie": 21081,
         "duree": 82,
         "version": "",
-        "format": "Numérique",
+        "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Ouverture"
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2512,
     "typeEvenement": 13,
     "idEvenement": 24430,
     "idSeance": 45824,
@@ -1465,10 +1518,11 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Autour du cinéaste 2"
   },
   {
-    "idCategorie": 2284,
+    "idCategorie": 2512,
     "typeEvenement": 13,
     "idEvenement": 24484,
     "idSeance": 45746,
@@ -1498,7 +1552,8 @@
         "format": "Numérique",
         "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Autour du cinéaste 1"
   },
   {
     "idCategorie": 2284,
