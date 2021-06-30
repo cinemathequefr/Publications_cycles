@@ -33,7 +33,7 @@ de Richard Brooks
 D'après le roman _Le Carnaval des dieux_ de Robert C. Ruark.  
 Avec Rock Hudson, Dana Wynter, Sidney Poitier, Wendy Hiller.  
 Kenya, 1952 : deux amis d'enfance, un fermier blanc et un jeune déliquant noir, vont être séparés par l'histoire de leur pays.  
-Copie 35 mm UCLA Film and Television Archive. Film sous réserve.
+Copie 35 mm UCLA Film and Television Archive.
 
 - je 23 sep 17h00 HL  
 - sa 2 oct 18h30 HL
@@ -71,7 +71,7 @@ Avec Gene Hackman, Candice Bergen, James Coburn.
 En 1908, un journal organise une course de chevaux de mille kilomètres à travers le Grand Ouest. Huit hommes et une femme participent à l'aventure, espérant décrocher la prime promise au vainqueur.
 
 - di 19 sep 20h00 HL  
-- di 3 oct 19h15 GF
+- je 30 sep 21h00 HL
 
 [30631]  
 **Le Cirque infernal**  
@@ -94,7 +94,7 @@ Avec Robert Blake, Scott Wilson, John Forsythe.
 Deux repris de justice assassinent froidement une famille d'agriculteurs du Kansas et fuient vers le Mexique.
 
 - di 19 sep 17h00 HL  
-- di 10 oct 18h00 HL
+- di 10 oct 18h15 HL
 
 [30697]  
 **La Derniere chasse**  
@@ -116,7 +116,6 @@ D'après la nouvelle _Retour à Babylone_ de Francis Scott Fitzgerald.
 Avec Elizabeth Taylor, Van Johnson, Walter Pidgeon.  
 Charles et Helen se marient et ont bientôt une petite fille, Vicki. Mais Charles se met à boire et Helen meurt soudainement. Charles décide alors de quitter Paris. De retour dans la ville bien des années après, il se remémore son passé.
 
-- ve 17 sep 19h00 HL  
 - sa 16 oct 14h30 HL
 
 [30654]  
@@ -127,7 +126,7 @@ de Richard Brooks
 Avec Warren Beatty, Goldie Hawn, Gert Froebe.  
 Joe Collins, en charge des systèmes de sécurité d'une banque à Hambourg, décide de monter un hold-up visant les coffres remplis de l'argent de la pègre. Mais celle-ci est mise au courant de la manœuvre.
 
-- ve 1 oct 21h00 HL  
+- ve 1 oct 21h15 HL  
 - sa 9 oct 14h00 GF
 
 [30689]  
@@ -139,8 +138,8 @@ D'après la pièce _Doux oiseau de jeunesse_ de Tennessee Williams.
 Avec Paul Newman, Geraldine Page, Shirley Knight, Ed Begley.  
 Chance Wayne, jeune arriviste peu fortuné, retourne dans sa ville natale accompagné d'une ancienne vedette d'Hollywood. Il apprend les fiançailles de celle qu'il aime toujours et dont le père, politicien puissant, lui avait refusé la main.
 
-- di 19 sep 14h30 HL  
-- me 6 oct 21h30 HL
+- me 6 oct 21h30 HL  
+- je 14 oct 16h30 GF
 
 [30673]  
 **Elmer Gantry le charlatan**  
@@ -152,7 +151,7 @@ Avec Burt Lancaster, Jean Simmons, Arthur Kennedy.
 Voyageur de commerce beau parleur, Elmer Gantry vit de petites combines. Flairant la bonne affaire, il se convertit à l'évangélisme et rencontre un grand succès comme prédicateur. Mais son passé finit par le rattraper.
 
 - me 15 sep 20h00 HL  
-- di 10 oct 20h45 HL
+- di 10 oct 21h00 HL
 
 [73059]  
 **La Fièvre du jeu**  
@@ -198,7 +197,7 @@ D'après le roman _Graine de violence_ d'Evan Hunter.
 Avec Glenn Ford, Anne Francis, Louis Calhern, Sidney Poitier.  
 Les rapports difficiles entre un professeur et ses élèves dans un lycée professionnel.
 
-- ve 17 sep 21h30 HL  
+- ve 17 sep 21h15 HL  
 - ve 8 oct 17h00 HL
 
 [30677]  
@@ -208,8 +207,8 @@ de Richard Brooks
 Avec Jean Simmons, John Forsythe, Shirley Jones, Lloyd Bridges.  
 Mary Wilson, une femme au foyer insatisfaite, prend sur un coup de tête un billet d'avion pour les Bahamas. En route, elle rencontre par hasard une ancienne camarade d'université qui mène sous les tropiques la vie libre et hédoniste dont Mary a toujours secrètement rêvé.
 
-- je 30 sep 21h00 HL  
-- je 7 oct 16h30 HL
+- je 7 oct 16h30 HL  
+- di 10 oct 15h45 HL
 
 [41389]  
 **Lord Jim**  
@@ -242,7 +241,7 @@ D'après l'histoire _Crown of Thorns_ de Jed Harris et Tom Reed.
 Avec Stewart Granger, Pier Angeli, George Sanders.  
 Un cambrioleur, spécialisé en œuvres d'art, dérobe un tableau mais fait croire à son associé qu'il a brûlé.
 
-- di 10 oct 16h00 HL  
+- di 26 sep 17h15 GF  
 - sa 16 oct 19h00 JE
 
 [30682]  
@@ -264,7 +263,7 @@ de Richard Brooks
 D'après la pièce _The Catered Affair_ de Paddy Chayefsky.  
 Avec Bette Davis, Ernest Borgnine, Debbie Reynolds.  
 Pour le mariage de leur fille, un chauffeur de taxi du Bronx et sa femme s'apprêtent à sacrifier toutes leurs économies afin de lui offrir la fête somptueuse qu'eux-mêmes auraient voulu avoir.  
-Copie 35 mm UCLA Film and Television Archive. Film sous réserve.
+Copie 35 mm UCLA Film and Television Archive.
 
 - ve 17 sep 17h00 HL  
 - ve 24 sep 19h30 JE
@@ -291,7 +290,7 @@ D'après la nouvelle _Brute Force_ de Robert Patterson.
 Avec Burt Lancaster, Hume Cronyn, Charles Bickford, Yvonne De Carlo.  
 Dans un pénitencier, un détenu cherche à s'échapper et entre en guerre ouverte contre le sadique gardien-chef.
 
-- lu 27 sep 21h15 GF
+- me 13 oct 21h00 GF
 
 [31608]  
 **Feux croisés**  
@@ -302,7 +301,7 @@ D'après le roman _The Brick Foxhole_ de Richard Brooks.
 Avec Robert Young, Robert Mitchum, Robert Ryan, Gloria Grahame.  
 En 1947, la police, qui suspecte quatre soldats du meurtre d'un homme, découvre peu à peu leur mobile, l'antisémitisme.
 
-- lu 27 sep 19h15 GF
+- me 13 oct 19h00 GF
 
 ## Rencontres et conférences
 

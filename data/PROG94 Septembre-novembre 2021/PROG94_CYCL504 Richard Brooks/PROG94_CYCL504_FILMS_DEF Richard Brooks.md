@@ -26,7 +26,7 @@ D'après le roman _Le Carnaval des dieux_ de Robert C. Ruark.
 Avec Rock Hudson, Dana Wynter, Sidney Poitier, Wendy Hiller.  
 Kenya, 1952 : deux amis d'enfance, un fermier blanc et un jeune déliquant noir, vont être séparés par l'histoire de leur pays.
 
-Copie 35 mm UCLA Film and Television Archive. Film sous réserve.
+Copie 35 mm UCLA Film and Television Archive.
 
 [46047]  
 **Cas de conscience**  
@@ -217,7 +217,7 @@ D'après la pièce _The Catered Affair_ de Paddy Chayefsky.
 Avec Bette Davis, Ernest Borgnine, Debbie Reynolds.  
 Pour le mariage de leur fille, un chauffeur de taxi du Bronx et sa femme s'apprêtent à sacrifier toutes leurs économies afin de lui offrir la fête somptueuse qu'eux-mêmes auraient voulu avoir.
 
-Copie 35 mm UCLA Film and Television Archive. Film sous réserve.
+Copie 35 mm UCLA Film and Television Archive.
 
 [79865]  
 **Sergent la Terreur**  
