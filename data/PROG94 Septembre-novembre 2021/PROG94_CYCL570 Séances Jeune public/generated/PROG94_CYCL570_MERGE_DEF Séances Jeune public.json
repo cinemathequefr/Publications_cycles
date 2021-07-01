@@ -1,6 +1,96 @@
 {
   "data": [
     {
+      "titreSousCycle": "Avant-première",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 42751,
+          "ordre": 1,
+          "dateHeure": "2021-09-26T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2502,
+          "idEvenement": 24498,
+          "typeEvenement": 13,
+          "idFilm": 150390,
+          "titre": "Même les souris vont au paradis",
+          "titreVo": "I myši patří do nebe",
+          "realisateurs": "Jan Bubeníček, Denisa Grimmová",
+          "annee": 2020,
+          "pays": "République tchèque",
+          "duree": 85,
+          "version": "VF",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Après un malencontreux accident, une jeune souris au caractère bien trempé et un renardeau plutôt renfermé se retrouvent au paradis des animaux. Privés de leurs instincts naturels, ils deviennent les meilleurs amis du monde... jusqu'au jour où ils doivent revenir sur terre."
+            }
+          ]
+        },
+        {
+          "idSeance": 42940,
+          "ordre": 1,
+          "dateHeure": "2021-10-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2502,
+          "idEvenement": 22816,
+          "typeEvenement": 13,
+          "idFilm": 128540,
+          "art": "La",
+          "titre": "Saint-Festin",
+          "realisateurs": "Anne-Laure Daffis, Léo Marchand",
+          "annee": 2008,
+          "pays": "France",
+          "duree": 15,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 8,
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Chaque 40 novembre, on célèbre la Saint-Festin, la grande fête des ogres."
+            }
+          ]
+        },
+        {
+          "idSeance": 47036,
+          "ordre": 1,
+          "dateHeure": "2021-10-31T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2502,
+          "idEvenement": 24496,
+          "typeEvenement": 13,
+          "idFilm": 150388,
+          "art": "Les",
+          "titre": "Voisins de mes voisins sont mes voisins",
+          "realisateurs": "Anne-Laure Daffis, Léopold Marchand",
+          "annee": 2020,
+          "pays": "France",
+          "duree": 93,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 8,
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Un ogre affamé, un magicien maladroit, un randonneur suréquipé, un vieux monsieur romantique, une maman pressée : tous se croisent dans un immeuble où leurs destins s'entremêlent."
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
       "titreSousCycle": "Les films",
       "tri": 4,
       "items": [
@@ -18,7 +108,6 @@
           "idFilm": 46566,
           "art": "Les",
           "titre": "Aventures d'Arsène Lupin",
-          "titreVo": "",
           "realisateurs": "Jacques Becker",
           "annee": 1956,
           "pays": "France-Italie",
@@ -29,12 +118,12 @@
           "generique": [
             "Robert Lamoureux",
             "Liselotte Pulver",
-            "O.E. Hasse"
+            "O. E. Hasse"
           ],
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "Qui connait la véritable identité d'Arsène Lupin ? Il peut être tour à tour être diplomate ou riche viticulteur. Mais c'est toujours avec une grande élégance et une incroyable inventivité qu'il commet ses forfaits."
+              "texte": "Personne ne connait la véritable identité d'Arsène Lupin, tour à tour diplomate ou riche viticulteur. Mais c'est toujours avec une grande élégance et une incroyable inventivité qu'il commet ses forfaits."
             }
           ]
         },
@@ -52,7 +141,6 @@
           "idFilm": 49246,
           "art": "Le",
           "titre": "Bossu",
-          "titreVo": "",
           "realisateurs": "André Hunebelle",
           "annee": 1959,
           "pays": "France-Italie",
@@ -69,7 +157,7 @@
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "Personne ne semble prêter attention à ce bossu qui fréquente la cour et qui a ses entrées auprès des nobles du pays. Mais Soudain, il se redresse, troque sa veste de velours noir contre un habit de lumière et redevient Lagadère !"
+              "texte": "Personne ne semble prêter attention à ce bossu qui fréquente la cour et qui a ses entrées auprès des nobles du pays. Mais un jour, il se redresse, troque sa veste de velours noir contre un habit de lumière et redevient Lagardère !"
             }
           ]
         },
@@ -102,7 +190,7 @@
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "Comment se faire oublier quand on a une bande de gangster à ses trousses ? Joe et Jerry deux musiciens sans travail, trouvent refuge dans un orchestre féminin. Déguisés en femmes, ils ont soudain du succès !"
+              "texte": "Comment se faire oublier quand on a une bande de gangsters à ses trousses ? Joe et Jerry, deux musiciens sans travail, trouvent refuge dans un orchestre, déguisés en femmes."
             }
           ]
         },
@@ -120,12 +208,18 @@
           "idFilm": 65733,
           "art": "La",
           "titre": "Chrysalide et le papillon d'or",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1901,
           "pays": "France",
-          "ageMinimal": null,
-          "textes": []
+          "generique": [
+            "Georges Méliès"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Un magicien, en jouant de la flûte, fait surgir de son cocon une grosse chenille, qu'il transforme ensuite en femme-papillon. Tombé amoureux d'elle, il tente de la capturer."
+            }
+          ]
         },
         {
           "idSeance": 42841,
@@ -141,12 +235,18 @@
           "idFilm": 65733,
           "art": "La",
           "titre": "Chrysalide et le papillon d'or",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1901,
           "pays": "France",
-          "ageMinimal": null,
-          "textes": []
+          "generique": [
+            "Georges Méliès"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Un magicien, en jouant de la flûte, fait surgir de son cocon une grosse chenille, qu'il transforme ensuite en femme-papillon. Tombé amoureux d'elle, il tente de la capturer."
+            }
+          ]
         },
         {
           "idSeance": 42805,
@@ -162,12 +262,19 @@
           "idFilm": 101917,
           "art": "La",
           "titre": "Danse du feu",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1899,
           "pays": "France",
-          "ageMinimal": null,
-          "textes": []
+          "generique": [
+            "Georges Méliès",
+            "Jehanne d'Alcy"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Dans une cheminée, un diable joue et danse avec le feu, jusqu'à faire apparaître une flamme vivante."
+            }
+          ]
         },
         {
           "idSeance": 42841,
@@ -183,12 +290,19 @@
           "idFilm": 101917,
           "art": "La",
           "titre": "Danse du feu",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1899,
           "pays": "France",
-          "ageMinimal": null,
-          "textes": []
+          "generique": [
+            "Georges Méliès",
+            "Jehanne d'Alcy"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Dans une cheminée, un diable joue et danse avec le feu, jusqu'à faire apparaître une flamme vivante."
+            }
+          ]
         },
         {
           "idSeance": 42985,
@@ -214,7 +328,12 @@
             "Monte Collins",
             "Joe Murphy"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Un employé de théâtre maladroit sème le chaos dans un spectacle, et, en essayant de se rattraper, ne fait qu'empirer les choses. Mais le public semble trouver la situation fort divertissante."
+            }
+          ]
         },
         {
           "idSeance": 42805,
@@ -230,15 +349,18 @@
           "idFilm": 52462,
           "art": "La",
           "titre": "Fée Carabosse ou Le Poignard fatal",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1906,
           "pays": "France",
-          "ageMinimal": null,
           "generique": [
             "Georges Méliès"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "La fée Carabosse prédit à un troubadour qu'il va délivrer une princesse. Elle lui vend un talisman magique pour l'aider, mais le jeune homme se trompe et paie avec un sac rempli de sable. Elle jure alors de se venger."
+            }
+          ]
         },
         {
           "idSeance": 42841,
@@ -254,15 +376,18 @@
           "idFilm": 52462,
           "art": "La",
           "titre": "Fée Carabosse ou Le Poignard fatal",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1906,
           "pays": "France",
-          "ageMinimal": null,
           "generique": [
             "Georges Méliès"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "La fée Carabosse prédit à un troubadour qu'il va délivrer une princesse. Elle lui vend un talisman magique pour l'aider, mais le jeune homme se trompe et paie avec un sac rempli de sable. Elle jure alors de se venger."
+            }
+          ]
         },
         {
           "idSeance": 42805,
@@ -278,12 +403,19 @@
           "idFilm": 52471,
           "art": "L'",
           "titre": "Homme à la tête en caoutchouc",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1901,
           "pays": "France",
           "ageMinimal": 6,
-          "textes": []
+          "generique": [
+            "Georges Méliès"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Dans un laboratoire, un homme en blouse blanche joue avec une tête coupée qui ressemble à la sienne comme deux gouttes d'eau. Il la fait gonfler, puis dégonfler, et elle finit par exploser."
+            }
+          ]
         },
         {
           "idSeance": 42841,
@@ -299,12 +431,19 @@
           "idFilm": 52471,
           "art": "L'",
           "titre": "Homme à la tête en caoutchouc",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1901,
           "pays": "France",
           "ageMinimal": 6,
-          "textes": []
+          "generique": [
+            "Georges Méliès"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Dans un laboratoire, un homme en blouse blanche joue avec une tête coupée qui ressemble à la sienne comme deux gouttes d'eau. Il la fait gonfler, puis dégonfler, et elle finit par exploser."
+            }
+          ]
         },
         {
           "idSeance": 45843,
@@ -332,7 +471,7 @@
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "Robert Bob Parr a du mal à endosser tous les matins son costume-cravate pour aller travailler dans une compagnie d'assurance. Il préférerait enfiler son costume de M. Indestructible pour aller se battre contre les méchants !"
+              "texte": "Robert « Bob » Parr a bien du mal à endosser tous les matins son costume-cravate pour aller travailler dans une compagnie d'assurances. Il préférerait enfiler son habit de M. Indestructible pour aller se battre contre les méchants !"
             }
           ]
         },
@@ -348,8 +487,8 @@
           "idEvenement": 24490,
           "typeEvenement": 13,
           "idFilm": 31255,
-          "titre": "Mam'zelle Charlot = Charlot fait des siennes = Charlot mademoiselle",
-          "titreVo": "A Woman = The Perfect Lady",
+          "titre": "Mam'zelle Charlot",
+          "titreVo": "A Woman",
           "realisateurs": "Charles Chaplin",
           "annee": 1915,
           "pays": "États-Unis",
@@ -358,7 +497,12 @@
             "Charles Chaplin",
             "Edna Purviance"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Charlot se travestit en femme afin de tromper le père de sa petite amie."
+            }
+          ]
         },
         {
           "idSeance": 42796,
@@ -391,7 +535,7 @@
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "On croyait avoir jeté Zorro aux oubliettes, mais voilà que réapparaît la noire silhouette, la cape et l'épée du justicier masqué. Qui se cache cette fois sous cet habit si reconnaissable ?"
+              "texte": "On croyait avoir jeté Zorro aux oubliettes, mais voilà que réapparaît la noire silhouette du justicier masqué, avec sa cape et son épée. Qui se cache cette fois sous le fameux costume ?"
             }
           ]
         },
@@ -409,12 +553,18 @@
           "idFilm": 45662,
           "art": "Le",
           "titre": "Mélomane",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1903,
           "pays": "France",
-          "ageMinimal": null,
-          "textes": []
+          "generique": [
+            "Georges Méliès"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Un chef d'orchestre dirige six choristes et deux musiciens devant une portée musicale constituée de cinq fils suspendus au-dessus d'eux."
+            }
+          ]
         },
         {
           "idSeance": 42841,
@@ -430,35 +580,18 @@
           "idFilm": 45662,
           "art": "Le",
           "titre": "Mélomane",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1903,
           "pays": "France",
-          "ageMinimal": null,
-          "textes": []
-        },
-        {
-          "idSeance": 42751,
-          "ordre": 1,
-          "dateHeure": "2021-09-26T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
+          "generique": [
+            "Georges Méliès"
           ],
-          "idCategorie": 2502,
-          "idEvenement": 24498,
-          "typeEvenement": 13,
-          "idFilm": 150390,
-          "titre": "Même les souris vont au paradis",
-          "titreVo": "I mysi patrí do nebe",
-          "realisateurs": "Denisa Grimmová Abrhámová, Jan Bubenícek",
-          "annee": 2020,
-          "pays": "République tchèque",
-          "duree": 85,
-          "version": "VF",
-          "format": "DCP",
-          "ageMinimal": null,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Un chef d'orchestre dirige six choristes et deux musiciens devant une portée musicale constituée de cinq fils suspendus au-dessus d'eux."
+            }
+          ]
         },
         {
           "idSeance": 42805,
@@ -473,11 +606,9 @@
           "typeEvenement": 13,
           "idFilm": 84596,
           "titre": "Panorama pris d'un train en marche",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1898,
           "pays": "France",
-          "ageMinimal": null,
           "textes": []
         },
         {
@@ -493,11 +624,9 @@
           "typeEvenement": 13,
           "idFilm": 84596,
           "titre": "Panorama pris d'un train en marche",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1898,
           "pays": "France",
-          "ageMinimal": null,
           "textes": []
         },
         {
@@ -531,7 +660,7 @@
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "Mais qui a volé la Panthère Rose, cet incroyable diamant ? L'inspecteur Clouseau espère bien réussir à arrêter le voleur mais il se retrouve dans un bal masqué où l'extravagance des costumes est propice aux plus amusants malentendus."
+              "texte": "Mais qui a volé la Panthère Rose, cet incroyable diamant ? L'inspecteur Clouseau espère arrêter le voleur, mais il se retrouve dans un bal masqué où l'extravagance des costumes est propice aux plus amusants malentendus."
             }
           ]
         },
@@ -547,8 +676,7 @@
           "idEvenement": 24386,
           "typeEvenement": 13,
           "idFilm": 48045,
-          "titre": "Peau d'Ane",
-          "titreVo": "",
+          "titre": "Peau d'âne",
           "realisateurs": "Jacques Demy",
           "annee": 1970,
           "pays": "France",
@@ -562,11 +690,11 @@
             "Jean Marais",
             "Delphine Seyrig"
           ],
-          "adaptation": "D'après le conte _Peau d'Ane_ de Charles Perrault.",
+          "adaptation": "D'après le conte _Peau d'âne_ de Charles Perrault.",
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "Une robe couleur du temps, une autre couleur de Lune ou de Soleil...mais c'est sous une peau d'âne que la princesse cherchera à échapper au mariage avec son père."
+              "texte": "Obéissant aux manigances de la Fée des lilas, Peau d'âne fuit son père, le roi, dissimulée sous sa fameuse peau de bête."
             }
           ]
         },
@@ -589,7 +717,17 @@
           "annee": 1925,
           "pays": "États-Unis",
           "ageMinimal": 4,
-          "textes": []
+          "generique": [
+            "Stan Laurel",
+            "Glen Cavender",
+            "Alberta Vaughn"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Parodie des aventures de Sherlock Holmes, avec Stan Laurel en détective privé, contraint de travestir en bonne et en femme fatale."
+            }
+          ]
         },
         {
           "idSeance": 42805,
@@ -605,12 +743,18 @@
           "idFilm": 84853,
           "art": "Le",
           "titre": "Portrait mystérieux",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1899,
           "pays": "France",
-          "ageMinimal": null,
-          "textes": []
+          "generique": [
+            "Georges Méliès"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Georges Méliès converse avec son double, qu'il a fait apparaître dans un portrait."
+            }
+          ]
         },
         {
           "idSeance": 42841,
@@ -626,12 +770,18 @@
           "idFilm": 84853,
           "art": "Le",
           "titre": "Portrait mystérieux",
-          "titreVo": "",
           "realisateurs": "Georges Méliès",
           "annee": 1899,
           "pays": "France",
-          "ageMinimal": null,
-          "textes": []
+          "generique": [
+            "Georges Méliès"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Georges Méliès converse avec son double, qu'il a fait apparaître dans un portrait."
+            }
+          ]
         },
         {
           "idSeance": 42805,
@@ -646,13 +796,16 @@
           "typeEvenement": 13,
           "idFilm": 52496,
           "art": "Le",
-          "titre": "Raid Paris-Monte-Carlo en automobile = Le Raid Paris-Monte Carlo en deux heures",
-          "titreVo": "",
+          "titre": "Raid Paris-Monte-Carlo en automobile",
           "realisateurs": "Georges Méliès",
           "annee": 1905,
           "pays": "France",
-          "ageMinimal": null,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Le Roi de Belgique Léopold II, célèbre pour ses accidents d'automobile, entreprend le raid Paris-Monte-Carlo en deux heures avec sa voiture."
+            }
+          ]
         },
         {
           "idSeance": 42841,
@@ -667,13 +820,16 @@
           "typeEvenement": 13,
           "idFilm": 52496,
           "art": "Le",
-          "titre": "Raid Paris-Monte-Carlo en automobile = Le Raid Paris-Monte Carlo en deux heures",
-          "titreVo": "",
+          "titre": "Raid Paris-Monte-Carlo en automobile",
           "realisateurs": "Georges Méliès",
           "annee": 1905,
           "pays": "France",
-          "ageMinimal": null,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Le Roi de Belgique Léopold II, célèbre pour ses accidents d'automobile, entreprend le raid Paris-Monte-Carlo en deux heures avec sa voiture."
+            }
+          ]
         },
         {
           "idSeance": 43030,
@@ -690,7 +846,7 @@
           "art": "Le",
           "titre": "Roi des masques",
           "titreVo": "Bian lian",
-          "realisateurs": "Tian-Ming Wu",
+          "realisateurs": "Tianming Wu",
           "annee": 1995,
           "pays": "Hong-Kong",
           "duree": 101,
@@ -705,36 +861,7 @@
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "Maître Wang est le roi des masques, il sait en un éclair faire se succéder les masques de soie qu'il porte sur son visage. C'est ainsi qu'il gagne sa vie, accompagné de son singe Général. Il cherche un héritier à qui transmettre son art et va adopter Gouwa qui sait aussi dissimuler son identité."
-            }
-          ]
-        },
-        {
-          "idSeance": 42940,
-          "ordre": 1,
-          "dateHeure": "2021-10-27T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2502,
-          "idEvenement": 22816,
-          "typeEvenement": 13,
-          "idFilm": 128540,
-          "art": "La",
-          "titre": "Saint-Festin",
-          "titreVo": "",
-          "realisateurs": "Anne-Laure Daffis, Léo Marchand",
-          "annee": 2008,
-          "pays": "France",
-          "duree": 15,
-          "version": "",
-          "format": "DCP",
-          "ageMinimal": 8,
-          "textes": [
-            {
-              "typeTexte": 203,
-              "texte": "A l'aide de courtes vidéos réalisées au fur et à mesure de la création du film, le réalisateur, Léo Marchand révélera au public les étapes clés de sa fabrication (écriture, storyboard, animatique, enregistrement des voix, animation, ...) mais aussi ses spécificités (hybridation visuelle, emploi d'archives filmées, réutilisation d'anciens films, détournements de situations réelles, ...). Durée totale 90 min"
+              "texte": "Maître Wang est le roi des masques, et sait intervertir en un éclair ceux qu'il porte sur son visage. C'est ainsi qu'il gagne sa vie, accompagné de son singe Général. À la recherche d'un héritier à qui transmettre son art, il adopte Gouwa, qui sait lui aussi dissimuler son identité."
             }
           ]
         },
@@ -751,7 +878,6 @@
           "typeEvenement": 13,
           "idFilm": 79289,
           "titre": "Spider-Man",
-          "titreVo": "",
           "realisateurs": "Sam Raimi",
           "annee": 2001,
           "pays": "États-Unis",
@@ -764,11 +890,11 @@
             "Willem Dafoe",
             "Kirsten Dunst"
           ],
-          "adaptation": "D'après la bande dessinée _Spiderman_ de Stan Lee et Steve Ditko.",
+          "adaptation": "D'après la série de bandes dessinées _Spider-Man_ de Stan Lee et Steve Ditko.",
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "Peter Parker se lance dans la couture pour s'inventer un costume qui accompagnera les mutations qui modifient son corps après avoir été piqué par une araignée. Autrement dit : Comment l'homme araignée va-t-il pouvoir s'habiller ?"
+              "texte": "Peter Parker, mordu par une araignée, voit son corps se modifier. Il se lance alors dans la couture pour s'inventer un costume qui accompagnera ces changements. Mais comment l'homme-araignée va-t-il pouvoir s'habiller ?"
             }
           ]
         },
@@ -785,7 +911,6 @@
           "typeEvenement": 13,
           "idFilm": 113095,
           "titre": "Tomboy",
-          "titreVo": "",
           "realisateurs": "Céline Sciamma",
           "annee": 2010,
           "pays": "France",
@@ -802,7 +927,7 @@
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "Short et T-shirt, c'est la tenue de l'été. Quand Laure rencontre Lisa sa nouvelle voisine, elle profite d'un quiproquo pour se faire appeler Mickaël et passer pour un garçon."
+              "texte": "Short et T-shirt, c'est la tenue de l'été. Quand Laure rencontre Lisa, sa nouvelle voisine, elle profite d'un quiproquo pour se faire appeler Mickaël et se faire passer pour un garçon."
             }
           ]
         },
@@ -819,8 +944,7 @@
           "typeEvenement": 13,
           "idFilm": 47650,
           "art": "La",
-          "titre": "Tulipe Noire",
-          "titreVo": "",
+          "titre": "Tulipe noire",
           "realisateurs": "Christian-Jaque",
           "annee": 1963,
           "pays": "France-Italie-Espagne",
@@ -836,36 +960,7 @@
           "textes": [
             {
               "typeTexte": 203,
-              "texte": "Qui est ce mystérieux justicier qui signe ses forfaits d'une tulipe noire ? Le chef de la police parvient à lui infliger une blessure au visage qui devrait lui permettre de le démasquer. Mais la tulipe noire a plus d'une ruse dans son sac !"
-            }
-          ]
-        },
-        {
-          "idSeance": 47036,
-          "ordre": 1,
-          "dateHeure": "2021-10-31T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2502,
-          "idEvenement": 24496,
-          "typeEvenement": 13,
-          "idFilm": 150388,
-          "art": "Les",
-          "titre": "Voisins de mes voisins sont mes voisins",
-          "titreVo": "",
-          "realisateurs": "Anne-Laure Daffis, Léopold Marchand",
-          "annee": 2020,
-          "pays": "France",
-          "duree": 93,
-          "version": "",
-          "format": "DCP",
-          "ageMinimal": 8,
-          "textes": [
-            {
-              "typeTexte": 203,
-              "texte": "Un ogre affamé, un magicien maladroit, un randonneur suréquipé, un vieux monsieur romantique, une maman pressée... tous se croisent dans un immeuble où les destins de dix vrais voisins ou voisins de voisins s'entremêlent."
+              "texte": "Qui est ce mystérieux justicier qui signe ses forfaits d'une tulipe noire ? Le chef de la police parvient à lui infliger une blessure au visage qui devrait lui permettre de le démasquer. Mais la Tulipe noire a plus d'un tour dans son sac."
             }
           ]
         },
@@ -882,7 +977,6 @@
           "typeEvenement": 13,
           "idFilm": 133164,
           "titre": "Wallace et Gromit : Les inventuriers",
-          "titreVo": "",
           "realisateurs": "Nick Park, Merlin Crossingham",
           "annee": 1989,
           "pays": "Grande-Bretagne",
@@ -890,7 +984,12 @@
           "version": "",
           "format": "DCP",
           "ageMinimal": 4,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Wallace, inventeur farfelu, et son flegmatique chien Gromit, enchaînent les aventures rocambolesques et les rencontres improbables."
+            }
+          ]
         },
         {
           "idSeance": 42985,
@@ -911,7 +1010,12 @@
           "annee": 1922,
           "pays": "États-Unis",
           "ageMinimal": 4,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Les mésaventures du célèbre Zigoto."
+            }
+          ]
         }
       ],
       "textes": []
