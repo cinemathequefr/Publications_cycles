@@ -41,7 +41,7 @@
         "duree": 143,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -65,6 +65,16 @@
         "version": "",
         "format": "Vidéo",
         "valide": 0
+      },
+      {
+        "idFilm": 150610,
+        "ordre": 2,
+        "idSeance": 45785,
+        "idCopie": 22721,
+        "duree": 12,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
       }
     ]
   },
@@ -123,18 +133,8 @@
     ],
     "items": [
       {
-        "idFilm": 59144,
-        "ordre": 1,
-        "idSeance": 45786,
-        "idCopie": 17977,
-        "duree": 8,
-        "version": "",
-        "format": "DCP",
-        "valide": 0
-      },
-      {
         "idFilm": 75902,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 45786,
         "idCopie": 14811,
         "duree": 11,
@@ -143,8 +143,28 @@
         "valide": 0
       },
       {
-        "idFilm": 145831,
+        "idFilm": 59144,
+        "ordre": 2,
+        "idSeance": 45786,
+        "idCopie": 17977,
+        "duree": 8,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 150609,
         "ordre": 3,
+        "idSeance": 45786,
+        "idCopie": 22720,
+        "duree": 32,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 145831,
+        "ordre": 4,
         "idSeance": 45786,
         "idCopie": 21607,
         "duree": 26,
@@ -152,7 +172,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Bernard Menez"
   },
   {
     "idCategorie": 2356,
@@ -210,7 +231,7 @@
   {
     "idCategorie": 2346,
     "typeEvenement": 13,
-    "idEvenement": 23002,
+    "idEvenement": 24595,
     "idSeance": 45692,
     "dateHeure": "2021-11-14T14:30:00",
     "idSalle": [
@@ -219,18 +240,8 @@
     ],
     "items": [
       {
-        "idFilm": 150389,
-        "ordre": 1,
-        "idSeance": 45692,
-        "idCopie": 22645,
-        "duree": 12,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
         "idFilm": 51031,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 45692,
         "idCopie": 5397,
         "duree": 110,
@@ -255,13 +266,14 @@
         "idFilm": 55934,
         "ordre": 1,
         "idSeance": 45764,
-        "idCopie": 2923,
-        "duree": 131,
+        "idCopie": 22722,
+        "duree": 130,
         "version": "",
-        "format": "35 mm",
-        "valide": 0
+        "format": "DCP",
+        "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Luis Rego et Bernard Menez"
   },
   {
     "idCategorie": 2355,
@@ -279,10 +291,10 @@
         "ordre": 1,
         "idSeance": 43068,
         "idCopie": 21690,
-        "duree": 5,
+        "duree": 20,
         "version": "",
-        "format": "DCP",
-        "valide": 0
+        "format": "Numérique",
+        "valide": 1
       },
       {
         "idFilm": 146005,
@@ -291,8 +303,8 @@
         "idCopie": 21691,
         "duree": 61,
         "version": "",
-        "format": "",
-        "valide": 0
+        "format": "Numérique",
+        "valide": 1
       },
       {
         "idFilm": 76518,
@@ -303,29 +315,6 @@
         "version": "",
         "format": "DCP",
         "valide": 0
-      }
-    ]
-  },
-  {
-    "idCategorie": 2346,
-    "typeEvenement": 13,
-    "idEvenement": 24445,
-    "idSeance": 45788,
-    "dateHeure": "2021-11-15T19:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 150360,
-        "ordre": 1,
-        "idSeance": 45788,
-        "idCopie": 22626,
-        "duree": 60,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
       }
     ]
   },
@@ -438,6 +427,16 @@
         "version": "",
         "format": "Vidéo",
         "valide": 0
+      },
+      {
+        "idFilm": 150610,
+        "ordre": 2,
+        "idSeance": 45774,
+        "idCopie": 22721,
+        "duree": 12,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
       }
     ]
   },
@@ -457,10 +456,10 @@
         "ordre": 1,
         "idSeance": 45775,
         "idCopie": 21690,
-        "duree": 5,
+        "duree": 20,
         "version": "",
-        "format": "DCP",
-        "valide": 0
+        "format": "Numérique",
+        "valide": 1
       },
       {
         "idFilm": 146005,
@@ -469,8 +468,8 @@
         "idCopie": 21691,
         "duree": 61,
         "version": "",
-        "format": "",
-        "valide": 0
+        "format": "Numérique",
+        "valide": 1
       },
       {
         "idFilm": 76518,
@@ -553,7 +552,7 @@
         "ordre": 2,
         "idSeance": 45790,
         "idCopie": 22627,
-        "duree": 60,
+        "duree": 77,
         "version": "",
         "format": "Numérique",
         "valide": 1
@@ -565,25 +564,15 @@
     "typeEvenement": 13,
     "idEvenement": 23004,
     "idSeance": 45781,
-    "dateHeure": "2021-11-21T17:30:00",
+    "dateHeure": "2021-11-21T17:45:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
-        "idFilm": 59144,
-        "ordre": 1,
-        "idSeance": 45781,
-        "idCopie": 17977,
-        "duree": 8,
-        "version": "",
-        "format": "DCP",
-        "valide": 0
-      },
-      {
         "idFilm": 75902,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 45781,
         "idCopie": 14811,
         "duree": 11,
@@ -592,8 +581,28 @@
         "valide": 0
       },
       {
-        "idFilm": 145831,
+        "idFilm": 59144,
+        "ordre": 2,
+        "idSeance": 45781,
+        "idCopie": 17977,
+        "duree": 8,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 150609,
         "ordre": 3,
+        "idSeance": 45781,
+        "idCopie": 22720,
+        "duree": 32,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 145831,
+        "ordre": 4,
         "idSeance": 45781,
         "idCopie": 21607,
         "duree": 26,
@@ -610,8 +619,8 @@
     "idSeance": 45776,
     "dateHeure": "2021-11-21T19:00:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -643,8 +652,8 @@
     "idSeance": 45777,
     "dateHeure": "2021-11-21T21:15:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -695,32 +704,9 @@
         "ordre": 2,
         "idSeance": 45846,
         "idCopie": 22627,
-        "duree": 60,
+        "duree": 77,
         "version": "",
         "format": "Numérique",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2346,
-    "typeEvenement": 13,
-    "idEvenement": 24445,
-    "idSeance": 45772,
-    "dateHeure": "2021-11-26T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 150360,
-        "ordre": 1,
-        "idSeance": 45772,
-        "idCopie": 22626,
-        "duree": 60,
-        "version": "",
-        "format": "DCP",
         "valide": 1
       }
     ]
@@ -730,7 +716,7 @@
     "typeEvenement": 13,
     "idEvenement": 23011,
     "idSeance": 45773,
-    "dateHeure": "2021-11-26T21:00:00",
+    "dateHeure": "2021-11-26T22:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -781,7 +767,7 @@
   {
     "idCategorie": 2346,
     "typeEvenement": 13,
-    "idEvenement": 23002,
+    "idEvenement": 24595,
     "idSeance": 43145,
     "dateHeure": "2021-11-27T15:00:00",
     "idSalle": [
@@ -790,18 +776,8 @@
     ],
     "items": [
       {
-        "idFilm": 150389,
-        "ordre": 1,
-        "idSeance": 43145,
-        "idCopie": 22645,
-        "duree": 12,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
         "idFilm": 51031,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 43145,
         "idCopie": 5397,
         "duree": 110,
@@ -853,7 +829,7 @@
         "duree": 143,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -872,11 +848,11 @@
         "idFilm": 55934,
         "ordre": 1,
         "idSeance": 45741,
-        "idCopie": 2923,
-        "duree": 131,
+        "idCopie": 22722,
+        "duree": 130,
         "version": "",
-        "format": "35 mm",
-        "valide": 0
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
