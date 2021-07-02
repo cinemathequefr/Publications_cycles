@@ -176,6 +176,8 @@ Avec son seul sabre, un aveugle affronte des tueurs impitoyables, pour sauver le
 
 **Courts métrages, fragments et films de fin d'étude.**
 
+### Programme 1
+
 [149900]  
 **Disco**  
 de Phillip Noyce  
@@ -216,6 +218,8 @@ Avec Bill Lyle, Phillip Noyce, Gretel Pinninger.
 Une troupe de théâtre sur le déclin décide d'ajouter un sulfureux numéro de striptease à son spectacle.
 
 - lu 1 nov 19h00 GF
+
+### Programme 2
 
 [149859]  
 **Camera Class**  
@@ -258,10 +262,11 @@ Plans du soleil d'hiver.
 ## Rencontres et conférences
 
 []  
-**Discussion avec Philip Noyce**  
+**Phillip Noyce par Phillip Noyce**  
 undefined  
 60 min  
-Texte à saisir
+« Quand j'ai lu le livre [_Dead Calm_ de Charles Williams], je me suis dit qu'on avait de l'eau en Australie, bref, que c'était un film possible. Je me suis mis au travail. Méticuleusement. Car l'essentiel, c'est le scénario. Chaque erreur de script, à l'écran, se paie cash. (...) J'aime bien les sujets dépouillés, un peu bizarres. _Calme blanc_ est la simplicité même : trois personnages et un chien. Facile. Le plus dur à contrôler, c'est la mer... » (Phillip Noyce)  
+Jean-François Rauger est directeur de la programmation de la Cinémathèque française.
 
-- sa 30 oct 16h00 HL
+- sa 30 oct 14h30 HL
 

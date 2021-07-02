@@ -122,12 +122,12 @@
         {
           "titre": "Les films",
           "cats": [1027],
-          "tri": 1
+          "tri": 2
         },
         {
           "titre": "Rencontres et conférences",
           "cats": [2488],
-          "tri": 1
+          "tri": 4
         }
       ]
     },
@@ -184,10 +184,10 @@
         {
           "titre": "Autour du cinéaste",
           "cats": [2512],
-          "tri": 3
+          "tri": 4
         },
         {
-          "titre": "Carte blanche à Luc Moullet",
+          "titre": "Carte blanche",
           "cats": [2504],
           "tri": 1
         },
@@ -199,8 +199,6 @@
       ],
       "titreEvenements": {
         "22354": "Cycle",
-        "24484": "Autour du cinéaste 1",
-        "24430": "Autour du cinéaste 2",
         "24457": "Liquides",
         "24462": "Société et institutions",
         "24467": "Du cinéma",
@@ -255,9 +253,10 @@
       "titreCycle": "Phillip Noyce",
       "sousCycles": [
         { "titre": "Les films", "cats": [2451], "tri": 1 },
-        { "titre": "Courts métrages", "cats": [2484], "tri": 4 },
+        { "titre": "Courts métrages", "cats": [2484], "tri": 3 },
         { "titre": "Rencontres et conférences", "cats": [2492], "tri": 4 }
-      ]
+      ],
+      "titreEvenements": { "24200": "Programme 1", "24226": "Programme 2" }
     },
     {
       "idCycleProg": 560,
@@ -299,7 +298,7 @@
       "type": "jp",
       "titreCycle": "Séances Jeune public",
       "sousCycles": [
-        { "titre": "Avant-première", "cats": [2502], "tri": 4 },
+        { "titre": "Séances événements", "cats": [2502], "tri": 4 },
         { "titre": "Les films", "cats": [2473, 2501], "tri": 4 }
       ]
     },

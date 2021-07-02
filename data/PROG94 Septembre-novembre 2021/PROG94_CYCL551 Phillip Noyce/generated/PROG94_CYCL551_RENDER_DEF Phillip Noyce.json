@@ -15,7 +15,7 @@
         "cats": [
           2484
         ],
-        "tri": 4
+        "tri": 3
       },
       {
         "titre": "Rencontres et conférences",
@@ -25,6 +25,10 @@
         "tri": 4
       }
     ],
+    "titreEvenements": {
+      "24200": "Programme 1",
+      "24226": "Programme 2"
+    },
     "idProg": 94
   },
   "data": [
@@ -618,7 +622,7 @@
     },
     {
       "titreSousCycle": "Courts métrages",
-      "tri": 4,
+      "tri": 3,
       "textes": [
         {
           "typeTexte": 8,
@@ -629,6 +633,7 @@
         {
           "idCategorie": 2484,
           "idEvenement": 24200,
+          "titreEvenement": "Programme 1",
           "films": [
             {
               "idFilm": 149900,
@@ -758,6 +763,7 @@
         {
           "idCategorie": 2484,
           "idEvenement": 24226,
+          "titreEvenement": "Programme 2",
           "films": [
             {
               "idFilm": 149859,
@@ -884,19 +890,24 @@
           "idEvenement": 24293,
           "films": [
             {
-              "titre": "Discussion avec Philip Noyce",
+              "titre": "Phillip Noyce par Phillip Noyce",
               "textes": [
                 {
                   "typeTexte": 8,
-                  "texte": "Texte à saisir"
+                  "texte": "« Quand j'ai lu le livre [_Dead Calm_ de Charles Williams], je me suis dit qu'on avait de l'eau en Australie, bref, que c'était un film possible. Je me suis mis au travail. Méticuleusement. Car l'essentiel, c'est le scénario. Chaque erreur de script, à l'écran, se paie cash. (...) J'aime bien les sujets dépouillés, un peu bizarres. _Calme blanc_ est la simplicité même : trois personnages et un chien. Facile. Le plus dur à contrôler, c'est la mer... » (Phillip Noyce)"
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Jean-François Rauger est directeur de la programmation de la Cinémathèque française."
                 }
               ],
-              "duree": 60
+              "duree": 60,
+              "ordre": 2
             }
           ],
           "seance": [
             {
-              "dateHeure": "2021-10-30T16:00:00",
+              "dateHeure": "2021-10-30T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"

@@ -10,7 +10,7 @@ Avec Luc Moullet, Christine Hébert, Antonietta Pizzorno.
 Un cinéaste et sa compagne analysent les difficultés de leurs rapports de couple, affectés par la prise de conscience féministe de la jeune femme.
 
 - me 8 sep 20h00 HL  
-Ouverture de la rétrospective  
+Ouverture de la rétrospective. Séance présentée par Luc Moullet et Antonietta Pizzorno  
 Film précédé d'_Essai d'ouverture_ de Luc Moullet, _Ouvertures faciles_ de Pierre Excoffier, François Hernandez  
 - di 26 sep 20h15 JE  
 Film précédé d'_Essai d'ouverture_ de Luc Moullet, _Ouvertures faciles_ de Pierre Excoffier, François Hernandez
@@ -33,6 +33,7 @@ de Luc Moullet
 France / 1966 / 2 min / 35 mm
 
 - di 12 sep 14h30 GF  
+Séance présentée par Sabine Haudepin  
 Film suivi de _La Comédie du travail_ de Luc Moullet  
 - sa 25 sep 21h30 JE  
 Film suivi de _La Comédie du travail_ de Luc Moullet
@@ -42,9 +43,10 @@ Film suivi de _La Comédie du travail_ de Luc Moullet
 de Luc Moullet  
 France / 1987 / 88 min / 35 mm  
 Avec Roland Blanche, Sabine Haudepin, Henri Déus.  
-Françoise Duru, employée d'une agence pour l'emploi, tente de trouver du travail à un chômeur, alors qu'il désire chômer.
+Françoise Duru, employée d'une agence pour l'emploi, est amoureuse d'un chômeur. Elle fait tout pour lui trouver du travail, alors que chômer est son seul but.
 
 - di 12 sep 14h30 GF  
+Séance présentée par Sabine Haudepin  
 Film précédé de _Brigitte et Brigitte (bande-annonce)_ de Luc Moullet  
 - sa 25 sep 21h30 JE  
 Film précédé de _Brigitte et Brigitte (bande-annonce)_ de Luc Moullet
@@ -54,7 +56,7 @@ Film précédé de _Brigitte et Brigitte (bande-annonce)_ de Luc Moullet
 de Luc Moullet  
 France / 1967 / 80 min / 35 mm  
 Avec Françoise Vatel, Monique Thiriet, Johnny Monteilhet.  
-Deux contrebandières, qui sévissent près de la frontière, découvrent qu'elles partagent toutes deux le même homme. Elles se livrent alors à une compétition farouche à travers le désert, dans une course-poursuite où s'invitent à la fois les douaniers et le syndicat des contrebandiers dont le trio a enfreint les règles.
+Deux contrebandières, qui travaillent près de la frontière, découvrent qu'elles partagent toutes deux le même homme. Elles se livrent alors à une compétition farouche à travers le désert, dans une course-poursuite où s'invitent à la fois les douaniers et le syndicat des contrebandiers dont le trio a enfreint les règles.
 
 - ve 10 sep 21h45 GF  
 Film précédé de _Léa, Léa et Léa_ de Collectif Film  
@@ -68,7 +70,7 @@ France / 1988 / 15 min / 35 mm
 Comment ouvrir une bouteille de Coca-Cola lorsque la capsule résiste.
 
 - me 8 sep 20h00 HL  
-Ouverture de la rétrospective  
+Ouverture de la rétrospective. Séance présentée par Luc Moullet et Antonietta Pizzorno  
 Film suivi d'_Anatomie d'un rapport_ de Luc Moullet, Antonietta Pizzorno, _Ouvertures faciles_ de Pierre Excoffier, François Hernandez  
 - di 26 sep 20h15 JE  
 Film suivi d'_Anatomie d'un rapport_ de Luc Moullet, Antonietta Pizzorno, _Ouvertures faciles_ de Pierre Excoffier, François Hernandez
@@ -103,7 +105,7 @@ France / 2001 / 81 min / 35 mm
 Avec Patrick Bouchitey, Iliana Lolic, Sabine Haudepin, Mathieu Amalric.  
 Pendant la guerre du Golfe, un champion de rallye automobile et sa jeune copilote s'embourbent dans un chemin isolé des Alpes-de-Haute-Provence. Ils découvrent alors un endroit faussement paisible, où se croisent un astrophysicien, un berger et des militaires.
 
-- me 15 sep 21h15 GF  
+- me 15 sep 21h30 GF  
 - sa 25 sep 19h00 JE
 
 [150375]  
@@ -124,7 +126,7 @@ Avec Luc Moullet, Rachid Bouchareb, Gérard Krawczyk.
 Plusieurs personnes se battent avec divers emballages à ouverture soi-disant « facile ».
 
 - me 8 sep 20h00 HL  
-Ouverture de la rétrospective  
+Ouverture de la rétrospective. Séance présentée par Luc Moullet et Antonietta Pizzorno  
 Film précédé d'_Essai d'ouverture_ de Luc Moullet et suivi de d'_Anatomie d'un rapport_ de Luc Moullet, Antonietta Pizzorno  
 - di 26 sep 20h15 JE  
 Film précédé d'_Essai d'ouverture_ de Luc Moullet et suivi de d'_Anatomie d'un rapport_ de Luc Moullet, Antonietta Pizzorno
@@ -134,7 +136,7 @@ Film précédé d'_Essai d'ouverture_ de Luc Moullet et suivi de d'_Anatomie d'u
 de Luc Moullet  
 France / 2008 / 90 min / 35 mm  
 Avec Luc Moullet.  
-Partant du constat de n'être pas « quelqu'un de très normal », Luc Moullet enquête sur le « pentagone de la folie » dans les Alpes-de-Haute-Provence. Il recueille des témoignages sur une quarantaine de crimes irrationnels et élabore des théories sur les origines de ce phénomène.
+Partant du constat de n'être pas « quelqu'un de très normal », Luc Moullet enquête sur le « pentagone de la folie » dans les Préalpes du Sud. Il recueille des témoignages sur une quarantaine de crimes irrationnels et élabore des théories sur les origines de ce phénomène.
 
 - sa 11 sep 20h00 JE  
 Film précédé de _Les Naufragés de la D 17 (bande-annonce)_ de Luc Moullet  
@@ -158,10 +160,12 @@ Film suivi de _Brigitte et Brigitte_ de Luc Moullet
 de Luc Moullet  
 France / 1971 / 77 min / Numérique  
 Avec Jean-Pierre Léaud, Rachel Kesterber, Jean Valmont.  
-Après avoir réussi seul le hold-up de la diligence de la Wells Fargo, Billy a bien du mal à transporter son butin. Il rencontre Ann, qui a fui devant l'attaque des Cherokees.
+Après avoir réussi seul le hold-up de la diligence de la Wells Fargo, Billy a bien du mal à transporter son butin. Il rencontre Ann, qui a fui devant l'attaque des Cherokees. Un western surréaliste fondé sur l'amour et une vengeance sournoise.  
+Le film s'intitule en anglais _A Girl Is a Gun_.
 
 - sa 11 sep 16h15 JE  
-- di 19 sep 18h00 GF
+- di 19 sep 18h30 GF  
+Séance présentée par Luc Moullet et Marie-Christine Questerbert
 
 [150374]  
 **Une aventure de Billy le Kid (bande-annonce)**  
@@ -181,15 +185,15 @@ Film suivi de _Genèse d'un repas_ de Luc Moullet
 **Un steack trop cuit**  
 de Luc Moullet  
 France / 1960 / 19 min / 35 mm  
-Avec Jacqueline Fynnaerc, Françoise Vatel, Albert Juross.  
-Livrés à eux-mêmes, un frère et une sœur se disputent un repas frugal préparé par la jeune fille.  
+Avec Françoise Vatel, Albert Juross, Jacqueline Fynnaerc.  
+Livrés à eux-mêmes, un adolescent et une sœur se disputent un repas frugal préparé par la jeune fille.  
 suivi de  
 [74343]  
 **Parpaillon**  
 de Luc Moullet  
 France / 1992 / 83 min / Numérique  
 Avec Brigitte Canaan, Rémy Henri, Claude Melki.  
-Les concurrents d'un rallye cycliste se lancent dans l'ascension du col du Parpaillon, dans la Haute-Ubaye.
+Les participants d'une course cycliste se lancent dans l'ascension du col du Parpaillon, dans les Hautes-Alpes.
 
 - di 12 sep 21h15 GF  
 - je 23 sep 21h15 JE
@@ -232,6 +236,7 @@ Avec Iliana Lolic, Hélène Lapiower.
 Sur une plage normande, en 1880, un riche Anglais phtisique et mourant rencontre une jeune et jolie Américaine, dont il tombe amoureux. Elle l'éconduit mais, deux ans plus tard, il réapparaît.
 
 - je 16 sep 19h30 GF  
+Séance présentée par Luc Moullet et Iliana Lolic  
 - sa 25 sep 16h15 JE
 
 ### Société et institutions
@@ -240,7 +245,7 @@ Sur une plage normande, en 1880, un riche Anglais phtisique et mourant rencontre
 **La Valse des médias**  
 de Luc Moullet  
 France / 1987 / 27 min / Numérique  
-Avec Luc Moullet, Jean Abeillé, Claude Melki, Claude Buchwald.  
+Avec Luc Moullet, Jean Abeillé, Claude Melki, Claude Buchvald.  
 Étude sur l'évolution et la modernisation des bibliothèques et médiathèques publiques.  
 suivi de  
 [83261]  
@@ -276,7 +281,7 @@ France / 2014 / 17 min / DCP
 Avec Jean Abeillé, Pascale Bodet, Sabine Pakora.  
 Une assemblée générale de copropriétaires vue par Luc Moullet.
 
-- me 15 sep 19h00 GF  
+- me 15 sep 19h15 GF  
 - me 22 sep 19h00 JE
 
 ### Du cinéma
@@ -293,13 +298,13 @@ suivi de
 de Luc Moullet  
 France / 2012 / 52 min / Numérique  
 Avec Catherine Breillat, Luc Moullet, Roxane Mesquida.  
-À travers une longue interview de Catherine Breillat, mais aussi en laissant parler ceux qui l'entourent – sa monteuse, son chef opérateur, certains de ses acteurs – et en montrant quelques extraits de films, Luc Moullet cherche à percer les mystères de son cinéma.  
+À travers une longue interview de Catherine Breillat, mais aussi en laissant parler ceux qui l'entourent – sa monteuse, son actrice favorite et certains de ses acteurs – et en montrant quelques extraits de films, Luc Moullet cherche à percer les mystères de son cinéma.  
 suivi de  
 [149927]  
 **Balance et cécité**  
 de Luc Moullet  
 France / 2010 / 5 min / Vidéo  
-La figure de l'aveugle mouchard au cinéma et, plus particulièrement, dans les films de Fritz Lang, John Ford, Marcel Carné.  
+La figure de l'aveugle mouchard au cinéma et, plus particulièrement, dans les films de Fritz Lang, John Ford, Marcel Carné, Luis Buñuel et Pier Paolo Pasolini.  
 suivi de  
 [149929]  
 **Jean-Luc selon Luc**  
@@ -356,7 +361,7 @@ suivi de
 de Vincent Le Port  
 France / 2008 / 11 min / Numérique
 
-- ve 10 sep 19h30 GF  
+- ve 10 sep 19h45 GF  
 - di 26 sep 18h30 JE
 
 ### Villes
@@ -365,7 +370,7 @@ France / 2008 / 11 min / Numérique
 **Aérroporrr d'Orrrrly**  
 de Luc Moullet  
 France / 1990 / 6 min / Numérique  
-Des habitants d'Orly évoquent les nuisances sonores provoquées par la proximité de l'aéroport. Documentaire commandité par le Conseil général du Val-de-Marne, qui met en lumière l'impuissance de la municipalité à trouver des solutions.  
+Des habitants d'Orly évoquent les nuisances sonores provoquées par la proximité de l'aéroport. Documentaire commandité par le Conseil général du Val-de-Marne, qui met en lumière l'impuissance des municipalités à trouver des solutions.  
 suivi de  
 [74353]  
 **Foix**  
@@ -377,13 +382,12 @@ suivi de
 **Lettre ouverte à Luc Moullet**  
 de Luna Lesoing  
 France / 2016 / 4 min / Numérique  
-20 ans après le film _Foix_ de Luc Moullet, une lycéenne fuxéenne répond au cinéaste.  
+20 ans après le film _Foix_ de Luc Moullet, une lycéenne fuxéenne répond au cinéaste pour contredire sa vision de la ville.  
 suivi de  
 [74348]  
 **Les Havres**  
 de Luc Moullet  
 France / 1983 / 12 min / 16 mm  
-Avec Luc Moullet.  
 Le Havre, montré non pas comme une ville d'un seul tenant axé sur son port, mais comme une multitude de quartiers et de communes annexées, d'une rare diversité.  
 suivi de  
 [74352]  
@@ -404,7 +408,7 @@ suivi de
 **Le Ventre de l'Amérique**  
 de Luc Moullet  
 France / 1995 / 25 min / Numérique  
-Exploration de la ville de Des Moines, dans l'Iowa, capitale de l'obésité, qui représente une part de l'Amérique profonde.
+Exploration de la ville de Des Moines, dans l'Iowa, centre de l'obésité, qui représente une part de l'Amérique profonde.
 
 - je 9 sep 22h00 GF  
 - sa 18 sep 14h00 JE
@@ -430,7 +434,7 @@ suivi de
 de Luc Moullet  
 France / 1962 / 8 min / Numérique  
 Avec Françoise Vatel, Alessandro Ninchi.  
-Dans les ruines romaines, une Française et un Italien, qui ne parlent pas la langue de l'autre, tombent amoureux en quelques minutes. Mais dès qu'ils se comprennent, ils se séparent.  
+Dans les ruines romaines, une Française et un Italien, qui ne parlent pas la langue de l'autre, tombent amoureux en quelques minutes. Mais dès qu'ils se comprennent, ils se querellent.  
 suivi de  
 [83260]  
 **Introduction**  
@@ -449,6 +453,25 @@ Réflexion autour de la notion de chef-d'œuvre, et tentative de définition.
 
 ## Autour du cinéaste
 
+### Autour du cinéaste 2
+
+[74358]  
+**L'Homme des roubines**  
+de Gérard Courant  
+France / 2001 / 55 min / Numérique  
+Avec Luc Moullet.  
+Depuis ses débuts cinématographiques, en 1960, Luc Moullet n'a jamais cessé de tourner ses films dans les décors arides, sauvages et splendides de sa région d'origine, les Alpes du Sud. Il nous guide dans les décors de ses films en évoquant son œuvre.  
+suivi de  
+[101951]  
+**Le Prestige de la mort**  
+de Luc Moullet  
+France / 2005 / 75 min / 35 mm  
+Avec Luc Moullet, Bernadette Lafont, Antonietta Pizzorno, Claire Bouanich.  
+Parti en repérages dans le Sud de la France pour son prochain film, Luc Moullet découvre un cadavre. Il décide de se faire passer pour le mort afin que le scoop lui permette de mieux diffuser ses œuvres et de financer ainsi son prochain film.
+
+- sa 18 sep 16h15 JE  
+- me 29 sep 19h00 JE
+
 ### Autour du cinéaste 1
 
 [150370]  
@@ -466,36 +489,18 @@ Avec Luc Moullet, Annie Vacelet-Vuitton.
 
 - me 29 sep 21h45 JE
 
-### Autour du cinéaste 2
-
-[74358]  
-**L'Homme des roubines**  
-de Gérard Courant  
-France / 2001 / 55 min / Numérique  
-Avec Luc Moullet.  
-Depuis ses débuts cinématographiques, en 1960, Luc Moullet n'a jamais cessé de tourner ses films dans les décors arides, sauvages et splendides de sa région d'origine, les Alpes du Sud. Il nous guide dans les décors de ses films en évoquant son œuvre.  
-suivi de  
-[101951]  
-**Le Prestige de la mort**  
-de Luc Moullet  
-France / 2005 / 75 min / 35 mm  
-Avec Luc Moullet, Bernadette Lafont, Antonietta Pizzorno, Claire Bouanich.  
-Parti en repérages dans le Sud de la France pour son prochain film, Luc Moullet découvre un cadavre. Il décide de se faire passer pour le mort, pour que le scoop lui permette de mieux diffuser ses œuvres et de financer ainsi son prochain film.
-
-- sa 18 sep 16h15 JE  
-- me 29 sep 19h00 JE
-
-## Carte blanche à Luc Moullet
+## Carte blanche
 
 [31591]  
 **L'Empreinte du passé**  
 **(The Road to Yesterday)**  
 de Cecil B. DeMille  
 États-Unis / 1925 / 136 min / INT. FR. / 16 mm  
-Avec Joseph Schildkraut, Jetta Goudal, William Boyd.  
-Victimes d'un accident ferroviaire, deux couples sont soudain projetés dans une vie antérieure, dans l'Angleterre du XVI<sup>e</sup> siècle.
+Avec Joseph Schildkraut, Jetta Goudal, William Boyd, Vera Reynolds.  
+Victimes d'un accident ferroviaire, deux couples sont projetés dans une vie antérieure, au XVI<sup>e</sup> siècle en Angleterre.
 
-- sa 18 sep 19h00 JE
+- sa 18 sep 19h00 JE  
+Séance présentée par Luc Moullet
 
 [131927]  
 **Mademoiselle Else**  
@@ -503,26 +508,28 @@ d'Isabelle Prim
 France / 2010 / 43 min / Numérique  
 D'après la nouvelle _Mademoiselle Else_ d'Arthur Schnitzler.  
 Avec Jean-Pierre Beauviala, Isabelle Prim.  
-En vacances dans les Alpes, la jeune Else est contrainte de demander de l'argent à Dorsday, un avocat jouisseur, pour sauver de la faillite son père criblé de dettes. En contrepartie, Dorsday demande à pouvoir l'admirer nue.
+En vacances dans les Alpes, la jeune Else va demander de l'argent à Dorsday, un avocat jouisseur, pour sauver de la faillite son père criblé de dettes. En contrepartie, Dorsday demande de pouvoir l'observer nue.
 
-- je 30 sep 21h30 JE
+- je 30 sep 21h30 JE  
+Séance présentée par Luc Moullet et Isabelle Prim
 
 ## Rencontres et conférences
 
 []  
-**Luc Moullet par Luc Moullet**  
+**Autour de « La Comédie du travail »**  
 undefined  
 60 min  
-Cette rencontre sera suivie, à partir de 17h, d'une signature à la Librairie de la Cinémathèque des livres de Luc Moullet, dont le dernier en date : _Mémoires d'une savonnette indocile_ (Capricci, 2021).  
-« J'aimais bien montrer la médiocrité du travail moderne : la sectorisation des activités professionnelles fait que bien peu de gens peuvent se reconnaître aujourd'hui dans leur boulot, alors qu'avant, le travail consistait à produire sa nourriture. » « Je m'amusais à envahir l'écran d'orange, la couleur emblématique de l'ANPE \[Agence nationale pour l'emploi\]. » Luc Moullet, Mémoires d'une savonnette indocile
+Cette rencontre sera suivie, à partir de 17h, d'une signature à la librairie de la Cinémathèque des livres de Luc Moullet, dont le dernier en date : _Mémoires d'une savonnette indocile_ (Capricci, 2021).  
+« J'aimais bien montrer la médiocrité du travail moderne : la sectorisation des activités professionnelles fait que bien peu de gens peuvent se reconnaître aujourd'hui dans leur boulot, alors qu'avant, le travail consistait à produire sa nourriture. » « Je m'amusais à envahir l'écran d'orange, la couleur emblématique de l'ANPE [Agence nationale pour l'emploi]. » (Luc Moullet, _Mémoires d'une savonnette indocile_)
 
-- di 12 sep 17h15 GF
+- di 12 sep 14h30 GF
 
 []  
-**Luc Moullet par Luc Moullet**  
+**Autour de « La Terre de la folie »**  
 undefined  
 60 min  
-« J'avais la chance de pouvoir m'attacher à un sujet que nul n'avait traité, la folie dans les Alpes du Sud, dont j'avais une connaissance directe. Une investigation plus poussée me permit d'établir une sorte de catalogue de la folie, de tout ce qui s'était passé dans ce « pentagone de la démence ». » Luc Moullet, _Mémoires d'une savonnette indocile_ (Capricci, 2021)
+« J'avais la chance de pouvoir m'attacher à un sujet que nul n'avait traité, la folie dans les Alpes du Sud, dont j'avais une connaissance directe. Une investigation plus poussée me permit d'établir une sorte de catalogue de la folie, de tout ce qui s'était passé dans ce "pentagone de la démence". » (Luc Moullet, _Mémoires d'une savonnette indocile_)  
+Élise Girard est chargée de production de l'action culturelle de la Cinémathèque française, boxeuse du dimanche et alpiniste en herbe.
 
-- di 19 sep 17h15 GF
+- di 19 sep 15h00 GF
 
