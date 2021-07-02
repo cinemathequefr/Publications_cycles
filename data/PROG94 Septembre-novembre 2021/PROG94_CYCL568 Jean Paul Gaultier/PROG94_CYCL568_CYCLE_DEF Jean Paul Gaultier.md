@@ -1,6 +1,8 @@
-# Cinémode
+# Jean Paul Gaultier
 
 ## Week-end Jean Paul Gaultier
+
+**Jean Paul Gaultier, commissaire de l'exposition CinéMode, vient parler de quatre films qui lui sont chers, qui sont au cœur de sa cinéphilie, ou dont il a confectionné les costumes.**
 
 [46638]  
 **Falbalas**  
@@ -54,19 +56,21 @@ Séance présentée par Jean-Paul Gaultier
 ## Rencontres et conférences
 
 []  
-**Dialogue avec Jean-Paul Gaultier**  
+**Dialogue avec Jean Paul Gaultier**  
 undefined  
 60 min  
-« Mon amour de la mode m'est venu un après-midi, alors que j'avais environ treize ans, quand, à la télévision, j'ai découvert Falbalas (...). Pour moi, ce fut un véritable choc ! De ce film, je fus d'emblée complètement captif. D'un seul coup, je me suis identifié au personnage du couturier. Le film était tellement réaliste qu'il m'a converti sur-le-champ : « Je veux faire comme lui ! » ». Jean Paul Gaultier, Catalogue CinéMode par Jean Paul Gaultier, Édition Flammarion/Cinémathèque française Cette rencontre sera suivie, à la Librairie de la Cinémathèque, d'une signature par Jean Paul Gaultier du catalogue de l'exposition.
+« Mon amour de la mode m'est venu un après-midi, alors que j'avais environ treize ans, quand, à la télévision, j'ai découvert _Falbalas_. Pour moi, ce fut un véritable choc ! De ce film, je fus d'emblée complètement captif. D'un seul coup, je me suis identifié au personnage du couturier. Le film était tellement réaliste qu'il m'a converti sur-le-champ : "Je veux faire comme lui !" » (Jean Paul Gaultier, catalogue « CinéMode par Jean Paul Gaultier », Flammarion / Cinémathèque française). Cette rencontre sera suivie, à la librairie de la Cinémathèque, d'une signature par Jean Paul Gaultier du catalogue de l'exposition.  
+Matthieu Orléan est collaborateur artistique à la Cinémathèque française, chargé des expositions temporaires. Il est commissaire associé de l'exposition CinéMode.  
+Florence Tissot est commissaire associée de l'exposition CinéMode. Adjointe du collaborateur artistique à la Cinémathèque française, elle a publié plusieurs articles dans des catalogues et revues de cinéma.
 
-- di 17 oct 16h00 HL
+- di 17 oct 14h30 HL
 
 []  
 **« Divines ! »**  
 **Conférence de Florence Tissot**  
 undefined  
 90 min  
-« J'aime les femmes puissantes qui assument leur sexualité », dixit Jean Paul Gaultier. Faisant alors écho à la féminité performée des silhouettes à seins coniques du couturier cinéphile, il s'agira ici d'un florilège non exhaustif – ou d'un défilé subjectif – d'actrices explosives ayant marqué à jamais l'histoire du cinéma. De l'inoxydable Mae West, déesse de la drague à l'humour culotté, à Divine, l'égérie de John Waters, en passant par la peroxydée Marilyn Monroe aux tenues sophistiquées, les personnages de femmes fatales qu'elles ont incarnés sont construits sur l'ultra féminité, l'artificialité, voire l'outrance assumée et même un mauvais goût en forme de provocation. Autrement dit, une façon de transgresser les codes, de défier la morale et les pudeurs de chaque époque, des époques sacrément corsetées elles aussi.  
+« J'aime les femmes puissantes qui assument leur sexualité », dixit Jean Paul Gaultier. Faisant alors écho à la féminité performée des silhouettes à seins coniques du couturier cinéphile, il s'agira ici d'un florilège non exhaustif – ou d'un défilé subjectif – d'actrices explosives ayant marqué à jamais l'histoire du cinéma. De l'inoxydable Mae West, déesse de la drague à l'humour culotté, à Divine, l'égérie de John Waters, en passant par la peroxydée Marilyn Monroe aux tenues sophistiquées, les personnages de femmes fatales qu'elles ont incarnés sont construits sur l'ultraféminité, l'artificialité, voire l'outrance assumée et même un mauvais goût en forme de provocation. Autrement dit, une façon de transgresser les codes, de défier la morale et les pudeurs de chaque époque, des époques sacrément corsetées elles aussi.  
 Florence Tissot est commissaire associée de l'exposition CinéMode. Adjointe du collaborateur artistique à la Cinémathèque française, elle a publié plusieurs articles dans des catalogues et revues de cinéma.
 
 - je 28 oct 19h30 GF
