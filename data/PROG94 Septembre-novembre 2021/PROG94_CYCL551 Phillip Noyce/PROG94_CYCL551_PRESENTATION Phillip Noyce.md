@@ -1,4 +1,4 @@
-# Phillip Noyce
+# Sydney-Hollywood... et retour
 
 Son talent l'a mené de l'Australie vers les productions hollywoodiennes à vedettes et à gros budgets, les blockbusters efficaces et élégants. Prolifique réalisateur et producteur, il a toujours été un homme fidèle à ses convictions de jeunesse tout en témoignant d'un souci, celui d'aborder, derrière les artifices du divertissement, diverses questions sociales et politiques.
 
