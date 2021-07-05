@@ -83,7 +83,8 @@ Avec Spencer Tracy, Robert Wagner, Claire Trevor.
 [77876]*  
 **Le Pain de Barbarie**  
 de Roger Leenhardt  
-France / 1949
+France / 1949  
+Copie en état médiocre.
 
 [49886]*  
 **Peter Breughel l'Ancien**  

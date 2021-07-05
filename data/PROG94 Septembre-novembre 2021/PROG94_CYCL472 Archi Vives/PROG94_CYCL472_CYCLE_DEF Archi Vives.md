@@ -12,12 +12,10 @@ Sylvie Lindeperg est professeure à l'université Paris 1 Panthéon-Sorbonne et 
 
 - je 21 oct 17h30 GF
 
-[54933]  
-**Souvenirs de justice**  
-**(The Memory of Justice)**  
-de Marcel Ophuls  
-Grande-Bretagne-États-Unis-France-RFA / 1976 / 278 min / VOSTF / DCP  
-L'impact du procès de Nuremberg sur la société allemande à la lumière des guerres de la seconde moitié du XX<sup>e</sup> siècle, le Vietnam et l'Algérie, et des crimes qui y ont été commis.
+[34001]  
+****  
+undefined  
+186 min / VOSTF / 35 mm
 
 - je 21 oct 19h30 GF
 

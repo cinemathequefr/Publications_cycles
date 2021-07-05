@@ -17,8 +17,6 @@ France / 2014
 Avec Sharif Andoura, Katia Golubeva, Jean-Baptiste Verquin.  
 C'est l'histoire de deux individus, qui quittent un endroit indéterminé (la France ?), pour un voyage à pied vers l'inconnu. De rêves en cauchemars, ils finiront par découvrir des mondes nouveaux, dont ils ne soupçonnaient pas l'existence.
 
-Séance en présence du réalisateur.
-
 [32803]  
 **La Nuit de l'iguane**  
 **(The Night of the Iguana)**  

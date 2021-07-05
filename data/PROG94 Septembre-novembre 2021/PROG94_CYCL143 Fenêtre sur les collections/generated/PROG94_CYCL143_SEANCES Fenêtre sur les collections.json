@@ -6,8 +6,8 @@
     "idSeance": 45749,
     "dateHeure": "2021-09-24T18:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -50,7 +50,8 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Emmanuelle Berthault"
   },
   {
     "idCategorie": 2248,
@@ -59,13 +60,33 @@
     "idSeance": 45750,
     "dateHeure": "2021-09-24T20:45:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
-        "idFilm": 31612,
+        "idFilm": 143688,
         "ordre": 1,
+        "idSeance": 45750,
+        "idCopie": 20663,
+        "duree": 7,
+        "version": "VO",
+        "format": "16 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 54025,
+        "ordre": 2,
+        "idSeance": 45750,
+        "idCopie": 20662,
+        "duree": 2,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 31612,
+        "ordre": 3,
         "idSeance": 45750,
         "idCopie": 20664,
         "duree": 2,
@@ -75,35 +96,16 @@
       },
       {
         "idFilm": 80530,
-        "ordre": 2,
+        "ordre": 4,
         "idSeance": 45750,
         "idCopie": 17702,
         "duree": 88,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
-      },
-      {
-        "idFilm": 54025,
-        "ordre": 3,
-        "idSeance": 45750,
-        "idCopie": 20662,
-        "duree": 2,
-        "version": "VF",
-        "format": "35 mm",
-        "valide": 1
-      },
-      {
-        "idFilm": 143688,
-        "ordre": 4,
-        "idSeance": 45750,
-        "idCopie": 20663,
-        "duree": 7,
-        "version": "VO",
-        "format": "16 mm",
-        "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Emmanuelle Berthault"
   },
   {
     "idCategorie": 2395,
@@ -202,7 +204,8 @@
         "format": "16 mm",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Stéphanie Louis"
   },
   {
     "idCategorie": 2394,
@@ -255,6 +258,7 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Stéphanie Louis"
   }
 ]
