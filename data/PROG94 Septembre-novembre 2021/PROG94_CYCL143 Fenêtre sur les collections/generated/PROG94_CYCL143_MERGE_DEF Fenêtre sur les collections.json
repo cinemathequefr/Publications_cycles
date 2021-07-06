@@ -5,6 +5,33 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 45750,
+          "ordre": 1,
+          "dateHeure": "2021-09-24T20:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Emmanuelle Berthault",
+          "idCategorie": 2248,
+          "idEvenement": 22091,
+          "typeEvenement": 13,
+          "idFilm": 143688,
+          "titre": "A Unicorn in the Garden",
+          "realisateurs": "William T. Hurtz",
+          "annee": 1953,
+          "pays": "États-Unis",
+          "duree": 7,
+          "version": "VO",
+          "format": "16 mm",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Alors qu'il prépare son petit déjeuner, un homme aperçoit une licorne dans son jardin. Quand il veut annoncer la nouvelle à sa femme, les ennuis commencent."
+            }
+          ]
+        },
+        {
           "idSeance": 45749,
           "ordre": 2,
           "dateHeure": "2021-09-24T18:30:00",
@@ -25,16 +52,10 @@
           "duree": 3,
           "version": "VF",
           "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Anthony Quinn",
-            "Sophia Loren",
-            "Henri Vidal"
-          ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Bande-annonce"
+              "texte": "Bande-annonce."
             }
           ]
         },
@@ -60,7 +81,6 @@
           "duree": 90,
           "version": "VOSTF",
           "format": "35 mm",
-          "ageMinimal": null,
           "generique": [
             "Betty Grable",
             "Douglas Fairbanks Jr.",
@@ -70,38 +90,9 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Pour éviter qu'un château soit détruit par l'envahisseur hongrois, une comtesse sort du tableau qui la représentait pour séduire le colonel. Le dernier film de Lubitsch, décédé pendant le tournage, sera terminé par Preminger."
+              "texte": "1861, Italie du Nord. L'armée hongroise assiège le château de la comtesse Angelina. Dans la galerie des ancêtres, Francesca, aïeule d'Angelina, revient à la vie pour sauver la situation, comme elle l'avait fait 300 ans auparavant."
             }
           ]
-        },
-        {
-          "idSeance": 45749,
-          "ordre": 1,
-          "dateHeure": "2021-09-24T18:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "mention": "Séance présentée par Emmanuelle Berthault",
-          "idCategorie": 2248,
-          "idEvenement": 22096,
-          "typeEvenement": 13,
-          "idFilm": 63700,
-          "titre": "Melodie cocktail",
-          "titreVo": "Melody Time",
-          "realisateurs": "Clyde Geronimi, Wilfred Jackson, Jack Kinney, [etc.]",
-          "annee": 1948,
-          "pays": "États-Unis",
-          "duree": 5,
-          "version": "VO",
-          "format": "16 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Roy Rogers",
-            "LaVerne Andrews",
-            "Maxene Andrews"
-          ],
-          "textes": []
         },
         {
           "idSeance": 45750,
@@ -126,13 +117,6 @@
           "duree": 2,
           "version": "VOSTF",
           "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Spencer Tracy",
-            "Robert Wagner",
-            "Claire Trevor"
-          ],
-          "adaptation": "D'après le roman _La Neige en deuil_ de Henri Troyat.",
           "textes": []
         },
         {
@@ -149,23 +133,22 @@
           "typeEvenement": 13,
           "idFilm": 80530,
           "titre": "Qui donc a vu ma belle ?",
-          "titreVo": "Has Anybody Seen My Gal ?",
+          "titreVo": "Has Anybody Seen My Gal?",
           "realisateurs": "Douglas Sirk",
           "annee": 1951,
           "pays": "États-Unis",
           "duree": 88,
           "version": "VOSTF",
           "format": "35 mm",
-          "ageMinimal": null,
           "generique": [
-            "Charles Coburn",
             "Piper Laurie",
-            "Rock Hudson"
+            "Rock Hudson",
+            "Charles Coburn"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un riche vieillard sans famille veut transmettre son héritage à la famille de son amour de jeunesse, mais veut d'abord la tester en s'installant chez elle incognito."
+              "texte": "Un riche vieillard sans descendance veut léguer son héritage à la famille de son amour de jeunesse. Pour s'assurer qu'ils le méritent, il devient incognito leur locataire."
             }
           ]
         },
@@ -191,16 +174,41 @@
           "duree": 2,
           "version": "VF",
           "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Glenn Ford",
-            "Cesar Romero",
-            "Abbe Lane"
-          ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Bande-annonce"
+              "texte": "Bande-annonce."
+            }
+          ]
+        },
+        {
+          "idSeance": 45749,
+          "ordre": 1,
+          "dateHeure": "2021-09-24T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Emmanuelle Berthault",
+          "idCategorie": 2248,
+          "idEvenement": 22096,
+          "typeEvenement": 13,
+          "idFilm": 63700,
+          "titre": "Trees",
+          "realisateurs": "Clyde Geronimi, Wilfred Jackson, Jack Kinney, Hamilton Luske",
+          "annee": 1948,
+          "pays": "États-Unis",
+          "duree": 5,
+          "version": "VO",
+          "format": "16 mm",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Hommage aux arbres."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Segment de _Melody Time_, film musical d'animation des studios Disney."
             }
           ]
         },
@@ -226,46 +234,10 @@
           "duree": 2,
           "version": "VOSTF",
           "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Dean Martin",
-            "Jerry Lewis",
-            "Lori Nelson"
-          ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Bande-annonce"
-            }
-          ]
-        },
-        {
-          "idSeance": 45750,
-          "ordre": 1,
-          "dateHeure": "2021-09-24T20:45:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "mention": "Séance présentée par Emmanuelle Berthault",
-          "idCategorie": 2248,
-          "idEvenement": 22091,
-          "typeEvenement": 13,
-          "idFilm": 143688,
-          "art": "The",
-          "titre": "Unicorn in the Garden",
-          "titreVo": "",
-          "realisateurs": "William T. Hurtz",
-          "annee": 1953,
-          "pays": "États-Unis",
-          "duree": 7,
-          "version": "VO",
-          "format": "16 mm",
-          "ageMinimal": null,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Bande-annonce"
+              "texte": "Bande-annonce."
             }
           ]
         }
@@ -273,7 +245,7 @@
       "textes": [
         {
           "typeTexte": 8,
-          "texte": "Depuis sa mise au point dans les années 1930, le succès du Technicolor trichrome ne s'est pas démenti, apportant qualité et prestige au cinéma hollywoodien et au-delà. Son âge d'or a duré jusqu'à la fin des années 1950. La Cinémathèque française possède dans ses collections des copies rares, et propose deux séances « comme à l'époque »... **En copies originales Technicolor.**"
+          "texte": "Depuis sa mise au point dans les années 1930, le succès du Technicolor trichrome ne s'est pas démenti, apportant qualité et prestige au cinéma hollywoodien et au-delà. Son âge d'or a duré jusqu'à la fin des années 1950. La Cinémathèque française possède dans ses collections des copies Technicolor rares, et propose deux séances « comme à l'époque »."
         }
       ]
     },
@@ -295,14 +267,12 @@
           "idFilm": 48390,
           "art": "L'",
           "titre": "Affiche",
-          "titreVo": "",
           "realisateurs": "Jean Epstein",
           "annee": 1924,
           "pays": "France",
           "duree": 86,
           "version": "INT. FR.",
           "format": "35 mm",
-          "ageMinimal": null,
           "generique": [
             "Nathalie Lissenko",
             "Genica Missirio",
@@ -330,14 +300,12 @@
           "idFilm": 51482,
           "art": "La",
           "titre": "Riposte",
-          "titreVo": "",
           "realisateurs": "Viatcheslav Tourjansky",
           "annee": 1922,
           "pays": "France",
           "duree": 74,
           "version": "INT. FR.",
           "format": "35 mm",
-          "ageMinimal": null,
           "generique": [
             "Nathalie Lissenko",
             "Jean Angelo",
@@ -354,7 +322,7 @@
       "textes": [
         {
           "typeTexte": 8,
-          "texte": "La célèbre société de production Albatros, créée par des russes blanc émigrés en France après la révolution de 1917, constituait une véritable troupe de réalisateurs, de comédiens, de techniciens. Avec près d'une quinzaine de films à son actif, l'actrice Nathalie Lissenko en était une figure de proue."
+          "texte": "La célèbre société de production Albatros, créée par des Russes blancs émigrés en France après la révolution de 1917, constituait une véritable troupe de réalisateurs, de comédiens, de techniciens. Avec près d'une quinzaine de films à son actif, l'actrice Nathalie Lissenko en était une figure de proue."
         }
       ]
     },
@@ -377,14 +345,12 @@
           "idFilm": 146315,
           "art": "Les",
           "titre": "Foules de Lourdes",
-          "titreVo": "",
           "realisateurs": "Jacques Lemare",
           "annee": 1940,
           "pays": "France",
           "duree": 10,
           "version": "",
           "format": "DCP",
-          "ageMinimal": null,
           "textes": []
         },
         {
@@ -401,14 +367,12 @@
           "typeEvenement": 13,
           "idFilm": 146312,
           "titre": "Jazz of Lights",
-          "titreVo": "",
           "realisateurs": "Ian Hugo",
           "annee": 1954,
           "pays": "États-Unis",
           "duree": 15,
           "version": "",
           "format": "16 mm",
-          "ageMinimal": null,
           "textes": []
         },
         {
@@ -425,14 +389,12 @@
           "typeEvenement": 13,
           "idFilm": 132172,
           "titre": "Kipho",
-          "titreVo": "",
           "realisateurs": "Guido Seeber",
           "annee": 1925,
           "pays": "Allemagne",
           "duree": 6,
           "version": "",
           "format": "16 mm",
-          "ageMinimal": null,
           "textes": [
             {
               "typeTexte": 9,
@@ -454,15 +416,13 @@
           "typeEvenement": 13,
           "idFilm": 81145,
           "art": "Le",
-          "titre": "Mont Saint-Michel",
-          "titreVo": "",
+          "titre": "Mont-Saint-Michel",
           "realisateurs": "Maurice Cloche",
           "annee": 1934,
           "pays": "France",
           "duree": 30,
           "version": "",
           "format": "35 mm",
-          "ageMinimal": null,
           "textes": []
         },
         {
@@ -480,14 +440,12 @@
           "idFilm": 146313,
           "art": "Le",
           "titre": "Musée du cinéma",
-          "titreVo": "",
           "realisateurs": "Anonyme",
           "annee": 1955,
           "pays": "France",
           "duree": 3,
           "version": "",
           "format": "35 mm",
-          "ageMinimal": null,
           "textes": []
         },
         {
@@ -505,14 +463,12 @@
           "idFilm": 146314,
           "art": "Le",
           "titre": "Musée du cinéma",
-          "titreVo": "",
           "realisateurs": "Anonyme",
           "annee": 1960,
           "pays": "France",
           "duree": 5,
           "version": "",
           "format": "16 mm",
-          "ageMinimal": null,
           "textes": []
         },
         {
@@ -530,20 +486,13 @@
           "idFilm": 77876,
           "art": "Le",
           "titre": "Pain de Barbarie",
-          "titreVo": "",
           "realisateurs": "Roger Leenhardt",
           "annee": 1949,
           "pays": "France",
           "duree": 20,
           "version": "",
           "format": "35 mm",
-          "ageMinimal": null,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Copie en état médiocre."
-            }
-          ]
+          "textes": []
         },
         {
           "idSeance": 45621,
@@ -559,21 +508,19 @@
           "typeEvenement": 13,
           "idFilm": 49886,
           "titre": "Peter Breughel l'Ancien",
-          "titreVo": "",
           "realisateurs": "Edmond Levy, Arcady, Gilbert Pignol",
           "annee": 1953,
           "pays": "France",
           "duree": 20,
           "version": "",
           "format": "16 mm",
-          "ageMinimal": null,
           "textes": []
         }
       ],
       "textes": [
         {
           "typeTexte": 8,
-          "texte": "En 1955, la Cinémathèque française propose une grande exposition commémorative des soixante ans du cinéma au Musée d'art moderne de la Ville de Paris, en lien avec la FIAF. Plusieurs cycles de films sont proposés dans ce cadre. C'est de la programmation consacrée à l'Avant-garde, si chère à Langlois, que sont extraits ces deux programmes de trois films. On tentera ainsi de s'immerger dans l'atmosphère visuelle caractéristique des programmes de Langlois, qui enthousiasmèrent le public de l'époque. En « avant-programme » de ces reconstitutions, un reportage de la même période autour du Musée du Cinéma. Programmation en collaboration avec l'AFRHC et le CNC à l'occasion de la publication de l'ouvrage de Stéphanie Louis La Cinémathèque- Musée : une innovation cinéphile au cœur de la patrimonialisation du cinéma en France (1944-1968)."
+          "texte": "En 1955, la Cinémathèque française propose une grande exposition commémorative des soixante ans du cinéma au Musée d'art moderne de la Ville de Paris, en lien avec la FIAF. Plusieurs cycles de films sont proposés dans ce cadre. C'est de la programmation consacrée à l'avant-garde, si chère à Langlois, que sont extraits ces deux programmes de trois films. On tentera ainsi de s'immerger dans l'atmosphère visuelle caractéristique des programmes de Langlois, qui enthousiasmèrent le public de l'époque. En avant-programme de ces reconstitutions, un reportage de la même période autour du Musée du cinéma. Programmation en collaboration avec l'AFRHC et le CNC à l'occasion de la publication de l'ouvrage de Stéphanie Louis _La Cinémathèque-musée : une innovation cinéphile au cœur de la patrimonialisation du cinéma en France (1944-1968)_."
         }
       ]
     }

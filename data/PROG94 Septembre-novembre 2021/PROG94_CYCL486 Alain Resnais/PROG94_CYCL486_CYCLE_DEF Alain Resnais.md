@@ -65,7 +65,9 @@ Avec André Dussollier, Sabine Azéma, Anne Consigny.
 Marguerite Muir se fait voler son sac à la sortie d'un magasin. Le coupable se débarrasse du contenu sur un parking, et George Palet, qui le ramasse, laisse libre cours à ses fantasmes.
 
 - ve 19 nov 21h30 HL  
-- sa 27 nov 14h30 HL
+Séance présentée par Laurent Herbiet  
+- sa 27 nov 14h30 HL  
+Séance présentée par Anne Consigny
 
 [50869]  
 **Hiroshima, mon amour**  
@@ -107,7 +109,7 @@ Avec Sabine Azéma, Fanny Ardant, Pierre Arditi, André Dussollier.
 Lorsque Pierre présente sa femme Romaine à son ami Marcel, tous deux tombent immédiatement amoureux. Romaine promet de quitter Pierre mais a peur d'avouer son infidélité.
 
 - di 7 nov 19h00 HL  
-- di 21 nov 17h00 HL
+- di 21 nov 16h30 HL
 
 [50888]  
 **Mon oncle d'Amérique**  
@@ -138,7 +140,8 @@ Apercevant un paquet de cigarettes sur la table de son jardin, Celia Teasdale h�
 Seconde partie du diptyque _Smoking / No Smoking_
 
 - sa 20 nov 21h15 HL  
-- di 28 nov 18h00 HL
+- di 28 nov 18h00 HL  
+Séance présentée par Renato Berta
 
 [29021]  
 **On connaît la chanson**  
@@ -158,7 +161,7 @@ D'après l'opérette _Pas sur la bouche !_ de Maurice Yvain et André Barde.
 Avec Sabine Azéma, Lambert Wilson, Audrey Tautou, Pierre Arditi.  
 Dans le Paris de 1925, entre amour, amitié et quiproquos, une série de personnages fantaisistes se croise dans la grande demeure bourgeoise des Valandray.
 
-- di 21 nov 14h30 HL  
+- di 21 nov 14h00 HL  
 - di 28 nov 21h15 HL
 
 [144045]  
@@ -169,6 +172,7 @@ France / 2003 / 35 mm
 - di 14 nov 21h30 HL  
 Film suivi de _Vous n'avez encore rien vu_ d'Alain Resnais  
 - sa 27 nov 18h30 HL  
+Séance présentée par Bruno Podalydès  
 Film suivi de _Vous n'avez encore rien vu_ d'Alain Resnais
 
 [50891]  
@@ -189,8 +193,9 @@ Avec Pierre Arditi, Sabine Azéma.
 Apercevant un paquet de cigarettes sur la table de son jardin, Celia Teasdale décide d'en prendre une. Celia, son mari Toby et d'autres habitants de leur village du Yorkshire voient leur destin bifurquer au gré de décisions qu'ils prennent, ou non.  
 Première partie du diptyque _Smoking / No Smoking_
 
-- di 21 nov 19h30 HL  
-- di 28 nov 14h30 HL
+- di 21 nov 19h00 HL  
+- di 28 nov 14h30 HL  
+Séance présentée par Renato Berta
 
 [50893]  
 **Stavisky**  
@@ -223,6 +228,7 @@ Le majordome d'un dramaturge convoque tous les amis de son maître, qui ont jou�
 - di 14 nov 21h30 HL  
 Film précédé de _Pas sur la bouche (bande-annonce)_ de Bruno Podalydès  
 - sa 27 nov 18h30 HL  
+Séance présentée par Bruno Podalydès  
 Film précédé de _Pas sur la bouche (bande-annonce)_ de Bruno Podalydès
 
 ## Visites d'ateliers
@@ -306,7 +312,7 @@ Avec Jean-Pierre Grenier.
 Une enquête scientifique, entre reportage et fiction, pour découvrir l'origine du mal mystérieux dont est atteint un ouvrier.  
 Commentaire de Chris Marker et Rémo Forlani.
 
-- di 7 nov 14h00 JE  
+- di 7 nov 15h00 JE  
 - sa 20 nov 16h15 GF
 
 [58726]  
@@ -351,7 +357,7 @@ d'Alain Resnais
 France / 1992 / 52 min / Vidéo  
 Documentaire évoquant le compositeur George Gershwin, qui donna à la comédie musicale ses lettres de noblesse, et dont le succès renvoie à l'époque de la splendeur de Broadway.
 
-- di 7 nov 17h30 JE  
+- di 7 nov 19h30 JE  
 Film suivi de _Portrait imaginaire (Lettres ouvertes sur la Pologne)_ d'Alain Resnais
 
 [52165]  
@@ -370,7 +376,7 @@ d'Alain Resnais
 France / 1982 / 11 min  
 Montage d'extraits de films d'Andrzej Wajda dans le cadre d'une émission collective de soutien à la Pologne diffusée sur FR3 le 9 avril 1982, au moment de l'« état de guerre » instauré par le général Jaruzelski.
 
-- di 7 nov 17h30 JE  
+- di 7 nov 19h30 JE  
 Film précédé de _Gershwin_ d'Alain Resnais
 
 ## Autour d'Alain Resnais
@@ -381,7 +387,7 @@ de Géraldine Boudot
 France / 2019 / 52 min / DCP  
 Un portrait du réalisateur Alain Resnais qui tente de percer la singularité de son œuvre. Il explore le style Resnais et l'attention particulière que le cinéaste a porté à la musique et aux voix dans chacun de ses films.
 
-- di 7 nov 16h00 JE
+- di 7 nov 17h15 JE
 
 ## Rencontres et conférences
 
