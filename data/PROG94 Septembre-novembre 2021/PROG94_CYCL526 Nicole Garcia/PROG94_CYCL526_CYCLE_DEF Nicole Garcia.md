@@ -209,7 +209,10 @@ Copie restaurée par le CNC.
 **Nicole Garcia par Nicole Garcia**  
 undefined  
 60 min  
-« Disons que mon film est une fiction rusée. Mais ce n'est pas parce que je suis actrice que mon héroïne l'est également. Non. J'avais envie de mettre en scène une femme qui vit de son image. Une femme objet de désir. Et qui s'en affranchit. _Un week-end sur deux_ est aussi un documentaire sur une actrice. » (Nicole Garcia, 1990) « Une mère en marge des normes mais qui aime profondément ses enfants. C'est le plus beau rôle de toute ma carrière... Retenez bien la date. » (Nathalie Baye, 1990)
+« Disons que mon film est une fiction rusée. Mais ce n'est pas parce que je suis actrice que mon héroïne l'est également. Non. J'avais envie de mettre en scène une femme qui vit de son image. Une femme objet de désir. Et qui s'en affranchit. _Un week-end sur deux_ est aussi un documentaire sur une actrice. » (Nicole Garcia, 1990) « Une mère en marge des normes mais qui aime profondément ses enfants. C'est le plus beau rôle de toute ma carrière... Retenez bien la date. » (Nathalie Baye, 1990)  
+Écrivain, Jacques Fieschi a participé à l'écriture du scénario de _Police_ (Maurice Pialat, 1985), après avoir joué dans _À nos amours_. Il a travaillé sur tous les films de Nicole Garcia et a réalisé un film en 2006 : _La Californie_.  
+Bernard Benoliel est directeur de l'Action culturelle et éducative de la Cinémathèque française.  
+Frédéric Bonnaud est directeur général de la Cinémathèque française.
 
 - sa 20 nov 14h30 HL
 
