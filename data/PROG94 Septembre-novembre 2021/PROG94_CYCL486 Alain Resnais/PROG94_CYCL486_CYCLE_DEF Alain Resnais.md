@@ -137,7 +137,7 @@ d'Alain Resnais
 France / 1993 / 149 min / 35 mm  
 Avec Pierre Arditi, Sabine Azéma, Peter Hudson.  
 Apercevant un paquet de cigarettes sur la table de son jardin, Celia Teasdale hésite, mais n'en prend pas. Celia, son mari Toby et d'autres habitants de leur village du Yorkshire voient leur destin bifurquer au gré de décisions qu'ils prennent ou non.  
-Seconde partie du diptyque _Smoking / No Smoking_
+Seconde partie du diptyque _Smoking / No Smoking_.
 
 - sa 20 nov 21h15 HL  
 - di 28 nov 18h00 HL  
@@ -191,7 +191,7 @@ d'Alain Resnais
 France-Suisse / 1993 / 148 min / 35 mm  
 Avec Pierre Arditi, Sabine Azéma.  
 Apercevant un paquet de cigarettes sur la table de son jardin, Celia Teasdale décide d'en prendre une. Celia, son mari Toby et d'autres habitants de leur village du Yorkshire voient leur destin bifurquer au gré de décisions qu'ils prennent, ou non.  
-Première partie du diptyque _Smoking / No Smoking_
+Première partie du diptyque _Smoking / No Smoking_.
 
 - di 21 nov 19h00 HL  
 - di 28 nov 14h30 HL  
