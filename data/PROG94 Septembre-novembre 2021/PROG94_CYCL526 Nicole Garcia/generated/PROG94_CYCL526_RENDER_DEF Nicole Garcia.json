@@ -8,7 +8,7 @@
         "cats": [
           2367
         ],
-        "tri": 2
+        "tri": 1
       },
       {
         "titre": "Nicole Garcia actrice",
@@ -30,64 +30,36 @@
   "data": [
     {
       "titreSousCycle": "Nicole Garcia réalisatrice",
-      "tri": 2,
+      "tri": 1,
       "textes": [],
       "items": [
         {
-          "idCategorie": 2367,
-          "idEvenement": 23523,
-          "films": [
+          "idFilm": 75562,
+          "titre": "15 août",
+          "titreVo": "",
+          "realisateurs": "Nicole Garcia",
+          "annee": 1985,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 75562,
-              "titre": "15 août",
-              "titreVo": "",
-              "realisateurs": "Nicole Garcia",
-              "annee": 1985,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Dans une villa au bord de la mer, au mois d'août, une femme passe ses vacances avec une autre jeune femme, son fils et une fille au pair. Elle attend son mari, qui doit venir la rejoindre."
-                }
-              ],
-              "generique": [
-                "Jean-Louis Trintignant",
-                "Nicole Garcia",
-                "Pierre Rochefort"
-              ],
-              "duree": 10,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
-            },
-            {
-              "idFilm": 122375,
-              "titre": "Un beau dimanche",
-              "titreVo": "",
-              "realisateurs": "Nicole Garcia",
-              "annee": 2012,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Baptiste, instituteur dans le Sud de la France, ne reste jamais plus d'un trimestre dans le même poste. Il fait la connaissance de Sandra, la mère de l'un de ses élèves."
-                }
-              ],
-              "generique": [
-                "Louise Bourgoin",
-                "Pierre Rochefort",
-                "Dominique Sanda"
-              ],
-              "duree": 95,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 2
+              "typeTexte": 9,
+              "texte": "Dans une villa au bord de la mer, au mois d'août, une femme passe ses vacances avec une autre jeune femme, son fils et une fille au pair. Elle attend son mari, qui doit venir la rejoindre."
             }
           ],
+          "generique": [
+            "Jean-Louis Trintignant",
+            "Nicole Garcia",
+            "Pierre Rochefort"
+          ],
+          "duree": 10,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
           "seance": [
             {
+              "idSeance": 45791,
+              "ordre": 1,
+              "idEvenement": 23523,
               "dateHeure": "2021-11-17T19:00:00",
               "idSalle": [
                 "GF",
@@ -95,41 +67,38 @@
               ],
               "mention": "Séance présentée par Louise Bourgoin, Pierre Rochefort et Nicole Garcia"
             }
-          ]
+          ],
+          "precedeSuivi": "Film suivi d'_Un beau dimanche_ de Nicole Garcia"
         },
         {
-          "idCategorie": 2367,
-          "idEvenement": 23255,
-          "films": [
+          "idFilm": 79062,
+          "titre": "Adversaire",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Nicole Garcia",
+          "annee": 2001,
+          "pays": "France-Suisse-Espagne",
+          "textes": [
             {
-              "idFilm": 79062,
-              "titre": "Adversaire",
-              "art": "L'",
-              "titreVo": "",
-              "realisateurs": "Nicole Garcia",
-              "annee": 2001,
-              "pays": "France-Suisse-Espagne",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Pendant vingt ans, Jean-Claude Romand prétendit être médecin pour l'Organisation mondiale de la santé, dupant tout son entourage, avant d'assassiner toute sa famille en janvier 1993."
-                }
-              ],
-              "adaptation": "D'après le récit _L'Adversaire_ d'Emmanuel Carrère.",
-              "generique": [
-                "Daniel Auteuil",
-                "Géraldine Pailhas",
-                "François Cluzet"
-              ],
-              "duree": 129,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "Pendant vingt ans, Jean-Claude Romand prétendit être médecin pour l'Organisation mondiale de la santé, dupant tout son entourage, avant d'assassiner toute sa famille en janvier 1993."
             }
           ],
+          "adaptation": "D'après le récit _L'Adversaire_ d'Emmanuel Carrère.",
+          "generique": [
+            "Daniel Auteuil",
+            "Géraldine Pailhas",
+            "François Cluzet"
+          ],
+          "duree": 129,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
           "seance": [
             {
+              "idSeance": 43098,
+              "ordre": 1,
+              "idEvenement": 23255,
               "dateHeure": "2021-11-20T18:30:00",
               "idSalle": [
                 "HL",
@@ -140,36 +109,32 @@
           ]
         },
         {
-          "idCategorie": 2367,
-          "idEvenement": 23265,
-          "films": [
+          "idFilm": 146165,
+          "titre": "Amants",
+          "titreVo": "",
+          "realisateurs": "Nicole Garcia",
+          "annee": 2019,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 146165,
-              "titre": "Amants",
-              "titreVo": "",
-              "realisateurs": "Nicole Garcia",
-              "annee": 2019,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Lisa et Simon s'aiment passionnément depuis leur adolescence. À la suite d'une soirée qui tourne mal, Simon décide de s'enfuit pour échapper à la prison. Lisa l'attend vainement, et finit par rencontrer Léo."
-                }
-              ],
-              "generique": [
-                "Stacy Martin",
-                "Pierre Niney",
-                "Benoît Magimel"
-              ],
-              "duree": 103,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "Lisa et Simon s'aiment passionnément depuis leur adolescence. À la suite d'une soirée qui tourne mal, Simon décide de s'enfuit pour échapper à la prison. Lisa l'attend vainement, et finit par rencontrer Léo."
             }
           ],
+          "generique": [
+            "Stacy Martin",
+            "Pierre Niney",
+            "Benoît Magimel"
+          ],
+          "duree": 103,
+          "format": "DCP",
+          "version": "",
+          "ageMinimal": null,
           "seance": [
             {
+              "idSeance": 44760,
+              "ordre": 1,
+              "idEvenement": 23265,
               "dateHeure": "2021-11-15T20:00:00",
               "idSalle": [
                 "HL",
@@ -179,37 +144,33 @@
           ]
         },
         {
-          "idCategorie": 2367,
-          "idEvenement": 23522,
-          "films": [
+          "idFilm": 52047,
+          "titre": "Fils préféré",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Nicole Garcia",
+          "annee": 1993,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 52047,
-              "titre": "Fils préféré",
-              "art": "Le",
-              "titreVo": "",
-              "realisateurs": "Nicole Garcia",
-              "annee": 1993,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Directeur d'un hôtel sur la Côte d'Azur, Jean-Paul est confronté à de sérieux problèmes d'argent et demande à ses deux frères de l'aider. Devant leur refus, il prend une décision qui risque de mettre à mal toute sa famille."
-                }
-              ],
-              "generique": [
-                "Gérard Lanvin",
-                "Bernard Giraudeau",
-                "Jean-Marc Barr"
-              ],
-              "duree": 99,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "Directeur d'un hôtel sur la Côte d'Azur, Jean-Paul est confronté à de sérieux problèmes d'argent et demande à ses deux frères de l'aider. Devant leur refus, il prend une décision qui risque de mettre à mal toute sa famille."
             }
           ],
+          "generique": [
+            "Gérard Lanvin",
+            "Bernard Giraudeau",
+            "Jean-Marc Barr"
+          ],
+          "duree": 99,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
           "seance": [
             {
+              "idSeance": 43081,
+              "ordre": 1,
+              "idEvenement": 23522,
               "dateHeure": "2021-11-18T22:00:00",
               "idSalle": [
                 "GF",
@@ -220,37 +181,33 @@
           ]
         },
         {
-          "idCategorie": 2367,
-          "idEvenement": 23250,
-          "films": [
+          "idFilm": 131541,
+          "titre": "Mal de pierres",
+          "titreVo": "",
+          "realisateurs": "Nicole Garcia",
+          "annee": 2015,
+          "pays": "France-Belgique",
+          "textes": [
             {
-              "idFilm": 131541,
-              "titre": "Mal de pierres",
-              "titreVo": "",
-              "realisateurs": "Nicole Garcia",
-              "annee": 2015,
-              "pays": "France-Belgique",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Gabrielle, émotive et passionnée, est mariée à José, un ouvrier de ferme patient et généreux. Mais malgré tout l'amour qu'il lui porte, elle est malheureuse. Sujette à des calculs rénaux, elle est envoyée en cure thermale, où elle rencontre André, qui rentre de la guerre d'Indochine."
-                }
-              ],
-              "adaptation": "D'après le roman _Mal di pietre_ de Milena Agus.",
-              "generique": [
-                "Marion Cotillard",
-                "Louis Garrel",
-                "Alex Brendemühl"
-              ],
-              "duree": 116,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "Gabrielle, émotive et passionnée, est mariée à José, un ouvrier de ferme patient et généreux. Mais malgré tout l'amour qu'il lui porte, elle est malheureuse. Sujette à des calculs rénaux, elle est envoyée en cure thermale, où elle rencontre André, qui rentre de la guerre d'Indochine."
             }
           ],
+          "adaptation": "D'après le roman _Mal di pietre_ de Milena Agus.",
+          "generique": [
+            "Marion Cotillard",
+            "Louis Garrel",
+            "Alex Brendemühl"
+          ],
+          "duree": 116,
+          "format": "DCP",
+          "version": "",
+          "ageMinimal": null,
           "seance": [
             {
+              "idSeance": 43094,
+              "ordre": 1,
+              "idEvenement": 23250,
               "dateHeure": "2021-11-19T22:00:00",
               "idSalle": [
                 "GF",
@@ -260,37 +217,33 @@
           ]
         },
         {
-          "idCategorie": 2367,
-          "idEvenement": 23248,
-          "films": [
+          "idFilm": 29514,
+          "titre": "Place Vendôme",
+          "titreVo": "",
+          "realisateurs": "Nicole Garcia",
+          "annee": 1997,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 29514,
-              "titre": "Place Vendôme",
-              "titreVo": "",
-              "realisateurs": "Nicole Garcia",
-              "annee": 1997,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "À la mort du joaillier Vincent Mallivert, sa femme Marianne, qui a sombré depuis longtemps dans l'alcoolisme, trouve dans son coffre sept magnifiques diamants. Confrontée à des difficultés financières, elle cherche à les vendre."
-                }
-              ],
-              "generique": [
-                "Catherine Deneuve",
-                "Jean-Pierre Bacri",
-                "Emmanuelle Seigner",
-                "Jacques Dutronc"
-              ],
-              "duree": 118,
-              "format": "35 mm",
-              "version": "VO",
-              "ageMinimal": null,
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "À la mort du joaillier Vincent Mallivert, sa femme Marianne, qui a sombré depuis longtemps dans l'alcoolisme, trouve dans son coffre sept magnifiques diamants. Confrontée à des difficultés financières, elle cherche à les vendre."
             }
           ],
+          "generique": [
+            "Catherine Deneuve",
+            "Jean-Pierre Bacri",
+            "Emmanuelle Seigner",
+            "Jacques Dutronc"
+          ],
+          "duree": 118,
+          "format": "35 mm",
+          "version": "VO",
+          "ageMinimal": null,
           "seance": [
             {
+              "idSeance": 45792,
+              "ordre": 1,
+              "idEvenement": 23248,
               "dateHeure": "2021-11-18T19:00:00",
               "idSalle": [
                 "GF",
@@ -301,37 +254,33 @@
           ]
         },
         {
-          "idCategorie": 2367,
-          "idEvenement": 23247,
-          "films": [
+          "idFilm": 99737,
+          "titre": "Selon Charlie",
+          "titreVo": "",
+          "realisateurs": "Nicole Garcia",
+          "annee": 2005,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 99737,
-              "titre": "Selon Charlie",
-              "titreVo": "",
-              "realisateurs": "Nicole Garcia",
-              "annee": 2005,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Dans une ville du bord de mer, sept hommes se croisent sous le regard de Charlie, un jeune garçon."
-                }
-              ],
-              "generique": [
-                "Jean-Pierre Bacri",
-                "Vincent Lindon",
-                "Benoît Magimel",
-                "Benoît Poelvoorde"
-              ],
-              "duree": 115,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "Dans une ville du bord de mer, sept hommes se croisent sous le regard de Charlie, un jeune garçon."
             }
           ],
+          "generique": [
+            "Jean-Pierre Bacri",
+            "Vincent Lindon",
+            "Benoît Magimel",
+            "Benoît Poelvoorde"
+          ],
+          "duree": 115,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
           "seance": [
             {
+              "idSeance": 43083,
+              "ordre": 1,
+              "idEvenement": 23247,
               "dateHeure": "2021-11-17T21:15:00",
               "idSalle": [
                 "GF",
@@ -341,37 +290,33 @@
           ]
         },
         {
-          "idCategorie": 2367,
-          "idEvenement": 23254,
-          "films": [
+          "idFilm": 110931,
+          "titre": "Un balcon sur la mer",
+          "titreVo": "",
+          "realisateurs": "Nicole Garcia",
+          "annee": 2009,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 110931,
-              "titre": "Un balcon sur la mer",
-              "titreVo": "",
-              "realisateurs": "Nicole Garcia",
-              "annee": 2009,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Dans le Sud de la France, Marc, agent immobilier marié et père de famille, fait la rencontre d'une femme dont le visage lui est familier. Il pense reconnaître Cathy, l'amour de ses douze ans, époque où il vivait dans une Algérie violente, à la fin de la guerre d'indépendance."
-                }
-              ],
-              "generique": [
-                "Jean Dujardin",
-                "Marie-Josée Croze",
-                "Toni Servillo",
-                "Sandrine Kiberlain"
-              ],
-              "duree": 105,
-              "format": "DCP",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "Dans le Sud de la France, Marc, agent immobilier marié et père de famille, fait la rencontre d'une femme dont le visage lui est familier. Il pense reconnaître Cathy, l'amour de ses douze ans, époque où il vivait dans une Algérie violente, à la fin de la guerre d'indépendance."
             }
           ],
+          "generique": [
+            "Jean Dujardin",
+            "Marie-Josée Croze",
+            "Toni Servillo",
+            "Sandrine Kiberlain"
+          ],
+          "duree": 105,
+          "format": "DCP",
+          "version": "",
+          "ageMinimal": null,
           "seance": [
             {
+              "idSeance": 43093,
+              "ordre": 1,
+              "idEvenement": 23254,
               "dateHeure": "2021-11-19T19:30:00",
               "idSalle": [
                 "GF",
@@ -382,36 +327,69 @@
           ]
         },
         {
-          "idCategorie": 2367,
-          "idEvenement": 23249,
-          "films": [
+          "idFilm": 122375,
+          "titre": "Un beau dimanche",
+          "titreVo": "",
+          "realisateurs": "Nicole Garcia",
+          "annee": 2012,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 48708,
-              "titre": "Un week-end sur deux",
-              "titreVo": "",
-              "realisateurs": "Nicole Garcia",
-              "annee": 1989,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Camille, actrice divorcée, garde ses deux enfants un week-end sur deux. Un jour, elle prend la route avec eux pour tenter de nouer avec eux une relation plus intime. Apprenant qu'une pluie de météorites sera visible d'Espagne, elle décide de les emmener la voir."
-                }
-              ],
-              "generique": [
-                "Nathalie Baye",
-                "Joachim Serreau",
-                "Felicie Pasotti"
-              ],
-              "duree": 100,
-              "format": "35 mm",
-              "version": "",
-              "ageMinimal": null,
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "Baptiste, instituteur dans le Sud de la France, ne reste jamais plus d'un trimestre dans le même poste. Il fait la connaissance de Sandra, la mère de l'un de ses élèves."
             }
           ],
+          "generique": [
+            "Louise Bourgoin",
+            "Pierre Rochefort",
+            "Dominique Sanda"
+          ],
+          "duree": 95,
+          "format": "DCP",
+          "version": "",
+          "ageMinimal": null,
           "seance": [
             {
+              "idSeance": 45791,
+              "ordre": 2,
+              "idEvenement": 23523,
+              "dateHeure": "2021-11-17T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Louise Bourgoin, Pierre Rochefort et Nicole Garcia"
+            }
+          ],
+          "precedeSuivi": "Film précédé de _15 août_ de Nicole Garcia"
+        },
+        {
+          "idFilm": 48708,
+          "titre": "Un week-end sur deux",
+          "titreVo": "",
+          "realisateurs": "Nicole Garcia",
+          "annee": 1989,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Camille, actrice divorcée, garde ses deux enfants un week-end sur deux. Un jour, elle prend la route avec eux pour tenter de nouer avec eux une relation plus intime. Apprenant qu'une pluie de météorites sera visible d'Espagne, elle décide de les emmener la voir."
+            }
+          ],
+          "generique": [
+            "Nathalie Baye",
+            "Joachim Serreau",
+            "Felicie Pasotti"
+          ],
+          "duree": 100,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 43096,
+              "ordre": 1,
+              "idEvenement": 23249,
               "dateHeure": "2021-11-20T14:30:00",
               "idSalle": [
                 "HL",
