@@ -8,7 +8,7 @@
         "cats": [
           2346
         ],
-        "tri": 1
+        "tri": 2
       },
       {
         "titre": "Courts métrages",
@@ -23,13 +23,6 @@
           2355
         ],
         "tri": 2
-      },
-      {
-        "titre": "Rencontres et conférences ",
-        "cats": [
-          2509
-        ],
-        "tri": 4
       }
     ],
     "idProg": 94
@@ -37,39 +30,43 @@
   "data": [
     {
       "titreSousCycle": "Les films",
-      "tri": 1,
+      "tri": 2,
       "textes": [],
       "items": [
         {
-          "idFilm": 51031,
-          "titre": "Adieu Philippine",
-          "realisateurs": "Jacques Rozier",
-          "annee": 1960,
-          "pays": "France-Italie",
-          "textes": [
+          "idCategorie": 2346,
+          "idEvenement": 24595,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Michel est machiniste à la télévision. Il lui reste deux mois avant de partir effectuer son service militaire en Algérie. Lorsqu'il rencontre Juliette et Liliane, il choisit de partir en Corse pour profiter de ses derniers jours de liberté."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Numérisation 4K et restauration 2K réalisées au laboratoire Hiventy à partir des négatifs originaux image et son. Film restauré par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec les Archives audiovisuelles de Monaco, la Cinémathèque suisse et Extérieur Nuit."
+              "idFilm": 51031,
+              "titre": "Adieu Philippine",
+              "realisateurs": "Jacques Rozier",
+              "annee": 1960,
+              "pays": "France-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Michel est machiniste à la télévision. Il lui reste deux mois avant de partir effectuer son service militaire en Algérie. Lorsqu'il rencontre Juliette et Liliane, il choisit de partir en Corse pour profiter de ses derniers jours de liberté."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Numérisation 4K et restauration 2K réalisées au laboratoire Hiventy à partir des négatifs originaux image et son. Film restauré par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec les Archives audiovisuelles de Monaco, la Cinémathèque suisse et Extérieur Nuit."
+                }
+              ],
+              "generique": [
+                "Jean-Claude Aimini",
+                "Daniel Descamps",
+                "Stefania Sabatini"
+              ],
+              "duree": 110,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Jean-Claude Aimini",
-            "Daniel Descamps",
-            "Stefania Sabatini"
-          ],
-          "duree": 110,
-          "format": "DCP",
-          "version": "",
-          "ageMinimal": null,
           "seance": [
             {
-              "idSeance": 45692,
-              "ordre": 1,
-              "idEvenement": 24595,
               "dateHeure": "2021-11-14T14:30:00",
               "idSalle": [
                 "HL",
@@ -78,9 +75,6 @@
               "mention": "Séance suivie d'une discussion avec Jacques Rozier"
             },
             {
-              "idSeance": 43145,
-              "ordre": 1,
-              "idEvenement": 24595,
               "dateHeure": "2021-11-27T15:00:00",
               "idSalle": [
                 "GF",
@@ -90,32 +84,36 @@
           ]
         },
         {
-          "idFilm": 59251,
-          "titre": "Du côté d'Orouët",
-          "realisateurs": "Jacques Rozier",
-          "annee": 1969,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 2346,
+          "idEvenement": 23005,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Trois jeunes filles débordant d'enthousiasme et de vitalité s'échappent de Paris pour passer le mois de septembre sur la côte vendéenne. Gilbert, un chef de bureau un peu gauche, débarque au milieu du trio."
+              "idFilm": 59251,
+              "titre": "Du côté d'Orouët",
+              "realisateurs": "Jacques Rozier",
+              "annee": 1969,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Trois jeunes filles débordant d'enthousiasme et de vitalité s'échappent de Paris pour passer le mois de septembre sur la côte vendéenne. Gilbert, un chef de bureau un peu gauche, débarque au milieu du trio."
+                }
+              ],
+              "generique": [
+                "Danièle Croisy",
+                "Françoise Guégan",
+                "Caroline Cartier",
+                "Bernard Menez"
+              ],
+              "duree": 161,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": 0,
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Danièle Croisy",
-            "Françoise Guégan",
-            "Caroline Cartier",
-            "Bernard Menez"
-          ],
-          "duree": 161,
-          "format": "35 mm",
-          "version": "",
-          "ageMinimal": 0,
           "seance": [
             {
-              "idSeance": 45763,
-              "ordre": 1,
-              "idEvenement": 23005,
               "dateHeure": "2021-11-10T20:00:00",
               "idSalle": [
                 "HL",
@@ -124,9 +122,6 @@
               "mention": "Séance présentée par Jacques Rozier"
             },
             {
-              "idSeance": 43146,
-              "ordre": 1,
-              "idEvenement": 23005,
               "dateHeure": "2021-11-27T17:30:00",
               "idSalle": [
                 "GF",
@@ -136,31 +131,35 @@
           ]
         },
         {
-          "idFilm": 104143,
-          "titre": "Fifi Martingale",
-          "realisateurs": "Jacques Rozier",
-          "annee": 1999,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 2346,
+          "idEvenement": 23006,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Le metteur en scène d'une pièce de boulevard intitulée _L'Œuf de Pâques_ se voit remettre un Molière. Prenant cette récompense pour une mauvaise blague, il pense à une cabale et décide d'y répondre en modifiant sa pièce."
+              "idFilm": 104143,
+              "titre": "Fifi Martingale",
+              "realisateurs": "Jacques Rozier",
+              "annee": 1999,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le metteur en scène d'une pièce de boulevard intitulée _L'Œuf de Pâques_ se voit remettre un Molière. Prenant cette récompense pour une mauvaise blague, il pense à une cabale et décide d'y répondre en modifiant sa pièce."
+                }
+              ],
+              "generique": [
+                "Jean Lefebvre",
+                "Lydia Feld",
+                "Mike Marshall"
+              ],
+              "duree": 120,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Jean Lefebvre",
-            "Lydia Feld",
-            "Mike Marshall"
-          ],
-          "duree": 120,
-          "format": "DCP",
-          "version": "",
-          "ageMinimal": null,
           "seance": [
             {
-              "idSeance": 45789,
-              "ordre": 1,
-              "idEvenement": 23006,
               "dateHeure": "2021-11-15T20:30:00",
               "idSalle": [
                 "GF",
@@ -168,9 +167,6 @@
               ]
             },
             {
-              "idSeance": 43157,
-              "ordre": 1,
-              "idEvenement": 23006,
               "dateHeure": "2021-11-28T20:15:00",
               "idSalle": [
                 "GF",
@@ -180,36 +176,40 @@
           ]
         },
         {
-          "idFilm": 55934,
-          "titre": "Maine Océan",
-          "realisateurs": "Jacques Rozier",
-          "annee": 1986,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 2346,
+          "idEvenement": 23007,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Dejanira, une danseuse brésilienne, prend un train en gare Montparnasse sans composter son billet. Lorsqu'elle est confrontée à deux contrôleurs pointilleux, une avocate intervient et se propose comme interprète."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Film restauré en 4K à partir des négatifs image et son par A17 (Jacques Rozier) et la Cinémathèque française avec le soutien du CNC et en collaboration avec l'Institut audiovisuel de Monaco, la Cinémathèque suisse et Extérieur Nuit."
+              "idFilm": 55934,
+              "titre": "Maine Océan",
+              "realisateurs": "Jacques Rozier",
+              "annee": 1986,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Dejanira, une danseuse brésilienne, prend un train en gare Montparnasse sans composter son billet. Lorsqu'elle est confrontée à deux contrôleurs pointilleux, une avocate intervient et se propose comme interprète."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Film restauré en 4K à partir des négatifs image et son par A17 (Jacques Rozier) et la Cinémathèque française avec le soutien du CNC et en collaboration avec l'Institut audiovisuel de Monaco, la Cinémathèque suisse et Extérieur Nuit."
+                }
+              ],
+              "generique": [
+                "Bernard Menez",
+                "Luis Rego",
+                "Yves Afonso",
+                "Lydia Feld"
+              ],
+              "duree": 130,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Bernard Menez",
-            "Luis Rego",
-            "Yves Afonso",
-            "Lydia Feld"
-          ],
-          "duree": 130,
-          "format": "DCP",
-          "version": "",
-          "ageMinimal": null,
           "seance": [
             {
-              "idSeance": 45764,
-              "ordre": 1,
-              "idEvenement": 23007,
               "dateHeure": "2021-11-14T18:30:00",
               "idSalle": [
                 "HL",
@@ -218,9 +218,6 @@
               "mention": "Séance présentée par Luis Rego, Bernard Menez et Jacques Rozier"
             },
             {
-              "idSeance": 45741,
-              "ordre": 1,
-              "idEvenement": 23007,
               "dateHeure": "2021-11-28T17:30:00",
               "idSalle": [
                 "GF",
@@ -230,36 +227,40 @@
           ]
         },
         {
-          "idFilm": 56895,
-          "titre": "Naufragés de l'île de la Tortue",
-          "art": "Les",
-          "realisateurs": "Jacques Rozier",
-          "annee": 1974,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 2346,
+          "idEvenement": 23008,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Deux employés d'une agence de voyages imaginent une formule touristique pour faire revivre l'expérience de Robinson Crusoé. Envoyés en repérages aux Antilles, ils voient débarquer un groupe de vacanciers."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Restauration 4K à partir des négatifs image et son. Film restauré réalisée au laboratoire Hiventy par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec l'Institut audiovisuel de Monaco, la Cinémathèque suisse et Extérieur Nuit."
+              "idFilm": 56895,
+              "titre": "Naufragés de l'île de la Tortue",
+              "art": "Les",
+              "realisateurs": "Jacques Rozier",
+              "annee": 1974,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux employés d'une agence de voyages imaginent une formule touristique pour faire revivre l'expérience de Robinson Crusoé. Envoyés en repérages aux Antilles, ils voient débarquer un groupe de vacanciers."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Restauration 4K à partir des négatifs image et son. Film restauré réalisée au laboratoire Hiventy par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec l'Institut audiovisuel de Monaco, la Cinémathèque suisse et Extérieur Nuit."
+                }
+              ],
+              "generique": [
+                "Pierre Richard",
+                "Jacques Villeret",
+                "Maurice Risch"
+              ],
+              "duree": 143,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Pierre Richard",
-            "Jacques Villeret",
-            "Maurice Risch"
-          ],
-          "duree": 143,
-          "format": "DCP",
-          "version": "",
-          "ageMinimal": null,
           "seance": [
             {
-              "idSeance": 43041,
-              "ordre": 1,
-              "idEvenement": 23008,
               "dateHeure": "2021-11-11T20:00:00",
               "idSalle": [
                 "HL",
@@ -268,9 +269,6 @@
               "mention": "Séance présentée par Jacques Rozier et Pierre Richard"
             },
             {
-              "idSeance": 43147,
-              "ordre": 1,
-              "idEvenement": 23008,
               "dateHeure": "2021-11-27T20:45:00",
               "idSalle": [
                 "GF",
@@ -280,26 +278,47 @@
           ]
         },
         {
-          "idFilm": 146010,
-          "titre": "Opéra du roi",
-          "art": "L'",
-          "realisateurs": "Jacques Rozier",
-          "annee": 1989,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 2346,
+          "idEvenement": 23084,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Tourné en 1989 au Théâtre lyrique de Montpellier, le film dévoile les coulisses d'une représentation d'_Atys_ dirigée par William Christie (musique) et Francine Lancelot (chorégraphie)."
+              "idFilm": 146010,
+              "titre": "Opéra du roi",
+              "art": "L'",
+              "realisateurs": "Jacques Rozier",
+              "annee": 1989,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Tourné en 1989 au Théâtre lyrique de Montpellier, le film dévoile les coulisses d'une représentation d'_Atys_ dirigée par William Christie (musique) et Francine Lancelot (chorégraphie)."
+                }
+              ],
+              "duree": 42,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 150359,
+              "titre": "Revenez plaisirs exilés",
+              "realisateurs": "Jacques Rozier",
+              "annee": 2012,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Les répétitions et la générale d'_Alceste_, opéra de Jean-Baptiste Lully, à l'Opéra royal du château de Versailles et au Théâtre des Champs-Élysées (direction musicale Jean-Claude Malgoire, mise en scène Jean-Louis Martinoty)."
+                }
+              ],
+              "duree": 77,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
             }
           ],
-          "duree": 42,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 45790,
-              "ordre": 1,
-              "idEvenement": 23084,
               "dateHeure": "2021-11-20T19:00:00",
               "idSalle": [
                 "JE",
@@ -307,56 +326,13 @@
               ]
             },
             {
-              "idSeance": 45846,
-              "ordre": 1,
-              "idEvenement": 23084,
               "dateHeure": "2021-11-25T19:30:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
               ]
             }
-          ],
-          "precedeSuivi": "Film suivi de _Revenez plaisirs exilés_ de Jacques Rozier"
-        },
-        {
-          "idFilm": 150359,
-          "titre": "Revenez plaisirs exilés",
-          "realisateurs": "Jacques Rozier",
-          "annee": 2012,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les répétitions et la générale d'_Alceste_, opéra de Jean-Baptiste Lully, à l'Opéra royal du château de Versailles et au Théâtre des Champs-Élysées (direction musicale Jean-Claude Malgoire, mise en scène Jean-Louis Martinoty)."
-            }
-          ],
-          "duree": 77,
-          "format": "Numérique",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 45790,
-              "ordre": 2,
-              "idEvenement": 23084,
-              "dateHeure": "2021-11-20T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            },
-            {
-              "idSeance": 45846,
-              "ordre": 2,
-              "idEvenement": 23084,
-              "dateHeure": "2021-11-25T19:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film précédé de _L'Opéra du roi_ de Jacques Rozier"
+          ]
         }
       ]
     },
@@ -548,10 +524,20 @@
             },
             {
               "idFilm": 150609,
-              "textes": [],
+              "titre": "Dim Dam Dom n° 26",
+              "realisateurs": "Jean-Christophe Averty, Jacques Brissot",
+              "annee": 1967,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Magazine des futilités et des caprices de la mode, tourné dans un style sophistiqué. Une émission produite par la journaliste de mode, Daisy de Galard."
+                }
+              ],
               "duree": 32,
               "format": "Numérique",
               "version": "",
+              "ageMinimal": null,
               "ordre": 3
             },
             {
@@ -972,12 +958,6 @@
           ]
         }
       ]
-    },
-    {
-      "titreSousCycle": "Rencontres et conférences ",
-      "tri": 4,
-      "textes": [],
-      "items": []
     }
   ]
 }

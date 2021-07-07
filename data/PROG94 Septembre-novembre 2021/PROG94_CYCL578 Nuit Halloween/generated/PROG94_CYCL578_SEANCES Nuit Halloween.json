@@ -35,7 +35,13 @@
     "items": [
       {
         "idFilm": 113543,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 47061,
+        "idCopie": 22701,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -54,9 +60,32 @@
         "idFilm": 55749,
         "ordre": 1,
         "idSeance": 47062,
-        "idCopie": 22650,
+        "idCopie": 22651,
         "duree": 95,
-        "version": "",
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2505,
+    "typeEvenement": 13,
+    "idEvenement": 24567,
+    "idSeance": 47066,
+    "dateHeure": "2021-11-01T06:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 58519,
+        "ordre": 1,
+        "idSeance": 47066,
+        "idCopie": 4083,
+        "duree": 90,
+        "version": "VF",
         "format": "35 mm",
         "valide": 0
       }

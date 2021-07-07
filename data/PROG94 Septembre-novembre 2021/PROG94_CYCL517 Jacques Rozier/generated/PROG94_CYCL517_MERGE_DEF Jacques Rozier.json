@@ -2,7 +2,7 @@
   "data": [
     {
       "titreSousCycle": "Les films",
-      "tri": 1,
+      "tri": 2,
       "items": [
         {
           "idSeance": 45692,
@@ -620,6 +620,61 @@
         },
         {
           "idSeance": 47119,
+          "ordre": 3,
+          "dateHeure": "2021-11-13T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Jacques Rozier et Bernard Menez",
+          "idCategorie": 2356,
+          "idEvenement": 23004,
+          "typeEvenement": 13,
+          "idFilm": 150609,
+          "titre": "Dim Dam Dom n° 26",
+          "realisateurs": "Jean-Christophe Averty, Jacques Brissot",
+          "annee": 1967,
+          "pays": "France",
+          "duree": 32,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Magazine des futilités et des caprices de la mode, tourné dans un style sophistiqué. Une émission produite par la journaliste de mode, Daisy de Galard."
+            }
+          ]
+        },
+        {
+          "idSeance": 47120,
+          "ordre": 3,
+          "dateHeure": "2021-11-21T17:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2356,
+          "idEvenement": 23004,
+          "typeEvenement": 13,
+          "idFilm": 150609,
+          "titre": "Dim Dam Dom n° 26",
+          "realisateurs": "Jean-Christophe Averty, Jacques Brissot",
+          "annee": 1967,
+          "pays": "France",
+          "duree": 32,
+          "version": "",
+          "format": "Numérique",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Magazine des futilités et des caprices de la mode, tourné dans un style sophistiqué. Une émission produite par la journaliste de mode, Daisy de Galard."
+            }
+          ]
+        },
+        {
+          "idSeance": 47119,
           "ordre": 4,
           "dateHeure": "2021-11-13T18:30:00",
           "idSalle": [
@@ -945,41 +1000,6 @@
               "texte": "Trois jeunes lectrices soumettent à une rédaction spécialisée leurs « problèmes sentimentaux »."
             }
           ]
-        },
-        {
-          "idSeance": 47119,
-          "ordre": 3,
-          "dateHeure": "2021-11-13T18:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "mention": "Séance présentée par Jacques Rozier et Bernard Menez",
-          "idCategorie": 2356,
-          "idEvenement": 23004,
-          "typeEvenement": 13,
-          "idFilm": 150609,
-          "duree": 32,
-          "version": "",
-          "format": "Numérique",
-          "textes": []
-        },
-        {
-          "idSeance": 47120,
-          "ordre": 3,
-          "dateHeure": "2021-11-21T17:45:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2356,
-          "idEvenement": 23004,
-          "typeEvenement": 13,
-          "idFilm": 150609,
-          "duree": 32,
-          "version": "",
-          "format": "Numérique",
-          "textes": []
         }
       ],
       "textes": []
@@ -1713,12 +1733,6 @@
           ]
         }
       ],
-      "textes": []
-    },
-    {
-      "titreSousCycle": "Rencontres et conférences ",
-      "tri": 4,
-      "items": [],
       "textes": []
     }
   ],
