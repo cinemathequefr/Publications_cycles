@@ -251,7 +251,7 @@
     "idCategorie": 2451,
     "typeEvenement": 13,
     "idEvenement": 23864,
-    "idSeance": 42973,
+    "idSeance": 47118,
     "dateHeure": "2021-10-31T20:15:00",
     "idSalle": [
       "HL",
@@ -261,7 +261,7 @@
       {
         "idFilm": 61328,
         "ordre": 1,
-        "idSeance": 42973,
+        "idSeance": 47118,
         "idCopie": 22395,
         "duree": 106,
         "version": "VOSTF",
@@ -288,7 +288,7 @@
         "idCopie": 22502,
         "duree": 11,
         "version": "VOSTF",
-        "format": "Numérique",
+        "format": "16 mm",
         "valide": 0
       },
       {
@@ -298,7 +298,7 @@
         "idCopie": 22501,
         "duree": 44,
         "version": "VOSTF",
-        "format": "Numérique",
+        "format": "16 mm",
         "valide": 0
       },
       {
@@ -308,7 +308,7 @@
         "idCopie": 22505,
         "duree": 18,
         "version": "VOSTF",
-        "format": "Numérique",
+        "format": "16 mm",
         "valide": 0
       },
       {
@@ -318,7 +318,7 @@
         "idCopie": 22503,
         "duree": 11,
         "version": "VOSTF",
-        "format": "Numérique",
+        "format": "16 mm",
         "valide": 0
       },
       {
@@ -328,7 +328,7 @@
         "idCopie": 22494,
         "duree": 14,
         "version": "VOSTF",
-        "format": "",
+        "format": "16 mm",
         "valide": 0
       },
       {
@@ -338,85 +338,34 @@
         "idCopie": 22499,
         "duree": 19,
         "version": "VO",
-        "format": "DCP",
+        "format": "16 mm",
         "valide": 0
       }
     ],
     "titreEvenement": "Programme 1"
   },
   {
-    "idCategorie": 2484,
+    "idCategorie": 2451,
     "typeEvenement": 13,
-    "idEvenement": 24226,
-    "idSeance": 42983,
-    "dateHeure": "2021-11-01T21:30:00",
+    "idEvenement": 24608,
+    "idSeance": 47123,
+    "dateHeure": "2021-11-01T22:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
     "items": [
       {
-        "idFilm": 149859,
-        "ordre": 1,
-        "idSeance": 42983,
-        "idCopie": 22493,
-        "duree": 2,
-        "version": "VOSTF",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
-        "idFilm": 149857,
-        "ordre": 2,
-        "idSeance": 42983,
-        "idCopie": 22496,
-        "duree": 3,
-        "version": "VOSTF",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
-        "idFilm": 149853,
-        "ordre": 3,
-        "idSeance": 42983,
-        "idCopie": 22484,
-        "duree": 3,
-        "version": "VOSTF",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
-        "idFilm": 149856,
-        "ordre": 4,
-        "idSeance": 42983,
-        "idCopie": 22497,
-        "duree": 7,
-        "version": "VOSTF",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
         "idFilm": 149854,
-        "ordre": 5,
-        "idSeance": 42983,
+        "ordre": 1,
+        "idSeance": 47123,
         "idCopie": 22495,
         "duree": 55,
-        "version": "VOSTF",
-        "format": "Numérique",
-        "valide": 0
-      },
-      {
-        "idFilm": 149855,
-        "ordre": 6,
-        "idSeance": 42983,
-        "idCopie": 22498,
-        "duree": 3,
-        "version": "VOSTF",
-        "format": "Numérique",
+        "version": "VO",
+        "format": "16 mm",
         "valide": 0
       }
-    ],
-    "titreEvenement": "Programme 2"
+    ]
   },
   {
     "idCategorie": 2451,
@@ -511,7 +460,7 @@
     ]
   },
   {
-    "idCategorie": 2451,
+    "idCategorie": 2484,
     "typeEvenement": 13,
     "idEvenement": 24228,
     "idSeance": 43013,
@@ -522,16 +471,67 @@
     ],
     "items": [
       {
-        "idFilm": 149899,
+        "idFilm": 149853,
         "ordre": 1,
+        "idSeance": 43013,
+        "idCopie": 22484,
+        "duree": 3,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 149855,
+        "ordre": 2,
+        "idSeance": 43013,
+        "idCopie": 22498,
+        "duree": 3,
+        "version": "VO",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 149856,
+        "ordre": 3,
+        "idSeance": 43013,
+        "idCopie": 22497,
+        "duree": 7,
+        "version": "VO",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 149857,
+        "ordre": 4,
+        "idSeance": 43013,
+        "idCopie": 22496,
+        "duree": 3,
+        "version": "VO",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 149859,
+        "ordre": 5,
+        "idSeance": 43013,
+        "idCopie": 22493,
+        "duree": 2,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 149899,
+        "ordre": 6,
         "idSeance": 43013,
         "idCopie": 22504,
         "duree": 49,
         "version": "VOSTF",
-        "format": "",
+        "format": "16 mm",
         "valide": 0
       }
-    ]
+    ],
+    "titreEvenement": "Programme 2"
   },
   {
     "idCategorie": 2451,

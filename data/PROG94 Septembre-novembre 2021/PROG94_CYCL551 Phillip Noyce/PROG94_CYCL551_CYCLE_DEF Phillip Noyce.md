@@ -73,15 +73,13 @@ Dans un futur lointain, toutes les traces de l'Histoire ont été supprimées po
 
 - di 7 nov 16h45 HL
 
-[149899]  
-**God Knows Why, But It Works**  
+[149854]  
+**Good Afternoon**  
 de Phillip Noyce  
-Australie / 1976 / 49 min / VOSTF  
-Avec Henri Szeps, Robyn Nevin.  
-La vie et de l'œuvre du Dr Archie Kalokerinos, pionnier de l'utilisation de la vitamine C dans le traitement de la malnutrition chez les enfants aborigènes.  
-Premier documentaire de Phillip Noyce pour Film Australia.
+Australie / 1971 / 55 min / VO / 16 mm  
+Documentaire sur le Festival des arts qui s'est déroulé à Canberra en 1971.
 
-- sa 6 nov 18h00 JE
+- lu 1 nov 22h00 GF
 
 [38882]  
 **Heatwave**  
@@ -174,46 +172,46 @@ Avec son seul sabre, un aveugle affronte des tueurs impitoyables, pour sauver le
 
 ## Courts métrages
 
-**Courts métrages, fragments et films de fin d'étude.**
+**Courts métrages, fragments et films de fin d'études.**
 
 ### Programme 1
 
 [149900]  
 **Disco**  
 de Phillip Noyce  
-Australie / 1977 / 11 min / VOSTF / Numérique  
+Australie / 1977 / 11 min / VOSTF / 16 mm  
 Film sur les attentes et les attitudes sociales et sexuelles des adolescents qui fréquentent une discothèque.  
 Film de la série _Growing Up_, constituée de six courts métrages réalisés en Australie en 1977.  
 suivi de  
 [149896]  
 **Castor and Pollux: A Tale of Two Spiritual Brothers**  
 de Phillip Noyce  
-Australie / 1973 / 44 min / VOSTF / Numérique  
+Australie / 1973 / 44 min / VOSTF / 16 mm  
 Portrait de deux hommes que tout oppose, l'un biker, l'autre prêcheur hippie, mais qui ont en commun d'avoir choisi des voies peu conventionnelles.  
 suivi de  
 [149897]  
 **Renegades: Fragments from a Diary of Three Years Experience 1970-1973**  
 de Phillip Noyce  
-Australie / 1974 / 18 min / VOSTF / Numérique  
+Australie / 1974 / 18 min / VOSTF / 16 mm  
 Épisodes de la vie du _street performer_ George Shevtsov, pendant les manifestations contre la guerre au Vietnam, à l'Odyssey Pop Festival de Wallacia, et dans la rue.  
 suivi de  
 [149898]  
 **Finks Make Movies**  
 de Phillip Noyce  
-Australie / 1975 / 11 min / VOSTF / Numérique  
+Australie / 1975 / 11 min / VOSTF / 16 mm  
 Les tribulations du célèbre gang de motards hors-la-loi australiens, les Finks.  
 suivi de  
 [149860]  
 **Caravan Park**  
 de Phillip Noyce  
-Australie / 1973 / 14 min / VOSTF  
+Australie / 1973 / 14 min / VOSTF / 16 mm  
 Avec Les Berryman.  
 Après une panne de voiture, une famille se retrouve coincée dans un camp de caravanes.  
 suivi de  
 [149858]  
 **That's Showbiz**  
 de Phillip Noyce  
-Australie / 1973 / 19 min / VO / DCP  
+Australie / 1973 / 19 min / VO / 16 mm  
 Avec Bill Lyle, Phillip Noyce, Gretel Pinninger.  
 Une troupe de théâtre sur le déclin décide d'ajouter un sulfureux numéro de striptease à son spectacle.
 
@@ -221,43 +219,45 @@ Une troupe de théâtre sur le déclin décide d'ajouter un sulfureux numéro de
 
 ### Programme 2
 
-[149859]  
-**Camera Class**  
-de Phillip Noyce  
-Australie / 1971 / 2 min / VOSTF / Numérique  
-Court métrage expérimental, entre le documentaire et la fiction, qui met en scène diverses situations rocambolesques – un homme nu poursuit une femme dévêtue et se retrouve avec un crâne entre les mains.  
-suivi de  
-[149857]  
-**Home**  
-de Phillip Noyce  
-Australie / 1971 / 3 min / VOSTF / Numérique  
-L'exploration de l'intérieur et de l'extérieur d'une maison et de ses occupants.  
-suivi de  
 [149853]  
 **Intersection**  
 de Phillip Noyce  
-Australie / 1971 / 3 min / VOSTF / Numérique  
+Australie / 1971 / 3 min / VOSTF / 16 mm  
 L'exploration d'une zone spécifique de l'espace et du temps : un carrefour, pendant la durée que mettent les feux de circulation à changer de couleur.  
-suivi de  
-[149856]  
-**Memories**  
-de Phillip Noyce  
-Australie / 1971 / 7 min / VOSTF / Numérique  
-Pour faire ressurgir des souvenirs enfouis, Phillip Noyce filme des flammes dans une cheminée et la fumée d'un feu dans le bush.  
-suivi de  
-[149854]  
-**Good Afternoon**  
-de Phillip Noyce  
-Australie / 1971 / 55 min / VOSTF / Numérique  
-Documentaire sur le Festival des arts qui s'est déroulé à Canberra en 1971.  
 suivi de  
 [149855]  
 **Sun**  
 de Phillip Noyce  
-Australie / 1971 / 3 min / VOSTF / Numérique  
-Plans du soleil d'hiver.
+Australie / 1971 / 3 min / VO / 16 mm  
+Plans du soleil d'hiver.  
+suivi de  
+[149856]  
+**Memories**  
+de Phillip Noyce  
+Australie / 1971 / 7 min / VO / 16 mm  
+Pour faire ressurgir des souvenirs enfouis, Phillip Noyce filme des flammes dans une cheminée et la fumée d'un feu dans le bush.  
+suivi de  
+[149857]  
+**Home**  
+de Phillip Noyce  
+Australie / 1971 / 3 min / VO / 16 mm  
+L'exploration de l'intérieur et de l'extérieur d'une maison et de ses occupants.  
+suivi de  
+[149859]  
+**Camera Class**  
+de Phillip Noyce  
+Australie / 1971 / 2 min / VOSTF / 16 mm  
+Court métrage expérimental, entre le documentaire et la fiction, qui met en scène diverses situations rocambolesques – un homme nu poursuit une femme dévêtue et se retrouve avec un crâne entre les mains.  
+suivi de  
+[149899]  
+**God Knows Why, But It Works**  
+de Phillip Noyce  
+Australie / 1976 / 49 min / VOSTF / 16 mm  
+Avec Henri Szeps, Robyn Nevin.  
+La vie et de l'œuvre du Dr Archie Kalokerinos, pionnier de l'utilisation de la vitamine C dans le traitement de la malnutrition chez les enfants aborigènes.  
+Premier documentaire de Phillip Noyce pour Film Australia.
 
-- lu 1 nov 21h30 GF
+- sa 6 nov 18h00 JE
 
 ## Rencontres et conférences
 
