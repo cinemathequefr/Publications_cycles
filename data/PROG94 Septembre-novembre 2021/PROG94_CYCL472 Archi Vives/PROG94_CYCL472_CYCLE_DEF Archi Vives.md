@@ -13,9 +13,11 @@ Sylvie Lindeperg est professeure à l'université Paris 1 Panthéon-Sorbonne et 
 - je 21 oct 17h30 GF
 
 [34001]  
-****  
-undefined  
-186 min / VOSTF / 35 mm
+**Jugement à Nuremberg**  
+**(Judgment at Nuremberg)**  
+de Stanley Kramer  
+États-Unis / 1961 / 186 min / VOSTF / 35 mm  
+Avec Spencer Tracy, Burt Lancaster, Richard Widmark.  
+En 1947 à Nuremberg, le « procès des juges » : des juges et des procureurs de l'Allemagne nazie sont mis en accusation pour leur participation aux atrocités du régime.
 
 - je 21 oct 19h30 GF
-
