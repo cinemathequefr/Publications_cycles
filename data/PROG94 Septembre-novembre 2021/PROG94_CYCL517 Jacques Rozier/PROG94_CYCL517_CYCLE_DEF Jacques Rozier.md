@@ -125,17 +125,23 @@ Avec Hélène Lazareff, Berthe Granval, Jean Lescot.
 Enquête sur la mode : cet hiver-là, capes et bottes font fureur à Paris. De la rue, on remonte au studio photo et, encore en amont, à l'invention d'une vogue par les stylistes de _Elle_.  
 Film restauré par la Cinémathèque française au laboratoire Hiventy.  
 suivi de  
-[150609]  
-**Dim Dam Dom n° 26**  
-de Jean-Christophe Averty, Jacques Brissot  
-France / 1967 / 32 min / Numérique  
-Magazine des futilités et des caprices de la mode, tourné dans un style sophistiqué. Une émission produite par la journaliste de mode, Daisy de Galard.  
-suivi de  
 [145831]  
 **Nono Nénesse**  
 de Jacques Rozier  
 France / 1976 / 26 min / DCP  
-Trois bébés qui grandissent et évoluent sur la scène d'un théâtre, dans un décor à leur échelle.
+Trois bébés qui grandissent et évoluent sur la scène d'un théâtre, dans un décor à leur échelle.  
+suivi de  
+[150713]  
+**Dim Dam Dom : Le Duel long court**  
+de Jacques Rozier  
+France / 1967 / 6 min / Numérique  
+La terrible guerre des ourlets : le duel entre le prêt-à-porter long et le prêt-à-porter court.  
+suivi de  
+[150715]  
+**Dim Dam Dom : La Mode printemps 1967**  
+de Jacques Rozier  
+France / 1967 / 17 min / Numérique  
+Édition spéciale sur les les collections de printemps.
 
 - sa 13 nov 18h30 GF  
 Séance présentée par Jacques Rozier et Bernard Menez  

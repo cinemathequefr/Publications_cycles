@@ -20,7 +20,6 @@ Numérisation 4K et restauration 2K réalisées au laboratoire Hiventy à partir
 
 [71266]  
 **Cinéastes de notre temps : Jean Vigo**  
-**(Jean Vigo)**  
 de Jacques Rozier  
 France / 1964  
 Portrait du cinéaste Jean Vigo pour la collecion produite par Janine Bazin et André S. Labarthe.
@@ -42,6 +41,24 @@ Avec Hélène Lazareff, Berthe Granval, Jean Lescot.
 Enquête sur la mode : cet hiver-là, capes et bottes font fureur à Paris. De la rue, on remonte au studio photo et, encore en amont, à l'invention d'une vogue par les stylistes de _Elle_.
 
 Film restauré par la Cinémathèque française au laboratoire Hiventy.
+
+[150715]  
+**Dim Dam Dom : La Mode printemps 1967**  
+de Jacques Rozier  
+France / 1967  
+Édition spéciale sur les les collections de printemps.
+
+[150713]  
+**Dim Dam Dom : Le Duel long court**  
+de Jacques Rozier  
+France / 1967  
+La terrible guerre des ourlets : le duel entre le prêt-à-porter long et le prêt-à-porter court.
+
+[150609]  
+**Dim Dam Dom n° 26**  
+de Jean-Christophe Averty, Jacques Brissot  
+France / 1967  
+Magazine des futilités et des caprices de la mode, tourné dans un style sophistiqué. Une émission produite par la journaliste de mode, Daisy de Galard.
 
 [59251]  
 **Du côté d'Orouët**  
@@ -116,6 +133,8 @@ France / 1986
 Avec Bernard Menez, Luis Rego, Yves Afonso, Lydia Feld.  
 Dejanira, une danseuse brésilienne, prend un train en gare Montparnasse sans composter son billet. Lorsqu'elle est confrontée à deux contrôleurs pointilleux, une avocate intervient et se propose comme interprète.
 
+Film restauré en 4K à partir des négatifs image et son par A17 (Jacques Rozier) et la Cinémathèque française avec le soutien du CNC et en collaboration avec l'Institut audiovisuel de Monaco, la Cinémathèque suisse et Extérieur Nuit.
+
 [145965]  
 **Marketing mix**  
 de Jacques Rozier  
@@ -180,6 +199,8 @@ Numérisation 4K et restauration 2K réalisée au laboratoire Hiventy à partir 
 **Le Perroquet parisien**  
 de Jacques Rozier  
 France / 2007  
+Appâtés par le gain, un réalisateur et une actrice font miroiter au producteur Salvator Cortázar un sujet en or d'après un roman intitulé _Le Perroquet parisien_. Sans se douter que le livre n'existe pas, Cortázar se lance dans la course pour en obtenir les droits.
+
 Film inachevé inédit.
 
 [67926]  
@@ -207,4 +228,3 @@ Trois jeunes lectrices soumettent à une rédaction spécialisée leurs « probl
 de Jacques Rozier  
 France / 2008  
 Jacques Rozier commente des photos de tournage et des extraits d'_Adieu Philippine._
-
