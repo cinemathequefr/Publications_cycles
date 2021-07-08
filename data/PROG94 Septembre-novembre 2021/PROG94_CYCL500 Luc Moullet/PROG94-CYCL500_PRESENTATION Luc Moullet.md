@@ -18,5 +18,5 @@ Avec cette tête bien faite et ces jambes vigoureuses, une troisième instance s
 
 Arnaud Hée
 
-^[1]: Luc Moullet, Piges choisies (de Griffith à Ellroy), 2009, Capricci, p 57.
+^[1]: Luc Moullet, _Piges choisies (de Griffith à Ellroy)_, 2009, Capricci, p 57.
 ^[2]: « Le Martyre de San Sébastien », _Cahiers du cinéma_, n° 99, septembre 1959.
