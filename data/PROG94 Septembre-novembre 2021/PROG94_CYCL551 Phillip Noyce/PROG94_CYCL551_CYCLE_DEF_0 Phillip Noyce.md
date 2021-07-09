@@ -76,7 +76,7 @@ Dans un futur lointain, toutes les traces de l'Histoire ont été supprimées po
 [149854]  
 **Good Afternoon**  
 de Phillip Noyce  
-Australie / 1971 / 55 min / VOSTF / 16 mm  
+Australie / 1971 / 55 min / VO / 16 mm  
 Documentaire sur le Festival des arts qui s'est déroulé à Canberra en 1971.
 
 - lu 1 nov 22h00 GF
@@ -211,7 +211,7 @@ suivi de
 [149858]  
 **That's Showbiz**  
 de Phillip Noyce  
-Australie / 1973 / 19 min / VOSTF / 16 mm  
+Australie / 1973 / 19 min / VO / 16 mm  
 Avec Bill Lyle, Phillip Noyce, Gretel Pinninger.  
 Une troupe de théâtre sur le déclin décide d'ajouter un sulfureux numéro de striptease à son spectacle.
 
@@ -228,19 +228,19 @@ suivi de
 [149855]  
 **Sun**  
 de Phillip Noyce  
-Australie / 1971 / 3 min / 16 mm  
+Australie / 1971 / 3 min / VO / 16 mm  
 Plans du soleil d'hiver.  
 suivi de  
 [149856]  
 **Memories**  
 de Phillip Noyce  
-Australie / 1971 / 7 min / 16 mm  
+Australie / 1971 / 7 min / VO / 16 mm  
 Pour faire ressurgir des souvenirs enfouis, Phillip Noyce filme des flammes dans une cheminée et la fumée d'un feu dans le bush.  
 suivi de  
 [149857]  
 **Home**  
 de Phillip Noyce  
-Australie / 1971 / 3 min / 16 mm  
+Australie / 1971 / 3 min / VO / 16 mm  
 L'exploration de l'intérieur et de l'extérieur d'une maison et de ses occupants.  
 suivi de  
 [149859]  
