@@ -44,7 +44,7 @@ D'après le roman _The Spy in Black_ de Joseph Storer Clouston.
 Avec Conrad Veidt, Sebastian Shaw, Valerie Hobson, Marius Goring.  
 Le capitaine d'un sous-marin allemand accepte le rôle déshonorant de recueillir des renseignements fournis par une espionne.
 
-- di 26 mar 14h30 HL
+- sa 25 mar 15h00 GF
 
 [106772]  
 **Espion(s)**  
@@ -83,7 +83,7 @@ D'après le roman _The Conspirator_ de Humphrey Slater.
 Avec Elizabeth Taylor, Robert Taylor, Honor Blackman.  
 À Londres, une jeune Américaine s'éprend d'un officier de la garde britannique. Mais peu après leur mariage, elle découvre que son époux est un espion à la solde de l'Union soviétique.
 
-- sa 1 avr 15h00 GF
+- sa 1 avr 15h00 HL
 
 [45885]  
 **L'Homme qui en savait trop**  
@@ -177,7 +177,7 @@ D'après les nouvelles _Ashenden_, _The Traitor_ et _The Hairless Mexican_ de Wi
 Avec Madeleine Carroll, John Gielgud, Peter Lorre, Robert Young.  
 En 1916, un célèbre romancier britannique s'engage dans les services secrets. Il est envoyé en Suisse en compagnie de deux autres espions, mais leur contact est assassiné avant même d'avoir pu leur parler.
 
-- sa 25 mar 14h30 HL
+- di 26 mar 14h30 HL
 
 [115123]  
 **La Taupe**  

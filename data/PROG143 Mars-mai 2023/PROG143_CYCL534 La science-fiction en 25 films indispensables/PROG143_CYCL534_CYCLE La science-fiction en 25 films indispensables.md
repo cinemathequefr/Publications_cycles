@@ -120,7 +120,7 @@ de Jack Arnold
 Avec Richard Carlson, Barbara Rush, Charles Drake.  
 Un vaisseau spatial atterrit accidentellement dans une zone désertique de l'Arizona. Les extra-terrestres, afin de ne pas effrayer les habitants de la région, empruntent l'apparence de certains d'entre eux. Un scientifique, accompagné d'une jeune institutrice, communique avec eux dans l'espoir d'apprendre à les connaître. Mais les habitants de la région leur sont hostiles et veulent les détruire.
 
-- lu 20 mar 19h00 GF
+- lu 20 mar 18h30 GF
 
 [40645]  
 **Metropolis**  
@@ -172,26 +172,6 @@ Un vaisseau spatial d'origine martienne est découvert dans le métro londonien.
 
 - lu 27 mar 20h30 GF
 
-[37314]  
-**Le Mystère Andromède**  
-**(The Andromeda Strain)**  
-de Robert Wise  
-États-Unis / 1970 / 131 min / VOSTF / 35 mm  
-Avec Arthur Hill, David Wayne, Kate Reid.  
-Après la chute d'une sonde spatiale, une épidémie frappe une bourgade mexicaine. Quatre scientifiques des services bactériologiques de l'armée enquêtent sur ce mystérieux phénomène qui a décimé une grande partie de la population de cette petite ville du désert et menace l'humanité entière.
-
-- sa 25 mar 19h30 HL
-
-[38057]  
-**Planète interdite**  
-**(Forbidden Planet)**  
-de Fred McLeod Wilcox  
-États-Unis / 1955 / 98 min / VOSTF / 35 mm  
-Avec Walter Pidgeon, Leslie Nielsen, Anne Francis.  
-Au XXIIe, une expédition enquête sur la disparition, vingt années plus tôt, du navire spatial Bellér ophon et de son équipage.
-
-- sa 25 mar 17h00 HL
-
 [45137]  
 **Rencontres du troisième type**  
 **(Close Encounters of the Third Kind)**  
@@ -209,7 +189,7 @@ Quelque part dans l'univers, il existe certainement une vie extraterrestre. Des 
 Quelque part dans l'univers, il existe certainement une vie extraterrestre. Des faits étranges attirent de nombreux chercheurs et spécialistes d'OVNI vers un même lieu... Au Mexique, en plein désert de Sonora, un scientifique français, Claude Lacombe, tente d'établir le contact.  
 _Director's cut_. Restauration 4K sous la direction de Steven Spielberg par Sony Pictures Entertainment à partir du négatif original. Scan par Cineric laboratory et restauration par Prasad Group (Inde). Restauration sonore par Deluxe Audio à Hollywood.
 
-- di 2 avr 19h30 HL
+- di 2 avr 19h45 HL
 
 [34064]  
 **Silent Running**  
@@ -240,7 +220,7 @@ D'après le roman _Make room, make room_ de Harry Harrison.
 Avec Charlton Heston, Edward G. Robinson, Joseph Cotten.  
 New-York 2022. Les hommes ont épuisé les ressources naturelles. Seul le « Soleil Vert » parvient à nourrir une population miséreuse qui ignore tout de cet aliment. Accompagné de son fidèle ami, un policier va découvrir au péril de sa vie l'effroyable réalité de cette société inhumaine.
 
-- di 2 avr 17h15 HL
+- di 2 avr 17h30 HL
 
 [30920]  
 **Starman**  

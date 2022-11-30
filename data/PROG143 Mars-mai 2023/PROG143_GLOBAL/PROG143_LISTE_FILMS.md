@@ -16,34 +16,24 @@
   * Carré de dames pour un as  
   * Coup de force à Berlin  
   * F.B.I. contre Lotus Bleu  
-  * S.A.S. à San Salvador  
+  * SAS à San Salvador  
   * SAS, l'œil de la veuve  
   * Sursis (Le)  
   * Train de nuit pour Munich
 
-## Hugo Fregonese (21)
+## Hugo Fregonese (11)
 
   * Affaire de Buenos Aires (L')  
-  * Cavaliers rouges (Les)  
   * De hombre a hombre  
   * Donde mueren las palabras  
   * Dracula contre Frankenstein  
   * Étrange M. Slade (L')  
-  * Harry Black et le tigre  
   * Impasse maudite (L')  
-  * Marco Polo  
-  * Mardi ça saignera  
-  * Mes six forçats  
   * Mission spéciale au Deuxième Bureau  
-  * Pages galantes de Boccace  
-  * Pampa sauvage (La)  
   * Passage interdit  
   * Quand les tambours s'arrêteront  
   * Raid (The)  
-  * Sept tonnerres (Les)  
-  * Signe des rénégats (Le)  
-  * Souffle sauvage (Le)  
-  * Vagabond et les lutins (Le)
+  * Souffle sauvage (Le)
 
 ## L'image des plaisirs (9)
 
@@ -57,7 +47,7 @@
   * Memory Slot – Track 1  
   * Passing Strangers
 
-## La science-fiction en 25 films indispensables (25)
+## La science-fiction en 25 films indispensables (23)
 
   * 2001 : L'Odyssée de l'espace  
   * Abyss  
@@ -76,8 +66,6 @@
   * Mondwest  
   * Monstre (Le)  
   * Monstres de l'espace (Les)  
-  * Mystère Andromède (Le)  
-  * Planète interdite  
   * Rencontres du troisième type  
   * Silent Running  
   * Solaris  
@@ -253,7 +241,23 @@
   * Une femme cherche son destin  
   * Voyage sans retour
 
-## Yann Dedet (2)
+## Yann Dedet (18)
 
+  * Cloches de Silésie (Les)  
+  * Deux Anglaises et le Continent (Les)  
+  * Économie du couple (L')  
+  * Femmes de Višegrad (Les)  
+  * Gants blancs (Les)  
+  * Grand chariot (Le)  
+  * I Am Not a Witch  
+  * Making of  
+  * Mona et moi  
+  * Nénette et Boni  
+  * Outremer  
   * Passe montagne  
+  * Presque rien  
+  * Quand je serai jeune  
+  * Sens de l'humour (Le)  
   * Sweet Movie  
+  * Van Gogh  
+  * Western  

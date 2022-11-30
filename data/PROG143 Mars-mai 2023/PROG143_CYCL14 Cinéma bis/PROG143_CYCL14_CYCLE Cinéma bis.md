@@ -9,7 +9,7 @@ France-Espagne-Italie / 1966 / 95 min / VF / 35 mm
 Avec Roger Hanin, Sylva Koscina, Catherine Allégret.  
 Responsable de la destruction d'un réseau français, Hakim Gregory est recherché par les services de renseignement qui envoient à sa poursuite leur meilleur agent, Dan Layton, quand quatre hommes sont retrouvés morts en Espagne.
 
-- ve 7 avr 19h00 GF
+- ve 31 mar 19h00 GF
 
 [46694]  
 **Atout cœur à Tokyo pour O.S.S. 117**  
@@ -19,7 +19,7 @@ D'après le roman _Atout cœur à Tokyo pour O.S.S. 117_ de Jean Bruce.
 Avec Frederick Stafford, Marina Vlady, Henri Serre.  
 L'agent OSS 117, alias Hubert Bonisseur de la Bath, enquête sur l'explosion d'une base américaine du pacifique. À Tokyo, il rencontre Eva Wilson et ne tarde pas à découvrir ses liens étroits avec l'attentat.
 
-- ve 7 avr 21h00 GF
+- ve 31 mar 21h00 GF
 
 [34924]  
 **SAS, l'œil de la veuve**  
@@ -27,16 +27,17 @@ L'agent OSS 117, alias Hubert Bonisseur de la Bath, enquête sur l'explosion d'u
 d'Andrew V. McLaglen  
 Grande-Bretagne-France / 1989 / 95 min / VF / 35 mm  
 Avec Richard Young, Mel Ferrer, F. Murray Abraham.  
-Malko Linge est non seulement prince d'Autriche mais aussi agent de la CIA. Lors d'une soirée organisée dans son château, le prince et ses invités sont attaqués par un groupe d'hommes armés dirigés par Nassiri. il va chercher à découvrir l'identité du chef des assaillants.
+Malko Linge, à la fois prince d'Autriche et agent de la CIA, est attaqué avec ses invités lors d'une soirée organisée dans son château. Linge cherche alors à découvrir l'identité du chef des assaillants.
 
 - ve 21 avr 19h00 GF
 
 [59853]  
-**S.A.S. à San Salvador**  
+**SAS à San Salvador**  
 de Raoul Coutard  
 France-Allemagne / 1982 / 94 min / VF / 35 mm  
+D'après le roman _Terreur à San Salvador_ de Gérard de Villiers.  
 Avec Miles O'Keeffe, Raimund Harmstorf, Anton Diffring.  
-Enrique Chacon, un ex-agent de la CIA, s'est engagé dans un combat politique au San Salvador ravagé par la guerre civile. Le célèbre Malko Linge alias SAS reçoit l'ordre de neutraliser Chacon.
+Un ex-agent de la CIA est engagé dans un combat politique au Salvador, pays ravagé par la guerre civile. Le célèbre Malko Linge, alias SAS, reçoit l'ordre de le neutraliser.
 
 - ve 21 avr 21h00 GF
 
@@ -55,8 +56,8 @@ Un ex-agent de la CIA tient un magasin d'antiquités à Jérusalem, où il mène
 **(Night Train to Munich)**  
 de Carol Reed  
 Grande-Bretagne / 1940 / 93 min / VOSTF / Numérique  
-Avec Rex Harrison, Paul Henreid, Basil Radford.  
-1939\. Les Allemands envahissent la Tchécoslovaquie et s'apprêtent a déferler sur l'Europe. Intéressés par les connaissances d'un expert en blindés, ils enlèvent sa fille afin de le faire chanter.
+Avec Rex Harrison, Paul Henreid, Basil Radford, Margaret Lockwood.  
+1939. Les Allemands envahissent la Tchécoslovaquie et s'apprêtent à déferler sur l'Europe. Intéressés par les connaissances d'un expert en blindés, ils enlèvent sa fille afin de le faire chanter.
 
 - ve 28 avr 21h15 GF
 

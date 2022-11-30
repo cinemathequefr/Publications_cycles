@@ -22,7 +22,7 @@ Avec Anita Ekberg, Sophia Loren, Romy Schneider, Marisa Solinas.
 Quatre adaptations modernes des contes pour adultes de Boccace, qui mettent en scène des femmes fatales : _Renzo et Luciana_ de Mario Monicelli, _Les Tentations du docteur Antoine_ de Federico Fellini, _Le Travail_ de Luchino Visconti, et _La Loterie_ de Vittorio De Sica.  
 Dans _Le Travail_, Romy Schneider incarne une jeune femme qui décide de faire payer ses charmes à son mari pour se venger de ses infidélités.
 
-- di 14 mai 19h30 HL
+- di 14 mai 20h15 HL
 
 [42815]  
 **Brancaleone aux croisades**  
@@ -111,7 +111,7 @@ Italie / 1955 / 103 min / VO / 35 mm
 Avec Elsa Martinelli, Gabriele Ferzetti, Walter Chiari.  
 Donatella, fille d'artisan, garde la villa d'une riche Américaine pendant son absence. Elle fait la rencontre d'un riche avocat dont elle tombe amoureuse.
 
-- sa 13 mai 18h15 HL
+- sa 13 mai 18h15 GF
 
 [41985]  
 **La Double vie de Matthias Pascal**  
@@ -160,7 +160,7 @@ Italie / 1967 / 102 min / VOSTF / DCP
 Avec Monica Vitti, Stanley Baker, Carlo Giuffré, Corin Redgrave.  
 Séduite et abandonnée par un homme de son village, Assunta la Sicilienne part à sa recherche jusqu'à Londres avec pour seul bagage un énorme pistolet.
 
-- sa 13 mai 20h30 HL
+- sa 13 mai 20h30 GF
 
 [43246]  
 **Gendarmes et voleurs**  
@@ -203,7 +203,7 @@ Italie / 1952 / 105 min / VO / 35 mm
 Avec May Britt, Irène Papas, Marina Vlady, Gina Lollobrigida.  
 Un industriel engage quelqu'un pour prendre sa femme en filature, espérant secrètement qu'elle le trompe afin de demander le divorce et d'épouser le mannequin dont il est amoureux
 
-- di 14 mai 17h00 HL
+- di 14 mai 17h15 GF
 
 [55028]  
 **Larmes de joie**  
