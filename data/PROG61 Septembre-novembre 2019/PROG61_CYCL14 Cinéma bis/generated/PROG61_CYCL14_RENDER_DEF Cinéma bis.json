@@ -1,0 +1,201 @@
+{
+  "header": {
+    "idCycleProg": 14,
+    "titreCycle": "Cinéma bis",
+    "sousCycles": [
+      {
+        "titre": "Polars et action à la française",
+        "cats": [
+          2077
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Peur de l'avion ?",
+        "cats": [
+          2078
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 61
+  },
+  "data": [
+    {
+      "titreSousCycle": "Polars et action à la française",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2077,
+          "idEvenement": 20650,
+          "titreEvenement": "Septième cible (La)",
+          "films": [
+            {
+              "idFilm": 54675,
+              "titre": "Septième cible",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Claude Pinoteau",
+              "annee": 1984,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Bastien Grimaldi, écrivain réputé, est agressé un soir dans la rue puis menacé de mort. Les coups de téléphone et les lettres anonymes s'accumulent. Grimaldi décide de mener sa propre enquête."
+                }
+              ],
+              "generique": [
+                "Lino Ventura",
+                "Lea Massari",
+                "Jean Poiret"
+              ],
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-08-30T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2077,
+          "idEvenement": 20651,
+          "titreEvenement": "Loups entre eux (Les)",
+          "films": [
+            {
+              "idFilm": 48781,
+              "titre": "Loups entre eux",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "José Giovanni",
+              "annee": 1985,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Sun une route italienne, des terroristes kidnappent un général de l'OTAN, détenteur de secrets militaires. Un commando de mercenaires est envoyé à son secours."
+                }
+              ],
+              "generique": [
+                "Claude Brasseur",
+                "Bernard-Pierre Donnadieu",
+                "Jean-Hugues Anglade"
+              ],
+              "duree": 105,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-08-30T22:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Peur de l'avion ?",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2078,
+          "idEvenement": 20652,
+          "titreEvenement": "Panique en plein ciel",
+          "films": [
+            {
+              "idFilm": 29632,
+              "titre": "Panique en plein ciel",
+              "titreVo": "Mayday at 40,000 Feet!",
+              "realisateurs": "Robert Butler",
+              "annee": 1976,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Embarqué sur un vol Los Angeles-Chicago, un meurtrier échappe à la vigilance de son escorte policière et réussit à s'emparer d'une arme."
+                }
+              ],
+              "generique": [
+                "Ray Milland",
+                "David Janssen",
+                "Don Meredith"
+              ],
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-06T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2078,
+          "idEvenement": 20653,
+          "titreEvenement": "Turbulences à 30 000 pieds",
+          "films": [
+            {
+              "idFilm": 61481,
+              "titre": "Turbulences à 30 000 pieds",
+              "titreVo": "Turbulence",
+              "realisateurs": "Robert Butler",
+              "annee": 1996,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "À bord d'un vol de la Transcontinental Airlines, deux prisonniers, un braqueur et un tueur en série, parviennent à éliminer les agents fédéraux qui les escortent."
+                }
+              ],
+              "generique": [
+                "Ray Liotta",
+                "Lauren Holly",
+                "Hector Elizondo"
+              ],
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-09-06T22:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "header": {
+    "idCycleProg": 192,
+    "titreCycle": "Ciné-club Jean Douchet",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          2142
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 65
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 4,
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Au cours de ce programme, Jean Douchet montre des films qui coïncident avec l'actualité des rétrospectives de la Cinémathèque : deux films d'Alfred Hitchcock, deux films de Jean-Luc Godard, et un film avec Vittorio De Sica dans le rôle principal (_Le Général della Rovere_)."
+        }
+      ],
+      "items": [
+        {
+          "idCategorie": 2142,
+          "idEvenement": 19841,
+          "films": [
+            {
+              "idFilm": 46121,
+              "titre": "39 marches",
+              "art": "Les",
+              "titreVo": "39 Steps",
+              "artVo": "The",
+              "realisateurs": "Alfred Hitchcock",
+              "annee": 1935,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Richard Hannay accepte de cacher chez lui une jeune femme qui prétend être poursuivie. Elle est assassinée pendant la nuit. Pour se disculper, il n'a d'autre choix que de mener lui-même l'enquête."
+                }
+              ],
+              "adaptation": "D'après le roman _Les Trente-neuf marches_ de John Buchan.",
+              "generique": [
+                "Robert Donat",
+                "Madeleine Carroll",
+                "Lucie Mannheim"
+              ],
+              "duree": 81,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": 0,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-12-04T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2019-12-27T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2142,
+          "idEvenement": 20313,
+          "films": [
+            {
+              "idFilm": 43057,
+              "titre": "Général Della Rovere",
+              "art": "Le",
+              "titreVo": "Generale Della Rovere",
+              "artVo": "Il",
+              "realisateurs": "Roberto Rossellini",
+              "annee": 1959,
+              "pays": "Italie-France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Milan, 1943. Un petit escroc, en affaires avec la Gestapo, se fait passer pour un général italien fusillé par les nazis. Il se laisse enfermer dans la section politique de la prison San Vittorio, où sont incarcérés de nombreux résistants."
+                }
+              ],
+              "adaptation": "D'après le récit _Le Général Della Rovere_ d'Indro Montanelli.",
+              "generique": [
+                "Vittorio De Sica",
+                "Hannes Messemer",
+                "Sandra Milo"
+              ],
+              "duree": 137,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ageMinimal": 0,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-02-19T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

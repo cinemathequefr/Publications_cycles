@@ -1,0 +1,259 @@
+# Liste des films par cycle
+
+## Archi Vives (1)
+
+  * Ennio
+
+## Ciné-club de Frédéric Bonnaud (3)
+
+  * Accattone  
+  * Rue de la honte (La)  
+  * Soif du mal (La)
+
+## Cinéma bis (8)
+
+  * Atout cœur à Tokyo pour O.S.S. 117  
+  * Carré de dames pour un as  
+  * Coup de force à Berlin  
+  * F.B.I. contre Lotus Bleu  
+  * S.A.S. à San Salvador  
+  * SAS, l'œil de la veuve  
+  * Sursis (Le)  
+  * Train de nuit pour Munich
+
+## Hugo Fregonese (21)
+
+  * Affaire de Buenos Aires (L')  
+  * Cavaliers rouges (Les)  
+  * De hombre a hombre  
+  * Donde mueren las palabras  
+  * Dracula contre Frankenstein  
+  * Étrange M. Slade (L')  
+  * Harry Black et le tigre  
+  * Impasse maudite (L')  
+  * Marco Polo  
+  * Mardi ça saignera  
+  * Mes six forçats  
+  * Mission spéciale au Deuxième Bureau  
+  * Pages galantes de Boccace  
+  * Pampa sauvage (La)  
+  * Passage interdit  
+  * Quand les tambours s'arrêteront  
+  * Raid (The)  
+  * Sept tonnerres (Les)  
+  * Signe des rénégats (Le)  
+  * Souffle sauvage (Le)  
+  * Vagabond et les lutins (Le)
+
+## L'image des plaisirs (9)
+
+  * Chôfuku-ki  
+  * Day I've Been Fucked in Front of the Entire World (The)  
+  * Fuck the Fascism: El Cruce de dos mundos  
+  * Fulmen  
+  * Hot Heat  
+  * Lose Yourself With Me  
+  * Mars exalté  
+  * Memory Slot – Track 1  
+  * Passing Strangers
+
+## La science-fiction en 25 films indispensables (25)
+
+  * 2001 : L'Odyssée de l'espace  
+  * Abyss  
+  * Ad Astra  
+  * Aelita  
+  * Alien  
+  * Alphaville, une étrange aventure de Lemmy Caution  
+  * Chose (La)  
+  * Gravity  
+  * Invasion des profanateurs de sépultures (L')  
+  * Je t'aime, je t'aime  
+  * Jour où la terre s'arrêta (Le)  
+  * Météore de la nuit (Le)  
+  * Metropolis  
+  * Minority Report  
+  * Mondwest  
+  * Monstre (Le)  
+  * Monstres de l'espace (Les)  
+  * Mystère Andromède (Le)  
+  * Planète interdite  
+  * Rencontres du troisième type  
+  * Silent Running  
+  * Solaris  
+  * Soleil vert  
+  * Starman  
+  * Starship Troopers
+
+## Le cinéma d'espionnage (3e partie) (21)
+
+  * Courrier diplomatique  
+  * Danger immédiat  
+  * Dossier ODESSA (Le)  
+  * Espion noir (L')  
+  * Espion(s)  
+  * Espions s'amusent (Les)  
+  * Fräulein Doktor  
+  * Guet-apens  
+  * Homme qui en savait trop (L')  
+  * Homme qui n'a jamais existé (L')  
+  * Jeu du faucon (Le)  
+  * Maldonne pour un espion  
+  * Mes funérailles à Berlin  
+  * Mission : Impossible  
+  * Patriotes (Les)  
+  * Quand les aigles attaquent  
+  * Quatre de l'espionnage  
+  * Taupe (La)  
+  * Traître (Le)  
+  * True Lies – Le caméléon  
+  * Tueur d'élite
+
+## Mario Monicelli (46)
+
+  * Armata Brancaleone (L')  
+  * Boccace 70  
+  * Brancaleone aux croisades  
+  * Camarades (Les)  
+  * Caprice à l'italienne  
+  * Cari fottutissimi amici  
+  * Caro Michele  
+  * Casanova '70  
+  * Chambre d'hôtel  
+  * Dans les coulisses  
+  * Donatella  
+  * Double vie de Matthias Pascal (La)  
+  * Drôles de couples  
+  * Du sang dans le soleil  
+  * Facciamo paradiso  
+  * Fille au pistolet (La)  
+  * Gendarmes et voleurs  
+  * Grande guerre (La)  
+  * Haute infidélité : Les gens modernes  
+  * Infidèles (Les)  
+  * Larmes de joie  
+  * Male oscuro (Il)  
+  * Marquis s'amuse (Le)  
+  * Medico e lo stregone (Il)  
+  * Mes chers amis  
+  * Mes chers amis II  
+  * Mortadella  
+  * Nous voulons les colonels  
+  * Nouveaux monstres (Les)  
+  * Ogresses : L'ogresse Armenia (Les)  
+  * Panni sporchi  
+  * Pères et fils  
+  * Picari (I)  
+  * Pigeon (Le)  
+  * Pourvu que ce soit une fille  
+  * Rose del deserto (Le)  
+  * Rossini ! Rossini !  
+  * Rosy la bourrasque  
+  * Toto cherche un appartement  
+  * Toto e Carolina  
+  * Toto e i re di Roma  
+  * Toto e le donne  
+  * Un bourgeois tout petit petit  
+  * Un héros de notre temps  
+  * Une famille formidable  
+  * Voyage avec Anita
+
+## Parlons cinéma avec Benoît Peeters (4)
+
+  * Au loin s'en vont les nuages  
+  * Homme de Rio (L')  
+  * Sans soleil  
+  * Trois couronnes du matelot (Les)
+
+## Peter Bogdanovich (19)
+
+  * Barbe à papa (La)  
+  * Broadway Therapy  
+  * Bruits de coulisses  
+  * Cible (La)  
+  * Daisy Miller  
+  * Dernière Séance (La)  
+  * Enfin l'amour  
+  * Et tout le monde riait  
+  * Great Buster (The)  
+  * Illégalement vôtre  
+  * Jack le magnifique  
+  * Mask  
+  * Nashville Blues  
+  * Nickelodeon  
+  * On s'fait la valise, docteur ?  
+  * Réalisé par John Ford  
+  * Texasville  
+  * Un parfum de meurtre  
+  * Voyage to the Planet of Prehistoric Women
+
+## Richard Lester (23)
+
+  * Au secours !  
+  * Cash-cash  
+  * Comment j'ai gagné la guerre  
+  * Cuba  
+  * Forum en folie (Le)  
+  * Get Back  
+  * It's Trad, Dad !  
+  * Joyeux débuts de Butch Cassidy et le Kid (Les)  
+  * Knack et comment l'avoir (Le)  
+  * On l'appelait Milady  
+  * Petulia  
+  * Quatre garçons dans le vent  
+  * Retour des mousquetaires (Le)  
+  * Ritz (The)  
+  * Rose et la flèche (La)  
+  * Royal Flash  
+  * Running, Jumping and Standing Still Film (The)  
+  * Souris sur la lune (La)  
+  * Superman II, l'aventure continue  
+  * Superman III  
+  * Terreur sur le Britannic  
+  * Trois mousquetaires (Les)  
+  * Ultime garconnière (L')
+
+## Warner Bros., fabrique de stars (37)
+
+  * A chaque aube je meurs  
+  * Agent britannique  
+  * Anges aux figures sales (Les)  
+  * Aventures de Don Juan (Les)  
+  * Bar magnifique (Le)  
+  * Blondie Johnson  
+  * Bourreau (Le)  
+  * Casablanca  
+  * Charge de la brigade légère (La)  
+  * Chercheuses d'or  
+  * En scène  
+  * Ennemi public (L')  
+  * Faucon maltais (Le)  
+  * Femme aimée est toujours jolie  
+  * Femmes marquées  
+  * Feu sur le gang  
+  * Glorieuse parade (La)  
+  * Grand sommeil (Le)  
+  * Griffes jaunes  
+  * Guerre ou crime  
+  * Impossible amour (L')  
+  * Intruse (L')  
+  * Légion noire (La)  
+  * Lettre (La)  
+  * Miss Pinkerton  
+  * Mort n'était pas au rendez-vous (La)  
+  * Patrouille de l'aube (La)  
+  * Petit César (Le)  
+  * Petit Géant (Le)  
+  * Prologue  
+  * Qu'est-il arrivé à Baby Jane ?  
+  * San Antonio  
+  * Témoin à abattre (Le)  
+  * Tombeur (Le)  
+  * Trésor de la Sierra Madre (Le)  
+  * Une femme cherche son destin  
+  * Voyage sans retour
+
+## Yann Dedet (2)
+
+  * Passe montagne  
+  * Sweet Movie  

@@ -1,0 +1,7 @@
+# American Fringe, saison 5
+
+Il est devenu de plus en plus difficile de définir le « cinéma indépendant » aux États-Unis. Avec plus de mille films réalisés chaque année et la diminution du nombre de films produits par les studios, n'importe qui peut prétendre être un « indépendant ». En raison de cette expansion, le terme a perdu de son sens. Lorsque le concept de « cinéma indépendant » a commencé à émerger dans les années 1930 – appliqué à des mouvements aussi variés que les travaux du Film and Photo Leagues et du premier cinéma d'avant-garde –, il désignait un travail essentiellement différent de celui produit par le cinéma commercial d'Hollywood : différentes formes de production, différentes stratégies de distribution et d'exposition, mais surtout différentes formes esthétiques et politiques.
+
+Même avec la pandémie actuelle, la production ne semble guère diminuer, même si les plateformes de distribution et d'exposition ont été en grande partie fermées. La mise en quarantaine forcée a peut-être amené les cinéastes à tourner leurs appareils photo vers l'intérieur, à regarder leurs expériences personnelles ou les microcosmes de la vie américaine tout en offrant, de manière quelque peu contradictoire, un aperçu convaincant de la situation des États-Unis. C'est pour célébrer et promouvoir ce type de travail qu'American Fringe a été créé ; nous sommes honorés et ravis d'avoir été invités à revenir à la Cinémathèque pour présenter une cinquième édition.
+
+Richard Peña et Livia Bloom Ingram, co-organisateurs d'American Fringe 5

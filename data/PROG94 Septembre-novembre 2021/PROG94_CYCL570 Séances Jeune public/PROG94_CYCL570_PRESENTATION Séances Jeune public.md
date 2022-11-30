@@ -1,0 +1,3 @@
+# Étoffes de héros
+
+Qui sont ces personnages de cinéma cachés derrière leurs costumes ? Un super-héros qui joue les timides étudiants ? Un cavalier masqué, bon fils de famille le jour, justicier la nuit ? Certains personnages cachent leur identité, les raisons peuvent en être multiples : une fille préfèrerait être un garçon pour pouvoir jouer au foot, des fugitifs déguisés en danseuses pensent ainsi passer inaperçus... Le costume identifie les rôles mais il sert aussi à s'inventer des doubles vies. Dans leurs étoffes ils sont superpuissants, ils défient le monde, surprennent leur entourage, et donnent libre cours à leur véritable personnalité.

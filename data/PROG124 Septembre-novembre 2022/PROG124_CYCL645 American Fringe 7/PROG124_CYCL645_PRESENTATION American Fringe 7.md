@@ -1,0 +1,9 @@
+# American Fringe 7
+
+Il est devenu de plus en plus difficile de définir le « cinéma indépendant américain ». Avec plus de 1 000 films tournés chaque année aux États-Unis, mais une diminution constante des productions de studios, tout le monde ou presque peut se dire indépendant. Cette inflation a en partie vidé l'expression de son sens. Lorsque le concept de cinéma indépendant est apparu dans les années 1930, pour qualifier tant le cinéma socialement engagé des Workers Film and Photo Leagues que les premières expériences de l'avant-garde, il s'agissait de désigner des entreprises fondamentalement différentes du cinéma commercial de Hollywood : différence de mode de production, de stratégie de distribution et, surtout, différence esthétique et politique.
+
+Mais l'esprit du cinéma indépendant vit encore aujourd'hui, le plus souvent à travers des œuvres qui passent sous le radar des grands médias et des festivals. Même pendant la pandémie, des films ont continué d'être tournés malgré la fermeture des salles, la désertion des multiplexes et le repli des spectateurs vers le cinéma à la maison. Bien souvent, le confinement et l'isolement ont incité les cinéastes à tourner leur caméra vers eux-mêmes et à chercher dans leur expérience personnelle, et dans le microcosme de la vie américaine, les clés de l'époque que nous traversons.
+
+C'est pour faire connaître et célébrer ce cinéma qu'American Fringe a été créé. Nous sommes honorés et ravis d'être à nouveau invités à la Cinémathèque pour présenter cette septième édition. Les films sélectionnés offrent un large éventail de sujets et de styles, mais tous se retrouvent dans un engagement commun, celui de porter à l'écran des visions profondément personnelles de l'Amérique d'aujourd'hui.
+
+Richard Peña et Livia Bloom Ingram, co-organisateurs

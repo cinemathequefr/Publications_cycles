@@ -1,0 +1,864 @@
+{
+  "header": {
+    "idCycleProg": 234,
+    "titreCycle": "Bruno Dumont",
+    "titreCourtCycle": "Dumont",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1027
+        ],
+        "tri": 2
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [
+          2488
+        ],
+        "tri": 4,
+        "type": "conf"
+      }
+    ],
+    "idProg": 94
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 2,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24118,
+          "films": [
+            {
+              "idFilm": 119094,
+              "titre": "Camille Claudel 1915",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2012,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Hiver 1915. Internée par sa famille dans un asile du Sud de la France, Camille Claudel vit dans l'attente d'une visite de son frère, Paul Claudel, qui pourrait intervenir en faveur de sa sortie."
+                }
+              ],
+              "generique": [
+                "Juliette Binoche",
+                "Jean-Luc Vincent",
+                "Robert Leroy"
+              ],
+              "duree": 97,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-04T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-12T18:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24300,
+          "films": [
+            {
+              "idFilm": 149915,
+              "titre": "Coincoin et les z'inhumains, épisode 1 : Noir ch'est noir",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le P'tit Quinquin, devenu Coincoin, a grandi. Avec son copain L'Gros, il fait toujours les quatre cents coups dans la région, où des migrants errent sur les routes. Il découvre un jour dans un pré la présence d'un curieux magma. Le commandant Van der Weyden, secondé par son fidèle Carpentier, mène l'enquête."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Mini-série française en quatre épisodes diffusée sur Arte, suite de la série _P'tit Quinquin_."
+                }
+              ],
+              "generique": [
+                "Alane Delhaye",
+                "Bernard Pruvost",
+                "Philippe Jore",
+                "Lucy Caron"
+              ],
+              "duree": 50,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 149916,
+              "titre": "Coincoin et les z'inhumains, épisode 2 : Les Z'inhumains",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Confrontés à l'irrationnel, les policiers Van der Weyden et Carpentier tentent de comprendre s'ils sont en présence de signes extraterrestres. Pendant ce temps, les habitants de la région se dédoublent en des clones aussi impassibles qu'inquiétants."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Mini-série française en quatre épisodes diffusée sur Arte, suite de la série _P'tit Quinquin_."
+                }
+              ],
+              "generique": [
+                "Alane Delhaye",
+                "Bernard Pruvost",
+                "Philippe Jore",
+                "Lucy Caron"
+              ],
+              "duree": 50,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-08T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-15T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24301,
+          "films": [
+            {
+              "idFilm": 149917,
+              "titre": "Coincoin et les z'inhumains, épisode 3 : D'la glu, d'la glu, d'la glu !",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "À mesure que les dédoublements d'habitants se multiplient, la confusion grandit sur la côte d'Opale. Les autorités politiques, militaires et religieuses s'accordent sur une chose&nbsp;: la fin du monde est proche."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Mini-série française en quatre épisodes diffusée sur Arte, suite de la série _P'tit Quinquin_."
+                }
+              ],
+              "generique": [
+                "Alane Delhaye",
+                "Bernard Pruvost",
+                "Philippe Jore",
+                "Lucy Caron"
+              ],
+              "duree": 50,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 149918,
+              "titre": "Coincoin et les z'inhumains, épisode 4 : L'Apocalypse",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Coincoin et sa bande, entre peur et exaltation, se trouvent pris dans la ronde d'un carnaval général."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Mini-série française en quatre épisodes diffusée sur Arte, suite de la série _P'tit Quinquin_."
+                }
+              ],
+              "generique": [
+                "Alane Delhaye",
+                "Bernard Pruvost",
+                "Philippe Jore",
+                "Lucy Caron"
+              ],
+              "duree": 50,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-08T21:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-15T21:45:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24110,
+          "films": [
+            {
+              "idFilm": 99724,
+              "titre": "Flandres",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2005,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "De nos jours, dans les Flandres, les hommes du pays, dont Demester, sont appelés au combat dans un conflit lointain. La jeune Barbe, dont il est amoureux, dépérit lentement en attendant leur retour, pendant que Demester se transforme en guerrier."
+                }
+              ],
+              "generique": [
+                "Adélaïde Leroux",
+                "Samuel Boidin",
+                "Henri Cretel"
+              ],
+              "duree": 90,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-02T21:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-05T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24429,
+          "films": [
+            {
+              "idFilm": 150118,
+              "titre": "France",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2021,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "À travers l'histoire de France de Meurs, journaliste vedette à la télévision, le portrait d'un pays et de tout un système, celui des médias."
+                }
+              ],
+              "generique": [
+                "Léa Seydoux",
+                "Blanche Gardin",
+                "Benjamin Biolay"
+              ],
+              "duree": 134,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-01T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24113,
+          "films": [
+            {
+              "idFilm": 109862,
+              "titre": "Hadewijch",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2007,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Choquée par la foi extatique d'Hadewijch, une novice, la mère supérieure la met à la porte du couvent. Hadewijch redevient Céline, jeune parisienne et fille de diplomate. Sa passion amoureuse pour Dieu, sa rage et sa rencontre avec Yassine et Nassir l'entraînent, entre grâce et folie, sur des chemins dangereux."
+                }
+              ],
+              "generique": [
+                "Julie Sokolowski",
+                "Karl Sarafidis",
+                "Yassine Salime"
+              ],
+              "duree": 105,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-04T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-12T16:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24116,
+          "films": [
+            {
+              "idFilm": 113666,
+              "titre": "Hors Satan",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2010,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Sur la côte d'Opale, entre les dunes et les marais, vit un homme étrange qui braconne, prie et fait des feux : un vagabond venu de nulle part qui chasse le mal d'un village hanté par le démon et met le monde « hors Satan »."
+                }
+              ],
+              "generique": [
+                "David Dewaele",
+                "Alexandra Lematre",
+                "Valérie Mestdagh"
+              ],
+              "duree": 110,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-04T16:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-09T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24114,
+          "films": [
+            {
+              "idFilm": 64308,
+              "titre": "Humanité",
+              "art": "L'",
+              "realisateurs": "Bruno Dumont",
+              "annee": 1998,
+              "pays": "France-Belgique",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Dans un village du Nord de la France, Pharaon, un lieutenant de police légèrement déficient, vit seul avec sa mère. Il est attiré par sa voisine Domino, qui l'invite souvent à passer la soirée avec elle et son fiancé. Un jour, Pharaon est amené à enquêter sur le meurtre et le viol d'une fillette de onze ans."
+                }
+              ],
+              "generique": [
+                "Emmanuel Schotté",
+                "Séverine Caneele",
+                "Philippe Tullier"
+              ],
+              "duree": 148,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-11T21:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-13T18:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24119,
+          "films": [
+            {
+              "idFilm": 142076,
+              "titre": "Jeanne",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "De 1429 à 1431, les dernières batailles autour de Paris, la capture, puis le procès, de Jeanne d'Arc."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Suite de _Jeannette, l'enfance de Jeanne d'Arc_."
+                }
+              ],
+              "adaptation": "D'après la pièce _Jeanne d'Arc_ de Charles Péguy.",
+              "generique": [
+                "Lise Leplat Prudhomme",
+                "Christophe",
+                "Fabrice Luchini"
+              ],
+              "duree": 137,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-06T21:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-16T21:15:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24117,
+          "films": [
+            {
+              "idFilm": 136757,
+              "titre": "Jeannette, l'enfance de Jeanne d'Arc",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2016,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Domrémy, 1425. Jeannette n'est pas encore Jeanne d'Arc mais, à 8 ans, elle veut déjà « bouter les Anglais hors du royaume de France »."
+                }
+              ],
+              "adaptation": "D'après la pièce _Jeanne d'Arc_ de Charles Péguy.",
+              "generique": [
+                "Lise Leplat Prudhomme",
+                "Jeanne Voisin",
+                "Lucile Gauthier"
+              ],
+              "duree": 105,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-06T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-16T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24115,
+          "films": [
+            {
+              "idFilm": 131402,
+              "titre": "Ma Loute",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2015,
+              "pays": "France-Allemagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Été 1910, baie de la Slack. Les policiers Machin et Malfoy enquêtent sur de mystérieuses disparitions. Ils se retrouvent au cœur de l'histoire d'amour naissante entre « Ma loute », fils aîné d'une famille de pêcheurs, et Billie, fille de riches bourgeois lillois décadents."
+                }
+              ],
+              "generique": [
+                "Fabrice Luchini",
+                "Juliette Binoche",
+                "Valéria Bruni Tedeschi",
+                "Brandon Lavieville"
+              ],
+              "duree": 122,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-04T21:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-12T20:45:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24295,
+          "films": [
+            {
+              "idFilm": 149911,
+              "titre": "P'tit Quinquin, épisode 1 : L'bêt'humaine",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2013,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Dans un petit bourg tranquille du Boulonnais, un corps de femme sans tête est retrouvé découpé en morceaux dans une vache. Le commandant Van der Weyden et son adjoint Carpentier mènent l'enquête, tandis que P'tit Quinquin et son amoureuse Eve mettent le bazar dans le village."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Mini-série en quatre épisodes diffusée sur Arte."
+                }
+              ],
+              "generique": [
+                "Alane Delhaye",
+                "Lucy Caron",
+                "Bernard Pruvost",
+                "Philippe Jore"
+              ],
+              "duree": 50,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 149912,
+              "titre": "P'tit Quinquin, épisode 2 : Au cœur du mal",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2013,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un deuxième corps est retrouvé, et l'enquête continue. En lutte contre d'autres gamins qui ne sont pas du village, P'tit Quinquin et sa bande suivent l'affaire."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Mini-série en quatre épisodes diffusée sur Arte."
+                }
+              ],
+              "generique": [
+                "Alane Delhaye",
+                "Lucy Caron",
+                "Bernard Pruvost",
+                "Philippe Jore"
+              ],
+              "duree": 50,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-05T17:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-10T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24296,
+          "films": [
+            {
+              "idFilm": 149913,
+              "titre": "P'tit Quinquin, épisode 3 : L'diable in perchonne",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2013,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le mari de la première morte est retrouvé noyé. Le meurtrier rôde, les journalistes s'en mêlent, tandis que P'tit Quinquin éclaircit une part du mystère."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Mini-série en quatre épisodes diffusée sur Arte."
+                }
+              ],
+              "generique": [
+                "Alane Delhaye",
+                "Lucy Caron",
+                "Bernard Pruvost",
+                "Philippe Jore"
+              ],
+              "duree": 50,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 149914,
+              "titre": "P'tit Quinquin, épisode 4 : ... Allah Akbar !",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2013,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le jeune Mohamed, humilié par la sœur d'Eve, devient cinglé. P'tit Quinquin et sa bande n'en mènent pas large. Quant à Van der Weyden et Carpentier, ils doivent faire face à de nouveaux meurtres abominables."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Mini-série en quatre épisodes diffusée sur Arte."
+                }
+              ],
+              "generique": [
+                "Alane Delhaye",
+                "Lucy Caron",
+                "Bernard Pruvost",
+                "Philippe Jore"
+              ],
+              "duree": 50,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-05T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-10T21:45:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24112,
+          "films": [
+            {
+              "idFilm": 86864,
+              "titre": "Twentynine Palms",
+              "realisateurs": "Bruno Dumont",
+              "annee": 2002,
+              "pays": "France-Allemagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un photographe indépendant et une jeune femme arrivent à Los Angeles à la recherche d'un décor pour des prises de vue. Face à face avec eux-mêmes, ils ne cessent de se déchirer et se réconcilier."
+                }
+              ],
+              "generique": [
+                "Katerina Golubeva",
+                "David Wissak"
+              ],
+              "duree": 119,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-11T18:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-13T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 1027,
+          "idEvenement": 24111,
+          "films": [
+            {
+              "idFilm": 61393,
+              "titre": "Vie de Jésus",
+              "art": "La",
+              "realisateurs": "Bruno Dumont",
+              "annee": 1996,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Freddy, jeune chômeur épileptique, vit avec sa mère dans une petite ville du Nord. Il tue le temps entre télévision, virées en mobylette, la fanfare où il joue, et sa petite amie Marie. Mais la jeune fille plaît à Kadder, qui devient la bête noire de Freddy."
+                }
+              ],
+              "generique": [
+                "David Douche",
+                "Marjorie Cottreel",
+                "Geneviève Cottreel"
+              ],
+              "duree": 96,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-02T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-09-11T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2488,
+          "idEvenement": 24287,
+          "films": [
+            {
+              "titre": "Bruno Dumont par Bruno Dumont",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "« Je prends des \"vraies\" gens, et l'acteur de composition ne me satisfait pas car j'ai besoin de réalité, de vrais décors, de vraies gens, de vrais sons pour fabriquer de la fiction. Je n'envisage pas de faire de la fiction avec de l'artifice. » « Je crois aussi qu'il y a quelque chose d'inaccessible. Moi, je suis en train de faire un film et de trouver des moyens d'expression et le spectateur est de l'autre côté. Je n'attends pas de lui une entente et je me réjouis plus du contentement qu'il peut avoir à y trouver du sens, peut-être à des années-lumière mais qu'importe, ce n'est pas un cinéma univoque et absolu. Il n'y a pas de message, de communication. Cela doit être poétique, sensuel, pour supporter la liberté du regard. » « Je ne suis pas un cinéaste du collectif mais un cinéaste de l'individu. Le collectif, je ne sais pas ce que c'est, sinon que c'est un plein d'individus. Le sujet de _L'Humanité_ c'est Pharaon, celui de _La Vie de Jésus_ c'est Freddy. C'est le point de départ et toute la mise en scène tourne autour d'eux. » « Même si je tourne en extérieur, je ne filme que l'intérieur, le film lui-même c'est l'intérieur, du début à la fin. C'est pour ça que quand je filme un paysage, c'est l'intériorité. » (Bruno Dumont, entretien avec Philippe Tancelin, dans _Bruno Dumont_, éditions Dis Voir, 2001)"
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Frédéric Bonnaud est directeur général de la Cinémathèque française."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Émilie Cauquy est responsable de la diffusion des collections films à la Cinémathèque française. Cheffe de projet de la plateforme HENRI, elle invente aussi des séances augmentées en forme de ciné-spectacles (Dulac, Musidora, Méliès) et participe à des éditions DVD (coréalisation du coffret Jean Epstein pour les éditions Potemkine, avec la participation de Bruno Dumont)."
+                }
+              ],
+              "duree": 60,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-11T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

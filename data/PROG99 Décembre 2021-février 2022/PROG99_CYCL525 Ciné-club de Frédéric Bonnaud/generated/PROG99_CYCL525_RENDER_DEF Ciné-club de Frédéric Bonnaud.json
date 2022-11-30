@@ -1,0 +1,147 @@
+{
+  "header": {
+    "idCycleProg": 525,
+    "titreCycle": "Ciné-club de Frédéric Bonnaud",
+    "titreCourtCycle": "Ciné-club",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          2547
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 99
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2547,
+          "idEvenement": 24880,
+          "films": [
+            {
+              "idFilm": 33575,
+              "titre": "Silence",
+              "art": "Le",
+              "titreVo": "Tystnaden",
+              "realisateurs": "Ingmar Bergman",
+              "annee": 1962,
+              "pays": "Suède",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux sœurs, Ester et Anna, accompagnées par Johan, le fils d'Anna, voyagent à travers un pays étranger en proie à la guerre civile. Tous trois font halte dans un hôtel où Ester, malade, peut se reposer, tandis qu'Anna préfère sortir, en quête de rencontres."
+                }
+              ],
+              "generique": [
+                "Ingrid Thulin",
+                "Gunnel Lindblom",
+                "Jörgen Lindström"
+              ],
+              "duree": 95,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-12-06T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2547,
+          "idEvenement": 24559,
+          "films": [
+            {
+              "idFilm": 50954,
+              "titre": "Paris nous appartient",
+              "realisateurs": "Jacques Rivette",
+              "annee": 1958,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Paris, été 1957. Anne entre dans une troupe de théâtre dont l'un des membres vient de se suicider. Une amie lui fait part d'un redoutable secret à l'origine de la mort du jeune homme."
+                }
+              ],
+              "generique": [
+                "Betty Schneider",
+                "Giani Esposito",
+                "Daniel Crohem"
+              ],
+              "duree": 140,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2022-01-19T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2022-01-27T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2547,
+          "idEvenement": 24878,
+          "films": [
+            {
+              "idFilm": 41107,
+              "titre": "Avventura",
+              "art": "L'",
+              "realisateurs": "Michelangelo Antonioni",
+              "annee": 1959,
+              "pays": "Italie-France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Anna, son fiancé Sandro et son amie Claudia partent en croisière aux îles Éoliennes. À la suite d'une dispute, Anna disparaît. Sandro et Claudia partent à sa recherche."
+                }
+              ],
+              "generique": [
+                "Monica Vitti",
+                "Gabriele Ferzetti",
+                "Lea Massari"
+              ],
+              "duree": 140,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2022-02-23T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

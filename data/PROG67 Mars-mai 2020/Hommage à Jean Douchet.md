@@ -1,0 +1,15 @@
+# Hommage à Jean Douchet (1929-2019)
+
+Bernard Benoliel, Frédéric Bonnaud
+
+**Impressionnant commentateur des films qu'il aimait, analyste infatigable de l'art de la mise en scène des « anciens » et des « modernes », il a passé sa vie, littéralement, _à pied d'œuvre_. Jean Douchet ou la puissance de la parole.**
+
+Impossible de rendre compte d'une influence qui a duré plus de 60 ans. Impossible de témoigner de l'étendue de la perte. S'il fallait le « résumer », disons que Jean Douchet a marqué les esprits à l'écrit et à l'oral.
+
+À l'écrit, deux livres essentiellement, en plus du recueil de ses critiques : _Hitchcock_, en 1967, un essai aux confins de la politique des auteurs, un traité d'alchimie qui précipite Bachelard et Freud dans le chaudron des œuvres hollywoodiennes du Maître du suspense. Un livre inspiré, écrit sans l'aide d'aucun DVD... mais des films vus et revus à la Cinémathèque d'alors. Et puis, en 1998, un livre-album dédié à Éric Rohmer et consacré à la Nouvelle Vague : la meilleure façon pour Jean de revenir sur qui et quoi avaient définitivement formé son regard, de se souvenir aussi à quoi il avait pris part, de 1957, date de son entrée aux _Cahiers du cinéma_ « période Rohmer », à 1964 quand il réalise _Saint-Germain-des-Prés_, l'un des épisodes de _Paris vu par..._, manifeste et testament du mouvement.
+
+Et puis l'oral, bien sûr. Douchet, comme l'autre Jean (Rouch), savait enseigner de vive voix, il était tout entier animé par un « éros pédagogique » qui captivait ses auditoires, de l'IDHEC à la Fémis, en passant par l'amphi de Paris-VII Jussieu, les quatre coins de la France, la Cinémathèque de Chaillot ou, jusqu'à son dernier souffle, celle de Bercy. Pédagogue, c'est-à-dire metteur en scène de son propre savoir, il n'aimait rien tant que s'aventurer du côté du western (Nicholas Ray) ou de la comédie musicale (George Cukor) pour parler finalement de tout autre chose que chevaux ou claquettes. Plus il aimait, meilleur il était. Il avait ses cinéastes de prédilection : Renoir avant tout[^1], Hitchcock, Lang, Murnau, Mizoguchi, et Dreyer qu'il plaçait de plus en plus haut (son dernier Ciné-club à la Cinémathèque, en sa présence, fut _Dies irae_). Mais aussi Hou Hsiao-hsien, Lars von Trier, et Jean-Luc Godard... En un processus ouvertement socratique, chaque film apparaissait peu à peu dans le pur rayonnement de son Idée : ce qu'il y avait eu à l'écran, et seulement cela.
+
+C'est là que Jean impressionnait le plus : il pouvait avoir vu le film dix fois déjà, chaque fois le temps de la projection le rechargeait et le relançait. C'était chaque fois _pendant_ le film que Jean « travaillait » pour, ensuite, faire entendre ce qu'il avait vu. C'était pour cela qu'il ne voulait jamais rien dire _avant_ un film : il attendait tout de la projection, il savait ou espérait qu'il ne serait pas le même _après_.
+
+[^1]: Il faut absolument lire son texte-entretien sur le cinéaste : « Le monde est Un », dans le catalogue _Renoir/Renoir_ (La Martinière / La Cinémathèque française, 2005).

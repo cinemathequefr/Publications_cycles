@@ -1,0 +1,873 @@
+{
+  "header": {
+    "idCycleProg": 570,
+    "type": "jp",
+    "titreCycle": "Séances Jeune public",
+    "titreCourtCycle": "Jeune public",
+    "sousCycles": [
+      {
+        "titre": "Séances événements",
+        "cats": [
+          2502
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Les films",
+        "cats": [
+          2473,
+          2501
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 94
+  },
+  "data": [
+    {
+      "titreSousCycle": "Séances événements",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2502,
+          "idEvenement": 24605,
+          "films": [
+            {
+              "idFilm": 150796,
+              "titre": "Poupelle",
+              "titreVo": "Poupelle of Chimney Town",
+              "realisateurs": "Yusuke Hirota",
+              "annee": 2020,
+              "pays": "Japon",
+              "textes": [],
+              "duree": 100,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-09-26T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2502,
+          "idEvenement": 22816,
+          "films": [
+            {
+              "idFilm": 128540,
+              "titre": "Saint-Festin",
+              "art": "La",
+              "realisateurs": "Anne-Laure Daffis, Léo Marchand",
+              "annee": 2008,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Chaque 40 novembre, on célèbre la Saint-Festin, la grande fête des ogres."
+                }
+              ],
+              "duree": 15,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": 8,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-10-27T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2502,
+          "idEvenement": 24496,
+          "films": [
+            {
+              "idFilm": 150388,
+              "titre": "Voisins de mes voisins sont mes voisins",
+              "art": "Les",
+              "realisateurs": "Anne-Laure Daffis, Léopold Marchand",
+              "annee": 2020,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Un ogre affamé, un magicien maladroit, un randonneur suréquipé, un vieux monsieur romantique, une maman pressée : tous se croisent dans un immeuble où leurs destins s'entremêlent."
+                }
+              ],
+              "duree": 93,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": 8,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-11-07T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Les films",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24434,
+          "films": [
+            {
+              "idFilm": 63765,
+              "titre": "Masque de Zorro",
+              "art": "Le",
+              "titreVo": "Mask of Zorro",
+              "artVo": "The",
+              "realisateurs": "Martin Campbell",
+              "annee": 1997,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "On croyait avoir jeté Zorro aux oubliettes, mais voilà que réapparaît la noire silhouette du justicier masqué, avec sa cape et son épée. Qui se cache cette fois sous le fameux costume ?"
+                }
+              ],
+              "generique": [
+                "Antonio Banderas",
+                "Anthony Hopkins",
+                "Catherine Zeta-Jones"
+              ],
+              "duree": 136,
+              "format": "35 mm",
+              "version": "VF",
+              "ageMinimal": 8,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-10-03T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2501,
+          "idEvenement": 23454,
+          "films": [
+            {
+              "idFilm": 84596,
+              "titre": "Panorama pris d'un train en marche",
+              "realisateurs": "Georges Méliès",
+              "annee": 1898,
+              "pays": "France",
+              "textes": [],
+              "duree": 1,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 101917,
+              "titre": "Danse du feu",
+              "art": "La",
+              "realisateurs": "Georges Méliès",
+              "annee": 1899,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Dans une cheminée, un diable joue et danse avec le feu, jusqu'à faire apparaître une flamme vivante."
+                }
+              ],
+              "generique": [
+                "Georges Méliès",
+                "Jehanne d'Alcy"
+              ],
+              "duree": 2,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 45662,
+              "titre": "Mélomane",
+              "art": "Le",
+              "realisateurs": "Georges Méliès",
+              "annee": 1903,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Un chef d'orchestre dirige six choristes et deux musiciens devant une portée musicale constituée de cinq fils suspendus au-dessus d'eux."
+                }
+              ],
+              "generique": [
+                "Georges Méliès"
+              ],
+              "duree": 3,
+              "format": "DCP",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 65733,
+              "titre": "Chrysalide et le papillon d'or",
+              "art": "La",
+              "realisateurs": "Georges Méliès",
+              "annee": 1901,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Un magicien, en jouant de la flûte, fait surgir de son cocon une grosse chenille, qu'il transforme ensuite en femme-papillon. Tombé amoureux d'elle, il tente de la capturer."
+                }
+              ],
+              "generique": [
+                "Georges Méliès"
+              ],
+              "duree": 2,
+              "format": "DCP",
+              "version": "",
+              "ordre": 4
+            },
+            {
+              "idFilm": 84853,
+              "titre": "Portrait mystérieux",
+              "art": "Le",
+              "realisateurs": "Georges Méliès",
+              "annee": 1899,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Georges Méliès converse avec son double, qu'il a fait apparaître dans un portrait."
+                }
+              ],
+              "generique": [
+                "Georges Méliès"
+              ],
+              "duree": 1,
+              "format": "DCP",
+              "version": "",
+              "ordre": 5
+            },
+            {
+              "idFilm": 52462,
+              "titre": "Fée Carabosse ou Le Poignard fatal",
+              "art": "La",
+              "realisateurs": "Georges Méliès",
+              "annee": 1906,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "La fée Carabosse prédit à un troubadour qu'il va délivrer une princesse. Elle lui vend un talisman magique pour l'aider, mais le jeune homme se trompe et paie avec un sac rempli de sable. Elle jure alors de se venger."
+                }
+              ],
+              "generique": [
+                "Georges Méliès"
+              ],
+              "duree": 12,
+              "format": "DCP",
+              "version": "",
+              "ordre": 6
+            },
+            {
+              "idFilm": 52496,
+              "titre": "Raid Paris-Monte-Carlo en automobile",
+              "art": "Le",
+              "realisateurs": "Georges Méliès",
+              "annee": 1905,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Le Roi de Belgique Léopold II, célèbre pour ses accidents d'automobile, entreprend le raid Paris-Monte-Carlo en deux heures avec sa voiture."
+                }
+              ],
+              "duree": 10,
+              "format": "DCP",
+              "version": "",
+              "ordre": 7
+            },
+            {
+              "idFilm": 52471,
+              "titre": "Homme à la tête en caoutchouc",
+              "art": "L'",
+              "realisateurs": "Georges Méliès",
+              "annee": 1901,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Dans un laboratoire, un homme en blouse blanche joue avec une tête coupée qui ressemble à la sienne comme deux gouttes d'eau. Il la fait gonfler, puis dégonfler, et elle finit par exploser."
+                }
+              ],
+              "generique": [
+                "Georges Méliès"
+              ],
+              "duree": 0,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": 6,
+              "ordre": 8
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-10-06T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2021-10-10T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24393,
+          "films": [
+            {
+              "idFilm": 94169,
+              "titre": "Indestructibles",
+              "art": "Les",
+              "titreVo": "Incredibles",
+              "artVo": "The",
+              "realisateurs": "Brad Bird",
+              "annee": 2003,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Robert « Bob » Parr a bien du mal à endosser tous les matins son costume-cravate pour aller travailler dans une compagnie d'assurances. Il préférerait enfiler son habit de M. Indestructible pour aller se battre contre les méchants !"
+                }
+              ],
+              "duree": 115,
+              "format": "DCP",
+              "version": "VF",
+              "ageMinimal": 6,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-10-13T15:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24394,
+          "films": [
+            {
+              "idFilm": 47650,
+              "titre": "Tulipe noire",
+              "art": "La",
+              "realisateurs": "Christian-Jaque",
+              "annee": 1963,
+              "pays": "France-Italie-Espagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Qui est ce mystérieux justicier qui signe ses forfaits d'une tulipe noire ? Le chef de la police parvient à lui infliger une blessure au visage qui devrait lui permettre de le démasquer. Mais la Tulipe noire a plus d'un tour dans son sac."
+                }
+              ],
+              "generique": [
+                "Alain Delon",
+                "Virna Lisi",
+                "Adolfo Marsillach"
+              ],
+              "duree": 115,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": 6,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-10-17T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24438,
+          "films": [
+            {
+              "idFilm": 79289,
+              "titre": "Spider-Man",
+              "realisateurs": "Sam Raimi",
+              "annee": 2001,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Peter Parker, mordu par une araignée, voit son corps se modifier. Il se lance alors dans la couture pour s'inventer un costume qui accompagnera ces changements. Mais comment l'homme-araignée va-t-il pouvoir s'habiller ?"
+                }
+              ],
+              "adaptation": "D'après la série de bandes dessinées _Spider-Man_ de Stan Lee et Steve Ditko.",
+              "generique": [
+                "Tobey Maguire",
+                "Willem Dafoe",
+                "Kirsten Dunst"
+              ],
+              "duree": 121,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": 10,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-10-20T15:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24395,
+          "films": [
+            {
+              "idFilm": 49246,
+              "titre": "Bossu",
+              "art": "Le",
+              "realisateurs": "André Hunebelle",
+              "annee": 1959,
+              "pays": "France-Italie",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Personne ne semble prêter attention à ce bossu qui fréquente la cour et qui a ses entrées auprès des nobles du pays. Mais un jour, il se redresse, troque sa veste de velours noir contre un habit de lumière et redevient Lagardère !"
+                }
+              ],
+              "adaptation": "D'après le roman _Le Bossu ou Le Petit Parisien_ de Paul Féval.",
+              "generique": [
+                "Jean Marais",
+                "Bourvil",
+                "Sabina Selman"
+              ],
+              "duree": 105,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": 6,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-10-24T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24386,
+          "films": [
+            {
+              "idFilm": 48045,
+              "titre": "Peau d'âne",
+              "realisateurs": "Jacques Demy",
+              "annee": 1970,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Obéissant aux manigances de la Fée des lilas, Peau d'âne fuit son père, le roi, dissimulée sous sa fameuse peau de bête."
+                }
+              ],
+              "adaptation": "D'après le conte _Peau d'âne_ de Charles Perrault.",
+              "generique": [
+                "Catherine Deneuve",
+                "Jacques Perrin",
+                "Jean Marais",
+                "Delphine Seyrig"
+              ],
+              "duree": 89,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": 6,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-10-31T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24490,
+          "films": [
+            {
+              "idFilm": 31255,
+              "titre": "Mam'zelle Charlot",
+              "titreVo": "A Woman",
+              "realisateurs": "Charles Chaplin",
+              "annee": 1915,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Charlot se travestit en femme afin de tromper le père de sa petite amie."
+                }
+              ],
+              "generique": [
+                "Charles Chaplin",
+                "Edna Purviance"
+              ],
+              "duree": 26,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ageMinimal": 4,
+              "ordre": 1
+            },
+            {
+              "idFilm": 77571,
+              "titre": "Frigo Fregoli",
+              "titreVo": "Playhouse",
+              "artVo": "The",
+              "realisateurs": "Edward Cline, Buster Keaton",
+              "annee": 1921,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Un employé de théâtre maladroit sème le chaos dans un spectacle, et, en essayant de se rattraper, ne fait qu'empirer les choses. Mais le public semble trouver la situation fort divertissante."
+                }
+              ],
+              "generique": [
+                "Buster Keaton",
+                "Monte Collins",
+                "Joe Murphy"
+              ],
+              "duree": 23,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ageMinimal": 4,
+              "ordre": 2
+            },
+            {
+              "idFilm": 70185,
+              "titre": "Carna vallée",
+              "realisateurs": "Aline Ahond",
+              "annee": 1997,
+              "pays": "France",
+              "textes": [],
+              "duree": 5,
+              "format": "DCP",
+              "version": "VF",
+              "ordre": 3
+            },
+            {
+              "idFilm": 98145,
+              "titre": "Masque du diable",
+              "art": "Le",
+              "realisateurs": "Jean-François Laguionie, Kali Carlini",
+              "annee": 1976,
+              "pays": "France-Italie",
+              "textes": [],
+              "duree": 12,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 4
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-11-03T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24404,
+          "films": [
+            {
+              "idFilm": 29198,
+              "titre": "Roi des masques",
+              "art": "Le",
+              "titreVo": "Bian lian",
+              "realisateurs": "Tianming Wu",
+              "annee": 1995,
+              "pays": "Hong-Kong",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Maître Wang est le roi des masques, et sait intervertir en un éclair ceux qu'il porte sur son visage. C'est ainsi qu'il gagne sa vie, accompagné de son singe Général. À la recherche d'un héritier à qui transmettre son art, il adopte Gouwa, qui sait lui aussi dissimuler son identité."
+                }
+              ],
+              "generique": [
+                "Yuk Chu",
+                "Yimyim Chao",
+                "Zhigang Zhao"
+              ],
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": 8,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-11-10T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24388,
+          "films": [
+            {
+              "idFilm": 46566,
+              "titre": "Aventures d'Arsène Lupin",
+              "art": "Les",
+              "realisateurs": "Jacques Becker",
+              "annee": 1956,
+              "pays": "France-Italie",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Personne ne connait la véritable identité d'Arsène Lupin, tour à tour diplomate ou riche viticulteur. Mais c'est toujours avec une grande élégance et une incroyable inventivité qu'il commet ses forfaits."
+                }
+              ],
+              "generique": [
+                "Robert Lamoureux",
+                "Liselotte Pulver",
+                "O. E. Hasse"
+              ],
+              "duree": 104,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": 8,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-11-14T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24406,
+          "films": [
+            {
+              "idFilm": 113095,
+              "titre": "Tomboy",
+              "realisateurs": "Céline Sciamma",
+              "annee": 2010,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Short et T-shirt, c'est la tenue de l'été. Quand Laure rencontre Lisa, sa nouvelle voisine, elle profite d'un quiproquo pour se faire appeler Mickaël et se faire passer pour un garçon."
+                }
+              ],
+              "generique": [
+                "Zoé Héran",
+                "Malonn Lévana",
+                "Sophie Cattani",
+                "Mathieu Demy"
+              ],
+              "duree": 82,
+              "format": "35 mm",
+              "version": "VO",
+              "ageMinimal": 8,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-11-17T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24397,
+          "films": [
+            {
+              "idFilm": 36908,
+              "titre": "Certains l'aiment chaud",
+              "titreVo": "Some Like It Hot",
+              "realisateurs": "Billy Wilder",
+              "annee": 1958,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Comment se faire oublier quand on a une bande de gangsters à ses trousses ? Joe et Jerry, deux musiciens sans travail, trouvent refuge dans un orchestre, déguisés en femmes."
+                }
+              ],
+              "generique": [
+                "Marilyn Monroe",
+                "Tony Curtis",
+                "Jack Lemmon"
+              ],
+              "duree": 120,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ageMinimal": 10,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-11-21T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24435,
+          "films": [
+            {
+              "idFilm": 133164,
+              "titre": "Wallace et Gromit : Les inventuriers",
+              "realisateurs": "Nick Park, Merlin Crossingham",
+              "annee": 1989,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Wallace, inventeur farfelu, et son flegmatique chien Gromit, enchaînent les aventures rocambolesques et les rencontres improbables."
+                }
+              ],
+              "duree": 54,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": 4,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-11-24T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2473,
+          "idEvenement": 24387,
+          "films": [
+            {
+              "idFilm": 32370,
+              "titre": "Panthère Rose",
+              "art": "La",
+              "titreVo": "Pink Panther",
+              "artVo": "The",
+              "realisateurs": "Blake Edwards",
+              "annee": 1962,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Mais qui a volé la Panthère Rose, cet incroyable diamant ? L'inspecteur Clouseau espère arrêter le voleur, mais il se retrouve dans un bal masqué où l'extravagance des costumes est propice aux plus amusants malentendus."
+                }
+              ],
+              "generique": [
+                "David Niven",
+                "Peter Sellers",
+                "Claudia Cardinale"
+              ],
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": 10,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2021-11-28T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
