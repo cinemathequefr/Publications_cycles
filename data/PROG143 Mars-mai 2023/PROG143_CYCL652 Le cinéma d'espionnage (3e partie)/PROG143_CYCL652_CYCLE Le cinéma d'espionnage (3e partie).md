@@ -35,6 +35,16 @@ Le journaliste Peter Miller récupère le journal d'un rescapé des camps qui vi
 
 - sa 29 avr 15h00 GF
 
+[44445]  
+**Échec à la Gestapo**  
+**(All Through the Night)**  
+de Vincent Sherman  
+États-Unis / 1941 / 107 min / VO / 16 mm  
+Avec Humphrey Bogart, Conrad Veidt, Karen Verne.  
+Pendant la Seconde Guerre mondiale, Gloves Donahue, un joueur professionnel, lève le voile sur un réseau d'activistes nazis établi en plein cœur de New York.
+
+- je 13 avr 14h45 GF
+
 [42009]  
 **L'Espion noir**  
 **(The Spy in Black)**  

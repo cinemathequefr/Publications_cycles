@@ -12,6 +12,16 @@ Un employé ambitieux et endetté commet une malversation dans son entreprise, c
 
 - je 30 mar 20h15 GF
 
+[45098]  
+**Les Cavaliers rouges**  
+**(Old Shatterhand)**  
+de Hugo Fregonese  
+RFA-France-Italie-Yougoslavie / 1964 / 122 min  
+Avec Lex Barker, Pierre Brice, Guy Madison, Daliah Lavi.  
+L'histoire de l'amitié entre le trappeur Old Shaterland et le chef indien Winnetou.
+
+- di 9 avr 17h30 GF
+
 [154249]  
 **De hombre a hombre**  
 de Hugo Fregonese  
@@ -19,7 +29,7 @@ Argentine / 1949 / 77 min / VOSTF / 16 mm
 Avec Tito Alonso, Josefa Goldar, Norma Giménez, René Fischer Bauer.  
 Oscar, un jeune délinquant, est envoyé par son père en maison de correction. Le psychiatre du centre, père du meilleur ami d'Oscar, s'oppose à ce que son fils le fréquente.
 
-- di 2 avr 18h45 GF
+- lu 3 avr 20h30 GF
 
 [45549]  
 **Donde mueren las palabras**  
@@ -48,7 +58,18 @@ de Hugo Fregonese
 Avec Jack Palance, Constance Smith, Byron Palmer.  
 Alors que Jack l'éventreur multiplie les meurtres dans les rues de Londres, un médecin étrange loue une chambre au grenier chez une danseuse et sa fille.
 
-- sa 1 avr 19h30 HL
+- sa 1 avr 20h00 HL  
+- je 6 avr 16h30 GF
+
+[32841]  
+**Harry Black et le tigre**  
+**(Harry Black and the Tiger)**  
+de Hugo Fregonese  
+États-Unis / 1958 / VOSTF / 35 mm  
+Avec Stewart Granger, Barbara Rush, Anthony Steel.  
+L'ancien colonel Harry Black est envoyé en Inde pour tuer un tigre féroce. Il retrouve sur place une femme qu'il avait jadis aimée, à présent mariée au jeune et malin Desmond Tanner.
+
+- je 13 avr 17h00 GF
 
 [32852]  
 **L'Impasse maudite**  
@@ -58,7 +79,37 @@ de Hugo Fregonese
 Avec Dan Duryea, James Mason, Marta Toren.  
 Après avoir volé l'argent d'un gangster et sa petite amie, le docteur Frank Matson s'enfuit dans un village au Mexique.
 
-- di 2 avr 17h00 GF
+- lu 3 avr 18h30 GF
+
+[42000]  
+**Marco Polo**  
+de Piero Pierotti, Hugo Fregonese  
+Italie-France / 1962 / 100 min / VF / 35 mm  
+Avec Rory Calhoun, Yoko Tani, Camillo Pilotto.  
+Marco Polo est envoyé en mission pour porter une offre de paix à l'empereur de Chine. Il tombe amoureux de sa fille, mais doit déjouer des complots et surmonter de nombreux défis.
+
+- di 9 avr 20h00 GF
+
+[32834]  
+**Mardi ça saignera**  
+**(Black Tuesday)**  
+de Hugo Fregonese  
+États-Unis / 1954 / 83 min / VOSTF / 35 mm  
+Avec Edward G. Robinson, Peter Graves, Jean Parker.  
+Un gangster emprisonné échafaude un plan pour s'évader avant de passer sur la chaise électrique. Lors de sa fuite, il emmène avec lui un voleur de banques et tueur de flics, ainsi qu'une poignée d'otages.
+
+- di 2 avr 19h00 GF  
+- me 12 avr 18h00 GF
+
+[32847]  
+**Mes six forçats**  
+**(My Six Convicts)**  
+de Hugo Fregonese  
+États-Unis / 1952 / 104 min / VOSTF / 35 mm  
+Avec John Beal, Gilbert Roland, Millard Mitchell, Charles Buchinsky.  
+Le docteur Wilson, un jeune psychiatre, est chargé de mission à la prison de Harbor State pour étudier les moyens de réformer le système pénitentiaire. Il tente de développer un programme de réhabilitation avec six forçats.
+
+- je 6 avr 18h00 HL
 
 [73753]  
 **Mission spéciale au Deuxième Bureau**  
@@ -71,6 +122,27 @@ Film également connu sous le titre _Docteur Mabuse et le rayon de la mort_.
 
 - ve 7 avr 19h00 GF
 
+[75581]  
+**Pages galantes de Boccace**  
+**(Decameron Nights)**  
+de Hugo Fregonese  
+Grande-Bretagne / 1954 / 84 min / STF / DCP  
+Avec Joan Fontaine, Louis Jourdan, Godfrey Tearle, Joan Collins.  
+Au XIV<sup>e</sup> siècle, l'écrivain Giovanni Boccaccio est à la recherche de son grand amour, la veuve Fiametta. Il est invité dans la demeure de la comtesse de Florence, où réside Fiametta, et invente pour la séduire des histoires délicieusement immorales.
+
+- ve 7 avr 17h00 GF
+
+[58482]  
+**La Pampa sauvage**  
+**(Savage Pampas)**  
+de Hugo Fregonese  
+Espagne-Argentine-États-Unis / 1966 / 115 min / Numérique  
+Avec Robert Taylor, Ty Hardin, Ron Randell, Marc Lawrence.  
+À la fin des années 1800, un capitaine de l'armée essaie d'apprivoiser les plaines de l'Argentine dominées par les autochtones et les bandits. Il fait alors appel à un groupe de prostituées pour ses soldats.
+
+- sa 8 avr 18h45 GF  
+- lu 10 avr 20h00 GF
+
 [32859]  
 **Passage interdit**  
 **(Untamed Frontier)**  
@@ -79,7 +151,7 @@ de Hugo Fregonese
 Avec Joseph Cotten, Shelley Winters, Suzan Ball, Scott Brady.  
 Le vieux et riche éleveur Denbow interdit aux immigrants le passage sur ses terres. Il en confie la garde à son fils Glenn. Mais celui-ci tue un rival, et doit épouser la seule témoin, Jane.
 
-- di 2 avr 20h30 GF
+- sa 8 avr 21h15 GF
 
 [32827]  
 **Quand les tambours s'arrêteront**  
@@ -90,7 +162,7 @@ D'après le roman _Stand at Spanish Boot_ de Harry Brown.
 Avec Stephen McNally, Coleen Gray, Willard Parker.  
 Une petite ville est attaquée par les Mescaleros. Les villageois se réfugient dans l'église et résistent aux assauts des Indiens.
 
-- sa 1 avr 14h30 GF
+- me 29 mar 20h00 HL
 
 [32490]  
 **The Raid**  
@@ -99,7 +171,28 @@ de Hugo Fregonese
 Avec Van Heflin, Anne Bancroft, Richard Boone, Lee Marvin.  
 En 1864, un groupe de Confédérés dirigé par le major Neal Benton s'échappe d'une prison de l'Union. Ils s'introduisent dans une petit ville nordiste, avec l'objectif de la mettre à sac.
 
-- me 29 mar 20h00 HL
+- sa 1 avr 14h30 GF
+
+[32858]  
+**Les Sept tonnerres**  
+**(Seven Thunders)**  
+de Hugo Fregonese  
+États-Unis / 1957 / 100 min / STF / 35 mm  
+Avec Anna Gaylor, Stephen Boyd, James Robertson Justice, Tony Wright.  
+À Marseille, durant la Seconde Guerre mondiale, deux soldats britanniques trouvent refuge dans le quartier du Vieux-Port cerné par l'armée allemande. Ils s'allient à la résistance locale.
+
+- me 5 avr 18h30 GF  
+- ve 14 avr 16h00 GF
+
+[45552]  
+**Le Signe des rénégats**  
+**(Mark of the Renegade)**  
+de Hugo Fregonese  
+États-Unis / 1951 / VOSTF  
+Avec Ricardo Montalbán, Cyd Charisse, J. Carrol Naish.  
+En 1825, lors de l'avènement de la République du Mexique, Marcos Zappa est victime d'un odieux chantage au terme d'un exil forcé de plusieurs années. En échange du silence de Don Pedro García sur son passé, il doit séduire la belle Manuela de Vásquez et l'épouser pour mieux porter le discrédit sur son père.
+
+- di 2 avr 17h00 GF
 
 [52236]  
 **Le Souffle sauvage**  
@@ -109,5 +202,16 @@ de Hugo Fregonese
 Avec Gary Cooper, Barbara Stanwyck, Anthony Quinn.  
 Au Mexique, Jeff, prospecteur pétrolier fauché, demande la protection d'une compagnie contre les pillards. Mais le patron refuse car Jeff a eu une liaison avec sa femme.
 
-- sa 1 avr 17h30 HL
+- sa 1 avr 18h00 HL
+
+[88401]  
+**Le Vagabond et les lutins**  
+**(Saddle Tramp)**  
+de Hugo Fregonese  
+États-Unis / 1950 / 90 min / 35 mm  
+Avec Joel McCrea, Wanda Hendrix, John Russell.  
+L'aventurier Chuck Connors est en visite chez un ami, quand celui-ci se tue en tombant de cheval. Chuck prend alors sous sa protection ses quatre orphelins, son ranch, et une jeune femme en fuite.
+
+- sa 8 avr 16h45 GF  
+- lu 10 avr 18h00 GF
 

@@ -58,7 +58,17 @@ France-Italie / 1965 / 98 min / DCP
 Avec Eddie Constantine, Anna Karina, Akim Tamiroff, Howard Vernon.  
 « Mon film est un peu comme _Nadja_ d'André Breton. On se promène dans Paris et le surréel apparaît. » (JLG, 1965)
 
-- sa 1 avr 19h00 GF
+- sa 1 avr 20h30 GF
+
+[36123]  
+**Blade Runner (Final Cut)**  
+de Ridley Scott  
+États-Unis / 1981 / 117 min / VOSTF / DCP  
+D'après le roman _Les Androïdes rêvent-ils de moutons électriques ?_ de Philip K. Dick.  
+Avec Harrison Ford, Rutger Hauer, Sean Young.  
+En 2019, à Los Angeles, un détective doit retrouver un groupe de « répliquants », des androïdes qui se sont rebellés.
+
+- je 6 avr 20h15 HL
 
 [30931]  
 **La Chose**  
@@ -90,7 +100,7 @@ D'après le roman _L'Invasion des profanateurs_ de Jack Finney.
 Avec Kevin McCarthy, Dana Wynter, King Donovan, Carolyn Jones.  
 Dans une petite ville de Californie, le médecin local constate un comportement étrange chez les habitants, qui paraissent soudain dénués d'émotions. Peu à peu, il comprend qu'une invasion extraterrestre est en cours.
 
-- je 23 mar 18h30 GF
+- sa 25 mar 17h30 GF
 
 [50886]  
 **Je t'aime, je t'aime**  
@@ -140,7 +150,7 @@ D'après la nouvelle _Rapport minoritaire_ de Philip K. Dick.
 Avec Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow.  
 En 2054, la société tente d'éradiquer les crimes en se dotant d'un système de détection préventif très sophistiqué. Un problème surgit le jour où le dispositif désigne le chef de l'unité comme futur criminel.
 
-- je 30 mar 20h45 HL
+- je 23 mar 20h45 HL
 
 [31214]  
 **Mondwest**  
@@ -150,7 +160,7 @@ de Michael Crichton
 Avec Yul Brynner, Richard Benjamin, James Brolin.  
 Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger dans plusieurs époques. Lancés dans l'ouest sauvage, deux amis se retrouvent plongés en plein cauchemar quand ces androïdes se détraquent et s'attaquent aux touristes.
 
-- sa 1 avr 17h00 GF
+- sa 1 avr 18h30 GF
 
 [42234]  
 **Le Monstre**  
@@ -171,6 +181,16 @@ Avec James Donald, Andrew Keir, Barbara Shelley.
 Un vaisseau spatial d'origine martienne est découvert dans le métro londonien. Le professeur Quatermass mène l'enquête.
 
 - lu 27 mar 20h30 GF
+
+[37314]  
+**Le Mystère Andromède**  
+**(The Andromeda Strain)**  
+de Robert Wise  
+États-Unis / 1970 / 131 min / VOSTF / 35 mm  
+Avec Arthur Hill, David Wayne, Kate Reid.  
+Après la chute d'une sonde spatiale, une épidémie frappe une bourgade mexicaine. Quatre scientifiques des services bactériologiques de l'armée enquêtent sur ce mystérieux phénomène qui a décimé une grande partie de la population de cette petite ville du désert et menace l'humanité entière.
+
+- sa 25 mar 19h30 GF
 
 [45137]  
 **Rencontres du troisième type**  
@@ -198,7 +218,7 @@ de Douglas Trumbull
 Avec Bruce Dern, Cliff Potts, Ron Rifkin.  
 En 2001, toute végétation saine a disparu de la surface de la planète. Le professeur Freeman Lowell, botaniste astronaute préserve les dernières espèces de flore et de faune. Lorsque ses supérieurs lui annoncent que le projet, peu rentable, est annulé, il se révolte...
 
-- sa 1 avr 21h15 GF
+- me 5 avr 20h45 GF
 
 [53695]  
 **Solaris**  
@@ -243,5 +263,5 @@ Dans un futur totalitaire, les jeunes gens, garçons et filles, sont encouragés
 Dans un futur lointain, aux confins d'une galaxie inconnue, une armée d'arachnides géants menace l'humanité. Cinq jeunes soldats s'engagent dans l'armée pour combattre ces nouveaux envahisseurs.  
 DCP Disney
 
-- je 30 mar 18h00 HL
+- je 23 mar 18h00 HL
 

@@ -43,7 +43,7 @@ de Vincent Sherman
 Avec Errol Flynn, Viveca Lindfors, Raymond Burr.  
 Le grand Don Juan part à la rescousse de la belle et séduisante reine Margaret.
 
-- lu 10 avr 20h30 GF
+- je 18 mai 16h00 GF
 
 [30592]  
 **Le Bar magnifique**  
@@ -53,7 +53,7 @@ de Lloyd Bacon
 Avec Dick Powell, Al Jolson, Kay Francis.  
 Dans un cabaret parisien, Harry, un danseur, flirte dangereusement avec une riche cliente, Madame Renaud. Séduite, cette dernière va alors lui offrir un bijou de sa collection personnelle.
 
-- sa 8 avr 19h30 GF
+- sa 8 avr 19h30 HL
 
 [81305]  
 **Blondie Johnson**  
@@ -104,6 +104,16 @@ Avec Joan Blondell, Ruby Keeler, Dick Powell.
 Un millionnaire devenu compositeur vole au secours de travailleurs de Broadway au chômage, en mettant sur pied un nouveau spectacle.
 
 - sa 8 avr 15h00 HL
+
+[44445]  
+**Échec à la Gestapo**  
+**(All Through the Night)**  
+de Vincent Sherman  
+États-Unis / 1941 / 107 min / VO / 16 mm  
+Avec Humphrey Bogart, Conrad Veidt, Karen Verne.  
+Pendant la Seconde Guerre mondiale, Gloves Donahue, un joueur professionnel, lève le voile sur un réseau d'activistes nazis établi en plein cœur de New York.
+
+- je 13 avr 14h45 GF
 
 [46030]  
 **En scène**  
@@ -211,17 +221,6 @@ Al Kruger, chef d'un gang, et son bras droit, Nick Fenner, sèment la terreur en
 
 - me 26 avr 19h15 GF
 
-[36726]  
-**L'Impossible amour**  
-**(Old Acquaintance)**  
-de Vincent Sherman  
-États-Unis / 1942 / 110 min / VOSTF / 35 mm  
-D'après la pièce _Old acquaintance_ de John Van Druten.  
-Avec Bette Davis, Miriam Hopkins, Gig Young.  
-Kit Marlowe, romancière confirmée, fait publier le roman de son amie d'enfance Millie Drake, qui devient un best seller. Devenue un auteur à succès, Millie ne se rend pas compte que son mari Preston se détache d'elle et tombe amoureux de Kit.
-
-- lu 10 avr 18h00 GF
-
 [32832]  
 **L'Intruse**  
 **(Dangerous)**  
@@ -301,7 +300,7 @@ de Roy Del Ruth
 États-Unis / 1933  
 Avec Edward G. Robinson, Mary Astor.
 
-- sa 8 avr 17h45 GF
+- sa 8 avr 17h30 HL
 
 [30524]  
 **Prologue**  

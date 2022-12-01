@@ -202,7 +202,7 @@ Avec Robert Lynen, Harry Baur, Catherine Fonteney.
 [51499]  
 **Zéro de conduite**  
 de Jean Vigo  
-France / 1933 / 44 min / 35 mm  
+France / 1933 / 44 min / DCP  
 Avec Jean Dasté, Louis Lefèbvre, Gérard de Bédarieux, Robert Le Flon, Delphin.  
 [JP] Marre des haricots, des règles trop strictes et injustes : la révolte s'organise chez les jeunes pensionnaires de l'internat. La bataille de polochons est un des premiers signes de l'incroyable vent de liberté qui souffle sur ce film.
 

@@ -10,7 +10,7 @@ Grande-Bretagne / 1965 / 92 min / VOSTF / 16 mm
 Avec John Lennon, Paul McCartney, George Harrison, Ringo Starr.  
 Les Beatles sont menacés par une mystérieuse secte maléfique.
 
-- sa 25 mar 19h00 HL
+- sa 25 mar 18h30 HL
 
 [34216]  
 **Cash-cash**  
@@ -19,6 +19,7 @@ de Richard Lester
 États-Unis / 1984 / 96 min / 35 mm  
 Plusieurs personnages pittoresques et loufoques se lancent à la poursuite d'un magot de 5 millions de dollars.
 
+- ve 17 mar 17h30 GF  
 - me 29 mar 18h30 GF
 
 [34210]  
@@ -29,7 +30,8 @@ Grande-Bretagne / 1966 / 109 min / VOSTF / 35 mm
 Avec John Lennon, Michael Crawford.  
 Pendant la Seconde Guerre mondiale, deux officiers, anglais et allemand, sont chargés de construire un terrain de cricket et de détruire un pont.
 
-- ve 17 mar 17h30 GF  
+- je 23 mar 21h15 GF  
+Voir aussi conférence p. xx  
 - ve 24 mar 18h30 GF
 
 [57348]  
@@ -39,8 +41,7 @@ de Richard Lester
 Avec Sean Connery, Brooke Adams, Jack Weston.  
 Pendant la révolution cubaine, en 1958, un mercenaire anglais combat la guérilla et retrouve une ancienne maîtresse dont il est toujours amoureux.
 
-- me 29 mar 20h45 GF  
-- me 12 avr 18h00 GF
+- me 29 mar 20h45 GF
 
 [45344]  
 **Le Forum en folie**  
@@ -79,8 +80,7 @@ Avec Tom Berenger, William Katt, Jeff Corey.
 Butch Cassidy, libéré de prison, rencontre dans un saloon celui qui sera son compagnon de galère, Sundance Kid. Ils s'associent et commettent plusieurs délits, recherchés par le shérif Bledsoe.
 
 - ve 24 mar 20h45 GF  
-- je 30 mar 16h00 GF  
-- je 20 avr 16h00 GF
+- je 30 mar 16h00 GF
 
 [41625]  
 **Le Knack et comment l'avoir**  
@@ -112,6 +112,7 @@ D'après le roman _Me and the Arch Kook Petulia_ de John Haase.
 Avec Joseph Cotten, Julie Christie, George C. Scott.  
 Au cours d'une soirée de charité, le Dr Archie Bollen rencontre Petulia, une très belle femme mariée. Ils passent la nuit ensemble. C'est le début d'une liaison extravagante qui va bouleverser la vie d'Archie.
 
+- sa 25 mar 20h30 HL  
 - ve 31 mar 18h30 HL
 
 [41631]  
@@ -121,7 +122,8 @@ de Richard Lester
 Grande-Bretagne / 1964 / DCP  
 Alors que la Beatlemania fait rage en Angleterre, John, Paul, George et Ringo sont attendus à Londres pour jouer dans une émission de télévision. Pour arriver aux studios, ils vont devoir affronter tout un tas d'obstacles.
 
-- sa 25 mar 14h30 HL
+- sa 25 mar 14h30 HL  
+Voir aussi dialogue p. xx
 
 [41592]  
 **Le Retour des mousquetaires**  
@@ -161,8 +163,7 @@ Avec Malcolm McDowell, Alan Bates, Florinda Bolkan, Oliver Reed.
 Au XIXe siècle, les aventures diplomatiques et sentimentales d'une jeune officier, poltron et débauché, à la cour du Roi de Prusse.
 
 - ve 31 mar 20h45 HL  
-- me 12 avr 20h30 GF  
-- je 13 avr 17h00 GF
+- me 12 avr 20h30 GF
 
 [89099]  
 **The Running, Jumping and Standing Still Film**  
@@ -191,7 +192,7 @@ de Richard Lester
 Grande-Bretagne-États-Unis / 1980 / 127 min / VOSTF  
 Trois terroristes ont pris possession de la Tour Eiffel. Ils menacent d'y faire exploser une bombe atomique, contraignant Superman à reprendre du service.
 
-- je 23 mar 18h00 HL
+- je 30 mar 18h00 HL
 
 [34197]  
 **Superman III**  
@@ -200,7 +201,7 @@ Grande-Bretagne / 1982 / 125 min / VOSTF / 35 mm
 Avec Christopher Reeve, Richard Pryor, Jackie Cooper.  
 Superman, lutte contre Ross Webster, un puissant homme d'affaires décidé à conquérir le monde.
 
-- je 23 mar 20h45 HL
+- je 30 mar 20h45 HL
 
 [34234]  
 **Terreur sur le Britannic**  
@@ -211,7 +212,7 @@ Avec Omar Sharif, Anthony Hopkins, Richard Harris.
 Un maître chanteur exige une rançon en échange du désarmement de sept bombes qu'il a placées à bord du paquebot transatlantique Britannic.
 
 - di 19 mar 20h30 HL  
-- ve 14 avr 16h00 GF
+- ve 31 mar 16h30 GF
 
 [54263]  
 **Les Trois mousquetaires**  
@@ -234,4 +235,17 @@ Après une guerre nucléaire ultra-rapide, il ne reste que vingt survivants dans
 
 - ve 17 mar 20h00 GF  
 - ve 24 mar 16h30 GF
+
+## Rencontres et conférences
+
+**Conférence de Leo Soesanto**  
+**Conférence **
+
+- je 23 mar 19h00 GF  
+À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _Comment j'ai gagné la guerre_ de Richard Lester (voir p. xx)
+
+**Dialogue avec Michka Assayas**
+
+- sa 25 mar 14h30 HL  
+À la suite de la projection de _Quatre garçons dans le vent_ de Richard Lester (voir p. xx)
 

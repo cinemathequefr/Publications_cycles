@@ -122,8 +122,8 @@
     "hashEvenement": "f41590"
   },
   {
-    "idSeance": 92734,
-    "idEvenement": 27491,
+    "idSeance": 92803,
+    "idEvenement": 27490,
     "dateHeure": "2023-03-17T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -134,16 +134,15 @@
     ],
     "items": [
       {
-        "idFilm": 34210,
-        "titre": "Comment j'ai gagné la guerre",
+        "idFilm": 34216,
+        "titre": "Cash-cash",
         "realisateurs": "Richard Lester",
-        "annee": 1966,
-        "duree": 109,
-        "version": "VOSTF",
+        "annee": 1984,
+        "duree": 96,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f34210"
+    "hashEvenement": "f34216"
   },
   {
     "idSeance": 90590,
@@ -653,33 +652,10 @@
     "hashEvenement": "f41590"
   },
   {
-    "idSeance": 92743,
-    "idEvenement": 27502,
+    "idSeance": 92806,
+    "idEvenement": 27533,
     "dateHeure": "2023-03-23T18:00:00",
     "salle": "HL",
-    "cycle": [
-      [
-        "Richard Lester",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 34219,
-        "titre": "Superman II, l'aventure continue",
-        "realisateurs": "Richard Lester",
-        "annee": 1980,
-        "duree": 127,
-        "version": "VOSTF"
-      }
-    ],
-    "hashEvenement": "f34219"
-  },
-  {
-    "idSeance": 92549,
-    "idEvenement": 27522,
-    "dateHeure": "2023-03-23T18:30:00",
-    "salle": "GF",
     "cycle": [
       [
         "La science-fiction en 25 films indispensables",
@@ -688,17 +664,38 @@
     ],
     "items": [
       {
-        "idFilm": 58029,
-        "titre": "Invasion des profanateurs de sépultures",
-        "art": "L'",
-        "realisateurs": "Don Siegel",
-        "annee": 1955,
-        "duree": 80,
+        "idFilm": 29109,
+        "titre": "Starship Troopers",
+        "realisateurs": "Paul Verhoeven",
+        "annee": 1997,
+        "duree": 129,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f58029"
+    "hashEvenement": "f29109"
+  },
+  {
+    "idSeance": 92798,
+    "idEvenement": 27688,
+    "dateHeure": "2023-03-23T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Richard Lester",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 27688,
+        "titre": "Conférence de Leo Soesanto",
+        "sousTitre": "Conférence ",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c27688"
   },
   {
     "idSeance": 90727,
@@ -723,10 +720,34 @@
     "hashEvenement": "f153715"
   },
   {
-    "idSeance": 92744,
-    "idEvenement": 27508,
+    "idSeance": 92807,
+    "idEvenement": 27534,
     "dateHeure": "2023-03-23T20:45:00",
     "salle": "HL",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 80357,
+        "titre": "Minority Report",
+        "realisateurs": "Steven Spielberg",
+        "annee": 2002,
+        "duree": 145,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f80357"
+  },
+  {
+    "idSeance": 92802,
+    "idEvenement": 27491,
+    "dateHeure": "2023-03-23T21:15:00",
+    "salle": "GF",
     "cycle": [
       [
         "Richard Lester",
@@ -735,16 +756,16 @@
     ],
     "items": [
       {
-        "idFilm": 34197,
-        "titre": "Superman III",
+        "idFilm": 34210,
+        "titre": "Comment j'ai gagné la guerre",
         "realisateurs": "Richard Lester",
-        "annee": 1982,
-        "duree": 125,
+        "annee": 1966,
+        "duree": 109,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f34197"
+    "hashEvenement": "f34210"
   },
   {
     "idSeance": 92765,
@@ -877,6 +898,10 @@
       [
         "Richard Lester",
         "Les films"
+      ],
+      [
+        "Richard Lester",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -886,9 +911,15 @@
         "realisateurs": "Richard Lester",
         "annee": 1964,
         "format": "DCP"
+      },
+      {
+        "idConf": 27689,
+        "titre": "Dialogue avec Michka Assayas",
+        "typeConference": "Dialogue",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f41631"
+    "hashEvenement": "f41631c27689"
   },
   {
     "idSeance": 92745,
@@ -916,9 +947,34 @@
     "hashEvenement": "f42009"
   },
   {
+    "idSeance": 92549,
+    "idEvenement": 27522,
+    "dateHeure": "2023-03-25T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 58029,
+        "titre": "Invasion des profanateurs de sépultures",
+        "art": "L'",
+        "realisateurs": "Don Siegel",
+        "annee": 1955,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f58029"
+  },
+  {
     "idSeance": 92749,
     "idEvenement": 27497,
-    "dateHeure": "2023-03-25T19:00:00",
+    "dateHeure": "2023-03-25T18:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -938,6 +994,55 @@
       }
     ],
     "hashEvenement": "f41637"
+  },
+  {
+    "idSeance": 92808,
+    "idEvenement": 27528,
+    "dateHeure": "2023-03-25T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 37314,
+        "titre": "Mystère Andromède",
+        "art": "Le",
+        "realisateurs": "Robert Wise",
+        "annee": 1970,
+        "duree": 131,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f37314"
+  },
+  {
+    "idSeance": 92816,
+    "idEvenement": 27495,
+    "dateHeure": "2023-03-25T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Richard Lester",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34225,
+        "titre": "Petulia",
+        "realisateurs": "Richard Lester",
+        "annee": 1967,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f34225"
   },
   {
     "idSeance": 92746,
@@ -1144,8 +1249,8 @@
     "hashEvenement": "f34216"
   },
   {
-    "idSeance": 92756,
-    "idEvenement": 27230,
+    "idSeance": 92825,
+    "idEvenement": 27229,
     "dateHeure": "2023-03-29T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -1156,16 +1261,16 @@
     ],
     "items": [
       {
-        "idFilm": 32490,
-        "titre": "Raid",
-        "art": "The",
+        "idFilm": 32827,
+        "titre": "Quand les tambours s'arrêteront",
         "realisateurs": "Hugo Fregonese",
-        "annee": 1954,
-        "duree": 83,
-        "format": "35 mm"
+        "annee": 1951,
+        "duree": 75,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f32490"
+    "hashEvenement": "f32827"
   },
   {
     "idSeance": 92759,
@@ -1217,28 +1322,27 @@
     "hashEvenement": "f34742"
   },
   {
-    "idSeance": 90895,
-    "idEvenement": 27533,
+    "idSeance": 92804,
+    "idEvenement": 27502,
     "dateHeure": "2023-03-30T18:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "La science-fiction en 25 films indispensables",
+        "Richard Lester",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 29109,
-        "titre": "Starship Troopers",
-        "realisateurs": "Paul Verhoeven",
-        "annee": 1997,
-        "duree": 129,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 34219,
+        "titre": "Superman II, l'aventure continue",
+        "realisateurs": "Richard Lester",
+        "annee": 1980,
+        "duree": 127,
+        "version": "VOSTF"
       }
     ],
-    "hashEvenement": "f29109"
+    "hashEvenement": "f34219"
   },
   {
     "idSeance": 92761,
@@ -1290,28 +1394,52 @@
     "hashEvenement": "f58238"
   },
   {
-    "idSeance": 90896,
-    "idEvenement": 27534,
+    "idSeance": 92805,
+    "idEvenement": 27508,
     "dateHeure": "2023-03-30T20:45:00",
     "salle": "HL",
     "cycle": [
       [
-        "La science-fiction en 25 films indispensables",
+        "Richard Lester",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 80357,
-        "titre": "Minority Report",
-        "realisateurs": "Steven Spielberg",
-        "annee": 2002,
-        "duree": 145,
+        "idFilm": 34197,
+        "titre": "Superman III",
+        "realisateurs": "Richard Lester",
+        "annee": 1982,
+        "duree": 125,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f80357"
+    "hashEvenement": "f34197"
+  },
+  {
+    "idSeance": 92817,
+    "idEvenement": 27506,
+    "dateHeure": "2023-03-31T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Richard Lester",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34234,
+        "titre": "Terreur sur le Britannic",
+        "realisateurs": "Richard Lester",
+        "annee": 1974,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f34234"
   },
   {
     "idSeance": 92758,
@@ -1408,8 +1536,8 @@
     "hashEvenement": "f46694"
   },
   {
-    "idSeance": 92775,
-    "idEvenement": 27229,
+    "idSeance": 92826,
+    "idEvenement": 27230,
     "dateHeure": "2023-04-01T14:30:00",
     "salle": "GF",
     "cycle": [
@@ -1420,16 +1548,16 @@
     ],
     "items": [
       {
-        "idFilm": 32827,
-        "titre": "Quand les tambours s'arrêteront",
+        "idFilm": 32490,
+        "titre": "Raid",
+        "art": "The",
         "realisateurs": "Hugo Fregonese",
-        "annee": 1951,
-        "duree": 75,
-        "version": "VOSTF",
-        "format": "DCP"
+        "annee": 1954,
+        "duree": 83,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f32827"
+    "hashEvenement": "f32490"
   },
   {
     "idSeance": 92774,
@@ -1456,33 +1584,9 @@
     "hashEvenement": "f45051"
   },
   {
-    "idSeance": 92581,
-    "idEvenement": 27573,
-    "dateHeure": "2023-04-01T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "La science-fiction en 25 films indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 31214,
-        "titre": "Mondwest",
-        "realisateurs": "Michael Crichton",
-        "annee": 1973,
-        "duree": 88,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f31214"
-  },
-  {
     "idSeance": 92768,
     "idEvenement": 27235,
-    "dateHeure": "2023-04-01T17:30:00",
+    "dateHeure": "2023-04-01T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1505,9 +1609,9 @@
     "hashEvenement": "f52236"
   },
   {
-    "idSeance": 90973,
-    "idEvenement": 27571,
-    "dateHeure": "2023-04-01T19:00:00",
+    "idSeance": 92581,
+    "idEvenement": 27573,
+    "dateHeure": "2023-04-01T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1517,20 +1621,21 @@
     ],
     "items": [
       {
-        "idFilm": 48840,
-        "titre": "Alphaville, une étrange aventure de Lemmy Caution",
-        "realisateurs": "Jean-Luc Godard",
-        "annee": 1965,
-        "duree": 98,
-        "format": "DCP"
+        "idFilm": 31214,
+        "titre": "Mondwest",
+        "realisateurs": "Michael Crichton",
+        "annee": 1973,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f48840"
+    "hashEvenement": "f31214"
   },
   {
     "idSeance": 92769,
     "idEvenement": 27220,
-    "dateHeure": "2023-04-01T19:30:00",
+    "dateHeure": "2023-04-01T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1553,9 +1658,9 @@
     "hashEvenement": "f32846"
   },
   {
-    "idSeance": 92582,
-    "idEvenement": 27572,
-    "dateHeure": "2023-04-01T21:15:00",
+    "idSeance": 90973,
+    "idEvenement": 27571,
+    "dateHeure": "2023-04-01T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1565,16 +1670,15 @@
     ],
     "items": [
       {
-        "idFilm": 34064,
-        "titre": "Silent Running",
-        "realisateurs": "Douglas Trumbull",
-        "annee": 1971,
-        "duree": 90,
-        "version": "VOSTF",
-        "format": "Numérique"
+        "idFilm": 48840,
+        "titre": "Alphaville, une étrange aventure de Lemmy Caution",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 1965,
+        "duree": 98,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f34064"
+    "hashEvenement": "f48840"
   },
   {
     "idSeance": 92566,
@@ -1601,8 +1705,8 @@
     "hashEvenement": "f41965"
   },
   {
-    "idSeance": 92780,
-    "idEvenement": 27219,
+    "idSeance": 92785,
+    "idEvenement": 27234,
     "dateHeure": "2023-04-02T17:00:00",
     "salle": "GF",
     "cycle": [
@@ -1613,17 +1717,15 @@
     ],
     "items": [
       {
-        "idFilm": 32852,
-        "titre": "Impasse maudite",
-        "art": "L'",
+        "idFilm": 45552,
+        "titre": "Signe des rénégats",
+        "art": "Le",
         "realisateurs": "Hugo Fregonese",
-        "annee": 1950,
-        "duree": 76,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "annee": 1951,
+        "version": "VOSTF"
       }
     ],
-    "hashEvenement": "f32852"
+    "hashEvenement": "f45552"
   },
   {
     "idSeance": 92561,
@@ -1650,9 +1752,9 @@
     "hashEvenement": "f59081"
   },
   {
-    "idSeance": 92781,
-    "idEvenement": 27472,
-    "dateHeure": "2023-04-02T18:45:00",
+    "idSeance": 92786,
+    "idEvenement": 27222,
+    "dateHeure": "2023-04-02T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1662,16 +1764,16 @@
     ],
     "items": [
       {
-        "idFilm": 154249,
-        "titre": "De hombre a hombre",
+        "idFilm": 32834,
+        "titre": "Mardi ça saignera",
         "realisateurs": "Hugo Fregonese",
-        "annee": 1949,
-        "duree": 77,
+        "annee": 1954,
+        "duree": 83,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154249"
+    "hashEvenement": "f32834"
   },
   {
     "idSeance": 92562,
@@ -1698,9 +1800,9 @@
     "hashEvenement": "f45137"
   },
   {
-    "idSeance": 92782,
-    "idEvenement": 27228,
-    "dateHeure": "2023-04-02T20:30:00",
+    "idSeance": 92783,
+    "idEvenement": 27219,
+    "dateHeure": "2023-04-03T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1710,16 +1812,66 @@
     ],
     "items": [
       {
-        "idFilm": 32859,
-        "titre": "Passage interdit",
+        "idFilm": 32852,
+        "titre": "Impasse maudite",
+        "art": "L'",
         "realisateurs": "Hugo Fregonese",
-        "annee": 1952,
-        "duree": 75,
+        "annee": 1950,
+        "duree": 76,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f32859"
+    "hashEvenement": "f32852"
+  },
+  {
+    "idSeance": 92784,
+    "idEvenement": 27472,
+    "dateHeure": "2023-04-03T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154249,
+        "titre": "De hombre a hombre",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1949,
+        "duree": 77,
+        "version": "VOSTF",
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f154249"
+  },
+  {
+    "idSeance": 92821,
+    "idEvenement": 27233,
+    "dateHeure": "2023-04-05T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32858,
+        "titre": "Sept tonnerres",
+        "art": "Les",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1957,
+        "duree": 100,
+        "version": "STF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f32858"
   },
   {
     "idSeance": 92678,
@@ -1746,6 +1898,79 @@
     "hashEvenement": "f42411"
   },
   {
+    "idSeance": 92827,
+    "idEvenement": 27572,
+    "dateHeure": "2023-04-05T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34064,
+        "titre": "Silent Running",
+        "realisateurs": "Douglas Trumbull",
+        "annee": 1971,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f34064"
+  },
+  {
+    "idSeance": 92819,
+    "idEvenement": 27220,
+    "dateHeure": "2023-04-06T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32846,
+        "titre": "Étrange M. Slade",
+        "art": "L'",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1953,
+        "duree": 86,
+        "version": "STF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f32846"
+  },
+  {
+    "idSeance": 92789,
+    "idEvenement": 27223,
+    "dateHeure": "2023-04-06T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32847,
+        "titre": "Mes six forçats",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1952,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f32847"
+  },
+  {
     "idSeance": 92690,
     "idEvenement": 27682,
     "dateHeure": "2023-04-06T19:00:00",
@@ -1766,6 +1991,54 @@
       }
     ],
     "hashEvenement": "f51155"
+  },
+  {
+    "idSeance": 92809,
+    "idEvenement": 27697,
+    "dateHeure": "2023-04-06T20:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36123,
+        "titre": "Blade Runner (Final Cut)",
+        "realisateurs": "Ridley Scott",
+        "annee": 1981,
+        "duree": 117,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f36123"
+  },
+  {
+    "idSeance": 92822,
+    "idEvenement": 27225,
+    "dateHeure": "2023-04-07T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 75581,
+        "titre": "Pages galantes de Boccace",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1954,
+        "duree": 84,
+        "version": "STF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f75581"
   },
   {
     "idSeance": 91101,
@@ -1911,10 +2184,34 @@
     "hashEvenement": "f34758"
   },
   {
+    "idSeance": 92800,
+    "idEvenement": 27232,
+    "dateHeure": "2023-04-08T16:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 88401,
+        "titre": "Vagabond et les lutins",
+        "art": "Le",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1950,
+        "duree": 90,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f88401"
+  },
+  {
     "idSeance": 92603,
     "idEvenement": 27335,
-    "dateHeure": "2023-04-08T17:45:00",
-    "salle": "GF",
+    "dateHeure": "2023-04-08T17:30:00",
+    "salle": "HL",
     "cycle": [
       [
         "Warner Bros., fabrique de stars",
@@ -1933,10 +2230,34 @@
     "hashEvenement": "f80961"
   },
   {
+    "idSeance": 92801,
+    "idEvenement": 27227,
+    "dateHeure": "2023-04-08T18:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 58482,
+        "titre": "Pampa sauvage",
+        "art": "La",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1966,
+        "duree": 115,
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f58482"
+  },
+  {
     "idSeance": 92602,
     "idEvenement": 27324,
     "dateHeure": "2023-04-08T19:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Warner Bros., fabrique de stars",
@@ -1956,6 +2277,30 @@
       }
     ],
     "hashEvenement": "f30592"
+  },
+  {
+    "idSeance": 92815,
+    "idEvenement": 27228,
+    "dateHeure": "2023-04-08T21:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32859,
+        "titre": "Passage interdit",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1952,
+        "duree": 75,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f32859"
   },
   {
     "idSeance": 92586,
@@ -2007,6 +2352,29 @@
     "hashEvenement": "f36936"
   },
   {
+    "idSeance": 92791,
+    "idEvenement": 27214,
+    "dateHeure": "2023-04-09T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45098,
+        "titre": "Cavaliers rouges",
+        "art": "Les",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1964,
+        "duree": 122
+      }
+    ],
+    "hashEvenement": "f45098"
+  },
+  {
     "idSeance": 91156,
     "idEvenement": 27327,
     "dateHeure": "2023-04-09T19:00:00",
@@ -2031,78 +2399,100 @@
     "hashEvenement": "f31368"
   },
   {
-    "idSeance": 92601,
-    "idEvenement": 27340,
+    "idSeance": 92792,
+    "idEvenement": 27221,
+    "dateHeure": "2023-04-09T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42000,
+        "titre": "Marco Polo",
+        "realisateurs": "Piero Pierotti, Hugo Fregonese",
+        "annee": 1962,
+        "duree": 100,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f42000"
+  },
+  {
+    "idSeance": 92793,
+    "idEvenement": 27232,
     "dateHeure": "2023-04-10T18:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Warner Bros., fabrique de stars",
+        "Hugo Fregonese",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 36726,
-        "titre": "Impossible amour",
-        "art": "L'",
-        "realisateurs": "Vincent Sherman",
-        "annee": 1942,
-        "duree": 110,
-        "version": "VOSTF",
+        "idFilm": 88401,
+        "titre": "Vagabond et les lutins",
+        "art": "Le",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1950,
+        "duree": 90,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f36726"
+    "hashEvenement": "f88401"
   },
   {
-    "idSeance": 91169,
-    "idEvenement": 27338,
-    "dateHeure": "2023-04-10T20:30:00",
+    "idSeance": 92794,
+    "idEvenement": 27227,
+    "dateHeure": "2023-04-10T20:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Warner Bros., fabrique de stars",
+        "Hugo Fregonese",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 36724,
-        "titre": "Aventures de Don Juan",
-        "art": "Les",
-        "realisateurs": "Vincent Sherman",
-        "annee": 1948,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 58482,
+        "titre": "Pampa sauvage",
+        "art": "La",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1966,
+        "duree": 115,
+        "format": "Numérique"
       }
     ],
-    "hashEvenement": "f36724"
+    "hashEvenement": "f58482"
   },
   {
-    "idSeance": 91203,
-    "idEvenement": 27489,
+    "idSeance": 92797,
+    "idEvenement": 27222,
     "dateHeure": "2023-04-12T18:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Richard Lester",
+        "Hugo Fregonese",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 57348,
-        "titre": "Cuba",
-        "realisateurs": "Richard Lester",
-        "annee": 1978,
-        "duree": 122,
-        "version": "VO",
+        "idFilm": 32834,
+        "titre": "Mardi ça saignera",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1954,
+        "duree": 83,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f57348"
+    "hashEvenement": "f32834"
   },
   {
     "idSeance": 91201,
@@ -2153,27 +2543,55 @@
     "hashEvenement": "f41511"
   },
   {
-    "idSeance": 92595,
-    "idEvenement": 27503,
-    "dateHeure": "2023-04-13T17:00:00",
+    "idSeance": 92823,
+    "idEvenement": 27600,
+    "dateHeure": "2023-04-13T14:45:00",
     "salle": "GF",
     "cycle": [
       [
-        "Richard Lester",
+        "Warner Bros., fabrique de stars",
+        "Les films"
+      ],
+      [
+        "Le cinéma d'espionnage (3e partie)",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 41511,
-        "titre": "Royal Flash",
-        "realisateurs": "Richard Lester",
-        "annee": 1974,
-        "duree": 102,
-        "version": "VOSTF"
+        "idFilm": 44445,
+        "titre": "Échec à la Gestapo",
+        "realisateurs": "Vincent Sherman",
+        "annee": 1941,
+        "duree": 107,
+        "version": "VO",
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f41511"
+    "hashEvenement": "f44445"
+  },
+  {
+    "idSeance": 92828,
+    "idEvenement": 27218,
+    "dateHeure": "2023-04-13T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32841,
+        "titre": "Harry Black et le tigre",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1958,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f32841"
   },
   {
     "idSeance": 91235,
@@ -2245,28 +2663,29 @@
     "hashEvenement": "f128006"
   },
   {
-    "idSeance": 92596,
-    "idEvenement": 27506,
+    "idSeance": 92795,
+    "idEvenement": 27233,
     "dateHeure": "2023-04-14T16:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Richard Lester",
+        "Hugo Fregonese",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 34234,
-        "titre": "Terreur sur le Britannic",
-        "realisateurs": "Richard Lester",
-        "annee": 1974,
-        "duree": 109,
-        "version": "VOSTF",
-        "format": "Numérique"
+        "idFilm": 32858,
+        "titre": "Sept tonnerres",
+        "art": "Les",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1957,
+        "duree": 100,
+        "version": "STF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f34234"
+    "hashEvenement": "f32858"
   },
   {
     "idSeance": 91271,
@@ -2795,29 +3214,28 @@
     "hashEvenement": "f34887"
   },
   {
-    "idSeance": 92597,
-    "idEvenement": 27487,
-    "dateHeure": "2023-04-20T16:00:00",
+    "idSeance": 91402,
+    "idEvenement": 27415,
+    "dateHeure": "2023-04-20T16:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Richard Lester",
+        "Peter Bogdanovich",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 34742,
-        "titre": "Joyeux débuts de Butch Cassidy et le Kid",
-        "art": "Les",
-        "realisateurs": "Richard Lester",
-        "annee": 1979,
-        "duree": 111,
-        "version": "VO",
+        "idFilm": 59823,
+        "titre": "Texasville",
+        "realisateurs": "Peter Bogdanovich",
+        "annee": 1989,
+        "duree": 125,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f34742"
+    "hashEvenement": "f59823"
   },
   {
     "idSeance": 92698,
@@ -2843,30 +3261,6 @@
       }
     ],
     "hashEvenement": "f33476"
-  },
-  {
-    "idSeance": 91402,
-    "idEvenement": 27415,
-    "dateHeure": "2023-04-20T19:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Peter Bogdanovich",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 59823,
-        "titre": "Texasville",
-        "realisateurs": "Peter Bogdanovich",
-        "annee": 1989,
-        "duree": 125,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f59823"
   },
   {
     "idSeance": 92692,
@@ -2962,7 +3356,7 @@
     "hashEvenement": "f33430"
   },
   {
-    "idSeance": 91443,
+    "idSeance": 92811,
     "idEvenement": 27591,
     "dateHeure": "2023-04-21T19:00:00",
     "salle": "GF",
@@ -4190,7 +4584,7 @@
     "hashEvenement": "f58908"
   },
   {
-    "idSeance": 91742,
+    "idSeance": 92812,
     "idEvenement": 27341,
     "dateHeure": "2023-05-04T20:30:00",
     "salle": "GF",
@@ -4333,7 +4727,7 @@
     "hashEvenement": "f55028"
   },
   {
-    "idSeance": 91784,
+    "idSeance": 92813,
     "idEvenement": 27594,
     "dateHeure": "2023-05-05T21:00:00",
     "salle": "GF",
@@ -4911,7 +5305,7 @@
     "hashEvenement": "f154139f154141f154098f154074f154246f154142f154247"
   },
   {
-    "idSeance": 92627,
+    "idSeance": 92814,
     "idEvenement": 27699,
     "dateHeure": "2023-05-11T21:00:00",
     "salle": "GF",
@@ -5429,6 +5823,31 @@
       }
     ],
     "hashEvenement": "f122531"
+  },
+  {
+    "idSeance": 92824,
+    "idEvenement": 27338,
+    "dateHeure": "2023-05-18T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Warner Bros., fabrique de stars",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36724,
+        "titre": "Aventures de Don Juan",
+        "art": "Les",
+        "realisateurs": "Vincent Sherman",
+        "annee": 1948,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f36724"
   },
   {
     "idSeance": 92085,

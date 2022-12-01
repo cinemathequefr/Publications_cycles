@@ -172,7 +172,7 @@ D'après le roman _Texasville_ de Larry McMurtry.
 Avec Jeff Bridges, Cybill Shepherd, Harvey Christiansen.  
 Suite de _La Dernière séance_ : trente-cinq ans plus tard, le petit bourg perdu du nord du Texas fête son centenaire.
 
-- je 20 avr 19h00 GF
+- je 20 avr 16h30 GF
 
 [92637]  
 **Un parfum de meurtre**  

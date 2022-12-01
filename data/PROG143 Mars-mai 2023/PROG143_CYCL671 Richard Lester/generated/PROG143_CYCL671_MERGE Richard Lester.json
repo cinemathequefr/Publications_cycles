@@ -7,7 +7,7 @@
         {
           "idSeance": 92749,
           "ordre": 1,
-          "dateHeure": "2023-03-25T19:00:00",
+          "dateHeure": "2023-03-25T18:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -34,6 +34,33 @@
             {
               "typeTexte": 9,
               "texte": "Les Beatles sont menacés par une mystérieuse secte maléfique."
+            }
+          ]
+        },
+        {
+          "idSeance": 92803,
+          "ordre": 1,
+          "dateHeure": "2023-03-17T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2943,
+          "idEvenement": 27490,
+          "typeEvenement": 13,
+          "idFilm": 34216,
+          "titre": "Cash-cash",
+          "titreVo": "Finders Keepers",
+          "realisateurs": "Richard Lester",
+          "annee": 1984,
+          "pays": "États-Unis",
+          "duree": 96,
+          "version": "",
+          "format": "35 mm",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Plusieurs personnages pittoresques et loufoques se lancent à la poursuite d'un magot de 5 millions de dollars."
             }
           ]
         },
@@ -65,13 +92,15 @@
           ]
         },
         {
-          "idSeance": 92734,
+          "idSeance": 92802,
           "ordre": 1,
-          "dateHeure": "2023-03-17T17:30:00",
+          "dateHeure": "2023-03-23T21:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 92798,
           "idCategorie": 2943,
           "idEvenement": 27491,
           "typeEvenement": 13,
@@ -130,37 +159,6 @@
           "idSeance": 92759,
           "ordre": 1,
           "dateHeure": "2023-03-29T20:45:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2943,
-          "idEvenement": 27489,
-          "typeEvenement": 13,
-          "idFilm": 57348,
-          "titre": "Cuba",
-          "realisateurs": "Richard Lester",
-          "annee": 1978,
-          "pays": "États-Unis",
-          "duree": 122,
-          "version": "VO",
-          "format": "35 mm",
-          "generique": [
-            "Sean Connery",
-            "Brooke Adams",
-            "Jack Weston"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Pendant la révolution cubaine, en 1958, un mercenaire anglais combat la guérilla et retrouve une ancienne maîtresse dont il est toujours amoureux."
-            }
-          ]
-        },
-        {
-          "idSeance": 91203,
-          "ordre": 1,
-          "dateHeure": "2023-04-12T18:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -345,39 +343,6 @@
           ]
         },
         {
-          "idSeance": 92597,
-          "ordre": 1,
-          "dateHeure": "2023-04-20T16:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2943,
-          "idEvenement": 27487,
-          "typeEvenement": 13,
-          "idFilm": 34742,
-          "art": "Les",
-          "titre": "Joyeux débuts de Butch Cassidy et le Kid",
-          "titreVo": "Butch and Sundance : The Early Years",
-          "realisateurs": "Richard Lester",
-          "annee": 1979,
-          "pays": "États-Unis",
-          "duree": 111,
-          "version": "VO",
-          "format": "35 mm",
-          "generique": [
-            "Tom Berenger",
-            "William Katt",
-            "Jeff Corey"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Butch Cassidy, libéré de prison, rencontre dans un saloon celui qui sera son compagnon de galère, Sundance Kid. Ils s'associent et commettent plusieurs délits, recherchés par le shérif Bledsoe."
-            }
-          ]
-        },
-        {
           "idSeance": 92755,
           "ordre": 2,
           "dateHeure": "2023-03-26T19:15:00",
@@ -447,6 +412,38 @@
           ]
         },
         {
+          "idSeance": 92816,
+          "ordre": 1,
+          "dateHeure": "2023-03-25T20:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2943,
+          "idEvenement": 27495,
+          "typeEvenement": 13,
+          "idFilm": 34225,
+          "titre": "Petulia",
+          "realisateurs": "Richard Lester",
+          "annee": 1967,
+          "pays": "États-Unis-Grande-Bretagne",
+          "duree": 103,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Joseph Cotten",
+            "Julie Christie",
+            "George C. Scott"
+          ],
+          "adaptation": "D'après le roman _Me and the Arch Kook Petulia_ de John Haase.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au cours d'une soirée de charité, le Dr Archie Bollen rencontre Petulia, une très belle femme mariée. Ils passent la nuit ensemble. C'est le début d'une liaison extravagante qui va bouleverser la vie d'Archie."
+            }
+          ]
+        },
+        {
           "idSeance": 92758,
           "ordre": 1,
           "dateHeure": "2023-03-31T18:30:00",
@@ -486,6 +483,7 @@
             "HL",
             "Henri Langlois"
           ],
+          "typeAssoc": 118,
           "idCategorie": 2943,
           "idEvenement": 27496,
           "typeEvenement": 13,
@@ -670,38 +668,6 @@
           ]
         },
         {
-          "idSeance": 92595,
-          "ordre": 1,
-          "dateHeure": "2023-04-13T17:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2943,
-          "idEvenement": 27503,
-          "typeEvenement": 13,
-          "idFilm": 41511,
-          "titre": "Royal Flash",
-          "realisateurs": "Richard Lester",
-          "annee": 1974,
-          "pays": "Grande-Bretagne",
-          "duree": 102,
-          "version": "VOSTF",
-          "format": "",
-          "generique": [
-            "Malcolm McDowell",
-            "Alan Bates",
-            "Florinda Bolkan",
-            "Oliver Reed"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Au XIXe siècle, les aventures diplomatiques et sentimentales d'une jeune officier, poltron et débauché, à la cour du Roi de Prusse."
-            }
-          ]
-        },
-        {
           "idSeance": 92755,
           "ordre": 1,
           "dateHeure": "2023-03-26T19:15:00",
@@ -793,9 +759,9 @@
           ]
         },
         {
-          "idSeance": 92743,
+          "idSeance": 92804,
           "ordre": 1,
-          "dateHeure": "2023-03-23T18:00:00",
+          "dateHeure": "2023-03-30T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -820,9 +786,9 @@
           ]
         },
         {
-          "idSeance": 92744,
+          "idSeance": 92805,
           "ordre": 1,
-          "dateHeure": "2023-03-23T20:45:00",
+          "dateHeure": "2023-03-30T20:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -883,9 +849,9 @@
           ]
         },
         {
-          "idSeance": 92596,
+          "idSeance": 92817,
           "ordre": 1,
-          "dateHeure": "2023-04-14T16:00:00",
+          "dateHeure": "2023-03-31T16:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1015,6 +981,50 @@
               "texte": "Après une guerre nucléaire ultra-rapide, il ne reste que vingt survivants dans les décombres de ce qui fut notre planète."
             }
           ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 92798,
+          "dateHeure": "2023-03-23T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 92802,
+          "idCategorie": 2960,
+          "idEvenement": 27688,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Conférence de Leo Soesanto",
+          "sousTitre": "Conférence ",
+          "duree": 90,
+          "textes": []
+        },
+        {
+          "idSeance": 92748,
+          "ordre": 2,
+          "dateHeure": "2023-03-25T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 2960,
+          "idEvenement": 27689,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Michka Assayas",
+          "duree": 90,
+          "textes": []
         }
       ],
       "textes": []

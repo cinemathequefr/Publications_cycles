@@ -74,7 +74,7 @@
 
 ## Cinéma bis (19)
 
-  * Bagarre à Bagdad pour X 27  
+  * Bagarre à Bagdad pour X-27  
   * Ça casse à Caracas  
   * Contre-espionnage  
   * Espion du diable (L')  

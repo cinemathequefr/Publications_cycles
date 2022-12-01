@@ -21,19 +21,29 @@
   * Sursis (Le)  
   * Train de nuit pour Munich
 
-## Hugo Fregonese (11)
+## Hugo Fregonese (21)
 
   * Affaire de Buenos Aires (L')  
+  * Cavaliers rouges (Les)  
   * De hombre a hombre  
   * Donde mueren las palabras  
   * Dracula contre Frankenstein  
   * Étrange M. Slade (L')  
+  * Harry Black et le tigre  
   * Impasse maudite (L')  
+  * Marco Polo  
+  * Mardi ça saignera  
+  * Mes six forçats  
   * Mission spéciale au Deuxième Bureau  
+  * Pages galantes de Boccace  
+  * Pampa sauvage (La)  
   * Passage interdit  
   * Quand les tambours s'arrêteront  
   * Raid (The)  
-  * Souffle sauvage (Le)
+  * Sept tonnerres (Les)  
+  * Signe des rénégats (Le)  
+  * Souffle sauvage (Le)  
+  * Vagabond et les lutins (Le)
 
 ## L'image des plaisirs (9)
 
@@ -47,7 +57,7 @@
   * Memory Slot – Track 1  
   * Passing Strangers
 
-## La science-fiction en 25 films indispensables (23)
+## La science-fiction en 25 films indispensables (25)
 
   * 2001 : L'Odyssée de l'espace  
   * Abyss  
@@ -55,6 +65,7 @@
   * Aelita  
   * Alien  
   * Alphaville, une étrange aventure de Lemmy Caution  
+  * Blade Runner (Final Cut)  
   * Chose (La)  
   * Gravity  
   * Invasion des profanateurs de sépultures (L')  
@@ -66,6 +77,7 @@
   * Mondwest  
   * Monstre (Le)  
   * Monstres de l'espace (Les)  
+  * Mystère Andromède (Le)  
   * Rencontres du troisième type  
   * Silent Running  
   * Solaris  
@@ -213,6 +225,7 @@
   * Casablanca  
   * Charge de la brigade légère (La)  
   * Chercheuses d'or  
+  * Échec à la Gestapo  
   * En scène  
   * Ennemi public (L')  
   * Faucon maltais (Le)  
@@ -223,7 +236,6 @@
   * Grand sommeil (Le)  
   * Griffes jaunes  
   * Guerre ou crime  
-  * Impossible amour (L')  
   * Intruse (L')  
   * Légion noire (La)  
   * Lettre (La)  

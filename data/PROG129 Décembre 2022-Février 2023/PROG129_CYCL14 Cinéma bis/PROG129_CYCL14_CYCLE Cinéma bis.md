@@ -48,11 +48,11 @@ Un sorcier lance une malédiction sur un groupe de villageois. Des années plus 
 ## Eurospy excentrique
 
 [58559]  
-**Bagarre à Bagdad pour X 27**  
+**Bagarre à Bagdad pour X-27**  
 **(Il Gioco delle spie)**  
 de Paolo Bianchini  
 Italie-France / 1966 / 84 min / VF / 35 mm  
-Avec Roger Hanin, Rory Calhoun, Jean Gaven.  
+Avec Roger Hanin, Rory Calhoun, Jean Gaven, Evi Marandi.  
 Les États-Unis passent un contrat secret avec un pays du Moyen-Orient : la vente d'armes en échange de droits exclusifs sur des ressources pétrolières. L'URSS décide de voler le document pour intercepter le navire concerné.
 
 - ve 23 déc 19h00 GF
