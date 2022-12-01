@@ -21,7 +21,6 @@ de Michael Curtiz
 Avec Leslie Howard, Kay Francis, Cesar Romero.  
 Stephen Locke, jeune agent britannique, sauve la vie d'Elena, jeune aristocrate russe engagée. Une romance nait, semée de trouble quand Elena apprend que Stephen est recherché pour ses activités d'espion.
 
-- di 9 avr 19h00 HL  
 - ve 12 mai 16h00 GF
 
 [31357]  
@@ -53,7 +52,7 @@ de Lloyd Bacon
 Avec Dick Powell, Al Jolson, Kay Francis.  
 Dans un cabaret parisien, Harry, un danseur, flirte dangereusement avec une riche cliente, Madame Renaud. Séduite, cette dernière va alors lui offrir un bijou de sa collection personnelle.
 
-- sa 8 avr 19h30 HL
+- di 9 avr 19h00 HL
 
 [81305]  
 **Blondie Johnson**  
@@ -221,6 +220,17 @@ Al Kruger, chef d'un gang, et son bras droit, Nick Fenner, sèment la terreur en
 
 - me 26 avr 19h15 GF
 
+[36726]  
+**L'Impossible amour**  
+**(Old Acquaintance)**  
+de Vincent Sherman  
+États-Unis / 1942 / 110 min / VOSTF / 35 mm  
+D'après la pièce _Old acquaintance_ de John Van Druten.  
+Avec Bette Davis, Miriam Hopkins, Gig Young.  
+Kit Marlowe, romancière confirmée, fait publier le roman de son amie d'enfance Millie Drake, qui devient un best seller. Devenue un auteur à succès, Millie ne se rend pas compte que son mari Preston se détache d'elle et tombe amoureux de Kit.
+
+- sa 8 avr 19h30 HL
+
 [32832]  
 **L'Intruse**  
 **(Dangerous)**  
@@ -300,7 +310,7 @@ de Roy Del Ruth
 États-Unis / 1933  
 Avec Edward G. Robinson, Mary Astor.
 
-- sa 8 avr 17h30 HL
+- sa 8 avr 17h15 HL
 
 [30524]  
 **Prologue**  

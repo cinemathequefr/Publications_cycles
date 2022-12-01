@@ -6,7 +6,7 @@
 **Courrier diplomatique**  
 **(Diplomatic Courier)**  
 de Henry Hathaway  
-États-Unis / 1951 / 97 min / VOSTF / 16 mm  
+États-Unis / 1952 / 97 min / VOSTF / 16 mm  
 D'après le roman _Sinister Errand_ de Peter Cheyney.  
 Avec Tyrone Power, Patricia Neal, Lee Marvin, Karl Malden.  
 Pendant la guerre froide, un émissaire diplomatique du gouvernement américain se retrouve impliqué dans une histoire d'espionnage alors qu'il est envoyé à Trieste.
@@ -17,7 +17,7 @@ Pendant la guerre froide, un émissaire diplomatique du gouvernement américain 
 **Danger immédiat**  
 **(Clear and Present Danger)**  
 de Phillip Noyce  
-États-Unis / 1993 / 141 min / VOSTF / DCP  
+États-Unis / 1994 / 141 min / VOSTF / DCP  
 D'après le roman _Danger immédiat_ de Tom Clancy.  
 Avec Harrison Ford, Willem Dafoe, Anne Archer, Joaquim de Almeida.  
 Après l'assassinat d'un proche du président des États-Unis qui blanchissait de l'argent pour le cartel de la drogue colombien, Jack Ryan, analyste à la CIA, fait son grand retour.
@@ -25,7 +25,7 @@ Après l'assassinat d'un proche du président des États-Unis qui blanchissait d
 - di 23 avr 14h30 HL
 
 [42907]  
-**Le Dossier ODESSA**  
+**Le Dossier Odessa**  
 **(The Odessa File)**  
 de Ronald Neame  
 Grande-Bretagne-RFA / 1974 / 130 min / VOSTF / 35 mm  
@@ -59,9 +59,9 @@ Le capitaine d'un sous-marin allemand accepte le rôle déshonorant de recueilli
 [106772]  
 **Espion(s)**  
 de Nicolas Saada  
-France / 2007 / 99 min / 35 mm  
+France / 2009 / 99 min / 35 mm  
 Avec Guillaume Canet, Géraldine Pailhas, Stephen Rea, Hippolyte Girardot.  
-Vincent travaille comme bagagiste dans un aéroport. Avec son collègue Gérard, il a l'habitude de voler dans les valises avant leur embarquement en soute. Alors qu'il fouille un bagage diplomatique, Gérard meurt brutalement à la suite d'une explosion.
+Vincent et Gérard, bagagistes dans un aéroport, volent dans les bagages avant leur embarquement en soute. Lorsque Gérard meurt dans l'explosion de la valise diplomatique qu'il était en train de fouiller, Vincent surprend son propriétaire en train de récupérer le bagage.
 
 - sa 18 mar 14h30 HL
 
@@ -69,8 +69,8 @@ Vincent travaille comme bagagiste dans un aéroport. Avec son collègue Gérard,
 **Les Espions s'amusent**  
 **(Jet Pilot)**  
 de Josef von Sternberg  
-États-Unis / 1949 / 112 min / VOSTF / 35 mm  
-Avec John Wayne, Janet Leigh, Mamie Van Doren.  
+États-Unis / 1957 / 112 min / VOSTF / 35 mm  
+Avec John Wayne, Janet Leigh, Jay C. Flippen, Paul Fix.  
 Un avion de chasse soviétique atterrit sur une base américaine en Alaska. À la stupeur générale, le pilote qui en descend est une femme. En attendant d'être renvoyée en URSS, elle est surveillée par le colonel Shannon, qui tombe amoureux d'elle.
 
 - sa 22 avr 15h00 GF
@@ -99,9 +99,9 @@ Avec Elizabeth Taylor, Robert Taylor, Honor Blackman.
 **L'Homme qui en savait trop**  
 **(The Man Who Knew Too Much)**  
 d'Alfred Hitchcock  
-États-Unis / 1955 / 120 min / VOSTF / 35 mm  
+États-Unis / 1956 / 120 min / VOSTF / 35 mm  
 Avec James Stewart, Doris Day, Daniel Gélin.  
-Les McKenna, en vacances au Maroc, rencontrent un français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, la fille McKenna est enlevée.
+Les McKenna, un couple d'Américains et leur petit garçon, en vacances au Maroc, rencontrent un français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, le fils des McKenna est kidnappé.
 
 - di 19 mar 14h30 HL
 
@@ -109,9 +109,9 @@ Les McKenna, en vacances au Maroc, rencontrent un français qui meurt poignardé
 **L'Homme qui n'a jamais existé**  
 **(The Man Who Never Was)**  
 de Ronald Neame  
-Grande-Bretagne-États-Unis / 1955 / 103 min / VOSTF  
+Grande-Bretagne-États-Unis / 1956 / 103 min / VOSTF  
 Avec Clifton Webb, Gloria Grahame, Robert Flemyng, Cyril Cusack.  
-Pour préparer leur débarquement en Sicile, les Alliés cherchent à tromper l'ennemi : le cadavre d'un officier britannique est retrouvé sur une plage espagnole, avec des documents évoquant un faux projet en Sardaigne et dans les Balkans.
+Pour préparer leur débarquement en Sicile, les Alliés cherchent à tromper l'ennemi : le cadavre d'un officier britannique est retrouvé sur une plage espagnole avec des documents évoquant un faux projet en Sardaigne et dans les Balkans.
 
 - sa 8 avr 14h30 GF
 
@@ -120,7 +120,7 @@ Pour préparer leur débarquement en Sicile, les Alliés cherchent à tromper l'
 **(The Falcon and the Snowman)**  
 de John Schlesinger  
 Grande-Bretagne / 1985 / 131 min / VOSTF / 35 mm  
-D'après le roman_ The Falcon and the Snowman: A True Story of Friendship and Espionage_ de Robert Lindsey.  
+D'après le récit _The Falcon and the Snowman: A True Story of Friendship and Espionage_ de Robert Lindsey.  
 Avec Timothy Hutton, Sean Penn, David Suchet, Richard Dysart.  
 Grâce à son père, le jeune Christopher Boyce trouve un emploi dans une grosse entreprise sous contrat avec les services de renseignement. Lorsqu'il découvre qu'il a accès à des informations classifiées sur les opérations secrètes des États-Unis à l'étranger, il s'associe avec son ami d'enfance Andrew Daulton Lee pour les monnayer auprès de l'Union soviétique.
 
@@ -130,7 +130,7 @@ Grâce à son père, le jeune Christopher Boyce trouve un emploi dans une grosse
 **Maldonne pour un espion**  
 **(A Dandy in Aspic)**  
 d'Anthony Mann  
-Grande-Bretagne / 1967 / 110 min / VOSTF / 35 mm  
+Grande-Bretagne / 1968 / 110 min / VOSTF / 35 mm  
 D'après le roman _A Dandy in Aspic_ de Derek Marlowe.  
 Avec Laurence Harvey, Tom Courtenay, Mia Farrow.  
 Un agent double russe, qui se fait passer pour un espion britannique depuis dix-huit ans, voudrait démissionner, mais ses supérieurs refusent. Sa tâche se complique lorsqu'il est chargé d'éliminer l'un de ses compatriotes.
@@ -149,9 +149,9 @@ Harry Palmer, un agent de l'Intelligence Service, est chargé d'une nouvelle mis
 - di 9 avr 14h30 HL
 
 [60432]  
-**Mission : Impossible**  
+**Mission: Impossible**  
 de Brian De Palma  
-États-Unis / 1995 / 110 min / VOSTF / 35 mm  
+États-Unis / 1996 / 110 min / VOSTF / 35 mm  
 Avec Tom Cruise, Jon Voight, Emmanuelle Béart.  
 Un agent secret réunit ses meilleurs éléments pour une nouvelle mission à Prague. Mais l'opération échoue et il assiste, impuissant, à la disparition de tous les membres de son équipe.
 
@@ -180,10 +180,10 @@ Un commando anglais, dirigé par le major John Smith, est chargé de délivrer d
 
 [41630]  
 **Quatre de l'espionnage**  
-**(The Secret Agent)**  
+**(Secret Agent)**  
 d'Alfred Hitchcock  
 Grande-Bretagne / 1936 / 83 min / VOSTF / 35 mm  
-D'après les nouvelles _Ashenden_, _The Traitor_ et _The Hairless Mexican_ de William Somerset Maugham.  
+D'après les nouvelles _The Traitor_ et _The Hairless Mexican_ de William Somerset Maugham.  
 Avec Madeleine Carroll, John Gielgud, Peter Lorre, Robert Young.  
 En 1916, un célèbre romancier britannique s'engage dans les services secrets. Il est envoyé en Suisse en compagnie de deux autres espions, mais leur contact est assassiné avant même d'avoir pu leur parler.
 
@@ -193,10 +193,10 @@ En 1916, un célèbre romancier britannique s'engage dans les services secrets. 
 **La Taupe**  
 **(Tinker Tailor Soldier Spy)**  
 de Tomas Alfredson  
-Grande-Bretagne-France-Allemagne / 2010 / 127 min / VOSTF / DCP  
+Grande-Bretagne-France-Allemagne / 2011 / 127 min / VOSTF / DCP  
 D'après le roman _La Taupe_ de John le Carré.  
 Avec Gary Oldman, Colin Firth, Tom Hardy.  
-Dans les jours les plus sombres de la guerre froide, George Smiley, espion vétéran, sort de la retraite pour démasquer une taupe soviétique au sein du MI6.
+Aux jours les plus sombres de la guerre froide, George Smiley, espion vétéran, sort de sa retraite pour démasquer une taupe soviétique au sein du MI6.
 
 - sa 6 mai 18h30 HL
 
@@ -204,20 +204,19 @@ Dans les jours les plus sombres de la guerre froide, George Smiley, espion vét�
 **Le Traître**  
 **(Decision Before Dawn)**  
 d'Anatole Litvak  
-États-Unis / 1950 / 119 min / VOSTF / 35 mm  
-D'après le roman _Call it Treason_ de George Howe.  
+États-Unis / 1951 / 119 min / VOSTF / 35 mm  
+D'après le roman _Call It Treason_ de George Howe.  
 Avec Oskar Werner, Richard Basehart, Gary Merrill.  
-La Seconde Guerre mondiale touche à sa fin. Un jeune Allemand accepte de trahir les siens, pour tenter de mettre fin aux exactions commises par les nazis.
+La Seconde Guerre mondiale touche à sa fin. Un jeune Allemand accepte de trahir les siens pour tenter de mettre fin aux exactions commises par les nazis.
 
 - di 16 avr 14h30 GF
 
 [59914]  
-**True Lies – Le caméléon**  
-**(True Lies)**  
+**True Lies**  
 de James Cameron  
-États-Unis / 1993 / 141 min / VOSTF / 35 mm  
+États-Unis / 1994 / 141 min / VOSTF / 35 mm  
 Avec Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold.  
-Depuis 15 ans, Harry Tasker mène une double vie. Pour sa femme, il est un banal représentant en informatique, et pour le gouvernement américain, un espion d'élite spécialiste de la lutte anti-terroriste.
+Depuis 15 ans, Harry Tasker mène une double vie. Pour sa femme, il est un banal représentant en informatique, et pour le gouvernement américain, un espion d'élite spécialiste de la lutte antiterroriste.
 
 - di 30 avr 14h30 HL
 

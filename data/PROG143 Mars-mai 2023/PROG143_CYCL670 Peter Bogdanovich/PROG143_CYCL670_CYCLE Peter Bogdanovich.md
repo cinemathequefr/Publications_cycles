@@ -26,7 +26,7 @@ Un metteur en scène de Broadway marié tombe amoureux d'une ancienne prostitué
 **Bruits de coulisses**  
 **(Noises Off)**  
 de Peter Bogdanovich  
-États-Unis / 1991 / 103 min / VOSTF / 35 mm  
+États-Unis / 1992 / 103 min / VOSTF / 35 mm  
 D'après la pièce de théâtre _Noises Off_ de Michael Frayn.  
 Avec Michael Caine, Christopher Reeve, Marilu Henner.  
 Le directeur d'une compagnie théâtrale rencontre des difficultés avec sa dernière production. La pièce est un désastre, et ce qui se passe en coulisses est catastrophique.
@@ -37,9 +37,9 @@ Le directeur d'une compagnie théâtrale rencontre des difficultés avec sa dern
 **La Cible**  
 **(Targets)**  
 de Peter Bogdanovich  
-États-Unis / 1971 / VOSTF / 35 mm  
+États-Unis / 1968 / VOSTF / 35 mm  
 Avec Boris Karloff, Tim O'Kelly, Arthur Peterson, Peter Bogdanovich.  
-Tandis que l'acteur Byron Orlok annonce sa retraite au grand désespoir du réalisateur Sammy Michaels, un jeune homme, vétéran du Vietnam et assureur, se prépare à commettre une série de meurtres.
+Tandis que l'acteur Byron Orlok annonce sa retraite au grand désespoir du réalisateur Sammy Michaels, un jeune homme, assureur et vétéran du Vietnam, se prépare à commettre une série de meurtres.
 
 - me 12 avr 20h00 HL  
 Ouverture de la rétrospective
@@ -47,10 +47,10 @@ Ouverture de la rétrospective
 [128006]  
 **Daisy Miller**  
 de Peter Bogdanovich  
-États-Unis / 1973 / 91 min / VOSTF / Numérique  
+États-Unis / 1974 / 91 min / VOSTF / Numérique  
 D'après le roman _Daisy Miller_ de Henry James.  
 Avec Cybill Shepherd, Barry Brown, Cloris Leachman.  
-Lors d'un séjour en suisse pour une cure thermale, Daisy Miller fait la connaissance d'un jeune aristocrate américain expatrié.
+Lors d'un séjour en Suisse pour une cure thermale, Daisy Miller fait la connaissance d'un jeune aristocrate américain expatrié.
 
 - je 13 avr 20h00 HL
 
@@ -58,7 +58,8 @@ Lors d'un séjour en suisse pour une cure thermale, Daisy Miller fait la connais
 **La Dernière Séance**  
 **(The Last Picture Show)**  
 de Peter Bogdanovich  
-États-Unis / 1970 / 126 min / VOSTF / DCP  
+États-Unis / 1971 / 126 min / VOSTF / DCP  
+D'après le roman _La Dernière séance_ de Larry McMurtry.  
 Avec Jeff Bridges, Ben Johnson, Ellen Burstyn, Timothy Bottoms, Cybil Shepherd.  
 Le portrait de la jeunesse d'Anarene, une petite ville du Nord du Texas, en 1951.
 
@@ -69,7 +70,7 @@ Le portrait de la jeunesse d'Anarene, une petite ville du Nord du Texas, en 1951
 **Enfin l'amour**  
 **(At Long Last Love)**  
 de Peter Bogdanovich  
-États-Unis / 1974 / 123 min / VOSTF / DCP  
+États-Unis / 1975 / 123 min / VOSTF / DCP  
 Avec Burt Reynolds, Cybill Shepherd, Madeline Kahn, Duilio Del Prete.  
 Un millionnaire tombe amoureux d'une chanteuse, une jeune femme rencontre un joueur italien : tous les quatre s'apprivoisent, se mettent en couple, puis se séparent et s'aiment enfin.
 
@@ -82,24 +83,15 @@ Un millionnaire tombe amoureux d'une chanteuse, une jeune femme rencontre un jou
 de Peter Bogdanovich  
 États-Unis / 1981 / 115 min / VOSTF / 35 mm  
 Avec Audrey Hepburn, Ben Gazzara, John Ritter.  
-Léon Leondopolous est le patron d'une agence de détectives, dont la principale mission est de filer les femmes des maris jaloux.
+Leon Leondopolous est le patron d'une agence de détectives dont la principale mission est de filer les femmes des maris jaloux.
 
 - ve 14 avr 20h30 HL
-
-[146195]  
-**The Great Buster**  
-de Peter Bogdanovich  
-États-Unis / 2018 / 102 min / VOSTF / Numérique  
-Avec Buster Keaton, Peter Bogdanovich, Dick Van Dyke, Carl Reiner.  
-Documentaire sur la vie et l'œuvre de Buster Keaton.
-
-- sa 22 avr 17h30 GF
 
 [143416]  
 **Illégalement vôtre**  
 **(Illegally Yours)**  
 de Peter Bogdanovich  
-États-Unis / 1987 / 102 min / VOSTF / Vidéo  
+États-Unis / 1988 / 102 min / VOSTF / Vidéo  
 Avec Rob Lowe, Colleen Camp, Kenneth Mars.  
 Richard Dice est appelé pour faire partie d'un jury lors d'un procès pour meurtre. L'accusée n'est autre que son premier amour.
 
@@ -110,9 +102,9 @@ Richard Dice est appelé pour faire partie d'un jury lors d'un procès pour meur
 **(Saint Jack)**  
 de Peter Bogdanovich  
 États-Unis / 1979 / 112 min / VOSTF / Numérique  
-D'après la nouvelle _Saint Jack_ de Paul Theroux.  
+D'après le roman _Saint Jack_ de Paul Theroux.  
 Avec Ben Gazzara, Peter Bogdanovich, George Lazenby.  
-Dans les années 1970, Jack Flowers ouvre un bordel à Singapour où il espère faire fortune. La réalité de la guerre du Vietnam le rattrape quand la CIA lui propose d'ouvrir un établissement réservé aux soldats en permission.
+Au début des années 1970, Jack Flowers ouvre un bordel à Singapour où il espère faire fortune. La réalité de la guerre du Vietnam le rattrape quand la CIA lui propose d'ouvrir un établissement réservé aux soldats en permission.
 
 - sa 22 avr 14h30 HL
 
@@ -140,7 +132,7 @@ Avec Sandra Bullock, River Phoenix, Cybill Shepherd.
 de Peter Bogdanovich  
 États-Unis-Grande-Bretagne / 1976 / 121 min / VOSTF / Numérique  
 Avec Ryan O'Neal, Burt Reynolds, Stella Stevens.  
-À travers le destin de quatre jeunes gens, évocation de l'histoire du Nickelodeon, l'ancêtre du cinéma.
+À travers le destin de quatre jeunes gens, évocation de l'histoire du _nickelodeon_, l'ancêtre de la salle de cinéma.
 
 - sa 15 avr 20h45 HL
 
@@ -148,9 +140,9 @@ Avec Ryan O'Neal, Burt Reynolds, Stella Stevens.
 **On s'fait la valise, docteur ?**  
 **(What's Up, Doc?)**  
 de Peter Bogdanovich  
-États-Unis / 1971 / 94 min / VOSTF / 35 mm  
+États-Unis / 1972 / 94 min / VOSTF / 35 mm  
 Avec Barbra Streisand, Ryan O'Neal, Madeline Kahn.  
-Judy Maxwell, Howard Bannister, Mme Van Hoskins et Mr Smith descendent dans le même hôtel de San Francisco où va se tenir un congrès de musicologie. Mais tous les quatre ont une valise identique.
+Judy Maxwell, Howard Bannister, Mrs. Van Hoskins et Mr. Smith descendent dans le même hôtel de San Francisco où va se tenir un congrès de musicologie. Et tous les quatre ont une valise identique.
 
 - je 13 avr 18h00 HL
 
@@ -170,15 +162,24 @@ de Peter Bogdanovich
 États-Unis / 1989 / 125 min / VOSTF / 35 mm  
 D'après le roman _Texasville_ de Larry McMurtry.  
 Avec Jeff Bridges, Cybill Shepherd, Harvey Christiansen.  
-Suite de _La Dernière séance_ : trente-cinq ans plus tard, le petit bourg perdu du nord du Texas fête son centenaire.
+Suite de _La Dernière séance_ : trente-trois ans plus tard, le petit bourg perdu du Nord du Texas fête son centenaire.
 
 - je 20 avr 16h30 GF
+
+[146195]  
+**The The Great Buster: A Celebration**  
+de Peter Bogdanovich  
+États-Unis / 2018 / 102 min / VOSTF / Numérique  
+Avec Buster Keaton, Peter Bogdanovich, Dick Van Dyke, Carl Reiner.  
+Documentaire sur la vie et l'œuvre de Buster Keaton.
+
+- sa 22 avr 17h30 GF
 
 [92637]  
 **Un parfum de meurtre**  
 **(The Cat's Meow)**  
 de Peter Bogdanovich  
-Grande-Bretagne-Allemagne-États-Unis / 2000 / 114 min / VOSTF / 35 mm  
+Grande-Bretagne-Allemagne-États-Unis / 2001 / 114 min / VOSTF / 35 mm  
 Avec Kirsten Dunst, Cary Elwes, Edward Herrmann.  
 À la fin des années 1920, le magnat de la presse William Randolph Hearst invite Charlie Chaplin sur son yacht pour une croisière. Découvrant que Marion Davies, sa maîtresse, le trompe avec l'acteur, Hearst tente d'assassiner l'interprète de Charlot.
 
@@ -190,7 +191,7 @@ de Peter Bogdanovich
 États-Unis / 1968 / 78 min / Vidéo  
 Avec Mamie Van Doren, Mary Marr, Paige Lee.  
 Des astronautes atterrissent sur Vénus, y affrontent des créatures dangereuses et y rencontrent de séduisantes vénusiennes.  
-Remontage d'un film de science fiction soviétique (_La Planète des empêtes_) par les producteurs de Roger Corman, augmenté de séquences avec des acteurs américains.
+Remontage d'un film de science-fiction soviétique (_La Planète des tempêtes_) par les producteurs de Roger Corman, augmenté de séquences avec des acteurs américains.
 
 - di 23 avr 17h00 GF
 

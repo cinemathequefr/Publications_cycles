@@ -12,7 +12,7 @@
 
 ## Cinéma bis (8)
 
-  * Atout cœur à Tokyo pour O.S.S. 117  
+  * Atout cœur à Tokyo pour OSS 117  
   * Carré de dames pour un as  
   * Coup de force à Berlin  
   * F.B.I. contre Lotus Bleu  
@@ -89,7 +89,7 @@
 
   * Courrier diplomatique  
   * Danger immédiat  
-  * Dossier ODESSA (Le)  
+  * Dossier Odessa (Le)  
   * Espion noir (L')  
   * Espion(s)  
   * Espions s'amusent (Les)  
@@ -100,13 +100,13 @@
   * Jeu du faucon (Le)  
   * Maldonne pour un espion  
   * Mes funérailles à Berlin  
-  * Mission : Impossible  
+  * Mission: Impossible  
   * Patriotes (Les)  
   * Quand les aigles attaquent  
   * Quatre de l'espionnage  
   * Taupe (La)  
   * Traître (Le)  
-  * True Lies – Le caméléon  
+  * True Lies  
   * Tueur d'élite
 
 ## Mario Monicelli (46)
@@ -175,7 +175,6 @@
   * Dernière Séance (La)  
   * Enfin l'amour  
   * Et tout le monde riait  
-  * Great Buster (The)  
   * Illégalement vôtre  
   * Jack le magnifique  
   * Mask  
@@ -184,6 +183,7 @@
   * On s'fait la valise, docteur ?  
   * Réalisé par John Ford  
   * Texasville  
+  * The Great Buster: A Celebration (The)  
   * Un parfum de meurtre  
   * Voyage to the Planet of Prehistoric Women
 
@@ -213,7 +213,7 @@
   * Trois mousquetaires (Les)  
   * Ultime garconnière (L')
 
-## Warner Bros., fabrique de stars (37)
+## Warner Bros., fabrique de stars (38)
 
   * A chaque aube je meurs  
   * Agent britannique  
@@ -236,6 +236,7 @@
   * Grand sommeil (Le)  
   * Griffes jaunes  
   * Guerre ou crime  
+  * Impossible amour (L')  
   * Intruse (L')  
   * Légion noire (La)  
   * Lettre (La)  

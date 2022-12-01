@@ -12,12 +12,12 @@ Responsable de la destruction d'un réseau français, Hakim Gregory est recherch
 - ve 31 mar 19h00 GF
 
 [46694]  
-**Atout cœur à Tokyo pour O.S.S. 117**  
+**Atout cœur à Tokyo pour OSS 117**  
 de Michel Boisrond  
 France-Italie / 1966 / 90 min / DCP  
-D'après le roman _Atout cœur à Tokyo pour O.S.S. 117_ de Jean Bruce.  
+D'après le roman _Atout cœur à Tokyo_ de Jean Bruce.  
 Avec Frederick Stafford, Marina Vlady, Henri Serre.  
-L'agent OSS 117, alias Hubert Bonisseur de la Bath, enquête sur l'explosion d'une base américaine du pacifique. À Tokyo, il rencontre Eva Wilson et ne tarde pas à découvrir ses liens étroits avec l'attentat.
+L'agent OSS 117, alias Hubert Bonisseur de La Bath, enquête sur l'explosion d'une base américaine du Pacifique. À Tokyo, il rencontre Eva Wilson et ne tarde pas à découvrir ses liens étroits avec l'attentat.
 
 - ve 31 mar 21h00 GF
 

@@ -5,29 +5,32 @@ Conférence Robert Richardson. Conférence
 
 ## me 15 mars
 
-**20h00 HL Hugo Fregonese**  
+**20h00 HL Richard Lester**  
 **Ouverture de la rétrospective**  
-The Raid (Hugo Fregonese, 1954)
+La Rose et la flèche (Richard Lester, 1975)
 
 ## je 16 mars
 
-**18h30 GF Hugo Fregonese**  
-Donde mueren las palabras (Hugo Fregonese, 1946)
+**18h30 GF Richard Lester**  
+It's Trad, Dad ! (Richard Lester, 1962)
 
 **20h00 HL La science-fiction en 25 films indispensables**  
 **Ouverture de la rétrospective**  
 Abyss (James Cameron, 1989)
 
-**20h30 GF Hugo Fregonese**  
-L'Affaire de Buenos Aires (Hugo Fregonese, 1949)
+**20h30 GF Richard Lester**  
+La Souris sur la lune (Richard Lester, 1962)
 
 ## ve 17 mars
+
+**17h30 GF Richard Lester**  
+Cash-cash (Richard Lester, 1984)
 
 **18h00 HL La science-fiction en 25 films indispensables**  
 Starman (John Carpenter, 1984)
 
-**19h00 GF Hugo Fregonese**  
-Conférence Ehsan Koshbakht. Conférence 
+**20h00 GF Richard Lester**  
+L'Ultime garconnière (Richard Lester, 1969)
 
 **20h30 HL La science-fiction en 25 films indispensables**  
 Alien (Ridley Scott, 1978)
@@ -37,8 +40,8 @@ Alien (Ridley Scott, 1978)
 **14h30 HL Le cinéma d'espionnage (3e partie)**  
 Espion(s) (Nicolas Saada, 2007)
 
-**15h00 GF Hugo Fregonese**  
-Le Signe des rénégats (Hugo Fregonese, 1951)
+**15h00 GF Richard Lester**  
+The Ritz (Richard Lester, 1976)
 
 **16h15 HL Le cinéma d'espionnage (3e partie)**  
 Dialogue avec Nicolas Saada. Conférence 
@@ -46,14 +49,14 @@ Dialogue avec Nicolas Saada. Conférence
 **17h00 GF La science-fiction en 25 films indispensables**  
 Aelita (Yakov Protazanov, 1924)
 
-**18h00 HL Hugo Fregonese**  
-Mardi ça saignera (Hugo Fregonese, 1954)
+**18h15 HL Richard Lester**  
+Les Trois mousquetaires (Richard Lester, 1973)
 
 **19h30 GF La science-fiction en 25 films indispensables**  
 Je t'aime, je t'aime (Alain Resnais, 1967)
 
-**20h00 HL Hugo Fregonese**  
-Mes six forçats (Hugo Fregonese, 1952)
+**20h30 HL Richard Lester**  
+On l'appelait Milady (Richard Lester, 1973)
 
 ## di 19 mars
 
@@ -69,21 +72,21 @@ Dialogue avec Nicolas Saada. Conférence
 **17h15 GF La science-fiction en 25 films indispensables**  
 Metropolis (Fritz Lang, 1927)
 
-**18h30 HL Hugo Fregonese**  
-Le Souffle sauvage (Hugo Fregonese, 1953)
+**18h15 HL Richard Lester**  
+Le Retour des mousquetaires (Richard Lester, 1988)
 
-**20h30 HL Hugo Fregonese**  
-Le Vagabond et les lutins (Hugo Fregonese, 1950)
+**20h30 HL Richard Lester**  
+Terreur sur le Britannic (Richard Lester, 1974)
 
 ## lu 20 mars
 
-**19h00 GF La science-fiction en 25 films indispensables**  
+**18h30 GF La science-fiction en 25 films indispensables**  
 Le Météore de la nuit (Jack Arnold, 1953)
 
-## me 22 mars
+**20h15 GF Richard Lester**  
+Get Back (Richard Lester, 1991)
 
-**16h30 GF Hugo Fregonese**  
-Mes six forçats (Hugo Fregonese, 1952)
+## me 22 mars
 
 **19h00 GF Ciné-club de Frédéric Bonnaud**  
 La Rue de la honte (Kenji Mizoguchi, 1956)
@@ -93,77 +96,79 @@ La Rue de la honte (Kenji Mizoguchi, 1956)
 
 ## je 23 mars
 
-**16h30 GF Hugo Fregonese**  
-L'Impasse maudite (Hugo Fregonese, 1950)
+**16h30 GF Richard Lester**  
+La Souris sur la lune (Richard Lester, 1962)
 
-**18h00 HL Hugo Fregonese**  
-Passage interdit (Hugo Fregonese, 1952)
+**18h00 HL La science-fiction en 25 films indispensables**  
+Starship Troopers (Paul Verhoeven, 1997)
 
-**18h30 GF La science-fiction en 25 films indispensables**  
-L'Invasion des profanateurs de sépultures (Don Siegel, 1955)
+**19h00 GF Richard Lester**  
+Conférence de Leo Soesanto. Conférence 
 
-**20h00 HL Hugo Fregonese**  
-L'Étrange M. Slade (Hugo Fregonese, 1953)
+**19h30 JE Archi Vives**  
+Ennio (Giuseppe Tornatore, 2021)
+
+**20h45 HL La science-fiction en 25 films indispensables**  
+Minority Report (Steven Spielberg, 2002)
+
+**21h15 GF Richard Lester**  
+Comment j'ai gagné la guerre (Richard Lester, 1966)
 
 ## ve 24 mars
 
-**16h30 GF Hugo Fregonese**  
-Passage interdit (Hugo Fregonese, 1952)
+**16h30 GF Richard Lester**  
+L'Ultime garconnière (Richard Lester, 1969)
 
 **18h00 HL La science-fiction en 25 films indispensables**  
 Gravity (Alfonso Cuarón, 2011)
 
-**18h30 GF Hugo Fregonese**  
-Les Sept tonnerres (Hugo Fregonese, 1957)
+**18h30 GF Richard Lester**  
+Comment j'ai gagné la guerre (Richard Lester, 1966)
 
 **20h00 HL La science-fiction en 25 films indispensables**  
 Ad Astra (James Gray, 2017)
 
-**20h45 GF Hugo Fregonese**  
-Pages galantes de Boccace (Hugo Fregonese, 1954)
+**20h45 GF Richard Lester**  
+Les Joyeux débuts de Butch Cassidy et le Kid (Richard Lester, 1979)
 
 ## sa 25 mars
 
-**14h30 HL Le cinéma d'espionnage (3e partie)**  
-Quatre de l'espionnage (Alfred Hitchcock, 1936)
+**14h30 HL Richard Lester**  
+Quatre garçons dans le vent (Richard Lester, 1964)  
+Dialogue avec Michka Assayas
 
-**15h00 GF Hugo Fregonese**  
-Quand les tambours s'arrêteront (Hugo Fregonese, 1951)
+**15h00 GF Le cinéma d'espionnage (3e partie)**  
+L'Espion noir (Michael Powell, 1939)
 
-**16h15 GF Hugo Fregonese**  
-Dialogue avec Jean-François Rauger
+**17h30 GF La science-fiction en 25 films indispensables**  
+L'Invasion des profanateurs de sépultures (Don Siegel, 1955)
 
-**17h00 HL La science-fiction en 25 films indispensables**  
-Planète interdite (Fred McLeod Wilcox, 1955)
+**18h30 HL Richard Lester**  
+Au secours ! (Richard Lester, 1965)
 
-**18h30 GF Hugo Fregonese**  
-Harry Black et le tigre (Hugo Fregonese, 1958)
-
-**19h30 HL La science-fiction en 25 films indispensables**  
+**19h30 GF La science-fiction en 25 films indispensables**  
 Le Mystère Andromède (Robert Wise, 1970)
 
-**20h30 GF Hugo Fregonese**  
-La Pampa sauvage (Hugo Fregonese, 1966)
+**20h30 HL Richard Lester**  
+Petulia (Richard Lester, 1967)
 
 ## di 26 mars
 
 **14h30 HL Le cinéma d'espionnage (3e partie)**  
-L'Espion noir (Michael Powell, 1939)
+Quatre de l'espionnage (Alfred Hitchcock, 1936)
 
 **16h30 HL La science-fiction en 25 films indispensables**  
 La Chose (John Carpenter, 1981)
 
-**17h00 GF Hugo Fregonese**  
-De hombre a hombre (Hugo Fregonese, 1949)
+**17h00 GF Richard Lester**  
+Le Forum en folie (Richard Lester, 1966)
 
-**18h45 GF Hugo Fregonese**  
-Le Souffle sauvage (Hugo Fregonese, 1953)
+**19h15 GF Richard Lester**  
+The Running, Jumping and Standing Still Film (Richard Lester, 1959)  
+Le Knack et comment l'avoir (Richard Lester, 1964)
 
 **20h00 HL La science-fiction en 25 films indispensables**  
 Solaris (Andreï Tarkovski, 1971)
-
-**20h45 GF Hugo Fregonese**  
-Mission spéciale au Deuxième Bureau (Hugo Fregonese, 1964)
 
 ## lu 27 mars
 
@@ -175,149 +180,135 @@ Les Monstres de l'espace (Roy Ward Baker, 1967)
 
 ## me 29 mars
 
-**16h30 GF Hugo Fregonese**  
-L'Étrange M. Slade (Hugo Fregonese, 1953)
+**18h30 GF Richard Lester**  
+Cash-cash (Richard Lester, 1984)
 
-**18h30 GF Hugo Fregonese**  
-L'Impasse maudite (Hugo Fregonese, 1950)
+**20h00 HL Hugo Fregonese**  
+Quand les tambours s'arrêteront (Hugo Fregonese, 1951)
 
-**20h00 HL Richard Lester**  
-**Ouverture de la rétrospective**  
-La Rose et la flèche (Richard Lester, 1975)
-
-**20h30 GF Hugo Fregonese**  
-Le Vagabond et les lutins (Hugo Fregonese, 1950)
+**20h45 GF Richard Lester**  
+Cuba (Richard Lester, 1978)
 
 ## je 30 mars
 
-**16h30 GF Hugo Fregonese**  
-The Raid (Hugo Fregonese, 1954)
+**16h00 GF Richard Lester**  
+Les Joyeux débuts de Butch Cassidy et le Kid (Richard Lester, 1979)
 
-**18h00 HL La science-fiction en 25 films indispensables**  
-Starship Troopers (Paul Verhoeven, 1997)
+**18h00 HL Richard Lester**  
+Superman II, l'aventure continue (Richard Lester, 1980)
 
-**19h00 GF Richard Lester**  
-Conférence de Leo Soesanto. Conférence 
+**18h30 GF Hugo Fregonese**  
+Donde mueren las palabras (Hugo Fregonese, 1946)
 
-**20h45 HL La science-fiction en 25 films indispensables**  
-Minority Report (Steven Spielberg, 2002)
+**20h15 GF Hugo Fregonese**  
+L'Affaire de Buenos Aires (Hugo Fregonese, 1949)
 
-**21h15 GF Richard Lester**  
-Comment j'ai gagné la guerre (Richard Lester, 1966)
+**20h45 HL Richard Lester**  
+Superman III (Richard Lester, 1982)
 
 ## ve 31 mars
 
-**16h30 GF Hugo Fregonese**  
-Mardi ça saignera (Hugo Fregonese, 1954)
+**16h30 GF Richard Lester**  
+Terreur sur le Britannic (Richard Lester, 1974)
 
-**18h00 HL Richard Lester**  
+**18h30 HL Richard Lester**  
 Petulia (Richard Lester, 1967)
 
-**18h30 GF Hugo Fregonese**  
-Marco Polo (Piero Pierotti, Hugo Fregonese, 1962)
+**19h00 GF Cinéma bis**  
+Carré de dames pour un as (Jacques Poitrenaud, 1966)
 
-**20h15 HL Richard Lester**  
-L'Ultime garconnière (Richard Lester, 1969)
+**20h45 HL Richard Lester**  
+Royal Flash (Richard Lester, 1974)
 
-**20h45 GF Hugo Fregonese**  
-Les Cavaliers rouges (Hugo Fregonese, 1964)
+**21h00 GF Cinéma bis**  
+Atout cœur à Tokyo pour O.S.S. 117 (Michel Boisrond, 1966)
 
 ## sa 1 avril
 
-**14h30 HL Richard Lester**  
-Quatre garçons dans le vent (Richard Lester, 1964)
+**14h30 GF Hugo Fregonese**  
+The Raid (Hugo Fregonese, 1954)
 
-**15h00 GF Le cinéma d'espionnage (3e partie)**  
+**15h00 HL Le cinéma d'espionnage (3e partie)**  
 Guet-apens (Victor Saville, 1948)
 
-**16h00 HL Richard Lester**  
-Dialogue avec Michka Assayas
+**18h00 HL Hugo Fregonese**  
+Le Souffle sauvage (Hugo Fregonese, 1953)
 
-**17h00 GF La science-fiction en 25 films indispensables**  
+**18h30 GF La science-fiction en 25 films indispensables**  
 Mondwest (Michael Crichton, 1973)
 
-**18h30 HL Richard Lester**  
-Au secours ! (Richard Lester, 1965)
+**20h00 HL Hugo Fregonese**  
+L'Étrange M. Slade (Hugo Fregonese, 1953)
 
-**19h00 GF La science-fiction en 25 films indispensables**  
+**20h30 GF La science-fiction en 25 films indispensables**  
 Alphaville, une étrange aventure de Lemmy Caution (Jean-Luc Godard, 1965)
-
-**20h45 HL Richard Lester**  
-Terreur sur le Britannic (Richard Lester, 1974)
-
-**21h15 GF La science-fiction en 25 films indispensables**  
-Silent Running (Douglas Trumbull, 1971)
 
 ## di 2 avril
 
 **14h30 HL Le cinéma d'espionnage (3e partie)**  
 Fräulein Doktor (Alberto Lattuada, 1968)
 
-**16h45 GF Richard Lester**  
-La Souris sur la lune (Richard Lester, 1962)
+**17h00 GF Hugo Fregonese**  
+Le Signe des rénégats (Hugo Fregonese, 1951)
 
-**17h15 HL La science-fiction en 25 films indispensables**  
+**17h30 HL La science-fiction en 25 films indispensables**  
 Soleil vert (Richard Fleischer, 1972)
 
-**18h45 GF Richard Lester**  
-The Running, Jumping and Standing Still Film (Richard Lester, 1959)  
-Le Knack et comment l'avoir (Richard Lester, 1964)
+**19h00 GF Hugo Fregonese**  
+Mardi ça saignera (Hugo Fregonese, 1954)
 
-**19h30 HL La science-fiction en 25 films indispensables**  
+**19h45 HL La science-fiction en 25 films indispensables**  
 Rencontres du troisième type (Steven Spielberg, 1977)
-
-**20h45 GF Richard Lester**  
-It's Trad, Dad ! (Richard Lester, 1962)
 
 ## lu 3 avril
 
-**18h00 GF Richard Lester**  
-Cash-cash (Richard Lester, 1984)
+**18h30 GF Hugo Fregonese**  
+L'Impasse maudite (Hugo Fregonese, 1950)
 
-**20h15 GF Richard Lester**  
-Get Back (Richard Lester, 1991)
+**20h30 GF Hugo Fregonese**  
+De hombre a hombre (Hugo Fregonese, 1949)
 
 ## me 5 avril
 
-**18h30 GF Richard Lester**  
-The Ritz (Richard Lester, 1976)
+**18h30 GF Hugo Fregonese**  
+Les Sept tonnerres (Hugo Fregonese, 1957)
 
 **19h00 HL Ciné-club de Frédéric Bonnaud**  
 Accattone (Pier Paolo Pasolini, 1961)
 
-**20h30 GF Richard Lester**  
-Les Joyeux débuts de Butch Cassidy et le Kid (Richard Lester, 1979)
+**20h45 GF La science-fiction en 25 films indispensables**  
+Silent Running (Douglas Trumbull, 1971)
 
 ## je 6 avril
 
-**16h30 GF Richard Lester**  
-Le Forum en folie (Richard Lester, 1966)
+**16h30 GF Hugo Fregonese**  
+L'Étrange M. Slade (Hugo Fregonese, 1953)
 
-**18h00 HL Richard Lester**  
-Les Trois mousquetaires (Richard Lester, 1973)
+**18h00 HL Hugo Fregonese**  
+Mes six forçats (Hugo Fregonese, 1952)
 
 **19h00 GF Parlons cinéma avec Benoît Peeters**  
 Les Trois couronnes du matelot (Raoul Ruiz, 1982)
 
-**20h15 HL Richard Lester**  
-On l'appelait Milady (Richard Lester, 1973)
+**20h15 HL La science-fiction en 25 films indispensables**  
+Blade Runner (Final Cut) (Ridley Scott, 1981)
 
 ## ve 7 avril
 
-**16h30 GF Richard Lester**  
-Petulia (Richard Lester, 1967)
+**17h00 GF Hugo Fregonese**  
+Pages galantes de Boccace (Hugo Fregonese, 1954)
 
 **18h00 HL Warner Bros., fabrique de stars**  
 Le Petit César (Mervyn LeRoy, 1930)
 
-**19h00 GF Cinéma bis**  
-Carré de dames pour un as (Jacques Poitrenaud, 1966)
+**19h00 GF Hugo Fregonese**  
+Mission spéciale au Deuxième Bureau (Hugo Fregonese, 1964)
 
 **20h00 HL Warner Bros., fabrique de stars**  
 Voyage sans retour (Tay Garnett, 1932)
 
-**21h00 GF Cinéma bis**  
-Atout cœur à Tokyo pour O.S.S. 117 (Michel Boisrond, 1966)
+**21h00 GF Hugo Fregonese**  
+Dracula contre Frankenstein (Tulio Demicheli, 1970)
 
 ## sa 8 avril
 
@@ -327,17 +318,20 @@ L'Homme qui n'a jamais existé (Ronald Neame, 1955)
 **15h00 HL Warner Bros., fabrique de stars**  
 Chercheuses d'or (Mervyn LeRoy, 1933)
 
-**17h15 HL Richard Lester**  
-Superman II, l'aventure continue (Richard Lester, 1980)
+**16h45 GF Hugo Fregonese**  
+Le Vagabond et les lutins (Hugo Fregonese, 1950)
 
-**17h45 GF Warner Bros., fabrique de stars**  
+**17h30 HL Warner Bros., fabrique de stars**  
 Le Petit Géant (Roy Del Ruth, 1933)
 
-**19h30 GF Warner Bros., fabrique de stars**  
+**18h45 GF Hugo Fregonese**  
+La Pampa sauvage (Hugo Fregonese, 1966)
+
+**19h30 HL Warner Bros., fabrique de stars**  
 Le Bar magnifique (Lloyd Bacon, 1933)
 
-**20h00 HL Richard Lester**  
-Superman III (Richard Lester, 1982)
+**21h15 GF Hugo Fregonese**  
+Passage interdit (Hugo Fregonese, 1952)
 
 ## di 9 avril
 
@@ -347,27 +341,27 @@ Mes funérailles à Berlin (Guy Hamilton, 1966)
 **17h00 HL Warner Bros., fabrique de stars**  
 L'Ennemi public (William A. Wellman, 1931)
 
-**17h30 GF Richard Lester**  
-Le Retour des mousquetaires (Richard Lester, 1988)
+**17h30 GF Hugo Fregonese**  
+Les Cavaliers rouges (Hugo Fregonese, 1964)
 
 **19h00 HL Warner Bros., fabrique de stars**  
 Agent britannique (Michael Curtiz, 1934)
 
-**19h45 GF Richard Lester**  
-Le Forum en folie (Richard Lester, 1966)
+**20h00 GF Hugo Fregonese**  
+Marco Polo (Piero Pierotti, Hugo Fregonese, 1962)
 
 ## lu 10 avril
 
-**18h00 GF Warner Bros., fabrique de stars**  
-L'Impossible amour (Vincent Sherman, 1942)
+**18h00 GF Hugo Fregonese**  
+Le Vagabond et les lutins (Hugo Fregonese, 1950)
 
-**20h30 GF Warner Bros., fabrique de stars**  
-Les Aventures de Don Juan (Vincent Sherman, 1948)
+**20h00 GF Hugo Fregonese**  
+La Pampa sauvage (Hugo Fregonese, 1966)
 
 ## me 12 avril
 
-**18h00 GF Richard Lester**  
-Cuba (Richard Lester, 1978)
+**18h00 GF Hugo Fregonese**  
+Mardi ça saignera (Hugo Fregonese, 1954)
 
 **20h00 HL Peter Bogdanovich**  
 **Ouverture de la rétrospective**  
@@ -378,8 +372,11 @@ Royal Flash (Richard Lester, 1974)
 
 ## je 13 avril
 
-**17h00 GF Richard Lester**  
-Royal Flash (Richard Lester, 1974)
+**14h45 GF Warner Bros., fabrique de stars / Le cinéma d'espionnage (3e partie)**  
+Échec à la Gestapo (Vincent Sherman, 1941)
+
+**17h00 GF Hugo Fregonese**  
+Harry Black et le tigre (Hugo Fregonese, 1958)
 
 **18h00 HL Peter Bogdanovich**  
 On s'fait la valise, docteur ? (Peter Bogdanovich, 1971)
@@ -392,8 +389,8 @@ Daisy Miller (Peter Bogdanovich, 1973)
 
 ## ve 14 avril
 
-**16h00 GF Richard Lester**  
-Terreur sur le Britannic (Richard Lester, 1974)
+**16h00 GF Hugo Fregonese**  
+Les Sept tonnerres (Hugo Fregonese, 1957)
 
 **18h00 HL Peter Bogdanovich**  
 Enfin l'amour (Peter Bogdanovich, 1974)
@@ -471,14 +468,11 @@ Une femme cherche son destin (Irving Rapper, 1942)
 
 ## je 20 avril
 
-**16h00 GF Richard Lester**  
-Les Joyeux débuts de Butch Cassidy et le Kid (Richard Lester, 1979)
+**16h30 GF Peter Bogdanovich**  
+Texasville (Peter Bogdanovich, 1989)
 
 **18h00 HL Warner Bros., fabrique de stars**  
 Le Trésor de la Sierra Madre (John Huston, 1948)
-
-**19h00 GF Peter Bogdanovich**  
-Texasville (Peter Bogdanovich, 1989)
 
 **19h00 GF Parlons cinéma avec Benoît Peeters**  
 L'Homme de Rio (Philippe de Broca, 1963)
@@ -498,7 +492,7 @@ Le Faucon maltais (John Huston, 1941)
 SAS, l'œil de la veuve (Andrew V. McLaglen, 1989)
 
 **21h00 GF Cinéma bis**  
-S.A.S. à San Salvador (Raoul Coutard, 1982)
+SAS à San Salvador (Raoul Coutard, 1982)
 
 **21h15 HL Warner Bros., fabrique de stars**  
 La Lettre (William Wyler, 1940)
@@ -688,13 +682,13 @@ La Glorieuse parade (Michael Curtiz, 1941)
 Dans les coulisses (Mario Monicelli, Steno, 1950)
 
 **19h00 GF Cinéma bis**  
-F.B.I. contre Lotus Bleu (Terence Hathaway, 1965)
+F.B.I. contre Lotus Bleu (Sergio Grieco, 1965)
 
 **20h30 HL Mario Monicelli**  
 Larmes de joie (Mario Monicelli, 1960)
 
 **21h00 GF Cinéma bis**  
-Coup de force à Berlin (Terence Hathaway, 1967)
+Coup de force à Berlin (Sergio Grieco, 1967)
 
 ## sa 6 mai
 
@@ -754,7 +748,7 @@ Il Medico e lo stregone (Mario Monicelli, 1957)
 
 **20h00 HL Yann Dedet**  
 **Ouverture de la rétrospective**  
-Les Deux Anglaises et le Continent (François Truffaut, 1971)
+Sweet Movie (Dušan Makavejev, 1974)
 
 **20h15 GF Mario Monicelli**  
 Le Marquis s'amuse (Mario Monicelli, 1982)
@@ -763,6 +757,9 @@ Le Marquis s'amuse (Mario Monicelli, 1982)
 
 **16h00 GF Warner Bros., fabrique de stars**  
 A chaque aube je meurs (William Keighley, 1945)
+
+**18h30 GF Yann Dedet**  
+Nénette et Boni (Claire Denis, 1996)
 
 **20h00 HL L'image des plaisirs**  
 **Ouverture de la rétrospective**  
@@ -774,42 +771,27 @@ Hot Heat (Marylène Negro, 2023)
 Fulmen (Othello Vilgard, 2023)  
 Memory Slot – Track 1 (Yann Gonzalez, Alain Garcia Vergara, 2023)
 
+**21h00 GF Yann Dedet**  
+Les Cloches de Silésie (Peter Fleischmann, 1970)
+
 ## ve 12 mai
 
 **16h00 GF Warner Bros., fabrique de stars**  
 Agent britannique (Michael Curtiz, 1934)
 
-**18h00 GF L'image des plaisirs**  
-Baisers envolés (Georges Demenÿ, 1894)  
-Clin d'éventail (Georges Demenÿ, 1894)  
-Cancan (Georges Demenÿ, 1894)  
-The Kiss (William Heise, 1896)  
-Après le bal (Georges Méliès, 1897)  
-Par le trou de la serrure (Ferdinand Zecca, 1901)  
-Madame a des envies (Alice Guy, 1906)  
-L'Âge d'or (Luis Buñuel, 1930)  
-L'Âge d'or (chutes) (Luis Buñuel, 1930)  
-Essai cinématographique : Autoportrait ou Ce qui manque à nous tous (Man Ray, 1930)
+**18h00 GF Yann Dedet**  
+Mona et moi (Patrick Grandperret, 1990)
 
 **19h30 HL Ciné-club de Frédéric Bonnaud**  
 La Soif du mal (Orson Welles, 1957)
 
-**20h00 GF L'image des plaisirs**  
-Fireworks (Kenneth Anger, 1947)  
-Un chant d'amour (Jean Genet, 1950)  
-Nus masculins (François Reichenbach, 1954)  
-A Moment in Love (Shirley Clarke, 1956)  
-Hurry! Hurry! (Marie Menken, 1957)  
-Cosmic Ray (Bruce Conner, 1962)
+**20h15 GF Yann Dedet**  
+Outremer (Brigitte Roüan, 1990)
 
 ## sa 13 mai
 
-**14h00 JE L'image des plaisirs**  
-Flaming Creatures (Jack Smith, 1963)  
-Ai (Love) (Takahiko Iimura, 1962)  
-Christmas on Earth (Barbara Rubin, 1963)  
-7/64 Leda und der Schwan (Kurt Kren, 1964)  
-6/64 Mama und Papa (Materialaktion Otto Mühl) (Kurt Kren, 1964)
+**14h30 HL Yann Dedet**  
+Passe montagne (Jean-François Stévenin, 1978)
 
 **15h00 GF Le cinéma d'espionnage (3e partie)**  
 Courrier diplomatique (Henry Hathaway, 1951)
@@ -817,178 +799,119 @@ Courrier diplomatique (Henry Hathaway, 1951)
 **16h00 HL Yann Dedet**  
 Dialogue avec Yann Dedet
 
-**16h00 JE L'image des plaisirs**  
-Blow Job (Andy Warhol, 1964)  
-Vinyl (Andy Warhol, 1965)
-
-**18h15 HL Mario Monicelli**  
+**18h15 GF Mario Monicelli**  
 Donatella (Mario Monicelli, 1955)
 
-**18h45 JE L'image des plaisirs**  
-Le Quartier des femmes (Kâmrân Shirdel, 1966)  
-Breakaway (Bruce Conner, 1966)  
-Amphetamine (Wendy Appel, Warren Sonbert, 1966)  
-Permanent Waves (Anita Thacher, 1966)  
-Fuses (Carolee Schneemann, 1967)  
-Piece Mandala / End War (Paul Sharits, 1966)
+**19h30 HL Yann Dedet**  
+Les Deux Anglaises et le Continent (François Truffaut, 1971)
 
-**20h30 HL Mario Monicelli**  
+**20h30 GF Mario Monicelli**  
 La Fille au pistolet (Mario Monicelli, 1967)
 
-**21h00 JE L'image des plaisirs**  
-Four (Yoko Ono, 1967)  
-Behind Every Good Man (Nikolai Ursin, 1967)  
-Dead Youth (Donald Richie, 1967)  
-Orgasmus (Valie Export, 1967)  
-Tapp und TastKino (Valie Export, 1968)  
-Moment (Stephen Dwoskin, 1968)  
-Face (Takahiko Iimura, 1969)
-
 ## di 14 mai
-
-**14h00 JE L'image des plaisirs**  
-The Canaries (Jerome Hill, 1968)  
-Eyetoon (Jerry Abrams, 1968)  
-Particulièrement valable (Hellmuth Costard, 1968)  
-Birds (Frans Zwartjes, 1969)  
-The Bed (James Broughton, 1967)  
-Orfeo filmando en el campo de batalla (Antonio Maenza Blasco, 1968)
 
 **14h30 HL Le cinéma d'espionnage (3e partie)**  
 Mission : Impossible (Brian De Palma, 1995)
 
-**16h00 JE L'image des plaisirs**  
-Freiheit für die Liebe (Eberhard Kronhausen, Phyllis Kronhausen, 1968)
+**16h45 HL Yann Dedet**  
+Van Gogh (Maurice Pialat, 1991)
 
-**17h00 HL Mario Monicelli**  
+**17h15 GF Mario Monicelli**  
 Les Infidèles (Steno, Mario Monicelli, 1952)
 
-**18h15 JE L'image des plaisirs**  
-Satan bouche un coin (Jean-Pierre Bouyxou, 1967)  
-Lovemaking (Stan Brakhage, 1968)  
-Onanism (Nalini Malani, 1969)  
-Danz (Georg Brintrup, 1969)  
-I Change I Am the Same (Alice Anne Parker, Shelby Kennedy, 1969)  
-Infinity Girl (Aggy Read, 1968)  
-Oblivion (Tom Chomont, 1969)  
-Basta (Ugo Ulive, 1969)
+**19h45 GF Yann Dedet**  
+Le Grand chariot (Philippe Garrel, 2022)
 
-**19h30 HL Mario Monicelli**  
+**20h15 HL Mario Monicelli**  
 Boccace 70 (Mario Monicelli, Federico Fellini, Luchino Visconti, Vittorio De Sica, 1961)
 
-**20h15 JE L'image des plaisirs**  
-La Tête froide (Patrick Hella, 1969)  
-Le Sexe enragé (Roland Lethem, 1969)  
-Faites-vous jouir de plus en plus (Michel Laitem, 1974)  
-Grève et pets (Noël Godin, 1975)
+## lu 15 mai
+
+**18h00 GF Yann Dedet**  
+Western (Manuel Poirier, 1996)
+
+**20h45 GF Yann Dedet**  
+Presque rien (Sébastien Lifshitz, 2000)
 
 ## me 17 mai
 
 **18h00 HL Mario Monicelli**  
 Toto e Carolina (Mario Monicelli, 1953)
 
+**19h00 GF Yann Dedet**  
+Le Sens de l'humour (Marilyne Canto, 2013)
+
 **20h00 HL Mario Monicelli**  
 Les Nouveaux monstres (Dino Risi, Mario Monicelli, Ettore Scola, 1977)
 
+**21h15 GF Yann Dedet**  
+Les Femmes de Višegrad (Jasmila Žbanić, 2013)
+
 ## je 18 mai
+
+**16h00 GF Warner Bros., fabrique de stars**  
+Les Aventures de Don Juan (Vincent Sherman, 1948)
 
 **18h00 HL Mario Monicelli**  
 Haute infidélité : Les gens modernes (Mario Monicelli, 1963)
 
-**18h30 GF L'image des plaisirs**  
-Orange (Karen Johnson, 1969)  
-Dafnis y Cloe (Antoni Padrós, 1969)  
-CF Porn (JoAnn Elam, 1970)  
-Lovemaking (Scott Bartlett, 1970)  
-Mixed-Double (Bent Barfod, 1970)  
-Hedonistic Communication (Irm Sommer, Ed Sommer, 1970)
-
-**20h15 GF L'image des plaisirs**  
-Unfolding (Coni Beeson, 1970)  
-Holding (Coni Beeson, 1971)  
-The Now (Coni Beeson, 1972)  
-Firefly (Coni Beeson, 1974)  
-Women (Coni Beeson, 1974)  
-Grow Old Alone With Me (Coni Beeson, 1977)  
-Lotus (Coni Beeson, 1979)
+**18h30 GF Yann Dedet**  
+L'Économie du couple (Joachim Lafosse, 2016)
 
 **20h45 HL Mario Monicelli**  
 Caro Michele (Mario Monicelli, 1975)
+
+**21h00 GF Yann Dedet**  
+I Am Not a Witch (Rungano Nyoni, 2017)
 
 ## ve 19 mai
 
 **14h30 GF Conservatoire des techniques cinématographiques**  
 À propos de deux ouvrages : Les As de la manivelle : le métier d'opérateur de prise de vues cinémat. Conférence de Priska Morrissey et Morgan Lefeuvre
 
-**17h00 GF L'image des plaisirs**  
-Good-by Marilyn (Keiichi Tanaami, 1971)  
-Good-by Elvis and USA (Keiichi Tanaami, 1971)  
-Phosphene (Byron Grush, 1971)  
-The Voluptuous Martyrdoms of the Magnificent Masturbators (Robert Short, 1971)  
-I Don't Know (Penelope Spheeris, 1971)  
-Near the Big Chakra (Alice Anne Parker, 1972)  
-Blue Streak (Mark Rappaport, 1971)
-
 **18h00 HL Mario Monicelli**  
 Rosy la bourrasque (Mario Monicelli, 1979)
 
-**19h00 GF L'image des plaisirs**  
-Motoshinkakarannu (Tetsurō Nunokawa, NDU, 1971)
+**18h30 GF Yann Dedet**  
+Making of (Cédric Kahn, 2022)
 
-**20h30 GF L'image des plaisirs**  
-Confessions of a Male Groupie Or How I Learned to Stop Worrying and Love the Electric Banana (Tom DeSimone, 1971)  
-The Sex Garage (Fred Halsted, 1972)
+**20h45 GF Yann Dedet**  
+Les Gants blancs (Louise Traon, 2013)  
+Quand je serai jeune (Yann Dedet, 1988)
 
 **21h00 HL Mario Monicelli**  
 Voyage avec Anita (Mario Monicelli, 1978)
 
 ## sa 20 mai
 
-**14h30 HL L'image des plaisirs**  
-Johnny Minotaur (Charles Henri Ford, 1971)
+**14h30 GF Le cinéma d'espionnage (3e partie)**  
+Maldonne pour un espion (Anthony Mann, 1967)
 
 **18h00 HL Mario Monicelli**  
 Le Pigeon (Mario Monicelli, 1958)
 
-**20h00 GF L'image des plaisirs**  
-Belladonna (Eiichi Yamamoto, 1973)
-
 **20h30 HL Mario Monicelli**  
 La Grande guerre (Mario Monicelli, 1959)
 
-**22h00 GF L'image des plaisirs**  
-Take Off (With Magda) (Gunvor Nelson, 1972)  
-Inner Man (Mako Idemitsu, 1972)  
-Derrière la porte verte (Jim Mitchell, Art Mitchell, 1972)
-
 ## di 21 mai
 
-**14h30 HL Mario Monicelli**  
-Romances et confidences (Mario Monicelli, 1974)
+**14h30 HL Le cinéma d'espionnage (3e partie)**  
+Quand les aigles attaquent (Brian G. Hutton, 1968)
 
 **15h00 JE L'image des plaisirs**  
 Chôfuku-ki (Shuji Terayama, 1974)  
 Passing Strangers (Arthur J. Bressan Jr., 1974)
 
-**16h45 HL Mario Monicelli**  
+**17h45 HL Mario Monicelli**  
 I Picari (Mario Monicelli, 1987)
 
-**17h15 GF L'image des plaisirs**  
-Les Filles de Ka-ma-ré (Une petite culotte pour l'été) (René Vienet, Norifumi Suzuki, 1974)
-
-**19h15 GF L'image des plaisirs**  
-Je, tu, il, elle (Chantal Akerman, 1974)
-
-**19h45 HL Mario Monicelli**  
+**20h30 HL Mario Monicelli**  
 Chambre d'hôtel (Mario Monicelli, 1980)
 
 ## me 24 mai
 
 **18h00 HL Mario Monicelli**  
 Pourvu que ce soit une fille (Mario Monicelli, 1985)
-
-**20h00 GF L'image des plaisirs**  
-Les Filles de Ka-ma-ré (Une petite culotte pour l'été) (René Vienet, Norifumi Suzuki, 1974)
 
 **20h30 HL Mario Monicelli**  
 Panni sporchi (Mario Monicelli, 1998)
@@ -1010,9 +933,6 @@ Une famille formidable (Mario Monicelli, 1991)
 Du sang dans le soleil (Mario Monicelli, 1954)
 
 ## sa 27 mai
-
-**14h00 GF L'image des plaisirs**  
-Johan (Philippe Vallois, 1975)
 
 **14h30 HL Mario Monicelli**  
 Cari fottutissimi amici (Mario Monicelli, 1994)

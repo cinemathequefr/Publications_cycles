@@ -58,7 +58,7 @@ France / 2022
 Avec Louis Garrel, Esther Garrel, Léna Garrel.  
 La destinée romanesque et tragique d'une fratrie d'artistes marionnettistes.
 
-- di 14 mai 19h45 GF
+- di 14 mai 20h00 GF
 
 [137947]  
 **I Am Not a Witch**  
@@ -159,7 +159,7 @@ France / 1991 / 158 min
 Avec Jacques Dutronc, Alexandra London, Bernard Le Coq.  
 Après son internement à l'asile, Vincent van Gogh s'installe à Auvers-sur-Oise chez le docteur Gachet, amateur d'art. Entre les relations conflictuelles qu'il entretient avec son frère et sa santé mentale vacillante, Vincent continue son œuvre.
 
-- di 14 mai 16h45 HL
+- di 14 mai 17h00 HL
 
 [62220]  
 **Western**  
