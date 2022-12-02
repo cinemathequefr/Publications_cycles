@@ -7,7 +7,7 @@
 de Mario Monicelli  
 Italie-France-Espagne / 1965 / 120 min / VOSTF / 35 mm  
 Avec Vittorio Gassman, Catherine Spaak, Gian Maria Volonté.  
-Les aventures de Brancaleone, chevalier maladroit et gonflé de lui-même, entre Francs, Byzantins et Sarrasins.
+Les aventures picaresques du chevalier Brancaleone et de son armée de bandits.
 
 - ve 28 avr 18h00 HL  
 Séance présentée par Jean A. Gili  
@@ -41,7 +41,7 @@ Les nouvelles aventures de Brancaleone et de ses compagnons qui partent aux croi
 de Mario Monicelli  
 Italie-France-Yougoslavie / 1963 / 128 min / VOSTF / DCP  
 Avec Marcello Mastroianni, Renato Salvatori, Bernard Blier.  
-A la fin du XIXème siècle, à Turin, un ouvrier d'une tréfilerie est victime d'un accident du travail. Ses camarades décident d'agir. Le professeur Singaglia les convainc alors de s'organiser et de faire grève.
+Fin du XIXème siècle, dans une fabrique textile de Turin, les ouvriers, soumis à un rythme de travail infernal, voient se multiplier les accidents. Trois d'entre eux entrent en conflit avec le contremaître à la suite d'un nouveau drame. Alors que des sanctions tombent, l'instituteur Sinigaglia, un militant socialiste, fraîchement débarqué de Gênes, pousse les ouvriers à s'organiser...
 
 - di 30 avr 17h30 HL  
 Séance présentée par Jean A. Gili
@@ -71,7 +71,7 @@ de Mario Monicelli
 Italie / 1975 / 115 min / VOSTF / 35 mm  
 D'après son roman _Caro Michele_ de Natalia Ginzburg.  
 Avec Mariangela Melato, Lou Castel, Alfonso Gatto, Aurore Clément, Delphine Seyrig.  
-Après les révoltes étudiantes de 1968, Michele s'installe à Londres mais garde un contact épistolaire avec sa mère et ses sœurs. Un jour, elles apprennent la mort de Michele.
+Après les émeutes étudiantes de 68, Michele décide de quitter sa famille bourgeoise et d'emménager à Londres. Il reste cependant en contact épistolaire avec sa mère et ses sœurs, dans une correspondance où il fait la lumière sur les différents personnages qui ont marqué sa vie, notamment Mara, qui prétend avoir eu un enfant de lui. Un jour, elles apprennent la mort de Michele.
 
 - je 18 mai 20h45 HL
 
@@ -80,7 +80,7 @@ Après les révoltes étudiantes de 1968, Michele s'installe à Londres mais gar
 de Mario Monicelli  
 Italie-France / 1964 / 107 min / VOSTF / DCP  
 Avec Marcello Mastroianni, Virna Lisi.  
-Un homme qui a eu de nombreuses aventures amoureuses, est accusé un jour d'impuissance par une de ses maîtresses. Il consulte un psychiatre qui au récit de ses frasques lui conseille le repos.
+Un homme qui a eu de nombreuses aventures amoureuses, est accusé un jour d'impuissance par une de ses maîtresses. Il consulte un psychiatre qui lui conseille le repos.
 
 - lu 8 mai 16h00 GF
 
@@ -90,7 +90,7 @@ Un homme qui a eu de nombreuses aventures amoureuses, est accusé un jour d'impu
 de Mario Monicelli  
 Italie-France / 1980 / 105 min / VOSTF  
 Avec Monica Vitti, Vittorio Gassman, Roger Pierre.  
-Un producteur de cinéma « réinvente » devant la caméra les images saisies sur le vif dans une chambre d'hôtel par de jeunes cinéastes.
+Une caméra cachée permet à trois jeunes cinéphiles de filmer les clients d'une chambre d'hôtel. Ils prennent rendez-vous avec un vieux producteur à la retraite pour commercialiser leur film.
 
 - di 21 mai 20h30 HL
 
@@ -158,7 +158,7 @@ Portrait de la société italienne dans la seconde partie du XXe siècle à trav
 de Mario Monicelli  
 Italie / 1967 / 102 min / VOSTF / DCP  
 Avec Monica Vitti, Stanley Baker, Carlo Giuffré, Corin Redgrave.  
-Séduite et abandonnée par un homme de son village, Assunta la Sicilienne part à sa recherche jusqu'à Londres avec pour seul bagage un énorme pistolet.
+Séduite et abandonnée par un homme de son village, Assunta la Sicilienne se rend à Londres avec un pistolet dans l'intention de l'assassiner.
 
 - di 14 mai 20h30 HL
 
@@ -212,7 +212,7 @@ de Mario Monicelli
 Italie / 1960 / 106 min / VOSTF / 35 mm  
 D'après les nouvelles _Ladri in chiesa_ et _Lacrime di gioia_ d'Alberto Moravia.  
 Avec Anna Magnani, Totò, Ben Gazzara.  
-La Tortorella, une figurante de Cinecittà, refuse pour le réveillon de fin d'année la compagnie d'Umberto Pennazuto, un ancien acteur surnommé Infortunio, qui a promis à son ami Lello, un pickpocket, de l'aider pendant la nuit de la Saint Sylvestre pour tenter quelques coups. Les trois personnages se rencontrent par hasard et Tortorella oblige les deux hommes à l'accompagner à un bal masqué.
+Durant la nuit de la Saint-Sylvestre, deux figurants de cinéma errent dans la ville sans pouvoir être admis et respectés. Ils n'en perdent pourtant pas leur optimisme et leur courage...
 
 - ve 5 mai 20h30 HL
 
@@ -280,7 +280,7 @@ Maddalena quitte son travail en Italie pour rejoindre son fiancé aux Etats-Unis
 de Mario Monicelli  
 Italie / 1972 / 100 min / VOSTF / DCP  
 Avec Ugo Tognazzi, Claude Dauphin, François Périer.  
-Avec le concours d'un groupe de colonels et généraux, un député d'extrême-droite fomente un coup d'état.
+Un député d'extrême-droite fomente un coup d'état avec le concours d'un groupe de colonels et généraux
 
 - di 7 mai 17h00 HL  
 - di 28 mai 17h00 HL
@@ -447,7 +447,7 @@ Les mésaventures d'Alberto, petit délateur timide et peureux, vivant encore ch
 de Mario Monicelli  
 Italie / 1991 / 105 min / VOSTF / DCP  
 Avec Tommaso Bianco, Marina Confalone.  
-Comme chaque année, la famille Colapietro, quatre frères et sœurs, leurs familles et leurs enfants, se réunit pour fêter Noël chez lleurs vieux parents. Ceux-ci annoncent que, trop âgés pour vivre seuls, ils ont décidé de s'installer chez l'un de leurs enfants.
+Comme chaque année, la famille Colapietro, quatre frères et sœurs, leurs familles et leurs enfants, se réunit pour fêter Noël chez leurs vieux parents. Trop âgés pour vivre seuls, ils ont décidé de s'installer chez l'un de leurs enfants.
 
 - ve 26 mai 18h00 HL
 

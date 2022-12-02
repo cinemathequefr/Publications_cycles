@@ -215,3 +215,9 @@ L'aventurier Chuck Connors est en visite chez un ami, quand celui-ci se tue en t
 - sa 8 avr 16h45 GF  
 - lu 10 avr 18h00 GF
 
+## Rencontres et conférences
+
+**Dialogue avec Jean-François Rauger**
+
+- sa 1 avr 16h00 GF
+

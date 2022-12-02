@@ -256,7 +256,7 @@ Frank, un ouvrier travaillant dur, perd son travail au profit d'un ouvrier d'ori
 **La Lettre**  
 **(The Letter)**  
 de William Wyler  
-États-Unis / 1940 / 95 min / VOSTF / DCP  
+États-Unis / 1940 / 95 min / VOSTF / 35 mm  
 D'après la pièce _The Letter_ de William Somerset Maugham.  
 Avec Bette Davis, Herbert Marshall, James Stephenson.  
 Alors que son mari part inspecter sa plantation de caoutchouc, Leslie Crosbie tue Geoffroy Hammond, un ami de la famille. Elle prétend que l'homme voulait abuser d'elle. Si son mari la croit sur parole, leur avocat a des doutes.

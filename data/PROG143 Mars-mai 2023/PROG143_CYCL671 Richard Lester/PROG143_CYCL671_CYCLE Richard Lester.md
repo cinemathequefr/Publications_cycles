@@ -67,7 +67,7 @@ La tournée mondiale en 1989-90 de Paul Mac Cartney et son groupe, une heure tre
 de Richard Lester  
 Grande-Bretagne / 1962 / 78 min / VOSTF / 35 mm  
 Avec Helen Shapiro, Craig Douglas.  
-Deux ados organisent un festival de jazz malgré les objections du maire.
+Deux ados organisent un festival de jazz malgré les objections du maire de leur commune.
 
 - je 16 mar 18h30 GF
 
@@ -77,7 +77,7 @@ Deux ados organisent un festival de jazz malgré les objections du maire.
 de Richard Lester  
 États-Unis / 1979 / 111 min / VO / 35 mm  
 Avec Tom Berenger, William Katt, Jeff Corey.  
-Butch Cassidy, libéré de prison, rencontre dans un saloon celui qui sera son compagnon de galère, Sundance Kid. Ils s'associent et commettent plusieurs délits, recherchés par le shérif Bledsoe.
+Butch Cassidy, libéré de prison, rencontre dans un saloon celui qui sera son compagnon de galère, Sundance Kid. Ils s'associent, commettent plusieurs délits, et sont recherchés par le shérif Bledsoe.
 
 - ve 24 mar 20h45 GF  
 - je 30 mar 16h00 GF
@@ -100,7 +100,7 @@ Film précédé de _The Running, Jumping and Standing Still Film_ de Richard Les
 de Richard Lester  
 Panama / 1973 / 107 min / DCP  
 Avec Michael York, Oliver Reed, Raquel Welch, Richard Chamberlain.  
-D'Artagnan ayant déjoué le complot « du collier de la Reine », Milady fait enlever Constance, son amie. Heureusement les Mousquetaires sauront de nouveau faire face!
+D'Artagnan ayant déjoué le complot des « Ferrets de la Reine », Milady fait enlever Constance, son amie. Les Mousquetaires parviendront-ils à la sauver?
 
 - sa 18 mar 20h30 HL
 
@@ -131,7 +131,7 @@ Voir aussi dialogue p. xx
 de Richard Lester  
 Grande-Bretagne-France-Espagne / 1988 / 102 min  
 Avec Michael York, Oliver Reed, Frank Finlay, Philippe Noiret.  
-France, 1649, les Mousquetaires se confrontent à de vieux ennemis de vingt ans.
+France, 1649. Le Cardinal Mazarin ordonne à D'Artagnan de retrouver Athos, Porthos et Aramis pour les mettre à son service.
 
 - di 19 mar 18h15 HL
 
@@ -180,7 +180,7 @@ Film suivi de _Le Knack et comment l'avoir_ de Richard Lester
 de Richard Lester  
 Grande-Bretagne / 1962 / 85 min / VO / 35 mm  
 Avec Margaret Rutherford, Bernard Cribbins.  
-Un petit pays réussit le premier à envoyer une fusée dans la lune.
+Le Duché du Grand Fenwick réussit le premier à envoyer une fusée dans la lune. Suite de « La Souris qui rugissait » de Jack Arnold.
 
 - je 16 mar 20h30 GF  
 - je 23 mar 16h30 GF
@@ -199,7 +199,7 @@ Trois terroristes ont pris possession de la Tour Eiffel. Ils menacent d'y faire 
 de Richard Lester  
 Grande-Bretagne / 1982 / 125 min / VOSTF / 35 mm  
 Avec Christopher Reeve, Richard Pryor, Jackie Cooper.  
-Superman, lutte contre Ross Webster, un puissant homme d'affaires décidé à conquérir le monde.
+Superman lutte contre Ross Webster, un puissant homme d'affaires décidé à conquérir le monde.
 
 - je 30 mar 20h45 HL
 
@@ -221,7 +221,7 @@ de Richard Lester
 Panama / 1973 / 107 min / VO / 35 mm  
 D'après le roman _Les Trois mousquetaires_ d'Alexandre Dumas.  
 Avec Michael York, Oliver Reed, Raquel Welch, Richard Chamberlain.  
-Arrivant à Paris de sa Gascogne natale, D'Artagnan parvient à entrer dans le fameux régiment des Mousquetaires du roi Louis XIII. Il se lie d'amitié avec trois d'entre eux : Athos, Porthos et Aramis et deviendront inséparables.
+Arrivant à Paris de sa Gascogne natale, D'Artagnan parvient à entrer dans le fameux régiment des Mousquetaires du roi Louis XIII. Il se lie d'amitié avec trois d'entre eux : Athos, Porthos et Aramis. Ils contribueront à déjouer un complot ourdi par le Cardinal de Richelieu.
 
 - sa 18 mar 18h15 HL
 
