@@ -62,7 +62,7 @@ Durant la Seconde Guerre mondiale, un Américain tente d'enlever un savant itali
 **Casier judiciaire**  
 **(You and Me)**  
 de Fritz Lang  
-États-Unis / 1938 / 90 min / VOSTF / 35 mm  
+États-Unis / 1938 / 94 min / VOSTF / 35 mm  
 Avec Sylvia Sidney, George Raft, Barton MacLane.  
 Employés du même magasin, Joe et Helen, deux condamnés libérés sur parole, sont épris l'un de l'autre. Mais seul Joe a avoué son passé. Lorsqu'il découvre la vérité sur Helen, se sentant trahi, il se lance dans la préparation d'un mauvais coup.
 

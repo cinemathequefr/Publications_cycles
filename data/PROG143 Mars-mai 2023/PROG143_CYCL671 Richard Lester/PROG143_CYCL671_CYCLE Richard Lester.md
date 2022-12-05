@@ -10,7 +10,8 @@ Grande-Bretagne / 1965 / 92 min / VOSTF / 16 mm
 Avec John Lennon, Paul McCartney, George Harrison, Ringo Starr.  
 Les Beatles sont menacés par une mystérieuse secte maléfique.
 
-- sa 25 mar 18h30 HL
+- sa 25 mar 18h30 HL  
+- lu 3 avr 16h30 GF
 
 [34216]  
 **Cash-cash**  

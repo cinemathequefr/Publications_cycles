@@ -13,6 +13,15 @@ Les aventures picaresques du chevalier Brancaleone et de son armée de bandits.
 Séance présentée par Jean A. Gili  
 - sa 27 mai 19h15 HL
 
+[42476]  
+**Bertoldo, Bertoldino e Cacasenno**  
+de Mario Monicelli  
+Italie / 1984 / 128 min / VOSTF / 35 mm  
+Avec Ugo Tognazzi, Maurizio Nichetti.  
+Vers l'an 1000 à la cour du Roi Alboino, trois personnages étranges: Bertoldo, un paysan, son fils Bertoldino, qui fait toujours des choses idiotes, et Fra Cipolla da Frosolone, échappent à toutes sortes de situations absurdes grâce à leurs ruses.
+
+- sa 20 mai 15h00 GF
+
 [54133]  
 **Boccace 70**  
 **(Boccaccio '70)**  
@@ -183,7 +192,7 @@ Deux tire-au-flanc engagés en 1917 sur le front des Alpes cherchent à fuir les
 
 - je 27 avr 20h30 HL  
 Séance présentée par Jean A. Gili  
-- sa 20 mai 20h30 HL
+- sa 20 mai 20h00 HL
 
 [70021]  
 **Haute infidélité : Les gens modernes**  
@@ -343,7 +352,7 @@ En prison, Cosimo révèle à Pepe les détails de son prochain coup, infaillibl
 
 - me 26 avr 20h00 HL  
 Ouverture de la rétrospective  
-- sa 20 mai 18h00 HL
+- sa 20 mai 17h30 HL
 
 [57073]  
 **Pourvu que ce soit une fille**  

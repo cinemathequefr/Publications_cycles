@@ -35,6 +35,10 @@ d'Orson Welles
 États-Unis / 1957 / 95 min / VOSTF / 35 mm  
 D'après le roman _Manque de pot_ de Whit Masterson.  
 Avec Charlton Heston, Janet Leigh, Orson Welles, Akim Tamiroff.  
+À la frontière entre les États-Unis et le Mexique, une bombe explose dans la voiture de l'homme qui tient la ville sous sa coupe. Hank Quinlan, un inspecteur américain, et Vargas, un haut fonctionnaire mexicain, vont mener l'enquête.
+
+---
+
 À la frontière entre les États-Unis et le Mexique, une bombe explose dans la voiture de l'homme qui tient la ville sous sa coupe. Pour mener l'enquête, deux hommes s'affrontent, l'inspecteur américain Hank Quinlan et le haut fonctionnaire mexicain, Miguel Vargas.  
 Version originelle de 1958.
 

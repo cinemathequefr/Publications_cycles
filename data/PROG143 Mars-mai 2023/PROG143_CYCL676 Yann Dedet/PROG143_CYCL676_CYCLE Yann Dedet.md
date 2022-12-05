@@ -6,9 +6,9 @@
 **Les Cloches de Silésie**  
 **(Das Unheil)**  
 de Peter Fleischmann  
-RFA / 1970 / 106 min / VOSTF / DCP  
+RFA / 1972 / 106 min / VOSTF / DCP  
 Avec Vitus Zeplichal, Reinhardt Kolldehoff, Silke Kulik.  
-Un pasteur de Silésie, ancien nazi, organise une fête commémorative pour le retour des cloches de son église, offertes en 1940 au Führer. Une étrange pollution contamine alors la rivière et la ville laisse transparaître ses malaises sociaux.
+Un pasteur de Silésie, ancien nazi, organise une fête commémorative pour le retour des cloches de son église, offertes en 1940 au Führer. Une étrange pollution contamine alors la rivière, et la ville laisse transparaître ses malaises sociaux.
 
 - je 11 mai 21h00 GF
 
@@ -128,7 +128,7 @@ Mathieu, 18 ans, passe l'été dans la maison d'été de sa mère, en Bretagne. 
 de Yann Dedet  
 France / 1988 / 17 min / 35 mm  
 Avec Brigitte Roüan, Jean-François Stévenin, Marilyne Canto.  
-Mai 68. Pendant que, dehors, on manifeste, un homme achève le montage de _Baisers volés._
+Mai 68. Pendant que, dehors, on manifeste, un homme achève le montage de _Baisers volés_.
 
 - ve 19 mai 20h45 GF  
 Film précédé de _Les Gants blancs_ de Louise Traon

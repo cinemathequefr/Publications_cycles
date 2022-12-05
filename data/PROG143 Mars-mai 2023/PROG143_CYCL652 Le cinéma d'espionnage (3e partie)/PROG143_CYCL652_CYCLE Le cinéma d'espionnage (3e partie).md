@@ -135,7 +135,7 @@ D'après le roman _A Dandy in Aspic_ de Derek Marlowe.
 Avec Laurence Harvey, Tom Courtenay, Mia Farrow.  
 Un agent double russe, qui se fait passer pour un espion britannique depuis dix-huit ans, voudrait démissionner, mais ses supérieurs refusent. Sa tâche se complique lorsqu'il est chargé d'éliminer l'un de ses compatriotes.
 
-- sa 20 mai 14h30 GF
+- sa 20 mai 14h30 HL
 
 [44727]  
 **Mes funérailles à Berlin**  

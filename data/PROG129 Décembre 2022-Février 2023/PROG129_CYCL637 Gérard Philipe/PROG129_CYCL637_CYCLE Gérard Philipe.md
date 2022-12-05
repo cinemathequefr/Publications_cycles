@@ -95,7 +95,7 @@ Séance présentée par Noël Herpe
 [49638]  
 **L'Idiot**  
 de Georges Lampin  
-France / 1946 / 96 min / VO / 16 mm  
+France / 1946 / 96 min / DCP  
 D'après le roman _L'Idiot_ de Fiodor Dostoïevski.  
 Avec Gérard Philipe, Edwige Feuillère, Lucien Coëdel.  
 De retour à Saint-Pétersbourg d'un asile psychiatrique, un prince russe maladif et candide devient malgré lui l'enjeu de deux femmes, la maîtresse et la future épouse du marchand Rogojine.

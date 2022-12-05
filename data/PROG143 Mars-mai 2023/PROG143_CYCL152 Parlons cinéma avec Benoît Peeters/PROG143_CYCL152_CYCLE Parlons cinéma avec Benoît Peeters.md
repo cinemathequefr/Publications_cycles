@@ -28,6 +28,10 @@ Des lettres d'un caméraman-voyageur, Sandor Krasna, lues par une femme. Attiré
 de Philippe de Broca  
 France-Italie / 1963  
 Avec Jean-Paul Belmondo, Françoise Dorléac, Jean Servais.  
+Alors qu'il pense passer quelques jours paisibles avec sa fiancée à Paris, un jeune militaire se retrouve embarqué, jusqu'au Brésil, dans une course effrénée à la recherche de statues précolombiennes aux mystérieux pouvoirs.
+
+---
+
 Alors qu'il pense passer quelques jours paisibles avec sa fiancée à Paris, un jeune militaire se retrouve embarqué dans une course effrénée à la recherche de statues Maltèques aux mystérieux pouvoirs.
 
 ---

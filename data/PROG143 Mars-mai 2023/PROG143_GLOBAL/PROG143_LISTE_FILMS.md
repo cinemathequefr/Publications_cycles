@@ -109,9 +109,10 @@
   * True Lies  
   * Tueur d'élite
 
-## Mario Monicelli (46)
+## Mario Monicelli (47)
 
   * Armata Brancaleone (L')  
+  * Bertoldo, Bertoldino e Cacasenno  
   * Boccace 70  
   * Brancaleone aux croisades  
   * Camarades (Les)  
