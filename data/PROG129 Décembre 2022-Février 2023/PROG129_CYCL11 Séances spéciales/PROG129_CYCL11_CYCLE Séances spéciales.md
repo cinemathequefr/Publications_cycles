@@ -86,7 +86,7 @@ Le festival 12x12 fête sa 13<sup>e</sup> édition et invite les Parisiennes et 
 [150941]  
 **Le Kiosque**  
 d'Alexandra Pianelli  
-France / 2020 / 78 min / Numérique  
+France / 2020 / 78 min / DCP  
 Paris, un kiosque à journaux. Alexandra est réalisatrice, fille, petite-fille et arrière-petite-fille de kiosquiers. Elle est venue prêter main-forte à sa mère et, comme dans un vieux rêve d'enfant, joue à la marchande.
 
 - di 11 déc 17h00 GF

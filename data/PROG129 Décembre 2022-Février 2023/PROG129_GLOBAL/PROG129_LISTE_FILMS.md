@@ -94,6 +94,10 @@
   * Spy Gone North (The)  
   * Tombe de Ligeia (La)
 
+## Conservatoire des techniques cinématographiques (1)
+
+  * Monsieur Trewey, illusionniste, dans ses transformations du chapeau I
+
 ## Fenêtre sur les collections (7)
 
   * Alekan le magnifique  

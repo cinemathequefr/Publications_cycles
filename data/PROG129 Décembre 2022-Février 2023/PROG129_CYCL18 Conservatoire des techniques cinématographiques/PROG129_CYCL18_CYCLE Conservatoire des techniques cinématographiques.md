@@ -17,6 +17,13 @@ Ce programme est susceptible de quelques modifications (consulter le site cinema
 
 - ve 9 déc 10h00 GF
 
+[154282]  
+**Monsieur Trewey, illusionniste, dans ses transformations du chapeau I**  
+d'Auguste Baron  
+France / 19 / 35 mm
+
+- ve 9 déc 10h30 GF
+
 **Illumination Mac Guff**  
 **Conférence de Jacques Bled**  
 Situé au cœur de Paris, Illumination Mac Guff est dédié à la fabrication des longs métrages d'animation produits par Illumination Entertainment pour Universal Pictures. Cette société de production a notamment fabriqué les franchises _Moi, moche et méchant_, _Les Minions_, _Comme des bêtes_, _Tous en scène_ ou _Le Grinch_. En quelques années, le studio est devenu une référence en matière d'animation 3D grâce à une technologie de pointe et des équipes artistiques et techniques mondialement reconnues pour leur expertise. Du storyboard au compositing, toutes les équipes sont réunies en un seul et même lieu afin de promouvoir la communication et la collaboration artistique entre départements. En production actuellement, quatre longs métrages d'Illumination Entertainment : les suites de _Minions_ et _Tous en scène_, et deux projets originaux. Suivront deux autres projets actuellement en cours de développement. Comment se fabrique un film chez Illumination Mac Guff ? Que représente le pôle recherche et développement dans cette entreprise ? Quels sont les projets en cours ?  

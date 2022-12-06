@@ -23,6 +23,16 @@ Stephen Locke, jeune agent britannique, sauve la vie d'Elena, jeune aristocrate 
 
 - ve 12 mai 16h00 GF
 
+[31525]  
+**L'Aigle des mers**  
+**(The Sea Hawk)**  
+de Michael Curtiz  
+États-Unis / 1947 / 127 min / VOSTF / 35 mm  
+Avec Errol Flynn, Donald Crisp, Claude Rains.  
+En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La reine Elizabeth investit en secret le corsaire Geoffrey Thorpe d'une mission visant à harceler la flotte espagnole.
+
+- di 7 mai 15h00 GF
+
 [31357]  
 **Les Anges aux figures sales**  
 **(Angels With Dirty Faces)**  

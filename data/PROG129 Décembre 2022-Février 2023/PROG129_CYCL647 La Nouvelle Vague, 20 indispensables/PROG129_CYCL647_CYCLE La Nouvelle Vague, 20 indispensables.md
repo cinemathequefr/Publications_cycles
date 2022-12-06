@@ -45,7 +45,7 @@ Restauration et numérisation par Ciné Tamaris et la Cinémathèque française 
 [47441]  
 **Le Beau Serge**  
 de Claude Chabrol  
-France / 1957 / 97 min / 35 mm  
+France / 1957 / 97 min / DCP  
 Avec Gérard Blain, Jean-Claude Brialy, Michèle Méritz, Bernadette Lafont.  
 François revient, après dix ans d'absence, dans la bourgade creusoise où il a grandi. Il retrouve Serge, un ami d'enfance.
 

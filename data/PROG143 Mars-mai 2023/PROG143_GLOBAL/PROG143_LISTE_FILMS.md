@@ -45,6 +45,23 @@
   * Souffle sauvage (Le)  
   * Vagabond et les lutins (Le)
 
+## Jeune public (14)
+
+  * Docteur Jerry et Mister Love  
+  * E.T. l'extra-terrestre  
+  * Etre et avoir  
+  * Fenêtre sur cour  
+  * Homme des vallées perdues (L')  
+  * Jason et les Argonautes  
+  * Jour de fête  
+  * Lumières de la ville (Les)  
+  * Malheurs de Sophie (Les)  
+  * Pinocchio  
+  * Ponyo sur la falaise  
+  * Trois âges (Les)  
+  * Un Américain à Paris  
+  * Zazie dans le métro
+
 ## L'image des plaisirs (9)
 
   * Chôfuku-ki  
@@ -214,10 +231,11 @@
   * Trois Mousquetaires (Les)  
   * Ultime garconnière (L')
 
-## Warner Bros., fabrique de stars (38)
+## Warner Bros., fabrique de stars (39)
 
   * A chaque aube je meurs  
   * Agent britannique  
+  * Aigle des mers (L')  
   * Anges aux figures sales (Les)  
   * Aventures de Don Juan (Les)  
   * Bar magnifique (Le)  
