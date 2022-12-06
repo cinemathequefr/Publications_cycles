@@ -41,25 +41,25 @@ Un ex-agent de la CIA est engagé dans un combat politique au Salvador, pays rav
 
 - ve 21 avr 21h00 GF
 
-[56461]  
-**Le Sursis**  
-**(The Sell-Out)**  
-de Peter Collinson  
-Grande-Bretagne-Italie / 1977 / 101 min / VF / 35 mm  
-Avec Richard Widmark, Oliver Reed, Gayle Hunnicutt.  
-Un ex-agent de la CIA tient un magasin d'antiquités à Jérusalem, où il mène une vie paisible avec sa maîtresse. L'un de ses anciens collaborateurs vient un jour lui demander de l'aide.
+[116193]  
+**J'étais une espionne américaine**  
+**(I Was an American Spy)**  
+de Lesley Selander  
+États-Unis / 1951 / 85 min / VF / 35 mm  
+Avec Ann Dvorak, Gene Evans, Douglas Kennedy.  
+Seconde Guerre mondiale. Une jeune fille de Manille devient espionne au service des Américains après le meurtre de son mari par un Japonais. Elle ouvre un cabaret et se fait passer pour collaboratrice afin de glaner des renseignements.
 
 - ve 28 avr 19h00 GF
 
-[101068]  
-**Train de nuit pour Munich**  
-**(Night Train to Munich)**  
-de Carol Reed  
-Grande-Bretagne / 1940 / 93 min / VOSTF / Numérique  
-Avec Rex Harrison, Paul Henreid, Basil Radford, Margaret Lockwood.  
-1939. Les Allemands envahissent la Tchécoslovaquie et s'apprêtent à déferler sur l'Europe. Intéressés par les connaissances d'un expert en blindés, ils enlèvent sa fille afin de le faire chanter.
+[35847]  
+**Les Héros dans l'ombre**  
+**(O.S.S.)**  
+d'Irving Pichel  
+États-Unis / 1946 / 107 min / VF / 16 mm  
+Avec Alan Ladd, Geraldine Fitzgerald, Patric Knowles.  
+Durant l'été 1943, des officiers de l'O.S.S. sont parachutés en France avec pour mission de détruire le tunnel de Corbet-Mallons, et interdire ainsi toutes les communications ferroviaires vers la côte.
 
-- ve 28 avr 21h15 GF
+- ve 28 avr 21h00 GF
 
 [83138]  
 **F.B.I. contre Lotus Bleu**  

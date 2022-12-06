@@ -5,72 +5,6 @@
       "tri": 1,
       "items": [
         {
-          "idSeance": 92749,
-          "ordre": 1,
-          "dateHeure": "2023-03-25T18:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 2943,
-          "idEvenement": 27497,
-          "typeEvenement": 13,
-          "idFilm": 41637,
-          "titre": "Au secours !",
-          "titreVo": "Help !",
-          "realisateurs": "Richard Lester",
-          "annee": 1965,
-          "pays": "Grande-Bretagne",
-          "duree": 92,
-          "version": "VOSTF",
-          "format": "16 mm",
-          "generique": [
-            "John Lennon",
-            "Paul McCartney",
-            "George Harrison",
-            "Ringo Starr"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les Beatles sont menacés par une mystérieuse secte maléfique."
-            }
-          ]
-        },
-        {
-          "idSeance": 92835,
-          "ordre": 1,
-          "dateHeure": "2023-04-03T16:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2943,
-          "idEvenement": 27497,
-          "typeEvenement": 13,
-          "idFilm": 41637,
-          "titre": "Au secours !",
-          "titreVo": "Help !",
-          "realisateurs": "Richard Lester",
-          "annee": 1965,
-          "pays": "Grande-Bretagne",
-          "duree": 92,
-          "version": "VOSTF",
-          "format": "16 mm",
-          "generique": [
-            "John Lennon",
-            "Paul McCartney",
-            "George Harrison",
-            "Ringo Starr"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les Beatles sont menacés par une mystérieuse secte maléfique."
-            }
-          ]
-        },
-        {
           "idSeance": 92803,
           "ordre": 1,
           "dateHeure": "2023-03-17T17:30:00",
@@ -90,6 +24,11 @@
           "duree": 96,
           "version": "",
           "format": "35 mm",
+          "generique": [
+            "Michael O'Keefe",
+            "Beverly D'Angelo",
+            "Louis Gossett Jr."
+          ],
           "textes": [
             {
               "typeTexte": 9,
@@ -117,6 +56,11 @@
           "duree": 96,
           "version": "",
           "format": "35 mm",
+          "generique": [
+            "Michael O'Keefe",
+            "Beverly D'Angelo",
+            "Louis Gossett Jr."
+          ],
           "textes": [
             {
               "typeTexte": 9,
@@ -141,14 +85,15 @@
           "titre": "Comment j'ai gagné la guerre",
           "titreVo": "How I Won the War",
           "realisateurs": "Richard Lester",
-          "annee": 1966,
+          "annee": 1967,
           "pays": "Grande-Bretagne",
           "duree": 109,
           "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "John Lennon",
-            "Michael Crawford"
+            "Michael Crawford",
+            "Roy Kinnear"
           ],
           "textes": [
             {
@@ -172,14 +117,15 @@
           "titre": "Comment j'ai gagné la guerre",
           "titreVo": "How I Won the War",
           "realisateurs": "Richard Lester",
-          "annee": 1966,
+          "annee": 1967,
           "pays": "Grande-Bretagne",
           "duree": 109,
           "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "John Lennon",
-            "Michael Crawford"
+            "Michael Crawford",
+            "Roy Kinnear"
           ],
           "textes": [
             {
@@ -202,7 +148,7 @@
           "idFilm": 57348,
           "titre": "Cuba",
           "realisateurs": "Richard Lester",
-          "annee": 1978,
+          "annee": 1979,
           "pays": "États-Unis",
           "duree": 122,
           "version": "VO",
@@ -241,11 +187,12 @@
           "version": "VO",
           "format": "35 mm",
           "generique": [
-            "Buster Keaton",
             "Zero Mostel",
-            "Phil Silvers"
+            "Phil Silvers",
+            "Jack Gilford",
+            "Buster Keaton"
           ],
-          "adaptation": "D'après la pièce _ A Funny Thing Happened on the Way to the Forum_ de Larry Gelbart et Burt Shevelove.",
+          "adaptation": "D'après le musical _A Funny Thing Happened on the Way to the Forum_ de Stephen Sondheim, Larry Gelbart et Burt Shevelove.",
           "textes": [
             {
               "typeTexte": 9,
@@ -270,12 +217,79 @@
           "annee": 1991,
           "pays": "États-Unis",
           "duree": 91,
-          "version": "",
+          "version": "VOSTF",
           "format": "35 mm",
+          "generique": [
+            "Paul McCartney"
+          ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "La tournée mondiale en 1989-90 de Paul Mac Cartney et son groupe, une heure trente de « live » ponctuée d'interviews et d'images d'archives."
+              "texte": "La tournée mondiale en 1989-90 de Paul McCartney avec ses musiciens, une heure trente de live ponctuée d'interviews et d'images d'archives."
+            }
+          ]
+        },
+        {
+          "idSeance": 92749,
+          "ordre": 1,
+          "dateHeure": "2023-03-25T18:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2943,
+          "idEvenement": 27497,
+          "typeEvenement": 13,
+          "idFilm": 41637,
+          "titre": "Help!",
+          "realisateurs": "Richard Lester",
+          "annee": 1965,
+          "pays": "Grande-Bretagne",
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "generique": [
+            "John Lennon",
+            "Paul McCartney",
+            "George Harrison",
+            "Ringo Starr"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les Beatles sont menacés par une mystérieuse secte maléfique."
+            }
+          ]
+        },
+        {
+          "idSeance": 92835,
+          "ordre": 1,
+          "dateHeure": "2023-04-03T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2943,
+          "idEvenement": 27497,
+          "typeEvenement": 13,
+          "idFilm": 41637,
+          "titre": "Help!",
+          "realisateurs": "Richard Lester",
+          "annee": 1965,
+          "pays": "Grande-Bretagne",
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "generique": [
+            "John Lennon",
+            "Paul McCartney",
+            "George Harrison",
+            "Ringo Starr"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les Beatles sont menacés par une mystérieuse secte maléfique."
             }
           ]
         },
@@ -291,7 +305,7 @@
           "idEvenement": 27498,
           "typeEvenement": 13,
           "idFilm": 147487,
-          "titre": "It's Trad, Dad !",
+          "titre": "It's Trad, Dad!",
           "realisateurs": "Richard Lester",
           "annee": 1962,
           "pays": "Grande-Bretagne",
@@ -305,7 +319,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Deux ados organisent un festival de jazz malgré les objections du maire de leur commune."
+              "texte": "Deux ados organisent un festival de jazz malgré les objections du maire de leur petite ville."
             }
           ]
         },
@@ -323,7 +337,7 @@
           "idFilm": 34742,
           "art": "Les",
           "titre": "Joyeux débuts de Butch Cassidy et le Kid",
-          "titreVo": "Butch and Sundance : The Early Years",
+          "titreVo": "Butch and Sundance : The Early Days",
           "realisateurs": "Richard Lester",
           "annee": 1979,
           "pays": "États-Unis",
@@ -338,7 +352,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Butch Cassidy, libéré de prison, rencontre dans un saloon celui qui sera son compagnon de galère, Sundance Kid. Ils s'associent, commettent plusieurs délits, et sont recherchés par le shérif Bledsoe."
+              "texte": "Butch Cassidy, libéré de prison, rencontre dans un saloon son futur compagnon de galère, Sundance Kid. Ils s'associent, commettent plusieurs délits, et sont recherchés par le shérif Bledsoe."
             }
           ]
         },
@@ -356,7 +370,7 @@
           "idFilm": 34742,
           "art": "Les",
           "titre": "Joyeux débuts de Butch Cassidy et le Kid",
-          "titreVo": "Butch and Sundance : The Early Years",
+          "titreVo": "Butch and Sundance : The Early Days",
           "realisateurs": "Richard Lester",
           "annee": 1979,
           "pays": "États-Unis",
@@ -371,7 +385,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Butch Cassidy, libéré de prison, rencontre dans un saloon celui qui sera son compagnon de galère, Sundance Kid. Ils s'associent, commettent plusieurs délits, et sont recherchés par le shérif Bledsoe."
+              "texte": "Butch Cassidy, libéré de prison, rencontre dans un saloon son futur compagnon de galère, Sundance Kid. Ils s'associent, commettent plusieurs délits, et sont recherchés par le shérif Bledsoe."
             }
           ]
         },
@@ -388,25 +402,93 @@
           "typeEvenement": 13,
           "idFilm": 41625,
           "art": "Le",
-          "titre": "Knack et comment l'avoir",
+          "titre": "Knack... et comment l'avoir",
           "artVo": "The",
-          "titreVo": "Knack and How to Get It",
+          "titreVo": "Knack... and How to Get It",
           "realisateurs": "Richard Lester",
-          "annee": 1964,
+          "annee": 1965,
           "pays": "Grande-Bretagne",
           "duree": 90,
-          "version": "VO",
-          "format": "16 mm",
+          "version": "VOSTF",
+          "format": "35 mm",
           "generique": [
             "Rita Tushingham",
             "Ray Brooks",
             "Michael Crawford"
           ],
-          "adaptation": "D'après la pièce _The Knack and How to Get It_ d'Ann Jellicoe.",
+          "adaptation": "D'après la pièce _The Knack: A Comedy in Three Acts_ d'Ann Jellicoe.",
           "textes": [
             {
               "typeTexte": 9,
               "texte": "Un homme souhaite apprendre comment conquérir les femmes."
+            }
+          ]
+        },
+        {
+          "idSeance": 92760,
+          "ordre": 1,
+          "dateHeure": "2023-03-31T20:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2943,
+          "idEvenement": 27503,
+          "typeEvenement": 13,
+          "idFilm": 41511,
+          "titre": "Le Froussard héroïque",
+          "titreVo": "Royal Flash",
+          "realisateurs": "Richard Lester",
+          "annee": 1975,
+          "pays": "Grande-Bretagne",
+          "duree": 102,
+          "version": "VOSTF",
+          "format": "",
+          "generique": [
+            "Malcolm McDowell",
+            "Alan Bates",
+            "Florinda Bolkan",
+            "Oliver Reed"
+          ],
+          "adaptation": "D'après le roman _Royal Flash_ de George MacDonald Fraser.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au XIX<sup>e</sup> siècle, les aventures diplomatiques et sentimentales d'un jeune officier, poltron et débauché, à la cour du roi de Prusse."
+            }
+          ]
+        },
+        {
+          "idSeance": 91204,
+          "ordre": 1,
+          "dateHeure": "2023-04-12T20:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2943,
+          "idEvenement": 27503,
+          "typeEvenement": 13,
+          "idFilm": 41511,
+          "titre": "Le Froussard héroïque",
+          "titreVo": "Royal Flash",
+          "realisateurs": "Richard Lester",
+          "annee": 1975,
+          "pays": "Grande-Bretagne",
+          "duree": 102,
+          "version": "VOSTF",
+          "format": "",
+          "generique": [
+            "Malcolm McDowell",
+            "Alan Bates",
+            "Florinda Bolkan",
+            "Oliver Reed"
+          ],
+          "adaptation": "D'après le roman _Royal Flash_ de George MacDonald Fraser.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au XIX<sup>e</sup> siècle, les aventures diplomatiques et sentimentales d'un jeune officier, poltron et débauché, à la cour du roi de Prusse."
             }
           ]
         },
@@ -426,7 +508,7 @@
           "artVo": "The",
           "titreVo": "Four Musketeers",
           "realisateurs": "Richard Lester",
-          "annee": 1973,
+          "annee": 1974,
           "pays": "Panama",
           "duree": 107,
           "version": "",
@@ -440,7 +522,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "D'Artagnan ayant déjoué le complot des « Ferrets de la Reine », Milady fait enlever Constance, son amie. Les Mousquetaires parviendront-ils à la sauver?"
+              "texte": "Pour prendre sa revanche sur d'Artagnan, qui a déjoué le complot des ferrets de la reine, Milady fait enlever son amie Constance. Les Mousquetaires tentent alors de la délivrer."
             }
           ]
         },
@@ -458,21 +540,21 @@
           "idFilm": 34225,
           "titre": "Petulia",
           "realisateurs": "Richard Lester",
-          "annee": 1967,
+          "annee": 1968,
           "pays": "États-Unis-Grande-Bretagne",
           "duree": 103,
           "version": "VOSTF",
           "format": "35 mm",
           "generique": [
-            "Joseph Cotten",
             "Julie Christie",
-            "George C. Scott"
+            "George C. Scott",
+            "Richard Chamberlain"
           ],
           "adaptation": "D'après le roman _Me and the Arch Kook Petulia_ de John Haase.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Au cours d'une soirée de charité, le Dr Archie Bollen rencontre Petulia, une très belle femme mariée. Ils passent la nuit ensemble. C'est le début d'une liaison extravagante qui va bouleverser la vie d'Archie."
+              "texte": "Au cours d'une soirée de charité, le docteur Archie Bollen rencontre Petulia, une très belle femme mariée. Ils passent la nuit ensemble. C'est le début d'une liaison extravagante qui va bouleverser la vie d'Archie."
             }
           ]
         },
@@ -490,21 +572,21 @@
           "idFilm": 34225,
           "titre": "Petulia",
           "realisateurs": "Richard Lester",
-          "annee": 1967,
+          "annee": 1968,
           "pays": "États-Unis-Grande-Bretagne",
           "duree": 103,
           "version": "VOSTF",
           "format": "35 mm",
           "generique": [
-            "Joseph Cotten",
             "Julie Christie",
-            "George C. Scott"
+            "George C. Scott",
+            "Richard Chamberlain"
           ],
           "adaptation": "D'après le roman _Me and the Arch Kook Petulia_ de John Haase.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Au cours d'une soirée de charité, le Dr Archie Bollen rencontre Petulia, une très belle femme mariée. Ils passent la nuit ensemble. C'est le début d'une liaison extravagante qui va bouleverser la vie d'Archie."
+              "texte": "Au cours d'une soirée de charité, le docteur Archie Bollen rencontre Petulia, une très belle femme mariée. Ils passent la nuit ensemble. C'est le début d'une liaison extravagante qui va bouleverser la vie d'Archie."
             }
           ]
         },
@@ -529,6 +611,12 @@
           "duree": 0,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Paul McCartney",
+            "George Harrison",
+            "John Lennon",
+            "Ringo Starr"
+          ],
           "textes": [
             {
               "typeTexte": 9,
@@ -553,7 +641,7 @@
           "artVo": "The",
           "titreVo": "Return of the Musketeers",
           "realisateurs": "Richard Lester",
-          "annee": 1988,
+          "annee": 1989,
           "pays": "Grande-Bretagne-France-Espagne",
           "duree": 102,
           "version": "",
@@ -561,13 +649,13 @@
           "generique": [
             "Michael York",
             "Oliver Reed",
-            "Frank Finlay",
+            "Richard Chamberlain",
             "Philippe Noiret"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "France, 1649. Le Cardinal Mazarin ordonne à D'Artagnan de retrouver Athos, Porthos et Aramis pour les mettre à son service."
+              "texte": "France, 1649. Le cardinal Mazarin ordonne à d'Artagnan de retrouver Athos, Porthos et Aramis pour les mettre à son service."
             }
           ]
         },
@@ -593,12 +681,14 @@
           "format": "35 mm",
           "generique": [
             "Jack Weston",
-            "Rita Moreno"
+            "Rita Moreno",
+            "Jerry Stiller"
           ],
+          "adaptation": "D'après la pièce _The Ritz_ de Terrence McNally.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Menacé de mort, un homme se réfugie au Ritz, un hôtel-bains publics pour la communauté gay."
+              "texte": "Pourchassé par un tueur de la pègre, un homme demande à un chauffeur de taxi de le conduire dans un lieu sûr. Il trouve refuge au Ritz, qui s'avère être un sauna gay."
             }
           ]
         },
@@ -619,7 +709,7 @@
           "titre": "Rose et la flèche",
           "titreVo": "Robin and Marian",
           "realisateurs": "Richard Lester",
-          "annee": 1975,
+          "annee": 1976,
           "pays": "États-Unis",
           "duree": 107,
           "version": "VOSTF",
@@ -632,71 +722,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "De retour d'exil, Robin des Bois, vieilli, meurtri par les Croisades, retrouve la forêt de Sherwood et Marian, son amour de jeunesse."
-            }
-          ]
-        },
-        {
-          "idSeance": 92760,
-          "ordre": 1,
-          "dateHeure": "2023-03-31T20:45:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 2943,
-          "idEvenement": 27503,
-          "typeEvenement": 13,
-          "idFilm": 41511,
-          "titre": "Royal Flash",
-          "realisateurs": "Richard Lester",
-          "annee": 1974,
-          "pays": "Grande-Bretagne",
-          "duree": 102,
-          "version": "VOSTF",
-          "format": "",
-          "generique": [
-            "Malcolm McDowell",
-            "Alan Bates",
-            "Florinda Bolkan",
-            "Oliver Reed"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Au XIXe siècle, les aventures diplomatiques et sentimentales d'une jeune officier, poltron et débauché, à la cour du Roi de Prusse."
-            }
-          ]
-        },
-        {
-          "idSeance": 91204,
-          "ordre": 1,
-          "dateHeure": "2023-04-12T20:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2943,
-          "idEvenement": 27503,
-          "typeEvenement": 13,
-          "idFilm": 41511,
-          "titre": "Royal Flash",
-          "realisateurs": "Richard Lester",
-          "annee": 1974,
-          "pays": "Grande-Bretagne",
-          "duree": 102,
-          "version": "VOSTF",
-          "format": "",
-          "generique": [
-            "Malcolm McDowell",
-            "Alan Bates",
-            "Florinda Bolkan",
-            "Oliver Reed"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Au XIXe siècle, les aventures diplomatiques et sentimentales d'une jeune officier, poltron et débauché, à la cour du Roi de Prusse."
+              "texte": "De retour d'exil, Robin des Bois, vieilli, meurtri par les Croisades, retrouve la forêt de Sherwood et Marianne, son amour de jeunesse."
             }
           ]
         },
@@ -723,7 +749,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Le premier court métrage de Richard Lester est une comédie burlesque composée de plusieurs saynètes absurdes."
+              "texte": "Suite de saynètes absurdes montrant les occupations des Anglais au cours de leurs dimanches."
             }
           ]
         },
@@ -740,22 +766,24 @@
           "typeEvenement": 13,
           "idFilm": 41590,
           "art": "La",
-          "titre": "Souris sur la lune",
+          "titre": "Souris sur la Lune",
+          "artVo": "The",
           "titreVo": "Mouse on the Moon",
           "realisateurs": "Richard Lester",
-          "annee": 1962,
+          "annee": 1963,
           "pays": "Grande-Bretagne",
           "duree": 85,
           "version": "VO",
           "format": "35 mm",
           "generique": [
-            "Margaret Rutherford",
+            "Margaret Rutheford",
+            "Ron Moody",
             "Bernard Cribbins"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Le Duché du Grand Fenwick réussit le premier à envoyer une fusée dans la lune. Suite de « La Souris qui rugissait » de Jack Arnold."
+              "texte": "Le Duché du Grand Fenwick réussit le premier à envoyer une fusée sur la Lune."
             }
           ]
         },
@@ -772,22 +800,24 @@
           "typeEvenement": 13,
           "idFilm": 41590,
           "art": "La",
-          "titre": "Souris sur la lune",
+          "titre": "Souris sur la Lune",
+          "artVo": "The",
           "titreVo": "Mouse on the Moon",
           "realisateurs": "Richard Lester",
-          "annee": 1962,
+          "annee": 1963,
           "pays": "Grande-Bretagne",
           "duree": 85,
           "version": "VO",
           "format": "35 mm",
           "generique": [
-            "Margaret Rutherford",
+            "Margaret Rutheford",
+            "Ron Moody",
             "Bernard Cribbins"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Le Duché du Grand Fenwick réussit le premier à envoyer une fusée dans la lune. Suite de « La Souris qui rugissait » de Jack Arnold."
+              "texte": "Le Duché du Grand Fenwick réussit le premier à envoyer une fusée sur la Lune."
             }
           ]
         },
@@ -803,7 +833,7 @@
           "idEvenement": 27502,
           "typeEvenement": 13,
           "idFilm": 34219,
-          "titre": "Superman II, l'aventure continue",
+          "titre": "Superman 2 : L'Aventure continue",
           "titreVo": "Superman II",
           "realisateurs": "Richard Lester",
           "annee": 1980,
@@ -811,10 +841,15 @@
           "duree": 127,
           "version": "VOSTF",
           "format": "",
+          "generique": [
+            "Christopher Reeve",
+            "Margot Kidder",
+            "Terence Stamp"
+          ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Trois terroristes ont pris possession de la Tour Eiffel. Ils menacent d'y faire exploser une bombe atomique, contraignant Superman à reprendre du service."
+              "texte": "Trois terroristes ont pris possession de la tour Eiffel. Ils menacent d'y faire exploser une bombe atomique, contraignant Superman à reprendre du service."
             }
           ]
         },
@@ -830,9 +865,10 @@
           "idEvenement": 27508,
           "typeEvenement": 13,
           "idFilm": 34197,
-          "titre": "Superman III",
+          "titre": "Superman 3",
+          "titreVo": "Superman III",
           "realisateurs": "Richard Lester",
-          "annee": 1982,
+          "annee": 1983,
           "pays": "Grande-Bretagne",
           "duree": 125,
           "version": "VOSTF",
@@ -840,7 +876,7 @@
           "generique": [
             "Christopher Reeve",
             "Richard Pryor",
-            "Jackie Cooper"
+            "Robert Vaughn"
           ],
           "textes": [
             {
@@ -872,12 +908,13 @@
           "generique": [
             "Omar Sharif",
             "Anthony Hopkins",
-            "Richard Harris"
+            "Richard Harris",
+            "David Hemmings"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un maître chanteur exige une rançon en échange du désarmement de sept bombes qu'il a placées à bord du paquebot transatlantique Britannic."
+              "texte": "Un maître-chanteur exige une rançon en échange du désarmement de sept bombes qu'il a placées à bord du paquebot transatlantique Britannic."
             }
           ]
         },
@@ -904,12 +941,13 @@
           "generique": [
             "Omar Sharif",
             "Anthony Hopkins",
-            "Richard Harris"
+            "Richard Harris",
+            "David Hemmings"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un maître chanteur exige une rançon en échange du désarmement de sept bombes qu'il a placées à bord du paquebot transatlantique Britannic."
+              "texte": "Un maître-chanteur exige une rançon en échange du désarmement de sept bombes qu'il a placées à bord du paquebot transatlantique Britannic."
             }
           ]
         },
@@ -926,7 +964,7 @@
           "typeEvenement": 13,
           "idFilm": 54263,
           "art": "Les",
-          "titre": "Trois mousquetaires",
+          "titre": "Trois Mousquetaires",
           "artVo": "The",
           "titreVo": "Three Musketeers",
           "realisateurs": "Richard Lester",
@@ -941,11 +979,11 @@
             "Raquel Welch",
             "Richard Chamberlain"
           ],
-          "adaptation": "D'après le roman _Les Trois mousquetaires_ d'Alexandre Dumas.",
+          "adaptation": "D'après le roman _Les Trois Mousquetaires_ d'Alexandre Dumas.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Arrivant à Paris de sa Gascogne natale, D'Artagnan parvient à entrer dans le fameux régiment des Mousquetaires du roi Louis XIII. Il se lie d'amitié avec trois d'entre eux : Athos, Porthos et Aramis. Ils contribueront à déjouer un complot ourdi par le Cardinal de Richelieu."
+              "texte": "Arrivant à Paris de sa Gascogne natale, d'Artagnan parvient à entrer dans le fameux régiment des Mousquetaires du roi Louis XIII. Il se lie d'amitié avec trois d'entre eux : Athos, Porthos et Aramis. Ils contribueront à déjouer un complot ourdi par le cardinal de Richelieu."
             }
           ]
         },
@@ -969,16 +1007,17 @@
           "annee": 1969,
           "pays": "Grande-Bretagne",
           "duree": 90,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Rita Tushingham",
-            "Ralph Richardson"
+            "Ralph Richardson",
+            "Peter Cook"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Après une guerre nucléaire ultra-rapide, il ne reste que vingt survivants dans les décombres de ce qui fut notre planète."
+              "texte": "Après une guerre nucléaire éclair, il ne reste que vingt survivants dans les décombres de la planète."
             }
           ]
         },
@@ -1002,16 +1041,17 @@
           "annee": 1969,
           "pays": "Grande-Bretagne",
           "duree": 90,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Rita Tushingham",
-            "Ralph Richardson"
+            "Ralph Richardson",
+            "Peter Cook"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Après une guerre nucléaire ultra-rapide, il ne reste que vingt survivants dans les décombres de ce qui fut notre planète."
+              "texte": "Après une guerre nucléaire éclair, il ne reste que vingt survivants dans les décombres de la planète."
             }
           ]
         }

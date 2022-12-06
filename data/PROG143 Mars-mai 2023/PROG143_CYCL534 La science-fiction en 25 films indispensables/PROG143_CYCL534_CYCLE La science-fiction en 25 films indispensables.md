@@ -126,7 +126,7 @@ Une soucoupe volante atterrit à Washington. En dépit du scepticisme général,
 **Le Météore de la nuit**  
 **(It Came from Outer Space)**  
 de Jack Arnold  
-États-Unis / 1953 / 80 min / VOSTF / 35 mm  
+États-Unis / 1953 / 80 min / VOSTF / DCP  
 Avec Richard Carlson, Barbara Rush, Charles Drake.  
 Un vaisseau spatial atterrit accidentellement dans une zone désertique de l'Arizona. Les extra-terrestres, afin de ne pas effrayer les habitants de la région, empruntent l'apparence de certains d'entre eux. Un scientifique, accompagné d'une jeune institutrice, communique avec eux dans l'espoir d'apprendre à les connaître. Mais les habitants de la région leur sont hostiles et veulent les détruire.
 
@@ -186,7 +186,7 @@ Un vaisseau spatial d'origine martienne est découvert dans le métro londonien.
 **Le Mystère Andromède**  
 **(The Andromeda Strain)**  
 de Robert Wise  
-États-Unis / 1970 / 131 min / VOSTF / 35 mm  
+États-Unis / 1970 / 115 min / VOSTF / DCP  
 Avec Arthur Hill, David Wayne, Kate Reid.  
 Après la chute d'une sonde spatiale, une épidémie frappe une bourgade mexicaine. Quatre scientifiques des services bactériologiques de l'armée enquêtent sur ce mystérieux phénomène qui a décimé une grande partie de la population de cette petite ville du désert et menace l'humanité entière.
 

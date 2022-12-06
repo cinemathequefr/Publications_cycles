@@ -16,10 +16,10 @@
   * Carré de dames pour un as  
   * Coup de force à Berlin  
   * F.B.I. contre Lotus Bleu  
+  * Héros dans l'ombre (Les)  
+  * J'étais une espionne américaine  
   * SAS à San Salvador  
-  * SAS, l'œil de la veuve  
-  * Sursis (Le)  
-  * Train de nuit pour Munich
+  * SAS, l'œil de la veuve
 
 ## Hugo Fregonese (21)
 
@@ -190,28 +190,28 @@
 
 ## Richard Lester (23)
 
-  * Au secours !  
   * Cash-cash  
   * Comment j'ai gagné la guerre  
   * Cuba  
   * Forum en folie (Le)  
   * Get Back  
-  * It's Trad, Dad !  
+  * Help!  
+  * It's Trad, Dad!  
   * Joyeux débuts de Butch Cassidy et le Kid (Les)  
-  * Knack et comment l'avoir (Le)  
+  * Knack... et comment l'avoir (Le)  
+  * Le Froussard héroïque  
   * On l'appelait Milady  
   * Petulia  
   * Quatre garçons dans le vent  
   * Retour des mousquetaires (Le)  
   * Ritz (The)  
   * Rose et la flèche (La)  
-  * Royal Flash  
   * Running, Jumping and Standing Still Film (The)  
-  * Souris sur la lune (La)  
-  * Superman II, l'aventure continue  
-  * Superman III  
+  * Souris sur la Lune (La)  
+  * Superman 2 : L'Aventure continue  
+  * Superman 3  
   * Terreur sur le Britannic  
-  * Trois mousquetaires (Les)  
+  * Trois Mousquetaires (Les)  
   * Ultime garconnière (L')
 
 ## Warner Bros., fabrique de stars (38)
