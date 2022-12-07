@@ -156,7 +156,7 @@ En 2054, la société tente d'éradiquer les crimes en se dotant d'un système d
 **Mondwest**  
 **(Westworld)**  
 de Michael Crichton  
-États-Unis / 1973 / 88 min / VOSTF / 35 mm  
+États-Unis / 1973 / 88 min / STF / DCP  
 Avec Yul Brynner, Richard Benjamin, James Brolin.  
 Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger dans plusieurs époques. Lancés dans l'ouest sauvage, deux amis se retrouvent plongés en plein cauchemar quand ces androïdes se détraquent et s'attaquent aux touristes.
 
@@ -229,7 +229,7 @@ Avec Donatas Banionis, Natalya Bondarchuk.
 Envoyé sur la base spatiale Solaris, un ingénieur est confronté à une mystérieuse forme de vie.  
 Film restauré par les Studios Mosfilm d'après un négatif 35 mm.
 
-- di 26 mar 20h00 HL
+- di 26 mar 20h15 HL
 
 [59081]  
 **Soleil vert**  

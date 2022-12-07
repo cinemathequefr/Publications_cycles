@@ -7,7 +7,7 @@
 de Mario Monicelli  
 Italie-France-Espagne / 1965 / 120 min / VOSTF / 35 mm  
 Avec Vittorio Gassman, Catherine Spaak, Gian Maria Volonté.  
-Les aventures picaresques du chevalier Brancaleone et de son armée de gueux.
+Les aventures picaresques du chevalier Brancaleone et de son armée de gueux. Il se dirige vers le fief d'Aurocastro qu'il veut s'accaparer illégalement.
 
 - ve 28 avr 18h00 HL  
 Séance présentée par Jean A. Gili  
@@ -262,17 +262,6 @@ Avec Ugo Tognazzi, Philippe Noiret, Bernard Blier, Adolfo Celi.
 Après la mort de l'un des leurs, des quadragénaires se souviennent de leurs plaisanteries. Film conçu et écrit par Pietro Germi qui en confia la réalisation à Mario Monicelli.
 
 - sa 29 avr 20h30 HL
-
-[42460]  
-**Mes chers amis II**  
-**(Amici miei atto II)**  
-de Mario Monicelli  
-Italie / 1982 / VOSTF / 35 mm  
-Avec Ugo Tognazzi, Philippe Noiret.  
-Les nouvelles mésaventures des quatre quinquagénaires amis d'enfance, personnages principaux du premier volet, _Mes chers ami_s.
-
-- di 30 avr 20h30 HL  
-Séance présentée par Jean A. Gili
 
 [43261]  
 **Mortadella**  

@@ -1173,7 +1173,7 @@
   {
     "idSeance": 92754,
     "idEvenement": 27492,
-    "dateHeure": "2023-03-26T17:00:00",
+    "dateHeure": "2023-03-26T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1197,7 +1197,7 @@
   {
     "idSeance": 92755,
     "idEvenement": 27619,
-    "dateHeure": "2023-03-26T19:15:00",
+    "dateHeure": "2023-03-26T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1231,7 +1231,7 @@
   {
     "idSeance": 90816,
     "idEvenement": 27529,
-    "dateHeure": "2023-03-26T20:00:00",
+    "dateHeure": "2023-03-26T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1747,8 +1747,8 @@
         "realisateurs": "Michael Crichton",
         "annee": 1973,
         "duree": 88,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "version": "STF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31214"
@@ -1826,8 +1826,8 @@
     "hashEvenement": "f41965"
   },
   {
-    "idSeance": 90989,
-    "idEvenement": 27731,
+    "idSeance": 92848,
+    "idEvenement": 27736,
     "dateHeure": "2023-04-02T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -1838,39 +1838,16 @@
     ],
     "items": [
       {
-        "idFilm": 131243,
-        "titre": "Malheurs de Sophie",
-        "art": "Les",
-        "realisateurs": "Christophe Honoré",
-        "annee": 2015,
-        "duree": 107,
+        "idFilm": 45438,
+        "titre": "Jason et les Argonautes",
+        "realisateurs": "Don Chaffey",
+        "annee": 1963,
+        "duree": 117,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f131243"
-  },
-  {
-    "idSeance": 92785,
-    "idEvenement": 27234,
-    "dateHeure": "2023-04-02T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hugo Fregonese",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 45552,
-        "titre": "Signe des rénégats",
-        "art": "Le",
-        "realisateurs": "Hugo Fregonese",
-        "annee": 1951,
-        "version": "VOSTF"
-      }
-    ],
-    "hashEvenement": "f45552"
+    "hashEvenement": "f45438"
   },
   {
     "idSeance": 92561,
@@ -1897,9 +1874,9 @@
     "hashEvenement": "f59081"
   },
   {
-    "idSeance": 92786,
-    "idEvenement": 27222,
-    "dateHeure": "2023-04-02T19:00:00",
+    "idSeance": 92785,
+    "idEvenement": 27234,
+    "dateHeure": "2023-04-02T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1909,16 +1886,15 @@
     ],
     "items": [
       {
-        "idFilm": 32834,
-        "titre": "Mardi ça saignera",
+        "idFilm": 45552,
+        "titre": "Signe des rénégats",
+        "art": "Le",
         "realisateurs": "Hugo Fregonese",
-        "annee": 1954,
-        "duree": 83,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "annee": 1951,
+        "version": "VOSTF"
       }
     ],
-    "hashEvenement": "f32834"
+    "hashEvenement": "f45552"
   },
   {
     "idSeance": 92562,
@@ -1943,6 +1919,30 @@
       }
     ],
     "hashEvenement": "f45137"
+  },
+  {
+    "idSeance": 92786,
+    "idEvenement": 27222,
+    "dateHeure": "2023-04-02T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32834,
+        "titre": "Mardi ça saignera",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1954,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f32834"
   },
   {
     "idSeance": 92835,
@@ -2519,8 +2519,8 @@
     "hashEvenement": "f44727"
   },
   {
-    "idSeance": 91159,
-    "idEvenement": 27736,
+    "idSeance": 92847,
+    "idEvenement": 27729,
     "dateHeure": "2023-04-09T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -2531,16 +2531,16 @@
     ],
     "items": [
       {
-        "idFilm": 45438,
-        "titre": "Jason et les Argonautes",
-        "realisateurs": "Don Chaffey",
-        "annee": 1963,
-        "duree": 117,
-        "version": "VOSTF",
+        "idFilm": 79092,
+        "titre": "Etre et avoir",
+        "realisateurs": "Nicolas Philibert",
+        "annee": 2001,
+        "duree": 104,
+        "version": "VF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f45438"
+    "hashEvenement": "f79092"
   },
   {
     "idSeance": 91155,
@@ -3315,8 +3315,8 @@
     "hashEvenement": "f143416"
   },
   {
-    "idSeance": 91338,
-    "idEvenement": 27362,
+    "idSeance": 92852,
+    "idEvenement": 27330,
     "dateHeure": "2023-04-17T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -3327,38 +3327,40 @@
     ],
     "items": [
       {
-        "idFilm": 81305,
-        "titre": "Blondie Johnson",
-        "realisateurs": "Ray Enright",
-        "annee": 1933
+        "idFilm": 31300,
+        "titre": "Capitaine Blood",
+        "realisateurs": "Michael Curtiz",
+        "annee": 1935,
+        "duree": 119,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f81305"
+    "hashEvenement": "f31300"
   },
   {
-    "idSeance": 91339,
-    "idEvenement": 27336,
-    "dateHeure": "2023-04-17T20:00:00",
+    "idSeance": 92853,
+    "idEvenement": 27420,
+    "dateHeure": "2023-04-17T20:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Warner Bros., fabrique de stars",
+        "Peter Bogdanovich",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 31183,
-        "titre": "Tombeur",
-        "art": "Le",
-        "realisateurs": "Roy Del Ruth",
-        "annee": 1933,
-        "duree": 73,
+        "idFilm": 30580,
+        "titre": "Nickelodeon",
+        "realisateurs": "Peter Bogdanovich",
+        "annee": 1976,
+        "duree": 121,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
-    "hashEvenement": "f31183"
+    "hashEvenement": "f30580"
   },
   {
     "idSeance": 91368,
@@ -4052,8 +4054,8 @@
     "hashEvenement": "f46030"
   },
   {
-    "idSeance": 91538,
-    "idEvenement": 27729,
+    "idSeance": 92849,
+    "idEvenement": 27735,
     "dateHeure": "2023-04-26T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -4064,22 +4066,22 @@
     ],
     "items": [
       {
-        "idFilm": 79092,
-        "titre": "Etre et avoir",
-        "realisateurs": "Nicolas Philibert",
-        "annee": 2001,
-        "duree": 104,
-        "version": "VF",
+        "idFilm": 47147,
+        "titre": "Homme de Rio",
+        "art": "L'",
+        "realisateurs": "Philippe de Broca",
+        "annee": 1963,
+        "duree": 102,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f79092"
+    "hashEvenement": "f47147"
   },
   {
     "idSeance": 91539,
     "idEvenement": 27421,
-    "dateHeure": "2023-04-26T16:00:00",
-    "salle": "GF",
+    "dateHeure": "2023-04-26T17:00:00",
+    "salle": "HL",
     "cycle": [
       [
         "Peter Bogdanovich",
@@ -4632,30 +4634,6 @@
     "hashEvenement": "f59168"
   },
   {
-    "idSeance": 91670,
-    "idEvenement": 27322,
-    "dateHeure": "2023-04-30T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Warner Bros., fabrique de stars",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 29597,
-        "titre": "San Antonio",
-        "realisateurs": "David Butler",
-        "annee": 1945,
-        "duree": 111,
-        "version": "VF",
-        "format": "16 mm"
-      }
-    ],
-    "hashEvenement": "f29597"
-  },
-  {
     "idSeance": 92621,
     "idEvenement": 27256,
     "dateHeure": "2023-04-30T17:30:00",
@@ -4682,9 +4660,33 @@
     "hashEvenement": "f41255"
   },
   {
+    "idSeance": 91670,
+    "idEvenement": 27322,
+    "dateHeure": "2023-04-30T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Warner Bros., fabrique de stars",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29597,
+        "titre": "San Antonio",
+        "realisateurs": "David Butler",
+        "annee": 1945,
+        "duree": 111,
+        "version": "VF",
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f29597"
+  },
+  {
     "idSeance": 91671,
     "idEvenement": 27332,
-    "dateHeure": "2023-04-30T19:30:00",
+    "dateHeure": "2023-04-30T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4705,30 +4707,6 @@
       }
     ],
     "hashEvenement": "f31385"
-  },
-  {
-    "idSeance": 91666,
-    "idEvenement": 27261,
-    "dateHeure": "2023-04-30T20:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Mario Monicelli",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Jean A. Gili",
-    "items": [
-      {
-        "idFilm": 42460,
-        "titre": "Mes chers amis II",
-        "realisateurs": "Mario Monicelli",
-        "annee": 1982,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f42460"
   },
   {
     "idSeance": 91709,
@@ -5477,30 +5455,6 @@
     "hashEvenement": "f31258"
   },
   {
-    "idSeance": 91879,
-    "idEvenement": 27337,
-    "dateHeure": "2023-05-10T16:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Warner Bros., fabrique de stars",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 32517,
-        "titre": "Voyage sans retour",
-        "realisateurs": "Tay Garnett",
-        "annee": 1932,
-        "duree": 67,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f32517"
-  },
-  {
     "idSeance": 91883,
     "idEvenement": 27259,
     "dateHeure": "2023-05-10T18:00:00",
@@ -5524,6 +5478,30 @@
       }
     ],
     "hashEvenement": "f54899"
+  },
+  {
+    "idSeance": 91879,
+    "idEvenement": 27337,
+    "dateHeure": "2023-05-10T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Warner Bros., fabrique de stars",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32517,
+        "titre": "Voyage sans retour",
+        "realisateurs": "Tay Garnett",
+        "annee": 1932,
+        "duree": 67,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f32517"
   },
   {
     "idSeance": 92718,
@@ -6806,6 +6784,31 @@
     "hashEvenement": "f43270"
   },
   {
+    "idSeance": 92850,
+    "idEvenement": 26068,
+    "dateHeure": "2023-05-26T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Les films (e/a catégorisation ?)"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 56461,
+        "titre": "Sursis",
+        "art": "Le",
+        "realisateurs": "Peter Collinson",
+        "annee": 1977,
+        "duree": 101,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f56461"
+  },
+  {
     "idSeance": 92292,
     "idEvenement": 27267,
     "dateHeure": "2023-05-26T20:15:00",
@@ -6828,6 +6831,30 @@
       }
     ],
     "hashEvenement": "f53808"
+  },
+  {
+    "idSeance": 92851,
+    "idEvenement": 27024,
+    "dateHeure": "2023-05-26T21:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Les films (e/a catégorisation ?)"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 77230,
+        "titre": "Mission suicide à Singapour",
+        "realisateurs": "Ferdinando Baldi",
+        "annee": 1965,
+        "duree": 97,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f77230"
   },
   {
     "idSeance": 92327,
@@ -6927,6 +6954,30 @@
       }
     ],
     "hashEvenement": "f73067"
+  },
+  {
+    "idSeance": 92349,
+    "idEvenement": 27731,
+    "dateHeure": "2023-05-28T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jeune public",
+        "Ma petite Cinémathèque"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 131243,
+        "titre": "Malheurs de Sophie",
+        "art": "Les",
+        "realisateurs": "Christophe Honoré",
+        "annee": 2015,
+        "duree": 107,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f131243"
   },
   {
     "idSeance": 92671,

@@ -79,11 +79,13 @@ D'après le roman de Raymond Queneau Trente-six heures de la vie d'une petite fi
 
 - me 29 mar 15h00 GF
 
-[131243]  
-**Les Malheurs de Sophie**  
-de Christophe Honoré  
-France / 2015 / 107 min / DCP  
-D'après le roman _Les Malheurs de Sophie_ de Comtesse de Ségur.
+[45438]  
+**Jason et les Argonautes**  
+**(Jason and the Argonauts)**  
+de Don Chaffey  
+Grande-Bretagne / 1963 / 117 min / VOSTF / DCP  
+Avec Honor Blackman, Todd Armstrong, Gary Raymond, Niall MacGinnis, Nancy Kovack.  
+Jason, accompagné des fidèles Argonautes, part en quête de la Toison d'Or. Les déesses Athéna et Héra les aident à construire l'Argo, leur fabuleux navire. Mais est-ce suffisant pour affronter les nombreux monstres mythologiques qui jalonneront leur voyage: géants de pierre, femmes volantes, hydre à plusieurs têtes et squelettes vivants imaginés par Ray Harryhausen... ?
 
 - di 2 avr 15h00 GF
 
@@ -100,13 +102,11 @@ François est facteur, et même s'il distribue le courrier dans le petit bourg d
 
 - me 5 avr 15h00 GF
 
-[45438]  
-**Jason et les Argonautes**  
-**(Jason and the Argonauts)**  
-de Don Chaffey  
-Grande-Bretagne / 1963 / 117 min / VOSTF / DCP  
-Avec Honor Blackman, Todd Armstrong, Gary Raymond, Niall MacGinnis, Nancy Kovack.  
-Jason, accompagné des fidèles Argonautes, part en quête de la Toison d'Or. Les déesses Athéna et Héra les aident à construire l'Argo, leur fabuleux navire. Mais est-ce suffisant pour affronter les nombreux monstres mythologiques qui jalonneront leur voyage: géants de pierre, femmes volantes, hydre à plusieurs têtes et squelettes vivants imaginés par Ray Harryhausen... ?
+[79092]  
+**Etre et avoir**  
+de Nicolas Philibert  
+France / 2001 / 104 min / VF / DCP  
+Immersion au cœur de l'école d'un petit village rural d'Auvergne, dans son unique classe qui va de la maternelle au CM2. Jour après jour, on suit le quotidien de cette petite communauté d'enfants qui s'organise autour de l'instituteur.
 
 - di 9 avr 15h00 GF
 
@@ -152,11 +152,20 @@ Joey voit d'un œil inquiet l'arrivée de Shane, cowboy solitaire, dans la ferme
 
 - di 23 avr 15h00 GF
 
-[79092]  
-**Etre et avoir**  
-de Nicolas Philibert  
-France / 2001 / 104 min / VF / DCP  
-Immersion au cœur de l'école d'un petit village rural d'Auvergne, dans son unique classe qui va de la maternelle au CM2. Jour après jour, on suit le quotidien de cette petite communauté d'enfants qui s'organise autour de l'instituteur.
+[47147]  
+**L'Homme de Rio**  
+de Philippe de Broca  
+France-Italie / 1963 / 102 min / DCP  
+Avec Jean-Paul Belmondo, Françoise Dorléac, Jean Servais.  
+Alors qu'il pense passer quelques jours paisibles avec sa fiancée à Paris, un jeune militaire se retrouve embarqué, jusqu'au Brésil, dans une course effrénée à la recherche de statues précolombiennes aux mystérieux pouvoirs.
+
+---
+
+Alors qu'il pense passer quelques jours paisibles avec sa fiancée à Paris, un jeune militaire se retrouve embarqué dans une course effrénée à la recherche de statues Maltèques aux mystérieux pouvoirs.
+
+---
+
+Soldat en permission pour huit jours, Adrien arrive à Paris pour assister à l'enlèvement de sa fiancée par deux inconnus. Sans réfléchir une seconde, il se lance à la poursuite des ravisseurs et monte ainsi, clandestinement, à bord d'un avion pour... Rio.
 
 - me 26 avr 15h00 GF
 
@@ -203,4 +212,12 @@ Avec James Stewart, Grace Kelly, Wendell Corey.
 Un photographe, immobilisé avec une jambe plâtrée, n'a d'autre occupation que d'observer la cour de son immeuble et ses voisins. Bientôt, il soupçonne l'un d'entre eux d'avoir assassiné sa femme.
 
 - di 21 mai 15h00 GF
+
+[131243]  
+**Les Malheurs de Sophie**  
+de Christophe Honoré  
+France / 2015 / 107 min / DCP  
+D'après le roman _Les Malheurs de Sophie_ de Comtesse de Ségur.
+
+- di 28 mai 15h00 GF
 

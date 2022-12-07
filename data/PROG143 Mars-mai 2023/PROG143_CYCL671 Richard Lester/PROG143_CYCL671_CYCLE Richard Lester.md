@@ -43,7 +43,7 @@ D'après le musical _A Funny Thing Happened on the Way to the Forum_ de Stephen 
 Avec Zero Mostel, Phil Silvers, Jack Gilford, Buster Keaton.  
 Dans la Rome antique, Hero est amoureux d'une jeune fille, Philia, qui a été vendue comme esclave par Lycus, le marchand d'esclaves.
 
-- di 26 mar 17h00 GF
+- di 26 mar 17h30 GF
 
 [74542]  
 **Get Back**  
@@ -93,7 +93,7 @@ D'après la pièce _The Knack: A Comedy in Three Acts_ d'Ann Jellicoe.
 Avec Rita Tushingham, Ray Brooks, Michael Crawford.  
 Un homme souhaite apprendre comment conquérir les femmes.
 
-- di 26 mar 19h15 GF  
+- di 26 mar 19h45 GF  
 Film précédé de _The Running, Jumping and Standing Still Film_ de Richard Lester
 
 [41511]  
@@ -177,7 +177,7 @@ de Richard Lester
 Grande-Bretagne / 1959 / 11 min / 35 mm  
 Suite de saynètes absurdes montrant les occupations des Anglais au cours de leurs dimanches.
 
-- di 26 mar 19h15 GF  
+- di 26 mar 19h45 GF  
 Film suivi de _Le Knack... et comment l'avoir_ de Richard Lester
 
 [41590]  

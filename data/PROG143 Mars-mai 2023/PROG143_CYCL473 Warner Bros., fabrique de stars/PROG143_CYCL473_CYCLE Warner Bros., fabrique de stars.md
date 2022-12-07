@@ -64,14 +64,6 @@ Dans un cabaret parisien, Harry, un danseur, flirte dangereusement avec une rich
 
 - di 9 avr 19h00 HL
 
-[81305]  
-**Blondie Johnson**  
-de Ray Enright  
-États-Unis / 1933  
-Avec Joan Blondell.
-
-- lu 17 avr 18h00 GF
-
 [36931]  
 **Le Bourreau**  
 **(The Hatchet Man)**  
@@ -81,6 +73,16 @@ Avec Edward G. Robinson.
 À San Francisco, dans le quartier de Chinatown, le membre du gang Wong Low Get reçoit l'ordre de tuer son ami d'enfance Sun Yat Ming. Avant sa mort, Sun lui demande de prendre soin de sa fille Toya San et de l'épouser lorsqu'elle sera adulte.
 
 - je 4 mai 20h30 GF
+
+[31300]  
+**Capitaine Blood**  
+**(Captain Blood)**  
+de Michael Curtiz  
+États-Unis / 1935 / 119 min / VOSTF / 35 mm  
+Avec Errol Flynn, Olivia De Havilland, Basil Rathbone.  
+Les aventures de Peter Blood, médecin du XVIIe siècle, reconverti en pirate après avoir échappé à un emprisonnement injuste.
+
+- lu 17 avr 18h00 GF
 
 [31376]  
 **Casablanca**  
@@ -101,7 +103,7 @@ de Michael Curtiz
 Avec Errol Flynn, Olivia de Havilland, Patric Knowles.  
 En 1854, au cours de la guerre de Crimée, l'Angleterre et la France choisissent de défendre la Turquie contre les Russes. Un régiment de brigade légère est envoyé au front, mené à l'échec par des officiers rivaux.
 
-- di 30 avr 19h30 GF
+- di 30 avr 20h30 GF
 
 [34758]  
 **Chercheuses d'or**  
@@ -351,7 +353,7 @@ de David Butler
 Avec Errol Flynn, Alexis Smith, S.Z. Sakall.  
 Afin de mettre un terme aux agissements d'une bande de voleurs de bétails menée par Roy Stuart, Clay Hardin retourne à San Antonio en s'infiltrant dans la diligence de Jeanne Starr. En effet, cette dernière, chanteuse, se rend au cabaret de Roy où elle doit se produire.
 
-- di 30 avr 17h00 GF
+- di 30 avr 18h00 GF
 
 [30296]  
 **Le Témoin à abattre**  
@@ -361,15 +363,6 @@ de Lewis Allen
 Avec Edward G. Robinson, Nina Foch, Hugh Marlowe.
 
 - sa 15 avr 17h45 GF
-
-[31183]  
-**Le Tombeur**  
-**(Lady Killer)**  
-de Roy Del Ruth  
-États-Unis / 1933 / 73 min / VOSTF / 35 mm  
-Avec James Cagney.
-
-- lu 17 avr 20h00 GF
 
 [33476]  
 **Le Trésor de la Sierra Madre**  
@@ -402,7 +395,7 @@ Avec William Powell, Kay Francis, Frank McHugh.
 Dan et Joan se rencontrent alors qu'ils traversent le Pacifique de Hong-Kong à San Francisco. Ils tombent amoureux mais savent que leur histoire sera sans lendemain car Joan est gravement malade et Dan est un criminel recherché par la police voué à la peine de mort.
 
 - ve 7 avr 20h00 HL  
-- me 10 mai 16h00 GF
+- me 10 mai 18h00 HL
 
 ## Rencontres et conférences
 

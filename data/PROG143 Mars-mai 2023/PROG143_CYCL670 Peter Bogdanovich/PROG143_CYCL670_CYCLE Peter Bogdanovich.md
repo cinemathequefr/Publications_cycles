@@ -64,7 +64,7 @@ Avec Jeff Bridges, Ben Johnson, Ellen Burstyn, Timothy Bottoms, Cybil Shepherd.
 Le portrait de la jeunesse d'Anarene, une petite ville du Nord du Texas, en 1951.
 
 - sa 15 avr 14h30 HL  
-- me 26 avr 16h00 GF
+- me 26 avr 17h00 HL
 
 [30577]  
 **Enfin l'amour**  
@@ -134,7 +134,8 @@ de Peter Bogdanovich
 Avec Ryan O'Neal, Burt Reynolds, Stella Stevens.  
 À travers le destin de quatre jeunes gens, évocation de l'histoire du _nickelodeon_, l'ancêtre de la salle de cinéma.
 
-- sa 15 avr 20h45 HL
+- sa 15 avr 20h45 HL  
+- lu 17 avr 20h30 GF
 
 [30584]  
 **On s'fait la valise, docteur ?**  

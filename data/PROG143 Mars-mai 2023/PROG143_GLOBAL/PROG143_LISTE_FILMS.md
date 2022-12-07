@@ -10,7 +10,7 @@
   * Rue de la honte (La)  
   * Soif du mal (La)
 
-## Cinéma bis (8)
+## Cinéma bis (10)
 
   * Atout cœur à Tokyo pour OSS 117  
   * Carré de dames pour un as  
@@ -18,8 +18,10 @@
   * F.B.I. contre Lotus Bleu  
   * Héros dans l'ombre (Les)  
   * J'étais une espionne américaine  
+  * Mission suicide à Singapour  
   * SAS à San Salvador  
-  * SAS, l'œil de la veuve
+  * SAS, l'œil de la veuve  
+  * Sursis (Le)
 
 ## Hugo Fregonese (21)
 
@@ -45,12 +47,13 @@
   * Souffle sauvage (Le)  
   * Vagabond et les lutins (Le)
 
-## Jeune public (14)
+## Jeune public (15)
 
   * Docteur Jerry et Mister Love  
   * E.T. l'extra-terrestre  
   * Etre et avoir  
   * Fenêtre sur cour  
+  * Homme de Rio (L')  
   * Homme des vallées perdues (L')  
   * Jason et les Argonautes  
   * Jour de fête  
@@ -126,7 +129,7 @@
   * True Lies  
   * Tueur d'élite
 
-## Mario Monicelli (47)
+## Mario Monicelli (46)
 
   * Armata Brancaleone (L')  
   * Bertoldo, Bertoldino e Cacasenno  
@@ -154,7 +157,6 @@
   * Marquis s'amuse (Le)  
   * Medico e lo stregone (Il)  
   * Mes chers amis  
-  * Mes chers amis II  
   * Mortadella  
   * Nous voulons les colonels  
   * Nouveaux monstres (Les)  
@@ -231,7 +233,7 @@
   * Trois Mousquetaires (Les)  
   * Ultime garconnière (L')
 
-## Warner Bros., fabrique de stars (39)
+## Warner Bros., fabrique de stars (38)
 
   * A chaque aube je meurs  
   * Agent britannique  
@@ -239,8 +241,8 @@
   * Anges aux figures sales (Les)  
   * Aventures de Don Juan (Les)  
   * Bar magnifique (Le)  
-  * Blondie Johnson  
   * Bourreau (Le)  
+  * Capitaine Blood  
   * Casablanca  
   * Charge de la brigade légère (La)  
   * Chercheuses d'or  
@@ -268,7 +270,6 @@
   * Qu'est-il arrivé à Baby Jane ?  
   * San Antonio  
   * Témoin à abattre (Le)  
-  * Tombeur (Le)  
   * Trésor de la Sierra Madre (Le)  
   * Une femme cherche son destin  
   * Voyage sans retour

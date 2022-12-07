@@ -81,4 +81,24 @@ Le reporter Dick Hallam assiste à l'assassinat de Francisco Aguirez, candidat �
 
 - ve 5 mai 21h00 GF
 
+[56461]  
+**Le Sursis**  
+**(The Sell-Out)**  
+de Peter Collinson  
+Grande-Bretagne-Italie / 1977 / 101 min / VF / 35 mm  
+Avec Richard Widmark, Oliver Reed, Gayle Hunnicutt.  
+Un ex-agent de la CIA tient un magasin d'antiquités à Jérusalem, où il mène une vie paisible avec sa maîtresse. L'un de ses anciens collaborateurs vient un jour lui demander de l'aide.
+
+- ve 26 mai 19h00 GF
+
+[77230]  
+**Mission suicide à Singapour**  
+**(Goldsnake anonima killers)**  
+de Ferdinando Baldi  
+Italie-France-Espagne / 1965 / 97 min / VF / 35 mm  
+Avec Stanley Kent, Annabella Incontrera, Yoko Tani.  
+Pour aider les Services de contre-espionnage français et américain, le Pentagone envoie son agent spécial Kurt Jackson en Malaisie, pour retrouver un savant chinois, inventeur de bombes atomiques miniatures.
+
+- ve 26 mai 21h15 GF
+
 Remerciements : Cinémathèque de Toulouse, Cinémathèque Suisse, Film Archiv Optikum, Metropolitan Film Export, Emmanuel Rossi, Sidonis, Tamasa Distribution.
