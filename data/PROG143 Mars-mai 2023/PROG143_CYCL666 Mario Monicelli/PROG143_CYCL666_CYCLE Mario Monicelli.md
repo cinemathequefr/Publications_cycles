@@ -7,7 +7,7 @@
 de Mario Monicelli  
 Italie-France-Espagne / 1965 / 120 min / VOSTF / 35 mm  
 Avec Vittorio Gassman, Catherine Spaak, Gian Maria Volonté.  
-Les aventures picaresques du chevalier Brancaleone et de son armée de bandits.
+Les aventures picaresques du chevalier Brancaleone et de son armée de gueux.
 
 - ve 28 avr 18h00 HL  
 Séance présentée par Jean A. Gili  
@@ -50,7 +50,7 @@ Les nouvelles aventures de Brancaleone et de ses compagnons qui partent aux croi
 de Mario Monicelli  
 Italie-France-Yougoslavie / 1963 / 128 min / VOSTF / DCP  
 Avec Marcello Mastroianni, Renato Salvatori, Bernard Blier.  
-Fin du XIXème siècle, dans une fabrique textile de Turin, les ouvriers, soumis à un rythme de travail infernal, voient se multiplier les accidents. Trois d'entre eux entrent en conflit avec le contremaître à la suite d'un nouveau drame. Alors que des sanctions tombent, l'instituteur Sinigaglia, un militant socialiste, fraîchement débarqué de Gênes, pousse les ouvriers à s'organiser...
+Fin du XIXème siècle, dans une fabrique textile de Turin, les ouvriers, soumis à un rythme de travail infernal, voient se multiplier les accidents. Trois d'entre eux entrent en conflit avec le contremaître à la suite d'un nouveau drame. Alors que des sanctions tombent, l'instituteur Sinigaglia, un militant socialiste fraîchement débarqué de Gênes pousse les ouvriers à s'organiser...
 
 - di 30 avr 17h30 HL  
 Séance présentée par Jean A. Gili
@@ -157,7 +157,7 @@ Don Paolo, un jeune prêtre troublé par l'amour qu'il éprouve pour Agnese, ten
 de Mario Monicelli  
 Italie / 1995 / 108 min / VOSTF / DCP  
 Avec Lello Arena, Margherita Buy, Aurore Clément.  
-Portrait de la société italienne dans la seconde partie du XXe siècle à travers les yeux de Claudia Bertelli, née dans l'après-guerre.
+Portrait de la société italienne dans la seconde partie du XXe siècle à travers le parcours de Claudia Bertelli, née dans l'après-guerre d'une famille bourgeoise, rebelle, féministe, puis religieuse.
 
 - je 25 mai 18h00 HL
 
@@ -200,7 +200,7 @@ Séance présentée par Jean A. Gili
 de Mario Monicelli  
 Italie-France / 1963 / 130 min / VO / 35 mm  
 Avec Ugo Tognazzi, Michèle Mercier, Bernard Blier.  
-Quatre histoires. Celui de Mario Monicelli s'appelle Genta moderna : Cesare perd tout son argent avec son ami au jeu de cartes et afin de payer sa dette, il accepte de lui prêter pour une nuit son épouse Tebaide.
+Quatre histoires. Celle de Mario Monicelli s'appelle « Genta moderna » : Cesare perd tout son argent avec son ami au jeu de cartes et afin de payer sa dette, il accepte de lui prêter pour une nuit son épouse Tebaide.
 
 - je 18 mai 18h00 HL
 
@@ -230,7 +230,7 @@ Durant la nuit de la Saint-Sylvestre, deux figurants de cinéma errent dans la v
 de Mario Monicelli  
 Italie / 1989 / 113 min / VOSTF / 35 mm  
 Avec Giancarlo Giannini, Emmanuelle Seigner, Stefania Sandrelli.  
-Une étude douce-amère des névroses d'un écrivain.
+Une étude douce-amère des obsessions et des névroses d'un scénariste quadragénaire.
 
 - di 28 mai 14h30 HL
 
@@ -338,7 +338,7 @@ La vie et les aventures de plusieurs familles, voisines ou amies, dans l'Italie 
 de Mario Monicelli  
 Italie-Espagne / 1987 / 126 min / VOSTF / 35 mm  
 Avec Vittorio Gassman, Bernard Blier, Giancarlo Giannini, Nino Manfredi.  
-Une fantaisie historique se déroulant au temps des Conquistadors.
+Une fantaisie historique se déroulant au XVIème siècle. Deux vagabonds ont des ambitions modestes : manger et trouver un endroit pour dormir.
 
 - di 21 mai 17h45 HL
 
@@ -369,7 +369,7 @@ Les femmes d'une même famille, déçues par les hommes, se liguent pour faire f
 de Mario Monicelli  
 Italie / 2006 / 102 min / VOSTF / 35 mm  
 Avec Michele Placido, Giorgio Pasotti.  
-Les mésaventures d'une équipe médicale militaire à la fin de la seconde guerre mondiale.
+Les mésaventures d'une équipe médicale militaire durant la seconde guerre mondiale en Libye.
 
 - sa 27 mai 17h00 HL
 
@@ -389,7 +389,7 @@ de Mario Monicelli
 Italie-France-RFA / 1979 / 120 min / VOSTF / 35 mm  
 D'après le roman _Temporale Rosy_ de Carlo Brizzolara.  
 Avec Gérard Depardieu, Faith Minton, Roland Bock.  
-Raoul, un ancien boxeur, tombe amoureux d'une championne de catch, Rosy.
+Raoul, un ancien boxeur, tombe amoureux d'une championne de catch, Rosy. Leur relation est contrariée par le ressentiment de Raoul, jaloux du succès de Rosy.
 
 - ve 19 mai 18h00 HL
 
@@ -417,7 +417,7 @@ Lors d'une opération de la brigade des mœurs, l'agent de police Caccavallo arr
 de Mario Monicelli, Steno  
 Italie / 1952 / 104 min / VO / 35 mm  
 Avec Totò, Anna Carena, Giovanna Pala, Alberto Sordi.  
-Ercole Pappalardo, marié, cinq fils, cher che par tous les moyens de gravir les échelons de la société où il travaille, mais rien ne se passe comme prévu. Il prend alors une décision radicale...
+Ercole Pappalardo, marié, cinq fils, cherche par tous les moyens à gravir les échelons de la société où il travaille, mais rien ne se passe comme prévu. Il prend alors une décision radicale...
 
 - me 3 mai 18h00 HL
 
@@ -436,7 +436,7 @@ Antonio Scapparo ne supporte plus sa femme et se réfugie dans le grenier pour l
 de Mario Monicelli  
 Italie / 1977 / 122 min / VOSTF / 35 mm  
 Avec Alberto Sordi, Shelley Winters.  
-Modeste fonctionnaire à l'approche de la retraite, Vivaldi veut venger la mort de son fils.
+Modeste fonctionnaire à l'approche de la retraite, Vivaldi veut caser son fils dans l'administration. Un drame survient qui l'entraine dans une spirale de vengeance.
 
 - sa 29 avr 14h30 HL
 
@@ -446,7 +446,7 @@ Modeste fonctionnaire à l'approche de la retraite, Vivaldi veut venger la mort 
 de Mario Monicelli  
 Italie / 1955 / 85 min / VOSTF / DCP  
 Avec Alberto Sordi, Franca Valeri, Giovanna Ralli.  
-Les mésaventures d'Alberto, petit délateur timide et peureux, vivant encore chez sa mère et ayant l'art de se fourrer dans des situations aussi invraisemblables que désopilantes.
+Les mésaventures d'Alberto, petit délateur timide et peureux, vivant encore chez sa tante et une vieille gouvernante, et ayant l'art de se fourrer dans des situations aussi invraisemblables que désopilantes.
 
 - sa 29 avr 18h15 HL
 
@@ -466,7 +466,7 @@ Comme chaque année, la famille Colapietro, quatre frères et sœurs, leurs fami
 de Mario Monicelli  
 Italie-France / 1978 / 115 min / VO / 35 mm  
 Avec Giancarlo Giannini, Goldie Hawn, Claudine Auger.  
-Un Italien profite d'un deuil dans sa famille pour vivre une aventure extra-conjugale en compagnie d'une étrangère.
+En se rendant au chevet de son père mourant, un homme rencontre une actrice américaine avec qui il a une relation.
 
 - ve 19 mai 21h00 HL
 

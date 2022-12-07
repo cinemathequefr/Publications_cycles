@@ -298,7 +298,7 @@ Un homme tombe amoureux de sa belle-sœur et échafaude une machination pour se 
 d'Edmund Goulding  
 États-Unis / 1938 / 103 min / VOSTF / 35 mm  
 Avec Errol Flynn, Basil Rathbone, David Niven.  
-Pendant la 1ère Guerre Mondiale, un escadron de l'aviation britannique voit tous les jours s'envoler vers la mort de jeunes recrues inexpérimentées. Le capitaine Courtney, un officier que cette boucherie rend fou, s'en prend au major Brand, lui-même impuissant face à cette situation.
+Pendant la Première Guerre Mondiale, un escadron de l'aviation britannique voit tous les jours s'envoler vers la mort de jeunes recrues inexpérimentées. Le capitaine Courtney, un officier que cette boucherie rend fou, s'en prend au major Brand, lui-même impuissant face à cette situation.
 
 - je 27 avr 17h00 GF
 

@@ -133,7 +133,7 @@ Au cours d'une soirée de charité, le docteur Archie Bollen rencontre Petulia, 
 **Quatre garçons dans le vent**  
 **(A Hard Day's Night)**  
 de Richard Lester  
-Grande-Bretagne / 1964 / DCP  
+Grande-Bretagne / 1964 / 87 min / VOSTF / 35 mm  
 Avec Paul McCartney, George Harrison, John Lennon, Ringo Starr.  
 Alors que la Beatlemania fait rage en Angleterre, John, Paul, George et Ringo sont attendus à Londres pour jouer dans une émission de télévision. Pour arriver aux studios, ils vont devoir affronter tout un tas d'obstacles.
 
