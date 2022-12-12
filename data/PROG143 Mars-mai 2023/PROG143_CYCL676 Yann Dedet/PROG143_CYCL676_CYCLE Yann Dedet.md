@@ -69,15 +69,6 @@ En Zambie, la petite Shula est accusée de sorcellerie par les habitants de son 
 
 - je 18 mai 21h00 GF
 
-[154253]  
-**Making of**  
-de Cédric Kahn  
-France / 2022 / DCP  
-Avec Jonathan Cohen, Stefan Crepon, Denis Podalydès.  
-Simon débute le tournage d'un film sur le combat d'ouvriers contre la délocalisation de leur usine et pour le maintien de leurs emplois. Mais le réalisateur doit lui-même affronter un conflit social avec son équipe.
-
-- ve 19 mai 18h30 GF
-
 [48887]  
 **Mona et moi**  
 de Patrick Grandperret  
@@ -151,6 +142,16 @@ Répudiée par son mari, Mister Kapital, le soir même de ses noces, Miss Monde 
 
 - me 10 mai 20h00 HL  
 Ouverture de la rétrospective
+
+[52174]  
+**Trop de bonheur**  
+de Cédric Kahn  
+France / 1993 / 84 min / 35 mm  
+Avec Estelle Perron, Caroline Trousselard, Malek Bechar.  
+Le destin croisé de quatre adolescents va prendre un tour décisif lors d'une fête improvisée, un après-midi de fin d'année scolaire.  
+Version longue du téléfilm _Bonheur_, faisant partie de la collection _Tous les garçons et les filles de leur âge_.
+
+- ve 19 mai 18h30 GF
 
 [50631]  
 **Van Gogh**  

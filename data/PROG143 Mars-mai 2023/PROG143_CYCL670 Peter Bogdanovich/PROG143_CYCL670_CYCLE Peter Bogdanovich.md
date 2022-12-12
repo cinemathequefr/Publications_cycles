@@ -87,6 +87,15 @@ Leon Leondopolous est le patron d'une agence de détectives dont la principale m
 
 - ve 14 avr 20h30 HL
 
+[146195]  
+**The Great Buster: A Celebration**  
+de Peter Bogdanovich  
+États-Unis / 2018 / 102 min / VOSTF / Numérique  
+Avec Buster Keaton, Peter Bogdanovich, Dick Van Dyke, Carl Reiner.  
+Documentaire sur la vie et l'œuvre de Buster Keaton.
+
+- sa 22 avr 17h30 GF
+
 [143416]  
 **Illégalement vôtre**  
 **(Illegally Yours)**  
@@ -166,15 +175,6 @@ Avec Jeff Bridges, Cybill Shepherd, Harvey Christiansen.
 Suite de _La Dernière séance_ : trente-trois ans plus tard, le petit bourg perdu du Nord du Texas fête son centenaire.
 
 - je 20 avr 16h30 GF
-
-[146195]  
-**The The Great Buster: A Celebration**  
-de Peter Bogdanovich  
-États-Unis / 2018 / 102 min / VOSTF / Numérique  
-Avec Buster Keaton, Peter Bogdanovich, Dick Van Dyke, Carl Reiner.  
-Documentaire sur la vie et l'œuvre de Buster Keaton.
-
-- sa 22 avr 17h30 GF
 
 [92637]  
 **Un parfum de meurtre**  

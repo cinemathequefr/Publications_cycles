@@ -155,7 +155,7 @@ Un membre du FBI d'origine allemande est envoyé dans une école d'espionnage na
 **La Maison Russie**  
 **(The Russia House)**  
 de Fred Schepisi  
-États-Unis / 1990 / 123 min / VOSTF / 35 mm  
+États-Unis / 1990 / 124 min / VOSTF / 35 mm  
 D'après le roman _La Maison Russie_ de John le Carré.  
 Avec Sean Connery, Michelle Pfeiffer, Roy Scheider.  
 Éditeur britannique, Barley Blair se rend en voyage d'affaires en URSS où un auteur soviétique lui fait parvenir un manuscrit contenant des secrets militaires. Les services secrets, ayant intercepté le document, demandent à Barley de vérifier la véracité de ces informations sur le terrain.
@@ -218,7 +218,7 @@ Un habile pickpocket dérobe le portefeuille d'une jeune femme. Mais l'objet, co
 [90170]  
 **Triple agent**  
 d'Éric Rohmer  
-France-Italie-Espagne-Grèce-Russie / 2003 / 115 min / 35 mm  
+France-Italie-Espagne-Grèce-Russie / 2003 / 116 min / VO / 35 mm  
 Avec Katerina Didaskalou, Serge Renko, Cyrielle Clair.  
 En 1936, alors que le Front populaire et la guerre d'Espagne agitent les esprits, un jeune général de l'armée tsariste mène une vie paisible à Paris, où il s'est réfugié avec son épouse grecque, Arsinoé.
 

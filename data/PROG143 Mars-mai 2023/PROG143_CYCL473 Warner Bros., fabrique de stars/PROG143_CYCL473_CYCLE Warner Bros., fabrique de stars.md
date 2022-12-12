@@ -54,6 +54,21 @@ Le grand Don Juan part à la rescousse de la belle et séduisante reine Margaret
 
 - je 18 mai 16h00 GF
 
+[31320]  
+**Les Aventures de Robin des Bois**  
+**(The Adventures of Robin Hood)**  
+de Michael Curtiz, William Keighley  
+États-Unis / 1937 / 102 min / VF / DCP  
+Avec Errol Flynn, Olivia De Havilland, Basil Rathbone, Claude Rains.  
+Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'arroger le trône d'Angleterre. Robin de Locksley se réfugie alors dans la forêt de Sherwood avec ses compagnons saxons et mène la révolte sous le nom de Robin des Bois.
+
+---
+
+Le chevalier Robin des Bois, de son vrai nom Robin de Locksley, revient en chair et en os pour lutter contre le Prince Jean qui a pris la place sur le trône de son frère Richard Cœur de Lion. En brigand au grand cœur au service des pauvres, il organise la résistance contre l'usurpateur.  
+Restauré par le MoMA en 2014.
+
+- di 23 avr 15h00 GF
+
 [30592]  
 **Le Bar magnifique**  
 **(Wonder Bar)**  

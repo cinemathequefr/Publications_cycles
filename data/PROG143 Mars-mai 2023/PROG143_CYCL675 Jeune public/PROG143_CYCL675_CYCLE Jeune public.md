@@ -137,35 +137,23 @@ Qui pourrait se douter qu'un petit garçon cache un si grand secret ? Et qui pou
 
 - me 19 avr 15h00 GF
 
-[36639]  
-**L'Homme des vallées perdues**  
-**(Shane)**  
-de George Stevens  
-États-Unis / 1951 / 118 min / VOSTF / DCP  
-D'après le roman _Shane_ de Jack Schaefer.  
-Avec Alan Ladd, Jean Arthur, Van Heflin.  
-Shane, un ancien chasseur de prime, arrive dans un village où il est recueilli par les trois membres de la famille Starett. Il viendra en aide aux fermiers confrontés aux ranchers qui veulent les spolier.
+[31320]  
+**Les Aventures de Robin des Bois**  
+**(The Adventures of Robin Hood)**  
+de Michael Curtiz, William Keighley  
+États-Unis / 1937 / 102 min / VF / DCP  
+Avec Errol Flynn, Olivia De Havilland, Basil Rathbone, Claude Rains.  
+Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'arroger le trône d'Angleterre. Robin de Locksley se réfugie alors dans la forêt de Sherwood avec ses compagnons saxons et mène la révolte sous le nom de Robin des Bois.
 
 ---
 
-Joey voit d'un œil inquiet l'arrivée de Shane, cowboy solitaire, dans la ferme de ses parents dans une vallée du Wyoming. Shane leur demande l'hospitalité et leur vient en aide face aux attaques d'une bande de hors-la-loi, provoquant immédiatement l'admiration de Joey.
+Le chevalier Robin des Bois, de son vrai nom Robin de Locksley, revient en chair et en os pour lutter contre le Prince Jean qui a pris la place sur le trône de son frère Richard Cœur de Lion. En brigand au grand cœur au service des pauvres, il organise la résistance contre l'usurpateur.  
+Restauré par le MoMA en 2014.
 
 - di 23 avr 15h00 GF
 
-[47147]  
-**L'Homme de Rio**  
-de Philippe de Broca  
-France-Italie / 1963 / 102 min / DCP  
-Avec Jean-Paul Belmondo, Françoise Dorléac, Jean Servais.  
-Alors qu'il pense passer quelques jours paisibles avec sa fiancée à Paris, un jeune militaire se retrouve embarqué, jusqu'au Brésil, dans une course effrénée à la recherche de statues précolombiennes aux mystérieux pouvoirs.
-
----
-
-Alors qu'il pense passer quelques jours paisibles avec sa fiancée à Paris, un jeune militaire se retrouve embarqué dans une course effrénée à la recherche de statues Maltèques aux mystérieux pouvoirs.
-
----
-
-Soldat en permission pour huit jours, Adrien arrive à Paris pour assister à l'enlèvement de sa fiancée par deux inconnus. Sans réfléchir une seconde, il se lance à la poursuite des ravisseurs et monte ainsi, clandestinement, à bord d'un avion pour... Rio.
+[128671]  
+****
 
 - me 26 avr 15h00 GF
 

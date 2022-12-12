@@ -16,7 +16,7 @@ Un employé ambitieux et endetté commet une malversation dans son entreprise, c
 **Les Cavaliers rouges**  
 **(Old Shatterhand)**  
 de Hugo Fregonese  
-RFA-France-Italie-Yougoslavie / 1964 / 122 min  
+RFA-France-Italie-Yougoslavie / 1964 / 122 min / VOSTF / DCP  
 Avec Lex Barker, Pierre Brice, Guy Madison, Daliah Lavi.  
 L'histoire de l'amitié entre le trappeur Old Shaterland et le chef indien Winnetou.
 

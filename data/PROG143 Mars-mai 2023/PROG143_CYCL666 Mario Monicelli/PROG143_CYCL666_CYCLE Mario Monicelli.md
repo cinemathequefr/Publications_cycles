@@ -146,7 +146,7 @@ Les déboires sentimentaux de trois couples, racontés en trois épisodes.
 **Du sang dans le soleil**  
 **(Proibito)**  
 de Mario Monicelli  
-Italie / 1954 / 100 min / VO / 35 mm  
+Italie / 1954 / 100 min / VF / 35 mm  
 Avec Mel Ferrer, Amedeo Nazzari, Lea Massari.  
 Don Paolo, un jeune prêtre troublé par l'amour qu'il éprouve pour Agnese, tente de faire régner la paix dans un petit village sarde où deux familles sont en guerre.
 

@@ -142,7 +142,7 @@ Pour sa lune de miel, Ray et Polly se rendent aux chutes du Niagara. Sympathisan
 **Le Prince et la danseuse**  
 **(The Prince and the Showgirl)**  
 de Laurence Olivier  
-États-Unis / 1957 / 115 min / VOSTF / 35 mm  
+États-Unis / 1957 / 113 min / VOSTF / 35 mm  
 D'après la pièce _The Sleeping Prince_ de Terence Rattigan.  
 Avec Laurence Olivier, Marilyn Monroe.  
 En 1911, le prince Charles, régent du petit royaume de Karpathie, vient à Londres représenter son pays aux cérémonies du couronnement de George V. Assistant à une revue légère, il tombe sous le charme d'une jeune actrice américaine.

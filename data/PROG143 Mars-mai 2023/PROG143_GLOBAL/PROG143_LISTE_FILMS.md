@@ -15,12 +15,12 @@
   * Atout cœur à Tokyo pour OSS 117  
   * Carré de dames pour un as  
   * Coup de force à Berlin  
-  * F.B.I. contre Lotus Bleu  
+  * FBI contre Lotus Bleu  
   * Héros dans l'ombre (Les)  
   * J'étais une espionne américaine  
   * Mission suicide à Singapour  
   * SAS à San Salvador  
-  * SAS, l'œil de la veuve  
+  * SAS : L'Œil de la veuve  
   * Sursis (Le)
 
 ## Hugo Fregonese (21)
@@ -47,14 +47,12 @@
   * Souffle sauvage (Le)  
   * Vagabond et les lutins (Le)
 
-## Jeune public (15)
+## Jeune public (14)
 
   * Docteur Jerry et Mister Love  
   * E.T. l'extra-terrestre  
   * Etre et avoir  
   * Fenêtre sur cour  
-  * Homme de Rio (L')  
-  * Homme des vallées perdues (L')  
   * Jason et les Argonautes  
   * Jour de fête  
   * Lumières de la ville (Les)  
@@ -63,6 +61,7 @@
   * Ponyo sur la falaise  
   * Trois âges (Les)  
   * Un Américain à Paris  
+  * undefined  
   * Zazie dans le métro
 
 ## L'image des plaisirs (9)
@@ -183,7 +182,7 @@
   * Au loin s'en vont les nuages  
   * Homme de Rio (L')  
   * Sans soleil  
-  * Trois couronnes du matelot (Les)
+  * Trois Couronnes du matelot (Les)
 
 ## Peter Bogdanovich (19)
 
@@ -195,6 +194,7 @@
   * Dernière Séance (La)  
   * Enfin l'amour  
   * Et tout le monde riait  
+  * Great Buster: A Celebration (The)  
   * Illégalement vôtre  
   * Jack le magnifique  
   * Mask  
@@ -203,7 +203,6 @@
   * On s'fait la valise, docteur ?  
   * Réalisé par John Ford  
   * Texasville  
-  * The Great Buster: A Celebration (The)  
   * Un parfum de meurtre  
   * Voyage to the Planet of Prehistoric Women
 
@@ -233,13 +232,14 @@
   * Trois Mousquetaires (Les)  
   * Ultime garconnière (L')
 
-## Warner Bros., fabrique de stars (38)
+## Warner Bros., fabrique de stars (39)
 
   * A chaque aube je meurs  
   * Agent britannique  
   * Aigle des mers (L')  
   * Anges aux figures sales (Les)  
   * Aventures de Don Juan (Les)  
+  * Aventures de Robin des Bois (Les)  
   * Bar magnifique (Le)  
   * Bourreau (Le)  
   * Capitaine Blood  
@@ -283,7 +283,6 @@
   * Gants blancs (Les)  
   * Grand chariot (Le)  
   * I Am Not a Witch  
-  * Making of  
   * Mona et moi  
   * Nénette et Boni  
   * Outremer  
@@ -292,5 +291,6 @@
   * Quand je serai jeune  
   * Sens de l'humour (Le)  
   * Sweet Movie  
+  * Trop de bonheur  
   * Van Gogh  
   * Western  
