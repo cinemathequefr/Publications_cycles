@@ -52,7 +52,7 @@ La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film
 Film suivi de _Quand je serai jeune_ de Yann Dedet
 
 [154271]  
-**Le Grand chariot**  
+**Le Grand Chariot**  
 de Philippe Garrel  
 France / 2022  
 Avec Louis Garrel, Esther Garrel, Léna Garrel.  

@@ -3,11 +3,12 @@
 ## Les films
 
 [42470]  
-**L'Armata Brancaleone**  
+**L'Armée Brancaleone**  
+**(L'Armata Brancaleone)**  
 de Mario Monicelli  
 Italie-France-Espagne / 1965 / 120 min / VOSTF / 35 mm  
 Avec Vittorio Gassman, Catherine Spaak, Gian Maria Volonté.  
-Les aventures picaresques du chevalier Brancaleone et de son armée de gueux. Il se dirige vers le fief d'Aurocastro qu'il veut s'accaparer illégalement.
+Les aventures picaresques du chevalier Brancaleone qui, accompagné de son armée de gueux, se dirige vers le fief d'Aurocastro pour se l'accaparer illégalement.
 
 - ve 28 avr 18h00 HL  
 Séance présentée par Jean A. Gili  
@@ -17,8 +18,9 @@ Séance présentée par Jean A. Gili
 **Bertoldo, Bertoldino e Cacasenno**  
 de Mario Monicelli  
 Italie / 1984 / 128 min / VOSTF / 35 mm  
-Avec Ugo Tognazzi, Maurizio Nichetti.  
-Vers l'an 1000 à la cour du Roi Alboino, trois personnages étranges: Bertoldo, un paysan, son fils Bertoldino, qui fait toujours des choses idiotes, et Fra Cipolla da Frosolone, échappent à toutes sortes de situations absurdes grâce à leurs ruses.
+D'après le recueil de nouvelles _Bertoldo, Bertoldino e Cacasenno_ de Giulio Cesare Croce.  
+Avec Ugo Tognazzi, Maurizio Nichetti, Alberto Sordi.  
+Vers l'an 1000, à la cour du Roi Alboino, gravitent trois personnages étranges : Fra Cipolla da Frosolone, le paysan Bertoldo, et son fils au comportement idiot. Ils échappent à toutes sortes de situations absurdes grâce à leurs ruses.
 
 - sa 20 mai 15h00 GF
 
@@ -34,11 +36,11 @@ Dans _Le Travail_, Romy Schneider incarne une jeune femme qui décide de faire p
 - sa 13 mai 20h00 GF
 
 [42815]  
-**Brancaleone aux croisades**  
+**Brancaleone s'en va-t-aux croisades**  
 **(Brancaleone alle crociate)**  
 de Mario Monicelli  
 Italie-Algérie / 1970 / 117 min / VF / 35 mm  
-Avec Vittorio Gassman, Stefania Sandrelli.  
+Avec Vittorio Gassman, Stefania Sandrelli, Adolfo Celli.  
 Les nouvelles aventures de Brancaleone et de ses compagnons qui partent aux croisades.
 
 - ve 28 avr 20h45 HL  
@@ -50,7 +52,7 @@ Les nouvelles aventures de Brancaleone et de ses compagnons qui partent aux croi
 de Mario Monicelli  
 Italie-France-Yougoslavie / 1963 / 128 min / VOSTF / DCP  
 Avec Marcello Mastroianni, Renato Salvatori, Bernard Blier.  
-Fin du XIXème siècle, dans une fabrique textile de Turin, les ouvriers, soumis à un rythme de travail infernal, voient se multiplier les accidents. Trois d'entre eux entrent en conflit avec le contremaître à la suite d'un nouveau drame. Alors que des sanctions tombent, l'instituteur Sinigaglia, un militant socialiste fraîchement débarqué de Gênes pousse les ouvriers à s'organiser...
+Turin, fin du XIX<sup>e</sup> siècle. Dans une fabrique textile, trois ouvriers entrent en conflit avec le contremaître. Alors que des sanctions tombent, l'instituteur Sinigaglia, un militant socialiste fraîchement débarqué de Gênes, pousse les travailleurs à s'organiser.
 
 - di 30 avr 17h30 HL  
 Séance présentée par Jean A. Gili
@@ -70,7 +72,7 @@ Film à sketches : un regard souvent acerbe sur la société italienne des anné
 de Mario Monicelli  
 Italie / 1994 / 118 min / VOSTF / 35 mm  
 Avec Paolo Villaggio, Massimo Ceccherini.  
-Un été 1944 en Toscane. Dieci, qui prétend avoir été un boxeur et manager, réunit une bande de jeunes hommes pour organiser des matchs.
+Un été 1944 en Toscane. Dieci, qui prétend avoir été boxeur et manager, réunit une bande de jeunes hommes pour organiser des matchs.
 
 - sa 27 mai 14h30 HL
 
@@ -78,18 +80,19 @@ Un été 1944 en Toscane. Dieci, qui prétend avoir été un boxeur et manager, 
 **Caro Michele**  
 de Mario Monicelli  
 Italie / 1975 / 115 min / VOSTF / 35 mm  
-D'après son roman _Caro Michele_ de Natalia Ginzburg.  
+D'après le roman _Caro Michele_ de Natalia Ginzburg.  
 Avec Mariangela Melato, Lou Castel, Alfonso Gatto, Aurore Clément, Delphine Seyrig.  
-Après les émeutes étudiantes de 68, Michele décide de quitter sa famille bourgeoise et d'emménager à Londres. Il reste cependant en contact épistolaire avec sa mère et ses sœurs, dans une correspondance où il fait la lumière sur les différents personnages qui ont marqué sa vie, notamment Mara, qui prétend avoir eu un enfant de lui. Un jour, elles apprennent la mort de Michele.
+Après les émeutes étudiantes de 68, Michele quitte sa famille bourgeoise pour Londres, mais reste en contact avec sa mère et ses sœurs, dans une correspondance où il fait la lumière sur les différents personnages qui ont marqué sa vie, notamment Mara, qui prétend avoir eu un enfant de lui. Un jour, elles apprennent la mort de Michele.
 
 - je 18 mai 20h45 HL
 
 [43159]  
-**Casanova '70**  
+**Casanova 70**  
+**(Casanova '70)**  
 de Mario Monicelli  
 Italie-France / 1964 / 107 min / VOSTF / DCP  
-Avec Marcello Mastroianni, Virna Lisi.  
-Un homme qui a eu de nombreuses aventures amoureuses, est accusé un jour d'impuissance par une de ses maîtresses. Il consulte un psychiatre qui lui conseille le repos.
+Avec Marcello Mastroianni, Virna Lisi, Marisa Mell, Michèle Mercier.  
+Un homme aux nombreuses aventures amoureuses est accusé un jour d'impuissance par l'une de ses maîtresses. Il consulte un psychiatre qui lui conseille le repos.
 
 - lu 8 mai 16h00 GF
 
@@ -123,10 +126,11 @@ Donatella, fille d'artisan, garde la villa d'une riche Américaine pendant son a
 - sa 13 mai 17h30 GF
 
 [41985]  
-**La Double vie de Matthias Pascal**  
+**La Double Vie de Matthias Pascal**  
 **(Le Due vite di Mattia Pascal)**  
 de Mario Monicelli  
 Italie / 1984 / 140 min / VOSTF / 35 mm  
+D'après le roman _Feu Mathias Pascal_ de Luigi Pirandello.  
 Avec Marcello Mastroianni, Laura Morante, Bernard Blier.  
 Un homme profite du fait que tout le monde le croit mort pour tenter de réussir une nouvelle vie.
 
@@ -147,6 +151,7 @@ Les déboires sentimentaux de trois couples, racontés en trois épisodes.
 **(Proibito)**  
 de Mario Monicelli  
 Italie / 1954 / 100 min / VF / 35 mm  
+D'après le roman _La MAdre_ de Grazia Deledda.  
 Avec Mel Ferrer, Amedeo Nazzari, Lea Massari.  
 Don Paolo, un jeune prêtre troublé par l'amour qu'il éprouve pour Agnese, tente de faire régner la paix dans un petit village sarde où deux familles sont en guerre.
 
@@ -156,8 +161,9 @@ Don Paolo, un jeune prêtre troublé par l'amour qu'il éprouve pour Agnese, ten
 **Facciamo paradiso**  
 de Mario Monicelli  
 Italie / 1995 / 108 min / VOSTF / DCP  
-Avec Lello Arena, Margherita Buy, Aurore Clément.  
-Portrait de la société italienne dans la seconde partie du XXe siècle à travers le parcours de Claudia Bertelli, née dans l'après-guerre d'une famille bourgeoise, rebelle, féministe, puis religieuse.
+D'après le roman _Vite di uomini non illustri_ de Giuseppe Pontiggia.  
+Avec Margherita Buy, Aurore Clément, PHilippe Noiret, Lello Arena.  
+Portrait de la société italienne dans la seconde partie du XX<sup>e</sup> siècle, à travers le parcours de Claudia Bertelli, née dans l'après-guerre d'une famille bourgeoise, femme rebelle, féministe, puis religieuse.
 
 - je 25 mai 18h00 HL
 
@@ -167,23 +173,23 @@ Portrait de la société italienne dans la seconde partie du XXe siècle à trav
 de Mario Monicelli  
 Italie / 1967 / 102 min / VOSTF / DCP  
 Avec Monica Vitti, Stanley Baker, Carlo Giuffré, Corin Redgrave.  
-Séduite et abandonnée par un homme de son village, Assunta la Sicilienne se rend à Londres avec un pistolet dans l'intention de l'assassiner.
+Séduite et abandonnée par un homme de son village, Assunta la Sicilienne se rend à Londres avec un pistolet, dans l'intention de l'assassiner.
 
 - di 14 mai 20h30 HL
 
 [43246]  
-**Gendarmes et voleurs**  
+**Gendarmes et Voleurs**  
 **(Guardie e ladri)**  
 de Mario Monicelli, Steno  
 Italie / 1951 / 109 min / VOSTF / 35 mm  
 Avec Totò, Aldo Fabrizi, Pina Piovani.  
-Le petit escroc Ferdinando est arrêté par le sergent Bottoni, mais parvient à lui échapper. Suspendu, le policier n'a qu'une façon de sauver sa place : remettre la main sur le voleur.
+Le petit escroc Ferdinando est arrêté par le sergent Bottoni, mais parvient à lui échapper. Suspendu, le policier doit remettre la main sur le voleur pour sauver sa place.
 
 - je 27 avr 18h00 HL  
 Séance présentée par Jean A. Gili
 
 [41987]  
-**La Grande guerre**  
+**La Grande Guerre**  
 **(La Grande guerra)**  
 de Mario Monicelli  
 Italie-France / 1959 / 129 min / STF / 35 mm  
@@ -195,12 +201,12 @@ Séance présentée par Jean A. Gili
 - sa 20 mai 20h00 HL
 
 [70021]  
-**Haute infidélité : Les gens modernes**  
+**Haute Infidélité : Les gens modernes**  
 **(Alta infedeltà : Genta moderna)**  
 de Mario Monicelli  
 Italie-France / 1963 / 130 min / VO / 35 mm  
 Avec Ugo Tognazzi, Michèle Mercier, Bernard Blier.  
-Quatre histoires. Celle de Mario Monicelli s'appelle « Genta moderna » : Cesare perd tout son argent avec son ami au jeu de cartes et afin de payer sa dette, il accepte de lui prêter pour une nuit son épouse Tebaide.
+Quatre histoires. Celle de Mario Monicelli s'appelle _Genta moderna_ : Cesare perd tout son argent avec son ami aux cartes et, afin de payer sa dette, accepte de lui prêter pour une nuit son épouse Tebaide.
 
 - je 18 mai 18h00 HL
 
@@ -210,7 +216,7 @@ Quatre histoires. Celle de Mario Monicelli s'appelle « Genta moderna » : Cesar
 de Steno, Mario Monicelli  
 Italie / 1952 / 105 min / VO / 35 mm  
 Avec May Britt, Irène Papas, Marina Vlady, Gina Lollobrigida.  
-Un industriel engage quelqu'un pour prendre sa femme en filature, espérant secrètement qu'elle le trompe afin de demander le divorce et d'épouser le mannequin dont il est amoureux
+Un industriel engage quelqu'un pour prendre son épouse en filature, espérant secrètement qu'elle le trompe : il pourrait ainsi divorcer et épouser la femme dont il est amoureux.
 
 - di 14 mai 17h30 GF
 
@@ -221,7 +227,7 @@ de Mario Monicelli
 Italie / 1960 / 106 min / VOSTF / 35 mm  
 D'après les nouvelles _Ladri in chiesa_ et _Lacrime di gioia_ d'Alberto Moravia.  
 Avec Anna Magnani, Totò, Ben Gazzara.  
-Durant la nuit de la Saint-Sylvestre, deux figurants de cinéma errent dans la ville sans pouvoir être admis et respectés. Ils n'en perdent pourtant pas leur optimisme et leur courage...
+Durant la nuit de la Saint-Sylvestre, deux figurants de cinéma errent dans la ville de fête en fête sans pouvoir y être admis. Ils n'en perdent pourtant pas leur optimisme et leur courage.
 
 - ve 5 mai 20h30 HL
 
@@ -229,6 +235,7 @@ Durant la nuit de la Saint-Sylvestre, deux figurants de cinéma errent dans la v
 **Il Male oscuro**  
 de Mario Monicelli  
 Italie / 1989 / 113 min / VOSTF / 35 mm  
+D'après le roman _Il male oscuro_ de Giuseppe Berto.  
 Avec Giancarlo Giannini, Emmanuelle Seigner, Stefania Sandrelli.  
 Une étude douce-amère des obsessions et des névroses d'un scénariste quadragénaire.
 
@@ -239,17 +246,18 @@ Une étude douce-amère des obsessions et des névroses d'un scénariste quadrag
 **(Il Marchese Del Grillo)**  
 de Mario Monicelli  
 Italie-France / 1982 / 135 min / VOSTF / 35 mm  
-Avec Alberto Sordi, Paolo Stoppa, Flavio Bucci.  
-Le marquis Del Grillo, camérier du Pape Pie VII, mène une existence dissolue dans la Rome du début du XIXème siècle.
+Avec Alberto Sordi, Paolo Stoppa, Flavio Bucci, Caroline Berg.  
+Le marquis Del Grillo, camérier du Pape Pie VII, mène une existence dissolue dans la Rome du début du XIX<sup>e</sup> siècle.
 
 - me 10 mai 20h15 GF
 
 [54899]  
-**Il Medico e lo stregone**  
+**Le Médecin et le Sorcier**  
+**(Il Medico e lo stregone)**  
 de Mario Monicelli  
 Italie / 1957 / 100 min / VO / 35 mm  
 Avec Vittorio De Sica, Marcello Mastroianni, Marisa Merlini.  
-A Pianetta, il n'y a plus de médecin depuis longtemps. Quand arrive le docteur Marchetti, il s'installe chez Don Antonio, et grâce à un peu de psychologie et à un filtre magique, s'octroie la considération du village.
+À Pianetta, il n'y a plus de médecin depuis longtemps. Quand arrive le docteur Marchetti, il s'installe chez Don Antonio, et grâce à un peu de psychologie et à un filtre magique, s'octroie la considération du village.
 
 - me 10 mai 18h00 GF
 
@@ -259,7 +267,7 @@ A Pianetta, il n'y a plus de médecin depuis longtemps. Quand arrive le docteur 
 de Mario Monicelli  
 Italie / 1975 / 140 min / VOSTF / 35 mm  
 Avec Ugo Tognazzi, Philippe Noiret, Bernard Blier, Adolfo Celi.  
-Après la mort de l'un des leurs, des quadragénaires se souviennent de leurs plaisanteries. Film conçu et écrit par Pietro Germi qui en confia la réalisation à Mario Monicelli.
+Après la mort d'un des leurs, des quadragénaires se souviennent de leurs plaisanteries.
 
 - sa 29 avr 20h30 HL
 
@@ -268,7 +276,7 @@ Après la mort de l'un des leurs, des quadragénaires se souviennent de leurs pl
 de Mario Monicelli  
 Italie-France / 1971 / 109 min / VO / 35 mm  
 Avec Sophia Loren, Gigi Proietti, William Devane, Susan Sarandon, Danny DeVito.  
-Maddalena quitte son travail en Italie pour rejoindre son fiancé aux Etats-Unis. Mais elle est retenue aux douanes à cause d'un morceau de mortadelle.
+Maddalena quitte son travail en Italie pour rejoindre son fiancé aux États-Unis. Mais elle est retenue à la douane à cause d'un morceau de mortadelle.
 
 - sa 6 mai 19h15 GF
 
@@ -278,7 +286,7 @@ Maddalena quitte son travail en Italie pour rejoindre son fiancé aux Etats-Unis
 de Mario Monicelli  
 Italie / 1972 / 100 min / VOSTF / DCP  
 Avec Ugo Tognazzi, Claude Dauphin, François Périer.  
-Un député d'extrême-droite fomente un coup d'état avec le concours d'un groupe de colonels et généraux
+Un député d'extrême-droite fomente un coup d'État avec le concours d'un groupe de colonels et de généraux.
 
 - di 7 mai 17h00 HL  
 - di 28 mai 17h00 HL
@@ -299,7 +307,7 @@ Douze sketches, tableaux sombres et amers qui, à la suite des _Monstres_ de 196
 de Mario Monicelli  
 Italie-France / 1966 / VOSTF / 35 mm  
 Avec Claudia Cardinale, Gastone Moschin.  
-Films à sketches. Celui de Mario Monicelli : La jeune Armenia révolutionne la vie monotone d'un médecin qu'elle a appelé afin d'ausculter son fils âgé de quelques mois. Armenia vit d'expédients et petits larcins mais se considère honnête et veut uniquement le bien de son enfant dont la couleur de cheveux change étrangement trop souvent.
+Films à sketches. Celui de Mario Monicelli : La jeune Armenia, vivant d'expédients et de menus larcins, révolutionne la vie monotone d'un médecin qu'elle a appelé pour ausculter son fils, dont la couleur de cheveux change étrangement trop souvent.
 
 - lu 8 mai 18h15 GF
 
@@ -313,7 +321,7 @@ La famille Razzi possède une fabrique de bonbons à Macerata. Leur volonté d'e
 - me 24 mai 20h30 HL
 
 [43260]  
-**Pères et fils**  
+**Pères et Fils**  
 **(Padri e figli)**  
 de Mario Monicelli  
 Italie-France / 1956 / 98 min / VOSTF / 35 mm  
@@ -327,7 +335,7 @@ La vie et les aventures de plusieurs familles, voisines ou amies, dans l'Italie 
 de Mario Monicelli  
 Italie-Espagne / 1987 / 126 min / VOSTF / 35 mm  
 Avec Vittorio Gassman, Bernard Blier, Giancarlo Giannini, Nino Manfredi.  
-Une fantaisie historique se déroulant au XVIème siècle. Deux vagabonds ont des ambitions modestes : manger et trouver un endroit pour dormir.
+Au XVI<sup>e</sup> siècle, deux vagabonds ont des ambitions modestes : manger et trouver un endroit pour dormir.
 
 - di 21 mai 17h45 HL
 
@@ -337,7 +345,7 @@ Une fantaisie historique se déroulant au XVIème siècle. Deux vagabonds ont de
 de Mario Monicelli  
 Italie / 1958 / 111 min / VOSTF / 35 mm  
 Avec Marcello Mastroianni, Vittorio Gassman, Totò, Claudia Cardinale.  
-En prison, Cosimo révèle à Pepe les détails de son prochain coup, infaillible, qu'il se réserve pour sa sortie. Mais Pepe sort plus tôt que prévu et organise le casse avec les complices de Cosimo...
+En prison, Cosimo révèle à Pepe les détails de son prochain coup, infaillible, qu'il se réserve pour sa sortie. Mais Pepe sort plus tôt que prévu et organise le casse avec les complices de Cosimo.
 
 - me 26 avr 20h00 HL  
 Ouverture de la rétrospective  
@@ -348,7 +356,7 @@ Ouverture de la rétrospective
 **(Speriamo che sia femmina)**  
 de Mario Monicelli  
 Italie-France / 1985 / 114 min / VF / 35 mm  
-Avec Liv Ullmann, Catherine Deneuve, Giuliana De Sio, Bernard Blier.  
+Avec Liv Ullmann, Catherine Deneuve, Giuliana De Sio, Philippe Noiret.  
 Les femmes d'une même famille, déçues par les hommes, se liguent pour faire front contre l'adversité.
 
 - me 24 mai 18h00 HL
@@ -358,16 +366,16 @@ Les femmes d'une même famille, déçues par les hommes, se liguent pour faire f
 de Mario Monicelli  
 Italie / 2006 / 102 min / VOSTF / 35 mm  
 Avec Michele Placido, Giorgio Pasotti.  
-Les mésaventures d'une équipe médicale militaire durant la seconde guerre mondiale en Libye.
+Les mésaventures d'une équipe médicale militaire durant la Seconde Guerre mondiale en Libye.
 
 - sa 27 mai 17h00 HL
 
 [60456]  
-**Rossini ! Rossini !**  
+**Rossini! Rossini!**  
 de Mario Monicelli  
 Italie-France-Allemagne-Espagne / 1991 / 151 min / VOSTF / 35 mm  
 Avec Sergio Castellitto, Philippe Noiret, Sabine Azéma, Vittorio Gassman.  
-Le récit, de l'enfance à la mort, du compositeur italien Gioachino Rossini, considéré comme l'un des plus grands génies musicaux de tous les temps
+Le récit, de l'enfance à la mort, du compositeur italien Gioachino Rossini, considéré comme l'un des plus grands génies musicaux de tous les temps.
 
 - lu 8 mai 20h15 GF
 
@@ -383,38 +391,38 @@ Raoul, un ancien boxeur, tombe amoureux d'une championne de catch, Rosy. Leur re
 - ve 19 mai 18h00 HL
 
 [58908]  
-**Toto cherche un appartement**  
-**(Toto cerca casa)**  
+**Totò cherche un appartement**  
+**(Totò cerca casa)**  
 de Mario Monicelli, Steno  
 Italie / 1949 / 82 min / VOSTF / 35 mm  
-Avec Totò, Alda Mangini.  
+Avec Totò, Alda Mangini, Folco Lulli.  
 Les multiples tentatives de Beniamino Lomacchio pour trouver un logement décent en passant du cimetière au Colisée.
 
 - je 4 mai 19h00 HL
 
 [70340]  
-**Toto e Carolina**  
+**Totò e Carolina**  
 de Mario Monicelli  
 Italie / 1953 / 85 min / VOSTF / 35 mm  
 Avec Totò, Anna Maria Ferrero, Maurizio Arena.  
-Lors d'une opération de la brigade des mœurs, l'agent de police Caccavallo arrête par erreur Carolina, une jeune paysanne, qui arrivée au commissariat tente de se suicider. Craignant les réactions de la presse, le commissaire ordonne à Caccavello de raccompagner Carolina chez elle.
+Lors d'une opération de la brigade des mœurs, l'agent Caccavallo arrête par erreur Carolina, une jeune paysanne, qui tente de se suicider au commissariat. Craignant les réactions de la presse, le commissaire ordonne à Caccavello de raccompagner Carolina chez elle.
 
 - me 17 mai 18h00 HL
 
 [66865]  
-**Toto e i re di Roma**  
+**Totò e i re di Roma**  
 de Mario Monicelli, Steno  
 Italie / 1952 / 104 min / VO / 35 mm  
 Avec Totò, Anna Carena, Giovanna Pala, Alberto Sordi.  
-Ercole Pappalardo, marié, cinq fils, cherche par tous les moyens à gravir les échelons de la société où il travaille, mais rien ne se passe comme prévu. Il prend alors une décision radicale...
+Ercole Pappalardo, marié, cinq fils, cherche par tous les moyens à gravir les échelons de la société dans laquelle il travaille, mais rien ne se passe comme prévu.
 
 - me 3 mai 18h00 HL
 
 [70332]  
-**Toto e le donne**  
+**Totò e le donne**  
 de Mario Monicelli, Steno  
 Italie / 1952 / 103 min / VOSTF  
-Avec Totò, Ave Ninchi, Alda Mangini.  
+Avec Totò, Lea Padovani, Ave Ninchi, Alda Mangini.  
 Antonio Scapparo ne supporte plus sa femme et se réfugie dans le grenier pour lire des romans policiers, fumer le cigare, et prier son protecteur, Landru.
 
 - di 7 mai 19h15 HL
@@ -424,8 +432,8 @@ Antonio Scapparo ne supporte plus sa femme et se réfugie dans le grenier pour l
 **(Un borghese piccolo piccolo)**  
 de Mario Monicelli  
 Italie / 1977 / 122 min / VOSTF / 35 mm  
-Avec Alberto Sordi, Shelley Winters.  
-Modeste fonctionnaire à l'approche de la retraite, Vivaldi veut caser son fils dans l'administration. Un drame survient qui l'entraine dans une spirale de vengeance.
+Avec Alberto Sordi, Shelley Winters, Vincenzo Crocitti.  
+Modeste fonctionnaire à l'approche de la retraite, Vivaldi veut caser son fils dans l'administration. Un drame survient, qui l'entraîne dans une spirale de vengeance.
 
 - sa 29 avr 14h30 HL
 
@@ -445,7 +453,7 @@ Les mésaventures d'Alberto, petit délateur timide et peureux, vivant encore ch
 de Mario Monicelli  
 Italie / 1991 / 105 min / VOSTF / DCP  
 Avec Tommaso Bianco, Marina Confalone.  
-Comme chaque année, la famille Colapietro, quatre frères et sœurs, leurs familles et leurs enfants, se réunit pour fêter Noël chez leurs vieux parents. Trop âgés pour vivre seuls, ils ont décidé de s'installer chez l'un de leurs enfants.
+Comme chaque année, les Colapietro, quatre frères et sœurs et leurs familles respectives, se réunissent pour fêter Noël chez leurs vieux parents. Ceux-ci, trop âgés pour vivre seuls, ont décidé de s'installer chez l'un de leurs enfants.
 
 - ve 26 mai 18h00 HL
 
@@ -454,7 +462,7 @@ Comme chaque année, la famille Colapietro, quatre frères et sœurs, leurs fami
 **(Viaggio con Anita)**  
 de Mario Monicelli  
 Italie-France / 1978 / 115 min / VO / 35 mm  
-Avec Giancarlo Giannini, Goldie Hawn, Claudine Auger.  
+Avec Giancarlo Giannini, Goldie Hawn, Claudine Auger, Aurore Clément.  
 En se rendant au chevet de son père mourant, un homme rencontre une actrice américaine avec qui il a une relation.
 
 - ve 19 mai 21h00 HL

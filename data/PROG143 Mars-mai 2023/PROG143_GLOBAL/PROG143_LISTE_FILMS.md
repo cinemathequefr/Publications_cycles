@@ -59,9 +59,9 @@
   * Malheurs de Sophie (Les)  
   * Pinocchio  
   * Ponyo sur la falaise  
+  * Tex Avery Follies  
   * Trois âges (Les)  
   * Un Américain à Paris  
-  * undefined  
   * Zazie dans le métro
 
 ## L'image des plaisirs (9)
@@ -119,7 +119,7 @@
   * Jeu du faucon (Le)  
   * Maldonne pour un espion  
   * Mes funérailles à Berlin  
-  * Mission: Impossible  
+  * Mission : Impossible  
   * Patriotes (Les)  
   * Quand les aigles attaquent  
   * Quatre de l'espionnage  
@@ -130,48 +130,48 @@
 
 ## Mario Monicelli (46)
 
-  * Armata Brancaleone (L')  
+  * Armée Brancaleone (L')  
   * Bertoldo, Bertoldino e Cacasenno  
   * Boccace 70  
-  * Brancaleone aux croisades  
+  * Brancaleone s'en va-t-aux croisades  
   * Camarades (Les)  
   * Caprice à l'italienne  
   * Cari fottutissimi amici  
   * Caro Michele  
-  * Casanova '70  
+  * Casanova 70  
   * Chambre d'hôtel  
   * Dans les coulisses  
   * Donatella  
-  * Double vie de Matthias Pascal (La)  
+  * Double Vie de Matthias Pascal (La)  
   * Drôles de couples  
   * Du sang dans le soleil  
   * Facciamo paradiso  
   * Fille au pistolet (La)  
-  * Gendarmes et voleurs  
-  * Grande guerre (La)  
-  * Haute infidélité : Les gens modernes  
+  * Gendarmes et Voleurs  
+  * Grande Guerre (La)  
+  * Haute Infidélité : Les gens modernes  
   * Infidèles (Les)  
   * Larmes de joie  
   * Male oscuro (Il)  
   * Marquis s'amuse (Le)  
-  * Medico e lo stregone (Il)  
+  * Médecin et le Sorcier (Le)  
   * Mes chers amis  
   * Mortadella  
   * Nous voulons les colonels  
   * Nouveaux monstres (Les)  
   * Ogresses : L'ogresse Armenia (Les)  
   * Panni sporchi  
-  * Pères et fils  
+  * Pères et Fils  
   * Picari (I)  
   * Pigeon (Le)  
   * Pourvu que ce soit une fille  
   * Rose del deserto (Le)  
-  * Rossini ! Rossini !  
+  * Rossini! Rossini!  
   * Rosy la bourrasque  
-  * Toto cherche un appartement  
-  * Toto e Carolina  
-  * Toto e i re di Roma  
-  * Toto e le donne  
+  * Totò cherche un appartement  
+  * Totò e Carolina  
+  * Totò e i re di Roma  
+  * Totò e le donne  
   * Un bourgeois tout petit petit  
   * Un héros de notre temps  
   * Une famille formidable  
@@ -215,13 +215,13 @@
   * Get Back  
   * Help!  
   * It's Trad, Dad!  
-  * Joyeux débuts de Butch Cassidy et le Kid (Les)  
+  * Joyeux Débuts de Butch Cassidy et le Kid (Les)  
   * Knack... et comment l'avoir (Le)  
   * Le Froussard héroïque  
   * On l'appelait Milady  
   * Petulia  
-  * Quatre garçons dans le vent  
-  * Retour des mousquetaires (Le)  
+  * Quatre Garçons dans le vent  
+  * Retour des Mousquetaires (Le)  
   * Ritz (The)  
   * Rose et la flèche (La)  
   * Running, Jumping and Standing Still Film (The)  
@@ -241,13 +241,13 @@
   * Aventures de Don Juan (Les)  
   * Aventures de Robin des Bois (Les)  
   * Bar magnifique (Le)  
+  * Blonde Crazy  
   * Bourreau (Le)  
   * Capitaine Blood  
   * Casablanca  
   * Charge de la brigade légère (La)  
   * Chercheuses d'or  
   * Échec à la Gestapo  
-  * En scène  
   * Ennemi public (L')  
   * Faucon maltais (Le)  
   * Femme aimée est toujours jolie  
@@ -261,15 +261,15 @@
   * Intruse (L')  
   * Légion noire (La)  
   * Lettre (La)  
-  * Miss Pinkerton  
   * Mort n'était pas au rendez-vous (La)  
+  * Night Nurse  
   * Patrouille de l'aube (La)  
   * Petit César (Le)  
   * Petit Géant (Le)  
   * Prologue  
   * Qu'est-il arrivé à Baby Jane ?  
-  * San Antonio  
   * Témoin à abattre (Le)  
+  * Tombeur (Le)  
   * Trésor de la Sierra Madre (Le)  
   * Une femme cherche son destin  
   * Voyage sans retour
@@ -281,7 +281,7 @@
   * Économie du couple (L')  
   * Femmes de Višegrad (Les)  
   * Gants blancs (Les)  
-  * Grand chariot (Le)  
+  * Grand Chariot (Le)  
   * I Am Not a Witch  
   * Mona et moi  
   * Nénette et Boni  

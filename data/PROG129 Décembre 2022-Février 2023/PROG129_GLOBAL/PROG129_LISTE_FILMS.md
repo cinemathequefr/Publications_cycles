@@ -285,14 +285,14 @@
 
 ## Le cinéma d'espionnage (2e partie) (21)
 
-  * 39 marches (Les)  
-  * Cinquième colonne  
+  * 39 Marches (Les)  
+  * Cinquième Colonne  
   * Correspondant 17  
   * Cuban Network  
   * Dossier 51 (Le)  
   * Étau (L')  
   * Ghost Writer (The)  
-  * Grand blond avec une chaussure noire (Le)  
+  * Grand Blond avec une chaussure noire (Le)  
   * Intelligence Service  
   * Ipcress, danger immédiat  
   * J'accuse  
@@ -300,10 +300,10 @@
   * Maison Russie (La)  
   * Mata Hari, agent H 21  
   * Notre agent à la Havane  
-  * Petite fille au tambour (La)  
+  * Petite Fille au tambour (La)  
   * Piège (Le)  
   * Port de la drogue (Le)  
-  * Triple agent  
+  * Triple Agent  
   * Trois jours du Condor (Les)  
   * Un crime dans la tête
 

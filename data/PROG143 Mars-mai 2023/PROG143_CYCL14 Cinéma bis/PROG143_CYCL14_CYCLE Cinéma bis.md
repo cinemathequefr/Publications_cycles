@@ -1,6 +1,6 @@
 # Cinéma bis
 
-## Les films (e/a catégorisation ?)
+## Espionnage pop à la française
 
 [38734]  
 **Carré de dames pour un as**  
@@ -20,6 +20,8 @@ Avec Frederick Stafford, Marina Vlady, Henri Serre.
 L'agent OSS 117, alias Hubert Bonisseur de La Bath, enquête sur l'explosion d'une base américaine du Pacifique. À Tokyo, il rencontre Eva Wilson et ne tarde pas à découvrir ses liens étroits avec l'attentat.
 
 - ve 31 mar 21h00 GF
+
+## SAS : hommage à un héros de légende
 
 [34924]  
 **SAS : L'Œil de la veuve**  
@@ -42,6 +44,8 @@ Un ex-agent de la CIA est engagé dans un combat politique au Salvador, pays rav
 
 - ve 21 avr 21h00 GF
 
+## OSS contre l'Axe
+
 [116193]  
 **J'étais une espionne américaine**  
 **(I Was an American Spy)**  
@@ -62,6 +66,8 @@ Avec Alan Ladd, Geraldine Fitzgerald, Patric Knowles.
 Durant l'été 1943, des officiers de l'OSS sont parachutés en France avec pour mission de détruire le tunnel de Corbet-Mallons, et interdire ainsi toutes les communications ferroviaires vers la côte.
 
 - ve 28 avr 21h00 GF
+
+## Histoire permanente de l'Eurospy
 
 [83138]  
 **FBI contre Lotus Bleu**  
@@ -84,6 +90,8 @@ Avec Ken Clark, Irina Demick, Luigi Vannucchi.
 Film réalisé sous le pseudonyme de Terence Hathaway.
 
 - ve 5 mai 21h00 GF
+
+## Raretés de l'espionnage
 
 [56461]  
 **Le Sursis**  

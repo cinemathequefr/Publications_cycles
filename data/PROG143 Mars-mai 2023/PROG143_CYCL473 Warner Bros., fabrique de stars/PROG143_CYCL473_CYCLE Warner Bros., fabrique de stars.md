@@ -19,7 +19,7 @@ Le reporter Frank Ross dénonce dans la presse les agissements corrompus du proc
 de Michael Curtiz  
 États-Unis / 1934 / 81 min / VOSTF / 35 mm  
 Avec Leslie Howard, Kay Francis, Cesar Romero.  
-Stephen Locke, jeune agent britannique, sauve la vie d'Elena, jeune aristocrate russe engagée. Une romance nait, semée de trouble quand Elena apprend que Stephen est recherché pour ses activités d'espion.
+1917 Stephen Locke, jeune agent britannique, sauve la vie d'Elena, la jeune secrétaire de Lénine. Il est par ailleurs chargé d'empêcher la signature d'un traité entre les Bolcheviks et les Allemands.
 
 - ve 12 mai 16h00 GF
 
@@ -39,10 +39,10 @@ En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La
 de Michael Curtiz  
 États-Unis / 1938 / 105 min / VOSTF / DCP  
 Avec James Cagney, Pat O'Brien, Humphrey Bogart, Ann Sheridan.  
-Rocky Sullivan et Jerry Connolly sont deux amis d'enfance qui ont pris des chemins radicalement différents. Alors que le premier est devenu curé, le second a plongé dans la délinquance et vient de sortir de prison.
+Rocky Sullivan et Jerry Connolly sont deux amis d'enfance qui ont pris des chemins radicalement différents. Alors que le premier est devenu prêtre, le second a plongé dans la délinquance et vient de sortir de prison.
 
 - di 16 avr 19h30 HL  
-- me 3 mai 20h30 GF
+- me 3 mai 20h45 GF
 
 [36724]  
 **Les Aventures de Don Juan**  
@@ -50,7 +50,7 @@ Rocky Sullivan et Jerry Connolly sont deux amis d'enfance qui ont pris des chemi
 de Vincent Sherman  
 États-Unis / 1948 / 110 min / VOSTF / 35 mm  
 Avec Errol Flynn, Viveca Lindfors, Raymond Burr.  
-Le grand Don Juan part à la rescousse de la belle et séduisante reine Margaret.
+Discrédité par sa turbulente vie amoureuse, Don cherche à se racheter en démasquant un complot visant la Reine Margaret dont il est tombé amoureux.
 
 - je 18 mai 16h00 GF
 
@@ -78,6 +78,15 @@ Avec Dick Powell, Al Jolson, Kay Francis.
 Dans un cabaret parisien, Harry, un danseur, flirte dangereusement avec une riche cliente, Madame Renaud. Séduite, cette dernière va alors lui offrir un bijou de sa collection personnelle.
 
 - di 9 avr 19h00 HL
+
+[79814]  
+**Blonde Crazy**  
+de Roy Del Ruth  
+États-Unis / 1931 / 79 min / VOSTF / DCP  
+Avec James Cagney, Joan Blondell.  
+Bert et Ann travaillent dans le même hôtel, et deviennent vite un duo d'inséparables arnaqueurs...
+
+- lu 24 avr 20h45 GF
 
 [36931]  
 **Le Bourreau**  
@@ -141,15 +150,6 @@ Pendant la Seconde Guerre mondiale, Gloves Donahue, un joueur professionnel, lè
 
 - je 13 avr 14h45 GF
 
-[46030]  
-**En scène**  
-**(Stage Struck)**  
-de Busby Berkeley  
-États-Unis / 1936  
-Avec Dick Powell, Joan Blondell, Warren William.
-
-- lu 24 avr 20h45 GF
-
 [36936]  
 **L'Ennemi public**  
 **(The Public Enemy)**  
@@ -209,7 +209,7 @@ Lew Marsh perd son travail à cause de son alcoolisme. Après une cure, alors qu
 de Michael Curtiz  
 États-Unis / 1941 / 126 min / VOSTF / 35 mm  
 Avec James Cagney, Joan Leslie, Walter Huston.  
-La vie de George M. Cohan, de ses premiers pas sur scène jusqu'à son triomphe à Broadway grâce à ses chants et ses danses.
+La vie du compositeur, chanteur et danseur George M. Cohan, de ses premiers pas sur scène jusqu'à son triomphe à Broadway.
 
 - ve 14 avr 21h00 GF  
 - ve 5 mai 16h00 GF
@@ -245,7 +245,7 @@ de William Keighley
 Avec Edward G. Robinson, Joan Blondell, Humphrey Bogart.  
 Al Kruger, chef d'un gang, et son bras droit, Nick Fenner, sèment la terreur en ville. Johnny Blake, policier intègre, licencié par le nouveau chef de la police, est embauché par Kruger.
 
-- me 26 avr 19h15 GF
+- me 26 avr 20h30 GF
 
 [36726]  
 **L'Impossible amour**  
@@ -290,15 +290,6 @@ Alors que son mari part inspecter sa plantation de caoutchouc, Leslie Crosbie tu
 
 - ve 21 avr 21h15 HL
 
-[81302]  
-**Miss Pinkerton**  
-de Lloyd Bacon  
-États-Unis / 1932  
-Avec Joan Blondell.
-
-- me 26 avr 18h45 GF  
-- me 3 mai 18h30 GF
-
 [30749]  
 **La Mort n'était pas au rendez-vous**  
 **(Conflict)**  
@@ -308,6 +299,16 @@ Avec Humphrey Bogart, Alexis Smith, Sydney Greenstreet.
 Un homme tombe amoureux de sa belle-sœur et échafaude une machination pour se débarrasser de son épouse.
 
 - sa 22 avr 20h45 HL
+
+[72050]  
+**Night Nurse**  
+de William A. Wellman  
+États-Unis / 1931 / 72 min / VOSTF / DCP  
+Avec Clark Gable, Barbara Stanwyck, Joan Blondell.  
+Lora Hart et Miss Maloney sont des apprenties infirmières dont la première mission est de prendre soin de deux fillettes gravement malades. Malgré leurs origines bourgeoises, celles-ci semblent souffrir de malnutrition. Elles découvrent alors que le médecin et le chauffeur de la famille affament volontairement ces enfants dans l'espoir de récupérer leur héritage.
+
+- me 26 avr 18h30 GF  
+- me 3 mai 18h00 GF
 
 [32274]  
 **La Patrouille de l'aube**  
@@ -335,7 +336,8 @@ L'ascension d'un petit mafieux, devenu l'un des plus gros bonnets de la pègre l
 **(The Little Giant)**  
 de Roy Del Ruth  
 États-Unis / 1933  
-Avec Edward G. Robinson, Mary Astor.
+Avec Edward G. Robinson, Mary Astor.  
+Texte à saisir
 
 - sa 8 avr 17h15 HL
 
@@ -361,23 +363,25 @@ Avec Bette Davis, Joan Crawford, Victor Buono.
 - je 20 avr 21h00 HL  
 - di 23 avr 20h30 HL
 
-[29597]  
-**San Antonio**  
-de David Butler  
-États-Unis / 1945 / 111 min / VF / 16 mm  
-Avec Errol Flynn, Alexis Smith, S.Z. Sakall.  
-Afin de mettre un terme aux agissements d'une bande de voleurs de bétails menée par Roy Stuart, Clay Hardin retourne à San Antonio en s'infiltrant dans la diligence de Jeanne Starr. En effet, cette dernière, chanteuse, se rend au cabaret de Roy où elle doit se produire.
-
-- di 30 avr 18h00 GF
-
 [30296]  
 **Le Témoin à abattre**  
 **(Illegal)**  
 de Lewis Allen  
 États-Unis / 1955  
-Avec Edward G. Robinson, Nina Foch, Hugh Marlowe.
+Avec Edward G. Robinson, Nina Foch, Hugh Marlowe.  
+Un ancien procureur devient l'avocat d'un gangster.
 
 - sa 15 avr 17h45 GF
+
+[31183]  
+**Le Tombeur**  
+**(Lady Killer)**  
+de Roy Del Ruth  
+États-Unis / 1933 / 73 min / VOSTF / 35 mm  
+Avec James Cagney.  
+Dan Quigley, un gangster en cavale lâché par ses amis, parvient à se planquer dans un studio d'Hollywood. Bientôt il devient figurant, puis grande vedette de cinéma. Dan s'éprend alors d'une collègue, mais doit affronter le retour offensif de ses anciens complices.
+
+- di 30 avr 18h30 GF
 
 [33476]  
 **Le Trésor de la Sierra Madre**  

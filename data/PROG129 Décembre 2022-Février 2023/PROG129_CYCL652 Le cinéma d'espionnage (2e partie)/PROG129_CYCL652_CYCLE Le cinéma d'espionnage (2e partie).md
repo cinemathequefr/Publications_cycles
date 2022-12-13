@@ -3,7 +3,7 @@
 ## Les films
 
 [46121]  
-**Les 39 marches**  
+**Les 39 Marches**  
 **(The 39 Steps)**  
 d'Alfred Hitchcock  
 Grande-Bretagne / 1935 / 81 min / VOSTF / 35 mm  
@@ -26,7 +26,7 @@ Durant la Seconde Guerre mondiale, un Américain tente d'enlever un savant itali
 - lu 6 fév 20h30 GF
 
 [41620]  
-**Cinquième colonne**  
+**Cinquième Colonne**  
 **(Saboteur)**  
 d'Alfred Hitchcock  
 États-Unis / 1942 / 108 min / VOSTF / DCP  
@@ -101,7 +101,7 @@ Avec Ewan McGregor, Pierce Brosnan, Jon Bernthal.
 - sa 4 mar 17h15 HL
 
 [50981]  
-**Le Grand blond avec une chaussure noire**  
+**Le Grand Blond avec une chaussure noire**  
 de Yves Robert  
 France / 1972 / 90 min / DCP  
 Avec Pierre Richard, Bernard Blier, Jean Rochefort, Mireille Darc.  
@@ -183,7 +183,7 @@ Cuba, en pleine guerre froide. Un représentant en aspirateurs, honorable corres
 - sa 25 fév 14h30 HL
 
 [55529]  
-**La Petite fille au tambour**  
+**La Petite Fille au tambour**  
 **(The Little Drummer Girl)**  
 de George Roy Hill  
 États-Unis / 1984 / 130 min / VOSTF / 35 mm  
@@ -216,7 +216,7 @@ Un habile pickpocket dérobe le portefeuille d'une jeune femme. Mais l'objet, co
 - di 22 jan 14h30 HL
 
 [90170]  
-**Triple agent**  
+**Triple Agent**  
 d'Éric Rohmer  
 France-Italie-Espagne-Grèce-Russie / 2003 / 116 min / VO / 35 mm  
 Avec Katerina Didaskalou, Serge Renko, Cyrielle Clair.  

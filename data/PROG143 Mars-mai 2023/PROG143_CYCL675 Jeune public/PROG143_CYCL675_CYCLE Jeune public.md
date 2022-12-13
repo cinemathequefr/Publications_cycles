@@ -153,7 +153,10 @@ Restauré par le MoMA en 2014.
 - di 23 avr 15h00 GF
 
 [128671]  
-****
+**Tex Avery Follies**  
+de Tex Avery, Dick Lundy, Michael Lah  
+États-Unis / 1943  
+Ça court dans tous les sens : des courses-poursuite en taxi, des canards qui dansent, la musique qui s'emballe et le maestro qui change de costume à chaque mesure ! Le monde si rapide de Tex Avery nous surprend toujours ! Détail des films : Bébé taxi – Caballero Droopy – Cat's me-ouch – La conga des canetons – Coqs de village – George et Jr vagabonds – Le lion flagada – Méfie-toi fillette – Mise en boîte – Le petit chaperon rouge – Tom et le magicien – Tom se déguise.
 
 - me 26 avr 15h00 GF
 

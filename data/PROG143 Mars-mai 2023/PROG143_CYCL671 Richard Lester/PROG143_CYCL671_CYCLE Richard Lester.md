@@ -74,7 +74,7 @@ Deux ados organisent un festival de jazz malgré les objections du maire de leur
 - je 16 mar 18h30 GF
 
 [34742]  
-**Les Joyeux débuts de Butch Cassidy et le Kid**  
+**Les Joyeux Débuts de Butch Cassidy et le Kid**  
 **(Butch and Sundance : The Early Days)**  
 de Richard Lester  
 États-Unis / 1979 / 111 min / VO / 35 mm  
@@ -130,7 +130,7 @@ Au cours d'une soirée de charité, le docteur Archie Bollen rencontre Petulia, 
 - ve 31 mar 18h30 HL
 
 [41631]  
-**Quatre garçons dans le vent**  
+**Quatre Garçons dans le vent**  
 **(A Hard Day's Night)**  
 de Richard Lester  
 Grande-Bretagne / 1964 / 87 min / VOSTF / 35 mm  
@@ -141,7 +141,7 @@ Alors que la Beatlemania fait rage en Angleterre, John, Paul, George et Ringo so
 Voir aussi dialogue p. xx
 
 [41592]  
-**Le Retour des mousquetaires**  
+**Le Retour des Mousquetaires**  
 **(The Return of the Musketeers)**  
 de Richard Lester  
 Grande-Bretagne-France-Espagne / 1989 / 102 min  
@@ -255,5 +255,5 @@ Après une guerre nucléaire éclair, il ne reste que vingt survivants dans les 
 **Dialogue avec Michka Assayas**
 
 - sa 25 mar 14h30 HL  
-À la suite de la projection de _Quatre garçons dans le vent_ de Richard Lester (voir p. xx)
+À la suite de la projection de _Quatre Garçons dans le vent_ de Richard Lester (voir p. xx)
 
