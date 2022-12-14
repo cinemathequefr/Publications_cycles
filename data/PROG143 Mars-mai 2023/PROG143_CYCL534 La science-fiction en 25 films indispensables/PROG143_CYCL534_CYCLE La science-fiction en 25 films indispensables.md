@@ -28,16 +28,17 @@ Ouverture de la rétrospective
 de James Gray  
 États-Unis-Brésil / 2017 / 122 min / VOSTF / DCP  
 Avec Brad Pitt, Liv Tyler, Ruth Negga, Tommy Lee Jones.  
-Dans un avenir proche, l'astronaute Roy McBride a pour mission de trouver une solution aux multiples explosions qui menacent la planète et seraient dues à des rayons cosmiques émanant de Neptune. Précisément la planète où son père, lui aussi astronaute, fut porté disparu seize ans auparavant...
+Dans un avenir proche, l'astronaute Roy McBride a pour mission de trouver une solution aux multiples explosions qui menacent la Terre et seraient dues à des rayons cosmiques émanant de Neptune. Précisément la planète où son père, lui aussi astronaute, fut porté disparu seize ans auparavant.
 
 - ve 24 mar 20h00 HL
 
 [40965]  
 **Aelita**  
+**(Аэлита)**  
 de Yakov Protazanov  
 URSS / 1924 / 111 min / INT. FR. / 35 mm  
-Avec Nikolaï Batalov, Konstantin Eggert, Igor Ilinski.  
-L'ingénieur Los réceptionne un curieux message qui semble venir de l'espace. Déçu par sa femme Natasha qui se laisse séduire par la bourgeoisie russe, Los s'évade en rêvant à la planète Mars. Il imagine une société totalitaire où il pourrait mener la révolution et tomber amoureux de la reine Aelita...
+Avec Ioulia Solntseva, Nikolaï Batalov, Konstantin Eggert, Igor Ilinski.  
+L'ingénieur Los réceptionne un curieux message qui semble venir de l'espace. Déçu par sa femme Natasha qui se laisse séduire par la bourgeoisie russe, il rêve de la planète Mars et imagine une société totalitaire où il pourrait mener la révolution et tomber amoureux de la reine Aelita.
 
 - sa 18 mar 17h00 GF
 
@@ -45,7 +46,7 @@ L'ingénieur Los réceptionne un curieux message qui semble venir de l'espace. D
 **Alien**  
 de Ridley Scott  
 États-Unis / 1978 / 117 min / VOSTF / 70 mm  
-Avec Tom Skerritt, Sigourney Weaver, Veronica Cartwright.  
+Avec Sigourney Weaver, John Hurt, Ian Holm, Tom Skerritt, Veronica Cartwright.  
 Une dangereuse créature extraterrestre à bord du « Nostromo », un vaisseau spatial en route pour la Terre, s'attaque aux sept membres de l'équipage, un par un. Le lieutenant Ellen Ripley va affronter cet indésirable huitième passager.  
 Restauration 4K menée en 2018 par la 20th Century Fox à la Company 3/Deluxe Entertainment Services Group, sous la supervision de Ridley Scott et Pam Dery.
 
@@ -75,9 +76,9 @@ En 2019, à Los Angeles, un détective doit retrouver un groupe de « répliquan
 **(The Thing)**  
 de John Carpenter  
 États-Unis / 1981 / 127 min / VOSTF / DCP  
-D'après la nouvelle _Who Goes There ?_ de John W. Campbell Jr..  
+D'après la nouvelle _Who Goes There ?_ de John W. Campbell Jr.  
 Avec Kurt Russell, Wilford Brimley, T.K. Carter.  
-Dans une station de l'Antarctique, une mystérieuse créature polymorphe tue les membres d'une expédition en prenant apparence humaine.
+Dans une station de l'Antarctique, une mystérieuse créature polymorphe tue les membres d'une expédition en assimilant toute forme de vie, semant la peur et la paranoïa.
 
 - di 26 mar 16h30 HL
 
@@ -86,7 +87,7 @@ Dans une station de l'Antarctique, une mystérieuse créature polymorphe tue les
 d'Alfonso Cuarón  
 États-Unis-Grande-Bretagne / 2011 / 91 min / VOSTF / DCP  
 Avec Sandra Bullock, George Clooney, Ed Harris.  
-A la suite d'une catastrophe, le commandant d'une navette spatiale américaine et une astronaute tentent de survivre dans l'espace et de rentrer sur terre.  
+À la suite d'une catastrophe, le commandant d'une navette spatiale américaine et une astronaute tentent de survivre dans l'espace et de rentrer sur terre.  
 En 2012, le Dolby Atmos numérique est mis au point; ce procédé offre une spatialisation acoustique étendue, qui complète le dispositif en 3D pour un rendu sensoriel de l'apesanteur particulièrement réussi. Projection en 3D
 
 - ve 24 mar 18h00 HL
@@ -118,7 +119,7 @@ de Robert Wise
 États-Unis / 1951 / 92 min / VOSTF / DCP  
 D'après le roman _Farewell to the Master_ de Harry Bates.  
 Avec Michael Rennie, Patricia Neal, Hugh Marlowe, Sam Jaffe.  
-Une soucoupe volante atterrit à Washington. En dépit du scepticisme général, l'extraterrestre qui en était passager s'avère porteur d'un message de paix pour l'humanité.
+Une soucoupe volante atterrit à Washington. En dépit du scepticisme général, l'extraterrestre qui en était passager se révèle porteur d'un message de paix pour l'humanité.
 
 - di 19 mar 15h00 GF
 
@@ -128,7 +129,7 @@ Une soucoupe volante atterrit à Washington. En dépit du scepticisme général,
 de Jack Arnold  
 États-Unis / 1953 / 80 min / VOSTF / DCP  
 Avec Richard Carlson, Barbara Rush, Charles Drake.  
-Un vaisseau spatial atterrit accidentellement dans une zone désertique de l'Arizona. Les extra-terrestres, afin de ne pas effrayer les habitants de la région, empruntent l'apparence de certains d'entre eux. Un scientifique, accompagné d'une jeune institutrice, communique avec eux dans l'espoir d'apprendre à les connaître. Mais les habitants de la région leur sont hostiles et veulent les détruire.
+Un vaisseau spatial atterrit accidentellement dans une zone désertique de l'Arizona. Pour apprendre à connaître les extraterrestres, qui ont pris apparence humaine, un scientifique et une institutrice communiquent avec eux, mais les habitants de la région, hostiles, veulent les détruire.
 
 - lu 20 mar 18h30 GF
 
@@ -158,7 +159,7 @@ En 2054, la société tente d'éradiquer les crimes en se dotant d'un système d
 de Michael Crichton  
 États-Unis / 1973 / 88 min / STF / DCP  
 Avec Yul Brynner, Richard Benjamin, James Brolin.  
-Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger dans plusieurs époques. Lancés dans l'ouest sauvage, deux amis se retrouvent plongés en plein cauchemar quand ces androïdes se détraquent et s'attaquent aux touristes.
+Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger dans plusieurs époques. Lancés dans l'ouest sauvage, deux amis se retrouvent en plein cauchemar quand les androïdes se détraquent et s'attaquent aux touristes.
 
 - sa 1 avr 18h30 GF
 

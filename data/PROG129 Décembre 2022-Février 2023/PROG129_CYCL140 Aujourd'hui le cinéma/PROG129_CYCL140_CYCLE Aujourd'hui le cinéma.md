@@ -96,7 +96,7 @@ Avec _Un camion en réparation_ et _L'Autre Louis_, Arnaud Simon signe deux cour
 [97439]  
 **Un camion en réparation**  
 d'Arnaud Simon  
-France / 2004 / 43 min / VOSTA  
+France / 2004 / 43 min / VOSTA / 35 mm  
 Avec Pierre Moure, Antoine Régent, Édith Scob, Aline Le Berre.  
 Eugène a vingt ans. C'est l'été, et pourtant il va mal. À l'occasion d'un séjour en province, son regard se pose sur Pierre, âgé d'une trentaine d'années. Il décide de s'en faire aimer.  
 suivi de  

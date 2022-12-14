@@ -47,7 +47,7 @@
   * Souffle sauvage (Le)  
   * Vagabond et les lutins (Le)
 
-## Jeune public (14)
+## Jeune public (15)
 
   * Docteur Jerry et Mister Love  
   * E.T. l'extra-terrestre  
@@ -62,6 +62,7 @@
   * Tex Avery Follies  
   * Trois âges (Les)  
   * Un Américain à Paris  
+  * Wallace et Gromit : Les inventuriers  
   * Zazie dans le métro
 
 ## L'image des plaisirs (9)
@@ -142,7 +143,7 @@
   * Chambre d'hôtel  
   * Dans les coulisses  
   * Donatella  
-  * Double Vie de Matthias Pascal (La)  
+  * Double Vie de Mathias Pascal (La)  
   * Drôles de couples  
   * Du sang dans le soleil  
   * Facciamo paradiso  
@@ -159,10 +160,9 @@
   * Mortadella  
   * Nous voulons les colonels  
   * Nouveaux monstres (Les)  
-  * Ogresses : L'ogresse Armenia (Les)  
+  * Ogresses (Les)  
   * Panni sporchi  
   * Pères et Fils  
-  * Picari (I)  
   * Pigeon (Le)  
   * Pourvu que ce soit une fille  
   * Rose del deserto (Le)  
@@ -171,9 +171,10 @@
   * Totò cherche un appartement  
   * Totò e Carolina  
   * Totò e i re di Roma  
-  * Totò e le donne  
-  * Un bourgeois tout petit petit  
+  * Totò et les femmes  
+  * Un bourgeois tout petit, petit  
   * Un héros de notre temps  
+  * Une catin pour deux larrons  
   * Une famille formidable  
   * Voyage avec Anita
 

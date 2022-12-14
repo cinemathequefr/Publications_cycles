@@ -9,13 +9,9 @@ Une fois par mois, le Ciné-club de Frédéric Bonnaud, directeur de la Cinémat
 **(Akasen chitai)**  
 de Kenji Mizoguchi  
 Japon / 1956 / 87 min / VOSTF / DCP  
-D'après le roman _Susaki no Onna_ de Yoshiko Shibaki.  
-Avec Machiko Kyô, Aiko Mimasu, Ayako Wakao.  
-Dans une maison de geishas de Yoshiwara, le quartier des plaisirs de Tokyo, on s'inquiète d'une nouvelle loi discutée au parlement prévoyant l'interdiction de la prostitution. Mickey, une nouvelle employée jeune et sans complexe, est décidée à gagner le plus d'argent possible pour étancher sa soif de dépenses.
-
----
-
-Dans une maison de passe, la vie et les réactions des pensionnaires devant un projet de loi visant à interdire la prostitution.
+D'après le roman _Susaki no onna_ de Yoshiko Shibaki.  
+Avec Machiko Kyō, Aiko Mimasu, Ayako Wakao.  
+Dans une maison de geishas de Yoshiwara, le quartier des plaisirs de Tokyo, on s'inquiète d'une nouvelle loi discutée au parlement prévoyant l'interdiction de la prostitution. Mickey, une nouvelle employée jeune et sans complexe, est décidée à gagner le plus d'argent possible.
 
 - me 22 mar 19h00 GF
 
@@ -35,16 +31,7 @@ d'Orson Welles
 États-Unis / 1957 / 95 min / VOSTF / 35 mm  
 D'après le roman _Manque de pot_ de Whit Masterson.  
 Avec Charlton Heston, Janet Leigh, Orson Welles, Akim Tamiroff.  
-À la frontière entre les États-Unis et le Mexique, une bombe explose dans la voiture de l'homme qui tient la ville sous sa coupe. Hank Quinlan, un inspecteur américain, et Vargas, un haut fonctionnaire mexicain, vont mener l'enquête.
-
----
-
-À la frontière entre les États-Unis et le Mexique, une bombe explose dans la voiture de l'homme qui tient la ville sous sa coupe. Pour mener l'enquête, deux hommes s'affrontent, l'inspecteur américain Hank Quinlan et le haut fonctionnaire mexicain, Miguel Vargas.  
-Version originelle de 1958.
-
----
-
-Remontage du film par Walter Murch, fondé sur des notes de travail de Welles.
+À la frontière entre les États-Unis et le Mexique, une bombe explose dans la voiture de l'homme qui tient la ville sous sa coupe. Le procureur mexicain Miguel Vargas décide de suivre l'enquête et découvre les méthodes peu orthodoxes de l'inspecteur américain Hank Quinlan.
 
 - ve 12 mai 19h30 HL
 

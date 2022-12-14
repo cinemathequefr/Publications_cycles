@@ -22,7 +22,7 @@ de Robert Wise
 États-Unis / 1951 / 92 min / VOSTF / DCP  
 D'après le roman _Farewell to the Master_ de Harry Bates.  
 Avec Michael Rennie, Patricia Neal, Hugh Marlowe, Sam Jaffe.  
-Une soucoupe volante atterrit à Washington. En dépit du scepticisme général, l'extraterrestre qui en était passager s'avère porteur d'un message de paix pour l'humanité.
+Une soucoupe volante atterrit à Washington. En dépit du scepticisme général, l'extraterrestre qui en était passager se révèle porteur d'un message de paix pour l'humanité.
 
 - di 19 mar 15h00 GF
 
@@ -168,6 +168,14 @@ de Jerry Lewis
 Avec Jerry Lewis, Stella Stevens.
 
 - di 30 avr 15h00 GF
+
+[133164]  
+**Wallace et Gromit : Les inventuriers**  
+de Nick Park, Merlin Crossingham  
+Grande-Bretagne / 1989 / 54 min / DCP  
+Wallace, inventeur farfelu, et son flegmatique chien Gromit, enchaînent les aventures rocambolesques et les rencontres improbables.
+
+- me 3 mai 15h00 GF
 
 [31525]  
 **L'Aigle des mers**  
