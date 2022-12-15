@@ -92,6 +92,17 @@ En 2012, le Dolby Atmos numérique est mis au point; ce procédé offre une spat
 
 - ve 24 mar 18h00 HL
 
+[97031]  
+**La Guerre des mondes**  
+**(War of the Worlds)**  
+de Steven Spielberg  
+États-Unis / 2004 / 116 min / VOSTF / 35 mm  
+D'après la nouvelle _La Guerre des mondes_ de H.G. Wells.  
+Avec Tom Cruise, Dakota Fanning, Miranda Otto.  
+D'étranges et gigantesques machines venues de l'espace surgissent brusquement et détruisent tout sur leur passage. Ray Ferrier et sa famille vont devoir se battre pour leur survie.
+
+- je 23 mar 20h45 HL
+
 [58029]  
 **L'Invasion des profanateurs de sépultures**  
 **(Invasion of the Body Snatchers)**  
@@ -142,16 +153,6 @@ En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterr
 Copie avec musique. Partition originale de 1927 de Gottfried Huppertz.
 
 - di 19 mar 17h15 GF
-
-[80357]  
-**Minority Report**  
-de Steven Spielberg  
-États-Unis / 2002 / 145 min / VOSTF / 35 mm  
-D'après la nouvelle _Rapport minoritaire_ de Philip K. Dick.  
-Avec Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow.  
-En 2054, la société tente d'éradiquer les crimes en se dotant d'un système de détection préventif très sophistiqué. Un problème surgit le jour où le dispositif désigne le chef de l'unité comme futur criminel.
-
-- je 23 mar 20h45 HL
 
 [31214]  
 **Mondwest**  

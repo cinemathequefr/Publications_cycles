@@ -88,12 +88,12 @@
   * Blade Runner (Final Cut)  
   * Chose (La)  
   * Gravity  
+  * Guerre des mondes (La)  
   * Invasion des profanateurs de sépultures (L')  
   * Je t'aime, je t'aime  
   * Jour où la terre s'arrêta (Le)  
   * Météore de la nuit (Le)  
   * Metropolis  
-  * Minority Report  
   * Mondwest  
   * Monstre (Le)  
   * Monstres de l'espace (Les)  
