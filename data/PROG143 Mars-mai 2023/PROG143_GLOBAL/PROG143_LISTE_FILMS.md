@@ -150,7 +150,7 @@
   * Fille au pistolet (La)  
   * Gendarmes et Voleurs  
   * Grande Guerre (La)  
-  * Haute Infidélité : Les gens modernes  
+  * Haute infidélité  
   * Infidèles (Les)  
   * Larmes de joie  
   * Male oscuro (Il)  

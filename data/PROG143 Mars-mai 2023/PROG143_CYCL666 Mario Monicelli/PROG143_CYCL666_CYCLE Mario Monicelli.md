@@ -200,13 +200,12 @@ Deux tire-au-flanc engagés en 1917 sur le front des Alpes cherchent à fuir les
 Séance présentée par Jean A. Gili  
 - sa 20 mai 20h00 HL
 
-[70021]  
-**Haute Infidélité : Les gens modernes**  
-**(Alta infedeltà : Genta moderna)**  
-de Mario Monicelli  
-Italie-France / 1963 / 130 min / VO / 35 mm  
-Avec Ugo Tognazzi, Michèle Mercier, Bernard Blier.  
-Quatre histoires. Celle de Mario Monicelli s'appelle _Genta moderna_ : Cesare perd tout son argent avec son ami aux cartes et, afin de payer sa dette, accepte de lui prêter pour une nuit son épouse Tebaide.
+[45337]  
+**Haute infidélité**  
+**(Alta infedeltà)**  
+de Franco Rossi, Elio Petri, Luciano Salce, Mario Monicelli  
+Italie-France / 1964 / 130 min / VO / 35 mm  
+Quatre histoires. Dans _Genta moderna_ de Mario Monicelli, Cesare perd tout son argent aux cartes contre son ami. Pour payer sa dette, il accepte de lui prêter pour une nuit son épouse, Tebaide.
 
 - je 18 mai 18h00 HL
 
