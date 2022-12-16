@@ -5,13 +5,14 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 90727,
-          "ordre": 1,
-          "dateHeure": "2023-03-23T19:30:00",
+          "idSeance": 92870,
+          "ordre": 2,
+          "dateHeure": "2023-03-23T17:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
+          "typeAssoc": 118,
           "idCategorie": 2964,
           "idEvenement": 27694,
           "typeEvenement": 13,
@@ -38,12 +39,55 @@
         }
       ],
       "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 92870,
+          "ordre": 1,
+          "dateHeure": "2023-03-23T17:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 2757,
+          "idEvenement": 27702,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Dans les coulisses de la musique de film",
+          "sousTitre": "Conférence de Gréco Casadesus",
+          "duree": 90,
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "Lorsque, dans un film, le jeu des acteurs, les décors, le cadrage, l'éclairage, le montage, la manière de filmer ont tout donné, la musique est le seul élément susceptible de traduire les désirs subliminaux du cinéaste ou d'amplifier ses aspirations. Elle peut révéler une vision cachée, apporter une dimension complémentaire, se marier subtilement à l'image ou encore ouvrir vers des perspectives que le réalisateur n'avait même pas imaginées. Pour réussir l'alliance complexe, le compositeur devra décoder et traduire moult propositions parfois impossibles à exprimer avec les mots. Au-dessus de sa tête, rôde toujours la même sanction sans appel : aussi belle soit une musique, si elle ne convient pas à la séquence, elle ira à la poubelle ! Lors de cette séance, **Gréco Casadesus** présentera le processus de création et d'enregistrement d'une musique de film à partir de nombreux extraits vidéo pour faire découvrir au public les aspects les plus complexes et mystérieux de cette profession."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Issu d'une grande famille d'artistes, **Gréco Casadesus** est compositeur de musique de film (_Les Trois Mousquetaires_, _Le Défi_, _Babar, roi des éléphants_, _Jésus_, _Jusqu'au dernier_, ...) et président fondateur de l'UCMF (Association des Compositeurs de Musiques de Film). On lui doit une centaine de créations musicales pour le cinéma, le théâtre, la télévision, la musique de chambre ou le concert symphonique."
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Gréco Casadesus",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        }
+      ],
+      "textes": []
     }
   ],
   "textes": [
     {
       "typeTexte": 263,
-      "texte": "Le Pacte (Clara Bahri)"
+      "texte": "Le Pacte (Djamila Benamara, Clara Bahri)"
     }
   ],
   "info": {}

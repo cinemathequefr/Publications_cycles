@@ -150,7 +150,7 @@ Deux jeunes Nigériens quittent l'intérieur des terres pour venir chercher du t
 [50954]  
 **Paris nous appartient**  
 de Jacques Rivette  
-France / 1961 / 140 min / DCP  
+France / 1961 / 140 min / 35 mm  
 Avec Betty Schneider, Giani Esposito, Daniel Crohem.  
 Anne entre dans une troupe de théâtre dont l'un des membres vient de se suicider. Une amie lui fait part du redoutable secret à l'origine de la mort du jeune homme.
 
