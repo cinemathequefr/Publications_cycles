@@ -47,12 +47,13 @@
   * Souffle sauvage (Le)  
   * Vagabond et les lutins (Le)
 
-## Jeune public (15)
+## Jeune public (16)
 
   * Docteur Jerry et Mister Love  
   * E.T. l'extra-terrestre  
   * Etre et avoir  
   * Fenêtre sur cour  
+  * Homme de Rio (L')  
   * Jason et les Argonautes  
   * Jour de fête  
   * Lumières de la ville (Les)  
@@ -65,17 +66,106 @@
   * Wallace et Gromit : Les inventuriers  
   * Zazie dans le métro
 
-## L'image des plaisirs (9)
+## L'image des plaisirs (98)
 
+  * 6/64 Mama und Papa (Materialaktion Otto Mühl)  
+  * 7/64 Leda und der Schwan  
+  * A Moment in Love  
+  * Âge d'or (chutes) (L')  
+  * Âge d'or (L')  
+  * Ai (Love)  
+  * Amphetamine  
+  * Après le bal  
+  * Baisers envolés  
+  * Basta  
+  * Behind Every Good Man  
+  * Belladonna  
+  * Bijou  
+  * Birds  
+  * Blue Streak  
+  * Breakaway  
+  * Bride Stripped Bare by Her Bachelors (The)  
+  * Canaries (The)  
+  * Cancan  
+  * CF Porn  
   * Chôfuku-ki  
+  * Christmas on Earth  
+  * Clin d'éventail  
+  * Cosmic Ray  
+  * Dafnis y Cloe  
+  * Danz  
   * Day I've Been Fucked in Front of the Entire World (The)  
+  * Dead Youth  
+  * Dehors-dedans  
+  * Derrière la porte verte  
+  * Dyketactics  
+  * Essai cinématographique : Autoportrait ou Ce qui manque à nous tous  
+  * Face  
+  * Faites-vous jouir de plus en plus  
+  * Filles de Ka-ma-ré (Une petite culotte pour l'été) (Les)  
+  * Firefly  
+  * Fireworks  
+  * Flaming Creatures  
+  * Freiheit für die Liebe  
   * Fuck the Fascism: El Cruce de dos mundos  
   * Fulmen  
+  * Fuses  
+  * Good-by Elvis and USA  
+  * Good-by Marilyn  
+  * Grève et pets  
+  * Grow Old Alone With Me  
+  * Hedonistic Communication  
+  * Holding  
   * Hot Heat  
+  * Hot Nasty  
+  * Human events  
+  * Hurry! Hurry!  
+  * I Change I Am the Same  
+  * I Don't Know  
+  * Infinity Girl  
+  * Inner Man  
+  * Je, tu, il, elle  
+  * Johnny Minotaur  
+  * Kiss (The)  
   * Lose Yourself With Me  
+  * Lotus  
+  * Love it / Leave it  
+  * Lovemaking  
+  * Madame a des envies  
   * Mars exalté  
   * Memory Slot – Track 1  
-  * Passing Strangers
+  * Menses  
+  * Mixed-Double  
+  * Moment  
+  * Motoshinkakarannu  
+  * Multiple Orgasm  
+  * Near the Big Chakra  
+  * Nitrate Kisses  
+  * Nus masculins  
+  * Oblivion  
+  * Onanism  
+  * Orange  
+  * Orfeo filmando en el campo de batalla  
+  * Orgasmus  
+  * Par le trou de la serrure  
+  * Particulièrement valable  
+  * Passing Strangers  
+  * Permanent Waves  
+  * Phosphene  
+  * Piece Mandala / End War  
+  * Quartier des femmes (Le)  
+  * Satan bouche un coin  
+  * Sexe enragé (Le)  
+  * Take Off (With Magda)  
+  * Tapp und TastKino  
+  * Tête froide (La)  
+  * The Now  
+  * Un chant d'amour  
+  * undefined  
+  * Unfolding  
+  * Voluptuous Martyrdoms of the Magnificent Masturbators (The)  
+  * Women  
+  * X
 
 ## La science-fiction en 25 films indispensables (25)
 
@@ -85,7 +175,6 @@
   * Aelita  
   * Alien  
   * Alphaville, une étrange aventure de Lemmy Caution  
-  * Blade Runner (Final Cut)  
   * Chose (La)  
   * Gravity  
   * Guerre des mondes (La)  
@@ -97,6 +186,7 @@
   * Mondwest  
   * Monstre (Le)  
   * Monstres de l'espace (Les)  
+  * Mouche (La)  
   * Mystère Andromède (Le)  
   * Rencontres du troisième type  
   * Silent Running  
@@ -129,14 +219,14 @@
   * True Lies  
   * Tueur d'élite
 
-## Mario Monicelli (46)
+## Mario Monicelli (49)
 
   * Armée Brancaleone (L')  
+  * Au diable la célébrité  
   * Bertoldo, Bertoldino e Cacasenno  
   * Boccace 70  
   * Brancaleone s'en va-t-aux croisades  
   * Camarades (Les)  
-  * Caprice à l'italienne  
   * Cari fottutissimi amici  
   * Caro Michele  
   * Casanova 70  
@@ -151,13 +241,13 @@
   * Gendarmes et Voleurs  
   * Grande Guerre (La)  
   * Haute infidélité  
-  * Infidèles (Les)  
   * Larmes de joie  
   * Male oscuro (Il)  
   * Marquis s'amuse (Le)  
   * Médecin et le Sorcier (Le)  
   * Mes chers amis  
-  * Mortadella  
+  * Mes chers amis 2  
+  * Mesdames et messieurs, bonsoir  
   * Nous voulons les colonels  
   * Nouveaux monstres (Les)  
   * Ogresses (Les)  
@@ -165,15 +255,18 @@
   * Pères et Fils  
   * Pigeon (Le)  
   * Pourvu que ce soit une fille  
+  * Romances et Confidences  
   * Rose del deserto (Le)  
   * Rossini! Rossini!  
   * Rosy la bourrasque  
+  * Toh, è morta la nonna!  
   * Totò cherche un appartement  
   * Totò e Carolina  
   * Totò e i re di Roma  
   * Totò et les femmes  
   * Un bourgeois tout petit, petit  
   * Un héros de notre temps  
+  * undefined  
   * Une catin pour deux larrons  
   * Une famille formidable  
   * Voyage avec Anita
@@ -197,7 +290,7 @@
   * Et tout le monde riait  
   * Great Buster: A Celebration (The)  
   * Illégalement vôtre  
-  * Jack le magnifique  
+  * Jack le Magnifique  
   * Mask  
   * Nashville Blues  
   * Nickelodeon  
@@ -233,9 +326,8 @@
   * Trois Mousquetaires (Les)  
   * Ultime garconnière (L')
 
-## Warner Bros., fabrique de stars (39)
+## Warner Bros., fabrique de stars (38)
 
-  * A chaque aube je meurs  
   * Agent britannique  
   * Aigle des mers (L')  
   * Anges aux figures sales (Les)  
@@ -265,13 +357,13 @@
   * Mort n'était pas au rendez-vous (La)  
   * Night Nurse  
   * Patrouille de l'aube (La)  
-  * Petit César (Le)  
   * Petit Géant (Le)  
   * Prologue  
   * Qu'est-il arrivé à Baby Jane ?  
   * Témoin à abattre (Le)  
   * Tombeur (Le)  
   * Trésor de la Sierra Madre (Le)  
+  * undefined  
   * Une femme cherche son destin  
   * Voyage sans retour
 

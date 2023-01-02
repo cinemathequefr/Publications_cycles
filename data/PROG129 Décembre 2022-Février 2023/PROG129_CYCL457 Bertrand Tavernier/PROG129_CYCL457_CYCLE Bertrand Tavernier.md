@@ -115,7 +115,7 @@ Séance présentée par Patrick Rotman
 [76358]  
 **Histoires de vies brisées : les « double peine » de Lyon**  
 de Bertrand Tavernier, Nils Tavernier  
-France / 2001 / 110 min / Numérique  
+France / 2001 / 110 min / 35 mm  
 Avec Mohamed Bejaoui, Abdellah Bendani, Nouredine Bendjafar.  
 En décembre 1997, Bertrand Tavernier apporte son soutien en donnant la parole à un groupe de sans-papiers lyonnais qui entament une grève de la faim pour protester contre la double peine, prison et expulsion.
 

@@ -2,6 +2,16 @@
 
 ## Les films
 
+[140529]  
+**La Ballade de Buster Scruggs**  
+**(The Ballad of Buster Scruggs)**  
+d'Ethan Coen, Joel Coen  
+États-Unis / 2017 / 133 min / VOSTF / DCP  
+Avec James Franco, Tim Blake Nelson.  
+Six fables sur la conquête de l'Ouest.
+
+- di 12 mar 17h00 GF
+
 [50144]  
 **Fargo**  
 de Joel Coen  

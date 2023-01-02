@@ -2,13 +2,10 @@
 
 ## Les films
 
-[46142]  
-**A chaque aube je meurs**  
-**(Each Dawn I Die)**  
-de William Keighley  
-États-Unis / 1945 / 92 min / VOSTF / 35 mm  
-Avec James Cagney, George Raft.  
-Le reporter Frank Ross dénonce dans la presse les agissements corrompus du procureur Jesse Hanley candidat aux élections. Ce dernier envoie ses hommes de main pour neutraliser Frank qui, victime d'un coup monté se retrouve en prison où il se lie d'amitié avec le caïd Hood Stacey.
+[45853]  
+****  
+undefined  
+110 min / VOSTF / 35 mm
 
 - ve 14 avr 18h30 GF  
 - je 11 mai 16h00 GF
@@ -27,7 +24,7 @@ Avec Leslie Howard, Kay Francis, Cesar Romero.
 **L'Aigle des mers**  
 **(The Sea Hawk)**  
 de Michael Curtiz  
-États-Unis / 1947 / 127 min / VOSTF / 35 mm  
+États-Unis / 1947 / 108 min / VOSTF / 35 mm  
 Avec Errol Flynn, Donald Crisp, Claude Rains.  
 En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La reine Elizabeth investit en secret le corsaire Geoffrey Thorpe d'une mission visant à harceler la flotte espagnole.
 
@@ -106,7 +103,7 @@ de Michael Curtiz
 Avec Errol Flynn, Olivia De Havilland, Basil Rathbone.  
 Les aventures de Peter Blood, médecin du XVIIe siècle, reconverti en pirate après avoir échappé à un emprisonnement injuste.
 
-- lu 17 avr 18h00 GF
+- lu 17 avr 15h30 GF
 
 [31376]  
 **Casablanca**  
@@ -117,6 +114,7 @@ Avec Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains.
 Pendant la Seconde Guerre mondiale, le cabaret le plus couru de Casablanca est tenu par Rick, un Américain en exil. Un soir arrive parmi ses clients son ancien amour, Ilsa, accompagnée de son époux.
 
 - sa 22 avr 18h30 HL  
+Séance présentée par Serge Chauvin  
 - di 7 mai 17h30 GF
 
 [31385]  
@@ -224,6 +222,7 @@ Avec Humphrey Bogart, Lauren Bacall, Martha Vickers.
 Le privé Philip Marlowe est embauché par le général Sternwood pour éclaircir l'affaire des dettes de jeu de sa fille Carmen. Marlowe découvre bientôt que la jeune femme est victime d'un chantage.
 
 - di 16 avr 17h00 HL  
+Séance présentée par Serge Chauvin  
 - di 7 mai 19h45 GF
 
 [32747]  
@@ -256,7 +255,8 @@ D'après la pièce _Old acquaintance_ de John Van Druten.
 Avec Bette Davis, Miriam Hopkins, Gig Young.  
 Kit Marlowe, romancière confirmée, fait publier le roman de son amie d'enfance Millie Drake, qui devient un best seller. Devenue un auteur à succès, Millie ne se rend pas compte que son mari Preston se détache d'elle et tombe amoureux de Kit.
 
-- sa 8 avr 19h30 HL
+- sa 8 avr 19h30 HL  
+Séance présentée par Serge Chauvin
 
 [32832]  
 **L'Intruse**  
@@ -267,7 +267,7 @@ Avec Bette Davis, Franchot Tone, Margaret Lindsay.
 Don Bellows rencontre dans un bar la grande actrice de théâtre Joyce Heath. Devenue alcoolique, elle lui avoue qu'elle est seule et ruinée. Malgré les reproches de Mrs Williams, la gouvernante, elle s'installe chez lui.
 
 - sa 29 avr 20h00 GF  
-- me 3 mai 16h00 GF
+- me 3 mai 16h30 GF
 
 [34478]  
 **La Légion noire**  
@@ -288,6 +288,7 @@ D'après la pièce _The Letter_ de William Somerset Maugham.
 Avec Bette Davis, Herbert Marshall, James Stephenson.  
 Alors que son mari part inspecter sa plantation de caoutchouc, Leslie Crosbie tue Geoffroy Hammond, un ami de la famille. Elle prétend que l'homme voulait abuser d'elle. Si son mari la croit sur parole, leur avocat a des doutes.
 
+- ve 7 avr 18h00 HL  
 - ve 21 avr 21h15 HL
 
 [30749]  
@@ -308,7 +309,7 @@ Avec Clark Gable, Barbara Stanwyck, Joan Blondell.
 Lora Hart et Miss Maloney sont des apprenties infirmières dont la première mission est de prendre soin de deux fillettes gravement malades. Malgré leurs origines bourgeoises, celles-ci semblent souffrir de malnutrition. Elles découvrent alors que le médecin et le chauffeur de la famille affament volontairement ces enfants dans l'espoir de récupérer leur héritage.
 
 - me 26 avr 18h30 GF  
-- me 3 mai 18h00 GF
+- me 3 mai 18h30 GF
 
 [32274]  
 **La Patrouille de l'aube**  
@@ -320,22 +321,11 @@ Pendant la Première Guerre Mondiale, un escadron de l'aviation britannique voit
 
 - je 27 avr 17h00 GF
 
-[34738]  
-**Le Petit César**  
-**(Little Caesar)**  
-de Mervyn LeRoy  
-États-Unis / 1930 / 80 min / VOSTF / 35 mm  
-D'après le roman _Little Caesar_ de W.R. Burnett.  
-Avec Edward G. Robinson, Douglas Fairbanks Jr., Glenda Farrell.  
-L'ascension d'un petit mafieux, devenu l'un des plus gros bonnets de la pègre locale.
-
-- ve 7 avr 18h00 HL
-
 [80961]  
 **Le Petit Géant**  
 **(The Little Giant)**  
 de Roy Del Ruth  
-États-Unis / 1933  
+États-Unis / 1933 / 74 min / VOSTF / 16 mm  
 Avec Edward G. Robinson, Mary Astor.  
 Texte à saisir
 
@@ -361,13 +351,14 @@ Avec Bette Davis, Joan Crawford, Victor Buono.
 « Baby Jane » Hudson a été une enfant star dans les années 1910. Plus tard, sa sœur Blanche a connu elle aussi la gloire mais un étrange accident l'a rendue infirme, mettant fin à sa carrière. Désormais, elles vivent ensemble.
 
 - je 20 avr 21h00 HL  
+Séance présentée par Serge Chauvin  
 - di 23 avr 20h30 HL
 
 [30296]  
 **Le Témoin à abattre**  
 **(Illegal)**  
 de Lewis Allen  
-États-Unis / 1955  
+États-Unis / 1955 / 88 min / VOSTF / 16 mm  
 Avec Edward G. Robinson, Nina Foch, Hugh Marlowe.  
 Un ancien procureur devient l'avocat d'un gangster.
 
@@ -398,12 +389,13 @@ Deux aventuriers américains s'associent avec un vieil homme pour exploiter un f
 **Une femme cherche son destin**  
 **(Now, Voyager)**  
 d'Irving Rapper  
-États-Unis / 1942 / 118 min / VOSTF / DCP  
+États-Unis / 1942 / 118 min / VOSTF / 35 mm  
 D'après le roman _Now, Voyager_ d'Olive Higgins Prouty.  
 Avec Bette Davis, Claude Rains, Paul Henreid.  
 Une vieille fille, dominée par sa mère, voit sa vie se métamorphoser grâce à son psychiatre. Lors d'une croisière, elle rencontre un voyageur dont elle tombe amoureuse.
 
-- me 19 avr 21h30 GF
+- me 19 avr 21h30 GF  
+Voir aussi conférence p. xx
 
 [32517]  
 **Voyage sans retour**  
@@ -421,5 +413,6 @@ Dan et Joan se rencontrent alors qu'ils traversent le Pacifique de Hong-Kong à 
 **Conférence Murielle Joudet**  
 **Conférence **
 
-- me 19 avr 19h00 GF
+- me 19 avr 19h00 GF  
+À la suite de la conférence, à 21h30, projection d'un film choisi par le conférencier : _Une femme cherche son destin_ d'Irving Rapper (voir p. xx)
 

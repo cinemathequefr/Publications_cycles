@@ -6,7 +6,7 @@
 **Cash-cash**  
 **(Finders Keepers)**  
 de Richard Lester  
-États-Unis / 1984 / 96 min / 35 mm  
+États-Unis / 1984 / 96 min / VO / 35 mm  
 Avec Michael O'Keefe, Beverly D'Angelo, Louis Gossett Jr..  
 Plusieurs personnages pittoresques et loufoques se lancent à la poursuite d'un magot de 5 millions de dollars.
 
@@ -153,7 +153,7 @@ France, 1649. Le cardinal Mazarin ordonne à d'Artagnan de retrouver Athos, Port
 [69732]  
 **The Ritz**  
 de Richard Lester  
-Grande-Bretagne / 1976 / 91 min / VOSTF / 35 mm  
+Grande-Bretagne / 1976 / 91 min / VOSTF / 16 mm  
 D'après la pièce _The Ritz_ de Terrence McNally.  
 Avec Jack Weston, Rita Moreno, Jerry Stiller.  
 Pourchassé par un tueur de la pègre, un homme demande à un chauffeur de taxi de le conduire dans un lieu sûr. Il trouve refuge au Ritz, qui s'avère être un sauna gay.
@@ -184,7 +184,7 @@ Film suivi de _Le Knack... et comment l'avoir_ de Richard Lester
 **La Souris sur la Lune**  
 **(The Mouse on the Moon)**  
 de Richard Lester  
-Grande-Bretagne / 1963 / 85 min / VO / 35 mm  
+Grande-Bretagne / 1963 / 85 min / VOSTF / 16 mm  
 Avec Margaret Rutheford, Ron Moody, Bernard Cribbins.  
 Le Duché du Grand Fenwick réussit le premier à envoyer une fusée sur la Lune.
 
@@ -247,12 +247,18 @@ Après une guerre nucléaire éclair, il ne reste que vingt survivants dans les 
 ## Rencontres et conférences
 
 **Conférence de Leo Soesanto**  
-**Conférence **
+**Conférence de Léo Soesanto**  
+Le nom de l'Américain Richard Lester (né en 1932) est associé à l'Angleterre du Swinging London, dont il sut capter l'énergie en filmant avec un humour loufoque les Beatles (d'abord avec _A Hard Day's Night_ en 1964, estampillé « _Citizen Kane_ des clips de juke-box » par le Village Voice) et la révolution sexuelle d'alors (_Le Knack... et comment l'avoir_ en 1965, couronné à Cannes par la Palme d'Or). Si la comédie est le fort de Lester, son irrévérence est au service d'une critique constante des institutions (l'antimilitariste _Comment j'ai gagné la guerre_ en 1967, avec John Lennon ; le mariage dans _Petulia_ (1968), jusqu'à la critique du pouvoir et même des super pouvoirs (_Superman 3_, 1983). Lester a su filmer la jeunesse et les idoles dans les années 60, mais aussi leur crépuscule dans les années 70 : _Les Trois Mousquetaires_ (1973) avec la fougue comme dernier rempart à la realpolitik de Richelieu. Mais aussi Sean Connery en Robin des Bois vieillissant dans _La Rose et la Flèche_ (1976). Polyphonie d'une œuvre novatrice à redécouvrir, où le travail télévisé du cinéaste annonce le surréalisme des Monty Python, où sa collaboration avec les Beatles invente le clip MTV et où le ton de cartoon de ses deux Superman préfigure les blockbusters Marvel aujourd'hui hégémoniques.  
+Léo Soesanto est journaliste de cinéma, auteur et programmateur de festivals de films (Cannes, Rotterdam, Bordeaux, Riga). Il a écrit entre autres pour _Libération, Les Inrockuptibles_ ou _Vogue_. Il a publié en 2021 _L'Aéroport mis en scènes_ (éditions Espaces & Signes), un ouvrage sur la représentation des aéroports au cinéma, et a participé au catalogue _Top Secret ; cinéma & espionnage_ (La Cinémathèque française/Flammarion, 2022).
 
 - je 23 mar 19h00 GF  
 À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _Comment j'ai gagné la guerre_ de Richard Lester (voir p. xx)
 
-**Dialogue avec Michka Assayas**
+**Quatre Garçons dans le vent (A Hard Day's Night) + dialogue avec Michka Assayas**  
+Rencontre animée par Frédéric Bonnaud  
+« En janvier 1964, quand les Beatles sont passés à l'Olympia, je suis allé à Paris. Ils avaient tout un étage du George-V. je les ai observés et l'intrigue de _A Hard Day's Night_ m'est apparue : cette sensation d'être piégé, d'être soumis à des ordres – il faut sortir, rentrer –, d'être comme des prisonniers, et leur capacité à se soutenir mutuellement face au monde extérieur. (...) Nous avons décidé de commencer le film dans des espaces confinés, bas de plafond, et de les faire passer dans un espace plus ouvert où une chanson signifierait leur libération, et ensuite de les remettre en prison. Nous savions à quels moments du film il faudrait des chansons ; ils nous en ont proposé une dizaine, assez pour un album, et nous en avons retenu sept ou huit. » Richard Lester _(Le Monde_, interview de Thomas Sotinel, 23 janvier 2015)  
+Michka Assayas est journaliste (il a rassemblé ses écrits « rock » dans _In a Lonely Place_, 2013) et romancier (_Un autre monde,_ 2016). Il a dirigé _Le Nouveau Dictionnaire du roc_k (2014) et publié entre autres un livre d'entretiens avec Bono, le chanteur de U2 (_Bono par Bono_, 2005). Depuis plusieurs années, il anime sur France Inter l'émission hebdomadaire « Very Good Trip ». En 2021, il a traduit en français _Get Back_, le livre qui a accompagné la sortie du documentaire-fleuve de Peter Jackson, _The Beatles : Get Back._  
+**Frédéric Bonnaud** est directeur général de la Cinémathèque française.
 
 - sa 25 mar 14h30 HL  
 À la suite de la projection de _Quatre Garçons dans le vent_ de Richard Lester (voir p. xx)

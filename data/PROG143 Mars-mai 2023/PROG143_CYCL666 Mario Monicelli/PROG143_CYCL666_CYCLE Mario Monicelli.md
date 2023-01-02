@@ -2,6 +2,14 @@
 
 ## Les films
 
+[93756]  
+****  
+undefined  
+15 min / DCP
+
+- sa 6 mai 15h00 GF  
+Film suivi d'_Au diable la célébrité_ de Steno, Mario Monicelli
+
 [42470]  
 **L'Armée Brancaleone**  
 **(L'Armata Brancaleone)**  
@@ -10,9 +18,19 @@ Italie-France-Espagne / 1966 / 120 min / VOSTF / 35 mm
 Avec Vittorio Gassman, Catherine Spaak, Gian Maria Volonté.  
 Les aventures picaresques du chevalier Brancaleone qui, accompagné de son armée de gueux, se dirige vers le fief d'Aurocastro pour se l'accaparer illégalement.
 
-- ve 28 avr 18h00 HL  
-Séance présentée par Jean A. Gili  
+- ve 5 mai 18h00 HL  
 - sa 27 mai 19h15 HL
+
+[58449]  
+**Au diable la célébrité**  
+**(Al diavolo la celebrità)**  
+de Steno, Mario Monicelli  
+Italie / 1949 / 100 min / VO / Vidéo  
+Avec Leonardo Cortese, Marcel Cerdan, Mischa Auer, Carlo Campanini.  
+Un professeur spécialiste de l'Orient reçoit la visite du diable, qui lui fera connaître les plaisirs de la célébrité en le réincarnant en ténor, puis en boxer.
+
+- sa 6 mai 15h00 GF  
+Film précédé d'_undefined_
 
 [42476]  
 **Bertoldo, Bertoldino e Cacasenno**  
@@ -43,7 +61,7 @@ Italie-Algérie / 1970 / 117 min / VF / 35 mm
 Avec Vittorio Gassman, Stefania Sandrelli, Adolfo Celli.  
 Les nouvelles aventures de Brancaleone et de ses compagnons qui partent aux croisades.
 
-- ve 28 avr 20h45 HL  
+- ve 5 mai 20h30 HL  
 - di 28 mai 19h30 HL
 
 [41255]  
@@ -55,17 +73,8 @@ Avec Marcello Mastroianni, Renato Salvatori, Bernard Blier.
 Turin, fin du XIX<sup>e</sup> siècle. Dans une fabrique textile, trois ouvriers entrent en conflit avec le contremaître. Alors que des sanctions tombent, l'instituteur Sinigaglia, un militant socialiste fraîchement arrivé de Gênes, pousse les travailleurs à s'organiser.
 
 - di 30 avr 17h30 HL  
-Séance présentée par Jean A. Gili
-
-[60124]  
-**Caprice à l'italienne**  
-**(Capriccio all'italiana)**  
-de Steno, Pier Paolo Pasolini, Pino Zac, Franco Rossi, Mario Monicelli, Mauro Bolognini  
-Italie / 1968 / 95 min / VOSTF / 35 mm  
-Avec Silvana Mangano, Enzo Marignani, Ugo D'Alessio, Dante Maggio.  
-Film à sketches : un regard souvent acerbe sur la société italienne des années 60.
-
-- sa 6 mai 15h00 GF
+Séance présentée par Jean A. Gili  
+- di 14 mai 17h30 GF
 
 [103765]  
 **Cari fottutissimi amici**  
@@ -114,7 +123,8 @@ Italie / 1950 / 90 min / VOSTF / DCP
 Avec Aldo Fabrizi, Gina Lollobrigida, Delia Scala, Marcello Mastroianni.  
 Les mésaventures de trois femmes à la recherche du bonheur et du succès, dans le monde du music-hall italien.
 
-- ve 5 mai 18h30 HL
+- me 26 avr 20h00 HL  
+Ouverture de la rétrospective
 
 [43188]  
 **Donatella**  
@@ -144,7 +154,7 @@ Italie / 1970 / 105 min / VOSTF / 35 mm
 Avec Monica Vitti, Alberto Sordi, Gigi Bonos.  
 Les déboires sentimentaux de trois couples, racontés en trois épisodes.
 
-- sa 6 mai 17h00 GF
+- sa 6 mai 17h30 GF
 
 [53808]  
 **Du sang dans le soleil**  
@@ -155,7 +165,7 @@ D'après le roman _La Madre_ de Grazia Deledda.
 Avec Mel Ferrer, Amedeo Nazzari, Lea Massari.  
 Don Paolo, un jeune prêtre troublé par l'amour qu'il éprouve pour Agnese, tente de faire régner la paix dans un petit village sarde où deux familles sont en guerre.
 
-- ve 26 mai 20h15 HL
+- lu 29 mai 20h30 GF
 
 [71318]  
 **Facciamo paradiso**  
@@ -209,16 +219,6 @@ Quatre histoires. Dans _Genta moderna_ de Mario Monicelli, Cesare perd tout son 
 
 - je 18 mai 18h00 HL
 
-[43258]  
-**Les Infidèles**  
-**(Le Infedeli)**  
-de Steno, Mario Monicelli  
-Italie / 1953 / 105 min / VO / 35 mm  
-Avec May Britt, Irène Papas, Marina Vlady, Gina Lollobrigida.  
-Un industriel engage un enquêteur pour filer son épouse, espérant secrètement qu'elle le trompe : il pourrait ainsi divorcer et épouser la femme dont il est amoureux.
-
-- di 14 mai 17h30 GF
-
 [55028]  
 **Larmes de joie**  
 **(Risate di gioia)**  
@@ -228,7 +228,7 @@ D'après les nouvelles _Ladri in chiesa_ et _Lacrime di gioia_ d'Alberto Moravia
 Avec Anna Magnani, Totò, Ben Gazzara.  
 Une figurante de Cinecittà, un petit voleur de bijoux et son comparse, réunis par le hasard, passent la nuit du réveillon à écumer les fêtes de Rome, avec un succès relatif.
 
-- ve 5 mai 20h30 HL
+- ve 28 avr 20h45 HL
 
 [73067]  
 **Il Male oscuro**  
@@ -248,7 +248,7 @@ Italie-France / 1981 / 135 min / VOSTF / 35 mm
 Avec Alberto Sordi, Paolo Stoppa, Flavio Bucci, Caroline Berg.  
 Le marquis del Grillo, camérier du pape Pie VII, mène une existence dissolue dans la Rome du début du XIX<sup>e</sup> siècle.
 
-- me 10 mai 20h15 GF
+- me 10 mai 20h45 GF
 
 [54899]  
 **Le Médecin et le Sorcier**  
@@ -258,7 +258,7 @@ Italie / 1957 / 100 min / VO / 35 mm
 Avec Vittorio De Sica, Marcello Mastroianni, Marisa Merlini.  
 À Pianetta, il n'y a plus de médecin depuis longtemps. Quand arrive le docteur Marchetti, il s'installe chez Don Antonio, et grâce à un peu de psychologie et à un philtre magique, s'octroie la considération du village.
 
-- me 10 mai 18h00 GF
+- me 10 mai 18h30 GF
 
 [42447]  
 **Mes chers amis**  
@@ -269,17 +269,28 @@ Avec Ugo Tognazzi, Philippe Noiret, Bernard Blier, Adolfo Celi.
 Après la mort d'un des leurs, des quadragénaires se souviennent de leurs plaisanteries.  
 Film conçu et écrit par Pietro Germi qui, malade, en confia la réalisation à Mario Monicelli.
 
-- sa 29 avr 20h30 HL
+- sa 29 avr 20h30 HL  
+- lu 22 mai 20h00 GF
 
-[43261]  
-**Mortadella**  
-**(La Mortadella)**  
+[42460]  
+**Mes chers amis 2**  
+**(Amici miei, atto II)**  
 de Mario Monicelli  
-Italie-France / 1971 / 109 min / VO / 35 mm  
-Avec Sophia Loren, Gigi Proietti, William Devane, Susan Sarandon, Danny DeVito.  
-Maddalena quitte son travail en Italie pour rejoindre son fiancé aux États-Unis. Mais elle est retenue à la douane à cause d'un morceau de mortadelle.
+Italie / 1982 / VOSTF / 35 mm  
+Avec Ugo Tognazzi, Philippe Noiret.  
+Les nouvelles mésaventures des quatre amis d'enfance, personnages principaux du premier volet, _Mes chers amis_.
 
-- sa 6 mai 19h15 GF
+- ve 26 mai 20h15 HL
+
+[57381]  
+**Mesdames et messieurs, bonsoir**  
+**(Signore e signori, buonanotte)**  
+de Leonardo Benvenuti, Luigi Comencini, Piero De Bernardi, Agenore Incrocci, Nanni Loy, Ruggero Maccari, Luigi Magni, Mario Monicelli, Ugo Pirro, Furio Scarpelli, Ettore Scola  
+Italie / 1976 / 118 min / VOSTF / DCP  
+Avec Marcello Mastroianni, Ugo Tognazzi, Vittorio Gassman, Andréa Ferreol, Nino Manfredi.  
+Film collectif à sketches parodiant un programme télévisé italien.
+
+- di 30 avr 20h15 HL
 
 [43867]  
 **Nous voulons les colonels**  
@@ -339,8 +350,7 @@ Italie / 1958 / 111 min / VOSTF / 35 mm
 Avec Marcello Mastroianni, Vittorio Gassman, Totò, Claudia Cardinale.  
 En prison, Cosimo révèle à Peppe les détails du gros coup infaillible qu'il se réserve pour sa sortie. Mais Peppe est libéré le premier et organise le casse avec les complices de Cosimo.
 
-- me 26 avr 20h00 HL  
-Ouverture de la rétrospective  
+- ve 28 avr 18h00 HL  
 - sa 20 mai 17h30 HL
 
 [57073]  
@@ -352,6 +362,16 @@ Avec Liv Ullmann, Catherine Deneuve, Giuliana De Sio, Philippe Noiret.
 Les femmes d'une même famille, déçues par les hommes, se liguent pour faire front contre l'adversité.
 
 - me 24 mai 18h00 HL
+
+[57106]  
+**Romances et Confidences**  
+**(Romanzo popolare)**  
+de Mario Monicelli  
+Italie / 1974 / 102 min / VOSTF / DCP  
+Avec Ugo Tognazzi, Ornella Muti, Michele Placido.  
+Un quinquagénaire épouse sa filleule de trente ans sa cadette. Il est peu à peu rongé par la jalousie.
+
+- sa 6 mai 20h00 GF
 
 [101591]  
 **Le Rose del deserto**  
@@ -369,7 +389,7 @@ Italie-France-Allemagne-Espagne / 1991 / 151 min / VOSTF / 35 mm
 Avec Sergio Castellitto, Philippe Noiret, Sabine Azéma, Vittorio Gassman.  
 Le récit, de l'enfance à la mort, du compositeur italien Gioachino Rossini, considéré comme l'un des plus grands génies musicaux de tous les temps.
 
-- lu 8 mai 20h15 GF
+- lu 8 mai 20h45 GF
 
 [54030]  
 **Rosy la bourrasque**  
@@ -382,6 +402,15 @@ Raoul, un ancien boxeur, tombe amoureux d'une championne de catch, Rosy. Leur re
 
 - ve 19 mai 18h00 HL
 
+[79310]  
+**Toh, è morta la nonna!**  
+de Mario Monicelli  
+Italie / 1969 / 89 min / VO / 35 mm  
+Avec Valentina Cortese, Riccardo Garrone, Wanda Capodaglio.  
+Adelaïde, propriétaire d'une florissante usine d'insecticides, meurt d'un choc électrique. Ses héritiers se disputent la succession.
+
+- lu 29 mai 18h30 GF
+
 [58908]  
 **Totò cherche un appartement**  
 **(Totò cerca casa)**  
@@ -390,7 +419,8 @@ Italie / 1949 / 82 min / VOSTF / 35 mm
 Avec Totò, Alda Mangini, Folco Lulli.  
 Comme tant d'autres Romains, Beniamino Lomacchio a perdu son logement sous les bombardements de la fin de la guerre. D'un vieux cimetière jusqu'au Colisée, il se met en quête d'un nouveau nid pour sa famille.
 
-- je 4 mai 19h00 HL
+- je 4 mai 19h00 HL  
+Voir aussi dialogue p. xx
 
 [70340]  
 **Totò e Carolina**  
@@ -424,11 +454,12 @@ Antonio Scapparo ne supporte plus sa femme et se réfugie dans le grenier pour l
 **Un bourgeois tout petit, petit**  
 **(Un borghese piccolo piccolo)**  
 de Mario Monicelli  
-Italie / 1977 / 122 min / VOSTF / 35 mm  
+Italie / 1977 / 121 min / VOSTF / 35 mm  
 Avec Alberto Sordi, Shelley Winters, Vincenzo Crocitti.  
 Modeste fonctionnaire à l'approche de la retraite, Vivaldi veut caser son fils dans l'administration. Un drame survient, qui l'entraîne dans une spirale de vengeance.
 
-- sa 29 avr 14h30 HL
+- sa 29 avr 14h30 HL  
+Voir aussi dialogue p. xx
 
 [66898]  
 **Un héros de notre temps**  
@@ -438,7 +469,8 @@ Italie / 1955 / 85 min / VOSTF / DCP
 Avec Alberto Sordi, Franca Valeri, Giovanna Ralli.  
 Les mésaventures d'Alberto, petit délateur timide et peureux, vivant encore chez sa tante et une vieille gouvernante, et ayant l'art de se fourrer dans des situations aussi invraisemblables que désopilantes.
 
-- sa 29 avr 18h15 HL
+- sa 29 avr 18h15 HL  
+- lu 22 mai 18h00 GF
 
 [43843]  
 **Une catin pour deux larrons**  
@@ -468,15 +500,21 @@ Italie-France / 1979 / 115 min / VO / 35 mm
 Avec Giancarlo Giannini, Goldie Hawn, Claudine Auger, Aurore Clément.  
 En se rendant au chevet de son père mourant, un homme rencontre une actrice américaine avec qui il a une relation.
 
-- ve 19 mai 21h00 HL
+- ve 19 mai 20h30 HL
 
 ## Rencontres et conférences
 
 **Dialogue avec Jean-François Rauger**
 
-- sa 29 avr 16h30 HL
+- sa 29 avr 14h30 HL  
+À la suite de la projection de _Un bourgeois tout petit, petit_ de Mario Monicelli (voir p. xx)
 
-**Dialogue avec René Marx**
+**Film + Dialogue avec René Marx**  
+Rencontre animée par Jean-François Rauger  
+« Avec Totò, aucune complaisance n'est possible. Ce n'est pas un petit comique régional, ni même un bon comique national. C'est un géant du cinéma, qui ne laisse, comme sa ville, Naples, aucune prise à l'attendrissement niaiseux. » René Marx « Ce que je me reproche le plus est d'avoir trop tôt abandonné la farce. Parce que la farce est un grand genre, très important. Il y avait à cette époque le regrettable préjugé du _genre inférieur_. En réalité, le Totò de la farce a l'importance de Chaplin, de Keaton. » Mario Monicelli, cité dans René Marx, _Totò – Le rire de Naples_ (éditions Henri Berger, 1996) « Je ne vais jamais au cinéma. Quand je me suis aperçu dans les studios qu'il suffit d'un baquet d'eau pour montrer une tempête, je me suis dit : ''Le cinéma ne m'aura plus''. Et je n'y suis plus retourné. » Totò  
+**Jean-François Rauger** est directeur de la programmation à la Cinémathèque française.  
+René Marx est rédacteur en chef adjoint de la revue _L'Avant-Scène Cinéma._ Spécialiste du cinéma italien, il a notamment publié aux éditions Henri Berger : _Totò – Le rire de Naples_ (1996) et _Roberto Benigni – Portrait_ (2005). Il a participé au _Dictionnaire du cinéma italien : ses créateurs de 1943 à nos jours_ (Nouveau Monde Éditions, 2014), ainsi qu'à l'ouvrage collectif _Tout Pasolini_ (éditions Gremese, 2022).
 
-- je 4 mai 20h30 HL
+- je 4 mai 19h00 HL  
+À la suite de la projection de _Totò cherche un appartement_ de Mario Monicelli, Steno (voir p. xx)
 

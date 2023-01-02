@@ -31,7 +31,7 @@ D'après la pièce de théâtre _Noises Off_ de Michael Frayn.
 Avec Michael Caine, Christopher Reeve, Marilu Henner.  
 Le directeur d'une compagnie théâtrale rencontre des difficultés avec sa dernière production. La pièce est un désastre, et ce qui se passe en coulisses est catastrophique.
 
-- di 23 avr 19h00 GF
+- di 23 avr 20h00 GF
 
 [57151]  
 **La Cible**  
@@ -64,6 +64,7 @@ Avec Jeff Bridges, Ben Johnson, Ellen Burstyn, Timothy Bottoms, Cybil Shepherd.
 Le portrait de la jeunesse d'Anarene, une petite ville du Nord du Texas, en 1951.
 
 - sa 15 avr 14h30 HL  
+Voir aussi dialogue p. xx  
 - me 26 avr 17h00 HL
 
 [30577]  
@@ -107,7 +108,7 @@ Richard Dice est appelé pour faire partie d'un jury lors d'un procès pour meur
 - di 16 avr 21h00 GF
 
 [30562]  
-**Jack le magnifique**  
+**Jack le Magnifique**  
 **(Saint Jack)**  
 de Peter Bogdanovich  
 États-Unis / 1979 / 112 min / VOSTF / Numérique  
@@ -115,7 +116,8 @@ D'après le roman _Saint Jack_ de Paul Theroux.
 Avec Ben Gazzara, Peter Bogdanovich, George Lazenby.  
 Au début des années 1970, Jack Flowers ouvre un bordel à Singapour où il espère faire fortune. La réalité de la guerre du Vietnam le rattrape quand la CIA lui propose d'ouvrir un établissement réservé aux soldats en permission.
 
-- sa 22 avr 14h30 HL
+- sa 22 avr 14h30 HL  
+Voir aussi dialogue p. xx
 
 [30578]  
 **Mask**  
@@ -144,7 +146,7 @@ Avec Ryan O'Neal, Burt Reynolds, Stella Stevens.
 À travers le destin de quatre jeunes gens, évocation de l'histoire du _nickelodeon_, l'ancêtre de la salle de cinéma.
 
 - sa 15 avr 20h45 HL  
-- lu 17 avr 20h30 GF
+- lu 17 avr 18h00 GF
 
 [30584]  
 **On s'fait la valise, docteur ?**  
@@ -194,16 +196,25 @@ Avec Mamie Van Doren, Mary Marr, Paige Lee.
 Des astronautes atterrissent sur Vénus, y affrontent des créatures dangereuses et y rencontrent de séduisantes vénusiennes.  
 Remontage d'un film de science-fiction soviétique (_La Planète des tempêtes_) par les producteurs de Roger Corman, augmenté de séquences avec des acteurs américains.
 
-- di 23 avr 17h00 GF
+- di 23 avr 18h00 GF
 
 ## Rencontres et conférences
 
-**Film + dialogue avec Jean-Baptiste Thoret**
+**La dernière séance + dialogue avec Jean-Baptiste Thoret**  
+Rencontre animée par Bernard Benoliel  
+« Jean-Baptiste Thoret : _dans les histoires du cinéma, on vous rattache à ce mouvement qu'on appelle aujourd'hui Le Nouvel Hollywood. Vous sentiez-vous proche des cinéastes de votre génération ?_ Peter Bogdanovich : pas vraiment. Je sais qu'on m'associe à ce mouvement mais je ne peux pas dire que j'ai eu beaucoup d'affinités avec lui. Roger Corman m'a vraiment appris quelque chose. Avec lui, j'ai appris à faire un cinéma de guérilla, des tournages rapides, pas toujours légaux, j'ai appris à ne pas être trop orthodoxe dans la façon de faire un film. Je peux me revendiquer de cette école-là mais je ne me suis jamais vraiment senti proche des cinéastes du Nouvel Hollywood. Ceux dans lesquels je me reconnaissais davantage étaient ceux qui m'avaient précédé, cette génération de cinéastes et d'acteurs qui, à la fin des années 1960, étaient en train de disparaître, comme Ford, Hawks, Cukor, Wayne, Stewart, etc. C'est avec eux que j'aurais aimé traîner ! » _Le Cinéma comme élégie. Conversations avec Peter Bogdanovich_ (2018).  
+**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+Jean-Baptiste Thoret est cinéaste (_We Blew It,_ 2017 ; _Dario Argento : soupirs dans un corridor lointain_, 2019 ; _Michael Cimino, un mirage américain_, 2022) et historien du cinéma, particulièrement des cinémas américain et italien des années 1970. Auteur d'ouvrages, notamment sur Dario Argento, Michael Cimino, la représentation au cinéma de l'assassinat de JFK, le _road movie_ et, récemment, Michael Mann (éditions Flammarion), il dirige aussi la collection de DVD et Blu-ray « Make My Day ! » (StudioCanal). En 2018, il a publié _Le Cinéma comme élégie. Conversations avec Peter Bogdanovich_ (Carlotta Films et GM Éditions).
 
-- sa 15 avr 16h30 HL
+- sa 15 avr 14h30 HL  
+À la suite de la projection de _La Dernière Séance_ de Peter Bogdanovich (voir p. xx)
 
-**Film + dialogue avec Jean-Baptiste Thoret**  
-**Conférence **
+**Jack le magnifique + dialogue avec Jean-Baptiste Thoret**  
+Rencontre animée par Bernard Benoliel  
+« Peter Bogdanovich : Vous le savez, j'ai eu une mauvaise expérience avec _Enfin l'amour_ et _Nickelodeon_. Après ces deux films, je n'ai rien réalisé pendant presque trois ans. Je cherchais à comprendre ce qui s'était passé. Pourquoi tout avait si mal tourné depuis quelques années ? Et j'ai réalisé que je m'étais trop accordé aux désirs des autres et pas assez à mon propre instinct. Je me suis donc dit : « Tant pis, je ferai _Saint Jack_ avec Ben Gazzara ou je ne le ferai pas. » (...) Cybill \[Shepherd\] et moi avons fait un voyage aux Philippines, à Tokyo, à Hong-Kong et puis à Singapour. Or, rien ne ressemblait à Singapour. (...) C'est l'un de mes films les plus libres. J'ai vraiment suivi le mouvement et le flux du tournage, de l'ambiance générale, de nos expériences, de ce qu'on ressentait au fil des jours. La même chose s'est passée avec _Et tout le monde riait._ Ces deux films sont, je crois, ce que j'ai fait de mieux à cette époque, et même jusqu'à maintenant. Ce sont aussi mes films les plus personnels. » _Le Cinéma comme élégie. Conversations avec Peter Bogdanovich_ (2018).  
+**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+Jean-Baptiste Thoret est cinéaste (_We Blew It,_ 2017 ; _Dario Argento : soupirs dans un corridor lointain_, 2019 ; _Michael Cimino, un mirage américain_, 2022) et historien du cinéma, particulièrement des cinémas américain et italien des années 1970. Auteur d'ouvrages, notamment sur Dario Argento, Michael Cimino, la représentation au cinéma de l'assassinat de JFK, le _road movie_ et, récemment, Michael Mann (éditions Flammarion), il dirige aussi la collection de DVD et Blu-ray « Make My Day ! » (StudioCanal). En 2018, il a publié _Le Cinéma comme élégie. Conversations avec Peter Bogdanovich_ (Carlotta Films et GM Éditions).
 
-- sa 22 avr 16h30 HL
+- sa 22 avr 14h30 HL  
+À la suite de la projection de _Jack le Magnifique_ de Peter Bogdanovich (voir p. xx)
 

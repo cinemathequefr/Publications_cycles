@@ -36,7 +36,7 @@ Dans un avenir proche, l'astronaute Roy McBride a pour mission de trouver une so
 **Aelita**  
 **(Аэлита)**  
 de Yakov Protazanov  
-URSS / 1924 / 111 min / INT. FR. / 35 mm  
+URSS / 1924 / 111 min / INT. FR. / DCP  
 Avec Ioulia Solntseva, Nikolaï Batalov, Konstantin Eggert, Igor Ilinski.  
 L'ingénieur Los réceptionne un curieux message qui semble venir de l'espace. Déçu par sa femme Natasha qui se laisse séduire par la bourgeoisie russe, il rêve de la planète Mars et imagine une société totalitaire où il pourrait mener la révolution et tomber amoureux de la reine Aelita.
 
@@ -60,16 +60,6 @@ Avec Eddie Constantine, Anna Karina, Akim Tamiroff, Howard Vernon.
 « Mon film est un peu comme _Nadja_ d'André Breton. On se promène dans Paris et le surréel apparaît. » (JLG, 1965)
 
 - sa 1 avr 20h30 GF
-
-[36123]  
-**Blade Runner (Final Cut)**  
-de Ridley Scott  
-États-Unis / 1981 / 117 min / VOSTF / DCP  
-D'après le roman _Les Androïdes rêvent-ils de moutons électriques ?_ de Philip K. Dick.  
-Avec Harrison Ford, Rutger Hauer, Sean Young.  
-En 2019, à Los Angeles, un détective doit retrouver un groupe de « répliquants », des androïdes qui se sont rebellés.
-
-- je 6 avr 20h15 HL
 
 [30931]  
 **La Chose**  
@@ -107,7 +97,7 @@ D'étranges et gigantesques machines venues de l'espace surgissent brusquement e
 **L'Invasion des profanateurs de sépultures**  
 **(Invasion of the Body Snatchers)**  
 de Don Siegel  
-États-Unis / 1955 / 80 min / VOSTF / 35 mm  
+États-Unis / 1955 / 80 min / VOSTF / DCP  
 D'après le roman _L'Invasion des profanateurs_ de Jack Finney.  
 Avec Kevin McCarthy, Dana Wynter, King Donovan, Carolyn Jones.  
 Dans une petite ville de Californie, le médecin local constate un comportement étrange chez les habitants, qui paraissent soudain dénués d'émotions. Peu à peu, il comprend qu'une invasion extraterrestre est en cours.
@@ -158,7 +148,7 @@ Copie avec musique. Partition originale de 1927 de Gottfried Huppertz.
 **Mondwest**  
 **(Westworld)**  
 de Michael Crichton  
-États-Unis / 1973 / 88 min / STF / DCP  
+États-Unis / 1973 / 88 min / VOSTF / DCP  
 Avec Yul Brynner, Richard Benjamin, James Brolin.  
 Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger dans plusieurs époques. Lancés dans l'ouest sauvage, deux amis se retrouvent en plein cauchemar quand les androïdes se détraquent et s'attaquent aux touristes.
 
@@ -169,28 +159,42 @@ Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger da
 **(Quatermass Experiment)**  
 de Val Guest  
 Grande-Bretagne / 1955 / 82 min / VOSTF / 35 mm  
-Avec Brian Donlevy, Margia Dean, Thora Hird.  
-Une expédition spatiale revient de mission avec un seul survivant à bord. Suite à un processus de mutation, il se transforme progressivement en monstre, ce qui intrigue le physicien Quatermass.
+D'après la série télévisée _Quatermass and the Pit_.  
+Avec Brian Donlevy, Margia Dean, Thora Hird, Jack Warner.  
+Une expédition spatiale revient de mission avec un seul survivant à bord qui se transforme progressivement en monstre, ce qui intrigue le physicien Quatermass.
 
 - lu 27 mar 18h30 GF
 
 [41679]  
 **Les Monstres de l'espace**  
-**(Quatermass and the Pit = Five Million Years to Earth)**  
+**(Quatermass and the Pit)**  
 de Roy Ward Baker  
 Grande-Bretagne / 1967 / 98 min / VOSTF / 35 mm  
+D'après la série télévisée _Quatermass and the Pit_.  
 Avec James Donald, Andrew Keir, Barbara Shelley.  
 Un vaisseau spatial d'origine martienne est découvert dans le métro londonien. Le professeur Quatermass mène l'enquête.
 
 - lu 27 mar 20h30 GF
+
+[31330]  
+**La Mouche**  
+**(The Fly)**  
+de David Cronenberg  
+États-Unis / 1985 / 96 min / VOSTF / DCP  
+D'après la nouvelle _La Mouche_ de George Langelaan.  
+Avec Jeff Goldblum, Geena Davis, John Getz.  
+Un jeune biologiste très doué met au point une invention qui doit révolutionner le monde : la téléportation. Après des essais peu convaincants, il décide de se téléporter lui-même, sans s'apercevoir qu'une mouche fait partie du voyage.
+
+- je 6 avr 20h15 HL
 
 [37314]  
 **Le Mystère Andromède**  
 **(The Andromeda Strain)**  
 de Robert Wise  
 États-Unis / 1970 / 115 min / VOSTF / DCP  
+D'après le roman _La Variété Andromède_ de Michael Crichton.  
 Avec Arthur Hill, David Wayne, Kate Reid.  
-Après la chute d'une sonde spatiale, une épidémie frappe une bourgade mexicaine. Quatre scientifiques des services bactériologiques de l'armée enquêtent sur ce mystérieux phénomène qui a décimé une grande partie de la population de cette petite ville du désert et menace l'humanité entière.
+Après la chute d'une sonde spatiale, une épidémie frappe une bourgade mexicaine. Quatre scientifiques des services bactériologiques de l'armée enquêtent sur ce mystérieux phénomène, qui menace l'humanité entière.
 
 - sa 25 mar 19h30 GF
 
@@ -200,14 +204,6 @@ Après la chute d'une sonde spatiale, une épidémie frappe une bourgade mexicai
 de Steven Spielberg  
 États-Unis / 1977 / 137 min / VOSTF / DCP  
 Avec Richard Dreyfuss, François Truffaut, Teri Garr.  
-Quelque part dans l'univers, il existe certainement une vie extraterrestre. Des faits étranges attirent de nombreux chercheurs et spécialistes d'OVNI vers un même lieu... Au Mexique, en plein désert de Sonora, un scientifique français, Claude Lacombe tente d'établir le contact.
-
----
-
-Quelque part dans l'univers, il existe certainement une vie extraterrestre. Des faits étranges attirent de nombreux chercheurs et spécialistes d'OVNI vers un même lieu... Au Mexique, en plein désert de Sonora, un scientifique français, Claude Lacombe (interprêté par François Truffaut), tente d'établir le contact.
-
----
-
 Quelque part dans l'univers, il existe certainement une vie extraterrestre. Des faits étranges attirent de nombreux chercheurs et spécialistes d'OVNI vers un même lieu... Au Mexique, en plein désert de Sonora, un scientifique français, Claude Lacombe, tente d'établir le contact.  
 _Director's cut_. Restauration 4K sous la direction de Steven Spielberg par Sony Pictures Entertainment à partir du négatif original. Scan par Cineric laboratory et restauration par Prasad Group (Inde). Restauration sonore par Deluxe Audio à Hollywood.
 
@@ -218,7 +214,7 @@ _Director's cut_. Restauration 4K sous la direction de Steven Spielberg par Sony
 de Douglas Trumbull  
 États-Unis / 1971 / 90 min / VOSTF / Numérique  
 Avec Bruce Dern, Cliff Potts, Ron Rifkin.  
-En 2001, toute végétation saine a disparu de la surface de la planète. Le professeur Freeman Lowell, botaniste astronaute préserve les dernières espèces de flore et de faune. Lorsque ses supérieurs lui annoncent que le projet, peu rentable, est annulé, il se révolte...
+En 2001, toute végétation saine a disparu de la surface de la planète. Le professeur Lowell, botaniste astronaute, préserve les dernières espèces de flore et de faune. Lorsque ses supérieurs lui annoncent que le projet, peu rentable, est annulé, il se révolte.
 
 - me 5 avr 20h45 GF
 
@@ -238,9 +234,9 @@ Film restauré par les Studios Mosfilm d'après un négatif 35 mm.
 **(Soylent Green)**  
 de Richard Fleischer  
 États-Unis / 1972 / 97 min / VOSTF / 35 mm  
-D'après le roman _Make room, make room_ de Harry Harrison.  
+D'après le roman _Make Room! Make Room!_ de Harry Harrison.  
 Avec Charlton Heston, Edward G. Robinson, Joseph Cotten.  
-New-York 2022. Les hommes ont épuisé les ressources naturelles. Seul le « Soleil Vert » parvient à nourrir une population miséreuse qui ignore tout de cet aliment. Accompagné de son fidèle ami, un policier va découvrir au péril de sa vie l'effroyable réalité de cette société inhumaine.
+New York, 2022. Les hommes ont épuisé les ressources naturelles. Seul le « Soleil Vert » parvient à nourrir une population miséreuse qui ignore tout de cet aliment. Accompagné de son fidèle ami, un policier va découvrir au péril de sa vie l'effroyable réalité de cette société inhumaine.
 
 - di 2 avr 17h30 HL
 
@@ -249,7 +245,7 @@ New-York 2022. Les hommes ont épuisé les ressources naturelles. Seul le « Sol
 de John Carpenter  
 États-Unis / 1984 / 115 min / VOSTF / 70 mm  
 Avec Jeff Bridges, Karen Allen, Charles Martin Smith.  
-Échoué sur terre et pourchassé par l'armée américaine, un extraterrestre trouve refuge chez une jeune femme et prend l'apparence de son défunt mari.
+Échoué sur Terre et pourchassé par l'armée américaine, un extraterrestre trouve refuge chez une jeune femme et prend l'apparence de son défunt mari.
 
 - ve 17 mar 18h00 HL
 
@@ -257,13 +253,9 @@ Avec Jeff Bridges, Karen Allen, Charles Martin Smith.
 **Starship Troopers**  
 de Paul Verhoeven  
 États-Unis / 1997 / 129 min / VOSTF / DCP  
-Avec Casper Van Dien, Dina Meyer, Denise Richards.  
-Dans un futur totalitaire, les jeunes gens, garçons et filles, sont encouragés à rejoindre l'armée américaine. S'engage alors une guerre pour préserver la Terre de l'invasion d'insectes géants.
-
----
-
-Dans un futur lointain, aux confins d'une galaxie inconnue, une armée d'arachnides géants menace l'humanité. Cinq jeunes soldats s'engagent dans l'armée pour combattre ces nouveaux envahisseurs.  
-DCP Disney
+D'après le roman _Étoiles, garde-à-vous !_ de Robert A. Heinlein.  
+Avec Casper Van Dien, Dina Meyer, Denise Richards, Neil Patrick Harris.  
+Dans un futur totalitaire, aux confins d'une galaxie inconnue, une armée d'arachnides géants menace l'humanité. Cinq jeunes soldats s'engagent dans l'armée pour combattre ces nouveaux envahisseurs.
 
 - je 23 mar 18h00 HL
 

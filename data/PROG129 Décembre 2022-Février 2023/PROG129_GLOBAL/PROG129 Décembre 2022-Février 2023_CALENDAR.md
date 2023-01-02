@@ -4,7 +4,7 @@
 Fantasia (James Algar, Samuel Armstrong, Ford Beebe, Norman Ferguson, Jim Handley, Thornton Hee, Wilfred Jackson, Hamilton Luske, Bill Roberts, Paul Satterfield, 1940)
 
 **20h00 HL Marilyn Monroe**  
-Rivière sans retour (Otto Preminger, Jean Negulesco, 1954)
+Rivière sans retour (Otto Preminger, 1954)
 
 ## je 1 décembre
 
@@ -114,6 +114,9 @@ La Chartreuse de Parme (Christian-Jaque, 1948)
 
 **10h00 GF Conservatoire des techniques cinématographiques**  
 Journée d'étude « Méliès et l'art magique »
+
+**10h30 GF Conservatoire des techniques cinématographiques**  
+Monsieur Trewey, illusionniste, dans ses transformations du chapeau I (Auguste Baron, 19)
 
 **18h00 HL Gérard Philipe**  
 **Séance présentée par Noël Herpe**  
@@ -345,7 +348,7 @@ Seoul Station (Yeon Sang-ho, 2016)
 Dernier train pour Busan (Yeon Sang-ho, 2016)
 
 **19h00 GF Cinéma bis**  
-Bagarre à Bagdad pour X 27 (Paolo Bianchini, 1966)
+Bagarre à Bagdad pour X-27 (Paolo Bianchini, 1966)
 
 **19h30 HL Plein les yeux 5**  
 Peninsula (Yeon Sang-ho, 2020)
@@ -434,7 +437,7 @@ Cléo de 5 à 7 (Agnès Varda, 1962)
 ## di 1 janvier
 
 **14h30 HL Le cinéma d'espionnage (2e partie)**  
-Triple agent (Éric Rohmer, 2003)
+Triple Agent (Éric Rohmer, 2003)
 
 **16h30 GF La Nouvelle Vague, 20 indispensables**  
 La Baie des Anges (Jacques Demy, 1963)
@@ -790,7 +793,7 @@ L'Espion (Raoul Levy, 1966)
 ## sa 28 janvier
 
 **14h30 HL Le cinéma d'espionnage (2e partie)**  
-Les 39 marches (Alfred Hitchcock, 1935)
+Les 39 Marches (Alfred Hitchcock, 1935)
 
 **15h00 GF Larry Cohen**  
 L'Ambulance (Larry Cohen, 1990)
@@ -861,13 +864,24 @@ Cœurs en lutte (Fritz Lang, 1921)
 **17h30 GF Fritz Lang**  
 Le Testament du docteur Mabuse (Fritz Lang, 1933)
 
+**18h00 HL Gérardmer à Paris 2023**  
+**Séance présentée par Saara Saarela**  
+Memory of Water (Saara Saarela, 2022)
+
 **19h30 GF Parlons cinéma avec Gérard Lefort**  
 Les Parapluies de Cherbourg (Jacques Demy, 1963)
+
+**20h30 HL Gérardmer à Paris 2023**  
+**Avant-première**  
+La Tour (Guillaume Nicloux, 2022)
 
 ## ve 3 février
 
 **14h30 GF Conservatoire des techniques cinématographiques**  
 L'œil invisible : photo/cinéma, techniques de l'espionnage. Conférence de Laurent Mannoni
+
+**18h00 HL Gérardmer à Paris 2023**  
+Blood (Brad Anderson, 2022)
 
 **18h30 JE Fenêtre sur les collections**  
 **Séance présentée par Hervé Pichard**  
@@ -875,6 +889,10 @@ L'Île enchantée (Allan Dwan, 1958)
 
 **19h30 GF Fritz Lang**  
 La Statue qui marche (Fritz Lang, 1920)
+
+**20h30 HL Gérardmer à Paris 2023**  
+**Avant-première**  
+Project Wolf Hunting (Hong-sun Kim, 2022)
 
 **20h30 JE Fenêtre sur les collections**  
 **Séance présentée par Hervé Pichard**  
@@ -889,11 +907,20 @@ Les Trois lumières (Fritz Lang, 1921)
 Cuban Network (Olivier Assayas, 2019)  
 Dialogue avec Olivier Assayas
 
+**15h00 GF Gérardmer à Paris 2023**  
+Zeria (Harry Cleven, 2021)
+
 **17h00 GF Fritz Lang**  
 Les Araignées, partie 1 : Le Lac d'or (Fritz Lang, 1919)
 
+**18h45 HL Gérardmer à Paris 2023**  
+The Nocebo Effect (Lorcan Finnegan, 2022)
+
 **19h30 GF Fritz Lang**  
 Les Araignées, partie 2 : Le Cargo de diamants (Fritz Lang, 1920)
+
+**21h00 HL Gérardmer à Paris 2023**  
+Watcher (Chloe Okuno, 2022)
 
 ## di 5 février
 
@@ -904,8 +931,14 @@ Dialogue avec Olivier Assayas
 **15h00 GF Jeune public**  
 Bonjour (Yasujirō Ozu, 1959)
 
+**18h30 HL Gérardmer à Paris 2023**  
+Piaffe (Ann Oren, 2022)
+
 **19h45 GF Fritz Lang**  
 Le Diabolique docteur Mabuse (Fritz Lang, 1960)
+
+**20h30 HL Gérardmer à Paris 2023**  
+La Piedad (Eduardo Casanova, 2022)
 
 ## lu 6 février
 
@@ -990,7 +1023,7 @@ Piège intime (Anthony Hickox, 1996)
 ## di 12 février
 
 **14h30 HL Le cinéma d'espionnage (2e partie)**  
-Cinquième colonne (Alfred Hitchcock, 1942)
+Cinquième Colonne (Alfred Hitchcock, 1942)
 
 **17h00 HL Fritz Lang**  
 L'Invraisemblable vérité (Fritz Lang, 1956)
@@ -1265,7 +1298,7 @@ Notre agent à Salzbourg (Lee H. Katzin, 1972)
 ## sa 4 mars
 
 **14h30 HL Le cinéma d'espionnage (2e partie)**  
-La Petite fille au tambour (George Roy Hill, 1984)
+La Petite Fille au tambour (George Roy Hill, 1984)
 
 **15h00 GF Bertrand Tavernier**  
 Lyon, le regard intérieur (Bertrand Tavernier, 1988)
@@ -1286,7 +1319,7 @@ Hotel by the River (Hong Sang-soo, 2018)
 ## di 5 mars
 
 **14h30 HL Le cinéma d'espionnage (2e partie)**  
-Le Grand blond avec une chaussure noire (Yves Robert, 1972)
+Le Grand Blond avec une chaussure noire (Yves Robert, 1972)
 
 **16h30 GF Hong Sang-soo**  
 La Femme qui s'est enfuie (Hong Sang-soo, 2020)

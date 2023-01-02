@@ -181,7 +181,7 @@ Wallace, inventeur farfelu, et son flegmatique chien Gromit, enchaînent les ave
 **L'Aigle des mers**  
 **(The Sea Hawk)**  
 de Michael Curtiz  
-États-Unis / 1947 / 127 min / VOSTF / 35 mm  
+États-Unis / 1947 / 108 min / VOSTF / 35 mm  
 Avec Errol Flynn, Donald Crisp, Claude Rains.  
 En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La reine Elizabeth investit en secret le corsaire Geoffrey Thorpe d'une mission visant à harceler la flotte espagnole.
 
@@ -211,6 +211,15 @@ Avec James Stewart, Grace Kelly, Wendell Corey.
 Un photographe, immobilisé avec une jambe plâtrée, n'a d'autre occupation que d'observer la cour de son immeuble et ses voisins. Bientôt, il soupçonne l'un d'entre eux d'avoir assassiné sa femme.
 
 - di 21 mai 15h00 GF
+
+[47147]  
+**L'Homme de Rio**  
+de Philippe de Broca  
+France-Italie / 1964 / 102 min / DCP  
+Avec Jean-Paul Belmondo, Françoise Dorléac, Jean Servais.  
+Alors qu'il pense passer quelques jours paisibles avec sa fiancée à Paris, un jeune militaire se retrouve embarqué, jusqu'au Brésil, dans une course effrénée à la recherche de statues précolombiennes aux mystérieux pouvoirs.
+
+- me 24 mai 15h00 GF
 
 [131243]  
 **Les Malheurs de Sophie**  

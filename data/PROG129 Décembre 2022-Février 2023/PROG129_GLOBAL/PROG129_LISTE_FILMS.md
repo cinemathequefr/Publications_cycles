@@ -174,6 +174,18 @@
   * Rouge et le Noir (Le)  
   * Une si jolie petite plage
 
+## Gérardmer à Paris 2023 (9)
+
+  * Blood  
+  * Memory of Water  
+  * Nocebo Effect (The)  
+  * Piaffe  
+  * Piedad (La)  
+  * Project Wolf Hunting  
+  * Tour (La)  
+  * Watcher  
+  * Zeria
+
 ## Hong Sang-soo (27)
 
   * Caméra de Claire (La)  

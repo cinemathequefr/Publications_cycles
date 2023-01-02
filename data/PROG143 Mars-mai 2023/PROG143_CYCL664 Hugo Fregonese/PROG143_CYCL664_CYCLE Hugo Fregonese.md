@@ -162,7 +162,8 @@ D'après le roman _Stand at Spanish Boot_ de Harry Brown.
 Avec Stephen McNally, Coleen Gray, Willard Parker.  
 Une petite ville est attaquée par les Mescaleros. Les villageois se réfugient dans l'église et résistent aux assauts des Indiens.
 
-- me 29 mar 20h00 HL
+- me 29 mar 20h00 HL  
+Séance présentée par Jacques Lourcelles
 
 [32490]  
 **The Raid**  
@@ -171,7 +172,8 @@ de Hugo Fregonese
 Avec Van Heflin, Anne Bancroft, Richard Boone, Lee Marvin.  
 En 1864, un groupe de Confédérés dirigé par le major Neal Benton s'échappe d'une prison de l'Union. Ils s'introduisent dans une petit ville nordiste, avec l'objectif de la mettre à sac.
 
-- sa 1 avr 14h30 GF
+- sa 1 avr 14h30 GF  
+Voir aussi dialogue p. xx
 
 [32858]  
 **Les Sept tonnerres**  
@@ -219,5 +221,6 @@ L'aventurier Chuck Connors est en visite chez un ami, quand celui-ci se tue en t
 
 **Dialogue avec Jean-François Rauger**
 
-- sa 1 avr 16h00 GF
+- sa 1 avr 14h30 GF  
+À la suite de la projection de _The Raid_ de Hugo Fregonese (voir p. xx)
 

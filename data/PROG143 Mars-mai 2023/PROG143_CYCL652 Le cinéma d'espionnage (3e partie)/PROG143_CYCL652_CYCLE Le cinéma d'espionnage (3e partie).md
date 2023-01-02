@@ -63,7 +63,8 @@ France / 2009 / 99 min / 35 mm
 Avec Guillaume Canet, Géraldine Pailhas, Stephen Rea, Hippolyte Girardot.  
 Vincent et Gérard, bagagistes dans un aéroport, volent dans les bagages avant leur embarquement en soute. Lorsque Gérard meurt dans l'explosion de la valise diplomatique qu'il était en train de fouiller, Vincent surprend son propriétaire en train de récupérer le bagage.
 
-- sa 18 mar 14h30 HL
+- sa 18 mar 14h30 HL  
+Voir aussi dialogue p. xx
 
 [45279]  
 **Les Espions s'amusent**  
@@ -103,7 +104,8 @@ d'Alfred Hitchcock
 Avec James Stewart, Doris Day, Daniel Gélin.  
 Les McKenna, un couple d'Américains et leur petit garçon, en vacances au Maroc, rencontrent un français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, le fils des McKenna est kidnappé.
 
-- di 19 mar 14h30 HL
+- di 19 mar 14h30 HL  
+Voir aussi dialogue p. xx
 
 [44856]  
 **L'Homme qui n'a jamais existé**  
@@ -165,7 +167,8 @@ Avec Yvan Attal, Richard Masur, Hippolyte Girardot, Sandrine Kiberlain.
 Ariel, un jeune Juif français, quitte sa famille pour devenir agent du Mossad en Israël. En participant à des missions à Paris, Tel Aviv et Washington, il s'initie à l'art délicat de la manipulation.  
 Restauration par Gaumont.
 
-- sa 6 mai 14h30 HL
+- sa 6 mai 14h30 HL  
+Voir aussi dialogue p. xx
 
 [32436]  
 **Quand les aigles attaquent**  
@@ -233,18 +236,31 @@ Un agent des services secrets, trahi et blessé par son collègue et ami, réapp
 
 ## Rencontres et conférences
 
-**Film + dialogue avec Nicolas Saada**  
-**Conférence **
+**Espions+ dialogue avec Nicolas Saada**  
+Rencontre animée par Matthieu Orléan  
+« Je pense beaucoup au public quand j'écris. Selon la formule de Hitchcock, il faut « diriger le spectateur ». Il doit en savoir plus que les personnages afin que la tension puisse exister. Le film de genre permet de dire aussi les enjeux du monde en racontant des histoires. Pour moi, être metteur en scène est une façon de partager. » Nicolas Saada, _L'Express_, 22 janvier 2009 « Ce que j'avais envie de filmer : le danger qui s'ajoute à l'expérience amoureuse. La rhétorique de l'espionnage est proche de la rhétorique amoureuse, ça fonctionne sur la paranoïa, le hors-champ... » Nicolas Saada, _Les Inrockuptibles_, 27 janvier 2009  
+**Matthieu Orléan** est collaborateur artistique à la Cinémathèque française et commissaire, avec Alexandra Midal, de l'exposition _Top Secret : cinéma & espionnage._  
+**Nicolas Saada** est réalisateur et scénariste. Il a été critique de cinéma et journaliste (Cahiers du cinéma, l'émission « Nova fait son cinéma » consacrée aux musiques de film sur Radio Nova). Il a notamment réalisé _Espion(s_) en 2009 et, en 2015, _Taj Mahal._
 
-- sa 18 mar 16h15 HL
+- sa 18 mar 14h30 HL  
+À la suite de la projection de _Espion(s)_ de Nicolas Saada (voir p. xx)
 
-**Film + dialogue avec Nicolas Saada**  
-**Conférence **
+**L'homme qui en savait trop + dialogue avec Nicolas Saada**  
+Rencontre animée par Bernard Benoliel  
+« On voit ce qui dans cette histoire peut choquer les délicats : le rocambolesque, et ce qui a séduit Hitchcock : l'introduction de ce même rocambolesque dans la vie d'êtres comme vous et moi. Ce film est peut-être le plus invraisemblable mais aussi le plus réaliste de notre cinéaste. Qu'est-ce que le « suspense » ? Une attente, donc un vide qu'il faut combler, et Hitchcock de plus en plus aime à le remplir d'à-côtés qui ne pèsent en rien sur l'événement attendu. (...) Soit, me direz-vous, mais le suspense ? Un attrape-nigaud ? Je ne pense pas, et dans ce film moins que dans les autres. D'abord parce que l'extraordinaire sert de repoussoir au quotidien qui, livré à ses seules séductions, n'engendre que grisaille. Et puis, il faut bien le dire, parce que Hitchcock croit au destin. » Jean-Luc Godard, _Cahiers du cinéma_, novembre 1956 « Disons que la première version \[L'homme qui en savait trop, A. Hitchcock, 1934\] a été faite par un amateur de talent tandis que la seconde l'a été par un professionnel. » Hitchcock/Truffaut, _Le Cinéma selon Alfred Hitchcock_ (1966)  
+**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+**Nicolas Saada** est réalisateur et scénariste. Il a été critique de cinéma et journaliste (Cahiers du cinéma, l'émission « Nova fait son cinéma » consacrée aux musiques de film sur Radio Nova). Il a notamment réalisé _Espion(s_) en 2009 et, en 2015, _Taj Mahal._
 
-- di 19 mar 16h30 HL
+- di 19 mar 14h30 HL  
+À la suite de la projection de _L'Homme qui en savait trop_ d'Alfred Hitchcock (voir p. xx)
 
-**Film + dialogue avec Eric Rochant**
+**Film + dialogue avec Eric Rochant**  
+Rencontre animée par Matthieu Orléan  
+_Le Bureau des Légendes_, une série en cinq saisons, lancée en 2015 et créée par Éric Rochant, raconte le quotidien de clandestins de la DGSE (Direction Générale de la Sécurité Extérieure). Le cinéaste insiste sur les dilemmes moraux de ces agents du renseignement en mission, et donc sous couverture, en premier lieu l'agent trouble au nom de code Malotru (interprété par Mathieu Kassovitz). Avec un besoin impérieux de coller au réel le plus obscur, Rochant explore les terrains sensibles du monde contemporain. Ainsi entraîne-t-il le spectateur de la Russie au Moyen-Orient, où il avait déjà situé l'action de son premier film d'espionnage, _Les Patriotes_ (1994), qui racontait la manipulation et les désillusions d'un agent des services secrets israéliens, pris au piège d'un système impitoyable. « Les espions sont obligés de jouer, et ils utilisent d'ailleurs les mêmes techniques que les acteurs, c'est-à-dire qu'ils doivent croire à leur propre mensonge. Pour bien mentir, il faut croire à son propre mensonge sans trop s'éloigner de la réalité. Car plus on s'en éloigne, plus on a de chances de se faire griller, de ne pas réussir. Il faut donc être le plus proche possible de ce que l'on est vraiment, avec une légère distance tout de même, puisqu'il ne faut pas se dévoiler. » Éric Rochant, _Top Secret : cinéma & espionnage_, La Cinémathèque française/Flammarion, 2022  
+**Matthieu Orléan** est collaborateur artistique à la Cinémathèque française et commissaire, avec Alexandra Midal, de l'exposition _Top Secret : cinéma & espionnage._  
+**Éric Rochant**, cinéaste, scénariste, auteur-producteur, a réalisé entre autres _Un monde sans pitié_ (1989), _Les Patriotes_ (1994), _Möbius_ (2013). Il a créé la série _Le Bureau des légendes_ (2015-2020).
 
-- sa 6 mai 17h00 HL
+- sa 6 mai 14h30 HL  
+À la suite de la projection de _Les Patriotes_ d'Éric Rochant (voir p. xx)
 
 Remerciements : Acacias (Les), Carlotta Films, Elefilm, Forum des images, Gaumont, Memento Films, Park Circus, Pathé Distribution, Tamasa Distribution

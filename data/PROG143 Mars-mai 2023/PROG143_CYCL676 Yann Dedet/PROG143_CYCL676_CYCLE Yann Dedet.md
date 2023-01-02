@@ -20,7 +20,8 @@ D'après le roman _Les Deux Anglaises et le Continent_ d'Henri-Pierre Roché.
 Avec Jean-Pierre Léaud, Kika Markham, Stacey Tendeter.  
 À Paris, au début du XIX<sup>e</sup> siècle, Claude rencontre une jeune Anglaise qui l'invite en vacances au pays de Galles, où elle fait tout pour qu'il tombe amoureux de sa sœur.
 
-- sa 13 mai 19h30 HL
+- sa 13 mai 19h30 HL  
+Séance présentée par Kika Markham
 
 [131740]  
 **L'Économie du couple**  
@@ -29,7 +30,8 @@ France-Belgique / 2016 / 100 min / DCP
 Avec Bérénice Bejo, Cédric Kahn, Marthe Keller.  
 Après 15 ans de mariage, Marie et Boris, un couple avec deux enfants, sont sur le point de divorcer. En attendant que Boris trouve un nouvel endroit pour vivre, ils doivent cohabiter et trouver comment partager leurs biens.
 
-- je 18 mai 18h30 GF
+- je 18 mai 18h30 GF  
+Séance présentée par Joachim Lafosse
 
 [122531]  
 **Les Femmes de Višegrad**  
@@ -48,7 +50,8 @@ France / 2013 / 58 min
 Avec Luís Miguel Cintra, Valérie Loiseleux, Mariana Guerreiro.  
 La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film de Manoel de Oliveira, _L'Étrange affaire Angélica_. Dans les salles de montage commence un voyage intérieur, parmi les souvenirs de ce cinéma avec lequel elle a grandi.
 
-- ve 19 mai 20h45 GF  
+- ve 19 mai 21h00 GF  
+Séance présentée par Louise Traon  
 Film suivi de _Quand je serai jeune_ de Yann Dedet
 
 [154271]  
@@ -58,7 +61,7 @@ France / 2022
 Avec Louis Garrel, Esther Garrel, Léna Garrel.  
 La destinée romanesque et tragique d'une fratrie d'artistes marionnettistes.
 
-- di 14 mai 20h00 GF
+- di 14 mai 20h15 GF
 
 [137947]  
 **I Am Not a Witch**  
@@ -76,7 +79,8 @@ France / 1990 / 94 min / VFSTA / 35 mm
 Avec Denis Lavant, Antoine Chappey, Sophie Simon, Johnny Thunders.  
 Pierre est amoureux de Mona. Il vit avec ses copains entre musique, drogue, embrouilles et amours. Il rencontre Johnny, icône punk rock, et décide d'organiser un concert à Paris.
 
-- ve 12 mai 18h00 GF
+- ve 12 mai 18h00 GF  
+Séance présentée par Antoine Chappey
 
 [60154]  
 **Nénette et Boni**  
@@ -85,7 +89,8 @@ France / 1996 / 103 min / 35 mm
 Avec Grégoire Colin, Alice Houri, Valeria Bruni Tedeschi.  
 À Marseille, Boniface est pizzaïolo. Depuis la mort de sa mère, il ne voit plus son père, Félix. Un jour, sa sœur de quinze ans, Nénette, débarque chez lui, enceinte.
 
-- je 11 mai 18h30 GF
+- je 11 mai 18h30 GF  
+Séance présentée par Claire Denis
 
 [59545]  
 **Outremer**  
@@ -94,7 +99,8 @@ France / 1990 / 98 min / 35 mm
 Avec Nicole Garcia, Brigitte Roüan, Marianne Basler.  
 Suzanne, Madeleine et Marguerite, trois sœurs d'une grande famille pied-noir, assistent en Algérie aux derniers temps des colonies.
 
-- ve 12 mai 20h15 GF
+- ve 12 mai 20h15 GF  
+Séance présentée par Brigitte Roüan
 
 [51338]  
 **Passe montagne**  
@@ -103,7 +109,8 @@ France / 1978 / 35 mm
 Avec Jean-François Stévenin, Jacques Villeret, Yves Lemoigne.  
 La voiture de Georges, architecte parisien, tombe en panne sur l'autoroute. Serge, mécanicien divorcé, propose de le dépanner. Les deux hommes se lient d'une étrange amitié et partent plusieurs jours dans la forêt jurassienne.
 
-- sa 13 mai 14h30 HL
+- sa 13 mai 14h30 HL  
+Voir aussi leçon de cinéma p. xx
 
 [69019]  
 **Presque rien**  
@@ -112,7 +119,8 @@ France / 2000 / 100 min / DCP
 Avec Jérémie Elkaïm, Stéphane Rideau, Marie Matheron.  
 Mathieu, 18 ans, passe l'été dans la maison d'été de sa mère, en Bretagne. Sur la plage, il rencontre Cédric. Commence alors ce qui ressemble à une aventure de vacances mais, jour après jour, l'affection grandit et devient intense.
 
-- lu 15 mai 20h45 GF
+- lu 15 mai 20h45 GF  
+Séance présentée par Sébastien Lifshitz
 
 [86174]  
 **Quand je serai jeune**  
@@ -121,7 +129,8 @@ France / 1988 / 17 min / 35 mm
 Avec Brigitte Roüan, Jean-François Stévenin, Marilyne Canto.  
 Mai 68. Pendant que, dehors, on manifeste, un homme achève le montage de _Baisers volés_.
 
-- ve 19 mai 20h45 GF  
+- ve 19 mai 21h00 GF  
+Séance présentée par Louise Traon  
 Film précédé de _Les Gants blancs_ de Louise Traon
 
 [122460]  
@@ -131,7 +140,8 @@ France / 2013 / 88 min / DCP
 Avec Marilyne Canto, Antoine Chappey, Samson Dajczman.  
 Élise vit seule avec Léo, son fils de dix ans dont le père est mort. Elle entretient une liaison chaotique avec Paul. Elle le repousse aussi violemment qu'elle se sent attirée par lui. Mais les jours passant, Paul et Léo s'entendent de plus en plus.
 
-- me 17 mai 19h00 GF
+- me 17 mai 19h00 GF  
+Séance présentée par Marilyne Canto
 
 [39365]  
 **Sweet Movie**  
@@ -160,7 +170,8 @@ France / 1991 / 158 min
 Avec Jacques Dutronc, Alexandra London, Bernard Le Coq.  
 Après son internement à l'asile, Vincent van Gogh s'installe à Auvers-sur-Oise chez le docteur Gachet, amateur d'art. Entre les relations conflictuelles qu'il entretient avec son frère et sa santé mentale vacillante, Vincent continue son œuvre.
 
-- di 14 mai 17h00 HL
+- di 14 mai 17h00 HL  
+Séance présentée par Jacques Dutronc (sous réserve) et Bernard Le Coq
 
 [62220]  
 **Western**  
@@ -169,11 +180,19 @@ France / 1996 / 124 min / 35 mm
 Avec Sergi López, Sacha Bourdo, Élisabeth Vitali.  
 Paco se fait voler sa voiture par un auto-stoppeur. Il tombe amoureux de la femme qui le conduit au commissariat. En attendant de la revoir, il erre au gré des rencontres sur les routes de Bretagne en compagnie de Nino, son voleur, qu'il a recroisé.
 
-- lu 15 mai 18h00 GF
+- lu 15 mai 18h00 GF  
+Séance présentée par Manuel Poirier
 
 ## Rencontres et conférences
 
-**Film + dialogue avec Yann Dedet**
+**Film + leçon de cinéma Yann Dedet**  
+Rencontre animée par Frédéric Bonnaud  
+Tarif B : voir p.  
+À partir de 18h, la leçon de cinéma sera suivie d'une signature par Yann Dedet, à la Librairie de la Cinémathèque, de ses trois ouvrages, tous parus aux éditions P.O.L : _Le Point de vue du lapin. Le Roman de Passe Montagne_ (2017), _Le Spectateur zéro. Conversation sur le montage_ (entretiens avec Julien Suaudeau, 2020) ; _Le Principe du clap_ (2022). Il signera aussi _Journal de Silésie_ de J.-F. Stévenin (P.O.L, 2023), récit de tournage des Cloches de Silésie préfacé par Yann Dedet.  
+« Ce qui me court sur le haricot depuis une quarantaine d'années vient d'une période bénie des diables : la trajectoire d'un assistant de cinéma qui rêvasse, jusqu'au moment miraculeux où il invente. Réapparition soudaine de ce temps de chien qui part du presque rien pour arriver à quelque chose : presque rien, c'est un cerveau, quelque chose, c'est un film. Presque trois ans, de septembre 1975 où Stévenin quitte le tournage de _L'Argent de poche_ \[de François Truffaut\] pour m'emmener une première fois dans son Jura, jusqu'au jour de la sortie de _Passe Montagne_ au Saint-André-des-Arts, en novembre 1978. Trois années sans se quitter d'une semelle. » Yann Dedet, _Le Point de vue du lapin. Le Roman de Passe Montagne_, P.O.L, 2017  
+**Frédéric Bonnaud** est directeur général de la Cinémathèque française.  
+**Yann Dedet** a monté deux des trois films réalisés par Jean-François Stévenin : _Passe Montagne (_1978) et _Double messieurs_ (1986).
 
-- sa 13 mai 16h00 HL
+- sa 13 mai 14h30 HL  
+À la suite de la projection de _Passe montagne_ de Jean-François Stévenin (voir p. xx)
 

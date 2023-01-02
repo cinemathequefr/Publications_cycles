@@ -13,7 +13,7 @@ D'après le roman _Susaki no onna_ de Yoshiko Shibaki.
 Avec Machiko Kyō, Aiko Mimasu, Ayako Wakao.  
 Dans une maison de geishas de Yoshiwara, le quartier des plaisirs de Tokyo, on s'inquiète d'une nouvelle loi discutée au parlement prévoyant l'interdiction de la prostitution. Mickey, une nouvelle employée jeune et sans complexe, est décidée à gagner le plus d'argent possible.
 
-- me 22 mar 19h00 GF
+- me 22 mar 19h30 GF
 
 [42411]  
 **Accattone**  
@@ -35,4 +35,4 @@ Avec Charlton Heston, Janet Leigh, Orson Welles, Akim Tamiroff.
 
 - ve 12 mai 19h30 HL
 
-Remerciements : Carlotta et Tamasa Distribution
+Remerciements : Capricci, Carlotta Films
