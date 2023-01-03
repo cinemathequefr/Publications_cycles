@@ -63,8 +63,7 @@ France / 2009 / 99 min / 35 mm
 Avec Guillaume Canet, Géraldine Pailhas, Stephen Rea, Hippolyte Girardot.  
 Vincent et Gérard, bagagistes dans un aéroport, volent dans les bagages avant leur embarquement en soute. Lorsque Gérard meurt dans l'explosion de la valise diplomatique qu'il était en train de fouiller, Vincent surprend son propriétaire en train de récupérer le bagage.
 
-- sa 18 mar 14h30 HL  
-Voir aussi dialogue p. xx
+- sa 18 mar 14h30 HL
 
 [45279]  
 **Les Espions s'amusent**  
@@ -179,7 +178,7 @@ D'après le roman _Where Eagles Dare_ d'Alistair MacLean.
 Avec Richard Burton, Clint Eastwood, Mary Ure.  
 Un commando anglais, dirigé par le major John Smith, est chargé de délivrer dans un château un général américain prisonnier des Allemands.
 
-- di 21 mai 14h30 HL
+- di 21 mai 14h30 GF
 
 [41630]  
 **Quatre de l'espionnage**  
@@ -242,8 +241,7 @@ Rencontre animée par Matthieu Orléan
 **Matthieu Orléan** est collaborateur artistique à la Cinémathèque française et commissaire, avec Alexandra Midal, de l'exposition _Top Secret : cinéma & espionnage._  
 **Nicolas Saada** est réalisateur et scénariste. Il a été critique de cinéma et journaliste (Cahiers du cinéma, l'émission « Nova fait son cinéma » consacrée aux musiques de film sur Radio Nova). Il a notamment réalisé _Espion(s_) en 2009 et, en 2015, _Taj Mahal._
 
-- sa 18 mar 14h30 HL  
-À la suite de la projection de _Espion(s)_ de Nicolas Saada (voir p. xx)
+- sa 18 mar 16h15 HL
 
 **L'homme qui en savait trop + dialogue avec Nicolas Saada**  
 Rencontre animée par Bernard Benoliel  

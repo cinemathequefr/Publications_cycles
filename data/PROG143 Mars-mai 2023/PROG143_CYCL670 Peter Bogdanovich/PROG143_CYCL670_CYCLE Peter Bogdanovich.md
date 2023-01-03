@@ -107,18 +107,6 @@ Richard Dice est appelé pour faire partie d'un jury lors d'un procès pour meur
 
 - di 16 avr 21h00 GF
 
-[30562]  
-**Jack le Magnifique**  
-**(Saint Jack)**  
-de Peter Bogdanovich  
-États-Unis / 1979 / 112 min / VOSTF / Numérique  
-D'après le roman _Saint Jack_ de Paul Theroux.  
-Avec Ben Gazzara, Peter Bogdanovich, George Lazenby.  
-Au début des années 1970, Jack Flowers ouvre un bordel à Singapour où il espère faire fortune. La réalité de la guerre du Vietnam le rattrape quand la CIA lui propose d'ouvrir un établissement réservé aux soldats en permission.
-
-- sa 22 avr 14h30 HL  
-Voir aussi dialogue p. xx
-
 [30578]  
 **Mask**  
 de Peter Bogdanovich  
@@ -168,6 +156,17 @@ Entretiens avec des acteurs ayant joué dans les films de John Ford, ponctués d
 
 - di 30 avr 15h30 JE
 
+[30562]  
+**Saint Jack**  
+de Peter Bogdanovich  
+États-Unis / 1979 / 112 min / VOSTF / Numérique  
+D'après le roman _Saint Jack_ de Paul Theroux.  
+Avec Ben Gazzara, Peter Bogdanovich, George Lazenby.  
+Au début des années 1970, Jack Flowers ouvre un bordel à Singapour où il espère faire fortune. La réalité de la guerre du Vietnam le rattrape quand la CIA lui propose d'ouvrir un établissement réservé aux soldats en permission.
+
+- sa 22 avr 14h30 HL  
+Voir aussi dialogue p. xx
+
 [59823]  
 **Texasville**  
 de Peter Bogdanovich  
@@ -216,5 +215,5 @@ Rencontre animée par Bernard Benoliel
 Jean-Baptiste Thoret est cinéaste (_We Blew It,_ 2017 ; _Dario Argento : soupirs dans un corridor lointain_, 2019 ; _Michael Cimino, un mirage américain_, 2022) et historien du cinéma, particulièrement des cinémas américain et italien des années 1970. Auteur d'ouvrages, notamment sur Dario Argento, Michael Cimino, la représentation au cinéma de l'assassinat de JFK, le _road movie_ et, récemment, Michael Mann (éditions Flammarion), il dirige aussi la collection de DVD et Blu-ray « Make My Day ! » (StudioCanal). En 2018, il a publié _Le Cinéma comme élégie. Conversations avec Peter Bogdanovich_ (Carlotta Films et GM Éditions).
 
 - sa 22 avr 14h30 HL  
-À la suite de la projection de _Jack le Magnifique_ de Peter Bogdanovich (voir p. xx)
+À la suite de la projection de _Saint Jack_ de Peter Bogdanovich (voir p. xx)
 

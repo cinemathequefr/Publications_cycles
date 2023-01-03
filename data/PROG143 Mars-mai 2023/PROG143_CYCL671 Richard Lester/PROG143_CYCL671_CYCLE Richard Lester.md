@@ -22,8 +22,7 @@ Avec John Lennon, Michael Crawford, Roy Kinnear.
 Pendant la Seconde Guerre mondiale, deux officiers, anglais et allemand, sont chargés de construire un terrain de cricket et de détruire un pont.
 
 - je 23 mar 21h15 GF  
-Voir aussi conférence p. xx  
-- ve 24 mar 18h30 GF
+Voir aussi conférence p. xx
 
 [57348]  
 **Cuba**  
@@ -82,7 +81,7 @@ Avec Tom Berenger, William Katt, Jeff Corey.
 Butch Cassidy, libéré de prison, rencontre dans un saloon son futur compagnon de galère, Sundance Kid. Ils s'associent, commettent plusieurs délits, et sont recherchés par le shérif Bledsoe.
 
 - ve 24 mar 20h45 GF  
-- je 30 mar 16h00 GF
+- je 30 mar 15h45 GF
 
 [41625]  
 **Le Knack... et comment l'avoir**  
@@ -148,7 +147,7 @@ Grande-Bretagne-France-Espagne / 1989 / 102 min
 Avec Michael York, Oliver Reed, Richard Chamberlain, Philippe Noiret.  
 France, 1649. Le cardinal Mazarin ordonne à d'Artagnan de retrouver Athos, Porthos et Aramis pour les mettre à son service.
 
-- di 19 mar 18h15 HL
+- di 19 mar 17h30 GF
 
 [69732]  
 **The Ritz**  
@@ -219,7 +218,7 @@ Grande-Bretagne / 1974 / 109 min / VOSTF / Numérique
 Avec Omar Sharif, Anthony Hopkins, Richard Harris, David Hemmings.  
 Un maître-chanteur exige une rançon en échange du désarmement de sept bombes qu'il a placées à bord du paquebot transatlantique Britannic.
 
-- di 19 mar 20h30 HL  
+- di 19 mar 20h00 GF  
 - ve 31 mar 16h30 GF
 
 [54263]  
@@ -242,7 +241,7 @@ Avec Rita Tushingham, Ralph Richardson, Peter Cook.
 Après une guerre nucléaire éclair, il ne reste que vingt survivants dans les décombres de la planète.
 
 - ve 17 mar 20h00 GF  
-- ve 24 mar 16h30 GF
+- ve 24 mar 18h30 GF
 
 ## Rencontres et conférences
 

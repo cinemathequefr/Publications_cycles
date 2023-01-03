@@ -62,18 +62,6 @@ Avec Eddie Constantine, Anna Karina, Akim Tamiroff, Howard Vernon.
 
 - sa 1 avr 20h30 GF
 
-[30931]  
-**La Chose**  
-**(The Thing)**  
-de John Carpenter  
-États-Unis / 1981 / 127 min / VOSTF / DCP  
-D'après la nouvelle _Who Goes There ?_ de John W. Campbell Jr.  
-Avec Kurt Russell, Wilford Brimley, T.K. Carter.  
-Dans une station de l'Antarctique, une mystérieuse créature polymorphe tue les membres d'une expédition en assimilant toute forme de vie, semant la peur et la paranoïa.
-
-- di 26 mar 16h30 HL  
-Séance présentée par Jean-François Rauger
-
 [121118]  
 **Gravity**  
 d'Alfonso Cuarón  
@@ -145,7 +133,7 @@ Avec Alfred Abel, Gustav Fröhlich, Brigitte Helm, Rudolf Klein-Rogge.
 En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterrains pour assurent le bonheur des nantis qui vivent dans les jardins suspendus de la ville. Une androïde les mène à la révolte mais, pour contrer son influence, le chef de la cité fait construire un robot à son image.  
 Copie avec musique. Partition originale de 1927 de Gottfried Huppertz.
 
-- di 19 mar 17h15 GF
+- di 19 mar 18h15 HL
 
 [31214]  
 **Mondwest**  
@@ -166,8 +154,7 @@ D'après la série télévisée _Quatermass and the Pit_.
 Avec Brian Donlevy, Margia Dean, Thora Hird, Jack Warner.  
 Une expédition spatiale revient de mission avec un seul survivant à bord qui se transforme progressivement en monstre, ce qui intrigue le physicien Quatermass.
 
-- lu 27 mar 18h30 HL  
-Séance présentée par Jean-François Rauger
+- di 2 avr 17h30 GF
 
 [41679]  
 **Les Monstres de l'espace**  
@@ -178,8 +165,7 @@ D'après la série télévisée _Quatermass and the Pit_.
 Avec James Donald, Andrew Keir, Barbara Shelley.  
 Un vaisseau spatial d'origine martienne est découvert dans le métro londonien. Le professeur Quatermass mène l'enquête.
 
-- lu 27 mar 20h30 HL  
-Séance présentée par Jean-François Rauger
+- di 2 avr 19h45 GF
 
 [31330]  
 **La Mouche**  
@@ -213,7 +199,7 @@ Avec Richard Dreyfuss, François Truffaut, Teri Garr.
 Quelque part dans l'univers, il existe certainement une vie extraterrestre. Des faits étranges attirent de nombreux chercheurs et spécialistes d'OVNI vers un même lieu... Au Mexique, en plein désert de Sonora, un scientifique français, Claude Lacombe, tente d'établir le contact.  
 _Director's cut_. Restauration 4K sous la direction de Steven Spielberg par Sony Pictures Entertainment à partir du négatif original. Scan par Cineric laboratory et restauration par Prasad Group (Inde). Restauration sonore par Deluxe Audio à Hollywood.
 
-- di 2 avr 19h45 HL
+- lu 27 mar 20h45 HL
 
 [34064]  
 **Silent Running**  
@@ -244,7 +230,7 @@ D'après le roman _Make Room! Make Room!_ de Harry Harrison.
 Avec Charlton Heston, Edward G. Robinson, Joseph Cotten.  
 New York, 2022. Les hommes ont épuisé les ressources naturelles. Seul le « Soleil Vert » parvient à nourrir une population miséreuse qui ignore tout de cet aliment. Accompagné de son fidèle ami, un policier va découvrir au péril de sa vie l'effroyable réalité de cette société inhumaine.
 
-- di 2 avr 17h30 HL
+- lu 27 mar 18h30 HL
 
 [30920]  
 **Starman**  
@@ -265,5 +251,16 @@ Avec Casper Van Dien, Dina Meyer, Denise Richards, Neil Patrick Harris.
 Dans un futur totalitaire, aux confins d'une galaxie inconnue, une armée d'arachnides géants menace l'humanité. Cinq jeunes soldats s'engagent dans l'armée pour combattre ces nouveaux envahisseurs.
 
 - me 22 mar 18h00 HL  
+Séance présentée par Jean-François Rauger
+
+[30931]  
+**The Thing**  
+de John Carpenter  
+États-Unis / 1981 / 127 min / VOSTF / DCP  
+D'après la nouvelle _Who Goes There ?_ de John W. Campbell Jr.  
+Avec Kurt Russell, Wilford Brimley, T.K. Carter.  
+Dans une station de l'Antarctique, une mystérieuse créature polymorphe tue les membres d'une expédition en assimilant toute forme de vie, semant la peur et la paranoïa.
+
+- di 26 mar 16h30 HL  
 Séance présentée par Jean-François Rauger
 

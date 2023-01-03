@@ -309,6 +309,10 @@
       [
         "Le cinéma d'espionnage (3e partie)",
         "Les films"
+      ],
+      [
+        "Le cinéma d'espionnage (3e partie)",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -319,9 +323,15 @@
         "annee": 2009,
         "duree": 99,
         "format": "35 mm"
+      },
+      {
+        "idConf": 27677,
+        "titre": "Espions+ dialogue avec Nicolas Saada",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f106772"
+    "hashEvenement": "f106772c27677"
   },
   {
     "idSeance": 92738,
@@ -347,27 +357,6 @@
       }
     ],
     "hashEvenement": "f69732"
-  },
-  {
-    "idSeance": 92685,
-    "idEvenement": 27677,
-    "dateHeure": "2023-03-18T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le cinéma d'espionnage (3e partie)",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 27677,
-        "titre": "Espions+ dialogue avec Nicolas Saada",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c27677"
   },
   {
     "idSeance": 90632,
@@ -529,33 +518,10 @@
     "hashEvenement": "f37482"
   },
   {
-    "idSeance": 92740,
-    "idEvenement": 27499,
-    "dateHeure": "2023-03-19T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Richard Lester",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 41592,
-        "titre": "Retour des Mousquetaires",
-        "art": "Le",
-        "realisateurs": "Richard Lester",
-        "annee": 1989,
-        "duree": 102
-      }
-    ],
-    "hashEvenement": "f41592"
-  },
-  {
     "idSeance": 92539,
     "idEvenement": 27517,
-    "dateHeure": "2023-03-19T18:15:00",
-    "salle": "HL",
+    "dateHeure": "2023-03-19T17:15:00",
+    "salle": "GF",
     "cycle": [
       [
         "La science-fiction en 25 films indispensables",
@@ -576,10 +542,33 @@
     "hashEvenement": "f40645"
   },
   {
+    "idSeance": 92740,
+    "idEvenement": 27499,
+    "dateHeure": "2023-03-19T18:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Richard Lester",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41592,
+        "titre": "Retour des Mousquetaires",
+        "art": "Le",
+        "realisateurs": "Richard Lester",
+        "annee": 1989,
+        "duree": 102
+      }
+    ],
+    "hashEvenement": "f41592"
+  },
+  {
     "idSeance": 92741,
     "idEvenement": 27506,
-    "dateHeure": "2023-03-19T20:00:00",
-    "salle": "GF",
+    "dateHeure": "2023-03-19T20:30:00",
+    "salle": "HL",
     "cycle": [
       [
         "Richard Lester",
@@ -920,6 +909,31 @@
     "hashEvenement": "f34210"
   },
   {
+    "idSeance": 92765,
+    "idEvenement": 27509,
+    "dateHeure": "2023-03-24T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Richard Lester",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41633,
+        "titre": "Ultime garconnière",
+        "art": "L'",
+        "realisateurs": "Richard Lester",
+        "annee": 1969,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f41633"
+  },
+  {
     "idSeance": 92559,
     "idEvenement": 27535,
     "dateHeure": "2023-03-24T18:00:00",
@@ -944,8 +958,8 @@
     "hashEvenement": "f121118"
   },
   {
-    "idSeance": 92765,
-    "idEvenement": 27509,
+    "idSeance": 92752,
+    "idEvenement": 27491,
     "dateHeure": "2023-03-24T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -956,17 +970,16 @@
     ],
     "items": [
       {
-        "idFilm": 41633,
-        "titre": "Ultime garconnière",
-        "art": "L'",
+        "idFilm": 34210,
+        "titre": "Comment j'ai gagné la guerre",
         "realisateurs": "Richard Lester",
-        "annee": 1969,
-        "duree": 90,
+        "annee": 1967,
+        "duree": 109,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f41633"
+    "hashEvenement": "f34210"
   },
   {
     "idSeance": 92560,
@@ -1239,8 +1252,8 @@
     "items": [
       {
         "idFilm": 30931,
-        "titre": "Thing",
-        "art": "The",
+        "titre": "Chose",
+        "art": "La",
         "realisateurs": "John Carpenter",
         "annee": 1981,
         "duree": 127,
@@ -1333,8 +1346,8 @@
     "hashEvenement": "f53695"
   },
   {
-    "idSeance": 92987,
-    "idEvenement": 27527,
+    "idSeance": 90828,
+    "idEvenement": 27521,
     "dateHeure": "2023-03-27T18:30:00",
     "salle": "HL",
     "cycle": [
@@ -1343,18 +1356,20 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jean-François Rauger",
     "items": [
       {
-        "idFilm": 59081,
-        "titre": "Soleil vert",
-        "realisateurs": "Richard Fleischer",
-        "annee": 1972,
-        "duree": 97,
+        "idFilm": 42234,
+        "titre": "Monstre",
+        "art": "Le",
+        "realisateurs": "Val Guest",
+        "annee": 1955,
+        "duree": 82,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f59081"
+    "hashEvenement": "f42234"
   },
   {
     "idSeance": 90830,
@@ -1382,9 +1397,9 @@
     "hashEvenement": "f154320"
   },
   {
-    "idSeance": 92988,
-    "idEvenement": 27577,
-    "dateHeure": "2023-03-27T20:45:00",
+    "idSeance": 92662,
+    "idEvenement": 27525,
+    "dateHeure": "2023-03-27T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1392,18 +1407,20 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jean-François Rauger",
     "items": [
       {
-        "idFilm": 45137,
-        "titre": "Rencontres du troisième type",
-        "realisateurs": "Steven Spielberg",
-        "annee": 1977,
-        "duree": 137,
+        "idFilm": 41679,
+        "titre": "Monstres de l'espace",
+        "art": "Les",
+        "realisateurs": "Roy Ward Baker",
+        "annee": 1967,
+        "duree": 98,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f45137"
+    "hashEvenement": "f41679"
   },
   {
     "idSeance": 90858,
@@ -1504,7 +1521,7 @@
   {
     "idSeance": 92767,
     "idEvenement": 27487,
-    "dateHeure": "2023-03-30T15:45:00",
+    "dateHeure": "2023-03-30T16:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1720,7 +1737,7 @@
   {
     "idSeance": 92777,
     "idEvenement": 27017,
-    "dateHeure": "2023-03-31T21:15:00",
+    "dateHeure": "2023-03-31T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1944,10 +1961,10 @@
     "hashEvenement": "f45438"
   },
   {
-    "idSeance": 92985,
-    "idEvenement": 27521,
+    "idSeance": 92561,
+    "idEvenement": 27527,
     "dateHeure": "2023-04-02T17:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "La science-fiction en 25 films indispensables",
@@ -1956,23 +1973,22 @@
     ],
     "items": [
       {
-        "idFilm": 42234,
-        "titre": "Monstre",
-        "art": "Le",
-        "realisateurs": "Val Guest",
-        "annee": 1955,
-        "duree": 82,
+        "idFilm": 59081,
+        "titre": "Soleil vert",
+        "realisateurs": "Richard Fleischer",
+        "annee": 1972,
+        "duree": 97,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f42234"
+    "hashEvenement": "f59081"
   },
   {
     "idSeance": 92785,
     "idEvenement": 27234,
     "dateHeure": "2023-04-02T18:00:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Hugo Fregonese",
@@ -1992,10 +2008,10 @@
     "hashEvenement": "f45552"
   },
   {
-    "idSeance": 92986,
-    "idEvenement": 27525,
+    "idSeance": 92562,
+    "idEvenement": 27577,
     "dateHeure": "2023-04-02T19:45:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "La science-fiction en 25 films indispensables",
@@ -2004,23 +2020,22 @@
     ],
     "items": [
       {
-        "idFilm": 41679,
-        "titre": "Monstres de l'espace",
-        "art": "Les",
-        "realisateurs": "Roy Ward Baker",
-        "annee": 1967,
-        "duree": 98,
+        "idFilm": 45137,
+        "titre": "Rencontres du troisième type",
+        "realisateurs": "Steven Spielberg",
+        "annee": 1977,
+        "duree": 137,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f41679"
+    "hashEvenement": "f45137"
   },
   {
     "idSeance": 92786,
     "idEvenement": 27222,
     "dateHeure": "2023-04-02T20:15:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Hugo Fregonese",
@@ -2030,7 +2045,7 @@
     "items": [
       {
         "idFilm": 32834,
-        "titre": "Mardi, ça saignera",
+        "titre": "Mardi ça saignera",
         "realisateurs": "Hugo Fregonese",
         "annee": 1954,
         "duree": 83,
@@ -2854,7 +2869,7 @@
     "items": [
       {
         "idFilm": 32834,
-        "titre": "Mardi, ça saignera",
+        "titre": "Mardi ça saignera",
         "realisateurs": "Hugo Fregonese",
         "annee": 1954,
         "duree": 83,
@@ -3865,7 +3880,7 @@
     "items": [
       {
         "idFilm": 30562,
-        "titre": "Saint Jack",
+        "titre": "Jack le Magnifique",
         "realisateurs": "Peter Bogdanovich",
         "annee": 1979,
         "duree": 112,
@@ -5846,59 +5861,37 @@
     "items": [
       {
         "idFilm": 154139,
-        "titre": "Fuck the Fascism: El Cruce de dos mundos",
-        "realisateurs": "MariaBasura Pandemicxxx, Jose Pouchucq",
-        "annee": 2020,
         "duree": 9,
         "version": "VOSTA",
         "format": "Numérique"
       },
       {
         "idFilm": 154141,
-        "titre": "Lose Yourself With Me",
-        "realisateurs": "Véronique Bourlon",
-        "annee": 2021,
         "duree": 8,
         "format": "DCP"
       },
       {
         "idFilm": 154098,
-        "titre": "Day I've Been Fucked in Front of the Entire World",
-        "art": "The",
-        "realisateurs": "Léolo Victor-Pujebet",
-        "annee": 2021,
         "duree": 20,
         "format": "Numérique"
       },
       {
         "idFilm": 154074,
-        "titre": "Mars exalté",
-        "realisateurs": "Jean-Sébastien Chauvin",
-        "annee": 2022,
         "duree": 18,
         "format": "DCP"
       },
       {
         "idFilm": 154246,
-        "titre": "Hot Heat",
-        "realisateurs": "Marylène Negro",
-        "annee": 2023,
         "duree": 10,
         "format": "Numérique"
       },
       {
         "idFilm": 154142,
-        "titre": "Fulmen",
-        "realisateurs": "Othello Vilgard",
-        "annee": 2023,
         "duree": 20,
         "format": "Numérique"
       },
       {
         "idFilm": 154247,
-        "titre": "Memory Slot – Track 1",
-        "realisateurs": "Yann Gonzalez, Alain Garcia Vergara",
-        "annee": 2023,
         "duree": 11,
         "format": "35 mm"
       }
@@ -5993,84 +5986,51 @@
     "items": [
       {
         "idFilm": 154105,
-        "titre": "Baisers envolés",
-        "realisateurs": "Georges Demenÿ",
-        "annee": 1894,
         "duree": 1,
         "format": "Numérique"
       },
       {
         "idFilm": 154106,
-        "titre": "Clin d'éventail",
-        "realisateurs": "Georges Demenÿ",
-        "annee": 1894,
         "duree": 1,
         "format": "Numérique"
       },
       {
         "idFilm": 154107,
-        "titre": "Cancan",
-        "realisateurs": "Georges Demenÿ",
-        "annee": 1894,
         "duree": 1,
         "format": "Numérique"
       },
       {
         "idFilm": 153994,
-        "titre": "Kiss",
-        "art": "The",
-        "realisateurs": "William Heise",
-        "annee": 1896,
         "duree": 1
       },
       {
         "idFilm": 52380,
-        "titre": "Après le bal",
-        "realisateurs": "Georges Méliès",
-        "annee": 1897,
         "duree": 1,
         "version": "INT. FR.",
         "format": "Numérique"
       },
       {
         "idFilm": 51806,
-        "titre": "Par le trou de la serrure",
-        "realisateurs": "Ferdinand Zecca",
-        "annee": 1901,
         "duree": 2,
         "format": "35 mm"
       },
       {
         "idFilm": 106017,
-        "titre": "Madame a des envies",
-        "realisateurs": "Alice Guy",
-        "annee": 1906,
         "duree": 4,
         "format": "DCP"
       },
       {
         "idFilm": 47140,
-        "titre": "Âge d'or",
-        "art": "L'",
-        "realisateurs": "Luis Buñuel",
-        "annee": 1930,
         "duree": 63,
         "format": "DCP"
       },
       {
         "idFilm": 154112,
-        "titre": "Âge d'or (chutes)",
-        "art": "L'",
-        "realisateurs": "Luis Buñuel",
-        "annee": 1930,
         "duree": 7,
         "format": "Numérique"
       },
       {
         "idFilm": 71556,
-        "titre": "Essai cinématographique : Autoportrait ou Ce qui manque à nous tous",
-        "realisateurs": "Man Ray",
-        "annee": 1930,
         "duree": 6
       }
     ],
@@ -6139,33 +6099,21 @@
     "items": [
       {
         "idFilm": 30131,
-        "titre": "Fireworks",
-        "realisateurs": "Kenneth Anger",
-        "annee": 1947,
         "duree": 14,
         "format": "16 mm"
       },
       {
         "idFilm": 54392,
-        "titre": "Un chant d'amour",
-        "realisateurs": "Jean Genet",
-        "annee": 1950,
         "duree": 27,
         "format": "35 mm"
       },
       {
         "idFilm": 132043,
-        "titre": "Nus masculins",
-        "realisateurs": "François Reichenbach",
-        "annee": 1954,
         "duree": 25,
         "format": "DCP"
       },
       {
         "idFilm": 154110,
-        "titre": "A Moment in Love",
-        "realisateurs": "Shirley Clarke",
-        "annee": 1956,
         "duree": 9
       }
     ],
@@ -6241,43 +6189,28 @@
     "items": [
       {
         "idFilm": 118646,
-        "titre": "Flesh of Morning",
-        "realisateurs": "Stan Brakhage",
-        "annee": 1986,
         "duree": 21,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154111,
-        "titre": "Hurry! Hurry!",
-        "realisateurs": "Marie Menken",
-        "annee": 1957,
         "duree": 5,
         "format": "16 mm"
       },
       {
         "idFilm": 97818,
-        "titre": "Cosmic Ray",
-        "realisateurs": "Bruce Conner",
-        "annee": 1962,
         "duree": 5,
         "format": "Numérique"
       },
       {
         "idFilm": 100582,
-        "titre": "Ai (Love)",
-        "realisateurs": "Takahiko Iimura",
-        "annee": 1962,
         "duree": 10,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 141388,
-        "titre": "Christmas on Earth",
-        "realisateurs": "Barbara Rubin",
-        "annee": 1963,
         "duree": 30,
         "format": "16 mm"
       }
@@ -6322,34 +6255,22 @@
     "items": [
       {
         "idFilm": 58030,
-        "titre": "Flaming Creatures",
-        "realisateurs": "Jack Smith",
-        "annee": 1963,
         "duree": 45,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154115,
-        "titre": "6/64 Mama und Papa (Materialaktion Otto Mühl)",
-        "realisateurs": "Kurt Kren",
-        "annee": 1964,
         "duree": 4,
         "format": "16 mm"
       },
       {
         "idFilm": 154114,
-        "titre": "7/64 Leda und der Schwan",
-        "realisateurs": "Kurt Kren",
-        "annee": 1964,
         "duree": 3,
         "format": "16 mm"
       },
       {
         "idFilm": 153992,
-        "titre": "Fuses",
-        "realisateurs": "Carolee Schneemann",
-        "annee": 1967,
         "duree": 25,
         "format": "16 mm"
       }
@@ -6419,58 +6340,36 @@
     "items": [
       {
         "idFilm": 154116,
-        "titre": "Quartier des femmes",
-        "art": "Le",
-        "realisateurs": "Kâmrân Shirdel",
-        "annee": 1966,
         "duree": 18
       },
       {
         "idFilm": 118640,
-        "titre": "Breakaway",
-        "realisateurs": "Bruce Conner",
-        "annee": 1966,
         "duree": 5,
         "format": "16 mm"
       },
       {
         "idFilm": 153991,
-        "titre": "Amphetamine",
-        "realisateurs": "Wendy Appel, Warren Sonbert",
-        "annee": 1966,
         "duree": 10,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154117,
-        "titre": "Permanent Waves",
-        "realisateurs": "Anita Thacher",
-        "annee": 1966,
         "duree": 3,
         "format": "16 mm"
       },
       {
         "idFilm": 153993,
-        "titre": "Piece Mandala / End War",
-        "realisateurs": "Paul Sharits",
-        "annee": 1966,
         "duree": 5,
         "format": "16 mm"
       },
       {
         "idFilm": 153999,
-        "titre": "Behind Every Good Man",
-        "realisateurs": "Nikolai Ursin",
-        "annee": 1967,
         "duree": 8,
         "version": "VO"
       },
       {
         "idFilm": 113216,
-        "titre": "Satan bouche un coin",
-        "realisateurs": "Jean-Pierre Bouyxou",
-        "annee": 1967,
         "duree": 12,
         "format": "16 mm"
       }
@@ -6515,58 +6414,36 @@
     "items": [
       {
         "idFilm": 154118,
-        "titre": "Dead Youth",
-        "realisateurs": "Donald Richie",
-        "annee": 1967,
         "duree": 14
       },
       {
         "idFilm": 154119,
-        "titre": "Orgasmus",
-        "realisateurs": "Valie Export",
-        "annee": 1967,
         "duree": 2,
         "format": "16 mm"
       },
       {
         "idFilm": 154001,
-        "titre": "Tapp und TastKino",
-        "realisateurs": "Valie Export",
-        "annee": 1968,
         "duree": 1,
         "version": "VO",
         "format": "Numérique"
       },
       {
         "idFilm": 99685,
-        "titre": "Moment",
-        "realisateurs": "Stephen Dwoskin",
-        "annee": 1968,
         "duree": 13,
         "format": "16 mm"
       },
       {
         "idFilm": 154121,
-        "titre": "Infinity Girl",
-        "realisateurs": "Aggy Read",
-        "annee": 1968,
         "duree": 5
       },
       {
         "idFilm": 154002,
-        "titre": "Canaries",
-        "art": "The",
-        "realisateurs": "Jerome Hill",
-        "annee": 1968,
         "duree": 4,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154004,
-        "titre": "Orfeo filmando en el campo de batalla",
-        "realisateurs": "Antonio Maenza Blasco",
-        "annee": 1968,
         "duree": 37,
         "version": "VO"
       }
@@ -6635,9 +6512,6 @@
     "items": [
       {
         "idFilm": 154135,
-        "titre": "Freiheit für die Liebe",
-        "realisateurs": "Eberhard Kronhausen, Phyllis Kronhausen",
-        "annee": 1968,
         "duree": 96,
         "version": "VOSTF",
         "format": "35 mm"
@@ -6659,84 +6533,54 @@
     "items": [
       {
         "idFilm": 97819,
-        "titre": "Particulièrement valable",
-        "realisateurs": "Hellmuth Costard",
-        "annee": 1968,
         "duree": 13,
         "version": "VO",
         "format": "DCP"
       },
       {
         "idFilm": 154130,
-        "titre": "Orange",
-        "realisateurs": "Karen Johnson",
-        "annee": 1969,
         "duree": 3,
         "format": "16 mm"
       },
       {
         "idFilm": 154006,
-        "titre": "Onanism",
-        "realisateurs": "Nalini Malani",
-        "annee": 1969,
         "duree": 4,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154122,
-        "titre": "Danz",
-        "realisateurs": "Georg Brintrup",
-        "annee": 1969,
         "duree": 4,
         "format": "16 mm"
       },
       {
         "idFilm": 154123,
-        "titre": "I Change I Am the Same",
-        "realisateurs": "Alice Anne Parker, Shelby Kennedy",
-        "annee": 1969,
         "duree": 1,
         "format": "Numérique"
       },
       {
         "idFilm": 38482,
-        "titre": "Birds",
-        "realisateurs": "Frans Zwartjes",
-        "annee": 1969,
         "duree": 6,
         "version": "VO",
         "format": "Numérique"
       },
       {
         "idFilm": 101907,
-        "titre": "Oblivion",
-        "realisateurs": "Tom Chomont",
-        "annee": 1969,
         "duree": 6,
         "format": "16 mm"
       },
       {
         "idFilm": 154120,
-        "titre": "Face",
-        "realisateurs": "Takahiko Iimura",
-        "annee": 1969,
         "duree": 17,
         "format": "16 mm"
       },
       {
         "idFilm": 118991,
-        "titre": "Dafnis y Cloe",
-        "realisateurs": "Antoni Padrós",
-        "annee": 1969,
         "duree": 19,
         "version": "VOSTF"
       },
       {
         "idFilm": 154124,
-        "titre": "Basta",
-        "realisateurs": "Ugo Ulive",
-        "annee": 1969,
         "duree": 22,
         "format": "Numérique"
       }
@@ -6926,35 +6770,21 @@
     "items": [
       {
         "idFilm": 39681,
-        "titre": "Tête froide",
-        "art": "La",
-        "realisateurs": "Patrick Hella",
-        "annee": 1969,
         "duree": 12,
         "format": "16 mm"
       },
       {
         "idFilm": 121283,
-        "titre": "Sexe enragé",
-        "art": "Le",
-        "realisateurs": "Roland Lethem",
-        "annee": 1969,
         "duree": 21,
         "format": "16 mm"
       },
       {
         "idFilm": 154126,
-        "titre": "Faites-vous jouir de plus en plus",
-        "realisateurs": "Michel Laitem",
-        "annee": 1974,
         "duree": 18,
         "format": "Numérique"
       },
       {
         "idFilm": 154129,
-        "titre": "Grève et pets",
-        "realisateurs": "Noël Godin",
-        "annee": 1975,
         "duree": 14,
         "format": "Numérique"
       }
@@ -7097,58 +6927,37 @@
     "items": [
       {
         "idFilm": 154011,
-        "titre": "Unfolding",
-        "realisateurs": "Coni Beeson",
-        "annee": 1970,
         "duree": 16,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 141220,
-        "titre": "Holding",
-        "realisateurs": "Coni Beeson",
-        "annee": 1971,
         "duree": 13,
         "format": "16 mm"
       },
       {
         "idFilm": 154012,
-        "titre": "The Now",
-        "realisateurs": "Coni Beeson",
-        "annee": 1972,
         "duree": 17,
         "format": "16 mm"
       },
       {
         "idFilm": 154013,
-        "titre": "Firefly",
-        "realisateurs": "Coni Beeson",
-        "annee": 1974,
         "duree": 5,
         "format": "16 mm"
       },
       {
         "idFilm": 154014,
-        "titre": "Women",
-        "realisateurs": "Coni Beeson",
-        "annee": 1974,
         "duree": 13,
         "format": "16 mm"
       },
       {
         "idFilm": 154015,
-        "titre": "Grow Old Alone With Me",
-        "realisateurs": "Coni Beeson",
-        "annee": 1977,
         "duree": 11,
         "format": "16 mm"
       },
       {
         "idFilm": 154016,
-        "titre": "Lotus",
-        "realisateurs": "Coni Beeson",
-        "annee": 1979,
         "duree": 12,
         "format": "16 mm"
       }
@@ -7414,9 +7223,6 @@
     "items": [
       {
         "idFilm": 154146,
-        "titre": "Johnny Minotaur",
-        "realisateurs": "Charles Henri Ford",
-        "annee": 1971,
         "duree": 80,
         "version": "VOSTF",
         "format": "16 mm"
@@ -7463,87 +7269,56 @@
     "items": [
       {
         "idFilm": 154143,
-        "titre": "CF Porn",
-        "realisateurs": "JoAnn Elam",
-        "annee": 1970,
         "duree": 2,
         "version": "VO",
         "format": "Numérique"
       },
       {
         "idFilm": 154144,
-        "titre": "Lovemaking",
-        "realisateurs": "Scott Bartlett",
-        "annee": 1970,
         "duree": 13,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154145,
-        "titre": "Mixed-Double",
-        "realisateurs": "Bent Barfod",
-        "annee": 1970,
         "duree": 6,
         "version": "VO",
         "format": "DCP"
       },
       {
         "idFilm": 154007,
-        "titre": "Hedonistic Communication",
-        "realisateurs": "Irm Sommer, Ed Sommer",
-        "annee": 1970,
         "duree": 18
       },
       {
         "idFilm": 154147,
-        "titre": "Good-by Marilyn",
-        "realisateurs": "Keiichi Tanaami",
-        "annee": 1971,
         "duree": 5,
         "format": "Numérique"
       },
       {
         "idFilm": 154148,
-        "titre": "Good-by Elvis and USA",
-        "realisateurs": "Keiichi Tanaami",
-        "annee": 1971,
         "duree": 7,
         "format": "Numérique"
       },
       {
         "idFilm": 154009,
-        "titre": "I Don't Know",
-        "realisateurs": "Penelope Spheeris",
-        "annee": 1971,
         "duree": 20,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154149,
-        "titre": "Phosphene",
-        "realisateurs": "Byron Grush",
-        "annee": 1971,
         "duree": 7,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154152,
-        "titre": "Voluptuous Martyrdoms of the Magnificent Masturbators",
-        "art": "The",
-        "realisateurs": "Robert Short",
-        "annee": 1971,
         "duree": 16,
         "version": "VO",
         "format": "Vidéo"
       },
       {
         "idFilm": 154153,
-        "titre": "Blue Streak",
-        "realisateurs": "Mark Rappaport",
-        "annee": 1971,
         "duree": 16
       }
     ],
@@ -7553,7 +7328,7 @@
     "idSeance": 92712,
     "idEvenement": 27432,
     "dateHeure": "2023-05-21T14:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Le cinéma d'espionnage (3e partie)",
@@ -7635,9 +7410,6 @@
     "items": [
       {
         "idFilm": 154155,
-        "titre": "Motoshinkakarannu",
-        "realisateurs": "Tetsurō Nunokawa, NDU",
-        "annee": 1971,
         "duree": 86,
         "version": "VOSTF",
         "format": "Vidéo"
@@ -7777,33 +7549,21 @@
     "items": [
       {
         "idFilm": 154017,
-        "titre": "Take Off (With Magda)",
-        "realisateurs": "Gunvor Nelson",
-        "annee": 1972,
         "duree": 10
       },
       {
         "idFilm": 154156,
-        "titre": "Inner Man",
-        "realisateurs": "Mako Idemitsu",
-        "annee": 1972,
         "duree": 4,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154008,
-        "titre": "Near the Big Chakra",
-        "realisateurs": "Alice Anne Parker",
-        "annee": 1972,
         "duree": 17,
         "format": "Numérique"
       },
       {
         "idFilm": 59162,
-        "titre": "Derrière la porte verte",
-        "realisateurs": "Jim Mitchell, Art Mitchell",
-        "annee": 1972,
         "duree": 69,
         "version": "VOSTF",
         "format": "35 mm"
@@ -7849,25 +7609,16 @@
     "items": [
       {
         "idFilm": 154019,
-        "titre": "Bijou",
-        "realisateurs": "Wakefield Poole",
-        "annee": 1972,
         "duree": 75
       },
       {
         "idFilm": 154176,
-        "titre": "Hot Nasty",
-        "realisateurs": "Tom Palazzolo",
-        "annee": 1972,
         "duree": 14,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154177,
-        "titre": "Love it / Leave it",
-        "realisateurs": "Tom Palazzolo",
-        "annee": 1973,
         "duree": 14,
         "format": "Numérique"
       }
@@ -7912,9 +7663,6 @@
     "items": [
       {
         "idFilm": 61838,
-        "titre": "Belladonna",
-        "realisateurs": "Eiichi Yamamoto",
-        "annee": 1973,
         "duree": 88,
         "version": "VOSTF",
         "format": "35 mm"
@@ -7961,43 +7709,28 @@
     "items": [
       {
         "idFilm": 154022,
-        "titre": "X",
-        "realisateurs": "Barbara Hammer",
-        "annee": 1973,
         "duree": 9,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 154023,
-        "titre": "Menses",
-        "realisateurs": "Barbara Hammer",
-        "annee": 1974,
         "duree": 4,
         "version": "VO",
         "format": "16 mm"
       },
       {
         "idFilm": 141226,
-        "titre": "Dyketactics",
-        "realisateurs": "Barbara Hammer",
-        "annee": 1973,
         "duree": 4,
         "format": "Numérique"
       },
       {
         "idFilm": 141228,
-        "titre": "Multiple Orgasm",
-        "realisateurs": "Barbara Hammer",
-        "annee": 1976,
         "duree": 6,
         "format": "16 mm"
       },
       {
         "idFilm": 121828,
-        "titre": "Nitrate Kisses",
-        "realisateurs": "Barbara Hammer",
-        "annee": 1992,
         "duree": 67,
         "version": "VO",
         "format": "16 mm"
@@ -8139,17 +7872,11 @@
     "items": [
       {
         "idFilm": 145015,
-        "titre": "Chôfuku-ki",
-        "realisateurs": "Shuji Terayama",
-        "annee": 1974,
         "duree": 15,
         "format": "Numérique"
       },
       {
         "idFilm": 154024,
-        "titre": "Passing Strangers",
-        "realisateurs": "Arthur J. Bressan Jr.",
-        "annee": 1974,
         "duree": 76,
         "version": "STF",
         "format": "Numérique"
@@ -8196,10 +7923,6 @@
     "items": [
       {
         "idFilm": 154190,
-        "titre": "Filles de Ka-ma-ré (Une petite culotte pour l'été)",
-        "art": "Les",
-        "realisateurs": "René Vienet, Norifumi Suzuki",
-        "annee": 1974,
         "duree": 88
       }
     ],
@@ -8244,9 +7967,6 @@
     "items": [
       {
         "idFilm": 56787,
-        "titre": "Je, tu, il, elle",
-        "realisateurs": "Chantal Akerman",
-        "annee": 1974,
         "duree": 90,
         "format": "DCP"
       }
@@ -8340,26 +8060,16 @@
     "items": [
       {
         "idFilm": 154191,
-        "titre": "Bride Stripped Bare by Her Bachelors",
-        "art": "The",
-        "realisateurs": "Keiichi Tanaami",
-        "annee": 1975,
         "duree": 4,
         "format": "Numérique"
       },
       {
         "idFilm": 154192,
-        "titre": "Human events",
-        "realisateurs": "Keiichi Tanaami",
-        "annee": 1975,
         "duree": 5,
         "format": "Numérique"
       },
       {
         "idFilm": 59075,
-        "titre": "Dehors-dedans",
-        "realisateurs": "Alain Fleischer",
-        "annee": 1974,
         "duree": 80,
         "format": "16 mm"
       }

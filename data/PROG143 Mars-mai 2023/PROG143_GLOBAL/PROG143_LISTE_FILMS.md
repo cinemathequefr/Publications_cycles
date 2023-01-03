@@ -51,7 +51,7 @@
   * Harry Black et le tigre  
   * Impasse maudite (L')  
   * Marco Polo  
-  * Mardi ça saignera  
+  * Mardi, ça saignera  
   * Mes six forçats  
   * Mission spéciale au Deuxième Bureau  
   * Pages galantes de Boccace  
@@ -83,9 +83,106 @@
   * Wallace et Gromit : Les inventuriers  
   * Zazie dans le métro
 
-## L'image des plaisirs (1)
+## L'image des plaisirs (98)
 
-  * undefined
+  * 6/64 Mama und Papa (Materialaktion Otto Mühl)  
+  * 7/64 Leda und der Schwan  
+  * A Moment in Love  
+  * Âge d'or (chutes) (L')  
+  * Âge d'or (L')  
+  * Ai (Love)  
+  * Amphetamine  
+  * Après le bal  
+  * Baisers envolés  
+  * Basta  
+  * Behind Every Good Man  
+  * Belladonna  
+  * Bijou  
+  * Birds  
+  * Blue Streak  
+  * Breakaway  
+  * Bride Stripped Bare by Her Bachelors (The)  
+  * Canaries (The)  
+  * Cancan  
+  * CF Porn  
+  * Chôfuku-ki  
+  * Christmas on Earth  
+  * Clin d'éventail  
+  * Cosmic Ray  
+  * Dafnis y Cloe  
+  * Danz  
+  * Day I've Been Fucked in Front of the Entire World (The)  
+  * Dead Youth  
+  * Dehors-dedans  
+  * Derrière la porte verte  
+  * Dyketactics  
+  * Essai cinématographique : Autoportrait ou Ce qui manque à nous tous  
+  * Face  
+  * Faites-vous jouir de plus en plus  
+  * Filles de Ka-ma-ré (Une petite culotte pour l'été) (Les)  
+  * Firefly  
+  * Fireworks  
+  * Flaming Creatures  
+  * Flesh of Morning  
+  * Freiheit für die Liebe  
+  * Fuck the Fascism: El Cruce de dos mundos  
+  * Fulmen  
+  * Fuses  
+  * Good-by Elvis and USA  
+  * Good-by Marilyn  
+  * Grève et pets  
+  * Grow Old Alone With Me  
+  * Hedonistic Communication  
+  * Holding  
+  * Hot Heat  
+  * Hot Nasty  
+  * Human events  
+  * Hurry! Hurry!  
+  * I Change I Am the Same  
+  * I Don't Know  
+  * Infinity Girl  
+  * Inner Man  
+  * Je, tu, il, elle  
+  * Johnny Minotaur  
+  * Kiss (The)  
+  * Lose Yourself With Me  
+  * Lotus  
+  * Love it / Leave it  
+  * Lovemaking  
+  * Madame a des envies  
+  * Mars exalté  
+  * Memory Slot – Track 1  
+  * Menses  
+  * Mixed-Double  
+  * Moment  
+  * Motoshinkakarannu  
+  * Multiple Orgasm  
+  * Near the Big Chakra  
+  * Nitrate Kisses  
+  * Nus masculins  
+  * Oblivion  
+  * Onanism  
+  * Orange  
+  * Orfeo filmando en el campo de batalla  
+  * Orgasmus  
+  * Par le trou de la serrure  
+  * Particulièrement valable  
+  * Passing Strangers  
+  * Permanent Waves  
+  * Phosphene  
+  * Piece Mandala / End War  
+  * Quartier des femmes (Le)  
+  * Satan bouche un coin  
+  * Sexe enragé (Le)  
+  * Take Off (With Magda)  
+  * Tapp und TastKino  
+  * Tête froide (La)  
+  * The Now  
+  * Un chant d'amour  
+  * Unfolding  
+  * Voluptuous Martyrdoms of the Magnificent Masturbators (The)  
+  * Women  
+  * X
 
 ## La science-fiction en 25 films indispensables (25)
 
@@ -95,7 +192,6 @@
   * Aelita  
   * Alien  
   * Alphaville, une étrange aventure de Lemmy Caution  
-  * Chose (La)  
   * Gravity  
   * Guerre des mondes (La)  
   * Invasion des profanateurs de sépultures (L')  
@@ -113,7 +209,8 @@
   * Solaris  
   * Soleil vert  
   * Starman  
-  * Starship Troopers
+  * Starship Troopers  
+  * Thing (The)
 
 ## Le cinéma d'espionnage (3e partie) (21)
 
@@ -210,12 +307,12 @@
   * Et tout le monde riait  
   * Great Buster: A Celebration (The)  
   * Illégalement vôtre  
-  * Jack le Magnifique  
   * Mask  
   * Nashville Blues  
   * Nickelodeon  
   * On s'fait la valise, docteur ?  
   * Réalisé par John Ford  
+  * Saint Jack  
   * Texasville  
   * Un parfum de meurtre  
   * Voyage to the Planet of Prehistoric Women

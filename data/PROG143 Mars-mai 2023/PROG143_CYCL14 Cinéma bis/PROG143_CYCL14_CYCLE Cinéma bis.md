@@ -19,7 +19,7 @@ D'après le roman _Atout cœur à Tokyo_ de Jean Bruce.
 Avec Frederick Stafford, Marina Vlady, Henri Serre.  
 L'agent OSS 117, alias Hubert Bonisseur de La Bath, enquête sur l'explosion d'une base américaine du Pacifique. À Tokyo, il rencontre Eva Wilson et ne tarde pas à découvrir ses liens étroits avec l'attentat.
 
-- ve 31 mar 21h00 GF
+- ve 31 mar 21h15 GF
 
 ## SAS : hommage à un héros de légende
 

@@ -91,14 +91,14 @@ Marco Polo est envoyé en mission pour porter une offre de paix à l'empereur de
 - di 9 avr 20h00 GF
 
 [32834]  
-**Mardi ça saignera**  
+**Mardi, ça saignera**  
 **(Black Tuesday)**  
 de Hugo Fregonese  
 États-Unis / 1954 / 83 min / VOSTF / 35 mm  
 Avec Edward G. Robinson, Peter Graves, Jean Parker.  
 Un gangster emprisonné échafaude un plan pour s'évader avant de passer sur la chaise électrique. Lors de sa fuite, il emmène avec lui un voleur de banques et tueur de flics, ainsi qu'une poignée d'otages.
 
-- di 2 avr 20h15 GF  
+- di 2 avr 20h15 HL  
 - me 12 avr 18h00 GF
 
 [32847]  
@@ -194,7 +194,7 @@ de Hugo Fregonese
 Avec Ricardo Montalbán, Cyd Charisse, J. Carrol Naish.  
 En 1825, lors de l'avènement de la République du Mexique, Marcos Zappa est victime d'un odieux chantage au terme d'un exil forcé de plusieurs années. En échange du silence de Don Pedro García sur son passé, il doit séduire la belle Manuela de Vásquez et l'épouser pour mieux porter le discrédit sur son père.
 
-- di 2 avr 18h00 GF
+- di 2 avr 18h00 HL
 
 [52236]  
 **Le Souffle sauvage**  
