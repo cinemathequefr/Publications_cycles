@@ -2,21 +2,14 @@
 
 ## Les films
 
-[93756]  
-****  
-undefined  
-15 min / DCP
-
-- sa 6 mai 15h00 GF  
-Film suivi d'_Au diable la célébrité_ de Steno, Mario Monicelli
-
 [42470]  
 **L'Armée Brancaleone**  
 **(L'Armata Brancaleone)**  
 de Mario Monicelli  
 Italie-France-Espagne / 1966 / 120 min / VOSTF / 35 mm  
 Avec Vittorio Gassman, Catherine Spaak, Gian Maria Volonté.  
-Les aventures picaresques du chevalier Brancaleone qui, accompagné de son armée de gueux, se dirige vers le fief d'Aurocastro pour se l'accaparer illégalement.
+Les aventures picaresques du chevalier Brancaleone qui, accompagné de son armée de gueux, se dirige vers le fief d'Aurocastro pour se l'accaparer illégalement.  
+Numérisation en 4K et restauration en 2K au laboratoire Hiventy à partir des négatifs originaux image et son. Restauration par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec les Archives audiovisuelles de Monaco, la Cinémathèque suisse et Extérieur Nuit.
 
 - ve 5 mai 18h00 HL  
 - sa 27 mai 19h15 HL
@@ -30,7 +23,7 @@ Avec Leonardo Cortese, Marcel Cerdan, Mischa Auer, Carlo Campanini.
 Un professeur spécialiste de l'Orient reçoit la visite du diable, qui lui fera connaître les plaisirs de la célébrité en le réincarnant en ténor, puis en boxer.
 
 - sa 6 mai 15h00 GF  
-Film précédé d'_undefined_
+Film précédé de _Cuore rivelatore_ de Mario Monicelli, Alberto Mondadori
 
 [42476]  
 **Bertoldo, Bertoldino e Cacasenno**  
@@ -48,8 +41,7 @@ Vers l'an mille, à la cour du roi Alboino, gravitent trois personnages étrange
 de Mario Monicelli, Federico Fellini, Luchino Visconti, Vittorio De Sica  
 Italie-France / 1962 / 200 min / VOSTF / 35 mm  
 Avec Anita Ekberg, Sophia Loren, Romy Schneider, Marisa Solinas.  
-Quatre adaptations modernes des contes pour adultes de Boccace, qui mettent en scène des femmes fatales : _Renzo et Luciana_ de Mario Monicelli, _Les Tentations du docteur Antoine_ de Federico Fellini, _Le Travail_ de Luchino Visconti, et _La Loterie_ de Vittorio De Sica.  
-Dans _Le Travail_, Romy Schneider incarne une jeune femme qui décide de faire payer ses charmes à son mari pour se venger de ses infidélités.
+Quatre adaptations modernes des contes pour adultes de Boccace, qui mettent en scène des femmes fatales : _Renzo et Luciana_ de Mario Monicelli, _Les Tentations du docteur Antoine_ de Federico Fellini, _Le Travail_ de Luchino Visconti, et _La Loterie_ de Vittorio De Sica.
 
 - sa 13 mai 20h00 GF
 
@@ -115,6 +107,14 @@ Une caméra cachée permet à trois jeunes cinéphiles de filmer les clients d'u
 
 - di 21 mai 20h30 HL
 
+[93756]  
+**Cuore rivelatore**  
+de Mario Monicelli, Alberto Mondadori  
+Italie / 1933 / 15 min / DCP
+
+- sa 6 mai 15h00 GF  
+Film suivi d'_Au diable la célébrité_ de Steno, Mario Monicelli
+
 [43856]  
 **Dans les coulisses**  
 **(Vita da cani)**  
@@ -142,7 +142,8 @@ de Mario Monicelli
 Italie / 1985 / 140 min / VOSTF / 35 mm  
 D'après le roman _Feu Mathias Pascal_ de Luigi Pirandello.  
 Avec Marcello Mastroianni, Laura Morante, Bernard Blier.  
-Un homme profite du fait que tout le monde le croit mort pour tenter de réussir une nouvelle vie.
+Un homme profite du fait que tout le monde le croit mort pour tenter de réussir une nouvelle vie.  
+Restauration et numérisation par Ciné Tamaris et la Cinémathèque française avec le soutien du Fonds culturel franco-américain, des Archives audiovisuelles de Monaco, de la Sogeda, et la participation de Kodak.
 
 - je 25 mai 20h15 HL
 
@@ -185,7 +186,7 @@ Italie / 1967 / 102 min / VOSTF / DCP
 Avec Monica Vitti, Stanley Baker, Carlo Giuffré, Corin Redgrave.  
 Séduite et abandonnée par un homme de son village, Assunta la Sicilienne se rend à Londres avec un pistolet avec l'intention de l'assassiner.
 
-- di 14 mai 20h30 HL
+- di 14 mai 20h45 HL
 
 [43246]  
 **Gendarmes et Voleurs**  
@@ -193,7 +194,8 @@ Séduite et abandonnée par un homme de son village, Assunta la Sicilienne se re
 de Mario Monicelli, Steno  
 Italie / 1951 / 109 min / VOSTF / 35 mm  
 Avec Totò, Aldo Fabrizi, Pina Piovani.  
-Le petit escroc Ferdinando est arrêté par le sergent Bottoni, mais parvient à lui échapper. Suspendu, le policier doit remettre la main sur le voleur pour sauver sa place.
+Le petit escroc Ferdinando est arrêté par le sergent Bottoni, mais parvient à lui échapper. Suspendu, le policier doit remettre la main sur le voleur pour sauver sa place.  
+Numérisation en 4K et restauration en 2K au laboratoire Hiventy à partir des négatifs originaux image et son. Restauration par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec les Archives audiovisuelles de Monaco, la Cinémathèque suisse et Extérieur Nuit.
 
 - je 27 avr 18h00 HL  
 Séance présentée par Jean A. Gili
@@ -211,7 +213,7 @@ Séance présentée par Jean A. Gili
 - sa 20 mai 20h00 HL
 
 [45337]  
-**Haute infidélité**  
+**Haute Infidélité**  
 **(Alta infedeltà)**  
 de Franco Rossi, Elio Petri, Luciano Salce, Mario Monicelli  
 Italie-France / 1964 / 130 min / VO / 35 mm  
@@ -228,7 +230,7 @@ D'après les nouvelles _Ladri in chiesa_ et _Lacrime di gioia_ d'Alberto Moravia
 Avec Anna Magnani, Totò, Ben Gazzara.  
 Une figurante de Cinecittà, un petit voleur de bijoux et son comparse, réunis par le hasard, passent la nuit du réveillon à écumer les fêtes de Rome, avec un succès relatif.
 
-- ve 28 avr 20h45 HL
+- ve 28 avr 20h30 HL
 
 [73067]  
 **Il Male oscuro**  
@@ -304,7 +306,7 @@ Un député d'extrême droite fomente un coup d'État avec le concours d'un grou
 - di 28 mai 17h00 HL
 
 [42389]  
-**Les Nouveaux monstres**  
+**Les Nouveaux Monstres**  
 **(I Nuovi mostri)**  
 de Dino Risi, Mario Monicelli, Ettore Scola  
 Italie / 1977 / 115 min / VOSTF / 35 mm  
@@ -319,7 +321,7 @@ Douze sketches, tableaux sombres et amers qui, à la suite des _Monstres_ de 196
 de Luciano Salce, Mario Monicelli, Mauro Bolognini, Antonio Pietrangeli  
 Italie-France / 1966 / 114 min / VOSTF / 35 mm  
 Avec Monica Vitti, Claudia Cardinale, Raquel Welch, Capucine.  
-Sexy comédie en quatre parties.
+Sexy-comédie en quatre parties.
 
 - lu 8 mai 18h15 GF
 
@@ -338,7 +340,7 @@ La famille Razzi possède une fabrique de bonbons à Macerata. Avides de conqué
 de Mario Monicelli  
 Italie-France / 1957 / 98 min / VOSTF / 35 mm  
 Avec Vittorio De Sica, Marcello Mastroianni, Lorella De Luca.  
-La vie et les aventures de plusieurs familles, voisines ou amies, dans l'Italie des années 50.
+La vie et les aventures de plusieurs familles, voisines ou amies, dans l'Italie des années 1950.
 
 - me 3 mai 20h15 HL
 
@@ -348,7 +350,8 @@ La vie et les aventures de plusieurs familles, voisines ou amies, dans l'Italie 
 de Mario Monicelli  
 Italie / 1958 / 111 min / VOSTF / 35 mm  
 Avec Marcello Mastroianni, Vittorio Gassman, Totò, Claudia Cardinale.  
-En prison, Cosimo révèle à Peppe les détails du gros coup infaillible qu'il se réserve pour sa sortie. Mais Peppe est libéré le premier et organise le casse avec les complices de Cosimo.
+En prison, Cosimo révèle à Peppe les détails du gros coup infaillible qu'il se réserve pour sa sortie. Mais Peppe est libéré le premier et organise le casse avec les complices de Cosimo.  
+Numérisation en 4K et restauration en 2K au laboratoire Hiventy à partir des négatifs originaux image et son. Restauration par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec les Archives audiovisuelles de Monaco, la Cinémathèque suisse et Extérieur Nuit.
 
 - ve 28 avr 18h00 HL  
 - sa 20 mai 17h30 HL
@@ -371,12 +374,14 @@ Italie / 1974 / 102 min / VOSTF / DCP
 Avec Ugo Tognazzi, Ornella Muti, Michele Placido.  
 Un quinquagénaire épouse sa filleule de trente ans sa cadette. Il est peu à peu rongé par la jalousie.
 
-- sa 6 mai 20h00 GF
+- sa 29 avr 18h15 HL
 
 [101591]  
-**Le Rose del deserto**  
+**Les Roses du désert**  
+**(Le Rose del deserto)**  
 de Mario Monicelli  
 Italie / 2006 / 102 min / VOSTF / 35 mm  
+D'après le roman _Le Désert de Libye_ de Mario Tobino.  
 Avec Michele Placido, Giorgio Pasotti.  
 Les mésaventures d'une équipe médicale militaire durant la Seconde Guerre mondiale en Libye.
 
@@ -446,7 +451,8 @@ Ercole Pappalardo, marié, cinq fils, cherche par tous les moyens à gravir les 
 de Mario Monicelli, Steno  
 Italie / 1952 / 103 min / VOSTF  
 Avec Totò, Lea Padovani, Ave Ninchi, Alda Mangini.  
-Antonio Scapparo ne supporte plus sa femme et se réfugie dans le grenier pour lire des romans policiers, fumer le cigare, et prier son protecteur, Landru.
+Antonio Scapparo ne supporte plus sa femme et se réfugie dans le grenier pour lire des romans policiers, fumer le cigare, et prier son protecteur, Landru.  
+Numérisation en 4K et restauration en 2K au laboratoire Hiventy à partir des négatifs originaux image et son. Restauration par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec les Archives audiovisuelles de Monaco, la Cinémathèque suisse et Extérieur Nuit.
 
 - di 7 mai 19h15 HL
 
@@ -456,7 +462,8 @@ Antonio Scapparo ne supporte plus sa femme et se réfugie dans le grenier pour l
 de Mario Monicelli  
 Italie / 1977 / 121 min / VOSTF / 35 mm  
 Avec Alberto Sordi, Shelley Winters, Vincenzo Crocitti.  
-Modeste fonctionnaire à l'approche de la retraite, Vivaldi veut caser son fils dans l'administration. Un drame survient, qui l'entraîne dans une spirale de vengeance.
+Modeste fonctionnaire à l'approche de la retraite, Vivaldi veut caser son fils dans l'administration. Un drame survient, qui l'entraîne dans une spirale de vengeance.  
+Numérisation en 4K et restauration en 2K au laboratoire Hiventy à partir des négatifs originaux image et son. Restauration par la Cinémathèque française et A17 avec le soutien du CNC, en collaboration avec les Archives audiovisuelles de Monaco, la Cinémathèque suisse et Extérieur Nuit.
 
 - sa 29 avr 14h30 HL  
 Voir aussi dialogue p. xx
@@ -467,9 +474,10 @@ Voir aussi dialogue p. xx
 de Mario Monicelli  
 Italie / 1955 / 85 min / VOSTF / DCP  
 Avec Alberto Sordi, Franca Valeri, Giovanna Ralli.  
-Les mésaventures d'Alberto, petit délateur timide et peureux, vivant encore chez sa tante et une vieille gouvernante, et ayant l'art de se fourrer dans des situations aussi invraisemblables que désopilantes.
+Les mésaventures d'Alberto, petit délateur timide et peureux, vivant encore chez sa tante et une vieille gouvernante, et ayant l'art de se fourrer dans des situations aussi invraisemblables que désopilantes.  
+Scan 4K et restauration en 2K par Lobster Films à partir d'un marron nitrate conservé au BFI. Restauration son par L. E. Diapason.
 
-- sa 29 avr 18h15 HL  
+- sa 6 mai 20h00 GF  
 - lu 22 mai 18h00 GF
 
 [43843]  
@@ -488,7 +496,8 @@ Au XVI<sup>e</sup> siècle, deux vagabonds ont des ambitions modestes : manger e
 de Mario Monicelli  
 Italie / 1992 / 105 min / VOSTF / DCP  
 Avec Tommaso Bianco, Marina Confalone.  
-Comme chaque année, les Colapietro, quatre frères et sœurs et leurs familles respectives, se réunissent pour fêter Noël chez leurs vieux parents. Ceux-ci, trop âgés pour vivre seuls, ont décidé de s'installer chez l'un de leurs enfants.
+Comme chaque année, les Colapietro, quatre frères et sœurs et leurs familles respectives, se réunissent pour fêter Noël chez leurs vieux parents. Ceux-ci, trop âgés pour vivre seuls, ont décidé de s'installer chez l'un de leurs enfants.  
+Restauration et numérisation par Ciné Tamaris et la Cinémathèque française avec le soutien du Fonds culturel franco-américain, des Archives audiovisuelles de Monaco, de la Sogeda, et la participation de Kodak.
 
 - ve 26 mai 18h00 HL
 
@@ -498,7 +507,8 @@ Comme chaque année, les Colapietro, quatre frères et sœurs et leurs familles 
 de Mario Monicelli  
 Italie-France / 1979 / 115 min / VO / 35 mm  
 Avec Giancarlo Giannini, Goldie Hawn, Claudine Auger, Aurore Clément.  
-En se rendant au chevet de son père mourant, un homme rencontre une actrice américaine avec qui il a une relation.
+En se rendant au chevet de son père mourant, un homme rencontre une actrice américaine avec qui il a une relation.  
+Restauration en 2K par MK2.
 
 - ve 19 mai 20h30 HL
 

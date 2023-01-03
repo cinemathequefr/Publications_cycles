@@ -109,7 +109,8 @@ de Hugo Fregonese
 Avec John Beal, Gilbert Roland, Millard Mitchell, Charles Buchinsky.  
 Le docteur Wilson, un jeune psychiatre, est chargé de mission à la prison de Harbor State pour étudier les moyens de réformer le système pénitentiaire. Il tente de développer un programme de réhabilitation avec six forçats.
 
-- je 6 avr 18h00 HL
+- je 6 avr 18h00 HL  
+- lu 10 avr 20h30 GF
 
 [73753]  
 **Mission spéciale au Deuxième Bureau**  
@@ -140,8 +141,7 @@ Espagne-Argentine-États-Unis / 1966 / 115 min / Numérique
 Avec Robert Taylor, Ty Hardin, Ron Randell, Marc Lawrence.  
 À la fin des années 1800, un capitaine de l'armée essaie d'apprivoiser les plaines de l'Argentine dominées par les autochtones et les bandits. Il fait alors appel à un groupe de prostituées pour ses soldats.
 
-- sa 8 avr 18h45 GF  
-- lu 10 avr 20h00 GF
+- sa 8 avr 18h45 GF
 
 [32859]  
 **Passage interdit**  
@@ -176,7 +176,7 @@ En 1864, un groupe de Confédérés dirigé par le major Neal Benton s'échappe 
 Voir aussi dialogue p. xx
 
 [32858]  
-**Les Sept tonnerres**  
+**Les Sept Tonnerres**  
 **(Seven Thunders)**  
 de Hugo Fregonese  
 États-Unis / 1957 / 100 min / STF / 35 mm  
@@ -207,7 +207,7 @@ Au Mexique, Jeff, prospecteur pétrolier fauché, demande la protection d'une co
 - sa 1 avr 18h00 HL
 
 [88401]  
-**Le Vagabond et les lutins**  
+**Le Vagabond et les Lutins**  
 **(Saddle Tramp)**  
 de Hugo Fregonese  
 États-Unis / 1950 / 90 min / 35 mm  
@@ -215,7 +215,7 @@ Avec Joel McCrea, Wanda Hendrix, John Russell.
 L'aventurier Chuck Connors est en visite chez un ami, quand celui-ci se tue en tombant de cheval. Chuck prend alors sous sa protection ses quatre orphelins, son ranch, et une jeune femme en fuite.
 
 - sa 8 avr 16h45 GF  
-- lu 10 avr 18h00 GF
+- lu 10 avr 18h30 GF
 
 ## Rencontres et conférences
 

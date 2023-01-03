@@ -54,15 +54,6 @@ La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film
 Séance présentée par Louise Traon  
 Film suivi de _Quand je serai jeune_ de Yann Dedet
 
-[154271]  
-**Le Grand Chariot**  
-de Philippe Garrel  
-France / 2022  
-Avec Louis Garrel, Esther Garrel, Léna Garrel.  
-La destinée romanesque et tragique d'une fratrie d'artistes marionnettistes.
-
-- di 14 mai 20h15 GF
-
 [137947]  
 **I Am Not a Witch**  
 de Rungano Nyoni  
@@ -70,7 +61,16 @@ France-Grande-Bretagne-Allemagne / 2017 / 94 min / DCP
 Avec Margaret Mulubwa, Henry B. J. Phiri, Nancy Mulilo.  
 En Zambie, la petite Shula est accusée de sorcellerie par les habitants de son village. Elle est envoyée dans un camp de sorcières, où les superstitions des hommes justifient l'exploitation des prisonnières.
 
-- je 18 mai 21h00 GF
+- je 18 mai 21h15 GF
+
+[48713]  
+**J'entends plus la guitare**  
+de Philippe Garrel  
+France / 1990 / 98 min / 35 mm  
+Avec Benoît Régent, Johanna Ter Steege, Yann Collette, Mireille Perrier.  
+Les séparations et les retrouvailles successives d'un couple passionnel.
+
+- di 14 mai 20h15 GF
 
 [48887]  
 **Mona et moi**  

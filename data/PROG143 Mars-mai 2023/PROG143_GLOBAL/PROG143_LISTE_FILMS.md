@@ -4,6 +4,23 @@
 
   * Ennio
 
+## Aujourd'hui le cinéma (14)
+
+  * Armée des fourmis (L')  
+  * Bruno Reidal  
+  * Cri de Tarzan (Le)  
+  * Fifi  
+  * Hizz ya wizz  
+  * Mozeb  
+  * Ossos  
+  * Pas de panique  
+  * portes et des murs (Des)  
+  * Sang de la veine (Le)  
+  * Souvenir inoubliable d'un ami  
+  * Tinnitus  
+  * Un dernier été  
+  * Vacances à Chelles (Les)
+
 ## Ciné-club de Frédéric Bonnaud (3)
 
   * Accattone  
@@ -42,22 +59,22 @@
   * Passage interdit  
   * Quand les tambours s'arrêteront  
   * Raid (The)  
-  * Sept tonnerres (Les)  
+  * Sept Tonnerres (Les)  
   * Signe des rénégats (Le)  
   * Souffle sauvage (Le)  
-  * Vagabond et les lutins (Le)
+  * Vagabond et les Lutins (Le)
 
 ## Jeune public (16)
 
   * Docteur Jerry et Mister Love  
   * E.T. l'extra-terrestre  
-  * Etre et avoir  
   * Fenêtre sur cour  
   * Homme de Rio (L')  
   * Jason et les Argonautes  
   * Jour de fête  
   * Lumières de la ville (Les)  
   * Malheurs de Sophie (Les)  
+  * Peau d'âne  
   * Pinocchio  
   * Ponyo sur la falaise  
   * Tex Avery Follies  
@@ -66,106 +83,9 @@
   * Wallace et Gromit : Les inventuriers  
   * Zazie dans le métro
 
-## L'image des plaisirs (98)
+## L'image des plaisirs (1)
 
-  * 6/64 Mama und Papa (Materialaktion Otto Mühl)  
-  * 7/64 Leda und der Schwan  
-  * A Moment in Love  
-  * Âge d'or (chutes) (L')  
-  * Âge d'or (L')  
-  * Ai (Love)  
-  * Amphetamine  
-  * Après le bal  
-  * Baisers envolés  
-  * Basta  
-  * Behind Every Good Man  
-  * Belladonna  
-  * Bijou  
-  * Birds  
-  * Blue Streak  
-  * Breakaway  
-  * Bride Stripped Bare by Her Bachelors (The)  
-  * Canaries (The)  
-  * Cancan  
-  * CF Porn  
-  * Chôfuku-ki  
-  * Christmas on Earth  
-  * Clin d'éventail  
-  * Cosmic Ray  
-  * Dafnis y Cloe  
-  * Danz  
-  * Day I've Been Fucked in Front of the Entire World (The)  
-  * Dead Youth  
-  * Dehors-dedans  
-  * Derrière la porte verte  
-  * Dyketactics  
-  * Essai cinématographique : Autoportrait ou Ce qui manque à nous tous  
-  * Face  
-  * Faites-vous jouir de plus en plus  
-  * Filles de Ka-ma-ré (Une petite culotte pour l'été) (Les)  
-  * Firefly  
-  * Fireworks  
-  * Flaming Creatures  
-  * Freiheit für die Liebe  
-  * Fuck the Fascism: El Cruce de dos mundos  
-  * Fulmen  
-  * Fuses  
-  * Good-by Elvis and USA  
-  * Good-by Marilyn  
-  * Grève et pets  
-  * Grow Old Alone With Me  
-  * Hedonistic Communication  
-  * Holding  
-  * Hot Heat  
-  * Hot Nasty  
-  * Human events  
-  * Hurry! Hurry!  
-  * I Change I Am the Same  
-  * I Don't Know  
-  * Infinity Girl  
-  * Inner Man  
-  * Je, tu, il, elle  
-  * Johnny Minotaur  
-  * Kiss (The)  
-  * Lose Yourself With Me  
-  * Lotus  
-  * Love it / Leave it  
-  * Lovemaking  
-  * Madame a des envies  
-  * Mars exalté  
-  * Memory Slot – Track 1  
-  * Menses  
-  * Mixed-Double  
-  * Moment  
-  * Motoshinkakarannu  
-  * Multiple Orgasm  
-  * Near the Big Chakra  
-  * Nitrate Kisses  
-  * Nus masculins  
-  * Oblivion  
-  * Onanism  
-  * Orange  
-  * Orfeo filmando en el campo de batalla  
-  * Orgasmus  
-  * Par le trou de la serrure  
-  * Particulièrement valable  
-  * Passing Strangers  
-  * Permanent Waves  
-  * Phosphene  
-  * Piece Mandala / End War  
-  * Quartier des femmes (Le)  
-  * Satan bouche un coin  
-  * Sexe enragé (Le)  
-  * Take Off (With Magda)  
-  * Tapp und TastKino  
-  * Tête froide (La)  
-  * The Now  
-  * Un chant d'amour  
-  * undefined  
-  * Unfolding  
-  * Voluptuous Martyrdoms of the Magnificent Masturbators (The)  
-  * Women  
-  * X
+  * undefined
 
 ## La science-fiction en 25 films indispensables (25)
 
@@ -231,6 +151,7 @@
   * Caro Michele  
   * Casanova 70  
   * Chambre d'hôtel  
+  * Cuore rivelatore  
   * Dans les coulisses  
   * Donatella  
   * Double Vie de Mathias Pascal (La)  
@@ -240,7 +161,7 @@
   * Fille au pistolet (La)  
   * Gendarmes et Voleurs  
   * Grande Guerre (La)  
-  * Haute infidélité  
+  * Haute Infidélité  
   * Larmes de joie  
   * Male oscuro (Il)  
   * Marquis s'amuse (Le)  
@@ -249,14 +170,14 @@
   * Mes chers amis 2  
   * Mesdames et messieurs, bonsoir  
   * Nous voulons les colonels  
-  * Nouveaux monstres (Les)  
+  * Nouveaux Monstres (Les)  
   * Ogresses (Les)  
   * Panni sporchi  
   * Pères et Fils  
   * Pigeon (Le)  
   * Pourvu que ce soit une fille  
   * Romances et Confidences  
-  * Rose del deserto (Le)  
+  * Roses du désert (Les)  
   * Rossini! Rossini!  
   * Rosy la bourrasque  
   * Toh, è morta la nonna!  
@@ -266,7 +187,6 @@
   * Totò et les femmes  
   * Un bourgeois tout petit, petit  
   * Un héros de notre temps  
-  * undefined  
   * Une catin pour deux larrons  
   * Une famille formidable  
   * Voyage avec Anita
@@ -330,6 +250,7 @@
 
   * Agent britannique  
   * Aigle des mers (L')  
+  * Ange blanc (L')  
   * Anges aux figures sales (Les)  
   * Aventures de Don Juan (Les)  
   * Aventures de Robin des Bois (Les)  
@@ -346,24 +267,23 @@
   * Femme aimée est toujours jolie  
   * Femmes marquées  
   * Feu sur le gang  
-  * Glorieuse parade (La)  
-  * Grand sommeil (Le)  
+  * Glorieuse Parade (La)  
+  * Grand Sommeil (Le)  
   * Griffes jaunes  
   * Guerre ou crime  
-  * Impossible amour (L')  
+  * Impossible Amour (L')  
   * Intruse (L')  
   * Légion noire (La)  
   * Lettre (La)  
   * Mort n'était pas au rendez-vous (La)  
-  * Night Nurse  
   * Patrouille de l'aube (La)  
   * Petit Géant (Le)  
-  * Prologue  
+  * Piste de Santa Fe (La)  
+  * Prologues  
   * Qu'est-il arrivé à Baby Jane ?  
   * Témoin à abattre (Le)  
   * Tombeur (Le)  
   * Trésor de la Sierra Madre (Le)  
-  * undefined  
   * Une femme cherche son destin  
   * Voyage sans retour
 
@@ -374,8 +294,8 @@
   * Économie du couple (L')  
   * Femmes de Višegrad (Les)  
   * Gants blancs (Les)  
-  * Grand Chariot (Le)  
   * I Am Not a Witch  
+  * J'entends plus la guitare  
   * Mona et moi  
   * Nénette et Boni  
   * Outremer  

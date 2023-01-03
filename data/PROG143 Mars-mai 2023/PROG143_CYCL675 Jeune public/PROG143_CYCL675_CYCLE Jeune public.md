@@ -102,11 +102,13 @@ François est facteur, et même s'il distribue le courrier dans le petit bourg d
 
 - me 5 avr 15h00 GF
 
-[79092]  
-**Etre et avoir**  
-de Nicolas Philibert  
-France / 2001 / 104 min / VF / DCP  
-Immersion au cœur de l'école d'un petit village rural d'Auvergne, dans son unique classe qui va de la maternelle au CM2. Jour après jour, on suit le quotidien de cette petite communauté d'enfants qui s'organise autour de l'instituteur.
+[48045]  
+**Peau d'âne**  
+de Jacques Demy  
+France / 1970 / 89 min / DCP  
+D'après le conte _Peau d'âne_ de Charles Perrault.  
+Avec Catherine Deneuve, Jacques Perrin, Jean Marais, Delphine Seyrig.  
+Obéissant aux manigances de la Fée des lilas, Peau d'âne fuit son père, le roi, dissimulée sous sa fameuse peau de bête.
 
 - di 9 avr 15h00 GF
 
@@ -143,11 +145,7 @@ Qui pourrait se douter qu'un petit garçon cache un si grand secret ? Et qui pou
 de Michael Curtiz, William Keighley  
 États-Unis / 1937 / 102 min / VF / DCP  
 Avec Errol Flynn, Olivia De Havilland, Basil Rathbone, Claude Rains.  
-Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'arroger le trône d'Angleterre. Robin de Locksley se réfugie alors dans la forêt de Sherwood avec ses compagnons saxons et mène la révolte sous le nom de Robin des Bois.
-
----
-
-Le chevalier Robin des Bois, de son vrai nom Robin de Locksley, revient en chair et en os pour lutter contre le Prince Jean qui a pris la place sur le trône de son frère Richard Cœur de Lion. En brigand au grand cœur au service des pauvres, il organise la résistance contre l'usurpateur.  
+Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'arroger le trône d'Angleterre. Robin de Locksley se réfugie alors dans la forêt de Sherwood avec ses compagnons saxons et mène la révolte sous le nom de Robin des Bois.  
 Restauré par le MoMA en 2014.
 
 - di 23 avr 15h00 GF
@@ -181,9 +179,9 @@ Wallace, inventeur farfelu, et son flegmatique chien Gromit, enchaînent les ave
 **L'Aigle des mers**  
 **(The Sea Hawk)**  
 de Michael Curtiz  
-États-Unis / 1947 / 108 min / VOSTF / 35 mm  
+États-Unis / 1940 / 108 min / VOSTF / 35 mm  
 Avec Errol Flynn, Donald Crisp, Claude Rains.  
-En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La reine Elizabeth investit en secret le corsaire Geoffrey Thorpe d'une mission visant à harceler la flotte espagnole.
+En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La Reine Elizabeth investit en secret le corsaire Geoffrey Thorpe d'une mission visant à harceler la flotte espagnole.
 
 - di 7 mai 15h00 GF
 

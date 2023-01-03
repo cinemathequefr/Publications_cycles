@@ -166,7 +166,7 @@ de Peter Bogdanovich
 Avec Orson Welles, Peter Bogdanovich, John Ford, Henry Fonda.  
 Entretiens avec des acteurs ayant joué dans les films de John Ford, ponctués de nombreux extraits de films.
 
-- di 30 avr 15h00 JE
+- di 30 avr 15h30 JE
 
 [59823]  
 **Texasville**  

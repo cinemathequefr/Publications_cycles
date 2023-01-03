@@ -52,7 +52,7 @@ de Richard Lester
 Avec Paul McCartney.  
 La tournée mondiale en 1989-90 de Paul McCartney avec ses musiciens, une heure trente de live ponctuée d'interviews et d'images d'archives.
 
-- lu 20 mar 20h15 GF
+- lu 20 mar 20h30 GF
 
 [41637]  
 **Help!**  

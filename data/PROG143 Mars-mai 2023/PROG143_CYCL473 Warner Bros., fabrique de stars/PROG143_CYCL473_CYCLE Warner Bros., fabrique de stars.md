@@ -2,21 +2,14 @@
 
 ## Les films
 
-[45853]  
-****  
-undefined  
-110 min / VOSTF / 35 mm
-
-- ve 14 avr 18h30 GF  
-- je 11 mai 16h00 GF
-
 [31368]  
 **Agent britannique**  
 **(British Agent)**  
 de Michael Curtiz  
 États-Unis / 1934 / 81 min / VOSTF / 35 mm  
+D'après le roman _British Agent_ de R. H. Bruce Lockhart.  
 Avec Leslie Howard, Kay Francis, Cesar Romero.  
-1917 Stephen Locke, jeune agent britannique, sauve la vie d'Elena, la jeune secrétaire de Lénine. Il est par ailleurs chargé d'empêcher la signature d'un traité entre les Bolcheviks et les Allemands.
+1917. Stephen Locke, jeune agent britannique, sauve la vie d'Elena, la jeune secrétaire de Lénine. Il est par ailleurs chargé d'empêcher la signature d'un traité entre les Bolcheviks et les Allemands.
 
 - ve 12 mai 16h00 GF
 
@@ -24,11 +17,22 @@ Avec Leslie Howard, Kay Francis, Cesar Romero.
 **L'Aigle des mers**  
 **(The Sea Hawk)**  
 de Michael Curtiz  
-États-Unis / 1947 / 108 min / VOSTF / 35 mm  
+États-Unis / 1940 / 108 min / VOSTF / 35 mm  
 Avec Errol Flynn, Donald Crisp, Claude Rains.  
-En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La reine Elizabeth investit en secret le corsaire Geoffrey Thorpe d'une mission visant à harceler la flotte espagnole.
+En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La Reine Elizabeth investit en secret le corsaire Geoffrey Thorpe d'une mission visant à harceler la flotte espagnole.
 
 - di 7 mai 15h00 GF
+
+[72050]  
+**L'Ange blanc**  
+**(Night Nurse)**  
+de William A. Wellman  
+États-Unis / 1931 / 72 min / VOSTF / DCP  
+Avec Clark Gable, Barbara Stanwyck, Joan Blondell.  
+Lora Hart et Miss Maloney sont des apprenties infirmières dont la première mission est de prendre soin de deux fillettes gravement malades. Malgré leurs origines bourgeoises, celles-ci semblent souffrir de malnutrition. Elles découvrent alors que le médecin et le chauffeur de la famille affament volontairement ces enfants dans l'espoir de récupérer leur héritage.
+
+- me 26 avr 18h30 GF  
+- me 3 mai 18h30 GF
 
 [31357]  
 **Les Anges aux figures sales**  
@@ -36,7 +40,7 @@ En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La
 de Michael Curtiz  
 États-Unis / 1938 / 105 min / VOSTF / DCP  
 Avec James Cagney, Pat O'Brien, Humphrey Bogart, Ann Sheridan.  
-Rocky Sullivan et Jerry Connolly sont deux amis d'enfance qui ont pris des chemins radicalement différents. Alors que le premier est devenu prêtre, le second a plongé dans la délinquance et vient de sortir de prison.
+Rocky Sullivan et Jerry Connolly, deux amis d'enfance, ont pris des chemins radicalement différents. Alors que le premier est devenu prêtre, le second a plongé dans la délinquance et vient de sortir de prison.
 
 - di 16 avr 19h30 HL  
 - me 3 mai 20h45 GF
@@ -47,7 +51,7 @@ Rocky Sullivan et Jerry Connolly sont deux amis d'enfance qui ont pris des chemi
 de Vincent Sherman  
 États-Unis / 1948 / 110 min / VOSTF / 35 mm  
 Avec Errol Flynn, Viveca Lindfors, Raymond Burr.  
-Discrédité par sa turbulente vie amoureuse, Don cherche à se racheter en démasquant un complot visant la Reine Margaret dont il est tombé amoureux.
+Discrédité par sa turbulente vie amoureuse, Don Juan cherche à se racheter en démasquant un complot visant la Reine Margaret, dont il est tombé amoureux.
 
 - je 18 mai 16h00 GF
 
@@ -57,11 +61,7 @@ Discrédité par sa turbulente vie amoureuse, Don cherche à se racheter en dém
 de Michael Curtiz, William Keighley  
 États-Unis / 1937 / 102 min / VF / DCP  
 Avec Errol Flynn, Olivia De Havilland, Basil Rathbone, Claude Rains.  
-Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'arroger le trône d'Angleterre. Robin de Locksley se réfugie alors dans la forêt de Sherwood avec ses compagnons saxons et mène la révolte sous le nom de Robin des Bois.
-
----
-
-Le chevalier Robin des Bois, de son vrai nom Robin de Locksley, revient en chair et en os pour lutter contre le Prince Jean qui a pris la place sur le trône de son frère Richard Cœur de Lion. En brigand au grand cœur au service des pauvres, il organise la résistance contre l'usurpateur.  
+Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'arroger le trône d'Angleterre. Robin de Locksley se réfugie alors dans la forêt de Sherwood avec ses compagnons saxons et mène la révolte sous le nom de Robin des Bois.  
 Restauré par le MoMA en 2014.
 
 - di 23 avr 15h00 GF
@@ -71,8 +71,9 @@ Restauré par le MoMA en 2014.
 **(Wonder Bar)**  
 de Lloyd Bacon  
 États-Unis / 1933 / 85 min / VOSTF / 35 mm  
-Avec Dick Powell, Al Jolson, Kay Francis.  
-Dans un cabaret parisien, Harry, un danseur, flirte dangereusement avec une riche cliente, Madame Renaud. Séduite, cette dernière va alors lui offrir un bijou de sa collection personnelle.
+D'après la pièce _Die Wunderbar_ de Geza Herczeg, Karl Farkas, Robert Katscher.  
+Avec Dick Powell, Al Jolson, Kay Francis, Dolores del Rio.  
+Dans un cabaret parisien, Harry, un danseur, flirte avec une riche cliente, qui, séduite, lui offre un bijou de sa collection personnelle.
 
 - di 9 avr 19h00 HL
 
@@ -80,8 +81,8 @@ Dans un cabaret parisien, Harry, un danseur, flirte dangereusement avec une rich
 **Blonde Crazy**  
 de Roy Del Ruth  
 États-Unis / 1931 / 79 min / VOSTF / DCP  
-Avec James Cagney, Joan Blondell.  
-Bert et Ann travaillent dans le même hôtel, et deviennent vite un duo d'inséparables arnaqueurs...
+Avec James Cagney, Joan Blondell, Louis Calhern, Ray Milland.  
+Bert et Ann travaillent dans le même hôtel, et deviennent vite un duo d'inséparables arnaqueurs.
 
 - lu 24 avr 20h45 GF
 
@@ -90,7 +91,8 @@ Bert et Ann travaillent dans le même hôtel, et deviennent vite un duo d'insép
 **(The Hatchet Man)**  
 de William A. Wellman  
 États-Unis / 1931 / 74 min / VOSTF / 35 mm  
-Avec Edward G. Robinson.  
+D'après la pièce _The Honorable Mr. Wong_ de Achmed Abdullah et David Belasco.  
+Avec Edward G. Robinson, Loretta Young, Dudley Digges..  
 À San Francisco, dans le quartier de Chinatown, le membre du gang Wong Low Get reçoit l'ordre de tuer son ami d'enfance Sun Yat Ming. Avant sa mort, Sun lui demande de prendre soin de sa fille Toya San et de l'épouser lorsqu'elle sera adulte.
 
 - je 4 mai 20h30 GF
@@ -100,8 +102,9 @@ Avec Edward G. Robinson.
 **(Captain Blood)**  
 de Michael Curtiz  
 États-Unis / 1935 / 119 min / VOSTF / 35 mm  
+D'après le roman _Capitaine Blood_ de Rafael Sabatini.  
 Avec Errol Flynn, Olivia De Havilland, Basil Rathbone.  
-Les aventures de Peter Blood, médecin du XVIIe siècle, reconverti en pirate après avoir échappé à un emprisonnement injuste.
+Les aventures de Peter Blood, médecin du XVII<sup>e</sup> siècle, reconverti en pirate après avoir échappé à un emprisonnement injuste.
 
 - lu 17 avr 15h30 GF
 
@@ -125,7 +128,7 @@ de Michael Curtiz
 Avec Errol Flynn, Olivia de Havilland, Patric Knowles.  
 En 1854, au cours de la guerre de Crimée, l'Angleterre et la France choisissent de défendre la Turquie contre les Russes. Un régiment de brigade légère est envoyé au front, mené à l'échec par des officiers rivaux.
 
-- di 30 avr 20h30 GF
+- di 30 avr 20h45 GF
 
 [34758]  
 **Chercheuses d'or**  
@@ -165,7 +168,7 @@ de John Huston
 États-Unis / 1941 / 100 min / VOSTF / DCP  
 D'après le roman _Le Faucon maltais_ de Dashiell Hammett.  
 Avec Humphrey Bogart, Peter Lorre, Mary Astor, Gladys George.  
-Au cours d'une enquête, le privé Sam Spade retrouve son associé Miles Archer assassiné. Ses soupçons se portent d'abord sur la fascinante Brigid, mais la jeune femme lui demande son aide. Il découvre que l'affaire est liée à une statuette de faucon disparue, d'une valeur inestimable.
+Au cours d'une enquête, le privé Sam Spade retrouve son associé assassiné. Ses soupçons se portent d'abord sur la fascinante Brigid, mais la jeune femme lui demande son aide. Il découvre que l'affaire est liée à une statuette de faucon disparue, d'une valeur inestimable.
 
 - ve 21 avr 18h00 HL
 
@@ -176,7 +179,7 @@ de Vincent Sherman
 États-Unis / 1943 / 145 min / VOSTF / 35 mm  
 D'après le roman _Mr. Skeffington_ d'Elizabeth von Arnim.  
 Avec Bette Davis, Claude Rains, George Coulouris, Walter Abel.  
-Afin d'éviter de graves ennuis à son frère qui a détourné de l'argent de la banque dans laquelle il travaille pour effacer ses dettes de jeux, Fanny accepte de se marier avec Job Skeffington, un homme plus âgé qu'elle et patron de la banque en question.
+Lorsque son frère, criblé de dettes, détourne de l'argent dans la banque où il travaille pour se renflouer, Fanny accepte d'épouser le directeur de l'établissement, beaucoup plus âgé qu'elle.
 
 - di 23 avr 17h30 HL
 
@@ -202,7 +205,7 @@ Lew Marsh perd son travail à cause de son alcoolisme. Après une cure, alors qu
 - sa 15 avr 19h45 GF
 
 [31372]  
-**La Glorieuse parade**  
+**La Glorieuse Parade**  
 **(Yankee Doodle Dandy)**  
 de Michael Curtiz  
 États-Unis / 1941 / 126 min / VOSTF / 35 mm  
@@ -213,11 +216,11 @@ La vie du compositeur, chanteur et danseur George M. Cohan, de ses premiers pas 
 - ve 5 mai 16h00 GF
 
 [32602]  
-**Le Grand sommeil**  
+**Le Grand Sommeil**  
 **(The Big Sleep)**  
 de Howard Hawks  
 États-Unis / 1944 / 114 min / VOSTF / 35 mm  
-D'après le roman _Le Grand sommeil_ de Raymond Chandler.  
+D'après le roman _Le Grand Sommeil_ de Raymond Chandler.  
 Avec Humphrey Bogart, Lauren Bacall, Martha Vickers.  
 Le privé Philip Marlowe est embauché par le général Sternwood pour éclaircir l'affaire des dettes de jeu de sa fille Carmen. Marlowe découvre bientôt que la jeune femme est victime d'un chantage.
 
@@ -230,9 +233,9 @@ Séance présentée par Serge Chauvin
 **(Across the Pacific)**  
 de John Huston, Vincent Sherman  
 États-Unis / 1942 / 97 min / VOSTF / 16 mm  
-D'après le feuilleton _Aloha means goodbye_ de Robert Carson.  
+D'après le feuilleton _Aloha Means Goodbye_ de Robert Carson.  
 Avec Humphrey Bogart, Mary Astor, Sydney Greenstreet.  
-1941\. Condamné par une cour martiale, le capitaine Leland quitte l'armée et prend un navire japonais à destination de Yokohama. Il y fait la connaissance du docteur Lorenz qui ne cache pas sa sympathie pour les Japonais. Lorenz cherche alors à savoir si Leland serait disposé à travailler pour eux.
+1941. Condamné par une cour martiale, le capitaine Leland quitte l'armée et prend un navire japonais vers Yokohama. Il y rencontre le docteur Lorenz, qui ne cache pas sa sympathie pour les Japonais, et cherche alors à savoir si Leland serait disposé à travailler pour eux.
 
 - je 4 mai 16h00 GF
 
@@ -247,13 +250,13 @@ Al Kruger, chef d'un gang, et son bras droit, Nick Fenner, sèment la terreur en
 - me 26 avr 20h30 GF
 
 [36726]  
-**L'Impossible amour**  
+**L'Impossible Amour**  
 **(Old Acquaintance)**  
 de Vincent Sherman  
 États-Unis / 1942 / 110 min / VOSTF / 35 mm  
-D'après la pièce _Old acquaintance_ de John Van Druten.  
+D'après la pièce _Old Acquaintance_ de John Van Druten.  
 Avec Bette Davis, Miriam Hopkins, Gig Young.  
-Kit Marlowe, romancière confirmée, fait publier le roman de son amie d'enfance Millie Drake, qui devient un best seller. Devenue un auteur à succès, Millie ne se rend pas compte que son mari Preston se détache d'elle et tombe amoureux de Kit.
+Kit Marlowe, romancière confirmée, fait publier le roman de son amie d'enfance Millie Drake, qui devient un best-seller. Mais Millie ne se rend pas compte que son mari Preston se détache d'elle et tombe amoureux de Kit.
 
 - sa 8 avr 19h30 HL  
 Séance présentée par Serge Chauvin
@@ -267,15 +270,15 @@ Avec Bette Davis, Franchot Tone, Margaret Lindsay.
 Don Bellows rencontre dans un bar la grande actrice de théâtre Joyce Heath. Devenue alcoolique, elle lui avoue qu'elle est seule et ruinée. Malgré les reproches de Mrs Williams, la gouvernante, elle s'installe chez lui.
 
 - sa 29 avr 20h00 GF  
-- me 3 mai 16h30 GF
+- me 3 mai 16h45 GF
 
 [34478]  
 **La Légion noire**  
 **(Black Legion)**  
 d'Archie Mayo  
 États-Unis / 1936 / 83 min / VOSTF / 35 mm  
-Avec Humphrey Bogart, Ann Sheridan.  
-Frank, un ouvrier travaillant dur, perd son travail au profit d'un ouvrier d'origine polonaise. Il rejoint alors une organisation secrète, la Légion Noire, qui commet des actes de violence contre les étrangers.
+Avec Humphrey Bogart, Ann Sheridan, Erin O'Brien-Moore.  
+Frank, un ouvrier travaillant dur, perd son travail au profit d'un immigrant polonais. Il rejoint alors une organisation secrète, la Légion Noire, qui commet des actes de violence contre les étrangers.
 
 - sa 29 avr 17h45 GF
 
@@ -286,10 +289,10 @@ de William Wyler
 États-Unis / 1940 / 95 min / VOSTF / 35 mm  
 D'après la pièce _The Letter_ de William Somerset Maugham.  
 Avec Bette Davis, Herbert Marshall, James Stephenson.  
-Alors que son mari part inspecter sa plantation de caoutchouc, Leslie Crosbie tue Geoffroy Hammond, un ami de la famille. Elle prétend que l'homme voulait abuser d'elle. Si son mari la croit sur parole, leur avocat a des doutes.
+Alors que son mari part inspecter sa plantation de caoutchouc, Leslie Crosbie tue Geoffroy Hammond, un ami de la famille, qui aurait tenté d'abuser d'elle. Si son mari la croit sur parole, leur avocat a des doutes.
 
 - ve 7 avr 18h00 HL  
-- ve 21 avr 21h15 HL
+- ve 21 avr 20h30 HL
 
 [30749]  
 **La Mort n'était pas au rendez-vous**  
@@ -301,23 +304,13 @@ Un homme tombe amoureux de sa belle-sœur et échafaude une machination pour se 
 
 - sa 22 avr 20h45 HL
 
-[72050]  
-**Night Nurse**  
-de William A. Wellman  
-États-Unis / 1931 / 72 min / VOSTF / DCP  
-Avec Clark Gable, Barbara Stanwyck, Joan Blondell.  
-Lora Hart et Miss Maloney sont des apprenties infirmières dont la première mission est de prendre soin de deux fillettes gravement malades. Malgré leurs origines bourgeoises, celles-ci semblent souffrir de malnutrition. Elles découvrent alors que le médecin et le chauffeur de la famille affament volontairement ces enfants dans l'espoir de récupérer leur héritage.
-
-- me 26 avr 18h30 GF  
-- me 3 mai 18h30 GF
-
 [32274]  
 **La Patrouille de l'aube**  
 **(The Dawn Patrol)**  
 d'Edmund Goulding  
 États-Unis / 1938 / 103 min / VOSTF / 35 mm  
 Avec Errol Flynn, Basil Rathbone, David Niven.  
-Pendant la Première Guerre Mondiale, un escadron de l'aviation britannique voit tous les jours s'envoler vers la mort de jeunes recrues inexpérimentées. Le capitaine Courtney, un officier que cette boucherie rend fou, s'en prend au major Brand, lui-même impuissant face à cette situation.
+Pendant la Première Guerre mondiale, un escadron de l'aviation britannique voit tous les jours s'envoler vers la mort de jeunes recrues inexpérimentées. Le capitaine Courtney, un officier que cette boucherie rend fou, s'en prend au major Brand, lui-même impuissant face à cette situation.
 
 - je 27 avr 17h00 GF
 
@@ -327,12 +320,23 @@ Pendant la Première Guerre Mondiale, un escadron de l'aviation britannique voit
 de Roy Del Ruth  
 États-Unis / 1933 / 74 min / VOSTF / 16 mm  
 Avec Edward G. Robinson, Mary Astor.  
-Texte à saisir
+À peine élu, Roosevelt décrète la fin de la prohibition. Un baron de la bière de Chicago cesse au même moment ses activités illicites, et part pour la Californie où il espère conquérir la haute société.
 
 - sa 8 avr 17h15 HL
 
+[45853]  
+**La Piste de Santa Fe**  
+**(Santa Fe Trail)**  
+de Michael Curtiz  
+États-Unis / 1949 / 110 min / VOSTF / 35 mm  
+Avec Errol Flynn, Olivia De Havilland, Raymond Massey, Ronald Reagan.  
+1854. Les États-Unis se forment peu à peu, mais l'esclavagisme du Sud gêne de nombreux Américains, dont John Brown, fanatique abolitionniste qui commet des massacres pour libérer les esclaves.
+
+- ve 14 avr 18h30 GF  
+- je 11 mai 16h00 GF
+
 [30524]  
-**Prologue**  
+**Prologues**  
 **(Footlight Parade)**  
 de Lloyd Bacon  
 États-Unis / 1933 / 102 min / VOSTF / 35 mm  
@@ -348,7 +352,7 @@ de Robert Aldrich
 États-Unis / 1962 / 132 min / VOSTF / DCP  
 D'après le roman _What Ever Happened to Baby Jane? _ de Henry Farrell.  
 Avec Bette Davis, Joan Crawford, Victor Buono.  
-« Baby Jane » Hudson a été une enfant star dans les années 1910. Plus tard, sa sœur Blanche a connu elle aussi la gloire mais un étrange accident l'a rendue infirme, mettant fin à sa carrière. Désormais, elles vivent ensemble.
+« Baby Jane » Hudson a été une enfant star dans les années 1910. Plus tard, sa sœur Blanche a connu elle aussi la gloire, mais un étrange accident l'a rendue infirme, mettant fin à sa carrière. Désormais, elles vivent ensemble.
 
 - je 20 avr 21h00 HL  
 Séance présentée par Serge Chauvin  
@@ -369,8 +373,8 @@ Un ancien procureur devient l'avocat d'un gangster.
 **(Lady Killer)**  
 de Roy Del Ruth  
 États-Unis / 1933 / 73 min / VOSTF / 35 mm  
-Avec James Cagney.  
-Dan Quigley, un gangster en cavale lâché par ses amis, parvient à se planquer dans un studio d'Hollywood. Bientôt il devient figurant, puis grande vedette de cinéma. Dan s'éprend alors d'une collègue, mais doit affronter le retour offensif de ses anciens complices.
+Avec James Cagney, Mae Clark, Margaret Lindsay.  
+Un gangster en cavale, lâché par ses amis, se cache dans un studio d'Hollywood. Il y devient figurant, puis grande vedette de cinéma, et s'éprend d'une collègue. Mais il doit affronter le retour de ses anciens complices.
 
 - di 30 avr 18h30 GF
 
@@ -403,7 +407,7 @@ Voir aussi conférence p. xx
 de Tay Garnett  
 États-Unis / 1932 / 67 min / VOSTF / 35 mm  
 Avec William Powell, Kay Francis, Frank McHugh.  
-Dan et Joan se rencontrent alors qu'ils traversent le Pacifique de Hong-Kong à San Francisco. Ils tombent amoureux mais savent que leur histoire sera sans lendemain car Joan est gravement malade et Dan est un criminel recherché par la police voué à la peine de mort.
+Dan et Joan tombent amoureux alors qu'ils traversent le Pacifique. Mais ils savent que leur histoire sera sans lendemain, car Joan est gravement malade tandis que Dan est un criminel recherché par la police, et voué à la peine de mort.
 
 - ve 7 avr 20h00 HL  
 - me 10 mai 18h00 HL

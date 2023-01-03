@@ -11,7 +11,7 @@ Avec Keir Dullea, Gary Lockwood.
 À l'aube de l'humanité, une tribu de primates découvre un étrange monolithe noir. Quatre millions d'années plus tard, deux astronautes font route vers Jupiter à bord du vaisseau Discovery, sous le contrôle de HAL 9000, un ordinateur exceptionnel doué d'intelligence et de parole.  
 Tourné en Super-Panavision 70 Todd-AO / Technicolor. Son 6-pistes DTS digital stéréo. Copie restaurée.
 
-- me 22 mar 20h00 HL
+- je 23 mar 20h00 HL
 
 [30822]  
 **Abyss**  
@@ -50,7 +50,8 @@ Avec Sigourney Weaver, John Hurt, Ian Holm, Tom Skerritt, Veronica Cartwright.
 Une dangereuse créature extraterrestre à bord du « Nostromo », un vaisseau spatial en route pour la Terre, s'attaque aux sept membres de l'équipage, un par un. Le lieutenant Ellen Ripley va affronter cet indésirable huitième passager.  
 Restauration 4K menée en 2018 par la 20th Century Fox à la Company 3/Deluxe Entertainment Services Group, sous la supervision de Ridley Scott et Pam Dery.
 
-- ve 17 mar 20h30 HL
+- ve 17 mar 20h45 HL  
+Séance présentée par Bernard Benoliel
 
 [48840]  
 **Alphaville, une étrange aventure de Lemmy Caution**  
@@ -70,7 +71,8 @@ D'après la nouvelle _Who Goes There ?_ de John W. Campbell Jr.
 Avec Kurt Russell, Wilford Brimley, T.K. Carter.  
 Dans une station de l'Antarctique, une mystérieuse créature polymorphe tue les membres d'une expédition en assimilant toute forme de vie, semant la peur et la paranoïa.
 
-- di 26 mar 16h30 HL
+- di 26 mar 16h30 HL  
+Séance présentée par Jean-François Rauger
 
 [121118]  
 **Gravity**  
@@ -91,7 +93,7 @@ D'après la nouvelle _La Guerre des mondes_ de H.G. Wells.
 Avec Tom Cruise, Dakota Fanning, Miranda Otto.  
 D'étranges et gigantesques machines venues de l'espace surgissent brusquement et détruisent tout sur leur passage. Ray Ferrier et sa famille vont devoir se battre pour leur survie.
 
-- je 23 mar 20h45 HL
+- me 22 mar 21h00 HL
 
 [58029]  
 **L'Invasion des profanateurs de sépultures**  
@@ -102,7 +104,8 @@ D'après le roman _L'Invasion des profanateurs_ de Jack Finney.
 Avec Kevin McCarthy, Dana Wynter, King Donovan, Carolyn Jones.  
 Dans une petite ville de Californie, le médecin local constate un comportement étrange chez les habitants, qui paraissent soudain dénués d'émotions. Peu à peu, il comprend qu'une invasion extraterrestre est en cours.
 
-- sa 25 mar 17h30 GF
+- sa 25 mar 17h30 GF  
+Séance présentée par Jean-François Rauger
 
 [50886]  
 **Je t'aime, je t'aime**  
@@ -163,7 +166,8 @@ D'après la série télévisée _Quatermass and the Pit_.
 Avec Brian Donlevy, Margia Dean, Thora Hird, Jack Warner.  
 Une expédition spatiale revient de mission avec un seul survivant à bord qui se transforme progressivement en monstre, ce qui intrigue le physicien Quatermass.
 
-- lu 27 mar 18h30 GF
+- lu 27 mar 18h30 HL  
+Séance présentée par Jean-François Rauger
 
 [41679]  
 **Les Monstres de l'espace**  
@@ -174,7 +178,8 @@ D'après la série télévisée _Quatermass and the Pit_.
 Avec James Donald, Andrew Keir, Barbara Shelley.  
 Un vaisseau spatial d'origine martienne est découvert dans le métro londonien. Le professeur Quatermass mène l'enquête.
 
-- lu 27 mar 20h30 GF
+- lu 27 mar 20h30 HL  
+Séance présentée par Jean-François Rauger
 
 [31330]  
 **La Mouche**  
@@ -196,7 +201,8 @@ D'après le roman _La Variété Andromède_ de Michael Crichton.
 Avec Arthur Hill, David Wayne, Kate Reid.  
 Après la chute d'une sonde spatiale, une épidémie frappe une bourgade mexicaine. Quatre scientifiques des services bactériologiques de l'armée enquêtent sur ce mystérieux phénomène, qui menace l'humanité entière.
 
-- sa 25 mar 19h30 GF
+- sa 25 mar 19h30 GF  
+Séance présentée par Jean-François Rauger
 
 [45137]  
 **Rencontres du troisième type**  
@@ -247,7 +253,8 @@ de John Carpenter
 Avec Jeff Bridges, Karen Allen, Charles Martin Smith.  
 Échoué sur Terre et pourchassé par l'armée américaine, un extraterrestre trouve refuge chez une jeune femme et prend l'apparence de son défunt mari.
 
-- ve 17 mar 18h00 HL
+- ve 17 mar 18h00 HL  
+Séance présentée par Bernard Benoliel
 
 [29109]  
 **Starship Troopers**  
@@ -257,5 +264,6 @@ D'après le roman _Étoiles, garde-à-vous !_ de Robert A. Heinlein.
 Avec Casper Van Dien, Dina Meyer, Denise Richards, Neil Patrick Harris.  
 Dans un futur totalitaire, aux confins d'une galaxie inconnue, une armée d'arachnides géants menace l'humanité. Cinq jeunes soldats s'engagent dans l'armée pour combattre ces nouveaux envahisseurs.
 
-- je 23 mar 18h00 HL
+- me 22 mar 18h00 HL  
+Séance présentée par Jean-François Rauger
 
