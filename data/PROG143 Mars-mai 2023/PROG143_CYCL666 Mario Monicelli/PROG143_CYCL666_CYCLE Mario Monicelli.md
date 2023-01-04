@@ -64,7 +64,7 @@ Italie-France-Yougoslavie / 1963 / 128 min / VOSTF / DCP
 Avec Marcello Mastroianni, Renato Salvatori, Bernard Blier.  
 Turin, fin du XIX<sup>e</sup> siècle. Dans une fabrique textile, trois ouvriers entrent en conflit avec le contremaître. Alors que des sanctions tombent, l'instituteur Sinigaglia, un militant socialiste fraîchement arrivé de Gênes, pousse les travailleurs à s'organiser.
 
-- di 30 avr 17h30 HL  
+- di 30 avr 18h00 HL  
 Séance présentée par Jean A. Gili  
 - di 14 mai 17h30 GF
 
@@ -292,7 +292,7 @@ Italie / 1976 / 118 min / VOSTF / DCP
 Avec Marcello Mastroianni, Ugo Tognazzi, Vittorio Gassman, Andréa Ferreol, Nino Manfredi.  
 Film collectif à sketches parodiant un programme télévisé italien.
 
-- di 30 avr 20h15 HL
+- di 30 avr 20h45 HL
 
 [43867]  
 **Nous voulons les colonels**  
@@ -374,7 +374,8 @@ Italie / 1974 / 102 min / VOSTF / DCP
 Avec Ugo Tognazzi, Ornella Muti, Michele Placido.  
 Un quinquagénaire épouse sa filleule de trente ans sa cadette. Il est peu à peu rongé par la jalousie.
 
-- sa 29 avr 18h15 HL
+- sa 29 avr 18h15 HL  
+Séance présentée par Jean-François Rauger
 
 [101591]  
 **Les Roses du désert**  

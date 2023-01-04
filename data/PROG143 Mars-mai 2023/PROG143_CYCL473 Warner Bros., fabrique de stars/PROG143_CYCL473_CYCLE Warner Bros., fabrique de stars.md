@@ -128,7 +128,7 @@ de Michael Curtiz
 Avec Errol Flynn, Olivia de Havilland, Patric Knowles.  
 En 1854, au cours de la guerre de Crimée, l'Angleterre et la France choisissent de défendre la Turquie contre les Russes. Un régiment de brigade légère est envoyé au front, mené à l'échec par des officiers rivaux.
 
-- di 30 avr 20h45 GF
+- di 30 avr 19h15 GF
 
 [34758]  
 **Chercheuses d'or**  
@@ -198,7 +198,7 @@ La lutte du procureur David Graham pour condamner Johnny Vanning, le patron vér
 **(Come Fill the Cup)**  
 de Gordon Douglas  
 États-Unis / 1951 / 115 min / VOSTF / 35 mm  
-D'après le roman _Come, Fill the Cup_ de Harlan Ware.  
+D'après le roman _Come Fill the Cup_ de Harlan Ware.  
 Avec James Cagney, Phyllis Thaxter, Raymond Massey.  
 Lew Marsh perd son travail à cause de son alcoolisme. Après une cure, alors qu'il décide d'aider à son tour les alcooliques, il est engagé pour soigner le fiancé de son ancienne petite amie.
 
@@ -259,7 +259,8 @@ Avec Bette Davis, Miriam Hopkins, Gig Young.
 Kit Marlowe, romancière confirmée, fait publier le roman de son amie d'enfance Millie Drake, qui devient un best-seller. Mais Millie ne se rend pas compte que son mari Preston se détache d'elle et tombe amoureux de Kit.
 
 - sa 8 avr 19h30 HL  
-Séance présentée par Serge Chauvin
+Séance présentée par Serge Chauvin  
+- di 30 avr 14h30 GF
 
 [32832]  
 **L'Intruse**  
@@ -376,7 +377,7 @@ de Roy Del Ruth
 Avec James Cagney, Mae Clark, Margaret Lindsay.  
 Un gangster en cavale, lâché par ses amis, se cache dans un studio d'Hollywood. Il y devient figurant, puis grande vedette de cinéma, et s'éprend d'une collègue. Mais il doit affronter le retour de ses anciens complices.
 
-- di 30 avr 18h30 GF
+- di 30 avr 17h30 GF
 
 [33476]  
 **Le Trésor de la Sierra Madre**  

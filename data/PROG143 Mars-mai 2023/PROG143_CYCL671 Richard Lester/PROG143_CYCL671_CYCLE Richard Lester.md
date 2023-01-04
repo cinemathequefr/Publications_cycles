@@ -60,7 +60,7 @@ Grande-Bretagne / 1965 / 92 min / VOSTF / Numérique
 Avec John Lennon, Paul McCartney, George Harrison, Ringo Starr.  
 Les Beatles sont menacés par une mystérieuse secte maléfique.
 
-- sa 25 mar 18h30 HL  
+- sa 25 mar 18h00 HL  
 - lu 3 avr 16h30 GF
 
 [147487]  
@@ -115,7 +115,7 @@ Panama / 1974 / 107 min / DCP
 Avec Michael York, Oliver Reed, Raquel Welch, Richard Chamberlain.  
 Pour prendre sa revanche sur d'Artagnan, qui a déjoué le complot des ferrets de la reine, Milady fait enlever son amie Constance. Les Mousquetaires tentent alors de la délivrer.
 
-- sa 18 mar 20h30 HL
+- sa 18 mar 17h30 HL
 
 [34225]  
 **Petulia**  
@@ -125,7 +125,7 @@ D'après le roman _Me and the Arch Kook Petulia_ de John Haase.
 Avec Julie Christie, George C. Scott, Richard Chamberlain.  
 Au cours d'une soirée de charité, le docteur Archie Bollen rencontre Petulia, une très belle femme mariée. Ils passent la nuit ensemble. C'est le début d'une liaison extravagante qui va bouleverser la vie d'Archie.
 
-- sa 25 mar 20h30 HL  
+- sa 25 mar 19h30 GF  
 - ve 31 mar 18h30 HL
 
 [41631]  
@@ -147,7 +147,7 @@ Grande-Bretagne-France-Espagne / 1989 / 102 min
 Avec Michael York, Oliver Reed, Richard Chamberlain, Philippe Noiret.  
 France, 1649. Le cardinal Mazarin ordonne à d'Artagnan de retrouver Athos, Porthos et Aramis pour les mettre à son service.
 
-- di 19 mar 17h30 GF
+- sa 18 mar 20h00 HL
 
 [69732]  
 **The Ritz**  
@@ -157,7 +157,7 @@ D'après la pièce _The Ritz_ de Terrence McNally.
 Avec Jack Weston, Rita Moreno, Jerry Stiller.  
 Pourchassé par un tueur de la pègre, un homme demande à un chauffeur de taxi de le conduire dans un lieu sûr. Il trouve refuge au Ritz, qui s'avère être un sauna gay.
 
-- sa 18 mar 15h00 GF
+- di 19 mar 17h30 GF
 
 [41553]  
 **La Rose et la flèche**  
@@ -230,7 +230,7 @@ D'après le roman _Les Trois Mousquetaires_ d'Alexandre Dumas.
 Avec Michael York, Oliver Reed, Raquel Welch, Richard Chamberlain.  
 Arrivant à Paris de sa Gascogne natale, d'Artagnan parvient à entrer dans le fameux régiment des Mousquetaires du roi Louis XIII. Il se lie d'amitié avec trois d'entre eux : Athos, Porthos et Aramis. Ils contribueront à déjouer un complot ourdi par le cardinal de Richelieu.
 
-- sa 18 mar 18h15 HL
+- sa 18 mar 15h00 HL
 
 [41633]  
 **L'Ultime garconnière**  

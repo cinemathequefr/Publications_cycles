@@ -251,6 +251,41 @@
     "hashEvenement": "f30920"
   },
   {
+    "idSeance": 90595,
+    "idEvenement": 27806,
+    "dateHeure": "2023-03-17T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Fenêtre sur les collections",
+        "Le Regalscope"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 68182,
+        "titre": "Cri des Apaches",
+        "art": "Le",
+        "realisateurs": "Jodie Copeland",
+        "annee": 1958,
+        "duree": 67,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 154302,
+        "titre": "Black Whip",
+        "art": "The",
+        "realisateurs": "Charles Marquis Warren",
+        "annee": 1956,
+        "duree": 81,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f68182f154302"
+  },
+  {
     "idSeance": 92735,
     "idEvenement": 27509,
     "dateHeure": "2023-03-17T20:00:00",
@@ -304,11 +339,15 @@
     "idSeance": 90627,
     "idEvenement": 27581,
     "dateHeure": "2023-03-18T14:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Le cinéma d'espionnage (3e partie)",
         "Les films"
+      ],
+      [
+        "Le cinéma d'espionnage (3e partie)",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -319,47 +358,7 @@
         "annee": 2009,
         "duree": 99,
         "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f106772"
-  },
-  {
-    "idSeance": 92738,
-    "idEvenement": 27500,
-    "dateHeure": "2023-03-18T15:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Richard Lester",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 69732,
-        "titre": "Ritz",
-        "art": "The",
-        "realisateurs": "Richard Lester",
-        "annee": 1976,
-        "duree": 91,
-        "version": "VOSTF",
-        "format": "16 mm"
-      }
-    ],
-    "hashEvenement": "f69732"
-  },
-  {
-    "idSeance": 92685,
-    "idEvenement": 27677,
-    "dateHeure": "2023-03-18T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le cinéma d'espionnage (3e partie)",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 27677,
         "titre": "Espions+ dialogue avec Nicolas Saada",
@@ -367,36 +366,12 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c27677"
+    "hashEvenement": "f106772c27677"
   },
   {
-    "idSeance": 90632,
-    "idEvenement": 27518,
-    "dateHeure": "2023-03-18T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "La science-fiction en 25 films indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 40965,
-        "titre": "Aelita",
-        "realisateurs": "Yakov Protazanov",
-        "annee": 1924,
-        "duree": 111,
-        "version": "INT. FR.",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f40965"
-  },
-  {
-    "idSeance": 92736,
+    "idSeance": 92997,
     "idEvenement": 27507,
-    "dateHeure": "2023-03-18T18:15:00",
+    "dateHeure": "2023-03-18T15:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -419,32 +394,9 @@
     "hashEvenement": "f54263"
   },
   {
-    "idSeance": 90633,
-    "idEvenement": 27524,
-    "dateHeure": "2023-03-18T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "La science-fiction en 25 films indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 50886,
-        "titre": "Je t'aime, je t'aime",
-        "realisateurs": "Alain Resnais",
-        "annee": 1967,
-        "duree": 91,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f50886"
-  },
-  {
-    "idSeance": 92737,
+    "idSeance": 92998,
     "idEvenement": 27494,
-    "dateHeure": "2023-03-18T20:30:00",
+    "dateHeure": "2023-03-18T17:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -463,6 +415,76 @@
       }
     ],
     "hashEvenement": "f56850"
+  },
+  {
+    "idSeance": 90632,
+    "idEvenement": 27518,
+    "dateHeure": "2023-03-18T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40965,
+        "titre": "Aelita",
+        "realisateurs": "Yakov Protazanov",
+        "annee": 1924,
+        "duree": 111,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f40965"
+  },
+  {
+    "idSeance": 92999,
+    "idEvenement": 27499,
+    "dateHeure": "2023-03-18T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Richard Lester",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41592,
+        "titre": "Retour des Mousquetaires",
+        "art": "Le",
+        "realisateurs": "Richard Lester",
+        "annee": 1989,
+        "duree": 102
+      }
+    ],
+    "hashEvenement": "f41592"
+  },
+  {
+    "idSeance": 90633,
+    "idEvenement": 27524,
+    "dateHeure": "2023-03-18T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50886,
+        "titre": "Je t'aime, je t'aime",
+        "realisateurs": "Alain Resnais",
+        "annee": 1967,
+        "duree": 91,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f50886"
   },
   {
     "idSeance": 90644,
@@ -529,8 +551,8 @@
     "hashEvenement": "f37482"
   },
   {
-    "idSeance": 92740,
-    "idEvenement": 27499,
+    "idSeance": 92996,
+    "idEvenement": 27500,
     "dateHeure": "2023-03-19T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -541,15 +563,17 @@
     ],
     "items": [
       {
-        "idFilm": 41592,
-        "titre": "Retour des Mousquetaires",
-        "art": "Le",
+        "idFilm": 69732,
+        "titre": "Ritz",
+        "art": "The",
         "realisateurs": "Richard Lester",
-        "annee": 1989,
-        "duree": 102
+        "annee": 1976,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f41592"
+    "hashEvenement": "f69732"
   },
   {
     "idSeance": 92539,
@@ -1105,7 +1129,7 @@
   {
     "idSeance": 92749,
     "idEvenement": 27497,
-    "dateHeure": "2023-03-25T18:30:00",
+    "dateHeure": "2023-03-25T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1127,36 +1151,10 @@
     "hashEvenement": "f41637"
   },
   {
-    "idSeance": 92808,
-    "idEvenement": 27528,
+    "idSeance": 93005,
+    "idEvenement": 27495,
     "dateHeure": "2023-03-25T19:30:00",
     "salle": "GF",
-    "cycle": [
-      [
-        "La science-fiction en 25 films indispensables",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Jean-François Rauger",
-    "items": [
-      {
-        "idFilm": 37314,
-        "titre": "Mystère Andromède",
-        "art": "Le",
-        "realisateurs": "Robert Wise",
-        "annee": 1970,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f37314"
-  },
-  {
-    "idSeance": 92816,
-    "idEvenement": 27495,
-    "dateHeure": "2023-03-25T20:30:00",
-    "salle": "HL",
     "cycle": [
       [
         "Richard Lester",
@@ -1175,6 +1173,31 @@
       }
     ],
     "hashEvenement": "f34225"
+  },
+  {
+    "idSeance": 93006,
+    "idEvenement": 27528,
+    "dateHeure": "2023-03-25T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 37314,
+        "titre": "Mystère Andromède",
+        "art": "Le",
+        "realisateurs": "Robert Wise",
+        "annee": 1970,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f37314"
   },
   {
     "idSeance": 92746,
@@ -1275,6 +1298,30 @@
     "hashEvenement": "f45344"
   },
   {
+    "idSeance": 90816,
+    "idEvenement": 27529,
+    "dateHeure": "2023-03-26T19:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 53695,
+        "titre": "Solaris",
+        "realisateurs": "Andreï Tarkovski",
+        "annee": 1971,
+        "duree": 165,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f53695"
+  },
+  {
     "idSeance": 92755,
     "idEvenement": 27619,
     "dateHeure": "2023-03-26T19:45:00",
@@ -1307,30 +1354,6 @@
       }
     ],
     "hashEvenement": "f89099f41625"
-  },
-  {
-    "idSeance": 90816,
-    "idEvenement": 27529,
-    "dateHeure": "2023-03-26T20:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "La science-fiction en 25 films indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 53695,
-        "titre": "Solaris",
-        "realisateurs": "Andreï Tarkovski",
-        "annee": 1971,
-        "duree": 165,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f53695"
   },
   {
     "idSeance": 92987,
@@ -1671,28 +1694,29 @@
     "hashEvenement": "f34225"
   },
   {
-    "idSeance": 92776,
-    "idEvenement": 27014,
+    "idSeance": 93001,
+    "idEvenement": 26068,
     "dateHeure": "2023-03-31T19:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Cinéma bis",
-        "Espionnage pop à la française"
+        "Raretés de l'espionnage"
       ]
     ],
     "items": [
       {
-        "idFilm": 38734,
-        "titre": "Carré de dames pour un as",
-        "realisateurs": "Jacques Poitrenaud",
-        "annee": 1966,
-        "duree": 95,
+        "idFilm": 56461,
+        "titre": "Sursis",
+        "art": "Le",
+        "realisateurs": "Peter Collinson",
+        "annee": 1977,
+        "duree": 101,
         "version": "VF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f38734"
+    "hashEvenement": "f56461"
   },
   {
     "idSeance": 92760,
@@ -1718,33 +1742,34 @@
     "hashEvenement": "f41511"
   },
   {
-    "idSeance": 92777,
-    "idEvenement": 27017,
+    "idSeance": 93002,
+    "idEvenement": 27024,
     "dateHeure": "2023-03-31T21:15:00",
     "salle": "GF",
     "cycle": [
       [
         "Cinéma bis",
-        "Espionnage pop à la française"
+        "Raretés de l'espionnage"
       ]
     ],
     "items": [
       {
-        "idFilm": 46694,
-        "titre": "Atout cœur à Tokyo pour OSS 117",
-        "realisateurs": "Michel Boisrond",
+        "idFilm": 77230,
+        "titre": "Mission suicide à Singapour",
+        "realisateurs": "Ferdinando Baldi",
         "annee": 1966,
-        "duree": 90,
-        "format": "DCP"
+        "duree": 97,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f46694"
+    "hashEvenement": "f77230"
   },
   {
     "idSeance": 92826,
     "idEvenement": 27230,
     "dateHeure": "2023-04-01T14:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Hugo Fregonese",
@@ -1778,7 +1803,7 @@
     "idSeance": 92774,
     "idEvenement": 27434,
     "dateHeure": "2023-04-01T15:00:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Le cinéma d'espionnage (3e partie)",
@@ -1797,6 +1822,30 @@
       }
     ],
     "hashEvenement": "f45051"
+  },
+  {
+    "idSeance": 92581,
+    "idEvenement": 27573,
+    "dateHeure": "2023-04-01T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31214,
+        "titre": "Mondwest",
+        "realisateurs": "Michael Crichton",
+        "annee": 1973,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f31214"
   },
   {
     "idSeance": 92768,
@@ -1824,9 +1873,9 @@
     "hashEvenement": "f52236"
   },
   {
-    "idSeance": 92581,
-    "idEvenement": 27573,
-    "dateHeure": "2023-04-01T18:30:00",
+    "idSeance": 90973,
+    "idEvenement": 27571,
+    "dateHeure": "2023-04-01T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1836,16 +1885,15 @@
     ],
     "items": [
       {
-        "idFilm": 31214,
-        "titre": "Mondwest",
-        "realisateurs": "Michael Crichton",
-        "annee": 1973,
-        "duree": 88,
-        "version": "VOSTF",
+        "idFilm": 48840,
+        "titre": "Alphaville, une étrange aventure de Lemmy Caution",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 1965,
+        "duree": 98,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f31214"
+    "hashEvenement": "f48840"
   },
   {
     "idSeance": 92769,
@@ -1871,29 +1919,6 @@
       }
     ],
     "hashEvenement": "f32846"
-  },
-  {
-    "idSeance": 90973,
-    "idEvenement": 27571,
-    "dateHeure": "2023-04-01T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "La science-fiction en 25 films indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 48840,
-        "titre": "Alphaville, une étrange aventure de Lemmy Caution",
-        "realisateurs": "Jean-Luc Godard",
-        "annee": 1965,
-        "duree": 98,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f48840"
   },
   {
     "idSeance": 92566,
@@ -1944,34 +1969,9 @@
     "hashEvenement": "f45438"
   },
   {
-    "idSeance": 92985,
-    "idEvenement": 27521,
-    "dateHeure": "2023-04-02T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "La science-fiction en 25 films indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 42234,
-        "titre": "Monstre",
-        "art": "Le",
-        "realisateurs": "Val Guest",
-        "annee": 1955,
-        "duree": 82,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f42234"
-  },
-  {
     "idSeance": 92785,
     "idEvenement": 27234,
-    "dateHeure": "2023-04-02T18:00:00",
+    "dateHeure": "2023-04-02T17:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1992,9 +1992,9 @@
     "hashEvenement": "f45552"
   },
   {
-    "idSeance": 92986,
-    "idEvenement": 27525,
-    "dateHeure": "2023-04-02T19:45:00",
+    "idSeance": 92985,
+    "idEvenement": 27521,
+    "dateHeure": "2023-04-02T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2002,24 +2002,25 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jean-François Rauger",
     "items": [
       {
-        "idFilm": 41679,
-        "titre": "Monstres de l'espace",
-        "art": "Les",
-        "realisateurs": "Roy Ward Baker",
-        "annee": 1967,
-        "duree": 98,
+        "idFilm": 42234,
+        "titre": "Monstre",
+        "art": "Le",
+        "realisateurs": "Val Guest",
+        "annee": 1955,
+        "duree": 82,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f41679"
+    "hashEvenement": "f42234"
   },
   {
     "idSeance": 92786,
     "idEvenement": 27222,
-    "dateHeure": "2023-04-02T20:15:00",
+    "dateHeure": "2023-04-02T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2039,6 +2040,32 @@
       }
     ],
     "hashEvenement": "f32834"
+  },
+  {
+    "idSeance": 92986,
+    "idEvenement": 27525,
+    "dateHeure": "2023-04-02T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La science-fiction en 25 films indispensables",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Jean-François Rauger",
+    "items": [
+      {
+        "idFilm": 41679,
+        "titre": "Monstres de l'espace",
+        "art": "Les",
+        "realisateurs": "Roy Ward Baker",
+        "annee": 1967,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f41679"
   },
   {
     "idSeance": 92835,
@@ -3529,7 +3556,7 @@
         "realisateurs": "Steven Spielberg",
         "annee": 1981,
         "duree": 120,
-        "version": "VOSTF",
+        "version": "VF",
         "format": "DCP"
       }
     ],
@@ -4689,6 +4716,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jean-François Rauger",
     "items": [
       {
         "idFilm": 57106,
@@ -4751,14 +4779,43 @@
     "hashEvenement": "f42447"
   },
   {
-    "idSeance": 91664,
-    "idEvenement": 27440,
+    "idSeance": 93008,
+    "idEvenement": 27340,
     "dateHeure": "2023-04-30T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Warner Bros., fabrique de stars",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36726,
+        "titre": "Impossible Amour",
+        "art": "L'",
+        "realisateurs": "Vincent Sherman",
+        "annee": 1942,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f36726"
+  },
+  {
+    "idSeance": 93007,
+    "idEvenement": 27440,
+    "dateHeure": "2023-04-30T15:00:00",
     "salle": "HL",
     "cycle": [
       [
         "Le cinéma d'espionnage (3e partie)",
         "Les films"
+      ],
+      [
+        "Jeune public",
+        "Ma petite Cinémathèque"
       ]
     ],
     "items": [
@@ -4773,30 +4830,6 @@
       }
     ],
     "hashEvenement": "f59914"
-  },
-  {
-    "idSeance": 91669,
-    "idEvenement": 27720,
-    "dateHeure": "2023-04-30T15:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Jeune public",
-        "Ma petite Cinémathèque"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 33623,
-        "titre": "Docteur Jerry et Mister Love",
-        "realisateurs": "Jerry Lewis",
-        "annee": 1962,
-        "duree": 118,
-        "version": "VF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f33623"
   },
   {
     "idSeance": 91668,
@@ -4823,9 +4856,34 @@
     "hashEvenement": "f59168"
   },
   {
+    "idSeance": 92863,
+    "idEvenement": 27336,
+    "dateHeure": "2023-04-30T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Warner Bros., fabrique de stars",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31183,
+        "titre": "Tombeur",
+        "art": "Le",
+        "realisateurs": "Roy Del Ruth",
+        "annee": 1933,
+        "duree": 73,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f31183"
+  },
+  {
     "idSeance": 92621,
     "idEvenement": 27256,
-    "dateHeure": "2023-04-30T17:30:00",
+    "dateHeure": "2023-04-30T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4849,58 +4907,9 @@
     "hashEvenement": "f41255"
   },
   {
-    "idSeance": 92863,
-    "idEvenement": 27336,
-    "dateHeure": "2023-04-30T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Warner Bros., fabrique de stars",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 31183,
-        "titre": "Tombeur",
-        "art": "Le",
-        "realisateurs": "Roy Del Ruth",
-        "annee": 1933,
-        "duree": 73,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f31183"
-  },
-  {
-    "idSeance": 92905,
-    "idEvenement": 27766,
-    "dateHeure": "2023-04-30T20:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Mario Monicelli",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 57381,
-        "titre": "Mesdames et messieurs, bonsoir",
-        "realisateurs": "Leonardo Benvenuti, Luigi Comencini, Piero De Bernardi, Agenore Incrocci, Nanni Loy, Ruggero Maccari, Luigi Magni, Mario Monicelli, Ugo Pirro, Furio Scarpelli, Ettore Scola",
-        "annee": 1976,
-        "duree": 118,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f57381"
-  },
-  {
     "idSeance": 91671,
     "idEvenement": 27332,
-    "dateHeure": "2023-04-30T20:45:00",
+    "dateHeure": "2023-04-30T19:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4921,6 +4930,30 @@
       }
     ],
     "hashEvenement": "f31385"
+  },
+  {
+    "idSeance": 92905,
+    "idEvenement": 27766,
+    "dateHeure": "2023-04-30T20:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Mario Monicelli",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 57381,
+        "titre": "Mesdames et messieurs, bonsoir",
+        "realisateurs": "Leonardo Benvenuti, Luigi Comencini, Piero De Bernardi, Agenore Incrocci, Nanni Loy, Ruggero Maccari, Luigi Magni, Mario Monicelli, Ugo Pirro, Furio Scarpelli, Ettore Scola",
+        "annee": 1976,
+        "duree": 118,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f57381"
   },
   {
     "idSeance": 92865,
@@ -7249,6 +7282,77 @@
     "hashEvenement": "f54030"
   },
   {
+    "idSeance": 92957,
+    "idEvenement": 27796,
+    "dateHeure": "2023-05-19T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Fenêtre sur les collections",
+        "Les as de la manivelle"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154292,
+        "titre": "Gendarme et Cinématographe",
+        "realisateurs": "Anonyme",
+        "annee": 1908,
+        "duree": 4,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 154293,
+        "titre": "Start of the Gordon Bennett Balloon Race",
+        "realisateurs": "Anonyme",
+        "annee": 1913,
+        "duree": 1,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154294,
+        "titre": "Le Raid Paris-Le Cap-Paris",
+        "realisateurs": "Albert Cohendy",
+        "annee": 1928,
+        "duree": 5,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154295,
+        "titre": "Le reportage cinématographique moderne : un incendie à Genève",
+        "realisateurs": "Anonyme",
+        "annee": 1930,
+        "duree": 3,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154296,
+        "titre": "Une cité cinématographique moderne",
+        "realisateurs": "Anonyme",
+        "annee": 1929,
+        "duree": 20,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 73023,
+        "titre": "Une cité française du cinéma",
+        "realisateurs": "Pierre Chenal",
+        "annee": 1929,
+        "duree": 10,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154297,
+        "titre": "La Conquête Des Gaules (ou « L'Odyssée D'un Film »)",
+        "realisateurs": "Marcel Yonnet, Yan B. Dy",
+        "annee": 1922,
+        "duree": 54,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154292f154293f154294f154295f154296f73023f154297"
+  },
+  {
     "idSeance": 92857,
     "idEvenement": 27784,
     "dateHeure": "2023-05-19T18:30:00",
@@ -7294,6 +7398,45 @@
       }
     ],
     "hashEvenement": "f43854"
+  },
+  {
+    "idSeance": 92958,
+    "idEvenement": 27804,
+    "dateHeure": "2023-05-19T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Fenêtre sur les collections",
+        "Les as de la manivelle"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154298,
+        "titre": "Autour de « La cousine Bette »",
+        "realisateurs": "Max de Rieux",
+        "annee": 1928,
+        "duree": 23,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 154300,
+        "titre": "Autour de « L'Argent »",
+        "realisateurs": "Jean Dréville",
+        "annee": 1929,
+        "duree": 42,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154301,
+        "titre": "Autour de « La fin du monde »",
+        "realisateurs": "Eugène Deslaw",
+        "annee": 1930,
+        "duree": 15,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154298f154300f154301"
   },
   {
     "idSeance": 92730,
@@ -7577,7 +7720,7 @@
     "idSeance": 92846,
     "idEvenement": 27737,
     "dateHeure": "2023-05-21T15:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Jeune public",
@@ -7591,8 +7734,8 @@
         "realisateurs": "Alfred Hitchcock",
         "annee": 1953,
         "duree": 112,
-        "version": "VF",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f41069"
@@ -7716,8 +7859,8 @@
     "hashEvenement": "f42447"
   },
   {
-    "idSeance": 92218,
-    "idEvenement": 27735,
+    "idSeance": 93000,
+    "idEvenement": 27720,
     "dateHeure": "2023-05-24T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -7728,16 +7871,16 @@
     ],
     "items": [
       {
-        "idFilm": 47147,
-        "titre": "Homme de Rio",
-        "art": "L'",
-        "realisateurs": "Philippe de Broca",
-        "annee": 1964,
-        "duree": 102,
-        "format": "DCP"
+        "idFilm": 33623,
+        "titre": "Docteur Jerry et Mister Love",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1962,
+        "duree": 118,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f47147"
+    "hashEvenement": "f33623"
   },
   {
     "idSeance": 92220,
@@ -8030,29 +8173,28 @@
     "hashEvenement": "f43270"
   },
   {
-    "idSeance": 92850,
-    "idEvenement": 26068,
+    "idSeance": 93003,
+    "idEvenement": 27014,
     "dateHeure": "2023-05-26T19:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Cinéma bis",
-        "Raretés de l'espionnage"
+        "Espionnage pop à la française"
       ]
     ],
     "items": [
       {
-        "idFilm": 56461,
-        "titre": "Sursis",
-        "art": "Le",
-        "realisateurs": "Peter Collinson",
-        "annee": 1977,
-        "duree": 101,
+        "idFilm": 38734,
+        "titre": "Carré de dames pour un as",
+        "realisateurs": "Jacques Poitrenaud",
+        "annee": 1966,
+        "duree": 95,
         "version": "VF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f56461"
+    "hashEvenement": "f38734"
   },
   {
     "idSeance": 92947,
@@ -8078,28 +8220,27 @@
     "hashEvenement": "f42460"
   },
   {
-    "idSeance": 92851,
-    "idEvenement": 27024,
-    "dateHeure": "2023-05-26T21:15:00",
+    "idSeance": 93004,
+    "idEvenement": 27017,
+    "dateHeure": "2023-05-26T21:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Cinéma bis",
-        "Raretés de l'espionnage"
+        "Espionnage pop à la française"
       ]
     ],
     "items": [
       {
-        "idFilm": 77230,
-        "titre": "Mission suicide à Singapour",
-        "realisateurs": "Ferdinando Baldi",
+        "idFilm": 46694,
+        "titre": "Atout cœur à Tokyo pour OSS 117",
+        "realisateurs": "Michel Boisrond",
         "annee": 1966,
-        "duree": 97,
-        "version": "VF",
-        "format": "35 mm"
+        "duree": 90,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f77230"
+    "hashEvenement": "f46694"
   },
   {
     "idSeance": 92327,

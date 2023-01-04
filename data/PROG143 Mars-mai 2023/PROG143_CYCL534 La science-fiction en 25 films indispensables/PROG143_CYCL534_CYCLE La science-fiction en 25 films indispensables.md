@@ -40,7 +40,7 @@ URSS / 1924 / 111 min / INT. FR. / DCP
 Avec Ioulia Solntseva, Nikolaï Batalov, Konstantin Eggert, Igor Ilinski.  
 L'ingénieur Los réceptionne un curieux message qui semble venir de l'espace. Déçu par sa femme Natasha qui se laisse séduire par la bourgeoisie russe, il rêve de la planète Mars et imagine une société totalitaire où il pourrait mener la révolution et tomber amoureux de la reine Aelita.
 
-- sa 18 mar 17h00 GF
+- sa 18 mar 18h00 GF
 
 [36119]  
 **Alien**  
@@ -60,7 +60,7 @@ France-Italie / 1965 / 98 min / DCP
 Avec Eddie Constantine, Anna Karina, Akim Tamiroff, Howard Vernon.  
 « Mon film est un peu comme _Nadja_ d'André Breton. On se promène dans Paris et le surréel apparaît. » (JLG, 1965)
 
-- sa 1 avr 20h30 GF
+- sa 1 avr 19h30 GF
 
 [121118]  
 **Gravity**  
@@ -102,7 +102,7 @@ France / 1967 / 91 min / DCP
 Avec Claude Rich, Olga Georges-Picot, Anouk Ferjac.  
 Après une tentative de suicide, un employé de bureau se prête à une expérience scientifique : un voyage dans le temps qui lui fera revivre une minute de son passé, un an plus tôt exactement.
 
-- sa 18 mar 19h30 GF
+- sa 18 mar 20h30 GF
 
 [37482]  
 **Le Jour où la terre s'arrêta**  
@@ -143,7 +143,7 @@ de Michael Crichton
 Avec Yul Brynner, Richard Benjamin, James Brolin.  
 Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger dans plusieurs époques. Lancés dans l'ouest sauvage, deux amis se retrouvent en plein cauchemar quand les androïdes se détraquent et s'attaquent aux touristes.
 
-- sa 1 avr 18h30 GF
+- sa 1 avr 17h00 GF
 
 [42234]  
 **Le Monstre**  
@@ -154,7 +154,8 @@ D'après la série télévisée _Quatermass and the Pit_.
 Avec Brian Donlevy, Margia Dean, Thora Hird, Jack Warner.  
 Une expédition spatiale revient de mission avec un seul survivant à bord qui se transforme progressivement en monstre, ce qui intrigue le physicien Quatermass.
 
-- di 2 avr 17h30 GF
+- di 2 avr 17h45 GF  
+Séance présentée par Jean-François Rauger
 
 [41679]  
 **Les Monstres de l'espace**  
@@ -165,7 +166,8 @@ D'après la série télévisée _Quatermass and the Pit_.
 Avec James Donald, Andrew Keir, Barbara Shelley.  
 Un vaisseau spatial d'origine martienne est découvert dans le métro londonien. Le professeur Quatermass mène l'enquête.
 
-- di 2 avr 19h45 GF
+- di 2 avr 20h00 GF  
+Séance présentée par Jean-François Rauger
 
 [31330]  
 **La Mouche**  
@@ -187,8 +189,7 @@ D'après le roman _La Variété Andromède_ de Michael Crichton.
 Avec Arthur Hill, David Wayne, Kate Reid.  
 Après la chute d'une sonde spatiale, une épidémie frappe une bourgade mexicaine. Quatre scientifiques des services bactériologiques de l'armée enquêtent sur ce mystérieux phénomène, qui menace l'humanité entière.
 
-- sa 25 mar 19h30 GF  
-Séance présentée par Jean-François Rauger
+- sa 25 mar 20h00 HL
 
 [45137]  
 **Rencontres du troisième type**  
@@ -219,7 +220,7 @@ Avec Donatas Banionis, Natalya Bondarchuk.
 Envoyé sur la base spatiale Solaris, un ingénieur est confronté à une mystérieuse forme de vie.  
 Film restauré par les Studios Mosfilm d'après un négatif 35 mm.
 
-- di 26 mar 20h15 HL
+- di 26 mar 19h15 HL
 
 [59081]  
 **Soleil vert**  

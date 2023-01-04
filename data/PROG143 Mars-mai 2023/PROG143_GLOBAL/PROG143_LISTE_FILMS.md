@@ -40,6 +40,21 @@
   * SAS : L'Œil de la veuve  
   * Sursis (Le)
 
+## Fenêtre sur les collections (12)
+
+  * Autour de « L'Argent »  
+  * Autour de « La cousine Bette »  
+  * Autour de « La fin du monde »  
+  * Black Whip (The)  
+  * Cri des Apaches (Le)  
+  * Gendarme et Cinématographe  
+  * La Conquête Des Gaules (ou « L'Odyssée D'un Film »)  
+  * Le Raid Paris-Le Cap-Paris  
+  * Le reportage cinématographique moderne : un incendie à Genève  
+  * Start of the Gordon Bennett Balloon Race  
+  * Une cité cinématographique moderne  
+  * Une cité française du cinéma
+
 ## Hugo Fregonese (21)
 
   * Affaire de Buenos Aires (L')  
@@ -64,12 +79,11 @@
   * Souffle sauvage (Le)  
   * Vagabond et les Lutins (Le)
 
-## Jeune public (16)
+## Jeune public (15)
 
   * Docteur Jerry et Mister Love  
   * E.T. l'extra-terrestre  
   * Fenêtre sur cour  
-  * Homme de Rio (L')  
   * Jason et les Argonautes  
   * Jour de fête  
   * Lumières de la ville (Les)  

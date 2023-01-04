@@ -2,6 +2,16 @@
 
 ## Les films
 
+[34786]  
+**À bout de course**  
+**(Running on Empty)**  
+de Sidney Lumet  
+États-Unis / 1988 / 115 min / VOSTF / 35 mm  
+Avec River Phoenix, Judd Hirsch, Christine Lahti, Martha Plimpton.  
+Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie.
+
+- me 8 mar 14h00 GF
+
 [53030]  
 **Boy Meets Girl**  
 de Leos Carax  
@@ -11,6 +21,17 @@ Alex a 22 ans et aspire à de grandes œuvres. Pour inspirer ses écrits, il esp
 La restauration a été réalisée par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, l'Institut audiovisuel de Monaco et le soutien du CNC et de la maison CHANEL. Le film a été numérisé et restauré en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022. La restauration a été supervisée par Caroline Champetier.
 
 - di 12 mar 17h30 HL
+
+[53149]  
+**Brumes d'automne**  
+de Dimitri Kirsanoff  
+France-Suisse / 1928 / 12 min / INT. FR. / DCP  
+Avec Nadia Sibirskaïa.  
+Une femme au visage triste brûle des lettres, et part se promener dans une nature de fin d'automne.  
+Restauration 4K menée en 2022 par Lobster Films et la Cinémathèque française avec le soutien du CNC. Travaux réalisés au laboratoire Lobster et au studio L.E. Diapason, à partir des négatifs image et son originaux et d'un interpostif sonore conservés à la Cinémathèque française.
+
+- di 12 mar 12h00 HO  
+Film suivi de _Ménilmontant_ de Dimitri Kirsanoff
 
 [35682]  
 **Buck et son complice**  
@@ -27,6 +48,18 @@ Restauration 4K réalisée en 2022 par Sony à partir du négatif 35mm d'origine
 
 - je 9 mar 14h30 JE
 
+[45643]  
+**Danse macabre**  
+**(Danza macabra)**  
+d'Anthony Dawson  
+Italie-France / 1963 / 89 min / VOSTF / DCP  
+D'après le roman _Danse macabre_ d'Edgar Allan Poe.  
+Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.  
+Alan Foster, jeune journaliste, relève le pari de passer la nuit dans un château que l'on dit hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
+Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8ème, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
+
+- sa 11 mar 21h00 GF
+
 [133965]  
 **Deux amies = Deux amies de votre beauté**  
 d'Alexandre Alexeieff  
@@ -36,6 +69,72 @@ Restauration numérique effectuée par le CNC à partir d'une copie unique origi
 
 - ve 10 mar 19h00 JE  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff et suivi de de _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
+
+[47122]  
+**Le Diable probablement**  
+de Robert Bresson  
+France / 1976 / 95 min / DCP  
+Avec Antoine Monnier, Tina Irissari, Henri de Maublanc.  
+Charles et Michel forment avec des amis un petit groupe qui se préoccupe de l'avenir du monde. Michel, militant, cherche à lutter avec ses modestes moyens, tandis que Charles refuse l'engagement et, dégoûté de la vie, opte pour le suicide.  
+Restauré en 4K par Gaumont au laboratoire Eclair.
+
+- je 9 mar 17h00 HL
+
+[43206]  
+**Le Dieu noir et le diable blond**  
+**(Deus e o diablo na terra do sol)**  
+de Glauber Rocha  
+Brésil / 1963 / 123 min / VOSTF / DCP  
+Avec Geraldo del Rey, Yoná Magalhães, Maurício do Valle.  
+Un couple de paysans brésiliens, touché par la misère, est prêt à se compromettre pour s'en sortir. Ils s'en remettent tour à tour à deux personnages violents et mystiques, symbolisant la révolte : une incarnation de Dieu et l'autre du Diable.  
+Restauration 4K conduite par Métropoles, Lino Meireles et Paloma Cinematografica à partir du négatif 35mm original conservé à la Cinemateca Brasileira. Travaux réalisés par les Estudios Colors et Estudios JLS, les cinéastes Luis Abramo et Rogerio Moraes, sous la direction de Rodrigo Mercês. Ressortie en salles au troisième trimestre 2023 par Capricci.
+
+- je 9 mar 14h30 GF
+
+[64216]  
+**Fin d'été**  
+de Jean-Marie Larrieu, Arnaud Larrieu  
+France / 1997 / 68 min / DCP  
+Avec Philippe Suner, Pia Camilla Copper, Marie Henriau.  
+Edouard invite Diana à passer un week-end chez Gilbert, ancien soixante-huitard vivant dans une vallée de la montagne Noire entre l'Aude et le Tarn. Il tente de séduire Diana et de la convaincre de rester, et découvre que Gilbert est peut-être son père.  
+Film restauré pour la Traverse par Cosmodigital et L.E. Diapason, avec le soutien du Centre national du cinéma.
+
+- di 12 mar 19h30 GF
+
+[36638]  
+**Folies de femmes**  
+**(Foolish Wives)**  
+d'Erich von Stroheim  
+États-Unis / 1921 / 144 min / INT. FR. / DCP  
+Avec Erich von Stroheim, Maude George, Mae Busch.  
+Serge Karamzin, faux aristocrate russe, et ses deux complices féminines, s'installent à Monte-Carlo pour escroquer les casinos avec de faux billets. Mais Karamzin s'en prend à plus fort que lui en tentant de séduire la femme de l'ambassadeur des USA.  
+Ciné-concert par le groupe SHEEP GOT WAXED
+
+---
+
+Collection Cinémathèque française.
+
+---
+
+Restauration réalisée par le San Francisco Silent Film Festival, à partir d'une copie nitrate 35mm de la Cineteca Italiana de Milan, et d'une copie 35mm du Museum of Modern Art de New York. Les teintages et les virages ont été réalisés selon les conventions de colorisation d'Universal de l'époque. Pour réaliser les effets colorisés à la main, les équipes se sont référé à des revues contemporaines et à un article de presse spécialisée écrit par le coloriste d'origine, Gustav Brock.
+
+- me 8 mar 20h30 HO
+
+[154285]  
+**Histoire de la guerre civile**  
+de Dziga Vertov  
+Russie / 1921 / 94 min / INT. FR. / DCP  
+Restauration effectuée par Nikolai Izvolov à partir d'une description du film faite par Grigory Boltyansky conservée à l'Archive of Literature and Art in Moscow, et d'éléments du matériel d'origine 35mm conservés dans différentes archives.
+
+---
+
+En pleine Guerre Civile russe, Vertov filme des figures emblématiques du gouvernement et de l'Armée Rouge, ainsi que la violence et le chaos qui règnent dans le pays, si bien que son documentaire ne sortira jamais officiellement. Disparu pendant un siècle, projeté deux fois seulement, le film a bénéficié d'une restauration inédite.
+
+---
+
+Dans son second film, Dziga Vertov, père du documentaire, couvre les événements de la Guerre Civile en Russie (1918-1922). Le film, disparu mystérieusement, a été retrouvé et recomposé en 2021, l'année de son centenaire, par Nikolai Izvolov.
+
+- ve 10 mar 18h00 GF
 
 [130691]  
 **Histoire sans paroles**  
@@ -75,7 +174,37 @@ D'après le roman _K._ de Mary Roberts Rinehart.
 Avec Lon Chaney, Joan Crawford, Norman Kerry.  
 Un criminel se réfugie dans un cirque et devient un étonnant lanceur de couteaux. Il tombe rapidement sous le charme de la fille du directeur, que convoite également Malabar, l'homme fort du cirque. Par amour pour elle, il prend une décision extrême.
 
-- di 12 mar 20h30 HL
+- di 12 mar 21h00 HL
+
+[154259]  
+**Italia, le feu, la cendre**  
+de Céline Gailleurd, Olivier Bohler  
+France-Italie / 2021 / 93 min / DCP  
+Un voyage lyrique et visionnaire vers les origines du cinéma muet italien, réalisé à partir de copies nitrates préservées dans les archives de l'Eye Filmmuseum à Amsterdam, la Cineteca Milano, le Museo Nazionale del Cinema, la Cineteca de Bologna, la Cineteca Nazionale, la Cineteca del Friuli, le CNC, l'Istituto Luce et le British Film Institute.  
+Présenté en avant-première de sa sortie en salles le 15 mars par Carlotta Films.
+
+- me 8 mar 12h00 JE
+
+[51463]  
+**Le Jour des rois**  
+de Marie-Claude Treilhou  
+France / 1990 / 93 min / DCP  
+Avec Danielle Darrieux, Micheline Presle, Paulette Dubost.  
+Trois vieilles sœurs se réunissent tous les dimanches. Pour l'épiphanie, le programme est chargé : cimetière, restaurant chinois, galette des rois, puis aller voir une troupe comique du troisième âge dans laquelle joue la quatrième sœur marginale.  
+Scanné et restauré en 4K en 2022 par les Films du Losange, avec le soutien du CNC. Le scan et la restauration image ont été faits par Lobster Films. La restauration du son a été réalisée par Léon Rousseau- L.E. Diapason
+
+- sa 11 mar 20h30 JE
+
+[39284]  
+**Manolesco prince des poètes**  
+**(Manolescu)**  
+de Victor Tourjansky  
+Allemagne / 1929 / 111 min / INT. FR. / DCP  
+Avec Ivan Mosjoukine, Brigitte Helm, Heinrich George.  
+Un séducteur parisien tombe amoureux d'une femme de la haute société. Il se met à voler pour payer leur vie de luxe, jusqu'à ce que son passé le rattrape. Le film est inspiré de l'histoire vraie de l'escroc roumain homonyme de la fin du XIXe.  
+Restauré en 2018 par la Friedrich-Wilhelm-Murnau-Stiftung, numérisé en 4K à L'Immagine Ritrovata, à partir de deux négatifs d'origine, et de fragments de copies de post-production. Avec le soutien du Beauftragte der Bundesregierung für Kultur und Medien et du Freunde und Förderer des deutschen Filmerbes e.V.
+
+- sa 11 mar 12h00 HO
 
 [51955]  
 **Mauvais sang**  
@@ -86,6 +215,36 @@ La population parisienne est frappée par un virus tuant ceux qui font l'amour s
 Restauré par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, la Cinémathèque de Toulouse, l'Institut audiovisuel de Monaco ainsi que le soutien du CNC et de la Maison CHANEL. La restauration a été supervisée par Caroline Champetier. Le film a été numérisé en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022. La restauration numérique a été réalisée par les laboratoires Éclair Classics et Amazing Digital Studios. L'étalonnage a été réalisé par Frédéric Savoir chez Amazing Digital Studios.
 
 - di 12 mar 14h00 HL
+
+[102657]  
+**Ménilmontant**  
+de Dimitri Kirsanoff  
+France / 1924 / 42 min / INT. FR. / DCP  
+Avec Nadia Sibirskaïa, Yolande Beaulieu, Guy Belmont.  
+Après l'assassinat de leurs parents, deux jeunes sœurs très unies quittent la province pour aller vivre à Paris. Elles y seront séduites par le même jeune homme, et leurs destins se séparent.  
+Restauration 4K menée en 2022 par Lobster Film et la Cinémathèque française, avec le soutien du CNC. Travaux menés au laboratoire Lobster à partir d'une copie nitrate originale teintée du British Film Institute et d'un contretype des collections de la Cinémathèque française. Un plan supplémentaire est extrait d'une copie nitrate fragmentaire de la Cinémathèque française.
+
+- di 12 mar 12h00 HO  
+Film précédé de _Brumes d'automne_ de Dimitri Kirsanoff
+
+[74532]  
+**Le Nabab**  
+d'Albert Capellani  
+France / 1913 / 55 min / INT. FR. / DCP  
+Avec Pierre Larquey, Léon Bernard, Jean Dax.  
+Le forgeron Bernard Jeansoulet fait vivre, grâce à son travail, son frère Louis et sa mère. Louis trouve un emploi à Paris, où il se laisse griser par l'atmosphère capiteuse, et se retrouve en prison. Désemparé, Bernard décide de quitter le pays.  
+La Cinémathèque française a mené en 2022 la restauration de 7 vues coloriées au pochoir selon le procédé Pathécolor, à partir de copies nitrate conservées dans ses collections. Comme des cartes postales animées, les films montrent plusieurs paysages pittoresques aux couleurs magnifiques, invitant au voyage dans différents sites d'Europe : Clovelly, Copenhague, Alicante, Elche, Grenade et la Creuse. Les travaux numériques 4K ont été réalisés au laboratoire Hiventy en s'attachant à restituer fidèlement les couleurs d'origine.
+
+---
+
+Restauré en 4K en 2021 par la Fondation Jérôme Seydoux-Pathé, au laboratoire L'Image Retrouvée Paris-Bologne avec le soutien du Centre national du cinéma et de l'image animée.
+
+---
+
+Musique originale composée et interprétée par Bruno Angelini (piano), Vincent Courtois (violoncelle) et Catherine Delaunay (clarinette)
+
+- sa 11 mar 12h00 HO  
+Film suivi de _Vues au pochoir : villes d'Europe années 1920 en Pathécolor_ d'Anonyme
 
 [133967]  
 **Naissance de Vénus**  
@@ -108,6 +267,18 @@ Restauré en 4K par Cassandra Moor de Universal Picture, en collaboration avec T
 
 - ve 10 mar 14h00 GF
 
+[34796]  
+**Point limite**  
+**(Fail-Safe)**  
+de Sidney Lumet  
+États-Unis / 1963 / 112 min / VOSTF / DCP  
+D'après le roman _Fail safe_ d'Eugene Burdick et Harvey Wheeler.  
+Avec Dan O'Herlihy, Walter Matthau, Frank Overton.  
+En pleine guerre froide, suite une erreur technique, un groupe de bombardiers nord-américains reçoit l'ordre de lancer une attaque nucléaire contre Moscou.  
+Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35mm d'origine. Le transfert a été supervisé par Grover Crisp, et le travail de couleur par Sheri Eisenberg et Roundabout Entertainment. La bande sonore mono a été remasterisée à Deluxe à Hollywood, sous la supervision de Bob Simmons.
+
+- me 8 mar 16h30 GF
+
 [36021]  
 **Raging Bull**  
 de Martin Scorsese  
@@ -127,7 +298,7 @@ Avec Isaach de Bankolé, Alex Descas, Jean-Claude Brialy, Solveig Dommartin.
 Dah et Jocelyn, Antillais et Béninois installés illégalement en France, participent à des combats de coqs clandestins organisés par un patron de boîtes de nuit corrompu. Ils entrainent leur coq baptisé « S'en fout la mort ».  
 Une restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Etalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
 
-- je 9 mar 19h00 GF
+- sa 11 mar 16h15 GF
 
 [46339]  
 **Une nuit sur le mont chauve**  
@@ -157,5 +328,14 @@ Avec Mahdi Chaouch, Anouk Ferjac, Ivan Henriques.
 Dans l'Espagne franquiste, le jeune Fando découvre que sa mère, fervente catholique, a dénoncé son père aux autorités en l'accusant d'athéisme et d'antifascisme. Déchiré, Fando est pris de visions cruelles, violentes et sensuelles.  
 Restauré en 4K en 2022 par la Cinémathèque de Toulouse en collaboration avec Fernando Arrabal, à partir du négatif 35mm d'origine, et d'un élément interpositif 35mm. Les travaux de restauration du son ont été réalisés par le studio L.E. Diapason. Avec le soutien du Ministère des Affaires Culturelles tunisien et de l'Association Ciné-Sud Patrimoine.
 
-- ve 10 mar 20h00 GF
+- ve 10 mar 20h30 GF
+
+[154311]  
+**Vues au pochoir : villes d'Europe années 1920 en Pathécolor**  
+d'Anonyme  
+France / 1930 / 16 min / INT. FR. / DCP  
+La Cinémathèque française a mené en 2022 la restauration de 7 vues coloriées au pochoir selon le procédé Pathécolor, à partir de copies nitrate conservées dans ses collections. Comme des cartes postales animées, les films montrent plusieurs paysages pittoresques aux couleurs magnifiques, invitant au voyage dans différents sites d'Europe : Clovelly, Copenhague, Alicante, Elche, Grenade et la Creuse. Les travaux numériques 4K ont été réalisés au laboratoire Hiventy en s'attachant à restituer fidèlement les couleurs d'origine.
+
+- sa 11 mar 12h00 HO  
+Film précédé de _Le Nabab_ d'Albert Capellani
 

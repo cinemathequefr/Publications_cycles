@@ -98,7 +98,7 @@ de Hugo Fregonese
 Avec Edward G. Robinson, Peter Graves, Jean Parker.  
 Un gangster emprisonné échafaude un plan pour s'évader avant de passer sur la chaise électrique. Lors de sa fuite, il emmène avec lui un voleur de banques et tueur de flics, ainsi qu'une poignée d'otages.
 
-- di 2 avr 20h15 HL  
+- di 2 avr 19h30 HL  
 - me 12 avr 18h00 GF
 
 [32847]  
@@ -172,7 +172,7 @@ de Hugo Fregonese
 Avec Van Heflin, Anne Bancroft, Richard Boone, Lee Marvin.  
 En 1864, un groupe de Confédérés dirigé par le major Neal Benton s'échappe d'une prison de l'Union. Ils s'introduisent dans une petit ville nordiste, avec l'objectif de la mettre à sac.
 
-- sa 1 avr 14h30 GF  
+- sa 1 avr 14h30 HL  
 Voir aussi dialogue p. xx
 
 [32858]  
@@ -194,7 +194,7 @@ de Hugo Fregonese
 Avec Ricardo Montalbán, Cyd Charisse, J. Carrol Naish.  
 En 1825, lors de l'avènement de la République du Mexique, Marcos Zappa est victime d'un odieux chantage au terme d'un exil forcé de plusieurs années. En échange du silence de Don Pedro García sur son passé, il doit séduire la belle Manuela de Vásquez et l'épouser pour mieux porter le discrédit sur son père.
 
-- di 2 avr 18h00 HL
+- di 2 avr 17h00 HL
 
 [52236]  
 **Le Souffle sauvage**  
@@ -221,6 +221,6 @@ L'aventurier Chuck Connors est en visite chez un ami, quand celui-ci se tue en t
 
 **Dialogue avec Jean-François Rauger**
 
-- sa 1 avr 14h30 GF  
+- sa 1 avr 14h30 HL  
 À la suite de la projection de _The Raid_ de Hugo Fregonese (voir p. xx)
 

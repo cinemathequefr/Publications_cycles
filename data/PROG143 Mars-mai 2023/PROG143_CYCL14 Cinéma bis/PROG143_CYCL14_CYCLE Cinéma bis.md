@@ -9,7 +9,7 @@ France-Espagne-Italie / 1966 / 95 min / VF / 35 mm
 Avec Roger Hanin, Sylva Koscina, Catherine Allégret.  
 L'agent Dan Layton est envoyé en Espagne sur les traces du redoutable Hakim Gregory, responsable du démantèlement d'un réseau d'espionnage français. Il découvre son repaire, une maison de couture tenue par sa maîtresse, Dolores.
 
-- ve 31 mar 19h00 GF
+- ve 26 mai 19h00 GF
 
 [46694]  
 **Atout cœur à Tokyo pour OSS 117**  
@@ -19,7 +19,7 @@ D'après le roman _Atout cœur à Tokyo_ de Jean Bruce.
 Avec Frederick Stafford, Marina Vlady, Henri Serre.  
 L'agent OSS 117, alias Hubert Bonisseur de La Bath, enquête sur l'explosion d'une base américaine du Pacifique. À Tokyo, il rencontre Eva Wilson et ne tarde pas à découvrir ses liens étroits avec l'attentat.
 
-- ve 31 mar 21h15 GF
+- ve 26 mai 21h00 GF
 
 ## SAS : hommage à un héros de légende
 
@@ -101,7 +101,7 @@ Grande-Bretagne-Italie / 1977 / 101 min / VF / 35 mm
 Avec Richard Widmark, Oliver Reed, Gayle Hunnicutt.  
 Un ex-agent de la CIA tient un magasin d'antiquités à Jérusalem, où il mène une vie paisible avec sa maîtresse. L'un de ses anciens collaborateurs vient un jour lui demander de l'aide.
 
-- ve 26 mai 19h00 GF
+- ve 31 mar 19h00 GF
 
 [77230]  
 **Mission suicide à Singapour**  
@@ -111,6 +111,6 @@ Italie-France-Espagne / 1966 / 97 min / VF / 35 mm
 Avec Stanley Kent, Annabella Incontrera, Yoko Tani.  
 Pour aider les services de contre-espionnage français et américain, le Pentagone envoie son agent spécial Kurt Jackson en Malaisie pour retrouver un savant chinois, inventeur de bombes atomiques miniatures.
 
-- ve 26 mai 21h15 GF
+- ve 31 mar 21h15 GF
 
 Remerciements : Cinémathèque de Toulouse, Cinémathèque Suisse, Film Archiv Optikum, Metropolitan Film Export, Emmanuel Rossi, Sidonis, Tamasa Distribution.

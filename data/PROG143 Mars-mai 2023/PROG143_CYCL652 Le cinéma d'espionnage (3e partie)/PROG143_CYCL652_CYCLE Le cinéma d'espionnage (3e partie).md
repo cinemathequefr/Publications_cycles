@@ -63,7 +63,8 @@ France / 2009 / 99 min / 35 mm
 Avec Guillaume Canet, Géraldine Pailhas, Stephen Rea, Hippolyte Girardot.  
 Vincent et Gérard, bagagistes dans un aéroport, volent dans les bagages avant leur embarquement en soute. Lorsque Gérard meurt dans l'explosion de la valise diplomatique qu'il était en train de fouiller, Vincent surprend son propriétaire en train de récupérer le bagage.
 
-- sa 18 mar 14h30 HL
+- sa 18 mar 14h30 GF  
+Voir aussi dialogue p. xx
 
 [45279]  
 **Les Espions s'amusent**  
@@ -93,7 +94,7 @@ D'après le roman _The Conspirator_ de Humphrey Slater.
 Avec Elizabeth Taylor, Robert Taylor, Honor Blackman.  
 À Londres, une jeune Américaine s'éprend d'un officier de la garde britannique. Mais peu après leur mariage, elle découvre que son époux est un espion à la solde de l'Union soviétique.
 
-- sa 1 avr 15h00 HL
+- sa 1 avr 15h00 GF
 
 [45885]  
 **L'Homme qui en savait trop**  
@@ -220,7 +221,7 @@ de James Cameron
 Avec Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold.  
 Depuis 15 ans, Harry Tasker mène une double vie. Pour sa femme, il est un banal représentant en informatique, et pour le gouvernement américain, un espion d'élite spécialiste de la lutte antiterroriste.
 
-- di 30 avr 14h30 HL
+- di 30 avr 15h00 HL
 
 [35731]  
 **Tueur d'élite**  
@@ -241,7 +242,8 @@ Rencontre animée par Matthieu Orléan
 **Matthieu Orléan** est collaborateur artistique à la Cinémathèque française et commissaire, avec Alexandra Midal, de l'exposition _Top Secret : cinéma & espionnage._  
 **Nicolas Saada** est réalisateur et scénariste. Il a été critique de cinéma et journaliste (Cahiers du cinéma, l'émission « Nova fait son cinéma » consacrée aux musiques de film sur Radio Nova). Il a notamment réalisé _Espion(s_) en 2009 et, en 2015, _Taj Mahal._
 
-- sa 18 mar 16h15 HL
+- sa 18 mar 14h30 GF  
+À la suite de la projection de _Espion(s)_ de Nicolas Saada (voir p. xx)
 
 **L'homme qui en savait trop + dialogue avec Nicolas Saada**  
 Rencontre animée par Bernard Benoliel  

@@ -125,7 +125,7 @@ Un petit garçon découvre une créature magique, mi poisson rouge, mi petite fi
 **E.T. l'extra-terrestre**  
 **(E.T. the Extra-Terrestrial in his Adventure on Earth)**  
 de Steven Spielberg  
-États-Unis / 1981 / 120 min / VOSTF / DCP  
+États-Unis / 1981 / 120 min / VF / DCP  
 Avec Dee Wallace, Henry Thomas, Peter Coyote.  
 Dans une banlieue californienne, un extra-terrestre en mission sur terre n'a pu remonter à temps avec les siens dans son vaisseau spatial. Traqué par des militaires, il découvre brutalement la civilisation humaine, avant d'être recueilli par Elliott, un garçon de dix ans.
 
@@ -158,14 +158,14 @@ de Tex Avery, Dick Lundy, Michael Lah
 
 - me 26 avr 15h00 GF
 
-[33623]  
-**Docteur Jerry et Mister Love**  
-**(The Nutty Professor)**  
-de Jerry Lewis  
-États-Unis / 1962 / 118 min / VF / 35 mm  
-Avec Jerry Lewis, Stella Stevens.
+[59914]  
+**True Lies**  
+de James Cameron  
+États-Unis / 1994 / 141 min / VOSTF / 35 mm  
+Avec Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold.  
+Depuis 15 ans, Harry Tasker mène une double vie. Pour sa femme, il est un banal représentant en informatique, et pour le gouvernement américain, un espion d'élite spécialiste de la lutte antiterroriste.
 
-- di 30 avr 15h00 GF
+- di 30 avr 15h00 HL
 
 [133164]  
 **Wallace et Gromit : Les inventuriers**  
@@ -203,19 +203,19 @@ Charlot va s'essayer à différents métiers pour aider une jeune fille aveugle 
 **Fenêtre sur cour**  
 **(Rear Window)**  
 d'Alfred Hitchcock  
-États-Unis / 1953 / 112 min / VF / 35 mm  
+États-Unis / 1953 / 112 min / VOSTF / DCP  
 D'après la nouvelle _It Had to Be a Murder_ de Cornell Woolrich.  
 Avec James Stewart, Grace Kelly, Wendell Corey.  
 Un photographe, immobilisé avec une jambe plâtrée, n'a d'autre occupation que d'observer la cour de son immeuble et ses voisins. Bientôt, il soupçonne l'un d'entre eux d'avoir assassiné sa femme.
 
-- di 21 mai 15h00 GF
+- di 21 mai 15h00 HL
 
-[47147]  
-**L'Homme de Rio**  
-de Philippe de Broca  
-France-Italie / 1964 / 102 min / DCP  
-Avec Jean-Paul Belmondo, Françoise Dorléac, Jean Servais.  
-Alors qu'il pense passer quelques jours paisibles avec sa fiancée à Paris, un jeune militaire se retrouve embarqué, jusqu'au Brésil, dans une course effrénée à la recherche de statues précolombiennes aux mystérieux pouvoirs.
+[33623]  
+**Docteur Jerry et Mister Love**  
+**(The Nutty Professor)**  
+de Jerry Lewis  
+États-Unis / 1962 / 118 min / VF / 35 mm  
+Avec Jerry Lewis, Stella Stevens.
 
 - me 24 mai 15h00 GF
 
