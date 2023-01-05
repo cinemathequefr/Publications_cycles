@@ -110,7 +110,7 @@
   * Baisers envolés  
   * Basta  
   * Behind Every Good Man  
-  * Belladonna  
+  * Belladonna des tristesses  
   * Bijou  
   * Birds  
   * Blue Streak  
@@ -119,7 +119,7 @@
   * Canaries (The)  
   * Cancan  
   * CF Porn  
-  * Chôfuku-ki  
+  * Chōfuku-ki  
   * Christmas on Earth  
   * Clin d'éventail  
   * Cosmic Ray  
@@ -150,7 +150,7 @@
   * Holding  
   * Hot Heat  
   * Hot Nasty  
-  * Human events  
+  * Human Events  
   * Hurry! Hurry!  
   * I Change I Am the Same  
   * I Don't Know  
@@ -161,7 +161,7 @@
   * Kiss (The)  
   * Lose Yourself With Me  
   * Lotus  
-  * Love it / Leave it  
+  * Love It / Leave It  
   * Lovemaking  
   * Madame a des envies  
   * Mars exalté  

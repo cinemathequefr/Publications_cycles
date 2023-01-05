@@ -56,7 +56,7 @@ suivi de
 **Lose Yourself With Me**  
 de Véronique Bourlon  
 France / 2021 / 8 min / DCP  
-Le premier film de la plasticienne et photographe Véronique Bourlon organise un contrepoint sensuel dont la douceur infuse et s'infiltre par nos yeux et surtout nos oreilles.  
+Le premier film de la plasticienne et photographe Véronique Bourlon organise un contrepoint sensuel dont la douceur infuse et s'infiltre par nos yeux et, surtout, nos oreilles.  
 suivi de  
 [154098]  
 **The Day I've Been Fucked in Front of the Entire World**  
@@ -74,14 +74,14 @@ suivi de
 **Hot Heat**  
 de Marylène Negro  
 France / 2023 / 10 min / Numérique  
-« Viens. Dans l'attrait vous atteindre. Seulement vous. » (M.N.)  
+« Viens. Dans l'attrait vous atteindre. Seulement vous. » (Marylène Negro)  
 suivi de  
 [154142]  
 **Fulmen**  
 d'Othello Vilgard  
 France / 2023 / 20 min / Numérique  
-« « Deux, tant qu'il y a seulement deux, il est impossible que l'ajustage soit beau sans un troisième. Il faut qu'il se produise entre eux, au milieu, un lien qui les conduit à l'union. » Platon (Timée). Fulmen, flicker anatomique, noir et blanc, couleur, sonore, 20'. » (O.V.)  
-Première mondiale  
+« Deux, tant qu'il y a seulement deux, il est impossible que l'ajustage soit beau sans un troisième. Il faut qu'il se produise entre eux, au milieu, un lien qui les conduit à l'union. » (Platon, _Timée_) « _Fulmen_, flicker anatomique, noir et blanc, couleur, sonore, 20'. » (Othello Vilgard)  
+Première mondiale.  
 suivi de  
 [154247]  
 **Memory Slot – Track 1**  
@@ -102,7 +102,7 @@ suivi de
 **Clin d'éventail**  
 de Georges Demenÿ  
 France / 1894 / 1 min / Numérique  
-Sans plus tarder, Georges Demenÿ enchaîne avec un petit « fort/da », un quart de siècle avant que Sigmund Freud ne publie _Au-delà du principe de plaisir_.  
+Sans plus tarder, Georges Demenÿ enchaîne avec un petit _« Fort/Da »_, un quart de siècle avant que Sigmund Freud ne publie _Au-delà du principe de plaisir_.  
 suivi de  
 [154107]  
 **Cancan**  
@@ -114,7 +114,7 @@ suivi de
 **The Kiss**  
 de William Heise  
 États-Unis / 1896 / 1 min  
-Première œuvre du cinéma à faire du baiser entre deux êtres un sujet filmique. À la fois coquin et tendre, cette œuvre pionnière est la première d'un corpus qui inclut tout aussi bien Edwin S. Porter (_The Kiss_, 1909) que'Andy Warhol (_Kiss_, 1963).  
+Première œuvre du cinéma à faire du baiser entre deux êtres un sujet filmique. À la fois coquin et tendre, cette œuvre pionnière est la première d'un corpus qui inclut tout aussi bien Edwin S. Porter (_The Kiss_, 1909) qu'Andy Warhol (_Kiss_, 1963).  
 suivi de  
 [52380]  
 **Après le bal**  
@@ -139,14 +139,14 @@ suivi de
 de Luis Buñuel  
 France / 1930 / 63 min / DCP  
 Avec Lya Lys, Gaston Modot, Max Ernst, Pierre Prévert.  
-La force du désir éprouvé par un couple bouscule et renverse l'ordre social.  
+La force du désir éprouvé par un couple bouscule et renverse l'ordre social. « Un film d'inspiration bolchevique, _L'Âge d'or_, attaquant la religion, la patrie et la famille, était projeté depuis plusieurs jours. Plusieurs commissaires de la Ligue des Patriotes [ont] sifflé ce film obscène. » (communiqué de la Ligue, 6 décembre 1930)  
 Scénario coécrit par Luis Buñuel et Salvador Dalí.  
 suivi de  
 [154112]  
 **L'Âge d'or (chutes)**  
 de Luis Buñuel  
 France / 1930 / 7 min / Numérique  
-Ensemble de prises de vues originales du film _L'Âge d'or_ non retenues dans le montage final.  
+Ensemble de prises de vues originales du film _L'Âge d'or_ non retenues dans le montage final. « [Contre] ce film obscène, qui n'avait pas été soumis à la censure, la foule s'est livrée à des manifestations violentes et a brisé quelques vitres de l'établissement. » (communiqué de la Ligue, 6 décembre 1930)  
 suivi de  
 [71556]  
 **Essai cinématographique : Autoportrait ou Ce qui manque à nous tous**  
@@ -169,7 +169,9 @@ suivi de
 de Jean Genet  
 France / 1950 / 27 min / 35 mm  
 Avec Lucien Sénemaud, Coco le Martiniquais, Java.  
-Un prisonnier d'âge mûr cherche à créer un contact corporel avec son voisin de cellule, un jeune et beau condamné à mort.  
+Un prisonnier d'âge mûr cherche à créer un contact corporel avec son voisin de cellule, un jeune et beau condamné à mort.
+
+Ici la prison devient un lieu érotique (écrin pour corps tatoués et nus), organisme conducteur (cigarette partagée à travers un mur troué)... Brûlot poétique où le désir l'emporte sur toutes les situations concrètes, qu'elles soient spatiales ou sociales.  
 suivi de  
 [132043]  
 **Nus masculins**  
@@ -189,7 +191,7 @@ Danse d'amour, fusion suprême. « La plupart des films de danse que j'avais vus
 **Flesh of Morning**  
 de Stan Brakhage  
 États-Unis / 1986 / 21 min / VO / 16 mm  
-« Brillant psychodrame » de la masturbation » (Amos Vogel). Présenté avec la bande-son retravaillée par Stan Brakhage en 1986.  
+« Brillant psychodrame de la masturbation » (Amos Vogel). Présenté avec la bande-son retravaillée par Stan Brakhage en 1986.  
 suivi de  
 [154111]  
 **Hurry! Hurry!**  
@@ -263,7 +265,7 @@ suivi de
 **Amphetamine**  
 de Wendy Appel, Warren Sonbert  
 États-Unis / 1966 / 10 min / VO / 16 mm  
-Au son des Supremes, ce film mélancolique alterne moments d'amour et de toxicomanie entre de jeunes étasuniens homosexuels.  
+Au son des Supremes, ce film mélancolique alterne moments d'amour et de toxicomanie entre de jeunes Étasuniens homosexuels.  
 suivi de  
 [154117]  
 **Permanent Waves**  
@@ -275,7 +277,7 @@ suivi de
 **Piece Mandala / End War**  
 de Paul Sharits  
 États-Unis / 1966 / 5 min / 16 mm  
-Le film « me rappelle l'aura (GoKo) qui illumine l'esprit de Bouddha – pourtant aucune image de Bouddha n'apparaît ; juste un couple de corps nus. Je n'aurais jamais imaginé que GoKo puisse advenir et illuminer comme dans ce film. » (Takahiko Iimura)  
+« Le film me rappelle l'aura (GoKo) qui illumine l'esprit de Bouddha – pourtant aucune image de Bouddha n'apparaît ; juste un couple de corps nus. Je n'aurais jamais imaginé que GoKo puisse advenir et illuminer comme dans ce film. » (Takahiko Iimura)  
 suivi de  
 [153999]  
 **Behind Every Good Man**  
@@ -302,13 +304,13 @@ suivi de
 **Orgasmus**  
 de Valie Export  
 Autriche / 1967 / 2 min / 16 mm  
-L'un des premiers films de Valie Export, traitement bref et pragmatique de la luxure. Demeure ma question de savoir si l'homme et la femme ont effectivement eu des rapports sexuels et qui était responsable de l'orgasme de la femme. (Sixpack)  
+« L'un des premiers films de Valie Export, traitement bref et pragmatique de la luxure. Demeure ma question de savoir si l'homme et la femme ont effectivement eu des rapports sexuels et qui était responsable de l'orgasme de la femme. » (Sixpack)  
 suivi de  
 [154001]  
 **Tapp und TastKino**  
 de Valie Export  
 Autriche / 1968 / 1 min / VO / Numérique  
-Le film documente une célèbre performance de Valie Export dans les rues de Vienne : sur sa poitrine, elle a attaché une boîte, un « mini-cinéma », dans laquelle deux mains peuvent s'introduire. La circonstance explicite le cinéma comme salle de projection des fantasmes masculins. (Sixpack)  
+« Le film documente une célèbre performance de Valie Export dans les rues de Vienne : sur sa poitrine, elle a attaché une boîte, un « mini-cinéma », dans laquelle deux mains peuvent s'introduire. La circonstance explicite le cinéma comme salle de projection des fantasmes masculins. » (Sixpack)  
 suivi de  
 [99685]  
 **Moment**  
@@ -326,7 +328,7 @@ suivi de
 **The Canaries**  
 de Jerome Hill  
 États-Unis / 1968 / 4 min / VO / 16 mm  
-Une leçon d'amour. Animation peinte à la main sur pellicule. (The Film-Makers' Coop)  
+« Une leçon d'amour. Animation peinte à la main sur pellicule. » (The Film-Makers' Coop)  
 suivi de  
 [154004]  
 **Orfeo filmando en el campo de batalla**  
@@ -369,7 +371,7 @@ suivi de
 **Danz**  
 de Georg Brintrup  
 RFA / 1969 / 4 min / 16 mm  
-Une brève flambée visuelle au fort pouvoir d'évocation érotique et sensuelle, pour un film portraitiste que l'on pourrait croire tourné hier, et qui préfigure des fulgurances chez Philippe Grandrieux.  
+Une brève flambée visuelle au fort pouvoir d'évocation érotique et sensuelle, pour un film portraitiste que l'on pourrait croire tourné hier, et qui préfigure les fulgurances chez Philippe Grandrieux.  
 suivi de  
 [154123]  
 **I Change I Am the Same**  
@@ -407,7 +409,7 @@ suivi de
 [154124]  
 **Basta**  
 d'Ugo Ulive  
-Vénézuéla / 1969 / 22 min / Numérique  
+Venezuela / 1969 / 22 min / Numérique  
 Dans _Basta_, les images pornographiques, comme celles de la morgue, ne sont pas là pour flatter le cortex visuel, mais au contraire pour dire le caractère insoutenable des dictatures en Amérique latine.
 
 - di 14 mai 20h00 JE
@@ -416,7 +418,7 @@ Dans _Basta_, les images pornographiques, comme celles de la morgue, ne sont pas
 **La Tête froide**  
 de Patrick Hella  
 Belgique / 1969 / 12 min / 16 mm  
-Ce conte à l'érotisme morbide, réalisé par un habitué du festival EXPRMNTL de Knokke, fut le premier film belge sélectionné à la Quinzaine des réalisateurs. (XGB)  
+« Ce conte à l'érotisme morbide, réalisé par un habitué du festival EXPRMNTL de Knokke, fut le premier film belge sélectionné à la Quinzaine des réalisateurs. » (XGB)  
 suivi de  
 [121283]  
 **Le Sexe enragé**  
@@ -428,7 +430,7 @@ suivi de
 **Faites-vous jouir de plus en plus**  
 de Michel Laitem  
 Belgique / 1974 / 18 min / Numérique  
-Professeur de morale, critique de cinéma, scénariste de bandes dessinées, Michel Laitem (1948-2013) réalise deux courts métrages – dont cette fable antitravail, exhortant à la critique radicale de la vie quotidienne, qui avait disparu depuis trente ans. (XGB)  
+« Professeur de morale, critique de cinéma, scénariste de bandes dessinées, Michel Laitem (1948-2013) réalise deux courts métrages – dont cette fable antitravail, exhortant à la critique radicale de la vie quotidienne, qui avait disparu depuis trente ans. » (XGB)  
 suivi de  
 [154129]  
 **Grève et pets**  
@@ -448,13 +450,13 @@ suivi de
 **Holding**  
 de Coni Beeson  
 États-Unis / 1971 / 13 min / 16 mm  
-Beauté de la surimpression fusionnant promenades élégiaques et intimité sexuelle.  
+Beauté de la surimpression fusionnant promenades élégiaques et intimité sexuelle. « Ce travail lyrique – de manière significative, l'un des rares films érotiques réalisé par une femme – progresse de préliminaires jusqu'au sexe explicite, prouvant que même les séquences _hardcore_ peuvent être subverties. » (Amos Vogel)  
 suivi de  
 [154012]  
 **The Now**  
 de Coni Beeson  
 États-Unis / 1972 / 17 min / 16 mm  
-« There are my past lives when my lovers were Black and my lovers were White. » (Coni Beeson) Célébration de l'amour libre et interracial.  
+Célébration de l'amour libre et interracial. « There are my past lives when my lovers were Black and my lovers were White. » (Coni Beeson)  
 suivi de  
 [154013]  
 **Firefly**  
@@ -525,13 +527,13 @@ suivi de
 **Good-by Elvis and USA**  
 de Keiichi Tanaami  
 Japon / 1971 / 7 min / Numérique  
-Par l'un des maîtres plasticiens psychédéliques, un déluge d'ironie critique face à la toute-puissance étatsunienne dans le Japon de l'époque.  
+Par l'un des maîtres plasticiens psychédéliques, un déluge d'ironie critique face à la toute-puissance étasunienne dans le Japon de l'époque.  
 suivi de  
 [154009]  
 **I Don't Know**  
 de Penelope Spheeris  
 États-Unis / 1971 / 20 min / VO / 16 mm  
-« I Don't Know observe la relation entre une lesbienne et un homme transgenre qui préfère être identifié quelque part entre homme et femme, en une expression d'ambiguïté personnelle suggérée par le titre du film. » (Light Cone)  
+« _I Don't Know_ observe la relation entre une lesbienne et un homme transgenre qui préfère être identifié quelque part entre homme et femme, en une expression d'ambiguïté personnelle suggérée par le titre du film. » (Light Cone)  
 suivi de  
 [154149]  
 **Phosphene**  
@@ -549,7 +551,7 @@ suivi de
 **Blue Streak**  
 de Mark Rappaport  
 États-Unis / 1971 / 16 min  
-Premier film de mark Rappaport, _Blue Streak_ est un manifeste formel et politique alliant nudité et cartons évoquant les thématiques et les problématiques sexuelles.
+Premier film de Mark Rappaport, _Blue Streak_ est un manifeste formel et politique alliant nudité et cartons évoquant les thématiques et les problématiques sexuelles.
 
 - sa 20 mai 20h30 GF
 
@@ -577,7 +579,7 @@ suivi de
 **Near the Big Chakra**  
 d'Alice Anne Parker  
 États-Unis / 1972 / 17 min / Numérique  
-Célébration frontale des vulves dans ce chef-d'œuvre expérimental généreux, radical, féministe et inclusif.  
+Célébration frontale des vulves dans ce chef-d'œuvre expérimental généreux, radical, féministe et inclusif. « The impression made by this film, its impact – has been enormous. This film is a new approach to our femininity. » (Agnès Varda)  
 suivi de  
 [59162]  
 **Derrière la porte verte**  
@@ -600,33 +602,23 @@ suivi de
 **Hot Nasty**  
 de Tom Palazzolo  
 États-Unis / 1972 / 14 min / VO / 16 mm  
-Tom Palazzolo, encore méconnu en France, est une grande figure documentaire/avant-gardiste de la sexualité des années 1970. Hot and nasty observe les rapports entre le sexe et le travail.  
+Tom Palazzolo, encore méconnu en France, est une grande figure documentaire/avant-gardiste de la sexualité des années 1970. _Hot Nasty_ observe les rapports entre le sexe et le travail.  
 suivi de  
 [154177]  
-**Love it / Leave it**  
+**Love It / Leave It**  
 de Tom Palazzolo  
 États-Unis / 1973 / 14 min / Numérique  
-_Love it / leave it_ explore une série d'Americana en dégageant leur charge érotique.
+_Love It / Leave It_ explore une série d'_americana_ en dégageant leur charge érotique.
 
 - me 24 mai 21h00 GF
 
 [61838]  
-**Belladonna**  
+**Belladonna des tristesses**  
 **(Kanashimi no Beradonna)**  
 d'Eiichi Yamamoto  
 Japon / 1973 / 88 min / VOSTF / 35 mm  
-D'après l'essai _La Sorcière_ de Jules Michelet.  
-Avec Tatsuya Nakadai, Katsuyuki Itô, Aiko Nagayama, Masaya Takahashi, Masakane Yonekura.  
-« Influencés par l'art nouveau, les plans évoquent Alfons Mucha, Aubrey Beardsley, Gustav Klimt, Egon Schiele. La conclusion du film, marqué par l'idéologie d'une époque hyper-libertaire, rappelle l'apport des femmes dans la Révolution française. » (JM Lanlo)
-
----
-
-Jeanne, dans l'espoir d'obtenir vengeance, pactise avec le Diable après avoir été violée par le seigneur de son village.  
-Restauré en 4K par Cinelecious à partir d'un négatif original et d'une copie de la Cinemathèque Royale de Belgique.
-
----
-
-D'après Jules Michelet, un animé érotique jamais exploité en salles depuis 1973.
+D'après l'ouvrage _La Sorcière_ de Jules Michelet.  
+Jeanne, dans l'espoir d'obtenir vengeance, pactise avec le diable après avoir été violée par le seigneur de son village. « Influencés par l'Art nouveau, les plans évoquent Alfons Mucha, Aubrey Beardsley, Gustav Klimt, Egon Schiele. La conclusion du film, marquée par l'idéologie d'une époque hyper-libertaire, rappelle l'apport des femmes dans la Révolution française. » (Jean-Marie Lanlo)
 
 - je 25 mai 18h30 GF
 
@@ -634,7 +626,7 @@ D'après Jules Michelet, un animé érotique jamais exploité en salles depuis 1
 **X**  
 de Barbara Hammer  
 États-Unis / 1973 / 9 min / VO / 16 mm  
-« Dans les années 70, j'ai créé une esthétique connectant vue et toucher. L'image tactile devait impliquer physiquement l'audience. J'espérais qu'en ressentant d'une manière 'nouvelle', elle deviendrait active dans le champ politique. » (BH)  
+« Dans les années 70, j'ai créé une esthétique connectant vue et toucher. L'image tactile devait impliquer physiquement l'audience. J'espérais qu'en ressentant d'une manière « nouvelle », elle deviendrait active dans le champ politique. » (Barbara Hammer)  
 suivi de  
 [154023]  
 **Menses**  
@@ -658,15 +650,15 @@ suivi de
 **Nitrate Kisses**  
 de Barbara Hammer  
 États-Unis / 1992 / 67 min / VO / 16 mm  
-Pièce essentielle dans l'histoire de la représentation des corps de lesbiennes âgées, à ce jour peu fournie encore, à laquelle on pourrait ajouter le nom de Yvonne Rainer.
+Pièce essentielle dans l'histoire de la représentation des corps de lesbiennes âgées, à ce jour peu fournie encore, à laquelle on pourrait ajouter le nom d'Yvonne Rainer.
 
 - je 25 mai 20h45 GF
 
 [145015]  
-**Chôfuku-ki**  
-de Shuji Terayama  
+**Chōfuku-ki**  
+de Shūji Terayama  
 Japon / 1974 / 15 min / Numérique  
-Œuvre aux allures de performance du subversif Terayama (_Cache-cache pastoral, Empereur Tomato Ketchup_) : un public va et vient dans une salle où sont projetées des visions hallucinées d'orgies parcourues par un énigmatique papillon.  
+Œuvre aux allures de performance du subversif Terayama (_Cache-cache pastoral_, _L'Empereur tomato ketchup_) : un public va et vient dans une salle où sont projetées des visions hallucinées d'orgies parcourues par un énigmatique papillon.  
 suivi de  
 [154024]  
 **Passing Strangers**  
@@ -691,7 +683,7 @@ Avec Miki Sugimoto, Reiko Ike, Seiko Saburi, Misuzu Ōta.
 de Chantal Akerman  
 Belgique / 1974 / 90 min / DCP  
 Avec Chantal Akerman, Niels Arestrup, Claire Wauthion.  
-Une jeune femme passe du temps seule dans sa chambre, sur la route en stop, et avec une amie.
+Une jeune femme passe du temps seule dans sa chambre, sur la route en stop, et avec une amie. « Je retournais à Bruxelles en stop voir cette fille, Claire, et j'ai vécu toutes sortes d'aventures avec les camionneurs qui me prenaient en stop, c'était dangereux. Mais à l'époque, on vivait comme ça. » (Chantal Akerman)
 
 - sa 27 mai 20h30 GF
 
@@ -702,21 +694,17 @@ Japon / 1975 / 4 min / Numérique
 Cavalcade d'images psychédéliques érotiques en techniques mixtes.  
 suivi de  
 [154192]  
-**Human events**  
+**Human Events**  
 de Keiichi Tanaami  
 Japon / 1975 / 5 min / Numérique  
-_Human Events_ est réalisé pour une performance de danse de Tsujimura Kazuko au Kinokuniya Hall, Shinjuku, Tokyo.  
+_Human Events_ est réalisé pour une performance de danse de Kazuko Tsujimura au Kinokuniya Hall, Shinjuku, Tokyo.  
 suivi de  
 [59075]  
 **Dehors-dedans**  
 d'Alain Fleischer  
 France / 1974 / 80 min / 16 mm  
 Avec Catherine Jourdan.  
-Des textes extraits de l'_Histoire de la Révolution Française_ de Jules Michelet, sur des images souvent érotiques d'une jeune femme dans son appartement, entrecoupées de vues de Paris et de ses monuments.
-
----
-
-Catherine Jourdan, la star la plus intense de l'underground français, fait sa révolution dans sa chambre, entre onanisme violent, terreur paranoïaque et farce séditieuse. Il faudrait éditer _Dehors Dedans_ en DVD et le projeter dans toutes les écoles de cinéma comme modèle de manifeste _homemade_ : il suffira toujours d'un auteur, d'une muse, d'une caméra et d'un maximum de désir pour que se déploient en un film toutes les puissances de l'intime et du politique. (Y.G.)
+Des textes extraits de l'_Histoire de la Révolution française_ de Jules Michelet, sur des images souvent érotiques d'une jeune femme dans son appartement, entrecoupées de vues de Paris et de ses monuments.
 
 - di 28 mai 18h00 GF
 
