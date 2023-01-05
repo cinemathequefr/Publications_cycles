@@ -3,7 +3,7 @@
 ## Les films
 
 [54223]  
-**2001 : L'Odyssée de l'espace**  
+**2001 : l'odyssée de l'espace**  
 **(2001: A Space Odyssey)**  
 de Stanley Kubrick  
 États-Unis / 1968 / 149 min / VOSTF / 70 mm  
@@ -45,7 +45,7 @@ L'ingénieur Los réceptionne un curieux message qui semble venir de l'espace. D
 [36119]  
 **Alien**  
 de Ridley Scott  
-États-Unis / 1978 / 117 min / VOSTF / 70 mm  
+États-Unis / 1979 / 117 min / VOSTF / 70 mm  
 Avec Sigourney Weaver, John Hurt, Ian Holm, Tom Skerritt, Veronica Cartwright.  
 Une dangereuse créature extraterrestre à bord du « Nostromo », un vaisseau spatial en route pour la Terre, s'attaque aux sept membres de l'équipage, un par un. Le lieutenant Ellen Ripley va affronter cet indésirable huitième passager.  
 Restauration 4K menée en 2018 par la 20th Century Fox à la Company 3/Deluxe Entertainment Services Group, sous la supervision de Ridley Scott et Pam Dery.
@@ -205,7 +205,7 @@ _Director's cut_. Restauration 4K sous la direction de Steven Spielberg par Sony
 [34064]  
 **Silent Running**  
 de Douglas Trumbull  
-États-Unis / 1971 / 90 min / VOSTF / Numérique  
+États-Unis / 1972 / 90 min / VOSTF / Numérique  
 Avec Bruce Dern, Cliff Potts, Ron Rifkin.  
 En 2001, toute végétation saine a disparu de la surface de la planète. Le professeur Lowell, botaniste astronaute, préserve les dernières espèces de flore et de faune. Lorsque ses supérieurs lui annoncent que le projet, peu rentable, est annulé, il se révolte.
 
@@ -258,7 +258,7 @@ Séance présentée par Jean-François Rauger
 **The Thing**  
 de John Carpenter  
 États-Unis / 1981 / 127 min / VOSTF / DCP  
-D'après la nouvelle _Who Goes There ?_ de John W. Campbell Jr.  
+D'après la nouvelle _Who Goes There?_ de John W. Campbell Jr.  
 Avec Kurt Russell, Wilford Brimley, T.K. Carter.  
 Dans une station de l'Antarctique, une mystérieuse créature polymorphe tue les membres d'une expédition en assimilant toute forme de vie, semant la peur et la paranoïa.
 

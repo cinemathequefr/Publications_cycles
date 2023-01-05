@@ -219,7 +219,9 @@ L'aventurier Chuck Connors est en visite chez un ami, quand celui-ci se tue en t
 
 ## Rencontres et conférences
 
-**Dialogue avec Jean-François Rauger**
+**Dialogue avec Jean-François Rauger**  
+Le film compte parmi les meilleures réalisations d'Hugo Fregonese durant sa période hollywoodienne qui dura de 1950 à 1954. Le scénario de Sydney Boehm _(Règlement de comptes_ de Fritz Lang, _Les Inconnus dans la ville_ de Richard Fleischer, _Bungalow pour femmes_ de Raoul Walsh) s'inspire d'un fait historique authentique survenu durant la Guerre de sécession. Le raid sudiste sur Saint Albans (État de New York) en 1864 fut, en effet, l'opération militaire la plus septentrionale du conflit entre les Nordistes et la Confédération. Fregonese et Boehm évitent spectaculairement tous les clichés attendus du western à petit budget et contournent toute tentation sentimentale pour livrer un film sec et sans fioritures, dénué de tout manichéisme et peuplé de personnages complexes, quoique brossés avec un sens aigu de la concision. (Jean-François Rauger)  
+**Jean-François Rauger** est directeur de la programmation à la Cinémathèque française.
 
 - sa 1 avr 14h30 HL  
 À la suite de la projection de _The Raid_ de Hugo Fregonese (voir p. xx)

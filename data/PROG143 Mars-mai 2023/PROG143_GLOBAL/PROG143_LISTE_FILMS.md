@@ -200,7 +200,7 @@
 
 ## La science-fiction en 25 films indispensables (25)
 
-  * 2001 : L'Odyssée de l'espace  
+  * 2001 : l'odyssée de l'espace  
   * Abyss  
   * Ad Astra  
   * Aelita  
@@ -241,7 +241,7 @@
   * Jeu du faucon (Le)  
   * Maldonne pour un espion  
   * Mes funérailles à Berlin  
-  * Mission : Impossible  
+  * Mission: Impossible  
   * Patriotes (Les)  
   * Quand les aigles attaquent  
   * Quatre de l'espionnage  

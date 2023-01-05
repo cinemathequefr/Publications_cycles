@@ -351,7 +351,7 @@ Un artiste de variétés au chômage décide de présenter des « prologues » e
 **(What Ever Happened to Baby Jane?)**  
 de Robert Aldrich  
 États-Unis / 1962 / 132 min / VOSTF / DCP  
-D'après le roman _What Ever Happened to Baby Jane? _ de Henry Farrell.  
+D'après le roman _What Ever Happened to Baby Jane?_ de Henry Farrell.  
 Avec Bette Davis, Joan Crawford, Victor Buono.  
 « Baby Jane » Hudson a été une enfant star dans les années 1910. Plus tard, sa sœur Blanche a connu elle aussi la gloire, mais un étrange accident l'a rendue infirme, mettant fin à sa carrière. Désormais, elles vivent ensemble.
 
@@ -415,8 +415,10 @@ Dan et Joan tombent amoureux alors qu'ils traversent le Pacifique. Mais ils save
 
 ## Rencontres et conférences
 
-**Conférence Murielle Joudet**  
-**Conférence **
+**« Warner Bros., fabrique de stars » par Murielle Joudet**  
+**Conférence de Murielle Joudet**  
+Jack Warner l'avoue : « J'ai créé suffisamment de stars de cinéma – s'il m'est permis, en toute modestie, d'utiliser le terme « créer » – pour remplir le ciel d'Hollywood. » Il les a même fabriquées, donnant naissance à un glamour reconnaissable entre tous : urbain, profane, amoral. James Cagney, Joan Blondell, Humphrey Bogart, Bette Davis sont les noms de ces demi-dieux créés à son image, forgés dans la furie des années 30 et de la Grande Dépression made in Warner, projetant sur l'écran leur instinct de survie et leur individualisme nietzschéen. Hors écran, ces indomptés étaient des « produits » sous contrat, livrés corps, visage, âme et désirs au bon vouloir d'un studio paternaliste qui détenait un droit de vie et de mort sur ses créatures – souvent tentées de se rebeller. Bette Davis à propos de Jack Warner : « Il était le père. Le pouvoir. La gloire. (...) Nous sommes devenus père et enfant, sans aucun doute. »  
+Murielle Joudet est critique de cinéma au _Monde,_ elle participe à l'émission _Le Cercle_ (Canal +) et anime une émission d'entretiens sur le site Hors-série. Elle a publié deux ouvrages consacrés à des actrices : _Isabelle Huppert : Vivre ne nous regarde pas_ (Capricci, 2018) et _Gena Rowlands : On aurait dû dormir_ (Capricci, Prix 2021 du livre de cinéma) et, récemment, aux éditions Premier parallèle, _La Seconde Femme_, un essai sous-titré : _Ce que les actrices font à la vieillesse._
 
 - me 19 avr 19h00 GF  
 À la suite de la conférence, à 21h30, projection d'un film choisi par le conférencier : _Une femme cherche son destin_ d'Irving Rapper (voir p. xx)
