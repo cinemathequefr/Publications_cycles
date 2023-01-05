@@ -7,7 +7,7 @@
 de Giuseppe Tornatore  
 Italie-Belgique-Pays-Bas-Japon / 2021 / 156 min / DCP  
 Avec Ennio Morricone, Bernardo Bertolucci, Dario Argento, Clint Eastwood.  
-Ennio retrace la biographie du compositeur Ennio Morricone, disparu en 2020, à travers une série d'entretiens inédits filmés, d'interviews de cinéastes pour lesquels il a œuvré, et de nombreux documents d'époque, extraits de films et musicaux.
+_Ennio_ retrace la biographie du compositeur Ennio Morricone, disparu en 2020, à travers une série d'entretiens inédits filmés, d'interviews de cinéastes pour lesquels il a œuvré, et de nombreux documents d'époque, extraits de films et musicaux.
 
 - je 23 mar 17h30 JE  
 Voir aussi conférence p. xx

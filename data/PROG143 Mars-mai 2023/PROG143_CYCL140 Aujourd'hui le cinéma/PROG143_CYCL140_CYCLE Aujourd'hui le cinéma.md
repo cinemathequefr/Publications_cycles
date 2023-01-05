@@ -27,15 +27,18 @@ Portugal-France-Danemark / 1997 / 94 min / VOSTF / 35 mm
 Avec Vanda Duarte, Nuno Vaz.  
 L'errance dramatique d'un jeune couple et d'un bébé dans les rues d'un quartier pauvre de Lisbonne.
 
-- lu 6 mar 19h30 JE  
-Séance suivie d'une discussion avec Peter Bastos
+- lu 6 mar 19h30 JE
 
 [154127]  
 **Un dernier été**  
 de Xavier Lacaille  
-France / 2022  
+France / 2022 / 16 min / DCP  
 Avec Thomas Daloz, Anton Salachas, Gwenn Vourc'h.  
-L'amitié de Cédric, Romain et Carlos prend l'eau en cette fin de vacances, alors qu'ils jouent probablement leur dernière partie de Warhammer ensemble.
+L'amitié de Cédric, Romain et Carlos prend l'eau en cette fin de vacances, alors qu'ils jouent probablement leur dernière partie de Warhammer ensemble.  
+suivi de  
+[64805]  
+****  
+111 min / 35 mm
 
 - lu 13 mar 19h30 GF  
 Séance suivie d'une discussion avec Xavier Lacaille

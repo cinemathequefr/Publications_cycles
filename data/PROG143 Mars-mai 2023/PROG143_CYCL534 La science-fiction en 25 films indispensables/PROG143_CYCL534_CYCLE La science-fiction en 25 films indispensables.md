@@ -26,15 +26,14 @@ Ouverture de la rétrospective
 [142701]  
 **Ad Astra**  
 de James Gray  
-États-Unis-Brésil / 2017 / 122 min / VOSTF / DCP  
+États-Unis-Brésil / 2019 / 122 min / VOSTF / DCP  
 Avec Brad Pitt, Liv Tyler, Ruth Negga, Tommy Lee Jones.  
-Dans un avenir proche, l'astronaute Roy McBride a pour mission de trouver une solution aux multiples explosions qui menacent la Terre et seraient dues à des rayons cosmiques émanant de Neptune. Précisément la planète où son père, lui aussi astronaute, fut porté disparu seize ans auparavant.
+Dans un futur proche, l'astronaute Roy McBride a pour mission de trouver une solution aux multiples explosions qui menacent la Terre et seraient dues à des rayons cosmiques émanant de Neptune. Précisément la planète où son père, lui aussi astronaute, fut porté disparu seize ans auparavant.
 
 - ve 24 mar 20h00 HL
 
 [40965]  
 **Aelita**  
-**(Аэлита)**  
 de Yakov Protazanov  
 URSS / 1924 / 111 min / INT. FR. / DCP  
 Avec Ioulia Solntseva, Nikolaï Batalov, Konstantin Eggert, Igor Ilinski.  
@@ -47,7 +46,7 @@ L'ingénieur Los réceptionne un curieux message qui semble venir de l'espace. D
 de Ridley Scott  
 États-Unis / 1979 / 117 min / VOSTF / 70 mm  
 Avec Sigourney Weaver, John Hurt, Ian Holm, Tom Skerritt, Veronica Cartwright.  
-Une dangereuse créature extraterrestre à bord du « Nostromo », un vaisseau spatial en route pour la Terre, s'attaque aux sept membres de l'équipage, un par un. Le lieutenant Ellen Ripley va affronter cet indésirable huitième passager.  
+Une dangereuse créature extraterrestre à bord du Nostromo, un vaisseau spatial en route pour la Terre, s'attaque aux sept membres de l'équipage, un par un. Le lieutenant Ellen Ripley va affronter cet indésirable huitième passager.  
 Restauration 4K menée en 2018 par la 20th Century Fox à la Company 3/Deluxe Entertainment Services Group, sous la supervision de Ridley Scott et Pam Dery.
 
 - ve 17 mar 20h45 HL  
@@ -58,17 +57,16 @@ Séance présentée par Bernard Benoliel
 de Jean-Luc Godard  
 France-Italie / 1965 / 98 min / DCP  
 Avec Eddie Constantine, Anna Karina, Akim Tamiroff, Howard Vernon.  
-« Mon film est un peu comme _Nadja_ d'André Breton. On se promène dans Paris et le surréel apparaît. » (JLG, 1965)
+L'agent secret Lemmy Caution, envoyé à Alphaville pour détruire l'ordinateur Alpha 60, tombe amoureux de Natacha, la fille du professeur von Braun.
 
 - sa 1 avr 19h30 GF
 
 [121118]  
 **Gravity**  
 d'Alfonso Cuarón  
-États-Unis-Grande-Bretagne / 2011 / 91 min / VOSTF / DCP  
+États-Unis-Grande-Bretagne / 2013 / 91 min / VOSTF / DCP  
 Avec Sandra Bullock, George Clooney, Ed Harris.  
-À la suite d'une catastrophe, le commandant d'une navette spatiale américaine et une astronaute tentent de survivre dans l'espace et de rentrer sur terre.  
-En 2012, le Dolby Atmos numérique est mis au point; ce procédé offre une spatialisation acoustique étendue, qui complète le dispositif en 3D pour un rendu sensoriel de l'apesanteur particulièrement réussi. Projection en 3D
+À la suite d'une catastrophe, le commandant d'une navette spatiale américaine et une astronaute tentent de survivre dans l'espace et de rentrer sur terre.
 
 - ve 24 mar 18h00 HL
 
@@ -76,8 +74,8 @@ En 2012, le Dolby Atmos numérique est mis au point; ce procédé offre une spat
 **La Guerre des mondes**  
 **(War of the Worlds)**  
 de Steven Spielberg  
-États-Unis / 2004 / 116 min / VOSTF / 35 mm  
-D'après la nouvelle _La Guerre des mondes_ de H.G. Wells.  
+États-Unis / 2005 / 116 min / VOSTF / 35 mm  
+D'après le roman _La Guerre des mondes_ de H. G. Wells.  
 Avec Tom Cruise, Dakota Fanning, Miranda Otto.  
 D'étranges et gigantesques machines venues de l'espace surgissent brusquement et détruisent tout sur leur passage. Ray Ferrier et sa famille vont devoir se battre pour leur survie.
 
@@ -87,7 +85,7 @@ D'étranges et gigantesques machines venues de l'espace surgissent brusquement e
 **L'Invasion des profanateurs de sépultures**  
 **(Invasion of the Body Snatchers)**  
 de Don Siegel  
-États-Unis / 1955 / 80 min / VOSTF / DCP  
+États-Unis / 1956 / 80 min / VOSTF / DCP  
 D'après le roman _L'Invasion des profanateurs_ de Jack Finney.  
 Avec Kevin McCarthy, Dana Wynter, King Donovan, Carolyn Jones.  
 Dans une petite ville de Californie, le médecin local constate un comportement étrange chez les habitants, qui paraissent soudain dénués d'émotions. Peu à peu, il comprend qu'une invasion extraterrestre est en cours.
@@ -98,7 +96,7 @@ Séance présentée par Jean-François Rauger
 [50886]  
 **Je t'aime, je t'aime**  
 d'Alain Resnais  
-France / 1967 / 91 min / DCP  
+France / 1968 / 91 min / DCP  
 Avec Claude Rich, Olga Georges-Picot, Anouk Ferjac.  
 Après une tentative de suicide, un employé de bureau se prête à une expérience scientifique : un voyage dans le temps qui lui fera revivre une minute de son passé, un an plus tôt exactement.
 
@@ -130,8 +128,7 @@ Un vaisseau spatial atterrit accidentellement dans une zone désertique de l'Ari
 de Fritz Lang  
 Allemagne / 1927 / 152 min / INT. FR. / DCP  
 Avec Alfred Abel, Gustav Fröhlich, Brigitte Helm, Rudolf Klein-Rogge.  
-En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterrains pour assurent le bonheur des nantis qui vivent dans les jardins suspendus de la ville. Une androïde les mène à la révolte mais, pour contrer son influence, le chef de la cité fait construire un robot à son image.  
-Copie avec musique. Partition originale de 1927 de Gottfried Huppertz.
+En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterrains pour assurent le bonheur des nantis qui vivent dans les jardins suspendus de la ville. Une androïde les mène à la révolte mais, pour contrer son influence, le chef de la cité fait construire un robot à son image.
 
 - di 19 mar 18h15 HL
 
@@ -141,18 +138,18 @@ Copie avec musique. Partition originale de 1927 de Gottfried Huppertz.
 de Michael Crichton  
 États-Unis / 1973 / 88 min / VOSTF / DCP  
 Avec Yul Brynner, Richard Benjamin, James Brolin.  
-Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger dans plusieurs époques. Lancés dans l'ouest sauvage, deux amis se retrouvent en plein cauchemar quand les androïdes se détraquent et s'attaquent aux touristes.
+Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger dans plusieurs époques. Lancés dans l'Ouest sauvage, deux amis se retrouvent en plein cauchemar quand les androïdes se détraquent et s'attaquent aux touristes.
 
 - sa 1 avr 17h00 GF
 
 [42234]  
 **Le Monstre**  
-**(Quatermass Experiment)**  
+**(The Quatermass Xperiment)**  
 de Val Guest  
 Grande-Bretagne / 1955 / 82 min / VOSTF / 35 mm  
-D'après la série télévisée _Quatermass and the Pit_.  
 Avec Brian Donlevy, Margia Dean, Thora Hird, Jack Warner.  
-Une expédition spatiale revient de mission avec un seul survivant à bord qui se transforme progressivement en monstre, ce qui intrigue le physicien Quatermass.
+Une expédition spatiale revient de mission avec un seul survivant à bord qui se transforme progressivement en monstre, ce qui intrigue le physicien Quatermass.  
+Film dérivé de la série télévisée britannique _The Quatermass Experiment_ (1953).
 
 - di 2 avr 17h45 GF  
 Séance présentée par Jean-François Rauger
@@ -162,9 +159,9 @@ Séance présentée par Jean-François Rauger
 **(Quatermass and the Pit)**  
 de Roy Ward Baker  
 Grande-Bretagne / 1967 / 98 min / VOSTF / 35 mm  
-D'après la série télévisée _Quatermass and the Pit_.  
 Avec James Donald, Andrew Keir, Barbara Shelley.  
-Un vaisseau spatial d'origine martienne est découvert dans le métro londonien. Le professeur Quatermass mène l'enquête.
+Un vaisseau spatial d'origine martienne est découvert dans le métro londonien. Le professeur Quatermass mène l'enquête.  
+Film dérivé de la série télévisée britannique _Quatermass and the Pit_ (1958-59).
 
 - di 2 avr 20h00 GF  
 Séance présentée par Jean-François Rauger
@@ -173,7 +170,7 @@ Séance présentée par Jean-François Rauger
 **La Mouche**  
 **(The Fly)**  
 de David Cronenberg  
-États-Unis / 1985 / 96 min / VOSTF / DCP  
+États-Unis / 1986 / 96 min / VOSTF / DCP  
 D'après la nouvelle _La Mouche_ de George Langelaan.  
 Avec Jeff Goldblum, Geena Davis, John Getz.  
 Un jeune biologiste très doué met au point une invention qui doit révolutionner le monde : la téléportation. Après des essais peu convaincants, il décide de se téléporter lui-même, sans s'apercevoir qu'une mouche fait partie du voyage.
@@ -184,7 +181,7 @@ Un jeune biologiste très doué met au point une invention qui doit révolutionn
 **Le Mystère Andromède**  
 **(The Andromeda Strain)**  
 de Robert Wise  
-États-Unis / 1970 / 115 min / VOSTF / DCP  
+États-Unis / 1971 / 115 min / VOSTF / DCP  
 D'après le roman _La Variété Andromède_ de Michael Crichton.  
 Avec Arthur Hill, David Wayne, Kate Reid.  
 Après la chute d'une sonde spatiale, une épidémie frappe une bourgade mexicaine. Quatre scientifiques des services bactériologiques de l'armée enquêtent sur ce mystérieux phénomène, qui menace l'humanité entière.
@@ -197,8 +194,7 @@ Après la chute d'une sonde spatiale, une épidémie frappe une bourgade mexicai
 de Steven Spielberg  
 États-Unis / 1977 / 137 min / VOSTF / DCP  
 Avec Richard Dreyfuss, François Truffaut, Teri Garr.  
-Quelque part dans l'univers, il existe certainement une vie extraterrestre. Des faits étranges attirent de nombreux chercheurs et spécialistes d'OVNI vers un même lieu... Au Mexique, en plein désert de Sonora, un scientifique français, Claude Lacombe, tente d'établir le contact.  
-_Director's cut_. Restauration 4K sous la direction de Steven Spielberg par Sony Pictures Entertainment à partir du négatif original. Scan par Cineric laboratory et restauration par Prasad Group (Inde). Restauration sonore par Deluxe Audio à Hollywood.
+Quelque part dans l'univers, il existe certainement une vie extraterrestre. Des faits étranges attirent de nombreux chercheurs et spécialistes d'ovnis vers un même lieu. Au Mexique, en plein désert de Sonora, un scientifique français, Claude Lacombe, tente d'établir le contact.
 
 - lu 27 mar 20h45 HL
 
@@ -214,11 +210,10 @@ En 2001, toute végétation saine a disparu de la surface de la planète. Le pro
 [53695]  
 **Solaris**  
 d'Andreï Tarkovski  
-URSS / 1971 / 165 min / VOSTF / DCP  
+URSS / 1972 / 165 min / VOSTF / DCP  
 D'après le roman _Solaris_ de Stanislaw Lem.  
-Avec Donatas Banionis, Natalya Bondarchuk.  
-Envoyé sur la base spatiale Solaris, un ingénieur est confronté à une mystérieuse forme de vie.  
-Film restauré par les Studios Mosfilm d'après un négatif 35 mm.
+Avec Natalia Bondartchouk, Donatas Banionis, Jüri Järvet, Anatoli Solonitsyne, Nikolaï Grinko.  
+Envoyé sur la base spatiale Solaris, un ingénieur est confronté à une mystérieuse forme de vie.
 
 - di 26 mar 19h15 HL
 
@@ -226,10 +221,10 @@ Film restauré par les Studios Mosfilm d'après un négatif 35 mm.
 **Soleil vert**  
 **(Soylent Green)**  
 de Richard Fleischer  
-États-Unis / 1972 / 97 min / VOSTF / 35 mm  
+États-Unis / 1973 / 97 min / VOSTF / 35 mm  
 D'après le roman _Make Room! Make Room!_ de Harry Harrison.  
-Avec Charlton Heston, Edward G. Robinson, Joseph Cotten.  
-New York, 2022. Les hommes ont épuisé les ressources naturelles. Seul le « Soleil Vert » parvient à nourrir une population miséreuse qui ignore tout de cet aliment. Accompagné de son fidèle ami, un policier va découvrir au péril de sa vie l'effroyable réalité de cette société inhumaine.
+Avec Charlton Heston, Leigh Taylor-Young, Chuck Connors, Joseph Cotten.  
+New York, 2022. Les hommes ont épuisé les ressources naturelles. Seul le « soleil vert » parvient à nourrir une population miséreuse qui ignore tout de cet aliment. Accompagné de son fidèle ami, un policier va découvrir au péril de sa vie l'effroyable réalité de cette société inhumaine.
 
 - lu 27 mar 18h30 HL
 
@@ -257,9 +252,9 @@ Séance présentée par Jean-François Rauger
 [30931]  
 **The Thing**  
 de John Carpenter  
-États-Unis / 1981 / 127 min / VOSTF / DCP  
+États-Unis / 1982 / 127 min / VOSTF / DCP  
 D'après la nouvelle _Who Goes There?_ de John W. Campbell Jr.  
-Avec Kurt Russell, Wilford Brimley, T.K. Carter.  
+Avec Kurt Russell, Wilford Brimley, T. K. Carter.  
 Dans une station de l'Antarctique, une mystérieuse créature polymorphe tue les membres d'une expédition en assimilant toute forme de vie, semant la peur et la paranoïa.
 
 - di 26 mar 16h30 HL  
