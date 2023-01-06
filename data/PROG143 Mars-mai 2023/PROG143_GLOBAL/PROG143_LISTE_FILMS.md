@@ -365,30 +365,29 @@
   * Anges aux figures sales (Les)  
   * Aventures de Don Juan (Les)  
   * Aventures de Robin des Bois (Les)  
-  * Bar magnifique (Le)  
   * Blonde Crazy  
   * Bourreau (Le)  
   * Capitaine Blood  
   * Casablanca  
   * Charge de la brigade légère (La)  
-  * Chercheuses d'or  
+  * Chercheuses d'or de 1933  
   * Échec à la Gestapo  
   * Ennemi public (L')  
   * Faucon maltais (Le)  
   * Femme aimée est toujours jolie  
   * Femmes marquées  
   * Feu sur le gang  
-  * Glorieuse Parade (La)  
-  * Grand Sommeil (Le)  
+  * Glorieuse parade (La)  
+  * Grand sommeil (Le)  
   * Griffes jaunes  
   * Guerre ou crime  
-  * Impossible Amour (L')  
+  * Impossible amour (L')  
   * Intruse (L')  
   * Légion noire (La)  
   * Lettre (La)  
   * Mort n'était pas au rendez-vous (La)  
   * Patrouille de l'aube (La)  
-  * Petit Géant (Le)  
+  * Petit géant (Le)  
   * Piste de Santa Fe (La)  
   * Prologues  
   * Qu'est-il arrivé à Baby Jane ?  
@@ -396,7 +395,8 @@
   * Tombeur (Le)  
   * Trésor de la Sierra Madre (Le)  
   * Une femme cherche son destin  
-  * Voyage sans retour
+  * Voyage sans retour  
+  * Wonder Bar
 
 ## Yann Dedet (18)
 

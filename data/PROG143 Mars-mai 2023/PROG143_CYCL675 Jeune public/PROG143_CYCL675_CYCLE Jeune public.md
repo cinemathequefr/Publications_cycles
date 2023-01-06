@@ -143,10 +143,9 @@ Qui pourrait se douter qu'un petit garçon cache un si grand secret ? Et qui pou
 **Les Aventures de Robin des Bois**  
 **(The Adventures of Robin Hood)**  
 de Michael Curtiz, William Keighley  
-États-Unis / 1937 / 102 min / VF / DCP  
+États-Unis / 1938 / 102 min / VF / DCP  
 Avec Errol Flynn, Olivia De Havilland, Basil Rathbone, Claude Rains.  
-Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'arroger le trône d'Angleterre. Robin de Locksley se réfugie alors dans la forêt de Sherwood avec ses compagnons saxons et mène la révolte sous le nom de Robin des Bois.  
-Restauré par le MoMA en 2014.
+Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'arroger le trône d'Angleterre. Robin de Locksley se réfugie alors dans la forêt de Sherwood avec ses compagnons saxons et mène la révolte sous le nom de Robin des Bois.
 
 - di 23 avr 15h00 GF
 
@@ -181,7 +180,7 @@ Wallace, inventeur farfelu, et son flegmatique chien Gromit, enchaînent les ave
 de Michael Curtiz  
 États-Unis / 1940 / 108 min / VOSTF / 35 mm  
 Avec Errol Flynn, Donald Crisp, Claude Rains.  
-En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La Reine Elizabeth investit en secret le corsaire Geoffrey Thorpe d'une mission visant à harceler la flotte espagnole.
+En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La reine Elizabeth investit en secret le corsaire Geoffrey Thorpe d'une mission pour harceler la flotte espagnole.
 
 - di 7 mai 15h00 GF
 
