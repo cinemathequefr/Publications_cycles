@@ -1,6 +1,6 @@
 [
   {
-    "idSeance": 90320,
+    "idSeance": 96782,
     "idEvenement": 27183,
     "dateHeure": "2023-03-06T19:30:00",
     "salle": "JE",
@@ -10,7 +10,6 @@
         "Les films_TEMP"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Peter Bastos",
     "items": [
       {
         "idFilm": 154318,
@@ -56,7 +55,7 @@
     "hashEvenement": "c27614"
   },
   {
-    "idSeance": 90490,
+    "idSeance": 96783,
     "idEvenement": 27177,
     "dateHeure": "2023-03-13T19:30:00",
     "salle": "GF",
@@ -66,16 +65,27 @@
         "Les films_TEMP"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Xavier Lacaille",
+    "mention": "Séance suivie d'une discussion avec Xavier Lacaille et Noémie Lvovsky",
     "items": [
       {
         "idFilm": 154127,
         "titre": "Un dernier été",
         "realisateurs": "Xavier Lacaille",
-        "annee": 2022
+        "annee": 2022,
+        "duree": 16,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 64805,
+        "titre": "Vie ne me fait pas peur",
+        "art": "La",
+        "realisateurs": "Noémie Lvovsky",
+        "annee": 1998,
+        "duree": 111,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154127"
+    "hashEvenement": "f154127f64805"
   },
   {
     "idSeance": 92840,
@@ -479,7 +489,7 @@
         "idFilm": 50886,
         "titre": "Je t'aime, je t'aime",
         "realisateurs": "Alain Resnais",
-        "annee": 1967,
+        "annee": 1968,
         "duree": 91,
         "format": "DCP"
       }
@@ -806,7 +816,7 @@
         "titre": "Guerre des mondes",
         "art": "La",
         "realisateurs": "Steven Spielberg",
-        "annee": 2004,
+        "annee": 2005,
         "duree": 116,
         "version": "VOSTF",
         "format": "35 mm"
@@ -959,7 +969,7 @@
         "idFilm": 121118,
         "titre": "Gravity",
         "realisateurs": "Alfonso Cuarón",
-        "annee": 2011,
+        "annee": 2013,
         "duree": 91,
         "version": "VOSTF",
         "format": "DCP"
@@ -1008,7 +1018,7 @@
         "idFilm": 142701,
         "titre": "Ad Astra",
         "realisateurs": "James Gray",
-        "annee": 2017,
+        "annee": 2019,
         "duree": 122,
         "version": "VOSTF",
         "format": "DCP"
@@ -1118,7 +1128,7 @@
         "titre": "Invasion des profanateurs de sépultures",
         "art": "L'",
         "realisateurs": "Don Siegel",
-        "annee": 1955,
+        "annee": 1956,
         "duree": 80,
         "version": "VOSTF",
         "format": "DCP"
@@ -1191,7 +1201,7 @@
         "titre": "Mystère Andromède",
         "art": "Le",
         "realisateurs": "Robert Wise",
-        "annee": 1970,
+        "annee": 1971,
         "duree": 115,
         "version": "VOSTF",
         "format": "DCP"
@@ -1265,7 +1275,7 @@
         "titre": "Thing",
         "art": "The",
         "realisateurs": "John Carpenter",
-        "annee": 1981,
+        "annee": 1982,
         "duree": 127,
         "version": "VOSTF",
         "format": "DCP"
@@ -1313,7 +1323,7 @@
         "idFilm": 53695,
         "titre": "Solaris",
         "realisateurs": "Andreï Tarkovski",
-        "annee": 1971,
+        "annee": 1972,
         "duree": 165,
         "version": "VOSTF",
         "format": "DCP"
@@ -1371,7 +1381,7 @@
         "idFilm": 59081,
         "titre": "Soleil vert",
         "realisateurs": "Richard Fleischer",
-        "annee": 1972,
+        "annee": 1973,
         "duree": 97,
         "version": "VOSTF",
         "format": "35 mm"
@@ -2351,7 +2361,7 @@
         "titre": "Mouche",
         "art": "La",
         "realisateurs": "David Cronenberg",
-        "annee": 1985,
+        "annee": 1986,
         "duree": 96,
         "version": "VOSTF",
         "format": "DCP"
@@ -3513,30 +3523,6 @@
       }
     ],
     "hashEvenement": "f30580"
-  },
-  {
-    "idSeance": 92974,
-    "idEvenement": 27875,
-    "dateHeure": "2023-04-17T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Aujourd'hui le cinéma",
-        "Les films_TEMP"
-      ]
-    ],
-    "mention": "Avant-première. Séance suivie d'une discussion avec Paul Saintillan et Jeanne Aslan",
-    "items": [
-      {
-        "idFilm": 154325,
-        "titre": "Fifi",
-        "realisateurs": "Paul Saintillan, Jeanne Aslan",
-        "annee": 2021,
-        "duree": 108,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154325"
   },
   {
     "idSeance": 91368,
@@ -5875,6 +5861,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme d'ouverture : Fougre, foutre, foudre",
     "mention": "Ouverture de la rétrospective. Séance présentée par Léolo Victor-Pujebet, Jean-Sébastien Chauvin, Véronique Bourlon, Yann Gonzalez, Alain Garcia Vergara et Othello Vilgard",
     "items": [
       {
@@ -6023,6 +6010,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 01 : Le cinéma, art pur, franc et honnête",
     "items": [
       {
         "idFilm": 154105,
@@ -6169,6 +6157,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 02 : Rêves d'amour",
     "items": [
       {
         "idFilm": 30131,
@@ -6271,6 +6260,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 03 : Ruées de spermatozoïdes",
     "items": [
       {
         "idFilm": 118646,
@@ -6352,6 +6342,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 04 : Orgies de solitudes, fusions érotiques",
     "items": [
       {
         "idFilm": 58030,
@@ -6449,6 +6440,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 05 : Tragédies utopies",
     "items": [
       {
         "idFilm": 154116,
@@ -6545,6 +6537,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 06 : D'où monte le plaisir",
     "items": [
       {
         "idFilm": 154118,
@@ -6665,6 +6658,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 07 : Où l'on se libère avec les Kronhausen",
     "items": [
       {
         "idFilm": 154135,
@@ -6689,6 +6683,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 08 : C'est dans le dos que la lumière va frapper la nuit",
     "items": [
       {
         "idFilm": 97819,
@@ -6956,6 +6951,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 09 : Forbans belges",
     "items": [
       {
         "idFilm": 39681,
@@ -7127,6 +7123,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 10 : Connie Beeson. Les filles de feu",
     "items": [
       {
         "idFilm": 154011,
@@ -7554,6 +7551,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 11 : Cocteau 71",
     "items": [
       {
         "idFilm": 154146,
@@ -7603,6 +7601,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 12 : Libido sciendi",
     "items": [
       {
         "idFilm": 154143,
@@ -7775,6 +7774,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 13 : « Prostitution » à Okinawa",
     "items": [
       {
         "idFilm": 154155,
@@ -7917,6 +7917,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 14 : On enlève tout",
     "items": [
       {
         "idFilm": 154017,
@@ -7989,6 +7990,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 15 : Sauve qui peut (l'orgie)",
     "items": [
       {
         "idFilm": 154019,
@@ -8008,7 +8010,7 @@
       },
       {
         "idFilm": 154177,
-        "titre": "Love it / Leave it",
+        "titre": "Love It / Leave It",
         "realisateurs": "Tom Palazzolo",
         "annee": 1973,
         "duree": 14,
@@ -8052,10 +8054,11 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 16 : Splendeurs des sorcières",
     "items": [
       {
         "idFilm": 61838,
-        "titre": "Belladonna",
+        "titre": "Belladonna des tristesses",
         "realisateurs": "Eiichi Yamamoto",
         "annee": 1973,
         "duree": 88,
@@ -8101,6 +8104,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 17 : Barbara Hammer, de l'art comme Bacchanale",
     "items": [
       {
         "idFilm": 154022,
@@ -8277,11 +8281,12 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 18 : Love Streams",
     "items": [
       {
         "idFilm": 145015,
-        "titre": "Chôfuku-ki",
-        "realisateurs": "Shuji Terayama",
+        "titre": "Chōfuku-ki",
+        "realisateurs": "Shūji Terayama",
         "annee": 1974,
         "duree": 15,
         "format": "Numérique"
@@ -8334,6 +8339,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 19 : Enfin du cul subversif sans alibi artistique",
     "items": [
       {
         "idFilm": 154190,
@@ -8382,6 +8388,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 20 : En 1974, Chantal Akerman a 24 ans",
     "items": [
       {
         "idFilm": 56787,
@@ -8478,6 +8485,7 @@
         "Les films"
       ]
     ],
+    "titreEvenement": "Programme 21 : Fiancées nues",
     "items": [
       {
         "idFilm": 154191,
@@ -8490,7 +8498,7 @@
       },
       {
         "idFilm": 154192,
-        "titre": "Human events",
+        "titre": "Human Events",
         "realisateurs": "Keiichi Tanaami",
         "annee": 1975,
         "duree": 5,

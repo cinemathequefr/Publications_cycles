@@ -6,13 +6,13 @@ A l'occasion de la sortie en salles de son nouveau long métrage, _Dirty, Diffic
 
 Libre, lyrique et extrêmement sensitif, le premier long métrage du cinéaste Thomas Bardinet renait grâce à la version restaurée de la plateforme Préludes.
 
-Alors que sort en salles son premier long métrage, _Grand Paris_, présenté en clôture de la sélection ACID Cannes 2022, introduction à l'univers fantaisiste et iconoclaste de Martin Jauvat avec la présentation de ses films courts.
+Alors que sort en salles son premier long métrage, _Grand Paris_, présenté en clôture de la sélection ACID Cannes 2022, introduction à l'univers fantaisiste et iconoclaste de Martin Jauvat avec la présentation de ses films courts. En association avec La Fête du Court métrage.
 
 En clair-obscurs fulgurants, avec beaucoup de pudeur et de poésie, le jeune cinéaste Peter Bastos a filmé son grand-père dans son quotidien et son refus d'arrêter de travailler. Un petit trésor documentaire suivi d'un long métrage carte blanche en résonnance, « Ossos » de Pedro Costa.
 
 « Portrait d'une femme forte essayant de surmonter son traumatisme, thriller onirique », voilà comment le réalisateur brésilien définit son deuxième long métrage qui était présenté récemment aux festivals de Karlovy Vary et Biarritz avant sa sortie en salles. Avant-première en association avec le distributeur Waynapitch
 
-Xavier Lacaille, scénariste et acteur (révélé au plus grand nombre par la série _Parlement_), présente son premier court métrage, _Un dernier été_, qui raconte de manière étrange, décalée, et mélancolique comment on doit mettre un jour son enfance à l'eau. Le film sera accompagné d'une discussion et d'un film carte blanche.
+Xavier Lacaille, scénariste et acteur (révélé au plus grand nombre par la série _Parlement_), présente son premier court métrage, _Un dernier été_, qui raconte de manière étrange, décalée, et mélancolique comment on doit mettre un jour son enfance à l'eau. En contrechamp, et en carte blanche, le deuxième long métrage de Noémie Lvovsky, « La Vie ne me fait pas peur » racontant les années d'adolescence de quatre jeunes filles.
 
 [154318]  
 **Des portes et des murs**  
@@ -37,11 +37,15 @@ Avec Thomas Daloz, Anton Salachas, Gwenn Vourc'h.
 L'amitié de Cédric, Romain et Carlos prend l'eau en cette fin de vacances, alors qu'ils jouent probablement leur dernière partie de Warhammer ensemble.  
 suivi de  
 [64805]  
-****  
-111 min / 35 mm
+**La Vie ne me fait pas peur**  
+de Noémie Lvovsky  
+France-Suisse / 1998 / 111 min / 35 mm  
+Avec Magali Woch, Ingrid Molinier, Julie-Marie Parmentier, Valéria Bruni Tedeschi, Camille Rousselet.  
+C'est l'histoire de quatre filles. Comment elles se lient d'amitié et ne se quittent plus. Comment elles vivent en bande les années de leur adolescence. Comment cette rencontre change leur vie et leur personne.  
+Version longue du téléfilm _Petites_ faisant partie de la collection _Les Années Lycée_.
 
 - lu 13 mar 19h30 GF  
-Séance suivie d'une discussion avec Xavier Lacaille
+Séance suivie d'une discussion avec Xavier Lacaille et Noémie Lvovsky
 
 [154315]  
 **Le Sang de la veine**  
@@ -86,16 +90,6 @@ Frédéric est un jeune bourgeois bordelais qui fait son service militaire. Pist
 
 - lu 3 avr 19h30 JE  
 Séance suivie d'une discussion avec Thomas Bardinet
-
-[154325]  
-**Fifi**  
-de Paul Saintillan, Jeanne Aslan  
-France / 2021 / 108 min / DCP  
-Avec Céleste Brunnquell, Quentin Dolmaire, Chloé Mons, Meghan Northam.  
-À 15 ans, Sophie alias Fifi voudrait bien profiter de l'été. Quand elle croise une ancienne amie sur le point de partir en voyage, elle lui dérobe les clés de sa maison, désertée pour les vacances. Elle s'y installe en cachette mais le frère de son amie, rentre à l'improviste.
-
-- lu 17 avr 20h30 GF  
-Avant-première. Séance suivie d'une discussion avec Paul Saintillan et Jeanne Aslan
 
 [154319]  
 **Pas de panique**  

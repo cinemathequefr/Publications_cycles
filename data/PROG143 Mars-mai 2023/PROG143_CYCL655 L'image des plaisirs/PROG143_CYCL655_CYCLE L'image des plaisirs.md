@@ -2,7 +2,7 @@
 
 ## Les films
 
-Filmer expérimentalement le sexe commence par indexer celui-ci sur l'irrévérence et la subversion, chercher par où l'on pourrait se trouver au plus près de corps déchaînés jusqu'à faire exploser la visibilité, décliner de façon musicale la multiplicité des désirs. Aux performances orgiaques de Jack Smith et des Actionnistes viennois, s'oppose la chronique fusionnelle de Carolee Schneeman, soudant les corps et la pellicule au feu de l'amour.
+Filmer expérimentalement le sexe commence par indexer celui-ci sur l'irrévérence et la subversion, chercher par où l'on pourrait se trouver au plus près de corps déchaînés jusqu'à faire exploser la visibilité, décliner de façon musicale la multiplicité des désirs. Aux performances orgiaques de Jack Smith et des actionnistes viennois s'oppose la chronique fusionnelle de Carolee Schneeman, soudant les corps et la pellicule au feu de l'amour.
 
 Aux fondatrices élaborations fantasmatiques de Kenneth Anger et Jean Genet répondent les nus de François Reichenbach, splendide contrepartie documentaire trop longtemps méconnue. Comme pour Genet et Reichenbach, chez Shirley Clarke, les corps ne peuvent s'épanouir et fusionner qu'en pleine nature.
 
@@ -12,11 +12,11 @@ Si la sexualité des années 1960, sous le signe de la transgression, de la joie
 
 Avant même l'invention de la séance de cinéma publique, Georges Demenÿ explore la pulsion scopique et met en scène les gestes élémentaires de la séduction, étayés par William Heise puis narrativisés par Georges Méliès, Ferdinand Zecca, Alice Guy, avant que Luis Buñuel et Man Ray n'en affirment les puissances libertaires. Sur sa fondamentale scoptophilie, le cinéma aura donc toujours été transparent.
 
-« Il fallait penser à un mécanisme, des procédures, je ne sais quoi, pour montrer que la Révolution les concernait encore, qu'elle ne les avait pas rejetés comme un matériau inutile, qu'elle a toujours privilégié la dimension humaine. Ma suggestion balbutiante a été jugée très intéressante et les fonctionnaires ont promis qu'ils la transmettraient aux autorités compétentes. Un autre silence vint et nous sûmes que la réunion était terminée. » (Ugo Ulive, _Les cendres de Marx,_ 2005)
+« Il fallait penser à un mécanisme, des procédures, je ne sais quoi, pour montrer que la Révolution les concernait encore, qu'elle ne les avait pas rejetés comme un matériau inutile, qu'elle a toujours privilégié la dimension humaine. Ma suggestion balbutiante a été jugée très intéressante et les fonctionnaires ont promis qu'ils la transmettraient aux autorités compétentes. Un autre silence vint et nous sûmes que la réunion était terminée. » (Ugo Ulive, _Les Cendres de Marx_, 2005)
 
 Premier volet d'une trilogie sexuelle, film psychédélique sur la violence des hommes contre les femmes figurée en pouvoir répressif contre les sorcières, _Belladonna_ est un chef-d'œuvre de l'animation expérimentalo-érotique, désespéré, labyrinthique et fort d'une conscience féministe visionnaire.
 
-Entre un porno gay avant-gardiste psychédélique, irréel et partousard puis deux courts-documentaires sur l'hypersexualisation, la séance met en avant les USA des années 1970 dans ce qu'ils ont de plus orgiaque aussi bien sur le plan du rêve et du fantasme que celui du réel quotidien.
+Entre un porno gay avant-gardiste psychédélique, irréel et partousard puis deux courts documentaires sur l'hypersexualisation, la séance met en avant les USA des années 1970 dans ce qu'ils ont de plus orgiaque aussi bien sur le plan du rêve et du fantasme que celui du réel quotidien.
 
 Remplois psychédéliques et critiques, pamphlets effrénés anti-impérialistes et anticapitalistes venus du Japon et des USA, travail étatsunien monumental sur la suggestion, sérieuse étude danoise sur la communication, délicat portrait d'un être supposé ne pas savoir. On ne recule devant rien pour tenter de comprendre quelque chose aux rapports humains.
 
@@ -28,23 +28,25 @@ Poème avant-gardiste sulfureux, dionysiaque, halluciné et méta, suivi du réc
 
 Poétique sera ce cycle et les films qui le composent. Les plus récents sont des œuvres de combat intersectionnel, des poèmes d'amour célébrant l'éveil solitaire du désir, une hypnose sur le plaisir à deux, enfin des œuvres nous invitant au rêve au moyen d'images inédites ou ravivant la foudre des pornos de jadis.
 
-Trois courts-métrages expérimentaux féministes, un film pornographique pansexuel aux explosions psychédéliques dignes de Pat O'Neill. « Tout en menant la bataille contre la société, de nombreuses femmes doivent lutter aussi contre les empreintes mémorielles intimes qui leur ont été imposées dans leur enfance. » (Mako Idemitsu)
+Trois courts métrages expérimentaux féministes, un film pornographique pansexuel aux explosions psychédéliques dignes de Pat O'Neill. « Tout en menant la bataille contre la société, de nombreuses femmes doivent lutter aussi contre les empreintes mémorielles intimes qui leur ont été imposées dans leur enfance. » (Mako Idemitsu)
 
 « Si je m'attaque à la loi en tant qu'artiste, alors la clause la plus indigne exige que l'art devrait refléter un ajustement aux normes sociales. L'art ne peut se limiter à une moyenne ; ne peut être limité par l'État. Jamais ! L'art est souvent une bacchanale orgiaque et, dans les films lesbiens, orgasmique et organique. » (Barbara Hammer, « Pornography, Censorship, and Sex in the Movies », San Francisco State University, March 1973)
 
-« Ce cinéma 'provoc' est un cinéma de l'irrévérence, de l'iconoclasme, de l'insulte, de la dérision, de la provocation gratuite, qui bouscule directement l'ordre établi, ses valeurs, ses conventions, ses fondements. » (Grégory Lacroix) Quatre brûlots expérimentaux, subversifs, érotiques et drôles, réalisés et distribués en marge du système, quatre perles du « cinéma de flibuste » (tel que le nomme Jean-Pierre Bouyxou) produit en Belgique dans les années 1960/1970. (Xavier Garcia Bardón)
+« Ce cinéma "provoc" est un cinéma de l'irrévérence, de l'iconoclasme, de l'insulte, de la dérision, de la provocation gratuite, qui bouscule directement l'ordre établi, ses valeurs, ses conventions, ses fondements. » (Grégory Lacroix) Quatre brûlots expérimentaux, subversifs, érotiques et drôles, réalisés et distribués en marge du système, quatre perles du "cinéma de flibuste" (tel que le nomme Jean-Pierre Bouyxou) produit en Belgique dans les années 1960-1970. » (Xavier García Bardón)
 
-_Les Filles de Ka-Ma-Re_ détourne _Le pensionnat des jeunes filles perverses_ de Norifumi Suzuki, réalisé l'année précédente. Grâce aux sous-titres, le « roman-porno » japonais devient « Un règlement de comptes entre des clitoridiennes marxistes et des vaginales bakouninistes. Enfin du cul subversif sans alibi artistique ! » (Affiche du film, rédigée par René Viénet).
+_Les Filles de Ka-ma-ré_ détourne _Le Pensionnat des jeunes filles perverses_ de Norifumi Suzuki, réalisé l'année précédente. Grâce aux sous-titres, le « roman-porno » japonais devient « un règlement de comptes entre des clitoridiennes marxistes et des vaginales bakouninistes. Enfin du cul subversif sans alibi artistique ! » (texte de l'affiche du film, rédigé par René Viénet)
 
 Merveilleuse et si rare cinéaste d'avant-garde étatsunienne pourtant aussi importante que la magnifique Barbara Hammer, Coni Beeson a fait du désir dans sa variété, des affects, des corps et des gestes féminins ses principales sources d'inspirations filmiques. Des films libres, poétiques, expressifs, intimes, éthérés et amoureux.
 
-Enquête sur les pratiques sexuelles conduite par deux collectionneurs d'art érotique, _Freedom to love_ alterne documentaire, mise en scène, entretiens, dans la perspective de fonder anthropologiquement les revendications contemporaines quant aux libérations sexuelles. Les somptueux plans d'ouverture et fermeture mériteraient d'avoir inspiré _Le charme discret de la bourgeoisie_ de Luis Buñuel.
+Enquête sur les pratiques sexuelles conduite par deux collectionneurs d'art érotique, _Freedom to Love_ alterne documentaire, mise en scène, entretiens, dans la perspective de fonder anthropologiquement les revendications contemporaines quant aux libérations sexuelles. Les somptueux plans d'ouverture et fermeture mériteraient d'avoir inspiré _Le Charme discret de la bourgeoisie_ de Luis Buñuel.
 
-Et elle réalise son premier long métrage. « Le film repose sur une histoire que j'avais écrite en 1968 ou 1969. Il est très personnel, pas simplement autobiographique au sens où il est très structuré, mais il y a des éléments que j'ai vraiment vécus quand j'étais plus jeune. C'est un film en trois parties et il s'agit d'une femme qui était moi, une adolescente en fait. Je joue l'adolescente... c'est comme trois voyages différents. » (Chantal Akerman, 1976)
+Et elle réalise son premier long métrage. « Le film repose sur une histoire que j'avais écrite en 1968 ou 1969. Il est très personnel, pas simplement autobiographique au sens où il est très structuré, mais il y a des éléments que j'ai vraiment vécus quand j'étais plus jeune. C'est un film en trois parties et il s'agit d'une femme qui était moi, une adolescente en fait. Je joue l'adolescente... C'est comme trois voyages différents. » (Chantal Akerman, 1976)
 
 « Ceux qui l'ont vu émerger du lac, tenant l'épée du soleil, quittent leurs chambres après la tombée de la nuit et, s'ils ne sont pas revenus dans leur lit à l'aube, dans chaque œil apparaîtra une image : le bras tenant une épée à la main, l'épée du soleil, sans les blessures de laquelle la terre n'éprouverait ni plaisir ni douleur. » (Charles Henri Ford, « Démembrement », 1952)
 
-Fondé en 1968 par des étudiants de l'Université Waseda, le groupe activiste NDU a consacré des documentaires à l'impérialisme étatsunien au Japon, à la condition des travailleurs immigrés taïwanais, à la résistance palestinienne... « Motoshinka Karannu » signifie « entreprise sans capital » et, de là, « prostitution ». Le film décrit les bas-fonds et les luttes de classes à Okinawa, soudain visitée par une délégation des Black Panthers. Une partie de la bande-son a disparu.
+Fondé en 1968 par des étudiants de l'université Waseda, le groupe activiste NDU a consacré des documentaires à l'impérialisme étatsunien au Japon, à la condition des travailleurs immigrés taïwanais, à la résistance palestinienne... _« Motoshinka karannu »_ signifie « entreprise sans capital » et, de là, « prostitution ». Le film décrit les bas-fonds et les luttes de classes à Okinawa, soudain visitée par une délégation des Black Panthers. Une partie de la bande-son a disparu.
+
+### Programme d'ouverture : Fougre, foutre, foudre
 
 [154139]  
 **Fuck the Fascism: El Cruce de dos mundos**  
@@ -91,6 +93,8 @@ France / 2023 / 11 min / 35 mm
 
 - je 11 mai 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Léolo Victor-Pujebet, Jean-Sébastien Chauvin, Véronique Bourlon, Yann Gonzalez, Alain Garcia Vergara et Othello Vilgard
+
+### Programme 01 : Le cinéma, art pur, franc et honnête
 
 [154105]  
 **Baisers envolés**  
@@ -157,6 +161,8 @@ Sensualités diverses mais chaque fois joyeuses et adressées.
 
 - ve 12 mai 18h30 JE
 
+### Programme 02 : Rêves d'amour
+
 [30131]  
 **Fireworks**  
 de Kenneth Anger  
@@ -186,6 +192,8 @@ de Shirley Clarke
 Danse d'amour, fusion suprême. « La plupart des films de danse que j'avais vus étaient affreux, je me suis dit que je pouvais faire mieux. Par essence, le cinéma est un médium chorégraphique. » (Shirley Clarke)
 
 - ve 12 mai 20h45 JE
+
+### Programme 03 : Ruées de spermatozoïdes
 
 [118646]  
 **Flesh of Morning**  
@@ -220,6 +228,8 @@ Classique underground de la très jeune Barbara Rubin (18 ans à l'époque) où,
 
 - sa 13 mai 16h00 JE
 
+### Programme 04 : Orgies de solitudes, fusions érotiques
+
 [58030]  
 **Flaming Creatures**  
 de Jack Smith  
@@ -247,6 +257,8 @@ Avec Carolee Schneemann, James Tenney.
 Le film d'amour explicite que tout le monde a voulu, aurait voulu, voudrait pouvoir réussir.
 
 - sa 13 mai 18h00 JE
+
+### Programme 05 : Tragédies utopies
 
 [154116]  
 **Le Quartier des femmes**  
@@ -294,6 +306,8 @@ Hommage au grand Pierre Molinier, le film allie sexualité fétichiste et mort, 
 
 - sa 13 mai 20h00 JE
 
+### Programme 06 : D'où monte le plaisir
+
 [154118]  
 **Dead Youth**  
 de Donald Richie  
@@ -339,14 +353,19 @@ Monument du cinéma d'avant-garde espagnol sur l'amour et la politique. L'idéal
 
 - di 14 mai 15h30 JE
 
+### Programme 07 : Où l'on se libère avec les Kronhausen
+
 [154135]  
-**Freiheit für die Liebe**  
+**Freedom to Love**  
+**(Freiheit für die Liebe)**  
 d'Eberhard Kronhausen, Phyllis Kronhausen  
 RFA / 1968 / 96 min / VOSTF / 35 mm  
 Avec Marie Antoinette, Daniel D. Halleck, Hugh Hefner, Monique Kraamwinkel, Sacha Kraamwinkel, Paula Shaw.  
 « Nous étions, dans les années 1960 et 1970, à l'avant-garde de la vague de libération sexuelle et du démantèlement de la censure. » (E&P Kronhausen, notice autobiographique)
 
 - di 14 mai 17h30 JE
+
+### Programme 08 : C'est dans le dos que la lumière va frapper la nuit
 
 [97819]  
 **Particulièrement valable**  
@@ -414,6 +433,8 @@ Dans _Basta_, les images pornographiques, comme celles de la morgue, ne sont pas
 
 - di 14 mai 20h00 JE
 
+### Programme 09 : Forbans belges
+
 [39681]  
 **La Tête froide**  
 de Patrick Hella  
@@ -439,6 +460,8 @@ Belgique / 1975 / 14 min / Numérique
 Des ouvriers transforment leur usine en lieu de plaisir, abolissant à la fois le patronat et le prolétariat pour « organiser la mort du travail et réaliser leurs rêves les plus carabinés. Une œuvre flibustière. » (Jean-Pierre Bouyxou)
 
 - me 17 mai 19h30 JE
+
+### Programme 10 : Connie Beeson. Les filles de feu
 
 [154011]  
 **Unfolding**  
@@ -484,6 +507,8 @@ Sensualité et art du portrait à leur paroxysme.
 
 - je 18 mai 20h00 JE
 
+### Programme 11 : Cocteau 71
+
 [154146]  
 **Johnny Minotaur**  
 de Charles Henri Ford  
@@ -492,6 +517,8 @@ Avec Charles Henri Ford, Allen Ginsberg, Yiannis Koutsis, Nikos Koulizakis, Chuz
 « Le film du poète et artiste surréaliste Charles Henri Ford est une explosion lyrique de tabous. Un classique oublié qui appartient à la grande tradition Anger, Genet, Jarman. » (The Film-Makers' Coop)
 
 - sa 20 mai 18h00 GF
+
+### Programme 12 : Libido sciendi
 
 [154143]  
 **CF Porn**  
@@ -555,6 +582,8 @@ Premier film de Mark Rappaport, _Blue Streak_ est un manifeste formel et politiq
 
 - sa 20 mai 20h30 GF
 
+### Programme 13 : « Prostitution » à Okinawa
+
 [154155]  
 **Motoshinkakarannu**  
 de Tetsurō Nunokawa, NDU  
@@ -562,6 +591,8 @@ Japon / 1971 / 86 min / VOSTF / Vidéo
 Avec peuple d'Okinawa, prostituées, yakuzas, touristes, GIs, Black Panthers. « Qu'est-ce qu'un documentaire ? Il ne s'agit pas de gens qui rencontrent d'autres gens sur les lieux de la création d'un « travail », mais que le « travail » naisse des rencontres entre les gens. » (Rō Takenaka, 1972)
 
 - di 21 mai 18h15 GF
+
+### Programme 14 : On enlève tout
 
 [154017]  
 **Take Off (With Magda)**  
@@ -591,6 +622,8 @@ Une jeune femme est enlevée par deux hommes. Elle est conduite dans un mystéri
 
 - me 24 mai 18h30 GF
 
+### Programme 15 : Sauve qui peut (l'orgie)
+
 [154019]  
 **Bijou**  
 de Wakefield Poole  
@@ -612,6 +645,8 @@ _Love It / Leave It_ explore une série d'_americana_ en dégageant leur charge 
 
 - me 24 mai 21h00 GF
 
+### Programme 16 : Splendeurs des sorcières
+
 [61838]  
 **Belladonna des tristesses**  
 **(Kanashimi no Beradonna)**  
@@ -621,6 +656,8 @@ D'après l'ouvrage _La Sorcière_ de Jules Michelet.
 Jeanne, dans l'espoir d'obtenir vengeance, pactise avec le diable après avoir été violée par le seigneur de son village. « Influencés par l'Art nouveau, les plans évoquent Alfons Mucha, Aubrey Beardsley, Gustav Klimt, Egon Schiele. La conclusion du film, marquée par l'idéologie d'une époque hyper-libertaire, rappelle l'apport des femmes dans la Révolution française. » (Jean-Marie Lanlo)
 
 - je 25 mai 18h30 GF
+
+### Programme 17 : Barbara Hammer, de l'art comme Bacchanale
 
 [154022]  
 **X**  
@@ -654,6 +691,8 @@ Pièce essentielle dans l'histoire de la représentation des corps de lesbiennes
 
 - je 25 mai 20h45 GF
 
+### Programme 18 : Love Streams
+
 [145015]  
 **Chōfuku-ki**  
 de Shūji Terayama  
@@ -669,14 +708,18 @@ Initiation sexuelle et politique d'un adolescent où s'affirment socialement des
 
 - sa 27 mai 16h00 GF
 
+### Programme 19 : Enfin du cul subversif sans alibi artistique
+
 [154190]  
 **Les Filles de Ka-ma-ré (Une petite culotte pour l'été)**  
-de René Vienet, Norifumi Suzuki  
+de René Vienet  
 France / 1974 / 88 min  
 Avec Miki Sugimoto, Reiko Ike, Seiko Saburi, Misuzu Ōta.  
 « Il s'agit du second détournement (intégral) par René Viénet d'un film asiatique. Comme celui-ci souhaite inscrire un cliquet de plus dans le détournement, avec quelques complices, il tourne quelques inserts hard. » (René Viénet)
 
 - sa 27 mai 18h15 GF
+
+### Programme 20 : En 1974, Chantal Akerman a 24 ans
 
 [56787]  
 **Je, tu, il, elle**  
@@ -686,6 +729,8 @@ Avec Chantal Akerman, Niels Arestrup, Claire Wauthion.
 Une jeune femme passe du temps seule dans sa chambre, sur la route en stop, et avec une amie. « Je retournais à Bruxelles en stop voir cette fille, Claire, et j'ai vécu toutes sortes d'aventures avec les camionneurs qui me prenaient en stop, c'était dangereux. Mais à l'époque, on vivait comme ça. » (Chantal Akerman)
 
 - sa 27 mai 20h30 GF
+
+### Programme 21 : Fiancées nues
 
 [154191]  
 **The Bride Stripped Bare by Her Bachelors**  
@@ -708,4 +753,3 @@ Des textes extraits de l'_Histoire de la Révolution française_ de Jules Michel
 
 - di 28 mai 18h00 GF
 
-Remerciements : à compléter? Tous les cinéastes, ayants-droits, distributeurs, et particulièrement Florence Auffret, Robert Bonamy, Pascale Cassagnau, Go Hirasawa, Lung Chieh Lim, Frédéric Papon, MM Serra.

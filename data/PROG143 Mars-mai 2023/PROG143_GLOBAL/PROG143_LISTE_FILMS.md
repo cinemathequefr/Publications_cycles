@@ -4,12 +4,11 @@
 
   * Ennio
 
-## Aujourd'hui le cinéma (15)
+## Aujourd'hui le cinéma (14)
 
   * Armée des fourmis (L')  
   * Bruno Reidal  
   * Cri de Tarzan (Le)  
-  * Fifi  
   * Hizz ya wizz  
   * Mozeb  
   * Ossos  
@@ -19,8 +18,8 @@
   * Souvenir inoubliable d'un ami  
   * Tinnitus  
   * Un dernier été  
-  * undefined  
-  * Vacances à Chelles (Les)
+  * Vacances à Chelles (Les)  
+  * Vie ne me fait pas peur (La)
 
 ## Ciné-club de Frédéric Bonnaud (3)
 
@@ -139,7 +138,7 @@
   * Fireworks  
   * Flaming Creatures  
   * Flesh of Morning  
-  * Freiheit für die Liebe  
+  * Freedom to Love  
   * Fuck the Fascism: El Cruce de dos mundos  
   * Fulmen  
   * Fuses  

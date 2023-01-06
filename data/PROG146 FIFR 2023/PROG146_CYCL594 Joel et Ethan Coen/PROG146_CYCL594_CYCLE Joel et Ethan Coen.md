@@ -64,7 +64,7 @@ Un seigneur écossais est convaincu par un trio de sorcières qu'il deviendra le
 
 - ve 10 mar 19h30 HL
 
-## Carte blanc à Joel Coen
+## Carte blanche à Joel Coen
 
 [43451]  
 **Les Vitelloni**  
