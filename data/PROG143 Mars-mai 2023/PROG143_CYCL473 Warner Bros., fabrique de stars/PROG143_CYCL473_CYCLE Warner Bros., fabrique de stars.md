@@ -400,7 +400,7 @@ Avec William Powell, Kay Francis, Frank McHugh.
 Dan et Joan tombent amoureux lors d'une traversée du Pacifique. Mais ils savent que leur histoire est sans lendemain, car Joan est gravement malade tandis que Dan est un criminel recherché par la police et promis à la peine de mort.
 
 - ve 7 avr 20h00 HL  
-- me 10 mai 18h00 HL
+- me 10 mai 17h30 HL
 
 [30592]  
 **Wonder Bar**  

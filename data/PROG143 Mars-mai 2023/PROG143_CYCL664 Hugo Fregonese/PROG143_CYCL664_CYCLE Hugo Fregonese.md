@@ -44,7 +44,7 @@ Musicien et machiniste, puis veilleur de nuit dans un théâtre de marionnettes,
 **Dracula contre Frankenstein**  
 **(Los Monstruos del terror)**  
 de Tulio Demicheli  
-Espagne-RFA-Italie / 1970 / 85 min  
+Espagne-RFA-Italie / 1970 / 85 min / VOSTF / Numérique  
 Avec Paul Naschy, Michael Rennie, Karin Dor.  
 Des aliens dirigeant un cirque ambulant font revivre Dracula, le Loup-garou, le monstre de Frankenstein et la Momie afin de conquérir le monde.
 
@@ -54,7 +54,7 @@ Des aliens dirigeant un cirque ambulant font revivre Dracula, le Loup-garou, le 
 **L'Étrange M. Slade**  
 **(Man in the Attic)**  
 de Hugo Fregonese  
-États-Unis / 1953 / 86 min / STF / 35 mm  
+États-Unis / 1953 / 86 min / VOSTF / 35 mm  
 Avec Jack Palance, Constance Smith, Byron Palmer.  
 Alors que Jack l'éventreur multiplie les meurtres dans les rues de Londres, un médecin étrange loue une chambre au grenier chez une danseuse et sa fille.
 
@@ -65,7 +65,7 @@ Alors que Jack l'éventreur multiplie les meurtres dans les rues de Londres, un 
 **Harry Black et le tigre**  
 **(Harry Black and the Tiger)**  
 de Hugo Fregonese  
-États-Unis / 1958 / VOSTF / 35 mm  
+États-Unis / 1958 / 117 min / VOSTF / 35 mm  
 Avec Stewart Granger, Barbara Rush, Anthony Steel.  
 L'ancien colonel Harry Black est envoyé en Inde pour tuer un tigre féroce. Il retrouve sur place une femme qu'il avait jadis aimée, à présent mariée au jeune et malin Desmond Tanner.
 
@@ -127,7 +127,7 @@ Film également connu sous le titre _Docteur Mabuse et le rayon de la mort_.
 **Pages galantes de Boccace**  
 **(Decameron Nights)**  
 de Hugo Fregonese  
-Grande-Bretagne / 1954 / 84 min / STF / DCP  
+Grande-Bretagne / 1954 / 84 min / VOSTF / DCP  
 Avec Joan Fontaine, Louis Jourdan, Godfrey Tearle, Joan Collins.  
 Au XIV<sup>e</sup> siècle, l'écrivain Giovanni Boccaccio est à la recherche de son grand amour, la veuve Fiametta. Il est invité dans la demeure de la comtesse de Florence, où réside Fiametta, et invente pour la séduire des histoires délicieusement immorales.
 
@@ -137,7 +137,7 @@ Au XIV<sup>e</sup> siècle, l'écrivain Giovanni Boccaccio est à la recherche d
 **La Pampa sauvage**  
 **(Savage Pampas)**  
 de Hugo Fregonese  
-Espagne-Argentine-États-Unis / 1966 / 115 min / Numérique  
+Espagne-Argentine-États-Unis / 1966 / 115 min / VOSTF / Numérique  
 Avec Robert Taylor, Ty Hardin, Ron Randell, Marc Lawrence.  
 À la fin des années 1800, un capitaine de l'armée essaie d'apprivoiser les plaines de l'Argentine dominées par les autochtones et les bandits. Il fait alors appel à un groupe de prostituées pour ses soldats.
 
@@ -168,7 +168,7 @@ Séance présentée par Jacques Lourcelles
 [32490]  
 **The Raid**  
 de Hugo Fregonese  
-États-Unis / 1954 / 83 min / 35 mm  
+États-Unis / 1954 / 83 min / VO / 35 mm  
 Avec Van Heflin, Anne Bancroft, Richard Boone, Lee Marvin.  
 En 1864, un groupe de Confédérés dirigé par le major Neal Benton s'échappe d'une prison de l'Union. Ils s'introduisent dans une petit ville nordiste, avec l'objectif de la mettre à sac.
 
@@ -179,7 +179,7 @@ Voir aussi dialogue p. xx
 **Les Sept Tonnerres**  
 **(Seven Thunders)**  
 de Hugo Fregonese  
-États-Unis / 1957 / 100 min / STF / 35 mm  
+États-Unis / 1957 / 100 min / VOSTF / 35 mm  
 Avec Anna Gaylor, Stephen Boyd, James Robertson Justice, Tony Wright.  
 À Marseille, durant la Seconde Guerre mondiale, deux soldats britanniques trouvent refuge dans le quartier du Vieux-Port cerné par l'armée allemande. Ils s'allient à la résistance locale.
 
@@ -190,7 +190,7 @@ Avec Anna Gaylor, Stephen Boyd, James Robertson Justice, Tony Wright.
 **Le Signe des rénégats**  
 **(Mark of the Renegade)**  
 de Hugo Fregonese  
-États-Unis / 1951 / VOSTF  
+États-Unis / 1951 / 81 min / VOSTF / 35 mm  
 Avec Ricardo Montalbán, Cyd Charisse, J. Carrol Naish.  
 En 1825, lors de l'avènement de la République du Mexique, Marcos Zappa est victime d'un odieux chantage au terme d'un exil forcé de plusieurs années. En échange du silence de Don Pedro García sur son passé, il doit séduire la belle Manuela de Vásquez et l'épouser pour mieux porter le discrédit sur son père.
 
@@ -210,7 +210,7 @@ Au Mexique, Jeff, prospecteur pétrolier fauché, demande la protection d'une co
 **Le Vagabond et les Lutins**  
 **(Saddle Tramp)**  
 de Hugo Fregonese  
-États-Unis / 1950 / 90 min / 35 mm  
+États-Unis / 1950 / 90 min / VOSTF / 35 mm  
 Avec Joel McCrea, Wanda Hendrix, John Russell.  
 L'aventurier Chuck Connors est en visite chez un ami, quand celui-ci se tue en tombant de cheval. Chuck prend alors sous sa protection ses quatre orphelins, son ranch, et une jeune femme en fuite.
 

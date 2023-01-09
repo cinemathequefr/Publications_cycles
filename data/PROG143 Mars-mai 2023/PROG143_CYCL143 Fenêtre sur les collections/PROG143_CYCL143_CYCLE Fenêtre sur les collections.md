@@ -64,7 +64,7 @@ France / 1922 / 54 min / DCP
 Les mésaventures du metteur en scène Jean Fortier sur le tournage de son nouveau film, _La Conquête des Gaules_. Fortier doit mener à bien la réalisation en dépit des obstacles : budget divisé par cent par le producteur, un César blessé, des badauds intervenant dans le champ parmi les figurants costumés en Romains...  
 Film également connu sous le titre _L'Odyssée d'un film_.
 
-- ve 19 mai 18h00 JE
+- ve 19 mai 18h30 JE
 
 [154298]  
 **Autour de La Cousine Bette**  
@@ -84,6 +84,6 @@ d'Eugène Deslaw
 France / 1930 / 15 min / DCP  
 Abel Gance et son équipe se lancent dans le cinéma parlant. Leurs prouesses techniques permettent des prises de vue impressionnantes. Des essais d'acteurs et des plans coupés au montage s'interposent aux scènes de tournage.
 
-- ve 19 mai 20h30 JE
+- ve 19 mai 21h00 JE
 
 Remerciements : Les Acacias, Tamasa Distribution, Diaphana Distribution, La Cinémathèque de ToulouseRemerciements : CNC, Doriane Films.

@@ -263,7 +263,7 @@
   * Caro Michele  
   * Casanova 70  
   * Chambre d'hôtel  
-  * Cuore rivelatore (Il)  
+  * Cœur révélateur (Le)  
   * Dans les coulisses  
   * Donatella  
   * Double Vie de Mathias Pascal (La)  

@@ -389,7 +389,7 @@ suivi de
 [154122]  
 **Danz**  
 de Georg Brintrup  
-RFA / 1969 / 4 min / 16 mm  
+RFA / 1969 / 4 min / Numérique  
 Une brève flambée visuelle au fort pouvoir d'évocation érotique et sensuelle, pour un film portraitiste que l'on pourrait croire tourné hier, et qui préfigure les fulgurances chez Philippe Grandrieux.  
 suivi de  
 [154123]  
@@ -421,14 +421,14 @@ suivi de
 [118991]  
 **Dafnis y Cloe**  
 d'Antoni Padrós  
-Espagne / 1969 / 19 min / VOSTF  
+Espagne / 1969 / 19 min / VOSTF / Numérique  
 Avec Toni Martínez, Rosa Morata.  
 Chef-d'œuvre d'avant-garde subversif alliant symboles religieux, luttes révolutionnaires et sadomasochisme.  
 suivi de  
 [154124]  
 **Basta**  
 d'Ugo Ulive  
-Venezuela / 1969 / 22 min / Numérique  
+Venezuela / 1969 / 22 min / VO / 16 mm  
 Dans _Basta_, les images pornographiques, comme celles de la morgue, ne sont pas là pour flatter le cortex visuel, mais au contraire pour dire le caractère insoutenable des dictatures en Amérique latine.
 
 - di 14 mai 20h00 JE

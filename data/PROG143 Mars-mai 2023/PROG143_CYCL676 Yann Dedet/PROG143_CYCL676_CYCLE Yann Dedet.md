@@ -37,7 +37,7 @@ Séance présentée par Joachim Lafosse
 **Les Femmes de Višegrad**  
 **(Za one koji ne mogu da govore)**  
 de Jasmila Žbanić  
-Bosnie-Herzégovine-Qatar-Allemagne / 2013 / 82 min  
+Bosnie-Herzégovine-Qatar-Allemagne / 2013 / 82 min / DCP  
 Avec Kym Vercoe, Boris Isaković, Simon McBurney.  
 Kym, une actrice australienne, part seule visiter la Bosnie. À son retour, elle découvre qu'a eu lieu, dans l'hôtel où elle a résidé, le massacre de Višegrad, en 1992. Profondément choquée, elle décide de repartir sur place pour lever le silence.
 
@@ -46,7 +46,7 @@ Kym, une actrice australienne, part seule visiter la Bosnie. À son retour, elle
 [131477]  
 **Les Gants blancs**  
 de Louise Traon  
-France / 2013 / 58 min  
+France / 2013 / 58 min / Numérique  
 Avec Luís Miguel Cintra, Valérie Loiseleux, Mariana Guerreiro.  
 La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film de Manoel de Oliveira, _L'Étrange affaire Angélica_. Dans les salles de montage commence un voyage intérieur, parmi les souvenirs de ce cinéma avec lequel elle a grandi.
 
@@ -166,7 +166,7 @@ Version longue du téléfilm _Bonheur_, faisant partie de la collection _Tous le
 [50631]  
 **Van Gogh**  
 de Maurice Pialat  
-France / 1991 / 158 min  
+France / 1991 / 158 min / DCP  
 Avec Jacques Dutronc, Alexandra London, Bernard Le Coq.  
 Après son internement à l'asile, Vincent van Gogh s'installe à Auvers-sur-Oise chez le docteur Gachet, amateur d'art. Entre les relations conflictuelles qu'il entretient avec son frère et sa santé mentale vacillante, Vincent continue son œuvre.
 

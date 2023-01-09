@@ -23,7 +23,7 @@ Avec Leonardo Cortese, Marcel Cerdan, Mischa Auer, Carlo Campanini.
 Un professeur spécialiste de l'Orient reçoit la visite du diable, qui lui fera connaître les plaisirs de la célébrité en le réincarnant en ténor, puis en boxer.
 
 - sa 6 mai 15h00 GF  
-Film précédé d'_Il Cuore rivelatore_ de Mario Monicelli, Alberto Mondadori, Cesare Civita
+Film précédé de _Le Cœur révélateur_ de Mario Monicelli, Alberto Mondadori, Cesare Civita
 
 [42476]  
 **Bertoldo, Bertoldino e Cacasenno**  
@@ -108,7 +108,8 @@ Une caméra cachée permet à trois jeunes cinéphiles de filmer les clients d'u
 - di 21 mai 20h30 HL
 
 [93756]  
-**Il Cuore rivelatore**  
+**Le Cœur révélateur**  
+**(Il Cuore rivelatore)**  
 de Mario Monicelli, Alberto Mondadori, Cesare Civita  
 Italie / 1933 / 15 min / DCP  
 D'après la nouvelle _Le Cœur révélateur_ d'Edgar Allan Poe.  

@@ -105,7 +105,7 @@ de Peter Bogdanovich
 Avec Rob Lowe, Colleen Camp, Kenneth Mars.  
 Richard Dice est appelé pour faire partie d'un jury lors d'un procès pour meurtre. L'accusée n'est autre que son premier amour.
 
-- di 16 avr 21h00 GF
+- di 16 avr 20h00 GF
 
 [30578]  
 **Mask**  

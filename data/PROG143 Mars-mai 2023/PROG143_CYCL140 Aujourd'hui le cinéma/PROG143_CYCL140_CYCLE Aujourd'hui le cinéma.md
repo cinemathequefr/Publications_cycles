@@ -2,7 +2,7 @@
 
 ## Peter Bastos / Pedro Costa
 
-En clair-obscurs fulgurants, avec beaucoup de pudeur et de poésie, le jeune cinéaste Peter Bastos a filmé son grand-père dans son quotidien et son refus d'arrêter de travailler. Un petit trésor documentaire suivi d'un long métrage carte blanche en résonnance, « Ossos » de Pedro Costa.
+En clairs-obscurs fulgurants, avec beaucoup de pudeur et de poésie, le jeune cinéaste Peter Bastos a filmé son grand-père dans son quotidien et son refus d'arrêter de travailler. Un petit trésor documentaire suivi d'un long métrage carte blanche en résonance, _Ossos_ de Pedro Costa.
 
 [154318]  
 **Des portes et des murs**  
@@ -21,7 +21,7 @@ L'errance dramatique d'un jeune couple et d'un bébé dans les rues d'un quartie
 
 ## Xavier Lacaille / Noémie Lvovsky
 
-Xavier Lacaille, scénariste et acteur (révélé au plus grand nombre par la série _Parlement_), présente son premier court métrage, _Un dernier été_, qui raconte de manière étrange, décalée, et mélancolique comment on doit mettre un jour son enfance à l'eau. En contrechamp, et en carte blanche, le deuxième long métrage de Noémie Lvovsky, « La Vie ne me fait pas peur » racontant les années d'adolescence de quatre jeunes filles.
+Xavier Lacaille, scénariste et acteur (révélé au plus grand nombre par la série _Parlement_), présente son premier court métrage, _Un dernier été_, qui raconte de manière étrange, décalée, et mélancolique comment on doit mettre un jour son enfance à l'eau. En contrechamp, et en carte blanche, le deuxième long métrage de Noémie Lvovsky, _La Vie ne me fait pas peur_, racontant les années d'adolescence de quatre jeunes filles.
 
 [154127]  
 **Un dernier été**  
@@ -43,7 +43,7 @@ Séance suivie d'une discussion avec Xavier Lacaille et Noémie Lvovsky
 
 ## Martin Jauvat
 
-Alors que sort en salles son premier long métrage, _Grand Paris_, présenté en clôture de la sélection ACID Cannes 2022, introduction à l'univers fantaisiste et iconoclaste de Martin Jauvat avec la présentation de ses films courts. En association avec La Fête du Court métrage.
+Alors que sort en salles son premier long métrage, _Grand Paris_, présenté en clôture de la sélection ACID Cannes 2022, introduction à l'univers fantaisiste et iconoclaste de Martin Jauvat avec la présentation de ses films courts. En association avec La Fête du court métrage.
 
 [154315]  
 **Le Sang de la veine**  
@@ -71,7 +71,7 @@ Séance suivie d'une discussion avec Martin Jauvat
 
 ## Gregorio Graziosi
 
-« Portrait d'une femme forte essayant de surmonter son traumatisme, thriller onirique », voilà comment le réalisateur brésilien définit son deuxième long métrage qui était présenté récemment aux festivals de Karlovy Vary et Biarritz avant sa sortie en salles. Avant-première en association avec le distributeur Waynapitch
+« Portrait d'une femme forte essayant de surmonter son traumatisme, thriller onirique » : voilà comment le réalisateur brésilien Gregorio Graziosi définit son deuxième long métrage, qui était présenté récemment aux festivals de Karlovy Vary et Biarritz avant sa sortie en salles. Avant-première en association avec le distributeur Wayna Pitch.
 
 [154320]  
 **Tinnitus**  
@@ -85,7 +85,7 @@ Avant-première. Séance suivie d'une discussion avec Gregorio Graziosi
 
 ## Thomas Bardinet
 
-Libre, lyrique et extrêmement sensitif, le premier long métrage du cinéaste Thomas Bardinet renait grâce à la version restaurée de la plateforme Préludes.
+Libre, lyrique et extrêmement sensitif, le premier long métrage du cinéaste Thomas Bardinet renaît grâce à la version restaurée de la plateforme Préludes.
 
 [60049]  
 **Le Cri de Tarzan**  
@@ -97,7 +97,7 @@ Frédéric est un jeune bourgeois bordelais qui fait son service militaire. Pist
 - lu 3 avr 19h30 JE  
 Séance suivie d'une discussion avec Thomas Bardinet
 
-## Louis Seguin
+## Louis Séguin
 
 [154326]  
 **Marinaleda**  
@@ -108,9 +108,9 @@ Deux vampires font du stop sur les routes de France. Leur objectif : Marinaleda
 
 - lu 17 avr 19h00 JE
 
-## Wissem Charaf
+## Wissam Charaf
 
-A l'occasion de la sortie en salles de son nouveau long métrage, _Dirty, Difficult, Dangerous_ (présenté aux Giornate Degli Autori de Venise 2022), plongée dans l'univers burlesque, insolite et politique du cinéaste libanais Wissam Charaf en quelques films courts.
+À l'occasion de la sortie en salles de son nouveau long métrage, _Dirty, Difficult, Dangerous_ (présenté aux « Giornate degli autori » de la mostra de Venise en 2022), plongée dans l'univers burlesque, insolite et politique du cinéaste libanais Wissam Charaf en quelques films courts.
 
 [154319]  
 **Pas de panique**  
