@@ -168,7 +168,7 @@ Avec Sean Connery, Audrey Hepburn, Robert Shaw.
 De retour d'exil, Robin des Bois, vieilli, meurtri par les Croisades, retrouve la forêt de Sherwood et Marianne, son amour de jeunesse.
 
 - me 15 mar 20h00 HL  
-Ouverture de la rétrospective
+Ouverture de la rétrospective. Séance présentée par Michel Ciment
 
 [89099]  
 **The Running, Jumping and Standing Still Film**  

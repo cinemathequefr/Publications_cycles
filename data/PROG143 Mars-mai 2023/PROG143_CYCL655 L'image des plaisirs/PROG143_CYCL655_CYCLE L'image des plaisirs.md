@@ -117,19 +117,19 @@ suivi de
 [153994]  
 **The Kiss**  
 de William Heise  
-États-Unis / 1896 / 1 min  
+États-Unis / 1896 / 1 min / Numérique  
 Première œuvre du cinéma à faire du baiser entre deux êtres un sujet filmique. À la fois coquin et tendre, cette œuvre pionnière est la première d'un corpus qui inclut tout aussi bien Edwin S. Porter (_The Kiss_, 1909) qu'Andy Warhol (_Kiss_, 1963).  
 suivi de  
 [52380]  
 **Après le bal**  
 de Georges Méliès  
-France / 1897 / 1 min / INT. FR. / Numérique  
+France / 1897 / 1 min / INT. FR. / DCP  
 Après le bal, la fête commence. « Méliès a trouvé dans le cinéma le moyen de libérer son imagination des limites et des imperfections de la mise en scène du théâtre. Il fut le premier poète de l'écran, le premier à s'y exprimer totalement. »  
 suivi de  
 [51806]  
 **Par le trou de la serrure**  
 de Ferdinand Zecca  
-France / 1901 / 2 min / 35 mm  
+France / 1901 / 2 min / DCP  
 Bien avant _Une sale histoire_ d'Eustache, Zecca raconte sur un mode comique et irrévérencieux les tribulations d'un voyeur et pervers sexuel. Cette vision du voyeurisme prélude à _Rear Window_, _Psycho_, _Peeping Tom_, _Body Double_, _Blue Velvet_...  
 suivi de  
 [106017]  
@@ -149,13 +149,13 @@ suivi de
 [154112]  
 **L'Âge d'or (chutes)**  
 de Luis Buñuel  
-France / 1930 / 7 min / Numérique  
+France / 1930 / 7 min / DCP  
 Ensemble de prises de vues originales du film _L'Âge d'or_ non retenues dans le montage final. « [Contre] ce film obscène, qui n'avait pas été soumis à la censure, la foule s'est livrée à des manifestations violentes et a brisé quelques vitres de l'établissement. » (communiqué de la Ligue, 6 décembre 1930)  
 suivi de  
 [71556]  
 **Essai cinématographique : Autoportrait ou Ce qui manque à nous tous**  
 de Man Ray  
-France / 1930 / 6 min  
+France / 1930 / 6 min / 16 mm  
 Avec Lee Miller, Man Ray.  
 Sensualités diverses mais chaque fois joyeuses et adressées.
 
@@ -188,7 +188,7 @@ suivi de
 [154110]  
 **A Moment in Love**  
 de Shirley Clarke  
-États-Unis / 1956 / 9 min  
+États-Unis / 1956 / 9 min / DCP  
 Danse d'amour, fusion suprême. « La plupart des films de danse que j'avais vus étaient affreux, je me suis dit que je pouvais faire mieux. Par essence, le cinéma est un médium chorégraphique. » (Shirley Clarke)
 
 - ve 12 mai 20h45 JE
@@ -204,13 +204,13 @@ suivi de
 [154111]  
 **Hurry! Hurry!**  
 de Marie Menken  
-États-Unis / 1957 / 5 min / 16 mm  
+États-Unis / 1957 / 5 min / VO / 16 mm  
 « Un ballet cinématographique audacieux dansé par des spermatozoïdes humains puissamment agrandis... Une danse macabre réalisée à partir d'images scientifiques, en surimpression d'un feu enragé. » (Amos Vogel)  
 suivi de  
 [97818]  
 **Cosmic Ray**  
 de Bruce Conner  
-États-Unis / 1962 / 5 min / Numérique  
+États-Unis / 1962 / 5 min / VO / DCP  
 « Tu vois la fille à la bague en diamant / Elle sait comment secouer cette chose ». Bombes atomiques.  
 suivi de  
 [100582]  
@@ -264,7 +264,7 @@ Le film d'amour explicite que tout le monde a voulu, aurait voulu, voudrait pouv
 **Le Quartier des femmes**  
 **(Qaleh)**  
 de Kâmrân Shirdel  
-Iran / 1966 / 18 min  
+Iran / 1966 / 18 min / VO / Numérique  
 « Commandé par une association de soutien aux femmes, le film décrit la vie douloureuse des prostituées du quartier de Qaleh à Téhéran. Le film ayant été confisqué dès le début du tournage, Shirdel filme les photos prises par le photographe Kaveh Golestan et y ajoute sa bande-son. » (film-documentaire.fr)  
 suivi de  
 [118640]  
@@ -282,7 +282,7 @@ suivi de
 [154117]  
 **Permanent Waves**  
 d'Anita Thacher  
-États-Unis / 1966 / 3 min / 16 mm  
+États-Unis / 1966 / 3 min / VO / 16 mm  
 « Le film d'Anita Thacher n'a pas été pris en compte par les critiques du cinéma d'avant-garde parce que sa déconstruction animée de la pornographie n'entrait dans aucune des catégories critiques dominantes de l'époque. » (Lauren Rabinovitz)  
 suivi de  
 [153993]  
@@ -294,7 +294,7 @@ suivi de
 [153999]  
 **Behind Every Good Man**  
 de Nikolai Ursin  
-États-Unis / 1967 / 8 min / VO  
+États-Unis / 1967 / 8 min / VO / Numérique  
 La solitude et les amours difficiles d'une jeune trans afro-américaine, bercées par la chanson mélancolique interprétée par les Supremes, _I'll Turn to Stones_.  
 suivi de  
 [113216]  
@@ -311,31 +311,31 @@ Hommage au grand Pierre Molinier, le film allie sexualité fétichiste et mort, 
 [154118]  
 **Dead Youth**  
 de Donald Richie  
-Japon / 1967 / 14 min  
+Japon / 1967 / 14 min / VO / DCP  
 Désir homosexuel, vertige nécrophile, le poème de Donald Richie nous entraîne vers la ligne d'horizon des fantasmes.  
 suivi de  
 [154119]  
 **Orgasmus**  
 de Valie Export  
-Autriche / 1967 / 2 min / 16 mm  
+Autriche / 1967 / 2 min / DCP  
 « L'un des premiers films de Valie Export, traitement bref et pragmatique de la luxure. Demeure ma question de savoir si l'homme et la femme ont effectivement eu des rapports sexuels et qui était responsable de l'orgasme de la femme. » (Sixpack)  
 suivi de  
 [154001]  
 **Tapp und TastKino**  
 de Valie Export  
-Autriche / 1968 / 1 min / VO / Numérique  
+Autriche / 1968 / 2 min / VO / DCP  
 « Le film documente une célèbre performance de Valie Export dans les rues de Vienne : sur sa poitrine, elle a attaché une boîte, un « mini-cinéma », dans laquelle deux mains peuvent s'introduire. La circonstance explicite le cinéma comme salle de projection des fantasmes masculins. » (Sixpack)  
 suivi de  
 [99685]  
 **Moment**  
 de Stephen Dwoskin  
-Grande-Bretagne / 1968 / 13 min / 16 mm  
+Grande-Bretagne / 1968 / 13 min / VO / DCP  
 La masturbation féminine dans un film voluptueux par l'un des grands cinéastes d'avant-garde à avoir filmé le sexe (dans _Dirty_ par exemple). Une œuvre jumelle du _Blow Job_ d'Andy Warhol ?  
 suivi de  
 [154121]  
 **Infinity Girl**  
 d'Aggy Read  
-Australie / 1968 / 5 min  
+Australie / 1968 / 5 min / VO / Numérique  
 Fille infinie, femme infiniment, infinité féminine, fille à l'infini, l'infini est femme, et l'ensemble très simple.  
 suivi de  
 [154002]  
@@ -347,7 +347,7 @@ suivi de
 [154004]  
 **Orfeo filmando en el campo de batalla**  
 d'Antonio Maenza Blasco  
-Espagne / 1968 / 37 min / VO  
+Espagne / 1968 / 37 min / VO / Numérique  
 Avec Maite Larrauri, Luis Puig, Rafa Ferrando, Narciso Sáez.  
 Monument du cinéma d'avant-garde espagnol sur l'amour et la politique. L'idéal révolutionnaire passe aussi par le fait de réinventer le sexe et le désir, à trois si possible.
 
@@ -383,7 +383,7 @@ suivi de
 [154006]  
 **Onanism**  
 de Nalini Malani  
-Inde / 1969 / 4 min / VO / 16 mm  
+Inde / 1969 / 4 min / VO / Numérique  
 Seule femme alors à y contribuer, Nalini Malani participe au Vision Exchange Workshop, un centre d'art expérimental à Mumbai. _Onanism_ est caractéristique de son intérêt à aborder les aspects non dits ou tabous de la vie des femmes.  
 suivi de  
 [154122]  

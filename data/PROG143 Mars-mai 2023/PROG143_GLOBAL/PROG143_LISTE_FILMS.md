@@ -4,12 +4,13 @@
 
   * Ennio
 
-## Aujourd'hui le cinéma (14)
+## Aujourd'hui le cinéma (15)
 
   * Armée des fourmis (L')  
   * Bruno Reidal  
   * Cri de Tarzan (Le)  
   * Hizz ya wizz  
+  * Marinaleda  
   * Mozeb  
   * Ossos  
   * Pas de panique  
@@ -42,15 +43,15 @@
 
 ## Fenêtre sur les collections (12)
 
-  * Autour de « L'Argent »  
-  * Autour de « La cousine Bette »  
-  * Autour de « La fin du monde »  
+  * Autour de L'Argent  
+  * Autour de La Cousine Bette  
+  * Autour de La Fin du monde  
   * Black Whip (The)  
+  * Conquête des Gaules (La)  
   * Cri des Apaches (Le)  
-  * Gendarme et Cinématographe  
-  * La Conquête Des Gaules (ou « L'Odyssée D'un Film »)  
-  * Le Raid Paris-Le Cap-Paris  
-  * Le reportage cinématographique moderne : un incendie à Genève  
+  * Gendarme et cinématographe  
+  * Raid Paris-Le Cap-Paris (Le)  
+  * Reportage cinématographique moderne : un incendie à Genève (Le)  
   * Start of the Gordon Bennett Balloon Race  
   * Une cité cinématographique moderne  
   * Une cité française du cinéma
@@ -262,7 +263,7 @@
   * Caro Michele  
   * Casanova 70  
   * Chambre d'hôtel  
-  * Cuore rivelatore  
+  * Cuore rivelatore (Il)  
   * Dans les coulisses  
   * Donatella  
   * Double Vie de Mathias Pascal (La)  

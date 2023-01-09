@@ -32,7 +32,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Quatre femmes sont suspectées d'avoir aidé un hors la loi, membre du célèbre gang des Blacklegs, à s'évader de prison. Elles trouvent refuge dans une auberge tenue par deux frères, mais les Blacklegs sèment la terreur partout."
+              "texte": "Suspectées d'avoir aidé le chef du gang des Blacklegs à s'évader de prison, quatre entraîneuses de saloon trouvent abri dans une auberge. Les Blacklegs s'y réfugient à leur tour et sèment la terreur."
             }
           ]
         },
@@ -88,7 +88,7 @@
           "idEvenement": 27804,
           "typeEvenement": 13,
           "idFilm": 154300,
-          "titre": "Autour de « L'Argent »",
+          "titre": "Autour de L'Argent",
           "realisateurs": "Jean Dréville",
           "annee": 1929,
           "pays": "France",
@@ -114,7 +114,7 @@
           "idEvenement": 27804,
           "typeEvenement": 13,
           "idFilm": 154298,
-          "titre": "Autour de « La cousine Bette »",
+          "titre": "Autour de La Cousine Bette",
           "realisateurs": "Max de Rieux",
           "annee": 1928,
           "pays": "France",
@@ -124,7 +124,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Après un casting de stars pour le film _La Cousine Bette_, les comédiens sélectionnés font une démonstration des costumes et des décors dans une salle de spectacle. Le tournage en extérieur sollicite plusieurs opérateurs et de nombreux figurants locaux."
+              "texte": "Après un casting pour le film _La Cousine Bette_, les comédiens sélectionnés font une démonstration des costumes et des décors dans une salle de spectacle. Le tournage en extérieur sollicite plusieurs opérateurs et de nombreux figurants."
             }
           ]
         },
@@ -140,7 +140,7 @@
           "idEvenement": 27804,
           "typeEvenement": 13,
           "idFilm": 154301,
-          "titre": "Autour de « La fin du monde »",
+          "titre": "Autour de La Fin du monde",
           "realisateurs": "Eugène Deslaw",
           "annee": 1930,
           "pays": "France",
@@ -150,33 +150,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Abel Gance et ses équipes se lancent dans le cinéma parlant. Leurs prouesses techniques permettent des prises de vue impressionnantes. Des essais d'acteurs et des plans coupés au montage s'interposent aux scènes de tournage."
-            }
-          ]
-        },
-        {
-          "idSeance": 92957,
-          "ordre": 1,
-          "dateHeure": "2023-05-19T18:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "idCategorie": 2973,
-          "idEvenement": 27796,
-          "typeEvenement": 13,
-          "idFilm": 154292,
-          "titre": "Gendarme et Cinématographe",
-          "realisateurs": "Anonyme",
-          "annee": 1908,
-          "pays": "France",
-          "duree": 4,
-          "version": "",
-          "format": "35 mm",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un gendarme aperçoit une agression et s'interpose, sans réaliser qu'il s'agit d'une scène destinée au cinématographe. Malmené par l'équipe du film, il retourne piteusement déjeuner chez lui."
+              "texte": "Abel Gance et son équipe se lancent dans le cinéma parlant. Leurs prouesses techniques permettent des prises de vue impressionnantes. Des essais d'acteurs et des plans coupés au montage s'interposent aux scènes de tournage."
             }
           ]
         },
@@ -192,8 +166,9 @@
           "idEvenement": 27796,
           "typeEvenement": 13,
           "idFilm": 154297,
-          "titre": "La Conquête Des Gaules (ou « L'Odyssée D'un Film »)",
-          "realisateurs": "Marcel Yonnet, Yan B. Dy",
+          "art": "La",
+          "titre": "Conquête des Gaules",
+          "realisateurs": "Marcel Yonnet, Yan B. Dyl",
           "annee": 1922,
           "pays": "France",
           "duree": 54,
@@ -202,7 +177,37 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Les mésaventures d'un metteur en scène, Jean Fortier, sur le tournage de son nouveau film, _La Conquête des Gaules_. Fortier doit mener à bien la réalisation en dépit des obstacles : budget divisé par cent par le producteur, un César blessé, des badauds intervenant dans le champ parmi les figurants costumés en Romains, etc."
+              "texte": "Les mésaventures du metteur en scène Jean Fortier sur le tournage de son nouveau film, _La Conquête des Gaules_. Fortier doit mener à bien la réalisation en dépit des obstacles : budget divisé par cent par le producteur, un César blessé, des badauds intervenant dans le champ parmi les figurants costumés en Romains..."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film également connu sous le titre _L'Odyssée d'un film_."
+            }
+          ]
+        },
+        {
+          "idSeance": 92957,
+          "ordre": 1,
+          "dateHeure": "2023-05-19T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2973,
+          "idEvenement": 27796,
+          "typeEvenement": 13,
+          "idFilm": 154292,
+          "titre": "Gendarme et cinématographe",
+          "realisateurs": "Anonyme",
+          "annee": 1908,
+          "pays": "France",
+          "duree": 4,
+          "version": "",
+          "format": "35 mm",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un gendarme est témoin d'une agression et s'interpose, sans réaliser qu'il s'agit d'une scène destinée au cinématographe. Malmené par l'équipe du film, il retourne piteusement déjeuner chez lui."
             }
           ]
         },
@@ -218,7 +223,8 @@
           "idEvenement": 27796,
           "typeEvenement": 13,
           "idFilm": 154294,
-          "titre": "Le Raid Paris-Le Cap-Paris",
+          "art": "Le",
+          "titre": "Raid Paris-Le Cap-Paris",
           "realisateurs": "Albert Cohendy",
           "annee": 1928,
           "pays": "France",
@@ -228,7 +234,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Vues aériennes tournées par l'opérateur Albert Cohendy (dit « Coco »), extraites du reportage cinématographique de l'expédition organisée jusqu'en Afrique (et retour) par _Le Petit Parisien_ et Paramount, au bord d'un triplace Caudron C-128."
+              "texte": "Vues aériennes tournées par l'opérateur Albert Cohendy (dit « Coco »), extraites du reportage cinématographique de l'expédition organisée jusqu'en Afrique par _Le Petit Parisien_ et Paramount à bord d'un triplace Caudron C-128."
             }
           ]
         },
@@ -244,7 +250,8 @@
           "idEvenement": 27796,
           "typeEvenement": 13,
           "idFilm": 154295,
-          "titre": "Le reportage cinématographique moderne : un incendie à Genève",
+          "art": "Le",
+          "titre": "Reportage cinématographique moderne : un incendie à Genève",
           "realisateurs": "Anonyme",
           "annee": 1930,
           "pays": "Suisse",
@@ -254,7 +261,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un incendie est signalé sur Genève. L'opérateur réunit son matériel, qu'il range facilement dans les sacoches de sa moto, et se rend sur les lieux où il peut filmer l'évènement en direct."
+              "texte": "Un incendie est signalé à Genève. L'opérateur réunit son matériel, qu'il range facilement dans les sacoches de sa moto, et se rend sur les lieux où il peut filmer l'événement en direct."
             }
           ]
         },
