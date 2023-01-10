@@ -185,13 +185,13 @@ Séance présentée par Manuel Poirier
 
 ## Rencontres et conférences
 
-**Film + leçon de cinéma Yann Dedet**  
+**Film + leçon de cinéma de Yann Dedet**  
 Rencontre animée par Frédéric Bonnaud  
 Tarif B : voir p.  
-À partir de 18h, la leçon de cinéma sera suivie d'une signature par Yann Dedet, à la Librairie de la Cinémathèque, de ses trois ouvrages, tous parus aux éditions P.O.L : _Le Point de vue du lapin. Le Roman de Passe Montagne_ (2017), _Le Spectateur zéro. Conversation sur le montage_ (entretiens avec Julien Suaudeau, 2020) ; _Le Principe du clap_ (2022). Il signera aussi _Journal de Silésie_ de J.-F. Stévenin (P.O.L, 2023), récit de tournage des Cloches de Silésie préfacé par Yann Dedet.  
-« Ce qui me court sur le haricot depuis une quarantaine d'années vient d'une période bénie des diables : la trajectoire d'un assistant de cinéma qui rêvasse, jusqu'au moment miraculeux où il invente. Réapparition soudaine de ce temps de chien qui part du presque rien pour arriver à quelque chose : presque rien, c'est un cerveau, quelque chose, c'est un film. Presque trois ans, de septembre 1975 où Stévenin quitte le tournage de _L'Argent de poche_ \[de François Truffaut\] pour m'emmener une première fois dans son Jura, jusqu'au jour de la sortie de _Passe Montagne_ au Saint-André-des-Arts, en novembre 1978. Trois années sans se quitter d'une semelle. » Yann Dedet, _Le Point de vue du lapin. Le Roman de Passe Montagne_, P.O.L, 2017  
-**Frédéric Bonnaud** est directeur général de la Cinémathèque française.  
-**Yann Dedet** a monté deux des trois films réalisés par Jean-François Stévenin : _Passe Montagne (_1978) et _Double messieurs_ (1986).
+À partir de 18h, la leçon de cinéma sera suivie d'une signature par Yann Dedet, à la librairie de la Cinémathèque, de ses trois ouvrages, tous parus aux éditions P.O.L : _Le Point de vue du lapin : Le Roman de Passe montagne_ (2017), _Le Spectateur zéro : Conversation sur le montage_ (entretiens avec Julien Suaudeau, 2020) ; _Le Principe du clap_ (2022). Il signera aussi _Journal de Silésie_ de Jean-François Stévenin (P.O.L, 2023), récit de tournage des _Cloches de Silésie_ préfacé par Yann Dedet.  
+« Ce qui me court sur le haricot depuis une quarantaine d'années vient d'une période bénie des diables : la trajectoire d'un assistant de cinéma qui rêvasse, jusqu'au moment miraculeux où il invente. Réapparition soudaine de ce temps de chien qui part du presque rien pour arriver à quelque chose : presque rien, c'est un cerveau, quelque chose, c'est un film. Presque trois ans, de septembre 1975 où Stévenin quitte le tournage de _L'Argent de poche_ [de François Truffaut] pour m'emmener une première fois dans son Jura, jusqu'au jour de la sortie de _Passe montagne_ au Saint-André-des-Arts, en novembre 1978. Trois années sans se quitter d'une semelle. » (Yann Dedet, _Le Point de vue du lapin : Le Roman de Passe montagne_, P.O.L, 2017  
+Frédéric Bonnaud est directeur général de la Cinémathèque française.  
+Yann Dedet a monté deux des trois films réalisés par Jean-François Stévenin : _Passe montagne_ (1978) et _Double messieurs_ (1986).
 
 - sa 13 mai 14h30 HL  
 À la suite de la projection de _Passe montagne_ de Jean-François Stévenin (voir p. xx)

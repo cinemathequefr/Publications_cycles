@@ -92,7 +92,7 @@ France / 2023 / 11 min / 35 mm
 « Rejoins-moi, mon ami. Puisque tu es mon meilleur ami. On m'a parlé de ce lieu. Un lieu lointain. Selon certains c'est le paradis. Faisons l'amour. Toi et moi. Amène le corps, j'amène le beat. » (Wladimir M.)
 
 - je 11 mai 20h00 HL  
-Ouverture de la rétrospective. Séance présentée par Léolo Victor-Pujebet, Jean-Sébastien Chauvin, Véronique Bourlon, Yann Gonzalez, Alain Garcia Vergara et Othello Vilgard
+Ouverture de la rétrospective. Séance présentée par Léolo Victor-Pujebet, Jean-Sébastien Chauvin, Véronique Bourlon, Marylène Negro, Yann Gonzalez, Alain Garcia Vergara et Othello Vilgard
 
 ### Programme 01 : Le cinéma, art pur, franc et honnête
 
@@ -466,43 +466,43 @@ Des ouvriers transforment leur usine en lieu de plaisir, abolissant à la fois l
 [154011]  
 **Unfolding**  
 de Coni Beeson  
-États-Unis / 1970 / 16 min / VO / 16 mm  
+États-Unis / 1970 / 16 min / VOSTF / Numérique  
 Déploiement des sens, dévoilement des fantasmes, déroulement des rêves.  
 suivi de  
 [141220]  
 **Holding**  
 de Coni Beeson  
-États-Unis / 1971 / 13 min / 16 mm  
+États-Unis / 1971 / 13 min / VOSTF / Numérique  
 Beauté de la surimpression fusionnant promenades élégiaques et intimité sexuelle. « Ce travail lyrique – de manière significative, l'un des rares films érotiques réalisé par une femme – progresse de préliminaires jusqu'au sexe explicite, prouvant que même les séquences _hardcore_ peuvent être subverties. » (Amos Vogel)  
 suivi de  
 [154012]  
 **The Now**  
 de Coni Beeson  
-États-Unis / 1972 / 17 min / 16 mm  
+États-Unis / 1972 / 17 min / VOSTF / Numérique  
 Célébration de l'amour libre et interracial. « There are my past lives when my lovers were Black and my lovers were White. » (Coni Beeson)  
 suivi de  
 [154013]  
 **Firefly**  
 de Coni Beeson  
-États-Unis / 1974 / 5 min / 16 mm  
+États-Unis / 1974 / 5 min / VOSTF / Numérique  
 Danse féminine, sensuelle et expressive.  
 suivi de  
 [154014]  
 **Women**  
 de Coni Beeson  
-États-Unis / 1974 / 13 min / 16 mm  
+États-Unis / 1974 / 13 min / VOSTF / Numérique  
 À un patriarcat misogyne et sectaire, le film oppose des femmes émancipées, affirmant leur beauté, leur force, leur corps et leur désir.  
 suivi de  
 [154015]  
 **Grow Old Alone With Me**  
 de Coni Beeson  
-États-Unis / 1977 / 11 min / 16 mm  
+États-Unis / 1977 / 11 min / VOSTF / Numérique  
 L'amour et le sexe défient l'âge et le vieillissement.  
 suivi de  
 [154016]  
 **Lotus**  
 de Coni Beeson  
-États-Unis / 1979 / 12 min / 16 mm  
+États-Unis / 1979 / 12 min / VOSTF / Numérique  
 Sensualité et art du portrait à leur paroxysme.
 
 - je 18 mai 20h00 JE

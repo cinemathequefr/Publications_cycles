@@ -175,7 +175,7 @@ D'après la nouvelle _La Mouche_ de George Langelaan.
 Avec Jeff Goldblum, Geena Davis, John Getz.  
 Un jeune biologiste très doué met au point une invention qui doit révolutionner le monde : la téléportation. Après des essais peu convaincants, il décide de se téléporter lui-même, sans s'apercevoir qu'une mouche fait partie du voyage.
 
-- je 6 avr 20h15 HL
+- ve 7 avr 18h00 HL
 
 [37314]  
 **Le Mystère Andromède**  

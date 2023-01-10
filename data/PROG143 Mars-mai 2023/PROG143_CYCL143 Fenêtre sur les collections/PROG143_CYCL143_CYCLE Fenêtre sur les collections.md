@@ -1,6 +1,8 @@
 # Fenêtre sur les collections
 
-## Le Regalscope
+## Le RegalScope
+
+Dans les années 1950, devant l'essor du CinemaScope et l'avènement de la télévision, les petites maisons de production sont dans l'impasse. Robert Lippert, directeur de la société Regal Films, entre en négociation avec la Twentieth Century-Fox. Il obtient l'autorisation d'utiliser le scope sans la couleur, procédé qu'il nomme RegalScope afin de bien le différencier du CinemaScope. Pour Robert Lippert c'est l'opportunité de produire des films à plus fort potentiel commercial. De 1956 jusqu'en 1959, ces films de série B, pour la plupart des westerns, permettent à des acteurs jusque-là peu connus de faire décoller leur carrière : c'est le cas, entre autres, de Clint Eastwood...
 
 [68182]  
 **Le Cri des Apaches**  
@@ -20,6 +22,8 @@ Suspectées d'avoir aidé le chef du gang des Blacklegs à s'évader de prison, 
 - ve 17 mar 19h00 JE
 
 ## Les as de la manivelle
+
+Soirée présentée par Priska Morrissey et Iris Deniozou (Cinémathèque française), en partenariat avec l'Association française de recherche sur l'histoire du cinéma (AFRHC) et le CNC à l'occasion de la parution de l'ouvrage _Les As de la manivelle : Le Métier d'opérateur de prise de vues cinématographiques en France (1895-1930)_. Dans le prolongement de la conférence du Conservatoire des techniques cinématographiques du même jour, ce programme comprend quelques grandes raretés, fictions et documentaires autour du métier de l'opérateur.
 
 [154292]  
 **Gendarme et cinématographe**  
