@@ -2,13 +2,6 @@
 
 ## Les films
 
-[154328]  
-****  
-undefined  
-137 min / VOSTA / Numérique
-
-- sa 4 fév 17h00 GF
-
 [34190]  
 **L'Ange des maudits**  
 **(Rancho Notorious)**  
@@ -20,6 +13,17 @@ Un fermier parti à la recherche du bandit qui a tué et violé sa fiancée croi
 
 - je 19 jan 18h30 HL  
 - ve 10 fév 18h30 HL
+
+[154328]  
+**Les Araignées**  
+**(Die Spinnen)**  
+de Fritz Lang  
+Allemagne / 1919 / 137 min / VOSTA / Numérique  
+Avec Carl de Vogt, Lil Dagover, Ressel Orla.  
+Jeune homme riche et aventureux, Kay Hoog part à la recherche d'un archéologue mystérieusement disparu au Mexique alors qu'il était sur la trace du trésor des Incas. Il devient la cible d'une redoutable société secrète, les Araignées.  
+Montage américain du film, en une seule partie.
+
+- sa 4 fév 17h00 GF
 
 [34162]  
 **Les Bourreaux meurent aussi**  

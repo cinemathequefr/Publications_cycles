@@ -111,6 +111,7 @@
 ## Fritz Lang (40)
 
   * Ange des maudits (L')  
+  * Araignées (Les)  
   * Bourreaux meurent aussi (Les)  
   * Cape et poignard  
   * Casier judiciaire  
@@ -148,8 +149,7 @@
   * Testament du docteur Mabuse (Le)  
   * Tigre du Bengale (Le)  
   * Tombeau hindou (Le)  
-  * Trois lumières (Les)  
-  * undefined
+  * Trois lumières (Les)
 
 ## Gérard Philipe (19)
 
