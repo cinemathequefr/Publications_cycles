@@ -523,25 +523,25 @@ Avec Charles Henri Ford, Allen Ginsberg, Yiannis Koutsis, Nikos Koulizakis, Chuz
 [154143]  
 **CF Porn**  
 de JoAnn Elam  
-États-Unis / 1970 / 2 min / VO / Numérique  
+États-Unis / 1970 / 2 min / VOSTF / Numérique  
 Expérimentations optiques sur la copie 16 mm d'un film pornographique.  
 suivi de  
 [154144]  
 **Lovemaking**  
 de Scott Bartlett  
-États-Unis / 1970 / 13 min / VO / 16 mm  
+États-Unis / 1970 / 13 min / VOSTF / 16 mm  
 « Un traitement délicat et excitant de l'amour. Son mode est simple et classique, alliant maîtrise technique et singulière sobriété. L'image est vive, subtile et ambiguë tandis que le son est net et clair. » (Bruce Conner, Maurice Girodias, Arthur Knight)  
 suivi de  
 [154145]  
 **Mixed-Double**  
 de Bent Barfod  
-Danemark / 1970 / 6 min / VO / DCP  
+Danemark / 1970 / 6 min / VOSTF / DCP  
 Sur une chorégraphie d'Eske Holm, un ballet psychédélique se mue en kaléidoscope érotique.  
 suivi de  
 [154007]  
 **Hedonistic Communication**  
 d'Irm Sommer, Ed Sommer  
-RFA / 1970 / 18 min  
+RFA / 1970 / 18 min / VO / Numérique  
 Sexualité explicite, musique stridente, texte absurde ou trivial (« Ceci est un cours de téléachat tardif », « J'ai 14 ans, je veux voir du sexe aussi ») alimentent la licence de ce qui se communique ici.  
 suivi de  
 [154147]  
@@ -565,7 +565,7 @@ suivi de
 [154149]  
 **Phosphene**  
 de Byron Grush  
-États-Unis / 1971 / 7 min / VO / 16 mm  
+États-Unis / 1971 / 7 min / VOSTF / 16 mm  
 Remploi psychédélique. L'un de ces cas fréquents où le recyclage magnifie un matériau banal voire disgracié.  
 suivi de  
 [154152]  
@@ -751,5 +751,6 @@ France / 1974 / 80 min / 16 mm
 Avec Catherine Jourdan.  
 Des textes extraits de l'_Histoire de la Révolution française_ de Jules Michelet, sur des images souvent érotiques d'une jeune femme dans son appartement, entrecoupées de vues de Paris et de ses monuments.
 
-- di 28 mai 18h00 GF
+- di 28 mai 18h00 GF  
+Séance présentée par Alain Fleischer
 

@@ -108,11 +108,9 @@
   * Une pierre dans la bouche  
   * Vagabond Queen (The)
 
-## Fritz Lang (41)
+## Fritz Lang (40)
 
   * Ange des maudits (L')  
-  * Araignées, partie 1 : Le Lac d'or (Les)  
-  * Araignées, partie 2 : Le Cargo de diamants (Les)  
   * Bourreaux meurent aussi (Les)  
   * Cape et poignard  
   * Casier judiciaire  
@@ -150,7 +148,8 @@
   * Testament du docteur Mabuse (Le)  
   * Tigre du Bengale (Le)  
   * Tombeau hindou (Le)  
-  * Trois lumières (Les)
+  * Trois lumières (Les)  
+  * undefined
 
 ## Gérard Philipe (19)
 

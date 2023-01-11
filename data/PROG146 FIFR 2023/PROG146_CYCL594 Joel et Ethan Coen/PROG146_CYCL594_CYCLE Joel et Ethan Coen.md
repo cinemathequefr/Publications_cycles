@@ -30,9 +30,14 @@ Un vendeur de voitures d'occasion endetté fait enlever sa femme par deux petite
 
 ---
 
+Version restaurée 4K 2021 à l'occasion du 25e anniversaire du film
+
+---
+
 En plein hiver, Jerry Lundegaard, un vendeur de voitures d'occasion à Minneapolis, a besoin d'un prêt de Wade Gustafson, son riche beau-père. Il fait alors appel à deux malfrats, pour qu'ils enlèvent son épouse Jean, afin de partager avec les ravisseurs la rançon que Wade paiera pour la libération de sa fille.
 
-- me 8 mar 20h00 HL
+- me 8 mar 20h00 HL  
+- me 8 mar 20h00 JE
 
 [119403]  
 **Inside Llewyn Davis**  

@@ -281,7 +281,7 @@ D'après la pièce _The Letter_ de William Somerset Maugham.
 Avec Bette Davis, Herbert Marshall, James Stephenson.  
 Alors que son mari part inspecter sa plantation de caoutchouc, Leslie Crosbie tue Geoffroy Hammond, un ami de la famille, qui aurait tenté d'abuser d'elle. Si son mari la croit sur parole, leur avocat a des doutes.
 
-- ve 7 avr 18h00 HL  
+- je 6 avr 20h15 HL  
 - ve 21 avr 20h30 HL
 
 [30749]  
@@ -399,7 +399,7 @@ de Tay Garnett
 Avec William Powell, Kay Francis, Frank McHugh.  
 Dan et Joan tombent amoureux lors d'une traversée du Pacifique. Mais ils savent que leur histoire est sans lendemain, car Joan est gravement malade tandis que Dan est un criminel recherché par la police et promis à la peine de mort.
 
-- ve 7 avr 20h00 HL  
+- ve 7 avr 20h15 HL  
 - me 10 mai 17h30 HL
 
 [30592]  

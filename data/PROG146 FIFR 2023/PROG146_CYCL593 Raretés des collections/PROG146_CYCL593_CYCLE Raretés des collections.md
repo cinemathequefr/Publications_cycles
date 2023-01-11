@@ -18,7 +18,7 @@ de Raoul Sangla
 France / 1988 / 56 min / DCP  
 Ghérasim Luca, auteur d'origine roumaine, a marqué le champ de la poésie sonore en langue française. Raoul Sangla filme Luca et ses textes, dans un récital télévisuel qui tient de la performance.
 
-- me 8 mar 12h00 JE  
+- ve 10 mar 16h30 JE  
 Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage, _Crossroads_ de Bruce Conner
 
 [130509]  
@@ -27,7 +27,7 @@ de Bruce Conner
 États-Unis / 1976 / 36 min / 35 mm  
 En pleine guerre froide, Conner montre l'explosion nucléaire test de 1945 sur l'Atoll de Bikini sous 27 angles différents, dans un ralenti extrême, et accompagnée par les compositions sonores avant-gardistes de Patrick Gleeson et Terry Riley.
 
-- me 8 mar 12h00 JE  
+- ve 10 mar 16h30 JE  
 Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage et suivi de de _Comment s'en sortir sans sortir_ de Raoul Sangla
 
 [135109]  
@@ -39,7 +39,7 @@ Avec Luigi Maggi, Giulietta De Riso.
 Deux fermiers aiment la même femme, qui choisi l'un d'eux. Le prétendant rejeté se venge et provoque l'accident mortel de son rival.  
 Restauré 4K menée en 2023 par la Cinémathèque française. Travaux réalisés au laboratoire du CNC à partir d'une copie nitrate teintée.
 
-- me 8 mar 12h00 JE  
+- sa 11 mar 14h00 JE  
 Film suivi de _Thaïs_ d'Anton Giulio Bragaglia
 
 [139952]  
@@ -49,13 +49,13 @@ de Lee Savage
 États-Unis / 1969 / 1 min / DCP  
 Dans ce dessin animé indépendant, ni validé ni produit par Disney, Mickey s'engage dans l'armée américaine et se rend au Viêt Nam en bateau durant la guerre. Quelques instants après son arrivée, il est descendu d'une balle dans la tête.
 
-- me 8 mar 12h00 JE  
+- ve 10 mar 16h30 JE  
 Film suivi de _Crossroads_ de Bruce Conner, _Comment s'en sortir sans sortir_ de Raoul Sangla
 
 [84569]  
 **La Montagne infidèle**  
 de Jean Epstein  
-France / 1923 / 21 min / DCP  
+France / 1923 / 21 min / INT. FR. / DCP  
 En juin 1923, en Sicile, deux cratères de l'Etna s'ouvrent à nouveau. Jean Epstein et son opérateur Paul Guichard filment avec grande témérité la spectaculaire coulée de lave et les dévastations qu'elle produit.  
 Restauration 4K, numérisée au 2CR-Filmoteca de Catalunya et préservée par l'Arquivo Nacional das Imagens em Movimento, à la Cinemateca Portuguesa. La restauration a été faite à partir d'une copie teintée 28mm Pathé-KOK retrouvée à la Filmoteca de Catalunya, datant de 1924.
 
@@ -70,6 +70,6 @@ Avec Augusto Bandini, Alberto Casanova, Thais Galitzky.
 La comtesse russe Thaïs Galitzy aguiche des hommes mariés avant de les ruiner. Ayant séduit le mari de sa meilleure amie, elle est prise de remords lorsque celle-ci meurt.  
 Restauration 4K menée en 2023 par la Cinémathèque française en collaboration avec la Fondazione Centro Sperimentale di Cinematografia – Cineteca Nazionale (Rome). Travaux réalisés au laboratoire L'Image retrouvée (Paris/Bologne) à partir d'une copie nitrate teintée partiellement décomposée et d'un contretype.
 
-- me 8 mar 12h00 JE  
+- sa 11 mar 14h00 JE  
 Film précédé de _La Damnation de Caïn_ de Luigi Maggi
 

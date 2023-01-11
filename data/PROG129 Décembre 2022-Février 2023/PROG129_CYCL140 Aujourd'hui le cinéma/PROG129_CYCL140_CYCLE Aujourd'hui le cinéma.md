@@ -137,13 +137,13 @@ suivi de
 [154174]  
 **Bal de la Tournelle**  
 de Xavier Baert  
-France / 1999 / 10 min / 16 mm  
+France / 1999 / 10 min / Numérique  
 « Plongée de lumières, de couleurs et de rythmes dans le noir d'une rave party. Liberté du Super 8 (matière première de la plupart de mes films à ce jour), intensité du ralenti (dont le cinéma de Hongkong m'avait convaincu de la profondeur), fulgurance de la description du corps masculin (métamorphose des couleurs sur le contour de l'épaule nue d'un danseur), révélation de la danse. » (Xavier Baert, 1999)  
 suivi de  
 [154175]  
 **Contrechants / Atlas**  
 de Xavier Baert  
-France / 2022 / 20 min / Numérique  
+France / 2022 / 120 min / Numérique  
 « Avec _Contrechants / Atlas_, atlas de photographies et de textes réalisés depuis février 2021, il s'agit, dans la continuité de mes écrits sur le Brésil depuis 2015, de ma ville d'adoption, São Paulo, et de la situation politique du Brésil, qui relève déjà d'un processus historique de longue durée. » (Xavier Baert)
 
 - lu 16 jan 19h00 JE  

@@ -8,7 +8,7 @@ En clairs-obscurs fulgurants, avec beaucoup de pudeur et de poésie, le jeune ci
 **Des portes et des murs**  
 de Peter Bastos  
 France / 2021 / 17 min / VOSTF / Numérique  
-Carlos entame un nouveau chantier malgré ses 84 ans. A l'approche d'un rendez-vous médical qui pourrait bouleverser ses certitudes, il replonge dans ses traumatismes du passé.  
+Carlos entame un nouveau chantier malgré ses 84 ans. À l'approche d'un rendez-vous médical qui pourrait bouleverser ses certitudes, il replonge dans les traumatismes de son passé.  
 suivi de  
 [29129]  
 **Ossos**  
@@ -35,7 +35,7 @@ suivi de
 de Noémie Lvovsky  
 France-Suisse / 1998 / 111 min / 35 mm  
 Avec Magali Woch, Ingrid Molinier, Julie-Marie Parmentier, Valéria Bruni Tedeschi, Camille Rousselet.  
-C'est l'histoire de quatre filles. Comment elles se lient d'amitié et ne se quittent plus. Comment elles vivent en bande les années de leur adolescence. Comment cette rencontre change leur vie et leur personne.  
+C'est l'histoire de quatre filles. Comment elles se lient d'amitié et ne se quittent plus. Comment elles vivent en bande les années de leur adolescence. Comment cette rencontre change leur vie et leurs personne.  
 Version longue du téléfilm _Petites_ faisant partie de la collection _Les Années Lycée_.
 
 - lu 13 mar 19h30 GF  
@@ -49,8 +49,8 @@ Alors que sort en salles son premier long métrage, _Grand Paris_, présenté en
 **Le Sang de la veine**  
 de Martin Jauvat  
 France / 2021 / 17 min / DCP  
-Avec William Lebghill, Anaïde Rozam.  
-C'est l'été en Seine et Marne. Rayan, au chômage et grand fan du rappeur Jul, s'ennuie à mourir dans le petit pavillon de banlieue de ses parents lorsqu'il match Zoé sur Tinder.  
+Avec William Lebghill, Anaïde Rozam, Martin Jauvat.  
+C'est l'été en Seine-et-Marne. Rayan, au chômage et grand fan du rappeur Jul, s'ennuie à mourir dans le petit pavillon de banlieue de ses parents, lorsqu'il matche Zoé sur Tinder.  
 suivi de  
 [154316]  
 **Mozeb**  
@@ -64,7 +64,7 @@ suivi de
 de Martin Jauvat  
 France / 2019 / 20 min / DCP  
 Avec Erwin Aureillan, Sébastien Chassagne, Martin Jauvat.  
-C'est l'été en banlieue parisienne. Il fait chaud, la ville est déserte. Parfois, on se sent seul quand on reste à la maison pendant l'été, et tout ce dont on rêve, c'est d'un peu de compagnie.
+C'est l'été en banlieue parisienne. Il fait chaud, la ville est déserte. Parfois, on se sent seul quand on reste à la maison, et tout ce dont on rêve, c'est d'un peu de compagnie.
 
 - lu 20 mar 19h30 JE  
 Séance suivie d'une discussion avec Martin Jauvat
@@ -75,10 +75,10 @@ Séance suivie d'une discussion avec Martin Jauvat
 
 [154320]  
 **Tinnitus**  
-de Gregorio Graziosi  
+de Gregorio Graziosi, Elizabeth Avellán  
 Brésil / 2022 / 105 min / VOSTF / DCP  
 Avec Joana de Verona, André Guerreiro Lopes, Indira Nascimento, Antonio Pitanga.  
-Marina, 30 ans, est une ancienne plongeuse professionnelle qui souffre de bourdonnements dans les oreilles affectant son équilibre physique et mental. Éloignée des bassins depuis un terrible accident, elle décide de reprendre la compétition dans l'espoir de remporter une médaille olympique.
+Marina, 30 ans, est une ancienne plongeuse professionnelle qui souffre d'acouphènes affectant son équilibre physique et mental. Éloignée des bassins depuis un terrible accident, elle décide de reprendre la compétition dans l'espoir de remporter une médaille olympique.
 
 - lu 27 mar 20h00 GF  
 Avant-première. Séance suivie d'une discussion avec Gregorio Graziosi
@@ -92,7 +92,7 @@ Libre, lyrique et extrêmement sensitif, le premier long métrage du cinéaste T
 de Thomas Bardinet  
 France / 1995 / 112 min / DCP  
 Avec Julien Haurant, Hamida Bedjaoui, Marie Vialle.  
-Frédéric est un jeune bourgeois bordelais qui fait son service militaire. Pistonné, il rentre tous les soirs chez ses parents et tout irait bien pour lui s'il ne résistait pas tant à l'affection de sa famille et de ses amis. Il rencontre Saliha, serveuse dans un bar, qui dérègle définitivement sa vie. Ils se réfugient tous les deux sur une île du bassin d'Arcachon.
+Frédéric, jeune bourgeois bordelais, effectue son service militaire. Pistonné, il rentre tous les soirs chez ses parents et tout irait bien pour lui s'il ne résistait pas tant à l'affection de sa famille et de ses amis. Il rencontre Saliha, une serveuse qui dérègle définitivement sa vie, et avec qui il se réfugie sur une île du bassin d'Arcachon.
 
 - lu 3 avr 19h30 JE  
 Séance suivie d'une discussion avec Thomas Bardinet
@@ -104,7 +104,7 @@ Séance suivie d'une discussion avec Thomas Bardinet
 de Louis Seguin  
 France / 2022 / 50 min / DCP  
 Avec François Rivière, Luc Chessel, Pauline Belle.  
-Deux vampires font du stop sur les routes de France. Leur objectif : Marinaleda, une petite ville d'Andalousie. Suite à un quiproquo, ils rencontrent Lise, une jeune femme qui leur propose de les héberger pour la nuit. Elle découvre qu'ils sont des vampires et ils passent la soirée à discuter, autour d'une bonne bouteille de vin.
+Deux vampires font du stop sur les routes de France pour se rendre à Marinaleda, en Andalousie. Ils rencontrent Lise, qui leur propose de les héberger pour la nuit. La jeune femme découvre leur condition, et ils passent la soirée à discuter, autour d'une bonne bouteille de vin.
 
 - lu 17 avr 19h00 JE
 
@@ -117,20 +117,20 @@ Deux vampires font du stop sur les routes de France. Leur objectif : Marinaleda
 de Wissam Charaf  
 Liban / 2020 / 21 min / VOSTF / DCP  
 Avec Rodrigue Sleiman, Said Serhan.  
-Beyrouth, 2020, après la crise économique et l'explosion. Depuis la chute de la monnaie libanaise, Malek, ancien conseiller en développement personnel, n'arrive plus à bander... Il veut se suicider, mais la mort lui fait peur. Un de ses anciens clients, Saïd, lui propose de l'aider à mourir.  
+Beyrouth, 2020, après la crise économique et l'explosion. Depuis la chute de la monnaie libanaise, Malek, ancien conseiller en développement personnel, n'arrive plus à bander... Il veut se suicider, mais la mort lui fait peur. Un de ses anciens clients lui propose de l'aider à mourir.  
 suivi de  
 [140099]  
 **Souvenir inoubliable d'un ami**  
 de Wissam Charaf  
 France-Liban / 2017 / 27 min / DCP  
 Avec Ralph Hilali, Nathalie Issa.  
-Au Liban, Chadi, un garçon de treize ans, premier de sa classe, découvre qu'il peut monnayer son talent. Si ce n'est pas encore pour de l'argent, ce sera pour gagner l'intérêt de la jolie Raya à qui il n'ose pas parler.  
+Au Liban, Chadi, treize ans, premier de sa classe, découvre qu'il peut monnayer son talent. Si ce n'est pas encore pour de l'argent, ce sera pour gagner l'intérêt de la jolie Raya à qui il n'ose pas parler.  
 suivi de  
 [140100]  
 **L'Armée des fourmis**  
 de Wissam Charaf  
 France / 2007 / 27 min / VOSTF / 35 mm  
-Avec Wissam Fares, Hussein Moukkaden.  
+Avec Wissam Fares, Hussein Moukkaden, Raed Yassin.  
 Au sud du Liban, on trouve parfois de curieux objets dans le sol. Au point de perdre son travail et de se perdre soi même.  
 suivi de  
 [95585]  
@@ -138,7 +138,7 @@ suivi de
 de Wissam Charaf  
 France-Liban / 2004 / 26 min / VOSTF / 35 mm  
 Avec Raed Yassin, Peter Semaan.  
-Ali vit et travaille à Beyrouth, comme assistant d'un photographe sportif. Amoureux d'une jeune femme qu'il a aperçue lorsqu'elle participait à une compétition équestre, il demande des conseils de séduction à sa sœur. Celle-ci suggère de lui écrire un poème...
+Ali vit et travaille à Beyrouth, comme assistant d'un photographe sportif. Amoureux d'une jeune femme qu'il a aperçue lorsqu'elle participait à une compétition équestre, il demande des conseils de séduction à sa sœur. Celle-ci suggère de lui écrire un poème.
 
 - lu 24 avr 19h30 JE
 

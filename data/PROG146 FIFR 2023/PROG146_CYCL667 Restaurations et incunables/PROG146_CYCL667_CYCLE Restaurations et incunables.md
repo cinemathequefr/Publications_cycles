@@ -2,16 +2,6 @@
 
 ## Les films
 
-[34786]  
-**À bout de course**  
-**(Running on Empty)**  
-de Sidney Lumet  
-États-Unis / 1988 / 115 min / VOSTF / 35 mm  
-Avec River Phoenix, Judd Hirsch, Christine Lahti, Martha Plimpton.  
-Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie.
-
-- me 8 mar 14h00 GF
-
 [53030]  
 **Boy Meets Girl**  
 de Leos Carax  
@@ -48,6 +38,17 @@ Restauration 4K réalisée en 2022 par Sony à partir du négatif 35mm d'origine
 
 - je 9 mar 14h30 JE
 
+[49089]  
+**Le Comédien**  
+de Sacha Guitry  
+France / 1947 / 95 min / DCP  
+D'après la pièce _Le Comédien_ de Sacha Guitry.  
+Avec Sacha Guitry, Lana Marconi, Jacques Baumer.  
+Biographie du comédien de théâtre Lucien Guitry, joué par son fils réalisateur Sacha, qui propose une réflexion poétique sur l'amour des deux hommes pour l'art.  
+Une présentation de TF1 Studio. Nouvelle version restaurée en 4K par TF1 Studio, avec le soutien du CNC, à partir du négatif image nitrate original, d'un marron nitrate et d'un négatif son nitrate. Travaux numériques et photochimiques réalisés par le laboratoire Hiventy en 2022.
+
+- sa 11 mar 18h00 JE
+
 [45643]  
 **Danse macabre**  
 **(Danza macabra)**  
@@ -58,7 +59,7 @@ Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.
 Alan Foster, jeune journaliste, relève le pari de passer la nuit dans un château que l'on dit hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
 Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8ème, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
 
-- sa 11 mar 21h00 GF
+- ve 10 mar 21h00 GF
 
 [133965]  
 **Deux amies = Deux amies de votre beauté**  
@@ -67,7 +68,7 @@ France / 1936 / 1 min / DCP
 Publicité de la crème Simon.  
 Restauration numérique effectuée par le CNC à partir d'une copie unique originale nitrate.
 
-- ve 10 mar 19h00 JE  
+- ve 10 mar 16h30 GF  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff et suivi de de _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [47122]  
@@ -89,7 +90,7 @@ Avec Geraldo del Rey, Yoná Magalhães, Maurício do Valle.
 Un couple de paysans brésiliens, touché par la misère, est prêt à se compromettre pour s'en sortir. Ils s'en remettent tour à tour à deux personnages violents et mystiques, symbolisant la révolte : une incarnation de Dieu et l'autre du Diable.  
 Restauration 4K conduite par Métropoles, Lino Meireles et Paloma Cinematografica à partir du négatif 35mm original conservé à la Cinemateca Brasileira. Travaux réalisés par les Estudios Colors et Estudios JLS, les cinéastes Luis Abramo et Rogerio Moraes, sous la direction de Rodrigo Mercês. Ressortie en salles au troisième trimestre 2023 par Capricci.
 
-- je 9 mar 14h30 GF
+- ve 10 mar 14h00 GF
 
 [64216]  
 **Fin d'été**  
@@ -142,7 +143,7 @@ de Bogdan Zoubowitch
 France / 1934 / 10 min / DCP  
 Le Japon, représenté par un soldat, s'approche d'un Chinois et lui coupe un pan de sa tunique symbolisant la Mandchourie. Le Chinois court se plaindre à la Société des nations. Mais celle-ci n'est qu'un décor en carton-pâte.
 
-- ve 10 mar 19h00 JE  
+- ve 10 mar 16h30 GF  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies = Deux amies de votre beauté_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker et suivi de de _L'Idée_ de Berthold Bartosch
 
 [154262]  
@@ -152,7 +153,7 @@ France / 1937 / 5 min / DCP
 Publicité de l'huile d'arachide de Rufisque conditionnée à la grande huilerie bordelaise pour la marque Huilor.  
 Restauration numérique effectuée par le CNC à partir des négatifs nitrate originaux, image et son conservés et mis à disposition par le BFI.
 
-- ve 10 mar 19h00 JE  
+- ve 10 mar 16h30 GF  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies = Deux amies de votre beauté_ d'Alexandre Alexeieff et suivi de de _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [46609]  
@@ -162,7 +163,7 @@ France / 1932 / 25 min / DCP
 Sous un ciel étoilé, un homme pense. La silhouette lumineuse d'une femme nue apparaît : c'est l'Idée.  
 Restauration numérique image et son effectuée par le CNC, La cinémathèque suisse et les laboratoires Hiventy, à partir d'une copie originale nitrate conservée et mis à disposition par le BFI, d'un scan réalisé par la Cinémathèque suisse d'une copie originale nitrate issue de leur collection et complétée par un contretype safety 35mm, appartenant à l'AFCA (Association française du cinéma d'animation) ayant droit du film et conservé par le CNC
 
-- ve 10 mar 19h00 JE  
+- ve 10 mar 16h30 GF  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies = Deux amies de votre beauté_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch
 
 [56580]  
@@ -183,7 +184,7 @@ France-Italie / 2021 / 93 min / DCP
 Un voyage lyrique et visionnaire vers les origines du cinéma muet italien, réalisé à partir de copies nitrates préservées dans les archives de l'Eye Filmmuseum à Amsterdam, la Cineteca Milano, le Museo Nazionale del Cinema, la Cineteca de Bologna, la Cineteca Nazionale, la Cineteca del Friuli, le CNC, l'Istituto Luce et le British Film Institute.  
 Présenté en avant-première de sa sortie en salles le 15 mars par Carlotta Films.
 
-- me 8 mar 12h00 JE
+- sa 11 mar 15h30 JE
 
 [51463]  
 **Le Jour des rois**  
@@ -252,7 +253,7 @@ d'Alexandre Alexeieff
 France / 1936 / 1 min / DCP  
 Publicité de la crème Simon.
 
-- ve 10 mar 19h00 JE  
+- ve 10 mar 16h30 GF  
 Film suivi d'_Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies = Deux amies de votre beauté_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [36243]  
@@ -265,7 +266,7 @@ Avec Susan Hayward, Dana Andrews, Brian Donlevy.
 En 1856, Logan Stuart escorte Lucy Overmire, la fiancée de son ami, à Jacksonville dans l'Oregon. Au fil du voyage, ils s'éprennent l'un de l'autre. Arrivé à destination, le duo s'aperçoit que l'aventure ne fait que commencer.  
 Restauré en 4K par Cassandra Moor de Universal Picture, en collaboration avec The Film Fondation, au laboratoire Universal Studio Post. Consultation de Martin Scorsese et Steven Spielberg pour la restauration.
 
-- ve 10 mar 14h00 GF
+- me 8 mar 16h30 GF
 
 [34796]  
 **Point limite**  
@@ -277,7 +278,7 @@ Avec Dan O'Herlihy, Walter Matthau, Frank Overton.
 En pleine guerre froide, suite une erreur technique, un groupe de bombardiers nord-américains reçoit l'ordre de lancer une attaque nucléaire contre Moscou.  
 Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35mm d'origine. Le transfert a été supervisé par Grover Crisp, et le travail de couleur par Sheri Eisenberg et Roundabout Entertainment. La bande sonore mono a été remasterisée à Deluxe à Hollywood, sous la supervision de Bob Simmons.
 
-- me 8 mar 16h30 GF
+- me 8 mar 14h00 GF
 
 [36021]  
 **Raging Bull**  
@@ -290,6 +291,16 @@ Cette nouvelle restauration 4K, approuvée par Martin Scorsese, a été réalis�
 
 - je 9 mar 14h00 HL
 
+[47378]  
+**Rien que les heures**  
+d'Alberto Cavalcanti  
+France / 1927 / 48 min / INT. FR. / DCP  
+Avec Blanche Bernis, Philippe Hériat, Nina Chowalowa.  
+Une des premières symphonies urbaines, ce documentaire est une promenade à travers Paris, des premières lueurs de l'aube jusqu'à la nuit suivante, de la beauté à la misère.  
+Restauration 4K menée en 2022 par Les Films du Panthéon avec le soutien du CNC et de la Cinémathèque française, en collaboration avec Les Films du Jeudi, le EYE Filmmuseum et le BFI National Archive. Travaux réalisés au laboratoire Hiventy à partir d'une copie teintée conservée au Eye Filmmuseum, d'une copie teintée du BFI conservée au CNC et d'un contretype du BFI.
+
+- je 9 mar 14h30 GF
+
 [57342]  
 **S'en fout la mort**  
 de Claire Denis  
@@ -298,7 +309,18 @@ Avec Isaach de Bankolé, Alex Descas, Jean-Claude Brialy, Solveig Dommartin.
 Dah et Jocelyn, Antillais et Béninois installés illégalement en France, participent à des combats de coqs clandestins organisés par un patron de boîtes de nuit corrompu. Ils entrainent leur coq baptisé « S'en fout la mort ».  
 Une restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Etalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
 
-- sa 11 mar 16h15 GF
+- sa 11 mar 14h00 GF
+
+[50878]  
+**Le Testament du Docteur Cordelier**  
+de Jean Renoir  
+France / 1959 / 100 min / DCP  
+D'après le roman _Docteur Jakyll et Mister Hyde_ de Robert Louis Stevenson.  
+Avec Jean-Louis Barrault, Teddy Bilis.  
+L'avocat du docteur Cordelier est étonné de découvrir que son client lègue ses biens à un criminel sadique, Opale. On découvre bientôt qu'Opale et Cordelier ne font qu'un...  
+Cette restauration 4K a été réalisée en 2022 par STUDIOCANAL au laboratoire Hiventy avec le soutien du CNC. Le négatif original 35mm a été scanné par immersion compte tenu des nombreuses altérations présentes sur la pellicule. Plus de 200 heures de retouche numérique ont été nécessaires pour effacer les rayures, éclats de gélatine et autres traces d'usure. Le son a également été restauré.
+
+- je 9 mar 19h30 JE
 
 [46339]  
 **Une nuit sur le mont chauve**  
@@ -307,7 +329,7 @@ France / 1933 / 8 min / DCP
 Au temps des tsars, magiciennes et enchanteurs se réunissent pendant le solstice d'été sur le mont Chauve, près de Kiev.  
 Restauration numérique image et son effectuée par le CNC à partir d'une copie originale nitrate conservées et mis à disposition par le BFI et complétée par une copie originale nitrate conservée par le CNC
 
-- ve 10 mar 19h00 JE  
+- ve 10 mar 16h30 GF  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff et suivi de de _Deux amies = Deux amies de votre beauté_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [85386]  
@@ -328,7 +350,7 @@ Avec Mahdi Chaouch, Anouk Ferjac, Ivan Henriques.
 Dans l'Espagne franquiste, le jeune Fando découvre que sa mère, fervente catholique, a dénoncé son père aux autorités en l'accusant d'athéisme et d'antifascisme. Déchiré, Fando est pris de visions cruelles, violentes et sensuelles.  
 Restauré en 4K en 2022 par la Cinémathèque de Toulouse en collaboration avec Fernando Arrabal, à partir du négatif 35mm d'origine, et d'un élément interpositif 35mm. Les travaux de restauration du son ont été réalisés par le studio L.E. Diapason. Avec le soutien du Ministère des Affaires Culturelles tunisien et de l'Association Ciné-Sud Patrimoine.
 
-- ve 10 mar 20h30 GF
+- sa 11 mar 21h00 GF
 
 [154311]  
 **Vues au pochoir : villes d'Europe années 1920 en Pathécolor**  

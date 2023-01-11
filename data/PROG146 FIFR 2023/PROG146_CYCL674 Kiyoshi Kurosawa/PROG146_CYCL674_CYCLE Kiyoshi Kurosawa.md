@@ -21,5 +21,14 @@ de Richard Fleischer
 Avec Charles McGraw, Adele Jergens, William Talman.  
 Dave Purvis, dangereux criminel, reste inconnu de la police. Il organise minutieusement le braquage d'un fourgon blindé pendant d'un match de baseball. Mais les choses tournent mal, et l'inspecteur Cordell se lance à la poursuite de sa bande.
 
-- sa 11 mar 14h00 GF
+- sa 11 mar 16h15 GF
+
+[71777]  
+**Spontaneous Combustion**  
+de Tobe Hooper  
+États-Unis / 1989 / 97 min / VOSTF / Numérique  
+Avec Brad Dourif, Cynthia Bain, Jon Cypher.  
+Sam découvre que ses parents ont été l'objet d'expériences atomiques dans le passé. Cela lui donne un pouvoir de pyrokinésie : il peut contrôler le feu et l'électricité. Mais cela a de graves conséquences sur son corps.
+
+- di 12 mar 18h30 JE
 

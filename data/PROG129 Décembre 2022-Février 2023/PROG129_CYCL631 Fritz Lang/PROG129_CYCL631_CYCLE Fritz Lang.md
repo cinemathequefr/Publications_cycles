@@ -2,6 +2,13 @@
 
 ## Les films
 
+[154328]  
+****  
+undefined  
+137 min / VOSTA / Numérique
+
+- sa 4 fév 17h00 GF
+
 [34190]  
 **L'Ange des maudits**  
 **(Rancho Notorious)**  
@@ -13,26 +20,6 @@ Un fermier parti à la recherche du bandit qui a tué et violé sa fiancée croi
 
 - je 19 jan 18h30 HL  
 - ve 10 fév 18h30 HL
-
-[40685]  
-**Les Araignées, partie 1 : Le Lac d'or**  
-**(Die Spinnen, 1. Teil: Der goldene See)**  
-de Fritz Lang  
-Allemagne / 1919 / 88 min / INT. FR. / 35 mm  
-Avec Carl de Vogt, Lil Dagover, Ressel Orla.  
-Kay Hoog, un yachtman de San Francisco, part à la recherche d'un trésor inca situé sous un lac. Il entre alors en compétition avec les Araignées, une redoutable société secrète de bandits dirigée par Lio-Sha.
-
-- sa 4 fév 17h00 GF
-
-[84959]  
-**Les Araignées, partie 2 : Le Cargo de diamants**  
-**(Die Spinnen, 2. Teil: Das Brillantenschiff)**  
-de Fritz Lang  
-Allemagne / 1920 / 129 min / INT. FR. / 35 mm  
-Avec Reiner Steiner, Carl de Vogt, Ressel Orla.  
-Kay Hoog veut se venger de la bande des Araignées, qui a tué sa fiancée Naela, prêtresse du soleil. Il les suit dans leur quête d'un légendaire diamant en forme de tête de Bouddha, réputé donner à son possesseur le pouvoir de dominer l'Asie.
-
-- sa 4 fév 19h30 GF
 
 [34162]  
 **Les Bourreaux meurent aussi**  
@@ -329,8 +316,7 @@ O-Take-Kan, une jeune Japonaise, refuse de devenir geisha du temple, et son pèr
 de Fritz Lang  
 Allemagne / 1927 / 152 min / INT. FR. / DCP  
 Avec Alfred Abel, Gustav Fröhlich, Brigitte Helm, Rudolf Klein-Rogge.  
-En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterrains pour assurent le bonheur des nantis qui vivent dans les jardins suspendus de la ville. Une androïde les mène à la révolte mais, pour contrer son influence, le chef de la cité fait construire un robot à son image.  
-Copie avec musique. Partition originale de 1927 de Gottfried Huppertz.
+En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterrains pour assurent le bonheur des nantis qui vivent dans les jardins suspendus de la ville. Une androïde les mène à la révolte mais, pour contrer son influence, le chef de la cité fait construire un robot à son image.
 
 - sa 7 jan 19h30 HL  
 - me 8 fév 20h00 HL

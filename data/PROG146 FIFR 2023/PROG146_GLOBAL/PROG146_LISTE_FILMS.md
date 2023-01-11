@@ -1,23 +1,31 @@
 # Liste des films par cycle
 
-## André S. Labarthe (6)
+## André S. Labarthe (9)
 
+  * Cinéastes de notre temps : Jean-Pierre Melville : Portrait en neuf poses TV  
   * Cinéastes de notre temps : Le Dinosaure et le bébé  
+  * Cinéma Cinémas : Deneuve, revue de détails  
   * Cinéma Cinémas émission TV : Adieu Rita TV  
   * Cinéma Cinémas émission TV : Claude Chabrol à la table TV  
   * Cinéma Cinémas émission TV : Fuller à la table TV  
   * homme qui a vu l'homme qui a vu l'ours (L')  
-  * Samuel Fuller, Independant Filmmaker
+  * Samuel Fuller, Independant Filmmaker  
+  * Taxi Driver mis en pièce par Martin Scorsese
+
+## Classiques du Maghreb (3)
+
+  * Alger insolite  
+  * De quelques événements sans significations  
+  * Porte sur le ciel (Une)
 
 ## Hamo Bek-Nazaryan (2)
 
   * House on the volcano (The)  
   * Land of Nairi
 
-## Hommage au BFI (3)
+## Hommage au BFI (2)
 
-  * Naked  
-  * Ne pas avaler  
+  * Love  
   * Vie privée d'Henry VIII (La)
 
 ## Joel et Ethan Coen (7)
@@ -30,10 +38,11 @@
   * Tragedy of Macbeth (The)  
   * Vitelloni (Les)
 
-## Kiyoshi Kurosawa (2)
+## Kiyoshi Kurosawa (3)
 
   * Armored Car Robbery  
-  * Gardien de l'enfer (Le)
+  * Gardien de l'enfer (Le)  
+  * Spontaneous Combustion
 
 ## Raretés des collections (7)
 
@@ -45,12 +54,12 @@
   * Montagne infidèle (La)  
   * Thaïs
 
-## Restaurations et incunables (30)
+## Restaurations et incunables (32)
 
-  * À bout de course  
   * Boy Meets Girl  
   * Brumes d'automne  
   * Buck et son complice  
+  * Comédien (Le)  
   * Danse macabre  
   * Deux amies = Deux amies de votre beauté  
   * Diable probablement (Le)  
@@ -72,7 +81,9 @@
   * Passage du canyon (Le)  
   * Point limite  
   * Raging Bull  
+  * Rien que les heures  
   * S'en fout la mort  
+  * Testament du Docteur Cordelier (Le)  
   * Une nuit sur le mont chauve  
   * Up in Mabel's Room  
   * Viva la muerte  

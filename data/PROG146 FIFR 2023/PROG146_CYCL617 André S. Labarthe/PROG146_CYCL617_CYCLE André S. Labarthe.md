@@ -2,6 +2,28 @@
 
 ## Les films
 
+[154274]  
+**Cinéma Cinémas : Deneuve, revue de détails**  
+d'André S. Labarthe  
+France / 1984 / 7 min  
+Catherine Deneuve commente des passages de _L'Ève future_ de Villiers de l'Isle Adam  
+Numérisé et restauré par l'INA en 2K à partir des éléments originaux inversibles 16mm couleur et d'un son magnétique séparé.  
+suivi de  
+[154273]  
+**Taxi Driver mis en pièce par Martin Scorsese**  
+d'André S. Labarthe  
+France / 1995 / 30 min  
+Martin Scorsese, à la table de montage, commente des extraits de _Taxi Driver_.  
+suivi de  
+[128838]  
+**Cinéastes de notre temps : Jean-Pierre Melville : Portrait en neuf poses TV**  
+d'André S. Labarthe  
+France / 1970 / 52 min / DCP  
+Portrait en neuf chapitres, qui sont autant de facettes du cinéaste. Les entretiens sont illustrés d'extraits de ses films les plus célèbres.  
+Numérisé et restauré par l'INA en 2K à partir des éléments originaux inversibles 16mm couleur et d'un son magnétique séparé.
+
+- di 12 mar 14h30 JE
+
 [122238]  
 **Cinéma Cinémas émission TV : Adieu Rita TV**  
 d'André S. Labarthe  

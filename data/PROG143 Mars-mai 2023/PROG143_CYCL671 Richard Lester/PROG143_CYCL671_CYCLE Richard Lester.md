@@ -99,7 +99,7 @@ Film précédé de _The Running, Jumping and Standing Still Film_ de Richard Les
 **Le Froussard héroïque**  
 **(Royal Flash)**  
 de Richard Lester  
-Grande-Bretagne / 1975 / 102 min / VOSTF  
+Grande-Bretagne / 1975 / 102 min / VOSTF / 35 mm  
 D'après le roman _Royal Flash_ de George MacDonald Fraser.  
 Avec Malcolm McDowell, Alan Bates, Florinda Bolkan, Oliver Reed.  
 Au XIX<sup>e</sup> siècle, les aventures diplomatiques et sentimentales d'un jeune officier, poltron et débauché, à la cour du roi de Prusse.

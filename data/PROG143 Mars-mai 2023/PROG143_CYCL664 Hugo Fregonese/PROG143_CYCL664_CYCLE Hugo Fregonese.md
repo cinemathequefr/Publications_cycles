@@ -43,7 +43,7 @@ Musicien et machiniste, puis veilleur de nuit dans un théâtre de marionnettes,
 [117826]  
 **Dracula contre Frankenstein**  
 **(Los Monstruos del terror)**  
-de Tulio Demicheli  
+de Tulio Demicheli, Hugo Fregonese  
 Espagne-RFA-Italie / 1970 / 85 min / VOSTF / Numérique  
 Avec Paul Naschy, Michael Rennie, Karin Dor.  
 Des aliens dirigeant un cirque ambulant font revivre Dracula, le Loup-garou, le monstre de Frankenstein et la Momie afin de conquérir le monde.
