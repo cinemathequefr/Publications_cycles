@@ -69,13 +69,13 @@ C'est l'été en banlieue parisienne. Il fait chaud, la ville est déserte. Parf
 - lu 20 mar 19h30 JE  
 Séance suivie d'une discussion avec Martin Jauvat
 
-## Gregório Graziosi
+## Gregorio Graziosi
 
-« Portrait d'une femme forte essayant de surmonter son traumatisme, thriller onirique » : voilà comment le réalisateur brésilien Gregório Graziosi définit son deuxième long métrage, qui était présenté récemment aux festivals de Karlovy Vary et Biarritz avant sa sortie en salles. Avant-première en association avec le distributeur Wayna Pitch.
+« Portrait d'une femme forte essayant de surmonter son traumatisme, thriller onirique » : voilà comment le réalisateur brésilien Gregorio Graziosi définit son deuxième long métrage, qui était présenté récemment aux festivals de Karlovy Vary et Biarritz avant sa sortie en salles. Avant-première en association avec le distributeur Wayna Pitch.
 
 [154320]  
 **Tinnitus**  
-de Gregorio Graziosi, Elizabeth Avellán  
+de Gregorio Graziosi  
 Brésil / 2022 / 105 min / VOSTF / DCP  
 Avec Joana de Verona, André Guerreiro Lopes, Indira Nascimento, Antonio Pitanga.  
 Marina, 30 ans, est une ancienne plongeuse professionnelle qui souffre d'acouphènes affectant son équilibre physique et mental. Éloignée des bassins depuis un terrible accident, elle décide de reprendre la compétition dans l'espoir de remporter une médaille olympique.
