@@ -92,7 +92,7 @@ France / 2023 / 11 min / 35 mm
 « Rejoins-moi, mon ami. Puisque tu es mon meilleur ami. On m'a parlé de ce lieu. Un lieu lointain. Selon certains c'est le paradis. Faisons l'amour. Toi et moi. Amène le corps, j'amène le beat. » (Wladimir M.)
 
 - je 11 mai 20h00 HL  
-Ouverture de la rétrospective. Séance présentée par Léolo Victor-Pujebet, Jean-Sébastien Chauvin, Véronique Bourlon, Marylène Negro, Yann Gonzalez, Alain Garcia Vergara et Othello Vilgard
+Ouverture de la rétrospective. Séance présentée par Léolo Victor-Pujebet, Jean-Sébastien Chauvin, Véronique Bourlon, Marylène Negro, Yann Gonzalez, Alain Garcia Vergara, Othello Vilgard et Jean-Pierre Bouyxou
 
 ### Programme 01 : Le cinéma, art pur, franc et honnête
 
@@ -304,7 +304,8 @@ France / 1967 / 12 min / 16 mm
 Avec Pierre Molinier, Jean-Pierre Bouyxou.  
 Hommage au grand Pierre Molinier, le film allie sexualité fétichiste et mort, sperme et sang, chair et cadavre, dans un style halluciné d'une très inquiétante étrangeté.
 
-- sa 13 mai 20h00 JE
+- sa 13 mai 20h00 JE  
+Séance présentée par Jean-Pierre Bouyxou
 
 ### Programme 06 : D'où monte le plaisir
 
@@ -371,7 +372,7 @@ Avec Marie Antoinette, Daniel D. Halleck, Hugh Hefner, Monique Kraamwinkel, Sach
 **Particulièrement valable**  
 **(Besonders wertvoll)**  
 de Hellmuth Costard  
-RFA / 1968 / 13 min / VO / DCP  
+RFA / 1968 / 13 min / VOSTF / DCP  
 « La pornographie se met au service de la politique dans cette attaque scandaleuse, provocante, dirigée contre la législation allemande, réactionnaire et discriminatoire à l'égard des jeunes réalisateurs. » (Amos Vogel)  
 suivi de  
 [154130]  
@@ -559,7 +560,7 @@ suivi de
 [154009]  
 **I Don't Know**  
 de Penelope Spheeris  
-États-Unis / 1971 / 20 min / VO / 16 mm  
+États-Unis / 1971 / 20 min / VOSTF / 16 mm  
 « _I Don't Know_ observe la relation entre une lesbienne et un homme transgenre qui préfère être identifié quelque part entre homme et femme, en une expression d'ambiguïté personnelle suggérée par le titre du film. » (Light Cone)  
 suivi de  
 [154149]  
@@ -571,13 +572,13 @@ suivi de
 [154152]  
 **The Voluptuous Martyrdoms of the Magnificent Masturbators**  
 de Robert Short  
-Grande-Bretagne / 1971 / 16 min / VO / Vidéo  
+Grande-Bretagne / 1971 / 16 min / VO / Numérique  
 Le film « suit la trace de Georges Bataille, exposant les interstices de l'amour sacré et profane, du sexe et de la mort. » (Tony Rayns)  
 suivi de  
 [154153]  
 **Blue Streak**  
 de Mark Rappaport  
-États-Unis / 1971 / 16 min  
+États-Unis / 1971 / 16 min / Numérique  
 Premier film de Mark Rappaport, _Blue Streak_ est un manifeste formel et politique alliant nudité et cartons évoquant les thématiques et les problématiques sexuelles.
 
 - sa 20 mai 20h30 GF
@@ -587,7 +588,7 @@ Premier film de Mark Rappaport, _Blue Streak_ est un manifeste formel et politiq
 [154155]  
 **Motoshinkakarannu**  
 de Tetsurō Nunokawa, NDU  
-Japon / 1971 / 86 min / VOSTF / Vidéo  
+Japon / 1971 / 86 min / VOSTA / Numérique  
 Avec peuple d'Okinawa, prostituées, yakuzas, touristes, GIs, Black Panthers. « Qu'est-ce qu'un documentaire ? Il ne s'agit pas de gens qui rencontrent d'autres gens sur les lieux de la création d'un « travail », mais que le « travail » naisse des rencontres entre les gens. » (Rō Takenaka, 1972)
 
 - di 21 mai 18h15 GF
@@ -597,7 +598,7 @@ Avec peuple d'Okinawa, prostituées, yakuzas, touristes, GIs, Black Panthers. «
 [154017]  
 **Take Off (With Magda)**  
 de Gunvor Nelson  
-États-Unis / 1972 / 10 min  
+États-Unis / 1972 / 10 min / Numérique  
 Film satirique adoptant la forme d'un striptease pour dénoncer l'instrumentalisation du corps féminin.  
 suivi de  
 [154156]  
@@ -627,20 +628,20 @@ Une jeune femme est enlevée par deux hommes. Elle est conduite dans un mystéri
 [154019]  
 **Bijou**  
 de Wakefield Poole  
-États-Unis / 1972 / 75 min  
+États-Unis / 1972 / 75 min / VOSTF / Numérique  
 Avec Ronnie Shark, Cassandra Hart, Lydia Black, Wakefield Poole.  
 « Le protagoniste se love dans un paysage languissant d'amour. Comme tout bon rêve, il offre des touches d'obscurité : un sosie de Steve Reeves erre avec un fouet qui, comme le pistolet de Tchekhov, ne se déclenche jamais. » (H. Drain)  
 suivi de  
 [154176]  
 **Hot Nasty**  
 de Tom Palazzolo  
-États-Unis / 1972 / 14 min / VO / 16 mm  
+États-Unis / 1972 / 14 min / VOSTF / Numérique  
 Tom Palazzolo, encore méconnu en France, est une grande figure documentaire/avant-gardiste de la sexualité des années 1970. _Hot Nasty_ observe les rapports entre le sexe et le travail.  
 suivi de  
 [154177]  
 **Love It / Leave It**  
 de Tom Palazzolo  
-États-Unis / 1973 / 14 min / Numérique  
+États-Unis / 1973 / 14 min / STF / Numérique  
 _Love It / Leave It_ explore une série d'_americana_ en dégageant leur charge érotique.
 
 - me 24 mai 21h00 GF
@@ -717,7 +718,8 @@ France / 1974 / 88 min
 Avec Miki Sugimoto, Reiko Ike, Seiko Saburi, Misuzu Ōta.  
 « Il s'agit du second détournement (intégral) par René Viénet d'un film asiatique. Comme celui-ci souhaite inscrire un cliquet de plus dans le détournement, avec quelques complices, il tourne quelques inserts hard. » (René Viénet)
 
-- sa 27 mai 18h15 GF
+- sa 27 mai 18h15 GF  
+Séance présentée par René Vienet
 
 ### Programme 20 : En 1974, Chantal Akerman a 24 ans
 

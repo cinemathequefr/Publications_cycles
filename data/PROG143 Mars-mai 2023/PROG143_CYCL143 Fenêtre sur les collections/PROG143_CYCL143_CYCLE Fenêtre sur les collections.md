@@ -21,14 +21,6 @@ Suspectées d'avoir aidé le chef du gang des Blacklegs à s'évader de prison, 
 
 - ve 17 mar 19h00 JE
 
-## Hommage à la galerie Miyu et à l'animation contemporaine
-
-Dans le cadre d'une important don autour du cinéma d'animation organisé par l'intermédiaire de la galerie Miyu, première galerie d'art au monde dédiée à l'animation contemporaine, dix grands cinéastes d'animation français et internationaux ont offert à la Cinémathèque française des films et documents graphiques issus de leurs différents processus créatifs. Cette soirée propose un long et des courts métrages de cinéastes différents : une manière également de montrer toute la diversité et la richesse de création du cinéma d'animation indépendant d'aujourd'hui à travers les films de Céline Devaux, Dahee Jeong, Vergine Keaton, Boris Labbé, Florence Miailhe, Georges Schwizgebel, Momoko Seto, Gianluigi Toccafondo, Theodore Ushev et Koji Yamamura. Merci au Fresnoy, aux Films de l'Arlequin, à Insolence Productions et à Sacrebleu Productions, tous ces défricheurs de talents sans qui ce don et cette programmation n'auraient pu se faire. Le fonds de Sacrebleu Productions est conservé en grande partie par la Cinémathèque de Grenoble. Cette projection accompagne une exposition à la Galerie Miyu (101, rue du Temple, 75003 Paris), qui présentera du vendredi 21 avril au samedi 6 mai 2023 une sélection de documents graphiques.
-
-****
-
-- ve 21 avr 18h30 JE
-
 ## Les as de la manivelle
 
 Soirée présentée par Priska Morrissey et Iris Deniozou (Cinémathèque française), en partenariat avec l'Association française de recherche sur l'histoire du cinéma (AFRHC) et le CNC à l'occasion de la parution de l'ouvrage _Les As de la manivelle : Le Métier d'opérateur de prise de vues cinématographiques en France (1895-1930)_. Dans le prolongement de la conférence du Conservatoire des techniques cinématographiques du même jour, ce programme comprend quelques grandes raretés, fictions et documentaires autour du métier de l'opérateur.

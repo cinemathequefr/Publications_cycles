@@ -33,10 +33,10 @@ suivi de
 [64805]  
 **La Vie ne me fait pas peur**  
 de Noémie Lvovsky  
-France-Suisse / 1998 / 111 min / 35 mm  
+France-Suisse / 1999 / 111 min / 35 mm  
 Avec Magali Woch, Ingrid Molinier, Julie-Marie Parmentier, Valéria Bruni Tedeschi, Camille Rousselet.  
-C'est l'histoire de quatre filles. Comment elles se lient d'amitié et ne se quittent plus. Comment elles vivent en bande les années de leur adolescence. Comment cette rencontre change leur vie et leurs personne.  
-Version longue du téléfilm _Petites_ faisant partie de la collection _Les Années Lycée_.
+C'est l'histoire de quatre filles. Comment elles se lient d'amitié et ne se quittent plus. Comment elles vivent en bande les années de leur adolescence. Comment cette rencontre change leur vie et leur personne.  
+Version longue du téléfilm _Petites_ (collection « Les Années lycée »).
 
 - lu 13 mar 19h30 GF  
 Séance suivie d'une discussion avec Xavier Lacaille et Noémie Lvovsky
@@ -69,9 +69,9 @@ C'est l'été en banlieue parisienne. Il fait chaud, la ville est déserte. Parf
 - lu 20 mar 19h30 JE  
 Séance suivie d'une discussion avec Martin Jauvat
 
-## Gregorio Graziosi
+## Gregório Graziosi
 
-« Portrait d'une femme forte essayant de surmonter son traumatisme, thriller onirique » : voilà comment le réalisateur brésilien Gregorio Graziosi définit son deuxième long métrage, qui était présenté récemment aux festivals de Karlovy Vary et Biarritz avant sa sortie en salles. Avant-première en association avec le distributeur Wayna Pitch.
+« Portrait d'une femme forte essayant de surmonter son traumatisme, thriller onirique » : voilà comment le réalisateur brésilien Gregório Graziosi définit son deuxième long métrage, qui était présenté récemment aux festivals de Karlovy Vary et Biarritz avant sa sortie en salles. Avant-première en association avec le distributeur Wayna Pitch.
 
 [154320]  
 **Tinnitus**  
@@ -101,12 +101,21 @@ Séance suivie d'une discussion avec Thomas Bardinet
 
 [154326]  
 **Marinaleda**  
-de Louis Seguin  
+de Louis Séguin  
 France / 2022 / 50 min / DCP  
 Avec François Rivière, Luc Chessel, Pauline Belle.  
-Deux vampires font du stop sur les routes de France pour se rendre à Marinaleda, en Andalousie. Ils rencontrent Lise, qui leur propose de les héberger pour la nuit. La jeune femme découvre leur condition, et ils passent la soirée à discuter, autour d'une bonne bouteille de vin.
+Deux vampires font du stop sur les routes de France pour se rendre à Marinaleda, en Andalousie. Ils rencontrent Lise, qui leur propose de les héberger pour la nuit. La jeune femme découvre leur condition, et ils passent la soirée à discuter autour d'une bonne bouteille de vin.  
+suivi de  
+[36898]  
+**L'Étrange incident**  
+**(The Ox-Bow Incident)**  
+de William A. Wellman  
+États-Unis / 1943 / 75 min / VOSTF / 35 mm  
+Avec Henry Fonda, Dana Andrews, Mary Beth Hughes, Anthony Quinn.  
+En 1885, dans une petite ville du Nevada, l'éleveur Kinkaid a été assassiné par des voleurs de bétail. En l'absence du shérif, et malgré l'opposition du juge, le major Tetley rassemble une milice.
 
-- lu 17 avr 19h00 JE
+- lu 17 avr 19h00 JE  
+Séance suivie d'une discussion avec Louis Seguin
 
 ## Wissam Charaf
 
@@ -117,7 +126,7 @@ Deux vampires font du stop sur les routes de France pour se rendre à Marinaleda
 de Wissam Charaf  
 Liban / 2020 / 21 min / VOSTF / DCP  
 Avec Rodrigue Sleiman, Said Serhan.  
-Beyrouth, 2020, après la crise économique et l'explosion. Depuis la chute de la monnaie libanaise, Malek, ancien conseiller en développement personnel, n'arrive plus à bander... Il veut se suicider, mais la mort lui fait peur. Un de ses anciens clients lui propose de l'aider à mourir.  
+Beyrouth, 2020, après la crise économique et l'explosion. Depuis la chute de la monnaie libanaise, Malek, ancien conseiller en développement personnel, n'arrive plus à bander. Il veut se suicider, mais la mort lui fait peur. Un de ses anciens clients lui propose de l'aider à mourir.  
 suivi de  
 [140099]  
 **Souvenir inoubliable d'un ami**  
@@ -131,7 +140,7 @@ suivi de
 de Wissam Charaf  
 France / 2007 / 27 min / VOSTF / 35 mm  
 Avec Wissam Fares, Hussein Moukkaden, Raed Yassin.  
-Au sud du Liban, on trouve parfois de curieux objets dans le sol. Au point de perdre son travail et de se perdre soi même.  
+Dans le Sud du Liban, on trouve parfois de curieux objets dans le sol. Au point de perdre son travail et de se perdre soi-même.  
 suivi de  
 [95585]  
 **Hizz ya wizz**  
@@ -144,10 +153,12 @@ Ali vit et travaille à Beyrouth, comme assistant d'un photographe sportif. Amou
 
 ## Vincent Le Port
 
+Vincent Le Port signe un premier long métrage passionnant, un geste de cinéma juste et implacable d'une beauté sidérante.
+
 [150102]  
 **Bruno Reidal**  
 de Vincent Le Port  
-France / 2019 / 101 min / DCP  
+France / 2021 / 101 min / DCP  
 Avec Dimitri Doré, Jean-Luc Vincent.  
 Cantal, septembre 1905. Un séminariste de 17 ans est arrêté pour le meurtre d'un enfant de 12 ans. Pour comprendre son geste, des médecins lui demandent de relater sa vie depuis son enfance jusqu'au jour du crime.  
 D'après l'histoire vraie de Bruno Reidal, jeune paysan du Cantal qui, toute sa vie, lutta contre ses pulsions meurtrières.

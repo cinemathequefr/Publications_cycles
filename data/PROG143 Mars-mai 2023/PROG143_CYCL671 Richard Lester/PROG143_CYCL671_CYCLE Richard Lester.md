@@ -6,7 +6,7 @@
 **Cash-cash**  
 **(Finders Keepers)**  
 de Richard Lester  
-États-Unis / 1984 / 96 min / VO / 35 mm  
+États-Unis / 1984 / 96 min / VOSTF / 35 mm  
 Avec Michael O'Keefe, Beverly D'Angelo, Louis Gossett Jr..  
 Plusieurs personnages pittoresques et loufoques se lancent à la poursuite d'un magot de 5 millions de dollars.
 
@@ -27,7 +27,7 @@ Voir aussi conférence p. xx
 [57348]  
 **Cuba**  
 de Richard Lester  
-États-Unis / 1979 / 122 min / VO / 35 mm  
+États-Unis / 1979 / 122 min / VOSTF / 35 mm  
 Avec Sean Connery, Brooke Adams, Jack Weston.  
 Pendant la révolution cubaine, en 1958, un mercenaire anglais combat la guérilla et retrouve une ancienne maîtresse dont il est toujours amoureux.
 
@@ -37,7 +37,7 @@ Pendant la révolution cubaine, en 1958, un mercenaire anglais combat la guéril
 **Le Forum en folie**  
 **(A Funny Thing Happened on the Way to the Forum)**  
 de Richard Lester  
-États-Unis / 1966 / VO / 35 mm  
+États-Unis / 1966 / VOSTF / 35 mm  
 D'après le musical _A Funny Thing Happened on the Way to the Forum_ de Stephen Sondheim, Larry Gelbart et Burt Shevelove.  
 Avec Zero Mostel, Phil Silvers, Jack Gilford, Buster Keaton.  
 Dans la Rome antique, Hero est amoureux d'une jeune fille, Philia, qui a été vendue comme esclave par Lycus, le marchand d'esclaves.
@@ -92,6 +92,8 @@ D'après la pièce _The Knack: A Comedy in Three Acts_ d'Ann Jellicoe.
 Avec Rita Tushingham, Ray Brooks, Michael Crawford.  
 Un homme souhaite apprendre comment conquérir les femmes.
 
+- je 16 mar 20h15 GF  
+Film précédé de _The Running, Jumping and Standing Still Film_ de Richard Lester  
 - di 26 mar 19h45 GF  
 Film précédé de _The Running, Jumping and Standing Still Film_ de Richard Lester
 
@@ -163,7 +165,7 @@ Pourchassé par un tueur de la pègre, un homme demande à un chauffeur de taxi 
 **La Rose et la flèche**  
 **(Robin and Marian)**  
 de Richard Lester  
-États-Unis / 1976 / 107 min / VOSTF / 35 mm  
+États-Unis / 1976 / 107 min / VOSTF / DCP  
 Avec Sean Connery, Audrey Hepburn, Robert Shaw.  
 De retour d'exil, Robin des Bois, vieilli, meurtri par les Croisades, retrouve la forêt de Sherwood et Marianne, son amour de jeunesse.
 
@@ -176,6 +178,8 @@ de Richard Lester
 Grande-Bretagne / 1959 / 11 min / 35 mm  
 Suite de saynètes absurdes montrant les occupations des Anglais au cours de leurs dimanches.
 
+- je 16 mar 20h15 GF  
+Film suivi de _Le Knack... et comment l'avoir_ de Richard Lester  
 - di 26 mar 19h45 GF  
 Film suivi de _Le Knack... et comment l'avoir_ de Richard Lester
 
@@ -187,7 +191,6 @@ Grande-Bretagne / 1963 / 85 min / VOSTF / 16 mm
 Avec Margaret Rutheford, Ron Moody, Bernard Cribbins.  
 Le Duché du Grand Fenwick réussit le premier à envoyer une fusée sur la Lune.
 
-- je 16 mar 20h30 GF  
 - je 23 mar 16h30 GF
 
 [34219]  

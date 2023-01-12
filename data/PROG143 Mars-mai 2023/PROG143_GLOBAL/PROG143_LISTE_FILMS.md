@@ -4,17 +4,18 @@
 
   * Ennio
 
-## Aujourd'hui le cinéma (15)
+## Aujourd'hui le cinéma (16)
 
   * Armée des fourmis (L')  
   * Bruno Reidal  
   * Cri de Tarzan (Le)  
+  * Des portes et des murs  
+  * Étrange incident (L')  
   * Hizz ya wizz  
   * Marinaleda  
   * Mozeb  
   * Ossos  
   * Pas de panique  
-  * portes et des murs (Des)  
   * Sang de la veine (Le)  
   * Souvenir inoubliable d'un ami  
   * Tinnitus  

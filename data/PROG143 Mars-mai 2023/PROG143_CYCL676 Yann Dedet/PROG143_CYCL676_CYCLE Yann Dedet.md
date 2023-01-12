@@ -66,7 +66,7 @@ En Zambie, la petite Shula est accusée de sorcellerie par les habitants de son 
 [48713]  
 **J'entends plus la guitare**  
 de Philippe Garrel  
-France / 1990 / 98 min / 35 mm  
+France / 1990 / 98 min / DCP  
 Avec Benoît Régent, Johanna Ter Steege, Yann Collette, Mireille Perrier.  
 Les séparations et les retrouvailles successives d'un couple passionnel.
 
