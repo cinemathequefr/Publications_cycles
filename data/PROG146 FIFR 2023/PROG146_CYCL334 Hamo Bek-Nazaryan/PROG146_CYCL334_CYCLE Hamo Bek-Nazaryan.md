@@ -10,7 +10,7 @@ Avec Hrachia Nersisyan, Tigran Ayvazyan, Tatyana Makhmuryan.
 À Baku, un vieux technicien se rappelle la lutte des ouvriers arméniens et azéris contre les magnats tsaristes du pétrole. Mêlant le drame historique, l'action et le thriller, Beknazaryan crée un récit palpitant inspiré d'Eisenstein et Pudovkin.  
 Restauration commandée par le National Cinema Center of Armenia avec l'aide du Ministère de l'Education, de la Science, de la Culture et du Sport de la République d'Arménie. Nouvelle restauration 4K à partir de l'interpositif 35mm par One Man Studio, Yerevan, 2022. ©NCCA 2022
 
-- je 9 mar 21h00 GF
+- ve 10 mar 21h00 GF
 
 [154257]  
 **Land of Nairi**  

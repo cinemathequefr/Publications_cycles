@@ -20,5 +20,5 @@ Grande-Bretagne / 1933 / 96 min / VOSTF / DCP
 Avec Charles Laughton, Robert Donat, Franklin Dyall.  
 Henry VIII eut six femmes : la convenable Catherine d'Aragon, l'infortunée Anne Boleyn, la naïve Jeanne Seymour, la maline Anne de Clèves, l'ambitieuse Catherine Howard, la sérieuse Catherine Parr. Il leur a réservé à chacune un destin particulier.
 
-- je 9 mar 16h45 JE
+- je 9 mar 17h30 JE
 

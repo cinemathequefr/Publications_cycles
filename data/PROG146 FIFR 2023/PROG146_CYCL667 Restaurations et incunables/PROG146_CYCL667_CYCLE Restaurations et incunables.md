@@ -2,6 +2,16 @@
 
 ## Les films
 
+[34786]  
+**À bout de course**  
+**(Running on Empty)**  
+de Sidney Lumet  
+États-Unis / 1988 / 115 min / VOSTF / 35 mm  
+Avec River Phoenix, Judd Hirsch, Christine Lahti, Martha Plimpton.  
+Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie.
+
+- ve 10 mar 14h00 JE
+
 [53030]  
 **Boy Meets Girl**  
 de Leos Carax  
@@ -59,7 +69,7 @@ Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.
 Alan Foster, jeune journaliste, relève le pari de passer la nuit dans un château que l'on dit hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
 Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8ème, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
 
-- ve 10 mar 21h00 GF
+- je 9 mar 21h00 GF
 
 [133965]  
 **Deux amies = Deux amies de votre beauté**  
@@ -175,7 +185,7 @@ D'après le roman _K._ de Mary Roberts Rinehart.
 Avec Lon Chaney, Joan Crawford, Norman Kerry.  
 Un criminel se réfugie dans un cirque et devient un étonnant lanceur de couteaux. Il tombe rapidement sous le charme de la fille du directeur, que convoite également Malabar, l'homme fort du cirque. Par amour pour elle, il prend une décision extrême.
 
-- di 12 mar 21h00 HL
+- di 12 mar 20h30 HL
 
 [154259]  
 **Italia, le feu, la cendre**  
@@ -194,7 +204,7 @@ Avec Danielle Darrieux, Micheline Presle, Paulette Dubost.
 Trois vieilles sœurs se réunissent tous les dimanches. Pour l'épiphanie, le programme est chargé : cimetière, restaurant chinois, galette des rois, puis aller voir une troupe comique du troisième âge dans laquelle joue la quatrième sœur marginale.  
 Scanné et restauré en 4K en 2022 par les Films du Losange, avec le soutien du CNC. Le scan et la restauration image ont été faits par Lobster Films. La restauration du son a été réalisée par Léon Rousseau- L.E. Diapason
 
-- sa 11 mar 20h30 JE
+- je 9 mar 20h00 JE
 
 [39284]  
 **Manolesco prince des poètes**  
@@ -320,7 +330,7 @@ Avec Jean-Louis Barrault, Teddy Bilis.
 L'avocat du docteur Cordelier est étonné de découvrir que son client lègue ses biens à un criminel sadique, Opale. On découvre bientôt qu'Opale et Cordelier ne font qu'un...  
 Cette restauration 4K a été réalisée en 2022 par STUDIOCANAL au laboratoire Hiventy avec le soutien du CNC. Le négatif original 35mm a été scanné par immersion compte tenu des nombreuses altérations présentes sur la pellicule. Plus de 200 heures de retouche numérique ont été nécessaires pour effacer les rayures, éclats de gélatine et autres traces d'usure. Le son a également été restauré.
 
-- je 9 mar 19h30 JE
+- sa 11 mar 20h30 JE
 
 [46339]  
 **Une nuit sur le mont chauve**  
@@ -350,7 +360,7 @@ Avec Mahdi Chaouch, Anouk Ferjac, Ivan Henriques.
 Dans l'Espagne franquiste, le jeune Fando découvre que sa mère, fervente catholique, a dénoncé son père aux autorités en l'accusant d'athéisme et d'antifascisme. Déchiré, Fando est pris de visions cruelles, violentes et sensuelles.  
 Restauré en 4K en 2022 par la Cinémathèque de Toulouse en collaboration avec Fernando Arrabal, à partir du négatif 35mm d'origine, et d'un élément interpositif 35mm. Les travaux de restauration du son ont été réalisés par le studio L.E. Diapason. Avec le soutien du Ministère des Affaires Culturelles tunisien et de l'Association Ciné-Sud Patrimoine.
 
-- sa 11 mar 21h00 GF
+- sa 11 mar 20h45 GF
 
 [154311]  
 **Vues au pochoir : villes d'Europe années 1920 en Pathécolor**  
