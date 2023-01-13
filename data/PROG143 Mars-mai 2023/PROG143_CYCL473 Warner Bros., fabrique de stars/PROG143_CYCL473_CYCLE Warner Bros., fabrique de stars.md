@@ -134,7 +134,7 @@ Quatre actrices débutantes de Broadway voient leur show annulé en raison des d
 **Échec à la Gestapo**  
 **(All Through the Night)**  
 de Vincent Sherman  
-États-Unis / 1942 / 107 min / VO / 16 mm  
+États-Unis / 1942 / 107 min / VOSTF / 16 mm  
 Avec Humphrey Bogart, Conrad Veidt, Karen Verne.  
 Pendant la Seconde Guerre mondiale, Gloves Donahue, un joueur professionnel, lève le voile sur un réseau d'activistes nazis établi en plein cœur de New York.
 
@@ -288,7 +288,7 @@ Alors que son mari part inspecter sa plantation de caoutchouc, Leslie Crosbie tu
 **La Mort n'était pas au rendez-vous**  
 **(Conflict)**  
 de Curtis Bernhardt  
-États-Unis / 1945 / 85 min / VOSTF / 35 mm  
+États-Unis / 1945 / 85 min / VOSTF  
 Avec Humphrey Bogart, Alexis Smith, Sydney Greenstreet.  
 Un homme tombe amoureux de sa belle-sœur et échafaude une machination pour se débarrasser de son épouse.
 

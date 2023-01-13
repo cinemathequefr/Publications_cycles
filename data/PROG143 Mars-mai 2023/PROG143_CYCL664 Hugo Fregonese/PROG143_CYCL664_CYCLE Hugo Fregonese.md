@@ -59,7 +59,7 @@ Avec Jack Palance, Constance Smith, Byron Palmer.
 Alors que Jack l'éventreur multiplie les meurtres dans les rues de Londres, un médecin étrange loue une chambre au grenier chez une danseuse et sa fille.
 
 - sa 1 avr 20h00 HL  
-- je 6 avr 16h30 GF
+- je 6 avr 17h00 GF
 
 [32841]  
 **Harry Black et le tigre**  
@@ -184,7 +184,7 @@ Avec Anna Gaylor, Stephen Boyd, James Robertson Justice, Tony Wright.
 À Marseille, durant la Seconde Guerre mondiale, deux soldats britanniques trouvent refuge dans le quartier du Vieux-Port cerné par l'armée allemande. Ils s'allient à la résistance locale.
 
 - me 5 avr 18h30 GF  
-- ve 14 avr 16h00 GF
+- ve 14 avr 15h30 HL
 
 [45552]  
 **Le Signe des rénégats**  

@@ -2,20 +2,20 @@
 
 ## André S. Labarthe (9)
 
-  * Cinéastes de notre temps : Jean-Pierre Melville : Portrait en neuf poses TV  
-  * Cinéastes de notre temps : Le Dinosaure et le bébé  
-  * Cinéma Cinémas : Deneuve, revue de détails  
-  * Cinéma Cinémas émission TV : Adieu Rita TV  
-  * Cinéma Cinémas émission TV : Claude Chabrol à la table TV  
-  * Cinéma Cinémas émission TV : Fuller à la table TV  
-  * homme qui a vu l'homme qui a vu l'ours (L')  
-  * Samuel Fuller, Independant Filmmaker  
+  * Cinéastes, de notre temps : Jean-Pierre Melville : Portrait en neuf poses TV  
+  * Cinéastes, de notre temps : Le Dinosaure et le Bébé  
+  * Cinéastes, de notre temps : Samuel Fuller, Independant Filmmaker  
+  * Cinéma, Cinémas : Adieu Rita  
+  * Cinéma, Cinémas : Claude Chabrol à la table  
+  * Cinéma, Cinémas : Deneuve, revue de détails  
+  * Cinéma, Cinémas : Fuller à la table  
+  * Homme qui a vu l'homme qui a vu l'ours (L')  
   * Taxi Driver mis en pièce par Martin Scorsese
 
 ## Hamo Bek-Nazaryan (2)
 
-  * House on the volcano (The)  
-  * Land of Nairi
+  * Land of Nairi  
+  * Maison sur le volcan (La)
 
 ## Hommage au BFI (2)
 
@@ -81,7 +81,7 @@
   * Rien que les heures  
   * S'en fout la mort  
   * Testament du Docteur Cordelier (Le)  
-  * Une nuit sur le mont chauve  
+  * Une nuit sur le mont Chauve  
   * Up in Mabel's Room  
   * Viva la muerte  
   * Vues au pochoir : villes d'Europe années 1920 en Pathécolor

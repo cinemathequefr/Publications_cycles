@@ -6,7 +6,7 @@
 **Artères de France**  
 de Jean Epstein, René Lucot  
 France / 1939 / 21 min / DCP  
-Documentaire sur les voies de communication pour la section française de l'Exposition internationale de New-York.  
+Documentaire sur les voies de communication pour la section française de l'Exposition internationale de New York.  
 Numérisation 4K et étalonnage par la Cinémathèque française. Travaux réalisé au laboratoire du CNC à partir d'une copie 35 mm unique.
 
 - sa 11 mar 12h00 HO  
@@ -16,7 +16,9 @@ Film précédé de _La Montagne infidèle_ de Jean Epstein
 **Comment s'en sortir sans sortir**  
 de Raoul Sangla  
 France / 1988 / 56 min / DCP  
-Ghérasim Luca, auteur d'origine roumaine, a marqué le champ de la poésie sonore en langue française. Raoul Sangla filme Luca et ses textes, dans un récital télévisuel qui tient de la performance.
+Avec Ghérasim Luca.  
+Ghérasim Luca, auteur d'origine roumaine, a marqué le champ de la poésie sonore en langue française. Raoul Sangla filme le poète et ses textes, dans un récital télévisuel qui tient de la performance.  
+Numérisation en 2K au laboratoire du CNC par la Cinémathèque française.
 
 - ve 10 mar 16h30 JE  
 Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage, _Crossroads_ de Bruce Conner
@@ -37,7 +39,7 @@ de Luigi Maggi
 Italie / 1911 / 10 min / DCP  
 Avec Luigi Maggi, Giulietta De Riso.  
 Deux fermiers aiment la même femme, qui choisi l'un d'eux. Le prétendant rejeté se venge et provoque l'accident mortel de son rival.  
-Restauré 4K menée en 2023 par la Cinémathèque française. Travaux réalisés au laboratoire du CNC à partir d'une copie nitrate teintée.
+Restauration 4K en 2023 à partir d'une copie nitrate teintée par la Cinémathèque française, au laboratoire du CNC.
 
 - sa 11 mar 14h00 JE  
 Film suivi de _Thaïs_ d'Anton Giulio Bragaglia
@@ -47,7 +49,7 @@ Film suivi de _Thaïs_ d'Anton Giulio Bragaglia
 **(Mickey Mouse in Vietnam)**  
 de Lee Savage  
 États-Unis / 1969 / 1 min / DCP  
-Dans ce dessin animé indépendant, ni validé ni produit par Disney, Mickey s'engage dans l'armée américaine et se rend au Viêt Nam en bateau durant la guerre. Quelques instants après son arrivée, il est descendu d'une balle dans la tête.
+Dans ce dessin animé indépendant, ni validé ni produit par Disney, Mickey s'engage dans l'armée américaine et se rend au Vietnam en bateau durant la guerre. Quelques instants après son arrivée, il est tué d'une balle dans la tête.
 
 - ve 10 mar 16h30 JE  
 Film suivi de _Crossroads_ de Bruce Conner, _Comment s'en sortir sans sortir_ de Raoul Sangla
@@ -57,7 +59,7 @@ Film suivi de _Crossroads_ de Bruce Conner, _Comment s'en sortir sans sortir_ de
 de Jean Epstein  
 France / 1923 / 21 min / INT. FR. / DCP  
 En juin 1923, en Sicile, deux cratères de l'Etna s'ouvrent à nouveau. Jean Epstein et son opérateur Paul Guichard filment avec grande témérité la spectaculaire coulée de lave et les dévastations qu'elle produit.  
-Restauration 4K, numérisée au 2CR-Filmoteca de Catalunya et préservée par l'Arquivo Nacional das Imagens em Movimento, à la Cinemateca Portuguesa. La restauration a été faite à partir d'une copie teintée 28mm Pathé-KOK retrouvée à la Filmoteca de Catalunya, datant de 1924.
+Restauration 4K à partir d'une copie teintée 28 mm Pathé-KOK retrouvée à la Filmoteca de Catalunya, datant de 1924. Numérisation au 2CR-Filmoteca de Catalunya. Préservation par l'Arquivo Nacional das Imagens em Movimento, à la Cinemateca Portuguesa.
 
 - sa 11 mar 12h00 HO  
 Film suivi d'_Artères de France_ de Jean Epstein, René Lucot

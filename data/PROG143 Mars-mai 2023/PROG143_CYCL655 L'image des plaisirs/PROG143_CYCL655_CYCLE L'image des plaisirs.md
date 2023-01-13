@@ -6,7 +6,7 @@ Poétique sera ce cycle et les films qui le composent. Les plus récents sont de
 
 [154139]  
 **Fuck the Fascism: El Cruce de dos mundos**  
-de MariaBasura Pandemicxxx, Jose Pouchucq  
+de MariaBasura Pandemicxxx, José Pouchucq  
 Chili / 2020 / 9 min / VOSTA / Numérique  
 Comment dénoncer et venger l'ethnocide des peuples fuégiens, victimes du capitalisme européen ? MariaBasura et ses camarades développent quelques idées au moyen de leur arme favorite : leur sexe.  
 suivi de  

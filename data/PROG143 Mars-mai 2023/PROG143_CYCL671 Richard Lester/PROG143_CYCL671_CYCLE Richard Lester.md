@@ -191,7 +191,7 @@ Grande-Bretagne / 1963 / 85 min / VOSTF / 16 mm
 Avec Margaret Rutheford, Ron Moody, Bernard Cribbins.  
 Le Duché du Grand Fenwick réussit le premier à envoyer une fusée sur la Lune.
 
-- je 23 mar 16h30 GF
+- je 23 mar 16h30 HL
 
 [34219]  
 **Superman 2 : L'Aventure continue**  

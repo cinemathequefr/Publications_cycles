@@ -80,7 +80,7 @@ Publicité de la crème Simon.
 Restauration numérique effectuée par le CNC à partir d'une copie unique originale nitrate.
 
 - ve 10 mar 16h30 GF  
-Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff et suivi de de _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
+Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff et suivi de de _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [47122]  
 **Le Diable probablement**  
@@ -140,7 +140,7 @@ France / 1934 / 10 min / DCP
 Le Japon, représenté par un soldat, s'approche d'un Chinois et lui coupe un pan de sa tunique symbolisant la Mandchourie. Le Chinois court se plaindre à la Société des nations. Mais celle-ci n'est qu'un décor en carton-pâte.
 
 - ve 10 mar 16h30 GF  
-Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker et suivi de de _L'Idée_ de Berthold Bartosch
+Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker et suivi de de _L'Idée_ de Berthold Bartosch
 
 [154262]  
 **Huilor Le Rayon vert**  
@@ -150,7 +150,7 @@ Publicité de l'huile d'arachide de Rufisque conditionnée à la grande huilerie
 Restauration numérique effectuée par le CNC à partir des négatifs nitrate originaux, image et son conservés et mis à disposition par le BFI.
 
 - ve 10 mar 16h30 GF  
-Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff et suivi de de _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
+Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff et suivi de de _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [46609]  
 **L'Idée**  
@@ -160,7 +160,7 @@ Sous un ciel étoilé, un homme pense. La silhouette lumineuse d'une femme nue a
 Restauration numérique image et son effectuée par le CNC, la Cinémathèque suisse et les laboratoires Hiventy, à partir d'une copie originale nitrate conservée et mis à disposition par le BFI, d'un scan réalisé par la Cinémathèque suisse d'une copie originale nitrate issue de leur collection et complétée par un contretype safety 35mm, appartenant à l'AFCA, ayant droit du film et conservé par le CNC.
 
 - ve 10 mar 16h30 GF  
-Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch
+Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch
 
 [56580]  
 **L'Inconnu**  
@@ -254,7 +254,7 @@ France / 1936 / 1 min / DCP
 Publicité de la crème Simon.
 
 - ve 10 mar 16h30 GF  
-Film suivi d'_Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
+Film suivi d'_Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [36243]  
 **Le Passage du canyon**  
@@ -262,9 +262,9 @@ Film suivi d'_Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies_ d
 de Jacques Tourneur  
 États-Unis / 1946 / 92 min / VOSTF / DCP  
 D'après le roman _Canyon Passage_ d'Ernest Haycox.  
-Avec Susan Hayward, Dana Andrews, Brian Donlevy.  
-En 1856, Logan Stuart escorte Lucy Overmire, la fiancée de son ami, à Jacksonville dans l'Oregon. Au fil du voyage, ils s'éprennent l'un de l'autre. Arrivé à destination, le duo s'aperçoit que l'aventure ne fait que commencer.  
-Restauré en 4K par Cassandra Moor de Universal Picture, en collaboration avec The Film Fondation, au laboratoire Universal Studio Post. Consultation de Martin Scorsese et Steven Spielberg pour la restauration.
+Avec Dana Andrews, Susan Hayward, Brian Donlevy, Hoggy Carmichael.  
+En 1856, Logan Stuart escorte la fiancée de son ami vers Jacksonville dans l'Oregon. Au fil du voyage, ils s'éprennent l'un de l'autre.  
+Restauration en 4K par Cassandra Moor de Universal Picture, en collaboration avec The Film Fondation, au laboratoire Universal Studio Post. Consultation de Martin Scorsese et Steven Spielberg pour la restauration.
 
 - me 8 mar 16h30 GF
 
@@ -274,9 +274,9 @@ Restauré en 4K par Cassandra Moor de Universal Picture, en collaboration avec T
 de Sidney Lumet  
 États-Unis / 1963 / 112 min / VOSTF / DCP  
 D'après le roman _Fail safe_ d'Eugene Burdick et Harvey Wheeler.  
-Avec Dan O'Herlihy, Walter Matthau, Frank Overton.  
-En pleine guerre froide, suite une erreur technique, un groupe de bombardiers nord-américains reçoit l'ordre de lancer une attaque nucléaire contre Moscou.  
-Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35mm d'origine. Le transfert a été supervisé par Grover Crisp, et le travail de couleur par Sheri Eisenberg et Roundabout Entertainment. La bande sonore mono a été remasterisée à Deluxe à Hollywood, sous la supervision de Bob Simmons.
+Avec Walter Matthau, Henry Fonda, Dan O'Herlihy.  
+En pleine guerre froide, à la suite d'une erreur technique, un groupe de bombardiers nord-américains reçoit l'ordre de lancer une attaque nucléaire contre Moscou.  
+Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35 mm d'origine. Transfert supervisé par Grover Crisp, travail de couleur effectué par Sheri Eisenberg et Roundabout Entertainment. Bande sonore mono remasterisée à Deluxe (Hollywood), sous la supervision de Bob Simmons.
 
 - me 8 mar 14h00 GF
 
@@ -296,8 +296,8 @@ de Martin Scorsese
 États-Unis / 1980 / 129 min / VOSTF / DCP  
 D'après son autobiographie _Raging Bull_ de Jake La Motta.  
 Avec Robert De Niro, Cathy Moriarty, Joe Pesci.  
-Les moments forts et le déclin de la carrière flamboyante de Jack La Motta, champion de boxe poids moyen. Issu d'un milieu modeste, il fut le héros de combats mythiques, notamment contre Sugar Ray Robinson et Marcel Cerdan.  
-Cette nouvelle restauration 4K, approuvée par Martin Scorsese, a été réalisée avec un scanner Lasergraphics Director, à partir d'une copie 35mm d'un négatif d'origine. Le transfert a été supervisé par Thelma Schoonmaker, et colorisation par Gregg Garvin et Roundabout Entertainment. La bande sonore a été remasterisée à partir de la bande magnétique trois pistes 35mm d'origine.
+Les moments forts et le déclin de la carrière flamboyante de Jack LaMotta, champion de boxe poids moyen. Issu d'un milieu modeste, il fut le héros de combats mythiques, notamment contre Sugar Ray Robinson et Marcel Cerdan.  
+Nouvelle restauration 4K, approuvée par Martin Scorsese, réalisée avec un scanner Lasergraphics Director, à partir d'une copie 35 mm d'un négatif d'origine. Transfert supervisé par Thelma Schoonmaker, et colorisation par Gregg Garvin et Roundabout Entertainment. Bande sonore remasterisée à partir de la bande magnétique trois pistes 35 mm d'origine.
 
 - je 9 mar 14h00 HL
 
@@ -305,9 +305,9 @@ Cette nouvelle restauration 4K, approuvée par Martin Scorsese, a été réalis�
 **Rien que les heures**  
 d'Alberto Cavalcanti  
 France / 1927 / 48 min / INT. FR. / DCP  
-Avec Blanche Bernis, Philippe Hériat, Nina Chowalowa.  
-Une des premières symphonies urbaines, ce documentaire est une promenade à travers Paris, des premières lueurs de l'aube jusqu'à la nuit suivante, de la beauté à la misère.  
-Restauration 4K menée en 2022 par Les Films du Panthéon avec le soutien du CNC et de la Cinémathèque française, en collaboration avec Les Films du Jeudi, le EYE Filmmuseum et le BFI National Archive. Travaux réalisés au laboratoire Hiventy à partir d'une copie teintée conservée au Eye Filmmuseum, d'une copie teintée du BFI conservée au CNC et d'un contretype du BFI.
+Avec Nina Chowalowa, Philippe Hériat, Clifford McLaglen, Blanche Bernis.  
+Une des premières symphonies urbaines, promenade à travers Paris, des premières lueurs de l'aube jusqu'à la nuit suivante, de la beauté à la misère.  
+Restauration 4K en 2022 par Les Films du Panthéon, avec le soutien du CNC et de la Cinémathèque française, en collaboration avec Les Films du Jeudi, le EYE Filmmuseum et le BFI National Archive. Travaux réalisés au laboratoire Hiventy à partir d'une copie teintée conservée au Eye Filmmuseum, d'une copie teintée du BFI conservée au CNC et d'un contretype du BFI.
 
 - je 9 mar 14h30 GF
 
@@ -316,8 +316,8 @@ Restauration 4K menée en 2022 par Les Films du Panthéon avec le soutien du CNC
 de Claire Denis  
 France / 1990 / 91 min / DCP  
 Avec Isaach de Bankolé, Alex Descas, Jean-Claude Brialy, Solveig Dommartin.  
-Dah et Jocelyn, Antillais et Béninois installés illégalement en France, participent à des combats de coqs clandestins organisés par un patron de boîtes de nuit corrompu. Ils entrainent leur coq baptisé « S'en fout la mort ».  
-Une restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Etalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
+Dah et Jocelyn, Antillais et Béninois installés illégalement en France, participent à des combats de coqs clandestins organisés par un patron de boîtes de nuit corrompu. Ils entraînent leur animal baptisé « &nbsp;S'en fout la mort&nbsp; ».  
+Restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Etalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
 
 - ve 10 mar 14h00 GF
 
@@ -326,14 +326,14 @@ Une restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy,
 de Jean Renoir  
 France / 1959 / 100 min / DCP  
 D'après le roman _Docteur Jakyll et Mister Hyde_ de Robert Louis Stevenson.  
-Avec Jean-Louis Barrault, Teddy Bilis.  
-L'avocat du docteur Cordelier est étonné de découvrir que son client lègue ses biens à un criminel sadique, Opale. On découvre bientôt qu'Opale et Cordelier ne font qu'un...  
-Cette restauration 4K a été réalisée en 2022 par STUDIOCANAL au laboratoire Hiventy avec le soutien du CNC. Le négatif original 35mm a été scanné par immersion compte tenu des nombreuses altérations présentes sur la pellicule. Plus de 200 heures de retouche numérique ont été nécessaires pour effacer les rayures, éclats de gélatine et autres traces d'usure. Le son a également été restauré.
+Avec Jean-Louis Barrault, Teddy Bilis, Gaston Modot, Michel Vitold.  
+L'avocat du docteur Cordelier est étonné de découvrir que son client lègue ses biens à un criminel sadique, Opale.  
+Restauration 4K réalisée en 2022 par l'équipe de STUDIOCANAL avec Sophie Boyer et Jean-Pierre Boiget au laboratoire Hiventy, avec le soutien du CNC. Négatif original 35 mm scanné par immersion, compte tenu des nombreuses altérations présentes sur la pellicule, avec plus de 200 heures de retouche numérique nécessaires pour effacer les rayures, éclats de gélatine et autres traces d'usure. Son également restauré.
 
 - sa 11 mar 20h30 JE
 
 [46339]  
-**Une nuit sur le mont chauve**  
+**Une nuit sur le mont Chauve**  
 d'Alexandre Alexeieff  
 France / 1933 / 8 min / DCP  
 Au temps des tsars, magiciennes et enchanteurs se réunissent pendant le solstice d'été sur le mont Chauve, près de Kiev.  
@@ -347,8 +347,8 @@ Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff et suivi de de _D
 d'E. Mason Hopper  
 États-Unis / 1926 / 70 min / INT. FR. / DCP  
 Avec Marie Prevost, Harrison Ford, Phyllis Haver.  
-Mabel, l'ancienne petite-amie de Gary Ainsworth, menace de révéler leur relation passée au moyen d'une nuisette qu'il lui avait offerte. Gary essaye de récupérer la nuisette compromettante, qui se trouve dans la chambre de Mabel.  
-Film numérisé par UCLA Film and Television Archive.
+Mabel, l'ancienne petite-amie de Gary Ainsworth, menace de révéler leur relation passée au moyen d'une nuisette qu'il lui avait offerte. Gary essaie de récupérer la nuisette compromettante, qui se trouve dans la chambre de Mabel.  
+Numérisation par UCLA Film and Television Archive.
 
 - di 12 mar 14h30 GF
 
@@ -356,9 +356,9 @@ Film numérisé par UCLA Film and Television Archive.
 **Viva la muerte**  
 d'Arrabal  
 France-Tunisie / 1970 / 88 min / DCP  
-Avec Mahdi Chaouch, Anouk Ferjac, Ivan Henriques.  
-Dans l'Espagne franquiste, le jeune Fando découvre que sa mère, fervente catholique, a dénoncé son père aux autorités en l'accusant d'athéisme et d'antifascisme. Déchiré, Fando est pris de visions cruelles, violentes et sensuelles.  
-Restauré en 4K en 2022 par la Cinémathèque de Toulouse en collaboration avec Fernando Arrabal, à partir du négatif 35mm d'origine, et d'un élément interpositif 35mm. Les travaux de restauration du son ont été réalisés par le studio L.E. Diapason. Avec le soutien du Ministère des Affaires Culturelles tunisien et de l'Association Ciné-Sud Patrimoine.
+Avec Fernando Arrabal, Mohamed Bellasoued, Mehdi Chaouch, Anouk Ferjac.  
+Dans l'Espagne franquiste, le jeune Fando est pris de visions cruelles, violentes et sensuelles quand il découvre que sa mère, fervente catholique, a dénoncé son père aux autorités en l'accusant d'athéisme et d'antifascisme.  
+Restauration en 4K en 2022 par la Cinémathèque de Toulouse en collaboration avec Fernando Arrabal, à partir du négatif 35 mm d'origine, et d'un élément interpositif 35 mm. Travaux de restauration du son menés par le studio L.E. Diapason. Avec le soutien du Ministère des Affaires Culturelles tunisien et de l'Association Ciné-Sud Patrimoine.
 
 - sa 11 mar 21h00 GF
 

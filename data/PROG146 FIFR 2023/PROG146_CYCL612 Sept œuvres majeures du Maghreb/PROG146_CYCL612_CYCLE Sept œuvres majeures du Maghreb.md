@@ -7,9 +7,9 @@
 **(Tah'iya ya Didu)**  
 de Mohamed Zinet  
 Algérie / 1971 / 76 min / VOSTF / DCP  
-Avec Mohamed Zinet, Georges Arnaud, Himmoud Brahimi.  
+Avec Georges Arnaud, Mohamed Zinet, Himmoud Brahimi, Suzie Nacer.  
 Simon et sa femme, un couple de touristes français, visitent les rues d'Alger quand soudain, Simon reconnaît un Algérien aveugle qu'il a torturé pendant la guerre.  
-Restauré en 2017 au laboratoire Laser Films (Italie), en collaboration avec le Centre Algérien de la Cinématographie (CAC), à partir du négatif original retrouvé à la Cinémathèque algérienne.
+Restauration en 2017 au laboratoire Laser Films (Italie), en collaboration avec le Centre Algérien de la Cinématographie (CAC), à partir du négatif original retrouvé à la Cinémathèque algérienne.
 
 - me 8 mar 14h00 JE
 
@@ -17,8 +17,9 @@ Restauré en 2017 au laboratoire Laser Films (Italie), en collaboration avec le 
 **De quelques événements sans significations**  
 de Mostafa Derkaoui  
 Maroc / 1974 / 74 min / VOSTF / DCP  
-Une équipe de cinéastes interroge de jeunes casablancais sur leurs attentes et leur rapport au cinéma marocain. Assistant à un crime commis par un ouvrier, ils se mettent à réfléchir à leur conception du cinéma et au rôle de l'artiste dans la société.  
-Restauré en 2019 par la Filmoteca de Catalunya et l'Observatoire (Casablanca).
+Avec Abdellatif Nour, Abbas Fassi-Fihri, Hamid Zoughi.  
+Une équipe de cinéastes interroge de jeunes Casablancais sur leurs attentes et leur rapport au cinéma marocain.  
+Restauration en 2019 par la Filmoteca de Catalunya et l'Observatoire (Casablanca).
 
 - di 12 mar 19h30 GF
 
@@ -27,9 +28,9 @@ Restauré en 2019 par la Filmoteca de Catalunya et l'Observatoire (Casablanca).
 **(Bab al sama maftuh)**  
 de Farida Ben Lyazid  
 Maroc / 1988 / 100 min / VOSTF / DCP  
-Avec Chaabia Laadraoui, Eva Saint-Paul, Zakia Tahri.  
-Après plusieurs années en France, Nadia revient au Maroc pour voir son père qui est sur le point de mourir. Le jour de l'enterrement, Nadia rencontre une jeune femme qui va l'initier aux chants sacrés et l'aider à surmonter sa tristesse.  
-Restauré par le Transnational Moroccan Cinema Project from the University of Exeter (UK), le Centre du Cinéma Marocain et Dragon DI (UK).
+Avec Zakia Tahiri, Châaibia Adraoui,Eva Saint-Paul, Ahmed Bouanani.  
+Revenue à Fès, capitale historique et spirituelle du Maroc, pour le deuil de son père, une jeune Franco-Marocaine y fonde la « zaouia des femmes », à la fois sanctuaire religieux, lieu de pèlerinage et refuge pour femmes en détresse.  
+Restauration par Transnational Moroccan Cinema Project from the University of Exeter (UK), le Centre du Cinéma Marocain, et Dragon DI (UK).
 
 - me 8 mar 16h30 JE
 
