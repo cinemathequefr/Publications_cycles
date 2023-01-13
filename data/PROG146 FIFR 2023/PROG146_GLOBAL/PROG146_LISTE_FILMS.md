@@ -12,12 +12,6 @@
   * Samuel Fuller, Independant Filmmaker  
   * Taxi Driver mis en pièce par Martin Scorsese
 
-## Classiques du Maghreb (3)
-
-  * Alger insolite  
-  * De quelques événements sans significations  
-  * Porte sur le ciel (Une)
-
 ## Hamo Bek-Nazaryan (2)
 
   * House on the volcano (The)  
@@ -28,17 +22,17 @@
   * Love  
   * Vie privée d'Henry VIII (La)
 
-## Joel et Ethan Coen (7)
+## Joel Coen, parrain du festival (7)
 
   * Ballade de Buster Scruggs (La)  
   * Big Lebowski (The)  
   * Fargo  
   * Inside Llewyn Davis  
-  * No Country for Old Men – Non, ce pays n'est pas pour le vieil homme  
+  * No Country for Old Men  
   * Tragedy of Macbeth (The)  
   * Vitelloni (Les)
 
-## Kiyoshi Kurosawa (3)
+## Kiyoshi Kurosawa, invité d'honneur (3)
 
   * Armored Car Robbery  
   * Gardien de l'enfer (Le)  
@@ -54,7 +48,7 @@
   * Montagne infidèle (La)  
   * Thaïs
 
-## Restaurations et incunables (33)
+## Restaurations et incunables (35)
 
   * À bout de course  
   * Boy Meets Girl  
@@ -62,9 +56,9 @@
   * Buck et son complice  
   * Comédien (Le)  
   * Danse macabre  
-  * Deux amies = Deux amies de votre beauté  
+  * Deux amies  
   * Diable probablement (Le)  
-  * Dieu noir et le diable blond (Le)  
+  * Dieu noir et le Diable blond (Le)  
   * Fin d'été  
   * Folies de femmes  
   * Histoire de la guerre civile  
@@ -77,10 +71,12 @@
   * Manolesco prince des poètes  
   * Mauvais sang  
   * Ménilmontant  
+  * Miroir de la sorcière (Le)  
   * Nabab (Le)  
   * Naissance de Vénus  
   * Passage du canyon (Le)  
   * Point limite  
+  * Proies du vampire (Les)  
   * Raging Bull  
   * Rien que les heures  
   * S'en fout la mort  
@@ -90,7 +86,13 @@
   * Viva la muerte  
   * Vues au pochoir : villes d'Europe années 1920 en Pathécolor
 
-## Roger Deakins (2)
+## Roger Deakins, invité d'honneur (2)
 
   * 1917  
-  * Sicario  
+  * Sicario
+
+## Sept œuvres majeures du Maghreb (3)
+
+  * Alger insolite  
+  * De quelques événements sans significations  
+  * Porte sur le ciel (Une)  

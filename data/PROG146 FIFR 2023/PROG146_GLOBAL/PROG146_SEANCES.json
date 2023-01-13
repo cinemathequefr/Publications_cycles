@@ -6,7 +6,7 @@
     "salle": "HO",
     "cycle": [
       [
-        "Roger Deakins",
+        "Roger Deakins, invité d'honneur",
         "Les films"
       ]
     ],
@@ -54,7 +54,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Classiques du Maghreb",
+        "Sept œuvres majeures du Maghreb",
         "Les films"
       ]
     ],
@@ -103,7 +103,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Classiques du Maghreb",
+        "Sept œuvres majeures du Maghreb",
         "Les films"
       ]
     ],
@@ -128,7 +128,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Joel et Ethan Coen",
+        "Joel Coen, parrain du festival",
         "Les films"
       ]
     ],
@@ -152,7 +152,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Joel et Ethan Coen",
+        "Joel Coen, parrain du festival",
         "Les films"
       ]
     ],
@@ -290,28 +290,27 @@
     "hashEvenement": "f35682"
   },
   {
-    "idSeance": 96792,
-    "idEvenement": 27886,
+    "idSeance": 92506,
+    "idEvenement": 27628,
     "dateHeure": "2023-03-09T16:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Classiques du Maghreb",
+        "Restaurations et incunables",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 71576,
-        "titre": "De quelques événements sans significations",
-        "realisateurs": "Mostafa Derkaoui",
-        "annee": 1974,
-        "duree": 74,
-        "version": "VOSTF",
+        "idFilm": 64216,
+        "titre": "Fin d'été",
+        "realisateurs": "Jean-Marie Larrieu, Arnaud Larrieu",
+        "annee": 1997,
+        "duree": 68,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f71576"
+    "hashEvenement": "f64216"
   },
   {
     "idSeance": 92880,
@@ -393,22 +392,32 @@
     "salle": "HL",
     "cycle": [
       [
-        "Joel et Ethan Coen",
+        "Joel Coen, parrain du festival",
         "Les films"
+      ],
+      [
+        "Joel Coen, parrain du festival",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
         "idFilm": 102035,
-        "titre": "No Country for Old Men – Non, ce pays n'est pas pour le vieil homme",
+        "titre": "No Country for Old Men",
         "realisateurs": "Joel Coen, Ethan Coen",
         "annee": 2006,
         "duree": 122,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 27893,
+        "titre": "No country for old men + Discussion Joel Coen et Roger Deakins",
+        "typeConference": "Dialogue",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f102035"
+    "hashEvenement": "f102035c27893"
   },
   {
     "idSeance": 92493,
@@ -459,8 +468,8 @@
     "hashEvenement": "f45643"
   },
   {
-    "idSeance": 92415,
-    "idEvenement": 27624,
+    "idSeance": 92414,
+    "idEvenement": 27622,
     "dateHeure": "2023-03-10T14:00:00",
     "salle": "GF",
     "cycle": [
@@ -471,17 +480,15 @@
     ],
     "items": [
       {
-        "idFilm": 43206,
-        "titre": "Dieu noir et le diable blond",
-        "art": "Le",
-        "realisateurs": "Glauber Rocha",
-        "annee": 1963,
-        "duree": 123,
-        "version": "VOSTF",
+        "idFilm": 57342,
+        "titre": "S'en fout la mort",
+        "realisateurs": "Claire Denis",
+        "annee": 1990,
+        "duree": 91,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f43206"
+    "hashEvenement": "f57342"
   },
   {
     "idSeance": 96788,
@@ -514,8 +521,12 @@
     "salle": "HL",
     "cycle": [
       [
-        "Roger Deakins",
+        "Roger Deakins, invité d'honneur",
         "Les films"
+      ],
+      [
+        "Roger Deakins, invité d'honneur",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -527,9 +538,15 @@
         "duree": 121,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 27896,
+        "titre": "Conservatoire : dialogue avec Roger Deakins",
+        "typeConference": "Dialogue",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f126983"
+    "hashEvenement": "f126983c27896"
   },
   {
     "idSeance": 92454,
@@ -561,7 +578,7 @@
       },
       {
         "idFilm": 133965,
-        "titre": "Deux amies = Deux amies de votre beauté",
+        "titre": "Deux amies",
         "realisateurs": "Alexandre Alexeieff",
         "annee": 1936,
         "duree": 1,
@@ -702,8 +719,12 @@
     "salle": "HL",
     "cycle": [
       [
-        "Joel et Ethan Coen",
+        "Joel Coen, parrain du festival",
         "Les films"
+      ],
+      [
+        "Joel Coen, parrain du festival",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -716,9 +737,15 @@
         "duree": 105,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 27894,
+        "titre": "The tragedy of Macbeth + discussion avec Joel Coen et runo Delbonnel",
+        "typeConference": "Dialogue",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f152050"
+    "hashEvenement": "f152050c27894"
   },
   {
     "idSeance": 92881,
@@ -774,6 +801,31 @@
       }
     ],
     "hashEvenement": "f154256"
+  },
+  {
+    "idSeance": 92451,
+    "idEvenement": 27887,
+    "dateHeure": "2023-03-10T22:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 128743,
+        "titre": "Miroir de la sorcière",
+        "art": "Le",
+        "realisateurs": "Chano Urueta",
+        "annee": 1962,
+        "duree": 75,
+        "version": "VOSTA",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f128743"
   },
   {
     "idSeance": 92989,
@@ -891,8 +943,8 @@
     "hashEvenement": "f74532f154311"
   },
   {
-    "idSeance": 92414,
-    "idEvenement": 27622,
+    "idSeance": 92415,
+    "idEvenement": 27624,
     "dateHeure": "2023-03-11T14:00:00",
     "salle": "GF",
     "cycle": [
@@ -903,15 +955,17 @@
     ],
     "items": [
       {
-        "idFilm": 57342,
-        "titre": "S'en fout la mort",
-        "realisateurs": "Claire Denis",
-        "annee": 1990,
-        "duree": 91,
+        "idFilm": 43206,
+        "titre": "Dieu noir et le Diable blond",
+        "art": "Le",
+        "realisateurs": "Glauber Rocha",
+        "annee": 1963,
+        "duree": 123,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f57342"
+    "hashEvenement": "f43206"
   },
   {
     "idSeance": 92873,
@@ -952,8 +1006,12 @@
     "salle": "HL",
     "cycle": [
       [
-        "Joel et Ethan Coen",
+        "Joel Coen, parrain du festival",
         "Les films"
+      ],
+      [
+        "Joel Coen, parrain du festival",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -965,9 +1023,15 @@
         "duree": 105,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 27895,
+        "titre": "Inside Llewin Davis + Masterclass Joel Coen",
+        "typeConference": "MasterClass",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f119403"
+    "hashEvenement": "f119403c27895"
   },
   {
     "idSeance": 92876,
@@ -995,11 +1059,11 @@
   {
     "idSeance": 92490,
     "idEvenement": 27540,
-    "dateHeure": "2023-03-11T16:15:00",
+    "dateHeure": "2023-03-11T16:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Kiyoshi Kurosawa",
+        "Kiyoshi Kurosawa, invité d'honneur",
         "Carte blanche à Kiyoshi Kurosawa"
       ]
     ],
@@ -1047,7 +1111,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Joel et Ethan Coen",
+        "Joel Coen, parrain du festival",
         "Carte blanche à Joel Coen"
       ]
     ],
@@ -1072,8 +1136,12 @@
     "salle": "HL",
     "cycle": [
       [
-        "Kiyoshi Kurosawa",
+        "Kiyoshi Kurosawa, invité d'honneur",
         "Les films"
+      ],
+      [
+        "Kiyoshi Kurosawa, invité d'honneur",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1086,9 +1154,15 @@
         "duree": 97,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 27897,
+        "titre": "discussion avec Kiyoshi Kurosawa",
+        "typeConference": "Dialogue",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f102664"
+    "hashEvenement": "f102664c27897"
   },
   {
     "idSeance": 92875,
@@ -1117,7 +1191,7 @@
   {
     "idSeance": 92453,
     "idEvenement": 27629,
-    "dateHeure": "2023-03-11T20:45:00",
+    "dateHeure": "2023-03-11T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1136,6 +1210,31 @@
       }
     ],
     "hashEvenement": "f59352"
+  },
+  {
+    "idSeance": 92488,
+    "idEvenement": 27888,
+    "dateHeure": "2023-03-11T22:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43918,
+        "titre": "Proies du vampire",
+        "art": "Les",
+        "realisateurs": "Fernando Méndez",
+        "annee": 1957,
+        "duree": 83,
+        "version": "VOSTA",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f43918"
   },
   {
     "idSeance": 92992,
@@ -1177,7 +1276,7 @@
     "salle": "HO",
     "cycle": [
       [
-        "Joel et Ethan Coen",
+        "Joel Coen, parrain du festival",
         "Les films"
       ]
     ],
@@ -1280,13 +1379,34 @@
     "hashEvenement": "f154274f154273f128838"
   },
   {
+    "idSeance": 100574,
+    "idEvenement": 27898,
+    "dateHeure": "2023-03-12T16:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 27898,
+        "titre": "Rencontre avec Leos Carax",
+        "typeConference": "Conversation",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c27898"
+  },
+  {
     "idSeance": 92379,
     "idEvenement": 27758,
     "dateHeure": "2023-03-12T16:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Joel et Ethan Coen",
+        "Joel Coen, parrain du festival",
         "Les films"
       ]
     ],
@@ -1334,7 +1454,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Kiyoshi Kurosawa",
+        "Kiyoshi Kurosawa, invité d'honneur",
         "Carte blanche à Kiyoshi Kurosawa"
       ]
     ],
@@ -1352,27 +1472,28 @@
     "hashEvenement": "f71777"
   },
   {
-    "idSeance": 92506,
-    "idEvenement": 27628,
+    "idSeance": 96792,
+    "idEvenement": 27886,
     "dateHeure": "2023-03-12T19:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Restaurations et incunables",
+        "Sept œuvres majeures du Maghreb",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 64216,
-        "titre": "Fin d'été",
-        "realisateurs": "Jean-Marie Larrieu, Arnaud Larrieu",
-        "annee": 1997,
-        "duree": 68,
+        "idFilm": 71576,
+        "titre": "De quelques événements sans significations",
+        "realisateurs": "Mostafa Derkaoui",
+        "annee": 1974,
+        "duree": 74,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f64216"
+    "hashEvenement": "f71576"
   },
   {
     "idSeance": 92505,

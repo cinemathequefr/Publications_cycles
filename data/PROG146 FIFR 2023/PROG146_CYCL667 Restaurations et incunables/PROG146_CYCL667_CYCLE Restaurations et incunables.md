@@ -8,7 +8,8 @@
 de Sidney Lumet  
 États-Unis / 1988 / 115 min / VOSTF / 35 mm  
 Avec River Phoenix, Judd Hirsch, Christine Lahti, Martha Plimpton.  
-Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie.
+Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie.  
+Restauration avec le soutien de la National Film Preservation Foundation, à partir d'une copie restaurée du Eastman Museum et une copie nitrate de la Narodni Filmovy Archiv de Prague.
 
 - ve 10 mar 14h00 JE
 
@@ -18,7 +19,7 @@ de Leos Carax
 France / 1984 / 100 min / DCP  
 Avec Denis Lavant, Mireille Perrier, Carroll Brooks.  
 Alex a 22 ans et aspire à de grandes œuvres. Pour inspirer ses écrits, il espionne les amoureux la nuit, dans Paris. Un jour, il rencontre une femme suicidaire, aussi solitaire que lui. Ils vivront une histoire d'amour insolite et dramatique.  
-La restauration a été réalisée par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, l'Institut audiovisuel de Monaco et le soutien du CNC et de la maison CHANEL. Le film a été numérisé et restauré en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022. La restauration a été supervisée par Caroline Champetier.
+Restauration supervisée par Caroline Champetier, réalisée par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, l'Institut audiovisuel de Monaco et le soutien du CNC et de la maison CHANEL. Numérisation et restauration en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022.
 
 - di 12 mar 17h30 HL
 
@@ -28,7 +29,7 @@ de Dimitri Kirsanoff
 France-Suisse / 1928 / 12 min / INT. FR. / DCP  
 Avec Nadia Sibirskaïa.  
 Une femme au visage triste brûle des lettres, et part se promener dans une nature de fin d'automne.  
-Restauration 4K menée en 2022 par Lobster Films et la Cinémathèque française avec le soutien du CNC. Travaux réalisés au laboratoire Lobster et au studio L.E. Diapason, à partir des négatifs image et son originaux et d'un interpostif sonore conservés à la Cinémathèque française.
+Restauration 4K en 2022 par Lobster Films et la Cinémathèque française avec le soutien du CNC. Travaux réalisés au laboratoire Lobster et au studio L.E. Diapason, à partir des négatifs image et son originaux et d'un interpostif sonore conservés à la Cinémathèque française.
 
 - di 12 mar 12h00 HO  
 Film suivi de _Ménilmontant_ de Dimitri Kirsanoff
@@ -39,12 +40,11 @@ Film suivi de _Ménilmontant_ de Dimitri Kirsanoff
 de Sidney Poitier  
 États-Unis / 1971 / 103 min / VOSTF / DCP  
 Avec Sidney Poitier, Harry Belafonte, Ruby Dee.  
-Après la guerre de Sécession, Buck, ancien sergent de l'Union, et un prédicateur escroc guident un groupe d'esclaves affranchis pour passer la frontière. Ils sont attaqués par d'anciens esclavagistes devenus agents de main-d'œuvre bon marché.  
+Après la guerre de Sécession, un ancien sergent de l'Union et un prédicateur escroc guident un groupe d'esclaves affranchis pour passer la frontière. Ils sont attaqués par d'anciens esclavagistes devenus agents de main-d'œuvre bon marché.  
 En avant-première parisienne en vue de sa ressortie en salles.
 
 ---
-
-Restauration 4K réalisée en 2022 par Sony à partir du négatif 35mm d'origine, au laboratoire Cineric. La correction couleur a été effectuée par MTI.
+Restauration 4K réalisée en 2022 par Sony à partir du négatif 35 mm d'origine, au laboratoire Cineric. Correction couleur effectuée par MTI.
 
 - je 9 mar 14h30 JE
 
@@ -53,9 +53,9 @@ Restauration 4K réalisée en 2022 par Sony à partir du négatif 35mm d'origine
 de Sacha Guitry  
 France / 1947 / 95 min / DCP  
 D'après la pièce _Le Comédien_ de Sacha Guitry.  
-Avec Sacha Guitry, Lana Marconi, Jacques Baumer.  
+Avec Sacha Guitry, Lana Marconi, Jacques Baumer, Pauline Carton.  
 Biographie du comédien de théâtre Lucien Guitry, joué par son fils réalisateur Sacha, qui propose une réflexion poétique sur l'amour des deux hommes pour l'art.  
-Une présentation de TF1 Studio. Nouvelle version restaurée en 4K par TF1 Studio, avec le soutien du CNC, à partir du négatif image nitrate original, d'un marron nitrate et d'un négatif son nitrate. Travaux numériques et photochimiques réalisés par le laboratoire Hiventy en 2022.
+Présentation de TF1 Studio. Nouvelle version restaurée en 4K par TF1 Studio, avec le soutien du CNC, à partir du négatif image nitrate original, d'un marron nitrate et d'un négatif son nitrate. Travaux numériques et photochimiques réalisés par le laboratoire Hiventy en 2022.
 
 - sa 11 mar 18h00 JE
 
@@ -66,13 +66,14 @@ d'Anthony Dawson
 Italie-France / 1963 / 89 min / VOSTF / DCP  
 D'après le roman _Danse macabre_ d'Edgar Allan Poe.  
 Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.  
-Alan Foster, jeune journaliste, relève le pari de passer la nuit dans un château que l'on dit hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
-Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8ème, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
+Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
+Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque.<br>
+La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
 
 - je 9 mar 21h00 GF
 
 [133965]  
-**Deux amies = Deux amies de votre beauté**  
+**Deux amies**  
 d'Alexandre Alexeieff  
 France / 1936 / 1 min / DCP  
 Publicité de la crème Simon.  
@@ -86,31 +87,31 @@ Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le
 de Robert Bresson  
 France / 1976 / 95 min / DCP  
 Avec Antoine Monnier, Tina Irissari, Henri de Maublanc.  
-Charles et Michel forment avec des amis un petit groupe qui se préoccupe de l'avenir du monde. Michel, militant, cherche à lutter avec ses modestes moyens, tandis que Charles refuse l'engagement et, dégoûté de la vie, opte pour le suicide.  
-Restauré en 4K par Gaumont au laboratoire Eclair.
+Quatre adolescents en révolte forment un petit groupe écologiste qui se préoccupe de l'avenir du monde. Michel, militant, cherche à lutter avec ses modestes moyens, tandis que Charles, dégouté par la société, refuse l'engagement.  
+Restauration en 4K par Gaumont au laboratoire Eclair.
 
 - je 9 mar 17h00 HL
 
 [43206]  
-**Le Dieu noir et le diable blond**  
+**Le Dieu noir et le Diable blond**  
 **(Deus e o diablo na terra do sol)**  
 de Glauber Rocha  
 Brésil / 1963 / 123 min / VOSTF / DCP  
-Avec Geraldo del Rey, Yoná Magalhães, Maurício do Valle.  
-Un couple de paysans brésiliens, touché par la misère, est prêt à se compromettre pour s'en sortir. Ils s'en remettent tour à tour à deux personnages violents et mystiques, symbolisant la révolte : une incarnation de Dieu et l'autre du Diable.  
-Restauration 4K conduite par Métropoles, Lino Meireles et Paloma Cinematografica à partir du négatif 35mm original conservé à la Cinemateca Brasileira. Travaux réalisés par les Estudios Colors et Estudios JLS, les cinéastes Luis Abramo et Rogerio Moraes, sous la direction de Rodrigo Mercês. Ressortie en salles au troisième trimestre 2023 par Capricci.
+Avec Geraldo del Rey, Yoná Magalhães, Maurício do Valle, Othon Bastos.  
+Un couple de paysans brésiliens, touché par la misère, est prêt à se compromettre pour s'en sortir. Ils s'en remettent à deux personnages violents et mystiques, symbolisant la révolte : une incarnation de Dieu et l'autre du Diable.  
+Restauration 4K conduite par Métropoles, Lino Meireles et Paloma Cinematografica à partir du négatif 35 mm original conservé à la Cinemateca Brasileira. Travaux réalisés par les Estudios Colors et Estudios JLS, les cinéastes Luis Abramo et Rogerio Moraes, sous la direction de Rodrigo Mercês. Ressortie en salles au troisième trimestre 2023 par Capricci.
 
-- ve 10 mar 14h00 GF
+- sa 11 mar 14h00 GF
 
 [64216]  
 **Fin d'été**  
 de Jean-Marie Larrieu, Arnaud Larrieu  
 France / 1997 / 68 min / DCP  
 Avec Philippe Suner, Pia Camilla Copper, Marie Henriau.  
-Edouard invite Diana à passer un week-end chez Gilbert, ancien soixante-huitard vivant dans une vallée de la montagne Noire entre l'Aude et le Tarn. Il tente de séduire Diana et de la convaincre de rester, et découvre que Gilbert est peut-être son père.  
-Film restauré pour la Traverse par Cosmodigital et L.E. Diapason, avec le soutien du Centre national du cinéma.
+Edouard invite Diana à passer un week-end chez Gilbert, ancien soixante-huitard vivant dans une vallée de la montagne Noire entre l'Aude et le Tarn. Il tente de séduire Diana, et découvre que Gilbert est peut-être son père.  
+Restauration pour la Traverse par Cosmodigital et L.E. Diapason, avec le soutien du Centre national du cinéma.
 
-- di 12 mar 19h30 GF
+- je 9 mar 16h30 GF
 
 [36638]  
 **Folies de femmes**  
@@ -118,16 +119,8 @@ Film restauré pour la Traverse par Cosmodigital et L.E. Diapason, avec le souti
 d'Erich von Stroheim  
 États-Unis / 1921 / 144 min / INT. FR. / DCP  
 Avec Erich von Stroheim, Maude George, Mae Busch.  
-Serge Karamzin, faux aristocrate russe, et ses deux complices féminines, s'installent à Monte-Carlo pour escroquer les casinos avec de faux billets. Mais Karamzin s'en prend à plus fort que lui en tentant de séduire la femme de l'ambassadeur des USA.  
-Ciné-concert par le groupe SHEEP GOT WAXED
-
----
-
-Collection Cinémathèque française.
-
----
-
-Restauration réalisée par le San Francisco Silent Film Festival, à partir d'une copie nitrate 35mm de la Cineteca Italiana de Milan, et d'une copie 35mm du Museum of Modern Art de New York. Les teintages et les virages ont été réalisés selon les conventions de colorisation d'Universal de l'époque. Pour réaliser les effets colorisés à la main, les équipes se sont référé à des revues contemporaines et à un article de presse spécialisée écrit par le coloriste d'origine, Gustav Brock.
+Aidé de ses deux complices féminines, Karazim, faux arisctocrate russe, s'installe à Monte-Carlo pour escroquer les casinos avec de faux billets, et tente de séduire la femme de l'ambassadeur des USA.  
+Restauration par le San Francisco Silent Film Festival, à partir d'une copie nitrate 35 mm de la Cineteca Italiana de Milan, et d'une copie 35 mm du Museum of Modern Art de New York. Teintages et virages réalisés selon les conventions de colorisation d'Universal de l'époque. Pour réaliser les effets colorisés à la main, les équipes se sont référé à des revues contemporaines et à un article de presse spécialisée écrit par le coloriste d'origine, Gustav Brock.
 
 - me 8 mar 20h30 HO
 
@@ -135,15 +128,8 @@ Restauration réalisée par le San Francisco Silent Film Festival, à partir d'u
 **Histoire de la guerre civile**  
 de Dziga Vertov  
 Russie / 1921 / 94 min / INT. FR. / DCP  
-Restauration effectuée par Nikolai Izvolov à partir d'une description du film faite par Grigory Boltyansky conservée à l'Archive of Literature and Art in Moscow, et d'éléments du matériel d'origine 35mm conservés dans différentes archives.
-
----
-
-En pleine Guerre Civile russe, Vertov filme des figures emblématiques du gouvernement et de l'Armée Rouge, ainsi que la violence et le chaos qui règnent dans le pays, si bien que son documentaire ne sortira jamais officiellement. Disparu pendant un siècle, projeté deux fois seulement, le film a bénéficié d'une restauration inédite.
-
----
-
-Dans son second film, Dziga Vertov, père du documentaire, couvre les événements de la Guerre Civile en Russie (1918-1922). Le film, disparu mystérieusement, a été retrouvé et recomposé en 2021, l'année de son centenaire, par Nikolai Izvolov.
+En pleine Guerre Civile russe, Vertov filme des figures emblématiques du gouvernement et de l'Armée Rouge, ainsi que la violence et le chaos qui règnent dans le pays, si bien que son documentaire ne sortira jamais officiellement. Disparu pendant un siècle, projeté deux fois seulement, le film a bénéficié d'une restauration inédite.  
+Restauration par Nikolai Izvolov à partir d'une description du film faite par Grigory Boltyansky conservée à l'Archive of Literature and Art in Moscow, et d'éléments du matériel d'origine 35 mm conservés dans différentes archives.
 
 - ve 10 mar 18h00 GF
 
@@ -154,7 +140,7 @@ France / 1934 / 10 min / DCP
 Le Japon, représenté par un soldat, s'approche d'un Chinois et lui coupe un pan de sa tunique symbolisant la Mandchourie. Le Chinois court se plaindre à la Société des nations. Mais celle-ci n'est qu'un décor en carton-pâte.
 
 - ve 10 mar 16h30 GF  
-Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies = Deux amies de votre beauté_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker et suivi de de _L'Idée_ de Berthold Bartosch
+Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker et suivi de de _L'Idée_ de Berthold Bartosch
 
 [154262]  
 **Huilor Le Rayon vert**  
@@ -164,17 +150,17 @@ Publicité de l'huile d'arachide de Rufisque conditionnée à la grande huilerie
 Restauration numérique effectuée par le CNC à partir des négatifs nitrate originaux, image et son conservés et mis à disposition par le BFI.
 
 - ve 10 mar 16h30 GF  
-Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies = Deux amies de votre beauté_ d'Alexandre Alexeieff et suivi de de _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
+Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff et suivi de de _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [46609]  
 **L'Idée**  
 de Berthold Bartosch  
 France / 1932 / 25 min / DCP  
 Sous un ciel étoilé, un homme pense. La silhouette lumineuse d'une femme nue apparaît : c'est l'Idée.  
-Restauration numérique image et son effectuée par le CNC, La cinémathèque suisse et les laboratoires Hiventy, à partir d'une copie originale nitrate conservée et mis à disposition par le BFI, d'un scan réalisé par la Cinémathèque suisse d'une copie originale nitrate issue de leur collection et complétée par un contretype safety 35mm, appartenant à l'AFCA (Association française du cinéma d'animation) ayant droit du film et conservé par le CNC
+Restauration numérique image et son effectuée par le CNC, la Cinémathèque suisse et les laboratoires Hiventy, à partir d'une copie originale nitrate conservée et mis à disposition par le BFI, d'un scan réalisé par la Cinémathèque suisse d'une copie originale nitrate issue de leur collection et complétée par un contretype safety 35mm, appartenant à l'AFCA, ayant droit du film et conservé par le CNC.
 
 - ve 10 mar 16h30 GF  
-Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies = Deux amies de votre beauté_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch
+Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch
 
 [56580]  
 **L'Inconnu**  
@@ -183,7 +169,8 @@ de Tod Browning
 États-Unis / 1927 / 63 min / INT. FR. / DCP  
 D'après le roman _K._ de Mary Roberts Rinehart.  
 Avec Lon Chaney, Joan Crawford, Norman Kerry.  
-Un criminel se réfugie dans un cirque et devient un étonnant lanceur de couteaux. Il tombe rapidement sous le charme de la fille du directeur, que convoite également Malabar, l'homme fort du cirque. Par amour pour elle, il prend une décision extrême.
+Alonzo, lanceur de couteaux dans un cirque, est amoureux de sa partenaire, la fille du directeur, que convoite également le costaud Malabar. Par amour, et pour échapper à la police, il prend une décision extrême.  
+Restauration avec le soutien de la National Film Preservation Foundation, à partir d'une copie restaurée du Eastman Museum et une copie nitrate de la Narodni Filmovy Archiv de Prague.
 
 - di 12 mar 20h30 HL
 
@@ -191,8 +178,9 @@ Un criminel se réfugie dans un cirque et devient un étonnant lanceur de coutea
 **Italia, le feu, la cendre**  
 de Céline Gailleurd, Olivier Bohler  
 France-Italie / 2021 / 93 min / DCP  
+Avec Isabella Rossellini, Fanny Ardant.  
 Un voyage lyrique et visionnaire vers les origines du cinéma muet italien, réalisé à partir de copies nitrates préservées dans les archives de l'Eye Filmmuseum à Amsterdam, la Cineteca Milano, le Museo Nazionale del Cinema, la Cineteca de Bologna, la Cineteca Nazionale, la Cineteca del Friuli, le CNC, l'Istituto Luce et le British Film Institute.  
-Présenté en avant-première de sa sortie en salles le 15 mars par Carlotta Films.
+Présentation en avant-première de sa sortie en salles le 15 mars par Carlotta Films.
 
 - sa 11 mar 15h30 JE
 
@@ -200,9 +188,9 @@ Présenté en avant-première de sa sortie en salles le 15 mars par Carlotta Fil
 **Le Jour des rois**  
 de Marie-Claude Treilhou  
 France / 1990 / 93 min / DCP  
-Avec Danielle Darrieux, Micheline Presle, Paulette Dubost.  
+Avec Danielle Darrieux, Micheline Presle, Paulette Dubost, Michel Galabru.  
 Trois vieilles sœurs se réunissent tous les dimanches. Pour l'épiphanie, le programme est chargé : cimetière, restaurant chinois, galette des rois, puis aller voir une troupe comique du troisième âge dans laquelle joue la quatrième sœur marginale.  
-Scanné et restauré en 4K en 2022 par les Films du Losange, avec le soutien du CNC. Le scan et la restauration image ont été faits par Lobster Films. La restauration du son a été réalisée par Léon Rousseau- L.E. Diapason
+Scan et restauration en 4K en 2022 par les Films du Losange, avec le soutien du CNC, par Lobster Films pour l'image et par Léon Rousseau-L.E. Diapason pour le son.
 
 - je 9 mar 20h00 JE
 
@@ -212,8 +200,8 @@ Scanné et restauré en 4K en 2022 par les Films du Losange, avec le soutien du 
 de Victor Tourjansky  
 Allemagne / 1929 / 111 min / INT. FR. / DCP  
 Avec Ivan Mosjoukine, Brigitte Helm, Heinrich George.  
-Un séducteur parisien tombe amoureux d'une femme de la haute société. Il se met à voler pour payer leur vie de luxe, jusqu'à ce que son passé le rattrape. Le film est inspiré de l'histoire vraie de l'escroc roumain homonyme de la fin du XIXe.  
-Restauré en 2018 par la Friedrich-Wilhelm-Murnau-Stiftung, numérisé en 4K à L'Immagine Ritrovata, à partir de deux négatifs d'origine, et de fragments de copies de post-production. Avec le soutien du Beauftragte der Bundesregierung für Kultur und Medien et du Freunde und Förderer des deutschen Filmerbes e.V.
+Un séducteur parisien tombe amoureux d'une femme de la haute société. Il se met à voler pour payer leur vie de luxe, jusqu'à ce que son passé le rattrape.  
+Restauration en 2018 par la Friedrich-Wilhelm-Murnau-Stiftung, numérisation en 4K à L'Immagine Ritrovata, à partir de deux négatifs d'origine, et de fragments de copies de post-production. Avec le soutien du Beauftragte der Bundesregierung für Kultur und Medien et du Freunde und Förderer des deutschen Filmerbes e.V.
 
 - sa 11 mar 12h00 HO
 
@@ -223,7 +211,7 @@ de Leos Carax
 France / 1986 / 116 min / DCP  
 Avec Denis Lavant, Juliette Binoche, Michel Piccoli.  
 La population parisienne est frappée par un virus tuant ceux qui font l'amour sans s'aimer. Le jeune Alex rejoint une bande de gangsters qui tentent de voler un puissant antidote, mais tombe amoureux d'Anna, la maîtresse de son associé criminel.  
-Restauré par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, la Cinémathèque de Toulouse, l'Institut audiovisuel de Monaco ainsi que le soutien du CNC et de la Maison CHANEL. La restauration a été supervisée par Caroline Champetier. Le film a été numérisé en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022. La restauration numérique a été réalisée par les laboratoires Éclair Classics et Amazing Digital Studios. L'étalonnage a été réalisé par Frédéric Savoir chez Amazing Digital Studios.
+Restauration supervisée par Caroline Champetier, par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, la Cinémathèque de Toulouse, l'Institut audiovisuel de Monaco ainsi que le soutien du CNC et de la Maison CHANEL. Numérisation en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022. Restauration numérique réalisée par les laboratoires Éclair Classics et Amazing Digital Studios. Étalonnage réalisé par Frédéric Savoir chez Amazing Digital Studios.
 
 - di 12 mar 14h00 HL
 
@@ -232,11 +220,21 @@ Restauré par Théo films et la Cinémathèque française, avec l'aide de la Cin
 de Dimitri Kirsanoff  
 France / 1924 / 42 min / INT. FR. / DCP  
 Avec Nadia Sibirskaïa, Yolande Beaulieu, Guy Belmont.  
-Après l'assassinat de leurs parents, deux jeunes sœurs très unies quittent la province pour aller vivre à Paris. Elles y seront séduites par le même jeune homme, et leurs destins se séparent.  
-Restauration 4K menée en 2022 par Lobster Film et la Cinémathèque française, avec le soutien du CNC. Travaux menés au laboratoire Lobster à partir d'une copie nitrate originale teintée du British Film Institute et d'un contretype des collections de la Cinémathèque française. Un plan supplémentaire est extrait d'une copie nitrate fragmentaire de la Cinémathèque française.
+Après l'assassinat de leurs parents, deux jeunes sœurs très unies quittent la province pour Paris. Elles y sont séduites par le même jeune homme, et leurs destins se séparent.  
+Restauration 4K en 2022 par Lobster Film et la Cinémathèque française, avec le soutien du CNC. Travaux menés au laboratoire Lobster à partir d'une copie nitrate originale teintée du BFI et d'un contretype des collections de la Cinémathèque française. Un plan supplémentaire est extrait d'une copie nitrate fragmentaire de la Cinémathèque française.
 
 - di 12 mar 12h00 HO  
 Film précédé de _Brumes d'automne_ de Dimitri Kirsanoff
+
+[128743]  
+**Le Miroir de la sorcière**  
+**(El Espejo de la bruja)**  
+de Chano Urueta  
+Mexique / 1962 / 75 min / VOSTA / DCP  
+Avec Rosita Arenas, Armando Calvo, Isabela Corona, Dina De Marco, Carlos Nieto.  
+Sara est employée domestique chez un docteur fou, enclin au féminicide. Elle est aussi une sorcière, qui communique avec des esprits tout-puissants et rêve de venger la mort de sa filleule, l'ancienne femme de son employeur.
+
+- ve 10 mar 22h00 HL
 
 [74532]  
 **Le Nabab**  
@@ -244,15 +242,7 @@ d'Albert Capellani
 France / 1913 / 55 min / INT. FR. / DCP  
 Avec Pierre Larquey, Léon Bernard, Jean Dax.  
 Le forgeron Bernard Jeansoulet fait vivre, grâce à son travail, son frère Louis et sa mère. Louis trouve un emploi à Paris, où il se laisse griser par l'atmosphère capiteuse, et se retrouve en prison. Désemparé, Bernard décide de quitter le pays.  
-La Cinémathèque française a mené en 2022 la restauration de 7 vues coloriées au pochoir selon le procédé Pathécolor, à partir de copies nitrate conservées dans ses collections. Comme des cartes postales animées, les films montrent plusieurs paysages pittoresques aux couleurs magnifiques, invitant au voyage dans différents sites d'Europe : Clovelly, Copenhague, Alicante, Elche, Grenade et la Creuse. Les travaux numériques 4K ont été réalisés au laboratoire Hiventy en s'attachant à restituer fidèlement les couleurs d'origine.
-
----
-
-Restauré en 4K en 2021 par la Fondation Jérôme Seydoux-Pathé, au laboratoire L'Image Retrouvée Paris-Bologne avec le soutien du Centre national du cinéma et de l'image animée.
-
----
-
-Musique originale composée et interprétée par Bruno Angelini (piano), Vincent Courtois (violoncelle) et Catherine Delaunay (clarinette)
+Restauration en 2021 par la Fondation Jérôme Seydoux-Pathé, avec le soutien du CNC.
 
 - sa 11 mar 12h00 HO  
 Film suivi de _Vues au pochoir : villes d'Europe années 1920 en Pathécolor_ d'Anonyme
@@ -264,7 +254,7 @@ France / 1936 / 1 min / DCP
 Publicité de la crème Simon.
 
 - ve 10 mar 16h30 GF  
-Film suivi d'_Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies = Deux amies de votre beauté_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
+Film suivi d'_Une nuit sur le mont chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [36243]  
 **Le Passage du canyon**  
@@ -289,6 +279,16 @@ En pleine guerre froide, suite une erreur technique, un groupe de bombardiers no
 Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35mm d'origine. Le transfert a été supervisé par Grover Crisp, et le travail de couleur par Sheri Eisenberg et Roundabout Entertainment. La bande sonore mono a été remasterisée à Deluxe à Hollywood, sous la supervision de Bob Simmons.
 
 - me 8 mar 14h00 GF
+
+[43918]  
+**Les Proies du vampire**  
+**(El Vampiro)**  
+de Fernando Méndez  
+Mexique / 1957 / 83 min / VOSTA / DCP  
+Avec Germán Robles, Abel Salazar, Ariadne Welter, Carmen Montejo.  
+Une jeune Mexicaine, revenue dans sa famille pour des funérailles, entend des histoires troublantes : la ville serait infestée de vampires. Rapidement, elle soupçonne sa tante et un mystérieux voisin.
+
+- sa 11 mar 22h00 HL
 
 [36021]  
 **Raging Bull**  
@@ -319,7 +319,7 @@ Avec Isaach de Bankolé, Alex Descas, Jean-Claude Brialy, Solveig Dommartin.
 Dah et Jocelyn, Antillais et Béninois installés illégalement en France, participent à des combats de coqs clandestins organisés par un patron de boîtes de nuit corrompu. Ils entrainent leur coq baptisé « S'en fout la mort ».  
 Une restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Etalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
 
-- sa 11 mar 14h00 GF
+- ve 10 mar 14h00 GF
 
 [50878]  
 **Le Testament du Docteur Cordelier**  
@@ -340,7 +340,7 @@ Au temps des tsars, magiciennes et enchanteurs se réunissent pendant le solstic
 Restauration numérique image et son effectuée par le CNC à partir d'une copie originale nitrate conservées et mis à disposition par le BFI et complétée par une copie originale nitrate conservée par le CNC
 
 - ve 10 mar 16h30 GF  
-Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff et suivi de de _Deux amies = Deux amies de votre beauté_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
+Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff et suivi de de _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [85386]  
 **Up in Mabel's Room**  
@@ -360,7 +360,7 @@ Avec Mahdi Chaouch, Anouk Ferjac, Ivan Henriques.
 Dans l'Espagne franquiste, le jeune Fando découvre que sa mère, fervente catholique, a dénoncé son père aux autorités en l'accusant d'athéisme et d'antifascisme. Déchiré, Fando est pris de visions cruelles, violentes et sensuelles.  
 Restauré en 4K en 2022 par la Cinémathèque de Toulouse en collaboration avec Fernando Arrabal, à partir du négatif 35mm d'origine, et d'un élément interpositif 35mm. Les travaux de restauration du son ont été réalisés par le studio L.E. Diapason. Avec le soutien du Ministère des Affaires Culturelles tunisien et de l'Association Ciné-Sud Patrimoine.
 
-- sa 11 mar 20h45 GF
+- sa 11 mar 21h00 GF
 
 [154311]  
 **Vues au pochoir : villes d'Europe années 1920 en Pathécolor**  
@@ -370,4 +370,10 @@ La Cinémathèque française a mené en 2022 la restauration de 7 vues coloriée
 
 - sa 11 mar 12h00 HO  
 Film précédé de _Le Nabab_ d'Albert Capellani
+
+## Rencontres et conférences
+
+**Rencontre avec Leos Carax**
+
+- di 12 mar 16h00 HL
 

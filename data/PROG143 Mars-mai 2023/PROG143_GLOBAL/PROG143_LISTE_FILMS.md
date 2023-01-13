@@ -84,7 +84,7 @@
 ## Jeune public (15)
 
   * Docteur Jerry et Mister Love  
-  * E.T. l'extra-terrestre  
+  * E.T., l'extra-terrestre  
   * Fenêtre sur cour  
   * Jason et les Argonautes  
   * Jour de fête  
@@ -94,9 +94,9 @@
   * Pinocchio  
   * Ponyo sur la falaise  
   * Tex Avery Follies  
-  * Trois âges (Les)  
+  * Trois Âges (Les)  
   * Un Américain à Paris  
-  * Wallace et Gromit : Les inventuriers  
+  * Wallace et Gromit : Les Inventuriers  
   * Zazie dans le métro
 
 ## L'image des plaisirs (98)
