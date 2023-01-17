@@ -35,7 +35,7 @@ Sam découvre que ses parents ont été l'objet d'expériences atomiques dans le
 
 ## Rencontres et conférences
 
-**discussion avec Kiyoshi Kurosawa**  
+**Masterclass Kiyoshi Kurosawa**  
 Rencontre animée par Jean-François Rauger
 
 - sa 11 mar 19h00 HL  

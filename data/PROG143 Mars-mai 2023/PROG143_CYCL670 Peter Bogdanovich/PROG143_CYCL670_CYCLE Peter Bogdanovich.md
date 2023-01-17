@@ -37,7 +37,7 @@ Le directeur d'une compagnie théâtrale rencontre des difficultés avec sa dern
 **La Cible**  
 **(Targets)**  
 de Peter Bogdanovich  
-États-Unis / 1968 / VOSTF / 35 mm  
+États-Unis / 1968 / 104 min / VOSTF / 35 mm  
 Avec Boris Karloff, Tim O'Kelly, Arthur Peterson, Peter Bogdanovich.  
 Tandis que l'acteur Byron Orlok annonce sa retraite au grand désespoir du réalisateur Sammy Michaels, un jeune homme, assureur et vétéran du Vietnam, se prépare à commettre une série de meurtres.
 
@@ -190,7 +190,7 @@ Avec Kirsten Dunst, Cary Elwes, Edward Herrmann.
 [84326]  
 **Voyage to the Planet of Prehistoric Women**  
 de Peter Bogdanovich  
-États-Unis / 1968 / 78 min / Vidéo  
+États-Unis / 1968 / 78 min / VOSTF / Vidéo  
 Avec Mamie Van Doren, Mary Marr, Paige Lee.  
 Des astronautes atterrissent sur Vénus, y affrontent des créatures dangereuses et y rencontrent de séduisantes vénusiennes.  
 Remontage d'un film de science-fiction soviétique (_La Planète des tempêtes_) par les producteurs de Roger Corman, augmenté de séquences avec des acteurs américains.

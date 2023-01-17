@@ -51,7 +51,7 @@ Avec Tommy Lee Jones, Javier Bardem, Josh Brolin.
 Découvrant une camionnette abandonnée et cernée de cadavres, Llewelyn Moss vole les 2 millions de dollars qui se trouvent à l'intérieur. Anton Chigurh, un tueur psychopathe, se lance alors à sa poursuite et déclenche une chasse à l'homme des plus sanglantes.
 
 - je 9 mar 19h00 HL  
-Voir aussi dialogue p. xx
+Voir aussi conversation p. xx
 
 [152050]  
 **The Tragedy of Macbeth**  
@@ -62,7 +62,7 @@ Avec Denzel Washington, Frances McDormand, Brendan Gleeson.
 Un seigneur écossais est convaincu par un trio de sorcières qu'il deviendra le prochain roi d'Écosse. Son ambitieuse épouse le soutient dans ses plans pour prendre le pouvoir.
 
 - ve 10 mar 19h30 HL  
-Voir aussi dialogue p. xx
+Voir aussi conversation p. xx
 
 ## Carte blanche à Joel Coen
 
@@ -83,7 +83,7 @@ Rencontre animée par Pauline de Raymond
 - je 9 mar 19h00 HL  
 À la suite de la projection de _No Country for Old Men_ de Joel Coen, Ethan Coen (voir p. xx)
 
-**The tragedy of Macbeth + discussion avec Joel Coen et runo Delbonnel**
+**The tragedy of Macbeth + discussion avec Joel Coen et Bruno Delbonnel**
 
 - ve 10 mar 19h30 HL  
 À la suite de la projection de _The Tragedy of Macbeth_ de Joel Coen (voir p. xx)

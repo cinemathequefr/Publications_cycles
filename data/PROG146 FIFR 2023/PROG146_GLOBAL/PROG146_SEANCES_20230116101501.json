@@ -24,8 +24,8 @@
     "hashEvenement": "f143662"
   },
   {
-    "idSeance": 92414,
-    "idEvenement": 27622,
+    "idSeance": 92382,
+    "idEvenement": 27637,
     "dateHeure": "2023-03-08T14:00:00",
     "salle": "GF",
     "cycle": [
@@ -34,18 +34,18 @@
         "Les films"
       ]
     ],
-    "mention": "Accompagnement musical par Tessa Pontaud. Séance présentée par Claire Denis",
     "items": [
       {
-        "idFilm": 57342,
-        "titre": "S'en fout la mort",
-        "realisateurs": "Claire Denis",
-        "annee": 1990,
-        "duree": 91,
+        "idFilm": 34796,
+        "titre": "Point limite",
+        "realisateurs": "Sidney Lumet",
+        "annee": 1963,
+        "duree": 112,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f57342"
+    "hashEvenement": "f34796"
   },
   {
     "idSeance": 92883,
@@ -72,8 +72,8 @@
     "hashEvenement": "f58042"
   },
   {
-    "idSeance": 92382,
-    "idEvenement": 27637,
+    "idSeance": 92452,
+    "idEvenement": 27631,
     "dateHeure": "2023-03-08T16:30:00",
     "salle": "GF",
     "cycle": [
@@ -84,16 +84,17 @@
     ],
     "items": [
       {
-        "idFilm": 34796,
-        "titre": "Point limite",
-        "realisateurs": "Sidney Lumet",
-        "annee": 1963,
-        "duree": 112,
+        "idFilm": 36243,
+        "titre": "Passage du canyon",
+        "art": "Le",
+        "realisateurs": "Jacques Tourneur",
+        "annee": 1946,
+        "duree": 92,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f34796"
+    "hashEvenement": "f36243"
   },
   {
     "idSeance": 92984,
@@ -412,7 +413,7 @@
       {
         "idConf": 27893,
         "titre": "No country for old men + Discussion Joel Coen et Roger Deakins",
-        "typeConference": "Conversation",
+        "typeConference": "Dialogue",
         "duree": 90
       }
     ],
@@ -467,6 +468,29 @@
     "hashEvenement": "f45643"
   },
   {
+    "idSeance": 92414,
+    "idEvenement": 27622,
+    "dateHeure": "2023-03-10T14:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 57342,
+        "titre": "S'en fout la mort",
+        "realisateurs": "Claire Denis",
+        "annee": 1990,
+        "duree": 91,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f57342"
+  },
+  {
     "idSeance": 96788,
     "idEvenement": 27826,
     "dateHeure": "2023-03-10T14:00:00",
@@ -485,35 +509,10 @@
         "annee": 1988,
         "duree": 115,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f34786"
-  },
-  {
-    "idSeance": 92452,
-    "idEvenement": 27631,
-    "dateHeure": "2023-03-10T14:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36243,
-        "titre": "Passage du canyon",
-        "art": "Le",
-        "realisateurs": "Jacques Tourneur",
-        "annee": 1946,
-        "duree": 92,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f36243"
   },
   {
     "idSeance": 92449,
@@ -542,8 +541,8 @@
       },
       {
         "idConf": 27896,
-        "titre": "Conservatoire : Masterclass Roger Deakins",
-        "typeConference": "MasterClass",
+        "titre": "Conservatoire : dialogue avec Roger Deakins",
+        "typeConference": "Dialogue",
         "duree": 90
       }
     ],
@@ -741,8 +740,8 @@
       },
       {
         "idConf": 27894,
-        "titre": "The tragedy of Macbeth + discussion avec Joel Coen et Bruno Delbonnel",
-        "typeConference": "Conversation",
+        "titre": "The tragedy of Macbeth + discussion avec Joel Coen et runo Delbonnel",
+        "typeConference": "Dialogue",
         "duree": 90
       }
     ],
@@ -822,7 +821,7 @@
         "realisateurs": "Chano Urueta",
         "annee": 1962,
         "duree": 75,
-        "version": "VOSTF",
+        "version": "VOSTA",
         "format": "DCP"
       }
     ],
@@ -1158,7 +1157,7 @@
       },
       {
         "idConf": 27897,
-        "titre": "Masterclass Kiyoshi Kurosawa",
+        "titre": "discussion avec Kiyoshi Kurosawa",
         "typeConference": "Dialogue",
         "duree": 90
       }
@@ -1231,7 +1230,7 @@
         "realisateurs": "Fernando Méndez",
         "annee": 1957,
         "duree": 83,
-        "version": "VOSTF",
+        "version": "VOSTA",
         "format": "DCP"
       }
     ],

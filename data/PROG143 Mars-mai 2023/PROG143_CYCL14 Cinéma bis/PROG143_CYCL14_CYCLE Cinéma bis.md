@@ -97,7 +97,7 @@ Film réalisé sous le pseudonyme de Terence Hathaway.
 [38734]  
 **Carré de dames pour un as**  
 de Jacques Poitrenaud  
-France-Espagne-Italie / 1966 / 95 min / VF / 35 mm  
+France-Espagne-Italie / 1966 / 95 min / 35 mm  
 Avec Roger Hanin, Sylva Koscina, Catherine Allégret.  
 L'agent Dan Layton est envoyé en Espagne sur les traces du redoutable Hakim Gregory, responsable du démantèlement d'un réseau d'espionnage français. Il découvre son repaire, une maison de couture tenue par sa maîtresse, Dolores.
 

@@ -6,7 +6,7 @@
 **À bout de course**  
 **(Running on Empty)**  
 de Sidney Lumet  
-États-Unis / 1988 / 115 min / VOSTF / 35 mm  
+États-Unis / 1988 / 115 min / VOSTF / DCP  
 Avec River Phoenix, Judd Hirsch, Christine Lahti, Martha Plimpton.  
 Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie.  
 Restauration avec le soutien de la National Film Preservation Foundation, à partir d'une copie restaurée du Eastman Museum et une copie nitrate de la Narodni Filmovy Archiv de Prague.
@@ -229,7 +229,7 @@ Film précédé de _Brumes d'automne_ de Dimitri Kirsanoff
 **Le Miroir de la sorcière**  
 **(El Espejo de la bruja)**  
 de Chano Urueta  
-Mexique / 1962 / 75 min / VOSTA / DCP  
+Mexique / 1962 / 75 min / VOSTF / DCP  
 Avec Rosita Arenas, Armando Calvo, Isabela Corona, Dina De Marco, Carlos Nieto.  
 Sara est employée domestique chez un docteur fou, enclin au féminicide. Elle est aussi une sorcière, qui communique avec des esprits tout-puissants et rêve de venger la mort de sa filleule, l'ancienne femme de son employeur.
 
@@ -265,7 +265,7 @@ Avec Dana Andrews, Susan Hayward, Brian Donlevy, Hoggy Carmichael.
 En 1856, Logan Stuart escorte la fiancée de son ami vers Jacksonville dans l'Oregon. Au fil du voyage, ils s'éprennent l'un de l'autre.  
 Restauration en 4K par Cassandra Moor de Universal Picture, en collaboration avec The Film Fondation, au laboratoire Universal Studio Post. Consultation de Martin Scorsese et Steven Spielberg pour la restauration.
 
-- me 8 mar 16h30 GF
+- ve 10 mar 14h30 GF
 
 [34796]  
 **Point limite**  
@@ -277,13 +277,13 @@ Avec Walter Matthau, Henry Fonda, Dan O'Herlihy.
 En pleine guerre froide, à la suite d'une erreur technique, un groupe de bombardiers nord-américains reçoit l'ordre de lancer une attaque nucléaire contre Moscou.  
 Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35 mm d'origine. Transfert supervisé par Grover Crisp, travail de couleur effectué par Sheri Eisenberg et Roundabout Entertainment. Bande sonore mono remasterisée à Deluxe (Hollywood), sous la supervision de Bob Simmons.
 
-- me 8 mar 14h00 GF
+- me 8 mar 16h30 GF
 
 [43918]  
 **Les Proies du vampire**  
 **(El Vampiro)**  
 de Fernando Méndez  
-Mexique / 1957 / 83 min / VOSTA / DCP  
+Mexique / 1957 / 83 min / VOSTF / DCP  
 Avec Germán Robles, Abel Salazar, Ariadne Welter, Carmen Montejo.  
 Une jeune Mexicaine, revenue dans sa famille pour des funérailles, entend des histoires troublantes : la ville serait infestée de vampires. Rapidement, elle soupçonne sa tante et un mystérieux voisin.
 
@@ -318,7 +318,8 @@ Avec Isaach de Bankolé, Alex Descas, Jean-Claude Brialy, Solveig Dommartin.
 Dah et Jocelyn, Antillais et Béninois installés illégalement en France, participent à des combats de coqs clandestins organisés par un patron de boîtes de nuit corrompu. Ils entraînent leur animal, baptisé « S'en fout la mort ».  
 Restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Étalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
 
-- ve 10 mar 14h00 GF
+- me 8 mar 14h00 GF  
+Accompagnement musical par Tessa Pontaud. Séance présentée par Claire Denis
 
 [50878]  
 **Le Testament du Docteur Cordelier**  

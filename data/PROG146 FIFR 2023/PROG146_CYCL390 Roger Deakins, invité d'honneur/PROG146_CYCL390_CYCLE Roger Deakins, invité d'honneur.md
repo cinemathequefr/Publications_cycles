@@ -19,11 +19,11 @@ Avec Emily Blunt, Benicio Del Toro, Josh Brolin.
 L'agent spécial Kate Macy se porte volontaire pour intégrer une équipe internationale qui doit s'attaquer à un baron de la drogue.
 
 - ve 10 mar 14h30 HL  
-Voir aussi dialogue p. xx
+Voir aussi masterclass p. xx
 
 ## Rencontres et conférences
 
-**Conservatoire : dialogue avec Roger Deakins**  
+**Conservatoire : Masterclass Roger Deakins**  
 Rencontre animée par Laurent Mannoni
 
 - ve 10 mar 14h30 HL  

@@ -2,9 +2,32 @@
   {
     "idCategorie": 2937,
     "typeEvenement": 13,
+    "idEvenement": 27622,
+    "idSeance": 92414,
+    "dateHeure": "2023-03-08T14:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 57342,
+        "ordre": 1,
+        "idSeance": 92414,
+        "idCopie": 25414,
+        "duree": 91,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Accompagnement musical par Tessa Pontaud. Séance présentée par Claire Denis"
+  },
+  {
+    "idCategorie": 2937,
+    "typeEvenement": 13,
     "idEvenement": 27637,
     "idSeance": 92382,
-    "dateHeure": "2023-03-08T14:00:00",
+    "dateHeure": "2023-03-08T16:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -16,28 +39,6 @@
         "idSeance": 92382,
         "idCopie": 25441,
         "duree": 112,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2937,
-    "typeEvenement": 13,
-    "idEvenement": 27631,
-    "idSeance": 92452,
-    "dateHeure": "2023-03-08T16:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 36243,
-        "ordre": 1,
-        "idSeance": 92452,
-        "idCopie": 25439,
-        "duree": 92,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -222,28 +223,6 @@
   {
     "idCategorie": 2937,
     "typeEvenement": 13,
-    "idEvenement": 27622,
-    "idSeance": 92414,
-    "dateHeure": "2023-03-10T14:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 57342,
-        "ordre": 1,
-        "idSeance": 92414,
-        "idCopie": 25414,
-        "duree": 91,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2937,
-    "typeEvenement": 13,
     "idEvenement": 27826,
     "idSeance": 96788,
     "dateHeure": "2023-03-10T14:00:00",
@@ -259,7 +238,29 @@
         "idCopie": 20137,
         "duree": 115,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2937,
+    "typeEvenement": 13,
+    "idEvenement": 27631,
+    "idSeance": 92452,
+    "dateHeure": "2023-03-10T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 36243,
+        "ordre": 1,
+        "idSeance": 92452,
+        "idCopie": 25439,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },

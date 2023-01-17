@@ -439,7 +439,8 @@ de Noël Godin
 Belgique / 1975 / 14 min / Numérique  
 Des ouvriers transforment leur usine en lieu de plaisir, abolissant à la fois le patronat et le prolétariat pour « organiser la mort du travail et réaliser leurs rêves les plus carabinés. Une œuvre flibustière. » (Jean-Pierre Bouyxou)
 
-- me 17 mai 19h30 JE
+- me 17 mai 19h30 JE  
+Séance présentée par Xavier Garcia Bardón
 
 ## Séance 10 : Connie Beeson. Les filles de feu
 

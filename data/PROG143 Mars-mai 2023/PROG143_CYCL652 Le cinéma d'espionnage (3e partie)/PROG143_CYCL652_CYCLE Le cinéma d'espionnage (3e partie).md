@@ -100,7 +100,7 @@ Voir aussi dialogue p. xx
 **L'Homme qui n'a jamais existé**  
 **(The Man Who Never Was)**  
 de Ronald Neame  
-Grande-Bretagne-États-Unis / 1956 / 103 min / VOSTF  
+Grande-Bretagne-États-Unis / 1956 / 103 min / VOSTF / 16 mm  
 Avec Clifton Webb, Gloria Grahame, Robert Flemyng, Cyril Cusack.  
 Pour préparer leur débarquement en Sicile, les Alliés cherchent à tromper l'ennemi : le cadavre d'un officier britannique est retrouvé sur une plage espagnole avec des documents évoquant un faux projet en Sardaigne et dans les Balkans.
 
