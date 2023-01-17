@@ -23,7 +23,7 @@ Voir aussi masterclass p. xx
 
 ## Rencontres et conférences
 
-**Conservatoire : Masterclass Roger Deakins**  
+**Master class de Roger Deakins**  
 Rencontre animée par Laurent Mannoni
 
 - ve 10 mar 14h30 HL  
