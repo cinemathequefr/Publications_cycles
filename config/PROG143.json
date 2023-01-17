@@ -3,13 +3,25 @@
   "titre": "Mars-mai 2023",
   "cycles": [
     {
+      "idCycleProg": 11,
+      "isReg": true,
+      "titreCycle": "Séances spéciales",
+      "sousCycles": [
+        {
+          "titre": "Avant-première",
+          "cats": [2990],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 14,
       "isReg": true,
       "titreCycle": "Cinéma bis",
       "sousCycles": [
         {
-          "titre": "Espionnage pop à la française",
-          "cats": [2967],
+          "titre": "Raretés de l'espionnage",
+          "cats": [2971],
           "tri": 4
         },
         {
@@ -28,8 +40,8 @@
           "tri": 4
         },
         {
-          "titre": "Raretés de l'espionnage",
-          "cats": [2971],
+          "titre": "Espionnage pop à la française",
+          "cats": [2967],
           "tri": 4
         }
       ]

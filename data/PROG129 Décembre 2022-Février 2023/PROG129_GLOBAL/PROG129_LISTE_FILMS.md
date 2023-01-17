@@ -400,7 +400,7 @@
   * Troie  
   * Zodiac
 
-## Séances spéciales (10)
+## Séances spéciales (11)
 
   * Irma Vep, épisode 1 : La Tête coupée  
   * Irma Vep, épisode 2 : La Bague qui tue  
@@ -412,3 +412,4 @@
   * Irma Vep, épisode 8 : Les Noces sanglantes  
   * Jean-Marie Lavalou, itinéraire d'un aventurier, iconoclaste et poète  
   * Kiosque (Le)  
+  * Montagne (La)  

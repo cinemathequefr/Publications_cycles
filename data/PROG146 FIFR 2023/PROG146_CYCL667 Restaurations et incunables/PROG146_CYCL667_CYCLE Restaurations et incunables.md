@@ -67,8 +67,7 @@ Italie-France / 1963 / 89 min / VOSTF / DCP
 D'après le roman _Danse macabre_ d'Edgar Allan Poe.  
 Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.  
 Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
-Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque.<br>
-La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
+Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
 
 - je 9 mar 21h00 GF
 
@@ -88,18 +87,18 @@ de Robert Bresson
 France / 1976 / 95 min / DCP  
 Avec Antoine Monnier, Tina Irissari, Henri de Maublanc.  
 Quatre adolescents en révolte forment un petit groupe écologiste qui se préoccupe de l'avenir du monde. Michel, militant, cherche à lutter avec ses modestes moyens, tandis que Charles, dégouté par la société, refuse l'engagement.  
-Restauration en 4K par Gaumont au laboratoire Eclair.
+Restauration en 4K par Gaumont au laboratoire Éclair.
 
 - je 9 mar 17h00 HL
 
 [43206]  
-**Le Dieu noir et le Diable blond**  
+**Le Dieu noir et le diable blond**  
 **(Deus e o diablo na terra do sol)**  
 de Glauber Rocha  
 Brésil / 1963 / 123 min / VOSTF / DCP  
 Avec Geraldo del Rey, Yoná Magalhães, Maurício do Valle, Othon Bastos.  
 Un couple de paysans brésiliens, touché par la misère, est prêt à se compromettre pour s'en sortir. Ils s'en remettent à deux personnages violents et mystiques, symbolisant la révolte : une incarnation de Dieu et l'autre du Diable.  
-Restauration 4K conduite par Métropoles, Lino Meireles et Paloma Cinematografica à partir du négatif 35 mm original conservé à la Cinemateca Brasileira. Travaux réalisés par les Estudios Colors et Estudios JLS, les cinéastes Luis Abramo et Rogerio Moraes, sous la direction de Rodrigo Mercês. Ressortie en salles au troisième trimestre 2023 par Capricci.
+Restauration 4K conduite par Metrópoles, Lino Meireles et Paloma Cinematográfica à partir du négatif 35 mm original conservé à la Cinemateca brasileira. Travaux réalisés par Estúdio Colors et Estúdio JLS, les cinéastes Luís Abramo et Rogério Moraes, sous la direction de Rodrigo Mercês. Ressortie en salles au troisième trimestre 2023 par Capricci.
 
 - sa 11 mar 14h00 GF
 
@@ -170,7 +169,7 @@ de Tod Browning
 D'après le roman _K._ de Mary Roberts Rinehart.  
 Avec Lon Chaney, Joan Crawford, Norman Kerry.  
 Alonzo, lanceur de couteaux dans un cirque, est amoureux de sa partenaire, la fille du directeur, que convoite également le costaud Malabar. Par amour, et pour échapper à la police, il prend une décision extrême.  
-Restauration avec le soutien de la National Film Preservation Foundation, à partir d'une copie restaurée du Eastman Museum et une copie nitrate de la Narodni Filmovy Archiv de Prague.
+Restauration avec le soutien de la National Film Preservation Foundation, à partir d'une copie restaurée du Eastman Museum et une copie nitrate de la Národní Filmový Archiv de Prague.
 
 - di 12 mar 20h30 HL
 
@@ -316,8 +315,8 @@ Restauration 4K en 2022 par Les Films du Panthéon, avec le soutien du CNC et de
 de Claire Denis  
 France / 1990 / 91 min / DCP  
 Avec Isaach de Bankolé, Alex Descas, Jean-Claude Brialy, Solveig Dommartin.  
-Dah et Jocelyn, Antillais et Béninois installés illégalement en France, participent à des combats de coqs clandestins organisés par un patron de boîtes de nuit corrompu. Ils entraînent leur animal baptisé « &nbsp;S'en fout la mort&nbsp; ».  
-Restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Etalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
+Dah et Jocelyn, Antillais et Béninois installés illégalement en France, participent à des combats de coqs clandestins organisés par un patron de boîtes de nuit corrompu. Ils entraînent leur animal, baptisé « S'en fout la mort ».  
+Restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Étalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
 
 - ve 10 mar 14h00 GF
 

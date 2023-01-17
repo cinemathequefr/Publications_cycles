@@ -237,9 +237,9 @@
   * Espion(s)  
   * Espions s'amusent (Les)  
   * Fräulein Doktor  
-  * Guet-apens  
   * Homme qui en savait trop (L')  
   * Homme qui n'a jamais existé (L')  
+  * Il faut tuer Birgitt Haas  
   * Jeu du faucon (Le)  
   * Maldonne pour un espion  
   * Mes funérailles à Berlin  

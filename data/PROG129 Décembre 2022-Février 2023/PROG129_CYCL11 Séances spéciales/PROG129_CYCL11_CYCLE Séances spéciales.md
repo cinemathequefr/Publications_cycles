@@ -117,4 +117,15 @@ Le 15 juillet 2022 disparaissait Jean-Marie Lavalou, cocréateur avec Alain Mass
 - lu 19 déc 18h30 GF  
 À la suite de la projection de _Jean-Marie Lavalou, itinéraire d'un aventurier, iconoclaste et poète_ de Dominique Maillet (voir p. xx)
 
+## Avant-première
+
+[154303]  
+**La Montagne**  
+de Thomas Salvador  
+France / 2022 / 112 min / DCP  
+Avec Thomas Salvador, Louise Bourgoin, Martine Chevallier, Laurent Poitrenaux, Andranic Manet.  
+Pierre, ingénieur parisien, se rend dans les Alpes pour son travail. Irrésistiblement attiré par les montagnes, il s'installe un bivouac en altitude et décide de ne plus redescendre. Là-haut, il fait la rencontre de Léa et découvre de mystérieuses lueurs.
+
+- lu 16 jan 20h00 HL
+
 Remerciements : Tali Gai, aaa Production (Mathieu Lamotte), Baba Yaga Films (Jean-Marc Zekri), Eugénie Zvonkine, Odessa Film Studio – Firma Budushee (Olga Neverko), Les Films du Losange.

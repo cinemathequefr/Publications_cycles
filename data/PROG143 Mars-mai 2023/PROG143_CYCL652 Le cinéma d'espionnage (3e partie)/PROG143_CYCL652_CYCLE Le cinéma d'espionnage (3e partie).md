@@ -85,17 +85,6 @@ Pendant la Première Guerre mondiale, « Fräulein Doktor », une espionne allem
 
 - di 2 avr 14h30 HL
 
-[45051]  
-**Guet-apens**  
-**(The Conspirator)**  
-de Victor Saville  
-Grande-Bretagne / 1948 / 85 min / VOSTF / 35 mm  
-D'après le roman _The Conspirator_ de Humphrey Slater.  
-Avec Elizabeth Taylor, Robert Taylor, Honor Blackman.  
-À Londres, une jeune Américaine s'éprend d'un officier de la garde britannique. Mais peu après leur mariage, elle découvre que son époux est un espion à la solde de l'Union soviétique.
-
-- sa 1 avr 15h00 GF
-
 [45885]  
 **L'Homme qui en savait trop**  
 **(The Man Who Knew Too Much)**  
@@ -114,6 +103,16 @@ de Ronald Neame
 Grande-Bretagne-États-Unis / 1956 / 103 min / VOSTF  
 Avec Clifton Webb, Gloria Grahame, Robert Flemyng, Cyril Cusack.  
 Pour préparer leur débarquement en Sicile, les Alliés cherchent à tromper l'ennemi : le cadavre d'un officier britannique est retrouvé sur une plage espagnole avec des documents évoquant un faux projet en Sardaigne et dans les Balkans.
+
+- sa 1 avr 15h00 GF
+
+[49186]  
+**Il faut tuer Birgitt Haas**  
+de Laurent Heynemann  
+France-RFA / 1981 / 103 min / 35 mm  
+D'après le roman _L'Histoire de Birgit Haas_ de Guy Teisseire.  
+Avec Philippe Noiret, Jean Rochefort, Lisa Kreuzer.  
+Athanase, le chef des services secrets français, est chargé de supprimer Birgitt Haas, une ex-terroriste allemande.
 
 - sa 8 avr 14h30 GF
 

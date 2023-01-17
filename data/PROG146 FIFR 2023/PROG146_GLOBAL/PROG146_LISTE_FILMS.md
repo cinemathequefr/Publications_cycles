@@ -58,7 +58,7 @@
   * Danse macabre  
   * Deux amies  
   * Diable probablement (Le)  
-  * Dieu noir et le Diable blond (Le)  
+  * Dieu noir et le diable blond (Le)  
   * Fin d'été  
   * Folies de femmes  
   * Histoire de la guerre civile  
