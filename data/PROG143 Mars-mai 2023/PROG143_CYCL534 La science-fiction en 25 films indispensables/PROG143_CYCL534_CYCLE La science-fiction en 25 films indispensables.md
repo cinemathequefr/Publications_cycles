@@ -35,7 +35,7 @@ Dans un futur proche, l'astronaute Roy McBride a pour mission de trouver une sol
 [40965]  
 **Aelita**  
 de Yakov Protazanov  
-URSS / 1924 / 111 min / INT. FR. / DCP  
+URSS / 1924 / 111 min / STF / DCP  
 Avec Ioulia Solntseva, Nikolaï Batalov, Konstantin Eggert, Igor Ilinski.  
 L'ingénieur Los réceptionne un curieux message qui semble venir de l'espace. Déçu par sa femme Natasha qui se laisse séduire par la bourgeoisie russe, il rêve de la planète Mars et imagine une société totalitaire où il pourrait mener la révolution et tomber amoureux de la reine Aelita.
 

@@ -357,7 +357,13 @@
   * Superman 3  
   * Terreur sur le Britannic  
   * Trois Mousquetaires (Les)  
-  * Ultime garconnière (L')
+  * Ultime garçonnière (L')
+
+## Séances spéciales (3)
+
+  * Hunt  
+  * Sur l'Adamant  
+  * Vertiges
 
 ## Warner Bros., fabrique de stars (38)
 

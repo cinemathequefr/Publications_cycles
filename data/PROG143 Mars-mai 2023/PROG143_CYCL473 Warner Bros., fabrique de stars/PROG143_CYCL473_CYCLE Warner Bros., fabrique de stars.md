@@ -105,8 +105,8 @@ D'après la pièce _Everybody Comes to Rick's_ de Murray Burnett et Joan Alison.
 Avec Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains.  
 Pendant la Seconde Guerre mondiale, le cabaret le plus couru de Casablanca est tenu par Rick, un Américain en exil. Un soir arrive parmi ses clients son ancien amour, Ilsa, accompagnée de son époux.
 
-- sa 22 avr 18h30 HL  
-Séance présentée par Serge Chauvin  
+- me 5 avr 20h00 HL  
+Ouverture de la rétrospective  
 - di 7 mai 17h30 GF
 
 [31385]  
@@ -180,6 +180,7 @@ de Lloyd Bacon
 Avec Bette Davis, Humphrey Bogart, Lola Lane.  
 La lutte du procureur David Graham pour condamner Johnny Vanning, le patron véreux d'un night-club à hôtesses.
 
+- sa 22 avr 18h30 HL  
 - je 4 mai 18h15 GF
 
 [60248]  

@@ -114,7 +114,8 @@ D'après le roman _L'Histoire de Birgit Haas_ de Guy Teisseire.
 Avec Philippe Noiret, Jean Rochefort, Lisa Kreuzer.  
 Athanase, le chef des services secrets français, est chargé de supprimer Birgitt Haas, une ex-terroriste allemande.
 
-- sa 8 avr 14h30 GF
+- sa 8 avr 14h30 GF  
+Séance présentée par Laurent Heynemann
 
 [34939]  
 **Le Jeu du faucon**  

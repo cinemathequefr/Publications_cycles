@@ -30,7 +30,7 @@ Avec Franco Citti, Franca Pasut, Silvana Corsini.
 Un souteneur de la banlieue de Rome perd son gagne-pain quand sa protégée est mise en prison. Il fait alors la connaissance de l'innocente Stella.  
 Retour après 25 ans d'exil du républicain Buñuel dans l'Espagne de Franco du début des années 60. Ironie dévastatrice à propos de la bonté qui pousse au crime et première sublime méditation sur la vieillesse, avec le double Fernando Rey. (Frédéric Bonnaud)
 
-- me 5 avr 19h00 HL
+- lu 3 avr 19h00 HL
 
 [36834]  
 **La Soif du mal**  
