@@ -48,7 +48,7 @@ Kym, une actrice australienne, part seule visiter la Bosnie. À son retour, elle
 de Louise Traon  
 France / 2013 / 58 min / Numérique  
 Avec Luís Miguel Cintra, Valérie Loiseleux, Mariana Guerreiro.  
-La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film de Manoel de Oliveira, _L'Étrange affaire Angélica_. Dans les salles de montage commence un voyage intérieur, parmi les souvenirs de ce cinéma avec lequel elle a grandi.
+La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film de Manoel de Oliveira, _L'Étrange Affaire Angélica_. Dans les salles de montage commence un voyage intérieur, parmi les souvenirs de ce cinéma avec lequel elle a grandi.
 
 - ve 19 mai 21h00 GF  
 Séance présentée par Louise Traon  
@@ -196,3 +196,4 @@ Yann Dedet a monté deux des trois films réalisés par Jean-François Stévenin
 - sa 13 mai 14h30 HL  
 À la suite de la projection de _Passe montagne_ de Jean-François Stévenin (voir p. xx)
 
+Remerciements : Ad Vitam, Agence du Court Métrage, Archives françaises du film, Capricci Films, Carlotta Films, Cinémathèque de Toulouse, Deutsches Filminstitut, Le Pacte, Les Films de L'Atalante, Pyramide Distribution, Tamasa Distribution

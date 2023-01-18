@@ -274,7 +274,7 @@
   * Fille au pistolet (La)  
   * Gendarmes et Voleurs  
   * Grande Guerre (La)  
-  * Haute Infidélité  
+  * Infidèles (Les)  
   * Larmes de joie  
   * Male oscuro (Il)  
   * Marquis s'amuse (Le)  

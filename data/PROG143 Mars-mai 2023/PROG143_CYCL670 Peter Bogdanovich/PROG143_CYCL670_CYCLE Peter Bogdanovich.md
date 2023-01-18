@@ -103,7 +103,7 @@ Documentaire sur la vie et l'œuvre de Buster Keaton.
 de Peter Bogdanovich  
 États-Unis / 1988 / 102 min / VOSTF / Vidéo  
 Avec Rob Lowe, Colleen Camp, Kenneth Mars.  
-Richard Dice est appelé pour faire partie d'un jury lors d'un procès pour meurtre. L'accusée n'est autre que son premier amour.
+Richard Dice est appelé pour faire partie du jury lors d'un procès pour meurtre. L'accusée n'est autre que son premier amour.
 
 - di 16 avr 20h00 GF
 
@@ -220,3 +220,4 @@ Jean-Baptiste Thoret est cinéaste (_We Blew It,_ 2017 ; _Dario Argento : Soupir
 - sa 22 avr 14h30 HL  
 À la suite de la projection de _Saint Jack_ de Peter Bogdanovich (voir p. xx)
 
+Remerciements : Archives audiovisuelles de Monaco, Cinémathèque du Luxembourg, Harry Guero, Harvard Film Archive, Metropolitan Film Export, Paramount Films, Park Circus, UCLA Film & Television Archive, Warner Bros Picture France.

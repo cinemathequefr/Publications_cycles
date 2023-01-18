@@ -424,3 +424,4 @@ Murielle Joudet est critique de cinéma au _Monde,_ elle participe à l'émissio
 - me 19 avr 19h00 GF  
 À la suite de la conférence, à 21h30, projection d'un film choisi par le conférencier : _Une femme cherche son destin_ d'Irving Rapper (voir p. xx)
 
+Remerciements : British Film Institute National Archive, Cinémathèque de Toulouse, Cinémathèque du Luxembourg, Cinémathèque Royale de Belgique, Park Circus, UCLA Film & Television Archive, Warner Bros Picture France.

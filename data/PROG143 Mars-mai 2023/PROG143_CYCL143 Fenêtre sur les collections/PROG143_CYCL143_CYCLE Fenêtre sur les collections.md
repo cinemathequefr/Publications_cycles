@@ -10,8 +10,11 @@ Dans les années 1950, devant l'essor du CinemaScope et l'avènement de la tél�
 de Jodie Copeland  
 États-Unis / 1958 / 67 min / VOSTF / 35 mm  
 Avec Clint Eastwood, Scott Brady, Margia Dean.  
-Des Yankees et des ex-Confédérés sont forcés de résister ensemble aux attaques des Indiens décidés à récupérer leur dû. Mais ils sont confrontés à la faim, la soif et la chaleur, qui compromettent leur fragile collaboration.  
-suivi de  
+Des Yankees et des ex-Confédérés sont forcés de résister ensemble aux attaques des Indiens décidés à récupérer leur dû. Mais ils sont confrontés à la faim, la soif et la chaleur, qui compromettent leur fragile collaboration.
+
+- ve 17 mar 18h30 JE  
+Séance présentée par Felicidad Guarda
+
 [154302]  
 **The Black Whip**  
 de Charles Marquis Warren  
@@ -19,7 +22,8 @@ de Charles Marquis Warren
 Avec Hugh Marlowe, Coleen Gray, Adele Mara.  
 Suspectées d'avoir aidé le chef du gang des Blacklegs à s'évader de prison, quatre entraîneuses de saloon trouvent abri dans une auberge. Les Blacklegs s'y réfugient à leur tour et sèment la terreur.
 
-- ve 17 mar 19h00 JE
+- ve 17 mar 20h15 JE  
+Séance présentée par Noémie Jean
 
 ## Les as de la manivelle
 

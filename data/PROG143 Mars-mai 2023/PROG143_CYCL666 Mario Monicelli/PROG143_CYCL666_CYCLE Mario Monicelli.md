@@ -19,7 +19,7 @@ Les aventures picaresques du chevalier Brancaleone qui, accompagné de son armé
 de Steno, Mario Monicelli  
 Italie / 1949 / 100 min / VO / Vidéo  
 Avec Leonardo Cortese, Marcel Cerdan, Mischa Auer, Carlo Campanini.  
-Un professeur spécialiste de l'Orient reçoit la visite du diable, qui lui fera connaître les plaisirs de la célébrité en le réincarnant en ténor, puis en boxer.
+Un professeur spécialiste de l'Orient reçoit la visite du Diable, qui lui fera connaître les plaisirs de la célébrité en le réincarnant en ténor, puis en boxer.
 
 - sa 6 mai 15h00 GF  
 Film précédé de _Le Cœur révélateur_ de Mario Monicelli, Alberto Mondadori, Cesare Civita
@@ -30,7 +30,7 @@ de Mario Monicelli
 Italie / 1984 / 128 min / VOSTF / 35 mm  
 D'après le recueil de nouvelles _Bertoldo, Bertoldino e Cacasenno_ de Giulio Cesare Croce.  
 Avec Ugo Tognazzi, Maurizio Nichetti, Alberto Sordi.  
-Vers l'an mille, à la cour du roi Alboino, gravitent trois personnages étranges : Fra Cipolla da Frosolone, le paysan Bertoldo, et son fils au comportement d'idiot. Grâce à leurs ruses, ils échappent à toutes sortes de situations absurdes.
+Vers l'an 1000, à la cour du roi Alboino, gravitent trois personnages étranges : Fra Cipolla da Frosolone, le paysan Bertoldo, et son fils au comportement d'idiot. Grâce à leurs ruses, ils échappent à toutes sortes de situations absurdes.
 
 - sa 20 mai 15h00 GF
 
@@ -84,7 +84,7 @@ D'après le roman _Caro Michele_ de Natalia Ginzburg.
 Avec Mariangela Melato, Lou Castel, Alfonso Gatto, Aurore Clément, Delphine Seyrig.  
 Après les émeutes étudiantes de 68, Michele quitte sa famille bourgeoise pour Londres, mais reste en contact avec sa mère et ses sœurs, dans une correspondance où il fait la lumière sur les différents personnages qui ont marqué sa vie, notamment Mara, qui prétend avoir eu un enfant de lui. Un jour, elles apprennent la mort de Michele.
 
-- je 18 mai 20h45 HL
+- je 18 mai 20h30 HL
 
 [43159]  
 **Casanova 70**  
@@ -100,7 +100,7 @@ Un homme aux nombreuses aventures amoureuses est accusé un jour d'impuissance p
 **Chambre d'hôtel**  
 **(Camera d'albergo)**  
 de Mario Monicelli  
-Italie-France / 1981 / 105 min / VOSTF  
+Italie-France / 1981 / 105 min / VOSTF / 35 mm  
 Avec Monica Vitti, Vittorio Gassman, Roger Pierre.  
 Une caméra cachée permet à trois jeunes cinéphiles de filmer les clients d'une chambre d'hôtel. Ils prennent rendez-vous avec un vieux producteur à la retraite pour commercialiser leur film.
 
@@ -186,7 +186,7 @@ Portrait de la société italienne de la seconde moitié du XX<sup>e</sup> sièc
 de Mario Monicelli  
 Italie / 1967 / 102 min / VOSTF / DCP  
 Avec Monica Vitti, Stanley Baker, Carlo Giuffré, Corin Redgrave.  
-Séduite et abandonnée par un homme de son village, Assunta la Sicilienne se rend à Londres avec un pistolet avec l'intention de l'assassiner.
+Séduite et abandonnée par un homme de son village, Assunta la Sicilienne se rend à Londres avec un pistolet dans l'intention de l'assassiner.
 
 - di 14 mai 20h45 HL
 
@@ -213,12 +213,13 @@ Deux tire-au-flanc engagés en 1917 sur le front des Alpes cherchent à fuir les
 Séance présentée par Jean A. Gili  
 - sa 20 mai 20h00 HL
 
-[45337]  
-**Haute Infidélité**  
-**(Alta infedeltà)**  
-de Franco Rossi, Elio Petri, Luciano Salce, Mario Monicelli  
-Italie-France / 1964 / 130 min / VO / 35 mm  
-Quatre histoires. Dans _Gente moderna_ de Mario Monicelli, Cesare perd tout son argent aux cartes contre son ami. Pour payer sa dette, il accepte de lui prêter pour une nuit son épouse, Tebaide.
+[43258]  
+**Les Infidèles**  
+**(Le Infedeli)**  
+de Steno, Mario Monicelli  
+Italie / 1953 / 105 min / VOSTF / 35 mm  
+Avec May Britt, Irène Papas, Marina Vlady, Gina Lollobrigida.  
+Un industriel engage un enquêteur pour filer son épouse, espérant secrètement qu'elle le trompe : il pourrait ainsi divorcer et épouser la femme dont il est amoureux.
 
 - je 18 mai 18h00 HL
 
@@ -257,7 +258,7 @@ Le marquis del Grillo, camérier du pape Pie VII, mène une existence dissolue d
 **Le Médecin et le Sorcier**  
 **(Il Medico e lo stregone)**  
 de Mario Monicelli  
-Italie / 1957 / 100 min / VO / 35 mm  
+Italie / 1957 / 100 min / VOSTF / 35 mm  
 Avec Vittorio De Sica, Marcello Mastroianni, Marisa Merlini.  
 À Pianetta, il n'y a plus de médecin depuis longtemps. Quand arrive le docteur Marchetti, il s'installe chez Don Antonio, et grâce à un peu de psychologie et à un philtre magique, s'octroie la considération du village.
 
@@ -267,7 +268,7 @@ Avec Vittorio De Sica, Marcello Mastroianni, Marisa Merlini.
 **Mes chers amis**  
 **(Amici miei)**  
 de Mario Monicelli  
-Italie / 1975 / 140 min / VOSTF  
+Italie / 1975 / 140 min / VOSTF / DCP  
 Avec Ugo Tognazzi, Philippe Noiret, Bernard Blier, Adolfo Celi.  
 Après la mort d'un des leurs, des quadragénaires se souviennent de leurs plaisanteries.  
 Film conçu et écrit par Pietro Germi qui, malade, en confia la réalisation à Mario Monicelli.
@@ -384,7 +385,7 @@ de Mario Monicelli
 Italie / 2006 / 102 min / VOSTF / 35 mm  
 D'après le roman _Le Désert de Libye_ de Mario Tobino.  
 Avec Michele Placido, Giorgio Pasotti.  
-Les mésaventures d'une équipe médicale militaire durant la Seconde Guerre mondiale en Libye.
+Les mésaventures d'une équipe médicale militaire en Libye, durant la Seconde Guerre mondiale.
 
 - sa 27 mai 17h00 HL
 
@@ -411,7 +412,7 @@ Raoul, un ancien boxeur, tombe amoureux d'une championne de catch, Rosy. Leur re
 [79310]  
 **Toh, è morta la nonna!**  
 de Mario Monicelli  
-Italie / 1969 / 89 min / VO / 35 mm  
+Italie / 1969 / 89 min / VOSTF / 35 mm  
 Avec Valentina Cortese, Riccardo Garrone, Wanda Capodaglio.  
 Adelaïde, propriétaire d'une florissante usine d'insecticides, meurt d'un choc électrique. Ses héritiers se disputent la succession.
 
@@ -440,7 +441,7 @@ Lors d'une opération de la brigade des mœurs, l'agent Caccavallo arrête par e
 [66865]  
 **Totò e i re di Roma**  
 de Mario Monicelli, Steno  
-Italie / 1952 / 104 min / VO / 35 mm  
+Italie / 1952 / 104 min / VOSTF / 35 mm  
 Avec Totò, Anna Carena, Giovanna Pala, Alberto Sordi.  
 Ercole Pappalardo, marié, cinq fils, cherche par tous les moyens à gravir les échelons de la société dans laquelle il travaille, mais rien ne se passe comme prévu.
 
@@ -502,7 +503,7 @@ Comme chaque année, les Colapietro, quatre frères et sœurs et leurs familles 
 **Voyage avec Anita**  
 **(Viaggio con Anita)**  
 de Mario Monicelli  
-Italie-France / 1979 / 115 min / VO / 35 mm  
+Italie-France / 1979 / 115 min / VOSTF / 35 mm  
 Avec Giancarlo Giannini, Goldie Hawn, Claudine Auger, Aurore Clément.  
 En se rendant au chevet de son père mourant, un homme rencontre une actrice américaine avec qui il a une relation.
 
@@ -532,3 +533,4 @@ René Marx est rédacteur en chef adjoint de la revue _L'Avant-scène cinéma_. 
 - je 4 mai 19h00 HL  
 À la suite de la projection de _Totò cherche un appartement_ de Mario Monicelli, Steno (voir p. xx)
 
+Remerciements : Archives françaises du film, Artedis, Bruno Boschetto, Cineteca del Friuli, Cineteca Nazionale, Cinémathèque Royale de Belgique, Fondazione Cineteca di Bologna, Gaumont, Istituto Luce Cinecittà, Les Acacias, Les films du Camélia, Museo Nazionale del Cinema, Tamasa Distribution, Viggo

@@ -170,7 +170,7 @@ Séance présentée par Jacques Lourcelles
 de Hugo Fregonese  
 États-Unis / 1954 / 83 min / VO / 35 mm  
 Avec Van Heflin, Anne Bancroft, Richard Boone, Lee Marvin.  
-En 1864, un groupe de Confédérés dirigé par le major Neal Benton s'échappe d'une prison de l'Union. Ils s'introduisent dans une petit ville nordiste, avec l'objectif de la mettre à sac.
+En 1864, un groupe de Confédérés dirigé par le major Neal Benton s'échappe d'une prison de l'Union. Ils s'introduisent dans une petite ville nordiste, avec l'objectif de la mettre à sac.
 
 - sa 1 avr 14h30 HL  
 Voir aussi dialogue p. xx
@@ -226,3 +226,4 @@ Jean-François Rauger est directeur de la programmation à la Cinémathèque fra
 - sa 1 avr 14h30 HL  
 À la suite de la projection de _The Raid_ de Hugo Fregonese (voir p. xx)
 
+Remerciements : CCC Filmkunst GmbH, Deutsche Kinemathek, George Eastman House, musée du cinéma Pablo Ducrós, Park Circus, Warner Bros., M. Ehsan Khoshbakht.

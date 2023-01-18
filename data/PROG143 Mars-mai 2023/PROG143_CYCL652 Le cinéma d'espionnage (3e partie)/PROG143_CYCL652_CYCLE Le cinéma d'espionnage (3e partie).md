@@ -9,7 +9,7 @@ de Henry Hathaway
 États-Unis / 1952 / 97 min / VOSTF / 16 mm  
 D'après le roman _Sinister Errand_ de Peter Cheyney.  
 Avec Tyrone Power, Patricia Neal, Lee Marvin, Karl Malden.  
-Pendant la guerre froide, un émissaire diplomatique du gouvernement américain se retrouve impliqué dans une histoire d'espionnage alors qu'il est envoyé à Trieste.
+Pendant la guerre froide, un émissaire diplomatique du gouvernement américain, envoyé à Trieste, se retrouve impliqué dans une histoire d'espionnage.
 
 - sa 13 mai 15h00 GF
 
@@ -61,7 +61,7 @@ Le capitaine d'un sous-marin allemand accepte le rôle déshonorant de recueilli
 de Nicolas Saada  
 France / 2009 / 99 min / 35 mm  
 Avec Guillaume Canet, Géraldine Pailhas, Stephen Rea, Hippolyte Girardot.  
-Vincent et Gérard, bagagistes dans un aéroport, volent dans les bagages avant leur embarquement en soute. Lorsque Gérard meurt dans l'explosion de la valise diplomatique qu'il était en train de fouiller, Vincent surprend son propriétaire en train de récupérer le bagage.
+Vincent et Gérard, bagagistes dans un aéroport, volent dans les sacs avant leur embarquement en soute. Lorsque Gérard meurt dans l'explosion de la valise diplomatique qu'il était en train de fouiller, Vincent surprend son propriétaire en train de récupérer le bagage.
 
 - sa 18 mar 14h30 GF  
 Voir aussi dialogue p. xx
@@ -124,7 +124,7 @@ de John Schlesinger
 Grande-Bretagne / 1985 / 131 min / VOSTF / 35 mm  
 D'après le récit _The Falcon and the Snowman: A True Story of Friendship and Espionage_ de Robert Lindsey.  
 Avec Timothy Hutton, Sean Penn, David Suchet, Richard Dysart.  
-Grâce à son père, le jeune Christopher Boyce trouve un emploi dans une grosse entreprise sous contrat avec les services de renseignement. Lorsqu'il découvre qu'il a accès à des informations classifiées sur les opérations secrètes des États-Unis à l'étranger, il s'associe avec son ami d'enfance Andrew Daulton Lee pour les monnayer auprès de l'Union soviétique.
+Le jeune Christopher Boyce trouve un emploi dans une entreprise sous contrat avec les services de renseignement. Lorsqu'il découvre qu'il a accès à des informations classifiées sur les opérations secrètes des États-Unis, il s'associe avec son ami d'enfance pour les monnayer auprès de l'Union soviétique.
 
 - sa 15 avr 15h00 GF
 
@@ -177,7 +177,7 @@ de Brian G. Hutton
 Grande-Bretagne / 1968 / 158 min / VOSTF / 35 mm  
 D'après le roman _Where Eagles Dare_ d'Alistair MacLean.  
 Avec Richard Burton, Clint Eastwood, Mary Ure.  
-Un commando anglais, dirigé par le major John Smith, est chargé de délivrer dans un château un général américain prisonnier des Allemands.
+Un commando anglais, dirigé par le major John Smith, est chargé de délivrer un général américain prisonnier des Allemands dans un château.
 
 - di 21 mai 14h30 GF
 

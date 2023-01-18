@@ -92,7 +92,7 @@ D'après la pièce _The Knack: A Comedy in Three Acts_ d'Ann Jellicoe.
 Avec Rita Tushingham, Ray Brooks, Michael Crawford.  
 Un homme souhaite apprendre comment conquérir les femmes.
 
-- je 16 mar 20h15 GF  
+- je 16 mar 20h30 GF  
 Film précédé de _The Running, Jumping and Standing Still Film_ de Richard Lester  
 - di 26 mar 19h45 GF  
 Film précédé de _The Running, Jumping and Standing Still Film_ de Richard Lester
@@ -157,7 +157,7 @@ de Richard Lester
 Grande-Bretagne / 1976 / 91 min / VOSTF / 16 mm  
 D'après la pièce _The Ritz_ de Terrence McNally.  
 Avec Jack Weston, Rita Moreno, Jerry Stiller.  
-Pourchassé par un tueur de la pègre, un homme demande à un chauffeur de taxi de le conduire dans un lieu sûr. Il trouve refuge au Ritz, qui s'avère être un sauna gay.
+Pourchassé par un tueur de la pègre, un homme demande à un chauffeur de taxi de le conduire en lieu sûr. Il trouve refuge au Ritz, qui s'avère être un sauna gay.
 
 - di 19 mar 17h30 GF
 
@@ -178,7 +178,7 @@ de Richard Lester
 Grande-Bretagne / 1959 / 11 min / 35 mm  
 Suite de saynètes absurdes montrant les occupations des Anglais au cours de leurs dimanches.
 
-- je 16 mar 20h15 GF  
+- je 16 mar 20h30 GF  
 Film suivi de _Le Knack... et comment l'avoir_ de Richard Lester  
 - di 26 mar 19h45 GF  
 Film suivi de _Le Knack... et comment l'avoir_ de Richard Lester
@@ -265,3 +265,4 @@ Frédéric Bonnaud est directeur général de la Cinémathèque française.
 - sa 25 mar 14h30 HL  
 À la suite de la projection de _Quatre Garçons dans le vent_ de Richard Lester (voir p. xx)
 
+Remerciements : Academy Film Archive, Apple Corps, British Film Institute National Archive, Carlotta Films, Criterion, KAVI – National Audiovisual Archive, Park Circus, Pathé Distribution, Studio Canal, Warner Bros Picture France, Wild Side Films, Nico Marzano.

@@ -46,8 +46,8 @@ L'ingénieur Los réceptionne un curieux message qui semble venir de l'espace. D
 de Ridley Scott  
 États-Unis / 1979 / 117 min / VOSTF / 70 mm  
 Avec Sigourney Weaver, John Hurt, Ian Holm, Tom Skerritt, Veronica Cartwright.  
-Une dangereuse créature extraterrestre à bord du Nostromo, un vaisseau spatial en route pour la Terre, s'attaque aux sept membres de l'équipage, un par un. Le lieutenant Ellen Ripley va affronter cet indésirable huitième passager.  
-Restauration 4K menée en 2018 par la 20th Century Fox à la Company 3/Deluxe Entertainment Services Group, sous la supervision de Ridley Scott et Pam Dery.
+À bord du Nostromo, un vaisseau spatial en route pour la Terre, une dangereuse créature extraterrestre s'attaque aux sept membres de l'équipage, un par un. Le lieutenant Ellen Ripley va affronter cet indésirable huitième passager.  
+Restauration 4K menée en 2018 par la 20th Century Fox, sous la supervision de Ridley Scott et Pam Dery.
 
 - ve 17 mar 20h45 HL  
 Séance présentée par Bernard Benoliel
@@ -128,7 +128,7 @@ Un vaisseau spatial atterrit accidentellement dans une zone désertique de l'Ari
 de Fritz Lang  
 Allemagne / 1927 / 152 min / INT. FR. / DCP  
 Avec Alfred Abel, Gustav Fröhlich, Brigitte Helm, Rudolf Klein-Rogge.  
-En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterrains pour assurent le bonheur des nantis qui vivent dans les jardins suspendus de la ville. Une androïde les mène à la révolte mais, pour contrer son influence, le chef de la cité fait construire un robot à son image.
+En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterrains pour assurer le bonheur des nantis qui vivent dans les jardins suspendus de la ville. Une androïde les mène à la révolte mais, pour contrer son influence, le chef de la cité fait construire un robot à son image.
 
 - di 19 mar 18h15 HL
 
@@ -148,7 +148,7 @@ Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger da
 de Val Guest  
 Grande-Bretagne / 1955 / 82 min / VOSTF / 35 mm  
 Avec Brian Donlevy, Margia Dean, Thora Hird, Jack Warner.  
-Une expédition spatiale revient de mission avec un seul survivant à bord qui se transforme progressivement en monstre, ce qui intrigue le physicien Quatermass.  
+Une expédition spatiale revient de mission avec un seul survivant à bord, qui se transforme progressivement en monstre, ce qui intrigue le physicien Quatermass.  
 Film dérivé de la série télévisée britannique _The Quatermass Experiment_ (1953).
 
 - di 2 avr 17h45 GF  
@@ -260,3 +260,4 @@ Dans une station de l'Antarctique, une mystérieuse créature polymorphe tue les
 - di 26 mar 16h30 HL  
 Séance présentée par Jean-François Rauger
 
+Remerciements : British Film Institute National Archive, Classic Films, Les Editions Montparnasse, Lobster Films, Mosfilm, Park Circus, Potemkine, Splendor Films, Tamasa Distribution, The Walt Disney Company France, Universal Pictures International France, Warner Bros. Entertainment France.
