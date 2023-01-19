@@ -125,7 +125,7 @@ Séance présentée par Sébastien Lifshitz
 [86174]  
 **Quand je serai jeune**  
 de Yann Dedet  
-France / 1988 / 17 min / 35 mm  
+France / 1988 / 17 min / VO / 35 mm  
 Avec Brigitte Roüan, Jean-François Stévenin, Marilyne Canto.  
 Mai 68. Pendant que, dehors, on manifeste, un homme achève le montage de _Baisers volés_.
 

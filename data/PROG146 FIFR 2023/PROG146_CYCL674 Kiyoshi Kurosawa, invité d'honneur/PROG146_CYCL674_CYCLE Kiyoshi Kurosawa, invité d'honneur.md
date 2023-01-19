@@ -31,11 +31,11 @@ de Tobe Hooper
 Avec Brad Dourif, Cynthia Bain, Jon Cypher.  
 Sam découvre que ses parents ont été l'objet d'expériences atomiques dans le passé, et qu'il a un pouvoir de pyrokinésie : il peut contrôler le feu et l'électricité. Mais les conséquences sur son corps sont importantes.
 
-- di 12 mar 18h30 JE
+- di 12 mar 18h45 JE
 
 ## Rencontres et conférences
 
-**Master class de Kiyoshi Kurosawa**  
+**Masterclass Kiyoshi Kurosawa**  
 Rencontre animée par Jean-François Rauger
 
 - sa 11 mar 19h00 HL  

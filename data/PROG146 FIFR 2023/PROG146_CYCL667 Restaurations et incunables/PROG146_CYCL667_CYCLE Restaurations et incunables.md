@@ -57,7 +57,7 @@ Avec Sacha Guitry, Lana Marconi, Jacques Baumer, Pauline Carton.
 Biographie du comédien de théâtre Lucien Guitry, joué par son fils réalisateur Sacha, qui propose une réflexion poétique sur l'amour des deux hommes pour l'art.  
 Présentation de TF1 Studio. Nouvelle version restaurée en 4K par TF1 Studio, avec le soutien du CNC, à partir du négatif image nitrate original, d'un marron nitrate et d'un négatif son nitrate. Travaux numériques et photochimiques réalisés par le laboratoire Hiventy en 2022.
 
-- sa 11 mar 18h00 JE
+- me 8 mar 18h30 GF
 
 [45643]  
 **Danse macabre**  
@@ -110,7 +110,7 @@ Avec Philippe Suner, Pia Camilla Copper, Marie Henriau.
 Edouard invite Diana à passer un week-end chez Gilbert, ancien soixante-huitard vivant dans une vallée de la montagne Noire entre l'Aude et le Tarn. Il tente de séduire Diana, et découvre que Gilbert est peut-être son père.  
 Restauration pour la Traverse par Cosmodigital et L.E. Diapason, avec le soutien du Centre national du cinéma.
 
-- je 9 mar 16h30 GF
+- me 8 mar 16h30 GF
 
 [36638]  
 **Folies de femmes**  
@@ -127,7 +127,7 @@ Restauration par le San Francisco Silent Film Festival, à partir d'une copie ni
 **Histoire de la guerre civile**  
 de Dziga Vertov  
 Russie / 1921 / 94 min / INT. FR. / DCP  
-En pleine Guerre Civile russe, Vertov filme des figures emblématiques du gouvernement et de l'Armée Rouge, ainsi que la violence et le chaos qui règnent dans le pays, si bien que son documentaire ne sortira jamais officiellement. Disparu pendant un siècle, projeté deux fois seulement, le film a bénéficié d'une restauration inédite.  
+En pleine guerre civile russe, Vertov filme des figures emblématiques du gouvernement et de l'Armée Rouge, ainsi que la violence et le chaos qui règnent dans le pays, si bien que son documentaire ne sortira jamais officiellement. Disparu pendant un siècle, projeté deux fois seulement, le film a bénéficié d'une restauration inédite.  
 Restauration par Nikolai Izvolov à partir d'une description du film faite par Grigory Boltyansky conservée à l'Archive of Literature and Art in Moscow, et d'éléments du matériel d'origine 35 mm conservés dans différentes archives.
 
 - ve 10 mar 18h00 GF
@@ -277,7 +277,7 @@ Avec Walter Matthau, Henry Fonda, Dan O'Herlihy.
 En pleine guerre froide, à la suite d'une erreur technique, un groupe de bombardiers nord-américains reçoit l'ordre de lancer une attaque nucléaire contre Moscou.  
 Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35 mm d'origine. Transfert supervisé par Grover Crisp, travail de couleur effectué par Sheri Eisenberg et Roundabout Entertainment. Bande sonore mono remasterisée à Deluxe (Hollywood), sous la supervision de Bob Simmons.
 
-- me 8 mar 16h30 GF
+- je 9 mar 16h00 GF
 
 [43918]  
 **Les Proies du vampire**  
@@ -308,7 +308,7 @@ Avec Nina Chowalowa, Philippe Hériat, Clifford McLaglen, Blanche Bernis.
 Une des premières symphonies urbaines, promenade à travers Paris, des premières lueurs de l'aube jusqu'à la nuit suivante, de la beauté à la misère.  
 Restauration 4K en 2022 par Les Films du Panthéon, avec le soutien du CNC et de la Cinémathèque française, en collaboration avec Les Films du Jeudi, le EYE Filmmuseum et le BFI National Archive. Travaux réalisés au laboratoire Hiventy à partir d'une copie teintée conservée au Eye Filmmuseum, d'une copie teintée du BFI conservée au CNC et d'un contretype du BFI.
 
-- je 9 mar 14h30 GF
+- me 8 mar 14h00 GF
 
 [57342]  
 **S'en fout la mort**  
@@ -318,7 +318,7 @@ Avec Isaach de Bankolé, Alex Descas, Jean-Claude Brialy, Solveig Dommartin.
 Dah et Jocelyn, Antillais et Béninois installés illégalement en France, participent à des combats de coqs clandestins organisés par un patron de boîtes de nuit corrompu. Ils entraînent leur animal, baptisé « S'en fout la mort ».  
 Restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Étalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
 
-- me 8 mar 14h00 GF  
+- je 9 mar 14h00 GF  
 Accompagnement musical par Tessa Pontaud. Séance présentée par Claire Denis
 
 [50878]  
@@ -331,6 +331,15 @@ L'avocat du docteur Cordelier est étonné de découvrir que son client lègue s
 Restauration 4K réalisée en 2022 par l'équipe de STUDIOCANAL avec Sophie Boyer et Jean-Pierre Boiget au laboratoire Hiventy, avec le soutien du CNC. Négatif original 35 mm scanné par immersion, compte tenu des nombreuses altérations présentes sur la pellicule, avec plus de 200 heures de retouche numérique nécessaires pour effacer les rayures, éclats de gélatine et autres traces d'usure. Son également restauré.
 
 - sa 11 mar 20h30 JE
+
+[58128]  
+**Tokyo Pop**  
+de Fran Rubel Kuzui  
+États-Unis / 1987 / 99 min / VOSTF / DCP  
+Avec Carrie Hamilton, Diamond Yukai, Taiji Tonoyama.  
+Wendy joue dans un orchestre de rock ringard. Lassée de New York, elle décide de tenter sa chance au Japon.
+
+- di 12 mar 16h30 JE
 
 [46339]  
 **Une nuit sur le mont Chauve**  
@@ -377,3 +386,4 @@ Film précédé de _Le Nabab_ d'Albert Capellani
 
 - di 12 mar 16h00 HL
 
+Remerciements : Alameda Films

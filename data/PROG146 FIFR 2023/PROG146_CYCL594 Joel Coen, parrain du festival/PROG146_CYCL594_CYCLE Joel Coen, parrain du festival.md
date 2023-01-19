@@ -77,18 +77,18 @@ La fin de l'été, dans les rues désertées de Pescara, petite station balnéai
 
 ## Rencontres et conférences
 
-**Discussion avec Joel Coen et Roger Deakins**  
+**No country for old men + Discussion Joel Coen et Roger Deakins**  
 Rencontre animée par Pauline de Raymond
 
 - je 9 mar 19h00 HL  
 À la suite de la projection de _No Country for Old Men_ de Joel Coen, Ethan Coen (voir p. xx)
 
-**Discussion avec Joel Coen et Bruno Delbonnel**
+**The tragedy of Macbeth + discussion avec Joel Coen et Bruno Delbonnel**
 
 - ve 10 mar 19h30 HL  
 À la suite de la projection de _The Tragedy of Macbeth_ de Joel Coen (voir p. xx)
 
-**Master class de Joel Coen**  
+**Inside Llewin Davis + Masterclass Joel Coen**  
 Rencontre animée par Bernard Benoliel
 
 - sa 11 mar 14h30 HL  
