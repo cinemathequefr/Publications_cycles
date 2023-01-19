@@ -99,6 +99,8 @@ Séance suivie d'une discussion avec Thomas Bardinet
 
 ## Louis Séguin
 
+Avec _Marinaleda_, Louis Séguin signe un moyen métrage audacieux, déjouant le(s) genre(s) et organisant la rencontre parfaite entre le road movie et le film de vampires. Une virée réjouissante aux côtés de deux vampires à la logorrhée enivrante et drôle. Pour sa carte blanche, le cinéaste a choisi un western sobre et intense : _L'Étrange incident_ de William A. Wellman.
+
 [154326]  
 **Marinaleda**  
 de Louis Séguin  
