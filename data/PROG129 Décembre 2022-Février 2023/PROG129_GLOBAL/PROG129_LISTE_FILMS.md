@@ -400,8 +400,9 @@
   * Troie  
   * Zodiac
 
-## Séances spéciales (11)
+## Séances spéciales (14)
 
+  * Blue Velvet  
   * Irma Vep, épisode 1 : La Tête coupée  
   * Irma Vep, épisode 2 : La Bague qui tue  
   * Irma Vep, épisode 3 : L'Évasion du mort  
@@ -413,3 +414,5 @@
   * Jean-Marie Lavalou, itinéraire d'un aventurier, iconoclaste et poète  
   * Kiosque (Le)  
   * Montagne (La)  
+  * Sailor et Lula  
+  * Son (The)  

@@ -28,7 +28,7 @@
     "typeEvenement": 13,
     "idEvenement": 27637,
     "idSeance": 92382,
-    "dateHeure": "2023-03-08T16:30:00",
+    "dateHeure": "2023-03-08T16:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -42,6 +42,29 @@
         "idCopie": 25441,
         "duree": 112,
         "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2937,
+    "typeEvenement": 13,
+    "idEvenement": 27635,
+    "idSeance": 96789,
+    "dateHeure": "2023-03-08T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 49089,
+        "ordre": 1,
+        "idSeance": 96789,
+        "idCopie": 25423,
+        "duree": 95,
+        "version": "",
         "format": "DCP"
       }
     ]
@@ -494,29 +517,6 @@
   {
     "idCategorie": 2937,
     "typeEvenement": 13,
-    "idEvenement": 27635,
-    "idSeance": 96789,
-    "dateHeure": "2023-03-11T18:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 49089,
-        "ordre": 1,
-        "idSeance": 96789,
-        "idCopie": 25423,
-        "duree": 95,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2937,
-    "typeEvenement": 13,
     "idEvenement": 27672,
     "idSeance": 92875,
     "dateHeure": "2023-03-11T20:30:00",
@@ -674,6 +674,29 @@
     "dureeSeance": 60,
     "items": [
       {}
+    ]
+  },
+  {
+    "idCategorie": 2937,
+    "typeEvenement": 13,
+    "idEvenement": 27915,
+    "idSeance": 96787,
+    "dateHeure": "2023-03-12T16:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 58128,
+        "ordre": 1,
+        "idSeance": 96787,
+        "idCopie": 25612,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
     ]
   },
   {

@@ -48,7 +48,7 @@
   * Montagne infidèle (La)  
   * Thaïs
 
-## Restaurations et incunables (35)
+## Restaurations et incunables (36)
 
   * À bout de course  
   * Boy Meets Girl  
@@ -81,6 +81,7 @@
   * Rien que les heures  
   * S'en fout la mort  
   * Testament du Docteur Cordelier (Le)  
+  * Tokyo Pop  
   * Une nuit sur le mont Chauve  
   * Up in Mabel's Room  
   * Viva la muerte  

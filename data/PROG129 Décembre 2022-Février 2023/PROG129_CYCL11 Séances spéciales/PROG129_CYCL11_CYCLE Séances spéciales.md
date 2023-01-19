@@ -128,4 +128,36 @@ Pierre, ingénieur parisien, se rend dans les Alpes pour son travail. Irrésisti
 
 - lu 16 jan 20h00 HL
 
+## Une journée avec Laura Dern
+
+[54865]  
+**Blue Velvet**  
+de David Lynch  
+États-Unis / 1986 / 121 min / VOSTF / DCP  
+Avec Isabella Rossellini, Kyle MacLachlan, Dennis Hopper, Laura Dern.  
+Jeffrey trouve un jour une oreille humaine. Il alerte la police et mène l'enquête avec Sandy, la fille d'un inspecteur. Tous deux plongent dans un univers étrange, peuplé de personnages singuliers.
+
+- lu 20 fév 14h00 HL
+
+[34863]  
+**Sailor et Lula**  
+**(Wild at Heart)**  
+de David Lynch  
+États-Unis / 1990 / 127 min / VOSTF / 35 mm  
+D'après le roman _Sailor et Lula_ de Barry Gifford.  
+Avec Nicolas Cage, Laura Dern, Diane Lane, Willem Dafoe.  
+Sailor et Lula, deux amoureux passionnés, sont en cavale pour fuir la mère de la jeune fille qui s'oppose à leurs amours. Pendant leur périple, ils croisent des personnages étranges et inquiétants.
+
+- lu 20 fév 17h00 HL
+
+[154331]  
+**The Son**  
+de Florian Zeller  
+États-Unis / 2022 / 123 min / VOSTF / DCP  
+Avec Hugh Jackman, Laura Dern, Vanessa Kirby.  
+La vie de Peter avec sa nouvelle partenaire Emma et leur bébé est bouleversée lorsque son ex-femme Kate se présente avec leur fils adolescent, Nicholas.
+
+- lu 20 fév 20h30 HL  
+Avant-première
+
 Remerciements : Tali Gai, aaa Production (Mathieu Lamotte), Baba Yaga Films (Jean-Marc Zekri), Eugénie Zvonkine, Odessa Film Studio – Firma Budushee (Olga Neverko), Les Films du Losange.

@@ -266,4 +266,4 @@ Co-commissaire de l'exposition « Top Secret : Cinéma et espionnage », Matthie
 - sa 6 mai 14h30 HL  
 À la suite de la projection de _Les Patriotes_ d'Éric Rochant (voir p. xx)
 
-Remerciements : Acacias (Les), Carlotta Films, Elefilm, Forum des images, Gaumont, Memento Films, Park Circus, Pathé Distribution, Tamasa Distribution
+Remerciements : British Film Institute National Archive, Cinémathèque du Luxembourg, Gaumont, Park Circus, Tamasa Distribution, Warner Bros Picture France, Warner Bros. Entertainment France

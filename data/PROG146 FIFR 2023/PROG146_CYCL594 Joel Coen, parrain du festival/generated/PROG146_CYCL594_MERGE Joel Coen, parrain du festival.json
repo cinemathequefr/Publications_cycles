@@ -300,9 +300,9 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 92413,
+          "idSeance": 92486,
           "ordre": 2,
-          "dateHeure": "2023-03-10T19:30:00",
+          "dateHeure": "2023-03-11T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -310,13 +310,28 @@
           "dureeSeance": 75,
           "typeAssoc": 118,
           "idCategorie": 2984,
-          "idEvenement": 27894,
+          "idEvenement": 27895,
           "typeEvenement": 14,
-          "idTypeConference": 146,
-          "typeConference": "Conversation",
-          "titre": "Discussion avec Joel Coen et Bruno Delbonnel",
+          "idTypeConference": 145,
+          "typeConference": "MasterClass",
+          "titre": "Inside Llewin Davis + Masterclass Joel Coen",
           "duree": 90,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Joel Coen",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 2
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 1
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Bernard Benoliel"
         },
         {
           "idSeance": 92450,
@@ -333,7 +348,7 @@
           "typeEvenement": 14,
           "idTypeConference": 146,
           "typeConference": "Conversation",
-          "titre": "Discussion avec Joel Coen et Roger Deakins",
+          "titre": "No country for old men + Discussion Joel Coen et Roger Deakins",
           "duree": 90,
           "textes": [],
           "intervenants": [
@@ -359,9 +374,9 @@
           "mentionAnimation": "Rencontre animée par Pauline de Raymond"
         },
         {
-          "idSeance": 92486,
+          "idSeance": 92413,
           "ordre": 2,
-          "dateHeure": "2023-03-11T14:30:00",
+          "dateHeure": "2023-03-10T19:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -369,28 +384,13 @@
           "dureeSeance": 75,
           "typeAssoc": 118,
           "idCategorie": 2984,
-          "idEvenement": 27895,
+          "idEvenement": 27894,
           "typeEvenement": 14,
-          "idTypeConference": 145,
-          "typeConference": "MasterClass",
-          "titre": "Master class de Joel Coen",
+          "idTypeConference": 146,
+          "typeConference": "Conversation",
+          "titre": "The tragedy of Macbeth + discussion avec Joel Coen et Bruno Delbonnel",
           "duree": 90,
-          "textes": [],
-          "intervenants": [
-            {
-              "nomComplet": "Joel Coen",
-              "idFonction": 142,
-              "fonction": "Interviewé",
-              "ordre": 2
-            },
-            {
-              "nomComplet": "Bernard Benoliel",
-              "idFonction": 40,
-              "fonction": "Animateur",
-              "ordre": 1
-            }
-          ],
-          "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+          "textes": []
         }
       ],
       "textes": []

@@ -113,4 +113,4 @@ L'agent OSS 117, alias Hubert Bonisseur de La Bath, enquête sur l'explosion d'u
 
 - ve 26 mai 21h00 GF
 
-Remerciements : Cinémathèque de Toulouse, Cinémathèque Suisse, Film Archiv Optikum, Metropolitan Film Export, Emmanuel Rossi, Sidonis, Tamasa Distribution.
+Remerciements : Gaumont, Productions Roitfeld, Emmanuel Rossi
