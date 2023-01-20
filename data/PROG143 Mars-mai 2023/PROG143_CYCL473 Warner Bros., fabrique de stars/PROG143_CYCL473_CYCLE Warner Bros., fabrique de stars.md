@@ -314,7 +314,8 @@ D'après le roman _Captain Blood_ de Rafael Sabatini.
 Avec Errol Flynn, Olivia De Havilland, Basil Rathbone.  
 Les aventures de Peter Blood, médecin du XVII<sup>e</sup> siècle reconverti en pirate après avoir échappé à un emprisonnement injuste.
 
-- lu 17 avr 15h30 GF
+- lu 17 avr 15h30 GF  
+Séance présentée par Serge Chauvin
 
 [31385]  
 **La Charge de la brigade légère**  
