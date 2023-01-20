@@ -48,7 +48,7 @@ Kym, une actrice australienne, part seule visiter la Bosnie. À son retour, elle
 de Louise Traon  
 France / 2013 / 58 min / Numérique  
 Avec Luís Miguel Cintra, Valérie Loiseleux, Mariana Guerreiro.  
-La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film de Manoel de Oliveira, _L'Étrange Affaire Angélica_. Dans les salles de montage commence un voyage intérieur, parmi les souvenirs de ce cinéma avec lequel elle a grandi.
+La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film de Manoel de Oliveira, _L'Étrange affaire Angélica_. Dans les salles de montage commence un voyage intérieur, parmi les souvenirs de ce cinéma avec lequel elle a grandi.
 
 - ve 19 mai 21h00 GF  
 Séance présentée par Louise Traon  

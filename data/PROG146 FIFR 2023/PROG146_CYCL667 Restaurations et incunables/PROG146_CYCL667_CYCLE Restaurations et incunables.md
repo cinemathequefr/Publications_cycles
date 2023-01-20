@@ -110,7 +110,7 @@ Avec Philippe Suner, Pia Camilla Copper, Marie Henriau.
 Edouard invite Diana à passer un week-end chez Gilbert, ancien soixante-huitard vivant dans une vallée de la montagne Noire entre l'Aude et le Tarn. Il tente de séduire Diana, et découvre que Gilbert est peut-être son père.  
 Restauration pour la Traverse par Cosmodigital et L.E. Diapason, avec le soutien du Centre national du cinéma.
 
-- me 8 mar 16h30 GF
+- je 9 mar 16h30 GF
 
 [36638]  
 **Folies de femmes**  
@@ -277,7 +277,7 @@ Avec Walter Matthau, Henry Fonda, Dan O'Herlihy.
 En pleine guerre froide, à la suite d'une erreur technique, un groupe de bombardiers nord-américains reçoit l'ordre de lancer une attaque nucléaire contre Moscou.  
 Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35 mm d'origine. Transfert supervisé par Grover Crisp, travail de couleur effectué par Sheri Eisenberg et Roundabout Entertainment. Bande sonore mono remasterisée à Deluxe (Hollywood), sous la supervision de Bob Simmons.
 
-- je 9 mar 16h00 GF
+- me 8 mar 16h00 GF
 
 [43918]  
 **Les Proies du vampire**  
@@ -308,7 +308,7 @@ Avec Nina Chowalowa, Philippe Hériat, Clifford McLaglen, Blanche Bernis.
 Une des premières symphonies urbaines, promenade à travers Paris, des premières lueurs de l'aube jusqu'à la nuit suivante, de la beauté à la misère.  
 Restauration 4K en 2022 par Les Films du Panthéon, avec le soutien du CNC et de la Cinémathèque française, en collaboration avec Les Films du Jeudi, le EYE Filmmuseum et le BFI National Archive. Travaux réalisés au laboratoire Hiventy à partir d'une copie teintée conservée au Eye Filmmuseum, d'une copie teintée du BFI conservée au CNC et d'un contretype du BFI.
 
-- me 8 mar 14h00 GF
+- je 9 mar 14h30 GF
 
 [57342]  
 **S'en fout la mort**  
@@ -318,7 +318,7 @@ Avec Isaach de Bankolé, Alex Descas, Jean-Claude Brialy, Solveig Dommartin.
 Dah et Jocelyn, Antillais et Béninois installés illégalement en France, participent à des combats de coqs clandestins organisés par un patron de boîtes de nuit corrompu. Ils entraînent leur animal, baptisé « S'en fout la mort ».  
 Restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Étalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
 
-- je 9 mar 14h00 GF  
+- me 8 mar 14h00 GF  
 Accompagnement musical par Tessa Pontaud. Séance présentée par Claire Denis
 
 [50878]  

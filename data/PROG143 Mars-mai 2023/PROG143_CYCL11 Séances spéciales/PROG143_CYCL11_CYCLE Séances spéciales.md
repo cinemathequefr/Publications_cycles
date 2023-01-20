@@ -17,7 +17,7 @@ Projection spéciale
 [154332]  
 **Sur l'Adamant**  
 de Nicolas Philibert  
-France / 2023 / DCP  
+France / 2023 / 110 min / DCP  
 L'Adamant est un centre de jour unique en son genre : c'est un bâtiment flottant. Sur la Seine, en plein cœur de Paris, il accueille des adultes souffrant de troubles psychiques, leur offrant un cadre de soins qui les structure dans le temps et l'espace, les aide à renouer avec le monde, à retrouver un peu d'élan.
 
 - lu 20 mar 20h00 HL  

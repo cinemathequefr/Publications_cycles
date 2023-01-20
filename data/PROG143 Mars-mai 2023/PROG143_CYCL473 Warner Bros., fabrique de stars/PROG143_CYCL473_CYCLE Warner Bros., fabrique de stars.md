@@ -109,7 +109,7 @@ de John Huston, Vincent Sherman
 États-Unis / 1942 / 97 min / VOSTF / 16 mm  
 D'après le feuilleton _Aloha Means Goodbye_ de Robert Carson.  
 Avec Humphrey Bogart, Mary Astor, Sydney Greenstreet.  
-1941. Condamné par une cour martiale, le capitaine Leland quitte l'armée et prend un navire japonais vers Yokohama. Il y rencontre le docteur Lorenz, qui ne cache pas sa sympathie pour les Japonais, et cherche alors à savoir si Leland serait disposé à travailler pour eux.
+1941 : condamné par une cour martiale, le capitaine Leland quitte l'armée et prend un navire japonais vers Yokohama. Il y rencontre le docteur Lorenz, qui ne cache pas sa sympathie pour les Japonais, et cherche alors à savoir si Leland serait disposé à travailler pour eux.
 
 - je 4 mai 16h00 GF
 
@@ -342,7 +342,7 @@ Pendant la Première Guerre mondiale, un escadron de l'aviation britannique voit
 de Michael Curtiz  
 États-Unis / 1940 / 110 min / VOSTF / 35 mm  
 Avec Errol Flynn, Olivia de Havilland, Raymond Massey, Ronald Reagan.  
-1854. Les États-Unis se forment peu à peu, mais l'esclavagisme du Sud gêne de nombreux Américains, dont John Brown, fanatique abolitionniste qui commet des massacres pour libérer les esclaves.
+1854 : les États-Unis se forment peu à peu, mais l'esclavagisme du Sud gêne de nombreux Américains, dont John Brown, fanatique abolitionniste qui commet des massacres pour libérer les esclaves.
 
 - ve 14 avr 18h30 GF  
 - je 11 mai 16h00 GF
