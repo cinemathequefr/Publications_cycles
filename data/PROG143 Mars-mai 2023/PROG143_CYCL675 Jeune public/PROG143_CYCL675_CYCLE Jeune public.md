@@ -114,7 +114,7 @@ Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'a
 [128671]  
 **Tex Avery Follies**  
 de Tex Avery, Dick Lundy, Michael Lah  
-États-Unis / 1964  
+États-Unis / 1964 / 85 min / VOSTF / 35 mm  
 Compilation de douze cartoons pour plonger dans l'univers pétillant et délirant de Tex Avery.
 
 - me 26 avr 15h00 GF

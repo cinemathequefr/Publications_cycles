@@ -8,8 +8,7 @@
 de Sidney Lumet  
 États-Unis / 1988 / 115 min / VOSTF / DCP  
 Avec River Phoenix, Judd Hirsch, Christine Lahti, Martha Plimpton.  
-Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie.  
-Restauration avec le soutien de la National Film Preservation Foundation, à partir d'une copie restaurée du Eastman Museum et une copie nitrate de la Narodni Filmovy Archiv de Prague.
+Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie.
 
 - ve 10 mar 14h00 JE
 
@@ -43,7 +42,6 @@ Avec Sidney Poitier, Harry Belafonte, Ruby Dee.
 Après la guerre de Sécession, un ancien sergent de l'Union et un prédicateur escroc guident un groupe d'esclaves affranchis pour passer la frontière. Ils sont attaqués par d'anciens esclavagistes devenus agents de main-d'œuvre bon marché.  
 En avant-première parisienne en vue de sa ressortie en salles.
 
----
 Restauration 4K réalisée en 2022 par Sony à partir du négatif 35 mm d'origine, au laboratoire Cineric. Correction couleur effectuée par MTI.
 
 - je 9 mar 14h30 JE

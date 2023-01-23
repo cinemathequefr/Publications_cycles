@@ -17,7 +17,7 @@ Six fables mettant en scène un cowboy musicien, un chercheur d'or, un braqueur 
 de Joel Coen  
 États-Unis / 1997 / 117 min / VOSTF / DCP  
 Avec Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi.  
-Jeff Lebowski, surnommé Le Dude, passe son temps à jouer au bowling. Deux malfrats font irruption chez lui et l'agressent, le confondant avec un millionnaire du même nom. Le Dude part alors demander réparation à son riche homonyme.
+Jeff Lebowski, surnommé le _Dude_, passe son temps à jouer au bowling. Deux malfrats font irruption chez lui et l'agressent, le confondant avec un millionnaire du même nom. Le _Dude_ part alors demander réparation à son riche homonyme.
 
 - di 12 mar 12h00 HO
 
@@ -27,7 +27,7 @@ de Joel Coen
 États-Unis-Grande-Bretagne / 1995 / 97 min / VOSTF / DCP  
 Avec Frances McDormand, William H. Macy, Steve Buscemi, Peter Stormare.  
 Minnesota, 1987. Un concessionnaire automobile endetté fait enlever sa femme par deux petites frappes pour obtenir une rançon de son richissime beau-père. Mais le plan ne résiste pas longtemps au flair d'une policière enceinte.  
-Restauration 4K en 2021 à l'occasion du 25e anniversaire du film.
+Restauration 4K en 2021 à l'occasion du 25<sup>e</sup> anniversaire du film.
 
 - me 8 mar 20h00 HL  
 - me 8 mar 20h00 JE
@@ -71,7 +71,7 @@ Voir aussi conversation p. xx
 de Federico Fellini  
 Italie-France / 1953 / 103 min / VOSTF / DCP  
 Avec Franco Interlenghi, Franco Fabrizi, Alberto Sordi, Leopoldo Trieste.  
-La fin de l'été, dans les rues désertées de Pescara, petite station balnéaire italienne. Cinq amis trentenaires, surnommés les « &nbsp;vitelloni&nbsp; », se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte.
+La fin de l'été, dans les rues désertées de Pescara, petite station balnéaire italienne. Cinq amis trentenaires, surnommés les _« vitelloni »_, se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte.
 
 - sa 11 mar 18h30 GF
 

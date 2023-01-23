@@ -269,7 +269,7 @@ suivi de
 [113216]  
 **Satan bouche un coin**  
 de Jean-Pierre Bouyxou  
-France / 1967 / 12 min / 16 mm  
+France / 1967 / 10 min / 16 mm  
 Avec Pierre Molinier, Jean-Pierre Bouyxou.  
 Hommage au grand Pierre Molinier, le film allie sexualité fétichiste et mort, sperme et sang, chair et cadavre, dans un style halluciné d'une très inquiétante étrangeté.
 
@@ -399,7 +399,7 @@ suivi de
 [118991]  
 **Dafnis y Cloe**  
 d'Antoni Padrós  
-Espagne / 1969 / 19 min / VOSTF / Numérique  
+Espagne / 1969 / 19 min / VO / Numérique  
 Avec Toni Martínez, Rosa Morata.  
 Chef-d'œuvre d'avant-garde subversif alliant symboles religieux, luttes révolutionnaires et sadomasochisme.  
 suivi de  

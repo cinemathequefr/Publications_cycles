@@ -924,10 +924,14 @@
   },
   {
     "idSeance": 92870,
-    "idEvenement": 27702,
+    "idEvenement": 27694,
     "dateHeure": "2023-03-23T17:30:00",
     "salle": "JE",
     "cycle": [
+      [
+        "Archi Vives",
+        "Les films"
+      ],
       [
         "Archi Vives",
         "Rencontres et conférences"
@@ -940,9 +944,17 @@
         "sousTitre": "Conférence de Gréco Casadesus",
         "typeConference": "Conférence",
         "duree": 90
+      },
+      {
+        "idFilm": 153715,
+        "titre": "Ennio",
+        "realisateurs": "Giuseppe Tornatore",
+        "annee": 2021,
+        "duree": 156,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "c27702"
+    "hashEvenement": "c27702f153715"
   },
   {
     "idSeance": 92798,
@@ -965,29 +977,6 @@
       }
     ],
     "hashEvenement": "c27688"
-  },
-  {
-    "idSeance": 90727,
-    "idEvenement": 27694,
-    "dateHeure": "2023-03-23T19:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Archi Vives",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 153715,
-        "titre": "Ennio",
-        "realisateurs": "Giuseppe Tornatore",
-        "annee": 2021,
-        "duree": 156,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f153715"
   },
   {
     "idSeance": 92978,

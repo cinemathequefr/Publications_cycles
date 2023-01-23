@@ -27,7 +27,7 @@ de Pier Paolo Pasolini
 Italie / 1961 / 120 min / VOSTF / DCP  
 Avec Franco Citti, Franca Pasut, Silvana Corsini.  
 Un souteneur de la banlieue de Rome perd son gagne-pain quand sa protégée est mise en prison. Il fait alors la connaissance de l'innocente Stella.  
-Retour après 25 ans d'exil du républicain Buñuel dans l'Espagne de Franco du début des années 60. Ironie dévastatrice à propos de la bonté qui pousse au crime et première sublime méditation sur la vieillesse, avec le double Fernando Rey. (Frédéric Bonnaud)
+« Premier long-métrage de PPP : nouveaux corps, nouvelle langue, nouveaux lieux. Essai d'une modernité archaïque. » (Frédéric Bonnaud)
 
 - lu 3 avr 19h00 HL
 

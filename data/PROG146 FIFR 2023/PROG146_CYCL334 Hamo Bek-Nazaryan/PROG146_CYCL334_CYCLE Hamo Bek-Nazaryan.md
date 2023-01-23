@@ -4,10 +4,10 @@
 
 [154257]  
 **Land of Nairi**  
-de Hamo Beknazaryan  
+de Hamo Bek-Nazaryan  
 Arménie / 1930 / 62 min / Autres / DCP  
 Pour son premier long métrage documentaire, Bek-Nazarian recourt autant à des images d'archives qu'à des scènes rejouées, pour créer une fresque historique et poétique sur la transformation de la province de Nairi en florissante république soviétique.  
-Restauration commandée par le National Cinema Center of Armenia avec l'aide du Ministère de l'Education, de la Science, de la Culture et du Sport de la République d'Arménie. Nouvelle restauration 4K à partir d'un positif 35 mm par One Man Studio, Yerevan, 2022.
+Restauration commandée par le National Cinema Center of Armenia avec l'aide du ministère de l'Éducation, de la Science, de la Culture et du Sport de la république d'Arménie. Nouvelle restauration 4K à partir d'un positif 35 mm par One Man Studio, Yerevan, 2022.
 
 - sa 11 mar 12h00 HO
 

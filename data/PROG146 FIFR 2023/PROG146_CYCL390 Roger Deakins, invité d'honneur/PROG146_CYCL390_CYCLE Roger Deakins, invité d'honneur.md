@@ -9,7 +9,8 @@ de Sam Mendes
 Avec Dean Charles Chapman, George MacKay, Daniel Mays, Colin Firth.  
 Pris dans la tourmente de la Première Guerre mondiale, deux jeunes soldats britanniques se voient assigner une mission à proprement parler impossible.
 
-- me 8 mar 12h00 HO
+- ve 10 mar 12h00 HO  
+Séance suivie d'une discussion avec Roger Deakins
 
 [126983]  
 **Sicario**  
