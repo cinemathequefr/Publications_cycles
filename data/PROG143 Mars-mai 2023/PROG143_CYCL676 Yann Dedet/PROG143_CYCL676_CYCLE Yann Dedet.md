@@ -20,7 +20,7 @@ D'après le roman _Les Deux Anglaises et le Continent_ d'Henri-Pierre Roché.
 Avec Jean-Pierre Léaud, Kika Markham, Stacey Tendeter.  
 À Paris, au début du XIX<sup>e</sup> siècle, Claude rencontre une jeune Anglaise qui l'invite en vacances au pays de Galles, où elle fait tout pour qu'il tombe amoureux de sa sœur.
 
-- sa 13 mai 19h30 HL  
+- sa 13 mai 19h00 HL  
 Séance présentée par Kika Markham
 
 [131740]  

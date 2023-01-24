@@ -181,6 +181,14 @@ Présentation en avant-première de sa sortie en salles le 15 mars par Carlotta 
 
 - sa 11 mar 15h30 JE
 
+[154334]  
+**Jane Campion, la Femme Cinéma**  
+de Julie Bertuccelli  
+France / 2022 / 99 min / DCP  
+Première femme à avoir remporté la Palme d'or à Cannes, pour _La Leçon de piano_, la réalisatrice Jane Campion a su en quarante ans se tailler une place unique dans le panthéon très masculin du cinéma.
+
+- sa 11 mar 17h45 JE
+
 [51463]  
 **Le Jour des rois**  
 de Marie-Claude Treilhou  
@@ -275,7 +283,7 @@ Avec Walter Matthau, Henry Fonda, Dan O'Herlihy.
 En pleine guerre froide, à la suite d'une erreur technique, un groupe de bombardiers nord-américains reçoit l'ordre de lancer une attaque nucléaire contre Moscou.  
 Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35 mm d'origine. Transfert supervisé par Grover Crisp, travail de couleur effectué par Sheri Eisenberg et Roundabout Entertainment. Bande sonore mono remasterisée à Deluxe (Hollywood), sous la supervision de Bob Simmons.
 
-- me 8 mar 16h00 GF
+- me 8 mar 14h00 JE
 
 [43918]  
 **Les Proies du vampire**  

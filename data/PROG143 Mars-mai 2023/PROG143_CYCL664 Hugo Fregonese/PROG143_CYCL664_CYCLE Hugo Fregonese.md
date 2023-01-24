@@ -116,7 +116,7 @@ Le docteur Wilson, un jeune psychiatre, est chargé de mission à la prison de H
 **Mission spéciale au Deuxième Bureau**  
 **(Die Todesstrahlen des Dr Mabuse)**  
 de Hugo Fregonese  
-RFA-France-Italie / 1964 / 90 min / VO / Numérique  
+RFA-France-Italie / 1964 / 90 min / VOSTF / Numérique  
 Avec Peter Van Eyck, Yvonne Furneaux, Valery Inkijinoff, Yoko Tani.  
 Un brillant agent du Deuxième Bureau doit retrouver le professeur Larsen, qui vient de mettre au point une arme redoutable. Celui-ci mène ses recherches sur l'île de Malte avec pour unique compagnie sa nièce Gilda, qui lui sert de mémoire vivante.  
 Film également connu sous le titre _Docteur Mabuse et le rayon de la mort_.
@@ -168,7 +168,7 @@ Séance présentée par Jacques Lourcelles
 [32490]  
 **The Raid**  
 de Hugo Fregonese  
-États-Unis / 1954 / 83 min / VO / 35 mm  
+États-Unis / 1954 / 83 min / VOSTF / 35 mm  
 Avec Van Heflin, Anne Bancroft, Richard Boone, Lee Marvin.  
 En 1864, un groupe de Confédérés dirigé par le major Neal Benton s'échappe d'une prison de l'Union. Ils s'introduisent dans une petite ville nordiste, avec l'objectif de la mettre à sac.
 

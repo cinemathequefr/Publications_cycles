@@ -212,7 +212,7 @@ D'après le roman _Call It Treason_ de George Howe.
 Avec Oskar Werner, Richard Basehart, Gary Merrill.  
 La Seconde Guerre mondiale touche à sa fin. Un jeune Allemand accepte de trahir les siens pour tenter de mettre fin aux exactions commises par les nazis.
 
-- di 16 avr 14h30 GF
+- di 16 avr 15h00 GF
 
 [59914]  
 **True Lies**  

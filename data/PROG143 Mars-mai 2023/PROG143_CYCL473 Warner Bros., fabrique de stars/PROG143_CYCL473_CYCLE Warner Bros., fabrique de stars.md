@@ -54,7 +54,7 @@ Avec Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains.
 Pendant la Seconde Guerre mondiale, le cabaret le plus couru de Casablanca est tenu par Rick, un Américain en exil. Un soir arrive parmi ses clients son ancien amour, Ilsa, accompagnée de son époux.
 
 - me 5 avr 20h00 HL  
-Ouverture de la rétrospective  
+Ouverture de la rétrospective. Séance présentée par Olivier Snanoudj  
 - di 7 mai 17h30 GF
 
 [44445]  

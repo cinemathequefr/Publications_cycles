@@ -11,6 +11,7 @@ Avec Vittorio Gassman, Catherine Spaak, Gian Maria Volonté.
 Les aventures picaresques du chevalier Brancaleone qui, accompagné de son armée de gueux, se dirige vers le fief d'Aurocastro pour se l'accaparer illégalement.
 
 - ve 5 mai 18h00 HL  
+Séance présentée par Jean A. Gili  
 - sa 27 mai 19h15 HL
 
 [58449]  
@@ -84,7 +85,8 @@ D'après le roman _Caro Michele_ de Natalia Ginzburg.
 Avec Mariangela Melato, Lou Castel, Alfonso Gatto, Aurore Clément, Delphine Seyrig.  
 Après les émeutes étudiantes de 68, Michele quitte sa famille bourgeoise pour Londres, mais reste en contact avec sa mère et ses sœurs, dans une correspondance où il fait la lumière sur les différents personnages qui ont marqué sa vie, notamment Mara, qui prétend avoir eu un enfant de lui. Un jour, elles apprennent la mort de Michele.
 
-- je 18 mai 20h30 HL
+- je 18 mai 20h30 HL  
+- me 24 mai 15h30 JE
 
 [43159]  
 **Casanova 70**  
@@ -199,7 +201,8 @@ Avec Totò, Aldo Fabrizi, Pina Piovani.
 Le petit escroc Ferdinando est arrêté par le sergent Bottoni, mais parvient à lui échapper. Suspendu, le policier doit remettre la main sur le voleur pour sauver sa place.
 
 - je 27 avr 18h00 HL  
-Séance présentée par Jean A. Gili
+Séance présentée par Jean A. Gili  
+- je 11 mai 20h30 JE
 
 [41987]  
 **La Grande Guerre**  
@@ -232,7 +235,8 @@ D'après les nouvelles _Ladri in chiesa_ et _Lacrime di gioia_ d'Alberto Moravia
 Avec Anna Magnani, Totò, Ben Gazzara.  
 Une figurante de Cinecittà, un petit voleur de bijoux et son comparse, réunis par le hasard, passent la nuit du réveillon à écumer les fêtes de Rome, avec un succès relatif.
 
-- ve 28 avr 20h30 HL
+- ve 28 avr 20h30 HL  
+- je 11 mai 18h00 JE
 
 [73067]  
 **Il Male oscuro**  
@@ -274,6 +278,7 @@ Après la mort d'un des leurs, des quadragénaires se souviennent de leurs plais
 Film conçu et écrit par Pietro Germi qui, malade, en confia la réalisation à Mario Monicelli.
 
 - sa 29 avr 20h30 HL  
+Séance présentée par Jean A. Gili  
 - lu 22 mai 20h00 GF
 
 [42460]  
@@ -315,7 +320,8 @@ Italie / 1977 / 115 min / VOSTF / 35 mm
 Avec Alberto Sordi, Ugo Tognazzi, Vittorio Gassman.  
 Douze sketches, tableaux sombres et amers qui, à la suite des _Monstres_ de 1963, mettent en scène l'évolution de la société italienne.
 
-- me 17 mai 20h00 HL
+- me 17 mai 20h00 HL  
+- je 25 mai 16h00 GF
 
 [56602]  
 **Les Ogresses**  
@@ -376,7 +382,8 @@ Avec Ugo Tognazzi, Ornella Muti, Michele Placido.
 Un quinquagénaire épouse sa filleule de trente ans sa cadette. Il est peu à peu rongé par la jalousie.
 
 - sa 29 avr 18h15 HL  
-Séance présentée par Jean-François Rauger
+Séance présentée par Jean-François Rauger  
+- ve 26 mai 16h00 GF
 
 [101591]  
 **Les Roses du désert**  

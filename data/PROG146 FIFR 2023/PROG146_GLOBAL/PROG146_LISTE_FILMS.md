@@ -22,9 +22,10 @@
   * Love  
   * Vie privée d'Henry VIII (La)
 
-## Joel Coen, parrain du festival (7)
+## Joel Coen, parrain du festival (8)
 
   * Ballade de Buster Scruggs (La)  
+  * Barton Fink  
   * Big Lebowski (The)  
   * Fargo  
   * Inside Llewyn Davis  
@@ -32,11 +33,10 @@
   * Tragedy of Macbeth (The)  
   * Vitelloni (Les)
 
-## Kiyoshi Kurosawa, invité d'honneur (3)
+## Kiyoshi Kurosawa, invité d'honneur (2)
 
   * Armored Car Robbery  
-  * Gardien de l'enfer (Le)  
-  * Spontaneous Combustion
+  * Gardien de l'enfer (Le)
 
 ## Raretés des collections (7)
 
@@ -48,7 +48,7 @@
   * Montagne infidèle (La)  
   * Thaïs
 
-## Restaurations et incunables (36)
+## Restaurations et incunables (37)
 
   * À bout de course  
   * Boy Meets Girl  
@@ -67,6 +67,7 @@
   * Idée (L')  
   * Inconnu (L')  
   * Italia, le feu, la cendre  
+  * Jane Campion, la Femme Cinéma  
   * Jour des rois (Le)  
   * Manolesco prince des poètes  
   * Mauvais sang  
@@ -92,8 +93,7 @@
   * 1917  
   * Sicario
 
-## Sept œuvres majeures du Maghreb (3)
+## Sept œuvres majeures du Maghreb (2)
 
-  * Alger insolite  
   * De quelques événements sans significations  
-  * Porte sur le ciel (Une)  
+  * Une porte sur le ciel  

@@ -57,7 +57,7 @@ Film suivi de _Crossroads_ de Bruce Conner, _Comment s'en sortir sans sortir_ de
 [84569]  
 **La Montagne infidèle**  
 de Jean Epstein  
-France / 1923 / 21 min / INT. FR. / DCP  
+France / 1923 / 24 min / INT. FR. / DCP  
 En juin 1923, en Sicile, deux cratères de l'Etna s'ouvrent à nouveau. Jean Epstein et son opérateur Paul Guichard filment avec grande témérité la spectaculaire coulée de lave et les dévastations qu'elle produit.  
 Restauration 4K à partir d'une copie teintée 28 mm Pathé-KOK retrouvée à la Filmoteca de Catalunya, datant de 1924. Numérisation au 2CR-Filmoteca de Catalunya. Préservation par l'Arquivo Nacional das Imagens em Movimento, à la Cinemateca Portuguesa.
 

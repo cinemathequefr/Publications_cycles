@@ -12,6 +12,15 @@ Six fables mettant en scène un cowboy musicien, un chercheur d'or, un braqueur 
 
 - di 12 mar 16h30 GF
 
+[31780]  
+**Barton Fink**  
+de Joel Coen  
+États-Unis / 1990 / 116 min / VOSTF / DCP  
+Avec John Turturro, John Goodman, Judy Davis.  
+Barton Fink, jeune auteur de pièces de théâtre dont la dernière est encensée par la critique, est embauché par Hollywood pour écrire une série B sur le monde de la lutte, auquel il ne connaît rien. Fink s'isole dans un hôtel désert pour travailler, et fait connaissance avec son étrange voisin.
+
+- me 8 mar 16h00 GF
+
 [29211]  
 **The Big Lebowski**  
 de Joel Coen  

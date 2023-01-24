@@ -2,17 +2,6 @@
 
 ## Les films
 
-[58042]  
-**Alger insolite**  
-**(Tah'iya ya Didu)**  
-de Mohamed Zinet  
-Algérie / 1971 / 76 min / VOSTF / DCP  
-Avec Georges Arnaud, Mohamed Zinet, Himmoud Brahimi, Suzie Nacer.  
-Simon et sa femme, un couple de touristes français, visitent les rues d'Alger quand soudain, Simon reconnaît un Algérien aveugle qu'il a torturé pendant la guerre.  
-Restauration en 2017 au laboratoire Laser Films (Italie), en collaboration avec le Centre Algérien de la Cinématographie (CAC), à partir du négatif original retrouvé à la Cinémathèque algérienne.
-
-- me 8 mar 14h00 JE
-
 [71576]  
 **De quelques événements sans significations**  
 de Mostafa Derkaoui  
@@ -24,7 +13,7 @@ Restauration en 2019 par la Filmoteca de Catalunya et l'Observatoire (Casablanca
 - di 12 mar 19h30 GF
 
 [64888]  
-**Une Porte sur le ciel**  
+**Une porte sur le ciel**  
 **(Bab al sama maftuh)**  
 de Farida Ben Lyazid  
 Maroc / 1988 / 100 min / VOSTF / DCP  
