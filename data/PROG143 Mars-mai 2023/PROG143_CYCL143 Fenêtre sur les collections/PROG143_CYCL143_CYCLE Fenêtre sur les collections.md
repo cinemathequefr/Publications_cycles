@@ -20,7 +20,7 @@ Séance présentée par Felicidad Guarda
 de Charles Marquis Warren  
 États-Unis / 1956 / 81 min / VOSTF / 35 mm  
 Avec Hugh Marlowe, Coleen Gray, Adele Mara.  
-Suspectées d'avoir aidé le chef du gang des Blacklegs à s'évader de prison, quatre entraîneuses de saloon trouvent abri dans une auberge. Les Blacklegs s'y réfugient à leur tour et sèment la terreur.
+Suspectées d'avoir aidé le chef du gang des Blacklegs à s'évader de prison, quatre entraîneuses de saloon trouvent refuge dans une auberge. Les Blacklegs s'y abritent à leur tour et sèment la terreur.
 
 - ve 17 mar 20h15 JE  
 Séance présentée par Noémie Jean

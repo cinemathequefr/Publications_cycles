@@ -233,7 +233,7 @@ D'après le roman _Les Six jours du Condor _ de James Grady.
 Avec Faye Dunaway, Robert Redford.  
 Joseph Turner, alias « Le Condor », est un agent de la CIA. Un jour, en rentrant de déjeuner, il découvre ses collègues assassinés. Un tueur cherche à l'abattre. Turner se lance alors dans une course contre la montre.
 
-- di 29 jan 14h30 HL
+- di 29 jan 14h30 JE
 
 [32418]  
 **Un crime dans la tête**  

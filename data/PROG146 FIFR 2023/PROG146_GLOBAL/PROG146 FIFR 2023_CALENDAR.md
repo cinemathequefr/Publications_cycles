@@ -4,14 +4,14 @@
 **Accompagnement musical par Tessa Pontaud. Séance présentée par Claire Denis**  
 S'en fout la mort (Claire Denis, 1990)
 
-**14h00 JE Sept œuvres majeures du Maghreb**  
-Alger insolite (Mohamed Zinet, 1971)
-
-**16h00 GF Restaurations et incunables**  
+**14h00 JE Restaurations et incunables**  
 Point limite (Sidney Lumet, 1963)
 
+**16h00 GF Joel Coen, parrain du festival**  
+Barton Fink (Joel Coen, 1990)
+
 **16h30 JE Sept œuvres majeures du Maghreb**  
-Une Porte sur le ciel (Farida Ben Lyazid, 1988)
+Une porte sur le ciel (Farida Ben Lyazid, 1988)
 
 **18h30 GF Restaurations et incunables**  
 Le Comédien (Sacha Guitry, 1947)
@@ -106,8 +106,8 @@ The tragedy of Macbeth + discussion avec Joel Coen et Bruno Delbonnel
 Cinéma, Cinémas : Adieu Rita (André S. Labarthe, 1987)  
 Cinéastes, de notre temps : Le Dinosaure et le Bébé (André S. Labarthe, 1967)
 
-**21h00 GF Hamo Bek-Nazaryan**  
-La Maison sur le volcan (Hamo Beknazaryan, 1928)
+**21h00 GF Hamo Bek-Nazarian**  
+La Maison sur le volcan (Hamo Bek-Nazarian, 1928)
 
 **22h00 HL Restaurations et incunables**  
 Le Miroir de la sorcière (Chano Urueta, 1962)
@@ -117,8 +117,8 @@ Le Miroir de la sorcière (Chano Urueta, 1962)
 **12h00 HO Restaurations et incunables**  
 Manolesco prince des poètes (Victor Tourjansky, 1929)
 
-**12h00 HO Hamo Bek-Nazaryan**  
-Land of Nairi (Hamo Bek-Nazaryan, 1930)
+**12h00 HO Hamo Bek-Nazarian**  
+Land of Nairi (Hamo Bek-Nazarian, 1930)
 
 **12h00 HO Raretés des collections**  
 La Montagne infidèle (Jean Epstein, 1923)  
@@ -144,6 +144,9 @@ Italia, le feu, la cendre (Céline Gailleurd, Olivier Bohler, 2021)
 
 **16h30 GF Kiyoshi Kurosawa, invité d'honneur**  
 Armored Car Robbery (Richard Fleischer, 1950)
+
+**17h45 JE Restaurations et incunables**  
+Jane Campion, la femme cinéma (Julie Bertuccelli, 2022)
 
 **18h30 GF Joel Coen, parrain du festival**  
 Les Vitelloni (Federico Fellini, 1953)
@@ -194,7 +197,7 @@ Tokyo Pop (Fran Rubel Kuzui, 1987)
 Boy Meets Girl (Leos Carax, 1984)
 
 **18h45 JE Kiyoshi Kurosawa, invité d'honneur**  
-Spontaneous Combustion (Tobe Hooper, 1989)
+Armored Car Robbery (Richard Fleischer, 1950)
 
 **19h30 GF Sept œuvres majeures du Maghreb**  
 De quelques événements sans significations (Mostafa Derkaoui, 1974)

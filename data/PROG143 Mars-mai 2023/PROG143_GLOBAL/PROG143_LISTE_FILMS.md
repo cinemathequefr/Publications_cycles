@@ -76,10 +76,10 @@
   * Passage interdit  
   * Quand les tambours s'arrêteront  
   * Raid (The)  
+  * Saddle Tramp  
   * Sept Tonnerres (Les)  
-  * Signe des rénégats (Le)  
-  * Souffle sauvage (Le)  
-  * Vagabond et les Lutins (Le)
+  * Signe des renégats (Le)  
+  * Souffle sauvage (Le)
 
 ## Jeune public (15)
 
@@ -126,7 +126,7 @@
   * Clin d'éventail  
   * Cosmic Ray  
   * Dafnis y Cloe  
-  * Danz  
+  * Dance  
   * Day I've Been Fucked in Front of the Entire World (The)  
   * Dead Youth  
   * Dehors-dedans  
@@ -134,7 +134,7 @@
   * Dyketactics  
   * Essai cinématographique : Autoportrait ou Ce qui manque à nous tous  
   * Face  
-  * Faites-vous jouir de plus en plus  
+  * Faites-vous de plus en plus jouir  
   * Filles de Ka-ma-ré (Une petite culotte pour l'été) (Les)  
   * Firefly  
   * Fireworks  

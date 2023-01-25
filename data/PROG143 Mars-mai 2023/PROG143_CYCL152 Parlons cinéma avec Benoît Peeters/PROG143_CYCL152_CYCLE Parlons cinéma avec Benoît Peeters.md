@@ -42,7 +42,7 @@ Alors qu'il pense passer quelques jours paisibles avec sa fiancée à Paris, un 
 d'Aki Kaurismäki  
 Finlande / 1996 / 96 min / VOSTF / DCP  
 Avec Kati Outinen, Kari Väänänen, Elina Salo.  
-Lauri, chauffeur de tramway, et sa femme Ilona, serveuse dans un restaurant, perdent tous les deux leur emploi. Alors qu'ils se mettent tous deux à la recherche incertaine d'un nouvel emploi, leur couple est mis à l'épreuve.
+Lauri, chauffeur de tramway, et sa femme Ilona, serveuse dans un restaurant, perdent chacun leur travail. Alors qu'ils se mettent tous deux à la recherche incertaine d'un nouvel emploi, leur couple est mis à l'épreuve.
 
 - je 27 avr 19h30 GF
 

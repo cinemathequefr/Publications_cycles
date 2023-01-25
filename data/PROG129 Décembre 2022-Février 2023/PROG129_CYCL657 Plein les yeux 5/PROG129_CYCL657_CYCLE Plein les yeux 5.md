@@ -158,7 +158,7 @@ En 2054, la société tente d'éradiquer les crimes en se dotant d'un système d
 de Quentin Tarantino  
 États-Unis-Grande-Bretagne / 2019 / 159 min / VOSTF / DCP  
 Avec Leonardo DiCaprio, Brad Pitt, Margot Robbie.  
-Los Angeles, 1969. L’ex-star de la télévision, Rick Dalton, est sur le déclin. Son cascadeur et ami, Cliff Booth, veille sur lui. Leurs chemins vont croiser ceux de l’actrice Sharon Tate et de la famille Manson.
+Los Angeles, 1969. L'ex-star de la télévision, Rick Dalton, est sur le déclin. Son cascadeur et ami, Cliff Booth, veille sur lui. Leurs chemins vont croiser ceux de l'actrice Sharon Tate et de la famille Manson.
 
 - me 21 déc 20h00 HL
 
@@ -168,8 +168,7 @@ Los Angeles, 1969. L’ex-star de la télévision, Rick Dalton, est sur le décl
 de Yeon Sang-ho  
 Corée / 2020 / 115 min / VOSTF / DCP  
 Avec Gang Dong-won, Kim Do-yoon, Lee Jung-hyun.  
-Quatre ans après la propagation d’une mystérieuse épidémie transformant les individus en zombies, un commando tente de récupérer au cœur d'une zone contaminée, pour le compte de truands chinois, un camion contenant une
-énorme somme d'argent.  
+Quatre ans après la propagation d'une mystérieuse épidémie transformant les individus en zombies, un commando tente de récupérer au cœur d'une zone contaminée, pour le compte de truands chinois, un camion contenant une énorme somme d'argent.  
 Suite de _Dernier Train pour Busan_.
 
 - ve 23 déc 19h30 HL

@@ -215,14 +215,16 @@
   * Woman on the Beach  
   * Yourself and Yours
 
-## Jeune public (23)
+## Jeune public (25)
 
   * Azur et Asmar  
+  * Balades sous les étoiles  
   * Belle et la Bête (La)  
   * Bonjour  
   * Cadet d'eau douce  
   * Cyrano de Bergerac  
   * Des pas dans la neige  
+  * Déshabillage impossible (Le)  
   * Étrange Noël de monsieur Jack (L')  
   * Fantasia  
   * Flocon de neige  

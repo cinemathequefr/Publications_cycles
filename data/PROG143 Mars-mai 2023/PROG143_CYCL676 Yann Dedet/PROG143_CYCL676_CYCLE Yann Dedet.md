@@ -15,7 +15,7 @@ Un pasteur de Silésie, ancien nazi, organise une fête commémorative pour le r
 [51564]  
 **Les Deux Anglaises et le Continent**  
 de François Truffaut  
-France / 1971 / 132 min / 35 mm  
+France / 1971 / 132 min / DCP  
 D'après le roman _Les Deux Anglaises et le Continent_ d'Henri-Pierre Roché.  
 Avec Jean-Pierre Léaud, Kika Markham, Stacey Tendeter.  
 À Paris, au début du XIX<sup>e</sup> siècle, Claude rencontre une jeune Anglaise qui l'invite en vacances au pays de Galles, où elle fait tout pour qu'il tombe amoureux de sa sœur.
@@ -48,7 +48,7 @@ Kym, une actrice australienne, part seule visiter la Bosnie. À son retour, elle
 de Louise Traon  
 France / 2013 / 58 min / Numérique  
 Avec Luís Miguel Cintra, Valérie Loiseleux, Mariana Guerreiro.  
-La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film de Manoel de Oliveira, _L'Étrange affaire Angélica_. Dans les salles de montage commence un voyage intérieur, parmi les souvenirs de ce cinéma avec lequel elle a grandi.
+La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film de Manoel de Oliveira, _L'Étrange Affaire Angélica_. Dans les salles de montage commence un voyage intérieur, parmi les souvenirs de ce cinéma avec lequel elle a grandi.
 
 - ve 19 mai 21h00 GF  
 Séance présentée par Louise Traon  
@@ -105,7 +105,7 @@ Séance présentée par Brigitte Roüan
 [51338]  
 **Passe montagne**  
 de Jean-François Stévenin  
-France / 1978 / 35 mm  
+France / 1978 / 110 min / DCP  
 Avec Jean-François Stévenin, Jacques Villeret, Yves Lemoigne.  
 La voiture de Georges, architecte parisien, tombe en panne sur l'autoroute. Serge, mécanicien divorcé, propose de le dépanner. Les deux hommes se lient d'une étrange amitié et partent plusieurs jours dans la forêt jurassienne.
 
@@ -117,7 +117,7 @@ Voir aussi leçon de cinéma p. xx
 de Sébastien Lifshitz  
 France / 2000 / 100 min / DCP  
 Avec Jérémie Elkaïm, Stéphane Rideau, Marie Matheron.  
-Mathieu, 18 ans, passe l'été dans la maison d'été de sa mère, en Bretagne. Sur la plage, il rencontre Cédric. Commence alors ce qui ressemble à une aventure de vacances mais, jour après jour, l'affection grandit et devient intense.
+Mathieu, 18 ans, passe l'été dans la maison de sa mère, en Bretagne. Sur la plage, il rencontre Cédric. Commence alors ce qui ressemble à une aventure de vacances mais, jour après jour, l'affection grandit et devient intense.
 
 - lu 15 mai 20h45 GF  
 Séance présentée par Sébastien Lifshitz

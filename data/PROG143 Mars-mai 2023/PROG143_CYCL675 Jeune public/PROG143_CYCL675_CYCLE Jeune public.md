@@ -49,7 +49,7 @@ de Louis Malle
 France / 1960 / 89 min / DCP  
 D'après le roman _Zazie dans le métro_ de Raymond Queneau.  
 Avec Catherine Demongeot, Philippe Noiret, Carla Marlier, Annie Fratellini.  
-Pour sa première visite à Paris, Zazie rêve de prendre le métro. À cause d'une grève des transports, elle parcourt la capitale de rue en rue et y fait de multiples rencontres.
+Pour sa première visite à Paris, Zazie rêve de prendre le métro. À cause d'une grève des transports, elle parcourt la capitale et y fait de multiples rencontres.
 
 - me 29 mar 15h00 GF
 
@@ -97,7 +97,7 @@ Un petit garçon découvre une créature magique, mi-poisson rouge, mi-petite fi
 de Steven Spielberg  
 États-Unis / 1982 / 120 min / VF / DCP  
 Avec Dee Wallace, Henry Thomas, Peter Coyote.  
-Dans une banlieue californienne, un extra-terrestre en mission sur Terre n'a pu remonter à temps avec les siens dans son vaisseau spatial. Traqué par des militaires, il découvre brutalement la civilisation humaine, avant d'être recueilli par Elliott, un garçon de dix ans.
+Dans une banlieue californienne, un extraterrestre en mission sur Terre n'a pu remonter à temps avec les siens dans son vaisseau spatial. Traqué par des militaires, il découvre brutalement la civilisation humaine, avant d'être recueilli par Elliott, un garçon de dix ans.
 
 - me 19 avr 15h00 GF
 
@@ -115,7 +115,7 @@ Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'a
 **Tex Avery Follies**  
 de Tex Avery, Dick Lundy, Michael Lah  
 États-Unis / 1964 / 85 min / VOSTF / 35 mm  
-Compilation de douze cartoons pour plonger dans l'univers pétillant et délirant de Tex Avery.
+Compilation de douze _cartoons_ pour plonger dans l'univers pétillant et délirant de Tex Avery.
 
 - me 26 avr 15h00 GF
 

@@ -17,7 +17,8 @@ Portugal-France-Danemark / 1997 / 94 min / VOSTF / 35 mm
 Avec Vanda Duarte, Nuno Vaz.  
 L'errance dramatique d'un jeune couple et d'un bébé dans les rues d'un quartier pauvre de Lisbonne.
 
-- lu 6 mar 19h30 JE
+- lu 6 mar 19h30 JE  
+Séance suivie d'une discussion avec Peter Bastos
 
 ## Xavier Lacaille / Noémie Lvovsky
 
@@ -57,7 +58,7 @@ suivi de
 de Martin Jauvat  
 France / 2020 / 41 min / DCP  
 Avec Sébastien Chassagne, Benoît Forgeard, Georges Pillegand.  
-Pour sa première enquête officielle, l'agent spécial Van der Byten est envoyé à Chelles, en banlieue parisienne. Sa mission : trouver le Mozeb. Mais c'est quoi, le Mozeb ? Alors que son enquête piétine, il est confronté à une série d'étranges rencontres.  
+Pour sa première enquête officielle, l'agent spécial Van der Byten est envoyé à Chelles, en banlieue parisienne. Sa mission : trouver le Mozeb. Mais c'est quoi, le Mozeb ? Alors que son enquête piétine, il fait une série d'étranges rencontres.  
 suivi de  
 [154317]  
 **Les Vacances à Chelles**  
@@ -151,7 +152,8 @@ France-Liban / 2004 / 26 min / VOSTF / 35 mm
 Avec Raed Yassin, Peter Semaan.  
 Ali vit et travaille à Beyrouth, comme assistant d'un photographe sportif. Amoureux d'une jeune femme qu'il a aperçue lorsqu'elle participait à une compétition équestre, il demande des conseils de séduction à sa sœur. Celle-ci suggère de lui écrire un poème.
 
-- lu 24 avr 19h30 JE
+- lu 24 avr 19h30 JE  
+Séance suivie d'une discussion avec Wissam Charaf
 
 ## Vincent Le Port
 

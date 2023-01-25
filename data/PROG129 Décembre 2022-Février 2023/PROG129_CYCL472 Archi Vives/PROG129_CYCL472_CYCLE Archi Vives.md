@@ -14,7 +14,7 @@ Voir aussi dialogue p. xx
 [49428]  
 **La Fiancée du pirate**  
 de Nelly Kaplan  
-France / 1969 / 107 min / VO / DCP  
+France / 1969 / 107 min / DCP  
 Avec Bernadette Lafont, Georges Géret, Michel Constantin.  
 Une belle fille qui vit avec sa mère dans une misérable cabane est convoitée par tous les hommes du village, à qui elle se refuse.
 

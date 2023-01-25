@@ -39,7 +39,7 @@ suivi de
 **Fulmen**  
 d'Othello Vilgard  
 France / 2023 / 20 min / Numérique  
-« Deux, tant qu'il y a seulement deux, il est impossible que l'ajustage soit beau sans un troisième. Il faut qu'il se produise entre eux, au milieu, un lien qui les conduit à l'union. » (Platon, _Timée_) « _Fulmen_, flicker anatomique, noir et blanc, couleur, sonore, 20'. » (Othello Vilgard)  
+« Deux, tant qu'il y a seulement deux, il est impossible que l'ajustage soit beau sans un troisième. Il faut qu'il se produise entre eux, au milieu, un lien qui les conduit à l'union. » (Platon, _Timée_)  
 Première mondiale.  
 suivi de  
 [154247]  
@@ -60,7 +60,7 @@ Avant même l'invention de la séance de cinéma publique, Georges Demenÿ explo
 **Baisers envolés**  
 de Georges Demenÿ  
 France / 1894 / 1 min / Numérique  
-Georges Demenÿ, celui qui a inauguré la représentation de la parole au cinéma en articulant « Je vous aime », met en scène les premiers baisers, l'érotisation du hors-champ, l'érogénéisation de la caméra.  
+Georges Demenÿ, celui qui a inauguré la représentation de la parole au cinéma en articulant « Je vous aime », met en scène l'invite, l'érotisation du hors-champ, l'érogénéisation de la caméra.  
 suivi de  
 [154106]  
 **Clin d'éventail**  
@@ -78,7 +78,7 @@ suivi de
 **The Kiss**  
 de William Heise  
 États-Unis / 1896 / 1 min / Numérique  
-Première œuvre du cinéma à faire du baiser entre deux êtres un sujet filmique. À la fois coquin et tendre, cette œuvre pionnière est la première d'un corpus qui inclut tout aussi bien Edwin S. Porter (_The Kiss_, 1909) qu'Andy Warhol (_Kiss_, 1963).  
+Produit par Thomas Edison, considéré comme scandaleux, _The Kiss_ engendre immédiatement manifestations, campagne et censure.  
 suivi de  
 [52380]  
 **Après le bal**  
@@ -131,7 +131,9 @@ Aux fondatrices élaborations fantasmatiques de Kenneth Anger et Jean Genet rép
 de Kenneth Anger  
 États-Unis / 1947 / 14 min / 16 mm  
 Avec Kenneth Anger, Gordon Gray, Bill Seltzer.  
-« Me suis endormi avec le _Fireworks_ d'Anger et le _Chant d'amour_ de Genet en boucle dans ma tête et ai rêvé profondément. » (Derek Jarman, journal, juin 1991) « _Fireworks_ vient du plus profond de la nuit d'où émergent toutes les œuvres vraies. Il touche le vif de l'âme et c'est là chose rare. » (Jean Cocteau)  
+« _Fireworks_ vient du plus profond de la nuit d'où émergent toutes les œuvres vraies. Il touche le vif de l'âme et c'est là chose rare. » (Jean Cocteau)
+
+« Me suis endormi avec le _Fireworks_ d'Anger et le _Chant d'amour_ de Genet en boucle dans ma tête et ai rêvé profondément. » (Derek Jarman, journal, juin 1991)  
 suivi de  
 [54392]  
 **Un chant d'amour**  
@@ -189,7 +191,7 @@ suivi de
 de Barbara Rubin  
 États-Unis / 1963 / 30 min / 16 mm  
 Avec Barbara Rubin, Naomi Levine.  
-Classique underground de la très jeune Barbara Rubin (18 ans à l'époque) où, au fil des tubes, s'enchaînent des actes hétérosexuels et homosexuels, au croisement de la performance et de la plasticisation des corps.
+Classique _underground_ de la très jeune Barbara Rubin (18 ans à l'époque) où, au fil des tubes, s'enchaînent des actes hétérosexuels et homosexuels, au croisement de la performance et de la plasticisation des corps.
 
 - sa 13 mai 16h00 JE
 
@@ -202,7 +204,9 @@ Filmer expérimentalement le sexe commence par indexer celui-ci sur l'irrévére
 de Jack Smith  
 États-Unis / 1963 / 45 min / VO / 16 mm  
 Avec Piero Heliczer, Frances Francine, Sheila Bick, Joel Markman, Mario Montez, Judith Malina.  
-« Flamboyantes : rayonnantes, fabuleuses, extravagantes, virevoltantes, enflammées, resplendissantes, incandescentes, captivantes, en feu. » (Stéphane Gérard) « Jack Smith atteint pour la première fois au cinéma une haute qualité d'art libéré de toute bienséance ; et un traitement du sexe qui nous fait prendre conscience de la retenue de tous les cinéastes précédents. » (_Film Culture_)  
+« Jack Smith atteint pour la première fois au cinéma une haute qualité d'art libéré de toute bienséance ; et un traitement du sexe qui nous fait prendre conscience de la retenue de tous les cinéastes précédents. » (_Film Culture_)
+
+« Flamboyantes : rayonnantes, fabuleuses, extravagantes, virevoltantes, enflammées, resplendissantes, incandescentes, captivantes, en feu. » (Stéphane Gérard)  
 suivi de  
 [154115]  
 **6/64 Mama und Papa (Materialaktion Otto Mühl)**  
@@ -214,14 +218,14 @@ suivi de
 **7/64 Leda und der Schwan**  
 de Kurt Kren  
 Autriche / 1964 / 3 min / 16 mm  
-« _Leda et le Cygne_ est fondé sur une Materialaktion d'Otto Muehl. L'usage presque convulsif de la juxtaposition réapparaît ici, mais le geste capté assume une sensibilité plus érotique, tandis que l'« action » elle-même cherchait avant tout une destruction progressive de l'érotique. » (Stephen Dwoskin)  
+« _Leda et le Cygne_ est fondé sur une _Materialaktion_ d'Otto Muehl. L'usage presque convulsif de la juxtaposition réapparaît ici, mais le geste capté assume une sensibilité plus érotique, tandis que l'"action" elle-même cherchait avant tout une destruction progressive de l'érotique. » (Stephen Dwoskin)  
 suivi de  
 [153992]  
 **Fuses**  
 de Carolee Schneemann  
 États-Unis / 1967 / 25 min / 16 mm  
 Avec Carolee Schneemann, James Tenney.  
-Le film d'amour explicite que tout le monde a voulu, aurait voulu, voudrait pouvoir réussir.
+"En tant que peintre, je n'ai jamais accepté qu'aucune partie du corps soit sujette à un quelconque tabou visuel ou tactile" (Carolee Schneemann)
 
 - sa 13 mai 18h00 JE
 
@@ -297,7 +301,7 @@ suivi de
 **Tapp und TastKino**  
 de Valie Export  
 Autriche / 1968 / 2 min / VO / DCP  
-« Le film documente une célèbre performance de Valie Export dans les rues de Vienne : sur sa poitrine, elle a attaché une boîte, un « mini-cinéma », dans laquelle deux mains peuvent s'introduire. La circonstance explicite le cinéma comme salle de projection des fantasmes masculins. » (Sixpack)  
+« Le film documente une célèbre performance de Valie Export dans les rues de Vienne : sur sa poitrine, elle a attaché une boîte, un "mini-cinéma", dans laquelle deux mains peuvent s'introduire. La circonstance explicite le cinéma comme salle de projection des fantasmes masculins. » (Sixpack)  
 suivi de  
 [99685]  
 **Moment**  
@@ -322,7 +326,7 @@ suivi de
 d'Antonio Maenza Blasco  
 Espagne / 1968 / 37 min / VO / Numérique  
 Avec Maite Larrauri, Luis Puig, Rafa Ferrando, Narciso Sáez.  
-Monument du cinéma d'avant-garde espagnol sur l'amour et la politique. L'idéal révolutionnaire passe aussi par le fait de réinventer le sexe et le désir, à trois si possible.
+Essai amoureux et politique où la réinvention du désir et de la vie ensemble, si possible à trois, participe aussi de l'idéal révolutionnaire.
 
 - di 14 mai 15h30 JE
 
@@ -361,14 +365,14 @@ suivi de
 **Onanism**  
 de Nalini Malani  
 Inde / 1969 / 4 min / VO / Numérique  
-Seule femme alors à y contribuer, Nalini Malani participe au Vision Exchange Workshop, un centre d'art expérimental à Mumbai. _Onanism_ est caractéristique de son intérêt à aborder les aspects non dits ou tabous de la vie des femmes.  
+"Le but était de parler de la question du sexe et de la masturbation d'un point de vue féminin, à une époque où ces sujets étaient tabous au cinéma et dans les arts visuels en Inde". (Nalini Malani)  
 Prêt du Centre Pompidou (MNAM/CCI), Paris.  
 suivi de  
 [154122]  
-**Danz**  
+**Dance**  
 de Georg Brintrup  
 RFA / 1969 / 4 min / Numérique  
-Une brève flambée visuelle au fort pouvoir d'évocation érotique et sensuelle, pour un film portraitiste que l'on pourrait croire tourné hier, et qui préfigure les fulgurances chez Philippe Grandrieux.  
+Tourné hier, lien méconnu entre expressionnisme allemand et furia punk.  
 suivi de  
 [154123]  
 **I Change I Am the Same**  
@@ -387,7 +391,7 @@ suivi de
 **Oblivion**  
 de Tom Chomont  
 États-Unis / 1969 / 6 min / 16 mm  
-Représentation expérimentale d'un corps et d'une figure masculin·e·s : l'érotisme de l'homme nu endormi, son éveil, une cigarette matinale.  
+Représentation expérimentale d'un corps et d'une figure au masculin : l'érotisme de l'homme nu endormi, son éveil, une cigarette matinale.  
 suivi de  
 [154120]  
 **Face**  
@@ -401,7 +405,7 @@ suivi de
 d'Antoni Padrós  
 Espagne / 1969 / 19 min / VO / Numérique  
 Avec Toni Martínez, Rosa Morata.  
-Chef-d'œuvre d'avant-garde subversif alliant symboles religieux, luttes révolutionnaires et sadomasochisme.  
+Après l'évocation de leurs origines (prose bucolique de Longus, ballet symphonique de Ravel), les amours de Daphnis et Chloé s'allient au sadomasochisme, au blasphème, aux luttes révolutionnaires.  
 suivi de  
 [154124]  
 **Basta**  
@@ -428,7 +432,7 @@ Belgique / 1969 / 21 min / 16 mm
 « Dans chaque grande ville, il y a une volière. Dans chaque volière, il y a toujours au moins un oiseau rare, un oiseau rare au sexe enragé... » « Pour pouvoir respirer, il faut exterminer le bourgeois. Pour vivre, il faut exterminer le bourgeois. » (Roland Lethem)  
 suivi de  
 [154126]  
-**Faites-vous jouir de plus en plus**  
+**Faites-vous de plus en plus jouir**  
 de Michel Laitem  
 Belgique / 1974 / 18 min / Numérique  
 « Professeur de morale, critique de cinéma, scénariste de bandes dessinées, Michel Laitem (1948-2013) réalise deux courts métrages – dont cette fable antitravail, exhortant à la critique radicale de la vie quotidienne, qui avait disparu depuis trente ans. » (XGB)  
@@ -565,7 +569,7 @@ suivi de
 **Blue Streak**  
 de Mark Rappaport  
 États-Unis / 1971 / 16 min / Numérique  
-Premier film de Mark Rappaport, _Blue Streak_ est un manifeste formel et politique alliant nudité et cartons évoquant les thématiques et les problématiques sexuelles.
+_Blue Streak_ conjugue un manifeste en faveur d'une sexualité diverse à la représentation du groupe et de la pluralité des corps.
 
 - sa 20 mai 20h30 GF  
 Séance présentée par Mark Rappaport
@@ -578,7 +582,7 @@ Fondé en 1968 par des étudiants de l'université Waseda, le groupe activiste N
 **Motoshinkakarannu**  
 de Tetsurō Nunokawa, NDU  
 Japon / 1971 / 86 min / VOSTA / Numérique  
-Avec peuple d'Okinawa, prostituées, yakuzas, touristes, GIs, Black Panthers. « Qu'est-ce qu'un documentaire ? Il ne s'agit pas de gens qui rencontrent d'autres gens sur les lieux de la création d'un « travail », mais que le « travail » naisse des rencontres entre les gens. » (Rō Takenaka, 1972)
+Avec peuple d'Okinawa, prostituées, yakuzas, touristes, GIs, Black Panthers. « Qu'est-ce qu'un documentaire ? Il ne s'agit pas de gens qui rencontrent d'autres gens sur les lieux de la création d'un "travail", mais que le "travail" naisse des rencontres entre les gens. » (Rō Takenaka, 1972)
 
 - di 21 mai 18h15 GF
 
@@ -595,7 +599,7 @@ suivi de
 [154156]  
 **Inner Man**  
 de Mako Idemitsu  
-Japon / 1972 / 4 min / VO / 16 mm  
+États-Unis, Japon / 1972 / 4 min / VO / 16 mm  
 Film-performance sur la sexualité, qui inverse les codes de l'érotisme alors dominants : la réalisatrice est vêtue d'un kimono et le danseur est nu.  
 suivi de  
 [154008]  
@@ -649,7 +653,7 @@ Premier volet d'une trilogie sexuelle, film psychédélique sur la violence des 
 d'Eiichi Yamamoto  
 Japon / 1973 / 88 min / VOSTF / 35 mm  
 D'après l'ouvrage _La Sorcière_ de Jules Michelet.  
-Jeanne, dans l'espoir d'obtenir vengeance, pactise avec le diable après avoir été violée par le seigneur de son village. « Influencés par l'Art nouveau, les plans évoquent Alfons Mucha, Aubrey Beardsley, Gustav Klimt, Egon Schiele. La conclusion du film, marquée par l'idéologie d'une époque hyper-libertaire, rappelle l'apport des femmes dans la Révolution française. » (Jean-Marie Lanlo)
+Jeanne, dans l'espoir d'obtenir vengeance, pactise avec le Diable après avoir été violée par le seigneur de son village. « Influencés par l'Art nouveau, les plans évoquent Alfons Mucha, Aubrey Beardsley, Gustav Klimt, Egon Schiele. La conclusion du film, marquée par l'idéologie d'une époque hyper-libertaire, rappelle l'apport des femmes dans la Révolution française. » (Jean-Marie Lanlo)
 
 - je 25 mai 18h30 GF
 
@@ -661,7 +665,7 @@ Jeanne, dans l'espoir d'obtenir vengeance, pactise avec le diable après avoir �
 **X**  
 de Barbara Hammer  
 États-Unis / 1973 / 9 min / VO / 16 mm  
-« Dans les années 70, j'ai créé une esthétique connectant vue et toucher. L'image tactile devait impliquer physiquement l'audience. J'espérais qu'en ressentant d'une manière « nouvelle », elle deviendrait active dans le champ politique. » (Barbara Hammer)  
+« Dans les années 70, j'ai créé une esthétique connectant vue et toucher. L'image tactile devait impliquer physiquement l'audience. J'espérais qu'en ressentant d'une manière "nouvelle", elle deviendrait active dans le champ politique. » (Barbara Hammer)  
 suivi de  
 [154023]  
 **Menses**  
@@ -673,7 +677,7 @@ suivi de
 **Dyketactics**  
 de Barbara Hammer  
 États-Unis / 1973 / 4 min / Numérique  
-« L'imagerie sensuelle qui provoque des sensation physiques chez le spectateur à travers des stimulations visuelles était le principe esthétique de base de mon premier film lesbien fait pour des femmes. » (Barbara Hammer)  
+« L'imagerie sensuelle qui provoque des sensations physiques chez le spectateur à travers des stimulations visuelles était le principe esthétique de base de mon premier film lesbien fait pour des femmes. » (Barbara Hammer)  
 suivi de  
 [141228]  
 **Multiple Orgasm**  
@@ -704,7 +708,7 @@ suivi de
 d'Arthur J. Bressan Jr.  
 États-Unis / 1974 / 76 min / VOSTF / DCP  
 Avec Robert Adams, Arthur J. Bressan Jr., Eddie Cadena, Robert Carnagey.  
-Initiation sexuelle et politique d'un adolescent où s'affirment socialement des identités sexuelles et de genre dans leur beauté, leur force et leur diversité.  
+film d'apprentissage pour un adolescent où s'affirment socialement des identités sexuelles et de genre dans leur beauté, leur force et leur diversité.  
 Avec l'aimable autorisation du Bressan Project et de l'American Genre Film Archive.
 
 - sa 27 mai 16h00 GF
@@ -715,7 +719,7 @@ _Les Filles de Ka-ma-ré_ détourne _Le Pensionnat des jeunes filles perverses_ 
 
 [154190]  
 **Les Filles de Ka-ma-ré (Une petite culotte pour l'été)**  
-de René Vienet  
+de René Viénet  
 France / 1974 / 88 min / 35 mm  
 Avec Miki Sugimoto, Reiko Ike, Seiko Saburi, Misuzu Ōta.  
 « Il s'agit du second détournement (intégral) par René Viénet d'un film asiatique. Comme celui-ci souhaite inscrire un cliquet de plus dans le détournement, avec quelques complices, il tourne quelques inserts hard. » (René Viénet)

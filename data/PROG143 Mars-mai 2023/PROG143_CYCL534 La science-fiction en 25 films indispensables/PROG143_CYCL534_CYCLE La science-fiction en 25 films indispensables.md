@@ -8,8 +8,7 @@
 de Stanley Kubrick  
 États-Unis / 1968 / 149 min / VOSTF / 70 mm  
 Avec Keir Dullea, Gary Lockwood.  
-À l'aube de l'humanité, une tribu de primates découvre un étrange monolithe noir. Quatre millions d'années plus tard, deux astronautes font route vers Jupiter à bord du vaisseau Discovery, sous le contrôle de HAL 9000, un ordinateur exceptionnel doué d'intelligence et de parole.  
-Tourné en Super-Panavision 70 Todd-AO / Technicolor. Son 6-pistes DTS digital stéréo. Copie restaurée.
+À l'aube de l'humanité, une tribu de primates découvre un étrange monolithe noir. Quatre millions d'années plus tard, deux astronautes font route vers Jupiter à bord du vaisseau Discovery, sous le contrôle de HAL 9000, un ordinateur exceptionnel doué d'intelligence et de parole.
 
 - je 23 mar 20h00 HL
 
@@ -46,8 +45,7 @@ L'ingénieur Los réceptionne un curieux message qui semble venir de l'espace. D
 de Ridley Scott  
 États-Unis / 1979 / 117 min / VOSTF / 70 mm  
 Avec Sigourney Weaver, John Hurt, Ian Holm, Tom Skerritt, Veronica Cartwright.  
-À bord du Nostromo, un vaisseau spatial en route pour la Terre, une dangereuse créature extraterrestre s'attaque aux sept membres de l'équipage, un par un. Le lieutenant Ellen Ripley va affronter cet indésirable huitième passager.  
-Restauration 4K menée en 2018 par la 20th Century Fox, sous la supervision de Ridley Scott et Pam Dery.
+À bord du Nostromo, un vaisseau spatial en route pour la Terre, une dangereuse créature extraterrestre s'attaque aux sept membres de l'équipage, un par un. Le lieutenant Ellen Ripley va affronter cet indésirable huitième passager.
 
 - ve 17 mar 20h45 HL  
 Séance présentée par Bernard Benoliel
@@ -76,7 +74,7 @@ Avec Sandra Bullock, George Clooney, Ed Harris.
 de Steven Spielberg  
 États-Unis / 2005 / 116 min / VOSTF / 35 mm  
 D'après le roman _La Guerre des mondes_ de H. G. Wells.  
-Avec Tom Cruise, Dakota Fanning, Miranda Otto.  
+Avec Tom Cruise, Dakota Fanning, Tim Robbins..  
 D'étranges et gigantesques machines venues de l'espace surgissent brusquement et détruisent tout sur leur passage. Ray Ferrier et sa famille vont devoir se battre pour leur survie.
 
 - me 22 mar 21h00 HL

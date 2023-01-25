@@ -73,7 +73,7 @@ Séance présentée par Jean A. Gili
 de Mario Monicelli  
 Italie / 1994 / 118 min / VOSTF / 35 mm  
 Avec Paolo Villaggio, Massimo Ceccherini.  
-Un été 1944 en Toscane. Dieci, qui prétend avoir été boxeur et manager, réunit une bande de jeunes hommes pour organiser des matchs.
+Un été 1944 en Toscane. Dieci, qui prétend avoir été boxeur et manager, réunit une bande de jeunes hommes pour organiser des combats.
 
 - sa 27 mai 14h30 HL
 
@@ -136,7 +136,7 @@ Ouverture de la rétrospective
 de Mario Monicelli  
 Italie / 1956 / 103 min / VOSTF / 16 mm  
 Avec Elsa Martinelli, Gabriele Ferzetti, Walter Chiari.  
-Donatella, fille d'artisan, garde la villa d'une riche Américaine pendant son absence. Elle fait la rencontre d'un riche avocat dont elle tombe amoureuse.
+Donatella, fille d'artisan, garde la villa d'une riche Américaine pendant son absence. Elle fait la rencontre d'un avocat dont elle tombe amoureuse.
 
 - sa 13 mai 17h30 GF
 
@@ -168,7 +168,7 @@ de Mario Monicelli
 Italie / 1954 / 100 min / VF / 35 mm  
 D'après le roman _La Madre_ de Grazia Deledda.  
 Avec Mel Ferrer, Amedeo Nazzari, Lea Massari.  
-Don Paolo, un jeune prêtre troublé par l'amour qu'il éprouve pour Agnese, tente de faire régner la paix dans un petit village sarde où deux familles sont en guerre.
+Don Paolo, un jeune prêtre troublé par l'amour que lui porte une jeune femme, tente de faire régner la paix dans un petit village sarde où deux familles sont en guerre.
 
 - lu 29 mai 20h30 GF
 
@@ -450,7 +450,7 @@ Lors d'une opération de la brigade des mœurs, l'agent Caccavallo arrête par e
 de Mario Monicelli, Steno  
 Italie / 1952 / 104 min / VOSTF / 35 mm  
 Avec Totò, Anna Carena, Giovanna Pala, Alberto Sordi.  
-Ercole Pappalardo, marié, cinq fils, cherche par tous les moyens à gravir les échelons de la société dans laquelle il travaille, mais rien ne se passe comme prévu.
+Ercole Pappalardo, marié, cinq enfants, cherche par tous les moyens à gravir les échelons de la société dans laquelle il travaille, mais rien ne se passe comme prévu.
 
 - me 3 mai 18h00 HL
 

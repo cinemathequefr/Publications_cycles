@@ -132,7 +132,7 @@ suivi de
 de Xavier Baert  
 France / 2004 / 10 min / 16 mm  
 Avec Cyril Accorsi.  
-« Cette naissance de la silhouette humaine renvoie, métonymiquement, au cinéma des origines, au pré-cinéma de Marey ou de Muybridge. Baert et son modèle ont voulu retrouver les mouvements aériens de la danseuse Loïe Fuller. Cette recherche des origines se poursuit par la plasticité des empreintes du danseur et de la circulation des matériaux et des lumières. » (Raphaël Bassan, _Bref_, n°&nbsp;65, mars-avril 2005)  
+« Cette naissance de la silhouette humaine renvoie, métonymiquement, au cinéma des origines, au pré-cinéma de Marey ou de Muybridge. Baert et son modèle ont voulu retrouver les mouvements aériens de la danseuse Loïe Fuller. Cette recherche des origines se poursuit par la plasticité des empreintes du danseur et de la circulation des matériaux et des lumières. » (Raphaël Bassan, _Bref_, n° 65, mars-avril 2005)  
 suivi de  
 [154174]  
 **Bal de la Tournelle**  
@@ -143,7 +143,7 @@ suivi de
 [154175]  
 **Contrechants / Atlas**  
 de Xavier Baert  
-France / 2022 / 120 min / Numérique  
+France / 2022 / 115 min / Numérique  
 « Avec _Contrechants / Atlas_, atlas de photographies et de textes réalisés depuis février 2021, il s'agit, dans la continuité de mes écrits sur le Brésil depuis 2015, de ma ville d'adoption, São Paulo, et de la situation politique du Brésil, qui relève déjà d'un processus historique de longue durée. » (Xavier Baert)
 
 - lu 16 jan 19h00 JE  

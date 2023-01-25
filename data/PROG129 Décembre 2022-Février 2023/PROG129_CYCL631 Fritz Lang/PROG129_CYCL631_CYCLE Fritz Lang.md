@@ -18,7 +18,7 @@ Un fermier parti à la recherche du bandit qui a tué et violé sa fiancée croi
 **Les Araignées**  
 **(Die Spinnen)**  
 de Fritz Lang  
-Allemagne / 1919 / 137 min / VOSTA / Numérique  
+Allemagne / 1919 / 137 min / VOSTF / Numérique  
 Avec Carl de Vogt, Lil Dagover, Ressel Orla.  
 Jeune homme riche et aventureux, Kay Hoog part à la recherche d'un archéologue mystérieusement disparu au Mexique alors qu'il était sur la trace du trésor des Incas. Il devient la cible d'une redoutable société secrète, les Araignées.  
 Montage américain du film, en une seule partie.
@@ -177,7 +177,8 @@ Avec Rudolf Klein-Rogge, Gerda Maurus, Lien Deyers.
 Haghi, chef d'un réseau d'espionnage mondial, a deux ennemis : un commissaire de police et un agent du gouvernement japonais. Il essaie de les vaincre grâce à ses deux meilleurs agents, Sonja et Kitty.
 
 - me 4 jan 20h00 HL  
-Ouverture de la rétrospective. Accompagnement musical par Emmanuelle Parrenin, Quentin Rollet et Jérôme Lorichon
+Ouverture de la rétrospective. Accompagnement musical par Emmanuelle Parrenin, Quentin Rollet et Jérôme Lorichon  
+- sa 4 fév 20h00 GF
 
 [45661]  
 **Espions sur la Tamise**  
@@ -195,7 +196,7 @@ Durant la Seconde Guerre mondiale, un homme est libéré de l'asile. Alors qu'il
 **La Femme au gardénia**  
 **(The Blue Gardenia)**  
 de Fritz Lang  
-États-Unis / 1953 / 90 min / VOSTF / 35 mm  
+États-Unis / 1953 / 88 min / VOSTF / 35 mm  
 D'après la nouvelle _Gardenia_ de Vera Caspary.  
 Avec Anne Baxter, Richard Conte, Ann Sothern, Raymond Burr.  
 Au cabaret The Blue Gardenia, Norah, une employée de bureau, est séduite par un homme qui la fait boire et la ramène chez lui. Lorsqu'il tente d'abuser d'elle, Norah se défend avec un tisonnier et prend la fuite. Elle apprend le lendemain qu'il est mort. Casey Mayo, un célèbre chroniqueur, lui propose par voie de presse de l'aider à se défendre.
@@ -320,7 +321,7 @@ O-Take-Kan, une jeune Japonaise, refuse de devenir geisha du temple, et son pèr
 de Fritz Lang  
 Allemagne / 1927 / 152 min / INT. FR. / DCP  
 Avec Alfred Abel, Gustav Fröhlich, Brigitte Helm, Rudolf Klein-Rogge.  
-En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterrains pour assurent le bonheur des nantis qui vivent dans les jardins suspendus de la ville. Une androïde les mène à la révolte mais, pour contrer son influence, le chef de la cité fait construire un robot à son image.
+En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterrains pour assurer le bonheur des nantis qui vivent dans les jardins suspendus de la ville. Une androïde les mène à la révolte mais, pour contrer son influence, le chef de la cité fait construire un robot à son image.
 
 - sa 7 jan 19h30 HL  
 - me 8 fév 20h00 HL
@@ -465,7 +466,7 @@ En fuite, l'architecte et la danseuse sont traqués par les hommes du Maharadjah
 **Les Trois lumières**  
 **(Der Müde Tod)**  
 de Fritz Lang  
-Allemagne / 1921 / 98 min / INT. FR. / DCP  
+Allemagne / 1921 / 98 min / VOSTF / DCP  
 Avec Bernhard Goetzke, Lil Dagover, Walter Janssen.  
 La Mort raconte trois histoires d'amour à une femme qui veut sauver l'homme qu'elle aime.
 

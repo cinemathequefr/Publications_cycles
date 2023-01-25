@@ -160,7 +160,7 @@ Guerre froide, Allemagne. James Bower, un scientifique américain, est recruté 
 [50275]  
 **Peau d'espion**  
 d'Édouard Molinaro  
-France-RFA-Italie / 1967 / 85 min / 35 mm  
+France-RFA-Italie / 1967 / 89 min / VO / 35 mm  
 D'après le roman _Peau d'espion_ de Jacques Robert.  
 Avec Louis Jourdan, Senta Berger, Bernard Blier, Edmond O'Brien.  
 Depuis la fin de la guerre d'Algérie, un romancier, Charles Beaulieu, vit dans une délicate situation financière qui le pousse à collaborer avec les services secrets.
@@ -191,7 +191,7 @@ Séoul, 1993. Un ancien officier est engagé par les services secrets sud-corée
 
 [154104]  
 **Shiri**  
-de Kang Je-Kyu  
+de Kang Je-kyu  
 Corée / 1999 / 126 min / VOSTF / 35 mm  
 Avec Kim Yoon-jin, Han Suk-kyu, Choi Min-sik.  
 Yu Jung-won, un agent des services secrets de Corée du Sud, enquête sur un projet d'attentat organisé par la Corée du Nord.

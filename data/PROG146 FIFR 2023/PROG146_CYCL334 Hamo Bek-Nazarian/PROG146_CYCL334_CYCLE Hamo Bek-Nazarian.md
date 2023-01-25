@@ -1,4 +1,4 @@
-# Hamo Bek-Nazaryan
+# Hamo Bek-Nazarian
 
 ## Les films
 

@@ -175,6 +175,17 @@ En 1864, un groupe de Confédérés dirigé par le major Neal Benton s'échappe 
 - sa 1 avr 14h30 HL  
 Voir aussi dialogue p. xx
 
+[88401]  
+**Saddle Tramp**  
+de Hugo Fregonese  
+États-Unis / 1950 / 90 min / VOSTF / 35 mm  
+Avec Joel McCrea, Wanda Hendrix, John Russell.  
+L'aventurier Chuck Connors est en visite chez un ami, quand celui-ci se tue en tombant de cheval. Chuck prend alors sous sa protection ses quatre orphelins, son ranch, et une jeune femme en fuite.  
+Film également connu en France sous le titre _Le Vagabond et les lutins_.
+
+- sa 8 avr 16h45 GF  
+- lu 10 avr 18h30 GF
+
 [32858]  
 **Les Sept Tonnerres**  
 **(Seven Thunders)**  
@@ -187,7 +198,7 @@ Avec Anna Gaylor, Stephen Boyd, James Robertson Justice, Tony Wright.
 - ve 14 avr 15h30 HL
 
 [45552]  
-**Le Signe des rénégats**  
+**Le Signe des renégats**  
 **(Mark of the Renegade)**  
 de Hugo Fregonese  
 États-Unis / 1951 / 81 min / VOSTF / 35 mm  
@@ -205,17 +216,6 @@ Avec Gary Cooper, Barbara Stanwyck, Anthony Quinn.
 Au Mexique, Jeff, prospecteur pétrolier fauché, demande la protection d'une compagnie contre les pillards. Mais le patron refuse car Jeff a eu une liaison avec sa femme.
 
 - sa 1 avr 18h00 HL
-
-[88401]  
-**Le Vagabond et les Lutins**  
-**(Saddle Tramp)**  
-de Hugo Fregonese  
-États-Unis / 1950 / 90 min / VOSTF / 35 mm  
-Avec Joel McCrea, Wanda Hendrix, John Russell.  
-L'aventurier Chuck Connors est en visite chez un ami, quand celui-ci se tue en tombant de cheval. Chuck prend alors sous sa protection ses quatre orphelins, son ranch, et une jeune femme en fuite.
-
-- sa 8 avr 16h45 GF  
-- lu 10 avr 18h30 GF
 
 ## Rencontres et conférences
 

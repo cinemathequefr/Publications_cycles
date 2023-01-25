@@ -182,10 +182,10 @@ Présentation en avant-première de sa sortie en salles le 15 mars par Carlotta 
 - sa 11 mar 15h30 JE
 
 [154334]  
-**Jane Campion, la Femme Cinéma**  
+**Jane Campion, la femme cinéma**  
 de Julie Bertuccelli  
 France / 2022 / 99 min / DCP  
-Première femme à avoir remporté la Palme d'or à Cannes, pour _La Leçon de piano_, la réalisatrice Jane Campion a su en quarante ans se tailler une place unique dans le panthéon très masculin du cinéma.
+Portrait de Jane Campion, réalisatrice plasticienne et iconoclaste, subtile portraitiste de l'âme humaine et des femmes, qui a su en quarante ans se tailler une place unique dans le panthéon très masculin du cinéma.
 
 - sa 11 mar 17h45 JE
 
@@ -343,7 +343,7 @@ Restauration 4K réalisée en 2022 par l'équipe de STUDIOCANAL avec Sophie Boye
 de Fran Rubel Kuzui  
 États-Unis / 1987 / 99 min / VOSTF / DCP  
 Avec Carrie Hamilton, Diamond Yukai, Taiji Tonoyama.  
-Wendy joue dans un orchestre de rock ringard. Lassée de New York, elle décide de tenter sa chance au Japon.
+Chanteuse désabusée, Wendy décide de tout plaquer. Elle part à Tokyo, dans l'espoir de réaliser son rêve de rock star.
 
 - di 12 mar 16h30 JE
 

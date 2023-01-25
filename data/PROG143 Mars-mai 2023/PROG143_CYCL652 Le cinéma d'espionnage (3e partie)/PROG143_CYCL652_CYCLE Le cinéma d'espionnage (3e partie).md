@@ -91,7 +91,7 @@ Pendant la Première Guerre mondiale, « Fräulein Doktor », une espionne allem
 d'Alfred Hitchcock  
 États-Unis / 1956 / 120 min / VOSTF / 35 mm  
 Avec James Stewart, Doris Day, Daniel Gélin.  
-Les McKenna, un couple d'Américains et leur petit garçon, en vacances au Maroc, rencontrent un français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, le fils des McKenna est kidnappé.
+Les McKenna, un couple d'Américains et leur petit garçon, en vacances au Maroc, rencontrent un Français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, le fils des McKenna est kidnappé.
 
 - di 19 mar 14h30 HL  
 Voir aussi dialogue p. xx

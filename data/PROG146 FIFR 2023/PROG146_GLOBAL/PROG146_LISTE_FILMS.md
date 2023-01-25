@@ -12,7 +12,7 @@
   * Homme qui a vu l'homme qui a vu l'ours (L')  
   * Taxi Driver mis en pièce par Martin Scorsese
 
-## Hamo Bek-Nazaryan (2)
+## Hamo Bek-Nazarian (2)
 
   * Land of Nairi  
   * Maison sur le volcan (La)
@@ -67,7 +67,7 @@
   * Idée (L')  
   * Inconnu (L')  
   * Italia, le feu, la cendre  
-  * Jane Campion, la Femme Cinéma  
+  * Jane Campion, la femme cinéma  
   * Jour des rois (Le)  
   * Manolesco prince des poètes  
   * Mauvais sang  

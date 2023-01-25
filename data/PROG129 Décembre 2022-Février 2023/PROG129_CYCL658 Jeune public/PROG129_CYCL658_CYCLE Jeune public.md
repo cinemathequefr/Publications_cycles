@@ -146,7 +146,7 @@ de James W. Horne
 Avec Stan Laurel, Oliver Hardy, James Finlayson.  
 Stan et Oliver font route vers l'Ouest pour remettre à une jeune fille l'acte de propriété d'une mine d'or de la part de son père défunt.
 
-- me 1 fév 15h00 GF
+- me 1 fév 15h00 HL
 
 [38069]  
 **Bonjour**  
@@ -247,5 +247,23 @@ Japon / 2009 / 20 min / DCP
 Koma reçoit un cadeau de ses parents avant Noël, avec une lettre lui disant qu'ils ne seront pas à la maison pour les fêtes. Il est anéanti mais son ami Radi-bo arrive avec des solutions intéressantes...
 
 - me 14 déc 15h00 GF
+
+## Ciné-spectacle 3-6 ans
+
+Pour accompagner les plus jeunes spectateurs dans leurs premières découvertes de cinéma, un spectacle tout en douceur mêlant projections de films et petites histoires, en compagnie de la conteuse Violaine Joffart. Au programme, de nouveaux films et de nouvelles histoires sur le thème du rêve.
+
+[145780]  
+**Balades sous les étoiles**  
+de Lizete Upite, Anastasia Melikhova, Jöns Mellgren  
+France-Russie / 2019 / 49 min / DCP  
+suivi de  
+[88023]  
+**Le Déshabillage impossible**  
+de Georges Méliès  
+France / 1900
+
+- me 8 fév 15h00 GF  
+- di 12 fév 15h00 GF  
+- di 5 mar 15h00 GF
 
 Remerciements : Les Acacias, L'Agence du court métrage, Carlotta Films, Diaphana Distribution, Gebeka, Ikki Films, Les Films du Paradoxe, Lobster Films, Park Circus, Swashbuckler Films, The Walt Disney Company France.

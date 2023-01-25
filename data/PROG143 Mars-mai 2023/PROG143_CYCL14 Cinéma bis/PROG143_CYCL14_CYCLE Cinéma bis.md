@@ -18,7 +18,7 @@ Un ex-agent de la CIA tient un magasin d'antiquités à Jérusalem, où il mène
 de Ferdinando Baldi  
 Italie-France-Espagne / 1966 / 97 min / VF / 35 mm  
 Avec Stanley Kent, Annabella Incontrera, Yoko Tani.  
-Pour aider les services de contre-espionnage français et américain, le Pentagone envoie son agent spécial Kurt Jackson en Malaisie pour retrouver un savant chinois, inventeur de bombes atomiques miniatures.
+Afin d'aider les services de contre-espionnage français et américain, le Pentagone envoie son agent spécial Kurt Jackson en Malaisie pour retrouver un savant chinois, inventeur de bombes atomiques miniatures.
 
 - ve 31 mar 21h15 GF
 
@@ -54,7 +54,7 @@ de Lesley Selander
 États-Unis / 1951 / 85 min / VF / 35 mm  
 D'après le récit _Manilla Espionage_ de Claire Phillips.  
 Avec Ann Dvorak, Gene Evans, Douglas Kennedy.  
-Manille (Philippines), Seconde Guerre mondiale. Une jeune femme devient espionne pour les Américains après le meurtre de son mari par un Japonais. Elle ouvre un cabaret et se fait passer pour collaboratrice afin de glaner des renseignements.
+Manille, Philippines, Seconde Guerre mondiale. Une jeune femme devient espionne pour les Américains après le meurtre de son mari par un Japonais. Elle ouvre un cabaret et se fait passer pour une collaboratrice afin de glaner des renseignements.
 
 - ve 28 avr 19h00 GF
 
@@ -87,7 +87,7 @@ Film réalisé sous le pseudonyme de Terence Hathaway.
 de Sergio Grieco  
 Italie-France / 1967 / 95 min / VF / 35 mm  
 Avec Ken Clark, Irina Demick, Luigi Vannucchi.  
-À Paris, le reporter Dick Hallam est témoin de l'assassinat d'un politicien Amérique centrale. Espérant rapporter un scoop, il se lance dans sa propre enquête.  
+À Paris, le reporter Dick Hallam est témoin de l'assassinat d'un politicien d'Amérique centrale. Espérant rapporter un scoop, il se lance dans sa propre enquête.  
 Film réalisé sous le pseudonyme de Terence Hathaway.
 
 - ve 5 mai 21h00 GF
