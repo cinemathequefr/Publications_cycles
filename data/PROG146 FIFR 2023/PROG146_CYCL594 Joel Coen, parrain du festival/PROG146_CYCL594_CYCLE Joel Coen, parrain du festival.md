@@ -28,7 +28,7 @@ de Joel Coen
 Avec Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi.  
 Jeff Lebowski, surnommé le _Dude_, passe son temps à jouer au bowling. Deux malfrats font irruption chez lui et l'agressent, le confondant avec un millionnaire du même nom. Le _Dude_ part alors demander réparation à son riche homonyme.
 
-- di 12 mar 12h00 HO
+- di 12 mar 14h00 HO
 
 [50144]  
 **Fargo**  

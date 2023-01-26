@@ -30,7 +30,7 @@ Avec Nadia Sibirskaïa.
 Une femme au visage triste brûle des lettres, et part se promener dans une nature de fin d'automne.  
 Restauration 4K en 2022 par Lobster Films et la Cinémathèque française avec le soutien du CNC. Travaux réalisés au laboratoire Lobster et au studio L.E. Diapason, à partir des négatifs image et son originaux et d'un interpostif sonore conservés à la Cinémathèque française.
 
-- di 12 mar 12h00 HO  
+- di 12 mar 14h30 HO  
 Film suivi de _Ménilmontant_ de Dimitri Kirsanoff
 
 [35682]  
@@ -208,7 +208,7 @@ Avec Ivan Mosjoukine, Brigitte Helm, Heinrich George.
 Un séducteur parisien tombe amoureux d'une femme de la haute société. Il se met à voler pour payer leur vie de luxe, jusqu'à ce que son passé le rattrape.  
 Restauration en 2018 par la Friedrich-Wilhelm-Murnau-Stiftung, numérisation en 4K à L'Immagine Ritrovata, à partir de deux négatifs d'origine, et de fragments de copies de post-production. Avec le soutien du Beauftragte der Bundesregierung für Kultur und Medien et du Freunde und Förderer des deutschen Filmerbes e.V.
 
-- sa 11 mar 12h00 HO
+- sa 11 mar 18h00 HO
 
 [51955]  
 **Mauvais sang**  
@@ -218,7 +218,8 @@ Avec Denis Lavant, Juliette Binoche, Michel Piccoli.
 La population parisienne est frappée par un virus tuant ceux qui font l'amour sans s'aimer. Le jeune Alex rejoint une bande de gangsters qui tentent de voler un puissant antidote, mais tombe amoureux d'Anna, la maîtresse de son associé criminel.  
 Restauration supervisée par Caroline Champetier, par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, la Cinémathèque de Toulouse, l'Institut audiovisuel de Monaco ainsi que le soutien du CNC et de la Maison CHANEL. Numérisation en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022. Restauration numérique réalisée par les laboratoires Éclair Classics et Amazing Digital Studios. Étalonnage réalisé par Frédéric Savoir chez Amazing Digital Studios.
 
-- di 12 mar 14h00 HL
+- di 12 mar 14h00 HL  
+Séance suivie d'une discussion avec Leos Carax
 
 [102657]  
 **Ménilmontant**  
@@ -228,7 +229,7 @@ Avec Nadia Sibirskaïa, Yolande Beaulieu, Guy Belmont.
 Après l'assassinat de leurs parents, deux jeunes sœurs très unies quittent la province pour Paris. Elles y sont séduites par le même jeune homme, et leurs destins se séparent.  
 Restauration 4K en 2022 par Lobster Film et la Cinémathèque française, avec le soutien du CNC. Travaux menés au laboratoire Lobster à partir d'une copie nitrate originale teintée du BFI et d'un contretype des collections de la Cinémathèque française. Un plan supplémentaire est extrait d'une copie nitrate fragmentaire de la Cinémathèque française.
 
-- di 12 mar 12h00 HO  
+- di 12 mar 14h30 HO  
 Film précédé de _Brumes d'automne_ de Dimitri Kirsanoff
 
 [128743]  
@@ -250,6 +251,8 @@ Le forgeron Bernard Jeansoulet fait vivre, grâce à son travail, son frère Lou
 Restauration en 2021 par la Fondation Jérôme Seydoux-Pathé, avec le soutien du CNC.
 
 - sa 11 mar 12h00 HO  
+Film suivi de _Vues au pochoir : villes d'Europe années 1920 en Pathécolor_ d'Anonyme  
+- sa 11 mar 17h00 HO  
 Film suivi de _Vues au pochoir : villes d'Europe années 1920 en Pathécolor_ d'Anonyme
 
 [133967]  
@@ -384,6 +387,8 @@ France / 1930 / 16 min / INT. FR. / DCP
 La Cinémathèque française a mené en 2022 la restauration de 7 vues coloriées au pochoir selon le procédé Pathécolor, à partir de copies nitrate conservées dans ses collections. Comme des cartes postales animées, les films montrent plusieurs paysages pittoresques aux couleurs magnifiques, invitant au voyage dans différents sites d'Europe : Clovelly, Copenhague, Alicante, Elche, Grenade et la Creuse. Les travaux numériques 4K ont été réalisés au laboratoire Hiventy en s'attachant à restituer fidèlement les couleurs d'origine.
 
 - sa 11 mar 12h00 HO  
+Film précédé de _Le Nabab_ d'Albert Capellani  
+- sa 11 mar 17h00 HO  
 Film précédé de _Le Nabab_ d'Albert Capellani
 
 ## Rencontres et conférences

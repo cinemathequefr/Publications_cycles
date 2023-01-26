@@ -9,7 +9,7 @@ France / 1939 / 21 min / DCP
 Documentaire sur les voies de communication pour la section française de l'Exposition internationale de New York.  
 Numérisation 4K et étalonnage par la Cinémathèque française. Travaux réalisé au laboratoire du CNC à partir d'une copie 35 mm unique.
 
-- sa 11 mar 12h00 HO  
+- sa 11 mar 14h30 HO  
 Film précédé de _La Montagne infidèle_ de Jean Epstein
 
 [154260]  
@@ -61,7 +61,7 @@ France / 1923 / 24 min / INT. FR. / DCP
 En juin 1923, en Sicile, deux cratères de l'Etna s'ouvrent à nouveau. Jean Epstein et son opérateur Paul Guichard filment avec grande témérité la spectaculaire coulée de lave et les dévastations qu'elle produit.  
 Restauration 4K à partir d'une copie teintée 28 mm Pathé-KOK retrouvée à la Filmoteca de Catalunya, datant de 1924. Numérisation au 2CR-Filmoteca de Catalunya. Préservation par l'Arquivo Nacional das Imagens em Movimento, à la Cinemateca Portuguesa.
 
-- sa 11 mar 12h00 HO  
+- sa 11 mar 14h30 HO  
 Film suivi d'_Artères de France_ de Jean Epstein, René Lucot
 
 [154287]  
