@@ -60,7 +60,8 @@ Avec Tommy Lee Jones, Javier Bardem, Josh Brolin.
 Découvrant une camionnette abandonnée et cernée de cadavres, Llewelyn Moss vole les 2 millions de dollars qui se trouvent à l'intérieur. Anton Chigurh, un tueur psychopathe, se lance alors à sa poursuite et déclenche une chasse à l'homme des plus sanglantes.
 
 - je 9 mar 19h00 HL  
-Voir aussi conversation p. xx
+Voir aussi conversation p. xx  
+- di 12 mar 11h30 HL
 
 [152050]  
 **The Tragedy of Macbeth**  

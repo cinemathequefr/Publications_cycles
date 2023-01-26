@@ -240,7 +240,7 @@ Mexique / 1962 / 75 min / VOSTF / DCP
 Avec Rosita Arenas, Armando Calvo, Isabela Corona, Dina De Marco, Carlos Nieto.  
 Sara est employée domestique chez un docteur fou, enclin au féminicide. Elle est aussi une sorcière, qui communique avec des esprits tout-puissants et rêve de venger la mort de sa filleule, l'ancienne femme de son employeur.
 
-- ve 10 mar 22h00 HL
+- sa 11 mar 22h00 HL
 
 [74532]  
 **Le Nabab**  
