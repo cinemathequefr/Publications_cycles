@@ -388,7 +388,7 @@
   * Glorieuse parade (La)  
   * Grand sommeil (Le)  
   * Griffes jaunes  
-  * Guerre ou crime  
+  * Guerre au crime  
   * Impossible amour (L')  
   * Intruse (L')  
   * Légion noire (La)  

@@ -398,7 +398,7 @@ Film également connu sous le titre _L'Honorable Monsieur Wong_.
 - je 4 mai 20h30 GF
 
 [32819]  
-**Guerre ou crime**  
+**Guerre au crime**  
 **(Bullets or Ballots)**  
 de William Keighley  
 États-Unis / 1936 / 82 min / VOSTF / 35 mm  
