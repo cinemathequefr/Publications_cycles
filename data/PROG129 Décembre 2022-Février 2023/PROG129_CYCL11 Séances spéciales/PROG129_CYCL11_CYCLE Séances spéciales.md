@@ -79,6 +79,14 @@ Le 15 juillet 2022 disparaissait Jean-Marie Lavalou, cocréateur avec Alain Mass
 - lu 19 déc 18h30 GF  
 À la suite de la projection de _Jean-Marie Lavalou, itinéraire d'un aventurier, iconoclaste et poète_ de Dominique Maillet (voir p. xx)
 
+**Master class de Laura Dern**  
+Rencontre animée par Bernard Benoliel et Frédéric Bonnaud  
+Frédéric Bonnaud est directeur général de la Cinémathèque française.  
+Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.
+
+- lu 20 fév 16h30 HL  
+À la suite de la projection de _Sailor et Lula_ de David Lynch (voir p. xx)
+
 ## Festival 12x12
 
 Le festival 12x12 fête sa 13<sup>e</sup> édition et invite les Parisiennes et les Parisiens du 12<sup>e</sup> à vivre, du 2 au 13 décembre, douze jours célébrant la culture à travers des expositions, des spectacles, des concerts, des projections et des performances, en accès gratuit, dans douze lieux de l'arrondissement. Organisée par le 100ecs avec le soutien de la Mairie du 12<sup>e</sup> et de la Ville de Paris, la programmation passe, pour cette édition en collaboration avec Autour du 1er mai, par la Cinémathèque française pour la projection du film documentaire _Le Kiosque_.
@@ -117,6 +125,14 @@ Le 15 juillet 2022 disparaissait Jean-Marie Lavalou, cocréateur avec Alain Mass
 - lu 19 déc 18h30 GF  
 À la suite de la projection de _Jean-Marie Lavalou, itinéraire d'un aventurier, iconoclaste et poète_ de Dominique Maillet (voir p. xx)
 
+**Master class de Laura Dern**  
+Rencontre animée par Bernard Benoliel et Frédéric Bonnaud  
+Frédéric Bonnaud est directeur général de la Cinémathèque française.  
+Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.
+
+- lu 20 fév 16h30 HL  
+À la suite de la projection de _Sailor et Lula_ de David Lynch (voir p. xx)
+
 ## Avant-première
 
 [154303]  
@@ -143,12 +159,13 @@ Jeffrey trouve un jour une oreille humaine. Il alerte la police et mène l'enqu�
 **Sailor et Lula**  
 **(Wild at Heart)**  
 de David Lynch  
-États-Unis / 1990 / 127 min / VOSTF / 35 mm  
+États-Unis / 1990 / 127 min / VOSTF / DCP  
 D'après le roman _Sailor et Lula_ de Barry Gifford.  
 Avec Nicolas Cage, Laura Dern, Diane Lane, Willem Dafoe.  
 Sailor et Lula, deux amoureux passionnés, sont en cavale pour fuir la mère de la jeune fille qui s'oppose à leurs amours. Pendant leur périple, ils croisent des personnages étranges et inquiétants.
 
-- lu 20 fév 17h00 HL
+- lu 20 fév 16h30 HL  
+Voir aussi masterclass p. xx
 
 [154331]  
 **The Son**  

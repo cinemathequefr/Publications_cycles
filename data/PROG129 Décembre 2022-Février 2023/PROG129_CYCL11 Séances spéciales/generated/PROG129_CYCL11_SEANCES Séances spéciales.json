@@ -235,21 +235,40 @@
     "typeEvenement": 13,
     "idEvenement": 27912,
     "idSeance": 100598,
-    "dateHeure": "2023-02-20T17:00:00",
+    "dateHeure": "2023-02-20T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 165,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 34863,
         "ordre": 1,
         "idSeance": 100598,
-        "idCopie": 14740,
+        "idCopie": 20701,
         "duree": 127,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2568,
+    "typeEvenement": 14,
+    "idEvenement": 27945,
+    "idSeance": 100598,
+    "dateHeure": "2023-02-20T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },

@@ -222,4 +222,4 @@ Bill Mathison se rend à Salzbourg pour évaluer l'ouvrage de Richard Bryant sur
 
 - ve 3 mar 21h15 GF
 
-Remerciements : Cinémathèque de Toulouse, Cinémathèque Suisse, Film Archiv Optikum, Metropolitan Film Export, Emmanuel Rossi, Sidonis, Tamasa Distribution.
+Remerciements : Gaumont, Productions Roitfeld, Emmanuel Rossi

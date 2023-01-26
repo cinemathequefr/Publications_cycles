@@ -280,4 +280,4 @@ Tarif B : voir p.
 - di 5 fév 14h30 HL  
 À la suite de la projection de _Le Piège_ de John Huston (voir p. xx)
 
-Remerciements : Acacias (Les), Carlotta Films, Elefilm, Forum des images, Gaumont, Memento Films, Park Circus, Pathé Distribution, Tamasa Distribution
+Remerciements : British Film Institute National Archive, Cinémathèque du Luxembourg, Gaumont, Park Circus, Tamasa Distribution, Warner Bros Picture France, Warner Bros. Entertainment France

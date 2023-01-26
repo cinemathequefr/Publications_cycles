@@ -18,7 +18,7 @@ Séance présentée par Felicidad Guarda
 [154302]  
 **The Black Whip**  
 de Charles Marquis Warren  
-États-Unis / 1956 / 81 min / VOSTF / 35 mm  
+États-Unis / 1956 / 81 min / VOSTF / DCP  
 Avec Hugh Marlowe, Coleen Gray, Adele Mara.  
 Suspectées d'avoir aidé le chef du gang des Blacklegs à s'évader de prison, quatre entraîneuses de saloon trouvent refuge dans une auberge. Les Blacklegs s'y abritent à leur tour et sèment la terreur.
 
