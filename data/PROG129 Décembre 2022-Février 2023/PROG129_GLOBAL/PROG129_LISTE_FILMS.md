@@ -215,7 +215,7 @@
   * Woman on the Beach  
   * Yourself and Yours
 
-## Jeune public (30)
+## Jeune public (29)
 
   * Azur et Asmar  
   * Balades sous les étoiles  
@@ -240,7 +240,6 @@
   * Nuit chérie  
   * Persepolis  
   * Poil de carotte  
-  * Premier tonnerre  
   * Promenade nocturne  
   * Réveilleur (Le)  
   * Ruée vers l'or (La)  

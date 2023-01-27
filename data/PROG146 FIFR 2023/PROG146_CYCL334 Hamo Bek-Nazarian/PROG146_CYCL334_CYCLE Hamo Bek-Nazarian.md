@@ -22,3 +22,4 @@ Restauration commandée par le National Cinema Center of Armenia avec l'aide du 
 
 - ve 10 mar 21h00 GF
 
+Remerciements : National Cinema Center of Armenia, Vigen Galstyan et Naira Gevorgyan.

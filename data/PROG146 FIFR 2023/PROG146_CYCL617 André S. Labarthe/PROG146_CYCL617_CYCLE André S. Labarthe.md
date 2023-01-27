@@ -126,3 +126,4 @@ Restauration par la Cinémathèque française, en collaboration avec Documentair
 
 - je 9 mar 18h30 GF
 
+Remerciements : Mme Danièle Anezin-Labarthe, Documentaire sur Grand Ecran, INA.

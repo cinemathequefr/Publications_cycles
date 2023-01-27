@@ -61,8 +61,7 @@ d'Ethan Coen, Joel Coen
 Avec Oscar Isaac, Carey Mulligan, Justin Timberlake, John Goodman.  
 Le parcours d'un musicien folk malchanceux dans le New York des années 1960.
 
-- sa 11 mar 14h30 HL  
-Voir aussi masterclass p. xx
+- sa 11 mar 14h30 HL
 
 [102035]  
 **No Country for Old Men**  
@@ -72,8 +71,7 @@ D'après le roman _No Country for Old Men_ de Cormac McCarthy.
 Avec Tommy Lee Jones, Javier Bardem, Josh Brolin.  
 Découvrant une camionnette abandonnée et cernée de cadavres, Llewelyn Moss vole les 2 millions de dollars qui se trouvent à l'intérieur. Anton Chigurh, un tueur psychopathe, se lance alors à sa poursuite et déclenche une chasse à l'homme des plus sanglantes.
 
-- je 9 mar 19h00 HL  
-Voir aussi conversation p. xx
+- je 9 mar 19h00 HL
 
 [31793]  
 **Sang pour sang**  
@@ -94,8 +92,7 @@ D'après le pièce _Macbeth_ de William Shakespeare.
 Avec Denzel Washington, Frances McDormand, Brendan Gleeson.  
 Un seigneur écossais est convaincu par un trio de sorcières qu'il deviendra le prochain roi d'Écosse. Son ambitieuse épouse le soutient dans ses plans pour prendre le pouvoir.
 
-- ve 10 mar 19h30 HL  
-Voir aussi conversation p. xx
+- ve 10 mar 19h30 HL
 
 ## Carte blanche à Joel Coen
 
@@ -126,24 +123,24 @@ Italie-France / 1953 / 103 min / VOSTF / DCP
 Avec Franco Interlenghi, Franco Fabrizi, Alberto Sordi, Leopoldo Trieste.  
 La fin de l'été, dans les rues désertées de Pescara, petite station balnéaire italienne. Cinq amis trentenaires, surnommés les _« vitelloni »_, se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte.
 
-- sa 11 mar 18h30 GF
+- sa 11 mar 18h30 GF  
+Séance présentée par Joel Coen
 
 ## Rencontres et conférences
 
-**No country for old men + Discussion Joel Coen et Roger Deakins**  
-Rencontre animée par Pauline de Raymond
-
-- je 9 mar 19h00 HL  
-À la suite de la projection de _No Country for Old Men_ de Joel Coen, Ethan Coen (voir p. xx)
-
-**The tragedy of Macbeth + discussion avec Joel Coen et Bruno Delbonnel**
-
-- ve 10 mar 19h30 HL  
-À la suite de la projection de _The Tragedy of Macbeth_ de Joel Coen (voir p. xx)
-
-**Inside Llewin Davis + Masterclass Joel Coen**  
+**No Country for Old Men + Masterclass Joel Coen**  
 Rencontre animée par Bernard Benoliel
 
-- sa 11 mar 14h30 HL  
-À la suite de la projection de _Inside Llewyn Davis_ d'Ethan Coen, Joel Coen (voir p. xx)
+- je 9 mar 21h00 HL
 
+**The Tragedy of Macbeth + Dialogue avec Joel Coen et Bruno Delbonnel**  
+Rencontre animée par Frédéric Bonnaud
+
+- ve 10 mar 21h15 HL
+
+**Inside Llewyn Davis + Dialogue avec Joel Coen et Bruno Delbonnel**  
+Rencontre animée par Pauline de Raymond
+
+- sa 11 mar 16h15 HL
+
+Remerciements : Acacias (Les), Ad Vitam Distribution, Apple Tv, Netflix, Paramount Pictures France, Park Circus, Studio Canal, Tamasa Distribution, Universal Pictures International France

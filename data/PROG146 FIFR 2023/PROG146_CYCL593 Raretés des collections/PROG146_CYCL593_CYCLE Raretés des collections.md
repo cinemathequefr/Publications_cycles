@@ -137,3 +137,4 @@ Restauration 4K menée en 2023 par la Cinémathèque française en collaboration
 - sa 11 mar 14h00 JE  
 Film précédé de _La Damnation de Caïn_ de Luigi Maggi
 
+Remerciements : Filmoteca de Catalunya, Clara Martin Villas, Rosa Cardona Arnau, Marionna Bruzzo Llaberia, La Fondation Henri Cartier-Bresson, Pierre Leyrat, Aude Raimbault, Bertrand Guehenneux.

@@ -67,7 +67,8 @@ Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.
 Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
 Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
 
-- di 12 mar 16h45 GF
+- di 12 mar 16h45 GF  
+Séance présentée par Jean-François Rauger
 
 [133965]  
 **Deux amies**  
@@ -250,7 +251,8 @@ Mexique / 1962 / 75 min / VOSTF / DCP
 Avec Rosita Arenas, Armando Calvo, Isabela Corona, Dina De Marco, Carlos Nieto.  
 Sara est employée domestique chez un docteur fou, enclin au féminicide. Elle est aussi une sorcière, qui communique avec des esprits tout-puissants et rêve de venger la mort de sa filleule, l'ancienne femme de son employeur.
 
-- sa 11 mar 22h00 HL
+- sa 11 mar 22h00 HL  
+Séance présentée par Jean-François Rauger
 
 [74532]  
 **Le Nabab**  
@@ -397,4 +399,4 @@ Film précédé de _Le Nabab_ d'Albert Capellani
 
 - di 12 mar 16h00 HL
 
-Remerciements : Alameda Films
+Remerciements : Alameda Films, Archives françaises du film, Robert Byrne, Capricci Films, Carlotta Films, Cinémathèque de Toulouse, Jenny Delcambre, Fondation Jérôme Seydoux-Pathé, Gaumont, George Eastman House, Jupiter Films, KinoLorber, La Traverse, Les Acacias, Les Films du Losange, Les Films du poisson, Murnau Stiftung, Park Circus, Pathé Distribution, Tamasa Distribution, TF1 D.A., Théo Films, UCLA Film & Television Archive, Warner Bros Picture France

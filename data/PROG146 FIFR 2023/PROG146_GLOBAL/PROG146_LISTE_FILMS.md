@@ -18,6 +18,11 @@
   * John Cassavetes (Hollywood 1965, Paris 1968)  
   * Taxi Driver mis en pièce par Martin Scorsese
 
+## Bruno Delbonnel, invité d'honneur (2)
+
+  * Big Eyes  
+  * Faust
+
 ## Hamo Bek-Nazarian (2)
 
   * Land of Nairi  
@@ -107,11 +112,6 @@
   * Up in Mabel's Room  
   * Viva la muerte  
   * Vues au pochoir : villes d'Europe années 1920 en Pathécolor
-
-## Roger Deakins, invité d'honneur (2)
-
-  * 1917  
-  * Sicario
 
 ## Sept œuvres majeures du Maghreb (6)
 

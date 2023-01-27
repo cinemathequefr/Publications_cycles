@@ -65,3 +65,4 @@ Restauration par Transnational Moroccan Cinema Project from the University of Ex
 
 - me 8 mar 16h30 JE
 
+Remerciements : Le Maghreb des films, Gérard Vaugeois.

@@ -56,3 +56,4 @@ Restauration par les Archives du BFI et la Film Foundation, en collaboration ave
 
 - je 9 mar 17h30 JE
 
+Remerciements : British Film Institute National Archive, Mission, M. Kieron Webb.

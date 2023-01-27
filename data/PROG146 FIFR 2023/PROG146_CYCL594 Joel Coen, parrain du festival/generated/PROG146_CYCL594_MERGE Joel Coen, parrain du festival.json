@@ -261,7 +261,6 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
-          "typeAssoc": 118,
           "idCategorie": 2539,
           "idEvenement": 27756,
           "typeEvenement": 13,
@@ -295,7 +294,6 @@
             "Henri Langlois"
           ],
           "dureeSeance": 150,
-          "typeAssoc": 118,
           "idCategorie": 2539,
           "idEvenement": 27757,
           "typeEvenement": 13,
@@ -366,7 +364,6 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
-          "typeAssoc": 118,
           "idCategorie": 2539,
           "idEvenement": 27760,
           "typeEvenement": 13,
@@ -478,6 +475,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 135,
+          "mention": "Séance présentée par Joel Coen",
           "idCategorie": 2966,
           "idEvenement": 27764,
           "typeEvenement": 13,
@@ -511,21 +509,19 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 92486,
-          "ordre": 2,
-          "dateHeure": "2023-03-11T14:30:00",
+          "idSeance": 100569,
+          "dateHeure": "2023-03-11T16:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 75,
-          "typeAssoc": 118,
           "idCategorie": 2984,
           "idEvenement": 27895,
           "typeEvenement": 14,
           "idTypeConference": 145,
           "typeConference": "MasterClass",
-          "titre": "Inside Llewin Davis + Masterclass Joel Coen",
+          "titre": "Inside Llewyn Davis + Dialogue avec Joel Coen et Bruno Delbonnel",
           "duree": 90,
           "textes": [],
           "intervenants": [
@@ -533,80 +529,102 @@
               "nomComplet": "Joel Coen",
               "idFonction": 142,
               "fonction": "Interviewé",
-              "ordre": 2
-            },
-            {
-              "nomComplet": "Bernard Benoliel",
-              "idFonction": 40,
-              "fonction": "Animateur",
               "ordre": 1
-            }
-          ],
-          "mentionAnimation": "Rencontre animée par Bernard Benoliel"
-        },
-        {
-          "idSeance": 92450,
-          "ordre": 2,
-          "dateHeure": "2023-03-09T19:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 75,
-          "typeAssoc": 118,
-          "idCategorie": 2984,
-          "idEvenement": 27893,
-          "typeEvenement": 14,
-          "idTypeConference": 146,
-          "typeConference": "Conversation",
-          "titre": "No country for old men + Discussion Joel Coen et Roger Deakins",
-          "duree": 90,
-          "textes": [],
-          "intervenants": [
+            },
             {
-              "nomComplet": "Joel Coen",
+              "nomComplet": "Bruno Delbonnel",
               "idFonction": 142,
               "fonction": "Interviewé",
               "ordre": 2
-            },
-            {
-              "nomComplet": "Roger Deakins",
-              "idFonction": 142,
-              "fonction": "Interviewé",
-              "ordre": 3
             },
             {
               "nomComplet": "Pauline de Raymond",
               "idFonction": 40,
               "fonction": "Animateur",
-              "ordre": 1
+              "ordre": 3
             }
           ],
           "mentionAnimation": "Rencontre animée par Pauline de Raymond"
         },
         {
-          "idSeance": 92413,
-          "ordre": 2,
-          "dateHeure": "2023-03-10T19:30:00",
+          "idSeance": 100567,
+          "dateHeure": "2023-03-09T21:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 75,
-          "typeAssoc": 118,
+          "idCategorie": 2984,
+          "idEvenement": 27893,
+          "typeEvenement": 14,
+          "idTypeConference": 145,
+          "typeConference": "MasterClass",
+          "titre": "No Country for Old Men + Masterclass Joel Coen",
+          "duree": 90,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Joel Coen",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+        },
+        {
+          "idSeance": 100568,
+          "dateHeure": "2023-03-10T21:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 75,
           "idCategorie": 2984,
           "idEvenement": 27894,
           "typeEvenement": 14,
-          "idTypeConference": 146,
-          "typeConference": "Conversation",
-          "titre": "The tragedy of Macbeth + discussion avec Joel Coen et Bruno Delbonnel",
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "The Tragedy of Macbeth + Dialogue avec Joel Coen et Bruno Delbonnel",
           "duree": 90,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Joel Coen",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bruno Delbonnel",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 2
+            },
+            {
+              "nomComplet": "Frédéric Bonnaud",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 3
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Frédéric Bonnaud"
         }
       ],
       "textes": []
     }
   ],
-  "textes": [],
+  "textes": [
+    {
+      "typeTexte": 263,
+      "texte": "Acacias (Les), Ad Vitam Distribution, Apple Tv, Netflix, Paramount Pictures France, Park Circus, Studio Canal, Tamasa Distribution, Universal Pictures International France"
+    }
+  ],
   "info": {}
 }
