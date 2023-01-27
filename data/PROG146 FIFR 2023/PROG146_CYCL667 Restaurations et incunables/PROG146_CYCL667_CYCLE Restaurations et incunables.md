@@ -67,7 +67,7 @@ Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.
 Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
 Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
 
-- je 9 mar 21h00 GF
+- di 12 mar 16h45 GF
 
 [133965]  
 **Deux amies**  
@@ -232,6 +232,16 @@ Restauration 4K en 2022 par Lobster Film et la Cinémathèque française, avec l
 - di 12 mar 14h30 HO  
 Film précédé de _Brumes d'automne_ de Dimitri Kirsanoff
 
+[39347]  
+**Messidor**  
+d'Alain Tanner  
+Suisse-France / 1978 / 120 min / DCP  
+Avec Clémentine Amouroux, Catherine Rétoré, Franziskus Abgottspon.  
+Deux jeunes auto-stoppeuses issues de milieux très différents partent sur les routes de Suisse, pour échapper à leurs vies insatisfaisantes. Elles s'emparent du pistolet d'un officier, et sont bientôt recherchées par la police.  
+Restauration par Florian Leupin pour filmo-Verein CH. Film, en collaboration avec DNA Films SA, l'Association Alain Tanner et la Cinémathèque suisse, aux laboratoires Color Grade, Masé Studios et Cinegrell.
+
+- je 9 mar 20h00 HO
+
 [128743]  
 **Le Miroir de la sorcière**  
 **(El Espejo de la bruja)**  
@@ -287,16 +297,6 @@ En pleine guerre froide, à la suite d'une erreur technique, un groupe de bombar
 Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35 mm d'origine. Transfert supervisé par Grover Crisp, travail de couleur effectué par Sheri Eisenberg et Roundabout Entertainment. Bande sonore mono remasterisée à Deluxe (Hollywood), sous la supervision de Bob Simmons.
 
 - me 8 mar 14h00 JE
-
-[43918]  
-**Les Proies du vampire**  
-**(El Vampiro)**  
-de Fernando Méndez  
-Mexique / 1957 / 83 min / VOSTF / DCP  
-Avec Germán Robles, Abel Salazar, Ariadne Welter, Carmen Montejo.  
-Une jeune Mexicaine, revenue dans sa famille pour des funérailles, entend des histoires troublantes : la ville serait infestée de vampires. Rapidement, elle soupçonne sa tante et un mystérieux voisin.
-
-- sa 11 mar 22h00 HL
 
 [36021]  
 **Raging Bull**  
@@ -378,7 +378,7 @@ Avec Fernando Arrabal, Mohamed Bellasoued, Mehdi Chaouch, Anouk Ferjac.
 Dans l'Espagne franquiste, le jeune Fando est pris de visions cruelles, violentes et sensuelles quand il découvre que sa mère, fervente catholique, a dénoncé son père aux autorités en l'accusant d'athéisme et d'antifascisme.  
 Restauration en 4K en 2022 par la Cinémathèque de Toulouse en collaboration avec Fernando Arrabal, à partir du négatif 35 mm d'origine, et d'un élément interpositif 35 mm. Travaux de restauration du son menés par le studio L.E. Diapason. Avec le soutien du Ministère des Affaires Culturelles tunisien et de l'Association Ciné-Sud Patrimoine.
 
-- sa 11 mar 21h00 GF
+- je 9 mar 21h00 GF
 
 [154311]  
 **Vues au pochoir : villes d'Europe années 1920 en Pathécolor**  

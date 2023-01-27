@@ -20,6 +20,30 @@ Numérisation et restauration par l'INA en 2K à partir du marron 16 mm noir et 
 - ve 10 mar 20h30 JE  
 - ve 24 mar 20h00 JE
 
+[121606]  
+**Cinéma, Cinémas : Antonioni, la dernière séquence**  
+d'André S. Labarthe  
+France / 1985 / 14 min  
+Avec Michelangelo Antonioni.  
+Michelangelo Antonioni visionne, à la table de montage, des extraits de son film _Profession Reporter._  
+suivi de  
+[121598]  
+**Cinéma, Cinémas : Arthur Penn, la dernière séquence**  
+d'André S. Labarthe  
+France / 1985 / 10 min  
+Avec Arthur Penn.  
+Arthur Penn, à la table de montage, commente la dernière séquence de _Bonnie and Clyde._  
+suivi de  
+[65068]  
+**John Cassavetes (Hollywood 1965, Paris 1968)**  
+de Hubert Knapp, André S. Labarthe  
+France / 1998 / 50 min / VOSTF / DCP  
+Avec John Cassavetes.  
+Deux rencontres improvisées avec John Cassavetes à Hollywood en 1965, alors qu'il va devenir le chef de file du jeune cinéma indépendant américain, et à Paris en 1968, pour la sortie de _Faces_.  
+Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
+
+- ve 10 mar 20h30 HO
+
 [121603]  
 **Cinéma, Cinémas : Claude Chabrol à la table**  
 d'André S. Labarthe  
@@ -66,6 +90,30 @@ Portrait en neuf chapitres, qui sont autant de facettes du cinéaste. Les entret
 Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
 - di 12 mar 14h30 JE
+
+[154272]  
+**Franju, l'avion et la DS**  
+d'André S. Labarthe  
+France / 1987 / 9 min  
+Avec Georges Franju.  
+À la table de montage, Georges Franju, commente deux séquences de son film, _Les Yeux sans visage_.  
+suivi de  
+[121602]  
+**Cinéma, Cinémas : Skolimowski à la table**  
+d'André S. Labarthe  
+France / 1990 / 10 min  
+Avec Jerzy Skolimowski.  
+André S. Labarthe invite Jerzy Skolimowski à la table de montage, pour analyser plan par plan son film _Walk-Over_.  
+suivi de  
+[152744]  
+**Cinéastes, de notre temps : Bleu comme une orange**  
+d'André S. Labarthe  
+France / 1968 / 58 min / DCP  
+Avec Pierre Soulages, Andy Warhol, Brassaï, William Klein.  
+Documentaire sur l'utilisation de la couleur et du noir et blanc dans les arts contemporains à travers neuf artistes.  
+Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
+
+- ve 10 mar 17h30 HO
 
 [74559]  
 **L'Homme qui a vu l'homme qui a vu l'ours**  

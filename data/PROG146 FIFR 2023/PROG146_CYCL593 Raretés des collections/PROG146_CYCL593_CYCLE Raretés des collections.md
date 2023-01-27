@@ -12,6 +12,17 @@ Numérisation 4K et étalonnage par la Cinémathèque française. Travaux réali
 - sa 11 mar 14h30 HO  
 Film précédé de _La Montagne infidèle_ de Jean Epstein
 
+[154290]  
+**Cessez de rire, voici l'Angleterre**  
+**(Stop laughing – This is England)**  
+de Douglas Hickox  
+Grande-Bretagne / 1963 / 20 min / STF / DCP  
+Portrait amusé des Anglais au travail et lors de leurs loisirs dans le Nord industriel du pays.  
+Restauration du film, découvert dans les collections de la Cinémathèque française par son ancien directeur Dominique Païni, par la Cinémathèque en 2022, en collaboration avec la Fondation Henri Cartier-Bresson. Restauration image au laboratoire du CNC, restauration son au studio L.E. Diapason.
+
+- sa 11 mar 14h00 HO  
+Film précédé de _Le Retour_ de Henri Cartier-Bresson
+
 [154260]  
 **Comment s'en sortir sans sortir**  
 de Raoul Sangla  
@@ -44,6 +55,15 @@ Restauration 4K en 2023 à partir d'une copie nitrate teintée par la Cinémath�
 - sa 11 mar 14h00 JE  
 Film suivi de _Thaïs_ d'Anton Giulio Bragaglia
 
+[56416]  
+**Hu-man**  
+de Jérôme Laperrousaz  
+France / 1974 / 90 min / VOSTF / DCP  
+Un célèbre acteur, bouleversé par la mort de sa femme, accepte de participer à une expérience scientifique dangereuse : devant les caméras de télévision, il doit risquer sa vie. Sa peur et celle des téléspectateurs produiront une quantité notable d'« énergie émotionnelle », qui doit lui permettre d'accomplir un saut dans le futur.  
+Restauration par Jérôme Laperrousaz et la Cinémathèque française à partir des négatifs originaux 35 mm issus des collections du CNC. Numérisation 4K effectuée au laboratoire du CNC, travaux de restauration image et son menés au Laboratoire Lobster Films et au studio L.E. Diapason.
+
+- me 8 mar 12h00 HO
+
 [139952]  
 **Mickey Mouse au Vietnam**  
 **(Mickey Mouse in Vietnam)**  
@@ -63,6 +83,48 @@ Restauration 4K à partir d'une copie teintée 28 mm Pathé-KOK retrouvée à la
 
 - sa 11 mar 14h30 HO  
 Film suivi d'_Artères de France_ de Jean Epstein, René Lucot
+
+[154284]  
+**Padro Home Movie Marrakech**  
+de Frédéric Pardo  
+France / 1968 / 17 min / DCP  
+Avec Tina Aumont, Michel Auder, Sylvina Boissonnas.  
+Le film débute sur des plans à Venise, des passants saisis depuis une chambre d'hôtel, avec Tina Aumont. Il se poursuit au Maroc pendant le tournage du _Lit de la vierge_, dans une chambre d'hôtel, les gens discutent, jouent de la guitare, fument.  
+Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir d'une copie 16 mm conservée dans ses collections.
+
+- me 8 mar 12h00 HO  
+Film précédé de _Pardo Home Movie : Tina Aumont_ de Frédéric Pardo, _Pardo New York_ de Frédéric Pardo
+
+[154288]  
+**Pardo Home Movie : Tina Aumont**  
+de Frédéric Pardo  
+France / 1968 / 9 min / DCP  
+Avec Tina Aumont.  
+Montage de found footage de fiction en italien et de plans de Tina Aumont et Pardo dans le jardin du Luxembourg et à la campagne dans un cimetière. Puis plan d'un déjeuner dans le jardin d'une maison de campagne, on y voit Tina et le père de F. Pardo.  
+Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservée dans les collections.
+
+- me 8 mar 12h00 HO  
+Film suivi de _Pardo New York_ de Frédéric Pardo, _Padro Home Movie Marrakech_ de Frédéric Pardo
+
+[154289]  
+**Pardo New York**  
+de Frédéric Pardo  
+France / 1968 / 20 min / DCP  
+Avec Tina Aumont, Nico.  
+Jackie Raynal et Tina Aumont dans Central Park. Vues depuis un appartement, depuis une voiture, Nico à la fenêtre au-dessus de Tina Aumont. Jackie Raynal, enceinte, s'habille dans un appartement, Tina lit allongée. Promenades dans les rues de NYC à la tombée du jour.  
+Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservée dans les collections.
+
+- me 8 mar 12h00 HO  
+Film précédé de _Pardo Home Movie : Tina Aumont_ de Frédéric Pardo et suivi de de _Padro Home Movie Marrakech_ de Frédéric Pardo
+
+[47350]  
+**Le Retour**  
+de Henri Cartier-Bresson  
+France / 1945 / 45 min / VF / 35 mm  
+Les caméramans de l'U.S. Army Signal Corps et le photographe Henri Cartier-Bresson filment la libération de prisonniers et de déportés des camps nazis, leur transfert dans des hôpitaux temporaires et les retrouvailles avec leurs familles à Paris.
+
+- sa 11 mar 14h00 HO  
+Film suivi de _Cessez de rire, voici l'Angleterre_ de Douglas Hickox
 
 [154287]  
 **Thaïs**  

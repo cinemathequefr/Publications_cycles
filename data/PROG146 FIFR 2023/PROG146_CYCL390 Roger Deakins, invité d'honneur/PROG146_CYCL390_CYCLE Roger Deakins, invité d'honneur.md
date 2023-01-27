@@ -19,14 +19,12 @@ de Denis Villeneuve
 Avec Emily Blunt, Benicio Del Toro, Josh Brolin.  
 L'agent spécial Kate Macy se porte volontaire pour intégrer une équipe internationale qui doit s'attaquer à un baron de la drogue.
 
-- ve 10 mar 14h30 HL  
-Voir aussi masterclass p. xx
+- ve 10 mar 14h30 HL
 
 ## Rencontres et conférences
 
 **Master class de Roger Deakins**  
 Rencontre animée par Laurent Mannoni
 
-- ve 10 mar 14h30 HL  
-À la suite de la projection de _Sicario_ de Denis Villeneuve (voir p. xx)
+- ve 10 mar 16h30 HL
 

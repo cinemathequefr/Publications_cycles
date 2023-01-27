@@ -1,15 +1,21 @@
 # Liste des films par cycle
 
-## André S. Labarthe (9)
+## André S. Labarthe (15)
 
+  * Cinéastes, de notre temps : Bleu comme une orange  
   * Cinéastes, de notre temps : Jean-Pierre Melville : Portrait en neuf poses TV  
   * Cinéastes, de notre temps : Le Dinosaure et le Bébé  
   * Cinéastes, de notre temps : Samuel Fuller, Independant Filmmaker  
   * Cinéma, Cinémas : Adieu Rita  
+  * Cinéma, Cinémas : Antonioni, la dernière séquence  
+  * Cinéma, Cinémas : Arthur Penn, la dernière séquence  
   * Cinéma, Cinémas : Claude Chabrol à la table  
   * Cinéma, Cinémas : Deneuve, revue de détails  
   * Cinéma, Cinémas : Fuller à la table  
+  * Cinéma, Cinémas : Skolimowski à la table  
+  * Franju, l'avion et la DS  
   * Homme qui a vu l'homme qui a vu l'ours (L')  
+  * John Cassavetes (Hollywood 1965, Paris 1968)  
   * Taxi Driver mis en pièce par Martin Scorsese
 
 ## Hamo Bek-Nazarian (2)
@@ -17,35 +23,49 @@
   * Land of Nairi  
   * Maison sur le volcan (La)
 
-## Hommage au BFI (2)
+## Hommage au BFI (5)
 
+  * Friendship's Death  
   * Love  
+  * Naked  
+  * Ne pas avaler  
   * Vie privée d'Henry VIII (La)
 
-## Joel Coen, parrain du festival (8)
+## Joel Coen, parrain du festival (12)
 
+  * A Serious Man  
   * Ballade de Buster Scruggs (La)  
   * Barton Fink  
   * Big Lebowski (The)  
   * Fargo  
+  * Femme sans tête (La)  
   * Inside Llewyn Davis  
   * No Country for Old Men  
+  * Rébellion  
+  * Sang pour sang  
   * Tragedy of Macbeth (The)  
   * Vitelloni (Les)
 
-## Kiyoshi Kurosawa, invité d'honneur (2)
+## Kiyoshi Kurosawa, invité d'honneur (3)
 
+  * Alliés  
   * Armored Car Robbery  
   * Gardien de l'enfer (Le)
 
-## Raretés des collections (7)
+## Raretés des collections (13)
 
   * Artères de France  
+  * Cessez de rire, voici l'Angleterre  
   * Comment s'en sortir sans sortir  
   * Crossroads  
   * Damnation de Caïn (La)  
+  * Hu-man  
   * Mickey Mouse au Vietnam  
   * Montagne infidèle (La)  
+  * Padro Home Movie Marrakech  
+  * Pardo Home Movie : Tina Aumont  
+  * Pardo New York  
+  * Retour (Le)  
   * Thaïs
 
 ## Restaurations et incunables (37)
@@ -72,12 +92,12 @@
   * Manolesco prince des poètes  
   * Mauvais sang  
   * Ménilmontant  
+  * Messidor  
   * Miroir de la sorcière (Le)  
   * Nabab (Le)  
   * Naissance de Vénus  
   * Passage du canyon (Le)  
   * Point limite  
-  * Proies du vampire (Les)  
   * Raging Bull  
   * Rien que les heures  
   * S'en fout la mort  
@@ -93,7 +113,11 @@
   * 1917  
   * Sicario
 
-## Sept œuvres majeures du Maghreb (2)
+## Sept œuvres majeures du Maghreb (6)
 
+  * Bab Aziz, le prince qui contemplait son âme  
+  * Baliseurs du désert (Les)  
+  * Chronique des anées de braise  
+  * Collier perdu de la colombe (Le)  
   * De quelques événements sans significations  
   * Une porte sur le ciel  

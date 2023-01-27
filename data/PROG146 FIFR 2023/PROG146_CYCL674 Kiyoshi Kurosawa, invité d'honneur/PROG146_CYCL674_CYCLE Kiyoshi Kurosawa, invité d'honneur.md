@@ -15,6 +15,16 @@ Voir aussi dialogue p. xx
 
 ## Carte blanche à Kiyoshi Kurosawa
 
+[133144]  
+**Alliés**  
+**(Allied)**  
+de Robert Zemeckis  
+États-Unis / 2016 / 121 min / VOSTF / DCP  
+Avec Brad Pitt, Marion Cotillard, Jared Harris.  
+Casablanca, 1942. Max et Marianne, deux espions des forces alliées, tombent amoureux lors d'une mission et se marient. Mais Max est informé par les services secrets britanniques que Marianne pourrait être une espionne allemande.
+
+- me 8 mar 12h00 HO
+
 [77471]  
 **Armored Car Robbery**  
 de Richard Fleischer  

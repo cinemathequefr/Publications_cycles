@@ -248,19 +248,59 @@ Koma reçoit un cadeau de ses parents avant Noël, avec une lettre lui disant qu
 
 - me 14 déc 15h00 GF
 
+[142477]  
+**Moutons, loup et tasse de thé**  
+de Marion Lacourt  
+France / 2019 / 12 min  
+La nuit, tandis que les membres d'une famille s'adonnent à de curieux rituels avant de s'endormir, un enfant invoque un loup au fond d'une boîte cachée sous son lit. D'inquiétants moutons assiègent alors la porte de sa chambre.
+
+- me 8 fév 15h00 GF  
+- di 12 fév 15h00 GF  
+- di 5 mar 15h00 GF
+
 ## Ciné-spectacle 3-6 ans
 
 Pour accompagner les plus jeunes spectateurs dans leurs premières découvertes de cinéma, un spectacle tout en douceur mêlant projections de films et petites histoires, en compagnie de la conteuse Violaine Joffart. Au programme, de nouveaux films et de nouvelles histoires sur le thème du rêve.
 
 [145780]  
 **Balades sous les étoiles**  
-de Lizete Upite, Anastasia Melikhova, Jöns Mellgren  
-France-Russie / 2019 / 49 min / DCP  
+de Lizete Upīte, Anastasia Melikhova, Jöns Mellgren  
+France-Russie / 2020 / 49 min / DCP  
 suivi de  
 [88023]  
 **Le Déshabillage impossible**  
 de Georges Méliès  
-France / 1900
+France / 1900  
+suivi de  
+[154335]  
+**Promenade nocturne**  
+**(Nakts pastaigas)**  
+de Lizete Upīte  
+Lettonie / 2018 / 6 min / DCP  
+suivi de  
+[154336]  
+**Éternité**  
+**(Vetchnost)**  
+d'Anastasia Melikhova  
+Russie / 2018 / 3 min / DCP  
+suivi de  
+[154337]  
+**Elsa et la nuit**  
+**(Sigrid och Natten)**  
+de Jöns Mellgren  
+Suède / 2017 / 9 min / DCP  
+suivi de  
+[154338]  
+**Premier tonnerre**  
+**(Pervy grom)**  
+d'Anastasia Melikhova  
+Russie / 2018 / 5 min / DCP  
+suivi de  
+[143197]  
+**Nuit chérie**  
+de Lia Bertels  
+Belgique / 2018 / 14 min / DCP  
+Un ours pense trop et broie du noir. Il n'arrive pas à dormir. Lorsqu'un singe blanc lui propose d'aller manger du miel chez sa tante pour lui changer les idées, une belle et étrange nuit s'ouvre à eux.
 
 - me 8 fév 15h00 GF  
 - di 12 fév 15h00 GF  

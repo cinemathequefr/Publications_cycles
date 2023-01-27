@@ -233,8 +233,31 @@
   {
     "idCategorie": 2937,
     "typeEvenement": 13,
-    "idEvenement": 27626,
-    "idSeance": 92378,
+    "idEvenement": 27647,
+    "idSeance": 100628,
+    "dateHeure": "2023-03-09T20:00:00",
+    "idSalle": [
+      "HO",
+      "Hors les murs"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 39347,
+        "ordre": 1,
+        "idSeance": 100628,
+        "idCopie": 25443,
+        "duree": 120,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2937,
+    "typeEvenement": 13,
+    "idEvenement": 27629,
+    "idSeance": 92453,
     "dateHeure": "2023-03-09T21:00:00",
     "idSalle": [
       "GF",
@@ -243,12 +266,12 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 45643,
+        "idFilm": 59352,
         "ordre": 1,
-        "idSeance": 92378,
-        "idCopie": 14053,
-        "duree": 89,
-        "version": "VOSTF",
+        "idSeance": 92453,
+        "idCopie": 25421,
+        "duree": 88,
+        "version": "",
         "format": "DCP"
       }
     ]
@@ -570,29 +593,6 @@
     ]
   },
   {
-    "idCategorie": 2937,
-    "typeEvenement": 13,
-    "idEvenement": 27629,
-    "idSeance": 92453,
-    "dateHeure": "2023-03-11T21:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 59352,
-        "ordre": 1,
-        "idSeance": 92453,
-        "idCopie": 25421,
-        "duree": 88,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
     "idCategorie": 2982,
     "typeEvenement": 13,
     "idEvenement": 27887,
@@ -610,29 +610,6 @@
         "idSeance": 92451,
         "idCopie": 25555,
         "duree": 75,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2982,
-    "typeEvenement": 13,
-    "idEvenement": 27888,
-    "idSeance": 92488,
-    "dateHeure": "2023-03-11T22:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 43918,
-        "ordre": 1,
-        "idSeance": 92488,
-        "idCopie": 19271,
-        "duree": 83,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -750,6 +727,29 @@
         "idSeance": 96787,
         "idCopie": 25612,
         "duree": 99,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2937,
+    "typeEvenement": 13,
+    "idEvenement": 27626,
+    "idSeance": 92378,
+    "dateHeure": "2023-03-12T16:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 45643,
+        "ordre": 1,
+        "idSeance": 92378,
+        "idCopie": 14053,
+        "duree": 89,
         "version": "VOSTF",
         "format": "DCP"
       }

@@ -215,7 +215,7 @@
   * Woman on the Beach  
   * Yourself and Yours
 
-## Jeune public (25)
+## Jeune public (30)
 
   * Azur et Asmar  
   * Balades sous les étoiles  
@@ -225,6 +225,8 @@
   * Cyrano de Bergerac  
   * Des pas dans la neige  
   * Déshabillage impossible (Le)  
+  * Elsa et la nuit  
+  * Éternité  
   * Étrange Noël de monsieur Jack (L')  
   * Fantasia  
   * Flocon de neige  
@@ -235,8 +237,11 @@
   * Mary Poppins  
   * Moutons, loup et tasse de thé  
   * Noël de Komaneko (Le)  
+  * Nuit chérie  
   * Persepolis  
   * Poil de carotte  
+  * Premier tonnerre  
+  * Promenade nocturne  
   * Réveilleur (Le)  
   * Ruée vers l'or (La)  
   * Une femme disparaît  

@@ -2,6 +2,18 @@
 
 ## Les films
 
+[110304]  
+**A Serious Man**  
+d'Ethan Coen, Joel Coen  
+États-Unis / 2009 / 105 min / VOSTF / DCP  
+Avec Michael Stuhlbarg, Richard Kind, Sari Lennick.  
+1967 : Larry Gopnik, professeur de physique dans une petite université du Midwest, est accablé de malheurs familiaux. Il cherche alors conseil auprès de trois rabbins.  
+Au lendemain de la signature du pacte germano-soviétique de 1939, Winston Churchill parlait – déjà – de la Russie comme d'un « rébus enveloppé de mystère au sein d'une énigme ». Voilà qu'on y repense à la vision de cette fable cinématographique pourtant américaine, s'ouvrant par un conte fantastique en yiddish dans un shtetl d'Europe de l'Est, puis, sans explication, se transportant (un siècle plus tard ?) au sein de la communauté juive d'une banlieue du Midwest, en 1967. On se dit que la phrase du premier ministre anglais ressemble à ce que tout spectateur éprouve à la vision d'un film des frères Coen, et particulièrement de celui-ci. _A Serious Man_, ou la possible représentation du Réel tel qu'il n'en finit pas d'assaillir ou de taquiner l'humble professeur de physique Larry Gopnik. Ainsi s'accumulent sur la kippa du pauvre homme les indices cabalistiques d'un monde chiffré, les signes équivoques d'un sens résolument incertain ou comme interprété à travers un nuage de marijuana : effrayantes formules mathématiques recouvrant un tableau noir géant, dessins labyrinthiques (le « Mentaculus ») du frère du professeur, lettres hébraïques gravées sur la face cachée des dents du bas d'un goy, entre autres augures sans résolution. Et tout au fond d'un couloir surchargé de grimoires et d'expériences dans le formol, siège un grand rabbin, celui qui « réfléchit », aussi sollicité que le Magicien d'Oz dans son Palais d'émeraude ; autant de mages supposés, réfugiés derrière un écran de fumée et auxquels tous les croyants ou crédules du monde prêtent un extravagant pouvoir d'élucidation de l'existence. À sa définition sans espoir de la Russie, Churchill ajoutait : « Peut-être y a-t-il une clé ? » On la cherche encore.
+
+Bernard Benoliel
+
+- me 8 mar 12h00 HO
+
 [140529]  
 **La Ballade de Buster Scruggs**  
 **(The Ballad of Buster Scruggs)**  
@@ -10,12 +22,13 @@ d'Ethan Coen, Joel Coen
 Avec James Franco, Tim Blake Nelson, Liam Neeson, Tom Waits.  
 Six fables mettant en scène un cowboy musicien, un chercheur d'or, un braqueur de banques ou encore une diligence infernale, pour incarner les plus étonnantes histoires du Far West.
 
-- di 12 mar 16h30 GF
+- di 12 mar 11h30 JE  
+- di 12 mar 16h00 HO
 
 [31780]  
 **Barton Fink**  
 de Joel Coen  
-États-Unis / 1990 / 116 min / VOSTF / DCP  
+États-Unis / 1990 / VOSTF / 35 mm  
 Avec John Turturro, John Goodman, Judy Davis.  
 Barton Fink, jeune auteur de pièces de théâtre dont la dernière est encensée par la critique, est embauché par Hollywood pour écrire une série B sur le monde de la lutte, auquel il ne connaît rien. Fink s'isole dans un hôtel désert pour travailler, et fait connaissance avec son étrange voisin.
 
@@ -38,7 +51,7 @@ Avec Frances McDormand, William H. Macy, Steve Buscemi, Peter Stormare.
 Minnesota, 1987. Un concessionnaire automobile endetté fait enlever sa femme par deux petites frappes pour obtenir une rançon de son richissime beau-père. Mais le plan ne résiste pas longtemps au flair d'une policière enceinte.  
 Restauration 4K en 2021 à l'occasion du 25<sup>e</sup> anniversaire du film.
 
-- me 8 mar 20h00 HL  
+- me 8 mar 20h00 HO  
 - me 8 mar 20h00 JE
 
 [119403]  
@@ -60,8 +73,18 @@ Avec Tommy Lee Jones, Javier Bardem, Josh Brolin.
 Découvrant une camionnette abandonnée et cernée de cadavres, Llewelyn Moss vole les 2 millions de dollars qui se trouvent à l'intérieur. Anton Chigurh, un tueur psychopathe, se lance alors à sa poursuite et déclenche une chasse à l'homme des plus sanglantes.
 
 - je 9 mar 19h00 HL  
-Voir aussi conversation p. xx  
-- di 12 mar 11h30 HL
+Voir aussi conversation p. xx
+
+[31793]  
+**Sang pour sang**  
+**(Blood Simple)**  
+de Joel Coen  
+États-Unis / 1983 / 99 min / VOSTF / DCP  
+Avec John Getz, Frances McDormand, Dan Hedaya.  
+Au Texas, un propriétaire de bar découvrant que sa femme le trompe avec le barman, engage un détective local pour les assassiner. Mais sous des dehors de parfait imbécile, ce dernier se révèle un être machiavélique et imprévisible.  
+Restauration en 4K de la version Director's cut. Nouvelle restauration StudioCanal en 4K approuvée par le directeur de la photographie Barry Sonnenfeld et les réalisateurs Joel et Ethan Coen.
+
+- me 8 mar 12h00 HO
 
 [152050]  
 **The Tragedy of Macbeth**  
@@ -75,6 +98,26 @@ Un seigneur écossais est convaincu par un trio de sorcières qu'il deviendra le
 Voir aussi conversation p. xx
 
 ## Carte blanche à Joel Coen
+
+[104535]  
+**La Femme sans tête**  
+**(La Mujer sin cabeza)**  
+de Lucrecia Martel  
+Argentine-France-Espagne / 2007 / 87 min / VOSTF / 35 mm  
+Avec María Onetto, Claudia Cantero, Inés Efrón, César Bordón.  
+Veronica, au volant de sa voiture, heurte quelque chose dans un moment de distraction. Les jours suivants, elle semble disparaître, doucement étrangère aux choses et aux personnes qui l'entourent.
+
+- me 8 mar 12h00 HO
+
+[44888]  
+**Rébellion**  
+**(Jōiuchi: Hairyō tsuma shimatsu)**  
+de Masaki Kobayashi  
+Japon / 1967 / 128 min / VOSTF / 35 mm  
+Avec Toshirō Mifune, Tatsuya Nakadai, Yōko Tsukasa.  
+Japon, 1725, sous l'ère d'Edo. Un chef de fief décide de marier sa femme, qu'il vient de répudier, au fils du samouraï Isaburo Sasahara.
+
+- me 8 mar 12h00 HO
 
 [43451]  
 **Les Vitelloni**  
