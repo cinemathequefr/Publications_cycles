@@ -664,6 +664,31 @@
     "hashEvenement": "f64216"
   },
   {
+    "idSeance": 92879,
+    "idEvenement": 27579,
+    "dateHeure": "2023-03-09T16:45:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Hommage au BFI",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42835,
+        "titre": "Vie privée d'Henry VIII",
+        "art": "La",
+        "realisateurs": "Alexander Korda",
+        "annee": 1933,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42835"
+  },
+  {
     "idSeance": 92880,
     "idEvenement": 27638,
     "dateHeure": "2023-03-09T17:00:00",
@@ -686,31 +711,6 @@
       }
     ],
     "hashEvenement": "f47122"
-  },
-  {
-    "idSeance": 92879,
-    "idEvenement": 27579,
-    "dateHeure": "2023-03-09T17:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Hommage au BFI",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 42835,
-        "titre": "Vie privée d'Henry VIII",
-        "art": "La",
-        "realisateurs": "Alexander Korda",
-        "annee": 1933,
-        "duree": 96,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f42835"
   },
   {
     "idSeance": 92411,
@@ -761,6 +761,30 @@
     "hashEvenement": "f102035"
   },
   {
+    "idSeance": 92493,
+    "idEvenement": 27706,
+    "dateHeure": "2023-03-09T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51463,
+        "titre": "Jour des rois",
+        "art": "Le",
+        "realisateurs": "Marie-Claude Treilhou",
+        "annee": 1990,
+        "duree": 93,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f51463"
+  },
+  {
     "idSeance": 100628,
     "idEvenement": 27647,
     "dateHeure": "2023-03-09T20:00:00",
@@ -782,30 +806,6 @@
       }
     ],
     "hashEvenement": "f39347"
-  },
-  {
-    "idSeance": 92493,
-    "idEvenement": 27706,
-    "dateHeure": "2023-03-09T20:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51463,
-        "titre": "Jour des rois",
-        "art": "Le",
-        "realisateurs": "Marie-Claude Treilhou",
-        "annee": 1990,
-        "duree": 93,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f51463"
   },
   {
     "idSeance": 92453,
@@ -911,6 +911,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Bruno Delbonnel",
     "items": [
       {
         "idFilm": 115793,
@@ -1041,7 +1042,7 @@
     "items": [
       {
         "idConf": 27953,
-        "titre": "Rencontre avec Bruno Delbonnel",
+        "titre": "Dialogue avec Bruno Delbonnel",
         "typeConference": "Dialogue",
         "duree": 60
       }

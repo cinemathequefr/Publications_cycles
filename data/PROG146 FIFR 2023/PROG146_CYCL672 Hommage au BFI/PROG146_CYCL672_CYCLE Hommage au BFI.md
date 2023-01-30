@@ -54,6 +54,6 @@ Avec Charles Laughton, Robert Donat, Merle Oberon, Elsa Lanchester.
 Au XVI<sup>e</sup> siècle, à la cour d'Angleterre, le portrait du terrible roi Henry VIII, marié six fois, à travers ses déboires conjugaux.  
 Restauration par les Archives du BFI et la Film Foundation, en collaboration avec ITV et Park Circus, grâce au financement de la George Lucas Family Foundation, d'après une copie nitrate d'origine de 1933.
 
-- je 9 mar 17h30 JE
+- je 9 mar 16h45 JE
 
 Remerciements : British Film Institute National Archive, Mission, M. Kieron Webb.

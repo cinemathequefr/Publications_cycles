@@ -20,12 +20,13 @@ D'après la pièce _Faust_ de Johann Wolfgang von Goethe.
 Avec Johannes Zeiler, Anton Adasinsky, Isolda Dychauk.  
 Faust est un penseur, un rebelle et un pionnier, mais aussi un homme anonyme fait de chair et de sang conduit par la luxure, la cupidité et les impulsions.
 
-- ve 10 mar 14h30 HL
+- ve 10 mar 14h30 HL  
+Séance présentée par Bruno Delbonnel
 
 ## Rencontres et conférences
 
-**Rencontre avec Bruno Delbonnel**  
-Rencontre animée par Laurent Mannoni
+**Dialogue avec Bruno Delbonnel**  
+Rencontre animée par Laurent Mannoni et Natasza Chroscicki
 
 - ve 10 mar 16h45 HL
 
