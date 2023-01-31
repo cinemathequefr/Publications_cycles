@@ -10,7 +10,7 @@ Japon / 1992 / 97 min / VOSTF / DCP
 Avec Makiko Kuno, Yutaka Matsushige, Hatsunori Hasegawa.  
 Un ancien lutteur de sumo, devenu veilleur de nuit, est pris de pulsions meurtrières et enchaîne les crimes violents sans réelle motivation. Mais, un soir, une jeune femme est témoin du meurtre d'un de ses collègues.
 
-- sa 11 mar 19h00 HL
+- me 8 mar 12h00 HL
 
 ## Carte blanche à Kiyoshi Kurosawa
 
@@ -33,7 +33,17 @@ Dave Purvis, dangereux criminel, reste inconnu de la police. Il organise minutie
 
 - sa 11 mar 16h30 GF  
 Séance présentée par Kiyoshi Kurosawa  
-- di 12 mar 18h45 JE
+- di 12 mar 19h00 GF
+
+[65545]  
+**Cure**  
+**(Kyua)**  
+de Kiyoshi Kurosawa  
+Japon / 1997 / 111 min / VOSTF / DCP  
+Avec Koji Yakusho, Tsuyoshi Ujiki, Anna Nakagawa.  
+Un officier de police enquête sur une série de meurtres. Sur le lieu du dernier crime est arrêté un jeune homme possédant d'étranges pouvoirs.
+
+- sa 11 mar 19h00 HL
 
 ## Rencontres et conférences
 

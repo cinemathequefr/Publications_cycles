@@ -43,7 +43,7 @@ Avec Ray Winstone, Kathy Burke, Charlie Creed-Miles.
 L'histoire d'une famille ordinaire dans un quartier ouvrier de l'est de Londres, où Raymond, père de famille alcoolique et violent, voit peu à peu ses relations avec ses proches s'effriter.  
 Restauration à l'occasion du 25<sup>e</sup> anniversaire du film, avec le soutien de Simon et Harley Hessel, à partir du négatif Super 16 mm et de la piste son 35 mm, prêtés par Sony Pictures Classics. Nouveau format 1.66:1, étalonnage effectué à partir d'un tirage récent et approuvé par Gary Oldman.
 
-- me 8 mar 12h00 HL
+- me 8 mar 12h00 HO
 
 [42835]  
 **La Vie privée d'Henry VIII**  
@@ -54,6 +54,6 @@ Avec Charles Laughton, Robert Donat, Merle Oberon, Elsa Lanchester.
 Au XVI<sup>e</sup> siècle, à la cour d'Angleterre, le portrait du terrible roi Henry VIII, marié six fois, à travers ses déboires conjugaux.  
 Restauration par les Archives du BFI et la Film Foundation, en collaboration avec ITV et Park Circus, grâce au financement de la George Lucas Family Foundation, d'après une copie nitrate d'origine de 1933.
 
-- je 9 mar 16h45 JE
+- je 9 mar 16h45 HO
 
 Remerciements : British Film Institute National Archive, Mission, M. Kieron Webb.

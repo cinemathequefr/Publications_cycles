@@ -237,7 +237,7 @@ Si la sexualité des années 1960, sous le signe de la transgression, de la joie
 **Le Quartier des femmes**  
 **(Qaleh)**  
 de Kâmrân Shirdel  
-Iran / 1966 / 18 min / VO / Numérique  
+Iran / 1966 / 18 min / VOSTF / Numérique  
 « Commandé par une association de soutien aux femmes, le film décrit la vie douloureuse des prostituées du quartier de Qaleh à Téhéran. Le film ayant été confisqué dès le début du tournage, Shirdel filme les photos prises par le photographe Kaveh Golestan et y ajoute sa bande-son. » (film-documentaire.fr)  
 suivi de  
 [118640]  
@@ -717,15 +717,14 @@ Avec l'aimable autorisation du Bressan Project et de l'American Genre Film Archi
 
 _Les Filles de Ka-ma-ré_ détourne _Le Pensionnat des jeunes filles perverses_ de Norifumi Suzuki, réalisé l'année précédente. Grâce aux sous-titres, le « roman-porno » japonais devient « un règlement de comptes entre des clitoridiennes marxistes et des vaginales bakouninistes. Enfin du cul subversif sans alibi artistique ! » (texte de l'affiche du film, rédigé par René Viénet)
 
-[154190]  
+[125708]  
 **Les Filles de Ka-ma-ré (Une petite culotte pour l'été)**  
-de René Viénet  
+de René Vienet  
 France / 1974 / 88 min / 35 mm  
 Avec Miki Sugimoto, Reiko Ike, Seiko Saburi, Misuzu Ōta.  
 « Il s'agit du second détournement (intégral) par René Viénet d'un film asiatique. Comme celui-ci souhaite inscrire un cliquet de plus dans le détournement, avec quelques complices, il tourne quelques inserts hard. » (René Viénet)
 
-- sa 27 mai 18h15 GF  
-Séance présentée par René Vienet
+- sa 27 mai 18h15 GF
 
 ## Séance 20 : En 1974, Chantal Akerman a 24 ans
 

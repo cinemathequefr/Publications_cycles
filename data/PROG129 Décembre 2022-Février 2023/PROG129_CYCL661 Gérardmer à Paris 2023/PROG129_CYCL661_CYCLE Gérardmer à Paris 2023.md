@@ -2,6 +2,18 @@
 
 ## Les films
 
+[154309]  
+**La Pietà**  
+**(La Piedad)**  
+d'Eduardo Casanova  
+Espagne-Argentine / 2022 / 84 min / VOSTF / DCP  
+Avec Ángela Molina, Manel Llunell, Macarena Gómez, Ana Polvorosa, Daniel Freire, Antonio Durán.  
+Lili et son fils Mateo ont une relation fusionnelle qui les rend dépendants l'un de l'autre. Ils se complaisent dans une réalité suffocante jusqu'au jour où l'un d'entre eux est atteint d'une maladie grave. La simple idée d'être séparés les conduit à développer une version d'eux-mêmes la plus sombre et toxique qui soit.
+
+- me 1 fév 20h00 HL  
+Ouverture de la rétrospective  
+- di 5 fév 20h30 HL
+
 [154305]  
 **Memory of Water**  
 de Saara Saarela  
@@ -77,14 +89,4 @@ Avec Simone Bucio, Sebastian Rudolph, Simon(e) Jaikiriuma Paetau, Bjørn Melhus,
 Eva, une jeune femme introvertie qui travaille comme bruiteuse, rencontre des difficultés pour créer les sons d'un film publicitaire mettant en vedette un cheval. Alors qu'une queue de cheval commence à pousser sur son corps, elle développe une relation de soumission avec un botaniste.
 
 - di 5 fév 18h30 HL
-
-[154309]  
-**La Pietà**  
-**(La Piedad)**  
-d'Eduardo Casanova  
-Espagne-Argentine / 2022 / 84 min / VOSTF / DCP  
-Avec Ángela Molina, Manel Llunell, Macarena Gómez, Ana Polvorosa, Daniel Freire, Antonio Durán.  
-Lili et son fils Mateo ont une relation fusionnelle qui les rend dépendants l'un de l'autre. Ils se complaisent dans une réalité suffocante jusqu'au jour où l'un d'entre eux est atteint d'une maladie grave. La simple idée d'être séparés les conduit à développer une version d'eux-mêmes la plus sombre et toxique qui soit.
-
-- di 5 fév 20h30 HL
 

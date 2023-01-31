@@ -70,7 +70,7 @@ Numérisation et restauration par l'INA en 2K à partir des éléments originaux
 [154274]  
 **Cinéma, Cinémas : Deneuve, revue de détails**  
 d'André S. Labarthe  
-France / 1984 / 7 min  
+France / 1984 / 7 min / DCP  
 Avec Catherine Deneuve.  
 Catherine Deneuve commente des passages de _L'Ève future_ de Villiers de l'Isle Adam.  
 Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur et d'un son magnétique séparé.  

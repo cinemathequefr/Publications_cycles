@@ -52,7 +52,7 @@ Avec Abdellatif Nour, Abbas Fassi-Fihri, Hamid Zoughi.
 Une équipe de cinéastes interroge de jeunes Casablancais sur leurs attentes et leur rapport au cinéma marocain.  
 Restauration en 2019 par la Filmoteca de Catalunya et l'Observatoire (Casablanca).
 
-- di 12 mar 19h00 GF
+- sa 11 mar 17h45 JE
 
 [64888]  
 **Une porte sur le ciel**  

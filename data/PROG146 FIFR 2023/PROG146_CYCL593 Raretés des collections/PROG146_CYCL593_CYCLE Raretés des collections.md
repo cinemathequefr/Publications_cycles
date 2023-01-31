@@ -10,6 +10,7 @@ Documentaire sur les voies de communication pour la section française de l'Expo
 Numérisation 4K et étalonnage par la Cinémathèque française. Travaux réalisé au laboratoire du CNC à partir d'une copie 35 mm unique.
 
 - sa 11 mar 14h30 HO  
+Accompagnement musical par Improvisation Jean-François Zygel Classe  
 Film précédé de _La Montagne infidèle_ de Jean Epstein
 
 [154290]  
@@ -53,16 +54,8 @@ Deux fermiers aiment la même femme, qui choisi l'un d'eux. Le prétendant rejet
 Restauration 4K en 2023 à partir d'une copie nitrate teintée par la Cinémathèque française, au laboratoire du CNC.
 
 - sa 11 mar 14h00 JE  
+Accompagnement musical par Adrien Leconte et Loïc Vergnaux  
 Film suivi de _Thaïs_ d'Anton Giulio Bragaglia
-
-[56416]  
-**Hu-man**  
-de Jérôme Laperrousaz  
-France / 1974 / 90 min / VOSTF / DCP  
-Un célèbre acteur, bouleversé par la mort de sa femme, accepte de participer à une expérience scientifique dangereuse : devant les caméras de télévision, il doit risquer sa vie. Sa peur et celle des téléspectateurs produiront une quantité notable d'« énergie émotionnelle », qui doit lui permettre d'accomplir un saut dans le futur.  
-Restauration par Jérôme Laperrousaz et la Cinémathèque française à partir des négatifs originaux 35 mm issus des collections du CNC. Numérisation 4K effectuée au laboratoire du CNC, travaux de restauration image et son menés au Laboratoire Lobster Films et au studio L.E. Diapason.
-
-- me 8 mar 12h00 HO
 
 [139952]  
 **Mickey Mouse au Vietnam**  
@@ -82,6 +75,7 @@ En juin 1923, en Sicile, deux cratères de l'Etna s'ouvrent à nouveau. Jean Eps
 Restauration 4K à partir d'une copie teintée 28 mm Pathé-KOK retrouvée à la Filmoteca de Catalunya, datant de 1924. Numérisation au 2CR-Filmoteca de Catalunya. Préservation par l'Arquivo Nacional das Imagens em Movimento, à la Cinemateca Portuguesa.
 
 - sa 11 mar 14h30 HO  
+Accompagnement musical par Improvisation Jean-François Zygel Classe  
 Film suivi d'_Artères de France_ de Jean Epstein, René Lucot
 
 [154284]  
@@ -135,6 +129,7 @@ La comtesse russe Thaïs Galitzy aguiche des hommes mariés avant de les ruiner.
 Restauration 4K menée en 2023 par la Cinémathèque française en collaboration avec la Fondazione Centro Sperimentale di Cinematografia – Cineteca Nazionale (Rome). Travaux réalisés au laboratoire L'Image retrouvée (Paris/Bologne) à partir d'une copie nitrate teintée partiellement décomposée et d'un contretype.
 
 - sa 11 mar 14h00 JE  
+Accompagnement musical par Adrien Leconte et Loïc Vergnaux  
 Film précédé de _La Damnation de Caïn_ de Luigi Maggi
 
 Remerciements : Filmoteca de Catalunya, Clara Martin Villas, Rosa Cardona Arnau, Marionna Bruzzo Llaberia, La Fondation Henri Cartier-Bresson, Pierre Leyrat, Aude Raimbault, Bertrand Guehenneux.

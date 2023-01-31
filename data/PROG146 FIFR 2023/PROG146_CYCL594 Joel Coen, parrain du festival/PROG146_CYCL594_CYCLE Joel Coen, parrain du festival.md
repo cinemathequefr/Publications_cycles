@@ -22,7 +22,9 @@ d'Ethan Coen, Joel Coen
 Avec James Franco, Tim Blake Nelson, Liam Neeson, Tom Waits.  
 Six fables mettant en scène un cowboy musicien, un chercheur d'or, un braqueur de banques ou encore une diligence infernale, pour incarner les plus étonnantes histoires du Far West.
 
-- di 12 mar 11h30 JE  
+- je 9 mar 16h45 JE  
+- sa 11 mar 20h00 HO  
+- di 12 mar 14h00 HO  
 - di 12 mar 16h00 HO
 
 [31780]  
@@ -71,7 +73,7 @@ D'après le roman _No Country for Old Men_ de Cormac McCarthy.
 Avec Tommy Lee Jones, Javier Bardem, Josh Brolin.  
 Découvrant une camionnette abandonnée et cernée de cadavres, Llewelyn Moss vole les 2 millions de dollars qui se trouvent à l'intérieur. Anton Chigurh, un tueur psychopathe, se lance alors à sa poursuite et déclenche une chasse à l'homme des plus sanglantes.
 
-- je 9 mar 19h00 HL
+- ve 10 mar 19h30 HL
 
 [31793]  
 **Sang pour sang**  
@@ -92,7 +94,7 @@ D'après le pièce _Macbeth_ de William Shakespeare.
 Avec Denzel Washington, Frances McDormand, Brendan Gleeson.  
 Un seigneur écossais est convaincu par un trio de sorcières qu'il deviendra le prochain roi d'Écosse. Son ambitieuse épouse le soutient dans ses plans pour prendre le pouvoir.
 
-- ve 10 mar 19h30 HL
+- je 9 mar 19h30 HL
 
 ## Carte blanche à Joel Coen
 
@@ -114,17 +116,8 @@ Japon / 1967 / 128 min / VOSTF / 35 mm
 Avec Toshirō Mifune, Tatsuya Nakadai, Yōko Tsukasa.  
 Japon, 1725, sous l'ère d'Edo. Un chef de fief décide de marier sa femme, qu'il vient de répudier, au fils du samouraï Isaburo Sasahara.
 
-- me 8 mar 12h00 HO
-
-[43451]  
-**Les Vitelloni**  
-de Federico Fellini  
-Italie-France / 1953 / 103 min / VOSTF / DCP  
-Avec Franco Interlenghi, Franco Fabrizi, Alberto Sordi, Leopoldo Trieste.  
-La fin de l'été, dans les rues désertées de Pescara, petite station balnéaire italienne. Cinq amis trentenaires, surnommés les _« vitelloni »_, se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte.
-
-- sa 11 mar 18h30 GF  
-Séance présentée par Joel Coen
+- me 8 mar 12h00 HO  
+- sa 11 mar 18h30 GF
 
 ## Rencontres et conférences
 

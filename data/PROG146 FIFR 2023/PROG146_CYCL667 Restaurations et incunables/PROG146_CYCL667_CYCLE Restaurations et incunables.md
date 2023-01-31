@@ -31,6 +31,7 @@ Une femme au visage triste brûle des lettres, et part se promener dans une natu
 Restauration 4K en 2022 par Lobster Films et la Cinémathèque française avec le soutien du CNC. Travaux réalisés au laboratoire Lobster et au studio L.E. Diapason, à partir des négatifs image et son originaux et d'un interpostif sonore conservés à la Cinémathèque française.
 
 - di 12 mar 14h30 HO  
+Accompagnement musical par Improvisation Jean-François Zygel Classe  
 Film suivi de _Ménilmontant_ de Dimitri Kirsanoff
 
 [35682]  
@@ -45,6 +46,17 @@ En avant-première parisienne en vue de sa ressortie en salles.
 Restauration 4K réalisée en 2022 par Sony à partir du négatif 35 mm d'origine, au laboratoire Cineric. Correction couleur effectuée par MTI.
 
 - je 9 mar 14h30 JE
+
+[50856]  
+**Le Caporal épinglé**  
+de Jean Renoir  
+France / 1961 / 105 min / DCP  
+D'après le roman _Le Caporal épinglé_ de Jacques Perret.  
+Avec Jean-Pierre Cassel, Claude Brasseur, Claude Rich, Jean Carmet.  
+En 1940, prisonniers de guerre dans un stalag allemand, le Caporal et Peter tentent, de façon aussi répétée qu'infructueuse, de s'évader.  
+Restauration et numérisation en 4K par StudioCanal en 2021 chez Hiventy, avec la participation du CNC. Négatif 35 mm original scanné en 4K par immersion car présentant de profondes rayures. Les multiples altérations de la pellicule ont été atténuées ou retirées.
+
+- je 9 mar 20h30 HO
 
 [49089]  
 **Le Comédien**  
@@ -67,7 +79,7 @@ Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.
 Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
 Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
 
-- di 12 mar 16h45 GF  
+- je 9 mar 21h00 GF  
 Séance présentée par Jean-François Rauger
 
 [133965]  
@@ -129,7 +141,8 @@ Russie / 1921 / 94 min / INT. FR. / DCP
 En pleine guerre civile russe, Vertov filme des figures emblématiques du gouvernement et de l'Armée Rouge, ainsi que la violence et le chaos qui règnent dans le pays, si bien que son documentaire ne sortira jamais officiellement. Disparu pendant un siècle, projeté deux fois seulement, le film a bénéficié d'une restauration inédite.  
 Restauration par Nikolai Izvolov à partir d'une description du film faite par Grigory Boltyansky conservée à l'Archive of Literature and Art in Moscow, et d'éléments du matériel d'origine 35 mm conservés dans différentes archives.
 
-- ve 10 mar 18h00 GF
+- ve 10 mar 18h00 GF  
+Accompagnement musical par Gabriel Cazes et Nicolas Giraud
 
 [130691]  
 **Histoire sans paroles**  
@@ -170,7 +183,8 @@ Avec Lon Chaney, Joan Crawford, Norman Kerry.
 Alonzo, lanceur de couteaux dans un cirque, est amoureux de sa partenaire, la fille du directeur, que convoite également le costaud Malabar. Par amour, et pour échapper à la police, il prend une décision extrême.  
 Restauration avec le soutien de la National Film Preservation Foundation, à partir d'une copie restaurée du Eastman Museum et une copie nitrate de la Národní Filmový Archiv de Prague.
 
-- di 12 mar 20h30 HL
+- di 12 mar 20h30 HL  
+Accompagnement musical par Gaspar Claus
 
 [154259]  
 **Italia, le feu, la cendre**  
@@ -188,7 +202,7 @@ de Julie Bertuccelli
 France / 2022 / 99 min / DCP  
 Portrait de Jane Campion, réalisatrice plasticienne et iconoclaste, subtile portraitiste de l'âme humaine et des femmes, qui a su en quarante ans se tailler une place unique dans le panthéon très masculin du cinéma.
 
-- sa 11 mar 17h45 JE
+- di 12 mar 19h00 JE
 
 [51463]  
 **Le Jour des rois**  
@@ -198,7 +212,7 @@ Avec Danielle Darrieux, Micheline Presle, Paulette Dubost, Michel Galabru.
 Trois vieilles sœurs se réunissent tous les dimanches. Pour l'épiphanie, le programme est chargé : cimetière, restaurant chinois, galette des rois, puis aller voir une troupe comique du troisième âge dans laquelle joue la quatrième sœur marginale.  
 Scan et restauration en 4K en 2022 par les Films du Losange, avec le soutien du CNC, par Lobster Films pour l'image et par Léon Rousseau-L.E. Diapason pour le son.
 
-- je 9 mar 19h00 JE
+- je 9 mar 20h00 JE
 
 [39284]  
 **Manolesco prince des poètes**  
@@ -209,7 +223,8 @@ Avec Ivan Mosjoukine, Brigitte Helm, Heinrich George.
 Un séducteur parisien tombe amoureux d'une femme de la haute société. Il se met à voler pour payer leur vie de luxe, jusqu'à ce que son passé le rattrape.  
 Restauration en 2018 par la Friedrich-Wilhelm-Murnau-Stiftung, numérisation en 4K à L'Immagine Ritrovata, à partir de deux négatifs d'origine, et de fragments de copies de post-production. Avec le soutien du Beauftragte der Bundesregierung für Kultur und Medien et du Freunde und Förderer des deutschen Filmerbes e.V.
 
-- sa 11 mar 18h00 HO
+- sa 11 mar 18h00 HO  
+Accompagnement musical par Improvisation Jean-François Zygel Classe
 
 [51955]  
 **Mauvais sang**  
@@ -231,6 +246,7 @@ Après l'assassinat de leurs parents, deux jeunes sœurs très unies quittent la
 Restauration 4K en 2022 par Lobster Film et la Cinémathèque française, avec le soutien du CNC. Travaux menés au laboratoire Lobster à partir d'une copie nitrate originale teintée du BFI et d'un contretype des collections de la Cinémathèque française. Un plan supplémentaire est extrait d'une copie nitrate fragmentaire de la Cinémathèque française.
 
 - di 12 mar 14h30 HO  
+Accompagnement musical par Improvisation Jean-François Zygel Classe  
 Film précédé de _Brumes d'automne_ de Dimitri Kirsanoff
 
 [39347]  
@@ -251,7 +267,7 @@ Mexique / 1962 / 75 min / VOSTF / DCP
 Avec Rosita Arenas, Armando Calvo, Isabela Corona, Dina De Marco, Carlos Nieto.  
 Sara est employée domestique chez un docteur fou, enclin au féminicide. Elle est aussi une sorcière, qui communique avec des esprits tout-puissants et rêve de venger la mort de sa filleule, l'ancienne femme de son employeur.
 
-- sa 11 mar 22h00 HL  
+- sa 11 mar 22h30 HL  
 Séance présentée par Jean-François Rauger
 
 [74532]  
@@ -265,6 +281,7 @@ Restauration en 2021 par la Fondation Jérôme Seydoux-Pathé, avec le soutien d
 - sa 11 mar 12h00 HO  
 Film suivi de _Vues au pochoir : villes d'Europe années 1920 en Pathécolor_ d'Anonyme  
 - sa 11 mar 17h00 HO  
+Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois  
 Film suivi de _Vues au pochoir : villes d'Europe années 1920 en Pathécolor_ d'Anonyme
 
 [133967]  
@@ -319,7 +336,8 @@ Avec Nina Chowalowa, Philippe Hériat, Clifford McLaglen, Blanche Bernis.
 Une des premières symphonies urbaines, promenade à travers Paris, des premières lueurs de l'aube jusqu'à la nuit suivante, de la beauté à la misère.  
 Restauration 4K en 2022 par Les Films du Panthéon, avec le soutien du CNC et de la Cinémathèque française, en collaboration avec Les Films du Jeudi, le EYE Filmmuseum et le BFI National Archive. Travaux réalisés au laboratoire Hiventy à partir d'une copie teintée conservée au Eye Filmmuseum, d'une copie teintée du BFI conservée au CNC et d'un contretype du BFI.
 
-- je 9 mar 14h30 GF
+- je 9 mar 14h30 GF  
+Accompagnement musical par Mauro Coceano
 
 [57342]  
 **S'en fout la mort**  
@@ -341,7 +359,7 @@ Avec Jean-Louis Barrault, Teddy Bilis, Gaston Modot, Michel Vitold.
 L'avocat du docteur Cordelier est étonné de découvrir que son client lègue ses biens à un criminel sadique, Opale.  
 Restauration 4K réalisée en 2022 par l'équipe de STUDIOCANAL avec Sophie Boyer et Jean-Pierre Boiget au laboratoire Hiventy, avec le soutien du CNC. Négatif original 35 mm scanné par immersion, compte tenu des nombreuses altérations présentes sur la pellicule, avec plus de 200 heures de retouche numérique nécessaires pour effacer les rayures, éclats de gélatine et autres traces d'usure. Son également restauré.
 
-- sa 11 mar 20h30 JE
+- sa 11 mar 19h30 JE
 
 [58128]  
 **Tokyo Pop**  
@@ -370,7 +388,8 @@ Avec Marie Prevost, Harrison Ford, Phyllis Haver.
 Mabel, l'ancienne petite-amie de Gary Ainsworth, menace de révéler leur relation passée au moyen d'une nuisette qu'il lui avait offerte. Gary essaie de récupérer la nuisette compromettante, qui se trouve dans la chambre de Mabel.  
 Numérisation par UCLA Film and Television Archive.
 
-- di 12 mar 14h30 GF
+- di 12 mar 14h30 GF  
+Accompagnement musical par Günter A. Buchwald, Frank Bockius et Mirko Cisilino
 
 [59352]  
 **Viva la muerte**  
@@ -380,7 +399,7 @@ Avec Fernando Arrabal, Mohamed Bellasoued, Mehdi Chaouch, Anouk Ferjac.
 Dans l'Espagne franquiste, le jeune Fando est pris de visions cruelles, violentes et sensuelles quand il découvre que sa mère, fervente catholique, a dénoncé son père aux autorités en l'accusant d'athéisme et d'antifascisme.  
 Restauration en 4K en 2022 par la Cinémathèque de Toulouse en collaboration avec Fernando Arrabal, à partir du négatif 35 mm d'origine, et d'un élément interpositif 35 mm. Travaux de restauration du son menés par le studio L.E. Diapason. Avec le soutien du Ministère des Affaires Culturelles tunisien et de l'Association Ciné-Sud Patrimoine.
 
-- je 9 mar 21h00 GF
+- di 12 mar 16h45 GF
 
 [154311]  
 **Vues au pochoir : villes d'Europe années 1920 en Pathécolor**  
@@ -391,6 +410,7 @@ La Cinémathèque française a mené en 2022 la restauration de 7 vues coloriée
 - sa 11 mar 12h00 HO  
 Film précédé de _Le Nabab_ d'Albert Capellani  
 - sa 11 mar 17h00 HO  
+Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois  
 Film précédé de _Le Nabab_ d'Albert Capellani
 
 ## Rencontres et conférences

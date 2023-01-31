@@ -7,9 +7,9 @@
 de Tim Burton  
 États-Unis / 2014 / 106 min / VOSTF / DCP  
 Avec Amy Adams, Christoph Waltz, Danny Huston.  
-Le peintre Walter Keane a connu un succès phénoménal et révolutionné le commerce de l'art grâce à ses énigmatiques tableaux représentant des enfants malheureux aux yeux immenses. La vérité a cependant fini par éclater : ces toiles n'avaient pas été peintes par Walter mais par sa femme.
+Dans les années 1960, le peintre Walter Keane s'approprie les toiles de son épouse, Margaret. Alors que son œuvre révolutionne peu à peu le milieu artistique, la supercherie finit par être découverte.
 
-- sa 11 mar 21h00 GF  
+- sa 11 mar 21h30 GF  
 Séance présentée par Bruno Delbonnel
 
 [115793]  

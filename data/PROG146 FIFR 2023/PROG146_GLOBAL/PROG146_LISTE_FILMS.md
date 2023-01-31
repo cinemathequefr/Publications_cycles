@@ -36,7 +36,7 @@
   * Ne pas avaler  
   * Vie privée d'Henry VIII (La)
 
-## Joel Coen, parrain du festival (12)
+## Joel Coen, parrain du festival (11)
 
   * A Serious Man  
   * Ballade de Buster Scruggs (La)  
@@ -48,23 +48,22 @@
   * No Country for Old Men  
   * Rébellion  
   * Sang pour sang  
-  * Tragedy of Macbeth (The)  
-  * Vitelloni (Les)
+  * Tragedy of Macbeth (The)
 
-## Kiyoshi Kurosawa, invité d'honneur (3)
+## Kiyoshi Kurosawa, invité d'honneur (4)
 
   * Alliés  
   * Armored Car Robbery  
+  * Cure  
   * Gardien de l'enfer (Le)
 
-## Raretés des collections (13)
+## Raretés des collections (12)
 
   * Artères de France  
   * Cessez de rire, voici l'Angleterre  
   * Comment s'en sortir sans sortir  
   * Crossroads  
   * Damnation de Caïn (La)  
-  * Hu-man  
   * Mickey Mouse au Vietnam  
   * Montagne infidèle (La)  
   * Padro Home Movie Marrakech  
@@ -73,12 +72,13 @@
   * Retour (Le)  
   * Thaïs
 
-## Restaurations et incunables (37)
+## Restaurations et incunables (38)
 
   * À bout de course  
   * Boy Meets Girl  
   * Brumes d'automne  
   * Buck et son complice  
+  * Caporal épinglé (Le)  
   * Comédien (Le)  
   * Danse macabre  
   * Deux amies  
