@@ -100,7 +100,7 @@ Avec Antoine Monnier, Tina Irissari, Henri de Maublanc.
 Quatre adolescents en révolte forment un petit groupe écologiste qui se préoccupe de l'avenir du monde. Michel, militant, cherche à lutter avec ses modestes moyens, tandis que Charles, dégouté par la société, refuse l'engagement.  
 Restauration en 4K par Gaumont au laboratoire Éclair.
 
-- je 9 mar 17h00 HL
+- je 9 mar 17h15 HL
 
 [43206]  
 **Le Dieu noir et le diable blond**  
@@ -111,7 +111,7 @@ Avec Geraldo del Rey, Yoná Magalhães, Maurício do Valle, Othon Bastos.
 Un couple de paysans brésiliens, touché par la misère, est prêt à se compromettre pour s'en sortir. Ils s'en remettent à deux personnages violents et mystiques, symbolisant la révolte : une incarnation de Dieu et l'autre du Diable.  
 Restauration 4K conduite par Metrópoles, Lino Meireles et Paloma Cinematográfica à partir du négatif 35 mm original conservé à la Cinemateca brasileira. Travaux réalisés par Estúdio Colors et Estúdio JLS, les cinéastes Luís Abramo et Rogério Moraes, sous la direction de Rodrigo Mercês. Ressortie en salles au troisième trimestre 2023 par Capricci.
 
-- sa 11 mar 14h00 GF
+- sa 11 mar 21h00 GF
 
 [64216]  
 **Fin d'été**  
@@ -212,7 +212,7 @@ Avec Danielle Darrieux, Micheline Presle, Paulette Dubost, Michel Galabru.
 Trois vieilles sœurs se réunissent tous les dimanches. Pour l'épiphanie, le programme est chargé : cimetière, restaurant chinois, galette des rois, puis aller voir une troupe comique du troisième âge dans laquelle joue la quatrième sœur marginale.  
 Scan et restauration en 4K en 2022 par les Films du Losange, avec le soutien du CNC, par Lobster Films pour l'image et par Léon Rousseau-L.E. Diapason pour le son.
 
-- je 9 mar 20h00 JE
+- sa 11 mar 19h45 JE
 
 [39284]  
 **Manolesco prince des poètes**  
@@ -359,7 +359,7 @@ Avec Jean-Louis Barrault, Teddy Bilis, Gaston Modot, Michel Vitold.
 L'avocat du docteur Cordelier est étonné de découvrir que son client lègue ses biens à un criminel sadique, Opale.  
 Restauration 4K réalisée en 2022 par l'équipe de STUDIOCANAL avec Sophie Boyer et Jean-Pierre Boiget au laboratoire Hiventy, avec le soutien du CNC. Négatif original 35 mm scanné par immersion, compte tenu des nombreuses altérations présentes sur la pellicule, avec plus de 200 heures de retouche numérique nécessaires pour effacer les rayures, éclats de gélatine et autres traces d'usure. Son également restauré.
 
-- sa 11 mar 19h30 JE
+- sa 11 mar 14h00 GF
 
 [58128]  
 **Tokyo Pop**  
@@ -415,7 +415,10 @@ Film précédé de _Le Nabab_ d'Albert Capellani
 
 ## Rencontres et conférences
 
-**Rencontre avec Leos Carax**
+**Dialogue avec Leos Carax**  
+Rencontre animée par Frédéric Bonnaud  
+**Le Festival** **_Toute la mémoire du monde_** **présentera deux restaurations de** **_Boy Meets Girl_** **(1984) et de** **_Mauvais sang_** **(1986), supervisées par Caroline Champetier, directrice de la photographie.** **En présence de Leos Carax.** Films emblématiques et punk de la fin des années 1980, _Boy Meets Girl_ et _Mauvais Sang_ lancent la trajectoire de Carax, une filmographie qui sera traversée par ses visions de l'amour fou et tragique, ainsi que par une transfiguration de la vie diurne et nocturne dans les grandes villes, de Paris à Tokyo : _Les Amants du Pont-Neuf_, _Tokyo !_, _Pola X_. En 2012 (_Holy Motors_) et en 2021 (_Annette_), il signe deux autres films hors des sentiers battus, et qui apparaissent comme les manifestes d'une croyance indéfectible dans les puissances du cinéma.  
+**Frédéric Bonnaud** est directeur général de la Cinémathèque française.
 
 - di 12 mar 16h00 HL
 

@@ -50,12 +50,13 @@
   * Sang pour sang  
   * Tragedy of Macbeth (The)
 
-## Kiyoshi Kurosawa, invité d'honneur (4)
+## Kiyoshi Kurosawa, invité d'honneur (5)
 
   * Alliés  
   * Armored Car Robbery  
   * Cure  
-  * Gardien de l'enfer (Le)
+  * Gardien de l'enfer (Le)  
+  * Spontaneous Combustion
 
 ## Raretés des collections (12)
 

@@ -17,7 +17,7 @@ Avec Jean-Luc Godard, Fritz Lang.
 Les questions improvisées du « bébé » français, Godard, au « dinosaure » allemand, Lang. Rencontre entre deux âges du cinémas, fascinés l'un par l'autre.  
 Numérisation et restauration par l'INA en 2K à partir du marron 16 mm noir et blanc, et d'un son magnétique séparé.
 
-- ve 10 mar 20h30 JE  
+- ve 10 mar 20h45 JE  
 - ve 24 mar 20h00 JE
 
 [121606]  

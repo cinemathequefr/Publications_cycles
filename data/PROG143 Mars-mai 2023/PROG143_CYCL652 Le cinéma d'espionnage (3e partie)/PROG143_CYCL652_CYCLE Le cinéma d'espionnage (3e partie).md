@@ -59,7 +59,7 @@ Le capitaine d'un sous-marin allemand accepte le rôle déshonorant de recueilli
 [106772]  
 **Espion(s)**  
 de Nicolas Saada  
-France / 2009 / 99 min / 35 mm  
+France / 2009 / 99 min / VF / 35 mm  
 Avec Guillaume Canet, Géraldine Pailhas, Stephen Rea, Hippolyte Girardot.  
 Vincent et Gérard, bagagistes dans un aéroport, volent dans les sacs avant leur embarquement en soute. Lorsque Gérard meurt dans l'explosion de la valise diplomatique qu'il était en train de fouiller, Vincent surprend son propriétaire en train de récupérer le bagage.
 

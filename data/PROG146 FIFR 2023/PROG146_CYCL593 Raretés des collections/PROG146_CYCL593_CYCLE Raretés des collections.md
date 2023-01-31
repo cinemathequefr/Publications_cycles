@@ -132,4 +132,4 @@ Restauration 4K menée en 2023 par la Cinémathèque française en collaboration
 Accompagnement musical par Adrien Leconte et Loïc Vergnaux  
 Film précédé de _La Damnation de Caïn_ de Luigi Maggi
 
-Remerciements : Filmoteca de Catalunya, Clara Martin Villas, Rosa Cardona Arnau, Marionna Bruzzo Llaberia, La Fondation Henri Cartier-Bresson, Pierre Leyrat, Aude Raimbault, Bertrand Guehenneux.
+Remerciements : Filmoteca de Catalunya (Clara Martin Villas, Rosa Cardona Arnau, Marionna Bruzzo Llaberia), La Fondation Henri Cartier-Bresson (Clément Cheroux, Pierre Leyrat, Aude Raimbault), Theresa Pardo, Thierry Garrel, Micheline Catti-Ghérasim Luca, Cineteca Nazionale (Rome).

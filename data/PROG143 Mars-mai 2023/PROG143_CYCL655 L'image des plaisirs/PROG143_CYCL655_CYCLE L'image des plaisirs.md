@@ -719,7 +719,7 @@ _Les Filles de Ka-ma-ré_ détourne _Le Pensionnat des jeunes filles perverses_ 
 
 [125708]  
 **Les Filles de Ka-ma-ré (Une petite culotte pour l'été)**  
-de René Vienet  
+de René Viénet  
 France / 1974 / 88 min / 35 mm  
 Avec Miki Sugimoto, Reiko Ike, Seiko Saburi, Misuzu Ōta.  
 « Il s'agit du second détournement (intégral) par René Viénet d'un film asiatique. Comme celui-ci souhaite inscrire un cliquet de plus dans le détournement, avec quelques complices, il tourne quelques inserts hard. » (René Viénet)

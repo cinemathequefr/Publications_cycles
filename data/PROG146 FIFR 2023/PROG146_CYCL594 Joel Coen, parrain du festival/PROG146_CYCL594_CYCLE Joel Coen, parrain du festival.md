@@ -117,22 +117,31 @@ Avec Toshirō Mifune, Tatsuya Nakadai, Yōko Tsukasa.
 Japon, 1725, sous l'ère d'Edo. Un chef de fief décide de marier sa femme, qu'il vient de répudier, au fils du samouraï Isaburo Sasahara.
 
 - me 8 mar 12h00 HO  
-- sa 11 mar 18h30 GF
+- je 9 mar 20h00 JE
 
 ## Rencontres et conférences
 
 **No Country for Old Men + Masterclass Joel Coen**  
-Rencontre animée par Bernard Benoliel
+Rencontre animée par Bernard Benoliel  
+**À l'issue de la projection de** **_No Country for Old Men_** **(2007), Joel Coen reviendra sur ce film et sur son parcours de cinéaste.**  
+**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+Cinéaste américain, Joel Coen débute au début des années 1980 comme assistant-monteur sur _Evil Dead_ de Sam Raimi. Avec son frère Ethan, il se fait remarquer dès leur premier long-métrage, _Blood Simple_ (1984). Depuis lors, du film noir au western en passant par le musical, on reconnaît « le style Coen » dans cette alliance entre absurde, insensé et humour noir qui caractérise les déboires de leurs personnages, _losers_ existentiels, figures anonymes écrasées par le Destin (_Fargo_, 1996 ; _A Serious Man_, 2009) ou silhouettes _cools_ aussi anachroniques qu'irrésistibles (_The Big Lebowski_, 1998). Les deux frères sont nommés présidents du festival de Cannes en 2015, là où ils avaient remporté une Palme d'or en 1991 pour _Barton Fink_. En 2021, Joel Coen réalise son premier film en solo : _The Tragedy of Macbeth_, produit par Apple TV.
 
 - je 9 mar 21h00 HL
 
 **The Tragedy of Macbeth + Dialogue avec Joel Coen et Bruno Delbonnel**  
-Rencontre animée par Frédéric Bonnaud
+Rencontre animée par Frédéric Bonnaud  
+**À l'issue de la projection de** **_The Tragedy of Macbeth_** **(2021), Joel Coen échangera avec Bruno Delbonnel à propos de ce film. Bruno Delbonnel est directeur de la photographie et a signé aussi la photo de** **_Inside Llewyn Davis_** **et de** **_La Ballade de Buster Scrubs_****.**  
+**Frédéric Bonnaud** est directeur général de la Cinémathèque française.  
+Cinéaste américain, Joel Coen débute au début des années 1980 comme assistant-monteur sur _Evil Dead_ de Sam Raimi. Avec son frère Ethan, il se fait remarquer dès leur premier long-métrage, _Blood Simple_ (1984). Depuis lors, du film noir au western en passant par le musical, on reconnaît « le style Coen » dans cette alliance entre absurde, insensé et humour noir qui caractérise les déboires de leurs personnages, _losers_ existentiels, figures anonymes écrasées par le Destin (_Fargo_, 1996 ; _A Serious Man_, 2009) ou silhouettes _cools_ aussi anachroniques qu'irrésistibles (_The Big Lebowski_, 1998). Les deux frères sont nommés présidents du festival de Cannes en 2015, là où ils avaient remporté une Palme d'or en 1991 pour _Barton Fink_. En 2021, Joel Coen réalise son premier film en solo : _The Tragedy of Macbeth_, produit par Apple TV.
 
 - ve 10 mar 21h15 HL
 
 **Inside Llewyn Davis + Dialogue avec Joel Coen et Bruno Delbonnel**  
-Rencontre animée par Pauline de Raymond
+Rencontre animée par Pauline de Raymond  
+**À l'issue de la projection de** **_Inside Llewyn Davis_** **(2013), Joel Coen échangera avec le directeur de la photographie Bruno Delbonnel à propos du film et de leur collaboration artistique.**  
+**Pauline de Raymond** est Responsable de programmation à la Cinémathèque française. Elle a créé le Festival _Toute la mémoire du monde_ en 2012.  
+Cinéaste américain, Joel Coen débute au début des années 1980 comme assistant-monteur sur _Evil Dead_ de Sam Raimi. Avec son frère Ethan, il se fait remarquer dès leur premier long-métrage, _Blood Simple_ (1984). Depuis lors, du film noir au western en passant par le musical, on reconnaît « le style Coen » dans cette alliance entre absurde, insensé et humour noir qui caractérise les déboires de leurs personnages, _losers_ existentiels, figures anonymes écrasées par le Destin (_Fargo_, 1996 ; _A Serious Man_, 2009) ou silhouettes _cools_ aussi anachroniques qu'irrésistibles (_The Big Lebowski_, 1998). Les deux frères sont nommés présidents du festival de Cannes en 2015, là où ils avaient remporté une Palme d'or en 1991 pour _Barton Fink_. En 2021, Joel Coen réalise son premier film en solo : _The Tragedy of Macbeth_, produit par Apple TV.
 
 - sa 11 mar 16h15 HL
 

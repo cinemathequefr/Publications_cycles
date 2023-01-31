@@ -20,6 +20,6 @@ Avec Hrachia Nersisyan, Tigran Ayvazyan, Tatyana Makhmuryan.
 À Baku, un vieux technicien se rappelle la lutte des ouvriers arméniens et azéris contre les magnats tsaristes du pétrole.  
 Restauration commandée par le National Cinema Center of Armenia avec l'aide du Ministère de l'Éducation, de la Science, de la Culture et du Sport de la République d'Arménie. Nouvelle restauration 4K à partir de l'interpositif 35 mm par One Man Studio, Yerevan, 2022.
 
-- ve 10 mar 21h00 GF
+- ve 10 mar 21h15 GF
 
 Remerciements : National Cinema Center of Armenia, Vigen Galstyan et Naira Gevorgyan.
