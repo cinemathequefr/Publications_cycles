@@ -4,7 +4,7 @@
     "typeEvenement": 13,
     "idEvenement": 27776,
     "idSeance": 100632,
-    "dateHeure": "2023-03-08T12:00:00",
+    "dateHeure": "2023-03-08T19:15:00",
     "idSalle": [
       "HO",
       "Hors les murs"
@@ -38,48 +38,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
-  },
-  {
-    "idCategorie": 2538,
-    "typeEvenement": 13,
-    "idEvenement": 27659,
-    "idSeance": 92872,
-    "dateHeure": "2023-03-10T16:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
     ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 139952,
-        "ordre": 1,
-        "idSeance": 92872,
-        "idCopie": 17247,
-        "duree": 1,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 130509,
-        "ordre": 2,
-        "idSeance": 92872,
-        "idCopie": 25413,
-        "duree": 36,
-        "version": "",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 154260,
-        "ordre": 3,
-        "idSeance": 92872,
-        "idCopie": 25412,
-        "duree": 56,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
+    "mention": "Séance présentée par Philippe Azoury"
   },
   {
     "idCategorie": 2538,
@@ -112,7 +72,7 @@
         "format": "DCP"
       }
     ],
-    "mention": "Accompagnement musical par Adrien Leconte et Loïc Vergnaux"
+    "mention": "Accompagnement musical par Adrien Leconte et Loïc Vergnaux. Séance présentée par Dominique Païni"
   },
   {
     "idCategorie": 2538,
@@ -178,5 +138,46 @@
       }
     ],
     "mention": "Accompagnement musical par Improvisation Jean-François Zygel Classe"
+  },
+  {
+    "idCategorie": 2538,
+    "typeEvenement": 13,
+    "idEvenement": 27659,
+    "idSeance": 92872,
+    "dateHeure": "2023-03-11T17:45:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 139952,
+        "ordre": 1,
+        "idSeance": 92872,
+        "idCopie": 17247,
+        "duree": 1,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 130509,
+        "ordre": 2,
+        "idSeance": 92872,
+        "idCopie": 25413,
+        "duree": 36,
+        "version": "",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 154260,
+        "ordre": 3,
+        "idSeance": 92872,
+        "idCopie": 25412,
+        "duree": 56,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
   }
 ]

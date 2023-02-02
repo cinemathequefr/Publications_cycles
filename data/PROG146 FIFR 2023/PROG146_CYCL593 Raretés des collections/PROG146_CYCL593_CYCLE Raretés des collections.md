@@ -32,7 +32,7 @@ Avec Ghérasim Luca.
 Ghérasim Luca, auteur d'origine roumaine, a marqué le champ de la poésie sonore en langue française. Raoul Sangla filme le poète et ses textes, dans un récital télévisuel qui tient de la performance.  
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française.
 
-- ve 10 mar 16h30 JE  
+- sa 11 mar 17h45 JE  
 Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage, _Crossroads_ de Bruce Conner
 
 [130509]  
@@ -41,7 +41,7 @@ de Bruce Conner
 États-Unis / 1976 / 36 min / 35 mm  
 En pleine guerre froide, Conner montre l'explosion nucléaire test de 1945 sur l'Atoll de Bikini sous 27 angles différents, dans un ralenti extrême, et accompagnée par les compositions sonores avant-gardistes de Patrick Gleeson et Terry Riley.
 
-- ve 10 mar 16h30 JE  
+- sa 11 mar 17h45 JE  
 Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage et suivi de de _Comment s'en sortir sans sortir_ de Raoul Sangla
 
 [135109]  
@@ -54,7 +54,7 @@ Deux fermiers aiment la même femme, qui choisi l'un d'eux. Le prétendant rejet
 Restauration 4K en 2023 à partir d'une copie nitrate teintée par la Cinémathèque française, au laboratoire du CNC.
 
 - sa 11 mar 14h00 JE  
-Accompagnement musical par Adrien Leconte et Loïc Vergnaux  
+Accompagnement musical par Adrien Leconte et Loïc Vergnaux. Séance présentée par Dominique Païni  
 Film suivi de _Thaïs_ d'Anton Giulio Bragaglia
 
 [139952]  
@@ -64,7 +64,7 @@ de Lee Savage
 États-Unis / 1969 / 1 min / DCP  
 Dans ce dessin animé indépendant, ni validé ni produit par Disney, Mickey s'engage dans l'armée américaine et se rend au Vietnam en bateau durant la guerre. Quelques instants après son arrivée, il est tué d'une balle dans la tête.
 
-- ve 10 mar 16h30 JE  
+- sa 11 mar 17h45 JE  
 Film suivi de _Crossroads_ de Bruce Conner, _Comment s'en sortir sans sortir_ de Raoul Sangla
 
 [84569]  
@@ -86,7 +86,8 @@ Avec Tina Aumont, Michel Auder, Sylvina Boissonnas.
 Le film débute sur des plans à Venise, des passants saisis depuis une chambre d'hôtel, avec Tina Aumont. Il se poursuit au Maroc pendant le tournage du _Lit de la vierge_, dans une chambre d'hôtel, les gens discutent, jouent de la guitare, fument.  
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir d'une copie 16 mm conservée dans ses collections.
 
-- me 8 mar 12h00 HO  
+- me 8 mar 19h15 HO  
+Séance présentée par Philippe Azoury  
 Film précédé de _Pardo Home Movie : Tina Aumont_ de Frédéric Pardo, _Pardo New York_ de Frédéric Pardo
 
 [154288]  
@@ -97,7 +98,8 @@ Avec Tina Aumont.
 Montage de found footage de fiction en italien et de plans de Tina Aumont et Pardo dans le jardin du Luxembourg et à la campagne dans un cimetière. Puis plan d'un déjeuner dans le jardin d'une maison de campagne, on y voit Tina et le père de F. Pardo.  
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservée dans les collections.
 
-- me 8 mar 12h00 HO  
+- me 8 mar 19h15 HO  
+Séance présentée par Philippe Azoury  
 Film suivi de _Pardo New York_ de Frédéric Pardo, _Padro Home Movie Marrakech_ de Frédéric Pardo
 
 [154289]  
@@ -108,7 +110,8 @@ Avec Tina Aumont, Nico.
 Jackie Raynal et Tina Aumont dans Central Park. Vues depuis un appartement, depuis une voiture, Nico à la fenêtre au-dessus de Tina Aumont. Jackie Raynal, enceinte, s'habille dans un appartement, Tina lit allongée. Promenades dans les rues de NYC à la tombée du jour.  
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservée dans les collections.
 
-- me 8 mar 12h00 HO  
+- me 8 mar 19h15 HO  
+Séance présentée par Philippe Azoury  
 Film précédé de _Pardo Home Movie : Tina Aumont_ de Frédéric Pardo et suivi de de _Padro Home Movie Marrakech_ de Frédéric Pardo
 
 [47350]  
@@ -129,7 +132,7 @@ La comtesse russe Thaïs Galitzy aguiche des hommes mariés avant de les ruiner.
 Restauration 4K menée en 2023 par la Cinémathèque française en collaboration avec la Fondazione Centro Sperimentale di Cinematografia – Cineteca Nazionale (Rome). Travaux réalisés au laboratoire L'Image retrouvée (Paris/Bologne) à partir d'une copie nitrate teintée partiellement décomposée et d'un contretype.
 
 - sa 11 mar 14h00 JE  
-Accompagnement musical par Adrien Leconte et Loïc Vergnaux  
+Accompagnement musical par Adrien Leconte et Loïc Vergnaux. Séance présentée par Dominique Païni  
 Film précédé de _La Damnation de Caïn_ de Luigi Maggi
 
 Remerciements : Filmoteca de Catalunya (Clara Martin Villas, Rosa Cardona Arnau, Marionna Bruzzo Llaberia), La Fondation Henri Cartier-Bresson (Clément Cheroux, Pierre Leyrat, Aude Raimbault), Theresa Pardo, Thierry Garrel, Micheline Catti-Ghérasim Luca, Cineteca Nazionale (Rome).

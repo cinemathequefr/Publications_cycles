@@ -10,7 +10,7 @@ Japon / 1992 / 97 min / VOSTF / DCP
 Avec Makiko Kuno, Yutaka Matsushige, Hatsunori Hasegawa.  
 Un ancien lutteur de sumo, devenu veilleur de nuit, est pris de pulsions meurtrières et enchaîne les crimes violents sans réelle motivation. Mais, un soir, une jeune femme est témoin du meurtre d'un de ses collègues.
 
-- sa 11 mar 22h00 JE
+- ve 10 mar 21h30 JE
 
 ## Carte blanche à Kiyoshi Kurosawa
 
@@ -22,7 +22,8 @@ de Robert Zemeckis
 Avec Brad Pitt, Marion Cotillard, Jared Harris.  
 Casablanca, 1942. Max et Marianne, deux espions des forces alliées, tombent amoureux lors d'une mission et se marient. Mais Max est informé par les services secrets britanniques que Marianne pourrait être une espionne allemande.
 
-- di 12 mar 14h00 HO
+- di 12 mar 14h00 HO  
+Séance présentée par Kiyoshi Kurosawa
 
 [77471]  
 **Armored Car Robbery**  
@@ -31,7 +32,8 @@ de Richard Fleischer
 Avec Charles McGraw, Adele Jergens, William Talman.  
 Dave Purvis, dangereux criminel, reste inconnu de la police. Il organise minutieusement le braquage d'un fourgon blindé pendant un match de baseball. Mais les choses tournent mal, et l'inspecteur Cordell se lance à la poursuite de sa bande.
 
-- di 12 mar 19h00 GF
+- di 12 mar 19h00 GF  
+Séance présentée par Kiyoshi Kurosawa
 
 [65545]  
 **Cure**  
@@ -50,7 +52,8 @@ de Tobe Hooper
 Avec Brad Dourif, Cynthia Bain, Jon Cypher.  
 Sam découvre que ses parents ont été l'objet d'expériences atomiques dans le passé, et qu'il a un pouvoir de pyrokinésie : il peut contrôler le feu et l'électricité. Mais les conséquences sur son corps sont importantes.
 
-- sa 11 mar 16h15 GF
+- sa 11 mar 16h15 GF  
+Séance présentée par Kiyoshi Kurosawa
 
 ## Rencontres et conférences
 

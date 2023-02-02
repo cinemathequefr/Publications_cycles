@@ -10,7 +10,8 @@ Avec Tilda Swinton, Bill Paterson, Patrick Bauchau.
 Dans les années 1970, une androïde extraterrestre, envoyée sur Terre pour une mission pacifiste, atterrit par erreur en plein conflit palestinien. Elle y rencontre un journaliste écossais, avec qui elle entame une grande conversation spirituelle.  
 Restauration d'après le négatif couleur 16 mm d'origine, et la piste son 35 mm. Nouvel étalonnage des couleurs supervisé par le directeur de la photographie Witold Stok.
 
-- me 8 mar 12h00 HO
+- ve 10 mar 15h30 HO  
+Séance présentée par Kieron Webb
 
 [41070]  
 **Love**  
@@ -32,7 +33,8 @@ Avec David Thewlis, Greg Crutwell, Lesley Sharp, Katrin Cartlidge.
 Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'est de Londres, chez son ancienne petite-amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.  
 Restauration sous la supervision du directeur de la photographie Dick Pope, et approuvée par Mike Leigh, d'après le négatif et la piste magnétique d'origine, prêtés par Channel 4. L'étalonnage des couleurs reproduit le procédé de la copie originale, conservée au BFI.
 
-- me 8 mar 12h00 HO
+- ve 10 mar 17h15 HO  
+Séance présentée par Kieron Webb
 
 [29012]  
 **Ne pas avaler**  
@@ -43,7 +45,7 @@ Avec Ray Winstone, Kathy Burke, Charlie Creed-Miles.
 L'histoire d'une famille ordinaire dans un quartier ouvrier de l'est de Londres, où Raymond, père de famille alcoolique et violent, voit peu à peu ses relations avec ses proches s'effriter.  
 Restauration à l'occasion du 25<sup>e</sup> anniversaire du film, avec le soutien de Simon et Harley Hessel, à partir du négatif Super 16 mm et de la piste son 35 mm, prêtés par Sony Pictures Classics. Nouveau format 1.66:1, étalonnage effectué à partir d'un tirage récent et approuvé par Gary Oldman.
 
-- me 8 mar 12h00 HO
+- me 8 mar 17h30 HO
 
 [42835]  
 **La Vie privée d'Henry VIII**  
@@ -54,6 +56,7 @@ Avec Charles Laughton, Robert Donat, Merle Oberon, Elsa Lanchester.
 Au XVI<sup>e</sup> siècle, à la cour d'Angleterre, le portrait du terrible roi Henry VIII, marié six fois, à travers ses déboires conjugaux.  
 Restauration par les Archives du BFI et la Film Foundation, en collaboration avec ITV et Park Circus, grâce au financement de la George Lucas Family Foundation, d'après une copie nitrate d'origine de 1933.
 
-- je 9 mar 16h45 HO
+- je 9 mar 13h45 HO  
+Séance présentée par Kieron Webb
 
 Remerciements : British Film Institute National Archive, Mission, M. Kieron Webb.

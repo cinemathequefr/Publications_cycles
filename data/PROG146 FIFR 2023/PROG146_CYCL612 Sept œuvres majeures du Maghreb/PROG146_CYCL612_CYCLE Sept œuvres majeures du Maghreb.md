@@ -11,7 +11,8 @@ Avec Parviz Shahinkhou, Maryam Hamid, Golshifteh Farahani.
 Perdus dans un océan de sable cheminent Ishtar, une petite fille pleine d'entrain, et son grand-père Bab Aziz, un derviche aveugle. Elle le guide vers la grande réunion des derviches qui a lieu tous les trente ans, mais pour trouver cet endroit secret, il faut « écouter le silence infini du désert avec son cœur ».  
 Restauration par Trigon Film (Suisse).
 
-- me 8 mar 12h00 HO
+- sa 11 mar 17h00 HO  
+Séance présentée par Nacer Khemir
 
 [55569]  
 **Les Baliseurs du désert**  
@@ -22,7 +23,8 @@ Avec Hedi Daoud, Sonia Ichti, Nacer Khemir.
 Un jeune instituteur est nommé dans un village en ruines perdu au milieu du désert sud-tunisien. Il n'y a pas d'école, mais beaucoup d'enfants, des femmes et des vieillards. Les hommes sont tous partis dans le désert pour en chercher les limites.  
 Restauration de l'image par la Cinémathèque Royale de Belgique, et du son par Trigon Film (Suisse).
 
-- me 8 mar 12h00 HO
+- sa 11 mar 11h00 HO  
+Séance présentée par Nacer Khemir
 
 [37933]  
 **Chronique des anées de braise**  
@@ -32,7 +34,7 @@ Algérie / 1975 / 177 min / VOSTF / DCP
 Avec Yorgo Voyagis, Mohammed Lakhdar-Hamina, Larbi Zekkal.  
 Minutieuse chronique de l'évolution du mouvement national algérien depuis les années 1930 jusqu'au déclenchement de la révolution du 1<sup>er</sup> novembre 1954.
 
-- me 8 mar 12h00 HO
+- di 12 mar 17h00 HO
 
 [59631]  
 **Le Collier perdu de la colombe**  
@@ -42,7 +44,8 @@ Avec Nadia Chowdhry, Walid Arakji, Nina Esber, Noureddine Kasbaoui.
 Dans l'Andalousie musulmane du XI<sup>e</sup> siècle, le jeune Hassan étudie la poésie à la mosquée de Cordoue et apprend l'art de la calligraphie auprès d'un maître expert en la matière. Studieux en apparence, Hassan se consume en secret à chercher les chapitres manquants d'une œuvre sacrée dont il ne possède qu'un seul fragment.  
 Restauration par Trigon Film (Suisse).
 
-- me 8 mar 12h00 HO
+- sa 11 mar 14h00 HO  
+Séance présentée par Nacer Khemir
 
 [71576]  
 **De quelques événements sans significations**  
@@ -52,7 +55,7 @@ Avec Abdellatif Nour, Abbas Fassi-Fihri, Hamid Zoughi.
 Une équipe de cinéastes interroge de jeunes Casablancais sur leurs attentes et leur rapport au cinéma marocain.  
 Restauration en 2019 par la Filmoteca de Catalunya et l'Observatoire (Casablanca).
 
-- sa 11 mar 17h45 JE
+- ve 10 mar 19h30 JE
 
 [64888]  
 **Une porte sur le ciel**  

@@ -1,5 +1,28 @@
 [
   {
+    "idCategorie": 2946,
+    "typeEvenement": 13,
+    "idEvenement": 27539,
+    "idSeance": 100639,
+    "dateHeure": "2023-03-10T21:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 102664,
+        "ordre": 1,
+        "idSeance": 100639,
+        "idCopie": 16524,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
     "idCategorie": 2952,
     "typeEvenement": 13,
     "idEvenement": 27541,
@@ -20,7 +43,8 @@
         "version": "VOSTF",
         "format": "Numérique"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Kiyoshi Kurosawa"
   },
   {
     "idCategorie": 2952,
@@ -61,29 +85,6 @@
     ]
   },
   {
-    "idCategorie": 2946,
-    "typeEvenement": 13,
-    "idEvenement": 27539,
-    "idSeance": 100639,
-    "dateHeure": "2023-03-11T22:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 102664,
-        "ordre": 1,
-        "idSeance": 100639,
-        "idCopie": 16524,
-        "duree": 97,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
     "idCategorie": 2952,
     "typeEvenement": 13,
     "idEvenement": 27542,
@@ -104,7 +105,8 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Kiyoshi Kurosawa"
   },
   {
     "idCategorie": 2952,
@@ -127,6 +129,7 @@
         "version": "VOSTF",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Kiyoshi Kurosawa"
   }
 ]

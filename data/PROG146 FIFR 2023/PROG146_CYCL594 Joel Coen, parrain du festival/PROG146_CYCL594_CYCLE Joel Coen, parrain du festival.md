@@ -12,7 +12,7 @@ Au lendemain de la signature du pacte germano-soviétique de 1939, Winston Churc
 
 Bernard Benoliel
 
-- me 8 mar 12h00 HO
+- sa 11 mar 17h45 HO
 
 [140529]  
 **La Ballade de Buster Scruggs**  
@@ -23,9 +23,9 @@ Avec James Franco, Tim Blake Nelson, Liam Neeson, Tom Waits.
 Six fables mettant en scène un cowboy musicien, un chercheur d'or, un braqueur de banques ou encore une diligence infernale, pour incarner les plus étonnantes histoires du Far West.
 
 - je 9 mar 16h45 JE  
-- sa 11 mar 20h00 HO  
 - di 12 mar 14h00 HO  
-- di 12 mar 16h00 HO
+Séance présentée par Bruno Delbonnel  
+- di 12 mar 16h15 HO
 
 [31780]  
 **Barton Fink**  
@@ -43,7 +43,7 @@ de Joel Coen
 Avec Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi.  
 Jeff Lebowski, surnommé le _Dude_, passe son temps à jouer au bowling. Deux malfrats font irruption chez lui et l'agressent, le confondant avec un millionnaire du même nom. Le _Dude_ part alors demander réparation à son riche homonyme.
 
-- di 12 mar 14h00 HO
+- sa 11 mar 20h00 HO
 
 [50144]  
 **Fargo**  
@@ -53,8 +53,10 @@ Avec Frances McDormand, William H. Macy, Steve Buscemi, Peter Stormare.
 Minnesota, 1987. Un concessionnaire automobile endetté fait enlever sa femme par deux petites frappes pour obtenir une rançon de son richissime beau-père. Mais le plan ne résiste pas longtemps au flair d'une policière enceinte.  
 Restauration 4K en 2021 à l'occasion du 25<sup>e</sup> anniversaire du film.
 
-- me 8 mar 20h00 HO  
-- me 8 mar 20h00 JE
+- me 8 mar 20h00 JE  
+- me 8 mar 20h00 HL  
+Séance présentée par Joel Coen  
+- ve 10 mar 22h00 HO
 
 [119403]  
 **Inside Llewyn Davis**  
@@ -63,7 +65,8 @@ d'Ethan Coen, Joel Coen
 Avec Oscar Isaac, Carey Mulligan, Justin Timberlake, John Goodman.  
 Le parcours d'un musicien folk malchanceux dans le New York des années 1960.
 
-- sa 11 mar 14h30 HL
+- sa 11 mar 14h30 HL  
+- di 12 mar 19h00 HO
 
 [102035]  
 **No Country for Old Men**  
@@ -73,7 +76,8 @@ D'après le roman _No Country for Old Men_ de Cormac McCarthy.
 Avec Tommy Lee Jones, Javier Bardem, Josh Brolin.  
 Découvrant une camionnette abandonnée et cernée de cadavres, Llewelyn Moss vole les 2 millions de dollars qui se trouvent à l'intérieur. Anton Chigurh, un tueur psychopathe, se lance alors à sa poursuite et déclenche une chasse à l'homme des plus sanglantes.
 
-- ve 10 mar 19h30 HL
+- ve 10 mar 19h30 HL  
+- sa 11 mar 20h30 HO
 
 [31793]  
 **Sang pour sang**  
@@ -84,7 +88,7 @@ Avec John Getz, Frances McDormand, Dan Hedaya.
 Au Texas, un propriétaire de bar découvrant que sa femme le trompe avec le barman, engage un détective local pour les assassiner. Mais sous des dehors de parfait imbécile, ce dernier se révèle un être machiavélique et imprévisible.  
 Restauration en 4K de la version Director's cut. Nouvelle restauration StudioCanal en 4K approuvée par le directeur de la photographie Barry Sonnenfeld et les réalisateurs Joel et Ethan Coen.
 
-- me 8 mar 12h00 HO
+- je 9 mar 22h00 HO
 
 [152050]  
 **The Tragedy of Macbeth**  
@@ -94,7 +98,7 @@ D'après le pièce _Macbeth_ de William Shakespeare.
 Avec Denzel Washington, Frances McDormand, Brendan Gleeson.  
 Un seigneur écossais est convaincu par un trio de sorcières qu'il deviendra le prochain roi d'Écosse. Son ambitieuse épouse le soutient dans ses plans pour prendre le pouvoir.
 
-- je 9 mar 19h30 HL
+- je 9 mar 19h45 HL
 
 ## Carte blanche à Joel Coen
 
@@ -106,7 +110,7 @@ Argentine-France-Espagne / 2007 / 87 min / VOSTF / 35 mm
 Avec María Onetto, Claudia Cantero, Inés Efrón, César Bordón.  
 Veronica, au volant de sa voiture, heurte quelque chose dans un moment de distraction. Les jours suivants, elle semble disparaître, doucement étrangère aux choses et aux personnes qui l'entourent.
 
-- me 8 mar 12h00 HO
+- ve 10 mar 13h45 HO
 
 [44888]  
 **Rébellion**  
@@ -116,8 +120,7 @@ Japon / 1967 / 128 min / VOSTF / 35 mm
 Avec Toshirō Mifune, Tatsuya Nakadai, Yōko Tsukasa.  
 Japon, 1725, sous l'ère d'Edo. Un chef de fief décide de marier sa femme, qu'il vient de répudier, au fils du samouraï Isaburo Sasahara.
 
-- me 8 mar 12h00 HO  
-- je 9 mar 20h00 JE
+- ve 10 mar 16h30 JE
 
 ## Rencontres et conférences
 

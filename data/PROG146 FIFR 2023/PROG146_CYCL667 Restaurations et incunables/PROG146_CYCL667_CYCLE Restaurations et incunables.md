@@ -56,7 +56,7 @@ Avec Jean-Pierre Cassel, Claude Brasseur, Claude Rich, Jean Carmet.
 En 1940, prisonniers de guerre dans un stalag allemand, le Caporal et Peter tentent, de façon aussi répétée qu'infructueuse, de s'évader.  
 Restauration et numérisation en 4K par StudioCanal en 2021 chez Hiventy, avec la participation du CNC. Négatif 35 mm original scanné en 4K par immersion car présentant de profondes rayures. Les multiples altérations de la pellicule ont été atténuées ou retirées.
 
-- je 9 mar 20h30 HO
+- di 12 mar 14h00 HO
 
 [49089]  
 **Le Comédien**  
@@ -132,7 +132,8 @@ Avec Erich von Stroheim, Maude George, Mae Busch.
 Aidé de ses deux complices féminines, Karazim, faux arisctocrate russe, s'installe à Monte-Carlo pour escroquer les casinos avec de faux billets, et tente de séduire la femme de l'ambassadeur des USA.  
 Restauration par le San Francisco Silent Film Festival, à partir d'une copie nitrate 35 mm de la Cineteca Italiana de Milan, et d'une copie 35 mm du Museum of Modern Art de New York. Teintages et virages réalisés selon les conventions de colorisation d'Universal de l'époque. Pour réaliser les effets colorisés à la main, les équipes se sont référé à des revues contemporaines et à un article de presse spécialisée écrit par le coloriste d'origine, Gustav Brock.
 
-- me 8 mar 20h30 HO
+- ve 10 mar 20h30 HO  
+Séance présentée par Stéphane Goudet
 
 [154285]  
 **Histoire de la guerre civile**  
@@ -142,7 +143,7 @@ En pleine guerre civile russe, Vertov filme des figures emblématiques du gouver
 Restauration par Nikolai Izvolov à partir d'une description du film faite par Grigory Boltyansky conservée à l'Archive of Literature and Art in Moscow, et d'éléments du matériel d'origine 35 mm conservés dans différentes archives.
 
 - ve 10 mar 18h00 GF  
-Accompagnement musical par Gabriel Cazes et Nicolas Giraud
+Séance suivie d'une discussion avec Nikolaï Izvolov. Accompagnement musical par Gabriel Cazes et Nicolas Giraud
 
 [130691]  
 **Histoire sans paroles**  
@@ -194,7 +195,8 @@ Avec Isabella Rossellini, Fanny Ardant.
 Un voyage lyrique et visionnaire vers les origines du cinéma muet italien, réalisé à partir de copies nitrates préservées dans les archives de l'Eye Filmmuseum à Amsterdam, la Cineteca Milano, le Museo Nazionale del Cinema, la Cineteca de Bologna, la Cineteca Nazionale, la Cineteca del Friuli, le CNC, l'Istituto Luce et le British Film Institute.  
 Présentation en avant-première de sa sortie en salles le 15 mars par Carlotta Films.
 
-- sa 11 mar 15h30 JE
+- sa 11 mar 15h30 JE  
+Séance présentée par Céline Gailleurd
 
 [154334]  
 **Jane Campion, la femme cinéma**  
@@ -202,7 +204,8 @@ de Julie Bertuccelli
 France / 2022 / 99 min / DCP  
 Portrait de Jane Campion, réalisatrice plasticienne et iconoclaste, subtile portraitiste de l'âme humaine et des femmes, qui a su en quarante ans se tailler une place unique dans le panthéon très masculin du cinéma.
 
-- di 12 mar 19h00 JE
+- di 12 mar 17h30 JE  
+Séance présentée par Julie Bertuccelli
 
 [51463]  
 **Le Jour des rois**  
@@ -212,7 +215,8 @@ Avec Danielle Darrieux, Micheline Presle, Paulette Dubost, Michel Galabru.
 Trois vieilles sœurs se réunissent tous les dimanches. Pour l'épiphanie, le programme est chargé : cimetière, restaurant chinois, galette des rois, puis aller voir une troupe comique du troisième âge dans laquelle joue la quatrième sœur marginale.  
 Scan et restauration en 4K en 2022 par les Films du Losange, avec le soutien du CNC, par Lobster Films pour l'image et par Léon Rousseau-L.E. Diapason pour le son.
 
-- sa 11 mar 19h45 JE
+- sa 11 mar 20h00 JE  
+Séance présentée par Marie-Claude Treilhou
 
 [39284]  
 **Manolesco prince des poètes**  
@@ -278,8 +282,6 @@ Avec Pierre Larquey, Léon Bernard, Jean Dax.
 Le forgeron Bernard Jeansoulet fait vivre, grâce à son travail, son frère Louis et sa mère. Louis trouve un emploi à Paris, où il se laisse griser par l'atmosphère capiteuse, et se retrouve en prison. Désemparé, Bernard décide de quitter le pays.  
 Restauration en 2021 par la Fondation Jérôme Seydoux-Pathé, avec le soutien du CNC.
 
-- sa 11 mar 12h00 HO  
-Film suivi de _Vues au pochoir : villes d'Europe années 1920 en Pathécolor_ d'Anonyme  
 - sa 11 mar 17h00 HO  
 Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois  
 Film suivi de _Vues au pochoir : villes d'Europe années 1920 en Pathécolor_ d'Anonyme
@@ -348,7 +350,7 @@ Dah et Jocelyn, Antillais et Béninois installés illégalement en France, parti
 Restauration 4K supervisée par Pathé et exécutée au laboratoire Hiventy, avec le soutien du CNC. Étalonnage supervisé par Agnès Godard et Pascal Marti. Remerciements à Claire Denis.
 
 - me 8 mar 14h00 GF  
-Accompagnement musical par Tessa Pontaud. Séance présentée par Claire Denis
+Séance présentée par Claire Denis
 
 [50878]  
 **Le Testament du Docteur Cordelier**  
@@ -368,7 +370,7 @@ de Fran Rubel Kuzui
 Avec Carrie Hamilton, Diamond Yukai, Taiji Tonoyama.  
 Chanteuse désabusée, Wendy décide de tout plaquer. Elle part à Tokyo, dans l'espoir de réaliser son rêve de rock star.
 
-- di 12 mar 16h30 JE
+- je 9 mar 19h30 JE
 
 [46339]  
 **Une nuit sur le mont Chauve**  
@@ -407,8 +409,6 @@ d'Anonyme
 France / 1930 / 16 min / INT. FR. / DCP  
 La Cinémathèque française a mené en 2022 la restauration de 7 vues coloriées au pochoir selon le procédé Pathécolor, à partir de copies nitrate conservées dans ses collections. Comme des cartes postales animées, les films montrent plusieurs paysages pittoresques aux couleurs magnifiques, invitant au voyage dans différents sites d'Europe : Clovelly, Copenhague, Alicante, Elche, Grenade et la Creuse. Les travaux numériques 4K ont été réalisés au laboratoire Hiventy en s'attachant à restituer fidèlement les couleurs d'origine.
 
-- sa 11 mar 12h00 HO  
-Film précédé de _Le Nabab_ d'Albert Capellani  
 - sa 11 mar 17h00 HO  
 Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois  
 Film précédé de _Le Nabab_ d'Albert Capellani
