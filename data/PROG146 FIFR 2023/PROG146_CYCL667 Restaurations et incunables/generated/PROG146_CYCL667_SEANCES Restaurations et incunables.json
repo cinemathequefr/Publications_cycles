@@ -51,7 +51,7 @@
     "typeEvenement": 13,
     "idEvenement": 27635,
     "idSeance": 96789,
-    "dateHeure": "2023-03-08T18:30:00",
+    "dateHeure": "2023-03-08T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -167,7 +167,7 @@
     "typeEvenement": 13,
     "idEvenement": 27638,
     "idSeance": 92880,
-    "dateHeure": "2023-03-09T17:15:00",
+    "dateHeure": "2023-03-09T17:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -188,9 +188,32 @@
   {
     "idCategorie": 2937,
     "typeEvenement": 13,
+    "idEvenement": 27626,
+    "idSeance": 102293,
+    "dateHeure": "2023-03-09T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 45643,
+        "ordre": 1,
+        "idSeance": 102293,
+        "idCopie": 14053,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2937,
+    "typeEvenement": 13,
     "idEvenement": 27915,
     "idSeance": 96787,
-    "dateHeure": "2023-03-09T19:30:00",
+    "dateHeure": "2023-03-09T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -206,14 +229,39 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Alexis Langlois"
+  },
+  {
+    "idCategorie": 2937,
+    "typeEvenement": 13,
+    "idEvenement": 27630,
+    "idSeance": 100673,
+    "dateHeure": "2023-03-09T20:30:00",
+    "idSalle": [
+      "HO",
+      "Hors les murs"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 50856,
+        "ordre": 1,
+        "idSeance": 100673,
+        "idCopie": 25422,
+        "duree": 105,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Jean-François Rauger"
   },
   {
     "idCategorie": 2937,
     "typeEvenement": 13,
     "idEvenement": 27647,
     "idSeance": 100628,
-    "dateHeure": "2023-03-09T20:00:00",
+    "dateHeure": "2023-03-09T21:00:00",
     "idSalle": [
       "HO",
       "Hors les murs"
@@ -230,30 +278,6 @@
         "format": "DCP"
       }
     ]
-  },
-  {
-    "idCategorie": 2937,
-    "typeEvenement": 13,
-    "idEvenement": 27626,
-    "idSeance": 92378,
-    "dateHeure": "2023-03-09T21:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 45643,
-        "ordre": 1,
-        "idSeance": 92378,
-        "idCopie": 14053,
-        "duree": 89,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance présentée par Jean-François Rauger"
   },
   {
     "idCategorie": 2937,
@@ -367,7 +391,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero"
   },
   {
     "idCategorie": 2937,
@@ -380,6 +405,7 @@
       "Georges Franju"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 154285,
@@ -392,6 +418,24 @@
       }
     ],
     "mention": "Séance suivie d'une discussion avec Nikolaï Izvolov. Accompagnement musical par Gabriel Cazes et Nicolas Giraud"
+  },
+  {
+    "idCategorie": 2987,
+    "typeEvenement": 14,
+    "idEvenement": 27955,
+    "idSeance": 92882,
+    "dateHeure": "2023-03-10T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 60,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
   },
   {
     "idCategorie": 2937,
@@ -422,7 +466,7 @@
     "typeEvenement": 13,
     "idEvenement": 27672,
     "idSeance": 92875,
-    "dateHeure": "2023-03-11T14:00:00",
+    "dateHeure": "2023-03-11T13:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -463,39 +507,6 @@
       }
     ],
     "mention": "Séance présentée par Céline Gailleurd"
-  },
-  {
-    "idCategorie": 2937,
-    "typeEvenement": 13,
-    "idEvenement": 27649,
-    "idSeance": 92871,
-    "dateHeure": "2023-03-11T17:00:00",
-    "idSalle": [
-      "HO",
-      "Hors les murs"
-    ],
-    "dureeSeance": 105,
-    "items": [
-      {
-        "idFilm": 74532,
-        "ordre": 1,
-        "idSeance": 92871,
-        "idCopie": 25463,
-        "duree": 55,
-        "version": "INT. FR.",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154311,
-        "ordre": 2,
-        "idSeance": 92871,
-        "idCopie": 25562,
-        "duree": 16,
-        "version": "INT. FR.",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois"
   },
   {
     "idCategorie": 2937,
@@ -544,6 +555,30 @@
       }
     ],
     "mention": "Séance présentée par Marie-Claude Treilhou"
+  },
+  {
+    "idCategorie": 2937,
+    "typeEvenement": 13,
+    "idEvenement": 27826,
+    "idSeance": 100680,
+    "dateHeure": "2023-03-11T20:30:00",
+    "idSalle": [
+      "HO",
+      "Hors les murs"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 34786,
+        "ordre": 1,
+        "idSeance": 100680,
+        "idCopie": 20137,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Bernard Benoliel"
   },
   {
     "idCategorie": 2937,
@@ -603,6 +638,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 51955,
@@ -615,6 +651,24 @@
       }
     ],
     "mention": "Séance suivie d'une discussion avec Leos Carax"
+  },
+  {
+    "idCategorie": 2987,
+    "typeEvenement": 14,
+    "idEvenement": 27898,
+    "idSeance": 92503,
+    "dateHeure": "2023-03-12T14:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
   },
   {
     "idCategorie": 2937,
@@ -697,18 +751,26 @@
     "mention": "Accompagnement musical par Improvisation Jean-François Zygel Classe"
   },
   {
-    "idCategorie": 2987,
-    "typeEvenement": 14,
-    "idEvenement": 27898,
-    "idSeance": 100574,
-    "dateHeure": "2023-03-12T16:00:00",
+    "idCategorie": 2937,
+    "typeEvenement": 13,
+    "idEvenement": 27648,
+    "idSeance": 92510,
+    "dateHeure": "2023-03-12T15:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "HO",
+      "Hors les murs"
     ],
-    "dureeSeance": 60,
+    "dureeSeance": 135,
     "items": [
-      {}
+      {
+        "idFilm": 49272,
+        "ordre": 1,
+        "idSeance": 92510,
+        "idCopie": 25470,
+        "duree": 100,
+        "version": "",
+        "format": "DCP"
+      }
     ]
   },
   {
@@ -732,7 +794,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Fernando Arrabal et Franck Loiret"
   },
   {
     "idCategorie": 2937,
@@ -760,9 +823,42 @@
   {
     "idCategorie": 2937,
     "typeEvenement": 13,
+    "idEvenement": 27649,
+    "idSeance": 92871,
+    "dateHeure": "2023-03-12T17:30:00",
+    "idSalle": [
+      "HO",
+      "Hors les murs"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 74532,
+        "ordre": 1,
+        "idSeance": 92871,
+        "idCopie": 25463,
+        "duree": 55,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154311,
+        "ordre": 2,
+        "idSeance": 92871,
+        "idCopie": 25562,
+        "duree": 16,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois. Séance présentée par Manon Billaut et Hervé Pichard"
+  },
+  {
+    "idCategorie": 2937,
+    "typeEvenement": 13,
     "idEvenement": 27940,
     "idSeance": 100622,
-    "dateHeure": "2023-03-12T17:30:00",
+    "dateHeure": "2023-03-12T18:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"

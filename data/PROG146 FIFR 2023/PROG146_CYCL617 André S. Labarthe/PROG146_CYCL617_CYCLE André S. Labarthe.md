@@ -17,7 +17,7 @@ Avec Jean-Luc Godard, Fritz Lang.
 Les questions improvisées du « bébé » français, Godard, au « dinosaure » allemand, Lang. Rencontre entre deux âges du cinémas, fascinés l'un par l'autre.  
 Numérisation et restauration par l'INA en 2K à partir du marron 16 mm noir et blanc, et d'un son magnétique séparé.
 
-- di 12 mar 20h00 JE  
+- di 12 mar 20h30 JE  
 - ve 24 mar 20h00 JE
 
 [121606]  
@@ -65,7 +65,8 @@ Avec Samuel Fuller.
 Cinéaste de la violence, Samuel Fuller raconte en vingt-trois chapitres une histoire américaine, avec la sécheresse qui caractérise son cinéma.  
 Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
-- di 12 mar 15h30 JE
+- di 12 mar 15h30 JE  
+Séance présentée par Frédéric Bonnaud
 
 [154274]  
 **Cinéma, Cinémas : Deneuve, revue de détails**  
@@ -89,7 +90,8 @@ Avec Jean-Pierre Melville.
 Portrait en neuf chapitres, qui sont autant de facettes du cinéaste. Les entretiens sont illustrés d'extraits de ses films les plus célèbres.  
 Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
-- di 12 mar 13h30 JE
+- di 12 mar 13h15 JE  
+Séance présentée par Frédéric Bonnaud
 
 [154272]  
 **Franju, l'avion et la DS**  
@@ -124,6 +126,6 @@ Avec Laszlo Szabo, Ágnes Bánfalvy, Peter Bogdanovich, Henry Jaglom.
 Un cinéaste hongrois enquête sur les traces que Welles a laissées à Hollywood, maintenant l'ambiguïté entre le vrai et le faux.  
 Restauration par la Cinémathèque française, en collaboration avec Documentaire sur grand écran et Danielle Labarthe. Travaux de restauration image et son menés au laboratoire Lobster Films à partir du négatif original 16 mm et au Studio L.E. Diapason à partir de la bande magnétique 16 mm. Étalonnage réalisé par François Ede, avec la collaboration du chef opérateur du film, Jacques Audrain.
 
-- je 9 mar 18h30 GF
+- je 9 mar 20h45 GF
 
 Remerciements : Mme Danièle Anezin-Labarthe, Documentaire sur Grand Ecran, INA.

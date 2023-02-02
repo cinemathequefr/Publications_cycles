@@ -10,7 +10,8 @@ Japon / 1992 / 97 min / VOSTF / DCP
 Avec Makiko Kuno, Yutaka Matsushige, Hatsunori Hasegawa.  
 Un ancien lutteur de sumo, devenu veilleur de nuit, est pris de pulsions meurtrières et enchaîne les crimes violents sans réelle motivation. Mais, un soir, une jeune femme est témoin du meurtre d'un de ses collègues.
 
-- ve 10 mar 21h30 JE
+- ve 10 mar 21h30 JE  
+Séance présentée par Clément Rauger et Nanako Tsukidate
 
 ## Carte blanche à Kiyoshi Kurosawa
 
@@ -43,7 +44,8 @@ Japon / 1997 / 111 min / VOSTF / DCP
 Avec Koji Yakusho, Tsuyoshi Ujiki, Anna Nakagawa.  
 Un officier de police enquête sur une série de meurtres. Sur le lieu du dernier crime est arrêté un jeune homme possédant d'étranges pouvoirs.
 
-- sa 11 mar 19h00 HL
+- sa 11 mar 19h00 HL  
+Voir aussi masterclass p. xx
 
 [71777]  
 **Spontaneous Combustion**  
@@ -52,7 +54,7 @@ de Tobe Hooper
 Avec Brad Dourif, Cynthia Bain, Jon Cypher.  
 Sam découvre que ses parents ont été l'objet d'expériences atomiques dans le passé, et qu'il a un pouvoir de pyrokinésie : il peut contrôler le feu et l'électricité. Mais les conséquences sur son corps sont importantes.
 
-- sa 11 mar 16h15 GF  
+- sa 11 mar 16h00 GF  
 Séance présentée par Kiyoshi Kurosawa
 
 ## Rencontres et conférences
@@ -63,6 +65,7 @@ Rencontre animée par Jean-François Rauger
 **Jean-François Rauger** est directeur de la programmation à la Cinémathèque française.  
 Figure décisive du cinéma d'horreur contemporain, au croisement des peurs ancestrales et de celles nées de l'avènement de nouvelles technologies (spectres et _Yokai_ issus des contes traditionnels japonais, serial killers, hommes-cyborgs...), Kiyoshi Kurosawa débute dans la série B et les films d'exploitation avant de gagner une reconnaissance internationale depuis les années 1990, jusqu'à aujourd'hui : _Cure_, _Charisma_, _Kaïro_, _Shokuzai_, _Invasion_, _Les Amants sacrifiés..._ En 2012, la Cinémathèque française lui avait consacré une rétrospective.
 
-- sa 11 mar 20h15 HL
+- sa 11 mar 19h00 HL  
+À la suite de la projection de _Cure_ de Kiyoshi Kurosawa (voir p. xx)
 
 Remerciements : Park Circus, The Jokers Films, Toei Company, Mme Nanako Tsukidate, M. Daichi Yashiki.

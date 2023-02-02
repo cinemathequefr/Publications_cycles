@@ -23,7 +23,8 @@ Avec Alan Bates, Oliver Reed, Glenda Jackson.
 Dans les années 1920, Gerard et Rupert, deux industriels miniers de la bourgeoisie britannique, tombent amoureux de deux sœurs, émancipées et indépendantes. Mais ce quatuor se retrouve bientôt en pleine confusion sentimentale.  
 Restauration d'après la copie et le master son d'origine conservés par MGM, avec le soutien de Simon Hessel. Étalonnage supervisé par le directeur de la photographie Billy Williams, d'après la copie originale Technicolor déposée par ses soins au BFI.
 
-- me 8 mar 20h30 GF
+- me 8 mar 21h00 GF  
+Séance présentée par Yann Gonzalez
 
 [41617]  
 **Naked**  

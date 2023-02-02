@@ -36,7 +36,7 @@
   * Ne pas avaler  
   * Vie privée d'Henry VIII (La)
 
-## Joel Coen, parrain du festival (11)
+## Joel Coen, parrain du festival (12)
 
   * A Serious Man  
   * Ballade de Buster Scruggs (La)  
@@ -48,7 +48,8 @@
   * No Country for Old Men  
   * Rébellion  
   * Sang pour sang  
-  * Tragedy of Macbeth (The)
+  * Tragedy of Macbeth (The)  
+  * Vitelloni (Les)
 
 ## Kiyoshi Kurosawa, invité d'honneur (5)
 
@@ -73,7 +74,7 @@
   * Retour (Le)  
   * Thaïs
 
-## Restaurations et incunables (38)
+## Restaurations et incunables (39)
 
   * À bout de course  
   * Boy Meets Girl  
@@ -85,6 +86,7 @@
   * Deux amies  
   * Diable probablement (Le)  
   * Dieu noir et le diable blond (Le)  
+  * Et la lumière fut  
   * Fin d'été  
   * Folies de femmes  
   * Histoire de la guerre civile  

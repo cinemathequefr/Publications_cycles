@@ -34,7 +34,8 @@ Algérie / 1975 / 177 min / VOSTF / DCP
 Avec Yorgo Voyagis, Mohammed Lakhdar-Hamina, Larbi Zekkal.  
 Minutieuse chronique de l'évolution du mouvement national algérien depuis les années 1930 jusqu'au déclenchement de la révolution du 1<sup>er</sup> novembre 1954.
 
-- di 12 mar 17h00 HO
+- di 12 mar 17h00 HO  
+Séance présentée par Gérard Vaugeois
 
 [59631]  
 **Le Collier perdu de la colombe**  
@@ -55,7 +56,8 @@ Avec Abdellatif Nour, Abbas Fassi-Fihri, Hamid Zoughi.
 Une équipe de cinéastes interroge de jeunes Casablancais sur leurs attentes et leur rapport au cinéma marocain.  
 Restauration en 2019 par la Filmoteca de Catalunya et l'Observatoire (Casablanca).
 
-- ve 10 mar 19h30 JE
+- ve 10 mar 19h30 JE  
+Séance présentée par Gérard Vaugeois
 
 [64888]  
 **Une porte sur le ciel**  
@@ -66,6 +68,7 @@ Avec Zakia Tahiri, Châaibia Adraoui,Eva Saint-Paul, Ahmed Bouanani.
 Revenue à Fès, capitale historique et spirituelle du Maroc, pour le deuil de son père, une jeune Franco-Marocaine y fonde la « zaouia des femmes », à la fois sanctuaire religieux, lieu de pèlerinage et refuge pour femmes en détresse.  
 Restauration par Transnational Moroccan Cinema Project from the University of Exeter (UK), le Centre du Cinéma Marocain, et Dragon DI (UK).
 
-- me 8 mar 16h30 JE
+- me 8 mar 16h30 JE  
+Séance présentée par Gérard Vaugeois
 
 Remerciements : Le Maghreb des films, Gérard Vaugeois.

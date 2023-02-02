@@ -7,7 +7,7 @@
         {
           "idSeance": 100645,
           "ordre": 1,
-          "dateHeure": "2023-03-11T18:45:00",
+          "dateHeure": "2023-03-11T18:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -40,13 +40,15 @@
         {
           "idSeance": 100642,
           "ordre": 1,
-          "dateHeure": "2023-03-10T14:30:00",
+          "dateHeure": "2023-03-10T14:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 165,
           "mention": "Séance présentée par Bruno Delbonnel",
+          "typeAssoc": 117,
+          "idSeanceAssoc": 100658,
           "idCategorie": 2994,
           "idEvenement": 27948,
           "typeEvenement": 13,
@@ -80,12 +82,14 @@
       "items": [
         {
           "idSeance": 100658,
-          "dateHeure": "2023-03-10T16:45:00",
+          "dateHeure": "2023-03-10T17:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 60,
+          "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 100642,
           "idCategorie": 2995,
           "idEvenement": 27953,
           "typeEvenement": 14,

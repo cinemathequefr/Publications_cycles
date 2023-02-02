@@ -86,7 +86,7 @@ Avec Tina Aumont, Michel Auder, Sylvina Boissonnas.
 Le film débute sur des plans à Venise, des passants saisis depuis une chambre d'hôtel, avec Tina Aumont. Il se poursuit au Maroc pendant le tournage du _Lit de la vierge_, dans une chambre d'hôtel, les gens discutent, jouent de la guitare, fument.  
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir d'une copie 16 mm conservée dans ses collections.
 
-- me 8 mar 19h15 HO  
+- je 9 mar 19h30 HO  
 Séance présentée par Philippe Azoury  
 Film précédé de _Pardo Home Movie : Tina Aumont_ de Frédéric Pardo, _Pardo New York_ de Frédéric Pardo
 
@@ -98,7 +98,7 @@ Avec Tina Aumont.
 Montage de found footage de fiction en italien et de plans de Tina Aumont et Pardo dans le jardin du Luxembourg et à la campagne dans un cimetière. Puis plan d'un déjeuner dans le jardin d'une maison de campagne, on y voit Tina et le père de F. Pardo.  
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservée dans les collections.
 
-- me 8 mar 19h15 HO  
+- je 9 mar 19h30 HO  
 Séance présentée par Philippe Azoury  
 Film suivi de _Pardo New York_ de Frédéric Pardo, _Padro Home Movie Marrakech_ de Frédéric Pardo
 
@@ -110,7 +110,7 @@ Avec Tina Aumont, Nico.
 Jackie Raynal et Tina Aumont dans Central Park. Vues depuis un appartement, depuis une voiture, Nico à la fenêtre au-dessus de Tina Aumont. Jackie Raynal, enceinte, s'habille dans un appartement, Tina lit allongée. Promenades dans les rues de NYC à la tombée du jour.  
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservée dans les collections.
 
-- me 8 mar 19h15 HO  
+- je 9 mar 19h30 HO  
 Séance présentée par Philippe Azoury  
 Film précédé de _Pardo Home Movie : Tina Aumont_ de Frédéric Pardo et suivi de de _Padro Home Movie Marrakech_ de Frédéric Pardo
 

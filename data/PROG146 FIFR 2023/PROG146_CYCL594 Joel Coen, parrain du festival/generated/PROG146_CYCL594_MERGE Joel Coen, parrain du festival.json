@@ -43,7 +43,7 @@
         {
           "idSeance": 100644,
           "ordre": 1,
-          "dateHeure": "2023-03-09T16:45:00",
+          "dateHeure": "2023-03-09T17:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -116,7 +116,7 @@
         {
           "idSeance": 100635,
           "ordre": 1,
-          "dateHeure": "2023-03-12T16:15:00",
+          "dateHeure": "2023-03-12T16:30:00",
           "idSalle": [
             "HO",
             "Hors les murs"
@@ -152,7 +152,7 @@
         {
           "idSeance": 100621,
           "ordre": 1,
-          "dateHeure": "2023-03-08T16:00:00",
+          "dateHeure": "2023-03-08T16:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -336,6 +336,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 2539,
           "idEvenement": 27756,
           "typeEvenement": 13,
@@ -363,7 +364,7 @@
         {
           "idSeance": 100676,
           "ordre": 1,
-          "dateHeure": "2023-03-12T19:00:00",
+          "dateHeure": "2023-03-12T22:00:00",
           "idSalle": [
             "HO",
             "Hors les murs"
@@ -396,12 +397,13 @@
         {
           "idSeance": 92450,
           "ordre": 1,
-          "dateHeure": "2023-03-10T19:30:00",
+          "dateHeure": "2023-03-10T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 150,
+          "typeAssoc": 118,
           "idCategorie": 2539,
           "idEvenement": 27757,
           "typeEvenement": 13,
@@ -429,7 +431,7 @@
         {
           "idSeance": 100677,
           "ordre": 1,
-          "dateHeure": "2023-03-11T20:30:00",
+          "dateHeure": "2023-03-11T22:00:00",
           "idSalle": [
             "HO",
             "Hors les murs"
@@ -505,6 +507,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 2539,
           "idEvenement": 27760,
           "typeEvenement": 13,
@@ -606,6 +609,40 @@
               "texte": "Japon, 1725, sous l'ère d'Edo. Un chef de fief décide de marier sa femme, qu'il vient de répudier, au fils du samouraï Isaburo Sasahara."
             }
           ]
+        },
+        {
+          "idSeance": 102292,
+          "ordre": 1,
+          "dateHeure": "2023-03-11T15:45:00",
+          "idSalle": [
+            "HO",
+            "Hors les murs"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 2966,
+          "idEvenement": 27764,
+          "typeEvenement": 13,
+          "idFilm": 43451,
+          "art": "Les",
+          "titre": "Vitelloni",
+          "realisateurs": "Federico Fellini",
+          "annee": 1953,
+          "pays": "Italie-France",
+          "duree": 103,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Franco Interlenghi",
+            "Franco Fabrizi",
+            "Alberto Sordi",
+            "Leopoldo Trieste"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La fin de l'été, dans les rues désertées de Pescara, petite station balnéaire italienne. Cinq amis trentenaires, surnommés les _« vitelloni »_, se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte."
+            }
+          ]
         }
       ],
       "textes": []
@@ -615,13 +652,15 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 100569,
-          "dateHeure": "2023-03-11T16:15:00",
+          "idSeance": 92486,
+          "ordre": 2,
+          "dateHeure": "2023-03-11T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 75,
+          "typeAssoc": 118,
           "idCategorie": 2984,
           "idEvenement": 27895,
           "typeEvenement": 14,
@@ -666,13 +705,15 @@
           "mentionAnimation": "Rencontre animée par Pauline de Raymond"
         },
         {
-          "idSeance": 100567,
-          "dateHeure": "2023-03-09T21:00:00",
+          "idSeance": 92450,
+          "ordre": 2,
+          "dateHeure": "2023-03-10T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 75,
+          "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 2984,
           "idEvenement": 27893,
           "typeEvenement": 14,
@@ -711,13 +752,15 @@
           "mentionAnimation": "Rencontre animée par Bernard Benoliel"
         },
         {
-          "idSeance": 100568,
-          "dateHeure": "2023-03-10T21:15:00",
+          "idSeance": 92413,
+          "ordre": 2,
+          "dateHeure": "2023-03-09T19:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 75,
+          "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 2984,
           "idEvenement": 27894,
           "typeEvenement": 14,

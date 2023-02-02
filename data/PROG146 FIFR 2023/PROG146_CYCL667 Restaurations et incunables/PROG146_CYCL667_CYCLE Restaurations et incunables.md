@@ -10,7 +10,9 @@ de Sidney Lumet
 Avec River Phoenix, Judd Hirsch, Christine Lahti, Martha Plimpton.  
 Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie.
 
-- ve 10 mar 14h00 JE
+- ve 10 mar 14h00 JE  
+- sa 11 mar 20h30 HO  
+Séance suivie d'une discussion avec Bernard Benoliel
 
 [53030]  
 **Boy Meets Girl**  
@@ -56,6 +58,8 @@ Avec Jean-Pierre Cassel, Claude Brasseur, Claude Rich, Jean Carmet.
 En 1940, prisonniers de guerre dans un stalag allemand, le Caporal et Peter tentent, de façon aussi répétée qu'infructueuse, de s'évader.  
 Restauration et numérisation en 4K par StudioCanal en 2021 chez Hiventy, avec la participation du CNC. Négatif 35 mm original scanné en 4K par immersion car présentant de profondes rayures. Les multiples altérations de la pellicule ont été atténuées ou retirées.
 
+- je 9 mar 20h30 HO  
+Séance présentée par Jean-François Rauger  
 - di 12 mar 14h00 HO
 
 [49089]  
@@ -67,7 +71,7 @@ Avec Sacha Guitry, Lana Marconi, Jacques Baumer, Pauline Carton.
 Biographie du comédien de théâtre Lucien Guitry, joué par son fils réalisateur Sacha, qui propose une réflexion poétique sur l'amour des deux hommes pour l'art.  
 Présentation de TF1 Studio. Nouvelle version restaurée en 4K par TF1 Studio, avec le soutien du CNC, à partir du négatif image nitrate original, d'un marron nitrate et d'un négatif son nitrate. Travaux numériques et photochimiques réalisés par le laboratoire Hiventy en 2022.
 
-- me 8 mar 18h30 GF
+- me 8 mar 19h00 GF
 
 [45643]  
 **Danse macabre**  
@@ -79,8 +83,7 @@ Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.
 Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
 Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
 
-- je 9 mar 21h00 GF  
-Séance présentée par Jean-François Rauger
+- je 9 mar 18h30 GF
 
 [133965]  
 **Deux amies**  
@@ -90,6 +93,7 @@ Publicité de la crème Simon.
 Restauration numérique effectuée par le CNC à partir d'une copie unique originale nitrate.
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff et suivi de de _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [47122]  
@@ -100,7 +104,7 @@ Avec Antoine Monnier, Tina Irissari, Henri de Maublanc.
 Quatre adolescents en révolte forment un petit groupe écologiste qui se préoccupe de l'avenir du monde. Michel, militant, cherche à lutter avec ses modestes moyens, tandis que Charles, dégouté par la société, refuse l'engagement.  
 Restauration en 4K par Gaumont au laboratoire Éclair.
 
-- je 9 mar 17h15 HL
+- je 9 mar 17h00 HL
 
 [43206]  
 **Le Dieu noir et le diable blond**  
@@ -112,6 +116,16 @@ Un couple de paysans brésiliens, touché par la misère, est prêt à se compro
 Restauration 4K conduite par Metrópoles, Lino Meireles et Paloma Cinematográfica à partir du négatif 35 mm original conservé à la Cinemateca brasileira. Travaux réalisés par Estúdio Colors et Estúdio JLS, les cinéastes Luís Abramo et Rogério Moraes, sous la direction de Rodrigo Mercês. Ressortie en salles au troisième trimestre 2023 par Capricci.
 
 - sa 11 mar 21h00 GF
+
+[49272]  
+**Et la lumière fut**  
+d'Otar Iosseliani  
+France-Allemagne-Italie / 1989 / 100 min / DCP  
+Avec Sigalon Sagna, Saly Badji, Binta Cissé, Marie-Christine Dième.  
+En Afrique, dans un village au cœur de la forêt mystérieuse, un peuple insouciant vit au rythme de la nature et des coutumes ancestrales. Jusqu'au jour où l'arrivée de bûcherons bouleverse l'existence des habitants.  
+Restauration 4K en 2021 par Pastorale production et la Cinémathèque française en collaboration avec L'Institut audiovisuel de Monaco. Travaux réalisés à partir des négatifs originaux au laboratoire Hiventy, supervisés par Otar Iosseliani et Martine Marignac.
+
+- di 12 mar 15h00 HO
 
 [64216]  
 **Fin d'été**  
@@ -143,7 +157,8 @@ En pleine guerre civile russe, Vertov filme des figures emblématiques du gouver
 Restauration par Nikolai Izvolov à partir d'une description du film faite par Grigory Boltyansky conservée à l'Archive of Literature and Art in Moscow, et d'éléments du matériel d'origine 35 mm conservés dans différentes archives.
 
 - ve 10 mar 18h00 GF  
-Séance suivie d'une discussion avec Nikolaï Izvolov. Accompagnement musical par Gabriel Cazes et Nicolas Giraud
+Séance suivie d'une discussion avec Nikolaï Izvolov. Accompagnement musical par Gabriel Cazes et Nicolas Giraud  
+Voir aussi dialogue p. xx
 
 [130691]  
 **Histoire sans paroles**  
@@ -152,6 +167,7 @@ France / 1934 / 10 min / DCP
 Le Japon, représenté par un soldat, s'approche d'un Chinois et lui coupe un pan de sa tunique symbolisant la Mandchourie. Le Chinois court se plaindre à la Société des nations. Mais celle-ci n'est qu'un décor en carton-pâte.
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker et suivi de de _L'Idée_ de Berthold Bartosch
 
 [154262]  
@@ -162,6 +178,7 @@ Publicité de l'huile d'arachide de Rufisque conditionnée à la grande huilerie
 Restauration numérique effectuée par le CNC à partir des négatifs nitrate originaux, image et son conservés et mis à disposition par le BFI.
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff et suivi de de _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [46609]  
@@ -172,6 +189,7 @@ Sous un ciel étoilé, un homme pense. La silhouette lumineuse d'une femme nue a
 Restauration numérique image et son effectuée par le CNC, la Cinémathèque suisse et les laboratoires Hiventy, à partir d'une copie originale nitrate conservée et mis à disposition par le BFI, d'un scan réalisé par la Cinémathèque suisse d'une copie originale nitrate issue de leur collection et complétée par un contretype safety 35mm, appartenant à l'AFCA, ayant droit du film et conservé par le CNC.
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch
 
 [56580]  
@@ -204,7 +222,7 @@ de Julie Bertuccelli
 France / 2022 / 99 min / DCP  
 Portrait de Jane Campion, réalisatrice plasticienne et iconoclaste, subtile portraitiste de l'âme humaine et des femmes, qui a su en quarante ans se tailler une place unique dans le panthéon très masculin du cinéma.
 
-- di 12 mar 17h30 JE  
+- di 12 mar 18h00 JE  
 Séance présentée par Julie Bertuccelli
 
 [51463]  
@@ -239,7 +257,8 @@ La population parisienne est frappée par un virus tuant ceux qui font l'amour s
 Restauration supervisée par Caroline Champetier, par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, la Cinémathèque de Toulouse, l'Institut audiovisuel de Monaco ainsi que le soutien du CNC et de la Maison CHANEL. Numérisation en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022. Restauration numérique réalisée par les laboratoires Éclair Classics et Amazing Digital Studios. Étalonnage réalisé par Frédéric Savoir chez Amazing Digital Studios.
 
 - di 12 mar 14h00 HL  
-Séance suivie d'une discussion avec Leos Carax
+Séance suivie d'une discussion avec Leos Carax  
+Voir aussi dialogue p. xx
 
 [102657]  
 **Ménilmontant**  
@@ -261,7 +280,7 @@ Avec Clémentine Amouroux, Catherine Rétoré, Franziskus Abgottspon.
 Deux jeunes auto-stoppeuses issues de milieux très différents partent sur les routes de Suisse, pour échapper à leurs vies insatisfaisantes. Elles s'emparent du pistolet d'un officier, et sont bientôt recherchées par la police.  
 Restauration par Florian Leupin pour filmo-Verein CH. Film, en collaboration avec DNA Films SA, l'Association Alain Tanner et la Cinémathèque suisse, aux laboratoires Color Grade, Masé Studios et Cinegrell.
 
-- je 9 mar 20h00 HO
+- je 9 mar 21h00 HO
 
 [128743]  
 **Le Miroir de la sorcière**  
@@ -282,8 +301,8 @@ Avec Pierre Larquey, Léon Bernard, Jean Dax.
 Le forgeron Bernard Jeansoulet fait vivre, grâce à son travail, son frère Louis et sa mère. Louis trouve un emploi à Paris, où il se laisse griser par l'atmosphère capiteuse, et se retrouve en prison. Désemparé, Bernard décide de quitter le pays.  
 Restauration en 2021 par la Fondation Jérôme Seydoux-Pathé, avec le soutien du CNC.
 
-- sa 11 mar 17h00 HO  
-Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois  
+- di 12 mar 17h30 HO  
+Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois. Séance présentée par Manon Billaut et Hervé Pichard  
 Film suivi de _Vues au pochoir : villes d'Europe années 1920 en Pathécolor_ d'Anonyme
 
 [133967]  
@@ -293,6 +312,7 @@ France / 1936 / 1 min / DCP
 Publicité de la crème Simon.
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film suivi d'_Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [36243]  
@@ -361,7 +381,7 @@ Avec Jean-Louis Barrault, Teddy Bilis, Gaston Modot, Michel Vitold.
 L'avocat du docteur Cordelier est étonné de découvrir que son client lègue ses biens à un criminel sadique, Opale.  
 Restauration 4K réalisée en 2022 par l'équipe de STUDIOCANAL avec Sophie Boyer et Jean-Pierre Boiget au laboratoire Hiventy, avec le soutien du CNC. Négatif original 35 mm scanné par immersion, compte tenu des nombreuses altérations présentes sur la pellicule, avec plus de 200 heures de retouche numérique nécessaires pour effacer les rayures, éclats de gélatine et autres traces d'usure. Son également restauré.
 
-- sa 11 mar 14h00 GF
+- sa 11 mar 13h45 GF
 
 [58128]  
 **Tokyo Pop**  
@@ -370,7 +390,8 @@ de Fran Rubel Kuzui
 Avec Carrie Hamilton, Diamond Yukai, Taiji Tonoyama.  
 Chanteuse désabusée, Wendy décide de tout plaquer. Elle part à Tokyo, dans l'espoir de réaliser son rêve de rock star.
 
-- je 9 mar 19h30 JE
+- je 9 mar 20h30 JE  
+Séance présentée par Alexis Langlois
 
 [46339]  
 **Une nuit sur le mont Chauve**  
@@ -380,6 +401,7 @@ Au temps des tsars, magiciennes et enchanteurs se réunissent pendant le solstic
 Restauration numérique image et son effectuée par le CNC à partir d'une copie originale nitrate conservées et mis à disposition par le BFI et complétée par une copie originale nitrate conservée par le CNC
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff et suivi de de _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [85386]  
@@ -401,7 +423,8 @@ Avec Fernando Arrabal, Mohamed Bellasoued, Mehdi Chaouch, Anouk Ferjac.
 Dans l'Espagne franquiste, le jeune Fando est pris de visions cruelles, violentes et sensuelles quand il découvre que sa mère, fervente catholique, a dénoncé son père aux autorités en l'accusant d'athéisme et d'antifascisme.  
 Restauration en 4K en 2022 par la Cinémathèque de Toulouse en collaboration avec Fernando Arrabal, à partir du négatif 35 mm d'origine, et d'un élément interpositif 35 mm. Travaux de restauration du son menés par le studio L.E. Diapason. Avec le soutien du Ministère des Affaires Culturelles tunisien et de l'Association Ciné-Sud Patrimoine.
 
-- di 12 mar 16h45 GF
+- di 12 mar 16h45 GF  
+Séance présentée par Fernando Arrabal et Franck Loiret
 
 [154311]  
 **Vues au pochoir : villes d'Europe années 1920 en Pathécolor**  
@@ -409,17 +432,24 @@ d'Anonyme
 France / 1930 / 16 min / INT. FR. / DCP  
 La Cinémathèque française a mené en 2022 la restauration de 7 vues coloriées au pochoir selon le procédé Pathécolor, à partir de copies nitrate conservées dans ses collections. Comme des cartes postales animées, les films montrent plusieurs paysages pittoresques aux couleurs magnifiques, invitant au voyage dans différents sites d'Europe : Clovelly, Copenhague, Alicante, Elche, Grenade et la Creuse. Les travaux numériques 4K ont été réalisés au laboratoire Hiventy en s'attachant à restituer fidèlement les couleurs d'origine.
 
-- sa 11 mar 17h00 HO  
-Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois  
+- di 12 mar 17h30 HO  
+Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois. Séance présentée par Manon Billaut et Hervé Pichard  
 Film précédé de _Le Nabab_ d'Albert Capellani
 
 ## Rencontres et conférences
+
+**Dialogue avec Nicolaî Isvolov**  
+Rencontre animée par Bernard Eisenschitz
+
+- ve 10 mar 18h00 GF  
+À la suite de la projection de _Histoire de la guerre civile_ de Dziga Vertov (voir p. xx)
 
 **Dialogue avec Leos Carax**  
 Rencontre animée par Frédéric Bonnaud  
 **Le Festival** **_Toute la mémoire du monde_** **présentera deux restaurations de** **_Boy Meets Girl_** **(1984) et de** **_Mauvais sang_** **(1986), supervisées par Caroline Champetier, directrice de la photographie.** **En présence de Leos Carax.** Films emblématiques et punk de la fin des années 1980, _Boy Meets Girl_ et _Mauvais Sang_ lancent la trajectoire de Carax, une filmographie qui sera traversée par ses visions de l'amour fou et tragique, ainsi que par une transfiguration de la vie diurne et nocturne dans les grandes villes, de Paris à Tokyo : _Les Amants du Pont-Neuf_, _Tokyo !_, _Pola X_. En 2012 (_Holy Motors_) et en 2021 (_Annette_), il signe deux autres films hors des sentiers battus, et qui apparaissent comme les manifestes d'une croyance indéfectible dans les puissances du cinéma.  
 **Frédéric Bonnaud** est directeur général de la Cinémathèque française.
 
-- di 12 mar 16h00 HL
+- di 12 mar 14h00 HL  
+À la suite de la projection de _Mauvais sang_ de Leos Carax (voir p. xx)
 
 Remerciements : Alameda Films, Archives françaises du film, Robert Byrne, Capricci Films, Carlotta Films, Cinémathèque de Toulouse, Jenny Delcambre, Fondation Jérôme Seydoux-Pathé, Gaumont, George Eastman House, Jupiter Films, KinoLorber, La Traverse, Les Acacias, Les Films du Losange, Les Films du poisson, Murnau Stiftung, Park Circus, Pathé Distribution, Tamasa Distribution, TF1 D.A., Théo Films, UCLA Film & Television Archive, Warner Bros Picture France
