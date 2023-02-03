@@ -66,10 +66,10 @@
   * Comment s'en sortir sans sortir  
   * Crossroads  
   * Damnation de Caïn (La)  
+  * Home Movie Marrakech  
+  * Home Movie : Tina Aumont  
   * Mickey Mouse au Vietnam  
   * Montagne infidèle (La)  
-  * Padro Home Movie Marrakech  
-  * Pardo Home Movie : Tina Aumont  
   * Pardo New York  
   * Retour (Le)  
   * Thaïs
@@ -85,7 +85,7 @@
   * Danse macabre  
   * Deux amies  
   * Diable probablement (Le)  
-  * Dieu noir et le diable blond (Le)  
+  * Dieu noir et le Diable blond (Le)  
   * Et la lumière fut  
   * Fin d'été  
   * Folies de femmes  

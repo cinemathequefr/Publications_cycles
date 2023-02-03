@@ -12,7 +12,7 @@ Au lendemain de la signature du pacte germano-soviétique de 1939, Winston Churc
 
 Bernard Benoliel
 
-- me 8 mar 17h45 HO
+- me 8 mar 13h30 HO
 
 [140529]  
 **La Ballade de Buster Scruggs**  

@@ -57,6 +57,30 @@ Restauration 4K en 2023 à partir d'une copie nitrate teintée par la Cinémath�
 Accompagnement musical par Adrien Leconte et Loïc Vergnaux. Séance présentée par Dominique Païni  
 Film suivi de _Thaïs_ d'Anton Giulio Bragaglia
 
+[154284]  
+**Home Movie Marrakech**  
+de Frédéric Pardo  
+France / 1968 / 17 min / DCP  
+Avec Tina Aumont, Michel Auder, Sylvina Boissonnas.  
+Le film débute sur des plans à Venise, des passants saisis depuis une chambre d'hôtel, avec Tina Aumont. Il se poursuit au Maroc pendant le tournage du _Lit de la vierge_, dans une chambre d'hôtel, les gens discutent, jouent de la guitare, fument.  
+Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir d'une copie 16 mm conservée dans ses collections.
+
+- je 9 mar 19h30 HO  
+Séance présentée par Philippe Azoury  
+Film précédé de _Home Movie : Tina Aumont_ de Frédéric Pardo, _Pardo New York_ de Frédéric Pardo
+
+[154288]  
+**Home Movie : Tina Aumont**  
+de Frédéric Pardo  
+France / 1968 / 9 min / DCP  
+Avec Tina Aumont.  
+Montage de found footage de fiction en italien et de plans de Tina Aumont et Pardo dans le jardin du Luxembourg et à la campagne dans un cimetière. Puis plan d'un déjeuner dans le jardin d'une maison de campagne, on y voit Tina et le père de F. Pardo.  
+Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservée dans les collections.
+
+- je 9 mar 19h30 HO  
+Séance présentée par Philippe Azoury  
+Film suivi de _Pardo New York_ de Frédéric Pardo, _Home Movie Marrakech_ de Frédéric Pardo
+
 [139952]  
 **Mickey Mouse au Vietnam**  
 **(Mickey Mouse in Vietnam)**  
@@ -78,30 +102,6 @@ Restauration 4K à partir d'une copie teintée 28 mm Pathé-KOK retrouvée à la
 Accompagnement musical par Improvisation Jean-François Zygel Classe  
 Film suivi d'_Artères de France_ de Jean Epstein, René Lucot
 
-[154284]  
-**Padro Home Movie Marrakech**  
-de Frédéric Pardo  
-France / 1968 / 17 min / DCP  
-Avec Tina Aumont, Michel Auder, Sylvina Boissonnas.  
-Le film débute sur des plans à Venise, des passants saisis depuis une chambre d'hôtel, avec Tina Aumont. Il se poursuit au Maroc pendant le tournage du _Lit de la vierge_, dans une chambre d'hôtel, les gens discutent, jouent de la guitare, fument.  
-Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir d'une copie 16 mm conservée dans ses collections.
-
-- je 9 mar 19h30 HO  
-Séance présentée par Philippe Azoury  
-Film précédé de _Pardo Home Movie : Tina Aumont_ de Frédéric Pardo, _Pardo New York_ de Frédéric Pardo
-
-[154288]  
-**Pardo Home Movie : Tina Aumont**  
-de Frédéric Pardo  
-France / 1968 / 9 min / DCP  
-Avec Tina Aumont.  
-Montage de found footage de fiction en italien et de plans de Tina Aumont et Pardo dans le jardin du Luxembourg et à la campagne dans un cimetière. Puis plan d'un déjeuner dans le jardin d'une maison de campagne, on y voit Tina et le père de F. Pardo.  
-Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservée dans les collections.
-
-- je 9 mar 19h30 HO  
-Séance présentée par Philippe Azoury  
-Film suivi de _Pardo New York_ de Frédéric Pardo, _Padro Home Movie Marrakech_ de Frédéric Pardo
-
 [154289]  
 **Pardo New York**  
 de Frédéric Pardo  
@@ -112,7 +112,7 @@ Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à p
 
 - je 9 mar 19h30 HO  
 Séance présentée par Philippe Azoury  
-Film précédé de _Pardo Home Movie : Tina Aumont_ de Frédéric Pardo et suivi de de _Padro Home Movie Marrakech_ de Frédéric Pardo
+Film précédé de _Home Movie : Tina Aumont_ de Frédéric Pardo et suivi de de _Home Movie Marrakech_ de Frédéric Pardo
 
 [47350]  
 **Le Retour**  

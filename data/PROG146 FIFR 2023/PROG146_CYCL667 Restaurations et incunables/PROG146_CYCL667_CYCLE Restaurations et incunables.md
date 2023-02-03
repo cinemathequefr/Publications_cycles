@@ -107,7 +107,7 @@ Restauration en 4K par Gaumont au laboratoire Éclair.
 - je 9 mar 17h00 HL
 
 [43206]  
-**Le Dieu noir et le diable blond**  
+**Le Dieu noir et le Diable blond**  
 **(Deus e o diablo na terra do sol)**  
 de Glauber Rocha  
 Brésil / 1963 / 123 min / VOSTF / DCP  
@@ -143,7 +143,7 @@ Restauration pour la Traverse par Cosmodigital et L.E. Diapason, avec le soutien
 d'Erich von Stroheim  
 États-Unis / 1921 / 144 min / INT. FR. / DCP  
 Avec Erich von Stroheim, Maude George, Mae Busch.  
-Aidé de ses deux complices féminines, Karazim, faux arisctocrate russe, s'installe à Monte-Carlo pour escroquer les casinos avec de faux billets, et tente de séduire la femme de l'ambassadeur des USA.  
+Aidé de ses deux complices féminines, Karamzin, faux aristocrate russe, s'installe à Monte-Carlo pour escroquer les casinos avec de faux billets, et tente de séduire la femme de l'ambassadeur des USA.  
 Restauration par le San Francisco Silent Film Festival, à partir d'une copie nitrate 35 mm de la Cineteca Italiana de Milan, et d'une copie 35 mm du Museum of Modern Art de New York. Teintages et virages réalisés selon les conventions de colorisation d'Universal de l'époque. Pour réaliser les effets colorisés à la main, les équipes se sont référé à des revues contemporaines et à un article de presse spécialisée écrit par le coloriste d'origine, Gustav Brock.
 
 - ve 10 mar 20h30 HO  
@@ -153,7 +153,7 @@ Séance présentée par Stéphane Goudet
 **Histoire de la guerre civile**  
 de Dziga Vertov  
 Russie / 1921 / 94 min / INT. FR. / DCP  
-En pleine guerre civile russe, Vertov filme des figures emblématiques du gouvernement et de l'Armée Rouge, ainsi que la violence et le chaos qui règnent dans le pays, si bien que son documentaire ne sortira jamais officiellement. Disparu pendant un siècle, projeté deux fois seulement, le film a bénéficié d'une restauration inédite.  
+En pleine guerre civile russe, Vertov filme des figures emblématiques du gouvernement et de l'Armée Rouge, ainsi que la violence et le chaos qui règnent dans le pays.  
 Restauration par Nikolai Izvolov à partir d'une description du film faite par Grigory Boltyansky conservée à l'Archive of Literature and Art in Moscow, et d'éléments du matériel d'origine 35 mm conservés dans différentes archives.
 
 - ve 10 mar 18h00 GF  
@@ -286,7 +286,7 @@ Restauration par Florian Leupin pour filmo-Verein CH. Film, en collaboration ave
 **Le Miroir de la sorcière**  
 **(El Espejo de la bruja)**  
 de Chano Urueta  
-Mexique / 1962 / 75 min / VOSTF / DCP  
+Mexique / 1960 / 75 min / VOSTF / DCP  
 Avec Rosita Arenas, Armando Calvo, Isabela Corona, Dina De Marco, Carlos Nieto.  
 Sara est employée domestique chez un docteur fou, enclin au féminicide. Elle est aussi une sorcière, qui communique avec des esprits tout-puissants et rêve de venger la mort de sa filleule, l'ancienne femme de son employeur.
 

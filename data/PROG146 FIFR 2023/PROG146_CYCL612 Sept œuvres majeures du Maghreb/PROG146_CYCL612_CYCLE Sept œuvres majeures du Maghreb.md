@@ -8,7 +8,7 @@
 de Nacer Khemir  
 France-Allemagne-Iran-Tunisie-Grande-Bretagne / 2003 / 100 min / VOSTF / DCP  
 Avec Parviz Shahinkhou, Maryam Hamid, Golshifteh Farahani.  
-Perdus dans un océan de sable cheminent Ishtar, une petite fille pleine d'entrain, et son grand-père Bab Aziz, un derviche aveugle. Elle le guide vers la grande réunion des derviches qui a lieu tous les trente ans, mais pour trouver cet endroit secret, il faut « écouter le silence infini du désert avec son cœur ».  
+Perdus dans un océan de sable, la petite Ishtar et son grand-père Bab' Aziz, un derviche aveugle, cheminent vers la réunion des derviches qui a lieu tous les 30 ans. Mais pour trouver cet endroit secret, il faut « écouter le silence infini du désert avec son cœur ».  
 Restauration par Trigon Film (Suisse).
 
 - sa 11 mar 17h00 HO  
@@ -16,7 +16,7 @@ Séance présentée par Nacer Khemir
 
 [55569]  
 **Les Baliseurs du désert**  
-**(El Haimoune)**  
+**(Al- Haimoun)**  
 de Nacer Khemir  
 Tunisie-France / 1985 / 95 min / VOSTF / DCP  
 Avec Hedi Daoud, Sonia Ichti, Nacer Khemir.  
@@ -62,7 +62,7 @@ Séance présentée par Gérard Vaugeois
 [64888]  
 **Une porte sur le ciel**  
 **(Bab al sama maftuh)**  
-de Farida Ben Lyazid  
+de Farida Benlyazid  
 Maroc / 1988 / 100 min / VOSTF / DCP  
 Avec Zakia Tahiri, Châaibia Adraoui,Eva Saint-Paul, Ahmed Bouanani.  
 Revenue à Fès, capitale historique et spirituelle du Maroc, pour le deuil de son père, une jeune Franco-Marocaine y fonde la « zaouia des femmes », à la fois sanctuaire religieux, lieu de pèlerinage et refuge pour femmes en détresse.  

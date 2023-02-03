@@ -4,6 +4,7 @@
 
 [154257]  
 **Land of Nairi**  
+**(Yerkir Nairi)**  
 de Hamo Bek-Nazarian  
 Arménie / 1930 / 62 min / Autres / DCP  
 Pour son premier long métrage documentaire, Bek-Nazarian recourt autant à des images d'archives qu'à des scènes rejouées, pour créer une fresque historique et poétique sur la transformation de la province de Nairi en florissante république soviétique.  
@@ -14,7 +15,7 @@ Séance présentée par Vigen Galstyan
 
 [154256]  
 **La Maison sur le volcan**  
-**(The House on the Volcano)**  
+**(Dom na vulkane)**  
 de Hamo Bek-Nazarian  
 Arménie / 1928 / 65 min / Autres / DCP  
 Avec Hrachia Nersisyan, Tigran Ayvazyan, Tatyana Makhmuryan.  
