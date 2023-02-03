@@ -214,7 +214,7 @@ Un voyage lyrique et visionnaire vers les origines du cinéma muet italien, réa
 Présentation en avant-première de sa sortie en salles le 15 mars par Carlotta Films.
 
 - sa 11 mar 15h30 JE  
-Séance présentée par Céline Gailleurd
+Séance présentée par Olivier Bohler et Céline Gailleurd
 
 [154334]  
 **Jane Campion, la femme cinéma**  

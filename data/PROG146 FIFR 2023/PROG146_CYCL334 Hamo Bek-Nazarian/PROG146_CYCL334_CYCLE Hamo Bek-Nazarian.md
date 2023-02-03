@@ -2,6 +2,19 @@
 
 ## Les films
 
+[154258]  
+**The Daughter**  
+**(Dustre)**  
+de Hamo Bek-Nazarian  
+Arménie / 1942 / 24 min / VOSTF / DCP  
+Avec Avet Avetisian, Hrachia Nersisian, Sofya Volkhovskaya.  
+Une des rares fictions arméniennes des années 1940, cette parabole sur les conséquences de la Seconde Guerre mondiale révèle la vision profondément humaniste du réalisateur, qui trouve de l'épique et de l'universel dans des sujets mineurs et privés.  
+Restauration commandée par le National Cinema Center of Armenia avec l'aide du Ministère de l'Éducation, de la Science, de la Culture et du Sport de la République d'Arménie. Nouvelle restauration 4K à partir de l'interpositif 35 mm par One Man Studio et Public Radio of Armenia, Yerevan, 2022.
+
+- ve 10 mar 21h00 GF  
+Séance présentée par Vigen Galstyan  
+Film suivi de _La Maison sur le volcan_ de Hamo Bek-Nazarian
+
 [154257]  
 **Land of Nairi**  
 **(Yerkir Nairi)**  
@@ -23,6 +36,7 @@ Avec Hrachia Nersisyan, Tigran Ayvazyan, Tatyana Makhmuryan.
 Restauration commandée par le National Cinema Center of Armenia avec l'aide du Ministère de l'Éducation, de la Science, de la Culture et du Sport de la République d'Arménie. Nouvelle restauration 4K à partir de l'interpositif 35 mm par One Man Studio, Yerevan, 2022.
 
 - ve 10 mar 21h00 GF  
-Séance présentée par Vigen Galstyan
+Séance présentée par Vigen Galstyan  
+Film précédé de _The Daughter_ de Hamo Bek-Nazarian
 
 Remerciements : National Cinema Center of Armenia, Vigen Galstyan et Naira Gevorgyan.

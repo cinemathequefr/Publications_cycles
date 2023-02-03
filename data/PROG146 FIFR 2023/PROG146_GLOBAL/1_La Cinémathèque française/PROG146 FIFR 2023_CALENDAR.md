@@ -12,10 +12,7 @@ Barton Fink (Joel Coen, 1990)
 
 **16h30 JE Sept œuvres majeures du Maghreb**  
 **Séance présentée par Gérard Vaugeois**  
-Une porte sur le ciel (Farida Ben Lyazid, 1988)
-
-**17h30 HO Hommage au BFI**  
-Ne pas avaler (Gary Oldman, 1996)
+Une porte sur le ciel (Farida Benlyazid, 1988)
 
 **19h00 GF Restaurations et incunables**  
 Le Comédien (Sacha Guitry, 1947)
@@ -33,15 +30,11 @@ Love (Ken Russell, 1968)
 
 ## je 9 mars
 
-**13h45 HO Hommage au BFI**  
-**Séance présentée par Kieron Webb**  
-La Vie privée d'Henry VIII (Alexander Korda, 1933)
-
 **14h00 HL Restaurations et incunables**  
 Raging Bull (Martin Scorsese, 1980)
 
 **14h30 GF Restaurations et incunables**  
-**Accompagnement musical par Mauro Coceano**  
+**Séance avec accompagnement musical**  
 Rien que les heures (Alberto Cavalcanti, 1927)
 
 **14h30 JE Restaurations et incunables**  
@@ -59,19 +52,9 @@ La Ballade de Buster Scruggs (Ethan Coen, Joel Coen, 2017)
 **18h30 GF Restaurations et incunables**  
 Danse macabre (Anthony Dawson, 1963)
 
-**19h30 HO Raretés des collections**  
-**Séance présentée par Philippe Azoury**  
-Pardo Home Movie : Tina Aumont (Frédéric Pardo, 1968)  
-Pardo New York (Frédéric Pardo, 1968)  
-Padro Home Movie Marrakech (Frédéric Pardo, 1968)
-
 **19h45 HL Joel Coen, parrain du festival**  
 The Tragedy of Macbeth (Joel Coen, 2021)  
-The Tragedy of Macbeth + Dialogue avec Joel Coen et Bruno Delbonnel
-
-**20h30 HO Restaurations et incunables**  
-**Séance présentée par Jean-François Rauger**  
-Le Caporal épinglé (Jean Renoir, 1961)
+Dialogue avec Joel Coen et Bruno Delbonnel
 
 **20h30 JE Restaurations et incunables**  
 **Séance présentée par Alexis Langlois**  
@@ -80,16 +63,7 @@ Tokyo Pop (Fran Rubel Kuzui, 1987)
 **20h45 GF André S. Labarthe**  
 L'Homme qui a vu l'homme qui a vu l'ours (André S. Labarthe, 1987)
 
-**21h00 HO Restaurations et incunables**  
-Messidor (Alain Tanner, 1978)
-
-**22h00 HO Joel Coen, parrain du festival**  
-Sang pour sang (Joel Coen, 1983)
-
 ## ve 10 mars
-
-**13h45 HO Joel Coen, parrain du festival**  
-La Femme sans tête (Lucrecia Martel, 2007)
 
 **14h00 HL Bruno Delbonnel, invité d'honneur**  
 **Séance présentée par Bruno Delbonnel**  
@@ -100,10 +74,6 @@ Faust (Alexandre Sokourov, 2011)
 
 **14h30 GF Restaurations et incunables**  
 Le Passage du canyon (Jacques Tourneur, 1946)
-
-**15h30 HO Hommage au BFI**  
-**Séance présentée par Kieron Webb**  
-Friendship's Death (Peter Wollen, 1987)
 
 **16h30 GF Restaurations et incunables**  
 **Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero**  
@@ -120,109 +90,54 @@ Rébellion (Masaki Kobayashi, 1967)
 **17h00 HL Bruno Delbonnel, invité d'honneur**  
 Dialogue avec Bruno Delbonnel
 
-**17h15 HO Hommage au BFI**  
-**Séance présentée par Kieron Webb**  
-Naked (Mike Leigh, 1992)
-
-**17h30 HO André S. Labarthe**  
-Franju, l'avion et la DS (André S. Labarthe, 1987)  
-Cinéma, Cinémas : Skolimowski à la table (André S. Labarthe, 1990)  
-Cinéastes, de notre temps : Bleu comme une orange (André S. Labarthe, 1968)
-
 **18h00 GF Restaurations et incunables**  
-**Séance suivie d'une discussion avec Nikolaï Izvolov. Accompagnement musical par Gabriel Cazes et Nicolas Giraud**  
+**Séance avec accompagnement musical, suivie d'une discussion avec Nikolaï Izvolov**  
 Histoire de la guerre civile (Dziga Vertov, 1921)  
-Dialogue avec Nicolaî Isvolov
+Dialogue avec Nicolaï Izvolov
 
 **19h00 HL Joel Coen, parrain du festival**  
 No Country for Old Men (Joel Coen, Ethan Coen, 2006)  
-No Country for Old Men + Masterclass Joel Coen
+Master class de Joel Coen
 
 **19h30 JE Sept œuvres majeures du Maghreb**  
 **Séance présentée par Gérard Vaugeois**  
 De quelques événements sans significations (Mostafa Derkaoui, 1974)
 
-**20h30 HO Restaurations et incunables**  
-**Séance présentée par Stéphane Goudet**  
-Folies de femmes (Erich von Stroheim, 1921)
-
-**20h30 HO André S. Labarthe**  
-Cinéma, Cinémas : Antonioni, la dernière séquence (André S. Labarthe, 1985)  
-Cinéma, Cinémas : Arthur Penn, la dernière séquence (André S. Labarthe, 1985)  
-John Cassavetes (Hollywood 1965, Paris 1968) (Hubert Knapp, André S. Labarthe, 1998)
-
 **21h00 GF Hamo Bek-Nazarian**  
 **Séance présentée par Vigen Galstyan**  
+The Daughter (Hamo Bek-Nazarian, 1942)  
 La Maison sur le volcan (Hamo Bek-Nazarian, 1928)
 
 **21h30 JE Kiyoshi Kurosawa, invité d'honneur**  
 **Séance présentée par Clément Rauger et Nanako Tsukidate**  
 Le Gardien de l'enfer (Kiyoshi Kurosawa, 1992)
 
-**22h00 HO Joel Coen, parrain du festival**  
-Fargo (Joel Coen, 1995)
-
 ## sa 11 mars
-
-**11h00 HO Sept œuvres majeures du Maghreb**  
-**Séance présentée par Nacer Khemir**  
-Les Baliseurs du désert (Nacer Khemir, 1985)
 
 **13h45 GF Restaurations et incunables**  
 Le Testament du Docteur Cordelier (Jean Renoir, 1959)
 
-**14h00 HO Raretés des collections**  
-Le Retour (Henri Cartier-Bresson, 1945)  
-Cessez de rire, voici l'Angleterre (Douglas Hickox, 1963)
-
-**14h00 HO Sept œuvres majeures du Maghreb**  
-**Séance présentée par Nacer Khemir**  
-Le Collier perdu de la colombe (Nacer Khemir, 1990)
-
 **14h00 JE Raretés des collections**  
-**Accompagnement musical par Adrien Leconte et Loïc Vergnaux. Séance présentée par Dominique Païni**  
+**Séance avec accompagnement musical, présentée par Dominique Païni**  
 La Damnation de Caïn (Luigi Maggi, 1911)  
 Thaïs (Anton Giulio Bragaglia, 1916)
 
 **14h30 HL Joel Coen, parrain du festival**  
 Inside Llewyn Davis (Ethan Coen, Joel Coen, 2012)  
-Inside Llewyn Davis + Dialogue avec Joel Coen et Bruno Delbonnel
-
-**14h30 HO Raretés des collections**  
-**Accompagnement musical par Improvisation Jean-François Zygel Classe**  
-La Montagne infidèle (Jean Epstein, 1923)  
-Artères de France (Jean Epstein, René Lucot, 1939)
+Dialogue avec Joel Coen et Bruno Delbonnel
 
 **15h30 JE Restaurations et incunables**  
-**Séance présentée par Céline Gailleurd**  
+**Séance présentée par Olivier Bohler et Céline Gailleurd**  
 Italia, le feu, la cendre (Céline Gailleurd, Olivier Bohler, 2021)
-
-**15h45 HO Joel Coen, parrain du festival**  
-Les Vitelloni (Federico Fellini, 1953)
 
 **16h00 GF Kiyoshi Kurosawa, invité d'honneur**  
 **Séance présentée par Kiyoshi Kurosawa**  
 Spontaneous Combustion (Tobe Hooper, 1989)
 
-**16h00 HO Hamo Bek-Nazarian**  
-**Séance présentée par Vigen Galstyan**  
-Land of Nairi (Hamo Bek-Nazarian, 1930)
-
-**17h00 HO Sept œuvres majeures du Maghreb**  
-**Séance présentée par Nacer Khemir**  
-Bab Aziz, le prince qui contemplait son âme (Nacer Khemir, 2003)
-
-**17h45 HO Joel Coen, parrain du festival**  
-A Serious Man (Ethan Coen, Joel Coen, 2009)
-
 **17h45 JE Raretés des collections**  
 Mickey Mouse au Vietnam (Lee Savage, 1969)  
 Crossroads (Bruce Conner, 1976)  
 Comment s'en sortir sans sortir (Raoul Sangla, 1988)
-
-**18h00 HO Restaurations et incunables**  
-**Accompagnement musical par Improvisation Jean-François Zygel Classe**  
-Manolesco prince des poètes (Victor Tourjansky, 1929)
 
 **18h30 GF Bruno Delbonnel, invité d'honneur**  
 **Séance présentée par Bruno Delbonnel**  
@@ -230,28 +145,18 @@ Big Eyes (Tim Burton, 2014)
 
 **19h00 HL Kiyoshi Kurosawa, invité d'honneur**  
 Cure (Kiyoshi Kurosawa, 1997)  
-Masterclass Kiyoshi Kurosawa
-
-**20h00 HO Joel Coen, parrain du festival**  
-The Big Lebowski (Joel Coen, 1997)
+Master class de Kiyoshi Kurosawa
 
 **20h00 JE Restaurations et incunables**  
 **Séance présentée par Marie-Claude Treilhou**  
 Le Jour des rois (Marie-Claude Treilhou, 1990)
 
-**20h30 HO Restaurations et incunables**  
-**Séance suivie d'une discussion avec Bernard Benoliel**  
-À bout de course (Sidney Lumet, 1988)
-
 **21h00 GF Restaurations et incunables**  
-Le Dieu noir et le diable blond (Glauber Rocha, 1963)
-
-**22h00 HO Joel Coen, parrain du festival**  
-No Country for Old Men (Joel Coen, Ethan Coen, 2006)
+Le Dieu noir et le Diable blond (Glauber Rocha, 1963)
 
 **22h30 HL Restaurations et incunables**  
 **Séance présentée par Jean-François Rauger**  
-Le Miroir de la sorcière (Chano Urueta, 1962)
+Le Miroir de la sorcière (Chano Urueta, 1960)
 
 ## di 12 mars
 
@@ -266,28 +171,9 @@ Cinéastes, de notre temps : Jean-Pierre Melville : Portrait en neuf poses TV (A
 Mauvais sang (Leos Carax, 1986)  
 Dialogue avec Leos Carax
 
-**14h00 HO Kiyoshi Kurosawa, invité d'honneur**  
-**Séance présentée par Kiyoshi Kurosawa**  
-Alliés (Robert Zemeckis, 2016)
-
-**14h00 HO Joel Coen, parrain du festival**  
-**Séance présentée par Bruno Delbonnel**  
-La Ballade de Buster Scruggs (Ethan Coen, Joel Coen, 2017)
-
-**14h00 HO Restaurations et incunables**  
-Le Caporal épinglé (Jean Renoir, 1961)
-
 **14h30 GF Restaurations et incunables**  
-**Accompagnement musical par Günter A. Buchwald, Frank Bockius et Mirko Cisilino**  
+**Séance avec accompagnement musical**  
 Up in Mabel's Room (E. Mason Hopper, 1926)
-
-**14h30 HO Restaurations et incunables**  
-**Accompagnement musical par Improvisation Jean-François Zygel Classe**  
-Brumes d'automne (Dimitri Kirsanoff, 1928)  
-Ménilmontant (Dimitri Kirsanoff, 1924)
-
-**15h00 HO Restaurations et incunables**  
-Et la lumière fut (Otar Iosseliani, 1989)
 
 **15h30 JE André S. Labarthe**  
 **Séance présentée par Frédéric Bonnaud**  
@@ -295,24 +181,12 @@ Cinéma, Cinémas : Claude Chabrol à la table (André S. Labarthe, 1985)
 Cinéma, Cinémas : Fuller à la table (Claude Ventura, André S. Labarthe, 1982)  
 Cinéastes, de notre temps : Samuel Fuller, Independant Filmmaker (André S. Labarthe, 1967)
 
-**16h30 HO Joel Coen, parrain du festival**  
-La Ballade de Buster Scruggs (Ethan Coen, Joel Coen, 2017)
-
 **16h45 GF Restaurations et incunables**  
 **Séance présentée par Fernando Arrabal et Franck Loiret**  
 Viva la muerte (Arrabal, 1970)
 
-**17h00 HO Sept œuvres majeures du Maghreb**  
-**Séance présentée par Gérard Vaugeois**  
-Chronique des anées de braise (Mohammed Lakhdar-Hamina, 1975)
-
 **17h30 HL Restaurations et incunables**  
 Boy Meets Girl (Leos Carax, 1984)
-
-**17h30 HO Restaurations et incunables**  
-**Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtois. Séance présentée par Manon Billaut et Hervé Pichard**  
-Le Nabab (Albert Capellani, 1913)  
-Vues au pochoir : villes d'Europe années 1920 en Pathécolor (Anonyme, 1930)
 
 **18h00 JE Restaurations et incunables**  
 **Séance présentée par Julie Bertuccelli**  
@@ -323,19 +197,10 @@ Jane Campion, la femme cinéma (Julie Bertuccelli, 2022)
 Armored Car Robbery (Richard Fleischer, 1950)
 
 **20h30 HL Restaurations et incunables**  
-**Accompagnement musical par Gaspar Claus**  
+**Séance avec accompagnement musical**  
 L'Inconnu (Tod Browning, 1927)
 
 **20h30 JE André S. Labarthe**  
-Cinéma, Cinémas : Adieu Rita (André S. Labarthe, 1987)  
-Cinéastes, de notre temps : Le Dinosaure et le Bébé (André S. Labarthe, 1967)
-
-**22h00 HO Joel Coen, parrain du festival**  
-Inside Llewyn Davis (Ethan Coen, Joel Coen, 2012)
-
-## ve 24 mars
-
-**20h00 JE André S. Labarthe**  
 Cinéma, Cinémas : Adieu Rita (André S. Labarthe, 1987)  
 Cinéastes, de notre temps : Le Dinosaure et le Bébé (André S. Labarthe, 1967)
 

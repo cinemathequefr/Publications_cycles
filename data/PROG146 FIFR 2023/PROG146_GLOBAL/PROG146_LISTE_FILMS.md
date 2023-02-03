@@ -23,8 +23,9 @@
   * Big Eyes  
   * Faust
 
-## Hamo Bek-Nazarian (2)
+## Hamo Bek-Nazarian (3)
 
+  * Daughter (The)  
   * Land of Nairi  
   * Maison sur le volcan (La)
 
