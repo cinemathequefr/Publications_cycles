@@ -99,7 +99,7 @@
   * Wallace et Gromit : Les Inventuriers  
   * Zazie dans le métro
 
-## L'image des plaisirs (98)
+## L'image des plaisirs (99)
 
   * 6/64 Mama und Papa (Materialaktion Otto Mühl)  
   * 7/64 Leda und der Schwan  
@@ -123,6 +123,7 @@
   * CF Porn  
   * Chōfuku-ki  
   * Christmas on Earth  
+  * Cinema's First Kiss Was Between Two Women  
   * Clin d'éventail  
   * Cosmic Ray  
   * Dafnis y Cloe  

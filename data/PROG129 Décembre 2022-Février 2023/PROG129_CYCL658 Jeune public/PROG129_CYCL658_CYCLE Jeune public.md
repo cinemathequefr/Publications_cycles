@@ -262,7 +262,7 @@ Pour accompagner les plus jeunes spectateurs dans leurs premières découvertes 
 [88023]  
 **Le Déshabillage impossible**  
 de Georges Méliès  
-France / 1900  
+France / 1900 / 2 min  
 suivi de  
 [154335]  
 **Promenade nocturne**  

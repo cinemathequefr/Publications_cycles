@@ -22,6 +22,11 @@ de Léolo Victor-Pujebet
 France / 2021 / 20 min / Numérique  
 « Remodelage d'une scène pornographique dans laquelle j'ai tourné pour un grand studio français. Il s'agissait de me réapproprier ces images (à l'origine catégorisées « hard ») pour en extraire le potentiel érotique et peut-être même romantique. » (Léolo Victor-Pujebet)  
 suivi de  
+[154348]  
+**Cinema's First Kiss Was Between Two Women**  
+de Lily Alexandre  
+Canada / 2022 / 1 min / Numérique  
+suivi de  
 [154074]  
 **Mars exalté**  
 de Jean-Sébastien Chauvin  
