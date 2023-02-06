@@ -2,21 +2,21 @@
 
 ## André S. Labarthe (15)
 
-  * Cinéastes, de notre temps : Bleu comme une orange  
-  * Cinéastes, de notre temps : Jean-Pierre Melville : Portrait en neuf poses TV  
-  * Cinéastes, de notre temps : Le Dinosaure et le Bébé  
-  * Cinéastes, de notre temps : Samuel Fuller, Independant Filmmaker  
-  * Cinéma, Cinémas : Adieu Rita  
-  * Cinéma, Cinémas : Antonioni, la dernière séquence  
-  * Cinéma, Cinémas : Arthur Penn, la dernière séquence  
-  * Cinéma, Cinémas : Claude Chabrol à la table  
-  * Cinéma, Cinémas : Deneuve, revue de détails  
-  * Cinéma, Cinémas : Fuller à la table  
-  * Cinéma, Cinémas : Skolimowski à la table  
+  * Adieu Rita  
+  * Antonioni, la dernière séquence  
+  * Arthur Penn, la dernière séquence  
+  * Bleu comme une orange  
+  * Claude Chabrol à la table  
+  * Deneuve, revue de détails  
+  * Dinosaure et le Bébé (Le)  
   * Franju, l'avion et la DS  
+  * Fuller à la table  
   * Homme qui a vu l'homme qui a vu l'ours (L')  
+  * Jean-Pierre Melville : portrait en neuf poses  
   * John Cassavetes (Hollywood 1965, Paris 1968)  
-  * Taxi Driver mis en pièce par Martin Scorsese
+  * Samuel Fuller, Independant Filmmaker  
+  * Skolimowski à la table  
+  * Taxi Driver mis en pièces par Martin Scorsese
 
 ## Bruno Delbonnel, invité d'honneur (2)
 
@@ -67,11 +67,11 @@
   * Comment s'en sortir sans sortir  
   * Crossroads  
   * Damnation de Caïn (La)  
-  * Home Movie Marrakech  
+  * Home Movie : Marrakech  
+  * Home Movie : New York  
   * Home Movie : Tina Aumont  
   * Mickey Mouse au Vietnam  
   * Montagne infidèle (La)  
-  * Pardo New York  
   * Retour (Le)  
   * Thaïs
 
@@ -119,9 +119,9 @@
 
 ## Sept œuvres majeures du Maghreb (6)
 
-  * Bab Aziz, le prince qui contemplait son âme  
+  * Bab'Aziz, le prince qui contemplait son âme  
   * Baliseurs du désert (Les)  
-  * Chronique des anées de braise  
+  * Chronique des années de braise  
   * Collier perdu de la colombe (Le)  
-  * De quelques événements sans significations  
+  * De quelques événements sans signification  
   * Une porte sur le ciel  

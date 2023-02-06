@@ -3,12 +3,12 @@
 ## Les films
 
 [98661]  
-**Bab Aziz, le prince qui contemplait son âme**  
+**Bab'Aziz, le prince qui contemplait son âme**  
 **(Bab'Aziz)**  
 de Nacer Khemir  
 France-Allemagne-Iran-Tunisie-Grande-Bretagne / 2003 / 100 min / VOSTF / DCP  
 Avec Parviz Shahinkhou, Maryam Hamid, Golshifteh Farahani.  
-Perdus dans un océan de sable, la petite Ishtar et son grand-père Bab' Aziz, un derviche aveugle, cheminent vers la réunion des derviches qui a lieu tous les 30 ans. Mais pour trouver cet endroit secret, il faut « écouter le silence infini du désert avec son cœur ».  
+Perdus dans un océan de sable, la petite Ishtar et son grand-père Bab'Aziz, un derviche aveugle, cheminent vers la réunion des derviches qui a lieu tous les trente ans. Mais pour trouver cet endroit secret, il faut « écouter le silence infini du désert avec son cœur ».  
 Restauration par Trigon Film (Suisse).
 
 - sa 11 mar 17h00 HO  
@@ -16,29 +16,31 @@ Séance présentée par Nacer Khemir
 
 [55569]  
 **Les Baliseurs du désert**  
-**(Al- Haimoun)**  
+**(Al-Haimoun)**  
 de Nacer Khemir  
-Tunisie-France / 1985 / 95 min / VOSTF / DCP  
+Tunisie-France / 1984 / 95 min / VOSTF / DCP  
 Avec Hedi Daoud, Sonia Ichti, Nacer Khemir.  
-Un jeune instituteur est nommé dans un village en ruines perdu au milieu du désert sud-tunisien. Il n'y a pas d'école, mais beaucoup d'enfants, des femmes et des vieillards. Les hommes sont tous partis dans le désert pour en chercher les limites.  
-Restauration de l'image par la Cinémathèque Royale de Belgique, et du son par Trigon Film (Suisse).
+À travers la vitre d'un vieil autocar, un jeune instituteur regarde défiler le désert. C'est dans un village perdu de cette mer de sable qu'il a été nommé. Soudain apparaissent des hommes aux gestes empoussiérés : les Baliseurs. Plus loin se dresse le village comme une forteresse. C'est là que le jeune homme vient enseigner, mais il n'y a pas d'école.  
+Restauration de l'image par la Cinémathèque royale de Belgique, et du son par Trigon Film (Suisse).
 
 - sa 11 mar 11h00 HO  
 Séance présentée par Nacer Khemir
 
 [37933]  
-**Chronique des anées de braise**  
+**Chronique des années de braise**  
 **(Ahdat sanawouach el-djamar)**  
 de Mohammed Lakhdar-Hamina  
 Algérie / 1975 / 177 min / VOSTF / DCP  
 Avec Yorgo Voyagis, Mohammed Lakhdar-Hamina, Larbi Zekkal.  
-Minutieuse chronique de l'évolution du mouvement national algérien depuis les années 1930 jusqu'au déclenchement de la révolution du 1<sup>er</sup> novembre 1954.
+Minutieuse chronique de l'évolution du mouvement national algérien depuis les années 1930 jusqu'au déclenchement de la révolution du 1<sup>er</sup> novembre 1954.  
+Restauration grâce à la George Lucas Family Foundation, The Film Foundation, l'UNESCO et FEPACI.
 
 - di 12 mar 17h00 HO  
 Séance présentée par Gérard Vaugeois
 
 [59631]  
 **Le Collier perdu de la colombe**  
+**(Tawk al-hamama al-mafkoud)**  
 de Nacer Khemir  
 France-Tunisie-Italie / 1990 / 90 min / VOSTF / DCP  
 Avec Nadia Chowdhry, Walid Arakji, Nina Esber, Noureddine Kasbaoui.  
@@ -49,7 +51,8 @@ Restauration par Trigon Film (Suisse).
 Séance présentée par Nacer Khemir
 
 [71576]  
-**De quelques événements sans significations**  
+**De quelques événements sans signification**  
+**(Ahdath bidoun dalala)**  
 de Mostafa Derkaoui  
 Maroc / 1974 / 74 min / VOSTF / DCP  
 Avec Abdellatif Nour, Abbas Fassi-Fihri, Hamid Zoughi.  
@@ -61,12 +64,12 @@ Séance présentée par Gérard Vaugeois
 
 [64888]  
 **Une porte sur le ciel**  
-**(Bab al sama maftuh)**  
+**(Bab al-samah maftouh)**  
 de Farida Benlyazid  
-Maroc / 1988 / 100 min / VOSTF / DCP  
-Avec Zakia Tahiri, Châaibia Adraoui,Eva Saint-Paul, Ahmed Bouanani.  
+Maroc / 1989 / 100 min / VOSTF / DCP  
+Avec Zakia Tahiri, Châaibia Adraoui, Eva Saint-Paul, Ahmed Bouanani.  
 Revenue à Fès, capitale historique et spirituelle du Maroc, pour le deuil de son père, une jeune Franco-Marocaine y fonde la « zaouia des femmes », à la fois sanctuaire religieux, lieu de pèlerinage et refuge pour femmes en détresse.  
-Restauration par Transnational Moroccan Cinema Project from the University of Exeter (UK), le Centre du Cinéma Marocain, et Dragon DI (UK).
+Restauration par le Transnational Moroccan Cinema Project – University of Exeter (Royaume-Uni), le Centre du cinéma marocain et Dragon DI (Royaume-Uni).
 
 - me 8 mar 16h30 JE  
 Séance présentée par Gérard Vaugeois
