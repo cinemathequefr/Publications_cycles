@@ -239,8 +239,8 @@ Scan et restauration en 4K en 2022 par les Films du Losange, avec le soutien du 
 - sa 11 mar 20h00 JE
 
 [39284]  
-**Manolesco prince des poètes**  
-**(Manolescu)**  
+**Manolesco, prince des sleepings**  
+**(Manolescu – Der König der Hochstapler)**  
 de Victor Tourjansky  
 Allemagne / 1929 / 111 min / INT. FR. / DCP  
 Avec Ivan Mosjoukine, Brigitte Helm, Heinrich George.  

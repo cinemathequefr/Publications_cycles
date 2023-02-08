@@ -98,7 +98,7 @@
   * Italia, le feu, la cendre  
   * Jane Campion, la femme cinéma  
   * Jour des rois (Le)  
-  * Manolesco prince des poètes  
+  * Manolesco, prince des sleepings  
   * Mauvais sang  
   * Ménilmontant  
   * Messidor  
