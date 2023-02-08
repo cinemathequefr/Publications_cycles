@@ -24,7 +24,7 @@ Dans les années 1920, Gerard et Rupert, deux industriels miniers de la bourgeoi
 Restauration d'après la copie et le master son d'origine conservés par MGM, avec le soutien de Simon Hessel. Étalonnage supervisé par le directeur de la photographie Billy Williams, d'après la copie originale Technicolor déposée par ses soins au BFI.
 
 - me 8 mar 21h00 GF  
-Séance présentée par Yann Gonzalez
+Séance présentée par Kieron Webb
 
 [41617]  
 **Naked**  
@@ -46,7 +46,8 @@ Avec Ray Winstone, Kathy Burke, Charlie Creed-Miles.
 L'histoire d'une famille ordinaire dans un quartier ouvrier de l'est de Londres, où Raymond, père de famille alcoolique et violent, voit peu à peu ses relations avec ses proches s'effriter.  
 Restauration à l'occasion du 25<sup>e</sup> anniversaire du film, avec le soutien de Simon et Harley Hessel, à partir du négatif Super 16 mm et de la piste son 35 mm, prêtés par Sony Pictures Classics. Nouveau format 1.66:1, étalonnage effectué à partir d'un tirage récent et approuvé par Gary Oldman.
 
-- me 8 mar 17h30 HO
+- me 8 mar 17h30 HO  
+Séance présentée par Kieron Webb
 
 [42835]  
 **La Vie privée d'Henry VIII**  

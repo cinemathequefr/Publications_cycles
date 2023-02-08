@@ -25,7 +25,8 @@ Six fables mettant en scène un cowboy musicien, un chercheur d'or, un braqueur 
 - je 9 mar 17h30 JE  
 - di 12 mar 14h00 HO  
 Séance présentée par Bruno Delbonnel  
-- di 12 mar 16h30 HO
+- di 12 mar 16h30 HO  
+Séance présentée par Bruno Delbonnel
 
 [31780]  
 **Barton Fink**  
@@ -34,7 +35,8 @@ de Joel Coen
 Avec John Turturro, John Goodman, Judy Davis.  
 Barton Fink, jeune auteur de pièces de théâtre dont la dernière est encensée par la critique, est embauché par Hollywood pour écrire une série B sur le monde de la lutte, auquel il ne connaît rien. Fink s'isole dans un hôtel désert pour travailler, et fait connaissance avec son étrange voisin.
 
-- me 8 mar 16h15 GF
+- me 8 mar 16h15 GF  
+Séance présentée par Frédéric Bonnaud
 
 [29211]  
 **The Big Lebowski**  
@@ -123,7 +125,8 @@ Japon / 1967 / 128 min / VOSTF / 35 mm
 Avec Toshirō Mifune, Tatsuya Nakadai, Yōko Tsukasa.  
 Japon, 1725, sous l'ère d'Edo. Un chef de fief décide de marier sa femme, qu'il vient de répudier, au fils du samouraï Isaburo Sasahara.
 
-- ve 10 mar 16h30 JE
+- ve 10 mar 16h30 JE  
+Séance présentée par Joel Coen
 
 [43451]  
 **Les Vitelloni**  

@@ -67,7 +67,7 @@ Séance présentée par Jane Birkin
 **Dans la brume électrique**  
 **(In the Electric Mist)**  
 de Bertrand Tavernier  
-États-Unis-France / 2009 / 117 min / VOSTF / 35 mm  
+États-Unis-France / 2009 / 117 min / VOSTF / DCP  
 D'après le roman _Dans la brume électrique avec les morts confédérés _ de James Lee Burke.  
 Avec Tommy Lee Jones, John Goodman, Peter Sarsgaard.  
 New Iberia, Louisiane. L'inspecteur Dave Robicheaux est sur les traces d'un tueur en série qui s'attaque à de très jeunes femmes.
@@ -125,7 +125,7 @@ Séance présentée par Nils Tavernier
 [94168]  
 **Holy Lola**  
 de Bertrand Tavernier  
-France / 2004 / 128 min / 35 mm  
+France / 2004 / 128 min / DCP  
 Avec Jacques Gamblin, Isabelle Carré, Bruno Putzulu.  
 Le parcours du combattant de Géraldine et Pierre, qui ne peuvent pas avoir d'enfant et décident d'adopter au Cambodge.
 

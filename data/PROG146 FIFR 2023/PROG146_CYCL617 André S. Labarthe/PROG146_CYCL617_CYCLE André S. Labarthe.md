@@ -18,6 +18,7 @@ Les questions improvisées du « bébé » français, Godard, au « dinosaure »
 Épisode de la collection _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir du marron 16 mm noir et blanc et d'un son magnétique séparé.
 
 - di 12 mar 20h30 JE  
+Séance présentée par Brice Amouroux  
 - ve 24 mar 20h00 JE
 
 [121606]  
@@ -44,7 +45,8 @@ Avec John Cassavetes.
 Deux rencontres improvisées avec John Cassavetes à Hollywood en 1965, alors qu'il va devenir le chef de file du jeune cinéma indépendant américain, et à Paris en 1968, pour la sortie de _Faces_.  
 Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
-- ve 10 mar 20h30 HO
+- ve 10 mar 20h30 HO  
+Séance présentée par Brice Amouroux
 
 [121603]  
 **Claude Chabrol à la table**  
@@ -69,7 +71,7 @@ Cinéaste de la violence, Samuel Fuller raconte en vingt-trois chapitres une his
 Épisode de la collection _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
 - di 12 mar 15h30 JE  
-Séance présentée par Frédéric Bonnaud
+Séance présentée par Brice Amouroux
 
 [154274]  
 **Deneuve, revue de détails**  
@@ -95,7 +97,7 @@ Portrait en neuf chapitres, qui sont autant de facettes du cinéaste. Les entret
 Épisode de la collection _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
 - di 12 mar 13h15 JE  
-Séance présentée par Frédéric Bonnaud
+Séance présentée par Brice Amouroux
 
 [154272]  
 **Franju, l'avion et la DS**  
@@ -121,7 +123,8 @@ Avec Pierre Soulages, Andy Warhol, Brassaï, William Klein.
 Documentaire sur l'utilisation de la couleur et du noir et blanc dans les arts contemporains à travers neuf artistes.  
 Épisode de la série _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
-- ve 10 mar 17h30 HO
+- ve 10 mar 17h30 HO  
+Séance présentée par Brice Amouroux
 
 [74559]  
 **L'Homme qui a vu l'homme qui a vu l'ours**  
@@ -131,6 +134,7 @@ Avec László Szabó, Ágnes Bánfalvy, Peter Bogdanovich, Henry Jaglom.
 Un cinéaste hongrois enquête sur les traces que Welles a laissées à Hollywood, maintenant l'ambiguïté entre le vrai et le faux.  
 Restauration par la Cinémathèque française, en collaboration avec Documentaire sur grand écran et Danielle Labarthe. Travaux de restauration image et son menés au laboratoire Lobster Films à partir du négatif original 16 mm et au Studio L. E. Diapason à partir de la bande magnétique 16 mm. Étalonnage réalisé par François Ede, avec la collaboration du chef opérateur du film, Jacques Audrain.
 
-- je 9 mar 20h45 GF
+- je 9 mar 20h45 GF  
+Séance présentée par Frédéric Bonnaud et Labarthe Danielle
 
 Remerciements : Mme Danièle Anezin-Labarthe, Documentaire sur Grand Ecran, INA.

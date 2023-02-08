@@ -218,13 +218,6 @@ Séance suivie d'une discussion avec Maïté Sonnet
 
 De la fiction au documentaire, trois propositions cinématographiques d'une grande cohérence dans lesquelles Samy Sidali questionne notre rapport au désir et à l'identité.
 
-[154138]  
-**Jmar**  
-de Samy Sidali  
-France-Maroc / 2020 / 20 min / DCP  
-Zouhair Sabri, Sara Kola, Mehdi Ez-Zarouqy  
-Sur la plage de Mohammedia, petite ville côtière du Maroc, Khaled propose des balades à cheval aux promeneurs. Il traîne avec ses amis. Ils ont une vingtaine d'années et fantasment une sexualité qui leur est interdite.  
-suivi de  
 [154137]  
 **AOC**  
 de Samy Sidali  
@@ -236,7 +229,14 @@ suivi de
 **Petit taxi**  
 de Samy Sidali  
 France / 2022 / 27 min / VOSTF / DCP  
-Oussama enchaîne les courses au gré des clients qui montent dans son taxi casablancais. Il devient guide et entremetteur avec ces âmes, le temps d'un court trajet partagé dans l'intimité d'un habitacle de voiture.
+Oussama enchaîne les courses au gré des clients qui montent dans son taxi casablancais. Il devient guide et entremetteur avec ces âmes, le temps d'un court trajet partagé dans l'intimité d'un habitacle de voiture.  
+suivi de  
+[154138]  
+**Jmar**  
+de Samy Sidali  
+France-Maroc / 2020 / 20 min / DCP  
+Zouhair Sabri, Sara Kola, Mehdi Ez-Zarouqy  
+Sur la plage de Mohammedia, petite ville côtière du Maroc, Khaled propose des balades à cheval aux promeneurs. Il traîne avec ses amis. Ils ont une vingtaine d'années et fantasment une sexualité qui leur est interdite.
 
 - lu 20 fév 19h00 JE  
 Séance suivie d'une discussion avec Samy Sidali

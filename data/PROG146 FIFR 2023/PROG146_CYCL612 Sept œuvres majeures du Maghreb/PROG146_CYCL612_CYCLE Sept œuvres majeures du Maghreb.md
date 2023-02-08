@@ -12,7 +12,7 @@ Perdus dans un océan de sable, la petite Ishtar et son grand-père Bab'Aziz, un
 Restauration par Trigon Film (Suisse).
 
 - sa 11 mar 17h00 HO  
-Séance présentée par Nacer Khemir
+Séance suivie d'une discussion avec Nacer Khemir
 
 [55569]  
 **Les Baliseurs du désert**  
@@ -36,7 +36,7 @@ Minutieuse chronique de l'évolution du mouvement national algérien depuis les 
 Restauration grâce à la George Lucas Family Foundation, The Film Foundation, l'UNESCO et FEPACI.
 
 - di 12 mar 17h00 HO  
-Séance présentée par Gérard Vaugeois
+Séance présentée par Gérard Vaugeois et Malik Lakhdar-Hamina
 
 [59631]  
 **Le Collier perdu de la colombe**  
@@ -60,7 +60,7 @@ Une équipe de cinéastes interroge de jeunes Casablancais sur leurs attentes et
 Restauration en 2019 par la Filmoteca de Catalunya et l'Observatoire (Casablanca).
 
 - ve 10 mar 19h30 JE  
-Séance présentée par Gérard Vaugeois
+Séance présentée par Léa Morin et Marie-Pierre Bouthier
 
 [64888]  
 **Une porte sur le ciel**  
@@ -72,6 +72,6 @@ Revenue à Fès, capitale historique et spirituelle du Maroc, pour le deuil de s
 Restauration par le Transnational Moroccan Cinema Project – University of Exeter (Royaume-Uni), le Centre du cinéma marocain et Dragon DI (Royaume-Uni).
 
 - me 8 mar 16h30 JE  
-Séance présentée par Gérard Vaugeois
+Séance présentée par Marie-Pierre Bouthier et Léa Morin
 
 Remerciements : Le Maghreb des films, Gérard Vaugeois.

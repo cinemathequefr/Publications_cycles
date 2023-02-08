@@ -42,7 +42,7 @@
   * SAS : L'Œil de la veuve  
   * Sursis (Le)
 
-## Fenêtre sur les collections (12)
+## Fenêtre sur les collections (15)
 
   * Autour de L'Argent  
   * Autour de La Cousine Bette  
@@ -51,8 +51,11 @@
   * Conquête des Gaules (La)  
   * Cri des Apaches (Le)  
   * Gendarme et cinématographe  
+  * Mont Chef (Le)  
+  * Planet A  
   * Raid Paris-Le Cap-Paris (Le)  
   * Reportage cinématographique moderne : un incendie à Genève (Le)  
+  * Roi des Aulnes (Le)  
   * Start of the Gordon Bennett Balloon Race  
   * Une cité cinématographique moderne  
   * Une cité française du cinéma

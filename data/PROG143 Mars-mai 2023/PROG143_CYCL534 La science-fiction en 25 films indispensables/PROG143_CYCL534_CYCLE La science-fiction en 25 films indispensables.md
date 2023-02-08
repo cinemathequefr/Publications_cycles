@@ -6,7 +6,7 @@
 **2001 : l'odyssée de l'espace**  
 **(2001: A Space Odyssey)**  
 de Stanley Kubrick  
-États-Unis / 1968 / 149 min / VOSTF / 70 mm  
+États-Unis / 1968 / 149 min / VOSTF  
 Avec Keir Dullea, Gary Lockwood.  
 À l'aube de l'humanité, une tribu de primates découvre un étrange monolithe noir. Quatre millions d'années plus tard, deux astronautes font route vers Jupiter à bord du vaisseau Discovery, sous le contrôle de HAL 9000, un ordinateur exceptionnel doué d'intelligence et de parole.
 

@@ -11,7 +11,7 @@ Avec Makiko Kuno, Yutaka Matsushige, Hatsunori Hasegawa.
 Un ancien lutteur de sumo, devenu veilleur de nuit, est pris de pulsions meurtrières et enchaîne les crimes violents sans réelle motivation. Mais, un soir, une jeune femme est témoin du meurtre d'un de ses collègues.
 
 - ve 10 mar 21h30 JE  
-Séance présentée par Clément Rauger et Nanako Tsukidate
+Séance présentée par Clément Rauger
 
 ## Carte blanche à Kiyoshi Kurosawa
 

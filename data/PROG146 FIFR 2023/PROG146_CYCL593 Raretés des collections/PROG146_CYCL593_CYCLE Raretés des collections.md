@@ -10,7 +10,7 @@ Documentaire sur les voies de communication pour la section française de l'Expo
 Numérisation 4K et étalonnage par la Cinémathèque française. Travaux réalisé au laboratoire du CNC à partir d'une copie 35 mm unique.
 
 - sa 11 mar 14h30 HO  
-Accompagnement musical par Improvisation Jean-François Zygel Classe  
+Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Joël Daire  
 Film précédé de _La Montagne infidèle_ de Jean Epstein
 
 [154290]  
@@ -22,6 +22,7 @@ Portrait amusé des Anglais au travail et lors de leurs loisirs dans le Nord ind
 Restauration du film – découvert dans les collections de la Cinémathèque française par son ancien directeur Dominique Païni – par la Cinémathèque en 2022, en collaboration avec la Fondation Henri Cartier-Bresson. Restauration image au laboratoire du CNC, restauration son au studio L. E. Diapason.
 
 - sa 11 mar 14h00 HO  
+Séance présentée par Serge Toubiana  
 Film précédé de _Le Retour_ de Henri Cartier-Bresson
 
 [154260]  
@@ -33,6 +34,7 @@ Ghérasim Luca, auteur d'origine roumaine, a marqué le champ de la poésie sono
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française.
 
 - sa 11 mar 17h45 JE  
+Séance présentée par Emilie Cauquy  
 Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage, _Crossroads_ de Bruce Conner
 
 [130509]  
@@ -42,6 +44,7 @@ de Bruce Conner
 En pleine guerre froide, Conner montre l'explosion nucléaire test de 1945 sur l'atoll de Bikini sous 27 angles différents, dans un ralenti extrême, et accompagnée par les compositions sonores avant-gardistes de Patrick Gleeson et Terry Riley.
 
 - sa 11 mar 17h45 JE  
+Séance présentée par Emilie Cauquy  
 Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage et suivi de de _Comment s'en sortir sans sortir_ de Raoul Sangla
 
 [135109]  
@@ -54,7 +57,7 @@ Deux fermiers aiment la même femme, qui choisit l'un d'eux. Le prétendant reje
 Restauration 4K en 2023 à partir d'une copie nitrate teintée par la Cinémathèque française, au laboratoire du CNC.
 
 - sa 11 mar 14h00 JE  
-Accompagnement musical par Adrien Leconte et Loïc Vergnaux. Séance présentée par Dominique Païni  
+Accompagnement musical par Adrien Leconte et Loïc Vergnaux. Séance présentée par Céline Gailleurd et Hervé Pichard  
 Film suivi de _Thaïs_ d'Anton Giulio Bragaglia
 
 [154284]  
@@ -66,7 +69,6 @@ Le film débute sur des plans à Venise, des passants saisis depuis une chambre 
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française à partir d'une copie 16 mm conservée dans ses collections.
 
 - je 9 mar 19h30 HO  
-Séance présentée par Philippe Azoury  
 Film précédé de _Home Movie : Tina Aumont_ de Frédéric Pardo, _Home Movie : New York_ de Frédéric Pardo
 
 [154289]  
@@ -78,7 +80,6 @@ Jackie Raynal et Tina Aumont dans Central Park. Vues depuis un appartement, depu
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservées dans les collections.
 
 - je 9 mar 19h30 HO  
-Séance présentée par Philippe Azoury  
 Film précédé de _Home Movie : Tina Aumont_ de Frédéric Pardo et suivi de de _Home Movie : Marrakech_ de Frédéric Pardo
 
 [154288]  
@@ -90,7 +91,6 @@ Montage de _found footage_ de fiction en italien et de plans de Tina Aumont et F
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservée dans les collections.
 
 - je 9 mar 19h30 HO  
-Séance présentée par Philippe Azoury  
 Film suivi de _Home Movie : New York_ de Frédéric Pardo, _Home Movie : Marrakech_ de Frédéric Pardo
 
 [139952]  
@@ -101,6 +101,7 @@ de Lee Savage
 Dans ce dessin animé indépendant, ni validé ni produit par Disney, Mickey s'engage dans l'armée américaine et se rend au Vietnam en bateau durant la guerre. Quelques instants après son arrivée, il est tué d'une balle dans la tête.
 
 - sa 11 mar 17h45 JE  
+Séance présentée par Emilie Cauquy  
 Film suivi de _Crossroads_ de Bruce Conner, _Comment s'en sortir sans sortir_ de Raoul Sangla
 
 [84569]  
@@ -111,7 +112,7 @@ En juin 1923, en Sicile, deux cratères de l'Etna s'ouvrent à nouveau. Jean Eps
 Restauration 4K à partir d'une copie teintée 28 mm Pathé-KOK retrouvée à la Filmoteca de Catalunya, datant de 1924. Numérisation au 2CR-Filmoteca de Catalunya. Préservation par l'Arquivo nacional das imagens em movimento à la Cinemateca portuguesa.
 
 - sa 11 mar 14h30 HO  
-Accompagnement musical par Improvisation Jean-François Zygel Classe  
+Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Joël Daire  
 Film suivi d'_Artères de France_ de Jean Epstein, René Lucot
 
 [47350]  
@@ -121,6 +122,7 @@ France / 1945 / 45 min / VF / 35 mm
 Les caméramen de l'US Army Signal Corps et le photographe Henri Cartier-Bresson filment la libération de prisonniers et de déportés des camps nazis, leur transfert dans des hôpitaux temporaires et les retrouvailles avec leurs familles à Paris.
 
 - sa 11 mar 14h00 HO  
+Séance présentée par Serge Toubiana  
 Film suivi de _Cessez de rire, voici l'Angleterre_ de Douglas Hickox
 
 [154287]  
@@ -132,7 +134,7 @@ La comtesse russe Thaïs Galitzy aguiche des hommes mariés avant de les ruiner.
 Restauration 4K menée en 2023 par la Cinémathèque française en collaboration avec la Fondazione Centro Sperimentale di Cinematografia – Cineteca Nazionale (Rome). Travaux réalisés au laboratoire L'Image retrouvée (Paris/Bologne) à partir d'une copie nitrate teintée partiellement décomposée et d'un contretype.
 
 - sa 11 mar 14h00 JE  
-Accompagnement musical par Adrien Leconte et Loïc Vergnaux. Séance présentée par Dominique Païni  
+Accompagnement musical par Adrien Leconte et Loïc Vergnaux. Séance présentée par Céline Gailleurd et Hervé Pichard  
 Film précédé de _La Damnation de Caïn_ de Luigi Maggi
 
 Remerciements : Filmoteca de Catalunya (Clara Martin Villas, Rosa Cardona Arnau, Marionna Bruzzo Llaberia), La Fondation Henri Cartier-Bresson (Clément Cheroux, Pierre Leyrat, Aude Raimbault), Theresa Pardo, Thierry Garrel, Micheline Catti-Ghérasim Luca, Cineteca Nazionale (Rome).

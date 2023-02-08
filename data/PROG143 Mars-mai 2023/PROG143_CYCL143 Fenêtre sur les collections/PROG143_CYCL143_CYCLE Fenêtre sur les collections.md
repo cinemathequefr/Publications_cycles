@@ -25,6 +25,32 @@ Suspectées d'avoir aidé le chef du gang des Blacklegs à s'évader de prison, 
 - ve 17 mar 20h15 JE  
 Séance présentée par Noémie Jean
 
+## Hommage à la galerie Miyu et à l'animation contemporaine
+
+Dans le cadre d'une important don autour du cinéma d'animation organisé par l'intermédiaire de la galerie Miyu, première galerie d'art au monde dédiée à l'animation contemporaine, dix grands cinéastes d'animation français et internationaux ont offert à la Cinémathèque française des films et documents graphiques issus de leurs différents processus créatifs. Cette soirée propose un long et des courts métrages de cinéastes différents : une manière également de montrer toute la diversité et la richesse de création du cinéma d'animation indépendant d'aujourd'hui à travers les films de Céline Devaux, Dahee Jeong, Vergine Keaton, Boris Labbé, Florence Miailhe, Georges Schwizgebel, Momoko Seto, Gianluigi Toccafondo, Theodore Ushev et Koji Yamamura. Merci au Fresnoy, aux Films de l'Arlequin, à Insolence Productions et à Sacrebleu Productions, tous ces défricheurs de talents sans qui ce don et cette programmation n'auraient pu se faire. Le fonds de Sacrebleu Productions est conservé en grande partie par la Cinémathèque de Grenoble. Cette projection accompagne une exposition à la Galerie Miyu (101, rue du Temple, 75003 Paris), qui présentera du vendredi 21 avril au samedi 6 mai 2023 une sélection de documents graphiques.
+
+[154365]  
+**Le Roi des Aulnes**  
+**(Erlkönig)**  
+de Georges Schwizgebel  
+Suisse / 2015 / 6 min / DCP  
+Un père tenant son fils dans les bras chevauche dans la forêt. L'enfant malade croit voir le roi des aulnes qui l'invite à venir avec lui.  
+suivi de  
+[154364]  
+**Le Mont Chef**  
+**(Atama Yama)**  
+de Kôji Yamamura  
+Japon / 2002 / 10 min / DCP  
+Après avoir avalé des noyaux de cerises, un homme avare voit pousser sur sa tête un cerisier. Les ennuis commencent...  
+suivi de  
+[154362]  
+**Planet A**  
+de Momoko Seto  
+France / 2008 / 8 min / DCP  
+Le monde est devenu une planète desséchée, où la culture excessive du coton est la cause principale de la désertification. Ce phénomène fait écho à la désertification de la mer d'Aral, avec toujours l'homme pour responsable.
+
+- ve 21 avr 18h30 JE
+
 ## Les as de la manivelle
 
 Soirée présentée par Priska Morrissey et Iris Deniozou (Cinémathèque française), en partenariat avec l'Association française de recherche sur l'histoire du cinéma (AFRHC) et le CNC à l'occasion de la parution de l'ouvrage _Les As de la manivelle : Le Métier d'opérateur de prise de vues cinématographiques en France (1895-1930)_. Dans le prolongement de la conférence du Conservatoire des techniques cinématographiques du même jour, ce programme comprend quelques grandes raretés, fictions et documentaires autour du métier de l'opérateur.

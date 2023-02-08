@@ -22,7 +22,8 @@ Avec Denis Lavant, Mireille Perrier, Carroll Brooks.
 Alex a 22 ans et aspire à de grandes œuvres. Pour inspirer ses écrits, il espionne les amoureux la nuit, dans Paris. Un jour, il rencontre une femme suicidaire, aussi solitaire que lui. Ils vivront une histoire d'amour insolite et dramatique.  
 Restauration supervisée par Caroline Champetier, réalisée par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, l'Institut audiovisuel de Monaco et le soutien du CNC et de la maison CHANEL. Numérisation et restauration en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022.
 
-- di 12 mar 17h30 HL
+- di 12 mar 17h30 HL  
+Séance présentée par Caroline Champetier
 
 [53149]  
 **Brumes d'automne**  
@@ -33,7 +34,7 @@ Une femme au visage triste brûle des lettres, et part se promener dans une natu
 Restauration 4K en 2022 par Lobster Films et la Cinémathèque française avec le soutien du CNC. Travaux réalisés au laboratoire Lobster et au studio L.E. Diapason, à partir des négatifs image et son originaux et d'un interpostif sonore conservés à la Cinémathèque française.
 
 - di 12 mar 14h30 HO  
-Accompagnement musical par Improvisation Jean-François Zygel Classe  
+Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Samantha Leroy  
 Film suivi de _Ménilmontant_ de Dimitri Kirsanoff
 
 [35682]  
@@ -69,7 +70,8 @@ Avec Sacha Guitry, Lana Marconi, Jacques Baumer, Pauline Carton.
 Biographie du comédien de théâtre Lucien Guitry, joué par son fils réalisateur Sacha, qui propose une réflexion poétique sur l'amour des deux hommes pour l'art.  
 Présentation de TF1 Studio. Nouvelle version restaurée en 4K par TF1 Studio, avec le soutien du CNC, à partir du négatif image nitrate original, d'un marron nitrate et d'un négatif son nitrate. Travaux numériques et photochimiques réalisés par le laboratoire Hiventy en 2022.
 
-- me 8 mar 19h00 GF
+- me 8 mar 19h00 GF  
+Séance présentée par Noël Herpe
 
 [45643]  
 **Danse macabre**  
@@ -81,7 +83,8 @@ Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.
 Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
 Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Eclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
 
-- je 9 mar 18h30 GF
+- je 9 mar 18h30 GF  
+Séance présentée par Jean-François Rauger
 
 [133965]  
 **Deux amies**  
@@ -91,7 +94,6 @@ Publicité de la crème Simon.
 Restauration numérique effectuée par le CNC à partir d'une copie unique originale nitrate.
 
 - ve 10 mar 16h30 GF  
-Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff et suivi de de _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [47122]  
@@ -102,7 +104,8 @@ Avec Antoine Monnier, Tina Irissari, Henri de Maublanc.
 Quatre adolescents en révolte forment un petit groupe écologiste qui se préoccupe de l'avenir du monde. Michel, militant, cherche à lutter avec ses modestes moyens, tandis que Charles, dégouté par la société, refuse l'engagement.  
 Restauration en 4K par Gaumont au laboratoire Éclair.
 
-- je 9 mar 17h00 HL
+- je 9 mar 17h00 HL  
+Séance présentée par Jean-Charles Fitoussi
 
 [43206]  
 **Le Dieu noir et le Diable blond**  
@@ -133,7 +136,8 @@ Avec Philippe Suner, Pia Camilla Copper, Marie Henriau.
 Edouard invite Diana à passer un week-end chez Gilbert, ancien soixante-huitard vivant dans une vallée de la montagne Noire entre l'Aude et le Tarn. Il tente de séduire Diana, et découvre que Gilbert est peut-être son père.  
 Restauration pour la Traverse par Cosmodigital et L.E. Diapason, avec le soutien du Centre national du cinéma.
 
-- je 9 mar 16h30 GF
+- je 9 mar 16h30 GF  
+Séance présentée par Arnaud Larrieu et Jean-Marie Larrieu
 
 [36638]  
 **Folies de femmes**  
@@ -145,7 +149,7 @@ Aidé de ses deux complices féminines, Karamzin, faux aristocrate russe, s'inst
 Restauration par le San Francisco Silent Film Festival, à partir d'une copie nitrate 35 mm de la Cineteca Italiana de Milan, et d'une copie 35 mm du Museum of Modern Art de New York. Teintages et virages réalisés selon les conventions de colorisation d'Universal de l'époque. Pour réaliser les effets colorisés à la main, les équipes se sont référé à des revues contemporaines et à un article de presse spécialisée écrit par le coloriste d'origine, Gustav Brock.
 
 - ve 10 mar 20h30 HO  
-Séance présentée par Stéphane Goudet
+Séance présentée par Robert Byrne
 
 [154285]  
 **Histoire de la guerre civile**  
@@ -164,7 +168,6 @@ France / 1934 / 10 min / DCP
 Le Japon, représenté par un soldat, s'approche d'un Chinois et lui coupe un pan de sa tunique symbolisant la Mandchourie. Le Chinois court se plaindre à la Société des nations. Mais celle-ci n'est qu'un décor en carton-pâte.
 
 - ve 10 mar 16h30 GF  
-Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker et suivi de de _L'Idée_ de Berthold Bartosch
 
 [154262]  
@@ -175,7 +178,6 @@ Publicité de l'huile d'arachide de Rufisque conditionnée à la grande huilerie
 Restauration numérique effectuée par le CNC à partir des négatifs nitrate originaux, image et son conservés et mis à disposition par le BFI.
 
 - ve 10 mar 16h30 GF  
-Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff et suivi de de _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [46609]  
@@ -186,7 +188,6 @@ Sous un ciel étoilé, un homme pense. La silhouette lumineuse d'une femme nue a
 Restauration numérique image et son effectuée par le CNC, la Cinémathèque suisse et les laboratoires Hiventy, à partir d'une copie originale nitrate conservée et mis à disposition par le BFI, d'un scan réalisé par la Cinémathèque suisse d'une copie originale nitrate issue de leur collection et complétée par un contretype safety 35mm, appartenant à l'AFCA, ayant droit du film et conservé par le CNC.
 
 - ve 10 mar 16h30 GF  
-Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch
 
 [56580]  
@@ -230,8 +231,7 @@ Avec Danielle Darrieux, Micheline Presle, Paulette Dubost, Michel Galabru.
 Trois vieilles sœurs se réunissent tous les dimanches. Pour l'épiphanie, le programme est chargé : cimetière, restaurant chinois, galette des rois, puis aller voir une troupe comique du troisième âge dans laquelle joue la quatrième sœur marginale.  
 Scan et restauration en 4K en 2022 par les Films du Losange, avec le soutien du CNC, par Lobster Films pour l'image et par Léon Rousseau-L.E. Diapason pour le son.
 
-- sa 11 mar 20h00 JE  
-Séance présentée par Marie-Claude Treilhou
+- sa 11 mar 20h00 JE
 
 [39284]  
 **Manolesco prince des poètes**  
@@ -243,7 +243,7 @@ Un séducteur parisien tombe amoureux d'une femme de la haute société. Il se m
 Restauration en 2018 par la Friedrich-Wilhelm-Murnau-Stiftung, numérisation en 4K à L'Immagine Ritrovata, à partir de deux négatifs d'origine, et de fragments de copies de post-production. Avec le soutien du Beauftragte der Bundesregierung für Kultur und Medien et du Freunde und Förderer des deutschen Filmerbes e.V.
 
 - sa 11 mar 18h00 HO  
-Accompagnement musical par Improvisation Jean-François Zygel Classe
+Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Luciano Palumbo
 
 [51955]  
 **Mauvais sang**  
@@ -254,7 +254,7 @@ La population parisienne est frappée par un virus tuant ceux qui font l'amour s
 Restauration supervisée par Caroline Champetier, par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, la Cinémathèque de Toulouse, l'Institut audiovisuel de Monaco ainsi que le soutien du CNC et de la Maison CHANEL. Numérisation en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022. Restauration numérique réalisée par les laboratoires Éclair Classics et Amazing Digital Studios. Étalonnage réalisé par Frédéric Savoir chez Amazing Digital Studios.
 
 - di 12 mar 14h00 HL  
-Séance suivie d'une discussion avec Leos Carax  
+Séance présentée par Caroline Champetier  
 Voir aussi dialogue p. xx
 
 [102657]  
@@ -266,7 +266,7 @@ Après l'assassinat de leurs parents, deux jeunes sœurs très unies quittent la
 Restauration 4K en 2022 par Lobster Film et la Cinémathèque française, avec le soutien du CNC. Travaux menés au laboratoire Lobster à partir d'une copie nitrate originale teintée du BFI et d'un contretype des collections de la Cinémathèque française. Un plan supplémentaire est extrait d'une copie nitrate fragmentaire de la Cinémathèque française.
 
 - di 12 mar 14h30 HO  
-Accompagnement musical par Improvisation Jean-François Zygel Classe  
+Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Samantha Leroy  
 Film précédé de _Brumes d'automne_ de Dimitri Kirsanoff
 
 [39347]  
@@ -277,7 +277,8 @@ Avec Clémentine Amouroux, Catherine Rétoré, Franziskus Abgottspon.
 Deux jeunes auto-stoppeuses issues de milieux très différents partent sur les routes de Suisse, pour échapper à leurs vies insatisfaisantes. Elles s'emparent du pistolet d'un officier, et sont bientôt recherchées par la police.  
 Restauration par Florian Leupin pour filmo-Verein CH. Film, en collaboration avec DNA Films SA, l'Association Alain Tanner et la Cinémathèque suisse, aux laboratoires Color Grade, Masé Studios et Cinegrell.
 
-- je 9 mar 21h00 HO
+- je 9 mar 21h00 HO  
+Séance présentée par Caroline Fournier
 
 [128743]  
 **Le Miroir de la sorcière**  
@@ -309,7 +310,6 @@ France / 1936 / 1 min / DCP
 Publicité de la crème Simon.
 
 - ve 10 mar 16h30 GF  
-Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film suivi d'_Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [36243]  
@@ -334,7 +334,8 @@ Avec Walter Matthau, Henry Fonda, Dan O'Herlihy.
 En pleine guerre froide, à la suite d'une erreur technique, un groupe de bombardiers nord-américains reçoit l'ordre de lancer une attaque nucléaire contre Moscou.  
 Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35 mm d'origine. Transfert supervisé par Grover Crisp, travail de couleur effectué par Sheri Eisenberg et Roundabout Entertainment. Bande sonore mono remasterisée à Deluxe (Hollywood), sous la supervision de Bob Simmons.
 
-- me 8 mar 14h00 JE
+- me 8 mar 14h00 JE  
+Séance présentée par Marthe Rolland
 
 [36021]  
 **Raging Bull**  
@@ -345,7 +346,8 @@ Avec Robert De Niro, Cathy Moriarty, Joe Pesci.
 Les moments forts et le déclin de la carrière flamboyante de Jack LaMotta, champion de boxe poids moyen. Issu d'un milieu modeste, il fut le héros de combats mythiques, notamment contre Sugar Ray Robinson et Marcel Cerdan.  
 Nouvelle restauration 4K, approuvée par Martin Scorsese, réalisée avec un scanner Lasergraphics Director, à partir d'une copie 35 mm d'un négatif d'origine. Transfert supervisé par Thelma Schoonmaker, et colorisation par Gregg Garvin et Roundabout Entertainment. Bande sonore remasterisée à partir de la bande magnétique trois pistes 35 mm d'origine.
 
-- je 9 mar 14h00 HL
+- je 9 mar 14h00 HL  
+Séance présentée par Bernard Benoliel
 
 [47378]  
 **Rien que les heures**  
@@ -356,7 +358,7 @@ Une des premières symphonies urbaines, promenade à travers Paris, des premièr
 Restauration 4K en 2022 par Les Films du Panthéon, avec le soutien du CNC et de la Cinémathèque française, en collaboration avec Les Films du Jeudi, le EYE Filmmuseum et le BFI National Archive. Travaux réalisés au laboratoire Hiventy à partir d'une copie teintée conservée au Eye Filmmuseum, d'une copie teintée du BFI conservée au CNC et d'un contretype du BFI.
 
 - je 9 mar 14h30 GF  
-Accompagnement musical par Mauro Coceano. Séance présentée par Laurence Braunberger
+Accompagnement musical par Mauro Coceano. Séance présentée par Hervé Pichard et Laurence Braunberger
 
 [57342]  
 **S'en fout la mort**  
@@ -387,8 +389,7 @@ de Fran Rubel Kuzui
 Avec Carrie Hamilton, Diamond Yukai, Taiji Tonoyama.  
 Chanteuse désabusée, Wendy décide de tout plaquer. Elle part à Tokyo, dans l'espoir de réaliser son rêve de rock star.
 
-- je 9 mar 20h30 JE  
-Séance présentée par Alexis Langlois
+- je 9 mar 20h30 JE
 
 [46339]  
 **Une nuit sur le mont Chauve**  
@@ -398,7 +399,6 @@ Au temps des tsars, magiciennes et enchanteurs se réunissent pendant le solstic
 Restauration numérique image et son effectuée par le CNC à partir d'une copie originale nitrate conservées et mis à disposition par le BFI et complétée par une copie originale nitrate conservée par le CNC
 
 - ve 10 mar 16h30 GF  
-Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff et suivi de de _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [85386]  
@@ -410,7 +410,7 @@ Mabel, l'ancienne petite-amie de Gary Ainsworth, menace de révéler leur relati
 Numérisation par UCLA Film and Television Archive.
 
 - di 12 mar 14h30 GF  
-Accompagnement musical par Günter A. Buchwald, Frank Bockius et Mirko Cisilino
+Accompagnement musical par Günter A. Buchwald, Frank Bockius et Mirko Cisilino. Séance présentée par Jean-François Rauger
 
 [59352]  
 **Viva la muerte**  
