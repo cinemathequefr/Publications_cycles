@@ -1,4 +1,4 @@
-# Sept œuvres majeures du Maghreb
+# Six œuvres majeures du Maghreb
 
 ## Les films
 

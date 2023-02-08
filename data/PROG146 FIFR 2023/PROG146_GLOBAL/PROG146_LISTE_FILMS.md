@@ -29,14 +29,6 @@
   * Land of Nairi  
   * Maison sur le volcan (La)
 
-## Hommage au BFI (5)
-
-  * Friendship's Death  
-  * Love  
-  * Naked  
-  * Ne pas avaler  
-  * Vie privée d'Henry VIII (La)
-
 ## Joel Coen, parrain du festival (12)
 
   * A Serious Man  
@@ -117,11 +109,19 @@
   * Viva la muerte  
   * Vues au pochoir : villes d'Europe années 1920 en Pathécolor
 
-## Sept œuvres majeures du Maghreb (6)
+## Six œuvres majeures du Maghreb (6)
 
   * Bab'Aziz, le prince qui contemplait son âme  
   * Baliseurs du désert (Les)  
   * Chronique des années de braise  
   * Collier perdu de la colombe (Le)  
   * De quelques événements sans signification  
-  * Une porte sur le ciel  
+  * Une porte sur le ciel
+
+## This Is England! (5)
+
+  * Friendship's Death  
+  * Love  
+  * Naked  
+  * Ne pas avaler  
+  * Vie privée d'Henry VIII (La)  

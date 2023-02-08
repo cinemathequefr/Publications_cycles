@@ -443,8 +443,8 @@ Film précédé de _Le Nabab_ d'Albert Capellani
 
 **Dialogue avec Leos Carax et Kiyoshi Kurosawa**  
 Rencontre animée par Frédéric Bonnaud  
-**Le Festival** **_Toute la mémoire du monde_** **présentera deux restaurations de** **_Boy Meets Girl_** **(1984) et de** **_Mauvais sang_** **(1986), supervisées par Caroline Champetier, directrice de la photographie.** **En présence de Leos Carax.** Films emblématiques et punk de la fin des années 1980, _Boy Meets Girl_ et _Mauvais Sang_ lancent la trajectoire de Carax, une filmographie qui sera traversée par ses visions de l'amour fou et tragique, ainsi que par une transfiguration de la vie diurne et nocturne dans les grandes villes, de Paris à Tokyo : _Les Amants du Pont-Neuf_, _Tokyo !_, _Pola X_. En 2012 (_Holy Motors_) et en 2021 (_Annette_), il signe deux autres films hors des sentiers battus, et qui apparaissent comme les manifestes d'une croyance indéfectible dans les puissances du cinéma.  
-**Frédéric Bonnaud** est directeur général de la Cinémathèque française.
+Le Festival Toute la mémoire du monde présentera en présence de Leos Carax les restaurations de _Boy Meets Girl_ (1984) et de _Mauvais sang_ (1986), supervisées par Caroline Champetier, directrice de la photographie. Films emblématiques et punk de la fin des années 1980, _Boy Meets Girl_ et _Mauvais Sang_ lancent la trajectoire de Carax, une filmographie qui sera traversée par ses visions de l'amour fou et tragique, ainsi que par une transfiguration de la vie diurne et nocturne dans les grandes villes, de Paris à Tokyo : _Les Amants du Pont-Neuf_, _Tokyo !_, _Pola X_. En 2012 (_Holy Motors_) et en 2021 (_Annette_), il signe deux autres films hors des sentiers battus, et qui apparaissent comme les manifestes d'une croyance indéfectible dans les puissances du cinéma.  
+Frédéric Bonnaud est directeur général de la Cinémathèque française.
 
 - di 12 mar 14h00 HL  
 À la suite de la projection de _Mauvais sang_ de Leos Carax (voir p. xx)

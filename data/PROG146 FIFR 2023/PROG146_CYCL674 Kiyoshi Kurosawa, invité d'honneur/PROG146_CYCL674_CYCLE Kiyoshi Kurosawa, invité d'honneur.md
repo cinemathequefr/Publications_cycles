@@ -41,11 +41,11 @@ Séance présentée par Kiyoshi Kurosawa
 **(Kyua)**  
 de Kiyoshi Kurosawa  
 Japon / 1997 / 111 min / VOSTF / DCP  
-Avec Koji Yakusho, Tsuyoshi Ujiki, Anna Nakagawa.  
+Avec Kōji Yakusho, Masato Hagiwara, Tsuyoshi Ujiki, Anna Nakagawa.  
 Un officier de police enquête sur une série de meurtres. Sur le lieu du dernier crime est arrêté un jeune homme possédant d'étranges pouvoirs.
 
 - sa 11 mar 19h00 HL  
-Voir aussi masterclass p. xx
+Voir aussi master class p. xx
 
 [71777]  
 **Spontaneous Combustion**  
@@ -59,11 +59,11 @@ Séance présentée par Kiyoshi Kurosawa
 
 ## Rencontres et conférences
 
-**Masterclass Kiyoshi Kurosawa**  
+**Master class de Kiyoshi Kurosawa**  
 Rencontre animée par Jean-François Rauger  
-**À l'issue de la projection de** **_Cure_** **(1997), Kiyoshi Kurosawa reviendra sur le film ainsi que sur l'ensemble de sa carrière.**  
-**Jean-François Rauger** est directeur de la programmation à la Cinémathèque française.  
-Figure décisive du cinéma d'horreur contemporain, au croisement des peurs ancestrales et de celles nées de l'avènement de nouvelles technologies (spectres et _Yokai_ issus des contes traditionnels japonais, serial killers, hommes-cyborgs...), Kiyoshi Kurosawa débute dans la série B et les films d'exploitation avant de gagner une reconnaissance internationale depuis les années 1990, jusqu'à aujourd'hui : _Cure_, _Charisma_, _Kaïro_, _Shokuzai_, _Invasion_, _Les Amants sacrifiés..._ En 2012, la Cinémathèque française lui avait consacré une rétrospective.
+À l'issue de la projection de _Cure_ (1997), Kiyoshi Kurosawa reviendra sur le film ainsi que sur l'ensemble de sa carrière.  
+Jean-François Rauger est directeur de la programmation à la Cinémathèque française.  
+Figure décisive du cinéma d'horreur contemporain, au croisement des peurs ancestrales et de celles nées de l'avènement de nouvelles technologies (spectres et _yokai_ issus des contes traditionnels japonais, serial killers, hommes-cyborgs...), Kiyoshi Kurosawa débute dans la série B et les films d'exploitation avant de gagner une reconnaissance internationale depuis les années 1990, jusqu'à aujourd'hui : _Cure_, _Charisma_, _Kaïro_, _Shokuzai_, _Invasion_, _Les Amants sacrifiés_... En 2012, la Cinémathèque française lui avait consacré une rétrospective.
 
 - sa 11 mar 19h00 HL  
 À la suite de la projection de _Cure_ de Kiyoshi Kurosawa (voir p. xx)
