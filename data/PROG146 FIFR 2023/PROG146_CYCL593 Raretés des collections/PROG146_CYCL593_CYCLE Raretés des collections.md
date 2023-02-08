@@ -34,7 +34,7 @@ Ghérasim Luca, auteur d'origine roumaine, a marqué le champ de la poésie sono
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française.
 
 - sa 11 mar 17h45 JE  
-Séance présentée par Emilie Cauquy  
+Séance présentée par Thomas Gabison et Emilie Cauquy  
 Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage, _Crossroads_ de Bruce Conner
 
 [130509]  
@@ -44,7 +44,7 @@ de Bruce Conner
 En pleine guerre froide, Conner montre l'explosion nucléaire test de 1945 sur l'atoll de Bikini sous 27 angles différents, dans un ralenti extrême, et accompagnée par les compositions sonores avant-gardistes de Patrick Gleeson et Terry Riley.
 
 - sa 11 mar 17h45 JE  
-Séance présentée par Emilie Cauquy  
+Séance présentée par Thomas Gabison et Emilie Cauquy  
 Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage et suivi de de _Comment s'en sortir sans sortir_ de Raoul Sangla
 
 [135109]  
@@ -101,7 +101,7 @@ de Lee Savage
 Dans ce dessin animé indépendant, ni validé ni produit par Disney, Mickey s'engage dans l'armée américaine et se rend au Vietnam en bateau durant la guerre. Quelques instants après son arrivée, il est tué d'une balle dans la tête.
 
 - sa 11 mar 17h45 JE  
-Séance présentée par Emilie Cauquy  
+Séance présentée par Thomas Gabison et Emilie Cauquy  
 Film suivi de _Crossroads_ de Bruce Conner, _Comment s'en sortir sans sortir_ de Raoul Sangla
 
 [84569]  

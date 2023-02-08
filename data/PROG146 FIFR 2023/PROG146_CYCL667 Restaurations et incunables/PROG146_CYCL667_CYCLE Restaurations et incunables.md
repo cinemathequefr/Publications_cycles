@@ -11,6 +11,7 @@ Avec River Phoenix, Judd Hirsch, Christine Lahti, Martha Plimpton.
 Traqués par la police pour avoir fait sauter une usine de napalm en protestation contre la guerre au Vietnam, Arthur et Annie Pope vivent dans la clandestinité. Leur fils se révolte contre cette vie qu'il n'a pas choisie.
 
 - ve 10 mar 14h00 JE  
+Séance présentée par Olivier Snanoudj  
 - sa 11 mar 20h30 HO  
 Séance suivie d'une discussion avec Bernard Benoliel
 
@@ -34,7 +35,7 @@ Une femme au visage triste brûle des lettres, et part se promener dans une natu
 Restauration 4K en 2022 par Lobster Films et la Cinémathèque française avec le soutien du CNC. Travaux réalisés au laboratoire Lobster et au studio L.E. Diapason, à partir des négatifs image et son originaux et d'un interpostif sonore conservés à la Cinémathèque française.
 
 - di 12 mar 14h30 HO  
-Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Samantha Leroy  
+Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Samantha Leroy et Emmanuelle Berthault  
 Film suivi de _Ménilmontant_ de Dimitri Kirsanoff
 
 [35682]  
@@ -94,6 +95,7 @@ Publicité de la crème Simon.
 Restauration numérique effectuée par le CNC à partir d'une copie unique originale nitrate.
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff et suivi de de _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [47122]  
@@ -168,6 +170,7 @@ France / 1934 / 10 min / DCP
 Le Japon, représenté par un soldat, s'approche d'un Chinois et lui coupe un pan de sa tunique symbolisant la Mandchourie. Le Chinois court se plaindre à la Société des nations. Mais celle-ci n'est qu'un décor en carton-pâte.
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker et suivi de de _L'Idée_ de Berthold Bartosch
 
 [154262]  
@@ -178,6 +181,7 @@ Publicité de l'huile d'arachide de Rufisque conditionnée à la grande huilerie
 Restauration numérique effectuée par le CNC à partir des négatifs nitrate originaux, image et son conservés et mis à disposition par le BFI.
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff et suivi de de _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [46609]  
@@ -188,6 +192,7 @@ Sous un ciel étoilé, un homme pense. La silhouette lumineuse d'une femme nue a
 Restauration numérique image et son effectuée par le CNC, la Cinémathèque suisse et les laboratoires Hiventy, à partir d'une copie originale nitrate conservée et mis à disposition par le BFI, d'un scan réalisé par la Cinémathèque suisse d'une copie originale nitrate issue de leur collection et complétée par un contretype safety 35mm, appartenant à l'AFCA, ayant droit du film et conservé par le CNC.
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff, _Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch
 
 [56580]  
@@ -266,7 +271,7 @@ Après l'assassinat de leurs parents, deux jeunes sœurs très unies quittent la
 Restauration 4K en 2022 par Lobster Film et la Cinémathèque française, avec le soutien du CNC. Travaux menés au laboratoire Lobster à partir d'une copie nitrate originale teintée du BFI et d'un contretype des collections de la Cinémathèque française. Un plan supplémentaire est extrait d'une copie nitrate fragmentaire de la Cinémathèque française.
 
 - di 12 mar 14h30 HO  
-Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Samantha Leroy  
+Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Samantha Leroy et Emmanuelle Berthault  
 Film précédé de _Brumes d'automne_ de Dimitri Kirsanoff
 
 [39347]  
@@ -310,6 +315,7 @@ France / 1936 / 1 min / DCP
 Publicité de la crème Simon.
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film suivi d'_Une nuit sur le mont Chauve_ d'Alexandre Alexeieff, _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [36243]  
@@ -334,8 +340,7 @@ Avec Walter Matthau, Henry Fonda, Dan O'Herlihy.
 En pleine guerre froide, à la suite d'une erreur technique, un groupe de bombardiers nord-américains reçoit l'ordre de lancer une attaque nucléaire contre Moscou.  
 Restauration 4K réalisée par Sony au laboratoire Cineric à partir du négatif 35 mm d'origine. Transfert supervisé par Grover Crisp, travail de couleur effectué par Sheri Eisenberg et Roundabout Entertainment. Bande sonore mono remasterisée à Deluxe (Hollywood), sous la supervision de Bob Simmons.
 
-- me 8 mar 14h00 JE  
-Séance présentée par Marthe Rolland
+- me 8 mar 14h00 JE
 
 [36021]  
 **Raging Bull**  
@@ -399,6 +404,7 @@ Au temps des tsars, magiciennes et enchanteurs se réunissent pendant le solstic
 Restauration numérique image et son effectuée par le CNC à partir d'une copie originale nitrate conservées et mis à disposition par le BFI et complétée par une copie originale nitrate conservée par le CNC
 
 - ve 10 mar 16h30 GF  
+Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero  
 Film précédé de _Naissance de Vénus_ d'Alexandre Alexeieff et suivi de de _Deux amies_ d'Alexandre Alexeieff, _Huilor Le Rayon vert_ d'Alexandre Alexeieff, Claire Parker, _Histoire sans paroles_ de Bogdan Zoubowitch, _L'Idée_ de Berthold Bartosch
 
 [85386]  
@@ -435,7 +441,7 @@ Film précédé de _Le Nabab_ d'Albert Capellani
 
 ## Rencontres et conférences
 
-**Dialogue avec Leos Carax**  
+**Dialogue avec Leos Carax et Kiyoshi Kurosawa**  
 Rencontre animée par Frédéric Bonnaud  
 **Le Festival** **_Toute la mémoire du monde_** **présentera deux restaurations de** **_Boy Meets Girl_** **(1984) et de** **_Mauvais sang_** **(1986), supervisées par Caroline Champetier, directrice de la photographie.** **En présence de Leos Carax.** Films emblématiques et punk de la fin des années 1980, _Boy Meets Girl_ et _Mauvais Sang_ lancent la trajectoire de Carax, une filmographie qui sera traversée par ses visions de l'amour fou et tragique, ainsi que par une transfiguration de la vie diurne et nocturne dans les grandes villes, de Paris à Tokyo : _Les Amants du Pont-Neuf_, _Tokyo !_, _Pola X_. En 2012 (_Holy Motors_) et en 2021 (_Annette_), il signe deux autres films hors des sentiers battus, et qui apparaissent comme les manifestes d'une croyance indéfectible dans les puissances du cinéma.  
 **Frédéric Bonnaud** est directeur général de la Cinémathèque française.

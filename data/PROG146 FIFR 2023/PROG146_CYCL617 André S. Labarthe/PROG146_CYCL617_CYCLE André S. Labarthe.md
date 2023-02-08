@@ -71,7 +71,7 @@ Cinéaste de la violence, Samuel Fuller raconte en vingt-trois chapitres une his
 Épisode de la collection _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
 - di 12 mar 15h30 JE  
-Séance présentée par Brice Amouroux
+Séance présentée par Brice Amouroux et Frédéric Bonnaud
 
 [154274]  
 **Deneuve, revue de détails**  
@@ -97,7 +97,7 @@ Portrait en neuf chapitres, qui sont autant de facettes du cinéaste. Les entret
 Épisode de la collection _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
 - di 12 mar 13h15 JE  
-Séance présentée par Brice Amouroux
+Séance présentée par Brice Amouroux et Frédéric Bonnaud
 
 [154272]  
 **Franju, l'avion et la DS**  

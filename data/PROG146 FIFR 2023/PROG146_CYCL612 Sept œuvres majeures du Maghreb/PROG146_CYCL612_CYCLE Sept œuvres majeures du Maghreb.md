@@ -60,7 +60,7 @@ Une équipe de cinéastes interroge de jeunes Casablancais sur leurs attentes et
 Restauration en 2019 par la Filmoteca de Catalunya et l'Observatoire (Casablanca).
 
 - ve 10 mar 19h30 JE  
-Séance présentée par Léa Morin et Marie-Pierre Bouthier
+Séance présentée par Léa Morin
 
 [64888]  
 **Une porte sur le ciel**  
@@ -71,7 +71,6 @@ Avec Zakia Tahiri, Châaibia Adraoui, Eva Saint-Paul, Ahmed Bouanani.
 Revenue à Fès, capitale historique et spirituelle du Maroc, pour le deuil de son père, une jeune Franco-Marocaine y fonde la « zaouia des femmes », à la fois sanctuaire religieux, lieu de pèlerinage et refuge pour femmes en détresse.  
 Restauration par le Transnational Moroccan Cinema Project – University of Exeter (Royaume-Uni), le Centre du cinéma marocain et Dragon DI (Royaume-Uni).
 
-- me 8 mar 16h30 JE  
-Séance présentée par Marie-Pierre Bouthier et Léa Morin
+- me 8 mar 16h30 JE
 
 Remerciements : Le Maghreb des films, Gérard Vaugeois.
