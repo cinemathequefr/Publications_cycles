@@ -40,11 +40,9 @@ Film suivi de _Ménilmontant_ de Dimitri Kirsanoff
 **Buck et son complice**  
 **(Buck and the Preacher)**  
 de Sidney Poitier  
-États-Unis / 1971 / 103 min / VOSTF / DCP  
+États-Unis / 1972 / 103 min / VOSTF / DCP  
 Avec Sidney Poitier, Harry Belafonte, Ruby Dee.  
-Après la guerre de Sécession, un ancien sergent de l'Union et un prédicateur escroc guident un groupe d'esclaves affranchis pour passer la frontière. Ils sont attaqués par d'anciens esclavagistes devenus agents de main-d'œuvre bon marché.  
-En avant-première parisienne en vue de sa ressortie en salles.
-
+Après la guerre de Sécession, Buck, un ancien sergent de l'Union, guide un groupe d'esclaves affranchis vers les territoires où ils pourront s'établir. Des hommes de main de leurs anciens maîtres les attaquent pour les ramener de force en Louisiane.  
 Restauration 4K réalisée en 2022 par Sony à partir du négatif 35 mm d'origine, au laboratoire Cineric. Correction couleur effectuée par MTI.
 
 - je 9 mar 14h30 JE
@@ -52,7 +50,7 @@ Restauration 4K réalisée en 2022 par Sony à partir du négatif 35 mm d'origin
 [50856]  
 **Le Caporal épinglé**  
 de Jean Renoir  
-France / 1961 / 105 min / DCP  
+France / 1962 / 105 min / DCP  
 D'après le roman _Le Caporal épinglé_ de Jacques Perret.  
 Avec Jean-Pierre Cassel, Claude Brasseur, Claude Rich, Jean Carmet.  
 En 1940, prisonniers de guerre dans un stalag allemand, le Caporal et Peter tentent, de façon aussi répétée qu'infructueuse, de s'évader.  
@@ -65,7 +63,7 @@ Séance présentée par Jean-François Rauger
 [49089]  
 **Le Comédien**  
 de Sacha Guitry  
-France / 1947 / 95 min / DCP  
+France / 1948 / 95 min / DCP  
 D'après la pièce _Le Comédien_ de Sacha Guitry.  
 Avec Sacha Guitry, Lana Marconi, Jacques Baumer, Pauline Carton.  
 Biographie du comédien de théâtre Lucien Guitry, joué par son fils réalisateur Sacha, qui propose une réflexion poétique sur l'amour des deux hommes pour l'art.  
@@ -157,8 +155,7 @@ En pleine guerre civile russe, Vertov filme des figures emblématiques du gouver
 Restauration par Nikolai Izvolov à partir d'une description du film faite par Grigory Boltyansky conservée à l'Archive of Literature and Art in Moscow, et d'éléments du matériel d'origine 35 mm conservés dans différentes archives.
 
 - ve 10 mar 18h00 GF  
-Séance suivie d'une discussion avec Nikolaï Izvolov. Accompagnement musical par Gabriel Cazes et Nicolas Giraud  
-Voir aussi dialogue p. xx
+Accompagnement musical par Gabriel Cazes et Nicolas Giraud. Séance présentée par Bernard Eisenschitz
 
 [130691]  
 **Histoire sans paroles**  
@@ -359,7 +356,7 @@ Une des premières symphonies urbaines, promenade à travers Paris, des premièr
 Restauration 4K en 2022 par Les Films du Panthéon, avec le soutien du CNC et de la Cinémathèque française, en collaboration avec Les Films du Jeudi, le EYE Filmmuseum et le BFI National Archive. Travaux réalisés au laboratoire Hiventy à partir d'une copie teintée conservée au Eye Filmmuseum, d'une copie teintée du BFI conservée au CNC et d'un contretype du BFI.
 
 - je 9 mar 14h30 GF  
-Accompagnement musical par Mauro Coceano
+Accompagnement musical par Mauro Coceano. Séance présentée par Laurence Braunberger
 
 [57342]  
 **S'en fout la mort**  
@@ -437,12 +434,6 @@ Accompagnement musical par Bruno Angelini, Catherine Delaunay et Vincent Courtoi
 Film précédé de _Le Nabab_ d'Albert Capellani
 
 ## Rencontres et conférences
-
-**Dialogue avec Nicolaî Isvolov**  
-Rencontre animée par Bernard Eisenschitz
-
-- ve 10 mar 18h00 GF  
-À la suite de la projection de _Histoire de la guerre civile_ de Dziga Vertov (voir p. xx)
 
 **Dialogue avec Leos Carax**  
 Rencontre animée par Frédéric Bonnaud  

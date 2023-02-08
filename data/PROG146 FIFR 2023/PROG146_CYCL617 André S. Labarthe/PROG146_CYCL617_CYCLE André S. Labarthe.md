@@ -15,7 +15,7 @@ d'André S. Labarthe
 France / 1967 / 61 min / DCP  
 Avec Jean-Luc Godard, Fritz Lang.  
 Les questions improvisées du « bébé » français, Godard, au « dinosaure » allemand, Lang. Rencontre entre deux âges du cinémas, fascinés l'un par l'autre.  
-Épisode de la série _Cinéastes, de notre temps_. Numérisation et restauration par l'INA en 2K à partir du marron 16 mm noir et blanc et d'un son magnétique séparé.
+Épisode de la collection _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir du marron 16 mm noir et blanc et d'un son magnétique séparé.
 
 - di 12 mar 20h30 JE  
 - ve 24 mar 20h00 JE
@@ -25,7 +25,7 @@ Les questions improvisées du « bébé » français, Godard, au « dinosaure »
 d'André S. Labarthe  
 France / 1985 / 14 min  
 Avec Michelangelo Antonioni.  
-Michelangelo Antonioni visionne à la table de montage des extraits de son film _Profession : reporter_.  
+À la table de montage, Michelangelo Antonioni commente la célèbre dernière séquence de son film _Profession : reporter_.  
 Épisode de l'émission _Cinéma, cinémas_.  
 suivi de  
 [121598]  
@@ -66,7 +66,7 @@ d'André S. Labarthe
 France / 1967 / 68 min / DCP  
 Avec Samuel Fuller.  
 Cinéaste de la violence, Samuel Fuller raconte en vingt-trois chapitres une histoire américaine, avec la sécheresse qui caractérise son cinéma.  
-Épisode de la série _Cinéastes, de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
+Épisode de la collection _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
 - di 12 mar 15h30 JE  
 Séance présentée par Frédéric Bonnaud
@@ -81,7 +81,7 @@ Catherine Deneuve commente des passages de _L'Ève future_ de Villiers de l'Isle
 suivi de  
 [154273]  
 **Taxi Driver mis en pièces par Martin Scorsese**  
-**(Taxi Drive Broken Down by Martin Scorsese)**  
+**(Taxi Driver Broken Down by Martin Scorsese)**  
 d'André S. Labarthe  
 France / 1995 / 30 min  
 Martin Scorsese, à la table de montage, commente des extraits de _Taxi Driver_.  
@@ -92,7 +92,7 @@ d'André S. Labarthe
 France / 1970 / 52 min / DCP  
 Avec Jean-Pierre Melville.  
 Portrait en neuf chapitres, qui sont autant de facettes du cinéaste. Les entretiens sont illustrés d'extraits de ses films les plus célèbres.  
-Épisode de la série _Cinéastes, de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
+Épisode de la collection _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
 - di 12 mar 13h15 JE  
 Séance présentée par Frédéric Bonnaud
@@ -119,7 +119,7 @@ d'André S. Labarthe
 France / 1968 / 58 min / DCP  
 Avec Pierre Soulages, Andy Warhol, Brassaï, William Klein.  
 Documentaire sur l'utilisation de la couleur et du noir et blanc dans les arts contemporains à travers neuf artistes.  
-Épisode de la série _Cinéastes, de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
+Épisode de la série _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
 - ve 10 mar 17h30 HO
 
@@ -127,7 +127,7 @@ Documentaire sur l'utilisation de la couleur et du noir et blanc dans les arts c
 **L'Homme qui a vu l'homme qui a vu l'ours**  
 d'André S. Labarthe  
 France / 1987 / 106 min / DCP  
-Avec Laszlo Szabo, Ágnes Bánfalvy, Peter Bogdanovich, Henry Jaglom.  
+Avec László Szabó, Ágnes Bánfalvy, Peter Bogdanovich, Henry Jaglom.  
 Un cinéaste hongrois enquête sur les traces que Welles a laissées à Hollywood, maintenant l'ambiguïté entre le vrai et le faux.  
 Restauration par la Cinémathèque française, en collaboration avec Documentaire sur grand écran et Danielle Labarthe. Travaux de restauration image et son menés au laboratoire Lobster Films à partir du négatif original 16 mm et au Studio L. E. Diapason à partir de la bande magnétique 16 mm. Étalonnage réalisé par François Ede, avec la collaboration du chef opérateur du film, Jacques Audrain.
 
