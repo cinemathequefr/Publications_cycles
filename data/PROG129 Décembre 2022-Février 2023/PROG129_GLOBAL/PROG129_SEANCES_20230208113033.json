@@ -5850,6 +5850,32 @@
     "hashEvenement": "f40672"
   },
   {
+    "idSeance": 100670,
+    "idEvenement": 27820,
+    "dateHeure": "2023-02-01T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Gérardmer à Paris 2023",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 154309,
+        "titre": "Pietà",
+        "art": "La",
+        "realisateurs": "Eduardo Casanova",
+        "annee": 2022,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154309"
+  },
+  {
     "idSeance": 77615,
     "idEvenement": 25968,
     "dateHeure": "2023-02-01T20:30:00",
@@ -6515,18 +6541,14 @@
     "hashEvenement": "f34011"
   },
   {
-    "idSeance": 77796,
-    "idEvenement": 26786,
+    "idSeance": 100657,
+    "idEvenement": 27952,
     "dateHeure": "2023-02-08T15:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Jeune public",
-        "Courts métrages de Noël"
-      ],
-      [
-        "Jeune public",
-        "Ciné-spectacle 3-6 ans"
+        "Ma petite Cinémathèque"
       ]
     ],
     "items": [
@@ -6537,63 +6559,9 @@
         "annee": 2020,
         "duree": 49,
         "format": "DCP"
-      },
-      {
-        "idFilm": 88023,
-        "titre": "Déshabillage impossible",
-        "art": "Le",
-        "realisateurs": "Georges Méliès",
-        "annee": 1900
-      },
-      {
-        "idFilm": 154335,
-        "titre": "Promenade nocturne",
-        "realisateurs": "Lizete Upīte",
-        "annee": 2018,
-        "duree": 6,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154336,
-        "titre": "Éternité",
-        "realisateurs": "Anastasia Melikhova",
-        "annee": 2018,
-        "duree": 3,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154337,
-        "titre": "Elsa et la nuit",
-        "realisateurs": "Jöns Mellgren",
-        "annee": 2017,
-        "duree": 9,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154338,
-        "titre": "Premier tonnerre",
-        "realisateurs": "Anastasia Melikhova",
-        "annee": 2018,
-        "duree": 5,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 143197,
-        "titre": "Nuit chérie",
-        "realisateurs": "Lia Bertels",
-        "annee": 2018,
-        "duree": 14,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 142477,
-        "titre": "Moutons, loup et tasse de thé",
-        "realisateurs": "Marion Lacourt",
-        "annee": 2019,
-        "duree": 12
       }
     ],
-    "hashEvenement": "f145780f88023f154335f154336f154337f154338f143197f142477"
+    "hashEvenement": "f145780"
   },
   {
     "idSeance": 88040,
@@ -7114,28 +7082,17 @@
     "cycle": [
       [
         "Jeune public",
-        "Courts métrages de Noël"
-      ],
-      [
-        "Jeune public",
         "Ciné-spectacle 3-6 ans"
       ]
     ],
     "items": [
       {
-        "idFilm": 145780,
-        "titre": "Balades sous les étoiles",
-        "realisateurs": "Lizete Upīte, Anastasia Melikhova, Jöns Mellgren",
-        "annee": 2020,
-        "duree": 49,
-        "format": "DCP"
-      },
-      {
         "idFilm": 88023,
         "titre": "Déshabillage impossible",
         "art": "Le",
         "realisateurs": "Georges Méliès",
-        "annee": 1900
+        "annee": 1900,
+        "duree": 2
       },
       {
         "idFilm": 154335,
@@ -7162,30 +7119,15 @@
         "format": "DCP"
       },
       {
-        "idFilm": 154338,
-        "titre": "Premier tonnerre",
-        "realisateurs": "Anastasia Melikhova",
-        "annee": 2018,
-        "duree": 5,
-        "format": "DCP"
-      },
-      {
         "idFilm": 143197,
         "titre": "Nuit chérie",
         "realisateurs": "Lia Bertels",
         "annee": 2018,
         "duree": 14,
         "format": "DCP"
-      },
-      {
-        "idFilm": 142477,
-        "titre": "Moutons, loup et tasse de thé",
-        "realisateurs": "Marion Lacourt",
-        "annee": 2019,
-        "duree": 12
       }
     ],
-    "hashEvenement": "f145780f88023f154335f154336f154337f154338f143197f142477"
+    "hashEvenement": "f88023f154335f154336f154337f143197"
   },
   {
     "idSeance": 77937,
@@ -8069,14 +8011,6 @@
     "mention": "Séance suivie d'une discussion avec Samy Sidali",
     "items": [
       {
-        "idFilm": 154138,
-        "titre": "Jmar",
-        "realisateurs": "Samy Sidali",
-        "annee": 2020,
-        "duree": 20,
-        "format": "DCP"
-      },
-      {
         "idFilm": 154137,
         "titre": "AOC",
         "realisateurs": "Samy Sidali",
@@ -8092,9 +8026,17 @@
         "duree": 27,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idFilm": 154138,
+        "titre": "Jmar",
+        "realisateurs": "Samy Sidali",
+        "annee": 2020,
+        "duree": 20,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f154138f154137f154167"
+    "hashEvenement": "f154137f154167f154138"
   },
   {
     "idSeance": 100599,
@@ -8933,7 +8875,7 @@
         "annee": 2009,
         "duree": 117,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f107691"
@@ -8980,7 +8922,7 @@
         "realisateurs": "Bertrand Tavernier",
         "annee": 2004,
         "duree": 128,
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f94168"
@@ -9234,28 +9176,17 @@
     "cycle": [
       [
         "Jeune public",
-        "Courts métrages de Noël"
-      ],
-      [
-        "Jeune public",
         "Ciné-spectacle 3-6 ans"
       ]
     ],
     "items": [
       {
-        "idFilm": 145780,
-        "titre": "Balades sous les étoiles",
-        "realisateurs": "Lizete Upīte, Anastasia Melikhova, Jöns Mellgren",
-        "annee": 2020,
-        "duree": 49,
-        "format": "DCP"
-      },
-      {
         "idFilm": 88023,
         "titre": "Déshabillage impossible",
         "art": "Le",
         "realisateurs": "Georges Méliès",
-        "annee": 1900
+        "annee": 1900,
+        "duree": 2
       },
       {
         "idFilm": 154335,
@@ -9282,30 +9213,15 @@
         "format": "DCP"
       },
       {
-        "idFilm": 154338,
-        "titre": "Premier tonnerre",
-        "realisateurs": "Anastasia Melikhova",
-        "annee": 2018,
-        "duree": 5,
-        "format": "DCP"
-      },
-      {
         "idFilm": 143197,
         "titre": "Nuit chérie",
         "realisateurs": "Lia Bertels",
         "annee": 2018,
         "duree": 14,
         "format": "DCP"
-      },
-      {
-        "idFilm": 142477,
-        "titre": "Moutons, loup et tasse de thé",
-        "realisateurs": "Marion Lacourt",
-        "annee": 2019,
-        "duree": 12
       }
     ],
-    "hashEvenement": "f145780f88023f154335f154336f154337f154338f143197f142477"
+    "hashEvenement": "f88023f154335f154336f154337f143197"
   },
   {
     "idSeance": 88922,

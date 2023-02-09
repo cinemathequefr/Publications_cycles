@@ -18,8 +18,7 @@ Les questions improvisées du « bébé » français, Godard, au « dinosaure »
 Épisode de la collection _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir du marron 16 mm noir et blanc et d'un son magnétique séparé.
 
 - di 12 mar 20h30 JE  
-Séance présentée par Brice Amouroux  
-- ve 24 mar 20h00 JE
+Séance présentée par Brice Amouroux
 
 [121606]  
 **Antonioni, la dernière séquence**  

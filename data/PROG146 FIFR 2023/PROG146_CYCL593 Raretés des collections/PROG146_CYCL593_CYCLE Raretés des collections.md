@@ -69,6 +69,7 @@ Le film débute sur des plans à Venise, des passants saisis depuis une chambre 
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française à partir d'une copie 16 mm conservée dans ses collections.
 
 - je 9 mar 19h30 HO  
+Séance présentée par Jackie Raynal  
 Film précédé de _Home Movie : Tina Aumont_ de Frédéric Pardo, _Home Movie : New York_ de Frédéric Pardo
 
 [154289]  
@@ -80,6 +81,7 @@ Jackie Raynal et Tina Aumont dans Central Park. Vues depuis un appartement, depu
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservées dans les collections.
 
 - je 9 mar 19h30 HO  
+Séance présentée par Jackie Raynal  
 Film précédé de _Home Movie : Tina Aumont_ de Frédéric Pardo et suivi de de _Home Movie : Marrakech_ de Frédéric Pardo
 
 [154288]  
@@ -91,6 +93,7 @@ Montage de _found footage_ de fiction en italien et de plans de Tina Aumont et F
 Numérisation en 2K au laboratoire du CNC par la Cinémathèque française, à partir des copies 8 et 16 mm conservée dans les collections.
 
 - je 9 mar 19h30 HO  
+Séance présentée par Jackie Raynal  
 Film suivi de _Home Movie : New York_ de Frédéric Pardo, _Home Movie : Marrakech_ de Frédéric Pardo
 
 [139952]  

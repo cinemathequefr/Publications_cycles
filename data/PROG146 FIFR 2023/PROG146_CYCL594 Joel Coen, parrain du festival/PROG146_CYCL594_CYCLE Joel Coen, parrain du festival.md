@@ -98,7 +98,7 @@ Restauration en 4K de la version _director's cut_. Nouvelle restauration StudioC
 **The Tragedy of Macbeth**  
 de Joel Coen  
 États-Unis / 2021 / 105 min / VOSTF / DCP  
-D'après le pièce _Macbeth_ de William Shakespeare.  
+D'après la pièce _Macbeth_ de William Shakespeare.  
 Avec Denzel Washington, Frances McDormand, Brendan Gleeson.  
 Un seigneur écossais est convaincu par un trio de sorcières qu'il deviendra le prochain roi d'Écosse. Son ambitieuse épouse le soutient dans ses plans pour prendre le pouvoir.
 

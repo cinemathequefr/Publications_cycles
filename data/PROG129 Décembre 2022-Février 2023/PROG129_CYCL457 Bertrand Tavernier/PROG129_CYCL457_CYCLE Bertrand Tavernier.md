@@ -72,8 +72,7 @@ D'après le roman _Dans la brume électrique avec les morts confédérés _ de J
 Avec Tommy Lee Jones, John Goodman, Peter Sarsgaard.  
 New Iberia, Louisiane. L'inspecteur Dave Robicheaux est sur les traces d'un tueur en série qui s'attaque à de très jeunes femmes.
 
-- je 2 mar 19h30 HL  
-Séance présentée par Frédéric Bourboulon
+- je 2 mar 19h30 HL
 
 [64984]  
 **De l'autre côté du périph'**  
@@ -280,7 +279,7 @@ France / 2016 / 190 min / DCP
 Bertrand Tavernier revient, dans ce documentaire, sur le cinéma français qu'il aime.
 
 - sa 4 mar 18h30 GF  
-Séance présentée par Frédéric Bourboulon
+Séance présentée par Emmanuelle Sterpin
 
 ## Rencontres et conférences
 
