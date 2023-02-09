@@ -329,7 +329,8 @@ Avec Dana Andrews, Susan Hayward, Brian Donlevy, Hoggy Carmichael.
 En 1856, Logan Stuart escorte la fiancée de son ami vers Jacksonville dans l'Oregon. Au fil du voyage, ils s'éprennent l'un de l'autre.  
 Restauration en 4K par Cassandra Moor de Universal Picture, en collaboration avec The Film Fondation, au laboratoire Universal Studio Post. Consultation de Martin Scorsese et Steven Spielberg pour la restauration.
 
-- ve 10 mar 14h30 GF
+- ve 10 mar 14h30 GF  
+Séance présentée par Serge Chauvin
 
 [34796]  
 **Point limite**  
