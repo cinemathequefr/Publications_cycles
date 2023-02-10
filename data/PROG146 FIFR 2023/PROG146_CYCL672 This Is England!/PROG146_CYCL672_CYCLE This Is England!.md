@@ -17,8 +17,8 @@ Séance présentée par Kieron Webb
 **Love**  
 **(Women in Love)**  
 de Ken Russell  
-Grande-Bretagne / 1968 / 130 min / VOSTF / DCP  
-D'après le roman _Women in Love_ de D.H. Lawrence.  
+Grande-Bretagne / 1969 / 130 min / VOSTF / DCP  
+D'après le roman _Femmes amoureuses_ de D. H. Lawrence.  
 Avec Alan Bates, Oliver Reed, Glenda Jackson.  
 Dans les années 1920, Gerard et Rupert, deux industriels miniers de la bourgeoisie britannique, tombent amoureux de deux sœurs, émancipées et indépendantes. Mais ce quatuor se retrouve bientôt en pleine confusion sentimentale.  
 Restauration d'après la copie et le master son d'origine conservés par MGM, avec le soutien de Simon Hessel. Étalonnage supervisé par le directeur de la photographie Billy Williams, d'après la copie originale Technicolor déposée par ses soins au BFI.
@@ -29,9 +29,9 @@ Séance présentée par Kieron Webb
 [41617]  
 **Naked**  
 de Mike Leigh  
-Grande-Bretagne / 1992 / 126 min / VOSTF / DCP  
+Grande-Bretagne / 1993 / 126 min / VOSTF / DCP  
 Avec David Thewlis, Greg Crutwell, Lesley Sharp, Katrin Cartlidge.  
-Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'est de Londres, chez son ancienne petite-amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.  
+Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite-amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.  
 Restauration sous la supervision du directeur de la photographie Dick Pope, et approuvée par Mike Leigh, d'après le négatif et la piste magnétique d'origine, prêtés par Channel 4. L'étalonnage des couleurs reproduit le procédé de la copie originale, conservée au BFI.
 
 - ve 10 mar 17h15 HO  
@@ -41,10 +41,10 @@ Séance présentée par Kieron Webb
 **Ne pas avaler**  
 **(Nil by Mouth)**  
 de Gary Oldman  
-Grande-Bretagne / 1996 / 128 min / VOSTF / DCP  
+Grande-Bretagne / 1997 / 128 min / VOSTF / DCP  
 Avec Ray Winstone, Kathy Burke, Charlie Creed-Miles.  
-L'histoire d'une famille ordinaire dans un quartier ouvrier de l'est de Londres, où Raymond, père de famille alcoolique et violent, voit peu à peu ses relations avec ses proches s'effriter.  
-Restauration à l'occasion du 25<sup>e</sup> anniversaire du film, avec le soutien de Simon et Harley Hessel, à partir du négatif Super 16 mm et de la piste son 35 mm, prêtés par Sony Pictures Classics. Nouveau format 1.66:1, étalonnage effectué à partir d'un tirage récent et approuvé par Gary Oldman.
+L'histoire d'une famille ordinaire dans un quartier ouvrier de l'Est de Londres, où Raymond, père de famille alcoolique et violent, voit peu à peu ses relations avec ses proches s'effriter.  
+Restauration à l'occasion du 25<sup>e</sup> anniversaire du film, avec le soutien de Simon et Harley Hessel, à partir du négatif Super 16 mm et de la piste son 35 mm, prêtés par Sony Pictures Classics. Nouveau format 1,66:1, étalonnage effectué à partir d'un tirage récent et approuvé par Gary Oldman.
 
 - me 8 mar 17h30 HO  
 Séance présentée par Kieron Webb

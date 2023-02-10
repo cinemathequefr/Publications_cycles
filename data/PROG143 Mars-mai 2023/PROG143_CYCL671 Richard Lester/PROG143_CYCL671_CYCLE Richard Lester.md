@@ -113,7 +113,7 @@ Au XIX<sup>e</sup> siècle, les aventures diplomatiques et sentimentales d'un je
 **On l'appelait Milady**  
 **(The Four Musketeers)**  
 de Richard Lester  
-Panama / 1974 / 107 min / DCP  
+Panama / 1974 / 107 min / VOSTF / DCP  
 Avec Michael York, Oliver Reed, Raquel Welch, Richard Chamberlain.  
 Pour prendre sa revanche sur d'Artagnan, qui a déjoué le complot des ferrets de la reine, Milady fait enlever son amie Constance. Les Mousquetaires tentent alors de la délivrer.
 
@@ -145,7 +145,7 @@ Voir aussi dialogue p. xx
 **Le Retour des Mousquetaires**  
 **(The Return of the Musketeers)**  
 de Richard Lester  
-Grande-Bretagne-France-Espagne / 1989 / 102 min  
+Grande-Bretagne-France-Espagne / 1989 / 102 min / Numérique  
 Avec Michael York, Oliver Reed, Richard Chamberlain, Philippe Noiret.  
 France, 1649. Le cardinal Mazarin ordonne à d'Artagnan de retrouver Athos, Porthos et Aramis pour les mettre à son service.
 
@@ -228,7 +228,7 @@ Un maître-chanteur exige une rançon en échange du désarmement de sept bombes
 **Les Trois Mousquetaires**  
 **(The Three Musketeers)**  
 de Richard Lester  
-Panama / 1973 / 107 min / VO / 35 mm  
+Panama / 1973 / 107 min / VOSTF / DCP  
 D'après le roman _Les Trois Mousquetaires_ d'Alexandre Dumas.  
 Avec Michael York, Oliver Reed, Raquel Welch, Richard Chamberlain.  
 Arrivant à Paris de sa Gascogne natale, d'Artagnan parvient à entrer dans le fameux régiment des Mousquetaires du roi Louis XIII. Il se lie d'amitié avec trois d'entre eux : Athos, Porthos et Aramis. Ils contribueront à déjouer un complot ourdi par le cardinal de Richelieu.

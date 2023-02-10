@@ -78,13 +78,13 @@
   * Danse macabre  
   * Deux amies  
   * Diable probablement (Le)  
-  * Dieu noir et le Diable blond (Le)  
+  * Dieu noir et le diable blond (Le)  
   * Et la lumière fut  
   * Fin d'été  
   * Folies de femmes  
   * Histoire de la guerre civile  
   * Histoire sans paroles  
-  * Huilor Le Rayon vert  
+  * Huilor, de l'or  
   * Idée (L')  
   * Inconnu (L')  
   * Italia, le feu, la cendre  
@@ -102,7 +102,7 @@
   * Raging Bull  
   * Rien que les heures  
   * S'en fout la mort  
-  * Testament du Docteur Cordelier (Le)  
+  * Testament du docteur Cordelier (Le)  
   * Tokyo Pop  
   * Une nuit sur le mont Chauve  
   * Up in Mabel's Room  

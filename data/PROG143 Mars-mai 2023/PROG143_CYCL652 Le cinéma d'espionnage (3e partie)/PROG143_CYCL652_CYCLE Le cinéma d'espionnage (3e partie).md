@@ -109,7 +109,7 @@ Pour préparer leur débarquement en Sicile, les Alliés cherchent à tromper l'
 [49186]  
 **Il faut tuer Birgitt Haas**  
 de Laurent Heynemann  
-France-RFA / 1981 / 103 min / 35 mm  
+France-RFA / 1981 / 104 min / VF / 35 mm  
 D'après le roman _L'Histoire de Birgit Haas_ de Guy Teisseire.  
 Avec Philippe Noiret, Jean Rochefort, Lisa Kreuzer.  
 Athanase, le chef des services secrets français, est chargé de supprimer Birgitt Haas, une ex-terroriste allemande.
@@ -174,7 +174,7 @@ Voir aussi dialogue p. xx
 **Quand les aigles attaquent**  
 **(Where Eagles Dare)**  
 de Brian G. Hutton  
-Grande-Bretagne / 1968 / 158 min / VOSTF / 35 mm  
+Grande-Bretagne / 1968 / 157 min / VOSTF / 35 mm  
 D'après le roman _Where Eagles Dare_ d'Alistair MacLean.  
 Avec Richard Burton, Clint Eastwood, Mary Ure.  
 Un commando anglais, dirigé par le major John Smith, est chargé de délivrer un général américain prisonnier des Allemands dans un château.

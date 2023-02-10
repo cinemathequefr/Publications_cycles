@@ -7,7 +7,7 @@ En clairs-obscurs fulgurants, avec beaucoup de pudeur et de poésie, le jeune ci
 [154318]  
 **Des portes et des murs**  
 de Peter Bastos  
-France / 2021 / 17 min / VOSTF / Numérique  
+France / 2021 / 7 min / VOSTF / Numérique  
 Carlos entame un nouveau chantier malgré ses 84 ans. À l'approche d'un rendez-vous médical qui pourrait bouleverser ses certitudes, il replonge dans les traumatismes de son passé.  
 suivi de  
 [29129]  

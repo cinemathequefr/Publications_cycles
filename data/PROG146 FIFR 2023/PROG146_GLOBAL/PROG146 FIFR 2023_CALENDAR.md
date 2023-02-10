@@ -1,5 +1,17 @@
 ## me 8 mars
 
+**09h30 HL Journée d'étude Longue vie à la pellicule**  
+Pour une histoire de la cabine de projection : chronique et avenir d'un métier. Conférence 
+
+**10h30 HL Journée d'étude Longue vie à la pellicule**  
+Comment préserver la matérialité du cinéma ?. Conférence de Caroline Fournier
+
+**11h00 HL Journée d'étude Longue vie à la pellicule**  
+Pellicules et laboratoires
+
+**11h45 HL Journée d'étude Longue vie à la pellicule**  
+Rôles d'un directeur de la photo dans la restauration d'un film. Conférence 
+
 **13h30 HO Joel Coen, parrain du festival**  
 A Serious Man (Ethan Coen, Joel Coen, 2009)
 
@@ -8,7 +20,16 @@ A Serious Man (Ethan Coen, Joel Coen, 2009)
 S'en fout la mort (Claire Denis, 1990)
 
 **14h00 JE Restaurations et incunables**  
-Point limite (Sidney Lumet, 1963)
+Point limite (Sidney Lumet, 1964)
+
+**14h30 HL Journée d'étude Longue vie à la pellicule**  
+Film Atlas : Une encyclopédie exhaustive en ligne des technologies du cinéma. Conférence de James Layton
+
+**15h30 HL Journée d'étude Longue vie à la pellicule**  
+Obsolescence programmée du cinéma argentique et voies de sa réinvention ». Conférence de Monise Nicodemos
+
+**16h00 HL Journée d'étude Longue vie à la pellicule**  
+Tourner en pellicule aujourd'hui (1)
 
 **16h15 GF Joel Coen, parrain du festival**  
 **Séance présentée par Frédéric Bonnaud**  
@@ -17,9 +38,12 @@ Barton Fink (Joel Coen, 1991)
 **16h30 JE Six œuvres majeures du Maghreb**  
 Une porte sur le ciel (Farida Benlyazid, 1989)
 
+**16h45 HL Journée d'étude Longue vie à la pellicule**  
+Tourner en pellicule aujourd'hui (2)
+
 **17h30 HO This Is England!**  
 **Séance présentée par Kieron Webb**  
-Ne pas avaler (Gary Oldman, 1996)
+Ne pas avaler (Gary Oldman, 1997)
 
 **19h00 GF Restaurations et incunables**  
 **Séance présentée par Noël Herpe**  
@@ -34,7 +58,7 @@ Fargo (Joel Coen, 1996)
 
 **21h00 GF This Is England!**  
 **Séance présentée par Kieron Webb**  
-Love (Ken Russell, 1968)
+Love (Ken Russell, 1969)
 
 ## je 9 mars
 
@@ -48,7 +72,7 @@ Raging Bull (Martin Scorsese, 1980)
 
 **14h30 GF Restaurations et incunables**  
 **Accompagnement musical par Mauro Coceano. Séance présentée par Hervé Pichard et Laurence Braunberger**  
-Rien que les heures (Alberto Cavalcanti, 1927)
+Rien que les heures (Alberto Cavalcanti, 1926)
 
 **14h30 JE Restaurations et incunables**  
 **Séance présentée par Marthe Rolland**  
@@ -120,11 +144,11 @@ Friendship's Death (Peter Wollen, 1987)
 
 **16h30 GF Restaurations et incunables**  
 **Séance présentée par Béatrice de Pastre et Jean-Baptiste Garnero**  
-Naissance de Vénus (Alexandre Alexeieff, 1936)  
-Une nuit sur le mont Chauve (Alexandre Alexeieff, 1933)  
+Naissance de Vénus (Alexandre Alexeïeff, 1936)  
+Une nuit sur le mont Chauve (Alexandre Alexeïeff, 1933)  
 Deux amies (Alexandre Alexeieff, 1936)  
-Huilor Le Rayon vert (Alexandre Alexeieff, Claire Parker, 1937)  
-Histoire sans paroles (Bogdan Zoubowitch, 1934)  
+Huilor, de l'or (Alexandre Alexeïeff, Claire Parker, 1937)  
+Histoire sans paroles (Bob Zoubowitch, 1934)  
 L'Idée (Berthold Bartosch, 1932)
 
 **16h30 JE Joel Coen, parrain du festival**  
@@ -136,7 +160,7 @@ Dialogue avec Bruno Delbonnel
 
 **17h15 HO This Is England!**  
 **Séance présentée par Kieron Webb**  
-Naked (Mike Leigh, 1992)
+Naked (Mike Leigh, 1993)
 
 **17h30 HO André S. Labarthe**  
 **Séance présentée par Brice Amouroux**  
@@ -158,7 +182,7 @@ De quelques événements sans signification (Mostafa Derkaoui, 1974)
 
 **20h30 HO Restaurations et incunables**  
 **Séance présentée par Robert Byrne**  
-Folies de femmes (Erich von Stroheim, 1921)
+Folies de femmes (Erich von Stroheim, 1922)
 
 **20h30 HO André S. Labarthe**  
 **Séance présentée par Brice Amouroux**  
@@ -185,7 +209,7 @@ Fargo (Joel Coen, 1996)
 Les Baliseurs du désert (Nacer Khemir, 1984)
 
 **13h45 GF Restaurations et incunables**  
-Le Testament du Docteur Cordelier (Jean Renoir, 1959)
+Le Testament du docteur Cordelier (Jean Renoir, 1959)
 
 **14h00 HO Raretés des collections**  
 **Séance présentée par Serge Toubiana**  
@@ -212,7 +236,7 @@ Artères de France (Jean Epstein, René Lucot, 1939)
 
 **15h30 JE Restaurations et incunables**  
 **Séance présentée par Olivier Bohler et Céline Gailleurd**  
-Italia, le feu, la cendre (Céline Gailleurd, Olivier Bohler, 2021)
+Italia, le feu, la cendre (Céline Gailleurd, Olivier Bohler, 2022)
 
 **15h45 HO Joel Coen, parrain du festival**  
 Les Vitelloni (Federico Fellini, 1953)
@@ -222,7 +246,7 @@ Les Vitelloni (Federico Fellini, 1953)
 Spontaneous Combustion (Tobe Hooper, 1989)
 
 **16h00 HO Hamo Bek-Nazarian**  
-**Séance présentée par Vigen Galstyan**  
+**Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Vigen Galstyan**  
 Land of Nairi (Hamo Bek-Nazarian, 1930)
 
 **17h00 HO Six œuvres majeures du Maghreb**  
@@ -251,14 +275,14 @@ Master class de Kiyoshi Kurosawa
 The Big Lebowski (Joel Coen, 1998)
 
 **20h00 JE Restaurations et incunables**  
-Le Jour des rois (Marie-Claude Treilhou, 1990)
+Le Jour des rois (Marie-Claude Treilhou, 1991)
 
 **20h30 HO Restaurations et incunables**  
 **Séance suivie d'une discussion avec Bernard Benoliel**  
 À bout de course (Sidney Lumet, 1988)
 
 **21h00 GF Restaurations et incunables**  
-Le Dieu noir et le Diable blond (Glauber Rocha, 1964)
+Le Dieu noir et le diable blond (Glauber Rocha, 1964)
 
 **22h00 HO Joel Coen, parrain du festival**  
 No Country for Old Men (Joel Coen, Ethan Coen, 2006)
