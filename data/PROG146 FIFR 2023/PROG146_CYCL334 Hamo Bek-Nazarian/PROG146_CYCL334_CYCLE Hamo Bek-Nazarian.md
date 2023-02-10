@@ -24,7 +24,7 @@ Pour son premier long métrage documentaire, Bek-Nazarian recourt autant à des 
 Restauration commandée par le National Cinema Center of Armenia avec l'aide du ministère de l'Éducation, de la Science, de la Culture et du Sport de la république d'Arménie. Nouvelle restauration 4K à partir d'un positif 35 mm par One Man Studio, Erevan, 2022.
 
 - sa 11 mar 16h00 HO  
-Séance présentée par Vigen Galstyan
+Accompagnement musical par Improvisation Jean-François Zygel Classe. Séance présentée par Vigen Galstyan
 
 [154256]  
 **La Maison sur le volcan**  
