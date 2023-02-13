@@ -71,7 +71,7 @@ Séance présentée par Jean A. Gili
 [103765]  
 **Cari fottutissimi amici**  
 de Mario Monicelli  
-Italie / 1994 / 118 min / VOSTF / 35 mm  
+Italie / 1994 / 118 min / VOSTF / DCP  
 Avec Paolo Villaggio, Massimo Ceccherini.  
 Un été 1944 en Toscane. Dieci, qui prétend avoir été boxeur et manager, réunit une bande de jeunes hommes pour organiser des combats.
 

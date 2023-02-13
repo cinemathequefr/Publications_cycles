@@ -41,7 +41,7 @@ Séance présentée par Kieron Webb
 **Ne pas avaler**  
 **(Nil by Mouth)**  
 de Gary Oldman  
-Grande-Bretagne / 1997 / 128 min / VOSTF / DCP  
+Grande-Bretagne / 1997 / 119 min / VOSTF  
 Avec Ray Winstone, Kathy Burke, Charlie Creed-Miles.  
 L'histoire d'une famille ordinaire dans un quartier ouvrier de l'Est de Londres, où Raymond, père de famille alcoolique et violent, voit peu à peu ses relations avec ses proches s'effriter.  
 Restauration à l'occasion du 25<sup>e</sup> anniversaire du film, avec le soutien de Simon et Harley Hessel, à partir du négatif Super 16 mm et de la piste son 35 mm, prêtés par Sony Pictures Classics. Nouveau format 1,66:1, étalonnage effectué à partir d'un tirage récent et approuvé par Gary Oldman.
