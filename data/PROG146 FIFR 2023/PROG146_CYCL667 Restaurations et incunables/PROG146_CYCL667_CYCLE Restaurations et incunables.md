@@ -83,6 +83,8 @@ Italie-France / 1963 / 89 min / VOSTF / DCP
 D'après le roman _Danse macabre_ d'Edgar Allan Poe.  
 Avec Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn.  
 Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.  
+Film réalisé par Antonio Margheriti sous est le pseudonyme d'Anthony Dawson.
+
 Restauration 4K menée en 2022 par la Société Cinématographique Lyre en collaboration avec la Cinémathèque française et avec le soutien du CNC, de la Mairie de Paris 8, des contributeurs du crowdfunding ProArti et des sociétés Artus Films, Lobster Films et Severin Films. Travaux réalisés au laboratoire Éclair Classics et au studio L.E. Diapason à partir des négatifs originaux et de contretypes d'époque. La version restaurée intègre certaines séquences initialement censurées lors de la première sortie du film.
 
 - je 9 mar 18h30 GF  
@@ -258,7 +260,7 @@ de Leos Carax
 France / 1986 / 116 min / DCP  
 Avec Denis Lavant, Juliette Binoche, Michel Piccoli.  
 La population parisienne est frappée par un virus tuant ceux qui font l'amour sans s'aimer. Le jeune Alex rejoint une bande de gangsters qui tentent de voler un puissant antidote, mais tombe amoureux d'Anna, la maîtresse de son associé criminel.  
-Restauration supervisée par Caroline Champetier, par Théo films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, la Cinémathèque de Toulouse, l'Institut audiovisuel de Monaco ainsi que le soutien du CNC et de la maison CHANEL. Numérisation en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022. Restauration numérique réalisée par les laboratoires Éclair Classics et Amazing Digital Studios. Étalonnage réalisé par Frédéric Savoir chez Amazing Digital Studios.
+Restauration supervisée par Caroline Champetier, par Théo Films et la Cinémathèque française, avec l'aide de la Cinémathèque suisse, la Cinémathèque de Toulouse, l'Institut audiovisuel de Monaco ainsi que le soutien du CNC et de la maison CHANEL. Numérisation en 4K à partir des négatifs originaux au laboratoire Éclair Classics, en 2022. Restauration numérique réalisée par les laboratoires Éclair Classics et Amazing Digital Studios. Étalonnage réalisé par Frédéric Savoir chez Amazing Digital Studios.
 
 - di 12 mar 14h00 HL  
 Séance présentée par Caroline Champetier  
@@ -293,7 +295,8 @@ Séance présentée par Caroline Fournier
 de Chano Urueta  
 Mexique / 1960 / 75 min / VOSTF / DCP  
 Avec Rosita Arenas, Armando Calvo, Isabela Corona, Dina de Marco, Carlos Nieto.  
-Sara est employée domestique chez un docteur fou, enclin au féminicide. Elle est aussi une sorcière, qui communique avec des esprits tout-puissants et rêve de venger la mort de sa filleule, l'ancienne femme de son employeur.
+Sara est employée domestique chez un docteur fou, enclin au féminicide. Elle est aussi une sorcière, qui communique avec des esprits tout-puissants et rêve de venger la mort de sa filleule, l'ancienne femme de son employeur.  
+Restauration en 2K par Alameda Films.
 
 - sa 11 mar 22h30 HL  
 Séance présentée par Jean-François Rauger

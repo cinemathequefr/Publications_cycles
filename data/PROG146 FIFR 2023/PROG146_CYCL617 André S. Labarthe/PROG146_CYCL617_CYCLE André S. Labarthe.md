@@ -60,6 +60,7 @@ suivi de
 de Claude Ventura, André S. Labarthe  
 France / 1982 / 11 min  
 André S. Labarthe invite Samuel Fuller à la table de montage pour analyser plan par plan son film _Le Port de la drogue_.  
+Épisode de l'émission _Cinéma, cinémas_.  
 suivi de  
 [154255]  
 **Samuel Fuller, Independant Filmmaker**  

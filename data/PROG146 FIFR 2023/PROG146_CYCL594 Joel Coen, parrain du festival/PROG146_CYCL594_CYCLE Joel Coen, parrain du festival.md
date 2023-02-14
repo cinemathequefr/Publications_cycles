@@ -7,10 +7,7 @@
 d'Ethan Coen, Joel Coen  
 États-Unis / 2009 / 105 min / VOSTF / DCP  
 Avec Michael Stuhlbarg, Richard Kind, Sari Lennick.  
-1967 : Larry Gopnik, professeur de physique dans une petite université du Midwest, est accablé de malheurs familiaux. Il cherche alors conseil auprès de trois rabbins.  
-Au lendemain de la signature du pacte germano-soviétique de 1939, Winston Churchill parlait – déjà – de la Russie comme d'un « rébus enveloppé de mystère au sein d'une énigme ». Voilà qu'on y repense à la vision de cette fable cinématographique pourtant américaine, s'ouvrant par un conte fantastique en yiddish dans un shtetl d'Europe de l'Est, puis, sans explication, se transportant (un siècle plus tard ?) au sein de la communauté juive d'une banlieue du Midwest, en 1967. On se dit que la phrase du premier ministre anglais ressemble à ce que tout spectateur éprouve à la vision d'un film des frères Coen, et particulièrement de celui-ci. _A Serious Man_, ou la possible représentation du réel tel qu'il n'en finit pas d'assaillir ou de taquiner l'humble professeur de physique Larry Gopnik. Ainsi s'accumulent sur la kippa du pauvre homme les indices cabalistiques d'un monde chiffré, les signes équivoques d'un sens résolument incertain ou comme interprété à travers un nuage de marijuana : effrayantes formules mathématiques recouvrant un tableau noir géant, dessins labyrinthiques (le « Mentaculus ») du frère du professeur, lettres hébraïques gravées sur la face cachée des dents du bas d'un goy, entre autres augures sans résolution. Et tout au fond d'un couloir surchargé de grimoires et d'expériences dans le formol, siège un grand rabbin, celui qui « réfléchit », aussi sollicité que le Magicien d'Oz dans son palais d'Émeraude ; autant de mages supposés, réfugiés derrière un écran de fumée et auxquels tous les croyants ou crédules du monde prêtent un extravagant pouvoir d'élucidation de l'existence. À sa définition sans espoir de la Russie, Churchill ajoutait : « Peut-être y a-t-il une clé ? » On la cherche encore.
-
-Bernard Benoliel
+1967 : Larry Gopnik, professeur de physique dans une petite université du Midwest, est accablé de malheurs familiaux. Il cherche alors conseil auprès de trois rabbins.
 
 - me 8 mar 13h30 HO
 

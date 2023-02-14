@@ -208,7 +208,7 @@ Avec Bernard-Pierre Donnadieu, Julie Delpy, Nils Tavernier, Isabelle Nanty.
 Béatrice attend son frère et son père, tous deux faits prisonniers à la bataille de Crécy en 1346. Son père revient changé, et elle seule peut lui tenir tête.
 
 - sa 18 fév 21h30 HL  
-Séance présentée par Philippe Béranger
+Séance présentée par Philippe Bérenger
 
 [112121]  
 **La Princesse de Montpensier**  
