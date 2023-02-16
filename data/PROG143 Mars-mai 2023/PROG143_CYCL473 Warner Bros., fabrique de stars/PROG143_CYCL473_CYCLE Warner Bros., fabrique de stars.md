@@ -55,7 +55,8 @@ Pendant la Seconde Guerre mondiale, le cabaret le plus couru de Casablanca est t
 
 - me 5 avr 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Olivier Snanoudj  
-- di 7 mai 17h30 GF
+- di 7 mai 17h30 GF  
+Séance présentée par Serge Chauvin
 
 [44445]  
 **Échec à la Gestapo**  

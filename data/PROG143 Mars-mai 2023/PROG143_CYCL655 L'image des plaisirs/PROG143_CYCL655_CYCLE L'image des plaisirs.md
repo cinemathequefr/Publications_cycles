@@ -729,7 +729,8 @@ France / 1974 / 88 min / 35 mm
 Avec Miki Sugimoto, Reiko Ike, Seiko Saburi, Misuzu Ōta.  
 « Il s'agit du second détournement (intégral) par René Viénet d'un film asiatique. Comme celui-ci souhaite inscrire un cliquet de plus dans le détournement, avec quelques complices, il tourne quelques inserts hard. » (René Viénet)
 
-- sa 27 mai 18h15 GF
+- sa 27 mai 18h15 GF  
+Séance présentée par René Vienet
 
 ## Séance 20 : En 1974, Chantal Akerman a 24 ans
 

@@ -171,7 +171,7 @@ Avec Jacques Dutronc, Alexandra London, Bernard Le Coq.
 Après son internement à l'asile, Vincent van Gogh s'installe à Auvers-sur-Oise chez le docteur Gachet, amateur d'art. Entre les relations conflictuelles qu'il entretient avec son frère et sa santé mentale vacillante, Vincent continue son œuvre.
 
 - di 14 mai 17h00 HL  
-Séance présentée par Jacques Dutronc (sous réserve) et Bernard Le Coq
+Séance présentée par Jacques Dutronc (sous réserve)
 
 [62220]  
 **Western**  

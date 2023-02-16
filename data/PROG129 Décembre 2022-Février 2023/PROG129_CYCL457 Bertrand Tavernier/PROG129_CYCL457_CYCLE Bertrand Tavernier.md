@@ -51,7 +51,7 @@ Avec Philippe Noiret, Isabelle Huppert, Jean-Pierre Marielle, Eddy Mitchell, Guy
 En 1938, dans un village d'Afrique-Occidentale française, un fonctionnaire veule et opportuniste se métamorphose en une sorte de justicier inspiré par Dieu.
 
 - sa 18 fév 18h30 HL  
-Séance présentée par Jean Achache et Eddy Mitchell
+Séance présentée par Jean Achache
 
 [51390]  
 **Daddy nostalgie**  
@@ -240,8 +240,7 @@ Avec Philippe Noiret, Jean Rochefort, Jean-Pierre Marielle.
 À la mort de Louis XIV, le duc Philippe d'Orléans assure la régence du royaume. Mais, débauché notoire et influencé par l'abbé Dubois, il se heurte à la rébellion bretonne qui cherche à le renverser.  
 Restauration en 4K par Studiocanal à partir du négatif original image et son réalisée au laboratoire L'Image retrouvée, avec la participation du CNC
 
-- je 16 fév 20h30 GF  
-Séance présentée par Marina Vlady
+- je 16 fév 20h30 GF
 
 [51401]  
 **Un dimanche à la campagne**  
@@ -261,7 +260,7 @@ Avec Nathalie Baye, Gérard Lanvin, Michel Galabru, Philippe Léotard.
 Lyon, hiver 1980. Une jeune enseignante, doutant d'elle-même et de sa vocation, prend une semaine d'arrêt de travail pour surmenage.
 
 - me 15 fév 20h00 HL  
-Ouverture de la rétrospective. Séance présentée par Thierry Frémaux, Nathalie Baye et Frédéric Bourboulon
+Ouverture de la rétrospective. Séance présentée par Thierry Frémaux et Nathalie Baye
 
 [51403]  
 **La Vie et rien d'autre**  
