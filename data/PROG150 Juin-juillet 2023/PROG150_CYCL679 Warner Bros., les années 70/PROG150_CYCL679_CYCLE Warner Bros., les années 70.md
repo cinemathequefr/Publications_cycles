@@ -24,7 +24,8 @@ de Terrence Malick
 Avec Martin Sheen, Sissy Spacek, Warren Oates.  
 Holly, 15 ans, rencontre Kit, un jeune éboueur qui vient de plaquer son travail. Lorsque le père d'Holly s'oppose à leur amour, Kit le tue. Le premier film de Terrence Malick se transforme alors en une cavale insouciante et meurtrière sur les routes du Dakota du Sud.
 
-- di 4 juin 19h30 HL
+- di 4 juin 19h30 HL  
+- sa 17 juin 15h00 GF
 
 [35805]  
 **Bonnie and Clyde**  
@@ -48,7 +49,8 @@ Quatre hommes de la ville décident, un week-end, de descendre une rivière en c
 
 Quatre citadins américains décident de descendre en canoë une rivière vouée à disparaître après la construction d'un barrage. Ils sont agressés par deux forestiers et le week-end tourne au cauchemar.
 
-- sa 3 juin 15h00 HL
+- sa 3 juin 15h00 HL  
+- lu 12 juin 20h30 GF
 
 [36741]  
 **L'Epouvantail**  
@@ -68,6 +70,7 @@ de Clint Eastwood
 Avec Clint Eastwood, Sondra Locke, Pat Hingle.  
 Le policier Ben Shockley est chargé de convoyer un suspect de Las Vegas à Phoenix. Il s'apercoit que son suspect est une femme que l'on cherche à supprimer a tout prix.
 
+- ve 2 juin 16h30 GF  
 - sa 10 juin 14h30 HL
 
 [31698]  
@@ -79,7 +82,19 @@ D'après le roman _L'Exorciste_ de William Peter Blatty.
 Avec Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn.  
 Un prêtre combat un démon qui a investi l'âme d'une fillette.
 
-- di 4 juin 17h00 HL
+- di 4 juin 17h00 HL  
+- sa 17 juin 17h30 GF
+
+[35701]  
+**La Fugue**  
+**(Night Moves)**  
+d'Arthur Penn  
+États-Unis / 1975 / 100 min / VOSTF / 35 mm  
+Avec Gene Hackman, Susan Clark, Melanie Griffith, James Woods.  
+Harry Moseby, détective privé à Los Angeles, est engagé pour retrouver une adolescente en fuite. Moseby traque la fille, et tombe sur quelque chose de beaucoup plus sombre et intrigant. Atteint dans ses convictions, il remet en question sa propre existence.
+
+- di 11 juin 18h00 GF  
+- je 15 juin 19h30 GF
 
 [32058]  
 **Les Gens de la pluie**  
@@ -110,7 +125,8 @@ de Don Siegel
 Avec Clint Eastwood, Harry Guardino, Reni Santoni.  
 À San Francisco, l'inspecteur Harry Callahan poursuit un tueur qui menace d'exécuter une personne par jour tant que 200 000 dollars ne lui seront pas versés.
 
-- sa 3 juin 17h15 HL
+- sa 3 juin 17h15 HL  
+- me 14 juin 18h30 GF
 
 [35827]  
 **Jeremiah Johnson**  
@@ -122,7 +138,8 @@ D'après la nouvelle _ Crow killer_ de Robert Bunker.
 Avec Robert Redford, Will Geer, Stefan Gierasch.  
 Jeremiah Johnson, fuyant la violence du monde civilisé, s'enfonce dans les montagnes Rocheuses. Confronté à un environnement qu'il ne connait pas, il doit également faire face à la révolte des Indiens.
 
-- sa 3 juin 19h30 HL
+- sa 3 juin 19h30 HL  
+- me 14 juin 20h45 GF
 
 [30210]  
 **John Mac Cabe**  
@@ -133,7 +150,8 @@ D'après le roman _McCabe_ d'Edmund Naughton.
 Avec Warren Beatty, Julie Christie, René Auberjonois.  
 En 1902, John McCabe arrive dans une petite ville de l'Ouest américain, pour ouvrir un bordel. Constance Miller, une prostituée, lui propose son aide et son expérience en échange d'une partie des bénéfices
 
-- ve 2 juin 20h30 HL
+- ve 2 juin 20h30 HL  
+- lu 12 juin 18h00 GF
 
 [34744]  
 **Klute**  
@@ -142,7 +160,8 @@ d'Alan J. Pakula
 Avec Donald Sutherland, Jane Fonda, Roy Scheider.  
 Un détective privé, John Klute, part à la recherche d'un savant ayant disparu dans d'étranges circonstances. Son enquête va le mener à Bree Daniels une prostituée que ce dernier fréquentait.
 
-- je 1 juin 20h30 HL
+- je 1 juin 20h30 HL  
+- ve 9 juin 16h30 GF
 
 [31090]  
 **Opération Dragon**  
@@ -161,7 +180,8 @@ de Paul Newman
 Avec Joanne Woodward, James Olson, Kate Harrington, Estelle Parsons.  
 Rachel est une institutrice solitaire de 35 ans, qui vit toujours sous l'emprise de sa mère, dans une petite ville du Connecticut. Elle porte tous ses espoirs de changement sur un ami d'enfance de passage, qui l'invite à sortir.
 
-- lu 5 juin 18h00 GF
+- lu 5 juin 18h00 GF  
+- di 11 juin 20h15 GF
 
 [34777]  
 **Un après-midi de chien**  
@@ -181,7 +201,8 @@ de Robert Mulligan
 Avec Jennifer O'Neill, Gary Grimes, Jerry Houser.  
 Hermie se souvient avec nostalgie de cet été quarante-deux passé sur une île au large des États-Unis. Garçon timide de quinze ans, il avait du mal à aborder les filles de son âge. Jusqu'à ce qu'il rencontre Dorothy, une jeune femme dont le mari est parti à la guerre.
 
-- ve 2 juin 18h00 HL
+- ve 2 juin 18h00 HL  
+- ve 16 juin 16h30 GF
 
 [35645]  
 **Un nommé Cable Hogue**  
@@ -191,7 +212,8 @@ de Sam Peckinpah
 Avec Jason Robards, Stella Stevens, David Warner.  
 Un vagabond trouve malencontreusement un point d'eau dans le désert. Il décide d'en faire une étape pour les diligences.
 
-- je 1 juin 18h00 HL
+- je 1 juin 18h00 HL  
+- je 8 juin 17h00 GF
 
 [34884]  
 **Yakuza**  
@@ -200,5 +222,5 @@ de Sydney Pollack
 Avec Robert Mitchum, Ken Takakura, Keiko Kishi, Brian Keith.  
 Le détective privé Harry Kilmer retourne au Japon où il a servi pendant la Seconde Guerre mondiale, pour sauver des griffes des Yakuza la fille d'un ami qui a été kidnappée. Cette mission dans les rouages du syndicat japonais du crime le confronte à son passé.
 
-- sa 10 juin 06h30 GF
+- sa 10 juin 20h30 GF
 

@@ -1,11 +1,23 @@
 # Liste des films par cycle
 
-## Quand les surréalistes allaient au cinéma (5)
+## Le documentaire, 25 indispensables (1)
 
+  * Deux Marseillaises (Les)
+
+## Quand les surréalistes allaient au cinéma (13)
+
+  * Âge d'or (L')  
   * At Land  
+  * Cet obscur objet du désir  
+  * Chasse du comte Zaroff (La)  
   * Entr'acte  
   * Etoile de mer (L')  
+  * Femme au corbeau (La)  
+  * Heure suprême (L')  
+  * King Kong  
+  * Loulou  
   * Meshes of the Afternoon  
+  * Monstrueuse parade (La)  
   * Un chien andalou
 
 ## Vincente Minnelli (2)
@@ -13,7 +25,7 @@
   * Comme un torrent  
   * Femme modèle (La)
 
-## Warner Bros., les années 70 (19)
+## Warner Bros., les années 70 (20)
 
   * Alice n'habite plus ici  
   * Ballade sauvage (La)  
@@ -22,6 +34,7 @@
   * Epouvantail (L')  
   * Epreuve de force (L')  
   * Exorciste (L')  
+  * Fugue (La)  
   * Gens de la pluie (Les)  
   * Hommes du président (Les)  
   * Inspecteur Harry (L')  

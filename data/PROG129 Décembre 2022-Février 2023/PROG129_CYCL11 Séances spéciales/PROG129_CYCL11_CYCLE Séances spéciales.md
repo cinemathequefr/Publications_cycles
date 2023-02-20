@@ -144,6 +144,16 @@ Pierre, ingénieur parisien, se rend dans les Alpes pour son travail. Irrésisti
 
 - lu 16 jan 20h00 HL
 
+[154374]  
+**La Syndicaliste**  
+de Jean-Paul Salomé  
+France / 2023  
+Avec Isabelle Huppert, Benoît Magimel, Grégory Gadebois, Pierre Deladonchamps.  
+Maureen Kearney, syndicaliste et lanceuse d'alerte sur un secret d'État lié au nucléaire, est violemment agressée à son domicile. Mais les enquêteurs ne retrouvent aucune trace des coupables.
+
+- lu 27 fév 20h00 HL  
+Avant-première
+
 ## Une journée avec Laura Dern
 
 [54865]  

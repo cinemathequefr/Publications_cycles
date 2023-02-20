@@ -406,7 +406,7 @@
   * Troie  
   * Zodiac
 
-## Séances spéciales (14)
+## Séances spéciales (15)
 
   * Blue Velvet  
   * Irma Vep, épisode 1 : La Tête coupée  
@@ -422,3 +422,4 @@
   * Montagne (La)  
   * Sailor et Lula  
   * Son (The)  
+  * Syndicaliste (La)  

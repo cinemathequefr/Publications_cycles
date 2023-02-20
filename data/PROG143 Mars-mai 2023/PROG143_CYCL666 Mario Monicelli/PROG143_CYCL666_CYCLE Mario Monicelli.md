@@ -6,7 +6,7 @@
 **L'Armée Brancaleone**  
 **(L'Armata Brancaleone)**  
 de Mario Monicelli  
-Italie-France-Espagne / 1966 / 120 min / VOSTF / 35 mm  
+Italie-France-Espagne / 1966 / 120 min / VOSTF / DCP  
 Avec Vittorio Gassman, Catherine Spaak, Gian Maria Volonté.  
 Les aventures picaresques du chevalier Brancaleone qui, accompagné de son armée de gueux, se dirige vers le fief d'Aurocastro pour se l'accaparer illégalement.
 
@@ -208,7 +208,7 @@ Séance présentée par Jean A. Gili
 **La Grande Guerre**  
 **(La Grande guerra)**  
 de Mario Monicelli  
-Italie-France / 1959 / 129 min / STF / 35 mm  
+Italie-France / 1959 / 129 min / VOSTF / 35 mm  
 Avec Vittorio Gassman, Alberto Sordi, Silvana Mangano, Folco Lulli, Bernard Blier.  
 Deux tire-au-flanc engagés en 1917 sur le front des Alpes cherchent à fuir les réalités de la guerre.
 

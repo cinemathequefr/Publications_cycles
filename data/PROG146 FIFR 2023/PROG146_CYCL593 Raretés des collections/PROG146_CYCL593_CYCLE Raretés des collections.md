@@ -121,7 +121,7 @@ Film suivi d'_Artères de France_ de Jean Epstein, René Lucot
 [47350]  
 **Le Retour**  
 de Henri Cartier-Bresson  
-France / 1945 / 45 min / VF / 35 mm  
+France / 1945 / 45 min / DCP  
 Les caméramen de l'US Army Signal Corps et le photographe Henri Cartier-Bresson filment la libération de prisonniers et de déportés des camps nazis, leur transfert dans des hôpitaux temporaires et les retrouvailles avec leurs familles à Paris.
 
 - sa 11 mar 14h00 HO  

@@ -97,7 +97,7 @@ Portrait en neuf chapitres, qui sont autant de facettes du cinéaste. Les entret
 Épisode de la collection _Cinéastes de notre temps_. Numérisation et restauration par l'INA en 2K à partir des éléments originaux inversibles 16 mm couleur, et d'un son magnétique séparé.
 
 - di 12 mar 13h15 JE  
-Séance présentée par Brice Amouroux et Frédéric Bonnaud
+Séance présentée par Brice Amouroux, Frédéric Bonnaud et Danielle Labarthe
 
 [154272]  
 **Franju, l'avion et la DS**  
@@ -135,6 +135,6 @@ Un cinéaste hongrois enquête sur les traces que Welles a laissées à Hollywoo
 Restauration par la Cinémathèque française, en collaboration avec Documentaire sur grand écran et Danielle Labarthe. Travaux de restauration image et son menés au laboratoire Lobster Films à partir du négatif original 16 mm et au Studio L. E. Diapason à partir de la bande magnétique 16 mm. Étalonnage réalisé par François Ede, avec la collaboration du chef opérateur du film, Jacques Audrain.
 
 - je 9 mar 20h45 GF  
-Séance présentée par Frédéric Bonnaud et Labarthe Danielle
+Séance présentée par Frédéric Bonnaud et Danielle Labarthe
 
 Remerciements : Mme Danièle Anezin-Labarthe, Documentaire sur Grand Ecran, INA.
