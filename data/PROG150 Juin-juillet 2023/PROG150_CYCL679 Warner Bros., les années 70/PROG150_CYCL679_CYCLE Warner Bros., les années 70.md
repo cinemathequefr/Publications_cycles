@@ -14,7 +14,8 @@ A 35 ans, Alice est mariée et malheureuse. A la mort de son mari, elle part ave
 
 Alice, âgée de huit ans, rêve de devenir une star... 27 ans plus tard, elle est mariée et mère d'un insupportable gamin.
 
-- me 7 juin 18h30 GF
+- me 7 juin 18h30 GF  
+- me 21 juin 18h00 GF
 
 [33679]  
 **La Ballade sauvage**  
@@ -25,7 +26,7 @@ Avec Martin Sheen, Sissy Spacek, Warren Oates.
 Holly, 15 ans, rencontre Kit, un jeune éboueur qui vient de plaquer son travail. Lorsque le père d'Holly s'oppose à leur amour, Kit le tue. Le premier film de Terrence Malick se transforme alors en une cavale insouciante et meurtrière sur les routes du Dakota du Sud.
 
 - di 4 juin 19h30 HL  
-- sa 17 juin 15h00 GF
+- me 21 juin 20h30 GF
 
 [35805]  
 **Bonnie and Clyde**  
@@ -35,6 +36,24 @@ Avec Warren Beatty, Faye Dunaway, Michael J. Pollard.
 Etats-Unis, les années 1930. C'est la Grande Dépression, suite au krach boursier de 1929. Un couple d'amants criminels, Bonnie Parker et Clyde Barrow, sillone le pays en braquant des banques.
 
 - me 31 mai 20h00 HL
+
+[45254]  
+**Bullitt**  
+de Peter Yates  
+États-Unis / 1968 / 114 min / VOSTF / 35 mm  
+D'après le roman _Mute witness_ de Robert L. Pike.  
+Avec Steve McQueen, Robert Vaughn, Jacqueline Bisset.  
+Bullitt, un lieutenant de police, est chargé par un politicien ambitieux de protéger Johnny Ross, un gangster dont le témoignage est capital dans un procès où est impliqué l'homme politique.
+
+- di 18 juin 17h30 GF
+
+[35173]  
+**Le Cœur est un chasseur solitaire**  
+**(The Heart Is a Lonely Hunter)**  
+de Robert Ellis Miller  
+États-Unis / 1967 / VOSTF / 35 mm
+
+- di 11 juin 18h00 GF
 
 [30443]  
 **Délivrance**  
@@ -70,8 +89,7 @@ de Clint Eastwood
 Avec Clint Eastwood, Sondra Locke, Pat Hingle.  
 Le policier Ben Shockley est chargé de convoyer un suspect de Las Vegas à Phoenix. Il s'apercoit que son suspect est une femme que l'on cherche à supprimer a tout prix.
 
-- ve 2 juin 16h30 GF  
-- sa 10 juin 14h30 HL
+- je 1 juin 16h00 GF
 
 [31698]  
 **L'Exorciste**  
@@ -83,7 +101,7 @@ Avec Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn.
 Un prêtre combat un démon qui a investi l'âme d'une fillette.
 
 - di 4 juin 17h00 HL  
-- sa 17 juin 17h30 GF
+- sa 17 juin 18h30 GF
 
 [35701]  
 **La Fugue**  
@@ -93,7 +111,6 @@ d'Arthur Penn
 Avec Gene Hackman, Susan Clark, Melanie Griffith, James Woods.  
 Harry Moseby, détective privé à Los Angeles, est engagé pour retrouver une adolescente en fuite. Moseby traque la fille, et tombe sur quelque chose de beaucoup plus sombre et intrigant. Atteint dans ses convictions, il remet en question sa propre existence.
 
-- di 11 juin 18h00 GF  
 - je 15 juin 19h30 GF
 
 [32058]  
@@ -106,6 +123,14 @@ Paniquée par la nouvelle de sa grossesse, Natalie Revena quitte le domicile con
 
 - lu 5 juin 20h15 GF
 
+[35286]  
+**Graffiti party**  
+**(Big Wednesday)**  
+de John Milius  
+États-Unis / 1978 / 120 min / VOSTF / 35 mm
+
+- di 18 juin 14h30 HL
+
 [35020]  
 **Les Hommes du président**  
 **(All the President's Men)**  
@@ -115,7 +140,8 @@ D'après le livre _All the President's Men_ de Carl Bernstein et Bob Woodward.
 Avec Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam.  
 Bob Woodward et Carl Bernstein, journalistes du « Washington Post », dévoilent les détails du scandale du Watergate qui mène à la démission du président Richard Nixon.
 
-- me 7 juin 21h00 GF
+- me 7 juin 21h00 GF  
+- di 25 juin 17h45 GF
 
 [54404]  
 **L'Inspecteur Harry**  
@@ -163,6 +189,16 @@ Un détective privé, John Klute, part à la recherche d'un savant ayant disparu
 - je 1 juin 20h30 HL  
 - ve 9 juin 16h30 GF
 
+[45104]  
+**Luke la main froide**  
+**(Cool Hand Luke)**  
+de Stuart Rosenberg  
+États-Unis / 1966 / 127 min / VOSTF / DCP  
+Avec Paul Newman, Dennis Hopper, Jo Van Fleet.  
+Luke, condamné pour un acte de vandalisme en état d'ivresse, purge une peine de deux ans de prison dans un camp de travail. Au cours de sa détention il apprend le décès de sa mère et tente de s'évader.
+
+- di 18 juin 20h30 GF
+
 [31090]  
 **Opération Dragon**  
 **(Enter the Dragon)**  
@@ -173,6 +209,17 @@ Une compétition d'arts martiaux est organisée par un mystérieux Han, derrièr
 
 - sa 10 juin 18h00 GF
 
+[34020]  
+**Orange mécanique**  
+**(A Clockwork Orange)**  
+de Stanley Kubrick  
+Grande-Bretagne / 1970 / 136 min / VOSTF / DCP  
+D'après le roman _L'Orange mécanique_ d'Anthony Burgess.  
+Avec Malcolm McDowell, Adrienne Corri, Patrick Magee.  
+Dans une société futuriste, Alex, adolescent pervers, exerce avec sa bande une terreur aveugle sur tout son entourage. Après son arrestation, des psychiatres l'emploient comme cobaye d'une expérience censée éliminer les pulsions agressives.
+
+- di 25 juin 14h30 HL
+
 [35614]  
 **Rachel, Rachel**  
 de Paul Newman  
@@ -182,6 +229,26 @@ Rachel est une institutrice solitaire de 35 ans, qui vit toujours sous l'emprise
 
 - lu 5 juin 18h00 GF  
 - di 11 juin 20h15 GF
+
+[34068]  
+**Shining**  
+**(The Shining)**  
+de Stanley Kubrick  
+Grande-Bretagne / 1978 / 119 min / VOSTF / DCP  
+D'après le roman _Shining : L'enfant lumière_ de Stephen King.  
+Avec Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers.  
+L'auteur Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.
+
+- sa 10 juin 14h30 HL
+
+[34631]  
+**THX 1138**  
+de George Lucas  
+États-Unis / 1971 / 95 min / VOSTF / 35 mm  
+Avec Robert Duvall, Donald Pleasence, Maggie McOmie, Don Pedro Colley.  
+Au XXV<sup>e</sup> siècle, dans une cité souterraine futuriste où les gens sont identifiés par des chiffres et où tout est interdit, deux hommes et une femme se rebellent et tentent de s'échapper.
+
+- sa 17 juin 21h00 GF
 
 [34777]  
 **Un après-midi de chien**  
@@ -212,8 +279,7 @@ de Sam Peckinpah
 Avec Jason Robards, Stella Stevens, David Warner.  
 Un vagabond trouve malencontreusement un point d'eau dans le désert. Il décide d'en faire une étape pour les diligences.
 
-- je 1 juin 18h00 HL  
-- je 8 juin 17h00 GF
+- je 1 juin 18h00 HL
 
 [34884]  
 **Yakuza**  
@@ -222,5 +288,6 @@ de Sydney Pollack
 Avec Robert Mitchum, Ken Takakura, Keiko Kishi, Brian Keith.  
 Le détective privé Harry Kilmer retourne au Japon où il a servi pendant la Seconde Guerre mondiale, pour sauver des griffes des Yakuza la fille d'un ami qui a été kidnappée. Cette mission dans les rouages du syndicat japonais du crime le confronte à son passé.
 
-- sa 10 juin 20h30 GF
+- sa 10 juin 20h30 GF  
+- di 25 juin 20h30 GF
 

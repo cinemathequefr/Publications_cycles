@@ -2,6 +2,23 @@
 
 ## Les films
 
+[79799]  
+**A Little Journey**  
+de Robert Z. Leonard  
+États-Unis / 1927  
+Avec Claire Windsor, William Wister Haines, Harry Carey.
+
+- sa 17 juin 15h00 GF  
+Film suivi de _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren, _A Study in Choregraphy for the Camera_ de Maya Deren
+
+[62680]  
+**A Study in Choregraphy for the Camera**  
+de Maya Deren  
+États-Unis / 1945 / 3 min / Numérique
+
+- sa 17 juin 15h00 GF  
+Film précédé d'_A Little Journey_ de Robert Z. Leonard, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren
+
 [47140]  
 **L'Âge d'or**  
 de Luis Buñuel  
@@ -11,6 +28,14 @@ La force du désir éprouvé par un couple bouscule et renverse l'ordre social. 
 Scénario coécrit par Luis Buñuel et Salvador Dalí.
 
 - je 15 juin 19h00 HL
+
+[154367]  
+**André Breton malgré tout**  
+de Fabrice Maze  
+France / 2003 / 26 min / Numérique
+
+- me 21 juin 20h45 JE  
+Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze et suivi de de _Hôtel Drouot_ de Fabrice Maze
 
 [62689]  
 **At Land**  
@@ -41,6 +66,21 @@ Avec Joel McCrea, Fay Wray, Robert Armstrong.
 Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte du gibier humain.
 
 - di 18 juin 17h00 HL
+
+[154372]  
+**divine horsemen: The Living Gods of Haiti**  
+de Maya Deren  
+États-Unis / 1947 / 55 min / Numérique
+
+- sa 17 juin 15h00 GF  
+Film précédé d'_A Little Journey_ de Robert Z. Leonard et suivi de de _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren, _A Study in Choregraphy for the Camera_ de Maya Deren
+
+[154373]  
+**Elle et Suzanne**  
+de Fabrice Maze  
+France / 2015 / 105 min / Numérique
+
+- me 21 juin 18h30 JE
 
 [47671]  
 **Entr'acte**  
@@ -73,9 +113,21 @@ Film précédé d'_At Land_ de Maya Deren et suivi de de _Meshes of the Afternoo
 **La Femme au corbeau**  
 **(The River)**  
 de Frank Borzage  
-États-Unis / 1929 / 96 min / INT. FR. / 16 mm
+États-Unis / 1929 / 96 min / INT. FR. / 16 mm  
+Avec Mary Duncan, Charles Farrell, Ivan Linow.  
+Une jeune femme dont l'amant est emprisonné pour meurtre, rencontre un jeune homme vagabond. ils sympathisent et peu à peu un sentiment amoureux naît entre eux tandis que la jeune femme est « surveillée » par le corbeau qu'a laissé dans ce but son amant
 
 - ve 16 juin 18h00 HL
+
+[35977]  
+**Hellzapoppin**  
+de Henry C. Potter  
+États-Unis / 1941 / 93 min  
+D'après la comédie musicale _Hellzapoppin'_ de Chic Johnson et Ole Olsen.  
+Avec Ole Olsen, Chic Johnson, Martha Raye.  
+Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la panique partout où ils passent.
+
+- sa 24 juin 15h00 GF
 
 [79882]  
 **L'Heure suprême**  
@@ -88,6 +140,30 @@ Avec Janet Gaynor, Charles Farrell, Ben Bard.
 Copie avec musique.
 
 - sa 17 juin 20h00 HL
+
+[113611]  
+**Histoire de détective**  
+de Charles Dekeukeleire  
+Belgique / 1929 / 36 min
+
+- sa 24 juin 19h30 GF  
+Film suivi de _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel
+
+[154369]  
+**Hôtel Drouot**  
+de Fabrice Maze  
+France / 2003 / 15 min / Numérique
+
+- me 21 juin 20h45 JE  
+Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze, _André Breton malgré tout_ de Fabrice Maze
+
+[82660]  
+**L'Imitation du cinéma**  
+de Marcel Mariën  
+Belgique / 1959 / 40 min
+
+- sa 24 juin 19h30 GF  
+Film précédé de _Histoire de détective_ de Charles Dekeukeleire et suivi de de _La Perle_ de Henri d' Ursel
 
 [36414]  
 **King Kong**  
@@ -107,6 +183,14 @@ Avec Louise Brooks, Fritz Kortner, Franz Lederer, Carl Goetz.
 Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils.
 
 - ve 16 juin 20h30 HL
+
+[62682]  
+**Meditation on violence**  
+de Maya Deren  
+États-Unis / 1948 / 10 min / Numérique
+
+- sa 17 juin 15h00 GF  
+Film précédé d'_A Little Journey_ de Robert Z. Leonard, _divine horsemen: The Living Gods of Haiti_ de Maya Deren et suivi de de _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren, _A Study in Choregraphy for the Camera_ de Maya Deren
 
 [62687]  
 **Meshes of the Afternoon**  
@@ -132,6 +216,52 @@ Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui port
 
 - sa 17 juin 18h00 HL
 
+[154368]  
+**L'Œil à l'état sauvage**  
+de Fabrice Maze  
+France / 2003 / 26 min / Numérique
+
+- me 21 juin 20h45 JE  
+Film suivi d'_André Breton malgré tout_ de Fabrice Maze, _Hôtel Drouot_ de Fabrice Maze
+
+[46205]  
+**La Perle**  
+de Henri d' Ursel  
+Belgique / 1928
+
+- sa 24 juin 19h30 GF  
+Film précédé de _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën
+
+[33073]  
+**Peter Ibbetson**  
+de Henry Hathaway  
+États-Unis / 1935 / 85 min / VOSTF / 35 mm  
+D'après le roman _Peter Ibbetson_ de George Du Maurier.  
+D'après la pièce de théâtre _Peter Ibbetson_ de John Nathaniel Raphael.  
+Avec Gary Cooper, Ann Harding, John Halliday, Ida Lupino.  
+Au 19e siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse.
+
+- sa 24 juin 17h30 GF
+
+[34496]  
+**Le Portrait de Dorian Gray**  
+**(The Picture of Dorian Gray)**  
+d'Albert Lewin  
+États-Unis / 1945 / 109 min / VOSTF / DCP  
+Avec George Sanders, Angela Lansbury, Peter Lawford.  
+Londres, 1886. Le peintre Basil Hallward réalise le portrait d'un jeune et bel aristocrate, Dorian Gray, qui formule le vœu d'une éternelle jeunesse ; seul son portrait vieillira.  
+Restauration 2K par Warner Bros. Pictures.
+
+- lu 19 juin 20h00 GF
+
+[62690]  
+**Ritual in Tranfigured Time**  
+de Maya Deren  
+États-Unis / 1945 / 14 min / Numérique
+
+- sa 17 juin 15h00 GF  
+Film précédé d'_A Little Journey_ de Robert Z. Leonard, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren et suivi de de _The Very Eye of Night_ de Maya Deren, _A Study in Choregraphy for the Camera_ de Maya Deren
+
 [47197]  
 **Un chien andalou**  
 de Luis Buñuel  
@@ -142,6 +272,23 @@ Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près d
 - me 14 juin 20h00 HL  
 Ouverture de la rétrospective  
 Film précédé d'_At Land_ de Maya Deren, _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied et suivi de d'_Entr'acte_ de René Clair
+
+[62683]  
+**The Very Eye of Night**  
+de Maya Deren  
+États-Unis / 1952 / 15 min / Numérique
+
+- sa 17 juin 15h00 GF  
+Film précédé d'_A Little Journey_ de Robert Z. Leonard, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren et suivi de d'_A Study in Choregraphy for the Camera_ de Maya Deren
+
+[154366]  
+**Within the Law**  
+de Frank Lloyd  
+États-Unis / 1923 / 87 min / INT. FR. / 35 mm  
+Avec Norma Talmadge, Lew Cody, Jack Mulhall.  
+Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis, elle fait le vœu qu'à sa sortie, elle se vengera de ceux qui l'ont lésée.
+
+- lu 19 juin 18h00 GF
 
 ## Rencontres et conférences
 
