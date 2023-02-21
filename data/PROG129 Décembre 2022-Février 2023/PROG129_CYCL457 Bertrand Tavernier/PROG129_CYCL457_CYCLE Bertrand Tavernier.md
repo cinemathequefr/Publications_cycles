@@ -72,7 +72,8 @@ D'après le roman _Dans la brume électrique avec les morts confédérés _ de J
 Avec Tommy Lee Jones, John Goodman, Peter Sarsgaard.  
 New Iberia, Louisiane. L'inspecteur Dave Robicheaux est sur les traces d'un tueur en série qui s'attaque à de très jeunes femmes.
 
-- je 2 mar 19h30 HL
+- je 2 mar 19h30 HL  
+Séance présentée par Sarah Tavernier
 
 [64984]  
 **De l'autre côté du périph'**  

@@ -107,7 +107,7 @@
   * Yolanda et le voleur  
   * Ziegfeld Follies
 
-## Warner Bros., les années 70 (27)
+## Warner, années 70 (27)
 
   * Alice n'habite plus ici  
   * Ballade sauvage (La)  

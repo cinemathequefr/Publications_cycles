@@ -134,7 +134,7 @@ En 2026, dans une métropole du futur, des ouvriers travaillent dans les souterr
 **Mondwest**  
 **(Westworld)**  
 de Michael Crichton  
-États-Unis / 1973 / 88 min / VOSTF / DCP  
+États-Unis / 1973 / 89 min / VOSTF / DCP  
 Avec Yul Brynner, Richard Benjamin, James Brolin.  
 Un parc d'attractions peuplé de robots propose aux visiteurs de se replonger dans plusieurs époques. Lancés dans l'Ouest sauvage, deux amis se retrouvent en plein cauchemar quand les androïdes se détraquent et s'attaquent aux touristes.
 

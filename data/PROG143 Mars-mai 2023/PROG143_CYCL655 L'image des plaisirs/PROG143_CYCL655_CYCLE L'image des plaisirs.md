@@ -26,6 +26,7 @@ suivi de
 **Cinema's First Kiss Was Between Two Women**  
 de Lily Alexandre  
 Canada / 2022 / 1 min / Numérique  
+« Le premier baiser filmé fut une pierre blanche queer et un moment charnière dans l'histoire du cinéma, mais presque personne n'en a entendu parler. » (Lily Alexandre)  
 suivi de  
 [154074]  
 **Mars exalté**  

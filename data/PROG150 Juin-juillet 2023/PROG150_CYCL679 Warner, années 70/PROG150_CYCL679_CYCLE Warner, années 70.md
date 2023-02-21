@@ -1,4 +1,4 @@
-# Warner Bros., les années 70
+# Warner, années 70
 
 ## Les films
 

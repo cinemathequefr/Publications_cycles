@@ -285,7 +285,7 @@ Séance présentée par Jean A. Gili
 **Mes chers amis 2**  
 **(Amici miei, atto II)**  
 de Mario Monicelli  
-Italie / 1982 / VOSTF / 35 mm  
+Italie / 1982 / 130 min / VOSTF / 35 mm  
 Avec Ugo Tognazzi, Philippe Noiret.  
 Les nouvelles mésaventures des quatre amis d'enfance, personnages principaux du premier volet, _Mes chers amis_.
 

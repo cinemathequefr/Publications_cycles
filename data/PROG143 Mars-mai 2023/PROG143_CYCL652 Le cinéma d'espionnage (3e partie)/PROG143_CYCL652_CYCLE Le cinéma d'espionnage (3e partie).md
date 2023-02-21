@@ -109,7 +109,7 @@ Pour préparer leur débarquement en Sicile, les Alliés cherchent à tromper l'
 [49186]  
 **Il faut tuer Birgitt Haas**  
 de Laurent Heynemann  
-France-RFA / 1981 / 104 min / VF / 35 mm  
+France-RFA / 1981 / 104 min / VF / DCP  
 D'après le roman _L'Histoire de Birgit Haas_ de Guy Teisseire.  
 Avec Philippe Noiret, Jean Rochefort, Lisa Kreuzer.  
 Athanase, le chef des services secrets français, est chargé de supprimer Birgitt Haas, une ex-terroriste allemande.
