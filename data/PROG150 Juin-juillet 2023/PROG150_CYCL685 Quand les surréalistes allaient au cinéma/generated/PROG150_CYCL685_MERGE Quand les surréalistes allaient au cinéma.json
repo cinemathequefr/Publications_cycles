@@ -5,55 +5,6 @@
       "tri": 1,
       "items": [
         {
-          "idSeance": 104014,
-          "ordre": 1,
-          "dateHeure": "2023-06-17T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3003,
-          "idEvenement": 28117,
-          "typeEvenement": 13,
-          "idFilm": 79799,
-          "titre": "A Little Journey",
-          "realisateurs": "Robert Z. Leonard",
-          "annee": 1927,
-          "pays": "États-Unis",
-          "duree": 0,
-          "version": "",
-          "format": "",
-          "generique": [
-            "Claire Windsor",
-            "William Wister Haines",
-            "Harry Carey"
-          ],
-          "textes": []
-        },
-        {
-          "idSeance": 104014,
-          "ordre": 6,
-          "dateHeure": "2023-06-17T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3003,
-          "idEvenement": 28117,
-          "typeEvenement": 13,
-          "idFilm": 62680,
-          "titre": "A Study in Choregraphy for the Camera",
-          "realisateurs": "Maya Deren",
-          "annee": 1945,
-          "pays": "États-Unis",
-          "duree": 3,
-          "version": "",
-          "format": "Numérique",
-          "textes": []
-        },
-        {
           "idSeance": 104015,
           "ordre": 2,
           "dateHeure": "2023-06-21T20:45:00",
@@ -187,7 +138,12 @@
           "duree": 105,
           "version": "",
           "format": "Numérique",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe. Un couple mythique."
+            }
+          ]
         },
         {
           "idSeance": 101076,
@@ -310,8 +266,8 @@
           "annee": 1941,
           "pays": "États-Unis",
           "duree": 93,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "DCP",
           "generique": [
             "Ole Olsen",
             "Chic Johnson",
@@ -496,28 +452,6 @@
           ]
         },
         {
-          "idSeance": 104014,
-          "ordre": 3,
-          "dateHeure": "2023-06-17T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3003,
-          "idEvenement": 28117,
-          "typeEvenement": 13,
-          "idFilm": 62682,
-          "titre": "Meditation on violence",
-          "realisateurs": "Maya Deren",
-          "annee": 1948,
-          "pays": "États-Unis",
-          "duree": 10,
-          "version": "",
-          "format": "Numérique",
-          "textes": []
-        },
-        {
           "idSeance": 101076,
           "ordre": 3,
           "dateHeure": "2023-06-14T20:00:00",
@@ -596,14 +530,15 @@
           "textes": []
         },
         {
-          "idSeance": 101373,
+          "idSeance": 104030,
           "ordre": 1,
-          "dateHeure": "2023-06-24T17:30:00",
+          "dateHeure": "2023-06-17T14:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 3003,
           "idEvenement": 28007,
           "typeEvenement": 13,
@@ -669,28 +604,6 @@
           ]
         },
         {
-          "idSeance": 104014,
-          "ordre": 4,
-          "dateHeure": "2023-06-17T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3003,
-          "idEvenement": 28117,
-          "typeEvenement": 13,
-          "idFilm": 62690,
-          "titre": "Ritual in Tranfigured Time",
-          "realisateurs": "Maya Deren",
-          "annee": 1945,
-          "pays": "États-Unis",
-          "duree": 14,
-          "version": "",
-          "format": "Numérique",
-          "textes": []
-        },
-        {
           "idSeance": 101076,
           "ordre": 4,
           "dateHeure": "2023-06-14T20:00:00",
@@ -724,29 +637,6 @@
           ]
         },
         {
-          "idSeance": 104014,
-          "ordre": 5,
-          "dateHeure": "2023-06-17T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3003,
-          "idEvenement": 28117,
-          "typeEvenement": 13,
-          "idFilm": 62683,
-          "art": "The",
-          "titre": "Very Eye of Night",
-          "realisateurs": "Maya Deren",
-          "annee": 1952,
-          "pays": "États-Unis",
-          "duree": 15,
-          "version": "",
-          "format": "Numérique",
-          "textes": []
-        },
-        {
           "idSeance": 101220,
           "ordre": 1,
           "dateHeure": "2023-06-19T18:00:00",
@@ -777,28 +667,6 @@
               "texte": "Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis, elle fait le vœu qu'à sa sortie, elle se vengera de ceux qui l'ont lésée."
             }
           ]
-        },
-        {
-          "idSeance": 104014,
-          "ordre": 2,
-          "dateHeure": "2023-06-17T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3003,
-          "idEvenement": 28117,
-          "typeEvenement": 13,
-          "idFilm": 154372,
-          "titre": "divine horsemen: The Living Gods of Haiti",
-          "realisateurs": "Maya Deren",
-          "annee": 1947,
-          "pays": "États-Unis",
-          "duree": 55,
-          "version": "",
-          "format": "Numérique",
-          "textes": []
         },
         {
           "idSeance": 101113,
@@ -869,19 +737,21 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 103947,
+          "idSeance": 104030,
+          "ordre": 2,
           "dateHeure": "2023-06-17T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 180,
+          "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 3009,
           "idEvenement": 28034,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + Dialogue avec Dominique Rabourdin",
+          "titre": "Film + Dialogue avec Dominique PaÏni Dominique Rabourdin",
           "duree": 60,
           "textes": [],
           "intervenants": [

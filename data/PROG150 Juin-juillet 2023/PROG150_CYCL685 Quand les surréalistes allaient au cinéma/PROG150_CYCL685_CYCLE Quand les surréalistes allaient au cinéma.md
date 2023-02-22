@@ -2,23 +2,6 @@
 
 ## Les films
 
-[79799]  
-**A Little Journey**  
-de Robert Z. Leonard  
-États-Unis / 1927  
-Avec Claire Windsor, William Wister Haines, Harry Carey.
-
-- sa 17 juin 15h00 GF  
-Film suivi de _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren, _A Study in Choregraphy for the Camera_ de Maya Deren
-
-[62680]  
-**A Study in Choregraphy for the Camera**  
-de Maya Deren  
-États-Unis / 1945 / 3 min / Numérique
-
-- sa 17 juin 15h00 GF  
-Film précédé d'_A Little Journey_ de Robert Z. Leonard, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren
-
 [47140]  
 **L'Âge d'or**  
 de Luis Buñuel  
@@ -67,18 +50,11 @@ Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte du g
 
 - di 18 juin 17h00 HL
 
-[154372]  
-**divine horsemen: The Living Gods of Haiti**  
-de Maya Deren  
-États-Unis / 1947 / 55 min / Numérique
-
-- sa 17 juin 15h00 GF  
-Film précédé d'_A Little Journey_ de Robert Z. Leonard et suivi de de _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren, _A Study in Choregraphy for the Camera_ de Maya Deren
-
 [154373]  
 **Elle et Suzanne**  
 de Fabrice Maze  
-France / 2015 / 105 min / Numérique
+France / 2015 / 105 min / Numérique  
+Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe. Un couple mythique.
 
 - me 21 juin 18h30 JE
 
@@ -122,7 +98,7 @@ Une jeune femme dont l'amant est emprisonné pour meurtre, rencontre un jeune ho
 [35977]  
 **Hellzapoppin**  
 de Henry C. Potter  
-États-Unis / 1941 / 93 min  
+États-Unis / 1941 / 93 min / VOSTF / DCP  
 D'après la comédie musicale _Hellzapoppin'_ de Chic Johnson et Ole Olsen.  
 Avec Ole Olsen, Chic Johnson, Martha Raye.  
 Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la panique partout où ils passent.
@@ -184,14 +160,6 @@ Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriét
 
 - ve 16 juin 20h30 HL
 
-[62682]  
-**Meditation on violence**  
-de Maya Deren  
-États-Unis / 1948 / 10 min / Numérique
-
-- sa 17 juin 15h00 GF  
-Film précédé d'_A Little Journey_ de Robert Z. Leonard, _divine horsemen: The Living Gods of Haiti_ de Maya Deren et suivi de de _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren, _A Study in Choregraphy for the Camera_ de Maya Deren
-
 [62687]  
 **Meshes of the Afternoon**  
 de Maya Deren, Alexander Hackenschmied  
@@ -241,7 +209,8 @@ D'après la pièce de théâtre _Peter Ibbetson_ de John Nathaniel Raphael.
 Avec Gary Cooper, Ann Harding, John Halliday, Ida Lupino.  
 Au 19e siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse.
 
-- sa 24 juin 17h30 GF
+- sa 17 juin 14h30 HL  
+Voir aussi dialogue p. xx
 
 [34496]  
 **Le Portrait de Dorian Gray**  
@@ -254,14 +223,6 @@ Restauration 2K par Warner Bros. Pictures.
 
 - lu 19 juin 20h00 GF
 
-[62690]  
-**Ritual in Tranfigured Time**  
-de Maya Deren  
-États-Unis / 1945 / 14 min / Numérique
-
-- sa 17 juin 15h00 GF  
-Film précédé d'_A Little Journey_ de Robert Z. Leonard, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren et suivi de de _The Very Eye of Night_ de Maya Deren, _A Study in Choregraphy for the Camera_ de Maya Deren
-
 [47197]  
 **Un chien andalou**  
 de Luis Buñuel  
@@ -272,14 +233,6 @@ Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près d
 - me 14 juin 20h00 HL  
 Ouverture de la rétrospective  
 Film précédé d'_At Land_ de Maya Deren, _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied et suivi de d'_Entr'acte_ de René Clair
-
-[62683]  
-**The Very Eye of Night**  
-de Maya Deren  
-États-Unis / 1952 / 15 min / Numérique
-
-- sa 17 juin 15h00 GF  
-Film précédé d'_A Little Journey_ de Robert Z. Leonard, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren et suivi de d'_A Study in Choregraphy for the Camera_ de Maya Deren
 
 [154366]  
 **Within the Law**  
@@ -292,8 +245,9 @@ Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis,
 
 ## Rencontres et conférences
 
-**Film + Dialogue avec Dominique Rabourdin**  
+**Film + Dialogue avec Dominique PaÏni Dominique Rabourdin**  
 Rencontre animée par Dominique Païni
 
-- sa 17 juin 14h30 HL
+- sa 17 juin 14h30 HL  
+À la suite de la projection de _Peter Ibbetson_ de Henry Hathaway (voir p. xx)
 

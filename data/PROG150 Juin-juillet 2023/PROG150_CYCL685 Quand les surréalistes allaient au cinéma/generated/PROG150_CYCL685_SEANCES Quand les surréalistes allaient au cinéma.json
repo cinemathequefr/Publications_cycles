@@ -153,85 +153,44 @@
     ]
   },
   {
-    "idCategorie": 3009,
-    "typeEvenement": 14,
-    "idEvenement": 28034,
-    "idSeance": 103947,
+    "idCategorie": 3003,
+    "typeEvenement": 13,
+    "idEvenement": 28007,
+    "idSeance": 104030,
     "dateHeure": "2023-06-17T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 180,
+    "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "idFilm": 33073,
+        "ordre": 1,
+        "idSeance": 104030,
+        "idCopie": 2565,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
     ]
   },
   {
-    "idCategorie": 3003,
-    "typeEvenement": 13,
-    "idEvenement": 28117,
-    "idSeance": 104014,
-    "dateHeure": "2023-06-17T15:00:00",
+    "idCategorie": 3009,
+    "typeEvenement": 14,
+    "idEvenement": 28034,
+    "idSeance": 104030,
+    "dateHeure": "2023-06-17T14:30:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 79799,
-        "ordre": 1,
-        "idSeance": 104014,
-        "idCopie": 25764,
-        "duree": 0,
-        "version": "",
-        "format": ""
-      },
-      {
-        "idFilm": 154372,
-        "ordre": 2,
-        "idSeance": 104014,
-        "idCopie": 25716,
-        "duree": 55,
-        "version": "",
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 62682,
-        "ordre": 3,
-        "idSeance": 104014,
-        "idCopie": 25713,
-        "duree": 10,
-        "version": "",
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 62690,
-        "ordre": 4,
-        "idSeance": 104014,
-        "idCopie": 25714,
-        "duree": 14,
-        "version": "",
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 62683,
-        "ordre": 5,
-        "idSeance": 104014,
-        "idCopie": 25709,
-        "duree": 15,
-        "version": "",
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 62680,
-        "ordre": 6,
-        "idSeance": 104014,
-        "idCopie": 25712,
-        "duree": 3,
-        "version": "",
-        "format": "Numérique"
+        "ordre": 2
       }
     ]
   },
@@ -455,31 +414,8 @@
         "idSeance": 101372,
         "idCopie": 25715,
         "duree": 93,
-        "version": "",
-        "format": ""
-      }
-    ]
-  },
-  {
-    "idCategorie": 3003,
-    "typeEvenement": 13,
-    "idEvenement": 28007,
-    "idSeance": 101373,
-    "dateHeure": "2023-06-24T17:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 33073,
-        "ordre": 1,
-        "idSeance": 101373,
-        "idCopie": 2565,
-        "duree": 85,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   },

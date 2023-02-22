@@ -36,16 +36,13 @@
   * Sud  
   * Vampire (Le)
 
-## Quand les surréalistes allaient au cinéma (30)
+## Quand les surréalistes allaient au cinéma (24)
 
-  * A Little Journey  
-  * A Study in Choregraphy for the Camera  
   * Âge d'or (L')  
   * André Breton malgré tout  
   * At Land  
   * Cet obscur objet du désir  
   * Chasse du comte Zaroff (La)  
-  * divine horsemen: The Living Gods of Haiti  
   * Elle et Suzanne  
   * Entr'acte  
   * Etoile de mer (L')  
@@ -57,16 +54,13 @@
   * Imitation du cinéma (L')  
   * King Kong  
   * Loulou  
-  * Meditation on violence  
   * Meshes of the Afternoon  
   * Monstrueuse parade (La)  
   * Œil à l'état sauvage (L')  
   * Perle (La)  
   * Peter Ibbetson  
   * Portrait de Dorian Gray (Le)  
-  * Ritual in Tranfigured Time  
   * Un chien andalou  
-  * Very Eye of Night (The)  
   * Within the Law
 
 ## Vincente Minnelli (35)

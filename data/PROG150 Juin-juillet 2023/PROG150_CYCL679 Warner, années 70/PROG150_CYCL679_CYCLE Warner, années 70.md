@@ -51,7 +51,9 @@ Bullitt, un lieutenant de police, est chargé par un politicien ambitieux de pro
 **Le Cœur est un chasseur solitaire**  
 **(The Heart Is a Lonely Hunter)**  
 de Robert Ellis Miller  
-États-Unis / 1967 / VOSTF / 35 mm
+États-Unis / 1967 / VOSTF / 35 mm  
+Avec Alan Arkin, Sondra Locke, Stacy Keach.  
+Ayant trouvé du travail dans une petite ville du Sud des Etats-Unis, John Singer, un sourd-muet, loge chez les Kelly, et tente de devenir l'ami de Mick, leur fille de quatorze ans. ou Quand le sourd-muet Singer déménage dans une petite ville afin de se rapprocher de son seul ami interné dans un hôpital, il s'attache petit à petit à la fille sensible de ses logeurs.
 
 - di 11 juin 18h00 GF
 
@@ -79,7 +81,8 @@ de Jerry Schatzberg
 Avec Al Pacino, Gene Hackman, Dorothy Tristan.  
 Après six ans de prison, Max veut aller à Pittsburgh ouvrir un car-wash. Lion tente de rejoindre Detroit pour retrouver celle qui lui a fait un enfant cinq ans plus tôt.
 
-- di 4 juin 14h30 HL
+- di 4 juin 14h30 HL  
+- je 15 juin 17h00 GF
 
 [31676]  
 **L'Epreuve de force**  
@@ -121,13 +124,16 @@ de Francis Ford Coppola
 Avec James Caan, Robert Duvall, Shirley Knight.  
 Paniquée par la nouvelle de sa grossesse, Natalie Revena quitte le domicile conjugal en ne laissant qu'une lettre à son époux. Sur la route, elle rencontre Jimmy Kilgannon, bouleversé par un accident, à la recherche de sa fiancée.
 
-- lu 5 juin 20h15 GF
+- lu 5 juin 20h15 GF  
+- sa 17 juin 16h00 GF
 
 [35286]  
 **Graffiti party**  
 **(Big Wednesday)**  
 de John Milius  
-États-Unis / 1978 / 120 min / VOSTF / 35 mm
+États-Unis / 1978 / 120 min / VOSTF / 35 mm  
+Avec Jan-Michael Vincent, William Katt, Gary Busey.  
+Matt, Jack et Leroy, trois amis d'enfance, se retrouvent pour évoquer le temps révolu de leur jeunesse. Dans les années 60, la passion du surf les avait consacrés champions de ce sport. ou Centré sur l'évocation des destins des trois amis, Graffiti Party double cette chronique d'une jeunesse surfeuse par une évocation de l'Amérique des décennies 60 et 70.
 
 - di 18 juin 14h30 HL
 
@@ -279,7 +285,8 @@ de Sam Peckinpah
 Avec Jason Robards, Stella Stevens, David Warner.  
 Un vagabond trouve malencontreusement un point d'eau dans le désert. Il décide d'en faire une étape pour les diligences.
 
-- je 1 juin 18h00 HL
+- je 1 juin 18h00 HL  
+- je 8 juin 17h00 GF
 
 [34884]  
 **Yakuza**  
