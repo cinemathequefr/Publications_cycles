@@ -1,5 +1,20 @@
 # Liste des films par cycle
 
+## François de Roubaix (12)
+
+  * Aventuriers (Les)  
+  * Comment ça va ? J'm'en fous = Les Malentendus  
+  * Dernier domicile connu  
+  * Far from Dallas  
+  * François de Roubaix l'aventurier  
+  * Gobbo (Le)  
+  * Grande lessive (!) (La)  
+  * Lèvres rouges (Les)  
+  * Morgane et ses nymphes  
+  * Samouraï (Le)  
+  * Saut de l'ange (Le)  
+  * Scoumoune (La)
+
 ## L'image des plaisirs. Sexpérimentaux (116)
 
   * Action érotico-patriotique  
