@@ -1,5 +1,9 @@
 # Liste des films par cycle
 
+## Eloy de la Iglesia (1)
+
+  * Semaine d'un assassin = Cannibal Man (La)
+
 ## François de Roubaix (12)
 
   * Aventuriers (Les)  
@@ -134,7 +138,7 @@
   * Zentrale, 2. Version  
   * Zohre et Manouchehr = Tabous
 
-## Le documentaire, 25 indispensables (32)
+## Le documentaire, 25 indispensables (33)
 
   * 1974, une partie de campagne  
   * Acéra ou le bal des sorcières  
@@ -161,6 +165,7 @@
   * Pour la suite du monde  
   * Poussières (Les)  
   * Primary  
+  * Primate  
   * Récréations  
   * Reprise  
   * Sang des bêtes (Le)  

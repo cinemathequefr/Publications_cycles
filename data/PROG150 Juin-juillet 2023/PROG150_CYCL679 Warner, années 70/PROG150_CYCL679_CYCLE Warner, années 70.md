@@ -104,7 +104,7 @@ Avec Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn.
 Un prêtre combat un démon qui a investi l'âme d'une fillette.
 
 - di 4 juin 17h00 HL  
-- sa 17 juin 18h15 GF
+- sa 17 juin 17h30 GF
 
 [35701]  
 **La Fugue**  
@@ -125,7 +125,7 @@ Avec James Caan, Robert Duvall, Shirley Knight.
 Paniquée par la nouvelle de sa grossesse, Natalie Revena quitte le domicile conjugal en ne laissant qu'une lettre à son époux. Sur la route, elle rencontre Jimmy Kilgannon, bouleversé par un accident, à la recherche de sa fiancée.
 
 - lu 5 juin 20h15 GF  
-- sa 17 juin 16h00 GF
+- sa 17 juin 15h30 GF
 
 [35286]  
 **Graffiti party**  

@@ -9,7 +9,7 @@ France / 1974 / 90 min / Numérique
 Avec Valéry Giscard d'Estaing.  
 1974\. Valéry Giscard d'Estaing, alors ministre de l'Economie et des Finances,se lance dans une campagne « à l'américaine ». Raymond Depardon suit partout le fringant candidat à la présidentielle et capte des instants rares et historiques de la classe politique française.
 
-- sa 24 juin 20h45 HL
+- sa 8 juil 20h00 GF
 
 [65713]  
 **Acéra ou le bal des sorcières**  
@@ -52,7 +52,7 @@ de Jean Rouch, Edgar Morin
 France / 1960 / 86 min / DCP  
 Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, vont enquêter sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés, évoquent leurs préoccupations et leurs espoirs et tentent de répondre à la question « Êtes-vous heureux ? ».
 
-- je 6 juil 19h30 GF
+- sa 1 juil 14h30 GF
 
 [59394]  
 **Les Deux Marseillaises**  
@@ -70,7 +70,7 @@ de Leni Riefenstahl
 Allemagne / 1938 / 221 min / DCP  
 Réalisé pour la propagande nazie lors des Jeux Olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongée) pour mettre en valeur la musculature des athlètes.
 
-- sa 8 juil 15h00 GF
+- di 9 juil 17h30 GF
 
 [54259]  
 **Le Dix-septième parallèle**  
@@ -78,7 +78,7 @@ de Joris Ivens, Marceline Loridan
 France-Vietnam / 1967 / 119 min / DCP  
 La lutte quotidienne du village de Vin-Linh, sur le dix-septième parallèle, dans la zone « démilitarisée » qui sépare le Nord du Sud Vietnam. Tourné avec du matériel léger et en son direct, le film suit au plus près la vie des habitants réfugiés dans des caves.
 
-- sa 8 juil 19h15 GF
+- je 6 juil 20h15 GF
 
 [58055]  
 **En passant par la Lorraine**  
@@ -95,7 +95,7 @@ de Nicolas Philibert
 France / 2001 / 104 min / VF / DCP  
 Immersion au cœur de l'école d'un petit village rural d'Auvergne, dans son unique classe qui va de la maternelle au CM2. Jour après jour, on suit le quotidien de cette petite communauté d'enfants qui s'organise autour de l'instituteur.
 
-- sa 24 juin 18h30 HL
+- sa 24 juin 18h00 HL
 
 [68149]  
 **La Forteresse blanche**  
@@ -150,7 +150,7 @@ Le « Parvo », caméra conçue par André Debrie, est la vedette du film de Dzi
 
 Copie non sonorisée.
 
-- lu 26 juin 18h00 GF
+- je 6 juil 18h30 GF
 
 [53249]  
 **Hôtel des Invalides**  
@@ -182,7 +182,7 @@ Paris, mai 1962. La guerre d'Algérie vient de s'achever. En ce premier mois de 
 
 Chronique de la vie parisienne au mois de mai 1962. **Restauré par les Archives Françaises du Film du CNC dans le cadre de leur plan de numérisation.**
 
-- di 25 juin 20h30 HL
+- di 25 juin 20h45 HL
 
 [57842]  
 **Monsieur et Madame Curie**  
@@ -206,7 +206,7 @@ Dans le grand nord canadien, Nanouk construit un igloo pour y passer la nuit ave
 
 Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo.
 
-- sa 24 juin 14h30 HL
+- di 25 juin 14h30 HL
 
 [154375]  
 **La pieuvre**  
@@ -242,6 +242,14 @@ Chronique de la campagne du futur président Kennedy et du sénateur Humphrey po
 
 - me 5 juil 20h15 GF
 
+[53211]  
+**Primate**  
+de Frederick Wiseman  
+États-Unis / 1974 / 105 min / DCP  
+Ce film est une étude du comportement des singes en captivité au Yerkes Primate Research Center, à Atlanta, ainsi que de celui, ambivalent, des chercheurs pris entre expérimentation inhumaine et relation affective.
+
+- sa 24 juin 20h30 HL
+
 [63749]  
 **Récréations**  
 de Claire Simon  
@@ -256,7 +264,8 @@ de Hervé Le Roux
 France / 1995 / 180 min / DCP  
 Le 10 juin 1968, des étudiants en cinéma filment la reprise du travail aux usines Wonder de Saint-Ouen. Une jeune ouvrière dit qu'elle ne rentrera pas. Un quart de siècle plus tard, la recherche de cette femme prend le tour d'une enquête quasi-obsessionnelle...
 
-- di 2 juil 17h30 GF
+- di 2 juil 17h30 GF  
+- sa 8 juil 14h30 GF
 
 [48632]  
 **Le Sang des bêtes**  
@@ -274,7 +283,7 @@ de Claude Lanzmann
 France / 2000 / 95 min / DCP  
 Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre.
 
-- lu 3 juil 20h30 GF
+- lu 3 juil 18h00 GF
 
 [67847]  
 **Sois belle et tais-toi**  
@@ -283,7 +292,7 @@ France / 1977 / 111 min / 35 mm
 Avec Ellen Burstyn, Jane Fonda, Anne Wiazemsky.  
 Vingt-quatre actrices françaises et américaines parlent de leurs expériences professionnelles en tant que femmes, leurs rôles et leurs rapports avec les réalisateurs et les équipes techniques. Bilan collectif sur une profession qui ne permet que des rôles stéréotypés et aliénants. .
 
-- sa 1 juil 14h30 GF
+- lu 3 juil 20h00 GF
 
 [68124]  
 **Sud**  
