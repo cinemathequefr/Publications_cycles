@@ -9,7 +9,7 @@ France / 1974 / 90 min / Numérique
 Avec Valéry Giscard d'Estaing.  
 1974\. Valéry Giscard d'Estaing, alors ministre de l'Economie et des Finances,se lance dans une campagne « à l'américaine ». Raymond Depardon suit partout le fringant candidat à la présidentielle et capte des instants rares et historiques de la classe politique française.
 
-- ve 23 juin 20h15 HL
+- sa 24 juin 20h45 HL
 
 [65713]  
 **Acéra ou le bal des sorcières**  
@@ -44,7 +44,7 @@ France-Suisse-RFA / 1969 / 270 min / 35 mm
 Avec Emmanuel d'Astier de la Vigerie, Georges Bidault, Matthäus Bleibinger.  
 Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse la chronique de cette occupation et des différentes réactions de la population : certains vont s'engager dans la Résistance pendant que d'autres collaborent et dénoncent leurs voisins.
 
-- je 22 juin 18h00 HL
+- ve 23 juin 18h00 HL
 
 [52364]  
 **Chronique d'un été**  
@@ -120,7 +120,7 @@ d'Agnès Varda
 France / 1999 / 82 min / 35 mm  
 Un peu partout en France, Agnès Varda a rencontré des glaneurs et des glaneuses. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant.
 
-- di 25 juin 17h15 HL
+- di 25 juin 18h30 HL
 
 [50523]  
 **L'Hippocampe**  
@@ -182,7 +182,7 @@ Paris, mai 1962. La guerre d'Algérie vient de s'achever. En ce premier mois de 
 
 Chronique de la vie parisienne au mois de mai 1962. **Restauré par les Archives Françaises du Film du CNC dans le cadre de leur plan de numérisation.**
 
-- di 25 juin 19h15 HL
+- di 25 juin 20h30 HL
 
 [57842]  
 **Monsieur et Madame Curie**  
@@ -242,21 +242,13 @@ Chronique de la campagne du futur président Kennedy et du sénateur Humphrey po
 
 - me 5 juil 20h15 GF
 
-[53211]  
-**Primate**  
-de Frederick Wiseman  
-États-Unis / 1974 / 105 min / DCP  
-Ce film est une étude du comportement des singes en captivité au Yerkes Primate Research Center, à Atlanta, ainsi que de celui, ambivalent, des chercheurs pris entre expérimentation inhumaine et relation affective.
-
-- ve 23 juin 18h00 HL
-
 [63749]  
 **Récréations**  
 de Claire Simon  
 France / 1991 / 54 min / 8 mm  
 Par l'observation distante d'une cour de récréation de maternelle, Claire Denis révèle les lois et la violence qui régissent ce petit monde de jeux enfantins.
 
-- sa 24 juin 20h45 HL
+- je 22 juin 18h00 GF
 
 [60776]  
 **Reprise**  

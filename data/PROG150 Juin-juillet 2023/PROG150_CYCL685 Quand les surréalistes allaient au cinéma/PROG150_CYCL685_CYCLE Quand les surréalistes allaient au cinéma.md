@@ -93,7 +93,7 @@ de Frank Borzage
 Avec Mary Duncan, Charles Farrell, Ivan Linow.  
 Une jeune femme dont l'amant est emprisonné pour meurtre, rencontre un jeune homme vagabond. ils sympathisent et peu à peu un sentiment amoureux naît entre eux tandis que la jeune femme est « surveillée » par le corbeau qu'a laissé dans ce but son amant
 
-- ve 16 juin 18h00 HL
+- sa 17 juin 18h00 HL
 
 [35977]  
 **Hellzapoppin**  
@@ -115,15 +115,7 @@ Avec Janet Gaynor, Charles Farrell, Ben Bard.
 À Paris, en 1914, un balayeur épouse une jeune orpheline le jour de son départ à la guerre.  
 Copie avec musique.
 
-- sa 17 juin 20h00 HL
-
-[113611]  
-**Histoire de détective**  
-de Charles Dekeukeleire  
-Belgique / 1929 / 36 min
-
-- sa 24 juin 19h30 GF  
-Film suivi de _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel
+- sa 17 juin 20h15 HL
 
 [154369]  
 **Hôtel Drouot**  
@@ -132,14 +124,6 @@ France / 2003 / 15 min / Numérique
 
 - me 21 juin 20h45 JE  
 Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze, _André Breton malgré tout_ de Fabrice Maze
-
-[82660]  
-**L'Imitation du cinéma**  
-de Marcel Mariën  
-Belgique / 1959 / 40 min
-
-- sa 24 juin 19h30 GF  
-Film précédé de _Histoire de détective_ de Charles Dekeukeleire et suivi de de _La Perle_ de Henri d' Ursel
 
 [36414]  
 **King Kong**  
@@ -158,7 +142,7 @@ D'après les pièces _Die Büchse der Pandora_ et _Erdgeist_ de Frank Wedekind.
 Avec Louise Brooks, Fritz Kortner, Franz Lederer, Carl Goetz.  
 Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils.
 
-- ve 16 juin 20h30 HL
+- ve 16 juin 20h00 HL
 
 [62687]  
 **Meshes of the Afternoon**  
@@ -182,7 +166,7 @@ Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui port
 
 Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher. _« Contrairement à la plupart des cinéastes hollywoodiens, qui sont sans descendance réelle, c'est l'extrême singularité de la vision du monde de Tod Browning qui, peu à peu et avec la nécessité économique d'en administrer des preuves matérielles indiscutables, affirma son être de cinéaste. C'est en cela qu'il est, sinon moderne, du moins notre contemporain. »_
 
-- sa 17 juin 18h00 HL
+- ve 16 juin 18h00 HL
 
 [154368]  
 **L'Œil à l'état sauvage**  
@@ -191,14 +175,6 @@ France / 2003 / 26 min / Numérique
 
 - me 21 juin 20h45 JE  
 Film suivi d'_André Breton malgré tout_ de Fabrice Maze, _Hôtel Drouot_ de Fabrice Maze
-
-[46205]  
-**La Perle**  
-de Henri d' Ursel  
-Belgique / 1928
-
-- sa 24 juin 19h30 GF  
-Film précédé de _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën
 
 [33073]  
 **Peter Ibbetson**  
@@ -245,8 +221,10 @@ Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis,
 
 ## Rencontres et conférences
 
-**Film + Dialogue avec Dominique PaÏni Dominique Rabourdin**  
-Rencontre animée par Dominique Païni
+**Film + Dialogue entre Dominique PaÏni et Dominique Rabourdin**  
+« Ce qu'il y a de plus spécifique dans les moyens du cinéma, c'est de toute évidence le pouvoir de concrétiser les puissances de l'amour qui restent malgré tout déficientes dans les livres, du seul fait que rien ne peut y rendre la séduction ou la détresse d'un regard, ou certains vertiges sans prix. Et que dire de l'impuissance radicale des arts plastiques dans ce domaine (qu'on songe qu'il ne s'est pas trouvé un peintre pour nous laisser l'image radieuse du baiser). Le cinéma est seul à étendre là son empire et cela suffirait amplement à sa consécration. Quelles traines incomparables, à jamais étincelantes, laissant à cet égard dans le souvenir des films comme _Ah ! Le beau voyage_ \[_A Little Journey_, Robert Z. Leonard, 1927\] ou _Peter Ibbetson_ et comme les chances suprêmes de la vie se tamisent sous leur rayon ! » André Breton, _L'Âge du cinéma_, novembre 1951  
+**Dominique Païni** a dirigé la Cinémathèque française de 1991 à 2000. Théoricien de l'art, il a publié plusieurs livres sur le cinéma. Commissaire d'expositions, il est, avec l'historienne de l'art Alix Agret, commissaire de « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars – 10 septembre 2023).  
+Dominique Rabourdin est réalisateur de célèbres émissions de télévision (_Un Siècle d'écrivains_, _Océaniques_, _Métropolis_...) et de documentaires (_André Breton par André Breton_, _Quelques jours avec Sirk_, _Michel Bouquet « Ma vocation d'acteur »_...). En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place).
 
 - sa 17 juin 14h30 HL  
 À la suite de la projection de _Peter Ibbetson_ de Henry Hathaway (voir p. xx)

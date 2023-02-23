@@ -104,7 +104,7 @@ Avec Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn.
 Un prêtre combat un démon qui a investi l'âme d'une fillette.
 
 - di 4 juin 17h00 HL  
-- sa 17 juin 18h30 GF
+- sa 17 juin 18h15 GF
 
 [35701]  
 **La Fugue**  
@@ -146,8 +146,7 @@ D'après le livre _All the President's Men_ de Carl Bernstein et Bob Woodward.
 Avec Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam.  
 Bob Woodward et Carl Bernstein, journalistes du « Washington Post », dévoilent les détails du scandale du Watergate qui mène à la démission du président Richard Nixon.
 
-- me 7 juin 21h00 GF  
-- di 25 juin 17h45 GF
+- me 7 juin 21h00 GF
 
 [54404]  
 **L'Inspecteur Harry**  
@@ -215,17 +214,6 @@ Une compétition d'arts martiaux est organisée par un mystérieux Han, derrièr
 
 - sa 10 juin 18h00 GF
 
-[34020]  
-**Orange mécanique**  
-**(A Clockwork Orange)**  
-de Stanley Kubrick  
-Grande-Bretagne / 1970 / 136 min / VOSTF / DCP  
-D'après le roman _L'Orange mécanique_ d'Anthony Burgess.  
-Avec Malcolm McDowell, Adrienne Corri, Patrick Magee.  
-Dans une société futuriste, Alex, adolescent pervers, exerce avec sa bande une terreur aveugle sur tout son entourage. Après son arrestation, des psychiatres l'emploient comme cobaye d'une expérience censée éliminer les pulsions agressives.
-
-- di 25 juin 14h30 HL
-
 [35614]  
 **Rachel, Rachel**  
 de Paul Newman  
@@ -254,7 +242,7 @@ de George Lucas
 Avec Robert Duvall, Donald Pleasence, Maggie McOmie, Don Pedro Colley.  
 Au XXV<sup>e</sup> siècle, dans une cité souterraine futuriste où les gens sont identifiés par des chiffres et où tout est interdit, deux hommes et une femme se rebellent et tentent de s'échapper.
 
-- sa 17 juin 21h00 GF
+- sa 17 juin 20h45 GF
 
 [34777]  
 **Un après-midi de chien**  
@@ -295,6 +283,5 @@ de Sydney Pollack
 Avec Robert Mitchum, Ken Takakura, Keiko Kishi, Brian Keith.  
 Le détective privé Harry Kilmer retourne au Japon où il a servi pendant la Seconde Guerre mondiale, pour sauver des griffes des Yakuza la fille d'un ami qui a été kidnappée. Cette mission dans les rouages du syndicat japonais du crime le confronte à son passé.
 
-- sa 10 juin 20h30 GF  
-- di 25 juin 20h30 GF
+- sa 10 juin 20h30 GF
 
