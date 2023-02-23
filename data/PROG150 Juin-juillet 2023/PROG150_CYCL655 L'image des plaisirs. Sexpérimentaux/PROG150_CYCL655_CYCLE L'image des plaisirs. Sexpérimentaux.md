@@ -913,4 +913,11 @@ Les noms du film et du réalisateur ne doivent pas être mentionnés. Mettre seu
 
 - sa 17 juin 18h30 JE
 
+## Rencontres et conférences
+
+**Films + Dialogue L'Image des plaisirs**  
+Rencontre animée par Nicole Brenez et Luc Vialle
+
+- sa 3 juin 14h30 GF
+
 Remerciements : Tous les cinéastes, ayants-droits, distributeurs, et particulièrement Florence Auffret, Robert Bonamy, Pascale Cassagnau, Go Hirasawa, Lung Chieh Lim, Frédéric Papon, MM Serra. ADAGP, American Genre Film Archives, Archives Françaises du Film, Arsenal – Institut für Film und Videokunst e.V., Avatar Films, Canyon Cinema Foundation, Capricci, CNC – Centre National du Cinéma et de l'image animée, Centre Pompidou (MNAM/CCI), Chicago Film Archives, Cinedoc, Cinemateca Uruguaya, Cinémathèque Royale de Belgique, Conner Family Trust (Michelle Silva), Danish Film Institute, Deutsche Kinemathek, Equinox Creative Group, Filmoteca de Catalunya – Departamento de Cultura, Filmoteca de Valencia, Filmoteca de Zaragoza, Gaumont Pathé Archives, Institut National du Sport, de l'Expertise et de la Performance, Japan Society, Kobe Planet, Le Fresnoy, Light Cone, Lux Distribution, Nanzuka Underground, Re:voir, Sixpackfilm, Svenska Filminstitutet, The Film-Makers' Cooperative, The Museum of Modern Art, Venin Films.
