@@ -25,7 +25,7 @@ de Terrence Malick
 Avec Martin Sheen, Sissy Spacek, Warren Oates.  
 Holly, 15 ans, rencontre Kit, un jeune éboueur qui vient de plaquer son travail. Lorsque le père d'Holly s'oppose à leur amour, Kit le tue. Le premier film de Terrence Malick se transforme alors en une cavale insouciante et meurtrière sur les routes du Dakota du Sud.
 
-- di 4 juin 19h30 HL  
+- di 4 juin 19h45 HL  
 - me 21 juin 20h30 GF
 
 [35805]  
@@ -35,7 +35,8 @@ d'Arthur Penn
 Avec Warren Beatty, Faye Dunaway, Michael J. Pollard.  
 Etats-Unis, les années 1930. C'est la Grande Dépression, suite au krach boursier de 1929. Un couple d'amants criminels, Bonnie Parker et Clyde Barrow, sillone le pays en braquant des banques.
 
-- me 31 mai 20h00 HL
+- me 31 mai 20h00 HL  
+Ouverture de la rétrospective
 
 [45254]  
 **Bullitt**  
@@ -81,7 +82,6 @@ de Jerry Schatzberg
 Avec Al Pacino, Gene Hackman, Dorothy Tristan.  
 Après six ans de prison, Max veut aller à Pittsburgh ouvrir un car-wash. Lion tente de rejoindre Detroit pour retrouver celle qui lui a fait un enfant cinq ans plus tôt.
 
-- di 4 juin 14h30 HL  
 - je 15 juin 17h00 GF
 
 [31676]  
@@ -103,7 +103,7 @@ D'après le roman _L'Exorciste_ de William Peter Blatty.
 Avec Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn.  
 Un prêtre combat un démon qui a investi l'âme d'une fillette.
 
-- di 4 juin 17h00 HL  
+- di 4 juin 17h15 HL  
 - sa 17 juin 17h30 GF
 
 [35701]  
@@ -214,6 +214,17 @@ Une compétition d'arts martiaux est organisée par un mystérieux Han, derrièr
 
 - sa 10 juin 18h00 GF
 
+[34020]  
+**Orange mécanique**  
+**(A Clockwork Orange)**  
+de Stanley Kubrick  
+Grande-Bretagne / 1970 / 136 min / VOSTF / DCP  
+D'après le roman _L'Orange mécanique_ d'Anthony Burgess.  
+Avec Malcolm McDowell, Adrienne Corri, Patrick Magee.  
+Dans une société futuriste, Alex, adolescent pervers, exerce avec sa bande une terreur aveugle sur tout son entourage. Après son arrestation, des psychiatres l'emploient comme cobaye d'une expérience censée éliminer les pulsions agressives.
+
+- di 11 juin 14h30 HL
+
 [35614]  
 **Rachel, Rachel**  
 de Paul Newman  
@@ -252,7 +263,7 @@ de Sidney Lumet
 Avec Al Pacino, John Cazale, Charles Durning.  
 Par un chaud après-midi d'août, Sonny et ses complices braquent la First Savings Bank, à Brooklyn. Mais le coffre est quasiment vide et la police a encerclé les lieux. Nul échappatoire possible. Le braquage se transforme en prise d'otages et en cirque médiatique.
 
-- di 11 juin 14h30 HL
+- di 4 juin 14h30 HL
 
 [34999]  
 **Un été 42**  

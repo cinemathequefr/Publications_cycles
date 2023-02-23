@@ -4,7 +4,7 @@
 
   * Semaine d'un assassin = Cannibal Man (La)
 
-## François de Roubaix (12)
+## François de Roubaix (13)
 
   * Aventuriers (Les)  
   * Comment ça va ? J'm'en fous = Les Malentendus  
@@ -13,6 +13,7 @@
   * François de Roubaix l'aventurier  
   * Gobbo (Le)  
   * Grande lessive (!) (La)  
+  * Grandes gueules (Les)  
   * Lèvres rouges (Les)  
   * Morgane et ses nymphes  
   * Samouraï (Le)  
@@ -236,7 +237,7 @@
   * Yolanda et le voleur  
   * Ziegfeld Follies
 
-## Warner, années 70 (26)
+## Warner, années 70 (27)
 
   * Alice n'habite plus ici  
   * Ballade sauvage (La)  
@@ -257,6 +258,7 @@
   * Klute  
   * Luke la main froide  
   * Opération Dragon  
+  * Orange mécanique  
   * Rachel, Rachel  
   * Shining  
   * THX 1138  

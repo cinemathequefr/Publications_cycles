@@ -192,7 +192,7 @@ Suisse / 1986 / 53 min / DCP
 Avec Cleo Uebelmann.  
 « Devenu culte dans le SM _underground_, le film se confronte cependant au paradoxe du SM : le caractère consensuel de la relation. Mais ici l'audience, se demande si Domina et sa cliente sont une seule et même femme. » (Karen Smith)
 
-- di 4 juin 20h00 GF
+- di 4 juin 20h15 GF
 
 ## Séance 29 : Histoires des yeux
 

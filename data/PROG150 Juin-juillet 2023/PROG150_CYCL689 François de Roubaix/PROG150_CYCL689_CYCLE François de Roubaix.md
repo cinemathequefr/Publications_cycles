@@ -61,6 +61,14 @@ Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation 
 
 - sa 24 juin 18h30 GF
 
+[48381]  
+**Les Grandes gueules**  
+de Robert Enrico  
+France-Italie / 1965 / 128 min / DCP  
+D'après le roman _Le Haut-Fer_ de José Giovanni.
+
+- di 25 juin 17h30 GF
+
 [39701]  
 **Les Lèvres rouges**  
 de Harry Kümel  
@@ -101,5 +109,5 @@ D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.
 de José Giovanni  
 France-Italie / 1972 / 35 mm
 
-- di 25 juin 19h00 GF
+- di 25 juin 20h15 GF
 
