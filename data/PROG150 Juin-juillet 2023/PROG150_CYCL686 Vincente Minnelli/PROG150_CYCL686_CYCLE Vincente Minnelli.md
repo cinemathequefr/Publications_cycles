@@ -10,7 +10,7 @@ de Vincente Minnelli
 Avec Spencer Tracy, Elizabeth Taylor, Joan Bennett.  
 Stanley vit mal son rôle de futur grand-père, tandis que son épouse ne cache pas sa joie. Le couple se dispute constamment, jusqu'à l'arrivée de l'enfant.
 
-- je 6 juil 20h00 HL  
+- lu 10 juil 20h00 GF  
 - me 26 juil 20h00 HL
 
 [35257]  
@@ -21,7 +21,7 @@ de Vincente Minnelli
 D'après la pièce _Goodbye Charlie_ de George Axelrod.  
 Avec Tony Curtis, Debbie Reynolds.
 
-- di 9 juil 20h00 HL
+- di 9 juil 19h30 HL
 
 [35211]  
 **Brigadoon**  
@@ -40,7 +40,7 @@ de Vincente Minnelli
 États-Unis / 1959  
 Avec Robert Mitchum, George Peppard, Eleanor Parker.
 
-- sa 8 juil 20h30 HL  
+- sa 8 juil 18h30 HL  
 - sa 29 juil 17h00 HL
 
 [44951]  
@@ -53,6 +53,7 @@ Avec Judy Garland, Margaret O'Brien, Mary Astor.
 Les Smith vivent paisiblement à Saint-Louis, Missouri. Lorsque le père accepte un emploi à New York, les enfants ne peuvent se résoudre à quitter leurs amis, d'autant plus que les aînées vivent leurs premières amours.
 
 - sa 1 juil 15h00 HL  
+- je 6 juil 19h00 HL  
 - je 20 juil 18h00 HL
 
 [44828]  
@@ -116,7 +117,6 @@ de Vincente Minnelli
 Avec Leslie Caron, Ethel Barrymore, Farley Granger.  
 A bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour.
 
-- lu 10 juil 19h00 GF  
 - lu 24 juil 21h15 GF
 
 [58549]  
@@ -137,7 +137,7 @@ de Vincente Minnelli
 D'après le roman _The Courtship of Eddie's father_ de Mark Toby.  
 Avec Glenn Ford, Shirley Jones.
 
-- di 9 juil 17h30 HL
+- di 9 juil 17h00 HL
 
 [35222]  
 **Kismet**  
@@ -183,6 +183,7 @@ de Vincente Minnelli
 D'après la comédie musicale _On a Clear Day, You Can See Forever_ de Burton Lane et Alan Jay Lerner.  
 Avec Barbra Streisand, Yves Montand.
 
+- me 12 juil 18h00 GF  
 - me 19 juil 18h00 HL
 
 [70387]  
@@ -193,6 +194,7 @@ de Vincente Minnelli
 Avec Ingrid Bergman, Liza Minnelli, Charles Boyer.  
 Nina, une actrice célèbre, est attendue à une conférence de presse. Pour l'heure elle se trouve dans une voiture en compagnie d'un homme à qui elle va raconter son histoire
 
+- me 12 juil 20h45 GF  
 - me 19 juil 20h45 HL
 
 [35233]  
@@ -204,7 +206,7 @@ D'après le roman _Le Père de la mariée_ d'Edward Streeter.
 Avec Spencer Tracy, Joan Bennett, Elizabeth Taylor.  
 Stanley Banks prépare le mariage de sa fille Kay, mais s'angoisse à l'idée que sa cadette n'ait pas choisi le bon époux.
 
-- je 6 juil 18h00 HL  
+- lu 10 juil 18h00 GF  
 - me 26 juil 18h00 HL
 
 [35285]  
@@ -246,7 +248,7 @@ D'après le roman _Los cuatro jinetes del Apocalipsis_ de Vicente Blasco Ibáñe
 Avec Charles Boyer, Ingrid Thulin, Lee J. Cobb, Glenn Ford.  
 Deux familles richissimes, les Desnoyers et les Von Hartrott, sont réunies afin d'accueillir Heinrich von Hartrott après ses études en Allemagne qu'il déclare à la stupeur de tous avoir abandonnées pour se consacrer au parti nazi. Au déclenchement de la guerre, Heinrich rejoint les troupes allemandes et va être amené à lutter contre son propre cousin Julio Desnoyers.
 
-- di 9 juil 14h30 HL  
+- sa 8 juil 15h00 HL  
 - sa 29 juil 20h00 HL
 
 [34252]  
@@ -324,7 +326,7 @@ D'après la comédie musicale _Bells Are Ringing_ de Betty Comden , Adolph Green
 Avec Judy Holliday, Dean Martin.  
 Ella Peterson, une standardiste new-yorkaise, s'immisce dans les affaires des abonnés téléphoniques. Adaptation d'une comédie musicale créée à Broadway en 1956.
 
-- sa 8 juil 18h30 HL  
+- di 9 juil 14h30 HL  
 - di 30 juil 19h30 HL
 
 [35216]  
@@ -334,7 +336,6 @@ de Vincente Minnelli
 États-Unis / 1943 / 98 min / VOSTF / 35 mm  
 Avec Cab Calloway, Rex Ingram, Duke Ellington, Louis Armstrong.
 
-- lu 3 juil 18h00 GF  
 - lu 17 juil 20h45 GF
 
 [35259]  

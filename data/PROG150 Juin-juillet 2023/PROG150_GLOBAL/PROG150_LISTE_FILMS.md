@@ -1,5 +1,144 @@
 # Liste des films par cycle
 
+## Eloy de la Iglesia (1)
+
+  * Semaine d'un assassin = Cannibal Man (La)
+
+## François de Roubaix (13)
+
+  * Aventuriers (Les)  
+  * Comment ça va ? J'm'en fous = Les Malentendus  
+  * Dernier domicile connu  
+  * Far from Dallas  
+  * François de Roubaix l'aventurier  
+  * Gobbo (Le)  
+  * Grande lessive (!) (La)  
+  * Grandes gueules (Les)  
+  * Lèvres rouges (Les)  
+  * Morgane et ses nymphes  
+  * Samouraï (Le)  
+  * Saut de l'ange (Le)  
+  * Scoumoune (La)
+
+## L'image des plaisirs. Sexpérimentaux (116)
+
+  * Action érotico-patriotique  
+  * Amour fou (L')  
+  * Anthem  
+  * Apparatus « M »  
+  * Apple (The)  
+  * Asparagus  
+  * Attendant (The)  
+  * Aussi fort que tu peux  
+  * Awake but dreaming  
+  * Baby doll  
+  * Barbie aussi peut être triste  
+  * Blanc X  
+  * Blanche  
+  * Blind Porn  
+  * Blue Movie  
+  * Ce qu'il advient quand de pauvres beaux hétéros postent des photos d'eux sur l'internet  
+  * Cette odeur de sexe  
+  * Come with me, swim with you  
+  * Cum In My Heart  
+  * Dan sak sit  
+  * Die Jungs vom Bahnhof Zoo  
+  * Diptychon  
+  * Dreams and Past Crimes of the Archduke (The)  
+  * Easter  
+  * Ecce Homo  
+  * El Guaraches  
+  * Electric Desire  
+  * Enduring Ornament  
+  * Erotique  
+  * Essence d'Absinthe  
+  * Eva  
+  * Exquisite Corpus (The)  
+  * Fall of Communism As Seen in Gay Pornography (The)  
+  * Fear of Disclosure  
+  * Fig.4  
+  * Fingered  
+  * Fingers and Kisses  
+  * Forbidden Letters  
+  * Fountain  
+  * Fuck  
+  * Fuck Tree  
+  * Gracias Amigos  
+  * Habeas Corpus  
+  * Hand to mouth  
+  * Head  
+  * Hermaphrodite Bikini  
+  * Herstory of porn : Reel to Real  
+  * Heure Autosexuelle (L')  
+  * India Cabaret TV  
+  * ITSOFOMO – In the shadow of forward motion  
+  * Ixe  
+  * Je ne sais pas qui je suis, mais je sais ce que je pense  
+  * Johan  
+  * Journal d'un homme marié  
+  * Karima  
+  * Kirschenzeit  
+  * Kiss 25  
+  * La Belle et la Bête  
+  * Les Ciseaux  
+  * Lexique Dyslexique  
+  * Lezzieflick  
+  * Light-Sleep (Félálom)  
+  * Loads  
+  * Loi X – la nuit en permanence (La)  
+  * Mano Destra  
+  * Mayhem  
+  * Me and Rubyfruit  
+  * Met  
+  * Murmures, une histoire de femmes coréennes  
+  * Mutantes  
+  * Noema  
+  * Oliver  
+  * Parabellum Girl  
+  * Pour une nuit  
+  * Prehistoric Cabaret  
+  * Prince of peace  
+  * Ready-Made with Pelle Lowe  
+  * Rein/Raus  
+  * Removed  
+  * Right side of my brain (The)  
+  * Rouille  
+  * Ruines (Les)  
+  * Scieurs / Jouir malgré tout, Opus 2 (Les)  
+  * Sebastiane  
+  * Self-Portrait in 23 rounds: A Chapter in David Wojnarowicz 's life, 1989-1991  
+  * Sewing circle (The)  
+  * Shaheen  
+  * Siège (Le)  
+  * Sodom  
+  * Solitary Acts#4  
+  * Story of I (The)  
+  * Survival of the Sickest  
+  * Sylvia Kristel, Paris  
+  * Sync  
+  * Tell me when you die  
+  * The Action  
+  * The color of love  
+  * The Sex Worker (RhED Arts Project 2016-18)  
+  * The Tanti Man  
+  * This Is Not an AIDS Advertisement  
+  * Thrust in me  
+  * To the happy few  
+  * Troisième œil (Le)  
+  * Va te faire enculer  
+  * Violentes femmes  
+  * Virtual walk thru 'The Sex Worker' Exhibition, Gasworks Arts Park  
+  * Warm  
+  * We fuck alone  
+  * What I did last summer  
+  * When I put my hands on your body  
+  * Where evil dwells  
+  * Whore Pride  
+  * Why I Want to Fuck Djokhar Tsarnaev  
+  * Zarosli  
+  * Zentrale, 2. Version  
+  * Zohre et Manouchehr = Tabous
+
 ## Le documentaire, 25 indispensables (33)
 
   * 1974, une partie de campagne  
@@ -36,7 +175,7 @@
   * Sud  
   * Vampire (Le)
 
-## Quand les surréalistes allaient au cinéma (24)
+## Quand les surréalistes allaient au cinéma (21)
 
   * Âge d'or (L')  
   * André Breton malgré tout  
@@ -49,15 +188,12 @@
   * Femme au corbeau (La)  
   * Hellzapoppin  
   * Heure suprême (L')  
-  * Histoire de détective  
   * Hôtel Drouot  
-  * Imitation du cinéma (L')  
   * King Kong  
   * Loulou  
   * Meshes of the Afternoon  
   * Monstrueuse parade (La)  
   * Œil à l'état sauvage (L')  
-  * Perle (La)  
   * Peter Ibbetson  
   * Portrait de Dorian Gray (Le)  
   * Un chien andalou  

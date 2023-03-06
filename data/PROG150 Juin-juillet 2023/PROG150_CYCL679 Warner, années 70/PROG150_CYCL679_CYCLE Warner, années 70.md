@@ -25,7 +25,7 @@ de Terrence Malick
 Avec Martin Sheen, Sissy Spacek, Warren Oates.  
 Holly, 15 ans, rencontre Kit, un jeune éboueur qui vient de plaquer son travail. Lorsque le père d'Holly s'oppose à leur amour, Kit le tue. Le premier film de Terrence Malick se transforme alors en une cavale insouciante et meurtrière sur les routes du Dakota du Sud.
 
-- di 4 juin 19h30 HL  
+- di 4 juin 19h45 HL  
 - me 21 juin 20h30 GF
 
 [35805]  
@@ -35,7 +35,8 @@ d'Arthur Penn
 Avec Warren Beatty, Faye Dunaway, Michael J. Pollard.  
 Etats-Unis, les années 1930. C'est la Grande Dépression, suite au krach boursier de 1929. Un couple d'amants criminels, Bonnie Parker et Clyde Barrow, sillone le pays en braquant des banques.
 
-- me 31 mai 20h00 HL
+- me 31 mai 20h00 HL  
+Ouverture de la rétrospective
 
 [45254]  
 **Bullitt**  
@@ -81,7 +82,6 @@ de Jerry Schatzberg
 Avec Al Pacino, Gene Hackman, Dorothy Tristan.  
 Après six ans de prison, Max veut aller à Pittsburgh ouvrir un car-wash. Lion tente de rejoindre Detroit pour retrouver celle qui lui a fait un enfant cinq ans plus tôt.
 
-- di 4 juin 14h30 HL  
 - je 15 juin 17h00 GF
 
 [31676]  
@@ -103,8 +103,8 @@ D'après le roman _L'Exorciste_ de William Peter Blatty.
 Avec Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn.  
 Un prêtre combat un démon qui a investi l'âme d'une fillette.
 
-- di 4 juin 17h00 HL  
-- sa 17 juin 18h30 GF
+- di 4 juin 17h15 HL  
+- sa 17 juin 17h30 GF
 
 [35701]  
 **La Fugue**  
@@ -125,7 +125,7 @@ Avec James Caan, Robert Duvall, Shirley Knight.
 Paniquée par la nouvelle de sa grossesse, Natalie Revena quitte le domicile conjugal en ne laissant qu'une lettre à son époux. Sur la route, elle rencontre Jimmy Kilgannon, bouleversé par un accident, à la recherche de sa fiancée.
 
 - lu 5 juin 20h15 GF  
-- sa 17 juin 16h00 GF
+- sa 17 juin 15h30 GF
 
 [35286]  
 **Graffiti party**  
@@ -146,8 +146,7 @@ D'après le livre _All the President's Men_ de Carl Bernstein et Bob Woodward.
 Avec Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam.  
 Bob Woodward et Carl Bernstein, journalistes du « Washington Post », dévoilent les détails du scandale du Watergate qui mène à la démission du président Richard Nixon.
 
-- me 7 juin 21h00 GF  
-- di 25 juin 17h45 GF
+- me 7 juin 21h00 GF
 
 [54404]  
 **L'Inspecteur Harry**  
@@ -224,7 +223,7 @@ D'après le roman _L'Orange mécanique_ d'Anthony Burgess.
 Avec Malcolm McDowell, Adrienne Corri, Patrick Magee.  
 Dans une société futuriste, Alex, adolescent pervers, exerce avec sa bande une terreur aveugle sur tout son entourage. Après son arrestation, des psychiatres l'emploient comme cobaye d'une expérience censée éliminer les pulsions agressives.
 
-- di 25 juin 14h30 HL
+- di 11 juin 14h30 HL
 
 [35614]  
 **Rachel, Rachel**  
@@ -254,7 +253,7 @@ de George Lucas
 Avec Robert Duvall, Donald Pleasence, Maggie McOmie, Don Pedro Colley.  
 Au XXV<sup>e</sup> siècle, dans une cité souterraine futuriste où les gens sont identifiés par des chiffres et où tout est interdit, deux hommes et une femme se rebellent et tentent de s'échapper.
 
-- sa 17 juin 21h00 GF
+- sa 17 juin 20h45 GF
 
 [34777]  
 **Un après-midi de chien**  
@@ -264,7 +263,7 @@ de Sidney Lumet
 Avec Al Pacino, John Cazale, Charles Durning.  
 Par un chaud après-midi d'août, Sonny et ses complices braquent la First Savings Bank, à Brooklyn. Mais le coffre est quasiment vide et la police a encerclé les lieux. Nul échappatoire possible. Le braquage se transforme en prise d'otages et en cirque médiatique.
 
-- di 11 juin 14h30 HL
+- di 4 juin 14h30 HL
 
 [34999]  
 **Un été 42**  
@@ -295,6 +294,5 @@ de Sydney Pollack
 Avec Robert Mitchum, Ken Takakura, Keiko Kishi, Brian Keith.  
 Le détective privé Harry Kilmer retourne au Japon où il a servi pendant la Seconde Guerre mondiale, pour sauver des griffes des Yakuza la fille d'un ami qui a été kidnappée. Cette mission dans les rouages du syndicat japonais du crime le confronte à son passé.
 
-- sa 10 juin 20h30 GF  
-- di 25 juin 20h30 GF
+- sa 10 juin 20h30 GF
 
