@@ -203,11 +203,15 @@
     "hashEvenement": "c27990"
   },
   {
-    "idSeance": 103941,
-    "idEvenement": 27991,
+    "idSeance": 103933,
+    "idEvenement": 28167,
     "dateHeure": "2023-03-08T16:00:00",
     "salle": "HL",
     "cycle": [
+      [
+        "Journée d'étude Longue vie à la pellicule",
+        "Les films"
+      ],
       [
         "Journée d'étude Longue vie à la pellicule",
         "Rencontres et conférences"
@@ -219,9 +223,17 @@
         "titre": "Tourner en pellicule aujourd'hui (1)",
         "typeConference": "Table ronde",
         "duree": 45
+      },
+      {
+        "idFilm": 154386,
+        "titre": "Navigators",
+        "realisateurs": "Noah Teichner",
+        "annee": 2023,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "c27991"
+    "hashEvenement": "c27991f154386"
   },
   {
     "idSeance": 100621,
@@ -272,7 +284,7 @@
     "hashEvenement": "f64888"
   },
   {
-    "idSeance": 103942,
+    "idSeance": 104072,
     "idEvenement": 27992,
     "dateHeure": "2023-03-08T16:45:00",
     "salle": "HL",
@@ -750,7 +762,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Frédéric Bonnaud et Danielle Labarthe",
+    "mention": "Séance présentée par Frédéric Bonnaud, Danielle Labarthe et Jacques Audrain",
     "items": [
       {
         "idFilm": 74559,
@@ -1092,14 +1104,16 @@
         "titre": "Franju, l'avion et la DS",
         "realisateurs": "André S. Labarthe",
         "annee": 1987,
-        "duree": 9
+        "duree": 9,
+        "format": "DCP"
       },
       {
         "idFilm": 121602,
         "titre": "Skolimowski à la table",
         "realisateurs": "André S. Labarthe",
         "annee": 1990,
-        "duree": 10
+        "duree": 10,
+        "format": "DCP"
       },
       {
         "idFilm": 152744,
@@ -1239,14 +1253,16 @@
         "titre": "Antonioni, la dernière séquence",
         "realisateurs": "André S. Labarthe",
         "annee": 1985,
-        "duree": 14
+        "duree": 14,
+        "format": "DCP"
       },
       {
         "idFilm": 121598,
         "titre": "Arthur Penn, la dernière séquence",
         "realisateurs": "André S. Labarthe",
         "annee": 1985,
-        "duree": 10
+        "duree": 10,
+        "format": "DCP"
       },
       {
         "idFilm": 65068,
@@ -1841,6 +1857,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Régine Vial et Gaël Teicher",
     "items": [
       {
         "idFilm": 51463,
@@ -1890,6 +1907,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Hervé Joubert-Laurencin",
     "items": [
       {
         "idFilm": 43206,
@@ -1980,7 +1998,8 @@
         "titre": "Taxi Driver mis en pièces par Martin Scorsese",
         "realisateurs": "André S. Labarthe",
         "annee": 1995,
-        "duree": 30
+        "duree": 30,
+        "format": "DCP"
       },
       {
         "idFilm": 128838,
@@ -2202,14 +2221,16 @@
         "titre": "Claude Chabrol à la table",
         "realisateurs": "André S. Labarthe",
         "annee": 1985,
-        "duree": 15
+        "duree": 15,
+        "format": "DCP"
       },
       {
         "idFilm": 117519,
         "titre": "Fuller à la table",
         "realisateurs": "Claude Ventura, André S. Labarthe",
         "annee": 1982,
-        "duree": 11
+        "duree": 11,
+        "format": "DCP"
       },
       {
         "idFilm": 154255,
@@ -2449,7 +2470,8 @@
         "titre": "Adieu Rita",
         "realisateurs": "André S. Labarthe",
         "annee": 1987,
-        "duree": 5
+        "duree": 5,
+        "format": "DCP"
       },
       {
         "idFilm": 86918,

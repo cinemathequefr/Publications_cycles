@@ -23,7 +23,8 @@ Film suivi de _Les amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite
 [154376]  
 **Les amours de la pieuvre**  
 de Jean Painlevé  
-France / 1965 / 13 min / DCP
+France / 1965 / 13 min / DCP  
+Ce film retrace les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers.
 
 - me 28 juin 18h30 GF  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé et suivi de de _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
@@ -52,7 +53,8 @@ de Jean Rouch, Edgar Morin
 France / 1960 / 86 min / DCP  
 Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, vont enquêter sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés, évoquent leurs préoccupations et leurs espoirs et tentent de répondre à la question « Êtes-vous heureux ? ».
 
-- sa 1 juil 14h30 GF
+- sa 1 juil 14h30 GF  
+Voir aussi dialogue p. xx
 
 [59394]  
 **Les Deux Marseillaises**  
@@ -87,7 +89,7 @@ France / 1949 / 32 min / 35 mm
 À travers son agriculture traditionnelle et son industrie florissante, une découverte de la Lorraine et de son sous-sol, riche en charbon et en minerai de fer.
 
 - lu 26 juin 20h00 GF  
-Film suivi de _Hôtel des Invalides_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju, _Les Poussières_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
+Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju et suivi de de _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
 
 [79092]  
 **Etre et avoir**  
@@ -125,7 +127,8 @@ Un peu partout en France, Agnès Varda a rencontré des glaneurs et des glaneuse
 [50523]  
 **L'Hippocampe**  
 de Jean Painlevé  
-France / 1933 / 16 min / DCP
+France / 1933 / 16 min / DCP  
+Ce film surréaliste présente des images spectaculaires d'un hippocampe mâle enceinte donnant naissance à ses petits, et témoigne du charme délicat de cette créature fascinant.
 
 - me 28 juin 18h30 GF  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
@@ -161,12 +164,13 @@ Un film sur le Musée de l'armée à l'hôtel des Invalides, qui se transforme e
 Copie neuve de la Cinémathèque française tirée en collaboration avec Gaumont.
 
 - lu 26 juin 20h00 GF  
-Film précédé d'_En passant par la Lorraine_ de Georges Franju et suivi de de _Monsieur et Madame Curie_ de Georges Franju, _Les Poussières_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
+Film précédé de _Les Poussières_ de Georges Franju et suivi de d'_En passant par la Lorraine_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
 
 [65711]  
 **Hyas, sténorinque, spirographe**  
 de Jean Painlevé  
-France / 1929 / 13 min / DCP
+France / 1929 / 13 min / DCP  
+Ce film est une présentation de ces petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales.
 
 - me 28 juin 18h30 GF  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _La pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
@@ -193,7 +197,7 @@ Avec Nicole Stéphane, Lucien Hubert, Lucien Barjon.
 Portrait de Pierre et Marie Curie, chercheurs de génie, dont les travaux menèrent à la découverte du radium et de la radioactivité.
 
 - lu 26 juin 20h00 GF  
-Film précédé d'_En passant par la Lorraine_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju et suivi de de _Les Poussières_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
+Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _En passant par la Lorraine_ de Georges Franju et suivi de de _Le Sang des bêtes_ de Georges Franju
 
 [41219]  
 **Nanouk l'esquimau**  
@@ -206,13 +210,16 @@ Dans le grand nord canadien, Nanouk construit un igloo pour y passer la nuit ave
 
 Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo.
 
-- di 25 juin 14h30 HL
+- di 25 juin 14h30 HL  
+Voir aussi dialogue p. xx
 
 [154375]  
 **La pieuvre**  
 **(The Octopus)**  
 de Jean Painlevé  
-France / 1928 / 13 min / DCP
+France / 1928 / 13 min / DCP  
+Étude de la pieuvre dans son habitat. Le premier documentaire de vulgarisation scientifique de Jean Painlevé.  
+La Pieuvre a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque
 
 - me 28 juin 18h30 GF  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé et suivi de de _Le Vampire_ de Jean Painlevé
@@ -232,7 +239,7 @@ France / 1954 / 22 min / 16 mm
 Après avoir identifié les diverses sources de poussière, ce documentaire s'attache à observer l'effet qu'elles provoquent sur la santé de l'homme, en particulier dans le cadre de son travail.
 
 - lu 26 juin 20h00 GF  
-Film précédé d'_En passant par la Lorraine_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju et suivi de de _Le Sang des bêtes_ de Georges Franju
+Film suivi de _Hôtel des Invalides_ de Georges Franju, _En passant par la Lorraine_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
 
 [31875]  
 **Primary**  
@@ -264,8 +271,9 @@ de Hervé Le Roux
 France / 1995 / 180 min / DCP  
 Le 10 juin 1968, des étudiants en cinéma filment la reprise du travail aux usines Wonder de Saint-Ouen. Une jeune ouvrière dit qu'elle ne rentrera pas. Un quart de siècle plus tard, la recherche de cette femme prend le tour d'une enquête quasi-obsessionnelle...
 
-- di 2 juil 17h30 GF  
-- sa 8 juil 14h30 GF
+- di 2 juil 17h00 GF  
+- sa 8 juil 14h30 GF  
+Voir aussi dialogue p. xx
 
 [48632]  
 **Le Sang des bêtes**  
@@ -275,7 +283,7 @@ Documentaire consacré aux abattoirs parisiens de Vaugirard et de la Villette da
 Franju dépasse le réalisme du reportage en installant une atmosphère poétique, voire fantastique.
 
 - lu 26 juin 20h00 GF  
-Film précédé d'_En passant par la Lorraine_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju, _Les Poussières_ de Georges Franju
+Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _En passant par la Lorraine_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju
 
 [75848]  
 **Sobibor, 14 octobre 1943, 16 heures**  
@@ -310,4 +318,23 @@ Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Am
 
 - me 28 juin 18h30 GF  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La pieuvre_ de Jean Painlevé
+
+## Rencontres et conférences
+
+**Film + Dialogue avec Pierre Gabaston**
+
+- di 25 juin 14h30 HL  
+À la suite de la projection de _Nanouk l'esquimau_ de Robert J. Flaherty (voir p. xx)
+
+**Film + Dialogue avec Frédérique Berthet**  
+Rencontre animée par Bernard Benoliel
+
+- sa 1 juil 14h30 GF  
+À la suite de la projection de _Chronique d'un été_ de Jean Rouch, Edgar Morin (voir p. xx)
+
+**Film + Dialogue avec David Faroult**  
+Rencontre animée par Bernard Benoliel
+
+- sa 8 juil 14h30 GF  
+À la suite de la projection de _Reprise_ de Hervé Le Roux (voir p. xx)
 

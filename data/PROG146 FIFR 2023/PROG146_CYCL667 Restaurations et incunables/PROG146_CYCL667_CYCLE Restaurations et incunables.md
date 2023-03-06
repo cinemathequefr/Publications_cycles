@@ -121,7 +121,8 @@ Avec Geraldo del Rey, Yoná Magalhães, Maurício do Valle, Othon Bastos.
 Un couple de paysans brésiliens, touché par la misère, est prêt à se compromettre pour s'en sortir. Ils s'en remettent à deux personnages violents et mystiques, symbolisant la révolte : une incarnation de Dieu et l'autre du diable.  
 Restauration 4K conduite par Metrópoles, Lino Meireles et Paloma Cinematográfica à partir du négatif 35 mm original conservé à la Cinemateca brasileira. Travaux réalisés par Estúdio Colors et Estúdio JLS, les cinéastes Luís Abramo et Rogério Moraes, sous la direction de Rodrigo Mercês. Ressortie en salles au troisième trimestre 2023 par Capricci.
 
-- sa 11 mar 21h00 GF
+- sa 11 mar 21h00 GF  
+Séance présentée par Hervé Joubert-Laurencin
 
 [49272]  
 **Et la lumière fut**  
@@ -240,7 +241,8 @@ Avec Danielle Darrieux, Micheline Presle, Paulette Dubost, Michel Galabru.
 Trois vieilles sœurs se réunissent tous les dimanches. Pour l'Épiphanie, le programme est chargé : cimetière, restaurant chinois, galette des rois, puis aller voir une troupe comique du troisième âge dans laquelle joue la quatrième sœur.  
 Scan et restauration en 4K en 2022 par les Films du Losange, avec le soutien du CNC, par Lobster Films pour l'image et par Léon Rousseau (L.E. Diapason) pour le son.
 
-- sa 11 mar 20h00 JE
+- sa 11 mar 20h00 JE  
+Séance présentée par Régine Vial et Gaël Teicher
 
 [39284]  
 **Manolesco, prince des sleepings**  

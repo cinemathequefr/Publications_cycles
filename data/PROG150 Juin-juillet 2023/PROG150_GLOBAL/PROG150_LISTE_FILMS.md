@@ -1,7 +1,46 @@
 # Liste des films par cycle
 
-## Eloy de la Iglesia (1)
+## Ciné-club de Frédéric Bonnaud (2)
 
+  * Comme un torrent  
+  * Non réconciliés ou Seule la violence aide où la violence règne
+
+## Cinéma bis (10)
+
+  * Blastfighter, l'exécuteur  
+  * Descente aux enfers  
+  * Droit de tuer (Le)  
+  * Invincibles de Shaolin (Les)  
+  * Karateka érotica  
+  * Nuits rouges de Harlem (Les)  
+  * Rues de l'enfer (Les)  
+  * Spécial police  
+  * Trafiquants d'hommes (Les)  
+  * Vengeance
+
+## Eloy de la Iglesia (22)
+
+  * Algo amargo en la boca  
+  * Bal du vaudou (Le)  
+  * Colegas  
+  * criatura (La)  
+  * Cuadrilátero  
+  * Diputado (El)  
+  * El techo de cristal  
+  * Estanquera de Vallecas (La)  
+  * Fantasia 3  
+  * Juego de amor prohibido  
+  * Miedo a salir de noche  
+  * mujer del ministro (La)  
+  * Nadie oyó gritar  
+  * Navajeros  
+  * Novios bulgaros (Los)  
+  * otra alcoba (La)  
+  * Otra vuelta de Tuerca  
+  * pico 2 (El)  
+  * Pico (El)  
+  * placeres ocultos (Los)  
+  * Sacerdote (El)  
   * Semaine d'un assassin = Cannibal Man (La)
 
 ## François de Roubaix (13)
@@ -19,6 +58,25 @@
   * Samouraï (Le)  
   * Saut de l'ange (Le)  
   * Scoumoune (La)
+
+## Jeune public (16)
+
+  * Charge héroïque (La)  
+  * Chez la sorcière  
+  * Cirque (Le)  
+  * Génie du feu (Le)  
+  * Livre de la jungle (Le)  
+  * Livre magique (Le)  
+  * Lune à un mètre ou Le Rêve de l'astronome (La)  
+  * Main au collet (La)  
+  * Mon oncle  
+  * Mon voisin Totoro  
+  * Monte là-dessus  
+  * Panorama pris d'un train en marche  
+  * Sherlock Junior  
+  * Tous en scène  
+  * Un homme de têtes  
+  * Voyage à travers l'impossible
 
 ## L'image des plaisirs. Sexpérimentaux (116)
 
@@ -199,7 +257,7 @@
   * Un chien andalou  
   * Within the Law
 
-## Vincente Minnelli (35)
+## Vincente Minnelli (33)
 
   * Allons donc, papa !  
   * Au revoir, Charlie  
@@ -207,7 +265,6 @@
   * Celui par qui le scandale arrive  
   * Chant du Missouri (Le)  
   * Chevalier des sables (Le)  
-  * Comme un torrent  
   * Ensorcelés (Les)  
   * Femme modèle (La)  
   * Gigi  
@@ -229,7 +286,6 @@
   * Roulotte du plaisir (La)  
   * Thé et sympathie  
   * Toile d'araignée (La)  
-  * Tous en scène  
   * Un Américain à Paris  
   * Un numéro du tonnerre  
   * Un petit coin aux cieux  
@@ -237,7 +293,7 @@
   * Yolanda et le voleur  
   * Ziegfeld Follies
 
-## Warner, années 70 (27)
+## Warner, années 70 (28)
 
   * Alice n'habite plus ici  
   * Ballade sauvage (La)  
@@ -265,4 +321,5 @@
   * Un après-midi de chien  
   * Un été 42  
   * Un nommé Cable Hogue  
+  * Woodstock  
   * Yakuza  

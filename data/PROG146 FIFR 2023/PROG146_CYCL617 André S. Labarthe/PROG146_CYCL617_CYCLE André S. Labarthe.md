@@ -5,7 +5,7 @@
 [122238]  
 **Adieu Rita**  
 d'André S. Labarthe  
-France / 1987 / 5 min  
+France / 1987 / 5 min / DCP  
 Une critique acerbe de la médiatisation du Festival de Cannes et du cinéma, au moment de la disparition de l'actrice Rita Hayworth.  
 Épisode de l'émission _Cinéma, cinémas_. Numérisation et restauration par l'INA à partir d'un enregistrement vidéo 1 pouce B.  
 suivi de  
@@ -23,7 +23,7 @@ Séance présentée par Brice Amouroux
 [121606]  
 **Antonioni, la dernière séquence**  
 d'André S. Labarthe  
-France / 1985 / 14 min  
+France / 1985 / 14 min / DCP  
 Avec Michelangelo Antonioni.  
 À la table de montage, Michelangelo Antonioni commente la célèbre dernière séquence de son film _Profession : reporter_.  
 Épisode de l'émission _Cinéma, cinémas_.  
@@ -31,7 +31,7 @@ suivi de
 [121598]  
 **Arthur Penn, la dernière séquence**  
 d'André S. Labarthe  
-France / 1985 / 10 min  
+France / 1985 / 10 min / DCP  
 Avec Arthur Penn.  
 Arthur Penn, à la table de montage, commente la dernière séquence de _Bonnie and Clyde_.  
 Épisode de l'émission _Cinéma, cinémas_.  
@@ -50,7 +50,7 @@ Séance présentée par Brice Amouroux
 [121603]  
 **Claude Chabrol à la table**  
 d'André S. Labarthe  
-France / 1985 / 15 min  
+France / 1985 / 15 min / DCP  
 Avec Claude Chabrol.  
 André S. Labarthe invite Claude Chabrol à la table de montage, pour analyser plan par plan son film _Les Bonnes Femmes_.  
 Épisode de l'émission _Cinéma, cinémas_.  
@@ -58,7 +58,7 @@ suivi de
 [117519]  
 **Fuller à la table**  
 de Claude Ventura, André S. Labarthe  
-France / 1982 / 11 min  
+France / 1982 / 11 min / DCP  
 André S. Labarthe invite Samuel Fuller à la table de montage pour analyser plan par plan son film _Le Port de la drogue_.  
 Épisode de l'émission _Cinéma, cinémas_.  
 suivi de  
@@ -85,7 +85,7 @@ suivi de
 **Taxi Driver mis en pièces par Martin Scorsese**  
 **(Taxi Driver Broken Down by Martin Scorsese)**  
 d'André S. Labarthe  
-France / 1995 / 30 min  
+France / 1995 / 30 min / DCP  
 Martin Scorsese, à la table de montage, commente des extraits de _Taxi Driver_.  
 suivi de  
 [128838]  
@@ -102,7 +102,7 @@ Séance présentée par Brice Amouroux, Frédéric Bonnaud et Danielle Labarthe
 [154272]  
 **Franju, l'avion et la DS**  
 d'André S. Labarthe  
-France / 1987 / 9 min  
+France / 1987 / 9 min / DCP  
 Avec Georges Franju.  
 À la table de montage, Georges Franju, commente deux séquences de son film, _Les Yeux sans visage_.  
 Épisode de l'émission _Cinéma, cinémas_.  
@@ -110,7 +110,7 @@ suivi de
 [121602]  
 **Skolimowski à la table**  
 d'André S. Labarthe  
-France / 1990 / 10 min  
+France / 1990 / 10 min / DCP  
 Avec Jerzy Skolimowski.  
 André S. Labarthe invite Jerzy Skolimowski à la table de montage, pour analyser plan par plan son film _Walkower_.  
 Épisode de l'émission _Cinéma, cinémas_.  
@@ -135,6 +135,6 @@ Un cinéaste hongrois enquête sur les traces que Welles a laissées à Hollywoo
 Restauration par la Cinémathèque française, en collaboration avec Documentaire sur grand écran et Danielle Labarthe. Travaux de restauration image et son menés au laboratoire Lobster Films à partir du négatif original 16 mm et au Studio L. E. Diapason à partir de la bande magnétique 16 mm. Étalonnage réalisé par François Ede, avec la collaboration du chef opérateur du film, Jacques Audrain.
 
 - je 9 mar 20h45 GF  
-Séance présentée par Frédéric Bonnaud et Danielle Labarthe
+Séance présentée par Frédéric Bonnaud, Danielle Labarthe et Jacques Audrain
 
 Remerciements : Mme Danièle Anezin-Labarthe, Documentaire sur Grand Ecran, INA.

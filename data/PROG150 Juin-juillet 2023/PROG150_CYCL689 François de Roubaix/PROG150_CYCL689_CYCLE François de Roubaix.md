@@ -16,7 +16,8 @@ Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. 
 [129571]  
 **Comment ça va ? J'm'en fous = Les Malentendus**  
 de François de Roubaix  
-France / 1975 / 10 min / 35 mm
+France / 1975 / 10 min / 35 mm  
+Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie. Dernier court-métrage de de Roubaix, sorti à titre posthume.
 
 - me 28 juin 19h00 JE  
 Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix, _Le Gobbo_ de François de Roubaix
@@ -24,7 +25,8 @@ Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Al
 [48800]  
 **Dernier domicile connu**  
 de José Giovanni  
-France-Italie / 1969 / VF / 35 mm
+France-Italie / 1969 / VF / 35 mm  
+L'inspecteur Léonetti est envoyé dans un commissariat de seconde zone après avoir été réprimandé. Avec la jeune Jeanne Dumas, il va devoir retrouver un témoin qui pourrait décider du sort d'un meurtrier. Le duo se lance à sa recherche.
 
 - je 22 juin 20h00 HL  
 Ouverture de la rétrospective
@@ -32,14 +34,16 @@ Ouverture de la rétrospective
 [54474]  
 **Far from Dallas**  
 de Philippe Toledano  
-France / 1971 / VF
+France / 1971 / VF  
+Régis, un journaliste, revient à Paris après trois ans d'absence. Il entreprend de retrouver un ami disparu après être parti aux États-Unis pour enquêter sur l'assassinat de John Kennedy. Tous ceux qui l'ont connu se dérobent et Régis commence à subir des pressions.
 
 - lu 26 juin 18h00 GF
 
 [154377]  
 **François de Roubaix l'aventurier**  
 de Jean-Yves Guilleux, Alexandre Moix  
-France / 2007 / 52 min
+France / 2007 / 52 min  
+Documentaire présentant des extraits d'archives, de films et des témoignages de proches de et personnalités dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...
 
 - me 28 juin 19h00 JE  
 Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous = Les Malentendus_ de François de Roubaix
@@ -47,7 +51,8 @@ Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous 
 [129576]  
 **Le Gobbo**  
 de François de Roubaix  
-France / 1970 / 15 min / 35 mm
+France / 1970 / 15 min / 35 mm  
+Un mystérieux bossu arrive dans ce petit village corse inquiété par une série d'accidents, dont sont témoins des campeurs.
 
 - me 28 juin 19h00 JE  
 Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix et suivi de de _Comment ça va ? J'm'en fous = Les Malentendus_ de François de Roubaix
@@ -65,7 +70,8 @@ Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation 
 **Les Grandes gueules**  
 de Robert Enrico  
 France-Italie / 1965 / 128 min / DCP  
-D'après le roman _Le Haut-Fer_ de José Giovanni.
+D'après le roman _Le Haut-Fer_ de José Giovanni.  
+Hector Valentin revient dans ses Vosges natales hériter de la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main d'œuvre bon marché.
 
 - di 25 juin 17h30 GF
 
@@ -81,7 +87,8 @@ Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la co
 [70969]  
 **Morgane et ses nymphes**  
 de Bruno Gantillon  
-France / 1970 / 86 min
+France / 1970 / 86 min  
+Deux françaises, Françoise et Anna, se perdent dans les bois et entrent accidentellement dans le royaume de Morgane, une sorcière. Elle leur propose soit de devenir ses concubines, soit d'être jetées éternellement dans un donjon.
 
 - ve 23 juin 18h30 GF
 
@@ -94,20 +101,30 @@ Avec Alain Delon, Nathalie Delon, François Périer.
 Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de le faire tuer à son tour.  
 Restauré par Pathé.
 
-- sa 24 juin 14h30 HL
+- sa 24 juin 14h30 HL  
+Voir aussi dialogue p. xx
 
 [46946]  
 **Le Saut de l'ange**  
 de Yves Boisset  
 France-Italie / 1971 / VO / 35 mm  
-D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.
+D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.  
+En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini. Leur père expatrié en Asie, apprend la nouvelle et décide de rentrer pour se venger.
 
 - sa 24 juin 21h00 GF
 
 [48733]  
 **La Scoumoune**  
 de José Giovanni  
-France-Italie / 1972 / 35 mm
+France-Italie / 1972 / 35 mm  
+Les aventures de deux truands marseillais, Xavier Saratov et Roberto « la Scoumoune », autrement dit « le porte-poisse », qui pendant plus de 15 ans se battent contre la loi, des gangs rivaux, les autorités pénitentiaires. Remake d'_Un nommé La Rocca_ de Becker.
 
 - di 25 juin 20h15 GF
+
+## Rencontres et conférences
+
+**« François de Roubaix, portrait musical » par Stéphane Lerouge**
+
+- sa 24 juin 14h30 HL  
+À la suite de la projection de _Le Samouraï_ de Jean-Pierre Melville (voir p. xx)
 

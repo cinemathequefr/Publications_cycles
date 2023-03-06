@@ -44,6 +44,10 @@
   * Tragedy of Macbeth (The)  
   * Vitelloni (Les)
 
+## Journée d'étude Longue vie à la pellicule (1)
+
+  * Navigators
+
 ## Kiyoshi Kurosawa, invité d'honneur (5)
 
   * Alliés  

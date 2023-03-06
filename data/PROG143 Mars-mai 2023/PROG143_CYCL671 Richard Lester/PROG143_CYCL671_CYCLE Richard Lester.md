@@ -76,7 +76,7 @@ Deux ados organisent un festival de jazz malgré les objections du maire de leur
 **Les Joyeux Débuts de Butch Cassidy et le Kid**  
 **(Butch and Sundance : The Early Days)**  
 de Richard Lester  
-États-Unis / 1979 / 111 min / VO / 35 mm  
+États-Unis / 1979 / 111 min / VOSTF / 35 mm  
 Avec Tom Berenger, William Katt, Jeff Corey.  
 Butch Cassidy, libéré de prison, rencontre dans un saloon son futur compagnon de galère, Sundance Kid. Ils s'associent, commettent plusieurs délits, et sont recherchés par le shérif Bledsoe.
 
@@ -154,7 +154,7 @@ France, 1649. Le cardinal Mazarin ordonne à d'Artagnan de retrouver Athos, Port
 [69732]  
 **The Ritz**  
 de Richard Lester  
-Grande-Bretagne / 1976 / 91 min / VOSTF / 16 mm  
+Grande-Bretagne / 1976 / 91 min / VOSTF / 35 mm  
 D'après la pièce _The Ritz_ de Terrence McNally.  
 Avec Jack Weston, Rita Moreno, Jerry Stiller.  
 Pourchassé par un tueur de la pègre, un homme demande à un chauffeur de taxi de le conduire en lieu sûr. Il trouve refuge au Ritz, qui s'avère être un sauna gay.

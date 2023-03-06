@@ -48,7 +48,7 @@ D'après la nouvelle _The Most dangerous game_ de Richard Connell.
 Avec Joel McCrea, Fay Wray, Robert Armstrong.  
 Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte du gibier humain.
 
-- di 18 juin 17h00 HL
+- di 18 juin 17h30 HL
 
 [154373]  
 **Elle et Suzanne**  
@@ -131,7 +131,7 @@ de Merian C. Cooper, Ernest B. Schoedsack
 États-Unis / 1933 / 100 min / VO / DCP  
 Avec Fay Wray, Robert Armstrong, Bruce Cabot.
 
-- di 18 juin 18h30 HL
+- di 18 juin 19h00 HL
 
 [40704]  
 **Loulou**  
@@ -222,9 +222,9 @@ Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis,
 ## Rencontres et conférences
 
 **Film + Dialogue entre Dominique PaÏni et Dominique Rabourdin**  
-« Ce qu'il y a de plus spécifique dans les moyens du cinéma, c'est de toute évidence le pouvoir de concrétiser les puissances de l'amour qui restent malgré tout déficientes dans les livres, du seul fait que rien ne peut y rendre la séduction ou la détresse d'un regard, ou certains vertiges sans prix. Et que dire de l'impuissance radicale des arts plastiques dans ce domaine (qu'on songe qu'il ne s'est pas trouvé un peintre pour nous laisser l'image radieuse du baiser). Le cinéma est seul à étendre là son empire et cela suffirait amplement à sa consécration. Quelles traines incomparables, à jamais étincelantes, laissant à cet égard dans le souvenir des films comme _Ah ! Le beau voyage_ \[_A Little Journey_, Robert Z. Leonard, 1927\] ou _Peter Ibbetson_ et comme les chances suprêmes de la vie se tamisent sous leur rayon ! » André Breton, _L'Âge du cinéma_, novembre 1951  
-**Dominique Païni** a dirigé la Cinémathèque française de 1991 à 2000. Théoricien de l'art, il a publié plusieurs livres sur le cinéma. Commissaire d'expositions, il est, avec l'historienne de l'art Alix Agret, commissaire de « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars – 10 septembre 2023).  
-Dominique Rabourdin est réalisateur de célèbres émissions de télévision (_Un Siècle d'écrivains_, _Océaniques_, _Métropolis_...) et de documentaires (_André Breton par André Breton_, _Quelques jours avec Sirk_, _Michel Bouquet « Ma vocation d'acteur »_...). En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place).
+Les surréalistes furent assidus au cinéma, un art encore neuf et qu'en spectateurs ils pratiquaient librement, n'hésitant pas à passer d'une séance à l'autre, à entrer après le commencement ou à sortir avant la fin... Mais un cinéma surréaliste a-t-il bel et bien existé ? Et si oui, à quelles conditions ? Autrement dit, le surréalisme engendra-t-il une création cinématographique spécifique ? « Ce qu'il y a de plus spécifique dans les moyens du cinéma, c'est de toute évidence le pouvoir de concrétiser les puissances de l'amour qui restent malgré tout déficientes dans les livres, du seul fait que rien ne peut y rendre la séduction ou la détresse d'un regard, ou certains vertiges sans prix. Et que dire de l'impuissance radicale des arts plastiques dans ce domaine (qu'on songe qu'il ne s'est pas trouvé un peintre pour nous laisser l'image radieuse du baiser). Le cinéma est seul à étendre là son empire et cela suffirait amplement à sa consécration. Quelles traines incomparables, à jamais étincelantes, laissant à cet égard dans le souvenir des films comme _Ah ! Le beau voyage_ \[_A Little Journey_, Robert Z. Leonard, 1927\] ou _Peter Ibbetson_ et comme les chances suprêmes de la vie se tamisent sous leur rayon ! » André Breton, _L'Âge du cinéma_, novembre 1951  
+**Dominique Païni** a dirigé la Cinémathèque française de 1991 à 2000. Essayiste, programmateur et commissaire d'expositions, il a publié plusieurs livres sur le cinéma. Avec l'historienne de l'art Alix Agret, il est commissaire de l'exposition « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars – 10 septembre 2023).  
+**Dominique Rabourdin** est critique, historien du surréalisme, réalisateur de célèbres émissions de télévision (_Un Siècle d'écrivains_, _Océaniques_, _Métropolis_...) et de documentaires (_André Breton par André Breton_, _Quelques jours avec Sirk_, _Michel Bouquet « Ma vocation d'acteur »_...). En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place).
 
 - sa 17 juin 14h30 HL  
 À la suite de la projection de _Peter Ibbetson_ de Henry Hathaway (voir p. xx)

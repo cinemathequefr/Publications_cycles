@@ -172,7 +172,7 @@ Inde / 1985 / 58 min / VOSTF / 16 mm
 Avec Rekha, Rosy, Vasanti, Lovina, Pussycat.  
 Devant la caméra bienveillante de Mira Nair, se libèrent, parfois jusqu'au rire, les paroles de danseuses et prostituées indiennes dont certaines ont fui des mariages forcés, tandis que d'autres sont encore mariées.
 
-- di 4 juin 17h30 GF
+- di 4 juin 17h45 GF
 
 ## Séance 28 : Tortures
 
@@ -452,7 +452,7 @@ de Bobby Abate
 États-Unis / 1999 / 14 min / Numérique  
 Film nostalgique et intime nourri d'évocations sexuelles.
 
-- sa 10 juin 17h30 JE
+- sa 10 juin 18h00 JE
 
 ## Séance 35 : Moins, un, deux et des millions
 

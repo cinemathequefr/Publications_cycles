@@ -46,7 +46,7 @@ D'après le roman _Mute witness_ de Robert L. Pike.
 Avec Steve McQueen, Robert Vaughn, Jacqueline Bisset.  
 Bullitt, un lieutenant de police, est chargé par un politicien ambitieux de protéger Johnny Ross, un gangster dont le témoignage est capital dans un procès où est impliqué l'homme politique.
 
-- di 18 juin 17h30 GF
+- ve 2 juin 18h00 HL
 
 [35173]  
 **Le Cœur est un chasseur solitaire**  
@@ -71,8 +71,7 @@ Quatre hommes de la ville décident, un week-end, de descendre une rivière en c
 
 Quatre citadins américains décident de descendre en canoë une rivière vouée à disparaître après la construction d'un barrage. Ils sont agressés par deux forestiers et le week-end tourne au cauchemar.
 
-- sa 3 juin 15h00 HL  
-- lu 12 juin 20h30 GF
+- sa 3 juin 15h00 HL
 
 [36741]  
 **L'Epouvantail**  
@@ -104,7 +103,7 @@ Avec Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn.
 Un prêtre combat un démon qui a investi l'âme d'une fillette.
 
 - di 4 juin 17h15 HL  
-- sa 17 juin 17h30 GF
+- sa 17 juin 17h15 GF
 
 [35701]  
 **La Fugue**  
@@ -125,7 +124,7 @@ Avec James Caan, Robert Duvall, Shirley Knight.
 Paniquée par la nouvelle de sa grossesse, Natalie Revena quitte le domicile conjugal en ne laissant qu'une lettre à son époux. Sur la route, elle rencontre Jimmy Kilgannon, bouleversé par un accident, à la recherche de sa fiancée.
 
 - lu 5 juin 20h15 GF  
-- sa 17 juin 15h30 GF
+- sa 17 juin 15h00 GF
 
 [35286]  
 **Graffiti party**  
@@ -135,7 +134,7 @@ de John Milius
 Avec Jan-Michael Vincent, William Katt, Gary Busey.  
 Matt, Jack et Leroy, trois amis d'enfance, se retrouvent pour évoquer le temps révolu de leur jeunesse. Dans les années 60, la passion du surf les avait consacrés champions de ce sport. ou Centré sur l'évocation des destins des trois amis, Graffiti Party double cette chronique d'une jeunesse surfeuse par une évocation de l'Amérique des décennies 60 et 70.
 
-- di 18 juin 14h30 HL
+- sa 10 juin 14h30 HL
 
 [35020]  
 **Les Hommes du président**  
@@ -182,7 +181,7 @@ Avec Warren Beatty, Julie Christie, René Auberjonois.
 En 1902, John McCabe arrive dans une petite ville de l'Ouest américain, pour ouvrir un bordel. Constance Miller, une prostituée, lui propose son aide et son expérience en échange d'une partie des bénéfices
 
 - ve 2 juin 20h30 HL  
-- lu 12 juin 18h00 GF
+- ve 16 juin 16h30 GF
 
 [34744]  
 **Klute**  
@@ -198,11 +197,11 @@ Un détective privé, John Klute, part à la recherche d'un savant ayant disparu
 **Luke la main froide**  
 **(Cool Hand Luke)**  
 de Stuart Rosenberg  
-États-Unis / 1966 / 127 min / VOSTF / DCP  
+États-Unis / 1966 / 126 min / VO / 35 mm  
 Avec Paul Newman, Dennis Hopper, Jo Van Fleet.  
 Luke, condamné pour un acte de vandalisme en état d'ivresse, purge une peine de deux ans de prison dans un camp de travail. Au cours de sa détention il apprend le décès de sa mère et tente de s'évader.
 
-- di 18 juin 20h30 GF
+- di 18 juin 19h30 GF
 
 [31090]  
 **Opération Dragon**  
@@ -239,12 +238,12 @@ Rachel est une institutrice solitaire de 35 ans, qui vit toujours sous l'emprise
 **Shining**  
 **(The Shining)**  
 de Stanley Kubrick  
-Grande-Bretagne / 1978 / 119 min / VOSTF / DCP  
+Grande-Bretagne / 1978 / 146 min / VOSTF / DCP  
 D'après le roman _Shining : L'enfant lumière_ de Stephen King.  
 Avec Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers.  
 L'auteur Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.
 
-- sa 10 juin 14h30 HL
+- di 18 juin 14h30 HL
 
 [34631]  
 **THX 1138**  
@@ -253,7 +252,7 @@ de George Lucas
 Avec Robert Duvall, Donald Pleasence, Maggie McOmie, Don Pedro Colley.  
 Au XXV<sup>e</sup> siècle, dans une cité souterraine futuriste où les gens sont identifiés par des chiffres et où tout est interdit, deux hommes et une femme se rebellent et tentent de s'échapper.
 
-- sa 17 juin 20h45 GF
+- sa 17 juin 19h45 GF
 
 [34777]  
 **Un après-midi de chien**  
@@ -273,8 +272,7 @@ de Robert Mulligan
 Avec Jennifer O'Neill, Gary Grimes, Jerry Houser.  
 Hermie se souvient avec nostalgie de cet été quarante-deux passé sur une île au large des États-Unis. Garçon timide de quinze ans, il avait du mal à aborder les filles de son âge. Jusqu'à ce qu'il rencontre Dorothy, une jeune femme dont le mari est parti à la guerre.
 
-- ve 2 juin 18h00 HL  
-- ve 16 juin 16h30 GF
+- di 18 juin 17h00 GF
 
 [35645]  
 **Un nommé Cable Hogue**  
@@ -286,6 +284,13 @@ Un vagabond trouve malencontreusement un point d'eau dans le désert. Il décide
 
 - je 1 juin 18h00 HL  
 - je 8 juin 17h00 GF
+
+[37468]  
+**Woodstock**  
+de Michael Wadleigh  
+États-Unis / 1969 / 185 min
+
+- lu 12 juin 19h00 GF
 
 [34884]  
 **Yakuza**  

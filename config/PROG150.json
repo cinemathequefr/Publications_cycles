@@ -4,13 +4,47 @@
   "cycles": [
     {
       "idCycleProg": 11,
+      "isReg": true,
       "titreCycle": "Séances spéciales",
       "sousCycles": [{ "titre": "Les films", "cats": [], "tri": 1 }]
     },
     {
       "idCycleProg": 14,
+      "isReg": true,
       "titreCycle": "Cinéma bis",
-      "sousCycles": [{ "titre": "Les films", "cats": [], "tri": 1 }]
+      "sousCycles": [
+        { "titre": "Polar, années 80", "cats": [3004], "tri": 4 },
+        { "titre": "[Warner]", "cats": [3015, 3016], "tri": 4 },
+        { "titre": "[Vigilante]", "cats": [3005], "tri": 4 },
+        { "titre": "[Shaft]", "cats": [3006], "tri": 4 },
+        { "titre": "Histoire permanente du kung-fu", "cats": [3008], "tri": 4 }
+      ]
+    },
+    {
+      "idCycleProg": 18,
+      "isReg": true,
+      "titreCycle": "Conservatoire des techniques cinématographiques",
+      "titreCycleMini": "Conservatoire",
+      "sousCycles": [
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [3014],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 152,
+      "isReg": true,
+      "titreCycle": "Parlons cinéma avec Hélène Frappat",
+      "titreCycleMini": "Parlons cinéma",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [3023],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 655,
@@ -117,6 +151,13 @@
       ]
     },
     {
+      "idCycleProg": 525,
+      "isReg": true,
+      "titreCycle": "Ciné-club de Frédéric Bonnaud",
+      "titreCycleMini": "Ciné-club",
+      "sousCycles": [{ "titre": "Les films", "cats": [3021], "tri": 4 }]
+    },
+    {
       "idCycleProg": 679,
       "titreCycle": "Warner, années 70",
       "sousCycles": [{ "titre": "Les films", "cats": [2993], "tri": 1 }]
@@ -131,6 +172,7 @@
     },
     {
       "idCycleProg": 683,
+      "isReg": true,
       "titreCycle": "Jeune public",
       "sousCycles": [{ "titre": "Les films", "cats": [3000], "tri": 1 }]
     },
@@ -147,18 +189,24 @@
       "titreCycle": "Vincente Minnelli",
       "sousCycles": [
         { "titre": "Les films", "cats": [3011], "tri": 1 },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [3022], "tri": 4 }
       ]
     },
     {
       "idCycleProg": 688,
       "titreCycle": "Le documentaire, 25 indispensables",
-      "sousCycles": [{ "titre": "Les films", "cats": [3013], "tri": 1 }]
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3013], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [3020], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": 689,
       "titreCycle": "François de Roubaix",
-      "sousCycles": [{ "titre": "Les films", "cats": [3017], "tri": 1 }]
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3017], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [3019], "tri": 4 }
+      ]
     }
   ]
 }

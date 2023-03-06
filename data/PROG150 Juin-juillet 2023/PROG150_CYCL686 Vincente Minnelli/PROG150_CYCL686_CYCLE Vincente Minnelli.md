@@ -21,7 +21,8 @@ de Vincente Minnelli
 D'après la pièce _Goodbye Charlie_ de George Axelrod.  
 Avec Tony Curtis, Debbie Reynolds.
 
-- di 9 juil 19h30 HL
+- di 9 juil 19h30 HL  
+- ve 28 juil 15h30 GF
 
 [35211]  
 **Brigadoon**  
@@ -30,7 +31,7 @@ de Vincente Minnelli
 D'après la comédie musicale _Brigadoon_ d'Alan Jay Lerner , Frederick Loewe et Cheryl Crawford.  
 Avec Cyd Charisse, Gene Kelly.
 
-- di 2 juil 14h30 HL  
+- sa 1 juil 20h00 HL  
 - je 27 juil 20h30 HL
 
 [44957]  
@@ -52,9 +53,8 @@ D'après le roman _Meet Me in St. Louis_ de Sally Benson.
 Avec Judy Garland, Margaret O'Brien, Mary Astor.  
 Les Smith vivent paisiblement à Saint-Louis, Missouri. Lorsque le père accepte un emploi à New York, les enfants ne peuvent se résoudre à quitter leurs amis, d'autant plus que les aînées vivent leurs premières amours.
 
-- sa 1 juil 15h00 HL  
 - je 6 juil 19h00 HL  
-- je 20 juil 18h00 HL
+- je 20 juil 17h30 HL
 
 [44828]  
 **Le Chevalier des sables**  
@@ -65,7 +65,7 @@ Avec Elizabeth Taylor, Richard Burton, Eva Marie Saint, Charles Bronson.
 Laura Reynolds, peintre anticonformiste, vit sur la côte californienne avec son fils, qu'elle élève dans le goût de la liberté. Un jour, le garçon est placé de force au collège San Simeon, établissement religieux dirigé par l'austère pasteur Hewitt.
 
 - di 16 juil 19h30 HL  
-- di 30 juil 14h30 HL
+- di 30 juil 15h30 HL
 
 [35287]  
 **Comme un torrent**  
@@ -82,11 +82,11 @@ Après la guerre, un vétéran retourne dans sa ville natale avec des ambitions 
 **Les Ensorcelés**  
 **(The Bad and the Beautiful)**  
 de Vincente Minnelli  
-États-Unis / 1952 / 117 min / VOSTF / 35 mm  
+États-Unis / 1952 / 117 min / VOSTF / DCP  
 Avec Kirk Douglas, Lana Turner, Walter Pidgeon.  
 Un réalisateur, une actrice et un scénariste a qui l'on propose un nouveau contrat avec un célèbre producteur d'Hollywood, évoquent chacun à leur tour, les humiliations subies avant d'accéder au rang de star..
 
-- sa 1 juil 17h30 HL  
+- ve 30 juin 20h15 HL  
 - di 23 juil 14h30 HL
 
 [35221]  
@@ -97,7 +97,8 @@ de Vincente Minnelli
 Avec Gregory Peck, Lauren Bacall.
 
 - me 28 juin 20h00 HL  
-Ouverture de la rétrospective
+Ouverture de la rétrospective  
+- je 20 juil 16h00 GF
 
 [35254]  
 **Gigi**  
@@ -117,6 +118,7 @@ de Vincente Minnelli
 Avec Leslie Caron, Ethel Barrymore, Farley Granger.  
 A bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour.
 
+- je 6 juil 16h00 GF  
 - lu 24 juil 21h15 GF
 
 [58549]  
@@ -137,7 +139,8 @@ de Vincente Minnelli
 D'après le roman _The Courtship of Eddie's father_ de Mark Toby.  
 Avec Glenn Ford, Shirley Jones.
 
-- di 9 juil 17h00 HL
+- di 9 juil 17h00 HL  
+- ve 21 juil 15h30 GF
 
 [35222]  
 **Kismet**  
@@ -145,6 +148,7 @@ de Vincente Minnelli
 États-Unis / 1955 / 112 min / VO / 35 mm  
 Avec Howard Keel, Ann Blyth, Jack Elam.
 
+- je 13 juil 15h30 GF  
 - ve 14 juil 20h00 HL
 
 [34254]  
@@ -154,6 +158,7 @@ de Vincente Minnelli
 États-Unis / 1946 / 116 min / VOSTF / 35 mm  
 Avec Katharine Hepburn, Robert Taylor, Robert Mitchum.
 
+- ve 30 juin 15h30 GF  
 - je 13 juil 18h00 HL
 
 [35207]  
@@ -163,7 +168,7 @@ de Vincente Minnelli
 D'après le roman _Madame Bovary_ de Gustave Flaubert.  
 Avec Jennifer Jones, James Mason.
 
-- di 2 juil 19h00 HL  
+- je 29 juin 20h00 HL  
 - sa 22 juil 17h00 HL
 
 [79453]  
@@ -217,7 +222,7 @@ D'après la pièce _The Pirate_ de S.N. Behrman.
 Avec Gene Kelly, Judy Garland, Lola Albright.  
 Manuela rêve des exploits du pirate Macoco, elle en est amoureuse sans le connaître. Sa tante veut la marier à don Pedro Vargas, un homme riche et influent quand elle rencontre Serafin, un saltimbanque, qui pour la séduire, se fait passer pour le fameux pirate désiré.
 
-- ve 30 juin 18h00 HL  
+- di 2 juil 17h45 HL  
 - sa 22 juil 14h30 HL
 
 [38027]  
@@ -237,6 +242,7 @@ de Vincente Minnelli
 États-Unis / 1958 / VOSTF / 35 mm  
 Avec Angela Lansbury, Rex Harrison.
 
+- ve 14 juil 16h00 GF  
 - ve 14 juil 18h00 HL
 
 [35245]  
@@ -270,6 +276,7 @@ de Vincente Minnelli
 États-Unis / 1954 / VOSTF / 16 mm  
 Avec Lucille Ball.
 
+- ve 7 juil 16h00 GF  
 - je 13 juil 20h30 HL
 
 [54360]  
@@ -291,7 +298,7 @@ D'après le roman _The Cobweb_ de William Gibson.
 Avec Richard Widmark, Lauren Bacall, Charles Boyer.
 
 - ve 7 juil 18h00 HL  
-- di 30 juil 17h00 HL
+- di 30 juil 18h00 HL
 
 [35212]  
 **Tous en scène**  
@@ -303,7 +310,7 @@ Avec Cyd Charisse, Ava Gardner, Fred Astaire.
 Un artiste déchu revient à New York et y retrouve ses deux vieux amis. Très vite, ils se lancent dans la création d'une comédie musicale et engage un metteur en scène prétentieux qui va leur donner du fil à retordre.  
 Copie 35 mm Technicolor originale (tirage par imbibition) issue des collections de Lowell Peterson, ASC à l'Academy Film Archive.
 
-- sa 1 juil 20h00 HL  
+- di 2 juil 14h30 HL  
 - je 27 juil 18h00 HL
 
 [44918]  
@@ -314,7 +321,7 @@ de Vincente Minnelli
 Avec Gene Kelly, Leslie Caron, Oscar Levant, Georges Guétary.  
 Un peintre américain s'installe à Paris et tombe amoureux non seulement de la ville mais aussi d'une de ses habitantes.
 
-- ve 30 juin 20h15 HL  
+- di 2 juil 20h00 HL  
 - di 23 juil 19h15 HL
 
 [44960]  
@@ -326,8 +333,8 @@ D'après la comédie musicale _Bells Are Ringing_ de Betty Comden , Adolph Green
 Avec Judy Holliday, Dean Martin.  
 Ella Peterson, une standardiste new-yorkaise, s'immisce dans les affaires des abonnés téléphoniques. Adaptation d'une comédie musicale créée à Broadway en 1956.
 
-- di 9 juil 14h30 HL  
-- di 30 juil 19h30 HL
+- sa 1 juil 15h00 HL  
+- di 9 juil 14h30 HL
 
 [35216]  
 **Un petit coin aux cieux**  
@@ -336,6 +343,7 @@ de Vincente Minnelli
 États-Unis / 1943 / 98 min / VOSTF / 35 mm  
 Avec Cab Calloway, Rex Ingram, Duke Ellington, Louis Armstrong.
 
+- je 29 juin 16h00 GF  
 - lu 17 juil 20h45 GF
 
 [35259]  
@@ -358,7 +366,7 @@ de Vincente Minnelli
 Avec Fred Astaire.  
 Johnny, un petit voleur, usurpe l'identité de Candle, ange gardien auprès de la riche et belle Yolanda, afin de lui dérober ses biens.
 
-- je 29 juin 20h00 HL  
+- sa 1 juil 17h30 HL  
 - ve 21 juil 20h00 HL
 
 [34230]  
@@ -368,6 +376,12 @@ de Norman Taurog, George Sidney, Vincente Minnelli, [etc.]
 Avec William Powell, Fred Astaire, Lucille Ball.  
 Le grand Ziegfeld est au ciel, et de là-haut rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme avant, numéros comiques, dansés, chantés se succèdent.
 
-- di 2 juil 16h45 HL  
-- je 20 juil 20h30 HL
+- ve 30 juin 18h00 HL  
+- je 20 juil 20h00 HL
+
+## Rencontres et conférences
+
+**Film + Dialogue avec Jacqueline Nacache ?**
+
+- je 6 juil 21h00 HL
 

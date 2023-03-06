@@ -428,7 +428,7 @@ Dans _Basta_, les images pornographiques, comme celles de la morgue, ne sont pas
 [39681]  
 **La Tête froide**  
 de Patrick Hella  
-Belgique / 1969 / 12 min / 16 mm  
+Belgique / 1969 / 12 min / Numérique  
 « Ce conte à l'érotisme morbide, réalisé par un habitué du festival EXPRMNTL de Knokke, fut le premier film belge sélectionné à la Quinzaine des réalisateurs. » (XGB)  
 suivi de  
 [121283]  
@@ -556,7 +556,7 @@ suivi de
 [154009]  
 **I Don't Know**  
 de Penelope Spheeris  
-États-Unis / 1971 / 20 min / VOSTF / 16 mm  
+États-Unis / 1971 / 20 min / VOSTF / Numérique  
 « _I Don't Know_ observe la relation entre une lesbienne et un homme transgenre qui préfère être identifié quelque part entre homme et femme, en une expression d'ambiguïté personnelle suggérée par le titre du film. » (Light Cone)  
 suivi de  
 [154149]  

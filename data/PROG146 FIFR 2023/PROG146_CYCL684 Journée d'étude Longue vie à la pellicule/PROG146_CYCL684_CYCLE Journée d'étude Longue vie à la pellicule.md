@@ -1,5 +1,16 @@
 # Journée d'étude Longue vie à la pellicule
 
+## Les films
+
+[154386]  
+**Navigators**  
+de Noah Teichner  
+France / 2023 / VOSTF / 35 mm  
+Décembre 1919. Le gouvernement des États-Unis expulse 249 anarchistes et révolutionnaires sur le navire _Buford_, qui gagne à cette occasion le surnom d'« Arche soviétique ». Quelques années plus tard, ce même bateau devient le décor de la _Croisière du Navigator_, film burlesque de Buster Keaton.
+
+- me 8 mar 16h00 HL  
+Voir aussi table ronde p. xx
+
 ## Rencontres et conférences
 
 **Pour une histoire de la cabine de projection : chronique et avenir d'un métier**  
@@ -45,7 +56,8 @@ Monise Nicodemos est archiviste et chercheuse, autrice d'une thèse sur l'obsole
 Nicolas Rey est un cinéaste français qui s'intéresse aux techniques et matériaux anciens (pellicules périmées Super-8 ou 16mm) comme source de renouveau plastique. En 1995, il participe à la création du laboratoire l'Abominable.  
 Docteur en Etudes Cinématographiques, Noah Teichner est cinéaste, enseignant et chercheur. Il est membre du laboratoire L'Abominable où il réalise Navigators en 2022, son premier long-métrage.
 
-- me 8 mar 16h00 HL
+- me 8 mar 16h00 HL  
+À la suite de la projection de _Navigators_ de Noah Teichner (voir p. xx)
 
 **Tourner en pellicule aujourd'hui (2)**  
 **Benjamin Alimi** est directeur commercial chez Hiventy, Film Heritage & Post-Production.  

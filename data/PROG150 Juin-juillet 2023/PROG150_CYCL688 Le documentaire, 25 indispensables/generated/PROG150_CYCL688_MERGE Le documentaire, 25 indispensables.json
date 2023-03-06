@@ -132,6 +132,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 3013,
           "idEvenement": 28085,
           "typeEvenement": 13,
@@ -209,7 +210,7 @@
         },
         {
           "idSeance": 104023,
-          "ordre": 1,
+          "ordre": 3,
           "dateHeure": "2023-06-26T20:00:00",
           "idSalle": [
             "GF",
@@ -368,7 +369,12 @@
           "duree": 16,
           "version": "",
           "format": "DCP",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ce film surréaliste présente des images spectaculaires d'un hippocampe mâle enceinte donnant naissance à ses petits, et témoigne du charme délicat de cette créature fascinant."
+            }
+          ]
         },
         {
           "idSeance": 104055,
@@ -423,7 +429,12 @@
           "duree": 13,
           "version": "",
           "format": "DCP",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ce film est une présentation de ces petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales."
+            }
+          ]
         },
         {
           "idSeance": 104023,
@@ -492,7 +503,7 @@
         },
         {
           "idSeance": 104023,
-          "ordre": 3,
+          "ordre": 4,
           "dateHeure": "2023-06-26T20:00:00",
           "idSalle": [
             "GF",
@@ -532,6 +543,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 75,
+          "typeAssoc": 118,
           "idCategorie": 3013,
           "idEvenement": 28079,
           "typeEvenement": 13,
@@ -581,7 +593,7 @@
         },
         {
           "idSeance": 104023,
-          "ordre": 4,
+          "ordre": 1,
           "dateHeure": "2023-06-26T20:00:00",
           "idSalle": [
             "GF",
@@ -661,7 +673,7 @@
         {
           "idSeance": 101569,
           "ordre": 1,
-          "dateHeure": "2023-07-02T17:30:00",
+          "dateHeure": "2023-07-02T17:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -694,6 +706,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 210,
+          "typeAssoc": 118,
           "idCategorie": 3013,
           "idEvenement": 28096,
           "typeEvenement": 13,
@@ -906,7 +919,12 @@
           "duree": 13,
           "version": "",
           "format": "DCP",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ce film retrace les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers."
+            }
+          ]
         },
         {
           "idSeance": 101748,
@@ -960,7 +978,118 @@
           "duree": 13,
           "version": "",
           "format": "DCP",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Étude de la pieuvre dans son habitat. Le premier documentaire de vulgarisation scientifique de Jean Painlevé."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "La Pieuvre a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque"
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 101726,
+          "ordre": 2,
+          "dateHeure": "2023-07-08T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 3020,
+          "idEvenement": 28174,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + Dialogue avec David Faroult",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "David Faroult",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+        },
+        {
+          "idSeance": 104053,
+          "ordre": 2,
+          "dateHeure": "2023-07-01T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 3020,
+          "idEvenement": 28173,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + Dialogue avec Frédérique Berthet",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Frédérique Berthet",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+        },
+        {
+          "idSeance": 104052,
+          "ordre": 2,
+          "dateHeure": "2023-06-25T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 3020,
+          "idEvenement": 28169,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + Dialogue avec Pierre Gabaston",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Pierre Gabaston",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []

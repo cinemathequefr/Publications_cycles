@@ -34,7 +34,7 @@ suivi de
 [64805]  
 **La Vie ne me fait pas peur**  
 de Noémie Lvovsky  
-France-Suisse / 1999 / 111 min / 35 mm  
+France-Suisse / 1999 / 110 min / VO / 35 mm  
 Avec Magali Woch, Ingrid Molinier, Julie-Marie Parmentier, Valéria Bruni Tedeschi, Camille Rousselet.  
 C'est l'histoire de quatre filles. Comment elles se lient d'amitié et ne se quittent plus. Comment elles vivent en bande les années de leur adolescence. Comment cette rencontre change leur vie et leur personne.  
 Version longue du téléfilm _Petites_ (collection « Les Années lycée »).
