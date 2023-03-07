@@ -134,7 +134,7 @@ suivi de
 [140099]  
 **Souvenir inoubliable d'un ami**  
 de Wissam Charaf  
-France-Liban / 2017 / 27 min / DCP  
+France-Liban / 2017 / 27 min / VOSTF / DCP  
 Avec Ralph Hilali, Nathalie Issa.  
 Au Liban, Chadi, treize ans, premier de sa classe, découvre qu'il peut monnayer son talent. Si ce n'est pas encore pour de l'argent, ce sera pour gagner l'intérêt de la jolie Raya à qui il n'ose pas parler.  
 suivi de  

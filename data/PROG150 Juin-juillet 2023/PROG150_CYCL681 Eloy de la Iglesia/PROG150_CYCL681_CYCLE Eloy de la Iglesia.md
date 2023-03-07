@@ -5,7 +5,7 @@
 [154349]  
 **Algo amargo en la boca**  
 d'Eloy de la Iglesia  
-Espagne / 1969 / 91 min / VOSTF / 35 mm  
+Espagne / 1969 / 81 min / VOSTF / 35 mm  
 Avec Maruchi Fresno, Juan Diego, Javier De Campos.  
 Un beau jeune homme passer Noël chez ses tantes. Les trois femmes réagissent très différemment à sa présence.
 
@@ -138,7 +138,7 @@ Espagne / 2003 / 101 min / VO / 35 mm
 [154354]  
 **La otra alcoba**  
 d'Eloy de la Iglesia  
-Espagne / 1976 / 93 min / 35 mm  
+Espagne / 1976  
 Avec Patxi Andión, Amparo Muñoz, Simón Andreu.
 
 - me 19 juil 19h30 GF

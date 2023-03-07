@@ -187,7 +187,7 @@ Film suivi de _Le Knack... et comment l'avoir_ de Richard Lester
 **La Souris sur la Lune**  
 **(The Mouse on the Moon)**  
 de Richard Lester  
-Grande-Bretagne / 1963 / 85 min / VOSTF / 16 mm  
+Grande-Bretagne / 1963 / VOSTF / Numérique  
 Avec Margaret Rutheford, Ron Moody, Bernard Cribbins.  
 Le Duché du Grand Fenwick réussit le premier à envoyer une fusée sur la Lune.
 

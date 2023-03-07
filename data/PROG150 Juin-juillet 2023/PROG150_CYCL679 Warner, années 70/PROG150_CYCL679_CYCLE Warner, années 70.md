@@ -14,8 +14,7 @@ A 35 ans, Alice est mariée et malheureuse. A la mort de son mari, elle part ave
 
 Alice, âgée de huit ans, rêve de devenir une star... 27 ans plus tard, elle est mariée et mère d'un insupportable gamin.
 
-- me 7 juin 18h30 GF  
-- me 21 juin 18h00 GF
+- me 7 juin 18h30 GF
 
 [33679]  
 **La Ballade sauvage**  
@@ -25,8 +24,7 @@ de Terrence Malick
 Avec Martin Sheen, Sissy Spacek, Warren Oates.  
 Holly, 15 ans, rencontre Kit, un jeune éboueur qui vient de plaquer son travail. Lorsque le père d'Holly s'oppose à leur amour, Kit le tue. Le premier film de Terrence Malick se transforme alors en une cavale insouciante et meurtrière sur les routes du Dakota du Sud.
 
-- di 4 juin 19h45 HL  
-- me 21 juin 20h30 GF
+- di 4 juin 19h45 HL
 
 [35805]  
 **Bonnie and Clyde**  
@@ -155,8 +153,7 @@ de Don Siegel
 Avec Clint Eastwood, Harry Guardino, Reni Santoni.  
 À San Francisco, l'inspecteur Harry Callahan poursuit un tueur qui menace d'exécuter une personne par jour tant que 200 000 dollars ne lui seront pas versés.
 
-- sa 3 juin 17h15 HL  
-- me 14 juin 18h30 GF
+- sa 3 juin 17h15 HL
 
 [35827]  
 **Jeremiah Johnson**  
@@ -169,7 +166,7 @@ Avec Robert Redford, Will Geer, Stefan Gierasch.
 Jeremiah Johnson, fuyant la violence du monde civilisé, s'enfonce dans les montagnes Rocheuses. Confronté à un environnement qu'il ne connait pas, il doit également faire face à la révolte des Indiens.
 
 - sa 3 juin 19h30 HL  
-- me 14 juin 20h45 GF
+- me 14 juin 20h30 GF
 
 [30210]  
 **John Mac Cabe**  
@@ -201,7 +198,17 @@ de Stuart Rosenberg
 Avec Paul Newman, Dennis Hopper, Jo Van Fleet.  
 Luke, condamné pour un acte de vandalisme en état d'ivresse, purge une peine de deux ans de prison dans un camp de travail. Au cours de sa détention il apprend le décès de sa mère et tente de s'évader.
 
-- di 18 juin 19h30 GF
+- di 18 juin 19h45 GF
+
+[36092]  
+**Mean Streets**  
+de Martin Scorsese  
+États-Unis / 1973 / 112 min / VOSTF / DCP  
+Avec Robert De Niro, Harvey Keitel, David Proval.  
+Little Italy, à New York. Quatre jeunes voyous, immigrés italiens au service de la Mafia, jouent les durs dans leur quartier.  
+Version restaurée.
+
+- me 21 juin 18h00 GF
 
 [31090]  
 **Opération Dragon**  
@@ -252,6 +259,7 @@ de George Lucas
 Avec Robert Duvall, Donald Pleasence, Maggie McOmie, Don Pedro Colley.  
 Au XXV<sup>e</sup> siècle, dans une cité souterraine futuriste où les gens sont identifiés par des chiffres et où tout est interdit, deux hommes et une femme se rebellent et tentent de s'échapper.
 
+- me 14 juin 18h30 GF  
 - sa 17 juin 19h45 GF
 
 [34777]  
@@ -272,7 +280,7 @@ de Robert Mulligan
 Avec Jennifer O'Neill, Gary Grimes, Jerry Houser.  
 Hermie se souvient avec nostalgie de cet été quarante-deux passé sur une île au large des États-Unis. Garçon timide de quinze ans, il avait du mal à aborder les filles de son âge. Jusqu'à ce qu'il rencontre Dorothy, une jeune femme dont le mari est parti à la guerre.
 
-- di 18 juin 17h00 GF
+- di 18 juin 17h15 GF
 
 [35645]  
 **Un nommé Cable Hogue**  

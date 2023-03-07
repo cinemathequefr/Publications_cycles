@@ -8,7 +8,7 @@ de Michel Vianey
 France / 1985 / 92 min  
 Avec Richard Berry, Carole Bouquet, Fanny Cottençon.
 
-- ve 2 juin 19h00 GF
+- ve 7 juil 19h00 GF
 
 [48807]  
 **Descente aux enfers**  
@@ -18,28 +18,28 @@ D'après le roman _Descente aux enfers_ de David Goodis.
 Avec Claude Brasseur, Sophie Marceau, Betsy Blair.  
 Un couple, formé par un ancien écrivain quadragénaire et alcoolique, et une belle jeune femme de vingt ans, bat de l'aile. Ils se retrouvent après un événement dramatique, survenu lors d'un séjour à Haïti.
 
-- ve 2 juin 21h00 GF
+- ve 7 juil 21h00 GF
 
 ## [Warner]
 
-[120411]  
-**Vengeance**  
-de Bob Blizz  
-États-Unis / 1980 / 91 min / VF / 35 mm  
-Avec Sally Lockett, Nicholas Jacquez, Bob Elliott.  
-Après avoir cambriolé une bijouterie, quatre malfrats prennent en otage la petite-fille d'un sénateur et son petit ami. Mais les choses se compliquent de jour en jour.
+[58714]  
+**Chantage au meurtre**  
+**(The Naked Runner)**  
+de Sidney J. Furie  
+Grande-Bretagne / 1966 / 104 min / VO / 35 mm  
+D'après le roman _The Naked Runner_ de Francis Clifford.  
+www
 
 - ve 9 juin 19h00 GF
 
-[56667]  
-**Blastfighter, l'exécuteur**  
-**(Blastfighter)**  
-de Lamberto Bava  
-États-Unis / 1984 / 87 min / VF / 35 mm  
-Avec Michael Sopkiw, George Eastman, Michele Soavi.  
-À sa sortie de prison, un ancien flic retourne dans son village natal, décidé à redevenir un homme libre, mais il est très vite confronté à l'hostilité des habitants.
+[89112]  
+**La Rage au cœur**  
+**(Rage)**  
+de George C. Scott  
+États-Unis / 1972 / 100 min / VO / 35 mm  
+wwr
 
-- ve 9 juin 21h00 GF
+- ve 9 juin 21h15 GF
 
 ## [Vigilante]
 
@@ -87,7 +87,7 @@ Avec Richard Roundtree, Frank Finlay, Vonetta McGee.
 de Tso Nam Lee  
 Hong-Kong / 1980 / 92 min / VF / 35 mm
 
-- ve 7 juil 19h00 GF
+- ve 21 juil 19h00 GF
 
 [154370]  
 **Karateka érotica**  
@@ -95,6 +95,6 @@ Hong-Kong / 1980 / 92 min / VF / 35 mm
 de Lau Chan, Lu Shun Ku  
 Hong-Kong / 1974 / 35 mm
 
-- ve 7 juil 21h00 GF
+- ve 21 juil 21h00 GF
 
 Remerciements : Gaumont, Productions Roitfeld, Emmanuel Rossi

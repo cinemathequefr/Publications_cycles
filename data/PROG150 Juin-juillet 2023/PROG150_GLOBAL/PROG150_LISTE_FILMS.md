@@ -7,16 +7,16 @@
 
 ## Cinéma bis (10)
 
-  * Blastfighter, l'exécuteur  
+  * Chantage au meurtre  
   * Descente aux enfers  
   * Droit de tuer (Le)  
   * Invincibles de Shaolin (Les)  
   * Karateka érotica  
   * Nuits rouges de Harlem (Les)  
+  * Rage au cœur (La)  
   * Rues de l'enfer (Les)  
   * Spécial police  
-  * Trafiquants d'hommes (Les)  
-  * Vengeance
+  * Trafiquants d'hommes (Les)
 
 ## Eloy de la Iglesia (22)
 
@@ -233,27 +233,46 @@
   * Sud  
   * Vampire (Le)
 
-## Quand les surréalistes allaient au cinéma (21)
+## Quand les surréalistes allaient au cinéma (40)
 
+  * A Day at the Zoo  
+  * A Haunted Mouse  
   * Âge d'or (L')  
   * André Breton malgré tout  
   * At Land  
+  * Betty atchoum  
+  * Betty au pays des merveilles  
+  * Betty et le petit roi  
+  * Candide candidat  
   * Cet obscur objet du désir  
   * Chasse du comte Zaroff (La)  
+  * Doggone Tired  
+  * Early Worm Gets the Bird  
   * Elle et Suzanne  
   * Entr'acte  
   * Etoile de mer (L')  
   * Femme au corbeau (La)  
+  * Halte au bruit  
+  * Hamateur Night  
   * Hellzapoppin  
   * Heure suprême (L')  
+  * Histoire de détective  
+  * Hollywood Steps Out  
   * Hôtel Drouot  
+  * I Wanna be a sailor  
+  * Imitation du cinéma (L')  
+  * Jerky Turkey  
   * King Kong  
   * Loulou  
   * Meshes of the Afternoon  
   * Monstrueuse parade (La)  
+  * Non ! Non ! Mille fois non !  
   * Œil à l'état sauvage (L')  
+  * Pauvre Cendrillon  
+  * Perle (La)  
   * Peter Ibbetson  
   * Portrait de Dorian Gray (Le)  
+  * Pudgy pompier  
   * Un chien andalou  
   * Within the Law
 
@@ -293,7 +312,7 @@
   * Yolanda et le voleur  
   * Ziegfeld Follies
 
-## Warner, années 70 (28)
+## Warner, années 70 (29)
 
   * Alice n'habite plus ici  
   * Ballade sauvage (La)  
@@ -313,6 +332,7 @@
   * John Mac Cabe  
   * Klute  
   * Luke la main froide  
+  * Mean Streets  
   * Opération Dragon  
   * Orange mécanique  
   * Rachel, Rachel  

@@ -915,8 +915,8 @@ Les noms du film et du réalisateur ne doivent pas être mentionnés. Mettre seu
 
 ## Rencontres et conférences
 
-**Films + Dialogue L'Image des plaisirs**  
-Rencontre animée par Nicole Brenez et Luc Vialle
+**Conférence de Frédéric Tachou**  
+**Conférence **
 
 - sa 3 juin 14h30 GF
 

@@ -2,6 +2,22 @@
 
 ## Les films
 
+[154383]  
+**A Day at the Zoo**  
+de Tex Avery  
+États-Unis / 1939 / 7 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film suivi d'_A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
+[154384]  
+**A Haunted Mouse**  
+de Tex Avery  
+États-Unis / 1941 / 6 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery et suivi de de _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
 [47140]  
 **L'Âge d'or**  
 de Luis Buñuel  
@@ -29,6 +45,42 @@ de Maya Deren
 Ouverture de la rétrospective  
 Film suivi de _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied, _Un chien andalou_ de Luis Buñuel, _Entr'acte_ de René Clair
 
+[96054]  
+**Betty atchoum**  
+**(Betty Boop's Ker-choo)**  
+de Dave Fleischer  
+États-Unis / 1933 / 6 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer et suivi de de _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
+[96145]  
+**Betty au pays des merveilles**  
+**(Betty in Blunderland)**  
+de Dave Fleischer  
+États-Unis / 1934 / 6 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer et suivi de de _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
+[96187]  
+**Betty et le petit roi**  
+**(Betty Boop and the Little King)**  
+de Dave Fleischer  
+États-Unis / 1936 / 6 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer et suivi de de _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
+[96161]  
+**Candide candidat**  
+**(The Candid Candidate)**  
+de Dave Fleischer  
+États-Unis / 1937 / 5 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer
+
 [47184]  
 **Cet obscur objet du désir**  
 de Luis Buñuel  
@@ -48,7 +100,23 @@ D'après la nouvelle _The Most dangerous game_ de Richard Connell.
 Avec Joel McCrea, Fay Wray, Robert Armstrong.  
 Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte du gibier humain.
 
-- di 18 juin 17h30 HL
+- di 18 juin 17h45 HL
+
+[154380]  
+**Doggone Tired**  
+de Tex Avery  
+États-Unis / 1949 / 7 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery et suivi de d'_Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
+[154382]  
+**Early Worm Gets the Bird**  
+de Tex Avery  
+États-Unis / 1940 / 8 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery et suivi de de _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [154373]  
 **Elle et Suzanne**  
@@ -95,6 +163,23 @@ Une jeune femme dont l'amant est emprisonné pour meurtre, rencontre un jeune ho
 
 - sa 17 juin 18h00 HL
 
+[96200]  
+**Halte au bruit**  
+**(Stop that Noise)**  
+de Dave Fleischer  
+États-Unis / 1935 / 6 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer et suivi de de _Candide candidat_ de Dave Fleischer
+
+[154378]  
+**Hamateur Night**  
+de Tex Avery  
+États-Unis / 1939 / 7 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery et suivi de de _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
 [35977]  
 **Hellzapoppin**  
 de Henry C. Potter  
@@ -117,6 +202,24 @@ Copie avec musique.
 
 - sa 17 juin 20h15 HL
 
+[113611]  
+**Histoire de détective**  
+de Charles Dekeukeleire  
+Belgique / 1929 / 49 min  
+Avec Pierre Bourgeois.
+
+- me 21 juin 20h30 GF  
+Film suivi de _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel
+
+[96333]  
+**Hollywood Steps Out**  
+de Tex Avery  
+États-Unis / 1941 / 8 min / VOSTF / DCP  
+Film de Tex Avery où de nombreux acteurs célèbres parmi lesquels Clark Gable, Henry Fonda, les Marx Brothers, Oliver Hardy et Buster Keaton se côtoient dans une soirée mondaine.
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery et suivi de d'_I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
 [154369]  
 **Hôtel Drouot**  
 de Fabrice Maze  
@@ -125,13 +228,38 @@ France / 2003 / 15 min / Numérique
 - me 21 juin 20h45 JE  
 Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze, _André Breton malgré tout_ de Fabrice Maze
 
+[154379]  
+**I Wanna be a sailor**  
+de Tex Avery  
+États-Unis / 1937 / 7 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery et suivi de de _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
+[82660]  
+**L'Imitation du cinéma**  
+de Marcel Mariën  
+Belgique / 1959 / 40 min  
+Avec Tom Gutt, Ulysse Pétian, Suzanne Bourgoigne.
+
+- me 21 juin 20h30 GF  
+Film précédé de _Histoire de détective_ de Charles Dekeukeleire et suivi de de _La Perle_ de Henri d' Ursel
+
+[154381]  
+**Jerky Turkey**  
+de Tex Avery  
+États-Unis / 1945 / 7 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery et suivi de de _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
 [36414]  
 **King Kong**  
 de Merian C. Cooper, Ernest B. Schoedsack  
 États-Unis / 1933 / 100 min / VO / DCP  
 Avec Fay Wray, Robert Armstrong, Bruce Cabot.
 
-- di 18 juin 19h00 HL
+- di 18 juin 19h15 HL
 
 [40704]  
 **Loulou**  
@@ -168,6 +296,15 @@ Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui port
 
 - ve 16 juin 18h00 HL
 
+[96185]  
+**Non ! Non ! Mille fois non !**  
+**(No ! No ! A Thousand Times No !)**  
+de Dave Fleischer  
+États-Unis / 1935 / 6 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery et suivi de de _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
 [154368]  
 **L'Œil à l'état sauvage**  
 de Fabrice Maze  
@@ -175,6 +312,24 @@ France / 2003 / 26 min / Numérique
 
 - me 21 juin 20h45 JE  
 Film suivi d'_André Breton malgré tout_ de Fabrice Maze, _Hôtel Drouot_ de Fabrice Maze
+
+[96141]  
+**Pauvre Cendrillon**  
+**(Poor Cinderella)**  
+de Dave Fleischer  
+États-Unis / 1934 / 10 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer et suivi de de _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
+[46205]  
+**La Perle**  
+de Henri d' Ursel  
+Belgique / 1928 / 20 min  
+Avec Georges Hugnet, Kissa Kouprine, Mary Stutz.
+
+- me 21 juin 20h30 GF  
+Film précédé de _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën
 
 [33073]  
 **Peter Ibbetson**  
@@ -199,6 +354,15 @@ Restauration 2K par Warner Bros. Pictures.
 
 - lu 19 juin 20h00 GF
 
+[96222]  
+**Pudgy pompier**  
+**(Ding Dong Doggie)**  
+de Dave Fleischer  
+États-Unis / 1937 / 6 min / DCP
+
+- sa 24 juin 17h00 GF  
+Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer et suivi de de _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
+
 [47197]  
 **Un chien andalou**  
 de Luis Buñuel  
@@ -222,9 +386,9 @@ Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis,
 ## Rencontres et conférences
 
 **Film + Dialogue entre Dominique PaÏni et Dominique Rabourdin**  
-Les surréalistes furent assidus au cinéma, un art encore neuf et qu'en spectateurs ils pratiquaient librement, n'hésitant pas à passer d'une séance à l'autre, à entrer après le commencement ou à sortir avant la fin... Mais un cinéma surréaliste a-t-il bel et bien existé ? Et si oui, à quelles conditions ? Autrement dit, le surréalisme engendra-t-il une création cinématographique spécifique ? « Ce qu'il y a de plus spécifique dans les moyens du cinéma, c'est de toute évidence le pouvoir de concrétiser les puissances de l'amour qui restent malgré tout déficientes dans les livres, du seul fait que rien ne peut y rendre la séduction ou la détresse d'un regard, ou certains vertiges sans prix. Et que dire de l'impuissance radicale des arts plastiques dans ce domaine (qu'on songe qu'il ne s'est pas trouvé un peintre pour nous laisser l'image radieuse du baiser). Le cinéma est seul à étendre là son empire et cela suffirait amplement à sa consécration. Quelles traines incomparables, à jamais étincelantes, laissant à cet égard dans le souvenir des films comme _Ah ! Le beau voyage_ \[_A Little Journey_, Robert Z. Leonard, 1927\] ou _Peter Ibbetson_ et comme les chances suprêmes de la vie se tamisent sous leur rayon ! » André Breton, _L'Âge du cinéma_, novembre 1951  
+Dès leur jeunesse, les futurs surréalistes se passionnent pour le cinéma et sa liberté sans limite : « Jamais aucun moyen d'expression n'a enregistré autant d'espoir que le cinéma », dit Benjamin Péret. « C'est là que se célèbre le seul mystère _absolument moderne_ », écrit André Breton. Et il ajoute, en novembre 1951, dans _L'Âge du cinéma_ : « Ce qu'il y a de plus spécifique dans les moyens du cinéma, c'est de toute évidence le pouvoir de concrétiser les puissances de l'amour qui restent malgré tout déficientes dans les livres, du seul fait que rien ne peut y rendre la séduction ou la détresse d'un regard – « ou de certains vertiges sans prix ». Quelles traines incomparables, à jamais étincelantes, laissent à cet égard dans le souvenir des films comme _Ah ! Le beau voyage_ \[_A Little Journey_, Robert Z. Leonard, 1927\] ou Peter Ibbetson et comme les chances suprêmes de la vie se tamisent sous leur rayon ! » Dans _L'Amour fou_, Breton est revenu sur la beauté de _Peter Ibbetson_, « ce film prodigieux, triomphe de la pensée surréaliste » – sans jamais citer son metteur en scène, Henry Hathaway. Il n'était pas adepte de la politique des auteurs... Quant à _Ah ! Le beau voyage_, tourné au temps du Muet, il est à ce jour considéré comme perdu...  
 **Dominique Païni** a dirigé la Cinémathèque française de 1991 à 2000. Essayiste, programmateur et commissaire d'expositions, il a publié plusieurs livres sur le cinéma. Avec l'historienne de l'art Alix Agret, il est commissaire de l'exposition « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars – 10 septembre 2023).  
-**Dominique Rabourdin** est critique, historien du surréalisme, réalisateur de célèbres émissions de télévision (_Un Siècle d'écrivains_, _Océaniques_, _Métropolis_...) et de documentaires (_André Breton par André Breton_, _Quelques jours avec Sirk_, _Michel Bouquet « Ma vocation d'acteur »_...). En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place).
+**Dominique Rabourdin** est cinéphile – tendance Nickelodeon... –, critique, historien du cinéma et du surréalisme, réalisateur de célèbres émissions de télévision : _Archives du XXème siècle_, _Un siècle d'écrivains_, _André Breton par André Breton_, _Souvenirs de l'Âge d'or, Serge Daney – Itinéraire d'un ciné-fils_, _Quelques jours avec Douglas Sirk_, _Michel Bouquet – Ma vocation d'acteur_, _Krzysztof Kieślowski_, _Max Schoendorff_. En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place).
 
 - sa 17 juin 14h30 HL  
 À la suite de la projection de _Peter Ibbetson_ de Henry Hathaway (voir p. xx)
