@@ -35,7 +35,7 @@ Numérisation en 2K au laboratoire du CNC par la Cinémathèque française.
 
 - sa 11 mar 17h45 JE  
 Séance présentée par Thomas Gabison et Emilie Cauquy  
-Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage, _Crossroads_ de Bruce Conner
+Film précédé de _Mickey Mouse au Vietnam_ de Whitney Lee Savage, _Crossroads_ de Bruce Conner
 
 [130509]  
 **Crossroads**  
@@ -45,7 +45,7 @@ En pleine guerre froide, Conner montre l'explosion nucléaire test de 1945 sur l
 
 - sa 11 mar 17h45 JE  
 Séance présentée par Thomas Gabison et Emilie Cauquy  
-Film précédé de _Mickey Mouse au Vietnam_ de Lee Savage et suivi de de _Comment s'en sortir sans sortir_ de Raoul Sangla
+Film précédé de _Mickey Mouse au Vietnam_ de Whitney Lee Savage et suivi de de _Comment s'en sortir sans sortir_ de Raoul Sangla
 
 [135109]  
 **La Damnation de Caïn**  
@@ -99,7 +99,7 @@ Film suivi de _Home Movie : New York_ de Frédéric Pardo, _Home Movie : Marrake
 [139952]  
 **Mickey Mouse au Vietnam**  
 **(Mickey Mouse in Vietnam)**  
-de Lee Savage  
+de Whitney Lee Savage  
 États-Unis / 1969 / 1 min / DCP  
 Dans ce dessin animé indépendant, ni validé ni produit par Disney, Mickey s'engage dans l'armée américaine et se rend au Vietnam en bateau durant la guerre. Quelques instants après son arrivée, il est tué d'une balle dans la tête.
 

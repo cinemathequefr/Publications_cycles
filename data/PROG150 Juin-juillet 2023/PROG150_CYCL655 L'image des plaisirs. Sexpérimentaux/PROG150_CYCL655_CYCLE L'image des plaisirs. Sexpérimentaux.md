@@ -48,7 +48,7 @@ Avec Robert Adams, Richard Locke, Victoria Young.
 Ce film pornographique mélancolique évoque aussi bien un amour passionné que les fantasmes d'hommes et d'amants occasionnels et la vie quotidienne dans le monde carcéral.  
 Avec l'aimable autorisation du Projet Bressan et de l'American Genre Film Archive.
 
-- sa 3 juin 14h30 GF
+- je 1 juin 19h00 JE
 
 ## Séance 25 : Décharges
 
@@ -172,7 +172,7 @@ Inde / 1985 / 58 min / VOSTF / 16 mm
 Avec Rekha, Rosy, Vasanti, Lovina, Pussycat.  
 Devant la caméra bienveillante de Mira Nair, se libèrent, parfois jusqu'au rire, les paroles de danseuses et prostituées indiennes dont certaines ont fui des mariages forcés, tandis que d'autres sont encore mariées.
 
-- di 4 juin 17h45 GF
+- di 4 juin 17h30 GF
 
 ## Séance 28 : Tortures
 

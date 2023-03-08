@@ -145,7 +145,7 @@ Voir aussi dialogue p. xx
 **Le Retour des Mousquetaires**  
 **(The Return of the Musketeers)**  
 de Richard Lester  
-Grande-Bretagne-France-Espagne / 1989 / 102 min / Numérique  
+Grande-Bretagne-France-Espagne / 1989 / 102 min / VOSTF / Numérique  
 Avec Michael York, Oliver Reed, Richard Chamberlain, Philippe Noiret.  
 France, 1649. Le cardinal Mazarin ordonne à d'Artagnan de retrouver Athos, Porthos et Aramis pour les mettre à son service.
 
