@@ -43,7 +43,7 @@
   * Sacerdote (El)  
   * Semaine d'un assassin = Cannibal Man (La)
 
-## François de Roubaix (13)
+## François de Roubaix (12)
 
   * Aventuriers (Les)  
   * Comment ça va ? J'm'en fous = Les Malentendus  
@@ -56,8 +56,7 @@
   * Lèvres rouges (Les)  
   * Morgane et ses nymphes  
   * Samouraï (Le)  
-  * Saut de l'ange (Le)  
-  * Scoumoune (La)
+  * Saut de l'ange (Le)
 
 ## Jeune public (16)
 

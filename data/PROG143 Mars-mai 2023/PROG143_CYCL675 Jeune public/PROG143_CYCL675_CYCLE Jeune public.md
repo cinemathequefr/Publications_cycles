@@ -151,7 +151,7 @@ En 1585, l'Espagne et l'Angleterre sont au bord de la déclaration de guerre. La
 **Les Lumières de la ville**  
 **(City Lights)**  
 de Charles Chaplin  
-États-Unis / 1931 / 87 min / INT. FR. / DCP  
+États-Unis / 1931 / 87 min / STF / DCP  
 Avec Charles Chaplin, Robert Parrish, Jean Harlow.  
 Charlot le vagabond s'essaye à différents métiers pour aider une jeune fille aveugle à recouvrer la vue.
 

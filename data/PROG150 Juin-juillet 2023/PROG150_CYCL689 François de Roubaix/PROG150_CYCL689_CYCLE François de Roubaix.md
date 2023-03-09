@@ -113,14 +113,6 @@ En pleine campagne électorale à Marseille, deux clans s'affrontent : la famill
 
 - sa 24 juin 21h00 GF
 
-[48733]  
-**La Scoumoune**  
-de José Giovanni  
-France-Italie / 1972 / 35 mm  
-Les aventures de deux truands marseillais, Xavier Saratov et Roberto « la Scoumoune », autrement dit « le porte-poisse », qui pendant plus de 15 ans se battent contre la loi, des gangs rivaux, les autorités pénitentiaires. Remake d'_Un nommé La Rocca_ de Becker.
-
-- di 25 juin 20h15 GF
-
 ## Rencontres et conférences
 
 **« François de Roubaix, portrait musical » par Stéphane Lerouge**
