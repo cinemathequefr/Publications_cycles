@@ -5,7 +5,7 @@
 [51665]  
 **Spécial police**  
 de Michel Vianey  
-France / 1985 / 92 min  
+France / 1985 / 92 min / 35 mm  
 Avec Richard Berry, Carole Bouquet, Fanny Cottençon.
 
 - ve 7 juil 19h00 GF
@@ -26,7 +26,7 @@ Un couple, formé par un ancien écrivain quadragénaire et alcoolique, et une b
 **Chantage au meurtre**  
 **(The Naked Runner)**  
 de Sidney J. Furie  
-Grande-Bretagne / 1966 / 104 min / VO / 35 mm  
+Grande-Bretagne / 1966 / 104 min / VOSTF / 35 mm  
 D'après le roman _The Naked Runner_ de Francis Clifford.  
 www
 
@@ -36,7 +36,7 @@ www
 **La Rage au cœur**  
 **(Rage)**  
 de George C. Scott  
-États-Unis / 1972 / 100 min / VO / 35 mm  
+États-Unis / 1972 / 100 min / VOSTF / 35 mm  
 wwr
 
 - ve 9 juin 21h15 GF
@@ -93,7 +93,7 @@ Hong-Kong / 1980 / 92 min / VF / 35 mm
 **Karateka érotica**  
 **(Long She Hun za)**  
 de Lau Chan, Lu Shun Ku  
-Hong-Kong / 1974 / 35 mm
+Hong-Kong / 1974 / 94 min / 35 mm
 
 - ve 21 juil 21h00 GF
 

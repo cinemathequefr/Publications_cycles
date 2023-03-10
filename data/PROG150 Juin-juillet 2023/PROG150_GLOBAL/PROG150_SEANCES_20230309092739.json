@@ -121,6 +121,37 @@
     "hashEvenement": "f35645"
   },
   {
+    "idSeance": 103983,
+    "idEvenement": 27358,
+    "dateHeure": "2023-06-01T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "L'image des plaisirs. Sexpérimentaux",
+        "Séance 24 : « Je garde le souvenir de ton baiser et je voudrais bien que ce soit là une preuve que je puisse être aimé par toi »"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 99583,
+        "titre": "Asparagus",
+        "realisateurs": "Suzan Pitt",
+        "annee": 1979,
+        "duree": 18
+      },
+      {
+        "idFilm": 154195,
+        "titre": "Forbidden Letters",
+        "realisateurs": "Arthur J. Bressan Jr.",
+        "annee": 1979,
+        "duree": 70,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f99583f154195"
+  },
+  {
     "idSeance": 104075,
     "idEvenement": 28171,
     "dateHeure": "2023-06-01T19:30:00",
@@ -280,37 +311,6 @@
       }
     ],
     "hashEvenement": "f30443"
-  },
-  {
-    "idSeance": 103983,
-    "idEvenement": 27358,
-    "dateHeure": "2023-06-03T16:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "L'image des plaisirs. Sexpérimentaux",
-        "Séance 24 : « Je garde le souvenir de ton baiser et je voudrais bien que ce soit là une preuve que je puisse être aimé par toi »"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 99583,
-        "titre": "Asparagus",
-        "realisateurs": "Suzan Pitt",
-        "annee": 1979,
-        "duree": 18
-      },
-      {
-        "idFilm": 154195,
-        "titre": "Forbidden Letters",
-        "realisateurs": "Arthur J. Bressan Jr.",
-        "annee": 1979,
-        "duree": 70,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f99583f154195"
   },
   {
     "idSeance": 103963,
@@ -1002,7 +1002,7 @@
         "realisateurs": "Michael Curran",
         "annee": 1994,
         "duree": 5,
-        "format": "DCP"
+        "format": "Numérique"
       },
       {
         "idFilm": 154218,
@@ -1089,7 +1089,7 @@
         "realisateurs": "Sidney J. Furie",
         "annee": 1966,
         "duree": 104,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -1114,7 +1114,7 @@
         "realisateurs": "George C. Scott",
         "annee": 1972,
         "duree": 100,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -1219,7 +1219,7 @@
         "realisateurs": "Jo Ann Kaplan",
         "annee": 1997,
         "duree": 23,
-        "format": "DCP"
+        "format": "Numérique"
       },
       {
         "idFilm": 154223,
@@ -1574,7 +1574,7 @@
         "realisateurs": "Manon De Boer",
         "annee": 2003,
         "duree": 39,
-        "format": "DCP"
+        "format": "Numérique"
       },
       {
         "idFilm": 94573,
@@ -2273,7 +2273,7 @@
         "realisateurs": "Liz Rosenfeld",
         "annee": 2017,
         "duree": 9,
-        "format": "DCP"
+        "format": "Numérique"
       },
       {
         "idFilm": 154073,
@@ -2525,7 +2525,7 @@
   },
   {
     "idSeance": 103997,
-    "idEvenement": 28219,
+    "idEvenement": 27484,
     "dateHeure": "2023-06-17T18:30:00",
     "salle": "JE",
     "cycle": [
@@ -2559,17 +2559,9 @@
         "duree": 63,
         "version": "VOSTA",
         "format": "Numérique"
-      },
-      {
-        "idFilm": 154390,
-        "titre": "Relax Be Cruel",
-        "realisateurs": "Marion Scemama",
-        "annee": 2023,
-        "duree": 39,
-        "format": "DCP"
       }
     ],
-    "hashEvenement": "f154243f154250f154242f154390"
+    "hashEvenement": "f154243f154250f154242"
   },
   {
     "idSeance": 101195,
@@ -2912,7 +2904,7 @@
   },
   {
     "idSeance": 104151,
-    "idEvenement": 28216,
+    "idEvenement": 27999,
     "dateHeure": "2023-06-21T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -2922,14 +2914,6 @@
       ]
     ],
     "items": [
-      {
-        "idFilm": 154389,
-        "titre": "Fidélité des images",
-        "art": "La",
-        "realisateurs": "René Magritte",
-        "annee": 1946,
-        "duree": 27
-      },
       {
         "idFilm": 113611,
         "titre": "Histoire de détective",
@@ -2954,7 +2938,7 @@
         "duree": 20
       }
     ],
-    "hashEvenement": "f154389f113611f82660f46205"
+    "hashEvenement": "f113611f82660f46205"
   },
   {
     "idSeance": 104015,
@@ -4652,8 +4636,7 @@
         "titre": "Spécial police",
         "realisateurs": "Michel Vianey",
         "annee": 1985,
-        "duree": 92,
-        "format": "35 mm"
+        "duree": 92
       }
     ],
     "hashEvenement": "f51665"
@@ -5397,9 +5380,7 @@
         "art": "La",
         "realisateurs": "Richard Whorf, George Sidney, Vincente Minnelli",
         "annee": 1946,
-        "duree": 132,
-        "version": "VO",
-        "format": "35 mm"
+        "duree": 132
       }
     ],
     "hashEvenement": "f38027"
@@ -5880,7 +5861,6 @@
         "titre": "Karateka érotica",
         "realisateurs": "Lau Chan, Lu Shun Ku",
         "annee": 1974,
-        "duree": 94,
         "format": "35 mm"
       }
     ],
@@ -6174,9 +6154,7 @@
         "art": "La",
         "realisateurs": "Richard Whorf, George Sidney, Vincente Minnelli",
         "annee": 1946,
-        "duree": 132,
-        "version": "VO",
-        "format": "35 mm"
+        "duree": 132
       }
     ],
     "hashEvenement": "f38027"

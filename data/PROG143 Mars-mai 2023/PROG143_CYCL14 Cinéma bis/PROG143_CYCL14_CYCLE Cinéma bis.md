@@ -85,7 +85,7 @@ Film réalisé sous le pseudonyme de Terence Hathaway.
 **Coup de force à Berlin**  
 **(Tiffany Memorandum)**  
 de Sergio Grieco  
-Italie-France / 1967 / 95 min / VF / 35 mm  
+Italie-France / 1967 / 95 min / VF / Numérique  
 Avec Ken Clark, Irina Demick, Luigi Vannucchi.  
 À Paris, le reporter Dick Hallam est témoin de l'assassinat d'un politicien d'Amérique centrale. Espérant rapporter un scoop, il se lance dans sa propre enquête.  
 Film réalisé sous le pseudonyme de Terence Hathaway.

@@ -94,7 +94,8 @@ Un réalisateur, une actrice et un scénariste a qui l'on propose un nouveau con
 **(Designing Woman)**  
 de Vincente Minnelli  
 États-Unis / 1956 / 117 min / VOSTF / 35 mm  
-Avec Gregory Peck, Lauren Bacall.
+Avec Gregory Peck, Lauren Bacall.  
+Marilla et Mike se rencontrent et s'épousent, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents., lui est chroniqueur sportif, elle est dessinatrice de mode.
 
 - me 28 juin 20h00 HL  
 Ouverture de la rétrospective  
@@ -126,7 +127,8 @@ A bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'a
 **(The Clock)**  
 de Vincente Minnelli  
 États-Unis / 1945 / 90 min / VO / 35 mm  
-Avec Judy Garland, Robert Walker.
+Avec Judy Garland, Robert Walker.  
+En 1945, lors d'une permission de 48 heures, un soldat rencontre par hasard une jeune fille à Pennsylvania Station. Il passe sa permission avec elle et finit par tomber amoureux de la jolie New-yorkaise.
 
 - je 29 juin 18h00 HL  
 - ve 21 juil 18h00 HL
@@ -156,7 +158,8 @@ Avec Howard Keel, Ann Blyth, Jack Elam.
 **(Undercurrent)**  
 de Vincente Minnelli  
 États-Unis / 1946 / 116 min / VOSTF / 35 mm  
-Avec Katharine Hepburn, Robert Taylor, Robert Mitchum.
+Avec Katharine Hepburn, Robert Taylor, Robert Mitchum.  
+Ann Hamilton a épousé sur un coup de foudre un riche industriel, Alan Garroway. Elle apprend bientôt qu'il est plus mystérieux et inquiétant qu'il n'en a l'air.
 
 - ve 30 juin 15h30 GF  
 - je 13 juil 18h00 HL
@@ -166,7 +169,8 @@ Avec Katharine Hepburn, Robert Taylor, Robert Mitchum.
 de Vincente Minnelli  
 États-Unis / 1949 / 115 min / VOSTF / 35 mm  
 D'après le roman _Madame Bovary_ de Gustave Flaubert.  
-Avec Jennifer Jones, James Mason.
+Avec Jennifer Jones, James Mason.  
+Face au tribunal, Gustave Flaubert rend des comptes sur son roman, considéré comme œuvre immorale, et en justifie le contenu, prenant la défense de son personnage principal. Emma Bovary, jeune femme s'ennuyant aux cotés de son mari médecin de campagne.
 
 - je 29 juin 20h00 HL  
 - sa 22 juil 17h00 HL
@@ -175,7 +179,9 @@ Avec Jennifer Jones, James Mason.
 **Mademoiselle ma femme**  
 **(I Dood It)**  
 de Vincente Minnelli  
-États-Unis / 1943 / 102 min / VOSTF / 35 mm
+États-Unis / 1943 / 102 min / VOSTF / 35 mm  
+Avec Eleanor Powell, Red Skelton.  
+Joseph, modeste et maladroit employé de pressing, est surpris quand Connie Shaw, vedette de music-hall dont il est amoureux sans réciprocité, accepte de l'épouser dans le but de se venger de son fiancé infidèle.
 
 - sa 15 juil 14h30 HL  
 - lu 17 juil 18h30 GF
@@ -229,8 +235,9 @@ Manuela rêve des exploits du pirate Macoco, elle en est amoureuse sans le conna
 **La Pluie qui chante**  
 **(Till the Clouds Roll By)**  
 de Richard Whorf, George Sidney, Vincente Minnelli  
-États-Unis / 1946 / 132 min  
-Avec Cyd Charisse, Judy Garland.
+États-Unis / 1946 / 132 min / VO / 35 mm  
+Avec Judy Garland, Robert Walker, Lucille Bremer.  
+En 1927, Jerôme Kern remporte un véritable succès avec le spectacle « Show Boat » ... Riche et célèbre, il se retourne sur son passé et se souvient de ceux qui l'ont aidé tout au long de son parcours vers la réussite.
 
 - di 16 juil 14h30 HL  
 - lu 24 juil 18h30 GF
@@ -341,7 +348,8 @@ Ella Peterson, une standardiste new-yorkaise, s'immisce dans les affaires des ab
 **(Cabin in the Sky)**  
 de Vincente Minnelli  
 États-Unis / 1943 / 98 min / VOSTF / 35 mm  
-Avec Cab Calloway, Rex Ingram, Duke Ellington, Louis Armstrong.
+Avec Cab Calloway, Rex Ingram, Duke Ellington, Louis Armstrong, Eddie " Rochester " Anderson.  
+Blessé mortellement, Little Joe Jackson est envoyé au ciel. Avant d'aller en enfer, il se voit accorder un sursis de six mois.
 
 - je 29 juin 16h00 GF  
 - lu 17 juil 20h45 GF

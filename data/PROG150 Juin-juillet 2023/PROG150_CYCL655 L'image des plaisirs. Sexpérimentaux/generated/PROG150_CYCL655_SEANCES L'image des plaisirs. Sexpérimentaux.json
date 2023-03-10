@@ -46,14 +46,29 @@
     ]
   },
   {
+    "idCategorie": 2963,
+    "typeEvenement": 14,
+    "idEvenement": 28033,
+    "idSeance": 103946,
+    "dateHeure": "2023-06-03T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 2905,
     "typeEvenement": 13,
     "idEvenement": 27358,
     "idSeance": 103983,
-    "dateHeure": "2023-06-01T19:00:00",
+    "dateHeure": "2023-06-03T16:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "dureeSeance": 120,
     "items": [
@@ -75,21 +90,6 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
-  },
-  {
-    "idCategorie": 2963,
-    "typeEvenement": 14,
-    "idEvenement": 28033,
-    "idSeance": 103946,
-    "dateHeure": "2023-06-03T14:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {}
     ]
   },
   {
@@ -524,7 +524,7 @@
         "idCopie": 25117,
         "duree": 5,
         "version": "",
-        "format": "Numérique"
+        "format": "DCP"
       },
       {
         "idFilm": 154218,
@@ -624,7 +624,7 @@
         "idCopie": 25123,
         "duree": 23,
         "version": "",
-        "format": "Numérique"
+        "format": "DCP"
       },
       {
         "idFilm": 154223,
@@ -869,7 +869,7 @@
         "idCopie": 25135,
         "duree": 39,
         "version": "",
-        "format": "Numérique"
+        "format": "DCP"
       },
       {
         "idFilm": 94573,
@@ -1241,7 +1241,7 @@
         "idCopie": 25190,
         "duree": 9,
         "version": "",
-        "format": "Numérique"
+        "format": "DCP"
       },
       {
         "idFilm": 154073,
@@ -1370,7 +1370,7 @@
   {
     "idCategorie": 2907,
     "typeEvenement": 13,
-    "idEvenement": 27484,
+    "idEvenement": 28219,
     "idSeance": 103997,
     "dateHeure": "2023-06-17T18:30:00",
     "idSalle": [
@@ -1405,6 +1405,15 @@
         "duree": 63,
         "version": "VOSTA",
         "format": "Numérique"
+      },
+      {
+        "idFilm": 154390,
+        "ordre": 4,
+        "idSeance": 103997,
+        "idCopie": 25843,
+        "duree": 39,
+        "version": "",
+        "format": "DCP"
       }
     ]
   }

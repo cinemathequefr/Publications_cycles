@@ -77,7 +77,7 @@
   * Un homme de têtes  
   * Voyage à travers l'impossible
 
-## L'image des plaisirs. Sexpérimentaux (116)
+## L'image des plaisirs. Sexpérimentaux (117)
 
   * Action érotico-patriotique  
   * Amour fou (L')  
@@ -157,6 +157,7 @@
   * Prince of peace  
   * Ready-Made with Pelle Lowe  
   * Rein/Raus  
+  * Relax Be Cruel  
   * Removed  
   * Right side of my brain (The)  
   * Rouille  
@@ -232,7 +233,7 @@
   * Sud  
   * Vampire (Le)
 
-## Quand les surréalistes allaient au cinéma (40)
+## Quand les surréalistes allaient au cinéma (41)
 
   * A Day at the Zoo  
   * A Haunted Mouse  
@@ -251,6 +252,7 @@
   * Entr'acte  
   * Etoile de mer (L')  
   * Femme au corbeau (La)  
+  * Fidélité des images (La)  
   * Halte au bruit  
   * Hamateur Night  
   * Hellzapoppin  

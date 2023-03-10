@@ -163,6 +163,14 @@ Une jeune femme dont l'amant est emprisonné pour meurtre, rencontre un jeune ho
 
 - sa 17 juin 18h00 HL
 
+[154389]  
+**La Fidélité des images**  
+de René Magritte  
+Belgique / 1946 / 27 min
+
+- me 21 juin 20h30 GF  
+Film suivi de _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel
+
 [96200]  
 **Halte au bruit**  
 **(Stop that Noise)**  
@@ -209,7 +217,7 @@ Belgique / 1929 / 49 min
 Avec Pierre Bourgeois.
 
 - me 21 juin 20h30 GF  
-Film suivi de _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel
+Film précédé de _La Fidélité des images_ de René Magritte et suivi de de _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel
 
 [96333]  
 **Hollywood Steps Out**  
@@ -243,7 +251,7 @@ Belgique / 1959 / 40 min
 Avec Tom Gutt, Ulysse Pétian, Suzanne Bourgoigne.
 
 - me 21 juin 20h30 GF  
-Film précédé de _Histoire de détective_ de Charles Dekeukeleire et suivi de de _La Perle_ de Henri d' Ursel
+Film précédé de _La Fidélité des images_ de René Magritte, _Histoire de détective_ de Charles Dekeukeleire et suivi de de _La Perle_ de Henri d' Ursel
 
 [154381]  
 **Jerky Turkey**  
@@ -329,7 +337,7 @@ Belgique / 1928 / 20 min
 Avec Georges Hugnet, Kissa Kouprine, Mary Stutz.
 
 - me 21 juin 20h30 GF  
-Film précédé de _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën
+Film précédé de _La Fidélité des images_ de René Magritte, _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën
 
 [33073]  
 **Peter Ibbetson**  

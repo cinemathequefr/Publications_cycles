@@ -49,7 +49,7 @@ Quatre adaptations modernes des contes pour adultes de Boccace, qui mettent en s
 **Brancaleone s'en va-t-aux croisades**  
 **(Brancaleone alle crociate)**  
 de Mario Monicelli  
-Italie-Algérie / 1970 / 117 min / VF / 35 mm  
+Italie-Algérie / 1970 / 117 min / Numérique  
 Avec Vittorio Gassman, Stefania Sandrelli, Adolfo Celli.  
 Les nouvelles aventures de Brancaleone et de ses compagnons qui partent aux croisades.
 
@@ -316,7 +316,7 @@ Un député d'extrême droite fomente un coup d'État avec le concours d'un grou
 **Les Nouveaux Monstres**  
 **(I Nuovi mostri)**  
 de Dino Risi, Mario Monicelli, Ettore Scola  
-Italie / 1977 / 115 min / VOSTF / 35 mm  
+Italie / 1977 / VOSTF / 35 mm  
 Avec Alberto Sordi, Ugo Tognazzi, Vittorio Gassman.  
 Douze sketches, tableaux sombres et amers qui, à la suite des _Monstres_ de 1963, mettent en scène l'évolution de la société italienne.
 

@@ -48,7 +48,7 @@ Avec Robert Adams, Richard Locke, Victoria Young.
 Ce film pornographique mélancolique évoque aussi bien un amour passionné que les fantasmes d'hommes et d'amants occasionnels et la vie quotidienne dans le monde carcéral.  
 Avec l'aimable autorisation du Projet Bressan et de l'American Genre Film Archive.
 
-- je 1 juin 19h00 JE
+- sa 3 juin 16h30 GF
 
 ## Séance 25 : Décharges
 
@@ -339,7 +339,7 @@ suivi de
 [154217]  
 **L'Heure Autosexuelle**  
 de Michael Curran  
-Grande-Bretagne-Pays-Bas / 1994 / 5 min / Numérique  
+Grande-Bretagne-Pays-Bas / 1994 / 5 min / DCP  
 Performance à plusieurs pôles gravitationnels.  
 suivi de  
 [154218]  
@@ -406,7 +406,7 @@ suivi de
 [154222]  
 **The Story of I**  
 de Jo Ann Kaplan  
-Grande-Bretagne / 1997 / 23 min / Numérique  
+Grande-Bretagne / 1997 / 23 min / DCP  
 Une femme couchée dans une baignoire lit _L'histoire de l'œil_ de Georges Bataille. L'œil devient le vagin, vu à travers le sang, l'urine et les larmes, il se regarde au miroir.  
 suivi de  
 [154223]  
@@ -569,7 +569,7 @@ Deux brillants documentaires construits sur la division : entre image et son, en
 [154227]  
 **Sylvia Kristel, Paris**  
 de Manon De Boer  
-Belgique / 2003 / 39 min / Numérique  
+Belgique / 2003 / 39 min / DCP  
 Ce film sur, avec et pour Sylvia Kristel, star planétaire du cinéma érotique, est un témoignage sur l'amour, sur le travail, sur les voyages, sur l'émancipation.  
 suivi de  
 [94573]  
@@ -806,7 +806,7 @@ suivi de
 [154240]  
 **Fuck Tree**  
 de Liz Rosenfeld  
-Allemagne / 2017 / 9 min / Numérique  
+Allemagne / 2017 / 9 min / DCP  
 « Portrait d'un arbre célèbre dans une zone de drague de Hampstead Heath. Inspirée par les méthodes d'érosion de Luther Price, Rosenfeld enterre des bouts de la copie originale dans le jardin de LUX, trempés dans le sperme. » (Lux)  
 suivi de  
 [154073]  
@@ -909,7 +909,13 @@ suivi de
 **Dan sak sit**  
 de Thunska Pansittivorakul  
 Thaïlande / 2020 / 63 min / VOSTA / Numérique  
-Les noms du film et du réalisateur ne doivent pas être mentionnés. Mettre seulement: Film surprise et la durée 63 minutes
+Les noms du film et du réalisateur ne doivent pas être mentionnés. Mettre seulement: Film surprise et la durée 63 minutes  
+suivi de  
+[154390]  
+**Relax Be Cruel**  
+de Marion Scemama  
+États-Unis-France / 2023 / 39 min / DCP  
+« Hommage à un lieu mythique de New York, le Pier 34, emblématique du bouillonnement de la scène underground qui explosait au début des années 80 et des lieux de rencontres homosexuelles anonymes. Le dernier espace de liberté avant les années Sida. » (Marion Scemama)
 
 - sa 17 juin 18h30 JE
 
