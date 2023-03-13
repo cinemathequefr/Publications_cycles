@@ -905,17 +905,18 @@ de Geoffroy C. Dedenis
 France / 2019 / 2 min / Numérique  
 « L'un des « Violent Wallpapers » réalisés à la demande du féérique Pierre Emö pour Pornceptual à Berlin. On les projetait sur les murs pendant que les participants faisaient ce qu'ils avaient à faire. Je crois qu'on les passait au ralenti. » (GCD)  
 suivi de  
-[154242]  
-**Dan sak sit**  
-de Thunska Pansittivorakul  
-Thaïlande / 2020 / 63 min / VOSTA / Numérique  
-Les noms du film et du réalisateur ne doivent pas être mentionnés. Mettre seulement: Film surprise et la durée 63 minutes  
-suivi de  
 [154390]  
 **Relax Be Cruel**  
 de Marion Scemama  
 États-Unis-France / 2023 / 39 min / DCP  
-« Hommage à un lieu mythique de New York, le Pier 34, emblématique du bouillonnement de la scène underground qui explosait au début des années 80 et des lieux de rencontres homosexuelles anonymes. Le dernier espace de liberté avant les années Sida. » (Marion Scemama)
+« Hommage à un lieu mythique de New York, le Pier 34, emblématique du bouillonnement de la scène underground qui explosait au début des années 80 et des lieux de rencontres homosexuelles anonymes. Le dernier espace de liberté avant les années Sida. » (Marion Scemama)  
+Première mondiale  
+suivi de  
+[154242]  
+**Dan sak sit**  
+de Thunska Pansittivorakul  
+Thaïlande / 2020 / 63 min / VOSTA / Numérique  
+Les noms du film et du réalisateur ne doivent pas être mentionnés. Mettre seulement: Film surprise et la durée 63 minutes
 
 - sa 17 juin 18h30 JE
 

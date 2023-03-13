@@ -213,7 +213,7 @@ Copie avec musique.
 [113611]  
 **Histoire de détective**  
 de Charles Dekeukeleire  
-Belgique / 1929 / 49 min  
+Belgique / 1929 / 50 min / DCP  
 Avec Pierre Bourgeois.
 
 - me 21 juin 20h30 GF  
@@ -247,7 +247,7 @@ Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Aver
 [82660]  
 **L'Imitation du cinéma**  
 de Marcel Mariën  
-Belgique / 1959 / 40 min  
+Belgique / 1959 / 37 min  
 Avec Tom Gutt, Ulysse Pétian, Suzanne Bourgoigne.
 
 - me 21 juin 20h30 GF  
@@ -333,7 +333,7 @@ Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Aver
 [46205]  
 **La Perle**  
 de Henri d' Ursel  
-Belgique / 1928 / 20 min  
+Belgique / 1928 / 20 min / DCP  
 Avec Georges Hugnet, Kissa Kouprine, Mary Stutz.
 
 - me 21 juin 20h30 GF  
