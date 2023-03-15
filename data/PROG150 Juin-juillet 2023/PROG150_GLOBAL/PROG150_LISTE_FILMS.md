@@ -5,13 +5,19 @@
   * Comme un torrent  
   * Non réconciliés ou Seule la violence aide où la violence règne
 
-## Cinéma bis (10)
+## Cinéma bis (16)
 
+  * Aphrodite  
+  * Blue Rita  
   * Chantage au meurtre  
+  * Christina, princesse de l'érotisme = Une vierge chez les morts-vivants  
+  * Déesse des sables (La)  
   * Descente aux enfers  
   * Droit de tuer (Le)  
   * Invincibles de Shaolin (Les)  
   * Karateka érotica  
+  * Karzan, le maître de la jungle  
+  * Maris en quête de sensations  
   * Nuits rouges de Harlem (Les)  
   * Rage au cœur (La)  
   * Rues de l'enfer (Les)  
@@ -233,10 +239,11 @@
   * Sud  
   * Vampire (Le)
 
-## Quand les surréalistes allaient au cinéma (41)
+## Quand les surréalistes allaient au cinéma (46)
 
   * A Day at the Zoo  
   * A Haunted Mouse  
+  * A Study in Choregraphy for the Camera  
   * Âge d'or (L')  
   * André Breton malgré tout  
   * At Land  
@@ -246,6 +253,7 @@
   * Candide candidat  
   * Cet obscur objet du désir  
   * Chasse du comte Zaroff (La)  
+  * divine horsemen: The Living Gods of Haiti  
   * Doggone Tired  
   * Early Worm Gets the Bird  
   * Elle et Suzanne  
@@ -265,6 +273,7 @@
   * Jerky Turkey  
   * King Kong  
   * Loulou  
+  * Meditation on violence  
   * Meshes of the Afternoon  
   * Monstrueuse parade (La)  
   * Non ! Non ! Mille fois non !  
@@ -274,7 +283,9 @@
   * Peter Ibbetson  
   * Portrait de Dorian Gray (Le)  
   * Pudgy pompier  
+  * Ritual in Tranfigured Time  
   * Un chien andalou  
+  * Very Eye of Night (The)  
   * Within the Law
 
 ## Vincente Minnelli (33)

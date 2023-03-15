@@ -16,7 +16,7 @@ Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. 
 [129571]  
 **Comment ça va ? J'm'en fous = Les Malentendus**  
 de François de Roubaix  
-France / 1975 / 10 min / 35 mm  
+France / 1975 / 10 min  
 Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie. Dernier court-métrage de de Roubaix, sorti à titre posthume.
 
 - me 28 juin 19h00 JE  
@@ -25,7 +25,7 @@ Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Al
 [48800]  
 **Dernier domicile connu**  
 de José Giovanni  
-France-Italie / 1969 / VF / 35 mm  
+France-Italie / 1969 / 35 mm  
 L'inspecteur Léonetti est envoyé dans un commissariat de seconde zone après avoir été réprimandé. Avec la jeune Jeanne Dumas, il va devoir retrouver un témoin qui pourrait décider du sort d'un meurtrier. Le duo se lance à sa recherche.
 
 - je 22 juin 20h00 HL  
@@ -34,7 +34,7 @@ Ouverture de la rétrospective
 [54474]  
 **Far from Dallas**  
 de Philippe Toledano  
-France / 1971 / VF  
+France / 1971  
 Régis, un journaliste, revient à Paris après trois ans d'absence. Il entreprend de retrouver un ami disparu après être parti aux États-Unis pour enquêter sur l'assassinat de John Kennedy. Tous ceux qui l'ont connu se dérobent et Régis commence à subir des pressions.
 
 - lu 26 juin 18h00 GF
@@ -51,7 +51,7 @@ Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous 
 [129576]  
 **Le Gobbo**  
 de François de Roubaix  
-France / 1970 / 15 min / 35 mm  
+France / 1970 / 15 min  
 Un mystérieux bossu arrive dans ce petit village corse inquiété par une série d'accidents, dont sont témoins des campeurs.
 
 - me 28 juin 19h00 JE  
@@ -107,7 +107,7 @@ Voir aussi dialogue p. xx
 [46946]  
 **Le Saut de l'ange**  
 de Yves Boisset  
-France-Italie / 1971 / VO / 35 mm  
+France-Italie / 1971 / 95 min  
 D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.  
 En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini. Leur père expatrié en Asie, apprend la nouvelle et décide de rentrer pour se venger.
 

@@ -18,6 +18,14 @@ de Tex Avery
 - sa 24 juin 17h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery et suivi de de _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
+[62680]  
+**A Study in Choregraphy for the Camera**  
+de Maya Deren  
+États-Unis / 1945 / 3 min / Numérique
+
+- me 21 juin 18h00 GF  
+Film suivi de _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren
+
 [47140]  
 **L'Âge d'or**  
 de Luis Buñuel  
@@ -33,7 +41,7 @@ Scénario coécrit par Luis Buñuel et Salvador Dalí.
 de Fabrice Maze  
 France / 2003 / 26 min / Numérique
 
-- me 21 juin 20h45 JE  
+- je 22 juin 18h30 JE  
 Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze et suivi de de _Hôtel Drouot_ de Fabrice Maze
 
 [62689]  
@@ -102,6 +110,14 @@ Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte du g
 
 - di 18 juin 17h45 HL
 
+[154372]  
+**divine horsemen: The Living Gods of Haiti**  
+de Maya Deren  
+États-Unis / 1947 / 55 min / Numérique
+
+- me 21 juin 18h00 GF  
+Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren et suivi de de _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren
+
 [154380]  
 **Doggone Tired**  
 de Tex Avery  
@@ -124,7 +140,7 @@ de Fabrice Maze
 France / 2015 / 105 min / Numérique  
 Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe. Un couple mythique.
 
-- me 21 juin 18h30 JE
+- je 22 juin 20h15 JE
 
 [47671]  
 **Entr'acte**  
@@ -233,7 +249,7 @@ Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Aver
 de Fabrice Maze  
 France / 2003 / 15 min / Numérique
 
-- me 21 juin 20h45 JE  
+- je 22 juin 18h30 JE  
 Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze, _André Breton malgré tout_ de Fabrice Maze
 
 [154379]  
@@ -280,6 +296,14 @@ Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriét
 
 - ve 16 juin 20h00 HL
 
+[62682]  
+**Meditation on violence**  
+de Maya Deren  
+États-Unis / 1948 / 10 min / Numérique
+
+- me 21 juin 18h00 GF  
+Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren, _divine horsemen: The Living Gods of Haiti_ de Maya Deren et suivi de de _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren
+
 [62687]  
 **Meshes of the Afternoon**  
 de Maya Deren, Alexander Hackenschmied  
@@ -318,7 +342,7 @@ Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Aver
 de Fabrice Maze  
 France / 2003 / 26 min / Numérique
 
-- me 21 juin 20h45 JE  
+- je 22 juin 18h30 JE  
 Film suivi d'_André Breton malgré tout_ de Fabrice Maze, _Hôtel Drouot_ de Fabrice Maze
 
 [96141]  
@@ -371,6 +395,14 @@ de Dave Fleischer
 - sa 24 juin 17h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer et suivi de de _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
+[62690]  
+**Ritual in Tranfigured Time**  
+de Maya Deren  
+États-Unis / 1945 / 14 min / Numérique
+
+- me 21 juin 18h00 GF  
+Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren et suivi de de _The Very Eye of Night_ de Maya Deren
+
 [47197]  
 **Un chien andalou**  
 de Luis Buñuel  
@@ -381,6 +413,14 @@ Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près d
 - me 14 juin 20h00 HL  
 Ouverture de la rétrospective  
 Film précédé d'_At Land_ de Maya Deren, _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied et suivi de d'_Entr'acte_ de René Clair
+
+[62683]  
+**The Very Eye of Night**  
+de Maya Deren  
+États-Unis / 1952 / 15 min / Numérique
+
+- me 21 juin 18h00 GF  
+Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren
 
 [154366]  
 **Within the Law**  

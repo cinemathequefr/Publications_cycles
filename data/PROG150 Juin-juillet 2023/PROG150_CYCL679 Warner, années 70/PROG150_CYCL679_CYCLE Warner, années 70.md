@@ -100,8 +100,7 @@ D'après le roman _L'Exorciste_ de William Peter Blatty.
 Avec Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn.  
 Un prêtre combat un démon qui a investi l'âme d'une fillette.
 
-- di 4 juin 17h15 HL  
-- sa 17 juin 17h15 GF
+- di 4 juin 17h15 HL
 
 [35701]  
 **La Fugue**  
@@ -208,7 +207,7 @@ Avec Robert De Niro, Harvey Keitel, David Proval.
 Little Italy, à New York. Quatre jeunes voyous, immigrés italiens au service de la Mafia, jouent les durs dans leur quartier.  
 Version restaurée.
 
-- me 21 juin 18h00 GF
+- sa 17 juin 17h15 GF
 
 [31090]  
 **Opération Dragon**  

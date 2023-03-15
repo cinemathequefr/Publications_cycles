@@ -412,7 +412,7 @@ Al Kruger, chef d'un gang, et son bras droit, Nick Fenner, sèment la terreur en
 **Le Petit géant**  
 **(The Little Giant)**  
 de Roy Del Ruth  
-États-Unis / 1933 / 74 min / VO  
+États-Unis / 1933 / 74 min / VO / 35 mm  
 Avec Edward G. Robinson, Mary Astor.  
 À la fin de la Prohibition, un baron de la bière de Chicago cesse ses activités illicites et part pour la Californie en quête de nouvelles opportunités.
 

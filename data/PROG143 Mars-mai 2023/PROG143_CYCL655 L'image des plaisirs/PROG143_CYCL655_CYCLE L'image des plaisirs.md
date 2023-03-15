@@ -279,7 +279,7 @@ suivi de
 [113216]  
 **Satan bouche un coin**  
 de Jean-Pierre Bouyxou  
-France / 1967 / 10 min / 16 mm  
+France / 1967 / 10 min / Numérique  
 Avec Pierre Molinier, Jean-Pierre Bouyxou.  
 Hommage au grand Pierre Molinier, le film allie sexualité fétichiste et mort, sperme et sang, chair et cadavre, dans un style halluciné d'une très inquiétante étrangeté.
 
@@ -599,7 +599,7 @@ Trois courts métrages expérimentaux féministes, un film pornographique pansex
 [154017]  
 **Take Off (With Magda)**  
 de Gunvor Nelson  
-États-Unis / 1972 / 10 min / Numérique  
+États-Unis / 1972 / 16 mm  
 Film satirique adoptant la forme d'un striptease pour dénoncer l'instrumentalisation du corps féminin.  
 suivi de  
 [154156]  
