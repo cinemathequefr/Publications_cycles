@@ -45,7 +45,8 @@ France-Suisse-RFA / 1969 / 270 min / 35 mm
 Avec Emmanuel d'Astier de la Vigerie, Georges Bidault, Matthäus Bleibinger.  
 Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse la chronique de cette occupation et des différentes réactions de la population : certains vont s'engager dans la Résistance pendant que d'autres collaborent et dénoncent leurs voisins.
 
-- ve 23 juin 18h00 HL
+- ve 23 juin 18h00 HL  
+Séance présentée par Jean-François Rauger
 
 [52364]  
 **Chronique d'un été**  

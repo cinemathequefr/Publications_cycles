@@ -31,7 +31,7 @@ de Vincente Minnelli
 D'après la comédie musicale _Brigadoon_ d'Alan Jay Lerner , Frederick Loewe et Cheryl Crawford.  
 Avec Cyd Charisse, Gene Kelly.
 
-- sa 1 juil 20h00 HL  
+- di 2 juil 17h45 HL  
 - je 27 juil 20h30 HL
 
 [44957]  
@@ -228,7 +228,7 @@ D'après la pièce _The Pirate_ de S.N. Behrman.
 Avec Gene Kelly, Judy Garland, Lola Albright.  
 Manuela rêve des exploits du pirate Macoco, elle en est amoureuse sans le connaître. Sa tante veut la marier à don Pedro Vargas, un homme riche et influent quand elle rencontre Serafin, un saltimbanque, qui pour la séduire, se fait passer pour le fameux pirate désiré.
 
-- di 2 juil 17h45 HL  
+- di 2 juil 14h30 HL  
 - sa 22 juil 14h30 HL
 
 [38027]  
@@ -317,7 +317,7 @@ Avec Cyd Charisse, Ava Gardner, Fred Astaire.
 Un artiste déchu revient à New York et y retrouve ses deux vieux amis. Très vite, ils se lancent dans la création d'une comédie musicale et engage un metteur en scène prétentieux qui va leur donner du fil à retordre.  
 Copie 35 mm Technicolor originale (tirage par imbibition) issue des collections de Lowell Peterson, ASC à l'Academy Film Archive.
 
-- di 2 juil 14h30 HL  
+- sa 1 juil 20h00 HL  
 - je 27 juil 18h00 HL
 
 [44918]  
