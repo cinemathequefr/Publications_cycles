@@ -22,26 +22,6 @@ Harry, un jeune milliardaire, décide d'aller passer ses vacanes en Grèce chez 
 
 - ve 2 juin 21h15 GF
 
-[58714]  
-**Chantage au meurtre**  
-**(The Naked Runner)**  
-de Sidney J. Furie  
-Grande-Bretagne / 1966 / 104 min / VOSTF / 35 mm  
-D'après le roman _The Naked Runner_ de Francis Clifford.  
-Sam Laker, un industriel américain travaillant en Grande-Bretagne, se rend avec son fils à un salon en Allemagne de l'Ouest. où un agent des services secrets britanniques l'oblige à commettre un assassinat.
-
-- ve 9 juin 19h00 GF
-
-[89112]  
-**La Rage au cœur**  
-**(Rage)**  
-de George C. Scott  
-États-Unis / 1972 / 100 min / VOSTF / 35 mm  
-Avec George C. Scott, Martin Sheen, Richard Basehart.  
-Un propriétaire de ranch voit son stock détruit et son fils tué à cause d'une erreur militaire. Quand il cherche à connaître la vérité, il se retrouve face à un mur du silence.
-
-- ve 9 juin 21h15 GF
-
 [56229]  
 **Le Droit de tuer**  
 **(The Exterminator)**  
@@ -79,9 +59,34 @@ John Shaft, détective privé afro-américain travaillant à Harlem, est engagé
 de John Guillermin  
 États-Unis / 1972 / 113 min / VOSTF / 35 mm  
 Avec Richard Roundtree, Frank Finlay, Vonetta McGee.  
-En Afrique, le détective Shaft est charge de démanteler un réseau d'esclavagistes.
+En Afrique, le détective Shaft est charge de démanteler un réseau de trafiquants d'esclaves.
 
 - ve 30 juin 21h15 GF
+
+## Raretés de la Warner Bros.
+
+[58714]  
+**Chantage au meurtre**  
+**(The Naked Runner)**  
+de Sidney J. Furie  
+Grande-Bretagne / 1966 / 104 min / VOSTF / 35 mm  
+D'après le roman _The Naked Runner_ de Francis Clifford.  
+Avec Frank Sinatra, Peter Vaughan, Derren Nesbitt.  
+Sam Laker, un industriel américain travaillant en Grande-Bretagne, se rend avec son fils à un salon en Allemagne de l'Ouest. où un agent des services secrets britanniques l'oblige à commettre un assassinat.
+
+- ve 9 juin 19h00 GF
+
+[89112]  
+**La Rage au cœur**  
+**(Rage)**  
+de George C. Scott  
+États-Unis / 1972 / 100 min / VOSTF / 35 mm  
+Avec George C. Scott, Martin Sheen, Richard Basehart.  
+Un propriétaire de ranch voit son stock détruit et son fils tué à cause d'une erreur militaire. Quand il cherche à connaître la vérité, il se retrouve face à un mur du silence.
+
+- ve 9 juin 21h15 GF
+
+## Polars français des années 80
 
 [51665]  
 **Spécial police**  
@@ -102,6 +107,8 @@ Un couple, formé par un ancien écrivain quadragénaire et alcoolique, et une b
 
 - ve 7 juil 21h00 GF
 
+## Franco Forever!
+
 [65410]  
 **Christina, princesse de l'érotisme = Une vierge chez les morts-vivants**  
 **(Eine Jungfrau bei den lebenden Toten)**  
@@ -121,6 +128,8 @@ Derrère un cabaret de strip-tease, le Blue Rita, il se cache une redoutable org
 
 - ve 14 juil 21h00 GF
 
+## Histoire permanent du kung-fu
+
 [44405]  
 **Les Invincibles de Shaolin**  
 **(Shaolin Invicibles Sticks)**  
@@ -139,6 +148,8 @@ Hong-Kong / 1974 / 94 min / 35 mm
 Avec Jason Piao Pai, Chun-Ku Lu, Lau Chan.
 
 - ve 21 juil 21h00 GF
+
+## Aventures exotiques
 
 [42840]  
 **La Déesse des sables**  
