@@ -11,7 +11,8 @@ France / 1975 / 81 min / DCP
 Avec Philippe Vallois, Pierre Commoy, Patrice Pascal, Laurent Laclos.  
 « Lorsque le jeune acteur principal d'un film est arrêté peu avant le début du tournage, le réalisateur se met en quête d'un remplaçant dans la scène gay. Formellement ambitieux, le film est aussi un document historique. » (S. Volk)
 
-- me 31 mai 18h30 GF
+- me 31 mai 18h30 GF  
+Séance présentée par Philippe Vallois
 
 ## Séance 23 : Fleurs dorées d'Apollon
 
@@ -172,7 +173,7 @@ Inde / 1985 / 58 min / VOSTF / 16 mm
 Avec Rekha, Rosy, Vasanti, Lovina, Pussycat.  
 Devant la caméra bienveillante de Mira Nair, se libèrent, parfois jusqu'au rire, les paroles de danseuses et prostituées indiennes dont certaines ont fui des mariages forcés, tandis que d'autres sont encore mariées.
 
-- di 4 juin 17h30 GF
+- di 4 juin 17h45 GF
 
 ## Séance 28 : Tortures
 

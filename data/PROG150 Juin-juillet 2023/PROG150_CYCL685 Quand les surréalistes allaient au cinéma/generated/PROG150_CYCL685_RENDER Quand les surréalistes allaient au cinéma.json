@@ -650,7 +650,7 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la panique partout où ils passent."
+            "texte": "Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la pagaille."
           }
         ],
         "adaptation": "D'après la comédie musicale _Hellzapoppin'_ de Chic Johnson et Ole Olsen.",
@@ -1172,14 +1172,12 @@
           {
             "idSeance": 104030,
             "ordre": 1,
-            "dateHeure": "2023-06-17T14:30:00",
+            "dateHeure": "2023-06-18T14:30:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
-            "typeAssoc": 118,
-            "typeEvenement": 13,
-            "mentionRenvoi": "Voir aussi dialogue p. xx"
+            "typeEvenement": 13
           }
         ]
       },
@@ -1381,6 +1379,27 @@
       {
         "items": [
           {
+            "titre": "Séance : « Ah, les petites femmes de Méliès ! »",
+            "textes": [],
+            "duree": 90
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104184,
+            "dateHeure": "2023-06-17T15:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 14,
+            "typeConference": "Spectacle"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
             "titre": "Film + Dialogue entre Dominique PaÏni et Dominique Rabourdin",
             "textes": [
               {
@@ -1396,23 +1415,19 @@
                 "texte": "**Dominique Rabourdin** est cinéphile – tendance Nickelodeon... –, critique, historien du cinéma et du surréalisme, réalisateur de célèbres émissions de télévision : _Archives du XXème siècle_, _Un siècle d'écrivains_, _André Breton par André Breton_, _Souvenirs de l'Âge d'or, Serge Daney – Itinéraire d'un ciné-fils_, _Quelques jours avec Douglas Sirk_, _Michel Bouquet – Ma vocation d'acteur_, _Krzysztof Kieślowski_, _Max Schoendorff_. En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place)."
               }
             ],
-            "duree": 60,
-            "ordre": 2
+            "duree": 60
           }
         ],
         "seances": [
           {
-            "idSeance": 104030,
-            "ordre": 2,
-            "dateHeure": "2023-06-17T14:30:00",
+            "idSeance": 104183,
+            "dateHeure": "2023-06-18T14:30:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
-            "typeAssoc": 118,
             "typeEvenement": 14,
-            "typeConference": "Dialogue",
-            "mentionRenvoi": "À la suite de la projection de _Peter Ibbetson_ de Henry Hathaway (voir p. xx)"
+            "typeConference": "Dialogue"
           }
         ]
       }

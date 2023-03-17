@@ -86,10 +86,10 @@
         "idFilm": 39701,
         "ordre": 1,
         "idSeance": 104045,
-        "idCopie": 19154,
-        "duree": 87,
-        "version": "VF",
-        "format": "35 mm"
+        "idCopie": 19491,
+        "duree": 101,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
@@ -140,7 +140,7 @@
     "typeEvenement": 13,
     "idEvenement": 28132,
     "idSeance": 104047,
-    "dateHeure": "2023-06-24T18:30:00",
+    "dateHeure": "2023-06-24T19:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -162,18 +162,18 @@
     "idCategorie": 3017,
     "typeEvenement": 13,
     "idEvenement": 28131,
-    "idSeance": 104048,
-    "dateHeure": "2023-06-24T21:00:00",
+    "idSeance": 104191,
+    "dateHeure": "2023-06-24T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 120,
     "items": [
       {
         "idFilm": 46946,
         "ordre": 1,
-        "idSeance": 104048,
+        "idSeance": 104191,
         "idCopie": 25852,
         "duree": 95,
         "version": "",
@@ -186,7 +186,7 @@
     "typeEvenement": 13,
     "idEvenement": 28159,
     "idSeance": 104069,
-    "dateHeure": "2023-06-25T17:30:00",
+    "dateHeure": "2023-06-25T16:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -207,6 +207,24 @@
   {
     "idCategorie": 3017,
     "typeEvenement": 13,
+    "idEvenement": 28210,
+    "idSeance": 104180,
+    "dateHeure": "2023-06-25T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 34700,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3017,
+    "typeEvenement": 13,
     "idEvenement": 28138,
     "idSeance": 104050,
     "dateHeure": "2023-06-26T18:00:00",
@@ -218,7 +236,12 @@
     "items": [
       {
         "idFilm": 54474,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 104050,
+        "idCopie": 25778,
+        "duree": 0,
+        "version": "VF",
+        "format": ""
       }
     ]
   },
@@ -261,6 +284,7 @@
         "version": "",
         "format": ""
       }
-    ]
+    ],
+    "mention": "Séance présentée par Jean-Yves Guilleux"
   }
 ]

@@ -13,7 +13,12 @@
     "items": [
       {
         "idFilm": 31156,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 103999,
+        "idCopie": 3687,
+        "duree": 83,
+        "version": "INT. FR.",
+        "format": "DCP"
       }
     ]
   },
@@ -212,23 +217,23 @@
   {
     "idCategorie": 3000,
     "typeEvenement": 13,
-    "idEvenement": 28075,
-    "idSeance": 104176,
-    "dateHeure": "2023-07-01T20:00:00",
+    "idEvenement": 28047,
+    "idSeance": 104175,
+    "dateHeure": "2023-07-02T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 35212,
+        "idFilm": 35285,
         "ordre": 1,
-        "idSeance": 104176,
-        "idCopie": 15641,
-        "duree": 112,
+        "idSeance": 104175,
+        "idCopie": 17101,
+        "duree": 102,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ]
   },
@@ -281,9 +286,9 @@
   {
     "idCategorie": 3000,
     "typeEvenement": 13,
-    "idEvenement": 28075,
-    "idSeance": 102187,
-    "dateHeure": "2023-07-27T18:00:00",
+    "idEvenement": 28066,
+    "idSeance": 101743,
+    "dateHeure": "2023-07-09T17:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -291,13 +296,59 @@
     "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 35212,
+        "idFilm": 61789,
         "ordre": 1,
-        "idSeance": 102187,
-        "idCopie": 15641,
-        "duree": 112,
+        "idSeance": 101743,
+        "idCopie": 25731,
+        "duree": 117,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3000,
+    "typeEvenement": 13,
+    "idEvenement": 28066,
+    "idSeance": 104103,
+    "dateHeure": "2023-07-21T15:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 61789,
+        "ordre": 1,
+        "idSeance": 104103,
+        "idCopie": 25731,
+        "duree": 117,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3000,
+    "typeEvenement": 13,
+    "idEvenement": 28047,
+    "idSeance": 102084,
+    "dateHeure": "2023-07-22T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 35285,
+        "ordre": 1,
+        "idSeance": 102084,
+        "idCopie": 17101,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   }

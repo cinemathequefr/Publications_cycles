@@ -120,8 +120,7 @@ de Francis Ford Coppola
 Avec James Caan, Robert Duvall, Shirley Knight.  
 Paniquée par la nouvelle de sa grossesse, Natalie Revena quitte le domicile conjugal en ne laissant qu'une lettre à son époux. Sur la route, elle rencontre Jimmy Kilgannon, bouleversé par un accident, à la recherche de sa fiancée.
 
-- lu 5 juin 20h15 GF  
-- sa 17 juin 15h00 GF
+- lu 5 juin 20h15 GF
 
 [35286]  
 **Graffiti party**  
@@ -148,7 +147,7 @@ Bob Woodward et Carl Bernstein, journalistes du « Washington Post », dévoilen
 **L'Inspecteur Harry**  
 **(Dirty Harry)**  
 de Don Siegel  
-États-Unis / 1971 / 102 min / VOSTF / 35 mm  
+États-Unis / 1971 / 102 min / VOSTF / DCP  
 Avec Clint Eastwood, Harry Guardino, Reni Santoni.  
 À San Francisco, l'inspecteur Harry Callahan poursuit un tueur qui menace d'exécuter une personne par jour tant que 200 000 dollars ne lui seront pas versés.
 
@@ -249,7 +248,7 @@ D'après le roman _Shining : L'enfant lumière_ de Stephen King.
 Avec Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers.  
 L'auteur Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.
 
-- di 18 juin 14h30 HL
+- sa 17 juin 14h30 HL
 
 [34631]  
 **THX 1138**  

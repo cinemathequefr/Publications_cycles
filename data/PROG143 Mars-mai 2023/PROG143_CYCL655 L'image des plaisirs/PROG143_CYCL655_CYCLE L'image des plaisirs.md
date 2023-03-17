@@ -587,7 +587,7 @@ Fondé en 1968 par des étudiants de l'université Waseda, le groupe activiste N
 [154155]  
 **Motoshinkakarannu**  
 de Tetsurō Nunokawa, NDU  
-Japon / 1971 / 86 min / VOSTA / Numérique  
+Japon / 1971 / 86 min / VOSTF / Numérique  
 Avec peuple d'Okinawa, prostituées, yakuzas, touristes, GIs, Black Panthers. « Qu'est-ce qu'un documentaire ? Il ne s'agit pas de gens qui rencontrent d'autres gens sur les lieux de la création d'un "travail", mais que le "travail" naisse des rencontres entre les gens. » (Rō Takenaka, 1972)
 
 - di 21 mai 18h15 GF

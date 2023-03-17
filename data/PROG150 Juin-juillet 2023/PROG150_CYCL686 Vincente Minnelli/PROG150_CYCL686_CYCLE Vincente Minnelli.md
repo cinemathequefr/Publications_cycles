@@ -19,7 +19,8 @@ Stanley vit mal son rôle de futur grand-père, tandis que son épouse ne cache 
 de Vincente Minnelli  
 États-Unis / 1964 / 117 min / VOSTF  
 D'après la pièce _Goodbye Charlie_ de George Axelrod.  
-Avec Tony Curtis, Debbie Reynolds.
+Avec Tony Curtis, Debbie Reynolds.  
+Charlie est un sacré séducteur ! Le jour où il est abattu par un mari jaloux, il se réincarne sous les traits d'une fort jolie blonde. Il se fait alors passer pour la veuve de Charlie, mais ne risque-t-il pas dès lors de s'attirer les foudres de son ex-maîtresse ?.
 
 - di 9 juil 19h30 HL  
 - ve 28 juil 15h30 GF
@@ -29,7 +30,8 @@ Avec Tony Curtis, Debbie Reynolds.
 de Vincente Minnelli  
 États-Unis / 1954 / 108 min / VOSTF / 35 mm  
 D'après la comédie musicale _Brigadoon_ d'Alan Jay Lerner , Frederick Loewe et Cheryl Crawford.  
-Avec Cyd Charisse, Gene Kelly.
+Avec Cyd Charisse, Gene Kelly.  
+Brigadoon : aucune carte ne mentionne ce village qui ne revit qu'une fois tous les cent ans. Deux américains en voyage en Écosse vont s'y perdre.
 
 - di 2 juil 17h45 HL  
 - je 27 juil 20h30 HL
@@ -39,7 +41,8 @@ Avec Cyd Charisse, Gene Kelly.
 **(Home from the Hill)**  
 de Vincente Minnelli  
 États-Unis / 1959  
-Avec Robert Mitchum, George Peppard, Eleanor Parker.
+Avec Robert Mitchum, George Peppard, Eleanor Parker.  
+Un grand propriétaire du Sud tyrannise sa femme, son fils légitime et celui qu'il a eu d'une liaison.
 
 - sa 8 juil 18h30 HL  
 - sa 29 juil 17h00 HL
@@ -139,7 +142,8 @@ En 1945, lors d'une permission de 48 heures, un soldat rencontre par hasard une 
 de Vincente Minnelli  
 États-Unis / 1962 / 117 min / VOSTF / 35 mm  
 D'après le roman _The Courtship of Eddie's father_ de Mark Toby.  
-Avec Glenn Ford, Shirley Jones.
+Avec Glenn Ford, Shirley Jones.  
+Un enfant de sept ans déploie des trésors d'imagination pour trouver une nouvelle épouse à son père.
 
 - di 9 juil 17h00 HL  
 - ve 21 juil 15h30 GF
@@ -148,7 +152,8 @@ Avec Glenn Ford, Shirley Jones.
 **Kismet**  
 de Vincente Minnelli  
 États-Unis / 1955 / 112 min / VO / 35 mm  
-Avec Howard Keel, Ann Blyth, Jack Elam.
+Avec Howard Keel, Ann Blyth, Jack Elam.  
+A Bagdad, les aventures du poète hadji qui s'unit a la fille du Grand Vizir.
 
 - je 13 juil 15h30 GF  
 - ve 14 juil 20h00 HL
@@ -192,7 +197,8 @@ Joseph, modeste et maladroit employé de pressing, est surpris quand Connie Shaw
 de Vincente Minnelli  
 États-Unis / 1969 / 129 min / VO / 16 mm  
 D'après la comédie musicale _On a Clear Day, You Can See Forever_ de Burton Lane et Alan Jay Lerner.  
-Avec Barbra Streisand, Yves Montand.
+Avec Barbra Streisand, Yves Montand.  
+Le quotidien extraordinaire d'une femme aux drôles de pouvoirs. Désireuse d'arrêter de fumer, elle rend visite à un docteur spécialisé dans l'hypnose. Une fois endormi, le docteur s'aperçoit que le jeune femme peut avoir plusieurs personnalités...
 
 - me 12 juil 18h00 GF  
 - me 19 juil 18h00 HL
@@ -247,7 +253,8 @@ En 1927, Jerôme Kern remporte un véritable succès avec le spectacle « Show B
 **(The Reluctant Debutante)**  
 de Vincente Minnelli  
 États-Unis / 1958 / VOSTF / 35 mm  
-Avec Angela Lansbury, Rex Harrison.
+Avec Angela Lansbury, Rex Harrison.  
+Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leur fille Jane fasse son entrée dans le monde. Ils veulent la fiancer à un jeune homme, mais Mabel Claremont, une cousine, convoite le même garçon pour sa propre fille, alors que Jane va s'éprendre, de son côté, d'un musicien américain.
 
 - ve 14 juil 16h00 GF  
 - ve 14 juil 18h00 HL
@@ -256,7 +263,7 @@ Avec Angela Lansbury, Rex Harrison.
 **Les Quatre cavaliers de l'Apocalypse**  
 **(The Four Horsemen of the Apocalypse)**  
 de Vincente Minnelli  
-États-Unis / 1960 / 153 min / VOSTF / 35 mm  
+États-Unis / 1960 / 153 min / VO / 35 mm  
 D'après le roman _Los cuatro jinetes del Apocalipsis_ de Vicente Blasco Ibáñez.  
 Avec Charles Boyer, Ingrid Thulin, Lee J. Cobb, Glenn Ford.  
 Deux familles richissimes, les Desnoyers et les Von Hartrott, sont réunies afin d'accueillir Heinrich von Hartrott après ses études en Allemagne qu'il déclare à la stupeur de tous avoir abandonnées pour se consacrer au parti nazi. Au déclenchement de la guerre, Heinrich rejoint les troupes allemandes et va être amené à lutter contre son propre cousin Julio Desnoyers.
@@ -281,7 +288,8 @@ A Rome, Jack Andrus, chargé d'assurer la postsynchronisation d'un film en tourn
 **(The Long, Long Trailer)**  
 de Vincente Minnelli  
 États-Unis / 1954 / VOSTF / 16 mm  
-Avec Lucille Ball.
+Avec Lucille Ball.  
+Un couple de jeunes mariés achète une caravane. A partir de ce moment, les ennuis commencent!
 
 - ve 7 juil 16h00 GF  
 - je 13 juil 20h30 HL
@@ -291,7 +299,8 @@ Avec Lucille Ball.
 **(Tea and Sympathy)**  
 de Vincente Minnelli  
 États-Unis / 1958 / 122 min / VO / 35 mm  
-Avec Deborah Kerr.
+Avec Deborah Kerr.  
+Tom Lee, un étudiant de 17 ans, est plus attiré par la littérature et les arts que par les sports. À part l'amitié sans préjugés que lui témoigne son seul camarade Al, Tom se trouve marginalisé par les autres garçons du pensionnat. Heureusement, il sympathise bientôt avec Laura Reynolds, la femme du professeur de gymnastique.
 
 - sa 15 juil 17h00 HL  
 - ve 28 juil 20h30 HL
@@ -302,7 +311,8 @@ Avec Deborah Kerr.
 de Vincente Minnelli  
 États-Unis / 1954 / 124 min / VOSTF / 35 mm  
 D'après le roman _The Cobweb_ de William Gibson.  
-Avec Richard Widmark, Lauren Bacall, Charles Boyer.
+Avec Richard Widmark, Lauren Bacall, Charles Boyer.  
+Le docteur Steven McIver, à la tête d'une clinique psychiatrique, s'efforce d'appliquer de nouvelles méthodes dans l'établissement autrefois dirigé, de façon archaïque, par le docteur Devanal. Il néglige du même coup sa jeune épouse Karen. Le simple changement des rideaux de la bibliothèque suscite les plus grandes difficultés
 
 - ve 7 juil 18h00 HL  
 - di 30 juil 18h00 HL
@@ -360,6 +370,10 @@ Blessé mortellement, Little Joe Jackson est envoyé au ciel. Avant d'aller en e
 de Vincente Minnelli  
 États-Unis / 1955 / 122 min / VOSTF / DCP  
 Avec Kirk Douglas, Anthony Quinn, James Donald.  
+Portrait de Van Gogh : sa piété, ses passions, son amour pour son frère Théo, sa rencontre avec Gauguin, son caractère et, surtout, sa dévotion obsessionnelle à la peinture et au dessin, responsables de sa « folie ».
+
+---
+
 Portrait de Van Gogh : sa piété, ses amours déchues, l'amour qu'il porte à son frère Théo, sa dévotion obsessionnelle à la peinture et au dessin.  
 Restauration à partir du négatif original par Technicolor US pour Swashbuckler Films et Warner Bros.
 

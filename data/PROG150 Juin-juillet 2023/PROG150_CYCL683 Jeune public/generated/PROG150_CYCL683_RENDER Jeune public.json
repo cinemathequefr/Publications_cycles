@@ -86,6 +86,9 @@
         "generique": [
           "Charles Chaplin"
         ],
+        "duree": 83,
+        "format": "DCP",
+        "version": "INT. FR.",
         "ageMinimal": 4,
         "seances": [
           {
@@ -123,6 +126,52 @@
             ],
             "typeEvenement": 13,
             "precedeSuivi": "Film précédé de _Panorama pris d'un train en marche_ de Georges Méliès, _La Lune à un mètre ou Le Rêve de l'astronome_ de Georges Méliès, _Le Livre magique_ de Georges Méliès, _Chez la sorcière_ de Georges Méliès et suivi de de _Voyage à travers l'impossible_ de Georges Méliès, _Un homme de têtes_ de Georges Méliès"
+          }
+        ]
+      },
+      {
+        "idFilm": 61789,
+        "typeEvenement": 13,
+        "titre": "Il faut marier papa",
+        "titreVo": "Courtship of Eddie's Father",
+        "artVo": "The",
+        "realisateurs": "Vincente Minnelli",
+        "annee": 1962,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un enfant de sept ans déploie des trésors d'imagination pour trouver une nouvelle épouse à son père."
+          }
+        ],
+        "adaptation": "D'après le roman _The Courtship of Eddie's father_ de Mark Toby.",
+        "generique": [
+          "Glenn Ford",
+          "Shirley Jones"
+        ],
+        "duree": 117,
+        "format": "35 mm",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 101743,
+            "ordre": 1,
+            "dateHeure": "2023-07-09T17:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13
+          },
+          {
+            "idSeance": 104103,
+            "ordre": 1,
+            "dateHeure": "2023-07-21T15:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
           }
         ]
       },
@@ -388,6 +437,52 @@
         ]
       },
       {
+        "idFilm": 35285,
+        "typeEvenement": 13,
+        "titre": "Pirate",
+        "art": "Le",
+        "realisateurs": "Vincente Minnelli",
+        "annee": 1948,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Manuela rêve des exploits du pirate Macoco, elle en est amoureuse sans le connaître. Sa tante veut la marier à don Pedro Vargas, un homme riche et influent quand elle rencontre Serafin, un saltimbanque, qui pour la séduire, se fait passer pour le fameux pirate désiré."
+          }
+        ],
+        "adaptation": "D'après la pièce _The Pirate_ de S.N. Behrman.",
+        "generique": [
+          "Gene Kelly",
+          "Judy Garland",
+          "Lola Albright"
+        ],
+        "duree": 102,
+        "format": "35 mm",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 104175,
+            "ordre": 1,
+            "dateHeure": "2023-07-02T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13
+          },
+          {
+            "idSeance": 102084,
+            "ordre": 1,
+            "dateHeure": "2023-07-22T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
         "idFilm": 32739,
         "typeEvenement": 13,
         "titre": "Sherlock Junior",
@@ -418,58 +513,6 @@
             "idSalle": [
               "GF",
               "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 35212,
-        "typeEvenement": 13,
-        "titre": "Tous en scène",
-        "titreVo": "Band Wagon",
-        "artVo": "The",
-        "realisateurs": "Vincente Minnelli",
-        "annee": 1952,
-        "pays": "États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Un artiste déchu revient à New York et y retrouve ses deux vieux amis. Très vite, ils se lancent dans la création d'une comédie musicale et engage un metteur en scène prétentieux qui va leur donner du fil à retordre."
-          },
-          {
-            "typeTexte": 99,
-            "texte": "Copie 35 mm Technicolor originale (tirage par imbibition) issue des collections de Lowell Peterson, ASC à l'Academy Film Archive."
-          }
-        ],
-        "adaptation": "D'après la nouvelle _Strategy of Love_ de Peter Viertel.",
-        "generique": [
-          "Cyd Charisse",
-          "Ava Gardner",
-          "Fred Astaire"
-        ],
-        "duree": 112,
-        "format": "DCP",
-        "version": "VOSTF",
-        "ageMinimal": 8,
-        "seances": [
-          {
-            "idSeance": 104176,
-            "ordre": 1,
-            "dateHeure": "2023-07-01T20:00:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ],
-            "typeEvenement": 13
-          },
-          {
-            "idSeance": 102187,
-            "ordre": 1,
-            "dateHeure": "2023-07-27T18:00:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
             ],
             "typeEvenement": 13
           }

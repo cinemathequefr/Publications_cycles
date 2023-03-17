@@ -20,6 +20,7 @@ France / 1975 / 10 min
 Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie. Dernier court-métrage de de Roubaix, sorti à titre posthume.
 
 - me 28 juin 19h00 JE  
+Séance présentée par Jean-Yves Guilleux  
 Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix, _Le Gobbo_ de François de Roubaix
 
 [48800]  
@@ -34,7 +35,7 @@ Ouverture de la rétrospective
 [54474]  
 **Far from Dallas**  
 de Philippe Toledano  
-France / 1971  
+France / 1971 / VF  
 Régis, un journaliste, revient à Paris après trois ans d'absence. Il entreprend de retrouver un ami disparu après être parti aux États-Unis pour enquêter sur l'assassinat de John Kennedy. Tous ceux qui l'ont connu se dérobent et Régis commence à subir des pressions.
 
 - lu 26 juin 18h00 GF
@@ -46,6 +47,7 @@ France / 2007 / 52 min
 Documentaire présentant des extraits d'archives, de films et des témoignages de proches de et personnalités dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...
 
 - me 28 juin 19h00 JE  
+Séance présentée par Jean-Yves Guilleux  
 Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous = Les Malentendus_ de François de Roubaix
 
 [129576]  
@@ -55,6 +57,7 @@ France / 1970 / 15 min
 Un mystérieux bossu arrive dans ce petit village corse inquiété par une série d'accidents, dont sont témoins des campeurs.
 
 - me 28 juin 19h00 JE  
+Séance présentée par Jean-Yves Guilleux  
 Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix et suivi de de _Comment ça va ? J'm'en fous = Les Malentendus_ de François de Roubaix
 
 [50109]  
@@ -64,7 +67,7 @@ France / 1968 / 100 min / 35 mm
 Avec Bourvil, Francis Blanche, Roland Dubillard.  
 Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
 
-- sa 24 juin 18h30 GF
+- sa 24 juin 19h15 GF
 
 [48381]  
 **Les Grandes gueules**  
@@ -73,12 +76,19 @@ France-Italie / 1965 / 128 min / DCP
 D'après le roman _Le Haut-Fer_ de José Giovanni.  
 Hector Valentin revient dans ses Vosges natales hériter de la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main d'œuvre bon marché.
 
-- di 25 juin 17h30 GF
+- di 25 juin 16h15 GF
+
+[34700]  
+**Jeff**  
+de Jean Herman  
+France / 1968
+
+- di 25 juin 19h00 GF
 
 [39701]  
 **Les Lèvres rouges**  
 de Harry Kümel  
-Belgique-France-RFA-Italie / 1971 / 87 min / VF / 35 mm  
+Belgique-France-RFA-Italie / 1971 / 101 min / DCP  
 Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
 Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
 
@@ -111,7 +121,7 @@ France-Italie / 1971 / 95 min
 D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.  
 En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini. Leur père expatrié en Asie, apprend la nouvelle et décide de rentrer pour se venger.
 
-- sa 24 juin 21h00 GF
+- sa 24 juin 21h30 GF
 
 ## Rencontres et conférences
 

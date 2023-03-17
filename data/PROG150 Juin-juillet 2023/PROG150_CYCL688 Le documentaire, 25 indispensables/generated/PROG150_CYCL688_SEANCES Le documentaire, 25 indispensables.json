@@ -27,29 +27,6 @@
   {
     "idCategorie": 3013,
     "typeEvenement": 13,
-    "idEvenement": 28095,
-    "idSeance": 104036,
-    "dateHeure": "2023-06-22T18:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 90,
-    "items": [
-      {
-        "idFilm": 63749,
-        "ordre": 1,
-        "idSeance": 104036,
-        "idCopie": 25759,
-        "duree": 54,
-        "version": "",
-        "format": "8 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3013,
-    "typeEvenement": 13,
     "idEvenement": 28089,
     "idSeance": 104034,
     "dateHeure": "2023-06-23T18:00:00",
@@ -92,7 +69,8 @@
         "version": "VF",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Nicolas Philibert"
   },
   {
     "idCategorie": 3013,
@@ -427,14 +405,15 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Barbet Schroeder (sous réserve)"
   },
   {
     "idCategorie": 3013,
     "typeEvenement": 13,
     "idEvenement": 28097,
     "idSeance": 101553,
-    "dateHeure": "2023-07-01T20:30:00",
+    "dateHeure": "2023-07-01T20:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -455,21 +434,44 @@
   {
     "idCategorie": 3013,
     "typeEvenement": 13,
-    "idEvenement": 28096,
-    "idSeance": 101569,
-    "dateHeure": "2023-07-02T17:00:00",
+    "idEvenement": 28095,
+    "idSeance": 104182,
+    "dateHeure": "2023-07-02T15:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 210,
+    "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 60776,
+        "idFilm": 63749,
         "ordre": 1,
-        "idSeance": 101569,
-        "idCopie": 13158,
-        "duree": 180,
+        "idSeance": 104182,
+        "idCopie": 25759,
+        "duree": 54,
+        "version": "",
+        "format": "8 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3013,
+    "typeEvenement": 13,
+    "idEvenement": 28081,
+    "idSeance": 104181,
+    "dateHeure": "2023-07-02T17:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 255,
+    "items": [
+      {
+        "idFilm": 40226,
+        "ordre": 1,
+        "idSeance": 104181,
+        "idCopie": 25754,
+        "duree": 221,
         "version": "",
         "format": "DCP"
       }
@@ -503,7 +505,7 @@
     "typeEvenement": 13,
     "idEvenement": 28094,
     "idSeance": 104060,
-    "dateHeure": "2023-07-03T20:00:00",
+    "dateHeure": "2023-07-03T20:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -670,29 +672,6 @@
         "duree": 90,
         "version": "",
         "format": "Numérique"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3013,
-    "typeEvenement": 13,
-    "idEvenement": 28081,
-    "idSeance": 101748,
-    "dateHeure": "2023-07-09T17:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 255,
-    "items": [
-      {
-        "idFilm": 40226,
-        "ordre": 1,
-        "idSeance": 101748,
-        "idCopie": 25754,
-        "duree": 221,
-        "version": "",
-        "format": "DCP"
       }
     ]
   }

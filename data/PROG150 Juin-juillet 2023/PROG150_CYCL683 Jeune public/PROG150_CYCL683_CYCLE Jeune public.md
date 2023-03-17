@@ -29,7 +29,7 @@ Film précédé de _Panorama pris d'un train en marche_ de Georges Méliès, _La
 **Le Cirque**  
 **(The Circus)**  
 de Charles Chaplin  
-États-Unis / 1927  
+États-Unis / 1927 / 83 min / INT. FR. / DCP  
 Avec Charles Chaplin.  
 C'est par hasard que Charlot devient la vedette d'un petit cirque, mais c'est par amour pour la belle écuyère qu'il reste dans la troupe.
 
@@ -42,6 +42,18 @@ France / 1908 / 4 min
 
 - di 25 juin 15h00 GF  
 Film précédé de _Panorama pris d'un train en marche_ de Georges Méliès, _La Lune à un mètre ou Le Rêve de l'astronome_ de Georges Méliès, _Le Livre magique_ de Georges Méliès, _Chez la sorcière_ de Georges Méliès et suivi de de _Voyage à travers l'impossible_ de Georges Méliès, _Un homme de têtes_ de Georges Méliès
+
+[61789]  
+**Il faut marier papa**  
+**(The Courtship of Eddie's Father)**  
+de Vincente Minnelli  
+États-Unis / 1962 / 117 min / VOSTF / 35 mm  
+D'après le roman _The Courtship of Eddie's father_ de Mark Toby.  
+Avec Glenn Ford, Shirley Jones.  
+Un enfant de sept ans déploie des trésors d'imagination pour trouver une nouvelle épouse à son père.
+
+- di 9 juil 17h00 HL  
+- ve 21 juil 15h30 GF
 
 [45718]  
 **Le Livre de la jungle**  
@@ -133,6 +145,17 @@ France / 1898 / 1 min / DCP
 - di 25 juin 15h00 GF  
 Film suivi de _La Lune à un mètre ou Le Rêve de l'astronome_ de Georges Méliès, _Le Livre magique_ de Georges Méliès, _Chez la sorcière_ de Georges Méliès, _Le Génie du feu_ de Georges Méliès, _Voyage à travers l'impossible_ de Georges Méliès, _Un homme de têtes_ de Georges Méliès
 
+[35285]  
+**Le Pirate**  
+de Vincente Minnelli  
+États-Unis / 1948 / 102 min / VOSTF / 35 mm  
+D'après la pièce _The Pirate_ de S.N. Behrman.  
+Avec Gene Kelly, Judy Garland, Lola Albright.  
+Manuela rêve des exploits du pirate Macoco, elle en est amoureuse sans le connaître. Sa tante veut la marier à don Pedro Vargas, un homme riche et influent quand elle rencontre Serafin, un saltimbanque, qui pour la séduire, se fait passer pour le fameux pirate désiré.
+
+- di 2 juil 14h30 HL  
+- sa 22 juil 14h30 HL
+
 [32739]  
 **Sherlock Junior**  
 **(Sherlock Jr.)**  
@@ -150,19 +173,6 @@ Un jeune projectionniste néglige son travail pour se plonger dans la lecture de
 Buster, qui rêve de devenir détective, projette des films dans un cinéma de quartier. Quand il s'endort dans la cabine, il peut entrer dans l'écran et, de l'autre côté, c'est lui qui mène l'enquête dans le film rêvé ! (copie musicalisée)
 
 - me 28 juin 15h00 GF
-
-[35212]  
-**Tous en scène**  
-**(The Band Wagon)**  
-de Vincente Minnelli  
-États-Unis / 1952 / 112 min / VOSTF / DCP  
-D'après la nouvelle _Strategy of Love_ de Peter Viertel.  
-Avec Cyd Charisse, Ava Gardner, Fred Astaire.  
-Un artiste déchu revient à New York et y retrouve ses deux vieux amis. Très vite, ils se lancent dans la création d'une comédie musicale et engage un metteur en scène prétentieux qui va leur donner du fil à retordre.  
-Copie 35 mm Technicolor originale (tirage par imbibition) issue des collections de Lowell Peterson, ASC à l'Academy Film Archive.
-
-- sa 1 juil 20h00 HL  
-- je 27 juil 18h00 HL
 
 [84496]  
 **Un homme de têtes**  

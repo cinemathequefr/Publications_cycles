@@ -10,7 +10,8 @@ de Peter Bogdanovich
 Avec Ryan O'Neal, Tatum O'Neal, Madeline Kahn.  
 Devenu malgré lui le père de la petite orpheline Addie, un aventurier minable poursuit son chemin et traverse avec elle le Kansas. Peu à peu se noue entre eux une véritable complicité.
 
-- sa 15 avr 18h30 HL
+- sa 15 avr 18h30 HL  
+- sa 22 avr 19h45 GF
 
 [126729]  
 **Broadway Therapy**  
@@ -176,16 +177,6 @@ Avec Jeff Bridges, Cybill Shepherd, Harvey Christiansen.
 Suite de _La Dernière séance_ : trente-trois ans plus tard, le petit bourg perdu du Nord du Texas fête son centenaire.
 
 - je 20 avr 16h30 GF
-
-[92637]  
-**Un parfum de meurtre**  
-**(The Cat's Meow)**  
-de Peter Bogdanovich  
-Grande-Bretagne-Allemagne-États-Unis / 2001 / 114 min / VOSTF / 35 mm  
-Avec Kirsten Dunst, Cary Elwes, Edward Herrmann.  
-À la fin des années 1920, le magnat de la presse William Randolph Hearst invite Charlie Chaplin sur son yacht pour une croisière. Découvrant que Marion Davies, sa maîtresse, le trompe avec l'acteur, Hearst tente d'assassiner l'interprète de Charlot.
-
-- sa 22 avr 19h45 GF
 
 [84326]  
 **Voyage to the Planet of Prehistoric Women**  

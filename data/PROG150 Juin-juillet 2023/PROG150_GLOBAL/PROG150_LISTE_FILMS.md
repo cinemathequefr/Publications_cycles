@@ -5,31 +5,25 @@
   * Comme un torrent  
   * Non réconciliés ou Seule la violence aide où la violence règne
 
-## Cinéma bis (16)
+## Cinéma bis (10)
 
-  * Aphrodite  
   * Blue Rita  
   * Chantage au meurtre  
-  * Christina, princesse de l'érotisme = Une vierge chez les morts-vivants  
   * Déesse des sables (La)  
   * Descente aux enfers  
-  * Droit de tuer (Le)  
   * Invincibles de Shaolin (Les)  
   * Karateka érotica  
   * Karzan, le maître de la jungle  
-  * Maris en quête de sensations  
-  * Nuits rouges de Harlem (Les)  
   * Rage au cœur (La)  
-  * Rues de l'enfer (Les)  
   * Spécial police  
-  * Trafiquants d'hommes (Les)
+  * Une vierge chez les morts-vivants
 
-## Eloy de la Iglesia (22)
+## Eloy de la Iglesia (21)
 
   * Algo amargo en la boca  
   * Bal du vaudou (Le)  
   * Colegas  
-  * criatura (La)  
+  * Criatura (La)  
   * Cuadrilátero  
   * Diputado (El)  
   * El techo de cristal  
@@ -37,19 +31,18 @@
   * Fantasia 3  
   * Juego de amor prohibido  
   * Miedo a salir de noche  
-  * mujer del ministro (La)  
+  * Mujer del ministro (La)  
   * Nadie oyó gritar  
   * Navajeros  
   * Novios bulgaros (Los)  
-  * otra alcoba (La)  
   * Otra vuelta de Tuerca  
-  * pico 2 (El)  
+  * Pico 2 (El)  
   * Pico (El)  
-  * placeres ocultos (Los)  
+  * Placeres ocultos (Los)  
   * Sacerdote (El)  
-  * Semaine d'un assassin = Cannibal Man (La)
+  * Semaine d'un assassin (La)
 
-## François de Roubaix (12)
+## François de Roubaix (13)
 
   * Aventuriers (Les)  
   * Comment ça va ? J'm'en fous = Les Malentendus  
@@ -59,17 +52,19 @@
   * Gobbo (Le)  
   * Grande lessive (!) (La)  
   * Grandes gueules (Les)  
+  * Jeff  
   * Lèvres rouges (Les)  
   * Morgane et ses nymphes  
   * Samouraï (Le)  
   * Saut de l'ange (Le)
 
-## Jeune public (16)
+## Jeune public (17)
 
   * Charge héroïque (La)  
   * Chez la sorcière  
   * Cirque (Le)  
   * Génie du feu (Le)  
+  * Il faut marier papa  
   * Livre de la jungle (Le)  
   * Livre magique (Le)  
   * Lune à un mètre ou Le Rêve de l'astronome (La)  
@@ -78,8 +73,8 @@
   * Mon voisin Totoro  
   * Monte là-dessus  
   * Panorama pris d'un train en marche  
+  * Pirate (Le)  
   * Sherlock Junior  
-  * Tous en scène  
   * Un homme de têtes  
   * Voyage à travers l'impossible
 
@@ -207,26 +202,26 @@
 
   * 1974, une partie de campagne  
   * Acéra ou le bal des sorcières  
-  * amours de la pieuvre (Les)  
-  * Bernard l'ermite (Le)  
-  * Chagrin et la pitié (Le)  
+  * Amours de la pieuvre (Les)  
+  * Bernard-l'hermite (Le)  
+  * Chagrin et la Pitié (Le)  
   * Chronique d'un été  
   * Deux Marseillaises (Les)  
-  * dieux du stade (Les)  
+  * Dieux du stade (Les)  
   * Dix-septième parallèle (Le)  
   * En passant par la Lorraine  
-  * Etre et avoir  
+  * Être et avoir  
   * Forteresse blanche (La)  
   * Général Idi Amin Dada  
-  * Glaneurs et la glaneuse (Les)  
+  * Glaneurs et la Glaneuse (Les)  
   * Hippocampe (L')  
   * Homme à la caméra (L')  
   * Hôtel des Invalides  
   * Hyas, sténorinque, spirographe  
-  * Joli mai (Le)  
+  * Joli Mai (Le)  
   * Monsieur et Madame Curie  
   * Nanouk l'esquimau  
-  * pieuvre (La)  
+  * Pieuvre (La)  
   * Pour la suite du monde  
   * Poussières (Les)  
   * Primary  
@@ -238,6 +233,13 @@
   * Sois belle et tais-toi  
   * Sud  
   * Vampire (Le)
+
+## Parlons cinéma avec Hélène Frappat (4)
+
+  * Fugue (La)  
+  * Riches et célèbres  
+  * Roar  
+  * Spanglish
 
 ## Quand les surréalistes allaient au cinéma (46)
 
@@ -288,7 +290,7 @@
   * Very Eye of Night (The)  
   * Within the Law
 
-## Vincente Minnelli (33)
+## Vincente Minnelli (32)
 
   * Allons donc, papa !  
   * Au revoir, Charlie  
@@ -301,7 +303,6 @@
   * Gigi  
   * Histoire de trois amours : Mademoiselle  
   * Horloge (L')  
-  * Il faut marier papa  
   * Kismet  
   * Lame de fond  
   * Madame Bovary  
@@ -309,7 +310,6 @@
   * Melinda  
   * Nina  
   * Père de la mariée (Le)  
-  * Pirate (Le)  
   * Pluie qui chante (La)  
   * Quatre cavaliers de l'Apocalypse (Les)  
   * Qu'est-ce que maman comprend à l'amour ?  
@@ -317,6 +317,7 @@
   * Roulotte du plaisir (La)  
   * Thé et sympathie  
   * Toile d'araignée (La)  
+  * Tous en scène  
   * Un Américain à Paris  
   * Un numéro du tonnerre  
   * Un petit coin aux cieux  
@@ -324,7 +325,7 @@
   * Yolanda et le voleur  
   * Ziegfeld Follies
 
-## Warner, années 70 (29)
+## Warner, années 70 (28)
 
   * Alice n'habite plus ici  
   * Ballade sauvage (La)  
@@ -335,7 +336,6 @@
   * Epouvantail (L')  
   * Epreuve de force (L')  
   * Exorciste (L')  
-  * Fugue (La)  
   * Gens de la pluie (Les)  
   * Graffiti party  
   * Hommes du président (Les)  

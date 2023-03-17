@@ -315,7 +315,7 @@
   * Sans soleil  
   * Trois Couronnes du matelot (Les)
 
-## Peter Bogdanovich (19)
+## Peter Bogdanovich (18)
 
   * Barbe à papa (La)  
   * Broadway Therapy  
@@ -334,7 +334,6 @@
   * Réalisé par John Ford  
   * Saint Jack  
   * Texasville  
-  * Un parfum de meurtre  
   * Voyage to the Planet of Prehistoric Women
 
 ## Richard Lester (23)

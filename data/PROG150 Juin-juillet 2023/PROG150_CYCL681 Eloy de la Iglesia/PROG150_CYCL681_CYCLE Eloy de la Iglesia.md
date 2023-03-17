@@ -7,53 +7,53 @@
 d'Eloy de la Iglesia  
 Espagne / 1969 / 81 min / VOSTF / 35 mm  
 Avec Maruchi Fresno, Juan Diego, Javier De Campos.  
-Un beau jeune homme passer Noël chez ses tantes. Les trois femmes réagissent très différemment à sa présence.
+Un beau jeune homme passe Noël chez ses trois tantes, qui réagissent chacune très différemment à sa présence.
 
 - sa 15 juil 17h30 GF
 
 [58500]  
 **Le Bal du vaudou**  
-**(Apenas una gota de sangre para morir amando = Una gota de sangre para morir amando)**  
+**(Apenas una gota de sangre para morir amando)**  
 d'Eloy de la Iglesia  
-Espagne-France / 1973 / 95 min / VOSTF  
+Espagne-France / 1973 / 95 min / VOSTF / Numérique  
 Avec Sue Lyon, Christopher Mitchum, Jean Sorel.  
-David, un homme violent et brutal, fait partie d'un groupe de motards qui tue le temps en terrorisant la population et en perpétrant divers forfaits. Débordant d'imagination, David a l'idée de se rendre dans un abattoir pour accomplir ses sinistres activités.
+Dans un futur dystopique, où la société est gouvernée par un État fasciste, une série de crimes terrifie les habitants d'une grande ville. Ana, infirmière du Grand Hôpital, se rend compte que les victimes sont des jeunes tourmentés.
 
 - di 16 juil 17h45 GF
 
 [122824]  
 **Colegas**  
 d'Eloy de la Iglesia  
-Espagne / 1982 / 117 min / VOSTF / Numérique  
+Espagne / 1982 / 117 min / VOSTF / DCP  
 Avec Antonio Flores, Rosario Flores, José Luis Manzano.  
-Deux frères, Antonio et Rosario vivent en banlieue madrilène. José est un ami de Antonio et amant de Rosario. Tous les trois doivent faire face à une dure recherche d'emploi. Antonio et José décident de se livrer à prostitution dans un sauna gay.
+Deux frères, Antonio et Rosario vivent en banlieue madrilène. José, un ami d'Antonio est l'amant de Rosario. Tous les trois peinent à trouver un emploi. Antonio et José décident de se livrer à la prostitution dans un sauna gay.
 
 - me 26 juil 17h30 GF
 
 [154356]  
-**La criatura**  
+**La Criatura**  
 d'Eloy de la Iglesia  
 Espagne / 1977 / 100 min / VOSTF / Vidéo  
 Avec Ana Belén, Juan Diego, Claudia Gravy.  
-Après plusieurs années de mariage, Cristina parvient enfin à tomber enceinte. Peu avant l'accouchement, la frayeur provoquée par un chien précipite l'accouchement.
+Après plusieurs années de mariage, Cristina parvient enfin à tomber enceinte. La frayeur provoquée par un chien précipite l'accouchement.
 
 - je 20 juil 18h30 GF
 
 [154350]  
 **Cuadrilátero**  
 d'Eloy de la Iglesia  
-Espagne / 1969 / 90 min / VOSTF / Numérique  
+Espagne / 1969 / 90 min / VOSTF / DCP  
 Avec José María Prada, Rosanna Yanni, Irène Daina.  
-Un manager de boxe découvre que l'un ses boxeurs le plus prometteur est tombé amoureux de la femme qu'il convoitise.
+Un manager de boxe découvre que l'un ses poulains les plus prometteurs est tombé amoureux de la femme qu'il convoite.
 
 - sa 15 juil 15h00 GF
 
 [43024]  
 **El Diputado**  
 d'Eloy de la Iglesia  
-Espagne / 1978 / 111 min / VOSTF / Numérique  
+Espagne / 1978 / 111 min / VOSTF / DCP  
 Avec José Sacristán, Maria Luisa San José, Ángel Pardo.  
-Roberto Orbea, député dans un parti de gauche est emprisonné pour ses activités politiques, et il devient l'amant de Nes, un prostitué. À sa sortie de prison, Orbea est élu député, et mène une politique contre le terrorisme. Un groupe de terroriste franquistes paie Nes pour qu'il piège Orbea.
+Roberto Orbea, député dans un parti de gauche, est mis en prison. À sa sortie, il mène une politique contre le terrorisme, mais un groupuscule franquiste paie sa maîtresse pour le piéger.
 
 - sa 22 juil 15h00 GF
 
@@ -62,7 +62,7 @@ Roberto Orbea, député dans un parti de gauche est emprisonné pour ses activit
 d'Eloy de la Iglesia  
 Espagne / 1971 / 92 min / VOSTF / Vidéo  
 Avec Carmen Sevilla, Dean Selmier, Patty Shepard.  
-Une jeune femme, Marta, s'ennuie. Après avoir entendu des bruits sur son toit, qui semblent venir de l'étage de sa voisine Julia, elle soupçonne que celle-ci a tué son mari Victor. Elle décide de mener l'enquête avec l'aide de leur propriétaire, Ricardo.
+Une jeune femme, Marta, s'ennuie. Comme elle soupçonne sa voisine d'avoir tué son mari Victor, elle décide de mener l'enquête avec l'aide de Ricardo, leur propriétaire.
 
 - sa 15 juil 20h00 GF
 
@@ -71,7 +71,7 @@ Une jeune femme, Marta, s'ennuie. Après avoir entendu des bruits sur son toit, 
 d'Eloy de la Iglesia  
 Espagne / 1987 / 106 min / VOSTF / Numérique  
 Avec Emma Penella, José Luis Gómez, José Luis Manzano.  
-Leandro et Tocho décident de perpétrer un braquage dans une supérette de Madrid. Mais rien ne se déroule comme prévu.
+Leandro et Tocho décident de commettre un braquage dans une supérette en banlieue madrilène, mais rien ne se déroule comme prévu.
 
 - sa 29 juil 17h30 GF
 
@@ -80,7 +80,7 @@ Leandro et Tocho décident de perpétrer un braquage dans une supérette de Madr
 d'Eloy de la Iglesia  
 Espagne / 1966 / 80 min / VOSTF / Vidéo  
 Avec Dyanik Zurakowska, Juan Jose Palacios, Sergio Mendizábal.  
-Adaptation de troiscontes pour enfants : _La Petite Sirène_ de Hans Christian Andersen, _Le Magicien d'Oz_ de L. Frank Baum et _Les trois cheveux d'or du Diable_ des frères Grimm.
+Adaptation de trois contes pour enfants : _La Petite Sirène_ de Hans Christian Andersen, _Le Magicien d'Oz_ de L. Frank Baum et _Les Trois Cheveux d'or du Diable_ des frères Grimm.
 
 - je 13 juil 21h30 GF
 
@@ -89,103 +89,107 @@ Adaptation de troiscontes pour enfants : _La Petite Sirène_ de Hans Christian A
 d'Eloy de la Iglesia  
 Espagne / 1975 / 85 min / VOSTF / Vidéo  
 Avec Javier Escrivá, John Moulder-Brown, Inma de Santis.  
-En rentrant chez lui en voiture, Luis, professeur d'université, rencontre deux étudiants occupés à faire de l'auto-stop. Il s'arrête et les prend dans sa voiture, puis leur propose de dormir chez lui la nuit avant de reprendre leur route le lendemain.
+Luis, professeur d'université, prend en stop deux étudiants, et leur propose de dormir chez lui avant de reprendre la route le lendemain.
 
-- me 19 juil 17h30 GF
+- me 19 juil 19h30 GF
 
 [154358]  
 **Miedo a salir de noche**  
 d'Eloy de la Iglesia  
-Espagne / 1980 / 92 min / VOSTF / Numérique  
+Espagne / 1980 / 92 min / VOSTF / DCP  
 Avec José Sacristán, Antonio Ferrandis, Claudia Gravy.  
 Un employé de banque timide est effrayé par la vague de crimes qui envahit la ville dans les premières années de la transition démocratique espagnole.
 
 - sa 22 juil 20h00 GF
 
 [154359]  
-**La mujer del ministro**  
+**La Mujer del ministro**  
 d'Eloy de la Iglesia  
-Espagne / 1981 / 101 min / VOSTF / Numérique  
+Espagne / 1981 / 101 min / VOSTF / DCP  
 Avec Amparo Muñoz, Simón Andreu, Manuel Torres.  
-Bien qu'en déclin physique et économique, la marquise du Monténégro conserve des amis influents tels que le ministre Fernández Herrador. Lorsque la femme du ministre a besoin d'un nouveau jardinier, la marquise lui présente Rafael qui se consacre à séduire les femmes riches afin de vivre confortablement.
+La marquise du Monténégro, sur le déclin, conserve des amis influents tels que le ministre Fernández Herrador. Lorsque la femme du ministre a besoin d'un nouveau jardinier, la marquise lui présente Rafael, un jeune gigolo.
 
 - di 23 juil 20h00 GF
 
 [154352]  
 **Nadie oyó gritar**  
 d'Eloy de la Iglesia  
-Espagne / 1973 / VOSTF / Numérique  
+Espagne / 1973 / 90 min / VOSTF / DCP  
 Avec Carmen Sevilla, Vicente Parra, María Asquerino.  
-Une femme surprend son voisin jeter un corps dans la cage d'ascenseur. Elle est obligée de l'aider à faire disparaître le cadavre. Pendant ces heures tendues, l'homme fait comprendre à la femme les raisons qui l'ont conduit au meurtre.
+Une femme surprend son voisin en train de jeter un corps dans la cage d'ascenseur, et l'aide à faire disparaître le cadavre. Elle comprend peu à peu les raisons qui ont conduit l'homme au meurtre.
 
 - di 16 juil 20h00 GF
 
 [43001]  
 **Navajeros**  
 d'Eloy de la Iglesia  
-Espagne / 1980 / Numérique  
-Avec José Luis Manzano, Isela Vega, Verónica Castro.
+Espagne / 1980 / 95 min / VOSTF / DCP  
+Avec José Luis Manzano, Isela Vega, Verónica Castro.  
+José Manuel alias « El Jaro » vit avec sa bande de délinquants. Un jour, il rencontre Mercedes, une prostituée qui veut le ramener dans le droit chemin.
 
 - di 23 juil 17h30 GF
 
 [154361]  
 **Los Novios bulgaros**  
 d'Eloy de la Iglesia  
-Espagne / 2003 / 101 min / VO / 35 mm
+Espagne / 2003 / 101 min / VOSTF / 35 mm  
+Avec Fernando Guillén Cuervo, Dritan Biba, Pepón Nieto.  
+Daniel, un homosexuel aisé, tombe éperdument amoureux de Kyril, un attrayant Bulgare de 23 ans avec qui il vit une relation intense, jusqu'à ce que Kyril se marie et commence à emprunter de grosses sommes d'argent à Daniel.
 
 - sa 29 juil 20h30 GF
-
-[154354]  
-**La otra alcoba**  
-d'Eloy de la Iglesia  
-Espagne / 1976  
-Avec Patxi Andión, Amparo Muñoz, Simón Andreu.
-
-- me 19 juil 19h30 GF
 
 [147104]  
 **Otra vuelta de Tuerca**  
 d'Eloy de la Iglesia  
-Espagne / 1985 / 119 min / Numérique
+Espagne / 1985 / 119 min / VOSTF / DCP  
+Avec Sánchez Pedro Mari, Queta Claver, Asier Hernández.  
+Après avoir terminé une formation traumatisante dans un séminaire jésuite, le jeune Roberto reçoit une lettre du prêtre de son village : le comte local cherche un nouveau professeur pour sa nièce de huit ans, Flora.
 
 - je 27 juil 20h00 GF
 
 [43025]  
 **El Pico**  
 d'Eloy de la Iglesia  
-Espagne / 1983 / Numérique
+Espagne / 1983 / 104 min / VOSTF / Numérique  
+Avec José Luis Manzano, Enrique San Francisco, José Manuel Cervino.  
+La dérive opiacée de deux jeunes amis, Paco et Urko, respectivement fils d'un commandant de la Garde Civile et d'un militant nationaliste.
 
 - me 26 juil 20h30 GF
 
 [154360]  
-**El pico 2**  
+**El Pico 2**  
 d'Eloy de la Iglesia  
-Espagne / 1984 / Numérique  
-Avec José Luis Manzano, Fernando Guillén, Andrea Albani.
+Espagne / 1984 / 117 min / VOSTF / DCP  
+Avec José Luis Manzano, Fernando Guillén, Andrea Albani.  
+Paco, fils du commandant de la Garde Civile, est impliqué dans le meurtre d'un couple de trafiquants d'héroïne à Bilbao. Lorsque la presse commence à s'intéresser à l'affaire, les efforts de son père pour l'éloigner de la drogue et cacher les preuves du crime sont inutiles.
 
 - je 27 juil 17h30 GF
 
 [154355]  
-**Los placeres ocultos**  
+**Los Placeres ocultos**  
 d'Eloy de la Iglesia  
-Espagne / 1977 / 95 min / VO / 35 mm  
-Avec Simón Andreu, Tony Fuentes, Beatriz Rossat.
+Espagne / 1977 / 95 min / VOSTF / Numérique  
+Avec Simón Andreu, Tony Fuentes, Beatriz Rossat.  
+Eduardo, directeur d'une banque, homosexuel, tombe amoureux du jeune et humble Miguel. Il tente de le séduire avec des cadeaux et en lui offrant un travail. Mais Miguel a une petite amie.
 
 - je 20 juil 20h45 GF
 
 [154357]  
 **El Sacerdote**  
 d'Eloy de la Iglesia  
-Espagne / 1979 / 109 min / Numérique  
-Avec Simón Andreu, Emilio Gutiérrez Caba, José Franco.
+Espagne / 1979 / 109 min / VOSTF / Numérique  
+Avec Simón Andreu, Emilio Gutiérrez Caba, José Franco.  
+Le père Miguel, un prêtre séduisant et timide de trente-six ans, traverse une crise de conscience provoquée par la présence, dans sa paroisse, d'Irène, une jeune et belle femme mariée, pieuse et passionnée à la fois.
 
 - sa 22 juil 17h30 GF
 
 [127733]  
-**La Semaine d'un assassin = Cannibal Man**  
+**La Semaine d'un assassin**  
 **(La Semana del asesino)**  
 d'Eloy de la Iglesia  
-Espagne / 1972 / Numérique
+Espagne / 1972 / 108 min / VOSTF / DCP  
+Avec Vicente Parra, Emma Cohen, Eusebio Poncela.  
+Employé dans une usine de découpe de viande, Marcos mène une vie solitaire dans sa cité d'immeubles gris. Un soir, il embrasse sa petite amie sur la banquette arrière d'un taxi et le chauffeur la gifle. Marcos le tue involontairement.
 
 - me 12 juil 20h00 HL  
 Ouverture de la rétrospective

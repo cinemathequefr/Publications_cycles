@@ -38,7 +38,7 @@ Malko Linge, à la fois prince d'Autriche et agent de la CIA, est attaqué avec 
 [59853]  
 **SAS à San Salvador**  
 de Raoul Coutard  
-France-Allemagne / 1983 / 94 min / VF / 35 mm  
+France-Allemagne / 1983 / 93 min / VO / 35 mm  
 D'après le roman _Terreur à San Salvador_ de Gérard de Villiers.  
 Avec Miles O'Keeffe, Raimund Harmstorf, Anton Diffring.  
 Un ex-agent de la CIA est engagé dans un combat politique au Salvador, pays ravagé par la guerre civile. Le célèbre Malko Linge, alias SAS, reçoit l'ordre de le neutraliser.
