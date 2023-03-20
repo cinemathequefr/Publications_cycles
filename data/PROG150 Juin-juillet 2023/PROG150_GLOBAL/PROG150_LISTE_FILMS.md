@@ -7,7 +7,7 @@
 
 ## Cinéma bis (10)
 
-  * Blue Rita  
+  * Cabaret des filles perverses (Le)  
   * Chantage au meurtre  
   * Déesse des sables (La)  
   * Descente aux enfers  
@@ -83,7 +83,7 @@
   * Action érotico-patriotique  
   * Amour fou (L')  
   * Anthem  
-  * Apparatus « M »  
+  * Apparatus 'M'  
   * Apple (The)  
   * Asparagus  
   * Attendant (The)  

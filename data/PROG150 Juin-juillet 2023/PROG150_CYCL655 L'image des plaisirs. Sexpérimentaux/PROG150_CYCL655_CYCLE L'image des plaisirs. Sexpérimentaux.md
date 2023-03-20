@@ -400,7 +400,7 @@ Avec Sun-deok Kim, Ok-nyeon Park, Yeong-suk Lee.
 « L'un des attraits potentiels du collage est que l'artiste qui rejette le monde 'tel qu'il se trouve' peut construire le sien, plus conforme à ce que les choses pourraient ou devraient être. Il y a un lien évident entre cette pulsion et le travail d'invention d'un monde fictionnel. » (William E. Jones, 2020). Accolades érotiques de Marilyn, Georges Bataille ou Edmund Husserl avec le cinéma.
 
 [154221]  
-**Apparatus « M »**  
+**Apparatus 'M'**  
 de Takashi Ito  
 Japon / 1996 / 6 min / 16 mm  
 Morimura Yasumasu, l'un des plus célèbres artistes transformistes du Japon, interprète quelques traces de Marilyn.  

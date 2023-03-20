@@ -37,7 +37,7 @@ Isabelle, cachée dans la cave, assiste impuissante au meurtre de son frère Mar
 [48807]  
 **Descente aux enfers**  
 de Francis Girod  
-France / 1986 / 89 min / 35 mm  
+France / 1986 / 89 min / VO / 35 mm  
 D'après le roman _Descente aux enfers_ de David Goodis.  
 Avec Claude Brasseur, Sophie Marceau, Betsy Blair.  
 Un couple, formé par un ancien écrivain quadragénaire et alcoolique, et une belle jeune femme de vingt ans, bat de l'aile. Ils se retrouvent après un événement dramatique, survenu lors d'un séjour à Haïti.
@@ -57,8 +57,9 @@ Avec Christina von Blanc, Howard Vernon, Britt Nichols, Paul Muller.
 - ve 14 juil 19h00 GF
 
 [102885]  
-**Blue Rita**  
-de Clifford Brown  
+**Le Cabaret des filles perverses**  
+**(Blue Rita)**  
+de Jess Franco  
 France-Suisse / 1976 / 72 min / VOSTF / 35 mm  
 Avec Martine Fléty, Sarah Strasberg, Erik Falk.  
 Derrère un cabaret de strip-tease, le Blue Rita, il se cache une redoutable organisation criminelle louant ses services au plus offrant.

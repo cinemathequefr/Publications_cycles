@@ -73,7 +73,7 @@ de Leni Riefenstahl
 Allemagne / 1938 / 221 min / DCP  
 Réalisé pour la propagande nazie lors des Jeux Olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes.
 
-- di 2 juil 17h15 GF
+- di 2 juil 18h30 GF
 
 [54259]  
 **Le Dix-septième parallèle**  
@@ -245,7 +245,7 @@ de Claire Simon
 France / 1991 / 54 min / 8 mm  
 Par l'observation distante d'une cour de récréation de maternelle, Claire Denis révèle les lois et la violence qui régissent ce petit monde de jeux enfantins.
 
-- di 2 juil 15h30 GF
+- di 9 juil 17h30 GF
 
 [60776]  
 **Reprise**  
