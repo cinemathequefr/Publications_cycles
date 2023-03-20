@@ -23,7 +23,6 @@ de Vincente Minnelli
 Avec Frank Sinatra, Dean Martin, Shirley MacLaine, Arthur Kennedy.  
 Après la guerre, un vétéran retourne dans sa ville natale avec des ambitions d'écrivain et flanqué d'une fille séduite dans un bar. Il y retrouve son frère Frank, fait la connaissance d'un joueur professionnel et d'une prof de littérature.
 
-- me 5 juil 19h00 HL  
-- sa 22 juil 19h30 HL
+- me 5 juil 19h00 HL
 
 Remerciements : Capricci et Warner Bros. Picture

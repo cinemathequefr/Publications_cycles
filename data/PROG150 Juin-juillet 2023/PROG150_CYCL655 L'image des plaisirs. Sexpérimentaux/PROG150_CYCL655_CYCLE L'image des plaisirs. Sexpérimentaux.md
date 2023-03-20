@@ -269,7 +269,8 @@ France-États-Unis / 2018 / 78 min / VOSTF / DCP
 Avec David Wojnarowicz, Marion Scemama.  
 Journaux intimes, portraits mutuels, affects débordants et archive d'un entretien de cinq heures avec David Wojnarowicz conduit par Sylvère Lotringer en 1989.
 
-- me 7 juin 19h30 JE
+- me 7 juin 19h30 JE  
+Séance présentée par Marion Scemama
 
 ## Séance 31 : Chaque fois que nous nous embrassons
 
@@ -453,7 +454,8 @@ de Bobby Abate
 États-Unis / 1999 / 14 min / Numérique  
 Film nostalgique et intime nourri d'évocations sexuelles.
 
-- sa 10 juin 18h00 JE
+- sa 10 juin 18h00 JE  
+Séance présentée par Yves-Marie Mahé
 
 ## Séance 35 : Moins, un, deux et des millions
 
@@ -919,7 +921,8 @@ de Thunska Pansittivorakul
 Thaïlande / 2020 / 63 min / VOSTA / Numérique  
 Les noms du film et du réalisateur ne doivent pas être mentionnés. Mettre seulement: Film surprise et la durée 63 minutes
 
-- sa 17 juin 18h30 JE
+- sa 17 juin 18h30 JE  
+Séance présentée par Marion Scemama
 
 ## Rencontres et conférences
 

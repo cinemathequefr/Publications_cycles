@@ -290,7 +290,7 @@
   * Very Eye of Night (The)  
   * Within the Law
 
-## Vincente Minnelli (32)
+## Vincente Minnelli (33)
 
   * Allons donc, papa !  
   * Au revoir, Charlie  
@@ -298,6 +298,7 @@
   * Celui par qui le scandale arrive  
   * Chant du Missouri (Le)  
   * Chevalier des sables (Le)  
+  * Comme un torrent  
   * Ensorcelés (Les)  
   * Femme modèle (La)  
   * Gigi  

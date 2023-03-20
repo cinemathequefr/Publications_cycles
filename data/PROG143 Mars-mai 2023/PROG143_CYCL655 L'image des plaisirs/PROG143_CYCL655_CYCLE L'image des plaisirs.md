@@ -208,7 +208,7 @@ Filmer expérimentalement le sexe commence par indexer celui-ci sur l'irrévére
 [58030]  
 **Flaming Creatures**  
 de Jack Smith  
-États-Unis / 1963 / 45 min / VO / 16 mm  
+États-Unis / 1963 / 45 min / VOSTF / 16 mm  
 Avec Piero Heliczer, Frances Francine, Sheila Bick, Joel Markman, Mario Montez, Judith Malina.  
 « Jack Smith atteint pour la première fois au cinéma une haute qualité d'art libéré de toute bienséance ; et un traitement du sexe qui nous fait prendre conscience de la retenue de tous les cinéastes précédents. » (_Film Culture_)
 
@@ -526,7 +526,7 @@ suivi de
 [154144]  
 **Lovemaking**  
 de Scott Bartlett  
-États-Unis / 1970 / 13 min / VOSTF / 16 mm  
+États-Unis / 1970 / 13 min / VOSTF / Numérique  
 « Un traitement délicat et excitant de l'amour. Son mode est simple et classique, alliant maîtrise technique et singulière sobriété. L'image est vive, subtile et ambiguë tandis que le son est net et clair. » (Bruce Conner, Maurice Girodias, Arthur Knight)  
 suivi de  
 [154145]  
