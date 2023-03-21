@@ -1,5 +1,27 @@
 # Cinéma bis
 
+## Deux décennies d'érotisme cinématographique
+
+[141022]  
+**Maris en quête de sensations**  
+**(Commuter Husbands)**  
+de Derek Ford  
+Grande-Bretagne / 1972 / 85 min / VF / 35 mm  
+Avec Gabrielle Drake, Robin Bailey, Jane Cardew.  
+Récit humoristique, par une jeune hôtesse de bar, des nuits chaudes de Londres.
+
+- ve 2 juin 19h00 GF
+
+[48653]  
+**Aphrodite**  
+de Robert Fuest  
+France-Suisse / 1982 / 96 min / VF / 35 mm  
+D'après le roman _Aphrodite_ de Pierre Louÿs.  
+Avec Horst Buchholz, Valérie Kaprisky, Catherine Jourdan, Capucine.  
+Harry, un jeune milliardaire, passe ses vacances en Grèce chez son ami le comte Orloff. Celui-ci organise une fête durant trois jours et trois nuits, à la gloire de la déesse Aphrodite.
+
+- ve 2 juin 21h00 GF
+
 ## Raretés de la Warner Bros.
 
 [58714]  
@@ -22,6 +44,51 @@ Avec George C. Scott, Martin Sheen, Richard Basehart.
 Un propriétaire de ranch voit son stock détruit et son fils tué à cause d'une erreur militaire. Quand il cherche à connaître la vérité, il se retrouve face à un mur du silence.
 
 - ve 9 juin 21h15 GF
+
+## Vigilante
+
+[56229]  
+**Le Droit de tuer**  
+**(The Exterminator)**  
+de James Glickenhaus  
+États-Unis / 1981 / 101 min / VOSTF / 35 mm  
+Avec Robert Ginty, Christopher George, Samantha Eggar.  
+Un vétéran du Vietnam voit son meilleur ami devenir infirme à la suite d'une agression par des loubards. Devant le peu d'intérêt que porte la police à l'affaire, il décide de mener l'enquête lui-même.
+
+- ve 16 juin 19h00 GF
+
+[56985]  
+**Les Rues de l'enfer**  
+**(Savage Streets)**  
+de Danny Steinmann  
+États-Unis / 1984 / 93 min / VOSTF / 35 mm  
+Avec Linda Blair, Linnea Quigley, Robert Dwyer-Joyce.  
+Un gang de punks ultra-violents sévit à Los Angeles. Menés par Jake, ses membres torturent et violent une jeune sourde-muette, dont la sœur décide de faire justice.
+
+- ve 16 juin 21h15 GF
+
+## Shaft, icône de la Blaxploitation
+
+[93959]  
+**Les Nuits rouges de Harlem**  
+**(Shaft)**  
+de Gordon Parks  
+États-Unis / 1971 / 100 min / VOSTF / 35 mm  
+D'après le roman _Shaft_ d'Ernest Tidyman.  
+Avec Richard Roundtree, Moses Gunn, Charles Cioffi.  
+John Shaft, détective privé afro-américain travaillant à Harlem, est engagé par un gros trafiquant de drogue dont la fille a été enlevée.
+
+- ve 30 juin 19h00 GF
+
+[65471]  
+**Les Trafiquants d'hommes**  
+**(Shaft in Africa)**  
+de John Guillermin  
+États-Unis / 1972 / 113 min / VOSTF / 35 mm  
+Avec Richard Roundtree, Frank Finlay, Vonetta McGee.  
+En Afrique, le détective Shaft est chargé de démanteler un réseau de trafiquants d'esclaves.
+
+- ve 30 juin 21h15 GF
 
 ## Polars français des années 80
 

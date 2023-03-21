@@ -17,7 +17,7 @@ Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. 
 **Comment ça va ? J'm'en fous = Les Malentendus**  
 de François de Roubaix  
 France / 1975 / 10 min  
-Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie. Dernier court-métrage de de Roubaix, sorti à titre posthume.
+Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie. Dernier court-métrage de François de Roubaix, sorti à titre posthume.
 
 - me 28 juin 19h00 JE  
 Séance présentée par Jean-Yves Guilleux  
@@ -27,7 +27,7 @@ Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Al
 **Dernier domicile connu**  
 de José Giovanni  
 France-Italie / 1969 / 35 mm  
-L'inspecteur Léonetti est envoyé dans un commissariat de seconde zone après avoir été réprimandé. Avec la jeune Jeanne Dumas, il va devoir retrouver un témoin qui pourrait décider du sort d'un meurtrier. Le duo se lance à sa recherche.
+L'inspecteur Léonetti est réprimandé et envoyé dans un commissariat de seconde zone. Il y rencontre la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un meurtrier. Le duo se lance à sa recherche.
 
 - je 22 juin 20h00 HL  
 Ouverture de la rétrospective
@@ -36,7 +36,7 @@ Ouverture de la rétrospective
 **Far from Dallas**  
 de Philippe Toledano  
 France / 1971 / VF  
-Régis, un journaliste, revient à Paris après trois ans d'absence. Il entreprend de retrouver un ami disparu après être parti aux États-Unis pour enquêter sur l'assassinat de John Kennedy. Tous ceux qui l'ont connu se dérobent et Régis commence à subir des pressions.
+Régis, journaliste, revient à Paris après trois ans d'absence. Il entreprend de retrouver un ami disparu après une enquête aux États-Unis sur l'assassinat de John Kennedy. Tous ceux qui l'ont connu se dérobent et Régis commence à subir des pressions.
 
 - lu 26 juin 18h00 GF
 
@@ -44,7 +44,7 @@ Régis, un journaliste, revient à Paris après trois ans d'absence. Il entrepre
 **François de Roubaix l'aventurier**  
 de Jean-Yves Guilleux, Alexandre Moix  
 France / 2007 / 52 min  
-Documentaire présentant des extraits d'archives, de films et des témoignages de proches de et personnalités dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...
+Documentaire présentant des extraits d'archives, de films et des témoignages de proches de de Roubaix et de personnalités, dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...
 
 - me 28 juin 19h00 JE  
 Séance présentée par Jean-Yves Guilleux  
@@ -81,7 +81,8 @@ Hector Valentin revient dans ses Vosges natales hériter de la scierie familiale
 [34700]  
 **Jeff**  
 de Jean Herman  
-France / 1968
+France / 1968  
+Après un hold-up, Jeff, le chef de la bande, disparaît avec le butin. Toute la bande se lance à sa poursuite, sauf Laurent. Soupçonné par les autres d'être un complice, Laurent part de son côté à la recherche du traître, accompagnée d'Eva, la maîtresse de Jeff.
 
 - di 25 juin 19h00 GF
 
@@ -119,7 +120,7 @@ Voir aussi dialogue p. xx
 de Yves Boisset  
 France-Italie / 1971 / 95 min  
 D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.  
-En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini. Leur père expatrié en Asie, apprend la nouvelle et décide de rentrer pour se venger.
+En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini. Leur père, expatrié en Asie, apprend la nouvelle et décide de rentrer pour se venger.
 
 - sa 24 juin 21h30 GF
 

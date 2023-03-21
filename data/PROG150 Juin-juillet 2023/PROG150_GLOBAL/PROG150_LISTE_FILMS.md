@@ -5,17 +5,23 @@
   * Comme un torrent  
   * Non réconciliés ou Seule la violence aide où la violence règne
 
-## Cinéma bis (10)
+## Cinéma bis (16)
 
+  * Aphrodite  
   * Cabaret des filles perverses (Le)  
   * Chantage au meurtre  
   * Déesse des sables (La)  
   * Descente aux enfers  
+  * Droit de tuer (Le)  
   * Invincibles de Shaolin (Les)  
   * Karateka érotica  
   * Karzan, le maître de la jungle  
+  * Maris en quête de sensations  
+  * Nuits rouges de Harlem (Les)  
   * Rage au cœur (La)  
+  * Rues de l'enfer (Les)  
   * Spécial police  
+  * Trafiquants d'hommes (Les)  
   * Une vierge chez les morts-vivants
 
 ## Eloy de la Iglesia (21)

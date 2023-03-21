@@ -40,7 +40,7 @@ Brigadoon : aucune carte ne mentionne ce village qui ne revit qu'une fois tous l
 **Celui par qui le scandale arrive**  
 **(Home from the Hill)**  
 de Vincente Minnelli  
-États-Unis / 1959  
+États-Unis / 1959 / VOSTF / 35 mm  
 Avec Robert Mitchum, George Peppard, Eleanor Parker.  
 Un grand propriétaire du Sud tyrannise sa femme, son fils légitime et celui qu'il a eu d'une liaison.
 
@@ -384,7 +384,7 @@ Restauration à partir du négatif original par Technicolor US pour Swashbuckler
 **Yolanda et le voleur**  
 **(Yolanda and the Thief)**  
 de Vincente Minnelli  
-États-Unis / 1948 / 108 min / VOSTF  
+États-Unis / 1948 / 108 min / VOSTF / 35 mm  
 Avec Fred Astaire.  
 Johnny, un petit voleur, usurpe l'identité de Candle, ange gardien auprès de la riche et belle Yolanda, afin de lui dérober ses biens.
 

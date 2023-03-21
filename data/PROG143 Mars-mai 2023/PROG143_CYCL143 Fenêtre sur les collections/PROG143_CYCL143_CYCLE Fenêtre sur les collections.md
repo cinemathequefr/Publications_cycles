@@ -39,7 +39,7 @@ suivi de
 [154364]  
 **Le Mont Chef**  
 **(Atama Yama)**  
-de Koji Yamamura  
+de Kōji Yamamura  
 Japon / 2002 / 10 min / DCP  
 Après avoir avalé des noyaux de cerises, un homme avare voit pousser sur sa tête un cerisier. Les ennuis commencent...  
 suivi de  
