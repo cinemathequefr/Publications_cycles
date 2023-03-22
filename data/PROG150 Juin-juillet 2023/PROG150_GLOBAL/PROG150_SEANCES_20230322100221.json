@@ -1237,7 +1237,7 @@
       {
         "idFilm": 154220,
         "titre": "Murmures, une histoire de femmes coréennes",
-        "realisateurs": "Byun Young-joo",
+        "realisateurs": "Young-Joo Byun",
         "annee": 1995,
         "duree": 98,
         "version": "VOSTF",
@@ -1751,7 +1751,7 @@
       },
       {
         "idFilm": 154063,
-        "titre": "One-Night Stand",
+        "titre": "Pour une nuit",
         "realisateurs": "Émilie Jouvet",
         "annee": 2006,
         "duree": 84,
@@ -1887,7 +1887,6 @@
         "Séance 40 : Rafales et une faille"
       ]
     ],
-    "mention": "Séance présentée par Danielle Arbid",
     "items": [
       {
         "idFilm": 154054,
@@ -2206,7 +2205,6 @@
         "Séance 43 : Corps écarquillés, voluptés et fétiches"
       ]
     ],
-    "mention": "Séance présentée par Derek Woolfenden",
     "items": [
       {
         "idFilm": 154069,
@@ -2452,6 +2450,27 @@
       }
     ],
     "hashEvenement": "f34068"
+  },
+  {
+    "idSeance": 104184,
+    "idEvenement": 28223,
+    "dateHeure": "2023-06-17T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Quand les surréalistes allaient au cinéma",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 28223,
+        "titre": "Séance : « Ah, les petites femmes de Méliès ! »",
+        "typeConference": "Spectacle",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c28223"
   },
   {
     "idSeance": 103996,
@@ -3120,7 +3139,7 @@
         "titre": "Dernier domicile connu",
         "realisateurs": "José Giovanni",
         "annee": 1969,
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f48800"
@@ -3161,14 +3180,6 @@
     ],
     "items": [
       {
-        "idFilm": 73254,
-        "titre": "Montagnes magiques",
-        "realisateurs": "Robert Enrico",
-        "annee": 1962,
-        "duree": 19,
-        "format": "DCP"
-      },
-      {
         "idFilm": 48373,
         "titre": "Aventuriers",
         "art": "Les",
@@ -3178,7 +3189,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f73254f48373"
+    "hashEvenement": "f48373"
   },
   {
     "idSeance": 104034,
@@ -3472,6 +3483,7 @@
         "realisateurs": "Nicolas Philibert",
         "annee": 2001,
         "duree": 104,
+        "version": "VF",
         "format": "DCP"
       }
     ],
@@ -3495,8 +3507,8 @@
         "art": "La",
         "realisateurs": "Jean-Pierre Mocky",
         "annee": 1968,
-        "duree": 95,
-        "format": "DCP"
+        "duree": 100,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f50109"
@@ -3569,7 +3581,8 @@
         "realisateurs": "Robert J. Flaherty",
         "annee": 1920,
         "duree": 50,
-        "version": "INT. FR."
+        "version": "INT. FR.",
+        "format": "DCP"
       },
       {
         "idConf": 28169,
@@ -3663,14 +3676,6 @@
     ],
     "items": [
       {
-        "idFilm": 154391,
-        "titre": "Thaumetopoea",
-        "realisateurs": "Robert Enrico",
-        "annee": 1960,
-        "duree": 23,
-        "format": "DCP"
-      },
-      {
         "idFilm": 48381,
         "titre": "Grandes gueules",
         "art": "Les",
@@ -3680,7 +3685,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f154391f48381"
+    "hashEvenement": "f48381"
   },
   {
     "idSeance": 101385,
@@ -3722,8 +3727,7 @@
         "idFilm": 34700,
         "titre": "Jeff",
         "realisateurs": "Jean Herman",
-        "annee": 1968,
-        "duree": 92
+        "annee": 1968
       }
     ],
     "hashEvenement": "f34700"
@@ -4157,7 +4161,7 @@
         "realisateurs": "Norman Taurog, George Sidney, Vincente Minnelli, [etc.]",
         "annee": 1944,
         "duree": 110,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -4418,29 +4422,6 @@
     "hashEvenement": "f35285"
   },
   {
-    "idSeance": 104206,
-    "idEvenement": 28234,
-    "dateHeure": "2023-07-02T15:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "François Truffaut et Helen Scott : Correspondance"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51578,
-        "titre": "Peau douce",
-        "art": "La",
-        "realisateurs": "François Truffaut",
-        "annee": 1963,
-        "duree": 119
-      }
-    ],
-    "hashEvenement": "f51578"
-  },
-  {
     "idSeance": 104177,
     "idEvenement": 28054,
     "dateHeure": "2023-07-02T17:45:00",
@@ -4675,7 +4656,7 @@
         "realisateurs": "Vincente Minnelli",
         "annee": 1952,
         "duree": 122,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -5967,7 +5948,7 @@
         "realisateurs": "Norman Taurog, George Sidney, Vincente Minnelli, [etc.]",
         "annee": 1944,
         "duree": 110,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -6433,7 +6414,7 @@
         "realisateurs": "Vincente Minnelli",
         "annee": 1952,
         "duree": 122,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm"
       }
     ],

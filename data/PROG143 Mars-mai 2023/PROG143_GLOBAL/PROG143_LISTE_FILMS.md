@@ -42,18 +42,26 @@
   * SAS : L'Œil de la veuve  
   * Sursis (Le)
 
-## Fenêtre sur les collections (15)
+## Fenêtre sur les collections (23)
 
+  * Au premier dimanche d'août  
   * Autour de L'Argent  
   * Autour de La Cousine Bette  
   * Autour de La Fin du monde  
   * Black Whip (The)  
+  * Chute (La)  
   * Conquête des Gaules (La)  
   * Cri des Apaches (Le)  
+  * Criminel (Le)  
+  * Empty (The)  
   * Gendarme et cinématographe  
+  * Je criais contre la vie ou pour elle  
+  * Jeune fille sans mains (La)  
+  * Journaux de Lipsett (Les)  
   * Mont Chef (Le)  
   * Planet A  
   * Raid Paris-Le Cap-Paris (Le)  
+  * Repas dominical (Le)  
   * Reportage cinématographique moderne : un incendie à Genève (Le)  
   * Roi des aulnes (Le)  
   * Start of the Gordon Bennett Balloon Race  

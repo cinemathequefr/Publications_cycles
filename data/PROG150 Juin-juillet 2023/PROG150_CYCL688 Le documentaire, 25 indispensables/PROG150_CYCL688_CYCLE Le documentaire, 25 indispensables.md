@@ -95,7 +95,7 @@ Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ d
 [79092]  
 **Être et avoir**  
 de Nicolas Philibert  
-France / 2001 / 104 min / VF / DCP  
+France / 2001 / 104 min / DCP  
 Immersion au cœur de l'école d'un petit village d'Auvergne, dans son unique classe, qui va de la maternelle au CM2. Jour après jour, on suit le quotidien de cette petite communauté d'enfants qui s'organise autour de l'instituteur.
 
 - sa 24 juin 18h00 HL  
@@ -189,7 +189,7 @@ Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ d
 **Nanouk l'esquimau**  
 **(Nanook of the North)**  
 de Robert J. Flaherty  
-États-Unis / 1920 / 50 min / INT. FR. / DCP  
+États-Unis / 1920 / 50 min / INT. FR.  
 Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo.
 
 - di 25 juin 14h30 HL  

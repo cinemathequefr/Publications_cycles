@@ -105,20 +105,19 @@
       {
         "items": [
           {
-            "idFilm": 154365,
-            "titre": "Roi des aulnes",
+            "idFilm": 154396,
+            "titre": "Criminel",
             "art": "Le",
-            "titreVo": "Erlkönig",
-            "realisateurs": "Georges Schwizgebel",
-            "annee": 2015,
-            "pays": "Suisse",
+            "realisateurs": "Gianluigi Toccafondo",
+            "annee": 1993,
+            "pays": "France-Italie",
             "textes": [
               {
                 "typeTexte": 9,
-                "texte": "Un père tenant son fils dans les bras chevauche dans la forêt. L'enfant malade croit voir le roi des aulnes l'inviter à venir à lui."
+                "texte": "Récit de la cavale d'un criminel à travers la ville."
               }
             ],
-            "duree": 6,
+            "duree": 5,
             "format": "DCP",
             "version": "",
             "ordre": 1
@@ -143,6 +142,23 @@
             "ordre": 2
           },
           {
+            "idFilm": 143177,
+            "titre": "Je criais contre la vie ou pour elle",
+            "realisateurs": "Vergine Keaton",
+            "annee": 2009,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Dans une forêt, un troupeau de cerfs se retourne contre la meute de chiens qui le poursuivait jusque-là. De cette étrange course naissent des paysages s'élevant du sol."
+              }
+            ],
+            "duree": 9,
+            "format": "DCP",
+            "version": "",
+            "ordre": 3
+          },
+          {
             "idFilm": 154362,
             "titre": "Planet A",
             "realisateurs": "Momoko Seto",
@@ -157,14 +173,156 @@
             "duree": 8,
             "format": "DCP",
             "version": "",
-            "ordre": 3
+            "ordre": 4
+          },
+          {
+            "idFilm": 154397,
+            "titre": "Repas dominical",
+            "art": "Le",
+            "realisateurs": "Céline Devaux",
+            "annee": 2015,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Dimanche. Au cours du repas, Jean observe les membres de sa famille. Ils lui posent des questions sans écouter ses réponses, lui donnent des conseils qu'ils ne suivent pas, ils le frappent et le giflent, mais c'est normal : c'est le repas dominical."
+              }
+            ],
+            "duree": 13,
+            "format": "DCP",
+            "version": "",
+            "ordre": 5
+          },
+          {
+            "idFilm": 154365,
+            "titre": "Roi des aulnes",
+            "art": "Le",
+            "titreVo": "Erlkönig",
+            "realisateurs": "Georges Schwizgebel",
+            "annee": 2015,
+            "pays": "Suisse",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Un père tenant son fils dans les bras chevauche dans la forêt. L'enfant malade croit voir le roi des aulnes l'inviter à venir à lui."
+              }
+            ],
+            "duree": 6,
+            "format": "DCP",
+            "version": "",
+            "ordre": 6
+          },
+          {
+            "idFilm": 154399,
+            "titre": "Chute",
+            "art": "La",
+            "realisateurs": "Boris Labbé",
+            "annee": 2018,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Lorsque les êtres qui habitent le ciel viennent contaminer ceux de la terre, l'ordre du monde est bouleversé. C'est le début d'une chute tragique de laquelle naîtront les enfers et, à l'opposé, les cercles du paradis."
+              }
+            ],
+            "duree": 14,
+            "format": "DCP",
+            "version": "",
+            "ordre": 7
+          },
+          {
+            "idFilm": 132976,
+            "titre": "Empty",
+            "art": "The",
+            "realisateurs": "Jeong Dahee",
+            "annee": 2016,
+            "pays": "France-Corée",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Des souvenirs s'accumulent et disparaissent sans cesse comme de la poussière dans la chambre de la femme. L'homme y passe du temps, en créant de petits jeux inutiles avec ses souvenirs à elle."
+              }
+            ],
+            "duree": 9,
+            "format": "DCP",
+            "version": "",
+            "ordre": 8
+          },
+          {
+            "idFilm": 74281,
+            "titre": "Au premier dimanche d'août",
+            "realisateurs": "Florence Miailhe",
+            "annee": 2000,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Sud de la France, un dimanche d'août. Petit à petit, la place du village s'anime, les musiciens s'accordent, les enfants crient, la fête commence."
+              }
+            ],
+            "duree": 11,
+            "format": "DCP",
+            "version": "",
+            "ordre": 9
+          },
+          {
+            "idFilm": 154400,
+            "titre": "Journaux de Lipsett",
+            "art": "Les",
+            "realisateurs": "Theodore Ushev",
+            "annee": 2010,
+            "pays": "Canada",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Journal intime transfiguré en bombardement d'images et de sons, exploration d'une prodigieuse frénésie créatrice, tableau illustrant la chute vertigineuse d'un artiste dans la dépression et la folie."
+              }
+            ],
+            "duree": 14,
+            "format": "DCP",
+            "version": "",
+            "ordre": 10
           }
         ],
         "seances": [
           {
             "idSeance": 91445,
-            "ordre": 2,
+            "ordre": 9,
             "dateHeure": "2023-04-21T18:30:00",
+            "idSalle": [
+              "JE",
+              "Jean Epstein"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "idFilm": 154401,
+            "titre": "Jeune fille sans mains",
+            "art": "La",
+            "realisateurs": "Sébastien Laudenbach",
+            "annee": 2016,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Un meunier vend sa fille au diable contre une pluie d'or aussi brillant que sale. Le diable lui demande aussi de lui couper les mains."
+              }
+            ],
+            "duree": 73,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 93009,
+            "ordre": 1,
+            "dateHeure": "2023-04-21T21:00:00",
             "idSalle": [
               "JE",
               "Jean Epstein"
@@ -343,7 +501,7 @@
               }
             ],
             "duree": 23,
-            "format": "35 mm",
+            "format": "DCP",
             "version": "",
             "ordre": 1
           },

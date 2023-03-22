@@ -29,12 +29,11 @@ Séance présentée par Noémie Jean
 
 Dans le cadre d'une important don autour du cinéma d'animation organisé par l'intermédiaire de la galerie Miyu, première galerie d'art au monde dédiée à l'animation contemporaine, dix grands cinéastes d'animation français et internationaux ont offert à la Cinémathèque française des films et documents graphiques issus de leurs différents processus créatifs. Cette soirée propose un long et des courts métrages de cinéastes différents : une manière également de montrer toute la diversité et la richesse de création du cinéma d'animation indépendant d'aujourd'hui à travers les films de Céline Devaux, Dahee Jeong, Vergine Keaton, Boris Labbé, Florence Miailhe, Georges Schwizgebel, Momoko Seto, Gianluigi Toccafondo, Theodore Ushev et Koji Yamamura. Merci au Fresnoy, aux Films de l'Arlequin, à Insolence Productions et à Sacrebleu Productions, tous ces défricheurs de talents sans qui ce don et cette programmation n'auraient pu se faire. Le fonds de Sacrebleu Productions est conservé en grande partie par la Cinémathèque de Grenoble. Cette projection accompagne une exposition à la Galerie Miyu (101, rue du Temple, 75003 Paris), qui présentera du vendredi 21 avril au samedi 6 mai 2023 une sélection de documents graphiques.
 
-[154365]  
-**Le Roi des aulnes**  
-**(Erlkönig)**  
-de Georges Schwizgebel  
-Suisse / 2015 / 6 min / DCP  
-Un père tenant son fils dans les bras chevauche dans la forêt. L'enfant malade croit voir le roi des aulnes l'inviter à venir à lui.  
+[154396]  
+**Le Criminel**  
+de Gianluigi Toccafondo  
+France-Italie / 1993 / 5 min / DCP  
+Récit de la cavale d'un criminel à travers la ville.  
 suivi de  
 [154364]  
 **Le Mont Chef**  
@@ -43,13 +42,64 @@ de Kōji Yamamura
 Japon / 2002 / 10 min / DCP  
 Après avoir avalé des noyaux de cerises, un homme avare voit pousser sur sa tête un cerisier. Les ennuis commencent...  
 suivi de  
+[143177]  
+**Je criais contre la vie ou pour elle**  
+de Vergine Keaton  
+France / 2009 / 9 min / DCP  
+Dans une forêt, un troupeau de cerfs se retourne contre la meute de chiens qui le poursuivait jusque-là. De cette étrange course naissent des paysages s'élevant du sol.  
+suivi de  
 [154362]  
 **Planet A**  
 de Momoko Seto  
 France / 2008 / 8 min / DCP  
-Le monde est devenu une planète desséchée, où la culture excessive du coton est la cause principale de la désertification. Ce phénomène fait écho à la désertification de la mer d'Aral, avec toujours l'homme pour responsable.
+Le monde est devenu une planète desséchée, où la culture excessive du coton est la cause principale de la désertification. Ce phénomène fait écho à la désertification de la mer d'Aral, avec toujours l'homme pour responsable.  
+suivi de  
+[154397]  
+**Le Repas dominical**  
+de Céline Devaux  
+France / 2015 / 13 min / DCP  
+Dimanche. Au cours du repas, Jean observe les membres de sa famille. Ils lui posent des questions sans écouter ses réponses, lui donnent des conseils qu'ils ne suivent pas, ils le frappent et le giflent, mais c'est normal : c'est le repas dominical.  
+suivi de  
+[154365]  
+**Le Roi des aulnes**  
+**(Erlkönig)**  
+de Georges Schwizgebel  
+Suisse / 2015 / 6 min / DCP  
+Un père tenant son fils dans les bras chevauche dans la forêt. L'enfant malade croit voir le roi des aulnes l'inviter à venir à lui.  
+suivi de  
+[154399]  
+**La Chute**  
+de Boris Labbé  
+France / 2018 / 14 min / DCP  
+Lorsque les êtres qui habitent le ciel viennent contaminer ceux de la terre, l'ordre du monde est bouleversé. C'est le début d'une chute tragique de laquelle naîtront les enfers et, à l'opposé, les cercles du paradis.  
+suivi de  
+[132976]  
+**The Empty**  
+de Jeong Dahee  
+France-Corée / 2016 / 9 min / DCP  
+Des souvenirs s'accumulent et disparaissent sans cesse comme de la poussière dans la chambre de la femme. L'homme y passe du temps, en créant de petits jeux inutiles avec ses souvenirs à elle.  
+suivi de  
+[74281]  
+**Au premier dimanche d'août**  
+de Florence Miailhe  
+France / 2000 / 11 min / DCP  
+Sud de la France, un dimanche d'août. Petit à petit, la place du village s'anime, les musiciens s'accordent, les enfants crient, la fête commence.  
+suivi de  
+[154400]  
+**Les Journaux de Lipsett**  
+de Theodore Ushev  
+Canada / 2010 / 14 min / DCP  
+Journal intime transfiguré en bombardement d'images et de sons, exploration d'une prodigieuse frénésie créatrice, tableau illustrant la chute vertigineuse d'un artiste dans la dépression et la folie.
 
 - ve 21 avr 18h30 JE
+
+[154401]  
+**La Jeune fille sans mains**  
+de Sébastien Laudenbach  
+France / 2016 / 73 min / DCP  
+Un meunier vend sa fille au diable contre une pluie d'or aussi brillant que sale. Le diable lui demande aussi de lui couper les mains.
+
+- ve 21 avr 21h00 JE
 
 ## Les as de la manivelle
 
@@ -104,7 +154,7 @@ Séance présentée par Priska Morrissey et Iris Deniozou
 [154298]  
 **Autour de La Cousine Bette**  
 de Max de Rieux  
-France / 1928 / 23 min / 35 mm  
+France / 1928 / 23 min / DCP  
 Après un casting pour le film _La Cousine Bette_, les comédiens sélectionnés font une démonstration des costumes et des décors dans une salle de spectacle. Le tournage en extérieur sollicite plusieurs opérateurs et de nombreux figurants.  
 suivi de  
 [154300]  

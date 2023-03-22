@@ -389,7 +389,7 @@ Byun Young-joo, fondatrice du collectif Parituh, recueille la parole de six Cor�
 [154220]  
 **Murmures, une histoire de femmes coréennes**  
 **(Najeun moksori)**  
-de Young-Joo Byun  
+de Byun Young-joo  
 Corée / 1995 / 98 min / VOSTF / Numérique  
 Avec Sun-deok Kim, Ok-nyeon Park, Yeong-suk Lee.  
 « BYUN Young-joo explique que le titre de la trilogie _Murmures_ signifie 'les voix basses mais puissantes des femmes qui ont toujours été victimes dans le tourbillon de l'histoire' ». (Lee Heejung)
@@ -609,8 +609,7 @@ France / 2005 / 4 min / Numérique
 Fragments d'amour échevelés et sonores.  
 suivi de  
 [154063]  
-**Pour une nuit**  
-**(One night stand)**  
+**One-Night Stand**  
 d'Émilie Jouvet  
 France / 2006 / 84 min / Numérique  
 Avec Judy Minx, Wendy Delorme, Tcharly, Ophé, Sony.  
@@ -684,7 +683,8 @@ de Danielle Arbid
 France-Liban / 2008 / 20 min / DCP  
 Danielle Arbid filme la libération d'une parole interdite ou barrée dans l'espace public, celle de la jeunesse libanaise qui s'exprime sur la sexualité.
 
-- me 14 juin 20h30 JE
+- me 14 juin 20h30 JE  
+Séance présentée par Danielle Arbid
 
 ## Séance 41 : Mots, lovers, lumières
 
@@ -790,7 +790,8 @@ de Nazli Dincel
 Turquie / 2015 / 9 min / Numérique  
 « Avec une angoisse adolescente, elle refuse l'orgasme à tout autre qu'elle-même. » (Light Cone)
 
-- ve 16 juin 18h30 JE
+- ve 16 juin 18h30 JE  
+Séance présentée par Derek Woolfenden
 
 ## Séance 44 : Horreurs et fiertés
 

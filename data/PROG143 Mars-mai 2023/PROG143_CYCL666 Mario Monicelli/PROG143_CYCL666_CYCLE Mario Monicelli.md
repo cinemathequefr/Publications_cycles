@@ -518,7 +518,7 @@ En se rendant au chevet de son père mourant, un homme rencontre une actrice am�
 
 ## Rencontres et conférences
 
-**Film + Dialogue avec Jean-François Rauger**  
+**Dialogue avec Jean-François Rauger**  
 _Un bourgeois tout petit, petit_ est considéré par les historiens du cinéma comme le dernier représentant de ce que l'on a appelé la comédie « à l'italienne ». À vrai dire, c'est un film littéralement cassé en deux : « Je voulais faire un film à deux faces : une première partie très amusante, une comédie "à l'italienne" avec quelques touches un peu cruelles (...) et une seconde partie inversée, pleine de sang et d'horreur. » Les déboires dérisoires et mesquins de l'Italien moyen faisant place, en cours de projection, à l'irruption d'une tragédie qui serait pourtant moins une contradiction de la douteuse euphorie des années 1960 que l'expression de sa vérité profonde. Ce sont littéralement les promesses de la modernisation de l'Italie, à la faveur d'un développement économique sans aucune mesure, qui sont taillées en pièces dans cette œuvre, adaptée, avec Sergio Amidei, par Vincenzo Cerami d'après son propre roman.
 
 Jean-François Rauger  
@@ -527,7 +527,7 @@ Jean-François Rauger est directeur de la programmation à la Cinémathèque fra
 - sa 29 avr 14h30 HL  
 À la suite de la projection de _Un bourgeois tout petit, petit_ de Mario Monicelli (voir p. xx)
 
-**Film + Dialogue avec René Marx**  
+**Dialogue avec René Marx**  
 Rencontre animée par Jean-François Rauger  
 « Avec Totò, aucune complaisance n'est possible. Ce n'est pas un petit comique régional, ni même un bon comique national. C'est un géant du cinéma, qui ne laisse, comme sa ville, Naples, aucune prise à l'attendrissement niaiseux. » (René Marx)
 

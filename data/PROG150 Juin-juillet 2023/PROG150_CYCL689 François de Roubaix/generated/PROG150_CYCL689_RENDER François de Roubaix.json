@@ -34,13 +34,14 @@
         "seances": [
           {
             "idSeance": 104043,
-            "ordre": 1,
+            "ordre": 2,
             "dateHeure": "2023-06-23T16:00:00",
             "idSalle": [
               "GF",
               "Georges Franju"
             ],
-            "typeEvenement": 13
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Montagnes magiques_ de Robert Enrico"
           }
         ]
       },
@@ -89,7 +90,7 @@
           }
         ],
         "duree": 0,
-        "format": "35 mm",
+        "format": "DCP",
         "version": "",
         "seances": [
           {
@@ -216,8 +217,8 @@
           "Francis Blanche",
           "Roland Dubillard"
         ],
-        "duree": 100,
-        "format": "35 mm",
+        "duree": 95,
+        "format": "DCP",
         "version": "",
         "seances": [
           {
@@ -253,13 +254,14 @@
         "seances": [
           {
             "idSeance": 104069,
-            "ordre": 1,
+            "ordre": 2,
             "dateHeure": "2023-06-25T16:15:00",
             "idSalle": [
               "GF",
               "Georges Franju"
             ],
-            "typeEvenement": 13
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Thaumetopoea_ de Robert Enrico"
           }
         ]
       },
@@ -276,6 +278,9 @@
             "texte": "Après un hold-up, Jeff, le chef de la bande, disparaît avec le butin. Toute la bande se lance à sa poursuite, sauf Laurent. Soupçonné par les autres d'être un complice, Laurent part de son côté à la recherche du traître, accompagnée d'Eva, la maîtresse de Jeff."
           }
         ],
+        "duree": 92,
+        "format": "",
+        "version": "",
         "seances": [
           {
             "idSeance": 104180,
@@ -321,6 +326,36 @@
               "Georges Franju"
             ],
             "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 73254,
+        "typeEvenement": 13,
+        "titre": "Montagnes magiques",
+        "realisateurs": "Robert Enrico",
+        "annee": 1962,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Commandité par la Région Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont Louis et le centre de recherche de Bazet."
+          }
+        ],
+        "duree": 19,
+        "format": "DCP",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104043,
+            "ordre": 1,
+            "dateHeure": "2023-06-23T16:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film suivi de _Les Aventuriers_ de Robert Enrico"
           }
         ]
       },
@@ -423,6 +458,36 @@
               "Georges Franju"
             ],
             "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 154391,
+        "typeEvenement": 13,
+        "titre": "Thaumetopoea",
+        "realisateurs": "Robert Enrico",
+        "annee": 1960,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "A sa sortie de l'IDHEC, Robert Enrico réalise des courts-métrages industriels et agricoles. Dans _Thaumetopoea_, il décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin."
+          }
+        ],
+        "duree": 23,
+        "format": "DCP",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104069,
+            "ordre": 1,
+            "dateHeure": "2023-06-25T16:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film suivi de _Les Grandes gueules_ de Robert Enrico"
           }
         ]
       }

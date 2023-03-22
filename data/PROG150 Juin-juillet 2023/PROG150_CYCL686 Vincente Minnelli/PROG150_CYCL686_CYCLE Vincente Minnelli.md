@@ -20,7 +20,7 @@ de Vincente Minnelli
 États-Unis / 1964 / 117 min / VOSTF  
 D'après la pièce _Goodbye Charlie_ de George Axelrod.  
 Avec Tony Curtis, Debbie Reynolds.  
-Charlie est un sacré séducteur ! Le jour où il est abattu par un mari jaloux, il se réincarne sous les traits d'une fort jolie blonde. Il se fait alors passer pour la veuve de Charlie, mais ne risque-t-il pas dès lors de s'attirer les foudres de son ex-maîtresse ?.
+Charlie est un sacré séducteur ! Le jour où il est abattu par un mari jaloux, il se réincarne sous les traits d'une fort jolie blonde et se fait alors passer pour la veuve de Charlie.
 
 - di 9 juil 19h30 HL  
 - ve 28 juil 15h30 GF
@@ -99,7 +99,7 @@ Un réalisateur, une actrice et un scénariste a qui l'on propose un nouveau con
 de Vincente Minnelli  
 États-Unis / 1956 / 117 min / VOSTF / 35 mm  
 Avec Gregory Peck, Lauren Bacall.  
-Marilla et Mike se rencontrent et s'épousent, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents., lui est chroniqueur sportif, elle est dessinatrice de mode.
+Marilla et Mike se rencontrent et s'épousent, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents: lui est chroniqueur sportif, elle est dessinatrice de mode.
 
 - me 28 juin 20h00 HL  
 Ouverture de la rétrospective  
@@ -119,7 +119,7 @@ La jeune Gigi, élevée par sa grand-mère et sa grande tante, est destinée à 
 **Histoire de trois amours : Mademoiselle**  
 **(The Story of Three Loves : Mademoiselle)**  
 de Vincente Minnelli  
-États-Unis / 1952 / 122 min / VO / 35 mm  
+États-Unis / 1952 / 122 min / VOSTF / 35 mm  
 Avec Leslie Caron, Ethel Barrymore, Farley Granger.  
 A bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour.
 
@@ -154,7 +154,7 @@ Un enfant de sept ans déploie des trésors d'imagination pour trouver une nouve
 de Vincente Minnelli  
 États-Unis / 1955 / 112 min / VO / 35 mm  
 Avec Howard Keel, Ann Blyth, Jack Elam.  
-A Bagdad, les aventures du poète hadji qui s'unit a la fille du Grand Vizir.
+A Bagdad, les aventures du poète hadji qui s'unit à la fille du Grand Vizir.
 
 - ve 14 juil 20h15 HL  
 - ve 21 juil 18h00 HL
@@ -325,7 +325,7 @@ de Vincente Minnelli
 États-Unis / 1952 / 112 min / VOSTF / DCP  
 D'après la nouvelle _Strategy of Love_ de Peter Viertel.  
 Avec Cyd Charisse, Ava Gardner, Fred Astaire.  
-Un artiste déchu revient à New York et y retrouve ses deux vieux amis. Très vite, ils se lancent dans la création d'une comédie musicale et engage un metteur en scène prétentieux qui va leur donner du fil à retordre.  
+Un artiste déchu revient à New York et y retrouve ses deux vieux amis. Très vite, ils se lancent dans la création d'une comédie musicale et engagent un metteur en scène prétentieux qui va leur donner du fil à retordre.  
 Copie 35 mm Technicolor originale (tirage par imbibition) issue des collections de Lowell Peterson, ASC à l'Academy Film Archive.
 
 - sa 1 juil 20h00 HL  
@@ -395,7 +395,7 @@ Johnny, un petit voleur, usurpe l'identité de Candle, ange gardien auprès de l
 [34230]  
 **Ziegfeld Follies**  
 de Norman Taurog, George Sidney, Vincente Minnelli, [etc.]  
-États-Unis / 1944 / 110 min / VO / 35 mm  
+États-Unis / 1944 / 110 min / VOSTF / 35 mm  
 Avec William Powell, Fred Astaire, Lucille Ball.  
 Le grand Ziegfeld est au ciel, et de là-haut rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme avant, numéros comiques, dansés, chantés se succèdent.
 

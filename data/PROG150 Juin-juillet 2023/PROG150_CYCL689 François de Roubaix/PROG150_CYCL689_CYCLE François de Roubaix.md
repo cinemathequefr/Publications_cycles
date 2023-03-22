@@ -11,7 +11,8 @@ Avec Alain Delon, Lino Ventura, Joanna Shimkus.
 Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de s'emparer d'un trésor contenu dans un avion englouti. Au large du Congo, leur quête va les mettre en grands dangers.  
 Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. En avant première de sa ressortie cet été par Héliotrope Films dans le cadre de la rétrospective « Robert Enrico – Les années 60 ».
 
-- ve 23 juin 16h00 GF
+- ve 23 juin 16h00 GF  
+Film précédé de _Montagnes magiques_ de Robert Enrico
 
 [129571]  
 **Comment ça va ? J'm'en fous = Les Malentendus**  
@@ -26,7 +27,7 @@ Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Al
 [48800]  
 **Dernier domicile connu**  
 de José Giovanni  
-France-Italie / 1969 / 35 mm  
+France-Italie / 1969 / DCP  
 L'inspecteur Léonetti est réprimandé et envoyé dans un commissariat de seconde zone. Il y rencontre la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un meurtrier. Le duo se lance à sa recherche.
 
 - je 22 juin 20h00 HL  
@@ -63,7 +64,7 @@ Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Al
 [50109]  
 **La Grande lessive (!)**  
 de Jean-Pierre Mocky  
-France / 1968 / 100 min / 35 mm  
+France / 1968 / 95 min / DCP  
 Avec Bourvil, Francis Blanche, Roland Dubillard.  
 Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
 
@@ -76,12 +77,13 @@ France-Italie / 1965 / 128 min / DCP
 D'après le roman _Le Haut-Fer_ de José Giovanni.  
 Hector Valentin revient dans ses Vosges natales hériter de la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main d'œuvre bon marché.
 
-- di 25 juin 16h15 GF
+- di 25 juin 16h15 GF  
+Film précédé de _Thaumetopoea_ de Robert Enrico
 
 [34700]  
 **Jeff**  
 de Jean Herman  
-France / 1968  
+France / 1968 / 92 min  
 Après un hold-up, Jeff, le chef de la bande, disparaît avec le butin. Toute la bande se lance à sa poursuite, sauf Laurent. Soupçonné par les autres d'être un complice, Laurent part de son côté à la recherche du traître, accompagnée d'Eva, la maîtresse de Jeff.
 
 - di 25 juin 19h00 GF
@@ -94,6 +96,15 @@ Avec Delphine Seyrig, Danielle Ouimet, John Karlen.
 Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
 
 - ve 23 juin 20h30 GF
+
+[73254]  
+**Montagnes magiques**  
+de Robert Enrico  
+France / 1962 / 19 min / DCP  
+Commandité par la Région Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont Louis et le centre de recherche de Bazet.
+
+- ve 23 juin 16h00 GF  
+Film suivi de _Les Aventuriers_ de Robert Enrico
 
 [70969]  
 **Morgane et ses nymphes**  
@@ -123,6 +134,15 @@ D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.
 En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini. Leur père, expatrié en Asie, apprend la nouvelle et décide de rentrer pour se venger.
 
 - sa 24 juin 21h30 GF
+
+[154391]  
+**Thaumetopoea**  
+de Robert Enrico  
+France / 1960 / 23 min / DCP  
+A sa sortie de l'IDHEC, Robert Enrico réalise des courts-métrages industriels et agricoles. Dans _Thaumetopoea_, il décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.
+
+- di 25 juin 16h15 GF  
+Film suivi de _Les Grandes gueules_ de Robert Enrico
 
 ## Rencontres et conférences
 

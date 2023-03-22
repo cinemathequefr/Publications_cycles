@@ -432,10 +432,6 @@ Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis,
 
 ## Rencontres et conférences
 
-**Séance : « Ah, les petites femmes de Méliès ! »**
-
-- sa 17 juin 15h00 GF
-
 **Film + Dialogue entre Dominique PaÏni et Dominique Rabourdin**  
 Dès leur jeunesse, les futurs surréalistes se passionnent pour le cinéma et sa liberté sans limite : « Jamais aucun moyen d'expression n'a enregistré autant d'espoir que le cinéma », dit Benjamin Péret. « C'est là que se célèbre le seul mystère _absolument moderne_ », écrit André Breton. Et il ajoute, en novembre 1951, dans _L'Âge du cinéma_ : « Ce qu'il y a de plus spécifique dans les moyens du cinéma, c'est de toute évidence le pouvoir de concrétiser les puissances de l'amour qui restent malgré tout déficientes dans les livres, du seul fait que rien ne peut y rendre la séduction ou la détresse d'un regard – « ou de certains vertiges sans prix ». Quelles traines incomparables, à jamais étincelantes, laissent à cet égard dans le souvenir des films comme _Ah ! Le beau voyage_ \[_A Little Journey_, Robert Z. Leonard, 1927\] ou Peter Ibbetson et comme les chances suprêmes de la vie se tamisent sous leur rayon ! » Dans _L'Amour fou_, Breton est revenu sur la beauté de _Peter Ibbetson_, « ce film prodigieux, triomphe de la pensée surréaliste » – sans jamais citer son metteur en scène, Henry Hathaway. Il n'était pas adepte de la politique des auteurs... Quant à _Ah ! Le beau voyage_, tourné au temps du Muet, il est à ce jour considéré comme perdu...  
 **Dominique Païni** a dirigé la Cinémathèque française de 1991 à 2000. Essayiste, programmateur et commissaire d'expositions, il a publié plusieurs livres sur le cinéma. Avec l'historienne de l'art Alix Agret, il est commissaire de l'exposition « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars – 10 septembre 2023).  

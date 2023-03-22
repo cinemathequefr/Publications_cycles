@@ -48,7 +48,7 @@
   * Sacerdote (El)  
   * Semaine d'un assassin (La)
 
-## François de Roubaix (13)
+## François de Roubaix (15)
 
   * Aventuriers (Les)  
   * Comment ça va ? J'm'en fous = Les Malentendus  
@@ -60,9 +60,11 @@
   * Grandes gueules (Les)  
   * Jeff  
   * Lèvres rouges (Les)  
+  * Montagnes magiques  
   * Morgane et ses nymphes  
   * Samouraï (Le)  
-  * Saut de l'ange (Le)
+  * Saut de l'ange (Le)  
+  * Thaumetopoea
 
 ## Jeune public (17)
 
@@ -158,8 +160,8 @@
   * Mutantes  
   * Noema  
   * Oliver  
+  * One-Night Stand  
   * Parabellum Girl  
-  * Pour une nuit  
   * Prehistoric Cabaret  
   * Prince of peace  
   * Ready-Made with Pelle Lowe  
@@ -295,6 +297,10 @@
   * Un chien andalou  
   * Very Eye of Night (The)  
   * Within the Law
+
+## Séances spéciales (1)
+
+  * Peau douce (La)
 
 ## Vincente Minnelli (33)
 
