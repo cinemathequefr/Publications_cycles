@@ -55,7 +55,7 @@
   * Planet A  
   * Raid Paris-Le Cap-Paris (Le)  
   * Reportage cinématographique moderne : un incendie à Genève (Le)  
-  * Roi des Aulnes (Le)  
+  * Roi des aulnes (Le)  
   * Start of the Gordon Bennett Balloon Race  
   * Une cité cinématographique moderne  
   * Une cité française du cinéma

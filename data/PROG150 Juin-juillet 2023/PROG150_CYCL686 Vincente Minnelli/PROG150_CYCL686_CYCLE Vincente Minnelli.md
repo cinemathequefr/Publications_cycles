@@ -75,8 +75,9 @@ Laura Reynolds, peintre anticonformiste, vit sur la côte californienne avec son
 **(Some Came Running)**  
 de Vincente Minnelli  
 États-Unis / 1958 / 137 min / VOSTF / 35 mm  
+D'après lz roman _Comme un torrent_ de James Jones.  
 Avec Frank Sinatra, Dean Martin, Shirley MacLaine, Arthur Kennedy.  
-Après la guerre, un vétéran retourne dans sa ville natale avec des ambitions d'écrivain et flanqué d'une fille séduite dans un bar. Il y retrouve son frère Frank, fait la connaissance d'un joueur professionnel et d'une prof de littérature.
+Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, et flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tout point son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature.
 
 - me 5 juil 19h00 HL  
 - sa 22 juil 19h30 HL
@@ -134,7 +135,7 @@ Avec Judy Garland, Robert Walker.
 En 1945, lors d'une permission de 48 heures, un soldat rencontre par hasard une jeune fille à Pennsylvania Station. Il passe sa permission avec elle et finit par tomber amoureux de la jolie New-yorkaise.
 
 - je 29 juin 18h00 HL  
-- ve 21 juil 18h00 HL
+- je 13 juil 16h00 GF
 
 [61789]  
 **Il faut marier papa**  
@@ -146,7 +147,7 @@ Avec Glenn Ford, Shirley Jones.
 Un enfant de sept ans déploie des trésors d'imagination pour trouver une nouvelle épouse à son père.
 
 - di 9 juil 17h00 HL  
-- ve 21 juil 15h30 GF
+- ve 14 juil 16h00 GF
 
 [35222]  
 **Kismet**  
@@ -155,8 +156,8 @@ de Vincente Minnelli
 Avec Howard Keel, Ann Blyth, Jack Elam.  
 A Bagdad, les aventures du poète hadji qui s'unit a la fille du Grand Vizir.
 
-- je 13 juil 15h30 GF  
-- ve 14 juil 20h00 HL
+- ve 14 juil 20h15 HL  
+- ve 21 juil 18h00 HL
 
 [34254]  
 **Lame de fond**  
@@ -256,8 +257,8 @@ de Vincente Minnelli
 Avec Angela Lansbury, Rex Harrison.  
 Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leur fille Jane fasse son entrée dans le monde. Ils veulent la fiancer à un jeune homme, mais Mabel Claremont, une cousine, convoite le même garçon pour sa propre fille, alors que Jane va s'éprendre, de son côté, d'un musicien américain.
 
-- ve 14 juil 16h00 GF  
-- ve 14 juil 18h00 HL
+- ve 14 juil 18h15 HL  
+- ve 21 juil 16h00 GF
 
 [35245]  
 **Les Quatre cavaliers de l'Apocalypse**  
@@ -389,7 +390,7 @@ Avec Fred Astaire.
 Johnny, un petit voleur, usurpe l'identité de Candle, ange gardien auprès de la riche et belle Yolanda, afin de lui dérober ses biens.
 
 - sa 1 juil 17h30 HL  
-- ve 21 juil 20h00 HL
+- ve 21 juil 20h30 HL
 
 [34230]  
 **Ziegfeld Follies**  

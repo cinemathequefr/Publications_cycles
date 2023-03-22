@@ -87,7 +87,8 @@ de Yervant Gianikian, Angela Ricci Lucchi
 Italie / 1981 / 15 min / Numérique  
 Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.
 
-- sa 3 juin 18h30 GF
+- sa 3 juin 18h30 GF  
+Séance présentée par Stéphane Gérard et Lionel Soukaz
 
 ## Séance 26 : Cinéma de la transgression, par Romain Pinteaux
 
@@ -622,7 +623,8 @@ France / 2008 / 6 min / Numérique
 Avec Wendy Delorme.  
 « Eve s'éveille au Paradis, trouve une pomme... et commet un délicieux péché. » (E.J.) Une réinterprétation du mythe d'Ève qui donne beaucoup à penser.
 
-- me 14 juin 18h00 JE
+- me 14 juin 18h00 JE  
+Séance présentée par Émilie Jouvet
 
 ## Séance 40 : Rafales et une faille
 

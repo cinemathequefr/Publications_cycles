@@ -53,7 +53,7 @@ Avec Glenn Ford, Shirley Jones.
 Un enfant de sept ans déploie des trésors d'imagination pour trouver une nouvelle épouse à son père.
 
 - di 9 juil 17h00 HL  
-- ve 21 juil 15h30 GF
+- ve 14 juil 16h00 GF
 
 [45718]  
 **Le Livre de la jungle**  

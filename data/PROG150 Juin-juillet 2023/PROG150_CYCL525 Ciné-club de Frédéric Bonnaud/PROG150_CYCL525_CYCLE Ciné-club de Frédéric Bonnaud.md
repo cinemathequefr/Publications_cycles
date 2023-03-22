@@ -9,7 +9,7 @@ Une fois par mois, le Ciné-club de Frédéric Bonnaud, directeur de la Cinémat
 **(Nicht versöhnt oder Es hilft nur Gewalt, wo Gewalt herrscht)**  
 de Jean-Marie Straub, Danièle Huillet  
 RFA / 1965  
-D'après le roman _Les Deux sacrements_ de Heinrich Böll.  
+D'après le roman _Les Deux Sacrements_ de Heinrich Böll.  
 Avec Henning Harmssen, Ulrich Hopmann, Ulrich von Thüna, Ernst Kutzinski.  
 Des personnages non réconciliés avec leur passé reviennent sur cinquante ans d'histoire allemande, des années 1910 au miracle économique de l'après-guerre.
 
@@ -20,8 +20,9 @@ Des personnages non réconciliés avec leur passé reviennent sur cinquante ans 
 **(Some Came Running)**  
 de Vincente Minnelli  
 États-Unis / 1958 / 137 min / VOSTF / 35 mm  
+D'après lz roman _Comme un torrent_ de James Jones.  
 Avec Frank Sinatra, Dean Martin, Shirley MacLaine, Arthur Kennedy.  
-Après la guerre, un vétéran retourne dans sa ville natale avec des ambitions d'écrivain et flanqué d'une fille séduite dans un bar. Il y retrouve son frère Frank, fait la connaissance d'un joueur professionnel et d'une prof de littérature.
+Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, et flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tout point son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature.
 
 - me 5 juil 19h00 HL
 

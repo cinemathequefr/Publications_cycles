@@ -78,7 +78,7 @@ D'après le roman _Shaft_ d'Ernest Tidyman.
 Avec Richard Roundtree, Moses Gunn, Charles Cioffi.  
 John Shaft, détective privé afro-américain travaillant à Harlem, est engagé par un gros trafiquant de drogue dont la fille a été enlevée.
 
-- ve 30 juin 19h00 GF
+- ve 14 juil 19h00 GF
 
 [65471]  
 **Les Trafiquants d'hommes**  
@@ -88,7 +88,7 @@ de John Guillermin
 Avec Richard Roundtree, Frank Finlay, Vonetta McGee.  
 En Afrique, le détective Shaft est chargé de démanteler un réseau de trafiquants d'esclaves.
 
-- ve 30 juin 21h15 GF
+- ve 14 juil 21h15 GF
 
 ## Polars français des années 80
 
@@ -121,7 +121,7 @@ Liechtenstein-France / 1971 / 93 min / VF / 35 mm
 Avec Christina von Blanc, Howard Vernon, Britt Nichols, Paul Muller.  
 À la mort de son père, Christina arrive à Londres pour prendre connaissance du testament. Elle s'installe dans le château familial et découvre d'étranges personnages, qui se livrent à des jeux érotiques où se mêle le vampirisme.
 
-- ve 14 juil 19h00 GF
+- ve 30 juin 19h00 GF
 
 [102885]  
 **Le Cabaret des filles perverses**  
@@ -131,7 +131,7 @@ France-Suisse / 1976 / 72 min / VOSTF / 35 mm
 Avec Martine Fléty, Sarah Strasberg, Erik Falk.  
 Derrère un cabaret de strip-tease, le Blue Rita, il se cache une redoutable organisation criminelle louant ses services au plus offrant.
 
-- ve 14 juil 21h00 GF
+- ve 30 juin 21h00 GF
 
 ## Histoire permanent du kung-fu
 

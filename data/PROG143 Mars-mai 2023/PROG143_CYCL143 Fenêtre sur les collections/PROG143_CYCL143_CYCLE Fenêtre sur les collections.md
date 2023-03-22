@@ -30,15 +30,15 @@ Séance présentée par Noémie Jean
 Dans le cadre d'une important don autour du cinéma d'animation organisé par l'intermédiaire de la galerie Miyu, première galerie d'art au monde dédiée à l'animation contemporaine, dix grands cinéastes d'animation français et internationaux ont offert à la Cinémathèque française des films et documents graphiques issus de leurs différents processus créatifs. Cette soirée propose un long et des courts métrages de cinéastes différents : une manière également de montrer toute la diversité et la richesse de création du cinéma d'animation indépendant d'aujourd'hui à travers les films de Céline Devaux, Dahee Jeong, Vergine Keaton, Boris Labbé, Florence Miailhe, Georges Schwizgebel, Momoko Seto, Gianluigi Toccafondo, Theodore Ushev et Koji Yamamura. Merci au Fresnoy, aux Films de l'Arlequin, à Insolence Productions et à Sacrebleu Productions, tous ces défricheurs de talents sans qui ce don et cette programmation n'auraient pu se faire. Le fonds de Sacrebleu Productions est conservé en grande partie par la Cinémathèque de Grenoble. Cette projection accompagne une exposition à la Galerie Miyu (101, rue du Temple, 75003 Paris), qui présentera du vendredi 21 avril au samedi 6 mai 2023 une sélection de documents graphiques.
 
 [154365]  
-**Le Roi des Aulnes**  
+**Le Roi des aulnes**  
 **(Erlkönig)**  
 de Georges Schwizgebel  
 Suisse / 2015 / 6 min / DCP  
-Un père tenant son fils dans les bras chevauche dans la forêt. L'enfant malade croit voir le roi des aulnes qui l'invite à venir avec lui.  
+Un père tenant son fils dans les bras chevauche dans la forêt. L'enfant malade croit voir le roi des aulnes l'inviter à venir à lui.  
 suivi de  
 [154364]  
 **Le Mont Chef**  
-**(Atama Yama)**  
+**(Atama-yama)**  
 de Kōji Yamamura  
 Japon / 2002 / 10 min / DCP  
 Après avoir avalé des noyaux de cerises, un homme avare voit pousser sur sa tête un cerisier. Les ennuis commencent...  
