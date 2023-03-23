@@ -18,7 +18,7 @@ France / 1972 / 17 min / DCP
 Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli formant un manteau autour du corps. Sa nage ressemble à une danse, la danse serpentine mise à la mode par Loïe Fuller.
 
 - me 28 juin 18h30 GF  
-Film suivi de _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard-l'hermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
+Film suivi de _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
 
 [154376]  
 **Les Amours de la pieuvre**  
@@ -27,13 +27,13 @@ France / 1965 / 13 min / DCP
 Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers.
 
 - me 28 juin 18h30 GF  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé et suivi de de _Le Bernard-l'hermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
+Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé et suivi de de _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
 
 [50522]  
-**Le Bernard-l'hermite**  
+**Le Bernard l'ermite**  
 de Jean Painlevé  
 France / 1929 / 13 min  
-Le Bernard-l'hermite est un crustacé marin qui habite les coquilles vides. Pour en choisir une, il l'inspecte, la mesure et la soupèse.
+Le bernard-l'ermite est un crustacé marin qui habite les coquilles vides. Pour en choisir une, il l'inspecte, la mesure et la soupèse.
 
 - me 28 juin 18h30 GF  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé et suivi de de _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
@@ -125,7 +125,7 @@ France / 1933 / 16 min / DCP
 Les images spectaculaires d'un hippocampe mâle enceinte donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante.
 
 - me 28 juin 18h30 GF  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard-l'hermite_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
+Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
 
 [53328]  
 **L'Homme à la caméra**  
@@ -154,7 +154,7 @@ France / 1929 / 13 min / DCP
 Présentation de petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales.
 
 - me 28 juin 18h30 GF  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard-l'hermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
+Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
 
 [58050]  
 **Le Joli Mai**  
@@ -212,7 +212,7 @@ France / 1928 / 13 min / DCP
 La Pieuvre a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.
 
 - me 28 juin 18h30 GF  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard-l'hermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé et suivi de de _Le Vampire_ de Jean Painlevé
+Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé et suivi de de _Le Vampire_ de Jean Painlevé
 
 [56070]  
 **Pour la suite du monde**  
@@ -299,7 +299,7 @@ France / 1939 / 9 min / 35 mm
 Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Amérique du sud, possiblement à l'origine du _Nosferatu_ de F. W. Murnau.
 
 - me 28 juin 18h30 GF  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard-l'hermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé
+Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé
 
 [62606]  
 **Welfare**  

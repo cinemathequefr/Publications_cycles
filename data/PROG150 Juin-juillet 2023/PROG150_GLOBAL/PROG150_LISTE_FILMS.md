@@ -211,7 +211,7 @@
   * 1974, une partie de campagne  
   * Acéra ou le bal des sorcières  
   * Amours de la pieuvre (Les)  
-  * Bernard-l'hermite (Le)  
+  * Bernard l'ermite (Le)  
   * Chagrin et la Pitié (Le)  
   * Chronique d'un été  
   * Deux Marseillaises (Les)  
