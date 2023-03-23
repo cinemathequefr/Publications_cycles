@@ -182,7 +182,8 @@ Espagne / 1972 / 108 min / VOSTF / DCP
 Avec Vicente Parra, Emma Cohen, Eusebio Poncela.  
 Employé dans une usine de découpe de viande, Marcos mène une vie solitaire dans sa cité d'immeubles gris. Un soir, il embrasse sa petite amie sur la banquette arrière d'un taxi et le chauffeur la gifle. Marcos le tue involontairement.
 
-- me 12 juil 20h00 HL
+- me 12 juil 20h00 HL  
+Ouverture de la rétrospective
 
 [154351]  
 **El Techo de cristal**  
