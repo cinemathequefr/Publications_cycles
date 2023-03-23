@@ -133,7 +133,7 @@ Derrère un cabaret de strip-tease, le Blue Rita, il se cache une redoutable org
 
 - ve 30 juin 21h00 GF
 
-## Histoire permanent du kung-fu
+## Histoire permanente du kung-fu
 
 [44405]  
 **Les Invincibles de Shaolin**  

@@ -83,15 +83,6 @@ La lutte quotidienne du village de Vin-Linh, sur le 17<sup>e</sup> parallèle, d
 
 - je 6 juil 20h15 GF
 
-[58055]  
-**En passant par la Lorraine**  
-de Georges Franju  
-France / 1949 / 32 min / 35 mm  
-À travers son agriculture traditionnelle et son industrie florissante, une découverte de la Lorraine et de son sous-sol, riche en charbon et en minerai de fer.
-
-- lu 26 juin 20h00 GF  
-Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju et suivi de de _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
-
 [79092]  
 **Être et avoir**  
 de Nicolas Philibert  
@@ -145,7 +136,8 @@ Un film sur le Musée de l'armée à l'hôtel des Invalides, qui se transforme e
 Copie neuve de la Cinémathèque française tirée en collaboration avec Gaumont.
 
 - lu 26 juin 20h00 GF  
-Film précédé de _Les Poussières_ de Georges Franju et suivi de d'_En passant par la Lorraine_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
+Séance présentée par Joël Daire  
+Film précédé de _Les Poussières_ de Georges Franju et suivi de de _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju
 
 [65711]  
 **Hyas, sténorinque, spirographe**  
@@ -168,7 +160,7 @@ Paris, mai 1962. La guerre d'Algérie vient de s'achever. Les Parisiens témoign
 [38514]  
 **La Jungle plate**  
 **(De Platte jungle)**  
-de Johan Van der Keuken  
+de Johan van der Keuken  
 Pays-Bas / 1978 / 90 min  
 La Waddenzee, « mer des terres humides », est une région naturelle unique, zone côtière des Pays-Bas, de l'Allemagne et du Danemark qui, selon les marées, est tantôt mer ou tantôt terre. Johan van der Keuken filme cette « jungle plate », sa faune, sa flore et ses habitants.
 
@@ -182,6 +174,17 @@ Allemagne / 1938 / 103 min / VOSTF
 
 - di 2 juil 21h15 GF
 
+[57843]  
+**Mon chien**  
+de Georges Franju  
+France / 1955 / 25 min / 35 mm  
+Avec Jacqueline Lemaire.  
+Une famille habitant une maison bourgeoise de la banlieue parisienne part en vacances. Sur la route, les parents abandonnent le chien de leur petite fille dans la forêt.
+
+- lu 26 juin 20h00 GF  
+Séance présentée par Joël Daire  
+Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
+
 [57842]  
 **Monsieur et Madame Curie**  
 de Georges Franju  
@@ -191,7 +194,8 @@ Avec Nicole Stéphane, Lucien Hubert, Lucien Barjon.
 Portrait de Pierre et Marie Curie, chercheurs de génie, dont les travaux menèrent à la découverte du radium et de la radioactivité.
 
 - lu 26 juin 20h00 GF  
-Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _En passant par la Lorraine_ de Georges Franju et suivi de de _Le Sang des bêtes_ de Georges Franju
+Séance présentée par Joël Daire  
+Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju et suivi de de _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju
 
 [41219]  
 **Nanouk l'esquimau**  
@@ -230,7 +234,8 @@ France / 1954 / 22 min / 16 mm
 Après avoir identifié les diverses sources de poussière, ce documentaire s'attache à observer l'effet qu'elles provoquent sur la santé de l'homme, en particulier dans le cadre de son travail.
 
 - lu 26 juin 20h00 GF  
-Film suivi de _Hôtel des Invalides_ de Georges Franju, _En passant par la Lorraine_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
+Séance présentée par Joël Daire  
+Film suivi de _Hôtel des Invalides_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju
 
 [31875]  
 **Primary**  
@@ -265,7 +270,8 @@ Documentaire consacré aux abattoirs parisiens de Vaugirard et de la Villette da
 Franju dépasse le réalisme du reportage en installant une atmosphère poétique, voire fantastique.
 
 - lu 26 juin 20h00 GF  
-Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _En passant par la Lorraine_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju
+Séance présentée par Joël Daire  
+Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju et suivi de de _Mon chien_ de Georges Franju
 
 [75848]  
 **Sobibor, 14 octobre 1943, 16 heures**  

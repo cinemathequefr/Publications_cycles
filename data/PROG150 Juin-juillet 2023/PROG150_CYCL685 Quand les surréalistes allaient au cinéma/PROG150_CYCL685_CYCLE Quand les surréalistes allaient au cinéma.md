@@ -372,7 +372,8 @@ D'après la pièce de théâtre _Peter Ibbetson_ de John Nathaniel Raphael.
 Avec Gary Cooper, Ann Harding, John Halliday, Ida Lupino.  
 Au 19e siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse.
 
-- di 18 juin 14h30 HL
+- di 18 juin 14h30 HL  
+Voir aussi dialogue p. xx
 
 [34496]  
 **Le Portrait de Dorian Gray**  
@@ -437,5 +438,6 @@ Dès leur jeunesse, les futurs surréalistes se passionnent pour le cinéma et s
 **Dominique Païni** a dirigé la Cinémathèque française de 1991 à 2000. Essayiste, programmateur et commissaire d'expositions, il a publié plusieurs livres sur le cinéma. Avec l'historienne de l'art Alix Agret, il est commissaire de l'exposition « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars – 10 septembre 2023).  
 **Dominique Rabourdin** est cinéphile – tendance Nickelodeon... –, critique, historien du cinéma et du surréalisme, réalisateur de célèbres émissions de télévision : _Archives du XXème siècle_, _Un siècle d'écrivains_, _André Breton par André Breton_, _Souvenirs de l'Âge d'or, Serge Daney – Itinéraire d'un ciné-fils_, _Quelques jours avec Douglas Sirk_, _Michel Bouquet – Ma vocation d'acteur_, _Krzysztof Kieślowski_, _Max Schoendorff_. En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place).
 
-- di 18 juin 14h30 HL
+- di 18 juin 14h30 HL  
+À la suite de la projection de _Peter Ibbetson_ de Henry Hathaway (voir p. xx)
 

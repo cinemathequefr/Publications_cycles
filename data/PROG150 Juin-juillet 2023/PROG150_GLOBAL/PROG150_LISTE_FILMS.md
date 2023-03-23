@@ -1,5 +1,14 @@
 # Liste des films par cycle
 
+## Aujourd'hui le cinéma (6)
+
+  * Christopher At Sea  
+  * Coupeur de route  
+  * Dents du bonheur (Les)  
+  * Forêt Debussy  
+  * Jeanne Dinde  
+  * La Sorcière et le martien
+
 ## Ciné-club de Frédéric Bonnaud (2)
 
   * Comme un torrent  
@@ -48,10 +57,21 @@
   * Semaine d'un assassin (La)  
   * Techo de cristal (El)
 
+## Fenêtre sur les collections (8)
+
+  * A travers le Cameroun, le Gabon et Congo  
+  * Archie Shepp chez les touaregs  
+  * Boudjemâa et la maison cinéma  
+  * Dans la brousse annamite  
+  * Festival panafricain d'Alger  
+  * Nord 70° 22°  
+  * Rome plutôt que vous  
+  * Traversée de l'Amérique du Sud en automobile (La)
+
 ## François de Roubaix (15)
 
   * Aventuriers (Les)  
-  * Comment ça va ? J'm'en fous = Les Malentendus  
+  * Comment ça va ? J'm'en fous  
   * Dernier domicile connu  
   * Far from Dallas  
   * François de Roubaix l'aventurier  
@@ -217,7 +237,6 @@
   * Deux Marseillaises (Les)  
   * Dieux du stade (Les)  
   * Dix-septième parallèle (Le)  
-  * En passant par la Lorraine  
   * Être et avoir  
   * Général Idi Amin Dada  
   * Glaneurs et la Glaneuse (Les)  
@@ -228,6 +247,7 @@
   * Joli Mai (Le)  
   * Jungle plate (La)  
   * La Fête des peuples  
+  * Mon chien  
   * Monsieur et Madame Curie  
   * Nanouk l'esquimau  
   * Pieuvre (La)  
@@ -355,7 +375,7 @@
   * Hommes du président (Les)  
   * Inspecteur Harry (L')  
   * Jeremiah Johnson  
-  * John Mac Cabe  
+  * John McCabe  
   * Klute  
   * Luke la main froide  
   * Mean Streets  

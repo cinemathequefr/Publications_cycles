@@ -171,7 +171,7 @@ Jeremiah Johnson, fuyant la violence du monde civilisé, s'enfonce dans les mont
 - me 14 juin 20h30 GF
 
 [30210]  
-**John Mac Cabe**  
+**John McCabe**  
 **(McCabe and Mrs Miller)**  
 de Robert Altman  
 États-Unis / 1970 / 120 min / VOSTF / DCP  

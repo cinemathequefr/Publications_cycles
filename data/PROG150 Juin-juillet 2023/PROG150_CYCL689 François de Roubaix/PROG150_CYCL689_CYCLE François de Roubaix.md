@@ -15,7 +15,7 @@ Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. 
 Film précédé de _Montagnes magiques_ de Robert Enrico
 
 [129571]  
-**Comment ça va ? J'm'en fous = Les Malentendus**  
+**Comment ça va ? J'm'en fous**  
 de François de Roubaix  
 France / 1975 / 10 min  
 Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie. Dernier court-métrage de François de Roubaix, sorti à titre posthume.
@@ -49,7 +49,7 @@ Documentaire présentant des extraits d'archives, de films et des témoignages d
 
 - me 28 juin 19h00 JE  
 Séance présentée par Jean-Yves Guilleux  
-Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous = Les Malentendus_ de François de Roubaix
+Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous_ de François de Roubaix
 
 [129576]  
 **Le Gobbo**  
@@ -59,7 +59,7 @@ Un mystérieux bossu arrive dans ce petit village corse inquiété par une séri
 
 - me 28 juin 19h00 JE  
 Séance présentée par Jean-Yves Guilleux  
-Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix et suivi de de _Comment ça va ? J'm'en fous = Les Malentendus_ de François de Roubaix
+Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix et suivi de de _Comment ça va ? J'm'en fous_ de François de Roubaix
 
 [50109]  
 **La Grande lessive (!)**  
