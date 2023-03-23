@@ -116,8 +116,8 @@
   * Asparagus  
   * Attendant (The)  
   * Aussi fort que tu peux  
-  * Awake but dreaming  
-  * Baby doll  
+  * Awake But Dreaming  
+  * Baby Doll  
   * Barbie aussi peut être triste  
   * Blanc X  
   * Blanche  
@@ -125,19 +125,17 @@
   * Blue Movie  
   * Ce qu'il advient quand de pauvres beaux hétéros postent des photos d'eux sur l'internet  
   * Cette odeur de sexe  
-  * Come with me, swim with you  
-  * Cum In My Heart  
+  * Come With Me, Swim With You  
+  * Cum in My Heart  
   * Dan sak sit  
-  * Die Jungs vom Bahnhof Zoo  
   * Diptychon  
   * Dreams and Past Crimes of the Archduke (The)  
   * Easter  
   * Ecce Homo  
-  * El Guaraches  
   * Electric Desire  
   * Enduring Ornament  
   * Erotique  
-  * Essence d'Absinthe  
+  * Essence d'absinthe  
   * Eva  
   * Exquisite Corpus (The)  
   * Fall of Communism As Seen in Gay Pornography (The)  
@@ -149,25 +147,27 @@
   * Fountain  
   * Fuck  
   * Fuck Tree  
-  * Gracias Amigos  
+  * Gracias amigos  
+  * Guaraches (El)  
   * Habeas Corpus  
-  * Hand to mouth  
+  * Hand to Mouth  
   * Head  
   * Hermaphrodite Bikini  
   * Herstory of porn : Reel to Real  
-  * Heure Autosexuelle (L')  
+  * Heure autosexuelle (L')  
   * India Cabaret TV  
   * ITSOFOMO – In the shadow of forward motion  
   * Ixe  
   * Je ne sais pas qui je suis, mais je sais ce que je pense  
   * Johan  
   * Journal d'un homme marié  
+  * Jungs vom Bahnhof Zoo (Die)  
   * Karima  
   * Kirschenzeit  
   * Kiss 25  
   * La Belle et la Bête  
   * Les Ciseaux  
-  * Lexique Dyslexique  
+  * Lexique dyslexique  
   * Lezzieflick  
   * Light-Sleep (Félálom)  
   * Loads  
@@ -183,12 +183,12 @@
   * One-Night Stand  
   * Parabellum Girl  
   * Prehistoric Cabaret  
-  * Prince of peace  
+  * Prince of Peace  
   * Ready-Made with Pelle Lowe  
   * Rein/Raus  
   * Relax Be Cruel  
   * Removed  
-  * Right side of my brain (The)  
+  * Right Side of My Brain (The)  
   * Rouille  
   * Ruines (Les)  
   * Scieurs / Jouir malgré tout, Opus 2 (Les)  
@@ -203,28 +203,28 @@
   * Survival of the Sickest  
   * Sylvia Kristel, Paris  
   * Sync  
-  * Tell me when you die  
+  * Tabous (Zohre & Manouchehr)  
+  * Tell Me When You Die  
   * The Action  
-  * The color of love  
+  * The Color of Love  
   * The Sex Worker (RhED Arts Project 2016-18)  
   * The Tanti Man  
   * This Is Not an AIDS Advertisement  
-  * Thrust in me  
-  * To the happy few  
+  * Thrust in Me  
+  * To the Happy Few  
   * Troisième œil (Le)  
   * Va te faire enculer  
   * Violentes femmes  
-  * Virtual walk thru 'The Sex Worker' Exhibition, Gasworks Arts Park  
+  * Virtual Walk Thru 'The Sex Worker' Exhibition, Gasworks Arts Park  
   * Warm  
-  * We fuck alone  
-  * What I did last summer  
-  * When I put my hands on your body  
-  * Where evil dwells  
+  * We Fuck Alone  
+  * What I Did Last Summer  
+  * When I Put My Hands on Your Body  
+  * Where Evil Dwells  
   * Whore Pride  
   * Why I Want to Fuck Djokhar Tsarnaev  
   * Zarosli  
-  * Zentrale, 2. Version  
-  * Zohre et Manouchehr = Tabous
+  * Zentrale, 2. Version
 
 ## Le documentaire, 25 indispensables (34)
 

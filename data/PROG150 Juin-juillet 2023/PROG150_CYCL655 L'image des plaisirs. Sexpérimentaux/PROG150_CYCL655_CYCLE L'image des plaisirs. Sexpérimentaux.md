@@ -82,7 +82,7 @@ Avec Jean-François B., François Dantchev, Karine.
 « _X_ est un écartèlement : aux quatre points cardinaux, aux quatre extrémités de la croix, la Guerre, le Sexe, la Religion et la Drogue. » (Guy Hocquenghem)  
 suivi de  
 [154196]  
-**Essence d'Absinthe**  
+**Essence d'absinthe**  
 de Yervant Gianikian, Angela Ricci Lucchi  
 Italie / 1981 / 15 min / Numérique  
 Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.
@@ -95,14 +95,14 @@ Séance présentée par Stéphane Gérard et Lionel Soukaz
 Le Cinéma de la Transgression rassemble ce que l'underground new-yorkais de la fin du siècle a de plus subversif. Une plongée explicite dans le sexe, le sang, les drogues et la marginalité. (Romain Pinteaux)
 
 [154200]  
-**Baby doll**  
+**Baby Doll**  
 de Tessa Hughes-Freeland  
 États-Unis / 1982 / 5 min / Numérique  
 Avec Ferne, Irene.  
 Début des années 1980, New York. Deux go-go girls témoignent, dans les loges d'un bar, de la réputation dont souffrent les travailleuses du sexe. Une prise de conscience entrecoupée de danse érotique et complice, sur une musique de David Bowie. (R.P.)  
 suivi de  
 [154201]  
-**Thrust in me**  
+**Thrust in Me**  
 de Richard Kern, Nick Zedd  
 États-Unis / 1985 / 9 min / Numérique  
 Avec Nick Zedd, Don Houston, Magot Damian.  
@@ -113,7 +113,7 @@ Déambulation dans les rues délabrées du East Village, aux airs de fable nihil
 Début des années 1980, New York. Deux go-go girls témoignent, dans les loges d'un bar, de la réputation dont souffrent les travailleuses du sexe. Une prise de conscience entrecoupée de danse érotique et complice, sur une musique de David Bowie. (R.P.)  
 suivi de  
 [154202]  
-**Where evil dwells**  
+**Where Evil Dwells**  
 de Tommy Turner, David Wojnarowicz  
 États-Unis / 1985 / 32 min / Numérique  
 Avec Joe Coleman, Nancy Coleman, Baby Gregor.  
@@ -124,7 +124,7 @@ Appropriation par l'underground d'un fait divers perpétré par le tueur adolesc
 Début des années 1980, New York. Deux go-go girls témoignent, dans les loges d'un bar, de la réputation dont souffrent les travailleuses du sexe. Une prise de conscience entrecoupée de danse érotique et complice, sur une musique de David Bowie. (R.P.)  
 suivi de  
 [154203]  
-**The Right side of my brain**  
+**The Right Side of My Brain**  
 de Richard Kern  
 États-Unis / 1985 / 23 min / Numérique  
 Avec Lydia Lunch, Norman Westberg, Brian Moran.  
@@ -251,7 +251,7 @@ de David Wojnarowicz, Phil Zwickler
 « Avide du monde et ses offrandes, Wojnarowicz a utilisé le cinéma comme une seconde vue, un carnet visuel et un support d'enregistrement pour nous permettre de voir le monde – même en cendres. »  
 suivi de  
 [154209]  
-**When I put my hands on your body**  
+**When I Put My Hands on Your Body**  
 de David Wojnarowicz, Marion Scemama  
 États-Unis / 1989 / 5 min / VOSTF / Numérique  
 Avec Paul Smith, David Wojnarowicz.  
@@ -284,7 +284,7 @@ de Sadie Benning
 Sadie Benning délivre un message intime et politique sur la nécessité de sortir des codes patriarcaux et de la société hétéronormative.  
 suivi de  
 [154034]  
-**What I did last summer**  
+**What I Did Last Summer**  
 de Charles Atlas  
 États-Unis / 1991 / 12 min / VO / Numérique  
 Avec Connie Fleming, Gina Vetro, Rebecca Weinberg.  
@@ -321,7 +321,7 @@ de Cheryl Donegan
 Performance lactée.  
 suivi de  
 [154040]  
-**Prince of peace**  
+**Prince of Peace**  
 de Hans Scheugl  
 Autriche / 1993 / 8 min / 16 mm  
 « Sans but, sans question. Se rapprochant. Aimant voir. Voir avec amour (amoureusement). Dansant. Peut-on danser tristement ? O.K, pas de question. » (H.S.)
@@ -340,7 +340,7 @@ Avec Thomas Baptiste, Cleo Sylvestre, John Wilson.
 Dans un (vrai) musée consacré à l'histoire de l'esclavage, la Wilberforce House, se déchaînent des fantaisies SM.  
 suivi de  
 [154217]  
-**L'Heure Autosexuelle**  
+**L'Heure autosexuelle**  
 de Michael Curran  
 Grande-Bretagne-Pays-Bas / 1994 / 5 min / DCP  
 Performance à plusieurs pôles gravitationnels.  
@@ -352,7 +352,7 @@ de Mark Street
 Remplois de films pornographiques, colorés et accompagné par la voix d'Anaïs Nin.  
 suivi de  
 [154042]  
-**The color of love**  
+**The Color of Love**  
 de Peggy Ahwesh  
 États-Unis / 1994 / 10 min / 16 mm  
 « Le film de Peggy Ahwesh est une réimpression optique légèrement ralentie d'un film porno des années 70 dans lequel la pourriture chimique a déjà rongé les bords de l'image et menacent de la censurer entièrement. (Amy Taubin)  
@@ -469,7 +469,7 @@ de Naomi Uman
 Remploi d'un film X en 16mm d'où le corps de la femme est effacé (grâce à du dissolvant et de l'eau de Javel) : un moyen de protester contre l'objectivation des femmes.  
 suivi de  
 [154048]  
-**Come with me, swim with you**  
+**Come With Me, Swim With You**  
 de Patty Chang  
 États-Unis / 1999 / 3 min / Numérique  
 Performance, pour une tout autre enfance.  
@@ -488,7 +488,7 @@ Avec Annie Sprinkle, Sirena, Raul Del Rio.
 Annie Sprinkle, artiste et figure de la pornographie et de la communauté queer féministe pro sexe commente avec mordant et humour des extraits de certains des deux cents films qu'elle a réalisés au cours du dernier quart de siècle.  
 suivi de  
 [154050]  
-**Hand to mouth**  
+**Hand to Mouth**  
 de Patty Chang  
 États-Unis / 2000 / 6 min / Numérique  
 Performance à base de ballons gonflés à l'hélium.
@@ -540,7 +540,7 @@ France / 2003 / 5 min / Numérique
 Couple au filtre graffité.  
 suivi de  
 [113175]  
-**To the happy few**  
+**To the Happy Few**  
 de Thomas Draschan, Stella Friedrichs  
 Allemagne / 2003 / 4 min / Numérique  
 Collage cosmique, érotique, frénétique.  
@@ -577,7 +577,7 @@ Belgique / 2003 / 39 min / DCP
 Ce film sur, avec et pour Sylvia Kristel, star planétaire du cinéma érotique, est un témoignage sur l'amour, sur le travail, sur les voyages, sur l'émancipation.  
 suivi de  
 [94573]  
-**Zohre et Manouchehr = Tabous**  
+**Tabous (Zohre & Manouchehr)**  
 de Mitra Farahani  
 France-Iran / 2003 / 70 min / VOSTF / 35 mm  
 D'après le poème _Zohre & Manouchehr_ d'Iraj Mirza.  
@@ -666,7 +666,7 @@ de Marco Brambilla
 « _Sync_ reflète l'expansion exponentielle du sexe graphique et de la brutalité dans la culture populaire et le cinéma contemporains. »  
 suivi de  
 [154058]  
-**We fuck alone**  
+**We Fuck Alone**  
 de Gaspar Noé  
 France / 2006 / 24 min / Numérique  
 Alone avec les images. « Une jeune femme se masturbe avec son ours en peluche. Un homme regarde la scène sur l'écran de sa télévision et se masturbe à l'aide d'une poupée gonflable. » (Côté Court)  
@@ -748,7 +748,7 @@ France / 2012 / 4 min / 16 mm
 Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.  
 suivi de  
 [154234]  
-**Lexique Dyslexique**  
+**Lexique dyslexique**  
 de Derek Woolfenden  
 France / 2012 / 43 min / Numérique  
 Avec Léa Vrina, Derek Woolfenden, Maureen Fazendeiro.  
@@ -798,7 +798,7 @@ Séance présentée par Derek Woolfenden et David Matarasso
 « Je veux goûter à tous les plaisirs dont mon corps est capable. Je ne les donnerai à personne. Je m'enduis d'un mucus de plaisirs, je pratique le rire et les caresses, les sentiments et les sensations. Ma pratique n'existe pas sans la violence à laquelle j'ai survécu et que je porte en moi. Je ne la donnerai pas, j'aime mes blessures, je les enfile comme des perles et les porte sur moi ; elles ne causent plus de douleur, elles luisent de différentes couleurs et scintillent. » (Oksana Kazmina)
 
 [154071]  
-**Tell me when you die**  
+**Tell Me When You Die**  
 d'Amber Bemak, Nadia Granados  
 Mexique / 2015 / 12 min / Numérique  
 « Nous considérons la pénétration comme un rythme cinématographique, et expérimentons/jouons la pénétration par l'air, l'eau, les doigts et le texte. » (AM/NG)  
@@ -834,7 +834,7 @@ Australie / 2018 / 3 min / Numérique
 Présentation d'ensemble du projet RhED à Melbourne, sous l'égide d'Amnesty International, visant à défendre les droits des travailleurs du sexe.  
 suivi de  
 [154241]  
-**Virtual walk thru 'The Sex Worker' Exhibition, Gasworks Arts Park**  
+**Virtual Walk Thru 'The Sex Worker' Exhibition, Gasworks Arts Park**  
 de Tamara Desiatov  
 Australie / 2018 / 4 min / Numérique  
 « Une exposition d'art par des travailleuses du sexe de Victoria, Australie. Une occasion de remettre en question vos propres attitudes et de voir le travail du sexe à travers la perspective des artistes, les travailleuses du sexe elles-mêmes. »  
@@ -864,7 +864,7 @@ France / 2019 / 26 min / Numérique
 À la fois trash, doux et nostalgique, le film évoque à la fois le trouble amoureux qui existe au sein des amitiés, les relations de domination et la fébrilité adolescente.  
 suivi de  
 [154093]  
-**Awake but dreaming**  
+**Awake But Dreaming**  
 de Mathieu Morel  
 France / 2020 / 4 min / Numérique  
 « Exercice de collage entièrement composé de fichiers gifs, likés sur Tumblr en 2019. » (M.M.)  
@@ -876,7 +876,7 @@ France / 2021 / 3 min / Numérique
 Le jour où le film pourra servir de publicité officielle à Adidas, le monde aura vraiment changé.  
 suivi de  
 [154095]  
-**Gracias Amigos**  
+**Gracias amigos**  
 de Mathieu Morel  
 France / 2021 / 2 min / Numérique  
 Cinéaste poli avec les images.  
@@ -888,7 +888,7 @@ France / 2021 / 13 min / Numérique
 Cette adaptation libre, romantique, rock, punk, queer du conte de Mme Leprince de Beaumont est, après les chefs-d'œuvre de Browning, Lynch ou Gonzalez, une célébration des Freaks, des laissé.e.s pour compte, une invitation à l'amour et à la beauté.  
 suivi de  
 [154097]  
-**Cum In My Heart**  
+**Cum in My Heart**  
 de Mathieu Morel  
 France / 2022 / 22 min / Numérique  
 « Le film évoque le suicide adolescent et l'espace douloureux que prend le fantasme lorsque l'on n'a rien d'autre qu'internet pour vivre sa sexualité. » (M.M.)
