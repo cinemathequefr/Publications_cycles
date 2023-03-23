@@ -153,7 +153,7 @@ D'après la pièce _The Pirate_ de S.N. Behrman.
 Avec Gene Kelly, Judy Garland, Lola Albright.  
 Manuela rêve des exploits du pirate Macoco, elle en est amoureuse sans le connaître. Sa tante veut la marier à don Pedro Vargas, un homme riche et influent quand elle rencontre Serafin, un saltimbanque, qui pour la séduire, se fait passer pour le fameux pirate désiré.
 
-- di 2 juil 14h30 HL  
+- di 2 juil 15h00 HL  
 - sa 22 juil 14h30 HL
 
 [32739]  

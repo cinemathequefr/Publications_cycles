@@ -32,7 +32,6 @@
   * Criatura (La)  
   * Cuadrilátero  
   * Diputado (El)  
-  * El techo de cristal  
   * Estanquera de Vallecas (La)  
   * Fantasia 3  
   * Juego de amor prohibido  
@@ -46,7 +45,8 @@
   * Pico (El)  
   * Placeres ocultos (Los)  
   * Sacerdote (El)  
-  * Semaine d'un assassin (La)
+  * Semaine d'un assassin (La)  
+  * Techo de cristal (El)
 
 ## François de Roubaix (15)
 
@@ -206,7 +206,7 @@
   * Zentrale, 2. Version  
   * Zohre et Manouchehr = Tabous
 
-## Le documentaire, 25 indispensables (33)
+## Le documentaire, 25 indispensables (34)
 
   * 1974, une partie de campagne  
   * Acéra ou le bal des sorcières  
@@ -219,7 +219,6 @@
   * Dix-septième parallèle (Le)  
   * En passant par la Lorraine  
   * Être et avoir  
-  * Forteresse blanche (La)  
   * Général Idi Amin Dada  
   * Glaneurs et la Glaneuse (Les)  
   * Hippocampe (L')  
@@ -227,20 +226,22 @@
   * Hôtel des Invalides  
   * Hyas, sténorinque, spirographe  
   * Joli Mai (Le)  
+  * Jungle plate (La)  
+  * La Fête des peuples  
   * Monsieur et Madame Curie  
   * Nanouk l'esquimau  
   * Pieuvre (La)  
   * Pour la suite du monde  
   * Poussières (Les)  
   * Primary  
-  * Primate  
   * Récréations  
   * Reprise  
   * Sang des bêtes (Le)  
   * Sobibor, 14 octobre 1943, 16 heures  
   * Sois belle et tais-toi  
   * Sud  
-  * Vampire (Le)
+  * Vampire (Le)  
+  * Welfare
 
 ## Parlons cinéma avec Hélène Frappat (4)
 

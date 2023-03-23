@@ -6,14 +6,14 @@
 **Algo amargo en la boca**  
 d'Eloy de la Iglesia  
 Espagne / 1969 / 81 min / VOSTF / 35 mm  
-Avec Maruchi Fresno, Juan Diego, Javier De Campos.  
+Avec Maruchi Fresno, Juan Diego, Javier de Campos.  
 Un beau jeune homme passe Noël chez ses trois tantes, qui réagissent chacune très différemment à sa présence.
 
 - sa 15 juil 17h30 GF
 
 [58500]  
 **Le Bal du vaudou**  
-**(Apenas una gota de sangre para morir amando)**  
+**(Una gota de sangre para morir amando)**  
 d'Eloy de la Iglesia  
 Espagne-France / 1973 / 95 min / VOSTF / Numérique  
 Avec Sue Lyon, Christopher Mitchum, Jean Sorel.  
@@ -56,15 +56,6 @@ Avec José Sacristán, Maria Luisa San José, Ángel Pardo.
 Roberto Orbea, député dans un parti de gauche, est mis en prison. À sa sortie, il mène une politique contre le terrorisme, mais un groupuscule franquiste paie sa maîtresse pour le piéger.
 
 - sa 22 juil 15h00 GF
-
-[154351]  
-**El techo de cristal**  
-d'Eloy de la Iglesia  
-Espagne / 1971 / 92 min / VOSTF / Vidéo  
-Avec Carmen Sevilla, Dean Selmier, Patty Shepard.  
-Une jeune femme, Marta, s'ennuie. Comme elle soupçonne sa voisine d'avoir tué son mari Victor, elle décide de mener l'enquête avec l'aide de Ricardo, leur propriétaire.
-
-- sa 15 juil 20h00 GF
 
 [130401]  
 **La Estanquera de Vallecas**  
@@ -192,6 +183,15 @@ Avec Vicente Parra, Emma Cohen, Eusebio Poncela.
 Employé dans une usine de découpe de viande, Marcos mène une vie solitaire dans sa cité d'immeubles gris. Un soir, il embrasse sa petite amie sur la banquette arrière d'un taxi et le chauffeur la gifle. Marcos le tue involontairement.
 
 - me 12 juil 20h00 HL
+
+[154351]  
+**El Techo de cristal**  
+d'Eloy de la Iglesia  
+Espagne / 1971 / 92 min / VOSTF / Vidéo  
+Avec Carmen Sevilla, Dean Selmier, Patty Shepard.  
+Une jeune femme, Marta, s'ennuie. Comme elle soupçonne sa voisine d'avoir tué son mari Victor, elle décide de mener l'enquête avec l'aide de Ricardo, leur propriétaire.
+
+- sa 15 juil 20h00 GF
 
 ## Rencontres et conférences
 

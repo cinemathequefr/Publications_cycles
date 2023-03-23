@@ -40,7 +40,7 @@ Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amou
 
 [50421]  
 **Le Chagrin et la Pitié**  
-de Marcel Ophüls  
+de Marcel Ophuls  
 France-Suisse-RFA / 1969 / 270 min / 35 mm  
 Avec Emmanuel d'Astier de la Vigerie, Georges Bidault, Matthäus Bleibinger.  
 Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse la chronique de cette occupation et des différentes réactions de la population : certains vont s'engager dans la Résistance pendant que d'autres collaborent et dénoncent leurs voisins.
@@ -73,7 +73,7 @@ de Leni Riefenstahl
 Allemagne / 1938 / 127 min / VOSTF / DCP  
 Réalisé pour la propagande nazie lors des Jeux Olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes.
 
-- di 2 juil 18h30 GF
+- di 2 juil 18h00 GF
 
 [54259]  
 **Le Dix-septième parallèle**  
@@ -100,15 +100,6 @@ Immersion au cœur de l'école d'un petit village d'Auvergne, dans son unique cl
 
 - sa 24 juin 18h00 HL  
 Séance présentée par Nicolas Philibert
-
-[68149]  
-**La Forteresse blanche**  
-**(Het Witte kasteel)**  
-de Johan Van der Keuken  
-Pays-Bas / 1973 / 78 min / DCP  
-Une île espagnole est envahie par le tourisme, une usine aux Pays-Bas est occupée par les ouvriers, des jeunes d'un quartier pauvre en Ohio se réunissent dans un camp d'été alternatif. Deuxième volet du triptyque _Nord-Sud_, qui dénonce le modèle consumériste des pays « riches ».
-
-- me 5 juil 18h30 GF
 
 [62245]  
 **Général Idi Amin Dada**  
@@ -174,6 +165,23 @@ Paris, mai 1962. La guerre d'Algérie vient de s'achever. Les Parisiens témoign
 
 - di 25 juin 20h45 HL
 
+[38514]  
+**La Jungle plate**  
+**(De Platte jungle)**  
+de Johan Van der Keuken  
+Pays-Bas / 1978 / 90 min  
+La Waddenzee, « mer des terres humides », est une région naturelle unique, zone côtière des Pays-Bas, de l'Allemagne et du Danemark qui, selon les marées, est tantôt mer ou tantôt terre. Johan van der Keuken filme cette « jungle plate », sa faune, sa flore et ses habitants.
+
+- me 5 juil 18h30 GF
+
+[154395]  
+**La Fête des peuples**  
+**(Olympia)**  
+de Leni Riefenstahl  
+Allemagne / 1938 / 103 min / VOSTF
+
+- di 2 juil 21h15 GF
+
 [57842]  
 **Monsieur et Madame Curie**  
 de Georges Franju  
@@ -212,7 +220,8 @@ de Pierre Perrault, Michel Brault
 Canada / 1962 / 105 min / VOSTF / 35 mm  
 Documentaire poétique et ethnographique sur la vie des habitants de l'Isle-aux-Coudres, leur langue, et la légendaire pêche au marsouin. Abandonnée depuis trente-huit ans, la technique de pêche ancestrale est reconstituée pour le film par les habitants.
 
-- me 28 juin 20h30 GF
+- me 28 juin 20h30 GF  
+Séance présentée par Bernard Benoliel
 
 [48621]  
 **Les Poussières**  
@@ -229,15 +238,7 @@ de Robert Drew
 États-Unis / 1960  
 Chronique de la campagne du futur président Kennedy et du sénateur Humphrey pour les élections primaires du Wisconsin, en 1960.
 
-- me 5 juil 20h15 GF
-
-[53211]  
-**Primate**  
-de Frederick Wiseman  
-États-Unis / 1974 / 105 min / DCP  
-Une étude du comportement des singes en captivité au Yerkes Primate Research Center, à Atlanta, et de celui, ambivalent, des chercheurs pris entre expérimentation inhumaine et relation affective.
-
-- sa 24 juin 20h30 HL
+- me 5 juil 20h30 GF
 
 [63749]  
 **Récréations**  
@@ -299,6 +300,13 @@ Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Am
 
 - me 28 juin 18h30 GF  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard-l'hermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé
+
+[62606]  
+**Welfare**  
+de Frederick Wiseman  
+États-Unis / 1975 / 167 min / DCP
+
+- sa 24 juin 20h30 HL
 
 ## Rencontres et conférences
 

@@ -28,7 +28,7 @@ Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Al
 **Dernier domicile connu**  
 de José Giovanni  
 France-Italie / 1969 / DCP  
-L'inspecteur Léonetti est réprimandé et envoyé dans un commissariat de seconde zone. Il y rencontre la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un meurtrier. Le duo se lance à sa recherche.
+L'inspecteur Léonetti est réprimandé et envoyé dans un commissariat de seconde zone. Il y rencontre la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un meurtrier.
 
 - je 22 juin 20h00 HL  
 Ouverture de la rétrospective
@@ -68,7 +68,7 @@ France / 1968 / 95 min / DCP
 Avec Bourvil, Francis Blanche, Roland Dubillard.  
 Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
 
-- sa 24 juin 19h15 GF
+- sa 24 juin 17h00 GF
 
 [48381]  
 **Les Grandes gueules**  
@@ -84,6 +84,7 @@ Film précédé de _Thaumetopoea_ de Robert Enrico
 **Jeff**  
 de Jean Herman  
 France / 1968 / 92 min  
+Avec Alain Delon, Mireille Darc, Georges Rouquier.  
 Après un hold-up, Jeff, le chef de la bande, disparaît avec le butin. Toute la bande se lance à sa poursuite, sauf Laurent. Soupçonné par les autres d'être un complice, Laurent part de son côté à la recherche du traître, accompagnée d'Eva, la maîtresse de Jeff.
 
 - di 25 juin 19h00 GF
@@ -110,7 +111,8 @@ Film suivi de _Les Aventuriers_ de Robert Enrico
 **Morgane et ses nymphes**  
 de Bruno Gantillon  
 France / 1970 / 86 min  
-Deux françaises, Françoise et Anna, se perdent dans les bois et entrent accidentellement dans le royaume de Morgane, une sorcière. Elle leur propose soit de devenir ses concubines, soit d'être jetées éternellement dans un donjon.
+Avec Dominique Delpierre, Mireille Saunin, Michèle Perello, Alfred Baillou.  
+Deux jeunes femmes, Françoise et Anna, se perdent dans les bois et entrent accidentellement dans le royaume de Morgane, une sorcière. Elle leur propose soit de devenir ses concubines, soit d'être jetées éternellement dans un donjon.
 
 - ve 23 juin 18h30 GF
 
@@ -131,9 +133,10 @@ Voir aussi dialogue p. xx
 de Yves Boisset  
 France-Italie / 1971 / 95 min  
 D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.  
-En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini. Leur père, expatrié en Asie, apprend la nouvelle et décide de rentrer pour se venger.
+Avec Jean Yanne, Senta Berger, Sterling Hayden.  
+En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini et la famille de l'un d'eux, expatrié en Thaïlande. Celui-ci décide de rentrer pour se venger.
 
-- sa 24 juin 21h30 GF
+- sa 24 juin 19h15 GF
 
 [154391]  
 **Thaumetopoea**  

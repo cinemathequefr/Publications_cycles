@@ -33,7 +33,7 @@ D'après la comédie musicale _Brigadoon_ d'Alan Jay Lerner , Frederick Loewe et
 Avec Cyd Charisse, Gene Kelly.  
 Brigadoon : aucune carte ne mentionne ce village qui ne revit qu'une fois tous les cent ans. Deux américains en voyage en Écosse vont s'y perdre.
 
-- di 2 juil 17h45 HL  
+- di 2 juil 18h30 HL  
 - je 27 juil 20h30 HL
 
 [44957]  
@@ -235,7 +235,7 @@ D'après la pièce _The Pirate_ de S.N. Behrman.
 Avec Gene Kelly, Judy Garland, Lola Albright.  
 Manuela rêve des exploits du pirate Macoco, elle en est amoureuse sans le connaître. Sa tante veut la marier à don Pedro Vargas, un homme riche et influent quand elle rencontre Serafin, un saltimbanque, qui pour la séduire, se fait passer pour le fameux pirate désiré.
 
-- di 2 juil 14h30 HL  
+- di 2 juil 15h00 HL  
 - sa 22 juil 14h30 HL
 
 [38027]  
@@ -339,7 +339,7 @@ de Vincente Minnelli
 Avec Gene Kelly, Leslie Caron, Oscar Levant, Georges Guétary.  
 Un peintre américain s'installe à Paris et tombe amoureux non seulement de la ville mais aussi d'une de ses habitantes.
 
-- di 2 juil 20h00 HL  
+- di 2 juil 20h45 HL  
 - di 23 juil 19h15 HL
 
 [44960]  
@@ -404,7 +404,7 @@ Le grand Ziegfeld est au ciel, et de là-haut rêve à une nouvelle revue dans l
 
 ## Rencontres et conférences
 
-**Film + Dialogue avec Jacqueline Nacache ?**
+**Film + Dialogue avec Murielle Joudet**
 
 - je 6 juil 21h00 HL
 

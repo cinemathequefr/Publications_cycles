@@ -7,7 +7,7 @@
 de Tex Avery  
 États-Unis / 1939 / 7 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film suivi d'_A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [154384]  
@@ -15,7 +15,7 @@ Film suivi d'_A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Earl
 de Tex Avery  
 États-Unis / 1941 / 6 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery et suivi de de _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [62680]  
@@ -59,7 +59,7 @@ Film suivi de _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya De
 de Dave Fleischer  
 États-Unis / 1933 / 6 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer et suivi de de _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [96145]  
@@ -68,7 +68,7 @@ Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Aver
 de Dave Fleischer  
 États-Unis / 1934 / 6 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer et suivi de de _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [96187]  
@@ -77,7 +77,7 @@ Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Aver
 de Dave Fleischer  
 États-Unis / 1936 / 6 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer et suivi de de _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [96161]  
@@ -86,7 +86,7 @@ Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Aver
 de Dave Fleischer  
 États-Unis / 1937 / 5 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer
 
 [47184]  
@@ -123,7 +123,7 @@ Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren et suivi
 de Tex Avery  
 États-Unis / 1949 / 7 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery et suivi de d'_Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [154382]  
@@ -131,7 +131,7 @@ Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Aver
 de Tex Avery  
 États-Unis / 1940 / 8 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery et suivi de de _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [154373]  
@@ -193,7 +193,7 @@ Film suivi de _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du 
 de Dave Fleischer  
 États-Unis / 1935 / 6 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer et suivi de de _Candide candidat_ de Dave Fleischer
 
 [154378]  
@@ -201,7 +201,7 @@ Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Aver
 de Tex Avery  
 États-Unis / 1939 / 7 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery et suivi de de _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [35977]  
@@ -241,7 +241,7 @@ de Tex Avery
 États-Unis / 1941 / 8 min / VOSTF / DCP  
 Film de Tex Avery où de nombreux acteurs célèbres parmi lesquels Clark Gable, Henry Fonda, les Marx Brothers, Oliver Hardy et Buster Keaton se côtoient dans une soirée mondaine.
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery et suivi de d'_I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [154369]  
@@ -257,7 +257,7 @@ Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze, _André Breton m
 de Tex Avery  
 États-Unis / 1937 / 7 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery et suivi de de _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [82660]  
@@ -274,7 +274,7 @@ Film précédé de _La Fidélité des images_ de René Magritte, _Histoire de d�
 de Tex Avery  
 États-Unis / 1945 / 7 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery et suivi de de _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [36414]  
@@ -334,7 +334,7 @@ Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui port
 de Dave Fleischer  
 États-Unis / 1935 / 6 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery et suivi de de _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [154368]  
@@ -351,7 +351,7 @@ Film suivi d'_André Breton malgré tout_ de Fabrice Maze, _Hôtel Drouot_ de Fa
 de Dave Fleischer  
 États-Unis / 1934 / 10 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer et suivi de de _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [46205]  
@@ -391,7 +391,7 @@ Restauration 2K par Warner Bros. Pictures.
 de Dave Fleischer  
 États-Unis / 1937 / 6 min / DCP
 
-- sa 24 juin 17h00 GF  
+- sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer et suivi de de _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
 
 [62690]  

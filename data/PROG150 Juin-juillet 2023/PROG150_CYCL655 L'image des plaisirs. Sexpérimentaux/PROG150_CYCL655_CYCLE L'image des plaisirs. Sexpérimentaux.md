@@ -791,7 +791,7 @@ Turquie / 2015 / 9 min / Numérique
 « Avec une angoisse adolescente, elle refuse l'orgasme à tout autre qu'elle-même. » (Light Cone)
 
 - ve 16 juin 18h30 JE  
-Séance présentée par Derek Woolfenden
+Séance présentée par Derek Woolfenden et David Matarasso
 
 ## Séance 44 : Horreurs et fiertés
 
@@ -893,7 +893,8 @@ de Mathieu Morel
 France / 2022 / 22 min / Numérique  
 « Le film évoque le suicide adolescent et l'espace douloureux que prend le fantasme lorsque l'on n'a rien d'autre qu'internet pour vivre sa sexualité. » (M.M.)
 
-- sa 17 juin 16h00 JE
+- sa 17 juin 16h00 JE  
+Séance présentée par Mathieu Morel
 
 ## Séance 46 : Ultimes replis de la pudeur
 
