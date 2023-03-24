@@ -86,7 +86,7 @@
     "items": [
       {
         "idFilm": 31676,
-        "titre": "Epreuve de force",
+        "titre": "Épreuve de force",
         "art": "L'",
         "realisateurs": "Clint Eastwood",
         "annee": 1977,
@@ -180,7 +180,7 @@
     "items": [
       {
         "idConf": 28104,
-        "titre": "« La Magie des automates » par Klaus Lorenz",
+        "titre": "La Magie des automates",
         "sousTitre": "Conférence de Klaus Lorenz",
         "typeConference": "Conférence",
         "duree": 120
@@ -613,7 +613,7 @@
       },
       {
         "idFilm": 127784,
-        "titre": "India Cabaret TV",
+        "titre": "India Cabaret",
         "realisateurs": "Mira Nair",
         "annee": 1985,
         "duree": 58,
@@ -1150,7 +1150,7 @@
     "hashEvenement": "f34744"
   },
   {
-    "idSeance": 100797,
+    "idSeance": 104232,
     "idEvenement": 28231,
     "dateHeure": "2023-06-09T18:45:00",
     "salle": "JE",
@@ -1198,9 +1198,34 @@
     "hashEvenement": "f58714"
   },
   {
+    "idSeance": 104154,
+    "idEvenement": 28127,
+    "dateHeure": "2023-06-09T21:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Raretés de la Warner Bros."
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 89112,
+        "titre": "Rage au cœur",
+        "art": "La",
+        "realisateurs": "George C. Scott",
+        "annee": 1972,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f89112"
+  },
+  {
     "idSeance": 104207,
     "idEvenement": 28232,
-    "dateHeure": "2023-06-09T19:30:00",
+    "dateHeure": "2023-06-09T21:15:00",
     "salle": "JE",
     "cycle": [
       [
@@ -1234,31 +1259,6 @@
       }
     ],
     "hashEvenement": "f90296f154394f146798"
-  },
-  {
-    "idSeance": 104154,
-    "idEvenement": 28127,
-    "dateHeure": "2023-06-09T21:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cinéma bis",
-        "Raretés de la Warner Bros."
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 89112,
-        "titre": "Rage au cœur",
-        "art": "La",
-        "realisateurs": "George C. Scott",
-        "annee": 1972,
-        "duree": 100,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f89112"
   },
   {
     "idSeance": 104106,
@@ -1486,7 +1486,7 @@
       },
       {
         "idFilm": 154047,
-        "titre": "Herstory of porn : Reel to Real",
+        "titre": "Herstory of Porn : Reel to Real",
         "realisateurs": "Carol Leigh, Annie Sprinkle",
         "annee": 1999,
         "duree": 69,
@@ -1708,6 +1708,7 @@
         "Séance 38 : Deviser diviser"
       ]
     ],
+    "mention": "Séance présentée par Mitra Farahani",
     "items": [
       {
         "idFilm": 154227,
@@ -2041,7 +2042,7 @@
     "items": [
       {
         "idFilm": 36741,
-        "titre": "Epouvantail",
+        "titre": "Épouvantail",
         "art": "L'",
         "realisateurs": "Jerry Schatzberg",
         "annee": 1972,
@@ -2138,6 +2139,29 @@
     "hashEvenement": "f35701"
   },
   {
+    "idSeance": 101114,
+    "idEvenement": 28013,
+    "dateHeure": "2023-06-15T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Quand les surréalistes allaient au cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47184,
+        "titre": "Cet obscur objet du désir",
+        "realisateurs": "Luis Buñuel",
+        "annee": 1977,
+        "duree": 102,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f47184"
+  },
+  {
     "idSeance": 103993,
     "idEvenement": 27483,
     "dateHeure": "2023-06-15T20:30:00",
@@ -2185,29 +2209,6 @@
       }
     ],
     "hashEvenement": "f154068f154231f154140f154232"
-  },
-  {
-    "idSeance": 101114,
-    "idEvenement": 28013,
-    "dateHeure": "2023-06-15T21:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Quand les surréalistes allaient au cinéma",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 47184,
-        "titre": "Cet obscur objet du désir",
-        "realisateurs": "Luis Buñuel",
-        "annee": 1977,
-        "duree": 102,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f47184"
   },
   {
     "idSeance": 104110,
@@ -2451,7 +2452,7 @@
       },
       {
         "idFilm": 154241,
-        "titre": "Virtual Walk Thru 'The Sex Worker' Exhibition, Gasworks Arts Park",
+        "titre": "Virtual walk thru 'The Sex Worker' Exhibition, Gasworks Arts Park",
         "realisateurs": "Tamara Desiatov",
         "annee": 2018,
         "duree": 4,
@@ -2907,7 +2908,7 @@
       },
       {
         "idConf": 28034,
-        "titre": "Dialogue entre Dominique PaÏni et Dominique Rabourdin",
+        "titre": "Dialogue entre Dominique Païni et Dominique Rabourdin",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -3209,7 +3210,7 @@
         "realisateurs": "Jean-Louis Comolli, André S. Labarthe",
         "annee": 1968,
         "duree": 108,
-        "format": "DCP"
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f59394"
@@ -3273,6 +3274,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Fabrice Maze",
     "items": [
       {
         "idFilm": 154368,
@@ -3359,6 +3361,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Fabrice Maze",
     "items": [
       {
         "idFilm": 154373,
@@ -3372,7 +3375,7 @@
     "hashEvenement": "f154373"
   },
   {
-    "idSeance": 104043,
+    "idSeance": 104233,
     "idEvenement": 28133,
     "dateHeure": "2023-06-23T16:00:00",
     "salle": "GF",
@@ -3431,7 +3434,7 @@
   {
     "idSeance": 104061,
     "idEvenement": 28135,
-    "dateHeure": "2023-06-23T18:30:00",
+    "dateHeure": "2023-06-23T18:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3453,7 +3456,7 @@
   {
     "idSeance": 104045,
     "idEvenement": 28130,
-    "dateHeure": "2023-06-23T20:30:00",
+    "dateHeure": "2023-06-23T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3501,7 +3504,8 @@
       },
       {
         "idConf": 28168,
-        "titre": "« François de Roubaix, portrait musical » par Stéphane Lerouge",
+        "titre": "François de Roubaix, portrait musical",
+        "sousTitre": "Conférence de Stéphane Lerouge",
         "typeConference": "Dialogue",
         "duree": 45
       }
@@ -3730,7 +3734,7 @@
     "hashEvenement": "f84596f52505f52444f102268f52467f52512f84496"
   },
   {
-    "idSeance": 104069,
+    "idSeance": 104234,
     "idEvenement": 28159,
     "dateHeure": "2023-06-25T16:15:00",
     "salle": "GF",
@@ -3786,9 +3790,9 @@
     "hashEvenement": "f68649"
   },
   {
-    "idSeance": 104180,
+    "idSeance": 104235,
     "idEvenement": 28210,
-    "dateHeure": "2023-06-25T19:00:00",
+    "dateHeure": "2023-06-25T19:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3885,7 +3889,7 @@
       },
       {
         "idFilm": 57842,
-        "titre": "Monsieur et Madame Curie",
+        "titre": "Monsieur et madame Curie",
         "realisateurs": "Georges Franju",
         "annee": 1953,
         "duree": 14,
@@ -4284,8 +4288,8 @@
       {
         "idFilm": 34230,
         "titre": "Ziegfeld Follies",
-        "realisateurs": "Norman Taurog, George Sidney, Vincente Minnelli, [etc.]",
-        "annee": 1944,
+        "realisateurs": "Vincente Minnelli, George Sidney, Roy Del Ruth, Robert Lewis, Lemuel Ayers",
+        "annee": 1945,
         "duree": 110,
         "version": "VOSTF",
         "format": "35 mm"
@@ -6217,8 +6221,8 @@
       {
         "idFilm": 34230,
         "titre": "Ziegfeld Follies",
-        "realisateurs": "Norman Taurog, George Sidney, Vincente Minnelli, [etc.]",
-        "annee": 1944,
+        "realisateurs": "Vincente Minnelli, George Sidney, Roy Del Ruth, Robert Lewis, Lemuel Ayers",
+        "annee": 1945,
         "duree": 110,
         "version": "VOSTF",
         "format": "35 mm"
@@ -6853,7 +6857,7 @@
     "items": [
       {
         "idFilm": 147104,
-        "titre": "Otra vuelta de Tuerca",
+        "titre": "Otra vuelta de tuerca",
         "realisateurs": "Eloy de la Iglesia",
         "annee": 1985,
         "duree": 119,

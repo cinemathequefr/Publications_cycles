@@ -42,6 +42,7 @@ de Fabrice Maze
 France / 2003 / 26 min / Numérique
 
 - je 22 juin 18h30 JE  
+Séance présentée par Fabrice Maze  
 Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze et suivi de de _Hôtel Drouot_ de Fabrice Maze
 
 [62689]  
@@ -97,7 +98,7 @@ D'après le roman _La Femme et le pantin_ de Pierre Louÿs.
 Avec Fernando Rey, Carole Bouquet, Ángela Molina.  
 Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de voyage la passion déchirante qu'il a eue pour Conchita, une jeune femme qui n'a cessé de se dérober à lui.
 
-- je 15 juin 21h30 HL
+- je 15 juin 20h30 HL
 
 [36444]  
 **La Chasse du comte Zaroff**  
@@ -140,7 +141,8 @@ de Fabrice Maze
 France / 2015 / 105 min / Numérique  
 Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe. Un couple mythique.
 
-- je 22 juin 20h15 JE
+- je 22 juin 20h15 JE  
+Séance présentée par Fabrice Maze
 
 [47671]  
 **Entr'acte**  
@@ -250,6 +252,7 @@ de Fabrice Maze
 France / 2003 / 15 min / Numérique
 
 - je 22 juin 18h30 JE  
+Séance présentée par Fabrice Maze  
 Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze, _André Breton malgré tout_ de Fabrice Maze
 
 [154379]  
@@ -343,6 +346,7 @@ de Fabrice Maze
 France / 2003 / 26 min / Numérique
 
 - je 22 juin 18h30 JE  
+Séance présentée par Fabrice Maze  
 Film suivi d'_André Breton malgré tout_ de Fabrice Maze, _Hôtel Drouot_ de Fabrice Maze
 
 [96141]  
@@ -433,10 +437,10 @@ Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis,
 
 ## Rencontres et conférences
 
-**Film + Dialogue entre Dominique PaÏni et Dominique Rabourdin**  
-Dès leur jeunesse, les futurs surréalistes se passionnent pour le cinéma et sa liberté sans limite : « Jamais aucun moyen d'expression n'a enregistré autant d'espoir que le cinéma », dit Benjamin Péret. « C'est là que se célèbre le seul mystère _absolument moderne_ », écrit André Breton. Et il ajoute, en novembre 1951, dans _L'Âge du cinéma_ : « Ce qu'il y a de plus spécifique dans les moyens du cinéma, c'est de toute évidence le pouvoir de concrétiser les puissances de l'amour qui restent malgré tout déficientes dans les livres, du seul fait que rien ne peut y rendre la séduction ou la détresse d'un regard – « ou de certains vertiges sans prix ». Quelles traines incomparables, à jamais étincelantes, laissent à cet égard dans le souvenir des films comme _Ah ! Le beau voyage_ \[_A Little Journey_, Robert Z. Leonard, 1927\] ou Peter Ibbetson et comme les chances suprêmes de la vie se tamisent sous leur rayon ! » Dans _L'Amour fou_, Breton est revenu sur la beauté de _Peter Ibbetson_, « ce film prodigieux, triomphe de la pensée surréaliste » – sans jamais citer son metteur en scène, Henry Hathaway. Il n'était pas adepte de la politique des auteurs... Quant à _Ah ! Le beau voyage_, tourné au temps du Muet, il est à ce jour considéré comme perdu...  
-**Dominique Païni** a dirigé la Cinémathèque française de 1991 à 2000. Essayiste, programmateur et commissaire d'expositions, il a publié plusieurs livres sur le cinéma. Avec l'historienne de l'art Alix Agret, il est commissaire de l'exposition « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars – 10 septembre 2023).  
-**Dominique Rabourdin** est cinéphile – tendance Nickelodeon... –, critique, historien du cinéma et du surréalisme, réalisateur de célèbres émissions de télévision : _Archives du XXème siècle_, _Un siècle d'écrivains_, _André Breton par André Breton_, _Souvenirs de l'Âge d'or, Serge Daney – Itinéraire d'un ciné-fils_, _Quelques jours avec Douglas Sirk_, _Michel Bouquet – Ma vocation d'acteur_, _Krzysztof Kieślowski_, _Max Schoendorff_. En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place).
+**Film + Dialogue entre Dominique Païni et Dominique Rabourdin**  
+[NON RELU]Dès leur jeunesse, les futurs surréalistes se passionnent pour le cinéma et sa liberté sans limite : « Jamais aucun moyen d'expression n'a enregistré autant d'espoir que le cinéma », dit Benjamin Péret. « C'est là que se célèbre le seul mystère _absolument moderne_ », écrit André Breton. Et il ajoute, en novembre 1951, dans _L'Âge du cinéma_ : « Ce qu'il y a de plus spécifique dans les moyens du cinéma, c'est de toute évidence le pouvoir de concrétiser les puissances de l'amour qui restent malgré tout déficientes dans les livres, du seul fait que rien ne peut y rendre la séduction ou la détresse d'un regard – « ou de certains vertiges sans prix ». Quelles traines incomparables, à jamais étincelantes, laissent à cet égard dans le souvenir des films comme _Ah ! Le beau voyage_ \[_A Little Journey_, Robert Z. Leonard, 1927\] ou Peter Ibbetson et comme les chances suprêmes de la vie se tamisent sous leur rayon ! » Dans _L'Amour fou_, Breton est revenu sur la beauté de _Peter Ibbetson_, « ce film prodigieux, triomphe de la pensée surréaliste » – sans jamais citer son metteur en scène, Henry Hathaway. Il n'était pas adepte de la politique des auteurs... Quant à _Ah ! Le beau voyage_, tourné au temps du Muet, il est à ce jour considéré comme perdu...  
+[NON RELU]**Dominique Païni** a dirigé la Cinémathèque française de 1991 à 2000. Essayiste, programmateur et commissaire d'expositions, il a publié plusieurs livres sur le cinéma. Avec l'historienne de l'art Alix Agret, il est commissaire de l'exposition « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars – 10 septembre 2023).  
+[NON RELU]**Dominique Rabourdin** est cinéphile – tendance Nickelodeon... –, critique, historien du cinéma et du surréalisme, réalisateur de célèbres émissions de télévision : _Archives du XXème siècle_, _Un siècle d'écrivains_, _André Breton par André Breton_, _Souvenirs de l'Âge d'or, Serge Daney – Itinéraire d'un ciné-fils_, _Quelques jours avec Douglas Sirk_, _Michel Bouquet – Ma vocation d'acteur_, _Krzysztof Kieślowski_, _Max Schoendorff_. En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place).
 
 - di 18 juin 14h30 HL  
 À la suite de la projection de _Peter Ibbetson_ de Henry Hathaway (voir p. xx)

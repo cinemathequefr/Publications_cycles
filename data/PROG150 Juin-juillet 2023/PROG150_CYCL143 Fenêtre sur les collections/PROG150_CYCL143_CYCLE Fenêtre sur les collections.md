@@ -28,7 +28,7 @@ suivi de
 de Mohammed Latrèche  
 France-Algérie / 2019 / 63 min / DCP
 
-- ve 9 juin 19h30 JE
+- ve 9 juin 21h15 JE
 
 ## Ciné-expéditions
 

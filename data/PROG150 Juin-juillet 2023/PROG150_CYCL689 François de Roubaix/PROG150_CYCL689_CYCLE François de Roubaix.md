@@ -87,7 +87,7 @@ France / 1968 / 92 min
 Avec Alain Delon, Mireille Darc, Georges Rouquier.  
 Après un hold-up, Jeff, le chef de la bande, disparaît avec le butin. Toute la bande se lance à sa poursuite, sauf Laurent. Soupçonné par les autres d'être un complice, Laurent part de son côté à la recherche du traître, accompagnée d'Eva, la maîtresse de Jeff.
 
-- di 25 juin 19h00 GF
+- di 25 juin 19h15 GF
 
 [39701]  
 **Les Lèvres rouges**  
@@ -96,7 +96,7 @@ Belgique-France-RFA-Italie / 1971 / 101 min / DCP
 Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
 Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
 
-- ve 23 juin 20h30 GF
+- ve 23 juin 20h45 GF
 
 [73254]  
 **Montagnes magiques**  
@@ -114,7 +114,7 @@ France / 1970 / 86 min
 Avec Dominique Delpierre, Mireille Saunin, Michèle Perello, Alfred Baillou.  
 Deux jeunes femmes, Françoise et Anna, se perdent dans les bois et entrent accidentellement dans le royaume de Morgane, une sorcière. Elle leur propose soit de devenir ses concubines, soit d'être jetées éternellement dans un donjon.
 
-- ve 23 juin 18h30 GF
+- ve 23 juin 18h45 GF
 
 [50143]  
 **Le Samouraï**  
@@ -149,7 +149,8 @@ Film suivi de _Les Grandes gueules_ de Robert Enrico
 
 ## Rencontres et conférences
 
-**« François de Roubaix, portrait musical » par Stéphane Lerouge**
+**François de Roubaix, portrait musical**  
+**Conférence de Stéphane Lerouge**
 
 - sa 24 juin 14h30 HL  
 À la suite de la projection de _Le Samouraï_ de Jean-Pierre Melville (voir p. xx)

@@ -72,7 +72,7 @@ Quatre citadins américains décident de descendre en canoë une rivière vouée
 - sa 3 juin 15h00 HL
 
 [36741]  
-**L'Epouvantail**  
+**L'Épouvantail**  
 **(Scarecrow)**  
 de Jerry Schatzberg  
 États-Unis / 1972 / 112 min / VOSTF / DCP  
@@ -82,7 +82,7 @@ Après six ans de prison, Max veut aller à Pittsburgh ouvrir un car-wash. Lion 
 - je 15 juin 17h00 GF
 
 [31676]  
-**L'Epreuve de force**  
+**L'Épreuve de force**  
 **(The Gauntlet)**  
 de Clint Eastwood  
 États-Unis / 1977 / 108 min / VOSTF / 35 mm  

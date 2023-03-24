@@ -49,7 +49,7 @@
   * Nadie oyó gritar  
   * Navajeros  
   * Novios bulgaros (Los)  
-  * Otra vuelta de Tuerca  
+  * Otra vuelta de tuerca  
   * Pico 2 (El)  
   * Pico (El)  
   * Placeres ocultos (Los)  
@@ -153,9 +153,9 @@
   * Hand to Mouth  
   * Head  
   * Hermaphrodite Bikini  
-  * Herstory of porn : Reel to Real  
+  * Herstory of Porn : Reel to Real  
   * Heure autosexuelle (L')  
-  * India Cabaret TV  
+  * India Cabaret  
   * ITSOFOMO – In the shadow of forward motion  
   * Ixe  
   * Je ne sais pas qui je suis, mais je sais ce que je pense  
@@ -215,7 +215,7 @@
   * Troisième œil (Le)  
   * Va te faire enculer  
   * Violentes femmes  
-  * Virtual Walk Thru 'The Sex Worker' Exhibition, Gasworks Arts Park  
+  * Virtual walk thru 'The Sex Worker' Exhibition, Gasworks Arts Park  
   * Warm  
   * We Fuck Alone  
   * What I Did Last Summer  
@@ -248,7 +248,7 @@
   * Jungle plate (La)  
   * La Fête des peuples  
   * Mon chien  
-  * Monsieur et Madame Curie  
+  * Monsieur et madame Curie  
   * Nanouk l'esquimau  
   * Pieuvre (La)  
   * Pour la suite du monde  
@@ -367,8 +367,8 @@
   * Bullitt  
   * Cœur est un chasseur solitaire (Le)  
   * Délivrance  
-  * Epouvantail (L')  
-  * Epreuve de force (L')  
+  * Épouvantail (L')  
+  * Épreuve de force (L')  
   * Exorciste (L')  
   * Gens de la pluie (Les)  
   * Graffiti party  

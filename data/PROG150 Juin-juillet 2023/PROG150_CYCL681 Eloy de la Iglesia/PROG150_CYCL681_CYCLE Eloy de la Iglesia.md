@@ -130,7 +130,7 @@ Daniel, un homosexuel aisé, tombe éperdument amoureux de Kyril, un attrayant B
 - sa 29 juil 20h30 GF
 
 [147104]  
-**Otra vuelta de Tuerca**  
+**Otra vuelta de tuerca**  
 d'Eloy de la Iglesia  
 Espagne / 1985 / 119 min / VOSTF / DCP  
 Avec Sánchez Pedro Mari, Queta Claver, Asier Hernández.  

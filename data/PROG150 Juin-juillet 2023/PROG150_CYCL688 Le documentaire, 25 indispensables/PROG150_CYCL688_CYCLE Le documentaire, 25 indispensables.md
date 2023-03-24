@@ -60,7 +60,7 @@ Voir aussi dialogue p. xx
 [59394]  
 **Les Deux Marseillaises**  
 de Jean-Louis Comolli, André S. Labarthe  
-France / 1968 / 108 min / DCP  
+France / 1968 / 108 min / 16 mm  
 À l'occasion de la campagne pour les élections législatives de juin 1968 à Asnières, Jean-Louis Comolli et André S. Labarthe filment au jour le jour les réunions, meetings et allocutions des trois principaux candidats : Albin Chalandon (UDR), Claude Denis (PCF) et Roger Hanin (FGDS).
 
 - me 21 juin 20h00 HL  
@@ -137,7 +137,7 @@ Copie neuve de la Cinémathèque française tirée en collaboration avec Gaumont
 
 - lu 26 juin 20h00 GF  
 Séance présentée par Joël Daire  
-Film précédé de _Les Poussières_ de Georges Franju et suivi de de _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju
+Film précédé de _Les Poussières_ de Georges Franju et suivi de de _Monsieur et madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju
 
 [65711]  
 **Hyas, sténorinque, spirographe**  
@@ -183,10 +183,10 @@ Une famille habitant une maison bourgeoise de la banlieue parisienne part en vac
 
 - lu 26 juin 20h00 GF  
 Séance présentée par Joël Daire  
-Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
+Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
 
 [57842]  
-**Monsieur et Madame Curie**  
+**Monsieur et madame Curie**  
 de Georges Franju  
 France / 1953 / 14 min / 16 mm  
 D'après la biographie _Pierre Curie_ de Marie Curie.  
@@ -235,7 +235,7 @@ Après avoir identifié les diverses sources de poussière, ce documentaire s'at
 
 - lu 26 juin 20h00 GF  
 Séance présentée par Joël Daire  
-Film suivi de _Hôtel des Invalides_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju
+Film suivi de _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju
 
 [31875]  
 **Primary**  
@@ -271,7 +271,7 @@ Franju dépasse le réalisme du reportage en installant une atmosphère poétiqu
 
 - lu 26 juin 20h00 GF  
 Séance présentée par Joël Daire  
-Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et Madame Curie_ de Georges Franju et suivi de de _Mon chien_ de Georges Franju
+Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curie_ de Georges Franju et suivi de de _Mon chien_ de Georges Franju
 
 [75848]  
 **Sobibor, 14 octobre 1943, 16 heures**  

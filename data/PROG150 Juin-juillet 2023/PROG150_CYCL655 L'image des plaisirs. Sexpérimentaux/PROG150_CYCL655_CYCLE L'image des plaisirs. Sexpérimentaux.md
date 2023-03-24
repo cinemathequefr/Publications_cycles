@@ -168,7 +168,7 @@ Avec Paul Alantis, Tony Álvarez.
 Le quotidien d'un jeune homme qui subvient aux besoins de sa famille en se travestissant dans les bars gays de Manille. Structuré par les francs monologues du protagoniste et les commentaires de ses parents, le documentaire décrit les bidonvilles et la dure condition des classes défavorisées sous le règne du dictateur Ferdinand Marcos.  
 suivi de  
 [127784]  
-**India Cabaret TV**  
+**India Cabaret**  
 de Mira Nair  
 Inde / 1985 / 58 min / VOSTF / 16 mm  
 Avec Rekha, Rosy, Vasanti, Lovina, Pussycat.  
@@ -481,7 +481,7 @@ de Patty Chang
 Performance, pour un-e tout autre Narcisse.  
 suivi de  
 [154047]  
-**Herstory of porn : Reel to Real**  
+**Herstory of Porn : Reel to Real**  
 de Carol Leigh, Annie Sprinkle  
 États-Unis / 1999 / 69 min / VOSTF / DCP  
 Avec Annie Sprinkle, Sirena, Raul Del Rio.  
@@ -584,7 +584,8 @@ D'après le poème _Zohre & Manouchehr_ d'Iraj Mirza.
 Avec Coralie Revel, Sophiane Benrezzak.  
 Montage alterné entre l'adaptation d'un poème érotique persan du XIXe siècle, attestant d'une tradition enfouie et d'une liberté enfuie, et les invivables interdits auxquels se heurte la jeunesse iranienne du XXIe siècle.
 
-- di 11 juin 20h15 JE
+- di 11 juin 20h15 JE  
+Séance présentée par Mitra Farahani
 
 ## Séance 39 : Émilie Jouvet. Deux ou trois choses que Jouvet sait d'elles
 
@@ -834,7 +835,7 @@ Australie / 2018 / 3 min / Numérique
 Présentation d'ensemble du projet RhED à Melbourne, sous l'égide d'Amnesty International, visant à défendre les droits des travailleurs du sexe.  
 suivi de  
 [154241]  
-**Virtual Walk Thru 'The Sex Worker' Exhibition, Gasworks Arts Park**  
+**Virtual walk thru 'The Sex Worker' Exhibition, Gasworks Arts Park**  
 de Tamara Desiatov  
 Australie / 2018 / 4 min / Numérique  
 « Une exposition d'art par des travailleuses du sexe de Victoria, Australie. Une occasion de remettre en question vos propres attitudes et de voir le travail du sexe à travers la perspective des artistes, les travailleuses du sexe elles-mêmes. »  

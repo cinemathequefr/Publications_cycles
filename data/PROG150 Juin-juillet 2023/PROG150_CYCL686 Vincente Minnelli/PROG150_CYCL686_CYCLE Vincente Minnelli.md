@@ -394,9 +394,9 @@ Johnny, un petit voleur, usurpe l'identité de Candle, ange gardien auprès de l
 
 [34230]  
 **Ziegfeld Follies**  
-de Norman Taurog, George Sidney, Vincente Minnelli, [etc.]  
-États-Unis / 1944 / 110 min / VOSTF / 35 mm  
-Avec William Powell, Fred Astaire, Lucille Ball.  
+de Vincente Minnelli, George Sidney, Roy Del Ruth, Robert Lewis, Lemuel Ayers  
+États-Unis / 1945 / 110 min / VOSTF / 35 mm  
+Avec William Powell, Fred Astaire, Judy Garland, Lucille Ball.  
 Le grand Ziegfeld est au ciel, et de là-haut rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme avant, numéros comiques, dansés, chantés se succèdent.
 
 - ve 30 juin 18h00 HL  
