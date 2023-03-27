@@ -126,7 +126,7 @@
   * Ce qu'il advient quand de pauvres beaux hétéros postent des photos d'eux sur l'internet  
   * Cette odeur de sexe  
   * Come With Me, Swim With You  
-  * Cum in My Heart  
+  * Cum in My Heart (ou le fabuleux lâcher-prise de Thomas Timbère)  
   * Dan sak sit  
   * Diptychon  
   * Dreams and Past Crimes of the Archduke (The)  
@@ -158,7 +158,6 @@
   * India Cabaret  
   * ITSOFOMO – In the shadow of forward motion  
   * Ixe  
-  * Je ne sais pas qui je suis, mais je sais ce que je pense  
   * Johan  
   * Journal d'un homme marié  
   * Jungs vom Bahnhof Zoo (Die)  
@@ -212,6 +211,7 @@
   * This Is Not an AIDS Advertisement  
   * Thrust in Me  
   * To the Happy Few  
+  * Tra kegro lafi sasam mle ra kgro lafe beln (Je ne sais pas qui je suis mais je sais ce que j'aime)  
   * Troisième œil (Le)  
   * Va te faire enculer  
   * Violentes femmes  

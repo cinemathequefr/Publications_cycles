@@ -853,7 +853,7 @@ L'une des œuvres présentées dans l'exposition « The Sex Worker » (2018), bo
 À chaque instant, le cinéma de Mathieu Morel offre une synthèse tumultueuse, un bouquet explosif en quoi consiste son minimum vital : tragédie/comédie/guignol/élégie, douleurs/ironie/tendresses, plaies et caresses, rêves infantiles et cauchemars sophistiqués, imageries désuètes/voyages dans l'inconnu. Un cinéma d'ami.e.s et d'amant.e.s, amoureux au même titre des Freaks et des Princes, des esclaves et des rois, des Belles et des Bêtes. Un pan-cinéma de notre temps.
 
 [141501]  
-**Je ne sais pas qui je suis, mais je sais ce que je pense**  
+**Tra kegro lafi sasam mle ra kgro lafe beln (Je ne sais pas qui je suis mais je sais ce que j'aime)**  
 de Mathieu Morel  
 France / 2019 / 4 min / Numérique  
 « Je ne sais pas qui je suis mais je sais ce que je pense : images et sons perçues, quand se fige mon esprit. » (Mathieu Morel)  
@@ -889,7 +889,7 @@ France / 2021 / 13 min / Numérique
 Cette adaptation libre, romantique, rock, punk, queer du conte de Mme Leprince de Beaumont est, après les chefs-d'œuvre de Browning, Lynch ou Gonzalez, une célébration des Freaks, des laissé.e.s pour compte, une invitation à l'amour et à la beauté.  
 suivi de  
 [154097]  
-**Cum in My Heart**  
+**Cum in My Heart (ou le fabuleux lâcher-prise de Thomas Timbère)**  
 de Mathieu Morel  
 France / 2022 / 22 min / Numérique  
 « Le film évoque le suicide adolescent et l'espace douloureux que prend le fantasme lorsque l'on n'a rien d'autre qu'internet pour vivre sa sexualité. » (M.M.)
