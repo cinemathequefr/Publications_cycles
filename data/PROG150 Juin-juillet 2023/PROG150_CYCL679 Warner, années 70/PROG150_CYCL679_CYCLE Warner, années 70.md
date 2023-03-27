@@ -17,7 +17,7 @@ Alice, âgée de huit ans, rêve de devenir une star... 27 ans plus tard, elle e
 - me 7 juin 18h30 GF
 
 [33679]  
-**La Ballade sauvage**  
+**La Balade sauvage**  
 **(Badlands)**  
 de Terrence Malick  
 États-Unis / 1973 / 95 min / VOSTF / DCP  
@@ -124,7 +124,7 @@ de Francis Ford Coppola
 Avec James Caan, Robert Duvall, Shirley Knight.  
 Paniquée par la nouvelle de sa grossesse, Natalie Revena quitte le domicile conjugal en ne laissant qu'une lettre à son époux. Sur la route, elle rencontre Jimmy Kilgannon, bouleversé par un accident, à la recherche de sa fiancée.
 
-- lu 5 juin 20h15 GF
+- lu 5 juin 20h15 HL
 
 [35286]  
 **Graffiti party**  
@@ -240,14 +240,14 @@ de Paul Newman
 Avec Joanne Woodward, James Olson, Kate Harrington, Estelle Parsons.  
 Rachel est une institutrice solitaire de 35 ans, qui vit toujours sous l'emprise de sa mère, dans une petite ville du Connecticut. Elle porte tous ses espoirs de changement sur un ami d'enfance de passage, qui l'invite à sortir.
 
-- lu 5 juin 18h00 GF  
+- lu 5 juin 18h00 HL  
 - di 11 juin 20h15 GF
 
 [34068]  
 **Shining**  
 **(The Shining)**  
 de Stanley Kubrick  
-Grande-Bretagne / 1978 / 146 min / VOSTF / DCP  
+Grande-Bretagne / 1980 / 146 min / VOSTF / DCP  
 D'après le roman _Shining : L'enfant lumière_ de Stephen King.  
 Avec Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers.  
 L'auteur Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.

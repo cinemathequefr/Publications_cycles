@@ -429,7 +429,7 @@ Adelaïde, propriétaire d'une florissante usine d'insecticides, meurt d'un choc
 **Totò cherche un appartement**  
 **(Totò cerca casa)**  
 de Mario Monicelli, Steno  
-Italie / 1949 / 82 min / VOSTF / 35 mm  
+Italie / 1949 / 79 min / VOSTF / 35 mm  
 Avec Totò, Alda Mangini, Folco Lulli.  
 Comme tant d'autres Romains, Beniamino Lomacchio a perdu son logement sous les bombardements de la fin de la guerre. D'un vieux cimetière jusqu'au Colisée, il se met en quête d'un nouveau nid pour sa famille.
 

@@ -846,7 +846,8 @@ de Hélio Ribeiro
 Australie / 2018 / 3 min / Numérique  
 L'une des œuvres présentées dans l'exposition « The Sex Worker » (2018), bouleversante revendication politique par un travailleur du sexe.
 
-- ve 16 juin 21h00 JE
+- ve 16 juin 21h00 JE  
+Séance présentée par Geoffroy C. Dedenis
 
 ## Séance 45 : Mathieu Morel. Beginning Bouquet
 

@@ -249,7 +249,7 @@ Chronique de la campagne du futur président Kennedy et du sénateur Humphrey po
 [63749]  
 **Récréations**  
 de Claire Simon  
-France / 1991 / 54 min / 8 mm  
+France / 1991 / 54 min / 35 mm  
 Par l'observation distante d'une cour de récréation de maternelle, Claire Denis révèle les lois et la violence qui régissent ce petit monde de jeux enfantins.
 
 - di 9 juil 17h30 GF
@@ -285,7 +285,7 @@ Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte 
 [67847]  
 **Sois belle et tais-toi**  
 de Delphine Seyrig  
-France / 1977 / 111 min / 35 mm  
+France / 1977 / 111 min / DCP  
 Avec Ellen Burstyn, Jane Fonda, Anne Wiazemsky.  
 Vingt-quatre actrices françaises et américaines parlent de leurs expériences professionnelles en tant que femmes, leurs rôles et leurs rapports avec les réalisateurs et les équipes techniques. Bilan collectif sur une profession qui ne permet que des rôles stéréotypés et aliénants.
 

@@ -44,7 +44,7 @@ Régis, journaliste, revient à Paris après trois ans d'absence. Il entreprend 
 [154377]  
 **François de Roubaix l'aventurier**  
 de Jean-Yves Guilleux, Alexandre Moix  
-France / 2007 / 52 min  
+France / 2007 / 52 min / DCP  
 Documentaire présentant des extraits d'archives, de films et des témoignages de proches de de Roubaix et de personnalités, dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...
 
 - me 28 juin 19h00 JE  
@@ -131,7 +131,7 @@ Voir aussi dialogue p. xx
 [46946]  
 **Le Saut de l'ange**  
 de Yves Boisset  
-France-Italie / 1971 / 95 min  
+France-Italie / 1971 / 95 min / DCP  
 D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.  
 Avec Jean Yanne, Senta Berger, Sterling Hayden.  
 En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini et la famille de l'un d'eux, expatrié en Thaïlande. Celui-ci décide de rentrer pour se venger.

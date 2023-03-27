@@ -101,8 +101,7 @@ de Vincente Minnelli
 Avec Gregory Peck, Lauren Bacall.  
 Marilla et Mike se rencontrent et s'épousent, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents: lui est chroniqueur sportif, elle est dessinatrice de mode.
 
-- me 28 juin 20h00 HL  
-Ouverture de la rétrospective  
+- je 29 juin 18h00 HL  
 - je 20 juil 16h00 GF
 
 [35254]  
@@ -134,7 +133,7 @@ de Vincente Minnelli
 Avec Judy Garland, Robert Walker.  
 En 1945, lors d'une permission de 48 heures, un soldat rencontre par hasard une jeune fille à Pennsylvania Station. Il passe sa permission avec elle et finit par tomber amoureux de la jolie New-yorkaise.
 
-- je 29 juin 18h00 HL  
+- me 28 juin 20h00 HL  
 - je 13 juil 16h00 GF
 
 [61789]  
@@ -178,7 +177,7 @@ D'après le roman _Madame Bovary_ de Gustave Flaubert.
 Avec Jennifer Jones, James Mason.  
 Face au tribunal, Gustave Flaubert rend des comptes sur son roman, considéré comme œuvre immorale, et en justifie le contenu, prenant la défense de son personnage principal. Emma Bovary, jeune femme s'ennuyant aux cotés de son mari médecin de campagne.
 
-- je 29 juin 20h00 HL  
+- je 29 juin 20h30 HL  
 - sa 22 juil 17h00 HL
 
 [79453]  

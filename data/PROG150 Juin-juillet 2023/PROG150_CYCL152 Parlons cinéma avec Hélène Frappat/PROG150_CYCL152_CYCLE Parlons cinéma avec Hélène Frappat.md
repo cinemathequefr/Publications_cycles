@@ -32,20 +32,20 @@ Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa 
 
 - je 15 juin 19h30 GF
 
-[95866]  
-**Spanglish**  
-de James L. Brooks  
-États-Unis / 2003 / 131 min / VOSTF  
-À Los Angeles, Flor, une jeune Mexicaine sans argent et sans mari, trouve une place de gouvernante chez les Clasky, un couple aisé avec deux enfants. D'abord déroutée par sa découverte d'un tout autre mode de vie, Flor observe en vérité les ratées de cette « famille parfaite ». Au contact les uns des autres, chacun tente de réapprendre à vivre ensemble.
-
-- je 22 juin 19h00 GF
-
 [31509]  
 **Riches et célèbres**  
 **(Rich and Famous)**  
 de George Cukor  
 États-Unis / 1981 / 117 min / VOSTF / 35 mm  
 1959 : Merry quitte le Smith College et épouse Doug Blake. Elle fait ses adieux à Liz, sa meilleure amie secrètement amoureuse de Doug. 1969 : Liz, devenue une romancière célèbre, revoit les époux Blake à Malibu. Merry a écrit un livre sur leur jeunesse et soumet son projet à Liz.
+
+- je 22 juin 19h00 GF
+
+[95866]  
+**Spanglish**  
+de James L. Brooks  
+États-Unis / 2003 / 131 min / VOSTF  
+À Los Angeles, Flor, une jeune Mexicaine sans argent et sans mari, trouve une place de gouvernante chez les Clasky, un couple aisé avec deux enfants. D'abord déroutée par sa découverte d'un tout autre mode de vie, Flor observe en vérité les ratées de cette « famille parfaite ». Au contact les uns des autres, chacun tente de réapprendre à vivre ensemble.
 
 - je 29 juin 19h00 GF
 

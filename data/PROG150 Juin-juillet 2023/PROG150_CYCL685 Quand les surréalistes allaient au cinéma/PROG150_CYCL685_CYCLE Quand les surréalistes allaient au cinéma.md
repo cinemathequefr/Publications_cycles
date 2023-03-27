@@ -184,7 +184,7 @@ Une jeune femme dont l'amant est emprisonné pour meurtre, rencontre un jeune ho
 [154389]  
 **La Fidélité des images**  
 de René Magritte  
-Belgique / 1946 / 27 min
+Belgique / 1946 / 27 min / DCP
 
 - me 21 juin 20h30 GF  
 Film suivi de _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel

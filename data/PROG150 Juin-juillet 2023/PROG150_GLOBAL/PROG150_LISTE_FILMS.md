@@ -86,26 +86,6 @@
   * Saut de l'ange (Le)  
   * Thaumetopoea
 
-## Jeune public (17)
-
-  * Charge héroïque (La)  
-  * Chez la sorcière  
-  * Cirque (Le)  
-  * Génie du feu (Le)  
-  * Il faut marier papa  
-  * Livre de la jungle (Le)  
-  * Livre magique (Le)  
-  * Lune à un mètre ou Le Rêve de l'astronome (La)  
-  * Main au collet (La)  
-  * Mon oncle  
-  * Mon voisin Totoro  
-  * Monte là-dessus  
-  * Panorama pris d'un train en marche  
-  * Pirate (Le)  
-  * Sherlock Junior  
-  * Un homme de têtes  
-  * Voyage à travers l'impossible
-
 ## L'image des plaisirs. Sexpérimentaux (117)
 
   * Action érotico-patriotique  
@@ -263,6 +243,26 @@
   * Vampire (Le)  
   * Welfare
 
+## Ma petite Cinémathèque (17)
+
+  * Charge héroïque (La)  
+  * Chez la sorcière  
+  * Cirque (Le)  
+  * Génie du feu (Le)  
+  * Il faut marier papa  
+  * Livre de la jungle (Le)  
+  * Livre magique (Le)  
+  * Lune à un mètre ou Le Rêve de l'astronome (La)  
+  * Main au collet (La)  
+  * Mon oncle  
+  * Mon voisin Totoro  
+  * Monte là-dessus  
+  * Panorama pris d'un train en marche  
+  * Pirate (Le)  
+  * Sherlock Junior  
+  * Un homme de têtes  
+  * Voyage à travers l'impossible
+
 ## Parlons cinéma avec Hélène Frappat (4)
 
   * Fugue (La)  
@@ -362,7 +362,7 @@
 ## Warner, années 70 (28)
 
   * Alice n'habite plus ici  
-  * Ballade sauvage (La)  
+  * Balade sauvage (La)  
   * Bonnie and Clyde  
   * Bullitt  
   * Cœur est un chasseur solitaire (Le)  
