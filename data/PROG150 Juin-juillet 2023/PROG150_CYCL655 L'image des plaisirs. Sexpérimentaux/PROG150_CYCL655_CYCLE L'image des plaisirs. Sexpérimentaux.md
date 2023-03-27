@@ -705,7 +705,7 @@ France / 2009 / 85 min / DCP
 Avec Coralie Trinh-Thi, Lydia Lunch.  
 « _Mutantes_ propose un portrait extensif du mouvement pro-sexe en Occident, laissant s'exprimer les travailleuses du sexe, leur conférant une agentivité et une subjectivité que la pornographie traditionnelle leur refuse. » (Cédric Trahan)
 
-- je 15 juin 18h30 JE
+- je 15 juin 18h00 JE
 
 ## Séance 42 : Visites aux images
 
@@ -736,7 +736,7 @@ Allemagne / 2011 / 84 min / DCP
 Avec Peter Kern, Sergiu Grimalschi, Lutz Volkwein.  
 Dans un Berlin hostile et complice, le film suit cinq « garçons à louer » dans leur quotidien, leur travail, leurs relations avec les clients, parmi lesquels le réalisateur Peter Kern, acteur pour Syberberg, Fassbinder et Schroeter.
 
-- je 15 juin 20h30 JE
+- je 15 juin 20h00 JE
 
 ## Séance 43 : Corps écarquillés, voluptés et fétiches
 

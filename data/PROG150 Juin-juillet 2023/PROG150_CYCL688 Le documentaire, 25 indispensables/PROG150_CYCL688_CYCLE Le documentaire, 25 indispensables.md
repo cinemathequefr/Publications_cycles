@@ -73,7 +73,8 @@ de Leni Riefenstahl
 Allemagne / 1938 / 127 min / VOSTF / DCP  
 Réalisé pour la propagande nazie lors des Jeux Olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes.
 
-- di 2 juil 18h00 GF
+- di 2 juil 18h00 GF  
+Séance présentée par Jérôme Prieur
 
 [54259]  
 **Le Dix-septième parallèle**  
