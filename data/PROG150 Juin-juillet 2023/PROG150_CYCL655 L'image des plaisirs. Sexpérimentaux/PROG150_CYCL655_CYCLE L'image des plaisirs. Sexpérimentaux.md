@@ -931,8 +931,9 @@ Séance présentée par Marion Scemama
 
 ## Rencontres et conférences
 
+**L'image des plaisirs : De quoi le film me rend-il sujet ?**  
 **Conférence de Frédéric Tachou**  
-**Conférence **
+Cinéaste et docteur en esthétique et sciences de l'art à Paris-1, Frédéric Tachou a été président du Collectif Jeune Cinéma (CJC), structure de distribution et de diffusion des pratiques expérimentales de l'image et du film. Il est l'auteur de _Et le sexe entra dans la modernité_ (Klincksieck, 2014).
 
 - sa 3 juin 14h30 GF
 

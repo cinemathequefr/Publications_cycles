@@ -76,7 +76,7 @@
   * Far from Dallas  
   * François de Roubaix l'aventurier  
   * Gobbo (Le)  
-  * Grande lessive (!) (La)  
+  * Grande lessive (La)  
   * Grandes gueules (Les)  
   * Jeff  
   * Lèvres rouges (Les)  

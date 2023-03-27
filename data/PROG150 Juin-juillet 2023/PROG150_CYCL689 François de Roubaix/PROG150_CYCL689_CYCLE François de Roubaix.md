@@ -62,7 +62,7 @@ Séance présentée par Jean-Yves Guilleux
 Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix et suivi de de _Comment ça va ? J'm'en fous_ de François de Roubaix
 
 [50109]  
-**La Grande lessive (!)**  
+**La Grande lessive**  
 de Jean-Pierre Mocky  
 France / 1968 / 95 min / DCP  
 Avec Bourvil, Francis Blanche, Roland Dubillard.  

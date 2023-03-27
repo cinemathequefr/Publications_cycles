@@ -296,7 +296,8 @@ de Chantal Akerman
 France-Belgique / 1999 / 70 min / Numérique  
 Voyage dans le sud des États-Unis, avec comme fil rouge le meurtre par lynchage du musicien noir James Byrd Jr.
 
-- sa 1 juil 20h45 GF
+- sa 1 juil 20h45 GF  
+Séance présentée par Claire Atherton
 
 [50525]  
 **Le Vampire**  
