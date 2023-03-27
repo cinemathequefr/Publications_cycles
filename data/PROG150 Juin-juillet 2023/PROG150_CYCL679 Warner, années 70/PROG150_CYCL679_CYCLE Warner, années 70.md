@@ -196,7 +196,7 @@ Un détective privé, John Klute, part à la recherche d'un savant ayant disparu
 **Luke la main froide**  
 **(Cool Hand Luke)**  
 de Stuart Rosenberg  
-États-Unis / 1966 / 126 min / VO / 35 mm  
+États-Unis / 1966 / 127 min / VOSTF / DCP  
 Avec Paul Newman, Dennis Hopper, Jo Van Fleet.  
 Luke, condamné pour un acte de vandalisme en état d'ivresse, purge une peine de deux ans de prison dans un camp de travail. Au cours de sa détention il apprend le décès de sa mère et tente de s'évader.
 
