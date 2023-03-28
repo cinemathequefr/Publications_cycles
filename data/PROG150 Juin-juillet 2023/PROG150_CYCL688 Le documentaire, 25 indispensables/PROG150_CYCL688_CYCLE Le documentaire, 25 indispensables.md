@@ -64,7 +64,7 @@ France / 1968 / 108 min / 16 mm
 À l'occasion de la campagne pour les élections législatives de juin 1968 à Asnières, Jean-Louis Comolli et André S. Labarthe filment au jour le jour les réunions, meetings et allocutions des trois principaux candidats : Albin Chalandon (UDR), Claude Denis (PCF) et Roger Hanin (FGDS).
 
 - me 21 juin 20h00 HL  
-Ouverture de la rétrospective
+Ouverture de la rétrospective. Séance présentée par Luc Béraud
 
 [40226]  
 **Les Dieux du stade**  
@@ -156,7 +156,8 @@ France / 1962 / 145 min / DCP
 Avec Yves Montand.  
 Paris, mai 1962. La guerre d'Algérie vient de s'achever. Les Parisiens témoignent de leurs angoisses, leurs bonheurs, leurs espoirs. Peu à peu se dessine un portrait pris sur le vif de la France à l'aube des années 1960.
 
-- di 25 juin 20h45 HL
+- di 25 juin 20h45 HL  
+Séance présentée par Luc Béraud
 
 [38514]  
 **La Jungle plate**  
@@ -242,7 +243,7 @@ Film suivi de _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curi
 [31875]  
 **Primary**  
 de Robert Drew  
-États-Unis / 1960  
+États-Unis / 1960 / 60 min  
 Chronique de la campagne du futur président Kennedy et du sénateur Humphrey pour les élections primaires du Wisconsin, en 1960.
 
 - me 5 juil 20h30 GF
@@ -295,7 +296,7 @@ Vingt-quatre actrices françaises et américaines parlent de leurs expériences 
 [68124]  
 **Sud**  
 de Chantal Akerman  
-France-Belgique / 1999 / 70 min / Numérique  
+France-Belgique / 1999 / 70 min / DCP  
 Voyage dans le sud des États-Unis, avec comme fil rouge le meurtre par lynchage du musicien noir James Byrd Jr.
 
 - sa 1 juil 20h45 GF  

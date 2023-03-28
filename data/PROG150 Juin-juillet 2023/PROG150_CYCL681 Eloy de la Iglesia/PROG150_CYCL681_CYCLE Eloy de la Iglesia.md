@@ -42,8 +42,8 @@ Après plusieurs années de mariage, Cristina parvient enfin à tomber enceinte.
 [154350]  
 **Cuadrilátero**  
 d'Eloy de la Iglesia  
-Espagne / 1969 / 90 min / VOSTF / DCP  
-Avec José María Prada, Rosanna Yanni, Irène Daina.  
+Espagne / 1970 / 90 min / VOSTF / DCP  
+Avec José María Prada, Rosanna Yanni, Irene Daina.  
 Un manager de boxe découvre que l'un ses poulains les plus prometteurs est tombé amoureux de la femme qu'il convoite.
 
 - sa 15 juil 15h00 GF
@@ -52,7 +52,7 @@ Un manager de boxe découvre que l'un ses poulains les plus prometteurs est tomb
 **El Diputado**  
 d'Eloy de la Iglesia  
 Espagne / 1978 / 111 min / VOSTF / DCP  
-Avec José Sacristán, Maria Luisa San José, Ángel Pardo.  
+Avec José Sacristán, María Luisa San José, Ángel Pardo.  
 Roberto Orbea, député dans un parti de gauche, est mis en prison. À sa sortie, il mène une politique contre le terrorisme, mais un groupuscule franquiste paie sa maîtresse pour le piéger.
 
 - sa 22 juil 15h00 GF
@@ -67,10 +67,10 @@ Leandro et Tocho décident de commettre un braquage dans une supérette en banli
 - sa 29 juil 17h30 GF
 
 [127732]  
-**Fantasia 3**  
+**Fantasía... 3**  
 d'Eloy de la Iglesia  
 Espagne / 1966 / 80 min / VOSTF / Vidéo  
-Avec Dyanik Zurakowska, Juan Jose Palacios, Sergio Mendizábal.  
+Avec Dyanik Zurakowska, José Palacio, Sergio Mendizábal.  
 Adaptation de trois contes pour enfants : _La Petite Sirène_ de Hans Christian Andersen, _Le Magicien d'Oz_ de L. Frank Baum et _Les Trois Cheveux d'or du Diable_ des frères Grimm.
 
 - je 13 juil 21h30 GF
@@ -98,7 +98,7 @@ Un employé de banque timide est effrayé par la vague de crimes qui envahit la 
 d'Eloy de la Iglesia  
 Espagne / 1981 / 101 min / VOSTF / DCP  
 Avec Amparo Muñoz, Simón Andreu, Manuel Torres.  
-La marquise du Monténégro, sur le déclin, conserve des amis influents tels que le ministre Fernández Herrador. Lorsque la femme du ministre a besoin d'un nouveau jardinier, la marquise lui présente Rafael, un jeune gigolo.
+La marquise de Montenegro, sur le déclin, conserve des amis influents tels que le ministre Fernández Herrador. Lorsque la femme du ministre a besoin d'un nouveau jardinier, la marquise lui présente Rafael, un jeune gigolo.
 
 - di 23 juil 20h00 GF
 

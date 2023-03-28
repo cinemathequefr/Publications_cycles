@@ -37,12 +37,12 @@ En parcourant les quatre continents, la sélection explore le cinéma d'expédit
 [154393]  
 **A travers le Cameroun, le Gabon et Congo**  
 de René Moreau  
-France / 1928 / 50 min / 35 mm  
+France / 1928 / 50 min / INT. FR. / 35 mm  
 suivi de  
 [154392]  
 **La Traversée de l'Amérique du Sud en automobile**  
 de Roger Courterville  
-France / 1926 / 58 min / 35 mm
+France / 1926 / 58 min / INT. FR. / 35 mm
 
 - ve 7 juil 18h30 JE  
 Séance présentée par Iris Deniozou et Béatrice de Pastre
@@ -50,7 +50,7 @@ Séance présentée par Iris Deniozou et Béatrice de Pastre
 [120945]  
 **Dans la brousse annamite**  
 d'André Sauvage  
-France / 1931 / 24 min / DCP  
+France / 1931 / 24 min / INT. FR. / DCP  
 suivi de  
 [107833]  
 **Nord 70° 22°**  

@@ -43,18 +43,6 @@ France / 1908 / 4 min
 - di 25 juin 15h00 GF  
 Film précédé de _Panorama pris d'un train en marche_ de Georges Méliès, _La Lune à un mètre ou Le Rêve de l'astronome_ de Georges Méliès, _Le Livre magique_ de Georges Méliès, _Chez la sorcière_ de Georges Méliès et suivi de de _Voyage à travers l'impossible_ de Georges Méliès, _Un homme de têtes_ de Georges Méliès
 
-[61789]  
-**Il faut marier papa**  
-**(The Courtship of Eddie's Father)**  
-de Vincente Minnelli  
-États-Unis / 1962 / 117 min / VOSTF / 35 mm  
-D'après le roman _The Courtship of Eddie's father_ de Mark Toby.  
-Avec Glenn Ford, Shirley Jones.  
-Un enfant de sept ans déploie des trésors d'imagination pour trouver une nouvelle épouse à son père.
-
-- di 9 juil 17h00 HL  
-- ve 14 juil 16h00 GF
-
 [45718]  
 **Le Livre de la jungle**  
 **(The Jungle Book)**  

@@ -17,7 +17,7 @@ Alice, âgée de huit ans, rêve de devenir une star... 27 ans plus tard, elle e
 - me 7 juin 18h30 GF
 
 [33679]  
-**La Ballade sauvage**  
+**La Balade sauvage**  
 **(Badlands)**  
 de Terrence Malick  
 États-Unis / 1973 / 95 min / VOSTF / DCP  
@@ -39,7 +39,7 @@ Ouverture de la rétrospective
 [45254]  
 **Bullitt**  
 de Peter Yates  
-États-Unis / 1968 / 114 min / VOSTF / 35 mm  
+États-Unis / 1968 / 114 min / VOSTF / DCP  
 D'après le roman _Mute witness_ de Robert L. Pike.  
 Avec Steve McQueen, Robert Vaughn, Jacqueline Bisset.  
 Bullitt, un lieutenant de police, est chargé par un politicien ambitieux de protéger Johnny Ross, un gangster dont le témoignage est attendu devant une commission d'enquête.
@@ -164,7 +164,7 @@ Avec Clint Eastwood, Harry Guardino, Reni Santoni.
 [35827]  
 **Jeremiah Johnson**  
 de Sydney Pollack  
-États-Unis / 1971 / 108 min / VOSTF / 35 mm  
+États-Unis / 1971 / 110 min / VOSTF / DCP  
 D'après le roman _Mountain man_ de Vardis Fisher.  
 D'après la nouvelle _Crow killer_ de Raymond W. Thorp.  
 D'après la nouvelle _ Crow killer_ de Robert Bunker.  
@@ -302,7 +302,7 @@ Un vagabond trouve malencontreusement un point d'eau dans le désert. Il décide
 [37468]  
 **Woodstock**  
 de Michael Wadleigh  
-États-Unis / 1969 / 185 min  
+États-Unis / 1969 / 185 min / VOSTF / DCP  
 Documentaire sur le fameux festival organisé les 15, 16 et 17 août 1969 à Bethel, près de Woodstock, dans l'État de New York, qui rassembla 500 000 jeunes.
 
 - lu 12 juin 19h00 GF

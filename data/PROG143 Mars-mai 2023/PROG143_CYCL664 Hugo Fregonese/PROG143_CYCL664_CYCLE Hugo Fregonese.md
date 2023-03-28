@@ -38,7 +38,8 @@ Argentine / 1946 / 80 min / VOSTF / 16 mm
 Avec Enrique Muiño, Darío Garzay, Héctor Méndez.  
 Musicien et machiniste, puis veilleur de nuit dans un théâtre de marionnettes, un vieil homme lunaire devient le maître spirituel d'un jeune homme qui vient en cachette jouer du piano toutes les nuits.
 
-- je 30 mar 18h30 GF
+- je 30 mar 18h30 GF  
+- lu 3 avr 20h30 GF
 
 [117826]  
 **Dracula contre Frankenstein**  

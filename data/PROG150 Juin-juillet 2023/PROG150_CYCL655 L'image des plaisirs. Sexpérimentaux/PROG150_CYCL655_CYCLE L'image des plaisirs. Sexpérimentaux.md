@@ -23,7 +23,7 @@ Séance présentée par Philippe Vallois
 de Derek Jarman, Paul Humfress  
 Grande-Bretagne / 1977 / 86 min / VOSTF / DCP  
 Avec Leonardo Treviglio, Richard Warwick, Neil Kennedy.  
-« _Sebastiane_ déploie de bout en bout une spectaculaire volonté de faire sortir du placard (cinématographique et sociétal) une sexualité que la loi britannique avait, des siècles durant, condamné à l'invisibilité. » (P.Charrel)
+« _Sebastiane_ déploie de bout en bout une spectaculaire volonté de faire sortir du placard (cinématographique et sociétal) une sexualité que la loi britannique avait, des siècles durant, condamné à l'invisibilité. » (P. Charrel)
 
 - me 31 mai 20h45 GF
 
@@ -35,11 +35,7 @@ Séance 24. « Je garde le souvenir de ton baiser et je voudrais bien que ce soi
 **Asparagus**  
 de Suzan Pitt  
 États-Unis / 1979 / 18 min  
-« Masques, sexualité magique, théâtre des illusions : avec cette envoûtante traversée du miroir, Suzan Pitt détient pour toujours la clef (et le secret) des songes animés. » (Yann Gonzalez)
-
----
-
-Masques, sexualité magique, théâtre des illusions : avec cette envoûtante traversée du miroir, Suzan Pitt détient pour toujours la clef (et le secret) des songes animés. (Y.G.)  
+« Masques, sexualité magique, théâtre des illusions : avec cette envoûtante traversée du miroir, Suzan Pitt détient pour toujours la clef (et le secret) des songes animés. » (Yann Gonzalez)  
 suivi de  
 [154195]  
 **Forbidden Letters**  
@@ -47,7 +43,7 @@ d'Arthur J. Bressan Jr.
 États-Unis / 1979 / 70 min / VOSTF / DCP  
 Avec Robert Adams, Richard Locke, Victoria Young.  
 Ce film pornographique mélancolique évoque aussi bien un amour passionné que les fantasmes d'hommes et d'amants occasionnels et la vie quotidienne dans le monde carcéral.  
-Avec l'aimable autorisation du Projet Bressan et de l'American Genre Film Archive.
+Avec l'aimable autorisation du Bressan Project et de l'American Genre Film Archive.
 
 - sa 3 juin 16h30 GF
 
@@ -66,7 +62,7 @@ suivi de
 **The Dreams and Past Crimes of the Archduke**  
 de Jeff Keen  
 Grande-Bretagne / 1979 / 7 min / DCP  
-Carambolage généralisé de techniques, genres, iconographies, le cinéma partouse avec lui-même et en grand seigneur, nous laisse le regarder.  
+Carambolage généralisé de techniques, genres, iconographies, le cinéma partouze avec lui-même et, grand seigneur, nous laisse le regarder.  
 suivi de  
 [141223]  
 **Loads**  
@@ -99,54 +95,42 @@ Le Cinéma de la Transgression rassemble ce que l'underground new-yorkais de la 
 de Tessa Hughes-Freeland  
 États-Unis / 1982 / 5 min / Numérique  
 Avec Ferne, Irene.  
-Début des années 1980, New York. Deux go-go girls témoignent, dans les loges d'un bar, de la réputation dont souffrent les travailleuses du sexe. Une prise de conscience entrecoupée de danse érotique et complice, sur une musique de David Bowie. (R.P.)  
+« Début des années 1980, New York. Deux go-go girls témoignent, dans les loges d'un bar, de la réputation dont souffrent les travailleuses du sexe. Une prise de conscience entrecoupée de danse érotique et complice, sur une musique de David Bowie. » (R. P.)  
 suivi de  
 [154201]  
 **Thrust in Me**  
 de Richard Kern, Nick Zedd  
 États-Unis / 1985 / 9 min / Numérique  
 Avec Nick Zedd, Don Houston, Magot Damian.  
-Déambulation dans les rues délabrées du East Village, aux airs de fable nihiliste. Quand Nick Zedd joue les deux protagonistes d'un couple, réunis de force au cours d'une scène finale de sexe narcissique post-mortem. (R.P.)
-
----
-
-Début des années 1980, New York. Deux go-go girls témoignent, dans les loges d'un bar, de la réputation dont souffrent les travailleuses du sexe. Une prise de conscience entrecoupée de danse érotique et complice, sur une musique de David Bowie. (R.P.)  
+« Déambulation dans les rues délabrées de l'East Village, aux airs de fable nihiliste. Quand Nick Zedd joue les deux protagonistes d'un couple, réunis de force au cours d'une scène finale de sexe narcissique post-mortem. » (R. P.)  
 suivi de  
 [154202]  
 **Where Evil Dwells**  
 de Tommy Turner, David Wojnarowicz  
 États-Unis / 1985 / 32 min / Numérique  
 Avec Joe Coleman, Nancy Coleman, Baby Gregor.  
-Appropriation par l'underground d'un fait divers perpétré par le tueur adolescent satanique Ricky Kasso, en 1984. Violence exercée sur des animaux, infligée aux êtres humains, hallucinations du meurtrier et rencontre avec le diable. (R.P.)
-
----
-
-Début des années 1980, New York. Deux go-go girls témoignent, dans les loges d'un bar, de la réputation dont souffrent les travailleuses du sexe. Une prise de conscience entrecoupée de danse érotique et complice, sur une musique de David Bowie. (R.P.)  
+« Appropriation par l'underground d'un fait divers perpétré par le tueur adolescent satanique Ricky Kasso en 1984. Violence exercée sur des animaux, infligée aux êtres humains, hallucinations du meurtrier et rencontre avec le diable. » (R. P.)  
 suivi de  
 [154203]  
 **The Right Side of My Brain**  
 de Richard Kern  
 États-Unis / 1985 / 23 min / Numérique  
 Avec Lydia Lunch, Norman Westberg, Brian Moran.  
-Le cri du cœur d'une femme dont les désirs sexuels restent constamment inassouvis, et provoquent la répulsion chez les hommes qu'elle côtoie. Violence et sexualité ne font plus qu'un dans ce monologue écrit par Lydia Lunch. (R.P.)  
+« Le cri du cœur d'une femme dont les désirs sexuels restent constamment inassouvis, et provoquent la répulsion chez les hommes qu'elle côtoie. Violence et sexualité ne font plus qu'un dans ce monologue écrit par Lydia Lunch. » (R. P.)  
 suivi de  
 [132663]  
 **Fingered**  
 de Richard Kern  
 États-Unis / 1986 / 25 min / Numérique  
 Avec Lydia Lunch, Emilio Cubeiro, Marty Nation, Lung Leg.  
-« Vous pensez connaître la pornographie ? Nous allons vous montrer ce que c'est. » (Richard Kern, entretien de 2022). Une opératrice de téléphone rose rencontre un client qui l'entraîne sur la route et dans une série d'atrocités croissantes. (R.P.)
-
----
-
-Lydia Lunch baise, cogne, hurle sa jouissance et sa rage. Une cavale furieuse en compagnie de la déesse punk ultime. (Y.G.)  
+« Une opératrice de téléphone rose rencontre un client qui l'entraîne sur la route et dans une série d'atrocités croissantes. » (R. P.) « Lydia Lunch baise, cogne, hurle sa jouissance et sa rage. Une cavale furieuse en compagnie de la déesse punk ultime. » (Yann Gonzalez) « Vous pensez connaître la pornographie ? Nous allons vous montrer ce que c'est. » (Richard Kern, 2022)  
 suivi de  
 [154204]  
-**The Sewing circle**  
+**The Sewing Circle**  
 de Richard Kern  
 États-Unis / 1992 / 7 min / Numérique  
 Avec Carrie, Kembra Pfahler, Lisa Resurrection.  
-Captation intime d'une expérience qui interroge les limites du corps, de l'érotisme et du supportable. Une prestation de cinéma- vérité qui réinscrit le personnel au cœur du Cinéma de la Transgression et de la scène artistique new-yorkaise. (R.P.)
+« Captation intime d'une expérience qui interroge les limites du corps, de l'érotisme et du supportable. Une prestation de cinéma-vérité qui réinscrit le personnel au cœur du cinéma de la transgression et de la scène artistique new-yorkaise. » (R. P.)
 
 - sa 3 juin 20h30 GF
 
@@ -205,7 +189,7 @@ Films politiques britanniques, étatsuniens et philippins, films partousards et 
 d'Abigail Child  
 États-Unis / 1987 / 17 min / VO / Numérique  
 Avec Diane Torr, Ela Troyano, Plauto.  
-« Inspirée par Sade et Dziga Vertov, ma tentative de créer un film dans lequel le son est le protagoniste et de mettre en son centre la sexualité et l'érotisme. » (A.C.)  
+« Inspirée par Sade et Dziga Vertov, ma tentative de créer un film dans lequel le son est le protagoniste et de mettre en son centre la sexualité et l'érotisme. » (Abigail Child)  
 suivi de  
 [141234]  
 **This Is Not an AIDS Advertisement**  
@@ -216,7 +200,7 @@ suivi de
 [154207]  
 **Rouille**  
 **(Kalawang)**  
-de Cesar Hernando, Eli Guieb III, Jimbo Albano  
+de César Hernando, Eli Guieb III, Jimbo Albano  
 Philippines / 1989 / 6 min / Numérique  
 Une histoire de l'impérialisme étatsunien aux Philippines, érotique surtout de beauté et d'engagement.  
 suivi de  
@@ -224,7 +208,7 @@ suivi de
 **Ecce Homo**  
 de Jerry Tartaglia  
 États-Unis / 1989 / 7 min / VO / 16 mm  
-Premier film de la trilogie de Jerry Tartaglia sur le Sida où, à sous le règne de la maladie, du déni et des insultes, il s'agit de lutter contre l'invisibilisation de la sexualité gay.  
+Premier film de la trilogie de Jerry Tartaglia sur le sida où, sous le règne de la maladie, du déni et des insultes, il s'agit de lutter contre l'invisibilisation de la sexualité gay.  
 suivi de  
 [154031]  
 **Sodom**  
@@ -255,16 +239,16 @@ suivi de
 de David Wojnarowicz, Marion Scemama  
 États-Unis / 1989 / 5 min / VOSTF / Numérique  
 Avec Paul Smith, David Wojnarowicz.  
-« Quand je pose mes mains sur ton corps sur ta chair je ressens l'histoire de ce corps. Pas seulement le début de sa formation dans ce lac lointain, mais bien au-delà de sa fin. » (DW)  
+« Quand je pose mes mains sur ton corps sur ta chair, je ressens l'histoire de ce corps. Pas seulement le début de sa formation dans ce lac lointain, mais bien au-delà de sa fin. » (David Wojnarowicz)  
 suivi de  
 [154210]  
-**ITSOFOMO – In the shadow of forward motion**  
+**ITSOFOMO – In the Shadow of Forward Motion**  
 de David Wojnarowicz, Ben Neill  
 États-Unis / 1991 / 12 min / Numérique  
-Pièce multimédia en pleine épidémie du SIDA, aussi brillante qu'inattendue.  
+Pièce multimédia en pleine épidémie du sida, aussi brillante qu'inattendue.  
 suivi de  
 [154211]  
-**Self-Portrait in 23 rounds: A Chapter in David Wojnarowicz 's life, 1989-1991**  
+**Self-Portrait in 23 Rounds: A Chapter in David Wojnarowicz's Life, 1989-1991**  
 de Marion Scemama  
 France-États-Unis / 2018 / 78 min / VOSTF / DCP  
 Avec David Wojnarowicz, Marion Scemama.  
@@ -303,14 +287,14 @@ Grande-Bretagne / 1991 / 7 min / STF / Numérique
 Kiss-in protestataire face au commissariat de Bow Street à Londres, dans le cadre d'une manifestation contre des projets de loi homophobes (clause 25/28).  
 suivi de  
 [154214]  
-**Ready-Made with Pelle Lowe**  
+**Ready-Made With Pelle Lowe**  
 de Saul Levine  
 États-Unis / 1992 / 4 min / Numérique  
-« Variation sur l'_Olympia_ de Manet, en réfléchissant à sa réception, sa relation à la peinture, au travail sexuel, à l'impérialisme, la Commune de Paris, la drogue et le rock roll. » (S.L.)  
+« Variation sur l'_Olympia_ de Manet, en réfléchissant à sa réception, sa relation à la peinture, au travail sexuel, à l'impérialisme, la Commune de Paris, la drogue et le rock'n'roll. » (Saul Levine)  
 suivi de  
 [154038]  
 **L'Amour fou**  
-de M.M. Serra  
+de M. M. Serra  
 États-Unis / 1992 / 20 min / 16 mm  
 Investigation experte sur les pratiques SM, alternant entretiens originaux et citations de films.  
 suivi de  
@@ -324,7 +308,7 @@ suivi de
 **Prince of Peace**  
 de Hans Scheugl  
 Autriche / 1993 / 8 min / 16 mm  
-« Sans but, sans question. Se rapprochant. Aimant voir. Voir avec amour (amoureusement). Dansant. Peut-on danser tristement ? O.K, pas de question. » (H.S.)
+« Sans but, sans question. Se rapprochant. Aimant voir. Voir avec amour (amoureusement). Dansant. Peut-on danser tristement ? OK, pas de question. » (Hans Scheugl)
 
 - je 8 juin 18h15 JE
 
@@ -349,19 +333,19 @@ suivi de
 **Blue Movie**  
 de Mark Street  
 États-Unis / 1994 / 5 min / 16 mm  
-Remplois de films pornographiques, colorés et accompagné par la voix d'Anaïs Nin.  
+Remplois de films pornographiques, colorés et accompagnés par la voix d'Anaïs Nin.  
 suivi de  
 [154042]  
 **The Color of Love**  
 de Peggy Ahwesh  
 États-Unis / 1994 / 10 min / 16 mm  
-« Le film de Peggy Ahwesh est une réimpression optique légèrement ralentie d'un film porno des années 70 dans lequel la pourriture chimique a déjà rongé les bords de l'image et menacent de la censurer entièrement. (Amy Taubin)  
+« Le film de Peggy Ahwesh est une réimpression optique légèrement ralentie d'un film porno des années 70 dans lequel la pourriture chimique a déjà rongé les bords de l'image et menacent de la censurer entièrement. » (Amy Taubin)  
 suivi de  
 [154219]  
 **Hermaphrodite Bikini**  
 de Clio Barnard  
 Grande-Bretagne / 1995 / 5 min / DCP  
-« Une histoire de soutien-gorge est racontée dans une cuisine tandis que des anges aux ailes de papillon se balancent dans un jardin. » (C.B.)  
+« Une histoire de soutien-gorge est racontée dans une cuisine tandis que des anges aux ailes de papillon se balancent dans un jardin. » (Clio Barnard)  
 suivi de  
 [154041]  
 **Fingers and Kisses**  
@@ -374,11 +358,7 @@ suivi de
 de Marc Hurtado  
 France / 1995 / 34 min / DCP  
 Avec Marc Hurtado.  
-« Marc Hurtado : la vie encore au travail, le feu nourri d'amour qui s'obstine à brûler vif dans un infatigable renouvellement. » (Etienne Bomba)
-
----
-
-« Larme secrète / Blanche secrète / Langue secrète / L'âme secrète » (M.H.)
+« Larme secrète / Blanche secrète / Langue secrète / L'âme secrète » (Marc Hurtado) « Marc Hurtado : la vie encore au travail, le feu nourri d'amour qui s'obstine à brûler vif dans un infatigable renouvellement. » (Étienne Bomba)
 
 - je 8 juin 20h00 JE
 
@@ -391,8 +371,8 @@ Byun Young-joo, fondatrice du collectif Parituh, recueille la parole de six Cor�
 **(Najeun moksori)**  
 de Byun Young-joo  
 Corée / 1995 / 98 min / VOSTF / Numérique  
-Avec Sun-deok Kim, Ok-nyeon Park, Yeong-suk Lee.  
-« BYUN Young-joo explique que le titre de la trilogie _Murmures_ signifie 'les voix basses mais puissantes des femmes qui ont toujours été victimes dans le tourbillon de l'histoire' ». (Lee Heejung)
+Avec Kim Sun-deok, Park Ok-nyeon, Lee Yeong-suk.  
+« Byun Young-joo explique que le titre de la trilogie _Murmures_ signifie : les voix basses mais puissantes des femmes qui ont toujours été victimes dans le tourbillon de l'histoire. » (Lee Heejung)
 
 - sa 10 juin 15h00 JE
 
@@ -401,7 +381,7 @@ Avec Sun-deok Kim, Ok-nyeon Park, Yeong-suk Lee.
 « L'un des attraits potentiels du collage est que l'artiste qui rejette le monde 'tel qu'il se trouve' peut construire le sien, plus conforme à ce que les choses pourraient ou devraient être. Il y a un lien évident entre cette pulsion et le travail d'invention d'un monde fictionnel. » (William E. Jones, 2020). Accolades érotiques de Marilyn, Georges Bataille ou Edmund Husserl avec le cinéma.
 
 [154221]  
-**Apparatus 'M'**  
+**Apparatus "M"**  
 de Takashi Ito  
 Japon / 1996 / 6 min / 16 mm  
 Morimura Yasumasu, l'un des plus célèbres artistes transformistes du Japon, interprète quelques traces de Marilyn.  
@@ -564,7 +544,8 @@ France / 2003 / 98 min / Vidéo
 Avec Karima, Clarisse Hahn.  
 Par la plasticienne et cinéaste Clarisse Hahn, un portrait sororal de la dominatrice SM Karima, alternant entre scènes du quotidien, performance sexuelle et entretiens à cœur ouvert.
 
-- di 11 juin 17h45 JE
+- di 11 juin 17h45 JE  
+Séance présentée par Clarisse Hahn
 
 ## Séance 38 : Deviser diviser
 

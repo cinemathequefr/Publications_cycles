@@ -24,6 +24,7 @@ de Maya Deren
 États-Unis / 1945 / 3 min / Numérique
 
 - me 21 juin 18h00 GF  
+Séance présentée par Dominique Païni  
 Film suivi de _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren
 
 [47140]  
@@ -34,7 +35,8 @@ Avec Lya Lys, Gaston Modot, Max Ernst, Pierre Prévert.
 La force du désir éprouvé par un couple bouscule et renverse l'ordre social. « Un film d'inspiration bolchevique, _L'Âge d'or_, attaquant la religion, la patrie et la famille, était projeté depuis plusieurs jours. Plusieurs commissaires de la Ligue des Patriotes [ont] sifflé ce film obscène. » (communiqué de la Ligue, 6 décembre 1930)  
 Scénario coécrit par Luis Buñuel et Salvador Dalí.
 
-- je 15 juin 19h00 HL
+- je 15 juin 19h00 HL  
+Séance présentée par Dominique Païni
 
 [154367]  
 **André Breton malgré tout**  
@@ -51,7 +53,7 @@ de Maya Deren
 États-Unis / 1944 / 14 min / Numérique
 
 - me 14 juin 20h00 HL  
-Ouverture de la rétrospective  
+Ouverture de la rétrospective. Séance présentée par Dominique Païni  
 Film suivi de _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied, _Un chien andalou_ de Luis Buñuel, _Entr'acte_ de René Clair
 
 [96054]  
@@ -98,7 +100,7 @@ D'après le roman _La Femme et le pantin_ de Pierre Louÿs.
 Avec Fernando Rey, Carole Bouquet, Ángela Molina.  
 Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de voyage la passion déchirante qu'il a eue pour Conchita, une jeune femme qui n'a cessé de se dérober à lui.
 
-- je 15 juin 20h30 HL
+- je 15 juin 20h45 HL
 
 [36444]  
 **La Chasse du comte Zaroff**  
@@ -127,6 +129,7 @@ de Maya Deren
 États-Unis / 1947 / 55 min / Numérique
 
 - me 21 juin 18h00 GF  
+Séance présentée par Dominique Païni  
 Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren et suivi de de _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren
 
 [154380]  
@@ -153,7 +156,7 @@ Avec Man Ray, Marcel Duchamp, Inge Frïss, Francis Picabia.
 Essai surréaliste avec une danseuse barbue, un chasseur tyrolien, un corbillard tiré par un chameau et une course derrière un cercueil.
 
 - me 14 juin 20h00 HL  
-Ouverture de la rétrospective  
+Ouverture de la rétrospective. Séance présentée par Dominique Païni  
 Film précédé d'_At Land_ de Maya Deren, _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied, _Un chien andalou_ de Luis Buñuel
 
 [53940]  
@@ -169,7 +172,7 @@ Inspirée par un poème de Robert Desnos, une succession d'images oniriques.
 « Le cinéma semblait avoir tout découvert, y compris l'invisible. C'est alors que de nouveaux venus s'emparèrent de l'écran. Fernand Léger, Man Ray, Buñuel et Dalí nous apportèrent la preuve que rien n'était encore trouvé, puis ils s'en allèrent comme ils étaient venus. »
 
 - me 14 juin 20h00 HL  
-Ouverture de la rétrospective  
+Ouverture de la rétrospective. Séance présentée par Dominique Païni  
 Film précédé d'_At Land_ de Maya Deren et suivi de de _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied, _Un chien andalou_ de Luis Buñuel, _Entr'acte_ de René Clair
 
 [30626]  
@@ -188,6 +191,7 @@ de René Magritte
 Belgique / 1946 / 27 min / DCP
 
 - me 21 juin 20h30 GF  
+Séance présentée par Dominique Païni  
 Film suivi de _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel
 
 [96200]  
@@ -236,6 +240,7 @@ Belgique / 1929 / 50 min / DCP
 Avec Pierre Bourgeois.
 
 - me 21 juin 20h30 GF  
+Séance présentée par Dominique Païni  
 Film précédé de _La Fidélité des images_ de René Magritte et suivi de de _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel
 
 [96333]  
@@ -271,6 +276,7 @@ Belgique / 1959 / 37 min
 Avec Tom Gutt, Ulysse Pétian, Suzanne Bourgoigne.
 
 - me 21 juin 20h30 GF  
+Séance présentée par Dominique Païni  
 Film précédé de _La Fidélité des images_ de René Magritte, _Histoire de détective_ de Charles Dekeukeleire et suivi de de _La Perle_ de Henri d' Ursel
 
 [154381]  
@@ -306,6 +312,7 @@ de Maya Deren
 États-Unis / 1948 / 10 min / Numérique
 
 - me 21 juin 18h00 GF  
+Séance présentée par Dominique Païni  
 Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren, _divine horsemen: The Living Gods of Haiti_ de Maya Deren et suivi de de _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren
 
 [62687]  
@@ -314,7 +321,7 @@ de Maya Deren, Alexander Hackenschmied
 États-Unis / 1943 / 14 min / Numérique
 
 - me 14 juin 20h00 HL  
-Ouverture de la rétrospective  
+Ouverture de la rétrospective. Séance présentée par Dominique Païni  
 Film précédé d'_At Land_ de Maya Deren, _L'Etoile de mer_ de Man Ray et suivi de d'_Un chien andalou_ de Luis Buñuel, _Entr'acte_ de René Clair
 
 [30930]  
@@ -366,6 +373,7 @@ Belgique / 1928 / 20 min / DCP
 Avec Georges Hugnet, Kissa Kouprine, Mary Stutz.
 
 - me 21 juin 20h30 GF  
+Séance présentée par Dominique Païni  
 Film précédé de _La Fidélité des images_ de René Magritte, _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën
 
 [33073]  
@@ -406,6 +414,7 @@ de Maya Deren
 États-Unis / 1945 / 14 min / Numérique
 
 - me 21 juin 18h00 GF  
+Séance présentée par Dominique Païni  
 Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren et suivi de de _The Very Eye of Night_ de Maya Deren
 
 [47197]  
@@ -416,7 +425,7 @@ Avec Pierre Batcheff, Simone Mareuil, Salvador Dalí.
 Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près du balcon avant de trancher l'œil grand ouvert d'une jeune fille impassible.
 
 - me 14 juin 20h00 HL  
-Ouverture de la rétrospective  
+Ouverture de la rétrospective. Séance présentée par Dominique Païni  
 Film précédé d'_At Land_ de Maya Deren, _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied et suivi de d'_Entr'acte_ de René Clair
 
 [62683]  
@@ -425,6 +434,7 @@ de Maya Deren
 États-Unis / 1952 / 15 min / Numérique
 
 - me 21 juin 18h00 GF  
+Séance présentée par Dominique Païni  
 Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren
 
 [154366]  

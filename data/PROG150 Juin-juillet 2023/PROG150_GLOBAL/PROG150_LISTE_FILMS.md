@@ -42,7 +42,7 @@
   * Cuadrilátero  
   * Diputado (El)  
   * Estanquera de Vallecas (La)  
-  * Fantasia 3  
+  * Fantasía... 3  
   * Juego de amor prohibido  
   * Miedo a salir de noche  
   * Mujer del ministro (La)  
@@ -89,9 +89,10 @@
 ## L'image des plaisirs. Sexpérimentaux (117)
 
   * Action érotico-patriotique  
+  * Action (The)  
   * Amour fou (L')  
   * Anthem  
-  * Apparatus 'M'  
+  * Apparatus "M"  
   * Apple (The)  
   * Asparagus  
   * Attendant (The)  
@@ -99,12 +100,15 @@
   * Awake But Dreaming  
   * Baby Doll  
   * Barbie aussi peut être triste  
+  * Belle et la Bête (La)  
   * Blanc X  
   * Blanche  
   * Blind Porn  
   * Blue Movie  
   * Ce qu'il advient quand de pauvres beaux hétéros postent des photos d'eux sur l'internet  
   * Cette odeur de sexe  
+  * Ciseaux (Les)  
+  * Color of Love (The)  
   * Come With Me, Swim With You  
   * Cum in My Heart (ou le fabuleux lâcher-prise de Thomas Timbère)  
   * Dan sak sit  
@@ -136,7 +140,7 @@
   * Herstory of Porn : Reel to Real  
   * Heure autosexuelle (L')  
   * India Cabaret  
-  * ITSOFOMO – In the shadow of forward motion  
+  * ITSOFOMO – In the Shadow of Forward Motion  
   * Ixe  
   * Johan  
   * Journal d'un homme marié  
@@ -144,8 +148,6 @@
   * Karima  
   * Kirschenzeit  
   * Kiss 25  
-  * La Belle et la Bête  
-  * Les Ciseaux  
   * Lexique dyslexique  
   * Lezzieflick  
   * Light-Sleep (Félálom)  
@@ -163,7 +165,7 @@
   * Parabellum Girl  
   * Prehistoric Cabaret  
   * Prince of Peace  
-  * Ready-Made with Pelle Lowe  
+  * Ready-Made With Pelle Lowe  
   * Rein/Raus  
   * Relax Be Cruel  
   * Removed  
@@ -172,8 +174,9 @@
   * Ruines (Les)  
   * Scieurs / Jouir malgré tout, Opus 2 (Les)  
   * Sebastiane  
-  * Self-Portrait in 23 rounds: A Chapter in David Wojnarowicz 's life, 1989-1991  
-  * Sewing circle (The)  
+  * Self-Portrait in 23 Rounds: A Chapter in David Wojnarowicz's Life, 1989-1991  
+  * Sewing Circle (The)  
+  * Sex Worker (RhED Arts Project 2016-18) (The)  
   * Shaheen  
   * Siège (Le)  
   * Sodom  
@@ -183,11 +186,8 @@
   * Sylvia Kristel, Paris  
   * Sync  
   * Tabous (Zohre & Manouchehr)  
+  * Tanti Man (The)  
   * Tell Me When You Die  
-  * The Action  
-  * The Color of Love  
-  * The Sex Worker (RhED Arts Project 2016-18)  
-  * The Tanti Man  
   * This Is Not an AIDS Advertisement  
   * Thrust in Me  
   * To the Happy Few  
@@ -243,13 +243,12 @@
   * Vampire (Le)  
   * Welfare
 
-## Ma petite Cinémathèque (17)
+## Ma petite Cinémathèque (16)
 
   * Charge héroïque (La)  
   * Chez la sorcière  
   * Cirque (Le)  
   * Génie du feu (Le)  
-  * Il faut marier papa  
   * Livre de la jungle (Le)  
   * Livre magique (Le)  
   * Lune à un mètre ou Le Rêve de l'astronome (La)  
@@ -323,7 +322,7 @@
 
   * Peau douce (La)
 
-## Vincente Minnelli (33)
+## Vincente Minnelli (34)
 
   * Allons donc, papa !  
   * Au revoir, Charlie  
@@ -337,6 +336,7 @@
   * Gigi  
   * Histoire de trois amours : Mademoiselle  
   * Horloge (L')  
+  * Il faut marier papa  
   * Kismet  
   * Lame de fond  
   * Madame Bovary  
@@ -362,7 +362,7 @@
 ## Warner, années 70 (28)
 
   * Alice n'habite plus ici  
-  * Ballade sauvage (La)  
+  * Balade sauvage (La)  
   * Bonnie and Clyde  
   * Bullitt  
   * Cœur est un chasseur solitaire (Le)  
