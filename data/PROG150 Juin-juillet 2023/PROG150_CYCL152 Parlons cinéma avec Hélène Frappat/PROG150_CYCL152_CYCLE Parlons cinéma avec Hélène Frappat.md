@@ -28,7 +28,7 @@ Harry Moseby, détective privé à Los Angeles, est engagé pour retrouver une a
 
 ---
 
-Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de seize ans, Delly, qui vient de fuguer. Tandis qu'il découvre que son épouse Ellen le trompe avec un autre homme, Harry part à la recherche de la jeune fille et la retrouve en Floride, dans une maison en bord de mer.
+Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de seize ans, Delly, qui vient de fuguer. Il doit faire face à une réalité insoupçonnée.
 
 - je 15 juin 19h30 GF
 

@@ -284,10 +284,10 @@
   * Candide candidat  
   * Cet obscur objet du désir  
   * Chasse du comte Zaroff (La)  
+  * Claude Cahun – Elle et Suzanne  
   * divine horsemen: The Living Gods of Haiti  
   * Doggone Tired  
   * Early Worm Gets the Bird  
-  * Elle et Suzanne  
   * Entr'acte  
   * Etoile de mer (L')  
   * Femme au corbeau (La)  
@@ -362,7 +362,7 @@
 ## Warner, années 70 (28)
 
   * Alice n'habite plus ici  
-  * Balade sauvage (La)  
+  * Ballade sauvage (La)  
   * Bonnie and Clyde  
   * Bullitt  
   * Cœur est un chasseur solitaire (Le)  

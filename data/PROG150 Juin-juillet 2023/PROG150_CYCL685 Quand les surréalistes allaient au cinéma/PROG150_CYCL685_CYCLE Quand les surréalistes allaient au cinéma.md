@@ -111,6 +111,16 @@ Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte du g
 
 - di 18 juin 17h45 HL
 
+[154373]  
+**Claude Cahun – Elle et Suzanne**  
+**(Elle et Suzanne)**  
+de Fabrice Maze  
+France / 2015 / 105 min / Numérique  
+Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe. Un couple mythique.
+
+- je 22 juin 20h15 JE  
+Séance présentée par Fabrice Maze
+
 [154372]  
 **divine horsemen: The Living Gods of Haiti**  
 de Maya Deren  
@@ -134,15 +144,6 @@ de Tex Avery
 
 - sa 17 juin 15h00 GF  
 Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery et suivi de de _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer
-
-[154373]  
-**Elle et Suzanne**  
-de Fabrice Maze  
-France / 2015 / 105 min / Numérique  
-Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe. Un couple mythique.
-
-- je 22 juin 20h15 JE  
-Séance présentée par Fabrice Maze
 
 [47671]  
 **Entr'acte**  

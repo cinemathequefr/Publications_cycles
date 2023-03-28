@@ -17,12 +17,12 @@ Alice, âgée de huit ans, rêve de devenir une star... 27 ans plus tard, elle e
 - me 7 juin 18h30 GF
 
 [33679]  
-**La Balade sauvage**  
+**La Ballade sauvage**  
 **(Badlands)**  
 de Terrence Malick  
 États-Unis / 1973 / 95 min / VOSTF / DCP  
 Avec Martin Sheen, Sissy Spacek, Warren Oates.  
-Holly, 15 ans, rencontre Kit, un jeune éboueur qui vient de plaquer son travail. Lorsque le père d'Holly s'oppose à leur amour, Kit le tue. Le premier film de Terrence Malick se transforme alors en une cavale insouciante et meurtrière sur les routes du Dakota du Sud.
+Holly, 15 ans, rencontre Kit, un jeune éboueur qui vient de plaquer son travail. Lorsque le père d'Holly s'oppose à leur amour, Kit le tue. Le premier film de Terrence Malick se transforme alors en une cavale meurtrière sur les routes du Dakota du Sud.
 
 - di 4 juin 19h45 HL
 
@@ -31,7 +31,7 @@ Holly, 15 ans, rencontre Kit, un jeune éboueur qui vient de plaquer son travail
 d'Arthur Penn  
 États-Unis / 1966 / 111 min / VOSTF / DCP  
 Avec Warren Beatty, Faye Dunaway, Michael J. Pollard.  
-Etats-Unis, les années 1930. C'est la Grande Dépression, suite au krach boursier de 1929. Un couple d'amants criminels, Bonnie Parker et Clyde Barrow, sillone le pays en braquant des banques.
+Etats-Unis, les années 1930. C'est la Grande Dépression à la suite du krach boursier de 1929. Un couple d'amants, Bonnie Parker et Clyde Barrow, sillonnent le pays en braquant des banques.
 
 - me 31 mai 20h00 HL  
 Ouverture de la rétrospective
@@ -42,7 +42,7 @@ de Peter Yates
 États-Unis / 1968 / 114 min / VOSTF / 35 mm  
 D'après le roman _Mute witness_ de Robert L. Pike.  
 Avec Steve McQueen, Robert Vaughn, Jacqueline Bisset.  
-Bullitt, un lieutenant de police, est chargé par un politicien ambitieux de protéger Johnny Ross, un gangster dont le témoignage est capital dans un procès où est impliqué l'homme politique.
+Bullitt, un lieutenant de police, est chargé par un politicien ambitieux de protéger Johnny Ross, un gangster dont le témoignage est attendu devant une commission d'enquête.
 
 - ve 2 juin 18h00 HL
 
@@ -52,7 +52,7 @@ Bullitt, un lieutenant de police, est chargé par un politicien ambitieux de pro
 de Robert Ellis Miller  
 États-Unis / 1967 / VOSTF / 35 mm  
 Avec Alan Arkin, Sondra Locke, Stacy Keach.  
-Ayant trouvé du travail dans une petite ville du Sud des Etats-Unis, John Singer, un sourd-muet, loge chez les Kelly, et tente de devenir l'ami de Mick, leur fille de quatorze ans. ou Quand le sourd-muet Singer déménage dans une petite ville afin de se rapprocher de son seul ami interné dans un hôpital, il s'attache petit à petit à la fille sensible de ses logeurs.
+Ayant trouvé du travail dans une petite ville du Sud des États-Unis, John Singer, un sourd-muet, loge chez les Kelly, et tente de devenir l'ami de Mick, leur fille de quatorze ans.
 
 - di 11 juin 18h00 GF
 
@@ -63,11 +63,11 @@ de John Boorman
 États-Unis / 1971 / 110 min / VOSTF / DCP  
 D'après le roman _Deliverance_ de James Dickey.  
 Avec Jon Voight, Burt Reynolds, Ned Beatty.  
-Quatre hommes de la ville décident, un week-end, de descendre une rivière en canoë dans une région sauvage de Géorgie.
+Quatre citadins américains décident de descendre en canoë une rivière vouée à disparaître après la construction d'un barrage. Ils sont agressés par des habitants locaux et le week-end tourne au cauchemar.
 
 ---
 
-Quatre citadins américains décident de descendre en canoë une rivière vouée à disparaître après la construction d'un barrage. Ils sont agressés par deux forestiers et le week-end tourne au cauchemar.
+Quatre hommes de la ville décident, un week-end, de descendre une rivière en canoë dans une région sauvage de Géorgie.
 
 - sa 3 juin 15h00 HL
 
@@ -98,6 +98,10 @@ de William Friedkin
 États-Unis / 1972 / 122 min / VOSTF / DCP  
 D'après le roman _L'Exorciste_ de William Peter Blatty.  
 Avec Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn.  
+Une adolescente présente tous les signes d'une possession diabolique. Un prêtre est appelé pour combattre le démon qui s'est emparé d'elle.
+
+---
+
 Un prêtre combat un démon qui a investi l'âme d'une fillette.
 
 - di 4 juin 17h15 HL
@@ -112,7 +116,7 @@ Harry Moseby, détective privé à Los Angeles, est engagé pour retrouver une a
 
 ---
 
-Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de seize ans, Delly, qui vient de fuguer. Tandis qu'il découvre que son épouse Ellen le trompe avec un autre homme, Harry part à la recherche de la jeune fille et la retrouve en Floride, dans une maison en bord de mer.
+Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de seize ans, Delly, qui vient de fuguer. Il doit faire face à une réalité insoupçonnée.
 
 - je 15 juin 19h30 GF
 
@@ -132,7 +136,7 @@ Paniquée par la nouvelle de sa grossesse, Natalie Revena quitte le domicile con
 de John Milius  
 États-Unis / 1978 / 120 min / VOSTF / 35 mm  
 Avec Jan-Michael Vincent, William Katt, Gary Busey.  
-Matt, Jack et Leroy, trois amis d'enfance, se retrouvent pour évoquer le temps révolu de leur jeunesse. Dans les années 60, la passion du surf les avait consacrés champions de ce sport. ou Centré sur l'évocation des destins des trois amis, Graffiti Party double cette chronique d'une jeunesse surfeuse par une évocation de l'Amérique des décennies 60 et 70.
+Matt, Jack et Leroy, trois amis d'enfance, partage la même passion du surf les avait consacrés champions de ce sport. Le temps va insensiblement les séparer.
 
 - sa 10 juin 14h30 HL
 
@@ -143,7 +147,7 @@ d'Alan J. Pakula
 États-Unis / 1975 / 138 min / VOSTF / DCP  
 D'après le livre _All the President's Men_ de Carl Bernstein et Bob Woodward.  
 Avec Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam.  
-Bob Woodward et Carl Bernstein, journalistes du « Washington Post », dévoilent les détails du scandale du Watergate qui mène à la démission du président Richard Nixon.
+Bob Woodward et Carl Bernstein, journalistes du « Washington Post », dévoilent les détails du scandale du Watergate qui mènera à la démission du président Richard Nixon.
 
 - me 7 juin 21h00 GF
 
@@ -207,7 +211,7 @@ Luke, condamné pour un acte de vandalisme en état d'ivresse, purge une peine d
 de Martin Scorsese  
 États-Unis / 1973 / 112 min / VOSTF / DCP  
 Avec Robert De Niro, Harvey Keitel, David Proval.  
-Little Italy, à New York. Quatre jeunes voyous, immigrés italiens au service de la Mafia, jouent les durs dans leur quartier.  
+Little Italy, à New York. Quatre jeunes voyous d'origine italienne au service de la Mafia tente par différents moyens de s'imposer dans leur quartier.  
 Version restaurée.
 
 - sa 17 juin 17h15 GF
@@ -298,7 +302,8 @@ Un vagabond trouve malencontreusement un point d'eau dans le désert. Il décide
 [37468]  
 **Woodstock**  
 de Michael Wadleigh  
-États-Unis / 1969 / 185 min
+États-Unis / 1969 / 185 min  
+Documentaire sur le fameux festival organisé les 15, 16 et 17 août 1969 à Bethel, près de Woodstock, dans l'État de New York, qui rassembla 500 000 jeunes.
 
 - lu 12 juin 19h00 GF
 
@@ -307,7 +312,7 @@ de Michael Wadleigh
 de Sydney Pollack  
 États-Unis / 1975 / 85 min / VOSTF / DCP  
 Avec Robert Mitchum, Ken Takakura, Keiko Kishi, Brian Keith.  
-Le détective privé Harry Kilmer retourne au Japon où il a servi pendant la Seconde Guerre mondiale, pour sauver des griffes des Yakuza la fille d'un ami qui a été kidnappée. Cette mission dans les rouages du syndicat japonais du crime le confronte à son passé.
+Le détective privé Harry Kilmer retourne au Japon où il a servi pendant la Seconde Guerre mondiale, pour sauver des griffes des Yakuza la fille d'un ami qui a été kidnappée. Cette mission au cour des rouages du syndicat japonais du crime le confronte à nouveau à son passé.
 
 - sa 10 juin 20h30 GF
 

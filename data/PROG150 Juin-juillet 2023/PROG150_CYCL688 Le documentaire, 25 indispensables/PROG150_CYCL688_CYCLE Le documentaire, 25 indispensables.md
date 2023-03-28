@@ -171,7 +171,8 @@ La Waddenzee, « mer des terres humides », est une région naturelle unique, zo
 **La Fête des peuples**  
 **(Olympia)**  
 de Leni Riefenstahl  
-Allemagne / 1938 / 103 min / VOSTF
+Allemagne / 1938 / 103 min / VOSTF  
+Texte à saisir
 
 - di 2 juil 21h15 GF
 
@@ -312,7 +313,8 @@ Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amou
 [62606]  
 **Welfare**  
 de Frederick Wiseman  
-États-Unis / 1975 / 167 min / DCP
+États-Unis / 1975 / 167 min / DCP  
+Le _Welfare_, système de santé et de sécurité sociale américain traite les problèmes de logement, de chômage, de divorce, les maladies ou maltraitances d'enfants. Frederick Wiseman filme un bureau new-yorkais où afflue une population démunie.
 
 - sa 24 juin 20h30 HL
 
