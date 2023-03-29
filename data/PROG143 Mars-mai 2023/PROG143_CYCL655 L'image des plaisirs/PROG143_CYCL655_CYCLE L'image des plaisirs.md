@@ -159,7 +159,7 @@ suivi de
 [154110]  
 **A Moment in Love**  
 de Shirley Clarke  
-États-Unis / 1956 / 9 min / DCP  
+États-Unis / 1956 / 9 min / Numérique  
 Danse d'amour, fusion suprême. « La plupart des films de danse que j'avais vus étaient affreux, je me suis dit que je pouvais faire mieux. Par essence, le cinéma est un médium chorégraphique. » (Shirley Clarke)
 
 - ve 12 mai 20h45 JE
@@ -293,7 +293,7 @@ Séance présentée par Jean-Pierre Bouyxou
 [154118]  
 **Dead Youth**  
 de Donald Richie  
-Japon / 1967 / 14 min / VO / DCP  
+Japon / 1967 / 14 min / DCP  
 Désir homosexuel, vertige nécrophile, le poème de Donald Richie nous entraîne vers la ligne d'horizon des fantasmes.  
 suivi de  
 [154119]  
@@ -631,7 +631,7 @@ Entre un porno gay avant-gardiste psychédélique, irréel et partousard puis de
 [154019]  
 **Bijou**  
 de Wakefield Poole  
-États-Unis / 1972 / 75 min / VOSTF / Numérique  
+États-Unis / 1972 / 75 min / VOSTF / DCP  
 Avec Ronnie Shark, Cassandra Hart, Lydia Black, Wakefield Poole.  
 « Le protagoniste se love dans un paysage languissant d'amour. Comme tout bon rêve, il offre des touches d'obscurité : un sosie de Steve Reeves erre avec un fouet qui, comme le pistolet de Tchekhov, ne se déclenche jamais. » (H. Drain)  
 suivi de  

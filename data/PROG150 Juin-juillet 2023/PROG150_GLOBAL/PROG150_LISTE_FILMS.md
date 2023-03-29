@@ -35,27 +35,27 @@
 
 ## Eloy de la Iglesia (21)
 
-  * Algo amargo en la boca  
+  * Amants bulgares (Les)  
   * Bal du vaudou (Le)  
+  * Buraliste de Vallecas (La)  
   * Colegas  
-  * Criatura (La)  
-  * Cuadrilátero  
-  * Diputado (El)  
-  * Estanquera de Vallecas (La)  
+  * Créature (La)  
+  * Député (Le)  
   * Fantasía... 3  
-  * Juego de amor prohibido  
-  * Miedo a salir de noche  
-  * Mujer del ministro (La)  
-  * Nadie oyó gritar  
+  * Femme du ministre (La)  
+  * Jeu d'amour interdit  
   * Navajeros  
-  * Novios bulgaros (Los)  
-  * Otra vuelta de tuerca  
+  * Personne n'a entendu crier  
+  * Peur de sortir la nuit  
   * Pico 2 (El)  
   * Pico (El)  
-  * Placeres ocultos (Los)  
-  * Sacerdote (El)  
+  * Plafond de verre (Le)  
+  * Plaisirs cachés  
+  * Prêtre (Le)  
+  * Ring (Le)  
   * Semaine d'un assassin (La)  
-  * Techo de cristal (El)
+  * Un autre tour d'écrou  
+  * Un goût amer dans la bouche
 
 ## Fenêtre sur les collections (8)
 

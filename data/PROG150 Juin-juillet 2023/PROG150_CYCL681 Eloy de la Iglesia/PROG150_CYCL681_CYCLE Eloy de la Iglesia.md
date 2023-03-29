@@ -2,14 +2,15 @@
 
 ## Les films
 
-[154349]  
-**Algo amargo en la boca**  
+[154361]  
+**Les Amants bulgares**  
+**(Los Novios bulgaros)**  
 d'Eloy de la Iglesia  
-Espagne / 1969 / 81 min / VOSTF / 35 mm  
-Avec Maruchi Fresno, Juan Diego, Javier de Campos.  
-Un beau jeune homme passe Noël chez ses trois tantes, qui réagissent chacune très différemment à sa présence.
+Espagne / 2003 / 101 min / VOSTF / 35 mm  
+Avec Fernando Guillén Cuervo, Dritan Biba, Pepón Nieto.  
+Daniel, un homosexuel aisé, tombe éperdument amoureux de Kyril, un attrayant Bulgare de 23 ans avec qui il vit une relation intense, jusqu'à ce que Kyril se marie et commence à emprunter de grosses sommes d'argent à Daniel.
 
-- sa 15 juil 17h30 GF
+- sa 29 juil 20h30 GF
 
 [58500]  
 **Le Bal du vaudou**  
@@ -21,6 +22,16 @@ Dans un futur dystopique, où la société est gouvernée par un État fasciste,
 
 - di 16 juil 17h45 GF
 
+[130401]  
+**La Buraliste de Vallecas**  
+**(La Estanquera de Vallecas)**  
+d'Eloy de la Iglesia  
+Espagne / 1987 / 106 min / VOSTF / Numérique  
+Avec Emma Penella, José Luis Gómez, José Luis Manzano.  
+Leandro et Tocho décident de commettre un braquage dans une supérette en banlieue madrilène, mais rien ne se déroule comme prévu.
+
+- sa 29 juil 17h30 GF
+
 [122824]  
 **Colegas**  
 d'Eloy de la Iglesia  
@@ -31,7 +42,8 @@ Deux frères, Antonio et Rosario vivent en banlieue madrilène. José, un ami d'
 - me 26 juil 17h30 GF
 
 [154356]  
-**La Criatura**  
+**La Créature**  
+**(La Criatura)**  
 d'Eloy de la Iglesia  
 Espagne / 1977 / 100 min / VOSTF / Vidéo  
 Avec Ana Belén, Juan Diego, Claudia Gravy.  
@@ -39,32 +51,15 @@ Après plusieurs années de mariage, Cristina parvient enfin à tomber enceinte.
 
 - je 20 juil 18h30 GF
 
-[154350]  
-**Cuadrilátero**  
-d'Eloy de la Iglesia  
-Espagne / 1970 / 90 min / VOSTF / DCP  
-Avec José María Prada, Rosanna Yanni, Irene Daina.  
-Un manager de boxe découvre que l'un ses poulains les plus prometteurs est tombé amoureux de la femme qu'il convoite.
-
-- sa 15 juil 15h00 GF
-
 [43024]  
-**El Diputado**  
+**Le Député**  
+**(El Diputado)**  
 d'Eloy de la Iglesia  
 Espagne / 1978 / 111 min / VOSTF / DCP  
 Avec José Sacristán, María Luisa San José, Ángel Pardo.  
 Roberto Orbea, député dans un parti de gauche, est mis en prison. À sa sortie, il mène une politique contre le terrorisme, mais un groupuscule franquiste paie sa maîtresse pour le piéger.
 
 - sa 22 juil 15h00 GF
-
-[130401]  
-**La Estanquera de Vallecas**  
-d'Eloy de la Iglesia  
-Espagne / 1987 / 106 min / VOSTF / Numérique  
-Avec Emma Penella, José Luis Gómez, José Luis Manzano.  
-Leandro et Tocho décident de commettre un braquage dans une supérette en banlieue madrilène, mais rien ne se déroule comme prévu.
-
-- sa 29 juil 17h30 GF
 
 [127732]  
 **Fantasía... 3**  
@@ -75,26 +70,9 @@ Adaptation de trois contes pour enfants : _La Petite Sirène_ de Hans Christian 
 
 - je 13 juil 21h30 GF
 
-[154353]  
-**Juego de amor prohibido**  
-d'Eloy de la Iglesia  
-Espagne / 1975 / 85 min / VOSTF / Vidéo  
-Avec Javier Escrivá, John Moulder-Brown, Inma de Santis.  
-Luis, professeur d'université, prend en stop deux étudiants, et leur propose de dormir chez lui avant de reprendre la route le lendemain.
-
-- me 19 juil 19h30 GF
-
-[154358]  
-**Miedo a salir de noche**  
-d'Eloy de la Iglesia  
-Espagne / 1980 / 92 min / VOSTF / DCP  
-Avec José Sacristán, Antonio Ferrandis, Claudia Gravy.  
-Un employé de banque timide est effrayé par la vague de crimes qui envahit la ville dans les premières années de la transition démocratique espagnole.
-
-- sa 22 juil 20h00 GF
-
 [154359]  
-**La Mujer del ministro**  
+**La Femme du ministre**  
+**(La Mujer del ministro)**  
 d'Eloy de la Iglesia  
 Espagne / 1981 / 101 min / VOSTF / DCP  
 Avec Amparo Muñoz, Simón Andreu, Manuel Torres.  
@@ -102,14 +80,15 @@ La marquise de Montenegro, sur le déclin, conserve des amis influents tels que 
 
 - di 23 juil 20h00 GF
 
-[154352]  
-**Nadie oyó gritar**  
+[154353]  
+**Jeu d'amour interdit**  
+**(Juego de amor prohibido)**  
 d'Eloy de la Iglesia  
-Espagne / 1973 / 90 min / VOSTF / DCP  
-Avec Carmen Sevilla, Vicente Parra, María Asquerino.  
-Une femme surprend son voisin en train de jeter un corps dans la cage d'ascenseur, et l'aide à faire disparaître le cadavre. Elle comprend peu à peu les raisons qui ont conduit l'homme au meurtre.
+Espagne / 1975 / 85 min / VOSTF / Vidéo  
+Avec Javier Escrivá, John Moulder-Brown, Inma de Santis.  
+Luis, professeur d'université, prend en stop deux étudiants, et leur propose de dormir chez lui avant de reprendre la route le lendemain.
 
-- di 16 juil 20h00 GF
+- me 19 juil 19h30 GF
 
 [43001]  
 **Navajeros**  
@@ -120,23 +99,25 @@ José Manuel alias « El Jaro » vit avec sa bande de délinquants. Un jour, il 
 
 - di 23 juil 17h30 GF
 
-[154361]  
-**Los Novios bulgaros**  
+[154352]  
+**Personne n'a entendu crier**  
+**(Nadie oyó gritar)**  
 d'Eloy de la Iglesia  
-Espagne / 2003 / 101 min / VOSTF / 35 mm  
-Avec Fernando Guillén Cuervo, Dritan Biba, Pepón Nieto.  
-Daniel, un homosexuel aisé, tombe éperdument amoureux de Kyril, un attrayant Bulgare de 23 ans avec qui il vit une relation intense, jusqu'à ce que Kyril se marie et commence à emprunter de grosses sommes d'argent à Daniel.
+Espagne / 1973 / 90 min / VOSTF / DCP  
+Avec Carmen Sevilla, Vicente Parra, María Asquerino.  
+Une femme surprend son voisin en train de jeter un corps dans la cage d'ascenseur, et l'aide à faire disparaître le cadavre. Elle comprend peu à peu les raisons qui ont conduit l'homme au meurtre.
 
-- sa 29 juil 20h30 GF
+- di 16 juil 20h00 GF
 
-[147104]  
-**Otra vuelta de tuerca**  
+[154358]  
+**Peur de sortir la nuit**  
+**(Miedo a salir de noche)**  
 d'Eloy de la Iglesia  
-Espagne / 1985 / 119 min / VOSTF / DCP  
-Avec Sánchez Pedro Mari, Queta Claver, Asier Hernández.  
-Après avoir terminé une formation traumatisante dans un séminaire jésuite, le jeune Roberto reçoit une lettre du prêtre de son village : le comte local cherche un nouveau professeur pour sa nièce de huit ans, Flora.
+Espagne / 1980 / 92 min / VOSTF / DCP  
+Avec José Sacristán, Antonio Ferrandis, Claudia Gravy.  
+Un employé de banque timide est effrayé par la vague de crimes qui envahit la ville dans les premières années de la transition démocratique espagnole.
 
-- je 27 juil 20h00 GF
+- sa 22 juil 20h00 GF
 
 [43025]  
 **El Pico**  
@@ -156,8 +137,19 @@ Paco, fils du commandant de la Garde Civile, est impliqué dans le meurtre d'un 
 
 - je 27 juil 17h30 GF
 
+[154351]  
+**Le Plafond de verre**  
+**(El Techo de cristal)**  
+d'Eloy de la Iglesia  
+Espagne / 1971 / 92 min / VOSTF / Vidéo  
+Avec Carmen Sevilla, Dean Selmier, Patty Shepard.  
+Une jeune femme, Marta, s'ennuie. Comme elle soupçonne sa voisine d'avoir tué son mari Victor, elle décide de mener l'enquête avec l'aide de Ricardo, leur propriétaire.
+
+- sa 15 juil 20h00 GF
+
 [154355]  
-**Los Placeres ocultos**  
+**Plaisirs cachés**  
+**(Los Placeres ocultos)**  
 d'Eloy de la Iglesia  
 Espagne / 1977 / 95 min / VOSTF / Numérique  
 Avec Simón Andreu, Tony Fuentes, Beatriz Rossat.  
@@ -166,13 +158,24 @@ Eduardo, directeur d'une banque, homosexuel, tombe amoureux du jeune et humble M
 - je 20 juil 20h45 GF
 
 [154357]  
-**El Sacerdote**  
+**Le Prêtre**  
+**(El Sacerdote)**  
 d'Eloy de la Iglesia  
 Espagne / 1979 / 109 min / VOSTF / Numérique  
 Avec Simón Andreu, Emilio Gutiérrez Caba, José Franco.  
 Le père Miguel, un prêtre séduisant et timide de trente-six ans, traverse une crise de conscience provoquée par la présence, dans sa paroisse, d'Irène, une jeune et belle femme mariée, pieuse et passionnée à la fois.
 
 - sa 22 juil 17h30 GF
+
+[154350]  
+**Le Ring**  
+**(Cuadrilátero)**  
+d'Eloy de la Iglesia  
+Espagne / 1970 / 90 min / VOSTF / DCP  
+Avec José María Prada, Rosanna Yanni, Irene Daina.  
+Un manager de boxe découvre que l'un ses poulains les plus prometteurs est tombé amoureux de la femme qu'il convoite.
+
+- sa 15 juil 15h00 GF
 
 [127733]  
 **La Semaine d'un assassin**  
@@ -185,14 +188,25 @@ Employé dans une usine de découpe de viande, Marcos mène une vie solitaire da
 - me 12 juil 20h00 HL  
 Ouverture de la rétrospective
 
-[154351]  
-**El Techo de cristal**  
+[147104]  
+**Un autre tour d'écrou**  
+**(Otra vuelta de tuerca)**  
 d'Eloy de la Iglesia  
-Espagne / 1971 / 92 min / VOSTF / Vidéo  
-Avec Carmen Sevilla, Dean Selmier, Patty Shepard.  
-Une jeune femme, Marta, s'ennuie. Comme elle soupçonne sa voisine d'avoir tué son mari Victor, elle décide de mener l'enquête avec l'aide de Ricardo, leur propriétaire.
+Espagne / 1985 / 119 min / VOSTF / DCP  
+Avec Sánchez Pedro Mari, Queta Claver, Asier Hernández.  
+Après avoir terminé une formation traumatisante dans un séminaire jésuite, le jeune Roberto reçoit une lettre du prêtre de son village : le comte local cherche un nouveau professeur pour sa nièce de huit ans, Flora.
 
-- sa 15 juil 20h00 GF
+- je 27 juil 20h00 GF
+
+[154349]  
+**Un goût amer dans la bouche**  
+**(Algo amargo en la boca)**  
+d'Eloy de la Iglesia  
+Espagne / 1969 / 81 min / VOSTF / 35 mm  
+Avec Maruchi Fresno, Juan Diego, Javier de Campos.  
+Un beau jeune homme passe Noël chez ses trois tantes, qui réagissent chacune très différemment à sa présence.
+
+- sa 15 juil 17h30 GF
 
 ## Rencontres et conférences
 

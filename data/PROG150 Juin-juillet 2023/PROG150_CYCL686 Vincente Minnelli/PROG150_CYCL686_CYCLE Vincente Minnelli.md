@@ -75,9 +75,10 @@ Laura Reynolds, peintre anticonformiste, vit sur la côte californienne avec son
 **(Some Came Running)**  
 de Vincente Minnelli  
 États-Unis / 1958 / 137 min / VOSTF / 35 mm  
-D'après lz roman _Comme un torrent_ de James Jones.  
+D'après le roman _Comme un torrent_ de James Jones.  
 Avec Frank Sinatra, Dean Martin, Shirley MacLaine, Arthur Kennedy.  
-Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, et flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tout point son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature.
+Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, et flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tout point son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature.  
+« Une province américaine trop étriquée et rooseveltienne pour un vétéran qui se voudrait Hemingway. Mélodrame de légende, que Godard achèvera d'écrire avec _Le Mépris_, par le plus grand coloriste du cinéma hollywoodien. » (Frédéric Bonnaud)
 
 - me 5 juil 19h00 HL  
 - sa 22 juil 19h30 HL

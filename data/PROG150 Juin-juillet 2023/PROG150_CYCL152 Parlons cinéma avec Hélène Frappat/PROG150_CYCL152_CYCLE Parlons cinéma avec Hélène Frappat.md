@@ -4,6 +4,10 @@ La Cinémathèque invite une personnalité à programmer quelques séances pour 
 
 ## Les films
 
+« J'ai mis vingt ans à écrire _Trois femmes disparaissent._ Vingt années au cours desquelles mes terrains d'investigation – de mes études de philosophie aux enquêtes policières de mes sept ans, époque où j'imitais Agatha Christie et _Fantômette_ \- ont fini par coïncider avec mon fantasme absolu : offrir aux lecteurs un équivalent de la séance d'hypnose ou de cinéma. Je ne veux pas choisir parmi mes centaines de films préférés. Je préfère proposer aux spectateurs un récit en quatre chapitres : quatre films qui font écho aux obsessions de _Trois femmes disparaissent_. Ça commence dans la jungle, où une mère et sa fille ont peur, et ont mal. Partout rôdent les fauves ; les _big cats_ ne parlent pas, ils feulent, ils rugissent, _ROAR_, et ils volent la vedette. Vite il faut fuir ! La fille doit fuir sa mère qui veut l'enfermer avec les lions. C'est _La Fugue_ de la fille, loin, très loin, au bord d'un océan peuplé de crocodiles. Un détective aux ordres de la mère est sur les traces de la fille. Aucune enquête n'empêche la tragédie de s'accomplir. La tragédie, c'est que la fille est contrainte de _traduire_ le monde pour sa mère ; elle est contrainte, pour réussir sa vie, de ne pas ressembler à sa mère (_Spanglish_). La tragédie, c'est que les femmes ont beau devenir des écrivaines _Riches et célèbres_, le monde les contraint à choisir entre le commerce de la romance, et la recherche âpre de l'art et et de la liberté. » Hélène Frappat
+
+Hélène Frappat est écrivaine, _aka_ espionne. Triple agent, elle est romancière ; critique de cinéma ; traductrice. Depuis son premier livre, _Jacques Rivette, secret compris_ (Éditions des Cahiers du cinéma, 2001), elle a notamment publié Roberto Rossellini (Cahiers du cinéma/Le Monde, 2007), _Toni Servillo, le dernier monstre_ (Séguier, 2018), ainsi que neuf romans, à commencer par _Sous réserve_ (Allia, 2004). Traductrice de l'anglais et de l'italien (des philosophes Hannah Arendt et Adorno aux romancières Ann Patchett et Laura Lippman), elle a produit le magazine mensuel de cinéma _Rien à voir_ sur France Culture et de très nombreux documentaires. Son ultime roman, _Trois femmes disparaissent_ (Actes Sud, 2023), tisse le destin d'une lignée de stars – Tippi Hedren, Melanie Griffith, Dakota Johnson –, dans une forme héritée de la tragédie antique qui transgresse les frontières entre littérature, exégèse philosophique et cinématographique.
+
 [34562]  
 **Roar**  
 de Noël Marshall  
@@ -30,6 +34,10 @@ Harry Moseby, détective privé à Los Angeles, est engagé pour retrouver une a
 
 Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de seize ans, Delly, qui vient de fuguer. Il doit faire face à une réalité insoupçonnée.
 
+---
+
+Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de seize ans, Delly, qui vient de fuguer. Tandis qu'il découvre que son épouse Ellen le trompe avec un autre homme, Harry part à la recherche de la jeune fille et la retrouve en Floride, dans une maison en bord de mer.
+
 - je 15 juin 19h30 GF
 
 [31509]  
@@ -49,4 +57,4 @@ de James L. Brooks
 
 - je 29 juin 19h00 GF
 
-Remerciements : Diaphana Distribution, INA, Les Acacias, Tamasa Distribution
+Remerciements : Carlotta, Columbia Tristar Films, Warner Bros.

@@ -96,7 +96,8 @@ Belgique-France-RFA-Italie / 1971 / 101 min / DCP
 Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
 Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
 
-- ve 23 juin 20h45 GF
+- ve 23 juin 20h45 GF  
+Séance présentée par Jean-Marc Lalanne
 
 [73254]  
 **Montagnes magiques**  
