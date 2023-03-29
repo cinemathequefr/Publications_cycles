@@ -138,8 +138,8 @@ Film suivi de _La Lune à un mètre ou Le Rêve de l'astronome_ de Georges Méli
 de Vincente Minnelli  
 États-Unis / 1948 / 102 min / VOSTF / 35 mm  
 D'après la pièce _The Pirate_ de S.N. Behrman.  
-Avec Gene Kelly, Judy Garland, Lola Albright.  
-Manuela rêve des exploits du pirate Macoco, elle en est amoureuse sans le connaître. Sa tante veut la marier à don Pedro Vargas, un homme riche et influent quand elle rencontre Serafin, un saltimbanque, qui pour la séduire, se fait passer pour le fameux pirate désiré.
+Avec Gene Kelly, Judy Garland, Lola Albright, Walter Slezak.  
+Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le connaître., mais sa tante veut la marier à Don Pedro Vargas, un homme riche et influent. Elle rencontre Serafin, un saltimbanque, qui, pour la séduire, se fait passer pour le fameux pirate désiré.
 
 - di 2 juil 15h00 HL  
 - sa 22 juil 14h30 HL
