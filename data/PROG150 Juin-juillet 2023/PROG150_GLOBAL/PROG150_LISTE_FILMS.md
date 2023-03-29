@@ -322,7 +322,7 @@
 
   * Peau douce (La)
 
-## Vincente Minnelli (34)
+## Vincente Minnelli (35)
 
   * Allons donc, papa !  
   * Au revoir, Charlie  
@@ -344,6 +344,7 @@
   * Melinda  
   * Nina  
   * Père de la mariée (Le)  
+  * Pirate (Le)  
   * Pluie qui chante (La)  
   * Quatre cavaliers de l'Apocalypse (Les)  
   * Qu'est-ce que maman comprend à l'amour ?  
