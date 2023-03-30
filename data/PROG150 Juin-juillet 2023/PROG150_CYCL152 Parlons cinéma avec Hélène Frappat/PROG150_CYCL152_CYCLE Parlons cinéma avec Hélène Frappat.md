@@ -28,15 +28,7 @@ Hank, scientifique américain installé en Afrique, étudie les félins en vivan
 d'Arthur Penn  
 États-Unis / 1975 / 100 min / VOSTF / 35 mm  
 Avec Gene Hackman, Susan Clark, Melanie Griffith, James Woods.  
-Harry Moseby, détective privé à Los Angeles, est engagé pour retrouver une adolescente en fuite. Moseby traque la fille, et tombe sur quelque chose de beaucoup plus sombre et intrigant. Atteint dans ses convictions, il remet en question sa propre existence.
-
----
-
-Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de seize ans, Delly, qui vient de fuguer. Il doit faire face à une réalité insoupçonnée.
-
----
-
-Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de seize ans, Delly, qui vient de fuguer. Tandis qu'il découvre que son épouse Ellen le trompe avec un autre homme, Harry part à la recherche de la jeune fille et la retrouve en Floride, dans une maison en bord de mer.
+Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de 16 ans, qui vient de fuguer. Tandis qu'il découvre que son épouse Ellen le trompe avec un autre homme, Harry part à la recherche de la jeune fille et la retrouve en Floride, dans une maison en bord de mer.
 
 - je 15 juin 19h30 GF
 

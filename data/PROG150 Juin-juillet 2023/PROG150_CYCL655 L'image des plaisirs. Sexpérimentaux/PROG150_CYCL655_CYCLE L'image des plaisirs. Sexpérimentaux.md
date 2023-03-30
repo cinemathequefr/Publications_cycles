@@ -390,13 +390,13 @@ suivi de
 **The Story of I**  
 de Jo Ann Kaplan  
 Grande-Bretagne / 1997 / 23 min / DCP  
-Une femme couchée dans une baignoire lit _L'histoire de l'œil_ de Georges Bataille. L'œil devient le vagin, vu à travers le sang, l'urine et les larmes, il se regarde au miroir.  
+Une femme couchée dans une baignoire lit _L'Histoire de l'œil_ de Georges Bataille. L'œil devient le vagin, vu à travers le sang, l'urine et les larmes, il se regarde au miroir.  
 suivi de  
 [154223]  
 **Noema**  
 de Scott Stark  
 États-Unis / 1998 / 11 min / 16 mm  
-« _Noema_ permet à la pornographie de dialoguer avec un formalisme rigoureux. Les corps ne peuvent se dissoudre dans une forme pure ; ils la frôlent mais restent au bord du hardcore. » (M. Sicinski)  
+« _Noema_ permet à la pornographie de dialoguer avec un formalisme rigoureux. Les corps ne peuvent se dissoudre dans une forme pure ; ils la frôlent mais restent au bord du hardcore. » (Michael Sicinski)  
 suivi de  
 [141242]  
 **The Fall of Communism As Seen in Gay Pornography**  
@@ -408,7 +408,7 @@ suivi de
 **Va te faire enculer**  
 de Yves-Marie Mahé  
 France / 1998 / 10 min / Numérique  
-« I wanna funk with you tonite (Giorgio Moroder). » (Y-M.M.)  
+« I Wanna Funk With You Tonite (Giorgio Moroder). » (Yves-Marie Mahé)  
 suivi de  
 [154044]  
 **Violentes femmes**  
@@ -421,13 +421,13 @@ suivi de
 **Le Siège**  
 de Yves-Marie Mahé  
 France / 1999 / 3 min / Numérique  
-« Lève-toi de ta chaise qu'on voit tes fesses. » (Y-M.M.)  
+« Lève-toi de ta chaise qu'on voie tes fesses. » (Yves-Marie Mahé)  
 suivi de  
 [154046]  
 **Fuck**  
 de Yves-Marie Mahé  
 France / 1999 / 7 min / Numérique  
-« Depuis qu'elle m'a quitté, je l'imagine avec d'autres hommes. L'écoute de chansons populaires romantiques ne me soulage pas. » (Y-M.M.)  
+« Depuis qu'elle m'a quitté, je l'imagine avec d'autres hommes. L'écoute de chansons populaires romantiques ne me soulage pas. » (Yves-Marie Mahé)  
 suivi de  
 [154224]  
 **The Tanti Man**  
@@ -458,14 +458,14 @@ suivi de
 **Fountain**  
 de Patty Chang  
 États-Unis / 1999 / 6 min / Numérique  
-Performance, pour un-e tout autre Narcisse.  
+Performance, pour un·e tout·e autre Narcisse.  
 suivi de  
 [154047]  
 **Herstory of Porn : Reel to Real**  
 de Carol Leigh, Annie Sprinkle  
 États-Unis / 1999 / 69 min / VOSTF / DCP  
 Avec Annie Sprinkle, Sirena, Raul Del Rio.  
-Annie Sprinkle, artiste et figure de la pornographie et de la communauté queer féministe pro sexe commente avec mordant et humour des extraits de certains des deux cents films qu'elle a réalisés au cours du dernier quart de siècle.  
+Annie Sprinkle, artiste et figure de la pornographie et de la communauté queer féministe pro-sexe commente avec mordant et humour des extraits de certains des deux cents films qu'elle a réalisés au cours du dernier quart de siècle.  
 suivi de  
 [154050]  
 **Hand to Mouth**  
@@ -582,7 +582,7 @@ suivi de
 **Electric Desire**  
 d'Émilie Jouvet  
 France / 2004 / 4 min / Numérique  
-« Comment séduire et exciter son sex toy ? » (E.J.)  
+« Comment séduire et exciter son sex toy ? » (Émilie Jouvet)  
 suivi de  
 [154062]  
 **Blind Porn**  
@@ -602,7 +602,7 @@ suivi de
 d'Émilie Jouvet  
 France / 2008 / 6 min / Numérique  
 Avec Wendy Delorme.  
-« Eve s'éveille au Paradis, trouve une pomme... et commet un délicieux péché. » (E.J.) Une réinterprétation du mythe d'Ève qui donne beaucoup à penser.
+« Ève s'éveille au paradis, trouve une pomme... et commet un délicieux péché. » (Émilie Jouvet) Une réinterprétation du mythe d'Ève qui donne beaucoup à penser.
 
 - me 14 juin 18h00 JE  
 Séance présentée par Émilie Jouvet
@@ -612,7 +612,7 @@ Séance présentée par Émilie Jouvet
 D'où vient la violence ? Elle est multiple, elle nous assiège, nous en sommes le siège : démence des torrents d'images (Gimel, Brambilla, Noé, Swiczinsky), brutalité des pratiques que les êtres humains s'infligent à eux-mêmes et aux autres (Chanfro, Kowalski, Arbid)... Qu'est-ce qui émerge de cette faille étrange entre la nature et nos fantasmes (Grandrieux) ? Autoportrait collectif de l'humanité en monstre ordinaire.
 
 [154054]  
-**Fig.4**  
+**Fig. 4**  
 d'Augustin Gimel  
 France / 2004 / 5 min / Numérique  
 Augustin Gimel prend acte du déluge pornographique déversé par internet.  
@@ -621,37 +621,37 @@ suivi de
 **Met**  
 de Philippe Grandrieux  
 France / 2005 / 6 min / Numérique  
-La beauté, le mystère, le monde est tout ce qui arrive et même Wittgenstein avait des carnets secrets.  
+La beauté, le mystère, le monde est tout ce qui arrive, et même Wittgenstein avait des carnets secrets.  
 suivi de  
 [154059]  
-**Les Scieurs / Jouir malgré tout, Opus 2**  
+**Les Scieurs (Jouir malgré tout, opus 2)**  
 de Laurence Chanfro  
 France / 2005 / 5 min / Numérique  
-« Film performance. Une masturbation avec un godemiché transparent, donnant une vision du sexe féminin bien particulière, a lieu pendant la diffusion en direct, d'un documentaire régionalo-macho. » (CJC)  
+« Film performance. Une masturbation avec un godemiché transparent, donnant une vision du sexe féminin bien particulière, a lieu pendant la diffusion en direct d'un documentaire régionalo-macho. » (CJC)  
 suivi de  
 [154055]  
 **Journal d'un homme marié**  
 de Lech Kowalski  
 France / 2005 / 22 min / Numérique  
-« Un monde où l'on caresse les voitures au milieu de la nuit, où l'on se réduit à l'esclavage sexuel pour échapper à une autre servitude, où l'on finit seul à se masturber dans une nature hostile et froide. » (Barbara Levandangeur)  
+« Un monde où l'on caresse les voitures au milieu de la nuit, où l'on se réduit à l'esclavage sexuel pour échapper à une autre servitude, où l'on finit seul à se masturber dans une nature hostile et froide. » (Barbara Levendangeur)  
 suivi de  
 [154228]  
 **Shaheen**  
 de Camille Ducellier  
 France / 2006 / 9 min / Numérique  
-Quelques instants avec les travailleuses du sexe queer indiennes (Hijras) : un vrai jeu entre la caméra et ces magnifiques femmes trans se mettant elles-mêmes en scène. Le cinéma devient une façon de se déclarer son amour, s'embrasser et se libérer.  
+Quelques instants avec les travailleuses du sexe queer indiennes (_hijras_) : un vrai jeu entre la caméra et ces magnifiques femmes trans se mettant elles-mêmes en scène. Le cinéma devient une façon de se déclarer son amour, s'embrasser et se libérer.  
 suivi de  
 [154057]  
 **Sync**  
 de Marco Brambilla  
 États-Unis / 2006 / 2 min / Numérique  
-« _Sync_ reflète l'expansion exponentielle du sexe graphique et de la brutalité dans la culture populaire et le cinéma contemporains. »  
+_Sync_ reflète l'expansion exponentielle du sexe graphique et de la brutalité dans la culture populaire et le cinéma contemporains.  
 suivi de  
 [154058]  
 **We Fuck Alone**  
 de Gaspar Noé  
 France / 2006 / 24 min / Numérique  
-Alone avec les images. « Une jeune femme se masturbe avec son ours en peluche. Un homme regarde la scène sur l'écran de sa télévision et se masturbe à l'aide d'une poupée gonflable. » (Côté Court)  
+_Alone_ avec les images. « Une jeune femme se masturbe avec son ours en peluche. Un homme regarde la scène sur l'écran de sa télévision et se masturbe à l'aide d'une poupée gonflable. » (Côté court)  
 suivi de  
 [154064]  
 **Lezzieflick**  
@@ -674,7 +674,7 @@ Films de réalisatrices subversives dont les démarches consistent à déconstru
 
 [154229]  
 **Les Ruines**  
-**(El Atlal)**  
+**(Al-Atlal)**  
 de Zoulikha Bouabdellah  
 France-Algérie / 2009 / 4 min / DCP  
 « Zoulikha Bouabdellah lutte avec fermeté contre l'orientalisme stéréotypant et contre toute forme d'exotisme lié au corps des femmes orientales. » (Julie Crenn)  
@@ -693,7 +693,8 @@ Avec Coralie Trinh-Thi, Lydia Lunch.
 Quatre variations sur des écritures documentaires, prenant explicitement ou implicitement en charge l'histoire des images. À vingt ans de distance, _Diptychon_ observe la similitude de gestes masturbatoires. À trente ans de distance, _Rent Boys_ offre un pendant documentaire _à Moi, Christiane_ F (Uli Edel, 1981) et s'avère aussi puissant que son célèbre prédécesseur. Dans ce monde administré, l'activité sexuelle semble ne viser que le soulagement (_rein/aus_), seules les images s'avèrent capables d'orgasmes inouïs (_Light-Sleep_).
 
 [154068]  
-**Light-Sleep (Félálom)**  
+**Light Sleep**  
+**(Félálom)**  
 de Péter Lichter  
 Hongrie / 2009 / 6 min / Numérique  
 Visions de nudité féminine et bribes de scène érotiques très explicites qui constituent l'imaginaire rêvé et cauchemardesque d'un enfant endormi.  
@@ -708,7 +709,7 @@ suivi de
 **Diptychon**  
 de Jan Soldat  
 Allemagne / 2021 / 3 min / VO / Numérique  
-They fuck alone. À dix ans de distance. Ethnologie visuelle.  
+_They fuck alone._ À dix ans de distance. Ethnologie visuelle.  
 suivi de  
 [154232]  
 **Die Jungs vom Bahnhof Zoo**  
@@ -740,7 +741,7 @@ suivi de
 **El Guaraches**  
 d'Azucena Losana  
 Mexique / 2013 / 4 min / Numérique  
-« El guaraches » (sandales de cuir) est le surnom du propriétaire de cette petite boutique, à la fois cordonnerie et mezcaleria, située à Cuicatlán, Oaxaca (Mexique). » La sexualité est ici objectivée par les petits fétiches du quotidien.  
+« El Guaraches » (« Sandales de cuir ») est le surnom du propriétaire de cette petite boutique, à la fois cordonnerie et mezcalería, située à Cuicatlán, Oaxaca (Mexique). La sexualité est ici objectivée par les petits fétiches du quotidien.  
 suivi de  
 [154237]  
 **Prehistoric Cabaret**  
@@ -750,25 +751,25 @@ France / 2013 / 10 min / DCP
 suivi de  
 [154066]  
 **Kirschenzeit**  
-de Friedl Vom Gröller  
+de Friedl vom Gröller  
 Autriche / 2013 / 3 min / Numérique  
 « J'ai préparé le bol de cerises, j'ai rempli la carafe d'eau, j'ai disposé le corsage et le caleçon de cuir pour Madame et Monsieur. »  
 suivi de  
 [154067]  
 **Eva**  
-de Friedl Vom Gröller  
+de Friedl vom Gröller  
 Autriche / 2014 / 3 min / Numérique  
-Le mythe de l'Eve biblique, revisité au prisme de 4 jeunes femmes de notre temps.  
+Le mythe de l'Ève biblique revisité au prisme de quatre jeunes femmes de notre temps.  
 suivi de  
 [154239]  
 **Enduring Ornament**  
-de M.M. Serra, Josh Lewis  
+de M. M. Serra, Josh Lewis  
 États-Unis / 2014 / 14 min / Numérique  
-Remploi de films pornographiques issus d'une librairie pour adultes, accompagnés par la poésie de la surréaliste baronne Elsa von Freytag Loringhoven.  
+Remploi de films pornographiques issus d'une librairie pour adultes, accompagnés par la poésie de la surréaliste baronne Elsa von Freytag-Loringhoven.  
 suivi de  
 [154236]  
-**Solitary Acts#4**  
-de Nazli Dincel  
+**Solitary Acts #4**  
+de Nazlı Dinçel  
 Turquie / 2015 / 9 min / Numérique  
 « Avec une angoisse adolescente, elle refuse l'orgasme à tout autre qu'elle-même. » (Light Cone)
 
@@ -783,31 +784,31 @@ Séance présentée par Derek Woolfenden et David Matarasso
 **Tell Me When You Die**  
 d'Amber Bemak, Nadia Granados  
 Mexique / 2015 / 12 min / Numérique  
-« Nous considérons la pénétration comme un rythme cinématographique, et expérimentons/jouons la pénétration par l'air, l'eau, les doigts et le texte. » (AM/NG)  
+« Nous considérons la pénétration comme un rythme cinématographique, et expérimentons/jouons la pénétration par l'air, l'eau, les doigts et le texte. » (Amber Bemak, Nadia Granados)  
 suivi de  
 [154238]  
 **The Exquisite Corpus**  
 de Peter Tscherkassky  
 Autriche / 2015 / 19 min / DCP  
-« Les films érotiques dont je me suis servi racontent une histoire avec pour unique objectif de montrer des corps humains nus. Alors mets au premier plan le corps du film lui-même, qui devient ainsi le thème central de _The Exquisite Corpus_. » (PT)  
+« Les films érotiques dont je me suis servi racontent une histoire avec pour unique objectif de montrer des corps humains nus. Alors je mets au premier plan le corps du film lui-même, qui devient ainsi le thème central de _The Exquisite Corpus_. » (Peter Tscherkassky)  
 suivi de  
 [154240]  
 **Fuck Tree**  
 de Liz Rosenfeld  
 Allemagne / 2017 / 9 min / DCP  
-« Portrait d'un arbre célèbre dans une zone de drague de Hampstead Heath. Inspirée par les méthodes d'érosion de Luther Price, Rosenfeld enterre des bouts de la copie originale dans le jardin de LUX, trempés dans le sperme. » (Lux)  
+« Portrait d'un arbre célèbre dans une zone de drague de Hampstead Heath. Inspirée par les méthodes d'érosion de Luther Price, Rosenfeld enterre des bouts de la copie originale dans le jardin de LUX, trempés dans le sperme. » (LUX)  
 suivi de  
 [154073]  
 **Why I Want to Fuck Djokhar Tsarnaev**  
-de Geoffroy Dedenis  
+de Geoffroy C. Dedenis  
 France / 2017 / 18 min / Numérique  
-« Description du paysage médiatique, où le protagoniste contemple l'univers paranoïaque qui l'entoure et y trouve une résolution à travers sa propre catastrophe. Le terrorisme est toujours celui du réel. » (GCD)  
+« Description du paysage médiatique, où le protagoniste contemple l'univers paranoïaque qui l'entoure et y trouve une résolution à travers sa propre catastrophe. Le terrorisme est toujours celui du réel. » (Geoffroy C. Dedenis)  
 suivi de  
 [154072]  
 **Zarosli**  
 d'Oksana Kazmina  
 Ukraine / 2017 / 15 min / Numérique  
-« Ma pratique n'existe pas sans mon plaisir. Je veux goûter à tous les plaisirs dont mon corps est capable. Je ne les donnerai à personne. J'enduis le mucus de mes plaisirs, je pratique le rire et les caresses, les sentiments et les sensations. » (O.K.)  
+« Ma pratique n'existe pas sans mon plaisir. Je veux goûter à tous les plaisirs dont mon corps est capable. Je ne les donnerai à personne. J'enduis le mucus de mes plaisirs, je pratique le rire et les caresses, les sentiments et les sensations. » (Oksana Kazmina)  
 suivi de  
 [154245]  
 **The Sex Worker (RhED Arts Project 2016-18)**  
@@ -816,7 +817,7 @@ Australie / 2018 / 3 min / Numérique
 Présentation d'ensemble du projet RhED à Melbourne, sous l'égide d'Amnesty International, visant à défendre les droits des travailleurs du sexe.  
 suivi de  
 [154241]  
-**Virtual walk thru 'The Sex Worker' Exhibition, Gasworks Arts Park**  
+**Virtual Walk Thru "The Sex Worker" Exhibition, Gasworks Arts Park**  
 de Tamara Desiatov  
 Australie / 2018 / 4 min / Numérique  
 « Une exposition d'art par des travailleuses du sexe de Victoria, Australie. Une occasion de remettre en question vos propres attitudes et de voir le travail du sexe à travers la perspective des artistes, les travailleuses du sexe elles-mêmes. »  
@@ -850,7 +851,7 @@ suivi de
 **Awake But Dreaming**  
 de Mathieu Morel  
 France / 2020 / 4 min / Numérique  
-« Exercice de collage entièrement composé de fichiers gifs, likés sur Tumblr en 2019. » (M.M.)  
+« Exercice de collage entièrement composé de fichiers gif likés sur Tumblr en 2019. » (Mathieu Morel)  
 suivi de  
 [154094]  
 **Ce qu'il advient quand de pauvres beaux hétéros postent des photos d'eux sur l'internet**  
@@ -868,13 +869,13 @@ suivi de
 **La Belle et la Bête**  
 de Mathieu Morel  
 France / 2021 / 13 min / Numérique  
-Cette adaptation libre, romantique, rock, punk, queer du conte de Mme Leprince de Beaumont est, après les chefs-d'œuvre de Browning, Lynch ou Gonzalez, une célébration des Freaks, des laissé.e.s pour compte, une invitation à l'amour et à la beauté.  
+Cette adaptation libre, romantique, rock, punk, queer du conte de M<sup>me</sup> Leprince de Beaumont est, après les chefs-d'œuvre de Browning, Lynch ou Gonzalez, une célébration des Freaks, des laissé·e·s pour compte, une invitation à l'amour et à la beauté.  
 suivi de  
 [154097]  
 **Cum in My Heart (ou le fabuleux lâcher-prise de Thomas Timbère)**  
 de Mathieu Morel  
 France / 2022 / 22 min / Numérique  
-« Le film évoque le suicide adolescent et l'espace douloureux que prend le fantasme lorsque l'on n'a rien d'autre qu'internet pour vivre sa sexualité. » (M.M.)
+« Le film évoque le suicide adolescent et l'espace douloureux que prend le fantasme lorsque l'on n'a rien d'autre qu'internet pour vivre sa sexualité. » (Mathieu Morel)
 
 - sa 17 juin 16h00 JE  
 Séance présentée par Mathieu Morel
@@ -893,27 +894,27 @@ suivi de
 **Survival of the Sickest**  
 de Geoffroy C. Dedenis  
 France / 2019 / 2 min / Numérique  
-« L'un des « Violent Wallpapers » réalisés à la demande du féérique Pierre Emö pour Pornceptual à Berlin. On les projetait sur les murs pendant que les participants faisaient ce qu'ils avaient à faire. Je crois qu'on les passait au ralenti. » (GCD)  
+« L'un des _« violent wallpapers »_ réalisés à la demande du féérique Pierre Emö pour Pornceptual à Berlin. On les projetait sur les murs pendant que les participants faisaient ce qu'ils avaient à faire. Je crois qu'on les passait au ralenti. » (Geoffroy C. Dedenis)  
 suivi de  
 [154390]  
 **Relax Be Cruel**  
 de Marion Scemama  
 États-Unis-France / 2023 / 39 min / DCP  
-« Hommage à un lieu mythique de New York, le Pier 34, emblématique du bouillonnement de la scène underground qui explosait au début des années 80 et des lieux de rencontres homosexuelles anonymes. Le dernier espace de liberté avant les années Sida. » (Marion Scemama)  
+« Hommage à un lieu mythique de New York, le Pier 34, emblématique du bouillonnement de la scène underground qui explosait au début des années 80 et des lieux de rencontres homosexuelles anonymes. Le dernier espace de liberté avant les années sida. » (Marion Scemama)  
 Première mondiale  
 suivi de  
 [154242]  
-**Dan sak sit**  
+**Dan sak sit [ATTENTION : INDIQUER SEULEMENT FILM SURPRISE]**  
 de Thunska Pansittivorakul  
 Thaïlande / 2020 / 63 min / VOSTA / Numérique  
-Les noms du film et du réalisateur ne doivent pas être mentionnés. Mettre seulement: Film surprise et la durée 63 minutes
+Déconstruction filmique et politique des tabous de la sexualité en Thaïlande à travers une histoire d'amour récurrente et passionnelle entre deux hommes qui sont tous deux des artistes visuels.
 
 - sa 17 juin 18h30 JE  
 Séance présentée par Marion Scemama
 
 ## Rencontres et conférences
 
-**L'image des plaisirs : De quoi le film me rend-il sujet ?**  
+**« L'Image des Plaisirs : de quoi le film me rend-il sujet ? » par Frédéric Tachou**  
 **Conférence de Frédéric Tachou**  
 Cinéaste et docteur en esthétique et sciences de l'art à Paris-1, Frédéric Tachou a été président du Collectif Jeune Cinéma (CJC), structure de distribution et de diffusion des pratiques expérimentales de l'image et du film. Il est l'auteur de _Et le sexe entra dans la modernité_ (Klincksieck, 2014).
 

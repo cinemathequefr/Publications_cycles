@@ -18,7 +18,7 @@ Daniel, un homosexuel aisé, tombe éperdument amoureux de Kyril, un attrayant B
 d'Eloy de la Iglesia  
 Espagne-France / 1973 / 95 min / VOSTF / Numérique  
 Avec Sue Lyon, Christopher Mitchum, Jean Sorel.  
-Dans un futur dystopique, où la société est gouvernée par un État fasciste, une série de crimes terrifie les habitants d'une grande ville. Ana, infirmière du Grand Hôpital, se rend compte que les victimes sont des jeunes tourmentés.
+Dans un futur dystopique où la société est gouvernée par un État fasciste, une série de crimes terrifie les habitants d'une grande ville. Ana, infirmière du Grand Hôpital, se rend compte que les victimes sont toutes des jeunes tourmentés.
 
 - di 16 juil 17h45 GF
 
@@ -37,7 +37,7 @@ Leandro et Tocho décident de commettre un braquage dans une supérette en banli
 d'Eloy de la Iglesia  
 Espagne / 1982 / 117 min / VOSTF / DCP  
 Avec Antonio Flores, Rosario Flores, José Luis Manzano.  
-Deux frères, Antonio et Rosario vivent en banlieue madrilène. José, un ami d'Antonio est l'amant de Rosario. Tous les trois peinent à trouver un emploi. Antonio et José décident de se livrer à la prostitution dans un sauna gay.
+Deux frères, Antonio et Rosario, vivent en banlieue madrilène. José, un ami d'Antonio, est l'amant de Rosario. Tous les trois peinent à trouver un emploi. Antonio et José décident de se livrer à la prostitution dans un sauna gay.
 
 - me 26 juil 17h30 GF
 
@@ -47,7 +47,7 @@ Deux frères, Antonio et Rosario vivent en banlieue madrilène. José, un ami d'
 d'Eloy de la Iglesia  
 Espagne / 1977 / 100 min / VOSTF / Vidéo  
 Avec Ana Belén, Juan Diego, Claudia Gravy.  
-Après plusieurs années de mariage, Cristina parvient enfin à tomber enceinte. La frayeur provoquée par un chien précipite l'accouchement.
+Après plusieurs années de mariage, Cristina parvient enfin à tomber enceinte. Mais la frayeur provoquée par un chien précipite l'accouchement.
 
 - je 20 juil 18h30 GF
 
@@ -57,9 +57,29 @@ Après plusieurs années de mariage, Cristina parvient enfin à tomber enceinte.
 d'Eloy de la Iglesia  
 Espagne / 1978 / 111 min / VOSTF / DCP  
 Avec José Sacristán, María Luisa San José, Ángel Pardo.  
-Roberto Orbea, député dans un parti de gauche, est mis en prison. À sa sortie, il mène une politique contre le terrorisme, mais un groupuscule franquiste paie sa maîtresse pour le piéger.
+Roberto Orbea, député d'un parti de gauche, est mis en prison. À sa sortie, il mène un combat politique contre le terrorisme, mais un groupuscule franquiste paie sa maîtresse pour le piéger.
 
-- sa 22 juil 15h00 GF
+- je 13 juil 21h30 GF
+
+[43025]  
+**L'Enfer de la drogue**  
+**(El Pico)**  
+d'Eloy de la Iglesia  
+Espagne / 1983 / 104 min / VOSTF / Numérique  
+Avec José Luis Manzano, Enrique San Francisco, José Manuel Cervino.  
+La dérive opiacée de deux jeunes amis, Paco et Urko, respectivement fils d'un commandant de la Garde civile et d'un militant nationaliste.
+
+- me 26 juil 20h30 GF
+
+[154360]  
+**L'Enfer de la drogue 2**  
+**(El Pico 2)**  
+d'Eloy de la Iglesia  
+Espagne / 1984 / 117 min / VOSTF / DCP  
+Avec José Luis Manzano, Fernando Guillén, Andrea Albani.  
+Paco, fils d'un commandant de la Garde civile, est impliqué dans le meurtre d'un couple de trafiquants d'héroïne à Bilbao. Lorsque la presse commence à s'intéresser à l'affaire, les efforts de son père pour l'éloigner de la drogue et cacher les preuves du crime s'avèrent vite inutiles.
+
+- je 27 juil 17h30 GF
 
 [127732]  
 **Fantasía... 3**  
@@ -68,7 +88,7 @@ Espagne / 1966 / 80 min / VOSTF / Vidéo
 Avec Dyanik Zurakowska, José Palacio, Sergio Mendizábal.  
 Adaptation de trois contes pour enfants : _La Petite Sirène_ de Hans Christian Andersen, _Le Magicien d'Oz_ de L. Frank Baum et _Les Trois Cheveux d'or du Diable_ des frères Grimm.
 
-- je 13 juil 21h30 GF
+- sa 22 juil 15h00 GF
 
 [154359]  
 **La Femme du ministre**  
@@ -86,7 +106,7 @@ La marquise de Montenegro, sur le déclin, conserve des amis influents tels que 
 d'Eloy de la Iglesia  
 Espagne / 1975 / 85 min / VOSTF / Vidéo  
 Avec Javier Escrivá, John Moulder-Brown, Inma de Santis.  
-Luis, professeur d'université, prend en stop deux étudiants, et leur propose de dormir chez lui avant de reprendre la route le lendemain.
+Luis, professeur d'université, prend en stop deux étudiants et leur propose de dormir chez lui avant de reprendre la route le lendemain.
 
 - me 19 juil 19h30 GF
 
@@ -115,27 +135,9 @@ Une femme surprend son voisin en train de jeter un corps dans la cage d'ascenseu
 d'Eloy de la Iglesia  
 Espagne / 1980 / 92 min / VOSTF / DCP  
 Avec José Sacristán, Antonio Ferrandis, Claudia Gravy.  
-Un employé de banque timide est effrayé par la vague de crimes qui envahit la ville dans les premières années de la transition démocratique espagnole.
+Un employé de banque timide est effrayé par la vague de crimes qui envahit sa ville dans les premières années de la transition démocratique espagnole.
 
 - sa 22 juil 20h00 GF
-
-[43025]  
-**El Pico**  
-d'Eloy de la Iglesia  
-Espagne / 1983 / 104 min / VOSTF / Numérique  
-Avec José Luis Manzano, Enrique San Francisco, José Manuel Cervino.  
-La dérive opiacée de deux jeunes amis, Paco et Urko, respectivement fils d'un commandant de la Garde Civile et d'un militant nationaliste.
-
-- me 26 juil 20h30 GF
-
-[154360]  
-**El Pico 2**  
-d'Eloy de la Iglesia  
-Espagne / 1984 / 117 min / VOSTF / DCP  
-Avec José Luis Manzano, Fernando Guillén, Andrea Albani.  
-Paco, fils du commandant de la Garde Civile, est impliqué dans le meurtre d'un couple de trafiquants d'héroïne à Bilbao. Lorsque la presse commence à s'intéresser à l'affaire, les efforts de son père pour l'éloigner de la drogue et cacher les preuves du crime sont inutiles.
-
-- je 27 juil 17h30 GF
 
 [154351]  
 **Le Plafond de verre**  
@@ -143,7 +145,7 @@ Paco, fils du commandant de la Garde Civile, est impliqué dans le meurtre d'un 
 d'Eloy de la Iglesia  
 Espagne / 1971 / 92 min / VOSTF / Vidéo  
 Avec Carmen Sevilla, Dean Selmier, Patty Shepard.  
-Une jeune femme, Marta, s'ennuie. Comme elle soupçonne sa voisine d'avoir tué son mari Victor, elle décide de mener l'enquête avec l'aide de Ricardo, leur propriétaire.
+Une jeune femme, Marta, s'ennuie. Comme elle soupçonne sa voisine d'avoir tué son mari, elle décide de mener l'enquête avec l'aide de Ricardo, leur propriétaire.
 
 - sa 15 juil 20h00 GF
 
@@ -163,7 +165,7 @@ Eduardo, directeur d'une banque, homosexuel, tombe amoureux du jeune et humble M
 d'Eloy de la Iglesia  
 Espagne / 1979 / 109 min / VOSTF / Numérique  
 Avec Simón Andreu, Emilio Gutiérrez Caba, José Franco.  
-Le père Miguel, un prêtre séduisant et timide de trente-six ans, traverse une crise de conscience provoquée par la présence, dans sa paroisse, d'Irène, une jeune et belle femme mariée, pieuse et passionnée à la fois.
+Le père Miguel, un prêtre séduisant et timide de trente-six ans, traverse une crise de conscience provoquée par la présence, dans sa paroisse, d'Irene, une jeune et belle femme mariée, pieuse et passionnée à la fois.
 
 - sa 22 juil 17h30 GF
 
@@ -183,18 +185,18 @@ Un manager de boxe découvre que l'un ses poulains les plus prometteurs est tomb
 d'Eloy de la Iglesia  
 Espagne / 1972 / 108 min / VOSTF / DCP  
 Avec Vicente Parra, Emma Cohen, Eusebio Poncela.  
-Employé dans une usine de découpe de viande, Marcos mène une vie solitaire dans sa cité d'immeubles gris. Un soir, il embrasse sa petite amie sur la banquette arrière d'un taxi et le chauffeur la gifle. Marcos le tue involontairement.
+Employé dans une usine de découpe de viande dans les faubourgs de Madrid, Marcos mène une vie sans histoire jusqu'au jour où il tue accidentellement un chauffeur de taxi dans une altercation. C'est le début d'un engrenage fatal.
 
 - me 12 juil 20h00 HL  
-Ouverture de la rétrospective
+Ouverture de la rétrospective. Séance présentée par Gaspar Noé
 
 [147104]  
 **Un autre tour d'écrou**  
 **(Otra vuelta de tuerca)**  
 d'Eloy de la Iglesia  
 Espagne / 1985 / 119 min / VOSTF / DCP  
-Avec Sánchez Pedro Mari, Queta Claver, Asier Hernández.  
-Après avoir terminé une formation traumatisante dans un séminaire jésuite, le jeune Roberto reçoit une lettre du prêtre de son village : le comte local cherche un nouveau professeur pour sa nièce de huit ans, Flora.
+Avec Pedro Mari Sánchez, Queta Claver, Asier Hernández.  
+À sa sortie du séminaire jésuite, le jeune Roberto est saisi de doutes sur sa vocation religieuse. Il reçoit alors une lettre du prêtre de son village : le comte Echeberría cherche un nouveau précepteur pour Flora, sa nièce de huit ans.
 
 - je 27 juil 20h00 GF
 

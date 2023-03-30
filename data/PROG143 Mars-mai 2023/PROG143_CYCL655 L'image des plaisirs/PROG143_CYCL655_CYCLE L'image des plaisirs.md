@@ -13,45 +13,45 @@ suivi de
 [154141]  
 **Lose Yourself With Me**  
 de Véronique Bourlon  
-France / 2021 / 8 min / DCP  
+France / 2021 / 8 min / VOSTF / DCP  
 Le premier film de la plasticienne et photographe Véronique Bourlon organise un contrepoint sensuel dont la douceur infuse et s'infiltre par nos yeux et, surtout, nos oreilles.  
 suivi de  
 [154098]  
 **The Day I've Been Fucked in Front of the Entire World**  
 de Léolo Victor-Pujebet  
-France / 2021 / 20 min / Numérique  
+France / 2021 / 20 min / VOSTF / Numérique  
 « Remodelage d'une scène pornographique dans laquelle j'ai tourné pour un grand studio français. Il s'agissait de me réapproprier ces images (à l'origine catégorisées « hard ») pour en extraire le potentiel érotique et peut-être même romantique. » (Léolo Victor-Pujebet)  
 suivi de  
 [154348]  
 **Cinema's First Kiss Was Between Two Women**  
 de Lily Alexandre  
-Canada / 2022 / 1 min / Numérique  
+Canada / 2022 / 2 min / VO / Numérique  
 « Le premier baiser filmé fut une pierre blanche queer et un moment charnière dans l'histoire du cinéma, mais presque personne n'en a entendu parler. » (Lily Alexandre)  
 suivi de  
 [154074]  
 **Mars exalté**  
 de Jean-Sébastien Chauvin  
-France / 2022 / 18 min / DCP  
+France / 2022 / 18 min / VOSTF / DCP  
 Entre _Les Mercuriales_ de Virgil Vernier pour son évocation urbaine et le _Sleep_ de Warhol pour la puissance érotique du corps endormi, _Mars exalté_ transite de la nuit au jour, du dedans au dehors, du songe au délice.  
 suivi de  
 [154246]  
 **Hot Heat**  
 de Marylène Negro  
-France / 2023 / 10 min / Numérique  
+France / 2023 / 10 min / VOSTF / Numérique  
 « Viens. Dans l'attrait vous atteindre. Seulement vous. » (Marylène Negro)  
 Première mondiale.  
 suivi de  
 [154142]  
 **Fulmen**  
 d'Othello Vilgard  
-France / 2023 / 20 min / Numérique  
+France / 2023 / 20 min / VOSTF / Numérique  
 « Deux, tant qu'il y a seulement deux, il est impossible que l'ajustage soit beau sans un troisième. Il faut qu'il se produise entre eux, au milieu, un lien qui les conduit à l'union. » (Platon, _Timée_)  
 Première mondiale.  
 suivi de  
 [154247]  
 **Memory Slot – Track 1**  
 de Yann Gonzalez, Alain Garcia Vergara  
-France / 2023 / 11 min / 35 mm  
+France / 2023 / 11 min / VOSTF / 35 mm  
 « Rejoins-moi, mon ami. Puisque tu es mon meilleur ami. On m'a parlé de ce lieu. Un lieu lointain. Selon certains c'est le paradis. Faisons l'amour. Toi et moi. Amène le corps, j'amène le beat. » (Wladimir M.)  
 Première mondiale.
 
@@ -159,7 +159,7 @@ suivi de
 [154110]  
 **A Moment in Love**  
 de Shirley Clarke  
-États-Unis / 1956 / 9 min / Numérique  
+États-Unis / 1956 / 9 min / VO / Numérique  
 Danse d'amour, fusion suprême. « La plupart des films de danse que j'avais vus étaient affreux, je me suis dit que je pouvais faire mieux. Par essence, le cinéma est un médium chorégraphique. » (Shirley Clarke)
 
 - ve 12 mai 20h45 JE
@@ -279,7 +279,7 @@ suivi de
 [113216]  
 **Satan bouche un coin**  
 de Jean-Pierre Bouyxou  
-France / 1967 / 10 min / Numérique  
+France / 1967 / 10 min / VO / Numérique  
 Avec Pierre Molinier, Jean-Pierre Bouyxou.  
 Hommage au grand Pierre Molinier, le film allie sexualité fétichiste et mort, sperme et sang, chair et cadavre, dans un style halluciné d'une très inquiétante étrangeté.
 
@@ -293,7 +293,7 @@ Séance présentée par Jean-Pierre Bouyxou
 [154118]  
 **Dead Youth**  
 de Donald Richie  
-Japon / 1967 / 14 min / DCP  
+Japon / 1967 / 14 min / VO / Numérique  
 Désir homosexuel, vertige nécrophile, le poème de Donald Richie nous entraîne vers la ligne d'horizon des fantasmes.  
 suivi de  
 [154119]  
@@ -409,7 +409,7 @@ suivi de
 [118991]  
 **Dafnis y Cloe**  
 d'Antoni Padrós  
-Espagne / 1969 / 19 min / VO / Numérique  
+Espagne / 1969 / 19 min / VOSTF / Numérique  
 Avec Toni Martínez, Rosa Morata.  
 Après l'évocation de leurs origines (prose bucolique de Longus, ballet symphonique de Ravel), les amours de Daphnis et Chloé s'allient au sadomasochisme, au blasphème, aux luttes révolutionnaires.  
 suivi de  
@@ -428,7 +428,7 @@ Dans _Basta_, les images pornographiques, comme celles de la morgue, ne sont pas
 [39681]  
 **La Tête froide**  
 de Patrick Hella  
-Belgique / 1969 / 12 min / Numérique  
+Belgique / 1969 / 12 min / VOSTF / Numérique  
 « Ce conte à l'érotisme morbide, réalisé par un habitué du festival EXPRMNTL de Knokke, fut le premier film belge sélectionné à la Quinzaine des réalisateurs. » (XGB)  
 suivi de  
 [121283]  
@@ -440,7 +440,7 @@ suivi de
 [154126]  
 **Faites-vous de plus en plus jouir**  
 de Michel Laitem  
-Belgique / 1974 / 18 min / Numérique  
+Belgique / 1974 / 18 min / DCP  
 « Professeur de morale, critique de cinéma, scénariste de bandes dessinées, Michel Laitem (1948-2013) réalise deux courts métrages – dont cette fable antitravail, exhortant à la critique radicale de la vie quotidienne, qui avait disparu depuis trente ans. » (XGB)  
 suivi de  
 [154129]  
@@ -562,7 +562,7 @@ suivi de
 [154149]  
 **Phosphene**  
 de Byron Grush  
-États-Unis / 1971 / 7 min / VOSTF / 16 mm  
+États-Unis / 1971 / 7 min / VOSTF / Numérique  
 Remploi psychédélique. L'un de ces cas fréquents où le recyclage magnifie un matériau banal voire disgracié.  
 suivi de  
 [154152]  
@@ -599,7 +599,7 @@ Trois courts métrages expérimentaux féministes, un film pornographique pansex
 [154017]  
 **Take Off (With Magda)**  
 de Gunvor Nelson  
-États-Unis / 1972 / 16 mm  
+États-Unis / 1972 / 10 min / VO / 16 mm  
 Film satirique adoptant la forme d'un striptease pour dénoncer l'instrumentalisation du corps féminin.  
 suivi de  
 [154156]  
@@ -644,7 +644,7 @@ suivi de
 [154177]  
 **Love It / Leave It**  
 de Tom Palazzolo  
-États-Unis / 1973 / 14 min / STF / Numérique  
+États-Unis / 1973 / 14 min / VOSTF / Numérique  
 _Love It / Leave It_ explore une série d'_americana_ en dégageant leur charge érotique.
 
 - me 24 mai 21h00 GF

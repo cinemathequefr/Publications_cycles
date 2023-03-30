@@ -41,14 +41,14 @@
   * Colegas  
   * Créature (La)  
   * Député (Le)  
+  * Enfer de la drogue 2 (L')  
+  * Enfer de la drogue (L')  
   * Fantasía... 3  
   * Femme du ministre (La)  
   * Jeu d'amour interdit  
   * Navajeros  
   * Personne n'a entendu crier  
   * Peur de sortir la nuit  
-  * Pico 2 (El)  
-  * Pico (El)  
   * Plafond de verre (Le)  
   * Plaisirs cachés  
   * Prêtre (Le)  
@@ -76,8 +76,8 @@
   * Far from Dallas  
   * François de Roubaix l'aventurier  
   * Gobbo (Le)  
-  * Grande lessive (La)  
-  * Grandes gueules (Les)  
+  * Grande Lessive (!) (La)  
+  * Grandes Gueules (Les)  
   * Jeff  
   * Lèvres rouges (Les)  
   * Montagnes magiques  
@@ -111,7 +111,7 @@
   * Color of Love (The)  
   * Come With Me, Swim With You  
   * Cum in My Heart (ou le fabuleux lâcher-prise de Thomas Timbère)  
-  * Dan sak sit  
+  * Dan sak sit [ATTENTION : INDIQUER SEULEMENT FILM SURPRISE]  
   * Diptychon  
   * Dreams and Past Crimes of the Archduke (The)  
   * Easter  
@@ -124,7 +124,7 @@
   * Exquisite Corpus (The)  
   * Fall of Communism As Seen in Gay Pornography (The)  
   * Fear of Disclosure  
-  * Fig.4  
+  * Fig. 4  
   * Fingered  
   * Fingers and Kisses  
   * Forbidden Letters  
@@ -150,7 +150,7 @@
   * Kiss 25  
   * Lexique dyslexique  
   * Lezzieflick  
-  * Light-Sleep (Félálom)  
+  * Light Sleep  
   * Loads  
   * Loi X – la nuit en permanence (La)  
   * Mano Destra  
@@ -172,7 +172,7 @@
   * Right Side of My Brain (The)  
   * Rouille  
   * Ruines (Les)  
-  * Scieurs / Jouir malgré tout, Opus 2 (Les)  
+  * Scieurs (Jouir malgré tout, opus 2) (Les)  
   * Sebastiane  
   * Self-Portrait in 23 Rounds: A Chapter in David Wojnarowicz's Life, 1989-1991  
   * Sewing Circle (The)  
@@ -180,7 +180,7 @@
   * Shaheen  
   * Siège (Le)  
   * Sodom  
-  * Solitary Acts#4  
+  * Solitary Acts #4  
   * Story of I (The)  
   * Survival of the Sickest  
   * Sylvia Kristel, Paris  
@@ -195,7 +195,7 @@
   * Troisième œil (Le)  
   * Va te faire enculer  
   * Violentes femmes  
-  * Virtual walk thru 'The Sex Worker' Exhibition, Gasworks Arts Park  
+  * Virtual Walk Thru "The Sex Worker" Exhibition, Gasworks Arts Park  
   * Warm  
   * We Fuck Alone  
   * What I Did Last Summer  
@@ -206,7 +206,7 @@
   * Zarosli  
   * Zentrale, 2. Version
 
-## Le documentaire, 25 indispensables (34)
+## Le documentaire, 25 indispensables (37)
 
   * 1974, une partie de campagne  
   * Acéra ou le bal des sorcières  
@@ -215,9 +215,10 @@
   * Chagrin et la Pitié (Le)  
   * Chronique d'un été  
   * Deux Marseillaises (Les)  
-  * Dieux du stade (Les)  
+  * Dieux du stade, partie 1 : La Fête des peuples (Les)  
   * Dix-septième parallèle (Le)  
   * Être et avoir  
+  * Fils du garde de chasse  
   * Général Idi Amin Dada  
   * Glaneurs et la Glaneuse (Les)  
   * Hippocampe (L')  
@@ -226,7 +227,8 @@
   * Hyas, sténorinque, spirographe  
   * Joli Mai (Le)  
   * Jungle plate (La)  
-  * La Fête des peuples  
+  * Les Dieux du stade, partie 2 : Jeunesse olympique (Les)  
+  * Marâtre (La)  
   * Mon chien  
   * Monsieur et madame Curie  
   * Nanouk l'esquimau  
@@ -241,6 +243,7 @@
   * Sois belle et tais-toi  
   * Sud  
   * Vampire (Le)  
+  * Vues d'Espagne  
   * Welfare
 
 ## Ma petite Cinémathèque (16)
@@ -322,23 +325,28 @@
 
   * Peau douce (La)
 
-## Vincente Minnelli (35)
+## Vincente Minnelli (40)
 
+  * Alice Guy tourne une phonoscène  
   * Allons donc, papa !  
   * Au revoir, Charlie  
+  * Baignade dans un torrent  
   * Brigadoon  
   * Celui par qui le scandale arrive  
   * Chant du Missouri (Le)  
   * Chevalier des sables (Le)  
   * Comme un torrent  
   * Ensorcelés (Les)  
+  * Fée au choux (La)  
   * Femme modèle (La)  
+  * Fredaines de Pierrette (Les)  
   * Gigi  
   * Histoire de trois amours : Mademoiselle  
   * Horloge (L')  
   * Il faut marier papa  
   * Kismet  
   * Lame de fond  
+  * Madame a des envies  
   * Madame Bovary  
   * Mademoiselle ma femme  
   * Melinda  
@@ -346,18 +354,18 @@
   * Père de la mariée (Le)  
   * Pirate (Le)  
   * Pluie qui chante (La)  
-  * Quatre cavaliers de l'Apocalypse (Les)  
+  * Quatre Cavaliers de l'Apocalypse (Les)  
   * Qu'est-ce que maman comprend à l'amour ?  
   * Quinze jours ailleurs  
   * Roulotte du plaisir (La)  
-  * Thé et sympathie  
+  * Thé et Sympathie  
   * Toile d'araignée (La)  
   * Tous en scène  
   * Un Américain à Paris  
   * Un numéro du tonnerre  
   * Un petit coin aux cieux  
   * Vie passionnée de Vincent Van Gogh (La)  
-  * Yolanda et le voleur  
+  * Yolanda et le Voleur  
   * Ziegfeld Follies
 
 ## Warner, années 70 (28)
@@ -372,7 +380,7 @@
   * Épreuve de force (L')  
   * Exorciste (L')  
   * Gens de la pluie (Les)  
-  * Graffiti party  
+  * Graffiti Party  
   * Hommes du président (Les)  
   * Inspecteur Harry (L')  
   * Jeremiah Johnson  

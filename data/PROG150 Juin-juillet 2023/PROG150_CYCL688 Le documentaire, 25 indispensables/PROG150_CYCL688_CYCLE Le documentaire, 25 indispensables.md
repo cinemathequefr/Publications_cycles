@@ -45,7 +45,7 @@ France-Suisse-RFA / 1969 / 270 min / 35 mm
 Avec Emmanuel d'Astier de la Vigerie, Georges Bidault, Matthäus Bleibinger.  
 Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse la chronique de cette occupation et des différentes réactions de la population : certains vont s'engager dans la Résistance pendant que d'autres collaborent et dénoncent leurs voisins.
 
-- ve 23 juin 18h00 HL  
+- ve 23 juin 18h30 HL  
 Séance présentée par Jean-François Rauger
 
 [52364]  
@@ -55,7 +55,8 @@ France / 1960 / 86 min / DCP
 Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, enquêtent sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés évoquent leurs préoccupations et leurs espoirs et tentent de répondre à la question « Êtes-vous heureux ? ».
 
 - sa 1 juil 14h30 GF  
-Voir aussi dialogue p. xx
+Voir aussi dialogue p. xx  
+Film précédé de _La Marâtre_ d'Alice Guy
 
 [59394]  
 **Les Deux Marseillaises**  
@@ -66,15 +67,14 @@ France / 1968 / 108 min / 16 mm
 - me 21 juin 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Luc Béraud
 
-[40226]  
-**Les Dieux du stade**  
+[154395]  
+**Les Dieux du stade, partie 1 : La Fête des peuples**  
 **(Olympia)**  
 de Leni Riefenstahl  
-Allemagne / 1938 / 127 min / VOSTF / DCP  
-Réalisé pour la propagande nazie lors des Jeux Olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes.
+Allemagne / 1938 / 103 min / VOSTF  
+Réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes.
 
-- di 2 juil 18h00 GF  
-Séance présentée par Jérôme Prieur
+- di 2 juil 21h15 GF
 
 [54259]  
 **Le Dix-septième parallèle**  
@@ -93,6 +93,15 @@ Immersion au cœur de l'école d'un petit village d'Auvergne, dans son unique cl
 - sa 24 juin 18h00 HL  
 Séance présentée par Nicolas Philibert
 
+[154415]  
+**Fils du garde de chasse**  
+d'Alice Guy  
+France / 1906
+
+- sa 1 juil 18h30 GF  
+Séance présentée par Barbet Schroeder (sous réserve)  
+Film suivi de _Général Idi Amin Dada_ de Barbet Schroeder
+
 [62245]  
 **Général Idi Amin Dada**  
 de Barbet Schroeder  
@@ -100,7 +109,8 @@ France-Suisse / 1973 / 92 min / DCP
 Sans juger ni prendre parti, le film fait le portrait du général Idi Amin Dada, président à vie de l'Ouganda après son coup d'état en 1971. Amin Dada se met en scène, tour à tour naïf ou lucide, drôle ou inquiétant.
 
 - sa 1 juil 18h30 GF  
-Séance présentée par Barbet Schroeder (sous réserve)
+Séance présentée par Barbet Schroeder (sous réserve)  
+Film précédé de _Fils du garde de chasse_ d'Alice Guy
 
 [68649]  
 **Les Glaneurs et la Glaneuse**  
@@ -168,14 +178,25 @@ La Waddenzee, « mer des terres humides », est une région naturelle unique, zo
 
 - me 5 juil 18h30 GF
 
-[154395]  
-**La Fête des peuples**  
+[40226]  
+**Les Les Dieux du stade, partie 2 : Jeunesse olympique**  
 **(Olympia)**  
 de Leni Riefenstahl  
-Allemagne / 1938 / 103 min / VOSTF  
-Texte à saisir
+Allemagne / 1938 / 127 min / VOSTF / DCP  
+Seconde partie du film réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936.
 
-- di 2 juil 21h15 GF
+- di 2 juil 18h00 GF  
+Séance présentée par Jérôme Prieur
+
+[106219]  
+**La Marâtre**  
+d'Alice Guy  
+France / 1906  
+Une belle-mère s'en prend au fils de son mari. Librement inspiré du roman d'Honoré de Balzac.
+
+- sa 1 juil 14h30 GF  
+Voir aussi dialogue p. xx  
+Film suivi de _Chronique d'un été_ de Jean Rouch, Edgar Morin
 
 [57843]  
 **Mon chien**  
@@ -300,7 +321,8 @@ France-Belgique / 1999 / 70 min / DCP
 Voyage dans le sud des États-Unis, avec comme fil rouge le meurtre par lynchage du musicien noir James Byrd Jr.
 
 - sa 1 juil 20h45 GF  
-Séance présentée par Claire Atherton
+Séance présentée par Claire Atherton  
+Film précédé de _Vues d'Espagne_ d'Alice Guy
 
 [50525]  
 **Le Vampire**  
@@ -311,11 +333,20 @@ Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Am
 - me 28 juin 18h30 GF  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé
 
+[154414]  
+**Vues d'Espagne**  
+d'Alice Guy  
+France / 1905
+
+- sa 1 juil 20h45 GF  
+Séance présentée par Claire Atherton  
+Film suivi de _Sud_ de Chantal Akerman
+
 [62606]  
 **Welfare**  
 de Frederick Wiseman  
 États-Unis / 1975 / 167 min / DCP  
-Le _Welfare_, système de santé et de sécurité sociale américain traite les problèmes de logement, de chômage, de divorce, les maladies ou maltraitances d'enfants. Frederick Wiseman filme un bureau new-yorkais où afflue une population démunie.
+Le _Welfare_, système de santé et de sécurité sociale américain, traite les problèmes de logement, de chômage, de divorce, les maladies ou maltraitances d'enfants. Frederick Wiseman filme un bureau new-yorkais où afflue une population démunie.
 
 - sa 24 juin 20h30 HL
 
@@ -330,7 +361,7 @@ Le _Welfare_, système de santé et de sécurité sociale américain traite les 
 Rencontre animée par Bernard Benoliel
 
 - sa 1 juil 14h30 GF  
-À la suite de la projection de _Chronique d'un été_ de Jean Rouch, Edgar Morin (voir p. xx)
+À la suite de la projection de _Chronique d'un été_ de Jean Rouch, Edgar Morin, _La Marâtre_ d'Alice Guy (voir p. xx)
 
 **Film + Dialogue avec David Faroult**  
 Rencontre animée par Bernard Benoliel

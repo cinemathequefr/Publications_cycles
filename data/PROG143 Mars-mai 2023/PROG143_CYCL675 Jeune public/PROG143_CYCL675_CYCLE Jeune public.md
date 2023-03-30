@@ -39,7 +39,7 @@ Buster poursuit la jeune fille qu'il aime à travers trois époques, l'âge de p
 de Vincente Minnelli  
 États-Unis / 1950 / 113 min / VOSTF / DCP  
 Avec Gene Kelly, Leslie Caron, Oscar Levant, Georges Guétary.  
-Un peintre américain s'installe à Paris et tombe amoureux non seulement de la ville mais aussi d'une de ses habitantes.
+Un peintre américain s'installe à Paris et tombe amoureux de la ville et d'une de ses habitantes.
 
 - di 26 mar 15h00 GF
 
