@@ -286,7 +286,7 @@ Un vagabond, abandonné par ses partenaires et au bord de l'agonie, trouve par h
 **Woodstock**  
 de Michael Wadleigh  
 États-Unis / 1969 / 185 min / VOSTF / DCP  
-Documentaire sur le fameux festival organisé les 15, 16 et 17 août 1969 à Bethel, près de Woodstock, dans l'État de New York, qui rassembla 500 000 jeunes.
+Documentaire sur le célèbre festival organisé les 15, 16 et 17 août 1969 à Bethel, près de Woodstock, dans l'État de New York, qui rassembla 500 000 jeunes.
 
 - lu 12 juin 19h00 GF
 
@@ -295,7 +295,7 @@ Documentaire sur le fameux festival organisé les 15, 16 et 17 août 1969 à Bet
 de Sydney Pollack  
 États-Unis / 1975 / 85 min / VOSTF / DCP  
 Avec Robert Mitchum, Ken Takakura, Keiko Kishi, Brian Keith.  
-Le détective privé Harry Kilmer retourne au Japon où il a servi pendant la Seconde Guerre mondiale, pour sauver des griffes des Yakuza la fille d'un ami qui a été kidnappée. Cette mission au cour des rouages du syndicat japonais du crime le confronte à nouveau à son passé.
+Harry Kilmer, détective privé, retourne au Japon où il a servi pendant la Seconde Guerre mondiale, pour sauver la fille d'un ami kidnappée par des Yakuzas. Cette mission au cœur des rouages du syndicat du crime le confronte à son passé.
 
 - sa 10 juin 20h30 GF
 

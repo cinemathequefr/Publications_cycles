@@ -74,9 +74,9 @@
   * Comment ça va ? J'm'en fous  
   * Dernier domicile connu  
   * Far from Dallas  
-  * François de Roubaix l'aventurier  
+  * François de Roubaix, l'aventurier  
   * Gobbo (Le)  
-  * Grande Lessive (!) (La)  
+  * Grande Lessive (La)  
   * Grandes Gueules (Les)  
   * Jeff  
   * Lèvres rouges (Les)  
@@ -216,6 +216,7 @@
   * Chronique d'un été  
   * Deux Marseillaises (Les)  
   * Dieux du stade, partie 1 : La Fête des peuples (Les)  
+  * Dieux du stade, partie 2 : Jeunesse olympique (Les)  
   * Dix-septième parallèle (Le)  
   * Être et avoir  
   * Fils du garde de chasse  
@@ -227,7 +228,6 @@
   * Hyas, sténorinque, spirographe  
   * Joli Mai (Le)  
   * Jungle plate (La)  
-  * Les Dieux du stade, partie 2 : Jeunesse olympique (Les)  
   * Marâtre (La)  
   * Mon chien  
   * Monsieur et madame Curie  

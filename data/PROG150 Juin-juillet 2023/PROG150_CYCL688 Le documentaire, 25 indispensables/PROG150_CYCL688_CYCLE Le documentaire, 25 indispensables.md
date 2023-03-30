@@ -18,6 +18,7 @@ France / 1972 / 17 min / DCP
 Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli formant un manteau autour du corps. Sa nage ressemble à une danse, la danse serpentine mise à la mode par Loïe Fuller.
 
 - me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
 Film suivi de _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
 
 [154376]  
@@ -27,15 +28,17 @@ France / 1965 / 13 min / DCP
 Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers.
 
 - me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé et suivi de de _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
 
 [50522]  
 **Le Bernard l'ermite**  
 de Jean Painlevé  
-France / 1929 / 13 min  
+France / 1929 / 13 min / DCP  
 Le bernard-l'ermite est un crustacé marin qui habite les coquilles vides. Pour en choisir une, il l'inspecte, la mesure et la soupèse.
 
 - me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé et suivi de de _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
 
 [50421]  
@@ -71,10 +74,20 @@ Ouverture de la rétrospective. Séance présentée par Luc Béraud
 **Les Dieux du stade, partie 1 : La Fête des peuples**  
 **(Olympia)**  
 de Leni Riefenstahl  
-Allemagne / 1938 / 103 min / VOSTF  
+Allemagne / 1938 / 103 min / VOSTF / DCP  
 Réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes.
 
 - di 2 juil 21h15 GF
+
+[40226]  
+**Les Dieux du stade, partie 2 : Jeunesse olympique**  
+**(Olympia)**  
+de Leni Riefenstahl  
+Allemagne / 1938 / 127 min / VOSTF / DCP  
+Seconde partie du film réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936.
+
+- di 2 juil 18h00 GF  
+Séance présentée par Jérôme Prieur
 
 [54259]  
 **Le Dix-septième parallèle**  
@@ -96,7 +109,7 @@ Séance présentée par Nicolas Philibert
 [154415]  
 **Fils du garde de chasse**  
 d'Alice Guy  
-France / 1906
+France / 1906 / 5 min / DCP
 
 - sa 1 juil 18h30 GF  
 Séance présentée par Barbet Schroeder (sous réserve)  
@@ -115,7 +128,7 @@ Film précédé de _Fils du garde de chasse_ d'Alice Guy
 [68649]  
 **Les Glaneurs et la Glaneuse**  
 d'Agnès Varda  
-France / 1999 / 82 min / 35 mm  
+France / 1999 / 82 min / DCP  
 Un peu partout en France, Agnès Varda a rencontré des glaneurs et des glaneuses. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant.
 
 - di 25 juin 18h30 HL
@@ -127,6 +140,7 @@ France / 1933 / 16 min / DCP
 Les images spectaculaires d'un hippocampe mâle enceinte donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante.
 
 - me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
 
 [53328]  
@@ -157,6 +171,7 @@ France / 1929 / 13 min / DCP
 Présentation de petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales.
 
 - me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
 
 [58050]  
@@ -173,25 +188,15 @@ Séance présentée par Luc Béraud
 **La Jungle plate**  
 **(De Platte jungle)**  
 de Johan van der Keuken  
-Pays-Bas / 1978 / 90 min  
+Pays-Bas / 1978 / 90 min / 16 mm  
 La Waddenzee, « mer des terres humides », est une région naturelle unique, zone côtière des Pays-Bas, de l'Allemagne et du Danemark qui, selon les marées, est tantôt mer ou tantôt terre. Johan van der Keuken filme cette « jungle plate », sa faune, sa flore et ses habitants.
 
 - me 5 juil 18h30 GF
 
-[40226]  
-**Les Les Dieux du stade, partie 2 : Jeunesse olympique**  
-**(Olympia)**  
-de Leni Riefenstahl  
-Allemagne / 1938 / 127 min / VOSTF / DCP  
-Seconde partie du film réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936.
-
-- di 2 juil 18h00 GF  
-Séance présentée par Jérôme Prieur
-
 [106219]  
 **La Marâtre**  
 d'Alice Guy  
-France / 1906  
+France / 1906 / 7 min  
 Une belle-mère s'en prend au fils de son mari. Librement inspiré du roman d'Honoré de Balzac.
 
 - sa 1 juil 14h30 GF  
@@ -240,6 +245,7 @@ France / 1928 / 13 min / DCP
 La Pieuvre a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.
 
 - me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé et suivi de de _Le Vampire_ de Jean Painlevé
 
 [56070]  
@@ -264,7 +270,7 @@ Film suivi de _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curi
 [31875]  
 **Primary**  
 de Robert Drew  
-États-Unis / 1960 / 60 min  
+États-Unis / 1960 / 60 min / VOSTF / DCP  
 Chronique de la campagne du futur président Kennedy et du sénateur Humphrey pour les élections primaires du Wisconsin, en 1960.
 
 - me 5 juil 20h30 GF
@@ -272,7 +278,7 @@ Chronique de la campagne du futur président Kennedy et du sénateur Humphrey po
 [63749]  
 **Récréations**  
 de Claire Simon  
-France / 1991 / 54 min / 35 mm  
+France / 1991 / 54 min / DCP  
 Par l'observation distante d'une cour de récréation de maternelle, Claire Denis révèle les lois et la violence qui régissent ce petit monde de jeux enfantins.
 
 - di 9 juil 17h30 GF
@@ -303,7 +309,8 @@ de Claude Lanzmann
 France / 2000 / 95 min / DCP  
 Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre.
 
-- lu 3 juil 18h00 GF
+- lu 3 juil 18h00 GF  
+Séance présentée par Laura Koeppel
 
 [67847]  
 **Sois belle et tais-toi**  
@@ -312,7 +319,8 @@ France / 1977 / 111 min / DCP
 Avec Ellen Burstyn, Jane Fonda, Anne Wiazemsky.  
 Vingt-quatre actrices françaises et américaines parlent de leurs expériences professionnelles en tant que femmes, leurs rôles et leurs rapports avec les réalisateurs et les équipes techniques. Bilan collectif sur une profession qui ne permet que des rôles stéréotypés et aliénants.
 
-- lu 3 juil 20h15 GF
+- lu 3 juil 20h15 GF  
+Séance présentée par Emilie Cauquy
 
 [68124]  
 **Sud**  
@@ -331,12 +339,13 @@ France / 1939 / 9 min / 35 mm
 Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Amérique du sud, possiblement à l'origine du _Nosferatu_ de F. W. Murnau.
 
 - me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
 Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé
 
 [154414]  
 **Vues d'Espagne**  
 d'Alice Guy  
-France / 1905
+France / 1905 / 10 min / DCP
 
 - sa 1 juil 20h45 GF  
 Séance présentée par Claire Atherton  
@@ -345,10 +354,11 @@ Film suivi de _Sud_ de Chantal Akerman
 [62606]  
 **Welfare**  
 de Frederick Wiseman  
-États-Unis / 1975 / 167 min / DCP  
-Le _Welfare_, système de santé et de sécurité sociale américain, traite les problèmes de logement, de chômage, de divorce, les maladies ou maltraitances d'enfants. Frederick Wiseman filme un bureau new-yorkais où afflue une population démunie.
+États-Unis / 1975 / 167 min / VOSTF / DCP  
+Un panorama du système de santé et de sécurité sociale américain, à travers les problèmes de logement, de chômage, de divorce, de maltraitance d'enfants. Dans un bureau new-yorkais, les travailleurs sociaux comme les usagers se retrouvent démunis face à un système qui gouverne leur travail et leur vie.
 
-- sa 24 juin 20h30 HL
+- sa 24 juin 20h30 HL  
+Séance présentée par Frederick Wiseman
 
 ## Rencontres et conférences
 

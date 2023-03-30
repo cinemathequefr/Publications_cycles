@@ -5,7 +5,7 @@
 [48373]  
 **Les Aventuriers**  
 de Robert Enrico  
-France-Italie / 1966 / 110 min / DCP  
+France-Italie / 1967 / 110 min / DCP  
 D'après le roman _Les Aventuriers_ de José Giovanni.  
 Avec Alain Delon, Lino Ventura, Joanna Shimkus, Serge Reggiani.  
 Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de s'emparer d'un trésor perdu dans un avion englouti. Au large du Congo, leur quête va les mettre en grand danger.  
@@ -20,19 +20,20 @@ Film précédé de _Montagnes magiques_ de Robert Enrico
 de François de Roubaix  
 France / 1975 / 10 min  
 Avec Yves Josso, Nathalie Lafaurie.  
-Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie.
+Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie.  
+Dernier court métrage de François de Roubaix, sorti à titre posthume.
 
 - me 28 juin 19h00 JE  
 Séance présentée par Jean-Yves Guilleux  
-Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix, _Le Gobbo_ de François de Roubaix
+Film précédé de _François de Roubaix, l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix, _Le Gobbo_ de François de Roubaix
 
 [48800]  
 **Dernier domicile connu**  
 de José Giovanni  
-France-Italie / 1969 / DCP  
+France-Italie / 1970 / 105 min / DCP  
 D'après le roman _Dernier domicile connu_ de Joseph Harrington.  
 Avec Lino Ventura, Marlène Jobert, Michel Constantin.  
-L'inspecteur Léonetti est rétrogradé et muté dans un commissariat de seconde zone. Il y rencontre la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un meurtrier.
+L'inspecteur Léonetti est rétrogradé et muté dans un commissariat de seconde zone. On lui adjoint la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un accusé.
 
 - je 22 juin 20h00 HL  
 Ouverture de la rétrospective
@@ -40,14 +41,14 @@ Ouverture de la rétrospective
 [54474]  
 **Far from Dallas**  
 de Philippe Toledano  
-France / 1971 / VF  
+France / 1971 / 95 min / VF  
 Avec Daniel Gélin, Alexandra Stewart, Philippe Rouleau.  
 Régis, un journaliste, revient à Paris après trois ans d'absence. Il entreprend de retrouver un ami disparu après une enquête aux États-Unis sur l'assassinat de John Kennedy. Tous ceux qui l'ont connu se dérobent et Régis commence à subir des pressions.
 
 - lu 26 juin 18h00 GF
 
 [154377]  
-**François de Roubaix l'aventurier**  
+**François de Roubaix, l'aventurier**  
 de Jean-Yves Guilleux, Alexandre Moix  
 France / 2007 / 52 min / DCP  
 Documentaire présentant des extraits d'archives, de films et des témoignages de proches de François de Roubaix et de personnalités, dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...
@@ -61,14 +62,14 @@ Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous_
 de François de Roubaix  
 France / 1970 / 15 min  
 Avec Yves Josso.  
-Un mystérieux bossu arrive dans un petit village corse en proie à une série d'accidents, dont sont témoins des campeurs.
+Un mystérieux bossu arrive dans un petit village corse en proie à une série d'accidents dont sont témoins des campeurs.
 
 - me 28 juin 19h00 JE  
 Séance présentée par Jean-Yves Guilleux  
-Film précédé de _François de Roubaix l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix et suivi de de _Comment ça va ? J'm'en fous_ de François de Roubaix
+Film précédé de _François de Roubaix, l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix et suivi de de _Comment ça va ? J'm'en fous_ de François de Roubaix
 
 [50109]  
-**La Grande Lessive (!)**  
+**La Grande Lessive**  
 de Jean-Pierre Mocky  
 France / 1968 / 95 min / DCP  
 Avec Bourvil, Francis Blanche, Roland Dubillard.  
@@ -80,7 +81,7 @@ Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation 
 **Les Grandes Gueules**  
 de Robert Enrico  
 France-Italie / 1965 / 128 min / DCP  
-D'après le roman _Le Haut-Fer_ de José Giovanni.  
+D'après le roman _Le Haut-fer_ de José Giovanni.  
 Avec Bourvil, Lino Ventura, Marie Dubois, Jean-Claude Rolland.  
 Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché.
 
@@ -90,7 +91,7 @@ Film précédé de _Thaumetopoea_ de Robert Enrico
 [34700]  
 **Jeff**  
 de Jean Herman  
-France / 1968 / 92 min  
+France / 1969 / 92 min  
 Avec Alain Delon, Mireille Darc, Georges Rouquier.  
 Après un hold-up, Jeff, le cerveau de l'opération, disparaît avec le butin. Toute la bande se lance à sa poursuite, sauf Laurent. Soupçonné par les autres d'être un complice, Laurent part de son côté à la recherche du traître, accompagné d'Eva, la maîtresse de Jeff.
 
@@ -110,7 +111,7 @@ Séance présentée par Jean-Marc Lalanne
 **Montagnes magiques**  
 de Robert Enrico  
 France / 1962 / 19 min / DCP  
-Commandité par la Région Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet.
+Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet.
 
 - ve 23 juin 18h00 GF  
 Séance présentée par Jérôme Enrico  

@@ -7,13 +7,9 @@
 **(She Wore a Yellow Ribbon)**  
 de John Ford  
 États-Unis / 1949 / 103 min / VOSTF / 35 mm  
-D'après le roman _The Big hunt_ de James Warner Bellah.  
+D'après le roman _The Big Hunt_ de James Warner Bellah.  
 Avec John Wayne, Joanne Dru, John Agar.  
 En 1876, un capitaine de cavalerie proche de la retraite dirige sa dernière patrouille.
-
----
-
-Après la défaite du général Custer à la bataille de Little Big Horn, les tribus indiennes se regroupent pour partir en guerre contre les visages pâles. Le capitaine Nathan Brittles entreprend un long et dangereux périple pour mettre Madame Allshard et sa nièce Olivia en lieu sûr.
 
 - di 11 juin 15h00 GF
 
@@ -30,8 +26,9 @@ Film précédé de _Panorama pris d'un train en marche_ de Georges Méliès, _La
 **(The Circus)**  
 de Charles Chaplin  
 États-Unis / 1927 / 83 min / INT. FR. / DCP  
-Avec Charles Chaplin.  
-C'est par hasard que Charlot devient la vedette d'un petit cirque, mais c'est par amour pour la belle écuyère qu'il reste dans la troupe.
+Avec Charles Chaplin, Merna Kennedy, Al Ernest Garcia.  
+Poursuivi par la police, Charlot se réfugie dans un cirque en pleine représentation.
+Embauché par le directeur, il tombe amoureux de la belle écuyère, mais elle lui préfère Rex, le funambule.
 
 - me 7 juin 15h00 GF
 
@@ -49,11 +46,7 @@ Film précédé de _Panorama pris d'un train en marche_ de Georges Méliès, _La
 de Wolfgang Reitherman  
 États-Unis / 1965 / 75 min / VF / 35 mm  
 Avec George Sanders, Louis Prima, Phil Harris, Claude Bertrand, René Arrieu.  
-Les chansons des animaux de la jungle accompagnent le jeune Mowgli dans toutes ses aventures.
-
----
-
-Mowgli, « petit d'homme » élevé par les loups, est en danger : Shere Khan, tigre mangeur d'homme, est de retour dans la jungle. Pour le mettre à l'abri, la panthère Bagheera décide de le ramener parmi les hommes. Dans leur périple, les deux amis vont rencontrer les différents habitants de la jungle.
+Mowgli, « petit d'homme » élevé par les loups, est en danger : le tigre Shere Khan est de retour dans la jungle. Pour le mettre à l'abri, la panthère Bagheera décide de le ramener parmi les hommes. Dans leur périple, les deux amis vont rencontrer les différents habitants de la jungle.
 
 - me 5 juil 15h00 GF
 
@@ -89,15 +82,7 @@ Un ancien cambrioleur profite d'une retraite paisible sur la Côte d'Azur, jusqu
 de Jacques Tati  
 France-Italie / 1957 / 120 min / DCP  
 Avec Jacques Tati, Jean-Pierre Zola, Adrienne Servantie, Alain Bécourt.  
-Gérard fuit la maison ultramoderne de ses parents pour passer du bon temps dans les rues avec son drôle d'oncle. Entre tradition et modernité, sa petite ville est revisitée par la fantaisie de Monsieur Hulot.
-
----
-
-Jacques Tati utilisera le son un comme un des ressorts comiques essentielsde ses films : aux bruits de la ville et du marché, en bas de chez Hulot s'opposent les sons électroniques de la villa des Arpel. Attention quand Hulot arrive quelque part, cela crée des interférences! Précédé de **Plastic and Glass** de Tessa Joosse – 2009 Comme dans l'usine Plastac, les objets, s'organisent pour créer, ici, leur propre musique.
-
----
-
-D'un côté la maison ultra-moderne de la famille Arpel, de l'autre la drôle de maison tarabiscotée de Monsieur Hulot... Entre les deux, le Petit Gérard navigue et observe le drôle de manège des adultes.  
+Gérard fuit la maison ultramoderne de ses parents pour passer du bon temps dans les rues avec son drôle d'oncle. Entre tradition et modernité, sa petite ville est revisitée par la fantaisie de Monsieur Hulot.  
 _« Je serais désolé que l'on puisse voir de la mesquinerie dans mon propos ; mon exigence est à la mesure de l'admiration que je porte à Tati et à_ Mon Oncle_. C'est parce que son art est si grand que notre adhésion se voudrait totale et c'est au fond parce que son film est trop réussi que nous sommes glacés d'effroi devant ce documentaire de demain. »_
 
 - me 14 juin 15h00 GF
@@ -107,7 +92,7 @@ _« Je serais désolé que l'on puisse voir de la mesquinerie dans mon propos ; 
 **(Tonari no Totoro)**  
 de Hayao Miyazaki  
 Japon / 1988 / 86 min / VF / DCP  
-Satsuki et Mei, deux petites filles, viennent s'installer avec leur père dans une grande maison à la campagne, pour se rapprocher de l'hôpital où séjourne leur mère. Elles découvrent la nature qui les entoure et font la rencontre de Totoro, une créature merveilleuse qui protège la forêt environnante.
+Satsuki et Mei, deux petites filles, s'installent avec leur père dans une grande maison à la campagne, pour se rapprocher de l'hôpital où séjourne leur mère. Elles découvrent la nature qui les entoure, et font la rencontre de Totoro, une créature merveilleuse qui protège la forêt environnante.
 
 - di 18 juin 15h00 GF
 
@@ -117,11 +102,7 @@ Satsuki et Mei, deux petites filles, viennent s'installer avec leur père dans u
 de Sam Taylor, Fred Newmeyer  
 États-Unis / 1923 / 70 min / INT. FR. / DCP  
 Avec Harold Lloyd, Mildred Davis.  
-Harold travaille comme vendeur dans une boutique et a une grande idée: faire de la publicité au magasin en faisant escalader la façade par un ami acrobate. Mais alors, pourquoi est-ce lui qui va se retrouver suspendu aux aiguilles de la grande horloge
-
----
-
-Harold travaille comme vendeur dans une boutique et a une grande idée : faire de la publicité au magasin en faisant escalader la façade par un ami acrobate. Mais alors, pourquoi est-ce lui qui se retrouve suspendu aux aiguilles de la grande horloge ?
+Harold, vendeur dans une boutique, a une grande idée : faire de la publicité pour le magasin en faisant escalader la façade par un ami acrobate. Mais il se retrouve suspendu aux aiguilles de la grande horloge.
 
 - me 21 juin 15h00 GF
 
@@ -137,9 +118,9 @@ Film suivi de _La Lune à un mètre ou Le Rêve de l'astronome_ de Georges Méli
 **Le Pirate**  
 de Vincente Minnelli  
 États-Unis / 1948 / 102 min / VOSTF / 35 mm  
-D'après la pièce _The Pirate_ de S.N. Behrman.  
+D'après la pièce _The Pirate_ de S. N. Behrman.  
 Avec Gene Kelly, Judy Garland, Lola Albright, Walter Slezak.  
-Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le connaître., mais sa tante veut la marier à Don Pedro Vargas, un homme riche et influent. Elle rencontre Serafin, un saltimbanque, qui, pour la séduire, se fait passer pour le fameux pirate désiré.
+Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le connaître, mais sa tante veut la marier au riche et influent Don Pedro Vargas. Elle rencontre Serafin, un saltimbanque, qui, pour la séduire, se fait passer pour le fameux pirate.
 
 - di 2 juil 15h00 HL
 
@@ -149,15 +130,7 @@ Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le con
 de Buster Keaton  
 États-Unis / 1924 / 50 min / INT. FR. / 35 mm  
 Avec Buster Keaton, Kathryn McGuire, Ward Crane.  
-Un jeune projectionniste néglige son travail pour se plonger dans la lecture de son manuel favori: « Comment devenir détective ». Au cours d'une visite chez sa petite amie, il est injustement accusé du vol d'une montre. _Copie avec musique_
-
----
-
-Un jeune projectionniste néglige son travail pour se plonger dans la lecture de son manuel favori : « Comment devenir détective ». A ses risques et périls.
-
----
-
-Buster, qui rêve de devenir détective, projette des films dans un cinéma de quartier. Quand il s'endort dans la cabine, il peut entrer dans l'écran et, de l'autre côté, c'est lui qui mène l'enquête dans le film rêvé ! (copie musicalisée)
+Un jeune projectionniste, apprenti Sherlock Holmes, néglige son travail et se réfugie dans l'imaginaire. Au cours d'une visite chez sa petite amie, il est injustement accusé du vol d'une montre.
 
 - me 28 juin 15h00 GF
 

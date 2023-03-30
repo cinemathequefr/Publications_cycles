@@ -7,7 +7,7 @@ Comment un corps follement aimé et devenu inaccessible pourrait-il être repré
 [54881]  
 **Johan**  
 de Philippe Vallois  
-France / 1975 / 81 min / DCP  
+France / 1975 / 90 min / VO / DCP  
 Avec Philippe Vallois, Pierre Commoy, Patrice Pascal, Laurent Laclos.  
 « Lorsque le jeune acteur principal d'un film est arrêté peu avant le début du tournage, le réalisateur se met en quête d'un remplaçant dans la scène gay. Formellement ambitieux, le film est aussi un document historique. » (S. Volk)
 
@@ -34,7 +34,7 @@ Séance 24. « Je garde le souvenir de ton baiser et je voudrais bien que ce soi
 [99583]  
 **Asparagus**  
 de Suzan Pitt  
-États-Unis / 1979 / 18 min  
+États-Unis / 1979 / 20 min / 35 mm  
 « Masques, sexualité magique, théâtre des illusions : avec cette envoûtante traversée du miroir, Suzan Pitt détient pour toujours la clef (et le secret) des songes animés. » (Yann Gonzalez)  
 suivi de  
 [154195]  
@@ -80,7 +80,7 @@ suivi de
 [154196]  
 **Essence d'absinthe**  
 de Yervant Gianikian, Angela Ricci Lucchi  
-Italie / 1981 / 15 min / Numérique  
+Italie / 1981 / 15 min / 35 mm  
 Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.
 
 - sa 3 juin 18h30 GF  
@@ -356,7 +356,7 @@ suivi de
 [131726]  
 **Blanche**  
 de Marc Hurtado  
-France / 1995 / 34 min / DCP  
+France / 1995 / 34 min / VO / DCP  
 Avec Marc Hurtado.  
 « Larme secrète / Blanche secrète / Langue secrète / L'âme secrète » (Marc Hurtado) « Marc Hurtado : la vie encore au travail, le feu nourri d'amour qui s'obstine à brûler vif dans un infatigable renouvellement. » (Étienne Bomba)
 
@@ -395,7 +395,7 @@ suivi de
 [154223]  
 **Noema**  
 de Scott Stark  
-États-Unis / 1998 / 11 min / 16 mm  
+États-Unis / 1998 / 11 min / Numérique  
 « _Noema_ permet à la pornographie de dialoguer avec un formalisme rigoureux. Les corps ne peuvent se dissoudre dans une forme pure ; ils la frôlent mais restent au bord du hardcore. » (Michael Sicinski)  
 suivi de  
 [141242]  
@@ -500,7 +500,7 @@ suivi de
 **Barbie aussi peut être triste**  
 **(Barbie también puede estar triste)**  
 d'Albertina Carri  
-Argentine / 2002 / 24 min / Numérique  
+Argentine / 2002 / 24 min / VO / DCP  
 Pamphlet d'animation féministe sur la fluidité de la sexualité et la réinvention des schémas amoureux. Tout ce que vous vouliez savoir sur la sexualité de Barbie et Ken.  
 suivi de  
 [154052]  
@@ -702,7 +702,7 @@ suivi de
 [154231]  
 **Rein/Raus**  
 de Jan Soldat  
-Allemagne / 2010 / 1 min / DCP  
+Allemagne / 2010 / 1 min / VOSTA / DCP  
 Brève rencontre.  
 suivi de  
 [154140]  
@@ -801,7 +801,7 @@ suivi de
 [154073]  
 **Why I Want to Fuck Djokhar Tsarnaev**  
 de Geoffroy C. Dedenis  
-France / 2017 / 18 min / Numérique  
+France / 2017 / 18 min / DCP  
 « Description du paysage médiatique, où le protagoniste contemple l'univers paranoïaque qui l'entoure et y trouve une résolution à travers sa propre catastrophe. Le terrorisme est toujours celui du réel. » (Geoffroy C. Dedenis)  
 suivi de  
 [154072]  
@@ -893,13 +893,13 @@ suivi de
 [154250]  
 **Survival of the Sickest**  
 de Geoffroy C. Dedenis  
-France / 2019 / 2 min / Numérique  
+France / 2019 / 2 min / DCP  
 « L'un des _« violent wallpapers »_ réalisés à la demande du féérique Pierre Emö pour Pornceptual à Berlin. On les projetait sur les murs pendant que les participants faisaient ce qu'ils avaient à faire. Je crois qu'on les passait au ralenti. » (Geoffroy C. Dedenis)  
 suivi de  
 [154390]  
 **Relax Be Cruel**  
 de Marion Scemama  
-États-Unis-France / 2023 / 39 min / DCP  
+États-Unis-France / 2023 / 39 min / Numérique  
 « Hommage à un lieu mythique de New York, le Pier 34, emblématique du bouillonnement de la scène underground qui explosait au début des années 80 et des lieux de rencontres homosexuelles anonymes. Le dernier espace de liberté avant les années sida. » (Marion Scemama)  
 Première mondiale  
 suivi de  

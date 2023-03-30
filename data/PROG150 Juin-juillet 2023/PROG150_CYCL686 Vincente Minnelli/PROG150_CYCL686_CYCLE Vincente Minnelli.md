@@ -8,15 +8,13 @@ d'Alice Guy
 France / 1905 / 2 min / INT. FR. / DCP
 
 - sa 1 juil 15h00 HL  
-Film précédé de _La Fée au choux_ d'Alice Guy et suivi de de _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli  
-- di 9 juil 14h30 HL  
 Film précédé de _La Fée au choux_ d'Alice Guy et suivi de de _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli
 
 [35235]  
 **Allons donc, papa !**  
 **(Father's Little Dividend)**  
 de Vincente Minnelli  
-États-Unis / 1950 / 81 min / VOSTF / 35 mm  
+États-Unis / 1951 / 81 min / VOSTF / 35 mm  
 Avec Spencer Tracy, Elizabeth Taylor, Joan Bennett.  
 Stanley vit mal son rôle de futur grand-père, tandis que son épouse ne cache pas sa joie. Le couple se dispute constamment, jusqu'à l'arrivée de l'enfant.
 
@@ -41,17 +39,15 @@ d'Alice Guy
 France / 1897 / 1 min / INT. FR. / DCP
 
 - sa 1 juil 17h30 HL  
-Film suivi de _Yolanda et le Voleur_ de Vincente Minnelli  
-- ve 21 juil 20h30 HL  
 Film suivi de _Yolanda et le Voleur_ de Vincente Minnelli
 
 [35211]  
 **Brigadoon**  
 de Vincente Minnelli  
 États-Unis / 1954 / 108 min / VOSTF / 35 mm  
-D'après la comédie musicale _Brigadoon_ d'Alan Jay Lerner , Frederick Loewe et Cheryl Crawford.  
+D'après la comédie musicale _Brigadoon_ d'Alan Jay Lerner.  
 Avec Cyd Charisse, Gene Kelly, Van Johnson.  
-Brigadoon est une bourgade qui n'existe qu'un jour par siècle, coincé en 1755. Deux Américains, en voyage en Écosse, s'y perdent, et l'un des deux tombe amoureux d'une villageoise.
+Brigadoon est un village des Highlands où le temps s'est figé sur l'an 1755 et qui n'existe qu'un jour par siècle. Deux Américains en voyage en Écosse s'y égarent, et l'un des deux tombe amoureux d'une villageoise.
 
 - di 2 juil 18h30 HL  
 - je 27 juil 20h30 HL
@@ -60,7 +56,7 @@ Brigadoon est une bourgade qui n'existe qu'un jour par siècle, coincé en 1755.
 **Celui par qui le scandale arrive**  
 **(Home from the Hill)**  
 de Vincente Minnelli  
-États-Unis / 1959 / VOSTF / 35 mm  
+États-Unis / 1960 / VOSTF / 35 mm  
 D'après le roman _Home from the Hill_ de William Humphrey.  
 Avec Robert Mitchum, George Peppard, Eleanor Parker.  
 Un grand propriétaire du Sud tyrannise sa femme et ses deux fils, l'un légitime, l'autre issu d'une liaison adultère.
@@ -85,7 +81,7 @@ Voir aussi dialogue p. xx
 **Le Chevalier des sables**  
 **(The Sandpiper)**  
 de Vincente Minnelli  
-États-Unis / 1964 / 118 min / VOSTF / 35 mm  
+États-Unis / 1965 / 118 min / VOSTF / 35 mm  
 Avec Elizabeth Taylor, Richard Burton, Eva Marie Saint, Charles Bronson.  
 Laura Reynolds, peintre anticonformiste, vit sur la côte californienne avec son fils, qu'elle élève dans le goût de la liberté. Un jour, le garçon est placé de force au collège San Simeon, établissement religieux dirigé par l'austère pasteur Hewitt.
 
@@ -99,7 +95,7 @@ de Vincente Minnelli
 États-Unis / 1958 / 137 min / VOSTF / 35 mm  
 D'après le roman _Comme un torrent_ de James Jones.  
 Avec Frank Sinatra, Dean Martin, Shirley MacLaine, Arthur Kennedy.  
-Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, et flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tout point son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature.  
+Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tous points son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature.  
 « Une province américaine trop étriquée et rooseveltienne pour un vétéran qui se voudrait Hemingway. Mélodrame de légende, que Godard achèvera d'écrire avec _Le Mépris_, par le plus grand coloriste du cinéma hollywoodien. » (Frédéric Bonnaud)
 
 - me 5 juil 19h00 HL  
@@ -112,7 +108,7 @@ de Vincente Minnelli
 États-Unis / 1952 / 117 min / VOSTF / DCP  
 D'après la nouvelle _Tribute to a Bad Man_ de George Bradshaw.  
 Avec Kirk Douglas, Lana Turner, Walter Pidgeon, Gloria Grahame.  
-Un réalisateur, une actrice et un scénariste, à qui l'on propose un nouveau contrat avec un célèbre producteur d'Hollywood évoquent, chacun à leur tour, les humiliations subies avant d'accéder au rang de star.
+Un réalisateur, une actrice et un scénariste à qui l'on propose un nouveau contrat avec un célèbre producteur d'Hollywood évoquent, chacun à leur tour, les humiliations subies avant d'accéder au rang de star.
 
 - ve 30 juin 20h15 HL  
 - di 23 juil 14h30 HL
@@ -123,15 +119,13 @@ d'Alice Guy
 France / 1896 / 1 min / INT. FR. / DCP
 
 - sa 1 juil 15h00 HL  
-Film suivi d'_Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli  
-- di 9 juil 14h30 HL  
 Film suivi d'_Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli
 
 [35221]  
 **La Femme modèle**  
 **(Designing Woman)**  
 de Vincente Minnelli  
-États-Unis / 1956 / 117 min / VOSTF / 35 mm  
+États-Unis / 1957 / 117 min / VOSTF / 35 mm  
 Avec Gregory Peck, Lauren Bacall.  
 Marilla et Mike se marient, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents : elle est dessinatrice de mode, et lui, chroniqueur sportif.
 
@@ -144,24 +138,22 @@ d'Alice Guy
 France / 1900 / 2 min / DCP
 
 - sa 1 juil 20h00 HL  
-Film suivi de _Tous en scène_ de Vincente Minnelli  
-- je 27 juil 18h00 HL  
 Film suivi de _Tous en scène_ de Vincente Minnelli
 
 [35254]  
 **Gigi**  
 de Vincente Minnelli  
-États-Unis / 1957 / VOSTF / 35 mm  
+États-Unis / 1958 / VOSTF / 35 mm  
 D'après le roman _Gigi_ de Colette.  
 Avec Leslie Caron, Maurice Chevalier, Louis Jourdan.  
-La jeune Gigi, élevée par sa grand-mère et sa grande tante, est destinée à la vie de demi-mondaine. Particulièrement espiègle et charmante, elle trouble le riche et élégant Gaston Lachaille qui rend souvent visite aux deux vieilles dames.
+La jeune Gigi, élevée par sa grand-mère et sa grand-tante, est destinée à la vie de demi-mondaine. Particulièrement espiègle et charmante, elle trouble le riche et élégant Gaston Lachaille, qui rend souvent visite aux deux vieilles dames.
 
 - sa 15 juil 19h30 HL  
 - sa 29 juil 14h30 HL
 
 [35279]  
 **Histoire de trois amours : Mademoiselle**  
-**(The Story of Three Loves : Mademoiselle)**  
+**(The Story of Three Loves: Mademoiselle)**  
 de Vincente Minnelli  
 États-Unis / 1952 / 122 min / VOSTF / 35 mm  
 Avec Leslie Caron, Ethel Barrymore, Farley Granger.  
@@ -185,7 +177,7 @@ En 1945, lors d'une permission de 48 heures, un soldat rencontre par hasard une 
 **Il faut marier papa**  
 **(The Courtship of Eddie's Father)**  
 de Vincente Minnelli  
-États-Unis / 1962 / 117 min / VOSTF / 35 mm  
+États-Unis / 1963 / 117 min / VOSTF / 35 mm  
 D'après le roman _The Courtship of Eddie's father_ de Mark Toby.  
 Avec Glenn Ford, Shirley Jones, Stella Stevens.  
 Un enfant de sept ans déploie des trésors d'imagination pour trouver une nouvelle épouse à son père.
@@ -199,7 +191,7 @@ de Vincente Minnelli
 États-Unis / 1955 / 112 min / VO / 35 mm  
 D'après la pièce _Kismet_ d'Edward Knoblock.  
 Avec Howard Keel, Ann Blyth, Jack Elam.  
-À Bagdad, les aventures du poète Hadji, qui s'unit à la fille du Grand Vizir.
+À Bagdad, les aventures du poète Hadji, qui s'unit à la fille du grand vizir.
 
 - ve 14 juil 20h15 HL  
 - ve 21 juil 18h00 HL
@@ -210,7 +202,7 @@ Avec Howard Keel, Ann Blyth, Jack Elam.
 de Vincente Minnelli  
 États-Unis / 1946 / 116 min / VOSTF / 35 mm  
 Avec Katharine Hepburn, Robert Taylor, Robert Mitchum.  
-Ann Hamilton a épousé sur un coup de foudre un riche industriel, Alan Garroway. Elle apprend bientôt qu'il est plus mystérieux et découvre fortuitement l'existence de son frère, Michael.
+Ann Hamilton a épousé sur un coup de foudre un riche industriel, Alan Garroway. Elle découvre bientôt qu'il est plus mystérieux qu'il ne paraît, et apprend fortuitement l'existence de son frère, Michael.
 
 - ve 30 juin 15h30 GF  
 - je 13 juil 18h00 HL
@@ -223,8 +215,6 @@ France / 1906 / 4 min / DCP
 Film attribué à Alice Guy.
 
 - sa 1 juil 15h00 HL  
-Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy et suivi de d'_Un numéro du tonnerre_ de Vincente Minnelli  
-- di 9 juil 14h30 HL  
 Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy et suivi de d'_Un numéro du tonnerre_ de Vincente Minnelli
 
 [35207]  
@@ -251,10 +241,10 @@ Joseph, modeste employé de pressing, est surpris quand Connie Shaw, vedette de 
 
 [45896]  
 **Melinda**  
-**(On a Clear Day, You Can See Forever)**  
+**(On a Clear Day You Can See Forever)**  
 de Vincente Minnelli  
-États-Unis / 1969 / 129 min / VO / 16 mm  
-D'après la comédie musicale _On a Clear Day, You Can See Forever_ de Burton Lane et Alan Jay Lerner.  
+États-Unis / 1970 / 129 min / VO / 16 mm  
+D'après la comédie musicale _On a Clear Day You Can See Forever_ d'Alan Jay Lerner.  
 Avec Barbra Streisand, Yves Montand.  
 Désireuse d'arrêter de fumer, Daisy Gamble rend visite à un spécialiste de l'hypnose. Au cours d'une séance, Daisy évoque des faits concernant une aristocrate du XIX<sup>e</sup> siècle, une certaine Melinda, dont le médecin tombe peu à peu amoureux.
 
@@ -265,10 +255,10 @@ Désireuse d'arrêter de fumer, Daisy Gamble rend visite à un spécialiste de l
 **Nina**  
 **(A Matter of Time)**  
 de Vincente Minnelli  
-États-Unis-Italie / 1975 / 97 min / VOSTF / 35 mm  
+États-Unis-Italie / 1976 / 97 min / VOSTF / 35 mm  
 D'après le roman _La Volupté d'être_ de Maurice Druon.  
 Avec Ingrid Bergman, Liza Minnelli, Charles Boyer.  
-Nina, une actrice célèbre, est attendue à une conférence de presse. Pour l'heure, elle se trouve dans une voiture en compagnie d'un homme à qui raconte son histoire.
+Nina, une actrice célèbre, est attendue à une conférence de presse. Pour l'heure, elle se trouve dans une voiture en compagnie d'un homme à qui raconte son l'histoire de sa vie.
 
 - me 12 juil 20h45 GF  
 - me 19 juil 20h45 HL
@@ -289,9 +279,9 @@ Stanley Banks prépare le mariage de sa fille Kay, mais s'angoisse à l'idée qu
 **Le Pirate**  
 de Vincente Minnelli  
 États-Unis / 1948 / 102 min / VOSTF / 35 mm  
-D'après la pièce _The Pirate_ de S.N. Behrman.  
+D'après la pièce _The Pirate_ de S. N. Behrman.  
 Avec Gene Kelly, Judy Garland, Lola Albright, Walter Slezak.  
-Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le connaître., mais sa tante veut la marier à Don Pedro Vargas, un homme riche et influent. Elle rencontre Serafin, un saltimbanque, qui, pour la séduire, se fait passer pour le fameux pirate désiré.
+Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le connaître, mais sa tante veut la marier au riche et influent Don Pedro Vargas. Elle rencontre Serafin, un saltimbanque, qui, pour la séduire, se fait passer pour le fameux pirate.
 
 - di 2 juil 15h00 HL  
 - sa 22 juil 14h30 HL
@@ -311,7 +301,7 @@ En 1927, Jerôme Kern remporte un véritable succès avec le spectacle _Show Boa
 **Qu'est-ce que maman comprend à l'amour ?**  
 **(The Reluctant Debutante)**  
 de Vincente Minnelli  
-États-Unis / 1958 / VOSTF / 35 mm  
+États-Unis / 1958 / 96 min / VOSTF / 35 mm  
 Avec Rex Harrison, Kay Kendall, Sandra Dee, Angela Lansbury.  
 Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leur fille Jane fasse son entrée dans le monde. Ils veulent la fiancer à un jeune homme, que convoite aussi une de leurs cousines, tandis que Jane, elle, s'éprend d'un musicien américain.
 
@@ -346,7 +336,7 @@ Avec Kirk Douglas, Edward G. Robinson, Cyd Charisse.
 **La Roulotte du plaisir**  
 **(The Long, Long Trailer)**  
 de Vincente Minnelli  
-États-Unis / 1954 / VOSTF / 16 mm  
+États-Unis / 1954 / 96 min / VOSTF / Numérique  
 Avec Lucille Ball, Desi Arnaz.  
 Un couple de jeunes mariés, qui vient d'acheter une gigantesque caravane et entame son voyage de noces, voit les ennuis pleuvoir à cause du véhicule.
 
@@ -389,8 +379,7 @@ Copie 35 mm Technicolor originale (tirage par imbibition) issue des collections 
 
 - sa 1 juil 20h00 HL  
 Film précédé de _Les Fredaines de Pierrette_ d'Alice Guy  
-- je 27 juil 18h00 HL  
-Film précédé de _Les Fredaines de Pierrette_ d'Alice Guy
+- je 27 juil 18h00 HL
 
 [44918]  
 **Un Américain à Paris**  
@@ -407,15 +396,14 @@ Un peintre américain s'installe à Paris et tombe amoureux de la ville et d'une
 **Un numéro du tonnerre**  
 **(Bells Are Ringing)**  
 de Vincente Minnelli  
-États-Unis / 1959 / VOSTF / 35 mm  
+États-Unis / 1959 / 127 min / VOSTF / 35 mm  
 D'après la comédie musicale _Bells Are Ringing_ de Betty Comden , Adolph Green et Jule Styne.  
 Avec Judy Holliday, Dean Martin.  
 Ella Peterson, une standardiste new-yorkaise, s'immisce dans les affaires des abonnés téléphoniques et devient leur confidente.
 
 - sa 1 juil 15h00 HL  
 Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy  
-- di 9 juil 14h30 HL  
-Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy
+- di 9 juil 14h30 HL
 
 [35216]  
 **Un petit coin aux cieux**  
@@ -450,8 +438,7 @@ Johnny, un petit voleur, usurpe l'identité de Candle, ange gardien auprès de l
 
 - sa 1 juil 17h30 HL  
 Film précédé de _Baignade dans un torrent_ d'Alice Guy  
-- ve 21 juil 20h30 HL  
-Film précédé de _Baignade dans un torrent_ d'Alice Guy
+- ve 21 juil 20h30 HL
 
 [34230]  
 **Ziegfeld Follies**  
@@ -467,9 +454,9 @@ Le grand Ziegfeld est au ciel, et de là-haut rêve à une nouvelle revue dans l
 
 **Film + Dialogue avec Murielle Joudet**  
 Rencontre animée par Bernard Benoliel  
-« Judy \[Garland\] avait un caractère changeant, passant sans transition de l'exubérance à la mélancolie, mais elle était fondamentalement pleine de charme et de séduction. Il ne faut pas oublier que Judy était à la fois la star et la grande chanteuse du film \[_Le Chant du Missouri_\], si bien qu'elle en constituait en quelque sorte le pivot pour réussir l'intégration des chansons à l'intrigue. Si Judy n'avait pas finalement cru à l'entreprise, le film aurait été un échec complet. Aussi, lorsque je la vis s'y engager à fond, je compris que nous allions au contraire vers un grand succès ! (...) _Le Chant du Missouri_ fut mon examen de passage définitif. Louis B. Mayer \[patron de Metro-Goldwyn-Mayer\] se montra très enthousiaste, et tous les autres grands pontes de la direction, qui avaient été contre le projet à l'origine, reconnurent leur erreur. Quant aux critiques, elles furent dithyrambiques. » Vincente Minnelli, _Tous en scène_ – _Autobiographie_ (1981)  
-**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
-Murielle Joudet est critique de cinéma au _Monde,_ elle participe à l'émission _Le Cercle_ (Canal +) et anime une émission d'entretiens sur le site Hors-série. Elle a publié deux ouvrages consacrés à des actrices : _Isabelle Huppert : Vivre ne nous regarde pas_ (Capricci, 2018) et _Gena Rowlands : On aurait dû dormir_ (Capricci, Prix 2021 du livre de cinéma) et, récemment, aux éditions Premier parallèle, _La Seconde Femme_, un essai sous-titré : _Ce que les actrices font à la vieillesse._
+« Judy [Garland] avait un caractère changeant, passant sans transition de l'exubérance à la mélancolie, mais elle était fondamentalement pleine de charme et de séduction. Il ne faut pas oublier que Judy était à la fois la star et la grande chanteuse du film [_Le Chant du Missouri_], si bien qu'elle en constituait en quelque sorte le pivot pour réussir l'intégration des chansons à l'intrigue. Si Judy n'avait pas finalement cru à l'entreprise, le film aurait été un échec complet. Aussi, lorsque je la vis s'y engager à fond, je compris que nous allions au contraire vers un grand succès ! (...) _Le Chant du Missouri_ fut mon examen de passage définitif. Louis B. Mayer [patron de Metro-Goldwyn-Mayer] se montra très enthousiaste, et tous les autres grands pontes de la direction, qui avaient été contre le projet à l'origine, reconnurent leur erreur. Quant aux critiques, elles furent dithyrambiques. » (Vincente Minnelli, _Tous en scène : Autobiographie_ (1981)  
+Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+Murielle Joudet est critique de cinéma au _Monde_, elle participe à l'émission Le Cercle (Canal+) et anime une émission d'entretiens sur le site Hors-série. Elle a publié deux ouvrages consacrés à des actrices : _Isabelle Huppert : Vivre ne nous regarde pas_ (Capricci, 2018) et _Gena Rowlands : On aurait dû dormir_ (Capricci, Prix 2021 du livre de cinéma) et, récemment, aux éditions Premier parallèle, _La Seconde femme_, un essai sous-titré : _Ce que les actrices font à la vieillesse_.
 
 - je 6 juil 19h00 HL  
 À la suite de la projection de _Le Chant du Missouri_ de Vincente Minnelli (voir p. xx)
