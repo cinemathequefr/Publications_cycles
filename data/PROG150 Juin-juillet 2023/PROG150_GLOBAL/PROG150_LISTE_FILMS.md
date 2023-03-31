@@ -260,7 +260,7 @@
   * Monte là-dessus  
   * Panorama pris d'un train en marche  
   * Pirate (Le)  
-  * Sherlock Junior  
+  * Sherlock Jr.  
   * Un homme de têtes  
   * Voyage à travers l'impossible
 
