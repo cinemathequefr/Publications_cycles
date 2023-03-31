@@ -133,7 +133,7 @@
   * Fuck Tree  
   * Gracias amigos  
   * Guaraches (El)  
-  * Habeas Corpus  
+  * Habeas corpus  
   * Hand to Mouth  
   * Head  
   * Hermaphrodite Bikini  
@@ -153,7 +153,7 @@
   * Light Sleep  
   * Loads  
   * Loi X – la nuit en permanence (La)  
-  * Mano Destra  
+  * Mano destra  
   * Mayhem  
   * Me and Rubyfruit  
   * Met  
@@ -213,6 +213,7 @@
   * Amours de la pieuvre (Les)  
   * Chagrin et la Pitié (Le)  
   * Chronique d'un été  
+  * Cristaux liquides  
   * Deux Marseillaises (Les)  
   * Dieux du stade, partie 1 : La Fête des peuples (Les)  
   * Dieux du stade, partie 2 : Jeunesse olympique (Les)  
@@ -241,7 +242,6 @@
   * Sobibor, 14 octobre 1943, 16 heures  
   * Sois belle et tais-toi  
   * Sud  
-  * undefined  
   * Vues d'Espagne  
   * Welfare
 

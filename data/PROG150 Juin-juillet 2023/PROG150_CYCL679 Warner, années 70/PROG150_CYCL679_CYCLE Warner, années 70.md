@@ -127,7 +127,8 @@ de John Milius
 Avec Jan-Michael Vincent, William Katt, Gary Busey.  
 Dans les années 1960, Matt, Jack et Leroy partagent une même passion pour le surf. Séparés par la vie et ses aléas, ils se retrouvent en 1974, pour le Big Wednesday, où a été enregistrée la plus grande vague en Californie.
 
-- sa 10 juin 14h30 HL
+- sa 10 juin 14h30 HL  
+Séance présentée par Nicolas Pariser
 
 [35020]  
 **Les Hommes du président**  
@@ -204,7 +205,7 @@ Avec Robert De Niro, Harvey Keitel, David Proval.
 Little Italy, à New York. Quatre jeunes voyous d'origine italienne au service de la Mafia tentent par différents moyens de s'imposer dans leur quartier.  
 Version restaurée.
 
-- sa 17 juin 17h15 GF
+- sa 10 juin 18h00 GF
 
 [31090]  
 **Opération Dragon**  
@@ -214,8 +215,7 @@ de Robert Clouse
 Avec Bruce Lee, John Saxon, Jim Kelly, Bernard Benoliel.  
 Lee, un membre du temple Shaolin, est chargé par la police d'infiltrer un tournoi d'arts martiaux afin de démasquer Han, un ancien du temple qui vit désormais du trafic d'opium et de la traite de femmes.
 
-- sa 10 juin 18h00 GF  
-Séance présentée par Bernard Benoliel
+- sa 17 juin 17h15 GF
 
 [34020]  
 **Orange mécanique**  

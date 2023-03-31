@@ -2,30 +2,12 @@
 
 ## Les films
 
-[65709]  
-****  
-undefined  
-13 min / DCP
-
-- me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
-Film suivi d'_undefined_, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
-
-[154416]  
-****  
-undefined  
-6 min / DCP
-
-- me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
-Film précédé d'_undefined_ et suivi de de _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
-
 [77226]  
 **1974, une partie de campagne**  
 de Raymond Depardon  
 France / 1974 / 90 min / Numérique  
 Avec Valéry Giscard d'Estaing.  
-1974\. Valéry Giscard d'Estaing, alors ministre de l'Économie et des Finances, se lance dans une campagne « à l'américaine ». Raymond Depardon suit le fringant candidat à la présidentielle et capte des instants rares et historiques de la classe politique française.
+1974. Valéry Giscard d'Estaing, alors ministre de l'Économie et des Finances, se lance dans une campagne « à l'américaine ». Raymond Depardon suit le fringant candidat à la présidentielle et capte des instants rares et historiques de la classe politique française.
 
 - sa 8 juil 20h00 GF
 
@@ -37,7 +19,17 @@ Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli form
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé d'_undefined_, _undefined_, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé
+Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé
+
+[65709]  
+**Les Amours de la pieuvre**  
+de Jean Painlevé  
+France / 1965 / 13 min / DCP  
+Texte à saisir
+
+- me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
+Film suivi de _Cristaux liquides_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
 
 [154376]  
 **Les Amours de la pieuvre**  
@@ -47,7 +39,7 @@ Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de l
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé d'_undefined_, _undefined_, _La Pieuvre_ de Jean Painlevé et suivi de de _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
+Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé et suivi de de _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
 
 [50421]  
 **Le Chagrin et la Pitié**  
@@ -63,11 +55,21 @@ Séance présentée par Jean-François Rauger
 **Chronique d'un été**  
 de Jean Rouch, Edgar Morin  
 France / 1960 / 86 min / DCP  
-Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, enquêtent sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés évoquent leurs préoccupations et leurs espoirs et tentent de répondre à la question « Êtes-vous heureux ? ».
+Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, enquêtent sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés évoquent leurs préoccupations et leurs espoirs, et tentent de répondre à la question : « Êtes-vous heureux ? »
 
 - sa 1 juil 14h30 GF  
 Voir aussi dialogue p. xx  
 Film précédé de _La Marâtre_ d'Alice Guy
+
+[154416]  
+**Cristaux liquides**  
+de Jean Painlevé  
+France / 1978 / 6 min / DCP  
+Étude au microscope des dispositions moléculaires multicolores des cristaux liquides.
+
+- me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
+Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé et suivi de de _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
 
 [59394]  
 **Les Deux Marseillaises**  
@@ -108,7 +110,7 @@ La lutte quotidienne du village de Vin-Linh, sur le 17<sup>e</sup> parallèle, d
 [79092]  
 **Être et avoir**  
 de Nicolas Philibert  
-France / 2001 / 104 min / DCP  
+France / 2002 / 104 min / DCP  
 Immersion au cœur de l'école d'un petit village d'Auvergne, dans son unique classe, qui va de la maternelle au CM2. Jour après jour, on suit le quotidien de cette petite communauté d'enfants qui s'organise autour de l'instituteur.
 
 - sa 24 juin 18h00 HL  
@@ -117,7 +119,8 @@ Séance présentée par Nicolas Philibert
 [154415]  
 **Fils du garde de chasse**  
 d'Alice Guy  
-France / 1906 / 5 min / DCP
+France / 1906 / 5 min / DCP  
+Un garde-chasse suscite la fierté de son fils aîné, tant et si bien que celui-ci aide son père à venir à bout de deux braconniers.
 
 - sa 1 juil 18h30 GF  
 Séance présentée par Barbet Schroeder (sous réserve)  
@@ -126,8 +129,8 @@ Film suivi de _Général Idi Amin Dada_ de Barbet Schroeder
 [62245]  
 **Général Idi Amin Dada**  
 de Barbet Schroeder  
-France-Suisse / 1973 / 92 min / DCP  
-Sans juger ni prendre parti, le film fait le portrait du général Idi Amin Dada, président à vie de l'Ouganda après son coup d'état en 1971. Amin Dada se met en scène, tour à tour naïf ou lucide, drôle ou inquiétant.
+France-Suisse / 1974 / 92 min / DCP  
+Portrait du général Idi Amin Dada, président à vie de l'Ouganda après son coup d'État de 1971. Devant la caméra de Barbet Schroeder, le dictateur se met en scène avec gourmandise, tour à tour naïf et lucide, drôle et sinistre.
 
 - sa 1 juil 18h30 GF  
 Séance présentée par Barbet Schroeder (sous réserve)  
@@ -149,7 +152,7 @@ Les images spectaculaires d'un hippocampe mâle enceinte donnant naissance à se
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé d'_undefined_, _undefined_, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé et suivi de d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
+Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé et suivi de d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
 
 [53328]  
 **L'Homme à la caméra**  
@@ -180,7 +183,7 @@ Présentation de petits crustacés dont la particularité est de se couvrir, sel
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé d'_undefined_, _undefined_, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé
+Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé
 
 [58050]  
 **Le Joli Mai**  
@@ -254,7 +257,7 @@ La Pieuvre a été restauré en 2020 au laboratoire Hiventy par Les Documents ci
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé d'_undefined_, _undefined_ et suivi de de _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
+Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé et suivi de de _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
 
 [56070]  
 **Pour la suite du monde**  
@@ -343,7 +346,8 @@ Film précédé de _Vues d'Espagne_ d'Alice Guy
 [154414]  
 **Vues d'Espagne**  
 d'Alice Guy  
-France / 1905 / 10 min / DCP
+France / 1905 / 10 min / DCP  
+Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparait à l'image.
 
 - sa 1 juil 20h45 GF  
 Séance présentée par Claire Atherton  

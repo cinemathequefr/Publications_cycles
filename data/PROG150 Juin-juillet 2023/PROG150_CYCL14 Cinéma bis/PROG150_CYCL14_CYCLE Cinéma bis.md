@@ -10,7 +10,7 @@ Grande-Bretagne / 1972 / 85 min / VF / 35 mm
 Avec Gabrielle Drake, Robin Bailey, Jane Cardew.  
 Récit humoristique, par une jeune hôtesse de bar, des nuits chaudes de Londres.
 
-- ve 2 juin 19h00 GF
+- ve 2 juin 19h30 GF
 
 [48653]  
 **Aphrodite**  
@@ -20,7 +20,7 @@ D'après le roman _Aphrodite_ de Pierre Louÿs.
 Avec Horst Buchholz, Valérie Kaprisky, Catherine Jourdan, Capucine.  
 Harry, un jeune milliardaire, passe ses vacances en Grèce chez son ami le comte Orloff. Celui-ci organise une fête durant trois jours et trois nuits, à la gloire de la déesse Aphrodite.
 
-- ve 2 juin 21h00 GF
+- ve 2 juin 21h30 GF
 
 ## Raretés de la Warner Bros.
 

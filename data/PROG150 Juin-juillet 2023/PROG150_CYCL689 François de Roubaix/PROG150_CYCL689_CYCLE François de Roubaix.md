@@ -122,7 +122,7 @@ Film suivi de _Les Aventuriers_ de Robert Enrico
 de Bruno Gantillon  
 France / 1970 / 86 min  
 Avec Dominique Delpierre, Mireille Saunin, Michèle Perello, Alfred Baillou.  
-Deux jeunes femmes se perdent dans les bois et entrent accidentellement dans le royaume de Morgane, une sorcière. Elle leur propose de devenir ses concubines, en échange d'une jeunesse éternelle. Si elles refusent, elles seront enfermées dans un cachot.
+Deux jeunes femmes se perdent dans les bois et entrent dans le royaume de la sorcière Morgane. Celle-ci voudrait en faire ses concubines, et leur offre en échange la jeunesse éternelle. Mais si elles refusent...
 
 - ve 23 juin 15h30 GF
 
@@ -132,7 +132,7 @@ de Jean-Pierre Melville
 France-Italie / 1967 / 95 min / DCP  
 D'après le roman _The Ronin_ de Joan MacLeod.  
 Avec Alain Delon, Nathalie Delon, François Périer.  
-Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de le faire tuer à son tour.  
+Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de l'abattre à son tour.  
 Restauration par Pathé.
 
 - sa 24 juin 14h30 HL  
@@ -152,7 +152,7 @@ En pleine campagne électorale à Marseille, deux clans s'affrontent : la famill
 **Thaumetopoea**  
 de Robert Enrico  
 France / 1960 / 23 min / DCP  
-À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. Dans _Thaumetopoea_, il décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.
+À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.
 
 - di 25 juin 16h15 GF  
 Film suivi de _Les Grandes Gueules_ de Robert Enrico

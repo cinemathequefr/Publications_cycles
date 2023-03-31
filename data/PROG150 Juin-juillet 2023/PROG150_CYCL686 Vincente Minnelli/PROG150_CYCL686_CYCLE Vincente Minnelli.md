@@ -5,7 +5,8 @@
 [106009]  
 **Alice Guy tourne une phonoscène**  
 d'Alice Guy  
-France / 1905 / 2 min / INT. FR. / DCP
+France / 1905 / 2 min / INT. FR. / DCP  
+Alice Guy orchestre l'enregistrement d'une courte scène chantée.
 
 - sa 1 juil 15h00 HL  
 Film précédé de _La Fée au choux_ d'Alice Guy et suivi de de _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli
@@ -95,8 +96,7 @@ de Vincente Minnelli
 États-Unis / 1958 / 137 min / VOSTF / 35 mm  
 D'après le roman _Comme un torrent_ de James Jones.  
 Avec Frank Sinatra, Dean Martin, Shirley MacLaine, Arthur Kennedy.  
-Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tous points son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature.  
-« Une province américaine trop étriquée et rooseveltienne pour un vétéran qui se voudrait Hemingway. Mélodrame de légende, que Godard achèvera d'écrire avec _Le Mépris_, par le plus grand coloriste du cinéma hollywoodien. » (Frédéric Bonnaud)
+Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tous points son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature.
 
 - me 5 juil 19h00 HL  
 - sa 22 juil 19h30 HL
@@ -116,7 +116,8 @@ Un réalisateur, une actrice et un scénariste à qui l'on propose un nouveau co
 [53492]  
 **La Fée au choux**  
 d'Alice Guy  
-France / 1896 / 1 min / INT. FR. / DCP
+France / 1896 / 1 min / INT. FR. / DCP  
+Dans un potager, une fée fait apparaitre des bébés.
 
 - sa 1 juil 15h00 HL  
 Film suivi d'_Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli
@@ -135,7 +136,8 @@ Marilla et Mike se marient, avant de se rendre compte qu'ils appartiennent à de
 [105838]  
 **Les Fredaines de Pierrette**  
 d'Alice Guy  
-France / 1900 / 2 min / DCP
+France / 1900 / 2 min / DCP  
+Pantomine dansée.
 
 - sa 1 juil 20h00 HL  
 Film suivi de _Tous en scène_ de Vincente Minnelli

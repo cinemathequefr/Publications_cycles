@@ -13,11 +13,7 @@ Hélène Frappat est écrivaine, _aka_ espionne. Triple agent, elle est romanci�
 de Noël Marshall  
 États-Unis / 1981 / 94 min / VOSTF / DCP  
 Avec Tippi Hedren, Melanie Griffith, Noël Marshall.  
-Un excentrique amoureux des fauves vit, sans filets ni barreaux, en compagnie de nombreux lions et tigres dans une grande propriété en Afrique. Sa famille lui rend visite.
-
----
-
-Hank, scientifique américain installé en Afrique, étudie les félins en vivant parmi eux. Sa maison est un refuge pour des dizaines de fauves en liberté. Madelaine, l'épouse de Hank, et leurs enfants Melanie, John et Jerry, décident de venir lui rendre visite. Mais à leur arrivée, ce n'est pas lui qui les accueille...  
+Hank, scientifique américain installé en Afrique, étudie les félins en vivant parmi eux. Son épouse Madelaine et leurs enfants Melanie, John et Jerry, décident de venir lui rendre visite.  
 « Mais voici qu'à notre stupeur, le metteur en scène abandonne les plans rapprochés, isolant les protagonistes du drame, pour nous offrir simultanément, dans le même plan général, les parents, l'enfant et le fauve. (...) Le réalisme réside ici dans l'homogénéité de l'espace. On voit donc qu'il est des cas où, loin de constituer l'essence du cinéma, le montage en est la négation. La même scène, selon qu'elle ait été traitée par le montage on en plan d'ensemble, peut n'être que de la mauvaise littérature ou devenir du grand cinéma. » André Bazin, Juillet 1953, à propos d'un film, _Quand_ _les vautours ne volent plus_ (Harry Watt, 1951)
 
 - je 8 juin 19h30 GF
@@ -37,7 +33,9 @@ Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa 
 **(Rich and Famous)**  
 de George Cukor  
 États-Unis / 1981 / 117 min / VOSTF / 35 mm  
-1959 : Merry quitte le Smith College et épouse Doug Blake. Elle fait ses adieux à Liz, sa meilleure amie secrètement amoureuse de Doug. 1969 : Liz, devenue une romancière célèbre, revoit les époux Blake à Malibu. Merry a écrit un livre sur leur jeunesse et soumet son projet à Liz.
+D'après la pièce _Old Acquaintance_ de John Van Druten.  
+Avec Candice Bergen, David Selby, Jacqueline Bisset.  
+1959 : Merry épouse Doug Blake, et fait ses adieux à Liz, sa meilleure amie secrètement amoureuse de Doug. 1969 : Liz, devenue une romancière célèbre, revoit les deux époux à Malibu. Merry a écrit un livre sur leur jeunesse et soumet son projet à Liz.
 
 - je 22 juin 19h00 GF
 
@@ -45,7 +43,8 @@ de George Cukor
 **Spanglish**  
 de James L. Brooks  
 États-Unis / 2003 / 131 min / VOSTF  
-À Los Angeles, Flor, une jeune Mexicaine sans argent et sans mari, trouve une place de gouvernante chez les Clasky, un couple aisé avec deux enfants. D'abord déroutée par sa découverte d'un tout autre mode de vie, Flor observe en vérité les ratées de cette « famille parfaite ». Au contact les uns des autres, chacun tente de réapprendre à vivre ensemble.
+Avec Adam Sandler, Téa Leoni, Paz Vega.  
+À Los Angeles, Flor, une jeune Mexicaine sans argent, trouve une place de gouvernante chez les Clasky, un couple aisé avec deux enfants. Déroutée, Flor observe les ratées de cette « famille parfaite ». Malgré leurs différences, ils vont tenter d'apprendre à vivre ensemble.
 
 - je 29 juin 19h00 GF
 

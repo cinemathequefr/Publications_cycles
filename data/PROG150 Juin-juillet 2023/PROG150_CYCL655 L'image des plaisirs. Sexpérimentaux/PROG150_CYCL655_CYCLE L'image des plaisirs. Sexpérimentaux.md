@@ -45,7 +45,7 @@ Avec Robert Adams, Richard Locke, Victoria Young.
 Ce film pornographique mélancolique évoque aussi bien un amour passionné que les fantasmes d'hommes et d'amants occasionnels et la vie quotidienne dans le monde carcéral.  
 Avec l'aimable autorisation du Bressan Project et de l'American Genre Film Archive.
 
-- sa 3 juin 16h30 GF
+- ve 2 juin 19h00 JE
 
 ## Séance 25 : Décharges
 
@@ -75,13 +75,7 @@ suivi de
 de Lionel Soukaz  
 France / 1980 / 47 min / 35 mm  
 Avec Jean-François B., François Dantchev, Karine.  
-« _X_ est un écartèlement : aux quatre points cardinaux, aux quatre extrémités de la croix, la Guerre, le Sexe, la Religion et la Drogue. » (Guy Hocquenghem)  
-suivi de  
-[154196]  
-**Essence d'absinthe**  
-de Yervant Gianikian, Angela Ricci Lucchi  
-Italie / 1981 / 15 min / 35 mm  
-Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.
+« _X_ est un écartèlement : aux quatre points cardinaux, aux quatre extrémités de la croix, la Guerre, le Sexe, la Religion et la Drogue. » (Guy Hocquenghem)
 
 - sa 3 juin 18h30 GF  
 Séance présentée par Stéphane Gérard et Lionel Soukaz
@@ -165,18 +159,18 @@ Devant la caméra bienveillante de Mira Nair, se libèrent, parfois jusqu'au rir
 Corps encagés aux prises avec la domination, en proie à la torture : que celle-ci soit fictive ou réelle, subie ou consentie, allégorique ou littérale, engagée ou solipsiste, plutôt christique ou plutôt satanique – mais dans les deux cas, oniriques et au cœur de la dimension cruelle du rêve. Une séance Sodome/Gomorrhe.
 
 [154028]  
-**Habeas Corpus**  
+**Habeas corpus**  
 de Jorge Luis Acha  
 Argentine / 1986 / 59 min / VO / DCP  
 Avec Jorge Diez, Luis Nieto, Oscar Vernales.  
 « Dans un cachot se trouve un homme nu, dont on devine le sort assez analogue au supplice infligé au Christ bien des siècles auparavant. » (RK)  
 suivi de  
 [154206]  
-**Mano Destra**  
+**Mano destra**  
 de Cleo Uebelmann  
 Suisse / 1986 / 53 min / DCP  
 Avec Cleo Uebelmann.  
-« Devenu culte dans le SM _underground_, le film se confronte cependant au paradoxe du SM : le caractère consensuel de la relation. Mais ici l'audience, se demande si Domina et sa cliente sont une seule et même femme. » (Karen Smith)
+« Devenu culte dans le SM underground, le film se confronte cependant au paradoxe du SM : le caractère consensuel de la relation. Mais ici, l'audience se demande si Domina et sa cliente sont une seule et même femme. » (Karen Smith)
 
 - di 4 juin 20h15 GF
 
@@ -214,13 +208,7 @@ suivi de
 **Sodom**  
 de Luther Price  
 États-Unis / 1989 / 13 min / VO / Numérique  
-Alliance entre le sacré et le profane orgiaque.  
-suivi de  
-[141217]  
-**Le Troisième œil**  
-d'André Almuró  
-France / 1989 / 22 min / Numérique  
-« Manifeste du cinéma haptique, qui pourrait aussi être résumé : "Tout l'univers bouleversé par une branlette." »
+Alliance entre le sacré et le profane orgiaque.
 
 - me 7 juin 17h30 JE
 
@@ -483,11 +471,7 @@ Affirmations visuelles du désir et des identités (homosexuelle, polyamoureuse)
 **Easter**  
 de Gus Van Sant  
 États-Unis / 2000 / 31 min / VO / DCP  
-« C'est une bonne chose que je parte demain, car pour ce qui me concerne, je deviens extrêmement excité. (...) Résistant à la tentation, je dis adieu à tout le monde sur le plateau. » (Bruce La Bruce)
-
----
-
-D'après la nouvelle éponyme de Harmony Korine. Prévu comme un segment du film inachevé _Jokes_, le film raconte l'histoire d'un homme qui pense être homosexuel après avoir vu, avec sa femme, un film porno gay.  
+D'après la nouvelle éponyme de Harmony Korine. Prévu comme un segment du film inachevé _Jokes_, le film raconte l'histoire d'un homme qui pense être homosexuel après avoir vu, avec sa femme, un film porno gay. « C'est une bonne chose que je parte demain, car pour ce qui me concerne, je deviens extrêmement excité. (...) Résistant à la tentation, je dis adieu à tout le monde sur le plateau. » (Bruce La Bruce)  
 Avec l'aimable autorisation de l'Academy Film Archive grâce à Gus Van Sant.  
 suivi de  
 [141232]  
@@ -513,11 +497,8 @@ suivi de
 **Parabellum Girl**  
 de Jean-Charles Hue  
 France / 2003 / 5 min / Numérique  
-**Mention à préciser plus tard:** Courtoisie Michel Rein Galerie
-
----
-
 Couple au filtre graffité.  
+Remerciements à la galerie Michel Rein.  
 suivi de  
 [113175]  
 **To the Happy Few**  
@@ -529,7 +510,7 @@ suivi de
 **Les Ciseaux**  
 de Mounir Fatmi  
 France-Maroc / 2003 / 13 min / VO / Numérique  
-Montage des scènes d'amour censurées du film _Une minute de soleil en moins,_ réalisé par Nabil Ayouch la même année.
+Montage des scènes d'amour censurées du film _Une minute de soleil en moins_, réalisé par Nabil Ayouch la même année.
 
 - di 11 juin 15h00 JE
 
@@ -563,7 +544,7 @@ de Mitra Farahani
 France-Iran / 2003 / 70 min / VOSTF / 35 mm  
 D'après le poème _Zohre & Manouchehr_ d'Iraj Mirza.  
 Avec Coralie Revel, Sophiane Benrezzak.  
-Montage alterné entre l'adaptation d'un poème érotique persan du XIXe siècle, attestant d'une tradition enfouie et d'une liberté enfuie, et les invivables interdits auxquels se heurte la jeunesse iranienne du XXIe siècle.
+Montage alterné entre l'adaptation d'un poème érotique persan du XIX<sup>e</sup> siècle, attestant d'une tradition enfouie et d'une liberté enfuie, et les invivables interdits auxquels se heurte la jeunesse iranienne du XXI<sup>e</sup> siècle.
 
 - di 11 juin 20h15 JE  
 Séance présentée par Mitra Farahani
@@ -583,12 +564,6 @@ suivi de
 d'Émilie Jouvet  
 France / 2004 / 4 min / Numérique  
 « Comment séduire et exciter son sex toy ? » (Émilie Jouvet)  
-suivi de  
-[154062]  
-**Blind Porn**  
-d'Émilie Jouvet  
-France / 2005 / 4 min / Numérique  
-Fragments d'amour échevelés et sonores.  
 suivi de  
 [154063]  
 **One-Night Stand**  
@@ -724,12 +699,6 @@ Dans un Berlin hostile et complice, le film suit cinq « garçons à louer » da
 
 « nombril zénith / étendue du corps / circonférence de la vie / gravité sexuelle centrale / âme magnétique. » (Elsa von Freytag Loringhoven, »Atome », 1924-25)
 
-[154069]  
-**The Action**  
-de David Matarasso  
-France / 2012 / 4 min / 16 mm  
-Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.  
-suivi de  
 [154234]  
 **Lexique dyslexique**  
 de Derek Woolfenden  
@@ -914,10 +883,74 @@ Séance présentée par Marion Scemama
 
 ## Rencontres et conférences
 
-**« L'Image des Plaisirs : de quoi le film me rend-il sujet ? » par Frédéric Tachou**  
+**« L'Image des plaisirs : de quoi le film me rend-il sujet ? » par Frédéric Tachou**  
 **Conférence de Frédéric Tachou**  
-Cinéaste et docteur en esthétique et sciences de l'art à Paris-1, Frédéric Tachou a été président du Collectif Jeune Cinéma (CJC), structure de distribution et de diffusion des pratiques expérimentales de l'image et du film. Il est l'auteur de _Et le sexe entra dans la modernité_ (Klincksieck, 2014).
+« L'intimité est un espace intermédiaire entre moi et les autres dont je négocie les entrées et sorties. Il y a une topique de l'intimité. Le cinéma expérimental explorant le territoire de l'intime m'enjoint, moi qui ne fais que le regarder, d'être quelque part. Il me semble qu'à l'inverse d'autres films qui ne sont ni expérimentaux ni n'explorent/exposent l'intime, ceux-là cherchent à rapprocher les fameux pôles irréconciliables de l'expérience spectatorielle au cinéma, identifiés par Edgar Morin : participation pratique et projection affective. Il faudrait peut-être dire alors qu'ils invitent dans un espace de « projection pratique » et de « participation affective ». Et dans ce type d'espace, je me sens souvent nu, c'est-à-dire désarmé. J'y rencontre des corps, des sexes, des plaisirs, des blessures et des stigmates, à la fois proches et différents des miens. De quoi suis-je le sujet ? »  
+Cinéaste et docteur en esthétique et sciences de l'art à Paris-1, **Frédéric Tachou** a été président du Collectif Jeune Cinéma (CJC), structure de distribution et de diffusion des pratiques expérimentales de l'image et du film. Il est l'auteur de _Et le sexe entra dans la modernité_ (Klincksieck, 2014).
 
-- sa 3 juin 14h30 GF
+- sa 3 juin 14h30 GF  
+À la suite de la projection de _The Action_ de David Matarasso, _Blind Porn_ d'Émilie Jouvet, _Essence d'absinthe_ de Yervant Gianikian, Angela Ricci Lucchi, _Le Troisième œil_ d'André Almuró (voir p. xx)
+
+[154069]  
+**The Action**  
+de David Matarasso  
+France / 2012 / 4 min / 16 mm  
+Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.  
+suivi de  
+[154196]  
+**Essence d'absinthe**  
+de Yervant Gianikian, Angela Ricci Lucchi  
+Italie / 1981 / 15 min / Numérique  
+Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.  
+suivi de  
+[141217]  
+**Le Troisième œil**  
+d'André Almuró  
+France / 1989 / 22 min / Numérique  
+« Manifeste du cinéma haptique, qui pourrait aussi être résumé : "Tout l'univers bouleversé par une branlette." »  
+suivi de  
+[154062]  
+**Blind Porn**  
+d'Émilie Jouvet  
+France / 2005 / 4 min / Numérique  
+Fragments d'amour échevelés et sonores.
+
+- sa 3 juin 14h30 GF  
+Voir aussi conférence p. xx
+
+[154196]  
+**Essence d'absinthe**  
+de Yervant Gianikian, Angela Ricci Lucchi  
+Italie / 1981 / 15 min / Numérique  
+Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.
+
+- sa 3 juin 18h30 GF  
+Séance présentée par Stéphane Gérard et Lionel Soukaz
+
+[141217]  
+**Le Troisième œil**  
+d'André Almuró  
+France / 1989 / 22 min / Numérique  
+« Manifeste du cinéma haptique, qui pourrait aussi être résumé : "Tout l'univers bouleversé par une branlette." »
+
+- me 7 juin 17h30 JE
+
+[154062]  
+**Blind Porn**  
+d'Émilie Jouvet  
+France / 2005 / 4 min / Numérique  
+Fragments d'amour échevelés et sonores.
+
+- me 14 juin 18h00 JE  
+Séance présentée par Émilie Jouvet
+
+[154069]  
+**The Action**  
+de David Matarasso  
+France / 2012 / 4 min / 16 mm  
+Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.
+
+- ve 16 juin 18h30 JE  
+Séance présentée par Derek Woolfenden et David Matarasso
 
 Remerciements : Tous les cinéastes, ayants-droits, distributeurs, et particulièrement Florence Auffret, Robert Bonamy, Pascale Cassagnau, Go Hirasawa, Lung Chieh Lim, Frédéric Papon, MM Serra. ADAGP, American Genre Film Archives, Archives Françaises du Film, Arsenal – Institut für Film und Videokunst e.V., Avatar Films, Canyon Cinema Foundation, Capricci, CNC – Centre National du Cinéma et de l'image animée, Centre Pompidou (MNAM/CCI), Chicago Film Archives, Cinedoc, Cinemateca Uruguaya, Cinémathèque Royale de Belgique, Conner Family Trust (Michelle Silva), Danish Film Institute, Deutsche Kinemathek, Equinox Creative Group, Filmoteca de Catalunya – Departamento de Cultura, Filmoteca de Valencia, Filmoteca de Zaragoza, Gaumont Pathé Archives, Institut National du Sport, de l'Expertise et de la Performance, Japan Society, Kobe Planet, Le Fresnoy, Light Cone, Lux Distribution, Nanzuka Underground, Re:voir, Sixpackfilm, Svenska Filminstitutet, The Film-Makers' Cooperative, The Museum of Modern Art, Venin Films.
