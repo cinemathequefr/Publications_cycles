@@ -270,7 +270,7 @@ de Vincente Minnelli
 États-Unis / 1950 / 93 min / VOSTF / 35 mm  
 D'après le roman _Le Père de la mariée_ d'Edward Streeter.  
 Avec Spencer Tracy, Joan Bennett, Elizabeth Taylor.  
-Stanley Banks prépare le mariage de sa fille Kay, mais s'angoisse à l'idée que sa cadette n'ait pas choisi le bon époux.
+Stanley Banks prépare le mariage de sa fille Kay, mais s'angoisse à l'idée qu'elle n'ait pas choisi l'époux qui la rendra heureuse.
 
 - lu 10 juil 18h00 GF  
 - me 26 juil 18h00 HL
@@ -288,11 +288,11 @@ Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le con
 
 [38027]  
 **La Pluie qui chante**  
-**(Till the Clouds Roll By)**  
+**(Till the Clouds Roll by)**  
 de Richard Whorf, George Sidney, Vincente Minnelli  
 États-Unis / 1946 / 132 min / VO / 35 mm  
 Avec Judy Garland, Robert Walker, Lucille Bremer.  
-En 1927, Jerôme Kern remporte un véritable succès avec le spectacle _Show Boat_. Riche et célèbre, il se retourne sur son passé et se souvient de ceux qui l'ont aidé tout au long de son parcours vers la réussite.
+En 1927, Jerome Kern remporte un véritable succès avec le spectacle _Show Boat_. Riche et célèbre, il se retourne sur son passé et se souvient de ceux qui l'ont aidé tout au long de son parcours vers la réussite.
 
 - di 16 juil 14h30 HL  
 - lu 24 juil 18h30 GF
@@ -303,7 +303,7 @@ En 1927, Jerôme Kern remporte un véritable succès avec le spectacle _Show Boa
 de Vincente Minnelli  
 États-Unis / 1958 / 96 min / VOSTF / 35 mm  
 Avec Rex Harrison, Kay Kendall, Sandra Dee, Angela Lansbury.  
-Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leur fille Jane fasse son entrée dans le monde. Ils veulent la fiancer à un jeune homme, que convoite aussi une de leurs cousines, tandis que Jane, elle, s'éprend d'un musicien américain.
+Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leur fille Jane fasse son entrée dans le monde. Ils veulent la fiancer à un jeune homme que convoite aussi une de leurs cousines, tandis que Jane, elle, s'éprend d'un musicien américain.
 
 - ve 14 juil 18h15 HL  
 - ve 21 juil 16h00 GF
@@ -312,8 +312,8 @@ Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leu
 **Les Quatre Cavaliers de l'Apocalypse**  
 **(The Four Horsemen of the Apocalypse)**  
 de Vincente Minnelli  
-États-Unis / 1960 / 153 min / VO / 35 mm  
-D'après le roman _Los cuatro jinetes del Apocalipsis_ de Vicente Blasco Ibáñez.  
+États-Unis / 1962 / 153 min / VO / 35 mm  
+D'après le roman _Los Cuatro jinetes del Apocalipsis_ de Vicente Blasco Ibáñez.  
 Avec Glenn Ford, Charles Boyer, Ingrid Thulin, Lee J. Cobb.  
 Deux branches d'une famille richissime, les Desnoyers et les Von Hartrott, se réunissent pour le retour d'Heinrich von Hartrott. À la stupeur générale, il leur apprend avoir abandonné ses études pour intégrer le parti nazi. Lorsque la guerre éclate, Heinrich rejoint les troupes allemandes et va devoir affronter son cousin Desnoyers.
 
@@ -324,7 +324,7 @@ Deux branches d'une famille richissime, les Desnoyers et les Von Hartrott, se r�
 **Quinze jours ailleurs**  
 **(Two Weeks in Another Town)**  
 de Vincente Minnelli  
-États-Unis / 1961 / 107 min / VO / 35 mm  
+États-Unis / 1962 / 107 min / VO / 35 mm  
 D'après le roman _Two Weeks in Another Town_ d'Irwin Shaw.  
 Avec Kirk Douglas, Edward G. Robinson, Cyd Charisse.  
 À Rome, Jack Andrus, chargé d'assurer la postsynchronisation d'un film, rencontre Veronica, qui devient sa compagne, alors que Carlotta, une de ses anciennes conquêtes, arrive en ville.
@@ -347,7 +347,7 @@ Un couple de jeunes mariés, qui vient d'acheter une gigantesque caravane et ent
 **Thé et Sympathie**  
 **(Tea and Sympathy)**  
 de Vincente Minnelli  
-États-Unis / 1958 / 122 min / VO / 35 mm  
+États-Unis / 1956 / 122 min / VO / 35 mm  
 D'après la pièce de théâtre _Thé et Sympathie_ de Robert Anderson.  
 Avec Deborah Kerr, John Kerr, Leif Erickson.  
 Tom, un étudiant, est plus attiré par la littérature et les arts que par les sports. À part l'amitié que lui témoigne son seul camarade, Al, Tom est marginalisé par les autres garçons du pensionnat. Heureusement, il sympathise bientôt avec la femme du professeur de gymnastique.
@@ -359,10 +359,10 @@ Tom, un étudiant, est plus attiré par la littérature et les arts que par les 
 **La Toile d'araignée**  
 **(The Cobweb)**  
 de Vincente Minnelli  
-États-Unis / 1954 / 124 min / VOSTF / 35 mm  
+États-Unis / 1955 / 124 min / VOSTF / 35 mm  
 D'après le roman _The Cobweb_ de William Gibson.  
 Avec Richard Widmark, Lauren Bacall, Charles Boyer, Lilian Gish, Gloria Grahame.  
-Le docteur Steven McIver, à la tête d'une clinique psychiatrique, s'efforce d'appliquer de nouvelles méthodes dans l'établissement autrefois dirigé, de façon archaïque, par le docteur Devanal. Il néglige du même coup sa jeune épouse Karen.
+Le docteur Stewart McIver, à la tête d'une clinique psychiatrique, s'efforce d'appliquer de nouvelles méthodes dans l'établissement autrefois dirigé, de façon archaïque, par le docteur Devanal. Il néglige du même coup sa jeune épouse, Karen.
 
 - ve 7 juil 18h00 HL  
 - di 30 juil 18h00 HL
@@ -371,8 +371,7 @@ Le docteur Steven McIver, à la tête d'une clinique psychiatrique, s'efforce d'
 **Tous en scène**  
 **(The Band Wagon)**  
 de Vincente Minnelli  
-États-Unis / 1952 / 112 min / VOSTF / DCP  
-D'après la nouvelle _Strategy of Love_ de Peter Viertel.  
+États-Unis / 1953 / 112 min / VOSTF / DCP  
 Avec Fred Astaire, Cyd Charisse, Oscar Levant, Nanette Fabray.  
 Tony, un artiste déchu, revient à New York et y retrouve deux vieux amis. Ensemble, ils se lancent dans la création d'une comédie musicale et engagent un metteur en scène prétentieux et sa compagne, une impressionnante danseuse classique.  
 Copie 35 mm Technicolor originale (tirage par imbibition) issue des collections de Lowell Peterson, ASC à l'Academy Film Archive.
@@ -385,7 +384,7 @@ Film précédé de _Les Fredaines de Pierrette_ d'Alice Guy
 **Un Américain à Paris**  
 **(An American in Paris)**  
 de Vincente Minnelli  
-États-Unis / 1950 / 113 min / VOSTF / DCP  
+États-Unis / 1951 / 113 min / VOSTF / DCP  
 Avec Gene Kelly, Leslie Caron, Oscar Levant, Georges Guétary.  
 Un peintre américain s'installe à Paris et tombe amoureux de la ville et d'une de ses habitantes.
 
@@ -396,8 +395,8 @@ Un peintre américain s'installe à Paris et tombe amoureux de la ville et d'une
 **Un numéro du tonnerre**  
 **(Bells Are Ringing)**  
 de Vincente Minnelli  
-États-Unis / 1959 / 127 min / VOSTF / 35 mm  
-D'après la comédie musicale _Bells Are Ringing_ de Betty Comden , Adolph Green et Jule Styne.  
+États-Unis / 1960 / 127 min / VOSTF / 35 mm  
+D'après la comédie musicale _Bells Are Ringing_ de Betty Comden et Adolph Green.  
 Avec Judy Holliday, Dean Martin.  
 Ella Peterson, une standardiste new-yorkaise, s'immisce dans les affaires des abonnés téléphoniques et devient leur confidente.
 
@@ -411,7 +410,7 @@ Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonosc
 de Vincente Minnelli  
 États-Unis / 1943 / 98 min / VOSTF / 35 mm  
 Avec Cab Calloway, Rex Ingram, Duke Ellington, Louis Armstrong, Eddie Anderson, Lena Horne.  
-Mortellement blessé, Little Joe Jackson est envoyé au ciel, avec un sursis de six mois avant d'aller en enfer.
+Brave homme mais joueur impénitent, "Little" Joe Jackson est mortellement blessé pour une dette de jeu. Cédant aux prières de sa femme, le Seigneur lui accorde six mois de sursis pour prouver qu'il mérite d'échapper à l'enfer.
 
 - je 29 juin 16h00 GF  
 - lu 17 juil 20h45 GF
@@ -420,9 +419,9 @@ Mortellement blessé, Little Joe Jackson est envoyé au ciel, avec un sursis de 
 **La Vie passionnée de Vincent Van Gogh**  
 **(Lust For Life)**  
 de Vincente Minnelli  
-États-Unis / 1955 / 122 min / VOSTF / DCP  
+États-Unis / 1956 / 122 min / VOSTF / DCP  
 Avec Kirk Douglas, Anthony Quinn, James Donald.  
-Portrait de Van Gogh : sa piété, ses passions, son amour pour son frère Théo, sa rencontre avec Gauguin, et, surtout, sa dévotion obsessionnelle à la peinture et au dessin.  
+Portrait de Vincent van Gogh : sa piété, ses passions, son amour pour son frère Théo, sa rencontre avec Gauguin et, surtout, sa dévotion obsessionnelle à la peinture et au dessin.  
 Restauration à partir du négatif original par Technicolor US pour Swashbuckler Films et Warner Bros.
 
 - ve 7 juil 20h30 HL  
@@ -432,7 +431,7 @@ Restauration à partir du négatif original par Technicolor US pour Swashbuckler
 **Yolanda et le Voleur**  
 **(Yolanda and the Thief)**  
 de Vincente Minnelli  
-États-Unis / 1948 / 108 min / VOSTF / 35 mm  
+États-Unis / 1945 / 108 min / VOSTF / 35 mm  
 Avec Fred Astaire, Lucile Bremer, Frank Morgan.  
 Johnny, un petit voleur, usurpe l'identité de Candle, ange gardien auprès de la riche et belle Yolanda, afin de lui dérober ses biens.
 
@@ -445,7 +444,7 @@ Film précédé de _Baignade dans un torrent_ d'Alice Guy
 de Vincente Minnelli, George Sidney, Roy Del Ruth, Robert Lewis, Lemuel Ayers  
 États-Unis / 1945 / 110 min / VOSTF / 35 mm  
 Avec William Powell, Fred Astaire, Judy Garland, Lucille Ball.  
-Le grand Ziegfeld est au ciel, et de là-haut rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme avant, numéros comiques, dansés, chantés se succèdent.
+Le grand Ziegfeld est au ciel et, de là-haut, rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme à la grande époque, numéros comiques, dansé et chantés se succèdent.
 
 - ve 30 juin 18h00 HL  
 - je 20 juil 20h00 HL

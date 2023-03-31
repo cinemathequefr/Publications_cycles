@@ -206,12 +206,11 @@
   * Zarosli  
   * Zentrale, 2. Version
 
-## Le documentaire, 25 indispensables (37)
+## Le documentaire, 25 indispensables (36)
 
   * 1974, une partie de campagne  
   * Acéra ou le bal des sorcières  
   * Amours de la pieuvre (Les)  
-  * Bernard l'ermite (Le)  
   * Chagrin et la Pitié (Le)  
   * Chronique d'un été  
   * Deux Marseillaises (Les)  
@@ -242,7 +241,7 @@
   * Sobibor, 14 octobre 1943, 16 heures  
   * Sois belle et tais-toi  
   * Sud  
-  * Vampire (Le)  
+  * undefined  
   * Vues d'Espagne  
   * Welfare
 

@@ -40,7 +40,8 @@ D'après le roman _Mute witness_ de Robert L. Pike.
 Avec Steve McQueen, Robert Vaughn, Jacqueline Bisset.  
 Bullitt, un lieutenant de police, est chargé par un politicien ambitieux de protéger Johnny Ross, un gangster dont le témoignage est attendu devant une commission d'enquête.
 
-- ve 2 juin 18h00 HL
+- ve 2 juin 18h00 HL  
+Séance présentée par Frédéric Bonnaud
 
 [35173]  
 **Le Cœur est un chasseur solitaire**  
@@ -62,7 +63,8 @@ D'après le roman _Deliverance_ de James Dickey.
 Avec Jon Voight, Burt Reynolds, Ned Beatty.  
 Quatre citadins américains décident de descendre en canoë une rivière vouée à disparaître après la construction d'un barrage. Ils sont agressés par des habitants du coin et leur week-end tourne au cauchemar.
 
-- sa 3 juin 15h00 HL
+- sa 3 juin 15h00 HL  
+Séance présentée par Frédéric Bonnaud
 
 [36741]  
 **L'Épouvantail**  
@@ -72,7 +74,8 @@ de Jerry Schatzberg
 Avec Al Pacino, Gene Hackman, Dorothy Tristan.  
 Max et Lion se rencontrent et se lient d'amitié sur la route, alors qu'ils voyagent en auto-stop. Le premier veut gagner Pittsburgh pour y ouvrir un car-wash après six ans de prison, le second tente de rejoindre Detroit pour retrouver celle qui lui a fait un enfant cinq ans plus tôt.
 
-- je 15 juin 17h00 GF
+- je 15 juin 17h00 GF  
+Séance présentée par Pierre Filmon
 
 [31676]  
 **L'Épreuve de force**  
@@ -82,7 +85,8 @@ de Clint Eastwood
 Avec Clint Eastwood, Sondra Locke, Pat Hingle.  
 Le policier Ben Shockley est chargé de convoyer un suspect de Las Vegas à Phoenix. Il s'apercoit qu'il s'agit en réalité d'une femme que l'on cherche à supprimer à tout prix.
 
-- je 1 juin 16h00 GF
+- je 1 juin 16h00 GF  
+Séance présentée par Bernard Benoliel
 
 [31698]  
 **L'Exorciste**  
@@ -144,7 +148,8 @@ de Don Siegel
 Avec Clint Eastwood, Harry Guardino, Reni Santoni.  
 À San Francisco, l'inspecteur Harry Callahan poursuit un tueur qui menace d'exécuter une personne par jour tant que 200.000 $ ne lui seront pas versés.
 
-- sa 3 juin 17h15 HL
+- sa 3 juin 17h15 HL  
+Séance présentée par Jean-François Rauger
 
 [35827]  
 **Jeremiah Johnson**  
@@ -155,6 +160,7 @@ Avec Robert Redford, Will Geer, Stefan Gierasch.
 Dans les années 1850, Jeremiah Johnson, fuyant la violence du monde civilisé, s'enfonce dans les montagnes Rocheuses. Confronté à un environnement qu'il ne connaît pas, il doit également faire face à la révolte des Indiens.
 
 - sa 3 juin 19h30 HL  
+Séance présentée par Jean-François Rauger  
 - me 14 juin 20h30 GF
 
 [30210]  
@@ -167,6 +173,7 @@ Avec Warren Beatty, Julie Christie, René Auberjonois.
 En 1902, John McCabe débarque dans une petite ville minière de l'Ouest américain, et s'associe avec Constance Miller, une prostituée, pour ouvrir une maison close. Leur réussite suscite bientôt l'attention de gros investisseurs.
 
 - ve 2 juin 20h30 HL  
+Séance présentée par Frédéric Bonnaud  
 - ve 16 juin 16h30 GF
 
 [34744]  
@@ -207,7 +214,8 @@ de Robert Clouse
 Avec Bruce Lee, John Saxon, Jim Kelly, Bernard Benoliel.  
 Lee, un membre du temple Shaolin, est chargé par la police d'infiltrer un tournoi d'arts martiaux afin de démasquer Han, un ancien du temple qui vit désormais du trafic d'opium et de la traite de femmes.
 
-- sa 10 juin 18h00 GF
+- sa 10 juin 18h00 GF  
+Séance présentée par Bernard Benoliel
 
 [34020]  
 **Orange mécanique**  
@@ -259,7 +267,8 @@ de Sidney Lumet
 Avec Al Pacino, John Cazale, Charles Durning.  
 Par un chaud après-midi d'août, Sonny et ses complices braquent une banque, à Brooklyn. Mais le coffre est quasiment vide et la police a encerclé les lieux. Le braquage se transforme en prise d'otages et en cirque médiatique.
 
-- di 4 juin 14h30 HL
+- di 4 juin 14h30 HL  
+Séance présentée par Jean-François Rauger
 
 [34999]  
 **Un été 42**  

@@ -12,7 +12,7 @@ Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de
 Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. En avant première de sa ressortie cet été par Héliotrope Films dans le cadre de la rétrospective « Robert Enrico – Les années 60 ».
 
 - ve 23 juin 18h00 GF  
-Séance présentée par Jérôme Enrico  
+Séance présentée par Jérôme Enrico et Laurent Aleonard  
 Film précédé de _Montagnes magiques_ de Robert Enrico
 
 [129571]  
@@ -114,7 +114,7 @@ France / 1962 / 19 min / DCP
 Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet.
 
 - ve 23 juin 18h00 GF  
-Séance présentée par Jérôme Enrico  
+Séance présentée par Jérôme Enrico et Laurent Aleonard  
 Film suivi de _Les Aventuriers_ de Robert Enrico
 
 [70969]  

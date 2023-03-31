@@ -2,6 +2,24 @@
 
 ## Les films
 
+[65709]  
+****  
+undefined  
+13 min / DCP
+
+- me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
+Film suivi d'_undefined_, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
+
+[154416]  
+****  
+undefined  
+6 min / DCP
+
+- me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg  
+Film précédé d'_undefined_ et suivi de de _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
+
 [77226]  
 **1974, une partie de campagne**  
 de Raymond Depardon  
@@ -19,7 +37,7 @@ Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli form
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film suivi de _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
+Film précédé d'_undefined_, _undefined_, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé
 
 [154376]  
 **Les Amours de la pieuvre**  
@@ -29,17 +47,7 @@ Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de l
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé et suivi de de _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
-
-[50522]  
-**Le Bernard l'ermite**  
-de Jean Painlevé  
-France / 1929 / 13 min / DCP  
-Le bernard-l'ermite est un crustacé marin qui habite les coquilles vides. Pour en choisir une, il l'inspecte, la mesure et la soupèse.
-
-- me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé et suivi de de _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
+Film précédé d'_undefined_, _undefined_, _La Pieuvre_ de Jean Painlevé et suivi de de _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
 
 [50421]  
 **Le Chagrin et la Pitié**  
@@ -141,7 +149,7 @@ Les images spectaculaires d'un hippocampe mâle enceinte donnant naissance à se
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
+Film précédé d'_undefined_, _undefined_, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé et suivi de d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
 
 [53328]  
 **L'Homme à la caméra**  
@@ -172,7 +180,7 @@ Présentation de petits crustacés dont la particularité est de se couvrir, sel
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _La Pieuvre_ de Jean Painlevé, _Le Vampire_ de Jean Painlevé
+Film précédé d'_undefined_, _undefined_, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé
 
 [58050]  
 **Le Joli Mai**  
@@ -246,7 +254,7 @@ La Pieuvre a été restauré en 2020 au laboratoire Hiventy par Les Documents ci
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé et suivi de de _Le Vampire_ de Jean Painlevé
+Film précédé d'_undefined_, _undefined_ et suivi de de _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
 
 [56070]  
 **Pour la suite du monde**  
@@ -331,16 +339,6 @@ Voyage dans le sud des États-Unis, avec comme fil rouge le meurtre par lynchage
 - sa 1 juil 20h45 GF  
 Séance présentée par Claire Atherton  
 Film précédé de _Vues d'Espagne_ d'Alice Guy
-
-[50525]  
-**Le Vampire**  
-de Jean Painlevé  
-France / 1939 / 9 min / 35 mm  
-Documentaire scientifique sur la créature étrange qu'est la chauve-souris d'Amérique du sud, possiblement à l'origine du _Nosferatu_ de F. W. Murnau.
-
-- me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
-Film précédé d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Le Bernard l'ermite_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé
 
 [154414]  
 **Vues d'Espagne**  
