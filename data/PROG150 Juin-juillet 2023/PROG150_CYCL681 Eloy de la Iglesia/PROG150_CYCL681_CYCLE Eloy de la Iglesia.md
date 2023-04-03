@@ -212,8 +212,7 @@ Un beau jeune homme passe Noël chez ses trois tantes, qui réagissent chacune t
 
 ## Rencontres et conférences
 
-**Film + Dialogue avec Marcos Uzal**  
-Rencontre animée par Jean-François Rauger
+**Dialogue avec Marcos Uzal**
 
 - je 13 juil 19h00 GF
 

@@ -649,7 +649,7 @@ Séance présentée par Émilie Jouvet
 
 ## Séance 40 : Rafales et une faille
 
-D'où vient l  a violence ? Elle est multiple, elle nous assiège, nous en sommes le siège : démence des torrents d'images (Gimel, Brambilla, Noé, Swiczinsky), brutalité des pratiques que les êtres humains s'infligent à eux-mêmes et aux autres (Chanfro, Kowalski, Arbid)... Qu'est-ce qui émerge de cette faille étrange entre la nature et nos fantasmes (Grandrieux) ? Autoportrait collectif de l'humanité en monstre ordinaire.
+D'où vient la violence ? Elle est multiple, elle nous assiège, nous en sommes le siège : démence des torrents d'images (Gimel, Brambilla, Noé, Swiczinsky), brutalité des pratiques que les êtres humains s'infligent à eux-mêmes et aux autres (Chanfro, Kowalski, Arbid)... Qu'est-ce qui émerge de cette faille étrange entre la nature et nos fantasmes (Grandrieux) ? Autoportrait collectif de l'humanité en monstre ordinaire.
 
 [154054]  
 **Fig. 4**  

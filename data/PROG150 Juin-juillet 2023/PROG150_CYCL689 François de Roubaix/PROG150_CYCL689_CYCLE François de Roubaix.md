@@ -2,31 +2,6 @@
 
 ## Les films
 
-[48373]  
-**Les Aventuriers**  
-de Robert Enrico  
-France-Italie / 1967 / 110 min / DCP  
-D'après le roman _Les Aventuriers_ de José Giovanni.  
-Avec Alain Delon, Lino Ventura, Joanna Shimkus, Serge Reggiani.  
-Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de s'emparer d'un trésor perdu dans un avion englouti. Au large du Congo, leur quête va les mettre en grand danger.  
-Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. En avant première de sa ressortie cet été par Héliotrope Films dans le cadre de la rétrospective « Robert Enrico – Les années 60 ».
-
-- ve 23 juin 18h00 GF  
-Séance présentée par Jérôme Enrico et Laurent Aleonard  
-Film précédé de _Montagnes magiques_ de Robert Enrico
-
-[129571]  
-**Comment ça va ? J'm'en fous**  
-de François de Roubaix  
-France / 1975 / 10 min / DCP  
-Avec Yves Josso, Nathalie Lafaurie.  
-Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie.  
-Dernier court métrage de François de Roubaix, sorti à titre posthume.
-
-- me 28 juin 19h00 JE  
-Séance présentée par Jean-Yves Guilleux  
-Film précédé de _François de Roubaix, l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix, _Le Gobbo_ de François de Roubaix
-
 [48800]  
 **Dernier domicile connu**  
 de José Giovanni  
@@ -51,22 +26,25 @@ Régis, un journaliste, revient à Paris après trois ans d'absence. Il entrepre
 **François de Roubaix, l'aventurier**  
 de Jean-Yves Guilleux, Alexandre Moix  
 France / 2007 / 52 min / DCP  
-Documentaire présentant des extraits d'archives, de films et des témoignages de proches de François de Roubaix et de personnalités, dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...
-
-- me 28 juin 19h00 JE  
-Séance présentée par Jean-Yves Guilleux  
-Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous_ de François de Roubaix
-
+Documentaire présentant des extraits d'archives, de films et des témoignages de proches de François de Roubaix et de personnalités, dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...  
+suivi de  
 [129576]  
 **Le Gobbo**  
 de François de Roubaix  
 France / 1970 / 15 min / DCP  
 Avec Yves Josso.  
-Un mystérieux bossu arrive dans un petit village corse en proie à une série d'accidents dont sont témoins des campeurs.
+Un mystérieux bossu arrive dans un petit village corse en proie à une série d'accidents dont sont témoins des campeurs.  
+suivi de  
+[129571]  
+**Comment ça va ? J'm'en fous**  
+de François de Roubaix  
+France / 1975 / 10 min / DCP  
+Avec Yves Josso, Nathalie Lafaurie.  
+Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie.  
+Dernier court métrage de François de Roubaix, sorti à titre posthume.
 
 - me 28 juin 19h00 JE  
-Séance présentée par Jean-Yves Guilleux  
-Film précédé de _François de Roubaix, l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix et suivi de de _Comment ça va ? J'm'en fous_ de François de Roubaix
+Séance présentée par Jean-Yves Guilleux
 
 [50109]  
 **La Grande Lessive**  
@@ -76,17 +54,6 @@ Avec Bourvil, Francis Blanche, Roland Dubillard.
 Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
 
 - sa 24 juin 17h30 GF
-
-[48381]  
-**Les Grandes Gueules**  
-de Robert Enrico  
-France-Italie / 1965 / 128 min / DCP  
-D'après le roman _Le Haut-fer_ de José Giovanni.  
-Avec Bourvil, Lino Ventura, Marie Dubois, Jean-Claude Rolland.  
-Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché.
-
-- di 25 juin 16h15 GF  
-Film précédé de _Thaumetopoea_ de Robert Enrico
 
 [34700]  
 **Jeff**  
@@ -111,11 +78,19 @@ Séance présentée par Jean-Marc Lalanne
 **Montagnes magiques**  
 de Robert Enrico  
 France / 1962 / 19 min / DCP  
-Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet.
+Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet.  
+suivi de  
+[48373]  
+**Les Aventuriers**  
+de Robert Enrico  
+France-Italie / 1967 / 110 min / DCP  
+D'après le roman _Les Aventuriers_ de José Giovanni.  
+Avec Alain Delon, Lino Ventura, Joanna Shimkus, Serge Reggiani.  
+Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de s'emparer d'un trésor perdu dans un avion englouti. Au large du Congo, leur quête va les mettre en grand danger.  
+Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. En avant première de sa ressortie cet été par Héliotrope Films dans le cadre de la rétrospective « Robert Enrico – Les années 60 ».
 
 - ve 23 juin 18h00 GF  
-Séance présentée par Jérôme Enrico et Laurent Aleonard  
-Film suivi de _Les Aventuriers_ de Robert Enrico
+Séance présentée par Jérôme Enrico et Laurent Aleonard
 
 [70969]  
 **Morgane et ses nymphes**  
@@ -152,14 +127,23 @@ En pleine campagne électorale à Marseille, deux clans s'affrontent : la famill
 **Thaumetopoea**  
 de Robert Enrico  
 France / 1960 / 23 min / DCP  
-À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.
+À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.  
+suivi de  
+[48381]  
+**Les Grandes Gueules**  
+de Robert Enrico  
+France-Italie / 1965 / 128 min / DCP  
+D'après le roman _Le Haut-fer_ de José Giovanni.  
+Avec Bourvil, Lino Ventura, Marie Dubois, Jean-Claude Rolland.  
+Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché.
 
-- di 25 juin 16h15 GF  
-Film suivi de _Les Grandes Gueules_ de Robert Enrico
+- di 25 juin 16h15 GF
 
 ## Rencontres et conférences
 
-**« François de Roubaix, portrait musical » par Stéphane Lerouge**
+**« François de Roubaix, portrait musical » par Stéphane Lerouge**  
+Fils d'un producteur de films institutionnels, François de Roubaix a trouvé dans l'écriture pour le cinéma la convergence idéale, rêvée, ultime de deux passions dévorantes, la musique et l'image. Sa polyvalence instrumentale, l'anti-académisme de son langage mélodique, harmonique et orchestral, la création de son home-studio ont créé une « légende de Roubaix », intensifiée par sa disparition prématurée et tragique. Au cours de cette intervention, nous verrons et, surtout, nous entendrons à quel point de Roubaix a été un compositeur moderne, avide de partage et de fraternité, autant avec ses cinéastes qu'avec son clan d'amis. « François dégageait un vrai charme – raconte Yves Boisset –, il témoignait beaucoup d'ouverture aux autres. Il y aura toujours des gens pour aimer ses compositions car elles nous parlent du goût éperdu d'un homme pour les fonds sous-marins, l'aventure et les voyages. »  
+Concepteur de la collection discographique _Écoutez le cinéma !_ chez Universal Music France, Stéphane Lerouge a élaboré une quinzaine d'albums autour de François de Roubaix, dont le coffret cinq vinyles _Compositeur et aventurier_, publié fin 2021.
 
 - sa 24 juin 14h30 HL  
 À la suite de la projection de _Le Samouraï_ de Jean-Pierre Melville (voir p. xx)

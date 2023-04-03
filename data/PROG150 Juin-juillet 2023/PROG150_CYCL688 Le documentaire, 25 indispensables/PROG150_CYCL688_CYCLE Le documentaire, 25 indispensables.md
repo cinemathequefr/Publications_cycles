@@ -371,13 +371,17 @@ Séance présentée par Frederick Wiseman
 **Film + Dialogue avec Frédérique Berthet**  
 Rencontre animée par Bernard Benoliel  
 « _Chronique d'un été_ remporte le prix de la critique internationale du festival de Cannes, puis sort discrètement en salle en France, à l'automne, le 20 octobre 1961. Il dure une heure vingt-six. Une petite vingtaine de participants y figurent. Ils ont accepté l'expérience mi-sérieuse mi-factieuse lancée par Rouch et Morin en 1960 : une recherche filmée sur la façon dont, à Paris, « on se débrouille avec la vie ». Marceline \[Loridan\] pourrait être une interprète parmi les autres. Pourtant, elle seule porte, dans _Chronique d'un été_, une histoire qui n'est pas celle de « tout le monde ». » « L'intuition du film : faire des lambeaux de souvenirs de Marceline les pièces magistralement ajustées d'un manteau ; une intuition qui va contribuer à ce que _Chronique_, selon la jolie formule qu'emploie Anatole Dauman en 1990, « défie les années ». » Frédérique Berthet, _La Voix manquante_, P.O.L, 2018  
-**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.
+**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+Professeure de cinéma, **Frédérique Berthet** est aussi membre de la Commission de recherche historique de la Cinémathèque française. Elle a publié _De Warhol à Wenders, une vie de cinéma, Souvenirs de Pascale Dauman_ (Ramsay, 2008), ainsi que deux ouvrages aux éditions P.O.L : en 2020, un roman, _Never(s)_, et un essai, _La Voix manquante_ (Prix 2018 du livre de cinéma du CNC), qui décrit avec précision l'aventure de _Chronique d'un été_ et, au cœur de cette expérience de « cinéma-vérité », revient sur le secret d'une femme, Marceline Loridan.
 
 - sa 1 juil 14h30 GF  
 À la suite de la projection de _Chronique d'un été_ de Jean Rouch, Edgar Morin, _La Marâtre_ d'Alice Guy (voir p. xx)
 
 **Film + Dialogue avec David Faroult**  
-Rencontre animée par Bernard Benoliel
+Rencontre animée par Bernard Benoliel  
+Juin 1968 : une jeune ouvrière des usines Wonder de Saint-Ouen refuse de reprendre le travail ; des étudiants en cinéma sont là, qui filment son cri de révolte. 1997 : le cinéaste Hervé Le Roux part à la recherche de cette belle inconnue en rencontrant d'anciens ouvriers, militants et syndicalistes, en leur donnant la parole, longuement, précisément, chaleureusement, et exhumant alors un pan enfoui d'histoire sociale, politique et culturelle... « Wonder, Wonderland, Alice à l'Usine, l'Usine en Pays des Merveilles. Le film a été tourné par des étudiants de l'IDHEC, on y voit des ouvrières qui reprennent le travail après trois semaines de grève. Et cette femme. Qui reste là. Et qui crie. Elle dit qu'elle rentrera pas, qu'elle y foutra plus les pieds dans cette tôle... Les années ont passé. L'usine est fermée. Mais j'arrive pas à oublier le visage, la voix de cette femme. J'ai décidé de la retrouver. Parce qu'elle n'a eu droit qu'à une prise. Et que je lui en dois une deuxième. » (Hervé Le Roux).  
+**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+**David Faroult** est maître de conférences en cinéma à l'École nationale supérieure Louis-Lumière. Une part importante de ses recherches et publications concerne les cinémas politiques issus de 1968 et le « groupe » Dziga Vertov, dont il a présenté les films en bonus de leur première édition en DVD (_Jean-Luc Godard y el grupo Dziga Vertov_, _Intermedio_, 2008). Il a codirigé l'ouvrage _Jean-Luc Godard : Documents_ (Centre Pompidou, 2006) et, a publié _Godard, Inventions d'un cinéma politique_ (Les prairies ordinaires, 2018).
 
 - sa 8 juil 14h30 GF  
 À la suite de la projection de _Reprise_ de Hervé Le Roux (voir p. xx)
