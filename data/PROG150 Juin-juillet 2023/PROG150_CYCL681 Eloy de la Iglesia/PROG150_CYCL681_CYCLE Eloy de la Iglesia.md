@@ -59,7 +59,8 @@ Espagne / 1978 / 111 min / VOSTF / DCP
 Avec José Sacristán, María Luisa San José, Ángel Pardo.  
 Roberto Orbea, député d'un parti de gauche, est mis en prison. À sa sortie, il mène un combat politique contre le terrorisme, mais un groupuscule franquiste paie sa maîtresse pour le piéger.
 
-- je 13 juil 21h30 GF
+- je 13 juil 19h00 GF  
+Voir aussi dialogue p. xx
 
 [43025]  
 **L'Enfer de la drogue**  
@@ -214,5 +215,6 @@ Un beau jeune homme passe Noël chez ses trois tantes, qui réagissent chacune t
 
 **Dialogue avec Marcos Uzal**
 
-- je 13 juil 19h00 GF
+- je 13 juil 19h00 GF  
+À la suite de la projection de _Le Député_ d'Eloy de la Iglesia (voir p. xx)
 

@@ -127,7 +127,7 @@ Avec Christina von Blanc, Howard Vernon, Britt Nichols, Paul Muller.
 **Le Cabaret des filles perverses**  
 **(Blue Rita)**  
 de Jess Franco  
-France-Suisse / 1976 / 72 min / VOSTF / 35 mm  
+France-Suisse / 1976 / 72 min / VFSTF / 35 mm  
 Avec Martine Fléty, Sarah Strasberg, Erik Falk.  
 Derrère un cabaret de strip-tease, le Blue Rita, il se cache une redoutable organisation criminelle louant ses services au plus offrant.
 

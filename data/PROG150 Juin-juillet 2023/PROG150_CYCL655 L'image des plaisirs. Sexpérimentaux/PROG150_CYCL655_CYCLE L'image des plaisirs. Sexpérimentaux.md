@@ -217,7 +217,7 @@ Inde / 1985 / 58 min / VOSTF / 16 mm
 Avec Rekha, Rosy, Vasanti, Lovina, Pussycat.  
 Devant la caméra bienveillante de Mira Nair, se libèrent, parfois jusqu'au rire, les paroles de danseuses et prostituées indiennes dont certaines ont fui des mariages forcés, tandis que d'autres sont encore mariées.
 
-- di 4 juin 17h45 GF
+- di 4 juin 18h00 GF
 
 ## Séance 28 : Tortures
 
@@ -237,7 +237,7 @@ Suisse / 1986 / 53 min / DCP
 Avec Cleo Uebelmann.  
 « Devenu culte dans le SM underground, le film se confronte cependant au paradoxe du SM : le caractère consensuel de la relation. Mais ici, l'audience se demande si Domina et sa cliente sont une seule et même femme. » (Karen Smith)
 
-- di 4 juin 20h30 GF
+- di 4 juin 20h45 GF
 
 ## Séance 29 : Histoires des yeux
 

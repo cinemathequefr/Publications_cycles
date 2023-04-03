@@ -44,6 +44,7 @@
               "JE",
               "Jean Epstein"
             ],
+            "mention": "Séance présentée par Mehdi Taïbi et Tariq Teguia",
             "typeEvenement": 13
           }
         ]
@@ -116,6 +117,7 @@
               "JE",
               "Jean Epstein"
             ],
+            "mention": "Séance présentée par Mehdi Taïbi",
             "typeEvenement": 13
           }
         ]
@@ -135,6 +137,24 @@
       {
         "items": [
           {
+            "idFilm": 154392,
+            "titre": "Traversée de l'Amérique du Sud en automobile",
+            "art": "La",
+            "realisateurs": "Roger Courterville",
+            "annee": 1926,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "L'ingénieur Roger Courteville, accompagné de sa femme et du mécanicien Julio Kotzent, entreprend un raid de 10 000 km à travers le continent sud-américain. L'utilisation de la voiture transforme la traversée en une aventure impossible."
+              }
+            ],
+            "duree": 58,
+            "format": "35 mm",
+            "version": "INT. FR.",
+            "ordre": 1
+          },
+          {
             "idFilm": 154393,
             "titre": "À travers le Cameroun, le Gabon et Congo",
             "realisateurs": "René Moreau",
@@ -153,31 +173,13 @@
             "duree": 50,
             "format": "35 mm",
             "version": "INT. FR.",
-            "ordre": 1
-          },
-          {
-            "idFilm": 154392,
-            "titre": "Traversée de l'Amérique du Sud en automobile",
-            "art": "La",
-            "realisateurs": "Roger Courterville",
-            "annee": 1926,
-            "pays": "France",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "L'ingénieur Roger Courteville, accompagné de sa femme et du mécanicien Julio Kotzent, entreprend un raid de 10 000 km à travers le continent sud-américain. L'utilisation de la voiture transforme la traversée en une aventure impossible."
-              }
-            ],
-            "duree": 58,
-            "format": "35 mm",
-            "version": "INT. FR.",
             "ordre": 2
           }
         ],
         "seances": [
           {
             "idSeance": 101692,
-            "ordre": 2,
+            "ordre": 1,
             "dateHeure": "2023-07-07T18:30:00",
             "idSalle": [
               "JE",
@@ -204,7 +206,7 @@
             ],
             "duree": 24,
             "format": "DCP",
-            "version": "INT. FR.",
+            "version": "",
             "ordre": 1
           },
           {

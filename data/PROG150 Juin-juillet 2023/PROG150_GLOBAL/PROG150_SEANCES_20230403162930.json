@@ -636,7 +636,7 @@
   {
     "idSeance": 100853,
     "idEvenement": 27374,
-    "dateHeure": "2023-06-04T18:00:00",
+    "dateHeure": "2023-06-04T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -702,7 +702,7 @@
   {
     "idSeance": 100854,
     "idEvenement": 26670,
-    "dateHeure": "2023-06-04T20:45:00",
+    "dateHeure": "2023-06-04T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1217,7 +1217,6 @@
         "Triptyque algérien"
       ]
     ],
-    "mention": "Séance présentée par Mehdi Taïbi et Tariq Teguia",
     "items": [
       {
         "idFilm": 102126,
@@ -1291,7 +1290,6 @@
         "Triptyque algérien"
       ]
     ],
-    "mention": "Séance présentée par Mehdi Taïbi",
     "items": [
       {
         "idFilm": 90296,
@@ -1302,7 +1300,7 @@
       },
       {
         "idFilm": 154394,
-        "titre": "Archie Shepp chez les Touaregs",
+        "titre": "Archie Shepp chez les touaregs",
         "realisateurs": "Ghaouti Bendeddouche",
         "annee": 1969,
         "duree": 27,
@@ -3874,7 +3872,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Florence Tissot",
     "items": [
       {
         "idFilm": 68649,
@@ -4102,11 +4099,37 @@
     "mention": "Séance présentée par Brigitte Berg",
     "items": [
       {
+        "idFilm": 65709,
+        "titre": "Amours de la pieuvre",
+        "art": "Les",
+        "realisateurs": "Jean Painlevé",
+        "annee": 1965,
+        "duree": 13,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154416,
+        "titre": "Cristaux liquides",
+        "realisateurs": "Jean Painlevé",
+        "annee": 1978,
+        "duree": 6,
+        "format": "DCP"
+      },
+      {
         "idFilm": 154375,
         "titre": "Pieuvre",
         "art": "La",
         "realisateurs": "Jean Painlevé",
         "annee": 1928,
+        "duree": 13,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154376,
+        "titre": "Amours de la pieuvre",
+        "art": "Les",
+        "realisateurs": "Jean Painlevé",
+        "annee": 1965,
         "duree": 13,
         "format": "DCP"
       },
@@ -4134,26 +4157,9 @@
         "annee": 1929,
         "duree": 13,
         "format": "DCP"
-      },
-      {
-        "idFilm": 65709,
-        "titre": "Amours de la pieuvre",
-        "art": "Les",
-        "realisateurs": "Jean Painlevé",
-        "annee": 1965,
-        "duree": 13,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154416,
-        "titre": "Cristaux liquides",
-        "realisateurs": "Jean Painlevé",
-        "annee": 1978,
-        "duree": 6,
-        "format": "DCP"
       }
     ],
-    "hashEvenement": "f154375f50523f65713f65711f65709f154416"
+    "hashEvenement": "f65709f154416f154375f154376f50523f65713f65711"
   },
   {
     "idSeance": 101438,
@@ -4458,7 +4464,7 @@
         "realisateurs": "Jess Franco",
         "annee": 1976,
         "duree": 72,
-        "version": "VFSTF",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -4874,48 +4880,6 @@
     "hashEvenement": "f75848"
   },
   {
-    "idSeance": 101580,
-    "idEvenement": 28238,
-    "dateHeure": "2023-07-03T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Aujourd'hui le cinéma",
-        "Carte blanche au Busan International Short Film Festival"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154421,
-        "titre": "Georgia",
-        "realisateurs": "Jayil Pak",
-        "annee": 2020,
-        "duree": 30,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154422,
-        "titre": "Nowhere Else",
-        "realisateurs": "Kyeongwon Lee",
-        "annee": 2021,
-        "duree": 27,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154423,
-        "titre": "Cicada",
-        "realisateurs": "Daewoen Yoon",
-        "annee": 2021,
-        "duree": 17,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154421f154422f154423"
-  },
-  {
     "idSeance": 104060,
     "idEvenement": 28094,
     "dateHeure": "2023-07-03T20:15:00",
@@ -5188,6 +5152,15 @@
     "mention": "Séance présentée par Iris Deniozou et Béatrice de Pastre",
     "items": [
       {
+        "idFilm": 154393,
+        "titre": "A travers le Cameroun, le Gabon et Congo",
+        "realisateurs": "René Moreau",
+        "annee": 1928,
+        "duree": 50,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
         "idFilm": 154392,
         "titre": "Traversée de l'Amérique du Sud en automobile",
         "art": "La",
@@ -5196,18 +5169,9 @@
         "duree": 58,
         "version": "INT. FR.",
         "format": "35 mm"
-      },
-      {
-        "idFilm": 154393,
-        "titre": "À travers le Cameroun, le Gabon et Congo",
-        "realisateurs": "René Moreau",
-        "annee": 1928,
-        "duree": 50,
-        "version": "INT. FR.",
-        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154392f154393"
+    "hashEvenement": "f154393f154392"
   },
   {
     "idSeance": 104156,
@@ -5297,9 +5261,10 @@
       {
         "idFilm": 120945,
         "titre": "Dans la brousse annamite",
-        "realisateurs": "André Sauvage, Léon Poirier",
+        "realisateurs": "André Sauvage",
         "annee": 1931,
         "duree": 24,
+        "version": "INT. FR.",
         "format": "DCP"
       },
       {
@@ -5743,15 +5708,11 @@
     "hashEvenement": "f34254"
   },
   {
-    "idSeance": 104249,
-    "idEvenement": 27959,
+    "idSeance": 103948,
+    "idEvenement": 28035,
     "dateHeure": "2023-07-13T19:00:00",
     "salle": "GF",
     "cycle": [
-      [
-        "Eloy de la Iglesia",
-        "Les films"
-      ],
       [
         "Eloy de la Iglesia",
         "Rencontres et conférences"
@@ -5759,23 +5720,13 @@
     ],
     "items": [
       {
-        "idFilm": 43024,
-        "titre": "Député",
-        "art": "Le",
-        "realisateurs": "Eloy de la Iglesia",
-        "annee": 1978,
-        "duree": 111,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
         "idConf": 28035,
         "titre": "Dialogue avec Marcos Uzal",
         "typeConference": "Dialogue",
         "duree": 60
       }
     ],
-    "hashEvenement": "f43024c28035"
+    "hashEvenement": "c28035"
   },
   {
     "idSeance": 101830,
@@ -5801,6 +5752,31 @@
       }
     ],
     "hashEvenement": "f35160"
+  },
+  {
+    "idSeance": 104249,
+    "idEvenement": 27959,
+    "dateHeure": "2023-07-13T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Eloy de la Iglesia",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43024,
+        "titre": "Député",
+        "art": "Le",
+        "realisateurs": "Eloy de la Iglesia",
+        "annee": 1978,
+        "duree": 111,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f43024"
   },
   {
     "idSeance": 104210,

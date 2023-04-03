@@ -12,7 +12,8 @@ Algérie-France-Allemagne / 2006 / 114 min / VOSTF / 35 mm
 Avec Samira Kaddour, Rachid Amrani, Ahmed Benaïssa.  
 1999, Alger la blanche est exsangue après la décennie noire. Kamel, sur le départ, ne conçoit que l'exil comme futur viable et entraîne sa fiancée Zina dans ses rêves d'un ailleurs préférable. Mais comment partir lorsque toutes les trajectoires mènent à des impasses ?
 
-- ve 9 juin 18h45 JE
+- ve 9 juin 18h45 JE  
+Séance présentée par Mehdi Taïbi et Tariq Teguia
 
 [90296]  
 **Festival panafricain d'Alger**  
@@ -33,24 +34,25 @@ de Mohammed Latrèche
 France-Algérie / 2019 / 63 min / DCP  
 Ayant animé pendant 34 ans la Cinémathèque algérienne, Boudjemâa Karèche a été le témoin privilégié des plus riches heures de l'Institution créée en 1965. Depuis son îlot, il revient sur son parcours, de l'effervescence des débuts et sa complicité avec Henri Langlois à la terreur des années 1990. C'est aussi l'Histoire de l'Algérie qui est racontée en filigrane à travers le destin d'un héros discret qui a programmé des films sans relâche.
 
-- ve 9 juin 21h15 JE
+- ve 9 juin 21h15 JE  
+Séance présentée par Mehdi Taïbi
 
 ## Ciné-expéditions
 
 En parcourant les quatre continents, la sélection explore le cinéma d'expédition, genre hybride entre documentaire et fiction, divertissement et film éducatif, anthropologie et voyage, sans oblitérer sa dimension coloniale. Soirée en partenariat avec le CNC et l'Association Française de Recherche sur l'Histoire du Cinéma, à l'occasion de la parution de l'ouvrage _Ciné-expéditions : une zone de contact cinématographique_ (AFRHC, 2022).
 
+[154392]  
+**La Traversée de l'Amérique du Sud en automobile**  
+de Roger Courterville  
+France / 1926 / 58 min / INT. FR. / 35 mm  
+L'ingénieur Roger Courteville, accompagné de sa femme et du mécanicien Julio Kotzent, entreprend un raid de 10 000 km à travers le continent sud-américain. L'utilisation de la voiture transforme la traversée en une aventure impossible.  
+suivi de  
 [154393]  
 **À travers le Cameroun, le Gabon et Congo**  
 de René Moreau  
 France / 1928 / 50 min / INT. FR. / 35 mm  
 En 1928, l'expédition Jean d'Esme traverse le Cameroun, le Gabon et le Congo. Tout au long du périple, les indigènes de différentes ethnies se laissent volontiers photographier, présentent leurs savoir-faire, expliquent leurs danses rituelles, montrent leurs tatouages, leurs coiffures, leurs bijoux.  
-Accompagnement musical par le duo SAD (Delphine Ciampi, guitare et Anne Gouverneur, violon).  
-suivi de  
-[154392]  
-**La Traversée de l'Amérique du Sud en automobile**  
-de Roger Courterville  
-France / 1926 / 58 min / INT. FR. / 35 mm  
-L'ingénieur Roger Courteville, accompagné de sa femme et du mécanicien Julio Kotzent, entreprend un raid de 10 000 km à travers le continent sud-américain. L'utilisation de la voiture transforme la traversée en une aventure impossible.
+Accompagnement musical par le duo SAD (Delphine Ciampi, guitare et Anne Gouverneur, violon).
 
 - ve 7 juil 18h30 JE  
 Séance présentée par Iris Deniozou et Béatrice de Pastre
@@ -58,7 +60,7 @@ Séance présentée par Iris Deniozou et Béatrice de Pastre
 [120945]  
 **Dans la brousse annamite**  
 d'André Sauvage, Léon Poirier  
-France / 1931 / 24 min / INT. FR. / DCP  
+France / 1931 / 24 min / DCP  
 Réalisé dans le cadre de la « croisière jaune », le film témoigne du quotidien du peuple sédentaire des Moïs, à Ban Me Thuot, dans la région du Darlac. Les Moïs vivent de la pêche et de la chasse et, les jours de fête, les hommes dansent sous l'effet d'une boisson spéciale.  
 suivi de  
 [107833]  
@@ -70,4 +72,4 @@ Une expédition scientifique en Arctique est documentée par le célèbre journa
 - ve 7 juil 21h00 JE  
 Séance présentée par Iris Deniozou et Béatrice de Pastre
 
-Remerciements : Les Acacias, Tamasa Distribution, Diaphana Distribution, La Cinémathèque de ToulouseRemerciements : CNC, Doriane Films.Remerciements : Galerie Miyu, AFRHC, CNC
+Remerciements : CNC, Boudjemâa Karèche.Remerciements : CNC, Doriane Films.Remerciements : Galerie Miyu, AFRHC, CNC

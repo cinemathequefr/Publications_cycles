@@ -19,7 +19,7 @@ Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli form
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé
+Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
 
 [65709]  
 **Les Amours de la pieuvre**  
@@ -29,17 +29,7 @@ Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de l
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film suivi de _Cristaux liquides_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
-
-[154376]  
-**Les Amours de la pieuvre**  
-de Jean Painlevé  
-France / 1965 / 13 min / DCP  
-Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers.
-
-- me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
-Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé et suivi de de _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
+Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé et suivi de de _Cristaux liquides_ de Jean Painlevé
 
 [50421]  
 **Le Chagrin et la Pitié**  
@@ -69,7 +59,7 @@ France / 1978 / 6 min / DCP
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé et suivi de de _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
+Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé
 
 [59394]  
 **Les Deux Marseillaises**  
@@ -142,7 +132,8 @@ d'Agnès Varda
 France / 1999 / 82 min / DCP  
 Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant.
 
-- di 25 juin 18h30 HL
+- di 25 juin 18h30 HL  
+Séance présentée par Florence Tissot
 
 [50523]  
 **L'Hippocampe**  
@@ -152,7 +143,7 @@ Les images spectaculaires d'un hippocampe mâle enceint donnant naissance à ses
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé et suivi de d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
+Film précédé de _La Pieuvre_ de Jean Painlevé et suivi de d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
 
 [53328]  
 **L'Homme à la caméra**  
@@ -183,7 +174,7 @@ Présentation de petits crustacés dont la particularité est de se couvrir, sel
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé, _La Pieuvre_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé
+Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé et suivi de de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
 
 [58050]  
 **Le Joli Mai**  
@@ -256,7 +247,7 @@ _La Pieuvre_ a été restauré en 2020 au laboratoire Hiventy par Les Documents 
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
-Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé et suivi de de _Les Amours de la pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé
+Film suivi de _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
 
 [56070]  
 **Pour la suite du monde**  

@@ -43,6 +43,33 @@ Jeanne, 13 ans a pour seule amie la dinde qui vit dans son jardin qui l'incite �
 
 - lu 26 juin 20h00 JE
 
+## Carte blanche au Busan International Short Film Festival
+
+Pour son 40e anniversaire nous accueillons le Festival International du Court Métrage de Busan (BISFF) et la reprise des films coréens primés lors des trois dernières éditions. Des œuvres singulières, éclectiques et inédites.
+
+[154421]  
+**Georgia**  
+de Jayil Pak  
+Corée / 2020 / 30 min / VOSTF / DCP  
+Avec Yanghee Lee, Chaekyung Lee, Seonwoo Hong.  
+Lorsque la police refuse d'enquêter sur le suicide présumé de leur fille, deux parents décident de concevoir une banderole de protestation.  
+suivi de  
+[154422]  
+**Nowhere Else**  
+de Kyeongwon Lee  
+Corée / 2021 / 27 min / VOSTF / DCP  
+Avec Jaechul Kim, Jihye Jung, Euijin Jo.  
+Une femme disparue depuis 6 ans réapparaît dans sa ville d'origine avec un nouveau mari.  
+suivi de  
+[154423]  
+**Cicada**  
+de Daewoen Yoon  
+Corée / 2021 / 17 min / VOSTF / DCP  
+Avec Nina Kim, Ejae Jung.  
+Changhyeon, une prostituée transgenre, rencontre un client qui lui semble à la fois familier et inconnu.
+
+- lu 3 juil 19h00 JE
+
 ## Thomas Bardinet
 
 [154407]  

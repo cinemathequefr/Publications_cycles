@@ -213,12 +213,14 @@
           {
             "idSeance": 104249,
             "ordre": 1,
-            "dateHeure": "2023-07-13T21:30:00",
+            "dateHeure": "2023-07-13T19:00:00",
             "idSalle": [
               "GF",
               "Georges Franju"
             ],
-            "typeEvenement": 13
+            "typeAssoc": 118,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi dialogue p. xx"
           }
         ]
       },
@@ -772,19 +774,23 @@
           {
             "titre": "Dialogue avec Marcos Uzal",
             "textes": [],
-            "duree": 60
+            "duree": 60,
+            "ordre": 2
           }
         ],
         "seances": [
           {
-            "idSeance": 103948,
+            "idSeance": 104249,
+            "ordre": 2,
             "dateHeure": "2023-07-13T19:00:00",
             "idSalle": [
               "GF",
               "Georges Franju"
             ],
+            "typeAssoc": 118,
             "typeEvenement": 14,
-            "typeConference": "Dialogue"
+            "typeConference": "Dialogue",
+            "mentionRenvoi": "À la suite de la projection de _Le Député_ d'Eloy de la Iglesia (voir p. xx)"
           }
         ]
       }

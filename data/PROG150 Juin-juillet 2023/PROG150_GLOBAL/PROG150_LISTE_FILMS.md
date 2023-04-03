@@ -1,13 +1,16 @@
 # Liste des films par cycle
 
-## Aujourd'hui le cinéma (6)
+## Aujourd'hui le cinéma (9)
 
   * Christopher At Sea  
+  * Cicada  
   * Coupeur de route  
   * Dents du bonheur (Les)  
   * Forêt Debussy  
+  * Georgia  
   * Jeanne Dinde  
-  * La Sorcière et le martien
+  * La Sorcière et le martien  
+  * Nowhere Else
 
 ## Ciné-club de Frédéric Bonnaud (2)
 
@@ -59,8 +62,8 @@
 
 ## Fenêtre sur les collections (8)
 
-  * A travers le Cameroun, le Gabon et Congo  
-  * Archie Shepp chez les touaregs  
+  * À travers le Cameroun, le Gabon et Congo  
+  * Archie Shepp chez les Touaregs  
   * Boudjemâa et la maison cinéma  
   * Dans la brousse annamite  
   * Festival panafricain d'Alger  
