@@ -97,26 +97,31 @@ de Dave Fleischer
 **A Study in Choregraphy for the Camera**  
 de Maya Deren  
 États-Unis / 1945 / 3 min / VOSTF / Numérique  
+A STUDY IN CHOREOGRAPHY FOR CAMERA est le résultat d'une tentative de dégager le danseur de l'espace statique de la scène d'un théâtre vers un espace qui serait aussi mobile et volatile que lui-même.  
 suivi de  
 [154372]  
 **divine horsemen: The Living Gods of Haiti**  
 de Maya Deren  
 États-Unis / 1947 / 55 min / VOSTF / Numérique  
+Le film montre les rites de trois cultes haïtiens: Rada, Petro et Congo, dont l'origine est africaine. Ces rites mettent en scène des sacrifices (poulets, chèvres) et des transes.  
 suivi de  
 [62682]  
 **Meditation on violence**  
 de Maya Deren  
 États-Unis / 1948 / 10 min / VOSTF / Numérique  
+Comme les mouvements de la boxe chinoise sont des « énoncés » physiques de certains concepts métaphysiques, le film MEDITATION ON VIOLENCE est, en termes cinématographiques, un exposé de ces mêmes concepts utilisant les mouvements physiques comme un moyen visuel parmi d'autres.  
 suivi de  
 [62690]  
 **Ritual in Tranfigured Time**  
 de Maya Deren  
 États-Unis / 1945 / 14 min / VOSTF / Numérique  
+RITUAL IN TRANSFIGURED TIME développe plus avant cette idée de créer de la danse à partir d'éléments extérieurs à celle-ci.  
 suivi de  
 [62683]  
 **The Very Eye of Night**  
 de Maya Deren  
-États-Unis / 1952 / 15 min / VOSTF / Numérique
+États-Unis / 1952 / 15 min / VOSTF / Numérique  
+Le thème de ce film est le monde intérieur de l'homme, dans lequel il entre au moment où il s'endort.
 
 - me 21 juin 18h00 GF  
 Séance présentée par Dominique Païni
@@ -136,6 +141,7 @@ Séance présentée par Dominique Païni
 **At Land**  
 de Maya Deren  
 États-Unis / 1944 / 14 min / Numérique  
+AT LAND investit l'idée du temps et de l'espace du 19ème siècle.  
 suivi de  
 [53940]  
 **L'Etoile de mer**  
@@ -153,6 +159,7 @@ suivi de
 **Meshes of the Afternoon**  
 de Maya Deren, Alexander Hackenschmied  
 États-Unis / 1943 / 14 min / Numérique  
+Ce premier film se rapporte aux liens existant entre l'imaginaire et la réalité objective. Le film commence dans la réalité pour se terminer dans celle-ci.  
 suivi de  
 [47197]  
 **Un chien andalou**  
@@ -222,18 +229,21 @@ suivi de
 de Charles Dekeukeleire  
 Belgique / 1929 / 50 min / DCP  
 Avec Pierre Bourgeois.  
+Une femme inquiète du comportement de son mari, trop souvent absent, demande à un détective de le suivre et de lui faire un rapport.  
 suivi de  
 [82660]  
 **L'Imitation du cinéma**  
 de Marcel Mariën  
 Belgique / 1959 / 37 min  
 Avec Tom Gutt, Ulysse Pétian, Suzanne Bourgoigne.  
+Un jeune homme reçoit d'un prêtre L'imitation de Jésus-Christ. Il le lit avec une telle ferveur qu'il n'a qu'une idée en tête : se faire crucifier.  
 suivi de  
 [46205]  
 **La Perle**  
 de Henri d' Ursel  
 Belgique / 1928 / 20 min / DCP  
-Avec Georges Hugnet, Kissa Kouprine, Mary Stutz.
+Avec Georges Hugnet, Kissa Kouprine, Mary Stutz.  
+Ce film onirique est un clin d'œil aux ciné-romans de Feuillade, avec comme toile de fond le vol d'un collier de perles.
 
 - me 21 juin 20h30 GF  
 Séance présentée par Dominique Païni
@@ -298,16 +308,19 @@ Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui port
 **L'Œil à l'état sauvage**  
 de Fabrice Maze  
 France / 2003 / 26 min / Numérique  
+Il s'agit du seul film au monde qui dévoile l'atelier mythique du 42 rue Fontaine. C'est une promenade ou un rêve éveillé dans l'univers magique de Breton constitué de centaines d'objets, de tableaux, de témoignages de l'art océanien et africain, de poèmes-objets, d'innombrables livres et manuscrits. Cet atelier, qui aurait pu devenir un musée, a été dispersé en 2003 à l'hôtel Drouot. Le mur, derrière le bureau du poète, est désormais visible dans les collections permanentes du Centre Pompidou.  
 suivi de  
 [154367]  
 **André Breton malgré tout**  
 de Fabrice Maze  
 France / 2003 / 26 min / Numérique  
+Ce second film, co-production avec Arte, présente les grandes étapes de la vie d'André Breton et du surréalisme rythmées par les documents d'archives et les photos de Gilles Ehrmann sur l'atelier du 42, rue Fontaine.  
 suivi de  
 [154369]  
 **Hôtel Drouot**  
 de Fabrice Maze  
-France / 2003 / 15 min / Numérique
+France / 2003 / 15 min / Numérique  
+Le document a été tourné la veille de la dispersion le 31 mars 2003 de l'atelier à l'Hôtel Drouot. Le contenu de l'atelier de 100 m2 se déploie dans toutes les salles du 1er étage, chaque salle présentant un thème. On se demande comment autant d'objets, de tableaux et de livres ont pu entrer dans ce modeste atelier ! C'est une promenade vertigineuse dans une collection d'une vie.
 
 - je 22 juin 18h30 JE  
 Séance présentée par Fabrice Maze

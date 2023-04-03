@@ -20,13 +20,15 @@ Avec Spencer Tracy, Elizabeth Taylor, Joan Bennett.
 Stanley vit mal son rôle de futur grand-père, tandis que son épouse ne cache pas sa joie. Le couple se dispute constamment, jusqu'à l'arrivée de l'enfant.
 
 - lu 10 juil 20h00 GF  
+Film précédé de _Histoire de trois amours : Mademoiselle_ de Vincente Minnelli  
+- lu 24 juil 21h15 GF  
 - me 26 juil 20h00 HL
 
 [35257]  
 **Au revoir, Charlie**  
 **(Goodbye Charlie)**  
 de Vincente Minnelli  
-États-Unis / 1964 / 117 min / VOSTF  
+États-Unis / 1964 / 117 min / VOSTF / 35 mm  
 D'après la pièce _Goodbye Charlie_ de George Axelrod.  
 Avec Tony Curtis, Debbie Reynolds.  
 Charlie, un grand séducteur, est abattu par un mari jaloux. Il se réincarne sous les traits d'une fort jolie blonde et se fait alors passer pour sa propre veuve.
@@ -145,7 +147,7 @@ Film suivi de _Tous en scène_ de Vincente Minnelli
 [35254]  
 **Gigi**  
 de Vincente Minnelli  
-États-Unis / 1958 / VOSTF / 35 mm  
+États-Unis / 1958 / 119 min / VOSTF / DCP  
 D'après le roman _Gigi_ de Colette.  
 Avec Leslie Caron, Maurice Chevalier, Louis Jourdan.  
 La jeune Gigi, élevée par sa grand-mère et sa grand-tante, est destinée à la vie de demi-mondaine. Particulièrement espiègle et charmante, elle trouble le riche et élégant Gaston Lachaille, qui rend souvent visite aux deux vieilles dames.
@@ -161,14 +163,14 @@ de Vincente Minnelli
 Avec Leslie Caron, Ethel Barrymore, Farley Granger.  
 À bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour.
 
-- je 6 juil 16h00 GF  
-- lu 24 juil 21h15 GF
+- lu 10 juil 20h00 GF  
+Film suivi d'_Allons donc, papa !_ de Vincente Minnelli
 
 [58549]  
 **L'Horloge**  
 **(The Clock)**  
 de Vincente Minnelli  
-États-Unis / 1945 / 90 min / VO / 35 mm  
+États-Unis / 1945 / 90 min / VOSTF / 35 mm  
 Avec Judy Garland, Robert Walker.  
 En 1945, lors d'une permission de 48 heures, un soldat rencontre par hasard une jeune New-Yorkaise à Pennsylvania Station. Il passe les deux jours avec elle et en tombe amoureux.
 
@@ -245,7 +247,7 @@ Joseph, modeste employé de pressing, est surpris quand Connie Shaw, vedette de 
 **Melinda**  
 **(On a Clear Day You Can See Forever)**  
 de Vincente Minnelli  
-États-Unis / 1970 / 129 min / VO / 16 mm  
+États-Unis / 1970 / 129 min / VOSTF / 16 mm  
 D'après la comédie musicale _On a Clear Day You Can See Forever_ d'Alan Jay Lerner.  
 Avec Barbra Streisand, Yves Montand.  
 Désireuse d'arrêter de fumer, Daisy Gamble rend visite à un spécialiste de l'hypnose. Au cours d'une séance, Daisy évoque des faits concernant une aristocrate du XIX<sup>e</sup> siècle, une certaine Melinda, dont le médecin tombe peu à peu amoureux.
@@ -257,7 +259,7 @@ Désireuse d'arrêter de fumer, Daisy Gamble rend visite à un spécialiste de l
 **Nina**  
 **(A Matter of Time)**  
 de Vincente Minnelli  
-États-Unis-Italie / 1976 / 97 min / VOSTF / 35 mm  
+États-Unis-Italie / 1976 / 97 min / VOSTF / 16 mm  
 D'après le roman _La Volupté d'être_ de Maurice Druon.  
 Avec Ingrid Bergman, Liza Minnelli, Charles Boyer.  
 Nina, une actrice célèbre, est attendue à une conférence de presse. Pour l'heure, elle se trouve dans une voiture en compagnie d'un homme à qui raconte son l'histoire de sa vie.
@@ -292,7 +294,7 @@ Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le con
 **La Pluie qui chante**  
 **(Till the Clouds Roll by)**  
 de Richard Whorf, George Sidney, Vincente Minnelli  
-États-Unis / 1946 / 132 min / VO / 35 mm  
+États-Unis / 1946 / 132 min / VOSTF / 35 mm  
 Avec Judy Garland, Robert Walker, Lucille Bremer.  
 En 1927, Jerome Kern remporte un véritable succès avec le spectacle _Show Boat_. Riche et célèbre, il se retourne sur son passé et se souvient de ceux qui l'ont aidé tout au long de son parcours vers la réussite.
 
@@ -314,7 +316,7 @@ Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leu
 **Les Quatre Cavaliers de l'Apocalypse**  
 **(The Four Horsemen of the Apocalypse)**  
 de Vincente Minnelli  
-États-Unis / 1962 / 153 min / VO / 35 mm  
+États-Unis / 1962 / 153 min / VOSTF / 35 mm  
 D'après le roman _Los Cuatro jinetes del Apocalipsis_ de Vicente Blasco Ibáñez.  
 Avec Glenn Ford, Charles Boyer, Ingrid Thulin, Lee J. Cobb.  
 Deux branches d'une famille richissime, les Desnoyers et les Von Hartrott, se réunissent pour le retour d'Heinrich von Hartrott. À la stupeur générale, il leur apprend avoir abandonné ses études pour intégrer le parti nazi. Lorsque la guerre éclate, Heinrich rejoint les troupes allemandes et va devoir affronter son cousin Desnoyers.
@@ -326,7 +328,7 @@ Deux branches d'une famille richissime, les Desnoyers et les Von Hartrott, se r�
 **Quinze jours ailleurs**  
 **(Two Weeks in Another Town)**  
 de Vincente Minnelli  
-États-Unis / 1962 / 107 min / VO / 35 mm  
+États-Unis / 1962 / 107 min / VOSTF / 35 mm  
 D'après le roman _Two Weeks in Another Town_ d'Irwin Shaw.  
 Avec Kirk Douglas, Edward G. Robinson, Cyd Charisse.  
 À Rome, Jack Andrus, chargé d'assurer la postsynchronisation d'un film, rencontre Veronica, qui devient sa compagne, alors que Carlotta, une de ses anciennes conquêtes, arrive en ville.
@@ -349,7 +351,7 @@ Un couple de jeunes mariés, qui vient d'acheter une gigantesque caravane et ent
 **Thé et Sympathie**  
 **(Tea and Sympathy)**  
 de Vincente Minnelli  
-États-Unis / 1956 / 122 min / VO / 35 mm  
+États-Unis / 1956 / 122 min / VOSTF / 35 mm  
 D'après la pièce de théâtre _Thé et Sympathie_ de Robert Anderson.  
 Avec Deborah Kerr, John Kerr, Leif Erickson.  
 Tom, un étudiant, est plus attiré par la littérature et les arts que par les sports. À part l'amitié que lui témoigne son seul camarade, Al, Tom est marginalisé par les autres garçons du pensionnat. Heureusement, il sympathise bientôt avec la femme du professeur de gymnastique.

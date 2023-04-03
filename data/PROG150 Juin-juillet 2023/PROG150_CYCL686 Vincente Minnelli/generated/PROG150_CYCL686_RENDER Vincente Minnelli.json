@@ -5,12 +5,42 @@
     "textes": [],
     "items": [
       {
+        "idFilm": 106009,
+        "typeEvenement": 13,
+        "titre": "Alice Guy tourne une phonoscène",
+        "realisateurs": "Alice Guy",
+        "annee": 1905,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Alice Guy orchestre l'enregistrement d'une courte scène chantée."
+          }
+        ],
+        "duree": 2,
+        "format": "DCP",
+        "version": "INT. FR.",
+        "seances": [
+          {
+            "idSeance": 104105,
+            "ordre": 2,
+            "dateHeure": "2023-07-01T15:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _La Fée au choux_ d'Alice Guy et suivi de de _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli"
+          }
+        ]
+      },
+      {
         "idFilm": 35235,
         "typeEvenement": 13,
         "titre": "Allons donc, papa !",
         "titreVo": "Father's Little Dividend",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1950,
+        "annee": 1951,
         "pays": "États-Unis",
         "textes": [
           {
@@ -29,8 +59,19 @@
         "seances": [
           {
             "idSeance": 101758,
-            "ordre": 1,
+            "ordre": 2,
             "dateHeure": "2023-07-10T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Histoire de trois amours : Mademoiselle_ de Vincente Minnelli"
+          },
+          {
+            "idSeance": 104270,
+            "ordre": 1,
+            "dateHeure": "2023-07-24T21:15:00",
             "idSalle": [
               "GF",
               "Georges Franju"
@@ -38,7 +79,7 @@
             "typeEvenement": 13
           },
           {
-            "idSeance": 102150,
+            "idSeance": 104271,
             "ordre": 1,
             "dateHeure": "2023-07-26T20:00:00",
             "idSalle": [
@@ -60,7 +101,7 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Charlie est un sacré séducteur ! Le jour où il est abattu par un mari jaloux, il se réincarne sous les traits d'une fort jolie blonde et se fait alors passer pour la veuve de Charlie."
+            "texte": "Charlie, un grand séducteur, est abattu par un mari jaloux. Il se réincarne sous les traits d'une fort jolie blonde et se fait alors passer pour sa propre veuve."
           }
         ],
         "adaptation": "D'après la pièce _Goodbye Charlie_ de George Axelrod.",
@@ -69,7 +110,7 @@
           "Debbie Reynolds"
         ],
         "duree": 117,
-        "format": "",
+        "format": "35 mm",
         "version": "VOSTF",
         "seances": [
           {
@@ -95,6 +136,31 @@
         ]
       },
       {
+        "idFilm": 105778,
+        "typeEvenement": 13,
+        "titre": "Baignade dans un torrent",
+        "realisateurs": "Alice Guy",
+        "annee": 1897,
+        "pays": "France",
+        "textes": [],
+        "duree": 1,
+        "format": "DCP",
+        "version": "INT. FR.",
+        "seances": [
+          {
+            "idSeance": 104119,
+            "ordre": 1,
+            "dateHeure": "2023-07-01T17:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film suivi de _Yolanda et le Voleur_ de Vincente Minnelli"
+          }
+        ]
+      },
+      {
         "idFilm": 35211,
         "typeEvenement": 13,
         "titre": "Brigadoon",
@@ -104,13 +170,14 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Brigadoon : aucune carte ne mentionne ce village qui ne revit qu'une fois tous les cent ans. Deux américains en voyage en Écosse vont s'y perdre."
+            "texte": "Brigadoon est un village des Highlands où le temps s'est figé sur l'an 1755 et qui n'existe qu'un jour par siècle. Deux Américains en voyage en Écosse s'y égarent, et l'un des deux tombe amoureux d'une villageoise."
           }
         ],
-        "adaptation": "D'après la comédie musicale _Brigadoon_ d'Alan Jay Lerner , Frederick Loewe et Cheryl Crawford.",
+        "adaptation": "D'après la comédie musicale _Brigadoon_ d'Alan Jay Lerner.",
         "generique": [
           "Cyd Charisse",
-          "Gene Kelly"
+          "Gene Kelly",
+          "Van Johnson"
         ],
         "duree": 108,
         "format": "35 mm",
@@ -119,7 +186,7 @@
           {
             "idSeance": 104177,
             "ordre": 1,
-            "dateHeure": "2023-07-02T17:45:00",
+            "dateHeure": "2023-07-02T18:30:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -144,14 +211,15 @@
         "titre": "Celui par qui le scandale arrive",
         "titreVo": "Home from the Hill",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1959,
+        "annee": 1960,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Un grand propriétaire du Sud tyrannise sa femme, son fils légitime et celui qu'il a eu d'une liaison."
+            "texte": "Un grand propriétaire du Sud tyrannise sa femme et ses deux fils, l'un légitime, l'autre issu d'une liaison adultère."
           }
         ],
+        "adaptation": "D'après le roman _Home from the Hill_ de William Humphrey.",
         "generique": [
           "Robert Mitchum",
           "George Peppard",
@@ -216,7 +284,9 @@
               "HL",
               "Henri Langlois"
             ],
-            "typeEvenement": 13
+            "typeAssoc": 118,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi dialogue p. xx"
           },
           {
             "idSeance": 102008,
@@ -238,7 +308,7 @@
         "titreVo": "Sandpiper",
         "artVo": "The",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1964,
+        "annee": 1965,
         "pays": "États-Unis",
         "textes": [
           {
@@ -289,10 +359,10 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, et flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tout point son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature."
+            "texte": "Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tous points son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature."
           }
         ],
-        "adaptation": "D'après lz roman _Comme un torrent_ de James Jones.",
+        "adaptation": "D'après le roman _Comme un torrent_ de James Jones.",
         "generique": [
           "Frank Sinatra",
           "Dean Martin",
@@ -338,13 +408,15 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Un réalisateur, une actrice et un scénariste a qui l'on propose un nouveau contrat avec un célèbre producteur d'Hollywood, évoquent chacun à leur tour, les humiliations subies avant d'accéder au rang de star.."
+            "texte": "Un réalisateur, une actrice et un scénariste à qui l'on propose un nouveau contrat avec un célèbre producteur d'Hollywood évoquent, chacun à leur tour, les humiliations subies avant d'accéder au rang de star."
           }
         ],
+        "adaptation": "D'après la nouvelle _Tribute to a Bad Man_ de George Bradshaw.",
         "generique": [
           "Kirk Douglas",
           "Lana Turner",
-          "Walter Pidgeon"
+          "Walter Pidgeon",
+          "Gloria Grahame"
         ],
         "duree": 117,
         "format": "DCP",
@@ -373,18 +445,49 @@
         ]
       },
       {
+        "idFilm": 53492,
+        "typeEvenement": 13,
+        "titre": "Fée au choux",
+        "art": "La",
+        "realisateurs": "Alice Guy",
+        "annee": 1896,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Dans un potager, une fée fait apparaitre des bébés."
+          }
+        ],
+        "duree": 1,
+        "format": "DCP",
+        "version": "INT. FR.",
+        "seances": [
+          {
+            "idSeance": 104105,
+            "ordre": 1,
+            "dateHeure": "2023-07-01T15:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film suivi d'_Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli"
+          }
+        ]
+      },
+      {
         "idFilm": 35221,
         "typeEvenement": 13,
         "titre": "Femme modèle",
         "art": "La",
         "titreVo": "Designing Woman",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1956,
+        "annee": 1957,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Marilla et Mike se rencontrent et s'épousent, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents: lui est chroniqueur sportif, elle est dessinatrice de mode."
+            "texte": "Marilla et Mike se marient, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents : elle est dessinatrice de mode, et lui, chroniqueur sportif."
           }
         ],
         "generique": [
@@ -396,14 +499,13 @@
         "version": "VOSTF",
         "seances": [
           {
-            "idSeance": 101434,
+            "idSeance": 104243,
             "ordre": 1,
-            "dateHeure": "2023-06-28T20:00:00",
+            "dateHeure": "2023-06-29T18:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
-            "mention": "Ouverture de la rétrospective",
             "typeEvenement": 13
           },
           {
@@ -419,25 +521,57 @@
         ]
       },
       {
+        "idFilm": 105838,
+        "typeEvenement": 13,
+        "titre": "Fredaines de Pierrette",
+        "art": "Les",
+        "realisateurs": "Alice Guy",
+        "annee": 1900,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Pantomine dansée."
+          }
+        ],
+        "duree": 2,
+        "format": "DCP",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104176,
+            "ordre": 1,
+            "dateHeure": "2023-07-01T20:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film suivi de _Tous en scène_ de Vincente Minnelli"
+          }
+        ]
+      },
+      {
         "idFilm": 35254,
         "typeEvenement": 13,
         "titre": "Gigi",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1957,
+        "annee": 1958,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "La jeune Gigi, élevée par sa grand-mère et sa grande tante, est destinée à la vie de demi-mondaine. Particulièrement espiègle et charmante, elle trouble le riche et élégant Gaston Lachaille qui rend souvent visite aux deux vieilles dames."
+            "texte": "La jeune Gigi, élevée par sa grand-mère et sa grand-tante, est destinée à la vie de demi-mondaine. Particulièrement espiègle et charmante, elle trouble le riche et élégant Gaston Lachaille, qui rend souvent visite aux deux vieilles dames."
           }
         ],
+        "adaptation": "D'après le roman _Gigi_ de Colette.",
         "generique": [
           "Leslie Caron",
           "Maurice Chevalier",
           "Louis Jourdan"
         ],
-        "duree": 0,
-        "format": "35 mm",
+        "duree": 119,
+        "format": "DCP",
         "version": "VOSTF",
         "seances": [
           {
@@ -466,7 +600,7 @@
         "idFilm": 35279,
         "typeEvenement": 13,
         "titre": "Histoire de trois amours : Mademoiselle",
-        "titreVo": "Story of Three Loves : Mademoiselle",
+        "titreVo": "Story of Three Loves: Mademoiselle",
         "artVo": "The",
         "realisateurs": "Vincente Minnelli",
         "annee": 1952,
@@ -474,7 +608,7 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "A bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour."
+            "texte": "À bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour."
           }
         ],
         "generique": [
@@ -487,24 +621,15 @@
         "version": "VOSTF",
         "seances": [
           {
-            "idSeance": 104098,
+            "idSeance": 101758,
             "ordre": 1,
-            "dateHeure": "2023-07-06T16:00:00",
+            "dateHeure": "2023-07-10T20:00:00",
             "idSalle": [
               "GF",
               "Georges Franju"
             ],
-            "typeEvenement": 13
-          },
-          {
-            "idSeance": 102116,
-            "ordre": 1,
-            "dateHeure": "2023-07-24T21:15:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
+            "typeEvenement": 13,
+            "precedeSuivi": "Film suivi d'_Allons donc, papa !_ de Vincente Minnelli"
           }
         ]
       },
@@ -521,7 +646,7 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "En 1945, lors d'une permission de 48 heures, un soldat rencontre par hasard une jeune fille à Pennsylvania Station. Il passe sa permission avec elle et finit par tomber amoureux de la jolie New-yorkaise."
+            "texte": "En 1945, lors d'une permission de 48 heures, un soldat rencontre par hasard une jeune New-Yorkaise à Pennsylvania Station. Il passe les deux jours avec elle et en tombe amoureux."
           }
         ],
         "generique": [
@@ -530,12 +655,12 @@
         ],
         "duree": 90,
         "format": "35 mm",
-        "version": "VO",
+        "version": "VOSTF",
         "seances": [
           {
-            "idSeance": 101471,
+            "idSeance": 104242,
             "ordre": 1,
-            "dateHeure": "2023-06-29T18:00:00",
+            "dateHeure": "2023-06-28T20:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -561,7 +686,7 @@
         "titreVo": "Courtship of Eddie's Father",
         "artVo": "The",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1962,
+        "annee": 1963,
         "pays": "États-Unis",
         "textes": [
           {
@@ -572,7 +697,8 @@
         "adaptation": "D'après le roman _The Courtship of Eddie's father_ de Mark Toby.",
         "generique": [
           "Glenn Ford",
-          "Shirley Jones"
+          "Shirley Jones",
+          "Stella Stevens"
         ],
         "duree": 117,
         "format": "35 mm",
@@ -610,9 +736,10 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "A Bagdad, les aventures du poète hadji qui s'unit à la fille du Grand Vizir."
+            "texte": "À Bagdad, les aventures du poète Hadji, qui s'unit à la fille du grand vizir."
           }
         ],
+        "adaptation": "D'après la pièce _Kismet_ d'Edward Knoblock.",
         "generique": [
           "Howard Keel",
           "Ann Blyth",
@@ -655,7 +782,7 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Ann Hamilton a épousé sur un coup de foudre un riche industriel, Alan Garroway. Elle apprend bientôt qu'il est plus mystérieux et inquiétant qu'il n'en a l'air."
+            "texte": "Ann Hamilton a épousé sur un coup de foudre un riche industriel, Alan Garroway. Elle découvre bientôt qu'il est plus mystérieux qu'il ne paraît, et apprend fortuitement l'existence de son frère, Michael."
           }
         ],
         "generique": [
@@ -690,6 +817,40 @@
         ]
       },
       {
+        "idFilm": 106017,
+        "typeEvenement": 13,
+        "titre": "Madame a des envies",
+        "realisateurs": "Alice Guy",
+        "annee": 1906,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "À travers les envies éponymes de la protagoniste se déploie une dimension subversive et politiquement incorrecte qui renvoie à la sexualité (la sucette) et à l'ivresse (l'absinthe)."
+          },
+          {
+            "typeTexte": 99,
+            "texte": "Film attribué à Alice Guy."
+          }
+        ],
+        "duree": 4,
+        "format": "DCP",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104105,
+            "ordre": 3,
+            "dateHeure": "2023-07-01T15:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy et suivi de d'_Un numéro du tonnerre_ de Vincente Minnelli"
+          }
+        ]
+      },
+      {
         "idFilm": 35207,
         "typeEvenement": 13,
         "titre": "Madame Bovary",
@@ -699,13 +860,15 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Face au tribunal, Gustave Flaubert rend des comptes sur son roman, considéré comme œuvre immorale, et en justifie le contenu, prenant la défense de son personnage principal. Emma Bovary, jeune femme s'ennuyant aux cotés de son mari médecin de campagne."
+            "texte": "Face au tribunal, Gustave Flaubert rend des comptes sur son roman, considéré comme œuvre immorale, et en justifie le contenu, prenant la défense de son personnage principal, Emma Bovary."
           }
         ],
         "adaptation": "D'après le roman _Madame Bovary_ de Gustave Flaubert.",
         "generique": [
           "Jennifer Jones",
-          "James Mason"
+          "James Mason",
+          "Van Helfin",
+          "Louis Jourdan"
         ],
         "duree": 115,
         "format": "35 mm",
@@ -714,7 +877,7 @@
           {
             "idSeance": 104116,
             "ordre": 1,
-            "dateHeure": "2023-06-29T20:00:00",
+            "dateHeure": "2023-06-29T20:30:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -744,12 +907,14 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Joseph, modeste et maladroit employé de pressing, est surpris quand Connie Shaw, vedette de music-hall dont il est amoureux sans réciprocité, accepte de l'épouser dans le but de se venger de son fiancé infidèle."
+            "texte": "Joseph, modeste employé de pressing, est surpris quand Connie Shaw, vedette de music-hall dont il est amoureux, accepte de l'épouser dans le but de se venger de son fiancé infidèle."
           }
         ],
         "generique": [
           "Eleanor Powell",
-          "Red Skelton"
+          "Red Skelton",
+          "Lena Horne",
+          "Hazel Scott"
         ],
         "duree": 102,
         "format": "35 mm",
@@ -781,24 +946,24 @@
         "idFilm": 45896,
         "typeEvenement": 13,
         "titre": "Melinda",
-        "titreVo": "On a Clear Day, You Can See Forever",
+        "titreVo": "On a Clear Day You Can See Forever",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1969,
+        "annee": 1970,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Le quotidien extraordinaire d'une femme aux drôles de pouvoirs. Désireuse d'arrêter de fumer, elle rend visite à un docteur spécialisé dans l'hypnose. Une fois endormi, le docteur s'aperçoit que le jeune femme peut avoir plusieurs personnalités..."
+            "texte": "Désireuse d'arrêter de fumer, Daisy Gamble rend visite à un spécialiste de l'hypnose. Au cours d'une séance, Daisy évoque des faits concernant une aristocrate du XIX<sup>e</sup> siècle, une certaine Melinda, dont le médecin tombe peu à peu amoureux."
           }
         ],
-        "adaptation": "D'après la comédie musicale _On a Clear Day, You Can See Forever_ de Burton Lane et Alan Jay Lerner.",
+        "adaptation": "D'après la comédie musicale _On a Clear Day You Can See Forever_ d'Alan Jay Lerner.",
         "generique": [
           "Barbra Streisand",
           "Yves Montand"
         ],
         "duree": 129,
         "format": "16 mm",
-        "version": "VO",
+        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 104065,
@@ -828,21 +993,22 @@
         "titre": "Nina",
         "titreVo": "A Matter of Time",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1975,
+        "annee": 1976,
         "pays": "États-Unis-Italie",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Nina, une actrice célèbre, est attendue à une conférence de presse. Pour l'heure elle se trouve dans une voiture en compagnie d'un homme à qui elle va raconter son histoire"
+            "texte": "Nina, une actrice célèbre, est attendue à une conférence de presse. Pour l'heure, elle se trouve dans une voiture en compagnie d'un homme à qui raconte son l'histoire de sa vie."
           }
         ],
+        "adaptation": "D'après le roman _La Volupté d'être_ de Maurice Druon.",
         "generique": [
           "Ingrid Bergman",
           "Liza Minnelli",
           "Charles Boyer"
         ],
         "duree": 97,
-        "format": "35 mm",
+        "format": "16 mm",
         "version": "VOSTF",
         "seances": [
           {
@@ -879,7 +1045,7 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Stanley Banks prépare le mariage de sa fille Kay, mais s'angoisse à l'idée que sa cadette n'ait pas choisi le bon époux."
+            "texte": "Stanley Banks prépare le mariage de sa fille Kay, mais s'angoisse à l'idée qu'elle n'ait pas choisi l'époux qui la rendra heureuse."
           }
         ],
         "adaptation": "D'après le roman _Le Père de la mariée_ d'Edward Streeter.",
@@ -925,14 +1091,15 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Manuela rêve des exploits du pirate Macoco, elle en est amoureuse sans le connaître. Sa tante veut la marier à don Pedro Vargas, un homme riche et influent quand elle rencontre Serafin, un saltimbanque, qui pour la séduire, se fait passer pour le fameux pirate désiré."
+            "texte": "Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le connaître, mais sa tante veut la marier au riche et influent Don Pedro Vargas. Elle rencontre Serafin, un saltimbanque, qui, pour la séduire, se fait passer pour le fameux pirate."
           }
         ],
-        "adaptation": "D'après la pièce _The Pirate_ de S.N. Behrman.",
+        "adaptation": "D'après la pièce _The Pirate_ de S. N. Behrman.",
         "generique": [
           "Gene Kelly",
           "Judy Garland",
-          "Lola Albright"
+          "Lola Albright",
+          "Walter Slezak"
         ],
         "duree": 102,
         "format": "35 mm",
@@ -941,7 +1108,7 @@
           {
             "idSeance": 104175,
             "ordre": 1,
-            "dateHeure": "2023-07-02T14:30:00",
+            "dateHeure": "2023-07-02T15:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -965,14 +1132,14 @@
         "typeEvenement": 13,
         "titre": "Pluie qui chante",
         "art": "La",
-        "titreVo": "Till the Clouds Roll By",
+        "titreVo": "Till the Clouds Roll by",
         "realisateurs": "Richard Whorf, George Sidney, Vincente Minnelli",
         "annee": 1946,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "En 1927, Jerôme Kern remporte un véritable succès avec le spectacle « Show Boat » ... Riche et célèbre, il se retourne sur son passé et se souvient de ceux qui l'ont aidé tout au long de son parcours vers la réussite."
+            "texte": "En 1927, Jerome Kern remporte un véritable succès avec le spectacle _Show Boat_. Riche et célèbre, il se retourne sur son passé et se souvient de ceux qui l'ont aidé tout au long de son parcours vers la réussite."
           }
         ],
         "generique": [
@@ -982,7 +1149,7 @@
         ],
         "duree": 132,
         "format": "35 mm",
-        "version": "VO",
+        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 101921,
@@ -1018,14 +1185,16 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leur fille Jane fasse son entrée dans le monde. Ils veulent la fiancer à un jeune homme, mais Mabel Claremont, une cousine, convoite le même garçon pour sa propre fille, alors que Jane va s'éprendre, de son côté, d'un musicien américain."
+            "texte": "Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leur fille Jane fasse son entrée dans le monde. Ils veulent la fiancer à un jeune homme que convoite aussi une de leurs cousines, tandis que Jane, elle, s'éprend d'un musicien américain."
           }
         ],
         "generique": [
-          "Angela Lansbury",
-          "Rex Harrison"
+          "Rex Harrison",
+          "Kay Kendall",
+          "Sandra Dee",
+          "Angela Lansbury"
         ],
-        "duree": 0,
+        "duree": 96,
         "format": "35 mm",
         "version": "VOSTF",
         "seances": [
@@ -1054,29 +1223,29 @@
       {
         "idFilm": 35245,
         "typeEvenement": 13,
-        "titre": "Quatre cavaliers de l'Apocalypse",
+        "titre": "Quatre Cavaliers de l'Apocalypse",
         "art": "Les",
         "titreVo": "Four Horsemen of the Apocalypse",
         "artVo": "The",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1960,
+        "annee": 1962,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Deux familles richissimes, les Desnoyers et les Von Hartrott, sont réunies afin d'accueillir Heinrich von Hartrott après ses études en Allemagne qu'il déclare à la stupeur de tous avoir abandonnées pour se consacrer au parti nazi. Au déclenchement de la guerre, Heinrich rejoint les troupes allemandes et va être amené à lutter contre son propre cousin Julio Desnoyers."
+            "texte": "Deux branches d'une famille richissime, les Desnoyers et les Von Hartrott, se réunissent pour le retour d'Heinrich von Hartrott. À la stupeur générale, il leur apprend avoir abandonné ses études pour intégrer le parti nazi. Lorsque la guerre éclate, Heinrich rejoint les troupes allemandes et va devoir affronter son cousin Desnoyers."
           }
         ],
-        "adaptation": "D'après le roman _Los cuatro jinetes del Apocalipsis_ de Vicente Blasco Ibáñez.",
+        "adaptation": "D'après le roman _Los Cuatro jinetes del Apocalipsis_ de Vicente Blasco Ibáñez.",
         "generique": [
+          "Glenn Ford",
           "Charles Boyer",
           "Ingrid Thulin",
-          "Lee J. Cobb",
-          "Glenn Ford"
+          "Lee J. Cobb"
         ],
         "duree": 153,
         "format": "35 mm",
-        "version": "VO",
+        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 104063,
@@ -1106,15 +1275,15 @@
         "titre": "Quinze jours ailleurs",
         "titreVo": "Two Weeks in Another Town",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1961,
+        "annee": 1962,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "A Rome, Jack Andrus, chargé d'assurer la postsynchronisation d'un film en tournage, rencontre Veronica, qui devient sa compagne, alors que Carlotta, une de ses anciennes conquêtes,arrive en ville."
+            "texte": "À Rome, Jack Andrus, chargé d'assurer la postsynchronisation d'un film, rencontre Veronica, qui devient sa compagne, alors que Carlotta, une de ses anciennes conquêtes, arrive en ville."
           }
         ],
-        "adaptation": "D'après le roman _Two weeks in another town_ d'Irwin Shaw.",
+        "adaptation": "D'après le roman _Two Weeks in Another Town_ d'Irwin Shaw.",
         "generique": [
           "Kirk Douglas",
           "Edward G. Robinson",
@@ -1122,7 +1291,7 @@
         ],
         "duree": 107,
         "format": "35 mm",
-        "version": "VO",
+        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 101922,
@@ -1159,14 +1328,15 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Un couple de jeunes mariés achète une caravane. A partir de ce moment, les ennuis commencent!"
+            "texte": "Un couple de jeunes mariés, qui vient d'acheter une gigantesque caravane et entame son voyage de noces, voit les ennuis pleuvoir à cause du véhicule."
           }
         ],
         "generique": [
-          "Lucille Ball"
+          "Lucille Ball",
+          "Desi Arnaz"
         ],
-        "duree": 0,
-        "format": "16 mm",
+        "duree": 96,
+        "format": "Numérique",
         "version": "VOSTF",
         "seances": [
           {
@@ -1194,23 +1364,26 @@
       {
         "idFilm": 54360,
         "typeEvenement": 13,
-        "titre": "Thé et sympathie",
+        "titre": "Thé et Sympathie",
         "titreVo": "Tea and Sympathy",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1958,
+        "annee": 1956,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Tom Lee, un étudiant de 17 ans, est plus attiré par la littérature et les arts que par les sports. À part l'amitié sans préjugés que lui témoigne son seul camarade Al, Tom se trouve marginalisé par les autres garçons du pensionnat. Heureusement, il sympathise bientôt avec Laura Reynolds, la femme du professeur de gymnastique."
+            "texte": "Tom, un étudiant, est plus attiré par la littérature et les arts que par les sports. À part l'amitié que lui témoigne son seul camarade, Al, Tom est marginalisé par les autres garçons du pensionnat. Heureusement, il sympathise bientôt avec la femme du professeur de gymnastique."
           }
         ],
+        "adaptation": "D'après la pièce de théâtre _Thé et Sympathie_ de Robert Anderson.",
         "generique": [
-          "Deborah Kerr"
+          "Deborah Kerr",
+          "John Kerr",
+          "Leif Erickson"
         ],
         "duree": 122,
         "format": "35 mm",
-        "version": "VO",
+        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 101906,
@@ -1242,19 +1415,21 @@
         "titreVo": "Cobweb",
         "artVo": "The",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1954,
+        "annee": 1955,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Le docteur Steven McIver, à la tête d'une clinique psychiatrique, s'efforce d'appliquer de nouvelles méthodes dans l'établissement autrefois dirigé, de façon archaïque, par le docteur Devanal. Il néglige du même coup sa jeune épouse Karen. Le simple changement des rideaux de la bibliothèque suscite les plus grandes difficultés"
+            "texte": "Le docteur Stewart McIver, à la tête d'une clinique psychiatrique, s'efforce d'appliquer de nouvelles méthodes dans l'établissement autrefois dirigé, de façon archaïque, par le docteur Devanal. Il néglige du même coup sa jeune épouse, Karen."
           }
         ],
         "adaptation": "D'après le roman _The Cobweb_ de William Gibson.",
         "generique": [
           "Richard Widmark",
           "Lauren Bacall",
-          "Charles Boyer"
+          "Charles Boyer",
+          "Lilian Gish",
+          "Gloria Grahame"
         ],
         "duree": 124,
         "format": "35 mm",
@@ -1289,41 +1464,41 @@
         "titreVo": "Band Wagon",
         "artVo": "The",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1952,
+        "annee": 1953,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Un artiste déchu revient à New York et y retrouve ses deux vieux amis. Très vite, ils se lancent dans la création d'une comédie musicale et engagent un metteur en scène prétentieux qui va leur donner du fil à retordre."
+            "texte": "Tony, un artiste déchu, revient à New York et y retrouve deux vieux amis. Ensemble, ils se lancent dans la création d'une comédie musicale et engagent un metteur en scène prétentieux et sa compagne, une impressionnante danseuse classique."
           },
           {
             "typeTexte": 99,
             "texte": "Copie 35 mm Technicolor originale (tirage par imbibition) issue des collections de Lowell Peterson, ASC à l'Academy Film Archive."
           }
         ],
-        "adaptation": "D'après la nouvelle _Strategy of Love_ de Peter Viertel.",
         "generique": [
+          "Fred Astaire",
           "Cyd Charisse",
-          "Ava Gardner",
-          "Fred Astaire"
+          "Oscar Levant",
+          "Nanette Fabray"
         ],
         "duree": 112,
         "format": "DCP",
         "version": "VOSTF",
-        "ageMinimal": 8,
         "seances": [
           {
             "idSeance": 104176,
-            "ordre": 1,
+            "ordre": 2,
             "dateHeure": "2023-07-01T20:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
-            "typeEvenement": 13
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Les Fredaines de Pierrette_ d'Alice Guy"
           },
           {
-            "idSeance": 102187,
+            "idSeance": 104252,
             "ordre": 1,
             "dateHeure": "2023-07-27T18:00:00",
             "idSalle": [
@@ -1340,12 +1515,12 @@
         "titre": "Un Américain à Paris",
         "titreVo": "An American in Paris",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1950,
+        "annee": 1951,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Un peintre américain s'installe à Paris et tombe amoureux non seulement de la ville mais aussi d'une de ses habitantes."
+            "texte": "Un peintre américain s'installe à Paris et tombe amoureux de la ville et d'une de ses habitantes."
           }
         ],
         "generique": [
@@ -1361,7 +1536,7 @@
           {
             "idSeance": 104120,
             "ordre": 1,
-            "dateHeure": "2023-07-02T20:00:00",
+            "dateHeure": "2023-07-02T20:45:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -1386,35 +1561,36 @@
         "titre": "Un numéro du tonnerre",
         "titreVo": "Bells Are Ringing",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1959,
+        "annee": 1960,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Ella Peterson, une standardiste new-yorkaise, s'immisce dans les affaires des abonnés téléphoniques. Adaptation d'une comédie musicale créée à Broadway en 1956."
+            "texte": "Ella Peterson, une standardiste new-yorkaise, s'immisce dans les affaires des abonnés téléphoniques et devient leur confidente."
           }
         ],
-        "adaptation": "D'après la comédie musicale _Bells Are Ringing_ de Betty Comden , Adolph Green et Jule Styne.",
+        "adaptation": "D'après la comédie musicale _Bells Are Ringing_ de Betty Comden et Adolph Green.",
         "generique": [
           "Judy Holliday",
           "Dean Martin"
         ],
-        "duree": 0,
+        "duree": 127,
         "format": "35 mm",
         "version": "VOSTF",
         "seances": [
           {
             "idSeance": 104105,
-            "ordre": 1,
+            "ordre": 4,
             "dateHeure": "2023-07-01T15:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
-            "typeEvenement": 13
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy"
           },
           {
-            "idSeance": 104062,
+            "idSeance": 104251,
             "ordre": 1,
             "dateHeure": "2023-07-09T14:30:00",
             "idSalle": [
@@ -1436,7 +1612,7 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Blessé mortellement, Little Joe Jackson est envoyé au ciel. Avant d'aller en enfer, il se voit accorder un sursis de six mois."
+            "texte": "Brave homme mais joueur impénitent, \"Little\" Joe Jackson est mortellement blessé pour une dette de jeu. Cédant aux prières de sa femme, le Seigneur lui accorde six mois de sursis pour prouver qu'il mérite d'échapper à l'enfer."
           }
         ],
         "generique": [
@@ -1444,7 +1620,8 @@
           "Rex Ingram",
           "Duke Ellington",
           "Louis Armstrong",
-          "Eddie \" Rochester \" Anderson"
+          "Eddie Anderson",
+          "Lena Horne"
         ],
         "duree": 98,
         "format": "35 mm",
@@ -1479,12 +1656,12 @@
         "art": "La",
         "titreVo": "Lust For Life",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1955,
+        "annee": 1956,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Portrait de Van Gogh : sa piété, ses passions, son amour pour son frère Théo, sa rencontre avec Gauguin, son caractère et, surtout, sa dévotion obsessionnelle à la peinture et au dessin, responsables de sa « folie ».\n\n---\n\nPortrait de Van Gogh : sa piété, ses amours déchues, l'amour qu'il porte à son frère Théo, sa dévotion obsessionnelle à la peinture et au dessin."
+            "texte": "Portrait de Vincent van Gogh : sa piété, ses passions, son amour pour son frère Théo, sa rencontre avec Gauguin et, surtout, sa dévotion obsessionnelle à la peinture et au dessin."
           },
           {
             "typeTexte": 99,
@@ -1525,10 +1702,10 @@
       {
         "idFilm": 54351,
         "typeEvenement": 13,
-        "titre": "Yolanda et le voleur",
+        "titre": "Yolanda et le Voleur",
         "titreVo": "Yolanda and the Thief",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1948,
+        "annee": 1945,
         "pays": "États-Unis",
         "textes": [
           {
@@ -1537,7 +1714,9 @@
           }
         ],
         "generique": [
-          "Fred Astaire"
+          "Fred Astaire",
+          "Lucile Bremer",
+          "Frank Morgan"
         ],
         "duree": 108,
         "format": "35 mm",
@@ -1545,16 +1724,17 @@
         "seances": [
           {
             "idSeance": 104119,
-            "ordre": 1,
+            "ordre": 2,
             "dateHeure": "2023-07-01T17:30:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
-            "typeEvenement": 13
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Baignade dans un torrent_ d'Alice Guy"
           },
           {
-            "idSeance": 102047,
+            "idSeance": 104253,
             "ordre": 1,
             "dateHeure": "2023-07-21T20:30:00",
             "idSalle": [
@@ -1569,18 +1749,19 @@
         "idFilm": 34230,
         "typeEvenement": 13,
         "titre": "Ziegfeld Follies",
-        "realisateurs": "Norman Taurog, George Sidney, Vincente Minnelli, [etc.]",
-        "annee": 1944,
+        "realisateurs": "Vincente Minnelli, George Sidney, Roy Del Ruth, Robert Lewis, Lemuel Ayers",
+        "annee": 1945,
         "pays": "États-Unis",
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "Le grand Ziegfeld est au ciel, et de là-haut rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme avant, numéros comiques, dansés, chantés se succèdent."
+            "texte": "Le grand Ziegfeld est au ciel et, de là-haut, rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme à la grande époque, numéros comiques, dansé et chantés se succèdent."
           }
         ],
         "generique": [
           "William Powell",
           "Fred Astaire",
+          "Judy Garland",
           "Lucille Ball"
         ],
         "duree": 110,
@@ -1619,21 +1800,39 @@
       {
         "items": [
           {
-            "titre": "Film + Dialogue avec Jacqueline Nacache ?",
-            "textes": [],
-            "duree": 60
+            "titre": "Film + Dialogue avec Murielle Joudet",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "« Judy [Garland] avait un caractère changeant, passant sans transition de l'exubérance à la mélancolie, mais elle était fondamentalement pleine de charme et de séduction. Il ne faut pas oublier que Judy était à la fois la star et la grande chanteuse du film [_Le Chant du Missouri_], si bien qu'elle en constituait en quelque sorte le pivot pour réussir l'intégration des chansons à l'intrigue. Si Judy n'avait pas finalement cru à l'entreprise, le film aurait été un échec complet. Aussi, lorsque je la vis s'y engager à fond, je compris que nous allions au contraire vers un grand succès ! (...) _Le Chant du Missouri_ fut mon examen de passage définitif. Louis B. Mayer [patron de Metro-Goldwyn-Mayer] se montra très enthousiaste, et tous les autres grands pontes de la direction, qui avaient été contre le projet à l'origine, reconnurent leur erreur. Quant aux critiques, elles furent dithyrambiques. » (Vincente Minnelli, _Tous en scène : Autobiographie_ (1981)"
+              },
+              {
+                "typeTexte": 156,
+                "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française."
+              },
+              {
+                "typeTexte": 156,
+                "texte": "Murielle Joudet est critique de cinéma au _Monde_, elle participe à l'émission Le Cercle (Canal+) et anime une émission d'entretiens sur le site Hors-série. Elle a publié deux ouvrages consacrés à des actrices : _Isabelle Huppert : Vivre ne nous regarde pas_ (Capricci, 2018) et _Gena Rowlands : On aurait dû dormir_ (Capricci, Prix 2021 du livre de cinéma) et, récemment, aux éditions Premier parallèle, _La Seconde femme_, un essai sous-titré : _Ce que les actrices font à la vieillesse_."
+              }
+            ],
+            "duree": 60,
+            "ordre": 2
           }
         ],
         "seances": [
           {
-            "idSeance": 104121,
-            "dateHeure": "2023-07-06T21:00:00",
+            "idSeance": 104056,
+            "ordre": 2,
+            "dateHeure": "2023-07-06T19:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
+            "typeAssoc": 118,
             "typeEvenement": 14,
-            "typeConference": "Dialogue"
+            "typeConference": "Dialogue",
+            "mentionAnimation": "Rencontre animée par Bernard Benoliel",
+            "mentionRenvoi": "À la suite de la projection de _Le Chant du Missouri_ de Vincente Minnelli (voir p. xx)"
           }
         ]
       }

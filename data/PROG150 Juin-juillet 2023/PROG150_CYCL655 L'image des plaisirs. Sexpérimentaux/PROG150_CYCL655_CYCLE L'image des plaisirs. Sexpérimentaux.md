@@ -16,7 +16,7 @@ Séance présentée par Philippe Vallois
 
 ## Séance 23 : Fleurs dorées d'Apollon
 
-« Vois les blessures des flèches / Le sang de sa vie coule dans le sable / Les soucis jaillissent en étalant leurs pétales dans les rayons du soleil, fleurs dorées d'Apollon / Sebastiane / Sebastiane / Fais pleuvoir des baisers sur le jeune dieu aux yeux d'or / Fais pleuvoir des baisers sur ton bien-aimé / Et dans la lumière du soir / Souvenez-vous de ce monde d'ombres. » (Derek Jarman, synopsis du film, originellement en anglais et en latin, 1975).
+« Vois les blessures des flèches / Le sang de sa vie coule dans le sable / Les soucis jaillissent en étalant leurs pétales dans les rayons du soleil, fleurs dorées d'Apollon / Sebastiane / Sebastiane / Fais pleuvoir des baisers sur le jeune dieu aux yeux d'or / Fais pleuvoir des baisers sur ton bien-aimé / Et dans la lumière du soir / Souvenez-vous de ce monde d'ombres. » (Derek Jarman, synopsis du film, originellement en anglais et en latin, 1975)
 
 [57087]  
 **Sebastiane**  
@@ -29,7 +29,7 @@ Avec Leonardo Treviglio, Richard Warwick, Neil Kennedy.
 
 ## Séance 24 : « Je garde le souvenir de ton baiser et je voudrais bien que ce soit là une preuve que je puisse être aimé par toi »
 
-Séance 24. « Je garde le souvenir de ton baiser et je voudrais bien que ce soit là une preuve que je puisse être aimé par toi » Fluides sexuels de tout types dans un théâtre d'amour sont les protagonistes du chef d'œuvre d'animation érotique de Suzan Pitt, suivi d'un drame sentimental gay porno mélancolique, sensationnelle dénonciation de la répression policière et du système carcéral.
+Fluides sexuels de tous types dans un théâtre d'amour sont les protagonistes du chef-d'œuvre d'animation érotique de Suzan Pitt, suivi d'un drame sentimental gay porno mélancolique, sensationnelle dénonciation de la répression policière et du système carcéral.
 
 [99583]  
 **Asparagus**  
@@ -113,7 +113,7 @@ Séance présentée par Derek Woolfenden et David Matarasso
 
 ## Séance 25 : Décharges
 
-« _Ixe_ veut juste témoigner de ce qui s'est passé, d'un moment magique de réunion entre des femmes et des hommes qui veulent changer des choses en eux et autour d'eux. Mes œuvres vont peut-être disparaître mais ce qui compte c'est que j'ai vécu, que je sois avec vous ici ce soir et ça c'est irremplaçable. Et ça continuera. Il y aura d'autres gens comme vous, d'autres gens comme moi. On est dans une espèce de continuité humaine. Tout doit être vécu. » (Lionel Soukaz, 2011)
+« _Ixe_ veut juste témoigner de ce qui s'est passé, d'un moment magique de réunion entre des femmes et des hommes qui veulent changer des choses en eux et autour d'eux. Mes œuvres vont peut-être disparaître mais ce qui compte, c'est que j'ai vécu, que je sois avec vous ici ce soir et ça, c'est irremplaçable. Et ça continuera. Il y aura d'autres gens comme vous, d'autres gens comme moi. On est dans une espèce de continuité humaine. Tout doit être vécu. » (Lionel Soukaz, 2011)
 
 [154025]  
 **Action érotico-patriotique**  
@@ -146,7 +146,7 @@ Séance présentée par Stéphane Gérard et Lionel Soukaz
 
 ## Séance 26 : Cinéma de la transgression, par Romain Pinteaux
 
-Le Cinéma de la Transgression rassemble ce que l'underground new-yorkais de la fin du siècle a de plus subversif. Une plongée explicite dans le sexe, le sang, les drogues et la marginalité. (Romain Pinteaux)
+« Le cinéma de la transgression rassemble ce que l'underground new-yorkais de la fin du siècle a de plus subversif. Une plongée explicite dans le sexe, le sang, les drogues et la marginalité. » (Romain Pinteaux)
 
 [154200]  
 **Baby Doll**  
@@ -241,7 +241,7 @@ Avec Cleo Uebelmann.
 
 ## Séance 29 : Histoires des yeux
 
-Films politiques britanniques, étatsuniens et philippins, films partousards et subversifs faisant du sexe une religion, films cinétiques sur l'acte sexuel entre deux hommes : l'expérimental érotique serait ce champ parfait pour l'affirmation d'identités diverses où jamais les luttes d'émancipation ne détèlent.
+Films politiques britanniques, étatsuniens et philippins, films partouzards et subversifs faisant du sexe une religion, films cinétiques sur l'acte sexuel entre deux hommes : l'expérimental érotique serait ce champ parfait pour l'affirmation d'identités diverses où jamais les luttes d'émancipation ne détèlent.
 
 [154029]  
 **Mayhem**  
@@ -312,7 +312,7 @@ Séance présentée par Marion Scemama
 
 ## Séance 31 : Chaque fois que nous nous embrassons
 
-« Une chaîne de langues déchaînées//les griots muent le langage en pouvoir/ en nourriture en substituts sexuels en outils/comme des armes de survie de rage de passion avec la clarté du crachat//nous devenons puissants/chaque fois que nous nous embrassons/nous confirmons le nouveau monde qui vient » (Marlon Riggs, _Anthem_, 1991)
+« Une chaîne de langues déchaînées / les griots muent le langage en pouvoir / en nourriture en substituts sexuels en outils /comme des armes de survie de rage de passion avec la clarté du crachat / nous devenons puissants / chaque fois que nous nous embrassons /nous confirmons le nouveau monde qui vient » (Marlon Riggs, _Anthem_, 1991)
 
 [154033]  
 **Me and Rubyfruit**  
@@ -367,7 +367,7 @@ Autriche / 1993 / 8 min / 16 mm
 
 ## Séance 32 : Spectrum 90
 
-Une séance pour constater l'ampleur du spectre plastique et formel couvert par la décennie 1990, où 8, 16 et 35mm coexistent encore au quotidien avec encore la vidéo et déjà le numérique. Performances (Michael Curran, Shu Lea Cheang), mises en scènes flamboyantes ultra-référencées (Isaac Julien, Clio Barnard), remplois sublimant leur ingrat matériau (Mark Street, Peggy Ahwesh), autoportrait cosmique (Marc Hurtado).
+Une séance pour constater l'ampleur du spectre plastique et formel couvert par la décennie 1990, où 8, 16 et 35 mm coexistent au quotidien avec encore la vidéo et déjà le numérique. Performances (Michael Curran, Shu Lea Cheang), mises en scènes flamboyantes ultraréférencées (Isaac Julien, Clio Barnard), remplois sublimant leur ingrat matériau (Mark Street, Peggy Ahwesh), autoportrait cosmique (Marc Hurtado).
 
 [154216]  
 **The Attendant**  
@@ -431,7 +431,7 @@ Avec Kim Sun-deok, Park Ok-nyeon, Lee Yeong-suk.
 
 ## Séance 34 : Du beau monde
 
-« L'un des attraits potentiels du collage est que l'artiste qui rejette le monde 'tel qu'il se trouve' peut construire le sien, plus conforme à ce que les choses pourraient ou devraient être. Il y a un lien évident entre cette pulsion et le travail d'invention d'un monde fictionnel. » (William E. Jones, 2020). Accolades érotiques de Marilyn, Georges Bataille ou Edmund Husserl avec le cinéma.
+« L'un des attraits potentiels du collage est que l'artiste qui rejette le monde “tel qu'il se trouve” peut construire le sien, plus conforme à ce que les choses pourraient ou devraient être. Il y a un lien évident entre cette pulsion et le travail d'invention d'un monde fictionnel. » (William E. Jones, 2020). Accolades érotiques de Marilyn, Georges Bataille ou Edmund Husserl avec le cinéma.
 
 [154221]  
 **Apparatus "M"**  
@@ -493,7 +493,7 @@ Séance présentée par Yves-Marie Mahé
 
 ## Séance 35 : Moins, un, deux et des millions
 
-« Le sexe était une façon d'embrasser la vie et l'amour. Le sexe était libérateur, amusant et créatif. Une belle aventure. Carol Queen a défini la positivité sexuelle comme 'l'affirmation simple mais radicale selon laquelle nous développons chacun nos propres passions et, au lieu d'avoir deux ou trois ou même une demi-douzaine d'orientations sexuelles, nous devrions les penser en termes de millions'. » (Annie Sprinkle, _Assuming the Ecosexual Position. The Earth as Lover,_ 2021).
+« Le sexe était une façon d'embrasser la vie et l'amour. Le sexe était libérateur, amusant et créatif. Une belle aventure. Carol Queen a défini la positivité sexuelle comme “l'affirmation simple mais radicale selon laquelle nous développons chacun nos propres passions et, au lieu d'avoir deux ou trois ou même une demi-douzaine d'orientations sexuelles, nous devrions les penser en termes de millions”. » (Annie Sprinkle, _Assuming the Ecosexual Position: The Earth As Lover_, 2021)
 
 [154225]  
 **Removed**  
@@ -649,7 +649,7 @@ Séance présentée par Émilie Jouvet
 
 ## Séance 40 : Rafales et une faille
 
-D'où vient la violence ? Elle est multiple, elle nous assiège, nous en sommes le siège : démence des torrents d'images (Gimel, Brambilla, Noé, Swiczinsky), brutalité des pratiques que les êtres humains s'infligent à eux-mêmes et aux autres (Chanfro, Kowalski, Arbid)... Qu'est-ce qui émerge de cette faille étrange entre la nature et nos fantasmes (Grandrieux) ? Autoportrait collectif de l'humanité en monstre ordinaire.
+D'où vient l  a violence ? Elle est multiple, elle nous assiège, nous en sommes le siège : démence des torrents d'images (Gimel, Brambilla, Noé, Swiczinsky), brutalité des pratiques que les êtres humains s'infligent à eux-mêmes et aux autres (Chanfro, Kowalski, Arbid)... Qu'est-ce qui émerge de cette faille étrange entre la nature et nos fantasmes (Grandrieux) ? Autoportrait collectif de l'humanité en monstre ordinaire.
 
 [154054]  
 **Fig. 4**  
@@ -730,10 +730,10 @@ Avec Coralie Trinh-Thi, Lydia Lunch.
 
 ## Séance 42 : Visites aux images
 
-Quatre variations sur des écritures documentaires, prenant explicitement ou implicitement en charge l'histoire des images. À vingt ans de distance, _Diptychon_ observe la similitude de gestes masturbatoires. À trente ans de distance, _Rent Boys_ offre un pendant documentaire _à Moi, Christiane_ F (Uli Edel, 1981) et s'avère aussi puissant que son célèbre prédécesseur. Dans ce monde administré, l'activité sexuelle semble ne viser que le soulagement (_rein/aus_), seules les images s'avèrent capables d'orgasmes inouïs (_Light-Sleep_).
+Quatre variations sur des écritures documentaires prenant explicitement ou implicitement en charge l'histoire des images. À vingt ans de distance, _Diptychon_ observe la similitude de gestes masturbatoires. À trente ans de distance, _Rent Boys_ offre un pendant documentaire _à Moi, Christiane F._ (Uli Edel, 1981) et s'avère aussi puissant que son célèbre prédécesseur. Dans ce monde administré, l'activité sexuelle semble ne viser que le soulagement (_Rein/Raus_), seules les images s'avèrent capables d'orgasmes inouïs (_Light-Sleep_).
 
 [154068]  
-**Light Sleep**  
+**Light-Sleep**  
 **(Félálom)**  
 de Péter Lichter  
 Hongrie / 2009 / 6 min / Numérique  
@@ -762,7 +762,7 @@ Dans un Berlin hostile et complice, le film suit cinq « garçons à louer » da
 
 ## Séance 43 : Corps écarquillés, voluptés et fétiches
 
-« nombril zénith / étendue du corps / circonférence de la vie / gravité sexuelle centrale / âme magnétique. » (Elsa von Freytag Loringhoven, »Atome », 1924-25)
+« nombril zénith / étendue du corps / circonférence de la vie / gravité sexuelle centrale / âme magnétique. » (Elsa von Freytag Loringhoven, « Atome », 1924-25)
 
 [154234]  
 **Lexique dyslexique**  
@@ -867,7 +867,7 @@ Séance présentée par Geoffroy C. Dedenis
 
 ## Séance 45 : Mathieu Morel. Beginning Bouquet
 
-À chaque instant, le cinéma de Mathieu Morel offre une synthèse tumultueuse, un bouquet explosif en quoi consiste son minimum vital : tragédie/comédie/guignol/élégie, douleurs/ironie/tendresses, plaies et caresses, rêves infantiles et cauchemars sophistiqués, imageries désuètes/voyages dans l'inconnu. Un cinéma d'ami.e.s et d'amant.e.s, amoureux au même titre des Freaks et des Princes, des esclaves et des rois, des Belles et des Bêtes. Un pan-cinéma de notre temps.
+À chaque instant, le cinéma de Mathieu Morel offre une synthèse tumultueuse, un bouquet explosif en quoi consiste son minimum vital : tragédie/comédie/guignol/élégie, douleurs/ironie/tendresses, plaies et caresses, rêves infantiles et cauchemars sophistiqués, imageries désuètes/voyages dans l'inconnu. Un cinéma d'ami·e·s et d'amant·e·s, amoureux au même titre des Freaks et des princes, des esclaves et des rois, des Belles et des Bêtes. Un pan-cinéma de notre temps.
 
 [141501]  
 **Tra kegro lafi sasam mle ra kgro lafe beln (Je ne sais pas qui je suis mais je sais ce que j'aime)**  
@@ -916,7 +916,7 @@ Séance présentée par Mathieu Morel
 
 ## Séance 46 : Ultimes replis de la pudeur
 
-Aux collages coruscants de Matock et Dedenis, s'oppose l'étude des rapports passionnels entre les protagonistes d'_Avalon_. Pourtant, eux aussi sont des êtres d'images, parce qu'ils en créent (en tant que photographes et cinéastes), mais surtout parce que, aussi explicites que soient leurs étreintes et leurs dialogues, on voit bien qu'ils ne diront rien de leurs sentiments, et que tout le reste est disposé pour y faire écran.
+Aux collages coruscants de Matock et Dedenis s'oppose l'étude des rapports passionnels entre les protagonistes d'_Avalon_. Pourtant, eux aussi sont des êtres d'images, parce qu'ils en créent (en tant que photographes et cinéastes), mais surtout parce que, aussi explicites que soient leurs étreintes et leurs dialogues, on voit bien qu'ils ne diront rien de leurs sentiments, et que tout le reste est disposé pour y faire écran.
 
 [154243]  
 **Warm**  
@@ -948,10 +948,10 @@ Séance présentée par Marion Scemama
 
 ## Rencontres et conférences
 
-**« L'Image des plaisirs : de quoi le film me rend-il sujet ? » par Frédéric Tachou**  
+**L'image des plaisirs : De quoi le film me rend-il sujet ?**  
 **Conférence de Frédéric Tachou**  
-« L'intimité est un espace intermédiaire entre moi et les autres dont je négocie les entrées et sorties. Il y a une topique de l'intimité. Le cinéma expérimental explorant le territoire de l'intime m'enjoint, moi qui ne fais que le regarder, d'être quelque part. Il me semble qu'à l'inverse d'autres films qui ne sont ni expérimentaux ni n'explorent/exposent l'intime, ceux-là cherchent à rapprocher les fameux pôles irréconciliables de l'expérience spectatorielle au cinéma, identifiés par Edgar Morin : participation pratique et projection affective. Il faudrait peut-être dire alors qu'ils invitent dans un espace de « projection pratique » et de « participation affective ». Et dans ce type d'espace, je me sens souvent nu, c'est-à-dire désarmé. J'y rencontre des corps, des sexes, des plaisirs, des blessures et des stigmates, à la fois proches et différents des miens. De quoi suis-je le sujet ? »  
-Cinéaste et docteur en esthétique et sciences de l'art à Paris-1, **Frédéric Tachou** a été président du Collectif Jeune Cinéma (CJC), structure de distribution et de diffusion des pratiques expérimentales de l'image et du film. Il est l'auteur de _Et le sexe entra dans la modernité_ (Klincksieck, 2014).
+« L'intimité est un espace intermédiaire entre moi et les autres dont je négocie les entrées et sorties. Il y a une topique de l'intimité. Le cinéma expérimental explorant le territoire de l'intime m'enjoint, moi qui ne fais que le regarder, d'être quelque part. Il me semble qu'à l'inverse d'autres films qui ne sont ni expérimentaux ni n'explorent/exposent l'intime, ceux-là cherchent à rapprocher les fameux pôles irréconciliables de l'expérience spectatorielle au cinéma, identifiés par Edgar Morin : participation pratique et projection affective. Il faudrait peut-être dire alors qu'ils invitent dans un espace de “projection pratique” et de “participation affective”. Et dans ce type d'espace, je me sens souvent nu, c'est-à-dire désarmé. J'y rencontre des corps, des sexes, des plaisirs, des blessures et des stigmates, à la fois proches et différents des miens. De quoi suis-je le sujet ? »  
+Cinéaste, docteur en esthétique et sciences de l'art (université Paris 1 Panthéon-Sorbonne), Frédéric Tachou a été président du Collectif jeune cinéma (CJC), structure de distribution et de diffusion des pratiques expérimentales de l'image et du film. Il est l'auteur de _Et le sexe entra dans la modernité_ (Klincksieck, 2014).
 
 - sa 3 juin 14h30 GF  
 À la suite de la projection de _The Action_ de David Matarasso, _Blind Porn_ d'Émilie Jouvet, _Essence d'absinthe_ de Yervant Gianikian, Angela Ricci Lucchi, _Le Troisième œil_ d'André Almuró (voir p. xx)

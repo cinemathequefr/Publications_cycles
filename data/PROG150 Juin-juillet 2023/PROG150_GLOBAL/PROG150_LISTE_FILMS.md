@@ -150,7 +150,7 @@
   * Kiss 25  
   * Lexique dyslexique  
   * Lezzieflick  
-  * Light Sleep  
+  * Light-Sleep  
   * Loads  
   * Loi X – la nuit en permanence (La)  
   * Mano destra  

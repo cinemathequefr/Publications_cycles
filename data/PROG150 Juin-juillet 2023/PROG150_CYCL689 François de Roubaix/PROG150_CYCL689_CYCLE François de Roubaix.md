@@ -18,7 +18,7 @@ Film précédé de _Montagnes magiques_ de Robert Enrico
 [129571]  
 **Comment ça va ? J'm'en fous**  
 de François de Roubaix  
-France / 1975 / 10 min  
+France / 1975 / 10 min / DCP  
 Avec Yves Josso, Nathalie Lafaurie.  
 Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie.  
 Dernier court métrage de François de Roubaix, sorti à titre posthume.
@@ -60,7 +60,7 @@ Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous_
 [129576]  
 **Le Gobbo**  
 de François de Roubaix  
-France / 1970 / 15 min  
+France / 1970 / 15 min / DCP  
 Avec Yves Josso.  
 Un mystérieux bossu arrive dans un petit village corse en proie à une série d'accidents dont sont témoins des campeurs.
 
@@ -91,7 +91,7 @@ Film précédé de _Thaumetopoea_ de Robert Enrico
 [34700]  
 **Jeff**  
 de Jean Herman  
-France / 1969 / 92 min  
+France / 1969  
 Avec Alain Delon, Mireille Darc, Georges Rouquier.  
 Après un hold-up, Jeff, le cerveau de l'opération, disparaît avec le butin. Toute la bande se lance à sa poursuite, sauf Laurent. Soupçonné par les autres d'être un complice, Laurent part de son côté à la recherche du traître, accompagné d'Eva, la maîtresse de Jeff.
 
@@ -120,7 +120,7 @@ Film suivi de _Les Aventuriers_ de Robert Enrico
 [70969]  
 **Morgane et ses nymphes**  
 de Bruno Gantillon  
-France / 1970 / 86 min  
+France / 1970 / 86 min / 35 mm  
 Avec Dominique Delpierre, Mireille Saunin, Michèle Perello, Alfred Baillou.  
 Deux jeunes femmes se perdent dans les bois et entrent dans le royaume de la sorcière Morgane. Celle-ci voudrait en faire ses concubines, et leur offre en échange la jeunesse éternelle. Mais si elles refusent...
 

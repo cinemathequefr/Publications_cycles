@@ -1,70 +1,320 @@
 [
   {
     "titreSousCycle": "Les films",
-    "tri": 1,
+    "tri": 2,
     "textes": [],
     "items": [
       {
-        "idFilm": 154383,
-        "typeEvenement": 13,
-        "titre": "A Day at the Zoo",
-        "realisateurs": "Tex Avery",
-        "annee": 1939,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 7,
-        "format": "DCP",
-        "version": "",
+        "items": [
+          {
+            "idFilm": 154383,
+            "titre": "A Day at the Zoo",
+            "realisateurs": "Tex Avery",
+            "annee": 1939,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 7,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          },
+          {
+            "idFilm": 154384,
+            "titre": "A Haunted Mouse",
+            "realisateurs": "Tex Avery",
+            "annee": 1941,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 6,
+            "format": "DCP",
+            "version": "",
+            "ordre": 2
+          },
+          {
+            "idFilm": 154380,
+            "titre": "Doggone Tired",
+            "realisateurs": "Tex Avery",
+            "annee": 1949,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 7,
+            "format": "DCP",
+            "version": "",
+            "ordre": 3
+          },
+          {
+            "idFilm": 154382,
+            "titre": "Early Worm Gets the Bird",
+            "realisateurs": "Tex Avery",
+            "annee": 1940,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 8,
+            "format": "DCP",
+            "version": "",
+            "ordre": 4
+          },
+          {
+            "idFilm": 154378,
+            "titre": "Hamateur Night",
+            "realisateurs": "Tex Avery",
+            "annee": 1939,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 7,
+            "format": "DCP",
+            "version": "",
+            "ordre": 5
+          },
+          {
+            "idFilm": 96333,
+            "titre": "Hollywood Steps Out",
+            "realisateurs": "Tex Avery",
+            "annee": 1941,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Film de Tex Avery où de nombreux acteurs célèbres parmi lesquels Clark Gable, Henry Fonda, les Marx Brothers, Oliver Hardy et Buster Keaton se côtoient dans une soirée mondaine."
+              }
+            ],
+            "duree": 8,
+            "format": "DCP",
+            "version": "VOSTF",
+            "ordre": 6
+          },
+          {
+            "idFilm": 154379,
+            "titre": "I Wanna be a sailor",
+            "realisateurs": "Tex Avery",
+            "annee": 1937,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 7,
+            "format": "DCP",
+            "version": "",
+            "ordre": 7
+          },
+          {
+            "idFilm": 154381,
+            "titre": "Jerky Turkey",
+            "realisateurs": "Tex Avery",
+            "annee": 1945,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 7,
+            "format": "DCP",
+            "version": "",
+            "ordre": 8
+          },
+          {
+            "idFilm": 96185,
+            "titre": "Non ! Non ! Mille fois non !",
+            "titreVo": "No ! No ! A Thousand Times No !",
+            "realisateurs": "Dave Fleischer",
+            "annee": 1935,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 6,
+            "format": "DCP",
+            "version": "",
+            "ordre": 9
+          },
+          {
+            "idFilm": 96145,
+            "titre": "Betty au pays des merveilles",
+            "titreVo": "Betty in Blunderland",
+            "realisateurs": "Dave Fleischer",
+            "annee": 1934,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 6,
+            "format": "DCP",
+            "version": "",
+            "ordre": 10
+          },
+          {
+            "idFilm": 96141,
+            "titre": "Pauvre Cendrillon",
+            "titreVo": "Poor Cinderella",
+            "realisateurs": "Dave Fleischer",
+            "annee": 1934,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 10,
+            "format": "DCP",
+            "version": "",
+            "ordre": 11
+          },
+          {
+            "idFilm": 96054,
+            "titre": "Betty atchoum",
+            "titreVo": "Betty Boop's Ker-choo",
+            "realisateurs": "Dave Fleischer",
+            "annee": 1933,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 6,
+            "format": "DCP",
+            "version": "",
+            "ordre": 12
+          },
+          {
+            "idFilm": 96222,
+            "titre": "Pudgy pompier",
+            "titreVo": "Ding Dong Doggie",
+            "realisateurs": "Dave Fleischer",
+            "annee": 1937,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 6,
+            "format": "DCP",
+            "version": "",
+            "ordre": 13
+          },
+          {
+            "idFilm": 96187,
+            "titre": "Betty et le petit roi",
+            "titreVo": "Betty Boop and the Little King",
+            "realisateurs": "Dave Fleischer",
+            "annee": 1936,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 6,
+            "format": "DCP",
+            "version": "",
+            "ordre": 14
+          },
+          {
+            "idFilm": 96200,
+            "titre": "Halte au bruit",
+            "titreVo": "Stop that Noise",
+            "realisateurs": "Dave Fleischer",
+            "annee": 1935,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 6,
+            "format": "DCP",
+            "version": "",
+            "ordre": 15
+          },
+          {
+            "idFilm": 96161,
+            "titre": "Candide candidat",
+            "titreVo": "Candid Candidate",
+            "artVo": "The",
+            "realisateurs": "Dave Fleischer",
+            "annee": 1937,
+            "pays": "États-Unis",
+            "textes": [],
+            "duree": 5,
+            "format": "DCP",
+            "version": "",
+            "ordre": 16
+          }
+        ],
         "seances": [
           {
-            "idSeance": 104150,
+            "idSeance": 104229,
             "ordre": 1,
-            "dateHeure": "2023-06-24T17:00:00",
+            "dateHeure": "2023-06-17T15:00:00",
             "idSalle": [
               "GF",
               "Georges Franju"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film suivi d'_A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
+            "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 154384,
-        "typeEvenement": 13,
-        "titre": "A Haunted Mouse",
-        "realisateurs": "Tex Avery",
-        "annee": 1941,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 6,
-        "format": "DCP",
-        "version": "",
-        "seances": [
+        "items": [
           {
-            "idSeance": 104150,
-            "ordre": 2,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 62680,
+            "titre": "A Study in Choregraphy for the Camera",
+            "realisateurs": "Maya Deren",
+            "annee": 1945,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "A STUDY IN CHOREOGRAPHY FOR CAMERA est le résultat d'une tentative de dégager le danseur de l'espace statique de la scène d'un théâtre vers un espace qui serait aussi mobile et volatile que lui-même."
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery et suivi de de _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
+            "duree": 3,
+            "format": "Numérique",
+            "version": "VOSTF",
+            "ordre": 1
+          },
+          {
+            "idFilm": 154372,
+            "titre": "divine horsemen: The Living Gods of Haiti",
+            "realisateurs": "Maya Deren",
+            "annee": 1947,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Le film montre les rites de trois cultes haïtiens: Rada, Petro et Congo, dont l'origine est africaine. Ces rites mettent en scène des sacrifices (poulets, chèvres) et des transes."
+              }
+            ],
+            "duree": 55,
+            "format": "Numérique",
+            "version": "VOSTF",
+            "ordre": 2
+          },
+          {
+            "idFilm": 62682,
+            "titre": "Meditation on violence",
+            "realisateurs": "Maya Deren",
+            "annee": 1948,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Comme les mouvements de la boxe chinoise sont des « énoncés » physiques de certains concepts métaphysiques, le film MEDITATION ON VIOLENCE est, en termes cinématographiques, un exposé de ces mêmes concepts utilisant les mouvements physiques comme un moyen visuel parmi d'autres."
+              }
+            ],
+            "duree": 10,
+            "format": "Numérique",
+            "version": "VOSTF",
+            "ordre": 3
+          },
+          {
+            "idFilm": 62690,
+            "titre": "Ritual in Tranfigured Time",
+            "realisateurs": "Maya Deren",
+            "annee": 1945,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "RITUAL IN TRANSFIGURED TIME développe plus avant cette idée de créer de la danse à partir d'éléments extérieurs à celle-ci."
+              }
+            ],
+            "duree": 14,
+            "format": "Numérique",
+            "version": "VOSTF",
+            "ordre": 4
+          },
+          {
+            "idFilm": 62683,
+            "titre": "Very Eye of Night",
+            "art": "The",
+            "realisateurs": "Maya Deren",
+            "annee": 1952,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Le thème de ce film est le monde intérieur de l'homme, dans lequel il entre au moment où il s'endort."
+              }
+            ],
+            "duree": 15,
+            "format": "Numérique",
+            "version": "VOSTF",
+            "ordre": 5
           }
-        ]
-      },
-      {
-        "idFilm": 62680,
-        "typeEvenement": 13,
-        "titre": "A Study in Choregraphy for the Camera",
-        "realisateurs": "Maya Deren",
-        "annee": 1945,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 3,
-        "format": "Numérique",
-        "version": "",
+        ],
         "seances": [
           {
             "idSeance": 104173,
@@ -74,38 +324,42 @@
               "GF",
               "Georges Franju"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film suivi de _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren"
+            "mention": "Séance présentée par Dominique Païni",
+            "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 47140,
-        "typeEvenement": 13,
-        "titre": "Âge d'or",
-        "art": "L'",
-        "realisateurs": "Luis Buñuel",
-        "annee": 1930,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "La force du désir éprouvé par un couple bouscule et renverse l'ordre social. « Un film d'inspiration bolchevique, _L'Âge d'or_, attaquant la religion, la patrie et la famille, était projeté depuis plusieurs jours. Plusieurs commissaires de la Ligue des Patriotes [ont] sifflé ce film obscène. » (communiqué de la Ligue, 6 décembre 1930)"
-          },
-          {
-            "typeTexte": 99,
-            "texte": "Scénario coécrit par Luis Buñuel et Salvador Dalí."
+            "idFilm": 47140,
+            "titre": "Âge d'or",
+            "art": "L'",
+            "realisateurs": "Luis Buñuel",
+            "annee": 1930,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "La force du désir éprouvé par un couple bouscule et renverse l'ordre social. « Un film d'inspiration bolchevique, _L'Âge d'or_, attaquant la religion, la patrie et la famille, était projeté depuis plusieurs jours. Plusieurs commissaires de la Ligue des Patriotes [ont] sifflé ce film obscène. » (communiqué de la Ligue, 6 décembre 1930)"
+              },
+              {
+                "typeTexte": 99,
+                "texte": "Scénario coécrit par Luis Buñuel et Salvador Dalí."
+              }
+            ],
+            "generique": [
+              "Lya Lys",
+              "Gaston Modot",
+              "Max Ernst",
+              "Pierre Prévert"
+            ],
+            "duree": 63,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "generique": [
-          "Lya Lys",
-          "Gaston Modot",
-          "Max Ernst",
-          "Pierre Prévert"
-        ],
-        "duree": 63,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 101113,
@@ -115,46 +369,116 @@
               "HL",
               "Henri Langlois"
             ],
+            "mention": "Séance présentée par Dominique Païni",
             "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 154367,
-        "typeEvenement": 13,
-        "titre": "André Breton malgré tout",
-        "realisateurs": "Fabrice Maze",
-        "annee": 2003,
-        "pays": "France",
-        "textes": [],
-        "duree": 26,
-        "format": "Numérique",
-        "version": "",
-        "seances": [
+        "items": [
           {
-            "idSeance": 101294,
-            "ordre": 2,
-            "dateHeure": "2023-06-22T18:30:00",
-            "idSalle": [
-              "JE",
-              "Jean Epstein"
+            "idFilm": 62689,
+            "titre": "At Land",
+            "realisateurs": "Maya Deren",
+            "annee": 1944,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "AT LAND investit l'idée du temps et de l'espace du 19ème siècle."
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze et suivi de de _Hôtel Drouot_ de Fabrice Maze"
+            "duree": 14,
+            "format": "Numérique",
+            "version": "",
+            "ordre": 1
+          },
+          {
+            "idFilm": 53940,
+            "titre": "Etoile de mer",
+            "art": "L'",
+            "realisateurs": "Man Ray",
+            "annee": 1928,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Inspirée par un poème de Robert Desnos, une succession d'images oniriques.\n\n---\n\n« Le cinéma semblait avoir tout découvert, y compris l'invisible. C'est alors que de nouveaux venus s'emparèrent de l'écran. Fernand Léger, Man Ray, Buñuel et Dalí nous apportèrent la preuve que rien n'était encore trouvé, puis ils s'en allèrent comme ils étaient venus. »"
+              }
+            ],
+            "adaptation": "D'après le poème _Etoile de mer_ de Robert Desnos.",
+            "generique": [
+              "Robert Desnos",
+              "Kiki de Montparnasse"
+            ],
+            "duree": 12,
+            "format": "35 mm",
+            "version": "",
+            "ordre": 2
+          },
+          {
+            "idFilm": 62687,
+            "titre": "Meshes of the Afternoon",
+            "realisateurs": "Maya Deren, Alexander Hackenschmied",
+            "annee": 1943,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Ce premier film se rapporte aux liens existant entre l'imaginaire et la réalité objective. Le film commence dans la réalité pour se terminer dans celle-ci."
+              }
+            ],
+            "duree": 14,
+            "format": "Numérique",
+            "version": "",
+            "ordre": 3
+          },
+          {
+            "idFilm": 47197,
+            "titre": "Un chien andalou",
+            "realisateurs": "Luis Buñuel",
+            "annee": 1928,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près du balcon avant de trancher l'œil grand ouvert d'une jeune fille impassible."
+              }
+            ],
+            "generique": [
+              "Pierre Batcheff",
+              "Simone Mareuil",
+              "Salvador Dalí"
+            ],
+            "duree": 17,
+            "format": "DCP",
+            "version": "INT. FR.",
+            "ordre": 4
+          },
+          {
+            "idFilm": 47671,
+            "titre": "Entr'acte",
+            "realisateurs": "René Clair",
+            "annee": 1924,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Essai surréaliste avec une danseuse barbue, un chasseur tyrolien, un corbillard tiré par un chameau et une course derrière un cercueil."
+              }
+            ],
+            "generique": [
+              "Man Ray",
+              "Marcel Duchamp",
+              "Inge Frïss",
+              "Francis Picabia"
+            ],
+            "duree": 22,
+            "format": "DCP",
+            "version": "INT. FR.",
+            "ordre": 5
           }
-        ]
-      },
-      {
-        "idFilm": 62689,
-        "typeEvenement": 13,
-        "titre": "At Land",
-        "realisateurs": "Maya Deren",
-        "annee": 1944,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 14,
-        "format": "Numérique",
-        "version": "",
+        ],
         "seances": [
           {
             "idSeance": 101076,
@@ -164,144 +488,42 @@
               "HL",
               "Henri Langlois"
             ],
-            "mention": "Ouverture de la rétrospective",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film suivi de _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied, _Un chien andalou_ de Luis Buñuel, _Entr'acte_ de René Clair"
+            "mention": "Ouverture de la rétrospective. Séance présentée par Dominique Païni",
+            "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 96054,
-        "typeEvenement": 13,
-        "titre": "Betty atchoum",
-        "titreVo": "Betty Boop's Ker-choo",
-        "realisateurs": "Dave Fleischer",
-        "annee": 1933,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 6,
-        "format": "DCP",
-        "version": "",
-        "seances": [
+        "items": [
           {
-            "idSeance": 104150,
-            "ordre": 12,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 47184,
+            "titre": "Cet obscur objet du désir",
+            "realisateurs": "Luis Buñuel",
+            "annee": 1977,
+            "pays": "France-Espagne",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de voyage la passion déchirante qu'il a eue pour Conchita, une jeune femme qui n'a cessé de se dérober à lui."
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer et suivi de de _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 96145,
-        "typeEvenement": 13,
-        "titre": "Betty au pays des merveilles",
-        "titreVo": "Betty in Blunderland",
-        "realisateurs": "Dave Fleischer",
-        "annee": 1934,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 6,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104150,
-            "ordre": 10,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "adaptation": "D'après le roman _La Femme et le pantin_ de Pierre Louÿs.",
+            "generique": [
+              "Fernando Rey",
+              "Carole Bouquet",
+              "Ángela Molina"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer et suivi de de _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 96187,
-        "typeEvenement": 13,
-        "titre": "Betty et le petit roi",
-        "titreVo": "Betty Boop and the Little King",
-        "realisateurs": "Dave Fleischer",
-        "annee": 1936,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 6,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104150,
-            "ordre": 14,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer et suivi de de _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 96161,
-        "typeEvenement": 13,
-        "titre": "Candide candidat",
-        "titreVo": "Candid Candidate",
-        "artVo": "The",
-        "realisateurs": "Dave Fleischer",
-        "annee": 1937,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 5,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104150,
-            "ordre": 16,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 47184,
-        "typeEvenement": 13,
-        "titre": "Cet obscur objet du désir",
-        "realisateurs": "Luis Buñuel",
-        "annee": 1977,
-        "pays": "France-Espagne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de voyage la passion déchirante qu'il a eue pour Conchita, une jeune femme qui n'a cessé de se dérober à lui."
+            "duree": 102,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "adaptation": "D'après le roman _La Femme et le pantin_ de Pierre Louÿs.",
-        "generique": [
-          "Fernando Rey",
-          "Carole Bouquet",
-          "Ángela Molina"
-        ],
-        "duree": 102,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 101114,
             "ordre": 1,
-            "dateHeure": "2023-06-15T21:30:00",
+            "dateHeure": "2023-06-15T20:45:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -311,30 +533,34 @@
         ]
       },
       {
-        "idFilm": 36444,
-        "typeEvenement": 13,
-        "titre": "Chasse du comte Zaroff",
-        "art": "La",
-        "titreVo": "Most Dangerous Game",
-        "artVo": "The",
-        "realisateurs": "Ernest B. Schoedsack, Irving Pichel",
-        "annee": 1932,
-        "pays": "États-Unis",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte du gibier humain."
+            "idFilm": 36444,
+            "titre": "Chasse du comte Zaroff",
+            "art": "La",
+            "titreVo": "Most Dangerous Game",
+            "artVo": "The",
+            "realisateurs": "Ernest B. Schoedsack, Irving Pichel",
+            "annee": 1932,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte du gibier humain."
+              }
+            ],
+            "adaptation": "D'après la nouvelle _The Most dangerous game_ de Richard Connell.",
+            "generique": [
+              "Joel McCrea",
+              "Fay Wray",
+              "Robert Armstrong"
+            ],
+            "duree": 63,
+            "format": "DCP",
+            "version": "VOSTF",
+            "ordre": 1
           }
         ],
-        "adaptation": "D'après la nouvelle _The Most dangerous game_ de Richard Connell.",
-        "generique": [
-          "Joel McCrea",
-          "Fay Wray",
-          "Robert Armstrong"
-        ],
-        "duree": 63,
-        "format": "DCP",
-        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 101206,
@@ -349,207 +575,68 @@
         ]
       },
       {
-        "idFilm": 154372,
-        "typeEvenement": 13,
-        "titre": "divine horsemen: The Living Gods of Haiti",
-        "realisateurs": "Maya Deren",
-        "annee": 1947,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 55,
-        "format": "Numérique",
-        "version": "",
-        "seances": [
+        "items": [
           {
-            "idSeance": 104173,
-            "ordre": 2,
-            "dateHeure": "2023-06-21T18:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 154373,
+            "titre": "Claude Cahun – Elle et Suzanne",
+            "titreVo": "Elle et Suzanne",
+            "realisateurs": "Fabrice Maze",
+            "annee": 2015,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe. Un couple mythique."
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren et suivi de de _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren"
-          }
-        ]
-      },
-      {
-        "idFilm": 154380,
-        "typeEvenement": 13,
-        "titre": "Doggone Tired",
-        "realisateurs": "Tex Avery",
-        "annee": 1949,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 7,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104150,
-            "ordre": 3,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery et suivi de d'_Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 154382,
-        "typeEvenement": 13,
-        "titre": "Early Worm Gets the Bird",
-        "realisateurs": "Tex Avery",
-        "annee": 1940,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 8,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104150,
-            "ordre": 4,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery et suivi de de _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 154373,
-        "typeEvenement": 13,
-        "titre": "Elle et Suzanne",
-        "realisateurs": "Fabrice Maze",
-        "annee": 2015,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe. Un couple mythique."
+            "duree": 105,
+            "format": "Numérique",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "duree": 105,
-        "format": "Numérique",
-        "version": "",
         "seances": [
           {
             "idSeance": 104174,
             "ordre": 1,
-            "dateHeure": "2023-06-22T20:15:00",
+            "dateHeure": "2023-06-22T20:30:00",
             "idSalle": [
               "JE",
               "Jean Epstein"
             ],
+            "mention": "Séance présentée par Fabrice Maze",
             "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 47671,
-        "typeEvenement": 13,
-        "titre": "Entr'acte",
-        "realisateurs": "René Clair",
-        "annee": 1924,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Essai surréaliste avec une danseuse barbue, un chasseur tyrolien, un corbillard tiré par un chameau et une course derrière un cercueil."
-          }
-        ],
-        "generique": [
-          "Man Ray",
-          "Marcel Duchamp",
-          "Inge Frïss",
-          "Francis Picabia"
-        ],
-        "duree": 22,
-        "format": "DCP",
-        "version": "INT. FR.",
-        "seances": [
-          {
-            "idSeance": 101076,
-            "ordre": 5,
-            "dateHeure": "2023-06-14T20:00:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
+            "idFilm": 30626,
+            "titre": "Femme au corbeau",
+            "art": "La",
+            "titreVo": "River",
+            "artVo": "The",
+            "realisateurs": "Frank Borzage",
+            "annee": 1929,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Une jeune femme dont l'amant est emprisonné pour meurtre, rencontre un jeune homme vagabond. ils sympathisent et peu à peu un sentiment amoureux naît entre eux tandis que la jeune femme est « surveillée » par le corbeau qu'a laissé dans ce but son amant"
+              }
             ],
-            "mention": "Ouverture de la rétrospective",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_At Land_ de Maya Deren, _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied, _Un chien andalou_ de Luis Buñuel"
-          }
-        ]
-      },
-      {
-        "idFilm": 53940,
-        "typeEvenement": 13,
-        "titre": "Etoile de mer",
-        "art": "L'",
-        "realisateurs": "Man Ray",
-        "annee": 1928,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Inspirée par un poème de Robert Desnos, une succession d'images oniriques.\n\n---\n\n« Le cinéma semblait avoir tout découvert, y compris l'invisible. C'est alors que de nouveaux venus s'emparèrent de l'écran. Fernand Léger, Man Ray, Buñuel et Dalí nous apportèrent la preuve que rien n'était encore trouvé, puis ils s'en allèrent comme ils étaient venus. »"
-          }
-        ],
-        "adaptation": "D'après le poème _Etoile de mer_ de Robert Desnos.",
-        "generique": [
-          "Robert Desnos",
-          "Kiki de Montparnasse"
-        ],
-        "duree": 12,
-        "format": "35 mm",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 101076,
-            "ordre": 2,
-            "dateHeure": "2023-06-14T20:00:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
+            "generique": [
+              "Mary Duncan",
+              "Charles Farrell",
+              "Ivan Linow"
             ],
-            "mention": "Ouverture de la rétrospective",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_At Land_ de Maya Deren et suivi de de _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied, _Un chien andalou_ de Luis Buñuel, _Entr'acte_ de René Clair"
-          }
-        ]
-      },
-      {
-        "idFilm": 30626,
-        "typeEvenement": 13,
-        "titre": "Femme au corbeau",
-        "art": "La",
-        "titreVo": "River",
-        "artVo": "The",
-        "realisateurs": "Frank Borzage",
-        "annee": 1929,
-        "pays": "États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Une jeune femme dont l'amant est emprisonné pour meurtre, rencontre un jeune homme vagabond. ils sympathisent et peu à peu un sentiment amoureux naît entre eux tandis que la jeune femme est « surveillée » par le corbeau qu'a laissé dans ce but son amant"
+            "duree": 96,
+            "format": "16 mm",
+            "version": "INT. FR.",
+            "ordre": 1
           }
         ],
-        "generique": [
-          "Mary Duncan",
-          "Charles Farrell",
-          "Ivan Linow"
-        ],
-        "duree": 96,
-        "format": "16 mm",
-        "version": "INT. FR.",
         "seances": [
           {
             "idSeance": 104038,
@@ -564,17 +651,87 @@
         ]
       },
       {
-        "idFilm": 154389,
-        "typeEvenement": 13,
-        "titre": "Fidélité des images",
-        "art": "La",
-        "realisateurs": "René Magritte",
-        "annee": 1946,
-        "pays": "Belgique",
-        "textes": [],
-        "duree": 27,
-        "format": "",
-        "version": "",
+        "items": [
+          {
+            "idFilm": 154389,
+            "titre": "Fidélité des images",
+            "art": "La",
+            "realisateurs": "René Magritte",
+            "annee": 1946,
+            "pays": "Belgique",
+            "textes": [],
+            "duree": 27,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          },
+          {
+            "idFilm": 113611,
+            "titre": "Histoire de détective",
+            "realisateurs": "Charles Dekeukeleire",
+            "annee": 1929,
+            "pays": "Belgique",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Une femme inquiète du comportement de son mari, trop souvent absent, demande à un détective de le suivre et de lui faire un rapport."
+              }
+            ],
+            "generique": [
+              "Pierre Bourgeois"
+            ],
+            "duree": 50,
+            "format": "DCP",
+            "version": "",
+            "ordre": 2
+          },
+          {
+            "idFilm": 82660,
+            "titre": "Imitation du cinéma",
+            "art": "L'",
+            "realisateurs": "Marcel Mariën",
+            "annee": 1959,
+            "pays": "Belgique",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Un jeune homme reçoit d'un prêtre L'imitation de Jésus-Christ. Il le lit avec une telle ferveur qu'il n'a qu'une idée en tête : se faire crucifier."
+              }
+            ],
+            "generique": [
+              "Tom Gutt",
+              "Ulysse Pétian",
+              "Suzanne Bourgoigne"
+            ],
+            "duree": 37,
+            "format": "",
+            "version": "",
+            "ordre": 3
+          },
+          {
+            "idFilm": 46205,
+            "titre": "Perle",
+            "art": "La",
+            "realisateurs": "Henri d' Ursel",
+            "annee": 1928,
+            "pays": "Belgique",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Ce film onirique est un clin d'œil aux ciné-romans de Feuillade, avec comme toile de fond le vol d'un collier de perles."
+              }
+            ],
+            "generique": [
+              "Georges Hugnet",
+              "Kissa Kouprine",
+              "Mary Stutz"
+            ],
+            "duree": 20,
+            "format": "DCP",
+            "version": "",
+            "ordre": 4
+          }
+        ],
         "seances": [
           {
             "idSeance": 104151,
@@ -584,84 +741,37 @@
               "GF",
               "Georges Franju"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film suivi de _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel"
+            "mention": "Séance présentée par Dominique Païni",
+            "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 96200,
-        "typeEvenement": 13,
-        "titre": "Halte au bruit",
-        "titreVo": "Stop that Noise",
-        "realisateurs": "Dave Fleischer",
-        "annee": 1935,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 6,
-        "format": "DCP",
-        "version": "",
-        "seances": [
+        "items": [
           {
-            "idSeance": 104150,
-            "ordre": 15,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 35977,
+            "titre": "Hellzapoppin",
+            "realisateurs": "Henry C. Potter",
+            "annee": 1941,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la pagaille."
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer et suivi de de _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 154378,
-        "typeEvenement": 13,
-        "titre": "Hamateur Night",
-        "realisateurs": "Tex Avery",
-        "annee": 1939,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 7,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104150,
-            "ordre": 5,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "adaptation": "D'après la comédie musicale _Hellzapoppin'_ de Chic Johnson et Ole Olsen.",
+            "generique": [
+              "Ole Olsen",
+              "Chic Johnson",
+              "Martha Raye"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery et suivi de de _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 35977,
-        "typeEvenement": 13,
-        "titre": "Hellzapoppin",
-        "realisateurs": "Henry C. Potter",
-        "annee": 1941,
-        "pays": "États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la pagaille."
+            "duree": 93,
+            "format": "DCP",
+            "version": "VOSTF",
+            "ordre": 1
           }
         ],
-        "adaptation": "D'après la comédie musicale _Hellzapoppin'_ de Chic Johnson et Ole Olsen.",
-        "generique": [
-          "Ole Olsen",
-          "Chic Johnson",
-          "Martha Raye"
-        ],
-        "duree": 93,
-        "format": "DCP",
-        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 104040,
@@ -676,33 +786,37 @@
         ]
       },
       {
-        "idFilm": 79882,
-        "typeEvenement": 13,
-        "titre": "Heure suprême",
-        "art": "L'",
-        "titreVo": "Seventh Heaven",
-        "realisateurs": "Frank Borzage",
-        "annee": 1927,
-        "pays": "États-Unis",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "À Paris, en 1914, un balayeur épouse une jeune orpheline le jour de son départ à la guerre."
-          },
-          {
-            "typeTexte": 99,
-            "texte": "Copie avec musique."
+            "idFilm": 79882,
+            "titre": "Heure suprême",
+            "art": "L'",
+            "titreVo": "Seventh Heaven",
+            "realisateurs": "Frank Borzage",
+            "annee": 1927,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "À Paris, en 1914, un balayeur épouse une jeune orpheline le jour de son départ à la guerre."
+              },
+              {
+                "typeTexte": 99,
+                "texte": "Copie avec musique."
+              }
+            ],
+            "adaptation": "D'après la pièce _Seventh Heaven_ d'Austin Strong.",
+            "generique": [
+              "Janet Gaynor",
+              "Charles Farrell",
+              "Ben Bard"
+            ],
+            "duree": 118,
+            "format": "35 mm",
+            "version": "VO",
+            "ordre": 1
           }
         ],
-        "adaptation": "D'après la pièce _Seventh Heaven_ d'Austin Strong.",
-        "generique": [
-          "Janet Gaynor",
-          "Charles Farrell",
-          "Ben Bard"
-        ],
-        "duree": 118,
-        "format": "35 mm",
-        "version": "VO",
         "seances": [
           {
             "idSeance": 101191,
@@ -717,186 +831,26 @@
         ]
       },
       {
-        "idFilm": 113611,
-        "typeEvenement": 13,
-        "titre": "Histoire de détective",
-        "realisateurs": "Charles Dekeukeleire",
-        "annee": 1929,
-        "pays": "Belgique",
-        "textes": [],
-        "generique": [
-          "Pierre Bourgeois"
-        ],
-        "duree": 50,
-        "format": "DCP",
-        "version": "",
-        "seances": [
+        "items": [
           {
-            "idSeance": 104151,
-            "ordre": 2,
-            "dateHeure": "2023-06-21T20:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 36414,
+            "titre": "King Kong",
+            "realisateurs": "Merian C. Cooper, Ernest B. Schoedsack",
+            "annee": 1933,
+            "pays": "États-Unis",
+            "textes": [],
+            "generique": [
+              "Fay Wray",
+              "Robert Armstrong",
+              "Bruce Cabot"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _La Fidélité des images_ de René Magritte et suivi de de _L'Imitation du cinéma_ de Marcel Mariën, _La Perle_ de Henri d' Ursel"
-          }
-        ]
-      },
-      {
-        "idFilm": 96333,
-        "typeEvenement": 13,
-        "titre": "Hollywood Steps Out",
-        "realisateurs": "Tex Avery",
-        "annee": 1941,
-        "pays": "États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Film de Tex Avery où de nombreux acteurs célèbres parmi lesquels Clark Gable, Henry Fonda, les Marx Brothers, Oliver Hardy et Buster Keaton se côtoient dans une soirée mondaine."
+            "duree": 100,
+            "format": "DCP",
+            "version": "VO",
+            "ageMinimal": 10,
+            "ordre": 1
           }
         ],
-        "duree": 8,
-        "format": "DCP",
-        "version": "VOSTF",
-        "seances": [
-          {
-            "idSeance": 104150,
-            "ordre": 6,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery et suivi de d'_I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 154369,
-        "typeEvenement": 13,
-        "titre": "Hôtel Drouot",
-        "realisateurs": "Fabrice Maze",
-        "annee": 2003,
-        "pays": "France",
-        "textes": [],
-        "duree": 15,
-        "format": "Numérique",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 101294,
-            "ordre": 3,
-            "dateHeure": "2023-06-22T18:30:00",
-            "idSalle": [
-              "JE",
-              "Jean Epstein"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _L'Œil à l'état sauvage_ de Fabrice Maze, _André Breton malgré tout_ de Fabrice Maze"
-          }
-        ]
-      },
-      {
-        "idFilm": 154379,
-        "typeEvenement": 13,
-        "titre": "I Wanna be a sailor",
-        "realisateurs": "Tex Avery",
-        "annee": 1937,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 7,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104150,
-            "ordre": 7,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery et suivi de de _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 82660,
-        "typeEvenement": 13,
-        "titre": "Imitation du cinéma",
-        "art": "L'",
-        "realisateurs": "Marcel Mariën",
-        "annee": 1959,
-        "pays": "Belgique",
-        "textes": [],
-        "generique": [
-          "Tom Gutt",
-          "Ulysse Pétian",
-          "Suzanne Bourgoigne"
-        ],
-        "duree": 37,
-        "format": "",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104151,
-            "ordre": 3,
-            "dateHeure": "2023-06-21T20:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _La Fidélité des images_ de René Magritte, _Histoire de détective_ de Charles Dekeukeleire et suivi de de _La Perle_ de Henri d' Ursel"
-          }
-        ]
-      },
-      {
-        "idFilm": 154381,
-        "typeEvenement": 13,
-        "titre": "Jerky Turkey",
-        "realisateurs": "Tex Avery",
-        "annee": 1945,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 7,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104150,
-            "ordre": 8,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery et suivi de de _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 36414,
-        "typeEvenement": 13,
-        "titre": "King Kong",
-        "realisateurs": "Merian C. Cooper, Ernest B. Schoedsack",
-        "annee": 1933,
-        "pays": "États-Unis",
-        "textes": [],
-        "generique": [
-          "Fay Wray",
-          "Robert Armstrong",
-          "Bruce Cabot"
-        ],
-        "duree": 100,
-        "format": "DCP",
-        "version": "VO",
-        "ageMinimal": 10,
         "seances": [
           {
             "idSeance": 101207,
@@ -911,30 +865,34 @@
         ]
       },
       {
-        "idFilm": 40704,
-        "typeEvenement": 13,
-        "titre": "Loulou",
-        "titreVo": "Büchse der Pandora",
-        "artVo": "Die",
-        "realisateurs": "Georg Wilhelm Pabst",
-        "annee": 1928,
-        "pays": "Allemagne",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils."
+            "idFilm": 40704,
+            "titre": "Loulou",
+            "titreVo": "Büchse der Pandora",
+            "artVo": "Die",
+            "realisateurs": "Georg Wilhelm Pabst",
+            "annee": 1928,
+            "pays": "Allemagne",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils."
+              }
+            ],
+            "adaptation": "D'après les pièces _Die Büchse der Pandora_ et _Erdgeist_ de Frank Wedekind.",
+            "generique": [
+              "Louise Brooks",
+              "Fritz Kortner",
+              "Franz Lederer",
+              "Carl Goetz"
+            ],
+            "duree": 134,
+            "format": "DCP",
+            "version": "INT. FR.",
+            "ordre": 1
           }
         ],
-        "adaptation": "D'après les pièces _Die Büchse der Pandora_ et _Erdgeist_ de Frank Wedekind.",
-        "generique": [
-          "Louise Brooks",
-          "Fritz Kortner",
-          "Franz Lederer",
-          "Carl Goetz"
-        ],
-        "duree": 134,
-        "format": "DCP",
-        "version": "INT. FR.",
         "seances": [
           {
             "idSeance": 101152,
@@ -949,80 +907,33 @@
         ]
       },
       {
-        "idFilm": 62682,
-        "typeEvenement": 13,
-        "titre": "Meditation on violence",
-        "realisateurs": "Maya Deren",
-        "annee": 1948,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 10,
-        "format": "Numérique",
-        "version": "",
-        "seances": [
+        "items": [
           {
-            "idSeance": 104173,
-            "ordre": 3,
-            "dateHeure": "2023-06-21T18:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 30930,
+            "titre": "Monstrueuse parade",
+            "art": "La",
+            "titreVo": "Freaks",
+            "realisateurs": "Tod Browning",
+            "annee": 1932,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher.\n\n---\n\nDans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher. _« Contrairement à la plupart des cinéastes hollywoodiens, qui sont sans descendance réelle, c'est l'extrême singularité de la vision du monde de Tod Browning qui, peu à peu et avec la nécessité économique d'en administrer des preuves matérielles indiscutables, affirma son être de cinéaste. C'est en cela qu'il est, sinon moderne, du moins notre contemporain. »_"
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren, _divine horsemen: The Living Gods of Haiti_ de Maya Deren et suivi de de _Ritual in Tranfigured Time_ de Maya Deren, _The Very Eye of Night_ de Maya Deren"
-          }
-        ]
-      },
-      {
-        "idFilm": 62687,
-        "typeEvenement": 13,
-        "titre": "Meshes of the Afternoon",
-        "realisateurs": "Maya Deren, Alexander Hackenschmied",
-        "annee": 1943,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 14,
-        "format": "Numérique",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 101076,
-            "ordre": 3,
-            "dateHeure": "2023-06-14T20:00:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
+            "adaptation": "D'après le roman _Spurs_ de Tod Robbins.",
+            "generique": [
+              "Wallace Ford",
+              "Leila Hyams",
+              "Olga Baclanova"
             ],
-            "mention": "Ouverture de la rétrospective",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_At Land_ de Maya Deren, _L'Etoile de mer_ de Man Ray et suivi de d'_Un chien andalou_ de Luis Buñuel, _Entr'acte_ de René Clair"
-          }
-        ]
-      },
-      {
-        "idFilm": 30930,
-        "typeEvenement": 13,
-        "titre": "Monstrueuse parade",
-        "art": "La",
-        "titreVo": "Freaks",
-        "realisateurs": "Tod Browning",
-        "annee": 1932,
-        "pays": "États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher.\n\n---\n\nDans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher. _« Contrairement à la plupart des cinéastes hollywoodiens, qui sont sans descendance réelle, c'est l'extrême singularité de la vision du monde de Tod Browning qui, peu à peu et avec la nécessité économique d'en administrer des preuves matérielles indiscutables, affirma son être de cinéaste. C'est en cela qu'il est, sinon moderne, du moins notre contemporain. »_"
+            "duree": 64,
+            "format": "DCP",
+            "version": "VOSTF",
+            "ordre": 1
           }
         ],
-        "adaptation": "D'après le roman _Spurs_ de Tod Robbins.",
-        "generique": [
-          "Wallace Ford",
-          "Leila Hyams",
-          "Olga Baclanova"
-        ],
-        "duree": 64,
-        "format": "DCP",
-        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 104037,
@@ -1037,137 +948,101 @@
         ]
       },
       {
-        "idFilm": 96185,
-        "typeEvenement": 13,
-        "titre": "Non ! Non ! Mille fois non !",
-        "titreVo": "No ! No ! A Thousand Times No !",
-        "realisateurs": "Dave Fleischer",
-        "annee": 1935,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 6,
-        "format": "DCP",
-        "version": "",
-        "seances": [
+        "items": [
           {
-            "idSeance": 104150,
-            "ordre": 9,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 154368,
+            "titre": "Œil à l'état sauvage",
+            "art": "L'",
+            "realisateurs": "Fabrice Maze",
+            "annee": 2003,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Il s'agit du seul film au monde qui dévoile l'atelier mythique du 42 rue Fontaine. C'est une promenade ou un rêve éveillé dans l'univers magique de Breton constitué de centaines d'objets, de tableaux, de témoignages de l'art océanien et africain, de poèmes-objets, d'innombrables livres et manuscrits. Cet atelier, qui aurait pu devenir un musée, a été dispersé en 2003 à l'hôtel Drouot. Le mur, derrière le bureau du poète, est désormais visible dans les collections permanentes du Centre Pompidou."
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery et suivi de de _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
+            "duree": 26,
+            "format": "Numérique",
+            "version": "",
+            "ordre": 1
+          },
+          {
+            "idFilm": 154367,
+            "titre": "André Breton malgré tout",
+            "realisateurs": "Fabrice Maze",
+            "annee": 2003,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Ce second film, co-production avec Arte, présente les grandes étapes de la vie d'André Breton et du surréalisme rythmées par les documents d'archives et les photos de Gilles Ehrmann sur l'atelier du 42, rue Fontaine."
+              }
+            ],
+            "duree": 26,
+            "format": "Numérique",
+            "version": "",
+            "ordre": 2
+          },
+          {
+            "idFilm": 154369,
+            "titre": "Hôtel Drouot",
+            "realisateurs": "Fabrice Maze",
+            "annee": 2003,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Le document a été tourné la veille de la dispersion le 31 mars 2003 de l'atelier à l'Hôtel Drouot. Le contenu de l'atelier de 100 m2 se déploie dans toutes les salles du 1er étage, chaque salle présentant un thème. On se demande comment autant d'objets, de tableaux et de livres ont pu entrer dans ce modeste atelier ! C'est une promenade vertigineuse dans une collection d'une vie."
+              }
+            ],
+            "duree": 15,
+            "format": "Numérique",
+            "version": "",
+            "ordre": 3
           }
-        ]
-      },
-      {
-        "idFilm": 154368,
-        "typeEvenement": 13,
-        "titre": "Œil à l'état sauvage",
-        "art": "L'",
-        "realisateurs": "Fabrice Maze",
-        "annee": 2003,
-        "pays": "France",
-        "textes": [],
-        "duree": 26,
-        "format": "Numérique",
-        "version": "",
+        ],
         "seances": [
           {
             "idSeance": 101294,
-            "ordre": 1,
+            "ordre": 2,
             "dateHeure": "2023-06-22T18:30:00",
             "idSalle": [
               "JE",
               "Jean Epstein"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film suivi d'_André Breton malgré tout_ de Fabrice Maze, _Hôtel Drouot_ de Fabrice Maze"
+            "mention": "Séance présentée par Fabrice Maze",
+            "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 96141,
-        "typeEvenement": 13,
-        "titre": "Pauvre Cendrillon",
-        "titreVo": "Poor Cinderella",
-        "realisateurs": "Dave Fleischer",
-        "annee": 1934,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 10,
-        "format": "DCP",
-        "version": "",
-        "seances": [
+        "items": [
           {
-            "idSeance": 104150,
-            "ordre": 11,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 33073,
+            "titre": "Peter Ibbetson",
+            "realisateurs": "Henry Hathaway",
+            "annee": 1935,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Au 19e siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse."
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer et suivi de de _Betty atchoum_ de Dave Fleischer, _Pudgy pompier_ de Dave Fleischer, _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 46205,
-        "typeEvenement": 13,
-        "titre": "Perle",
-        "art": "La",
-        "realisateurs": "Henri d' Ursel",
-        "annee": 1928,
-        "pays": "Belgique",
-        "textes": [],
-        "generique": [
-          "Georges Hugnet",
-          "Kissa Kouprine",
-          "Mary Stutz"
-        ],
-        "duree": 20,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104151,
-            "ordre": 4,
-            "dateHeure": "2023-06-21T20:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "adaptation": "D'après le roman _Peter Ibbetson_ de George Du Maurier.  \nD'après la pièce de théâtre _Peter Ibbetson_ de John Nathaniel Raphael.",
+            "generique": [
+              "Gary Cooper",
+              "Ann Harding",
+              "John Halliday",
+              "Ida Lupino"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _La Fidélité des images_ de René Magritte, _Histoire de détective_ de Charles Dekeukeleire, _L'Imitation du cinéma_ de Marcel Mariën"
-          }
-        ]
-      },
-      {
-        "idFilm": 33073,
-        "typeEvenement": 13,
-        "titre": "Peter Ibbetson",
-        "realisateurs": "Henry Hathaway",
-        "annee": 1935,
-        "pays": "États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Au 19e siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse."
+            "duree": 85,
+            "format": "35 mm",
+            "version": "VOSTF",
+            "ordre": 1
           }
         ],
-        "adaptation": "D'après le roman _Peter Ibbetson_ de George Du Maurier.  \nD'après la pièce de théâtre _Peter Ibbetson_ de John Nathaniel Raphael.",
-        "generique": [
-          "Gary Cooper",
-          "Ann Harding",
-          "John Halliday",
-          "Ida Lupino"
-        ],
-        "duree": 85,
-        "format": "35 mm",
-        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 104030,
@@ -1177,38 +1052,44 @@
               "HL",
               "Henri Langlois"
             ],
-            "typeEvenement": 13
+            "typeAssoc": 118,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi dialogue p. xx"
           }
         ]
       },
       {
-        "idFilm": 34496,
-        "typeEvenement": 13,
-        "titre": "Portrait de Dorian Gray",
-        "art": "Le",
-        "titreVo": "Picture of Dorian Gray",
-        "artVo": "The",
-        "realisateurs": "Albert Lewin",
-        "annee": 1945,
-        "pays": "États-Unis",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Londres, 1886. Le peintre Basil Hallward réalise le portrait d'un jeune et bel aristocrate, Dorian Gray, qui formule le vœu d'une éternelle jeunesse ; seul son portrait vieillira."
-          },
-          {
-            "typeTexte": 99,
-            "texte": "Restauration 2K par Warner Bros. Pictures."
+            "idFilm": 34496,
+            "titre": "Portrait de Dorian Gray",
+            "art": "Le",
+            "titreVo": "Picture of Dorian Gray",
+            "artVo": "The",
+            "realisateurs": "Albert Lewin",
+            "annee": 1945,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Londres, 1886. Le peintre Basil Hallward réalise le portrait d'un jeune et bel aristocrate, Dorian Gray, qui formule le vœu d'une éternelle jeunesse ; seul son portrait vieillira."
+              },
+              {
+                "typeTexte": 99,
+                "texte": "Restauration 2K par Warner Bros. Pictures."
+              }
+            ],
+            "generique": [
+              "George Sanders",
+              "Angela Lansbury",
+              "Peter Lawford"
+            ],
+            "duree": 109,
+            "format": "DCP",
+            "version": "VOSTF",
+            "ordre": 1
           }
         ],
-        "generique": [
-          "George Sanders",
-          "Angela Lansbury",
-          "Peter Lawford"
-        ],
-        "duree": 109,
-        "format": "DCP",
-        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 101221,
@@ -1223,139 +1104,30 @@
         ]
       },
       {
-        "idFilm": 96222,
-        "typeEvenement": 13,
-        "titre": "Pudgy pompier",
-        "titreVo": "Ding Dong Doggie",
-        "realisateurs": "Dave Fleischer",
-        "annee": 1937,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 6,
-        "format": "DCP",
-        "version": "",
-        "seances": [
+        "items": [
           {
-            "idSeance": 104150,
-            "ordre": 13,
-            "dateHeure": "2023-06-24T17:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 154366,
+            "titre": "Within the Law",
+            "realisateurs": "Frank Lloyd",
+            "annee": 1923,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis, elle fait le vœu qu'à sa sortie, elle se vengera de ceux qui l'ont lésée."
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Day at the Zoo_ de Tex Avery, _A Haunted Mouse_ de Tex Avery, _Doggone Tired_ de Tex Avery, _Early Worm Gets the Bird_ de Tex Avery, _Hamateur Night_ de Tex Avery, _Hollywood Steps Out_ de Tex Avery, _I Wanna be a sailor_ de Tex Avery, _Jerky Turkey_ de Tex Avery, _Non ! Non ! Mille fois non !_ de Dave Fleischer, _Betty au pays des merveilles_ de Dave Fleischer, _Pauvre Cendrillon_ de Dave Fleischer, _Betty atchoum_ de Dave Fleischer et suivi de de _Betty et le petit roi_ de Dave Fleischer, _Halte au bruit_ de Dave Fleischer, _Candide candidat_ de Dave Fleischer"
-          }
-        ]
-      },
-      {
-        "idFilm": 62690,
-        "typeEvenement": 13,
-        "titre": "Ritual in Tranfigured Time",
-        "realisateurs": "Maya Deren",
-        "annee": 1945,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 14,
-        "format": "Numérique",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104173,
-            "ordre": 4,
-            "dateHeure": "2023-06-21T18:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "generique": [
+              "Norma Talmadge",
+              "Lew Cody",
+              "Jack Mulhall"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren et suivi de de _The Very Eye of Night_ de Maya Deren"
-          }
-        ]
-      },
-      {
-        "idFilm": 47197,
-        "typeEvenement": 13,
-        "titre": "Un chien andalou",
-        "realisateurs": "Luis Buñuel",
-        "annee": 1928,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près du balcon avant de trancher l'œil grand ouvert d'une jeune fille impassible."
+            "duree": 87,
+            "format": "35 mm",
+            "version": "INT. FR.",
+            "ordre": 1
           }
         ],
-        "generique": [
-          "Pierre Batcheff",
-          "Simone Mareuil",
-          "Salvador Dalí"
-        ],
-        "duree": 17,
-        "format": "DCP",
-        "version": "INT. FR.",
-        "seances": [
-          {
-            "idSeance": 101076,
-            "ordre": 4,
-            "dateHeure": "2023-06-14T20:00:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ],
-            "mention": "Ouverture de la rétrospective",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_At Land_ de Maya Deren, _L'Etoile de mer_ de Man Ray, _Meshes of the Afternoon_ de Maya Deren, Alexander Hackenschmied et suivi de d'_Entr'acte_ de René Clair"
-          }
-        ]
-      },
-      {
-        "idFilm": 62683,
-        "typeEvenement": 13,
-        "titre": "Very Eye of Night",
-        "art": "The",
-        "realisateurs": "Maya Deren",
-        "annee": 1952,
-        "pays": "États-Unis",
-        "textes": [],
-        "duree": 15,
-        "format": "Numérique",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104173,
-            "ordre": 5,
-            "dateHeure": "2023-06-21T18:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé d'_A Study in Choregraphy for the Camera_ de Maya Deren, _divine horsemen: The Living Gods of Haiti_ de Maya Deren, _Meditation on violence_ de Maya Deren, _Ritual in Tranfigured Time_ de Maya Deren"
-          }
-        ]
-      },
-      {
-        "idFilm": 154366,
-        "typeEvenement": 13,
-        "titre": "Within the Law",
-        "realisateurs": "Frank Lloyd",
-        "annee": 1923,
-        "pays": "États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis, elle fait le vœu qu'à sa sortie, elle se vengera de ceux qui l'ont lésée."
-          }
-        ],
-        "generique": [
-          "Norma Talmadge",
-          "Lew Cody",
-          "Jack Mulhall"
-        ],
-        "duree": 87,
-        "format": "35 mm",
-        "version": "INT. FR.",
         "seances": [
           {
             "idSeance": 101220,
@@ -1379,34 +1151,38 @@
       {
         "items": [
           {
-            "titre": "Film + Dialogue entre Dominique PaÏni et Dominique Rabourdin",
+            "titre": "Film + Dialogue entre Dominique Païni et Dominique Rabourdin",
             "textes": [
               {
                 "typeTexte": 9,
-                "texte": "Dès leur jeunesse, les futurs surréalistes se passionnent pour le cinéma et sa liberté sans limite : « Jamais aucun moyen d'expression n'a enregistré autant d'espoir que le cinéma », dit Benjamin Péret. « C'est là que se célèbre le seul mystère _absolument moderne_ », écrit André Breton. Et il ajoute, en novembre 1951, dans _L'Âge du cinéma_ : « Ce qu'il y a de plus spécifique dans les moyens du cinéma, c'est de toute évidence le pouvoir de concrétiser les puissances de l'amour qui restent malgré tout déficientes dans les livres, du seul fait que rien ne peut y rendre la séduction ou la détresse d'un regard – « ou de certains vertiges sans prix ». Quelles traines incomparables, à jamais étincelantes, laissent à cet égard dans le souvenir des films comme _Ah ! Le beau voyage_ \\[_A Little Journey_, Robert Z. Leonard, 1927\\] ou Peter Ibbetson et comme les chances suprêmes de la vie se tamisent sous leur rayon ! » Dans _L'Amour fou_, Breton est revenu sur la beauté de _Peter Ibbetson_, « ce film prodigieux, triomphe de la pensée surréaliste » – sans jamais citer son metteur en scène, Henry Hathaway. Il n'était pas adepte de la politique des auteurs... Quant à _Ah ! Le beau voyage_, tourné au temps du Muet, il est à ce jour considéré comme perdu..."
+                "texte": "Dès leur jeunesse, les futurs surréalistes se passionnent pour le cinéma et sa liberté sans limite : « Jamais aucun moyen d'expression n'a enregistré autant d'espoir que le cinéma », dit Benjamin Péret. « C'est là que se célèbre le seul mystère _absolument moderne_ », écrit André Breton. Et il ajoute, en novembre 1951, dans _L'Âge du cinéma_ : « Ce qu'il y a de plus spécifique dans les moyens du cinéma, c'est de toute évidence le pouvoir de concrétiser les puissances de l'amour qui restent malgré tout déficientes dans les livres, du seul fait que rien ne peut y rendre la séduction ou la détresse d'un regard – \"ou de certains vertiges sans prix\". Quelles traînes incomparables, à jamais étincelantes, laissent à cet égard dans le souvenir des films comme _Ah ! Le beau voyage_ (_A Little Journey_, Robert Z. Leonard, 1927) ou Peter Ibbetson et comme les chances suprêmes de la vie se tamisent sous leur rayon ! » Dans _L'Amour fou_, Breton est revenu sur la beauté de _Peter Ibbetson_, « ce film prodigieux, triomphe de la pensée surréaliste » – sans jamais citer son metteur en scène, Henry Hathaway. Il n'était pas adepte de la politique des auteurs... Quant à _Ah ! Le beau voyage_, tourné au temps du muet, il est à ce jour considéré comme perdu..."
               },
               {
                 "typeTexte": 156,
-                "texte": "**Dominique Païni** a dirigé la Cinémathèque française de 1991 à 2000. Essayiste, programmateur et commissaire d'expositions, il a publié plusieurs livres sur le cinéma. Avec l'historienne de l'art Alix Agret, il est commissaire de l'exposition « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars – 10 septembre 2023)."
+                "texte": "Dominique Païni a dirigé la Cinémathèque française de 1991 à 2000. Essayiste, programmateur et commissaire d'expositions, il a publié plusieurs livres sur le cinéma. Avec l'historienne de l'art Alix Agret, il est commissaire de l'exposition « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars–10 septembre 2023)."
               },
               {
                 "typeTexte": 156,
-                "texte": "**Dominique Rabourdin** est cinéphile – tendance Nickelodeon... –, critique, historien du cinéma et du surréalisme, réalisateur de célèbres émissions de télévision : _Archives du XXème siècle_, _Un siècle d'écrivains_, _André Breton par André Breton_, _Souvenirs de l'Âge d'or, Serge Daney – Itinéraire d'un ciné-fils_, _Quelques jours avec Douglas Sirk_, _Michel Bouquet – Ma vocation d'acteur_, _Krzysztof Kieślowski_, _Max Schoendorff_. En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place)."
+                "texte": "Dominique Rabourdin est cinéphile – tendance Nickelodeon –, critique, historien du cinéma et du surréalisme, réalisateur de célèbres émissions de télévision : _Archives du XX<sup>e</sup> siècle_, _Un siècle d'écrivains_, _André Breton par André Breton_, _Souvenirs de l'Âge d'or, Serge Daney, itinéraire d'un ciné-fils_, _Quelques jours avec Douglas Sirk_, _Michel Bouquet : Ma vocation d'acteur_, _Krzysztof Kieślowski_, _Max Schoendorff_. En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place)."
               }
             ],
-            "duree": 60
+            "duree": 60,
+            "ordre": 2
           }
         ],
         "seances": [
           {
-            "idSeance": 104183,
+            "idSeance": 104030,
+            "ordre": 2,
             "dateHeure": "2023-06-18T14:30:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
+            "typeAssoc": 118,
             "typeEvenement": 14,
-            "typeConference": "Dialogue"
+            "typeConference": "Dialogue",
+            "mentionRenvoi": "À la suite de la projection de _Peter Ibbetson_ de Henry Hathaway (voir p. xx)"
           }
         ]
       }
