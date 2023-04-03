@@ -29,8 +29,7 @@ Avec John Wayne, Joanne Dru, John Agar.
 de Jacques Tati  
 France-Italie / 1957 / 120 min / DCP  
 Avec Jacques Tati, Jean-Pierre Zola, Adrienne Servantie, Alain Bécourt.  
-[JP] D'un côté la maison ultra-moderne de la famille Arpel, de l'autre la drôle de maison tarabiscotée de monsieur Hulot... Entre les deux, le petit Gérard navigue et observe le drôle de manège des adultes.  
-« Je serais désolé que l'on puisse voir de la mesquinerie dans mon propos ; mon exigence est à la mesure de l'admiration que je porte à Tati et à_ Mon Oncle_. C'est parce que son art est si grand que notre adhésion se voudrait totale et c'est au fond parce que son film est trop réussi que nous sommes glacés d'effroi devant ce documentaire de demain. »
+[JP] D'un côté la maison ultra-moderne de la famille Arpel, de l'autre la drôle de maison tarabiscotée de monsieur Hulot... Entre les deux, le petit Gérard navigue et observe le drôle de manège des adultes.
 
 - me 14 juin 15h00 GF
 

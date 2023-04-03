@@ -199,7 +199,7 @@ de Fabrice Maze
 France / 2015 / 105 min / Numérique  
 Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe. Un couple mythique.
 
-- je 22 juin 20h15 JE  
+- je 22 juin 20h30 JE  
 Séance présentée par Fabrice Maze
 
 [30626]  

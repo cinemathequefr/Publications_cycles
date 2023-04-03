@@ -47,6 +47,70 @@ Avec l'aimable autorisation du Bressan Project et de l'American Genre Film Archi
 
 - ve 2 juin 19h00 JE
 
+## Conférence et films
+
+[154069]  
+**The Action**  
+de David Matarasso  
+France / 2012 / 4 min / 16 mm  
+Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.  
+suivi de  
+[154196]  
+**Essence d'absinthe**  
+de Yervant Gianikian, Angela Ricci Lucchi  
+Italie / 1981 / 15 min / Numérique  
+Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.  
+suivi de  
+[141217]  
+**Le Troisième œil**  
+d'André Almuró  
+France / 1989 / 22 min / Numérique  
+« Manifeste du cinéma haptique, qui pourrait aussi être résumé : "Tout l'univers bouleversé par une branlette." »  
+suivi de  
+[154062]  
+**Blind Porn**  
+d'Émilie Jouvet  
+France / 2005 / 4 min / Numérique  
+Fragments d'amour échevelés et sonores.
+
+- sa 3 juin 14h30 GF  
+Voir aussi conférence p. xx
+
+[154196]  
+**Essence d'absinthe**  
+de Yervant Gianikian, Angela Ricci Lucchi  
+Italie / 1981 / 15 min / Numérique  
+Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.
+
+- sa 3 juin 18h30 GF  
+Séance présentée par Stéphane Gérard et Lionel Soukaz
+
+[141217]  
+**Le Troisième œil**  
+d'André Almuró  
+France / 1989 / 22 min / Numérique  
+« Manifeste du cinéma haptique, qui pourrait aussi être résumé : "Tout l'univers bouleversé par une branlette." »
+
+- me 7 juin 17h30 JE
+
+[154062]  
+**Blind Porn**  
+d'Émilie Jouvet  
+France / 2005 / 4 min / Numérique  
+Fragments d'amour échevelés et sonores.
+
+- me 14 juin 18h00 JE  
+Séance présentée par Émilie Jouvet
+
+[154069]  
+**The Action**  
+de David Matarasso  
+France / 2012 / 4 min / 16 mm  
+Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.
+
+- ve 16 juin 18h30 JE  
+Séance présentée par Derek Woolfenden et David Matarasso
+
 ## Séance 25 : Décharges
 
 « _Ixe_ veut juste témoigner de ce qui s'est passé, d'un moment magique de réunion entre des femmes et des hommes qui veulent changer des choses en eux et autour d'eux. Mes œuvres vont peut-être disparaître mais ce qui compte c'est que j'ai vécu, que je sois avec vous ici ce soir et ça c'est irremplaçable. Et ça continuera. Il y aura d'autres gens comme vous, d'autres gens comme moi. On est dans une espèce de continuité humaine. Tout doit être vécu. » (Lionel Soukaz, 2011)
@@ -126,7 +190,8 @@ de Richard Kern
 Avec Carrie, Kembra Pfahler, Lisa Resurrection.  
 « Captation intime d'une expérience qui interroge les limites du corps, de l'érotisme et du supportable. Une prestation de cinéma-vérité qui réinscrit le personnel au cœur du cinéma de la transgression et de la scène artistique new-yorkaise. » (R. P.)
 
-- sa 3 juin 20h30 GF
+- sa 3 juin 20h30 GF  
+Séance présentée par Romain Pinteaux
 
 ## Séance 27 : Cabarets de la révolte
 
@@ -172,7 +237,7 @@ Suisse / 1986 / 53 min / DCP
 Avec Cleo Uebelmann.  
 « Devenu culte dans le SM underground, le film se confronte cependant au paradoxe du SM : le caractère consensuel de la relation. Mais ici, l'audience se demande si Domina et sa cliente sont une seule et même femme. » (Karen Smith)
 
-- di 4 juin 20h15 GF
+- di 4 juin 20h30 GF
 
 ## Séance 29 : Histoires des yeux
 
@@ -890,67 +955,5 @@ Cinéaste et docteur en esthétique et sciences de l'art à Paris-1, **Frédéri
 
 - sa 3 juin 14h30 GF  
 À la suite de la projection de _The Action_ de David Matarasso, _Blind Porn_ d'Émilie Jouvet, _Essence d'absinthe_ de Yervant Gianikian, Angela Ricci Lucchi, _Le Troisième œil_ d'André Almuró (voir p. xx)
-
-[154069]  
-**The Action**  
-de David Matarasso  
-France / 2012 / 4 min / 16 mm  
-Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.  
-suivi de  
-[154196]  
-**Essence d'absinthe**  
-de Yervant Gianikian, Angela Ricci Lucchi  
-Italie / 1981 / 15 min / Numérique  
-Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.  
-suivi de  
-[141217]  
-**Le Troisième œil**  
-d'André Almuró  
-France / 1989 / 22 min / Numérique  
-« Manifeste du cinéma haptique, qui pourrait aussi être résumé : "Tout l'univers bouleversé par une branlette." »  
-suivi de  
-[154062]  
-**Blind Porn**  
-d'Émilie Jouvet  
-France / 2005 / 4 min / Numérique  
-Fragments d'amour échevelés et sonores.
-
-- sa 3 juin 14h30 GF  
-Voir aussi conférence p. xx
-
-[154196]  
-**Essence d'absinthe**  
-de Yervant Gianikian, Angela Ricci Lucchi  
-Italie / 1981 / 15 min / Numérique  
-Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.
-
-- sa 3 juin 18h30 GF  
-Séance présentée par Stéphane Gérard et Lionel Soukaz
-
-[141217]  
-**Le Troisième œil**  
-d'André Almuró  
-France / 1989 / 22 min / Numérique  
-« Manifeste du cinéma haptique, qui pourrait aussi être résumé : "Tout l'univers bouleversé par une branlette." »
-
-- me 7 juin 17h30 JE
-
-[154062]  
-**Blind Porn**  
-d'Émilie Jouvet  
-France / 2005 / 4 min / Numérique  
-Fragments d'amour échevelés et sonores.
-
-- me 14 juin 18h00 JE  
-Séance présentée par Émilie Jouvet
-
-[154069]  
-**The Action**  
-de David Matarasso  
-France / 2012 / 4 min / 16 mm  
-Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.
-
-- ve 16 juin 18h30 JE  
-Séance présentée par Derek Woolfenden et David Matarasso
 
 Remerciements : Tous les cinéastes, ayants-droits, distributeurs, et particulièrement Florence Auffret, Robert Bonamy, Pascale Cassagnau, Go Hirasawa, Lung Chieh Lim, Frédéric Papon, MM Serra. ADAGP, American Genre Film Archives, Archives Françaises du Film, Arsenal – Institut für Film und Videokunst e.V., Avatar Films, Canyon Cinema Foundation, Capricci, CNC – Centre National du Cinéma et de l'image animée, Centre Pompidou (MNAM/CCI), Chicago Film Archives, Cinedoc, Cinemateca Uruguaya, Cinémathèque Royale de Belgique, Conner Family Trust (Michelle Silva), Danish Film Institute, Deutsche Kinemathek, Equinox Creative Group, Filmoteca de Catalunya – Departamento de Cultura, Filmoteca de Valencia, Filmoteca de Zaragoza, Gaumont Pathé Archives, Institut National du Sport, de l'Expertise et de la Performance, Japan Society, Kobe Planet, Le Fresnoy, Light Cone, Lux Distribution, Nanzuka Underground, Re:voir, Sixpackfilm, Svenska Filminstitutet, The Film-Makers' Cooperative, The Museum of Modern Art, Venin Films.

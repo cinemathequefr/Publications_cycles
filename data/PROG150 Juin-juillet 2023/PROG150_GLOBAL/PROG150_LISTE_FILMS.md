@@ -219,7 +219,7 @@
   * Dieux du stade, partie 2 : Jeunesse olympique (Les)  
   * Dix-septième parallèle (Le)  
   * Être et avoir  
-  * Fils du garde de chasse  
+  * Fils du garde de chasse (Le)  
   * Général Idi Amin Dada  
   * Glaneurs et la Glaneuse (Les)  
   * Hippocampe (L')  

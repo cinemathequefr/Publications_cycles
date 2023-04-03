@@ -25,7 +25,7 @@ Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liqui
 **Les Amours de la pieuvre**  
 de Jean Painlevé  
 France / 1965 / 13 min / DCP  
-Texte à saisir
+Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers.
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
@@ -117,7 +117,7 @@ Immersion au cœur de l'école d'un petit village d'Auvergne, dans son unique cl
 Séance présentée par Nicolas Philibert
 
 [154415]  
-**Fils du garde de chasse**  
+**Le Fils du garde de chasse**  
 d'Alice Guy  
 France / 1906 / 5 min / DCP  
 Un garde-chasse suscite la fierté de son fils aîné, tant et si bien que celui-ci aide son père à venir à bout de deux braconniers.
@@ -134,13 +134,13 @@ Portrait du général Idi Amin Dada, président à vie de l'Ouganda après son c
 
 - sa 1 juil 18h30 GF  
 Séance présentée par Barbet Schroeder (sous réserve)  
-Film précédé de _Fils du garde de chasse_ d'Alice Guy
+Film précédé de _Le Fils du garde de chasse_ d'Alice Guy
 
 [68649]  
 **Les Glaneurs et la Glaneuse**  
 d'Agnès Varda  
 France / 1999 / 82 min / DCP  
-Un peu partout en France, Agnès Varda a rencontré des glaneurs et des glaneuses. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant.
+Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant.
 
 - di 25 juin 18h30 HL
 
@@ -148,7 +148,7 @@ Un peu partout en France, Agnès Varda a rencontré des glaneurs et des glaneuse
 **L'Hippocampe**  
 de Jean Painlevé  
 France / 1933 / 16 min / DCP  
-Les images spectaculaires d'un hippocampe mâle enceinte donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante.
+Les images spectaculaires d'un hippocampe mâle enceint donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante.
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
@@ -156,7 +156,7 @@ Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liqui
 
 [53328]  
 **L'Homme à la caméra**  
-**(Celovek kinoapparatom)**  
+**(Tchelovek s kinoapparatom)**  
 de Dziga Vertov  
 URSS / 1929 / 70 min / INT. FR. / DCP  
 Un homme parcourt une ville avec une caméra en bandoulière, documentant la vie urbaine, le travail, les loisirs. Incontournable de l'avant-garde soviétique, entre expérimentations techniques et virtuosité du montage, le film est une mise en abîme du cinéma.
@@ -168,7 +168,7 @@ Un homme parcourt une ville avec une caméra en bandoulière, documentant la vie
 de Georges Franju  
 France / 1951 / 22 min / 35 mm  
 Avec Michel Simon.  
-Un film sur le Musée de l'armée à l'hôtel des Invalides, qui se transforme en réquisitoire contre la guerre.   
+Un film sur le musée de l'Armée à l'Hôtel des Invalides, qui se transforme en réquisitoire contre la guerre.  
 Copie neuve de la Cinémathèque française tirée en collaboration avec Gaumont.
 
 - lu 26 juin 20h00 GF  
@@ -241,7 +241,7 @@ Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ d
 **Nanouk l'esquimau**  
 **(Nanook of the North)**  
 de Robert J. Flaherty  
-États-Unis / 1920 / 50 min / INT. FR.  
+États-Unis / 1922 / 50 min / INT. FR.  
 Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo.
 
 - di 25 juin 14h30 HL  
@@ -249,11 +249,10 @@ Voir aussi dialogue p. xx
 
 [154375]  
 **La Pieuvre**  
-**(The Octopus)**  
 de Jean Painlevé  
 France / 1928 / 13 min / DCP  
 Étude de la pieuvre dans son habitat. Le premier documentaire de vulgarisation scientifique de Jean Painlevé.  
-La Pieuvre a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.
+_La Pieuvre_ a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.
 
 - me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg  
@@ -262,7 +261,7 @@ Film précédé de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liqui
 [56070]  
 **Pour la suite du monde**  
 de Pierre Perrault, Michel Brault  
-Canada / 1962 / 105 min / VOSTF / 35 mm  
+Canada / 1963 / 105 min / VOSTF / 35 mm  
 Documentaire poétique et ethnographique sur la vie des habitants de l'Isle-aux-Coudres, leur langue, et la légendaire pêche au marsouin. Abandonnée depuis trente-huit ans, la technique de pêche ancestrale est reconstituée pour le film par les habitants.
 
 - me 28 juin 20h30 GF  
@@ -289,7 +288,7 @@ Chronique de la campagne du futur président Kennedy et du sénateur Humphrey po
 [63749]  
 **Récréations**  
 de Claire Simon  
-France / 1991 / 54 min / DCP  
+France / 1993 / 54 min / DCP  
 Par l'observation distante d'une cour de récréation de maternelle, Claire Denis révèle les lois et la violence qui régissent ce petit monde de jeux enfantins.
 
 - di 9 juil 17h30 GF
@@ -297,8 +296,8 @@ Par l'observation distante d'une cour de récréation de maternelle, Claire Deni
 [60776]  
 **Reprise**  
 de Hervé Le Roux  
-France / 1995 / 180 min / DCP  
-Le 10 juin 1968, des étudiants en cinéma filment la reprise du travail aux usines Wonder de Saint-Ouen. Une jeune ouvrière dit qu'elle ne rentrera pas. Un quart de siècle plus tard, la recherche de cette femme prend le tour d'une enquête quasi-obsessionnelle.
+France / 1996 / 180 min / DCP  
+Le 10 juin 1968, des étudiants en cinéma filment la reprise du travail aux usines Wonder de Saint-Ouen. Une jeune ouvrière dit qu'elle ne rentrera pas. Un quart de siècle plus tard, la recherche de cette femme prend le tour d'une enquête quasi obsessionnelle.
 
 - sa 8 juil 14h30 GF  
 Voir aussi dialogue p. xx
@@ -306,7 +305,7 @@ Voir aussi dialogue p. xx
 [48632]  
 **Le Sang des bêtes**  
 de Georges Franju  
-France / 1948 / 21 min / DCP  
+France / 1949 / 21 min / DCP  
 Documentaire consacré aux abattoirs parisiens de Vaugirard et de la Villette dans les années d'après-guerre.  
 Franju dépasse le réalisme du reportage en installant une atmosphère poétique, voire fantastique.
 
@@ -317,7 +316,7 @@ Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ d
 [75848]  
 **Sobibor, 14 octobre 1943, 16 heures**  
 de Claude Lanzmann  
-France / 2000 / 95 min / DCP  
+France / 2001 / 95 min / DCP  
 Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre.
 
 - lu 3 juil 18h00 GF  
@@ -347,7 +346,7 @@ Film précédé de _Vues d'Espagne_ d'Alice Guy
 **Vues d'Espagne**  
 d'Alice Guy  
 France / 1905 / 10 min / DCP  
-Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparait à l'image.
+Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparaît à l'image.
 
 - sa 1 juil 20h45 GF  
 Séance présentée par Claire Atherton  
@@ -370,7 +369,9 @@ Séance présentée par Frederick Wiseman
 À la suite de la projection de _Nanouk l'esquimau_ de Robert J. Flaherty (voir p. xx)
 
 **Film + Dialogue avec Frédérique Berthet**  
-Rencontre animée par Bernard Benoliel
+Rencontre animée par Bernard Benoliel  
+« _Chronique d'un été_ remporte le prix de la critique internationale du festival de Cannes, puis sort discrètement en salle en France, à l'automne, le 20 octobre 1961. Il dure une heure vingt-six. Une petite vingtaine de participants y figurent. Ils ont accepté l'expérience mi-sérieuse mi-factieuse lancée par Rouch et Morin en 1960 : une recherche filmée sur la façon dont, à Paris, « on se débrouille avec la vie ». Marceline \[Loridan\] pourrait être une interprète parmi les autres. Pourtant, elle seule porte, dans _Chronique d'un été_, une histoire qui n'est pas celle de « tout le monde ». » « L'intuition du film : faire des lambeaux de souvenirs de Marceline les pièces magistralement ajustées d'un manteau ; une intuition qui va contribuer à ce que _Chronique_, selon la jolie formule qu'emploie Anatole Dauman en 1990, « défie les années ». » Frédérique Berthet, _La Voix manquante_, P.O.L, 2018  
+**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.
 
 - sa 1 juil 14h30 GF  
 À la suite de la projection de _Chronique d'un été_ de Jean Rouch, Edgar Morin, _La Marâtre_ d'Alice Guy (voir p. xx)

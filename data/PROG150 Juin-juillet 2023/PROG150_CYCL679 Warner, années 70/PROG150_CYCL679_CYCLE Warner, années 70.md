@@ -20,7 +20,7 @@ de Terrence Malick
 Avec Martin Sheen, Sissy Spacek, Warren Oates.  
 Holly, 15 ans, rencontre Kit, un jeune éboueur au chômage. Lorsque le père d'Holly s'oppose à leur amour, Kit le tue. Le jeune couple entame alors une cavale meurtrière sur les routes entre le Dakota du Sud et le Montana.
 
-- di 4 juin 19h45 HL
+- di 4 juin 20h00 HL
 
 [35805]  
 **Bonnie and Clyde**  
@@ -85,7 +85,7 @@ de Clint Eastwood
 Avec Clint Eastwood, Sondra Locke, Pat Hingle.  
 Le policier Ben Shockley est chargé de convoyer un suspect de Las Vegas à Phoenix. Il s'apercoit qu'il s'agit en réalité d'une femme que l'on cherche à supprimer à tout prix.
 
-- je 1 juin 16h00 GF  
+- je 1 juin 16h30 GF  
 Séance présentée par Bernard Benoliel
 
 [31698]  
@@ -97,7 +97,7 @@ D'après le roman _L'Exorciste_ de William Peter Blatty.
 Avec Linda Blair, Ellen Burstyn, Max von Sydow, Jason Miller, Lee J. Cobb.  
 Une adolescente présente tous les signes d'une possession diabolique. Un prêtre est appelé à son chevet pour combattre le démon qui s'est emparé d'elle.
 
-- di 4 juin 17h15 HL
+- di 11 juin 14h30 HL
 
 [35701]  
 **La Fugue**  
@@ -226,7 +226,7 @@ D'après le roman _L'Orange mécanique_ d'Anthony Burgess.
 Avec Malcolm McDowell, Adrienne Corri, Patrick Magee.  
 Dans une société futuriste, Alex, adolescent pervers, exerce avec sa bande une terreur aveugle sur tout son entourage. Après son arrestation, des psychiatres l'emploient comme cobaye d'une expérience censée éliminer les pulsions agressives.
 
-- di 11 juin 14h30 HL
+- di 4 juin 17h15 HL
 
 [35614]  
 **Rachel, Rachel**  
