@@ -2,7 +2,7 @@
 
 ## Cheng-Chui Kuo
 
-Un premier long métrage taïwanais contemplatif inédit en salles, un film d'errance sur une relation mère-fille complexe, par le réalisateur du court métrage multiprimé « Séance familiale ».
+Un premier long métrage taïwanais contemplatif inédit en salles, un film d'errance sur une relation complexe entre une mère et sa fille, par le réalisateur du court métrage multiprimé « Séance familiale ».
 
 [154402]  
 **Forêt Debussy**  
@@ -16,12 +16,8 @@ Séance suivie d'une discussion avec Cheng-Chui Kuo
 
 ## Courts métrages Arte (printemps-été 2023)
 
-[154404]  
-**Christopher At Sea**  
-de Tom CJ Brown  
-France-Grande-Bretagne-États-Unis / 2022 / 20 min / VOSTA / DCP  
-Christopher s'embarque pour un voyage transatlantique en tant que passager d'un cargo. Son espoir de découvrir ce qui attire tant d'hommes en mer l'entraîne dans un voyage vers la solitude, le fantasme et l'obsession.  
-suivi de  
+Une sélection de films courts récents coproduits par Arte, exprimant toute la diversité et l'éclectisme chers à la responsable du court métrage de la chaîne, Hélène Vayssières, qui présentera les films en présence des équipes.
+
 [154403]  
 **Coupeur de route**  
 de Christophe Granger  
@@ -29,17 +25,30 @@ France / 2022 / 21 min / DCP
 Avec Théo Augier Bonaventure, Aurélie Lannoy.  
 Nino, dix-neuf ans, est un vagabond des autoroutes. Il n'attend que l'été et le soleil pour pouvoir partir, faire la route, dormir dehors. Un jour, au détour d'une aire de repos, il rencontre Sarah.  
 suivi de  
-[154406]  
-**Les Dents du bonheur**  
-de Joséphine Darcy Hopkins  
-France / 2022 / 22 min / DCP  
-Avec Lou Deleuze, Katell Vavat, Pauline Lorillard.  
+[154404]  
+**Christopher At Sea**  
+de Tom CJ Brown  
+France-Grande-Bretagne-États-Unis / 2022 / 20 min / VOSTA / DCP  
+Christopher s'embarque pour un voyage transatlantique en tant que passager d'un cargo. Son espoir de découvrir ce qui attire tant d'hommes en mer l'entraîne dans un voyage vers la solitude, le fantasme et l'obsession.  
 suivi de  
 [154405]  
 **Jeanne Dinde**  
 de Pauline Ouvrard  
 France / 2022 / 22 min / DCP  
-Jeanne, 13 ans a pour seule amie la dinde qui vit dans son jardin qui l'incite à ne pas grandir pour ne pas se trahir.... Mais Jeanne a des désirs de changements ...
+Jeanne, 13 ans a pour seule amie la dinde qui vit dans son jardin qui l'incite à ne pas grandir pour ne pas se trahir.... Mais Jeanne a des désirs de changements ...  
+suivi de  
+[154424]  
+**27**  
+de Flóra Anna Buda  
+France-Hongrie / 2023 / 12 min / DCP  
+Alice a 27 ans et vit chez ses parents. Elle n'a ni vie privée, ni relation amoureuse. De retour à vélo de sa soirée d'anniversaire, elle a un accident. En sortant du coma, elle réalise qu'il est temps pour elle de partir.  
+suivi de  
+[154406]  
+**Les Dents du bonheur**  
+de Joséphine Darcy Hopkins  
+France / 2022 / 22 min / DCP  
+Avec Lou Deleuze, Katell Vavat, Pauline Lorillard.  
+Madeleine, huit ans, accompagne sa mère esthéticienne à domicile chez de nouvelles clientes. Arrivée à la maison, elle fait la connaissance d'Eugénie, Constance et Émeraude, qui l'invitent au sous-sol à participer à un cruel jeu de société.
 
 - lu 26 juin 20h00 JE
 
@@ -71,6 +80,8 @@ Changhyeon, une prostituée transgenre, rencontre un client qui lui semble à la
 - lu 3 juil 19h00 JE
 
 ## Thomas Bardinet
+
+Après la restauration de son film « Le Cri de Tarzan » montré en avril, place au nouveau film de l'insoumis du cinéma français, Thomas Bardinet. « La Sorcière et le martien » est un conte insolite dont l'artisanat de sa fabrication fait écho à la poésie du cinéma des premiers temps. C'est aussi un film qui célèbre l'amour du jeu (pris dans toute sa polysémie) et l'évocation de l'enfance.
 
 [154407]  
 **La Sorcière et le martien**  
