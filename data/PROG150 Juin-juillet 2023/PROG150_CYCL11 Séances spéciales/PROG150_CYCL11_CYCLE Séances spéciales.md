@@ -6,8 +6,8 @@
 **La Peau douce**  
 de François Truffaut  
 France / 1963 / 119 min  
-Avec Jean Desailly, Nelly Benedetti, Françoise Dorléac.  
-Pierre Lachenay, un homme marié rencontre Nicole, une hôtesse de l'air qui devient sa maîtresse. Franca, la femme de Pierre, se montre possessive et contribue par son attitude au renforcement de la liaison.  
+Avec Jean Desailly, Françoise Dorléac, Nelly Benedetti.  
+Pierre Lachenay, écrivain à succès et marié, entame une liaison avec Nicole, une hôtesse de l'air, sans parvenir à quitter sa femme.  
 _Version numérique restaurée en haute définition par MK2._
 
 - di 2 juil 14h30 GF  

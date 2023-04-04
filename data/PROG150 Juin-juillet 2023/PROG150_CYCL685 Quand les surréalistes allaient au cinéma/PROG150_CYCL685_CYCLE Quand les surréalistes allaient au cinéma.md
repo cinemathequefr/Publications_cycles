@@ -2,126 +2,45 @@
 
 ## Les films
 
-[154383]  
-**A Day at the Zoo**  
-de Tex Avery  
-États-Unis / 1939 / 7 min / DCP  
-suivi de  
-[154384]  
-**A Haunted Mouse**  
-de Tex Avery  
-États-Unis / 1941 / 6 min / DCP  
-suivi de  
-[154380]  
-**Doggone Tired**  
-de Tex Avery  
-États-Unis / 1949 / 7 min / DCP  
-suivi de  
-[154382]  
-**Early Worm Gets the Bird**  
-de Tex Avery  
-États-Unis / 1940 / 8 min / DCP  
-suivi de  
-[154378]  
-**Hamateur Night**  
-de Tex Avery  
-États-Unis / 1939 / 7 min / DCP  
-suivi de  
-[96333]  
-**Hollywood Steps Out**  
-de Tex Avery  
-États-Unis / 1941 / 8 min / VOSTF / DCP  
-Film de Tex Avery où de nombreux acteurs célèbres parmi lesquels Clark Gable, Henry Fonda, les Marx Brothers, Oliver Hardy et Buster Keaton se côtoient dans une soirée mondaine.  
-suivi de  
-[154379]  
-**I Wanna be a sailor**  
-de Tex Avery  
-États-Unis / 1937 / 7 min / DCP  
-suivi de  
-[154381]  
-**Jerky Turkey**  
-de Tex Avery  
-États-Unis / 1945 / 7 min / DCP  
-suivi de  
-[96185]  
-**Non ! Non ! Mille fois non !**  
-**(No ! No ! A Thousand Times No !)**  
-de Dave Fleischer  
-États-Unis / 1935 / 6 min / DCP  
-suivi de  
-[96145]  
-**Betty au pays des merveilles**  
-**(Betty in Blunderland)**  
-de Dave Fleischer  
-États-Unis / 1934 / 6 min / DCP  
-suivi de  
-[96141]  
-**Pauvre Cendrillon**  
-**(Poor Cinderella)**  
-de Dave Fleischer  
-États-Unis / 1934 / 10 min / DCP  
-suivi de  
-[96054]  
-**Betty atchoum**  
-**(Betty Boop's Ker-choo)**  
-de Dave Fleischer  
-États-Unis / 1933 / 6 min / DCP  
-suivi de  
-[96222]  
-**Pudgy pompier**  
-**(Ding Dong Doggie)**  
-de Dave Fleischer  
-États-Unis / 1937 / 6 min / DCP  
-suivi de  
-[96187]  
-**Betty et le petit roi**  
-**(Betty Boop and the Little King)**  
-de Dave Fleischer  
-États-Unis / 1936 / 6 min / DCP  
-suivi de  
-[96200]  
-**Halte au bruit**  
-**(Stop that Noise)**  
-de Dave Fleischer  
-États-Unis / 1935 / 6 min / DCP  
-suivi de  
-[96161]  
-**Candide candidat**  
-**(The Candid Candidate)**  
-de Dave Fleischer  
-États-Unis / 1937 / 5 min / DCP
+[154366]  
+**À l'abri des lois**  
+de Frank Lloyd  
+États-Unis / 1923 / 87 min / INT. FR. / 35 mm  
+D'après la pièce _Within the Law_ de Bayard Veiller.  
+Avec Norma Talmadge, Lew Cody, Jack Mulhall.  
+Mary Turner, envoyée en prison pour un crime qu'elle n'a pas commis, fait le vœu de se venger à sa sortie, mais dans le respect des lois.
 
-- sa 17 juin 15h00 GF
+- lu 19 juin 18h00 GF
 
 [62680]  
 **A Study in Choregraphy for the Camera**  
 de Maya Deren  
 États-Unis / 1945 / 3 min / VOSTF / Numérique  
-A STUDY IN CHOREOGRAPHY FOR CAMERA est le résultat d'une tentative de dégager le danseur de l'espace statique de la scène d'un théâtre vers un espace qui serait aussi mobile et volatile que lui-même.  
+Une tentative de dégager le danseur de l'espace statique de la scène d'un théâtre vers un espace qui serait aussi mobile et volatile que lui-même.  
 suivi de  
 [154372]  
-**divine horsemen: The Living Gods of Haiti**  
+**Divine Horsemen: The Living Gods of Haiti**  
 de Maya Deren  
 États-Unis / 1947 / 55 min / VOSTF / Numérique  
-Le film montre les rites de trois cultes haïtiens: Rada, Petro et Congo, dont l'origine est africaine. Ces rites mettent en scène des sacrifices (poulets, chèvres) et des transes.  
+Exposition des rites de trois cultes haïtiens, Rada, Petro et Congo, d'origine africaine, et qui mettent en scène des sacrifices (poulets, chèvres) et des transes.  
 suivi de  
 [62682]  
 **Meditation on violence**  
 de Maya Deren  
 États-Unis / 1948 / 10 min / VOSTF / Numérique  
-Comme les mouvements de la boxe chinoise sont des « énoncés » physiques de certains concepts métaphysiques, le film MEDITATION ON VIOLENCE est, en termes cinématographiques, un exposé de ces mêmes concepts utilisant les mouvements physiques comme un moyen visuel parmi d'autres.  
+Entre ralentis et gestes figés, une étude du mouvement cinématographique à partir des mouvements traditionnels des écoles de boxe chinoises Wu Tang et Shao Lin.  
 suivi de  
 [62690]  
 **Ritual in Tranfigured Time**  
 de Maya Deren  
 États-Unis / 1945 / 14 min / VOSTF / Numérique  
-RITUAL IN TRANSFIGURED TIME développe plus avant cette idée de créer de la danse à partir d'éléments extérieurs à celle-ci.  
+Comment créer de la danse à partir d'éléments qui lui sont extérieurs.  
 suivi de  
 [62683]  
 **The Very Eye of Night**  
 de Maya Deren  
 États-Unis / 1952 / 15 min / VOSTF / Numérique  
-Le thème de ce film est le monde intérieur de l'homme, dans lequel il entre au moment où il s'endort.
+Exploration du monde intérieur de l'homme, dans lequel il entre au moment où il s'endort.
 
 - me 21 juin 18h00 GF  
 Séance présentée par Dominique Païni
@@ -131,7 +50,7 @@ Séance présentée par Dominique Païni
 de Luis Buñuel  
 France / 1930 / 63 min / DCP  
 Avec Lya Lys, Gaston Modot, Max Ernst, Pierre Prévert.  
-La force du désir éprouvé par un couple bouscule et renverse l'ordre social. « Un film d'inspiration bolchevique, _L'Âge d'or_, attaquant la religion, la patrie et la famille, était projeté depuis plusieurs jours. Plusieurs commissaires de la Ligue des Patriotes [ont] sifflé ce film obscène. » (communiqué de la Ligue, 6 décembre 1930)  
+La force du désir éprouvé par un couple bouscule et renverse l'ordre social.  
 Scénario coécrit par Luis Buñuel et Salvador Dalí.
 
 - je 15 juin 19h00 HL  
@@ -141,7 +60,7 @@ Séance présentée par Dominique Païni
 **At Land**  
 de Maya Deren  
 États-Unis / 1944 / 14 min / Numérique  
-AT LAND investit l'idée du temps et de l'espace du 19ème siècle.  
+L'idée du temps et de l'espace du XIX<sup>e</sup> siècle.  
 suivi de  
 [53940]  
 **L'Etoile de mer**  
@@ -149,17 +68,13 @@ de Man Ray
 France / 1928 / 12 min / 35 mm  
 D'après le poème _Etoile de mer_ de Robert Desnos.  
 Avec Robert Desnos, Kiki de Montparnasse.  
-Inspirée par un poème de Robert Desnos, une succession d'images oniriques.
-
----
-
-« Le cinéma semblait avoir tout découvert, y compris l'invisible. C'est alors que de nouveaux venus s'emparèrent de l'écran. Fernand Léger, Man Ray, Buñuel et Dalí nous apportèrent la preuve que rien n'était encore trouvé, puis ils s'en allèrent comme ils étaient venus. »  
+Succession d'images oniriques, inspirées par un poème de Robert Desnos.  
 suivi de  
 [62687]  
 **Meshes of the Afternoon**  
 de Maya Deren, Alexander Hackenschmied  
 États-Unis / 1943 / 14 min / Numérique  
-Ce premier film se rapporte aux liens existant entre l'imaginaire et la réalité objective. Le film commence dans la réalité pour se terminer dans celle-ci.  
+Étude des liens existant entre l'imaginaire et la réalité objective.  
 suivi de  
 [47197]  
 **Un chien andalou**  
@@ -193,18 +108,18 @@ Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons
 **(The Most Dangerous Game)**  
 d'Ernest B. Schoedsack, Irving Pichel  
 États-Unis / 1932 / 63 min / VOSTF / DCP  
-D'après la nouvelle _The Most dangerous game_ de Richard Connell.  
+D'après la nouvelle _The Most Dangerous Game_ de Richard Connell.  
 Avec Joel McCrea, Fay Wray, Robert Armstrong.  
-Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte du gibier humain.
+Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte de la capture de gibier humain.
 
 - di 18 juin 17h45 HL
 
 [154373]  
-**Claude Cahun – Elle et Suzanne**  
+**Claude Cahun : Elle et Suzanne**  
 **(Elle et Suzanne)**  
 de Fabrice Maze  
 France / 2015 / 105 min / Numérique  
-Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe. Un couple mythique.
+Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe.
 
 - je 22 juin 20h30 JE  
 Séance présentée par Fabrice Maze
@@ -214,8 +129,9 @@ Séance présentée par Fabrice Maze
 **(The River)**  
 de Frank Borzage  
 États-Unis / 1929 / 96 min / INT. FR. / 16 mm  
+D'après le roman _The River_ de Tristram Tupper.  
 Avec Mary Duncan, Charles Farrell, Ivan Linow.  
-Une jeune femme dont l'amant est emprisonné pour meurtre, rencontre un jeune homme vagabond. ils sympathisent et peu à peu un sentiment amoureux naît entre eux tandis que la jeune femme est « surveillée » par le corbeau qu'a laissé dans ce but son amant
+Mary Duncan, dont l'amant est emprisonné pour meurtre, rencontre un vagabond. Peu à peu naît entre eux un sentiment amoureux, mais la jeune femme est surveillée par un corbeau censé lui rappeler qu'elle ne doit s'approcher d'aucun homme.
 
 - sa 17 juin 18h00 HL
 
@@ -229,21 +145,21 @@ suivi de
 de Charles Dekeukeleire  
 Belgique / 1929 / 50 min / DCP  
 Avec Pierre Bourgeois.  
-Une femme inquiète du comportement de son mari, trop souvent absent, demande à un détective de le suivre et de lui faire un rapport.  
+Inquiète du comportement de son mari, trop souvent absent, une femme demande à un détective de le suivre et de lui faire un rapport.  
 suivi de  
 [82660]  
 **L'Imitation du cinéma**  
 de Marcel Mariën  
 Belgique / 1959 / 37 min  
 Avec Tom Gutt, Ulysse Pétian, Suzanne Bourgoigne.  
-Un jeune homme reçoit d'un prêtre L'imitation de Jésus-Christ. Il le lit avec une telle ferveur qu'il n'a qu'une idée en tête : se faire crucifier.  
+Un jeune homme reçoit d'un prêtre _L'imitation de Jésus-Christ._ Il le lit avec une telle ferveur qu'il n'a qu'une idée en tête : se faire crucifier.  
 suivi de  
 [46205]  
 **La Perle**  
-de Henri d' Ursel  
+de Henri d'Ursel  
 Belgique / 1928 / 20 min / DCP  
 Avec Georges Hugnet, Kissa Kouprine, Mary Stutz.  
-Ce film onirique est un clin d'œil aux ciné-romans de Feuillade, avec comme toile de fond le vol d'un collier de perles.
+Un clin d'œil aux ciné-romans de Louis Feuillade, avec comme toile de fond le vol d'un collier de perles.
 
 - me 21 juin 20h30 GF  
 Séance présentée par Dominique Païni
@@ -274,7 +190,8 @@ Copie avec musique.
 **King Kong**  
 de Merian C. Cooper, Ernest B. Schoedsack  
 États-Unis / 1933 / 100 min / VO / DCP  
-Avec Fay Wray, Robert Armstrong, Bruce Cabot.
+Avec Fay Wray, Robert Armstrong, Bruce Cabot.  
+Une équipe de cinéastes se rend en Malaisie avec la blonde vedette Ann Darow. Il s'agit d'atteindre Skull Island, une île où les indigènes vénèrent un animal monstrueux, King Kong. À peine arrivée, Ann est capturée par les autochtones qui l'offrent à leur dieu.
 
 - di 18 juin 19h15 HL
 
@@ -290,7 +207,7 @@ Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriét
 - ve 16 juin 20h00 HL
 
 [30930]  
-**La Monstrueuse parade**  
+**La Monstrueuse Parade**  
 **(Freaks)**  
 de Tod Browning  
 États-Unis / 1932 / 64 min / VOSTF / DCP  
@@ -298,29 +215,25 @@ D'après le roman _Spurs_ de Tod Robbins.
 Avec Wallace Ford, Leila Hyams, Olga Baclanova.  
 Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher.
 
----
-
-Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher. _« Contrairement à la plupart des cinéastes hollywoodiens, qui sont sans descendance réelle, c'est l'extrême singularité de la vision du monde de Tod Browning qui, peu à peu et avec la nécessité économique d'en administrer des preuves matérielles indiscutables, affirma son être de cinéaste. C'est en cela qu'il est, sinon moderne, du moins notre contemporain. »_
-
 - ve 16 juin 18h00 HL
 
 [154368]  
 **L'Œil à l'état sauvage**  
 de Fabrice Maze  
 France / 2003 / 26 min / Numérique  
-Il s'agit du seul film au monde qui dévoile l'atelier mythique du 42 rue Fontaine. C'est une promenade ou un rêve éveillé dans l'univers magique de Breton constitué de centaines d'objets, de tableaux, de témoignages de l'art océanien et africain, de poèmes-objets, d'innombrables livres et manuscrits. Cet atelier, qui aurait pu devenir un musée, a été dispersé en 2003 à l'hôtel Drouot. Le mur, derrière le bureau du poète, est désormais visible dans les collections permanentes du Centre Pompidou.  
+Une promenade, rêve éveillé, au cœur de l'atelier mythique du 42 rue Fontaine. L'univers magique de Breton est constitué de centaines d'objets, de tableaux, de témoignages de l'art océanien et africain, de poèmes-objets, d'innombrables livres et manuscrits.  
 suivi de  
 [154367]  
 **André Breton malgré tout**  
 de Fabrice Maze  
 France / 2003 / 26 min / Numérique  
-Ce second film, co-production avec Arte, présente les grandes étapes de la vie d'André Breton et du surréalisme rythmées par les documents d'archives et les photos de Gilles Ehrmann sur l'atelier du 42, rue Fontaine.  
+Les grandes étapes de la vie d'André Breton et du surréalisme rythmées par les documents d'archives et les photos de Gilles Ehrmann sur l'atelier du 42, rue Fontaine.  
 suivi de  
 [154369]  
 **Hôtel Drouot**  
 de Fabrice Maze  
 France / 2003 / 15 min / Numérique  
-Le document a été tourné la veille de la dispersion le 31 mars 2003 de l'atelier à l'Hôtel Drouot. Le contenu de l'atelier de 100 m2 se déploie dans toutes les salles du 1er étage, chaque salle présentant un thème. On se demande comment autant d'objets, de tableaux et de livres ont pu entrer dans ce modeste atelier ! C'est une promenade vertigineuse dans une collection d'une vie.
+Document tourné la veille de la dispersion, le 31 mars 2003, de l'atelier à l'Hôtel Drouot. Le contenu de l'atelier de 100 m<sup>2</sup> se déploie dans toutes les salles du 1<sup>er</sup> étage, chacune d'elles présentant un thème différent.
 
 - je 22 juin 18h30 JE  
 Séance présentée par Fabrice Maze
@@ -330,9 +243,8 @@ Séance présentée par Fabrice Maze
 de Henry Hathaway  
 États-Unis / 1935 / 85 min / VOSTF / 35 mm  
 D'après le roman _Peter Ibbetson_ de George Du Maurier.  
-D'après la pièce de théâtre _Peter Ibbetson_ de John Nathaniel Raphael.  
 Avec Gary Cooper, Ann Harding, John Halliday, Ida Lupino.  
-Au 19e siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse.
+Au XIX<sup>e</sup> siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse.
 
 - di 18 juin 14h30 HL  
 Voir aussi dialogue p. xx
@@ -348,14 +260,117 @@ Restauration 2K par Warner Bros. Pictures.
 
 - lu 19 juin 20h00 GF
 
-[154366]  
-**Within the Law**  
-de Frank Lloyd  
-États-Unis / 1923 / 87 min / INT. FR. / 35 mm  
-Avec Norma Talmadge, Lew Cody, Jack Mulhall.  
-Lorsque Mary Turner est envoyée en prison pour un crime qu'elle n'a pas commis, elle fait le vœu qu'à sa sortie, elle se vengera de ceux qui l'ont lésée.
+[154383]  
+**Une journée au zoo**  
+**(A Day at the Zoo)**  
+de Tex Avery  
+États-Unis / 1939 / 7 min / DCP  
+Au zoo, de nombreux animaux se comportent étrangement.  
+suivi de  
+[154384]  
+**A Haunted Mouse**  
+de Tex Avery  
+États-Unis / 1941 / 6 min / DCP  
+Courses-poursuites entre un chat et une souris fantômes.  
+suivi de  
+[154380]  
+**Le Coup du lapin**  
+**(Doggone Tired)**  
+de Tex Avery  
+États-Unis / 1949 / 7 min / DCP  
+Speedy, un chien de chasse, a besoin d'une bonne nuit de repos s'il veut être prêt pour chasser un lapin à l'aube. Celui-ci fait tout son possible pour le tenir éveillé.  
+suivi de  
+[154382]  
+**Early Worm Gets the Bird**  
+de Tex Avery  
+États-Unis / 1940 / 8 min / DCP  
+Un oisillon s'échappe de son nid pour chasser le ver. Mais quand surgit le méchant renard, le petit ver n'écoute que son courage et sauve de ses griffes celui qui le pourchassait.  
+suivi de  
+[154378]  
+**Un crochet qui accroche**  
+**(Hamateur Night)**  
+de Tex Avery  
+États-Unis / 1939 / 7 min / DCP  
+Un concours d'amateurs réunit un pianiste chevelu, un chanteur ringard, un fakir, une puce qui parle, un morse et son chien savant, et bien d'autres créatures farfelues.  
+suivi de  
+[96333]  
+**Une soirée hollywoodienne**  
+**(Hollywood Steps Out)**  
+de Tex Avery  
+États-Unis / 1941 / 8 min / VOSTF / DCP  
+De nombreux acteurs célèbres parmi lesquels Clark Gable, Henry Fonda, les Marx Brothers, Oliver Hardy et Buster Keaton se côtoient dans une soirée mondaine.  
+suivi de  
+[154379]  
+**Un marin d'eau douce**  
+**(I Wanna Be a Sailor)**  
+de Tex Avery  
+États-Unis / 1937 / 7 min / DCP  
+Contre la volonté de sa mère, un jeune perroquet veut devenir marin. Il s'enfuit de chez lui et gagne l'océan avec un canard.  
+suivi de  
+[154381]  
+**Jerky Turkey**  
+de Tex Avery  
+États-Unis / 1945 / 7 min / DCP  
+Course-poursuite entre un pèlerin et une dinde de Thanksgiving.  
+suivi de  
+[96185]  
+**Non ! Non ! Mille fois non !**  
+**(No! No! A Thousand Times No!)**  
+de Dave Fleischer  
+États-Unis / 1935 / 6 min / DCP  
+Betty Boop se produit sur scène avec son petit ami, Freddy, et un méchant moustachu qui tente de la charmer et la kidnappe.  
+suivi de  
+[96145]  
+**Betty au pays des merveilles**  
+**(Betty in Blunderland)**  
+de Dave Fleischer  
+États-Unis / 1934 / 6 min / DCP  
+Le lapin blanc se matérialise à partir d'un puzzle et conduit Betty Boop à travers le miroir au pays des merveilles.  
+suivi de  
+[96141]  
+**Pauvre Cendrillon**  
+**(Poor Cinderella)**  
+de Dave Fleischer  
+États-Unis / 1934 / 10 min / DCP  
+Adaptation du conte de _Cendrillon_, avec Betty Boop en vedette.  
+suivi de  
+[96054]  
+**Betty Atchoum**  
+**(Betty Boop's Ker-choo)**  
+de Dave Fleischer  
+États-Unis / 1933 / 6 min / DCP  
+Une grande course automobile est organisée. Les concurrents sont prêts au départ et n'attendent plus que Betty, qu'un mauvais rhume met en retard.  
+suivi de  
+[96222]  
+**Pudgy pompier**  
+**(Ding Dong Doggie)**  
+de Dave Fleischer  
+États-Unis / 1937 / 6 min / DCP  
+Contre les ordres de Betty Boop, Pudgy le Chiot accompagne un chien pompier dalmatien sur un incendie.  
+suivi de  
+[96187]  
+**Betty et le petit roi**  
+**(Betty Boop and the Little King)**  
+de Dave Fleischer  
+États-Unis / 1936 / 6 min / DCP  
+Un spectacle d'opéra est organisé pour le Petit Roi, mais le monarque s'ennuie. En quête d'un meilleur divertissement, il repère un panneau qui annonce une représentation de Betty Boop.  
+suivi de  
+[96200]  
+**Halte au bruit**  
+**(Stop that Noise)**  
+de Dave Fleischer  
+États-Unis / 1935 / 6 min / DCP  
+Betty Boop, insomniaque, ne supporte plus le bruit de la ville et part à la campagne pour y trouver un peu de tranquillité.  
+suivi de  
+[96161]  
+**Candide candidat**  
+**(The Candid Candidate)**  
+de Dave Fleischer  
+États-Unis / 1937 / 5 min / DCP  
+Betty Boop se bat pour promouvoir la nomination de son grand-père Grampy à la mairie.
 
-- lu 19 juin 18h00 GF
+- sa 17 juin 15h00 GF  
+Séance présentée par Dominique Païni
 
 ## Rencontres et conférences
 

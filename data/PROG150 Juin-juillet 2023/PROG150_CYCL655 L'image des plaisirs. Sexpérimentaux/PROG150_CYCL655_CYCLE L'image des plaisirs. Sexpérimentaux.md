@@ -726,7 +726,8 @@ France / 2009 / 85 min / DCP
 Avec Coralie Trinh-Thi, Lydia Lunch.  
 « _Mutantes_ propose un portrait extensif du mouvement pro-sexe en Occident, laissant s'exprimer les travailleuses du sexe, leur conférant une agentivité et une subjectivité que la pornographie traditionnelle leur refuse. » (Cédric Trahan)
 
-- je 15 juin 18h00 JE
+- je 15 juin 18h00 JE  
+Séance présentée par Zoulikha Bouabdellah
 
 ## Séance 42 : Visites aux images
 

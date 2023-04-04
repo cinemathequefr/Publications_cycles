@@ -46,6 +46,18 @@ Dernier court métrage de François de Roubaix, sorti à titre posthume.
 - me 28 juin 19h00 JE  
 Séance présentée par Jean-Yves Guilleux
 
+[154418]  
+**François de Roubaix : un portrait au présent**  
+de Gaëtan Chataigner, Christophe Conte  
+France / 2014 / 54 min / DCP  
+suivi de  
+[154419]  
+**Françoisderoubaix.fan's**  
+de Patricia De Roubaix  
+France / 2009 / 24 min / Numérique
+
+- je 29 juin 19h00 JE
+
 [50109]  
 **La Grande Lessive**  
 de Jean-Pierre Mocky  

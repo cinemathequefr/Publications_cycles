@@ -21,6 +21,7 @@ Stanley vit mal son rôle de futur grand-père, tandis que son épouse ne cache 
 
 - lu 10 juil 20h00 GF  
 Film précédé de _Histoire de trois amours : Mademoiselle_ de Vincente Minnelli  
+- lu 24 juil 21h15 GF  
 - me 26 juil 20h00 HL
 
 [35257]  
@@ -41,7 +42,6 @@ d'Alice Guy
 France / 1897 / 1 min / INT. FR. / DCP
 
 - sa 1 juil 17h30 HL  
-Séance présentée par Dominique Païni  
 Film suivi de _Yolanda et le Voleur_ de Vincente Minnelli
 
 [35211]  
@@ -159,7 +159,7 @@ La jeune Gigi, élevée par sa grand-mère et sa grand-tante, est destinée à l
 **Histoire de trois amours : Mademoiselle**  
 **(The Story of Three Loves: Mademoiselle)**  
 de Vincente Minnelli  
-États-Unis / 1952 / 32 min / VOSTF / 35 mm  
+États-Unis / 1952 / 122 min / VOSTF / 35 mm  
 Avec Leslie Caron, Ethel Barrymore, Farley Granger.  
 À bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour.
 
@@ -299,7 +299,7 @@ Avec Judy Garland, Robert Walker, Lucille Bremer.
 En 1927, Jerome Kern remporte un véritable succès avec le spectacle _Show Boat_. Riche et célèbre, il se retourne sur son passé et se souvient de ceux qui l'ont aidé tout au long de son parcours vers la réussite.
 
 - di 16 juil 14h30 HL  
-- lu 24 juil 19h30 GF
+- lu 24 juil 18h30 GF
 
 [34955]  
 **Qu'est-ce que maman comprend à l'amour ?**  
@@ -440,7 +440,6 @@ Avec Fred Astaire, Lucile Bremer, Frank Morgan.
 Johnny, un petit voleur, usurpe l'identité de Candle, ange gardien auprès de la riche et belle Yolanda, afin de lui dérober ses biens.
 
 - sa 1 juil 17h30 HL  
-Séance présentée par Dominique Païni  
 Film précédé de _Baignade dans un torrent_ d'Alice Guy  
 - ve 21 juil 20h30 HL
 

@@ -54,7 +54,9 @@ Madeleine, huit ans, accompagne sa mère esthéticienne à domicile chez de nouv
 
 ## Carte blanche au Busan International Short Film Festival
 
-Pour son 40e anniversaire nous accueillons le Festival International du Court Métrage de Busan (BISFF) et la reprise des films coréens primés lors des trois dernières éditions. Des œuvres singulières, éclectiques et inédites.
+A l'occasion de son 40e anniversaire, nous accueillons le Festival International du Court Métrage de Busan (BISFF) pour la reprise des films coréens primés lors des trois dernières éditions. Des œuvres singulières, éclectiques et inédites, à découvrir.
+
+Les titres deux films primés lors de l'édition 2023 du BISFF seront consultables à partir du 5 mai sur www.cinematheque.fr Merci au BISFF
 
 [154421]  
 **Georgia**  

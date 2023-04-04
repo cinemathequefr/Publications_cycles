@@ -150,7 +150,7 @@ Afin de regagner l'honneur de sa famille, Chen Ku Yung dérobe à Lu Tai Yeh le 
 **(Long She Hun za)**  
 de Lau Chan, Lu Shun Ku  
 Hong-Kong / 1974 / 94 min / 35 mm  
-Avec Jason Piao Pai, Chun-Ku Lu, Lau Chan.
+Avec Jason Piao Pai, Chun-Ku Lu, Lau Chan, Jean-François Rauger.
 
 - ve 21 juil 21h00 GF
 

@@ -20,8 +20,7 @@ de Terrence Malick
 Avec Martin Sheen, Sissy Spacek, Warren Oates.  
 Holly, 15 ans, rencontre Kit, un jeune éboueur au chômage. Lorsque le père de Holly s'oppose à leur amour, Kit le tue. Le jeune couple entame alors une cavale meurtrière sur les routes entre le Dakota du Sud et le Montana.
 
-- sa 17 juin 14h30 HL  
-Séance présentée par Nadav Lapid
+- di 4 juin 20h15 HL
 
 [35805]  
 **Bonnie and Clyde**  
@@ -249,7 +248,7 @@ D'après le roman _Shining : L'Enfant lumière_ de Stephen King.
 Avec Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers.  
 L'auteur Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.
 
-- di 4 juin 20h15 HL
+- sa 17 juin 14h30 HL
 
 [34631]  
 **THX 1138**  

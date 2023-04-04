@@ -72,13 +72,15 @@
   * Rome plutôt que vous  
   * Traversée de l'Amérique du Sud en automobile (La)
 
-## François de Roubaix (15)
+## François de Roubaix (17)
 
   * Aventuriers (Les)  
   * Comment ça va ? J'm'en fous  
   * Dernier domicile connu  
   * Far from Dallas  
   * François de Roubaix, l'aventurier  
+  * François de Roubaix : un portrait au présent  
+  * Françoisderoubaix.fan's  
   * Gobbo (Le)  
   * Grande Lessive (La)  
   * Grandes Gueules (Les)  
@@ -277,41 +279,38 @@
 
 ## Quand les surréalistes allaient au cinéma (46)
 
-  * A Day at the Zoo  
   * A Haunted Mouse  
+  * À l'abri des lois  
   * A Study in Choregraphy for the Camera  
   * Âge d'or (L')  
   * André Breton malgré tout  
   * At Land  
-  * Betty atchoum  
+  * Betty Atchoum  
   * Betty au pays des merveilles  
   * Betty et le petit roi  
   * Candide candidat  
   * Cet obscur objet du désir  
   * Chasse du comte Zaroff (La)  
-  * Claude Cahun – Elle et Suzanne  
-  * divine horsemen: The Living Gods of Haiti  
-  * Doggone Tired  
+  * Claude Cahun : Elle et Suzanne  
+  * Coup du lapin (Le)  
+  * Divine Horsemen: The Living Gods of Haiti  
   * Early Worm Gets the Bird  
   * Entr'acte  
   * Etoile de mer (L')  
   * Femme au corbeau (La)  
   * Fidélité des images (La)  
   * Halte au bruit  
-  * Hamateur Night  
   * Hellzapoppin  
   * Heure suprême (L')  
   * Histoire de détective  
-  * Hollywood Steps Out  
   * Hôtel Drouot  
-  * I Wanna be a sailor  
   * Imitation du cinéma (L')  
   * Jerky Turkey  
   * King Kong  
   * Loulou  
   * Meditation on violence  
   * Meshes of the Afternoon  
-  * Monstrueuse parade (La)  
+  * Monstrueuse Parade (La)  
   * Non ! Non ! Mille fois non !  
   * Œil à l'état sauvage (L')  
   * Pauvre Cendrillon  
@@ -321,8 +320,11 @@
   * Pudgy pompier  
   * Ritual in Tranfigured Time  
   * Un chien andalou  
-  * Very Eye of Night (The)  
-  * Within the Law
+  * Un crochet qui accroche  
+  * Un marin d'eau douce  
+  * Une journée au zoo  
+  * Une soirée hollywoodienne  
+  * Very Eye of Night (The)
 
 ## Séances spéciales (1)
 
