@@ -161,7 +161,8 @@ La jeune Gigi, élevée par sa grand-mère et sa grand-tante, est destinée à l
 de Vincente Minnelli  
 États-Unis / 1952 / 32 min / VOSTF / 35 mm  
 Avec Leslie Caron, Ethel Barrymore, Farley Granger.  
-À bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour.
+À bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour.  
+Segment réalisé par Minnelli du film à sketches _Histoire de trois amours_.
 
 - lu 10 juil 20h00 GF  
 Film suivi d'_Allons donc, papa !_ de Vincente Minnelli
@@ -414,7 +415,7 @@ Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonosc
 de Vincente Minnelli  
 États-Unis / 1943 / 98 min / VOSTF / 35 mm  
 Avec Cab Calloway, Rex Ingram, Duke Ellington, Louis Armstrong, Eddie Anderson, Lena Horne.  
-Brave homme mais joueur impénitent, "Little" Joe Jackson est mortellement blessé pour une dette de jeu. Cédant aux prières de sa femme, le Seigneur lui accorde six mois de sursis pour prouver qu'il mérite d'échapper à l'enfer.
+Brave homme mais joueur impénitent, "Little" Joe Jackson est mortellement blessé pour une dette de jeu. Cédant aux prières de sa femme, le Seigneur lui accorde six mois de sursis sur Terre pour prouver qu'il mérite d'échapper à l'enfer.
 
 - je 29 juin 16h00 GF  
 - lu 17 juil 20h45 GF
@@ -458,7 +459,7 @@ Le grand Ziegfeld est au ciel et, de là-haut, rêve à une nouvelle revue dans 
 
 **Film + Dialogue avec Murielle Joudet**  
 Rencontre animée par Bernard Benoliel  
-« Judy [Garland] avait un caractère changeant, passant sans transition de l'exubérance à la mélancolie, mais elle était fondamentalement pleine de charme et de séduction. Il ne faut pas oublier que Judy était à la fois la star et la grande chanteuse du film [_Le Chant du Missouri_], si bien qu'elle en constituait en quelque sorte le pivot pour réussir l'intégration des chansons à l'intrigue. Si Judy n'avait pas finalement cru à l'entreprise, le film aurait été un échec complet. Aussi, lorsque je la vis s'y engager à fond, je compris que nous allions au contraire vers un grand succès ! (...) _Le Chant du Missouri_ fut mon examen de passage définitif. Louis B. Mayer [patron de Metro-Goldwyn-Mayer] se montra très enthousiaste, et tous les autres grands pontes de la direction, qui avaient été contre le projet à l'origine, reconnurent leur erreur. Quant aux critiques, elles furent dithyrambiques. » (Vincente Minnelli, _Tous en scène : Autobiographie_ (1981)  
+« Judy [Garland] avait un caractère changeant, passant sans transition de l'exubérance à la mélancolie, mais elle était fondamentalement pleine de charme et de séduction. Il ne faut pas oublier que Judy était à la fois la star et la grande chanteuse du film [_Le Chant du Missouri_], si bien qu'elle en constituait en quelque sorte le pivot pour réussir l'intégration des chansons à l'intrigue. Si Judy n'avait pas finalement cru à l'entreprise, le film aurait été un échec complet. Aussi, lorsque je la vis s'y engager à fond, je compris que nous allions au contraire vers un grand succès ! (...) _Le Chant du Missouri_ fut mon examen de passage définitif. Louis B. Mayer [patron de Metro-Goldwyn-Mayer] se montra très enthousiaste, et tous les autres grands pontes de la direction, qui avaient été contre le projet à l'origine, reconnurent leur erreur. Quant aux critiques, elles furent dithyrambiques. » (Vincente Minnelli, _Tous en scène : Autobiographie_, 1981)  
 Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
 Murielle Joudet est critique de cinéma au _Monde_, elle participe à l'émission Le Cercle (Canal+) et anime une émission d'entretiens sur le site Hors-série. Elle a publié deux ouvrages consacrés à des actrices : _Isabelle Huppert : Vivre ne nous regarde pas_ (Capricci, 2018) et _Gena Rowlands : On aurait dû dormir_ (Capricci, Prix 2021 du livre de cinéma) et, récemment, aux éditions Premier parallèle, _La Seconde femme_, un essai sous-titré : _Ce que les actrices font à la vieillesse_.
 

@@ -72,7 +72,7 @@ Ouverture de la rétrospective. Séance présentée par Luc Béraud
 
 [154395]  
 **Les Dieux du stade, partie 1 : La Fête des peuples**  
-**(Olympia)**  
+**(Olympia, 1. Teil – Fest der Völke)**  
 de Leni Riefenstahl  
 Allemagne / 1938 / 103 min / VOSTF / DCP  
 Réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes.
@@ -81,7 +81,7 @@ Réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936, l
 
 [40226]  
 **Les Dieux du stade, partie 2 : Jeunesse olympique**  
-**(Olympia)**  
+**(Olympia, 2. Teil – Fest der Schönheit)**  
 de Leni Riefenstahl  
 Allemagne / 1938 / 127 min / VOSTF / DCP  
 Seconde partie du film réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936.

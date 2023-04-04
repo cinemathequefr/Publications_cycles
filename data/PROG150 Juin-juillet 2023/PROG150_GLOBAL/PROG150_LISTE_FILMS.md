@@ -288,7 +288,7 @@
   * Betty Atchoum  
   * Betty au pays des merveilles  
   * Betty et le petit roi  
-  * Candide candidat  
+  * Candidat candide (Le)  
   * Cet obscur objet du désir  
   * Chasse du comte Zaroff (La)  
   * Claude Cahun : Elle et Suzanne  
@@ -296,19 +296,19 @@
   * Divine Horsemen: The Living Gods of Haiti  
   * Early Worm Gets the Bird  
   * Entr'acte  
-  * Etoile de mer (L')  
+  * Étoile de mer (L')  
   * Femme au corbeau (La)  
   * Fidélité des images (La)  
   * Halte au bruit  
   * Hellzapoppin  
   * Heure suprême (L')  
   * Histoire de détective  
-  * Hôtel Drouot  
+  * Hôtel Drouot, le 31 mars 2003  
   * Imitation du cinéma (L')  
   * Jerky Turkey  
   * King Kong  
   * Loulou  
-  * Meditation on violence  
+  * Meditation on Violence  
   * Meshes of the Afternoon  
   * Monstrueuse Parade (La)  
   * Non ! Non ! Mille fois non !  

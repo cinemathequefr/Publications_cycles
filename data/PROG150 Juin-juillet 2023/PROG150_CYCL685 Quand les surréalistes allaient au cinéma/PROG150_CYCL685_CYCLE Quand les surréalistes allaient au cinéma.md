@@ -25,10 +25,10 @@ de Maya Deren
 Exposition des rites de trois cultes haïtiens, Rada, Petro et Congo, d'origine africaine, et qui mettent en scène des sacrifices (poulets, chèvres) et des transes.  
 suivi de  
 [62682]  
-**Meditation on violence**  
+**Meditation on Violence**  
 de Maya Deren  
 États-Unis / 1948 / 10 min / VOSTF / Numérique  
-Entre ralentis et gestes figés, une étude du mouvement cinématographique à partir des mouvements traditionnels des écoles de boxe chinoises Wu Tang et Shao Lin.  
+Entre ralentis et gestes figés, une étude du mouvement cinématographique à partir des mouvements traditionnels des écoles de boxe chinoises Wu-Tang et Shaolin.  
 suivi de  
 [62690]  
 **Ritual in Tranfigured Time**  
@@ -63,10 +63,10 @@ de Maya Deren
 L'idée du temps et de l'espace du XIX<sup>e</sup> siècle.  
 suivi de  
 [53940]  
-**L'Etoile de mer**  
+**L'Étoile de mer**  
 de Man Ray  
 France / 1928 / 12 min / 35 mm  
-D'après le poème _Etoile de mer_ de Robert Desnos.  
+D'après le poème _Étoile de mer_ de Robert Desnos.  
 Avec Robert Desnos, Kiki de Montparnasse.  
 Succession d'images oniriques, inspirées par un poème de Robert Desnos.  
 suivi de  
@@ -152,7 +152,7 @@ suivi de
 de Marcel Mariën  
 Belgique / 1959 / 37 min  
 Avec Tom Gutt, Ulysse Pétian, Suzanne Bourgoigne.  
-Un jeune homme reçoit d'un prêtre _L'imitation de Jésus-Christ._ Il le lit avec une telle ferveur qu'il n'a qu'une idée en tête : se faire crucifier.  
+Un jeune homme reçoit d'un prêtre _L'imitation de Jésus-Christ_. Il le lit avec une telle ferveur qu'il n'a qu'une idée en tête : se faire crucifier.  
 suivi de  
 [46205]  
 **La Perle**  
@@ -168,7 +168,7 @@ Séance présentée par Dominique Païni
 **Hellzapoppin**  
 de Henry C. Potter  
 États-Unis / 1941 / 93 min / VOSTF / DCP  
-D'après la comédie musicale _Hellzapoppin'_ de Chic Johnson et Ole Olsen.  
+D'après la comédie musicale _Hellzapoppin_ de Chic Johnson et Ole Olsen.  
 Avec Ole Olsen, Chic Johnson, Martha Raye.  
 Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la pagaille.
 
@@ -211,7 +211,7 @@ Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriét
 **(Freaks)**  
 de Tod Browning  
 États-Unis / 1932 / 64 min / VOSTF / DCP  
-D'après le roman _Spurs_ de Tod Robbins.  
+D'après la nouvelle _Spurs_ de Tod Robbins.  
 Avec Wallace Ford, Leila Hyams, Olga Baclanova.  
 Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher.
 
@@ -221,7 +221,7 @@ Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui port
 **L'Œil à l'état sauvage**  
 de Fabrice Maze  
 France / 2003 / 26 min / Numérique  
-Une promenade, rêve éveillé, au cœur de l'atelier mythique du 42 rue Fontaine. L'univers magique de Breton est constitué de centaines d'objets, de tableaux, de témoignages de l'art océanien et africain, de poèmes-objets, d'innombrables livres et manuscrits.  
+Une promenade, rêve éveillé, au cœur de l'atelier mythique du 42, rue Fontaine. L'univers magique de Breton est constitué de centaines d'objets, de tableaux, de témoignages de l'art océanien et africain, de poèmes-objets, d'innombrables livres et manuscrits.  
 suivi de  
 [154367]  
 **André Breton malgré tout**  
@@ -230,10 +230,10 @@ France / 2003 / 26 min / Numérique
 Les grandes étapes de la vie d'André Breton et du surréalisme rythmées par les documents d'archives et les photos de Gilles Ehrmann sur l'atelier du 42, rue Fontaine.  
 suivi de  
 [154369]  
-**Hôtel Drouot**  
+**Hôtel Drouot, le 31 mars 2003**  
 de Fabrice Maze  
 France / 2003 / 15 min / Numérique  
-Document tourné la veille de la dispersion, le 31 mars 2003, de l'atelier à l'Hôtel Drouot. Le contenu de l'atelier de 100 m<sup>2</sup> se déploie dans toutes les salles du 1<sup>er</sup> étage, chacune d'elles présentant un thème différent.
+Document tourné à la veille de la dispersion de la collection d'André Breton à l'Hôtel Drouot. Le contenu de l'atelier de 100 m<sup>2</sup> se déploie dans toutes les salles du premier étage, chacune d'elles présentant un thème différent.
 
 - je 22 juin 18h30 JE  
 Séance présentée par Fabrice Maze
@@ -346,24 +346,24 @@ suivi de
 **(Ding Dong Doggie)**  
 de Dave Fleischer  
 États-Unis / 1937 / 6 min / DCP  
-Contre les ordres de Betty Boop, Pudgy le Chiot accompagne un chien pompier dalmatien sur un incendie.  
+Contre les ordres de Betty Boop, Pudgy le chiot accompagne un chien pompier dalmatien sur un incendie.  
 suivi de  
 [96187]  
 **Betty et le petit roi**  
 **(Betty Boop and the Little King)**  
 de Dave Fleischer  
 États-Unis / 1936 / 6 min / DCP  
-Un spectacle d'opéra est organisé pour le Petit Roi, mais le monarque s'ennuie. En quête d'un meilleur divertissement, il repère un panneau qui annonce une représentation de Betty Boop.  
+Un spectacle d'opéra est organisé pour le petit roi, mais le monarque s'ennuie. En quête d'un meilleur divertissement, il repère un panneau qui annonce une représentation de Betty Boop.  
 suivi de  
 [96200]  
 **Halte au bruit**  
-**(Stop that Noise)**  
+**(Stop That Noise)**  
 de Dave Fleischer  
 États-Unis / 1935 / 6 min / DCP  
 Betty Boop, insomniaque, ne supporte plus le bruit de la ville et part à la campagne pour y trouver un peu de tranquillité.  
 suivi de  
 [96161]  
-**Candide candidat**  
+**Le Candidat candide**  
 **(The Candid Candidate)**  
 de Dave Fleischer  
 États-Unis / 1937 / 5 min / DCP  
