@@ -2,15 +2,15 @@
 
 ## Triptyque algérien
 
-En deux temps trois volets ce triptyque nous invite à partager des destins emblématiques et symptomatiques de ce qu'a traversé l'Algérie depuis son indépendance. Deux moments historiques du pays sont évoqués à rebours : le premier où tout est possible, le second où tout semble perdu. Et au centre, Boudjemâa Karèche, chantre de la cinéphilie algérienne, qui a vécu ces moments d'espoir, de chaos et d'amertume, nous raconte.
+En deux temps, trois volets, ce triptyque nous invite à partager des destins emblématiques et symptomatiques de ce qu'a traversé l'Algérie depuis son indépendance. Deux moments historiques du pays sont évoqués à rebours : le premier où tout est possible, le second où tout semble perdu. Et au centre, Boudjemâa Karèche, chantre de la cinéphilie algérienne, qui a vécu ces moments d'espoir, de chaos et d'amertume, nous raconte.
 
 [102126]  
 **Rome plutôt que vous**  
-**(Roma wa la n'touma)**  
+**(Roma wala ntouma)**  
 de Tariq Teguia  
 Algérie-France-Allemagne / 2006 / 114 min / VOSTF / 35 mm  
 Avec Samira Kaddour, Rachid Amrani, Ahmed Benaïssa.  
-1999, Alger la blanche est exsangue après la décennie noire. Kamel, sur le départ, ne conçoit que l'exil comme futur viable et entraîne sa fiancée Zina dans ses rêves d'un ailleurs préférable. Mais comment partir lorsque toutes les trajectoires mènent à des impasses ?
+1999 : Alger la blanche est exsangue après la décennie noire. Kamel, sur le départ, ne conçoit que l'exil comme futur viable et entraîne sa fiancée Zina dans ses rêves d'un ailleurs préférable. Mais comment partir lorsque toutes les trajectoires mènent à des impasses ?
 
 - ve 9 juin 18h45 JE  
 Séance présentée par Mehdi Taïbi et Tariq Teguia
@@ -32,14 +32,14 @@ suivi de
 **Boudjemâa et la maison cinéma**  
 de Mohammed Latrèche  
 France-Algérie / 2019 / 63 min / DCP  
-Ayant animé pendant 34 ans la Cinémathèque algérienne, Boudjemâa Karèche a été le témoin privilégié des plus riches heures de l'Institution créée en 1965. Depuis son îlot, il revient sur son parcours, de l'effervescence des débuts et sa complicité avec Henri Langlois à la terreur des années 1990. C'est aussi l'Histoire de l'Algérie qui est racontée en filigrane à travers le destin d'un héros discret qui a programmé des films sans relâche.
+Ayant animé pendant 34 ans la Cinémathèque algérienne, Boudjemâa Karèche a été le témoin privilégié des plus riches heures de l'institution créée en 1965. Depuis son îlot, il revient sur son parcours, de l'effervescence des débuts et sa complicité avec Henri Langlois à la terreur des années 1990. C'est aussi l'Histoire de l'Algérie qui est racontée en filigrane à travers le destin d'un héros discret qui a programmé des films sans relâche.
 
 - ve 9 juin 21h15 JE  
 Séance présentée par Mehdi Taïbi
 
 ## Ciné-expéditions
 
-En parcourant les quatre continents, la sélection explore le cinéma d'expédition, genre hybride entre documentaire et fiction, divertissement et film éducatif, anthropologie et voyage, sans oblitérer sa dimension coloniale. Soirée en partenariat avec le CNC et l'Association Française de Recherche sur l'Histoire du Cinéma, à l'occasion de la parution de l'ouvrage _Ciné-expéditions : une zone de contact cinématographique_ (AFRHC, 2022).
+En parcourant quatre continents, cette sélection explore le cinéma d'expédition, genre hybride entre documentaire et fiction, divertissement et film éducatif, anthropologie et voyage, sans oblitérer sa dimension coloniale. Soirée en partenariat avec le CNC et l'Association française de recherche sur l'histoire du cinéma, à l'occasion de la parution de l'ouvrage _Ciné-expéditions : Une zone de contact cinématographique_ (AFRHC, 2022).
 
 [154392]  
 **La Traversée de l'Amérique du Sud en automobile**  
@@ -61,10 +61,10 @@ Séance présentée par Iris Deniozou et Béatrice de Pastre
 **Dans la brousse annamite**  
 d'André Sauvage, Léon Poirier  
 France / 1931 / 24 min / DCP  
-Réalisé dans le cadre de la « croisière jaune », le film témoigne du quotidien du peuple sédentaire des Moïs, à Ban Me Thuot, dans la région du Darlac. Les Moïs vivent de la pêche et de la chasse et, les jours de fête, les hommes dansent sous l'effet d'une boisson spéciale.  
+Réalisé dans le cadre de la « croisière jaune », le film témoigne du quotidien du peuple sédentaire des Moïs, à Buôn Ma Thuôt, dans la région du Darlac. Les Moïs vivent de la pêche et de la chasse et, les jours de fête, les hommes dansent sous l'effet d'une boisson spéciale.  
 suivi de  
 [107833]  
-**Nord 70° 22°**  
+**Nord 70°22'**  
 de René Ginet  
 France / 1929 / 42 min / 35 mm  
 Une expédition scientifique en Arctique est documentée par le célèbre journaliste Georges Le Fèvre, témoin des aventures de l'équipage dans les eaux glacées du grand Nord.

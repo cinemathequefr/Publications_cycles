@@ -70,7 +70,7 @@
   * Boudjemâa et la maison cinéma  
   * Dans la brousse annamite  
   * Festival panafricain d'Alger  
-  * Nord 70° 22°  
+  * Nord 70°22'  
   * Rome plutôt que vous  
   * Traversée de l'Amérique du Sud en automobile (La)
 

@@ -18,7 +18,6 @@ France / 1972 / 17 min / DCP
 Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli formant un manteau autour du corps. Sa nage ressemble à une danse, la danse serpentine mise à la mode par Loïe Fuller.
 
 - me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
 Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
 
 [65709]  
@@ -28,7 +27,6 @@ France / 1965 / 13 min / DCP
 Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers.
 
 - me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
 Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé et suivi de de _Cristaux liquides_ de Jean Painlevé
 
 [50421]  
@@ -58,7 +56,6 @@ France / 1978 / 6 min / DCP
 Étude au microscope des dispositions moléculaires multicolores des cristaux liquides.
 
 - me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
 Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé
 
 [59394]  
@@ -77,7 +74,8 @@ de Leni Riefenstahl
 Allemagne / 1938 / 103 min / VOSTF / DCP  
 Réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes.
 
-- di 2 juil 21h15 GF
+- di 2 juil 18h00 GF  
+Séance présentée par Jérôme Prieur
 
 [40226]  
 **Les Dieux du stade, partie 2 : Jeunesse olympique**  
@@ -86,8 +84,7 @@ de Leni Riefenstahl
 Allemagne / 1938 / 127 min / VOSTF / DCP  
 Seconde partie du film réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936.
 
-- di 2 juil 18h00 GF  
-Séance présentée par Jérôme Prieur
+- di 2 juil 21h15 GF
 
 [54259]  
 **Le Dix-septième parallèle**  
@@ -142,7 +139,6 @@ France / 1933 / 16 min / DCP
 Les images spectaculaires d'un hippocampe mâle enceint donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante.
 
 - me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
 Film précédé de _La Pieuvre_ de Jean Painlevé et suivi de d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
 
 [53328]  
@@ -173,7 +169,6 @@ France / 1929 / 13 min / DCP
 Présentation de petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales.
 
 - me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
 Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé et suivi de de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
 
 [58050]  
@@ -246,7 +241,6 @@ France / 1928 / 13 min / DCP
 _La Pieuvre_ a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.
 
 - me 28 juin 18h30 GF  
-Séance présentée par Brigitte Berg  
 Film suivi de _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
 
 [56070]  
@@ -330,7 +324,7 @@ France-Belgique / 1999 / 70 min / DCP
 Voyage dans le sud des États-Unis, avec comme fil rouge le meurtre par lynchage du musicien noir James Byrd Jr.
 
 - sa 1 juil 20h45 GF  
-Séance présentée par Claire Atherton  
+Séance présentée par Claire Atherton et Alice Winocour  
 Film précédé de _Vues d'Espagne_ d'Alice Guy
 
 [154414]  
@@ -340,7 +334,7 @@ France / 1905 / 10 min / DCP
 Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparaît à l'image.
 
 - sa 1 juil 20h45 GF  
-Séance présentée par Claire Atherton  
+Séance présentée par Claire Atherton et Alice Winocour  
 Film suivi de _Sud_ de Chantal Akerman
 
 [62606]  
