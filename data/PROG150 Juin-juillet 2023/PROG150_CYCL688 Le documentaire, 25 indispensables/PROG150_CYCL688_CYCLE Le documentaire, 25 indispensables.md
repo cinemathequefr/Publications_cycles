@@ -11,24 +11,6 @@ Avec Valéry Giscard d'Estaing.
 
 - sa 8 juil 20h00 GF
 
-[65713]  
-**Acéra ou le bal des sorcières**  
-de Jean Painlevé  
-France / 1972 / 17 min / DCP  
-Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli formant un manteau autour du corps. Sa nage ressemble à une danse, la danse serpentine mise à la mode par Loïe Fuller.
-
-- me 28 juin 18h30 GF  
-Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
-
-[65709]  
-**Les Amours de la pieuvre**  
-de Jean Painlevé  
-France / 1965 / 13 min / DCP  
-Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers.
-
-- me 28 juin 18h30 GF  
-Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé et suivi de de _Cristaux liquides_ de Jean Painlevé
-
 [50421]  
 **Le Chagrin et la Pitié**  
 de Marcel Ophuls  
@@ -38,25 +20,6 @@ Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse 
 
 - ve 23 juin 18h30 HL  
 Séance présentée par Jean-François Rauger
-
-[52364]  
-**Chronique d'un été**  
-de Jean Rouch, Edgar Morin  
-France / 1960 / 86 min / DCP  
-Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, enquêtent sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés évoquent leurs préoccupations et leurs espoirs, et tentent de répondre à la question : « Êtes-vous heureux ? »
-
-- sa 1 juil 14h30 GF  
-Voir aussi dialogue p. xx  
-Film précédé de _La Marâtre_ d'Alice Guy
-
-[154416]  
-**Cristaux liquides**  
-de Jean Painlevé  
-France / 1978 / 6 min / DCP  
-Étude au microscope des dispositions moléculaires multicolores des cristaux liquides.
-
-- me 28 juin 18h30 GF  
-Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé
 
 [59394]  
 **Les Deux Marseillaises**  
@@ -107,12 +70,8 @@ Séance présentée par Nicolas Philibert
 **Le Fils du garde de chasse**  
 d'Alice Guy  
 France / 1906 / 5 min / DCP  
-Un garde-chasse suscite la fierté de son fils aîné, tant et si bien que celui-ci aide son père à venir à bout de deux braconniers.
-
-- sa 1 juil 18h30 GF  
-Séance présentée par Barbet Schroeder (sous réserve)  
-Film suivi de _Général Idi Amin Dada_ de Barbet Schroeder
-
+Un garde-chasse suscite la fierté de son fils aîné, tant et si bien que celui-ci aide son père à venir à bout de deux braconniers.  
+suivi de  
 [62245]  
 **Général Idi Amin Dada**  
 de Barbet Schroeder  
@@ -120,8 +79,7 @@ France-Suisse / 1974 / 92 min / DCP
 Portrait du général Idi Amin Dada, président à vie de l'Ouganda après son coup d'État de 1971. Devant la caméra de Barbet Schroeder, le dictateur se met en scène avec gourmandise, tour à tour naïf et lucide, drôle et sinistre.
 
 - sa 1 juil 18h30 GF  
-Séance présentée par Barbet Schroeder (sous réserve)  
-Film précédé de _Le Fils du garde de chasse_ d'Alice Guy
+Séance présentée par Barbet Schroeder (sous réserve)
 
 [68649]  
 **Les Glaneurs et la Glaneuse**  
@@ -132,15 +90,6 @@ Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récup�
 - di 25 juin 18h30 HL  
 Séance présentée par Florence Tissot
 
-[50523]  
-**L'Hippocampe**  
-de Jean Painlevé  
-France / 1933 / 16 min / DCP  
-Les images spectaculaires d'un hippocampe mâle enceint donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante.
-
-- me 28 juin 18h30 GF  
-Film précédé de _La Pieuvre_ de Jean Painlevé et suivi de d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
-
 [53328]  
 **L'Homme à la caméra**  
 **(Tchelovek s kinoapparatom)**  
@@ -149,27 +98,6 @@ URSS / 1929 / 70 min / INT. FR. / DCP
 Un homme parcourt une ville avec une caméra en bandoulière, documentant la vie urbaine, le travail, les loisirs. Incontournable de l'avant-garde soviétique, entre expérimentations techniques et virtuosité du montage, le film est une mise en abîme du cinéma.
 
 - je 6 juil 18h30 GF
-
-[53249]  
-**Hôtel des Invalides**  
-de Georges Franju  
-France / 1951 / 22 min / 35 mm  
-Avec Michel Simon.  
-Un film sur le musée de l'Armée à l'Hôtel des Invalides, qui se transforme en réquisitoire contre la guerre.  
-Copie neuve de la Cinémathèque française tirée en collaboration avec Gaumont.
-
-- lu 26 juin 20h00 GF  
-Séance présentée par Joël Daire  
-Film précédé de _Les Poussières_ de Georges Franju et suivi de de _Monsieur et madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju
-
-[65711]  
-**Hyas, sténorinque, spirographe**  
-de Jean Painlevé  
-France / 1929 / 13 min / DCP  
-Présentation de petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales.
-
-- me 28 juin 18h30 GF  
-Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé et suivi de de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
 
 [58050]  
 **Le Joli Mai**  
@@ -194,34 +122,16 @@ La Waddenzee, « mer des terres humides », est une région naturelle unique, zo
 **La Marâtre**  
 d'Alice Guy  
 France / 1906 / 7 min  
-Une belle-mère s'en prend au fils de son mari. Librement inspiré du roman d'Honoré de Balzac.
+Une belle-mère s'en prend au fils de son mari. Librement inspiré du roman d'Honoré de Balzac.  
+suivi de  
+[52364]  
+**Chronique d'un été**  
+de Jean Rouch, Edgar Morin  
+France / 1960 / 86 min / DCP  
+Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, enquêtent sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés évoquent leurs préoccupations et leurs espoirs, et tentent de répondre à la question : « Êtes-vous heureux ? »
 
 - sa 1 juil 14h30 GF  
-Voir aussi dialogue p. xx  
-Film suivi de _Chronique d'un été_ de Jean Rouch, Edgar Morin
-
-[57843]  
-**Mon chien**  
-de Georges Franju  
-France / 1955 / 25 min / 35 mm  
-Avec Jacqueline Lemaire.  
-Une famille habitant une maison bourgeoise de la banlieue parisienne part en vacances. Sur la route, les parents abandonnent le chien de leur petite fille dans la forêt.
-
-- lu 26 juin 20h00 GF  
-Séance présentée par Joël Daire  
-Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju
-
-[57842]  
-**Monsieur et madame Curie**  
-de Georges Franju  
-France / 1953 / 14 min / 16 mm  
-D'après la biographie _Pierre Curie_ de Marie Curie.  
-Avec Nicole Stéphane, Lucien Hubert, Lucien Barjon.  
-Portrait de Pierre et Marie Curie, chercheurs de génie, dont les travaux menèrent à la découverte du radium et de la radioactivité.
-
-- lu 26 juin 20h00 GF  
-Séance présentée par Joël Daire  
-Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju et suivi de de _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju
+Voir aussi dialogue p. xx
 
 [41219]  
 **Nanouk l'esquimau**  
@@ -238,10 +148,39 @@ Voir aussi dialogue p. xx
 de Jean Painlevé  
 France / 1928 / 13 min / DCP  
 Étude de la pieuvre dans son habitat. Le premier documentaire de vulgarisation scientifique de Jean Painlevé.  
-_La Pieuvre_ a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.
+_La Pieuvre_ a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.  
+suivi de  
+[50523]  
+**L'Hippocampe**  
+de Jean Painlevé  
+France / 1933 / 16 min / DCP  
+Les images spectaculaires d'un hippocampe mâle enceint donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante.  
+suivi de  
+[65713]  
+**Acéra ou le bal des sorcières**  
+de Jean Painlevé  
+France / 1972 / 17 min / DCP  
+Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli formant un manteau autour du corps. Sa nage ressemble à une danse, la danse serpentine mise à la mode par Loïe Fuller.  
+suivi de  
+[65711]  
+**Hyas, sténorinque, spirographe**  
+de Jean Painlevé  
+France / 1929 / 13 min / DCP  
+Présentation de petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales.  
+suivi de  
+[65709]  
+**Les Amours de la pieuvre**  
+de Jean Painlevé  
+France / 1965 / 13 min / DCP  
+Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers.  
+suivi de  
+[154416]  
+**Cristaux liquides**  
+de Jean Painlevé  
+France / 1978 / 6 min / DCP  
+Étude au microscope des dispositions moléculaires multicolores des cristaux liquides.
 
-- me 28 juin 18h30 GF  
-Film suivi de _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé
+- me 28 juin 18h30 GF
 
 [56070]  
 **Pour la suite du monde**  
@@ -256,11 +195,40 @@ Séance présentée par Bernard Benoliel
 **Les Poussières**  
 de Georges Franju  
 France / 1954 / 22 min / 16 mm  
-Après avoir identifié les diverses sources de poussière, ce documentaire s'attache à observer l'effet qu'elles provoquent sur la santé de l'homme, en particulier dans le cadre de son travail.
+Après avoir identifié les diverses sources de poussière, ce documentaire s'attache à observer l'effet qu'elles provoquent sur la santé de l'homme, en particulier dans le cadre de son travail.  
+suivi de  
+[53249]  
+**Hôtel des Invalides**  
+de Georges Franju  
+France / 1951 / 22 min / 35 mm  
+Avec Michel Simon.  
+Un film sur le musée de l'Armée à l'Hôtel des Invalides, qui se transforme en réquisitoire contre la guerre.  
+Copie neuve de la Cinémathèque française tirée en collaboration avec Gaumont.  
+suivi de  
+[57842]  
+**Monsieur et madame Curie**  
+de Georges Franju  
+France / 1953 / 14 min / 16 mm  
+D'après la biographie _Pierre Curie_ de Marie Curie.  
+Avec Nicole Stéphane, Lucien Hubert, Lucien Barjon.  
+Portrait de Pierre et Marie Curie, chercheurs de génie, dont les travaux menèrent à la découverte du radium et de la radioactivité.  
+suivi de  
+[48632]  
+**Le Sang des bêtes**  
+de Georges Franju  
+France / 1949 / 21 min / DCP  
+Documentaire consacré aux abattoirs parisiens de Vaugirard et de la Villette dans les années d'après-guerre.  
+Franju dépasse le réalisme du reportage en installant une atmosphère poétique, voire fantastique.  
+suivi de  
+[57843]  
+**Mon chien**  
+de Georges Franju  
+France / 1955 / 25 min / 35 mm  
+Avec Jacqueline Lemaire.  
+Une famille habitant une maison bourgeoise de la banlieue parisienne part en vacances. Sur la route, les parents abandonnent le chien de leur petite fille dans la forêt.
 
 - lu 26 juin 20h00 GF  
-Séance présentée par Joël Daire  
-Film suivi de _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju
+Séance présentée par Joël Daire
 
 [31875]  
 **Primary**  
@@ -287,17 +255,6 @@ Le 10 juin 1968, des étudiants en cinéma filment la reprise du travail aux usi
 - sa 8 juil 14h30 GF  
 Voir aussi dialogue p. xx
 
-[48632]  
-**Le Sang des bêtes**  
-de Georges Franju  
-France / 1949 / 21 min / DCP  
-Documentaire consacré aux abattoirs parisiens de Vaugirard et de la Villette dans les années d'après-guerre.  
-Franju dépasse le réalisme du reportage en installant une atmosphère poétique, voire fantastique.
-
-- lu 26 juin 20h00 GF  
-Séance présentée par Joël Daire  
-Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curie_ de Georges Franju et suivi de de _Mon chien_ de Georges Franju
-
 [75848]  
 **Sobibor, 14 octobre 1943, 16 heures**  
 de Claude Lanzmann  
@@ -317,6 +274,12 @@ Vingt-quatre actrices françaises et américaines parlent de leurs expériences 
 - lu 3 juil 20h15 GF  
 Séance présentée par Emilie Cauquy
 
+[154414]  
+**Vues d'Espagne**  
+d'Alice Guy  
+France / 1905 / 10 min / DCP  
+Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparaît à l'image.  
+suivi de  
 [68124]  
 **Sud**  
 de Chantal Akerman  
@@ -324,18 +287,7 @@ France-Belgique / 1999 / 70 min / DCP
 Voyage dans le sud des États-Unis, avec comme fil rouge le meurtre par lynchage du musicien noir James Byrd Jr.
 
 - sa 1 juil 20h45 GF  
-Séance présentée par Claire Atherton et Alice Winocour  
-Film précédé de _Vues d'Espagne_ d'Alice Guy
-
-[154414]  
-**Vues d'Espagne**  
-d'Alice Guy  
-France / 1905 / 10 min / DCP  
-Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparaît à l'image.
-
-- sa 1 juil 20h45 GF  
-Séance présentée par Claire Atherton et Alice Winocour  
-Film suivi de _Sud_ de Chantal Akerman
+Séance présentée par Claire Atherton et Alice Winocour
 
 [62606]  
 **Welfare**  
@@ -350,27 +302,27 @@ Séance présentée par Frederick Wiseman
 
 **Film + Dialogue avec Pierre Gabaston**  
 Rencontre animée par Bernard Benoliel  
-« Révillon Frères, bailleur de fonds, commandite toute l'entreprise de _Nanouk_. Une dotation de 3000 dollars libère les Inuits de leurs obligations de chasse et de pêche pendant le tournage du film. Les voilà à l'entière disposition de leur metteur en scène. Il va leur faire rejouer les activités dont ils viennent de se délier. Le 15 août 1919, Flaherty and Cie pénètre dans l'embouchure de l'Innusuk. (...) Un stupéfiant tournage de quinze mois commence. » Pierre Gabaston, _Nanouk l'esquimau_, Les Enfants de cinéma, 2004 « Loin de Hollywood, de ses studios qu'il fuit et où il étoufferait, bannissant les clairs-obscurs de l'Expressionnisme, Flaherty – le réfractaire – éclaire sa toile de fond concrète d'une élémentaire source lumineuse : l'astre du jour garde sa confiance. Luit seul, le soleil. Sous son empire, une origine, blancheur, silence et infini se répondent en une symphonie parfaite. » Pierre Gabaston, _Trafic_, printemps 2016  
-**Pierre Gabaston** : « Depuis plus de cinquante ans, un éternel enfant de la Cinémathèque – aussi n'ai-je pas beaucoup de cheveux blancs. De Chaillot à Bercy (direct avec la 6), je m'évertue, avant tout, à VOIR UN FILM. Sortant d'une projection, je me forme au sein de petits groupes d'amis. Collèges ardents et flottants, soudain ils se défont, s'agrègent autrement, selon leurs anxiétés filmiques à fleur de peau. Ce fut et restera mon Académie de Platon, mon Agora cinéphilique. La meilleure école. Enseignant auprès d'enfants handicapés. Ma vocation. Auteur de textes et de monographies chez Yellow Now, de _Cahiers de notes_ pour les Enfants de cinéma, d'écrits dans la revue _Trafic_ ».  
-**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.
+« Révillon Frères, bailleur de fonds, commandite toute l'entreprise de _Nanouk_. Une dotation de 3 000 dollars libère les Inuits de leurs obligations de chasse et de pêche pendant le tournage du film. Les voilà à l'entière disposition de leur metteur en scène. Il va leur faire rejouer les activités dont ils viennent de se délier. Le 15 août 1919, Flaherty and C<sup>ie</sup> pénètre dans l'embouchure de l'Innusuk. (...) Un stupéfiant tournage de quinze mois commence. » (Pierre Gabaston, _Nanouk l'esquimau_, Les Enfants de cinéma, 2004) « Loin de Hollywood, de ses studios qu'il fuit et où il étoufferait, bannissant les clairs-obscurs de l'Expressionnisme, Flaherty – le réfractaire – éclaire sa toile de fond concrète d'une élémentaire source lumineuse : l'astre du jour garde sa confiance. Luit seul, le soleil. Sous son empire, une origine, blancheur, silence et infini se répondent en une symphonie parfaite. » (Pierre Gabaston, _Trafic_, printemps 2016)  
+Pierre Gabaston : depuis plus de cinquante ans, un éternel enfant de la Cinémathèque – aussi n'ai-je pas beaucoup de cheveux blancs. De Chaillot à Bercy (direct avec la 6), je m'évertue, avant tout, de _VOIR UN FILM_. Sortant d'une projection, je me forme au sein de petits groupes d'amis. Collèges ardents et flottants, soudain ils se défont, s'agrègent autrement, selon leurs anxiétés filmiques à fleur de peau. Ce fut et restera mon Académie de Platon, mon Agora cinéphilique. La meilleure école. Enseignant auprès d'enfants handicapés. Ma vocation. Auteur de textes et de monographies chez Yellow Now, de _Cahiers de notes_ pour les Enfants de cinéma, d'écrits dans la revue _Trafic_.  
+Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.
 
 - di 25 juin 14h30 HL  
 À la suite de la projection de _Nanouk l'esquimau_ de Robert J. Flaherty (voir p. xx)
 
 **Film + Dialogue avec Frédérique Berthet**  
 Rencontre animée par Bernard Benoliel  
-« _Chronique d'un été_ remporte le prix de la critique internationale du festival de Cannes, puis sort discrètement en salle en France, à l'automne, le 20 octobre 1961. Il dure une heure vingt-six. Une petite vingtaine de participants y figurent. Ils ont accepté l'expérience mi-sérieuse mi-factieuse lancée par Rouch et Morin en 1960 : une recherche filmée sur la façon dont, à Paris, « on se débrouille avec la vie ». Marceline \[Loridan\] pourrait être une interprète parmi les autres. Pourtant, elle seule porte, dans _Chronique d'un été_, une histoire qui n'est pas celle de « tout le monde ». » « L'intuition du film : faire des lambeaux de souvenirs de Marceline les pièces magistralement ajustées d'un manteau ; une intuition qui va contribuer à ce que _Chronique_, selon la jolie formule qu'emploie Anatole Dauman en 1990, « défie les années ». » Frédérique Berthet, _La Voix manquante_, P.O.L, 2018  
-**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
-Professeure de cinéma, **Frédérique Berthet** est aussi membre de la Commission de recherche historique de la Cinémathèque française. Elle a publié _De Warhol à Wenders, une vie de cinéma, Souvenirs de Pascale Dauman_ (Ramsay, 2008), ainsi que deux ouvrages aux éditions P.O.L : en 2020, un roman, _Never(s)_, et un essai, _La Voix manquante_ (Prix 2018 du livre de cinéma du CNC), qui décrit avec précision l'aventure de _Chronique d'un été_ et, au cœur de cette expérience de « cinéma-vérité », revient sur le secret d'une femme, Marceline Loridan.
+« _Chronique d'un été_ remporte le prix de la critique internationale du festival de Cannes, puis sort discrètement en salle en France, à l'automne, le 20 octobre 1961. Il dure une heure vingt-six. Une petite vingtaine de participants y figurent. Ils ont accepté l'expérience mi-sérieuse mi-factieuse lancée par Rouch et Morin en 1960 : une recherche filmée sur la façon dont, à Paris, « on se débrouille avec la vie ». Marceline [Loridan] pourrait être une interprète parmi les autres. Pourtant, elle seule porte, dans _Chronique d'un été_, une histoire qui n'est pas celle de “tout le monde”. » « L'intuition du film : faire des lambeaux de souvenirs de Marceline les pièces magistralement ajustées d'un manteau ; une intuition qui va contribuer à ce que _Chronique_, selon la jolie formule qu'emploie Anatole Dauman en 1990, “défie les années”. » (Frédérique Berthet, _La Voix manquante_, P.O.L, 2018)  
+Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+Professeure de cinéma, Frédérique Berthet est aussi membre de la Commission de recherche historique de la Cinémathèque française. Elle a publié _De Warhol à Wenders, une vie de cinéma : Souvenirs de Pascale Dauman_ (Ramsay, 2008), ainsi que deux ouvrages aux éditions P.O.L : en 2020, un roman, _Never(s)_, et un essai, _La Voix manquante_ (Prix 2018 du livre de cinéma du CNC), qui décrit avec précision l'aventure de _Chronique d'un été_ et, au cœur de cette expérience de « cinéma-vérité », revient sur le secret d'une femme, Marceline Loridan.
 
 - sa 1 juil 14h30 GF  
 À la suite de la projection de _Chronique d'un été_ de Jean Rouch, Edgar Morin, _La Marâtre_ d'Alice Guy (voir p. xx)
 
 **Film + Dialogue avec David Faroult**  
 Rencontre animée par Bernard Benoliel  
-Juin 1968 : une jeune ouvrière des usines Wonder de Saint-Ouen refuse de reprendre le travail ; des étudiants en cinéma sont là, qui filment son cri de révolte. 1997 : le cinéaste Hervé Le Roux part à la recherche de cette belle inconnue en rencontrant d'anciens ouvriers, militants et syndicalistes, en leur donnant la parole, longuement, précisément, chaleureusement, et exhumant alors un pan enfoui d'histoire sociale, politique et culturelle... « Wonder, Wonderland, Alice à l'Usine, l'Usine en Pays des Merveilles. Le film a été tourné par des étudiants de l'IDHEC, on y voit des ouvrières qui reprennent le travail après trois semaines de grève. Et cette femme. Qui reste là. Et qui crie. Elle dit qu'elle rentrera pas, qu'elle y foutra plus les pieds dans cette tôle... Les années ont passé. L'usine est fermée. Mais j'arrive pas à oublier le visage, la voix de cette femme. J'ai décidé de la retrouver. Parce qu'elle n'a eu droit qu'à une prise. Et que je lui en dois une deuxième. » (Hervé Le Roux).  
-**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
-**David Faroult** est maître de conférences en cinéma à l'École nationale supérieure Louis-Lumière. Une part importante de ses recherches et publications concerne les cinémas politiques issus de 1968 et le « groupe » Dziga Vertov, dont il a présenté les films en bonus de leur première édition en DVD (_Jean-Luc Godard y el grupo Dziga Vertov_, _Intermedio_, 2008). Il a codirigé l'ouvrage _Jean-Luc Godard : Documents_ (Centre Pompidou, 2006) et, a publié _Godard, Inventions d'un cinéma politique_ (Les prairies ordinaires, 2018).
+Juin 1968 : une jeune ouvrière des usines Wonder de Saint-Ouen refuse de reprendre le travail ; des étudiants en cinéma sont là, qui filment son cri de révolte. 1997 : le cinéaste Hervé Le Roux part à la recherche de cette belle inconnue en rencontrant d'anciens ouvriers, militants et syndicalistes, en leur donnant la parole, longuement, précisément, chaleureusement, et exhumant alors un pan enfoui d'histoire sociale, politique et culturelle... « Wonder, Wonderland, Alice à l'Usine, l'Usine en Pays des Merveilles. Le film a été tourné par des étudiants de l'IDHEC, on y voit des ouvrières qui reprennent le travail après trois semaines de grève. Et cette femme. Qui reste là. Et qui crie. Elle dit qu'elle rentrera pas, qu'elle y foutra plus les pieds dans cette tôle... Les années ont passé. L'usine est fermée. Mais j'arrive pas à oublier le visage, la voix de cette femme. J'ai décidé de la retrouver. Parce qu'elle n'a eu droit qu'à une prise. Et que je lui en dois une deuxième. » (Hervé Le Roux)  
+Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+David Faroult est maître de conférences en cinéma à l'École nationale supérieure Louis-Lumière. Une part importante de ses recherches et publications concerne les cinémas politiques issus de 1968 et le « groupe » Dziga Vertov, dont il a présenté les films en bonus de leur première édition en DVD (_Jean-Luc Godard y el grupo Dziga Vertov_, Intermedio, 2008). Il a codirigé l'ouvrage _Jean-Luc Godard : Documents_ (Centre Pompidou, 2006) et, a publié _Godard, inventions d'un cinéma politique_ (Les prairies ordinaires, 2018).
 
 - sa 8 juil 14h30 GF  
 À la suite de la projection de _Reprise_ de Hervé Le Roux (voir p. xx)

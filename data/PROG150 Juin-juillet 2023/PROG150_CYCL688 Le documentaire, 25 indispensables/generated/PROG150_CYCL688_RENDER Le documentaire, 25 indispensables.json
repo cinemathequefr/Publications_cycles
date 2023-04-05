@@ -1,28 +1,32 @@
 [
   {
     "titreSousCycle": "Les films",
-    "tri": 1,
+    "tri": 2,
     "textes": [],
     "items": [
       {
-        "idFilm": 77226,
-        "typeEvenement": 13,
-        "titre": "1974, une partie de campagne",
-        "realisateurs": "Raymond Depardon",
-        "annee": 1974,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "1974. Valéry Giscard d'Estaing, alors ministre de l'Économie et des Finances, se lance dans une campagne « à l'américaine ». Raymond Depardon suit le fringant candidat à la présidentielle et capte des instants rares et historiques de la classe politique française."
+            "idFilm": 77226,
+            "titre": "1974, une partie de campagne",
+            "realisateurs": "Raymond Depardon",
+            "annee": 1974,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "1974. Valéry Giscard d'Estaing, alors ministre de l'Économie et des Finances, se lance dans une campagne « à l'américaine ». Raymond Depardon suit le fringant candidat à la présidentielle et capte des instants rares et historiques de la classe politique française."
+              }
+            ],
+            "generique": [
+              "Valéry Giscard d'Estaing"
+            ],
+            "duree": 90,
+            "format": "Numérique",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "generique": [
-          "Valéry Giscard d'Estaing"
-        ],
-        "duree": 90,
-        "format": "Numérique",
-        "version": "",
         "seances": [
           {
             "idSeance": 104058,
@@ -37,88 +41,31 @@
         ]
       },
       {
-        "idFilm": 65713,
-        "typeEvenement": 13,
-        "titre": "Acéra ou le bal des sorcières",
-        "realisateurs": "Jean Painlevé",
-        "annee": 1972,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli formant un manteau autour du corps. Sa nage ressemble à une danse, la danse serpentine mise à la mode par Loïe Fuller."
-          }
-        ],
-        "duree": 17,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104294,
-            "ordre": 3,
-            "dateHeure": "2023-06-28T18:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 50421,
+            "titre": "Chagrin et la Pitié",
+            "art": "Le",
+            "realisateurs": "Marcel Ophuls",
+            "annee": 1969,
+            "pays": "France-Suisse-RFA",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse la chronique de cette occupation et des différentes réactions de la population : certains vont s'engager dans la Résistance pendant que d'autres collaborent et dénoncent leurs voisins."
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé et suivi de de _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé"
-          }
-        ]
-      },
-      {
-        "idFilm": 65709,
-        "typeEvenement": 13,
-        "titre": "Amours de la pieuvre",
-        "art": "Les",
-        "realisateurs": "Jean Painlevé",
-        "annee": 1965,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers."
-          }
-        ],
-        "duree": 13,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104294,
-            "ordre": 5,
-            "dateHeure": "2023-06-28T18:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "generique": [
+              "Emmanuel d'Astier de la Vigerie",
+              "Georges Bidault",
+              "Matthäus Bleibinger"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé et suivi de de _Cristaux liquides_ de Jean Painlevé"
-          }
-        ]
-      },
-      {
-        "idFilm": 50421,
-        "typeEvenement": 13,
-        "titre": "Chagrin et la Pitié",
-        "art": "Le",
-        "realisateurs": "Marcel Ophuls",
-        "annee": 1969,
-        "pays": "France-Suisse-RFA",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse la chronique de cette occupation et des différentes réactions de la population : certains vont s'engager dans la Résistance pendant que d'autres collaborent et dénoncent leurs voisins."
+            "duree": 270,
+            "format": "35 mm",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "generique": [
-          "Emmanuel d'Astier de la Vigerie",
-          "Georges Bidault",
-          "Matthäus Bleibinger"
-        ],
-        "duree": 270,
-        "format": "35 mm",
-        "version": "",
         "seances": [
           {
             "idSeance": 104034,
@@ -134,84 +81,26 @@
         ]
       },
       {
-        "idFilm": 52364,
-        "typeEvenement": 13,
-        "titre": "Chronique d'un été",
-        "realisateurs": "Jean Rouch, Edgar Morin",
-        "annee": 1960,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, enquêtent sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés évoquent leurs préoccupations et leurs espoirs, et tentent de répondre à la question : « Êtes-vous heureux ? »"
-          }
-        ],
-        "duree": 86,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104053,
-            "ordre": 2,
-            "dateHeure": "2023-07-01T14:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 59394,
+            "titre": "Deux Marseillaises",
+            "art": "Les",
+            "realisateurs": "Jean-Louis Comolli, André S. Labarthe",
+            "annee": 1968,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "À l'occasion de la campagne pour les élections législatives de juin 1968 à Asnières, Jean-Louis Comolli et André S. Labarthe filment au jour le jour les réunions, meetings et allocutions des trois principaux candidats : Albin Chalandon (UDR), Claude Denis (PCF) et Roger Hanin (FGDS)."
+              }
             ],
-            "typeAssoc": 118,
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _La Marâtre_ d'Alice Guy",
-            "mentionRenvoi": "Voir aussi dialogue p. xx"
-          }
-        ]
-      },
-      {
-        "idFilm": 154416,
-        "typeEvenement": 13,
-        "titre": "Cristaux liquides",
-        "realisateurs": "Jean Painlevé",
-        "annee": 1978,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Étude au microscope des dispositions moléculaires multicolores des cristaux liquides."
+            "duree": 108,
+            "format": "16 mm",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "duree": 6,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104294,
-            "ordre": 6,
-            "dateHeure": "2023-06-28T18:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé"
-          }
-        ]
-      },
-      {
-        "idFilm": 59394,
-        "typeEvenement": 13,
-        "titre": "Deux Marseillaises",
-        "art": "Les",
-        "realisateurs": "Jean-Louis Comolli, André S. Labarthe",
-        "annee": 1968,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "À l'occasion de la campagne pour les élections législatives de juin 1968 à Asnières, Jean-Louis Comolli et André S. Labarthe filment au jour le jour les réunions, meetings et allocutions des trois principaux candidats : Albin Chalandon (UDR), Claude Denis (PCF) et Roger Hanin (FGDS)."
-          }
-        ],
-        "duree": 108,
-        "format": "16 mm",
-        "version": "",
         "seances": [
           {
             "idSeance": 101255,
@@ -227,23 +116,27 @@
         ]
       },
       {
-        "idFilm": 154395,
-        "typeEvenement": 13,
-        "titre": "Dieux du stade, partie 1 : La Fête des peuples",
-        "art": "Les",
-        "titreVo": "Olympia, 1. Teil – Fest der Völke",
-        "realisateurs": "Leni Riefenstahl",
-        "annee": 1938,
-        "pays": "Allemagne",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes."
+            "idFilm": 154395,
+            "titre": "Dieux du stade, partie 1 : La Fête des peuples",
+            "art": "Les",
+            "titreVo": "Olympia, 1. Teil – Fest der Völke",
+            "realisateurs": "Leni Riefenstahl",
+            "annee": 1938,
+            "pays": "Allemagne",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes."
+              }
+            ],
+            "duree": 103,
+            "format": "DCP",
+            "version": "VOSTF",
+            "ordre": 1
           }
         ],
-        "duree": 103,
-        "format": "DCP",
-        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 104292,
@@ -259,23 +152,27 @@
         ]
       },
       {
-        "idFilm": 40226,
-        "typeEvenement": 13,
-        "titre": "Dieux du stade, partie 2 : Jeunesse olympique",
-        "art": "Les",
-        "titreVo": "Olympia, 2. Teil – Fest der Schönheit",
-        "realisateurs": "Leni Riefenstahl",
-        "annee": 1938,
-        "pays": "Allemagne",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Seconde partie du film réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936."
+            "idFilm": 40226,
+            "titre": "Dieux du stade, partie 2 : Jeunesse olympique",
+            "art": "Les",
+            "titreVo": "Olympia, 2. Teil – Fest der Schönheit",
+            "realisateurs": "Leni Riefenstahl",
+            "annee": 1938,
+            "pays": "Allemagne",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Seconde partie du film réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936."
+              }
+            ],
+            "duree": 127,
+            "format": "DCP",
+            "version": "VOSTF",
+            "ordre": 1
           }
         ],
-        "duree": 127,
-        "format": "DCP",
-        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 104293,
@@ -290,22 +187,26 @@
         ]
       },
       {
-        "idFilm": 54259,
-        "typeEvenement": 13,
-        "titre": "Dix-septième parallèle",
-        "art": "Le",
-        "realisateurs": "Joris Ivens, Marceline Loridan",
-        "annee": 1967,
-        "pays": "France-Vietnam",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "La lutte quotidienne du village de Vin-Linh, sur le 17<sup>e</sup> parallèle, dans la zone « démilitarisée » qui sépare en deux le Vietnam. Tourné avec du matériel léger et en son direct, le film suit au plus près la vie des habitants réfugiés dans des caves."
+            "idFilm": 54259,
+            "titre": "Dix-septième parallèle",
+            "art": "Le",
+            "realisateurs": "Joris Ivens, Marceline Loridan",
+            "annee": 1967,
+            "pays": "France-Vietnam",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "La lutte quotidienne du village de Vin-Linh, sur le 17<sup>e</sup> parallèle, dans la zone « démilitarisée » qui sépare en deux le Vietnam. Tourné avec du matériel léger et en son direct, le film suit au plus près la vie des habitants réfugiés dans des caves."
+              }
+            ],
+            "duree": 119,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "duree": 119,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 104057,
@@ -320,21 +221,25 @@
         ]
       },
       {
-        "idFilm": 79092,
-        "typeEvenement": 13,
-        "titre": "Être et avoir",
-        "realisateurs": "Nicolas Philibert",
-        "annee": 2002,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Immersion au cœur de l'école d'un petit village d'Auvergne, dans son unique classe, qui va de la maternelle au CM2. Jour après jour, on suit le quotidien de cette petite communauté d'enfants qui s'organise autour de l'instituteur."
+            "idFilm": 79092,
+            "titre": "Être et avoir",
+            "realisateurs": "Nicolas Philibert",
+            "annee": 2002,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Immersion au cœur de l'école d'un petit village d'Auvergne, dans son unique classe, qui va de la maternelle au CM2. Jour après jour, on suit le quotidien de cette petite communauté d'enfants qui s'organise autour de l'instituteur."
+              }
+            ],
+            "duree": 104,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "duree": 104,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 104021,
@@ -350,22 +255,43 @@
         ]
       },
       {
-        "idFilm": 154415,
-        "typeEvenement": 13,
-        "titre": "Fils du garde de chasse",
-        "art": "Le",
-        "realisateurs": "Alice Guy",
-        "annee": 1906,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Un garde-chasse suscite la fierté de son fils aîné, tant et si bien que celui-ci aide son père à venir à bout de deux braconniers."
+            "idFilm": 154415,
+            "titre": "Fils du garde de chasse",
+            "art": "Le",
+            "realisateurs": "Alice Guy",
+            "annee": 1906,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Un garde-chasse suscite la fierté de son fils aîné, tant et si bien que celui-ci aide son père à venir à bout de deux braconniers."
+              }
+            ],
+            "duree": 5,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          },
+          {
+            "idFilm": 62245,
+            "titre": "Général Idi Amin Dada",
+            "realisateurs": "Barbet Schroeder",
+            "annee": 1974,
+            "pays": "France-Suisse",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Portrait du général Idi Amin Dada, président à vie de l'Ouganda après son coup d'État de 1971. Devant la caméra de Barbet Schroeder, le dictateur se met en scène avec gourmandise, tour à tour naïf et lucide, drôle et sinistre."
+              }
+            ],
+            "duree": 92,
+            "format": "DCP",
+            "version": "",
+            "ordre": 2
           }
         ],
-        "duree": 5,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 101552,
@@ -376,59 +302,31 @@
               "Georges Franju"
             ],
             "mention": "Séance présentée par Barbet Schroeder (sous réserve)",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film suivi de _Général Idi Amin Dada_ de Barbet Schroeder"
+            "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 62245,
-        "typeEvenement": 13,
-        "titre": "Général Idi Amin Dada",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1974,
-        "pays": "France-Suisse",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Portrait du général Idi Amin Dada, président à vie de l'Ouganda après son coup d'État de 1971. Devant la caméra de Barbet Schroeder, le dictateur se met en scène avec gourmandise, tour à tour naïf et lucide, drôle et sinistre."
-          }
-        ],
-        "duree": 92,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 101552,
-            "ordre": 2,
-            "dateHeure": "2023-07-01T18:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 68649,
+            "titre": "Glaneurs et la Glaneuse",
+            "art": "Les",
+            "realisateurs": "Agnès Varda",
+            "annee": 1999,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant."
+              }
             ],
-            "mention": "Séance présentée par Barbet Schroeder (sous réserve)",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _Le Fils du garde de chasse_ d'Alice Guy"
-          }
-        ]
-      },
-      {
-        "idFilm": 68649,
-        "typeEvenement": 13,
-        "titre": "Glaneurs et la Glaneuse",
-        "art": "Les",
-        "realisateurs": "Agnès Varda",
-        "annee": 1999,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant."
+            "duree": 82,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "duree": 82,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 101385,
@@ -444,54 +342,27 @@
         ]
       },
       {
-        "idFilm": 50523,
-        "typeEvenement": 13,
-        "titre": "Hippocampe",
-        "art": "L'",
-        "realisateurs": "Jean Painlevé",
-        "annee": 1933,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Les images spectaculaires d'un hippocampe mâle enceint donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante."
-          }
-        ],
-        "duree": 16,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104294,
-            "ordre": 2,
-            "dateHeure": "2023-06-28T18:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 53328,
+            "titre": "Homme à la caméra",
+            "art": "L'",
+            "titreVo": "Tchelovek s kinoapparatom",
+            "realisateurs": "Dziga Vertov",
+            "annee": 1929,
+            "pays": "URSS",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Un homme parcourt une ville avec une caméra en bandoulière, documentant la vie urbaine, le travail, les loisirs. Incontournable de l'avant-garde soviétique, entre expérimentations techniques et virtuosité du montage, le film est une mise en abîme du cinéma."
+              }
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _La Pieuvre_ de Jean Painlevé et suivi de d'_Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé"
-          }
-        ]
-      },
-      {
-        "idFilm": 53328,
-        "typeEvenement": 13,
-        "titre": "Homme à la caméra",
-        "art": "L'",
-        "titreVo": "Tchelovek s kinoapparatom",
-        "realisateurs": "Dziga Vertov",
-        "annee": 1929,
-        "pays": "URSS",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Un homme parcourt une ville avec une caméra en bandoulière, documentant la vie urbaine, le travail, les loisirs. Incontournable de l'avant-garde soviétique, entre expérimentations techniques et virtuosité du montage, le film est une mise en abîme du cinéma."
+            "duree": 70,
+            "format": "DCP",
+            "version": "INT. FR.",
+            "ordre": 1
           }
         ],
-        "duree": 70,
-        "format": "DCP",
-        "version": "INT. FR.",
         "seances": [
           {
             "idSeance": 104055,
@@ -506,93 +377,29 @@
         ]
       },
       {
-        "idFilm": 53249,
-        "typeEvenement": 13,
-        "titre": "Hôtel des Invalides",
-        "realisateurs": "Georges Franju",
-        "annee": 1951,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Un film sur le musée de l'Armée à l'Hôtel des Invalides, qui se transforme en réquisitoire contre la guerre."
-          },
-          {
-            "typeTexte": 99,
-            "texte": "Copie neuve de la Cinémathèque française tirée en collaboration avec Gaumont."
-          }
-        ],
-        "generique": [
-          "Michel Simon"
-        ],
-        "duree": 22,
-        "format": "35 mm",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104023,
-            "ordre": 2,
-            "dateHeure": "2023-06-26T20:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 58050,
+            "titre": "Joli Mai",
+            "art": "Le",
+            "realisateurs": "Chris Marker, Pierre Lhomme",
+            "annee": 1962,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Paris, mai 1962. La guerre d'Algérie vient de s'achever. Les Parisiens témoignent de leurs angoisses, leurs bonheurs, leurs espoirs. Peu à peu se dessine un portrait pris sur le vif de la France à l'aube des années 1960."
+              }
             ],
-            "mention": "Séance présentée par Joël Daire",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _Les Poussières_ de Georges Franju et suivi de de _Monsieur et madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju"
-          }
-        ]
-      },
-      {
-        "idFilm": 65711,
-        "typeEvenement": 13,
-        "titre": "Hyas, sténorinque, spirographe",
-        "realisateurs": "Jean Painlevé",
-        "annee": 1929,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Présentation de petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales."
-          }
-        ],
-        "duree": 13,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104294,
-            "ordre": 4,
-            "dateHeure": "2023-06-28T18:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "generique": [
+              "Yves Montand"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _La Pieuvre_ de Jean Painlevé, _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé et suivi de de _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé"
-          }
-        ]
-      },
-      {
-        "idFilm": 58050,
-        "typeEvenement": 13,
-        "titre": "Joli Mai",
-        "art": "Le",
-        "realisateurs": "Chris Marker, Pierre Lhomme",
-        "annee": 1962,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Paris, mai 1962. La guerre d'Algérie vient de s'achever. Les Parisiens témoignent de leurs angoisses, leurs bonheurs, leurs espoirs. Peu à peu se dessine un portrait pris sur le vif de la France à l'aube des années 1960."
+            "duree": 145,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "generique": [
-          "Yves Montand"
-        ],
-        "duree": 145,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 101386,
@@ -608,24 +415,28 @@
         ]
       },
       {
-        "idFilm": 38514,
-        "typeEvenement": 13,
-        "titre": "Jungle plate",
-        "art": "La",
-        "titreVo": "Platte jungle",
-        "artVo": "De",
-        "realisateurs": "Johan van der Keuken",
-        "annee": 1978,
-        "pays": "Pays-Bas",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "La Waddenzee, « mer des terres humides », est une région naturelle unique, zone côtière des Pays-Bas, de l'Allemagne et du Danemark qui, selon les marées, est tantôt mer ou tantôt terre. Johan van der Keuken filme cette « jungle plate », sa faune, sa flore et ses habitants."
+            "idFilm": 38514,
+            "titre": "Jungle plate",
+            "art": "La",
+            "titreVo": "Platte jungle",
+            "artVo": "De",
+            "realisateurs": "Johan van der Keuken",
+            "annee": 1978,
+            "pays": "Pays-Bas",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "La Waddenzee, « mer des terres humides », est une région naturelle unique, zone côtière des Pays-Bas, de l'Allemagne et du Danemark qui, selon les marées, est tantôt mer ou tantôt terre. Johan van der Keuken filme cette « jungle plate », sa faune, sa flore et ses habitants."
+              }
+            ],
+            "duree": 90,
+            "format": "16 mm",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "duree": 90,
-        "format": "16 mm",
-        "version": "",
         "seances": [
           {
             "idSeance": 104224,
@@ -640,26 +451,47 @@
         ]
       },
       {
-        "idFilm": 106219,
-        "typeEvenement": 13,
-        "titre": "Marâtre",
-        "art": "La",
-        "realisateurs": "Alice Guy",
-        "annee": 1906,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Une belle-mère s'en prend au fils de son mari. Librement inspiré du roman d'Honoré de Balzac."
+            "idFilm": 106219,
+            "titre": "Marâtre",
+            "art": "La",
+            "realisateurs": "Alice Guy",
+            "annee": 1906,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Une belle-mère s'en prend au fils de son mari. Librement inspiré du roman d'Honoré de Balzac."
+              }
+            ],
+            "duree": 7,
+            "format": "",
+            "version": "",
+            "ordre": 1
+          },
+          {
+            "idFilm": 52364,
+            "titre": "Chronique d'un été",
+            "realisateurs": "Jean Rouch, Edgar Morin",
+            "annee": 1960,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, enquêtent sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés évoquent leurs préoccupations et leurs espoirs, et tentent de répondre à la question : « Êtes-vous heureux ? »"
+              }
+            ],
+            "duree": 86,
+            "format": "DCP",
+            "version": "",
+            "ordre": 2
           }
         ],
-        "duree": 7,
-        "format": "",
-        "version": "",
         "seances": [
           {
             "idSeance": 104053,
-            "ordre": 1,
+            "ordre": 2,
             "dateHeure": "2023-07-01T14:30:00",
             "idSalle": [
               "GF",
@@ -667,99 +499,31 @@
             ],
             "typeAssoc": 118,
             "typeEvenement": 13,
-            "precedeSuivi": "Film suivi de _Chronique d'un été_ de Jean Rouch, Edgar Morin",
             "mentionRenvoi": "Voir aussi dialogue p. xx"
           }
         ]
       },
       {
-        "idFilm": 57843,
-        "typeEvenement": 13,
-        "titre": "Mon chien",
-        "realisateurs": "Georges Franju",
-        "annee": 1955,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Une famille habitant une maison bourgeoise de la banlieue parisienne part en vacances. Sur la route, les parents abandonnent le chien de leur petite fille dans la forêt."
-          }
-        ],
-        "generique": [
-          "Jacqueline Lemaire"
-        ],
-        "duree": 25,
-        "format": "35 mm",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104023,
-            "ordre": 5,
-            "dateHeure": "2023-06-26T20:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 41219,
+            "titre": "Nanouk l'esquimau",
+            "titreVo": "Nanook of the North",
+            "realisateurs": "Robert J. Flaherty",
+            "annee": 1922,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo."
+              }
             ],
-            "mention": "Séance présentée par Joël Daire",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju"
-          }
-        ]
-      },
-      {
-        "idFilm": 57842,
-        "typeEvenement": 13,
-        "titre": "Monsieur et madame Curie",
-        "realisateurs": "Georges Franju",
-        "annee": 1953,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Portrait de Pierre et Marie Curie, chercheurs de génie, dont les travaux menèrent à la découverte du radium et de la radioactivité."
+            "duree": 50,
+            "format": "",
+            "version": "INT. FR.",
+            "ordre": 1
           }
         ],
-        "adaptation": "D'après la biographie _Pierre Curie_ de Marie Curie.",
-        "generique": [
-          "Nicole Stéphane",
-          "Lucien Hubert",
-          "Lucien Barjon"
-        ],
-        "duree": 14,
-        "format": "16 mm",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104023,
-            "ordre": 3,
-            "dateHeure": "2023-06-26T20:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "mention": "Séance présentée par Joël Daire",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju et suivi de de _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju"
-          }
-        ]
-      },
-      {
-        "idFilm": 41219,
-        "typeEvenement": 13,
-        "titre": "Nanouk l'esquimau",
-        "titreVo": "Nanook of the North",
-        "realisateurs": "Robert J. Flaherty",
-        "annee": 1922,
-        "pays": "États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo."
-          }
-        ],
-        "duree": 50,
-        "format": "",
-        "version": "INT. FR.",
         "seances": [
           {
             "idSeance": 104052,
@@ -776,56 +540,150 @@
         ]
       },
       {
-        "idFilm": 154375,
-        "typeEvenement": 13,
-        "titre": "Pieuvre",
-        "art": "La",
-        "realisateurs": "Jean Painlevé",
-        "annee": 1928,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Étude de la pieuvre dans son habitat. Le premier documentaire de vulgarisation scientifique de Jean Painlevé."
+            "idFilm": 154375,
+            "titre": "Pieuvre",
+            "art": "La",
+            "realisateurs": "Jean Painlevé",
+            "annee": 1928,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Étude de la pieuvre dans son habitat. Le premier documentaire de vulgarisation scientifique de Jean Painlevé."
+              },
+              {
+                "typeTexte": 99,
+                "texte": "_La Pieuvre_ a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque."
+              }
+            ],
+            "duree": 13,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           },
           {
-            "typeTexte": 99,
-            "texte": "_La Pieuvre_ a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque."
+            "idFilm": 50523,
+            "titre": "Hippocampe",
+            "art": "L'",
+            "realisateurs": "Jean Painlevé",
+            "annee": 1933,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Les images spectaculaires d'un hippocampe mâle enceint donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante."
+              }
+            ],
+            "duree": 16,
+            "format": "DCP",
+            "version": "",
+            "ordre": 2
+          },
+          {
+            "idFilm": 65713,
+            "titre": "Acéra ou le bal des sorcières",
+            "realisateurs": "Jean Painlevé",
+            "annee": 1972,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli formant un manteau autour du corps. Sa nage ressemble à une danse, la danse serpentine mise à la mode par Loïe Fuller."
+              }
+            ],
+            "duree": 17,
+            "format": "DCP",
+            "version": "",
+            "ordre": 3
+          },
+          {
+            "idFilm": 65711,
+            "titre": "Hyas, sténorinque, spirographe",
+            "realisateurs": "Jean Painlevé",
+            "annee": 1929,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Présentation de petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales."
+              }
+            ],
+            "duree": 13,
+            "format": "DCP",
+            "version": "",
+            "ordre": 4
+          },
+          {
+            "idFilm": 65709,
+            "titre": "Amours de la pieuvre",
+            "art": "Les",
+            "realisateurs": "Jean Painlevé",
+            "annee": 1965,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers."
+              }
+            ],
+            "duree": 13,
+            "format": "DCP",
+            "version": "",
+            "ordre": 5
+          },
+          {
+            "idFilm": 154416,
+            "titre": "Cristaux liquides",
+            "realisateurs": "Jean Painlevé",
+            "annee": 1978,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Étude au microscope des dispositions moléculaires multicolores des cristaux liquides."
+              }
+            ],
+            "duree": 6,
+            "format": "DCP",
+            "version": "",
+            "ordre": 6
           }
         ],
-        "duree": 13,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 104294,
-            "ordre": 1,
+            "ordre": 3,
             "dateHeure": "2023-06-28T18:30:00",
             "idSalle": [
               "GF",
               "Georges Franju"
             ],
-            "typeEvenement": 13,
-            "precedeSuivi": "Film suivi de _L'Hippocampe_ de Jean Painlevé, _Acéra ou le bal des sorcières_ de Jean Painlevé, _Hyas, sténorinque, spirographe_ de Jean Painlevé, _Les Amours de la pieuvre_ de Jean Painlevé, _Cristaux liquides_ de Jean Painlevé"
+            "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 56070,
-        "typeEvenement": 13,
-        "titre": "Pour la suite du monde",
-        "realisateurs": "Pierre Perrault, Michel Brault",
-        "annee": 1963,
-        "pays": "Canada",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Documentaire poétique et ethnographique sur la vie des habitants de l'Isle-aux-Coudres, leur langue, et la légendaire pêche au marsouin. Abandonnée depuis trente-huit ans, la technique de pêche ancestrale est reconstituée pour le film par les habitants."
+            "idFilm": 56070,
+            "titre": "Pour la suite du monde",
+            "realisateurs": "Pierre Perrault, Michel Brault",
+            "annee": 1963,
+            "pays": "Canada",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Documentaire poétique et ethnographique sur la vie des habitants de l'Isle-aux-Coudres, leur langue, et la légendaire pêche au marsouin. Abandonnée depuis trente-huit ans, la technique de pêche ancestrale est reconstituée pour le film par les habitants."
+              }
+            ],
+            "duree": 105,
+            "format": "35 mm",
+            "version": "VOSTF",
+            "ordre": 1
           }
         ],
-        "duree": 105,
-        "format": "35 mm",
-        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 101436,
@@ -841,53 +699,149 @@
         ]
       },
       {
-        "idFilm": 48621,
-        "typeEvenement": 13,
-        "titre": "Poussières",
-        "art": "Les",
-        "realisateurs": "Georges Franju",
-        "annee": 1954,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Après avoir identifié les diverses sources de poussière, ce documentaire s'attache à observer l'effet qu'elles provoquent sur la santé de l'homme, en particulier dans le cadre de son travail."
+            "idFilm": 48621,
+            "titre": "Poussières",
+            "art": "Les",
+            "realisateurs": "Georges Franju",
+            "annee": 1954,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Après avoir identifié les diverses sources de poussière, ce documentaire s'attache à observer l'effet qu'elles provoquent sur la santé de l'homme, en particulier dans le cadre de son travail."
+              }
+            ],
+            "duree": 22,
+            "format": "16 mm",
+            "version": "",
+            "ordre": 1
+          },
+          {
+            "idFilm": 53249,
+            "titre": "Hôtel des Invalides",
+            "realisateurs": "Georges Franju",
+            "annee": 1951,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Un film sur le musée de l'Armée à l'Hôtel des Invalides, qui se transforme en réquisitoire contre la guerre."
+              },
+              {
+                "typeTexte": 99,
+                "texte": "Copie neuve de la Cinémathèque française tirée en collaboration avec Gaumont."
+              }
+            ],
+            "generique": [
+              "Michel Simon"
+            ],
+            "duree": 22,
+            "format": "35 mm",
+            "version": "",
+            "ordre": 2
+          },
+          {
+            "idFilm": 57842,
+            "titre": "Monsieur et madame Curie",
+            "realisateurs": "Georges Franju",
+            "annee": 1953,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Portrait de Pierre et Marie Curie, chercheurs de génie, dont les travaux menèrent à la découverte du radium et de la radioactivité."
+              }
+            ],
+            "adaptation": "D'après la biographie _Pierre Curie_ de Marie Curie.",
+            "generique": [
+              "Nicole Stéphane",
+              "Lucien Hubert",
+              "Lucien Barjon"
+            ],
+            "duree": 14,
+            "format": "16 mm",
+            "version": "",
+            "ordre": 3
+          },
+          {
+            "idFilm": 48632,
+            "titre": "Sang des bêtes",
+            "art": "Le",
+            "realisateurs": "Georges Franju",
+            "annee": 1949,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Documentaire consacré aux abattoirs parisiens de Vaugirard et de la Villette dans les années d'après-guerre."
+              },
+              {
+                "typeTexte": 99,
+                "texte": "Franju dépasse le réalisme du reportage en installant une atmosphère poétique, voire fantastique."
+              }
+            ],
+            "duree": 21,
+            "format": "DCP",
+            "version": "",
+            "ordre": 4
+          },
+          {
+            "idFilm": 57843,
+            "titre": "Mon chien",
+            "realisateurs": "Georges Franju",
+            "annee": 1955,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Une famille habitant une maison bourgeoise de la banlieue parisienne part en vacances. Sur la route, les parents abandonnent le chien de leur petite fille dans la forêt."
+              }
+            ],
+            "generique": [
+              "Jacqueline Lemaire"
+            ],
+            "duree": 25,
+            "format": "35 mm",
+            "version": "",
+            "ordre": 5
           }
         ],
-        "duree": 22,
-        "format": "16 mm",
-        "version": "",
         "seances": [
           {
             "idSeance": 104023,
-            "ordre": 1,
+            "ordre": 2,
             "dateHeure": "2023-06-26T20:00:00",
             "idSalle": [
               "GF",
               "Georges Franju"
             ],
             "mention": "Séance présentée par Joël Daire",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film suivi de _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curie_ de Georges Franju, _Le Sang des bêtes_ de Georges Franju, _Mon chien_ de Georges Franju"
+            "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 31875,
-        "typeEvenement": 13,
-        "titre": "Primary",
-        "realisateurs": "Robert Drew",
-        "annee": 1960,
-        "pays": "États-Unis",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Chronique de la campagne du futur président Kennedy et du sénateur Humphrey pour les élections primaires du Wisconsin, en 1960."
+            "idFilm": 31875,
+            "titre": "Primary",
+            "realisateurs": "Robert Drew",
+            "annee": 1960,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Chronique de la campagne du futur président Kennedy et du sénateur Humphrey pour les élections primaires du Wisconsin, en 1960."
+              }
+            ],
+            "duree": 60,
+            "format": "DCP",
+            "version": "VOSTF",
+            "ordre": 1
           }
         ],
-        "duree": 60,
-        "format": "DCP",
-        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 101616,
@@ -902,21 +856,25 @@
         ]
       },
       {
-        "idFilm": 63749,
-        "typeEvenement": 13,
-        "titre": "Récréations",
-        "realisateurs": "Claire Simon",
-        "annee": 1993,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Par l'observation distante d'une cour de récréation de maternelle, Claire Denis révèle les lois et la violence qui régissent ce petit monde de jeux enfantins."
+            "idFilm": 63749,
+            "titre": "Récréations",
+            "realisateurs": "Claire Simon",
+            "annee": 1993,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Par l'observation distante d'une cour de récréation de maternelle, Claire Denis révèle les lois et la violence qui régissent ce petit monde de jeux enfantins."
+              }
+            ],
+            "duree": 54,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "duree": 54,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 104205,
@@ -931,21 +889,25 @@
         ]
       },
       {
-        "idFilm": 60776,
-        "typeEvenement": 13,
-        "titre": "Reprise",
-        "realisateurs": "Hervé Le Roux",
-        "annee": 1996,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Le 10 juin 1968, des étudiants en cinéma filment la reprise du travail aux usines Wonder de Saint-Ouen. Une jeune ouvrière dit qu'elle ne rentrera pas. Un quart de siècle plus tard, la recherche de cette femme prend le tour d'une enquête quasi obsessionnelle."
+            "idFilm": 60776,
+            "titre": "Reprise",
+            "realisateurs": "Hervé Le Roux",
+            "annee": 1996,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Le 10 juin 1968, des étudiants en cinéma filment la reprise du travail aux usines Wonder de Saint-Ouen. Une jeune ouvrière dit qu'elle ne rentrera pas. Un quart de siècle plus tard, la recherche de cette femme prend le tour d'une enquête quasi obsessionnelle."
+              }
+            ],
+            "duree": 180,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "duree": 180,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 101726,
@@ -962,57 +924,25 @@
         ]
       },
       {
-        "idFilm": 48632,
-        "typeEvenement": 13,
-        "titre": "Sang des bêtes",
-        "art": "Le",
-        "realisateurs": "Georges Franju",
-        "annee": 1949,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Documentaire consacré aux abattoirs parisiens de Vaugirard et de la Villette dans les années d'après-guerre."
-          },
-          {
-            "typeTexte": 99,
-            "texte": "Franju dépasse le réalisme du reportage en installant une atmosphère poétique, voire fantastique."
-          }
-        ],
-        "duree": 21,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104023,
-            "ordre": 4,
-            "dateHeure": "2023-06-26T20:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 75848,
+            "titre": "Sobibor, 14 octobre 1943, 16 heures",
+            "realisateurs": "Claude Lanzmann",
+            "annee": 2001,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre."
+              }
             ],
-            "mention": "Séance présentée par Joël Daire",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _Les Poussières_ de Georges Franju, _Hôtel des Invalides_ de Georges Franju, _Monsieur et madame Curie_ de Georges Franju et suivi de de _Mon chien_ de Georges Franju"
-          }
-        ]
-      },
-      {
-        "idFilm": 75848,
-        "typeEvenement": 13,
-        "titre": "Sobibor, 14 octobre 1943, 16 heures",
-        "realisateurs": "Claude Lanzmann",
-        "annee": 2001,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre."
+            "duree": 95,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "duree": 95,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 101579,
@@ -1028,26 +958,30 @@
         ]
       },
       {
-        "idFilm": 67847,
-        "typeEvenement": 13,
-        "titre": "Sois belle et tais-toi",
-        "realisateurs": "Delphine Seyrig",
-        "annee": 1977,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Vingt-quatre actrices françaises et américaines parlent de leurs expériences professionnelles en tant que femmes, leurs rôles et leurs rapports avec les réalisateurs et les équipes techniques. Bilan collectif sur une profession qui ne permet que des rôles stéréotypés et aliénants."
+            "idFilm": 67847,
+            "titre": "Sois belle et tais-toi",
+            "realisateurs": "Delphine Seyrig",
+            "annee": 1977,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Vingt-quatre actrices françaises et américaines parlent de leurs expériences professionnelles en tant que femmes, leurs rôles et leurs rapports avec les réalisateurs et les équipes techniques. Bilan collectif sur une profession qui ne permet que des rôles stéréotypés et aliénants."
+              }
+            ],
+            "generique": [
+              "Ellen Burstyn",
+              "Jane Fonda",
+              "Anne Wiazemsky"
+            ],
+            "duree": 111,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
           }
         ],
-        "generique": [
-          "Ellen Burstyn",
-          "Jane Fonda",
-          "Anne Wiazemsky"
-        ],
-        "duree": 111,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 104060,
@@ -1063,21 +997,42 @@
         ]
       },
       {
-        "idFilm": 68124,
-        "typeEvenement": 13,
-        "titre": "Sud",
-        "realisateurs": "Chantal Akerman",
-        "annee": 1999,
-        "pays": "France-Belgique",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Voyage dans le sud des États-Unis, avec comme fil rouge le meurtre par lynchage du musicien noir James Byrd Jr."
+            "idFilm": 154414,
+            "titre": "Vues d'Espagne",
+            "realisateurs": "Alice Guy",
+            "annee": 1905,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparaît à l'image."
+              }
+            ],
+            "duree": 10,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          },
+          {
+            "idFilm": 68124,
+            "titre": "Sud",
+            "realisateurs": "Chantal Akerman",
+            "annee": 1999,
+            "pays": "France-Belgique",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Voyage dans le sud des États-Unis, avec comme fil rouge le meurtre par lynchage du musicien noir James Byrd Jr."
+              }
+            ],
+            "duree": 70,
+            "format": "DCP",
+            "version": "",
+            "ordre": 2
           }
         ],
-        "duree": 70,
-        "format": "DCP",
-        "version": "",
         "seances": [
           {
             "idSeance": 101553,
@@ -1088,58 +1043,30 @@
               "Georges Franju"
             ],
             "mention": "Séance présentée par Claire Atherton et Alice Winocour",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _Vues d'Espagne_ d'Alice Guy"
+            "typeEvenement": 13
           }
         ]
       },
       {
-        "idFilm": 154414,
-        "typeEvenement": 13,
-        "titre": "Vues d'Espagne",
-        "realisateurs": "Alice Guy",
-        "annee": 1905,
-        "pays": "France",
-        "textes": [
+        "items": [
           {
-            "typeTexte": 9,
-            "texte": "Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparaît à l'image."
-          }
-        ],
-        "duree": 10,
-        "format": "DCP",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 101553,
-            "ordre": 1,
-            "dateHeure": "2023-07-01T20:45:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
+            "idFilm": 62606,
+            "titre": "Welfare",
+            "realisateurs": "Frederick Wiseman",
+            "annee": 1975,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Un panorama du système de santé et de sécurité sociale américain, à travers les problèmes de logement, de chômage, de divorce, de maltraitance d'enfants. Dans un bureau new-yorkais, les travailleurs sociaux comme les usagers se retrouvent démunis face à un système qui gouverne leur travail et leur vie."
+              }
             ],
-            "mention": "Séance présentée par Claire Atherton et Alice Winocour",
-            "typeEvenement": 13,
-            "precedeSuivi": "Film suivi de _Sud_ de Chantal Akerman"
-          }
-        ]
-      },
-      {
-        "idFilm": 62606,
-        "typeEvenement": 13,
-        "titre": "Welfare",
-        "realisateurs": "Frederick Wiseman",
-        "annee": 1975,
-        "pays": "États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Un panorama du système de santé et de sécurité sociale américain, à travers les problèmes de logement, de chômage, de divorce, de maltraitance d'enfants. Dans un bureau new-yorkais, les travailleurs sociaux comme les usagers se retrouvent démunis face à un système qui gouverne leur travail et leur vie."
+            "duree": 167,
+            "format": "DCP",
+            "version": "VOSTF",
+            "ordre": 1
           }
         ],
-        "duree": 167,
-        "format": "DCP",
-        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 104223,
@@ -1168,15 +1095,15 @@
             "textes": [
               {
                 "typeTexte": 9,
-                "texte": "« Révillon Frères, bailleur de fonds, commandite toute l'entreprise de _Nanouk_. Une dotation de 3000 dollars libère les Inuits de leurs obligations de chasse et de pêche pendant le tournage du film. Les voilà à l'entière disposition de leur metteur en scène. Il va leur faire rejouer les activités dont ils viennent de se délier. Le 15 août 1919, Flaherty and Cie pénètre dans l'embouchure de l'Innusuk. (...) Un stupéfiant tournage de quinze mois commence. » Pierre Gabaston, _Nanouk l'esquimau_, Les Enfants de cinéma, 2004 « Loin de Hollywood, de ses studios qu'il fuit et où il étoufferait, bannissant les clairs-obscurs de l'Expressionnisme, Flaherty – le réfractaire – éclaire sa toile de fond concrète d'une élémentaire source lumineuse : l'astre du jour garde sa confiance. Luit seul, le soleil. Sous son empire, une origine, blancheur, silence et infini se répondent en une symphonie parfaite. » Pierre Gabaston, _Trafic_, printemps 2016"
+                "texte": "« Révillon Frères, bailleur de fonds, commandite toute l'entreprise de _Nanouk_. Une dotation de 3 000 dollars libère les Inuits de leurs obligations de chasse et de pêche pendant le tournage du film. Les voilà à l'entière disposition de leur metteur en scène. Il va leur faire rejouer les activités dont ils viennent de se délier. Le 15 août 1919, Flaherty and C<sup>ie</sup> pénètre dans l'embouchure de l'Innusuk. (...) Un stupéfiant tournage de quinze mois commence. » (Pierre Gabaston, _Nanouk l'esquimau_, Les Enfants de cinéma, 2004) « Loin de Hollywood, de ses studios qu'il fuit et où il étoufferait, bannissant les clairs-obscurs de l'Expressionnisme, Flaherty – le réfractaire – éclaire sa toile de fond concrète d'une élémentaire source lumineuse : l'astre du jour garde sa confiance. Luit seul, le soleil. Sous son empire, une origine, blancheur, silence et infini se répondent en une symphonie parfaite. » (Pierre Gabaston, _Trafic_, printemps 2016)"
               },
               {
                 "typeTexte": 156,
-                "texte": "**Pierre Gabaston** : « Depuis plus de cinquante ans, un éternel enfant de la Cinémathèque – aussi n'ai-je pas beaucoup de cheveux blancs. De Chaillot à Bercy (direct avec la 6), je m'évertue, avant tout, à VOIR UN FILM. Sortant d'une projection, je me forme au sein de petits groupes d'amis. Collèges ardents et flottants, soudain ils se défont, s'agrègent autrement, selon leurs anxiétés filmiques à fleur de peau. Ce fut et restera mon Académie de Platon, mon Agora cinéphilique. La meilleure école. Enseignant auprès d'enfants handicapés. Ma vocation. Auteur de textes et de monographies chez Yellow Now, de _Cahiers de notes_ pour les Enfants de cinéma, d'écrits dans la revue _Trafic_ »."
+                "texte": "Pierre Gabaston : depuis plus de cinquante ans, un éternel enfant de la Cinémathèque – aussi n'ai-je pas beaucoup de cheveux blancs. De Chaillot à Bercy (direct avec la 6), je m'évertue, avant tout, de _VOIR UN FILM_. Sortant d'une projection, je me forme au sein de petits groupes d'amis. Collèges ardents et flottants, soudain ils se défont, s'agrègent autrement, selon leurs anxiétés filmiques à fleur de peau. Ce fut et restera mon Académie de Platon, mon Agora cinéphilique. La meilleure école. Enseignant auprès d'enfants handicapés. Ma vocation. Auteur de textes et de monographies chez Yellow Now, de _Cahiers de notes_ pour les Enfants de cinéma, d'écrits dans la revue _Trafic_."
               },
               {
                 "typeTexte": 156,
-                "texte": "**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française."
+                "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française."
               }
             ],
             "duree": 60,
@@ -1207,15 +1134,15 @@
             "textes": [
               {
                 "typeTexte": 9,
-                "texte": "« _Chronique d'un été_ remporte le prix de la critique internationale du festival de Cannes, puis sort discrètement en salle en France, à l'automne, le 20 octobre 1961. Il dure une heure vingt-six. Une petite vingtaine de participants y figurent. Ils ont accepté l'expérience mi-sérieuse mi-factieuse lancée par Rouch et Morin en 1960 : une recherche filmée sur la façon dont, à Paris, « on se débrouille avec la vie ». Marceline \\[Loridan\\] pourrait être une interprète parmi les autres. Pourtant, elle seule porte, dans _Chronique d'un été_, une histoire qui n'est pas celle de « tout le monde ». » « L'intuition du film : faire des lambeaux de souvenirs de Marceline les pièces magistralement ajustées d'un manteau ; une intuition qui va contribuer à ce que _Chronique_, selon la jolie formule qu'emploie Anatole Dauman en 1990, « défie les années ». » Frédérique Berthet, _La Voix manquante_, P.O.L, 2018"
+                "texte": "« _Chronique d'un été_ remporte le prix de la critique internationale du festival de Cannes, puis sort discrètement en salle en France, à l'automne, le 20 octobre 1961. Il dure une heure vingt-six. Une petite vingtaine de participants y figurent. Ils ont accepté l'expérience mi-sérieuse mi-factieuse lancée par Rouch et Morin en 1960 : une recherche filmée sur la façon dont, à Paris, « on se débrouille avec la vie ». Marceline [Loridan] pourrait être une interprète parmi les autres. Pourtant, elle seule porte, dans _Chronique d'un été_, une histoire qui n'est pas celle de “tout le monde”. » « L'intuition du film : faire des lambeaux de souvenirs de Marceline les pièces magistralement ajustées d'un manteau ; une intuition qui va contribuer à ce que _Chronique_, selon la jolie formule qu'emploie Anatole Dauman en 1990, “défie les années”. » (Frédérique Berthet, _La Voix manquante_, P.O.L, 2018)"
               },
               {
                 "typeTexte": 156,
-                "texte": "**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française."
+                "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française."
               },
               {
                 "typeTexte": 156,
-                "texte": "Professeure de cinéma, **Frédérique Berthet** est aussi membre de la Commission de recherche historique de la Cinémathèque française. Elle a publié _De Warhol à Wenders, une vie de cinéma, Souvenirs de Pascale Dauman_ (Ramsay, 2008), ainsi que deux ouvrages aux éditions P.O.L : en 2020, un roman, _Never(s)_, et un essai, _La Voix manquante_ (Prix 2018 du livre de cinéma du CNC), qui décrit avec précision l'aventure de _Chronique d'un été_ et, au cœur de cette expérience de « cinéma-vérité », revient sur le secret d'une femme, Marceline Loridan."
+                "texte": "Professeure de cinéma, Frédérique Berthet est aussi membre de la Commission de recherche historique de la Cinémathèque française. Elle a publié _De Warhol à Wenders, une vie de cinéma : Souvenirs de Pascale Dauman_ (Ramsay, 2008), ainsi que deux ouvrages aux éditions P.O.L : en 2020, un roman, _Never(s)_, et un essai, _La Voix manquante_ (Prix 2018 du livre de cinéma du CNC), qui décrit avec précision l'aventure de _Chronique d'un été_ et, au cœur de cette expérience de « cinéma-vérité », revient sur le secret d'une femme, Marceline Loridan."
               }
             ],
             "duree": 60,
@@ -1246,15 +1173,15 @@
             "textes": [
               {
                 "typeTexte": 9,
-                "texte": "Juin 1968 : une jeune ouvrière des usines Wonder de Saint-Ouen refuse de reprendre le travail ; des étudiants en cinéma sont là, qui filment son cri de révolte. 1997 : le cinéaste Hervé Le Roux part à la recherche de cette belle inconnue en rencontrant d'anciens ouvriers, militants et syndicalistes, en leur donnant la parole, longuement, précisément, chaleureusement, et exhumant alors un pan enfoui d'histoire sociale, politique et culturelle... « Wonder, Wonderland, Alice à l'Usine, l'Usine en Pays des Merveilles. Le film a été tourné par des étudiants de l'IDHEC, on y voit des ouvrières qui reprennent le travail après trois semaines de grève. Et cette femme. Qui reste là. Et qui crie. Elle dit qu'elle rentrera pas, qu'elle y foutra plus les pieds dans cette tôle... Les années ont passé. L'usine est fermée. Mais j'arrive pas à oublier le visage, la voix de cette femme. J'ai décidé de la retrouver. Parce qu'elle n'a eu droit qu'à une prise. Et que je lui en dois une deuxième. » (Hervé Le Roux)."
+                "texte": "Juin 1968 : une jeune ouvrière des usines Wonder de Saint-Ouen refuse de reprendre le travail ; des étudiants en cinéma sont là, qui filment son cri de révolte. 1997 : le cinéaste Hervé Le Roux part à la recherche de cette belle inconnue en rencontrant d'anciens ouvriers, militants et syndicalistes, en leur donnant la parole, longuement, précisément, chaleureusement, et exhumant alors un pan enfoui d'histoire sociale, politique et culturelle... « Wonder, Wonderland, Alice à l'Usine, l'Usine en Pays des Merveilles. Le film a été tourné par des étudiants de l'IDHEC, on y voit des ouvrières qui reprennent le travail après trois semaines de grève. Et cette femme. Qui reste là. Et qui crie. Elle dit qu'elle rentrera pas, qu'elle y foutra plus les pieds dans cette tôle... Les années ont passé. L'usine est fermée. Mais j'arrive pas à oublier le visage, la voix de cette femme. J'ai décidé de la retrouver. Parce qu'elle n'a eu droit qu'à une prise. Et que je lui en dois une deuxième. » (Hervé Le Roux)"
               },
               {
                 "typeTexte": 156,
-                "texte": "**Bernard Benoliel** est directeur de l'Action culturelle et éducative à la Cinémathèque française."
+                "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française."
               },
               {
                 "typeTexte": 156,
-                "texte": "**David Faroult** est maître de conférences en cinéma à l'École nationale supérieure Louis-Lumière. Une part importante de ses recherches et publications concerne les cinémas politiques issus de 1968 et le « groupe » Dziga Vertov, dont il a présenté les films en bonus de leur première édition en DVD (_Jean-Luc Godard y el grupo Dziga Vertov_, _Intermedio_, 2008). Il a codirigé l'ouvrage _Jean-Luc Godard : Documents_ (Centre Pompidou, 2006) et, a publié _Godard, Inventions d'un cinéma politique_ (Les prairies ordinaires, 2018)."
+                "texte": "David Faroult est maître de conférences en cinéma à l'École nationale supérieure Louis-Lumière. Une part importante de ses recherches et publications concerne les cinémas politiques issus de 1968 et le « groupe » Dziga Vertov, dont il a présenté les films en bonus de leur première édition en DVD (_Jean-Luc Godard y el grupo Dziga Vertov_, Intermedio, 2008). Il a codirigé l'ouvrage _Jean-Luc Godard : Documents_ (Centre Pompidou, 2006) et, a publié _Godard, inventions d'un cinéma politique_ (Les prairies ordinaires, 2018)."
               }
             ],
             "duree": 60,

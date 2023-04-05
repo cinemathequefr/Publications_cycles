@@ -3,7 +3,7 @@
 ## Aujourd'hui le cinéma (12)
 
   * 27  
-  * Christopher At Sea  
+  * Christopher at Sea  
   * Cicada  
   * Coupeur de route  
   * Dents du bonheur (Les)  
@@ -11,9 +11,9 @@
   * Forêt Debussy  
   * Georgia  
   * Jeanne Dinde  
-  * La Sorcière et le martien  
   * Ligne (La)  
-  * Nowhere Else
+  * Nowhere Else  
+  * Sorcière et le Martien (La)
 
 ## Ciné-club de Frédéric Bonnaud (2)
 

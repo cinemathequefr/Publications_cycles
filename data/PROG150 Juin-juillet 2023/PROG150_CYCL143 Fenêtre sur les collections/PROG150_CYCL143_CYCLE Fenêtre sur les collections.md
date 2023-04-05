@@ -18,7 +18,7 @@ Séance présentée par Mehdi Taïbi et Tariq Teguia
 [90296]  
 **Festival panafricain d'Alger**  
 de William Klein  
-Algérie-France- Allemagne / 1969 / 6 min  
+Algérie-France- Allemagne / 1969 / 6 min / DCP  
 Avec Nina Simone, Archie Shepp, Miriam Makeba.  
 Au cœur d'un festival resté dans les annales, le film se nourrit d'archives des luttes d'indépendance et d'entretiens avec des représentants de mouvements de libération et d'écrivains africains.  
 suivi de  

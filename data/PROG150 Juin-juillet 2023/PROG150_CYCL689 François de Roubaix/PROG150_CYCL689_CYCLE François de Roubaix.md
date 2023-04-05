@@ -20,7 +20,8 @@ France / 1971 / 95 min / VF
 Avec Daniel Gélin, Alexandra Stewart, Philippe Rouleau.  
 Régis, un journaliste, revient à Paris après trois ans d'absence. Il entreprend de retrouver un ami disparu après une enquête aux États-Unis sur l'assassinat de John Kennedy. Tous ceux qui l'ont connu se dérobent et Régis commence à subir des pressions.
 
-- lu 26 juin 18h00 GF
+- lu 26 juin 18h00 GF  
+Séance présentée par Fabrice Toledano
 
 [154377]  
 **François de Roubaix, l'aventurier**  

@@ -9,6 +9,7 @@ France / 1905 / 2 min / INT. FR. / DCP
 Alice Guy orchestre l'enregistrement d'une courte scène chantée.
 
 - sa 1 juil 15h00 HL  
+Séance présentée par Catel & Bocquet  
 Film précédé de _La Fée au choux_ d'Alice Guy et suivi de de _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli
 
 [35235]  
@@ -122,6 +123,7 @@ France / 1896 / 1 min / INT. FR. / DCP
 Dans un potager, une fée fait apparaitre des bébés.
 
 - sa 1 juil 15h00 HL  
+Séance présentée par Catel & Bocquet  
 Film suivi d'_Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli
 
 [35221]  
@@ -220,6 +222,7 @@ France / 1906 / 4 min / DCP
 Film attribué à Alice Guy.
 
 - sa 1 juil 15h00 HL  
+Séance présentée par Catel & Bocquet  
 Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy et suivi de d'_Un numéro du tonnerre_ de Vincente Minnelli
 
 [35207]  
@@ -406,6 +409,7 @@ Avec Judy Holliday, Dean Martin.
 Ella Peterson, une standardiste new-yorkaise, s'immisce dans les affaires des abonnés téléphoniques et devient leur confidente.
 
 - sa 1 juil 15h00 HL  
+Séance présentée par Catel & Bocquet  
 Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy  
 - di 9 juil 14h30 HL
 
