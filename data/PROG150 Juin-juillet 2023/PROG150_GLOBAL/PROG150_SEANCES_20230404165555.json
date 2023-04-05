@@ -754,30 +754,6 @@
     "hashEvenement": "f35614"
   },
   {
-    "idSeance": 104244,
-    "idEvenement": 27875,
-    "dateHeure": "2023-06-05T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Aujourd'hui le cinéma",
-        "Avant-première"
-      ]
-    ],
-    "mention": "Avant-première. Séance suivie d'une discussion avec Paul Saintillan et Jeanne Aslan",
-    "items": [
-      {
-        "idFilm": 154325,
-        "titre": "Fifi",
-        "realisateurs": "Paul Saintillan, Jeanne Aslan",
-        "annee": 2021,
-        "duree": 108,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154325"
-  },
-  {
     "idSeance": 100863,
     "idEvenement": 27922,
     "dateHeure": "2023-06-05T20:15:00",
@@ -1844,31 +1820,6 @@
     "hashEvenement": "f37468"
   },
   {
-    "idSeance": 101043,
-    "idEvenement": 28306,
-    "dateHeure": "2023-06-12T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Aujourd'hui le cinéma",
-        "Ursula Meier"
-      ]
-    ],
-    "mention": "Séance suivie d'une discussion avec Ursula Meier",
-    "items": [
-      {
-        "idFilm": 154425,
-        "titre": "Ligne",
-        "art": "La",
-        "realisateurs": "Ursula Meier",
-        "annee": 2022,
-        "duree": 103,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154425"
-  },
-  {
     "idSeance": 104125,
     "idEvenement": 28180,
     "dateHeure": "2023-06-14T15:00:00",
@@ -2372,7 +2323,8 @@
     "items": [
       {
         "idFilm": 30930,
-        "titre": "Freaks",
+        "titre": "Monstrueuse Parade",
+        "art": "La",
         "realisateurs": "Tod Browning",
         "annee": 1932,
         "duree": 64,
@@ -3490,6 +3442,7 @@
         "titre": "Dernier domicile connu",
         "realisateurs": "José Giovanni",
         "annee": 1970,
+        "duree": 105,
         "format": "DCP"
       }
     ],
@@ -3956,9 +3909,7 @@
         "idFilm": 34700,
         "titre": "Jeff",
         "realisateurs": "Jean Herman",
-        "annee": 1969,
-        "duree": 92,
-        "version": "VOAutres"
+        "annee": 1969
       }
     ],
     "hashEvenement": "f34700"

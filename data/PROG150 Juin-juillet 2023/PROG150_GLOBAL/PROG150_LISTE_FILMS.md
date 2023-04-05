@@ -1,16 +1,18 @@
 # Liste des films par cycle
 
-## Aujourd'hui le cinéma (10)
+## Aujourd'hui le cinéma (12)
 
   * 27  
   * Christopher At Sea  
   * Cicada  
   * Coupeur de route  
   * Dents du bonheur (Les)  
+  * Fifi  
   * Forêt Debussy  
   * Georgia  
   * Jeanne Dinde  
   * La Sorcière et le martien  
+  * Ligne (La)  
   * Nowhere Else
 
 ## Ciné-club de Frédéric Bonnaud (2)
@@ -299,6 +301,7 @@
   * Étoile de mer (L')  
   * Femme au corbeau (La)  
   * Fidélité des images (La)  
+  * Freaks  
   * Halte au bruit  
   * Hellzapoppin  
   * Heure suprême (L')  
@@ -310,7 +313,6 @@
   * Loulou  
   * Meditation on Violence  
   * Meshes of the Afternoon  
-  * Monstrueuse Parade (La)  
   * Non ! Non ! Mille fois non !  
   * Œil à l'état sauvage (L')  
   * Pauvre Cendrillon  

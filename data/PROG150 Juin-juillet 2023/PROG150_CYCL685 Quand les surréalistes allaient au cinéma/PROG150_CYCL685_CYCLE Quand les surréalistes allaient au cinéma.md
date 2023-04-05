@@ -139,6 +139,8 @@ Mary Duncan, dont l'amant est emprisonné pour meurtre, rencontre un vagabond. P
 **La Fidélité des images**  
 de René Magritte  
 Belgique / 1946 / 27 min / DCP  
+Avec Georgette Magritte, Marcel Lecomte, Louis Scutenaire, Irène Hamoir.  
+Avec la complicité d'amis et de son épouse, Magritte compose des sortes de sketches, sans véritable cohérence narrative, séries d'installations filmées rencontrant parfois l'iconographie favorite du peintre et révélant la désinvolture burlesque du tournage.  
 suivi de  
 [113611]  
 **Histoire de détective**  
@@ -163,6 +165,17 @@ Un clin d'œil aux ciné-romans de Louis Feuillade, avec comme toile de fond le 
 
 - me 21 juin 20h30 GF  
 Séance présentée par Dominique Païni
+
+[30930]  
+**Freaks**  
+de Tod Browning  
+États-Unis / 1932 / 64 min / VOSTF / DCP  
+D'après la nouvelle _Spurs_ de Tod Robbins.  
+Avec Wallace Ford, Leila Hyams, Olga Baclanova.  
+Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher.  
+Film également connu sous le titre _La Monstrueuse Parade_.
+
+- ve 16 juin 18h00 HL
 
 [35977]  
 **Hellzapoppin**  
@@ -205,17 +218,6 @@ Avec Louise Brooks, Fritz Kortner, Franz Lederer, Carl Goetz.
 Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils.
 
 - ve 16 juin 20h00 HL
-
-[30930]  
-**La Monstrueuse Parade**  
-**(Freaks)**  
-de Tod Browning  
-États-Unis / 1932 / 64 min / VOSTF / DCP  
-D'après la nouvelle _Spurs_ de Tod Robbins.  
-Avec Wallace Ford, Leila Hyams, Olga Baclanova.  
-Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher.
-
-- ve 16 juin 18h00 HL
 
 [154368]  
 **L'Œil à l'état sauvage**  

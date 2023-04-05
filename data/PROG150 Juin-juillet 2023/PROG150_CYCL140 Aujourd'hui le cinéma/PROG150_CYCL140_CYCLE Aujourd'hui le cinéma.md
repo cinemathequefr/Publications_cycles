@@ -1,5 +1,35 @@
 # Aujourd'hui le cinéma
 
+## Avant-première
+
+Jeanne Aslan et Paul Saintillan signent un premier long métrage solaire, la rencontre de deux solitudes portée par l'interprétation remarquable de Céleste Brunnquell et Quentin Dolmaire.
+
+Merci à New Story
+
+[154325]  
+**Fifi**  
+de Paul Saintillan, Jeanne Aslan  
+France / 2021 / 108 min / DCP  
+Avec Céleste Brunnquell, Quentin Dolmaire, Chloé Mons, Meghan Northam.  
+À 15 ans, Sophie, alias Fifi, voudrait bien profiter de l'été. Quand elle croise une ancienne amie sur le point de partir en voyage, elle lui dérobe les clés de sa maison, désertée pour les vacances. Elle s'y installe en cachette.
+
+- lu 5 juin 19h30 GF  
+Avant-première. Séance suivie d'une discussion avec Paul Saintillan et Jeanne Aslan
+
+## Ursula Meier
+
+A l'occasion de la sortie vidéo du film, retour sur le troisième long métrage de la cinéaste suisse qui livre un récit familial âpre et puissant, porté par l'interprétation habitée de la musicienne et comédienne Stéphanie Blanchoud.
+
+[154425]  
+**La Ligne**  
+d'Ursula Meier  
+Suisse-France-Belgique / 2022 / 103 min / DCP  
+Avec Stéphanie Blanchoud, Elli Spagnolo.  
+Après avoir agressé violemment sa mère, Margaret, 35 ans, doit se soumettre à une mesure stricte d'éloignement en attendant son jugement. Mais cette distance qui la sépare de son foyer ne fait qu'exacerber son désir de se rapprocher des siens.
+
+- lu 12 juin 19h00 JE  
+Séance suivie d'une discussion avec Ursula Meier
+
 ## Cheng-Chui Kuo
 
 Un premier long métrage taïwanais contemplatif inédit en salles, un film d'errance sur une relation complexe entre une mère et sa fille, par le réalisateur du court métrage multiprimé « Séance familiale ».

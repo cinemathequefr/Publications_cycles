@@ -8,8 +8,8 @@ J'ai mis vingt ans à écrire _Trois femmes disparaissent_. Vingt années au cou
 Je ne veux pas choisir parmi mes centaines de films préférés. Je préfère proposer aux spectateurs un récit en quatre chapitres : quatre films qui font écho aux obsessions de _Trois femmes disparaissent_.
 Ça commence dans la jungle, où une mère et sa fille ont peur, et ont mal. Partout rôdent les fauves ; les _big cats_ ne parlent pas, ils feulent, ils rugissent, _ROAR_, et ils volent la vedette.
 Vite il faut fuir ! La fille doit fuir sa mère qui veut l'enfermer avec les lions. C'est _La Fugue_ de la fille, loin, très loin, au bord d'un océan peuplé de crocodiles. Un détective aux ordres de la mère est sur les traces de la fille. Aucune enquête n'empêche la tragédie de s'accomplir.
-La tragédie, c'est que les femmes ont beau devenir des écrivaines _Riches et célèbres_, le monde les contraint à choisir entre le commerce de la romance et la recherche âpre de l'art et et de la liberté.
 La tragédie, c'est que la fille est contrainte de _traduire_ le monde pour sa mère ; elle est contrainte, pour réussir sa vie, de ne pas ressembler à sa mère (_Spanglish_).
+La tragédie, c'est que les femmes ont beau devenir des écrivaines _Riches et célèbres_, le monde les contraint à choisir entre le commerce de la romance et la recherche âpre de l'art et et de la liberté.
 
 Hélène Frappat
 

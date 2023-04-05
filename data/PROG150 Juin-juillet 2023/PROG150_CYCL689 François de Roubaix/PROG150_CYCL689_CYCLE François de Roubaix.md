@@ -5,7 +5,7 @@
 [48800]  
 **Dernier domicile connu**  
 de José Giovanni  
-France-Italie / 1970 / 105 min / DCP  
+France-Italie / 1970 / DCP  
 D'après le roman _Dernier domicile connu_ de Joseph Harrington.  
 Avec Lino Ventura, Marlène Jobert, Michel Constantin.  
 L'inspecteur Léonetti est rétrogradé et muté dans un commissariat de seconde zone. On lui adjoint la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un accusé.
@@ -70,7 +70,7 @@ Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation 
 [34700]  
 **Jeff**  
 de Jean Herman  
-France / 1969  
+France / 1969 / 92 min / VOAutres  
 Avec Alain Delon, Mireille Darc, Georges Rouquier.  
 Après un hold-up, Jeff, le cerveau de l'opération, disparaît avec le butin. Toute la bande se lance à sa poursuite, sauf Laurent. Soupçonné par les autres d'être un complice, Laurent part de son côté à la recherche du traître, accompagné d'Eva, la maîtresse de Jeff.
 

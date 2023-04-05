@@ -477,7 +477,18 @@
             "realisateurs": "René Magritte",
             "annee": 1946,
             "pays": "Belgique",
-            "textes": [],
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Avec la complicité d'amis et de son épouse, Magritte compose des sortes de sketches, sans véritable cohérence narrative, séries d'installations filmées rencontrant parfois l'iconographie favorite du peintre et révélant la désinvolture burlesque du tournage."
+              }
+            ],
+            "generique": [
+              "Georgette Magritte",
+              "Marcel Lecomte",
+              "Louis Scutenaire",
+              "Irène Hamoir"
+            ],
             "duree": 27,
             "format": "DCP",
             "version": "",
@@ -560,6 +571,49 @@
               "Georges Franju"
             ],
             "mention": "Séance présentée par Dominique Païni",
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "idFilm": 30930,
+            "titre": "Freaks",
+            "realisateurs": "Tod Browning",
+            "annee": 1932,
+            "pays": "États-Unis",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher."
+              },
+              {
+                "typeTexte": 99,
+                "texte": "Film également connu sous le titre _La Monstrueuse Parade_."
+              }
+            ],
+            "adaptation": "D'après la nouvelle _Spurs_ de Tod Robbins.",
+            "generique": [
+              "Wallace Ford",
+              "Leila Hyams",
+              "Olga Baclanova"
+            ],
+            "duree": 64,
+            "format": "DCP",
+            "version": "VOSTF",
+            "ordre": 1
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104037,
+            "ordre": 1,
+            "dateHeure": "2023-06-16T18:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
             "typeEvenement": 13
           }
         ]
@@ -720,47 +774,6 @@
             "idSeance": 101152,
             "ordre": 1,
             "dateHeure": "2023-06-16T20:00:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 30930,
-            "titre": "Monstrueuse Parade",
-            "art": "La",
-            "titreVo": "Freaks",
-            "realisateurs": "Tod Browning",
-            "annee": 1932,
-            "pays": "États-Unis",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher."
-              }
-            ],
-            "adaptation": "D'après la nouvelle _Spurs_ de Tod Robbins.",
-            "generique": [
-              "Wallace Ford",
-              "Leila Hyams",
-              "Olga Baclanova"
-            ],
-            "duree": 64,
-            "format": "DCP",
-            "version": "VOSTF",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104037,
-            "ordre": 1,
-            "dateHeure": "2023-06-16T18:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
