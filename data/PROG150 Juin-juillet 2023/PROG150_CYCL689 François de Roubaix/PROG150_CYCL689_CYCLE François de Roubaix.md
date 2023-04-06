@@ -2,6 +2,15 @@
 
 ## Les films
 
+[52183]  
+**Adieu l'ami**  
+de Jean Herman  
+France-Italie / 1968 / 95 min / 35 mm  
+Avec Alain Delon, Charles Bronson, Brigitte Fossey.  
+Marseille, juste après la guerre l'Algérie. Un médecin militaire démobilisé devient perceur de coffres forts, pour aider la veuve d'un homme qu'il a tué accidentellement. Il doit faire équipe avec un légionnaire américain qui lui voue une haine féroce.
+
+- ve 23 juin 15h30 GF
+
 [48800]  
 **Dernier domicile connu**  
 de José Giovanni  
@@ -59,7 +68,8 @@ de Patricia De Roubaix
 France / 2009 / 24 min / Numérique  
 Une plongée dans l'univers musical de François de Roubaix par sa fille, qui part à sa rencontre au travers de la parole de ses fans.
 
-- je 29 juin 19h00 JE
+- je 29 juin 19h00 JE  
+Séance présentée par Christophe Conte
 
 [50109]  
 **La Grande Lessive**  
@@ -69,15 +79,6 @@ Avec Bourvil, Francis Blanche, Roland Dubillard.
 Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
 
 - sa 24 juin 17h30 GF
-
-[34700]  
-**Jeff**  
-de Jean Herman  
-France / 1969 / 92 min / VOAutres  
-Avec Alain Delon, Mireille Darc, Georges Rouquier.  
-Après un hold-up, Jeff, le cerveau de l'opération, disparaît avec le butin. Toute la bande se lance à sa poursuite, sauf Laurent. Soupçonné par les autres d'être un complice, Laurent part de son côté à la recherche du traître, accompagné d'Eva, la maîtresse de Jeff.
-
-- di 25 juin 19h15 GF
 
 [39701]  
 **Les Lèvres rouges**  
@@ -107,14 +108,14 @@ Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. 
 - ve 23 juin 18h00 GF  
 Séance présentée par Jérôme Enrico et Laurent Aleonard
 
-[70969]  
-**Morgane et ses nymphes**  
-de Bruno Gantillon  
-France / 1970 / 86 min / 35 mm  
-Avec Dominique Delpierre, Mireille Saunin, Michèle Perello, Alfred Baillou.  
-Deux jeunes femmes se perdent dans les bois et entrent dans le royaume de la sorcière Morgane. Celle-ci voudrait en faire ses concubines, et leur offre en échange la jeunesse éternelle. Mais si elles refusent...
+[48731]  
+**Le Rapace**  
+de José Giovanni  
+France-Italie-Mexique / 1967 / 35 mm  
+Avec Lino Ventura, Rosa Furman, Xavier Marc.  
+En 1938, des révolutionnaires cherchent à assassiner le président d'un pays sud-américain. Ils engagent un tueur professionnel, qui accepte de mauvaise grâce que le propre petit-fils du président soit crédité du meurtre afin de passer pour un héros national.
 
-- ve 23 juin 15h30 GF
+- di 25 juin 19h15 GF
 
 [50143]  
 **Le Samouraï**  
@@ -157,7 +158,7 @@ Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale
 ## Rencontres et conférences
 
 **« François de Roubaix, portrait musical » par Stéphane Lerouge**  
-Fils d'un producteur de films institutionnels, François de Roubaix a trouvé dans l'écriture pour le cinéma la convergence idéale, rêvée, ultime de deux passions dévorantes, la musique et l'image. Sa polyvalence instrumentale, l'anti-académisme de son langage mélodique, harmonique et orchestral, la création de son home-studio ont créé une « légende de Roubaix », intensifiée par sa disparition prématurée et tragique. Au cours de cette intervention, nous verrons et, surtout, nous entendrons à quel point de Roubaix a été un compositeur moderne, avide de partage et de fraternité, autant avec ses cinéastes qu'avec son clan d'amis. « François dégageait un vrai charme – raconte Yves Boisset –, il témoignait beaucoup d'ouverture aux autres. Il y aura toujours des gens pour aimer ses compositions car elles nous parlent du goût éperdu d'un homme pour les fonds sous-marins, l'aventure et les voyages. »  
+Fils d'un producteur de films institutionnels, François de Roubaix a trouvé dans l'écriture pour le cinéma la convergence idéale, rêvée, ultime de deux passions dévorantes, la musique et l'image. Sa polyvalence instrumentale, l'anti-académisme de son langage mélodique, harmonique et orchestral, la création de son home-studio ont créé une « légende de Roubaix », intensifiée par sa disparition prématurée et tragique. Au cours de cette intervention, nous verrons et, surtout, nous entendrons à quel point de Roubaix a été un compositeur moderne, avide de partage et de fraternité, autant avec ses cinéastes qu'avec son clan d'amis. « François dégageait un vrai charme – raconte Yves Boisset –, il témoignait beaucoup d'ouverture aux autres. Il y aura toujours des gens pour aimer ses compositions car elles nous parlent du goût éperdu d'un homme pour les fonds sous-marins, l'aventure et les voyages. » **À la suite du « portrait musical », Benjamin de Roubaix interprètera (guitare-voix) trois chansons de François de Roubaix :** **_Laetitia_** **(dans** **_Les Aventuriers_** **de Robert Enrico, 1966),** **_Jeff_** **(Jean Herman, 1969) et** **_Le Rapace_** **(José Giovanni, 1968).**  
 Concepteur de la collection discographique _Écoutez le cinéma !_ chez Universal Music France, Stéphane Lerouge a élaboré une quinzaine d'albums autour de François de Roubaix, dont le coffret cinq vinyles _Compositeur et aventurier_, publié fin 2021.
 
 - sa 24 juin 14h30 HL  

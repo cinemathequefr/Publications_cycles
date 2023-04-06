@@ -213,7 +213,10 @@ Un beau jeune homme passe Noël chez ses trois tantes, qui réagissent chacune t
 
 ## Rencontres et conférences
 
-**Dialogue avec Marcos Uzal**
+**Dialogue avec Marcos Uzal**  
+Rencontre animée par Jean-François Rauger  
+« _El Diputado_ est la pierre angulaire de l'œuvre d'Eloy de la Iglesia, le film où s'entrecroisent le plus clairement les deux grands axes de son cinéma : sexe et politique, soit rencontre des corps et lutte des classes. Charnellement ancré dans les espoirs et les inquiétudes de l'Espagne de 1978, c'est le film de toutes les transitions : du franquisme à la démocratie, du combat clandestin à son officialisation, du désir refoulé à sa libération, de l'amour conventionnel à sa réinvention. » Marcos Uzal  
+Marcos Uzal a été membre du comité de rédaction des revues _Vertigo_ et _Trafic_, critique de cinéma à _Libération_, et directeur de collection aux éditions _Yellow Now_, où il a publié un essai sur _Vaudou_ de Jacques Tourneur, et codirigé des ouvrages sur Jerzy Skolimowski et Guy Gilles. Il est actuellement rédacteur en chef des _Cahiers du cinéma._
 
 - je 13 juil 19h00 GF  
 À la suite de la projection de _Le Député_ d'Eloy de la Iglesia (voir p. xx)

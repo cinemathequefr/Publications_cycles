@@ -76,6 +76,7 @@
 
 ## François de Roubaix (17)
 
+  * Adieu l'ami  
   * Aventuriers (Les)  
   * Comment ça va ? J'm'en fous  
   * Dernier domicile connu  
@@ -86,10 +87,9 @@
   * Gobbo (Le)  
   * Grande Lessive (La)  
   * Grandes Gueules (Les)  
-  * Jeff  
   * Lèvres rouges (Les)  
   * Montagnes magiques  
-  * Morgane et ses nymphes  
+  * Rapace (Le)  
   * Samouraï (Le)  
   * Saut de l'ange (Le)  
   * Thaumetopoea
