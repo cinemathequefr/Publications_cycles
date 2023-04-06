@@ -51,11 +51,13 @@ Séance présentée par Jean-Yves Guilleux
 **François de Roubaix : un portrait au présent**  
 de Gaëtan Chataigner, Christophe Conte  
 France / 2014 / 54 min / DCP  
+Extraits musicaux, photos, films d'époque, et témoignages de musiciens actuels composent un portrait de François de Roubaix.  
 suivi de  
 [154419]  
 **Françoisderoubaix.fan's**  
 de Patricia De Roubaix  
-France / 2009 / 24 min / Numérique
+France / 2009 / 24 min / Numérique  
+Une plongée dans l'univers musical de François de Roubaix par sa fille, qui part à sa rencontre au travers de la parole de ses fans.
 
 - je 29 juin 19h00 JE
 
