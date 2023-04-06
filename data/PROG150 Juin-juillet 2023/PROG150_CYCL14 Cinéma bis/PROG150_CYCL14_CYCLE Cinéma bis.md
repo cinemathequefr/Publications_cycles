@@ -146,11 +146,12 @@ Afin de regagner l'honneur de sa famille, Chen Ku Yung dérobe à Lu Tai Yeh le 
 - ve 21 juil 19h00 GF
 
 [154370]  
-**Karateka érotica**  
-**(Long She Hun za)**  
-de Lau Chan, Lu Shun Ku  
+**Karatéka érotica**  
+**(Long she hun za)**  
+de Lau Chan, Chun-Ku Lu  
 Hong-Kong / 1974 / 94 min / 35 mm  
-Avec Jason Piao Pai, Chun-Ku Lu, Lau Chan.
+Avec Jason Piao Pai, Chun-Ku Lu, Lau Chan.  
+Alan, tueur professionnel, est embauché par Mary pour récupérer les 200 000 dollars que lui doit Lee-Tak, un aventurier sans scrupules.
 
 - ve 21 juil 21h00 GF
 

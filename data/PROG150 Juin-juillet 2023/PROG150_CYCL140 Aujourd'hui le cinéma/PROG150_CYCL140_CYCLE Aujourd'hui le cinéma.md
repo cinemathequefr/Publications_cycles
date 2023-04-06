@@ -111,7 +111,8 @@ Corée / 2021 / 17 min / VOSTF / DCP
 Avec Jung E-jae, Kim Nina.  
 Chang-hyeon, une prostituée transgenre, rencontre un client qui lui semble à la fois familier et inconnu.
 
-- lu 3 juil 19h00 JE
+- lu 3 juil 19h00 JE  
+Séance présentée par Sanghoon Lee
 
 ## Thomas Bardinet
 

@@ -113,7 +113,7 @@ Séance présentée par Luc Béraud
 **La Jungle plate**  
 **(De Platte jungle)**  
 de Johan van der Keuken  
-Pays-Bas / 1978 / 90 min / 16 mm  
+Pays-Bas / 1978 / 90 min / DCP  
 La Waddenzee, « mer des terres humides », est une région naturelle unique, zone côtière des Pays-Bas, de l'Allemagne et du Danemark qui, selon les marées, est tantôt mer ou tantôt terre. Johan van der Keuken filme cette « jungle plate », sa faune, sa flore et ses habitants.
 
 - me 5 juil 18h30 GF

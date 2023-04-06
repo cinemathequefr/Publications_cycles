@@ -26,7 +26,7 @@ suivi de
 **Archie Shepp chez les Touaregs**  
 de Ghaouti Bendeddouche  
 Algérie / 1969 / 27 min / DCP  
-1969, le Festival culturel panafricain bat son plein à Alger. Le saxophoniste Archie Shepp s'échappe avec son groupe vers le Sud, dans le désert, pour renouer avec le continent de ses ancêtres.  Son jazz remplit la nuit et se perd dans les dunes.  
+1969, le Festival culturel panafricain bat son plein à Alger. Le saxophoniste Archie Shepp s'échappe avec son groupe vers le Sud, dans le désert, pour renouer avec le continent de ses ancêtres. Son jazz remplit la nuit et se perd dans les dunes.  
 suivi de  
 [146798]  
 **Boudjemâa et la maison cinéma**  

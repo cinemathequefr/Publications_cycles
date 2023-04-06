@@ -29,7 +29,7 @@
   * Descente aux enfers  
   * Droit de tuer (Le)  
   * Invincibles de Shaolin (Les)  
-  * Karateka érotica  
+  * Karatéka érotica  
   * Karzan, le maître de la jungle  
   * Maris en quête de sensations  
   * Nuits rouges de Harlem (Les)  

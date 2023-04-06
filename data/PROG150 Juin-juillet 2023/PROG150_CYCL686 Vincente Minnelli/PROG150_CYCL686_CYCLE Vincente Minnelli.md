@@ -39,7 +39,9 @@ Charlie, un grand séducteur, est abattu par un mari jaloux. Il se réincarne so
 [105778]  
 **Baignade dans un torrent**  
 d'Alice Guy  
-France / 1897 / 1 min / INT. FR. / DCP
+France / 1897 / 1 min / INT. FR. / DCP  
+Un groupe de jeunes enfants se baigne.  
+Film attribué à Alice Guy.
 
 - sa 1 juil 17h30 HL  
 Séance présentée par Dominique Païni  
@@ -141,7 +143,8 @@ Marilla et Mike se marient, avant de se rendre compte qu'ils appartiennent à de
 **Les Fredaines de Pierrette**  
 d'Alice Guy  
 France / 1900 / 2 min / DCP  
-Pantomine dansée.
+Pantomine dansée.  
+Film attribué à Alice Guy.
 
 - sa 1 juil 20h00 HL  
 Film suivi de _Tous en scène_ de Vincente Minnelli
