@@ -119,7 +119,7 @@ de Francis Ford Coppola
 Avec James Caan, Robert Duvall, Shirley Knight.  
 Paniquée par la nouvelle de sa grossesse, Natalie quitte le domicile conjugal en ne laissant qu'une lettre à son époux. Sur la route, elle rencontre Jimmy, mentalement atteint par un accident de sport, qui lui parle des « gens de la pluie ».
 
-- lu 5 juin 17h30 HL
+- lu 5 juin 17h00 HL
 
 [35286]  
 **Graffiti Party**  

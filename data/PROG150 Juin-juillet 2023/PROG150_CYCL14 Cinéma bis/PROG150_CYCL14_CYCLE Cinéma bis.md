@@ -67,7 +67,7 @@ Un gang de punks ultra-violents sévit à Los Angeles. Menés par Jake, ses memb
 
 - ve 16 juin 21h15 GF
 
-## Franco Forever!
+## Jess Franco Forever!
 
 [65410]  
 **Une vierge chez les morts-vivants**  

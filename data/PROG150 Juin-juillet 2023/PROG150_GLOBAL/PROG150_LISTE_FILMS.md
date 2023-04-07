@@ -328,8 +328,9 @@
   * Une soirée hollywoodienne  
   * Very Eye of Night (The)
 
-## Séances spéciales (1)
+## Séances spéciales (2)
 
+  * Casa Susanna  
   * Peau douce (La)
 
 ## Vincente Minnelli (40)

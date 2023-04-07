@@ -1,5 +1,15 @@
 # Séances spéciales
 
+## Avant-première
+
+[154426]  
+**Casa Susanna**  
+de Sébastien Lifshitz  
+France-États-Unis / 2022 / 97 min / DCP  
+Dans les années 1950-1960, aux pieds des monts Catskills (État de New York), une petite maison en bois adossée à une grange a abrité le premier réseau clandestin de travestis. Diane et Kate ont aujourd'hui 80 ans. À l'époque, elles étaient des hommes et faisaient partie de cette organisation secrète.
+
+- lu 5 juin 20h00 HL
+
 ## François Truffaut et Helen Scott : Correspondance
 
 [51578]  

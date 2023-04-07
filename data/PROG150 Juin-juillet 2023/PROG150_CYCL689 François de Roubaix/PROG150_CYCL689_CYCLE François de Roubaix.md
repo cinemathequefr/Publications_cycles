@@ -153,7 +153,7 @@ France / 2009 / 24 min / Numérique
 Une plongée dans l'univers musical de François de Roubaix par sa fille, qui part à sa rencontre au travers de la parole de ses fans.
 
 - je 29 juin 19h00 JE  
-Séance présentée par Christophe Conte
+Séance présentée par Christophe Conte et Patricia De Roubaix
 
 ## Rencontres et conférences
 
