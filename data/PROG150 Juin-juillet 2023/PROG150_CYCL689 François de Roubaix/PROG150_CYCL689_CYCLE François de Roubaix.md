@@ -2,15 +2,6 @@
 
 ## Les films
 
-[52183]  
-**Adieu l'ami**  
-de Jean Herman  
-France-Italie / 1968 / 95 min / 35 mm  
-Avec Alain Delon, Charles Bronson, Brigitte Fossey.  
-Marseille, juste après la guerre l'Algérie. Un médecin militaire démobilisé devient perceur de coffres forts, pour aider la veuve d'un homme qu'il a tué accidentellement. Il doit faire équipe avec un légionnaire américain qui lui voue une haine féroce.
-
-- ve 23 juin 15h30 GF
-
 [48800]  
 **Dernier domicile connu**  
 de José Giovanni  
@@ -21,6 +12,99 @@ L'inspecteur Léonetti est rétrogradé et muté dans un commissariat de seconde
 
 - je 22 juin 20h00 HL  
 Ouverture de la rétrospective
+
+[52183]  
+**Adieu l'ami**  
+de Jean Herman  
+France-Italie / 1968 / 95 min / 35 mm  
+Avec Alain Delon, Charles Bronson, Brigitte Fossey.  
+Marseille, juste après la guerre l'Algérie. Un médecin militaire démobilisé devient perceur de coffres forts, pour aider la veuve d'un homme qu'il a tué accidentellement. Il doit faire équipe avec un légionnaire américain qui lui voue une haine féroce.
+
+- ve 23 juin 15h30 GF
+
+[73254]  
+**Montagnes magiques**  
+de Robert Enrico  
+France / 1962 / 19 min / DCP  
+Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet.  
+suivi de  
+[48373]  
+**Les Aventuriers**  
+de Robert Enrico  
+France-Italie / 1967 / 110 min / DCP  
+D'après le roman _Les Aventuriers_ de José Giovanni.  
+Avec Alain Delon, Lino Ventura, Joanna Shimkus, Serge Reggiani.  
+Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de s'emparer d'un trésor perdu dans un avion englouti. Au large du Congo, leur quête va les mettre en grand danger.  
+Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. En avant première de sa ressortie cet été par Héliotrope Films dans le cadre de la rétrospective « Robert Enrico – Les années 60 ».
+
+- ve 23 juin 18h00 GF  
+Séance présentée par Jérôme Enrico et Laurent Aleonard
+
+[39701]  
+**Les Lèvres rouges**  
+de Harry Kümel  
+Belgique-France-RFA-Italie / 1971 / 101 min / DCP  
+Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
+Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
+
+- ve 23 juin 21h00 GF  
+Séance présentée par Jean-Marc Lalanne
+
+[50143]  
+**Le Samouraï**  
+de Jean-Pierre Melville  
+France-Italie / 1967 / 95 min / DCP  
+D'après le roman _The Ronin_ de Joan MacLeod.  
+Avec Alain Delon, Nathalie Delon, François Périer.  
+Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de l'abattre à son tour.  
+Restauration par Pathé.
+
+- sa 24 juin 14h30 HL  
+Voir aussi dialogue p. xx
+
+[50109]  
+**La Grande Lessive**  
+de Jean-Pierre Mocky  
+France / 1968 / 95 min / DCP  
+Avec Bourvil, Francis Blanche, Roland Dubillard.  
+Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
+
+- sa 24 juin 17h30 GF
+
+[46946]  
+**Le Saut de l'ange**  
+de Yves Boisset  
+France-Italie / 1971 / 95 min / DCP  
+D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.  
+Avec Jean Yanne, Senta Berger, Sterling Hayden.  
+En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini, et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini et la famille de l'un d'eux, expatrié en Thaïlande. Celui-ci décide de rentrer pour se venger.
+
+- sa 24 juin 19h15 GF
+
+[154391]  
+**Thaumetopoea**  
+de Robert Enrico  
+France / 1960 / 23 min / DCP  
+À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.  
+suivi de  
+[48381]  
+**Les Grandes Gueules**  
+de Robert Enrico  
+France-Italie / 1965 / 128 min / DCP  
+D'après le roman _Le Haut-fer_ de José Giovanni.  
+Avec Bourvil, Lino Ventura, Marie Dubois, Jean-Claude Rolland.  
+Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché.
+
+- di 25 juin 16h15 GF
+
+[48731]  
+**Le Rapace**  
+de José Giovanni  
+France-Italie-Mexique / 1967 / 35 mm  
+Avec Lino Ventura, Rosa Furman, Xavier Marc.  
+En 1938, des révolutionnaires cherchent à assassiner le président d'un pays sud-américain. Ils engagent un tueur professionnel, qui accepte de mauvaise grâce que le propre petit-fils du président soit crédité du meurtre afin de passer pour un héros national.
+
+- di 25 juin 19h15 GF
 
 [54474]  
 **Far from Dallas**  
@@ -71,94 +155,12 @@ Une plongée dans l'univers musical de François de Roubaix par sa fille, qui pa
 - je 29 juin 19h00 JE  
 Séance présentée par Christophe Conte
 
-[50109]  
-**La Grande Lessive**  
-de Jean-Pierre Mocky  
-France / 1968 / 95 min / DCP  
-Avec Bourvil, Francis Blanche, Roland Dubillard.  
-Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
-
-- sa 24 juin 17h30 GF
-
-[39701]  
-**Les Lèvres rouges**  
-de Harry Kümel  
-Belgique-France-RFA-Italie / 1971 / 101 min / DCP  
-Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
-Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
-
-- ve 23 juin 21h00 GF  
-Séance présentée par Jean-Marc Lalanne
-
-[73254]  
-**Montagnes magiques**  
-de Robert Enrico  
-France / 1962 / 19 min / DCP  
-Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet.  
-suivi de  
-[48373]  
-**Les Aventuriers**  
-de Robert Enrico  
-France-Italie / 1967 / 110 min / DCP  
-D'après le roman _Les Aventuriers_ de José Giovanni.  
-Avec Alain Delon, Lino Ventura, Joanna Shimkus, Serge Reggiani.  
-Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de s'emparer d'un trésor perdu dans un avion englouti. Au large du Congo, leur quête va les mettre en grand danger.  
-Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. En avant première de sa ressortie cet été par Héliotrope Films dans le cadre de la rétrospective « Robert Enrico – Les années 60 ».
-
-- ve 23 juin 18h00 GF  
-Séance présentée par Jérôme Enrico et Laurent Aleonard
-
-[48731]  
-**Le Rapace**  
-de José Giovanni  
-France-Italie-Mexique / 1967 / 35 mm  
-Avec Lino Ventura, Rosa Furman, Xavier Marc.  
-En 1938, des révolutionnaires cherchent à assassiner le président d'un pays sud-américain. Ils engagent un tueur professionnel, qui accepte de mauvaise grâce que le propre petit-fils du président soit crédité du meurtre afin de passer pour un héros national.
-
-- di 25 juin 19h15 GF
-
-[50143]  
-**Le Samouraï**  
-de Jean-Pierre Melville  
-France-Italie / 1967 / 95 min / DCP  
-D'après le roman _The Ronin_ de Joan MacLeod.  
-Avec Alain Delon, Nathalie Delon, François Périer.  
-Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de l'abattre à son tour.  
-Restauration par Pathé.
-
-- sa 24 juin 14h30 HL  
-Voir aussi dialogue p. xx
-
-[46946]  
-**Le Saut de l'ange**  
-de Yves Boisset  
-France-Italie / 1971 / 95 min / DCP  
-D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.  
-Avec Jean Yanne, Senta Berger, Sterling Hayden.  
-En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini, et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini et la famille de l'un d'eux, expatrié en Thaïlande. Celui-ci décide de rentrer pour se venger.
-
-- sa 24 juin 19h15 GF
-
-[154391]  
-**Thaumetopoea**  
-de Robert Enrico  
-France / 1960 / 23 min / DCP  
-À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.  
-suivi de  
-[48381]  
-**Les Grandes Gueules**  
-de Robert Enrico  
-France-Italie / 1965 / 128 min / DCP  
-D'après le roman _Le Haut-fer_ de José Giovanni.  
-Avec Bourvil, Lino Ventura, Marie Dubois, Jean-Claude Rolland.  
-Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché.
-
-- di 25 juin 16h15 GF
-
 ## Rencontres et conférences
 
-**« François de Roubaix, portrait musical » par Stéphane Lerouge**  
-Fils d'un producteur de films institutionnels, François de Roubaix a trouvé dans l'écriture pour le cinéma la convergence idéale, rêvée, ultime de deux passions dévorantes, la musique et l'image. Sa polyvalence instrumentale, l'anti-académisme de son langage mélodique, harmonique et orchestral, la création de son home-studio ont créé une « légende de Roubaix », intensifiée par sa disparition prématurée et tragique. Au cours de cette intervention, nous verrons et, surtout, nous entendrons à quel point de Roubaix a été un compositeur moderne, avide de partage et de fraternité, autant avec ses cinéastes qu'avec son clan d'amis. « François dégageait un vrai charme – raconte Yves Boisset –, il témoignait beaucoup d'ouverture aux autres. Il y aura toujours des gens pour aimer ses compositions car elles nous parlent du goût éperdu d'un homme pour les fonds sous-marins, l'aventure et les voyages. » **À la suite du « portrait musical », Benjamin de Roubaix interprètera (guitare-voix) trois chansons de François de Roubaix :** **_Laetitia_** **(dans** **_Les Aventuriers_** **de Robert Enrico, 1966),** **_Jeff_** **(Jean Herman, 1969) et** **_Le Rapace_** **(José Giovanni, 1968).**  
+**François de Roubaix, portrait musical**  
+**Dialogue avec Stéphane Lerouge**  
+Fils d'un producteur de films institutionnels, François de Roubaix a trouvé dans l'écriture pour le cinéma la convergence idéale, rêvée, ultime de deux passions dévorantes, la musique et l'image. Sa polyvalence instrumentale, l'anti-académisme de son langage mélodique, harmonique et orchestral, la création de son _home studio_ ont créé une « légende de Roubaix », intensifiée par sa disparition prématurée et tragique. Au cours de cette intervention, nous verrons et, surtout, nous entendrons à quel point de Roubaix a été un compositeur moderne, avide de partage et de fraternité, autant avec ses cinéastes qu'avec son clan d'amis. « François dégageait un vrai charme, raconte Yves Boisset, il témoignait beaucoup d'ouverture aux autres. Il y aura toujours des gens pour aimer ses compositions car elles nous parlent du goût éperdu d'un homme pour les fonds sous-marins, l'aventure et les voyages. »
+À la suite du « portrait musical », Benjamin de Roubaix interprétera (guitare-voix) trois chansons de François de Roubaix : _Laetitia_ (dans _Les Aventuriers_ de Robert Enrico, 1966), _Jeff_ (Jean Herman, 1969) et _Le Rapace_ (José Giovanni, 1968).  
 Concepteur de la collection discographique _Écoutez le cinéma !_ chez Universal Music France, Stéphane Lerouge a élaboré une quinzaine d'albums autour de François de Roubaix, dont le coffret cinq vinyles _Compositeur et aventurier_, publié fin 2021.
 
 - sa 24 juin 14h30 HL  

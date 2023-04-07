@@ -67,28 +67,27 @@ Un gang de punks ultra-violents sévit à Los Angeles. Menés par Jake, ses memb
 
 - ve 16 juin 21h15 GF
 
-## Shaft, icône de la Blaxploitation
+## Franco Forever!
 
-[93959]  
-**Les Nuits rouges de Harlem**  
-**(Shaft)**  
-de Gordon Parks  
-États-Unis / 1971 / 100 min / VOSTF / 35 mm  
-D'après le roman _Shaft_ d'Ernest Tidyman.  
-Avec Richard Roundtree, Moses Gunn, Charles Cioffi.  
-John Shaft, détective privé afro-américain travaillant à Harlem, est engagé par un gros trafiquant de drogue dont la fille a été enlevée.
+[65410]  
+**Une vierge chez les morts-vivants**  
+**(Eine Jungfrau bei den lebenden Toten)**  
+de Jess Franco  
+Liechtenstein-France / 1971 / 93 min / VF / 35 mm  
+Avec Christina von Blanc, Howard Vernon, Britt Nichols, Paul Muller.  
+À la mort de son père, Christina arrive à Londres pour prendre connaissance du testament. Elle s'installe dans le château familial et découvre d'étranges personnages, qui se livrent à des jeux érotiques où se mêle le vampirisme.
 
-- ve 14 juil 19h00 GF
+- ve 30 juin 19h00 GF
 
-[65471]  
-**Les Trafiquants d'hommes**  
-**(Shaft in Africa)**  
-de John Guillermin  
-États-Unis / 1972 / 113 min / VOSTF / 35 mm  
-Avec Richard Roundtree, Frank Finlay, Vonetta McGee.  
-En Afrique, le détective Shaft est chargé de démanteler un réseau de trafiquants d'esclaves.
+[102885]  
+**Le Cabaret des filles perverses**  
+**(Blue Rita)**  
+de Jess Franco  
+France-Suisse / 1976 / 72 min / VFSTF / 35 mm  
+Avec Martine Fléty, Sarah Strasberg, Erik Falk.  
+Derrère un cabaret de strip-tease, le Blue Rita, il se cache une redoutable organisation criminelle louant ses services au plus offrant.
 
-- ve 14 juil 21h15 GF
+- ve 30 juin 21h00 GF
 
 ## Polars français des années 80
 
@@ -111,27 +110,28 @@ Un couple, formé par un ancien écrivain quadragénaire et alcoolique, et une b
 
 - ve 7 juil 21h00 GF
 
-## Franco Forever!
+## Shaft, icône de la Blaxploitation
 
-[65410]  
-**Une vierge chez les morts-vivants**  
-**(Eine Jungfrau bei den lebenden Toten)**  
-de Jess Franco  
-Liechtenstein-France / 1971 / 93 min / VF / 35 mm  
-Avec Christina von Blanc, Howard Vernon, Britt Nichols, Paul Muller.  
-À la mort de son père, Christina arrive à Londres pour prendre connaissance du testament. Elle s'installe dans le château familial et découvre d'étranges personnages, qui se livrent à des jeux érotiques où se mêle le vampirisme.
+[93959]  
+**Les Nuits rouges de Harlem**  
+**(Shaft)**  
+de Gordon Parks  
+États-Unis / 1971 / 100 min / VOSTF / 35 mm  
+D'après le roman _Shaft_ d'Ernest Tidyman.  
+Avec Richard Roundtree, Moses Gunn, Charles Cioffi.  
+John Shaft, détective privé afro-américain travaillant à Harlem, est engagé par un gros trafiquant de drogue dont la fille a été enlevée.
 
-- ve 30 juin 19h00 GF
+- ve 14 juil 19h00 GF
 
-[102885]  
-**Le Cabaret des filles perverses**  
-**(Blue Rita)**  
-de Jess Franco  
-France-Suisse / 1976 / 72 min / VFSTF / 35 mm  
-Avec Martine Fléty, Sarah Strasberg, Erik Falk.  
-Derrère un cabaret de strip-tease, le Blue Rita, il se cache une redoutable organisation criminelle louant ses services au plus offrant.
+[65471]  
+**Les Trafiquants d'hommes**  
+**(Shaft in Africa)**  
+de John Guillermin  
+États-Unis / 1972 / 113 min / VOSTF / 35 mm  
+Avec Richard Roundtree, Frank Finlay, Vonetta McGee.  
+En Afrique, le détective Shaft est chargé de démanteler un réseau de trafiquants d'esclaves.
 
-- ve 30 juin 21h00 GF
+- ve 14 juil 21h15 GF
 
 ## Histoire permanente du kung-fu
 

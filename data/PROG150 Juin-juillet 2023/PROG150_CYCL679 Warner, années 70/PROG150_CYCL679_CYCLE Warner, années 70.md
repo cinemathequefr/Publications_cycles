@@ -119,7 +119,7 @@ de Francis Ford Coppola
 Avec James Caan, Robert Duvall, Shirley Knight.  
 Paniquée par la nouvelle de sa grossesse, Natalie quitte le domicile conjugal en ne laissant qu'une lettre à son époux. Sur la route, elle rencontre Jimmy, mentalement atteint par un accident de sport, qui lui parle des « gens de la pluie ».
 
-- lu 5 juin 20h15 HL
+- lu 5 juin 17h30 HL
 
 [35286]  
 **Graffiti Party**  
@@ -237,7 +237,6 @@ de Paul Newman
 Avec Joanne Woodward, James Olson, Kate Harrington, Estelle Parsons.  
 Dans une petite ville du Connecticut, Rachel est une institutrice solitaire de 35 ans qui vit toujours sous l'emprise de sa mère. Elle porte tous ses espoirs de changement sur un ami d'enfance, de passage, qui l'invite à sortir.
 
-- lu 5 juin 18h00 HL  
 - di 11 juin 20h15 GF
 
 [34068]  

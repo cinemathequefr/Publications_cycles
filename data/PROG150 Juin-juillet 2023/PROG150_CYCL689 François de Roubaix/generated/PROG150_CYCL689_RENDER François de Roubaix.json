@@ -1,9 +1,49 @@
 [
   {
     "titreSousCycle": "Les films",
-    "tri": 2,
+    "tri": 4,
     "textes": [],
     "items": [
+      {
+        "items": [
+          {
+            "idFilm": 48800,
+            "titre": "Dernier domicile connu",
+            "realisateurs": "José Giovanni",
+            "annee": 1970,
+            "pays": "France-Italie",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "L'inspecteur Léonetti est rétrogradé et muté dans un commissariat de seconde zone. On lui adjoint la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un accusé."
+              }
+            ],
+            "adaptation": "D'après le roman _Dernier domicile connu_ de Joseph Harrington.",
+            "generique": [
+              "Lino Ventura",
+              "Marlène Jobert",
+              "Michel Constantin"
+            ],
+            "duree": 0,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104041,
+            "ordre": 1,
+            "dateHeure": "2023-06-22T20:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "mention": "Ouverture de la rétrospective",
+            "typeEvenement": 13
+          }
+        ]
+      },
       {
         "items": [
           {
@@ -45,24 +85,87 @@
       {
         "items": [
           {
-            "idFilm": 48800,
-            "titre": "Dernier domicile connu",
-            "realisateurs": "José Giovanni",
-            "annee": 1970,
+            "idFilm": 73254,
+            "titre": "Montagnes magiques",
+            "realisateurs": "Robert Enrico",
+            "annee": 1962,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet."
+              }
+            ],
+            "duree": 19,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          },
+          {
+            "idFilm": 48373,
+            "titre": "Aventuriers",
+            "art": "Les",
+            "realisateurs": "Robert Enrico",
+            "annee": 1967,
             "pays": "France-Italie",
             "textes": [
               {
                 "typeTexte": 9,
-                "texte": "L'inspecteur Léonetti est rétrogradé et muté dans un commissariat de seconde zone. On lui adjoint la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un accusé."
+                "texte": "Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de s'emparer d'un trésor perdu dans un avion englouti. Au large du Congo, leur quête va les mettre en grand danger."
+              },
+              {
+                "typeTexte": 99,
+                "texte": "Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. En avant première de sa ressortie cet été par Héliotrope Films dans le cadre de la rétrospective « Robert Enrico – Les années 60 »."
               }
             ],
-            "adaptation": "D'après le roman _Dernier domicile connu_ de Joseph Harrington.",
+            "adaptation": "D'après le roman _Les Aventuriers_ de José Giovanni.",
             "generique": [
+              "Alain Delon",
               "Lino Ventura",
-              "Marlène Jobert",
-              "Michel Constantin"
+              "Joanna Shimkus",
+              "Serge Reggiani"
             ],
-            "duree": 0,
+            "duree": 110,
+            "format": "DCP",
+            "version": "",
+            "ordre": 2
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104233,
+            "ordre": 2,
+            "dateHeure": "2023-06-23T18:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "mention": "Séance présentée par Jérôme Enrico et Laurent Aleonard",
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "idFilm": 39701,
+            "titre": "Lèvres rouges",
+            "art": "Les",
+            "realisateurs": "Harry Kümel",
+            "annee": 1971,
+            "pays": "Belgique-France-RFA-Italie",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens."
+              }
+            ],
+            "generique": [
+              "Delphine Seyrig",
+              "Danielle Ouimet",
+              "John Karlen"
+            ],
+            "duree": 101,
             "format": "DCP",
             "version": "",
             "ordre": 1
@@ -70,14 +173,236 @@
         ],
         "seances": [
           {
-            "idSeance": 104041,
+            "idSeance": 104045,
             "ordre": 1,
-            "dateHeure": "2023-06-22T20:00:00",
+            "dateHeure": "2023-06-23T21:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "mention": "Séance présentée par Jean-Marc Lalanne",
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "idFilm": 50143,
+            "titre": "Samouraï",
+            "art": "Le",
+            "realisateurs": "Jean-Pierre Melville",
+            "annee": 1967,
+            "pays": "France-Italie",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de l'abattre à son tour."
+              },
+              {
+                "typeTexte": 99,
+                "texte": "Restauration par Pathé."
+              }
+            ],
+            "adaptation": "D'après le roman _The Ronin_ de Joan MacLeod.",
+            "generique": [
+              "Alain Delon",
+              "Nathalie Delon",
+              "François Périer"
+            ],
+            "duree": 95,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104051,
+            "ordre": 1,
+            "dateHeure": "2023-06-24T14:30:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
-            "mention": "Ouverture de la rétrospective",
+            "typeAssoc": 118,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi dialogue p. xx"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "idFilm": 50109,
+            "titre": "Grande Lessive",
+            "art": "La",
+            "realisateurs": "Jean-Pierre Mocky",
+            "annee": 1968,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris."
+              }
+            ],
+            "generique": [
+              "Bourvil",
+              "Francis Blanche",
+              "Roland Dubillard"
+            ],
+            "duree": 95,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104047,
+            "ordre": 1,
+            "dateHeure": "2023-06-24T17:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "idFilm": 46946,
+            "titre": "Saut de l'ange",
+            "art": "Le",
+            "realisateurs": "Yves Boisset",
+            "annee": 1971,
+            "pays": "France-Italie",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini, et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini et la famille de l'un d'eux, expatrié en Thaïlande. Celui-ci décide de rentrer pour se venger."
+              }
+            ],
+            "adaptation": "D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.",
+            "generique": [
+              "Jean Yanne",
+              "Senta Berger",
+              "Sterling Hayden"
+            ],
+            "duree": 95,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104191,
+            "ordre": 1,
+            "dateHeure": "2023-06-24T19:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "idFilm": 154391,
+            "titre": "Thaumetopoea",
+            "realisateurs": "Robert Enrico",
+            "annee": 1960,
+            "pays": "France",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin."
+              }
+            ],
+            "duree": 23,
+            "format": "DCP",
+            "version": "",
+            "ordre": 1
+          },
+          {
+            "idFilm": 48381,
+            "titre": "Grandes Gueules",
+            "art": "Les",
+            "realisateurs": "Robert Enrico",
+            "annee": 1965,
+            "pays": "France-Italie",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché."
+              }
+            ],
+            "adaptation": "D'après le roman _Le Haut-fer_ de José Giovanni.",
+            "generique": [
+              "Bourvil",
+              "Lino Ventura",
+              "Marie Dubois",
+              "Jean-Claude Rolland"
+            ],
+            "duree": 128,
+            "format": "DCP",
+            "version": "",
+            "ordre": 2
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104234,
+            "ordre": 2,
+            "dateHeure": "2023-06-25T16:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "idFilm": 48731,
+            "titre": "Rapace",
+            "art": "Le",
+            "realisateurs": "José Giovanni",
+            "annee": 1967,
+            "pays": "France-Italie-Mexique",
+            "textes": [
+              {
+                "typeTexte": 9,
+                "texte": "En 1938, des révolutionnaires cherchent à assassiner le président d'un pays sud-américain. Ils engagent un tueur professionnel, qui accepte de mauvaise grâce que le propre petit-fils du président soit crédité du meurtre afin de passer pour un héros national."
+              }
+            ],
+            "generique": [
+              "Lino Ventura",
+              "Rosa Furman",
+              "Xavier Marc"
+            ],
+            "duree": 0,
+            "format": "35 mm",
+            "version": "",
+            "ordre": 1
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104297,
+            "ordre": 1,
+            "dateHeure": "2023-06-25T19:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
             "typeEvenement": 13
           }
         ]
@@ -251,331 +576,6 @@
             "typeEvenement": 13
           }
         ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 50109,
-            "titre": "Grande Lessive",
-            "art": "La",
-            "realisateurs": "Jean-Pierre Mocky",
-            "annee": 1968,
-            "pays": "France",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris."
-              }
-            ],
-            "generique": [
-              "Bourvil",
-              "Francis Blanche",
-              "Roland Dubillard"
-            ],
-            "duree": 95,
-            "format": "DCP",
-            "version": "",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104047,
-            "ordre": 1,
-            "dateHeure": "2023-06-24T17:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 39701,
-            "titre": "Lèvres rouges",
-            "art": "Les",
-            "realisateurs": "Harry Kümel",
-            "annee": 1971,
-            "pays": "Belgique-France-RFA-Italie",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens."
-              }
-            ],
-            "generique": [
-              "Delphine Seyrig",
-              "Danielle Ouimet",
-              "John Karlen"
-            ],
-            "duree": 101,
-            "format": "DCP",
-            "version": "",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104045,
-            "ordre": 1,
-            "dateHeure": "2023-06-23T21:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "mention": "Séance présentée par Jean-Marc Lalanne",
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 73254,
-            "titre": "Montagnes magiques",
-            "realisateurs": "Robert Enrico",
-            "annee": 1962,
-            "pays": "France",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet."
-              }
-            ],
-            "duree": 19,
-            "format": "DCP",
-            "version": "",
-            "ordre": 1
-          },
-          {
-            "idFilm": 48373,
-            "titre": "Aventuriers",
-            "art": "Les",
-            "realisateurs": "Robert Enrico",
-            "annee": 1967,
-            "pays": "France-Italie",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de s'emparer d'un trésor perdu dans un avion englouti. Au large du Congo, leur quête va les mettre en grand danger."
-              },
-              {
-                "typeTexte": 99,
-                "texte": "Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. En avant première de sa ressortie cet été par Héliotrope Films dans le cadre de la rétrospective « Robert Enrico – Les années 60 »."
-              }
-            ],
-            "adaptation": "D'après le roman _Les Aventuriers_ de José Giovanni.",
-            "generique": [
-              "Alain Delon",
-              "Lino Ventura",
-              "Joanna Shimkus",
-              "Serge Reggiani"
-            ],
-            "duree": 110,
-            "format": "DCP",
-            "version": "",
-            "ordre": 2
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104233,
-            "ordre": 2,
-            "dateHeure": "2023-06-23T18:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "mention": "Séance présentée par Jérôme Enrico et Laurent Aleonard",
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 48731,
-            "titre": "Rapace",
-            "art": "Le",
-            "realisateurs": "José Giovanni",
-            "annee": 1967,
-            "pays": "France-Italie-Mexique",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "En 1938, des révolutionnaires cherchent à assassiner le président d'un pays sud-américain. Ils engagent un tueur professionnel, qui accepte de mauvaise grâce que le propre petit-fils du président soit crédité du meurtre afin de passer pour un héros national."
-              }
-            ],
-            "generique": [
-              "Lino Ventura",
-              "Rosa Furman",
-              "Xavier Marc"
-            ],
-            "duree": 0,
-            "format": "35 mm",
-            "version": "",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104297,
-            "ordre": 1,
-            "dateHeure": "2023-06-25T19:15:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 50143,
-            "titre": "Samouraï",
-            "art": "Le",
-            "realisateurs": "Jean-Pierre Melville",
-            "annee": 1967,
-            "pays": "France-Italie",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de l'abattre à son tour."
-              },
-              {
-                "typeTexte": 99,
-                "texte": "Restauration par Pathé."
-              }
-            ],
-            "adaptation": "D'après le roman _The Ronin_ de Joan MacLeod.",
-            "generique": [
-              "Alain Delon",
-              "Nathalie Delon",
-              "François Périer"
-            ],
-            "duree": 95,
-            "format": "DCP",
-            "version": "",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104051,
-            "ordre": 1,
-            "dateHeure": "2023-06-24T14:30:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ],
-            "typeAssoc": 118,
-            "typeEvenement": 13,
-            "mentionRenvoi": "Voir aussi dialogue p. xx"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 46946,
-            "titre": "Saut de l'ange",
-            "art": "Le",
-            "realisateurs": "Yves Boisset",
-            "annee": 1971,
-            "pays": "France-Italie",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini, et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini et la famille de l'un d'eux, expatrié en Thaïlande. Celui-ci décide de rentrer pour se venger."
-              }
-            ],
-            "adaptation": "D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.",
-            "generique": [
-              "Jean Yanne",
-              "Senta Berger",
-              "Sterling Hayden"
-            ],
-            "duree": 95,
-            "format": "DCP",
-            "version": "",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104191,
-            "ordre": 1,
-            "dateHeure": "2023-06-24T19:15:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 154391,
-            "titre": "Thaumetopoea",
-            "realisateurs": "Robert Enrico",
-            "annee": 1960,
-            "pays": "France",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin."
-              }
-            ],
-            "duree": 23,
-            "format": "DCP",
-            "version": "",
-            "ordre": 1
-          },
-          {
-            "idFilm": 48381,
-            "titre": "Grandes Gueules",
-            "art": "Les",
-            "realisateurs": "Robert Enrico",
-            "annee": 1965,
-            "pays": "France-Italie",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché."
-              }
-            ],
-            "adaptation": "D'après le roman _Le Haut-fer_ de José Giovanni.",
-            "generique": [
-              "Bourvil",
-              "Lino Ventura",
-              "Marie Dubois",
-              "Jean-Claude Rolland"
-            ],
-            "duree": 128,
-            "format": "DCP",
-            "version": "",
-            "ordre": 2
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104234,
-            "ordre": 2,
-            "dateHeure": "2023-06-25T16:15:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
       }
     ]
   },
@@ -587,11 +587,12 @@
       {
         "items": [
           {
-            "titre": "« François de Roubaix, portrait musical » par Stéphane Lerouge",
+            "titre": "François de Roubaix, portrait musical",
+            "sousTitre": "Dialogue avec Stéphane Lerouge",
             "textes": [
               {
                 "typeTexte": 9,
-                "texte": "Fils d'un producteur de films institutionnels, François de Roubaix a trouvé dans l'écriture pour le cinéma la convergence idéale, rêvée, ultime de deux passions dévorantes, la musique et l'image. Sa polyvalence instrumentale, l'anti-académisme de son langage mélodique, harmonique et orchestral, la création de son home-studio ont créé une « légende de Roubaix », intensifiée par sa disparition prématurée et tragique. Au cours de cette intervention, nous verrons et, surtout, nous entendrons à quel point de Roubaix a été un compositeur moderne, avide de partage et de fraternité, autant avec ses cinéastes qu'avec son clan d'amis. « François dégageait un vrai charme – raconte Yves Boisset –, il témoignait beaucoup d'ouverture aux autres. Il y aura toujours des gens pour aimer ses compositions car elles nous parlent du goût éperdu d'un homme pour les fonds sous-marins, l'aventure et les voyages. » **À la suite du « portrait musical », Benjamin de Roubaix interprètera (guitare-voix) trois chansons de François de Roubaix :** **_Laetitia_** **(dans** **_Les Aventuriers_** **de Robert Enrico, 1966),** **_Jeff_** **(Jean Herman, 1969) et** **_Le Rapace_** **(José Giovanni, 1968).**"
+                "texte": "Fils d'un producteur de films institutionnels, François de Roubaix a trouvé dans l'écriture pour le cinéma la convergence idéale, rêvée, ultime de deux passions dévorantes, la musique et l'image. Sa polyvalence instrumentale, l'anti-académisme de son langage mélodique, harmonique et orchestral, la création de son _home studio_ ont créé une « légende de Roubaix », intensifiée par sa disparition prématurée et tragique. Au cours de cette intervention, nous verrons et, surtout, nous entendrons à quel point de Roubaix a été un compositeur moderne, avide de partage et de fraternité, autant avec ses cinéastes qu'avec son clan d'amis. « François dégageait un vrai charme, raconte Yves Boisset, il témoignait beaucoup d'ouverture aux autres. Il y aura toujours des gens pour aimer ses compositions car elles nous parlent du goût éperdu d'un homme pour les fonds sous-marins, l'aventure et les voyages. »\nÀ la suite du « portrait musical », Benjamin de Roubaix interprétera (guitare-voix) trois chansons de François de Roubaix : _Laetitia_ (dans _Les Aventuriers_ de Robert Enrico, 1966), _Jeff_ (Jean Herman, 1969) et _Le Rapace_ (José Giovanni, 1968)."
               },
               {
                 "typeTexte": 156,
