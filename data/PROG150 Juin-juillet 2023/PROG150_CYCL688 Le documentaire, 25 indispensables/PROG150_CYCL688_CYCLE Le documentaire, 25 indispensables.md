@@ -227,7 +227,7 @@ France / 1955 / 25 min / 35 mm
 Avec Jacqueline Lemaire.  
 Une famille habitant une maison bourgeoise de la banlieue parisienne part en vacances. Sur la route, les parents abandonnent le chien de leur petite fille dans la forêt.
 
-- lu 26 juin 20h00 GF  
+- lu 26 juin 20h15 GF  
 Séance présentée par Joël Daire
 
 [31875]  

@@ -119,7 +119,7 @@
   * Color of Love (The)  
   * Come With Me, Swim With You  
   * Cum in My Heart (ou le fabuleux lâcher-prise de Thomas Timbère)  
-  * Dan sak sit [ATTENTION : INDIQUER SEULEMENT FILM SURPRISE]  
+  * Dan sak sit  
   * Diptychon  
   * Dreams and Past Crimes of the Archduke (The)  
   * Easter  

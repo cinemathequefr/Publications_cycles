@@ -23,7 +23,7 @@ Séance présentée par Philippe Vallois
 de Derek Jarman, Paul Humfress  
 Grande-Bretagne / 1977 / 86 min / VOSTF / DCP  
 Avec Leonardo Treviglio, Richard Warwick, Neil Kennedy.  
-« _Sebastiane_ déploie de bout en bout une spectaculaire volonté de faire sortir du placard (cinématographique et sociétal) une sexualité que la loi britannique avait, des siècles durant, condamné à l'invisibilité. » (P. Charrel)
+« _Sebastiane_ déploie de bout en bout une spectaculaire volonté de faire sortir du placard (cinématographique et sociétal) une sexualité que la loi britannique avait, des siècles durant, condamnée à l'invisibilité. » (P. Charrel)
 
 - me 31 mai 20h45 GF
 
@@ -52,7 +52,7 @@ Avec l'aimable autorisation du Bressan Project et de l'American Genre Film Archi
 [154069]  
 **The Action**  
 de David Matarasso  
-France / 2012 / 4 min / 16 mm  
+France / 2012 / 4 min / DCP  
 Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.  
 suivi de  
 [154196]  
@@ -105,7 +105,7 @@ Séance présentée par Émilie Jouvet
 [154069]  
 **The Action**  
 de David Matarasso  
-France / 2012 / 4 min / 16 mm  
+France / 2012 / 4 min / DCP  
 Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.
 
 - ve 16 juin 18h30 JE  
@@ -167,7 +167,7 @@ suivi de
 de Tommy Turner, David Wojnarowicz  
 États-Unis / 1985 / 32 min / Numérique  
 Avec Joe Coleman, Nancy Coleman, Baby Gregor.  
-« Appropriation par l'underground d'un fait divers perpétré par le tueur adolescent satanique Ricky Kasso en 1984. Violence exercée sur des animaux, infligée aux êtres humains, hallucinations du meurtrier et rencontre avec le diable. » (R. P.)  
+« Appropriation par l'underground d'un fait divers perpétré par le tueur adolescent satanique Ricky Kasso en 1984. Violence exercée sur des animaux, infligée aux êtres humains, hallucinations du meurtrier et rencontre avec le Diable. » (R. P.)  
 suivi de  
 [154203]  
 **The Right Side of My Brain**  
@@ -201,7 +201,7 @@ Aux antipodes géographiques et plastiques, les recherches de Peter Tscherkassky
 **Erotique**  
 de Peter Tscherkassky  
 Autriche / 1982 / 2 min / Numérique  
-« Il est difficile de dire quelle partie du corps on voit réellement (on peut voir/imaginer/penser les organes sexuels et les actes sexuels) Le regard se fixe sur des objets partiels. » (Michael Palm)  
+« Il est difficile de dire quelle partie du corps on voit réellement (on peut voir/imaginer/penser les organes sexuels et les actes sexuels). Le regard se fixe sur des objets partiels. » (Michael Palm)  
 suivi de  
 [151352]  
 **Oliver**  
@@ -215,7 +215,7 @@ suivi de
 de Mira Nair  
 Inde / 1985 / 58 min / VOSTF / 16 mm  
 Avec Rekha, Rosy, Vasanti, Lovina, Pussycat.  
-Devant la caméra bienveillante de Mira Nair, se libèrent, parfois jusqu'au rire, les paroles de danseuses et prostituées indiennes dont certaines ont fui des mariages forcés, tandis que d'autres sont encore mariées.
+Devant la caméra bienveillante de Mira Nair se libèrent, parfois jusqu'au rire, les paroles de danseuses et prostituées indiennes dont certaines ont fui des mariages forcés, tandis que d'autres sont encore mariées.
 
 - di 4 juin 18h00 GF
 
@@ -939,7 +939,7 @@ de Marion Scemama
 Première mondiale  
 suivi de  
 [154242]  
-**Dan sak sit [ATTENTION : INDIQUER SEULEMENT FILM SURPRISE]**  
+**Dan sak sit**  
 de Thunska Pansittivorakul  
 Thaïlande / 2020 / 63 min / VOSTA / Numérique  
 Déconstruction filmique et politique des tabous de la sexualité en Thaïlande à travers une histoire d'amour récurrente et passionnelle entre deux hommes qui sont tous deux des artistes visuels.

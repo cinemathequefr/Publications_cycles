@@ -259,7 +259,7 @@ Avec Norma Talmadge, Lew Cody, Jack Mulhall.
 Mary Turner, envoyée en prison pour un crime qu'elle n'a pas commis, fait le vœu de se venger à sa sortie, mais dans le respect des lois.
 
 - lu 19 juin 18h00 GF  
-Accompagnement musical par Adrien Leconte
+Accompagnement musical par Timothée Quost, Victor Aubert et Adrien Leconte
 
 [34496]  
 **Le Portrait de Dorian Gray**  

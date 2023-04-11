@@ -5,7 +5,7 @@
 [48800]  
 **Dernier domicile connu**  
 de José Giovanni  
-France-Italie / 1970 / DCP  
+France-Italie / 1970 / 105 min / DCP  
 D'après le roman _Dernier domicile connu_ de Joseph Harrington.  
 Avec Lino Ventura, Marlène Jobert, Michel Constantin.  
 L'inspecteur Léonetti est rétrogradé et muté dans un commissariat de seconde zone. On lui adjoint la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un accusé.
@@ -69,7 +69,7 @@ France / 1968 / 95 min / DCP
 Avec Bourvil, Francis Blanche, Roland Dubillard.  
 Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
 
-- sa 24 juin 17h30 GF
+- sa 24 juin 18h30 GF
 
 [46946]  
 **Le Saut de l'ange**  
@@ -79,7 +79,7 @@ D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.
 Avec Jean Yanne, Senta Berger, Sterling Hayden.  
 En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini, et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini et la famille de l'un d'eux, expatrié en Thaïlande. Celui-ci décide de rentrer pour se venger.
 
-- sa 24 juin 19h15 GF
+- sa 24 juin 21h00 GF
 
 [154391]  
 **Thaumetopoea**  

@@ -198,7 +198,7 @@ Un enfant de sept ans déploie des trésors d'imagination pour trouver une nouve
 [35222]  
 **Kismet**  
 de Vincente Minnelli  
-États-Unis / 1955 / 112 min / VO / 35 mm  
+États-Unis / 1955 / 112 min / VOSTF / 35 mm  
 D'après la pièce _Kismet_ d'Edward Knoblock.  
 Avec Howard Keel, Ann Blyth, Jack Elam.  
 À Bagdad, les aventures du poète Hadji, qui s'unit à la fille du grand vizir.
@@ -358,7 +358,7 @@ Un couple de jeunes mariés, qui vient d'acheter une gigantesque caravane et ent
 **Thé et Sympathie**  
 **(Tea and Sympathy)**  
 de Vincente Minnelli  
-États-Unis / 1956 / 122 min / VOSTF / 35 mm  
+États-Unis / 1956 / VOSTF / 35 mm  
 D'après la pièce de théâtre _Thé et Sympathie_ de Robert Anderson.  
 Avec Deborah Kerr, John Kerr, Leif Erickson.  
 Tom, un étudiant, est plus attiré par la littérature et les arts que par les sports. À part l'amitié que lui témoigne son seul camarade, Al, Tom est marginalisé par les autres garçons du pensionnat. Heureusement, il sympathise bientôt avec la femme du professeur de gymnastique.
