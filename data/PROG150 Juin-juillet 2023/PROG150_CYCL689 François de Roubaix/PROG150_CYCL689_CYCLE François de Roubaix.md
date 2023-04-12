@@ -2,17 +2,6 @@
 
 ## Les films
 
-[48800]  
-**Dernier domicile connu**  
-de José Giovanni  
-France-Italie / 1970 / 105 min / DCP  
-D'après le roman _Dernier domicile connu_ de Joseph Harrington.  
-Avec Lino Ventura, Marlène Jobert, Michel Constantin.  
-L'inspecteur Léonetti est rétrogradé et muté dans un commissariat de seconde zone. On lui adjoint la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un accusé.
-
-- je 22 juin 20h00 HL  
-Ouverture de la rétrospective
-
 [52183]  
 **Adieu l'ami**  
 de Jean Herman  
@@ -22,12 +11,6 @@ Marseille, juste après la guerre l'Algérie. Un médecin militaire démobilisé
 
 - ve 23 juin 15h30 GF
 
-[73254]  
-**Montagnes magiques**  
-de Robert Enrico  
-France / 1962 / 19 min / DCP  
-Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet.  
-suivi de  
 [48373]  
 **Les Aventuriers**  
 de Robert Enrico  
@@ -38,73 +21,31 @@ Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de
 Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. En avant première de sa ressortie cet été par Héliotrope Films dans le cadre de la rétrospective « Robert Enrico – Les années 60 ».
 
 - ve 23 juin 18h00 GF  
-Séance présentée par Jérôme Enrico et Laurent Aleonard
+Séance présentée par Jérôme Enrico et Laurent Aleonard  
+Film précédé de _Montagnes magiques_ de Robert Enrico
 
-[39701]  
-**Les Lèvres rouges**  
-de Harry Kümel  
-Belgique-France-RFA-Italie / 1971 / 101 min / DCP  
-Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
-Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Bathory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
+[129571]  
+**Comment ça va ? J'm'en fous**  
+de François de Roubaix  
+France / 1975 / 10 min / DCP  
+Avec Yves Josso, Nathalie Lafaurie.  
+Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie.  
+Dernier court métrage de François de Roubaix, sorti à titre posthume.
 
-- ve 23 juin 21h00 GF  
-Séance présentée par Jean-Marc Lalanne
+- me 28 juin 19h00 JE  
+Séance présentée par Jean-Yves Guilleux  
+Film précédé de _François de Roubaix, l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix, _Le Gobbo_ de François de Roubaix
 
-[50143]  
-**Le Samouraï**  
-de Jean-Pierre Melville  
-France-Italie / 1967 / 95 min / DCP  
-D'après le roman _The Ronin_ de Joan MacLeod.  
-Avec Alain Delon, Nathalie Delon, François Périer.  
-Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de l'abattre à son tour.  
-Restauration par Pathé.
-
-- sa 24 juin 14h30 HL  
-Voir aussi dialogue p. xx
-
-[50109]  
-**La Grande Lessive**  
-de Jean-Pierre Mocky  
-France / 1968 / 95 min / DCP  
-Avec Bourvil, Francis Blanche, Roland Dubillard.  
-Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
-
-- sa 24 juin 18h30 GF
-
-[46946]  
-**Le Saut de l'ange**  
-de Yves Boisset  
-France-Italie / 1971 / 95 min / DCP  
-D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.  
-Avec Jean Yanne, Senta Berger, Sterling Hayden.  
-En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini, et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini et la famille de l'un d'eux, expatrié en Thaïlande. Celui-ci décide de rentrer pour se venger.
-
-- sa 24 juin 21h00 GF
-
-[154391]  
-**Thaumetopoea**  
-de Robert Enrico  
-France / 1960 / 23 min / DCP  
-À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.  
-suivi de  
-[48381]  
-**Les Grandes Gueules**  
-de Robert Enrico  
-France-Italie / 1965 / 128 min / DCP  
-D'après le roman _Le Haut-fer_ de José Giovanni.  
-Avec Bourvil, Lino Ventura, Marie Dubois, Jean-Claude Rolland.  
-Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché.
-
-- di 25 juin 16h15 GF
-
-[48731]  
-**Le Rapace**  
+[48800]  
+**Dernier domicile connu**  
 de José Giovanni  
-France-Italie-Mexique / 1967 / 35 mm  
-Avec Lino Ventura, Rosa Furman, Xavier Marc.  
-En 1938, des révolutionnaires cherchent à assassiner le président d'un pays sud-américain. Ils engagent un tueur professionnel, qui accepte de mauvaise grâce que le propre petit-fils du président soit crédité du meurtre afin de passer pour un héros national.
+France-Italie / 1970 / 105 min / DCP  
+D'après le roman _Dernier domicile connu_ de Joseph Harrington.  
+Avec Lino Ventura, Marlène Jobert, Michel Constantin.  
+L'inspecteur Léonetti est rétrogradé et muté dans un commissariat de seconde zone. On lui adjoint la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un accusé.
 
-- di 25 juin 19h15 GF
+- je 22 juin 20h00 HL  
+Ouverture de la rétrospective
 
 [54474]  
 **Far from Dallas**  
@@ -120,32 +61,22 @@ Séance présentée par Fabrice Toledano
 **François de Roubaix, l'aventurier**  
 de Jean-Yves Guilleux, Alexandre Moix  
 France / 2007 / 52 min / DCP  
-Documentaire présentant des extraits d'archives, de films et des témoignages de proches de François de Roubaix et de personnalités, dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...  
-suivi de  
-[129576]  
-**Le Gobbo**  
-de François de Roubaix  
-France / 1970 / 15 min / DCP  
-Avec Yves Josso.  
-Un mystérieux bossu arrive dans un petit village corse en proie à une série d'accidents dont sont témoins des campeurs.  
-suivi de  
-[129571]  
-**Comment ça va ? J'm'en fous**  
-de François de Roubaix  
-France / 1975 / 10 min / DCP  
-Avec Yves Josso, Nathalie Lafaurie.  
-Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie.  
-Dernier court métrage de François de Roubaix, sorti à titre posthume.
+Documentaire présentant des extraits d'archives, de films et des témoignages de proches de François de Roubaix et de personnalités, dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...
 
 - me 28 juin 19h00 JE  
-Séance présentée par Jean-Yves Guilleux
+Séance présentée par Jean-Yves Guilleux  
+Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous_ de François de Roubaix
 
 [154418]  
 **François de Roubaix : un portrait au présent**  
 de Gaëtan Chataigner, Christophe Conte  
 France / 2014 / 54 min / DCP  
-Extraits musicaux, photos, films d'époque, et témoignages de musiciens actuels composent un portrait de François de Roubaix.  
-suivi de  
+Extraits musicaux, photos, films d'époque, et témoignages de musiciens actuels composent un portrait de François de Roubaix.
+
+- je 29 juin 19h00 JE  
+Séance présentée par Christophe Conte et Patricia De Roubaix  
+Film suivi de _Françoisderoubaix.fan's_ de Patricia De Roubaix
+
 [154419]  
 **Françoisderoubaix.fan's**  
 de Patricia De Roubaix  
@@ -153,7 +84,99 @@ France / 2009 / 24 min / Numérique
 Une plongée dans l'univers musical de François de Roubaix par sa fille, qui part à sa rencontre au travers de la parole de ses fans.
 
 - je 29 juin 19h00 JE  
-Séance présentée par Christophe Conte et Patricia De Roubaix
+Séance présentée par Christophe Conte et Patricia De Roubaix  
+Film précédé de _François de Roubaix : un portrait au présent_ de Gaëtan Chataigner, Christophe Conte
+
+[129576]  
+**Le Gobbo**  
+de François de Roubaix  
+France / 1970 / 15 min / DCP  
+Avec Yves Josso.  
+Un mystérieux bossu arrive dans un petit village corse en proie à une série d'accidents dont sont témoins des campeurs.
+
+- me 28 juin 19h00 JE  
+Séance présentée par Jean-Yves Guilleux  
+Film précédé de _François de Roubaix, l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix et suivi de de _Comment ça va ? J'm'en fous_ de François de Roubaix
+
+[50109]  
+**La Grande Lessive**  
+de Jean-Pierre Mocky  
+France / 1968 / 95 min / DCP  
+Avec Bourvil, Francis Blanche, Roland Dubillard.  
+Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
+
+- sa 24 juin 18h30 GF
+
+[48381]  
+**Les Grandes Gueules**  
+de Robert Enrico  
+France-Italie / 1965 / 128 min / DCP  
+D'après le roman _Le Haut-fer_ de José Giovanni.  
+Avec Bourvil, Lino Ventura, Marie Dubois, Jean-Claude Rolland.  
+Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché.
+
+- di 25 juin 16h15 GF  
+Film précédé de _Thaumetopoea_ de Robert Enrico
+
+[39701]  
+**Les Lèvres rouges**  
+de Harry Kümel  
+Belgique-France-RFA-Italie / 1971 / 101 min / DCP  
+Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
+Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Báthory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
+
+- ve 23 juin 21h00 GF  
+Séance présentée par Jean-Marc Lalanne
+
+[73254]  
+**Montagnes magiques**  
+de Robert Enrico  
+France / 1962 / 19 min / DCP  
+Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet.
+
+- ve 23 juin 18h00 GF  
+Séance présentée par Jérôme Enrico et Laurent Aleonard  
+Film suivi de _Les Aventuriers_ de Robert Enrico
+
+[48731]  
+**Le Rapace**  
+de José Giovanni  
+France-Italie-Mexique / 1967 / 35 mm  
+Avec Lino Ventura, Rosa Furman, Xavier Marc.  
+En 1938, des révolutionnaires cherchent à assassiner le président d'un pays sud-américain. Ils engagent un tueur professionnel, qui accepte de mauvaise grâce que le propre petit-fils du président soit crédité du meurtre afin de passer pour un héros national.
+
+- di 25 juin 19h15 GF
+
+[50143]  
+**Le Samouraï**  
+de Jean-Pierre Melville  
+France-Italie / 1967 / 95 min / DCP  
+D'après le roman _The Ronin_ de Joan MacLeod.  
+Avec Alain Delon, Nathalie Delon, François Périer.  
+Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de l'abattre à son tour.  
+Restauration par Pathé.
+
+- sa 24 juin 14h30 HL  
+Voir aussi dialogue p. xx
+
+[46946]  
+**Le Saut de l'ange**  
+de Yves Boisset  
+France-Italie / 1971 / 95 min / DCP  
+D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.  
+Avec Jean Yanne, Senta Berger, Sterling Hayden.  
+En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini, et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini et la famille de l'un d'eux, expatrié en Thaïlande. Celui-ci décide de rentrer pour se venger.
+
+- sa 24 juin 21h00 GF
+
+[154391]  
+**Thaumetopoea**  
+de Robert Enrico  
+France / 1960 / 23 min / DCP  
+À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.
+
+- di 25 juin 16h15 GF  
+Film suivi de _Les Grandes Gueules_ de Robert Enrico
 
 ## Rencontres et conférences
 

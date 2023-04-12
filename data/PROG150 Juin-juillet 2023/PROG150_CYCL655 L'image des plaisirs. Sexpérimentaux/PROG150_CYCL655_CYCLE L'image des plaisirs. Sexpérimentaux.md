@@ -499,7 +499,7 @@ Séance présentée par Yves-Marie Mahé
 **Removed**  
 de Naomi Uman  
 États-Unis / 1999 / 7 min / 16 mm  
-Remploi d'un film X en 16mm d'où le corps de la femme est effacé (grâce à du dissolvant et de l'eau de Javel) : un moyen de protester contre l'objectivation des femmes.  
+Remploi d'un film X en 16 mm d'où le corps de la femme est effacé (grâce à du dissolvant et de l'eau de Javel) : un moyen de protester contre l'objectivation des femmes.  
 suivi de  
 [154048]  
 **Come With Me, Swim With You**  
@@ -511,14 +511,14 @@ suivi de
 **Fountain**  
 de Patty Chang  
 États-Unis / 1999 / 6 min / Numérique  
-Performance, pour un·e tout·e autre Narcisse.  
+Performance, pour un ou une tout autre Narcisse.  
 suivi de  
 [154047]  
 **Herstory of Porn : Reel to Real**  
 de Carol Leigh, Annie Sprinkle  
 États-Unis / 1999 / 69 min / VOSTF / DCP  
 Avec Annie Sprinkle, Sirena, Raul Del Rio.  
-Annie Sprinkle, artiste et figure de la pornographie et de la communauté queer féministe pro-sexe commente avec mordant et humour des extraits de certains des deux cents films qu'elle a réalisés au cours du dernier quart de siècle.  
+Annie Sprinkle, artiste et figure de la pornographie et de la communauté queer féministe pro-sexe, commente avec mordant et humour des extraits de certains des deux cents films qu'elle a réalisés au cours du dernier quart de siècle.  
 suivi de  
 [154050]  
 **Hand to Mouth**  
@@ -581,14 +581,14 @@ Montage des scènes d'amour censurées du film _Une minute de soleil en moins_, 
 
 ## Séance 37 : Karima selon Clarisse Hahn
 
-Une bouleversante héroïne de film, travailleuse du sexe dominatrice, dans un film passionnant qui la présente à la fois intimement et professionnellement. « Certains de tes films, comme _Karima_, résonnent avec la situation actuelle où l'on voit renaître des marchés aux esclaves de femmes en Syrie, on où assiste à une dégradation des droits de la femme et de son image. » (Jocelyne Saab, 2015)
+Une bouleversante héroïne de film, travailleuse du sexe dominatrice, dans un film passionnant qui la présente à la fois intimement et professionnellement. « Certains de tes films, comme _Karima_, résonnent avec la situation actuelle où l'on voit renaître des marchés aux esclaves de femmes en Syrie, où on assiste à une dégradation des droits de la femme et de son image. » (Jocelyne Saab, 2015)
 
 [122041]  
 **Karima**  
 de Clarisse Hahn  
 France / 2003 / 98 min / Vidéo  
 Avec Karima, Clarisse Hahn.  
-Par la plasticienne et cinéaste Clarisse Hahn, un portrait sororal de la dominatrice SM Karima, alternant entre scènes du quotidien, performance sexuelle et entretiens à cœur ouvert.
+Par la plasticienne et cinéaste Clarisse Hahn, un portrait sororal de la dominatrice SM Karima, alternant scènes du quotidien, performance sexuelle et entretiens à cœur ouvert.
 
 - di 11 juin 17h45 JE  
 Séance présentée par Clarisse Hahn
@@ -642,7 +642,7 @@ suivi de
 d'Émilie Jouvet  
 France / 2008 / 6 min / Numérique  
 Avec Wendy Delorme.  
-« Ève s'éveille au paradis, trouve une pomme... et commet un délicieux péché. » (Émilie Jouvet) Une réinterprétation du mythe d'Ève qui donne beaucoup à penser.
+« Ève s'éveille au paradis, trouve une pomme... et commet un délicieux péché. » (Émilie Jouvet). Une réinterprétation du mythe d'Ève qui donne beaucoup à penser.
 
 - me 14 juin 18h00 JE  
 Séance présentée par Émilie Jouvet
@@ -770,7 +770,7 @@ Dans un Berlin hostile et complice, le film suit cinq « garçons à louer » da
 de Derek Woolfenden  
 France / 2012 / 43 min / Numérique  
 Avec Léa Vrina, Derek Woolfenden, Maureen Fazendeiro.  
-« _Lexique dyslexique_ rend compte de troubles affectifs qui s'expriment à un travers un langage crypté, symbolique, dont le cinéaste a su donner des équivalences plastiques fortes. Une forme originale de « pensée cinéma ». » (Raphaël Bassan)  
+« _Lexique dyslexique_ rend compte de troubles affectifs qui s'expriment à travers un langage crypté, symbolique, dont le cinéaste a su donner des équivalences plastiques fortes. Une forme originale de "pensée cinéma". » (Raphaël Bassan)  
 suivi de  
 [154070]  
 **El Guaraches**  
