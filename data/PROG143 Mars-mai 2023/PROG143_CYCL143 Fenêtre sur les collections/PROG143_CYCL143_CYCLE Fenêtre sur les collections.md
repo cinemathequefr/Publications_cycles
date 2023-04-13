@@ -160,7 +160,7 @@ suivi de
 [154300]  
 **Autour de L'Argent**  
 de Jean Dréville  
-France / 1929 / 42 min / DCP  
+France / 1929 / 42 min / 16 mm  
 En 1928, Jean Dréville filme le tournage de _L'Argent_ de Marcel L'Herbier, dans les studios de la rue Francœur, à la Bourse de Paris et à Joinville.  
 suivi de  
 [154301]  

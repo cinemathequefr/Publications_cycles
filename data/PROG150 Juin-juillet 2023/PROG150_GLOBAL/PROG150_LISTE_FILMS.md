@@ -345,7 +345,7 @@
   * Chevalier des sables (Le)  
   * Comme un torrent  
   * Ensorcelés (Les)  
-  * Fée au choux (La)  
+  * Fée aux choux (La)  
   * Femme modèle (La)  
   * Fredaines de Pierrette (Les)  
   * Gigi  

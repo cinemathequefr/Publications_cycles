@@ -49,7 +49,8 @@ Espagne / 1977 / 100 min / VOSTF / Vidéo
 Avec Ana Belén, Juan Diego, Claudia Gravy.  
 Après plusieurs années de mariage, Cristina parvient enfin à tomber enceinte. Mais la frayeur provoquée par un chien précipite l'accouchement.
 
-- je 20 juil 20h45 GF
+- je 20 juil 20h45 GF  
+Séance présentée par Gaspar Noé (sous réserve)
 
 [43024]  
 **Le Député**  
@@ -189,7 +190,7 @@ Avec Vicente Parra, Emma Cohen, Eusebio Poncela.
 Employé dans une usine de découpe de viande dans les faubourgs de Madrid, Marcos mène une vie sans histoire jusqu'au jour où il tue accidentellement un chauffeur de taxi dans une altercation. C'est le début d'un engrenage fatal.
 
 - me 12 juil 20h00 HL  
-Ouverture de la rétrospective. Séance présentée par Gaspar Noé
+Ouverture de la rétrospective. Séance présentée par Gaspar Noé (sous réserve)
 
 [147104]  
 **Un autre tour d'écrou**  

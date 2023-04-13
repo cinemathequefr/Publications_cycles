@@ -10,7 +10,7 @@ Alice Guy orchestre l'enregistrement d'une courte scène chantée.
 
 - sa 1 juil 15h00 HL  
 Séance présentée par Catel & Bocquet  
-Film précédé de _La Fée au choux_ d'Alice Guy et suivi de de _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli
+Film précédé de _La Fée aux choux_ d'Alice Guy et suivi de de _Madame a des envies_ d'Alice Guy, _Un numéro du tonnerre_ de Vincente Minnelli
 
 [35235]  
 **Allons donc, papa !**  
@@ -119,7 +119,7 @@ Un réalisateur, une actrice et un scénariste à qui l'on propose un nouveau co
 - di 23 juil 14h30 HL
 
 [53492]  
-**La Fée au choux**  
+**La Fée aux choux**  
 d'Alice Guy  
 France / 1896 / 1 min / INT. FR. / DCP  
 Dans un potager, une fée fait apparaitre des bébés.
@@ -226,7 +226,7 @@ Film attribué à Alice Guy.
 
 - sa 1 juil 15h00 HL  
 Séance présentée par Catel & Bocquet  
-Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy et suivi de d'_Un numéro du tonnerre_ de Vincente Minnelli
+Film précédé de _La Fée aux choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy et suivi de d'_Un numéro du tonnerre_ de Vincente Minnelli
 
 [35207]  
 **Madame Bovary**  
@@ -413,7 +413,7 @@ Ella Peterson, une standardiste new-yorkaise, s'immisce dans les affaires des ab
 
 - sa 1 juil 15h00 HL  
 Séance présentée par Catel & Bocquet  
-Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy  
+Film précédé de _La Fée aux choux_ d'Alice Guy, _Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envies_ d'Alice Guy  
 - di 9 juil 14h30 HL
 
 [35216]  
