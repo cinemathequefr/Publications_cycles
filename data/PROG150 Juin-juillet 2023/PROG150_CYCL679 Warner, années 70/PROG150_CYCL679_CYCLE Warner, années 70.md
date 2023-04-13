@@ -309,3 +309,4 @@ Harry Kilmer, détective privé, retourne au Japon où il a servi pendant la Sec
 
 - sa 10 juin 20h30 GF
 
+Remerciements : Carlotta Films, Warner Bros Picture France, Warner GB.

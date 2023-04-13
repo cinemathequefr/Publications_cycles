@@ -49,7 +49,7 @@ Espagne / 1977 / 100 min / VOSTF / Vidéo
 Avec Ana Belén, Juan Diego, Claudia Gravy.  
 Après plusieurs années de mariage, Cristina parvient enfin à tomber enceinte. Mais la frayeur provoquée par un chien précipite l'accouchement.
 
-- je 20 juil 18h30 GF
+- je 20 juil 20h45 GF
 
 [43024]  
 **Le Député**  
@@ -78,7 +78,7 @@ La dérive opiacée de deux jeunes amis, Paco et Urko, respectivement fils d'un 
 d'Eloy de la Iglesia  
 Espagne / 1984 / 117 min / VOSTF / DCP  
 Avec José Luis Manzano, Fernando Guillén, Andrea Albani.  
-Paco, fils d'un commandant de la Garde civile, est impliqué dans le meurtre d'un couple de trafiquants d'héroïne à Bilbao. Lorsque la presse commence à s'intéresser à l'affaire, les efforts de son père pour l'éloigner de la drogue et cacher les preuves du crime s'avèrent vite inutiles.
+Paco, fils d'un commandant de la Garde civile, est impliqué dans le meurtre d'un couple de trafiquants d'héroïne à Bilbao. Lorsque la presse commence à s'intéresser à l'affaire, les efforts de son père pour l'éloigner de la drogue et cacher les preuves du crime se révèlent inutiles.
 
 - je 27 juil 17h30 GF
 
@@ -158,7 +158,7 @@ Espagne / 1977 / 95 min / VOSTF / Numérique
 Avec Simón Andreu, Tony Fuentes, Beatriz Rossat.  
 Eduardo, directeur d'une banque, homosexuel, tombe amoureux du jeune et humble Miguel. Il tente de le séduire avec des cadeaux et en lui offrant un travail. Mais Miguel a une petite amie.
 
-- je 20 juil 20h45 GF
+- je 20 juil 18h30 GF
 
 [154357]  
 **Le Prêtre**  
@@ -176,7 +176,7 @@ Le père Miguel, un prêtre séduisant et timide de trente-six ans, traverse une
 d'Eloy de la Iglesia  
 Espagne / 1970 / 90 min / VOSTF / DCP  
 Avec José María Prada, Rosanna Yanni, Irene Daina.  
-Un manager de boxe découvre que l'un ses poulains les plus prometteurs est tombé amoureux de la femme qu'il convoite.
+Un manager de boxe découvre que l'un de ses poulains les plus prometteurs est tombé amoureux de la femme qu'il convoite.
 
 - sa 15 juil 15h00 GF
 

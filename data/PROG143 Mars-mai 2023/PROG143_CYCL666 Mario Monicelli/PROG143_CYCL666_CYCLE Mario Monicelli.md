@@ -316,7 +316,7 @@ Un député d'extrême droite fomente un coup d'État avec le concours d'un grou
 **Les Nouveaux Monstres**  
 **(I Nuovi mostri)**  
 de Dino Risi, Mario Monicelli, Ettore Scola  
-Italie / 1977 / VOSTF / 35 mm  
+Italie / 1977 / 102 min / VOSTF / DCP  
 Avec Alberto Sordi, Ugo Tognazzi, Vittorio Gassman.  
 Douze sketches, tableaux sombres et amers qui, à la suite des _Monstres_ de 1963, mettent en scène l'évolution de la société italienne.
 

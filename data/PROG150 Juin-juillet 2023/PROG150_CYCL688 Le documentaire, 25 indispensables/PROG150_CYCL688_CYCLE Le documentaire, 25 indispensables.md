@@ -327,3 +327,4 @@ David Faroult est maître de conférences en cinéma à l'École nationale supé
 - sa 8 juil 14h30 GF  
 À la suite de la projection de _Reprise_ de Hervé Le Roux (voir p. xx)
 
+Remerciements : Armor Films, Ciné-Tamaris, Cinémathèque Royale de Belgique, Documentaire sur grand écran, Documents Cinématographiques, Gaumont, Gaumont Pathé Archives, Grands Films Classiques, Les Films du Losange, Les Films du Paradoxe, Lobster Films, Meteor Films, MK2 Diffusion, Palmeraie et désert, Sofra, Sophie Dulac Distribution, Splendor Films, Tamasa Distribution, Why Not Productions

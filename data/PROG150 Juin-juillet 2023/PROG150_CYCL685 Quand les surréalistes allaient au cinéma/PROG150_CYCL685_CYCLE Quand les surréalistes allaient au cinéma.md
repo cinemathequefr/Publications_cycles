@@ -201,7 +201,7 @@ de Frank Borzage
 États-Unis / 1929 / 96 min / INT. FR. / 16 mm  
 D'après le roman _The River_ de Tristram Tupper.  
 Avec Mary Duncan, Charles Farrell, Ivan Linow.  
-Mary Duncan, dont l'amant est emprisonné pour meurtre, rencontre un vagabond. Peu à peu naît entre eux un sentiment amoureux, mais la jeune femme est surveillée par un corbeau censé lui rappeler qu'elle ne doit s'approcher d'aucun homme.
+Rosalee, dont l'amant est emprisonné pour meurtre, rencontre un vagabond. Peu à peu naît entre eux un sentiment amoureux, mais la jeune femme est surveillée par un corbeau censé lui rappeler qu'elle ne doit s'approcher d'aucun homme.
 
 - sa 17 juin 18h00 HL  
 Accompagnement musical par Jacques Cambra
@@ -387,3 +387,4 @@ Dominique Rabourdin est cinéphile – tendance Nickelodeon –, critique, histo
 - di 18 juin 14h30 HL  
 À la suite de la projection de _Peter Ibbetson_ de Henry Hathaway (voir p. xx)
 
+Remerciements : Carlotta Films, Cinémathèque Royale de Belgique, Cinémathèque Suisse, Library of Congress, Light Cone, Lobster Films, Park Circus, Pathé Distribution, Seven Doc, Tamasa Distribution, Fabio Venturi, Warner Bros Picture France

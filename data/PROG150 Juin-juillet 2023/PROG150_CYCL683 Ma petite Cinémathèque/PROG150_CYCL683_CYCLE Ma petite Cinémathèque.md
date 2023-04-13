@@ -8,8 +8,7 @@
 de Charles Chaplin  
 États-Unis / 1927 / 83 min / INT. FR. / DCP  
 Avec Charles Chaplin, Merna Kennedy, Al Ernest Garcia.  
-Poursuivi par la police, Charlot se réfugie dans un cirque en pleine représentation.
-Embauché par le directeur, il tombe amoureux de la belle écuyère, mais elle lui préfère Rex, le funambule.
+Poursuivi par la police, Charlot se réfugie dans un cirque en pleine représentation. Embauché par le directeur, il tombe amoureux de la belle écuyère, mais elle lui préfère Rex, le funambule.
 
 - me 7 juin 15h00 GF
 

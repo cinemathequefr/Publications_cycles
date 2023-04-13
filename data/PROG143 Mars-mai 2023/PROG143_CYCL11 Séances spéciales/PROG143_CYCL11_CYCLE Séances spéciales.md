@@ -31,6 +31,6 @@ Corée / 2022 / 131 min / VOSTF / DCP
 Avec Jung-jae Lee, Woo-Sung Jung, Hye-jin Jeon.  
 1980, Corée du Sud. Après l'assassinat du président Park par le chef de la CIA coréenne, l'armée prend à nouveau le pouvoir. La Corée du Nord y voit l'opportunité d'une future invasion, et y envoie un de ses espions.
 
-- lu 10 avr 20h00 HL  
+- lu 17 avr 20h00 HL  
 Avant-première
 

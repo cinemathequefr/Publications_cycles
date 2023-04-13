@@ -37,7 +37,7 @@ Buster poursuit la jeune fille qu'il aime à travers trois époques, l'âge de p
 **Un Américain à Paris**  
 **(An American in Paris)**  
 de Vincente Minnelli  
-États-Unis / 1950 / 113 min / VOSTF / DCP  
+États-Unis / 1951 / 113 min / VOSTF / DCP  
 Avec Gene Kelly, Leslie Caron, Oscar Levant, Georges Guétary.  
 Un peintre américain s'installe à Paris et tombe amoureux de la ville et d'une de ses habitantes.
 

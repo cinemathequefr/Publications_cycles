@@ -141,7 +141,7 @@ suivi de
 [140100]  
 **L'Armée des fourmis**  
 de Wissam Charaf  
-France / 2007 / 27 min / VOSTF / 35 mm  
+France / 2007 / 27 min / VOSTF / Numérique  
 Avec Wissam Fares, Hussein Moukkaden, Raed Yassin.  
 Dans le Sud du Liban, on trouve parfois de curieux objets dans le sol. Au point de perdre son travail et de se perdre soi-même.  
 suivi de  

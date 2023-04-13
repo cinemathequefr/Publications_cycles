@@ -51,7 +51,7 @@ suivi de
 [154247]  
 **Memory Slot – Track 1**  
 de Yann Gonzalez, Alain Garcia Vergara  
-France / 2023 / 11 min / VOSTF / 35 mm  
+France / 2023 / 12 min / VOSTF / 35 mm  
 « Rejoins-moi, mon ami. Puisque tu es mon meilleur ami. On m'a parlé de ce lieu. Un lieu lointain. Selon certains c'est le paradis. Faisons l'amour. Toi et moi. Amène le corps, j'amène le beat. » (Wladimir M.)  
 Première mondiale.
 
@@ -110,7 +110,7 @@ suivi de
 de Luis Buñuel  
 France / 1930 / 63 min / DCP  
 Avec Lya Lys, Gaston Modot, Max Ernst, Pierre Prévert.  
-La force du désir éprouvé par un couple bouscule et renverse l'ordre social. « Un film d'inspiration bolchevique, _L'Âge d'or_, attaquant la religion, la patrie et la famille, était projeté depuis plusieurs jours. Plusieurs commissaires de la Ligue des Patriotes [ont] sifflé ce film obscène. » (communiqué de la Ligue, 6 décembre 1930)  
+La force du désir éprouvé par un couple bouscule et renverse l'ordre social.  
 Scénario coécrit par Luis Buñuel et Salvador Dalí.  
 suivi de  
 [154112]  
@@ -273,7 +273,7 @@ suivi de
 [153999]  
 **Behind Every Good Man**  
 de Nikolai Ursin  
-États-Unis / 1967 / 8 min / VO / Numérique  
+États-Unis / 1967 / 8 min / VOSTF / DCP  
 La solitude et les amours difficiles d'une jeune trans afro-américaine, bercées par la chanson mélancolique interprétée par les Supremes, _I'll Turn to Stones_.  
 suivi de  
 [113216]  
@@ -330,7 +330,7 @@ suivi de
 [154004]  
 **Orfeo filmando en el campo de batalla**  
 d'Antonio Maenza Blasco  
-Espagne / 1968 / 37 min / VO / Numérique  
+Espagne / 1968 / 37 min / VOSTF / Numérique  
 Avec Maite Larrauri, Luis Puig, Rafa Ferrando, Narciso Sáez.  
 Essai amoureux et politique où la réinvention du désir et de la vie ensemble, si possible à trois, participe aussi de l'idéal révolutionnaire.
 
@@ -358,7 +358,7 @@ Avec Marie Antoinette, Daniel D. Halleck, Hugh Hefner, Monique Kraamwinkel, Sach
 **Particulièrement valable**  
 **(Besonders wertvoll)**  
 de Hellmuth Costard  
-RFA / 1968 / 13 min / VOSTF / DCP  
+RFA / 1968 / 13 min / VO / DCP  
 « La pornographie se met au service de la politique dans cette attaque scandaleuse, provocante, dirigée contre la législation allemande, réactionnaire et discriminatoire à l'égard des jeunes réalisateurs. » (Amos Vogel)  
 suivi de  
 [154130]  
@@ -409,14 +409,14 @@ suivi de
 [118991]  
 **Dafnis y Cloe**  
 d'Antoni Padrós  
-Espagne / 1969 / 19 min / VOSTF / Numérique  
+Espagne / 1969 / 19 min / VO / Numérique  
 Avec Toni Martínez, Rosa Morata.  
 Après l'évocation de leurs origines (prose bucolique de Longus, ballet symphonique de Ravel), les amours de Daphnis et Chloé s'allient au sadomasochisme, au blasphème, aux luttes révolutionnaires.  
 suivi de  
 [154124]  
 **Basta**  
 d'Ugo Ulive  
-Venezuela / 1969 / 22 min / VO / 16 mm  
+Venezuela / 1969 / 22 min / Numérique  
 Dans _Basta_, les images pornographiques, comme celles de la morgue, ne sont pas là pour flatter le cortex visuel, mais au contraire pour dire le caractère insoutenable des dictatures en Amérique latine.
 
 - di 14 mai 20h00 JE
@@ -459,25 +459,25 @@ Merveilleuse et si rare cinéaste d'avant-garde étatsunienne pourtant aussi imp
 [154011]  
 **Unfolding**  
 de Coni Beeson  
-États-Unis / 1970 / 16 min / VOSTF / Numérique  
+États-Unis / 1970 / 16 min / VO / Numérique  
 Déploiement des sens, dévoilement des fantasmes, déroulement des rêves.  
 suivi de  
 [141220]  
 **Holding**  
 de Coni Beeson  
-États-Unis / 1971 / 13 min / VOSTF / Numérique  
+États-Unis / 1971 / 13 min / VO / Numérique  
 Beauté de la surimpression fusionnant promenades élégiaques et intimité sexuelle. « Ce travail lyrique – de manière significative, l'un des rares films érotiques réalisé par une femme – progresse de préliminaires jusqu'au sexe explicite, prouvant que même les séquences _hardcore_ peuvent être subverties. » (Amos Vogel)  
 suivi de  
 [154012]  
 **The Now**  
 de Coni Beeson  
-États-Unis / 1972 / 17 min / VOSTF / Numérique  
+États-Unis / 1972 / 17 min / VO / Numérique  
 Célébration de l'amour libre et interracial. « There are my past lives when my lovers were Black and my lovers were White. » (Coni Beeson)  
 suivi de  
 [154013]  
 **Firefly**  
 de Coni Beeson  
-États-Unis / 1974 / 5 min / VOSTF / Numérique  
+États-Unis / 1974 / 5 min / VO / Numérique  
 Danse féminine, sensuelle et expressive.  
 suivi de  
 [154014]  
@@ -495,7 +495,7 @@ suivi de
 [154016]  
 **Lotus**  
 de Coni Beeson  
-États-Unis / 1979 / 12 min / VOSTF / Numérique  
+États-Unis / 1979 / 12 min / VO / Numérique  
 Sensualité et art du portrait à leur paroxysme.
 
 - je 18 mai 20h00 JE
@@ -520,25 +520,25 @@ Remplois psychédéliques et critiques, pamphlets effrénés anti-impérialistes
 [154143]  
 **CF Porn**  
 de JoAnn Elam  
-États-Unis / 1970 / 2 min / VOSTF / Numérique  
+États-Unis / 1970 / 2 min / VO / Numérique  
 Expérimentations optiques sur la copie 16 mm d'un film pornographique.  
 suivi de  
 [154144]  
 **Lovemaking**  
 de Scott Bartlett  
-États-Unis / 1970 / 13 min / VOSTF / Numérique  
+États-Unis / 1970 / 13 min / VO / Numérique  
 « Un traitement délicat et excitant de l'amour. Son mode est simple et classique, alliant maîtrise technique et singulière sobriété. L'image est vive, subtile et ambiguë tandis que le son est net et clair. » (Bruce Conner, Maurice Girodias, Arthur Knight)  
 suivi de  
 [154145]  
 **Mixed-Double**  
 de Bent Barfod  
-Danemark / 1970 / 6 min / VOSTF / DCP  
+Danemark / 1970 / 6 min / VO / DCP  
 Sur une chorégraphie d'Eske Holm, un ballet psychédélique se mue en kaléidoscope érotique.  
 suivi de  
 [154007]  
 **Hedonistic Communication**  
 d'Irm Sommer, Ed Sommer  
-RFA / 1970 / 18 min / VO / Numérique  
+RFA / 1970 / 18 min / VOSTF / Numérique  
 Sexualité explicite, musique stridente, texte absurde ou trivial (« Ceci est un cours de téléachat tardif », « J'ai 14 ans, je veux voir du sexe aussi ») alimentent la licence de ce qui se communique ici.  
 suivi de  
 [154147]  
@@ -562,7 +562,7 @@ suivi de
 [154149]  
 **Phosphene**  
 de Byron Grush  
-États-Unis / 1971 / 7 min / VOSTF / Numérique  
+États-Unis / 1971 / 7 min / VO / Numérique  
 Remploi psychédélique. L'un de ces cas fréquents où le recyclage magnifie un matériau banal voire disgracié.  
 suivi de  
 [154152]  
@@ -574,7 +574,7 @@ suivi de
 [154153]  
 **Blue Streak**  
 de Mark Rappaport  
-États-Unis / 1971 / 16 min / Numérique  
+États-Unis / 1971 / 16 min / STF / Numérique  
 _Blue Streak_ conjugue un manifeste en faveur d'une sexualité diverse à la représentation du groupe et de la pluralité des corps.
 
 - sa 20 mai 20h30 GF  
@@ -644,7 +644,7 @@ suivi de
 [154177]  
 **Love It / Leave It**  
 de Tom Palazzolo  
-États-Unis / 1973 / 14 min / VOSTF / Numérique  
+États-Unis / 1973 / 14 min / VO / Numérique  
 _Love It / Leave It_ explore une série d'_americana_ en dégageant leur charge érotique.
 
 - me 24 mai 21h00 GF
@@ -694,7 +694,7 @@ suivi de
 [121828]  
 **Nitrate Kisses**  
 de Barbara Hammer  
-États-Unis / 1992 / 67 min / VO / 16 mm  
+États-Unis / 1992 / 67 min / VOSTF / 16 mm  
 Pièce essentielle dans l'histoire de la représentation des corps de lesbiennes âgées, à ce jour peu fournie encore, à laquelle on pourrait ajouter le nom d'Yvonne Rainer.
 
 - je 25 mai 20h45 GF

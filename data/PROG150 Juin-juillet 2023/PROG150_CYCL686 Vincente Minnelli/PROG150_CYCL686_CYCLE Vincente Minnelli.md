@@ -167,7 +167,7 @@ de Vincente Minnelli
 États-Unis / 1952 / 32 min / VOSTF / 35 mm  
 Avec Leslie Caron, Ethel Barrymore, Farley Granger.  
 À bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour.  
-Segment réalisé par Minnelli du film à sketches _Histoire de trois amours_.
+Segment, réalisé par Minnelli, du film à sketches _Histoire de trois amours_.
 
 - lu 10 juil 20h00 GF  
 Film suivi d'_Allons donc, papa !_ de Vincente Minnelli
@@ -257,7 +257,7 @@ de Vincente Minnelli
 États-Unis / 1970 / 129 min / VOSTF / 16 mm  
 D'après la comédie musicale _On a Clear Day You Can See Forever_ d'Alan Jay Lerner.  
 Avec Barbra Streisand, Yves Montand.  
-Désireuse d'arrêter de fumer, Daisy Gamble rend visite à un spécialiste de l'hypnose. Au cours d'une séance, Daisy évoque des faits concernant une aristocrate du XIX<sup>e</sup> siècle, une certaine Melinda, dont le médecin tombe peu à peu amoureux.
+Désireuse d'arrêter de fumer, Daisy Gamble rend visite à un spécialiste de l'hypnose. Au cours d'une séance, elle évoque des faits concernant une aristocrate du XIX<sup>e</sup> siècle, une certaine Melinda, dont le médecin tombe peu à peu amoureux.
 
 - me 12 juil 18h00 GF  
 - me 19 juil 18h00 HL
@@ -269,7 +269,7 @@ de Vincente Minnelli
 États-Unis-Italie / 1976 / 97 min / VOSTF / 16 mm  
 D'après le roman _La Volupté d'être_ de Maurice Druon.  
 Avec Ingrid Bergman, Liza Minnelli, Charles Boyer.  
-Nina, une actrice célèbre, est attendue à une conférence de presse. Pour l'heure, elle se trouve dans une voiture en compagnie d'un homme à qui raconte son l'histoire de sa vie.
+Nina, une actrice célèbre, est attendue à une conférence de presse. Pour l'heure, elle se trouve dans une voiture en compagnie d'un homme à qui elle raconte son histoire.
 
 - me 12 juil 20h45 GF  
 - me 19 juil 20h45 HL
@@ -422,7 +422,7 @@ Film précédé de _La Fée au choux_ d'Alice Guy, _Alice Guy tourne une phonosc
 de Vincente Minnelli  
 États-Unis / 1943 / 98 min / VOSTF / 35 mm  
 Avec Cab Calloway, Rex Ingram, Duke Ellington, Louis Armstrong, Eddie Anderson, Lena Horne.  
-Brave homme mais joueur impénitent, "Little" Joe Jackson est mortellement blessé pour une dette de jeu. Cédant aux prières de sa femme, le Seigneur lui accorde six mois de sursis sur Terre pour prouver qu'il mérite d'échapper à l'enfer.
+Brave homme mais joueur impénitent, Little Joe Jackson est mortellement blessé pour une dette de jeu. Cédant aux prières de sa femme, le Seigneur lui accorde six mois de sursis sur Terre pour prouver qu'il mérite d'échapper à l'enfer.
 
 - je 29 juin 16h00 GF  
 - lu 17 juil 20h45 GF
@@ -457,7 +457,7 @@ Film précédé de _Baignade dans un torrent_ d'Alice Guy
 de Vincente Minnelli, George Sidney, Roy Del Ruth, Robert Lewis, Lemuel Ayers  
 États-Unis / 1945 / 110 min / VOSTF / 35 mm  
 Avec William Powell, Fred Astaire, Judy Garland, Lucille Ball.  
-Le grand Ziegfeld est au ciel et, de là-haut, rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme à la grande époque, numéros comiques, dansé et chantés se succèdent.
+Le grand Ziegfeld est au ciel et, de là-haut, rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme à la grande époque, numéros comiques, dansés et chantés se succèdent.
 
 - ve 30 juin 18h00 HL  
 - je 20 juil 20h00 HL

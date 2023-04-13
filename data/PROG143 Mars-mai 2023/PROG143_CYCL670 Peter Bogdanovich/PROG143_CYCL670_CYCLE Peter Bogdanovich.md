@@ -134,6 +134,7 @@ de Peter Bogdanovich
 Avec Ryan O'Neal, Burt Reynolds, Stella Stevens.  
 À travers le destin de quatre jeunes gens, évocation de l'histoire du _nickelodeon_, l'ancêtre de la salle de cinéma.
 
+- je 13 avr 18h00 HL  
 - sa 15 avr 20h45 HL  
 - lu 17 avr 18h00 GF
 
@@ -145,7 +146,7 @@ de Peter Bogdanovich
 Avec Barbra Streisand, Ryan O'Neal, Madeline Kahn.  
 Judy Maxwell, Howard Bannister, Mrs. Van Hoskins et Mr. Smith descendent dans le même hôtel de San Francisco où va se tenir un congrès de musicologie. Et tous les quatre ont une valise identique.
 
-- je 13 avr 18h00 HL
+- lu 24 avr 20h15 HL
 
 [59168]  
 **Réalisé par John Ford**  
