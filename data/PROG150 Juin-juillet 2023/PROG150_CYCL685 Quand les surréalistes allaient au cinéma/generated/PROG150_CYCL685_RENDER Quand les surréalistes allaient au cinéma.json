@@ -1,6 +1,6 @@
 [
   {
-    "titreSousCycle": "Les films",
+    "titreSousCycle": "Séance d'ouverture",
     "tri": 4,
     "textes": [],
     "items": [
@@ -122,38 +122,77 @@
             "typeEvenement": 13
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "titreSousCycle": "Les films",
+    "tri": 1,
+    "textes": [],
+    "items": [
       {
-        "items": [
+        "idFilm": 154366,
+        "typeEvenement": 13,
+        "titre": "À l'abri des lois",
+        "realisateurs": "Frank Lloyd",
+        "annee": 1923,
+        "pays": "États-Unis",
+        "textes": [
           {
-            "idFilm": 47140,
-            "titre": "Âge d'or",
-            "art": "L'",
-            "realisateurs": "Luis Buñuel",
-            "annee": 1930,
-            "pays": "France",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "La force du désir éprouvé par un couple bouscule et renverse l'ordre social."
-              },
-              {
-                "typeTexte": 99,
-                "texte": "Scénario coécrit par Luis Buñuel et Salvador Dalí."
-              }
-            ],
-            "generique": [
-              "Lya Lys",
-              "Gaston Modot",
-              "Max Ernst",
-              "Pierre Prévert"
-            ],
-            "duree": 63,
-            "format": "DCP",
-            "version": "",
-            "ordre": 1
+            "typeTexte": 9,
+            "texte": "Mary Turner, envoyée en prison pour un crime qu'elle n'a pas commis, fait le vœu de se venger à sa sortie, mais dans le respect des lois."
           }
         ],
+        "adaptation": "D'après la pièce _Within the Law_ de Bayard Veiller.",
+        "generique": [
+          "Norma Talmadge",
+          "Lew Cody",
+          "Jack Mulhall"
+        ],
+        "duree": 87,
+        "format": "35 mm",
+        "version": "INT. FR.",
+        "seances": [
+          {
+            "idSeance": 101220,
+            "ordre": 1,
+            "dateHeure": "2023-06-19T18:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "mention": "Accompagnement musical par Timothée Quost, Victor Aubert et Adrien Leconte",
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 47140,
+        "typeEvenement": 13,
+        "titre": "Âge d'or",
+        "art": "L'",
+        "realisateurs": "Luis Buñuel",
+        "annee": 1930,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "La force du désir éprouvé par un couple bouscule et renverse l'ordre social."
+          },
+          {
+            "typeTexte": 99,
+            "texte": "Scénario coécrit par Luis Buñuel et Salvador Dalí."
+          }
+        ],
+        "generique": [
+          "Lya Lys",
+          "Gaston Modot",
+          "Max Ernst",
+          "Pierre Prévert"
+        ],
+        "duree": 63,
+        "format": "DCP",
+        "version": "",
         "seances": [
           {
             "idSeance": 101113,
@@ -169,31 +208,27 @@
         ]
       },
       {
-        "items": [
+        "idFilm": 47184,
+        "typeEvenement": 13,
+        "titre": "Cet obscur objet du désir",
+        "realisateurs": "Luis Buñuel",
+        "annee": 1977,
+        "pays": "France-Espagne",
+        "textes": [
           {
-            "idFilm": 47184,
-            "titre": "Cet obscur objet du désir",
-            "realisateurs": "Luis Buñuel",
-            "annee": 1977,
-            "pays": "France-Espagne",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de voyage la passion déchirante qu'il a eue pour Conchita, une jeune femme qui n'a cessé de se dérober à lui."
-              }
-            ],
-            "adaptation": "D'après le roman _La Femme et le pantin_ de Pierre Louÿs.",
-            "generique": [
-              "Fernando Rey",
-              "Carole Bouquet",
-              "Ángela Molina"
-            ],
-            "duree": 102,
-            "format": "DCP",
-            "version": "",
-            "ordre": 1
+            "typeTexte": 9,
+            "texte": "Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de voyage la passion déchirante qu'il a eue pour Conchita, une jeune femme qui n'a cessé de se dérober à lui."
           }
         ],
+        "adaptation": "D'après le roman _La Femme et le pantin_ de Pierre Louÿs.",
+        "generique": [
+          "Fernando Rey",
+          "Carole Bouquet",
+          "Ángela Molina"
+        ],
+        "duree": 102,
+        "format": "DCP",
+        "version": "",
         "seances": [
           {
             "idSeance": 101114,
@@ -208,35 +243,108 @@
         ]
       },
       {
-        "items": [
+        "idFilm": 36444,
+        "typeEvenement": 13,
+        "titre": "Chasse du comte Zaroff",
+        "art": "La",
+        "titreVo": "Most Dangerous Game",
+        "artVo": "The",
+        "realisateurs": "Ernest B. Schoedsack, Irving Pichel",
+        "annee": 1932,
+        "pays": "États-Unis",
+        "textes": [
           {
-            "idFilm": 30930,
-            "titre": "Freaks",
-            "realisateurs": "Tod Browning",
-            "annee": 1932,
-            "pays": "États-Unis",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher."
-              },
-              {
-                "typeTexte": 99,
-                "texte": "Film également connu sous le titre _La Monstrueuse Parade_."
-              }
-            ],
-            "adaptation": "D'après la nouvelle _Spurs_ de Tod Robbins.",
-            "generique": [
-              "Wallace Ford",
-              "Leila Hyams",
-              "Olga Baclanova"
-            ],
-            "duree": 64,
-            "format": "DCP",
-            "version": "VOSTF",
-            "ordre": 1
+            "typeTexte": 9,
+            "texte": "Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte de la capture de gibier humain."
           }
         ],
+        "adaptation": "D'après la nouvelle _The Most Dangerous Game_ de Richard Connell.",
+        "generique": [
+          "Joel McCrea",
+          "Fay Wray",
+          "Robert Armstrong"
+        ],
+        "duree": 63,
+        "format": "DCP",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 101206,
+            "ordre": 1,
+            "dateHeure": "2023-06-18T17:45:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 30626,
+        "typeEvenement": 13,
+        "titre": "Femme au corbeau",
+        "art": "La",
+        "titreVo": "River",
+        "artVo": "The",
+        "realisateurs": "Frank Borzage",
+        "annee": 1929,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Rosalee, dont l'amant est emprisonné pour meurtre, rencontre un vagabond. Peu à peu naît entre eux un sentiment amoureux, mais la jeune femme est surveillée par un corbeau censé lui rappeler qu'elle ne doit s'approcher d'aucun homme."
+          }
+        ],
+        "adaptation": "D'après le roman _The River_ de Tristram Tupper.",
+        "generique": [
+          "Mary Duncan",
+          "Charles Farrell",
+          "Ivan Linow"
+        ],
+        "duree": 96,
+        "format": "16 mm",
+        "version": "INT. FR.",
+        "seances": [
+          {
+            "idSeance": 104038,
+            "ordre": 1,
+            "dateHeure": "2023-06-17T18:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "mention": "Accompagnement musical par Jacques Cambra",
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 30930,
+        "typeEvenement": 13,
+        "titre": "Freaks",
+        "realisateurs": "Tod Browning",
+        "annee": 1932,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher."
+          },
+          {
+            "typeTexte": 99,
+            "texte": "Film également connu sous le titre _La Monstrueuse Parade_."
+          }
+        ],
+        "adaptation": "D'après la nouvelle _Spurs_ de Tod Robbins.",
+        "generique": [
+          "Wallace Ford",
+          "Leila Hyams",
+          "Olga Baclanova"
+        ],
+        "duree": 64,
+        "format": "DCP",
+        "version": "VOSTF",
         "seances": [
           {
             "idSeance": 104037,
@@ -251,34 +359,141 @@
         ]
       },
       {
-        "items": [
+        "idFilm": 35977,
+        "typeEvenement": 13,
+        "titre": "Hellzapoppin",
+        "realisateurs": "Henry C. Potter",
+        "annee": 1941,
+        "pays": "États-Unis",
+        "textes": [
           {
-            "idFilm": 40704,
-            "titre": "Loulou",
-            "titreVo": "Büchse der Pandora",
-            "artVo": "Die",
-            "realisateurs": "Georg Wilhelm Pabst",
-            "annee": 1928,
-            "pays": "Allemagne",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils."
-              }
-            ],
-            "adaptation": "D'après les pièces _Die Büchse der Pandora_ et _Erdgeist_ de Frank Wedekind.",
-            "generique": [
-              "Louise Brooks",
-              "Fritz Kortner",
-              "Franz Lederer",
-              "Carl Goetz"
-            ],
-            "duree": 134,
-            "format": "DCP",
-            "version": "INT. FR.",
-            "ordre": 1
+            "typeTexte": 9,
+            "texte": "Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la pagaille."
           }
         ],
+        "adaptation": "D'après la comédie musicale _Hellzapoppin_ de Chic Johnson et Ole Olsen.",
+        "generique": [
+          "Ole Olsen",
+          "Chic Johnson",
+          "Martha Raye"
+        ],
+        "duree": 93,
+        "format": "DCP",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 104040,
+            "ordre": 1,
+            "dateHeure": "2023-06-24T15:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 79882,
+        "typeEvenement": 13,
+        "titre": "Heure suprême",
+        "art": "L'",
+        "titreVo": "Seventh Heaven",
+        "realisateurs": "Frank Borzage",
+        "annee": 1927,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "À Paris, en 1914, un balayeur épouse une jeune orpheline le jour de son départ à la guerre."
+          },
+          {
+            "typeTexte": 99,
+            "texte": "Copie avec musique."
+          }
+        ],
+        "adaptation": "D'après la pièce _Seventh Heaven_ d'Austin Strong.",
+        "generique": [
+          "Janet Gaynor",
+          "Charles Farrell",
+          "Ben Bard"
+        ],
+        "duree": 118,
+        "format": "35 mm",
+        "version": "VO",
+        "seances": [
+          {
+            "idSeance": 101191,
+            "ordre": 1,
+            "dateHeure": "2023-06-17T20:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "mention": "Accompagnement musical par Gabriel Cazes et Nicolas Giraud",
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 36414,
+        "typeEvenement": 13,
+        "titre": "King Kong",
+        "realisateurs": "Merian C. Cooper, Ernest B. Schoedsack",
+        "annee": 1933,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une équipe de cinéastes se rend en Malaisie avec la blonde vedette Ann Darow. Il s'agit d'atteindre Skull Island, une île où les indigènes vénèrent un animal monstrueux, King Kong. À peine arrivée, Ann est capturée par les autochtones qui l'offrent à leur dieu."
+          }
+        ],
+        "generique": [
+          "Fay Wray",
+          "Robert Armstrong",
+          "Bruce Cabot"
+        ],
+        "duree": 100,
+        "format": "DCP",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 101207,
+            "ordre": 1,
+            "dateHeure": "2023-06-18T19:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 40704,
+        "typeEvenement": 13,
+        "titre": "Loulou",
+        "titreVo": "Büchse der Pandora",
+        "artVo": "Die",
+        "realisateurs": "Georg Wilhelm Pabst",
+        "annee": 1928,
+        "pays": "Allemagne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils."
+          }
+        ],
+        "adaptation": "D'après les pièces _Die Büchse der Pandora_ et _Erdgeist_ de Frank Wedekind.",
+        "generique": [
+          "Louise Brooks",
+          "Fritz Kortner",
+          "Franz Lederer",
+          "Carl Goetz"
+        ],
+        "duree": 134,
+        "format": "DCP",
+        "version": "INT. FR.",
         "seances": [
           {
             "idSeance": 101152,
@@ -292,6 +507,92 @@
           }
         ]
       },
+      {
+        "idFilm": 33073,
+        "typeEvenement": 13,
+        "titre": "Peter Ibbetson",
+        "realisateurs": "Henry Hathaway",
+        "annee": 1935,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Au XIX<sup>e</sup> siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse."
+          }
+        ],
+        "adaptation": "D'après le roman _Peter Ibbetson_ de George Du Maurier.",
+        "generique": [
+          "Gary Cooper",
+          "Ann Harding",
+          "John Halliday",
+          "Ida Lupino"
+        ],
+        "duree": 85,
+        "format": "35 mm",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 104030,
+            "ordre": 1,
+            "dateHeure": "2023-06-18T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeAssoc": 118,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi dialogue p. xx"
+          }
+        ]
+      },
+      {
+        "idFilm": 34496,
+        "typeEvenement": 13,
+        "titre": "Portrait de Dorian Gray",
+        "art": "Le",
+        "titreVo": "Picture of Dorian Gray",
+        "artVo": "The",
+        "realisateurs": "Albert Lewin",
+        "annee": 1945,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Londres, 1886. Le peintre Basil Hallward réalise le portrait d'un jeune et bel aristocrate, Dorian Gray, qui formule le vœu d'une éternelle jeunesse ; seul son portrait vieillira."
+          },
+          {
+            "typeTexte": 99,
+            "texte": "Restauration 2K par Warner Bros. Pictures."
+          }
+        ],
+        "generique": [
+          "George Sanders",
+          "Angela Lansbury",
+          "Peter Lawford"
+        ],
+        "duree": 109,
+        "format": "DCP",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 101221,
+            "ordre": 1,
+            "dateHeure": "2023-06-19T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titreSousCycle": "Programme Tex Avery et Dave Fleischer",
+    "tri": 4,
+    "textes": [],
+    "items": [
       {
         "items": [
           {
@@ -596,303 +897,14 @@
             "typeEvenement": 13
           }
         ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 30626,
-            "titre": "Femme au corbeau",
-            "art": "La",
-            "titreVo": "River",
-            "artVo": "The",
-            "realisateurs": "Frank Borzage",
-            "annee": 1929,
-            "pays": "États-Unis",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Rosalee, dont l'amant est emprisonné pour meurtre, rencontre un vagabond. Peu à peu naît entre eux un sentiment amoureux, mais la jeune femme est surveillée par un corbeau censé lui rappeler qu'elle ne doit s'approcher d'aucun homme."
-              }
-            ],
-            "adaptation": "D'après le roman _The River_ de Tristram Tupper.",
-            "generique": [
-              "Mary Duncan",
-              "Charles Farrell",
-              "Ivan Linow"
-            ],
-            "duree": 96,
-            "format": "16 mm",
-            "version": "INT. FR.",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104038,
-            "ordre": 1,
-            "dateHeure": "2023-06-17T18:00:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ],
-            "mention": "Accompagnement musical par Jacques Cambra",
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 79882,
-            "titre": "Heure suprême",
-            "art": "L'",
-            "titreVo": "Seventh Heaven",
-            "realisateurs": "Frank Borzage",
-            "annee": 1927,
-            "pays": "États-Unis",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "À Paris, en 1914, un balayeur épouse une jeune orpheline le jour de son départ à la guerre."
-              },
-              {
-                "typeTexte": 99,
-                "texte": "Copie avec musique."
-              }
-            ],
-            "adaptation": "D'après la pièce _Seventh Heaven_ d'Austin Strong.",
-            "generique": [
-              "Janet Gaynor",
-              "Charles Farrell",
-              "Ben Bard"
-            ],
-            "duree": 118,
-            "format": "35 mm",
-            "version": "VO",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 101191,
-            "ordre": 1,
-            "dateHeure": "2023-06-17T20:15:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ],
-            "mention": "Accompagnement musical par Gabriel Cazes et Nicolas Giraud",
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 33073,
-            "titre": "Peter Ibbetson",
-            "realisateurs": "Henry Hathaway",
-            "annee": 1935,
-            "pays": "États-Unis",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Au XIX<sup>e</sup> siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse."
-              }
-            ],
-            "adaptation": "D'après le roman _Peter Ibbetson_ de George Du Maurier.",
-            "generique": [
-              "Gary Cooper",
-              "Ann Harding",
-              "John Halliday",
-              "Ida Lupino"
-            ],
-            "duree": 85,
-            "format": "35 mm",
-            "version": "VOSTF",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104030,
-            "ordre": 1,
-            "dateHeure": "2023-06-18T14:30:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ],
-            "typeAssoc": 118,
-            "typeEvenement": 13,
-            "mentionRenvoi": "Voir aussi dialogue p. xx"
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 36444,
-            "titre": "Chasse du comte Zaroff",
-            "art": "La",
-            "titreVo": "Most Dangerous Game",
-            "artVo": "The",
-            "realisateurs": "Ernest B. Schoedsack, Irving Pichel",
-            "annee": 1932,
-            "pays": "États-Unis",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte de la capture de gibier humain."
-              }
-            ],
-            "adaptation": "D'après la nouvelle _The Most Dangerous Game_ de Richard Connell.",
-            "generique": [
-              "Joel McCrea",
-              "Fay Wray",
-              "Robert Armstrong"
-            ],
-            "duree": 63,
-            "format": "DCP",
-            "version": "VOSTF",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 101206,
-            "ordre": 1,
-            "dateHeure": "2023-06-18T17:45:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 36414,
-            "titre": "King Kong",
-            "realisateurs": "Merian C. Cooper, Ernest B. Schoedsack",
-            "annee": 1933,
-            "pays": "États-Unis",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Une équipe de cinéastes se rend en Malaisie avec la blonde vedette Ann Darow. Il s'agit d'atteindre Skull Island, une île où les indigènes vénèrent un animal monstrueux, King Kong. À peine arrivée, Ann est capturée par les autochtones qui l'offrent à leur dieu."
-              }
-            ],
-            "generique": [
-              "Fay Wray",
-              "Robert Armstrong",
-              "Bruce Cabot"
-            ],
-            "duree": 100,
-            "format": "DCP",
-            "version": "VO",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 101207,
-            "ordre": 1,
-            "dateHeure": "2023-06-18T19:15:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 154366,
-            "titre": "À l'abri des lois",
-            "realisateurs": "Frank Lloyd",
-            "annee": 1923,
-            "pays": "États-Unis",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Mary Turner, envoyée en prison pour un crime qu'elle n'a pas commis, fait le vœu de se venger à sa sortie, mais dans le respect des lois."
-              }
-            ],
-            "adaptation": "D'après la pièce _Within the Law_ de Bayard Veiller.",
-            "generique": [
-              "Norma Talmadge",
-              "Lew Cody",
-              "Jack Mulhall"
-            ],
-            "duree": 87,
-            "format": "35 mm",
-            "version": "INT. FR.",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 101220,
-            "ordre": 1,
-            "dateHeure": "2023-06-19T18:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "mention": "Accompagnement musical par Timothée Quost, Victor Aubert et Adrien Leconte",
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 34496,
-            "titre": "Portrait de Dorian Gray",
-            "art": "Le",
-            "titreVo": "Picture of Dorian Gray",
-            "artVo": "The",
-            "realisateurs": "Albert Lewin",
-            "annee": 1945,
-            "pays": "États-Unis",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Londres, 1886. Le peintre Basil Hallward réalise le portrait d'un jeune et bel aristocrate, Dorian Gray, qui formule le vœu d'une éternelle jeunesse ; seul son portrait vieillira."
-              },
-              {
-                "typeTexte": 99,
-                "texte": "Restauration 2K par Warner Bros. Pictures."
-              }
-            ],
-            "generique": [
-              "George Sanders",
-              "Angela Lansbury",
-              "Peter Lawford"
-            ],
-            "duree": 109,
-            "format": "DCP",
-            "version": "VOSTF",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 101221,
-            "ordre": 1,
-            "dateHeure": "2023-06-19T20:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
+      }
+    ]
+  },
+  {
+    "titreSousCycle": "Programme Maya Deren",
+    "tri": 4,
+    "textes": [],
+    "items": [
       {
         "items": [
           {
@@ -995,7 +1007,14 @@
             "typeEvenement": 13
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "titreSousCycle": "Programme cinéma belge",
+    "tri": 4,
+    "textes": [],
+    "items": [
       {
         "items": [
           {
@@ -1102,7 +1121,14 @@
             "typeEvenement": 13
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "titreSousCycle": "Documentaires de Fabrice Maze",
+    "tri": 4,
+    "textes": [],
+    "items": [
       {
         "items": [
           {
@@ -1203,45 +1229,6 @@
               "Jean Epstein"
             ],
             "mention": "Séance présentée par Fabrice Maze",
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "items": [
-          {
-            "idFilm": 35977,
-            "titre": "Hellzapoppin",
-            "realisateurs": "Henry C. Potter",
-            "annee": 1941,
-            "pays": "États-Unis",
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la pagaille."
-              }
-            ],
-            "adaptation": "D'après la comédie musicale _Hellzapoppin_ de Chic Johnson et Ole Olsen.",
-            "generique": [
-              "Ole Olsen",
-              "Chic Johnson",
-              "Martha Raye"
-            ],
-            "duree": 93,
-            "format": "DCP",
-            "version": "VOSTF",
-            "ordre": 1
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104040,
-            "ordre": 1,
-            "dateHeure": "2023-06-24T15:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
             "typeEvenement": 13
           }
         ]

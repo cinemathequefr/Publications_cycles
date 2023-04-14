@@ -24,18 +24,6 @@ Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. 
 Séance présentée par Jérôme Enrico et Laurent Aleonard  
 Film précédé de _Montagnes magiques_ de Robert Enrico
 
-[129571]  
-**Comment ça va ? J'm'en fous**  
-de François de Roubaix  
-France / 1975 / 10 min / DCP  
-Avec Yves Josso, Nathalie Lafaurie.  
-Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie.  
-Dernier court métrage de François de Roubaix, sorti à titre posthume.
-
-- me 28 juin 19h00 JE  
-Séance présentée par Jean-Yves Guilleux  
-Film précédé de _François de Roubaix, l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix, _Le Gobbo_ de François de Roubaix
-
 [48800]  
 **Dernier domicile connu**  
 de José Giovanni  
@@ -56,47 +44,6 @@ Régis, un journaliste, revient à Paris après trois ans d'absence. Il entrepre
 
 - lu 26 juin 18h00 GF  
 Séance présentée par Fabrice Toledano
-
-[154377]  
-**François de Roubaix, l'aventurier**  
-de Jean-Yves Guilleux, Alexandre Moix  
-France / 2007 / 52 min / DCP  
-Documentaire présentant des extraits d'archives, de films et des témoignages de proches de François de Roubaix et de personnalités, dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...
-
-- me 28 juin 19h00 JE  
-Séance présentée par Jean-Yves Guilleux  
-Film suivi de _Le Gobbo_ de François de Roubaix, _Comment ça va ? J'm'en fous_ de François de Roubaix
-
-[154418]  
-**François de Roubaix : un portrait au présent**  
-de Gaëtan Chataigner, Christophe Conte  
-France / 2014 / 54 min / DCP  
-Extraits musicaux, photos, films d'époque, et témoignages de musiciens actuels composent un portrait de François de Roubaix.
-
-- je 29 juin 19h00 JE  
-Séance présentée par Christophe Conte et Patricia De Roubaix  
-Film suivi de _Françoisderoubaix.fan's_ de Patricia De Roubaix
-
-[154419]  
-**Françoisderoubaix.fan's**  
-de Patricia De Roubaix  
-France / 2009 / 24 min / Numérique  
-Une plongée dans l'univers musical de François de Roubaix par sa fille, qui part à sa rencontre au travers de la parole de ses fans.
-
-- je 29 juin 19h00 JE  
-Séance présentée par Christophe Conte et Patricia De Roubaix  
-Film précédé de _François de Roubaix : un portrait au présent_ de Gaëtan Chataigner, Christophe Conte
-
-[129576]  
-**Le Gobbo**  
-de François de Roubaix  
-France / 1970 / 15 min / DCP  
-Avec Yves Josso.  
-Un mystérieux bossu arrive dans un petit village corse en proie à une série d'accidents dont sont témoins des campeurs.
-
-- me 28 juin 19h00 JE  
-Séance présentée par Jean-Yves Guilleux  
-Film précédé de _François de Roubaix, l'aventurier_ de Jean-Yves Guilleux, Alexandre Moix et suivi de de _Comment ça va ? J'm'en fous_ de François de Roubaix
 
 [50109]  
 **La Grande Lessive**  
@@ -177,6 +124,47 @@ France / 1960 / 23 min / DCP
 
 - di 25 juin 16h15 GF  
 Film suivi de _Les Grandes Gueules_ de Robert Enrico
+
+## Autour de François de Roubaix
+
+[154377]  
+**François de Roubaix, l'aventurier**  
+de Jean-Yves Guilleux, Alexandre Moix  
+France / 2007 / 52 min / DCP  
+Documentaire présentant des extraits d'archives, de films et des témoignages de proches de François de Roubaix et de personnalités, dont Philippe Sarde, Pierre Richard, Yves Boisset, Jean-Pierre Mocky...  
+suivi de  
+[129576]  
+**Le Gobbo**  
+de François de Roubaix  
+France / 1970 / 15 min / DCP  
+Avec Yves Josso.  
+Un mystérieux bossu arrive dans un petit village corse en proie à une série d'accidents dont sont témoins des campeurs.  
+suivi de  
+[129571]  
+**Comment ça va ? J'm'en fous**  
+de François de Roubaix  
+France / 1975 / 10 min / DCP  
+Avec Yves Josso, Nathalie Lafaurie.  
+Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie.  
+Dernier court métrage de François de Roubaix, sorti à titre posthume.
+
+- me 28 juin 19h00 JE  
+Séance présentée par Jean-Yves Guilleux
+
+[154418]  
+**François de Roubaix : un portrait au présent**  
+de Gaëtan Chataigner, Christophe Conte  
+France / 2014 / 54 min / DCP  
+Extraits musicaux, photos, films d'époque, et témoignages de musiciens actuels composent un portrait de François de Roubaix.  
+suivi de  
+[154419]  
+**Françoisderoubaix.fan's**  
+de Patricia De Roubaix  
+France / 2009 / 24 min / Numérique  
+Une plongée dans l'univers musical de François de Roubaix par sa fille, qui part à sa rencontre au travers de la parole de ses fans.
+
+- je 29 juin 19h00 JE  
+Séance présentée par Christophe Conte et Patricia De Roubaix
 
 ## Rencontres et conférences
 

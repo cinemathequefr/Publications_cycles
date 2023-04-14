@@ -1,6 +1,6 @@
 [
   {
-    "idCategorie": 3013,
+    "idCategorie": 3049,
     "typeEvenement": 13,
     "idEvenement": 28088,
     "idSeance": 101255,
@@ -187,7 +187,7 @@
     "mention": "Séance présentée par Luc Béraud"
   },
   {
-    "idCategorie": 3013,
+    "idCategorie": 3057,
     "typeEvenement": 13,
     "idEvenement": 28107,
     "idSeance": 104023,
@@ -247,7 +247,7 @@
     "mention": "Séance présentée par Joël Daire"
   },
   {
-    "idCategorie": 3013,
+    "idCategorie": 3056,
     "typeEvenement": 13,
     "idEvenement": 28276,
     "idSeance": 104294,
@@ -312,7 +312,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Brigitte Berg"
   },
   {
     "idCategorie": 3013,
@@ -335,8 +336,7 @@
         "version": "VOSTF",
         "format": "35 mm"
       }
-    ],
-    "mention": "Séance présentée par Bernard Benoliel"
+    ]
   },
   {
     "idCategorie": 3013,
@@ -726,6 +726,70 @@
         "idCopie": 25759,
         "duree": 54,
         "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3013,
+    "typeEvenement": 13,
+    "idEvenement": 28336,
+    "idSeance": 104307,
+    "dateHeure": "2023-07-09T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {
+        "idFilm": 50890,
+        "ordre": 1,
+        "idSeance": 104307,
+        "idCopie": 5685,
+        "duree": 32,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 50892,
+        "ordre": 2,
+        "idSeance": 104307,
+        "idCopie": 20018,
+        "duree": 31,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3013,
+    "typeEvenement": 13,
+    "idEvenement": 28339,
+    "idSeance": 101746,
+    "dateHeure": "2023-07-09T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 54668,
+        "ordre": 1,
+        "idSeance": 101746,
+        "idCopie": 26069,
+        "duree": 41,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 43672,
+        "ordre": 2,
+        "idSeance": 101746,
+        "idCopie": 21391,
+        "duree": 27,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ]

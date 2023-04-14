@@ -62,7 +62,7 @@ de John Boorman
 États-Unis / 1972 / 110 min / VOSTF / DCP  
 D'après le roman _Délivrance_ de James Dickey.  
 Avec Jon Voight, Burt Reynolds, Ned Beatty.  
-Quatre citadins américains décident de descendre en canoë une rivière des Appalaches vouée à disparaître après la construction d'un barrage. Agressés par des habitants du coin, leur week-end tourne au cauchemar.
+Quatre citadins américains décident de descendre en canoë une rivière des Appalaches vouée à disparaître après la construction d'un barrage. Agressés par des habitants du coin, ils voient leur week-end tourner au cauchemar.
 
 - sa 3 juin 15h00 HL  
 Séance présentée par Frédéric Bonnaud
@@ -217,7 +217,8 @@ de Robert Clouse
 Avec Bruce Lee, John Saxon, Jim Kelly, Bernard Benoliel.  
 Lee, un membre du temple Shaolin, est chargé par la police d'infiltrer un tournoi d'arts martiaux afin de démasquer Han, un ancien du temple qui vit désormais du trafic d'opium et de la traite de femmes.
 
-- sa 17 juin 17h15 GF
+- sa 17 juin 17h15 GF  
+Séance présentée par Bernard Benoliel
 
 [34020]  
 **Orange mécanique**  
@@ -235,7 +236,7 @@ Dans une société futuriste, Alex, adolescent pervers, exerce avec sa bande une
 de Paul Newman  
 États-Unis / 1968 / 101 min / VOSTF  
 Avec Joanne Woodward, James Olson, Kate Harrington, Estelle Parsons.  
-Dans une petite ville du Connecticut, Rachel est une institutrice solitaire de 35 ans qui vit toujours sous l'emprise de sa mère. Elle porte tous ses espoirs de changement sur un ami d'enfance, de passage, qui l'invite à sortir.
+Dans une petite ville du Connecticut, Rachel, une institutrice solitaire de 35 ans, vit toujours sous l'emprise de sa mère. Elle porte tous ses espoirs de changement sur un ami d'enfance, de passage, qui l'invite à sortir.
 
 - di 11 juin 20h15 GF
 

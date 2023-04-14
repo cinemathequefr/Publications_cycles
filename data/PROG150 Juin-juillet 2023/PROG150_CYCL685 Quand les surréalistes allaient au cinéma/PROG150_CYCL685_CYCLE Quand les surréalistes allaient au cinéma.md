@@ -1,6 +1,6 @@
 # Quand les surréalistes allaient au cinéma
 
-## Les films
+## Séance d'ouverture
 
 [62689]  
 **At Land**  
@@ -39,6 +39,19 @@ Essai surréaliste avec une danseuse barbue, un chasseur tyrolien, un corbillard
 - me 14 juin 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Dominique Païni
 
+## Les films
+
+[154366]  
+**À l'abri des lois**  
+de Frank Lloyd  
+États-Unis / 1923 / 87 min / INT. FR. / 35 mm  
+D'après la pièce _Within the Law_ de Bayard Veiller.  
+Avec Norma Talmadge, Lew Cody, Jack Mulhall.  
+Mary Turner, envoyée en prison pour un crime qu'elle n'a pas commis, fait le vœu de se venger à sa sortie, mais dans le respect des lois.
+
+- lu 19 juin 18h00 GF  
+Accompagnement musical par Timothée Quost, Victor Aubert et Adrien Leconte
+
 [47140]  
 **L'Âge d'or**  
 de Luis Buñuel  
@@ -60,6 +73,29 @@ Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons
 
 - je 15 juin 20h45 HL
 
+[36444]  
+**La Chasse du comte Zaroff**  
+**(The Most Dangerous Game)**  
+d'Ernest B. Schoedsack, Irving Pichel  
+États-Unis / 1932 / 63 min / VOSTF / DCP  
+D'après la nouvelle _The Most Dangerous Game_ de Richard Connell.  
+Avec Joel McCrea, Fay Wray, Robert Armstrong.  
+Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte de la capture de gibier humain.
+
+- di 18 juin 17h45 HL
+
+[30626]  
+**La Femme au corbeau**  
+**(The River)**  
+de Frank Borzage  
+États-Unis / 1929 / 96 min / INT. FR. / 16 mm  
+D'après le roman _The River_ de Tristram Tupper.  
+Avec Mary Duncan, Charles Farrell, Ivan Linow.  
+Rosalee, dont l'amant est emprisonné pour meurtre, rencontre un vagabond. Peu à peu naît entre eux un sentiment amoureux, mais la jeune femme est surveillée par un corbeau censé lui rappeler qu'elle ne doit s'approcher d'aucun homme.
+
+- sa 17 juin 18h00 HL  
+Accompagnement musical par Jacques Cambra
+
 [30930]  
 **Freaks**  
 de Tod Browning  
@@ -71,6 +107,38 @@ Film également connu sous le titre _La Monstrueuse Parade_.
 
 - ve 16 juin 18h00 HL
 
+[35977]  
+**Hellzapoppin**  
+de Henry C. Potter  
+États-Unis / 1941 / 93 min / VOSTF / DCP  
+D'après la comédie musicale _Hellzapoppin_ de Chic Johnson et Ole Olsen.  
+Avec Ole Olsen, Chic Johnson, Martha Raye.  
+Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la pagaille.
+
+- sa 24 juin 15h00 GF
+
+[79882]  
+**L'Heure suprême**  
+**(Seventh Heaven)**  
+de Frank Borzage  
+États-Unis / 1927 / 118 min / VO / 35 mm  
+D'après la pièce _Seventh Heaven_ d'Austin Strong.  
+Avec Janet Gaynor, Charles Farrell, Ben Bard.  
+À Paris, en 1914, un balayeur épouse une jeune orpheline le jour de son départ à la guerre.  
+Copie avec musique.
+
+- sa 17 juin 20h15 HL  
+Accompagnement musical par Gabriel Cazes et Nicolas Giraud
+
+[36414]  
+**King Kong**  
+de Merian C. Cooper, Ernest B. Schoedsack  
+États-Unis / 1933 / 100 min / VOSTF / DCP  
+Avec Fay Wray, Robert Armstrong, Bruce Cabot.  
+Une équipe de cinéastes se rend en Malaisie avec la blonde vedette Ann Darow. Il s'agit d'atteindre Skull Island, une île où les indigènes vénèrent un animal monstrueux, King Kong. À peine arrivée, Ann est capturée par les autochtones qui l'offrent à leur dieu.
+
+- di 18 juin 19h15 HL
+
 [40704]  
 **Loulou**  
 **(Die Büchse der Pandora)**  
@@ -81,6 +149,30 @@ Avec Louise Brooks, Fritz Kortner, Franz Lederer, Carl Goetz.
 Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils.
 
 - ve 16 juin 20h00 HL
+
+[33073]  
+**Peter Ibbetson**  
+de Henry Hathaway  
+États-Unis / 1935 / 85 min / VOSTF / 35 mm  
+D'après le roman _Peter Ibbetson_ de George Du Maurier.  
+Avec Gary Cooper, Ann Harding, John Halliday, Ida Lupino.  
+Au XIX<sup>e</sup> siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse.
+
+- di 18 juin 14h30 HL  
+Voir aussi dialogue p. xx
+
+[34496]  
+**Le Portrait de Dorian Gray**  
+**(The Picture of Dorian Gray)**  
+d'Albert Lewin  
+États-Unis / 1945 / 109 min / VOSTF / DCP  
+Avec George Sanders, Angela Lansbury, Peter Lawford.  
+Londres, 1886. Le peintre Basil Hallward réalise le portrait d'un jeune et bel aristocrate, Dorian Gray, qui formule le vœu d'une éternelle jeunesse ; seul son portrait vieillira.  
+Restauration 2K par Warner Bros. Pictures.
+
+- lu 19 juin 20h00 GF
+
+## Programme Tex Avery et Dave Fleischer
 
 [154383]  
 **Une journée au zoo**  
@@ -194,83 +286,7 @@ Betty Boop se bat pour promouvoir la nomination de son grand-père Grampy à la 
 - sa 17 juin 15h00 GF  
 Séance présentée par Dominique Païni
 
-[30626]  
-**La Femme au corbeau**  
-**(The River)**  
-de Frank Borzage  
-États-Unis / 1929 / 96 min / INT. FR. / 16 mm  
-D'après le roman _The River_ de Tristram Tupper.  
-Avec Mary Duncan, Charles Farrell, Ivan Linow.  
-Rosalee, dont l'amant est emprisonné pour meurtre, rencontre un vagabond. Peu à peu naît entre eux un sentiment amoureux, mais la jeune femme est surveillée par un corbeau censé lui rappeler qu'elle ne doit s'approcher d'aucun homme.
-
-- sa 17 juin 18h00 HL  
-Accompagnement musical par Jacques Cambra
-
-[79882]  
-**L'Heure suprême**  
-**(Seventh Heaven)**  
-de Frank Borzage  
-États-Unis / 1927 / 118 min / VO / 35 mm  
-D'après la pièce _Seventh Heaven_ d'Austin Strong.  
-Avec Janet Gaynor, Charles Farrell, Ben Bard.  
-À Paris, en 1914, un balayeur épouse une jeune orpheline le jour de son départ à la guerre.  
-Copie avec musique.
-
-- sa 17 juin 20h15 HL  
-Accompagnement musical par Gabriel Cazes et Nicolas Giraud
-
-[33073]  
-**Peter Ibbetson**  
-de Henry Hathaway  
-États-Unis / 1935 / 85 min / VOSTF / 35 mm  
-D'après le roman _Peter Ibbetson_ de George Du Maurier.  
-Avec Gary Cooper, Ann Harding, John Halliday, Ida Lupino.  
-Au XIX<sup>e</sup> siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse.
-
-- di 18 juin 14h30 HL  
-Voir aussi dialogue p. xx
-
-[36444]  
-**La Chasse du comte Zaroff**  
-**(The Most Dangerous Game)**  
-d'Ernest B. Schoedsack, Irving Pichel  
-États-Unis / 1932 / 63 min / VOSTF / DCP  
-D'après la nouvelle _The Most Dangerous Game_ de Richard Connell.  
-Avec Joel McCrea, Fay Wray, Robert Armstrong.  
-Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte de la capture de gibier humain.
-
-- di 18 juin 17h45 HL
-
-[36414]  
-**King Kong**  
-de Merian C. Cooper, Ernest B. Schoedsack  
-États-Unis / 1933 / 100 min / VO / DCP  
-Avec Fay Wray, Robert Armstrong, Bruce Cabot.  
-Une équipe de cinéastes se rend en Malaisie avec la blonde vedette Ann Darow. Il s'agit d'atteindre Skull Island, une île où les indigènes vénèrent un animal monstrueux, King Kong. À peine arrivée, Ann est capturée par les autochtones qui l'offrent à leur dieu.
-
-- di 18 juin 19h15 HL
-
-[154366]  
-**À l'abri des lois**  
-de Frank Lloyd  
-États-Unis / 1923 / 87 min / INT. FR. / 35 mm  
-D'après la pièce _Within the Law_ de Bayard Veiller.  
-Avec Norma Talmadge, Lew Cody, Jack Mulhall.  
-Mary Turner, envoyée en prison pour un crime qu'elle n'a pas commis, fait le vœu de se venger à sa sortie, mais dans le respect des lois.
-
-- lu 19 juin 18h00 GF  
-Accompagnement musical par Timothée Quost, Victor Aubert et Adrien Leconte
-
-[34496]  
-**Le Portrait de Dorian Gray**  
-**(The Picture of Dorian Gray)**  
-d'Albert Lewin  
-États-Unis / 1945 / 109 min / VOSTF / DCP  
-Avec George Sanders, Angela Lansbury, Peter Lawford.  
-Londres, 1886. Le peintre Basil Hallward réalise le portrait d'un jeune et bel aristocrate, Dorian Gray, qui formule le vœu d'une éternelle jeunesse ; seul son portrait vieillira.  
-Restauration 2K par Warner Bros. Pictures.
-
-- lu 19 juin 20h00 GF
+## Programme Maya Deren
 
 [62680]  
 **A Study in Choregraphy for the Camera**  
@@ -305,6 +321,8 @@ Exploration du monde intérieur de l'homme, dans lequel il entre au moment où i
 - me 21 juin 18h00 GF  
 Séance présentée par Dominique Païni
 
+## Programme cinéma belge
+
 [154389]  
 **La Fidélité des images**  
 de René Magritte  
@@ -336,6 +354,8 @@ Un clin d'œil aux ciné-romans de Louis Feuillade, avec comme toile de fond le 
 - me 21 juin 20h30 GF  
 Séance présentée par Dominique Païni
 
+## Documentaires de Fabrice Maze
+
 [154368]  
 **L'Œil à l'état sauvage**  
 de Fabrice Maze  
@@ -366,16 +386,6 @@ Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle n
 
 - je 22 juin 20h30 JE  
 Séance présentée par Fabrice Maze
-
-[35977]  
-**Hellzapoppin**  
-de Henry C. Potter  
-États-Unis / 1941 / 93 min / VOSTF / DCP  
-D'après la comédie musicale _Hellzapoppin_ de Chic Johnson et Ole Olsen.  
-Avec Ole Olsen, Chic Johnson, Martha Raye.  
-Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la pagaille.
-
-- sa 24 juin 15h00 GF
 
 ## Rencontres et conférences
 

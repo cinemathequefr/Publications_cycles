@@ -34,7 +34,7 @@ Fluides sexuels de tous types dans un théâtre d'amour sont les protagonistes d
 [99583]  
 **Asparagus**  
 de Suzan Pitt  
-États-Unis / 1979 / 20 min / 35 mm  
+États-Unis / 1979 / 20 min / Numérique  
 « Masques, sexualité magique, théâtre des illusions : avec cette envoûtante traversée du miroir, Suzan Pitt détient pour toujours la clef (et le secret) des songes animés. » (Yann Gonzalez)  
 suivi de  
 [154195]  

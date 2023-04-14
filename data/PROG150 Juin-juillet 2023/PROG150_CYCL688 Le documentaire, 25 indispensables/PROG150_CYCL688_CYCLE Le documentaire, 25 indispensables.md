@@ -21,6 +21,16 @@ Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse 
 - ve 23 juin 18h30 HL  
 Séance présentée par Jean-François Rauger
 
+[52364]  
+**Chronique d'un été**  
+de Jean Rouch, Edgar Morin  
+France / 1960 / 86 min / DCP  
+Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, enquêtent sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés évoquent leurs préoccupations et leurs espoirs, et tentent de répondre à la question : « Êtes-vous heureux ? »
+
+- sa 1 juil 14h30 GF  
+Voir aussi dialogue p. xx  
+Film précédé de _La Marâtre_ d'Alice Guy
+
 [59394]  
 **Les Deux Marseillaises**  
 de Jean-Louis Comolli, André S. Labarthe  
@@ -66,12 +76,26 @@ Immersion au cœur de l'école d'un petit village d'Auvergne, dans son unique cl
 - sa 24 juin 18h00 HL  
 Séance présentée par Nicolas Philibert
 
+[54668]  
+**L'Exode**  
+**(Grass)**  
+de Merian C. Cooper, Ernest B. Schoedsack  
+États-Unis / 1925 / 41 min / INT. FR. / DCP  
+Trois journalistes partent à la rencontre d'un peuple kurde oublié, les Bakhtiar. Ils l'accompagnent dans sa grande migration vers des pâturages plus verts de la Perse. Un film épique, avec 50 000 hommes et 500 000 têtes de bétail affrontant la montagne, le froid, la neige et le désert.
+
+- di 9 juil 20h30 GF  
+Film suivi de _Terre sans pain_ de Luis Buñuel
+
 [154415]  
 **Le Fils du garde de chasse**  
 d'Alice Guy  
 France / 1906 / 5 min / DCP  
-Un garde-chasse suscite la fierté de son fils aîné, tant et si bien que celui-ci aide son père à venir à bout de deux braconniers.  
-suivi de  
+Un garde-chasse suscite la fierté de son fils aîné, tant et si bien que celui-ci aide son père à venir à bout de deux braconniers.
+
+- sa 1 juil 18h30 GF  
+Séance présentée par Barbet Schroeder (sous réserve)  
+Film suivi de _Général Idi Amin Dada_ de Barbet Schroeder
+
 [62245]  
 **Général Idi Amin Dada**  
 de Barbet Schroeder  
@@ -79,7 +103,8 @@ France-Suisse / 1974 / 92 min / DCP
 Portrait du général Idi Amin Dada, président à vie de l'Ouganda après son coup d'État de 1971. Devant la caméra de Barbet Schroeder, le dictateur se met en scène avec gourmandise, tour à tour naïf et lucide, drôle et sinistre.
 
 - sa 1 juil 18h30 GF  
-Séance présentée par Barbet Schroeder (sous réserve)
+Séance présentée par Barbet Schroeder (sous réserve)  
+Film précédé de _Le Fils du garde de chasse_ d'Alice Guy
 
 [68649]  
 **Les Glaneurs et la Glaneuse**  
@@ -122,16 +147,11 @@ La Waddenzee, « mer des terres humides », est une région naturelle unique, zo
 **La Marâtre**  
 d'Alice Guy  
 France / 1906 / 7 min  
-Une belle-mère s'en prend au fils de son mari. Librement inspiré du roman d'Honoré de Balzac.  
-suivi de  
-[52364]  
-**Chronique d'un été**  
-de Jean Rouch, Edgar Morin  
-France / 1960 / 86 min / DCP  
-Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, enquêtent sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés évoquent leurs préoccupations et leurs espoirs, et tentent de répondre à la question : « Êtes-vous heureux ? »
+Une belle-mère s'en prend au fils de son mari. Librement inspiré du roman d'Honoré de Balzac.
 
 - sa 1 juil 14h30 GF  
-Voir aussi dialogue p. xx
+Voir aussi dialogue p. xx  
+Film suivi de _Chronique d'un été_ de Jean Rouch, Edgar Morin
 
 [41219]  
 **Nanouk l'esquimau**  
@@ -143,44 +163,14 @@ Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la 
 - di 25 juin 14h30 HL  
 Voir aussi dialogue p. xx
 
-[154375]  
-**La Pieuvre**  
-de Jean Painlevé  
-France / 1928 / 13 min / DCP  
-Étude de la pieuvre dans son habitat. Le premier documentaire de vulgarisation scientifique de Jean Painlevé.  
-_La Pieuvre_ a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.  
-suivi de  
-[50523]  
-**L'Hippocampe**  
-de Jean Painlevé  
-France / 1933 / 16 min / DCP  
-Les images spectaculaires d'un hippocampe mâle enceint donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante.  
-suivi de  
-[65713]  
-**Acéra ou le bal des sorcières**  
-de Jean Painlevé  
-France / 1972 / 17 min / DCP  
-Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli formant un manteau autour du corps. Sa nage ressemble à une danse, la danse serpentine mise à la mode par Loïe Fuller.  
-suivi de  
-[65711]  
-**Hyas, sténorinque, spirographe**  
-de Jean Painlevé  
-France / 1929 / 13 min / DCP  
-Présentation de petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales.  
-suivi de  
-[65709]  
-**Les Amours de la pieuvre**  
-de Jean Painlevé  
-France / 1965 / 13 min / DCP  
-Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers.  
-suivi de  
-[154416]  
-**Cristaux liquides**  
-de Jean Painlevé  
-France / 1978 / 6 min / DCP  
-Étude au microscope des dispositions moléculaires multicolores des cristaux liquides.
+[50890]  
+**Nuit et brouillard**  
+d'Alain Resnais  
+France / 1955 / 32 min / DCP  
+Alain Resnais, à la demande du Comité d'histoire de la Seconde Guerre mondiale, se rend à Orianenbourg, Auschwitz, Dachau, Ravensbrück, Belsen, où des milliers d'hommes, de femmes et d'enfants ont perdu la vie dans les camps d'extermination.
 
-- me 28 juin 18h30 GF
+- di 9 juil 19h00 GF  
+Film suivi de _Les Statues meurent aussi_ d'Alain Resnais, Chris Marker
 
 [56070]  
 **Pour la suite du monde**  
@@ -188,47 +178,7 @@ de Pierre Perrault, Michel Brault
 Canada / 1963 / 105 min / VOSTF / 35 mm  
 Documentaire poétique et ethnographique sur la vie des habitants de l'Isle-aux-Coudres, leur langue, et la légendaire pêche au marsouin. Abandonnée depuis trente-huit ans, la technique de pêche ancestrale est reconstituée pour le film par les habitants.
 
-- me 28 juin 20h30 GF  
-Séance présentée par Bernard Benoliel
-
-[48621]  
-**Les Poussières**  
-de Georges Franju  
-France / 1954 / 22 min / 16 mm  
-Après avoir identifié les diverses sources de poussière, ce documentaire s'attache à observer l'effet qu'elles provoquent sur la santé de l'homme, en particulier dans le cadre de son travail.  
-suivi de  
-[53249]  
-**Hôtel des Invalides**  
-de Georges Franju  
-France / 1951 / 22 min / 35 mm  
-Avec Michel Simon.  
-Un film sur le musée de l'Armée à l'Hôtel des Invalides, qui se transforme en réquisitoire contre la guerre.  
-Copie neuve de la Cinémathèque française tirée en collaboration avec Gaumont.  
-suivi de  
-[57842]  
-**Monsieur et madame Curie**  
-de Georges Franju  
-France / 1953 / 14 min / 16 mm  
-D'après la biographie _Pierre Curie_ de Marie Curie.  
-Avec Nicole Stéphane, Lucien Hubert, Lucien Barjon.  
-Portrait de Pierre et Marie Curie, chercheurs de génie, dont les travaux menèrent à la découverte du radium et de la radioactivité.  
-suivi de  
-[48632]  
-**Le Sang des bêtes**  
-de Georges Franju  
-France / 1949 / 21 min / DCP  
-Documentaire consacré aux abattoirs parisiens de Vaugirard et de la Villette dans les années d'après-guerre.  
-Franju dépasse le réalisme du reportage en installant une atmosphère poétique, voire fantastique.  
-suivi de  
-[57843]  
-**Mon chien**  
-de Georges Franju  
-France / 1955 / 25 min / 35 mm  
-Avec Jacqueline Lemaire.  
-Une famille habitant une maison bourgeoise de la banlieue parisienne part en vacances. Sur la route, les parents abandonnent le chien de leur petite fille dans la forêt.
-
-- lu 26 juin 20h15 GF  
-Séance présentée par Joël Daire
+- me 28 juin 20h30 GF
 
 [31875]  
 **Primary**  
@@ -274,12 +224,15 @@ Vingt-quatre actrices françaises et américaines parlent de leurs expériences 
 - lu 3 juil 20h15 GF  
 Séance présentée par Emilie Cauquy
 
-[154414]  
-**Vues d'Espagne**  
-d'Alice Guy  
-France / 1905 / 10 min / DCP  
-Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparaît à l'image.  
-suivi de  
+[50892]  
+**Les Statues meurent aussi**  
+d'Alain Resnais, Chris Marker  
+France / 1953 / 31 min / VO / 35 mm  
+Documentaire sur l'art africain, pamphlet anticolonialiste et première collaboration entre Alain Resnais et Chris Marker. Le film fut censuré pendant onze ans.
+
+- di 9 juil 19h00 GF  
+Film précédé de _Nuit et brouillard_ d'Alain Resnais
+
 [68124]  
 **Sud**  
 de Chantal Akerman  
@@ -287,7 +240,29 @@ France-Belgique / 1999 / 70 min / DCP
 Voyage dans le sud des États-Unis, avec comme fil rouge le meurtre par lynchage du musicien noir James Byrd Jr.
 
 - sa 1 juil 20h45 GF  
-Séance présentée par Claire Atherton et Alice Winocour
+Séance présentée par Claire Atherton et Alice Winocour  
+Film précédé de _Vues d'Espagne_ d'Alice Guy
+
+[43672]  
+**Terre sans pain**  
+**(Las Hurdes, tierra sin pan)**  
+de Luis Buñuel  
+Espagne / 1932 / 27 min / VOSTF / DCP  
+D'après le récit _Las Jurdes_ de Maurice Legendre.  
+Documentaire consacré aux miséreux de la région de Las Hurdes en Estrémadure, confrontés à la maladie, aux dangers et à la mort.
+
+- di 9 juil 20h30 GF  
+Film précédé de _L'Exode_ de Merian C. Cooper, Ernest B. Schoedsack
+
+[154414]  
+**Vues d'Espagne**  
+d'Alice Guy  
+France / 1905 / 10 min / DCP  
+Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparaît à l'image.
+
+- sa 1 juil 20h45 GF  
+Séance présentée par Claire Atherton et Alice Winocour  
+Film suivi de _Sud_ de Chantal Akerman
 
 [62606]  
 **Welfare**  
@@ -297,6 +272,89 @@ Un panorama du système de santé et de sécurité sociale américain, à traver
 
 - sa 24 juin 20h30 HL  
 Séance présentée par Frederick Wiseman
+
+## Georges Franju
+
+[48621]  
+**Les Poussières**  
+de Georges Franju  
+France / 1954 / 22 min / 16 mm  
+Après avoir identifié les diverses sources de poussière, ce documentaire s'attache à observer l'effet qu'elles provoquent sur la santé de l'homme, en particulier dans le cadre de son travail.  
+suivi de  
+[53249]  
+**Hôtel des Invalides**  
+de Georges Franju  
+France / 1951 / 22 min / 35 mm  
+Avec Michel Simon.  
+Un film sur le musée de l'Armée à l'Hôtel des Invalides, qui se transforme en réquisitoire contre la guerre.  
+Copie neuve de la Cinémathèque française tirée en collaboration avec Gaumont.  
+suivi de  
+[57842]  
+**Monsieur et madame Curie**  
+de Georges Franju  
+France / 1953 / 14 min / 16 mm  
+D'après la biographie _Pierre Curie_ de Marie Curie.  
+Avec Nicole Stéphane, Lucien Hubert, Lucien Barjon.  
+Portrait de Pierre et Marie Curie, chercheurs de génie, dont les travaux menèrent à la découverte du radium et de la radioactivité.  
+suivi de  
+[48632]  
+**Le Sang des bêtes**  
+de Georges Franju  
+France / 1949 / 21 min / DCP  
+Documentaire consacré aux abattoirs parisiens de Vaugirard et de la Villette dans les années d'après-guerre.  
+Franju dépasse le réalisme du reportage en installant une atmosphère poétique, voire fantastique.  
+suivi de  
+[57843]  
+**Mon chien**  
+de Georges Franju  
+France / 1955 / 25 min / 35 mm  
+Avec Jacqueline Lemaire.  
+Une famille habitant une maison bourgeoise de la banlieue parisienne part en vacances. Sur la route, les parents abandonnent le chien de leur petite fille dans la forêt.
+
+- lu 26 juin 20h15 GF  
+Séance présentée par Joël Daire
+
+## Jean Painlevé
+
+[154375]  
+**La Pieuvre**  
+de Jean Painlevé  
+France / 1928 / 13 min / DCP  
+Étude de la pieuvre dans son habitat. Le premier documentaire de vulgarisation scientifique de Jean Painlevé.  
+_La Pieuvre_ a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.  
+suivi de  
+[50523]  
+**L'Hippocampe**  
+de Jean Painlevé  
+France / 1933 / 16 min / DCP  
+Les images spectaculaires d'un hippocampe mâle enceint donnant naissance à ses petits, qui témoignent du charme délicat de cette créature fascinante.  
+suivi de  
+[65713]  
+**Acéra ou le bal des sorcières**  
+de Jean Painlevé  
+France / 1972 / 17 min / DCP  
+Présentation de l'acéra, mollusque bisexué qui nage à l'aide d'un repli formant un manteau autour du corps. Sa nage ressemble à une danse, la danse serpentine mise à la mode par Loïe Fuller.  
+suivi de  
+[65711]  
+**Hyas, sténorinque, spirographe**  
+de Jean Painlevé  
+France / 1929 / 13 min / DCP  
+Présentation de petits crustacés dont la particularité est de se couvrir, selon leur gré, de colonies végétales ou animales.  
+suivi de  
+[65709]  
+**Les Amours de la pieuvre**  
+de Jean Painlevé  
+France / 1965 / 13 min / DCP  
+Les déplacements, la respiration, la nutrition, l'accouplement et la ponte de la pieuvre qui se niche dans le creux des rochers.  
+suivi de  
+[154416]  
+**Cristaux liquides**  
+de Jean Painlevé  
+France / 1978 / 6 min / DCP  
+Étude au microscope des dispositions moléculaires multicolores des cristaux liquides.
+
+- me 28 juin 18h30 GF  
+Séance présentée par Brigitte Berg
 
 ## Rencontres et conférences
 
