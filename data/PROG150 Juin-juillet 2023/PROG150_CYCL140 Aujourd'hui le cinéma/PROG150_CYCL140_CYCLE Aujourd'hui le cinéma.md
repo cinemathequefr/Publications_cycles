@@ -58,13 +58,14 @@ suivi de
 [154404]  
 **Christopher at Sea**  
 de Tom C J Brown  
-France-Grande-Bretagne-États-Unis / 2022 / 20 min / VOSTA / DCP  
+France-Grande-Bretagne-États-Unis / 2022 / 20 min / VOSTF / DCP  
 Christopher embarque pour un voyage transatlantique comme passager d'un cargo. Son espoir de découvrir ce qui attire tant d'hommes en mer l'entraîne dans un voyage vers la solitude, le fantasme et l'obsession.  
 suivi de  
 [154405]  
 **Jeanne Dinde**  
 de Pauline Ouvrard  
 France / 2022 / 22 min / DCP  
+Avec Chloé Lefray.  
 À 13 ans, Jeanne est restée une enfant. Sa seule amie est une dinde, qui lui martèle que grandir, c'est se trahir. Mais au collège, Laurène trouble Jeanne et la met sur la voie du changement.  
 suivi de  
 [154424]  
@@ -123,7 +124,7 @@ Après la restauration de son film _Le Cri de Tarzan_, montré en avril, place a
 de Thomas Bardinet  
 France / 2023 / 77 min / DCP  
 Avec Yasmine Kherbouche, Kylian Mahamoud, Théodore Dupleix.  
-Myriam, orpheline, apprend qu'elle va changer de famille d'accueil. Souvent moquée pour sa naïveté, elle voit des animaux qui parlent ou des sorcières bienveillantes. Elle seule pourrait croire au destin du jeune Bilal, qui va rejoindre ses parents scientifiques sur la planète Mars. Ce premier jour d'été sera pour les tous deux le dernier qu'ils vivront sur le territoire de leur enfance.
+Myriam, orpheline, apprend qu'elle va changer de famille d'accueil. Souvent moquée pour sa naïveté, elle voit des animaux qui parlent ou des sorcières bienveillantes. Elle seule pourrait croire au destin du jeune Bilal, qui va rejoindre ses parents scientifiques sur la planète Mars. Ce premier jour d'été sera pour tous les deux le dernier qu'ils vivront sur le territoire de leur enfance.
 
 - lu 10 juil 19h30 JE  
 Séance suivie d'une discussion avec Thomas Bardinet

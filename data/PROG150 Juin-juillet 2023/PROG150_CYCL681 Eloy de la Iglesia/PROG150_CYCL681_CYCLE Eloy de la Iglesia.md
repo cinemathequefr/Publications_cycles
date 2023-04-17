@@ -8,7 +8,7 @@
 d'Eloy de la Iglesia  
 Espagne / 2003 / 101 min / VOSTF / 35 mm  
 Avec Fernando Guillén Cuervo, Dritan Biba, Pepón Nieto.  
-Daniel, un homosexuel aisé, tombe éperdument amoureux de Kyril, un attrayant Bulgare de 23 ans avec qui il vit une relation intense, jusqu'à ce que Kyril se marie et commence à emprunter de grosses sommes d'argent à Daniel.
+Daniel, un homosexuel aisé, tombe éperdument amoureux de Kyril, un attrayant Bulgare de 23 ans avec qui il vit une relation intense, jusqu'à ce que Kyril se marie et commence à lui emprunter de grosses sommes d'argent.
 
 - sa 29 juil 20h30 GF
 

@@ -3,7 +3,7 @@
 ## Les films
 
 [36042]  
-**Alice n'habite plus ici**  
+**Alice n'est plus ici**  
 **(Alice Doesn't Live Here Anymore)**  
 de Martin Scorsese  
 États-Unis / 1974 / 112 min / VOSTF / 35 mm  
@@ -184,7 +184,7 @@ Séance présentée par Frédéric Bonnaud
 d'Alan J. Pakula  
 États-Unis / 1971 / 114 min / VOSTF / 35 mm  
 Avec Jane Fonda, Donald Sutherland, Roy Scheider.  
-John Klute, détective privé, est chargé par un ami de retrouver une connaissance commune disparue subitement. Son enquête le mène à Bree Daniels, une prostituée new-yorkaise, elle-même harcelée de lettres obscènes.
+John Klute, détective privé, est chargé par un ami de retrouver une connaissance commune disparue subitement. Son enquête le mène à Bree Daniels, une prostituée new-yorkaise, elle-même destinataire de lettres obscènes.
 
 - je 1 juin 20h30 HL  
 - ve 9 juin 16h30 GF
@@ -195,7 +195,7 @@ John Klute, détective privé, est chargé par un ami de retrouver une connaissa
 de Stuart Rosenberg  
 États-Unis / 1967 / 127 min / VOSTF / DCP  
 Avec Paul Newman, George Kennedy.  
-Luke, condamné pour un acte de vandalisme en état d'ivresse, purge une peine de deux ans de prison dans un camp de travail. Au cours de sa détention, il apprend le décès de sa mère, et tente de s'évader.
+Luke, condamné pour un acte de vandalisme commis en état d'ivresse, purge une peine de deux ans de prison dans un camp de travail. Au cours de sa détention, il apprend le décès de sa mère, et tente de s'évader.
 
 - di 18 juin 19h45 GF
 
@@ -297,7 +297,7 @@ Un vagabond, abandonné par ses partenaires et au bord de l'agonie, trouve par h
 **Woodstock**  
 de Michael Wadleigh  
 États-Unis / 1970 / 185 min / VOSTF / DCP  
-Documentaire sur le célèbre festival organisé en août 1969 à Bethel, près de Woodstock (État de New York), qui rassembla 500 000 jeunes.
+Documentaire sur le célèbre festival organisé en août 1969 à Bethel, près de Woodstock (État de New York), qui rassembla 500 000 sepctateurs.
 
 - lu 12 juin 19h00 GF
 

@@ -7,7 +7,7 @@
 de Jean Herman  
 France-Italie / 1968 / 95 min / 35 mm  
 Avec Alain Delon, Charles Bronson, Brigitte Fossey.  
-Marseille, juste après la guerre l'Algérie. Un médecin militaire démobilisé devient perceur de coffres forts, pour aider la veuve d'un homme qu'il a tué accidentellement. Il doit faire équipe avec un légionnaire américain qui lui voue une haine féroce.
+Marseille, juste après la guerre d'Algérie. Un médecin militaire démobilisé devient perceur de coffres forts, pour aider la veuve d'un homme qu'il a tué accidentellement. Il doit faire équipe avec un légionnaire américain qui lui voue une haine féroce.
 
 - ve 23 juin 15h30 GF
 
@@ -101,7 +101,7 @@ France-Italie / 1967 / 95 min / DCP
 D'après le roman _The Ronin_ de Joan MacLeod.  
 Avec Alain Delon, Nathalie Delon, François Périer.  
 Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de l'abattre à son tour.  
-Restauration par Pathé.
+Restauration par Pathé (2023).
 
 - sa 24 juin 14h30 HL  
 Voir aussi dialogue p. xx

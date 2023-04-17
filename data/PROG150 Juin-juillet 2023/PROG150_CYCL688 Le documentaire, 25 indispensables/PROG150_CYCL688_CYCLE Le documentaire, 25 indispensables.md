@@ -16,7 +16,7 @@ Avec Valéry Giscard d'Estaing.
 de Marcel Ophuls  
 France-Suisse-RFA / 1969 / 270 min / 35 mm  
 Avec Emmanuel d'Astier de la Vigerie, Georges Bidault, Matthäus Bleibinger.  
-Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse la chronique de cette occupation et des différentes réactions de la population : certains vont s'engager dans la Résistance pendant que d'autres collaborent et dénoncent leurs voisins.
+Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse la chronique de cette occupation et des différentes réactions de la population : certains vont s'engager dans la Résistance pendant que d'autres choisissent la collaboration.
 
 - ve 23 juin 18h30 HL  
 Séance présentée par Jean-François Rauger
@@ -120,7 +120,7 @@ Séance présentée par Florence Tissot
 **(Tchelovek s kinoapparatom)**  
 de Dziga Vertov  
 URSS / 1929 / 70 min / INT. FR. / DCP  
-Un homme parcourt une ville avec une caméra en bandoulière, documentant la vie urbaine, le travail, les loisirs. Incontournable de l'avant-garde soviétique, entre expérimentations techniques et virtuosité du montage, le film est une mise en abîme du cinéma.
+Un homme parcourt une ville avec une caméra en bandoulière, documentant la vie urbaine, le travail, les loisirs. Œuvre essentielle de l'avant-garde soviétique, entre expérimentations techniques et virtuosité du montage, le film est une mise en abîme du cinéma.
 
 - je 6 juil 18h30 GF
 
@@ -147,7 +147,7 @@ La Waddenzee, « mer des terres humides », est une région naturelle unique, zo
 **La Marâtre**  
 d'Alice Guy  
 France / 1906 / 7 min  
-Une belle-mère s'en prend au fils de son mari. Librement inspiré du roman d'Honoré de Balzac.
+Une belle-mère s'en prend au fils de son mari. Librement inspiré d'Honoré de Balzac.
 
 - sa 1 juil 14h30 GF  
 Voir aussi dialogue p. xx  
@@ -321,7 +321,7 @@ Séance présentée par Joël Daire
 de Jean Painlevé  
 France / 1928 / 13 min / DCP  
 Étude de la pieuvre dans son habitat. Le premier documentaire de vulgarisation scientifique de Jean Painlevé.  
-_La Pieuvre_ a été restauré en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.  
+Restauration en 2020 au laboratoire Hiventy par Les Documents cinématographiques et la Cinémathèque française à partir du négatif incomplet et d'un marron standard. La séquence teintée a été recréée d'après les indications d'époque.  
 suivi de  
 [50523]  
 **L'Hippocampe**  

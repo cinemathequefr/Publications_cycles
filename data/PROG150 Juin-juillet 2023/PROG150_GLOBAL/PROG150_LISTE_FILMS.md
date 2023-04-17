@@ -105,7 +105,7 @@
   * Asparagus  
   * Attendant (The)  
   * Aussi fort que tu peux  
-  * Awake But Dreaming  
+  * Awake But Dreaming (ou l'hypnose opérée par Tumblr sur ma pauvre cervelle)  
   * Baby Doll  
   * Barbie aussi peut être triste  
   * Belle et la Bête (La)  
@@ -173,7 +173,7 @@
   * Parabellum Girl  
   * Prehistoric Cabaret  
   * Prince of Peace  
-  * Ready-Made With Pelle Lowe  
+  * Ready-Made  
   * Rein/Raus  
   * Relax Be Cruel  
   * Removed  
@@ -378,7 +378,7 @@
 
 ## Warner, années 70 (28)
 
-  * Alice n'habite plus ici  
+  * Alice n'est plus ici  
   * Balade sauvage (La)  
   * Bonnie and Clyde  
   * Bullitt  

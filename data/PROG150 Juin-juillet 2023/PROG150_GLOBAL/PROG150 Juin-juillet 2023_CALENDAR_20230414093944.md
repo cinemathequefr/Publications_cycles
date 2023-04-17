@@ -412,7 +412,6 @@ La Belle et la Bête (Mathieu Morel, 2021)
 Cum in My Heart (ou le fabuleux lâcher-prise de Thomas Timbère) (Mathieu Morel, 2022)
 
 **17h15 GF Warner, années 70**  
-**Séance présentée par Bernard Benoliel**  
 Opération Dragon (Robert Clouse, 1973)
 
 **18h00 HL Quand les surréalistes allaient au cinéma**  
@@ -474,7 +473,7 @@ Monte là-dessus (Sam Taylor, Fred Newmeyer, 1923)
 
 **18h00 GF Quand les surréalistes allaient au cinéma**  
 **Séance présentée par Dominique Païni**  
-A Study in Choreography for the Camera (Maya Deren, 1945)  
+A Study in Choregraphy for the Camera (Maya Deren, 1945)  
 Divine Horsemen: The Living Gods of Haiti (Maya Deren, 1947)  
 Meditation on Violence (Maya Deren, 1948)  
 Ritual in Tranfigured Time (Maya Deren, 1945)  

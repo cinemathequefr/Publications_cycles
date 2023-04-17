@@ -53,7 +53,7 @@ de Vincente Minnelli
 États-Unis / 1954 / 108 min / VOSTF / 35 mm  
 D'après la comédie musicale _Brigadoon_ d'Alan Jay Lerner.  
 Avec Cyd Charisse, Gene Kelly, Van Johnson.  
-Brigadoon est un village des Highlands où le temps s'est figé sur l'an 1755 et qui n'existe qu'un jour par siècle. Deux Américains en voyage en Écosse s'y égarent, et l'un des deux tombe amoureux d'une villageoise.
+Brigadoon est un village des Highlands où le temps s'est figé en l'an 1755 et qui n'existe qu'un jour par siècle. Deux Américains en voyage en Écosse s'y égarent, et l'un des deux tombe amoureux d'une villageoise.
 
 - di 2 juil 18h30 HL  
 - je 27 juil 20h30 HL
@@ -221,7 +221,7 @@ Ann Hamilton a épousé sur un coup de foudre un riche industriel, Alan Garroway
 **Madame a des envies**  
 d'Alice Guy  
 France / 1906 / 4 min / DCP  
-À travers les envies éponymes de la protagoniste se déploie une dimension subversive et politiquement incorrecte qui renvoie à la sexualité (la sucette) et à l'ivresse (l'absinthe).  
+À travers les envies de la protagoniste se déploie une dimension subversive et politiquement incorrecte qui renvoie à la sexualité (la sucette) et à l'ivresse (l'absinthe).  
 Film attribué à Alice Guy.
 
 - sa 1 juil 15h00 HL  
@@ -234,7 +234,7 @@ de Vincente Minnelli
 États-Unis / 1949 / 115 min / VOSTF / 35 mm  
 D'après le roman _Madame Bovary_ de Gustave Flaubert.  
 Avec Jennifer Jones, James Mason, Van Helfin, Louis Jourdan.  
-Face au tribunal, Gustave Flaubert rend des comptes sur son roman, considéré comme œuvre immorale, et en justifie le contenu, prenant la défense de son personnage principal, Emma Bovary.
+Face au tribunal, Gustave Flaubert rend des comptes sur son roman, considéré comme œuvre immorale, et prend la défense de son personnage principal, Emma Bovary.
 
 - je 29 juin 20h30 HL  
 - sa 22 juil 17h00 HL

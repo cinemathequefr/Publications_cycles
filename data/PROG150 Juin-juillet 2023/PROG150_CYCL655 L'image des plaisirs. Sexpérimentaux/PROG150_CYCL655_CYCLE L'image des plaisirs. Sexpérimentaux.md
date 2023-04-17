@@ -131,7 +131,8 @@ suivi de
 [141223]  
 **Loads**  
 de Curt McDowell  
-États-Unis / 1985 / 22 min / VO / Numérique  
+États-Unis / 1980 / 22 min / VO / Numérique  
+Avec Curt McDowell, Ronnie.  
 « Du mâle hétérosexuel comme fétiche. » (Nicole Brenez)  
 suivi de  
 [76873]  
@@ -340,7 +341,7 @@ Grande-Bretagne / 1991 / 7 min / VOSTF / Numérique
 Kiss-in protestataire face au commissariat de Bow Street à Londres, dans le cadre d'une manifestation contre des projets de loi homophobes (clause 25/28).  
 suivi de  
 [154214]  
-**Ready-Made With Pelle Lowe**  
+**Ready-Made**  
 de Saul Levine  
 États-Unis / 1992 / 4 min / Numérique  
 « Variation sur l'_Olympia_ de Manet, en réfléchissant à sa réception, sa relation à la peinture, au travail sexuel, à l'impérialisme, la Commune de Paris, la drogue et le rock'n'roll. » (Saul Levine)  
@@ -622,7 +623,7 @@ Films pionniers, films de plaisirs, de chair, de visibilité et d'affirmation, o
 **Blanc X**  
 d'Émilie Jouvet  
 France / 2004 / 4 min / Numérique  
-« Se brosser les dents, oui, mais avec une brosse à dents très spéciale. Un détournement qui met à nu les structures et les codes du porno mainstream. » (CJC)  
+« Se brosser les dents, oui, mais avec une brosse à dents très spéciale. Un détournement qui met à nu les structures et les codes du porno mainstream. » (Collectif Jeune Cinéma)  
 suivi de  
 [154061]  
 **Electric Desire**  
@@ -667,7 +668,7 @@ suivi de
 **Les Scieurs (Jouir malgré tout, opus 2)**  
 de Laurence Chanfro  
 France / 2005 / 5 min / DCP  
-« Film performance. Une masturbation avec un godemiché transparent, donnant une vision du sexe féminin bien particulière, a lieu pendant la diffusion en direct d'un documentaire régionalo-macho. » (CJC)  
+« Film performance. Une masturbation avec un godemiché transparent, donnant une vision du sexe féminin bien particulière, a lieu pendant la diffusion en direct d'un documentaire régionalo-macho. » (Collectif Jeune Cinéma)  
 suivi de  
 [154055]  
 **Journal d'un homme marié**  
@@ -861,7 +862,7 @@ suivi de
 **Whore Pride**  
 de Hélio Ribeiro  
 Australie / 2018 / 3 min / Numérique  
-L'une des œuvres présentées dans l'exposition « The Sex Worker » (2018), bouleversante revendication politique par un travailleur du sexe.
+L'une des œuvres présentées dans l'exposition _The Sex Worker_ (2018), bouleversante revendication politique par un travailleur du sexe.
 
 - ve 16 juin 21h00 JE  
 Séance présentée par Geoffroy C. Dedenis
@@ -883,7 +884,7 @@ France / 2019 / 26 min / Numérique
 À la fois trash, doux et nostalgique, le film évoque à la fois le trouble amoureux qui existe au sein des amitiés, les relations de domination et la fébrilité adolescente.  
 suivi de  
 [154093]  
-**Awake But Dreaming**  
+**Awake But Dreaming (ou l'hypnose opérée par Tumblr sur ma pauvre cervelle)**  
 de Mathieu Morel  
 France / 2020 / 4 min / Numérique  
 « Exercice de collage entièrement composé de fichiers gif likés sur Tumblr en 2019. » (Mathieu Morel)  
