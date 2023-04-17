@@ -39,7 +39,7 @@ Essai surréaliste avec une danseuse barbue, un chasseur tyrolien, un corbillard
 - me 14 juin 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Dominique Païni
 
-## Les films
+## Longs métrages
 
 [154366]  
 **À l'abri des lois**  
@@ -289,7 +289,7 @@ Séance présentée par Dominique Païni
 ## Programme Maya Deren
 
 [62680]  
-**A Study in Choregraphy for the Camera**  
+**A Study in Choreography for the Camera**  
 de Maya Deren  
 États-Unis / 1945 / 3 min / VOSTF / Numérique  
 Une tentative de dégager le danseur de l'espace statique de la scène d'un théâtre vers un espace qui serait aussi mobile et volatile que lui-même.  

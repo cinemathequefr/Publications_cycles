@@ -34,7 +34,7 @@ Fluides sexuels de tous types dans un théâtre d'amour sont les protagonistes d
 [99583]  
 **Asparagus**  
 de Suzan Pitt  
-États-Unis / 1979 / 20 min / Numérique  
+États-Unis / 1979 / 20 min / DCP  
 « Masques, sexualité magique, théâtre des illusions : avec cette envoûtante traversée du miroir, Suzan Pitt détient pour toujours la clef (et le secret) des songes animés. » (Yann Gonzalez)  
 suivi de  
 [154195]  
@@ -58,13 +58,13 @@ suivi de
 [154196]  
 **Essence d'absinthe**  
 de Yervant Gianikian, Angela Ricci Lucchi  
-Italie / 1981 / 15 min / Numérique  
+Italie / 1981 / 15 min / DCP  
 Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.  
 suivi de  
 [141217]  
 **Le Troisième œil**  
 d'André Almuró  
-France / 1989 / 22 min / Numérique  
+France / 1989 / 22 min / DCP  
 « Manifeste du cinéma haptique, qui pourrait aussi être résumé : "Tout l'univers bouleversé par une branlette." »  
 suivi de  
 [154062]  
@@ -79,7 +79,7 @@ Voir aussi conférence p. xx
 [154196]  
 **Essence d'absinthe**  
 de Yervant Gianikian, Angela Ricci Lucchi  
-Italie / 1981 / 15 min / Numérique  
+Italie / 1981 / 15 min / DCP  
 Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.
 
 - sa 3 juin 18h30 GF  
@@ -88,7 +88,7 @@ Séance présentée par Stéphane Gérard et Lionel Soukaz
 [141217]  
 **Le Troisième œil**  
 d'André Almuró  
-France / 1989 / 22 min / Numérique  
+France / 1989 / 22 min / DCP  
 « Manifeste du cinéma haptique, qui pourrait aussi être résumé : "Tout l'univers bouleversé par une branlette." »
 
 - me 7 juin 17h30 JE
@@ -118,7 +118,7 @@ Séance présentée par Derek Woolfenden et David Matarasso
 [154025]  
 **Action érotico-patriotique**  
 de Michel Journiac, Bernard Roué  
-France / 1979 / 4 min / Numérique  
+France / 1979 / 4 min / DCP  
 Avec Michel Journiac.  
 Nudités masculine et féminine explicites, corps ensanglantés et phallus en sang léchés et sucés par des femmes... Journiac allie les couleurs républicaines à l'anarchie sexuelle. Le fantôme de Pasolini n'est pas loin.  
 suivi de  
@@ -131,7 +131,7 @@ suivi de
 [141223]  
 **Loads**  
 de Curt McDowell  
-États-Unis / 1985 / 22 min / VOSTF / Numérique  
+États-Unis / 1985 / 22 min / VO / Numérique  
 « Du mâle hétérosexuel comme fétiche. » (Nicole Brenez)  
 suivi de  
 [76873]  
@@ -151,7 +151,7 @@ Séance présentée par Stéphane Gérard et Lionel Soukaz
 [154200]  
 **Baby Doll**  
 de Tessa Hughes-Freeland  
-États-Unis / 1982 / 5 min / Numérique  
+États-Unis / 1982 / 5 min / STF / Numérique  
 Avec Ferne, Irene.  
 « Début des années 1980, New York. Deux go-go girls témoignent, dans les loges d'un bar, de la réputation dont souffrent les travailleuses du sexe. Une prise de conscience entrecoupée de danse érotique et complice, sur une musique de David Bowie. » (R. P.)  
 suivi de  
@@ -172,7 +172,7 @@ suivi de
 [154203]  
 **The Right Side of My Brain**  
 de Richard Kern  
-États-Unis / 1985 / 23 min / Numérique  
+États-Unis / 1985 / 23 min / STF / Numérique  
 Avec Lydia Lunch, Norman Westberg, Brian Moran.  
 « Le cri du cœur d'une femme dont les désirs sexuels restent constamment inassouvis, et provoquent la répulsion chez les hommes qu'elle côtoie. Violence et sexualité ne font plus qu'un dans ce monologue écrit par Lydia Lunch. » (R. P.)  
 suivi de  
@@ -266,7 +266,7 @@ suivi de
 [154030]  
 **Ecce Homo**  
 de Jerry Tartaglia  
-États-Unis / 1989 / 7 min / VO / 16 mm  
+États-Unis / 1989 / 7 min / VOSTF / 16 mm  
 Premier film de la trilogie de Jerry Tartaglia sur le sida où, sous le règne de la maladie, du déni et des insultes, il s'agit de lutter contre l'invisibilisation de la sexualité gay.  
 suivi de  
 [154031]  
@@ -330,13 +330,13 @@ suivi de
 [154035]  
 **Anthem**  
 de Marlon Riggs  
-États-Unis / 1991 / 8 min / DCP  
+États-Unis / 1991 / 8 min / VOSTF / DCP  
 Pamphlet queer panafricain pour temps d'épidémie.  
 suivi de  
 [154251]  
 **Kiss 25**  
 de Steve Farrer  
-Grande-Bretagne / 1991 / 7 min / STF / Numérique  
+Grande-Bretagne / 1991 / 7 min / VOSTF / Numérique  
 Kiss-in protestataire face au commissariat de Bow Street à Londres, dans le cadre d'une manifestation contre des projets de loi homophobes (clause 25/28).  
 suivi de  
 [154214]  
@@ -442,7 +442,7 @@ suivi de
 [154222]  
 **The Story of I**  
 de Jo Ann Kaplan  
-Grande-Bretagne / 1997 / 23 min / DCP  
+Grande-Bretagne / 1997 / 23 min / STF / DCP  
 Une femme couchée dans une baignoire lit _L'Histoire de l'œil_ de Georges Bataille. L'œil devient le vagin, vu à travers le sang, l'urine et les larmes, il se regarde au miroir.  
 suivi de  
 [154223]  
@@ -454,7 +454,7 @@ suivi de
 [141242]  
 **The Fall of Communism As Seen in Gay Pornography**  
 de William E. Jones  
-États-Unis / 1998 / 19 min / VO / Numérique  
+États-Unis / 1998 / 19 min / VOSTF / Numérique  
 « L'industrie du X gay à l'Est transforme l'iconographie soviétique en fétiche sexuel. » (Nicole Brenez)  
 suivi de  
 [154043]  
@@ -473,7 +473,7 @@ suivi de
 [154045]  
 **Le Siège**  
 de Yves-Marie Mahé  
-France / 1999 / 3 min / Numérique  
+France / 1999 / 3 min / DCP  
 « Lève-toi de ta chaise qu'on voie tes fesses. » (Yves-Marie Mahé)  
 suivi de  
 [154046]  
@@ -606,7 +606,7 @@ suivi de
 [94573]  
 **Tabous (Zohre & Manouchehr)**  
 de Mitra Farahani  
-France-Iran / 2003 / 70 min / VOSTF / 35 mm  
+France-Iran / 2003 / 70 min / VOSTF / Numérique  
 D'après le poème _Zohre & Manouchehr_ d'Iraj Mirza.  
 Avec Coralie Revel, Sophiane Benrezzak.  
 Montage alterné entre l'adaptation d'un poème érotique persan du XIX<sup>e</sup> siècle, attestant d'une tradition enfouie et d'une liberté enfuie, et les invivables interdits auxquels se heurte la jeunesse iranienne du XXI<sup>e</sup> siècle.
@@ -654,7 +654,7 @@ D'où vient la violence ? Elle est multiple, elle nous assiège, nous en sommes 
 [154054]  
 **Fig. 4**  
 d'Augustin Gimel  
-France / 2004 / 5 min / Numérique  
+France / 2004 / 5 min / DCP  
 Augustin Gimel prend acte du déluge pornographique déversé par internet.  
 suivi de  
 [154056]  
@@ -666,7 +666,7 @@ suivi de
 [154059]  
 **Les Scieurs (Jouir malgré tout, opus 2)**  
 de Laurence Chanfro  
-France / 2005 / 5 min / Numérique  
+France / 2005 / 5 min / DCP  
 « Film performance. Une masturbation avec un godemiché transparent, donnant une vision du sexe féminin bien particulière, a lieu pendant la diffusion en direct d'un documentaire régionalo-macho. » (CJC)  
 suivi de  
 [154055]  
@@ -768,7 +768,7 @@ Dans un Berlin hostile et complice, le film suit cinq « garçons à louer » da
 [154234]  
 **Lexique dyslexique**  
 de Derek Woolfenden  
-France / 2012 / 43 min / Numérique  
+France / 2012 / 43 min / DCP  
 Avec Léa Vrina, Derek Woolfenden, Maureen Fazendeiro.  
 « _Lexique dyslexique_ rend compte de troubles affectifs qui s'expriment à travers un langage crypté, symbolique, dont le cinéaste a su donner des équivalences plastiques fortes. Une forme originale de "pensée cinéma". » (Raphaël Bassan)  
 suivi de  
@@ -805,7 +805,7 @@ suivi de
 [154236]  
 **Solitary Acts #4**  
 de Nazlı Dinçel  
-Turquie / 2015 / 9 min / Numérique  
+Turquie / 2015 / 9 min / DCP  
 « Avec une angoisse adolescente, elle refuse l'orgasme à tout autre qu'elle-même. » (Light Cone)
 
 - ve 16 juin 18h30 JE  
@@ -818,7 +818,7 @@ Séance présentée par Derek Woolfenden et David Matarasso
 [154071]  
 **Tell Me When You Die**  
 d'Amber Bemak, Nadia Granados  
-Mexique / 2015 / 12 min / Numérique  
+Mexique / 2015 / 12 min / DCP  
 « Nous considérons la pénétration comme un rythme cinématographique, et expérimentons/jouons la pénétration par l'air, l'eau, les doigts et le texte. » (Amber Bemak, Nadia Granados)  
 suivi de  
 [154238]  

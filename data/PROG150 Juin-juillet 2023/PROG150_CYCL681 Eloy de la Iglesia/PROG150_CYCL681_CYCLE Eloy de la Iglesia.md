@@ -26,7 +26,7 @@ Dans un futur dystopique où la société est gouvernée par un État fasciste, 
 **La Buraliste de Vallecas**  
 **(La Estanquera de Vallecas)**  
 d'Eloy de la Iglesia  
-Espagne / 1987 / 106 min / VOSTF / Numérique  
+Espagne / 1987 / 106 min / VOSTF / DCP  
 Avec Emma Penella, José Luis Gómez, José Luis Manzano.  
 Leandro et Tocho décident de commettre un braquage dans une supérette en banlieue madrilène, mais rien ne se déroule comme prévu.
 
@@ -67,7 +67,7 @@ Voir aussi dialogue p. xx
 **L'Enfer de la drogue**  
 **(El Pico)**  
 d'Eloy de la Iglesia  
-Espagne / 1983 / 104 min / VOSTF / Numérique  
+Espagne / 1983 / 104 min / VOSTF / DCP  
 Avec José Luis Manzano, Enrique San Francisco, José Manuel Cervino.  
 La dérive opiacée de deux jeunes amis, Paco et Urko, respectivement fils d'un commandant de la Garde civile et d'un militant nationaliste.
 

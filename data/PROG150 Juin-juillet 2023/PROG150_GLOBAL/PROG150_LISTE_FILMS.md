@@ -283,7 +283,7 @@
 
   * A Haunted Mouse  
   * À l'abri des lois  
-  * A Study in Choregraphy for the Camera  
+  * A Study in Choreography for the Camera  
   * Âge d'or (L')  
   * André Breton malgré tout  
   * At Land  

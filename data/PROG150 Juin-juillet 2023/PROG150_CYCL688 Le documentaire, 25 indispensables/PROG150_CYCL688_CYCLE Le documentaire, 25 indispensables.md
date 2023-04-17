@@ -5,7 +5,7 @@
 [77226]  
 **1974, une partie de campagne**  
 de Raymond Depardon  
-France / 1974 / 90 min / Numérique  
+France / 1974 / 90 min / DCP  
 Avec Valéry Giscard d'Estaing.  
 1974. Valéry Giscard d'Estaing, alors ministre de l'Économie et des Finances, se lance dans une campagne « à l'américaine ». Raymond Depardon suit le fringant candidat à la présidentielle et capte des instants rares et historiques de la classe politique française.
 
@@ -157,7 +157,7 @@ Film suivi de _Chronique d'un été_ de Jean Rouch, Edgar Morin
 **Nanouk l'esquimau**  
 **(Nanook of the North)**  
 de Robert J. Flaherty  
-États-Unis / 1922 / 50 min / INT. FR.  
+États-Unis / 1922 / 50 min / INT. FR. / DCP  
 Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo.
 
 - di 25 juin 14h30 HL  
@@ -273,7 +273,7 @@ Un panorama du système de santé et de sécurité sociale américain, à traver
 - sa 24 juin 20h30 HL  
 Séance présentée par Frederick Wiseman
 
-## Georges Franju
+## Programme Georges Franju
 
 [48621]  
 **Les Poussières**  
@@ -314,7 +314,7 @@ Une famille habitant une maison bourgeoise de la banlieue parisienne part en vac
 - lu 26 juin 20h15 GF  
 Séance présentée par Joël Daire
 
-## Jean Painlevé
+## Programme Jean Painlevé
 
 [154375]  
 **La Pieuvre**  
