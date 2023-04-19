@@ -102,7 +102,7 @@ suivi de
 **Madame a des envies**  
 d'Alice Guy  
 France / 1906 / 4 min / DCP  
-À travers les envies éponymes de la protagoniste se déploie une dimension subversive et politiquement incorrecte qui renvoie à la sexualité (la sucette) et à l'ivresse (l'absinthe).  
+À travers les envies de la protagoniste se déploie une dimension subversive et politiquement incorrecte qui renvoie à la sexualité (la sucette) et à l'ivresse (l'absinthe).  
 Film attribué à Alice Guy.  
 suivi de  
 [47140]  
@@ -657,7 +657,7 @@ Premier volet d'une trilogie sexuelle, film psychédélique sur la violence des 
 **Belladonna des tristesses**  
 **(Kanashimi no Beradonna)**  
 d'Eiichi Yamamoto  
-Japon / 1973 / 88 min / VOSTF / 35 mm  
+Japon / 1973 / 86 min / VOSTF / DCP  
 D'après l'ouvrage _La Sorcière_ de Jules Michelet.  
 Jeanne, dans l'espoir d'obtenir vengeance, pactise avec le Diable après avoir été violée par le seigneur de son village. « Influencés par l'Art nouveau, les plans évoquent Alfons Mucha, Aubrey Beardsley, Gustav Klimt, Egon Schiele. La conclusion du film, marquée par l'idéologie d'une époque hyper-libertaire, rappelle l'apport des femmes dans la Révolution française. » (Jean-Marie Lanlo)
 

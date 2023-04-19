@@ -114,7 +114,7 @@ Le prince Jean profite de l'absence de son frère Richard Cœur de Lion pour s'a
 [128671]  
 **Tex Avery Follies**  
 de Tex Avery, Dick Lundy, Michael Lah  
-États-Unis / 1964 / 85 min / VOSTF / 35 mm  
+États-Unis / 1964 / 85 min / VF / Vidéo  
 Compilation de douze _cartoons_ pour plonger dans l'univers pétillant et délirant de Tex Avery.
 
 - me 26 avr 15h00 GF
@@ -156,6 +156,42 @@ Avec Charles Chaplin, Robert Parrish, Jean Harlow.
 Charlot le vagabond s'essaye à différents métiers pour aider une jeune fille aveugle à recouvrer la vue.
 
 - me 10 mai 15h00 GF
+
+[65733]  
+**La Chrysalide et le papillon d'or**  
+de Georges Méliès  
+France / 1901 / 2 min / DCP  
+suivi de  
+[105939]  
+**To Spring**  
+de Hugh Harman, Rudolph Ising  
+États-Unis / 1936  
+suivi de  
+[105264]  
+**Le Génie de la boîte de raviolis**  
+de Claude Barras  
+France / 2006 / 8 min / DCP  
+Après avoir exploré rivières et fleuves, îles et planètes, Marie Bobine nous emmène pour cette dernière séance de l'année en promenade au cœur des villes et toujours du cinéma.....  
+suivi de  
+[70507]  
+**Le Chant de la fleur introuvable**  
+**(Sapovnela)**  
+d'Otar Iosseliani  
+URSS / 1959  
+Un vieil homme, amoureux de la nature, réalise de magnifiques compositions florales. Mais des tracteurs envahissent peu à peu les champs de fleurs.  
+suivi de  
+[154434]  
+**Le Renard minuscule**  
+d'Aline Quertain, Sylwia Szkiladz  
+France / 2016 / 8 min / Numérique  
+suivi de  
+[154435]  
+**Couchée de Robert Desnos**  
+de Debora Cheyenne Cruchon  
+France / 2015 / 3 min / Numérique
+
+- di 14 mai 15h00 GF  
+- me 17 mai 15h00 GF
 
 [41069]  
 **Fenêtre sur cour**  

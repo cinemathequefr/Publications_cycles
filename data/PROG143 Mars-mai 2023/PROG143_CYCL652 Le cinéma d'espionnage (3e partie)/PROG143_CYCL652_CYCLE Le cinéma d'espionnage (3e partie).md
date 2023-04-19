@@ -2,6 +2,16 @@
 
 ## Les films
 
+[40348]  
+**Correspondant 17**  
+**(Foreign Correspondent)**  
+d'Alfred Hitchcock  
+États-Unis / 1940 / 119 min / VOSTF / 35 mm  
+Avec Joel McCrea, Laraine Day, Herbert Marshall, George Sanders.  
+Envoyé en Europe sous une fausse identité, un reporter se lance à la poursuite d'un diplomate hollandais censé détenir le secret d'un traité de paix entre son pays et les Alliés.
+
+- di 23 avr 14h30 HL
+
 [32907]  
 **Courrier diplomatique**  
 **(Diplomatic Courier)**  
@@ -12,17 +22,6 @@ Avec Tyrone Power, Patricia Neal, Lee Marvin, Karl Malden.
 Pendant la guerre froide, un émissaire diplomatique du gouvernement américain, envoyé à Trieste, se retrouve impliqué dans une histoire d'espionnage.
 
 - sa 13 mai 15h00 GF
-
-[62708]  
-**Danger immédiat**  
-**(Clear and Present Danger)**  
-de Phillip Noyce  
-États-Unis / 1994 / 141 min / VOSTF / DCP  
-D'après le roman _Danger immédiat_ de Tom Clancy.  
-Avec Harrison Ford, Willem Dafoe, Anne Archer, Joaquim de Almeida.  
-Après l'assassinat d'un proche du président des États-Unis qui blanchissait de l'argent pour le cartel de la drogue colombien, Jack Ryan, analyste à la CIA, fait son grand retour.
-
-- di 23 avr 14h30 HL
 
 [42907]  
 **Le Dossier Odessa**  

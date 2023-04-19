@@ -87,7 +87,8 @@ de Peter Bogdanovich
 Avec Audrey Hepburn, Ben Gazzara, John Ritter.  
 Leon Leondopolous est le patron d'une agence de détectives dont la principale mission est de filer les femmes des maris jaloux.
 
-- ve 14 avr 20h30 HL
+- ve 14 avr 20h30 HL  
+- lu 24 avr 18h00 HL
 
 [146195]  
 **The Great Buster: A Celebration**  
@@ -146,7 +147,7 @@ de Peter Bogdanovich
 Avec Barbra Streisand, Ryan O'Neal, Madeline Kahn.  
 Judy Maxwell, Howard Bannister, Mrs. Van Hoskins et Mr. Smith descendent dans le même hôtel de San Francisco où va se tenir un congrès de musicologie. Et tous les quatre ont une valise identique.
 
-- lu 24 avr 20h15 HL
+- lu 24 avr 20h30 HL
 
 [59168]  
 **Réalisé par John Ford**  

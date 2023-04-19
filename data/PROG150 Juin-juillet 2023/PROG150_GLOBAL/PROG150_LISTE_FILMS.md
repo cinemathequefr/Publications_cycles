@@ -253,11 +253,15 @@
   * Vues d'Espagne  
   * Welfare
 
-## Ma petite Cinémathèque (16)
+## Ma petite Cinémathèque (22)
 
+  * Chant de la fleur introuvable (Le)  
   * Charge héroïque (La)  
   * Chez la sorcière  
+  * Chrysalide et le papillon d'or (La)  
   * Cirque (Le)  
+  * Couchée de Robert Desnos  
+  * Génie de la boîte de raviolis (Le)  
   * Génie du feu (Le)  
   * Livre de la jungle (Le)  
   * Livre magique (Le)  
@@ -268,7 +272,9 @@
   * Monte là-dessus  
   * Panorama pris d'un train en marche  
   * Pirate (Le)  
+  * Renard minuscule (Le)  
   * Sherlock Jr.  
+  * To Spring  
   * Un homme de têtes  
   * Voyage à travers l'impossible
 

@@ -20,7 +20,7 @@ de Roy Del Ruth
 Avec James Cagney, Joan Blondell, Louis Calhern, Ray Milland.  
 Bert et Ann travaillent dans le même hôtel, et deviennent vite un duo d'inséparables arnaqueurs.
 
-- lu 24 avr 20h45 GF
+- lu 24 avr 21h00 GF
 
 [34758]  
 **Chercheuses d'or de 1933**  
@@ -128,7 +128,7 @@ Frank, un ouvrier travaillant dur, fête par avance la promotion qu'il est certa
 **La Mort n'était pas au rendez-vous**  
 **(Conflict)**  
 de Curtis Bernhardt  
-États-Unis / 1945 / 85 min / VOSTF  
+États-Unis / 1945 / 85 min / VOSTF / 35 mm  
 Avec Humphrey Bogart, Alexis Smith, Sydney Greenstreet.  
 Un homme tombe amoureux de sa belle-sœur et échafaude une machination pour se débarrasser de son épouse.
 

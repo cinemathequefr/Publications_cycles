@@ -2,6 +2,42 @@
 
 ## Les films
 
+[65733]  
+**La Chrysalide et le papillon d'or**  
+de Georges Méliès  
+France / 1901 / 2 min / DCP  
+suivi de  
+[105939]  
+**To Spring**  
+de Hugh Harman, Rudolph Ising  
+États-Unis / 1936  
+suivi de  
+[105264]  
+**Le Génie de la boîte de raviolis**  
+de Claude Barras  
+France / 2006 / 8 min / DCP  
+Après avoir exploré rivières et fleuves, îles et planètes, Marie Bobine nous emmène pour cette dernière séance de l'année en promenade au cœur des villes et toujours du cinéma.....  
+suivi de  
+[70507]  
+**Le Chant de la fleur introuvable**  
+**(Sapovnela)**  
+d'Otar Iosseliani  
+URSS / 1959  
+Un vieil homme, amoureux de la nature, réalise de magnifiques compositions florales. Mais des tracteurs envahissent peu à peu les champs de fleurs.  
+suivi de  
+[154434]  
+**Le Renard minuscule**  
+d'Aline Quertain, Sylwia Szkiladz  
+France / 2016 / 8 min / Numérique  
+suivi de  
+[154435]  
+**Couchée de Robert Desnos**  
+de Debora Cheyenne Cruchon  
+France / 2015 / 3 min / Numérique
+
+- me 31 mai 15h00 GF  
+- di 4 juin 15h00 GF
+
 [31156]  
 **Le Cirque**  
 **(The Circus)**  
