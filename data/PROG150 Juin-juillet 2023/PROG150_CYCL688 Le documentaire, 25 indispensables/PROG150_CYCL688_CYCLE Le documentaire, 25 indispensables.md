@@ -147,7 +147,7 @@ La Waddenzee, « mer des terres humides », est une région naturelle unique, zo
 **La Marâtre**  
 d'Alice Guy  
 France / 1906 / 7 min  
-Une belle-mère s'en prend au fils de son mari. Librement inspiré d'Honoré de Balzac.
+Une belle-mère s'en prend au fils de son mari. Librement inspiré de la pièce de Balzac.
 
 - sa 1 juil 14h30 GF  
 Voir aussi dialogue p. xx  
@@ -164,7 +164,7 @@ Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la 
 Voir aussi dialogue p. xx
 
 [50890]  
-**Nuit et brouillard**  
+**Nuit et Brouillard**  
 d'Alain Resnais  
 France / 1955 / 32 min / DCP  
 Alain Resnais, à la demande du Comité d'histoire de la Seconde Guerre mondiale, se rend à Orianenbourg, Auschwitz, Dachau, Ravensbrück, Belsen, où des milliers d'hommes, de femmes et d'enfants ont perdu la vie dans les camps d'extermination.
@@ -219,7 +219,7 @@ Séance présentée par Laura Koeppel
 de Delphine Seyrig  
 France / 1977 / 111 min / DCP  
 Avec Ellen Burstyn, Jane Fonda, Anne Wiazemsky.  
-Vingt-quatre actrices françaises et américaines parlent de leurs expériences professionnelles en tant que femmes, leurs rôles et leurs rapports avec les réalisateurs et les équipes techniques. Bilan collectif sur une profession qui ne permet que des rôles stéréotypés et aliénants.
+Vingt-quatre actrices françaises et américaines parlent de leurs expériences professionnelles en tant que femmes, leurs rôles et leurs rapports avec les réalisateurs et les équipes techniques. Bilan collectif sur une profession qui a produit de nombreux rôles stéréotypés.
 
 - lu 3 juil 20h15 GF  
 Séance présentée par Emilie Cauquy
@@ -227,11 +227,11 @@ Séance présentée par Emilie Cauquy
 [50892]  
 **Les Statues meurent aussi**  
 d'Alain Resnais, Chris Marker  
-France / 1953 / 31 min / VO / 35 mm  
+France / 1953 / 29 min / DCP  
 Documentaire sur l'art africain, pamphlet anticolonialiste et première collaboration entre Alain Resnais et Chris Marker. Le film fut censuré pendant onze ans.
 
 - di 9 juil 19h00 GF  
-Film précédé de _Nuit et brouillard_ d'Alain Resnais
+Film précédé de _Nuit et Brouillard_ d'Alain Resnais
 
 [68124]  
 **Sud**  

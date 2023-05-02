@@ -18,7 +18,7 @@ Daniel, un homosexuel aisé, tombe éperdument amoureux de Kyril, un attrayant B
 d'Eloy de la Iglesia  
 Espagne-France / 1973 / 95 min / VOSTF / Numérique  
 Avec Sue Lyon, Christopher Mitchum, Jean Sorel.  
-Dans un futur dystopique où la société est gouvernée par un État fasciste, une série de crimes terrifie les habitants d'une grande ville. Ana, infirmière du Grand Hôpital, se rend compte que les victimes sont toutes des jeunes tourmentés.
+Dans un futur dystopique où la société est gouvernée par un État fasciste, une série de crimes terrifie les habitants d'une grande ville. Ana, infirmière du Grand Hôpital, se rend compte que les victimes sont toutes de jeunes hommes tourmentés.
 
 - di 16 juil 17h45 GF
 

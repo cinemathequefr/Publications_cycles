@@ -574,7 +574,7 @@ suivi de
 [154153]  
 **Blue Streak**  
 de Mark Rappaport  
-États-Unis / 1971 / 16 min / STF / Numérique  
+États-Unis / 1971 / 16 min / Numérique  
 _Blue Streak_ conjugue un manifeste en faveur d'une sexualité diverse à la représentation du groupe et de la pluralité des corps.
 
 - sa 20 mai 20h30 GF  
@@ -605,7 +605,7 @@ suivi de
 [154156]  
 **Inner Man**  
 de Mako Idemitsu  
-États-Unis, Japon / 1972 / 4 min / VO / 16 mm  
+États-Unis, Japon / 1972 / 4 min / VO / Numérique  
 Film-performance sur la sexualité, qui inverse les codes de l'érotisme alors dominants : la réalisatrice est vêtue d'un kimono et le danseur est nu.  
 suivi de  
 [154008]  

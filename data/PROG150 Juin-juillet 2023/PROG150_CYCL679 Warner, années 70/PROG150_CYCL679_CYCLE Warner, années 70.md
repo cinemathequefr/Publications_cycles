@@ -28,7 +28,7 @@ Séance présentée par Nadav Lapid
 d'Arthur Penn  
 États-Unis / 1967 / 111 min / VOSTF / DCP  
 Avec Warren Beatty, Faye Dunaway, Michael J. Pollard, Gene Hackman.  
-États-Unis, pendant la Grande Dépression. Un couple d'amants, Bonnie Parker et Clyde Barrow, sillonne le pays en braquant des banques, et s'embarque dans une cavale sanglante.
+États-Unis, pendant la Grande Dépression. Un couple de malfrats, Bonnie Parker et Clyde Barrow, sillonne le pays en braquant des banques, et s'embarque dans une cavale sanglante.
 
 - me 31 mai 20h00 HL  
 Ouverture de la rétrospective
@@ -247,7 +247,7 @@ de Stanley Kubrick
 Grande-Bretagne / 1980 / 146 min / VOSTF / DCP  
 D'après le roman _Shining : L'Enfant lumière_ de Stephen King.  
 Avec Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers.  
-L'auteur Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.
+L'écrivain Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.
 
 - di 4 juin 20h15 HL
 
@@ -297,7 +297,7 @@ Un vagabond, abandonné par ses partenaires et au bord de l'agonie, trouve par h
 **Woodstock**  
 de Michael Wadleigh  
 États-Unis / 1970 / 185 min / VOSTF / DCP  
-Documentaire sur le célèbre festival organisé en août 1969 à Bethel, près de Woodstock (État de New York), qui rassembla 500 000 sepctateurs.
+Documentaire sur le célèbre festival organisé en août 1969 à Bethel, près de Woodstock (État de New York), qui rassembla 500 000 spectateurs.
 
 - lu 12 juin 19h00 GF
 

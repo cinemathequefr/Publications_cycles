@@ -18,7 +18,7 @@ Séance présentée par Jean A. Gili
 **Au diable la célébrité**  
 **(Al diavolo la celebrità)**  
 de Steno, Mario Monicelli  
-Italie / 1949 / 100 min / VO / Vidéo  
+Italie / 1949 / 100 min / VOSTF / Vidéo  
 Avec Leonardo Cortese, Marcel Cerdan, Mischa Auer, Carlo Campanini.  
 Un professeur spécialiste de l'Orient reçoit la visite du Diable, qui lui fera connaître les plaisirs de la célébrité en le réincarnant en ténor, puis en boxer.
 
@@ -458,7 +458,7 @@ Ercole Pappalardo, marié, cinq enfants, cherche par tous les moyens à gravir l
 **Totò et les femmes**  
 **(Totò e le donne)**  
 de Mario Monicelli, Steno  
-Italie / 1952 / 103 min / VOSTF  
+Italie / 1952 / 96 min / VOSTF  
 Avec Totò, Lea Padovani, Ave Ninchi, Alda Mangini.  
 Antonio Scapparo ne supporte plus sa femme et se réfugie dans le grenier pour lire des romans policiers, fumer le cigare, et prier son protecteur, Landru.
 

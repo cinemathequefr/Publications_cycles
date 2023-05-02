@@ -254,7 +254,7 @@ suivi de
 [141234]  
 **This Is Not an AIDS Advertisement**  
 d'Isaac Julien  
-Grande-Bretagne / 1988 / 11 min / VOSTF / Numérique  
+Grande-Bretagne / 1988 / 11 min / VO / Numérique  
 « Reconquête du terrain au temps du sida. » (Isaac Julien)  
 suivi de  
 [154207]  
@@ -756,7 +756,7 @@ suivi de
 [154232]  
 **Die Jungs vom Bahnhof Zoo**  
 de Rosa von Praunheim  
-Allemagne / 2011 / 84 min / DCP  
+Allemagne / 2011 / 84 min / VO / DCP  
 Avec Peter Kern, Sergiu Grimalschi, Lutz Volkwein.  
 Dans un Berlin hostile et complice, le film suit cinq « garçons à louer » dans leur quotidien, leur travail, leurs relations avec les clients, parmi lesquels le réalisateur Peter Kern, acteur pour Syberberg, Fassbinder et Schroeter.
 

@@ -28,7 +28,7 @@ Film précédé de _Histoire de trois amours : Mademoiselle_ de Vincente Minnell
 **Au revoir, Charlie**  
 **(Goodbye Charlie)**  
 de Vincente Minnelli  
-États-Unis / 1964 / 117 min / VOSTF / 35 mm  
+États-Unis / 1964 / 117 min / VOSTF / DCP  
 D'après la pièce _Goodbye Charlie_ de George Axelrod.  
 Avec Tony Curtis, Debbie Reynolds.  
 Charlie, un grand séducteur, est abattu par un mari jaloux. Il se réincarne sous les traits d'une fort jolie blonde et se fait alors passer pour sa propre veuve.
@@ -324,7 +324,7 @@ Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leu
 **(The Four Horsemen of the Apocalypse)**  
 de Vincente Minnelli  
 États-Unis / 1962 / 153 min / VOSTF / 35 mm  
-D'après le roman _Los Cuatro jinetes del Apocalipsis_ de Vicente Blasco Ibáñez.  
+D'après le roman _Quatre Cavaliers de l'Apocalypse_ de Vicente Blasco Ibáñez.  
 Avec Glenn Ford, Charles Boyer, Ingrid Thulin, Lee J. Cobb.  
 Deux branches d'une famille richissime, les Desnoyers et les Von Hartrott, se réunissent pour le retour d'Heinrich von Hartrott. À la stupeur générale, il leur apprend avoir abandonné ses études pour intégrer le parti nazi. Lorsque la guerre éclate, Heinrich rejoint les troupes allemandes et va devoir affronter son cousin Desnoyers.
 

@@ -55,7 +55,8 @@ de James Glickenhaus
 Avec Robert Ginty, Christopher George, Samantha Eggar.  
 Un vétéran du Vietnam voit son meilleur ami devenir infirme à la suite d'une agression par des loubards. Devant le peu d'intérêt que porte la police à l'affaire, il décide de mener l'enquête lui-même.
 
-- ve 16 juin 19h00 GF
+- ve 16 juin 19h00 GF  
+Séance présentée par Yal Sadat
 
 [56985]  
 **Les Rues de l'enfer**  
@@ -73,7 +74,7 @@ Un gang de punks ultra-violents sévit à Los Angeles. Menés par Jake, ses memb
 **Une vierge chez les morts-vivants**  
 **(Eine Jungfrau bei den lebenden Toten)**  
 de Jess Franco  
-Liechtenstein-France / 1971 / 93 min / VF / 35 mm  
+Liechtenstein-France / 1971 / 93 min / 35 mm  
 Avec Christina von Blanc, Howard Vernon, Britt Nichols, Paul Muller.  
 À la mort de son père, Christina arrive à Londres pour prendre connaissance du testament. Elle s'installe dans le château familial et découvre d'étranges personnages, qui se livrent à des jeux érotiques où se mêle le vampirisme.
 
@@ -149,7 +150,7 @@ Afin de regagner l'honneur de sa famille, Chen Ku Yung dérobe à Lu Tai Yeh le 
 **Karatéka érotica**  
 **(Long she hun za)**  
 de Lau Chan, Chun-Ku Lu  
-Hong-Kong / 1974 / 94 min / 35 mm  
+Hong-Kong / 1974 / 94 min / VF / 35 mm  
 Avec Jason Piao Pai, Chun-Ku Lu, Lau Chan.  
 Alan, tueur professionnel, est embauché par Mary pour récupérer les 200 000 dollars que lui doit Lee-Tak, un aventurier sans scrupules.
 

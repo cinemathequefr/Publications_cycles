@@ -18,8 +18,7 @@ Avant-première
 de François Truffaut  
 France / 1964 / 119 min  
 Avec Jean Desailly, Françoise Dorléac, Nelly Benedetti.  
-Pierre Lachenay, écrivain à succès et marié, entame une liaison avec Nicole, une hôtesse de l'air, sans parvenir à quitter sa femme.  
-Version numérique restaurée en haute définition par MK2.
+Pierre Lachenay, écrivain à succès et marié, entame une liaison avec Nicole, une hôtesse de l'air, sans parvenir à quitter sa femme.
 
 - di 2 juil 14h30 GF  
 Voir aussi dialogue p. xx
