@@ -28,7 +28,8 @@ En 1943, un commando de parachutistes américains est largué au-dessus de la zo
 de Raoul Walsh  
 États-Unis / 1953 / 83 min / VOSTF / DCP  
 D'après le roman _Ten against Caesar_ de Kathleen B. Granger , George Granger et Robert A. Granger.  
-Avec Rock Hudson, Donna Reed, Phil Carey.
+Avec Rock Hudson, Donna Reed, Phil Carey.  
+En Arizona, le gang de Frank Slayton dévalise une diligence et kidnappe la fiancée de Ben Warren, qui part immédiatement à la poursuite de Slayton.
 
 - di 10 sep 19h45 HL
 
@@ -38,7 +39,8 @@ Avec Rock Hudson, Donna Reed, Phil Carey.
 de Raoul Walsh  
 États-Unis / 1952 / 90 min / VOSTF / 16 mm  
 D'après le roman _Les Travailleurs de la mer_ de Victor Hugo.  
-Avec Yvonne De Carlo, Rock Hudson, Maxwell Reed.
+Avec Yvonne De Carlo, Rock Hudson, Maxwell Reed.  
+Une mystérieuse et troublante jeune femme, chargée de découvrir les projets napoléoniens d'invasion de l'Angleterre, bouleverse l'existence d'un contrebandier qui en tombe d'autant plus amoureux qu'il ne parvient pas à deviner sa véritable identité.
 
 - ve 15 sep 18h00 HL
 
@@ -48,7 +50,8 @@ Avec Yvonne De Carlo, Rock Hudson, Maxwell Reed.
 de Raoul Walsh  
 Grande-Bretagne-États-Unis / 1950 / 117 min / VOSTF / 35 mm  
 Avec Gregory Peck, James Robertson Justice, Christopher Lee.  
-A l'époque des guerres napoléonniennes, le capitaine Horation Hornblower est à la tête d'un petit vaisseau, en mission lointaine. Sur le chemin il rencontre un aventurier révolté contre l'Espagne, qu'il veut aider en lui cédant un autre vaisseau. _« Le scénario de ce film de Raoul Walsh est si bon qu'on n'y pense jamais au cours du film. »_
+A l'époque des guerres napoléonniennes, le capitaine Horation Hornblower est à la tête d'un petit vaisseau, en mission lointaine. Sur le chemin il rencontre un aventurier révolté contre l'Espagne, qu'il veut aider en lui cédant un autre vaisseau.  
+Copie Technicolor original.
 
 - sa 9 sep 14h30 HL
 
@@ -57,7 +60,8 @@ A l'époque des guerres napoléonniennes, le capitaine Horation Hornblower est �
 **(They Died with Their Boots On)**  
 de Raoul Walsh  
 États-Unis / 1941 / 140 min / VOSTF / 35 mm  
-Avec Errol Flynn, Olivia De Havilland, Arthur Kennedy.
+Avec Errol Flynn, Olivia De Havilland, Arthur Kennedy.  
+1857\. A l'académie militaire de West Point, George Armstrong Custer se fait remarquer tant par son indiscipline que par son talent. La guerre de Sécession éclate, il prendra part à l'affrontement contre les indiens de Crazy Horse.
 
 - sa 2 sep 16h30 HL
 
@@ -65,7 +69,8 @@ Avec Errol Flynn, Olivia De Havilland, Arthur Kennedy.
 **Cheyenne**  
 de Raoul Walsh  
 États-Unis / 1947 / 100 min / VOSTF / 16 mm  
-Avec Arthur Kennedy.
+Avec Jane Wyman, Dennis Morgan, Janis Paige.  
+Un joueur professionnel accepte d'aider la police en capturant un bandit spécialisé dans l'attaque de diligences.
 
 - me 13 sep 20h00 HL
 
@@ -74,7 +79,8 @@ Avec Arthur Kennedy.
 **(Along the Great Divide)**  
 de Raoul Walsh  
 États-Unis / 1951 / 101 min / VOSTF / 35 mm  
-Avec Kirk Douglas, Virginia Mayo, Walter Brennan.
+Avec Kirk Douglas, Virginia Mayo, Walter Brennan.  
+Nouveau-Mexique, au début du XXe siècle, Medora Callum recueille Jeb Rand, un jeune enfant dont le père vient d'être assassiné, et l'élève avec ses deux propres enfants, Thorley et Adam. Ceux-ci devenus adultes, elle veut partager ses biens en trois parts égales.
 
 - sa 9 sep 17h00 HL
 
@@ -83,7 +89,8 @@ Avec Kirk Douglas, Virginia Mayo, Walter Brennan.
 **(Northern Pursuit)**  
 de Raoul Walsh  
 États-Unis / 1943 / 93 min / VOSTF / 35 mm  
-Avec Errol Flynn, Julie Bishop, Helmut Dantine.
+Avec Errol Flynn, Julie Bishop, Helmut Dantine.  
+Des aviateurs allemands débarquent secrètement au Canada pour y saboter les voies de communication. A la suite d'une avalanche, tous sont tués sauf le chef, Von Keller, qui est capturé par la police.
 
 - di 3 sep 19h00 HL
 
@@ -92,7 +99,8 @@ Avec Errol Flynn, Julie Bishop, Helmut Dantine.
 **(White Heat)**  
 de Raoul Walsh  
 États-Unis / 1949 / 115 min / VOSTF / 35 mm  
-Avec James Cagney, Virginia Mayo, Edmond O'Brien.
+Avec James Cagney, Virginia Mayo, Edmond O'Brien.  
+Le gangster Cody Jarrett et ses complices attaquent un train en Californie. Pendant l'opération, quatre employés sont tués. La police est déterminée à retrouver les coupables et surveille la mère de Cody, à laquelle ce dernier voue une adoration pathologique.
 
 - me 30 aoû 20h00 HL  
 Ouverture de la rétrospective
@@ -102,7 +110,8 @@ Ouverture de la rétrospective
 **(Manpower)**  
 de Raoul Walsh  
 États-Unis / 1947 / 104 min / VOSTF / 35 mm  
-Avec Edward G. Robinson, Marlene Dietrich, George Raft.
+Avec Edward G. Robinson, Marlene Dietrich, George Raft.  
+Johnny Marshall et Hank McHenry sont deux amis réparateurs de lignes électriques à haute tension qui jouent chaque jour avec le feu face aux dangers de leur métier. Un soir, ils font la connaissance de Fay, une chanteuse de cabaret, qui sème le trouble dans leur amitié.
 
 - sa 2 sep 19h30 HL
 
@@ -111,7 +120,8 @@ Avec Edward G. Robinson, Marlene Dietrich, George Raft.
 **(The Roaring Twenties)**  
 de Raoul Walsh  
 États-Unis / 1939 / 106 min / VOSTF / 35 mm  
-Avec James Cagney, Priscilla Lane, Humphrey Bogart.
+Avec James Cagney, Priscilla Lane, Humphrey Bogart.  
+Trois soldats américains qui ont combattu en France pendant la Première Guerre mondiale se séparent et retournent à la vie civile. La prohibition va de nouveau les réunir pour le meilleur et pour le pire.
 
 - ve 1 sep 18h00 HL
 
@@ -122,7 +132,8 @@ de Raoul Walsh
 États-Unis / 1949 / 94 min / VOSTF / 35 mm  
 D'après le roman _High Sierra_ et le scénario du film éponyme de W.R. Burnett.  
 D'après le film _High Sierra_ de Raoul Walsh.  
-Avec Dorothy Malone, Joel McCrea, Virginia Mayo.
+Avec Dorothy Malone, Joel McCrea, Virginia Mayo.  
+En 1870, dans une Amérique en voie de pacification, le hors-la-loi Wes McQueen parvient à s'évader de prison et à rejoindre ses complices avec qui il projette de braquer un train.
 
 - ve 8 sep 20h15 HL
 
@@ -131,7 +142,8 @@ Avec Dorothy Malone, Joel McCrea, Virginia Mayo.
 **(The Wanderer)**  
 de Raoul Walsh  
 États-Unis / 1925 / 90 min / INT. FR. / 35 mm  
-Avec Wallace Beery.
+Avec Wallace Beery, Greta Nissen, William Collier Jr..  
+Jether, un berger, est attiré par Tisha, prêtresse d'Ishtar. Il se rend à Babylone et y dilapide son héritage en couvrant Tisha de cadeaux et en vivant une vie dissolue.
 
 - je 31 aoû 20h00 GF
 
@@ -140,7 +152,8 @@ Avec Wallace Beery.
 **(Fighter Squadron)**  
 de Raoul Walsh  
 États-Unis / 1948 / 96 min / VOSTF / 16 mm  
-Avec Robert Stack, Edmond O'Brien, Rock Hudson.
+Avec Robert Stack, Edmond O'Brien, Rock Hudson.  
+Le capitaine Hamilton fait partie d'une escadrille basée en Angleterre pendant la Seconde guerre mondiale. Après un acte héroïque, il est autorisé à rentrer aux États-Unis pendant un mois où il annonce son mariage. Il s'attire ainsi les foudres du major qui impose le célibat à ses hommes.
 
 - je 14 sep 18h00 HL
 
@@ -171,7 +184,8 @@ Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de pr
 de Raoul Walsh  
 États-Unis / 1942 / 80 min / VOSTF / 35 mm  
 D'après le roman _Background to Danger_ d'Eric Ambler.  
-Avec George Raft, Brenda Marshall, Sydney Greenstreet.
+Avec George Raft, Brenda Marshall, Sydney Greenstreet.  
+A Ankara, pendant la Seconde Guerre Mondiale, un agent américain tente d'empêcher une alliance entre la Turquie et l'Allemagne.
 
 - me 13 sep 18h00 HL
 
@@ -180,7 +194,8 @@ Avec George Raft, Brenda Marshall, Sydney Greenstreet.
 de Raoul Walsh  
 États-Unis / 1946 / 96 min / VOSTF / 16 mm  
 D'après le roman _Night Shift_ de Maritta Wolff.  
-Avec Ida Lupino, Robert Alda, Andrea King.
+Avec Ida Lupino, Robert Alda, Andrea King.  
+Une chanteuse de night-club retourne dans sa famille et découvre la decheance dans laquelle sont tombes son frère et un pianiste qu'elle admirait.
 
 - je 7 sep 18h00 HL
 
@@ -190,7 +205,7 @@ Avec Ida Lupino, Robert Alda, Andrea King.
 de Raoul Walsh  
 États-Unis / 1952 / 104 min / VOSTF / 35 mm  
 Avec Anthony Quinn, Gregory Peck, Ann Blyth.  
-Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco. Là, il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper au Prince Semyon, un prétendant imposé par le tsar. Elle séduit Jonathan afin qu'il l'embarque à bord et ils tombent amoureux. Mais le Prince Semyon l'enlève.
+Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper au Prince Semyon, un prétendant imposé par le tsar.
 
 - sa 9 sep 19h30 HL
 
@@ -198,7 +213,9 @@ Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco. L�
 **Pillars of Society**  
 de Raoul Walsh, George Nicholls  
 États-Unis / 1915 / 52 min / INT. FR. / 35 mm  
-D'après la pièce _Samfundets Stotter_ de Henrik Ibsen.
+D'après la pièce _Samfundets Stotter_ de Henrik Ibsen.  
+Avec Henry B. Walthall, Mary Alden, Juanita Archer.  
+Un mateur, dont la fortune est due au mensonge et a la duplicité, devra faire amende honorable.
 
 - je 31 aoû 18h30 GF
 

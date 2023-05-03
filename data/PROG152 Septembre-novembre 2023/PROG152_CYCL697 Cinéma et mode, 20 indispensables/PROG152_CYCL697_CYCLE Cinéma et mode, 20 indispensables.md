@@ -2,110 +2,45 @@
 
 ## Les films
 
-[30636]  
-****  
-undefined  
-95 min / VO / 35 mm
-
-- sa 16 sep 16h15 GF
-
-[31479]  
-****  
-undefined  
-134 min / VOSTF / 35 mm
-
-- sa 16 sep 16h15 GF
-
-[42714]  
-****  
-undefined
-
-- me 13 sep 20h30 GF
-
-[43398]  
-****  
-undefined  
-119 min / VOSTF / 35 mm
-
-- me 6 sep 20h45 GF
-
-[47063]  
-****  
-undefined  
-95 min / 16 mm
-
-- di 10 sep 17h15 GF
-
-[48724]  
-****  
-undefined  
-35 mm
-
-- sa 9 sep 19h45 GF
-
-[52603]  
-****  
-undefined  
-133 min
-
-- me 6 sep 18h00 GF
-
-[76324]  
-****  
-undefined  
-89 min
-
-- je 31 aoû 20h00 HL  
-Ouverture de la rétrospective
-
-[100397]  
-****  
-undefined  
-110 min / VOSTF / 35 mm
-
-- di 3 sep 15h00 GF
-
 [107293]  
-****  
-undefined  
-110 min / 35 mm
+**Coco avant Chanel**  
+d'Anne Fontaine  
+France-Belgique / 2008 / 110 min / 35 mm  
+D'après le roman _L'Irrégulière ou mon itinéraire Chanel_ d'Edmonde Charles-Roux.  
+Avec Audrey Tautou, Benoît Poelvoorde, Alessandro Nivola.  
+L'histoire fascinante de Coco Chanel, une jeune femme partie de rien, devenue reine de la haute couture parisienne et véritable icône de la mode.
 
 - di 3 sep 17h15 GF
 
 [107938]  
-****  
-undefined  
-118 min / 35 mm
+**Coco Chanel et Igor Stravinsky**  
+de Jan Kounen  
+France-Japon / 2008 / 118 min / 35 mm  
+D'après le roman _Coco & Igor_ de Chris Greenhalgh.  
+Avec Anna Mouglalis, Mads Mikkelsen, Elena Morozova.  
+Les amours brèves et orageuses entre deux légendes de la musique et de la mode, qui chacune à sa manière ont révolutionné leur époque.
 
 - di 3 sep 19h30 GF
 
-[123300]  
-****  
-undefined  
-135 min
+[47063]  
+**Le Couturier de ces dames**  
+de Jean Boyer  
+France / 1956 / 95 min / 16 mm  
+Avec Fernandel, Suzy Delair, Françoise Fabian.  
+Simple coupeur chez un tailleur, Fernand Vignard accède à son rêve de tenir sa propre maison grâce à un héritage.
 
-- di 17 sep 16h15 GF
+- di 10 sep 17h15 GF
 
-[131532]  
-****  
-undefined  
-105 min
+[100397]  
+**Le Diable s'habille en Prada**  
+**(The Devil Wears Prada)**  
+de David Frankel  
+États-Unis / 2005 / 110 min / VOSTF / 35 mm  
+D'après le roman _The Devil Wears Prada_ de Lauren Weisberger.  
+Avec Meryl Streep, Anne Hathaway, Emily Blunt.  
+Une jeune et brillante diplômée s'installe à New York et devient l'assistante d'une rédactrice en chef tyrannique d'un grand magazine de mode.
 
-- sa 2 sep 17h45 GF
-
-[131583]  
-****  
-undefined  
-117 min / VOSTF / DCP
-
-- sa 2 sep 20h00 GF
-
-[138368]  
-****  
-undefined  
-130 min
-
-- sa 2 sep 15h00 GF
+- di 3 sep 15h00 GF
 
 [31344]  
 **Drôle de frimousse**  
@@ -126,6 +61,16 @@ Un couturier parisien, incorrigible séducteur, s'intéresse à la fiancée de s
 
 - di 10 sep 19h15 GF
 
+[43398]  
+**Fellini Roma**  
+**(Roma)**  
+de Federico Fellini  
+Italie-France / 1971 / 119 min / VOSTF / 35 mm  
+Avec Peter Gonzales Falcon, Fiona Florence, Marne Maitland.  
+Rome de 1930 à nos jours vue par un de ses admirateurs, Federico Fellini. Fresque monumentale où réalité et fantasme sont étroitement mêlés.
+
+- me 6 sep 20h45 GF
+
 [35221]  
 **La Femme modèle**  
 **(Designing Woman)**  
@@ -136,6 +81,84 @@ Marilla et Mike se marient, avant de se rendre compte qu'ils appartiennent à de
 
 - sa 9 sep 17h15 GF
 
+[31479]  
+**Femmes**  
+**(The Women)**  
+de George Cukor  
+États-Unis / 1939 / 134 min / VOSTF / 35 mm  
+Avec Norma Shearer, Joan Crawford, Rosalind Russell.  
+Une femme mariée retrouve régulièrement ses amies. Certaines d'entre elles sont au courant que son mari la trompe, ce qu'elle ignore.
+
+- sa 16 sep 16h15 GF
+
+[30636]  
+**Mannequin**  
+de Frank Borzage  
+États-Unis / 1937 / 95 min / VO / 35 mm  
+D'après l'histoire _Marry for Money_ de Katharine Brush.  
+Avec Spencer Tracy, Joan Crawford, Alan Curtis.  
+Une jeune femme entretient sa famille dans un petit appartement. N'en pouvant plus, elle insiste auprès de son amoureux pour qu'ils se marient. Le soir de la noce, l'époux pousse la jeune femme à danser avec un riche armateur.
+
+---
+
+Texte à saisir
+
+- sa 16 sep 16h15 GF
+
+[48724]  
+**La Mariée est trop belle**  
+de Pierre Gaspard-Huit  
+France / 1956 / 35 mm  
+Avec Brigitte Bardot, Louis Jourdan, Micheline Presle.  
+Chouchou, jeune mannequin remarqué par Judith, rédactrice d'un journal féminin, tombe amoureuse de Michel, l'amant de cette dernière.
+
+- sa 9 sep 19h45 GF
+
+[131583]  
+**The Neon Demon**  
+de Nicolas Winding Refn  
+Danemark-États-Unis / 2015 / 117 min / VOSTF / DCP  
+Avec Elle Fanning, Karl Glusman, Jena Malone, Keanu Reeves.  
+Une jeune fille débarque à Los Angeles. Son rêve est de devenir mannequin. Son ascension fulgurante et sa pureté suscitent jalousies et convoitises. Certaines filles s'inclinent devant elle, d'autres sont prêtes à tout pour lui voler sa beauté...
+
+---
+
+Jesse débarque à Los Angeles pour faire carrière dans le mannequinat. Sa beauté naturelle lui vaut d'être immédiatement remarquée. Mais les jalousies à son égard se font de plus en plus violentes.
+
+- sa 2 sep 20h00 GF
+
+[42714]  
+**Où est passé Jessica ?**  
+**(Sotto il vestito niente)**  
+de Carlo Vanzina  
+Italie / 1985
+
+- me 13 sep 20h30 GF
+
+[131532]  
+**Personal Shopper**  
+d'Olivier Assayas  
+France-République tchèque-Allemagne-Belgique / 2015 / 105 min  
+Avec Kristen Stewart, Lars Eidinger, Sigrid Bouaziz.  
+Maureen, jeune Américaine à Paris, s'occupe de la garde-robe d'une célébrité. Un jour, son frère jumeau récemment disparu semble se remettre en contact avec elle.
+
+- sa 2 sep 17h45 GF
+
+[138368]  
+**Phantom Thread**  
+de Paul Thomas Anderson  
+États-Unis / 2017 / 130 min
+
+- sa 2 sep 15h00 GF
+
+[52603]  
+**Prêt à porter**  
+**(Ready to Wear)**  
+de Robert Altman  
+États-Unis-France / 1994 / 133 min
+
+- me 6 sep 18h00 GF
+
 [49481]  
 **Qui êtes-vous Polly Maggoo ?**  
 de William Klein  
@@ -144,6 +167,13 @@ Avec Dorothy McGowan, Jean Rochefort, Sami Frey, Philippe Noiret.
 Polly Maggoo, mannequin superstar, est interviewée par une équipe de télévision sur la mode, sa vie, et le prince étranger qui veut l'épouser.
 
 - sa 9 sep 15h00 GF
+
+[123300]  
+**Saint-Laurent**  
+de Bertrand Bonello  
+France-Belgique / 2013 / 135 min
+
+- di 17 sep 16h15 GF
 
 [83125]  
 **Six femmes pour l'assassin**  
@@ -154,4 +184,12 @@ Avec Eva Bartok, Cameron Mitchell, Thomas Reiner.
 Une série de meurtres est perpétrée sur les mannequins d'une maison de haute couture réputée.
 
 - me 13 sep 18h30 GF
+
+[76324]  
+**Zoolander**  
+de Ben Stiller  
+États-Unis / 2000 / 89 min
+
+- je 31 aoû 20h00 HL  
+Ouverture de la rétrospective
 

@@ -4,18 +4,32 @@
 
   * Eté dernier
 
-## Cinéma et mode, 20 indispensables (6)
+## Cinéma et mode, 20 indispensables (20)
 
+  * Coco avant Chanel  
+  * Coco Chanel et Igor Stravinsky  
+  * Couturier de ces dames (Le)  
+  * Diable s'habille en Prada (Le)  
   * Drôle de frimousse  
   * Falbalas  
+  * Fellini Roma  
   * Femme modèle (La)  
+  * Femmes  
+  * Mannequin  
+  * Mariée est trop belle (La)  
+  * Neon Demon (The)  
+  * Où est passé Jessica ?  
+  * Personal Shopper  
+  * Phantom Thread  
+  * Prêt à porter  
   * Qui êtes-vous Polly Maggoo ?  
+  * Saint-Laurent  
   * Six femmes pour l'assassin  
-  * undefined
+  * Zoolander
 
 ## Jerry Lewis (1)
 
-  * undefined
+  * Dingue du palace (Le)
 
 ## Raoul Walsh (29)
 

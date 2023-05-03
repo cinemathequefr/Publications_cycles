@@ -5,190 +5,24 @@
     "textes": [],
     "items": [
       {
-        "idFilm": 30636,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 95,
-        "format": "35 mm",
-        "version": "VO",
-        "seances": [
-          {
-            "idSeance": 104411,
-            "ordre": 1,
-            "dateHeure": "2023-09-16T16:15:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 31479,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 134,
-        "format": "35 mm",
-        "version": "VOSTF",
-        "seances": [
-          {
-            "idSeance": 104410,
-            "ordre": 1,
-            "dateHeure": "2023-09-16T16:15:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 42714,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 0,
-        "format": "",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104407,
-            "ordre": 1,
-            "dateHeure": "2023-09-13T20:30:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 43398,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 119,
-        "format": "35 mm",
-        "version": "VOSTF",
-        "seances": [
-          {
-            "idSeance": 104399,
-            "ordre": 1,
-            "dateHeure": "2023-09-06T20:45:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 47063,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 95,
-        "format": "16 mm",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104404,
-            "ordre": 1,
-            "dateHeure": "2023-09-10T17:15:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 48724,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 0,
-        "format": "35 mm",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104402,
-            "ordre": 1,
-            "dateHeure": "2023-09-09T19:45:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 52603,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 133,
-        "format": "",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104398,
-            "ordre": 1,
-            "dateHeure": "2023-09-06T18:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 76324,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 89,
-        "format": "",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104304,
-            "ordre": 1,
-            "dateHeure": "2023-08-31T20:00:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ],
-            "mention": "Ouverture de la rétrospective",
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 100397,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 110,
-        "format": "35 mm",
-        "version": "VOSTF",
-        "seances": [
-          {
-            "idSeance": 104394,
-            "ordre": 1,
-            "dateHeure": "2023-09-03T15:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
         "idFilm": 107293,
         "typeEvenement": 13,
-        "textes": [],
+        "titre": "Coco avant Chanel",
+        "realisateurs": "Anne Fontaine",
+        "annee": 2008,
+        "pays": "France-Belgique",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "L'histoire fascinante de Coco Chanel, une jeune femme partie de rien, devenue reine de la haute couture parisienne et véritable icône de la mode."
+          }
+        ],
+        "adaptation": "D'après le roman _L'Irrégulière ou mon itinéraire Chanel_ d'Edmonde Charles-Roux.",
+        "generique": [
+          "Audrey Tautou",
+          "Benoît Poelvoorde",
+          "Alessandro Nivola"
+        ],
         "duree": 110,
         "format": "35 mm",
         "version": "",
@@ -208,7 +42,22 @@
       {
         "idFilm": 107938,
         "typeEvenement": 13,
-        "textes": [],
+        "titre": "Coco Chanel et Igor Stravinsky",
+        "realisateurs": "Jan Kounen",
+        "annee": 2008,
+        "pays": "France-Japon",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Les amours brèves et orageuses entre deux légendes de la musique et de la mode, qui chacune à sa manière ont révolutionné leur époque."
+          }
+        ],
+        "adaptation": "D'après le roman _Coco & Igor_ de Chris Greenhalgh.",
+        "generique": [
+          "Anna Mouglalis",
+          "Mads Mikkelsen",
+          "Elena Morozova"
+        ],
         "duree": 118,
         "format": "35 mm",
         "version": "",
@@ -226,17 +75,32 @@
         ]
       },
       {
-        "idFilm": 123300,
+        "idFilm": 47063,
         "typeEvenement": 13,
-        "textes": [],
-        "duree": 135,
-        "format": "",
+        "titre": "Couturier de ces dames",
+        "art": "Le",
+        "realisateurs": "Jean Boyer",
+        "annee": 1956,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Simple coupeur chez un tailleur, Fernand Vignard accède à son rêve de tenir sa propre maison grâce à un héritage."
+          }
+        ],
+        "generique": [
+          "Fernandel",
+          "Suzy Delair",
+          "Françoise Fabian"
+        ],
+        "duree": 95,
+        "format": "16 mm",
         "version": "",
         "seances": [
           {
-            "idSeance": 104413,
+            "idSeance": 104404,
             "ordre": 1,
-            "dateHeure": "2023-09-17T16:15:00",
+            "dateHeure": "2023-09-10T17:15:00",
             "idSalle": [
               "GF",
               "Georges Franju"
@@ -246,57 +110,35 @@
         ]
       },
       {
-        "idFilm": 131532,
+        "idFilm": 100397,
         "typeEvenement": 13,
-        "textes": [],
-        "duree": 105,
-        "format": "",
-        "version": "",
-        "seances": [
+        "titre": "Diable s'habille en Prada",
+        "art": "Le",
+        "titreVo": "Devil Wears Prada",
+        "artVo": "The",
+        "realisateurs": "David Frankel",
+        "annee": 2005,
+        "pays": "États-Unis",
+        "textes": [
           {
-            "idSeance": 104388,
-            "ordre": 1,
-            "dateHeure": "2023-09-02T17:45:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
+            "typeTexte": 9,
+            "texte": "Une jeune et brillante diplômée s'installe à New York et devient l'assistante d'une rédactrice en chef tyrannique d'un grand magazine de mode."
           }
-        ]
-      },
-      {
-        "idFilm": 131583,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 117,
-        "format": "DCP",
+        ],
+        "adaptation": "D'après le roman _The Devil Wears Prada_ de Lauren Weisberger.",
+        "generique": [
+          "Meryl Streep",
+          "Anne Hathaway",
+          "Emily Blunt"
+        ],
+        "duree": 110,
+        "format": "35 mm",
         "version": "VOSTF",
         "seances": [
           {
-            "idSeance": 104389,
+            "idSeance": 104394,
             "ordre": 1,
-            "dateHeure": "2023-09-02T20:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 138368,
-        "typeEvenement": 13,
-        "textes": [],
-        "duree": 130,
-        "format": "",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104387,
-            "ordre": 1,
-            "dateHeure": "2023-09-02T15:00:00",
+            "dateHeure": "2023-09-03T15:00:00",
             "idSalle": [
               "GF",
               "Georges Franju"
@@ -377,6 +219,41 @@
         ]
       },
       {
+        "idFilm": 43398,
+        "typeEvenement": 13,
+        "titre": "Fellini Roma",
+        "titreVo": "Roma",
+        "realisateurs": "Federico Fellini",
+        "annee": 1971,
+        "pays": "Italie-France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Rome de 1930 à nos jours vue par un de ses admirateurs, Federico Fellini. Fresque monumentale où réalité et fantasme sont étroitement mêlés."
+          }
+        ],
+        "generique": [
+          "Peter Gonzales Falcon",
+          "Fiona Florence",
+          "Marne Maitland"
+        ],
+        "duree": 119,
+        "format": "35 mm",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 104399,
+            "ordre": 1,
+            "dateHeure": "2023-09-06T20:45:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
         "idFilm": 35221,
         "typeEvenement": 13,
         "titre": "Femme modèle",
@@ -403,6 +280,256 @@
             "idSeance": 104401,
             "ordre": 1,
             "dateHeure": "2023-09-09T17:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 31479,
+        "typeEvenement": 13,
+        "titre": "Femmes",
+        "titreVo": "Women",
+        "artVo": "The",
+        "realisateurs": "George Cukor",
+        "annee": 1939,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une femme mariée retrouve régulièrement ses amies. Certaines d'entre elles sont au courant que son mari la trompe, ce qu'elle ignore."
+          }
+        ],
+        "generique": [
+          "Norma Shearer",
+          "Joan Crawford",
+          "Rosalind Russell"
+        ],
+        "duree": 134,
+        "format": "35 mm",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 104410,
+            "ordre": 1,
+            "dateHeure": "2023-09-16T16:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 30636,
+        "typeEvenement": 13,
+        "titre": "Mannequin",
+        "realisateurs": "Frank Borzage",
+        "annee": 1937,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une jeune femme entretient sa famille dans un petit appartement. N'en pouvant plus, elle insiste auprès de son amoureux pour qu'ils se marient. Le soir de la noce, l'époux pousse la jeune femme à danser avec un riche armateur.\n\n---\n\nTexte à saisir"
+          }
+        ],
+        "adaptation": "D'après l'histoire _Marry for Money_ de Katharine Brush.",
+        "generique": [
+          "Spencer Tracy",
+          "Joan Crawford",
+          "Alan Curtis"
+        ],
+        "duree": 95,
+        "format": "35 mm",
+        "version": "VO",
+        "seances": [
+          {
+            "idSeance": 104411,
+            "ordre": 1,
+            "dateHeure": "2023-09-16T16:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 48724,
+        "typeEvenement": 13,
+        "titre": "Mariée est trop belle",
+        "art": "La",
+        "realisateurs": "Pierre Gaspard-Huit",
+        "annee": 1956,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Chouchou, jeune mannequin remarqué par Judith, rédactrice d'un journal féminin, tombe amoureuse de Michel, l'amant de cette dernière."
+          }
+        ],
+        "generique": [
+          "Brigitte Bardot",
+          "Louis Jourdan",
+          "Micheline Presle"
+        ],
+        "duree": 0,
+        "format": "35 mm",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104402,
+            "ordre": 1,
+            "dateHeure": "2023-09-09T19:45:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 131583,
+        "typeEvenement": 13,
+        "titre": "Neon Demon",
+        "art": "The",
+        "realisateurs": "Nicolas Winding Refn",
+        "annee": 2015,
+        "pays": "Danemark-États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une jeune fille débarque à Los Angeles. Son rêve est de devenir mannequin. Son ascension fulgurante et sa pureté suscitent jalousies et convoitises. Certaines filles s'inclinent devant elle, d'autres sont prêtes à tout pour lui voler sa beauté...\n\n---\n\nJesse débarque à Los Angeles pour faire carrière dans le mannequinat. Sa beauté naturelle lui vaut d'être immédiatement remarquée. Mais les jalousies à son égard se font de plus en plus violentes."
+          }
+        ],
+        "generique": [
+          "Elle Fanning",
+          "Karl Glusman",
+          "Jena Malone",
+          "Keanu Reeves"
+        ],
+        "duree": 117,
+        "format": "DCP",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 104389,
+            "ordre": 1,
+            "dateHeure": "2023-09-02T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 42714,
+        "typeEvenement": 13,
+        "titre": "Où est passé Jessica ?",
+        "titreVo": "Sotto il vestito niente",
+        "realisateurs": "Carlo Vanzina",
+        "annee": 1985,
+        "pays": "Italie",
+        "textes": [],
+        "duree": 0,
+        "format": "",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104407,
+            "ordre": 1,
+            "dateHeure": "2023-09-13T20:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 131532,
+        "typeEvenement": 13,
+        "titre": "Personal Shopper",
+        "realisateurs": "Olivier Assayas",
+        "annee": 2015,
+        "pays": "France-République tchèque-Allemagne-Belgique",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Maureen, jeune Américaine à Paris, s'occupe de la garde-robe d'une célébrité. Un jour, son frère jumeau récemment disparu semble se remettre en contact avec elle."
+          }
+        ],
+        "generique": [
+          "Kristen Stewart",
+          "Lars Eidinger",
+          "Sigrid Bouaziz"
+        ],
+        "duree": 105,
+        "format": "",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104388,
+            "ordre": 1,
+            "dateHeure": "2023-09-02T17:45:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 138368,
+        "typeEvenement": 13,
+        "titre": "Phantom Thread",
+        "realisateurs": "Paul Thomas Anderson",
+        "annee": 2017,
+        "pays": "États-Unis",
+        "textes": [],
+        "duree": 130,
+        "format": "",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104387,
+            "ordre": 1,
+            "dateHeure": "2023-09-02T15:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 52603,
+        "typeEvenement": 13,
+        "titre": "Prêt à porter",
+        "titreVo": "Ready to Wear",
+        "realisateurs": "Robert Altman",
+        "annee": 1994,
+        "pays": "États-Unis-France",
+        "textes": [],
+        "duree": 133,
+        "format": "",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104398,
+            "ordre": 1,
+            "dateHeure": "2023-09-06T18:00:00",
             "idSalle": [
               "GF",
               "Georges Franju"
@@ -447,6 +574,30 @@
         ]
       },
       {
+        "idFilm": 123300,
+        "typeEvenement": 13,
+        "titre": "Saint-Laurent",
+        "realisateurs": "Bertrand Bonello",
+        "annee": 2013,
+        "pays": "France-Belgique",
+        "textes": [],
+        "duree": 135,
+        "format": "",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104413,
+            "ordre": 1,
+            "dateHeure": "2023-09-17T16:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
         "idFilm": 83125,
         "typeEvenement": 13,
         "titre": "Six femmes pour l'assassin",
@@ -477,6 +628,31 @@
               "GF",
               "Georges Franju"
             ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 76324,
+        "typeEvenement": 13,
+        "titre": "Zoolander",
+        "realisateurs": "Ben Stiller",
+        "annee": 2000,
+        "pays": "États-Unis",
+        "textes": [],
+        "duree": 89,
+        "format": "",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104304,
+            "ordre": 1,
+            "dateHeure": "2023-08-31T20:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "mention": "Ouverture de la rétrospective",
             "typeEvenement": 13
           }
         ]
