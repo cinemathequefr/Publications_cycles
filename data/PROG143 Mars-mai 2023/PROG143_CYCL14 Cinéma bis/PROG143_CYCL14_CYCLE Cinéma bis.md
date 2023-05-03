@@ -74,7 +74,7 @@ Durant l'été 1943, des officiers de l'OSS sont parachutés en France avec pour
 **FBI contre Lotus Bleu**  
 **(Agente 077: Missione Bloody Mary)**  
 de Sergio Grieco  
-Italie-France-Espagne / 1965 / 95 min / VF / Numérique  
+Italie-France-Espagne / 1965 / 95 min / VF / DCP  
 Avec Ken Clark, Helga Liné, Philippe Hersent, Mitsouko.  
 L'agent secret Dick Malloy traque le gang du Lotus Bleu à travers l'Europe pour récupérer la bombe atomique miniature qu'il a dérobée.  
 Film réalisé sous le pseudonyme de Terence Hathaway.
@@ -85,7 +85,7 @@ Film réalisé sous le pseudonyme de Terence Hathaway.
 **Coup de force à Berlin**  
 **(Tiffany Memorandum)**  
 de Sergio Grieco  
-Italie-France / 1967 / 95 min / VF / Numérique  
+Italie-France / 1967 / 95 min / VF / DCP  
 Avec Ken Clark, Irina Demick, Luigi Vannucchi.  
 À Paris, le reporter Dick Hallam est témoin de l'assassinat d'un politicien d'Amérique centrale. Espérant rapporter un scoop, il se lance dans sa propre enquête.  
 Film réalisé sous le pseudonyme de Terence Hathaway.

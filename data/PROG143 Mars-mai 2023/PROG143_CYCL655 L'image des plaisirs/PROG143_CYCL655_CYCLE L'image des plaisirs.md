@@ -24,7 +24,7 @@ France / 2021 / 20 min / VOSTF / Numérique
 suivi de  
 [154348]  
 **Cinema's First Kiss Was Between Two Women**  
-de Lily Alexandre  
+de Lily Alexandre, Edward Rose, Beryl Parkey  
 Canada / 2022 / 2 min / VO / Numérique  
 « Le premier baiser filmé fut une pierre blanche queer et un moment charnière dans l'histoire du cinéma, mais presque personne n'en a entendu parler. » (Lily Alexandre)  
 suivi de  
