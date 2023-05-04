@@ -27,19 +27,26 @@
   * Six femmes pour l'assassin  
   * Zoolander
 
+## Cédric Kahn (1)
+
+  * Procès Goldman (Le)
+
 ## Jerry Lewis (1)
 
   * Dingue du palace (Le)
 
-## Raoul Walsh (29)
+## Raoul Walsh (35)
 
+  * Au service de la gloire  
   * Aventures du capitaine Wyatt (Les)  
   * Aventures en Birmanie  
   * Bataille sans merci  
   * Belle espionne (La)  
+  * Bungalow pour femmes  
   * Capitaine sans peur  
   * Charge fantastique (La)  
   * Cheyenne  
+  * Cri de la victoire (Le)  
   * Désert de la peur = Une corde pour te pendre (Le)  
   * Du sang sur la neige  
   * Enfer est à lui (L')  
@@ -50,11 +57,14 @@
   * Géants du ciel (Les)  
   * Gentleman Jim  
   * Grande évasion (La)  
+  * Implacables (Les)  
   * Intrigues en Orient  
   * Man I Love (The)  
   * Monde lui appartient (Le)  
   * Pillars of Society  
+  * Piste des géants (La)  
   * Rivière d'argent (La)  
+  * Roi et quatre reines (Le)  
   * Sabotage à Berlin  
   * Saboteur sans gloire  
   * Un lion dans la rue = L'Homme à abattre  

@@ -2,6 +2,17 @@
 
 ## Les films
 
+[45140]  
+**Au service de la gloire**  
+**(What Price Glory ?)**  
+de Raoul Walsh  
+États-Unis / 1926 / 120 min / INT. FR. / 35 mm  
+D'après la pièce _What price glory_ de Maxwell Anderson et Laurence Stallings.  
+Avec Edmund Lowe, Victor McLaglen, Dolores del Río.  
+Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
+
+- di 17 sep 14h30 HL
+
 [37819]  
 **Les Aventures du capitaine Wyatt**  
 **(Distant Drums)**  
@@ -10,7 +21,7 @@ de Raoul Walsh
 Avec Gary Cooper, Mari Aldon, Richard Webb.  
 Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées doivent affronter la région des Everglades et les féroces Indiens qui la peuplent.
 
-- sa 16 sep 16h15 HL
+- sa 16 sep 14h30 HL
 
 [36844]  
 **Aventures en Birmanie**  
@@ -44,6 +55,17 @@ Une mystérieuse et troublante jeune femme, chargée de découvrir les projets n
 
 - ve 15 sep 18h00 HL
 
+[36860]  
+**Bungalow pour femmes**  
+**(The Revolt of Mamie Stover)**  
+de Raoul Walsh  
+États-Unis / 1955 / 92 min / VOSTF / DCP  
+D'après le roman _The Revolt of Mamie Stover_ de William Bradford Huie.  
+Avec Jane Russell, Richard Egan, Joan Leslie.  
+Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au « Bungalow », dancing célèbre. Après l'attaque de Pearl Harbor, obnubilée par son désir d'argent, elle cherche à s'enrichir. Sa rencontre avec Jim Blair, un romancier, bouleverse ses projets.
+
+- di 17 sep 19h30 HL
+
 [45138]  
 **Capitaine sans peur**  
 **(Captain Horatio Hornblower R.N.)**  
@@ -73,6 +95,16 @@ Avec Jane Wyman, Dennis Morgan, Janis Paige.
 Un joueur professionnel accepte d'aider la police en capturant un bandit spécialisé dans l'attaque de diligences.
 
 - me 13 sep 20h00 HL
+
+[37663]  
+**Le Cri de la victoire**  
+**(Battle Cry)**  
+de Raoul Walsh  
+États-Unis / 1954 / 150 min / VOSTF / 35 mm  
+Avec Dorothy Malone, Van Heflin, James Whitmore.  
+En 1942, avant de partir au front, de jeunes recrues tentent d'apprendre les rudiments de la guerre, enseignés par un instructeur aux méthodes sévères.
+
+- sa 16 sep 19h30 HL
 
 [37734]  
 **Le Désert de la peur = Une corde pour te pendre**  
@@ -178,6 +210,16 @@ Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de pr
 
 - ve 1 sep 20h15 HL
 
+[36874]  
+**Les Implacables**  
+**(The Tall Men)**  
+de Raoul Walsh  
+États-Unis / 1955 / 122 min / VOSTF / 35 mm  
+Avec Clark Gable, Jane Russell, Robert Ryan.  
+Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement ruinés. Un homme leur propose alors un marché : conduire un immense troupeau à travers les États-Unis pour en partager les bénéfices.
+
+- di 17 sep 17h00 HL
+
 [37781]  
 **Intrigues en Orient**  
 **(Background to Danger)**  
@@ -219,6 +261,16 @@ Un mateur, dont la fortune est due au mensonge et a la duplicité, devra faire a
 
 - je 31 aoû 18h30 GF
 
+[37710]  
+**La Piste des géants**  
+**(The Big Trail)**  
+de Raoul Walsh  
+États-Unis / 1930 / 125 min / VOSTF / 35 mm  
+Avec John Wayne, Robert Parrish, Marguerite Churchill.  
+Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
+
+- sa 16 sep 17h00 HL
+
 [45139]  
 **La Rivière d'argent**  
 **(Silver River)**  
@@ -228,6 +280,16 @@ Avec Errol Flynn, Ann Sheridan, Thomas Mitchell.
 Lors de la guerre de Sécession, le capitaine nordiste Mike McComb est injustement renvoyé de l'armée. Il se rend alors dans l'Ouest où il se lance dans les affaires en construisant petit à petit une fortune, puis un empire, grâce à sa clairvoyance et surtout à son manque total de scrupules.
 
 - ve 8 sep 18h00 HL
+
+[36825]  
+**Le Roi et quatre reines**  
+**(The King and Four Queens)**  
+de Raoul Walsh  
+États-Unis / 1956 / 86 min / VOSTF / 35 mm  
+Avec Clark Gable, Eleanor Parker, Barbara Nichols.  
+Débarqué dans un ranch géré par une veuve et ses quatre belles-filles, Dan Kehoe apprend que l'une des propriétaires connaît la cachette d'un important butin.
+
+- me 20 sep 18h00 HL
 
 [37814]  
 **Sabotage à Berlin**  
@@ -242,7 +304,7 @@ Avec Errol Flynn, Ronald Reagan, Arthur Kennedy.
 **Saboteur sans gloire**  
 **(Uncertain Glory)**  
 de Raoul Walsh  
-États-Unis / 1944 / VO / 16 mm  
+États-Unis / 1944 / 102 min / VOSTF / 16 mm  
 Avec Errol Flynn, Paul Lukas.
 
 - me 6 sep 18h00 HL

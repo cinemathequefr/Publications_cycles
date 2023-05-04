@@ -85,7 +85,7 @@ Séance présentée par Antoine Chappey
 [60154]  
 **Nénette et Boni**  
 de Claire Denis  
-France / 1996 / 103 min / 35 mm  
+France / 1996 / 103 min / VO / 35 mm  
 Avec Grégoire Colin, Alice Houri, Valeria Bruni Tedeschi.  
 À Marseille, Boniface est pizzaïolo. Depuis la mort de sa mère, il ne voit plus son père, Félix. Un jour, sa sœur de quinze ans, Nénette, débarque chez lui, enceinte.
 
