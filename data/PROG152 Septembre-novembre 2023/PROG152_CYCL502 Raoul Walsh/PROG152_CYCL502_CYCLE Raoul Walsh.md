@@ -9,6 +9,7 @@ de Raoul Walsh
 États-Unis / 1926 / 120 min / INT. FR. / 35 mm  
 D'après la pièce _What price glory_ de Maxwell Anderson et Laurence Stallings.  
 Avec Edmund Lowe, Victor McLaglen, Dolores del Río.  
+Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allégrement du cocasse au tragique, ce succès de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
 
 - di 17 sep 14h30 HL
@@ -309,7 +310,8 @@ L'ascension et la chute d'un politicien démagogue du Sud.
 de Raoul Walsh  
 États-Unis / 1940 / 93 min / VOSTF / 35 mm  
 D'après le roman _Long Haul_ d'A.I. Bezzerides.  
-Avec George Raft, Ann Sheridan, Humphrey Bogart.
+Avec George Raft, Ann Sheridan, Humphrey Bogart.  
+Deux frères qui dirigent une petite entreprise de transport sont soupçonnés de l'assassinat de leur concurrent.
 
 - sa 2 sep 14h30 HL
 
