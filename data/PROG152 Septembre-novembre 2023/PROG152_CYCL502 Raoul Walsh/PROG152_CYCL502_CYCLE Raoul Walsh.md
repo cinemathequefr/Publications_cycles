@@ -9,6 +9,7 @@ de Raoul Walsh
 États-Unis / 1926 / 120 min / INT. FR. / 35 mm  
 D'après la pièce _What price glory_ de Maxwell Anderson et Laurence Stallings.  
 Avec Edmund Lowe, Victor McLaglen, Dolores del Río.  
+Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allégrement du cocasse au tragique, ce succès de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
 
 - di 17 sep 14h30 HL
@@ -296,7 +297,8 @@ Débarqué dans un ranch géré par une veuve et ses quatre belles-filles, Dan K
 **(Desperate Journey)**  
 de Raoul Walsh  
 États-Unis / 1942 / 107 min / VOSTF / 35 mm  
-Avec Errol Flynn, Ronald Reagan, Arthur Kennedy.
+Avec Errol Flynn, Ronald Reagan, Arthur Kennedy.  
+Lors de la Deuxième Guerre mondiale, l'équipage d'un bombardier de la R.A.F. est abattu au-dessus de l'Allemagne. Les cinq rescapés s'organisent et se mettent à la recherche d'un avion pour rentrer en Angleterre.
 
 - di 3 sep 14h30 HL
 
@@ -305,7 +307,8 @@ Avec Errol Flynn, Ronald Reagan, Arthur Kennedy.
 **(Uncertain Glory)**  
 de Raoul Walsh  
 États-Unis / 1944 / 102 min / VOSTF / 16 mm  
-Avec Errol Flynn, Paul Lukas.
+Avec Errol Flynn, Paul Lukas, Jean Sullivan.  
+Pendant la Seconde Guerre mondiale, un criminel évadé et un policier sont coincés dans un village dont les habitants ont été pris en otages par les Allemands.
 
 - me 6 sep 18h00 HL
 

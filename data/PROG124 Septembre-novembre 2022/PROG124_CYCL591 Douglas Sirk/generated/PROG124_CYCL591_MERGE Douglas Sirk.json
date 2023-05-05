@@ -2486,39 +2486,6 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 75841,
-          "dateHeure": "2022-09-08T19:00:00",
-          "idSalle": ["HL", "Henri Langlois"],
-          "typeAssoc": 117,
-          "idSeanceAssoc": 75753,
-          "idCategorie": 2741,
-          "idEvenement": 26233,
-          "typeEvenement": 14,
-          "idTypeConference": 55,
-          "typeConference": "Conférence",
-          "titre": "Douglas Sirk, né Detlef Sierck",
-          "sousTitre": "Conférence de Bernard Eisenschitz",
-          "duree": 90,
-          "textes": [
-            {
-              "typeTexte": 8,
-              "texte": "Douglas Sirk est reconnu à juste titre comme le maître du mélodrame hollywoodien. Pour en arriver à une dizaine d'œuvres magnifiques entre 1954 et 1958, il a suivi un long parcours qui reste dans l'ombre. Réalisateur allemand devenu plus américain que les Américains, homme de théâtre qui n'est pas pensable hors du cinéma, cinéaste de genre dont les films ont des échos autobiographiques, peintre, musicien, traducteur... Comment Douglas Sirk est-il devenu un auteur complet ?"
-            },
-            {
-              "typeTexte": 156,
-              "texte": "Bernard Eisenschitz est traducteur et historien du cinéma. Auteur de nombreux ouvrages (_Roman américain : les vies de Nicholas Ray_, _Fritz Lang au travail_, _Gels et dégels : une autre histoire du cinéma soviétique_, ...), il vient de publier aux Éditions de l'Œil _Douglas Sirk, né Detlef Sierck_."
-            }
-          ],
-          "intervenants": [
-            {
-              "nomComplet": "Bernard Eisenschitz",
-              "idFonction": 139,
-              "fonction": "Conférencier",
-              "ordre": 1
-            }
-          ]
-        },
-        {
           "idSeance": 75756,
           "ordre": 2,
           "dateHeure": "2022-09-11T15:00:00",
@@ -2529,7 +2496,7 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + dialogue avec Bernard Eisenschitz",
+          "titre": "Dialogue avec Bernard Eisenschitz",
           "duree": 60,
           "textes": [
             {
@@ -2564,6 +2531,39 @@
             }
           ],
           "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+        },
+        {
+          "idSeance": 75841,
+          "dateHeure": "2022-09-08T19:00:00",
+          "idSalle": ["HL", "Henri Langlois"],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 75753,
+          "idCategorie": 2741,
+          "idEvenement": 26233,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Douglas Sirk, né Detlef Sierck",
+          "sousTitre": "Conférence de Bernard Eisenschitz",
+          "duree": 90,
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "Douglas Sirk est reconnu à juste titre comme le maître du mélodrame hollywoodien. Pour en arriver à une dizaine d'œuvres magnifiques entre 1954 et 1958, il a suivi un long parcours qui reste dans l'ombre. Réalisateur allemand devenu plus américain que les Américains, homme de théâtre qui n'est pas pensable hors du cinéma, cinéaste de genre dont les films ont des échos autobiographiques, peintre, musicien, traducteur... Comment Douglas Sirk est-il devenu un auteur complet ?"
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Bernard Eisenschitz est traducteur et historien du cinéma. Auteur de nombreux ouvrages (_Roman américain : les vies de Nicholas Ray_, _Fritz Lang au travail_, _Gels et dégels : une autre histoire du cinéma soviétique_, ...), il vient de publier aux Éditions de l'Œil _Douglas Sirk, né Detlef Sierck_."
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Bernard Eisenschitz",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []
