@@ -22,7 +22,7 @@ Italie / 1949 / 100 min / VOSTF / Vidéo
 Avec Leonardo Cortese, Marcel Cerdan, Mischa Auer, Carlo Campanini.  
 Un professeur spécialiste de l'Orient reçoit la visite du Diable, qui lui fera connaître les plaisirs de la célébrité en le réincarnant en ténor, puis en boxer.
 
-- sa 6 mai 15h00 GF  
+- sa 13 mai 17h30 GF  
 Film précédé de _Le Cœur révélateur_ de Mario Monicelli, Alberto Mondadori, Cesare Civita
 
 [42476]  
@@ -117,7 +117,7 @@ D'après la nouvelle _Le Cœur révélateur_ d'Edgar Allan Poe.
 Avec G. Pedoni, G. Caria, G. Buschi, V. Rani.  
 Un homme, obsédé par l'œil protubérant du vieillard avec qui il cohabite, échafaude un plan pour le tuer.
 
-- sa 6 mai 15h00 GF  
+- sa 13 mai 17h30 GF  
 Film suivi d'_Au diable la célébrité_ de Steno, Mario Monicelli
 
 [43856]  
@@ -138,7 +138,7 @@ Italie / 1956 / 103 min / VOSTF / 16 mm
 Avec Elsa Martinelli, Gabriele Ferzetti, Walter Chiari.  
 Donatella, fille d'artisan, garde la villa d'une riche Américaine pendant son absence. Elle fait la rencontre d'un avocat dont elle tombe amoureuse.
 
-- sa 13 mai 17h30 GF
+- sa 6 mai 15h00 GF
 
 [41985]  
 **La Double Vie de Mathias Pascal**  
