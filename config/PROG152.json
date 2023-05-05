@@ -86,7 +86,19 @@
     {
       "idCycleProg": 698,
       "titreCycle": "Jean Cocteau",
-      "sousCycles": [{ "titre": "Les films", "cats": [3062], "tri": 1 }]
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3062], "tri": 1 },
+        {
+          "titre": "Cocteau scénariste, dialoguiste et adaptateur",
+          "cats": [3075],
+          "tri": 1
+        },
+        {
+          "titre": "Autour de Jean Cocteau",
+          "cats": [3076],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 699,
@@ -100,6 +112,13 @@
         { "titre": "Les films", "cats": [3064], "tri": 1 },
         { "titre": "Courts métrages", "cats": [3065, 3066, 3067], "tri": 4 }
       ]
+    },
+    {
+      "idCycleProg": 701,
+      "isReg": true,
+      "type": "jp",
+      "titreCycle": "Ma petite Cinémathèque",
+      "sousCycles": [{ "titre": "Les films", "cats": [3072], "tri": 4 }]
     }
   ]
 }

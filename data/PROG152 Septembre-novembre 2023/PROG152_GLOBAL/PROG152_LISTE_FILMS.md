@@ -1,7 +1,8 @@
 # Liste des films par cycle
 
-## Catherine Breillat (1)
+## Catherine Breillat (2)
 
+  * 36 fillette  
   * Eté dernier
 
 ## Cinéma et mode, 20 indispensables (20)
@@ -35,11 +36,10 @@
 
   * Dingue du palace (Le)
 
-## Raoul Walsh (35)
+## Raoul Walsh (32)
 
   * Au service de la gloire  
   * Aventures du capitaine Wyatt (Les)  
-  * Aventures en Birmanie  
   * Bataille sans merci  
   * Belle espionne (La)  
   * Bungalow pour femmes  
@@ -51,6 +51,7 @@
   * Du sang sur la neige  
   * Enfer est à lui (L')  
   * Entraîneuse fatale (L')  
+  * Esclave libre (L')  
   * Fantastiques années 20 (Les)  
   * Fille du désert (La)  
   * Fils prodigue (Le)  
@@ -59,17 +60,14 @@
   * Grande évasion (La)  
   * Implacables (Les)  
   * Intrigues en Orient  
-  * Man I Love (The)  
   * Monde lui appartient (Le)  
   * Pillars of Society  
   * Piste des géants (La)  
   * Rivière d'argent (La)  
   * Roi et quatre reines (Le)  
   * Sabotage à Berlin  
-  * Saboteur sans gloire  
   * Un lion dans la rue = L'Homme à abattre  
   * Une femme dangereuse  
-  * Vallée de la peur (La)  
   * Victime du destin  
   * Voleur de Bagdad (Le)
 

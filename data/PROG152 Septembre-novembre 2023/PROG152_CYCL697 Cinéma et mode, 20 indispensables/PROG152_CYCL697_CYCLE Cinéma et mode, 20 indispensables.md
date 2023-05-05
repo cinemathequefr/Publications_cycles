@@ -69,7 +69,7 @@ Italie-France / 1971 / 119 min / VOSTF / 35 mm
 Avec Peter Gonzales Falcon, Fiona Florence, Marne Maitland.  
 Rome de 1930 à nos jours vue par un de ses admirateurs, Federico Fellini. Fresque monumentale où réalité et fantasme sont étroitement mêlés.
 
-- me 6 sep 20h45 GF
+- je 7 sep 19h00 HL
 
 [35221]  
 **La Femme modèle**  
@@ -157,7 +157,7 @@ de Paul Thomas Anderson
 de Robert Altman  
 États-Unis-France / 1994 / 133 min
 
-- me 6 sep 18h00 GF
+- me 6 sep 19h30 GF
 
 [49481]  
 **Qui êtes-vous Polly Maggoo ?**  

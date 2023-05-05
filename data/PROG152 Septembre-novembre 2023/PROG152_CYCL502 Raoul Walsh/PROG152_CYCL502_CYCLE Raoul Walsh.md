@@ -9,7 +9,6 @@ de Raoul Walsh
 États-Unis / 1926 / 120 min / INT. FR. / 35 mm  
 D'après la pièce _What price glory_ de Maxwell Anderson et Laurence Stallings.  
 Avec Edmund Lowe, Victor McLaglen, Dolores del Río.  
-Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allégrement du cocasse au tragique, ce succès de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
 
 - di 17 sep 14h30 HL
@@ -23,16 +22,6 @@ Avec Gary Cooper, Mari Aldon, Richard Webb.
 Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées doivent affronter la région des Everglades et les féroces Indiens qui la peuplent.
 
 - sa 16 sep 14h30 HL
-
-[36844]  
-**Aventures en Birmanie**  
-**(Objective, Burma!)**  
-de Raoul Walsh  
-États-Unis / 1944 / 142 min / VO / 35 mm  
-Avec Errol Flynn, James Brown, William Prince.  
-En 1943, un commando de parachutistes américains est largué au-dessus de la zone occupée en Birmanie pour détruire une station radar japonaise. Sa mission accomplie, le commando doit redoubler d'efforts pour fuir les soldats de l'armée japonaise.
-
-- me 6 sep 20h00 HL
 
 [37751]  
 **Bataille sans merci**  
@@ -148,6 +137,17 @@ Johnny Marshall et Hank McHenry sont deux amis réparateurs de lignes électriqu
 
 - sa 2 sep 19h30 HL
 
+[37701]  
+**L'Esclave libre**  
+**(Band of Angels)**  
+de Raoul Walsh  
+États-Unis / 1957 / 125 min / VOSTF / 35 mm  
+D'après le roman _Band of angels_ de Robert Penn Warren.  
+Avec Clark Gable, Yvonne De Carlo, Sidney Poitier.  
+Au XIX° siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien veuf. Quand son père décède, un lourd secret remonte à la surface.
+
+- me 6 sep 19h00 HL
+
 [67404]  
 **Les Fantastiques années 20**  
 **(The Roaring Twenties)**  
@@ -232,16 +232,6 @@ A Ankara, pendant la Seconde Guerre Mondiale, un agent américain tente d'empêc
 
 - me 13 sep 18h00 HL
 
-[80342]  
-**The Man I Love**  
-de Raoul Walsh  
-États-Unis / 1946 / 96 min / VOSTF / 16 mm  
-D'après le roman _Night Shift_ de Maritta Wolff.  
-Avec Ida Lupino, Robert Alda, Andrea King.  
-Une chanteuse de night-club retourne dans sa famille et découvre la decheance dans laquelle sont tombes son frère et un pianiste qu'elle admirait.
-
-- je 7 sep 18h00 HL
-
 [36863]  
 **Le Monde lui appartient**  
 **(The World in His Arms)**  
@@ -302,21 +292,11 @@ Lors de la Deuxième Guerre mondiale, l'équipage d'un bombardier de la R.A.F. e
 
 - di 3 sep 14h30 HL
 
-[36878]  
-**Saboteur sans gloire**  
-**(Uncertain Glory)**  
-de Raoul Walsh  
-États-Unis / 1944 / 102 min / VOSTF / 16 mm  
-Avec Errol Flynn, Paul Lukas, Jean Sullivan.  
-Pendant la Seconde Guerre mondiale, un criminel évadé et un policier sont coincés dans un village dont les habitants ont été pris en otages par les Allemands.
-
-- me 6 sep 18h00 HL
-
 [79825]  
 **Un lion dans la rue = L'Homme à abattre**  
 **(A Lion Is in the Streets)**  
 de Raoul Walsh  
-États-Unis / 1953 / 87 min / VO / 16 mm  
+États-Unis / 1953 / 87 min / VOSTF / 16 mm  
 D'après le roman _A Lion Is in the Streets_ d'Adria Locke Langley.  
 Avec James Cagney, Lon Chaney Jr., Barbara Hale.  
 L'ascension et la chute d'un politicien démagogue du Sud.
@@ -332,16 +312,6 @@ D'après le roman _Long Haul_ d'A.I. Bezzerides.
 Avec George Raft, Ann Sheridan, Humphrey Bogart.
 
 - sa 2 sep 14h30 HL
-
-[36851]  
-**La Vallée de la peur**  
-**(Pursued)**  
-de Raoul Walsh  
-États-Unis / 1947 / VOSTF / DCP  
-Avec Robert Mitchum, Teresa Wright.  
-Au Nouveau-Méxique, Medora Callum recueille Jeb Rand, un jeune enfant dont le père vient d'être assassiné, et l'élève avec ses deux propres enfants. Ceux-ci devenus adultes, elle veut partager ses biens en trois parts égales, ce qui provoque un conflit exacerbé....
-
-- je 7 sep 20h15 HL
 
 [79791]  
 **Victime du destin**  

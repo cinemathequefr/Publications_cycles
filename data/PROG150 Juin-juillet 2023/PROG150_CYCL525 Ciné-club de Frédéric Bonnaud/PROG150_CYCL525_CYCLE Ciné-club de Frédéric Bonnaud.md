@@ -8,7 +8,7 @@ Une fois par mois, le Ciné-club de Frédéric Bonnaud, directeur de la Cinémat
 **Non réconciliés ou Seule la violence aide où la violence règne**  
 **(Nicht versöhnt oder Es hilft nur Gewalt, wo Gewalt herrscht)**  
 de Jean-Marie Straub, Danièle Huillet  
-RFA / 1965  
+RFA / 1965 / 52 min / VOSTF / 35 mm  
 D'après le roman _Les Deux Sacrements_ de Heinrich Böll.  
 Avec Henning Harmssen, Ulrich Hopmann, Ulrich von Thüna, Ernst Kutzinski.  
 Des personnages non réconciliés avec leur passé reviennent sur cinquante ans d'histoire allemande, des années 1910 au miracle économique de l'après-guerre.
