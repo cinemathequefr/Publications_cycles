@@ -147,7 +147,9 @@ Maureen, jeune Américaine à Paris, s'occupe de la garde-robe d'une célébrit�
 [138368]  
 **Phantom Thread**  
 de Paul Thomas Anderson  
-États-Unis / 2017 / 130 min
+États-Unis / 2017 / 130 min  
+Avec Vicky Krieps, Daniel Day-Lewis, Lesley Manville.  
+Reynolds Woodcock est un célèbre couturier qui exerce à Londres dans les années 1950, célibataire et solitaire. Il est aidé par sa sœur, Cyril solitaire également, qui s'occupe aussi bien de la prestigieuse Maison Woodcock que de la vie sentimentale de l'artiste. Jusqu'au jour où Woodcock rencontre Alma une jeune serveuse étrangère.
 
 - sa 2 sep 15h00 GF
 
@@ -155,7 +157,9 @@ de Paul Thomas Anderson
 **Prêt à porter**  
 **(Ready to Wear)**  
 de Robert Altman  
-États-Unis-France / 1994 / 133 min
+États-Unis-France / 1994 / 133 min  
+Avec Sophia Loren, Marcello Mastroianni, Lauren Bacall, Julia Roberts.  
+Paris, mars 1994. Chronique de la semaine du prêt-à-porter et du grand et petit monde qui gravite autour, le tout ponctué par un étrange décès.
 
 - me 6 sep 19h30 GF
 
@@ -171,7 +175,9 @@ Polly Maggoo, mannequin superstar, est interviewée par une équipe de télévis
 [123300]  
 **Saint-Laurent**  
 de Bertrand Bonello  
-France-Belgique / 2013 / 135 min
+France-Belgique / 2013 / 135 min  
+Avec Gaspard Ulliel, Jérémie Renier, Louis Garrel.  
+1967 – 1976. La rencontre de l'un des plus grands couturiers de tous les temps avec une décennie libre.
 
 - di 17 sep 16h15 GF
 
@@ -188,7 +194,9 @@ Une série de meurtres est perpétrée sur les mannequins d'une maison de haute 
 [76324]  
 **Zoolander**  
 de Ben Stiller  
-États-Unis / 2000 / 89 min
+États-Unis / 2000 / 89 min  
+Avec Ben Stiller, Owen Wilson, Christine Taylor.  
+Après avoir remporté le trophée du meilleur top model trois années consécutives Derek Zoolander perd face à un nouveau venu, Hansel, un jeune blond aussi stupide que lui. Cependant, le grand couturier Mugatu veut tout de même l'engager pour présenter sa nouvelle collection.
 
 - je 31 aoû 20h00 HL  
 Ouverture de la rétrospective

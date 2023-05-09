@@ -9,7 +9,6 @@ de Raoul Walsh
 États-Unis / 1926 / 120 min / INT. FR. / 35 mm  
 D'après la pièce _What price glory_ de Maxwell Anderson et Laurence Stallings.  
 Avec Edmund Lowe, Victor McLaglen, Dolores del Río.  
-Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allégrement du cocasse au tragique, ce succès de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
 
 - di 17 sep 14h30 HL
@@ -20,7 +19,7 @@ Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans le
 de Raoul Walsh  
 États-Unis / 1951 / 101 min / VOSTF / 35 mm  
 Avec Gary Cooper, Mari Aldon, Richard Webb.  
-Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées doivent affronter la région des Everglades et les féroces Indiens qui la peuplent.
+Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées doivent affronter les féroces Indiens de la région des Everglades.
 
 - sa 16 sep 14h30 HL
 
@@ -42,7 +41,7 @@ de Raoul Walsh
 États-Unis / 1952 / 90 min / VOSTF / 16 mm  
 D'après le roman _Les Travailleurs de la mer_ de Victor Hugo.  
 Avec Yvonne De Carlo, Rock Hudson, Maxwell Reed.  
-Une mystérieuse et troublante jeune femme, chargée de découvrir les projets napoléoniens d'invasion de l'Angleterre, bouleverse l'existence d'un contrebandier qui en tombe d'autant plus amoureux qu'il ne parvient pas à deviner sa véritable identité.
+Une mystérieuse et troublante jeune femme, chargée de découvrir les projets napoléoniens d'invasion de l'Angleterre, bouleverse l'existence d'un contrebandier.
 
 - ve 15 sep 18h00 HL
 
@@ -53,7 +52,7 @@ de Raoul Walsh
 États-Unis / 1955 / 92 min / VOSTF / DCP  
 D'après le roman _The Revolt of Mamie Stover_ de William Bradford Huie.  
 Avec Jane Russell, Richard Egan, Joan Leslie.  
-Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au « Bungalow », dancing célèbre. Après l'attaque de Pearl Harbor, obnubilée par son désir d'argent, elle cherche à s'enrichir. Sa rencontre avec Jim Blair, un romancier, bouleverse ses projets.
+Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au « Bungalow », un dancing célèbre. Après l'attaque de Pearl Harbor, obnubilée par son désir d'argent, elle cherche à s'enrichir. Sa rencontre avec Jim Blair, un romancier, bouleverse ses projets.
 
 - di 17 sep 19h30 HL
 
@@ -63,7 +62,7 @@ Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au �
 de Raoul Walsh  
 Grande-Bretagne-États-Unis / 1950 / 117 min / VOSTF / 35 mm  
 Avec Gregory Peck, James Robertson Justice, Christopher Lee.  
-A l'époque des guerres napoléonniennes, le capitaine Horation Hornblower est à la tête d'un petit vaisseau, en mission lointaine. Sur le chemin il rencontre un aventurier révolté contre l'Espagne, qu'il veut aider en lui cédant un autre vaisseau.  
+A l'époque des guerres napoléonniennes, le capitaine Horation Hornblower est à la tête d'un petit vaisseau, en mission lointaine. Sur le chemin il rencontre un aventurier révolté contre l'Espagne.  
 Copie Technicolor original.
 
 - sa 9 sep 14h30 HL
@@ -74,7 +73,7 @@ Copie Technicolor original.
 de Raoul Walsh  
 États-Unis / 1941 / 140 min / VOSTF / 35 mm  
 Avec Errol Flynn, Olivia De Havilland, Arthur Kennedy.  
-1857\. A l'académie militaire de West Point, George Armstrong Custer se fait remarquer tant par son indiscipline que par son talent. La guerre de Sécession éclate, il prendra part à l'affrontement contre les indiens de Crazy Horse.
+1857\. A l'académie militaire de West Point, George Armstrong Custer se fait remarquer tant par son indiscipline que par son talent. Quand la guerre de Sécession éclate, il prend part à l'affrontement contre les indiens de Crazy Horse.
 
 - sa 2 sep 16h30 HL
 
@@ -101,9 +100,9 @@ En 1942, avant de partir au front, de jeunes recrues tentent d'apprendre les rud
 **Le Désert de la peur = Une corde pour te pendre**  
 **(Along the Great Divide)**  
 de Raoul Walsh  
-États-Unis / 1951 / 101 min / VOSTF / 35 mm  
+États-Unis / 1951 / 88 min / VOSTF / 35 mm  
 Avec Kirk Douglas, Virginia Mayo, Walter Brennan.  
-Nouveau-Mexique, au début du XXe siècle, Medora Callum recueille Jeb Rand, un jeune enfant dont le père vient d'être assassiné, et l'élève avec ses deux propres enfants, Thorley et Adam. Ceux-ci devenus adultes, elle veut partager ses biens en trois parts égales.
+Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un suspect, Keith, pour le meurtre du fils d'un rancher, Roden.
 
 - sa 9 sep 17h00 HL
 
@@ -187,7 +186,7 @@ Jether, un berger, est attiré par Tisha, prêtresse d'Ishtar. Il se rend à Bab
 de Raoul Walsh  
 États-Unis / 1948 / 96 min / VOSTF / 16 mm  
 Avec Robert Stack, Edmond O'Brien, Rock Hudson.  
-Le capitaine Hamilton fait partie d'une escadrille basée en Angleterre pendant la Seconde guerre mondiale. Après un acte héroïque, il est autorisé à rentrer aux États-Unis pendant un mois où il annonce son mariage. Il s'attire ainsi les foudres du major qui impose le célibat à ses hommes.
+Le capitaine Hamilton fait partie d'une escadrille basée en Angleterre pendant la Seconde guerre mondiale. Après un acte héroïque, il est autorisé à rentrer aux États-Unis pendant un mois et se marie. Il s'attire ainsi les foudres du major qui impose le célibat à ses hommes.
 
 - je 14 sep 18h00 HL
 
@@ -321,7 +320,7 @@ Deux frères qui dirigent une petite entreprise de transport sont soupçonnés d
 de Raoul Walsh  
 États-Unis / 1953 / 82 min / VOSTF / 35 mm  
 Avec Rock Hudson, Julie Adams, Mary Castle.  
-Un homme est victime des ennuis que son tempérament aventureux provoque inévitablement.
+Un homme est victime des ennuis provoqués par son tempérament aventureux.
 
 - di 10 sep 17h45 HL  
 - ve 15 sep 20h00 HL
