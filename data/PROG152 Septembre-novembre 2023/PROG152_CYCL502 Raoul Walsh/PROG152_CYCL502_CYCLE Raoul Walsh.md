@@ -2,6 +2,16 @@
 
 ## Les films
 
+[85150]  
+**Amour de marin**  
+**(Sailor's Luck)**  
+de Raoul Walsh  
+États-Unis / 1933 / 78 min / VOSTF / 16 mm  
+Avec James Dunn, Sally Eilers, Victor Jory.  
+Les amours d'une jeune fille dépourvue de foyer, de travail et de complexes avec un marin bourru.
+
+- sa 23 sep 15h00 GF
+
 [45140]  
 **Au service de la gloire**  
 **(What Price Glory ?)**  
@@ -22,6 +32,26 @@ Avec Gary Cooper, Mari Aldon, Richard Webb.
 Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées doivent affronter les féroces Indiens de la région des Everglades.
 
 - sa 16 sep 14h30 HL
+
+[36844]  
+**Aventures en Birmanie**  
+**(Objective, Burma!)**  
+de Raoul Walsh  
+États-Unis / 1944 / 142 min / VOSTF / 35 mm  
+Avec Errol Flynn, James Brown, William Prince.  
+En 1943, un commando de parachutistes américains est largué au-dessus de la zone occupée en Birmanie pour détruire une station radar japonaise. Sa mission accomplie, le commando doit redoubler d'efforts pour fuir les soldats de l'armée japonaise.
+
+- me 13 sep 20h00 HL
+
+[58507]  
+**Barbe-Noire, le pirate**  
+**(Blackbeard, the Pirate)**  
+de Raoul Walsh  
+États-Unis / 1952 / 100 min / VOSTF / 35 mm  
+Avec Linda Darnell, Richard Egan, William Bendix.  
+Le célèbre pirate Barbe Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
+
+- je 21 sep 17h30 HL
 
 [37751]  
 **Bataille sans merci**  
@@ -45,6 +75,26 @@ Une mystérieuse et troublante jeune femme, chargée de découvrir les projets n
 
 - ve 15 sep 18h00 HL
 
+[36871]  
+**La Blonde et le shériff**  
+**(The Sheriff of Fractured Jaw)**  
+de Raoul Walsh  
+Grande-Bretagne / 1958 / 103 min / VOAutres / 35 mm  
+Avec Jayne Mansfield, Kenneth More, Bruce Cabot.  
+Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé de prospecter dans un pays prometteur : l'Ouest américain. Jonathan ne tarde pas à se faire remarquer dans cette contrée sauvage.
+
+- lu 18 sep 18h00 GF
+
+[36862]  
+**La Brigade héroïque**  
+**(Saskatchewan)**  
+de Raoul Walsh  
+États-Unis / 1954 / 87 min / VOSTF / 16 mm  
+Avec Alan Ladd, Shelley Winters, Robert Douglas.  
+En 1877 dans l'Ouest canadien, un inspecteur de police se révolte contre son commandant inepte, et emprunte une route plus sûre jusqu'à la frontière américaine afin d'empêcher l'invasion d'Indiens hostiles.
+
+- di 10 sep 17h45 HL
+
 [36860]  
 **Bungalow pour femmes**  
 **(The Revolt of Mamie Stover)**  
@@ -67,6 +117,16 @@ Copie Technicolor original.
 
 - sa 9 sep 14h30 HL
 
+[45390]  
+**La Charge de la huitième brigade**  
+**(A Distant Trumpet)**  
+de Raoul Walsh  
+États-Unis / 1963 / 110 min / VOSTF / 35 mm  
+Avec Troy Donahue, Suzanne Pleshette, Diane McBain.  
+Matt Hazard, lieutenant de l'armée américaine réaffecté dans l'Arizona, combat contre des tribus indiennes. Il fait la connaissance de Kitty, la femme d'un commandant, à laquelle il sauve la vie à plusieurs reprises.
+
+- je 21 sep 20h00 HL
+
 [36876]  
 **La Charge fantastique**  
 **(They Died with Their Boots On)**  
@@ -84,7 +144,7 @@ de Raoul Walsh
 Avec Jane Wyman, Dennis Morgan, Janis Paige.  
 Un joueur professionnel accepte d'aider la police en capturant un bandit spécialisé dans l'attaque de diligences.
 
-- me 13 sep 20h00 HL
+- ve 22 sep 18h00 HL
 
 [37663]  
 **Le Cri de la victoire**  
@@ -95,6 +155,16 @@ Avec Dorothy Malone, Van Heflin, James Whitmore.
 En 1942, avant de partir au front, de jeunes recrues tentent d'apprendre les rudiments de la guerre, enseignés par un instructeur aux méthodes sévères.
 
 - sa 16 sep 19h30 HL
+
+[81231]  
+**Danse rouge**  
+**(The Red Dance)**  
+de Raoul Walsh  
+États-Unis / 1928 / 103 min / INT. FR. / 35 mm  
+Avec Dolores del Río, Charles Farrell, Ivan Linow.  
+Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Grand Duc Eugen à la veille de son mariage avec la Princesse Varvara.
+
+- sa 7 oct 17h30 GF
 
 [37734]  
 **Le Désert de la peur = Une corde pour te pendre**  
@@ -115,6 +185,17 @@ Avec Errol Flynn, Julie Bishop, Helmut Dantine.
 Des aviateurs allemands débarquent secrètement au Canada pour y saboter les voies de communication. A la suite d'une avalanche, tous sont tués sauf le chef, Von Keller, qui est capturé par la police.
 
 - di 3 sep 19h00 HL
+
+[72584]  
+**Empreintes digitales**  
+**(Big Brown Eyes)**  
+de Raoul Walsh  
+États-Unis / 1935 / 76 min / VOSTF / 16 mm  
+D'après les histoires _Hahsit Babe_ et _Big Brown Eyes_ de James Edward Grant.  
+Avec Cary Grant, Joan Bennett, Walter Pidgeon.  
+Dan Barr, gendarme, vit avec Eve Fallon, une manucure, depuis cinq ans, malgré leurs disputes fréquentes. Grâce à Eve, il parvient à pincer Cortig, un malfaiteurs dont une balle perdue a tué un bébé dans le parc.
+
+- sa 23 sep 16h45 GF
 
 [36892]  
 **L'Enfer est à lui**  
@@ -148,6 +229,26 @@ Au XIX° siècle, Amantha Starr est la petite fille gâtée d'un riche propriét
 
 - me 6 sep 19h00 HL
 
+[37834]  
+**Esther et le roi**  
+**(Ester e il re)**  
+de Raoul Walsh, Mario Bava  
+Italie-États-Unis / 1960 / 108 min / VOSTF / 35 mm  
+Avec Joan Collins, Richard Egan, Denis O'Dea.  
+Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l'égide de son premier ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune juive, Esther.
+
+- lu 18 sep 20h15 GF
+
+[36861]  
+**Faiblesse humaine**  
+**(Sadie Thompson)**  
+de Raoul Walsh  
+États-Unis / 1927 / 95 min  
+Avec Gloria Swanson, Lionel Barrymore, Raoul Walsh.  
+Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion de refaire sa vie. Sur cette île du Pacifique, le puritain Davidson ne lui laisse aucun répit et la poursuit de ses discours moralisateurs.
+
+- di 8 oct 19h45 GF
+
 [67404]  
 **Les Fantastiques années 20**  
 **(The Roaring Twenties)**  
@@ -178,7 +279,7 @@ de Raoul Walsh
 Avec Wallace Beery, Greta Nissen, William Collier Jr..  
 Jether, un berger, est attiré par Tisha, prêtresse d'Ishtar. Il se rend à Babylone et y dilapide son héritage en couvrant Tisha de cadeaux et en vivant une vie dissolue.
 
-- je 31 aoû 20h00 GF
+- je 31 aoû 20h30 GF
 
 [36787]  
 **Les Géants du ciel**  
@@ -232,6 +333,44 @@ A Ankara, pendant la Seconde Guerre Mondiale, un agent américain tente d'empêc
 
 - me 13 sep 18h00 HL
 
+[85155]  
+**The Kindred of the Dust**  
+de Raoul Walsh  
+États-Unis / 1922 / 92 min / INT. FR. / 35 mm  
+Avec Lionel Barrymore, Miriam Cooper, Ralph Graves.  
+Une orpheline retourne chez elle dans une petite ville du nord-ouest du Pacifique après un mariage raté et avec un fils en bas âge.
+
+- ve 6 oct 19h30 GF
+
+[81234]  
+**The Loves of Carmen**  
+de Raoul Walsh  
+États-Unis / 1927 / 98 min / INT. FR. / DCP  
+Avec Dolores del Río, Don Alvarado, Victor McLaglen.  
+Seconde adaptation par Walsh de la nouvelle de Merimee.  
+Restauré par le MoMA avec le soutien de la Film Foundation.
+
+- di 8 oct 17h30 GF
+
+[82982]  
+**The Lucky Lady**  
+de Raoul Walsh  
+États-Unis / 1926 / 60 min / INT. FR. / 16 mm  
+Avec Greta Nissen, Lionel Barrymore, William Collier Jr..  
+Le premier Ministre Franz Garletz veut faire marier la Princesse Antoinette avec le Comte Ferranzo. Antoinette, élève dans un couvent, sort clandestinement le soir pour aller voir les spectacles à l'auberge locale. Elle y commence un flirt avec Clarke, un jeune touriste américain.
+
+- sa 7 oct 14h30 GF
+
+[80342]  
+**The Man I Love**  
+de Raoul Walsh  
+États-Unis / 1946 / 96 min / VOSTF / 16 mm  
+D'après le roman _Night Shift_ de Maritta Wolff.  
+Avec Ida Lupino, Robert Alda, Andrea King.  
+Une chanteuse de night-club retourne dans sa famille et découvre la déchéance dans laquelle sont tombes son frère et un pianiste qu'elle admirait.
+
+- ve 22 sep 20h15 HL
+
 [36863]  
 **Le Monde lui appartient**  
 **(The World in His Arms)**  
@@ -241,6 +380,26 @@ Avec Anthony Quinn, Gregory Peck, Ann Blyth.
 Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper au Prince Semyon, un prétendant imposé par le tsar.
 
 - sa 9 sep 19h30 HL
+
+[154408]  
+**The Mystery of the Hindu Image**  
+de Raoul Walsh  
+États-Unis / 1914 / 28 min / INT. FR. / 35 mm  
+Avec Nick Cage, Dark Cloud, Richard Cummings.  
+Emprisonné la veille de son mariage pour le meurtre du propriétaire d'un talisman hindou, John Stafford parvient à s'échapper tandis qu'un détective engagé par sa fiancée démasque les véritables assassins.
+
+- ve 6 oct 18h30 GF
+
+[36837]  
+**Les Nus et les morts**  
+**(The Naked and the Dead)**  
+de Raoul Walsh  
+États-Unis / 1958 / 131 min / VOSTF / 35 mm  
+D'après le roman _Les Nus et les morts_ de Norman Mailer.  
+Avec Aldo Ray, Cliff Robertson, Raymond Massey.  
+En pleine guerre du Pacifique, une troupe américaine est rongée par les conflits internes.
+
+- me 20 sep 20h00 HL
 
 [36848]  
 **Pillars of Society**  
@@ -261,6 +420,15 @@ Avec John Wayne, Robert Parrish, Marguerite Churchill.
 Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
 
 - sa 16 sep 17h00 HL
+
+[36854]  
+**Regeneration**  
+de Raoul Walsh  
+États-Unis / 1915 / 64 min / INT. FR. / DCP  
+Avec John McCann, James A. Marcus, Maggie Weston.  
+Orphelin à l'âge de 10 ans, Owen est recueilli par ses voisins violents. Cherchant à fuir ces derniers qui l'exploitent, Owen erre sur les docks de New York et devient chef de gang à 25 ans. L'amour qu'il éprouve pour la travailleuse sociale Marie Deering le mène à la rédemption.
+
+- di 24 sep 14h30 HL
 
 [45139]  
 **La Rivière d'argent**  
@@ -292,6 +460,17 @@ Lors de la Deuxième Guerre mondiale, l'équipage d'un bombardier de la R.A.F. e
 
 - di 3 sep 14h30 HL
 
+[85152]  
+**Le Singe qui parle**  
+**(The Monkey Talks)**  
+de Raoul Walsh  
+États-Unis / 1927 / 63 min / INT. FR.  
+Avec Olive Borden, Jacques Lerner, Don Alvarado.  
+Trois forains sans scrupules obligent un nain à se déguiser en singe parlant.  
+Film incomplet.
+
+- sa 7 oct 16h00 GF
+
 [79825]  
 **Un lion dans la rue = L'Homme à abattre**  
 **(A Lion Is in the Streets)**  
@@ -301,7 +480,7 @@ D'après le roman _A Lion Is in the Streets_ d'Adria Locke Langley.
 Avec James Cagney, Lon Chaney Jr., Barbara Hale.  
 L'ascension et la chute d'un politicien démagogue du Sud.
 
-- je 14 sep 20h00 HL
+- je 14 sep 20h15 HL
 
 [36877]  
 **Une femme dangereuse**  
@@ -322,7 +501,6 @@ de Raoul Walsh
 Avec Rock Hudson, Julie Adams, Mary Castle.  
 Un homme est victime des ennuis provoqués par son tempérament aventureux.
 
-- di 10 sep 17h45 HL  
 - ve 15 sep 20h00 HL
 
 [36875]  
@@ -334,4 +512,14 @@ Avec Douglas Fairbanks, Snitz Edwards, Anna May Wong.
 La fille du Calife tombe amoureuse d'un sympathique voleur qui devra la conquérir.
 
 - di 10 sep 15h00 HL
+
+[67395]  
+**Women of All Nations**  
+de Raoul Walsh  
+États-Unis / 1931 / 72 min / VOSTF / 35 mm  
+Avec Edmund Lowe, Victor McLaglen, Greta Nissen.  
+Les aventures de Flagg et Quirt, à New York, en Suède où ils rencontrent la belle Else, au Nicaragua et en Égypte où ils retrouvent Else.  
+Restauré par UCLA Film & Television Archive.
+
+- sa 7 oct 19h45 GF
 

@@ -29,7 +29,7 @@ France / 1956 / 95 min / 16 mm
 Avec Fernandel, Suzy Delair, Françoise Fabian.  
 Simple coupeur chez un tailleur, Fernand Vignard accède à son rêve de tenir sa propre maison grâce à un héritage.
 
-- di 10 sep 17h15 GF
+- di 10 sep 17h00 GF
 
 [100397]  
 **Le Diable s'habille en Prada**  
@@ -50,7 +50,7 @@ de Stanley Donen
 Avec Fred Astaire, Audrey Hepburn, Michel Auclair, Kay Thompson.  
 Un magazine recherche un mannequin pour porter les dernières créations d'un couturier de renom. Jo Stockton, une jeune libraire, accepte la proposition et se rend à Paris, plus intéressée par le professeur de philosophie Flostre que par la mode.
 
-- di 10 sep 15h00 GF
+- di 10 sep 14h30 GF
 
 [46638]  
 **Falbalas**  
@@ -59,7 +59,7 @@ France / 1944 / 111 min / 35 mm
 Avec Raymond Rouleau, Micheline Presle, Jean Chevrier.  
 Un couturier parisien, incorrigible séducteur, s'intéresse à la fiancée de son meilleur ami.
 
-- di 10 sep 19h15 GF
+- di 10 sep 19h00 GF
 
 [43398]  
 **Fellini Roma**  
@@ -79,7 +79,7 @@ de Vincente Minnelli
 Avec Gregory Peck, Lauren Bacall.  
 Marilla et Mike se marient, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents : elle est dessinatrice de mode, et lui, chroniqueur sportif.
 
-- sa 9 sep 17h15 GF
+- sa 9 sep 17h30 GF
 
 [31479]  
 **Femmes**  
@@ -103,7 +103,8 @@ Une jeune femme entretient sa famille dans un petit appartement. N'en pouvant pl
 
 Texte à saisir
 
-- sa 16 sep 16h15 GF
+- je 31 aoû 20h00 HL  
+Ouverture de la rétrospective
 
 [48724]  
 **La Mariée est trop belle**  
@@ -112,7 +113,7 @@ France / 1956 / 35 mm
 Avec Brigitte Bardot, Louis Jourdan, Micheline Presle.  
 Chouchou, jeune mannequin remarqué par Judith, rédactrice d'un journal féminin, tombe amoureuse de Michel, l'amant de cette dernière.
 
-- sa 9 sep 19h45 GF
+- sa 9 sep 20h00 GF
 
 [131583]  
 **The Neon Demon**  
@@ -198,6 +199,5 @@ de Ben Stiller
 Avec Ben Stiller, Owen Wilson, Christine Taylor.  
 Après avoir remporté le trophée du meilleur top model trois années consécutives Derek Zoolander perd face à un nouveau venu, Hansel, un jeune blond aussi stupide que lui. Cependant, le grand couturier Mugatu veut tout de même l'engager pour présenter sa nouvelle collection.
 
-- je 31 aoû 20h00 HL  
-Ouverture de la rétrospective
+- sa 16 sep 19h00 GF
 

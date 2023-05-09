@@ -10,7 +10,7 @@ suivi de
 [105939]  
 **To Spring**  
 de Hugh Harman, Rudolph Ising  
-États-Unis / 1936  
+États-Unis / 1936 / 9 min / Numérique  
 suivi de  
 [105264]  
 **Le Génie de la boîte de raviolis**  
