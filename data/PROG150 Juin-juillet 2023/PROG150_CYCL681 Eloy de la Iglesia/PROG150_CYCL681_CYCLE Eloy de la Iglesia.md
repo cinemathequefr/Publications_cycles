@@ -223,3 +223,4 @@ Marcos Uzal a été membre du comité de rédaction des revues _Vertigo_ et _Tra
 - je 13 juil 19h00 GF  
 À la suite de la projection de _Le Député_ d'Eloy de la Iglesia (voir p. xx)
 
+Remerciements : Filmoteca Española, Rosebud, Video Mercury Films.

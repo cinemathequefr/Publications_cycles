@@ -8,6 +8,7 @@
 de Raoul Walsh  
 États-Unis / 1933 / 78 min / VOSTF / 16 mm  
 Avec James Dunn, Sally Eilers, Victor Jory.  
+Les badinages d'une jeune femme sans le sou avec un marin en goguette. Multipliant les gags pré-code, Walsh peaufine son art de la mise en scène, aussi sophistiquée que réjouissante, dans le bassin d'une piscine ou lors d'un marathon de danse qui tourne en bagarre géante.  
 Les amours d'une jeune fille dépourvue de foyer, de travail et de complexes avec un marin bourru.
 
 - sa 23 sep 15h00 GF
@@ -19,6 +20,7 @@ de Raoul Walsh
 États-Unis / 1926 / 120 min / INT. FR. / 35 mm  
 D'après la pièce _What price glory_ de Maxwell Anderson et Laurence Stallings.  
 Avec Edmund Lowe, Victor McLaglen, Dolores del Río.  
+Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allégrement du cocasse au tragique, ce succès de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
 
 - di 17 sep 14h30 HL

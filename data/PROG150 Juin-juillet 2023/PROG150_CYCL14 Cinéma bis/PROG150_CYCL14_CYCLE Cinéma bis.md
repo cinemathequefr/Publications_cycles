@@ -97,6 +97,7 @@ Derrère un cabaret de strip-tease, le Blue Rita, il se cache une redoutable org
 de Michel Vianey  
 France / 1985 / 92 min / 35 mm  
 Avec Richard Berry, Carole Bouquet, Fanny Cottençon.  
+Une jeune femme assiste impuissante au meurtre de son frère. Elle se réfugie chez un ami, commissaire de police, qui découvre que la victime était impliquée dans une organisation politique secrète.  
 Isabelle, cachée dans la cave, assiste impuissante au meurtre de son frère Marc et de sa femme. Réfugiée chez David Ackerman, ami de son frère et commissaire de la Police, ce dernier découvre que Marc était impliqué dans une organisation politique secrète.
 
 - ve 7 juil 19h00 GF
@@ -179,4 +180,4 @@ Un riche Anglais monte une expédition en Afrique pour rechercher Karzan, un hom
 
 - ve 28 juil 21h15 GF
 
-Remerciements : Gaumont, Productions Roitfeld, Emmanuel Rossi
+Remerciements : Warner Bros Picture France

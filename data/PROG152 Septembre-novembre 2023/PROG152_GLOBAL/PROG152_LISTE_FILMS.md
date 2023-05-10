@@ -60,6 +60,10 @@
   * Social Network (The)  
   * Zodiac
 
+## Jean Cocteau (1)
+
+  * Aigle à deux têtes (L')
+
 ## Jerry Lewis (1)
 
   * Dingue du palace (Le)
@@ -118,6 +122,14 @@
   * Voleur de Bagdad (Le)  
   * Women of All Nations
 
-## Trésors du cinéma fantastique mexicain (1)
+## Trésors du cinéma fantastique mexicain (9)
 
+  * Amantes del Señor de la Noche (Las)  
+  * Baron de la terreur (Le)  
+  * Invasión de los Vampiros (La)  
+  * Maldición de la Llorona (La)  
+  * Muñecos Infernales  
+  * Museo del horror  
+  * Mystères d'outre-tombe (Les)  
   * Proies du vampire (Les)  
+  * Vampiro sangriento (El)  

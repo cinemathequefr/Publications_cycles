@@ -473,3 +473,4 @@ Murielle Joudet est critique de cinéma au _Monde_, elle participe à l'émissio
 - je 6 juil 19h00 HL  
 À la suite de la projection de _Le Chant du Missouri_ de Vincente Minnelli (voir p. xx)
 
+Remerciements : Warner Bros Picture France, Cinémathèque de Toulouse, Institut Lumière, Classic Films, Lobster Films, Park Circus. .

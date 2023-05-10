@@ -177,3 +177,4 @@ Concepteur de la collection discographique _Écoutez le cinéma !_ chez Universa
 - sa 24 juin 14h30 HL  
 À la suite de la projection de _Le Samouraï_ de Jean-Pierre Melville (voir p. xx)
 
+Remerciements : Patricia de Roubaix, Benjamin de Roubaix, Christophe Conte, Jean-Yves Guilleux. Archives Françaises du Film, CNC – Centre National du Cinéma et de l'image animée, Coin de Mire, Héliotrope, Les Acacias, Les Films du Camélia, Malavida, Mocky Delicious Products, Morgane Groupe, SND M6, StudioCanal, Tamasa Distribution.
