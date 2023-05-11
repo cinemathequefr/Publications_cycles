@@ -93,10 +93,11 @@ Journal intime transfiguré en bombardement d'images et de sons, exploration d'u
 
 - ve 21 avr 18h30 JE
 
-[154401]  
+[132724]  
 **La Jeune fille sans mains**  
 de Sébastien Laudenbach  
 France / 2016 / 73 min / DCP  
+D'après le conte _La Jeune fille sans mains_ des frères Grimm.  
 Un meunier vend sa fille au diable contre une pluie d'or aussi brillant que sale. Le diable lui demande aussi de lui couper les mains.
 
 - ve 21 avr 21h00 JE
