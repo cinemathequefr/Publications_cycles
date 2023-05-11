@@ -41,9 +41,24 @@
   * Six femmes pour l'assassin  
   * Zoolander
 
-## Cédric Kahn (1)
+## Cédric Kahn (16)
 
-  * Procès Goldman (Le)
+  * Avion (L')  
+  * Bar des rails  
+  * Bonheur TV  
+  * Culpabilité zéro TV  
+  * Dernières heures du millénaire (Les)  
+  * Ennui (L')  
+  * Fête de famille  
+  * Feux rouges  
+  * Making of  
+  * Prière (La)  
+  * Procès Goldman (Le)  
+  * Regrets (Les)  
+  * Roberto Succo  
+  * Trop de bonheur  
+  * Une vie meilleure  
+  * Vie sauvage
 
 ## David Fincher (12)
 
@@ -68,9 +83,10 @@
 
   * Dingue du palace (Le)
 
-## Raoul Walsh (51)
+## Raoul Walsh (58)
 
   * Amour de marin  
+  * Annie du Klondike  
   * Au service de la gloire  
   * Aventures du capitaine Wyatt (Les)  
   * Aventures en Birmanie  
@@ -86,7 +102,9 @@
   * Cheyenne  
   * Cri de la victoire (Le)  
   * Danse rouge  
+  * Déchaînés (Les)  
   * Désert de la peur = Une corde pour te pendre (Le)  
+  * Deux aventuriers  
   * Du sang sur la neige  
   * Empreintes digitales  
   * Enfer est à lui (L')  
@@ -95,6 +113,7 @@
   * Esther et le roi  
   * Faiblesse humaine  
   * Fantastiques années 20 (Les)  
+  * Femme à abattre (La)  
   * Fille du désert (La)  
   * Fils prodigue (Le)  
   * Géants du ciel (Les)  
@@ -106,15 +125,18 @@
   * Loves of Carmen (The)  
   * Lucky Lady (The)  
   * Man I Love (The)  
+  * Marines, Let's Go !  
+  * Mon ami et moi  
   * Monde lui appartient (Le)  
   * Mystery of the Hindu Image (The)  
-  * Nus et les morts (Les)  
   * Pillars of Society  
   * Piste des géants (La)  
   * Regeneration  
   * Rivière d'argent (La)  
   * Roi et quatre reines (Le)  
+  * Ruelle du péché (La)  
   * Sabotage à Berlin  
+  * Saboteur sans gloire  
   * Singe qui parle (Le)  
   * Un lion dans la rue = L'Homme à abattre  
   * Une femme dangereuse  
@@ -122,13 +144,12 @@
   * Voleur de Bagdad (Le)  
   * Women of All Nations
 
-## Trésors du cinéma fantastique mexicain (9)
+## Trésors du cinéma fantastique mexicain (8)
 
   * Amantes del Señor de la Noche (Las)  
   * Baron de la terreur (Le)  
   * Invasión de los Vampiros (La)  
   * Maldición de la Llorona (La)  
-  * Muñecos Infernales  
   * Museo del horror  
   * Mystères d'outre-tombe (Les)  
   * Proies du vampire (Les)  

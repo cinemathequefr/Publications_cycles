@@ -13,6 +13,16 @@ Les amours d'une jeune fille dépourvue de foyer, de travail et de complexes ave
 
 - sa 23 sep 15h00 GF
 
+[36827]  
+**Annie du Klondike**  
+**(Klondike Annie)**  
+de Raoul Walsh  
+États-Unis / 1936 / 77 min / VOSTF / 16 mm  
+Avec Mae West, Victor McLaglen, Phillip Reed.  
+À la fin du 19e siècle, Rose Carlton, une chanteuse de cabaret de San Francisco, s'enfuit sur une bateau après avoir poignardé son protecteur. Sur le cargo, elle sympathise avec la Sœur Annie, une missionnaire, qui ne tarde pas à décéder et dont elle va prendre la place.
+
+- me 13 sep 20h00 HL
+
 [45140]  
 **Au service de la gloire**  
 **(What Price Glory ?)**  
@@ -31,7 +41,7 @@ Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans le
 de Raoul Walsh  
 États-Unis / 1951 / 101 min / VOSTF / 35 mm  
 Avec Gary Cooper, Mari Aldon, Richard Webb.  
-Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées doivent affronter les féroces Indiens de la région des Everglades.
+Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades. Remake de _Aventures en Birmanie_.
 
 - sa 16 sep 14h30 HL
 
@@ -43,7 +53,7 @@ de Raoul Walsh
 Avec Errol Flynn, James Brown, William Prince.  
 En 1943, un commando de parachutistes américains est largué au-dessus de la zone occupée en Birmanie pour détruire une station radar japonaise. Sa mission accomplie, le commando doit redoubler d'efforts pour fuir les soldats de l'armée japonaise.
 
-- me 13 sep 20h00 HL
+- je 28 sep 20h15 HL
 
 [58507]  
 **Barbe-Noire, le pirate**  
@@ -62,7 +72,7 @@ de Raoul Walsh
 États-Unis / 1953 / 83 min / VOSTF / DCP  
 D'après le roman _Ten against Caesar_ de Kathleen B. Granger , George Granger et Robert A. Granger.  
 Avec Rock Hudson, Donna Reed, Phil Carey.  
-En Arizona, le gang de Frank Slayton dévalise une diligence et kidnappe la fiancée de Ben Warren, qui part immédiatement à la poursuite de Slayton.
+En Arizona, le gang de Frank Slayton dévalise une diligence et kidnappe la fiancée de Ben Warren. Celui-ci est laissé pour mort. Blessé, il part immédiatement à la poursuite de Slayton.
 
 - di 10 sep 19h45 HL
 
@@ -81,7 +91,7 @@ Une mystérieuse et troublante jeune femme, chargée de découvrir les projets n
 **La Blonde et le shériff**  
 **(The Sheriff of Fractured Jaw)**  
 de Raoul Walsh  
-Grande-Bretagne / 1958 / 103 min / VOAutres / 35 mm  
+Grande-Bretagne / 1958 / 103 min / VOSTF / 35 mm  
 Avec Jayne Mansfield, Kenneth More, Bruce Cabot.  
 Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé de prospecter dans un pays prometteur : l'Ouest américain. Jonathan ne tarde pas à se faire remarquer dans cette contrée sauvage.
 
@@ -93,7 +103,7 @@ Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé
 de Raoul Walsh  
 États-Unis / 1954 / 87 min / VOSTF / 16 mm  
 Avec Alan Ladd, Shelley Winters, Robert Douglas.  
-En 1877 dans l'Ouest canadien, un inspecteur de police se révolte contre son commandant inepte, et emprunte une route plus sûre jusqu'à la frontière américaine afin d'empêcher l'invasion d'Indiens hostiles.
+En 1877 dans l'Ouest canadien, un inspecteur de police se révolte contre son commandant borné, et emprunte une route plus sûre jusqu'à la frontière américaine afin d'empêcher l'invasion d'Indiens hostiles.
 
 - di 10 sep 17h45 HL
 
@@ -114,7 +124,7 @@ Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au �
 de Raoul Walsh  
 Grande-Bretagne-États-Unis / 1950 / 117 min / VOSTF / 35 mm  
 Avec Gregory Peck, James Robertson Justice, Christopher Lee.  
-A l'époque des guerres napoléonniennes, le capitaine Horation Hornblower est à la tête d'un petit vaisseau, en mission lointaine. Sur le chemin il rencontre un aventurier révolté contre l'Espagne.  
+A l'époque des guerres napoléonniennes, le capitaine Horation Hornblower est à la tête d'un petit vaisseau. Il doit fournir des armes à un chef de bande, ennemi de l'Espagne.  
 Copie Technicolor original.
 
 - sa 9 sep 14h30 HL
@@ -135,7 +145,7 @@ Matt Hazard, lieutenant de l'armée américaine réaffecté dans l'Arizona, comb
 de Raoul Walsh  
 États-Unis / 1941 / 140 min / VOSTF / 35 mm  
 Avec Errol Flynn, Olivia De Havilland, Arthur Kennedy.  
-1857\. A l'académie militaire de West Point, George Armstrong Custer se fait remarquer tant par son indiscipline que par son talent. Quand la guerre de Sécession éclate, il prend part à l'affrontement contre les indiens de Crazy Horse.
+1857\. A l'académie militaire de West Point, George Armstrong Custer se fait remarquer tant par son indiscipline que par son talent. Il accomplit divers exploits militaires durant la guerre de Sécession. Celle-ci achevée, il est muté à la tête d'une garnison à laquelle vont s'attaquer les guerriers de Crazy Horse.
 
 - sa 2 sep 16h30 HL
 
@@ -144,7 +154,7 @@ Avec Errol Flynn, Olivia De Havilland, Arthur Kennedy.
 de Raoul Walsh  
 États-Unis / 1947 / 100 min / VOSTF / 16 mm  
 Avec Jane Wyman, Dennis Morgan, Janis Paige.  
-Un joueur professionnel accepte d'aider la police en capturant un bandit spécialisé dans l'attaque de diligences.
+Un joueur professionnel accepte d'aider la police en capturant un bandit spécialisé dans les attaques de diligences.
 
 - ve 22 sep 18h00 HL
 
@@ -168,15 +178,35 @@ Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Gra
 
 - sa 7 oct 17h30 GF
 
+[37758]  
+**Les Déchaînés**  
+**(A Private's Affair)**  
+de Raoul Walsh  
+États-Unis / 1959 / 93 min / VOSTF / DCP  
+Avec Sal Mineo, Christine Carère, Barry Coe.  
+Trois énergiques jeunes soldats, Luigi, Jerry et Mike, font leurs classes dans un camp d'entraînement militaire lorsqu'ils apprennent qu'ils sont sélectionnés pour représenter leur unité dans un spectacle télévisé.
+
+- lu 9 oct 18h00 GF
+
 [37734]  
 **Le Désert de la peur = Une corde pour te pendre**  
 **(Along the Great Divide)**  
 de Raoul Walsh  
 États-Unis / 1951 / 88 min / VOSTF / 35 mm  
 Avec Kirk Douglas, Virginia Mayo, Walter Brennan.  
-Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un suspect, Keith, pour le meurtre du fils d'un rancher, Roden.
+Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un suspect, Keith, pour le meurtre du fils d'un rancher, Roden. Il amène l'homme à la ville pour que celui-ci fasse l'objet d'un procès équitable. Mais les hommes de Roden le traquent.
 
 - sa 9 sep 17h00 HL
+
+[85148]  
+**Deux aventuriers**  
+**(When Thief Meets Thief)**  
+de Raoul Walsh  
+États-Unis / 1937 / 87 min / VOSTF / 35 mm  
+Avec Douglas Fairbanks Jr., Valerie Hobson, Alan Hale.  
+Meurtrier involontaire, Ricky est poursuivi par un ami maitre-chanteur, Jim, qui à la suite d'une machination, lui ravit aussi sa fiancée.
+
+- sa 30 sep 15h45 HL
 
 [36840]  
 **Du sang sur la neige**  
@@ -195,7 +225,7 @@ de Raoul Walsh
 États-Unis / 1935 / 76 min / VOSTF / 16 mm  
 D'après les histoires _Hahsit Babe_ et _Big Brown Eyes_ de James Edward Grant.  
 Avec Cary Grant, Joan Bennett, Walter Pidgeon.  
-Dan Barr, gendarme, vit avec Eve Fallon, une manucure, depuis cinq ans, malgré leurs disputes fréquentes. Grâce à Eve, il parvient à pincer Cortig, un malfaiteurs dont une balle perdue a tué un bébé dans le parc.
+Dan Barr, gendarme, vit avec Eve Fallon, une manucure, depuis cinq ans, malgré leurs disputes fréquentes. Grâce à Eve, il parvient à pincer Cortig, un malfaiteurs qui a accidentellement tué un bébé dans le parc, à la suite d'une fusillade.
 
 - sa 23 sep 16h45 GF
 
@@ -205,7 +235,7 @@ Dan Barr, gendarme, vit avec Eve Fallon, une manucure, depuis cinq ans, malgré 
 de Raoul Walsh  
 États-Unis / 1949 / 115 min / VOSTF / 35 mm  
 Avec James Cagney, Virginia Mayo, Edmond O'Brien.  
-Le gangster Cody Jarrett et ses complices attaquent un train en Californie. Pendant l'opération, quatre employés sont tués. La police est déterminée à retrouver les coupables et surveille la mère de Cody, à laquelle ce dernier voue une adoration pathologique.
+Le gangster Cody Jarrett et ses complices attaquent un train en Californie. Pendant l'opération, quatre employés sont tués. La police est déterminée à retrouver les coupables et surveille la mère de Cody, à laquelle ce dernier voue une adoration pathologique. Un policier va tenter d'infiltrer le gang.
 
 - me 30 aoû 20h00 HL  
 Ouverture de la rétrospective
@@ -247,7 +277,7 @@ Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier 
 de Raoul Walsh  
 États-Unis / 1927 / 95 min  
 Avec Gloria Swanson, Lionel Barrymore, Raoul Walsh.  
-Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion de refaire sa vie. Sur cette île du Pacifique, le puritain Davidson ne lui laisse aucun répit et la poursuit de ses discours moralisateurs.
+Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion de refaire sa vie. Sur cette île du Pacifique, le puritain Davidson ne lui laisse aucun répit et menace de la dénoncer et de la renvoyer à San Francisco où elle risque la prison.
 
 - di 8 oct 19h45 GF
 
@@ -260,6 +290,16 @@ Avec James Cagney, Priscilla Lane, Humphrey Bogart.
 Trois soldats américains qui ont combattu en France pendant la Première Guerre mondiale se séparent et retournent à la vie civile. La prohibition va de nouveau les réunir pour le meilleur et pour le pire.
 
 - ve 1 sep 18h00 HL
+
+[37753]  
+**La Femme à abattre**  
+**(The Enforcer)**  
+de Bretaigne Windust, Raoul Walsh  
+États-Unis / 1950 / 88 min / VOSTF / DCP  
+Avec Humphrey Bogart, Zero Mostel, Ted De Corsia.  
+Un policier tente de protéger un témoin capital avant un procès. Celui-ci est traqué par des tueurs à gages.
+
+- ve 29 sep 20h00 HL
 
 [37802]  
 **La Fille du désert**  
@@ -289,7 +329,7 @@ Jether, un berger, est attiré par Tisha, prêtresse d'Ishtar. Il se rend à Bab
 de Raoul Walsh  
 États-Unis / 1948 / 96 min / VOSTF / 16 mm  
 Avec Robert Stack, Edmond O'Brien, Rock Hudson.  
-Le capitaine Hamilton fait partie d'une escadrille basée en Angleterre pendant la Seconde guerre mondiale. Après un acte héroïque, il est autorisé à rentrer aux États-Unis pendant un mois et se marie. Il s'attire ainsi les foudres du major qui impose le célibat à ses hommes.
+1943\. Une base américaine en Angleterre. Un pilote virtuose et indiscipliné devient chef d'escadron. Les missions de bombardement se succèdent en attendant le débarquement en Normandie.
 
 - je 14 sep 18h00 HL
 
@@ -299,7 +339,7 @@ de Raoul Walsh
 États-Unis / 1942 / 104 min / VOSTF / 35 mm  
 D'après l'ouvrage _The Roar of the Crowd_ de James J. Corbett.  
 Avec Errol Flynn, Alexis Smith, Alan Hale.  
-Jim veux tout très vite : être à la fois champion de boxe et grand acteur shakespearien et surtout épouser la fille de son patron. Les entraînements, les matchs fougueux, la vie à toute vitesse sauront lui apprendre à devenir quelqu'un d'honnête et de modeste.
+Jim veux tout très vite : être à la fois champion de boxe, grand acteur shakespearien et surtout épouser la fille de son patron. Les entraînements, les matchs fougueux, la vie à toute vitesse sauront lui apprendront à changer.
 
 - di 3 sep 16h45 HL
 
@@ -312,7 +352,8 @@ D'après le roman _High Sierra_ de W. R. Burnett.
 Avec Ida Lupino, Humphrey Bogart, Alan Curtis.  
 Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de prison. Celui-ci, devenu son débiteur, accepte de participer à ce hold-up qui doit les rendre riches, mais croise la route de la belle Velma.
 
-- ve 1 sep 20h15 HL
+- ve 1 sep 20h15 HL  
+- sa 23 sep 19h00 HL
 
 [36874]  
 **Les Implacables**  
@@ -320,7 +361,7 @@ Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de pr
 de Raoul Walsh  
 États-Unis / 1955 / 122 min / VOSTF / 35 mm  
 Avec Clark Gable, Jane Russell, Robert Ryan.  
-Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement ruinés. Un homme leur propose alors un marché : conduire un immense troupeau à travers les États-Unis pour en partager les bénéfices.
+Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement ruinés. Un homme leur propose alors un marché : conduire un immense troupeau du Texas au Montana pour en partager les bénéfices.
 
 - di 17 sep 17h00 HL
 
@@ -342,7 +383,7 @@ de Raoul Walsh
 Avec Lionel Barrymore, Miriam Cooper, Ralph Graves.  
 Une orpheline retourne chez elle dans une petite ville du nord-ouest du Pacifique après un mariage raté et avec un fils en bas âge.
 
-- ve 6 oct 19h30 GF
+- ve 6 oct 20h00 GF
 
 [81234]  
 **The Loves of Carmen**  
@@ -359,7 +400,7 @@ Restauré par le MoMA avec le soutien de la Film Foundation.
 de Raoul Walsh  
 États-Unis / 1926 / 60 min / INT. FR. / 16 mm  
 Avec Greta Nissen, Lionel Barrymore, William Collier Jr..  
-Le premier Ministre Franz Garletz veut faire marier la Princesse Antoinette avec le Comte Ferranzo. Antoinette, élève dans un couvent, sort clandestinement le soir pour aller voir les spectacles à l'auberge locale. Elle y commence un flirt avec Clarke, un jeune touriste américain.
+Le premier Ministre Franz Garletz veut faire marier la Princesse Antoinette avec le Comte Ferranzo. Antoinette, élève dans un couvent, sort clandestinement le soir pour aller voir les spectacles à l'auberge locale. Elle y commence à flirter avec Clarke, un jeune touriste américain.
 
 - sa 7 oct 14h30 GF
 
@@ -369,9 +410,29 @@ de Raoul Walsh
 États-Unis / 1946 / 96 min / VOSTF / 16 mm  
 D'après le roman _Night Shift_ de Maritta Wolff.  
 Avec Ida Lupino, Robert Alda, Andrea King.  
-Une chanteuse de night-club retourne dans sa famille et découvre la déchéance dans laquelle sont tombes son frère et un pianiste qu'elle admirait.
+Une chanteuse de night-club retourne dans sa famille et découvre la déchéance dans laquelle sont tombés son frère, compromis avec des gangsters, et un pianiste qu'elle admirait et dont elle tombe amoureuse.
 
 - ve 22 sep 20h15 HL
+
+[46330]  
+**Marines, Let's Go !**  
+de Raoul Walsh  
+États-Unis / 1961 / 98 min / VOSTF / DCP  
+Avec Tom Tryon, David Hedison, Tom Reese.  
+Pendant la guerre de Corée, trois Marines, bénéficiant d'une permission au Japon, vivent diverses aventures sentimentales, avant d'être rappelés au front.
+
+- lu 9 oct 20h00 GF
+
+[36832]  
+**Mon ami et moi**  
+**(Me And My Gal)**  
+de Raoul Walsh  
+États-Unis / 1932 / 79 min / VOSTF / DCP  
+Avec Spencer Tracy, Joan Bennett, George Chandler.  
+Dan, un jeune policier new-yorkais, est amoureux d'une serveuse, mais la sœur de cette dernière est la maitresse d'un gangster.  
+Conservé par le MoMA,. Restauration numérique soutenue par 20th Century Fox.
+
+- sa 30 sep 15h45 HL
 
 [36863]  
 **Le Monde lui appartient**  
@@ -379,7 +440,7 @@ Une chanteuse de night-club retourne dans sa famille et découvre la déchéance
 de Raoul Walsh  
 États-Unis / 1952 / 104 min / VOSTF / 35 mm  
 Avec Anthony Quinn, Gregory Peck, Ann Blyth.  
-Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper au Prince Semyon, un prétendant imposé par le tsar.
+Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper à un mariage avec le Prince Semyon, un prétendant imposé par le tsar.
 
 - sa 9 sep 19h30 HL
 
@@ -392,24 +453,13 @@ Emprisonné la veille de son mariage pour le meurtre du propriétaire d'un talis
 
 - ve 6 oct 18h30 GF
 
-[36837]  
-**Les Nus et les morts**  
-**(The Naked and the Dead)**  
-de Raoul Walsh  
-États-Unis / 1958 / 131 min / VOSTF / 35 mm  
-D'après le roman _Les Nus et les morts_ de Norman Mailer.  
-Avec Aldo Ray, Cliff Robertson, Raymond Massey.  
-En pleine guerre du Pacifique, une troupe américaine est rongée par les conflits internes.
-
-- me 20 sep 20h00 HL
-
 [36848]  
 **Pillars of Society**  
 de Raoul Walsh, George Nicholls  
 États-Unis / 1915 / 52 min / INT. FR. / 35 mm  
 D'après la pièce _Samfundets Stotter_ de Henrik Ibsen.  
 Avec Henry B. Walthall, Mary Alden, Juanita Archer.  
-Un mateur, dont la fortune est due au mensonge et a la duplicité, devra faire amende honorable.
+Un armateur, dont la fortune est due au mensonge et a la duplicité, fait l'objet d'un chantage.
 
 - je 31 aoû 18h30 GF
 
@@ -426,9 +476,9 @@ Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'appr
 [36854]  
 **Regeneration**  
 de Raoul Walsh  
-États-Unis / 1915 / 64 min / INT. FR. / DCP  
+États-Unis / 1915 / 72 min / INT. FR. / DCP  
 Avec John McCann, James A. Marcus, Maggie Weston.  
-Orphelin à l'âge de 10 ans, Owen est recueilli par ses voisins violents. Cherchant à fuir ces derniers qui l'exploitent, Owen erre sur les docks de New York et devient chef de gang à 25 ans. L'amour qu'il éprouve pour la travailleuse sociale Marie Deering le mène à la rédemption.
+Orphelin à l'âge de 10 ans, Owen est recueilli par ses voisins violents. Cherchant à fuir ces derniers qui l'exploitent, Owen erre sur les docks de New York et devient chef de gang à 25 ans.
 
 - di 24 sep 14h30 HL
 
@@ -448,9 +498,19 @@ Lors de la guerre de Sécession, le capitaine nordiste Mike McComb est injusteme
 de Raoul Walsh  
 États-Unis / 1956 / 86 min / VOSTF / 35 mm  
 Avec Clark Gable, Eleanor Parker, Barbara Nichols.  
-Débarqué dans un ranch géré par une veuve et ses quatre belles-filles, Dan Kehoe apprend que l'une des propriétaires connaît la cachette d'un important butin.
+Dan Kehoe est recueilli pour une femme qui l'a blessé d'un coup de fusil. Les quatre belles filles de celle-ci, veuves, s'intéressent au blessé qui lui cherche à dérober le butin d'un hold up, caché dans un
 
 - me 20 sep 18h00 HL
+
+[36813]  
+**La Ruelle du péché**  
+**(Glory Alley)**  
+de Raoul Walsh  
+États-Unis / 1951 / VO / 16 mm  
+Avec Leslie Caron, Louis Armstrong, Gilbert Roland.  
+À La Nouvelle-Orléans, Socks Barbarossa, un jeune boxeur, combat pour un titre de champion mais quitte soudainement le ring, sans explication.
+
+- ve 29 sep 18h00 HL
 
 [37814]  
 **Sabotage à Berlin**  
@@ -461,6 +521,16 @@ Avec Errol Flynn, Ronald Reagan, Arthur Kennedy.
 Lors de la Deuxième Guerre mondiale, l'équipage d'un bombardier de la R.A.F. est abattu au-dessus de l'Allemagne. Les cinq rescapés s'organisent et se mettent à la recherche d'un avion pour rentrer en Angleterre.
 
 - di 3 sep 14h30 HL
+
+[36878]  
+**Saboteur sans gloire**  
+**(Uncertain Glory)**  
+de Raoul Walsh  
+États-Unis / 1944 / 102 min / VOSTF / 16 mm  
+Avec Errol Flynn, Paul Lukas, Jean Sullivan.  
+Pendant la Seconde Guerre mondiale, un criminel évadé et un policier sont coincés dans un village dont les habitants ont été pris en otages par les Allemands.
+
+- je 28 sep 18h00 HL
 
 [85152]  
 **Le Singe qui parle**  
@@ -491,7 +561,7 @@ de Raoul Walsh
 États-Unis / 1940 / 93 min / VOSTF / 35 mm  
 D'après le roman _Long Haul_ d'A.I. Bezzerides.  
 Avec George Raft, Ann Sheridan, Humphrey Bogart.  
-Deux frères qui dirigent une petite entreprise de transport sont soupçonnés de l'assassinat de leur concurrent.
+Le dirigeant d'une entreprise de transport est accusé d'assassinat par la femme d'un de ses concurrents retrouvé mort.
 
 - sa 2 sep 14h30 HL
 
@@ -501,7 +571,7 @@ Deux frères qui dirigent une petite entreprise de transport sont soupçonnés d
 de Raoul Walsh  
 États-Unis / 1953 / 82 min / VOSTF / 35 mm  
 Avec Rock Hudson, Julie Adams, Mary Castle.  
-Un homme est victime des ennuis provoqués par son tempérament aventureux.
+Un homme est victime des ennuis provoqués par son tempérament aventureux et son habilité au pistolet.
 
 - ve 15 sep 20h00 HL
 
@@ -520,7 +590,7 @@ La fille du Calife tombe amoureuse d'un sympathique voleur qui devra la conquér
 de Raoul Walsh  
 États-Unis / 1931 / 72 min / VOSTF / 35 mm  
 Avec Edmund Lowe, Victor McLaglen, Greta Nissen.  
-Les aventures de Flagg et Quirt, à New York, en Suède où ils rencontrent la belle Else, au Nicaragua et en Égypte où ils retrouvent Else.  
+Flagg et Quirt, deux marines qui tentent chacun de séduire la belle Else en Suède puis en Égypte où celle-ci fait partie du harem d'un prince.  
 Restauré par UCLA Film & Television Archive.
 
 - sa 7 oct 19h45 GF

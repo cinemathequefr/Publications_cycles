@@ -21,11 +21,11 @@
   * Saison pourpre (La)  
   * Stranger  
   * Syndrome des amours passées (Le)  
-  * The Real Truth about the Fight (The)  
+  * The Real Truth About the Fight (The)  
   * Tiger Stripes  
   * Via Dolorosa  
   * Vincent doit mourir  
-  * Walking With Her into the Night
+  * Walking With Her Into the Night
 
 ## Aujourd'hui le cinéma (12)
 

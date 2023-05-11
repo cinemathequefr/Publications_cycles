@@ -36,13 +36,6 @@ Selma, sorcière démoniaque, manipule la jeune Amelia pour qu'elle réalise un 
 
 - ve 27 oct 20h30 GF
 
-[154429]  
-**Muñecos Infernales**  
-de Benito Alazraki  
-Mexique / 1961
-
-- sa 28 oct 18h30 GF
-
 [154264]  
 **Museo del horror**  
 de Rafael Baledon  

@@ -33,7 +33,6 @@ Jack erre sans but réel dans sa vie. Las de son existence morne, il devient mem
 
 Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mange seul ses plateaux-repas individuels comme beaucoup d'autres personnes solitaires qui connaissent la misère humaine, morale et sexuelle. C'est pourquoi il va devenir membre du Fight Club et il va pouvoir retrouver sa virilité, l'échange et la communication.
 
-- sa 14 oct 14h30 HL  
 - sa 14 oct 17h15 HL
 
 [29008]  

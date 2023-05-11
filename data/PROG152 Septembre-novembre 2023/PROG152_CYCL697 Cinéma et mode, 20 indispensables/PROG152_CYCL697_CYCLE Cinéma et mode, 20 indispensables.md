@@ -69,7 +69,7 @@ Italie-France / 1971 / 119 min / VOSTF / 35 mm
 Avec Peter Gonzales Falcon, Fiona Florence, Marne Maitland.  
 Rome de 1930 à nos jours vue par un de ses admirateurs, Federico Fellini. Fresque monumentale où réalité et fantasme sont étroitement mêlés.
 
-- je 7 sep 19h00 HL
+- je 7 sep 19h30 HL
 
 [35221]  
 **La Femme modèle**  

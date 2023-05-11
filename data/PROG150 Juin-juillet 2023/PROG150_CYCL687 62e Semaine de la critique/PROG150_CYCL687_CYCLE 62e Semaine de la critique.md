@@ -71,7 +71,6 @@ Sofia, jeune joueuse de volleyball prometteuse, apprend qu'elle est enceinte la 
 
 [154438]  
 **Jam**  
-**(잠)**  
 de Jason Yu  
 Corée / 2023 / 109 min / VOSTF / DCP  
 Avec Jung Yu-mi, Lee Sun-kyun.  
@@ -82,7 +81,7 @@ La vie d'un jeune couple est bouleversée quand le mari devient somnambule et se
 ## Courts métrages en compétition
 
 [154456]  
-**Walking With Her into the Night**  
+**Walking With Her Into the Night**  
 de Hui Shu  
 Chine / 2023 / 30 min / VOSTF / DCP  
 Avec Qingsong Tang, Jingru Zheng.  
@@ -118,7 +117,7 @@ Fran est de passage dans sa ville natale pour se reposer et rendre visite à sa 
 - sa 10 juin 15h00 GF
 
 [154454]  
-**The The Real Truth about the Fight**  
+**The The Real Truth About the Fight**  
 **(Prava istina priče o šori)**  
 d'Andrea Slaviček  
 Croatie-Espagne / 2023 / 13 min / VOSTF / DCP  
