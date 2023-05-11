@@ -6,7 +6,7 @@
   * Arkhé  
   * Boléro  
   * Contadores  
-  * Corps Scintillants  
+  * Corps scintillants  
   * Crocodile (Le)  
   * Fille de son père (La)  
   * Il pleut dans la maison  

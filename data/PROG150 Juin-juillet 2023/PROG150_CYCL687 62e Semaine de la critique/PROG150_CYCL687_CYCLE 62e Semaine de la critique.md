@@ -1,6 +1,6 @@
 # 62e Semaine de la critique
 
-## Les films
+## Film d'ouverture
 
 [154433]  
 **Ama Gloria**  
@@ -11,6 +11,8 @@ Cléo, six ans, aime follement Gloria, sa nounou qui l'élève depuis sa naissan
 
 - me 7 juin 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Marie Amachoukeli
+
+## Longs métrages en compétition
 
 [154442]  
 **Tiger Stripes**  
@@ -31,29 +33,6 @@ Jordanie, de nos jours. Après la mort de son mari, Nawal, la trentaine, doit se
 
 - je 8 juin 20h30 HL
 
-[154444]  
-**Midnight Skin**  
-de Manolis Mavris  
-Grèce-France / 2023 / 40 min / VOSTF / DCP  
-Avec Romanna Lobach, Katerina Zisoudi.  
-Fanny, infirmière dans un grand hôpital public, sombre chaque nuit dans le même cauchemar obsessionnel, où elle assiste à sa propre métamorphose en arbre. Son quotidien rodé et solitaire vacille à mesure que le rêve empiète sur la réalité.  
-suivi de  
-[154445]  
-**Pleure pas Gabriel**  
-de Mathilde Chavanne  
-France / 2023 / 24 min / DCP  
-Avec Dimitri Doré, Tiphaine Raffier, Martine Chevallier.  
-Gabriel va mal, le monde va mal, tout va mal. Heureusement, parfois, les âmes en peine s'aimantent. Ainsi Margot embarque-t-elle dans la nuit de Gabriel.  
-suivi de  
-[154446]  
-**Stranger**  
-de Jehnny Beth, Iris Chassaigne  
-France / 2023 / 18 min / DCP  
-Avec Jehnny Beth, Agathe Rousselle, Finnegan Oldfield.  
-Cela fait 548 jours que A ne ressent plus rien, qu'elle est absente de sa vie. Une nuit, J apparaît et l'entraîne avec elle, cherchant par tous les moyens à relancer son cœur.
-
-- ve 9 juin 16h00 HL
-
 [154436]  
 **Il pleut dans la maison**  
 de Paloma Sermon-Daï  
@@ -63,14 +42,44 @@ Sous un soleil caniculaire, Purdey, dix-sept ans, et son frère Makenzy, quinze 
 
 - ve 9 juin 18h15 HL
 
-[154432]  
-**Vincent doit mourir**  
-de Stéphan Castang  
-France / 2023 / 107 min / DCP  
-Avec Karim Leklou, Vimala Pons.  
-Du jour au lendemain, Vincent est agressé à plusieurs reprises et sans raison par des gens qui tentent de le tuer. Son existence d'homme sans histoires en est bouleversée et, quand le phénomène s'amplifie, il n'a d'autre choix que de fuir et de changer son mode de vie.
+[154439]  
+**Le Ravissement**  
+d'Iris Kaltenback  
+France / 2023 / 97 min / DCP  
+Avec Hafsia Herzi, Alexis Manenti, Nina Meurisse.  
+Lydia, sage-femme très investie dans son travail, est en pleine rupture amoureuse. Au même moment, sa meilleure amie, Salomé, lui annonce qu'elle est enceinte et lui demande de suivre sa grossesse. Le jour où Lydia recroise Milos, une conquête d'un soir, alors qu'elle tient le bébé de son amie dans ses bras, elle s'enfonce dans un mensonge, au risque de tout perdre...
 
-- ve 9 juin 20h30 HL
+- sa 10 juin 17h30 HL
+
+[154441]  
+**Lost Country**  
+de Vladimir Perišić  
+France-Croatie-Serbie-Luxembourg / 2023 / 98 min / VOSTF / DCP  
+Avec Jasna Đuričić, Jovan Ginic.  
+Serbie, 1996. Pendant les manifestations étudiantes contre le régime de Milošević, Stefan, 15 ans, mène dans le feu des événements sa propre révolution : accepter l'inacceptable, voir dans sa mère – porte-parole du parti au pouvoir – une complice du crime et trouver, malgré l'amour qu'il ressent pour elle, la force de la confronter.
+
+- di 11 juin 19h30 HL
+
+[154440]  
+**Levante**  
+de Lillah Halla  
+Brésil-Uruguay-France / 2023 / 92 min / VOSTF / DCP  
+Avec Ayomi Domenica Dias, Loro Bardot.  
+Sofia, jeune joueuse de volleyball prometteuse, apprend qu'elle est enceinte la veille d'un championnat qui peut sceller son destin. Ne voulant pas de cette grossesse, elle cherche à se faire avorter illégalement et se retrouve la cible d'un groupe fondamentaliste bien décidé à l'en empêcher à tout prix. Mais ni Sofia ni ses proches n'ont l'intention de se soumettre à l'aveugle ferveur de la masse.
+
+- lu 12 juin 18h30 HL
+
+[154438]  
+**Jam**  
+**(잠)**  
+de Jason Yu  
+Corée / 2023 / 109 min / VOSTF / DCP  
+Avec Jung Yu-mi, Lee Sun-kyun.  
+La vie d'un jeune couple est bouleversée quand le mari devient somnambule et se transforme en quelqu'un d'autre la nuit tombée. Submergée par la peur qu'il fasse du mal à leur nouveau-né, sa femme ne trouve plus le sommeil.
+
+- lu 12 juin 20h30 HL
+
+## Courts métrages en compétition
 
 [154456]  
 **Walking With Her into the Night**  
@@ -86,8 +95,8 @@ France / 2023 / 11 min / VOSTF / DCP
 Entre toxicomanie, premières découvertes de la sexualité et état de guerre permanent, la cinéaste cherche sa jeunesse perdue en errant dans les rues de Jérusalem.  
 suivi de  
 [154450]  
-**Corps Scintillants**  
-**(Corpos Cintilantes)**  
+**Corps scintillants**  
+**(Corpos cintilantes)**  
 d'Inês Teixeira  
 Portugal / 2023 / 23 min / DCP  
 Avec Maria Abreu, Gaspar Menezes.  
@@ -107,42 +116,6 @@ Avec François Chaignaud, Muriel Laborde-Jourdàa, Mellie Laborde-Jourdàa.
 Fran est de passage dans sa ville natale pour se reposer et rendre visite à sa mère. Suivant le rythme saccadé du _Boléro_ de Ravel, ce parcours sur les chemins du souvenir et du désir va le mener, ainsi que tout le village, à une apothéose joyeusement chaotique.
 
 - sa 10 juin 15h00 GF
-
-[154439]  
-**Le Ravissement**  
-d'Iris Kaltenback  
-France / 2023 / 97 min / DCP  
-Avec Hafsia Herzi, Alexis Manenti, Nina Meurisse.  
-Lydia, sage-femme très investie dans son travail, est en pleine rupture amoureuse. Au même moment, sa meilleure amie, Salomé, lui annonce qu'elle est enceinte et lui demande de suivre sa grossesse. Le jour où Lydia recroise Milos, une conquête d'un soir, alors qu'elle tient le bébé de son amie dans ses bras, elle s'enfonce dans un mensonge, au risque de tout perdre...
-
-- sa 10 juin 17h30 HL
-
-[154443]  
-**Le Syndrome des amours passées**  
-d'Ann Sirot, Raphaël Balboni  
-Belgique-France / 2023 / 89 min / DCP  
-Avec Lucie Debay, Lazare Gousseau, Florence Loiret-Caille.  
-Rémy et Sandra n'arrivent pas à avoir d'enfant car ils sont atteints du « syndrome des amours passées ». Pour guérir, il n'y a qu'une seule solution : ils doivent recoucher une fois avec chacun de leurs ex.
-
-- sa 10 juin 20h00 HL
-
-[154431]  
-**La Fille de son père**  
-d'Erwan Le Duc  
-France / 2023 / 91 min / DCP  
-Avec Nahuel Pérez Biscayart, Céleste Brunnquell, Maud Wyler.  
-Étienne a vingt ans à peine lorsqu'il tombe amoureux de Valérie, et guère plus lorsque naît leur fille Rosa. Le jour où Valérie les abandonne, il décide de se construire une vie heureuse avec Rosa. Seize ans plus tard, lorsque Rosa doit partir étudier et qu'ils doivent se séparer pour vivre chacun leur vie, le passé ressurgit.
-
-- di 11 juin 17h15 HL
-
-[154441]  
-**Lost Country**  
-de Vladimir Perišić  
-France-Croatie-Serbie-Luxembourg / 2023 / 98 min / VOSTF / DCP  
-Avec Jasna Đuričić, Jovan Ginic.  
-Serbie, 1996. Pendant les manifestations étudiantes contre le régime de Milošević, Stefan, 15 ans, mène dans le feu des événements sa propre révolution : accepter l'inacceptable, voir dans sa mère – porte-parole du parti au pouvoir – une complice du crime et trouver, malgré l'amour qu'il ressent pour elle, la force de la confronter.
-
-- di 11 juin 19h30 HL
 
 [154454]  
 **The The Real Truth about the Fight**  
@@ -183,22 +156,57 @@ Après un violent accident, Eissa, jeune migrant de 17 ans venu d'Afrique noire,
 
 - lu 12 juin 16h00 GF
 
-[154440]  
-**Levante**  
-de Lillah Halla  
-Brésil-Uruguay-France / 2023 / 92 min / VOSTF / DCP  
-Avec Ayomi Domenica Dias, Loro Bardot.  
-Sofia, jeune joueuse de volleyball prometteuse, apprend qu'elle est enceinte la veille d'un championnat qui peut sceller son destin. Ne voulant pas de cette grossesse, elle cherche à se faire avorter illégalement et se retrouve la cible d'un groupe fondamentaliste bien décidé à l'en empêcher à tout prix. Mais ni Sofia ni ses proches n'ont l'intention de se soumettre à l'aveugle ferveur de la masse.
+## Séances spéciales
 
-- lu 12 juin 18h30 HL
+[154444]  
+**Midnight Skin**  
+de Manolis Mavris  
+Grèce-France / 2023 / 40 min / VOSTF / DCP  
+Avec Romanna Lobach, Katerina Zisoudi.  
+Fanny, infirmière dans un grand hôpital public, sombre chaque nuit dans le même cauchemar obsessionnel, où elle assiste à sa propre métamorphose en arbre. Son quotidien rodé et solitaire vacille à mesure que le rêve empiète sur la réalité.  
+suivi de  
+[154445]  
+**Pleure pas Gabriel**  
+de Mathilde Chavanne  
+France / 2023 / 24 min / DCP  
+Avec Dimitri Doré, Tiphaine Raffier, Martine Chevallier.  
+Gabriel va mal, le monde va mal, tout va mal. Heureusement, parfois, les âmes en peine s'aimantent. Ainsi Margot embarque-t-elle dans la nuit de Gabriel.  
+suivi de  
+[154446]  
+**Stranger**  
+de Jehnny Beth, Iris Chassaigne  
+France / 2023 / 18 min / DCP  
+Avec Jehnny Beth, Agathe Rousselle, Finnegan Oldfield.  
+Cela fait 548 jours que A ne ressent plus rien, qu'elle est absente de sa vie. Une nuit, J apparaît et l'entraîne avec elle, cherchant par tous les moyens à relancer son cœur.
 
-[154438]  
-**Jam**  
-**(잠)**  
-de Jason Yu  
-Corée / 2023 / 109 min / VOSTF / DCP  
-Avec Jung Yu-mi, Lee Sun-kyun.  
-La vie d'un jeune couple est bouleversée quand le mari devient somnambule et se transforme en quelqu'un d'autre la nuit tombée. Submergée par la peur qu'il fasse du mal à leur nouveau-né, sa femme ne trouve plus le sommeil.
+- ve 9 juin 16h00 HL
 
-- lu 12 juin 20h30 HL
+[154432]  
+**Vincent doit mourir**  
+de Stéphan Castang  
+France / 2023 / 107 min / DCP  
+Avec Karim Leklou, Vimala Pons.  
+Du jour au lendemain, Vincent est agressé à plusieurs reprises et sans raison par des gens qui tentent de le tuer. Son existence d'homme sans histoires en est bouleversée et, quand le phénomène s'amplifie, il n'a d'autre choix que de fuir et de changer son mode de vie.
+
+- ve 9 juin 20h30 HL
+
+[154443]  
+**Le Syndrome des amours passées**  
+d'Ann Sirot, Raphaël Balboni  
+Belgique-France / 2023 / 89 min / DCP  
+Avec Lucie Debay, Lazare Gousseau, Florence Loiret-Caille.  
+Rémy et Sandra n'arrivent pas à avoir d'enfant car ils sont atteints du « syndrome des amours passées ». Pour guérir, il n'y a qu'une seule solution : ils doivent recoucher une fois avec chacun de leurs ex.
+
+- sa 10 juin 20h00 HL
+
+## Séance de clôture
+
+[154431]  
+**La Fille de son père**  
+d'Erwan Le Duc  
+France / 2023 / 91 min / DCP  
+Avec Nahuel Pérez Biscayart, Céleste Brunnquell, Maud Wyler.  
+Étienne a vingt ans à peine lorsqu'il tombe amoureux de Valérie, et guère plus lorsque naît leur fille Rosa. Le jour où Valérie les abandonne, il décide de se construire une vie heureuse avec Rosa. Seize ans plus tard, lorsque Rosa doit partir étudier et qu'ils doivent se séparer pour vivre chacun leur vie, le passé ressurgit.
+
+- di 11 juin 17h15 HL
 
