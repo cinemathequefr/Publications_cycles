@@ -8,7 +8,7 @@ de Catherine Breillat
 France / 1987 / 88 min / 35 mm  
 D'après le roman _36 fillette_ de Catherine Breillat.  
 Avec Delphine Zentout, Étienne Chicot, Olivier Parnière, Jean-Pierre Léaud.  
-Lili, quatorze ans, passe ses vacances dans un camping avec ses parents et son frère. Un soir, elle rencontre Maurice, quadragénaire cynique qui cherche à la séduire. Une relation ambiguë s'installe alors.
+Lili, quatorze ans, passe ses vacances dans un camping avec ses parents et son frère. Un soir, elle rencontre Maurice, quadragénaire cynique qui cherche à la séduire. Une relation ambiguë s'installe alors entre eux.
 
 - sa 23 sep 14h30 HL
 
@@ -44,6 +44,7 @@ Dans une boîte homosexuelle, un jeune homme danse, une jeune femme s'ouvre les 
 **Barbe Bleue TV**  
 de Catherine Breillat  
 France / 2008 / 90 min  
+Avec Dominique Thomas, Lola Créton, Daphné Baiwir.  
 Catherine adore effrayer sa grande sœur Marie-Anne en lui lisant obstinément le conte jusqu'à ce qu'elle pleure. En même temps Catherine se projette dans le conte, elle y devient la princesse Marie-Catherine, la dernière femme de Barbe Bleue, celle qui ne rejoindra pas les femmes pendues qui l'ont précédée.
 
 - je 28 sep 18h00 JE
@@ -63,7 +64,7 @@ Film réalisé pour la collection _Masculin-Féminin_.
 de Catherine Breillat  
 France / 2023 / 104 min / DCP  
 Avec Léa Drucker, Samuel Kircher, Olivier Rabourdin.  
-Une avocate renommée met en péril sa carrière et menace de briser sa famille en ayant une liaison avec son beau-fils de 17 ans.
+Une avocate renommée met en péril sa carrière et sa famille en ayant une liaison avec son beau-fils de 17 ans.
 
 - lu 18 sep 20h00 HL  
 Avant-première
@@ -82,7 +83,7 @@ Avec Carla Besnaïnou, Julia Artamonov, Kerian Mayan.
 de Catherine Breillat  
 France / 1995 / 113 min / 35 mm  
 Avec Francis Renaud, Isabelle Renauld, Laura Saglio.  
-L'aventure sans lendemain entre Christophe et Frédérique se meut en passion. Bientôt la discorde et la violence affleurent.
+L'aventure sans lendemain entre Christophe et Frédérique, de dix ans son ainée, se meut en passion. Bientôt la discorde et la violence affleurent.
 
 - ve 22 sep 20h45 GF
 
@@ -100,7 +101,7 @@ Une jeune femme, Marie, vit avec son compagnon, Paul, une relation frustrante su
 de Catherine Breillat  
 France / 1990 / 105 min  
 Avec Lio, Claude Brasseur, Nils Tavernier.  
-Georges Deblache, un flic quinquagénaire, solitaire, et alcoolique, veut protéger son vieil ami Mannoni, un trafiquant de drogue notoire. Il installe son coéquipier Théron en protection rapprochée au domicile de Mannoni. Dans le même temps, il se lie à Barbara, l'épouse de Théron, une jeune femme au charme dérangeant.
+Georges Deblache, un flic quinquagénaire, solitaire, et alcoolique, veut protéger son vieil ami Mannoni, un trafiquant de drogue notoire. Il installe son coéquipier Théron en protection rapprochée au domicile de Mannoni. Dans le même temps, il tente de séduire Barbara, l'épouse de Théron.
 
 - ve 22 sep 18h30 GF
 
@@ -108,6 +109,7 @@ Georges Deblache, un flic quinquagénaire, solitaire, et alcoolique, veut proté
 **Sex is comedy**  
 de Catherine Breillat  
 France / 2001 / 93 min / 35 mm  
+Avec Anne Parillaud, Grégoire Colin, Roxane Mesquida.  
 La réalisatrice Jeanne rencontre des difficultés sévères pendant le tournage de son nouveau film. L'acteur et l'actrice principaux se détestent et doivent s'embrasser passionnément à de nombreuses reprises. Le plus grand problème est la relation troublée de Jeanne avec l'acteur, un jeune homme qui aime la liberté et l'énerve par ses caprices.
 
 - di 24 sep 19h15 GF
@@ -138,7 +140,7 @@ de Catherine Breillat
 France / 1975 / 93 min / 35 mm  
 D'après le roman _Le Soupirail_ de Catherine Breillat.  
 Avec Charlotte Alexandra, Hiram Keller, Rita Maiden, Bruno Balp.  
-Alice, adolescente, vient passer ses vacances chez ses parents dans les Landes. Ils possèdent une scierie ou ils emploient un jeune garcon, Jim. Alice se sent très attirée par le jeune homme. Mais Jim, déjà fiancé, résiste à ses avances, ce qui la fait d'autant plus fantasmer en imaginant leurs jeux érotiques, voire sadomasochistes.
+Alice, adolescente, vient passer ses vacances chez ses parents dans les Landes. Ils possèdent une scierie où ils emploient un jeune garcon, Jim. Alice se sent très attirée par le jeune homme. Elle tente de le séduire.
 
 - me 20 sep 18h30 GF
 

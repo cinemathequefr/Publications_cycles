@@ -51,7 +51,7 @@ suivi de
 [154247]  
 **Memory Slot – Track 1**  
 de Yann Gonzalez, Alain Garcia Vergara  
-France / 2023 / 12 min / VOSTF / 35 mm  
+France / 2023 / 12 min / VOSTF / DCP  
 « Rejoins-moi, mon ami. Puisque tu es mon meilleur ami. On m'a parlé de ce lieu. Un lieu lointain. Selon certains c'est le paradis. Faisons l'amour. Toi et moi. Amène le corps, j'amène le beat. » (Wladimir M.)  
 Première mondiale.
 
@@ -330,7 +330,7 @@ suivi de
 [154004]  
 **Orfeo filmando en el campo de batalla**  
 d'Antonio Maenza Blasco  
-Espagne / 1968 / 37 min / VOSTF / Numérique  
+Espagne / 1968 / 37 min / VO / Numérique  
 Avec Maite Larrauri, Luis Puig, Rafa Ferrando, Narciso Sáez.  
 Essai amoureux et politique où la réinvention du désir et de la vie ensemble, si possible à trois, participe aussi de l'idéal révolutionnaire.
 
