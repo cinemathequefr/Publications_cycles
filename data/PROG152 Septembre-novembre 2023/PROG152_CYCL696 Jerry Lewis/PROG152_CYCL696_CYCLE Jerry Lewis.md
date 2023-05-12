@@ -11,6 +11,16 @@ de Jerry Lewis
 - me 8 nov 20h00 HL  
 Ouverture de la rétrospective
 
+[33623]  
+**Docteur Jerry et Mister Love**  
+**(The Nutty Professor)**  
+de Jerry Lewis  
+États-Unis / 1962 / 118 min / VOSTF / DCP  
+Avec Jerry Lewis, Stella Stevens.  
+Les mésaventures d'un doux dingue professeur de chimie s'enchaînent dans cette parodie de _Dr Jekyll et Mr Hyde_, entre mimiques et pitreries délirantes.
+
+- je 23 nov 19h00 GF
+
 [127627]  
 **Jerry Lewis**  
 **(Jerry Lewis og hans verden)**  
@@ -51,4 +61,6 @@ de Jerry Lewis
 Avec Jerry Lewis, Helen Traubel, Kathleen Freeman.
 
 - sa 18 nov 14h30 HL
+
+## Rencontres et conférences
 

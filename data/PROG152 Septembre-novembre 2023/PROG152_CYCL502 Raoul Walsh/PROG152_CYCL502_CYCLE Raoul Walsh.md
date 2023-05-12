@@ -532,6 +532,16 @@ Film incomplet.
 
 - sa 7 oct 16h00 GF
 
+[37792]  
+**Têtes brûlées**  
+**(The Cock-Eyed World)**  
+de Raoul Walsh  
+États-Unis / 1929 / 118 min / VOSTF / 16 mm  
+Avec Edmund Lowe, Victor McLaglen, Lili Damita.  
+Deux marines envoyés dans les îles se battent pour les yeux d'une belle Haïtienne.
+
+- sa 7 oct 19h45 GF
+
 [79825]  
 **Un lion dans la rue = L'Homme à abattre**  
 **(A Lion Is in the Streets)**  
@@ -573,14 +583,4 @@ Avec Douglas Fairbanks, Snitz Edwards, Anna May Wong.
 La fille du Calife tombe amoureuse d'un sympathique voleur qui devra la conquérir.
 
 - di 10 sep 15h00 HL
-
-[67395]  
-**Women of All Nations**  
-de Raoul Walsh  
-États-Unis / 1931 / 72 min / VOSTF / 35 mm  
-Avec Edmund Lowe, Victor McLaglen, Greta Nissen.  
-Flagg et Quirt, deux marines qui tentent chacun de séduire la belle Else en Suède puis en Égypte où celle-ci fait partie du harem d'un prince.  
-Restauré par UCLA Film & Television Archive.
-
-- sa 7 oct 19h45 GF
 

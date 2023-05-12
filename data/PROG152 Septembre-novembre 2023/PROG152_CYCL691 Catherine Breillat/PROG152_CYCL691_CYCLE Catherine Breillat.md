@@ -47,7 +47,7 @@ France / 2009 / 90 min
 Avec Dominique Thomas, Lola Créton, Daphné Baiwir.  
 Catherine adore effrayer sa grande sœur Marie-Anne en lui lisant obstinément le conte jusqu'à ce qu'elle pleure. En même temps Catherine se projette dans le conte, elle y devient la princesse Marie-Catherine, la dernière femme de Barbe Bleue, celle qui ne rejoindra pas les femmes pendues qui l'ont précédée.
 
-- je 28 sep 18h00 JE
+- je 28 sep 20h45 JE
 
 [154420]  
 **La Belle endormie**  
@@ -56,7 +56,7 @@ France / 2010
 Avec Carla Besnaïnou, Julia Artamonov, Kerian Mayan.  
 À sa naissance, Anastasia est victime d'un sort jeté par la fée Carabosse: à 16 ans, elle se transpercera la main et mourra. Trois jeunes fées surgissent trop tard pour conjurer le sort, tout juste peuvent-elles prédire qu'au lieu de mourir, Anastasia s'endormira pour 100 ans.
 
-- je 28 sep 17h15 JE
+- je 28 sep 18h30 JE
 
 [111102]  
 **Brève traversée**  
@@ -75,8 +75,7 @@ France / 2023 / 104 min / DCP
 Avec Léa Drucker, Samuel Kircher, Olivier Rabourdin.  
 Une avocate renommée met en péril sa carrière et sa famille en ayant une liaison avec son beau-fils de 17 ans.
 
-- lu 18 sep 20h00 HL  
-Avant-première
+- lu 18 sep 20h00 HL
 
 [60437]  
 **Parfait amour**  

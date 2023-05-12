@@ -34,6 +34,13 @@ Avec Erna Martha Bauman, Rafael del Río, Tito Junco.
 
 - di 29 oct 18h30 GF
 
+[154473]  
+**La Bruja**  
+de Chano Urueta  
+Mexique / 1954 / 90 min / VOSTF / DCP
+
+- sa 28 oct 18h30 GF
+
 [154291]  
 **La Maldición de la Llorona**  
 de Rafael Baledón  
@@ -87,8 +94,7 @@ Mexique / 1957 / 83 min / VOSTF / DCP
 Avec Germán Robles, Abel Salazar, Ariadna Welter, Carmen Montejo.  
 Une jeune Mexicaine, revenue dans sa famille pour des funérailles, entend des histoires troublantes : la ville serait infestée de vampires. Rapidement, elle soupçonne sa tante et un mystérieux voisin.
 
-- je 26 oct 20h00 HL  
-Ouverture de la rétrospective
+- je 26 oct 20h00 HL
 
 [154263]  
 **El Vampiro sangriento**  
@@ -96,5 +102,14 @@ de Miguel Morayta
 Mexique / 1962 / 95 min / VOSTF / DCP  
 Avec Begoña Palacios, Erna Martha Bauman, Raúl Farell, Bertha Moss.
 
-- di 29 oct 20h30 GF
+- di 29 oct 20h45 GF
+
+[117467]  
+**Veneno para las hadas**  
+de Carlos Enrique Taboada  
+Mexique / 1984 / 90 min / VOSTF / DCP  
+Avec Elsa María Gutiérrez, Ana Patricia Rojo, Leonor Llausas.  
+Une petite fille d'aristocrates solitaire devient l'amie d'une mystérieuse autre fille qui rêve de devenir sorcière. Leurs jeux sont de plus en plus macabres, une escalade qui les conduit au meurtre.
+
+- sa 28 oct 16h30 GF
 

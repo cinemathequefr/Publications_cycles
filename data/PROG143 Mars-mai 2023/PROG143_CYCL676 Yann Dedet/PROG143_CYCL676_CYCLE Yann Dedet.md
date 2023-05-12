@@ -21,7 +21,7 @@ Avec Jean-Pierre Léaud, Kika Markham, Stacey Tendeter.
 À Paris, au début du XIX<sup>e</sup> siècle, Claude rencontre une jeune Anglaise qui l'invite en vacances au pays de Galles, où elle fait tout pour qu'il tombe amoureux de sa sœur.
 
 - sa 13 mai 19h00 HL  
-Séance présentée par Kika Markham
+  Séance présentée par Kika Markham
 
 [131740]  
 **L'Économie du couple**  
@@ -31,7 +31,7 @@ Avec Bérénice Bejo, Cédric Kahn, Marthe Keller.
 Après 15 ans de mariage, Marie et Boris, un couple avec deux enfants, sont sur le point de divorcer. En attendant que Boris trouve un nouvel endroit pour vivre, ils doivent cohabiter et trouver comment partager leurs biens.
 
 - je 18 mai 18h30 GF  
-Séance présentée par Joachim Lafosse
+  Séance présentée par Joachim Lafosse
 
 [122531]  
 **Les Femmes de Višegrad**  
@@ -51,8 +51,8 @@ Avec Luís Miguel Cintra, Valérie Loiseleux, Mariana Guerreiro.
 La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film de Manoel de Oliveira, _L'Étrange Affaire Angélica_. Dans les salles de montage commence un voyage intérieur, parmi les souvenirs de ce cinéma avec lequel elle a grandi.
 
 - ve 19 mai 21h00 GF  
-Séance présentée par Louise Traon  
-Film suivi de _Quand je serai jeune_ de Yann Dedet
+  Séance présentée par Louise Traon  
+  Film suivi de _Quand je serai jeune_ de Yann Dedet
 
 [137947]  
 **I Am Not a Witch**  
@@ -80,7 +80,7 @@ Avec Denis Lavant, Antoine Chappey, Sophie Simon, Johnny Thunders.
 Pierre est amoureux de Mona. Il vit avec ses copains entre musique, drogue, embrouilles et amours. Il rencontre Johnny, icône punk rock, et décide d'organiser un concert à Paris.
 
 - ve 12 mai 18h00 GF  
-Séance présentée par Antoine Chappey
+  Séance présentée par Antoine Chappey
 
 [60154]  
 **Nénette et Boni**  
@@ -90,7 +90,7 @@ Avec Grégoire Colin, Alice Houri, Valeria Bruni Tedeschi.
 À Marseille, Boniface est pizzaïolo. Depuis la mort de sa mère, il ne voit plus son père, Félix. Un jour, sa sœur de quinze ans, Nénette, débarque chez lui, enceinte.
 
 - je 11 mai 18h30 GF  
-Séance présentée par Claire Denis
+  Séance présentée par Claire Denis
 
 [59545]  
 **Outremer**  
@@ -100,7 +100,7 @@ Avec Nicole Garcia, Brigitte Roüan, Marianne Basler.
 Suzanne, Madeleine et Marguerite, trois sœurs d'une grande famille pied-noir, assistent en Algérie aux derniers temps des colonies.
 
 - ve 12 mai 20h15 GF  
-Séance présentée par Brigitte Roüan
+  Séance présentée par Brigitte Roüan
 
 [51338]  
 **Passe montagne**  
@@ -110,7 +110,7 @@ Avec Jean-François Stévenin, Jacques Villeret, Yves Lemoigne.
 La voiture de Georges, architecte parisien, tombe en panne sur l'autoroute. Serge, mécanicien divorcé, propose de le dépanner. Les deux hommes se lient d'une étrange amitié et partent plusieurs jours dans la forêt jurassienne.
 
 - sa 13 mai 14h30 HL  
-Voir aussi leçon de cinéma p. xx
+  Voir aussi leçon de cinéma p. xx
 
 [69019]  
 **Presque rien**  
@@ -120,7 +120,7 @@ Avec Jérémie Elkaïm, Stéphane Rideau, Marie Matheron.
 Mathieu, 18 ans, passe l'été dans la maison de sa mère, en Bretagne. Sur la plage, il rencontre Cédric. Commence alors ce qui ressemble à une aventure de vacances mais, jour après jour, l'affection grandit et devient intense.
 
 - lu 15 mai 20h45 GF  
-Séance présentée par Sébastien Lifshitz
+  Séance présentée par Sébastien Lifshitz
 
 [86174]  
 **Quand je serai jeune**  
@@ -130,8 +130,8 @@ Avec Brigitte Roüan, Jean-François Stévenin, Marilyne Canto.
 Mai 68. Pendant que, dehors, on manifeste, un homme achève le montage de _Baisers volés_.
 
 - ve 19 mai 21h00 GF  
-Séance présentée par Louise Traon  
-Film précédé de _Les Gants blancs_ de Louise Traon
+  Séance présentée par Louise Traon  
+  Film précédé de _Les Gants blancs_ de Louise Traon
 
 [122460]  
 **Le Sens de l'humour**  
@@ -141,7 +141,7 @@ Avec Marilyne Canto, Antoine Chappey, Samson Dajczman.
 Élise vit seule avec Léo, son fils de dix ans dont le père est mort. Elle entretient une liaison chaotique avec Paul. Elle le repousse aussi violemment qu'elle se sent attirée par lui. Mais les jours passant, Paul et Léo s'entendent de plus en plus.
 
 - me 17 mai 19h00 GF  
-Séance présentée par Marilyne Canto
+  Séance présentée par Marilyne Canto
 
 [39365]  
 **Sweet Movie**  
@@ -151,7 +151,7 @@ Avec Carole Laure, Pierre Clémenti, Anna Prucnal, Samy Frey.
 Répudiée par son mari, Mister Kapital, le soir même de ses noces, Miss Monde se laisse séduire par El Macho, chanteur et vedette de cinéma. Elle se retrouve dans une communauté viennoise pratiquant la régression collective.
 
 - me 10 mai 20h00 HL  
-Ouverture de la rétrospective
+  Ouverture de la rétrospective
 
 [52174]  
 **Trop de bonheur**  
@@ -171,7 +171,7 @@ Avec Jacques Dutronc, Alexandra London, Bernard Le Coq.
 Après son internement à l'asile, Vincent van Gogh s'installe à Auvers-sur-Oise chez le docteur Gachet, amateur d'art. Entre les relations conflictuelles qu'il entretient avec son frère et sa santé mentale vacillante, Vincent continue son œuvre.
 
 - di 14 mai 17h00 HL  
-Séance présentée par Jacques Dutronc (sous réserve)
+  Séance présentée par Jacques Dutronc (sous réserve)
 
 [62220]  
 **Western**  
@@ -181,7 +181,7 @@ Avec Sergi López, Sacha Bourdo, Élisabeth Vitali.
 Paco se fait voler sa voiture par un auto-stoppeur. Il tombe amoureux de la femme qui le conduit au commissariat. En attendant de la revoir, il erre au gré des rencontres sur les routes de Bretagne en compagnie de Nino, son voleur, qu'il a recroisé.
 
 - lu 15 mai 18h00 GF  
-Séance présentée par Manuel Poirier
+  Séance présentée par Manuel Poirier
 
 ## Rencontres et conférences
 
@@ -194,6 +194,6 @@ Frédéric Bonnaud est directeur général de la Cinémathèque française.
 Yann Dedet a monté deux des trois films réalisés par Jean-François Stévenin : _Passe montagne_ (1978) et _Double messieurs_ (1986).
 
 - sa 13 mai 14h30 HL  
-À la suite de la projection de _Passe montagne_ de Jean-François Stévenin (voir p. xx)
+  À la suite de la projection de _Passe montagne_ de Jean-François Stévenin (voir p. xx)
 
 Remerciements : Ad Vitam, Agence du Court Métrage, Archives françaises du film, Capricci Films, Carlotta Films, Cinémathèque de Toulouse, Deutsches Filminstitut, Le Pacte, Les Films de L'Atalante, Pyramide Distribution, Tamasa Distribution

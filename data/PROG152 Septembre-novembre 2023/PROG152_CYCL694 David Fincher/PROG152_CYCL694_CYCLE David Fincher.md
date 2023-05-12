@@ -61,11 +61,8 @@ de David Fincher
 Avec Michael Fassbender, Tilda Swinton, Charles Parnell.
 
 - je 12 oct 20h30 HL  
-Avant-première  
 - je 12 oct 20h30 GF  
-Avant-première  
-- je 12 oct 20h30 JE  
-Avant-première
+- je 12 oct 20h30 JE
 
 [146087]  
 **Mank**  

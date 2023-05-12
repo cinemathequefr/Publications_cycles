@@ -18,9 +18,10 @@
   * Une vieille maîtresse  
   * Une vraie jeune fille
 
-## Ciné-club de Frédéric Bonnaud (1)
+## Ciné-club de Frédéric Bonnaud (2)
 
-  * Amours d'une blonde (Les)
+  * Amours d'une blonde (Les)  
+  * Docteur Jerry et Mister Love
 
 ## Cinéma et mode, 20 indispensables (20)
 
@@ -148,18 +149,19 @@
   * Sabotage à Berlin  
   * Saboteur sans gloire  
   * Singe qui parle (Le)  
+  * Têtes brûlées  
   * Un lion dans la rue = L'Homme à abattre  
   * Une femme dangereuse  
   * Victime du destin  
-  * Voleur de Bagdad (Le)  
-  * Women of All Nations
+  * Voleur de Bagdad (Le)
 
-## Trésors du cinéma fantastique mexicain (11)
+## Trésors du cinéma fantastique mexicain (13)
 
   * Alucarda, la hija de las tinieblas  
   * Amantes del Señor de la Noche (Las)  
   * Baron de la terreur (Le)  
   * Invasión de los Vampiros (La)  
+  * La Bruja  
   * Maldición de la Llorona (La)  
   * Miroir de la sorcière (Le)  
   * Mundo de los muertos (El)  
@@ -167,3 +169,4 @@
   * Mystères d'outre-tombe (Les)  
   * Proies du vampire (Les)  
   * Vampiro sangriento (El)  
+  * Veneno para las hadas  

@@ -42,7 +42,7 @@ France / 1995 / 95 min
 Avec Vincent Berger, Marie Mure, Marie Payen.  
 Simon, un jeune homme d'une vingtaine d'années, arrive à Strasbourg un matin. Il vient enquêter sur la mort de son frère, qui s'est suicidé dans des conditions obscures.
 
-- ve 29 sep 20h00 GF
+- ve 29 sep 20h30 GF
 
 [86127]  
 **Les Dernières heures du millénaire**  

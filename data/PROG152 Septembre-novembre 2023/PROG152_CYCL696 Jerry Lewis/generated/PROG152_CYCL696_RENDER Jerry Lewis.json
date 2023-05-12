@@ -33,6 +33,41 @@
         ]
       },
       {
+        "idFilm": 33623,
+        "typeEvenement": 13,
+        "titre": "Docteur Jerry et Mister Love",
+        "titreVo": "Nutty Professor",
+        "artVo": "The",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1962,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Les mésaventures d'un doux dingue professeur de chimie s'enchaînent dans cette parodie de _Dr Jekyll et Mr Hyde_, entre mimiques et pitreries délirantes."
+          }
+        ],
+        "generique": [
+          "Jerry Lewis",
+          "Stella Stevens"
+        ],
+        "duree": 118,
+        "format": "DCP",
+        "version": "VOSTF",
+        "seances": [
+          {
+            "idSeance": 104633,
+            "ordre": 1,
+            "dateHeure": "2023-11-23T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
         "idFilm": 127627,
         "typeEvenement": 13,
         "titre": "Jerry Lewis",
@@ -166,6 +201,31 @@
               "Henri Langlois"
             ],
             "typeEvenement": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titreSousCycle": "Rencontres et conférences",
+    "tri": 1,
+    "textes": [],
+    "items": [
+      {
+        "titre": "« Jerry Lewis Cinéaste » par Damien Bertrand",
+        "typeEvenement": 14,
+        "typeConference": "Conférence",
+        "textes": [],
+        "seances": [
+          {
+            "idSeance": 104631,
+            "dateHeure": "2023-11-09T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 14,
+            "typeConference": "Conférence"
           }
         ]
       }

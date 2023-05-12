@@ -23,6 +23,16 @@ Tchécoslovaquie / 1965
 Avec Hana Brejchová, Vladimír Pucholt, Vladimír Menšík.  
 Au cours d'un bal de province, une jeune ouvrière se laisse séduire par le pianiste de l'orchestre venu de Prague.
 
-- me 18 oct 19h30 GF
+- me 25 oct 19h30 GF
+
+[33623]  
+**Docteur Jerry et Mister Love**  
+**(The Nutty Professor)**  
+de Jerry Lewis  
+États-Unis / 1962 / 118 min / VOSTF / DCP  
+Avec Jerry Lewis, Stella Stevens.  
+Les mésaventures d'un doux dingue professeur de chimie s'enchaînent dans cette parodie de _Dr Jekyll et Mr Hyde_, entre mimiques et pitreries délirantes.
+
+- je 23 nov 19h00 GF
 
 Remerciements : Capricci, Warner Bros.
