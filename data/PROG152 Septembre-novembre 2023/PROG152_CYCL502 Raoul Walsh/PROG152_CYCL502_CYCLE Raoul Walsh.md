@@ -198,16 +198,6 @@ Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un s
 
 - sa 9 sep 17h00 HL
 
-[85148]  
-**Deux aventuriers**  
-**(When Thief Meets Thief)**  
-de Raoul Walsh  
-États-Unis / 1937 / 87 min / VOSTF / 35 mm  
-Avec Douglas Fairbanks Jr., Valerie Hobson, Alan Hale.  
-Meurtrier involontaire, Ricky est poursuivi par un ami maitre-chanteur, Jim, qui à la suite d'une machination, lui ravit aussi sa fiancée.
-
-- sa 30 sep 15h45 HL
-
 [36840]  
 **Du sang sur la neige**  
 **(Northern Pursuit)**  
@@ -352,8 +342,7 @@ D'après le roman _High Sierra_ de W. R. Burnett.
 Avec Ida Lupino, Humphrey Bogart, Alan Curtis.  
 Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de prison. Celui-ci, devenu son débiteur, accepte de participer à ce hold-up qui doit les rendre riches, mais croise la route de la belle Velma.
 
-- ve 1 sep 20h15 HL  
-- sa 23 sep 19h00 HL
+- ve 1 sep 20h15 HL
 
 [36874]  
 **Les Implacables**  
@@ -423,17 +412,6 @@ Pendant la guerre de Corée, trois Marines, bénéficiant d'une permission au Ja
 
 - lu 9 oct 20h00 GF
 
-[36832]  
-**Mon ami et moi**  
-**(Me And My Gal)**  
-de Raoul Walsh  
-États-Unis / 1932 / 79 min / VOSTF / DCP  
-Avec Spencer Tracy, Joan Bennett, George Chandler.  
-Dan, un jeune policier new-yorkais, est amoureux d'une serveuse, mais la sœur de cette dernière est la maitresse d'un gangster.  
-Conservé par le MoMA,. Restauration numérique soutenue par 20th Century Fox.
-
-- sa 30 sep 15h45 HL
-
 [36863]  
 **Le Monde lui appartient**  
 **(The World in His Arms)**  
@@ -453,10 +431,21 @@ Emprisonné la veille de son mariage pour le meurtre du propriétaire d'un talis
 
 - ve 6 oct 18h30 GF
 
+[36837]  
+**Les Nus et les morts**  
+**(The Naked and the Dead)**  
+de Raoul Walsh  
+États-Unis / 1958 / 131 min / VOSTF / 35 mm  
+D'après le roman _Les Nus et les morts_ de Norman Mailer.  
+Avec Aldo Ray, Cliff Robertson, Raymond Massey.  
+En pleine guerre du Pacifique, un lieutenant s'oppose à la brutalité cynique d'un sous-officier particulièrement féroce.
+
+- sa 23 sep 19h00 HL
+
 [36848]  
 **Pillars of Society**  
 de Raoul Walsh, George Nicholls  
-États-Unis / 1915 / 52 min / INT. FR. / 35 mm  
+États-Unis / 1915 / 52 min / INT. FR. / DCP  
 D'après la pièce _Samfundets Stotter_ de Henrik Ibsen.  
 Avec Henry B. Walthall, Mary Alden, Juanita Archer.  
 Un armateur, dont la fortune est due au mensonge et a la duplicité, fait l'objet d'un chantage.

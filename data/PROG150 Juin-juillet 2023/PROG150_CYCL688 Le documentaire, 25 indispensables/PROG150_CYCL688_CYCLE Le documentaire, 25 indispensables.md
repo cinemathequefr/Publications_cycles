@@ -127,7 +127,7 @@ Un homme parcourt une ville avec une caméra en bandoulière, documentant la vie
 [58050]  
 **Le Joli Mai**  
 de Chris Marker, Pierre Lhomme  
-France / 1962 / 145 min / DCP  
+France / 1962 / 165 min / DCP  
 Avec Yves Montand.  
 Paris, mai 1962. La guerre d'Algérie vient de s'achever. Les Parisiens témoignent de leurs angoisses, leurs bonheurs, leurs espoirs. Peu à peu se dessine un portrait pris sur le vif de la France à l'aube des années 1960.
 

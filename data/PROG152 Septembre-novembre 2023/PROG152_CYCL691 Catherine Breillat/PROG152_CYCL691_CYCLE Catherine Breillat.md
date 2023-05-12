@@ -13,7 +13,7 @@ Lili, quatorze ans, passe ses vacances dans un camping avec ses parents et son f
 - sa 23 sep 14h30 HL
 
 [73479]  
-**A ma sœur**  
+**À ma sœur**  
 de Catherine Breillat  
 France-Italie / 2000 / 93 min / 35 mm  
 Avec Anaïs Reboux, Roxane Mesquida, Libero De Rienzo.  
@@ -41,13 +41,22 @@ Dans une boîte homosexuelle, un jeune homme danse, une jeune femme s'ouvre les 
 - lu 25 sep 18h00 GF
 
 [111101]  
-**Barbe Bleue TV**  
+**Barbe bleue**  
 de Catherine Breillat  
-France / 2008 / 90 min  
+France / 2009 / 90 min  
 Avec Dominique Thomas, Lola Créton, Daphné Baiwir.  
 Catherine adore effrayer sa grande sœur Marie-Anne en lui lisant obstinément le conte jusqu'à ce qu'elle pleure. En même temps Catherine se projette dans le conte, elle y devient la princesse Marie-Catherine, la dernière femme de Barbe Bleue, celle qui ne rejoindra pas les femmes pendues qui l'ont précédée.
 
 - je 28 sep 18h00 JE
+
+[154420]  
+**La Belle endormie**  
+de Catherine Breillat  
+France / 2010  
+Avec Carla Besnaïnou, Julia Artamonov, Kerian Mayan.  
+À sa naissance, Anastasia est victime d'un sort jeté par la fée Carabosse: à 16 ans, elle se transpercera la main et mourra. Trois jeunes fées surgissent trop tard pour conjurer le sort, tout juste peuvent-elles prédire qu'au lieu de mourir, Anastasia s'endormira pour 100 ans.
+
+- je 28 sep 17h15 JE
 
 [111102]  
 **Brève traversée**  
@@ -60,7 +69,7 @@ Film réalisé pour la collection _Masculin-Féminin_.
 - di 24 sep 17h15 GF
 
 [154427]  
-**Eté dernier**  
+**L'Été dernier**  
 de Catherine Breillat  
 France / 2023 / 104 min / DCP  
 Avec Léa Drucker, Samuel Kircher, Olivier Rabourdin.  
@@ -68,15 +77,6 @@ Une avocate renommée met en péril sa carrière et sa famille en ayant une liai
 
 - lu 18 sep 20h00 HL  
 Avant-première
-
-[154420]  
-**La belle endormie**  
-de Catherine Breillat  
-France / 2010  
-Avec Carla Besnaïnou, Julia Artamonov, Kerian Mayan.  
-À sa naissance, Anastasia est victime d'un sort jeté par la fée Carabosse: à 16 ans, elle se transpercera la main et mourra. Trois jeunes fées surgissent trop tard pour conjurer le sort, tout juste peuvent-elles prédire qu'au lieu de mourir, Anastasia s'endormira pour 100 ans.
-
-- je 28 sep 17h15 JE
 
 [60437]  
 **Parfait amour**  
@@ -106,7 +106,7 @@ Georges Deblache, un flic quinquagénaire, solitaire, et alcoolique, veut proté
 - ve 22 sep 18h30 GF
 
 [79126]  
-**Sex is comedy**  
+**Sex Is Comedy**  
 de Catherine Breillat  
 France / 2001 / 93 min / 35 mm  
 Avec Anne Parillaud, Grégoire Colin, Roxane Mesquida.  

@@ -18,10 +18,10 @@
   * Paradis  
   * Pleure pas Gabriel  
   * Ravissement (Le)  
+  * Real Truth About the Fight (The)  
   * Saison pourpre (La)  
   * Stranger  
   * Syndrome des amours passées (Le)  
-  * The Real Truth About the Fight (The)  
   * Tiger Stripes  
   * Via Dolorosa  
   * Vincent doit mourir  

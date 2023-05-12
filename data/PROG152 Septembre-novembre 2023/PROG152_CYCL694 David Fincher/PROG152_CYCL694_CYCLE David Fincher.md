@@ -57,7 +57,7 @@ Beaux, jeunes et riches, Amy et Nick forment un couple envié à New York. Alors
 [154470]  
 **The Killer**  
 de David Fincher  
-États-Unis / 2023  
+États-Unis / 2023 / 158 min / VOSTF / DCP  
 Avec Michael Fassbender, Tilda Swinton, Charles Parnell.
 
 - je 12 oct 20h30 HL  

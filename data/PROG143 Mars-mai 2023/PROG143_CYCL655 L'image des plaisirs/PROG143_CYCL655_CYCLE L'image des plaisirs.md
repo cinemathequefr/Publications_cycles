@@ -243,7 +243,7 @@ Si la sexualité des années 1960, sous le signe de la transgression, de la joie
 **Le Quartier des femmes**  
 **(Qaleh)**  
 de Kâmrân Shirdel  
-Iran / 1966 / 18 min / VOSTF / Numérique  
+Iran / 1966 / 18 min / VOSTA / Numérique  
 « Commandé par une association de soutien aux femmes, le film décrit la vie douloureuse des prostituées du quartier de Qaleh à Téhéran. Le film ayant été confisqué dès le début du tournage, Shirdel filme les photos prises par le photographe Kaveh Golestan et y ajoute sa bande-son. » (film-documentaire.fr)  
 suivi de  
 [118640]  

@@ -3,20 +3,24 @@
 ## Catherine Breillat (15)
 
   * 36 fillette  
-  * A ma sœur  
+  * À ma sœur  
   * Abus de faiblesse  
   * Anatomie de l'enfer  
-  * Barbe Bleue TV  
+  * Barbe bleue  
+  * Belle endormie (La)  
   * Brève traversée  
-  * Eté dernier  
-  * La belle endormie  
+  * Été dernier (L')  
   * Parfait amour  
   * Romance  
   * Sale comme un ange  
-  * Sex is comedy  
+  * Sex Is Comedy  
   * Tapage nocturne  
   * Une vieille maîtresse  
   * Une vraie jeune fille
+
+## Ciné-club de Frédéric Bonnaud (1)
+
+  * Amours d'une blonde (Les)
 
 ## Cinéma et mode, 20 indispensables (20)
 
@@ -75,15 +79,22 @@
   * Social Network (The)  
   * Zodiac
 
-## Jean Cocteau (1)
+## Jean Cocteau (3)
 
-  * Aigle à deux têtes (L')
+  * Aigle à deux têtes (L')  
+  * Sang d'un poète (Le)  
+  * Villa Santo Sospir (La)
 
-## Jerry Lewis (1)
+## Jerry Lewis (6)
 
-  * Dingue du palace (Le)
+  * Dingue du palace (Le)  
+  * Jerry Lewis  
+  * Jerry souffre douleur  
+  * One More Time  
+  * T'es fou Jerry !  
+  * Tombeur de ces dames (Le)
 
-## Raoul Walsh (58)
+## Raoul Walsh (57)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -104,7 +115,6 @@
   * Danse rouge  
   * Déchaînés (Les)  
   * Désert de la peur = Une corde pour te pendre (Le)  
-  * Deux aventuriers  
   * Du sang sur la neige  
   * Empreintes digitales  
   * Enfer est à lui (L')  
@@ -126,9 +136,9 @@
   * Lucky Lady (The)  
   * Man I Love (The)  
   * Marines, Let's Go !  
-  * Mon ami et moi  
   * Monde lui appartient (Le)  
   * Mystery of the Hindu Image (The)  
+  * Nus et les morts (Les)  
   * Pillars of Society  
   * Piste des géants (La)  
   * Regeneration  
@@ -144,12 +154,15 @@
   * Voleur de Bagdad (Le)  
   * Women of All Nations
 
-## Trésors du cinéma fantastique mexicain (8)
+## Trésors du cinéma fantastique mexicain (11)
 
+  * Alucarda, la hija de las tinieblas  
   * Amantes del Señor de la Noche (Las)  
   * Baron de la terreur (Le)  
   * Invasión de los Vampiros (La)  
   * Maldición de la Llorona (La)  
+  * Miroir de la sorcière (Le)  
+  * Mundo de los muertos (El)  
   * Museo del horror  
   * Mystères d'outre-tombe (Les)  
   * Proies du vampire (Les)  

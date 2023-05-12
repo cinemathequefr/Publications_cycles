@@ -117,7 +117,7 @@ Fran est de passage dans sa ville natale pour se reposer et rendre visite à sa 
 - sa 10 juin 15h00 GF
 
 [154454]  
-**The The Real Truth About the Fight**  
+**The Real Truth About the Fight**  
 **(Prava istina priče o šori)**  
 d'Andrea Slaviček  
 Croatie-Espagne / 2023 / 13 min / VOSTF / DCP  

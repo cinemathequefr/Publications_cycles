@@ -30,15 +30,87 @@
         "version": "",
         "seances": [
           {
-            "idSeance": 104536,
+            "idSeance": 104604,
             "ordre": 1,
-            "dateHeure": "2023-11-22T20:00:00",
+            "dateHeure": "2023-11-15T20:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
             "mention": "Ouverture de la rétrospective",
             "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 47713,
+        "typeEvenement": 13,
+        "titre": "Sang d'un poète",
+        "art": "Le",
+        "realisateurs": "Jean Cocteau",
+        "annee": 1930,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un artiste passe de l'autre côté du miroir à l'invitation d'une statue."
+          }
+        ],
+        "generique": [
+          "Enrique de Rivero",
+          "Lee Miller",
+          "Pauline Carton"
+        ],
+        "duree": 55,
+        "format": "35 mm",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104605,
+            "ordre": 1,
+            "dateHeure": "2023-11-16T19:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film suivi de _La Villa Santo Sospir_ de Jean Cocteau"
+          }
+        ]
+      },
+      {
+        "idFilm": 62173,
+        "typeEvenement": 13,
+        "titre": "Villa Santo Sospir",
+        "art": "La",
+        "realisateurs": "Jean Cocteau",
+        "annee": 1951,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "En 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée.\n\n---\n\nEn 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée."
+          }
+        ],
+        "generique": [
+          "Jean Cocteau",
+          "Francine Weisweiller",
+          "Edouard Dermit"
+        ],
+        "duree": 37,
+        "format": "16 mm",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104605,
+            "ordre": 2,
+            "dateHeure": "2023-11-16T19:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Le Sang d'un poète_ de Jean Cocteau"
           }
         ]
       }

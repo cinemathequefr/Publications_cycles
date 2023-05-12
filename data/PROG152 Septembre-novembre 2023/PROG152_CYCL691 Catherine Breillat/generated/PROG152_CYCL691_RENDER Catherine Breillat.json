@@ -43,7 +43,7 @@
       {
         "idFilm": 73479,
         "typeEvenement": 13,
-        "titre": "A ma sœur",
+        "titre": "À ma sœur",
         "realisateurs": "Catherine Breillat",
         "annee": 2000,
         "pays": "France-Italie",
@@ -145,9 +145,9 @@
       {
         "idFilm": 111101,
         "typeEvenement": 13,
-        "titre": "Barbe Bleue TV",
+        "titre": "Barbe bleue",
         "realisateurs": "Catherine Breillat",
-        "annee": 2008,
+        "annee": 2009,
         "pays": "France",
         "textes": [
           {
@@ -168,6 +168,41 @@
             "idSeance": 104489,
             "ordre": 1,
             "dateHeure": "2023-09-28T18:00:00",
+            "idSalle": [
+              "JE",
+              "Jean Epstein"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
+        "idFilm": 154420,
+        "typeEvenement": 13,
+        "titre": "Belle endormie",
+        "art": "La",
+        "realisateurs": "Catherine Breillat",
+        "annee": 2010,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "À sa naissance, Anastasia est victime d'un sort jeté par la fée Carabosse: à 16 ans, elle se transpercera la main et mourra. Trois jeunes fées surgissent trop tard pour conjurer le sort, tout juste peuvent-elles prédire qu'au lieu de mourir, Anastasia s'endormira pour 100 ans."
+          }
+        ],
+        "generique": [
+          "Carla Besnaïnou",
+          "Julia Artamonov",
+          "Kerian Mayan"
+        ],
+        "duree": null,
+        "format": "",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104490,
+            "ordre": 1,
+            "dateHeure": "2023-09-28T17:15:00",
             "idSalle": [
               "JE",
               "Jean Epstein"
@@ -217,7 +252,8 @@
       {
         "idFilm": 154427,
         "typeEvenement": 13,
-        "titre": "Eté dernier",
+        "titre": "Été dernier",
+        "art": "L'",
         "realisateurs": "Catherine Breillat",
         "annee": 2023,
         "pays": "France",
@@ -245,40 +281,6 @@
               "Henri Langlois"
             ],
             "mention": "Avant-première",
-            "typeEvenement": 13
-          }
-        ]
-      },
-      {
-        "idFilm": 154420,
-        "typeEvenement": 13,
-        "titre": "La belle endormie",
-        "realisateurs": "Catherine Breillat",
-        "annee": 2010,
-        "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "À sa naissance, Anastasia est victime d'un sort jeté par la fée Carabosse: à 16 ans, elle se transpercera la main et mourra. Trois jeunes fées surgissent trop tard pour conjurer le sort, tout juste peuvent-elles prédire qu'au lieu de mourir, Anastasia s'endormira pour 100 ans."
-          }
-        ],
-        "generique": [
-          "Carla Besnaïnou",
-          "Julia Artamonov",
-          "Kerian Mayan"
-        ],
-        "duree": null,
-        "format": "",
-        "version": "",
-        "seances": [
-          {
-            "idSeance": 104490,
-            "ordre": 1,
-            "dateHeure": "2023-09-28T17:15:00",
-            "idSalle": [
-              "JE",
-              "Jean Epstein"
-            ],
             "typeEvenement": 13
           }
         ]
@@ -388,7 +390,7 @@
       {
         "idFilm": 79126,
         "typeEvenement": 13,
-        "titre": "Sex is comedy",
+        "titre": "Sex Is Comedy",
         "realisateurs": "Catherine Breillat",
         "annee": 2001,
         "pays": "France",
