@@ -33,7 +33,7 @@ Avec Edmund Lowe, Victor McLaglen, Dolores del Río.
 Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allégrement du cocasse au tragique, ce succès de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
 
-- di 17 sep 14h30 HL
+- di 10 sep 15h00 HL
 
 [37819]  
 **Les Aventures du capitaine Wyatt**  
@@ -74,7 +74,7 @@ D'après le roman _Ten against Caesar_ de Kathleen B. Granger , George Granger e
 Avec Rock Hudson, Donna Reed, Phil Carey.  
 En Arizona, le gang de Frank Slayton dévalise une diligence et kidnappe la fiancée de Ben Warren. Celui-ci est laissé pour mort. Blessé, il part immédiatement à la poursuite de Slayton.
 
-- di 10 sep 19h45 HL
+- di 10 sep 19h30 HL
 
 [36604]  
 **La Belle espionne**  
@@ -105,7 +105,7 @@ de Raoul Walsh
 Avec Alan Ladd, Shelley Winters, Robert Douglas.  
 En 1877 dans l'Ouest canadien, un inspecteur de police se révolte contre son commandant borné, et emprunte une route plus sûre jusqu'à la frontière américaine afin d'empêcher l'invasion d'Indiens hostiles.
 
-- di 10 sep 17h45 HL
+- di 10 sep 17h30 HL
 
 [36860]  
 **Bungalow pour femmes**  
@@ -116,7 +116,7 @@ D'après le roman _The Revolt of Mamie Stover_ de William Bradford Huie.
 Avec Jane Russell, Richard Egan, Joan Leslie.  
 Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au « Bungalow », un dancing célèbre. Après l'attaque de Pearl Harbor, obnubilée par son désir d'argent, elle cherche à s'enrichir. Sa rencontre avec Jim Blair, un romancier, bouleverse ses projets.
 
-- di 17 sep 19h30 HL
+- di 17 sep 19h45 HL
 
 [45138]  
 **Capitaine sans peur**  
@@ -269,7 +269,7 @@ de Raoul Walsh
 Avec Gloria Swanson, Lionel Barrymore, Raoul Walsh.  
 Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion de refaire sa vie. Sur cette île du Pacifique, le puritain Davidson ne lui laisse aucun répit et menace de la dénoncer et de la renvoyer à San Francisco où elle risque la prison.
 
-- di 8 oct 19h45 GF
+- di 8 oct 18h45 GF
 
 [67404]  
 **Les Fantastiques années 20**  
@@ -352,7 +352,16 @@ de Raoul Walsh
 Avec Clark Gable, Jane Russell, Robert Ryan.  
 Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement ruinés. Un homme leur propose alors un marché : conduire un immense troupeau du Texas au Montana pour en partager les bénéfices.
 
-- di 17 sep 17h00 HL
+- di 17 sep 17h15 HL
+
+[36818]  
+**In Old Arizona**  
+d'Irving Cummings, Raoul Walsh  
+États-Unis / 1929 / 95 min / VOSTF / DCP  
+Avec Warner Baxter, Edmund Lowe, Dorothy Burgess.  
+Un bandit mexicain, Cisco Kid, qui échappe régulièrement à ses poursuivants, est trahi par une femme.
+
+- di 8 oct 14h30 GF
 
 [37781]  
 **Intrigues en Orient**  
@@ -382,7 +391,7 @@ Avec Dolores del Río, Don Alvarado, Victor McLaglen.
 Seconde adaptation par Walsh de la nouvelle de Merimee.  
 Restauré par le MoMA avec le soutien de la Film Foundation.
 
-- di 8 oct 17h30 GF
+- di 8 oct 16h30 GF
 
 [82982]  
 **The Lucky Lady**  
@@ -582,5 +591,15 @@ de Raoul Walsh
 Avec Douglas Fairbanks, Snitz Edwards, Anna May Wong.  
 La fille du Calife tombe amoureuse d'un sympathique voleur qui devra la conquérir.
 
-- di 10 sep 15h00 HL
+- di 17 sep 14h30 HL
+
+[67395]  
+**Women of All Nations**  
+de Raoul Walsh  
+États-Unis / 1931 / 72 min / VOSTF / 35 mm  
+Avec Edmund Lowe, Victor McLaglen, Greta Nissen.  
+Flagg et Quirt, deux marines qui tentent chacun de séduire la belle Else en Suède puis en Égypte où celle-ci fait partie du harem d'un prince.  
+Restauré par UCLA Film & Television Archive.
+
+- di 8 oct 20h45 GF
 

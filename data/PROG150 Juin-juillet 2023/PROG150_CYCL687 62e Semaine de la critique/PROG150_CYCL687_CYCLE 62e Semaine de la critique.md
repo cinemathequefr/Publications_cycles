@@ -38,7 +38,7 @@ Jordanie, de nos jours. Après la mort de son mari, Nawal, la trentaine, doit se
 de Paloma Sermon-Daï  
 Belgique-France / 2023 / 82 min / DCP  
 Avec Makenzy Lombet, Purdey Lombet.  
-Sous un soleil caniculaire, Purdey, dix-sept ans, et son frère Makenzy, quinze ans, sont livrés à eux-mêmes et tentent de se débrouiller seuls. Alors que Purdey fait des ménages dans un complexe hôtelier, Makenzy se fait un peu d'argent en volant des touristes. Entre l'insouciance de l'adolescence et l'âpreté de la vie adulte, ils devront se soutenir l'un l'autre dans ce voyage d'une douceur déchirante, qui semble bien être le dernier été de leur jeunesse.
+Sous un soleil caniculaire, Purdey, 17 ans, et son frère Makenzy, 15 ans, sont livrés à eux-mêmes et tentent de se débrouiller seuls. Alors que Purdey fait des ménages dans un complexe hôtelier, Makenzy se fait un peu d'argent en volant des touristes. Entre l'insouciance de l'adolescence et l'âpreté de la vie adulte, ils devront se soutenir l'un l'autre dans ce voyage d'une douceur déchirante, qui semble bien être le dernier été de leur jeunesse.
 
 - ve 9 juin 18h15 HL
 
@@ -65,7 +65,7 @@ Serbie, 1996. Pendant les manifestations étudiantes contre le régime de Miloš
 de Lillah Halla  
 Brésil-Uruguay-France / 2023 / 92 min / VOSTF / DCP  
 Avec Ayomi Domenica Dias, Loro Bardot.  
-Sofia, jeune joueuse de volleyball prometteuse, apprend qu'elle est enceinte la veille d'un championnat qui peut sceller son destin. Ne voulant pas de cette grossesse, elle cherche à se faire avorter illégalement et se retrouve la cible d'un groupe fondamentaliste bien décidé à l'en empêcher à tout prix. Mais ni Sofia ni ses proches n'ont l'intention de se soumettre à l'aveugle ferveur de la masse.
+Sofia, jeune joueuse de volley-ball prometteuse, apprend qu'elle est enceinte la veille d'un championnat qui peut sceller son destin. Ne voulant pas de cette grossesse, elle cherche à se faire avorter illégalement et se retrouve la cible d'un groupe fondamentaliste bien décidé à l'en empêcher à tout prix. Mais ni Sofia ni ses proches n'ont l'intention de se soumettre à l'aveugle ferveur de la masse.
 
 - lu 12 juin 18h30 HL
 
@@ -205,7 +205,7 @@ Rémy et Sandra n'arrivent pas à avoir d'enfant car ils sont atteints du « syn
 d'Erwan Le Duc  
 France / 2023 / 91 min / DCP  
 Avec Nahuel Pérez Biscayart, Céleste Brunnquell, Maud Wyler.  
-Étienne a vingt ans à peine lorsqu'il tombe amoureux de Valérie, et guère plus lorsque naît leur fille Rosa. Le jour où Valérie les abandonne, il décide de se construire une vie heureuse avec Rosa. Seize ans plus tard, lorsque Rosa doit partir étudier et qu'ils doivent se séparer pour vivre chacun leur vie, le passé ressurgit.
+Étienne a 20 ans à peine lorsqu'il tombe amoureux de Valérie, et guère plus lorsque naît leur fille Rosa. Le jour où Valérie les abandonne, il décide de se construire une vie heureuse avec Rosa. Seize ans plus tard, lorsque Rosa part étudier et qu'ils doivent se séparer pour vivre chacun leur vie, le passé ressurgit.
 
 - di 11 juin 17h15 HL
 

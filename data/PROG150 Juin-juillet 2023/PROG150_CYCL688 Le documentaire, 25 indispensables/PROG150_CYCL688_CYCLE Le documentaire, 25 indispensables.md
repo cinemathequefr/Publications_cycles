@@ -109,7 +109,7 @@ Film précédé de _Le Fils du garde de chasse_ d'Alice Guy
 [68649]  
 **Les Glaneurs et la Glaneuse**  
 d'Agnès Varda  
-France / 1999 / 82 min / DCP  
+France / 2000 / 82 min / DCP  
 Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant.
 
 - di 25 juin 18h30 HL  

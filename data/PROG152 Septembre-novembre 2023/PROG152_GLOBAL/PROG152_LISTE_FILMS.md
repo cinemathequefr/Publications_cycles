@@ -95,7 +95,7 @@
   * T'es fou Jerry !  
   * Tombeur de ces dames (Le)
 
-## Raoul Walsh (57)
+## Raoul Walsh (59)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -131,6 +131,7 @@
   * Gentleman Jim  
   * Grande évasion (La)  
   * Implacables (Les)  
+  * In Old Arizona  
   * Intrigues en Orient  
   * Kindred of the Dust (The)  
   * Loves of Carmen (The)  
@@ -153,7 +154,8 @@
   * Un lion dans la rue = L'Homme à abattre  
   * Une femme dangereuse  
   * Victime du destin  
-  * Voleur de Bagdad (Le)
+  * Voleur de Bagdad (Le)  
+  * Women of All Nations
 
 ## Trésors du cinéma fantastique mexicain (13)
 
@@ -169,4 +171,15 @@
   * Mystères d'outre-tombe (Les)  
   * Proies du vampire (Les)  
   * Vampiro sangriento (El)  
-  * Veneno para las hadas  
+  * Veneno para las hadas
+
+## Viva Varda ! (8)
+
+  * Bonheur (Le)  
+  * Cléo de 5 à 7  
+  * Créatures (Les)  
+  * Documenteur  
+  * Glaneurs et la Glaneuse (Les)  
+  * Oncle Yanko  
+  * Pointe Courte (La)  
+  * Sans toit ni loi  

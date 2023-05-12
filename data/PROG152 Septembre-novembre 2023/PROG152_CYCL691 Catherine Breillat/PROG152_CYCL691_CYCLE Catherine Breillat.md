@@ -28,7 +28,7 @@ France-Allemagne-Belgique / 2012 / 104 min
 Avec Isabelle Huppert, Kool Shen, Laurence Ursino.  
 Maud Schoenberg, réalisatrice, est victime d'une hémorragie cérébrale, qui la laisse hémiplégique dans une grande solitude. Elle découvre alors à la télévision Vilko, un arnaqueur de célébrités, et le veut pour son prochain film. Ils se rencontrent et ne se quittent plus. Maud devient rapidement sa nouvelle victime.
 
-- sa 30 sep 14h30 GF
+- sa 30 sep 15h30 GF
 
 [88526]  
 **Anatomie de l'enfer**  

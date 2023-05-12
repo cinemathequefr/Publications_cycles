@@ -94,7 +94,8 @@ Mexique / 1957 / 83 min / VOSTF / DCP
 Avec Germán Robles, Abel Salazar, Ariadna Welter, Carmen Montejo.  
 Une jeune Mexicaine, revenue dans sa famille pour des funérailles, entend des histoires troublantes : la ville serait infestée de vampires. Rapidement, elle soupçonne sa tante et un mystérieux voisin.
 
-- je 26 oct 20h00 HL
+- je 26 oct 20h00 HL  
+Ouverture de la rétrospective
 
 [154263]  
 **El Vampiro sangriento**  
