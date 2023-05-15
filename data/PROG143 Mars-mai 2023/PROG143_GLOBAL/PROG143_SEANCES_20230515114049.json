@@ -10,13 +10,14 @@
         "Peter Bastos / Pedro Costa"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Peter Bastos",
     "items": [
       {
         "idFilm": 154318,
         "titre": "Des portes et des murs",
         "realisateurs": "Peter Bastos",
         "annee": 2021,
-        "duree": 17,
+        "duree": 7,
         "version": "VOSTF",
         "format": "Numérique"
       },
@@ -57,27 +58,6 @@
     "hashEvenement": "f49676"
   },
   {
-    "idSeance": 92680,
-    "idEvenement": 27614,
-    "dateHeure": "2023-03-10T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Conservatoire des techniques cinématographiques",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 27614,
-        "titre": "Master class de Roger Deakins et James Ellis Deakins",
-        "typeConference": "MasterClass",
-        "duree": 120
-      }
-    ],
-    "hashEvenement": "c27614"
-  },
-  {
     "idSeance": 96783,
     "idEvenement": 27177,
     "dateHeure": "2023-03-13T19:30:00",
@@ -104,7 +84,8 @@
         "art": "La",
         "realisateurs": "Noémie Lvovsky",
         "annee": 1999,
-        "duree": 111,
+        "duree": 110,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -364,7 +345,7 @@
         "annee": 1956,
         "duree": 81,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f154302"
@@ -416,6 +397,7 @@
         "realisateurs": "Nicolas Saada",
         "annee": 2009,
         "duree": 99,
+        "version": "VF",
         "format": "35 mm"
       },
       {
@@ -446,8 +428,8 @@
         "realisateurs": "Richard Lester",
         "annee": 1973,
         "duree": 107,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f54263"
@@ -470,6 +452,7 @@
         "realisateurs": "Richard Lester",
         "annee": 1974,
         "duree": 107,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -517,7 +500,9 @@
         "art": "Le",
         "realisateurs": "Richard Lester",
         "annee": 1989,
-        "duree": 102
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f41592"
@@ -629,7 +614,7 @@
         "annee": 1976,
         "duree": 91,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f69732"
@@ -915,23 +900,18 @@
         "art": "La",
         "realisateurs": "Richard Lester",
         "annee": 1963,
-        "duree": 85,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f41590"
   },
   {
     "idSeance": 92870,
-    "idEvenement": 27694,
+    "idEvenement": 27702,
     "dateHeure": "2023-03-23T17:30:00",
     "salle": "JE",
     "cycle": [
-      [
-        "Archi Vives",
-        "Les films"
-      ],
       [
         "Archi Vives",
         "Rencontres et conférences"
@@ -944,17 +924,9 @@
         "sousTitre": "Conférence de Gréco Casadesus",
         "typeConference": "Conférence",
         "duree": 90
-      },
-      {
-        "idFilm": 153715,
-        "titre": "Ennio",
-        "realisateurs": "Giuseppe Tornatore",
-        "annee": 2021,
-        "duree": 156,
-        "format": "DCP"
       }
     ],
-    "hashEvenement": "c27702f153715"
+    "hashEvenement": "c27702"
   },
   {
     "idSeance": 92798,
@@ -979,6 +951,30 @@
     "hashEvenement": "c27688"
   },
   {
+    "idSeance": 90727,
+    "idEvenement": 27694,
+    "dateHeure": "2023-03-23T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 153715,
+        "titre": "Ennio",
+        "realisateurs": "Giuseppe Tornatore",
+        "annee": 2021,
+        "duree": 156,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f153715"
+  },
+  {
     "idSeance": 92978,
     "idEvenement": 27526,
     "dateHeure": "2023-03-23T20:00:00",
@@ -996,8 +992,7 @@
         "realisateurs": "Stanley Kubrick",
         "annee": 1968,
         "duree": 149,
-        "version": "VOSTF",
-        "format": "70 mm"
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f54223"
@@ -1118,7 +1113,7 @@
         "realisateurs": "Richard Lester",
         "annee": 1979,
         "duree": 111,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -1322,7 +1317,7 @@
         "idFilm": 44918,
         "titre": "Un Américain à Paris",
         "realisateurs": "Vincente Minnelli",
-        "annee": 1950,
+        "annee": 1951,
         "duree": 113,
         "version": "VOSTF",
         "format": "DCP"
@@ -1626,7 +1621,7 @@
         "realisateurs": "Richard Lester",
         "annee": 1979,
         "duree": 111,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -1872,7 +1867,7 @@
         "realisateurs": "Hugo Fregonese",
         "annee": 1954,
         "duree": 83,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       },
       {
@@ -1926,7 +1921,7 @@
         "titre": "Mondwest",
         "realisateurs": "Michael Crichton",
         "annee": 1973,
-        "duree": 88,
+        "duree": 89,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -2068,7 +2063,7 @@
     "items": [
       {
         "idFilm": 45552,
-        "titre": "Signe des rénégats",
+        "titre": "Signe des renégats",
         "art": "Le",
         "realisateurs": "Hugo Fregonese",
         "annee": 1951,
@@ -2278,6 +2273,30 @@
     "hashEvenement": "f154249"
   },
   {
+    "idSeance": 104248,
+    "idEvenement": 27216,
+    "dateHeure": "2023-04-03T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hugo Fregonese",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45549,
+        "titre": "Donde mueren las palabras",
+        "realisateurs": "Hugo Fregonese",
+        "annee": 1946,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f45549"
+  },
+  {
     "idSeance": 91028,
     "idEvenement": 27721,
     "dateHeure": "2023-04-05T15:00:00",
@@ -2336,7 +2355,7 @@
         "Humphrey Bogart"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
+    "mention": "Ouverture de la rétrospective. Séance présentée par Olivier Snanoudj",
     "items": [
       {
         "idFilm": 31376,
@@ -2539,7 +2558,7 @@
         "realisateurs": "Hugo Fregonese",
         "annee": 1964,
         "duree": 90,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "Numérique"
       }
     ],
@@ -2611,8 +2630,9 @@
         "titre": "Il faut tuer Birgitt Haas",
         "realisateurs": "Laurent Heynemann",
         "annee": 1981,
-        "duree": 103,
-        "format": "35 mm"
+        "duree": 104,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f49186"
@@ -2655,8 +2675,7 @@
     "items": [
       {
         "idFilm": 88401,
-        "titre": "Vagabond et les Lutins",
-        "art": "Le",
+        "titre": "Saddle Tramp",
         "realisateurs": "Hugo Fregonese",
         "annee": 1950,
         "duree": 90,
@@ -2686,7 +2705,7 @@
         "annee": 1933,
         "duree": 74,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f80961"
@@ -2925,8 +2944,7 @@
     "items": [
       {
         "idFilm": 88401,
-        "titre": "Vagabond et les Lutins",
-        "art": "Le",
+        "titre": "Saddle Tramp",
         "realisateurs": "Hugo Fregonese",
         "annee": 1950,
         "duree": 90,
@@ -2935,31 +2953,6 @@
       }
     ],
     "hashEvenement": "f88401"
-  },
-  {
-    "idSeance": 91166,
-    "idEvenement": 27907,
-    "dateHeure": "2023-04-10T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Avant-premières"
-      ]
-    ],
-    "mention": "Avant-première",
-    "items": [
-      {
-        "idFilm": 153649,
-        "titre": "Hunt",
-        "realisateurs": "Lee Jung-jae",
-        "annee": 2022,
-        "duree": 131,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f153649"
   },
   {
     "idSeance": 92979,
@@ -3136,8 +3129,8 @@
     "hashEvenement": "f32841"
   },
   {
-    "idSeance": 91235,
-    "idEvenement": 27417,
+    "idSeance": 104305,
+    "idEvenement": 27420,
     "dateHeure": "2023-04-13T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -3148,16 +3141,16 @@
     ],
     "items": [
       {
-        "idFilm": 30584,
-        "titre": "On s'fait la valise, docteur ?",
+        "idFilm": 30580,
+        "titre": "Nickelodeon",
         "realisateurs": "Peter Bogdanovich",
-        "annee": 1972,
-        "duree": 94,
+        "annee": 1976,
+        "duree": 121,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
-    "hashEvenement": "f30584"
+    "hashEvenement": "f30580"
   },
   {
     "idSeance": 92691,
@@ -3490,7 +3483,7 @@
   {
     "idSeance": 92590,
     "idEvenement": 27445,
-    "dateHeure": "2023-04-16T14:30:00",
+    "dateHeure": "2023-04-16T15:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3622,6 +3615,7 @@
         "Errol Flynn"
       ]
     ],
+    "mention": "Séance présentée par Serge Chauvin",
     "items": [
       {
         "idFilm": 31300,
@@ -3692,6 +3686,31 @@
       }
     ],
     "hashEvenement": "f154326f36898"
+  },
+  {
+    "idSeance": 104291,
+    "idEvenement": 27907,
+    "dateHeure": "2023-04-17T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Avant-premières"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 153649,
+        "titre": "Hunt",
+        "realisateurs": "Lee Jung-jae",
+        "annee": 2022,
+        "duree": 131,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f153649"
   },
   {
     "idSeance": 91368,
@@ -3957,6 +3976,108 @@
     "hashEvenement": "f33430"
   },
   {
+    "idSeance": 91445,
+    "idEvenement": 28244,
+    "dateHeure": "2023-04-21T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Fenêtre sur les collections",
+        "Hommage à la galerie Miyu et à l'animation contemporaine"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154396,
+        "titre": "Criminel",
+        "art": "Le",
+        "realisateurs": "Gianluigi Toccafondo",
+        "annee": 1993,
+        "duree": 5,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154364,
+        "titre": "Mont Chef",
+        "art": "Le",
+        "realisateurs": "Kōji Yamamura",
+        "annee": 2002,
+        "duree": 10,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 143177,
+        "titre": "Je criais contre la vie ou pour elle",
+        "realisateurs": "Vergine Keaton",
+        "annee": 2009,
+        "duree": 9,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154362,
+        "titre": "Planet A",
+        "realisateurs": "Momoko Seto",
+        "annee": 2008,
+        "duree": 8,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154397,
+        "titre": "Repas dominical",
+        "art": "Le",
+        "realisateurs": "Céline Devaux",
+        "annee": 2015,
+        "duree": 13,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154365,
+        "titre": "Roi des aulnes",
+        "art": "Le",
+        "realisateurs": "Georges Schwizgebel",
+        "annee": 2015,
+        "duree": 6,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154399,
+        "titre": "Chute",
+        "art": "La",
+        "realisateurs": "Boris Labbé",
+        "annee": 2018,
+        "duree": 14,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 132976,
+        "titre": "Empty",
+        "art": "The",
+        "realisateurs": "Jeong Dahee",
+        "annee": 2016,
+        "duree": 9,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 74281,
+        "titre": "Au premier dimanche d'août",
+        "realisateurs": "Florence Miailhe",
+        "annee": 2000,
+        "duree": 11,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154400,
+        "titre": "Journaux de Lipsett",
+        "art": "Les",
+        "realisateurs": "Theodore Ushev",
+        "annee": 2010,
+        "duree": 14,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154396f154364f143177f154362f154397f154365f154399f132976f74281f154400"
+  },
+  {
     "idSeance": 92811,
     "idEvenement": 27591,
     "dateHeure": "2023-04-21T19:00:00",
@@ -4022,12 +4143,36 @@
         "titre": "SAS à San Salvador",
         "realisateurs": "Raoul Coutard",
         "annee": 1983,
-        "duree": 94,
+        "duree": 93,
         "version": "VF",
         "format": "35 mm"
       }
     ],
     "hashEvenement": "f59853"
+  },
+  {
+    "idSeance": 93009,
+    "idEvenement": 28246,
+    "dateHeure": "2023-04-21T21:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Fenêtre sur les collections",
+        "Hommage à la galerie Miyu et à l'animation contemporaine"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 132724,
+        "titre": "Jeune fille sans mains",
+        "art": "La",
+        "realisateurs": "Sébastien Laudenbach",
+        "annee": 2016,
+        "duree": 73,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f132724"
   },
   {
     "idSeance": 91477,
@@ -4138,8 +4283,8 @@
     "hashEvenement": "f29582"
   },
   {
-    "idSeance": 91483,
-    "idEvenement": 27409,
+    "idSeance": 104179,
+    "idEvenement": 27414,
     "dateHeure": "2023-04-22T19:45:00",
     "salle": "GF",
     "cycle": [
@@ -4150,16 +4295,17 @@
     ],
     "items": [
       {
-        "idFilm": 92637,
-        "titre": "Un parfum de meurtre",
+        "idFilm": 30581,
+        "titre": "Barbe à papa",
+        "art": "La",
         "realisateurs": "Peter Bogdanovich",
-        "annee": 2001,
-        "duree": 114,
+        "annee": 1973,
+        "duree": 100,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f92637"
+    "hashEvenement": "f30581"
   },
   {
     "idSeance": 91480,
@@ -4180,14 +4326,15 @@
         "realisateurs": "Curtis Bernhardt",
         "annee": 1945,
         "duree": 85,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f30749"
   },
   {
-    "idSeance": 91494,
-    "idEvenement": 27196,
+    "idSeance": 104306,
+    "idEvenement": 28338,
     "dateHeure": "2023-04-23T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -4198,16 +4345,16 @@
     ],
     "items": [
       {
-        "idFilm": 62708,
-        "titre": "Danger immédiat",
-        "realisateurs": "Phillip Noyce",
-        "annee": 1994,
-        "duree": 141,
+        "idFilm": 40348,
+        "titre": "Correspondant 17",
+        "realisateurs": "Alfred Hitchcock",
+        "annee": 1940,
+        "duree": 119,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f62708"
+    "hashEvenement": "f40348"
   },
   {
     "idSeance": 92858,
@@ -4335,6 +4482,30 @@
     "hashEvenement": "f29830"
   },
   {
+    "idSeance": 104311,
+    "idEvenement": 27407,
+    "dateHeure": "2023-04-24T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Peter Bogdanovich",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30530,
+        "titre": "Et tout le monde riait",
+        "realisateurs": "Peter Bogdanovich",
+        "annee": 1981,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f30530"
+  },
+  {
     "idSeance": 91508,
     "idEvenement": 27363,
     "dateHeure": "2023-04-24T18:30:00",
@@ -4369,6 +4540,7 @@
         "Wissam Charaf"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Wissam Charaf",
     "items": [
       {
         "idFilm": 154319,
@@ -4385,6 +4557,7 @@
         "realisateurs": "Wissam Charaf",
         "annee": 2017,
         "duree": 27,
+        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -4395,7 +4568,7 @@
         "annee": 2007,
         "duree": 27,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "Numérique"
       },
       {
         "idFilm": 95585,
@@ -4410,9 +4583,33 @@
     "hashEvenement": "f154319f140099f140100f95585"
   },
   {
+    "idSeance": 91506,
+    "idEvenement": 27417,
+    "dateHeure": "2023-04-24T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Peter Bogdanovich",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30584,
+        "titre": "On s'fait la valise, docteur ?",
+        "realisateurs": "Peter Bogdanovich",
+        "annee": 1972,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f30584"
+  },
+  {
     "idSeance": 92860,
     "idEvenement": 27360,
-    "dateHeure": "2023-04-24T20:45:00",
+    "dateHeure": "2023-04-24T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4449,7 +4646,10 @@
         "idFilm": 128671,
         "titre": "Tex Avery Follies",
         "realisateurs": "Tex Avery, Dick Lundy, Michael Lah",
-        "annee": 1964
+        "annee": 1964,
+        "duree": 85,
+        "version": "VF",
+        "format": "Vidéo"
       }
     ],
     "hashEvenement": "f128671"
@@ -4543,7 +4743,7 @@
     "items": [
       {
         "idFilm": 32819,
-        "titre": "Guerre ou crime",
+        "titre": "Guerre au crime",
         "realisateurs": "William Keighley",
         "annee": 1936,
         "duree": 82,
@@ -4647,7 +4847,7 @@
         "realisateurs": "Mario Monicelli",
         "annee": 1959,
         "duree": 129,
-        "version": "STF",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -4920,6 +5120,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jean A. Gili",
     "items": [
       {
         "idFilm": 42447,
@@ -5325,7 +5526,7 @@
         "titre": "Totò cherche un appartement",
         "realisateurs": "Mario Monicelli, Steno",
         "annee": 1949,
-        "duree": 82,
+        "duree": 79,
         "version": "VOSTF",
         "format": "35 mm"
       },
@@ -5399,6 +5600,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jean A. Gili",
     "items": [
       {
         "idFilm": 42470,
@@ -5408,7 +5610,7 @@
         "annee": 1966,
         "duree": 120,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f42470"
@@ -5432,7 +5634,7 @@
         "annee": 1965,
         "duree": 95,
         "version": "VF",
-        "format": "Numérique"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f83138"
@@ -5455,8 +5657,7 @@
         "realisateurs": "Mario Monicelli",
         "annee": 1970,
         "duree": 117,
-        "version": "VF",
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f42815"
@@ -5480,7 +5681,7 @@
         "annee": 1967,
         "duree": 95,
         "version": "VF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f59044"
@@ -5520,8 +5721,8 @@
     "hashEvenement": "f52356c27679"
   },
   {
-    "idSeance": 92906,
-    "idEvenement": 27831,
+    "idSeance": 104447,
+    "idEvenement": 27287,
     "dateHeure": "2023-05-06T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -5532,25 +5733,16 @@
     ],
     "items": [
       {
-        "idFilm": 93756,
-        "titre": "Cœur révélateur",
-        "art": "Le",
-        "realisateurs": "Mario Monicelli, Alberto Mondadori, Cesare Civita",
-        "annee": 1933,
-        "duree": 15,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 58449,
-        "titre": "Au diable la célébrité",
-        "realisateurs": "Steno, Mario Monicelli",
-        "annee": 1949,
-        "duree": 100,
-        "version": "VO",
-        "format": "Vidéo"
+        "idFilm": 43188,
+        "titre": "Donatella",
+        "realisateurs": "Mario Monicelli",
+        "annee": 1956,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f93756f58449"
+    "hashEvenement": "f43188"
   },
   {
     "idSeance": 91822,
@@ -5713,6 +5905,7 @@
         "Humphrey Bogart"
       ]
     ],
+    "mention": "Séance présentée par Serge Chauvin",
     "items": [
       {
         "idFilm": 31376,
@@ -5743,7 +5936,7 @@
         "titre": "Totò et les femmes",
         "realisateurs": "Mario Monicelli, Steno",
         "annee": 1952,
-        "duree": 103,
+        "duree": 96,
         "version": "VOSTF"
       }
     ],
@@ -5866,7 +6059,7 @@
         "realisateurs": "Charles Chaplin",
         "annee": 1931,
         "duree": 87,
-        "version": "INT. FR.",
+        "version": "STF",
         "format": "DCP"
       }
     ],
@@ -5997,6 +6190,30 @@
     "hashEvenement": "f45853"
   },
   {
+    "idSeance": 91917,
+    "idEvenement": 27263,
+    "dateHeure": "2023-05-11T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Mario Monicelli",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 55028,
+        "titre": "Larmes de joie",
+        "realisateurs": "Mario Monicelli",
+        "annee": 1960,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f55028"
+  },
+  {
     "idSeance": 91912,
     "idEvenement": 27561,
     "dateHeure": "2023-05-11T18:30:00",
@@ -6015,6 +6232,7 @@
         "realisateurs": "Claire Denis",
         "annee": 1996,
         "duree": 103,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -6022,7 +6240,7 @@
   },
   {
     "idSeance": 91915,
-    "idEvenement": 27462,
+    "idEvenement": 27956,
     "dateHeure": "2023-05-11T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -6048,6 +6266,7 @@
         "realisateurs": "Véronique Bourlon",
         "annee": 2021,
         "duree": 8,
+        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -6057,6 +6276,16 @@
         "realisateurs": "Léolo Victor-Pujebet",
         "annee": 2021,
         "duree": 20,
+        "version": "VOSTF",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 154348,
+        "titre": "Cinema's First Kiss Was Between Two Women",
+        "realisateurs": "Lily Alexandre, Edward Rose, Beryl Parkey",
+        "annee": 2022,
+        "duree": 2,
+        "version": "VO",
         "format": "Numérique"
       },
       {
@@ -6065,6 +6294,7 @@
         "realisateurs": "Jean-Sébastien Chauvin",
         "annee": 2022,
         "duree": 18,
+        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -6073,6 +6303,7 @@
         "realisateurs": "Marylène Negro",
         "annee": 2023,
         "duree": 10,
+        "version": "VOSTF",
         "format": "Numérique"
       },
       {
@@ -6081,6 +6312,7 @@
         "realisateurs": "Othello Vilgard",
         "annee": 2023,
         "duree": 20,
+        "version": "VOSTF",
         "format": "Numérique"
       },
       {
@@ -6088,11 +6320,36 @@
         "titre": "Memory Slot – Track 1",
         "realisateurs": "Yann Gonzalez, Alain Garcia Vergara",
         "annee": 2023,
-        "duree": 11,
+        "duree": 12,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154139f154141f154098f154348f154074f154246f154142f154247"
+  },
+  {
+    "idSeance": 100625,
+    "idEvenement": 27301,
+    "dateHeure": "2023-05-11T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Mario Monicelli",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43246,
+        "titre": "Gendarmes et Voleurs",
+        "realisateurs": "Mario Monicelli, Steno",
+        "annee": 1951,
+        "duree": 109,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154139f154141f154098f154074f154246f154142f154247"
+    "hashEvenement": "f43246"
   },
   {
     "idSeance": 92814,
@@ -6358,7 +6615,8 @@
         "realisateurs": "Shirley Clarke",
         "annee": 1956,
         "duree": 9,
-        "format": "DCP"
+        "version": "VO",
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f30131f54392f132043f154110"
@@ -6384,7 +6642,8 @@
         "titre": "Passe montagne",
         "realisateurs": "Jean-François Stévenin",
         "annee": 1978,
-        "format": "35 mm"
+        "duree": 110,
+        "format": "DCP"
       },
       {
         "idConf": 27692,
@@ -6479,8 +6738,8 @@
     "hashEvenement": "f118646f154111f97818f100582f141388"
   },
   {
-    "idSeance": 91989,
-    "idEvenement": 27287,
+    "idSeance": 104448,
+    "idEvenement": 27831,
     "dateHeure": "2023-05-13T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -6491,16 +6750,25 @@
     ],
     "items": [
       {
-        "idFilm": 43188,
-        "titre": "Donatella",
-        "realisateurs": "Mario Monicelli",
-        "annee": 1956,
-        "duree": 103,
+        "idFilm": 93756,
+        "titre": "Cœur révélateur",
+        "art": "Le",
+        "realisateurs": "Mario Monicelli, Alberto Mondadori, Cesare Civita",
+        "annee": 1933,
+        "duree": 15,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 58449,
+        "titre": "Au diable la célébrité",
+        "realisateurs": "Steno, Mario Monicelli",
+        "annee": 1949,
+        "duree": 100,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "Vidéo"
       }
     ],
-    "hashEvenement": "f43188"
+    "hashEvenement": "f93756f58449"
   },
   {
     "idSeance": 92950,
@@ -6520,7 +6788,7 @@
         "realisateurs": "Jack Smith",
         "annee": 1963,
         "duree": 45,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "16 mm"
       },
       {
@@ -6553,7 +6821,7 @@
   {
     "idSeance": 92722,
     "idEvenement": 27543,
-    "dateHeure": "2023-05-13T19:30:00",
+    "dateHeure": "2023-05-13T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6570,7 +6838,7 @@
         "realisateurs": "François Truffaut",
         "annee": 1971,
         "duree": 132,
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f51564"
@@ -6619,7 +6887,7 @@
         "realisateurs": "Kâmrân Shirdel",
         "annee": 1966,
         "duree": 18,
-        "version": "VO",
+        "version": "VOSTA",
         "format": "Numérique"
       },
       {
@@ -6662,16 +6930,17 @@
         "realisateurs": "Nikolai Ursin",
         "annee": 1967,
         "duree": 8,
-        "version": "VO",
-        "format": "Numérique"
+        "version": "VOSTF",
+        "format": "DCP"
       },
       {
         "idFilm": 113216,
         "titre": "Satan bouche un coin",
         "realisateurs": "Jean-Pierre Bouyxou",
         "annee": 1967,
-        "duree": 12,
-        "format": "16 mm"
+        "duree": 10,
+        "version": "VO",
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f154116f118640f153991f154117f153993f153999f113216"
@@ -6701,6 +6970,71 @@
     "hashEvenement": "f60432"
   },
   {
+    "idSeance": 92841,
+    "idEvenement": 27748,
+    "dateHeure": "2023-05-14T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jeune public",
+        "Ma petite Cinémathèque"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 65733,
+        "titre": "Chrysalide et le papillon d'or",
+        "art": "La",
+        "realisateurs": "Georges Méliès",
+        "annee": 1901,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 105939,
+        "titre": "To Spring",
+        "realisateurs": "Hugh Harman, Rudolph Ising",
+        "annee": 1936,
+        "duree": 9,
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 105264,
+        "titre": "Génie de la boîte de raviolis",
+        "art": "Le",
+        "realisateurs": "Claude Barras",
+        "annee": 2006,
+        "duree": 8,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 70507,
+        "titre": "Chant de la fleur introuvable",
+        "art": "Le",
+        "realisateurs": "Otar Iosseliani",
+        "annee": 1959
+      },
+      {
+        "idFilm": 154434,
+        "titre": "Renard minuscule",
+        "art": "Le",
+        "realisateurs": "Aline Quertain, Sylwia Szkiladz",
+        "annee": 2016,
+        "duree": 8,
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 154435,
+        "titre": "Couchée de Robert Desnos",
+        "realisateurs": "Debora Cheyenne Cruchon",
+        "annee": 2015,
+        "duree": 3,
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f65733f105939f105264f70507f154434f154435"
+  },
+  {
     "idSeance": 92952,
     "idEvenement": 27841,
     "dateHeure": "2023-05-14T15:30:00",
@@ -6719,7 +7053,7 @@
         "annee": 1967,
         "duree": 14,
         "version": "VO",
-        "format": "DCP"
+        "format": "Numérique"
       },
       {
         "idFilm": 154119,
@@ -6789,7 +7123,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Jacques Dutronc (sous réserve) et Bernard Le Coq",
+    "mention": "Séance présentée par Jacques Dutronc (sous réserve)",
     "items": [
       {
         "idFilm": 50631,
@@ -6869,7 +7203,7 @@
         "realisateurs": "Hellmuth Costard",
         "annee": 1968,
         "duree": 13,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "DCP"
       },
       {
@@ -6891,7 +7225,7 @@
       },
       {
         "idFilm": 154122,
-        "titre": "Danz",
+        "titre": "Dance",
         "realisateurs": "Georg Brintrup",
         "annee": 1969,
         "duree": 4,
@@ -6936,7 +7270,7 @@
         "realisateurs": "Antoni Padrós",
         "annee": 1969,
         "duree": 19,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "Numérique"
       },
       {
@@ -6945,8 +7279,7 @@
         "realisateurs": "Ugo Ulive",
         "annee": 1969,
         "duree": 22,
-        "version": "VO",
-        "format": "16 mm"
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f97819f154130f154006f154122f154123f38482f101907f154120f118991f154124"
@@ -7072,6 +7405,71 @@
     "hashEvenement": "f69019"
   },
   {
+    "idSeance": 92048,
+    "idEvenement": 27748,
+    "dateHeure": "2023-05-17T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jeune public",
+        "Ma petite Cinémathèque"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 65733,
+        "titre": "Chrysalide et le papillon d'or",
+        "art": "La",
+        "realisateurs": "Georges Méliès",
+        "annee": 1901,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 105939,
+        "titre": "To Spring",
+        "realisateurs": "Hugh Harman, Rudolph Ising",
+        "annee": 1936,
+        "duree": 9,
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 105264,
+        "titre": "Génie de la boîte de raviolis",
+        "art": "Le",
+        "realisateurs": "Claude Barras",
+        "annee": 2006,
+        "duree": 8,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 70507,
+        "titre": "Chant de la fleur introuvable",
+        "art": "Le",
+        "realisateurs": "Otar Iosseliani",
+        "annee": 1959
+      },
+      {
+        "idFilm": 154434,
+        "titre": "Renard minuscule",
+        "art": "Le",
+        "realisateurs": "Aline Quertain, Sylwia Szkiladz",
+        "annee": 2016,
+        "duree": 8,
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 154435,
+        "titre": "Couchée de Robert Desnos",
+        "realisateurs": "Debora Cheyenne Cruchon",
+        "annee": 2015,
+        "duree": 3,
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f65733f105939f105264f70507f154434f154435"
+  },
+  {
     "idSeance": 92050,
     "idEvenement": 27275,
     "dateHeure": "2023-05-17T18:00:00",
@@ -7140,7 +7538,8 @@
         "realisateurs": "Patrick Hella",
         "annee": 1969,
         "duree": 12,
-        "format": "16 mm"
+        "version": "VOSTF",
+        "format": "Numérique"
       },
       {
         "idFilm": 121283,
@@ -7153,11 +7552,11 @@
       },
       {
         "idFilm": 154126,
-        "titre": "Faites-vous jouir de plus en plus",
+        "titre": "Faites-vous de plus en plus jouir",
         "realisateurs": "Michel Laitem",
         "annee": 1974,
         "duree": 18,
-        "format": "Numérique"
+        "format": "DCP"
       },
       {
         "idFilm": 154129,
@@ -7188,9 +7587,9 @@
         "art": "Les",
         "realisateurs": "Dino Risi, Mario Monicelli, Ettore Scola",
         "annee": 1977,
-        "duree": 115,
+        "duree": 102,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f42389"
@@ -7312,7 +7711,7 @@
         "realisateurs": "Coni Beeson",
         "annee": 1970,
         "duree": 16,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "Numérique"
       },
       {
@@ -7321,16 +7720,17 @@
         "realisateurs": "Coni Beeson",
         "annee": 1971,
         "duree": 13,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "Numérique"
       },
       {
         "idFilm": 154012,
-        "titre": "The Now",
+        "titre": "Now",
+        "art": "The",
         "realisateurs": "Coni Beeson",
         "annee": 1972,
         "duree": 17,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "Numérique"
       },
       {
@@ -7339,7 +7739,7 @@
         "realisateurs": "Coni Beeson",
         "annee": 1974,
         "duree": 5,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "Numérique"
       },
       {
@@ -7366,7 +7766,7 @@
         "realisateurs": "Coni Beeson",
         "annee": 1979,
         "duree": 12,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "Numérique"
       }
     ],
@@ -7615,7 +8015,6 @@
         "realisateurs": "Yann Dedet",
         "annee": 1988,
         "duree": 17,
-        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -7640,7 +8039,7 @@
         "realisateurs": "Max de Rieux",
         "annee": 1928,
         "duree": 23,
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 154300,
@@ -7648,7 +8047,7 @@
         "realisateurs": "Jean Dréville",
         "annee": 1929,
         "duree": 42,
-        "format": "DCP"
+        "format": "16 mm"
       },
       {
         "idFilm": 154301,
@@ -7777,7 +8176,7 @@
         "realisateurs": "Mario Monicelli",
         "annee": 1959,
         "duree": 129,
-        "version": "STF",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -7802,7 +8201,7 @@
         "realisateurs": "JoAnn Elam",
         "annee": 1970,
         "duree": 2,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "Numérique"
       },
       {
@@ -7811,8 +8210,8 @@
         "realisateurs": "Scott Bartlett",
         "annee": 1970,
         "duree": 13,
-        "version": "VOSTF",
-        "format": "16 mm"
+        "version": "VO",
+        "format": "Numérique"
       },
       {
         "idFilm": 154145,
@@ -7820,7 +8219,7 @@
         "realisateurs": "Bent Barfod",
         "annee": 1970,
         "duree": 6,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "DCP"
       },
       {
@@ -7829,7 +8228,7 @@
         "realisateurs": "Irm Sommer, Ed Sommer",
         "annee": 1970,
         "duree": 18,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "Numérique"
       },
       {
@@ -7855,7 +8254,7 @@
         "annee": 1971,
         "duree": 20,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "Numérique"
       },
       {
         "idFilm": 154149,
@@ -7863,8 +8262,8 @@
         "realisateurs": "Byron Grush",
         "annee": 1971,
         "duree": 7,
-        "version": "VOSTF",
-        "format": "16 mm"
+        "version": "VO",
+        "format": "Numérique"
       },
       {
         "idFilm": 154152,
@@ -7904,7 +8303,7 @@
         "titre": "Quand les aigles attaquent",
         "realisateurs": "Brian G. Hutton",
         "annee": 1968,
-        "duree": 158,
+        "duree": 157,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -7977,7 +8376,7 @@
         "realisateurs": "Tetsurō Nunokawa, NDU",
         "annee": 1971,
         "duree": 86,
-        "version": "VOSTA",
+        "version": "VOSTF",
         "format": "Numérique"
       }
     ],
@@ -8073,11 +8472,35 @@
         "realisateurs": "Jerry Lewis",
         "annee": 1962,
         "duree": 118,
-        "version": "VF",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f33623"
+  },
+  {
+    "idSeance": 92225,
+    "idEvenement": 27285,
+    "dateHeure": "2023-05-24T15:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Mario Monicelli",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43157,
+        "titre": "Caro Michele",
+        "realisateurs": "Mario Monicelli",
+        "annee": 1976,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f43157"
   },
   {
     "idSeance": 92220,
@@ -8121,7 +8544,8 @@
         "realisateurs": "Gunvor Nelson",
         "annee": 1972,
         "duree": 10,
-        "format": "Numérique"
+        "version": "VO",
+        "format": "16 mm"
       },
       {
         "idFilm": 154156,
@@ -8130,7 +8554,7 @@
         "annee": 1972,
         "duree": 4,
         "version": "VO",
-        "format": "16 mm"
+        "format": "Numérique"
       },
       {
         "idFilm": 154008,
@@ -8195,7 +8619,7 @@
         "annee": 1972,
         "duree": 75,
         "version": "VOSTF",
-        "format": "Numérique"
+        "format": "DCP"
       },
       {
         "idFilm": 154176,
@@ -8212,11 +8636,36 @@
         "realisateurs": "Tom Palazzolo",
         "annee": 1973,
         "duree": 14,
-        "version": "STF",
+        "version": "VO",
         "format": "Numérique"
       }
     ],
     "hashEvenement": "f154019f154176f154177"
+  },
+  {
+    "idSeance": 100623,
+    "idEvenement": 27486,
+    "dateHeure": "2023-05-25T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Mario Monicelli",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42389,
+        "titre": "Nouveaux Monstres",
+        "art": "Les",
+        "realisateurs": "Dino Risi, Mario Monicelli, Ettore Scola",
+        "annee": 1977,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42389"
   },
   {
     "idSeance": 92255,
@@ -8259,9 +8708,9 @@
         "titre": "Belladonna des tristesses",
         "realisateurs": "Eiichi Yamamoto",
         "annee": 1973,
-        "duree": 88,
+        "duree": 86,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f61838"
@@ -8343,11 +8792,35 @@
         "realisateurs": "Barbara Hammer",
         "annee": 1992,
         "duree": 67,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "16 mm"
       }
     ],
     "hashEvenement": "f154022f154023f141226f141228f121828"
+  },
+  {
+    "idSeance": 100624,
+    "idEvenement": 27283,
+    "dateHeure": "2023-05-26T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Mario Monicelli",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 57106,
+        "titre": "Romances et Confidences",
+        "realisateurs": "Mario Monicelli",
+        "annee": 1974,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f57106"
   },
   {
     "idSeance": 92291,
@@ -8413,6 +8886,7 @@
         "titre": "Mes chers amis 2",
         "realisateurs": "Mario Monicelli",
         "annee": 1982,
+        "duree": 130,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -8461,7 +8935,7 @@
         "annee": 1994,
         "duree": 118,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f103765"
@@ -8524,8 +8998,8 @@
     "hashEvenement": "f101591"
   },
   {
-    "idSeance": 92332,
-    "idEvenement": 27352,
+    "idSeance": 100668,
+    "idEvenement": 27951,
     "dateHeure": "2023-05-27T18:15:00",
     "salle": "GF",
     "cycle": [
@@ -8537,16 +9011,16 @@
     "mention": "Séance présentée par René Vienet",
     "items": [
       {
-        "idFilm": 154190,
+        "idFilm": 125708,
         "titre": "Filles de Ka-ma-ré (Une petite culotte pour l'été)",
         "art": "Les",
-        "realisateurs": "René Vienet",
+        "realisateurs": "René Viénet",
         "annee": 1974,
         "duree": 88,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154190"
+    "hashEvenement": "f125708"
   },
   {
     "idSeance": 92329,
@@ -8568,7 +9042,7 @@
         "annee": 1966,
         "duree": 120,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f42470"
@@ -8728,8 +9202,7 @@
         "realisateurs": "Mario Monicelli",
         "annee": 1970,
         "duree": 117,
-        "version": "VF",
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f42815"

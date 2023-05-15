@@ -92,15 +92,11 @@
   * Signe des renégats (Le)  
   * Souffle sauvage (Le)
 
-## Jeune public (21)
+## Jeune public (15)
 
-  * Chant de la fleur introuvable (Le)  
-  * Chrysalide et le papillon d'or (La)  
-  * Couchée de Robert Desnos  
   * Docteur Jerry et Mister Love  
   * E.T., l'extra-terrestre  
   * Fenêtre sur cour  
-  * Génie de la boîte de raviolis (Le)  
   * Jason et les Argonautes  
   * Jour de fête  
   * Lumières de la ville (Les)  
@@ -108,9 +104,7 @@
   * Peau d'âne  
   * Pinocchio  
   * Ponyo sur la falaise  
-  * Renard minuscule (Le)  
   * Tex Avery Follies  
-  * To Spring  
   * Trois Âges (Les)  
   * Un Américain à Paris  
   * Wallace et Gromit : Les Inventuriers  

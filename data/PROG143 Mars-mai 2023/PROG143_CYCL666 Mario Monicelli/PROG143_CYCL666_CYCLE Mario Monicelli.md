@@ -510,7 +510,7 @@ Comme chaque année, les Colapietro, quatre frères et sœurs et leurs familles 
 **Voyage avec Anita**  
 **(Viaggio con Anita)**  
 de Mario Monicelli  
-Italie-France / 1979 / 115 min / VOSTF / 35 mm  
+Italie-France / 1979 / 117 min / VOSTF / 35 mm  
 Avec Giancarlo Giannini, Goldie Hawn, Claudine Auger, Aurore Clément.  
 En se rendant au chevet de son père mourant, un homme rencontre une actrice américaine avec qui il a une relation.
 

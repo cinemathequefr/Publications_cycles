@@ -55,7 +55,7 @@ Un magazine recherche un mannequin pour porter les dernières créations d'un co
 [46638]  
 **Falbalas**  
 de Jacques Becker  
-France / 1944 / 111 min / 35 mm  
+France / 1944 / 95 min / DCP  
 Avec Raymond Rouleau, Micheline Presle, Jean Chevrier.  
 Un couturier parisien, incorrigible séducteur, s'intéresse à la fiancée de son meilleur ami.
 

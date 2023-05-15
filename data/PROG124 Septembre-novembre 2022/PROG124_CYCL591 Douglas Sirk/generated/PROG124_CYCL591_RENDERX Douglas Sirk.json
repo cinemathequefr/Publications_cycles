@@ -884,79 +884,83 @@
         ]
       },
       {
-        "idEvenement": 26233,
-        "content": [
+        "groupe": [
           {
-            "idConf": 26233,
-            "titre": "Douglas Sirk, né Detlef Sierck",
-            "sousTitre": "Conférence de Bernard Eisenschitz",
-            "typeConference": "Conférence",
-            "textes": [
+            "idEvenement": 26233,
+            "content": [
               {
-                "typeTexte": 8,
-                "texte": "Douglas Sirk est reconnu à juste titre comme le maître du mélodrame hollywoodien. Pour en arriver à une dizaine d'œuvres magnifiques entre 1954 et 1958, il a suivi un long parcours qui reste dans l'ombre. Réalisateur allemand devenu plus américain que les Américains, homme de théâtre qui n'est pas pensable hors du cinéma, cinéaste de genre dont les films ont des échos autobiographiques, peintre, musicien, traducteur... Comment Douglas Sirk est-il devenu un auteur complet ?"
-              },
-              {
-                "typeTexte": 156,
-                "texte": "Bernard Eisenschitz est traducteur et historien du cinéma. Auteur de nombreux ouvrages (_Roman américain : les vies de Nicholas Ray_, _Fritz Lang au travail_, _Gels et dégels : une autre histoire du cinéma soviétique_, ...), il vient de publier aux Éditions de l'Œil _Douglas Sirk, né Detlef Sierck_."
+                "idConf": 26233,
+                "titre": "Douglas Sirk, né Detlef Sierck",
+                "sousTitre": "Conférence de Bernard Eisenschitz",
+                "typeConference": "Conférence",
+                "textes": [
+                  {
+                    "typeTexte": 8,
+                    "texte": "Douglas Sirk est reconnu à juste titre comme le maître du mélodrame hollywoodien. Pour en arriver à une dizaine d'œuvres magnifiques entre 1954 et 1958, il a suivi un long parcours qui reste dans l'ombre. Réalisateur allemand devenu plus américain que les Américains, homme de théâtre qui n'est pas pensable hors du cinéma, cinéaste de genre dont les films ont des échos autobiographiques, peintre, musicien, traducteur... Comment Douglas Sirk est-il devenu un auteur complet ?"
+                  },
+                  {
+                    "typeTexte": 156,
+                    "texte": "Bernard Eisenschitz est traducteur et historien du cinéma. Auteur de nombreux ouvrages (_Roman américain : les vies de Nicholas Ray_, _Fritz Lang au travail_, _Gels et dégels : une autre histoire du cinéma soviétique_, ...), il vient de publier aux Éditions de l'Œil _Douglas Sirk, né Detlef Sierck_."
+                  }
+                ]
               }
-            ]
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 75841,
-            "idSeanceAssoc": 75753,
-            "typeAssoc": 117,
-            "dateHeure": "2022-09-08T19:00:00",
-            "idSalle": "HL",
-            "mentionAssoc": "À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _La Neuvième symphonie_ de Douglas Sirk"
-          }
-        ]
-      },
-      {
-        "idFilm": 76472,
-        "content": [
-          {
-            "idFilm": 76472,
-            "ordre": 1,
-            "titre": "Neuvième symphonie",
-            "art": "La",
-            "titreVo": "Schlussakkord",
-            "realisateurs": "Douglas Sirk",
-            "annee": 1936,
-            "duree": 100,
-            "version": "VOSTF",
-            "format": "DCP",
-            "generique": [
-              "Lil Dagover",
-              "Willy Birgel",
-              "Maria von Tasnady"
             ],
-            "textes": [
+            "seances": [
               {
-                "typeTexte": 9,
-                "texte": "Une jeune femme doit abandonner son enfant pour suivre à New York son terrible mari. Après le suicide de ce dernier, elle rentre en Allemagne et se fait engager comme nurse de son propre fils."
-              },
-              {
-                "typeTexte": 99,
-                "texte": "Sirk a réalisé ce film sous son nom de naissance, Detlef Sierck. Restauration par Friedrich Wilhelm Murnau Stiftung, ressortie en salles le 7 septembre par Capricci."
+                "idSeance": 75841,
+                "idSeanceAssoc": 75753,
+                "typeAssoc": 117,
+                "dateHeure": "2022-09-08T19:00:00",
+                "idSalle": "HL",
+                "mentionAssoc": "À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _La Neuvième symphonie_ de Douglas Sirk"
               }
             ]
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 75753,
-            "idSeanceAssoc": 75753,
-            "typeAssoc": 117,
-            "dateHeure": "2022-09-08T21:15:00",
-            "idSalle": "HL"
           },
           {
-            "idSeance": 74292,
-            "dateHeure": "2022-10-09T19:00:00",
-            "idSalle": "HL"
+            "idFilm": 76472,
+            "content": [
+              {
+                "idFilm": 76472,
+                "ordre": 1,
+                "titre": "Neuvième symphonie",
+                "art": "La",
+                "titreVo": "Schlussakkord",
+                "realisateurs": "Douglas Sirk",
+                "annee": 1936,
+                "duree": 100,
+                "version": "VOSTF",
+                "format": "DCP",
+                "generique": [
+                  "Lil Dagover",
+                  "Willy Birgel",
+                  "Maria von Tasnady"
+                ],
+                "textes": [
+                  {
+                    "typeTexte": 9,
+                    "texte": "Une jeune femme doit abandonner son enfant pour suivre à New York son terrible mari. Après le suicide de ce dernier, elle rentre en Allemagne et se fait engager comme nurse de son propre fils."
+                  },
+                  {
+                    "typeTexte": 99,
+                    "texte": "Sirk a réalisé ce film sous son nom de naissance, Detlef Sierck. Restauration par Friedrich Wilhelm Murnau Stiftung, ressortie en salles le 7 septembre par Capricci."
+                  }
+                ]
+              }
+            ],
+            "seances": [
+              {
+                "idSeance": 75753,
+                "idSeanceAssoc": 75753,
+                "typeAssoc": 117,
+                "dateHeure": "2022-09-08T21:15:00",
+                "idSalle": "HL"
+              },
+              {
+                "idSeance": 74292,
+                "dateHeure": "2022-10-09T19:00:00",
+                "idSalle": "HL"
+              }
+            ]
           }
         ]
       },
@@ -1484,88 +1488,92 @@
         ]
       },
       {
-        "idFilm": 35939,
-        "content": [
+        "groupe": [
           {
             "idFilm": 35939,
-            "ordre": 1,
-            "titre": "Temps d'aimer et le temps de mourir",
-            "art": "Le",
-            "titreVo": "A Time to Love and a Time to Die",
-            "realisateurs": "Douglas Sirk",
-            "annee": 1958,
-            "duree": 133,
-            "version": "VOSTF",
-            "format": "DCP",
-            "generique": [
-              "John Gavin",
-              "Liselotte Pulver",
-              "Jock Mahoney"
-            ],
-            "textes": [
+            "content": [
               {
-                "typeTexte": 9,
-                "texte": "De retour du front russe, le soldat Ernst Graeber découvre sa ville ravagée et retrouve Elisabeth, une amie d'enfance."
+                "idFilm": 35939,
+                "ordre": 1,
+                "titre": "Temps d'aimer et le temps de mourir",
+                "art": "Le",
+                "titreVo": "A Time to Love and a Time to Die",
+                "realisateurs": "Douglas Sirk",
+                "annee": 1958,
+                "duree": 133,
+                "version": "VOSTF",
+                "format": "DCP",
+                "generique": [
+                  "John Gavin",
+                  "Liselotte Pulver",
+                  "Jock Mahoney"
+                ],
+                "textes": [
+                  {
+                    "typeTexte": 9,
+                    "texte": "De retour du front russe, le soldat Ernst Graeber découvre sa ville ravagée et retrouve Elisabeth, une amie d'enfance."
+                  },
+                  {
+                    "typeTexte": 99,
+                    "texte": "Restauration 2K par Universal."
+                  }
+                ]
+              }
+            ],
+            "seances": [
+              {
+                "idSeance": 75756,
+                "typeAssoc": 118,
+                "dateHeure": "2022-09-11T15:00:00",
+                "idSalle": "HL",
+                "idSeanceAssoc": 75756,
+                "mentionAssoc": "Film + dialogue"
               },
               {
-                "typeTexte": 99,
-                "texte": "Restauration 2K par Universal."
+                "idSeance": 73903,
+                "dateHeure": "2022-09-24T20:30:00",
+                "idSalle": "HL",
+                "mentionAssoc": "Film seul"
               }
             ]
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 75756,
-            "typeAssoc": 118,
-            "dateHeure": "2022-09-11T15:00:00",
-            "idSalle": "HL",
-            "idSeanceAssoc": 75756,
-            "mentionAssoc": "Film + dialogue"
           },
           {
-            "idSeance": 73903,
-            "dateHeure": "2022-09-24T20:30:00",
-            "idSalle": "HL",
-            "mentionAssoc": "Film seul"
-          }
-        ]
-      },
-      {
-        "idEvenement": 26234,
-        "content": [
-          {
-            "idConf": 26234,
-            "ordre": 2,
-            "titre": "Dialogue avec Bernard Eisenschitz",
-            "typeConference": "Dialogue",
-            "textes": [
+            "idEvenement": 26234,
+            "content": [
               {
-                "typeTexte": 99,
-                "texte": "À la suite du dialogue, à partir de 18h30, Bernard Eisenschitz signera à la librairie de la Cinémathèque son ouvrage, _Douglas Sirk, né Detlef Sierck_ (Éditions de l'Œil, 2022)."
-              },
+                "idConf": 26234,
+                "ordre": 2,
+                "titre": "Dialogue avec Bernard Eisenschitz",
+                "typeConference": "Dialogue",
+                "textes": [
+                  {
+                    "typeTexte": 99,
+                    "texte": "À la suite du dialogue, à partir de 18h30, Bernard Eisenschitz signera à la librairie de la Cinémathèque son ouvrage, _Douglas Sirk, né Detlef Sierck_ (Éditions de l'Œil, 2022)."
+                  },
+                  {
+                    "typeTexte": 8,
+                    "texte": "« Un double drame, dans les années 1930, divise pour toujours la vie de Douglas Sirk : la séparation forcée d'avec son fils, devenu acteur enfant en Allemagne nazie, qu'il lui est interdit de voir sinon à l'écran ; et l'antisémitisme subi par sa femme, qui les amène en 1937 à choisir un autre drame : l'émigration. Puis vient, en temps de guerre, l'isolement dans la communauté hollywoodienne de l'exil. Sans être \"autobiographiques\", les films de Sirk, particulièrement _Le Temps d'aimer et le temps de mourir_, reflètent le parcours de vie d'un cinéaste voué aux déchirements. » (Bernard Eisenschitz) « Ceux qui n'ont pas vu ou aimé Liselotte Pulver courir sur la berge (...), se baisser brusquement pour passer sous une barrière, puis se redresser, hop, d'un coup de reins, ceux qui n'ont pas vu à ce moment la grosse [caméra] Mitchell de Douglas Sirk se baisser en même temps, puis, hop, se redresser du même et souple mouvement de jarret, et bien ! ceux-là n'ont rien vu, ou alors, ils ne savent pas ce qui est beau. » (Jean-Luc Godard, _Cahiers du cinéma_, avril 1959)"
+                  },
+                  {
+                    "typeTexte": 156,
+                    "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative de la Cinémathèque française."
+                  },
+                  {
+                    "typeTexte": 156,
+                    "texte": "Bernard Eisenschitz est traducteur et historien du cinéma. Auteur de nombreux ouvrages (_Roman américain : les vies de Nicholas Ray_, _Fritz Lang au travail_, _Gels et dégels : une autre histoire du cinéma soviétique_, ...), il vient de publier aux Éditions de l'Œil _Douglas Sirk, né Detlef Sierck_."
+                  }
+                ]
+              }
+            ],
+            "seances": [
               {
-                "typeTexte": 8,
-                "texte": "« Un double drame, dans les années 1930, divise pour toujours la vie de Douglas Sirk : la séparation forcée d'avec son fils, devenu acteur enfant en Allemagne nazie, qu'il lui est interdit de voir sinon à l'écran ; et l'antisémitisme subi par sa femme, qui les amène en 1937 à choisir un autre drame : l'émigration. Puis vient, en temps de guerre, l'isolement dans la communauté hollywoodienne de l'exil. Sans être \"autobiographiques\", les films de Sirk, particulièrement _Le Temps d'aimer et le temps de mourir_, reflètent le parcours de vie d'un cinéaste voué aux déchirements. » (Bernard Eisenschitz) « Ceux qui n'ont pas vu ou aimé Liselotte Pulver courir sur la berge (...), se baisser brusquement pour passer sous une barrière, puis se redresser, hop, d'un coup de reins, ceux qui n'ont pas vu à ce moment la grosse [caméra] Mitchell de Douglas Sirk se baisser en même temps, puis, hop, se redresser du même et souple mouvement de jarret, et bien ! ceux-là n'ont rien vu, ou alors, ils ne savent pas ce qui est beau. » (Jean-Luc Godard, _Cahiers du cinéma_, avril 1959)"
-              },
-              {
-                "typeTexte": 156,
-                "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative de la Cinémathèque française."
-              },
-              {
-                "typeTexte": 156,
-                "texte": "Bernard Eisenschitz est traducteur et historien du cinéma. Auteur de nombreux ouvrages (_Roman américain : les vies de Nicholas Ray_, _Fritz Lang au travail_, _Gels et dégels : une autre histoire du cinéma soviétique_, ...), il vient de publier aux Éditions de l'Œil _Douglas Sirk, né Detlef Sierck_."
+                "idSeance": 75756,
+                "typeAssoc": 118,
+                "dateHeure": "2022-09-11T15:00:00",
+                "idSalle": "HL",
+                "mentionAssoc": "Film + dialogue"
               }
             ]
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 75756,
-            "typeAssoc": 118,
-            "dateHeure": "2022-09-11T15:00:00",
-            "idSalle": "HL",
-            "mentionAssoc": "Film + dialogue"
           }
         ]
       },
