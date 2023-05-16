@@ -17,7 +17,7 @@ Ouverture de la rétrospective. Séance présentée par Marie Amachoukeli
 [154442]  
 **Tiger Stripes**  
 d'Amanda Nell Eu  
-Malaisie-Taïwan-France-Allemagne-Pays-Bas-Indonésie-Qatar / 2023 / 95 min / VOSTF / DCP  
+Malaisie-Taïwan-France-Singapour-Allemagne-Pays-Bas-Indonésie-Qatar / 2023 / 95 min / VOSTF / DCP  
 Avec Zafreen Zairizal, Deena Ezral.  
 Zaffan vit dans une petite communauté rurale en Malaisie. En pleine puberté, elle réalise que son corps se transforme à une vitesse inquiétante. Ses amies se détournent d'elle lorsqu'une crise d'hystérie collective frappe l'école. La peur se répand et un médecin intervient pour chasser le démon qui hante les filles. Comme un tigre harcelé et délogé de son habitat, Zaffan décide de révéler sa vraie nature, sa fureur, sa rage et sa beauté.
 
@@ -25,11 +25,11 @@ Zaffan vit dans une petite communauté rurale en Malaisie. En pleine puberté, e
 
 [154437]  
 **Inchallah un fils**  
-**(In sha'Allah walad)**  
+**(Inshallad walad)**  
 d'Amjad Al Rasheed  
 Jordanie-France-Arabie saoudite-Qatar / 2023 / 113 min / VOSTF / DCP  
 Avec Mouna Hawa, Haitham Omari.  
-Jordanie, de nos jours. Après la mort de son mari, Nawal, la trentaine, doit se battre pour ce qu'elle considère comme étant l'héritage de sa fille unique, dans une région du monde où avoir un fils change tout.
+Jordanie, de nos jours. Après la mort soudaine de son mari, Nawal, 30 ans, doit se battre pour sa part d'héritage, afin de sauver sa fille et sa maison, dans une société où avoir un fils changerait la donne.
 
 - je 8 juin 20h30 HL
 
@@ -44,7 +44,7 @@ Sous un soleil caniculaire, Purdey, 17 ans, et son frère Makenzy, 15 ans, sont 
 
 [154439]  
 **Le Ravissement**  
-d'Iris Kaltenback  
+d'Iris Kaltenbäck  
 France / 2023 / 97 min / DCP  
 Avec Hafsia Herzi, Alexis Manenti, Nina Meurisse.  
 Lydia, sage-femme très investie dans son travail, est en pleine rupture amoureuse. Au même moment, sa meilleure amie, Salomé, lui annonce qu'elle est enceinte et lui demande de suivre sa grossesse. Le jour où Lydia recroise Milos, une conquête d'un soir, alors qu'elle tient le bébé de son amie dans ses bras, elle s'enfonce dans un mensonge, au risque de tout perdre...
@@ -54,25 +54,26 @@ Lydia, sage-femme très investie dans son travail, est en pleine rupture amoureu
 [154441]  
 **Lost Country**  
 de Vladimir Perišić  
-France-Croatie-Serbie-Luxembourg / 2023 / 98 min / VOSTF / DCP  
+Serbie-France-Croatie-Luxembourg / 2023 / 98 min / VOSTF / DCP  
 Avec Jasna Đuričić, Jovan Ginic.  
 Serbie, 1996. Pendant les manifestations étudiantes contre le régime de Milošević, Stefan, 15 ans, mène dans le feu des événements sa propre révolution : accepter l'inacceptable, voir dans sa mère – porte-parole du parti au pouvoir – une complice du crime et trouver, malgré l'amour qu'il ressent pour elle, la force de la confronter.
 
 - di 11 juin 19h30 HL
 
 [154440]  
-**Levante**  
+**Power Alley**  
+**(Levante)**  
 de Lillah Halla  
-Brésil-Uruguay-France / 2023 / 92 min / VOSTF / DCP  
+Brésil-France-Uruguay / 2023 / 92 min / VOSTF / DCP  
 Avec Ayomi Domenica Dias, Loro Bardot.  
 Sofia, jeune joueuse de volley-ball prometteuse, apprend qu'elle est enceinte la veille d'un championnat qui peut sceller son destin. Ne voulant pas de cette grossesse, elle cherche à se faire avorter illégalement et se retrouve la cible d'un groupe fondamentaliste bien décidé à l'en empêcher à tout prix. Mais ni Sofia ni ses proches n'ont l'intention de se soumettre à l'aveugle ferveur de la masse.
 
 - lu 12 juin 18h30 HL
 
 [154438]  
-**Jam**  
+**Sleep**  
 de Jason Yu  
-Corée / 2023 / 109 min / VOSTF / DCP  
+Corée du sud / 2023 / 109 min / VOSTF / DCP  
 Avec Jung Yu-mi, Lee Sun-kyun.  
 La vie d'un jeune couple est bouleversée quand le mari devient somnambule et se transforme en quelqu'un d'autre la nuit tombée. Submergée par la peur qu'il fasse du mal à leur nouveau-né, sa femme ne trouve plus le sommeil.
 
@@ -112,7 +113,7 @@ suivi de
 de Nans Laborde-Jourdàa  
 France / 2023 / 17 min / DCP  
 Avec François Chaignaud, Muriel Laborde-Jourdàa, Mellie Laborde-Jourdàa.  
-Fran est de passage dans sa ville natale pour se reposer et rendre visite à sa mère. Suivant le rythme saccadé du _Boléro_ de Ravel, ce parcours sur les chemins du souvenir et du désir va le mener, ainsi que tout le village, à une apothéose joyeusement chaotique.
+Fran est de passage dans sa ville natale pour se reposer et rendre visite à sa mère. Suivant le rythme saccadé du _Boléro_, ce parcours sur les chemins du souvenir et du désir va le mener, ainsi que tout le village, à une apothéose joyeusement chaotique.
 
 - sa 10 juin 15h00 GF
 
@@ -143,7 +144,7 @@ suivi de
 de Dawid Bodzak  
 Pologne / 2023 / 19 min / VOSTF / DCP  
 Avec Julia Szczepańska, Natan Berkowicz.  
-Un film « néo-giallo » sur le besoin d'assouvir ses désirs cachés, qui vient faire imploser le monde des personnages.  
+Un film « néo-giallo » sur le besoin d'assouvir ses désirs cachés, qui vient faire exploser le monde des personnages de l'intérieur.  
 suivi de  
 [154451]  
 **Paradis**  
@@ -151,7 +152,7 @@ suivi de
 de Morad Mostafa  
 Égypte-France-Qatar / 2023 / 25 min / VOSTF / DCP  
 Avec Kenyi Marcellno, Kenzy Mohamed.  
-Après un violent accident, Eissa, jeune migrant de 17 ans venu d'Afrique noire, se bat contre la montre en Égypte pour sauver ses proches, peu important le prix à payer.
+Après un violent accident, Eissa, jeune migrant de 17 ans venu d'Afrique, se bat contre la montre en Égypte pour sauver ses proches, peu important le prix à payer.
 
 - lu 12 juin 16h00 GF
 
@@ -183,18 +184,18 @@ Cela fait 548 jours que A ne ressent plus rien, qu'elle est absente de sa vie. U
 [154432]  
 **Vincent doit mourir**  
 de Stéphan Castang  
-France / 2023 / 107 min / DCP  
+France-Belgique / 2023 / 107 min / DCP  
 Avec Karim Leklou, Vimala Pons.  
 Du jour au lendemain, Vincent est agressé à plusieurs reprises et sans raison par des gens qui tentent de le tuer. Son existence d'homme sans histoires en est bouleversée et, quand le phénomène s'amplifie, il n'a d'autre choix que de fuir et de changer son mode de vie.
 
 - ve 9 juin 20h30 HL
 
 [154443]  
-**Le Syndrome des amours passées**  
+**Le Syndrome des Amours Passées**  
 d'Ann Sirot, Raphaël Balboni  
 Belgique-France / 2023 / 89 min / DCP  
 Avec Lucie Debay, Lazare Gousseau, Florence Loiret-Caille.  
-Rémy et Sandra n'arrivent pas à avoir d'enfant car ils sont atteints du « syndrome des amours passées ». Pour guérir, il n'y a qu'une seule solution : ils doivent recoucher une fois avec chacun de leurs ex.
+Rémy et Sandra n'arrivent pas à avoir d'enfant car ils sont atteints du « Syndrome des Amours Passées ». Pour guérir, il n'y a qu'une seule solution : ils doivent recoucher une fois avec chacun de leurs ex.
 
 - sa 10 juin 20h00 HL
 

@@ -11,17 +11,17 @@
   * Fille de son père (La)  
   * Il pleut dans la maison  
   * Inchallah un fils  
-  * Jam  
-  * Levante  
   * Lost Country  
   * Midnight Skin  
   * Paradis  
   * Pleure pas Gabriel  
+  * Power Alley  
   * Ravissement (Le)  
   * Real Truth About the Fight (The)  
   * Saison pourpre (La)  
+  * Sleep  
   * Stranger  
-  * Syndrome des amours passées (Le)  
+  * Syndrome des Amours Passées (Le)  
   * Tiger Stripes  
   * Via Dolorosa  
   * Vincent doit mourir  

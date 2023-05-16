@@ -23,6 +23,16 @@ Avec Mae West, Victor McLaglen, Phillip Reed.
 
 - me 13 sep 20h00 HL
 
+[84223]  
+**Au pays du rêve**  
+**(Going Hollywood)**  
+de Raoul Walsh  
+États-Unis / 1933 / 84 min / VOSTF / 35 mm  
+Avec Marion Davies, Bing Crosby, Robert Montgomery.  
+Dans un collège pour filles, une enseignante de français qui rêve d'une vie en musique, quitte son poste pour rejoindre le crooner qu'elle écoute à la radio. Celui-ci est sur le point de partir pour Hollywood où il doit tourner un film.
+
+- ve 13 oct 14h45 GF
+
 [45140]  
 **Au service de la gloire**  
 **(What Price Glory ?)**  
@@ -116,7 +126,7 @@ D'après le roman _The Revolt of Mamie Stover_ de William Bradford Huie.
 Avec Jane Russell, Richard Egan, Joan Leslie.  
 Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au « Bungalow », un dancing célèbre. Après l'attaque de Pearl Harbor, obnubilée par son désir d'argent, elle cherche à s'enrichir. Sa rencontre avec Jim Blair, un romancier, bouleverse ses projets.
 
-- di 17 sep 19h45 HL
+- di 17 sep 20h30 HL
 
 [45138]  
 **Capitaine sans peur**  
@@ -196,7 +206,7 @@ de Raoul Walsh
 Avec Kirk Douglas, Virginia Mayo, Walter Brennan.  
 Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un suspect, Keith, pour le meurtre du fils d'un rancher, Roden. Il amène l'homme à la ville pour que celui-ci fasse l'objet d'un procès équitable. Mais les hommes de Roden le traquent.
 
-- sa 9 sep 17h00 HL
+- je 7 sep 21h15 GF
 
 [36840]  
 **Du sang sur la neige**  
@@ -240,6 +250,18 @@ Johnny Marshall et Hank McHenry sont deux amis réparateurs de lignes électriqu
 
 - sa 2 sep 19h30 HL
 
+[65626]  
+**L'Escadron noir**  
+**(The Dark Command)**  
+de Raoul Walsh  
+États-Unis / 1940 / 90 min / VOSTF / 35 mm  
+D'après le roman _The Dark command_ de W.R. Burnett.  
+Avec John Wayne, Claire Trevor, Roy Rogers.  
+Vers 1860, dans le Kansas, deux hommes, l'un rustre et intègre et l'autre cultivé et sans scrupules, se disputent les faveurs d'une femme et le poste de shérif.  
+copie 35mm UCLA Film & Television Archive.
+
+- di 24 sep 16h15 HL
+
 [37701]  
 **L'Esclave libre**  
 **(Band of Angels)**  
@@ -280,6 +302,16 @@ Avec James Cagney, Priscilla Lane, Humphrey Bogart.
 Trois soldats américains qui ont combattu en France pendant la Première Guerre mondiale se séparent et retournent à la vie civile. La prohibition va de nouveau les réunir pour le meilleur et pour le pire.
 
 - ve 1 sep 18h00 HL
+
+[37712]  
+**Les Faubourgs de New York**  
+**(The Bowery)**  
+de Raoul Walsh  
+États-Unis / 1933 / 92 min / VOSTF / 35 mm  
+Avec George Raft, Wallace Beery, Jackie Cooper.  
+Chuck Connors règne en maître sur le quartier Bowery. Chef de la brigade de pompiers, il possède également la plus grande brasserie. En concurrence permanente avec Steve, ils se disputent la suprématie du quartier.
+
+- di 24 sep 18h30 HL
 
 [37753]  
 **La Femme à abattre**  
@@ -352,7 +384,7 @@ de Raoul Walsh
 Avec Clark Gable, Jane Russell, Robert Ryan.  
 Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement ruinés. Un homme leur propose alors un marché : conduire un immense troupeau du Texas au Montana pour en partager les bénéfices.
 
-- di 17 sep 17h15 HL
+- di 17 sep 18h00 HL
 
 [36818]  
 **In Old Arizona**  
@@ -429,7 +461,7 @@ de Raoul Walsh
 Avec Anthony Quinn, Gregory Peck, Ann Blyth.  
 Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper à un mariage avec le Prince Semyon, un prétendant imposé par le tsar.
 
-- sa 9 sep 19h30 HL
+- sa 9 sep 17h00 HL
 
 [154408]  
 **The Mystery of the Hindu Image**  
@@ -450,6 +482,16 @@ Avec Aldo Ray, Cliff Robertson, Raymond Massey.
 En pleine guerre du Pacifique, un lieutenant s'oppose à la brutalité cynique d'un sous-officier particulièrement féroce.
 
 - sa 23 sep 19h00 HL
+
+[72462]  
+**Le Passeport jaune**  
+**(The Yellow Ticket)**  
+de Raoul Walsh  
+États-Unis / 1931 / 75 min / VOSTF / DCP  
+Avec Boris Karloff, Lionel Barrymore, Laurence Olivier.  
+Pour pouvoir aller rendre visite à son père emprisonné par les autorités tsaristes, une jeune juive russe décide de demander un passeport jaune (normalement attribué aux prostituées) qui lui permettra de voyager dans le pays.
+
+- ve 13 oct 18h30 GF
 
 [36848]  
 **Pillars of Society**  
@@ -572,6 +614,16 @@ Avec George Raft, Ann Sheridan, Humphrey Bogart.
 Le dirigeant d'une entreprise de transport est accusé d'assassinat par la femme d'un de ses concurrents retrouvé mort.
 
 - sa 2 sep 14h30 HL
+
+[36851]  
+**La Vallée de la peur**  
+**(Pursued)**  
+de Raoul Walsh  
+États-Unis / 1947 / VOSTF / DCP  
+Avec Robert Mitchum, Teresa Wright, Alan Hale.  
+Au Nouveau-Méxique, Medora Callum recueille Jeb Rand, un jeune enfant dont le père vient d'être assassiné, et l'élève avec ses deux propres enfants. Ceux-ci devenus adultes, elle veut partager ses biens en trois parts égales. Le passé rattrape bientôt Jeb Rand.
+
+- sa 9 sep 19h30 HL
 
 [79791]  
 **Victime du destin**  

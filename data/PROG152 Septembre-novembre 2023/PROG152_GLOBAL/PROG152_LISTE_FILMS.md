@@ -95,10 +95,11 @@
   * T'es fou Jerry !  
   * Tombeur de ces dames (Le)
 
-## Raoul Walsh (59)
+## Raoul Walsh (64)
 
   * Amour de marin  
   * Annie du Klondike  
+  * Au pays du rêve  
   * Au service de la gloire  
   * Aventures du capitaine Wyatt (Les)  
   * Aventures en Birmanie  
@@ -120,10 +121,12 @@
   * Empreintes digitales  
   * Enfer est à lui (L')  
   * Entraîneuse fatale (L')  
+  * Escadron noir (L')  
   * Esclave libre (L')  
   * Esther et le roi  
   * Faiblesse humaine  
   * Fantastiques années 20 (Les)  
+  * Faubourgs de New York (Les)  
   * Femme à abattre (La)  
   * Fille du désert (La)  
   * Fils prodigue (Le)  
@@ -141,6 +144,7 @@
   * Monde lui appartient (Le)  
   * Mystery of the Hindu Image (The)  
   * Nus et les morts (Les)  
+  * Passeport jaune (Le)  
   * Pillars of Society  
   * Piste des géants (La)  
   * Regeneration  
@@ -153,6 +157,7 @@
   * Têtes brûlées  
   * Un lion dans la rue = L'Homme à abattre  
   * Une femme dangereuse  
+  * Vallée de la peur (La)  
   * Victime du destin  
   * Voleur de Bagdad (Le)  
   * Women of All Nations

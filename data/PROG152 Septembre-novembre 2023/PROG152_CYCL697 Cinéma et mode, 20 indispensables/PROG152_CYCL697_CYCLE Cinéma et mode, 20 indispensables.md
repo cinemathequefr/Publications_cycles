@@ -139,7 +139,7 @@ Italie / 1985
 [131532]  
 **Personal Shopper**  
 d'Olivier Assayas  
-France-République tchèque-Allemagne-Belgique / 2015 / 105 min  
+France-République tchèque-Allemagne-Belgique / 2015 / 105 min / DCP  
 Avec Kristen Stewart, Lars Eidinger, Sigrid Bouaziz.  
 Maureen, jeune Américaine à Paris, s'occupe de la garde-robe d'une célébrité. Un jour, son frère jumeau récemment disparu semble se remettre en contact avec elle.
 

@@ -113,7 +113,7 @@ D'après le livre _La Revanche d'un solitaire_ de Ben Mezrich.
 Avec Jesse Eisenberg, Andrew Garfield, Justin Timberlake.  
 Étudiant à Harvard, Mark Zuckerberg développe une idée qui fait de lui la star du web, lui attire des ennuis avec la justice et met fin à des amitiés.
 
-- me 18 oct 17h15 GF
+- me 18 oct 18h30 GF
 
 [101866]  
 **Zodiac**  
