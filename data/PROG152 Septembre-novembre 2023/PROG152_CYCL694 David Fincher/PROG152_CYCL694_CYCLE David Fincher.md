@@ -125,3 +125,9 @@ En 1969, un tueur en série sème la terreur à San Francisco. Revendiquant tren
 
 - sa 14 oct 20h00 HL
 
+## Rencontres et conférences
+
+**Masterclass Fincher**
+
+- je 12 oct 18h00 HL
+

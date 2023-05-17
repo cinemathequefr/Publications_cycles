@@ -464,7 +464,7 @@ Le grand Ziegfeld est au ciel et, de là-haut, rêve à une nouvelle revue dans 
 
 ## Rencontres et conférences
 
-**Film + Dialogue avec Murielle Joudet**  
+**Dialogue avec Murielle Joudet**  
 Rencontre animée par Bernard Benoliel  
 « Judy [Garland] avait un caractère changeant, passant sans transition de l'exubérance à la mélancolie, mais elle était fondamentalement pleine de charme et de séduction. Il ne faut pas oublier que Judy était à la fois la star et la grande chanteuse du film [_Le Chant du Missouri_], si bien qu'elle en constituait en quelque sorte le pivot pour réussir l'intégration des chansons à l'intrigue. Si Judy n'avait pas finalement cru à l'entreprise, le film aurait été un échec complet. Aussi, lorsque je la vis s'y engager à fond, je compris que nous allions au contraire vers un grand succès ! (...) _Le Chant du Missouri_ fut mon examen de passage définitif. Louis B. Mayer [patron de Metro-Goldwyn-Mayer] se montra très enthousiaste, et tous les autres grands pontes de la direction, qui avaient été contre le projet à l'origine, reconnurent leur erreur. Quant aux critiques, elles furent dithyrambiques. » (Vincente Minnelli, _Tous en scène : Autobiographie_, 1981)  
 Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  

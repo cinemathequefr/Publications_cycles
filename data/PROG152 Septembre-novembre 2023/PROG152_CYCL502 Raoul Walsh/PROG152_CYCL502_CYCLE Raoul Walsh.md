@@ -43,7 +43,8 @@ de Raoul Walsh
 Avec Gary Cooper, Mari Aldon, Richard Webb.  
 Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades. Remake de _Aventures en Birmanie_.
 
-- sa 16 sep 14h30 HL
+- sa 16 sep 14h30 HL  
+Voir aussi conférence p. xx
 
 [36844]  
 **Aventures en Birmanie**  
@@ -634,4 +635,12 @@ Flagg et Quirt, deux marines qui tentent chacun de séduire la belle Else en Su�
 Restauré par UCLA Film & Television Archive.
 
 - di 8 oct 20h45 GF
+
+## Rencontres et conférences
+
+**Film + discussion avec Pierre Gabaston**  
+**Conférence de Pierre Gabaston**
+
+- sa 16 sep 16h45 HL  
+À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Les Aventures du capitaine Wyatt_ de Raoul Walsh (voir p. xx)
 

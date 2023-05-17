@@ -192,7 +192,7 @@ Remontage d'un film de science-fiction soviétique (_La Planète des tempêtes_)
 
 ## Rencontres et conférences
 
-**Film + Dialogue avec Jean-Baptiste Thoret**  
+**Dialogue avec Jean-Baptiste Thoret**  
 Rencontre animée par Bernard Benoliel  
 Tarif B : voir p.  
 « Jean-Baptiste Thoret : Dans les histoires du cinéma, on vous rattache à ce mouvement qu'on appelle aujourd'hui le Nouvel Hollywood. Vous sentiez-vous proche des cinéastes de votre génération ?
@@ -203,7 +203,7 @@ Jean-Baptiste Thoret est cinéaste (_We Blew It,_ 2017 ; _Dario Argento : Soupir
 - sa 15 avr 14h30 HL  
 À la suite de la projection de _La Dernière Séance_ de Peter Bogdanovich (voir p. xx)
 
-**Film + Dialogue avec Jean-Baptiste Thoret**  
+**Dialogue avec Jean-Baptiste Thoret**  
 Rencontre animée par Bernard Benoliel  
 Tarif B : voir p.  
 « Peter Bogdanovich : Vous le savez, j'ai eu une mauvaise expérience avec _Enfin l'amour_ et _Nickelodeon_. Après ces deux films, je n'ai rien réalisé pendant presque trois ans. Je cherchais à comprendre ce qui s'était passé. Pourquoi tout avait si mal tourné depuis quelques années ? Et j'ai réalisé que je m'étais trop accordé aux désirs des autres et pas assez à mon propre instinct. Je me suis donc dit : « Tant pis, je ferai _Saint Jack_ avec Ben Gazzara ou je ne le ferai pas. » (...) Cybill [Shepherd] et moi avons fait un voyage aux Philippines, à Tokyo, à Hong-Kong et puis à Singapour. Or, rien ne ressemblait à Singapour. (...) C'est l'un de mes films les plus libres. J'ai vraiment suivi le mouvement et le flux du tournage, de l'ambiance générale, de nos expériences, de ce qu'on ressentait au fil des jours. La même chose s'est passée avec _Et tout le monde riait_. Ces deux films sont, je crois, ce que j'ai fait de mieux à cette époque, et même jusqu'à maintenant. Ce sont aussi mes films les plus personnels. » (_Le Cinéma comme élégie : Conversations avec Peter Bogdanovich_, 2018).  

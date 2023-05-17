@@ -19,7 +19,7 @@ de Jerry Lewis
 Avec Jerry Lewis, Stella Stevens.  
 Les mésaventures d'un doux dingue professeur de chimie s'enchaînent dans cette parodie de _Dr Jekyll et Mr Hyde_, entre mimiques et pitreries délirantes.
 
-- je 23 nov 19h00 GF
+- je 23 nov 19h00 HL
 
 [127627]  
 **Jerry Lewis**  
