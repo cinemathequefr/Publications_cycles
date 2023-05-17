@@ -95,11 +95,18 @@
   * T'es fou Jerry !  
   * Tombeur de ces dames (Le)
 
-## Raoul Walsh (64)
+## Pascal Thomas (5)
+
+  * Chaud lapin (Le)  
+  * Confidences pour confidences  
+  * Pleure pas la bouche pleine  
+  * Surprise du chef (La)  
+  * Zozos (Les)
+
+## Raoul Walsh (62)
 
   * Amour de marin  
   * Annie du Klondike  
-  * Au pays du rêve  
   * Au service de la gloire  
   * Aventures du capitaine Wyatt (Les)  
   * Aventures en Birmanie  
@@ -144,7 +151,6 @@
   * Monde lui appartient (Le)  
   * Mystery of the Hindu Image (The)  
   * Nus et les morts (Les)  
-  * Passeport jaune (Le)  
   * Pillars of Society  
   * Piste des géants (La)  
   * Regeneration  

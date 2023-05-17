@@ -23,16 +23,6 @@ Avec Mae West, Victor McLaglen, Phillip Reed.
 
 - me 13 sep 20h00 HL
 
-[84223]  
-**Au pays du rêve**  
-**(Going Hollywood)**  
-de Raoul Walsh  
-États-Unis / 1933 / 84 min / VOSTF / 35 mm  
-Avec Marion Davies, Bing Crosby, Robert Montgomery.  
-Dans un collège pour filles, une enseignante de français qui rêve d'une vie en musique, quitte son poste pour rejoindre le crooner qu'elle écoute à la radio. Celui-ci est sur le point de partir pour Hollywood où il doit tourner un film.
-
-- ve 13 oct 14h45 GF
-
 [45140]  
 **Au service de la gloire**  
 **(What Price Glory ?)**  
@@ -196,7 +186,7 @@ de Raoul Walsh
 Avec Sal Mineo, Christine Carère, Barry Coe.  
 Trois énergiques jeunes soldats, Luigi, Jerry et Mike, font leurs classes dans un camp d'entraînement militaire lorsqu'ils apprennent qu'ils sont sélectionnés pour représenter leur unité dans un spectacle télévisé.
 
-- lu 9 oct 18h00 GF
+- me 11 oct 18h30 GF
 
 [37734]  
 **Le Désert de la peur = Une corde pour te pendre**  
@@ -451,7 +441,7 @@ de Raoul Walsh
 Avec Tom Tryon, David Hedison, Tom Reese.  
 Pendant la guerre de Corée, trois Marines, bénéficiant d'une permission au Japon, vivent diverses aventures sentimentales, avant d'être rappelés au front.
 
-- lu 9 oct 20h00 GF
+- me 11 oct 20h30 GF
 
 [36863]  
 **Le Monde lui appartient**  
@@ -482,16 +472,6 @@ Avec Aldo Ray, Cliff Robertson, Raymond Massey.
 En pleine guerre du Pacifique, un lieutenant s'oppose à la brutalité cynique d'un sous-officier particulièrement féroce.
 
 - sa 23 sep 19h00 HL
-
-[72462]  
-**Le Passeport jaune**  
-**(The Yellow Ticket)**  
-de Raoul Walsh  
-États-Unis / 1931 / 75 min / VOSTF / DCP  
-Avec Boris Karloff, Lionel Barrymore, Laurence Olivier.  
-Pour pouvoir aller rendre visite à son père emprisonné par les autorités tsaristes, une jeune juive russe décide de demander un passeport jaune (normalement attribué aux prostituées) qui lui permettra de voyager dans le pays.
-
-- ve 13 oct 18h30 GF
 
 [36848]  
 **Pillars of Society**  

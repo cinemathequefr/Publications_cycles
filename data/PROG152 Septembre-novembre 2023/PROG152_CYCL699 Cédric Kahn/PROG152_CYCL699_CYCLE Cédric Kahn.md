@@ -71,7 +71,7 @@ France-Belgique / 2018 / 100 min / DCP
 Avec Catherine Deneuve, Emmanuelle Bercot, Vincent Macaigne, Cédric Kahn.  
 « Aujourd'hui c'est mon anniversaire et j'aimerais qu'on ne parle que de choses joyeuses. »Andréa ne sait pas encore que l'arrivée « surprise » de sa fille aînée, Claire, disparue depuis 3 ans et bien décidée à reprendre ce qui lui est dû, va bouleverser le programme et déclencher une tempête familiale.
 
-- me 4 oct 20h30 GF
+- me 4 oct 20h45 GF
 
 [88951]  
 **Feux rouges**  
@@ -100,7 +100,7 @@ France-Belgique / 2017 / 107 min / DCP
 Avec Anthony Bajon, Damien Chapelle, Alex Brendemühl, Louise Grinberg.  
 Thomas a 22 ans. Pour sortir de la dépendance, il rejoint une communauté isolée dans la montagne tenue par d'anciens drogués qui se soignent par la prière.
 
-- me 4 oct 18h00 GF
+- me 4 oct 18h30 GF
 
 [154460]  
 **Le Procès Goldman**  
