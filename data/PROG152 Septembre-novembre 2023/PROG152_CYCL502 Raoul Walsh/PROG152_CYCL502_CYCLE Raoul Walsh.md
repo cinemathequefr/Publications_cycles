@@ -21,7 +21,8 @@ de Raoul Walsh
 Avec Mae West, Victor McLaglen, Phillip Reed.  
 À la fin du 19e siècle, Rose Carlton, une chanteuse de cabaret de San Francisco, s'enfuit sur une bateau après avoir poignardé son protecteur. Sur le cargo, elle sympathise avec la Sœur Annie, une missionnaire, qui ne tarde pas à décéder et dont elle va prendre la place.
 
-- me 13 sep 20h00 HL
+- me 13 sep 20h00 HL  
+Voir aussi dialogue p. xx
 
 [45140]  
 **Au service de la gloire**  
@@ -637,6 +638,11 @@ Restauré par UCLA Film & Television Archive.
 - di 8 oct 20h45 GF
 
 ## Rencontres et conférences
+
+**Film + Discussion avec Jean-François Rauger et Murielle Joudet**
+
+- me 13 sep 21h15 HL  
+À la suite de la dialogue, à 20h00, projection d'un film choisi par le conférencier : _Annie du Klondike_ de Raoul Walsh (voir p. xx)
 
 **Film + discussion avec Pierre Gabaston**  
 **Conférence de Pierre Gabaston**
