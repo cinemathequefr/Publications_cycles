@@ -11,7 +11,7 @@ Avec James Dunn, Sally Eilers, Victor Jory.
 Les badinages d'une jeune femme sans le sou avec un marin en goguette. Multipliant les gags pré-code, Walsh peaufine son art de la mise en scène, aussi sophistiquée que réjouissante, dans le bassin d'une piscine ou lors d'un marathon de danse qui tourne en bagarre géante.  
 Les amours d'une jeune fille dépourvue de foyer, de travail et de complexes avec un marin bourru.
 
-- sa 23 sep 15h00 GF
+- Sa 23 sep 15h00 GF
 
 [36827]  
 **Annie du Klondike**  
@@ -21,7 +21,7 @@ de Raoul Walsh
 Avec Mae West, Victor McLaglen, Phillip Reed.  
 À la fin du 19e siècle, Rose Carlton, une chanteuse de cabaret de San Francisco, s'enfuit sur une bateau après avoir poignardé son protecteur. Sur le cargo, elle sympathise avec la Sœur Annie, une missionnaire, qui ne tarde pas à décéder et dont elle va prendre la place.
 
-- me 13 sep 20h00 HL  
+- Me 13 sep 20h00 HL  
 Voir aussi dialogue p. xx
 
 [45140]  
@@ -34,7 +34,7 @@ Avec Edmund Lowe, Victor McLaglen, Dolores del Río.
 Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allégrement du cocasse au tragique, ce succès de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
 
-- di 10 sep 15h00 HL
+- Di 10 sep 15h00 HL
 
 [37819]  
 **Les Aventures du capitaine Wyatt**  
@@ -44,7 +44,7 @@ de Raoul Walsh
 Avec Gary Cooper, Mari Aldon, Richard Webb.  
 Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades. Remake de _Aventures en Birmanie_.
 
-- sa 16 sep 14h30 HL  
+- Sa 16 sep 14h30 HL  
 Voir aussi conférence p. xx
 
 [36844]  
@@ -55,7 +55,7 @@ de Raoul Walsh
 Avec Errol Flynn, James Brown, William Prince.  
 En 1943, un commando de parachutistes américains est largué au-dessus de la zone occupée en Birmanie pour détruire une station radar japonaise. Sa mission accomplie, le commando doit redoubler d'efforts pour fuir les soldats de l'armée japonaise.
 
-- je 28 sep 20h15 HL
+- Je 28 sep 20h15 HL
 
 [58507]  
 **Barbe-Noire, le pirate**  
@@ -65,7 +65,7 @@ de Raoul Walsh
 Avec Linda Darnell, Richard Egan, William Bendix.  
 Le célèbre pirate Barbe Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
 
-- je 21 sep 17h30 HL
+- Je 21 sep 17h30 HL
 
 [37751]  
 **Bataille sans merci**  
@@ -76,7 +76,7 @@ D'après le roman _Ten against Caesar_ de Kathleen B. Granger , George Granger e
 Avec Rock Hudson, Donna Reed, Phil Carey.  
 En Arizona, le gang de Frank Slayton dévalise une diligence et kidnappe la fiancée de Ben Warren. Celui-ci est laissé pour mort. Blessé, il part immédiatement à la poursuite de Slayton.
 
-- di 10 sep 19h30 HL
+- Di 10 sep 19h30 HL
 
 [36604]  
 **La Belle espionne**  
@@ -87,7 +87,7 @@ D'après le roman _Les Travailleurs de la mer_ de Victor Hugo.
 Avec Yvonne De Carlo, Rock Hudson, Maxwell Reed.  
 Une mystérieuse et troublante jeune femme, chargée de découvrir les projets napoléoniens d'invasion de l'Angleterre, bouleverse l'existence d'un contrebandier.
 
-- ve 15 sep 18h00 HL
+- Ve 15 sep 18h00 HL
 
 [36871]  
 **La Blonde et le shériff**  
@@ -97,7 +97,7 @@ Grande-Bretagne / 1958 / 103 min / VOSTF / 35 mm
 Avec Jayne Mansfield, Kenneth More, Bruce Cabot.  
 Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé de prospecter dans un pays prometteur : l'Ouest américain. Jonathan ne tarde pas à se faire remarquer dans cette contrée sauvage.
 
-- lu 18 sep 18h00 GF
+- Lu 18 sep 18h00 GF
 
 [36862]  
 **La Brigade héroïque**  
@@ -107,7 +107,7 @@ de Raoul Walsh
 Avec Alan Ladd, Shelley Winters, Robert Douglas.  
 En 1877 dans l'Ouest canadien, un inspecteur de police se révolte contre son commandant borné, et emprunte une route plus sûre jusqu'à la frontière américaine afin d'empêcher l'invasion d'Indiens hostiles.
 
-- di 10 sep 17h30 HL
+- Di 10 sep 17h30 HL
 
 [36860]  
 **Bungalow pour femmes**  
@@ -118,7 +118,7 @@ D'après le roman _The Revolt of Mamie Stover_ de William Bradford Huie.
 Avec Jane Russell, Richard Egan, Joan Leslie.  
 Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au « Bungalow », un dancing célèbre. Après l'attaque de Pearl Harbor, obnubilée par son désir d'argent, elle cherche à s'enrichir. Sa rencontre avec Jim Blair, un romancier, bouleverse ses projets.
 
-- di 17 sep 20h30 HL
+- Di 17 sep 20h30 HL
 
 [45138]  
 **Capitaine sans peur**  
@@ -129,7 +129,7 @@ Avec Gregory Peck, James Robertson Justice, Christopher Lee.
 A l'époque des guerres napoléonniennes, le capitaine Horation Hornblower est à la tête d'un petit vaisseau. Il doit fournir des armes à un chef de bande, ennemi de l'Espagne.  
 Copie Technicolor original.
 
-- sa 9 sep 14h30 HL
+- Sa 9 sep 14h30 HL
 
 [45390]  
 **La Charge de la huitième brigade**  
@@ -139,7 +139,7 @@ de Raoul Walsh
 Avec Troy Donahue, Suzanne Pleshette, Diane McBain.  
 Matt Hazard, lieutenant de l'armée américaine réaffecté dans l'Arizona, combat contre des tribus indiennes. Il fait la connaissance de Kitty, la femme d'un commandant, à laquelle il sauve la vie à plusieurs reprises.
 
-- je 21 sep 20h00 HL
+- Je 21 sep 20h00 HL
 
 [36876]  
 **La Charge fantastique**  
@@ -149,7 +149,7 @@ de Raoul Walsh
 Avec Errol Flynn, Olivia De Havilland, Arthur Kennedy.  
 1857\. A l'académie militaire de West Point, George Armstrong Custer se fait remarquer tant par son indiscipline que par son talent. Il accomplit divers exploits militaires durant la guerre de Sécession. Celle-ci achevée, il est muté à la tête d'une garnison à laquelle vont s'attaquer les guerriers de Crazy Horse.
 
-- sa 2 sep 16h30 HL
+- Sa 2 sep 16h30 HL
 
 [37786]  
 **Cheyenne**  
@@ -158,7 +158,7 @@ de Raoul Walsh
 Avec Jane Wyman, Dennis Morgan, Janis Paige.  
 Un joueur professionnel accepte d'aider la police en capturant un bandit spécialisé dans les attaques de diligences.
 
-- ve 22 sep 18h00 HL
+- Ve 22 sep 18h00 HL
 
 [37663]  
 **Le Cri de la victoire**  
@@ -168,7 +168,7 @@ de Raoul Walsh
 Avec Dorothy Malone, Van Heflin, James Whitmore.  
 En 1942, avant de partir au front, de jeunes recrues tentent d'apprendre les rudiments de la guerre, enseignés par un instructeur aux méthodes sévères.
 
-- sa 16 sep 19h30 HL
+- Sa 16 sep 19h30 HL
 
 [81231]  
 **Danse rouge**  
@@ -178,7 +178,7 @@ de Raoul Walsh
 Avec Dolores del Río, Charles Farrell, Ivan Linow.  
 Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Grand Duc Eugen à la veille de son mariage avec la Princesse Varvara.
 
-- sa 7 oct 17h30 GF
+- Sa 7 oct 17h30 GF
 
 [37758]  
 **Les Déchaînés**  
@@ -188,7 +188,7 @@ de Raoul Walsh
 Avec Sal Mineo, Christine Carère, Barry Coe.  
 Trois énergiques jeunes soldats, Luigi, Jerry et Mike, font leurs classes dans un camp d'entraînement militaire lorsqu'ils apprennent qu'ils sont sélectionnés pour représenter leur unité dans un spectacle télévisé.
 
-- me 11 oct 18h30 GF
+- Me 11 oct 18h30 GF
 
 [37734]  
 **Le Désert de la peur = Une corde pour te pendre**  
@@ -198,7 +198,7 @@ de Raoul Walsh
 Avec Kirk Douglas, Virginia Mayo, Walter Brennan.  
 Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un suspect, Keith, pour le meurtre du fils d'un rancher, Roden. Il amène l'homme à la ville pour que celui-ci fasse l'objet d'un procès équitable. Mais les hommes de Roden le traquent.
 
-- je 7 sep 21h15 GF
+- Je 7 sep 21h15 GF
 
 [36840]  
 **Du sang sur la neige**  
@@ -208,7 +208,7 @@ de Raoul Walsh
 Avec Errol Flynn, Julie Bishop, Helmut Dantine.  
 Des aviateurs allemands débarquent secrètement au Canada pour y saboter les voies de communication. A la suite d'une avalanche, tous sont tués sauf le chef, Von Keller, qui est capturé par la police.
 
-- di 3 sep 19h00 HL
+- Di 3 sep 19h00 HL
 
 [72584]  
 **Empreintes digitales**  
@@ -219,7 +219,7 @@ D'après les histoires _Hahsit Babe_ et _Big Brown Eyes_ de James Edward Grant.
 Avec Cary Grant, Joan Bennett, Walter Pidgeon.  
 Dan Barr, gendarme, vit avec Eve Fallon, une manucure, depuis cinq ans, malgré leurs disputes fréquentes. Grâce à Eve, il parvient à pincer Cortig, un malfaiteurs qui a accidentellement tué un bébé dans le parc, à la suite d'une fusillade.
 
-- sa 23 sep 16h45 GF
+- Sa 23 sep 16h45 GF
 
 [36892]  
 **L'Enfer est à lui**  
@@ -229,7 +229,7 @@ de Raoul Walsh
 Avec James Cagney, Virginia Mayo, Edmond O'Brien.  
 Le gangster Cody Jarrett et ses complices attaquent un train en Californie. Pendant l'opération, quatre employés sont tués. La police est déterminée à retrouver les coupables et surveille la mère de Cody, à laquelle ce dernier voue une adoration pathologique. Un policier va tenter d'infiltrer le gang.
 
-- me 30 aoû 20h00 HL  
+- Me 30 aoû 20h00 HL  
 Ouverture de la rétrospective
 
 [36829]  
@@ -240,7 +240,7 @@ de Raoul Walsh
 Avec Edward G. Robinson, Marlene Dietrich, George Raft.  
 Johnny Marshall et Hank McHenry sont deux amis réparateurs de lignes électriques à haute tension qui jouent chaque jour avec le feu face aux dangers de leur métier. Un soir, ils font la connaissance de Fay, une chanteuse de cabaret, qui sème le trouble dans leur amitié.
 
-- sa 2 sep 19h30 HL
+- Sa 2 sep 19h30 HL
 
 [65626]  
 **L'Escadron noir**  
@@ -252,7 +252,7 @@ Avec John Wayne, Claire Trevor, Roy Rogers.
 Vers 1860, dans le Kansas, deux hommes, l'un rustre et intègre et l'autre cultivé et sans scrupules, se disputent les faveurs d'une femme et le poste de shérif.  
 copie 35mm UCLA Film & Television Archive.
 
-- di 24 sep 16h15 HL
+- Di 24 sep 16h15 HL
 
 [37701]  
 **L'Esclave libre**  
@@ -263,7 +263,7 @@ D'après le roman _Band of angels_ de Robert Penn Warren.
 Avec Clark Gable, Yvonne De Carlo, Sidney Poitier.  
 Au XIX° siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien veuf. Quand son père décède, un lourd secret remonte à la surface.
 
-- me 6 sep 19h00 HL
+- Me 6 sep 19h00 HL
 
 [37834]  
 **Esther et le roi**  
@@ -273,7 +273,7 @@ Italie-États-Unis / 1960 / 108 min / VOSTF / 35 mm
 Avec Joan Collins, Richard Egan, Denis O'Dea.  
 Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l'égide de son premier ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune juive, Esther.
 
-- lu 18 sep 20h15 GF
+- Lu 18 sep 20h15 GF
 
 [36861]  
 **Faiblesse humaine**  
@@ -283,7 +283,7 @@ de Raoul Walsh
 Avec Gloria Swanson, Lionel Barrymore, Raoul Walsh.  
 Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion de refaire sa vie. Sur cette île du Pacifique, le puritain Davidson ne lui laisse aucun répit et menace de la dénoncer et de la renvoyer à San Francisco où elle risque la prison.
 
-- di 8 oct 18h45 GF
+- Di 8 oct 18h45 GF
 
 [67404]  
 **Les Fantastiques années 20**  
@@ -293,7 +293,7 @@ de Raoul Walsh
 Avec James Cagney, Priscilla Lane, Humphrey Bogart.  
 Trois soldats américains qui ont combattu en France pendant la Première Guerre mondiale se séparent et retournent à la vie civile. La prohibition va de nouveau les réunir pour le meilleur et pour le pire.
 
-- ve 1 sep 18h00 HL
+- Ve 1 sep 18h00 HL
 
 [37712]  
 **Les Faubourgs de New York**  
@@ -303,7 +303,7 @@ de Raoul Walsh
 Avec George Raft, Wallace Beery, Jackie Cooper.  
 Chuck Connors règne en maître sur le quartier Bowery. Chef de la brigade de pompiers, il possède également la plus grande brasserie. En concurrence permanente avec Steve, ils se disputent la suprématie du quartier.
 
-- di 24 sep 18h30 HL
+- Di 24 sep 18h30 HL
 
 [37753]  
 **La Femme à abattre**  
@@ -313,7 +313,7 @@ de Bretaigne Windust, Raoul Walsh
 Avec Humphrey Bogart, Zero Mostel, Ted De Corsia.  
 Un policier tente de protéger un témoin capital avant un procès. Celui-ci est traqué par des tueurs à gages.
 
-- ve 29 sep 20h00 HL
+- Ve 29 sep 20h00 HL
 
 [37802]  
 **La Fille du désert**  
@@ -325,7 +325,7 @@ D'après le film _High Sierra_ de Raoul Walsh.
 Avec Dorothy Malone, Joel McCrea, Virginia Mayo.  
 En 1870, dans une Amérique en voie de pacification, le hors-la-loi Wes McQueen parvient à s'évader de prison et à rejoindre ses complices avec qui il projette de braquer un train.
 
-- ve 8 sep 20h15 HL
+- Ve 8 sep 20h15 HL
 
 [60037]  
 **Le Fils prodigue**  
@@ -335,7 +335,7 @@ de Raoul Walsh
 Avec Wallace Beery, Greta Nissen, William Collier Jr..  
 Jether, un berger, est attiré par Tisha, prêtresse d'Ishtar. Il se rend à Babylone et y dilapide son héritage en couvrant Tisha de cadeaux et en vivant une vie dissolue.
 
-- je 31 aoû 20h30 GF
+- Je 31 aoû 20h30 GF
 
 [36787]  
 **Les Géants du ciel**  
@@ -345,7 +345,7 @@ de Raoul Walsh
 Avec Robert Stack, Edmond O'Brien, Rock Hudson.  
 1943\. Une base américaine en Angleterre. Un pilote virtuose et indiscipliné devient chef d'escadron. Les missions de bombardement se succèdent en attendant le débarquement en Normandie.
 
-- je 14 sep 18h00 HL
+- Je 14 sep 18h00 HL
 
 [36808]  
 **Gentleman Jim**  
@@ -355,7 +355,7 @@ D'après l'ouvrage _The Roar of the Crowd_ de James J. Corbett.
 Avec Errol Flynn, Alexis Smith, Alan Hale.  
 Jim veux tout très vite : être à la fois champion de boxe, grand acteur shakespearien et surtout épouser la fille de son patron. Les entraînements, les matchs fougueux, la vie à toute vitesse sauront lui apprendront à changer.
 
-- di 3 sep 16h45 HL
+- Di 3 sep 16h45 HL
 
 [36814]  
 **La Grande évasion**  
@@ -366,7 +366,7 @@ D'après le roman _High Sierra_ de W. R. Burnett.
 Avec Ida Lupino, Humphrey Bogart, Alan Curtis.  
 Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de prison. Celui-ci, devenu son débiteur, accepte de participer à ce hold-up qui doit les rendre riches, mais croise la route de la belle Velma.
 
-- ve 1 sep 20h15 HL
+- Ve 1 sep 20h15 HL
 
 [36874]  
 **Les Implacables**  
@@ -376,7 +376,7 @@ de Raoul Walsh
 Avec Clark Gable, Jane Russell, Robert Ryan.  
 Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement ruinés. Un homme leur propose alors un marché : conduire un immense troupeau du Texas au Montana pour en partager les bénéfices.
 
-- di 17 sep 18h00 HL
+- Di 17 sep 18h00 HL
 
 [36818]  
 **In Old Arizona**  
@@ -385,7 +385,7 @@ d'Irving Cummings, Raoul Walsh
 Avec Warner Baxter, Edmund Lowe, Dorothy Burgess.  
 Un bandit mexicain, Cisco Kid, qui échappe régulièrement à ses poursuivants, est trahi par une femme.
 
-- di 8 oct 14h30 GF
+- Di 8 oct 14h30 GF
 
 [37781]  
 **Intrigues en Orient**  
@@ -396,7 +396,7 @@ D'après le roman _Background to Danger_ d'Eric Ambler.
 Avec George Raft, Brenda Marshall, Sydney Greenstreet.  
 A Ankara, pendant la Seconde Guerre Mondiale, un agent américain tente d'empêcher une alliance entre la Turquie et l'Allemagne.
 
-- me 13 sep 18h00 HL
+- Me 13 sep 18h00 HL
 
 [85155]  
 **The Kindred of the Dust**  
@@ -405,7 +405,7 @@ de Raoul Walsh
 Avec Lionel Barrymore, Miriam Cooper, Ralph Graves.  
 Une orpheline retourne chez elle dans une petite ville du nord-ouest du Pacifique après un mariage raté et avec un fils en bas âge.
 
-- ve 6 oct 20h00 GF
+- Ve 6 oct 20h00 GF
 
 [81234]  
 **The Loves of Carmen**  
@@ -415,7 +415,7 @@ Avec Dolores del Río, Don Alvarado, Victor McLaglen.
 Seconde adaptation par Walsh de la nouvelle de Merimee.  
 Restauré par le MoMA avec le soutien de la Film Foundation.
 
-- di 8 oct 16h30 GF
+- Di 8 oct 16h30 GF
 
 [82982]  
 **The Lucky Lady**  
@@ -424,7 +424,7 @@ de Raoul Walsh
 Avec Greta Nissen, Lionel Barrymore, William Collier Jr..  
 Le premier Ministre Franz Garletz veut faire marier la Princesse Antoinette avec le Comte Ferranzo. Antoinette, élève dans un couvent, sort clandestinement le soir pour aller voir les spectacles à l'auberge locale. Elle y commence à flirter avec Clarke, un jeune touriste américain.
 
-- sa 7 oct 14h30 GF
+- Sa 7 oct 14h30 GF
 
 [80342]  
 **The Man I Love**  
@@ -434,7 +434,7 @@ D'après le roman _Night Shift_ de Maritta Wolff.
 Avec Ida Lupino, Robert Alda, Andrea King.  
 Une chanteuse de night-club retourne dans sa famille et découvre la déchéance dans laquelle sont tombés son frère, compromis avec des gangsters, et un pianiste qu'elle admirait et dont elle tombe amoureuse.
 
-- ve 22 sep 20h15 HL
+- Ve 22 sep 20h15 HL
 
 [46330]  
 **Marines, Let's Go !**  
@@ -443,7 +443,7 @@ de Raoul Walsh
 Avec Tom Tryon, David Hedison, Tom Reese.  
 Pendant la guerre de Corée, trois Marines, bénéficiant d'une permission au Japon, vivent diverses aventures sentimentales, avant d'être rappelés au front.
 
-- me 11 oct 20h30 GF
+- Me 11 oct 20h30 GF
 
 [36863]  
 **Le Monde lui appartient**  
@@ -453,7 +453,7 @@ de Raoul Walsh
 Avec Anthony Quinn, Gregory Peck, Ann Blyth.  
 Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper à un mariage avec le Prince Semyon, un prétendant imposé par le tsar.
 
-- sa 9 sep 17h00 HL
+- Sa 9 sep 17h00 HL
 
 [154408]  
 **The Mystery of the Hindu Image**  
@@ -462,7 +462,7 @@ de Raoul Walsh
 Avec Nick Cage, Dark Cloud, Richard Cummings.  
 Emprisonné la veille de son mariage pour le meurtre du propriétaire d'un talisman hindou, John Stafford parvient à s'échapper tandis qu'un détective engagé par sa fiancée démasque les véritables assassins.
 
-- ve 6 oct 18h30 GF
+- Ve 6 oct 18h30 GF
 
 [36837]  
 **Les Nus et les morts**  
@@ -473,17 +473,17 @@ D'après le roman _Les Nus et les morts_ de Norman Mailer.
 Avec Aldo Ray, Cliff Robertson, Raymond Massey.  
 En pleine guerre du Pacifique, un lieutenant s'oppose à la brutalité cynique d'un sous-officier particulièrement féroce.
 
-- sa 23 sep 19h00 HL
+- Sa 23 sep 19h00 HL
 
 [36848]  
 **Pillars of Society**  
 de Raoul Walsh, George Nicholls  
-États-Unis / 1915 / 52 min / INT. FR. / DCP  
+États-Unis / 1915 / 52 min / INT. FR. / 35 mm  
 D'après la pièce _Samfundets Stotter_ de Henrik Ibsen.  
 Avec Henry B. Walthall, Mary Alden, Juanita Archer.  
 Un armateur, dont la fortune est due au mensonge et a la duplicité, fait l'objet d'un chantage.
 
-- je 31 aoû 18h30 GF
+- Je 31 aoû 18h30 GF
 
 [37710]  
 **La Piste des géants**  
@@ -493,7 +493,7 @@ de Raoul Walsh
 Avec John Wayne, Robert Parrish, Marguerite Churchill.  
 Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
 
-- sa 16 sep 17h00 HL
+- Sa 16 sep 17h00 HL
 
 [36854]  
 **Regeneration**  
@@ -502,7 +502,7 @@ de Raoul Walsh
 Avec John McCann, James A. Marcus, Maggie Weston.  
 Orphelin à l'âge de 10 ans, Owen est recueilli par ses voisins violents. Cherchant à fuir ces derniers qui l'exploitent, Owen erre sur les docks de New York et devient chef de gang à 25 ans.
 
-- di 24 sep 14h30 HL
+- Di 24 sep 14h30 HL
 
 [45139]  
 **La Rivière d'argent**  
@@ -512,7 +512,7 @@ de Raoul Walsh
 Avec Errol Flynn, Ann Sheridan, Thomas Mitchell.  
 Lors de la guerre de Sécession, le capitaine nordiste Mike McComb est injustement renvoyé de l'armée. Il se rend alors dans l'Ouest où il se lance dans les affaires en construisant petit à petit une fortune, puis un empire, grâce à sa clairvoyance et surtout à son manque total de scrupules.
 
-- ve 8 sep 18h00 HL
+- Ve 8 sep 18h00 HL
 
 [36825]  
 **Le Roi et quatre reines**  
@@ -522,7 +522,7 @@ de Raoul Walsh
 Avec Clark Gable, Eleanor Parker, Barbara Nichols.  
 Dan Kehoe est recueilli pour une femme qui l'a blessé d'un coup de fusil. Les quatre belles filles de celle-ci, veuves, s'intéressent au blessé qui lui cherche à dérober le butin d'un hold up, caché dans un
 
-- me 20 sep 18h00 HL
+- Me 20 sep 18h00 HL
 
 [36813]  
 **La Ruelle du péché**  
@@ -532,7 +532,7 @@ de Raoul Walsh
 Avec Leslie Caron, Louis Armstrong, Gilbert Roland.  
 À La Nouvelle-Orléans, Socks Barbarossa, un jeune boxeur, combat pour un titre de champion mais quitte soudainement le ring, sans explication.
 
-- ve 29 sep 18h00 HL
+- Ve 29 sep 18h00 HL
 
 [37814]  
 **Sabotage à Berlin**  
@@ -542,7 +542,7 @@ de Raoul Walsh
 Avec Errol Flynn, Ronald Reagan, Arthur Kennedy.  
 Lors de la Deuxième Guerre mondiale, l'équipage d'un bombardier de la R.A.F. est abattu au-dessus de l'Allemagne. Les cinq rescapés s'organisent et se mettent à la recherche d'un avion pour rentrer en Angleterre.
 
-- di 3 sep 14h30 HL
+- Di 3 sep 14h30 HL
 
 [36878]  
 **Saboteur sans gloire**  
@@ -552,7 +552,7 @@ de Raoul Walsh
 Avec Errol Flynn, Paul Lukas, Jean Sullivan.  
 Pendant la Seconde Guerre mondiale, un criminel évadé et un policier sont coincés dans un village dont les habitants ont été pris en otages par les Allemands.
 
-- je 28 sep 18h00 HL
+- Je 28 sep 18h00 HL
 
 [85152]  
 **Le Singe qui parle**  
@@ -563,7 +563,7 @@ Avec Olive Borden, Jacques Lerner, Don Alvarado.
 Trois forains sans scrupules obligent un nain à se déguiser en singe parlant.  
 Film incomplet.
 
-- sa 7 oct 16h00 GF
+- Sa 7 oct 16h00 GF
 
 [37792]  
 **Têtes brûlées**  
@@ -573,7 +573,7 @@ de Raoul Walsh
 Avec Edmund Lowe, Victor McLaglen, Lili Damita.  
 Deux marines envoyés dans les îles se battent pour les yeux d'une belle Haïtienne.
 
-- sa 7 oct 19h45 GF
+- Sa 7 oct 19h45 GF
 
 [79825]  
 **Un lion dans la rue = L'Homme à abattre**  
@@ -584,7 +584,7 @@ D'après le roman _A Lion Is in the Streets_ d'Adria Locke Langley.
 Avec James Cagney, Lon Chaney Jr., Barbara Hale.  
 L'ascension et la chute d'un politicien démagogue du Sud.
 
-- je 14 sep 20h15 HL
+- Je 14 sep 20h15 HL
 
 [36877]  
 **Une femme dangereuse**  
@@ -595,7 +595,7 @@ D'après le roman _Long Haul_ d'A.I. Bezzerides.
 Avec George Raft, Ann Sheridan, Humphrey Bogart.  
 Le dirigeant d'une entreprise de transport est accusé d'assassinat par la femme d'un de ses concurrents retrouvé mort.
 
-- sa 2 sep 14h30 HL
+- Sa 2 sep 14h30 HL
 
 [36851]  
 **La Vallée de la peur**  
@@ -605,7 +605,7 @@ de Raoul Walsh
 Avec Robert Mitchum, Teresa Wright, Alan Hale.  
 Au Nouveau-Méxique, Medora Callum recueille Jeb Rand, un jeune enfant dont le père vient d'être assassiné, et l'élève avec ses deux propres enfants. Ceux-ci devenus adultes, elle veut partager ses biens en trois parts égales. Le passé rattrape bientôt Jeb Rand.
 
-- sa 9 sep 19h30 HL
+- Sa 9 sep 19h30 HL
 
 [79791]  
 **Victime du destin**  
@@ -615,7 +615,7 @@ de Raoul Walsh
 Avec Rock Hudson, Julie Adams, Mary Castle.  
 Un homme est victime des ennuis provoqués par son tempérament aventureux et son habilité au pistolet.
 
-- ve 15 sep 20h00 HL
+- Ve 15 sep 20h00 HL
 
 [36875]  
 **Le Voleur de Bagdad**  
@@ -625,7 +625,7 @@ de Raoul Walsh
 Avec Douglas Fairbanks, Snitz Edwards, Anna May Wong.  
 La fille du Calife tombe amoureuse d'un sympathique voleur qui devra la conquérir.
 
-- di 17 sep 14h30 HL
+- Di 17 sep 14h30 HL
 
 [67395]  
 **Women of All Nations**  
@@ -635,18 +635,18 @@ Avec Edmund Lowe, Victor McLaglen, Greta Nissen.
 Flagg et Quirt, deux marines qui tentent chacun de séduire la belle Else en Suède puis en Égypte où celle-ci fait partie du harem d'un prince.  
 Restauré par UCLA Film & Television Archive.
 
-- di 8 oct 20h45 GF
+- Di 8 oct 20h45 GF
 
 ## Rencontres et conférences
 
 **Film + Discussion avec Jean-François Rauger et Murielle Joudet**
 
-- me 13 sep 21h15 HL  
+- Me 13 sep 21h15 HL  
 À la suite de la dialogue, à 20h00, projection d'un film choisi par le conférencier : _Annie du Klondike_ de Raoul Walsh (voir p. xx)
 
 **Film + discussion avec Pierre Gabaston**  
 **Conférence de Pierre Gabaston**
 
-- sa 16 sep 16h45 HL  
+- Sa 16 sep 16h45 HL  
 À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Les Aventures du capitaine Wyatt_ de Raoul Walsh (voir p. xx)
 

@@ -9,7 +9,7 @@ Portugal / 2017 / 82 min / DCP
 Avec Albertino Lobo.  
 Sur les berges du Tage au Portugal, un homme vit entre la tranquillité du fleuve et les relations qui le rattachent à la terre.
 
-- me 12 oct 18h30 JE
+- Me 12 oct 18h30 JE
 
 ## Carlos Conceição
 
@@ -20,7 +20,7 @@ Portugal / 2019 / 83 min / VO / DCP
 Avec João Arrais.  
 Un jeune homme erre dans un paysage africain après une catastrophe, à la recherche du fantôme de sa mère.
 
-- me 12 oct 20h30 JE
+- Me 12 oct 20h30 JE
 
 ## Courts métrages
 
@@ -60,7 +60,7 @@ Portugal / 2015 / 33 min / VOSTF / DCP
 Avec Francisco Melo, Mariana Gaivão.  
 Un week-end dans une maison de campagne, l'été, près de Sintra au Portugal.
 
-- ve 14 oct 18h30 JE
+- Ve 14 oct 18h30 JE
 
 ## Ico Costa
 
@@ -78,6 +78,6 @@ France-Portugal-Argentine / 2019 / 98 min / VOSTF / DCP
 Avec Henrique Bonacho, Pedro Figueiredo, Luis Anteiro, Ana Mota.  
 Après avoir commis un crime, un homme se cache dans la forêt. 
 
-- ve 14 oct 20h30 JE
+- Ve 14 oct 20h30 JE
 
 Remerciements : Carlos Conceiçao, Ico Costa, Leonor Teles, La Belle Affaire Productions, Christophe Chauville, la revue Bref, l'Agence du court métrage

@@ -19,7 +19,7 @@ D'après la nouvelle _Eight O'Clock in the Morning_ de Ray Nelson.
 Avec Roddy Piper, Keith David, Meg Foster.  
 John Nada, ouvrier au chômage à Los Angeles, découvre des lunettes de soleil qui permettent de voir la société telle qu'elle est réellement : gouvernée par des extraterrestres à l'apparence humaine, qui maintiennent la population dans un état d'obéissance au moyen d'une propagande aussi subliminale qu'omniprésente.
 
-- je 12 jan 19h30 GF
+- Je 12 jan 19h30 GF
 
 [44666]  
 **La Salamandre**  
@@ -28,7 +28,7 @@ Suisse / 1970 / 123 min / VOSTF
 Avec Bulle Ogier, Jean-Luc Bideau, Jacques Denis.  
 Pierre et Paul, respectivement journaliste et écrivain, s'associent pour écrire un scénario d'après un fait divers : l'histoire d'une jeune fille accusée par son oncle d'avoir tenté de le tuer. Pour en savoir plus, ils tentent de la retrouver.
 
-- je 19 jan 19h00 GF
+- Je 19 jan 19h00 GF
 
 [137087]  
 **Va, Toto !**  
@@ -38,7 +38,7 @@ Avec Ghislaine Paul-Cavallier, Vincent Barré.
 L'arrivée de Toto le marcassin chez Madeleine, le voyage de Vincent en Inde et ses démêlés avec les singes, ou les rêves de Joseph provoqués par une machine à pression continue. Trois histoires qui évoquent notre rapport à l'animal, cet autre prochain.  
 Prix du film singulier 2017 du Syndicat français de la critique de cinéma.
 
-- je 26 jan 19h30 GF
+- Je 26 jan 19h30 GF
 
 [48044]  
 **Les Parapluies de Cherbourg**  
@@ -48,6 +48,6 @@ Avec Catherine Deneuve, Nino Castelnuovo, Anne Vernon.
 Un jeune couple amoureux est séparé par la Guerre d'Algérie. Pour éviter la faillite et le déshonneur à sa mère endettée, la jeune fille, enceinte, se résigne à épouser un riche diamantaire.  
 Film restauré par Ciné Tamaris avec le soutien du Festival de Cannes, du CNC, de la Ville de Cherbourg et de la Région Basse-Normandie.
 
-- je 2 fév 19h30 GF
+- Je 2 fév 19h30 GF
 
 Remerciements : Ciné-Tamaris, JHR Films, Splendor Films, Tamasa Distribution

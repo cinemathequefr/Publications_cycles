@@ -10,7 +10,7 @@ D'après la comédie musicale _Hedwig and the Angry Inch_ de John Cameron Mitche
 Avec John Cameron Mitchell, Miriam Shor, Stephen Trask.  
 Hedwig, un transsexuel allemand, est la star du rock la plus étonnante et la plus méconnue du monde. Avec son groupe, elle sillonne les États-Unis et raconte sa vie en chansons.
 
-- sa 22 oct 14h30 HL  
+- Sa 22 oct 14h30 HL  
 Séance présentée par John Cameron Mitchell  
 Voir aussi leçon de cinéma p. xx
 
@@ -22,7 +22,7 @@ D'après la nouvelle _How to Talk to Girls at Parties_ de Neil Gaiman.
 Avec Elle Fanning, Nicole Kidman, Alex Sharp.  
 1977, en pleine révolution punk. Trois jeunes Anglais croisent dans une soirée des créatures aussi sublimes qu'étranges, et découvrent l'amour. L'une d'elles, Zan, appartient à une colonie extraterrestre, et cherche à étudier les mœurs des humains.
 
-- ve 21 oct 21h15 GF  
+- Ve 21 oct 21h15 GF  
 Séance présentée par John Cameron Mitchell
 
 [113065]  
@@ -33,7 +33,7 @@ D'après la pièce _Rabbit Hole_ de David Lindsay-Abaire.
 Avec Nicole Kidman, Aaron Eckhart, Dianne Wiest.  
 Huit mois après la disparition de leur fils, Becca et Howie redonnent peu à peu un sens à leur vie. Howie tente de nouvelles expériences tandis que Becca coupe les ponts avec une famille trop envahissante, et se rapproche du jeune homme responsable de la mort de leur enfant.
 
-- ve 21 oct 19h00 GF  
+- Ve 21 oct 19h00 GF  
 Séance présentée par John Cameron Mitchell
 
 [99757]  
@@ -43,9 +43,9 @@ de John Cameron Mitchell
 Avec Sook-Yin Lee, Paul Dawson, Lindsay Beamish.  
 Les aventures tragi-comiques de plusieurs New-Yorkais qui naviguent entre sexualité et sentiments.
 
-- me 19 oct 20h00 HL  
+- Me 19 oct 20h00 HL  
 Ouverture de la rétrospective  
-- me 19 oct 20h00 LE
+- Me 19 oct 20h00 LE
 
 ## Rencontres et conférences
 
@@ -56,7 +56,7 @@ En présence de Marion Cotillard
 Bernard Payen est responsable de programmation à la Cinémathèque française.  
 Tarif C (13 €)
 
-- sa 22 oct 14h30 HL  
+- Sa 22 oct 14h30 HL  
 À la suite de la projection de _Hedwig and the Angry Inch_ de John Cameron Mitchell (voir p. xx)
 
 Remerciements : Charlee da Tos, John Cameron Mitchell, Le Festival du film Indépendant de Bordeaux, Johanna Caraire, Melissa Blanco, ARP Selection, Haut et Court, Le Petit Bureau

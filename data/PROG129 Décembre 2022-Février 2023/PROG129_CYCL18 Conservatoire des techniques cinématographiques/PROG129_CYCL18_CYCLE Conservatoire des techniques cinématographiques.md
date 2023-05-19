@@ -15,26 +15,26 @@ Après-midi 15h Projections 3 15h05-15h40 : Yves Chevaldonné (enseignant-cherch
 
 Ce programme est susceptible de quelques modifications (consulter le site cinematheque.fr pour son actualisation).
 
-- ve 9 déc 10h00 GF
+- Ve 9 déc 10h00 GF
 
 [154282]  
 **Monsieur Trewey, illusionniste, dans ses transformations du chapeau I**  
 d'Auguste Baron  
 France / 19 / 35 mm
 
-- ve 9 déc 10h30 GF
+- Ve 9 déc 10h30 GF
 
 **Illumination Mac Guff**  
 **Conférence de Jacques Bled**  
 Situé au cœur de Paris, Illumination Mac Guff est dédié à la fabrication des longs métrages d'animation produits par Illumination Entertainment pour Universal Pictures. Cette société de production a notamment fabriqué les franchises _Moi, moche et méchant_, _Les Minions_, _Comme des bêtes_, _Tous en scène_ ou _Le Grinch_. En quelques années, le studio est devenu une référence en matière d'animation 3D grâce à une technologie de pointe et des équipes artistiques et techniques mondialement reconnues pour leur expertise. Du storyboard au compositing, toutes les équipes sont réunies en un seul et même lieu afin de promouvoir la communication et la collaboration artistique entre départements. En production actuellement, quatre longs métrages d'Illumination Entertainment : les suites de _Minions_ et _Tous en scène_, et deux projets originaux. Suivront deux autres projets actuellement en cours de développement. Comment se fabrique un film chez Illumination Mac Guff ? Que représente le pôle recherche et développement dans cette entreprise ? Quels sont les projets en cours ?  
 Diplômé en sciences sociales et en cinéma, Jacques Bled a co-créé le studio d'animation Mac Guff Ligne en 1986. Filiale d'Universal Pictures, Illumination Mac Guff figure aujourd'hui parmi les studios d'animation les plus créatifs au monde. Jacques Bled a aussi été producteur d'effets spéciaux sur des longs métrages tels que _Blueberry_, _Irréversible_, _Contact_, _Les Visiteurs_, _Un prophète_, ...
 
-- ve 13 jan 14h30 GF
+- Ve 13 jan 14h30 GF
 
 **L'œil invisible : photo/cinéma, techniques de l'espionnage**  
 **Conférence de Laurent Mannoni**  
 De l'« écriture secrète stéganographique » du XVII<sup>e</sup> siècle à la « laisse numérique » actuelle, des milliers de systèmes optique, catoptrique, panoptique, argentique, mécanique, électronique, ont été conçus pour satisfaire la paranoïa et la curiosité malsaine de l'être humain, mais aussi pour lutter contre la guerre ou les dictatures. Appareils « détective », premiers microfilms, chapeaux-cravates-cannes-plastrons-ceintures-souliers photographiques, caméras miniatures, magnétophones minuscules – dont le célèbre Nagra SN : petite promenade, extraits de films à l'appui, dans les coulisses des techniques de l'espionnage.  
 Laurent Mannoni est directeur scientifique du Patrimoine de la Cinémathèque française et du Conservatoire des techniques. Il a été commissaire de plusieurs expositions et auteur de nombreux ouvrages, dont _La Machine cinéma_ (2016) et _Georges Méliès, la magie du cinéma_ (2020).
 
-- ve 3 fév 14h30 GF
+- Ve 3 fév 14h30 GF
 

@@ -19,7 +19,7 @@ Alain Olivieri est premier assistant réalisateur, membre et ancien président d
 David Campi-Lemaire est premier assistant réalisateur depuis 20 ans, membre et ancien trésorier de l'AFAR. Il a notamment collaboré avec Gilles de Maistre, Damien Chazelle, Olivier Megaton, Reem Kherici...
 Ludovic Bernard est réalisateur, membre de l'AFAR. Après avoir exercé le métier de premier assistant réalisateur pendant 20 ans (et collaboré avec des réalisateurs comme Luc Besson, Guillaume Canet, Jean François Richet...), Ludovic Bernard est passé à la réalisation en 2016. Il a depuis réalisé cinq longs métrages (dont _L'Ascension_, _Au bout des doigts_) et quatre épisodes de la série _Lupin_.
 
-- ve 21 avr 14h30 GF
+- Ve 21 avr 14h30 GF
 
 **À propos de deux ouvrages : « Les As de la manivelle » et « La Manufacture de nos rêves »**  
 **Conférence de Priska Morrissey et Morgan Lefeuvre**  
@@ -27,5 +27,5 @@ _Les As de la manivelle : Le Métier d'opérateur de prise de vues cinématograp
 Priska Morrissey est maîtresse de conférences en études cinématographiques à l'université Rennes 2. Historienne des métiers et techniques du cinéma, elle a tout particulièrement étudié l'histoire du métier d'opérateur de prise de vues ainsi qu'en témoigne l'ouvrage dont il est question ici. Elle a codirigé plusieurs ouvrages collectifs ou numéros spéciaux de revue et est par ailleurs l'auteure d'un livre intitulé _Historiens et cinéastes : Rencontre de deux écritures_ (L'Harmattan, 2004). Ses travaux actuels portent sur l'histoire de la pellicule au temps du cinéma muet.  
 Docteure en histoire du cinéma, Morgan Lefeuvre est chercheuse associée à la Queen Mary University de Londres, responsable du volet français du projet de recherche STUDIOTEC. Elle enseigne par ailleurs au sein du master cinéma de l'université de Lausanne. Spécialiste de l'histoire des studios français, ses travaux portent également sur les coopérations cinématographiques franco-italiennes depuis les débuts du cinéma parlant.
 
-- ve 19 mai 14h30 GF
+- Ve 19 mai 14h30 GF
 

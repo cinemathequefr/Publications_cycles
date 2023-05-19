@@ -12,7 +12,7 @@ Algérie-France-Allemagne / 2006 / 114 min / VOSTF / 35 mm
 Avec Samira Kaddour, Rachid Amrani, Ahmed Benaïssa.  
 1999 : Alger la blanche est exsangue après la décennie noire. Kamel, sur le départ, ne conçoit que l'exil comme futur viable et entraîne sa fiancée Zina dans ses rêves d'un ailleurs préférable. Mais comment partir lorsque toutes les trajectoires mènent à des impasses ?
 
-- ve 9 juin 18h45 JE  
+- Ve 9 juin 18h45 JE  
 Séance présentée par Mehdi Taïbi et Tariq Teguia
 
 [90296]  
@@ -34,7 +34,7 @@ de Mohammed Latrèche
 France-Algérie / 2019 / 63 min / DCP  
 Ayant animé pendant 34 ans la Cinémathèque algérienne, Boudjemâa Karèche a été le témoin privilégié des plus riches heures de l'institution créée en 1965. Depuis son îlot, il revient sur son parcours, de l'effervescence des débuts et sa complicité avec Henri Langlois à la terreur des années 1990. C'est aussi l'Histoire de l'Algérie qui est racontée en filigrane à travers le destin d'un héros discret qui a programmé des films sans relâche.
 
-- ve 9 juin 21h15 JE  
+- Ve 9 juin 21h15 JE  
 Séance présentée par Mehdi Taïbi
 
 ## Ciné-expéditions
@@ -54,7 +54,7 @@ France / 1928 / 50 min / INT. FR. / 35 mm
 En 1928, l'expédition Jean d'Esme traverse le Cameroun, le Gabon et le Congo. Tout au long du périple, les indigènes de différentes ethnies se laissent volontiers photographier, présentent leurs savoir-faire, expliquent leurs danses rituelles, montrent leurs tatouages, leurs coiffures, leurs bijoux.  
 Accompagnement musical par le duo SAD (Delphine Ciampi, guitare et Anne Gouverneur, violon).
 
-- ve 7 juil 18h30 JE  
+- Ve 7 juil 18h30 JE  
 Séance présentée par Iris Deniozou et Béatrice de Pastre
 
 [120945]  
@@ -69,7 +69,7 @@ de René Ginet
 France / 1929 / 42 min / 35 mm  
 Une expédition scientifique en Arctique est documentée par le célèbre journaliste Georges Le Fèvre, témoin des aventures de l'équipage dans les eaux glacées du grand Nord.
 
-- ve 7 juil 21h00 JE  
+- Ve 7 juil 21h00 JE  
 Séance présentée par Iris Deniozou et Béatrice de Pastre
 
 Remerciements : CNC, Boudjemâa Karèche.Remerciements : CNC, Doriane Films.Remerciements : Galerie Miyu, AFRHC, CNC

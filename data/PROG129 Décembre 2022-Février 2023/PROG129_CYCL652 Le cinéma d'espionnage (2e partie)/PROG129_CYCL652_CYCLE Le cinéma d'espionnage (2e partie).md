@@ -11,7 +11,7 @@ D'après le roman _Les Trente-neuf marches_ de John Buchan.
 Avec Robert Donat, Madeleine Carroll, Lucie Mannheim.  
 Richard Hannay accepte de cacher chez lui une jeune femme qui prétend être poursuivie. Elle est assassinée pendant la nuit. Pour se disculper, il n'a d'autre choix que de mener lui-même l'enquête.
 
-- sa 28 jan 14h30 HL
+- Sa 28 jan 14h30 HL
 
 [34011]  
 **Cape et poignard**  
@@ -22,8 +22,8 @@ D'après le livre _Cloak and Dagger: The Secret Story of the OSS_ de Corey Ford 
 Avec Gary Cooper, Lilli Palmer, Vladimir Sokoloff.  
 Durant la Seconde Guerre mondiale, un Américain tente d'enlever un savant italien tombé aux mains des Allemands. Le chercheur vient de mettre au point la formule de la première bombe atomique.
 
-- di 15 jan 14h30 HL  
-- lu 6 fév 20h30 GF
+- Di 15 jan 14h30 HL  
+- Lu 6 fév 20h30 GF
 
 [41620]  
 **Cinquième Colonne**  
@@ -33,7 +33,7 @@ d'Alfred Hitchcock
 Avec Priscilla Lane, Robert Cummings, Otto Kruger.  
 Barry Kane est accusé d'avoir provoqué l'incendie qui a ravagé son usine. Il parvient à échapper à la police et se lance à la recherche du véritable coupable.
 
-- di 12 fév 14h30 HL
+- Di 12 fév 14h30 HL
 
 [40348]  
 **Correspondant 17**  
@@ -43,7 +43,7 @@ d'Alfred Hitchcock
 Avec Joel McCrea, Laraine Day, Herbert Marshall, George Sanders.  
 Envoyé en Europe sous une fausse identité, un reporter se lance à la poursuite d'un diplomate hollandais censé détenir le secret d'un traité de paix entre son pays et les Alliés.
 
-- di 18 déc 14h30 HL
+- Di 18 déc 14h30 HL
 
 [143779]  
 **Cuban Network**  
@@ -54,7 +54,7 @@ D'après le roman _Les Derniers soldats de la guerre froide_ de Fernando Morais.
 Avec Penelope Cruz, Édgar Ramírez, Gael García Bernal.  
 Début 1990. Un groupe de Cubains installés à Miami met en place un réseau d'espionnage. Leur mission : infiltrer les groupuscules anti-castristes.
 
-- sa 4 fév 14h30 HL  
+- Sa 4 fév 14h30 HL  
 Voir aussi dialogue p. xx
 
 [48109]  
@@ -65,7 +65,7 @@ D'après le roman _Le Dossier 51_ de Gilles Perrault.
 Avec François Marthouret, Roger Planchon, Patrick Chesnais, Isabelle Ganz.  
 Un diplomate est mis sous surveillance par les services secrets, qui cherchent une faille dans sa vie pour le faire chanter.
 
-- di 19 fév 14h30 HL
+- Di 19 fév 14h30 HL
 
 [45661]  
 **Espions sur la Tamise**  
@@ -76,8 +76,8 @@ D'après le roman _Le Ministère de la peur_ de Graham Greene.
 Avec Ray Milland, Marjorie Reynolds, Carl Esmond.  
 Durant la Seconde Guerre mondiale, un homme est libéré de l'asile. Alors qu'il rentre à Londres, il est peu à peu mêlé à une affaire d'espionnage.
 
-- ve 13 jan 18h30 HL  
-- lu 6 fév 18h30 GF
+- Ve 13 jan 18h30 HL  
+- Lu 6 fév 18h30 GF
 
 [41596]  
 **L'Étau**  
@@ -88,7 +88,7 @@ D'après le roman _Topaz_ de Leon Uris.
 Avec Frederick Stafford, Dany Robin, John Forsythe, Michel Piccoli.  
 Pendant la guerre froide, l'agent des services de renseignements français André Devereaux enquête sur les activités suspectes des Soviétiques à Cuba.
 
-- di 26 fév 14h30 HL
+- Di 26 fév 14h30 HL
 
 [110591]  
 **The Ghost Writer**  
@@ -98,7 +98,7 @@ D'après le roman _L'Homme de l'ombre_ de Robert Harris.
 Avec Ewan McGregor, Pierce Brosnan, Jon Bernthal.  
 « The Ghost », écrivain à succès, est engagé comme prête-plume pour terminer les mémoires de l'ancien Premier ministre britannique Adam Lang. Mais une ombre plane sur le décès accidentel du précédent rédacteur.
 
-- sa 4 mar 17h15 HL
+- Sa 4 mar 17h15 HL
 
 [50981]  
 **Le Grand Blond avec une chaussure noire**  
@@ -107,7 +107,7 @@ France / 1972 / 90 min / DCP
 Avec Pierre Richard, Bernard Blier, Jean Rochefort, Mireille Darc.  
 Violoniste distrait, François Perrin arrive à Orly avec une chaussure noire et l'autre marron. Toulouse et Perrache, du renseignement français, le choisissent alors pour se débarrasser de leur collègue et ennemi Milan, en lui faisant jouer à son insu le rôle d'un redoutable espion.
 
-- di 5 mar 14h30 HL
+- Di 5 mar 14h30 HL
 
 [62261]  
 **Intelligence Service**  
@@ -118,7 +118,7 @@ D'après le récit _Ill Met by Moonlight_ de W. Stanley Moss.
 Avec Dirk Bogarde, Cyril Cusack, Marius Goring.  
 En 1941, dans la Crète occupée, un général allemand se fait kidnapper par les services secrets britanniques.
 
-- di 5 mar 17h00 HL
+- Di 5 mar 17h00 HL
 
 [45379]  
 **Ipcress, danger immédiat**  
@@ -129,7 +129,7 @@ D'après le roman _The Ipcress File_ de Len Deighton.
 Avec Michael Caine, Nigel Green, Guy Doleman, Susan Lloyd.  
 Harry Palmer enquête sur l'enlèvement de savants anglais et découvre une mystérieuse bande magnétique qui « lave » le cerveau.
 
-- sa 7 jan 14h30 HL
+- Sa 7 jan 14h30 HL
 
 [143223]  
 **J'accuse**  
@@ -139,7 +139,7 @@ D'après le roman _J'accuse_ de Robert Harris.
 Avec Jean Dujardin, Louis Garrel, Grégory Gadebois.  
 1894 : le capitaine Alfred Dreyfus, officier français de confession juive, est condamné à la déportation à vie pour avoir fourni des documents secrets à l'Allemagne. Mais le colonel Picquart, nommé à la tête du contre-espionnage, découvre que les preuves contre Dreyfus ont été fabriquées.
 
-- sa 31 déc 14h30 HL
+- Sa 31 déc 14h30 HL
 
 [53417]  
 **La Maison de la 92e rue**  
@@ -149,7 +149,7 @@ de Henry Hathaway
 Avec William Eythe, Lloyd Nolan, Signe Hasso.  
 Un membre du FBI d'origine allemande est envoyé dans une école d'espionnage nazie pour éliminer un agent double et démasquer un réseau implanté à Washington.
 
-- sa 3 déc 15h00 GF
+- Sa 3 déc 15h00 GF
 
 [34398]  
 **La Maison Russie**  
@@ -160,7 +160,7 @@ D'après le roman _La Maison Russie_ de John le Carré.
 Avec Sean Connery, Michelle Pfeiffer, Roy Scheider.  
 Éditeur britannique, Barley Blair se rend en voyage d'affaires en URSS où un auteur soviétique lui fait parvenir un manuscrit contenant des secrets militaires. Les services secrets, ayant intercepté le document, demandent à Barley de vérifier la véracité de ces informations sur le terrain.
 
-- sa 24 déc 14h30 HL
+- Sa 24 déc 14h30 HL
 
 [50914]  
 **Mata Hari, agent H 21**  
@@ -169,7 +169,7 @@ France-Italie / 1965 / 98 min / 35 mm
 Avec Jeanne Moreau, Jean-Louis Trintignant, Claude Rich.  
 Reconstitution ironique de l'histoire de la célèbre espionne Mata Hari.
 
-- sa 11 fév 14h30 HL
+- Sa 11 fév 14h30 HL
 
 [42870]  
 **Notre agent à la Havane**  
@@ -180,7 +180,7 @@ D'après le roman _Notre agent à La Havane_ de Graham Greene.
 Avec Alec Guinness, Maureen O'Hara, Noël Coward, Burl Ives.  
 Cuba, en pleine guerre froide. Un représentant en aspirateurs, honorable correspondant des services anglais, invente l'existence d'un réseau d'espions et d'une base secrète pour justifier ses émoluments.
 
-- sa 25 fév 14h30 HL
+- Sa 25 fév 14h30 HL
 
 [55529]  
 **La Petite Fille au tambour**  
@@ -191,7 +191,7 @@ D'après le roman _La Petite fille au tambour_ de John le Carré.
 Avec Diane Keaton, Klaus Kinski, Sami Frey.  
 Pour mener à bien une mission visant à débusquer un auteur d'attentats à la bombe de l'OLP, le Mossad embauche une jeune comédienne engagée dans le militantisme.
 
-- sa 4 mar 14h30 HL
+- Sa 4 mar 14h30 HL
 
 [58161]  
 **Le Piège**  
@@ -202,7 +202,7 @@ D'après le roman _The Freedom Trap_ de Desmond Bagley.
 Avec Paul Newman, Dominique Sanda, James Mason, Harry Andrews.  
 À la demande d'Angus Macintosh, qui cherche à démanteler un réseau d'espions, Joseph Rearden se fait passer pour un criminel et se retrouve en prison, où l'un des détenus lui propose de le faire évader.
 
-- di 5 fév 14h30 HL  
+- Di 5 fév 14h30 HL  
 Voir aussi dialogue p. xx
 
 [32984]  
@@ -213,7 +213,7 @@ de Samuel Fuller
 Avec Richard Widmark, Jean Peters, Thelma Ritter, Murvyn Vye, Roger Moore.  
 Un habile pickpocket dérobe le portefeuille d'une jeune femme. Mais l'objet, contenant un microfilm où figurent les plans d'une terrible arme secrète américaine, est activement recherché par un groupe d'espions.
 
-- di 22 jan 14h30 HL
+- Di 22 jan 14h30 HL
 
 [90170]  
 **Triple Agent**  
@@ -222,7 +222,7 @@ France-Italie-Espagne-Grèce-Russie / 2003 / 116 min / VO / 35 mm
 Avec Katerina Didaskalou, Serge Renko, Cyrielle Clair.  
 En 1936, alors que le Front populaire et la guerre d'Espagne agitent les esprits, un jeune général de l'armée tsariste mène une vie paisible à Paris, où il s'est réfugié avec son épouse grecque, Arsinoé.
 
-- di 1 jan 14h30 HL
+- Di 1 jan 14h30 HL
 
 [34871]  
 **Les Trois jours du Condor**  
@@ -233,7 +233,7 @@ D'après le roman _Les Six jours du Condor _ de James Grady.
 Avec Faye Dunaway, Robert Redford.  
 Joseph Turner, alias « Le Condor », est un agent de la CIA. Un jour, en rentrant de déjeuner, il découvre ses collègues assassinés. Un tueur cherche à l'abattre. Turner se lance alors dans une course contre la montre.
 
-- di 29 jan 14h30 JE
+- Di 29 jan 14h30 JE
 
 [32418]  
 **Un crime dans la tête**  
@@ -244,7 +244,7 @@ D'après le roman _The Manchurian Candidate_ de Richard Condon.
 Avec Janet Leigh, Frank Sinatra, Laurence Harvey.  
 Au retour de la guerre de Corée, un soldat américain reçoit une médaille d'honneur. Mais lors de sa captivité, il a subi un lavage de cerveau et est en fait utilisé par l'ennemi comme assassin.
 
-- sa 17 déc 14h30 HL  
+- Sa 17 déc 14h30 HL  
 Voir aussi dialogue p. xx
 
 ## Rencontres et conférences
@@ -257,7 +257,7 @@ Bernard Benoliel est directeur de l'Action culturelle et éducative à la Ciném
 Alexandra Midal est co-commissaire de l'exposition « Top Secret : Cinéma et espionnage ». Elle a réalisé de nombreuses expositions parmi lesquelles Tomorrow Now (Mudam, Luxembourg), Liberty, Equality and Fraternity (Wolfsonian Museum, Miami) ou encore Politique-fiction_ (Cité du design, Saint-Étienne). Elle a publié des essais, des articles et des livres, notamment _Design by Accident: For a New History of Design_ (Sternberg Press, Berlin) et _La Manufacture du meurtre_ (Zones, Paris). Elle dirige aussi le Design Film Festival, un festival itinérant de films expérimentaux de designers.  
 Co-commissaire de l'exposition « Top Secret : Cinéma et espionnage », Matthieu Orléan est collaborateur artistique à la Cinémathèque française, chargé des expositions temporaires. Il a notamment été le commissaire des expositions ¡Almodóvar Exhibition! (2006), Dennis Hopper et le Nouvel Hollywood (2008), Le Monde enchanté de Jacques Demy (2013), Gus Van Sant (2016) et Vampires (2019). Il écrit sur le cinéma et les arts plastiques pour la presse et pour différents ouvrages. En 2011, les Éditions de l'œil ont publié son ouvrage _Paul Vecchiali : La Maison cinéma_.
 
-- sa 17 déc 14h30 HL  
+- Sa 17 déc 14h30 HL  
 À la suite de la projection de _Un crime dans la tête_ de John Frankenheimer (voir p. xx)
 
 **Film + Dialogue avec Olivier Assayas**  
@@ -268,7 +268,7 @@ Olivier Assayas est cinéaste, scénariste et critique de cinéma. Il a notammen
 Co-commissaire de l'exposition « Top Secret : Cinéma et espionnage », Matthieu Orléan est collaborateur artistique à la Cinémathèque française, chargé des expositions temporaires. Il a notamment été le commissaire des expositions ¡Almodóvar Exhibition! (2006), Dennis Hopper et le Nouvel Hollywood (2008), Le Monde enchanté de Jacques Demy (2013), Gus Van Sant (2016) et Vampires (2019). Il écrit sur le cinéma et les arts plastiques pour la presse et pour différents ouvrages. En 2011, les Éditions de l'œil ont publié son ouvrage _Paul Vecchiali : La Maison cinéma_.  
 Tarif B : voir p.
 
-- sa 4 fév 14h30 HL  
+- Sa 4 fév 14h30 HL  
 À la suite de la projection de _Cuban Network_ d'Olivier Assayas (voir p. xx)
 
 **Film + Dialogue avec Olivier Assayas**  
@@ -277,7 +277,7 @@ Slade (Ian Bannen) : « Je rentre à la maison... [puis, citant Edmund Spenser, 
 Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
 Tarif B : voir p.
 
-- di 5 fév 14h30 HL  
+- Di 5 fév 14h30 HL  
 À la suite de la projection de _Le Piège_ de John Huston (voir p. xx)
 
 Remerciements : British Film Institute National Archive, Cinémathèque du Luxembourg, Gaumont, Park Circus, Tamasa Distribution, Warner Bros Picture France, Warner Bros. Entertainment France

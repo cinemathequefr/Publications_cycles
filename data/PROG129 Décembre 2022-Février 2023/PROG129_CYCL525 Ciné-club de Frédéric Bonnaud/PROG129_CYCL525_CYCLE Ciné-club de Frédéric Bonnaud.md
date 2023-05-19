@@ -16,7 +16,7 @@ D'après le roman _Jules et Jim_ de Henri-Pierre Roché.
 Avec Jeanne Moreau, Oskar Werner, Henri Serre.  
 Jules, un étudiant autrichien, et Jim, un étudiant français, se lient d'une amitié profonde. Ils rencontrent Catherine. La jeune fille tombe amoureuse des deux garçons sans pouvoir choisir entre eux.
 
-- ve 16 déc 19h30 GF
+- Ve 16 déc 19h30 GF
 
 [34177]  
 **Les Contrebandiers de Moonfleet**  
@@ -27,7 +27,7 @@ D'après le roman _Moonfleet_ de John Meade Falkner.
 Avec Stewart Granger, George Sanders, Joan Greenwood, Jon Whiteley.  
 1760. Le jeune John Mohune est envoyé à Moonfleet, lointain village de bord de mer, pour y retrouver Jeremy Fox, un ami de sa mère. Il découvre que Fox est le chef des contrebandiers.
 
-- me 11 jan 19h30 HL
+- Me 11 jan 19h30 HL
 
 [43677]  
 **Viridiana**  
@@ -37,6 +37,6 @@ D'après le roman _Halma_ de Benito Pérez Galdós.
 Avec Silvia Pinal, Francisco Rabal, Fernando Rey.  
 Jeune novice dans un couvent, Viridiana rend visite, avant de prononcer ses vœux, à son oncle Jaime. Il découvre en elle le sosie de son épouse, morte vingt ans auparavant, le soir de leurs noces.
 
-- je 9 fév 19h30 GF
+- Je 9 fév 19h30 GF
 
 Remerciements : Carlotta et Tamasa Distribution

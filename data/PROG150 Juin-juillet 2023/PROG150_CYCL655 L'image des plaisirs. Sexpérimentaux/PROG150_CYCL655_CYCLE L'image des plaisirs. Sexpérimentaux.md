@@ -11,7 +11,7 @@ France / 1975 / 90 min / VO / DCP
 Avec Philippe Vallois, Pierre Commoy, Patrice Pascal, Laurent Laclos.  
 « Lorsque le jeune acteur principal d'un film est arrêté peu avant le début du tournage, le réalisateur se met en quête d'un remplaçant dans la scène gay. Formellement ambitieux, le film est aussi un document historique. » (S. Volk)
 
-- me 31 mai 18h30 GF  
+- Me 31 mai 18h30 GF  
 Séance présentée par Philippe Vallois
 
 ## Séance 23 : Fleurs dorées d'Apollon
@@ -25,7 +25,7 @@ Grande-Bretagne / 1977 / 86 min / VOSTF / DCP
 Avec Leonardo Treviglio, Richard Warwick, Neil Kennedy.  
 « _Sebastiane_ déploie de bout en bout une spectaculaire volonté de faire sortir du placard (cinématographique et sociétal) une sexualité que la loi britannique avait, des siècles durant, condamnée à l'invisibilité. » (P. Charrel)
 
-- me 31 mai 20h45 GF
+- Me 31 mai 20h45 GF
 
 ## Séance 24 : « Je garde le souvenir de ton baiser et je voudrais bien que ce soit là une preuve que je puisse être aimé par toi »
 
@@ -45,7 +45,7 @@ Avec Robert Adams, Richard Locke, Victoria Young.
 Ce film pornographique mélancolique évoque aussi bien un amour passionné que les fantasmes d'hommes et d'amants occasionnels et la vie quotidienne dans le monde carcéral.  
 Avec l'aimable autorisation du Bressan Project et de l'American Genre Film Archive.
 
-- ve 2 juin 19h00 JE
+- Ve 2 juin 19h00 JE
 
 ## Conférence et films
 
@@ -73,7 +73,7 @@ d'Émilie Jouvet
 France / 2005 / 4 min / Numérique  
 Fragments d'amour échevelés et sonores.
 
-- sa 3 juin 14h30 GF  
+- Sa 3 juin 14h30 GF  
 Voir aussi conférence p. xx
 
 [154196]  
@@ -82,7 +82,7 @@ de Yervant Gianikian, Angela Ricci Lucchi
 Italie / 1981 / 15 min / DCP  
 Remploi d'anciennes images pornographiques. Les rayures attestent de l'intérêt des spectateurs pour certains moments.
 
-- sa 3 juin 18h30 GF  
+- Sa 3 juin 18h30 GF  
 Séance présentée par Stéphane Gérard et Lionel Soukaz
 
 [141217]  
@@ -91,7 +91,7 @@ d'André Almuró
 France / 1989 / 22 min / DCP  
 « Manifeste du cinéma haptique, qui pourrait aussi être résumé : "Tout l'univers bouleversé par une branlette." »
 
-- me 7 juin 17h30 JE
+- Me 7 juin 17h30 JE
 
 [154062]  
 **Blind Porn**  
@@ -99,7 +99,7 @@ d'Émilie Jouvet
 France / 2005 / 4 min / Numérique  
 Fragments d'amour échevelés et sonores.
 
-- me 14 juin 18h00 JE  
+- Me 14 juin 18h00 JE  
 Séance présentée par Émilie Jouvet
 
 [154069]  
@@ -108,7 +108,7 @@ de David Matarasso
 France / 2012 / 4 min / DCP  
 Essai visuel sur la pulsion scopique, méticuleusement travaillé avec amour photogramme par photogramme.
 
-- ve 16 juin 18h30 JE  
+- Ve 16 juin 18h30 JE  
 Séance présentée par Derek Woolfenden et David Matarasso
 
 ## Séance 25 : Décharges
@@ -142,7 +142,7 @@ France / 1980 / 47 min / 35 mm
 Avec Jean-François B., François Dantchev, Karine.  
 « _X_ est un écartèlement : aux quatre points cardinaux, aux quatre extrémités de la croix, la Guerre, le Sexe, la Religion et la Drogue. » (Guy Hocquenghem)
 
-- sa 3 juin 18h30 GF  
+- Sa 3 juin 18h30 GF  
 Séance présentée par Stéphane Gérard et Lionel Soukaz
 
 ## Séance 26 : Cinéma de la transgression, par Romain Pinteaux
@@ -191,7 +191,7 @@ de Richard Kern
 Avec Carrie, Kembra Pfahler, Lisa Resurrection.  
 « Captation intime d'une expérience qui interroge les limites du corps, de l'érotisme et du supportable. Une prestation de cinéma-vérité qui réinscrit le personnel au cœur du cinéma de la transgression et de la scène artistique new-yorkaise. » (R. P.)
 
-- sa 3 juin 20h30 GF  
+- Sa 3 juin 20h30 GF  
 Séance présentée par Romain Pinteaux
 
 ## Séance 27 : Cabarets de la révolte
@@ -218,7 +218,7 @@ Inde / 1985 / 58 min / VOSTF / 16 mm
 Avec Rekha, Rosy, Vasanti, Lovina, Pussycat.  
 Devant la caméra bienveillante de Mira Nair se libèrent, parfois jusqu'au rire, les paroles de danseuses et prostituées indiennes dont certaines ont fui des mariages forcés, tandis que d'autres sont encore mariées.
 
-- di 4 juin 18h00 GF
+- Di 4 juin 18h00 GF
 
 ## Séance 28 : Tortures
 
@@ -238,7 +238,7 @@ Suisse / 1986 / 53 min / DCP
 Avec Cleo Uebelmann.  
 « Devenu culte dans le SM underground, le film se confronte cependant au paradoxe du SM : le caractère consensuel de la relation. Mais ici, l'audience se demande si Domina et sa cliente sont une seule et même femme. » (Karen Smith)
 
-- di 4 juin 20h45 GF
+- Di 4 juin 20h45 GF
 
 ## Séance 29 : Histoires des yeux
 
@@ -276,7 +276,7 @@ de Luther Price
 États-Unis / 1989 / 13 min / VO / Numérique  
 Alliance entre le sacré et le profane orgiaque.
 
-- me 7 juin 17h30 JE
+- Me 7 juin 17h30 JE
 
 ## Séance 30 : David Wojnarowicz ou le génie politique
 
@@ -308,7 +308,7 @@ France-États-Unis / 2018 / 78 min / VOSTF / DCP
 Avec David Wojnarowicz, Marion Scemama.  
 Journaux intimes, portraits mutuels, affects débordants et archive d'un entretien de cinq heures avec David Wojnarowicz conduit par Sylvère Lotringer en 1989.
 
-- me 7 juin 19h30 JE  
+- Me 7 juin 19h30 JE  
 Séance présentée par Marion Scemama
 
 ## Séance 31 : Chaque fois que nous nous embrassons
@@ -364,7 +364,7 @@ de Hans Scheugl
 Autriche / 1993 / 8 min / 16 mm  
 « Sans but, sans question. Se rapprochant. Aimant voir. Voir avec amour (amoureusement). Dansant. Peut-on danser tristement ? OK, pas de question. » (Hans Scheugl)
 
-- je 8 juin 18h15 JE
+- Je 8 juin 18h15 JE
 
 ## Séance 32 : Spectrum 90
 
@@ -414,7 +414,7 @@ France / 1995 / 34 min / VO / DCP
 Avec Marc Hurtado.  
 « Larme secrète / Blanche secrète / Langue secrète / L'âme secrète » (Marc Hurtado) « Marc Hurtado : la vie encore au travail, le feu nourri d'amour qui s'obstine à brûler vif dans un infatigable renouvellement. » (Étienne Bomba)
 
-- je 8 juin 20h00 JE
+- Je 8 juin 20h00 JE
 
 ## Séance 33 : Murmures dans le silence toxique de l'histoire
 
@@ -428,7 +428,7 @@ Corée / 1995 / 98 min / VOSTF / Numérique
 Avec Kim Sun-deok, Park Ok-nyeon, Lee Yeong-suk.  
 « Byun Young-joo explique que le titre de la trilogie _Murmures_ signifie : les voix basses mais puissantes des femmes qui ont toujours été victimes dans le tourbillon de l'histoire. » (Lee Heejung)
 
-- sa 10 juin 15h00 JE
+- Sa 10 juin 15h00 JE
 
 ## Séance 34 : Du beau monde
 
@@ -489,7 +489,7 @@ de Bobby Abate
 États-Unis / 1999 / 14 min / Numérique  
 Film nostalgique et intime nourri d'évocations sexuelles.
 
-- sa 10 juin 18h00 JE  
+- Sa 10 juin 18h00 JE  
 Séance présentée par Yves-Marie Mahé
 
 ## Séance 35 : Moins, un, deux et des millions
@@ -527,7 +527,7 @@ de Patty Chang
 États-Unis / 2000 / 6 min / Numérique  
 Performance à base de ballons gonflés à l'hélium.
 
-- sa 10 juin 20h30 JE
+- Sa 10 juin 20h30 JE
 
 ## Séance 36 : N'entre pas sans jouissance dans cette nuit
 
@@ -578,7 +578,7 @@ de Mounir Fatmi
 France-Maroc / 2003 / 13 min / VO / Numérique  
 Montage des scènes d'amour censurées du film _Une minute de soleil en moins_, réalisé par Nabil Ayouch la même année.
 
-- di 11 juin 15h00 JE
+- Di 11 juin 15h00 JE
 
 ## Séance 37 : Karima selon Clarisse Hahn
 
@@ -591,7 +591,7 @@ France / 2003 / 98 min / Vidéo
 Avec Karima, Clarisse Hahn.  
 Par la plasticienne et cinéaste Clarisse Hahn, un portrait sororal de la dominatrice SM Karima, alternant scènes du quotidien, performance sexuelle et entretiens à cœur ouvert.
 
-- di 11 juin 17h45 JE  
+- Di 11 juin 17h45 JE  
 Séance présentée par Clarisse Hahn
 
 ## Séance 38 : Deviser diviser
@@ -612,7 +612,7 @@ D'après le poème _Zohre & Manouchehr_ d'Iraj Mirza.
 Avec Coralie Revel, Sophiane Benrezzak.  
 Montage alterné entre l'adaptation d'un poème érotique persan du XIX<sup>e</sup> siècle, attestant d'une tradition enfouie et d'une liberté enfuie, et les invivables interdits auxquels se heurte la jeunesse iranienne du XXI<sup>e</sup> siècle.
 
-- di 11 juin 20h15 JE  
+- Di 11 juin 20h15 JE  
 Séance présentée par Mitra Farahani
 
 ## Séance 39 : Émilie Jouvet. Deux ou trois choses que Jouvet sait d'elles
@@ -645,7 +645,7 @@ France / 2008 / 6 min / Numérique
 Avec Wendy Delorme.  
 « Ève s'éveille au paradis, trouve une pomme... et commet un délicieux péché. » (Émilie Jouvet). Une réinterprétation du mythe d'Ève qui donne beaucoup à penser.
 
-- me 14 juin 18h00 JE  
+- Me 14 juin 18h00 JE  
 Séance présentée par Émilie Jouvet
 
 ## Séance 40 : Rafales et une faille
@@ -706,7 +706,7 @@ de Danielle Arbid
 France-Liban / 2008 / 20 min / DCP  
 Danielle Arbid filme la libération d'une parole interdite ou barrée dans l'espace public, celle de la jeunesse libanaise qui s'exprime sur la sexualité.
 
-- me 14 juin 20h30 JE  
+- Me 14 juin 20h30 JE  
 Séance présentée par Danielle Arbid
 
 ## Séance 41 : Mots, lovers, lumières
@@ -727,7 +727,7 @@ France / 2009 / 85 min / DCP
 Avec Coralie Trinh-Thi, Lydia Lunch.  
 « _Mutantes_ propose un portrait extensif du mouvement pro-sexe en Occident, laissant s'exprimer les travailleuses du sexe, leur conférant une agentivité et une subjectivité que la pornographie traditionnelle leur refuse. » (Cédric Trahan)
 
-- je 15 juin 18h00 JE  
+- Je 15 juin 18h00 JE  
 Séance présentée par Zoulikha Bouabdellah
 
 ## Séance 42 : Visites aux images
@@ -760,7 +760,7 @@ Allemagne / 2011 / 84 min / VO / DCP
 Avec Peter Kern, Sergiu Grimalschi, Lutz Volkwein.  
 Dans un Berlin hostile et complice, le film suit cinq « garçons à louer » dans leur quotidien, leur travail, leurs relations avec les clients, parmi lesquels le réalisateur Peter Kern, acteur pour Syberberg, Fassbinder et Schroeter.
 
-- je 15 juin 20h00 JE
+- Je 15 juin 20h00 JE
 
 ## Séance 43 : Corps écarquillés, voluptés et fétiches
 
@@ -809,7 +809,7 @@ de Nazlı Dinçel
 Turquie / 2015 / 9 min / DCP  
 « Avec une angoisse adolescente, elle refuse l'orgasme à tout autre qu'elle-même. » (Light Cone)
 
-- ve 16 juin 18h30 JE  
+- Ve 16 juin 18h30 JE  
 Séance présentée par Derek Woolfenden et David Matarasso
 
 ## Séance 44 : Horreurs et fiertés
@@ -864,7 +864,7 @@ de Hélio Ribeiro
 Australie / 2018 / 3 min / Numérique  
 L'une des œuvres présentées dans l'exposition _The Sex Worker_ (2018), bouleversante revendication politique par un travailleur du sexe.
 
-- ve 16 juin 21h00 JE  
+- Ve 16 juin 21h00 JE  
 Séance présentée par Geoffroy C. Dedenis
 
 ## Séance 45 : Mathieu Morel. Beginning Bouquet
@@ -913,7 +913,7 @@ de Mathieu Morel
 France / 2022 / 22 min / Numérique  
 « Le film évoque le suicide adolescent et l'espace douloureux que prend le fantasme lorsque l'on n'a rien d'autre qu'internet pour vivre sa sexualité. » (Mathieu Morel)
 
-- sa 17 juin 16h00 JE  
+- Sa 17 juin 16h00 JE  
 Séance présentée par Mathieu Morel
 
 ## Séance 46 : Ultimes replis de la pudeur
@@ -945,7 +945,7 @@ de Thunska Pansittivorakul
 Thaïlande / 2020 / 63 min / VOSTA / Numérique  
 Déconstruction filmique et politique des tabous de la sexualité en Thaïlande à travers une histoire d'amour récurrente et passionnelle entre deux hommes qui sont tous deux des artistes visuels.
 
-- sa 17 juin 18h30 JE  
+- Sa 17 juin 18h30 JE  
 Séance présentée par Marion Scemama
 
 ## Rencontres et conférences
@@ -955,7 +955,7 @@ Séance présentée par Marion Scemama
 « L'intimité est un espace intermédiaire entre moi et les autres dont je négocie les entrées et sorties. Il y a une topique de l'intimité. Le cinéma expérimental explorant le territoire de l'intime m'enjoint, moi qui ne fais que le regarder, d'être quelque part. Il me semble qu'à l'inverse d'autres films qui ne sont ni expérimentaux ni n'explorent/exposent l'intime, ceux-là cherchent à rapprocher les fameux pôles irréconciliables de l'expérience spectatorielle au cinéma, identifiés par Edgar Morin : participation pratique et projection affective. Il faudrait peut-être dire alors qu'ils invitent dans un espace de “projection pratique” et de “participation affective”. Et dans ce type d'espace, je me sens souvent nu, c'est-à-dire désarmé. J'y rencontre des corps, des sexes, des plaisirs, des blessures et des stigmates, à la fois proches et différents des miens. De quoi suis-je le sujet ? »  
 Cinéaste, docteur en esthétique et sciences de l'art (université Paris 1 Panthéon-Sorbonne), Frédéric Tachou a été président du Collectif jeune cinéma (CJC), structure de distribution et de diffusion des pratiques expérimentales de l'image et du film. Il est l'auteur de _Et le sexe entra dans la modernité_ (Klincksieck, 2014).
 
-- sa 3 juin 14h30 GF  
+- Sa 3 juin 14h30 GF  
 À la suite de la projection de _The Action_ de David Matarasso, _Blind Porn_ d'Émilie Jouvet, _Essence d'absinthe_ de Yervant Gianikian, Angela Ricci Lucchi, _Le Troisième œil_ d'André Almuró (voir p. xx)
 
 Remerciements : Tous les cinéastes, ayants-droits, distributeurs, et particulièrement Florence Auffret, Robert Bonamy, Pascale Cassagnau, Go Hirasawa, Lung Chieh Lim, Frédéric Papon, MM Serra. ADAGP, American Genre Film Archives, Archives Françaises du Film, Arsenal – Institut für Film und Videokunst e.V., Avatar Films, Canyon Cinema Foundation, Capricci, CNC – Centre National du Cinéma et de l'image animée, Centre Pompidou (MNAM/CCI), Chicago Film Archives, Cinedoc, Cinemateca Uruguaya, Cinémathèque Royale de Belgique, Conner Family Trust (Michelle Silva), Danish Film Institute, Deutsche Kinemathek, Equinox Creative Group, Filmoteca de Catalunya – Departamento de Cultura, Filmoteca de Valencia, Filmoteca de Zaragoza, Gaumont Pathé Archives, Institut National du Sport, de l'Expertise et de la Performance, Japan Society, Kobe Planet, Le Fresnoy, Light Cone, Lux Distribution, Nanzuka Underground, Re:voir, Sixpackfilm, Svenska Filminstitutet, The Film-Makers' Cooperative, The Museum of Modern Art, Venin Films.

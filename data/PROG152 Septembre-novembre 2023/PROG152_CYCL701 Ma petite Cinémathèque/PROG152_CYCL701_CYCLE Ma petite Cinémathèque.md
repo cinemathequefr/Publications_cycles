@@ -10,7 +10,7 @@ de Raoul Walsh
 Avec John Wayne, Robert Parrish, Marguerite Churchill.  
 Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
 
-- sa 16 sep 17h00 HL
+- Sa 16 sep 17h00 HL
 
 [58507]  
 **Barbe-Noire, le pirate**  
@@ -20,5 +20,5 @@ de Raoul Walsh
 Avec Linda Darnell, Richard Egan, William Bendix.  
 Le célèbre pirate Barbe Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
 
-- je 21 sep 17h30 HL
+- Je 21 sep 17h30 HL
 

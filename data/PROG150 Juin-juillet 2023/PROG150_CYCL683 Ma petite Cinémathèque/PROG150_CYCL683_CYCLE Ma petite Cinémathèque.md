@@ -35,8 +35,8 @@ suivi de
 de Debora Cheyenne Cruchon  
 France / 2015 / 3 min / Numérique
 
-- me 31 mai 15h00 GF  
-- di 4 juin 15h00 GF
+- Me 31 mai 15h00 GF  
+- Di 4 juin 15h00 GF
 
 [31156]  
 **Le Cirque**  
@@ -46,7 +46,7 @@ de Charles Chaplin
 Avec Charles Chaplin, Merna Kennedy, Al Ernest Garcia.  
 Poursuivi par la police, Charlot se réfugie dans un cirque en pleine représentation. Embauché par le directeur, il tombe amoureux de la belle écuyère, mais elle lui préfère Rex, le funambule.
 
-- me 7 juin 15h00 GF
+- Me 7 juin 15h00 GF
 
 [32340]  
 **La Charge héroïque**  
@@ -57,7 +57,7 @@ D'après le roman _The Big Hunt_ de James Warner Bellah.
 Avec John Wayne, Joanne Dru, John Agar.  
 [JP] Après la défaite du général Custer à la bataille de Little Big Horn, les tribus indiennes se regroupent pour partir en guerre contre les visages pâles. Le capitaine Nathan Brittles entreprend un long et dangereux périple pour mettre madame Allshard et sa nièce Olivia en lieu sûr.
 
-- di 11 juin 15h00 GF
+- Di 11 juin 15h00 GF
 
 [51367]  
 **Mon oncle**  
@@ -66,7 +66,7 @@ France-Italie / 1957 / 120 min / DCP
 Avec Jacques Tati, Jean-Pierre Zola, Adrienne Servantie, Alain Bécourt.  
 [JP] D'un côté la maison ultra-moderne de la famille Arpel, de l'autre la drôle de maison tarabiscotée de monsieur Hulot... Entre les deux, le petit Gérard navigue et observe le drôle de manège des adultes.
 
-- me 14 juin 15h00 GF
+- Me 14 juin 15h00 GF
 
 [65889]  
 **Mon voisin Totoro**  
@@ -75,7 +75,7 @@ de Hayao Miyazaki
 Japon / 1988 / 86 min / VF / DCP  
 [JP] Satsuki et Mei, deux petites filles, s'installent avec leur père dans une grande maison à la campagne. En se baladant dans la nature environnante, elles font la rencontre du Totoro, une créature magique qui protège la forêt.
 
-- di 18 juin 15h00 GF
+- Di 18 juin 15h00 GF
 
 [35767]  
 **Monte là-dessus**  
@@ -85,7 +85,7 @@ de Sam Taylor, Fred Newmeyer
 Avec Harold Lloyd, Mildred Davis.  
 Harold, vendeur dans une boutique, a une grande idée : faire de la publicité pour le magasin en faisant escalader la façade par un ami acrobate. Mais il se retrouve suspendu aux aiguilles de la grande horloge.
 
-- me 21 juin 15h00 GF
+- Me 21 juin 15h00 GF
 
 [84596]  
 **Panorama pris d'un train en marche**  
@@ -123,7 +123,7 @@ suivi de
 de Georges Méliès  
 France / 1898 / 1 min / 16 mm
 
-- di 25 juin 15h00 GF
+- Di 25 juin 15h00 GF
 
 [32739]  
 **Sherlock Jr.**  
@@ -132,7 +132,7 @@ de Buster Keaton
 Avec Buster Keaton, Kathryn McGuire, Ward Crane.  
 [JP] Buster, qui rêve de devenir détective, projette des films dans un cinéma de quartier. Quand il s'endort dans la cabine, il peut entrer dans l'écran et, de l'autre côté, c'est lui qui mène l'enquête.
 
-- me 28 juin 15h00 GF
+- Me 28 juin 15h00 GF
 
 [35285]  
 **Le Pirate**  
@@ -142,7 +142,7 @@ D'après la pièce _The Pirate_ de S. N. Behrman.
 Avec Gene Kelly, Judy Garland, Lola Albright, Walter Slezak.  
 Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le connaître, mais sa tante veut la marier au riche et influent Don Pedro Vargas. Elle rencontre Serafin, un saltimbanque, qui, pour la séduire, se fait passer pour le fameux pirate.
 
-- di 2 juil 15h00 HL
+- Di 2 juil 15h00 HL
 
 [45718]  
 **Le Livre de la jungle**  
@@ -152,7 +152,7 @@ de Wolfgang Reitherman
 Avec George Sanders, Louis Prima, Phil Harris, Claude Bertrand, René Arrieu.  
 Mowgli, « petit d'homme » élevé par les loups, est en danger : le tigre Shere Khan est de retour dans la jungle. Pour le mettre à l'abri, la panthère Bagheera décide de le ramener parmi les hommes. Dans leur périple, les deux amis vont rencontrer les différents habitants de la jungle.
 
-- me 5 juil 15h00 GF
+- Me 5 juil 15h00 GF
 
 [41594]  
 **La Main au collet**  
@@ -163,5 +163,5 @@ D'après le roman _La Main au collet_ de David Dodge.
 Avec Cary Grant, Grace Kelly, Charles Vanel.  
 Un ancien cambrioleur profite d'une retraite paisible sur la Côte d'Azur, jusqu'au jour où il est suspecté d'être l'auteur d'une série de vols commis dans la région. Pour prouver son innocence, il va devoir identifier le vrai coupable.
 
-- di 9 juil 15h00 GF
+- Di 9 juil 15h00 GF
 

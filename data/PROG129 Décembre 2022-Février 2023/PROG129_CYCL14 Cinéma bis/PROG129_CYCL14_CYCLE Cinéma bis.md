@@ -9,7 +9,7 @@ France-Italie-RFA / 1973 / 124 min / Autres / 35 mm
 Avec Yul Brynner, Henry Fonda, Dirk Bogarde.  
 À l'aéroport Orly, alors qu'il allait embarquer, un colonel du KGB se rend à la police pour demander asile aux États-Unis. Il est intercepté par les services secrets français, qui espèrent lui soutirer des renseignements.
 
-- ve 2 déc 18h30 GF
+- Ve 2 déc 18h30 GF
 
 [46935]  
 **Espion, lève-toi**  
@@ -19,7 +19,7 @@ D'après le roman _Espion, lève-toi !_ de George Markstein.
 Avec Lino Ventura, Michel Piccoli, Bruno Cremer.  
 Un ancien espion, en sommeil depuis plusieurs années et désormais à la tête d'une société fiduciaire à Zurich, doit reprendre du service à la suite d'une vague d'attentats terroristes qui frappe la région.
 
-- ve 2 déc 21h00 GF
+- Ve 2 déc 21h00 GF
 
 ## Roger Corman : d'Egdar Allan Poe à H. P. Lovecraft
 
@@ -32,7 +32,7 @@ D'après la nouvelle _Ligeia_ d'Edgan Allan Poe.
 Avec Vincent Price, Elizabeth Shepherd, John Westbrook.  
 Un homme de la haute bourgeoisie est hanté par des visions de sa défunte femme. Il est certain d'une chose : sa nouvelle compagne est possédée par l'esprit diabolique de celle-ci.
 
-- ve 9 déc 19h30 GF
+- Ve 9 déc 19h30 GF
 
 [31938]  
 **La Malédiction d'Arkham**  
@@ -43,7 +43,7 @@ D'après le roman _L'Affaire Charles Dexter Ward_ de Howard Phillips Lovecraft e
 Avec Vincent Price, Debra Paget, Lon Chaney Jr..  
 Un sorcier lance une malédiction sur un groupe de villageois. Des années plus tard, l'un de ses descendants revient dans le hameau maudit.
 
-- ve 9 déc 21h30 GF
+- Ve 9 déc 21h30 GF
 
 ## Eurospy excentrique
 
@@ -55,7 +55,7 @@ Italie-France / 1966 / 84 min / VF / 35 mm
 Avec Roger Hanin, Rory Calhoun, Jean Gaven, Evi Marandi.  
 Les États-Unis passent un contrat secret avec un pays du Moyen-Orient : la vente d'armes en échange de droits exclusifs sur des ressources pétrolières. L'URSS décide de voler le document pour intercepter le navire concerné.
 
-- ve 23 déc 19h00 GF
+- Ve 23 déc 19h00 GF
 
 [42556]  
 **Ça casse à Caracas**  
@@ -65,7 +65,7 @@ RFA-Italie-France / 1966 / 90 min / VF / 35 mm
 Avec Giorgio Ardisson, Pascale Audret, Horst Frank.  
 Un détective privé, lancé sur la piste de la fille d'un milliardaire disparue à Caracas, se rend compte qu'elle enquêtait sur divers trafics.
 
-- ve 23 déc 21h00 GF
+- Ve 23 déc 21h00 GF
 
 ## Hollywood contre les rouges
 
@@ -77,7 +77,7 @@ D'après l'article _I Posed As a Communist for the FBI_ de Pete Martin.
 Avec Frank Lovejoy, Dorothy Hart, Philip Carey.  
 Matt Cvetic infiltre le Parti communiste pour le compte du FBI. Sa famille, ignorant qu'il mène une double vie et le pensant sincère, le méprise pour ses convictions.
 
-- ve 30 déc 19h00 GF
+- Ve 30 déc 19h00 GF
 
 [153986]  
 **The Red Menace**  
@@ -86,7 +86,7 @@ de R. G. Springsteen
 Avec Robert Rockwell, Betty Lou Gerson, Barbra Fuller.  
 Bill Jones, un ex-GI, intègre le Parti communiste américain et tombe amoureux de l'une de ses militantes. Ils se rendent compte progressivement de leur erreur lorsqu'ils voient les chefs du parti assassiner un membre qui remet en question les principes et les valeurs inculqués.
 
-- ve 30 déc 21h00 GF
+- Ve 30 déc 21h00 GF
 
 ## L'espionnage
 
@@ -98,7 +98,7 @@ de Russell Rouse
 Avec Ray Milland, Martin Gabel, Rita Gam.  
 Un physicien américain qui a trahi son pays est désormais contraint de communiquer à des agents étrangers des microfilms de haute importance.
 
-- ve 6 jan 19h00 GF
+- Ve 6 jan 19h00 GF
 
 [45433]  
 **Contre-espionnage**  
@@ -109,7 +109,7 @@ D'après le récit _My Ten Years As a Counterspy_ de Boris Morros.
 Avec Ernest Borgnine, Kerwin Mathews, Colleen Dewhurst.  
 Un émigré russe à Hollywood, travaillant pour les services secrets de son pays, est démasqué par les Américains qui le forcent à devenir un agent double.
 
-- ve 6 jan 21h00 GF
+- Ve 6 jan 21h00 GF
 
 ## British spies, le retour
 
@@ -122,7 +122,7 @@ D'après le roman _Bourreau, fais ton métier !_ de Donald C. Downes.
 Avec Lillian Gish, James Robertson Justice, Eddie Albert.  
 Pendant l'Occupation, un jeune pilote américain est chargé de tuer un agent double au sein de la Résistance. Mais lorsqu'il fait la connaissance de la cible à abattre, il se met à douter et refuse d'assassiner un innocent.
 
-- ve 13 jan 19h00 GF
+- Ve 13 jan 19h00 GF
 
 [84200]  
 **L'Espion du diable**  
@@ -133,7 +133,7 @@ D'après le roman _Im Namen des Teufels_ de Hans Habe.
 Avec Peter Van Eyck, Marianne Koch, Macdonald Carey.  
 En Allemagne de l'Est, un agent double tombe amoureux d'une réfugiée hongroise.
 
-- ve 13 jan 21h30 GF
+- Ve 13 jan 21h30 GF
 
 ## Mythologie française
 
@@ -145,7 +145,7 @@ D'après le roman _La Nuit des espions_ de Robert Chazal.
 Avec Marina Vlady, Robert Hossein, Michel Etcheverry.  
 Pendant la Seconde guerre mondiale, deux espions, un homme et une femme, se rencontrent dans un chalet de montagne.
 
-- ve 27 jan 19h00 GF
+- Ve 27 jan 19h00 GF
 
 [31615]  
 **L'Espion**  
@@ -155,7 +155,7 @@ D'après le roman _L'Espion_ de Paul Thomas.
 Avec Montgomery Clift, Hardy Krüger, Macha Méril.  
 Guerre froide, Allemagne. James Bower, un scientifique américain, est recruté par un agent de la CIA afin d'entrer en liaison avec le physicien soviétique Goshenko, qui détient des microfilms ultrasecrets et souhaite passer à l'Ouest.
 
-- ve 27 jan 21h15 GF
+- Ve 27 jan 21h15 GF
 
 [50275]  
 **Peau d'espion**  
@@ -165,7 +165,7 @@ D'après le roman _Peau d'espion_ de Jacques Robert.
 Avec Louis Jourdan, Senta Berger, Bernard Blier, Edmond O'Brien.  
 Depuis la fin de la guerre d'Algérie, un romancier, Charles Beaulieu, vit dans une délicate situation financière qui le pousse à collaborer avec les services secrets.
 
-- ve 17 fév 19h00 GF
+- Ve 17 fév 19h00 GF
 
 [52963]  
 **Espions à l'affût**  
@@ -175,7 +175,7 @@ Avec Claudine Coster, Jean Vinci, Anna Gaël.
 Compromis dans une affaire de vol de diamants, un homme se réfugie chez son ancienne épouse où il est rejoint par un mystérieux agent d'assurances.  
 Film également connu sous le titre _La Chaleur de minuit_.
 
-- ve 17 fév 21h00 GF
+- Ve 17 fév 21h00 GF
 
 ## Espionnage à la coréenne
 
@@ -187,7 +187,7 @@ Corée / 2018 / 140 min / VOSTF / DCP
 Avec Hwang Jung-min, Lee Seong-min, Jo Jin-woong.  
 Séoul, 1993. Un ancien officier est engagé par les services secrets sud-coréens pour enquêter sur le programme nucléaire de la Corée du Nord. Il infiltre un groupe de dignitaires de Pyongyang.
 
-- ve 24 fév 18h30 HL
+- Ve 24 fév 18h30 HL
 
 [154104]  
 **Shiri**  
@@ -196,7 +196,7 @@ Corée / 1999 / 126 min / VOSTF / 35 mm
 Avec Kim Yoon-jin, Han Suk-kyu, Choi Min-sik.  
 Yu Jung-won, un agent des services secrets de Corée du Sud, enquête sur un projet d'attentat organisé par la Corée du Nord.
 
-- ve 24 fév 21h15 HL
+- Ve 24 fév 21h15 HL
 
 ## Doubles trahisons
 
@@ -209,7 +209,7 @@ D'après le roman _Un trou dans la neige_ de Henry S. Maxfield.
 Avec Yul Brynner, Britt Ekland, Clive Revill.  
 Après la mort de son fils dans un accident de ski, un agent de la CIA se rend dans les Alpes autrichiennes pour l'enterrement. Il se retrouve rapidement au centre d'une conspiration.
 
-- ve 3 mar 19h00 GF
+- Ve 3 mar 19h00 GF
 
 [66042]  
 **Notre agent à Salzbourg**  
@@ -220,6 +220,6 @@ D'après le roman _The Salzburg Connection_ de Helen MacInnes.
 Avec Anna Karina, Wolfgang Preiss, Klaus Maria Brandauer.  
 Bill Mathison se rend à Salzbourg pour évaluer l'ouvrage de Richard Bryant sur les lacs autrichens. Après la disparition brutale de Bryant, il se retrouve plongé dans une sombre histoire d'espionnage.
 
-- ve 3 mar 21h15 GF
+- Ve 3 mar 21h15 GF
 
 Remerciements : Gaumont, Productions Roitfeld, Emmanuel Rossi

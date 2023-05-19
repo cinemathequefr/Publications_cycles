@@ -13,7 +13,7 @@ D'après le roman _Les Deux Sacrements_ de Heinrich Böll.
 Avec Henning Harmssen, Ulrich Hopmann, Ulrich von Thüna, Ernst Kutzinski.  
 Des personnages non réconciliés avec leur passé reviennent sur cinquante ans d'histoire allemande, des années 1910 au miracle économique de l'après-guerre.
 
-- je 1 juin 19h30 GF
+- Je 1 juin 19h30 GF
 
 [35287]  
 **Comme un torrent**  
@@ -24,6 +24,6 @@ D'après le roman _Comme un torrent_ de James Jones.
 Avec Frank Sinatra, Dean Martin, Shirley MacLaine, Arthur Kennedy.  
 Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tous points son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature.
 
-- me 5 juil 19h00 HL
+- Me 5 juil 19h00 HL
 
 Remerciements : Capricci, Warner Bros.

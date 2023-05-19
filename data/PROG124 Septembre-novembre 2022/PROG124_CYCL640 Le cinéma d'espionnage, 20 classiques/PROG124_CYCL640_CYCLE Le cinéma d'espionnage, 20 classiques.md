@@ -9,8 +9,8 @@ de Henry Hathaway
 Avec James Cagney, Annabella, Richard Conte.  
 Pendant la Seconde Guerre mondiale, des agents secrets américains effectuent une mission dans la France occupée. Mais parmi eux se cache un espion nazi.
 
-- lu 26 sep 14h30 GF  
-- sa 22 oct 15h00 GF
+- Lu 26 sep 14h30 GF  
+- Sa 22 oct 15h00 GF
 
 [46121]  
 **Les 39 marches**  
@@ -21,7 +21,7 @@ D'après le roman _Les Trente-neuf marches_ de John Buchan.
 Avec Robert Donat, Madeleine Carroll, Lucie Mannheim.  
 Richard Hannay accepte de cacher chez lui une jeune femme qui prétend être poursuivie. Elle est assassinée pendant la nuit. Pour se disculper, il n'a d'autre choix que de mener lui-même l'enquête.
 
-- di 27 nov 17h00 GF
+- Di 27 nov 17h00 GF
 
 [33673]  
 **L'Affaire Cicéron**  
@@ -32,7 +32,7 @@ D'après le récit _Der Fall Cicero_ de Ludwig Carl Moyzisch.
 Avec James Mason, Danielle Darrieux, Michael Rennie, Walter Hampden.  
 Ankara, 1943. Sous le nom de code Cicéron, Diello, le valet de l'ambassadeur britannique, revend des documents secrets aux nazis. Avec la complicité de son ancienne patronne, la comtesse Anna Slaviska, il entreprend d'amasser une petite fortune. Mais les Anglais, s'apercevant des fuites, envoient un agent du contre-espionnage.
 
-- di 30 oct 14h30 HL
+- Di 30 oct 14h30 HL
 
 [37039]  
 **Agent X27**  
@@ -42,7 +42,7 @@ de Josef von Sternberg
 Avec Marlene Dietrich, Victor McLaglen, Gustav von Seyffertitz, Warner Oland.  
 En 1915, à Vienne, la prostituée Magda Kolverer devient l'agent X27, espionne au service de l'empire austro-hongrois.
 
-- di 13 nov 14h30 HL
+- Di 13 nov 14h30 HL
 
 [117418]  
 **Argo**  
@@ -52,7 +52,7 @@ D'après le roman _The Master of Disguise_ d'Antonio J. Mendez.
 Avec Ben Affleck, Bryan Cranston, John Goodman.  
 Téhéran, 1979. Les employés de l'ambassade américaine sont retenus prisonniers par les Gardiens de la Révolution alors que six diplomates parviennent à s'échapper et se réfugient chez l'ambassadeur du Canada. La CIA charge un de ses agents, Antonio Mendez, de les exfiltrer.
 
-- di 23 oct 14h30 HL  
+- Di 23 oct 14h30 HL  
 Voir aussi dialogue p. xx
 
 [40196]  
@@ -64,7 +64,7 @@ D'après la nouvelle _The Song of the Dragon_ de John Taintor Foote.
 Avec Cary Grant, Ingrid Bergman, Claude Rains.  
 Les services secrets américains recrutent la fille d'un ancien espion nazi pour démasquer les complices de son père.
 
-- di 6 nov 14h30 HL
+- Di 6 nov 14h30 HL
 
 [45934]  
 **L'Espion qui venait du froid**  
@@ -75,7 +75,7 @@ D'après le roman _L'Espion qui venait du froid_ de John le Carré.
 Avec Richard Burton, Oskar Werner, Claire Bloom.  
 Pendant la guerre froide, l'agent britannique Alec Leamas doit infiltrer le contre-espionnage est-allemand afin de persuader l'agent Fiedler d' éliminer son propre chef, Hans-Dieter Mundt.
 
-- je 24 nov 18h00 GF
+- Je 24 nov 18h00 GF
 
 [47753]  
 **Les Espions**  
@@ -86,7 +86,7 @@ Avec Gérard Séty, Curd Jürgens, Véra Clouzot, Peter Ustinov.
 Le docteur Malik, directeur d'une clinique psychiatrique en faillite, est contraint d'accepter d'héberger un espion dans son établissement.  
 Restauration 2K par TF1 DA (2015).
 
-- sa 5 nov 15h00 GF
+- Sa 5 nov 15h00 GF
 
 [40043]  
 **L'Étrange aventurière**  
@@ -96,7 +96,7 @@ Grande-Bretagne / 1946 / 112 min / VOSTF / 16 mm
 Avec Deborah Kerr, Trevor Howard, Raymond Huntley.  
 En 1944, une jeune Irlandaise se rend à Dublin, décidée à rejoindre l'IRA et combattre l'oppresseur anglais. Elle se retrouve recrutée sans le savoir par un espion nazi, qui utilise son engagement pour récolter des informations sur l'armée britannique.
 
-- sa 26 nov 17h30 GF
+- Sa 26 nov 17h30 GF
 
 [57324]  
 **Firefox, l'arme absolue**  
@@ -107,7 +107,7 @@ D'après le roman _Firefox_ de Craig Thomas.
 Avec Clint Eastwood, Freddie Jones, David Huffman.  
 Les services secrets américains obligent un pilote d'élite à se rendre en URSS pour y dérober un avion prototype.
 
-- sa 26 nov 20h30 GF
+- Sa 26 nov 20h30 GF
 
 [33427]  
 **La Lettre du Kremlin**  
@@ -118,7 +118,7 @@ D'après le roman _La Lettre du Kremlin_ de Noel Behn.
 Avec Orson Welles, Bibi Andersson, Richard Boone, Max von Sydow, George Sanders.  
 Des espions américains et soviétiques tentent de récupérer une lettre contenant des informations sur l'arsenal nucléaire chinois.
 
-- di 27 nov 19h00 GF
+- Di 27 nov 19h00 GF
 
 [35364]  
 **Marathon Man**  
@@ -128,7 +128,7 @@ D'après le roman _Marathon Man_ de William Goldman.
 Avec Dustin Hoffman, Laurence Olivier, Roy Scheider.  
 Babe, étudiant en histoire, s'entraîne dans Central Park pour le marathon de New York. Son frère Doc, membre d'une organisation gouvernementale secrète, est assassiné sous ses yeux.
 
-- sa 12 nov 14h30 HL
+- Sa 12 nov 14h30 HL
 
 [40195]  
 **La Mort aux trousses**  
@@ -138,7 +138,7 @@ d'Alfred Hitchcock
 Avec Cary Grant, Eva Marie Saint, James Mason.  
 Confondu avec un membre du contre-espionnage américain, le publicitaire Roger Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, s'engage dans une course-poursuite avec la police à travers les États-Unis.
 
-- me 26 oct 19h00 HL
+- Me 26 oct 19h00 HL
 
 [99186]  
 **OSS 117 : Le Caire, nid d'espions**  
@@ -148,7 +148,7 @@ D'après les romans _OSS 117_ de Jean Bruce.
 Avec Jean Dujardin, Bérénice Bejo, Aure Atika, Philippe Lefebvre.  
 Égypte, 1955. Le Caire est un véritable nid d'espions. Le président de la République française, René Coty, envoie son arme maîtresse mettre de l'ordre dans cette pétaudière au bord du chaos : Hubert Bonisseur de la Bath, dit « OSS 117 ».
 
-- sa 26 nov 14h30 HL
+- Sa 26 nov 14h30 HL
 
 [129185]  
 **Le Pont des espions**  
@@ -158,7 +158,7 @@ de Steven Spielberg
 Avec Tom Hanks, Mark Rylance, Amy Ryan, Alan Alda.  
 James Donovan, un avocat de Brooklyn qui a sauvé un espion soviétique de la peine de mort, se retrouve plongé au cœur de la guerre froide lorsque la CIA l'envoie à Berlin négocier la libération d'un pilote américain.
 
-- di 27 nov 14h30 HL
+- Di 27 nov 14h30 HL
 
 [41638]  
 **Le Rideau déchiré**  
@@ -168,7 +168,7 @@ d'Alfred Hitchcock
 Avec Paul Newman, Julie Andrews, Hansjörg Felmy, Lila Kedrova.  
 En pleine guerre froide, un physicien américain annonce qu'il passe à l'Est. Il compte en réalité y dérober des secrets scientifiques.
 
-- di 20 nov 14h30 HL  
+- Di 20 nov 14h30 HL  
 Voir aussi dialogue p. xx
 
 [37893]  
@@ -178,7 +178,7 @@ de Michael Winner
 Avec Burt Lancaster, Alain Delon, Paul Scofield.  
 Gerald Cross, vétéran de la CIA, est injustement accusé par ses supérieurs d'être un agent double. Son protégé, l'ambitieux Jean Laurier – nom de code Scorpio – est en charge de le traquer et de l'éliminer.
 
-- je 24 nov 20h30 GF
+- Je 24 nov 20h30 GF
 
 [48083]  
 **La Sentinelle**  
@@ -187,7 +187,7 @@ France / 1992 / 139 min / DCP
 Avec Emmanuel Salinger, Thibault de Montalembert, Bruno Todeschini, Marianne Denicourt.  
 Lors d'un voyage en train, Mathias découvre dans sa valise une tête humaine momifiée. Dès lors, il n'aura de cesse d'en percer le mystère, s'enfermant dans son obsession et s'isolant peu à peu du monde.
 
-- sa 19 nov 14h30 HL  
+- Sa 19 nov 14h30 HL  
 Voir aussi dialogue p. xx
 
 [76746]  
@@ -198,7 +198,7 @@ de Tony Scott
 Avec Robert Redford, Brad Pitt, Catherine McCormack.  
 Un agent de la CIA sur le point de prendre sa retraite apprend que son ancien partenaire a été condamné à mort à la suite d'une mission où, sans l'aval de ses supérieurs, il comptait exfiltrer de Chine un détenu étranger.
 
-- sa 29 oct 15h00 GF
+- Sa 29 oct 15h00 GF
 
 [56871]  
 **Top secret**  
@@ -209,7 +209,7 @@ D'après le roman _The Tamarind Seed_ d'Evelyn Anthony.
 Avec Julie Andrews, Omar Sharif, Anthony Quayle.  
 Une employée du ministère des Affaires étrangères britannique et un attaché militaire de l'ambassade soviétique tombent amoureux durant un séjour à la Barbade. Leurs services respectifs ne voient pas leur relation d'un bon œil.
 
-- di 20 nov 19h30 GF
+- Di 20 nov 19h30 GF
 
 ## Rencontres et conférences
 
@@ -219,7 +219,7 @@ Rencontre animée par Bernard Benoliel
 Bernard Benoliel est directeur de l'Action culturelle et éducative de la Cinémathèque française.  
 Rafi Pitts est cinéaste. Il grandit à Téhéran auprès de sa mère, décoratrice de théâtre et de cinéma. Il fait la connaissance d'Abbas Kiarostami lors du tournage du film _Le Rossignol_ (1974), dans lequel il tient le rôle principal à l'âge de 7 ans. Il émigre en Europe en 1981 alors que la guerre entre l'Irak et l'Iran fait rage. En 1991, il est diplômé en cinéma et photographie de la Polytechnic of Central London (Université de Westminster). La même année, il tourne son premier court-métrage, _En exil_, puis un autre, _Salandar,_ en 1994. Depuis 1997, il a réalisé cinq longs métrages de fiction : _Cinquième saison_, _Sanam_, _C'est l'hiver_, _The Hunter_ (où il tient le rôle principal) et _Soy Nero_ en 2016. En 2003, il a tourné un documentaire pour la série « Cinéma, de notre temps » : _Abel Ferrara: Not Guilty_.
 
-- di 23 oct 14h30 HL  
+- Di 23 oct 14h30 HL  
 À la suite de la projection de _Argo_ de Ben Affleck (voir p. xx)
 
 **Film + dialogue avec Arnaud Desplechin**  
@@ -230,7 +230,7 @@ Frédéric Bonnaud est directeur général de la Cinémathèque française.
 Arnaud Desplechin est cinéaste. Il a notamment réalisé le court métrage _La Vie des morts_ (1991) et, entre autres, les longs métrages _La Sentinelle_ (1992), _Trois souvenirs de ma jeunesse_ (2015), _Les Fantômes d'Ismaël_ (2017). _Frère et sœur_ (2022) est son dernier film en date.  
 Tarif B (9,50 €)
 
-- sa 19 nov 14h30 HL  
+- Sa 19 nov 14h30 HL  
 À la suite de la projection de _La Sentinelle_ d'Arnaud Desplechin (voir p. xx)
 
 **Film + dialogue avec Arnaud Desplechin**  
@@ -240,7 +240,7 @@ Bernard Benoliel est directeur de l'Action culturelle et éducative de la Ciném
 Arnaud Desplechin est cinéaste. Il a notamment réalisé le court métrage _La Vie des morts_ (1991) et, entre autres, les longs métrages _La Sentinelle_ (1992), _Trois souvenirs de ma jeunesse_ (2015), _Les Fantômes d'Ismaël_ (2017). _Frère et sœur_ (2022) est son dernier film en date.  
 Tarif B (9,50 €)
 
-- di 20 nov 14h30 HL  
+- Di 20 nov 14h30 HL  
 À la suite de la projection de _Le Rideau déchiré_ d'Alfred Hitchcock (voir p. xx)
 
 Remerciements : Les Acacia, Carlotta Films, Cinémathèque du Luxembourg, Cinémathèque Royale de Belgique, Park Circus, Swashbuckler Films, Tamasa Distribution, The Walt Disney Company France, Warner Bros Picture France, Warner Bros. Entertainment France, Why Not Productions.

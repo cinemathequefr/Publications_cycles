@@ -8,7 +8,7 @@
 de Jerry Lewis  
 États-Unis / 1960 / 72 min
 
-- me 8 nov 20h00 HL  
+- Me 8 nov 20h00 HL  
 Ouverture de la rétrospective
 
 [33623]  
@@ -19,7 +19,7 @@ de Jerry Lewis
 Avec Jerry Lewis, Stella Stevens.  
 Les mésaventures d'un doux dingue professeur de chimie s'enchaînent dans cette parodie de _Dr Jekyll et Mr Hyde_, entre mimiques et pitreries délirantes.
 
-- je 23 nov 19h00 HL
+- Je 23 nov 19h00 HL
 
 [127627]  
 **Jerry Lewis**  
@@ -28,7 +28,7 @@ d'Annett Wolf
 Danemark / 1972 / 42 min / VOSTF / Numérique  
 Sur le plateau de son film _The Day the clown Cried_, Lewis donne sa vision de la comédie, du drame, de la mise en scène, et montre à un acteur comment mourir au ralenti.
 
-- sa 25 nov 18h00 GF
+- Sa 25 nov 18h00 GF
 
 [33879]  
 **Jerry souffre douleur**  
@@ -36,14 +36,14 @@ Sur le plateau de son film _The Day the clown Cried_, Lewis donne sa vision de l
 de Jerry Lewis  
 États-Unis / 1964 / 101 min / VOSTF / 35 mm
 
-- sa 11 nov 14h30 HL
+- Sa 11 nov 14h30 HL
 
 [41629]  
 **One More Time**  
 de Jerry Lewis  
 Grande-Bretagne / 1969 / 93 min
 
-- je 9 nov 21h15 GF
+- Je 9 nov 21h15 GF
 
 [53748]  
 **T'es fou Jerry !**  
@@ -51,7 +51,7 @@ Grande-Bretagne / 1969 / 93 min
 de Jerry Lewis  
 États-Unis / 1982 / 90 min / 35 mm
 
-- sa 25 nov 14h30 HL
+- Sa 25 nov 14h30 HL
 
 [45090]  
 **Le Tombeur de ces dames**  
@@ -60,7 +60,12 @@ de Jerry Lewis
 États-Unis / 1961 / 106 min / VOSTF / DCP  
 Avec Jerry Lewis, Helen Traubel, Kathleen Freeman.
 
-- sa 18 nov 14h30 HL
+- Sa 18 nov 14h30 HL
 
 ## Rencontres et conférences
+
+**« Jerry Lewis Cinéaste » par Damien Bertrand**  
+**Conférence **
+
+- Je 9 nov 19h00 GF
 

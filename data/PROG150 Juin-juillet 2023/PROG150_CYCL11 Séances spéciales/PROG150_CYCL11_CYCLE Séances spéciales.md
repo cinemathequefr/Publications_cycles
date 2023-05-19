@@ -8,7 +8,7 @@ de Sébastien Lifshitz
 France-États-Unis / 2022 / 97 min / DCP  
 Dans les années 1950-1960, aux pieds des monts Catskills (État de New York), une petite maison en bois adossée à une grange a abrité le premier réseau clandestin de travestis. Diane et Kate ont aujourd'hui 80 ans. À l'époque, elles étaient des hommes et faisaient partie de cette organisation secrète.
 
-- lu 5 juin 20h00 HL  
+- Lu 5 juin 20h00 HL  
 Avant-première
 
 ## François Truffaut et Helen Scott : Correspondance
@@ -20,7 +20,7 @@ France / 1964 / 119 min
 Avec Jean Desailly, Françoise Dorléac, Nelly Benedetti.  
 Pierre Lachenay, écrivain à succès et marié, entame une liaison avec Nicole, une hôtesse de l'air, sans parvenir à quitter sa femme.
 
-- di 2 juil 14h30 GF  
+- Di 2 juil 14h30 GF  
 Voir aussi dialogue p. xx
 
 ## Rencontres et conférences
@@ -31,7 +31,7 @@ Dialogue entre Serge Toubiana et Frédéric Bonnaud avant la projection de _La P
 Frédéric Bonnaud est directeur général de la Cinémathèque française.  
 Serge Toubiana est l'auteur de la biographie de François Truffaut (Gallimard, 1996 ; Folio, 2001, avec Antoine de Baecque) et de _L'Amie américaine_, consacré à Helen Scott (Stock, 2020). Directeur de la Cinémathèque française de 2003 à janvier 2016, il est président d'Unifrance.
 
-- di 2 juil 14h30 GF  
+- Di 2 juil 14h30 GF  
 À la suite de la projection de _La Peau douce_ de François Truffaut (voir p. xx)
 
 Remerciements : Les Bookmakers, Les Films du Losange, The Jokers Films.

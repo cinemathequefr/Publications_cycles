@@ -23,7 +23,7 @@ Avec Tippi Hedren, Melanie Griffith, Noel Marshall.
 Hank, scientifique américain installé en Afrique, étudie les félins en vivant parmi eux. Son épouse Madeleine et leurs enfants Melanie, John et Jerry, décident de venir lui rendre visite.  
 « Mais voici qu'à notre stupeur, le metteur en scène abandonne les plans rapprochés, isolant les protagonistes du drame, pour nous offrir simultanément, dans le même plan général, les parents, l'enfant et le fauve. (...) Le réalisme réside ici dans l'homogénéité de l'espace. On voit donc qu'il est des cas où, loin de constituer l'essence du cinéma, le montage en est la négation. La même scène, selon qu'elle ait été traitée par le montage ou en plan d'ensemble, peut n'être que de la mauvaise littérature ou devenir du grand cinéma. » (André Bazin, à propos du film _Quand les vautours ne volent plus_ de Harry Watt, 1951)
 
-- je 8 juin 19h30 GF
+- Je 8 juin 19h30 GF
 
 [35701]  
 **La Fugue**  
@@ -33,7 +33,7 @@ d'Arthur Penn
 Avec Gene Hackman, Susan Clark, Melanie Griffith, James Woods.  
 Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de 16 ans, qui vient de fuguer. Tandis qu'il découvre que son épouse Ellen le trompe avec un autre homme, Harry part à la recherche de la jeune fille et la retrouve en Floride, dans une maison en bord de mer.
 
-- je 15 juin 19h30 GF
+- Je 15 juin 19h30 GF
 
 [31509]  
 **Riches et célèbres**  
@@ -44,7 +44,7 @@ D'après la pièce _Old Acquaintance_ de John Van Druten.
 Avec Candice Bergen, David Selby, Jacqueline Bisset.  
 1959 : Merry épouse Doug Blake, et fait ses adieux à Liz, sa meilleure amie secrètement amoureuse de Doug. 1969 : Liz, devenue une romancière célèbre, revoit les deux époux à Malibu. Merry a écrit un livre sur leur jeunesse et soumet son projet à Liz.
 
-- je 22 juin 19h00 GF
+- Je 22 juin 19h00 GF
 
 [95866]  
 **Spanglish**  
@@ -53,6 +53,6 @@ de James L. Brooks
 Avec Adam Sandler, Téa Leoni, Paz Vega.  
 À Los Angeles, Flor, une jeune Mexicaine sans argent, trouve une place de gouvernante chez les Clasky, un couple aisé avec deux enfants. Déroutée, Flor observe les ratés de cette « famille parfaite ». Malgré leurs différences, ils vont tenter d'apprendre à vivre ensemble.
 
-- je 29 juin 19h00 GF
+- Je 29 juin 19h00 GF
 
 Remerciements : Carlotta, Columbia Tristar Films, Warner Bros.

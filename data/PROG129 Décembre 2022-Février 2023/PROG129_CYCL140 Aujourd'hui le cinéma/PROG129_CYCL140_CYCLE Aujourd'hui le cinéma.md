@@ -17,7 +17,7 @@ France / 2022 / 59 min / DCP
 Avec Audrey Carmes, Virgil Vernier, Neel, Laurence Sanchez.  
 Audrey rejoint un chantier participatif isolé du monde extérieur où Kathleen, Laurence et Baptiste, volontaires de divers horizons, vivent et travaillent sous la tutelle d'Aymeric. Dans un groupe marqué par sa disparité, chacun tente de trouver ses repères, de créer du lien et de faire communauté.
 
-- lu 5 déc 19h30 JE
+- Lu 5 déc 19h30 JE
 
 ## Les 30 ans de l'ACID
 
@@ -37,7 +37,7 @@ France / 2000 / 106 min / 35 mm
 Avec Corinne Debonnière, Jonathan Zaccaï, Laurence Février.  
 Sybille, incorrigible romantique, croise le regard de Victor. À 30 ans, elle vit encore chez ses parents dans l'attente perpétuelle du grand amour. Victor est beau, libre, mystérieux. Elle l'amène chez elle. Il s'y trouve bien. Elle le présente à ses parents. Il s'installe.
 
-- lu 12 déc 19h00 JE  
+- Lu 12 déc 19h00 JE  
 Séance présentée par Yves Caumon, Anne Villacèque et Pauline Ginot
 
 ## Courts métrages d'animation
@@ -86,7 +86,7 @@ de Raphaëlle Stolz
 France-Suisse / 2021 / 14 min / DCP  
 Un cadavre participe malgré lui à l'inauguration d'un cimetière. Face à sa propre mort, il commence à apprécier la vie et essaie de le partager avec les habitants du village, tellement intrigués par l'idée de la mort qu'ils ont mis le reste de côté.
 
-- lu 19 déc 19h00 JE  
+- Lu 19 déc 19h00 JE  
 Séance présentée par Francis Gavelle
 
 ## Arnaud Simon
@@ -114,7 +114,7 @@ France / 2017 / 48 min / DCP
 Avec Arnaud Simon, Dominique Reymond, Gaëtan Vourc'h.  
 Hugues a 40 ans, il est acteur mais ne veut plus jouer. Il s'est réfugié avec Serge, son compagnon, dans la maison où il a grandi. Mais quand on lui propose un rôle au théâtre, Serge lui pose un ultimatum : c'est lui ou la pièce.
 
-- lu 9 jan 19h00 JE  
+- Lu 9 jan 19h00 JE  
 Séance suivie d'une discussion avec Arnaud Simon. Séance présentée par Pascal Cervo
 
 ## Xavier Baert
@@ -146,7 +146,7 @@ de Xavier Baert
 France / 2022 / 115 min / Numérique  
 « Avec _Contrechants / Atlas_, atlas de photographies et de textes réalisés depuis février 2021, il s'agit, dans la continuité de mes écrits sur le Brésil depuis 2015, de ma ville d'adoption, São Paulo, et de la situation politique du Brésil, qui relève déjà d'un processus historique de longue durée. » (Xavier Baert)
 
-- lu 16 jan 19h00 JE  
+- Lu 16 jan 19h00 JE  
 Séance suivie d'une discussion avec Xavier Baert
 
 ## Gaël Lépingle
@@ -160,7 +160,7 @@ France / 2022 / 84 min / DCP
 Avec Léo Pochat, Yves-Batek Mendy, Edouard Prévot, Serge Renko.  
 Villages isolés, après-midi suspendues, désirs d'aventure. Des garçons qui aiment les garçons, et le travestissement qui les relie comme une formule secrète.
 
-- lu 23 jan 20h30 GF  
+- Lu 23 jan 20h30 GF  
 Avant-première. Séance suivie d'une discussion avec Gaël Lépingle
 
 ## David Depesseville
@@ -174,7 +174,7 @@ France / 2022 / 104 min / DCP
 Avec Mirko Giannini, Jehnny Beth, Bastien Bouillon, Lorine Delin.  
 Samuel, jeune orphelin à l'allure sauvage, est placé depuis quelques semaines dans le Morvan chez Marie, Clément et leurs deux garçons. Il s'émancipe, découvre les sensations et les troubles de son âge, mais il doit aussi faire face aux secrets de cette nouvelle famille.
 
-- lu 30 jan 20h15 GF  
+- Lu 30 jan 20h15 GF  
 Avant-première. Séance suivie d'une discussion avec David Depesseville
 
 ## Aurélia Georges
@@ -189,7 +189,7 @@ D'après le roman _La Morte vivante_ de Wilkie Collins.
 Avec Lyna Khoudri, Sabine Azéma, Maud Wyler, Laurent Poitrenaux.  
 Nélie, qui a échappé à une existence misérable en devenant infirmière auxiliaire sur le front en 1914, prend l'identité de Rose, qu'elle a vu mourir sous ses yeux et qui était promise à un meilleur avenir. Nélie se présente chez une riche veuve, dont elle devient la lectrice.
 
-- lu 6 fév 19h00 JE  
+- Lu 6 fév 19h00 JE  
 Séance suivie d'une discussion avec Aurélia Georges
 
 ## Maïté Sonnet
@@ -211,7 +211,7 @@ d'Elia Kazan
 Avec Natalie Wood, Warren Beatty, Pat Hingle, Barbara Loden.  
 Une petite ville du Kansas, en 1929. Deanie, fille unique de parents modestes, et Bud, qui a pour père un baron du pétrole, s'aiment passionnément. Mais leurs deux familles s'opposent catégoriquement à leur désir de se marier.
 
-- lu 13 fév 19h00 JE  
+- Lu 13 fév 19h00 JE  
 Séance suivie d'une discussion avec Maïté Sonnet
 
 ## Samy Sidali
@@ -238,7 +238,7 @@ France-Maroc / 2020 / 20 min / DCP
 Zouhair Sabri, Sara Kola, Mehdi Ez-Zarouqy  
 Sur la plage de Mohammedia, petite ville côtière du Maroc, Khaled propose des balades à cheval aux promeneurs. Il traîne avec ses amis. Ils ont une vingtaine d'années et fantasment une sexualité qui leur est interdite.
 
-- lu 20 fév 19h00 JE  
+- Lu 20 fév 19h00 JE  
 Séance suivie d'une discussion avec Samy Sidali
 
 ## João Paulo Miranda Maria
@@ -253,7 +253,7 @@ Brésil-France / 2020 / 87 min / VOSTF / DCP
 Avec Antônio Pitanga, Ana Flavia Cavalcanti, Soren Hellerup.  
 Cristovam, originaire de l'arrière-pays brésilien, travaille dans une usine à lait d'une région prospère du Brésil peuplée de colons autrichiens. Il s'y sent seul, marqué par les différences culturelles et ethniques. Un jour, il découvre une maison abandonnée remplie d'objets lui rappelant ses origines.
 
-- lu 27 fév 19h00 JE  
+- Lu 27 fév 19h00 JE  
 Séance suivie d'une discussion avec João Paulo Miranda Maria
 
 Remerciements : Agence du court métrage (Stéphane Kahn), Barberousse Films (François Martin Saint Léon), Bobi Lux, Gaumont, Gebeka Films, Isaac Julien Studio, Jérôme Reybaud, Shortcuts, Tandem (Mirana Rakotozafy), Trois Brigands Productions, UFO Distribution, Kometa Films, Jacques Kermabon et Xavier Kawa-Topor (Blink Blank), Hélève Vayssières et Pascal Richard (Arte), Antoine Sebire et Jean-Christophe Berjon (Festival de Biarritz Amérique latine), Sabine Zipci (AFCA), Tripode Productions, Tu nous ZA pas vus Productions, Folle allure, Komadoli Studio, Laura Wandel, Théo Jollet.

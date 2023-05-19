@@ -9,7 +9,7 @@ France / 2023 / 83 min / VOSTF / DCP
 Avec Louise Mauroy-Panzani, Ilça Moreno Zego, Arnaud Rebotini.  
 Cléo, six ans, aime follement Gloria, sa nounou qui l'élève depuis sa naissance. Mais Gloria doit retourner d'urgence au Cap-Vert, auprès de ses enfants. Avant son départ, Cléo lui demande de tenir une promesse : la revoir au plus vite. Gloria l'invite à venir dans sa famille et sur son île, pour passer un dernier été ensemble.
 
-- me 7 juin 20h00 HL  
+- Me 7 juin 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Marie Amachoukeli
 
 ## Longs métrages en compétition
@@ -21,7 +21,7 @@ Malaisie-Taïwan-France-Singapour-Allemagne-Pays-Bas-Indonésie-Qatar / 2023 / 9
 Avec Zafreen Zairizal, Deena Ezral.  
 Zaffan vit dans une petite communauté rurale en Malaisie. En pleine puberté, elle réalise que son corps se transforme à une vitesse inquiétante. Ses amies se détournent d'elle lorsqu'une crise d'hystérie collective frappe l'école. La peur se répand et un médecin intervient pour chasser le démon qui hante les filles. Comme un tigre harcelé et délogé de son habitat, Zaffan décide de révéler sa vraie nature, sa fureur, sa rage et sa beauté.
 
-- je 8 juin 17h45 HL
+- Je 8 juin 17h45 HL
 
 [154437]  
 **Inchallah un fils**  
@@ -31,7 +31,7 @@ Jordanie-France-Arabie saoudite-Qatar / 2023 / 113 min / VOSTF / DCP
 Avec Mouna Hawa, Haitham Omari.  
 Jordanie, de nos jours. Après la mort soudaine de son mari, Nawal, 30 ans, doit se battre pour sa part d'héritage, afin de sauver sa fille et sa maison, dans une société où avoir un fils changerait la donne.
 
-- je 8 juin 20h30 HL
+- Je 8 juin 20h30 HL
 
 [154436]  
 **Il pleut dans la maison**  
@@ -40,7 +40,7 @@ Belgique-France / 2023 / 82 min / DCP
 Avec Makenzy Lombet, Purdey Lombet.  
 Sous un soleil caniculaire, Purdey, 17 ans, et son frère Makenzy, 15 ans, sont livrés à eux-mêmes et tentent de se débrouiller seuls. Alors que Purdey fait des ménages dans un complexe hôtelier, Makenzy se fait un peu d'argent en volant des touristes. Entre l'insouciance de l'adolescence et l'âpreté de la vie adulte, ils devront se soutenir l'un l'autre dans ce voyage d'une douceur déchirante, qui semble bien être le dernier été de leur jeunesse.
 
-- ve 9 juin 18h15 HL
+- Ve 9 juin 18h15 HL
 
 [154439]  
 **Le Ravissement**  
@@ -49,7 +49,7 @@ France / 2023 / 97 min / DCP
 Avec Hafsia Herzi, Alexis Manenti, Nina Meurisse.  
 Lydia, sage-femme très investie dans son travail, est en pleine rupture amoureuse. Au même moment, sa meilleure amie, Salomé, lui annonce qu'elle est enceinte et lui demande de suivre sa grossesse. Le jour où Lydia recroise Milos, une conquête d'un soir, alors qu'elle tient le bébé de son amie dans ses bras, elle s'enfonce dans un mensonge, au risque de tout perdre...
 
-- sa 10 juin 17h30 HL
+- Sa 10 juin 17h30 HL
 
 [154441]  
 **Lost Country**  
@@ -58,7 +58,7 @@ Serbie-France-Croatie-Luxembourg / 2023 / 98 min / VOSTF / DCP
 Avec Jasna Đuričić, Jovan Ginic.  
 Serbie, 1996. Pendant les manifestations étudiantes contre le régime de Milošević, Stefan, 15 ans, mène dans le feu des événements sa propre révolution : accepter l'inacceptable, voir dans sa mère – porte-parole du parti au pouvoir – une complice du crime et trouver, malgré l'amour qu'il ressent pour elle, la force de la confronter.
 
-- di 11 juin 19h30 HL
+- Di 11 juin 19h30 HL
 
 [154440]  
 **Power Alley**  
@@ -68,7 +68,7 @@ Brésil-France-Uruguay / 2023 / 92 min / VOSTF / DCP
 Avec Ayomi Domenica Dias, Loro Bardot.  
 Sofia, jeune joueuse de volley-ball prometteuse, apprend qu'elle est enceinte la veille d'un championnat qui peut sceller son destin. Ne voulant pas de cette grossesse, elle cherche à se faire avorter illégalement et se retrouve la cible d'un groupe fondamentaliste bien décidé à l'en empêcher à tout prix. Mais ni Sofia ni ses proches n'ont l'intention de se soumettre à l'aveugle ferveur de la masse.
 
-- lu 12 juin 18h30 HL
+- Lu 12 juin 18h30 HL
 
 [154438]  
 **Sleep**  
@@ -77,7 +77,7 @@ Corée du sud / 2023 / 109 min / VOSTF / DCP
 Avec Jung Yu-mi, Lee Sun-kyun.  
 La vie d'un jeune couple est bouleversée quand le mari devient somnambule et se transforme en quelqu'un d'autre la nuit tombée. Submergée par la peur qu'il fasse du mal à leur nouveau-né, sa femme ne trouve plus le sommeil.
 
-- lu 12 juin 20h30 HL
+- Lu 12 juin 20h30 HL
 
 ## Courts métrages en compétition
 
@@ -115,7 +115,7 @@ France / 2023 / 17 min / DCP
 Avec François Chaignaud, Muriel Laborde-Jourdàa, Mellie Laborde-Jourdàa.  
 Fran est de passage dans sa ville natale pour se reposer et rendre visite à sa mère. Suivant le rythme saccadé du _Boléro_, ce parcours sur les chemins du souvenir et du désir va le mener, ainsi que tout le village, à une apothéose joyeusement chaotique.
 
-- sa 10 juin 15h00 GF
+- Sa 10 juin 15h00 GF
 
 [154454]  
 **The Real Truth About the Fight**  
@@ -154,7 +154,7 @@ de Morad Mostafa
 Avec Kenyi Marcellno, Kenzy Mohamed.  
 Après un violent accident, Eissa, jeune migrant de 17 ans venu d'Afrique, se bat contre la montre en Égypte pour sauver ses proches, peu important le prix à payer.
 
-- lu 12 juin 16h00 GF
+- Lu 12 juin 16h00 GF
 
 ## Séances spéciales
 
@@ -179,7 +179,7 @@ France / 2023 / 18 min / DCP
 Avec Jehnny Beth, Agathe Rousselle, Finnegan Oldfield.  
 Cela fait 548 jours que A ne ressent plus rien, qu'elle est absente de sa vie. Une nuit, J apparaît et l'entraîne avec elle, cherchant par tous les moyens à relancer son cœur.
 
-- ve 9 juin 16h00 HL
+- Ve 9 juin 16h00 HL
 
 [154432]  
 **Vincent doit mourir**  
@@ -188,7 +188,7 @@ France-Belgique / 2023 / 107 min / DCP
 Avec Karim Leklou, Vimala Pons.  
 Du jour au lendemain, Vincent est agressé à plusieurs reprises et sans raison par des gens qui tentent de le tuer. Son existence d'homme sans histoires en est bouleversée et, quand le phénomène s'amplifie, il n'a d'autre choix que de fuir et de changer son mode de vie.
 
-- ve 9 juin 20h30 HL
+- Ve 9 juin 20h30 HL
 
 [154443]  
 **Le Syndrome des Amours Passées**  
@@ -197,7 +197,7 @@ Belgique-France / 2023 / 89 min / DCP
 Avec Lucie Debay, Lazare Gousseau, Florence Loiret-Caille.  
 Rémy et Sandra n'arrivent pas à avoir d'enfant car ils sont atteints du « Syndrome des Amours Passées ». Pour guérir, il n'y a qu'une seule solution : ils doivent recoucher une fois avec chacun de leurs ex.
 
-- sa 10 juin 20h00 HL
+- Sa 10 juin 20h00 HL
 
 ## Séance de clôture
 
@@ -208,5 +208,5 @@ France / 2023 / 91 min / DCP
 Avec Nahuel Pérez Biscayart, Céleste Brunnquell, Maud Wyler.  
 Étienne a 20 ans à peine lorsqu'il tombe amoureux de Valérie, et guère plus lorsque naît leur fille Rosa. Le jour où Valérie les abandonne, il décide de se construire une vie heureuse avec Rosa. Seize ans plus tard, lorsque Rosa part étudier et qu'ils doivent se séparer pour vivre chacun leur vie, le passé ressurgit.
 
-- di 11 juin 17h15 HL
+- Di 11 juin 17h15 HL
 

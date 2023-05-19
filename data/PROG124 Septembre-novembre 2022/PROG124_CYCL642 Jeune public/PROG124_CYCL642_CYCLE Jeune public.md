@@ -8,7 +8,7 @@ de Benjamin Massoubre, Amandine Fredon
 France / 2021 / 82 min / DCP  
 Deux copains, René Goscinny et Jean-Jacques Sempé, donnent vie au petit Nicolas. Au fil du récit, le garçon malicieux se glisse dans l'atelier de ses créateurs, qui lui racontent leur amitié, leurs parcours, leurs secrets et leur enfance.
 
-- di 25 sep 15h00 HL
+- Di 25 sep 15h00 HL
 
 [36241]  
 **La Flibustière des Antilles**  
@@ -19,7 +19,7 @@ D'après la nouvelle _Anne of the Indies_ de Herbert Ravenel Sass.
 Avec Jean Peters, Louis Jourdan, Thomas Gomez.  
 [JP] Anne Providence, la femme pirate, a de qui tenir : son père adoptif n'est autre que le redoutable Barbe Noire. Mais quand un capitaine français fait irruption dans sa vie, son cœur chavire !
 
-- me 28 sep 15h00 HL
+- Me 28 sep 15h00 HL
 
 [36908]  
 **Certains l'aiment chaud**  
@@ -29,7 +29,7 @@ de Billy Wilder
 Avec Marilyn Monroe, Tony Curtis, Jack Lemmon.  
 [JP] Comment se faire oublier quand on a une bande de gangsters à ses trousses ? Joe et Jerry, deux musiciens sans travail, trouvent refuge dans un orchestre, déguisés en femmes.
 
-- di 2 oct 15h00 GF
+- Di 2 oct 15h00 GF
 
 [56155]  
 **Blanche-Neige et les sept nains**  
@@ -39,8 +39,8 @@ de David Hand
 D'après le conte _Blanche-Neige_ des Frères Grimm.  
 Blanche-Neige, princesse d'une très grande beauté, fuit dans la forêt sa belle-mère jalouse, qui cherche à la tuer. Elle est recueillie par les sept nains.
 
-- me 5 oct 15h00 GF  
-- di 9 oct 15h00 GF
+- Me 5 oct 15h00 GF  
+- Di 9 oct 15h00 GF
 
 [77554]  
 **Le Voyage de Chihiro**  
@@ -49,7 +49,7 @@ de Hayao Miyazaki
 Japon / 2001 / 122 min / VF / DCP  
 Chihiro et ses parents franchissent sans l'avoir voulu une frontière imaginaire. Propulsés dans un monde de fantômes, de sorciers et d'esclaves, ils vont devoir affronter la sorcière Yubaba pour revenir de l'autre côté.
 
-- me 12 oct 15h00 GF
+- Me 12 oct 15h00 GF
 
 [31475]  
 **La Flèche brisée**  
@@ -60,7 +60,7 @@ D'après le roman _Blood Brother_ d'Elliott Arnold.
 Avec James Stewart, Jeff Chandler, Debra Paget.  
 L'histoire vraie de la rencontre et de l'amitié entre le chef apache Cochise et l'Américain Tom Jeffords. 
 
-- di 16 oct 15h00 GF
+- Di 16 oct 15h00 GF
 
 [46828]  
 **Le Vieil homme et l'enfant**  
@@ -69,7 +69,7 @@ France / 1966 / DCP
 Avec Michel Simon, Alain Cohen, Luce Fabiole..  
 Dans un village français sous l'Occupation, un vieil homme antisémite recueille le petit Claude, un garçon juif, sans connaître ses origines. Entre eux naît peu à peu une véritable tendresse.
 
-- me 19 oct 15h00 GF
+- Me 19 oct 15h00 GF
 
 [49035]  
 **Le Roi et l'oiseau**  
@@ -79,7 +79,7 @@ D'après le conte _La Bergère et la ramoneur_ de Hans Christian Andersen.
 Avec Roger Blin, Raymond Bussières, Philippe Derrez.  
 Au royaume de Takicardie, le roi Charles- V-Et-Trois-Font-Huit-Et-Huit-Font-Seize règne en tyran. Mais un oiseau narquois et insaisissable se moque de son pouvoir, et prend sous son aile deux jeunes amoureux, une bergère et un petit ramoneur.
 
-- di 23 oct 15h00 GF
+- Di 23 oct 15h00 GF
 
 [36675]  
 **Le Cameraman**  
@@ -89,7 +89,7 @@ Avec Buster Keaton, Marceline Day, Harold Goodwin.
 À New York, les débuts désastreux d'un jeune reporter d'une compagnie d'actualités cinématographiques.  
 Véritable attribut de Keaton dans le film, la caméra 35 mm dont il se sert est une caméra de 1910 et de fabrication française, la « Lucien Prévost », du nom des établissements où elle a été créée. Son rival dans le film dispose lui d'une caméra américaine, de la marque Akeley.
 
-- me 26 oct 15h00 GF
+- Me 26 oct 15h00 GF
 
 [140195]  
 **Je suis comme je suis**  
@@ -173,7 +173,7 @@ de Chenghua Yang
 France / 2014 / 3 min / DCP  
 Le cancre rêvasse, s'imagine en super-héros luttant contre un monstre.
 
-- sa 29 oct 16h30 LE
+- Sa 29 oct 16h30 LE
 
 ### Plumes et becs
 
@@ -208,7 +208,7 @@ d'Isis Leterrier
 France / 2019 / 3 min / DCP  
 Les habitants de la forêt accueillent un oiseau en peine, et tout prend vie dans un délicat opéra miniature, le temps d'une chanson enjouée.
 
-- di 30 oct 15h00 GF
+- Di 30 oct 15h00 GF
 
 [34689]  
 **Soupe au canard**  
@@ -218,7 +218,7 @@ de Leo McCarey
 Avec Groucho Marx, Harpo Marx, Chico Marx.  
 Placé sur le trône de Freedonia par la grâce d'une riche veuve amoureuse de lui, Rufus T. Firefly offense l'ambassadeur de Sylvania, mettant rapidement les deux pays au bord de la guerre.
 
-- me 2 nov 15h00 GF
+- Me 2 nov 15h00 GF
 
 [31066]  
 **Les Temps modernes**  
@@ -228,7 +228,7 @@ de Charles Chaplin
 Avec Charles Chaplin, Paulette Goddard, Henry Bergman.  
 Malmené par les mécanismes rigoureux du travail à la chaîne, dans une usine hostile et sévère comme une prison, Charlot tente de fuir la vie moderne pour trouver le bonheur.
 
-- di 6 nov 15h00 GF
+- Di 6 nov 15h00 GF
 
 [51579]  
 **Les Quatre cents coups**  
@@ -237,7 +237,7 @@ France / 1959 / 93 min / DCP
 Avec Jean-Pierre Léaud, Patrick Auffay, Claire Maurier.  
 Paris, place de Clichy, années 1950. Le turbulent Antoine Doinel sèche l'école pour traîner avec son camarade René dans les rues et les cinéma du quartier.
 
-- me 9 nov 15h00 GF
+- Me 9 nov 15h00 GF
 
 [29869]  
 **L'Homme qui rétrécit**  
@@ -248,7 +248,7 @@ D'après la nouvelle _The Incredible Shrinking Man_ de Richard Matheson.
 Avec Randy Stuart, Grant Williams, April Kent.  
 Quelques mois plus tard après avoir traversé un mystérieux brouillard, Scott s'aperçoit qu'il a rétrécit chaque jour. Il doit désormais s'adapter à un univers hostile.
 
-- di 13 nov 15h00 GF
+- Di 13 nov 15h00 GF
 
 [84596]  
 **Panorama pris d'un train en marche**  
@@ -292,8 +292,8 @@ suivi de
 de Georges Méliès  
 France / 1898 / 1 min / Autres / 35 mm
 
-- me 16 nov 15h00 GF  
-- di 20 nov 15h00 GF
+- Me 16 nov 15h00 GF  
+- Di 20 nov 15h00 GF
 
 [88986]  
 **Rainbow Dance**  
@@ -316,6 +316,6 @@ suivi de
 de Segundo de Chomón  
 France / 1909 / 6 min / DCP
 
-- me 23 nov 15h00 GF  
-- di 27 nov 15h00 GF
+- Me 23 nov 15h00 GF  
+- Di 27 nov 15h00 GF
 

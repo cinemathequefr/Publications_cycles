@@ -25,7 +25,7 @@ France / 2021 / 39 min / DCP
 Avec Daphné Patakia, Jonathan Couzinié, Noée Abita.  
 France, XVI<sup>e</sup> siècle. Un mal étrange s'est emparé des habitants d'un village où arrive le petit Loup avec ses parents. Son père, le bourreau Simon, vient prêter main-forte à Toussaint, l'exécuteur local, lui aussi touché par la maladie.
 
-- lu 5 sep 19h30 JE  
+- Lu 5 sep 19h30 JE  
 Séance suivie d'une discussion avec Camille Rouaud et Esther Mysius
 
 ## Lucas Delangle
@@ -39,7 +39,7 @@ France / 2021 / 92 min / DCP
 Avec Thomas Parigi, Edwige Blondiau.  
 Jacky Caillou vit dans un village de montagne avec sa grand-mère, une magnétiseuse-guérisseuse reconnue de tous. Alors qu'elle commence à lui transmettre son don, une jeune femme arrive de la ville pour consulter.
 
-- lu 12 sep 20h00 GF  
+- Lu 12 sep 20h00 GF  
 Avant-première. Séance suivie d'une discussion avec Lucas Delangle
 
 ## Mihai Grecu / Élénore Weber
@@ -59,7 +59,7 @@ France / 2020 / 76 min / DCP
 Avec Nathalie Richard.  
 Retour sur des vidéos enregistrées par les armées américaine et française en Afghanistan, en Irak, au Pakistan... Le film détourne ces images du discours de propagande et montre où peut mener le désir de voir, lorsqu'il s'exerce sans limites.
 
-- lu 19 sep 19h00 JE  
+- Lu 19 sep 19h00 JE  
 Séance suivie d'une discussion avec Eléonore Weber et Milhai Grecu
 
 ## Avant-première Blink Blank
@@ -73,7 +73,7 @@ France-Luxembourg-Canada-Pays-Bas / 2021 / 105 min / DCP
 D'après des nouvelles du recueil _Saules aveugles, femme endormie_ de Haruki Murakami.  
 Un chat perdu, une grenouille géante volubile et un tsunami aident un attaché commercial sans ambition, sa femme frustrée et un comptable schizophrène à sauver Tokyo d'un tremblement de terre, et à redonner un sens à leurs vies.
 
-- lu 26 sep 20h30 HL  
+- Lu 26 sep 20h30 HL  
 Avant-première. Séance suivie d'une discussion avec Pierre Foldes
 
 ## Maxime Roy
@@ -87,7 +87,7 @@ France / 2021 / 99 min
 Avec François Creton, Richard Bohringer, Ariane Ascaride.  
 Michel, ancien junkie et éternel gamin, ne rêve que de motos et traîne avec son grand fils Léo et ses copains. À cinquante ans, il doit gérer le bébé qu'il vient d'avoir avec son ex, et se bat pour ne pas répéter les mêmes erreurs.
 
-- lu 3 oct 19h00 JE  
+- Lu 3 oct 19h00 JE  
 Séance suivie d'une discussion avec Maxime Roy
 
 ## Jérôme Reybaud
@@ -117,7 +117,7 @@ Avec Jean Gabin, Danielle Darrieux, Madeleine Renaud, Pierre Brasseur.
 Les pensionnaires d'une maison close accompagnent leur patronne en Normandie pour assister à la communion de sa nièce.  
 Deuxième segment du film _Le Plaisir_.
 
-- lu 17 oct 19h00 JE  
+- Lu 17 oct 19h00 JE  
 Séance suivie d'une discussion avec Jérôme Reybaud
 
 ## Festival Biarritz Amérique latine
@@ -138,7 +138,7 @@ Costa Rica / 2022 / 100 min / VOSTF / DCP
 Avec Daniela Marín Navarro, Reinaldo Amien Gutiérrez.  
 Depuis le départ de son père, Eva, 15 ans, ne supporte pas que sa mère veuille rénover la maison et se défaire du chat qui, désorienté depuis le divorce, pisse partout. Eva veut vivre avec son père, qui, désorienté comme le chat, vit une deuxième adolescence. Eva le suit pendant que celui-ci essaie de renouer avec ses envies de devenir artiste et de retrouver l'amour. Mais comme quelqu'un qui traverse un océan d'adultes sans savoir nager, Eva va aussi découvrir la rage qui la ronge, qu'elle a, sans le savoir, hérité de lui.
 
-- lu 10 oct 19h00 JE  
+- Lu 10 oct 19h00 JE  
 Séance présentée par Jean-Christophe Berjon
 
 ## Courts métrages Arte
@@ -178,7 +178,7 @@ France / 2021 / 26 min / DCP
 Avec Marie Ros, Léo Mazo.  
 Sarah, 14 ans, a hâte d'en finir avec le collège et ses camarades. Mika, 17 ans, le beau gosse et bad boy du quartier, semble s'intéresser à elle. Elle sèche les cours et se rend à un rendez-vous, qui va tourner au rapport sexuel forcé.
 
-- lu 24 oct 20h30 GF  
+- Lu 24 oct 20h30 GF  
 Séance présentée par Hélène Vayssières
 
 ## Fête de l'animation 2022
@@ -191,7 +191,7 @@ d'Alberto Vázquez
 Espagne / 2021 / 92 min / VOSTF / DCP  
 En ces contrées lointaines, Oursons et Licornes sont en guerre depuis toujours. Le soldat Célestin a soif du sang des Licornes, clé de la beauté éternelle selon le Grand Livre Sacré. Son frère Dodu, lui, n'aime pas la guerre, et préfère les myrtilles et les câlins. Mais la bataille finale approche.
 
-- lu 31 oct 20h45 GF  
+- Lu 31 oct 20h45 GF  
 Avant-première
 
 ## Yassine Qnia
@@ -205,7 +205,7 @@ France / 2019 / 87 min / DCP
 Avec Soufiane Guerrab, Souheila Yacoub.  
 Mehdi, la trentaine, est un perceur de coffres de petite envergure en pleine remise en question, d'autant plus qu'il tente de reconquérir Sarah, la mère de son enfant.
 
-- lu 7 nov 19h30 JE
+- Lu 7 nov 19h30 JE
 
 ## Théo Jollet
 
@@ -225,7 +225,7 @@ de Harmony Korine
 Avec Jacob Reynolds, Nick Sutton, Jacob Sewell, Chloë Sevigny.  
 Dans un monde dévasté par la pauvreté et les cataclysmes naturels, à Xenia dans l'Ohio, un groupe d'adolescents tente de survivre à l'ennui en inventant ses propres rites.
 
-- lu 14 nov 19h00 JE  
+- Lu 14 nov 19h00 JE  
 Séance suivie d'une discussion avec Théo Jollet
 
 ## Valentin Noujaïm
@@ -253,7 +253,7 @@ Grande-Bretagne / 1989 / 45 min / VOSTF / Numérique
 Avec Ben Ellison, Matthew Baidoo, Akim Mogaji.  
 Fresque onirique de la Harlem Renaissance, fête explosive ponctuée par la voix du poète Langston Hughes, où des hommes noirs s'enivrent de plaisirs.
 
-- lu 21 nov 19h30 JE
+- Lu 21 nov 19h30 JE
 
 ## Laura Wandel
 
@@ -266,7 +266,7 @@ Belgique / 2020 / 73 min / DCP
 Avec Maya Vanderbeque, Gunther Duret, Elsa Laforge, Lena Girard Voss.  
 Nora entre en primaire lorsqu'elle est confrontée au harcèlement dont son grand frère Abel est victime. Elle se retrouve tiraillée entre son père qui l'incite à réagir, son besoin de s'intégrer et son frère qui lui demande de garder le silence.
 
-- lu 28 nov 19h00 JE  
+- Lu 28 nov 19h00 JE  
 Séance suivie d'une discussion avec Laura Wandel
 
 Remerciements : Agence du court métrage (Stéphane Kahn), Barberousse Films, Bobi Lux, Gaumont, Gebeka Films, Isaac Julien Studio, Jérôme Reybaud, Shortcuts, Tandem, Trois Brigands Productions, UFO Distribution, Kometa Films, Jacques Kermabon et Xavier Kawa-Topor (Blink Blank), Hélève Vayssières et Pascal Richard (Arte), Antoine Sebire et Jean-Christophe Berjon (Festival de Biarritz Amérique Latine), Sabine Zipci (AFCA), Tripode productions, Tu nous za pas vus productions, Folle Allure, Komadoli Studio.

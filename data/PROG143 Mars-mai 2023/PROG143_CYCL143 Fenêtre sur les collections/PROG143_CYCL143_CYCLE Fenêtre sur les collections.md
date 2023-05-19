@@ -12,7 +12,7 @@ de Jodie Copeland
 Avec Clint Eastwood, Scott Brady, Margia Dean.  
 Des Yankees et des ex-Confédérés sont forcés de résister ensemble aux attaques des Indiens décidés à récupérer leur dû. Mais ils sont confrontés à la faim, la soif et la chaleur, qui compromettent leur fragile collaboration.
 
-- ve 17 mar 18h30 JE  
+- Ve 17 mar 18h30 JE  
 Séance présentée par Felicidad Guarda
 
 [154302]  
@@ -22,7 +22,7 @@ de Charles Marquis Warren
 Avec Hugh Marlowe, Coleen Gray, Adele Mara.  
 Suspectées d'avoir aidé le chef du gang des Blacklegs à s'évader de prison, quatre entraîneuses de saloon trouvent refuge dans une auberge. Les Blacklegs s'y abritent à leur tour et sèment la terreur.
 
-- ve 17 mar 20h15 JE  
+- Ve 17 mar 20h15 JE  
 Séance présentée par Noémie Jean
 
 ## Hommage à la galerie Miyu et à l'animation contemporaine
@@ -91,7 +91,7 @@ de Theodore Ushev
 Canada / 2010 / 14 min / DCP  
 Journal intime transfiguré en bombardement d'images et de sons, exploration d'une prodigieuse frénésie créatrice, tableau illustrant la chute vertigineuse d'un artiste dans la dépression et la folie.
 
-- ve 21 avr 18h30 JE
+- Ve 21 avr 18h30 JE
 
 [132724]  
 **La Jeune fille sans mains**  
@@ -100,7 +100,7 @@ France / 2016 / 73 min / DCP
 D'après le conte _La Jeune fille sans mains_ des frères Grimm.  
 Un meunier vend sa fille au diable contre une pluie d'or aussi brillant que sale. Le diable lui demande aussi de lui couper les mains.
 
-- ve 21 avr 21h00 JE
+- Ve 21 avr 21h00 JE
 
 ## Les as de la manivelle
 
@@ -149,7 +149,7 @@ France / 1922 / 54 min / DCP
 Les mésaventures du metteur en scène Jean Fortier sur le tournage de son nouveau film, _La Conquête des Gaules_. Fortier doit mener à bien la réalisation en dépit des obstacles : budget divisé par cent par le producteur, un César blessé, des badauds intervenant dans le champ parmi les figurants costumés en Romains...  
 Film également connu sous le titre _L'Odyssée d'un film_.
 
-- ve 19 mai 18h30 JE  
+- Ve 19 mai 18h30 JE  
 Séance présentée par Priska Morrissey et Iris Deniozou
 
 [154298]  
@@ -170,7 +170,7 @@ d'Eugène Deslaw
 France / 1930 / 15 min / DCP  
 Abel Gance et son équipe se lancent dans le cinéma parlant. Leurs prouesses techniques permettent des prises de vue impressionnantes. Des essais d'acteurs et des plans coupés au montage s'interposent aux scènes de tournage.
 
-- ve 19 mai 21h00 JE  
+- Ve 19 mai 21h00 JE  
 Séance présentée par Priska Morrissey et Iris Deniozou
 
 Remerciements : Les Acacias, Tamasa Distribution, Diaphana Distribution, La Cinémathèque de ToulouseRemerciements : CNC, Doriane Films.

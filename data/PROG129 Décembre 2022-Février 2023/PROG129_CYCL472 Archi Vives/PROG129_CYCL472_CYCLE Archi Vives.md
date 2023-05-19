@@ -8,7 +8,7 @@ de Vivianne Perelmuter, Isabelle Ingold
 Belgique / 2020 / 63 min / VOSTF / DCP  
 Après avoir fui l'Iran, Shahin, étant parvenu à rejoindre l'Angleterre, se retrouve seul dans une chambre. Ses uniques moyens de communication avec le monde extérieur sont un ordinateur et son téléphone portable.
 
-- je 8 déc 17h30 JE  
+- Je 8 déc 17h30 JE  
 Voir aussi dialogue p. xx
 
 [49428]  
@@ -18,7 +18,7 @@ France / 1969 / 107 min / DCP
 Avec Bernadette Lafont, Georges Géret, Michel Constantin.  
 Une belle fille qui vit avec sa mère dans une misérable cabane est convoitée par tous les hommes du village, à qui elle se refuse.
 
-- je 9 fév 19h30 JE  
+- Je 9 fév 19h30 JE  
 Voir aussi conférence p. xx
 
 ## Rencontres et conférences
@@ -31,7 +31,7 @@ Diplômée de la Fémis, Isabelle Ingold est monteuse et réalisatrice. Elle a t
 Emmanuelle André est professeure d'études cinématographiques à l'université Paris-Cité  
 Frédérique Berthet est professeure d'études cinématographiques, autrice et directrice adjointe du laboratoire lettres, arts et cinéma à l'université Paris-Cité.
 
-- je 8 déc 17h30 JE  
+- Je 8 déc 17h30 JE  
 À la suite de la projection de _Ailleurs, partout_ de Vivianne Perelmuter, Isabelle Ingold (voir p. xx)
 
 **Pour une reprise féministe de l'histoire du cinéma**  
@@ -39,7 +39,7 @@ Frédérique Berthet est professeure d'études cinématographiques, autrice et d
 Repriser le tissu troué ou déchiré de l'histoire du cinéma au prisme du féminisme : c'est à ce geste théorique et pratique que la conférence invite, à partir de cas concrets issus notamment des collections film et non-film de la Cinémathèque. Au croisement d'enjeux historiographiques et méthodologiques, opérer un retour aux sources en explorant des fonds d'archives variés sous un angle féministe permet l'émergence de regards inédits sur l'histoire du cinéma en France et un renouvellement fondamental de son écriture. Au-delà de la mise en lumière d'œuvres méconnues et de personnalités singulières (Alice Guy, Musidora, Germaine Dulac, Jacqueline Audry, Agnès Varda, Yannick Bellon, Nelly Kaplan, Chantal Akerman...), il s'agit aussi d'interroger les dynamiques de genre structurant les secteurs et métiers du cinéma et de réévaluer la contribution des femmes aux processus de création, de production, de diffusion, de réception. La séance sera ainsi l'occasion d'évoquer le projet éditorial d'encyclopédie des femmes cinéastes et collaboratrices de création en France, une publication numérique collaborative et évolutive.  
 Historienne du cinéma, Hélène Fleckinger est maîtresse de conférences à l'université Paris 8, actuellement en délégation CNRS au sein du LEGS (UMR 8238). Autrice d'une thèse sur les rapports entre cinéma, vidéo et féminisme en France entre 1968 et 1981, spécialiste des pratiques et usages de la vidéo légère, elle s'intéresse également à l'apport des humanités numériques aux études cinématographiques et dirige, avec Nadja Ringart, le projet éditorial Bobines féministes.
 
-- je 9 fév 17h30 JE  
+- Je 9 fév 17h30 JE  
 À la suite de la conférence, à 19h30, projection d'un film choisi par le conférencier : _La Fiancée du pirate_ de Nelly Kaplan (voir p. xx)
 
 Remerciements : A Vif cinémas-DHR (Philippe Elusse), Lobster Films (Maria Chiba).

@@ -10,7 +10,7 @@ RFA / 1972 / 106 min / VOSTF / DCP
 Avec Vitus Zeplichal, Reinhardt Kolldehoff, Silke Kulik.  
 Un pasteur de Silésie, ancien nazi, organise une fête commémorative pour le retour des cloches de son église, offertes en 1940 au Führer. Une étrange pollution contamine alors la rivière, et la ville laisse transparaître ses malaises sociaux.
 
-- je 11 mai 21h00 GF
+- Je 11 mai 21h00 GF
 
 [51564]  
 **Les Deux Anglaises et le Continent**  
@@ -20,7 +20,7 @@ D'après le roman _Les Deux Anglaises et le Continent_ d'Henri-Pierre Roché.
 Avec Jean-Pierre Léaud, Kika Markham, Stacey Tendeter.  
 À Paris, au début du XIX<sup>e</sup> siècle, Claude rencontre une jeune Anglaise qui l'invite en vacances au pays de Galles, où elle fait tout pour qu'il tombe amoureux de sa sœur.
 
-- sa 13 mai 19h00 HL  
+- Sa 13 mai 19h00 HL  
 Séance présentée par Kika Markham
 
 [131740]  
@@ -30,7 +30,7 @@ France-Belgique / 2016 / 100 min / DCP
 Avec Bérénice Bejo, Cédric Kahn, Marthe Keller.  
 Après 15 ans de mariage, Marie et Boris, un couple avec deux enfants, sont sur le point de divorcer. En attendant que Boris trouve un nouvel endroit pour vivre, ils doivent cohabiter et trouver comment partager leurs biens.
 
-- je 18 mai 18h30 GF  
+- Je 18 mai 18h30 GF  
 Séance présentée par Joachim Lafosse
 
 [122531]  
@@ -41,7 +41,7 @@ Bosnie-Herzégovine-Qatar-Allemagne / 2013 / 82 min / DCP
 Avec Kym Vercoe, Boris Isaković, Simon McBurney.  
 Kym, une actrice australienne, part seule visiter la Bosnie. À son retour, elle découvre qu'a eu lieu, dans l'hôtel où elle a résidé, le massacre de Višegrad, en 1992. Profondément choquée, elle décide de repartir sur place pour lever le silence.
 
-- me 17 mai 21h15 GF
+- Me 17 mai 21h15 GF
 
 [131477]  
 **Les Gants blancs**  
@@ -50,7 +50,7 @@ France / 2013 / 58 min / Numérique
 Avec Luís Miguel Cintra, Valérie Loiseleux, Mariana Guerreiro.  
 La réalisatrice accompagne sa mère à Lisbonne pour le montage du dernier film de Manoel de Oliveira, _L'Étrange Affaire Angélica_. Dans les salles de montage commence un voyage intérieur, parmi les souvenirs de ce cinéma avec lequel elle a grandi.
 
-- ve 19 mai 21h00 GF  
+- Ve 19 mai 21h00 GF  
 Séance présentée par Louise Traon  
 Film suivi de _Quand je serai jeune_ de Yann Dedet
 
@@ -61,7 +61,7 @@ France-Grande-Bretagne-Allemagne / 2017 / 94 min / DCP
 Avec Margaret Mulubwa, Henry B. J. Phiri, Nancy Mulilo.  
 En Zambie, la petite Shula est accusée de sorcellerie par les habitants de son village. Elle est envoyée dans un camp de sorcières, où les superstitions des hommes justifient l'exploitation des prisonnières.
 
-- je 18 mai 21h15 GF
+- Je 18 mai 21h15 GF
 
 [48713]  
 **J'entends plus la guitare**  
@@ -70,7 +70,7 @@ France / 1990 / 98 min / DCP
 Avec Benoît Régent, Johanna Ter Steege, Yann Collette, Mireille Perrier.  
 Les séparations et les retrouvailles successives d'un couple passionnel.
 
-- di 14 mai 20h15 GF
+- Di 14 mai 20h15 GF
 
 [48887]  
 **Mona et moi**  
@@ -79,7 +79,7 @@ France / 1990 / 94 min / VFSTA / 35 mm
 Avec Denis Lavant, Antoine Chappey, Sophie Simon, Johnny Thunders.  
 Pierre est amoureux de Mona. Il vit avec ses copains entre musique, drogue, embrouilles et amours. Il rencontre Johnny, icône punk rock, et décide d'organiser un concert à Paris.
 
-- ve 12 mai 18h00 GF  
+- Ve 12 mai 18h00 GF  
 Séance présentée par Antoine Chappey
 
 [60154]  
@@ -89,7 +89,7 @@ France / 1996 / 103 min / VO / 35 mm
 Avec Grégoire Colin, Alice Houri, Valeria Bruni Tedeschi.  
 À Marseille, Boniface est pizzaïolo. Depuis la mort de sa mère, il ne voit plus son père, Félix. Un jour, sa sœur de quinze ans, Nénette, débarque chez lui, enceinte.
 
-- je 11 mai 18h30 GF  
+- Je 11 mai 18h30 GF  
 Séance présentée par Claire Denis
 
 [59545]  
@@ -99,7 +99,7 @@ France / 1990 / 98 min / 35 mm
 Avec Nicole Garcia, Brigitte Roüan, Marianne Basler.  
 Suzanne, Madeleine et Marguerite, trois sœurs d'une grande famille pied-noir, assistent en Algérie aux derniers temps des colonies.
 
-- ve 12 mai 20h15 GF  
+- Ve 12 mai 20h15 GF  
 Séance présentée par Brigitte Roüan
 
 [51338]  
@@ -109,7 +109,7 @@ France / 1978 / 110 min / DCP
 Avec Jean-François Stévenin, Jacques Villeret, Yves Lemoigne.  
 La voiture de Georges, architecte parisien, tombe en panne sur l'autoroute. Serge, mécanicien divorcé, propose de le dépanner. Les deux hommes se lient d'une étrange amitié et partent plusieurs jours dans la forêt jurassienne.
 
-- sa 13 mai 14h30 HL  
+- Sa 13 mai 14h30 HL  
 Voir aussi leçon de cinéma p. xx
 
 [69019]  
@@ -119,7 +119,7 @@ France / 2000 / 100 min / DCP
 Avec Jérémie Elkaïm, Stéphane Rideau, Marie Matheron.  
 Mathieu, 18 ans, passe l'été dans la maison de sa mère, en Bretagne. Sur la plage, il rencontre Cédric. Commence alors ce qui ressemble à une aventure de vacances mais, jour après jour, l'affection grandit et devient intense.
 
-- lu 15 mai 20h45 GF  
+- Lu 15 mai 20h45 GF  
 Séance présentée par Sébastien Lifshitz
 
 [86174]  
@@ -129,7 +129,7 @@ France / 1988 / 17 min / 35 mm
 Avec Brigitte Roüan, Jean-François Stévenin, Marilyne Canto.  
 Mai 68. Pendant que, dehors, on manifeste, un homme achève le montage de _Baisers volés_.
 
-- ve 19 mai 21h00 GF  
+- Ve 19 mai 21h00 GF  
 Séance présentée par Louise Traon  
 Film précédé de _Les Gants blancs_ de Louise Traon
 
@@ -140,7 +140,7 @@ France / 2013 / 88 min / DCP
 Avec Marilyne Canto, Antoine Chappey, Samson Dajczman.  
 Élise vit seule avec Léo, son fils de dix ans dont le père est mort. Elle entretient une liaison chaotique avec Paul. Elle le repousse aussi violemment qu'elle se sent attirée par lui. Mais les jours passant, Paul et Léo s'entendent de plus en plus.
 
-- me 17 mai 19h00 GF  
+- Me 17 mai 19h00 GF  
 Séance présentée par Marilyne Canto
 
 [39365]  
@@ -150,7 +150,7 @@ Canada-France-RFA / 1974 / 98 min / VF / 35 mm
 Avec Carole Laure, Pierre Clémenti, Anna Prucnal, Samy Frey.  
 Répudiée par son mari, Mister Kapital, le soir même de ses noces, Miss Monde se laisse séduire par El Macho, chanteur et vedette de cinéma. Elle se retrouve dans une communauté viennoise pratiquant la régression collective.
 
-- me 10 mai 20h00 HL  
+- Me 10 mai 20h00 HL  
 Ouverture de la rétrospective
 
 [52174]  
@@ -161,7 +161,7 @@ Avec Estelle Perron, Caroline Trousselard, Malek Bechar.
 Le destin croisé de quatre adolescents va prendre un tour décisif lors d'une fête improvisée, un après-midi de fin d'année scolaire.  
 Version longue du téléfilm _Bonheur_, faisant partie de la collection _Tous les garçons et les filles de leur âge_.
 
-- ve 19 mai 18h30 GF
+- Ve 19 mai 18h30 GF
 
 [50631]  
 **Van Gogh**  
@@ -170,7 +170,7 @@ France / 1991 / 158 min / DCP
 Avec Jacques Dutronc, Alexandra London, Bernard Le Coq.  
 Après son internement à l'asile, Vincent van Gogh s'installe à Auvers-sur-Oise chez le docteur Gachet, amateur d'art. Entre les relations conflictuelles qu'il entretient avec son frère et sa santé mentale vacillante, Vincent continue son œuvre.
 
-- di 14 mai 17h00 HL  
+- Di 14 mai 17h00 HL  
 Séance présentée par Jacques Dutronc (sous réserve)
 
 [62220]  
@@ -180,7 +180,7 @@ France / 1996 / 124 min / 35 mm
 Avec Sergi López, Sacha Bourdo, Élisabeth Vitali.  
 Paco se fait voler sa voiture par un auto-stoppeur. Il tombe amoureux de la femme qui le conduit au commissariat. En attendant de la revoir, il erre au gré des rencontres sur les routes de Bretagne en compagnie de Nino, son voleur, qu'il a recroisé.
 
-- lu 15 mai 18h00 GF  
+- Lu 15 mai 18h00 GF  
 Séance présentée par Manuel Poirier
 
 ## Rencontres et conférences
@@ -193,7 +193,7 @@ Tarif B : voir p.
 Frédéric Bonnaud est directeur général de la Cinémathèque française.  
 Yann Dedet a monté deux des trois films réalisés par Jean-François Stévenin : _Passe montagne_ (1978) et _Double messieurs_ (1986).
 
-- sa 13 mai 14h30 HL  
+- Sa 13 mai 14h30 HL  
 À la suite de la projection de _Passe montagne_ de Jean-François Stévenin (voir p. xx)
 
 Remerciements : Ad Vitam, Agence du Court Métrage, Archives françaises du film, Capricci Films, Carlotta Films, Cinémathèque de Toulouse, Deutsches Filminstitut, Le Pacte, Les Films de L'Atalante, Pyramide Distribution, Tamasa Distribution

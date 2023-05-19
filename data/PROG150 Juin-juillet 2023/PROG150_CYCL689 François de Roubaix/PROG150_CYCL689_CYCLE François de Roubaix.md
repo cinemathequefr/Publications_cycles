@@ -9,7 +9,7 @@ France-Italie / 1968 / 95 min / 35 mm
 Avec Alain Delon, Charles Bronson, Brigitte Fossey.  
 Marseille, juste après la guerre d'Algérie. Un médecin militaire démobilisé devient perceur de coffres forts, pour aider la veuve d'un homme qu'il a tué accidentellement. Il doit faire équipe avec un légionnaire américain qui lui voue une haine féroce.
 
-- ve 23 juin 15h30 GF
+- Ve 23 juin 15h30 GF
 
 [48373]  
 **Les Aventuriers**  
@@ -20,7 +20,7 @@ Avec Alain Delon, Lino Ventura, Joanna Shimkus, Serge Reggiani.
 Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de s'emparer d'un trésor perdu dans un avion englouti. Au large du Congo, leur quête va les mettre en grand danger.  
 Restauration en 4K à l'initiative de la société SNC, avec le soutien du CNC. En avant première de sa ressortie cet été par Héliotrope Films dans le cadre de la rétrospective « Robert Enrico – Les années 60 ».
 
-- ve 23 juin 18h00 GF  
+- Ve 23 juin 18h00 GF  
 Séance présentée par Jérôme Enrico et Laurent Aleonard  
 Film précédé de _Montagnes magiques_ de Robert Enrico
 
@@ -32,7 +32,7 @@ D'après le roman _Dernier domicile connu_ de Joseph Harrington.
 Avec Lino Ventura, Marlène Jobert, Michel Constantin.  
 L'inspecteur Léonetti est rétrogradé et muté dans un commissariat de seconde zone. On lui adjoint la jeune Jeanne Dumas, avec qui il va devoir retrouver un témoin qui pourrait décider du sort d'un accusé.
 
-- je 22 juin 20h00 HL  
+- Je 22 juin 20h00 HL  
 Ouverture de la rétrospective
 
 [54474]  
@@ -42,7 +42,7 @@ France / 1971 / 95 min / VF / 35 mm
 Avec Daniel Gélin, Alexandra Stewart, Philippe Rouleau.  
 Régis, un journaliste, revient à Paris après trois ans d'absence. Il entreprend de retrouver un ami disparu après une enquête aux États-Unis sur l'assassinat de John Kennedy. Tous ceux qui l'ont connu se dérobent et Régis commence à subir des pressions.
 
-- lu 26 juin 18h00 GF  
+- Lu 26 juin 18h00 GF  
 Séance présentée par Fabrice Toledano
 
 [50109]  
@@ -52,7 +52,7 @@ France / 1968 / 95 min / DCP
 Avec Bourvil, Francis Blanche, Roland Dubillard.  
 Révolté par l'apathie de ses élèves, qu'il attribue à leur surconsommation de télévision, Armand Saint-Just, professeur de lettres, entreprend de neutraliser les antennes réceptrices sur les toits de Paris.
 
-- sa 24 juin 18h30 GF
+- Sa 24 juin 18h30 GF
 
 [48381]  
 **Les Grandes Gueules**  
@@ -62,7 +62,7 @@ D'après le roman _Le Haut-fer_ de José Giovanni.
 Avec Bourvil, Lino Ventura, Marie Dubois, Jean-Claude Rolland.  
 Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché.
 
-- di 25 juin 16h15 GF  
+- Di 25 juin 16h15 GF  
 Film précédé de _Thaumetopoea_ de Robert Enrico
 
 [39701]  
@@ -72,7 +72,7 @@ Belgique-France-RFA-Italie / 1971 / 101 min / DCP
 Avec Delphine Seyrig, Danielle Ouimet, John Karlen.  
 Un couple, qui séjourne dans un vaste hôtel désert d'Ostende, rencontre la comtesse Báthory et sa protégée Ilona. Les deux femmes exercent bientôt leur emprise sur les jeunes gens.
 
-- ve 23 juin 21h00 GF  
+- Ve 23 juin 21h00 GF  
 Séance présentée par Jean-Marc Lalanne
 
 [73254]  
@@ -81,7 +81,7 @@ de Robert Enrico
 France / 1962 / 19 min / DCP  
 Commandité par la région Midi-Pyrénées, le film part du fond des mers pour escalader les montagnes. Il rend hommage au génie scientifique et s'achève sur des images impressionnantes du four solaire de Mont-Louis et le centre de recherche de Bazet.
 
-- ve 23 juin 18h00 GF  
+- Ve 23 juin 18h00 GF  
 Séance présentée par Jérôme Enrico et Laurent Aleonard  
 Film suivi de _Les Aventuriers_ de Robert Enrico
 
@@ -92,7 +92,7 @@ France-Italie-Mexique / 1967 / 35 mm
 Avec Lino Ventura, Rosa Furman, Xavier Marc.  
 En 1938, des révolutionnaires cherchent à assassiner le président d'un pays sud-américain. Ils engagent un tueur professionnel, qui accepte de mauvaise grâce que le propre petit-fils du président soit crédité du meurtre afin de passer pour un héros national.
 
-- di 25 juin 19h15 GF
+- Di 25 juin 19h15 GF
 
 [50143]  
 **Le Samouraï**  
@@ -103,7 +103,7 @@ Avec Alain Delon, Nathalie Delon, François Périer.
 Jef Costello, tueur à gages, est arrêté par la police après avoir exécuté un nouveau contrat. Il est relâché faute de preuves et malgré la présence de témoins. Mais les commanditaires du meurtre décident par précaution de l'abattre à son tour.  
 Restauration par Pathé (2023).
 
-- sa 24 juin 14h30 HL  
+- Sa 24 juin 14h30 HL  
 Voir aussi dialogue p. xx
 
 [46946]  
@@ -114,7 +114,7 @@ D'après le roman _Le Saut de l'ange_ de Bernard-Paul Lallier.
 Avec Jean Yanne, Senta Berger, Sterling Hayden.  
 En pleine campagne électorale à Marseille, deux clans s'affrontent : la famille corse des Orsini, et Forestier et ses jeunes gangsters. Forestier fait assassiner les frères Orsini et la famille de l'un d'eux, expatrié en Thaïlande. Celui-ci décide de rentrer pour se venger.
 
-- sa 24 juin 21h00 GF
+- Sa 24 juin 21h00 GF
 
 [154391]  
 **Thaumetopoea**  
@@ -122,7 +122,7 @@ de Robert Enrico
 France / 1960 / 23 min / DCP  
 À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.
 
-- di 25 juin 16h15 GF  
+- Di 25 juin 16h15 GF  
 Film suivi de _Les Grandes Gueules_ de Robert Enrico
 
 ## Autour de François de Roubaix
@@ -148,7 +148,7 @@ Avec Yves Josso, Nathalie Lafaurie.
 Une rencontre amoureuse à la fois burlesque et grave, au milieu des malentendus de la vie.  
 Dernier court métrage de François de Roubaix, sorti à titre posthume.
 
-- me 28 juin 19h00 JE  
+- Me 28 juin 19h00 JE  
 Séance présentée par Jean-Yves Guilleux
 
 [154418]  
@@ -163,7 +163,7 @@ de Patricia De Roubaix
 France / 2009 / 24 min / Numérique  
 Une plongée dans l'univers musical de François de Roubaix par sa fille, qui part à sa rencontre au travers de la parole de ses fans.
 
-- je 29 juin 19h00 JE  
+- Je 29 juin 19h00 JE  
 Séance présentée par Christophe Conte et Patricia De Roubaix
 
 ## Rencontres et conférences
@@ -174,7 +174,7 @@ Fils d'un producteur de films institutionnels, François de Roubaix a trouvé da
 À la suite du « portrait musical », Benjamin de Roubaix interprétera (guitare-voix) trois chansons de François de Roubaix : _Laetitia_ (dans _Les Aventuriers_ de Robert Enrico, 1966), _Jeff_ (Jean Herman, 1969) et _Le Rapace_ (José Giovanni, 1968).  
 Concepteur de la collection discographique _Écoutez le cinéma !_ chez Universal Music France, Stéphane Lerouge a élaboré une quinzaine d'albums autour de François de Roubaix, dont le coffret cinq vinyles _Compositeur et aventurier_, publié fin 2021.
 
-- sa 24 juin 14h30 HL  
+- Sa 24 juin 14h30 HL  
 À la suite de la projection de _Le Samouraï_ de Jean-Pierre Melville (voir p. xx)
 
 Remerciements : Patricia de Roubaix, Benjamin de Roubaix, Christophe Conte, Jean-Yves Guilleux. Archives Françaises du Film, CNC – Centre National du Cinéma et de l'image animée, Coin de Mire, Héliotrope, Les Acacias, Les Films du Camélia, Malavida, Mocky Delicious Products, Morgane Groupe, SND M6, StudioCanal, Tamasa Distribution.

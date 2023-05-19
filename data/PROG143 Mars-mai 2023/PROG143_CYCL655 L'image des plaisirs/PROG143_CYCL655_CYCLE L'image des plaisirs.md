@@ -55,7 +55,7 @@ France / 2023 / 12 min / VOSTF / DCP
 « Rejoins-moi, mon ami. Puisque tu es mon meilleur ami. On m'a parlé de ce lieu. Un lieu lointain. Selon certains c'est le paradis. Faisons l'amour. Toi et moi. Amène le corps, j'amène le beat. » (Wladimir M.)  
 Première mondiale.
 
-- je 11 mai 20h00 HL  
+- Je 11 mai 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Léolo Victor-Pujebet, Jean-Sébastien Chauvin, Véronique Bourlon, Marylène Negro, Yann Gonzalez, Alain Garcia Vergara, Othello Vilgard et Jean-Pierre Bouyxou
 
 ## Séance 1 : Le cinéma, art pur, franc et honnête
@@ -126,7 +126,7 @@ France / 1930 / 6 min / 16 mm
 Avec Lee Miller, Man Ray.  
 Sensualités diverses mais chaque fois joyeuses et adressées.
 
-- ve 12 mai 18h30 JE
+- Ve 12 mai 18h30 JE
 
 ## Séance 2 : Rêves d'amour
 
@@ -162,7 +162,7 @@ de Shirley Clarke
 États-Unis / 1956 / 9 min / VO / Numérique  
 Danse d'amour, fusion suprême. « La plupart des films de danse que j'avais vus étaient affreux, je me suis dit que je pouvais faire mieux. Par essence, le cinéma est un médium chorégraphique. » (Shirley Clarke)
 
-- ve 12 mai 20h45 JE
+- Ve 12 mai 20h45 JE
 
 ## Séance 3 : Ruées de spermatozoïdes
 
@@ -199,7 +199,7 @@ de Barbara Rubin
 Avec Barbara Rubin, Naomi Levine.  
 Classique _underground_ de la très jeune Barbara Rubin (18 ans à l'époque) où, au fil des tubes, s'enchaînent des actes hétérosexuels et homosexuels, au croisement de la performance et de la plasticisation des corps.
 
-- sa 13 mai 16h00 JE
+- Sa 13 mai 16h00 JE
 
 ## Séance 4 : Orgies de solitudes, fusions érotiques
 
@@ -233,7 +233,7 @@ de Carolee Schneemann
 Avec Carolee Schneemann, James Tenney.  
 "En tant que peintre, je n'ai jamais accepté qu'aucune partie du corps soit sujette à un quelconque tabou visuel ou tactile" (Carolee Schneemann)
 
-- sa 13 mai 18h00 JE
+- Sa 13 mai 18h00 JE
 
 ## Séance 5 : Tragédies utopies
 
@@ -283,7 +283,7 @@ France / 1967 / 10 min / VO / Numérique
 Avec Pierre Molinier, Jean-Pierre Bouyxou.  
 Hommage au grand Pierre Molinier, le film allie sexualité fétichiste et mort, sperme et sang, chair et cadavre, dans un style halluciné d'une très inquiétante étrangeté.
 
-- sa 13 mai 20h00 JE  
+- Sa 13 mai 20h00 JE  
 Séance présentée par Jean-Pierre Bouyxou
 
 ## Séance 6 : D'où monte le plaisir
@@ -334,7 +334,7 @@ Espagne / 1968 / 37 min / VO / Numérique
 Avec Maite Larrauri, Luis Puig, Rafa Ferrando, Narciso Sáez.  
 Essai amoureux et politique où la réinvention du désir et de la vie ensemble, si possible à trois, participe aussi de l'idéal révolutionnaire.
 
-- di 14 mai 15h30 JE
+- Di 14 mai 15h30 JE
 
 ## Séance 7 : Où l'on se libère avec les Kronhausen
 
@@ -348,7 +348,7 @@ RFA / 1968 / 96 min / VOSTF / 35 mm
 Avec Marie Antoinette, Daniel D. Halleck, Hugh Hefner, Monique Kraamwinkel, Sacha Kraamwinkel, Paula Shaw.  
 « Nous étions, dans les années 1960 et 1970, à l'avant-garde de la vague de libération sexuelle et du démantèlement de la censure. » (E&P Kronhausen, notice autobiographique)
 
-- di 14 mai 17h30 JE
+- Di 14 mai 17h30 JE
 
 ## Séance 8 : C'est dans le dos que la lumière va frapper la nuit
 
@@ -419,7 +419,7 @@ d'Ugo Ulive
 Venezuela / 1969 / 22 min / Numérique  
 Dans _Basta_, les images pornographiques, comme celles de la morgue, ne sont pas là pour flatter le cortex visuel, mais au contraire pour dire le caractère insoutenable des dictatures en Amérique latine.
 
-- di 14 mai 20h00 JE
+- Di 14 mai 20h00 JE
 
 ## Séance 9 : Forbans belges
 
@@ -449,7 +449,7 @@ de Noël Godin
 Belgique / 1975 / 14 min / Numérique  
 Des ouvriers transforment leur usine en lieu de plaisir, abolissant à la fois le patronat et le prolétariat pour « organiser la mort du travail et réaliser leurs rêves les plus carabinés. Une œuvre flibustière. » (Jean-Pierre Bouyxou)
 
-- me 17 mai 19h30 JE  
+- Me 17 mai 19h30 JE  
 Séance présentée par Xavier Garcia Bardón
 
 ## Séance 10 : Connie Beeson. Les filles de feu
@@ -498,7 +498,7 @@ de Coni Beeson
 États-Unis / 1979 / 12 min / VO / Numérique  
 Sensualité et art du portrait à leur paroxysme.
 
-- je 18 mai 20h00 JE
+- Je 18 mai 20h00 JE
 
 ## Séance 11 : Cocteau 71
 
@@ -511,7 +511,7 @@ de Charles Henri Ford
 Avec Charles Henri Ford, Allen Ginsberg, Yiannis Koutsis, Nikos Koulizakis, Chuzzer Miles, Shelley Scott.  
 « Le film du poète et artiste surréaliste Charles Henri Ford est une explosion lyrique de tabous. Un classique oublié qui appartient à la grande tradition Anger, Genet, Jarman. » (The Film-Makers' Coop)
 
-- sa 20 mai 18h00 GF
+- Sa 20 mai 18h00 GF
 
 ## Séance 12 : Libido sciendi
 
@@ -577,7 +577,7 @@ de Mark Rappaport
 États-Unis / 1971 / 16 min / Numérique  
 _Blue Streak_ conjugue un manifeste en faveur d'une sexualité diverse à la représentation du groupe et de la pluralité des corps.
 
-- sa 20 mai 20h30 GF  
+- Sa 20 mai 20h30 GF  
 Séance présentée par Mark Rappaport
 
 ## Séance 13 : « Prostitution » à Okinawa
@@ -590,7 +590,7 @@ de Tetsurō Nunokawa, NDU
 Japon / 1971 / 86 min / VOSTF / Numérique  
 Avec peuple d'Okinawa, prostituées, yakuzas, touristes, GIs, Black Panthers. « Qu'est-ce qu'un documentaire ? Il ne s'agit pas de gens qui rencontrent d'autres gens sur les lieux de la création d'un "travail", mais que le "travail" naisse des rencontres entre les gens. » (Rō Takenaka, 1972)
 
-- di 21 mai 18h15 GF
+- Di 21 mai 18h15 GF
 
 ## Séance 14 : On enlève tout
 
@@ -622,7 +622,7 @@ de Jim Mitchell, Art Mitchell
 Avec Marilyn Chambers, George S. McDonald, Johnnie Keyes, Elizabeth Knowles, Yank Levine.  
 Une jeune femme est enlevée par deux hommes. Elle est conduite dans un mystérieux endroit qui devient bientôt le lieu d'une incroyable et acrobatique orgie. « _Derrière la porte verte_ fut le premier film hardcore largement distribué aux USA. Il rapporta plus de 25 millions de dollars et subit de nombreuses poursuites pour obscénité, en particulier dans le Sud. » (D. L. Hudson Jr., professeur de droit)
 
-- me 24 mai 18h30 GF
+- Me 24 mai 18h30 GF
 
 ## Séance 15 : Sauve qui peut (l'orgie)
 
@@ -647,7 +647,7 @@ de Tom Palazzolo
 États-Unis / 1973 / 14 min / VO / Numérique  
 _Love It / Leave It_ explore une série d'_americana_ en dégageant leur charge érotique.
 
-- me 24 mai 21h00 GF
+- Me 24 mai 21h00 GF
 
 ## Séance 16 : Splendeurs des sorcières
 
@@ -661,7 +661,7 @@ Japon / 1973 / 86 min / VOSTF / DCP
 D'après l'ouvrage _La Sorcière_ de Jules Michelet.  
 Jeanne, dans l'espoir d'obtenir vengeance, pactise avec le Diable après avoir été violée par le seigneur de son village. « Influencés par l'Art nouveau, les plans évoquent Alfons Mucha, Aubrey Beardsley, Gustav Klimt, Egon Schiele. La conclusion du film, marquée par l'idéologie d'une époque hyper-libertaire, rappelle l'apport des femmes dans la Révolution française. » (Jean-Marie Lanlo)
 
-- je 25 mai 18h30 GF
+- Je 25 mai 18h30 GF
 
 ## Séance 17 : Barbara Hammer, de l'art comme Bacchanale
 
@@ -697,7 +697,7 @@ de Barbara Hammer
 États-Unis / 1992 / 67 min / VOSTF / 16 mm  
 Pièce essentielle dans l'histoire de la représentation des corps de lesbiennes âgées, à ce jour peu fournie encore, à laquelle on pourrait ajouter le nom d'Yvonne Rainer.
 
-- je 25 mai 20h45 GF
+- Je 25 mai 20h45 GF
 
 ## Séance 18 : Love Streams
 
@@ -717,7 +717,7 @@ Avec Robert Adams, Arthur J. Bressan Jr., Eddie Cadena, Robert Carnagey.
 film d'apprentissage pour un adolescent où s'affirment socialement des identités sexuelles et de genre dans leur beauté, leur force et leur diversité.  
 Avec l'aimable autorisation du Bressan Project et de l'American Genre Film Archive.
 
-- sa 27 mai 16h00 GF
+- Sa 27 mai 16h00 GF
 
 ## Séance 19 : Enfin du cul subversif sans alibi artistique
 
@@ -730,7 +730,7 @@ France / 1974 / 88 min / 35 mm
 Avec Miki Sugimoto, Reiko Ike, Seiko Saburi, Misuzu Ōta.  
 « Il s'agit du second détournement (intégral) par René Viénet d'un film asiatique. Comme celui-ci souhaite inscrire un cliquet de plus dans le détournement, avec quelques complices, il tourne quelques inserts hard. » (René Viénet)
 
-- sa 27 mai 18h15 GF  
+- Sa 27 mai 18h15 GF  
 Séance présentée par René Vienet
 
 ## Séance 20 : En 1974, Chantal Akerman a 24 ans
@@ -745,7 +745,7 @@ Avec Chantal Akerman, Niels Arestrup, Claire Wauthion.
 Une jeune femme passe du temps seule dans sa chambre, sur la route en stop, et avec une amie. « Je retournais à Bruxelles en stop voir cette fille, Claire, et j'ai vécu toutes sortes d'aventures avec les camionneurs qui me prenaient en stop, c'était dangereux. Mais à l'époque, on vivait comme ça. » (Chantal Akerman)  
 Restauration 2K par Capricci et la Fondation Chantal Akerman / Cinémathèque royale de Belgique.
 
-- sa 27 mai 20h30 GF
+- Sa 27 mai 20h30 GF
 
 ## Séance 21 : Fiancées nues
 
@@ -770,6 +770,6 @@ France / 1974 / 80 min / 16 mm
 Avec Catherine Jourdan.  
 Des textes extraits de l'_Histoire de la Révolution française_ de Jules Michelet, sur des images souvent érotiques d'une jeune femme dans son appartement, entrecoupées de vues de Paris et de ses monuments.
 
-- di 28 mai 18h00 GF  
+- Di 28 mai 18h00 GF  
 Séance présentée par Alain Fleischer
 

@@ -17,7 +17,7 @@ France / 1983 / 117 min / DCP
 Avec Jean-Bernard Guillard, Philippe Deplanche, Jean Badin.  
 Lors d'une nuit brumeuse, un marin accepte de raconter ses incroyables aventures à un jeune étudiant de passage, pour la modique somme de trois couronnes.
 
-- je 6 avr 19h00 GF
+- Je 6 avr 19h00 GF
 
 [50000]  
 **Sans soleil**  
@@ -25,7 +25,7 @@ de Chris Marker
 France / 1983 / 104 min / DCP  
 Des lettres d'un caméraman-voyageur, Sandor Krasna, lues par une femme. Attiré par les deux « pôles extrêmes de la survie », le Japon et l'Afrique (Guinée-Bissau, îles du Cap-Vert), il s'interroge sur la représentation du monde dont il est en permanence l'artisan, et le rôle de la mémoire qu'il contribue à forger.
 
-- je 13 avr 19h30 GF
+- Je 13 avr 19h30 GF
 
 [47147]  
 **L'Homme de Rio**  
@@ -34,7 +34,7 @@ France-Italie / 1964 / 102 min / DCP
 Avec Jean-Paul Belmondo, Françoise Dorléac, Jean Servais.  
 Alors qu'il pense passer quelques jours paisibles avec sa fiancée à Paris, un jeune militaire se retrouve embarqué, jusqu'au Brésil, dans une course effrénée à la recherche de statues précolombiennes aux mystérieux pouvoirs.
 
-- je 20 avr 19h00 GF
+- Je 20 avr 19h00 GF
 
 [60306]  
 **Au loin s'en vont les nuages**  
@@ -44,6 +44,6 @@ Finlande / 1996 / 96 min / VOSTF / DCP
 Avec Kati Outinen, Kari Väänänen, Elina Salo.  
 Lauri, chauffeur de tramway, et sa femme Ilona, serveuse dans un restaurant, perdent chacun leur travail. Alors qu'ils se mettent tous deux à la recherche incertaine d'un nouvel emploi, leur couple est mis à l'épreuve.
 
-- je 27 avr 19h30 GF
+- Je 27 avr 19h30 GF
 
 Remerciements : Diaphana Distribution, INA, Les Acacias, Tamasa Distribution

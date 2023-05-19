@@ -19,7 +19,7 @@ D'après le roman _Susaki no onna_ de Yoshiko Shibaki.
 Avec Machiko Kyō, Aiko Mimasu, Ayako Wakao.  
 Dans une maison de geishas de Yoshiwara, le quartier des plaisirs de Tokyo, on s'inquiète d'une nouvelle loi discutée au parlement prévoyant l'interdiction de la prostitution. Mickey, une nouvelle employée jeune et sans complexe, est décidée à gagner le plus d'argent possible.
 
-- me 22 mar 19h30 GF
+- Me 22 mar 19h30 GF
 
 [42411]  
 **Accattone**  
@@ -29,7 +29,7 @@ Avec Franco Citti, Franca Pasut, Silvana Corsini.
 Un souteneur de la banlieue de Rome perd son gagne-pain quand sa protégée est mise en prison. Il fait alors la connaissance de l'innocente Stella.  
 « Premier long métrage de PPP : nouveaux corps, nouvelle langue, nouveaux lieux. Essai d'une modernité archaïque. » (Frédéric Bonnaud)
 
-- lu 3 avr 19h00 HL
+- Lu 3 avr 19h00 HL
 
 [36834]  
 **La Soif du mal**  
@@ -40,6 +40,6 @@ D'après le roman _Manque de pot_ de Whit Masterson.
 Avec Charlton Heston, Janet Leigh, Orson Welles, Akim Tamiroff.  
 À la frontière entre les États-Unis et le Mexique, une bombe explose dans la voiture de l'homme qui tient la ville sous sa coupe. Le procureur mexicain Miguel Vargas décide de suivre l'enquête et découvre les méthodes peu orthodoxes de l'inspecteur américain Hank Quinlan.
 
-- ve 12 mai 19h30 HL
+- Ve 12 mai 19h30 HL
 
 Remerciements : Capricci, Carlotta Films

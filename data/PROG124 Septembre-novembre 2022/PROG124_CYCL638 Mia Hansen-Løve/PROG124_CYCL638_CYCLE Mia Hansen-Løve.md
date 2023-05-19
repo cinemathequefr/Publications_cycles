@@ -9,7 +9,7 @@ France-Allemagne / 2015 / 100 min / DCP
 Avec Isabelle Huppert, André Marcon, Roman Kolinka, Edith Scob.  
 Nathalie, mariée, deux enfants, est professeur de philosophie dans un lycée parisien. Un jour, son mari lui annonce qu'il part vivre avec une autre femme. Confrontée à une liberté nouvelle, elle doit réinventer sa vie.
 
-- sa 24 sep 21h30 GF  
+- Sa 24 sep 21h30 GF  
 Séance présentée par Isabelle Huppert et Mia Hansen-Løve
 
 [146479]  
@@ -19,7 +19,7 @@ France / 2021 / 110 min / VOSTF / DCP
 Avec Tim Roth, Mia Wasikowska, Vicky Krieps, Anders Danielsen Lie.  
 Un couple de cinéastes s'installe pour écrire, le temps d'un été, sur l'île suédoise de Fårö, où vécut Ingmar Bergman. À mesure que leurs scénarios respectifs avancent, et au contact des paysages sauvages de l'île, la frontière entre fiction et réalité se brouille.
 
-- lu 26 sep 20h30 GF
+- Lu 26 sep 20h30 GF
 
 [125087]  
 **Eden**  
@@ -28,7 +28,7 @@ France / 2014 / 131 min / DCP
 Avec Félix de Givry, Pauline Étienne.  
 Dans les années 1990, Paul fait ses premiers pas dans le milieu de la nuit parisienne. Passionné de musique, il créé avec son meilleur ami le duo de DJ Cheers. Rapidement, ils trouvent leur public et vivent une ascension vertigineuse, euphorique, dangereuse.
 
-- di 25 sep 17h00 GF  
+- Di 25 sep 17h00 GF  
 Séance présentée par Sven Hansen-Løve, Félix de Givry et Mia Hansen-Løve
 
 [140605]  
@@ -38,7 +38,7 @@ France-Allemagne / 2018 / 107 min / DCP
 Avec Aarshi Banerjee, Roman Kolinka, Alex Descas.  
 Un jeune homme, libéré après quatre mois de captivité en Syrie, rompt avec sa vie d'avant et s'installe à Goa dans la maison de son enfance. Il fait alors la connaissance de Maya, une jeune Indienne.
 
-- lu 26 sep 18h00 GF
+- Lu 26 sep 18h00 GF
 
 [108380]  
 **Le Père de mes enfants**  
@@ -47,7 +47,7 @@ France / 2009 / 111 min / VO / 35 mm
 Avec Chiara Caselli, Louis-Do de Lencquesaing, Alice de Lencquesaing.  
 Producteur de cinéma charismatique et hyperactif, Grégoire Canvel a tout pour lui : une femme, trois enfants, un métier qui le passionne. Il semble invincible, mais sa prestigieuse société de production, Moon Films, est en difficulté.
 
-- di 25 sep 20h00 GF  
+- Di 25 sep 20h00 GF  
 Séance présentée par Louis-Do de Lencquesaing et Mia Hansen-Løve
 
 [102115]  
@@ -57,7 +57,7 @@ France / 2007 / 105 min / 35 mm
 Avec Paul Blain, Constance Rousseau, Marie-Christine Friedrich.  
 Victor, aspirant poète, habite à Vienne avec sa compagne autrichienne et leur petite fille Pamela. Incapable d'écrire, il écume les bars jour et nuit. Quand la famille s'installe à Paris pour prendre un nouveau départ, Victor quitte tout pour une junkie dont il est tombé amoureux. Onze ans plus tard, Pamela décide de revoir son père.
 
-- sa 24 sep 19h00 GF  
+- Sa 24 sep 19h00 GF  
 Séance présentée par Paul Blain, Constance Rousseau et Mia Hansen-Løve
 
 [113488]  
@@ -67,7 +67,7 @@ France-Allemagne / 2011 / 111 min / VO / 35 mm
 Avec Lola Créton, Sebastian Urzendowsky, Magne-Håvard Brekke.  
 Camille, 15 ans, et Sullivan, la vingtaine, s'aiment d'un amour passionné. Mais, à la fin de l'été, Sullivan s'en va.
 
-- sa 24 sep 14h30 HL  
+- Sa 24 sep 14h30 HL  
 Séance présentée par Magne-Håvard Brekke, Lola Créton et Mia Hansen-Løve  
 Voir aussi leçon de cinéma p. xx
 
@@ -78,7 +78,7 @@ France / 2022 / 112 min / DCP
 Avec Léa Seydoux, Melvil Poupaud, Pascal Greggory, Nicole Garcia.  
 Sandra, jeune mère qui élève seule sa fille, rend souvent visite à son père malade. Alors qu'elle s'engage avec sa famille dans un parcours du combattant pour le faire soigner, elle rencontre Clément, un ami perdu de vue depuis longtemps.
 
-- me 21 sep 20h00 HL  
+- Me 21 sep 20h00 HL  
 Avant-première
 
 ## Rencontres et conférences
@@ -90,7 +90,7 @@ Bernard Benoliel est directeur de l'Action culturelle et éducative à la Ciném
 Frédéric Bonnaud est directeur général de la Cinémathèque française.  
 Tarif B (9,50 €)
 
-- sa 24 sep 14h30 HL  
+- Sa 24 sep 14h30 HL  
 À la suite de la projection de _Un amour de jeunesse_ de Mia Hansen-Løve (voir p. xx)
 
 Remerciements : Ad Vitam, Les Films du Losange

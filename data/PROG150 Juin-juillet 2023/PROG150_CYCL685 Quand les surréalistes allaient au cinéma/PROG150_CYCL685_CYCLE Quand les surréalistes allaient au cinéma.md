@@ -36,7 +36,7 @@ France / 1924 / 22 min / INT. FR. / DCP
 Avec Man Ray, Marcel Duchamp, Inge Frïss, Francis Picabia.  
 Essai surréaliste avec une danseuse barbue, un chasseur tyrolien, un corbillard tiré par un chameau et une course derrière un cercueil.
 
-- me 14 juin 20h00 HL  
+- Me 14 juin 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Dominique Païni
 
 ## Longs métrages
@@ -50,7 +50,7 @@ D'après la pièce _Within the Law_ de Bayard Veiller.
 Avec Norma Talmadge, Lew Cody, Jack Mulhall.  
 Mary Turner, envoyée en prison pour un crime qu'elle n'a pas commis, fait le vœu de se venger à sa sortie, mais dans le respect des lois.
 
-- lu 19 juin 18h00 GF  
+- Lu 19 juin 18h00 GF  
 Accompagnement musical par Timothée Quost, Victor Aubert et Adrien Leconte
 
 [47140]  
@@ -61,7 +61,7 @@ Avec Lya Lys, Gaston Modot, Max Ernst, Pierre Prévert.
 La force du désir éprouvé par un couple bouscule et renverse l'ordre social.  
 Scénario coécrit par Luis Buñuel et Salvador Dalí.
 
-- je 15 juin 19h00 HL  
+- Je 15 juin 19h00 HL  
 Séance présentée par Dominique Païni
 
 [47184]  
@@ -72,7 +72,7 @@ D'après le roman _La Femme et le pantin_ de Pierre Louÿs.
 Avec Fernando Rey, Carole Bouquet, Ángela Molina.  
 Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de voyage la passion déchirante qu'il a eue pour Conchita, une jeune femme qui n'a cessé de se dérober à lui.
 
-- je 15 juin 20h45 HL
+- Je 15 juin 20h45 HL
 
 [36444]  
 **La Chasse du comte Zaroff**  
@@ -83,7 +83,7 @@ D'après la nouvelle _The Most Dangerous Game_ de Richard Connell.
 Avec Joel McCrea, Fay Wray, Robert Armstrong.  
 Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte de la capture de gibier humain.
 
-- di 18 juin 17h45 HL
+- Di 18 juin 17h45 HL
 
 [30626]  
 **La Femme au corbeau**  
@@ -94,7 +94,7 @@ D'après le roman _The River_ de Tristram Tupper.
 Avec Mary Duncan, Charles Farrell, Ivan Linow.  
 Rosalee, dont l'amant est emprisonné pour meurtre, rencontre un vagabond. Peu à peu naît entre eux un sentiment amoureux, mais la jeune femme est surveillée par un corbeau censé lui rappeler qu'elle ne doit s'approcher d'aucun homme.
 
-- sa 17 juin 18h00 HL  
+- Sa 17 juin 18h00 HL  
 Accompagnement musical par Jacques Cambra
 
 [30930]  
@@ -106,7 +106,7 @@ Avec Wallace Ford, Leila Hyams, Olga Baclanova.
 Dans un cirque, la belle trapéziste Cléopâtre profite de l'amour que lui porte le nain Hans pour essayer de mettre la main sur l'héritage qu'il vient de toucher.  
 Film également connu sous le titre _La Monstrueuse Parade_.
 
-- ve 16 juin 18h00 HL
+- Ve 16 juin 18h00 HL
 
 [35977]  
 **Hellzapoppin**  
@@ -116,19 +116,19 @@ D'après la comédie musicale _Hellzapoppin_ de Chic Johnson et Ole Olsen.
 Avec Ole Olsen, Chic Johnson, Martha Raye.  
 Ole et Chic débarquent dans un studio de cinéma en plein tournage et sèment la pagaille.
 
-- sa 24 juin 15h00 GF
+- Sa 24 juin 15h00 GF
 
 [79882]  
 **L'Heure suprême**  
 **(Seventh Heaven)**  
 de Frank Borzage  
-États-Unis / 1927 / 118 min / VO / 35 mm  
+États-Unis / 1927 / 118 min / INT. FR. / 35 mm  
 D'après la pièce _Seventh Heaven_ d'Austin Strong.  
 Avec Janet Gaynor, Charles Farrell, Ben Bard.  
 À Paris, en 1914, un balayeur épouse une jeune orpheline le jour de son départ à la guerre.  
 Copie avec musique.
 
-- sa 17 juin 20h15 HL  
+- Sa 17 juin 20h15 HL  
 Accompagnement musical par Gabriel Cazes et Nicolas Giraud
 
 [36414]  
@@ -138,7 +138,7 @@ de Merian C. Cooper, Ernest B. Schoedsack
 Avec Fay Wray, Robert Armstrong, Bruce Cabot.  
 Une équipe de cinéastes se rend en Malaisie avec la blonde vedette Ann Darow. Il s'agit d'atteindre Skull Island, une île où les indigènes vénèrent un animal monstrueux, King Kong. À peine arrivée, Ann est capturée par les autochtones qui l'offrent à leur dieu.
 
-- di 18 juin 19h15 HL
+- Di 18 juin 19h15 HL
 
 [40704]  
 **Loulou**  
@@ -149,7 +149,7 @@ D'après les pièces _Die Büchse der Pandora_ et _Erdgeist_ de Frank Wedekind.
 Avec Louise Brooks, Fritz Kortner, Franz Lederer, Carl Goetz.  
 Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils.
 
-- ve 16 juin 20h00 HL
+- Ve 16 juin 20h00 HL
 
 [33073]  
 **Peter Ibbetson**  
@@ -159,7 +159,7 @@ D'après le roman _Peter Ibbetson_ de George Du Maurier.
 Avec Gary Cooper, Ann Harding, John Halliday, Ida Lupino.  
 Au XIX<sup>e</sup> siècle, Peter Ibbetson, architecte, découvre que la femme de son employeur est un amour de jeunesse.
 
-- di 18 juin 14h30 HL  
+- Di 18 juin 14h30 HL  
 Voir aussi dialogue p. xx
 
 [34496]  
@@ -171,7 +171,7 @@ Avec George Sanders, Angela Lansbury, Peter Lawford.
 Londres, 1886. Le peintre Basil Hallward réalise le portrait d'un jeune et bel aristocrate, Dorian Gray, qui formule le vœu d'une éternelle jeunesse ; seul son portrait vieillira.  
 Restauration 2K par Warner Bros. Pictures.
 
-- lu 19 juin 20h00 GF
+- Lu 19 juin 20h00 GF
 
 ## Programme Tex Avery et Dave Fleischer
 
@@ -284,7 +284,7 @@ de Dave Fleischer
 États-Unis / 1937 / 5 min / DCP  
 Betty Boop se bat pour promouvoir la nomination de son grand-père Grampy à la mairie.
 
-- sa 17 juin 15h00 GF  
+- Sa 17 juin 15h00 GF  
 Séance présentée par Dominique Païni
 
 ## Programme Maya Deren
@@ -319,7 +319,7 @@ de Maya Deren
 États-Unis / 1952 / 15 min / VOSTF / Numérique  
 Exploration du monde intérieur de l'homme, dans lequel il entre au moment où il s'endort.
 
-- me 21 juin 18h00 GF  
+- Me 21 juin 18h00 GF  
 Séance présentée par Dominique Païni
 
 ## Programme cinéma belge
@@ -352,7 +352,7 @@ Belgique / 1928 / 20 min / DCP
 Avec Georges Hugnet, Kissa Kouprine, Mary Stutz.  
 Un clin d'œil aux ciné-romans de Louis Feuillade, avec comme toile de fond le vol d'un collier de perles.
 
-- me 21 juin 20h30 GF  
+- Me 21 juin 20h30 GF  
 Séance présentée par Dominique Païni
 
 ## Documentaires de Fabrice Maze
@@ -375,7 +375,7 @@ de Fabrice Maze
 France / 2003 / 15 min / Numérique  
 Document tourné à la veille de la dispersion de la collection d'André Breton à l'Hôtel Drouot. Le contenu de l'atelier de 100 m<sup>2</sup> se déploie dans toutes les salles du premier étage, chacune d'elles présentant un thème différent.
 
-- je 22 juin 18h30 JE  
+- Je 22 juin 18h30 JE  
 Séance présentée par Fabrice Maze
 
 [154373]  
@@ -385,7 +385,7 @@ de Fabrice Maze
 France / 2015 / 105 min / Numérique  
 Claude Cahun est une femme indépendante, émancipée, rentière, homosexuelle non militante, artiste polyvalente, individualiste révolutionnaire, surréaliste... Elle offre une œuvre photographique novatrice et déconcertante où elle se met en scène avec l'aide de sa compagne, Suzanne Malherbe.
 
-- je 22 juin 20h30 JE  
+- Je 22 juin 20h30 JE  
 Séance présentée par Fabrice Maze
 
 ## Rencontres et conférences
@@ -395,7 +395,7 @@ Dès leur jeunesse, les futurs surréalistes se passionnent pour le cinéma et s
 Dominique Païni a dirigé la Cinémathèque française de 1991 à 2000. Essayiste, programmateur et commissaire d'expositions, il a publié plusieurs livres sur le cinéma. Avec l'historienne de l'art Alix Agret, il est commissaire de l'exposition « Surréalisme au féminin ? » (Musée de Montmartre, 31 mars–10 septembre 2023).  
 Dominique Rabourdin est cinéphile – tendance Nickelodeon –, critique, historien du cinéma et du surréalisme, réalisateur de célèbres émissions de télévision : _Archives du XX<sup>e</sup> siècle_, _Un siècle d'écrivains_, _André Breton par André Breton_, _Souvenirs de l'Âge d'or, Serge Daney, itinéraire d'un ciné-fils_, _Quelques jours avec Douglas Sirk_, _Michel Bouquet : Ma vocation d'acteur_, _Krzysztof Kieślowski_, _Max Schoendorff_. En 2017, il a publié _Cinéma surréaliste_ (Nouvelles Éditions Place).
 
-- di 18 juin 14h30 HL  
+- Di 18 juin 14h30 HL  
 À la suite de la projection de _Peter Ibbetson_ de Henry Hathaway (voir p. xx)
 
 Remerciements : Carlotta Films, Cinémathèque Royale de Belgique, Cinémathèque Suisse, Library of Congress, Light Cone, Lobster Films, Park Circus, Pathé Distribution, Seven Doc, Tamasa Distribution, Fabio Venturi, Warner Bros Picture France

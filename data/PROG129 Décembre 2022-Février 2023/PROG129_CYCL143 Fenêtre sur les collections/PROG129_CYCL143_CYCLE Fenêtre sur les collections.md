@@ -13,7 +13,7 @@ D'après le roman _Typee_ d'Herman Melville.
 Avec Dana Andrews, Jane Powell, Don Dubbins.  
 En 1842, deux marins se retrouvent sur une île où cohabitent deux tribus, l'une amicale et l'autre cannibale.
 
-- ve 3 fév 18h30 JE  
+- Ve 3 fév 18h30 JE  
 Séance présentée par Hervé Pichard
 
 [54498]  
@@ -24,7 +24,7 @@ de Michael D. Moore
 Avec Elvis Presley, Suzanna Leigh, James Shigeta.  
 À Hawaii, un pilote au chômage, coureur de jupons, crée une société de transport en hélicoptère avec son meilleur ami. Mais, dans cet archipel paradisiaque, tout ne se passe pas comme prévu.
 
-- ve 3 fév 20h30 JE  
+- Ve 3 fév 20h30 JE  
 Séance présentée par Hervé Pichard
 
 ## Betty Balfour, Britain's Queen of Happiness
@@ -38,7 +38,7 @@ France / 1927 / 97 min / INT. FR. / 35 mm
 Avec Betty Balfour, Walter Byron, Nicolas Koline.  
 Le cirque Tromboli a posé son chapiteau dans la ville de Nice. Croquette, jeune marchande de confiserie, est contrainte d'improviser un numéro de trapèze.
 
-- ve 6 jan 18h30 JE  
+- Ve 6 jan 18h30 JE  
 Accompagnement musical par Benjamin Moussay. Séance présentée par Béatrice de Pastre et Felicidad Guarda
 
 [41029]  
@@ -56,7 +56,7 @@ Grande-Bretagne / 1922 / 70 min / INT. FR. / DCP
 Avec Betty Balfour, Hugh E. Wright, Fred Groves.  
 Squibs, jeune vendeuse de fleurs à Piccadilly, est l'heureuse gagnante d'une course de chevaux. Elle décide de retrouver sa sœur, partie pour Paris dans de douteuses circonstances.
 
-- ve 6 jan 21h00 JE  
+- Ve 6 jan 21h00 JE  
 Accompagnement musical par Benjamin Moussay. Séance présentée par Felicidad Guarda
 
 ## Henri Alekan / Jean-Louis Leconte : regards croisés
@@ -70,7 +70,7 @@ France / 1998 / 71 min / DCP
 Avec Henri Alekan.  
 Portrait du directeur de la photographie Henri Alekan vu sous quatre angles différents : le technicien et l'artiste, l'inventeur, le militant, le pédagogue.
 
-- ve 2 déc 19h00 JE  
+- Ve 2 déc 19h00 JE  
 Séance présentée par Jean-Louis Leconte et Joël Daire
 
 [56637]  
@@ -81,7 +81,7 @@ Avec Harvey Keitel, Michel Robin, Richard Anconina, Catherine Frot.
 Sur la côte atlantique, un gangster américain blessé échappe à ses poursuivants et se réfugie dans un vieux manoir. La demeure est habitée par Victor, ancien comédien et aveugle, qui vit dans le souvenir de sa femme disparue.  
 Nouvelle restauration par Doriane Films.
 
-- ve 2 déc 21h00 JE  
+- Ve 2 déc 21h00 JE  
 Séance présentée par Jean-Louis Leconte et Joël Daire
 
 Remerciements : Les Acacias, Tamasa Distribution, Diaphana Distribution, La Cinémathèque de Toulouse

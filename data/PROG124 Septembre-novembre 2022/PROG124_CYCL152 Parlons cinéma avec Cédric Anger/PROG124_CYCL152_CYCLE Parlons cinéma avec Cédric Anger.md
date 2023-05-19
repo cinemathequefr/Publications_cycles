@@ -15,7 +15,7 @@ France-Italie / 1960 / 92 min / DCP
 Avec Bernadette Lafont, Stéphane Audran, Clotilde Joano, Lucile Saint-Simon.  
 Quatre jeunes vendeuses dans un petit magasin d'électro-ménager parisien. Quatre vies sentimentales entre rencontres faciles, mariage décevant, dragues et rêve du prince charmant.
 
-- je 15 sep 19h30 GF
+- Je 15 sep 19h30 GF
 
 [58079]  
 **L'Ange rouge**  
@@ -26,7 +26,7 @@ Avec Ayako Wakao, Shinsuke Ashida, Yūsuke Kawazu.
 1939, dans la Chine occupée par les Japonais. Une infirmière est envoyée dans un hôpital de campagne et s'offre à certains blessés pour leur apporter du réconfort, tout en nouant une relation charnelle avec un médecin plus âgé et morphinomane.
 
 
-- je 22 sep 19h30 GF
+- Je 22 sep 19h30 GF
 
 [53459]  
 **Solo**  
@@ -35,7 +35,7 @@ France-Belgique / 1969 / 83 min / DCP
 Avec Jean-Pierre Mocky, Anne Deleuze, Denis Le Guillou.  
 Vincent Cabral est violoniste itinérant et trafiquant de bijoux occasionnel. Son frère, Virgile, dirige un groupe d'extrême-gauche post-Mai 68, dont le but est d'exterminer les bourgeois. Vincent va chercher à aider Virgile au risque d'être pris lui-même dans un engrenage tragique.
 
-- ve 30 sep 19h30 GF
+- Ve 30 sep 19h30 GF
 
 [118866]  
 **Spring Breakers**  
@@ -44,6 +44,6 @@ de Harmony Korine
 Avec James Franco, Vanessa Hudgens, Selena Gomez, Ashley Benson, Rachel Korine.  
 Pour financer leur _spring break_, quatre jeunes filles fauchées et sexy braquent un fast-food. Après le casse, direction les fêtes alcoolisées des plages de Floride, où elles rencontrent « Alien », rappeur et trafiquant de drogue, qui les prend sous son aile.
 
-- je 6 oct 19h30 GF
+- Je 6 oct 19h30 GF
 
 Remerciements : Les Acacias, Tamasa Distribution

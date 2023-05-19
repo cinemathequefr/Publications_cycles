@@ -9,7 +9,7 @@ France / 1974 / 90 min / DCP
 Avec Valéry Giscard d'Estaing.  
 1974. Valéry Giscard d'Estaing, alors ministre de l'Économie et des Finances, se lance dans une campagne « à l'américaine ». Raymond Depardon suit le fringant candidat à la présidentielle et capte des instants rares et historiques de la classe politique française.
 
-- sa 8 juil 20h00 GF
+- Sa 8 juil 20h00 GF
 
 [50421]  
 **Le Chagrin et la Pitié**  
@@ -18,7 +18,7 @@ France-Suisse-RFA / 1969 / 270 min / 35 mm
 Avec Emmanuel d'Astier de la Vigerie, Georges Bidault, Matthäus Bleibinger.  
 Entre 1940 et 1944, Clermont-Ferrand est occupée par les Nazis. Le film dresse la chronique de cette occupation et des différentes réactions de la population : certains vont s'engager dans la Résistance pendant que d'autres choisissent la collaboration.
 
-- ve 23 juin 18h30 HL  
+- Ve 23 juin 18h30 HL  
 Séance présentée par Jean-François Rauger
 
 [52364]  
@@ -27,7 +27,7 @@ de Jean Rouch, Edgar Morin
 France / 1960 / 86 min / DCP  
 Paris, été 1960. Edgar Morin, sociologue, et Jean Rouch, cinéaste et ethnologue, enquêtent sur la vie quotidienne de personnes de milieux et d'âges différents. Ouvriers, étudiants, employés évoquent leurs préoccupations et leurs espoirs, et tentent de répondre à la question : « Êtes-vous heureux ? »
 
-- sa 1 juil 14h30 GF  
+- Sa 1 juil 14h30 GF  
 Voir aussi dialogue p. xx  
 Film précédé de _La Marâtre_ d'Alice Guy
 
@@ -37,7 +37,7 @@ de Jean-Louis Comolli, André S. Labarthe
 France / 1968 / 108 min / 16 mm  
 À l'occasion de la campagne pour les élections législatives de juin 1968 à Asnières, Jean-Louis Comolli et André S. Labarthe filment au jour le jour les réunions, meetings et allocutions des trois principaux candidats : Albin Chalandon (UDR), Claude Denis (PCF) et Roger Hanin (FGDS).
 
-- me 21 juin 20h00 HL  
+- Me 21 juin 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Luc Béraud
 
 [154395]  
@@ -47,7 +47,7 @@ de Leni Riefenstahl
 Allemagne / 1938 / 103 min / VOSTF / DCP  
 Réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936, le film expérimente de nombreuses innovations techniques (ralentis, travellings, contre-plongées) pour mettre en valeur la musculature des athlètes.
 
-- di 2 juil 18h00 GF  
+- Di 2 juil 18h00 GF  
 Séance présentée par Jérôme Prieur
 
 [40226]  
@@ -57,7 +57,7 @@ de Leni Riefenstahl
 Allemagne / 1938 / 127 min / VOSTF / DCP  
 Seconde partie du film réalisé pour la propagande nazie lors des Jeux olympiques de Berlin en 1936.
 
-- di 2 juil 21h15 GF
+- Di 2 juil 21h15 GF
 
 [54259]  
 **Le Dix-septième parallèle**  
@@ -65,7 +65,7 @@ de Joris Ivens, Marceline Loridan
 France-Vietnam / 1967 / 119 min / DCP  
 La lutte quotidienne du village de Vin-Linh, sur le 17<sup>e</sup> parallèle, dans la zone « démilitarisée » qui sépare en deux le Vietnam. Tourné avec du matériel léger et en son direct, le film suit au plus près la vie des habitants réfugiés dans des caves.
 
-- je 6 juil 20h15 GF
+- Je 6 juil 20h15 GF
 
 [79092]  
 **Être et avoir**  
@@ -73,7 +73,7 @@ de Nicolas Philibert
 France / 2002 / 104 min / DCP  
 Immersion au cœur de l'école d'un petit village d'Auvergne, dans son unique classe, qui va de la maternelle au CM2. Jour après jour, on suit le quotidien de cette petite communauté d'enfants qui s'organise autour de l'instituteur.
 
-- sa 24 juin 18h00 HL  
+- Sa 24 juin 18h00 HL  
 Séance présentée par Nicolas Philibert
 
 [54668]  
@@ -83,7 +83,7 @@ de Merian C. Cooper, Ernest B. Schoedsack
 États-Unis / 1925 / 41 min / INT. FR. / DCP  
 Trois journalistes partent à la rencontre d'un peuple kurde oublié, les Bakhtiar. Ils l'accompagnent dans sa grande migration vers des pâturages plus verts de la Perse. Un film épique, avec 50 000 hommes et 500 000 têtes de bétail affrontant la montagne, le froid, la neige et le désert.
 
-- di 9 juil 20h30 GF  
+- Di 9 juil 20h30 GF  
 Film suivi de _Terre sans pain_ de Luis Buñuel
 
 [154415]  
@@ -92,7 +92,7 @@ d'Alice Guy
 France / 1906 / 5 min / DCP  
 Un garde-chasse suscite la fierté de son fils aîné, tant et si bien que celui-ci aide son père à venir à bout de deux braconniers.
 
-- sa 1 juil 18h30 GF  
+- Sa 1 juil 18h30 GF  
 Séance présentée par Barbet Schroeder (sous réserve)  
 Film suivi de _Général Idi Amin Dada_ de Barbet Schroeder
 
@@ -102,7 +102,7 @@ de Barbet Schroeder
 France-Suisse / 1974 / 92 min / DCP  
 Portrait du général Idi Amin Dada, président à vie de l'Ouganda après son coup d'État de 1971. Devant la caméra de Barbet Schroeder, le dictateur se met en scène avec gourmandise, tour à tour naïf et lucide, drôle et sinistre.
 
-- sa 1 juil 18h30 GF  
+- Sa 1 juil 18h30 GF  
 Séance présentée par Barbet Schroeder (sous réserve)  
 Film précédé de _Le Fils du garde de chasse_ d'Alice Guy
 
@@ -112,7 +112,7 @@ d'Agnès Varda
 France / 2000 / 82 min / DCP  
 Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant.
 
-- di 25 juin 18h30 HL  
+- Di 25 juin 18h30 HL  
 Séance présentée par Florence Tissot
 
 [53328]  
@@ -122,7 +122,7 @@ de Dziga Vertov
 URSS / 1929 / 70 min / INT. FR. / DCP  
 Un homme parcourt une ville avec une caméra en bandoulière, documentant la vie urbaine, le travail, les loisirs. Œuvre essentielle de l'avant-garde soviétique, entre expérimentations techniques et virtuosité du montage, le film est une mise en abîme du cinéma.
 
-- je 6 juil 18h30 GF
+- Je 6 juil 18h30 GF
 
 [58050]  
 **Le Joli Mai**  
@@ -131,7 +131,7 @@ France / 1962 / 165 min / DCP
 Avec Yves Montand.  
 Paris, mai 1962. La guerre d'Algérie vient de s'achever. Les Parisiens témoignent de leurs angoisses, leurs bonheurs, leurs espoirs. Peu à peu se dessine un portrait pris sur le vif de la France à l'aube des années 1960.
 
-- di 25 juin 20h45 HL  
+- Di 25 juin 20h45 HL  
 Séance présentée par Luc Béraud
 
 [38514]  
@@ -141,7 +141,7 @@ de Johan van der Keuken
 Pays-Bas / 1978 / 90 min / DCP  
 La Waddenzee, « mer des terres humides », est une région naturelle unique, zone côtière des Pays-Bas, de l'Allemagne et du Danemark qui, selon les marées, est tantôt mer ou tantôt terre. Johan van der Keuken filme cette « jungle plate », sa faune, sa flore et ses habitants.
 
-- me 5 juil 18h30 GF
+- Me 5 juil 18h30 GF
 
 [106219]  
 **La Marâtre**  
@@ -149,7 +149,7 @@ d'Alice Guy
 France / 1906 / 7 min  
 Une belle-mère s'en prend au fils de son mari. Librement inspiré de la pièce de Balzac.
 
-- sa 1 juil 14h30 GF  
+- Sa 1 juil 14h30 GF  
 Voir aussi dialogue p. xx  
 Film suivi de _Chronique d'un été_ de Jean Rouch, Edgar Morin
 
@@ -160,7 +160,7 @@ de Robert J. Flaherty
 États-Unis / 1922 / 50 min / INT. FR. / DCP  
 Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo.
 
-- di 25 juin 14h30 HL  
+- Di 25 juin 14h30 HL  
 Voir aussi dialogue p. xx
 
 [50890]  
@@ -169,7 +169,7 @@ d'Alain Resnais
 France / 1955 / 32 min / DCP  
 Alain Resnais, à la demande du Comité d'histoire de la Seconde Guerre mondiale, se rend à Orianenbourg, Auschwitz, Dachau, Ravensbrück, Belsen, où des milliers d'hommes, de femmes et d'enfants ont perdu la vie dans les camps d'extermination.
 
-- di 9 juil 19h00 GF  
+- Di 9 juil 19h00 GF  
 Film suivi de _Les Statues meurent aussi_ d'Alain Resnais, Chris Marker
 
 [56070]  
@@ -178,7 +178,7 @@ de Pierre Perrault, Michel Brault
 Canada / 1963 / 105 min / VOSTF / 35 mm  
 Documentaire poétique et ethnographique sur la vie des habitants de l'Isle-aux-Coudres, leur langue, et la légendaire pêche au marsouin. Abandonnée depuis trente-huit ans, la technique de pêche ancestrale est reconstituée pour le film par les habitants.
 
-- me 28 juin 20h30 GF
+- Me 28 juin 20h30 GF
 
 [31875]  
 **Primary**  
@@ -186,7 +186,7 @@ de Robert Drew
 États-Unis / 1960 / 60 min / VOSTF / DCP  
 Chronique de la campagne du futur président Kennedy et du sénateur Humphrey pour les élections primaires du Wisconsin, en 1960.
 
-- me 5 juil 20h30 GF
+- Me 5 juil 20h30 GF
 
 [63749]  
 **Récréations**  
@@ -194,7 +194,7 @@ de Claire Simon
 France / 1993 / 54 min / DCP  
 Par l'observation distante d'une cour de récréation de maternelle, Claire Denis révèle les lois et la violence qui régissent ce petit monde de jeux enfantins.
 
-- di 9 juil 17h30 GF
+- Di 9 juil 17h30 GF
 
 [60776]  
 **Reprise**  
@@ -202,7 +202,7 @@ de Hervé Le Roux
 France / 1996 / 180 min / DCP  
 Le 10 juin 1968, des étudiants en cinéma filment la reprise du travail aux usines Wonder de Saint-Ouen. Une jeune ouvrière dit qu'elle ne rentrera pas. Un quart de siècle plus tard, la recherche de cette femme prend le tour d'une enquête quasi obsessionnelle.
 
-- sa 8 juil 14h30 GF  
+- Sa 8 juil 14h30 GF  
 Voir aussi dialogue p. xx
 
 [75848]  
@@ -211,7 +211,7 @@ de Claude Lanzmann
 France / 2001 / 95 min / DCP  
 Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre.
 
-- lu 3 juil 18h00 GF  
+- Lu 3 juil 18h00 GF  
 Séance présentée par Laura Koeppel
 
 [67847]  
@@ -221,7 +221,7 @@ France / 1977 / 111 min / DCP
 Avec Ellen Burstyn, Jane Fonda, Anne Wiazemsky.  
 Vingt-quatre actrices françaises et américaines parlent de leurs expériences professionnelles en tant que femmes, leurs rôles et leurs rapports avec les réalisateurs et les équipes techniques. Bilan collectif sur une profession qui a produit de nombreux rôles stéréotypés.
 
-- lu 3 juil 20h15 GF  
+- Lu 3 juil 20h15 GF  
 Séance présentée par Emilie Cauquy
 
 [50892]  
@@ -230,7 +230,7 @@ d'Alain Resnais, Chris Marker
 France / 1953 / 29 min / DCP  
 Documentaire sur l'art africain, pamphlet anticolonialiste et première collaboration entre Alain Resnais et Chris Marker. Le film fut censuré pendant onze ans.
 
-- di 9 juil 19h00 GF  
+- Di 9 juil 19h00 GF  
 Film précédé de _Nuit et Brouillard_ d'Alain Resnais
 
 [68124]  
@@ -239,7 +239,7 @@ de Chantal Akerman
 France-Belgique / 1999 / 70 min / DCP  
 Voyage dans le sud des États-Unis, avec comme fil rouge le meurtre par lynchage du musicien noir James Byrd Jr.
 
-- sa 1 juil 20h45 GF  
+- Sa 1 juil 20h45 GF  
 Séance présentée par Claire Atherton et Alice Winocour  
 Film précédé de _Vues d'Espagne_ d'Alice Guy
 
@@ -251,7 +251,7 @@ Espagne / 1932 / 27 min / VOSTF / DCP
 D'après le récit _Las Jurdes_ de Maurice Legendre.  
 Documentaire consacré aux miséreux de la région de Las Hurdes en Estrémadure, confrontés à la maladie, aux dangers et à la mort.
 
-- di 9 juil 20h30 GF  
+- Di 9 juil 20h30 GF  
 Film précédé de _L'Exode_ de Merian C. Cooper, Ernest B. Schoedsack
 
 [154414]  
@@ -260,7 +260,7 @@ d'Alice Guy
 France / 1905 / 10 min / DCP  
 Séries de vues documentaires tournées en Espagne. Dans l'une d'entre elles, Alice Guy apparaît à l'image.
 
-- sa 1 juil 20h45 GF  
+- Sa 1 juil 20h45 GF  
 Séance présentée par Claire Atherton et Alice Winocour  
 Film suivi de _Sud_ de Chantal Akerman
 
@@ -270,7 +270,7 @@ de Frederick Wiseman
 États-Unis / 1975 / 167 min / VOSTF / DCP  
 Un panorama du système de santé et de sécurité sociale américain, à travers les problèmes de logement, de chômage, de divorce, de maltraitance d'enfants. Dans un bureau new-yorkais, les travailleurs sociaux comme les usagers se retrouvent démunis face à un système qui gouverne leur travail et leur vie.
 
-- sa 24 juin 20h30 HL  
+- Sa 24 juin 20h30 HL  
 Séance présentée par Frederick Wiseman
 
 ## Programme Georges Franju
@@ -311,7 +311,7 @@ France / 1955 / 25 min / 35 mm
 Avec Jacqueline Lemaire.  
 Une famille habitant une maison bourgeoise de la banlieue parisienne part en vacances. Sur la route, les parents abandonnent le chien de leur petite fille dans la forêt.
 
-- lu 26 juin 20h15 GF  
+- Lu 26 juin 20h15 GF  
 Séance présentée par Joël Daire
 
 ## Programme Jean Painlevé
@@ -353,7 +353,7 @@ de Jean Painlevé
 France / 1978 / 6 min / DCP  
 Étude au microscope des dispositions moléculaires multicolores des cristaux liquides.
 
-- me 28 juin 18h30 GF  
+- Me 28 juin 18h30 GF  
 Séance présentée par Brigitte Berg
 
 ## Rencontres et conférences
@@ -364,7 +364,7 @@ Rencontre animée par Bernard Benoliel
 Pierre Gabaston : depuis plus de cinquante ans, un éternel enfant de la Cinémathèque – aussi n'ai-je pas beaucoup de cheveux blancs. De Chaillot à Bercy (direct avec la 6), je m'évertue, avant tout, de _VOIR UN FILM_. Sortant d'une projection, je me forme au sein de petits groupes d'amis. Collèges ardents et flottants, soudain ils se défont, s'agrègent autrement, selon leurs anxiétés filmiques à fleur de peau. Ce fut et restera mon Académie de Platon, mon Agora cinéphilique. La meilleure école. Enseignant auprès d'enfants handicapés. Ma vocation. Auteur de textes et de monographies chez Yellow Now, de _Cahiers de notes_ pour les Enfants de cinéma, d'écrits dans la revue _Trafic_.  
 Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.
 
-- di 25 juin 14h30 HL  
+- Di 25 juin 14h30 HL  
 À la suite de la projection de _Nanouk l'esquimau_ de Robert J. Flaherty (voir p. xx)
 
 **Film + Dialogue avec Frédérique Berthet**  
@@ -373,7 +373,7 @@ Rencontre animée par Bernard Benoliel
 Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
 Professeure de cinéma, Frédérique Berthet est aussi membre de la Commission de recherche historique de la Cinémathèque française. Elle a publié _De Warhol à Wenders, une vie de cinéma : Souvenirs de Pascale Dauman_ (Ramsay, 2008), ainsi que deux ouvrages aux éditions P.O.L : en 2020, un roman, _Never(s)_, et un essai, _La Voix manquante_ (Prix 2018 du livre de cinéma du CNC), qui décrit avec précision l'aventure de _Chronique d'un été_ et, au cœur de cette expérience de « cinéma-vérité », revient sur le secret d'une femme, Marceline Loridan.
 
-- sa 1 juil 14h30 GF  
+- Sa 1 juil 14h30 GF  
 À la suite de la projection de _Chronique d'un été_ de Jean Rouch, Edgar Morin, _La Marâtre_ d'Alice Guy (voir p. xx)
 
 **Film + Dialogue avec David Faroult**  
@@ -382,7 +382,7 @@ Juin 1968 : une jeune ouvrière des usines Wonder de Saint-Ouen refuse de repren
 Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
 David Faroult est maître de conférences en cinéma à l'École nationale supérieure Louis-Lumière. Une part importante de ses recherches et publications concerne les cinémas politiques issus de 1968 et le « groupe » Dziga Vertov, dont il a présenté les films en bonus de leur première édition en DVD (_Jean-Luc Godard y el grupo Dziga Vertov_, Intermedio, 2008). Il a codirigé l'ouvrage _Jean-Luc Godard : Documents_ (Centre Pompidou, 2006) et, a publié _Godard, inventions d'un cinéma politique_ (Les prairies ordinaires, 2018).
 
-- sa 8 juil 14h30 GF  
+- Sa 8 juil 14h30 GF  
 À la suite de la projection de _Reprise_ de Hervé Le Roux (voir p. xx)
 
 Remerciements : Armor Films, Ciné-Tamaris, Cinémathèque Royale de Belgique, Documentaire sur grand écran, Documents Cinématographiques, Gaumont, Gaumont Pathé Archives, Grands Films Classiques, Les Films du Losange, Les Films du Paradoxe, Lobster Films, Meteor Films, MK2 Diffusion, Palmeraie et désert, Sofra, Sophie Dulac Distribution, Splendor Films, Tamasa Distribution, Why Not Productions

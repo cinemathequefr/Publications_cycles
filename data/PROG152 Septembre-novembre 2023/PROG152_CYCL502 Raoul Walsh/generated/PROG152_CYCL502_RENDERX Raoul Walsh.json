@@ -42,36 +42,63 @@
         ]
       },
       {
-        "idFilm": 36827,
-        "content": [
+        "groupe": [
           {
             "idFilm": 36827,
-            "ordre": 1,
-            "titre": "Annie du Klondike",
-            "titreVo": "Klondike Annie",
-            "realisateurs": "Raoul Walsh",
-            "annee": 1936,
-            "duree": 77,
-            "version": "VOSTF",
-            "format": "16 mm",
-            "generique": [
-              "Mae West",
-              "Victor McLaglen",
-              "Phillip Reed"
-            ],
-            "textes": [
+            "content": [
               {
-                "typeTexte": 9,
-                "texte": "À la fin du 19e siècle, Rose Carlton, une chanteuse de cabaret de San Francisco, s'enfuit sur une bateau après avoir poignardé son protecteur. Sur le cargo, elle sympathise avec la Sœur Annie, une missionnaire, qui ne tarde pas à décéder et dont elle va prendre la place."
+                "idFilm": 36827,
+                "ordre": 1,
+                "titre": "Annie du Klondike",
+                "titreVo": "Klondike Annie",
+                "realisateurs": "Raoul Walsh",
+                "annee": 1936,
+                "duree": 77,
+                "version": "VOSTF",
+                "format": "16 mm",
+                "generique": [
+                  "Mae West",
+                  "Victor McLaglen",
+                  "Phillip Reed"
+                ],
+                "textes": [
+                  {
+                    "typeTexte": 9,
+                    "texte": "À la fin du 19e siècle, Rose Carlton, une chanteuse de cabaret de San Francisco, s'enfuit sur une bateau après avoir poignardé son protecteur. Sur le cargo, elle sympathise avec la Sœur Annie, une missionnaire, qui ne tarde pas à décéder et dont elle va prendre la place."
+                  }
+                ]
+              }
+            ],
+            "seances": [
+              {
+                "idSeance": 104565,
+                "idSeanceAssoc": 104565,
+                "typeAssoc": 117,
+                "dateHeure": "2023-09-13T20:00:00",
+                "idSalle": "HL"
               }
             ]
-          }
-        ],
-        "seances": [
+          },
           {
-            "idSeance": 104565,
-            "dateHeure": "2023-09-13T20:00:00",
-            "idSalle": "HL"
+            "idEvenement": 28592,
+            "content": [
+              {
+                "idConf": 28592,
+                "titre": "Film + Discussion avec Jean-François Rauger et Murielle Joudet",
+                "typeConference": "Dialogue",
+                "textes": []
+              }
+            ],
+            "seances": [
+              {
+                "idSeance": 104671,
+                "idSeanceAssoc": 104565,
+                "typeAssoc": 117,
+                "dateHeure": "2023-09-13T21:15:00",
+                "idSalle": "HL",
+                "mentionAssoc": "À la suite de la conférence, à 20h00, projection d'un film choisi par le conférencier : _Annie du Klondike_ de Raoul Walsh"
+              }
+            ]
           }
         ]
       },
@@ -114,37 +141,65 @@
         ]
       },
       {
-        "idFilm": 37819,
-        "content": [
+        "groupe": [
           {
             "idFilm": 37819,
-            "ordre": 1,
-            "titre": "Aventures du capitaine Wyatt",
-            "art": "Les",
-            "titreVo": "Distant Drums",
-            "realisateurs": "Raoul Walsh",
-            "annee": 1951,
-            "duree": 101,
-            "version": "VOSTF",
-            "format": "35 mm",
-            "generique": [
-              "Gary Cooper",
-              "Mari Aldon",
-              "Richard Webb"
-            ],
-            "textes": [
+            "content": [
               {
-                "typeTexte": 9,
-                "texte": "Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades. Remake de _Aventures en Birmanie_."
+                "idFilm": 37819,
+                "ordre": 1,
+                "titre": "Aventures du capitaine Wyatt",
+                "art": "Les",
+                "titreVo": "Distant Drums",
+                "realisateurs": "Raoul Walsh",
+                "annee": 1951,
+                "duree": 101,
+                "version": "VOSTF",
+                "format": "35 mm",
+                "generique": [
+                  "Gary Cooper",
+                  "Mari Aldon",
+                  "Richard Webb"
+                ],
+                "textes": [
+                  {
+                    "typeTexte": 9,
+                    "texte": "Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades. Remake de _Aventures en Birmanie_."
+                  }
+                ]
+              }
+            ],
+            "seances": [
+              {
+                "idSeance": 104417,
+                "idSeanceAssoc": 104417,
+                "typeAssoc": 117,
+                "dateHeure": "2023-09-16T14:30:00",
+                "idSalle": "HL"
               }
             ]
-          }
-        ],
-        "seances": [
+          },
           {
-            "idSeance": 104417,
-            "dateHeure": "2023-09-16T14:30:00",
-            "idSalle": "HL"
+            "idEvenement": 28588,
+            "content": [
+              {
+                "idConf": 28588,
+                "titre": "Film + discussion avec Pierre Gabaston",
+                "sousTitre": "Conférence de Pierre Gabaston",
+                "typeConference": "Conférence",
+                "textes": []
+              }
+            ],
+            "seances": [
+              {
+                "idSeance": 104669,
+                "idSeanceAssoc": 104417,
+                "typeAssoc": 117,
+                "dateHeure": "2023-09-16T16:45:00",
+                "idSalle": "HL",
+                "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Les Aventures du capitaine Wyatt_ de Raoul Walsh"
+              }
+            ]
           }
         ]
       },
@@ -1629,7 +1684,7 @@
             "annee": 1915,
             "duree": 52,
             "version": "INT. FR.",
-            "format": "DCP",
+            "format": "35 mm",
             "generique": [
               "Henry B. Walthall",
               "Mary Alden",

@@ -16,5 +16,5 @@ Avec Jerzy Skolimowski, Aleksandra Zawieruszanka, Krzysztof Chamiec, Elżbieta C
 À la veille de ses trente ans, Andrzej, sans attaches, s'arrête par hasard dans une ville industrielle de Pologne. Il retrouve une ancienne amie, Teresa, ingénieure dans une immense usine. Le club sportif du combinat propose à Andrzej, ancien boxeur, de remonter sur le ring. Il hésite, puis accepte car, selon lui, un boxeur est déshonoré s'il déclare forfait (« walkover »).  
 Film restauré en 4K à partir du négatif 35 mm original par Kadr Film Studio dans le cadre du programme Polish Film Classics.
 
-- me 16 nov 19h30 GF
+- Me 16 nov 19h30 GF
 

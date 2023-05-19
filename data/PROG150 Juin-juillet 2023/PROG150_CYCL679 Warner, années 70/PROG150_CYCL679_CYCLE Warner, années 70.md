@@ -10,7 +10,7 @@ de Martin Scorsese
 Avec Ellen Burstyn, Kris Kristofferson, Harvey Keitel.  
 Alice, 35 ans, est mariée et malheureuse. Devenue veuve, elle part avec son fils poursuivre son rêve de petite fille – devenir chanteuse – mais se retrouve serveuse de snack. La chance de sa vie apparaît enfin sous les traits de David, un propriétaire de ranch divorcé.
 
-- me 7 juin 18h30 GF
+- Me 7 juin 18h30 GF
 
 [33679]  
 **La Balade sauvage**  
@@ -20,7 +20,7 @@ de Terrence Malick
 Avec Martin Sheen, Sissy Spacek, Warren Oates.  
 Holly, 15 ans, rencontre Kit, un jeune éboueur au chômage. Lorsque le père de Holly s'oppose à leur amour, Kit le tue. Le jeune couple entame alors une cavale meurtrière sur les routes entre le Dakota du Sud et le Montana.
 
-- sa 17 juin 14h30 HL  
+- Sa 17 juin 14h30 HL  
 Séance présentée par Nadav Lapid
 
 [35805]  
@@ -30,7 +30,7 @@ d'Arthur Penn
 Avec Warren Beatty, Faye Dunaway, Michael J. Pollard, Gene Hackman.  
 États-Unis, pendant la Grande Dépression. Un couple de malfrats, Bonnie Parker et Clyde Barrow, sillonne le pays en braquant des banques, et s'embarque dans une cavale sanglante.
 
-- me 31 mai 20h00 HL  
+- Me 31 mai 20h00 HL  
 Ouverture de la rétrospective
 
 [45254]  
@@ -41,7 +41,7 @@ D'après le roman _Mute Witness_ de Robert L. Pike.
 Avec Steve McQueen, Robert Vaughn, Jacqueline Bisset.  
 Bullitt, un lieutenant de police, est chargé par un politicien ambitieux de protéger Johnny Ross, un gangster dont le témoignage est attendu devant une commission d'enquête.
 
-- ve 2 juin 18h00 HL  
+- Ve 2 juin 18h00 HL  
 Séance présentée par Frédéric Bonnaud
 
 [35173]  
@@ -53,7 +53,7 @@ D'après le roman _Le Cœur est un chasseur solitaire_ de Carson McCullers.
 Avec Alan Arkin, Sondra Locke, Stacy Keach.  
 Ayant trouvé du travail dans une petite ville du Sud des États-Unis, John Singer, un sourd-muet, loge chez les Kelly, et tente de devenir l'ami de Mick, leur fille de quatorze ans.
 
-- di 11 juin 18h00 GF
+- Di 11 juin 18h00 GF
 
 [30443]  
 **Délivrance**  
@@ -64,7 +64,7 @@ D'après le roman _Délivrance_ de James Dickey.
 Avec Jon Voight, Burt Reynolds, Ned Beatty.  
 Quatre citadins américains décident de descendre en canoë une rivière des Appalaches vouée à disparaître après la construction d'un barrage. Agressés par des habitants du coin, ils voient leur week-end tourner au cauchemar.
 
-- sa 3 juin 15h00 HL  
+- Sa 3 juin 15h00 HL  
 Séance présentée par Frédéric Bonnaud
 
 [36741]  
@@ -75,7 +75,7 @@ de Jerry Schatzberg
 Avec Al Pacino, Gene Hackman, Dorothy Tristan.  
 Max et Lion se rencontrent et se lient d'amitié sur la route, alors qu'ils voyagent en autostop. Le premier, après six ans de prison, veut gagner Pittsburgh pour y ouvrir un _car-wash_. Le second tente de rejoindre Detroit pour retrouver celle qui lui a fait un enfant cinq ans plus tôt.
 
-- je 15 juin 17h00 GF  
+- Je 15 juin 17h00 GF  
 Séance présentée par Pierre Filmon
 
 [31676]  
@@ -86,7 +86,7 @@ de Clint Eastwood
 Avec Clint Eastwood, Sondra Locke, Pat Hingle.  
 Le policier Ben Shockley est chargé de convoyer un suspect de Las Vegas à Phoenix. Il s'apercoit qu'il s'agit en réalité d'une femme que l'on cherche à supprimer à tout prix.
 
-- je 1 juin 16h00 GF  
+- Je 1 juin 16h00 GF  
 Séance présentée par Bernard Benoliel
 
 [31698]  
@@ -98,7 +98,7 @@ D'après le roman _L'Exorciste_ de William Peter Blatty.
 Avec Linda Blair, Ellen Burstyn, Max von Sydow, Jason Miller, Lee J. Cobb.  
 Une adolescente présente tous les signes d'une possession diabolique. Un prêtre est appelé à son chevet pour combattre le démon qui s'est emparé d'elle.
 
-- di 11 juin 14h30 HL  
+- Di 11 juin 14h30 HL  
 Séance présentée par Lucile Hadzihalilovic
 
 [35701]  
@@ -109,7 +109,7 @@ d'Arthur Penn
 Avec Gene Hackman, Susan Clark, Melanie Griffith, James Woods.  
 Le détective Harry Moseby est chargé par une ancienne actrice de retrouver sa fille de 16 ans, qui vient de fuguer. Tandis qu'il découvre que son épouse Ellen le trompe avec un autre homme, Harry part à la recherche de la jeune fille et la retrouve en Floride, dans une maison en bord de mer.
 
-- je 15 juin 19h30 GF
+- Je 15 juin 19h30 GF
 
 [32058]  
 **Les Gens de la pluie**  
@@ -119,7 +119,7 @@ de Francis Ford Coppola
 Avec James Caan, Robert Duvall, Shirley Knight.  
 Paniquée par la nouvelle de sa grossesse, Natalie quitte le domicile conjugal en ne laissant qu'une lettre à son époux. Sur la route, elle rencontre Jimmy, mentalement atteint par un accident de sport, qui lui parle des « gens de la pluie ».
 
-- lu 5 juin 17h00 HL
+- Lu 5 juin 17h00 HL
 
 [35286]  
 **Graffiti Party**  
@@ -129,7 +129,7 @@ de John Milius
 Avec Jan-Michael Vincent, William Katt, Gary Busey.  
 Dans les années 1960, Matt, Jack et Leroy partagent une même passion pour le surf. Séparés par les aléas de la vie, ils se retrouvent en 1974 pour le « Big Wednesday », jour où survient la vague la plus haute et la plus parfaite.
 
-- sa 10 juin 14h30 HL  
+- Sa 10 juin 14h30 HL  
 Séance présentée par Nicolas Pariser
 
 [35020]  
@@ -141,7 +141,7 @@ D'après le livre _All the President's Men_ de Carl Bernstein et Bob Woodward.
 Avec Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam, Jason Robbards.  
 Bob Woodward et Carl Bernstein, journalistes au _Washington Post_, dévoilent les détails du scandale du Watergate qui mènera à la démission du président Richard Nixon.
 
-- me 7 juin 21h00 GF
+- Me 7 juin 21h00 GF
 
 [54404]  
 **L'Inspecteur Harry**  
@@ -151,7 +151,7 @@ de Don Siegel
 Avec Clint Eastwood, Harry Guardino, Reni Santoni.  
 À San Francisco, l'inspecteur Harry Callahan poursuit un tueur qui menace d'exécuter une personne par jour tant que 200 000 dollars ne lui seront pas versés.
 
-- sa 3 juin 17h30 HL  
+- Sa 3 juin 17h30 HL  
 Séance présentée par Jean-François Rauger
 
 [35827]  
@@ -162,9 +162,9 @@ D'après les romans _Mountain Man_ de Vardis Fisher et _Crow Killer_ de Raymond 
 Avec Robert Redford, Will Geer, Stefan Gierasch.  
 Dans les années 1850, Jeremiah Johnson, fuyant la violence du monde civilisé, s'enfonce dans les montagnes Rocheuses. Confronté à un environnement qu'il ne connaît pas, il doit également faire face à la révolte des Indiens.
 
-- sa 3 juin 20h00 HL  
+- Sa 3 juin 20h00 HL  
 Séance présentée par Jean-François Rauger  
-- me 14 juin 20h30 GF
+- Me 14 juin 20h30 GF
 
 [30210]  
 **John McCabe**  
@@ -175,9 +175,9 @@ D'après le roman _McCabe_ d'Edmund Naughton.
 Avec Warren Beatty, Julie Christie, René Auberjonois.  
 En 1902, John McCabe débarque dans une petite ville minière de l'Ouest américain, et s'associe avec Constance Miller, une prostituée, pour ouvrir une maison close. Leur réussite suscite bientôt l'attention de gros investisseurs.
 
-- ve 2 juin 20h45 HL  
+- Ve 2 juin 20h45 HL  
 Séance présentée par Frédéric Bonnaud  
-- ve 16 juin 16h30 GF
+- Ve 16 juin 16h30 GF
 
 [34744]  
 **Klute**  
@@ -186,8 +186,8 @@ d'Alan J. Pakula
 Avec Jane Fonda, Donald Sutherland, Roy Scheider.  
 John Klute, détective privé, est chargé par un ami de retrouver une connaissance commune disparue subitement. Son enquête le mène à Bree Daniels, une prostituée new-yorkaise, elle-même destinataire de lettres obscènes.
 
-- je 1 juin 20h30 HL  
-- ve 9 juin 16h30 GF
+- Je 1 juin 20h30 HL  
+- Ve 9 juin 16h30 GF
 
 [45104]  
 **Luke la main froide**  
@@ -197,7 +197,7 @@ de Stuart Rosenberg
 Avec Paul Newman, George Kennedy.  
 Luke, condamné pour un acte de vandalisme commis en état d'ivresse, purge une peine de deux ans de prison dans un camp de travail. Au cours de sa détention, il apprend le décès de sa mère, et tente de s'évader.
 
-- di 18 juin 19h45 GF
+- Di 18 juin 19h45 GF
 
 [36092]  
 **Mean Streets**  
@@ -207,7 +207,7 @@ Avec Robert De Niro, Harvey Keitel, David Proval.
 Little Italy, à New York. Quatre jeunes voyous d'origine italienne au service de la mafia tentent par différents moyens de s'imposer dans leur quartier.  
 Version restaurée.
 
-- sa 10 juin 18h00 GF
+- Sa 10 juin 18h00 GF
 
 [31090]  
 **Opération Dragon**  
@@ -217,7 +217,7 @@ de Robert Clouse
 Avec Bruce Lee, John Saxon, Jim Kelly, Bernard Benoliel.  
 Lee, un membre du temple Shaolin, est chargé par la police d'infiltrer un tournoi d'arts martiaux afin de démasquer Han, un ancien du temple qui vit désormais du trafic d'opium et de la traite de femmes.
 
-- sa 17 juin 17h15 GF  
+- Sa 17 juin 17h15 GF  
 Séance présentée par Bernard Benoliel
 
 [34020]  
@@ -229,7 +229,7 @@ D'après le roman _L'Orange mécanique_ d'Anthony Burgess.
 Avec Malcolm McDowell, Adrienne Corri, Patrick Magee.  
 Dans une société futuriste, Alex, adolescent pervers, exerce avec sa bande une terreur aveugle sur tout son entourage. Après son arrestation, des psychiatres l'emploient comme cobaye d'une expérience censée éliminer les pulsions agressives.
 
-- di 4 juin 17h30 HL
+- Di 4 juin 17h30 HL
 
 [35614]  
 **Rachel, Rachel**  
@@ -238,7 +238,7 @@ de Paul Newman
 Avec Joanne Woodward, James Olson, Kate Harrington, Estelle Parsons.  
 Dans une petite ville du Connecticut, Rachel, une institutrice solitaire de 35 ans, vit toujours sous l'emprise de sa mère. Elle porte tous ses espoirs de changement sur un ami d'enfance, de passage, qui l'invite à sortir.
 
-- di 11 juin 20h15 GF
+- Di 11 juin 20h15 GF
 
 [34068]  
 **Shining**  
@@ -249,7 +249,7 @@ D'après le roman _Shining : L'Enfant lumière_ de Stephen King.
 Avec Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers.  
 L'écrivain Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.
 
-- di 4 juin 20h15 HL
+- Di 4 juin 20h15 HL
 
 [34631]  
 **THX 1138**  
@@ -258,8 +258,8 @@ de George Lucas
 Avec Robert Duvall, Donald Pleasence, Maggie McOmie, Don Pedro Colley.  
 Au XXV<sup>e</sup> siècle, dans une cité souterraine futuriste où les gens sont identifiés par des chiffres et où tout est interdit, deux hommes et une femme se rebellent et tentent de s'échapper.
 
-- me 14 juin 18h30 GF  
-- sa 17 juin 19h45 GF
+- Me 14 juin 18h30 GF  
+- Sa 17 juin 19h45 GF
 
 [34777]  
 **Un après-midi de chien**  
@@ -269,7 +269,7 @@ de Sidney Lumet
 Avec Al Pacino, John Cazale, Charles Durning.  
 Par un chaud après-midi d'août, Sonny et ses complices braquent une banque de Brooklyn. Mais le coffre est quasiment vide et la police a encerclé les lieux. Le braquage se transforme en prise d'otages et en cirque médiatique.
 
-- di 4 juin 14h30 HL  
+- Di 4 juin 14h30 HL  
 Séance présentée par Jean-François Rauger
 
 [34999]  
@@ -280,7 +280,7 @@ de Robert Mulligan
 Avec Jennifer O'Neill, Gary Grimes, Jerry Houser.  
 Hermie se souvient avec nostalgie de cet été 1942 passé sur l'île de Nantucket. Garçon timide de 15 ans, il avait du mal à aborder les filles de son âge. Jusqu'à ce qu'il rencontre Dorothy, une jeune femme dont le mari venait de partir à la guerre.
 
-- di 18 juin 17h15 GF
+- Di 18 juin 17h15 GF
 
 [35645]  
 **Un nommé Cable Hogue**  
@@ -290,8 +290,8 @@ de Sam Peckinpah
 Avec Jason Robards, Stella Stevens, David Warner.  
 Un vagabond, abandonné par ses partenaires et au bord de l'agonie, trouve par hasard un point d'eau dans le désert. Il décide d'installer un relais pour les diligences dont le trajet passe à proximité.
 
-- je 1 juin 18h00 HL  
-- je 8 juin 17h00 GF
+- Je 1 juin 18h00 HL  
+- Je 8 juin 17h00 GF
 
 [37468]  
 **Woodstock**  
@@ -299,7 +299,7 @@ de Michael Wadleigh
 États-Unis / 1970 / 185 min / VOSTF / DCP  
 Documentaire sur le célèbre festival organisé en août 1969 à Bethel, près de Woodstock (État de New York), qui rassembla 500 000 spectateurs.
 
-- lu 12 juin 19h00 GF
+- Lu 12 juin 19h00 GF
 
 [34884]  
 **Yakuza**  
@@ -308,6 +308,6 @@ de Sydney Pollack
 Avec Robert Mitchum, Ken Takakura, Keiko Kishi, Brian Keith.  
 Harry Kilmer, détective privé, retourne au Japon où il a servi pendant la Seconde Guerre mondiale, pour sauver la fille d'un ami kidnappée par des yakuzas. Cette mission au cœur des rouages du syndicat du crime le confronte à son passé.
 
-- sa 10 juin 20h30 GF
+- Sa 10 juin 20h30 GF
 
 Remerciements : Carlotta Films, Warner Bros Picture France, Warner GB.

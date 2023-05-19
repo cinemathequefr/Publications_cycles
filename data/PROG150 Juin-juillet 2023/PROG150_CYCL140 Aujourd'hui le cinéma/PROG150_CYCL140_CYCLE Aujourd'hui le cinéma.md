@@ -13,7 +13,7 @@ France / 2021 / 108 min / DCP
 Avec Céleste Brunnquell, Quentin Dolmaire, Chloé Mons, Meghan Northam.  
 À 15 ans, Sophie, alias Fifi, voudrait bien profiter de l'été. Quand elle croise une ancienne amie sur le point de partir en voyage, elle lui dérobe les clés de sa maison, désertée pour les vacances. Elle s'y installe en cachette.
 
-- lu 5 juin 19h30 GF  
+- Lu 5 juin 19h30 GF  
 Avant-première. Séance suivie d'une discussion avec Paul Saintillan et Jeanne Aslan
 
 ## Ursula Meier
@@ -27,7 +27,7 @@ Suisse-France-Belgique / 2022 / 103 min / DCP
 Avec Stéphanie Blanchoud, Valeria Bruni Tedeschi, Elli Spagnolo, Benjamin Biolay.  
 Après avoir agressé violemment sa mère, Margaret, 35 ans, doit se soumettre à une mesure stricte d'éloignement en attendant son jugement. Mais cette distance qui la sépare de son foyer ne fait qu'exacerber son désir de se rapprocher des siens.
 
-- lu 12 juin 19h00 JE  
+- Lu 12 juin 19h00 JE  
 Séance suivie d'une discussion avec Ursula Meier
 
 ## Cheng-Chui Kuo
@@ -41,7 +41,7 @@ Taïwan / 2016 / 94 min / VOSTF / DCP
 Avec Lun-Mei Gwei, Lu Yi-Ching.  
 Une fille et sa mère voyagent dans une forêt dense, où personne ne pourra jamais les retrouver.
 
-- lu 19 juin 19h30 JE  
+- Lu 19 juin 19h30 JE  
 Séance suivie d'une discussion avec Cheng-Chui Kuo
 
 ## Courts métrages Arte (printemps-été 2023)
@@ -81,7 +81,7 @@ France / 2022 / 22 min / DCP
 Avec Lou Deleuze, Katell Vavat, Pauline Lorillard.  
 Madeleine, huit ans, accompagne sa mère esthéticienne à domicile chez de nouvelles clientes. Arrivée à la maison, elle fait la connaissance d'Eugénie, Constance et Émeraude, qui l'invitent au sous-sol à participer à un cruel jeu de société.
 
-- lu 26 juin 20h00 JE
+- Lu 26 juin 20h00 JE
 
 ## Carte blanche au Busan International Short Film Festival
 
@@ -112,7 +112,7 @@ Corée / 2021 / 17 min / VOSTF / DCP
 Avec Jung E-jae, Kim Nina.  
 Chang-hyeon, une prostituée transgenre, rencontre un client qui lui semble à la fois familier et inconnu.
 
-- lu 3 juil 19h00 JE  
+- Lu 3 juil 19h00 JE  
 Séance présentée par Sanghoon Lee
 
 ## Thomas Bardinet
@@ -126,6 +126,6 @@ France / 2023 / 77 min / DCP
 Avec Yasmine Kherbouche, Kylian Mahamoud, Théodore Dupleix.  
 Myriam, orpheline, apprend qu'elle va changer de famille d'accueil. Souvent moquée pour sa naïveté, elle voit des animaux qui parlent ou des sorcières bienveillantes. Elle seule pourrait croire au destin du jeune Bilal, qui va rejoindre ses parents scientifiques sur la planète Mars. Ce premier jour d'été sera pour tous les deux le dernier qu'ils vivront sur le territoire de leur enfance.
 
-- lu 10 juil 19h30 JE  
+- Lu 10 juil 19h30 JE  
 Séance suivie d'une discussion avec Thomas Bardinet
 

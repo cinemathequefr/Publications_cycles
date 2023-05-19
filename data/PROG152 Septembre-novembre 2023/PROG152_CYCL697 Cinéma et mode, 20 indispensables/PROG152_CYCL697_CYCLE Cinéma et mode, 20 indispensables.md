@@ -10,7 +10,7 @@ D'après le roman _L'Irrégulière ou mon itinéraire Chanel_ d'Edmonde Charles-
 Avec Audrey Tautou, Benoît Poelvoorde, Alessandro Nivola.  
 L'histoire fascinante de Coco Chanel, une jeune femme partie de rien, devenue reine de la haute couture parisienne et véritable icône de la mode.
 
-- di 3 sep 17h15 GF
+- Di 3 sep 17h15 GF
 
 [107938]  
 **Coco Chanel et Igor Stravinsky**  
@@ -20,7 +20,7 @@ D'après le roman _Coco & Igor_ de Chris Greenhalgh.
 Avec Anna Mouglalis, Mads Mikkelsen, Elena Morozova.  
 Les amours brèves et orageuses entre deux légendes de la musique et de la mode, qui chacune à sa manière ont révolutionné leur époque.
 
-- di 3 sep 19h30 GF
+- Di 3 sep 19h30 GF
 
 [47063]  
 **Le Couturier de ces dames**  
@@ -29,7 +29,7 @@ France / 1956 / 95 min / 16 mm
 Avec Fernandel, Suzy Delair, Françoise Fabian.  
 Simple coupeur chez un tailleur, Fernand Vignard accède à son rêve de tenir sa propre maison grâce à un héritage.
 
-- di 10 sep 17h00 GF
+- Di 10 sep 17h00 GF
 
 [100397]  
 **Le Diable s'habille en Prada**  
@@ -40,7 +40,7 @@ D'après le roman _The Devil Wears Prada_ de Lauren Weisberger.
 Avec Meryl Streep, Anne Hathaway, Emily Blunt.  
 Une jeune et brillante diplômée s'installe à New York et devient l'assistante d'une rédactrice en chef tyrannique d'un grand magazine de mode.
 
-- di 3 sep 15h00 GF
+- Di 3 sep 15h00 GF
 
 [31344]  
 **Drôle de frimousse**  
@@ -50,7 +50,7 @@ de Stanley Donen
 Avec Fred Astaire, Audrey Hepburn, Michel Auclair, Kay Thompson.  
 Un magazine recherche un mannequin pour porter les dernières créations d'un couturier de renom. Jo Stockton, une jeune libraire, accepte la proposition et se rend à Paris, plus intéressée par le professeur de philosophie Flostre que par la mode.
 
-- di 10 sep 14h30 GF
+- Di 10 sep 14h30 GF
 
 [46638]  
 **Falbalas**  
@@ -59,7 +59,7 @@ France / 1944 / 95 min / DCP
 Avec Raymond Rouleau, Micheline Presle, Jean Chevrier.  
 Un couturier parisien, incorrigible séducteur, s'intéresse à la fiancée de son meilleur ami.
 
-- di 10 sep 19h00 GF
+- Di 10 sep 19h00 GF
 
 [43398]  
 **Fellini Roma**  
@@ -69,7 +69,7 @@ Italie-France / 1971 / 119 min / VOSTF / 35 mm
 Avec Peter Gonzales Falcon, Fiona Florence, Marne Maitland.  
 Rome de 1930 à nos jours vue par un de ses admirateurs, Federico Fellini. Fresque monumentale où réalité et fantasme sont étroitement mêlés.
 
-- je 7 sep 19h30 HL
+- Je 7 sep 19h30 HL
 
 [35221]  
 **La Femme modèle**  
@@ -79,7 +79,7 @@ de Vincente Minnelli
 Avec Gregory Peck, Lauren Bacall.  
 Marilla et Mike se marient, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents : elle est dessinatrice de mode, et lui, chroniqueur sportif.
 
-- sa 9 sep 17h30 GF
+- Sa 9 sep 17h30 GF
 
 [31479]  
 **Femmes**  
@@ -89,7 +89,7 @@ de George Cukor
 Avec Norma Shearer, Joan Crawford, Rosalind Russell.  
 Une femme mariée retrouve régulièrement ses amies. Certaines d'entre elles sont au courant que son mari la trompe, ce qu'elle ignore.
 
-- sa 16 sep 16h15 GF
+- Sa 16 sep 16h15 GF
 
 [30636]  
 **Mannequin**  
@@ -103,7 +103,7 @@ Une jeune femme entretient sa famille dans un petit appartement. N'en pouvant pl
 
 Texte à saisir
 
-- je 31 aoû 20h00 HL  
+- Je 31 aoû 20h00 HL  
 Ouverture de la rétrospective
 
 [48724]  
@@ -113,7 +113,7 @@ France / 1956 / 35 mm
 Avec Brigitte Bardot, Louis Jourdan, Micheline Presle.  
 Chouchou, jeune mannequin remarqué par Judith, rédactrice d'un journal féminin, tombe amoureuse de Michel, l'amant de cette dernière.
 
-- sa 9 sep 20h00 GF
+- Sa 9 sep 20h00 GF
 
 [131583]  
 **The Neon Demon**  
@@ -126,7 +126,7 @@ Une jeune fille débarque à Los Angeles. Son rêve est de devenir mannequin. So
 
 Jesse débarque à Los Angeles pour faire carrière dans le mannequinat. Sa beauté naturelle lui vaut d'être immédiatement remarquée. Mais les jalousies à son égard se font de plus en plus violentes.
 
-- sa 2 sep 20h00 GF
+- Sa 2 sep 20h00 GF
 
 [42714]  
 **Où est passé Jessica ?**  
@@ -134,7 +134,7 @@ Jesse débarque à Los Angeles pour faire carrière dans le mannequinat. Sa beau
 de Carlo Vanzina  
 Italie / 1985
 
-- me 13 sep 20h30 GF
+- Me 13 sep 20h30 GF
 
 [131532]  
 **Personal Shopper**  
@@ -143,7 +143,7 @@ France-République tchèque-Allemagne-Belgique / 2015 / 105 min / DCP
 Avec Kristen Stewart, Lars Eidinger, Sigrid Bouaziz.  
 Maureen, jeune Américaine à Paris, s'occupe de la garde-robe d'une célébrité. Un jour, son frère jumeau récemment disparu semble se remettre en contact avec elle.
 
-- sa 2 sep 17h45 GF
+- Sa 2 sep 17h45 GF
 
 [138368]  
 **Phantom Thread**  
@@ -152,7 +152,7 @@ de Paul Thomas Anderson
 Avec Vicky Krieps, Daniel Day-Lewis, Lesley Manville.  
 Reynolds Woodcock est un célèbre couturier qui exerce à Londres dans les années 1950, célibataire et solitaire. Il est aidé par sa sœur, Cyril solitaire également, qui s'occupe aussi bien de la prestigieuse Maison Woodcock que de la vie sentimentale de l'artiste. Jusqu'au jour où Woodcock rencontre Alma une jeune serveuse étrangère.
 
-- sa 2 sep 15h00 GF
+- Sa 2 sep 15h00 GF
 
 [52603]  
 **Prêt à porter**  
@@ -162,7 +162,7 @@ de Robert Altman
 Avec Sophia Loren, Marcello Mastroianni, Lauren Bacall, Julia Roberts.  
 Paris, mars 1994. Chronique de la semaine du prêt-à-porter et du grand et petit monde qui gravite autour, le tout ponctué par un étrange décès.
 
-- me 6 sep 19h30 GF
+- Me 6 sep 19h30 GF
 
 [49481]  
 **Qui êtes-vous Polly Maggoo ?**  
@@ -171,7 +171,7 @@ France / 1966 / 105 min / VOSTF / DCP
 Avec Dorothy McGowan, Jean Rochefort, Sami Frey, Philippe Noiret.  
 Polly Maggoo, mannequin superstar, est interviewée par une équipe de télévision sur la mode, sa vie, et le prince étranger qui veut l'épouser.
 
-- sa 9 sep 15h00 GF
+- Sa 9 sep 15h00 GF
 
 [123300]  
 **Saint-Laurent**  
@@ -180,7 +180,7 @@ France-Belgique / 2013 / 135 min
 Avec Gaspard Ulliel, Jérémie Renier, Louis Garrel.  
 1967 – 1976. La rencontre de l'un des plus grands couturiers de tous les temps avec une décennie libre.
 
-- di 17 sep 16h15 GF
+- Di 17 sep 16h15 GF
 
 [83125]  
 **Six femmes pour l'assassin**  
@@ -190,7 +190,7 @@ Italie-France-RFA / 1964 / 86 min / VOSTF / DCP
 Avec Eva Bartok, Cameron Mitchell, Thomas Reiner.  
 Une série de meurtres est perpétrée sur les mannequins d'une maison de haute couture réputée.
 
-- me 13 sep 18h30 GF
+- Me 13 sep 18h30 GF
 
 [76324]  
 **Zoolander**  
@@ -199,5 +199,5 @@ de Ben Stiller
 Avec Ben Stiller, Owen Wilson, Christine Taylor.  
 Après avoir remporté le trophée du meilleur top model trois années consécutives Derek Zoolander perd face à un nouveau venu, Hansel, un jeune blond aussi stupide que lui. Cependant, le grand couturier Mugatu veut tout de même l'engager pour présenter sa nouvelle collection.
 
-- sa 16 sep 19h00 GF
+- Sa 16 sep 19h00 GF
 

@@ -13,7 +13,7 @@ D'après le roman _Band of angels_ de Robert Penn Warren.
 Avec Clark Gable, Yvonne De Carlo, Sidney Poitier.  
 Au XIX° siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien veuf. Quand son père décède, un lourd secret remonte à la surface.
 
-- me 6 sep 19h00 HL
+- Me 6 sep 19h00 HL
 
 [38955]  
 **Les Amours d'une blonde**  
@@ -23,7 +23,7 @@ Tchécoslovaquie / 1965
 Avec Hana Brejchová, Vladimír Pucholt, Vladimír Menšík.  
 Au cours d'un bal de province, une jeune ouvrière se laisse séduire par le pianiste de l'orchestre venu de Prague.
 
-- me 25 oct 19h30 GF
+- Me 25 oct 19h30 GF
 
 [33623]  
 **Docteur Jerry et Mister Love**  
@@ -33,6 +33,6 @@ de Jerry Lewis
 Avec Jerry Lewis, Stella Stevens.  
 Les mésaventures d'un doux dingue professeur de chimie s'enchaînent dans cette parodie de _Dr Jekyll et Mr Hyde_, entre mimiques et pitreries délirantes.
 
-- je 23 nov 19h00 HL
+- Je 23 nov 19h00 HL
 
 Remerciements : Capricci, Warner Bros.

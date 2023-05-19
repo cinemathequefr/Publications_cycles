@@ -11,7 +11,7 @@ D'après le roman _Experiment Perilous_ de Margaret Carpenter.
 Avec Hedy Lamarr, George Brent, Paul Lukas, Albert Dekker.  
 Dans un train, le docteur Bailey rencontre une jeune femme dont il apprend peu après la mort subite. Alors qu'il rend visite au frère de la défunte, l'épouse de celui-ci lui semble particulièrement perturbée.
 
-- ve 4 nov 19h00 GF  
+- Ve 4 nov 19h00 GF  
 Séance présentée par Hélène Frappat
 
 [68033]  
@@ -22,7 +22,7 @@ de King Vidor
 Avec Clark Gable, Hedy Lamarr, Felix Bressart.  
 Un journaliste américain travaillant en Union soviétique accepte de faire sortir du pays une jeune fille dont la vie est en danger.
 
-- me 9 nov 18h00 GF  
+- Me 9 nov 18h00 GF  
 Séance présentée par Hélène Frappat
 
 [88942]  
@@ -33,7 +33,7 @@ de Jack Conway
 Avec Claire Trevor, William Powell, Hedy Lamarr, Basil Rathbone.  
 Victime d'un chantage après une amnésie partielle, et accusé de crimes dont il ne se souvient pas, le diplomate David Talbot tente de retrouver les secrets de son passé.
 
-- je 10 nov 18h30 GF
+- Je 10 nov 18h30 GF
 
 [31259]  
 **Casbah**  
@@ -44,7 +44,7 @@ D'après le roman _Pépé le Moko_ de Roger d'Ashelbé.
 Avec Charles Boyer, Hedy Lamarr, Sigrid Gurie.  
 Pépé le Moko, un truand parisien, s'est réfugié dans la casbah d'Alger avec les membres de sa bande et sa maîtresse Inès. Mais, traqué par l'inspecteur Slimane, il ne peut sortir de chez lui. Jusqu'au jour où entre dans sa vie Gaby, une séduisante touriste.
 
-- sa 19 nov 20h00 GF
+- Sa 19 nov 20h00 GF
 
 [67347]  
 **Cette femme est mienne**  
@@ -54,7 +54,7 @@ de W. S. Van Dyke
 Avec Spencer Tracy, Hedy Lamarr, Verree Teasdale.  
 Sur un bateau pour New York, un psychiatre célèbre sauve une femme du suicide. Bientôt, elle le rejoint pour travailler dans sa clinique pour déshérités.
 
-- sa 5 nov 20h15 GF
+- Sa 5 nov 20h15 GF
 
 [34344]  
 **Les Conspirateurs**  
@@ -65,7 +65,7 @@ D'après le roman _The Conspirators_ de Frederic Prokosch.
 Avec Hedy Lamarr, Peter Lorre, Paul Henreid, Sydney Greenstreet.  
 Pendant la Seconde Guerre mondiale, un résistant néerlandais, échappant aux nazis, rejoint son organisation à Lisbonne. Il y rencontre une femme qui le mènera, malgré elle, à la découverte d'un traître au sein du réseau.
 
-- me 9 nov 20h30 GF
+- Me 9 nov 20h30 GF
 
 [53540]  
 **La Dame des tropiques**  
@@ -75,7 +75,7 @@ de Jack Conway
 Avec Robert Taylor, Hedy Lamarr, Joseph Schildkraut.  
 De passage à Saïgon, Bill Carey rencontre Manon, sublime métisse dont il tombe amoureux. Comme elle n'a pas le droit de quitter son pays, Bill décide de rester avec elle, pour le meilleur et pour le pire.
 
-- je 17 nov 17h30 GF
+- Je 17 nov 17h30 GF
 
 [77474]  
 **La Dame sans passeport**  
@@ -85,7 +85,7 @@ de Joseph H. Lewis
 Avec Hedy Lamarr, John Hodiak, George Macready, James Craig.  
 À La Havane, Pete Karczag, enquêteur de l'immigration américaine, se fait passer pour un étranger tentant d'entrer aux États-Unis afin de capturer le chef d'un réseau clandestin. Il tombe amoureux d'une réfugiée hongroise.
 
-- je 10 nov 20h30 GF
+- Je 10 nov 20h30 GF
 
 [34653]  
 **La Danseuse des Folies Ziegfeld**  
@@ -95,7 +95,7 @@ de Robert Z. Leonard
 Avec Lana Turner, Judy Garland, Hedy Lamarr, James Stewart.  
 Le destin de trois danseuses, Sheila, Susan et Sandra, qui tentent d'intégrer la célèbre revue des Ziegfeld Follies à Broadway. Chacun d'entre elle connaît une trajectoire différente, entre gloire, dépravation et vie rangée.
 
-- sa 12 nov 15h00 GF
+- Sa 12 nov 15h00 GF
 
 [36806]  
 **Le Démon de la chair**  
@@ -107,7 +107,7 @@ Avec Hedy Lamarr, Louis Hayward, George Sanders.
 Une jeune fille pauvre est prête à tout pour arriver à réussir dans le monde, jusqu'à ce que l'amour s'en mêle.  
 La séquence d'ouverture a été tournée par Douglas Sirk.
 
-- sa 12 nov 17h45 GF  
+- Sa 12 nov 17h45 GF  
 Séance présentée par Hélène Frappat
 
 [34809]  
@@ -118,7 +118,7 @@ de Norman Z. McLeod
 Avec Bob Hope, Hedy Lamarr, Francis L. Sullivan.  
 Le comique Peanuts White, sosie de l'espion international Eric Augustine, est repéré par le FBI. Il est contraint de se faire passer pour Eric afin de récupérer des microfilms à Tanger, mais il n'est pas le seul à vouloir s'en emparer.
 
-- sa 12 nov 20h45 GF
+- Sa 12 nov 20h45 GF
 
 [91779]  
 **Extase**  
@@ -127,7 +127,7 @@ Tchécoslovaquie / 1932 / 87 min / VOSTF / DCP
 Avec Hedy Kiesler, Aribert Mog, Zvonimir Rogoz.  
 La belle Eva vient de se marier à Emil, ennuyeux et impuissant. Frustrée, elle le quitte pour, peu de temps après, tomber dans les bras d'Adam, un jeune ingénieur.
 
-- je 3 nov 20h30 GF  
+- Je 3 nov 20h30 GF  
 Séance présentée par Hélène Frappat
 
 [86557]  
@@ -139,7 +139,7 @@ D'après la pièce _Dishonored Lady_ d'Edward Sheldon et Margaret Ayer Barnes.
 Avec Hedy Lamarr, Dennis O'Keefe, John Loder.  
 Après une tentative de suicide, Madeleine Damien, rédactrice en chef d'un magazine de mode new-yorkais, décide de changer de vie. Elle rencontre David, qui la rend heureuse à nouveau, mais elle est rattrapée par son passé.
 
-- di 13 nov 17h45 GF
+- Di 13 nov 17h45 GF
 
 [61810]  
 **Femmes devant le désir**  
@@ -149,7 +149,7 @@ de Harry Keller
 Avec Hedy Lamarr, Jane Powell, Jan Sterling.  
 Vanessa Windsor, une grande vedette hollywoodienne, est sauvée d'un accident par Chris Farley, qu'elle embauche alors pour entretenir sa villa. Mais Chris et Penny, la fille adoptive de Vanessa, tombent amoureux, ce que la star n'accepte pas.
 
-- di 13 nov 20h00 GF
+- Di 13 nov 20h00 GF
 
 [31872]  
 **La Fièvre du pétrole**  
@@ -159,7 +159,7 @@ de Jack Conway
 Avec Spencer Tracy, Clark Gable, Claudette Colbert, Hedy Lamarr.  
 D'ascension en revers de fortune, en vingt ans, McMasters et Sand sont passés de petits aventuriers en quête de fortune à magnats du pétrole. Mais leur amitié se fissure lorsqu'ils comprennent qu'ils aiment la même femme.
 
-- lu 14 nov 18h00 GF
+- Lu 14 nov 18h00 GF
 
 [31391]  
 **Samson et Dalila**  
@@ -170,7 +170,7 @@ D'après le roman _Samson, le nazir_ de Vladimir Jabotinsky.
 Avec Hedy Lamarr, Victor Mature, George Sanders, Angela Lansbury.  
 La trahison de Samson par Dalila selon la Bible.
 
-- me 2 nov 20h00 HL  
+- Me 2 nov 20h00 HL  
 Ouverture de la rétrospective
 
 [37505]  
@@ -182,7 +182,7 @@ D'après le roman _H. M. Pulham, Esquire_ de John P. Marquand.
 Avec Hedy Lamarr, Robert Young, Ruth Hussey.  
 Un homme d'affaires de Boston se replonge dans son passé et remet en question sa vie entière.
 
-- lu 14 nov 20h30 GF
+- Lu 14 nov 20h30 GF
 
 [37129]  
 **Tondelayo**  
@@ -193,7 +193,7 @@ D'après le roman _Hell's Playground_ de Ida Vera Simonton.
 Avec Hedy Lamarr, Walter Pidgeon, Frank Morgan.  
 Dans la jungle ouest-africaine, les employés blancs d'une plantation de caoutchouc sont envoûtés l'un après l'autre par Tondelayo, une métisse très belle mais très ambitieuse.
 
-- me 16 nov 18h00 HL  
+- Me 16 nov 18h00 HL  
 Séance présentée par Hélène Frappat
 
 [81284]  
@@ -204,6 +204,6 @@ de Clarence Brown
 Avec James Stewart, Hedy Lamarr, Ian Hunter.  
 Pour éviter d'être expulsée, Johnny Jones, une belle immigrée autrichienne, cherche à obtenir la nationalité américaine. Elle demande en mariage un écrivain en herbe complètement fauché qu'elle vient tout juste de rencontrer.
 
-- di 6 nov 17h30 GF
+- Di 6 nov 17h30 GF
 
 Remerciements : British Film Institute National Archive (Corinna Reicher), Národní filmový archiv, Prague (Matěj Strnad, Juraj Machálek, Lukáš Hanzal), Park Circus (Marthe Rolland, Gareth Tennant), Rosebud (Jos Oliver), UCLA Film & Television Archive (Steven K. Hill), Warner Bros. Pictures France (Clara Pineau, Léa Mignot), Warner GB.

@@ -9,7 +9,7 @@ de Pete Ohs
 Avec Callie Hernandez, Ashley Denise Robinson, Will Madden, Andy Faulkner.  
 Elena refuse d'accompagner son amant d'un soir chez lui, car elle doit retrouver une vieille amie de lycée, Jessica, poursuivie par un harceleur.
 
-- ve 18 nov 19h00 GF
+- Ve 18 nov 19h00 GF
 
 [153791]  
 **Kaepernick & America**  
@@ -17,7 +17,7 @@ de Tommy Walker, Ross Hockrow
 États-Unis / 2022 / 82 min / VOSTF / DCP  
 Retour sur la tempête médiatique déclenchée par Colin Kaepernick, le populaire quarterback de la NFL, qui s'est agenouillé pendant l'hymne national pour dénoncer les brutalités policières envers la communauté noire américaine.
 
-- ve 18 nov 21h30 GF
+- Ve 18 nov 21h30 GF
 
 [153792]  
 **Status Pending**  
@@ -31,7 +31,7 @@ d'Amy Grappell
 États-Unis / 2021 / 33 min / VOSTF / DCP  
 Documentaire qui retrace la vie dans deux camps d'été pour enfants, installés sur les rives opposées du lac Sylvan, dans le nord-est des États-Unis. Fondé par des Juifs ouvriers, le Camp Kinderland prônait le communisme, tandis que le Workmen's Circle était socialiste.
 
-- sa 19 nov 15h00 JE
+- Sa 19 nov 15h00 JE
 
 [153794]  
 **Actual People**  
@@ -40,7 +40,7 @@ de Kit Zauhar
 Avec Kit Zauhar, Scott Albrecht, Vivian Zauhar, Fraser Jones.  
 Riley, bientôt diplômée de l'université de New York, tente de gagner l'affection d'un garçon de Philadelphie, sa ville natale. Elle se retrouve face à ses angoisses sur ses amis et ses amants, sa famille mixte et son avenir.
 
-- sa 19 nov 17h30 JE
+- Sa 19 nov 17h30 JE
 
 [153795]  
 **Landlocked**  
@@ -49,7 +49,7 @@ de Paul Owens
 Avec Mason Owens, Jeffrey Owens, Seth Owens, Paul Owens.  
 Lorsque Mason Owens apprend que la maison du New Jersey où il a grandi va être démolie, il y retourne, et découvre que tout ne correspond pas exactement à ses souvenirs.
 
-- sa 19 nov 20h30 JE
+- Sa 19 nov 20h30 JE
 
 [153796]  
 **Hamtramck, USA**  
@@ -57,7 +57,7 @@ de Justin Feltman, Razi Jafri
 États-Unis / 2020 / 93 min / VOSTF / DCP  
 Hamtramck, Michigan. Au cœur du Midwest, dans cette première ville majoritairement musulmane des États-Unis, une campagne municipale remet en question cent ans de leadership polonais local.
 
-- di 20 nov 15h00 JE
+- Di 20 nov 15h00 JE
 
 [153799]  
 **Dreams Under Confinement**  
@@ -83,7 +83,7 @@ de Su Friedrich
 États-Unis / 2022 / 57 min / VOSTF / DCP  
 Des vacances à la campagne. Un barbecue de quartier. La perte d'un être cher. La propagation d'une pandémie. L'éclat des fleurs, naturelles ou artificielles. Un portrait décomplexé et captivant de la vie quotidienne dans le quartier de « Bed-Stuy », à Brooklyn.
 
-- di 20 nov 18h00 JE
+- Di 20 nov 18h00 JE
 
 [153802]  
 **Warm Blood**  
@@ -92,6 +92,6 @@ de Rick Charnoski
 Avec Haley Isaacson, Ryan Toothman, Andy Roy, John Veit.  
 Red, qui a fugué dans les années 1980, retourne dans les faubourgs de sa ville natale de Californie du Nord pour retrouver son père. En cours de route, elle rencontre un jeune vagabond.
 
-- di 20 nov 20h30 JE
+- Di 20 nov 20h30 JE
 
 Remerciements : Richard Peña, Livia Bloom Ingram, Octavio González.

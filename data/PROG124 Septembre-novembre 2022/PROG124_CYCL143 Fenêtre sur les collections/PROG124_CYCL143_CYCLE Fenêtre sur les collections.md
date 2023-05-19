@@ -43,7 +43,7 @@ France / 1903 / 18 min / DCP
 Avec Georges Méliès, Bleuette Bernon, Marguerite Thévenard, Durafour.  
 Le prince Bel Azor s'est fiancé à la princesse Azurine, mais, n'ayant pas reçu d'invitation, une sorcière enlève la princesse pendant son sommeil pour se venger. Bel Azor se lance à sa recherche avec l'aide de la fée Aurora.
 
-- ve 9 sep 18h30 GF
+- Ve 9 sep 18h30 GF
 
 [84501]  
 **Une nuit terrible**  
@@ -85,7 +85,7 @@ de Georges Méliès
 France / 1904 / 22 min / DCP  
 Une expédition de scientifiques part en excursion vers le Soleil grâce à un train révolutionnaire.
 
-- ve 9 sep 20h00 GF
+- Ve 9 sep 20h00 GF
 
 ## Hommage à Atahualpa Lichy
 
@@ -119,7 +119,7 @@ d'Atahualpa Lichy
 France / 1984 / 30 min / VOSTF / Numérique  
 Documentaire en quatre parties sur le cinéma latino-américain. Quatrième épisode : à Cuba, l'ICAIC, créé au lendemain de la révolution castriste, est à la fois école de cinéma, société de production et antenne culturelle d'État. Des cinéastes cubains témoignent de la situation et des thématiques propres à leur cinéma national.
 
-- ve 7 oct 18h00 JE  
+- Ve 7 oct 18h00 JE  
 Séance présentée par Atahualpa Lichy et Felicidad Guarda
 
 [49894]  
@@ -129,7 +129,7 @@ France-Vénézuéla / 1990 / 121 min / VOSTF / 35 mm
 Avec Marie-José Nat, Ángela Molina, Fanny Bastien.  
 Venezuela, 1912. Le dictateur Juan Vicente Gómez nomme l'ambitieux Osuna gouverneur de la province du Río Negro. Son arrivée déclenche l'hostilité d'un puissant notable de la région.
 
-- ve 7 oct 21h00 JE  
+- Ve 7 oct 21h00 JE  
 Séance présentée par Atahualpa Lichy et Felicidad Guarda
 
 ## Hommage à Keiko Kishi
@@ -156,7 +156,7 @@ Avec Jean Marais, Danielle Darrieux, Keiko Kishi.
 À Nagasaki, la vie d'un ingénieur français est perturbée par l'arrivée au Japon d'une journaliste qu'il a jadis aimée.  
 Copie Technicolor.
 
-- ve 4 nov 18h00 JE  
+- Ve 4 nov 18h00 JE  
 Séance présentée par Delphine Ciampi, Pascal-Alex Vincent et Hervé Pichard
 
 [153556]  
@@ -173,6 +173,6 @@ Avec Keiko Kishi, Hiroshi Kawaguchi, Kinuyo Tanaka.
 La relation entre un frère et une sœur dans une famille japonaise traditionnelle des années 1920 touchée par la maladie.  
 Le directeur de la photographie Kazuo Miyagawa met au point pour ce film la technique du « développement sans blanchiment » permettant d'obtenir des couleurs désaturées.
 
-- ve 4 nov 20h45 JE  
+- Ve 4 nov 20h45 JE  
 Séance présentée par Delphine Ciampi, Hervé Pichard et Pascal-Alex Vincent
 

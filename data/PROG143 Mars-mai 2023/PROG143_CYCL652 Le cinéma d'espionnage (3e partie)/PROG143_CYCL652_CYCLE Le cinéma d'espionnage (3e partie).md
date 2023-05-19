@@ -10,7 +10,7 @@ d'Alfred Hitchcock
 Avec Joel McCrea, Laraine Day, Herbert Marshall, George Sanders.  
 Envoyé en Europe sous une fausse identité, un reporter se lance à la poursuite d'un diplomate hollandais censé détenir le secret d'un traité de paix entre son pays et les Alliés.
 
-- di 23 avr 14h30 HL
+- Di 23 avr 14h30 HL
 
 [32907]  
 **Courrier diplomatique**  
@@ -21,7 +21,7 @@ D'après le roman _Sinister Errand_ de Peter Cheyney.
 Avec Tyrone Power, Patricia Neal, Lee Marvin, Karl Malden.  
 Pendant la guerre froide, un émissaire diplomatique du gouvernement américain, envoyé à Trieste, se retrouve impliqué dans une histoire d'espionnage.
 
-- sa 13 mai 15h00 GF
+- Sa 13 mai 15h00 GF
 
 [42907]  
 **Le Dossier Odessa**  
@@ -32,7 +32,7 @@ D'après le roman _The Odessa File_ de Frederick Forsyth.
 Avec Jon Voight, Maximilian Schell, Maria Schell.  
 Le journaliste Peter Miller récupère le journal d'un rescapé des camps qui vient de se suicider. Une fois la lecture achevée, il décide d'enquêter sur un ancien capitaine SS aux activités suspectes.
 
-- sa 29 avr 15h00 GF
+- Sa 29 avr 15h00 GF
 
 [44445]  
 **Échec à la Gestapo**  
@@ -42,7 +42,7 @@ de Vincent Sherman
 Avec Humphrey Bogart, Conrad Veidt, Karen Verne.  
 Pendant la Seconde Guerre mondiale, Gloves Donahue, un joueur professionnel, lève le voile sur un réseau d'activistes nazis établi en plein cœur de New York.
 
-- je 13 avr 14h45 GF
+- Je 13 avr 14h45 GF
 
 [42009]  
 **L'Espion noir**  
@@ -53,7 +53,7 @@ D'après le roman _The Spy in Black_ de Joseph Storer Clouston.
 Avec Conrad Veidt, Sebastian Shaw, Valerie Hobson, Marius Goring.  
 Le capitaine d'un sous-marin allemand accepte le rôle déshonorant de recueillir des renseignements fournis par une espionne.
 
-- sa 25 mar 15h00 GF
+- Sa 25 mar 15h00 GF
 
 [106772]  
 **Espion(s)**  
@@ -62,7 +62,7 @@ France / 2009 / 99 min / VF / 35 mm
 Avec Guillaume Canet, Géraldine Pailhas, Stephen Rea, Hippolyte Girardot.  
 Vincent et Gérard, bagagistes dans un aéroport, volent dans les sacs avant leur embarquement en soute. Lorsque Gérard meurt dans l'explosion de la valise diplomatique qu'il était en train de fouiller, Vincent surprend son propriétaire en train de récupérer le bagage.
 
-- sa 18 mar 14h30 GF  
+- Sa 18 mar 14h30 GF  
 Voir aussi dialogue p. xx
 
 [45279]  
@@ -73,7 +73,7 @@ de Josef von Sternberg
 Avec John Wayne, Janet Leigh, Jay C. Flippen, Paul Fix.  
 Un avion de chasse soviétique atterrit sur une base américaine en Alaska. À la stupeur générale, le pilote qui en descend est une femme. En attendant d'être renvoyée en URSS, elle est surveillée par le colonel Shannon, qui tombe amoureux d'elle.
 
-- sa 22 avr 15h00 GF
+- Sa 22 avr 15h00 GF
 
 [41965]  
 **Fräulein Doktor**  
@@ -82,7 +82,7 @@ Italie-Yougoslavie / 1968 / 104 min / VOSTF / 35 mm
 Avec Suzy Kendall, Kenneth More, Capucine, James Booth.  
 Pendant la Première Guerre mondiale, « Fräulein Doktor », une espionne allemande, se voit confier la mission d'assassiner Lord Kitchener. Les services secrets britanniques se mettent à sa recherche.
 
-- di 2 avr 14h30 HL
+- Di 2 avr 14h30 HL
 
 [45885]  
 **L'Homme qui en savait trop**  
@@ -92,7 +92,7 @@ d'Alfred Hitchcock
 Avec James Stewart, Doris Day, Daniel Gélin.  
 Les McKenna, un couple d'Américains et leur petit garçon, en vacances au Maroc, rencontrent un Français qui meurt poignardé sous leurs yeux. Il n'a que le temps de leur divulguer des informations concernant un meurtre. Peu après, le fils des McKenna est kidnappé.
 
-- di 19 mar 14h30 HL  
+- Di 19 mar 14h30 HL  
 Voir aussi dialogue p. xx
 
 [44856]  
@@ -103,7 +103,7 @@ Grande-Bretagne-États-Unis / 1956 / 103 min / VOSTF / 16 mm
 Avec Clifton Webb, Gloria Grahame, Robert Flemyng, Cyril Cusack.  
 Pour préparer leur débarquement en Sicile, les Alliés cherchent à tromper l'ennemi : le cadavre d'un officier britannique est retrouvé sur une plage espagnole avec des documents évoquant un faux projet en Sardaigne et dans les Balkans.
 
-- sa 1 avr 15h00 GF
+- Sa 1 avr 15h00 GF
 
 [49186]  
 **Il faut tuer Birgitt Haas**  
@@ -113,7 +113,7 @@ D'après le roman _L'Histoire de Birgit Haas_ de Guy Teisseire.
 Avec Philippe Noiret, Jean Rochefort, Lisa Kreuzer.  
 Athanase, le chef des services secrets français, est chargé de supprimer Birgitt Haas, une ex-terroriste allemande.
 
-- sa 8 avr 14h30 GF  
+- Sa 8 avr 14h30 GF  
 Séance présentée par Laurent Heynemann
 
 [34939]  
@@ -125,7 +125,7 @@ D'après le récit _The Falcon and the Snowman: A True Story of Friendship and E
 Avec Timothy Hutton, Sean Penn, David Suchet, Richard Dysart.  
 Le jeune Christopher Boyce trouve un emploi dans une entreprise sous contrat avec les services de renseignement. Lorsqu'il découvre qu'il a accès à des informations classifiées sur les opérations secrètes des États-Unis, il s'associe avec son ami d'enfance pour les monnayer auprès de l'Union soviétique.
 
-- sa 15 avr 15h00 GF
+- Sa 15 avr 15h00 GF
 
 [34921]  
 **Maldonne pour un espion**  
@@ -136,7 +136,7 @@ D'après le roman _A Dandy in Aspic_ de Derek Marlowe.
 Avec Laurence Harvey, Tom Courtenay, Mia Farrow.  
 Un agent double russe, qui se fait passer pour un espion britannique depuis dix-huit ans, voudrait démissionner, mais ses supérieurs refusent. Sa tâche se complique lorsqu'il est chargé d'éliminer l'un de ses compatriotes.
 
-- sa 20 mai 14h30 HL
+- Sa 20 mai 14h30 HL
 
 [44727]  
 **Mes funérailles à Berlin**  
@@ -147,7 +147,7 @@ D'après le roman _Funeral in Berlin_ de Len Deighton.
 Avec Michael Caine, Paul Hubschmid, Oskar Homolka.  
 Harry Palmer, un agent de l'Intelligence Service, est chargé d'une nouvelle mission : aider un haut fonctionnaire soviétique à passer à l'Ouest.
 
-- di 9 avr 14h30 HL
+- Di 9 avr 14h30 HL
 
 [60432]  
 **Mission: Impossible**  
@@ -156,7 +156,7 @@ de Brian De Palma
 Avec Tom Cruise, Jon Voight, Emmanuelle Béart.  
 Un agent secret réunit ses meilleurs éléments pour une nouvelle mission à Prague. Mais l'opération échoue et il assiste, impuissant, à la disparition de tous les membres de son équipe.
 
-- di 14 mai 14h30 HL
+- Di 14 mai 14h30 HL
 
 [52356]  
 **Les Patriotes**  
@@ -166,7 +166,7 @@ Avec Yvan Attal, Richard Masur, Hippolyte Girardot, Sandrine Kiberlain.
 Ariel, un jeune Juif français, quitte sa famille pour devenir agent du Mossad en Israël. En participant à des missions à Paris, Tel Aviv et Washington, il s'initie à l'art délicat de la manipulation.  
 Restauration par Gaumont.
 
-- sa 6 mai 14h30 HL  
+- Sa 6 mai 14h30 HL  
 Voir aussi dialogue p. xx
 
 [32436]  
@@ -178,7 +178,7 @@ D'après le roman _Where Eagles Dare_ d'Alistair MacLean.
 Avec Richard Burton, Clint Eastwood, Mary Ure.  
 Un commando anglais, dirigé par le major John Smith, est chargé de délivrer un général américain prisonnier des Allemands dans un château.
 
-- di 21 mai 14h30 GF
+- Di 21 mai 14h30 GF
 
 [41630]  
 **Quatre de l'espionnage**  
@@ -189,7 +189,7 @@ D'après les nouvelles _The Traitor_ et _The Hairless Mexican_ de William Somers
 Avec Madeleine Carroll, John Gielgud, Peter Lorre, Robert Young.  
 En 1916, un célèbre romancier britannique s'engage dans les services secrets. Il est envoyé en Suisse en compagnie de deux autres espions, mais leur contact est assassiné avant même d'avoir pu leur parler.
 
-- di 26 mar 14h30 HL
+- Di 26 mar 14h30 HL
 
 [115123]  
 **La Taupe**  
@@ -200,7 +200,7 @@ D'après le roman _La Taupe_ de John le Carré.
 Avec Gary Oldman, Colin Firth, Tom Hardy.  
 Aux jours les plus sombres de la guerre froide, George Smiley, espion vétéran, sort de sa retraite pour démasquer une taupe soviétique au sein du MI6.
 
-- sa 6 mai 18h30 HL
+- Sa 6 mai 18h30 HL
 
 [34505]  
 **Le Traître**  
@@ -211,7 +211,7 @@ D'après le roman _Call It Treason_ de George Howe.
 Avec Oskar Werner, Richard Basehart, Gary Merrill.  
 La Seconde Guerre mondiale touche à sa fin. Un jeune Allemand accepte de trahir les siens pour tenter de mettre fin aux exactions commises par les nazis.
 
-- di 16 avr 15h00 GF
+- Di 16 avr 15h00 GF
 
 [59914]  
 **True Lies**  
@@ -220,7 +220,7 @@ de James Cameron
 Avec Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold.  
 Depuis 15 ans, Harry Tasker mène une double vie. Pour sa femme, il est un banal représentant en informatique, et pour le gouvernement américain, un espion d'élite spécialiste de la lutte antiterroriste.
 
-- di 30 avr 15h00 HL
+- Di 30 avr 15h00 HL
 
 [35731]  
 **Tueur d'élite**  
@@ -231,7 +231,7 @@ D'après le roman _Monkey in the Middle_ de Robert Syd Hopkins.
 Avec James Caan, Robert Duvall, Arthur Hill.  
 Un agent des services secrets, trahi et blessé par son collègue et ami, réapprend à se battre et s'initie aux arts martiaux.
 
-- di 7 mai 14h30 HL
+- Di 7 mai 14h30 HL
 
 ## Rencontres et conférences
 
@@ -242,7 +242,7 @@ Tarif B : voir p.
 Co-commissaire de l'exposition « Top Secret : Cinéma et espionnage », Matthieu Orléan est collaborateur artistique à la Cinémathèque française, chargé des expositions temporaires. Il a notamment été le commissaire des expositions ¡Almodóvar Exhibition! (2006), Dennis Hopper et le Nouvel Hollywood (2008), Le Monde enchanté de Jacques Demy (2013), Gus Van Sant (2016) et Vampires (2019). Il écrit sur le cinéma et les arts plastiques pour la presse et pour différents ouvrages. En 2011, les Éditions de l'œil ont publié son ouvrage _Paul Vecchiali : La Maison cinéma_.  
 Nicolas Saada est réalisateur et scénariste. Il a été critique de cinéma et journaliste (_Cahiers du cinéma_, l'émission _Nova fait son cinéma_ consacrée à la musique de film sur Radio Nova). Il a notamment réalisé _Espion(s)_ en 2009 et, en 2015, _Taj Mahal_.
 
-- sa 18 mar 14h30 GF  
+- Sa 18 mar 14h30 GF  
 À la suite de la projection de _Espion(s)_ de Nicolas Saada (voir p. xx)
 
 **Film + Dialogue avec Nicolas Saada**  
@@ -252,7 +252,7 @@ Tarif B : voir p.
 Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
 Nicolas Saada est réalisateur et scénariste. Il a été critique de cinéma et journaliste (_Cahiers du cinéma_, l'émission _Nova fait son cinéma_ consacrée à la musique de film sur Radio Nova). Il a notamment réalisé _Espion(s)_ en 2009 et, en 2015, _Taj Mahal_.
 
-- di 19 mar 14h30 HL  
+- Di 19 mar 14h30 HL  
 À la suite de la projection de _L'Homme qui en savait trop_ d'Alfred Hitchcock (voir p. xx)
 
 **Film + Dialogue avec Éric Rochant**  
@@ -262,7 +262,7 @@ _Le Bureau des légendes_, une série en cinq saisons lancée en 2015 et créée
 Co-commissaire de l'exposition « Top Secret : Cinéma et espionnage », Matthieu Orléan est collaborateur artistique à la Cinémathèque française, chargé des expositions temporaires. Il a notamment été le commissaire des expositions ¡Almodóvar Exhibition! (2006), Dennis Hopper et le Nouvel Hollywood (2008), Le Monde enchanté de Jacques Demy (2013), Gus Van Sant (2016) et Vampires (2019). Il écrit sur le cinéma et les arts plastiques pour la presse et pour différents ouvrages. En 2011, les Éditions de l'œil ont publié son ouvrage _Paul Vecchiali : La Maison cinéma_.  
 Éric Rochant, cinéaste, scénariste, auteur-producteur, a réalisé entre autres _Un monde sans pitié_ (1989), _Les Patriotes_ (1994), _Möbius_ (2013). Il a créé la série _Le Bureau des légendes_ (2015-2020).
 
-- sa 6 mai 14h30 HL  
+- Sa 6 mai 14h30 HL  
 À la suite de la projection de _Les Patriotes_ d'Éric Rochant (voir p. xx)
 
 Remerciements : British Film Institute National Archive, Cinémathèque du Luxembourg, Gaumont, Park Circus, Tamasa Distribution, Warner Bros Picture France, Warner Bros. Entertainment France

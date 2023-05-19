@@ -17,7 +17,7 @@ Portugal-France-Danemark / 1997 / 94 min / VOSTF / 35 mm
 Avec Vanda Duarte, Nuno Vaz.  
 L'errance dramatique d'un jeune couple et d'un bébé dans les rues d'un quartier pauvre de Lisbonne.
 
-- lu 6 mar 19h30 JE  
+- Lu 6 mar 19h30 JE  
 Séance suivie d'une discussion avec Peter Bastos
 
 ## Xavier Lacaille / Noémie Lvovsky
@@ -39,7 +39,7 @@ Avec Magali Woch, Ingrid Molinier, Julie-Marie Parmentier, Valéria Bruni Tedesc
 C'est l'histoire de quatre filles. Comment elles se lient d'amitié et ne se quittent plus. Comment elles vivent en bande les années de leur adolescence. Comment cette rencontre change leur vie et leur personne.  
 Version longue du téléfilm _Petites_ (collection « Les Années lycée »).
 
-- lu 13 mar 19h30 GF  
+- Lu 13 mar 19h30 GF  
 Séance suivie d'une discussion avec Xavier Lacaille et Noémie Lvovsky
 
 ## Martin Jauvat
@@ -67,7 +67,7 @@ France / 2019 / 20 min / DCP
 Avec Erwin Aureillan, Sébastien Chassagne, Martin Jauvat.  
 C'est l'été en banlieue parisienne. Il fait chaud, la ville est déserte. Parfois, on se sent seul quand on reste à la maison, et tout ce dont on rêve, c'est d'un peu de compagnie.
 
-- lu 20 mar 19h30 JE  
+- Lu 20 mar 19h30 JE  
 Séance suivie d'une discussion avec Martin Jauvat
 
 ## Gregorio Graziosi
@@ -81,7 +81,7 @@ Brésil / 2022 / 105 min / VOSTF / DCP
 Avec Joana de Verona, André Guerreiro Lopes, Indira Nascimento, Antonio Pitanga.  
 Marina, 30 ans, est une ancienne plongeuse professionnelle qui souffre d'acouphènes affectant son équilibre physique et mental. Éloignée des bassins depuis un terrible accident, elle décide de reprendre la compétition dans l'espoir de remporter une médaille olympique.
 
-- lu 27 mar 20h00 GF  
+- Lu 27 mar 20h00 GF  
 Avant-première. Séance suivie d'une discussion avec Gregorio Graziosi
 
 ## Thomas Bardinet
@@ -95,7 +95,7 @@ France / 1995 / 112 min / DCP
 Avec Julien Haurant, Hamida Bedjaoui, Marie Vialle.  
 Frédéric, jeune bourgeois bordelais, effectue son service militaire. Pistonné, il rentre tous les soirs chez ses parents et tout irait bien pour lui s'il ne résistait pas tant à l'affection de sa famille et de ses amis. Il rencontre Saliha, une serveuse qui dérègle définitivement sa vie, et avec qui il se réfugie sur une île du bassin d'Arcachon.
 
-- lu 3 avr 19h30 JE  
+- Lu 3 avr 19h30 JE  
 Séance suivie d'une discussion avec Thomas Bardinet
 
 ## Louis Séguin
@@ -117,7 +117,7 @@ de William A. Wellman
 Avec Henry Fonda, Dana Andrews, Mary Beth Hughes, Anthony Quinn.  
 En 1885, dans une petite ville du Nevada, l'éleveur Kinkaid a été assassiné par des voleurs de bétail. En l'absence du shérif, et malgré l'opposition du juge, le major Tetley rassemble une milice.
 
-- lu 17 avr 19h00 JE  
+- Lu 17 avr 19h00 JE  
 Séance suivie d'une discussion avec Louis Seguin
 
 ## Wissam Charaf
@@ -152,7 +152,7 @@ France-Liban / 2004 / 26 min / VOSTF / 35 mm
 Avec Raed Yassin, Peter Semaan.  
 Ali vit et travaille à Beyrouth, comme assistant d'un photographe sportif. Amoureux d'une jeune femme qu'il a aperçue lorsqu'elle participait à une compétition équestre, il demande des conseils de séduction à sa sœur. Celle-ci suggère de lui écrire un poème.
 
-- lu 24 avr 19h30 JE  
+- Lu 24 avr 19h30 JE  
 Séance suivie d'une discussion avec Wissam Charaf
 
 ## Vincent Le Port
@@ -167,7 +167,7 @@ Avec Dimitri Doré, Jean-Luc Vincent.
 Cantal, septembre 1905. Un séminariste de 17 ans est arrêté pour le meurtre d'un enfant de 12 ans. Pour comprendre son geste, des médecins lui demandent de relater sa vie depuis son enfance jusqu'au jour du crime.  
 D'après l'histoire vraie de Bruno Reidal, jeune paysan du Cantal qui, toute sa vie, lutta contre ses pulsions meurtrières.
 
-- lu 15 mai 19h00 JE  
+- Lu 15 mai 19h00 JE  
 Séance suivie d'une discussion avec Vincent Le Port
 
 Remerciements : Yves Caumon, Pascal Cervo, David Depesseville, Samy Sidali Arnaud Simon, Maïté Sonnet, Anne Villacèque. ACID, Agence du Court Métrage, Xavier Baert, Barberousse Films, Collectif Jeunes Cinéma, Gaël Lépingle, La Traverse, Aurélia Georges, Festival Entrevues Belfort, Institut Lumière, João Paulo Miranda Maria, Antonio PIttanga, Mabel Films, Manifest, New Story, Pyramide Distribution, Tamasa Distribution, Warner Bros Picture France, Francis Gavelle, Am Stram Gram, Novanima Productions, Atelier de Sèvres, Lardux films, Papy 3D Productions, Komadoli Studio.
