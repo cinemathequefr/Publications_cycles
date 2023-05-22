@@ -122,7 +122,7 @@ Un réalisateur, une actrice et un scénariste à qui l'on propose un nouveau co
 **La Fée aux choux**  
 d'Alice Guy  
 France / 1896 / 1 min / INT. FR. / DCP  
-Dans un potager, une fée fait apparaitre des bébés.
+Dans un potager, une fée fait apparaître des bébés.
 
 - Sa 1 juil 15h00 HL  
 Séance présentée par Catel & Bocquet  
