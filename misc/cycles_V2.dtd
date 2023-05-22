@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!ELEMENT root (cycle*)>
-<!ELEMENT cycle (sousCycle+)>
+<!ELEMENT cycle (xDatesCycle?, sousCycle+)>
 <!ATTLIST cycle title CDATA #REQUIRED>
+
+<!ELEMENT xDatesCycle (#PCDATA)>
 
 <!ELEMENT sousCycle (xTitreSousCycle|film|conf|programme|groupe)*>
 <!ATTLIST sousCycle title CDATA #REQUIRED>
 <!ELEMENT xTitreSousCycle (#PCDATA)>
 
-<!ELEMENT film (xTitre, xTitreVo?, xRealisateurs, xInfosTechniques, xGenerique?, xSynopsis?, xInfosSeance*)>
+<!ELEMENT film (xTitre, xTitreVo?, xRealisateurs, xInfosTechniques, xAdaptation?, xGenerique?, xSynopsis?, xInfosSeance*)>
 <!ATTLIST film title CDATA #REQUIRED>
 
 <!ELEMENT programme (xTitreProgramme?, (xTitre, xTitreVo?, xRealisateurs, xInfosTechniques, xGenerique?, xSynopsis?)+)>
@@ -29,13 +31,15 @@
 <!ELEMENT xTitreVo (#PCDATA)>
 <!ELEMENT xRealisateurs (#PCDATA)>
 <!ELEMENT xInfosTechniques (#PCDATA)>
+<!ELEMENT xAdaptation (#PCDATA|xItalic)*>
 <!ELEMENT xGenerique (#PCDATA)>
-<!ELEMENT xSynopsis (#PCDATA|sup)*>
-<!ELEMENT xInfosSeance (#PCDATA|sup|xMention|xMentionGroupe)*>
+<!ELEMENT xInfosSeance (#PCDATA|xItalic|xSup|xMention|xMentionGroupe)*>
 
-<!ELEMENT xMention (#PCDATA|sup)*>
-<!ELEMENT xMentionGroupe (#PCDATA|sup)*>
+<!ELEMENT xMention (#PCDATA|xItalic|xSup)*>
+<!ELEMENT xMentionGroupe (#PCDATA|xItalic|xSup)*>
 
+<!ELEMENT xItalic (#PCDATA|xSup)*>
+<!ELEMENT xSup (#PCDATA)>
 
 
 

@@ -1,109 +1,115 @@
-[
-  {
-    "titreSousCycle": "Les films",
-    "tri": 4,
-    "items": [
-      {
-        "idEvenement": 26860,
-        "content": [
-          {
-            "idFilm": 37701,
-            "ordre": 1,
-            "titre": "Esclave libre",
-            "art": "L'",
-            "titreVo": "Band of Angels",
-            "realisateurs": "Raoul Walsh",
-            "annee": 1957,
-            "duree": 125,
-            "version": "VOSTF",
-            "format": "35 mm",
-            "generique": [
-              "Clark Gable",
-              "Yvonne De Carlo",
-              "Sidney Poitier"
-            ],
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Au XIX° siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien veuf. Quand son père décède, un lourd secret remonte à la surface."
-              }
-            ]
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104449,
-            "dateHeure": "2023-09-06T19:00:00",
-            "idSalle": "HL"
-          }
-        ]
-      },
-      {
-        "idEvenement": 28550,
-        "content": [
-          {
-            "idFilm": 38955,
-            "ordre": 1,
-            "titre": "Amours d'une blonde",
-            "art": "Les",
-            "titreVo": "Lásky jedné plavovlásky",
-            "realisateurs": "Miloš Forman",
-            "annee": 1965,
-            "generique": [
-              "Hana Brejchová",
-              "Vladimír Pucholt",
-              "Vladimír Menšík"
-            ],
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Au cours d'un bal de province, une jeune ouvrière se laisse séduire par le pianiste de l'orchestre venu de Prague."
-              }
-            ]
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104632,
-            "dateHeure": "2023-10-25T19:30:00",
-            "idSalle": "GF"
-          }
-        ]
-      },
-      {
-        "idEvenement": 28412,
-        "content": [
-          {
-            "idFilm": 33623,
-            "ordre": 1,
-            "titre": "Docteur Jerry et Mister Love",
-            "titreVo": "Nutty Professor",
-            "artVo": "The",
-            "realisateurs": "Jerry Lewis",
-            "annee": 1962,
-            "duree": 118,
-            "version": "VOSTF",
-            "format": "DCP",
-            "generique": [
-              "Jerry Lewis",
-              "Stella Stevens"
-            ],
-            "textes": [
-              {
-                "typeTexte": 9,
-                "texte": "Les mésaventures d'un doux dingue professeur de chimie s'enchaînent dans cette parodie de _Dr Jekyll et Mr Hyde_, entre mimiques et pitreries délirantes."
-              }
-            ]
-          }
-        ],
-        "seances": [
-          {
-            "idSeance": 104633,
-            "dateHeure": "2023-11-23T19:00:00",
-            "idSalle": "HL"
-          }
-        ]
-      }
-    ]
-  }
-]
+{
+  "sousCycles": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 4,
+      "items": [
+        {
+          "idEvenement": 26860,
+          "content": [
+            {
+              "idFilm": 37701,
+              "ordre": 1,
+              "titre": "Esclave libre",
+              "art": "L'",
+              "titreVo": "Band of Angels",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1957,
+              "duree": 125,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Band of angels_ de Robert Penn Warren.",
+              "generique": [
+                "Clark Gable",
+                "Yvonne De Carlo",
+                "Sidney Poitier"
+              ],
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Au XIX° siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien veuf. Quand son père décède, un lourd secret remonte à la surface."
+                }
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104449,
+              "dateHeure": "2023-09-06T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idEvenement": 28550,
+          "content": [
+            {
+              "idFilm": 38955,
+              "ordre": 1,
+              "titre": "Amours d'une blonde",
+              "art": "Les",
+              "titreVo": "Lásky jedné plavovlásky",
+              "realisateurs": "Miloš Forman",
+              "pays": "Tchécoslovaquie",
+              "annee": 1965,
+              "generique": [
+                "Hana Brejchová",
+                "Vladimír Pucholt",
+                "Vladimír Menšík"
+              ],
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Au cours d'un bal de province, une jeune ouvrière se laisse séduire par le pianiste de l'orchestre venu de Prague."
+                }
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104632,
+              "dateHeure": "2023-10-25T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idEvenement": 28412,
+          "content": [
+            {
+              "idFilm": 33623,
+              "ordre": 1,
+              "titre": "Docteur Jerry et Mister Love",
+              "titreVo": "Nutty Professor",
+              "artVo": "The",
+              "realisateurs": "Jerry Lewis",
+              "pays": "États-Unis",
+              "annee": 1962,
+              "duree": 118,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Jerry Lewis",
+                "Stella Stevens"
+              ],
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Les mésaventures d'un doux dingue professeur de chimie s'enchaînent dans cette parodie de _Dr Jekyll et Mr Hyde_, entre mimiques et pitreries délirantes."
+                }
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104633,
+              "dateHeure": "2023-11-23T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

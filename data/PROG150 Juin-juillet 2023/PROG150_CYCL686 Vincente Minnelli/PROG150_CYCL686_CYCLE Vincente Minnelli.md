@@ -62,7 +62,7 @@ Brigadoon est un village des Highlands où le temps s'est figé en l'an 1755 et 
 **Celui par qui le scandale arrive**  
 **(Home from the Hill)**  
 de Vincente Minnelli  
-États-Unis / 1960 / VOSTF / 35 mm  
+États-Unis / 1960 / 150 min / VOSTF / 35 mm  
 D'après le roman _Home from the Hill_ de William Humphrey.  
 Avec Robert Mitchum, George Peppard, Eleanor Parker.  
 Un grand propriétaire du Sud tyrannise sa femme et ses deux fils, l'un légitime, l'autre issu d'une liaison adultère.
@@ -176,7 +176,7 @@ Film suivi d'_Allons donc, papa !_ de Vincente Minnelli
 **L'Horloge**  
 **(The Clock)**  
 de Vincente Minnelli  
-États-Unis / 1945 / 90 min / VOSTF / 35 mm  
+États-Unis / 1945 / VOSTF / DCP  
 Avec Judy Garland, Robert Walker.  
 En 1945, lors d'une permission de 48 heures, un soldat rencontre par hasard une jeune New-Yorkaise à Pennsylvania Station. Il passe les deux jours avec elle et en tombe amoureux.
 
