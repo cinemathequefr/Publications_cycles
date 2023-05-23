@@ -158,7 +158,7 @@ Mowgli, « petit d'homme » élevé par les loups, est en danger : le tigre Sher
 **La Main au collet**  
 **(To Catch a Thief)**  
 d'Alfred Hitchcock  
-États-Unis / 1954 / 97 min / VOSTF / 35 mm  
+États-Unis / 1954 / 97 min / VOSTF / DCP  
 D'après le roman _La Main au collet_ de David Dodge.  
 Avec Cary Grant, Grace Kelly, Charles Vanel.  
 Un ancien cambrioleur profite d'une retraite paisible sur la Côte d'Azur, jusqu'au jour où il est suspecté d'être l'auteur d'une série de vols commis dans la région. Pour prouver son innocence, il va devoir identifier le vrai coupable.

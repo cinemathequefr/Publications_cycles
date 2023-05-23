@@ -111,7 +111,7 @@
   * Linda veut du poulet  
   * Microcosmos  
   * Petite vendeuse de soleil (La)  
-  * Porco rosso
+  * Porco Rosso
 
 ## Mexico maleficarum (13)
 
@@ -120,7 +120,7 @@
   * Baron de la terreur (Le)  
   * Invasión de los Vampiros (La)  
   * La Bruja  
-  * Maldición de la Llorona (La)  
+  * Les Larmes de la malédiction (Les)  
   * Miroir de la sorcière (Le)  
   * Mundo de los muertos (El)  
   * Museo del horror  

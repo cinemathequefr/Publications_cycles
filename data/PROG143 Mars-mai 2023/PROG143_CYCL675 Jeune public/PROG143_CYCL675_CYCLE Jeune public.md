@@ -172,9 +172,8 @@ Un photographe, immobilisé avec une jambe plâtrée, n'a d'autre occupation que
 **Docteur Jerry et Mister Love**  
 **(The Nutty Professor)**  
 de Jerry Lewis  
-États-Unis / 1962 / 118 min / VOSTF / DCP  
-Avec Jerry Lewis, Stella Stevens.  
-Les mésaventures d'un doux dingue professeur de chimie s'enchaînent dans cette parodie de _Dr Jekyll et Mr Hyde_, entre mimiques et pitreries délirantes.
+États-Unis / 1963 / 118 min / VOSTF / DCP  
+Avec Jerry Lewis, Stella Stevens.
 
 - Me 24 mai 15h00 GF
 

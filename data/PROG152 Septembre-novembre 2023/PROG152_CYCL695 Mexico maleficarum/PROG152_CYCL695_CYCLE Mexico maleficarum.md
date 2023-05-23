@@ -42,11 +42,12 @@ Mexique / 1954 / 90 min / VOSTF / DCP
 - Sa 28 oct 18h30 GF
 
 [154291]  
-**La Maldición de la Llorona**  
+**Les Les Larmes de la malédiction**  
+**(La Maldición de la llorona)**  
 de Rafael Baledón  
-Mexique / 1961 / 80 min / VOSTF / DCP  
+Mexique / 1963 / 80 min / VOSTF / DCP  
 Rosa Arenas, Abel Salazar, Rita Macedo  
-Selma, sorcière démoniaque, manipule la jeune Amelia pour qu'elle réalise un obscur rituel, afin de réveiller le corps flétri de Doña Marina, son ancêtre, aussi connu comme La Llorona.
+Selma, sorcière démoniaque, manipule la jeune Amelia pour qu'elle réalise un obscur rituel, afin de réveiller le corps flétri de Doña Marina, son ancêtre, aussi connu comme la Llorona.
 
 - Ve 27 oct 20h30 GF
 

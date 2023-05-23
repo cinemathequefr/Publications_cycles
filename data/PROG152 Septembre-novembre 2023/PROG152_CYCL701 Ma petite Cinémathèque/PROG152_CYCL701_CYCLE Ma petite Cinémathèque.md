@@ -139,11 +139,11 @@ Deux exquises vieilles dames ont pris l'habitude d'empoisonner des vieux messieu
 - Me 1 nov 15h00 GF
 
 [59503]  
-**Porco rosso**  
-**(Kurenai no Buta)**  
+**Porco Rosso**  
+**(Kurenai no buta)**  
 de Hayao Miyazaki  
 Japon / 1992 / 94 min / VOSTF / DCP  
-Qui est Porco Rosso ? Ancien capitaine de l'armée de l'air, il est désormais chasseur de primes et combat les pirates de l'air de sa région d'Italie. Mais seule son amie Gina connaît sa véritable histoire. _Dernier film de Miyazaki entièrement dessiné à la main et dans lequel on découvre sa passion pour les avions._
+[JP] Qui est Porco Rosso ? Ancien capitaine de l'armée de l'air, il est désormais chasseur de primes et combat les pirates de l'air de sa région d'Italie. Mais seule son amie Gina connaît sa véritable histoire. _Porco Rosso_ est le dernier film de Miyazaki entièrement dessiné à la main et dans lequel on découvre sa passion pour les avions.
 
 - Di 5 nov 15h00 GF
 
