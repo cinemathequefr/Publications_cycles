@@ -12,28 +12,6 @@ Jim veux tout très vite : être à la fois champion de boxe, grand acteur shake
 
 - Di 3 sep 16h45 HL
 
-[37710]  
-**La Piste des géants**  
-**(The Big Trail)**  
-de Raoul Walsh  
-États-Unis / 1930 / 125 min / VOSTF / 35 mm  
-Avec John Wayne, Robert Parrish, Marguerite Churchill.  
-Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
-
-- Sa 16 sep 18h00 HL  
-- Di 1 oct 15h00 GF
-
-[58507]  
-**Barbe-Noire, le pirate**  
-**(Blackbeard, the Pirate)**  
-de Raoul Walsh  
-États-Unis / 1952 / 100 min / VOSTF / 35 mm  
-Avec Linda Darnell, Richard Egan, William Bendix.  
-Le célèbre pirate Barbe Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
-
-- Je 21 sep 17h30 HL  
-- Di 8 oct 15h00 GF
-
 [154475]  
 **Linda veut du poulet**  
 de Sébastien Laudenbach, Chiara Malta  
@@ -50,6 +28,16 @@ de Hamilton Luske, Clyde Geronimi, Wilfred Jackson
 Un soir, Peter Pan, enfant magique qui refuse de grandir, pénètre dans la chambre des enfants Darling, à la recherche de son ombre perdue. Fascinés par ce personnage, Wendy, Jean et Michel décident de s'envoler avec lui au pays imaginaire. C'est ainsi que débute pour eux un fantastique voyage.
 
 - Me 27 sep 15h00 GF
+
+[37710]  
+**La Piste des géants**  
+**(The Big Trail)**  
+de Raoul Walsh  
+États-Unis / 1930 / 125 min / VOSTF / 35 mm  
+Avec John Wayne, Robert Parrish, Marguerite Churchill.  
+Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
+
+- Di 1 oct 15h00 GF
 
 [31057]  
 **Le Gosse**  
@@ -68,6 +56,16 @@ Charlot recueille un bébé abandonné et l'élève de son mieux même s'il n'a 
 Charlot recueille un bébé abandonné et l'élève de son mieux même s'il n'a pas un sou. Une grande complicité unit l'enfant et le vagabond devenu vitrier. Jusqu'au jour où... Le film sera précédé d'une histoire inventée par les conteurs Sami Hakimi et Julien Tauber.
 
 - Me 4 oct 15h00 GF
+
+[58507]  
+**Barbe-Noire, le pirate**  
+**(Blackbeard, the Pirate)**  
+de Raoul Walsh  
+États-Unis / 1952 / 100 min / VOSTF / 35 mm  
+Avec Linda Darnell, Richard Egan, William Bendix.  
+Le célèbre pirate Barbe Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
+
+- Di 8 oct 15h00 GF
 
 [63893]  
 **Kirikou et la sorcière**  
