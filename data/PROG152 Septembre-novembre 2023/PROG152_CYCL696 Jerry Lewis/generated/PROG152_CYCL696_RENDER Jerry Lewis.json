@@ -119,7 +119,10 @@
               "HL",
               "Henri Langlois"
             ],
-            "typeEvenement": 13
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104696,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi dialogue p. xx"
           }
         ]
       },
@@ -168,7 +171,10 @@
               "HL",
               "Henri Langlois"
             ],
-            "typeEvenement": 13
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104698,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi dialogue p. xx"
           }
         ]
       },
@@ -200,6 +206,46 @@
               "HL",
               "Henri Langlois"
             ],
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104697,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi dialogue p. xx"
+          }
+        ]
+      },
+      {
+        "idFilm": 33891,
+        "typeEvenement": 13,
+        "titre": "Tontons farceurs",
+        "art": "Les",
+        "titreVo": "Family Jewels",
+        "artVo": "The",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1965,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une jeune orpheline très riche doit choisir avec quel membre de sa famille elle souhaite vivre."
+          }
+        ],
+        "generique": [
+          "Jerry Lewis",
+          "Donna Butterworth"
+        ],
+        "duree": 100,
+        "format": "35 mm",
+        "version": "VOSTF",
+        "ageMinimal": 8,
+        "seances": [
+          {
+            "idSeance": 104687,
+            "ordre": 1,
+            "dateHeure": "2023-11-12T15:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
             "typeEvenement": 13
           }
         ]
@@ -230,6 +276,78 @@
             ],
             "typeEvenement": 14,
             "typeConference": "Conférence"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "titre": "Film + Discussion Matthieu Macheret",
+            "textes": [],
+            "duree": 60
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104696,
+            "dateHeure": "2023-11-11T16:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104594,
+            "typeEvenement": 14,
+            "typeConference": "Dialogue",
+            "mentionRenvoi": "À la suite de la dialogue, à 14h30, projection d'un film choisi par le conférencier : _Jerry souffre douleur_ de Jerry Lewis (voir p. xx)"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "titre": "Film + discussion avec Pascale Bodet",
+            "textes": [],
+            "duree": 60
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104697,
+            "dateHeure": "2023-11-18T16:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104595,
+            "typeEvenement": 14,
+            "typeConference": "Dialogue",
+            "mentionRenvoi": "À la suite de la dialogue, à 14h30, projection d'un film choisi par le conférencier : _Le Tombeur de ces dames_ de Jerry Lewis (voir p. xx)"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "titre": "Film + Discussion avec Damien Bertrand",
+            "textes": [],
+            "duree": 60
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104698,
+            "dateHeure": "2023-11-25T16:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104598,
+            "typeEvenement": 14,
+            "typeConference": "Dialogue",
+            "mentionRenvoi": "À la suite de la dialogue, à 14h30, projection d'un film choisi par le conférencier : _T'es fou Jerry !_ de Jerry Lewis (voir p. xx)"
           }
         ]
       }

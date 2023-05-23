@@ -6,7 +6,9 @@
       "idCycleProg": 11,
       "isReg": true,
       "titreCycle": "Séances spéciales",
-      "sousCycles": []
+      "sousCycles": [
+        { "titre": "Chili, 11 septembre 1973", "cats": [3081], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": 14,
@@ -54,11 +56,6 @@
       "titreCycle": "Parlons cinéma avec",
       "titreCycleMini": "Parlons cinéma",
       "sousCycles": []
-    },
-    {
-      "idCycleProg": 335,
-      "titreCycle": "Denis Villeneuve",
-      "sousCycles": [{ "titre": "Les films", "cats": [1548], "tri": 1 }]
     },
     {
       "idCycleProg": 502,
@@ -136,6 +133,11 @@
         {
           "titre": "Autour de Jean Cocteau",
           "cats": [3076],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [3096],
           "tri": 1
         }
       ]

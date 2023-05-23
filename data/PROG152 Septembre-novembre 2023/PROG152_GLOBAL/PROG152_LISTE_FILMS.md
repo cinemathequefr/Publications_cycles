@@ -80,20 +80,38 @@
   * Social Network (The)  
   * Zodiac
 
-## Jean Cocteau (3)
+## Jean Cocteau (4)
 
   * Aigle à deux têtes (L')  
+  * Belle et la Bête (La)  
   * Sang d'un poète (Le)  
   * Villa Santo Sospir (La)
 
-## Jerry Lewis (6)
+## Jerry Lewis (7)
 
   * Dingue du palace (Le)  
   * Jerry Lewis  
   * Jerry souffre douleur  
   * One More Time  
   * T'es fou Jerry !  
-  * Tombeur de ces dames (Le)
+  * Tombeur de ces dames (Le)  
+  * Tontons farceurs (Les)
+
+## Ma petite Cinémathèque (13)
+
+  * Argent de poche (L')  
+  * Arsenic et vieilles dentelles  
+  * Aventures de Peter Pan (Les)  
+  * Demoiselles de Rochefort (Les)  
+  * Gosse (Le)  
+  * Homme qui en savait trop (L')  
+  * Jacquot de Nantes  
+  * Kiki, la petite sorcière  
+  * Kirikou et la sorcière  
+  * Linda veut du poulet  
+  * Microcosmos  
+  * Petite vendeuse de soleil (La)  
+  * Porco rosso
 
 ## Pascal Thomas (5)
 
@@ -167,6 +185,11 @@
   * Victime du destin  
   * Voleur de Bagdad (Le)  
   * Women of All Nations
+
+## Séances spéciales (2)
+
+  * Salvador Allende  
+  * Septembre chilien
 
 ## Trésors du cinéma fantastique mexicain (13)
 

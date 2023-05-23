@@ -36,7 +36,8 @@ Sur le plateau de son film _The Day the clown Cried_, Lewis donne sa vision de l
 de Jerry Lewis  
 États-Unis / 1964 / 101 min / VOSTF / 35 mm
 
-- Sa 11 nov 14h30 HL
+- Sa 11 nov 14h30 HL  
+Voir aussi dialogue p. xx
 
 [41629]  
 **One More Time**  
@@ -51,7 +52,8 @@ Grande-Bretagne / 1969 / 93 min
 de Jerry Lewis  
 États-Unis / 1982 / 90 min / 35 mm
 
-- Sa 25 nov 14h30 HL
+- Sa 25 nov 14h30 HL  
+Voir aussi dialogue p. xx
 
 [45090]  
 **Le Tombeur de ces dames**  
@@ -60,7 +62,18 @@ de Jerry Lewis
 États-Unis / 1961 / 106 min / VOSTF / DCP  
 Avec Jerry Lewis, Helen Traubel, Kathleen Freeman.
 
-- Sa 18 nov 14h30 HL
+- Sa 18 nov 14h30 HL  
+Voir aussi dialogue p. xx
+
+[33891]  
+**Les Tontons farceurs**  
+**(The Family Jewels)**  
+de Jerry Lewis  
+États-Unis / 1965 / 100 min / VOSTF / 35 mm  
+Avec Jerry Lewis, Donna Butterworth.  
+Une jeune orpheline très riche doit choisir avec quel membre de sa famille elle souhaite vivre.
+
+- Di 12 nov 15h00 GF
 
 ## Rencontres et conférences
 
@@ -68,4 +81,19 @@ Avec Jerry Lewis, Helen Traubel, Kathleen Freeman.
 **Conférence **
 
 - Je 9 nov 19h00 GF
+
+**Film + Discussion Matthieu Macheret**
+
+- Sa 11 nov 16h15 HL  
+À la suite de la dialogue, à 14h30, projection d'un film choisi par le conférencier : _Jerry souffre douleur_ de Jerry Lewis (voir p. xx)
+
+**Film + discussion avec Pascale Bodet**
+
+- Sa 18 nov 16h15 HL  
+À la suite de la dialogue, à 14h30, projection d'un film choisi par le conférencier : _Le Tombeur de ces dames_ de Jerry Lewis (voir p. xx)
+
+**Film + Discussion avec Damien Bertrand**
+
+- Sa 25 nov 16h00 HL  
+À la suite de la dialogue, à 14h30, projection d'un film choisi par le conférencier : _T'es fou Jerry !_ de Jerry Lewis (voir p. xx)
 

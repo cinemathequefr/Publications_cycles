@@ -102,28 +102,55 @@
           ]
         },
         {
-          "idFilm": 33879,
-          "content": [
+          "groupe": [
             {
               "idFilm": 33879,
-              "ordre": 1,
-              "titre": "Jerry souffre douleur",
-              "titreVo": "Patsy",
-              "artVo": "The",
-              "realisateurs": "Jerry Lewis",
-              "pays": "États-Unis",
-              "annee": 1964,
-              "duree": 101,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "textes": []
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 33879,
+                  "ordre": 1,
+                  "titre": "Jerry souffre douleur",
+                  "titreVo": "Patsy",
+                  "artVo": "The",
+                  "realisateurs": "Jerry Lewis",
+                  "pays": "États-Unis",
+                  "annee": 1964,
+                  "duree": 101,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "textes": []
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104594,
+                  "idSeanceAssoc": 104594,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-11T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
+            },
             {
-              "idSeance": 104594,
-              "dateHeure": "2023-11-11T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28598,
+              "content": [
+                {
+                  "idConf": 28598,
+                  "titre": "Film + Discussion Matthieu Macheret",
+                  "typeConference": "Dialogue",
+                  "textes": []
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104696,
+                  "idSeanceAssoc": 104594,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-11T16:15:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Jerry souffre douleur_ de Jerry Lewis"
+                }
+              ]
             }
           ]
         },
@@ -152,59 +179,149 @@
           ]
         },
         {
-          "idFilm": 53748,
-          "content": [
+          "groupe": [
             {
               "idFilm": 53748,
-              "ordre": 1,
-              "titre": "T'es fou Jerry !",
-              "titreVo": "Smorgasbord",
-              "realisateurs": "Jerry Lewis",
-              "pays": "États-Unis",
-              "annee": 1982,
-              "duree": 90,
-              "version": "",
-              "format": "35 mm",
-              "textes": []
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 53748,
+                  "ordre": 1,
+                  "titre": "T'es fou Jerry !",
+                  "titreVo": "Smorgasbord",
+                  "realisateurs": "Jerry Lewis",
+                  "pays": "États-Unis",
+                  "annee": 1982,
+                  "duree": 90,
+                  "version": "",
+                  "format": "35 mm",
+                  "textes": []
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104598,
+                  "idSeanceAssoc": 104598,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-25T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
+            },
             {
-              "idSeance": 104598,
-              "dateHeure": "2023-11-25T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28601,
+              "content": [
+                {
+                  "idConf": 28601,
+                  "titre": "Film + Discussion avec Damien Bertrand",
+                  "typeConference": "Dialogue",
+                  "textes": []
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104698,
+                  "idSeanceAssoc": 104598,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-25T16:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _T'es fou Jerry !_ de Jerry Lewis"
+                }
+              ]
             }
           ]
         },
         {
-          "idFilm": 45090,
-          "content": [
+          "groupe": [
             {
               "idFilm": 45090,
+              "content": [
+                {
+                  "idFilm": 45090,
+                  "ordre": 1,
+                  "titre": "Tombeur de ces dames",
+                  "art": "Le",
+                  "titreVo": "Ladies Man",
+                  "artVo": "The",
+                  "realisateurs": "Jerry Lewis",
+                  "pays": "États-Unis",
+                  "annee": 1961,
+                  "duree": 106,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Jerry Lewis",
+                    "Helen Traubel",
+                    "Kathleen Freeman"
+                  ],
+                  "textes": []
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104595,
+                  "idSeanceAssoc": 104595,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-18T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
+            },
+            {
+              "idEvenement": 28600,
+              "content": [
+                {
+                  "idConf": 28600,
+                  "titre": "Film + discussion avec Pascale Bodet",
+                  "typeConference": "Dialogue",
+                  "textes": []
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104697,
+                  "idSeanceAssoc": 104595,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-18T16:15:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Le Tombeur de ces dames_ de Jerry Lewis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 33891,
+          "content": [
+            {
+              "idFilm": 33891,
               "ordre": 1,
-              "titre": "Tombeur de ces dames",
-              "art": "Le",
-              "titreVo": "Ladies Man",
+              "titre": "Tontons farceurs",
+              "art": "Les",
+              "titreVo": "Family Jewels",
               "artVo": "The",
               "realisateurs": "Jerry Lewis",
               "pays": "États-Unis",
-              "annee": 1961,
-              "duree": 106,
+              "annee": 1965,
+              "duree": 100,
               "version": "VOSTF",
-              "format": "DCP",
+              "format": "35 mm",
               "generique": [
                 "Jerry Lewis",
-                "Helen Traubel",
-                "Kathleen Freeman"
+                "Donna Butterworth"
               ],
-              "textes": []
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une jeune orpheline très riche doit choisir avec quel membre de sa famille elle souhaite vivre."
+                }
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 104595,
-              "dateHeure": "2023-11-18T14:30:00",
-              "idSalle": "HL"
+              "idSeance": 104687,
+              "dateHeure": "2023-11-12T15:00:00",
+              "idSalle": "GF"
             }
           ]
         }

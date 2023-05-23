@@ -44,8 +44,7 @@ de Raoul Walsh
 Avec Gary Cooper, Mari Aldon, Richard Webb.  
 Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades. Remake de _Aventures en Birmanie_.
 
-- Sa 16 sep 14h30 HL  
-Voir aussi conférence p. xx
+- Sa 16 sep 14h30 HL
 
 [36844]  
 **Aventures en Birmanie**  
@@ -65,7 +64,8 @@ de Raoul Walsh
 Avec Linda Darnell, Richard Egan, William Bendix.  
 Le célèbre pirate Barbe Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
 
-- Je 21 sep 17h30 HL
+- Je 21 sep 17h30 HL  
+- Di 8 oct 15h00 GF
 
 [37751]  
 **Bataille sans merci**  
@@ -129,7 +129,7 @@ Avec Gregory Peck, James Robertson Justice, Christopher Lee.
 A l'époque des guerres napoléonniennes, le capitaine Horation Hornblower est à la tête d'un petit vaisseau. Il doit fournir des armes à un chef de bande, ennemi de l'Espagne.  
 Copie Technicolor original.
 
-- Sa 9 sep 14h30 HL
+- Ve 22 sep 20h15 HL
 
 [45390]  
 **La Charge de la huitième brigade**  
@@ -168,7 +168,7 @@ de Raoul Walsh
 Avec Dorothy Malone, Van Heflin, James Whitmore.  
 En 1942, avant de partir au front, de jeunes recrues tentent d'apprendre les rudiments de la guerre, enseignés par un instructeur aux méthodes sévères.
 
-- Sa 16 sep 19h30 HL
+- Sa 16 sep 20h30 HL
 
 [81231]  
 **Danse rouge**  
@@ -434,7 +434,7 @@ D'après le roman _Night Shift_ de Maritta Wolff.
 Avec Ida Lupino, Robert Alda, Andrea King.  
 Une chanteuse de night-club retourne dans sa famille et découvre la déchéance dans laquelle sont tombés son frère, compromis avec des gangsters, et un pianiste qu'elle admirait et dont elle tombe amoureuse.
 
-- Ve 22 sep 20h15 HL
+- Sa 9 sep 14h30 HL
 
 [46330]  
 **Marines, Let's Go !**  
@@ -453,7 +453,7 @@ de Raoul Walsh
 Avec Anthony Quinn, Gregory Peck, Ann Blyth.  
 Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper à un mariage avec le Prince Semyon, un prétendant imposé par le tsar.
 
-- Sa 9 sep 17h00 HL
+- Sa 9 sep 18h15 HL
 
 [154408]  
 **The Mystery of the Hindu Image**  
@@ -493,7 +493,8 @@ de Raoul Walsh
 Avec John Wayne, Robert Parrish, Marguerite Churchill.  
 Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
 
-- Sa 16 sep 17h00 HL
+- Sa 16 sep 18h00 HL  
+- Di 1 oct 15h00 GF
 
 [36854]  
 **Regeneration**  
@@ -605,7 +606,7 @@ de Raoul Walsh
 Avec Robert Mitchum, Teresa Wright, Alan Hale.  
 Au Nouveau-Méxique, Medora Callum recueille Jeb Rand, un jeune enfant dont le père vient d'être assassiné, et l'élève avec ses deux propres enfants. Ceux-ci devenus adultes, elle veut partager ses biens en trois parts égales. Le passé rattrape bientôt Jeb Rand.
 
-- Sa 9 sep 19h30 HL
+- Sa 9 sep 20h30 HL
 
 [79791]  
 **Victime du destin**  
@@ -647,6 +648,5 @@ Restauré par UCLA Film & Television Archive.
 **Film + discussion avec Pierre Gabaston**  
 **Conférence de Pierre Gabaston**
 
-- Sa 16 sep 16h45 HL  
-À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Les Aventures du capitaine Wyatt_ de Raoul Walsh (voir p. xx)
+- Sa 16 sep 16h45 HL
 

@@ -150,66 +150,38 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 37819,
+          "content": [
             {
               "idFilm": 37819,
-              "content": [
-                {
-                  "idFilm": 37819,
-                  "ordre": 1,
-                  "titre": "Aventures du capitaine Wyatt",
-                  "art": "Les",
-                  "titreVo": "Distant Drums",
-                  "realisateurs": "Raoul Walsh",
-                  "pays": "États-Unis",
-                  "annee": 1951,
-                  "duree": 101,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "Gary Cooper",
-                    "Mari Aldon",
-                    "Richard Webb"
-                  ],
-                  "textes": [
-                    {
-                      "typeTexte": 9,
-                      "texte": "Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades. Remake de _Aventures en Birmanie_."
-                    }
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Aventures du capitaine Wyatt",
+              "art": "Les",
+              "titreVo": "Distant Drums",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1951,
+              "duree": 101,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Gary Cooper",
+                "Mari Aldon",
+                "Richard Webb"
               ],
-              "seances": [
+              "textes": [
                 {
-                  "idSeance": 104417,
-                  "idSeanceAssoc": 104417,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-09-16T14:30:00",
-                  "idSalle": "HL"
+                  "typeTexte": 9,
+                  "texte": "Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades. Remake de _Aventures en Birmanie_."
                 }
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 28588,
-              "content": [
-                {
-                  "idConf": 28588,
-                  "titre": "Film + discussion avec Pierre Gabaston",
-                  "sousTitre": "Conférence de Pierre Gabaston",
-                  "typeConference": "Conférence",
-                  "textes": []
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104669,
-                  "idSeanceAssoc": 104417,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-09-16T16:45:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Les Aventures du capitaine Wyatt_ de Raoul Walsh"
-                }
-              ]
+              "idSeance": 104417,
+              "dateHeure": "2023-09-16T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -280,6 +252,11 @@
               "idSeance": 104508,
               "dateHeure": "2023-09-21T17:30:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 104677,
+              "dateHeure": "2023-10-08T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -499,8 +476,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104372,
-              "dateHeure": "2023-09-09T14:30:00",
+              "idSeance": 104695,
+              "dateHeure": "2023-09-22T20:15:00",
               "idSalle": "HL"
             }
           ]
@@ -642,7 +619,7 @@
           "seances": [
             {
               "idSeance": 104441,
-              "dateHeure": "2023-09-16T19:30:00",
+              "dateHeure": "2023-09-16T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -1587,8 +1564,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104511,
-              "dateHeure": "2023-09-22T20:15:00",
+              "idSeance": 104692,
+              "dateHeure": "2023-09-09T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -1659,7 +1636,7 @@
           "seances": [
             {
               "idSeance": 104375,
-              "dateHeure": "2023-09-09T17:00:00",
+              "dateHeure": "2023-09-09T18:15:00",
               "idSalle": "HL"
             }
           ]
@@ -1804,8 +1781,13 @@
           "seances": [
             {
               "idSeance": 104440,
-              "dateHeure": "2023-09-16T17:00:00",
+              "dateHeure": "2023-09-16T18:00:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 104675,
+              "dateHeure": "2023-10-01T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -2202,7 +2184,7 @@
           "seances": [
             {
               "idSeance": 104651,
-              "dateHeure": "2023-09-09T19:30:00",
+              "dateHeure": "2023-09-09T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -2315,6 +2297,31 @@
               "idSeance": 104642,
               "dateHeure": "2023-10-08T20:45:00",
               "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idEvenement": 28588,
+          "content": [
+            {
+              "idConf": 28588,
+              "titre": "Film + discussion avec Pierre Gabaston",
+              "sousTitre": "Conférence de Pierre Gabaston",
+              "typeConference": "Conférence",
+              "textes": []
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104669,
+              "dateHeure": "2023-09-16T16:45:00",
+              "idSalle": "HL"
             }
           ]
         }

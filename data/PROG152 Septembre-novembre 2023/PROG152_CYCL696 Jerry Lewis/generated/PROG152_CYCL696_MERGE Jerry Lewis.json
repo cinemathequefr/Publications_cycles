@@ -100,6 +100,8 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104696,
           "idCategorie": 3060,
           "idEvenement": 28402,
           "typeEvenement": 13,
@@ -146,6 +148,8 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104698,
           "idCategorie": 3060,
           "idEvenement": 28405,
           "typeEvenement": 13,
@@ -169,6 +173,8 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104697,
           "idCategorie": 3060,
           "idEvenement": 28413,
           "typeEvenement": 13,
@@ -189,6 +195,41 @@
             "Kathleen Freeman"
           ],
           "textes": []
+        },
+        {
+          "idSeance": 104687,
+          "ordre": 1,
+          "dateHeure": "2023-11-12T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3060,
+          "idEvenement": 28414,
+          "typeEvenement": 13,
+          "idFilm": 33891,
+          "art": "Les",
+          "titre": "Tontons farceurs",
+          "artVo": "The",
+          "titreVo": "Family Jewels",
+          "realisateurs": "Jerry Lewis",
+          "annee": 1965,
+          "pays": "États-Unis",
+          "duree": 100,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": 8,
+          "generique": [
+            "Jerry Lewis",
+            "Donna Butterworth"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune orpheline très riche doit choisir avec quel membre de sa famille elle souhaite vivre."
+            }
+          ]
         }
       ],
       "textes": []
@@ -197,6 +238,63 @@
       "titreSousCycle": "Rencontres et conférences",
       "tri": 4,
       "items": [
+        {
+          "idSeance": 104696,
+          "dateHeure": "2023-11-11T16:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104594,
+          "idCategorie": 3090,
+          "idEvenement": 28598,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + Discussion Matthieu Macheret",
+          "duree": 60,
+          "textes": []
+        },
+        {
+          "idSeance": 104698,
+          "dateHeure": "2023-11-25T16:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104598,
+          "idCategorie": 3090,
+          "idEvenement": 28601,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + Discussion avec Damien Bertrand",
+          "duree": 60,
+          "textes": []
+        },
+        {
+          "idSeance": 104697,
+          "dateHeure": "2023-11-18T16:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104595,
+          "idCategorie": 3090,
+          "idEvenement": 28600,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + discussion avec Pascale Bodet",
+          "duree": 60,
+          "textes": []
+        },
         {
           "idSeance": 104631,
           "dateHeure": "2023-11-09T19:00:00",

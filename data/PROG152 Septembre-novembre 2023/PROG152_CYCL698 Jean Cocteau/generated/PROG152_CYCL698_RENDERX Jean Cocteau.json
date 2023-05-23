@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2023-11-15T20:00:00",
-    "2023-11-16T19:30:00"
+    "2023-11-22T15:00:00"
   ],
   "sousCycles": [
     {
@@ -47,6 +47,42 @@
           ]
         },
         {
+          "idFilm": 47711,
+          "content": [
+            {
+              "idFilm": 47711,
+              "ordre": 1,
+              "titre": "Belle et la Bête",
+              "art": "La",
+              "realisateurs": "Jean Cocteau",
+              "pays": "France",
+              "annee": 1945,
+              "duree": 100,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.",
+              "generique": [
+                "Josette Day",
+                "Jean Marais",
+                "Marcel André"
+              ],
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Belle se retrouve prisonnière d'un château où règne une horrible bête. Effrayée dans un premier temps, Belle découvre que la bête possède un cœur en or et un autre visage."
+                }
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104690,
+              "dateHeure": "2023-11-22T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 47713,
           "content": [
             {
@@ -76,6 +112,8 @@
           "seances": [
             {
               "idSeance": 104605,
+              "idSeanceAssoc": 104699,
+              "typeAssoc": 117,
               "dateHeure": "2023-11-16T19:30:00",
               "idSalle": "HL"
             }
@@ -103,7 +141,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "En 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée.\n\n---\n\nEn 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée."
+                  "texte": "En 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée."
                 }
               ]
             }
@@ -111,7 +149,35 @@
           "seances": [
             {
               "idSeance": 104605,
+              "idSeanceAssoc": 104699,
+              "typeAssoc": 117,
               "dateHeure": "2023-11-16T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 1,
+      "items": [
+        {
+          "idConf": 28602,
+          "content": [
+            {
+              "idEvenement": 28602,
+              "titre": "Film + discussion avec Claude Arnaud",
+              "typeConference": "Dialogue",
+              "textes": []
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104699,
+              "idSeanceAssoc": 104605,
+              "typeAssoc": 117,
+              "dateHeure": "2023-11-16T16:00:00",
               "idSalle": "HL"
             }
           ]

@@ -13,6 +13,16 @@ A l'aube du XXe siècle, la souveraine d'un royaume est menacée d'un complot fo
 - Me 15 nov 20h00 HL  
 Ouverture de la rétrospective
 
+[47711]  
+**La Belle et la Bête**  
+de Jean Cocteau  
+France / 1945 / 100 min / 35 mm  
+D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.  
+Avec Josette Day, Jean Marais, Marcel André.  
+Belle se retrouve prisonnière d'un château où règne une horrible bête. Effrayée dans un premier temps, Belle découvre que la bête possède un cœur en or et un autre visage.
+
+- Me 22 nov 15h00 GF
+
 [47713]  
 **Le Sang d'un poète**  
 de Jean Cocteau  
@@ -21,6 +31,7 @@ Avec Enrique de Rivero, Lee Miller, Pauline Carton.
 Un artiste passe de l'autre côté du miroir à l'invitation d'une statue.
 
 - Je 16 nov 19h30 HL  
+Voir aussi dialogue p. xx  
 Film suivi de _La Villa Santo Sospir_ de Jean Cocteau
 
 [62173]  
@@ -28,12 +39,11 @@ Film suivi de _La Villa Santo Sospir_ de Jean Cocteau
 de Jean Cocteau  
 France / 1951 / 37 min / 16 mm  
 Avec Jean Cocteau, Francine Weisweiller, Edouard Dermit.  
-En 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée.
-
----
-
-En 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée.
+En 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée.
 
 - Je 16 nov 19h30 HL  
+Voir aussi dialogue p. xx  
 Film précédé de _Le Sang d'un poète_ de Jean Cocteau
+
+## Rencontres et conférences
 

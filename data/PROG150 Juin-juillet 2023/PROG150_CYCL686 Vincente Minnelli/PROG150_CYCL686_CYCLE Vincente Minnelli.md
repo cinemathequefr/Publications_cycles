@@ -358,7 +358,7 @@ Un couple de jeunes mariés, qui vient d'acheter une gigantesque caravane et ent
 **Thé et Sympathie**  
 **(Tea and Sympathy)**  
 de Vincente Minnelli  
-États-Unis / 1956 / VOSTF / 35 mm  
+États-Unis / 1956 / 122 min / VOSTF / 35 mm  
 D'après la pièce de théâtre _Thé et Sympathie_ de Robert Anderson.  
 Avec Deborah Kerr, John Kerr, Leif Erickson.  
 Tom, un étudiant, est plus attiré par la littérature et les arts que par les sports. À part l'amitié que lui témoigne son seul camarade, Al, Tom est marginalisé par les autres garçons du pensionnat. Heureusement, il sympathise bientôt avec la femme du professeur de gymnastique.

@@ -43,6 +43,43 @@
         ]
       },
       {
+        "idFilm": 47711,
+        "typeEvenement": 13,
+        "titre": "Belle et la Bête",
+        "art": "La",
+        "realisateurs": "Jean Cocteau",
+        "annee": 1945,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Belle se retrouve prisonnière d'un château où règne une horrible bête. Effrayée dans un premier temps, Belle découvre que la bête possède un cœur en or et un autre visage."
+          }
+        ],
+        "adaptation": "D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.",
+        "generique": [
+          "Josette Day",
+          "Jean Marais",
+          "Marcel André"
+        ],
+        "duree": 100,
+        "format": "35 mm",
+        "version": "",
+        "ageMinimal": 6,
+        "seances": [
+          {
+            "idSeance": 104690,
+            "ordre": 1,
+            "dateHeure": "2023-11-22T15:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          }
+        ]
+      },
+      {
         "idFilm": 47713,
         "typeEvenement": 13,
         "titre": "Sang d'un poète",
@@ -73,8 +110,11 @@
               "HL",
               "Henri Langlois"
             ],
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104699,
             "typeEvenement": 13,
-            "precedeSuivi": "Film suivi de _La Villa Santo Sospir_ de Jean Cocteau"
+            "precedeSuivi": "Film suivi de _La Villa Santo Sospir_ de Jean Cocteau",
+            "mentionRenvoi": "Voir aussi dialogue p. xx"
           }
         ]
       },
@@ -89,7 +129,7 @@
         "textes": [
           {
             "typeTexte": 9,
-            "texte": "En 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée.\n\n---\n\nEn 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée."
+            "texte": "En 1950, Jean Cocteau est invité dans la villa de son amie Francine Weisweiller, à Saint-Jean-Cap-Ferrat. Il y entreprend sa première grande décoration murale et nous en fait la visite commentée."
           }
         ],
         "generique": [
@@ -109,8 +149,39 @@
               "HL",
               "Henri Langlois"
             ],
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104699,
             "typeEvenement": 13,
-            "precedeSuivi": "Film précédé de _Le Sang d'un poète_ de Jean Cocteau"
+            "precedeSuivi": "Film précédé de _Le Sang d'un poète_ de Jean Cocteau",
+            "mentionRenvoi": "Voir aussi dialogue p. xx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titreSousCycle": "Rencontres et conférences",
+    "tri": 1,
+    "textes": [],
+    "items": [
+      {
+        "titre": "Film + discussion avec Claude Arnaud",
+        "typeEvenement": 14,
+        "typeConference": "Dialogue",
+        "textes": [],
+        "seances": [
+          {
+            "idSeance": 104699,
+            "dateHeure": "2023-11-16T16:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104605,
+            "typeEvenement": 14,
+            "typeConference": "Dialogue",
+            "mentionRenvoi": "À la suite de la dialogue, à 19h30, projection d'un film choisi par le conférencier : _Le Sang d'un poète_ de Jean Cocteau, _La Villa Santo Sospir_ de Jean Cocteau (voir p. xx)"
           }
         ]
       }
