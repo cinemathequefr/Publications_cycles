@@ -113,6 +113,22 @@
   * Petite vendeuse de soleil (La)  
   * Porco rosso
 
+## Mexico maleficarum (13)
+
+  * Alucarda, la hija de las tinieblas  
+  * Amantes del Señor de la Noche (Las)  
+  * Baron de la terreur (Le)  
+  * Invasión de los Vampiros (La)  
+  * La Bruja  
+  * Maldición de la Llorona (La)  
+  * Miroir de la sorcière (Le)  
+  * Mundo de los muertos (El)  
+  * Museo del horror  
+  * Mystères d'outre-tombe (Les)  
+  * Proies du vampire (Les)  
+  * Vampiro sangriento (El)  
+  * Veneno para las hadas
+
 ## Pascal Thomas (5)
 
   * Chaud lapin (Le)  
@@ -190,22 +206,6 @@
 
   * Salvador Allende  
   * Septembre chilien
-
-## Trésors du cinéma fantastique mexicain (13)
-
-  * Alucarda, la hija de las tinieblas  
-  * Amantes del Señor de la Noche (Las)  
-  * Baron de la terreur (Le)  
-  * Invasión de los Vampiros (La)  
-  * La Bruja  
-  * Maldición de la Llorona (La)  
-  * Miroir de la sorcière (Le)  
-  * Mundo de los muertos (El)  
-  * Museo del horror  
-  * Mystères d'outre-tombe (Les)  
-  * Proies du vampire (Les)  
-  * Vampiro sangriento (El)  
-  * Veneno para las hadas
 
 ## Viva Varda ! (8)
 

@@ -1,4 +1,4 @@
-# Trésors du cinéma fantastique mexicain
+# Mexico maleficarum
 
 ## Les films
 
