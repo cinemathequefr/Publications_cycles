@@ -1,5 +1,20 @@
 [
   {
+    "idCategorie": 3093,
+    "typeEvenement": 14,
+    "idEvenement": 28607,
+    "idSeance": 104703,
+    "dateHeure": "2023-10-19T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 3064,
     "typeEvenement": 13,
     "idEvenement": 28466,
@@ -55,6 +70,21 @@
     ]
   },
   {
+    "idCategorie": 3093,
+    "typeEvenement": 14,
+    "idEvenement": 28610,
+    "idSeance": 104704,
+    "dateHeure": "2023-10-21T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 3064,
     "typeEvenement": 13,
     "idEvenement": 28471,
@@ -65,7 +95,8 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
-    "typeAssoc": 118,
+    "idSeanceAssoc": 104705,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 51614,
@@ -79,6 +110,23 @@
     ]
   },
   {
+    "idCategorie": 3093,
+    "typeEvenement": 14,
+    "idEvenement": 28591,
+    "idSeance": 104705,
+    "dateHeure": "2023-10-28T16:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "idSeanceAssoc": 104636,
+    "typeAssoc": 117,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 3064,
     "typeEvenement": 13,
     "idEvenement": 28479,
@@ -89,6 +137,8 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "idSeanceAssoc": 104706,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 68649,
@@ -99,6 +149,23 @@
         "version": "",
         "format": "DCP"
       }
+    ]
+  },
+  {
+    "idCategorie": 3093,
+    "typeEvenement": 14,
+    "idEvenement": 28611,
+    "idSeance": 104706,
+    "dateHeure": "2023-11-04T16:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "idSeanceAssoc": 104637,
+    "typeAssoc": 117,
+    "items": [
+      {}
     ]
   },
   {
@@ -122,7 +189,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Bernard Bastide"
   },
   {
     "idCategorie": 3064,
@@ -145,7 +213,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Dominique Cabrera"
   },
   {
     "idCategorie": 3064,

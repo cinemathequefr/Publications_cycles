@@ -13,6 +13,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 105,
+          "mention": "Séance présentée par Dominique Cabrera",
           "idCategorie": 3064,
           "idEvenement": 28455,
           "typeEvenement": 13,
@@ -144,6 +145,8 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104706,
           "idCategorie": 3064,
           "idEvenement": 28479,
           "typeEvenement": 13,
@@ -199,6 +202,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "mention": "Séance présentée par Bernard Bastide",
           "idCategorie": 3064,
           "idEvenement": 28446,
           "typeEvenement": 13,
@@ -235,7 +239,8 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
-          "typeAssoc": 118,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104705,
           "idCategorie": 3064,
           "idEvenement": 28471,
           "typeEvenement": 13,
@@ -253,6 +258,86 @@
               "texte": "Une jeune fille est trouvée morte de froid, c'est un fait d'hiver. Le film raconte les deux mois qui ont précédé sa mort, ceux qui ont croisé sa route de rebelle dressent son portrait en creux."
             }
           ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 104706,
+          "dateHeure": "2023-11-04T16:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104637,
+          "idCategorie": 3093,
+          "idEvenement": 28611,
+          "typeEvenement": 14,
+          "idTypeConference": 19,
+          "typeConference": "Table ronde",
+          "titre": "Table Ronde Les glaneurs et la glaneuse",
+          "duree": 60,
+          "textes": []
+        },
+        {
+          "idSeance": 104704,
+          "dateHeure": "2023-10-21T16:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3093,
+          "idEvenement": 28610,
+          "typeEvenement": 14,
+          "idTypeConference": 19,
+          "typeConference": "Table ronde",
+          "titre": "Table ronde Cléo de 5 à 7",
+          "duree": 0,
+          "textes": []
+        },
+        {
+          "idSeance": 104705,
+          "dateHeure": "2023-10-28T16:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104636,
+          "idCategorie": 3093,
+          "idEvenement": 28591,
+          "typeEvenement": 14,
+          "idTypeConference": 19,
+          "typeConference": "Table ronde",
+          "titre": "Table ronde Sans toit ni loi",
+          "duree": 60,
+          "textes": []
+        },
+        {
+          "idSeance": 104703,
+          "dateHeure": "2023-10-19T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3093,
+          "idEvenement": 28607,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "« Qui êtes-vous agnes Varda ? » par Florence Tissot",
+          "sousTitre": "Conférence ",
+          "duree": 0,
+          "textes": []
         }
       ],
       "textes": []

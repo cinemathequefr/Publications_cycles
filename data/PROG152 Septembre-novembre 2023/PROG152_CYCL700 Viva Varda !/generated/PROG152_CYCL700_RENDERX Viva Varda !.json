@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2023-10-19T21:15:00",
+    "2023-10-19T19:00:00",
     "2023-11-25T15:00:00"
   ],
   "sousCycles": [
@@ -39,7 +39,8 @@
             {
               "idSeance": 104639,
               "dateHeure": "2023-11-18T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Dominique Cabrera"
             }
           ]
         },
@@ -148,32 +149,59 @@
           ]
         },
         {
-          "idFilm": 68649,
-          "content": [
+          "groupe": [
             {
               "idFilm": 68649,
-              "ordre": 1,
-              "titre": "Glaneurs et la Glaneuse",
-              "art": "Les",
-              "realisateurs": "Agnès Varda",
-              "pays": "France",
-              "annee": 2000,
-              "duree": 82,
-              "version": "",
-              "format": "DCP",
-              "textes": [
+              "content": [
                 {
-                  "typeTexte": 9,
-                  "texte": "Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant."
+                  "idFilm": 68649,
+                  "ordre": 1,
+                  "titre": "Glaneurs et la Glaneuse",
+                  "art": "Les",
+                  "realisateurs": "Agnès Varda",
+                  "pays": "France",
+                  "annee": 2000,
+                  "duree": 82,
+                  "version": "",
+                  "format": "DCP",
+                  "textes": [
+                    {
+                      "typeTexte": 9,
+                      "texte": "Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant."
+                    }
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104637,
+                  "idSeanceAssoc": 104637,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-04T14:30:00",
+                  "idSalle": "HL"
                 }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 104637,
-              "dateHeure": "2023-11-04T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28611,
+              "content": [
+                {
+                  "idConf": 28611,
+                  "titre": "Table Ronde Les glaneurs et la glaneuse",
+                  "typeConference": "Table ronde",
+                  "textes": []
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104706,
+                  "idSeanceAssoc": 104637,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-04T16:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Les Glaneurs et la Glaneuse_ d'Agnès Varda"
+                }
+              ]
             }
           ]
         },
@@ -240,36 +268,106 @@
             {
               "idSeance": 104638,
               "dateHeure": "2023-11-11T15:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Bernard Bastide"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 51614,
+              "content": [
+                {
+                  "idFilm": 51614,
+                  "ordre": 1,
+                  "titre": "Sans toit ni loi",
+                  "realisateurs": "Agnès Varda",
+                  "pays": "France",
+                  "annee": 1985,
+                  "duree": 105,
+                  "version": "",
+                  "format": "DCP",
+                  "textes": [
+                    {
+                      "typeTexte": 9,
+                      "texte": "Une jeune fille est trouvée morte de froid, c'est un fait d'hiver. Le film raconte les deux mois qui ont précédé sa mort, ceux qui ont croisé sa route de rebelle dressent son portrait en creux."
+                    }
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104636,
+                  "idSeanceAssoc": 104636,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-10-28T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
+            },
+            {
+              "idEvenement": 28591,
+              "content": [
+                {
+                  "idConf": 28591,
+                  "titre": "Table ronde Sans toit ni loi",
+                  "typeConference": "Table ronde",
+                  "textes": []
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104705,
+                  "idSeanceAssoc": 104636,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-10-28T16:45:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Sans toit ni loi_ d'Agnès Varda"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idEvenement": 28607,
+          "content": [
+            {
+              "idConf": 28607,
+              "titre": "« Qui êtes-vous agnes Varda ? » par Florence Tissot",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence",
+              "textes": []
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104703,
+              "dateHeure": "2023-10-19T19:00:00",
               "idSalle": "GF"
             }
           ]
         },
         {
-          "idFilm": 51614,
+          "idEvenement": 28610,
           "content": [
             {
-              "idFilm": 51614,
-              "ordre": 1,
-              "titre": "Sans toit ni loi",
-              "realisateurs": "Agnès Varda",
-              "pays": "France",
-              "annee": 1985,
-              "duree": 105,
-              "version": "",
-              "format": "DCP",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Une jeune fille est trouvée morte de froid, c'est un fait d'hiver. Le film raconte les deux mois qui ont précédé sa mort, ceux qui ont croisé sa route de rebelle dressent son portrait en creux."
-                }
-              ]
+              "idConf": 28610,
+              "titre": "Table ronde Cléo de 5 à 7",
+              "typeConference": "Table ronde",
+              "textes": []
             }
           ],
           "seances": [
             {
-              "idSeance": 104636,
-              "typeAssoc": 118,
-              "dateHeure": "2023-10-28T14:30:00",
+              "idSeance": 104704,
+              "dateHeure": "2023-10-21T16:30:00",
               "idSalle": "HL"
             }
           ]

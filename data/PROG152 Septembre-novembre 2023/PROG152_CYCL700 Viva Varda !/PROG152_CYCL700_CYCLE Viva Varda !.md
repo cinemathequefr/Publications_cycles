@@ -9,7 +9,8 @@ France / 1965 / 80 min / DCP
 Avec Jean-Claude Drouot, Marie-France Boyer, Claire Drouot.  
 François, jeune menuisier, mène une vie heureuse et simple avec sa femme Thérèse, couturière, et leurs deux jeunes enfants. Un jour, il rencontre Émilie, une employée de la poste locale.
 
-- Sa 18 nov 15h00 GF
+- Sa 18 nov 15h00 GF  
+Séance présentée par Dominique Cabrera
 
 [51603]  
 **Cléo de 5 à 7**  
@@ -45,7 +46,8 @@ d'Agnès Varda
 France / 2000 / 82 min / DCP  
 Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant.
 
-- Sa 4 nov 14h30 HL
+- Sa 4 nov 14h30 HL  
+Voir aussi table ronde p. xx
 
 [79314]  
 **Oncle Yanko**  
@@ -68,7 +70,8 @@ Texte à saisir
 Dans un village de pêcheurs, deux histoires parallèles: un homme né là-bas attend sa femme. Ils font le point de leur amour. Quant aux pêcheurs, ils ont des problèmes de travail et de famille.  
 _« Ce film ne veut ni faire éprouver ni prouver quoi que ce soit. Il raconte lentement, au rythme du temps qui passe, qui use et transforme, au rythme du temps inexorable et dans la lumière lucide d'un égal beau temps. »_
 
-- Sa 11 nov 15h00 GF
+- Sa 11 nov 15h00 GF  
+Séance présentée par Bernard Bastide
 
 [51614]  
 **Sans toit ni loi**  
@@ -76,5 +79,27 @@ d'Agnès Varda
 France / 1985 / 105 min / DCP  
 Une jeune fille est trouvée morte de froid, c'est un fait d'hiver. Le film raconte les deux mois qui ont précédé sa mort, ceux qui ont croisé sa route de rebelle dressent son portrait en creux.
 
-- Sa 28 oct 14h30 HL
+- Sa 28 oct 14h30 HL  
+Voir aussi table ronde p. xx
+
+## Rencontres et conférences
+
+**« Qui êtes-vous agnes Varda ? » par Florence Tissot**  
+**Conférence **
+
+- Je 19 oct 19h00 GF
+
+**Table ronde Cléo de 5 à 7**
+
+- Sa 21 oct 16h30 HL
+
+**Table ronde Sans toit ni loi**
+
+- Sa 28 oct 16h45 HL  
+À la suite de la table ronde, à 14h30, projection d'un film choisi par le conférencier : _Sans toit ni loi_ d'Agnès Varda (voir p. xx)
+
+**Table Ronde Les glaneurs et la glaneuse**
+
+- Sa 4 nov 16h00 HL  
+À la suite de la table ronde, à 14h30, projection d'un film choisi par le conférencier : _Les Glaneurs et la Glaneuse_ d'Agnès Varda (voir p. xx)
 

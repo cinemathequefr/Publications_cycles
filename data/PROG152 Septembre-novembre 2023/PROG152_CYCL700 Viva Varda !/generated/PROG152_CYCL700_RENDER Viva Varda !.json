@@ -35,6 +35,7 @@
               "GF",
               "Georges Franju"
             ],
+            "mention": "Séance présentée par Dominique Cabrera",
             "typeEvenement": 13
           }
         ]
@@ -170,7 +171,10 @@
               "HL",
               "Henri Langlois"
             ],
-            "typeEvenement": 13
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104706,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi table ronde p. xx"
           }
         ]
       },
@@ -238,6 +242,7 @@
               "GF",
               "Georges Franju"
             ],
+            "mention": "Séance présentée par Bernard Bastide",
             "typeEvenement": 13
           }
         ]
@@ -267,8 +272,108 @@
               "HL",
               "Henri Langlois"
             ],
-            "typeAssoc": 118,
-            "typeEvenement": 13
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104705,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi table ronde p. xx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titreSousCycle": "Rencontres et conférences",
+    "tri": 4,
+    "textes": [],
+    "items": [
+      {
+        "items": [
+          {
+            "titre": "« Qui êtes-vous agnes Varda ? » par Florence Tissot",
+            "sousTitre": "Conférence ",
+            "textes": [],
+            "duree": 0
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104703,
+            "dateHeure": "2023-10-19T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 14,
+            "typeConference": "Conférence"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "titre": "Table ronde Cléo de 5 à 7",
+            "textes": [],
+            "duree": 0
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104704,
+            "dateHeure": "2023-10-21T16:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeEvenement": 14,
+            "typeConference": "Table ronde"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "titre": "Table ronde Sans toit ni loi",
+            "textes": [],
+            "duree": 60
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104705,
+            "dateHeure": "2023-10-28T16:45:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104636,
+            "typeEvenement": 14,
+            "typeConference": "Table ronde",
+            "mentionRenvoi": "À la suite de la table ronde, à 14h30, projection d'un film choisi par le conférencier : _Sans toit ni loi_ d'Agnès Varda (voir p. xx)"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "titre": "Table Ronde Les glaneurs et la glaneuse",
+            "textes": [],
+            "duree": 60
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104706,
+            "dateHeure": "2023-11-04T16:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104637,
+            "typeEvenement": 14,
+            "typeConference": "Table ronde",
+            "mentionRenvoi": "À la suite de la table ronde, à 14h30, projection d'un film choisi par le conférencier : _Les Glaneurs et la Glaneuse_ d'Agnès Varda (voir p. xx)"
           }
         ]
       }
