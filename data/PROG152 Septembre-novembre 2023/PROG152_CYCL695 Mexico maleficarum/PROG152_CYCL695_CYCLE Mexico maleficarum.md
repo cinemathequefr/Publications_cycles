@@ -27,7 +27,7 @@ Avec Abel Salazar, Ariadna Welter, David Silva.
 - Sa 28 oct 20h30 GF
 
 [154430]  
-**La Invasión de los Vampiros**  
+**La Invasión de los vampiros**  
 de Miguel Morayta  
 Mexique / 1962 / 100 min / VOSTF / DCP  
 Avec Erna Martha Bauman, Rafael del Río, Tito Junco.
@@ -42,7 +42,7 @@ Mexique / 1954 / 90 min / VOSTF / DCP
 - Sa 28 oct 18h30 GF
 
 [154291]  
-**Les Les Larmes de la malédiction**  
+**Les Larmes de la malédiction**  
 **(La Maldición de la llorona)**  
 de Rafael Baledón  
 Mexique / 1963 / 80 min / VOSTF / DCP  

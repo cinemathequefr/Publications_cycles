@@ -118,9 +118,9 @@
   * Alucarda, la hija de las tinieblas  
   * Amantes del Señor de la Noche (Las)  
   * Baron de la terreur (Le)  
-  * Invasión de los Vampiros (La)  
+  * Invasión de los vampiros (La)  
   * La Bruja  
-  * Les Larmes de la malédiction (Les)  
+  * Larmes de la malédiction (Les)  
   * Miroir de la sorcière (Le)  
   * Mundo de los muertos (El)  
   * Museo del horror  
