@@ -57,13 +57,14 @@ Charlot recueille un bébé abandonné et l'élève de son mieux même s'il n'a 
 
 - Me 4 oct 15h00 GF
 
-[58507]  
-**Barbe-Noire, le pirate**  
-**(Blackbeard, the Pirate)**  
-de Raoul Walsh  
-États-Unis / 1952 / 100 min / VOSTF / 35 mm  
-Avec Linda Darnell, Richard Egan, William Bendix.  
-Le célèbre pirate Barbe Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
+[33678]  
+**L'Aventure de Madame Muir**  
+**(The Ghost and Mrs Muir)**  
+de Joseph L. Mankiewicz  
+États-Unis / 1946 / 104 min / VOSTF / DCP  
+D'après le roman _The Ghost and Mrs. Muir_ de R.A. Dick.  
+Avec Gene Tierney, Rex Harrison, George Sanders, Edna Best.  
+Une ravissante veuve, Mrs. Muir, se retire dans une maison en bord de mer avec sa fille et une domestique. Le fantôme de l'ancien propriétaire des lieux, le capitaine Gregg, hante la demeure. Mais Mrs. Muir est plus fascinée qu'effrayée.
 
 - Di 8 oct 15h00 GF
 

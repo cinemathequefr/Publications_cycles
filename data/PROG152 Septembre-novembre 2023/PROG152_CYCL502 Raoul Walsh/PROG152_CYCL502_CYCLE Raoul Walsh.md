@@ -64,8 +64,7 @@ de Raoul Walsh
 Avec Linda Darnell, Richard Egan, William Bendix.  
 Le célèbre pirate Barbe Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
 
-- Je 21 sep 17h30 HL  
-- Di 8 oct 15h00 GF
+- Je 21 sep 17h30 HL
 
 [37751]  
 **Bataille sans merci**  
@@ -377,15 +376,6 @@ Avec Clark Gable, Jane Russell, Robert Ryan.
 Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement ruinés. Un homme leur propose alors un marché : conduire un immense troupeau du Texas au Montana pour en partager les bénéfices.
 
 - Di 17 sep 18h00 HL
-
-[36818]  
-**In Old Arizona**  
-d'Irving Cummings, Raoul Walsh  
-États-Unis / 1929 / 95 min / VOSTF / DCP  
-Avec Warner Baxter, Edmund Lowe, Dorothy Burgess.  
-Un bandit mexicain, Cisco Kid, qui échappe régulièrement à ses poursuivants, est trahi par une femme.
-
-- Di 8 oct 14h30 GF
 
 [37781]  
 **Intrigues en Orient**  

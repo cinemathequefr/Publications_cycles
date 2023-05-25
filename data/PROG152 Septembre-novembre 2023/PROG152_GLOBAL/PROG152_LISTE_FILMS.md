@@ -1,5 +1,10 @@
 # Liste des films par cycle
 
+## Archi Vives (2)
+
+  * Brad Pitt – La Revanche d'un Blond  
+  * Jim Carrey, l'Amérique démasquée
+
 ## Catherine Breillat (15)
 
   * 36 fillette  
@@ -97,10 +102,11 @@
   * Tombeur de ces dames (Le)  
   * Tontons farceurs (Les)
 
-## Ma petite Cinémathèque (13)
+## Ma petite Cinémathèque (14)
 
   * Argent de poche (L')  
   * Arsenic et vieilles dentelles  
+  * Aventure de Madame Muir (L')  
   * Aventures de Peter Pan (Les)  
   * Demoiselles de Rochefort (Les)  
   * Gosse (Le)  
@@ -137,7 +143,7 @@
   * Surprise du chef (La)  
   * Zozos (Les)
 
-## Raoul Walsh (62)
+## Raoul Walsh (61)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -175,7 +181,6 @@
   * Gentleman Jim  
   * Grande évasion (La)  
   * Implacables (Les)  
-  * In Old Arizona  
   * Intrigues en Orient  
   * Kindred of the Dust (The)  
   * Loves of Carmen (The)  
