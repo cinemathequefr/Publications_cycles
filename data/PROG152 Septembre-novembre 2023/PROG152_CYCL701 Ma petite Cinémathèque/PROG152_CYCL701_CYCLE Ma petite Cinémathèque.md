@@ -2,16 +2,6 @@
 
 ## Les films
 
-[36808]  
-**Gentleman Jim**  
-de Raoul Walsh  
-États-Unis / 1942 / 104 min / VOSTF / 35 mm  
-D'après l'ouvrage _The Roar of the Crowd_ de James J. Corbett.  
-Avec Errol Flynn, Alexis Smith, Alan Hale.  
-Jim veux tout très vite : être à la fois champion de boxe, grand acteur shakespearien et surtout épouser la fille de son patron. Les entraînements, les matchs fougueux, la vie à toute vitesse sauront lui apprendront à changer.
-
-- Di 3 sep 16h45 HL
-
 [154475]  
 **Linda veut du poulet**  
 de Sébastien Laudenbach, Chiara Malta  
@@ -68,11 +58,17 @@ Une ravissante veuve, Mrs. Muir, se retire dans une maison en bord de mer avec s
 
 - Di 8 oct 15h00 GF
 
-[63893]  
-**Kirikou et la sorcière**  
-de Michel Ocelot  
-France-Belgique-Luxembourg / 1997 / 75 min / VF / 35 mm  
-« Kirikou n'est pas grand, mais il est vaillant ». Haut comme trois pommes, le petit Kirikou va chercher à délivrer son village du maléfice de Karaba la sorcière, mais peut-être est-ce elle qui a le plus besoin d'être délivrée...
+[32933]  
+**Ma vache et moi**  
+**(Go West)**  
+de Buster Keaton  
+États-Unis / 1925 / 78 min / INT. ANG. / 35 mm  
+Avec Buster Keaton, Howard Truesdale.  
+Un jeune homme naïf conduit à la ville un immense troupeau.
+
+---
+
+_Copie avec musique_
 
 - Me 11 oct 15h00 GF
 
@@ -107,15 +103,7 @@ Avec Catherine Deneuve, Françoise Dorléac, Danielle Darrieux, Jacques Perrin, 
 de Djibril Diop Mambéty  
 Sénégal-Suisse-France / 1998 / 45 min / DCP  
 Avec Lissa Baléra, Taörou M'Baye, Oumou Samb.  
-Deux fillettes qui ne se laissent pas faire, l'une à Amsterdam, l'autre à Dakar. Deux portraits de leur vie quotidienne dans une grande ville.
-
----
-
-Sili, jeune mendiante de 12 ans, s'aventure dans les nouveaux quartiers de la ville pour tenter de gagner un peu d'argent en vendant Le Soleil, célèbre quotidien sénégalais, dont le commerce est depuis longtemps réservé aux garçons.
-
----
-
-À Amsterdam et à Dakar, la vie quotidienne de deux jeunes filles : Beppie fait les quatre cents coups avec ses sœurs, Sili combat sa vie de pauvreté avec tous ses amis. À la fois documentaires et contes, ces deux films réjouissants et bouleversants dressent les portraits de jeunes filles lucides, malicieuses et courageuses.
+[JP] Sili, jeune mendiante de 12 ans, s'aventure dans les nouveaux quartiers de la ville pour tenter de gagner un peu d'argent en vendant Le Soleil, célèbre quotidien sénégalais, dont le commerce est depuis longtemps réservé aux garçons.
 
 - Me 25 oct 15h00 GF
 
@@ -132,7 +120,7 @@ Kiki, jeune sorcière de treize ans, part découvrir le monde sur son balai. Ell
 **Arsenic et vieilles dentelles**  
 **(Arsenic and Old Lace)**  
 de Frank Capra  
-États-Unis / 1941 / 118 min / DCP  
+États-Unis / 1941 / 118 min  
 D'après la pièce _Arsenic and Old Lace_ de Joseph Kesselring.  
 Avec Cary Grant, Raymond Massey, Priscilla Lane.  
 Deux exquises vieilles dames ont pris l'habitude d'empoisonner des vieux messieurs seuls et tristes afin de leur épargner les affres d'une fin de vie misérable.

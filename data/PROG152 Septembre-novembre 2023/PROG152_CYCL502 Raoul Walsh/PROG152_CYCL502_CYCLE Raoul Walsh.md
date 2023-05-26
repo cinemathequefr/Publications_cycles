@@ -19,17 +19,18 @@ Les amours d'une jeune fille dépourvue de foyer, de travail et de complexes ave
 de Raoul Walsh  
 États-Unis / 1936 / 77 min / VOSTF / 16 mm  
 Avec Mae West, Victor McLaglen, Phillip Reed.  
-À la fin du 19e siècle, Rose Carlton, une chanteuse de cabaret de San Francisco, s'enfuit sur une bateau après avoir poignardé son protecteur. Sur le cargo, elle sympathise avec la Sœur Annie, une missionnaire, qui ne tarde pas à décéder et dont elle va prendre la place.
+San Francisco, fin XIX<sup>e</sup> siècle. Une chanteuse de cabaret s'enfuit sur un cargo après avoir poignardé son protecteur chinois. Mae West, qui signe aussi les dialogues, fait sensation dans le rôle licencieux d'une aventurière déguisée en missionnaire aux méthodes peu orthodoxes.  
+À la fin du XIX<sup>e</sup> siècle, Rose Carlton, une chanteuse de cabaret de San Francisco, s'enfuit sur une bateau après avoir poignardé son protecteur. Sur le cargo, elle sympathise avec Sœur Annie, une missionnaire, qui ne tarde pas à décéder et dont elle va prendre la place.
 
 - Me 13 sep 20h00 HL  
 Voir aussi dialogue p. xx
 
 [45140]  
 **Au service de la gloire**  
-**(What Price Glory ?)**  
+**(What Price Glory?)**  
 de Raoul Walsh  
 États-Unis / 1926 / 120 min / INT. FR. / 35 mm  
-D'après la pièce _What price glory_ de Maxwell Anderson et Laurence Stallings.  
+D'après la pièce _What Price Glory?_ de Maxwell Anderson et Laurence Stallings.  
 Avec Edmund Lowe, Victor McLaglen, Dolores del Río.  
 Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allégrement du cocasse au tragique, ce succès de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
@@ -42,7 +43,9 @@ Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans le
 de Raoul Walsh  
 États-Unis / 1951 / 101 min / VOSTF / 35 mm  
 Avec Gary Cooper, Mari Aldon, Richard Webb.  
-Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades. Remake de _Aventures en Birmanie_.
+Une version western d'_Aventures en Birmanie_, sur les terres hostiles des Everglades. Évoquant une mission périlleuse des Fédéraux traqués par les Indiens Séminoles, Walsh fait de la jungle le décor idéal pour exploiter les thèmes de la vengeance et du racisme, et offre à Gary Cooper, en homme des marais, un rôle à sa mesure.  
+Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades.  
+Auto-remake d'_Aventures en Birmanie_ (1945).
 
 - Sa 16 sep 14h30 HL
 
@@ -50,19 +53,21 @@ Après avoir détruit un fort rempli d'armes, des soldats américains et les per
 **Aventures en Birmanie**  
 **(Objective, Burma!)**  
 de Raoul Walsh  
-États-Unis / 1944 / 142 min / VOSTF / 35 mm  
+États-Unis / 1945 / 142 min / VOSTF / 35 mm  
 Avec Errol Flynn, James Brown, William Prince.  
+Fleuron du film de guerre, sorti en 1945, _Aventures en Birmanie_ plonge le spectateur au cœur de l'action d'un commando américain chargé de faire sauter un radar japonais dans la jungle birmane. Description minutieuse du comportement des combattants en pleine mission, la mise en scène de Walsh, réglée au cordeau, montre la guerre avec un réalisme époustouflant. Inquiétude, fatigue, angoisse, l'intrigue avance progressivement au rythme des corps s'enfonçant dans la végétation d'une moiteur terrifiante. Une descente aux enfers, menée par Errol Flynn au sommet de son art, d'un lyrisme et d'un suspense saisissants.  
 En 1943, un commando de parachutistes américains est largué au-dessus de la zone occupée en Birmanie pour détruire une station radar japonaise. Sa mission accomplie, le commando doit redoubler d'efforts pour fuir les soldats de l'armée japonaise.
 
 - Je 28 sep 20h15 HL
 
 [58507]  
-**Barbe-Noire, le pirate**  
-**(Blackbeard, the Pirate)**  
+**Barbe-Noire le pirate**  
+**(Blackbeard the Pirate)**  
 de Raoul Walsh  
 États-Unis / 1952 / 100 min / VOSTF / 35 mm  
 Avec Linda Darnell, Richard Egan, William Bendix.  
-Le célèbre pirate Barbe Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
+Contant les exploits picaresques du corsaire des Antilles, le film est une splendeur, dont les plans semblent tout droit sortis des pages d'un grand livre d'aventures. D'une fabuleuse richesse visuelle, scènes de bagarres et chasses au trésor en Technicolor servent avec panache le jeu truculent de l'acteur de théâtre Robert Newton.  
+Le célèbre pirate Barbe-Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
 
 - Je 21 sep 17h30 HL
 
@@ -71,8 +76,9 @@ Le célèbre pirate Barbe Noire écume les mers des Caraïbes et donne du fil à
 **(Gun Fury)**  
 de Raoul Walsh  
 États-Unis / 1953 / 83 min / VOSTF / DCP  
-D'après le roman _Ten against Caesar_ de Kathleen B. Granger , George Granger et Robert A. Granger.  
+D'après le roman _Ten Against Caesar_ de K. R. G. Granger.  
 Avec Rock Hudson, Donna Reed, Phil Carey.  
+Course-poursuite entre un hors-la-loi sudiste et un aspirant pacifiste, le film, conçu en relief et en Technicolor, repose sur la figure complexe de son _bad guy_ et le rapport de force qu'il entretient avec la sensuelle Donna Reed, au centre de toutes les attentions.  
 En Arizona, le gang de Frank Slayton dévalise une diligence et kidnappe la fiancée de Ben Warren. Celui-ci est laissé pour mort. Blessé, il part immédiatement à la poursuite de Slayton.
 
 - Di 10 sep 19h30 HL
@@ -81,19 +87,21 @@ En Arizona, le gang de Frank Slayton dévalise une diligence et kidnappe la fian
 **La Belle espionne**  
 **(Sea Devils)**  
 de Raoul Walsh  
-États-Unis / 1952 / 90 min / VOSTF / 16 mm  
+États-Unis / 1953 / 90 min / VOSTF / 16 mm  
 D'après le roman _Les Travailleurs de la mer_ de Victor Hugo.  
 Avec Yvonne De Carlo, Rock Hudson, Maxwell Reed.  
+Inspiré par _Les Travailleurs de la mer_ de Victor Hugo et par la beauté d'Yvonne De Carlo, le portrait d'une mystérieuse jeune femme chargée de percer les plans d'invasion de la France en Angleterre. Avec Gérard Oury dans le rôle de Napoléon.  
 Une mystérieuse et troublante jeune femme, chargée de découvrir les projets napoléoniens d'invasion de l'Angleterre, bouleverse l'existence d'un contrebandier.
 
 - Ve 15 sep 18h00 HL
 
 [36871]  
-**La Blonde et le shériff**  
+**La Blonde et le shérif**  
 **(The Sheriff of Fractured Jaw)**  
 de Raoul Walsh  
 Grande-Bretagne / 1958 / 103 min / VOSTF / 35 mm  
 Avec Jayne Mansfield, Kenneth More, Bruce Cabot.  
+Western d'un ton nouveau pour un routier du genre. S'amusant à marier humour britannique et grossièreté yankee, Walsh met en scène un négociant d'armes anglais à la conquête du marché américain, dans une aventure aussi décalée qu'enthousiasmante.  
 Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé de prospecter dans un pays prometteur : l'Ouest américain. Jonathan ne tarde pas à se faire remarquer dans cette contrée sauvage.
 
 - Lu 18 sep 18h00 GF
@@ -104,6 +112,7 @@ Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé
 de Raoul Walsh  
 États-Unis / 1954 / 87 min / VOSTF / 16 mm  
 Avec Alan Ladd, Shelley Winters, Robert Douglas.  
+Affrontements sur la frontière canadienne entre Sioux et Tuniques rouges. Un sergent de la cavalerie, élevé par les Indiens Crees, prend la tête du régiment, tandis que la rescapée d'un massacre se voit accusée de meurtre. Attaques, chevauchées et courses en pirogues se succèdent dans de grandioses décors de carte postale.  
 En 1877 dans l'Ouest canadien, un inspecteur de police se révolte contre son commandant borné, et emprunte une route plus sûre jusqu'à la frontière américaine afin d'empêcher l'invasion d'Indiens hostiles.
 
 - Di 10 sep 17h30 HL
@@ -112,20 +121,22 @@ En 1877 dans l'Ouest canadien, un inspecteur de police se révolte contre son co
 **Bungalow pour femmes**  
 **(The Revolt of Mamie Stover)**  
 de Raoul Walsh  
-États-Unis / 1955 / 92 min / VOSTF / DCP  
+États-Unis / 1956 / 92 min / VOSTF / DCP  
 D'après le roman _The Revolt of Mamie Stover_ de William Bradford Huie.  
 Avec Jane Russell, Richard Egan, Joan Leslie.  
-Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au « Bungalow », un dancing célèbre. Après l'attaque de Pearl Harbor, obnubilée par son désir d'argent, elle cherche à s'enrichir. Sa rencontre avec Jim Blair, un romancier, bouleverse ses projets.
+Fascinante héroïne de Walsh, Mamie Stover (Jane Russell) incarne la détermination et la revanche sociale d'une femme prête à tout pour s'enrichir, jusqu'à bâtir son propre empire en plein conflit mondial. Elle le fera au cœur d'un lupanar d'Honolulu, le Bungalow, profitant autant de ses charmes que des opportunités économiques de la guerre. Avec une précision remarquable, Walsh en décrit les rouages et brosse le tableau d'un microcosme impitoyable, à travers le portrait d'une mère maquerelle ou celui d'un écrivain à succès. Sexe, argent et pouvoir, l'histoire d'une ascension, d'une chute et d'une impossible rédemption, aussi cynique que vertigineuse.  
+Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au Bungalow, un dancing célèbre. Après l'attaque de Pearl Harbor, obnubilée par son désir d'argent, elle cherche à s'enrichir. Sa rencontre avec Jim Blair, un romancier, bouleverse ses projets.
 
 - Di 17 sep 20h30 HL
 
 [45138]  
 **Capitaine sans peur**  
-**(Captain Horatio Hornblower R.N.)**  
+**(Captain Horatio Hornblower R. N.)**  
 de Raoul Walsh  
-Grande-Bretagne-États-Unis / 1950 / 117 min / VOSTF / 35 mm  
+Grande-Bretagne-États-Unis / 1951 / 117 min / VOSTF / 35 mm  
 Avec Gregory Peck, James Robertson Justice, Christopher Lee.  
-A l'époque des guerres napoléonniennes, le capitaine Horation Hornblower est à la tête d'un petit vaisseau. Il doit fournir des armes à un chef de bande, ennemi de l'Espagne.  
+Sorti de l'imagination du romancier C. S. Forester, le personnage d'Horatio Hornblower est, depuis sa création en 1937, l'objet d'un véritable culte en Angleterre. Figure idéale du marin intègre et humble, cet officier de la Royal Navy, embarqué dans les guerres napoléoniennes et doté d'un sens de la mer hors du commun, inspire à Raoul Walsh l'une de ses épopées maritimes les plus éclatantes. Devant ses vaisseaux majestueux et ses batailles navales à la mise en scène sans faille, le spectateur retrouve son âme d'enfant, se rêvant dans l'habit de Gregory Peck, aussi valeureux sur son navire que délicat auprès d'une soupirante Milady. Vénérable prédécesseur de _Master and Commander_, un classique.  
+À l'époque des guerres napoléonniennes, le capitaine Horatio Hornblower est à la tête d'un petit vaisseau. Il doit fournir des armes à un chef de bande ennemi de l'Espagne.  
 Copie Technicolor original.
 
 - Ve 22 sep 20h15 HL

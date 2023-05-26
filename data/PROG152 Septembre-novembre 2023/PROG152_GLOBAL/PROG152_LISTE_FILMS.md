@@ -113,8 +113,8 @@
   * Homme qui en savait trop (L')  
   * Jacquot de Nantes  
   * Kiki, la petite sorcière  
-  * Kirikou et la sorcière  
   * Linda veut du poulet  
+  * Ma vache et moi  
   * Microcosmos  
   * Petite vendeuse de soleil (La)  
   * Porco Rosso
@@ -150,10 +150,10 @@
   * Au service de la gloire  
   * Aventures du capitaine Wyatt (Les)  
   * Aventures en Birmanie  
-  * Barbe-Noire, le pirate  
+  * Barbe-Noire le pirate  
   * Bataille sans merci  
   * Belle espionne (La)  
-  * Blonde et le shériff (La)  
+  * Blonde et le shérif (La)  
   * Brigade héroïque (La)  
   * Bungalow pour femmes  
   * Capitaine sans peur  
