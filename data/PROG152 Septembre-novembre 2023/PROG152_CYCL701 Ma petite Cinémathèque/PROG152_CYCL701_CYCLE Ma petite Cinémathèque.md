@@ -31,7 +31,7 @@ Avec John Wayne, Robert Parrish, Marguerite Churchill.
 - Di 1 oct 15h00 GF
 
 [31057]  
-**Le Gosse**  
+**Le Kid**  
 **(The Kid)**  
 de Charles Chaplin  
 États-Unis / 1919 / 68 min / DCP  
@@ -41,13 +41,13 @@ Avec Charles Chaplin, Edna Purviance, Jackie Coogan.
 - Me 4 oct 15h00 GF
 
 [33678]  
-**L'Aventure de Madame Muir**  
+**L'Aventure de madame Muir**  
 **(The Ghost and Mrs Muir)**  
 de Joseph L. Mankiewicz  
 États-Unis / 1946 / 104 min / VOSTF / DCP  
 D'après le roman _The Ghost and Mrs. Muir_ de R.A. Dick.  
 Avec Gene Tierney, Rex Harrison, George Sanders, Edna Best.  
-Une ravissante veuve, Mrs. Muir, se retire dans une maison en bord de mer avec sa fille et une domestique. Le fantôme de l'ancien propriétaire des lieux, le capitaine Gregg, hante la demeure. Mais Mrs. Muir est plus fascinée qu'effrayée.
+[JP] Une ravissante veuve, M<sup>me</sup> Muir, se retire dans une maison en bord de mer avec sa fille et une domestique. Le fantôme de l'ancien propriétaire des lieux, le capitaine Gregg, hante la demeure. Mais M<sup>me</sup> Muir est plus fascinée qu'effrayée.
 
 - Di 8 oct 15h00 GF
 
@@ -58,10 +58,6 @@ de Buster Keaton
 États-Unis / 1925 / 78 min / INT. ANG. / 35 mm  
 Avec Buster Keaton, Howard Truesdale.  
 Un jeune homme naïf conduit à la ville un immense troupeau.
-
----
-
-_Copie avec musique_
 
 - Me 11 oct 15h00 GF
 
@@ -97,8 +93,7 @@ Avec Catherine Deneuve, Françoise Dorléac, Danielle Darrieux, Jacques Perrin, 
 de Djibril Diop Mambéty  
 Sénégal-Suisse-France / 1998 / 45 min / DCP  
 Avec Lissa Baléra, Taörou M'Baye, Oumou Samb.  
-Sili, jeune mendiante de 12 ans, s'aventure dans les nouveaux quartiers de la ville pour tenter de gagner un peu d'argent en vendant _Le Soleil_, célèbre quotidien sénégalais, dont le commerce est depuis longtemps réservé aux garçons.  
-Sili, jeune mendiante de 12 ans, vend le journal local pour nourrir sa famille. À force de sourires et de persévérance, et aidée par son ami, elle gagne peu à peu le respect dans un univers de garçons. Une peinture poétique de la société sénégalaise, le dernier film de Djibril Diop Mambéty, qu'il lègue comme « un hymne aux enfants de la rue ».
+[JP] Sili, jeune mendiante de 12 ans, vend le journal local pour nourrir sa famille. À force de sourires et de persévérance, et aidée par son ami, elle gagne peu à peu le respect dans un univers de garçons. Une peinture poétique de la société sénégalaise, le dernier film de Djibril Diop Mambéty, qu'il lègue comme « un hymne aux enfants de la rue ».
 
 - Me 25 oct 15h00 GF
 
@@ -127,8 +122,7 @@ Avec Cary Grant, Raymond Massey, Priscilla Lane.
 **(Kurenai no buta)**  
 de Hayao Miyazaki  
 Japon / 1992 / 94 min / VOSTF / DCP  
-Qui est Porco Rosso ? Ancien capitaine de l'armée de l'air, il est désormais chasseur de primes et combat les pirates de l'air de sa région d'Italie. Mais seule son amie Gina connaît sa véritable histoire.  
-Tout le savoir-faire des studios Ghibli, dans le dernier film du maître Miyazaki entièrement dessiné à la main, et témoin de sa passion pour l'aviation. Une fable délicate sur l'héroïsme, ou quand les aventures d'un pilote à tête de cochon servent un réquisitoire subtil contre la guerre.
+[JP] Tout le savoir-faire des studios Ghibli, dans le dernier film du maître Miyazaki entièrement dessiné à la main, et témoin de sa passion pour l'aviation. Une fable délicate sur l'héroïsme, ou quand les aventures d'un pilote à tête de cochon servent un réquisitoire subtil contre la guerre.
 
 - Di 5 nov 15h00 GF
 
