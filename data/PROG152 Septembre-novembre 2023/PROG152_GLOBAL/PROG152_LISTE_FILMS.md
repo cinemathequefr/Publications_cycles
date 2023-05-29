@@ -109,9 +109,9 @@
   * Aventure de Madame Muir (L')  
   * Aventures de Peter Pan (Les)  
   * Demoiselles de Rochefort (Les)  
+  * Gosse (Le)  
   * Homme qui en savait trop (L')  
   * Jacquot de Nantes  
-  * Kid (Le)  
   * Kiki, la petite sorcière  
   * Linda veut du poulet  
   * Ma vache et moi  

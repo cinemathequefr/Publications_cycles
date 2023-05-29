@@ -6,7 +6,9 @@
 **Le Dingue du palace**  
 **(The Bellboy)**  
 de Jerry Lewis  
-États-Unis / 1960 / 72 min
+États-Unis / 1960 / 72 min  
+Avec Jerry Lewis, Alex Gerry, Bob Clayton.  
+À Miami Beach, le groom muet Stanley travaille au luxueux hôtel Fontainebleau. Bien que serviable et agréable, il accumule gaffes et ennuis.
 
 - Me 8 nov 20h00 HL  
 Ouverture de la rétrospective
@@ -33,7 +35,9 @@ Sur le plateau de son film _The Day the clown Cried_, Lewis donne sa vision de l
 **Jerry souffre douleur**  
 **(The Patsy)**  
 de Jerry Lewis  
-États-Unis / 1964 / 101 min / VOSTF / 35 mm
+États-Unis / 1964 / 101 min / VOSTF / 35 mm  
+Avec Jerry Lewis, Everett Sloane, Ina Balin, Keenan Wynn.  
+Quand la vedette d'un spectacle disparait, son entourage engage le groom de leur hôtel pour le remplacer. L'apprentissage sera difficile.
 
 - Sa 11 nov 14h30 HL  
 Voir aussi dialogue p. xx
@@ -41,7 +45,9 @@ Voir aussi dialogue p. xx
 [41629]  
 **One More Time**  
 de Jerry Lewis  
-Grande-Bretagne / 1969 / 93 min
+Grande-Bretagne / 1969 / 93 min  
+Avec Sammy Davis Jr., Peter Lawford, Maggie Wright.  
+Chris Pepper et Charlie Salt perdent leur boîte de nuit. Ils demandent de l'aide de la part du frère jumeau de Pepper. Cependant, celui-ci refuse. C'est alors qu'ils le retrouvent assassiné.
 
 - Je 9 nov 21h15 GF
 
@@ -49,7 +55,9 @@ Grande-Bretagne / 1969 / 93 min
 **T'es fou Jerry !**  
 **(Smorgasbord)**  
 de Jerry Lewis  
-États-Unis / 1982 / 90 min / 35 mm
+États-Unis / 1982 / 90 min / 35 mm  
+Avec Jerry Lewis, Milton Berle, Sammy Davis Jr..  
+Warren Nefron est suivi par un spychiatre qui le guérit par l'hypnose. Durant cette séance, le docteur hérite des troubles de son patient.
 
 - Sa 25 nov 14h30 HL  
 Voir aussi dialogue p. xx
@@ -59,7 +67,8 @@ Voir aussi dialogue p. xx
 **(The Ladies Man)**  
 de Jerry Lewis  
 États-Unis / 1961 / 106 min / VOSTF / DCP  
-Avec Jerry Lewis, Helen Traubel, Kathleen Freeman.
+Avec Jerry Lewis, Helen Traubel, Kathleen Freeman.  
+Herbert Heebert surprend sa fiancée dans les bras d'un autre. Fraîchement installé à Los Angeles, il souhaite y couler des jours paisibles avec l'intention de rester célibataire. Engagé comme homme à tout faire dans une pension de jeunes filles, sa résolution est mise à rude épreuve.
 
 - Sa 18 nov 14h30 HL  
 Voir aussi dialogue p. xx

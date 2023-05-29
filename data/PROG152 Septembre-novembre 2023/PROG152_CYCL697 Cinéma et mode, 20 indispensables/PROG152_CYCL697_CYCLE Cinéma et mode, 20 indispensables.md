@@ -195,7 +195,7 @@ Une série de meurtres est perpétrée sur les mannequins d'une maison de haute 
 [76324]  
 **Zoolander**  
 de Ben Stiller  
-États-Unis / 2000 / 89 min  
+États-Unis / 2000 / 89 min / VOSTF / DCP  
 Avec Ben Stiller, Owen Wilson, Christine Taylor.  
 Après avoir remporté le trophée du meilleur top model trois années consécutives Derek Zoolander perd face à un nouveau venu, Hansel, un jeune blond aussi stupide que lui. Cependant, le grand couturier Mugatu veut tout de même l'engager pour présenter sa nouvelle collection.
 

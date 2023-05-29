@@ -78,8 +78,7 @@
               "HL",
               "Henri Langlois"
             ],
-            "typeAssoc": 117,
-            "idSeanceAssoc": 104671,
+            "typeAssoc": 118,
             "typeEvenement": 13,
             "mentionRenvoi": "Voir aussi dialogue p. xx"
           }
@@ -243,7 +242,9 @@
               "HL",
               "Henri Langlois"
             ],
-            "typeEvenement": 13
+            "typeAssoc": 118,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi conférence p. xx"
           }
         ]
       },
@@ -1853,6 +1854,10 @@
           {
             "typeTexte": 9,
             "texte": "Trois jeunes employés formant un trio vocal deviennent des vedette de la radio."
+          },
+          {
+            "typeTexte": 99,
+            "texte": "Copie de la collection Jon Davison à l' Academy Film Archive."
           }
         ],
         "generique": [
@@ -2550,22 +2555,23 @@
           {
             "titre": "Film + Discussion avec Jean-François Rauger et Murielle Joudet",
             "textes": [],
-            "duree": 60
+            "duree": 60,
+            "ordre": 2
           }
         ],
         "seances": [
           {
-            "idSeance": 104671,
-            "dateHeure": "2023-09-13T21:15:00",
+            "idSeance": 104565,
+            "ordre": 2,
+            "dateHeure": "2023-09-13T20:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
-            "typeAssoc": 117,
-            "idSeanceAssoc": 104565,
+            "typeAssoc": 118,
             "typeEvenement": 14,
             "typeConference": "Dialogue",
-            "mentionRenvoi": "À la suite de la dialogue, à 20h00, projection d'un film choisi par le conférencier : _Annie du Klondike_ de Raoul Walsh (voir p. xx)"
+            "mentionRenvoi": "À la suite de la projection de _Annie du Klondike_ de Raoul Walsh (voir p. xx)"
           }
         ]
       },
@@ -2575,19 +2581,23 @@
             "titre": "Film + discussion avec Pierre Gabaston",
             "sousTitre": "Conférence de Pierre Gabaston",
             "textes": [],
-            "duree": 60
+            "duree": 60,
+            "ordre": 2
           }
         ],
         "seances": [
           {
-            "idSeance": 104669,
-            "dateHeure": "2023-09-16T16:45:00",
+            "idSeance": 104417,
+            "ordre": 2,
+            "dateHeure": "2023-09-16T14:30:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
             ],
+            "typeAssoc": 118,
             "typeEvenement": 14,
-            "typeConference": "Conférence"
+            "typeConference": "Conférence",
+            "mentionRenvoi": "À la suite de la projection de _Les Aventures du capitaine Wyatt_ de Raoul Walsh (voir p. xx)"
           }
         ]
       }

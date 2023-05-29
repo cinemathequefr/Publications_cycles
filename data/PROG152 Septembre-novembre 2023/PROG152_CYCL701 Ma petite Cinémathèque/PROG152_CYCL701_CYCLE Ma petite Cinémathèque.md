@@ -31,7 +31,7 @@ Avec John Wayne, Robert Parrish, Marguerite Churchill.
 - Di 1 oct 15h00 GF
 
 [31057]  
-**Le Kid**  
+**Le Gosse**  
 **(The Kid)**  
 de Charles Chaplin  
 États-Unis / 1919 / 68 min / DCP  

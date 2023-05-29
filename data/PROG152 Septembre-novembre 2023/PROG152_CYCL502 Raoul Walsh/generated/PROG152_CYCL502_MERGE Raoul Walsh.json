@@ -50,8 +50,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 105,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104671,
+          "typeAssoc": 118,
           "idCategorie": 2286,
           "idEvenement": 26863,
           "typeEvenement": 13,
@@ -201,6 +200,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 2286,
           "idEvenement": 26873,
           "typeEvenement": 13,
@@ -1772,6 +1772,10 @@
             {
               "typeTexte": 9,
               "texte": "Trois jeunes employés formant un trio vocal deviennent des vedette de la radio."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Copie de la collection Jon Davison à l' Academy Film Archive."
             }
           ]
         },
@@ -2442,15 +2446,15 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 104671,
-          "dateHeure": "2023-09-13T21:15:00",
+          "idSeance": 104565,
+          "ordre": 2,
+          "dateHeure": "2023-09-13T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104565,
+          "typeAssoc": 118,
           "idCategorie": 3091,
           "idEvenement": 28592,
           "typeEvenement": 14,
@@ -2461,13 +2465,15 @@
           "textes": []
         },
         {
-          "idSeance": 104669,
-          "dateHeure": "2023-09-16T16:45:00",
+          "idSeance": 104417,
+          "ordre": 2,
+          "dateHeure": "2023-09-16T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 60,
+          "dureeSeance": 90,
+          "typeAssoc": 118,
           "idCategorie": 3091,
           "idEvenement": 28588,
           "typeEvenement": 14,

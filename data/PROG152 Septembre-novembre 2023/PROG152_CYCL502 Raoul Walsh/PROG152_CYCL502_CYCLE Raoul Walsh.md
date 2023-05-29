@@ -69,7 +69,8 @@ Une version western d'_Aventures en Birmanie_, sur les terres hostiles des Everg
 Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades.  
 Auto-remake d'_Aventures en Birmanie_ (1945).
 
-- Sa 16 sep 14h30 HL
+- Sa 16 sep 14h30 HL  
+Voir aussi conférence p. xx
 
 [36844]  
 **Aventures en Birmanie**  
@@ -523,7 +524,8 @@ Emprisonné la veille de son mariage pour le meurtre du propriétaire d'un talis
 de Raoul Walsh  
 États-Unis / 1935 / 80 min / VOSTF / 16 mm  
 Avec George Raft, Alice Faye, Frances Langford.  
-Trois jeunes employés formant un trio vocal deviennent des vedette de la radio.
+Trois jeunes employés formant un trio vocal deviennent des vedette de la radio.  
+Copie de la collection Jon Davison à l' Academy Film Archive.
 
 - Di 15 oct 17h30 GF
 
@@ -714,11 +716,12 @@ Une jeune fille s'enfuit avec le meurtrier du séducteur de sa sœur.
 
 **Film + Discussion avec Jean-François Rauger et Murielle Joudet**
 
-- Me 13 sep 21h15 HL  
-À la suite de la dialogue, à 20h00, projection d'un film choisi par le conférencier : _Annie du Klondike_ de Raoul Walsh (voir p. xx)
+- Me 13 sep 20h00 HL  
+À la suite de la projection de _Annie du Klondike_ de Raoul Walsh (voir p. xx)
 
 **Film + discussion avec Pierre Gabaston**  
 **Conférence de Pierre Gabaston**
 
-- Sa 16 sep 16h45 HL
+- Sa 16 sep 14h30 HL  
+À la suite de la projection de _Les Aventures du capitaine Wyatt_ de Raoul Walsh (voir p. xx)
 

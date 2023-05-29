@@ -47,3 +47,9 @@ Les aventures sentimentales de deux adolescents des années 60, pensionnaires da
 
 - Me 4 oct 18h00 HL
 
+## Rencontres et conférences
+
+**Film + dialogue avec Pascal Thomas**
+
+- Sa 7 oct 16h30 HL
+
