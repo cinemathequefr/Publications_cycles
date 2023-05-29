@@ -106,12 +106,12 @@
 
   * Argent de poche (L')  
   * Arsenic et vieilles dentelles  
-  * Aventure de Madame Muir (L')  
+  * Aventure de madame Muir (L')  
   * Aventures de Peter Pan (Les)  
   * Demoiselles de Rochefort (Les)  
-  * Gosse (Le)  
   * Homme qui en savait trop (L')  
   * Jacquot de Nantes  
+  * Kid (Le)  
   * Kiki, la petite sorcière  
   * Linda veut du poulet  
   * Ma vache et moi  
@@ -135,12 +135,19 @@
   * Vampiro sangriento (El)  
   * Veneno para las hadas
 
-## Pascal Thomas (5)
+## Pascal Thomas (12)
 
+  * Celles qu'on n'a pas eues  
   * Chaud lapin (Le)  
   * Confidences pour confidences  
+  * Dilettante (La)  
+  * Maris, les femmes, les amants (Les)  
+  * Mercredi, folle journée !  
+  * Mon petit doigt m'a dit  
+  * Pagaille (La)  
   * Pleure pas la bouche pleine  
   * Surprise du chef (La)  
+  * Un oursin dans la poche  
   * Zozos (Les)
 
 ## Raoul Walsh (68)

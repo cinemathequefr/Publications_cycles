@@ -20,13 +20,7 @@
               "annee": 1905,
               "duree": 2,
               "version": "INT. FR.",
-              "format": "DCP",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Alice Guy orchestre l'enregistrement d'une courte scène chantée."
-                }
-              ]
+              "format": "DCP"
             }
           ],
           "seances": [
@@ -39,47 +33,7 @@
           ]
         },
         {
-          "idFilm": 35235,
-          "content": [
-            {
-              "idFilm": 35235,
-              "ordre": 2,
-              "titre": "Allons donc, papa !",
-              "titreVo": "Father's Little Dividend",
-              "realisateurs": "Vincente Minnelli",
-              "pays": "États-Unis",
-              "annee": 1951,
-              "duree": 81,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Spencer Tracy",
-                "Elizabeth Taylor",
-                "Joan Bennett"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Stanley vit mal son rôle de futur grand-père, tandis que son épouse ne cache pas sa joie. Le couple se dispute constamment, jusqu'à l'arrivée de l'enfant."
-                }
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104290,
-              "dateHeure": "2023-07-10T20:00:00",
-              "idSalle": "GF"
-            },
-            {
-              "idSeance": 104271,
-              "dateHeure": "2023-07-26T20:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 35257,
+          "idEvenement": 28068,
           "content": [
             {
               "idFilm": 35257,
@@ -96,12 +50,6 @@
               "generique": [
                 "Tony Curtis",
                 "Debbie Reynolds"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Charlie, un grand séducteur, est abattu par un mari jaloux. Il se réincarne sous les traits d'une fort jolie blonde et se fait alors passer pour sa propre veuve."
-                }
               ]
             }
           ],
@@ -119,7 +67,7 @@
           ]
         },
         {
-          "idFilm": 105778,
+          "idEvenement": 28268,
           "content": [
             {
               "idFilm": 105778,
@@ -130,16 +78,23 @@
               "annee": 1897,
               "duree": 1,
               "version": "INT. FR.",
-              "format": "DCP",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Un groupe de jeunes enfants se baigne."
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Film attribué à Alice Guy."
-                }
+              "format": "DCP"
+            },
+            {
+              "idFilm": 54351,
+              "ordre": 2,
+              "titre": "Yolanda et le Voleur",
+              "titreVo": "Yolanda and the Thief",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1945,
+              "duree": 108,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Fred Astaire",
+                "Lucile Bremer",
+                "Frank Morgan"
               ]
             }
           ],
@@ -153,7 +108,31 @@
           ]
         },
         {
-          "idFilm": 35211,
+          "idFilm": 105778,
+          "content": [
+            {
+              "idFilm": 105778,
+              "ordre": 1,
+              "titre": "Baignade dans un torrent",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1897,
+              "duree": 1,
+              "version": "INT. FR.",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104119,
+              "dateHeure": "2023-07-01T17:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Dominique Païni"
+            }
+          ]
+        },
+        {
+          "idEvenement": 28054,
           "content": [
             {
               "idFilm": 35211,
@@ -170,12 +149,6 @@
                 "Cyd Charisse",
                 "Gene Kelly",
                 "Van Johnson"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Brigadoon est un village des Highlands où le temps s'est figé en l'an 1755 et qui n'existe qu'un jour par siècle. Deux Américains en voyage en Écosse s'y égarent, et l'un des deux tombe amoureux d'une villageoise."
-                }
               ]
             }
           ],
@@ -193,7 +166,7 @@
           ]
         },
         {
-          "idFilm": 44957,
+          "idEvenement": 28063,
           "content": [
             {
               "idFilm": 44957,
@@ -211,12 +184,6 @@
                 "Robert Mitchum",
                 "George Peppard",
                 "Eleanor Parker"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Un grand propriétaire du Sud tyrannise sa femme et ses deux fils, l'un légitime, l'autre issu d'une liaison adultère."
-                }
               ]
             }
           ],
@@ -234,96 +201,44 @@
           ]
         },
         {
-          "groupe": [
+          "idEvenement": 28042,
+          "content": [
             {
               "idFilm": 44951,
-              "content": [
-                {
-                  "idFilm": 44951,
-                  "ordre": 1,
-                  "titre": "Chant du Missouri",
-                  "art": "Le",
-                  "titreVo": "Meet Me in St. Louis",
-                  "realisateurs": "Vincente Minnelli",
-                  "pays": "États-Unis",
-                  "annee": 1944,
-                  "duree": 113,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "adaptation": "D'après le roman _Meet Me in St. Louis_ de Sally Benson.",
-                  "generique": [
-                    "Judy Garland",
-                    "Margaret O'Brien",
-                    "Mary Astor"
-                  ],
-                  "textes": [
-                    {
-                      "typeTexte": 203,
-                      "texte": "Les saisons passent et toutes sont plus belles les unes que les autres à Saint-Louis, cette ville du Missouri, au centre des États-Unis, où vit la famille Smith. Mais voilà, c'est peut-être la dernière année passée ici, puisque papa Smith doit partir travailler à New York. Plongée au cœur de la maison d'une famille nombreuse, virevoltante et farfelue, où se mêlent les farces et les émotions les plus vives."
-                    },
-                    {
-                      "typeTexte": 9,
-                      "texte": "Les Smith vivent paisiblement à Saint-Louis, Missouri. Lorsque le père accepte un emploi à New York, les enfants ne peuvent se résoudre à quitter leurs amis, d'autant plus que les aînées vivent leurs premières amours."
-                    }
-                  ]
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104056,
-                  "typeAssoc": 118,
-                  "dateHeure": "2023-07-06T19:00:00",
-                  "idSalle": "HL",
-                  "idSeanceAssoc": 104056,
-                  "mentionAssoc": "Film + dialogue"
-                },
-                {
-                  "idSeance": 102008,
-                  "dateHeure": "2023-07-20T17:30:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film seul"
-                }
+              "ordre": 1,
+              "titre": "Chant du Missouri",
+              "art": "Le",
+              "titreVo": "Meet Me in St. Louis",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1944,
+              "duree": 113,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Meet Me in St. Louis_ de Sally Benson.",
+              "generique": [
+                "Judy Garland",
+                "Margaret O'Brien",
+                "Mary Astor"
               ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104056,
+              "typeAssoc": 118,
+              "dateHeure": "2023-07-06T19:00:00",
+              "idSalle": "HL"
             },
             {
-              "idEvenement": 28175,
-              "content": [
-                {
-                  "idConf": 28175,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Murielle Joudet",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Rencontre animée par Bernard Benoliel",
-                  "textes": [
-                    {
-                      "typeTexte": 9,
-                      "texte": "« Judy [Garland] avait un caractère changeant, passant sans transition de l'exubérance à la mélancolie, mais elle était fondamentalement pleine de charme et de séduction. Il ne faut pas oublier que Judy était à la fois la star et la grande chanteuse du film [_Le Chant du Missouri_], si bien qu'elle en constituait en quelque sorte le pivot pour réussir l'intégration des chansons à l'intrigue. Si Judy n'avait pas finalement cru à l'entreprise, le film aurait été un échec complet. Aussi, lorsque je la vis s'y engager à fond, je compris que nous allions au contraire vers un grand succès ! (...) _Le Chant du Missouri_ fut mon examen de passage définitif. Louis B. Mayer [patron de Metro-Goldwyn-Mayer] se montra très enthousiaste, et tous les autres grands pontes de la direction, qui avaient été contre le projet à l'origine, reconnurent leur erreur. Quant aux critiques, elles furent dithyrambiques. » (Vincente Minnelli, _Tous en scène : Autobiographie_, 1981)"
-                    },
-                    {
-                      "typeTexte": 156,
-                      "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française."
-                    },
-                    {
-                      "typeTexte": 156,
-                      "texte": "Murielle Joudet est critique de cinéma au _Monde_, elle participe à l'émission Le Cercle (Canal+) et anime une émission d'entretiens sur le site Hors-série. Elle a publié deux ouvrages consacrés à des actrices : _Isabelle Huppert : Vivre ne nous regarde pas_ (Capricci, 2018) et _Gena Rowlands : On aurait dû dormir_ (Capricci, Prix 2021 du livre de cinéma) et, récemment, aux éditions Premier parallèle, _La Seconde femme_, un essai sous-titré : _Ce que les actrices font à la vieillesse_."
-                    }
-                  ]
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104056,
-                  "typeAssoc": 118,
-                  "dateHeure": "2023-07-06T19:00:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film + dialogue"
-                }
-              ]
+              "idSeance": 102008,
+              "dateHeure": "2023-07-20T17:30:00",
+              "idSalle": "HL"
             }
           ]
         },
         {
-          "idFilm": 44828,
+          "idEvenement": 28067,
           "content": [
             {
               "idFilm": 44828,
@@ -343,12 +258,6 @@
                 "Richard Burton",
                 "Eva Marie Saint",
                 "Charles Bronson"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Laura Reynolds, peintre anticonformiste, vit sur la côte californienne avec son fils, qu'elle élève dans le goût de la liberté. Un jour, le garçon est placé de force au collège San Simeon, établissement religieux dirigé par l'austère pasteur Hewitt."
-                }
               ]
             }
           ],
@@ -366,7 +275,7 @@
           ]
         },
         {
-          "idFilm": 35287,
+          "idEvenement": 28061,
           "content": [
             {
               "idFilm": 35287,
@@ -385,12 +294,6 @@
                 "Dean Martin",
                 "Shirley MacLaine",
                 "Arthur Kennedy"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Après la Seconde Guerre mondiale, un vétéran américain retourne dans sa ville natale avec des ambitions d'écrivain, flanqué d'une fille séduite dans un bar. Il retrouve son frère, en tous points son contraire. Il fait aussi la connaissance d'un joueur professionnel et d'une professeure de littérature."
-                }
               ]
             }
           ],
@@ -408,7 +311,7 @@
           ]
         },
         {
-          "idFilm": 35208,
+          "idEvenement": 28053,
           "content": [
             {
               "idFilm": 35208,
@@ -429,12 +332,6 @@
                 "Lana Turner",
                 "Walter Pidgeon",
                 "Gloria Grahame"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Un réalisateur, une actrice et un scénariste à qui l'on propose un nouveau contrat avec un célèbre producteur d'Hollywood évoquent, chacun à leur tour, les humiliations subies avant d'accéder au rang de star."
-                }
               ]
             }
           ],
@@ -452,7 +349,7 @@
           ]
         },
         {
-          "idFilm": 53492,
+          "idEvenement": 28266,
           "content": [
             {
               "idFilm": 53492,
@@ -464,12 +361,45 @@
               "annee": 1896,
               "duree": 1,
               "version": "INT. FR.",
-              "format": "DCP",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Dans un potager, une fée fait apparaître des bébés."
-                }
+              "format": "DCP"
+            },
+            {
+              "idFilm": 106009,
+              "ordre": 2,
+              "titre": "Alice Guy tourne une phonoscène",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1905,
+              "duree": 2,
+              "version": "INT. FR.",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 106017,
+              "ordre": 3,
+              "titre": "Madame a des envies",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1906,
+              "duree": 4,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 44960,
+              "ordre": 4,
+              "titre": "Un numéro du tonnerre",
+              "titreVo": "Bells Are Ringing",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1960,
+              "duree": 127,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après la comédie musicale _Bells Are Ringing_ de Betty Comden et Adolph Green.",
+              "generique": [
+                "Judy Holliday",
+                "Dean Martin"
               ]
             }
           ],
@@ -483,7 +413,32 @@
           ]
         },
         {
-          "idFilm": 35221,
+          "idFilm": 53492,
+          "content": [
+            {
+              "idFilm": 53492,
+              "ordre": 1,
+              "titre": "Fée aux choux",
+              "art": "La",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1896,
+              "duree": 1,
+              "version": "INT. FR.",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104105,
+              "dateHeure": "2023-07-01T15:00:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Catel & Bocquet"
+            }
+          ]
+        },
+        {
+          "idEvenement": 28058,
           "content": [
             {
               "idFilm": 35221,
@@ -500,12 +455,6 @@
               "generique": [
                 "Gregory Peck",
                 "Lauren Bacall"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Marilla et Mike se marient, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents : elle est dessinatrice de mode, et lui, chroniqueur sportif."
-                }
               ]
             }
           ],
@@ -523,7 +472,7 @@
           ]
         },
         {
-          "idFilm": 105838,
+          "idEvenement": 28264,
           "content": [
             {
               "idFilm": 105838,
@@ -535,16 +484,25 @@
               "annee": 1900,
               "duree": 2,
               "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 35212,
+              "ordre": 2,
+              "titre": "Tous en scène",
+              "titreVo": "Band Wagon",
+              "artVo": "The",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1953,
+              "duree": 112,
+              "version": "VOSTF",
               "format": "DCP",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Pantomine dansée."
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Film attribué à Alice Guy."
-                }
+              "generique": [
+                "Fred Astaire",
+                "Cyd Charisse",
+                "Oscar Levant",
+                "Nanette Fabray"
               ]
             }
           ],
@@ -557,7 +515,31 @@
           ]
         },
         {
-          "idFilm": 35254,
+          "idFilm": 105838,
+          "content": [
+            {
+              "idFilm": 105838,
+              "ordre": 1,
+              "titre": "Fredaines de Pierrette",
+              "art": "Les",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1900,
+              "duree": 2,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104176,
+              "dateHeure": "2023-07-01T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idEvenement": 28059,
           "content": [
             {
               "idFilm": 35254,
@@ -574,12 +556,6 @@
                 "Leslie Caron",
                 "Maurice Chevalier",
                 "Louis Jourdan"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "La jeune Gigi, élevée par sa grand-mère et sa grand-tante, est destinée à la vie de demi-mondaine. Particulièrement espiègle et charmante, elle trouble le riche et élégant Gaston Lachaille, qui rend souvent visite aux deux vieilles dames."
-                }
               ]
             }
           ],
@@ -593,6 +569,53 @@
               "idSeance": 102263,
               "dateHeure": "2023-07-29T14:30:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idEvenement": 28049,
+          "content": [
+            {
+              "idFilm": 35279,
+              "ordre": 1,
+              "titre": "Histoire de trois amours : Mademoiselle",
+              "titreVo": "Story of Three Loves: Mademoiselle",
+              "artVo": "The",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1952,
+              "duree": 32,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Leslie Caron",
+                "Ethel Barrymore",
+                "Farley Granger"
+              ]
+            },
+            {
+              "idFilm": 35235,
+              "ordre": 2,
+              "titre": "Allons donc, papa !",
+              "titreVo": "Father's Little Dividend",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1951,
+              "duree": 81,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Spencer Tracy",
+                "Elizabeth Taylor",
+                "Joan Bennett"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104290,
+              "dateHeure": "2023-07-10T20:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -615,16 +638,6 @@
                 "Leslie Caron",
                 "Ethel Barrymore",
                 "Farley Granger"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "À bord d'un paquebot, des passagers se remémorent leur plus grande histoire d'amour."
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Segment, réalisé par Minnelli, du film à sketches _Histoire de trois amours_."
-                }
               ]
             }
           ],
@@ -637,7 +650,7 @@
           ]
         },
         {
-          "idFilm": 58549,
+          "idEvenement": 28044,
           "content": [
             {
               "idFilm": 58549,
@@ -655,12 +668,6 @@
               "generique": [
                 "Judy Garland",
                 "Robert Walker"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "En 1945, lors d'une permission de 48 heures, un soldat rencontre par hasard une jeune New-Yorkaise à Pennsylvania Station. Il passe les deux jours avec elle et en tombe amoureux."
-                }
               ]
             }
           ],
@@ -678,7 +685,7 @@
           ]
         },
         {
-          "idFilm": 61789,
+          "idEvenement": 28066,
           "content": [
             {
               "idFilm": 61789,
@@ -697,12 +704,6 @@
                 "Glenn Ford",
                 "Shirley Jones",
                 "Stella Stevens"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Un enfant de sept ans déploie des trésors d'imagination pour trouver une nouvelle épouse à son père."
-                }
               ]
             }
           ],
@@ -720,7 +721,7 @@
           ]
         },
         {
-          "idFilm": 35222,
+          "idEvenement": 28076,
           "content": [
             {
               "idFilm": 35222,
@@ -737,12 +738,6 @@
                 "Howard Keel",
                 "Ann Blyth",
                 "Jack Elam"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "À Bagdad, les aventures du poète Hadji, qui s'unit à la fille du grand vizir."
-                }
               ]
             }
           ],
@@ -760,7 +755,7 @@
           ]
         },
         {
-          "idFilm": 34254,
+          "idEvenement": 28046,
           "content": [
             {
               "idFilm": 34254,
@@ -777,12 +772,6 @@
                 "Katharine Hepburn",
                 "Robert Taylor",
                 "Robert Mitchum"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Ann Hamilton a épousé sur un coup de foudre un riche industriel, Alan Garroway. Elle découvre bientôt qu'il est plus mystérieux qu'il ne paraît, et apprend fortuitement l'existence de son frère, Michael."
-                }
               ]
             }
           ],
@@ -811,17 +800,7 @@
               "annee": 1906,
               "duree": 4,
               "version": "",
-              "format": "DCP",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "À travers les envies de la protagoniste se déploie une dimension subversive et politiquement incorrecte qui renvoie à la sexualité (la sucette) et à l'ivresse (l'absinthe)."
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Film attribué à Alice Guy."
-                }
-              ]
+              "format": "DCP"
             }
           ],
           "seances": [
@@ -834,7 +813,7 @@
           ]
         },
         {
-          "idFilm": 35207,
+          "idEvenement": 28048,
           "content": [
             {
               "idFilm": 35207,
@@ -852,12 +831,6 @@
                 "James Mason",
                 "Van Helfin",
                 "Louis Jourdan"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Face au tribunal, Gustave Flaubert rend des comptes sur son roman, considéré comme œuvre immorale, et prend la défense de son personnage principal, Emma Bovary."
-                }
               ]
             }
           ],
@@ -875,7 +848,7 @@
           ]
         },
         {
-          "idFilm": 79453,
+          "idEvenement": 28074,
           "content": [
             {
               "idFilm": 79453,
@@ -893,12 +866,6 @@
                 "Red Skelton",
                 "Lena Horne",
                 "Hazel Scott"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Joseph, modeste employé de pressing, est surpris quand Connie Shaw, vedette de music-hall dont il est amoureux, accepte de l'épouser dans le but de se venger de son fiancé infidèle."
-                }
               ]
             }
           ],
@@ -916,7 +883,7 @@
           ]
         },
         {
-          "idFilm": 45896,
+          "idEvenement": 28069,
           "content": [
             {
               "idFilm": 45896,
@@ -933,12 +900,6 @@
               "generique": [
                 "Barbra Streisand",
                 "Yves Montand"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Désireuse d'arrêter de fumer, Daisy Gamble rend visite à un spécialiste de l'hypnose. Au cours d'une séance, elle évoque des faits concernant une aristocrate du XIX<sup>e</sup> siècle, une certaine Melinda, dont le médecin tombe peu à peu amoureux."
-                }
               ]
             }
           ],
@@ -956,7 +917,7 @@
           ]
         },
         {
-          "idFilm": 70387,
+          "idEvenement": 28070,
           "content": [
             {
               "idFilm": 70387,
@@ -974,12 +935,6 @@
                 "Ingrid Bergman",
                 "Liza Minnelli",
                 "Charles Boyer"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Nina, une actrice célèbre, est attendue à une conférence de presse. Pour l'heure, elle se trouve dans une voiture en compagnie d'un homme à qui elle raconte son histoire."
-                }
               ]
             }
           ],
@@ -997,7 +952,7 @@
           ]
         },
         {
-          "idFilm": 35233,
+          "idEvenement": 28050,
           "content": [
             {
               "idFilm": 35233,
@@ -1016,12 +971,6 @@
                 "Spencer Tracy",
                 "Joan Bennett",
                 "Elizabeth Taylor"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Stanley Banks prépare le mariage de sa fille Kay, mais s'angoisse à l'idée qu'elle n'ait pas choisi l'époux qui la rendra heureuse."
-                }
               ]
             }
           ],
@@ -1039,7 +988,7 @@
           ]
         },
         {
-          "idFilm": 35285,
+          "idEvenement": 28047,
           "content": [
             {
               "idFilm": 35285,
@@ -1058,12 +1007,6 @@
                 "Judy Garland",
                 "Lola Albright",
                 "Walter Slezak"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Manuela rêve des exploits du pirate Macoco, dont elle est amoureuse sans le connaître, mais sa tante veut la marier au riche et influent Don Pedro Vargas. Elle rencontre Serafin, un saltimbanque, qui, pour la séduire, se fait passer pour le fameux pirate."
-                }
               ]
             }
           ],
@@ -1081,7 +1024,7 @@
           ]
         },
         {
-          "idFilm": 38027,
+          "idEvenement": 28045,
           "content": [
             {
               "idFilm": 38027,
@@ -1099,12 +1042,6 @@
                 "Judy Garland",
                 "Robert Walker",
                 "Lucille Bremer"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "En 1927, Jerome Kern remporte un véritable succès avec le spectacle _Show Boat_. Riche et célèbre, il se retourne sur son passé et se souvient de ceux qui l'ont aidé tout au long de son parcours vers la réussite."
-                }
               ]
             }
           ],
@@ -1122,7 +1059,7 @@
           ]
         },
         {
-          "idFilm": 34955,
+          "idEvenement": 28060,
           "content": [
             {
               "idFilm": 34955,
@@ -1141,12 +1078,6 @@
                 "Kay Kendall",
                 "Sandra Dee",
                 "Angela Lansbury"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Lors de la saison des bals mondains à Londres, les Broadbent souhaitent que leur fille Jane fasse son entrée dans le monde. Ils veulent la fiancer à un jeune homme que convoite aussi une de leurs cousines, tandis que Jane, elle, s'éprend d'un musicien américain."
-                }
               ]
             }
           ],
@@ -1164,7 +1095,7 @@
           ]
         },
         {
-          "idFilm": 35245,
+          "idEvenement": 28064,
           "content": [
             {
               "idFilm": 35245,
@@ -1185,12 +1116,6 @@
                 "Charles Boyer",
                 "Ingrid Thulin",
                 "Lee J. Cobb"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Deux branches d'une famille richissime, les Desnoyers et les Von Hartrott, se réunissent pour le retour d'Heinrich von Hartrott. À la stupeur générale, il leur apprend avoir abandonné ses études pour intégrer le parti nazi. Lorsque la guerre éclate, Heinrich rejoint les troupes allemandes et va devoir affronter son cousin Desnoyers."
-                }
               ]
             }
           ],
@@ -1208,7 +1133,7 @@
           ]
         },
         {
-          "idFilm": 34252,
+          "idEvenement": 28065,
           "content": [
             {
               "idFilm": 34252,
@@ -1226,12 +1151,6 @@
                 "Kirk Douglas",
                 "Edward G. Robinson",
                 "Cyd Charisse"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "À Rome, Jack Andrus, chargé d'assurer la postsynchronisation d'un film, rencontre Veronica, qui devient sa compagne, alors que Carlotta, une de ses anciennes conquêtes, arrive en ville."
-                }
               ]
             }
           ],
@@ -1249,7 +1168,7 @@
           ]
         },
         {
-          "idFilm": 35160,
+          "idEvenement": 28055,
           "content": [
             {
               "idFilm": 35160,
@@ -1267,12 +1186,6 @@
               "generique": [
                 "Lucille Ball",
                 "Desi Arnaz"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Un couple de jeunes mariés, qui vient d'acheter une gigantesque caravane et entame son voyage de noces, voit les ennuis pleuvoir à cause du véhicule."
-                }
               ]
             }
           ],
@@ -1290,7 +1203,7 @@
           ]
         },
         {
-          "idFilm": 54360,
+          "idEvenement": 28057,
           "content": [
             {
               "idFilm": 54360,
@@ -1308,12 +1221,6 @@
                 "Deborah Kerr",
                 "John Kerr",
                 "Leif Erickson"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Tom, un étudiant, est plus attiré par la littérature et les arts que par les sports. À part l'amitié que lui témoigne son seul camarade, Al, Tom est marginalisé par les autres garçons du pensionnat. Heureusement, il sympathise bientôt avec la femme du professeur de gymnastique."
-                }
               ]
             }
           ],
@@ -1331,7 +1238,7 @@
           ]
         },
         {
-          "idFilm": 44962,
+          "idEvenement": 28056,
           "content": [
             {
               "idFilm": 44962,
@@ -1353,12 +1260,6 @@
                 "Charles Boyer",
                 "Lilian Gish",
                 "Gloria Grahame"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Le docteur Stewart McIver, à la tête d'une clinique psychiatrique, s'efforce d'appliquer de nouvelles méthodes dans l'établissement autrefois dirigé, de façon archaïque, par le docteur Devanal. Il néglige du même coup sa jeune épouse, Karen."
-                }
               ]
             }
           ],
@@ -1376,53 +1277,7 @@
           ]
         },
         {
-          "idFilm": 35212,
-          "content": [
-            {
-              "idFilm": 35212,
-              "ordre": 2,
-              "titre": "Tous en scène",
-              "titreVo": "Band Wagon",
-              "artVo": "The",
-              "realisateurs": "Vincente Minnelli",
-              "pays": "États-Unis",
-              "annee": 1953,
-              "duree": 112,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Fred Astaire",
-                "Cyd Charisse",
-                "Oscar Levant",
-                "Nanette Fabray"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Tony, un artiste déchu, revient à New York et y retrouve deux vieux amis. Ensemble, ils se lancent dans la création d'une comédie musicale et engagent un metteur en scène prétentieux et sa compagne, une impressionnante danseuse classique."
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Copie 35 mm Technicolor originale (tirage par imbibition) issue des collections de Lowell Peterson, ASC à l'Academy Film Archive."
-                }
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104176,
-              "dateHeure": "2023-07-01T20:00:00",
-              "idSalle": "HL"
-            },
-            {
-              "idSeance": 104252,
-              "dateHeure": "2023-07-27T18:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 44918,
+          "idEvenement": 28051,
           "content": [
             {
               "idFilm": 44918,
@@ -1440,12 +1295,6 @@
                 "Leslie Caron",
                 "Oscar Levant",
                 "Georges Guétary"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Un peintre américain s'installe à Paris et tombe amoureux de la ville et d'une de ses habitantes."
-                }
               ]
             }
           ],
@@ -1463,48 +1312,7 @@
           ]
         },
         {
-          "idFilm": 44960,
-          "content": [
-            {
-              "idFilm": 44960,
-              "ordre": 4,
-              "titre": "Un numéro du tonnerre",
-              "titreVo": "Bells Are Ringing",
-              "realisateurs": "Vincente Minnelli",
-              "pays": "États-Unis",
-              "annee": 1960,
-              "duree": 127,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après la comédie musicale _Bells Are Ringing_ de Betty Comden et Adolph Green.",
-              "generique": [
-                "Judy Holliday",
-                "Dean Martin"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Ella Peterson, une standardiste new-yorkaise, s'immisce dans les affaires des abonnés téléphoniques et devient leur confidente."
-                }
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104105,
-              "dateHeure": "2023-07-01T15:00:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par Catel & Bocquet"
-            },
-            {
-              "idSeance": 104251,
-              "dateHeure": "2023-07-09T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 35216,
+          "idEvenement": 28040,
           "content": [
             {
               "idFilm": 35216,
@@ -1524,12 +1332,6 @@
                 "Louis Armstrong",
                 "Eddie Anderson",
                 "Lena Horne"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Brave homme mais joueur impénitent, Little Joe Jackson est mortellement blessé pour une dette de jeu. Cédant aux prières de sa femme, le Seigneur lui accorde six mois de sursis sur Terre pour prouver qu'il mérite d'échapper à l'enfer."
-                }
               ]
             }
           ],
@@ -1547,7 +1349,7 @@
           ]
         },
         {
-          "idFilm": 35259,
+          "idEvenement": 28078,
           "content": [
             {
               "idFilm": 35259,
@@ -1565,16 +1367,6 @@
                 "Kirk Douglas",
                 "Anthony Quinn",
                 "James Donald"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Portrait de Vincent van Gogh : sa piété, ses passions, son amour pour son frère Théo, sa rencontre avec Gauguin et, surtout, sa dévotion obsessionnelle à la peinture et au dessin."
-                },
-                {
-                  "typeTexte": 99,
-                  "texte": "Restauration à partir du négatif original par Technicolor US pour Swashbuckler Films et Warner Bros."
-                }
               ]
             }
           ],
@@ -1592,48 +1384,7 @@
           ]
         },
         {
-          "idFilm": 54351,
-          "content": [
-            {
-              "idFilm": 54351,
-              "ordre": 2,
-              "titre": "Yolanda et le Voleur",
-              "titreVo": "Yolanda and the Thief",
-              "realisateurs": "Vincente Minnelli",
-              "pays": "États-Unis",
-              "annee": 1945,
-              "duree": 108,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Fred Astaire",
-                "Lucile Bremer",
-                "Frank Morgan"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Johnny, un petit voleur, usurpe l'identité de Candle, ange gardien auprès de la riche et belle Yolanda, afin de lui dérober ses biens."
-                }
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104119,
-              "dateHeure": "2023-07-01T17:30:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par Dominique Païni"
-            },
-            {
-              "idSeance": 104253,
-              "dateHeure": "2023-07-21T20:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 34230,
+          "idEvenement": 28041,
           "content": [
             {
               "idFilm": 34230,
@@ -1650,12 +1401,6 @@
                 "Fred Astaire",
                 "Judy Garland",
                 "Lucille Ball"
-              ],
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Le grand Ziegfeld est au ciel et, de là-haut, rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme à la grande époque, numéros comiques, dansés et chantés se succèdent."
-                }
               ]
             }
           ],
@@ -1668,6 +1413,32 @@
             {
               "idSeance": 102009,
               "dateHeure": "2023-07-20T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idConf": 28175,
+          "content": [
+            {
+              "idEvenement": 28175,
+              "ordre": 2,
+              "titre": "Dialogue avec Murielle Joudet",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104056,
+              "typeAssoc": 118,
+              "dateHeure": "2023-07-06T19:00:00",
               "idSalle": "HL"
             }
           ]
