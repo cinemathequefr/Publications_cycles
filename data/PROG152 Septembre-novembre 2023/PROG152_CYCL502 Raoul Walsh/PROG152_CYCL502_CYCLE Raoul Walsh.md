@@ -25,6 +25,17 @@ San Francisco, fin XIX<sup>e</sup> siècle. Une chanteuse de cabaret s'enfuit su
 - Me 13 sep 20h00 HL  
 Voir aussi dialogue p. xx
 
+[37658]  
+**Artistes et modèles**  
+**(Artists and Models)**  
+de Raoul Walsh  
+États-Unis / 1937 / 97 min / VOSTF / 35 mm  
+Avec Jack Benny, Ida Lupino, Richard Arlen.  
+Dans les coulisses d'une élection de Miss d'agence publicitaire, un chassé-croisé amoureux qui voit défiler les costumes et les décors somptueux, au rythme de numéros musicaux signés Louis Armstrong et Vincente Minnelli.  
+Paula, une jeune mannequin, se fait passer pour une demoiselle de la haute société afin de devenir la vedette d'une campagne publicitaire.
+
+- Lu 23 oct 18h30 GF
+
 [45140]  
 **Au service de la gloire**  
 **(What Price Glory?)**  
@@ -36,6 +47,17 @@ Les aventures militaires et amoureuses de deux compagnons envoyés dans les tran
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
 
 - Di 10 sep 15h00 HL
+
+[41735]  
+**Au service de sa majesté**  
+**(O.H.M.S.)**  
+de Raoul Walsh  
+Grande-Bretagne / 1937 / 87 min / VOSTF / 35 mm  
+Avec Wallace Ford, John Mills, Anna Lee.  
+Un mauvais garçon new-yorkais, poursuivi pour meurtre, s'engage dans l'armée britannique. Alternant comédie et morceaux de bravoure, Walsh dessine un triangle amoureux sur fond de péripéties militaires, dont le final de la bataille chinoise annonce l'ampleur d'_Aventures en Birmanie_.  
+Accusé d'un crime qu'il n'a pas commis, Jimmy Tracy, un mauvais garçon new-yorkais, fuit en Angleterre en empruntant l'identité de sa victime. Sur place, il se retrouve enrôlé dans l'armée britannique.
+
+- Lu 23 oct 20h45 GF
 
 [37819]  
 **Les Aventures du capitaine Wyatt**  
@@ -262,7 +284,7 @@ Avec John Wayne, Claire Trevor, Roy Rogers.
 Vers 1860, dans le Kansas, deux hommes, l'un rustre et intègre et l'autre cultivé et sans scrupules, se disputent les faveurs d'une femme et le poste de shérif.  
 copie 35mm UCLA Film & Television Archive.
 
-- Di 24 sep 16h15 HL
+- Di 24 sep 16h45 HL
 
 [37701]  
 **L'Esclave libre**  
@@ -293,7 +315,7 @@ de Raoul Walsh
 Avec Gloria Swanson, Lionel Barrymore, Raoul Walsh.  
 Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion de refaire sa vie. Sur cette île du Pacifique, le puritain Davidson ne lui laisse aucun répit et menace de la dénoncer et de la renvoyer à San Francisco où elle risque la prison.
 
-- Di 8 oct 18h45 GF
+- Di 8 oct 19h45 GF
 
 [67404]  
 **Les Fantastiques années 20**  
@@ -313,7 +335,7 @@ de Raoul Walsh
 Avec George Raft, Wallace Beery, Jackie Cooper.  
 Chuck Connors règne en maître sur le quartier Bowery. Chef de la brigade de pompiers, il possède également la plus grande brasserie. En concurrence permanente avec Steve, ils se disputent la suprématie du quartier.
 
-- Di 24 sep 18h30 HL
+- Di 24 sep 18h45 HL
 
 [37753]  
 **La Femme à abattre**  
@@ -378,6 +400,16 @@ Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de pr
 
 - Ve 1 sep 20h15 HL
 
+[85888]  
+**Hors du gouffre**  
+**(The Man Who Came Back)**  
+de Raoul Walsh  
+États-Unis / 1931 / 85 min / VOSTF / 16 mm  
+Avec Janet Gaynor, Charles Farrell, Kenneth MacKenna.  
+Un fils de famille alcoolique et une chanteuse de cabaret s'aiment en depit de toute sorte d'obstacles.
+
+- Sa 14 oct 15h30 GF
+
 [36874]  
 **Les Implacables**  
 **(The Tall Men)**  
@@ -387,6 +419,15 @@ Avec Clark Gable, Jane Russell, Robert Ryan.
 Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement ruinés. Un homme leur propose alors un marché : conduire un immense troupeau du Texas au Montana pour en partager les bénéfices.
 
 - Di 17 sep 18h00 HL
+
+[36818]  
+**In Old Arizona**  
+d'Irving Cummings, Raoul Walsh  
+États-Unis / 1929 / 95 min / VOSTF / DCP  
+Avec Warner Baxter, Edmund Lowe, Dorothy Burgess.  
+Un bandit mexicain, Cisco Kid, qui échappe régulièrement à ses poursuivants, est trahi par une femme.
+
+- Ve 13 oct 17h30 GF
 
 [37781]  
 **Intrigues en Orient**  
@@ -416,7 +457,7 @@ Avec Dolores del Río, Don Alvarado, Victor McLaglen.
 Seconde adaptation par Walsh de la nouvelle de Merimee.  
 Restauré par le MoMA avec le soutien de la Film Foundation.
 
-- Di 8 oct 16h30 GF
+- Di 8 oct 17h30 GF
 
 [82982]  
 **The Lucky Lady**  
@@ -446,6 +487,17 @@ Pendant la guerre de Corée, trois Marines, bénéficiant d'une permission au Ja
 
 - Me 11 oct 20h30 GF
 
+[36832]  
+**Mon ami et moi**  
+**(Me And My Gal)**  
+de Raoul Walsh  
+États-Unis / 1932 / 79 min / VOSTF / DCP  
+Avec Spencer Tracy, Joan Bennett, George Chandler.  
+Dan, un jeune policier new-yorkais, est amoureux d'une serveuse, mais la sœur de cette dernière est la maitresse d'un gangster.  
+Conservé par le MoMA,. Restauration numérique soutenue par 20th Century Fox.
+
+- Sa 14 oct 17h30 GF
+
 [36863]  
 **Le Monde lui appartient**  
 **(The World in His Arms)**  
@@ -465,6 +517,16 @@ Emprisonné la veille de son mariage pour le meurtre du propriétaire d'un talis
 
 - Ve 6 oct 18h30 GF
 
+[80150]  
+**Nuit après nuit**  
+**(Every Night at Eight)**  
+de Raoul Walsh  
+États-Unis / 1935 / 80 min / VOSTF / 16 mm  
+Avec George Raft, Alice Faye, Frances Langford.  
+Trois jeunes employés formant un trio vocal deviennent des vedette de la radio.
+
+- Di 15 oct 17h30 GF
+
 [36837]  
 **Les Nus et les morts**  
 **(The Naked and the Dead)**  
@@ -475,6 +537,16 @@ Avec Aldo Ray, Cliff Robertson, Raymond Massey.
 En pleine guerre du Pacifique, un lieutenant s'oppose à la brutalité cynique d'un sous-officier particulièrement féroce.
 
 - Sa 23 sep 19h00 HL
+
+[72462]  
+**Le Passeport jaune**  
+**(The Yellow Ticket)**  
+de Raoul Walsh  
+États-Unis / 1931 / 75 min / VOSTF / DCP  
+Avec Boris Karloff, Lionel Barrymore, Laurence Olivier.  
+Pour pouvoir aller rendre visite à son père emprisonné par les autorités tsaristes, une jeune juive russe décide de demander un passeport jaune (normalement attribué aux prostituées) qui lui permettra de voyager dans le pays.
+
+- Ve 13 oct 17h30 GF
 
 [36848]  
 **Pillars of Society**  
@@ -496,15 +568,6 @@ Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'appr
 
 - Sa 16 sep 18h00 HL  
 - Di 1 oct 15h00 GF
-
-[36854]  
-**Regeneration**  
-de Raoul Walsh  
-États-Unis / 1915 / 72 min / INT. FR. / DCP  
-Avec John McCann, James A. Marcus, Maggie Weston.  
-Orphelin à l'âge de 10 ans, Owen est recueilli par ses voisins violents. Cherchant à fuir ces derniers qui l'exploitent, Owen erre sur les docks de New York et devient chef de gang à 25 ans.
-
-- Di 24 sep 14h30 HL
 
 [45139]  
 **La Rivière d'argent**  
@@ -566,6 +629,15 @@ Trois forains sans scrupules obligent un nain à se déguiser en singe parlant.
 Film incomplet.
 
 - Sa 7 oct 16h00 GF
+
+[78719]  
+**Spendthrift**  
+de Raoul Walsh  
+États-Unis / 1936 / 78 min / VOSTF / 16 mm  
+Avec Pat Paterson, Mary Brian, George Barbier.  
+Un héritier, qui a dilapidé toute sa fortune dans la pratique de sports de luxe, épouse une aventurière se faisant passer pour la fille d'un millionnaire.
+
+- Di 15 oct 19h15 GF
 
 [37792]  
 **Têtes brûlées**  
@@ -629,15 +701,14 @@ La fille du Calife tombe amoureuse d'un sympathique voleur qui devra la conquér
 
 - Di 17 sep 14h30 HL
 
-[67395]  
-**Women of All Nations**  
+[82501]  
+**Wild Girl**  
 de Raoul Walsh  
-États-Unis / 1931 / 72 min / VOSTF / 35 mm  
-Avec Edmund Lowe, Victor McLaglen, Greta Nissen.  
-Flagg et Quirt, deux marines qui tentent chacun de séduire la belle Else en Suède puis en Égypte où celle-ci fait partie du harem d'un prince.  
-Restauré par UCLA Film & Television Archive.
+États-Unis / 1932 / 74 min / VOSTF / DCP  
+Avec Joan Bennett, Charles Farrell, Ralph Bellamy.  
+Une jeune fille s'enfuit avec le meurtrier du séducteur de sa sœur.
 
-- Di 8 oct 20h45 GF
+- Sa 14 oct 19h15 GF
 
 ## Rencontres et conférences
 

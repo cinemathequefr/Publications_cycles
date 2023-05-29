@@ -109,9 +109,9 @@
   * Aventure de Madame Muir (L')  
   * Aventures de Peter Pan (Les)  
   * Demoiselles de Rochefort (Les)  
-  * Gosse (Le)  
   * Homme qui en savait trop (L')  
   * Jacquot de Nantes  
+  * Kid (Le)  
   * Kiki, la petite sorcière  
   * Linda veut du poulet  
   * Ma vache et moi  
@@ -143,11 +143,13 @@
   * Surprise du chef (La)  
   * Zozos (Les)
 
-## Raoul Walsh (61)
+## Raoul Walsh (68)
 
   * Amour de marin  
   * Annie du Klondike  
+  * Artistes et modèles  
   * Au service de la gloire  
+  * Au service de sa majesté  
   * Aventures du capitaine Wyatt (Les)  
   * Aventures en Birmanie  
   * Barbe-Noire le pirate  
@@ -180,32 +182,37 @@
   * Géants du ciel (Les)  
   * Gentleman Jim  
   * Grande évasion (La)  
+  * Hors du gouffre  
   * Implacables (Les)  
+  * In Old Arizona  
   * Intrigues en Orient  
   * Kindred of the Dust (The)  
   * Loves of Carmen (The)  
   * Lucky Lady (The)  
   * Man I Love (The)  
   * Marines, Let's Go !  
+  * Mon ami et moi  
   * Monde lui appartient (Le)  
   * Mystery of the Hindu Image (The)  
+  * Nuit après nuit  
   * Nus et les morts (Les)  
+  * Passeport jaune (Le)  
   * Pillars of Society  
   * Piste des géants (La)  
-  * Regeneration  
   * Rivière d'argent (La)  
   * Roi et quatre reines (Le)  
   * Ruelle du péché (La)  
   * Sabotage à Berlin  
   * Saboteur sans gloire  
   * Singe qui parle (Le)  
+  * Spendthrift  
   * Têtes brûlées  
   * Un lion dans la rue = L'Homme à abattre  
   * Une femme dangereuse  
   * Vallée de la peur (La)  
   * Victime du destin  
   * Voleur de Bagdad (Le)  
-  * Women of All Nations
+  * Wild Girl
 
 ## Séances spéciales (2)
 

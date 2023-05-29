@@ -5,7 +5,8 @@
 [154475]  
 **Linda veut du poulet**  
 de Sébastien Laudenbach, Chiara Malta  
-France / 2023 / 76 min / DCP
+France / 2023 / 76 min / DCP  
+[JP] Présentée en avant-première, la nouvelle pépite d'animation française, acclamée lors du dernier festival de Cannes. Chiara Malta et Sébastien Laudenbach (_La Jeune Fille sans mains_) multiplient les expérimentations formelles pour raconter les rêves et les blessures de l'enfance dans une course-poursuite joyeusement débridée.
 
 - Di 24 sep 15h00 HL  
 Avant-première
@@ -15,7 +16,7 @@ Avant-première
 **(Peter Pan)**  
 de Hamilton Luske, Clyde Geronimi, Wilfred Jackson  
 États-Unis / 1953 / 76 min / VF / DCP  
-Un soir, Peter Pan, enfant magique qui refuse de grandir, pénètre dans la chambre des enfants Darling, à la recherche de son ombre perdue. Fascinés par ce personnage, Wendy, Jean et Michel décident de s'envoler avec lui au pays imaginaire. C'est ainsi que débute pour eux un fantastique voyage.
+[JP] Pirates, sirènes et Indiens habitent le Pays imaginaire, où Peter Pan, enfant qui refuse de grandir, emmène Wendy et ses frères. Peuplé de personnages marquants comme la fée Clochette ou le capitaine Crochet, un voyage fantastique aux couleurs et aux mélodies enchanteresses, signé Walt Disney.
 
 - Me 27 sep 15h00 GF
 
@@ -25,25 +26,17 @@ Un soir, Peter Pan, enfant magique qui refuse de grandir, pénètre dans la cham
 de Raoul Walsh  
 États-Unis / 1930 / 125 min / VOSTF / 35 mm  
 Avec John Wayne, Robert Parrish, Marguerite Churchill.  
-Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
+[JP] À la tête d'un convoi de colons, un jeune trappeur enquête sur le meurtre de son meilleur ami, sur fond de conquête de l'Ouest. Le premier grand western parlant de l'histoire du cinéma, qui énumère en plans majestueux chacun des mythes fondateurs de l'Amérique, et le premier grand rôle de John Wayne, (re) découvert par Walsh.
 
 - Di 1 oct 15h00 GF
 
 [31057]  
-**Le Gosse**  
+**Le Kid**  
 **(The Kid)**  
 de Charles Chaplin  
 États-Unis / 1919 / 68 min / DCP  
 Avec Charles Chaplin, Edna Purviance, Jackie Coogan.  
-Charlot recueille un bébé abandonné et l'élève de son mieux même s'il n'a pas un sou. Une très grande complicité unit l'enfant et le vagabond devenu vitrier.
-
----
-
-Charlot recueille un bébé abandonné et l'élève de son mieux même s'il n'a pas un sou. Une très grande complicité unit l'enfant et le vagabond devenu vitrier. Jusqu'au jour où... _Le film sera précédé d'une histoire inventée par les conteurs Sami Hakimi et Julien Tauber._
-
----
-
-Charlot recueille un bébé abandonné et l'élève de son mieux même s'il n'a pas un sou. Une grande complicité unit l'enfant et le vagabond devenu vitrier. Jusqu'au jour où... Le film sera précédé d'une histoire inventée par les conteurs Sami Hakimi et Julien Tauber.
+[JP] Premier long métrage de Chaplin, inspiré de son propre vécu. Traversé par une émotion qui repose en grande partie sur la complicité avec son petit acteur Jackie Coogan, _Le Kid_ met en scène son personnage de vagabond en père adoptif tendre et maladroit. Lorsque Charlot se porte à hauteur d'enfant, le sourire se mêle aux larmes. Bouleversant.
 
 - Me 4 oct 15h00 GF
 
@@ -78,14 +71,15 @@ _Copie avec musique_
 d'Alfred Hitchcock  
 États-Unis / 1956 / 120 min / VOSTF / 35 mm  
 Avec James Stewart, Doris Day, Daniel Gélin.  
-[JP] Venus en vacances pour découvrir le Maroc, les McKenna et leur fils se retrouvent bien malgré eux au centre d'une enquête policière. Le film enchaîne les scènes mémorables de suspense, jusqu'à l'apothéose finale qui fait entendre la voix de Doris Day dans une chanson célèbre.
+[JP] Après avoir assisté au meurtre d'un agent français, les McKenna doivent déjouer un attentat tout en recherchant leur fils kidnappé. Un scénario habilement ficelé par Hitchcock, pour un remake de son propre film de 1934, cette fois avec James Stewart et Doris Day qui interprète le fameux _Que sera, sera_. Un incontournable du film d'espionnage.
 
 - Di 15 oct 15h00 GF
 
 [41196]  
 **Microcosmos**  
 de Claude Nuridsany, Marie Pérennou  
-France / 1996 / 80 min / VF / 35 mm
+France / 1996 / 80 min / VF / 35 mm  
+[JP] Produit par Jacques Perrin, un documentaire filmé à quatre mains sur le monde mystérieux des insectes. Grâce à une technique ultraperfectionnée (une caméra munie d'objectifs spéciaux), les animaux deviennent de véritables personnages, pour un hommage fascinant à la nature et à l'infiniment petit porté par la musique de Bruno Coulais.
 
 - Me 18 oct 15h00 GF
 
@@ -94,7 +88,7 @@ France / 1996 / 80 min / VF / 35 mm
 de Jacques Demy  
 France / 1966 / 120 min / DCP  
 Avec Catherine Deneuve, Françoise Dorléac, Danielle Darrieux, Jacques Perrin, Gene Kelly.  
-[JP] Couleurs chatoyantes et refrains chantants égayent les rues de Rochefort, le temps d'une kermesse. Les histoires d'amour se font et se défont, virevoltant comme des robes légères.
+[JP] Delphine et Solange, sœurs jumelles pétillantes nées-sous-le-signe-des-Gémeaux, rêvent au grand amour. Couleurs éclatantes, casting de choix (Gene Kelly, Michel Piccoli, Danielle Darrieux, George Chakiris), morceaux légendaires de Michel Legrand illuminent la plus grande comédie musicale du cinéma français.
 
 - Di 22 oct 15h00 GF
 
@@ -103,7 +97,8 @@ Avec Catherine Deneuve, Françoise Dorléac, Danielle Darrieux, Jacques Perrin, 
 de Djibril Diop Mambéty  
 Sénégal-Suisse-France / 1998 / 45 min / DCP  
 Avec Lissa Baléra, Taörou M'Baye, Oumou Samb.  
-[JP] Sili, jeune mendiante de 12 ans, s'aventure dans les nouveaux quartiers de la ville pour tenter de gagner un peu d'argent en vendant Le Soleil, célèbre quotidien sénégalais, dont le commerce est depuis longtemps réservé aux garçons.
+Sili, jeune mendiante de 12 ans, s'aventure dans les nouveaux quartiers de la ville pour tenter de gagner un peu d'argent en vendant _Le Soleil_, célèbre quotidien sénégalais, dont le commerce est depuis longtemps réservé aux garçons.  
+Sili, jeune mendiante de 12 ans, vend le journal local pour nourrir sa famille. À force de sourires et de persévérance, et aidée par son ami, elle gagne peu à peu le respect dans un univers de garçons. Une peinture poétique de la société sénégalaise, le dernier film de Djibril Diop Mambéty, qu'il lègue comme « un hymne aux enfants de la rue ».
 
 - Me 25 oct 15h00 GF
 
@@ -112,7 +107,7 @@ Avec Lissa Baléra, Taörou M'Baye, Oumou Samb.
 **(Majo no takkyubin)**  
 de Hayao Miyazaki  
 Japon / 1989 / 103 min / VF / DCP  
-Kiki, jeune sorcière de treize ans, part découvrir le monde sur son balai. Elle s'installe dans une petite ville où Osono, une boulangère, lui propose de mettre ses dons au service de la livraison de pâtisseries à domicile. La petite sorcière va alors vivre d'étonnantes aventures.
+[JP] Les étonnantes aventures d'une jeune sorcière, partie pour un voyage initiatique à la découverte du monde, et devenue livreuse de pâtisseries sur son balai magique. Une parabole sur l'intégration et l'indépendance, par l'empereur de l'animation japonaise.
 
 - Di 29 oct 15h00 GF
 
@@ -123,7 +118,7 @@ de Frank Capra
 États-Unis / 1941 / 118 min  
 D'après la pièce _Arsenic and Old Lace_ de Joseph Kesselring.  
 Avec Cary Grant, Raymond Massey, Priscilla Lane.  
-Deux exquises vieilles dames ont pris l'habitude d'empoisonner des vieux messieurs seuls et tristes afin de leur épargner les affres d'une fin de vie misérable.
+[JP] Deux _old ladies_ pas si charmantes, des vieux fous au milieu de services à thé en porcelaine : sur fond d'humour noir, Cary Grant fait une nouvelle incursion dans le burlesque, devant la caméra du roi de la comédie américaine. Un huis clos féroce et désopilant.
 
 - Me 1 nov 15h00 GF
 
@@ -132,7 +127,8 @@ Deux exquises vieilles dames ont pris l'habitude d'empoisonner des vieux messieu
 **(Kurenai no buta)**  
 de Hayao Miyazaki  
 Japon / 1992 / 94 min / VOSTF / DCP  
-[JP] Qui est Porco Rosso ? Ancien capitaine de l'armée de l'air, il est désormais chasseur de primes et combat les pirates de l'air de sa région d'Italie. Mais seule son amie Gina connaît sa véritable histoire. _Porco Rosso_ est le dernier film de Miyazaki entièrement dessiné à la main et dans lequel on découvre sa passion pour les avions.
+Qui est Porco Rosso ? Ancien capitaine de l'armée de l'air, il est désormais chasseur de primes et combat les pirates de l'air de sa région d'Italie. Mais seule son amie Gina connaît sa véritable histoire.  
+Tout le savoir-faire des studios Ghibli, dans le dernier film du maître Miyazaki entièrement dessiné à la main, et témoin de sa passion pour l'aviation. Une fable délicate sur l'héroïsme, ou quand les aventures d'un pilote à tête de cochon servent un réquisitoire subtil contre la guerre.
 
 - Di 5 nov 15h00 GF
 
@@ -141,7 +137,7 @@ Japon / 1992 / 94 min / VOSTF / DCP
 de François Truffaut  
 France / 1975 / 104 min / DCP  
 Avec Georges Desmouceaux, Philippe Goldman, Jean-François Stévenin.  
-[JP] Une bande d'écoliers attend avec impatience la fin de l'année scolaire. Chacun mène sa vie : Patrick, amoureux de la mère d'un ami, lui offre des fleurs, Julien s'isole et cache un grave secret. Les grandes vacances qui approchent vont être pour eux l'occasion d'un nouveau départ.  
+[JP] Thiers, 1976. Désir d'autonomie, besoin de tendresse : l'enfance en vedette selon Truffaut, qui filme une bande d'écoliers et leur instituteur (formidable Jean-François Stévenin) pendant tout un trimestre. Un patchwork à la fois grave et léger, composé de « 25% de fiction, 50% de faits divers découpés dans les journaux et 25% de souvenirs personnels ».  
 Version numérique restaurée en 2K par MK2 avec le soutien du CNC.
 
 - Me 8 nov 15h00 GF
@@ -152,7 +148,7 @@ Version numérique restaurée en 2K par MK2 avec le soutien du CNC.
 de Jerry Lewis  
 États-Unis / 1965 / 100 min / VOSTF / 35 mm  
 Avec Jerry Lewis, Donna Butterworth.  
-Une jeune orpheline très riche doit choisir avec quel membre de sa famille elle souhaite vivre.
+[JP] Une petite orpheline doit choisir entre ses différents oncles pour déterminer lequel sera son tuteur. Infatigable, Jerry Lewis réalise et produit une comédie gentiment farfelue... mais y interprète aussi pas moins de sept personnages, l'occasion de déployer tous ses talents de pitre au fil de gags hilarants.
 
 - Di 12 nov 15h00 GF
 
@@ -162,7 +158,7 @@ de Jean Cocteau
 France / 1945 / 100 min / 35 mm  
 D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.  
 Avec Josette Day, Jean Marais, Marcel André.  
-Belle se retrouve prisonnière d'un château où règne une horrible bête. Effrayée dans un premier temps, Belle découvre que la bête possède un cœur en or et un autre visage.
+[JP] Le chef-d'œuvre enchanteur de Jean Cocteau, qui porte à l'écran le conte cruel de madame Leprince de Beaumont. Les décors féeriques évoquent Gustave Doré, la photographie d'Alekan donne corps aux trucages artisanaux, et le château qui abrite les souffrances de la Bête/Jean Marais s'anime dans une atmosphère surréaliste et magique.
 
 - Me 22 nov 15h00 GF
 
@@ -171,19 +167,7 @@ Belle se retrouve prisonnière d'un château où règne une horrible bête. Effr
 d'Agnès Varda  
 France / 1991 / 118 min / DCP  
 Avec Philippe Maron, Edouard Joubeaud, Laurent Monnier, Brigitte de Villepoix.  
-Dans le garage familial où il grandit, Jacquot se passionne pour le cinéma. Il achète sa première caméra et commence à tourner, image par image. Évocation en fiction de la vocation de Jacques Demy.
-
----
-
-Quand il sera grand, Jacquot sera réalisateur : il deviendra le célèbre réalisateur Jacques Demy, auteur d'éblouissantes comédies musicales. La réalisatrice s'amuse à combiner les souvenirs de Jacques Demy en noir et blanc avec les extraits de ses films multicolores. _Film restauré par Ciné Tamaris avec le soutien du CNC, de la région Pays de Loire, de la ville de Nantes et de la Fondation Bergé._
-
----
-
-Il était une fois un petit garçon élevé dans un garage où tout le monde aimait chanter. C'était en 1939, il avait huit ans, il aimait les marionnettes et les opérettes. Puis il a voulu faire du cinéma mais son père lui a fait étudier la mécanique... C'est de Jacques Demy qu'il s'agit et de ses souvenirs.
-
----
-
-Dans le garage familial où il grandit, Jacquot se passionne pour le cinéma. Il achète sa première caméra et commence à tourner, image par image. Plus tard, Jacquot deviendra le célèbre réalisateur, Jacques Demy.
+[JP] Agnès Varda replonge en images dans les souvenirs de Jacques Demy, depuis ses rêves de cinéma façonnés dès l'enfance. À travers des séquences intimes, extraits de films, ou scènes de fiction qui composent un émouvant kaléidoscope, elle retrace à petites touches la vie de l'homme, du mari, et de l'artiste.
 
 - Di 26 nov 15h00 GF
 

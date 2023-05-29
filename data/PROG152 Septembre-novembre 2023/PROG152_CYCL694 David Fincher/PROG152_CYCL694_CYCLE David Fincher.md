@@ -70,7 +70,7 @@ de David Fincher
 États-Unis / 2019 / 131 min / VOSTF / DCP  
 Le Hollywood des années 1930 raconté à travers la figure de Herman J. Mankiewicz, critique social et scénariste alcoolique, au moment où il s'efforce de terminer le script de _Citizen Kane_.
 
-- Di 22 oct 17h00 GF
+- Di 22 oct 17h30 GF
 
 [115282]  
 **Millénium : Les hommes qui n'aimaient pas les femmes**  
@@ -113,7 +113,7 @@ D'après le livre _La Revanche d'un solitaire_ de Ben Mezrich.
 Avec Jesse Eisenberg, Andrew Garfield, Justin Timberlake.  
 Étudiant à Harvard, Mark Zuckerberg développe une idée qui fait de lui la star du web, lui attire des ennuis avec la justice et met fin à des amitiés.
 
-- Me 18 oct 18h30 GF
+- Me 18 oct 19h00 GF
 
 [101866]  
 **Zodiac**  
