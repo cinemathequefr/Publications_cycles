@@ -171,61 +171,37 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 128743,
+          "content": [
             {
               "idFilm": 128743,
-              "content": [
-                {
-                  "idFilm": 128743,
-                  "ordre": 1,
-                  "titre": "Miroir de la sorcière",
-                  "art": "Le",
-                  "titreVo": "Espejo de la bruja",
-                  "artVo": "El",
-                  "realisateurs": "Chano Urueta",
-                  "pays": "Mexique",
-                  "annee": 1960,
-                  "duree": 75,
-                  "version": "VO",
-                  "format": "DCP",
-                  "generique": [
-                    "Rosita Arenas",
-                    "Armando Calvo",
-                    "Isabela Corona",
-                    "Dina de Marco",
-                    "Carlos Nieto"
-                  ]
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104627,
-                  "idSeanceAssoc": 104627,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-11-02T19:30:00",
-                  "idSalle": "GF"
-                }
+              "ordre": 1,
+              "titre": "Miroir de la sorcière",
+              "art": "Le",
+              "titreVo": "Espejo de la bruja",
+              "artVo": "El",
+              "realisateurs": "Chano Urueta",
+              "pays": "Mexique",
+              "annee": 1960,
+              "duree": 75,
+              "version": "VO",
+              "format": "DCP",
+              "generique": [
+                "Rosita Arenas",
+                "Armando Calvo",
+                "Isabela Corona",
+                "Dina de Marco",
+                "Carlos Nieto"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 28594,
-              "content": [
-                {
-                  "idConf": 28594,
-                  "titre": "Film + discussion avec Jean-François Rauger",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104672,
-                  "idSeanceAssoc": 104627,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-11-02T20:45:00",
-                  "idSalle": "GF",
-                  "mentionAssoc": "À la suite de la conférence, à 19h30, projection d'un film choisi par le conférencier : _Le Miroir de la sorcière_ de Chano Urueta"
-                }
-              ]
+              "idSeance": 104627,
+              "idSeanceAssoc": 104672,
+              "typeAssoc": 117,
+              "dateHeure": "2023-11-02T19:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -399,6 +375,31 @@
             {
               "idSeance": 104629,
               "dateHeure": "2023-10-28T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idConf": 28594,
+          "content": [
+            {
+              "idEvenement": 28594,
+              "titre": "Film + discussion avec Jean-François Rauger",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104672,
+              "idSeanceAssoc": 104627,
+              "typeAssoc": 117,
+              "dateHeure": "2023-11-02T20:45:00",
               "idSalle": "GF"
             }
           ]

@@ -1,13 +1,43 @@
 {
   "datesCycle": [
     "2023-10-04T18:00:00",
-    "2023-10-07T20:45:00"
+    "2023-10-09T20:45:00"
   ],
   "sousCycles": [
     {
       "titreSousCycle": "Les films",
       "tri": 1,
       "items": [
+        {
+          "idFilm": 51404,
+          "content": [
+            {
+              "idFilm": 51404,
+              "ordre": 1,
+              "titre": "Celles qu'on n'a pas eues",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 1980,
+              "duree": 110,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Michel Aumont",
+                "Daniel Ceccaldi",
+                "Michel Galabru",
+                "Bernard Menez",
+                "Jacques François"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104753,
+              "dateHeure": "2023-10-07T20:45:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 52735,
           "content": [
@@ -32,9 +62,9 @@
           ],
           "seances": [
             {
-              "idSeance": 104693,
-              "dateHeure": "2023-10-04T20:15:00",
-              "idSalle": "HL"
+              "idSeance": 104750,
+              "dateHeure": "2023-10-06T16:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -61,8 +91,158 @@
           ],
           "seances": [
             {
-              "idSeance": 104661,
+              "idSeance": 104752,
               "dateHeure": "2023-10-07T18:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 64369,
+          "content": [
+            {
+              "idFilm": 64369,
+              "ordre": 1,
+              "titre": "Dilettante",
+              "art": "La",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 1998,
+              "duree": 118,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Catherine Frot",
+                "Barbara Schulz",
+                "Sébastien Cotterot",
+                "Bernard Verley"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104760,
+              "dateHeure": "2023-10-09T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 51406,
+          "content": [
+            {
+              "idFilm": 51406,
+              "ordre": 1,
+              "titre": "Maris, les femmes, les amants",
+              "art": "Les",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 1988,
+              "duree": 107,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Jean-François Stévenin",
+                "Susan Moncur",
+                "Hélène Vincent",
+                "Emilie Thomas",
+                "Clément Thomas"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104758,
+              "dateHeure": "2023-10-08T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 72518,
+          "content": [
+            {
+              "idFilm": 72518,
+              "ordre": 1,
+              "titre": "Mercredi, folle journée !",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 2000,
+              "duree": 127,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Vincent Lindon",
+                "Alessandra Martines",
+                "Victoria Lafaurie",
+                "Catherine Frot"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104736,
+              "dateHeure": "2023-10-07T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 96024,
+          "content": [
+            {
+              "idFilm": 96024,
+              "ordre": 1,
+              "titre": "Mon petit doigt m'a dit",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 2004,
+              "duree": 110,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Mon petit doigt m'a dit_ d'Agatha Christie.",
+              "generique": [
+                "Catherine Frot",
+                "André Dussollier",
+                "Geneviève Bujold",
+                "Laurent Terzieff"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104761,
+              "dateHeure": "2023-10-09T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 51397,
+          "content": [
+            {
+              "idFilm": 51397,
+              "ordre": 1,
+              "titre": "Pagaille",
+              "art": "La",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 1990,
+              "duree": 100,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Rémy Girard",
+                "Coralie Seyrig",
+                "François Périer",
+                "Clément Thomas"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104759,
+              "dateHeure": "2023-10-08T19:30:00",
               "idSalle": "HL"
             }
           ]
@@ -90,8 +270,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104694,
-              "dateHeure": "2023-10-07T14:30:00",
+              "idSeance": 104737,
+              "dateHeure": "2023-10-04T20:15:00",
               "idSalle": "HL"
             }
           ]
@@ -119,9 +299,37 @@
           ],
           "seances": [
             {
-              "idSeance": 104662,
-              "dateHeure": "2023-10-07T20:45:00",
-              "idSalle": "HL"
+              "idSeance": 104751,
+              "dateHeure": "2023-10-06T16:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 57018,
+          "content": [
+            {
+              "idFilm": 57018,
+              "ordre": 1,
+              "titre": "Un oursin dans la poche",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 1977,
+              "duree": 98,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Darry Cowl",
+                "Bernard Menez",
+                "Maurice Risch"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104747,
+              "dateHeure": "2023-10-08T14:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -161,10 +369,10 @@
       "tri": 4,
       "items": [
         {
-          "idEvenement": 28620,
+          "idConf": 28620,
           "content": [
             {
-              "idConf": 28620,
+              "idEvenement": 28620,
               "titre": "Film + dialogue avec Pascal Thomas",
               "typeConference": "Dialogue"
             }

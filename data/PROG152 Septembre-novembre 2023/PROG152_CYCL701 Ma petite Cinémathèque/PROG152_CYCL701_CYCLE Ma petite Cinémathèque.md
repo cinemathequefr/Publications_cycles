@@ -28,7 +28,7 @@ de Raoul Walsh
 Avec John Wayne, Robert Parrish, Marguerite Churchill.  
 [JP] À la tête d'un convoi de colons, un jeune trappeur enquête sur le meurtre de son meilleur ami, sur fond de conquête de l'Ouest. Le premier grand western parlant de l'histoire du cinéma, qui énumère en plans majestueux chacun des mythes fondateurs de l'Amérique, et le premier grand rôle de John Wayne, (re) découvert par Walsh.
 
-- Di 1 oct 15h00 GF
+- Di 1 oct 15h00 HL
 
 [31057]  
 **Le Kid**  
@@ -49,7 +49,7 @@ D'après le roman _The Ghost and Mrs. Muir_ de R.A. Dick.
 Avec Gene Tierney, Rex Harrison, George Sanders, Edna Best.  
 [JP] Une ravissante veuve, M<sup>me</sup> Muir, se retire dans une maison en bord de mer avec sa fille et une domestique. Le fantôme de l'ancien propriétaire des lieux, le capitaine Gregg, hante la demeure. Mais M<sup>me</sup> Muir est plus fascinée qu'effrayée.
 
-- Di 8 oct 15h00 GF
+- Di 8 oct 15h00 HL
 
 [32933]  
 **Ma vache et moi**  

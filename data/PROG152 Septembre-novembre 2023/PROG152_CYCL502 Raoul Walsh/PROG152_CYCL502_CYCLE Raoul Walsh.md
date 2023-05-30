@@ -221,7 +221,7 @@ de Raoul Walsh
 Avec Sal Mineo, Christine Carère, Barry Coe.  
 Trois énergiques jeunes soldats, Luigi, Jerry et Mike, font leurs classes dans un camp d'entraînement militaire lorsqu'ils apprennent qu'ils sont sélectionnés pour représenter leur unité dans un spectacle télévisé.
 
-- Me 11 oct 18h30 GF
+- Me 11 oct 18h30 HL
 
 [37734]  
 **Le Désert de la peur = Une corde pour te pendre**  
@@ -448,7 +448,7 @@ de Raoul Walsh
 Avec Lionel Barrymore, Miriam Cooper, Ralph Graves.  
 Une orpheline retourne chez elle dans une petite ville du nord-ouest du Pacifique après un mariage raté et avec un fils en bas âge.
 
-- Ve 6 oct 20h00 GF
+- Me 4 oct 20h00 JE
 
 [81234]  
 **The Loves of Carmen**  
@@ -486,7 +486,7 @@ de Raoul Walsh
 Avec Tom Tryon, David Hedison, Tom Reese.  
 Pendant la guerre de Corée, trois Marines, bénéficiant d'une permission au Japon, vivent diverses aventures sentimentales, avant d'être rappelés au front.
 
-- Me 11 oct 20h30 GF
+- Me 11 oct 20h30 HL
 
 [36832]  
 **Mon ami et moi**  
@@ -516,7 +516,7 @@ de Raoul Walsh
 Avec Nick Cage, Dark Cloud, Richard Cummings.  
 Emprisonné la veille de son mariage pour le meurtre du propriétaire d'un talisman hindou, John Stafford parvient à s'échapper tandis qu'un détective engagé par sa fiancée démasque les véritables assassins.
 
-- Ve 6 oct 18h30 GF
+- Me 4 oct 18h30 JE
 
 [80150]  
 **Nuit après nuit**  
@@ -569,7 +569,7 @@ Avec John Wayne, Robert Parrish, Marguerite Churchill.
 Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
 
 - Sa 16 sep 18h00 HL  
-- Di 1 oct 15h00 GF
+- Di 1 oct 15h00 HL
 
 [45139]  
 **La Rivière d'argent**  

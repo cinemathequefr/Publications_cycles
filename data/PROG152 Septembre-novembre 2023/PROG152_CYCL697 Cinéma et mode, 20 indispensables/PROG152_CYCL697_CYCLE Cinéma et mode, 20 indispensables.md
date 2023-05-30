@@ -25,7 +25,7 @@ Les amours brèves et orageuses entre deux légendes de la musique et de la mode
 [47063]  
 **Le Couturier de ces dames**  
 de Jean Boyer  
-France / 1956 / 95 min / 16 mm  
+France / 1956 / 95 min  
 Avec Fernandel, Suzy Delair, Françoise Fabian.  
 Simple coupeur chez un tailleur, Fernand Vignard accède à son rêve de tenir sa propre maison grâce à un héritage.
 
@@ -94,7 +94,7 @@ Une femme mariée retrouve régulièrement ses amies. Certaines d'entre elles so
 [30636]  
 **Mannequin**  
 de Frank Borzage  
-États-Unis / 1937 / 95 min / VO / 35 mm  
+États-Unis / 1937 / 94 min / VO / 35 mm  
 D'après l'histoire _Marry for Money_ de Katharine Brush.  
 Avec Spencer Tracy, Joan Crawford, Alan Curtis.  
 Une jeune femme entretient sa famille dans un petit appartement. N'en pouvant plus, elle insiste auprès de son amoureux pour qu'ils se marient. Le soir de la noce, l'époux pousse la jeune femme à danser avec un riche armateur.
@@ -132,7 +132,7 @@ Jesse débarque à Los Angeles pour faire carrière dans le mannequinat. Sa beau
 **Où est passé Jessica ?**  
 **(Sotto il vestito niente)**  
 de Carlo Vanzina  
-Italie / 1985
+Italie / 1985 / VOSTF / 35 mm
 
 - Me 13 sep 20h30 GF
 

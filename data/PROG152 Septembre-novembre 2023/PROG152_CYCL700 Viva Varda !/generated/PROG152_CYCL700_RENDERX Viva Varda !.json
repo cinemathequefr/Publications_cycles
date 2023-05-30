@@ -125,52 +125,28 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 68649,
+          "content": [
             {
               "idFilm": 68649,
-              "content": [
-                {
-                  "idFilm": 68649,
-                  "ordre": 1,
-                  "titre": "Glaneurs et la Glaneuse",
-                  "art": "Les",
-                  "realisateurs": "Agnès Varda",
-                  "pays": "France",
-                  "annee": 2000,
-                  "duree": 82,
-                  "version": "",
-                  "format": "DCP"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104637,
-                  "idSeanceAssoc": 104637,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-11-04T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
-            },
+              "ordre": 1,
+              "titre": "Glaneurs et la Glaneuse",
+              "art": "Les",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 2000,
+              "duree": 82,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 28611,
-              "content": [
-                {
-                  "idConf": 28611,
-                  "titre": "Table Ronde Les glaneurs et la glaneuse",
-                  "typeConference": "Table ronde"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104706,
-                  "idSeanceAssoc": 104637,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-11-04T16:00:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Les Glaneurs et la Glaneuse_ d'Agnès Varda"
-                }
-              ]
+              "idSeance": 104637,
+              "idSeanceAssoc": 104706,
+              "typeAssoc": 117,
+              "dateHeure": "2023-11-04T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -227,51 +203,27 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 51614,
+          "content": [
             {
               "idFilm": 51614,
-              "content": [
-                {
-                  "idFilm": 51614,
-                  "ordre": 1,
-                  "titre": "Sans toit ni loi",
-                  "realisateurs": "Agnès Varda",
-                  "pays": "France",
-                  "annee": 1985,
-                  "duree": 105,
-                  "version": "",
-                  "format": "DCP"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104636,
-                  "idSeanceAssoc": 104636,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-10-28T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
-            },
+              "ordre": 1,
+              "titre": "Sans toit ni loi",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 1985,
+              "duree": 105,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 28591,
-              "content": [
-                {
-                  "idConf": 28591,
-                  "titre": "Table ronde Sans toit ni loi",
-                  "typeConference": "Table ronde"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104705,
-                  "idSeanceAssoc": 104636,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-10-28T16:45:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Sans toit ni loi_ d'Agnès Varda"
-                }
-              ]
+              "idSeance": 104636,
+              "idSeanceAssoc": 104705,
+              "typeAssoc": 117,
+              "dateHeure": "2023-10-28T14:30:00",
+              "idSalle": "HL"
             }
           ]
         }
@@ -282,10 +234,10 @@
       "tri": 4,
       "items": [
         {
-          "idEvenement": 28607,
+          "idConf": 28607,
           "content": [
             {
-              "idConf": 28607,
+              "idEvenement": 28607,
               "titre": "« Qui êtes-vous agnes Varda ? » par Florence Tissot",
               "sousTitre": "Conférence ",
               "typeConference": "Conférence"
@@ -300,10 +252,10 @@
           ]
         },
         {
-          "idEvenement": 28610,
+          "idConf": 28610,
           "content": [
             {
-              "idConf": 28610,
+              "idEvenement": 28610,
               "titre": "Table ronde Cléo de 5 à 7",
               "typeConference": "Table ronde"
             }
@@ -312,6 +264,44 @@
             {
               "idSeance": 104704,
               "dateHeure": "2023-10-21T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 28591,
+          "content": [
+            {
+              "idEvenement": 28591,
+              "titre": "Table ronde Sans toit ni loi",
+              "typeConference": "Table ronde"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104705,
+              "idSeanceAssoc": 104636,
+              "typeAssoc": 117,
+              "dateHeure": "2023-10-28T16:45:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 28611,
+          "content": [
+            {
+              "idEvenement": 28611,
+              "titre": "Table Ronde Les glaneurs et la glaneuse",
+              "typeConference": "Table ronde"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104706,
+              "idSeanceAssoc": 104637,
+              "typeAssoc": 117,
+              "dateHeure": "2023-11-04T16:00:00",
               "idSalle": "HL"
             }
           ]

@@ -227,7 +227,7 @@ Corps encagés aux prises avec la domination, en proie à la torture : que celle
 [154028]  
 **Habeas corpus**  
 de Jorge Luis Acha  
-Argentine / 1986 / 59 min / VO / DCP  
+Argentine / 1986 / 59 min / VOSTF / DCP  
 Avec Jorge Diez, Luis Nieto, Oscar Vernales.  
 « Dans un cachot se trouve un homme nu, dont on devine le sort assez analogue au supplice infligé au Christ bien des siècles auparavant. » (RK)  
 suivi de  
@@ -254,7 +254,7 @@ suivi de
 [141234]  
 **This Is Not an AIDS Advertisement**  
 d'Isaac Julien  
-Grande-Bretagne / 1988 / 11 min / VO / Numérique  
+Grande-Bretagne / 1988 / 11 min / VOSTF / Numérique  
 « Reconquête du terrain au temps du sida. » (Isaac Julien)  
 suivi de  
 [154207]  
@@ -536,7 +536,7 @@ Affirmations visuelles du désir et des identités (homosexuelle, polyamoureuse)
 [129277]  
 **Easter**  
 de Gus Van Sant  
-États-Unis / 2000 / 31 min / VO / DCP  
+États-Unis / 2000 / 31 min / VOSTF / DCP  
 D'après la nouvelle éponyme de Harmony Korine. Prévu comme un segment du film inachevé _Jokes_, le film raconte l'histoire d'un homme qui pense être homosexuel après avoir vu, avec sa femme, un film porno gay. « C'est une bonne chose que je parte demain, car pour ce qui me concerne, je deviens extrêmement excité. (...) Résistant à la tentation, je dis adieu à tout le monde sur le plateau. » (Bruce La Bruce)  
 Avec l'aimable autorisation de l'Academy Film Archive grâce à Gus Van Sant.  
 suivi de  
@@ -550,7 +550,7 @@ suivi de
 **Barbie aussi peut être triste**  
 **(Barbie también puede estar triste)**  
 d'Albertina Carri  
-Argentine / 2002 / 24 min / VO / DCP  
+Argentine / 2002 / 24 min / VOSTF / DCP  
 Pamphlet d'animation féministe sur la fluidité de la sexualité et la réinvention des schémas amoureux. Tout ce que vous vouliez savoir sur la sexualité de Barbie et Ken.  
 suivi de  
 [154052]  
