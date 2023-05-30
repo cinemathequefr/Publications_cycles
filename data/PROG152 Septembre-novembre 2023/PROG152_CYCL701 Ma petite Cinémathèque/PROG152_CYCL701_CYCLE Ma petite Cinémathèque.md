@@ -26,7 +26,7 @@ de Hamilton Luske, Clyde Geronimi, Wilfred Jackson
 de Raoul Walsh  
 États-Unis / 1930 / 125 min / VOSTF / 35 mm  
 Avec John Wayne, Robert Parrish, Marguerite Churchill.  
-[JP] À la tête d'un convoi de colons, un jeune trappeur enquête sur le meurtre de son meilleur ami, sur fond de conquête de l'Ouest. Le premier grand western parlant de l'histoire du cinéma, qui énumère en plans majestueux chacun des mythes fondateurs de l'Amérique, et le premier grand rôle de John Wayne, (re) découvert par Walsh.
+[JP] À la tête d'un convoi de colons, un jeune trappeur enquête sur le meurtre de son meilleur ami, sur fond de conquête de l'Ouest. Le premier grand western parlant de l'histoire du cinéma, qui énumère en plans majestueux chacun des mythes fondateurs de l'Amérique, et le premier grand rôle de John Wayne, (re)découvert par Walsh.
 
 - Di 1 oct 15h00 HL
 
@@ -47,7 +47,7 @@ de Joseph L. Mankiewicz
 États-Unis / 1946 / 104 min / VOSTF / DCP  
 D'après le roman _The Ghost and Mrs. Muir_ de R.A. Dick.  
 Avec Gene Tierney, Rex Harrison, George Sanders, Edna Best.  
-[JP] Une ravissante veuve, M<sup>me</sup> Muir, se retire dans une maison en bord de mer avec sa fille et une domestique. Le fantôme de l'ancien propriétaire des lieux, le capitaine Gregg, hante la demeure. Mais M<sup>me</sup> Muir est plus fascinée qu'effrayée.
+[JP] Une jeune veuve se retire avec sa fille et une domestique dans une maison en bord de mer, hantée par le fantôme de l'ancien propriétaire des lieux. Mankiewicz met en scène avec élégance une histoire d'amour d'une mélancolie poignante et d'une profonde modernité, sublimée par son trio d'acteurs et la partition de Bernard Herrmann.
 
 - Di 8 oct 15h00 HL
 
@@ -57,7 +57,7 @@ Avec Gene Tierney, Rex Harrison, George Sanders, Edna Best.
 de Buster Keaton  
 États-Unis / 1925 / 78 min / INT. ANG. / 35 mm  
 Avec Buster Keaton, Howard Truesdale.  
-Un jeune homme naïf conduit à la ville un immense troupeau.
+[JP] Buster Keaton s'invente en cow-boy solitaire et inadapté, qui tente par tous les moyens de sauver une vache. Avec sa poésie habituelle, il signe un western burlesque qui fait mouche grâce à sa simplicité et à ses gags, dont une renversante scène de cascade en tonneau.
 
 - Me 11 oct 15h00 GF
 

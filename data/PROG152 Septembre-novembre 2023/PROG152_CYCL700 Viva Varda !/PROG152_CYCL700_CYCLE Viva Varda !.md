@@ -46,8 +46,7 @@ d'Agnès Varda
 France / 2000 / 82 min / DCP  
 Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant.
 
-- Sa 4 nov 14h30 HL  
-Voir aussi table ronde p. xx
+- Sa 4 nov 14h30 HL
 
 [79314]  
 **Oncle Yanko**  
@@ -100,6 +99,5 @@ Voir aussi table ronde p. xx
 
 **Table Ronde Les glaneurs et la glaneuse**
 
-- Sa 4 nov 16h00 HL  
-À la suite de la table ronde, à 14h30, projection d'un film choisi par le conférencier : _Les Glaneurs et la Glaneuse_ d'Agnès Varda (voir p. xx)
+- Di 5 nov 16h00 GF
 
