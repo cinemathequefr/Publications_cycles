@@ -250,17 +250,6 @@ Trois énergiques jeunes soldats, Luigi, Jerry et Mike, font leurs classes dans 
 
 - Me 11 oct 18h00 HL
 
-[37734]  
-**Le Désert de la peur = Une corde pour te pendre**  
-**(Along the Great Divide)**  
-de Raoul Walsh  
-États-Unis / 1951 / 88 min / VOSTF / 35 mm  
-Avec Kirk Douglas, Virginia Mayo, Walter Brennan.  
-Sur les sentiers de l'Ouest, l'escorte d'un prisonnier pourchassé par une bande armée qui veut sa peau. Pour son premier western, pétri de tension et de violence, Kirk Douglas affiche un beau charisme en _marshall_ attaché à l'ordre et à la justice.  
-Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un suspect, Keith, pour le meurtre du fils d'un rancher, Roden. Il amène l'homme à la ville pour que celui-ci fasse l'objet d'un procès équitable. Mais les hommes de Roden le traquent.
-
-- Je 7 sep 21h15 GF
-
 [85148]  
 **Deux aventuriers**  
 **(When Thief Meets Thief)**  
@@ -793,7 +782,7 @@ Biff est amoureux de Virginia qui lui préfère son ami Hugo. Ce dernier rend Bi
 - Me 1 nov 20h30 HL
 
 [79825]  
-**Un lion dans la rue = L'Homme à abattre**  
+**Un lion dans la rue**  
 **(A Lion Is in the Streets)**  
 de Raoul Walsh  
 États-Unis / 1953 / 87 min / VOSTF / 16 mm  
@@ -803,6 +792,18 @@ Dans l'Amérique profonde des bayous, le charismatique James Cagney en défenseu
 L'ascension et la chute d'un politicien démagogue du Sud.
 
 - Je 14 sep 20h15 HL
+
+[37734]  
+**Une corde pour te pendre**  
+**(Along the Great Divide)**  
+de Raoul Walsh  
+États-Unis / 1951 / 88 min / VOSTF / 35 mm  
+Avec Kirk Douglas, Virginia Mayo, Walter Brennan.  
+Sur les sentiers de l'Ouest, l'escorte d'un prisonnier pourchassé par une bande armée qui veut sa peau. Pour son premier western, pétri de tension et de violence, Kirk Douglas affiche un beau charisme en _marshall_ attaché à l'ordre et à la justice.  
+Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un suspect, Keith, pour le meurtre du fils d'un rancher, Roden. Il amène l'homme à la ville pour que celui-ci fasse l'objet d'un procès équitable. Mais les hommes de Roden le traquent.  
+Film également connu sous le titre _Le Désert de la peur_.
+
+- Je 7 sep 21h15 GF
 
 [36877]  
 **Une femme dangereuse**  

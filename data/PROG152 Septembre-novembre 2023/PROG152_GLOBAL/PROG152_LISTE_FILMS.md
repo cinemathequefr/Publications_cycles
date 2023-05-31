@@ -207,7 +207,6 @@
   * Cri de la victoire (Le)  
   * Danse rouge  
   * Déchaînés (Les)  
-  * Désert de la peur = Une corde pour te pendre (Le)  
   * Deux aventuriers  
   * Du sang sur la neige  
   * Empreintes digitales  
@@ -256,7 +255,8 @@
   * Spendthrift  
   * Têtes brûlées  
   * Un dimanche après-midi  
-  * Un lion dans la rue = L'Homme à abattre  
+  * Un lion dans la rue  
+  * Une corde pour te pendre  
   * Une femme dangereuse  
   * Vallée de la peur (La)  
   * Victime du destin  

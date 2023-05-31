@@ -18,6 +18,7 @@ Lili, 14 ans, passe ses vacances dans un camping avec ses parents et son frère.
 de Catherine Breillat  
 France-Italie / 2000 / 93 min / 35 mm  
 Avec Anaïs Reboux, Roxane Mesquida, Libero De Rienzo.  
+Après _Une vraie jeune fille_ et _36 Fillette_, _À ma sœur_ complète le triptyque adolescent de Breillat. Après Alice et Lili, Elena, d'une beauté irrésistible, convoque le moment fatidique de la première fois. Un processus de défloration que la réalisatrice dissèque au scalpel dans de longs plans-séquences, sous le regard plus envieux que gêné d'Anaïs, la cadette boulotte qu'elle traîne « comme un boulet ». Les deux sœurs avancent ensemble dans cette période délicate, de bouderies sur la plage en scènes de lit complices, alors que la chronique naturaliste d'un flirt de vacances se pare soudain d'une tension extrême, jusqu'à l'horreur d'un événement inattendu.  
 Deux sœurs adolescentes passent l'été sur la côte Atlantique avec leurs parents et vivent, chacune à leur manière, leurs premières expériences amoureuses.
 
 - Sa 23 sep 15h30 HL
@@ -71,7 +72,7 @@ de Catherine Breillat
 France / 2001 / 84 min / STA / 35 mm  
 Avec Sarah Pratt, Gilles Guillain, Christelle Dacosta.  
 Pour la collection « Masculin/féminin » d'Arte, Breillat livre un récit d'initiation au masculin. Une nuit d'amour sur un ferry reliant la France et l'Angleterre, à la fois tendre, charnelle et cruelle, où l'objet de désir adolescent se trouve être – fait rare chez Breillat – un garçon.  
-Sur le ferry-boat en partance pour l'Angleterre, un adolescent de seize ans tombe sous le charme d'une trentenaire, mariée et mère de famille.  
+Sur le ferry-boat en partance pour l'Angleterre, un adolescent de 16 ans tombe sous le charme d'une trentenaire, mariée et mère de famille.  
 Film réalisé pour la collection _Masculin/Féminin_.
 
 - Di 17 sep 18h30 GF
@@ -81,6 +82,7 @@ Film réalisé pour la collection _Masculin/Féminin_.
 de Catherine Breillat  
 France / 2023 / 104 min / DCP  
 Avec Léa Drucker, Samuel Kircher, Olivier Rabourdin.  
+En sélection cannoise 2023, le dernier film, très attendu, de Catherine Breillat, s'inspire de _Dronningen_ de la Danoise May el-Toukhy. L'histoire d'une femme qui met en péril sa carrière et sa vie de famille, en ayant une liaison avec son beau-fils adolescent, est présentée en avant-première à la Cinémathèque française.  
 Une avocate renommée met en péril sa carrière et sa famille en ayant une liaison avec son beau-fils de 17 ans.
 
 - Lu 11 sep 20h00 HL  
@@ -111,6 +113,7 @@ Frustrée dans son couple, une jeune femme se laisse séduire par un inconnu. Ce
 de Catherine Breillat  
 France / 1990 / 105 min  
 Avec Claude Brasseur, Lio, Nils Tavernier.  
+Six ans après avoir écrit le scénario de _Police_, Breillat met à profit la version originale rejetée par Pialat et replonge sans complaisance dans l'univers d'un commissariat de quartier. Sale comme un ange commence comme un polar avec chasse aux dealers et propos machistes alcoolisés, avant de prendre des tournures de romance scabreuse. Breillat filme sans fard le désir sexuel entre un flic usé (Pierre Brasseur) et l'épouse docile (Lio) de son jeune partenaire (Nils Tavernier), observant les rapports de soumission et de jouissance d'un adultère trivial et finalement libérateur.  
 Georges Deblache, un flic quinquagénaire, solitaire, et alcoolique, veut protéger son vieil ami Mannoni, un trafiquant de drogue notoire. Il installe son coéquipier Théron en protection rapprochée au domicile de Mannoni. Dans le même temps, il tente de séduire Barbara, l'épouse de Théron.
 
 - Sa 16 sep 18h00 GF

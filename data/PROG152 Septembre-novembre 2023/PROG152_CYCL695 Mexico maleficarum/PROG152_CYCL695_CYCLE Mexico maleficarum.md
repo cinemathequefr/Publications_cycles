@@ -6,7 +6,7 @@
 **Alucarda, la hija de las tinieblas**  
 de Juan López Moctezuma  
 Mexique / 1978 / 75 min / VOSTF / DCP  
-Une histoire d'amitié toxique éclaboussée de magie noire, de satanisme et d'horreur sanglante. Réalisé par le producteur de Jodorowsky, un récit d'orphelines en rébellion contre la société mexicaine des seventies, hommage au Marquis de Sade qui emprunte autant aux Diables de Ken Russell qu'au saphisme de Jess Franco.
+Une histoire d'amitié toxique éclaboussée de magie noire, de satanisme et d'horreur sanglante. Réalisé par le producteur de Jodorowsky, un récit d'orphelines en rébellion contre la société mexicaine des seventies, hommage au marquis de Sade qui emprunte autant aux _Diables_ de Ken Russell qu'au saphisme de Jess Franco.
 
 - Sa 4 nov 19h30 GF
 
