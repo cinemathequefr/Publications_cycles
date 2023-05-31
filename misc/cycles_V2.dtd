@@ -9,7 +9,7 @@
 <!ATTLIST sousCycle title CDATA #REQUIRED>
 <!ELEMENT xTitreSousCycle (#PCDATA)>
 
-<!ELEMENT film (xTitre, xTitreVo?, xRealisateurs, xInfosTechniques, xAdaptation?, xGenerique?, xSynopsis?, xInfosSeance*)>
+<!ELEMENT film (xTitre, xTitreVo?, xRealisateurs, xInfosTechniques, xAdaptation?, xGenerique?, xSynopsis?, xMiniTexte?, xInfosSeance*)>
 <!ATTLIST film title CDATA #REQUIRED>
 
 <!ELEMENT programme (xTitreProgramme?, (xTitre, xTitreVo?, xRealisateurs, xInfosTechniques, xGenerique?, xSynopsis?)+)>
@@ -31,12 +31,21 @@
 <!ELEMENT xTitreVo (#PCDATA)>
 <!ELEMENT xRealisateurs (#PCDATA)>
 <!ELEMENT xInfosTechniques (#PCDATA)>
-<!ELEMENT xAdaptation (#PCDATA|xItalic)*>
-<!ELEMENT xGenerique (#PCDATA)>
-<!ELEMENT xInfosSeance (#PCDATA|xItalic|xSup|xMention|xMentionGroupe)*>
+<!ELEMENT xAdaptation (#PCDATA|xItalic|xSup)*>
+<!ELEMENT xGenerique (#PCDATA|xSup)*>
+<!ELEMENT xSynopsis (#PCDATA|xItalic|xSup)*>
+<!ELEMENT xMiniTexte (#PCDATA|xItalic|xSup)*>
+
+<!ELEMENT xInfosSeance (#PCDATA|xItalic|xSup|xMention|xMentionGroupe|xAge4|xAge6|xAge8|xAge10)*>
 
 <!ELEMENT xMention (#PCDATA|xItalic|xSup)*>
 <!ELEMENT xMentionGroupe (#PCDATA|xItalic|xSup)*>
+
+<!ELEMENT xAge4 (#PCDATA)>
+<!ELEMENT xAge6 (#PCDATA)>
+<!ELEMENT xAge8 (#PCDATA)>
+<!ELEMENT xAge10 (#PCDATA)>
+
 
 <!ELEMENT xItalic (#PCDATA|xSup)*>
 <!ELEMENT xSup (#PCDATA)>

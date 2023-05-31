@@ -190,13 +190,13 @@
   * Artistes et modèles  
   * Au pays du rêve  
   * Au service de la gloire  
-  * Au service de sa majesté  
+  * Au service de Sa Majesté  
   * Aventures du capitaine Wyatt (Les)  
   * Aventures en Birmanie  
   * Barbe-Noire le pirate  
   * Bataille sans merci  
   * Belle espionne (La)  
-  * Blonde et le shérif (La)  
+  * Blonde et le Shérif (La)  
   * Brigade héroïque (La)  
   * Bungalow pour femmes  
   * Capitaine sans peur  
@@ -215,7 +215,7 @@
   * Entraîneuse fatale (L')  
   * Escadron noir (L')  
   * Esclave libre (L')  
-  * Esther et le roi  
+  * Esther et le Roi  
   * Faiblesse humaine  
   * Fantastiques années 20 (Les)  
   * Faubourgs de New York (Les)  
@@ -225,7 +225,7 @@
   * Fils prodigue (Le)  
   * Géants du ciel (Les)  
   * Gentleman Jim  
-  * Grande évasion (La)  
+  * Grande Évasion (La)  
   * Horn Blows at Midnight (The)  
   * Hors du gouffre  
   * Implacables (Les)  
@@ -246,7 +246,7 @@
   * Regeneration  
   * Rivaux  
   * Rivière d'argent (La)  
-  * Roi et quatre reines (Le)  
+  * Roi et Quatre Reines (Le)  
   * Ruelle du péché (La)  
   * Sa dernière course  
   * Sabotage à Berlin  

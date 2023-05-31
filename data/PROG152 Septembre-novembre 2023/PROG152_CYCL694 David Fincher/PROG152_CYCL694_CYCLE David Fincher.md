@@ -57,7 +57,7 @@ Avec Ben Affleck, Rosamund Pike, Neil Patrick Harris.
 Étude mordante des mécanismes du couple et de leur épuisement, _Gone Girl_ est un thriller à tiroirs. Fincher y joue des apparences et des faux-semblants grâce à un récit gigogne aux rebondissements savamment dosés, qui se mue dans sa deuxième moitié en un véritable jeu de massacre.  
 Beaux, jeunes et riches, Amy et Nick forment un couple envié à New York. Alors que le couple s'apprête à célébrer son 5e anniversaire de mariage, la jeune femme disparaît sans laisser de trace. Nick est immédiatement suspecté.
 
-- Sa 21 oct 20h30 GF
+- Je 19 oct 18h00 HL
 
 [154470]  
 **The Killer**  
@@ -78,7 +78,7 @@ de David Fincher
 Tournée pour Netflix, sur un scénario du père de David Fincher, l'évocation du rôle ingrat des scénaristes dans le grand jeu de dupes hollywoodien – ici Herman J. Mankiewicz, aux manettes du script de _Citizen Kane_. Extraordinaire composition de Gary Oldman, reconstitution fastueuse, et constat un rien amer sur les coulisses de l'industrie des rêves.  
 Le Hollywood des années 1930 raconté à travers la figure de Herman J. Mankiewicz, critique social et scénariste alcoolique, au moment où il s'efforce de terminer le script de _Citizen Kane_.
 
-- Di 22 oct 17h45 GF
+- Je 19 oct 21h00 HL
 
 [115282]  
 **Millénium : Les hommes qui n'aimaient pas les femmes**  
@@ -90,7 +90,7 @@ Avec Daniel Craig, Rooney Mara, Christopher Plummer.
 Seconde adaptation du best-seller de Stieg Larsson, _Millénium_ teint les habituelles obsessions de Fincher – traque d'un tueur en série, enquête labyrinthique, héroïne forte – d'une patine métallique qui tranche avec l'esthétique viscérale de _Seven_. Impeccable Rooney Mara, incarnation idéale du cyberpunk.  
 Blomkvist, journaliste d'investigation, enquête à la demande d'un ancien industriel sur la disparition de sa nièce, Harriet. Lisbeth Salander, jeune femme rebelle mais enquêtrice exceptionnelle, est chargée de se renseigner sur Blomkvist, ce qui va finalement la conduire à travailler avec lui.
 
-- Sa 21 oct 17h30 GF
+- Me 18 oct 20h30 HL
 
 [78356]  
 **Panic Room**  

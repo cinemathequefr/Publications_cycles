@@ -110,6 +110,7 @@ Film précédé de _Le Fils du garde de chasse_ d'Alice Guy
 **Les Glaneurs et la Glaneuse**  
 d'Agnès Varda  
 France / 2000 / 82 min / DCP  
+Aux quatre coins de la France, la rencontre d'Agnès Varda avec des adeptes du glanage et du grappillage. Filmé en DV, _Les Glaneurs et la Glaneuse_ passe au crible une société du gaspillage, qui oblige des laissés-pour-compte à lutter pour leur survie. Sans jamais devenir une analyse didactique, ce « road-documentary », comme le surnomme Varda, égrène un ensemble de portraits touchants, où des invisibles sont enfin mis en lumière. Dans un mélange d'impertinence et de radicalité, Varda se caractérise, elle aussi, comme une glaneuse de plans, soudain rattrapée par l'urgence du temps qui passe.  
 Un peu partout en France, Agnès a rencontré des glaneurs et glaneuses, récupérateurs, ramasseurs et trouvailleurs. Par nécessité, hasard ou choix, ils sont en contact avec les restes des autres. Leur univers est surprenant.
 
 - Di 25 juin 18h30 HL  
@@ -212,7 +213,7 @@ France / 2001 / 95 min / DCP
 Sobibor, 14 octobre 1943, 16 heures : lieu, date, et heure de la seule révolte réussie d'un camp d'extermination nazie en Pologne. 365 prisonniers parvinrent à s'évader, mais seuls 47 d'entre eux survécurent aux atrocités de la guerre.
 
 - Lu 3 juil 18h00 GF  
-Séance présentée par Laura Koeppel
+Séance présentée par Dominique Lanzmann, Marc Sagnol et Laura Koeppel
 
 [67847]  
 **Sois belle et tais-toi**  

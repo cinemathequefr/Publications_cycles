@@ -7,8 +7,8 @@
 **(Sailor's Luck)**  
 de Raoul Walsh  
 États-Unis / 1933 / 78 min / VOSTF / 16 mm  
-Avec James Dunn, Sally Eilers, Victor Jory.  
-Les badinages d'une jeune femme sans le sou avec un marin en goguette. Multipliant les gags pré-code, Walsh peaufine son art de la mise en scène, aussi sophistiquée que réjouissante, dans le bassin d'une piscine ou lors d'un marathon de danse qui tourne en bagarre géante.  
+Avec James Dunn, Sally Eilers, Sammy Cohen.  
+Les badinages d'une jeune femme sans le sou avec un marin en goguette. Multipliant les gags audacieux, Walsh peaufine son art de la mise en scène, aussi sophistiquée que réjouissante, dans le bassin d'une piscine ou lors d'un marathon de danse qui tourne en bagarre géante.  
 Les amours d'une jeune fille dépourvue de foyer, de travail et de complexes avec un marin bourru.
 
 - Sa 23 sep 15h00 GF
@@ -18,9 +18,10 @@ Les amours d'une jeune fille dépourvue de foyer, de travail et de complexes ave
 **(Klondike Annie)**  
 de Raoul Walsh  
 États-Unis / 1936 / 77 min / VOSTF / 16 mm  
+D'après la pièce _Annie du Klondike_ de Mae West.  
 Avec Mae West, Victor McLaglen, Phillip Reed.  
-San Francisco, fin XIX<sup>e</sup> siècle. Une chanteuse de cabaret s'enfuit sur un cargo après avoir poignardé son protecteur chinois. Mae West, qui signe aussi les dialogues, fait sensation dans le rôle licencieux d'une aventurière déguisée en missionnaire aux méthodes peu orthodoxes.  
-À la fin du XIX<sup>e</sup> siècle, Rose Carlton, une chanteuse de cabaret de San Francisco, s'enfuit sur une bateau après avoir poignardé son protecteur. Sur le cargo, elle sympathise avec Sœur Annie, une missionnaire, qui ne tarde pas à décéder et dont elle va prendre la place.
+San Francisco, fin XIX<sup>e<sup> siècle. Une chanteuse de cabaret s'enfuit sur un cargo, après avoir poignardé son protecteur chinois. Mae West, qui signe aussi les dialogues, fait sensation dans le rôle licencieux d'une aventurière déguisée en missionnaire aux méthodes peu orthodoxes.  
+À la fin du XIX<sup>e</sup> siècle, Rose Carlton, une chanteuse de cabaret recherchée par la police prend la fuite sur un bateau et endosse l'identité d'une missionnaire décédée pour échapper aux autorités.
 
 - Me 13 sep 20h00 HL  
 Voir aussi dialogue p. xx
@@ -34,41 +35,41 @@ Avec Jack Benny, Ida Lupino, Richard Arlen.
 Dans les coulisses d'une élection de Miss d'agence publicitaire, un chassé-croisé amoureux qui voit défiler les costumes et les décors somptueux, au rythme de numéros musicaux signés Louis Armstrong et Vincente Minnelli.  
 Paula, une jeune mannequin, se fait passer pour une demoiselle de la haute société afin de devenir la vedette d'une campagne publicitaire.
 
-- Lu 23 oct 18h30 GF
+- Me 18 oct 18h30 GF
 
 [84223]  
 **Au pays du rêve**  
 **(Going Hollywood)**  
 de Raoul Walsh  
 États-Unis / 1933 / 84 min / VOSTF / 35 mm  
-Avec Marion Davies, Bing Crosby, Robert Montgomery.  
+Avec Marion Davies, Bing Crosby, Fifi D'Orsay.  
 Pour sa première incursion dans le _musical_, Walsh s'amuse de l'obsession amoureuse d'une professeure de français pour un célèbre crooner d'Hollywood. Parmi les numéros chantés, _Temptation_ et _Beautiful Girl_ seront repris vingt ans plus tard dans _Chantons sous la pluie_.  
-Dans un collège pour filles, une enseignante de français qui rêve d'une vie en musique, quitte son poste pour rejoindre le crooner qu'elle écoute à la radio. Celui-ci est sur le point de partir pour Hollywood où il doit tourner un film.
+Dans un collège pour filles, une enseignante de français quitte son poste pour rejoindre le crooner qu'elle écoute à la radio. Celui-ci est sur le point de partir pour Hollywood où il doit tourner un film.
 
 - Je 2 nov 18h30 GF
 
 [45140]  
 **Au service de la gloire**  
-**(What Price Glory?)**  
+**(What Price Glory ?)**  
 de Raoul Walsh  
 États-Unis / 1926 / 120 min / INT. FR. / 35 mm  
-D'après la pièce _What Price Glory?_ de Maxwell Anderson et Laurence Stallings.  
+D'après la pièce _What Price Glory ?_ de Maxwell Anderson et Laurence Stallings.  
 Avec Edmund Lowe, Victor McLaglen, Dolores del Río.  
-Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allégrement du cocasse au tragique, ce succès de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
+Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allègrement du cocasse au tragique, ce triomphe de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
 
 - Di 10 sep 15h00 HL
 
 [41735]  
-**Au service de sa majesté**  
-**(O.H.M.S.)**  
+**Au service de Sa Majesté**  
+**(O.H.M.S. On His Majesty's Service)**  
 de Raoul Walsh  
 Grande-Bretagne / 1937 / 87 min / VOSTF / 35 mm  
 Avec Wallace Ford, John Mills, Anna Lee.  
-Un mauvais garçon new-yorkais, poursuivi pour meurtre, s'engage dans l'armée britannique. Alternant comédie et morceaux de bravoure, Walsh dessine un triangle amoureux sur fond de péripéties militaires, dont le final de la bataille chinoise annonce l'ampleur d'_Aventures en Birmanie_.  
-Accusé d'un crime qu'il n'a pas commis, Jimmy Tracy, un mauvais garçon new-yorkais, fuit en Angleterre en empruntant l'identité de sa victime. Sur place, il se retrouve enrôlé dans l'armée britannique.
+Un mauvais garçon new-yorkais, poursuivi pour meurtre, s'engage dans l'armée britannique. Alternant comédie et morceaux de bravoure, Walsh dessine un triangle amoureux sur fond de péripéties militaires, dont le final de la bataille chinoise qui annonce l'ampleur d'_Aventures en Birmanie_.  
+Deux soldats, engagés au service de Sa Majesté, se disputent les faveurs de la fille du sergent-major alors que les combats font rage.
 
-- Lu 23 oct 20h45 GF
+- Me 18 oct 20h45 GF
 
 [37819]  
 **Les Aventures du capitaine Wyatt**  
@@ -76,8 +77,8 @@ Accusé d'un crime qu'il n'a pas commis, Jimmy Tracy, un mauvais garçon new-yor
 de Raoul Walsh  
 États-Unis / 1951 / 101 min / VOSTF / 35 mm  
 Avec Gary Cooper, Mari Aldon, Richard Webb.  
-Une version western d'_Aventures en Birmanie_, sur les terres hostiles des Everglades. Évoquant une mission périlleuse des Fédéraux traqués par les Indiens Séminoles, Walsh fait de la jungle le décor idéal pour exploiter les thèmes de la vengeance et du racisme, et offre à Gary Cooper, en homme des marais, un rôle à sa mesure.  
-Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades.  
+Une version western d'_Aventures en Birmanie_, sur les terres hostiles des Everglades. Évoquant une mission périlleuse des Fédéraux traqués par les Indiens Séminole, Walsh fait de la jungle le décor idéal pour exploiter les thèmes de la survie et du racisme, et offre à Gary Cooper, en homme des marais, un rôle à sa mesure.  
+Après avoir détruit un fort rempli d'armes, des soldats américains sont pourchassés par les féroces Indiens de la région des Everglades.  
 Auto-remake d'_Aventures en Birmanie_ (1945).
 
 - Di 17 sep 14h30 HL
@@ -88,7 +89,7 @@ Auto-remake d'_Aventures en Birmanie_ (1945).
 de Raoul Walsh  
 États-Unis / 1945 / 142 min / VOSTF / 35 mm  
 Avec Errol Flynn, James Brown, William Prince.  
-Fleuron du film de guerre, sorti en 1945, _Aventures en Birmanie_ plonge le spectateur au cœur de l'action d'un commando américain chargé de faire sauter un radar japonais dans la jungle birmane. Description minutieuse du comportement des combattants en pleine mission, la mise en scène de Walsh, réglée au cordeau, montre la guerre avec un réalisme époustouflant. Inquiétude, fatigue, angoisse, l'intrigue avance progressivement au rythme des corps s'enfonçant dans la végétation d'une moiteur terrifiante. Une descente aux enfers, menée par Errol Flynn au sommet de son art, d'un lyrisme et d'un suspense saisissants.  
+Fleuron du film de guerre, sorti en 1945, _Aventures en Birmanie_ plonge le spectateur au cœur de l'action d'un commando américain, chargé de faire sauter un radar japonais dans la jungle birmane. Description minutieuse du comportement des combattants en pleine mission, la mise en scène de Walsh, réglée au cordeau, montre la guerre avec un réalisme époustouflant. Inquiétude, fatigue, angoisse, l'intrigue avance progressivement au rythme des corps s'enfonçant dans la végétation d'une moiteur terrifiante. Une descente aux enfers, menée par Errol Flynn au sommet de son art, d'un lyrisme et d'un suspense saisissants.  
 En 1943, un commando de parachutistes américains est largué au-dessus de la zone occupée en Birmanie pour détruire une station radar japonaise. Sa mission accomplie, le commando doit redoubler d'efforts pour fuir les soldats de l'armée japonaise.
 
 - Sa 30 sep 20h30 HL
@@ -99,7 +100,7 @@ En 1943, un commando de parachutistes américains est largué au-dessus de la zo
 de Raoul Walsh  
 États-Unis / 1952 / 100 min / VOSTF / 35 mm  
 Avec Linda Darnell, Richard Egan, William Bendix.  
-Contant les exploits picaresques du corsaire des Antilles, le film est une splendeur, dont les plans semblent tout droit sortis des pages d'un grand livre d'aventures. D'une fabuleuse richesse visuelle, scènes de bagarres et chasses au trésor en Technicolor servent avec panache le jeu truculent de l'acteur de théâtre Robert Newton.  
+Contant les exploits picaresques du corsaire des Antilles, le film est une splendeur, dont les plans semblent tout droit sortis des pages d'un grand livre d'aventures. D'une fabuleuse richesse visuelle, scènes de bagarres et chasses au trésor en Technicolor servent avec panache le jeu truculent de l'acteur de théâtre, Robert Newton, spectaculaire.  
 Le célèbre pirate Barbe-Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
 
 - Je 21 sep 17h30 HL
@@ -123,18 +124,18 @@ de Raoul Walsh
 États-Unis / 1953 / 90 min / VOSTF / 16 mm  
 D'après le roman _Les Travailleurs de la mer_ de Victor Hugo.  
 Avec Yvonne De Carlo, Rock Hudson, Maxwell Reed.  
-Inspiré par _Les Travailleurs de la mer_ de Victor Hugo et par la beauté d'Yvonne De Carlo, le portrait d'une mystérieuse jeune femme chargée de percer les plans d'invasion de la France en Angleterre. Avec Gérard Oury dans le rôle de Napoléon.  
+Lointainement inspiré par _Les Travailleurs de la mer_ de Victor Hugo et illuminé par la beauté d'Yvonne De Carlo, le portrait d'une mystérieuse jeune femme chargée de dérober les plans d'invasion de la France en Angleterre. Avec Gérard Oury dans le rôle de Napoléon.  
 Une mystérieuse et troublante jeune femme, chargée de découvrir les projets napoléoniens d'invasion de l'Angleterre, bouleverse l'existence d'un contrebandier.
 
 - Ve 15 sep 18h00 HL
 
 [36871]  
-**La Blonde et le shérif**  
+**La Blonde et le Shérif**  
 **(The Sheriff of Fractured Jaw)**  
 de Raoul Walsh  
 Grande-Bretagne / 1958 / 103 min / VOSTF / 35 mm  
 Avec Jayne Mansfield, Kenneth More, Bruce Cabot.  
-Western d'un ton nouveau pour un routier du genre. S'amusant à marier humour britannique et grossièreté yankee, Walsh met en scène un négociant d'armes anglais à la conquête du marché américain, dans une aventure aussi décalée qu'enthousiasmante.  
+Western d'un ton nouveau pour un routier du genre. S'amusant à marier humour britannique et grossièreté yankee, Walsh met en scène un négociant d'armes anglais à la conquête du marché américain. Une aventure aussi décalée qu'enthousiasmante, où les Indiens ont le beau rôle.  
 Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé de prospecter dans un pays prometteur : l'Ouest américain. Jonathan ne tarde pas à se faire remarquer dans cette contrée sauvage.
 
 - Lu 18 sep 18h00 GF
@@ -145,7 +146,7 @@ Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé
 de Raoul Walsh  
 États-Unis / 1954 / 87 min / VOSTF / 16 mm  
 Avec Alan Ladd, Shelley Winters, Robert Douglas.  
-Affrontements sur la frontière canadienne entre Sioux et Tuniques rouges. Un sergent de la cavalerie, élevé par les Indiens Crees, prend la tête du régiment, tandis que la rescapée d'un massacre se voit accusée de meurtre. Attaques, chevauchées et courses en pirogues se succèdent dans de grandioses décors de carte postale.  
+Affrontements sur la frontière canadienne entre Sioux et Tuniques rouges. Un sergent de la cavalerie, élevé par les Indiens Crees, prend la tête du régiment, tandis que la rescapée d'un massacre se voit accusée de meurtre. Attaques, chevauchées et courses en pirogues se succèdent dans les grandioses décors de l'Alberta.  
 En 1877 dans l'Ouest canadien, un inspecteur de police se révolte contre son commandant borné, et emprunte une route plus sûre jusqu'à la frontière américaine afin d'empêcher l'invasion d'Indiens hostiles.
 
 - Di 10 sep 17h30 HL
@@ -168,7 +169,7 @@ Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au B
 de Raoul Walsh  
 Grande-Bretagne-États-Unis / 1951 / 117 min / VOSTF / 35 mm  
 Avec Gregory Peck, James Robertson Justice, Christopher Lee.  
-Sorti de l'imagination du romancier C. S. Forester, le personnage d'Horatio Hornblower est, depuis sa création en 1937, l'objet d'un véritable culte en Angleterre. Figure idéale du marin intègre et humble, cet officier de la Royal Navy, embarqué dans les guerres napoléoniennes et doté d'un sens de la mer hors du commun, inspire à Raoul Walsh l'une de ses épopées maritimes les plus éclatantes. Devant ses vaisseaux majestueux et ses batailles navales à la mise en scène sans faille, le spectateur retrouve son âme d'enfant, se rêvant dans l'habit de Gregory Peck, aussi valeureux sur son navire que délicat auprès d'une soupirante Milady. Vénérable prédécesseur de _Master and Commander_, un classique.  
+Le personnage d'Horatio Hornblower, imaginé par C.S. Forester, est l'objet d'un véritable culte en Angleterre. Figure idéale du marin, cet officier de la Royal Navy inspire à Walsh l'une de ses épopées maritimes les plus éclatantes, aux péripéties feuilletonesques. Vénérable prédécesseur de _Master and Commander_, un classique.  
 À l'époque des guerres napoléonniennes, le capitaine Horatio Hornblower est à la tête d'un petit vaisseau. Il doit fournir des armes à un chef de bande ennemi de l'Espagne.  
 Copie Technicolor original.
 
@@ -180,6 +181,7 @@ Copie Technicolor original.
 de Raoul Walsh  
 États-Unis / 1963 / 110 min / VOSTF / 35 mm  
 Avec Troy Donahue, Suzanne Pleshette, Diane McBain.  
+À 77 ans, Walsh clôt son impressionnante filmographie avec un western de cavalerie qui en impose par son âpreté et sa vision empathique du peuple conquis. Peu glorieuses, les guerres indiennes sont décrites sans complaisance, à travers l'honneur, l'ouverture et le respect de deux commandants. La tendresse avec laquelle Walsh filme le silence d'un éclaireur indien ou la coiffe des vaincus jetée à terre est bouleversante. Si le triangle amoureux sort un peu du cadre, la vigueur des chevauchées et les scènes de bataille proprement vertigineuses, emmenées par les tambours et les cuivres de Max Steiner, font de ce western tardif de la période classique un superbe chant du cygne.  
 Matt Hazard, lieutenant de l'armée américaine réaffecté dans l'Arizona, combat contre des tribus indiennes. Il fait la connaissance de Kitty, la femme d'un commandant, à laquelle il sauve la vie à plusieurs reprises.
 
 - Je 21 sep 20h00 HL
@@ -190,6 +192,7 @@ Matt Hazard, lieutenant de l'armée américaine réaffecté dans l'Arizona, comb
 de Raoul Walsh  
 États-Unis / 1941 / 140 min / VOSTF / 35 mm  
 Avec Errol Flynn, Olivia De Havilland, Arthur Kennedy.  
+De l'école militaire de West Point à la défaite de Little Big Horn, la biographie romancée du jeune Custer, devenu commandant du 7<sup>e</sup> Régiment de cavalerie. Épique et spectaculaire, un chef-d'œuvre de mise en scène, et les débuts d'une collaboration légendaire entre Raoul Walsh et Errol Flynn.  
 1857\. A l'académie militaire de West Point, George Armstrong Custer se fait remarquer tant par son indiscipline que par son talent. Il accomplit divers exploits militaires durant la guerre de Sécession. Celle-ci achevée, il est muté à la tête d'une garnison à laquelle vont s'attaquer les guerriers de Crazy Horse.
 
 - Sa 2 sep 16h30 HL
@@ -199,6 +202,7 @@ Avec Errol Flynn, Olivia De Havilland, Arthur Kennedy.
 de Raoul Walsh  
 États-Unis / 1947 / 100 min / VOSTF / 16 mm  
 Avec Jane Wyman, Dennis Morgan, Janis Paige.  
+Les aventures d'un joueur de poker malhonnête, lancé sur les traces d'un braqueur de diligence. Décor sec et sauvage, superbement photographié en noir et blanc par Sidney Hickox (_L'Enfer est à lui_), un western injustement mésestimé, mis en scène avec nervosité et truculence.  
 Un joueur professionnel accepte d'aider la police en capturant un bandit spécialisé dans les attaques de diligences.
 
 - Ve 22 sep 18h00 HL
@@ -208,6 +212,7 @@ Un joueur professionnel accepte d'aider la police en capturant un bandit spécia
 de Raoul Walsh  
 États-Unis / 1938 / 88 min / STF / 16 mm  
 Avec George Burns, Gracie Allen, Martha Raye.  
+Une héritière simplette prend la direction d'une université et embauche des acteurs de vaudeville en guise d'enseignants. Dans l'esprit des thirties, une comédie qui brille par ses numéros musicaux et son casting de stars mené par Bob Hope, figure de l'_entertainment américain_.  
 Gracie Alden doit se consacrer à ses études pour passer en classe supérieure et toucher un héritage.  
 Copie de la collection Jon Davison à l' Academy Film Archive.
 
@@ -219,6 +224,7 @@ Copie de la collection Jon Davison à l' Academy Film Archive.
 de Raoul Walsh  
 États-Unis / 1954 / 150 min / VOSTF / 35 mm  
 Avec Dorothy Malone, Van Heflin, James Whitmore.  
+Dix ans après _Aventures en Birmanie_, Walsh retourne sur le front du Pacifique, et adapte un roman autobiographique à succès de Leon Uris, futur auteur d'_Exodus_ de Preminger. L'histoire suit le parcours d'un groupe de Marines, depuis la caserne de San Diego, lieu de leur formation, jusqu'au débarquement en Nouvelle-Zélande. Alors qu'_Aventures en Birmanie_ s'appliquait à décrire le champ de bataille, _Le Cri de la victoire_ s'attarde sur les « coulisses » de la guerre – discipline, vie de chambrée, frustration sexuelle, flirts et tournée des bars –, brossant un portrait touchant des jeunes recrues et de leurs compagnes, confrontées à la difficulté d'aimer en temps de conflit et à la peur de mourir au combat.  
 En 1942, avant de partir au front, de jeunes recrues tentent d'apprendre les rudiments de la guerre, enseignés par un instructeur aux méthodes sévères.
 
 - Sa 9 sep 14h30 HL
@@ -239,6 +245,7 @@ Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Gra
 de Raoul Walsh  
 États-Unis / 1959 / 93 min / VOSTF / DCP  
 Avec Sal Mineo, Christine Carère, Barry Coe.  
+Trois appelés au service militaire, poussant la chansonnette, sont repérés par le producteur d'un show TV. Sur fond de camaraderie et de quiproquos, un vaudeville musical éclatant, qui égratigne gentiment les institutions de l'armée, de l'hôpital et du mariage.  
 Trois énergiques jeunes soldats, Luigi, Jerry et Mike, font leurs classes dans un camp d'entraînement militaire lorsqu'ils apprennent qu'ils sont sélectionnés pour représenter leur unité dans un spectacle télévisé.
 
 - Me 11 oct 18h00 HL
@@ -249,6 +256,7 @@ Trois énergiques jeunes soldats, Luigi, Jerry et Mike, font leurs classes dans 
 de Raoul Walsh  
 États-Unis / 1951 / 88 min / VOSTF / 35 mm  
 Avec Kirk Douglas, Virginia Mayo, Walter Brennan.  
+Sur les sentiers de l'Ouest, l'escorte d'un prisonnier pourchassé par une bande armée qui veut sa peau. Pour son premier western, pétri de tension et de violence, Kirk Douglas affiche un beau charisme en _marshall_ attaché à l'ordre et à la justice.  
 Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un suspect, Keith, pour le meurtre du fils d'un rancher, Roden. Il amène l'homme à la ville pour que celui-ci fasse l'objet d'un procès équitable. Mais les hommes de Roden le traquent.
 
 - Je 7 sep 21h15 GF
@@ -259,6 +267,7 @@ Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un s
 de Raoul Walsh  
 États-Unis / 1937 / 87 min / VOSTF / 35 mm  
 Avec Douglas Fairbanks Jr., Valerie Hobson, Alan Hale.  
+En fuite à Londres, un _bootlegger_ américain, devenu cambrioleur, tombe amoureux d'une de ses victimes. Une romance policière, portée par le glamour du couple Douglas Fairbanks Jr. et Valerie Hobson.  
 Meurtrier involontaire, Ricky est poursuivi par un ami maitre-chanteur, Jim, qui à la suite d'une machination, lui ravit aussi sa fiancée.
 
 - Di 1 oct 17h45 HL  
@@ -270,6 +279,7 @@ Meurtrier involontaire, Ricky est poursuivi par un ami maitre-chanteur, Jim, qui
 de Raoul Walsh  
 États-Unis / 1943 / 93 min / VOSTF / 35 mm  
 Avec Errol Flynn, Julie Bishop, Helmut Dantine.  
+Espionnage et complot nazi dans le grand nord canadien. Inspirée du _49<sup>e</sup> Parallèle_ de Michael Powell, une aventure cousue main pour Eroll Flynn, rythmée par l'abordage spectaculaire d'un sous-marin de glace, de poursuites à ski et d'avalanches grandioses.  
 Des aviateurs allemands débarquent secrètement au Canada pour y saboter les voies de communication. A la suite d'une avalanche, tous sont tués sauf le chef, Von Keller, qui est capturé par la police.
 
 - Di 3 sep 19h00 HL
@@ -281,6 +291,7 @@ de Raoul Walsh
 États-Unis / 1935 / 76 min / VOSTF / 16 mm  
 D'après les histoires _Hahsit Babe_ et _Big Brown Eyes_ de James Edward Grant.  
 Avec Cary Grant, Joan Bennett, Walter Pidgeon.  
+Mêlant à merveille le polar et la _screwball comedy_, un joyau méconnu et l'un des rares films signé par Walsh. Sur la piste d'un réseau de voleurs de bijoux, le couple Joan Bennett-Cary Grant fait des étincelles, avec notamment un grand numéro de ventriloquie.  
 Dan Barr, gendarme, vit avec Eve Fallon, une manucure, depuis cinq ans, malgré leurs disputes fréquentes. Grâce à Eve, il parvient à pincer Cortig, un malfaiteurs qui a accidentellement tué un bébé dans le parc, à la suite d'une fusillade.
 
 - Sa 23 sep 16h45 GF
@@ -291,6 +302,7 @@ Dan Barr, gendarme, vit avec Eve Fallon, une manucure, depuis cinq ans, malgré 
 de Raoul Walsh  
 États-Unis / 1949 / 115 min / VOSTF / 35 mm  
 Avec James Cagney, Virginia Mayo, Edmond O'Brien.  
+Dix ans après _Les Fantastiques Années 20_, James Cagney retrouve Raoul Walsh pour un rôle à sa mesure : un chef de gang hargneux et paranoïaque, dont la brutalité des actes est sans cesse contrebalancée par la manifestation de ses faiblesses. En proie à d'effroyables crises de migraines et vouant une admiration sans borne à sa mère, Cody Jarrett est certainement l'une des figures de gangster les plus passionnantes du genre, qui permet à Cagney de littéralement enflammer l'écran dans un final époustouflant, parmi les scènes les plus belles et les plus marquantes de l'œuvre de Walsh.  
 Le gangster Cody Jarrett et ses complices attaquent un train en Californie. Pendant l'opération, quatre employés sont tués. La police est déterminée à retrouver les coupables et surveille la mère de Cody, à laquelle ce dernier voue une adoration pathologique. Un policier va tenter d'infiltrer le gang.
 
 - Me 30 aoû 20h00 HL  
@@ -302,6 +314,7 @@ Ouverture de la rétrospective
 de Raoul Walsh  
 États-Unis / 1947 / 104 min / VOSTF / 35 mm  
 Avec Edward G. Robinson, Marlene Dietrich, George Raft.  
+Ange noir de la fatalité, Marlene Dietrich déchaîne les passions et sème la discorde entre deux amis réparateurs de pylônes électriques. Tout en tension et rupture de tons, le film, qui s'attache à la classe ouvrière, doit sa réussite au trio d'acteurs et à une atmosphère orageuse saisissante.  
 Johnny Marshall et Hank McHenry sont deux amis réparateurs de lignes électriques à haute tension qui jouent chaque jour avec le feu face aux dangers de leur métier. Un soir, ils font la connaissance de Fay, une chanteuse de cabaret, qui sème le trouble dans leur amitié.
 
 - Sa 2 sep 19h30 HL
@@ -313,8 +326,8 @@ de Raoul Walsh
 États-Unis / 1940 / 90 min / VOSTF / 35 mm  
 D'après le roman _The Dark command_ de W.R. Burnett.  
 Avec John Wayne, Claire Trevor, Roy Rogers.  
-Vers 1860, dans le Kansas, deux hommes, l'un rustre et intègre et l'autre cultivé et sans scrupules, se disputent les faveurs d'une femme et le poste de shérif.  
-copie 35mm UCLA Film & Television Archive.
+Les prémisses de la Guerre de Sécession au Kansas, à travers la vie romancée de William Quantrill, instituteur et chef d'une bande armée qui sévit dans la région. L'un des plus gros succès de l'année 1940, emporté par le duel Walter Pidgeon/John Wayne, tout juste sorti de _La Chevauchée fantastique_.  
+Vers 1860, dans le Kansas, deux hommes, l'un rustre et intègre et l'autre cultivé et sans scrupules, se disputent les faveurs d'une femme et le poste de shérif.
 
 - Di 24 sep 16h45 HL
 
@@ -325,16 +338,18 @@ de Raoul Walsh
 États-Unis / 1957 / 125 min / VOSTF / 35 mm  
 D'après le roman _Band of angels_ de Robert Penn Warren.  
 Avec Clark Gable, Yvonne De Carlo, Sidney Poitier.  
-Au XIX° siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien veuf. Quand son père décède, un lourd secret remonte à la surface.
+À travers le récit d'une métisse qui découvre la condition d'esclave à la mort de son père, Walsh réalise une œuvre romanesque, évoquant de front la question du racisme à la veille de la Guerre de Sécession. L'adaptation du roman de Robert Penn Warren fournit au cinéaste une nouvelle occasion de décrire des personnages complexes, enchaînés à leur passé et devant faire face à l'ambiguïté de leur position. C'est aussi une histoire d'amour d'une tension érotique extrême, subtilement distillée par le couple Yvonne de Carlo-Clark Gable. Une réflexion à la fois tortueuse et sensuelle sur la liberté et sur cette période trouble de l'histoire américaine, injustement éclipsée par la popularité d'_Autant en emporte le vent_. Pour autant, _L'Esclave libre_ est un film plus fascinant.  
+Au XIXe siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien veuf. Quand son père décède, un lourd secret remonte à la surface.
 
 - Me 6 sep 19h00 HL
 
 [37834]  
-**Esther et le roi**  
+**Esther et le Roi**  
 **(Ester e il re)**  
 de Raoul Walsh, Mario Bava  
 Italie-États-Unis / 1960 / 108 min / VOSTF / 35 mm  
 Avec Joan Collins, Richard Egan, Denis O'Dea.  
+Romance, complot, meurtres et trahisons, un péplum biblique tourné à Cinecittà, réalisé pour la 20th Century Fox, dans la foulée des retentissants _Dix Commandements_ et _Ben-Hur_. Mario Bava en signe les lumières et la version italienne.  
 Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l'égide de son premier ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune juive, Esther.
 
 - Lu 18 sep 20h15 GF
@@ -345,6 +360,7 @@ Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier 
 de Raoul Walsh  
 États-Unis / 1927 / 95 min  
 Avec Gloria Swanson, Lionel Barrymore, Raoul Walsh.  
+D'après le récit de Somerset Maugham, un chef-d'œuvre muet de Walsh, explorant les thèmes de la moralité, du refoulement sexuel et de la rédemption dans une atmosphère aussi poisseuse que pesante. Raoul Walsh y tient un des principaux rôles masculins.  
 Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion de refaire sa vie. Sur cette île du Pacifique, le puritain Davidson ne lui laisse aucun répit et menace de la dénoncer et de la renvoyer à San Francisco où elle risque la prison.
 
 - Di 8 oct 19h15 GF
@@ -355,6 +371,7 @@ Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion
 de Raoul Walsh  
 États-Unis / 1939 / 106 min / VOSTF / 35 mm  
 Avec James Cagney, Priscilla Lane, Humphrey Bogart.  
+Un modèle de film de gangsters et de l'Amérique de la Prohibition. Exploitant génialement les physionomies, le jargon et le climat d'une époque, Walsh oppose deux visages de criminels, antihéros fiévreux et pathétique d'un côté, froid et cynique de l'autre, incarnés par Cagney et Bogart, magnifiques. Premier film de Walsh pour la Warner Bros.  
 Trois soldats américains qui ont combattu en France pendant la Première Guerre mondiale se séparent et retournent à la vie civile. La prohibition va de nouveau les réunir pour le meilleur et pour le pire.
 
 - Ve 1 sep 18h00 HL
@@ -365,6 +382,7 @@ Trois soldats américains qui ont combattu en France pendant la Première Guerre
 de Raoul Walsh  
 États-Unis / 1933 / 92 min / VOSTF / 35 mm  
 Avec George Raft, Wallace Beery, Jackie Cooper.  
+Plongée truculente dans les bas quartiers de New York au tournant du siècle. Rivalité et camaraderie sont au centre de cette fresque haute en couleurs, où chaque menu fait divers se transforme en épopée des faubourgs du peuple yankee.  
 Chuck Connors règne en maître sur le quartier Bowery. Chef de la brigade de pompiers, il possède également la plus grande brasserie. En concurrence permanente avec Steve, ils se disputent la suprématie du quartier.
 
 - Di 24 sep 18h45 HL
@@ -375,6 +393,7 @@ Chuck Connors règne en maître sur le quartier Bowery. Chef de la brigade de po
 de Bretaigne Windust, Raoul Walsh  
 États-Unis / 1950 / 88 min / VOSTF / DCP  
 Avec Humphrey Bogart, Zero Mostel, Ted De Corsia.  
+Dans un jeu de flashbacks imbriqués, une enquête reconstituée visant à faire tomber le chef d'une bande du crime organisé. Sublimé par l'utilisation d'un clair-obscur constant, un modèle de film noir à la mise en scène implacable, notamment dans son ouverture et son final, d'une brutalité remarquable.  
 Un policier tente de protéger un témoin capital avant un procès. Celui-ci est traqué par des tueurs à gages.
 
 - Ve 29 sep 20h00 HL
@@ -385,6 +404,7 @@ Un policier tente de protéger un témoin capital avant un procès. Celui-ci est
 de Raoul Walsh  
 États-Unis / 1937 / 87 min / VOSTF / 35 mm  
 Avec Lily Pons, Jack Oakie, John Howard.  
+De Paris à Manhattan en passant par la jungle africaine, les débuts d'une chanteuse de cabaret qui rêve d'une carrière à l'Opéra. La soprano française Lily Pons, à la voix d'oiseau, dans une comédie musicale exotique et doucement loufoque.  
 Suzanne, une jeune chanteuse de cabaret rêve de devenir une grande et vraie chanteuse d'opéra. Pour l'aider, son agent monte un subterfuge
 
 - Lu 6 nov 18h30 GF
@@ -397,6 +417,7 @@ de Raoul Walsh
 D'après le roman _High Sierra_ et le scénario du film éponyme de W.R. Burnett.  
 D'après le film _High Sierra_ de Raoul Walsh.  
 Avec Dorothy Malone, Joel McCrea, Virginia Mayo.  
+Avec _La Fille du désert_, Walsh réalise un remake de son propre film, _La Grande Évasion_, sorti huit ans plus tôt. Il en fait un western cosmique aux accents « noir », qui vaut autant pour ses superbes chevauchées, attaques de train et de diligence, que pour son versant psychologique tourné vers la trahison et la fatalité. Dans le rôle de Wes McQueen, pilleur de chemin de fer, évadé de prison, Joel McCrea porte la classe de son héros. Cavalier hors pair, solitaire et sentimental, il rêve de raccrocher le pistolet en s'offrant les bénéfices d'un dernier exploit. S'ensuit une traque, à laquelle ni lui ni sa compagne de planque, l'ardente Virginia Mayo, ne pourront échapper. Sec, tranchant et désespéré, le récit d'une impossible quête de rédemption, aussi tragique que palpitante.  
 En 1870, dans une Amérique en voie de pacification, le hors-la-loi Wes McQueen parvient à s'évader de prison et à rejoindre ses complices avec qui il projette de braquer un train.
 
 - Ve 8 sep 20h15 HL
@@ -407,6 +428,7 @@ En 1870, dans une Amérique en voie de pacification, le hors-la-loi Wes McQueen 
 de Raoul Walsh  
 États-Unis / 1925 / 90 min / INT. FR. / 35 mm  
 Avec Wallace Beery, Greta Nissen, William Collier Jr..  
+Inspirée de la parabole biblique, une importante production Paramount aux décors fastueux. Entre autres (futures) stars du muet qui composent le casting, Greta Nissen interprète la vénérable prêtresse d'Ishtar pour son premier grand rôle à Hollywood, tandis que Myrna Loy danse parmi les figurantes.  
 Jether, un berger, est attiré par Tisha, prêtresse d'Ishtar. Il se rend à Babylone et y dilapide son héritage en couvrant Tisha de cadeaux et en vivant une vie dissolue.
 
 - Je 31 aoû 20h30 GF
@@ -417,6 +439,7 @@ Jether, un berger, est attiré par Tisha, prêtresse d'Ishtar. Il se rend à Bab
 de Raoul Walsh  
 États-Unis / 1948 / 96 min / VOSTF / 16 mm  
 Avec Robert Stack, Edmond O'Brien, Rock Hudson.  
+Les exploits d'une escadrille de bombardiers américains pendant la Deuxième Guerre mondiale. Combinant habilement scènes de fiction et extraits d'actualité de l'US Air Force, l'unique film d'aviation de Walsh est aussi sa première production en couleurs (Technicolor) et marque les débuts discrets de Rock Hudson à l'écran.  
 1943\. Une base américaine en Angleterre. Un pilote virtuose et indiscipliné devient chef d'escadron. Les missions de bombardement se succèdent en attendant le débarquement en Normandie.
 
 - Je 14 sep 18h00 HL
@@ -427,17 +450,19 @@ de Raoul Walsh
 États-Unis / 1942 / 104 min / VOSTF / 35 mm  
 D'après l'ouvrage _The Roar of the Crowd_ de James J. Corbett.  
 Avec Errol Flynn, Alexis Smith, Alan Hale.  
+L'histoire d'une irrésistible ascension, celle de James Corbett, modeste employé de banque des faubourgs de San Francisco, qui parvient à intégrer le club athlétique des milieux huppés. Pour l'interpréter, Walsh fait appel à l'un de ses acteurs fétiches. Silhouette agile, débordant de fougue et d'aplomb, Errol Flynn revêt l'habit du champion de boxe avec un naturel d'élégance et d'arrogance mêlées, aussi à l'aise sur un ring que dans les salons de la haute société. Dans un exaltant ballet viril, Walsh filme le mouvement des corps avec autant de suspense que d'humour, donnant à voir autant d'uppercuts que d'esquives amoureuses, capable d'égratigner la société américaine tout en livrant le plus beau film sur l'art pugilistique.  
 Jim veux tout très vite : être à la fois champion de boxe, grand acteur shakespearien et surtout épouser la fille de son patron. Les entraînements, les matchs fougueux, la vie à toute vitesse sauront lui apprendront à changer.
 
 - Di 3 sep 16h45 HL
 
 [36814]  
-**La Grande évasion**  
+**La Grande Évasion**  
 **(High Sierra)**  
 de Raoul Walsh  
 États-Unis / 1940 / 99 min / VOSTF / 35 mm  
 D'après le roman _High Sierra_ de W. R. Burnett.  
 Avec Ida Lupino, Humphrey Bogart, Alan Curtis.  
+Avec Roy Earle, célèbre gangster chargé d'organiser un nouveau casse à sa sortie de prison, Humphrey Bogart sublime la figure du loser magnifique. Walsh l'éloigne de la ville – et par-là même du cadre du film noir –, pour lui faire traverser les grands espaces qu'il affectionne. Une sierra éclatante de soleil, cadre originel du western, où l'ennemi public devient un hors-la-loi romantique, à la recherche d'une nature providentielle. Avec Ida Lupino, il forme le couple walshien par excellence, épris de quiétude et de liberté, dans l'impossibilité pourtant d'échapper au destin. Deux héros condamnés que le cinéaste transposera quelques années plus tard dans un remake, _La Fille du désert_. Forcément, un western.  
 Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de prison. Celui-ci, devenu son débiteur, accepte de participer à ce hold-up qui doit les rendre riches, mais croise la route de la belle Velma.
 
 - Ve 1 sep 20h15 HL
@@ -447,7 +472,8 @@ Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de pr
 de Raoul Walsh  
 États-Unis / 1943 / 80 min / VOSTF / 35 mm  
 Avec Jack Benny, Alexis Smith, Dolores Moran.  
-Un trompettiste arrivant au Paradis est chargé par le chef des anges de détruire la Terre en soufflant dans une trompette spéciale.
+Un trompettiste rêve qu'il est un ange envoyé sur Terre afin d'y sonner la fin du monde à minuit. Paradis bureaucratique, ascenseur céleste et tasse à café géante donnent à cette fantaisie un ton burlesque et surréaliste réjouissant, le tout orchestré par Jack Benny, vedette de radio et humoriste préféré d'un certain Benny Hill, qui lui empruntera son nom.  
+Un trompettiste rêve qu'il est chargé par le chef des anges de jouer le signal de l'Apocalypse à minuit.
 
 - Di 5 nov 18h30 GF
 
@@ -457,6 +483,7 @@ Un trompettiste arrivant au Paradis est chargé par le chef des anges de détrui
 de Raoul Walsh  
 États-Unis / 1931 / 85 min / VOSTF / 16 mm  
 Avec Janet Gaynor, Charles Farrell, Kenneth MacKenna.  
+Le couple de stars, Janet Gaynor et Charles Farrell, bravant les obstacles de San Francisco à Shanghaï. Une romance exotique, qui vaut pour sa scène de fumerie d'opium, particulièrement réussie  
 Un fils de famille alcoolique et une chanteuse de cabaret s'aiment en depit de toute sorte d'obstacles.
 
 - Sa 14 oct 15h30 GF
@@ -467,6 +494,7 @@ Un fils de famille alcoolique et une chanteuse de cabaret s'aiment en depit de t
 de Raoul Walsh  
 États-Unis / 1955 / 122 min / VOSTF / 35 mm  
 Avec Clark Gable, Jane Russell, Robert Ryan.  
+Produit par le frère de Howard Hawks pour la Twentieth Century Fox, dans un impressionnant CinémaScope, l'acheminement d'un troupeau de bétail par quatre hommes et une ambitieuse pionnière. Les paysages grandioses exhalent le goût de l'aventure qui mène au bonheur spirituel de ses héros. Première rencontre filmique entre Walsh et Clark Gable, dont le cinéaste fera une sorte de double.  
 Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement ruinés. Un homme leur propose alors un marché : conduire un immense troupeau du Texas au Montana pour en partager les bénéfices.
 
 - Di 17 sep 18h00 HL
@@ -478,6 +506,7 @@ de Raoul Walsh
 États-Unis / 1942 / 80 min / VOSTF / 35 mm  
 D'après le roman _Background to Danger_ d'Eric Ambler.  
 Avec George Raft, Brenda Marshall, Sydney Greenstreet.  
+Dans le prolongement du succès de _Casablanca_ de Curtiz, une plongée, adapté d'un roman d'Eric Ambler, dans le monde interlope des trafics d'Ankara, où un espion américain tente d'empêcher le ralliement de la Turquie à l'Allemagne nazie.  
 A Ankara, pendant la Seconde Guerre Mondiale, un agent américain tente d'empêcher une alliance entre la Turquie et l'Allemagne.
 
 - Me 13 sep 18h00 HL
@@ -487,6 +516,7 @@ A Ankara, pendant la Seconde Guerre Mondiale, un agent américain tente d'empêc
 de Raoul Walsh  
 États-Unis / 1922 / 92 min / INT. FR. / 35 mm  
 Avec Lionel Barrymore, Miriam Cooper, Ralph Graves.  
+Le réalisateur met en vedette son épouse, l'actrice Miriam Cooper, dans le rôle d'une femme victime d'un mari bigame. Un drame sentimental, l'un des plus vieux films muets de Walsh encore visible.  
 Une orpheline retourne chez elle dans une petite ville du nord-ouest du Pacifique après un mariage raté et avec un fils en bas âge.
 
 - Me 4 oct 19h45 JE
@@ -496,6 +526,7 @@ Une orpheline retourne chez elle dans une petite ville du nord-ouest du Pacifiqu
 de Raoul Walsh  
 États-Unis / 1927 / 98 min / INT. FR. / DCP  
 Avec Dolores del Río, Don Alvarado, Victor McLaglen.  
+Dolores Del Rio incarne la gitane espagnole, toute en sensualité exotique. L'atmosphère lumineuse de chaque tableau, rythmé par d'audacieux mouvements de caméra, fait de cette version de la nouvelle de Mérimée l'une des plus réussies du cinéma muet.  
 Seconde adaptation par Walsh de la nouvelle de Merimee.  
 Restauré par le MoMA avec le soutien de la Film Foundation.
 
@@ -506,6 +537,7 @@ Restauré par le MoMA avec le soutien de la Film Foundation.
 de Raoul Walsh  
 États-Unis / 1926 / 60 min / INT. FR. / 16 mm  
 Avec Greta Nissen, Lionel Barrymore, William Collier Jr..  
+Star des années 1920, Greta Nissen déploie ses charmes pour déjouer les plans d'un mariage arrangé. Une comédie légère, dans l'univers d'une principauté d'opérette et de ses casinos.  
 Le premier Ministre Franz Garletz veut faire marier la Princesse Antoinette avec le Comte Ferranzo. Antoinette, élève dans un couvent, sort clandestinement le soir pour aller voir les spectacles à l'auberge locale. Elle y commence à flirter avec Clarke, un jeune touriste américain.
 
 - Sa 7 oct 15h00 GF
@@ -516,6 +548,7 @@ de Raoul Walsh
 États-Unis / 1946 / 96 min / VOSTF / 16 mm  
 D'après le roman _Night Shift_ de Maritta Wolff.  
 Avec Ida Lupino, Robert Alda, Andrea King.  
+Entre polar et romance musicale, un mélo d'une rare modernité féministe qui relate l'histoire d'une chanteuse de bar new-yorkaise, partie rompre sa solitude dans les night-clubs de L.A. L'une des inspirations de Martin Scorsese pour _New York, New York_.  
 Une chanteuse de night-club retourne dans sa famille et découvre la déchéance dans laquelle sont tombés son frère, compromis avec des gangsters, et un pianiste qu'elle admirait et dont elle tombe amoureuse.
 
 - Sa 16 sep 21h00 HL
@@ -525,6 +558,7 @@ Une chanteuse de night-club retourne dans sa famille et découvre la déchéance
 de Raoul Walsh  
 États-Unis / 1961 / 98 min / VOSTF / DCP  
 Avec Tom Tryon, David Hedison, Tom Reese.  
+Pour son avant-dernier film, Walsh écrit et produit une comédie sur fond de guerre de Corée. Un mélange des genres qui suit un groupe de GIs s'encanaillant à Tokyo, avant de partir au front.  
 Pendant la guerre de Corée, trois Marines, bénéficiant d'une permission au Japon, vivent diverses aventures sentimentales, avant d'être rappelés au front.
 
 - Me 11 oct 20h00 HL
@@ -535,6 +569,7 @@ Pendant la guerre de Corée, trois Marines, bénéficiant d'une permission au Ja
 de Raoul Walsh  
 États-Unis / 1932 / 79 min / VOSTF / DCP  
 Avec Spencer Tracy, Joan Bennett, George Chandler.  
+Dans un univers référentiel tissé autour de Broadway et du cinéma muet, une joyeuse comédie policière qui arbore d'hilarants attributs pré-code et de belles idées sonores, insufflées par les débuts du parlant.  
 Dan, un jeune policier new-yorkais, est amoureux d'une serveuse, mais la sœur de cette dernière est la maitresse d'un gangster.  
 Conservé par le MoMA,. Restauration numérique soutenue par 20th Century Fox.
 
@@ -546,6 +581,7 @@ Conservé par le MoMA,. Restauration numérique soutenue par 20th Century Fox.
 de Raoul Walsh  
 États-Unis / 1952 / 104 min / VOSTF / 35 mm  
 Avec Anthony Quinn, Gregory Peck, Ann Blyth.  
+Entre San Francisco et l'Alaska, les péripéties sentimentales et maritimes d'un chasseur de phoque, prêt à provoquer en duel le protégé du Tsar pour l'amour d'une comtesse russe. Multipliant les antagonismes, Walsh s'amuse autant à railler la société de classes qu'à dépeindre une galerie de personnages aussi truculents que la bande de bourlingueurs des mers ou que des filles de joie. Au rythme de courses de voiliers, de bagarres et de bras de fer d'anthologie, Grégory Peck et Anthony Quinn campent un duo d'ennemis inséparables, comme Walsh les aime, dans une véritable ode à la mer et aux éléments déchaînés.  
 Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper à un mariage avec le Prince Semyon, un prétendant imposé par le tsar.
 
 - Sa 9 sep 18h00 HL
@@ -577,6 +613,7 @@ de Raoul Walsh
 États-Unis / 1958 / 131 min / VOSTF / 35 mm  
 D'après le roman _Les Nus et les morts_ de Norman Mailer.  
 Avec Aldo Ray, Cliff Robertson, Raymond Massey.  
+Le plus beau film de guerre de Walsh, tiré du roman de Norman Mailer paru dix ans plus tôt. Une réflexion sur l'univers militaire, les méthodes de commandement, les jeux de pouvoir et la brutalité et la morale. Avec un réalisme effroyable, le film rend compte de l'inhumanité des conflits, au plus près des corps harassés et des esprits malmenés. Un constat terrible, mais dans une profusion de plans homériques, de paysages luxuriants, où se déchaînent excès et transgressions. Une fresque sauvage, et un héros inoubliable, l'impitoyable sergent Croft (génial Aldo Ray), qui incarne toute l'ambiguïté de la nature humaine.  
 En pleine guerre du Pacifique, un lieutenant s'oppose à la brutalité cynique d'un sous-officier particulièrement féroce.
 
 - Sa 23 sep 19h30 HL
@@ -586,6 +623,7 @@ En pleine guerre du Pacifique, un lieutenant s'oppose à la brutalité cynique d
 de Raoul Walsh  
 États-Unis / 1948 / 90 min / VOSTF / 16 mm  
 Avec Dorothy Malone, Dennis Morgan, Janis Paige.  
+Un dentiste tient sous sa fraise l'homme qui l'a envoyé jadis en prison. Sous ses airs de film noir, une comédie chantée, qui reprend l'intrigue de _Strawberry Blonde_, réalisé par Walsh sept ans plus tôt.  
 Un jeune homme bagarreur voit la femme qu'il aime se marier avec son meilleur ami.
 
 - Lu 6 nov 20h30 GF
@@ -596,6 +634,7 @@ de Raoul Walsh, George Nicholls
 États-Unis / 1915 / 52 min / INT. FR. / 35 mm  
 D'après la pièce _Samfundets Stotter_ de Henrik Ibsen.  
 Avec Henry B. Walthall, Mary Alden, Juanita Archer.  
+Bien avant la version allemande de Douglas Sirk (1935), cette adaptation de la pièce d'Ibsen déroule un enchevêtrement de drames familiaux, évoquant avec sarcasme les petits arrangements de la bourgeoisie rongée par l'hypocrisie et le mensonge.  
 Un armateur, dont la fortune est due au mensonge et a la duplicité, fait l'objet d'un chantage.
 
 - Je 31 aoû 18h30 GF
@@ -606,6 +645,7 @@ Un armateur, dont la fortune est due au mensonge et a la duplicité, fait l'obje
 de Raoul Walsh  
 États-Unis / 1930 / 125 min / VOSTF / 35 mm  
 Avec John Wayne, Robert Parrish, Marguerite Churchill.  
+Dans son premier grand rôle, John Wayne prend la tête d'un convoi de colons vers les riches plaines de l'Ouest. Tournées avec le nouveau procédé Fox Grandeur, en prise de son directe, les scènes d'ensemble monumentales confèrent au spectacle une incroyable authenticité, confrontant les mythes fondateurs de la nation américaine à l'aventure individuelle.  
 Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
 
 - Sa 16 sep 18h30 HL  
@@ -616,6 +656,7 @@ Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'appr
 de Raoul Walsh  
 États-Unis / 1915 / 72 min / INT. FR. / DCP  
 Avec John McCann, James A. Marcus, Maggie Weston.  
+Chef-d'œuvre inaugural de la carrière de Walsh (le plus ancien encore visible), _The Regeneration_ est aussi la matrice des films de gangster des années 30. Restituant la vie quotidienne des quartiers pauvres du Bowery à New York – avec ses véritables gueules de brutes recrutées sur place –, l'histoire suit le destin d'un orphelin, devenu chef de gang, qui choisit la voie du repentir par amour pour une travailleuse sociale. Au moyen de plans spectaculaires et d'un montage parallèle emprunté à Griffith, Walsh dévoile tout son génie et signe une séquence d'anthologie : l'incendie d'un bateau transportant une centaine de passagers. Tout Scorsese est déjà là.  
 Orphelin à l'âge de 10 ans, Owen est recueilli par ses voisins violents. Cherchant à fuir ces derniers qui l'exploitent, Owen erre sur les docks de New York et devient chef de gang à 25 ans.
 
 - Di 24 sep 14h30 GF
@@ -626,6 +667,7 @@ Orphelin à l'âge de 10 ans, Owen est recueilli par ses voisins violents. Cherc
 de Raoul Walsh  
 États-Unis / 1935 / 72 min / VOSTF / 16 mm  
 Avec Edmund Lowe, Victor McLaglen, Florence Rice.  
+Chronique sous-tension de la construction de souterrains new-yorkais. Walsh y montre la vie de ceux qui œuvrent à l'édification des villes étatsuniennes jusqu'à l'obsession et l'épuisement, livrant un traité de rivalité virile et d'héroïsme dérisoire.  
 Shocker et Jumbo travaillent comme ouvriers sur un tunnel qui relie Brooklyn à Manhattan. Ils s'éprenent tous les deux de Pat, la belle journaliste, entre eux commence une compétition à toute épreuve.
 
 - Sa 30 sep 18h30 HL
@@ -636,16 +678,18 @@ Shocker et Jumbo travaillent comme ouvriers sur un tunnel qui relie Brooklyn à 
 de Raoul Walsh  
 États-Unis / 1948 / 110 min / VOSTF / 35 mm  
 Avec Errol Flynn, Ann Sheridan, Thomas Mitchell.  
+Archétype du héros athlétique, drôle et séduisant, Errol Flynn ajoute une nouvelle corde à son arc, en ex-officier de l'armée dégradé, devenu homme d'affaires arriviste et cynique. Une réflexion sur le système capitaliste américain et les ambiguïtés de l'individualisme, qui clôt la collaboration (riche de sept films) entre l'acteur et le réalisateur.  
 Lors de la guerre de Sécession, le capitaine nordiste Mike McComb est injustement renvoyé de l'armée. Il se rend alors dans l'Ouest où il se lance dans les affaires en construisant petit à petit une fortune, puis un empire, grâce à sa clairvoyance et surtout à son manque total de scrupules.
 
 - Ve 8 sep 18h00 HL
 
 [36825]  
-**Le Roi et quatre reines**  
+**Le Roi et Quatre Reines**  
 **(The King and Four Queens)**  
 de Raoul Walsh  
 États-Unis / 1956 / 86 min / VOSTF / 35 mm  
 Avec Clark Gable, Eleanor Parker, Barbara Nichols.  
+Gorgé de gags irrévérencieux, _Le Roi et Quatre Reines_ tient autant du western que de la comédie. Au cœur d'un gynécée implacable, Clark Gable joue le roi irrésistible d'une partie de chasse au trésor et d'un jeu de séduction aussi sensuel que cynique.  
 Dan Kehoe est recueilli pour une femme qui l'a blessé d'un coup de fusil. Les quatre belles filles de celle-ci, veuves, s'intéressent au blessé qui lui cherche à dérober le butin d'un hold up, caché dans un
 
 - Me 20 sep 18h00 HL
@@ -656,6 +700,7 @@ Dan Kehoe est recueilli pour une femme qui l'a blessé d'un coup de fusil. Les q
 de Raoul Walsh  
 États-Unis / 1951 / VO / 16 mm  
 Avec Leslie Caron, Louis Armstrong, Gilbert Roland.  
+Dans l'atmosphère nocturne de La Nouvelle-Orléans, les tourments d'un boxeur résolu à raccrocher les gants permettent à Ralph Meeker de s'illustrer dans la figure walshienne du paria. Passant pour un orgueilleux et un lâche, le héros déchu part se racheter une gloire en allant combattre en Corée. Des pas de danse de la petite amie française (Leslie Caron) aux trognes d'un vieux grincheux aveugle (Kurt Kasznar) et de son guide plein de sagesse (Louis Armstrong), la caméra de Walsh swingue d'une ambiance à l'autre, dans un mélange des genres qui sait aussi bien traduire le climat délétère d'un cabaret que le drame d'un homme en proie aux démons œdipiens.  
 À La Nouvelle-Orléans, Socks Barbarossa, un jeune boxeur, combat pour un titre de champion mais quitte soudainement le ring, sans explication.
 
 - Ve 29 sep 18h00 HL
@@ -666,6 +711,7 @@ Avec Leslie Caron, Louis Armstrong, Gilbert Roland.
 de Raoul Walsh  
 États-Unis / 1945 / 100 min / VOSTF / 16 mm  
 Avec Alan Ladd, Gail Russell, William Demarest.  
+Incursion de Walsh dans un univers qui lui est familier, celui des courses hippiques. Un polar rythmé qui met en scène Alan Ladd dans la peau d'un petit escroc qui élabore un stratagème autour d'un cheval fougueux pour rembourser sa dette.  
 Parieur invétéré, Salty O'Rourke a amoncelé les dettes auprès du mafieux Doc Baxter qui lui donne trente jours pour le rembourser. Salty a une solution : acheter un cheval, trouver un jockey et gagner une course
 
 - Di 5 nov 20h15 GF
@@ -676,6 +722,7 @@ Parieur invétéré, Salty O'Rourke a amoncelé les dettes auprès du mafieux Do
 de Raoul Walsh  
 États-Unis / 1942 / 107 min / VOSTF / 35 mm  
 Avec Errol Flynn, Ronald Reagan, Arthur Kennedy.  
+Les péripéties et les actes de bravoure d'un groupe d'aviateurs alliés dans l'Allemagne nazie. Emmené par les vigoureux Errol Flynn et Ronald Reagan, un classique du film de guerre, sorti en 1942, destiné à remonter le moral des troupes durant la Seconde Guerre mondiale. Du Alexandre Dumas antinazi.  
 Lors de la Deuxième Guerre mondiale, l'équipage d'un bombardier de la R.A.F. est abattu au-dessus de l'Allemagne. Les cinq rescapés s'organisent et se mettent à la recherche d'un avion pour rentrer en Angleterre.
 
 - Di 3 sep 14h30 HL
@@ -686,6 +733,7 @@ Lors de la Deuxième Guerre mondiale, l'équipage d'un bombardier de la R.A.F. e
 de Raoul Walsh  
 États-Unis / 1944 / 102 min / VOSTF / 16 mm  
 Avec Errol Flynn, Paul Lukas, Jean Sullivan.  
+Plus qu'un film de guerre, un film noir sur fond d'occupation allemande, qui suit, dans la France de 1943, le face à face tendu entre un repris de justice et l'inspecteur qui le ramène à Paris. Aux côtés de l'excellent Paul Lukas, Errol Flynn campe l'un de ses personnages les plus ambigus, naviguant entre égoïsme et rédemption.  
 Pendant la Seconde Guerre mondiale, un criminel évadé et un policier sont coincés dans un village dont les habitants ont été pris en otages par les Allemands.
 
 - Je 28 sep 20h30 GF
@@ -695,6 +743,7 @@ Pendant la Seconde Guerre mondiale, un criminel évadé et un policier sont coin
 de Raoul Walsh  
 États-Unis / 1939 / 90 min / VOSTF / 16 mm  
 Avec Dorothy Lamour, Lloyd Nolan, Jerome Cowan.  
+Dorothy Malone joue les vedettes de Broadway, trouvant refuge dans la troupe d'un show-boat sur le Mississippi. Une croisière qui file au rythme des péripéties romantiques et des numéros chantés, dont un célèbre standard de blues, popularisé par Bessie Smith et Louis Armstrong.  
 Une chanteuse de Broadway fuit son imprésario qui la force à se déshabiller et rejoint un showboat sur le Mississipi.
 
 - Me 1 nov 18h30 HL
@@ -705,6 +754,7 @@ Une chanteuse de Broadway fuit son imprésario qui la force à se déshabiller e
 de Raoul Walsh  
 États-Unis / 1927 / 63 min / INT. FR.  
 Avec Olive Borden, Jacques Lerner, Don Alvarado.  
+Œuvre rescapée du muet, une curiosité de Walsh située dans le monde du spectacle forain. Le récit de la rencontre d'une funambule avec un acrobate se faisant passer pour un singe qui parle doit son origine au dramaturge français, René Fauchois, l'auteur de _Boudu sauvé des eaux_.  
 Trois forains sans scrupules obligent un nain à se déguiser en singe parlant.  
 Film incomplet.
 
@@ -715,6 +765,7 @@ Film incomplet.
 de Raoul Walsh  
 États-Unis / 1936 / 78 min / VOSTF / 16 mm  
 Avec Pat Paterson, Mary Brian, George Barbier.  
+Les débuts de Henry Fonda dans le rôle d'un amateur de polo mondain qui tombe dans les bras d'une aventurière malhonnête. Une comédie qui se moque des riches oisifs et de leur entourage cupide.  
 Un héritier, qui a dilapidé toute sa fortune dans la pratique de sports de luxe, épouse une aventurière se faisant passer pour la fille d'un millionnaire.
 
 - Di 15 oct 19h15 GF
@@ -725,6 +776,7 @@ Un héritier, qui a dilapidé toute sa fortune dans la pratique de sports de lux
 de Raoul Walsh  
 États-Unis / 1929 / 118 min / VOSTF / 16 mm  
 Avec Edmund Lowe, Victor McLaglen, Lili Damita.  
+Walsh réunit les deux soldats d'_Au service de la gloire_ dans la suite de leurs aventures militaires et amoureuses à travers le monde. McLaglen et Lowe resigneront pour une troisième partie, _Women of All Nations_, après ce succès retentissant.  
 Deux marines envoyés dans les îles se battent pour les yeux d'une belle Haïtienne.
 
 - Sa 7 oct 20h15 GF
@@ -735,6 +787,7 @@ Deux marines envoyés dans les îles se battent pour les yeux d'une belle Haïti
 de Raoul Walsh  
 États-Unis / 1940 / 98 min / VOSTF / 35 mm  
 Avec James Cagney, Olivia De Havilland, Rita Hayworth.  
+À partir d'une rage de dent qui ravive les souvenirs d'un dentiste fraîchement sorti de prison, Walsh dégaine une comédie spirituelle, où se croisent arrivistes sans scrupule, blonde coquette et brune suffragette. Une satire du rêve américain, portée par un casting merveilleusement piquant, avec un James Cagney particulièrement survolté.  
 Biff est amoureux de Virginia qui lui préfère son ami Hugo. Ce dernier rend Biff responsable d'un accident qui l'envoie en prison.
 
 - Me 1 nov 20h30 HL
@@ -746,6 +799,7 @@ de Raoul Walsh
 États-Unis / 1953 / 87 min / VOSTF / 16 mm  
 D'après le roman _A Lion Is in the Streets_ d'Adria Locke Langley.  
 Avec James Cagney, Lon Chaney Jr., Barbara Hale.  
+Dans l'Amérique profonde des bayous, le charismatique James Cagney en défenseur acharné des exploités au service de son ambition. Walsh démonte les rouages d'une ascension irrésistible, pointant du doigt le sectarisme et la politique populiste, d'après la vie du politicien véreux, Huey Long.  
 L'ascension et la chute d'un politicien démagogue du Sud.
 
 - Je 14 sep 20h15 HL
@@ -757,6 +811,7 @@ de Raoul Walsh
 États-Unis / 1940 / 93 min / VOSTF / 35 mm  
 D'après le roman _Long Haul_ d'A.I. Bezzerides.  
 Avec George Raft, Ann Sheridan, Humphrey Bogart.  
+Évocation de la _working class_ des années de crise, à travers l'histoire de deux frères, chauffeurs routiers, le film bascule brusquement dans le drame sentimental et judiciaire. La jeune Ida Lupino réussit en beauté son entrée à la Warner et en devient une nouvelle icône.  
 Le dirigeant d'une entreprise de transport est accusé d'assassinat par la femme d'un de ses concurrents retrouvé mort.
 
 - Sa 2 sep 14h30 HL
@@ -767,6 +822,7 @@ Le dirigeant d'une entreprise de transport est accusé d'assassinat par la femme
 de Raoul Walsh  
 États-Unis / 1947 / VOSTF / DCP  
 Avec Robert Mitchum, Teresa Wright, Alan Hale.  
+La névrose parentale est au centre de _La Vallée de la peur_, western psychanalytique que le réalisateur voit « comme une histoire de fantômes ». Adoptant le ton tranchant de la tragédie, dans un décor d'ombres et de contre-jours, il offre à Robert Mitchum un rôle de cow-boy hanté par les réminiscences d'un traumatisme enfoui. Dans cette lutte éternelle de l'homme contre son passé, le film tente d'en reconstituer les pièces à coups de flashbacks et d'envolées lyriques, que la musique de Max Steiner transportent au-delà d'une simple histoire de violence et de vengeance. Vers un tragique onirique.  
 Au Nouveau-Méxique, Medora Callum recueille Jeb Rand, un jeune enfant dont le père vient d'être assassiné, et l'élève avec ses deux propres enfants. Ceux-ci devenus adultes, elle veut partager ses biens en trois parts égales. Le passé rattrape bientôt Jeb Rand.
 
 - Sa 9 sep 20h30 HL
@@ -777,6 +833,7 @@ Au Nouveau-Méxique, Medora Callum recueille Jeb Rand, un jeune enfant dont le p
 de Raoul Walsh  
 États-Unis / 1953 / 82 min / VOSTF / 35 mm  
 Avec Rock Hudson, Julie Adams, Mary Castle.  
+À travers le portrait romancé de John Wesley Hardin, légende du Far West qui commit de nombreux meurtres au lendemain de la guerre de Sécession, Walsh s'interroge : le criminel peut-il changer et sortir de l'engrenage de la violence ? Avec Rock Hudson, à l'aube de la célébrité.  
 Un homme est victime des ennuis provoqués par son tempérament aventureux et son habilité au pistolet.
 
 - Ve 15 sep 20h00 HL
@@ -786,6 +843,7 @@ Un homme est victime des ennuis provoqués par son tempérament aventureux et so
 de Raoul Walsh  
 États-Unis / 1932 / 74 min / VOSTF / DCP  
 Avec Joan Bennett, Charles Farrell, Ralph Bellamy.  
+Parmi les trésors méconnus de Walsh, les aventures de Salomy Jane et de ses compagnons, parias et marginaux, trouvant refuge dans les forêts profondes de la Sierra Nevada. Inspiré de Bret Harte, connu pour ses écrits sur les pionniers du Far West, une célébration des esprits libres et de la nature sauvage comme dernier sanctuaire.  
 Une jeune fille s'enfuit avec le meurtrier du séducteur de sa sœur.
 
 - Sa 14 oct 19h30 GF
@@ -795,6 +853,7 @@ Une jeune fille s'enfuit avec le meurtrier du séducteur de sa sœur.
 de Raoul Walsh  
 États-Unis / 1931 / 72 min / VOSTF / 35 mm  
 Avec Edmund Lowe, Victor McLaglen, Greta Nissen.  
+Les tribulations des soldats Flagg et Quirt, dans un deuxième _sequel_ d'_Au service de la gloire_. Après Dolores Del Rio et Lili Damita, Greta Nissen endosse le rôle de la belle du bout du monde.  
 Flagg et Quirt, deux marines qui tentent chacun de séduire la belle Else en Suède puis en Égypte où celle-ci fait partie du harem d'un prince.  
 Restauré par UCLA Film & Television Archive.
 

@@ -9,7 +9,7 @@ France / 1987 / 88 min / 35 mm
 D'après le roman _36 fillette_ de Catherine Breillat.  
 Avec Delphine Zentout, Étienne Chicot, Olivier Parnière, Jean-Pierre Léaud.  
 « C'est horrible d'être vierge ». Avec toute la crudité insolente déjà présente dans son roman éponyme, Breillat décrit le désarroi d'une jeune fille face à sa pesante virginité, le malaise du passage à l'acte sexuel, qui va de la rage à la répugnance en passant par l'angoisse de la soumission. Gamine capricieuse ou bombe aguicheuse, Lili se tient sur une ligne de partage entre l'envie et le refus de se laisser toucher. Un état transitoire qui fascine la réalisatrice depuis _Une vraie jeune fille_, son premier film, citant la Baby Doll du film d'Elia Kazan comme influence majeure de sa figure adolescente.  
-Lili, quatorze ans, passe ses vacances dans un camping avec ses parents et son frère. Un soir, elle rencontre Maurice, quadragénaire cynique qui cherche à la séduire. Une relation ambiguë s'installe alors entre eux.
+Lili, 14 ans, passe ses vacances dans un camping avec ses parents et son frère. Un soir, elle rencontre Maurice, quadragénaire cynique qui cherche à la séduire. Une relation ambiguë s'installe alors entre eux.
 
 - Sa 16 sep 14h30 HL
 
@@ -141,9 +141,9 @@ Mariée et mère d'une petite fille, Solange est metteur en scène. D'aventure e
 de Catherine Breillat  
 France-Italie / 2006 / 114 min / 35 mm  
 D'après le roman _Une vieille maîtresse_ de Jules Amédée Barbey d'Aurevilly.  
-Avec Asia Argento, Fu'ad Ait Aattou, Roxane Mesquida.  
+Avec Asia Argento, Fu'ad Aït Aattou, Roxane Mesquida.  
 Amour, possession, jalousie et malédiction, l'évocation d'une passion mortifère au XIX<sup>e</sup> siècle. Férue de romantisme noir, Breillat s'empare d'un texte de Barbey d'Aurevilly et retrace la brûlante liaison, entre Paris et la lande normande, d'un dandy libertin et d'une vénéneuse courtisane.  
-En 1835 à Paris, le beau Ryno de Marigny doit épouser la jeune Hermangarde de Polastron dont il semble réellement épris. Mais sa maîtresse, la Vellini, une Malagaise possessive qu'il fréquente depuis dix ans, ne peut l'imaginer durablement dans les bras d'une autre.
+Paris, 1835. Le jeune et libertin Ryno de Marigny doit épouser une aristocrate dont il semble réellement épris. Il est pourtant engagé depuis dix ans auprès de sa maîtresse, la Vellini, une Malagaise possessive, qui refuse de le laisser partir.
 
 - Di 24 sep 17h15 GF
 
@@ -154,7 +154,7 @@ France / 1975 / 93 min / 35 mm
 D'après le roman _Le Soupirail_ de Catherine Breillat.  
 Avec Charlotte Alexandra, Hiram Keller, Rita Maiden, Bruno Balp.  
 Avec ce premier film tiré de son roman _Le Soupirail_, Breillat pose les jalons d'un cinéma transgressif, en montrant, à la manière d'une entomologiste, les fantasmes sexuels d'une adolescente des années 60. Une peinture déliquescente aux couleurs hyperréalistes, intensifiée par des zooms impudiques et des gros plans maculés de matières organiques, comme de violentes entailles infligées à la conception bourgeoise de la sexualité. Classé X à sa sortie, le film, maudit, défraie la chronique et perd son distributeur. Il ressort sur les écrans vingt ans plus tard, aussi frivole qu'une chansonnette échappée du transistor et plus cruel qu'un jeu de pouilleux massacreur.  
-Alice, adolescente, vient passer ses vacances chez ses parents dans les Landes. Ils possèdent une scierie où ils emploient un jeune garcon, Jim. Alice se sent très attirée par le jeune homme. Elle tente de le séduire.
+Alice, une adolescente, passe ses vacances d'été chez ses parents dans les Landes. Tourmentée par ses premiers désirs, elle fantasme sur Jim, le jeune employé de son père, et tente de le séduire.
 
 - Me 13 sep 18h30 GF
 
