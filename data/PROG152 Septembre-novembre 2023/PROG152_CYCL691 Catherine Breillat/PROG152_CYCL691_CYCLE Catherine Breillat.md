@@ -8,9 +8,10 @@ de Catherine Breillat
 France / 1987 / 88 min / 35 mm  
 D'après le roman _36 fillette_ de Catherine Breillat.  
 Avec Delphine Zentout, Étienne Chicot, Olivier Parnière, Jean-Pierre Léaud.  
+« C'est horrible d'être vierge ». Avec toute la crudité insolente déjà présente dans son roman éponyme, Breillat décrit le désarroi d'une jeune fille face à sa pesante virginité, le malaise du passage à l'acte sexuel, qui va de la rage à la répugnance en passant par l'angoisse de la soumission. Gamine capricieuse ou bombe aguicheuse, Lili se tient sur une ligne de partage entre l'envie et le refus de se laisser toucher. Un état transitoire qui fascine la réalisatrice depuis _Une vraie jeune fille_, son premier film, citant la Baby Doll du film d'Elia Kazan comme influence majeure de sa figure adolescente.  
 Lili, quatorze ans, passe ses vacances dans un camping avec ses parents et son frère. Un soir, elle rencontre Maurice, quadragénaire cynique qui cherche à la séduire. Une relation ambiguë s'installe alors entre eux.
 
-- Sa 23 sep 14h30 HL
+- Sa 16 sep 14h30 HL
 
 [73479]  
 **À ma sœur**  
@@ -19,16 +20,17 @@ France-Italie / 2000 / 93 min / 35 mm
 Avec Anaïs Reboux, Roxane Mesquida, Libero De Rienzo.  
 Deux sœurs adolescentes passent l'été sur la côte Atlantique avec leurs parents et vivent, chacune à leur manière, leurs premières expériences amoureuses.
 
-- Sa 23 sep 20h45 GF
+- Sa 23 sep 15h30 HL
 
 [122386]  
 **Abus de faiblesse**  
 de Catherine Breillat  
 France-Allemagne-Belgique / 2012 / 104 min  
 Avec Isabelle Huppert, Kool Shen, Laurence Ursino.  
-Maud Schoenberg, réalisatrice, est victime d'une hémorragie cérébrale, qui la laisse hémiplégique dans une grande solitude. Elle découvre alors à la télévision Vilko, un arnaqueur de célébrités, et le veut pour son prochain film. Ils se rencontrent et ne se quittent plus. Maud devient rapidement sa nouvelle victime.
+S'inspirant de sa relation avec Christophe Rocancourt, Breillat raconte l'histoire ahurissante d'une réalisatrice opiniâtre, bien qu'hémiplégique à la suite d'un AVC, tombée sous la coupe d'un escroc qu'elle choisit pour jouer dans son prochain film. Derrière la manipulation, l'évocation clinique du handicap et un autoportrait aussi tranchant que palpitant.  
+Victime d'une hémorragie cérébrale, Maud, réalisatrice, se réveille hémiplégique. Isolée, elle découvre à la télévision Vilko, un arnaqueur de célébrités, et veut le rencontrer pour son prochain film. Elle devient rapidement sa nouvelle proie.
 
-- Sa 30 sep 15h30 GF
+- Di 24 sep 19h45 GF
 
 [88526]  
 **Anatomie de l'enfer**  
@@ -36,37 +38,43 @@ de Catherine Breillat
 France / 2003 / 100 min / 35 mm  
 D'après le roman _Pornocratie_ de Catherine Breillat.  
 Avec Amira Casar, Rocco Siffredi.  
-Dans une boîte homosexuelle, un jeune homme danse, une jeune femme s'ouvre les veines. Il se rencontre et elle lui propose un marché : contre rétribution, il devra, pendant quatre nuits, la regarder « par là où elle n'est pas regardable », l'écouter parler d'elle, de ses désirs, du corps féminin, et des peurs qu'elle suscite chez l'homme. De ce tête à tête naissent désir et haine meurtrière.
+Dans la continuité esthétique et métaphysique de Romance, Breillat choisit d'adapter, pour son dixième film, son livre _Pornocratie_. L'exploration du sexe de la femme, par un homme que le corps féminin répugne, constitue le point d'orgue des obsessions de la cinéaste : l'obscène et le franchissement des tabous.  
+Secourue par un inconnu dans une boîte gay après s'être ouvert les veines, une jeune femme lui propose un marché : durant quatre jours, elle le paiera pour la regarder, mais aussi l'écouter parler de ses peurs et de ses désirs. D'abord hésitant, l'homme se prend bientôt au jeu.
 
-- Lu 25 sep 18h00 GF
+- Sa 23 sep 20h30 GF
 
 [111101]  
 **Barbe bleue**  
 de Catherine Breillat  
 France / 2009 / 90 min  
+D'après le conte _La Barbe bleue_ de Charles Perrault.  
 Avec Dominique Thomas, Lola Créton, Daphné Baiwir.  
-Catherine adore effrayer sa grande sœur Marie-Anne en lui lisant obstinément le conte jusqu'à ce qu'elle pleure. En même temps Catherine se projette dans le conte, elle y devient la princesse Marie-Catherine, la dernière femme de Barbe Bleue, celle qui ne rejoindra pas les femmes pendues qui l'ont précédée.
+Le conte de Perrault revisité par Catherine Breillat, qui instille des éléments autobiographiques dans une atmosphère doucement surréaliste. Une parabole sur la jeunesse, ses aspirations et ses pulsions rebelles, et sur l'affirmation du pouvoir des femmes.  
+Après la mort de leur père, deux jeunes filles se retrouvent privées de dot. Afin d'éviter la misère et le couvent, elles implorent leur mère de les marier à Barbe Bleue, un riche seigneur dont toutes les femmes disparaissent mystérieusement.
 
-- Je 28 sep 20h45 JE
+- Je 21 sep 18h30 JE
 
 [154420]  
-**La Belle endormie**  
+**La Belle Endormie**  
 de Catherine Breillat  
 France / 2010  
+D'après le conte _La Belle au bois dormant_ de Charles Perrault.  
 Avec Carla Besnaïnou, Julia Artamonov, Kerian Mayan.  
-À sa naissance, Anastasia est victime d'un sort jeté par la fée Carabosse: à 16 ans, elle se transpercera la main et mourra. Trois jeunes fées surgissent trop tard pour conjurer le sort, tout juste peuvent-elles prédire qu'au lieu de mourir, Anastasia s'endormira pour 100 ans.
+Après Barbe bleue, les contes de l'enfance donnent de nouveau matière à évoquer les rêves de jeune fille de Catherine Breillat. Ponctuée d'allusions à Cocteau ou à la peinture classique, une exploration cruelle et merveilleuse.  
+À sa naissance, la petite Anastasia est victime d'un mauvais sort, jeté par la fée Carabosse. Pour déjouer la malédiction, trois jeunes fées lui donnent le pouvoir de vivre, durant cent ans, des rêves d'aventures fantastiques.
 
-- Je 28 sep 18h30 JE
+- Je 21 sep 20h30 JE
 
 [111102]  
-**Brève traversée**  
+**Brève Traversée**  
 de Catherine Breillat  
 France / 2001 / 84 min / STA / 35 mm  
 Avec Sarah Pratt, Gilles Guillain, Christelle Dacosta.  
-Sur le ferry-boat en partance pour l'Angleterre, un adolescent de seize ans tombe sous le charme d'une jeune femme de 30 ans, mariée et mère de famille.  
-Film réalisé pour la collection _Masculin-Féminin_.
+Pour la collection « Masculin/féminin » d'Arte, Breillat livre un récit d'initiation au masculin. Une nuit d'amour sur un ferry reliant la France et l'Angleterre, à la fois tendre, charnelle et cruelle, où l'objet de désir adolescent se trouve être – fait rare chez Breillat – un garçon.  
+Sur le ferry-boat en partance pour l'Angleterre, un adolescent de seize ans tombe sous le charme d'une trentenaire, mariée et mère de famille.  
+Film réalisé pour la collection _Masculin/Féminin_.
 
-- Di 24 sep 17h15 GF
+- Di 17 sep 18h30 GF
 
 [154427]  
 **L'Été dernier**  
@@ -75,43 +83,47 @@ France / 2023 / 104 min / DCP
 Avec Léa Drucker, Samuel Kircher, Olivier Rabourdin.  
 Une avocate renommée met en péril sa carrière et sa famille en ayant une liaison avec son beau-fils de 17 ans.
 
-- Lu 18 sep 20h00 HL
+- Lu 11 sep 20h00 HL  
+Avant-première
 
 [60437]  
-**Parfait amour**  
+**Parfait Amour !**  
 de Catherine Breillat  
 France / 1995 / 113 min / 35 mm  
-Avec Francis Renaud, Isabelle Renauld, Laura Saglio.  
-L'aventure sans lendemain entre Christophe et Frédérique, de dix ans son ainée, se meut en passion. Bientôt la discorde et la violence affleurent.
+Avec Isabelle Renauld, Francis Renaud, Laura Saglio.  
+Autopsie d'une passion amoureuse, _Parfait Amour !_ explore la dynamique de pouvoir qui mène insidieusement au fait divers. D'une ressemblance étonnante avec Romy Schneider, Isabelle Renault porte sur son visage toute l'ivresse et la tristesse de son personnage, d'une beauté tragique.  
+Au cours d'une soirée, Christophe et Frédérique ont le coup de foudre. D'abord passionnelle, leur liaison sombre progressivement dans le conflit et la violence.
 
-- Ve 22 sep 20h45 GF
+- Sa 16 sep 20h30 GF
 
 [64238]  
 **Romance**  
 de Catherine Breillat  
 France / 1998 / 98 min / 35 mm  
 Avec Caroline Ducey, Sagamore Stévenin, Rocco Siffredi.  
-Une jeune femme, Marie, vit avec son compagnon, Paul, une relation frustrante sur les plans émotionnel et sexuel. Elle le trompe avec Paolo, un homme rencontré dans un bar. Son désir d'apaiser sa frustration la conduit ensuite à une série de relations, souvent éphémères, jusqu'à entamer un rapport sadomasochiste avec un homme plus âgé.
+Précédé d'une réputation sulfureuse, _Romance_ suit l'errance identitaire et sexuelle de Marie, en quête de sensualité. Quittant le lit glacé de Paul pour les mains expertes d'aventures masculines, la jeune femme trouvera l'extase et la consolation dans les jeux de soumission/domination de Robert. Mis en lumière par Yorgos Arvanitis (chef opérateur attitré d'Angelopoulos), le corps immaculé de l'héroïne bientôt ranimé par l'étoffe rouge d'une robe – celle qui traverse toute l'œuvre de Breillat –, visite tous les fantasmes jusqu'à l'enfantement libérateur. Aussi déroutante que fascinante, une œuvre chauffée à blanc qui a su se tailler un succès à travers le monde.  
+Frustrée dans son couple, une jeune femme se laisse séduire par un inconnu. Cette première aventure la pousse à multiplier les relations éphémères, où elle s'initie à de nouvelles expériences.
 
-- Sa 23 sep 18h30 GF
+- Me 20 sep 20h45 GF
 
 [47115]  
 **Sale comme un ange**  
 de Catherine Breillat  
 France / 1990 / 105 min  
-Avec Lio, Claude Brasseur, Nils Tavernier.  
+Avec Claude Brasseur, Lio, Nils Tavernier.  
 Georges Deblache, un flic quinquagénaire, solitaire, et alcoolique, veut protéger son vieil ami Mannoni, un trafiquant de drogue notoire. Il installe son coéquipier Théron en protection rapprochée au domicile de Mannoni. Dans le même temps, il tente de séduire Barbara, l'épouse de Théron.
 
-- Ve 22 sep 18h30 GF
+- Sa 16 sep 18h00 GF
 
 [79126]  
 **Sex Is Comedy**  
 de Catherine Breillat  
 France / 2001 / 93 min / 35 mm  
 Avec Anne Parillaud, Grégoire Colin, Roxane Mesquida.  
-La réalisatrice Jeanne rencontre des difficultés sévères pendant le tournage de son nouveau film. L'acteur et l'actrice principaux se détestent et doivent s'embrasser passionnément à de nombreuses reprises. Le plus grand problème est la relation troublée de Jeanne avec l'acteur, un jeune homme qui aime la liberté et l'énerve par ses caprices.
+Les dessous d'un tournage émaillé d'incidents et de psychodrames, qui permettent à Breillat d'évoquer, par une mise en abyme, les rapports que la réalisatrice entretient avec son équipe. En double tyrannique, Anne Parillaud se débat, exigeant le meilleur de ses acteurs, pour qu'une scène de sexe devienne un moment de grâce.  
+Sur le tournage de son nouveau film, Jeanne rencontre des difficultés avec ses acteurs principaux, incapables de jouer les scènes d'amour demandées. Alors qu'elle s'efforce de trouver un terrain d'entente avec eux, ils refusent de suivre ses instructions.
 
-- Di 24 sep 19h15 GF
+- Sa 23 sep 18h30 GF
 
 [47116]  
 **Tapage nocturne**  
@@ -119,9 +131,10 @@ de Catherine Breillat
 France / 1979 / 94 min / 35 mm  
 D'après le roman _Tapage nocturne_ de Catherine Breillat.  
 Avec Dominique Laffin, Bertrand Bonvoisin, Marie-Hélène Breillat.  
-Mariée et mère d'une petite fille, Solange est metteur en scène. Elle recherche constamment l'amour fou et va d'aventure en aventure, refusant délibérément les conventions de l'âge adulte. Or, elle fait bientôt la connaissance de Bruno, metteur en scène comme elle, et en tombe amoureuse jusqu'à la passion.
+Portrait d'une femme de la fin des années 70, prise dans la toile de l'amour fou. De cris d'orgasme en cris de rage, Solange – à qui Dominique Laffin prête son émouvante fébrilité – se perd dans un incessant va-et-vient entre la folie et la lucidité, qui ne pourra s'achever que par les larmes.  
+Mariée et mère d'une petite fille, Solange est metteur en scène. D'aventure en aventure, elle refuse les conventions de l'âge adulte jusqu'à sa rencontre avec Bruno, dont elle tombe follement amoureuse.
 
-- Me 20 sep 20h30 GF
+- Me 13 sep 20h30 GF
 
 [101896]  
 **Une vieille maîtresse**  
@@ -129,9 +142,10 @@ de Catherine Breillat
 France-Italie / 2006 / 114 min / 35 mm  
 D'après le roman _Une vieille maîtresse_ de Jules Amédée Barbey d'Aurevilly.  
 Avec Asia Argento, Fu'ad Ait Aattou, Roxane Mesquida.  
+Amour, possession, jalousie et malédiction, l'évocation d'une passion mortifère au XIX<sup>e</sup> siècle. Férue de romantisme noir, Breillat s'empare d'un texte de Barbey d'Aurevilly et retrace la brûlante liaison, entre Paris et la lande normande, d'un dandy libertin et d'une vénéneuse courtisane.  
 En 1835 à Paris, le beau Ryno de Marigny doit épouser la jeune Hermangarde de Polastron dont il semble réellement épris. Mais sa maîtresse, la Vellini, une Malagaise possessive qu'il fréquente depuis dix ans, ne peut l'imaginer durablement dans les bras d'une autre.
 
-- Lu 25 sep 20h15 GF
+- Di 24 sep 17h15 GF
 
 [69025]  
 **Une vraie jeune fille**  
@@ -139,13 +153,8 @@ de Catherine Breillat
 France / 1975 / 93 min / 35 mm  
 D'après le roman _Le Soupirail_ de Catherine Breillat.  
 Avec Charlotte Alexandra, Hiram Keller, Rita Maiden, Bruno Balp.  
+Avec ce premier film tiré de son roman _Le Soupirail_, Breillat pose les jalons d'un cinéma transgressif, en montrant, à la manière d'une entomologiste, les fantasmes sexuels d'une adolescente des années 60. Une peinture déliquescente aux couleurs hyperréalistes, intensifiée par des zooms impudiques et des gros plans maculés de matières organiques, comme de violentes entailles infligées à la conception bourgeoise de la sexualité. Classé X à sa sortie, le film, maudit, défraie la chronique et perd son distributeur. Il ressort sur les écrans vingt ans plus tard, aussi frivole qu'une chansonnette échappée du transistor et plus cruel qu'un jeu de pouilleux massacreur.  
 Alice, adolescente, vient passer ses vacances chez ses parents dans les Landes. Ils possèdent une scierie où ils emploient un jeune garcon, Jim. Alice se sent très attirée par le jeune homme. Elle tente de le séduire.
 
-- Me 20 sep 18h30 GF
-
-## Rencontres et conférences
-
-**Film + Leçon de cinéma Catherine Breillat**
-
-- Sa 23 sep 14h30 HL
+- Me 13 sep 18h30 GF
 

@@ -36,6 +36,17 @@ Paula, une jeune mannequin, se fait passer pour une demoiselle de la haute soci�
 
 - Lu 23 oct 18h30 GF
 
+[84223]  
+**Au pays du rêve**  
+**(Going Hollywood)**  
+de Raoul Walsh  
+États-Unis / 1933 / 84 min / VOSTF / 35 mm  
+Avec Marion Davies, Bing Crosby, Robert Montgomery.  
+Pour sa première incursion dans le _musical_, Walsh s'amuse de l'obsession amoureuse d'une professeure de français pour un célèbre crooner d'Hollywood. Parmi les numéros chantés, _Temptation_ et _Beautiful Girl_ seront repris vingt ans plus tard dans _Chantons sous la pluie_.  
+Dans un collège pour filles, une enseignante de français qui rêve d'une vie en musique, quitte son poste pour rejoindre le crooner qu'elle écoute à la radio. Celui-ci est sur le point de partir pour Hollywood où il doit tourner un film.
+
+- Je 2 nov 18h30 GF
+
 [45140]  
 **Au service de la gloire**  
 **(What Price Glory?)**  
@@ -69,8 +80,7 @@ Une version western d'_Aventures en Birmanie_, sur les terres hostiles des Everg
 Après avoir détruit un fort rempli d'armes, des soldats américains et les personnes qu'ils ont sauvées sont traqués par les féroces Indiens de la région des Everglades.  
 Auto-remake d'_Aventures en Birmanie_ (1945).
 
-- Sa 16 sep 14h30 HL  
-Voir aussi conférence p. xx
+- Di 17 sep 14h30 HL
 
 [36844]  
 **Aventures en Birmanie**  
@@ -193,6 +203,16 @@ Un joueur professionnel accepte d'aider la police en capturant un bandit spécia
 
 - Ve 22 sep 18h00 HL
 
+[80089]  
+**College Swing**  
+de Raoul Walsh  
+États-Unis / 1938 / 88 min / STF / 16 mm  
+Avec George Burns, Gracie Allen, Martha Raye.  
+Gracie Alden doit se consacrer à ses études pour passer en classe supérieure et toucher un héritage.  
+Copie de la collection Jon Davison à l' Academy Film Archive.
+
+- Sa 4 nov 15h00 GF
+
 [37663]  
 **Le Cri de la victoire**  
 **(Battle Cry)**  
@@ -201,7 +221,7 @@ de Raoul Walsh
 Avec Dorothy Malone, Van Heflin, James Whitmore.  
 En 1942, avant de partir au front, de jeunes recrues tentent d'apprendre les rudiments de la guerre, enseignés par un instructeur aux méthodes sévères.
 
-- Sa 16 sep 20h30 HL
+- Sa 9 sep 14h30 HL
 
 [81231]  
 **Danse rouge**  
@@ -211,7 +231,7 @@ de Raoul Walsh
 Avec Dolores del Río, Charles Farrell, Ivan Linow.  
 Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Grand Duc Eugen à la veille de son mariage avec la Princesse Varvara.
 
-- Sa 7 oct 17h30 GF
+- Sa 7 oct 18h00 GF
 
 [37758]  
 **Les Déchaînés**  
@@ -232,6 +252,17 @@ Avec Kirk Douglas, Virginia Mayo, Walter Brennan.
 Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un suspect, Keith, pour le meurtre du fils d'un rancher, Roden. Il amène l'homme à la ville pour que celui-ci fasse l'objet d'un procès équitable. Mais les hommes de Roden le traquent.
 
 - Je 7 sep 21h15 GF
+
+[85148]  
+**Deux aventuriers**  
+**(When Thief Meets Thief)**  
+de Raoul Walsh  
+États-Unis / 1937 / 87 min / VOSTF / 35 mm  
+Avec Douglas Fairbanks Jr., Valerie Hobson, Alan Hale.  
+Meurtrier involontaire, Ricky est poursuivi par un ami maitre-chanteur, Jim, qui à la suite d'une machination, lui ravit aussi sa fiancée.
+
+- Di 1 oct 17h45 HL  
+- Je 2 nov 20h30 GF
 
 [36840]  
 **Du sang sur la neige**  
@@ -316,7 +347,7 @@ de Raoul Walsh
 Avec Gloria Swanson, Lionel Barrymore, Raoul Walsh.  
 Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion de refaire sa vie. Sur cette île du Pacifique, le puritain Davidson ne lui laisse aucun répit et menace de la dénoncer et de la renvoyer à San Francisco où elle risque la prison.
 
-- Di 8 oct 19h45 GF
+- Di 8 oct 19h15 GF
 
 [67404]  
 **Les Fantastiques années 20**  
@@ -347,6 +378,16 @@ Avec Humphrey Bogart, Zero Mostel, Ted De Corsia.
 Un policier tente de protéger un témoin capital avant un procès. Celui-ci est traqué par des tueurs à gages.
 
 - Ve 29 sep 20h00 HL
+
+[36820]  
+**La Femme en cage**  
+**(Hitting a New High)**  
+de Raoul Walsh  
+États-Unis / 1937 / 87 min / VOSTF / 35 mm  
+Avec Lily Pons, Jack Oakie, John Howard.  
+Suzanne, une jeune chanteuse de cabaret rêve de devenir une grande et vraie chanteuse d'opéra. Pour l'aider, son agent monte un subterfuge
+
+- Lu 6 nov 18h30 GF
 
 [37802]  
 **La Fille du désert**  
@@ -401,6 +442,15 @@ Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de pr
 
 - Ve 1 sep 20h15 HL
 
+[85146]  
+**The Horn Blows at Midnight**  
+de Raoul Walsh  
+États-Unis / 1943 / 80 min / VOSTF / 35 mm  
+Avec Jack Benny, Alexis Smith, Dolores Moran.  
+Un trompettiste arrivant au Paradis est chargé par le chef des anges de détruire la Terre en soufflant dans une trompette spéciale.
+
+- Di 5 nov 18h30 GF
+
 [85888]  
 **Hors du gouffre**  
 **(The Man Who Came Back)**  
@@ -421,15 +471,6 @@ Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement r
 
 - Di 17 sep 18h00 HL
 
-[36818]  
-**In Old Arizona**  
-d'Irving Cummings, Raoul Walsh  
-États-Unis / 1929 / 95 min / VOSTF / DCP  
-Avec Warner Baxter, Edmund Lowe, Dorothy Burgess.  
-Un bandit mexicain, Cisco Kid, qui échappe régulièrement à ses poursuivants, est trahi par une femme.
-
-- Ve 13 oct 18h15 GF
-
 [37781]  
 **Intrigues en Orient**  
 **(Background to Danger)**  
@@ -448,7 +489,7 @@ de Raoul Walsh
 Avec Lionel Barrymore, Miriam Cooper, Ralph Graves.  
 Une orpheline retourne chez elle dans une petite ville du nord-ouest du Pacifique après un mariage raté et avec un fils en bas âge.
 
-- Me 4 oct 20h00 JE
+- Me 4 oct 19h45 JE
 
 [81234]  
 **The Loves of Carmen**  
@@ -458,7 +499,7 @@ Avec Dolores del Río, Don Alvarado, Victor McLaglen.
 Seconde adaptation par Walsh de la nouvelle de Merimee.  
 Restauré par le MoMA avec le soutien de la Film Foundation.
 
-- Di 8 oct 17h30 GF
+- Di 8 oct 17h00 GF
 
 [82982]  
 **The Lucky Lady**  
@@ -467,7 +508,7 @@ de Raoul Walsh
 Avec Greta Nissen, Lionel Barrymore, William Collier Jr..  
 Le premier Ministre Franz Garletz veut faire marier la Princesse Antoinette avec le Comte Ferranzo. Antoinette, élève dans un couvent, sort clandestinement le soir pour aller voir les spectacles à l'auberge locale. Elle y commence à flirter avec Clarke, un jeune touriste américain.
 
-- Sa 7 oct 14h30 GF
+- Sa 7 oct 15h00 GF
 
 [80342]  
 **The Man I Love**  
@@ -477,7 +518,7 @@ D'après le roman _Night Shift_ de Maritta Wolff.
 Avec Ida Lupino, Robert Alda, Andrea King.  
 Une chanteuse de night-club retourne dans sa famille et découvre la déchéance dans laquelle sont tombés son frère, compromis avec des gangsters, et un pianiste qu'elle admirait et dont elle tombe amoureuse.
 
-- Sa 9 sep 14h30 HL
+- Sa 16 sep 21h00 HL
 
 [46330]  
 **Marines, Let's Go !**  
@@ -497,7 +538,7 @@ Avec Spencer Tracy, Joan Bennett, George Chandler.
 Dan, un jeune policier new-yorkais, est amoureux d'une serveuse, mais la sœur de cette dernière est la maitresse d'un gangster.  
 Conservé par le MoMA,. Restauration numérique soutenue par 20th Century Fox.
 
-- Sa 14 oct 17h30 GF
+- Sa 14 oct 17h45 GF
 
 [36863]  
 **Le Monde lui appartient**  
@@ -507,7 +548,7 @@ de Raoul Walsh
 Avec Anthony Quinn, Gregory Peck, Ann Blyth.  
 Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper à un mariage avec le Prince Semyon, un prétendant imposé par le tsar.
 
-- Sa 9 sep 18h15 HL
+- Sa 9 sep 18h00 HL
 
 [154408]  
 **The Mystery of the Hindu Image**  
@@ -538,17 +579,16 @@ D'après le roman _Les Nus et les morts_ de Norman Mailer.
 Avec Aldo Ray, Cliff Robertson, Raymond Massey.  
 En pleine guerre du Pacifique, un lieutenant s'oppose à la brutalité cynique d'un sous-officier particulièrement féroce.
 
-- Sa 23 sep 19h00 HL
+- Sa 23 sep 19h30 HL
 
-[72462]  
-**Le Passeport jaune**  
-**(The Yellow Ticket)**  
+[80872]  
+**One Sunday Afternoon**  
 de Raoul Walsh  
-États-Unis / 1931 / 75 min / VOSTF / DCP  
-Avec Boris Karloff, Lionel Barrymore, Laurence Olivier.  
-Pour pouvoir aller rendre visite à son père emprisonné par les autorités tsaristes, une jeune juive russe décide de demander un passeport jaune (normalement attribué aux prostituées) qui lui permettra de voyager dans le pays.
+États-Unis / 1948 / 90 min / VOSTF / 16 mm  
+Avec Dorothy Malone, Dennis Morgan, Janis Paige.  
+Un jeune homme bagarreur voit la femme qu'il aime se marier avec son meilleur ami.
 
-- Ve 13 oct 20h15 GF
+- Lu 6 nov 20h30 GF
 
 [36848]  
 **Pillars of Society**  
@@ -568,7 +608,7 @@ de Raoul Walsh
 Avec John Wayne, Robert Parrish, Marguerite Churchill.  
 Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
 
-- Sa 16 sep 18h00 HL  
+- Sa 16 sep 18h30 HL  
 - Di 1 oct 15h00 HL
 
 [36854]  
@@ -620,6 +660,16 @@ Avec Leslie Caron, Louis Armstrong, Gilbert Roland.
 
 - Ve 29 sep 18h00 HL
 
+[59155]  
+**Sa dernière course**  
+**(Salty O'Rourke)**  
+de Raoul Walsh  
+États-Unis / 1945 / 100 min / VOSTF / 16 mm  
+Avec Alan Ladd, Gail Russell, William Demarest.  
+Parieur invétéré, Salty O'Rourke a amoncelé les dettes auprès du mafieux Doc Baxter qui lui donne trente jours pour le rembourser. Salty a une solution : acheter un cheval, trouver un jockey et gagner une course
+
+- Di 5 nov 20h15 GF
+
 [37814]  
 **Sabotage à Berlin**  
 **(Desperate Journey)**  
@@ -640,6 +690,15 @@ Pendant la Seconde Guerre mondiale, un criminel évadé et un policier sont coin
 
 - Je 28 sep 20h30 GF
 
+[80137]  
+**Saint Louis Blues**  
+de Raoul Walsh  
+États-Unis / 1939 / 90 min / VOSTF / 16 mm  
+Avec Dorothy Lamour, Lloyd Nolan, Jerome Cowan.  
+Une chanteuse de Broadway fuit son imprésario qui la force à se déshabiller et rejoint un showboat sur le Mississipi.
+
+- Me 1 nov 18h30 HL
+
 [85152]  
 **Le Singe qui parle**  
 **(The Monkey Talks)**  
@@ -649,7 +708,7 @@ Avec Olive Borden, Jacques Lerner, Don Alvarado.
 Trois forains sans scrupules obligent un nain à se déguiser en singe parlant.  
 Film incomplet.
 
-- Sa 7 oct 16h00 GF
+- Sa 7 oct 16h30 GF
 
 [78719]  
 **Spendthrift**  
@@ -668,7 +727,17 @@ de Raoul Walsh
 Avec Edmund Lowe, Victor McLaglen, Lili Damita.  
 Deux marines envoyés dans les îles se battent pour les yeux d'une belle Haïtienne.
 
-- Sa 7 oct 19h45 GF
+- Sa 7 oct 20h15 GF
+
+[36872]  
+**Un dimanche après-midi**  
+**(The Strawberry Blonde)**  
+de Raoul Walsh  
+États-Unis / 1940 / 98 min / VOSTF / 35 mm  
+Avec James Cagney, Olivia De Havilland, Rita Hayworth.  
+Biff est amoureux de Virginia qui lui préfère son ami Hugo. Ce dernier rend Biff responsable d'un accident qui l'envoie en prison.
+
+- Me 1 nov 20h30 HL
 
 [79825]  
 **Un lion dans la rue = L'Homme à abattre**  
@@ -712,16 +781,6 @@ Un homme est victime des ennuis provoqués par son tempérament aventureux et so
 
 - Ve 15 sep 20h00 HL
 
-[36875]  
-**Le Voleur de Bagdad**  
-**(The Thief of Bagdad)**  
-de Raoul Walsh  
-États-Unis / 1924 / 140 min / INT. FR. / DCP  
-Avec Douglas Fairbanks, Snitz Edwards, Anna May Wong.  
-La fille du Calife tombe amoureuse d'un sympathique voleur qui devra la conquérir.
-
-- Di 17 sep 14h30 HL
-
 [82501]  
 **Wild Girl**  
 de Raoul Walsh  
@@ -729,7 +788,17 @@ de Raoul Walsh
 Avec Joan Bennett, Charles Farrell, Ralph Bellamy.  
 Une jeune fille s'enfuit avec le meurtrier du séducteur de sa sœur.
 
-- Sa 14 oct 19h15 GF
+- Sa 14 oct 19h30 GF
+
+[67395]  
+**Women of All Nations**  
+de Raoul Walsh  
+États-Unis / 1931 / 72 min / VOSTF / 35 mm  
+Avec Edmund Lowe, Victor McLaglen, Greta Nissen.  
+Flagg et Quirt, deux marines qui tentent chacun de séduire la belle Else en Suède puis en Égypte où celle-ci fait partie du harem d'un prince.  
+Restauré par UCLA Film & Television Archive.
+
+- Di 1 oct 20h00 HL
 
 ## Rencontres et conférences
 
@@ -741,6 +810,5 @@ Une jeune fille s'enfuit avec le meurtrier du séducteur de sa sœur.
 **Film + discussion avec Pierre Gabaston**  
 **Conférence de Pierre Gabaston**
 
-- Sa 16 sep 14h30 HL  
-À la suite de la projection de _Les Aventures du capitaine Wyatt_ de Raoul Walsh (voir p. xx)
+- Di 17 sep 16h15 HL
 

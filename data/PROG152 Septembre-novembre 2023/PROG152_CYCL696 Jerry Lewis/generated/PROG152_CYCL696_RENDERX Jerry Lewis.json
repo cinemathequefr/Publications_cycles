@@ -9,6 +9,59 @@
       "tri": 1,
       "items": [
         {
+          "idFilm": 33894,
+          "content": [
+            {
+              "idFilm": 33894,
+              "ordre": 1,
+              "titre": "Au boulot, Jerry",
+              "titreVo": "Hardly Working",
+              "realisateurs": "Jerry Lewis",
+              "pays": "États-Unis",
+              "annee": 1979,
+              "duree": 89,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Jerry Lewis",
+                "Susan Oliver",
+                "Roger C. Carmel"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104841,
+              "dateHeure": "2023-11-12T17:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 154491,
+          "content": [
+            {
+              "idFilm": 154491,
+              "ordre": 1,
+              "titre": "Clown TV",
+              "art": "Der",
+              "realisateurs": "Erich Friedler",
+              "pays": "Allemagne",
+              "annee": 2016,
+              "duree": 115,
+              "version": "",
+              "format": "Numérique"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104859,
+              "dateHeure": "2023-11-15T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 45745,
           "content": [
             {
@@ -55,6 +108,7 @@
               "duree": 118,
               "version": "VOSTF",
               "format": "DCP",
+              "ageMinimal": 8,
               "generique": [
                 "Jerry Lewis",
                 "Stella Stevens"
@@ -65,6 +119,37 @@
             {
               "idSeance": 104633,
               "dateHeure": "2023-11-23T19:00:00",
+              "idSalle": "HL",
+              "ageMinimal": 8
+            }
+          ]
+        },
+        {
+          "idFilm": 51283,
+          "content": [
+            {
+              "idFilm": 51283,
+              "ordre": 1,
+              "titre": "Jerry grande gueule",
+              "titreVo": "Big Mouth",
+              "artVo": "The",
+              "realisateurs": "Jerry Lewis",
+              "pays": "États-Unis",
+              "annee": 1966,
+              "duree": 95,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Jerry Lewis",
+                "Harold J. Stone",
+                "Susan Bay"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104847,
+              "dateHeure": "2023-11-18T18:30:00",
               "idSalle": "HL"
             }
           ]
@@ -155,6 +240,27 @@
           ]
         },
         {
+          "idFilm": 154492,
+          "content": [
+            {
+              "idFilm": 154492,
+              "ordre": 1,
+              "titre": "Re-Inforcer",
+              "art": "The",
+              "realisateurs": "Jerry Lewis",
+              "pays": "États-Unis",
+              "annee": 1951
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104860,
+              "dateHeure": "2023-11-15T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 53748,
           "content": [
             {
@@ -234,6 +340,7 @@
               "duree": 100,
               "version": "VOSTF",
               "format": "35 mm",
+              "ageMinimal": 8,
               "generique": [
                 "Jerry Lewis",
                 "Donna Butterworth"
@@ -244,7 +351,99 @@
             {
               "idSeance": 104687,
               "dateHeure": "2023-11-12T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "ageMinimal": 8
+            }
+          ]
+        },
+        {
+          "idFilm": 33901,
+          "content": [
+            {
+              "idFilm": 33901,
+              "ordre": 1,
+              "titre": "Trois sur un sofa",
+              "titreVo": "Three on a Couch",
+              "realisateurs": "Jerry Lewis",
+              "pays": "États-Unis",
+              "annee": 1965,
+              "duree": 109,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Jerry Lewis",
+                "Janet Leigh",
+                "Mary Ann Mobley"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104832,
+              "dateHeure": "2023-11-11T20:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 33732,
+          "content": [
+            {
+              "idFilm": 33732,
+              "ordre": 1,
+              "titre": "Ya ya mon général",
+              "titreVo": "Which Way to the Front ?",
+              "realisateurs": "Jerry Lewis",
+              "pays": "États-Unis",
+              "annee": 1969,
+              "duree": 96,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Jerry Lewis",
+                "Jan Murray",
+                "Willie Davis"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104842,
+              "dateHeure": "2023-11-12T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 34529,
+          "content": [
+            {
+              "idFilm": 34529,
+              "ordre": 1,
+              "titre": "Zinzin d'Hollywood",
+              "art": "Le",
+              "titreVo": "Errand Boy",
+              "artVo": "The",
+              "realisateurs": "Jerry Lewis",
+              "pays": "États-Unis",
+              "annee": 1961,
+              "duree": 92,
+              "version": "",
+              "format": "",
+              "ageMinimal": 6,
+              "generique": [
+                "Jerry Lewis",
+                "Brian Donlevy",
+                "Felicia Atkins"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104831,
+              "dateHeure": "2023-11-11T18:30:00",
+              "idSalle": "HL",
+              "ageMinimal": 6
             }
           ]
         }

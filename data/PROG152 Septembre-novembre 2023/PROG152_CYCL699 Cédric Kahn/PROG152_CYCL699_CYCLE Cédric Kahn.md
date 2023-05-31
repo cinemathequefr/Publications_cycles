@@ -62,7 +62,7 @@ D'après le roman _L'Ennui_ d'Alberto Moravia.
 Avec Sophie Guillemin, Charles Berling, Arielle Dombasle, Robert Kramer.  
 Un homme éprouve une passion physique pour une jeune fille séduisante et mystérieuse. Son ancienne compagne devient la confidente cruelle et la spectatrice privilégiée de ce désir obsessionnel.
 
-- Sa 30 sep 18h30 GF
+- Sa 30 sep 19h00 GF
 
 [142635]  
 **Fête de famille**  
@@ -129,7 +129,7 @@ D'après le livre _Je te tue. Histoire vraie de R. S. assassin sans raison_ de P
 Avec Stefano Cassetti, Isild Le Besco, Patrick Dell'Isola.  
 Roberto, échappé d'un asile psychiatrique italien, tombe amoureux d'une jeune Française, Léa. Traqué par la police, il apparaît et disparaît régulièrement, commettant vols et meurtres entre deux rendez-vous avec Léa qui ne se doute de rien.
 
-- Sa 30 sep 21h00 GF
+- Sa 30 sep 21h30 GF
 
 [52174]  
 **Trop de bonheur**  

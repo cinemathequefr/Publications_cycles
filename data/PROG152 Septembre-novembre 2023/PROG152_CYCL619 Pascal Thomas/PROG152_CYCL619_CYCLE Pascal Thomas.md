@@ -2,6 +2,25 @@
 
 ## Les films
 
+[140885]  
+**A cause des filles ?**  
+de Pascal Thomas  
+France / 2017 / 96 min / DCP  
+Avec José Garcia, Rossy de Palma, François Morel, Barbara Schulz, Pierre Richard.  
+A l'occasion d'une noce d'où le mari s'est enfui, à peine la cérémonie terminée, chacun, en guise d'épithalame – ce chant composé à l'occasion d'un mariage – va s'employer à remonter le moral de la mariée.
+
+- Ve 13 oct 18h15 GF
+
+[116400]  
+**Associés contre le crime**  
+de Pascal Thomas  
+France / 2011 / 104 min / 35 mm  
+D'après la nouvelle _The case of the missing lady_ in _Partners in crime_ d'Agatha Christie.  
+Avec Catherine Frot, André Dussollier, Linh-Dan Pham.  
+Prudence et Bélisaire Beresford ont décidé de prendre un repos bien mérité. Mais une richissime héritière russe disparaît, et Prudence ne résiste pas à l'appel du danger... Bélisaire est bien obligé de suivre sa turbulente épouse.
+
+- Ve 13 oct 20h30 GF
+
 [51404]  
 **Celles qu'on n'a pas eues**  
 de Pascal Thomas  
@@ -39,6 +58,15 @@ Bélisaire et Prudence Beresford, anciens des services secrets, profitent de leu
 
 - Ve 6 oct 15h30 GF
 
+[64369]  
+**La Dilettante**  
+de Pascal Thomas  
+France / 1998 / 118 min / 35 mm  
+Avec Catherine Frot, Barbara Schulz, Sébastien Cotterot, Bernard Verley.  
+Vivant depuis plus de quinze ans en Suisse, Pierrette Dumortier est une femme indépendante typique d'aujourd'hui qui assume seule son destin. A quarante ans, impatiente, détestant la routine et l'ennui, elle quitte tout, professionnellement et sentimentalement parlant, pour entamer une nouvelle vie à Paris.
+
+- Di 8 oct 14h30 GF
+
 [110834]  
 **Ensemble, nous allons vivre une très, très grande histoire d'amour**  
 de Pascal Thomas  
@@ -74,7 +102,7 @@ France / 1988 / 107 min / 35 mm
 Avec Jean-François Stévenin, Susan Moncur, Hélène Vincent, Emilie Thomas, Clément Thomas.  
 Lors des vacances d'été, plusieurs femmes se séparent de leurs maris et enfants qu'elles envoient sur l'île de Ré passer le mois d'août alors qu'elles restent entre elles, à Paris. Ce temps hors du temps est vécu comme une parenthèse ou chacun tente de faire le point et d'être heureux.
 
-- Di 8 oct 17h00 HL
+- Di 8 oct 17h30 HL
 
 [72518]  
 **Mercredi, folle journée !**  
@@ -102,7 +130,7 @@ France / 1990 / 100 min / 35 mm
 Avec Rémy Girard, Coralie Seyrig, François Périer, Clément Thomas.  
 Tout va bien pour un mari divorcé et ses enfants... jusqu'au jour où réapparaît l'épouse dont il était séparé.
 
-- Di 8 oct 19h30 HL
+- Di 8 oct 19h45 HL
 
 [57583]  
 **Pleure pas la bouche pleine**  
@@ -121,15 +149,6 @@ Avec Annie Colé, Virginie Thévenet, Papinou.
 Une amitié riche de souvenirs unit le rédacteur en chef d'un magazine à la mode et un restaurateur de province
 
 - Ve 6 oct 20h30 GF
-
-[57018]  
-**Un oursin dans la poche**  
-de Pascal Thomas  
-France / 1977 / 98 min / 35 mm  
-Avec Darry Cowl, Bernard Menez, Maurice Risch.  
-Une jeune journaliste, abandonnée par son amant fortuné, va tenter, avec un inventeur musicien, de monter une comédie musicale
-
-- Di 8 oct 14h30 GF
 
 [51398]  
 **Les Zozos**  

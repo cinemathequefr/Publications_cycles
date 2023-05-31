@@ -1,13 +1,72 @@
 {
   "datesCycle": [
     "2023-10-04T18:00:00",
-    "2023-10-13T16:00:00"
+    "2023-10-13T20:30:00"
   ],
   "sousCycles": [
     {
       "titreSousCycle": "Les films",
       "tri": 1,
       "items": [
+        {
+          "idFilm": 140885,
+          "content": [
+            {
+              "idFilm": 140885,
+              "ordre": 1,
+              "titre": "A cause des filles ?",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 2017,
+              "duree": 96,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "José Garcia",
+                "Rossy de Palma",
+                "François Morel",
+                "Barbara Schulz",
+                "Pierre Richard"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104835,
+              "dateHeure": "2023-10-13T18:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 116400,
+          "content": [
+            {
+              "idFilm": 116400,
+              "ordre": 1,
+              "titre": "Associés contre le crime",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 2011,
+              "duree": 104,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après la nouvelle _The case of the missing lady_ in _Partners in crime_ d'Agatha Christie.",
+              "generique": [
+                "Catherine Frot",
+                "André Dussollier",
+                "Linh-Dan Pham"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104836,
+              "dateHeure": "2023-10-13T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 51404,
           "content": [
@@ -130,6 +189,36 @@
           ]
         },
         {
+          "idFilm": 64369,
+          "content": [
+            {
+              "idFilm": 64369,
+              "ordre": 1,
+              "titre": "Dilettante",
+              "art": "La",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 1998,
+              "duree": 118,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Catherine Frot",
+                "Barbara Schulz",
+                "Sébastien Cotterot",
+                "Bernard Verley"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104837,
+              "dateHeure": "2023-10-08T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 110834,
           "content": [
             {
@@ -245,7 +334,7 @@
           "seances": [
             {
               "idSeance": 104758,
-              "dateHeure": "2023-10-08T17:00:00",
+              "dateHeure": "2023-10-08T17:30:00",
               "idSalle": "HL"
             }
           ]
@@ -334,7 +423,7 @@
           "seances": [
             {
               "idSeance": 104759,
-              "dateHeure": "2023-10-08T19:30:00",
+              "dateHeure": "2023-10-08T19:45:00",
               "idSalle": "HL"
             }
           ]
@@ -393,34 +482,6 @@
             {
               "idSeance": 104751,
               "dateHeure": "2023-10-06T20:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 57018,
-          "content": [
-            {
-              "idFilm": 57018,
-              "ordre": 1,
-              "titre": "Un oursin dans la poche",
-              "realisateurs": "Pascal Thomas",
-              "pays": "France",
-              "annee": 1977,
-              "duree": 98,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Darry Cowl",
-                "Bernard Menez",
-                "Maurice Risch"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104747,
-              "dateHeure": "2023-10-08T14:30:00",
               "idSalle": "GF"
             }
           ]

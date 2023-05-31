@@ -18,7 +18,7 @@ de Hamilton Luske, Clyde Geronimi, Wilfred Jackson
 États-Unis / 1953 / 76 min / VF / DCP  
 [JP] Pirates, sirènes et Indiens habitent le Pays imaginaire, où Peter Pan, enfant qui refuse de grandir, emmène Wendy et ses frères. Peuplé de personnages marquants comme la fée Clochette ou le capitaine Crochet, un voyage fantastique aux couleurs et aux mélodies enchanteresses, signé Walt Disney.
 
-- Me 27 sep 15h00 GF
+- Me 27 sep 15h00 HL
 
 [37710]  
 **La Piste des géants**  
@@ -161,7 +161,8 @@ Avec Josette Day, Jean Marais, Marcel André.
 d'Agnès Varda  
 France / 1991 / 118 min / DCP  
 Avec Philippe Maron, Edouard Joubeaud, Laurent Monnier, Brigitte de Villepoix.  
-[JP] Agnès Varda replonge en images dans les souvenirs de Jacques Demy, depuis ses rêves de cinéma façonnés dès l'enfance. À travers des séquences intimes, extraits de films, ou scènes de fiction qui composent un émouvant kaléidoscope, elle retrace à petites touches la vie de l'homme, du mari, et de l'artiste.
+[JP] Agnès Varda replonge en images dans les souvenirs de Jacques Demy, depuis ses rêves de cinéma façonnés dès l'enfance. À travers des séquences intimes, extraits de films, ou scènes de fiction qui composent un émouvant kaléidoscope, elle retrace à petites touches la vie de l'homme, du mari, et de l'artiste.  
+D'après les souvenirs de Jacques Demy, l'évocation de ses jeunes années et des derniers mois de sa vie. Du bric-à-brac de l'enfant à l'ingéniosité du metteur en scène, Varda évoque la naissance d'une passion, et rend à la fois hommage au mari et à l'artiste dans un film-testament.
 
 - Di 26 nov 15h00 GF
 

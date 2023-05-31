@@ -12,10 +12,10 @@
   * Abus de faiblesse  
   * Anatomie de l'enfer  
   * Barbe bleue  
-  * Belle endormie (La)  
-  * Brève traversée  
+  * Belle Endormie (La)  
+  * Brève Traversée  
   * Été dernier (L')  
-  * Parfait amour  
+  * Parfait Amour !  
   * Romance  
   * Sale comme un ange  
   * Sex Is Comedy  
@@ -73,7 +73,7 @@
 ## David Fincher (12)
 
   * Alien 3  
-  * Etrange histoire de Benjamin Button (L')  
+  * Étrange histoire de Benjamin Button (L')  
   * Fight Club  
   * Game (The)  
   * Gone Girl  
@@ -85,22 +85,50 @@
   * Social Network (The)  
   * Zodiac
 
-## Jean Cocteau (4)
+## Jean Cocteau (11)
 
   * Aigle à deux têtes (L')  
   * Belle et la Bête (La)  
+  * Couronne noire (La)  
+  * Enfants terribles (Les)  
+  * Mystère d'Oberwald (Le)  
+  * Orphée  
+  * Parents terribles (Les)  
+  * Princesse de Clèves (La)  
   * Sang d'un poète (Le)  
+  * Testament d'Orphée ou Ne me demandez pas pourquoi (Le)  
   * Villa Santo Sospir (La)
 
-## Jerry Lewis (7)
+## Jerry Lewis (14)
 
+  * Au boulot, Jerry  
+  * Clown TV (Der)  
   * Dingue du palace (Le)  
+  * Jerry grande gueule  
   * Jerry Lewis  
   * Jerry souffre douleur  
   * One More Time  
+  * Re-Inforcer (The)  
   * T'es fou Jerry !  
   * Tombeur de ces dames (Le)  
-  * Tontons farceurs (Les)
+  * Tontons farceurs (Les)  
+  * Trois sur un sofa  
+  * Ya ya mon général  
+  * Zinzin d'Hollywood (Le)
+
+## Kim Jee-woon (11)
+
+  * A Bittersweet Life  
+  * Age of Shadows (The)  
+  * Bon, la brute, le cinglé (Le)  
+  * Dans la toile  
+  * Dernier rempart (Le)  
+  * Deux sœurs  
+  * Fool King  
+  * Illang : la Brigade des loups  
+  * J'ai rencontré le diable  
+  * Quiet Family (The)  
+  * Trois histoires de l'au-delà
 
 ## Ma petite Cinémathèque (14)
 
@@ -135,12 +163,15 @@
   * Vampiro sangriento (El)  
   * Veneno para las hadas
 
-## Pascal Thomas (15)
+## Pascal Thomas (17)
 
+  * A cause des filles ?  
+  * Associés contre le crime  
   * Celles qu'on n'a pas eues  
   * Chaud lapin (Le)  
   * Confidences pour confidences  
   * Crime est notre affaire (Le)  
+  * Dilettante (La)  
   * Ensemble, nous allons vivre une très, très grande histoire d'amour  
   * Grand appartement (Le)  
   * Heure zéro (L')  
@@ -150,14 +181,14 @@
   * Pagaille (La)  
   * Pleure pas la bouche pleine  
   * Surprise du chef (La)  
-  * Un oursin dans la poche  
   * Zozos (Les)
 
-## Raoul Walsh (70)
+## Raoul Walsh (77)
 
   * Amour de marin  
   * Annie du Klondike  
   * Artistes et modèles  
+  * Au pays du rêve  
   * Au service de la gloire  
   * Au service de sa majesté  
   * Aventures du capitaine Wyatt (Les)  
@@ -172,10 +203,12 @@
   * Charge de la huitième brigade (La)  
   * Charge fantastique (La)  
   * Cheyenne  
+  * College Swing  
   * Cri de la victoire (Le)  
   * Danse rouge  
   * Déchaînés (Les)  
   * Désert de la peur = Une corde pour te pendre (Le)  
+  * Deux aventuriers  
   * Du sang sur la neige  
   * Empreintes digitales  
   * Enfer est à lui (L')  
@@ -187,14 +220,15 @@
   * Fantastiques années 20 (Les)  
   * Faubourgs de New York (Les)  
   * Femme à abattre (La)  
+  * Femme en cage (La)  
   * Fille du désert (La)  
   * Fils prodigue (Le)  
   * Géants du ciel (Les)  
   * Gentleman Jim  
   * Grande évasion (La)  
+  * Horn Blows at Midnight (The)  
   * Hors du gouffre  
   * Implacables (Les)  
-  * In Old Arizona  
   * Intrigues en Orient  
   * Kindred of the Dust (The)  
   * Loves of Carmen (The)  
@@ -206,7 +240,7 @@
   * Mystery of the Hindu Image (The)  
   * Nuit après nuit  
   * Nus et les morts (Les)  
-  * Passeport jaune (Le)  
+  * One Sunday Afternoon  
   * Pillars of Society  
   * Piste des géants (La)  
   * Regeneration  
@@ -214,17 +248,20 @@
   * Rivière d'argent (La)  
   * Roi et quatre reines (Le)  
   * Ruelle du péché (La)  
+  * Sa dernière course  
   * Sabotage à Berlin  
   * Saboteur sans gloire  
+  * Saint Louis Blues  
   * Singe qui parle (Le)  
   * Spendthrift  
   * Têtes brûlées  
+  * Un dimanche après-midi  
   * Un lion dans la rue = L'Homme à abattre  
   * Une femme dangereuse  
   * Vallée de la peur (La)  
   * Victime du destin  
-  * Voleur de Bagdad (Le)  
-  * Wild Girl
+  * Wild Girl  
+  * Women of All Nations
 
 ## Séances spéciales (2)
 

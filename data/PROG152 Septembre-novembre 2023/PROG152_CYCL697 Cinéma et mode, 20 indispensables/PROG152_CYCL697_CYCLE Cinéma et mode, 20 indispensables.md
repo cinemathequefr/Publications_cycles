@@ -89,7 +89,7 @@ de George Cukor
 Avec Norma Shearer, Joan Crawford, Rosalind Russell.  
 Une femme mariée retrouve régulièrement ses amies. Certaines d'entre elles sont au courant que son mari la trompe, ce qu'elle ignore.
 
-- Sa 16 sep 16h15 GF
+- Sa 16 sep 15h00 GF
 
 [30636]  
 **Mannequin**  
@@ -136,7 +136,7 @@ Italie / 1985 / 90 min / VOSTF / 35 mm
 Avec Tom Schanley, Renée Simonsen, Donald Pleasence.  
 Bob Crane travaille à Yellowstone Park aux États-Unis et a une sœur nommée Jessica qui travaille comme mannequin à Milan. Un jour, Jessica disparaît et Bob se précipite à Milan où avec le commissaire Danesi il tente de résoudre l'affaire.
 
-- Me 13 sep 20h30 GF
+- Ve 22 sep 21h00 GF
 
 [131532]  
 **Personal Shopper**  
@@ -182,7 +182,7 @@ France-Belgique / 2013 / 135 min
 Avec Gaspard Ulliel, Jérémie Renier, Louis Garrel.  
 1967 – 1976. La rencontre de l'un des plus grands couturiers de tous les temps avec une décennie libre.
 
-- Di 17 sep 16h15 GF
+- Di 17 sep 15h30 GF
 
 [83125]  
 **Six femmes pour l'assassin**  
@@ -192,7 +192,7 @@ Italie-France-RFA / 1964 / 86 min / VOSTF / DCP
 Avec Eva Bartok, Cameron Mitchell, Thomas Reiner.  
 Une série de meurtres est perpétrée sur les mannequins d'une maison de haute couture réputée.
 
-- Me 13 sep 18h30 GF
+- Ve 22 sep 19h00 GF
 
 [76324]  
 **Zoolander**  
@@ -201,5 +201,5 @@ de Ben Stiller
 Avec Ben Stiller, Owen Wilson, Christine Taylor.  
 Après avoir remporté le trophée du meilleur top model trois années consécutives Derek Zoolander perd face à un nouveau venu, Hansel, un jeune blond aussi stupide que lui. Cependant, le grand couturier Mugatu veut tout de même l'engager pour présenter sa nouvelle collection.
 
-- Sa 16 sep 19h00 GF
+- Me 20 sep 18h30 GF
 

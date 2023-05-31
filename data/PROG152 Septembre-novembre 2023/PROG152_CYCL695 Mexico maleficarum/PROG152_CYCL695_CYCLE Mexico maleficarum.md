@@ -7,7 +7,7 @@
 de Juan López Moctezuma  
 Mexique / 1978 / 75 min / VOSTF / DCP
 
-- Me 1 nov 20h30 GF
+- Sa 4 nov 19h30 GF
 
 [154428]  
 **Las Amantes del Señor de la Noche**  
@@ -60,14 +60,14 @@ Avec Rosita Arenas, Armando Calvo, Isabela Corona, Dina de Marco, Carlos Nieto.
 Sara est employée domestique chez un docteur fou, enclin au féminicide. Elle est aussi une sorcière, qui communique avec des esprits tout-puissants et rêve de venger la mort de sa filleule, l'ancienne femme de son employeur.  
 Restauration en 2K par Alameda Films.
 
-- Je 2 nov 19h30 GF
+- Ve 3 nov 19h00 GF
 
 [154474]  
 **El Mundo de los muertos**  
 de Gilberto Martinez Solares  
 Mexique / 1970 / 85 min / VOSTF / DCP
 
-- Me 1 nov 18h30 GF
+- Sa 4 nov 17h00 GF
 
 [154264]  
 **Museo del horror**  

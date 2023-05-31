@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2023-08-30T20:00:00",
-    "2023-10-23T20:45:00"
+    "2023-11-06T20:30:00"
   ],
   "sousCycles": [
     {
@@ -100,6 +100,36 @@
           ]
         },
         {
+          "idFilm": 84223,
+          "content": [
+            {
+              "idFilm": 84223,
+              "ordre": 1,
+              "titre": "Au pays du rêve",
+              "titreVo": "Going Hollywood",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1933,
+              "duree": 84,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Marion Davies",
+                "Bing Crosby",
+                "Robert Montgomery"
+              ],
+              "miniTexte": "Pour sa première incursion dans le _musical_, Walsh s'amuse de l'obsession amoureuse d'une professeure de français pour un célèbre crooner d'Hollywood. Parmi les numéros chantés, _Temptation_ et _Beautiful Girl_ seront repris vingt ans plus tard dans _Chantons sous la pluie_."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104815,
+              "dateHeure": "2023-11-02T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 45140,
           "content": [
             {
@@ -186,8 +216,7 @@
           "seances": [
             {
               "idSeance": 104417,
-              "typeAssoc": 118,
-              "dateHeure": "2023-09-16T14:30:00",
+              "dateHeure": "2023-09-17T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -532,6 +561,34 @@
           ]
         },
         {
+          "idFilm": 80089,
+          "content": [
+            {
+              "idFilm": 80089,
+              "ordre": 1,
+              "titre": "College Swing",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1938,
+              "duree": 88,
+              "version": "STF",
+              "format": "16 mm",
+              "generique": [
+                "George Burns",
+                "Gracie Allen",
+                "Martha Raye"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104817,
+              "dateHeure": "2023-11-04T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 37663,
           "content": [
             {
@@ -555,8 +612,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104441,
-              "dateHeure": "2023-09-16T20:30:00",
+              "idSeance": 104811,
+              "dateHeure": "2023-09-09T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -586,7 +643,7 @@
           "seances": [
             {
               "idSeance": 104518,
-              "dateHeure": "2023-10-07T17:30:00",
+              "dateHeure": "2023-10-07T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -648,6 +705,35 @@
               "idSeance": 104650,
               "dateHeure": "2023-09-07T21:15:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idEvenement": 26909,
+          "content": [
+            {
+              "idFilm": 85148,
+              "ordre": 1,
+              "titre": "Deux aventuriers",
+              "titreVo": "When Thief Meets Thief",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1937,
+              "duree": 87,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Douglas Fairbanks Jr.",
+                "Valerie Hobson",
+                "Alan Hale"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104813,
+              "dateHeure": "2023-10-01T17:45:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -887,7 +973,7 @@
           "seances": [
             {
               "idSeance": 104516,
-              "dateHeure": "2023-10-08T19:45:00",
+              "dateHeure": "2023-10-08T19:15:00",
               "idSalle": "GF"
             }
           ]
@@ -982,6 +1068,36 @@
               "idSeance": 104568,
               "dateHeure": "2023-09-29T20:00:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 36820,
+          "content": [
+            {
+              "idFilm": 36820,
+              "ordre": 1,
+              "titre": "Femme en cage",
+              "art": "La",
+              "titreVo": "Hitting a New High",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1937,
+              "duree": 87,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Lily Pons",
+                "Jack Oakie",
+                "John Howard"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104822,
+              "dateHeure": "2023-11-06T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1090,6 +1206,7 @@
               "duree": 104,
               "version": "VOSTF",
               "format": "35 mm",
+              "ageMinimal": 9,
               "adaptation": "D'après l'ouvrage _The Roar of the Crowd_ de James J. Corbett.",
               "generique": [
                 "Errol Flynn",
@@ -1102,7 +1219,8 @@
             {
               "idSeance": 104362,
               "dateHeure": "2023-09-03T16:45:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "ageMinimal": 9
             }
           ]
         },
@@ -1134,6 +1252,35 @@
               "idSeance": 104353,
               "dateHeure": "2023-09-01T20:15:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 85146,
+          "content": [
+            {
+              "idFilm": 85146,
+              "ordre": 1,
+              "titre": "Horn Blows at Midnight",
+              "art": "The",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1943,
+              "duree": 80,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Jack Benny",
+                "Alexis Smith",
+                "Dolores Moran"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104820,
+              "dateHeure": "2023-11-05T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1199,34 +1346,6 @@
           ]
         },
         {
-          "idFilm": 36818,
-          "content": [
-            {
-              "idFilm": 36818,
-              "ordre": 1,
-              "titre": "In Old Arizona",
-              "realisateurs": "Irving Cummings, Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1929,
-              "duree": 95,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Warner Baxter",
-                "Edmund Lowe",
-                "Dorothy Burgess"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104723,
-              "dateHeure": "2023-10-13T18:15:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 37781,
           "content": [
             {
@@ -1280,7 +1399,7 @@
           "seances": [
             {
               "idSeance": 104513,
-              "dateHeure": "2023-10-04T20:00:00",
+              "dateHeure": "2023-10-04T19:45:00",
               "idSalle": "JE"
             }
           ]
@@ -1309,7 +1428,7 @@
           "seances": [
             {
               "idSeance": 104515,
-              "dateHeure": "2023-10-08T17:30:00",
+              "dateHeure": "2023-10-08T17:00:00",
               "idSalle": "GF"
             }
           ]
@@ -1338,7 +1457,7 @@
           "seances": [
             {
               "idSeance": 104514,
-              "dateHeure": "2023-10-07T14:30:00",
+              "dateHeure": "2023-10-07T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -1367,8 +1486,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104692,
-              "dateHeure": "2023-09-09T14:30:00",
+              "idSeance": 104810,
+              "dateHeure": "2023-09-16T21:00:00",
               "idSalle": "HL"
             }
           ]
@@ -1425,7 +1544,7 @@
           "seances": [
             {
               "idSeance": 104726,
-              "dateHeure": "2023-10-14T17:30:00",
+              "dateHeure": "2023-10-14T17:45:00",
               "idSalle": "GF"
             }
           ]
@@ -1456,7 +1575,7 @@
           "seances": [
             {
               "idSeance": 104375,
-              "dateHeure": "2023-09-09T18:15:00",
+              "dateHeure": "2023-09-09T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -1546,38 +1665,35 @@
           "seances": [
             {
               "idSeance": 104589,
-              "dateHeure": "2023-09-23T19:00:00",
+              "dateHeure": "2023-09-23T19:30:00",
               "idSalle": "HL"
             }
           ]
         },
         {
-          "idFilm": 72462,
+          "idFilm": 80872,
           "content": [
             {
-              "idFilm": 72462,
+              "idFilm": 80872,
               "ordre": 1,
-              "titre": "Passeport jaune",
-              "art": "Le",
-              "titreVo": "Yellow Ticket",
-              "artVo": "The",
+              "titre": "One Sunday Afternoon",
               "realisateurs": "Raoul Walsh",
               "pays": "États-Unis",
-              "annee": 1931,
-              "duree": 75,
+              "annee": 1948,
+              "duree": 90,
               "version": "VOSTF",
-              "format": "DCP",
+              "format": "16 mm",
               "generique": [
-                "Boris Karloff",
-                "Lionel Barrymore",
-                "Laurence Olivier"
+                "Dorothy Malone",
+                "Dennis Morgan",
+                "Janis Paige"
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 104724,
-              "dateHeure": "2023-10-13T20:15:00",
+              "idSeance": 104823,
+              "dateHeure": "2023-11-06T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -1637,7 +1753,7 @@
           "seances": [
             {
               "idSeance": 104440,
-              "dateHeure": "2023-09-16T18:00:00",
+              "dateHeure": "2023-09-16T18:30:00",
               "idSalle": "HL"
             },
             {
@@ -1796,6 +1912,35 @@
           ]
         },
         {
+          "idFilm": 59155,
+          "content": [
+            {
+              "idFilm": 59155,
+              "ordre": 1,
+              "titre": "Sa dernière course",
+              "titreVo": "Salty O'Rourke",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1945,
+              "duree": 100,
+              "version": "VOSTF",
+              "format": "16 mm",
+              "generique": [
+                "Alan Ladd",
+                "Gail Russell",
+                "William Demarest"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104821,
+              "dateHeure": "2023-11-05T20:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 37814,
           "content": [
             {
@@ -1854,6 +1999,34 @@
           ]
         },
         {
+          "idFilm": 80137,
+          "content": [
+            {
+              "idFilm": 80137,
+              "ordre": 1,
+              "titre": "Saint Louis Blues",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1939,
+              "duree": 90,
+              "version": "VOSTF",
+              "format": "16 mm",
+              "generique": [
+                "Dorothy Lamour",
+                "Lloyd Nolan",
+                "Jerome Cowan"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104843,
+              "dateHeure": "2023-11-01T18:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 85152,
           "content": [
             {
@@ -1879,7 +2052,7 @@
           "seances": [
             {
               "idSeance": 104517,
-              "dateHeure": "2023-10-07T16:00:00",
+              "dateHeure": "2023-10-07T16:30:00",
               "idSalle": "GF"
             }
           ]
@@ -1937,8 +2110,38 @@
           "seances": [
             {
               "idSeance": 104612,
-              "dateHeure": "2023-10-07T19:45:00",
+              "dateHeure": "2023-10-07T20:15:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 36872,
+          "content": [
+            {
+              "idFilm": 36872,
+              "ordre": 1,
+              "titre": "Un dimanche après-midi",
+              "titreVo": "Strawberry Blonde",
+              "artVo": "The",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1940,
+              "duree": 98,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "James Cagney",
+                "Olivia De Havilland",
+                "Rita Hayworth"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104844,
+              "dateHeure": "2023-11-01T20:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -2063,37 +2266,6 @@
           ]
         },
         {
-          "idFilm": 36875,
-          "content": [
-            {
-              "idFilm": 36875,
-              "ordre": 1,
-              "titre": "Voleur de Bagdad",
-              "art": "Le",
-              "titreVo": "Thief of Bagdad",
-              "artVo": "The",
-              "realisateurs": "Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1924,
-              "duree": 140,
-              "version": "INT. FR.",
-              "format": "DCP",
-              "generique": [
-                "Douglas Fairbanks",
-                "Snitz Edwards",
-                "Anna May Wong"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104644,
-              "dateHeure": "2023-09-17T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 82501,
           "content": [
             {
@@ -2116,8 +2288,36 @@
           "seances": [
             {
               "idSeance": 104727,
-              "dateHeure": "2023-10-14T19:15:00",
+              "dateHeure": "2023-10-14T19:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 67395,
+          "content": [
+            {
+              "idFilm": 67395,
+              "ordre": 1,
+              "titre": "Women of All Nations",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1931,
+              "duree": 72,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Edmund Lowe",
+                "Victor McLaglen",
+                "Greta Nissen"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104814,
+              "dateHeure": "2023-10-01T20:00:00",
+              "idSalle": "HL"
             }
           ]
         }
@@ -2151,7 +2351,6 @@
           "content": [
             {
               "idEvenement": 28588,
-              "ordre": 2,
               "titre": "Film + discussion avec Pierre Gabaston",
               "sousTitre": "Conférence de Pierre Gabaston",
               "typeConference": "Conférence"
@@ -2159,9 +2358,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104417,
-              "typeAssoc": 118,
-              "dateHeure": "2023-09-16T14:30:00",
+              "idSeance": 104669,
+              "dateHeure": "2023-09-17T16:15:00",
               "idSalle": "HL"
             }
           ]

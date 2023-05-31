@@ -3,31 +3,33 @@
     "idCategorie": 3042,
     "typeEvenement": 13,
     "idEvenement": 28312,
-    "idSeance": 104630,
-    "dateHeure": "2023-09-18T20:00:00",
+    "idSeance": 104781,
+    "dateHeure": "2023-09-11T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeSeance": 43,
     "items": [
       {
         "idFilm": 154427,
         "ordre": 1,
-        "idSeance": 104630,
+        "idSeance": 104781,
         "idCopie": 26059,
         "duree": 104,
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Avant-première"
   },
   {
     "idCategorie": 3042,
     "typeEvenement": 13,
     "idEvenement": 28286,
-    "idSeance": 104478,
-    "dateHeure": "2023-09-20T18:30:00",
+    "idSeance": 104782,
+    "dateHeure": "2023-09-13T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -37,7 +39,7 @@
       {
         "idFilm": 69025,
         "ordre": 1,
-        "idSeance": 104478,
+        "idSeance": 104782,
         "idCopie": 26066,
         "duree": 93,
         "version": "",
@@ -49,8 +51,8 @@
     "idCategorie": 3042,
     "typeEvenement": 13,
     "idEvenement": 28287,
-    "idSeance": 104479,
-    "dateHeure": "2023-09-20T20:30:00",
+    "idSeance": 104783,
+    "dateHeure": "2023-09-13T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -60,7 +62,7 @@
       {
         "idFilm": 47116,
         "ordre": 1,
-        "idSeance": 104479,
+        "idSeance": 104783,
         "idCopie": 26064,
         "duree": 94,
         "version": "",
@@ -71,9 +73,32 @@
   {
     "idCategorie": 3042,
     "typeEvenement": 13,
+    "idEvenement": 28288,
+    "idSeance": 104784,
+    "dateHeure": "2023-09-16T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 47092,
+        "ordre": 1,
+        "idSeance": 104784,
+        "idCopie": 26054,
+        "duree": 88,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3042,
+    "typeEvenement": 13,
     "idEvenement": 28289,
-    "idSeance": 104480,
-    "dateHeure": "2023-09-22T18:30:00",
+    "idSeance": 104801,
+    "dateHeure": "2023-09-16T18:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -83,7 +108,7 @@
       {
         "idFilm": 47115,
         "ordre": 1,
-        "idSeance": 104480,
+        "idSeance": 104801,
         "idCopie": 26062,
         "duree": 105,
         "version": "",
@@ -95,8 +120,8 @@
     "idCategorie": 3042,
     "typeEvenement": 13,
     "idEvenement": 28291,
-    "idSeance": 104481,
-    "dateHeure": "2023-09-22T20:45:00",
+    "idSeance": 104802,
+    "dateHeure": "2023-09-16T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -106,93 +131,9 @@
       {
         "idFilm": 60437,
         "ordre": 1,
-        "idSeance": 104481,
+        "idSeance": 104802,
         "idCopie": 26208,
         "duree": 113,
-        "version": "",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3059,
-    "typeEvenement": 14,
-    "idEvenement": 28356,
-    "idSeance": 104313,
-    "dateHeure": "2023-09-23T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 210,
-    "items": [
-      {}
-    ]
-  },
-  {
-    "idCategorie": 3042,
-    "typeEvenement": 13,
-    "idEvenement": 28288,
-    "idSeance": 104451,
-    "dateHeure": "2023-09-23T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 47092,
-        "ordre": 1,
-        "idSeance": 104451,
-        "idCopie": 26054,
-        "duree": 88,
-        "version": "",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3042,
-    "typeEvenement": 13,
-    "idEvenement": 28292,
-    "idSeance": 104482,
-    "dateHeure": "2023-09-23T18:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 64238,
-        "ordre": 1,
-        "idSeance": 104482,
-        "idCopie": 26061,
-        "duree": 98,
-        "version": "",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3042,
-    "typeEvenement": 13,
-    "idEvenement": 28293,
-    "idSeance": 104483,
-    "dateHeure": "2023-09-23T20:45:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 73479,
-        "ordre": 1,
-        "idSeance": 104483,
-        "idCopie": 26055,
-        "duree": 93,
         "version": "",
         "format": "35 mm"
       }
@@ -202,8 +143,8 @@
     "idCategorie": 3042,
     "typeEvenement": 13,
     "idEvenement": 28294,
-    "idSeance": 104484,
-    "dateHeure": "2023-09-24T17:15:00",
+    "idSeance": 104791,
+    "dateHeure": "2023-09-17T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -213,7 +154,7 @@
       {
         "idFilm": 111102,
         "ordre": 1,
-        "idSeance": 104484,
+        "idSeance": 104791,
         "idCopie": 11357,
         "duree": 84,
         "version": "STA",
@@ -224,9 +165,101 @@
   {
     "idCategorie": 3042,
     "typeEvenement": 13,
+    "idEvenement": 28292,
+    "idSeance": 104805,
+    "dateHeure": "2023-09-20T20:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 64238,
+        "ordre": 1,
+        "idSeance": 104805,
+        "idCopie": 26061,
+        "duree": 98,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3042,
+    "typeEvenement": 13,
+    "idEvenement": 28298,
+    "idSeance": 104795,
+    "dateHeure": "2023-09-21T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 111101,
+        "ordre": 1,
+        "idSeance": 104795,
+        "idCopie": 26058,
+        "duree": 90,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3042,
+    "typeEvenement": 13,
+    "idEvenement": 28299,
+    "idSeance": 104796,
+    "dateHeure": "2023-09-21T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 154420,
+        "ordre": 1,
+        "idSeance": 104796,
+        "idCopie": 26060,
+        "duree": null,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3042,
+    "typeEvenement": 13,
+    "idEvenement": 28293,
+    "idSeance": 104812,
+    "dateHeure": "2023-09-23T15:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 73479,
+        "ordre": 1,
+        "idSeance": 104812,
+        "idCopie": 26055,
+        "duree": 93,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3042,
+    "typeEvenement": 13,
     "idEvenement": 28295,
-    "idSeance": 104485,
-    "dateHeure": "2023-09-24T19:15:00",
+    "idSeance": 104806,
+    "dateHeure": "2023-09-23T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -236,7 +269,7 @@
       {
         "idFilm": 79126,
         "ordre": 1,
-        "idSeance": 104485,
+        "idSeance": 104806,
         "idCopie": 26063,
         "duree": 93,
         "version": "",
@@ -248,8 +281,8 @@
     "idCategorie": 3042,
     "typeEvenement": 13,
     "idEvenement": 28296,
-    "idSeance": 104487,
-    "dateHeure": "2023-09-25T18:00:00",
+    "idSeance": 104807,
+    "dateHeure": "2023-09-23T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -259,7 +292,7 @@
       {
         "idFilm": 88526,
         "ordre": 1,
-        "idSeance": 104487,
+        "idSeance": 104807,
         "idCopie": 26057,
         "duree": 100,
         "version": "",
@@ -271,8 +304,8 @@
     "idCategorie": 3042,
     "typeEvenement": 13,
     "idEvenement": 28297,
-    "idSeance": 104488,
-    "dateHeure": "2023-09-25T20:15:00",
+    "idSeance": 104808,
+    "dateHeure": "2023-09-24T17:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -282,7 +315,7 @@
       {
         "idFilm": 101896,
         "ordre": 1,
-        "idSeance": 104488,
+        "idSeance": 104808,
         "idCopie": 26065,
         "duree": 114,
         "version": "",
@@ -293,55 +326,9 @@
   {
     "idCategorie": 3042,
     "typeEvenement": 13,
-    "idEvenement": 28299,
-    "idSeance": 104490,
-    "dateHeure": "2023-09-28T18:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 154420,
-        "ordre": 1,
-        "idSeance": 104490,
-        "idCopie": 26060,
-        "duree": null,
-        "version": "",
-        "format": ""
-      }
-    ]
-  },
-  {
-    "idCategorie": 3042,
-    "typeEvenement": 13,
-    "idEvenement": 28298,
-    "idSeance": 104489,
-    "dateHeure": "2023-09-28T20:45:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 111101,
-        "ordre": 1,
-        "idSeance": 104489,
-        "idCopie": 26058,
-        "duree": 90,
-        "version": "",
-        "format": ""
-      }
-    ]
-  },
-  {
-    "idCategorie": 3042,
-    "typeEvenement": 13,
     "idEvenement": 28300,
-    "idSeance": 104493,
-    "dateHeure": "2023-09-30T15:30:00",
+    "idSeance": 104809,
+    "dateHeure": "2023-09-24T19:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -351,7 +338,7 @@
       {
         "idFilm": 122386,
         "ordre": 1,
-        "idSeance": 104493,
+        "idSeance": 104809,
         "idCopie": 26056,
         "duree": 104,
         "version": "",

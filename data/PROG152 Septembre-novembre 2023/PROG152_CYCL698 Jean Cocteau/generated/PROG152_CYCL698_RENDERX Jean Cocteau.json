@@ -54,6 +54,7 @@
               "duree": 100,
               "version": "",
               "format": "35 mm",
+              "ageMinimal": 6,
               "adaptation": "D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.",
               "generique": [
                 "Josette Day",
@@ -66,7 +67,68 @@
             {
               "idSeance": 104690,
               "dateHeure": "2023-11-22T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idFilm": 47762,
+          "content": [
+            {
+              "idFilm": 47762,
+              "ordre": 1,
+              "titre": "Orphée",
+              "realisateurs": "Jean Cocteau",
+              "pays": "France",
+              "annee": 1949,
+              "duree": 91,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Jean Marais",
+                "Maria Casarès",
+                "François Périer",
+                "Marie Déa"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104855,
+              "dateHeure": "2023-11-17T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 47712,
+          "content": [
+            {
+              "idFilm": 47712,
+              "ordre": 1,
+              "titre": "Parents terribles",
+              "art": "Les",
+              "realisateurs": "Jean Cocteau",
+              "pays": "France",
+              "annee": 1948,
+              "duree": 100,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après la pièce _Les Parents terribles_ de Jean Cocteau.",
+              "generique": [
+                "Jean Marais",
+                "Josette Day",
+                "Yvonne de Bray",
+                "Gabrielle Dorziat"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104850,
+              "dateHeure": "2023-11-19T15:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -101,6 +163,35 @@
           ]
         },
         {
+          "idFilm": 47714,
+          "content": [
+            {
+              "idFilm": 47714,
+              "ordre": 1,
+              "titre": "Testament d'Orphée ou Ne me demandez pas pourquoi",
+              "art": "Le",
+              "realisateurs": "Jean Cocteau",
+              "pays": "France",
+              "annee": 1959,
+              "duree": 0,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Jean Cocteau",
+                "Jean Marais",
+                "Maria Casarès"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104856,
+              "dateHeure": "2023-11-17T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 62173,
           "content": [
             {
@@ -127,6 +218,135 @@
               "typeAssoc": 118,
               "dateHeure": "2023-11-16T19:30:00",
               "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Cocteau scénariste, dialoguiste et adaptateur",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 43788,
+          "content": [
+            {
+              "idFilm": 43788,
+              "ordre": 1,
+              "titre": "Couronne noire",
+              "art": "La",
+              "titreVo": "Corona negra",
+              "artVo": "La",
+              "realisateurs": "Luis Saslavsky",
+              "pays": "Espagne",
+              "annee": 1950,
+              "duree": 94,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "María Félix",
+                "Rossano Brazzi",
+                "Vittorio Gassman"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104852,
+              "dateHeure": "2023-11-18T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 50142,
+          "content": [
+            {
+              "idFilm": 50142,
+              "ordre": 1,
+              "titre": "Enfants terribles",
+              "art": "Les",
+              "realisateurs": "Jean-Pierre Melville",
+              "pays": "France",
+              "annee": 1949,
+              "duree": 107,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Les Enfants terribles_ de Jean Cocteau.",
+              "generique": [
+                "Nicole Stéphane",
+                "Jacques Bernard",
+                "Edouard Dermit"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104851,
+              "dateHeure": "2023-11-19T17:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 42487,
+          "content": [
+            {
+              "idFilm": 42487,
+              "ordre": 1,
+              "titre": "Mystère d'Oberwald",
+              "art": "Le",
+              "titreVo": "Mistero di Oberwald",
+              "artVo": "Il",
+              "realisateurs": "Michelangelo Antonioni",
+              "pays": "Italie",
+              "annee": 1980,
+              "duree": 128,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après la pièce _L'Aigle à deux têtes_ de Jean Cocteau.",
+              "generique": [
+                "Monica Vitti",
+                "Franco Branciaroli",
+                "Luigi Diberti"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104854,
+              "dateHeure": "2023-11-19T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 47979,
+          "content": [
+            {
+              "idFilm": 47979,
+              "ordre": 1,
+              "titre": "Princesse de Clèves",
+              "art": "La",
+              "realisateurs": "Jean Delannoy",
+              "pays": "France-Italie",
+              "annee": 1960,
+              "duree": 111,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _La Princesse de Clèves_ de Madame de La Fayette.",
+              "generique": [
+                "Marina Vlady",
+                "Jean Marais",
+                "Jean-François Poron"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104853,
+              "dateHeure": "2023-11-18T19:00:00",
+              "idSalle": "GF"
             }
           ]
         }
