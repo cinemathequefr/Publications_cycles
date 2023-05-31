@@ -81,7 +81,7 @@ Avec Errol Flynn, James Brown, William Prince.
 Fleuron du film de guerre, sorti en 1945, _Aventures en Birmanie_ plonge le spectateur au cœur de l'action d'un commando américain chargé de faire sauter un radar japonais dans la jungle birmane. Description minutieuse du comportement des combattants en pleine mission, la mise en scène de Walsh, réglée au cordeau, montre la guerre avec un réalisme époustouflant. Inquiétude, fatigue, angoisse, l'intrigue avance progressivement au rythme des corps s'enfonçant dans la végétation d'une moiteur terrifiante. Une descente aux enfers, menée par Errol Flynn au sommet de son art, d'un lyrisme et d'un suspense saisissants.  
 En 1943, un commando de parachutistes américains est largué au-dessus de la zone occupée en Birmanie pour détruire une station radar japonaise. Sa mission accomplie, le commando doit redoubler d'efforts pour fuir les soldats de l'armée japonaise.
 
-- Je 28 sep 20h15 HL
+- Sa 30 sep 20h30 HL
 
 [58507]  
 **Barbe-Noire le pirate**  
@@ -221,7 +221,7 @@ de Raoul Walsh
 Avec Sal Mineo, Christine Carère, Barry Coe.  
 Trois énergiques jeunes soldats, Luigi, Jerry et Mike, font leurs classes dans un camp d'entraînement militaire lorsqu'ils apprennent qu'ils sont sélectionnés pour représenter leur unité dans un spectacle télévisé.
 
-- Me 11 oct 18h30 HL
+- Me 11 oct 18h00 HL
 
 [37734]  
 **Le Désert de la peur = Une corde pour te pendre**  
@@ -428,7 +428,7 @@ d'Irving Cummings, Raoul Walsh
 Avec Warner Baxter, Edmund Lowe, Dorothy Burgess.  
 Un bandit mexicain, Cisco Kid, qui échappe régulièrement à ses poursuivants, est trahi par une femme.
 
-- Ve 13 oct 17h30 GF
+- Ve 13 oct 18h15 GF
 
 [37781]  
 **Intrigues en Orient**  
@@ -486,7 +486,7 @@ de Raoul Walsh
 Avec Tom Tryon, David Hedison, Tom Reese.  
 Pendant la guerre de Corée, trois Marines, bénéficiant d'une permission au Japon, vivent diverses aventures sentimentales, avant d'être rappelés au front.
 
-- Me 11 oct 20h30 HL
+- Me 11 oct 20h00 HL
 
 [36832]  
 **Mon ami et moi**  
@@ -548,7 +548,7 @@ de Raoul Walsh
 Avec Boris Karloff, Lionel Barrymore, Laurence Olivier.  
 Pour pouvoir aller rendre visite à son père emprisonné par les autorités tsaristes, une jeune juive russe décide de demander un passeport jaune (normalement attribué aux prostituées) qui lui permettra de voyager dans le pays.
 
-- Ve 13 oct 17h30 GF
+- Ve 13 oct 20h15 GF
 
 [36848]  
 **Pillars of Society**  
@@ -570,6 +570,25 @@ Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'appr
 
 - Sa 16 sep 18h00 HL  
 - Di 1 oct 15h00 HL
+
+[36854]  
+**Regeneration**  
+de Raoul Walsh  
+États-Unis / 1915 / 72 min / INT. FR. / DCP  
+Avec John McCann, James A. Marcus, Maggie Weston.  
+Orphelin à l'âge de 10 ans, Owen est recueilli par ses voisins violents. Cherchant à fuir ces derniers qui l'exploitent, Owen erre sur les docks de New York et devient chef de gang à 25 ans.
+
+- Di 24 sep 14h30 GF
+
+[36890]  
+**Rivaux**  
+**(Under Pressure)**  
+de Raoul Walsh  
+États-Unis / 1935 / 72 min / VOSTF / 16 mm  
+Avec Edmund Lowe, Victor McLaglen, Florence Rice.  
+Shocker et Jumbo travaillent comme ouvriers sur un tunnel qui relie Brooklyn à Manhattan. Ils s'éprenent tous les deux de Pat, la belle journaliste, entre eux commence une compétition à toute épreuve.
+
+- Sa 30 sep 18h30 HL
 
 [45139]  
 **La Rivière d'argent**  
@@ -619,7 +638,7 @@ de Raoul Walsh
 Avec Errol Flynn, Paul Lukas, Jean Sullivan.  
 Pendant la Seconde Guerre mondiale, un criminel évadé et un policier sont coincés dans un village dont les habitants ont été pris en otages par les Allemands.
 
-- Je 28 sep 18h00 HL
+- Je 28 sep 20h30 GF
 
 [85152]  
 **Le Singe qui parle**  

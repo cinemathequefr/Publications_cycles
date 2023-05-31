@@ -18,7 +18,7 @@ France / 1974 / 115 min / 35 mm
 Avec Bernard Menez, Daniel Ceccaldi, Claude Barrois, Brigitte Gruel.  
 William Jolivard vit seul mais soigne sa réputation de séducteur invétéré. Plaqué par une actrice avec qui il devait partir en vacances, il accepte l'invitation dans la Drôme de François, un ami d'enfance, où il va rencontrer les trois belles-sœurs de son hôte.
 
-- Ve 6 oct 16h00 GF
+- Ve 6 oct 18h00 GF
 
 [51405]  
 **Confidences pour confidences**  
@@ -29,14 +29,43 @@ Brigitte, jeune institutrice, se met à évoquer, un jour où elle déprime seul
 
 - Sa 7 oct 18h30 HL
 
-[64369]  
-**La Dilettante**  
+[105797]  
+**Le Crime est notre affaire**  
 de Pascal Thomas  
-France / 1998 / 118 min / 35 mm  
-Avec Catherine Frot, Barbara Schulz, Sébastien Cotterot, Bernard Verley.  
-Vivant depuis plus de quinze ans en Suisse, Pierrette Dumortier est une femme indépendante typique d'aujourd'hui qui assume seule son destin. A quarante ans, impatiente, détestant la routine et l'ennui, elle quitte tout, professionnellement et sentimentalement parlant, pour entamer une nouvelle vie à Paris.
+France / 2008 / 109 min / 35 mm  
+D'après le roman _Partners in crime_ d'Agatha Christie.  
+Avec Catherine Frot, André Dussollier, Claude Rich, Chiara Mastroianni, Melvil Poupaud.  
+Bélisaire et Prudence Beresford, anciens des services secrets, profitent de leur charmant manoir surplombant un lac savoyard. Mais Prudence s'ennuie. Elle rêve d'une nouvelle enquête. Une visite de la tante Babette lui fournit une occasion de sortir de sa retraite : la vieille dame a aperçu, dans un train, un homme étranglant une femme.
 
-- Lu 9 oct 18h30 GF
+- Ve 6 oct 15h30 GF
+
+[110834]  
+**Ensemble, nous allons vivre une très, très grande histoire d'amour**  
+de Pascal Thomas  
+France / 2009 / 100 min / VO / 35 mm  
+Avec Marina Hands, Julien Doré, Guillaume Gallienne.  
+Lorsque Dorothée et Nicolas se rencontrent... C'est le coup de foudre. Transportés par la force de leurs sentiments, ils sont persuadés qu'ils vont vivre la plus belle des histoires d'amour et se lancent dans une aventure fusionnelle avec enthousiasme et naïveté. Mais bientôt, la réalité les rattrape.
+
+- Ve 13 oct 16h00 GF
+
+[100327]  
+**Le Grand appartement**  
+de Pascal Thomas  
+France / 2005 / 103 min / 35 mm  
+Avec Laetitia Casta, Mathieu Amalric, Pierre Arditi, Noémie Lvovsky, Maurice Risch.  
+Endettés jusqu'au cou, Francesca et Martin risquent de perdre le grand appartement où ils vivent avec leur fille, une sœur ado, ses copines, une grand-mère, un réalisateur vieux beau et ses nombreuses conquêtes éphémères. Tandis que Martin fuit cette joyeuse tribu le temps d'un voyage professionnel en Italie, Francesca se démène comme elle peut pour sauver, littéralement, les meubles.
+
+- Me 11 oct 19h15 GF
+
+[102762]  
+**L'Heure zéro**  
+de Pascal Thomas  
+France / 2006 / 107 min / 35 mm  
+D'après le roman _Towards zero_ d'Agatha Christie.  
+Avec François Morel, Danielle Darrieux, Melvil Poupaud, Laura Smet.  
+Invités chez la richississime vieille tante Camilla, Caroline Neuville devra supporter la présence de l'ex-épouse de son mari, une certaine Aude. La situation ne semble guère affoler le flegmatique et mystérieux Guillaume Neuville, visiblement tenté de reconquérir son ancien amour. Autour de ce noyau explosif gravitent d'autres invités, devenus des meurtriers potentiels quand on retrouve, un beau matin, Camilla, morte assassinée.
+
+- Me 11 oct 17h00 GF
 
 [51406]  
 **Les Maris, les femmes, les amants**  
@@ -64,7 +93,7 @@ D'après le roman _Mon petit doigt m'a dit_ d'Agatha Christie.
 Avec Catherine Frot, André Dussollier, Geneviève Bujold, Laurent Terzieff.  
 Bélisaire et Prudence Beresford, un couple de retraités, venus rendre visite à leur tante Ada, apprennent par hasard la disparition mystérieuse d'une vieille dame dans la maison de retraite. Prudence décide de mener l'enquête avec l'aide de son mari dépassé par l'extravagance de son épouse.
 
-- Lu 9 oct 20h45 GF
+- Je 5 oct 15h30 GF
 
 [51397]  
 **La Pagaille**  
@@ -91,7 +120,7 @@ France / 1975 / 103 min / 35 mm
 Avec Annie Colé, Virginie Thévenet, Papinou.  
 Une amitié riche de souvenirs unit le rédacteur en chef d'un magazine à la mode et un restaurateur de province
 
-- Ve 6 oct 16h00 GF
+- Ve 6 oct 20h30 GF
 
 [57018]  
 **Un oursin dans la poche**  

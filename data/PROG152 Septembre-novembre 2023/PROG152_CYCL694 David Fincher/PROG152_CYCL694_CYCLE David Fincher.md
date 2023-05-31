@@ -5,7 +5,7 @@
 [31969]  
 **Alien 3**  
 de David Fincher  
-États-Unis / 1991 / 114 min / 35 mm  
+États-Unis / 1991 / 114 min / VOSTF / 35 mm  
 Avec Sigourney Weaver, Charles Dance, Charles S. Dutton.  
 Ellen Ripley a survécu au carnage provoqué par les Aliens sur la planète LV-426. Son vaisseau s'écrase sur Fiorina 161, une planète-prison où vit une vingtaine d'hommes, parmi les plus dangereux détenus de l'univers.
 
@@ -38,7 +38,7 @@ Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mang
 [29008]  
 **The Game**  
 de David Fincher  
-États-Unis / 1996 / 128 min  
+États-Unis / 1996 / 128 min / VOSTF / DCP  
 Avec Michael Douglas, Sean Penn.  
 Un riche magnat reçoit comme cadeau d'anniversaire de la part de son frère une invitation à participer à un jeu d'un genre nouveau. Ce fameux « Jeu » aura des répercussions vertigineuses dans sa vie, d'autant qu'aucune règle ne sera expliquée, ni son déroulement. ou Nicholas Van Orton, un richissime homme d'affaires reçoit comme cadeau d'anniversaire de la part de son frère Conrad une invitation à participer à un jeu d'un genre nouveau. D'abord sceptique, il se laisse tenter par cette aventure. Cette partie se révèle être un engrenage aux mécanismes diaboliques
 
@@ -47,7 +47,7 @@ Un riche magnat reçoit comme cadeau d'anniversaire de la part de son frère une
 [124663]  
 **Gone Girl**  
 de David Fincher  
-États-Unis / 2013 / 149 min  
+États-Unis / 2013 / 149 min / VOSTF / DCP  
 D'après le roman _Les Apparences_ de Gillian Flynn.  
 Avec Ben Affleck, Rosamund Pike, Neil Patrick Harris.  
 Beaux, jeunes et riches, Amy et Nick forment un couple envié à New York. Alors que le couple s'apprête à célébrer son 5e anniversaire de mariage, la jeune femme disparaît sans laisser de trace. Nick est immédiatement suspecté.
@@ -58,7 +58,8 @@ Beaux, jeunes et riches, Amy et Nick forment un couple envié à New York. Alors
 **The Killer**  
 de David Fincher  
 États-Unis / 2023 / 158 min / VOSTF / DCP  
-Avec Michael Fassbender, Tilda Swinton, Charles Parnell.
+Avec Michael Fassbender, Tilda Swinton, Charles Parnell.  
+Un assassin implacable commence à développer peu à peu une conscience entre le bien et le mal.
 
 - Je 12 oct 20h30 HL  
 - Je 12 oct 20h30 GF  
@@ -79,7 +80,7 @@ de David Fincher
 États-Unis-Suède / 2010 / 155 min / 35 mm  
 D'après le roman _Millenium :Les Hommes qui n'aimaient pas les femmes_ de Stieg Larsson.  
 Avec Daniel Craig, Rooney Mara, Christopher Plummer.  
-Mikael Blomvkist, journaliste d'investigation, enquête à la demande de l'ancien industriel Henrik Vanger sur la disparition de sa nièce, Harriet. Lisbeth Salander, jeune femme rebelle mais enquêtrice exceptionnelle, est chargée de se renseigner sur Blomkvist, ce qui va finalement la conduire à travailler avec lui.
+Blomkvist, journaliste d'investigation, enquête à la demande d'un ancien industriel sur la disparition de sa nièce, Harriet. Lisbeth Salander, jeune femme rebelle mais enquêtrice exceptionnelle, est chargée de se renseigner sur Blomkvist, ce qui va finalement la conduire à travailler avec lui.
 
 - Sa 21 oct 17h30 GF
 
@@ -97,7 +98,7 @@ Une mère et sa fille diabétique sont enfermées dans la chambre forte de leur 
 de David Fincher  
 États-Unis / 1995 / 130 min / VOSTF / 35 mm  
 Avec Brad Pitt, Morgan Freeman.  
-Proche retraité de la Police, l'inspecteur Somerset doit accueillir un jeune collègue, David Mills Or, une série de crimes énigmatiques, tous plus cruels les uns que les autres, perpétrés jour après jour au cours d'une semaine éprouvante, requiert leur équipe.
+Un tueur a entrepris d'accomplir sept crimes, inspirés de la série des sept péchés capitaux. À chaque meurtre, l'assassin laisse des indices.
 
 ---
 

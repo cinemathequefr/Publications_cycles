@@ -132,7 +132,9 @@ Jesse débarque à Los Angeles pour faire carrière dans le mannequinat. Sa beau
 **Où est passé Jessica ?**  
 **(Sotto il vestito niente)**  
 de Carlo Vanzina  
-Italie / 1985 / VOSTF / 35 mm
+Italie / 1985 / 90 min / VOSTF / 35 mm  
+Avec Tom Schanley, Renée Simonsen, Donald Pleasence.  
+Bob Crane travaille à Yellowstone Park aux États-Unis et a une sœur nommée Jessica qui travaille comme mannequin à Milan. Un jour, Jessica disparaît et Bob se précipite à Milan où avec le commissaire Danesi il tente de résoudre l'affaire.
 
 - Me 13 sep 20h30 GF
 
@@ -148,9 +150,9 @@ Maureen, jeune Américaine à Paris, s'occupe de la garde-robe d'une célébrit�
 [138368]  
 **Phantom Thread**  
 de Paul Thomas Anderson  
-États-Unis / 2017 / 130 min  
+États-Unis / 2017 / 130 min / VOSTF / DCP  
 Avec Vicky Krieps, Daniel Day-Lewis, Lesley Manville.  
-Reynolds Woodcock est un célèbre couturier qui exerce à Londres dans les années 1950, célibataire et solitaire. Il est aidé par sa sœur, Cyril solitaire également, qui s'occupe aussi bien de la prestigieuse Maison Woodcock que de la vie sentimentale de l'artiste. Jusqu'au jour où Woodcock rencontre Alma une jeune serveuse étrangère.
+A Londres Reynolds Woodcock célèbre couturier, célibataire et solitaire est aidé par sa sœur, elle s'occupe aussi bien de la prestigieuse Maison Woodcock que de la vie sentimentale de l'artiste. Jusqu'au jour où Woodcock rencontre Alma une jeune serveuse étrangère.
 
 - Sa 2 sep 15h00 GF
 

@@ -17,7 +17,7 @@ Lili, quatorze ans, passe ses vacances dans un camping avec ses parents et son f
 de Catherine Breillat  
 France-Italie / 2000 / 93 min / 35 mm  
 Avec Anaïs Reboux, Roxane Mesquida, Libero De Rienzo.  
-Elena, quinze ans, et sa sœur Anaïs, douze ans, passent l'été sur la côte Atlantique avec leurs parents. Alors qu'Elena est belle et élancée, Anaïs supporte mal son corps ingrat. Cette dernière suit sa sœur comme son ombre, et devient bientôt spectatrice de sa première relation amoureuse.
+Deux sœurs adolescentes passent l'été sur la côte Atlantique avec leurs parents et vivent, chacune à leur manière, leurs premières expériences amoureuses.
 
 - Sa 23 sep 20h45 GF
 

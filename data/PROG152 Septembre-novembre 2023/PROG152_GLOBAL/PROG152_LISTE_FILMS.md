@@ -135,12 +135,15 @@
   * Vampiro sangriento (El)  
   * Veneno para las hadas
 
-## Pascal Thomas (12)
+## Pascal Thomas (15)
 
   * Celles qu'on n'a pas eues  
   * Chaud lapin (Le)  
   * Confidences pour confidences  
-  * Dilettante (La)  
+  * Crime est notre affaire (Le)  
+  * Ensemble, nous allons vivre une très, très grande histoire d'amour  
+  * Grand appartement (Le)  
+  * Heure zéro (L')  
   * Maris, les femmes, les amants (Les)  
   * Mercredi, folle journée !  
   * Mon petit doigt m'a dit  
@@ -150,7 +153,7 @@
   * Un oursin dans la poche  
   * Zozos (Les)
 
-## Raoul Walsh (68)
+## Raoul Walsh (70)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -206,6 +209,8 @@
   * Passeport jaune (Le)  
   * Pillars of Society  
   * Piste des géants (La)  
+  * Regeneration  
+  * Rivaux  
   * Rivière d'argent (La)  
   * Roi et quatre reines (Le)  
   * Ruelle du péché (La)  
