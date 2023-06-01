@@ -28,6 +28,18 @@
   * Amours d'une blonde (Les)  
   * Docteur Jerry et Mister Love
 
+## Cinéma bis (9)
+
+  * Blastfighter, l'exécuteur  
+  * Dans le cercle du vice  
+  * Filles de Grenoble (Les)  
+  * Frankenstein 2000, the vindicator  
+  * Indic (L')  
+  * Nuits galantes d'une infidèle (Les)  
+  * Soucoupes volantes attaquent (Les)  
+  * Spectre  
+  * Vengeance
+
 ## Cinéma et mode, 20 indispensables (20)
 
   * Coco avant Chanel  
@@ -163,7 +175,7 @@
   * Vampiro sangriento (El)  
   * Veneno para las hadas
 
-## Pascal Thomas (17)
+## Pascal Thomas (19)
 
   * A cause des filles ?  
   * Associés contre le crime  
@@ -181,9 +193,11 @@
   * Pagaille (La)  
   * Pleure pas la bouche pleine  
   * Surprise du chef (La)  
+  * Un oursin dans la poche  
+  * Valentin Valentin  
   * Zozos (Les)
 
-## Raoul Walsh (77)
+## Raoul Walsh (78)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -205,9 +219,9 @@
   * Cheyenne  
   * College Swing  
   * Cri de la victoire (Le)  
-  * Danse rouge  
+  * Danse rouge (La)  
   * Déchaînés (Les)  
-  * Deux aventuriers  
+  * Deux aventuriers (Les)  
   * Du sang sur la neige  
   * Empreintes digitales  
   * Enfer est à lui (L')  
@@ -260,6 +274,7 @@
   * Une femme dangereuse  
   * Vallée de la peur (La)  
   * Victime du destin  
+  * Voleur de Bagdad (Le)  
   * Wild Girl  
   * Women of All Nations
 

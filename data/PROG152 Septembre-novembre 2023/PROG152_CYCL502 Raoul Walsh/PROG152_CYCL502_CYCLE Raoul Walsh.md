@@ -185,7 +185,7 @@ de Raoul Walsh
 D'après le roman _A Distant Trumpet_ de Paul Horgan.  
 Avec Troy Donahue, Suzanne Pleshette, Diane McBain.  
 À 77 ans, Walsh clôt son impressionnante filmographie avec un western de cavalerie qui en impose par son âpreté et sa vision empathique du peuple conquis. Peu glorieuses, les guerres indiennes sont décrites sans complaisance, à travers l'honneur, l'ouverture et le respect de deux commandants. La tendresse avec laquelle Walsh filme le silence d'un éclaireur indien ou la coiffe des vaincus jetée à terre est bouleversante. Si le triangle amoureux sort un peu du cadre, la vigueur des chevauchées et les scènes de bataille proprement vertigineuses, emmenées par les tambours et les cuivres de Max Steiner, font de ce western tardif de la période classique un superbe chant du cygne.  
-Matt Hazard, lieutenant de l'armée américaine réaffecté dans l'Arizona, combat contre des tribus indiennes. Il fait la connaissance de Kitty, la femme d'un commandant, à laquelle il sauve la vie à plusieurs reprises.
+Alors que la guerre contre les tribus indiennes fait rage, le lieutenant Hazard tente de ramener la paix entre les clans, mais il s'éprend de Kitty, l'épouse de son supérieur.
 
 - Je 21 sep 20h00 HL
 
@@ -194,9 +194,9 @@ Matt Hazard, lieutenant de l'armée américaine réaffecté dans l'Arizona, comb
 **(They Died with Their Boots On)**  
 de Raoul Walsh  
 États-Unis / 1941 / 140 min / VOSTF / 35 mm  
-Avec Errol Flynn, Olivia De Havilland, Arthur Kennedy.  
+Avec Errol Flynn, Olivia de Havilland, Arthur Kennedy.  
 De l'école militaire de West Point à la défaite de Little Big Horn, la biographie romancée du jeune Custer, devenu commandant du 7<sup>e</sup> Régiment de cavalerie. Épique et spectaculaire, un chef-d'œuvre de mise en scène, et les débuts d'une collaboration légendaire entre Raoul Walsh et Errol Flynn.  
-1857\. A l'académie militaire de West Point, George Armstrong Custer se fait remarquer tant par son indiscipline que par son talent. Il accomplit divers exploits militaires durant la guerre de Sécession. Celle-ci achevée, il est muté à la tête d'une garnison à laquelle vont s'attaquer les guerriers de Crazy Horse.
+Dans le camp militaire de West Point, le jeune Custer se distingue par son talent et son insubordination. Après avoir remporté la bataille de Hanover durant la guerre de Sécession, il est muté à la tête d'une garnison bientôt attaquée par les Indiens de Crazy Horse.
 
 - Sa 2 sep 16h30 HL
 
@@ -204,19 +204,19 @@ De l'école militaire de West Point à la défaite de Little Big Horn, la biogra
 **Cheyenne**  
 de Raoul Walsh  
 États-Unis / 1947 / 100 min / VOSTF / 16 mm  
-Avec Jane Wyman, Dennis Morgan, Janis Paige.  
+Avec Dennis Morgan, Jane Wyman, Janis Paige.  
 Les aventures d'un joueur de poker malhonnête, lancé sur les traces d'un braqueur de diligence. Décor sec et sauvage, superbement photographié en noir et blanc par Sidney Hickox (_L'Enfer est à lui_), un western injustement mésestimé, mis en scène avec nervosité et truculence.  
-Un joueur professionnel accepte d'aider la police en capturant un bandit spécialisé dans les attaques de diligences.
+Afin d'éviter une peine de prison, le joueur professionnel James Wiley accepte d'aider la police à capturer un braqueur de diligence surnommé « le Poète ».
 
 - Ve 22 sep 18h00 HL
 
 [80089]  
 **College Swing**  
 de Raoul Walsh  
-États-Unis / 1938 / 88 min / STF / 16 mm  
+États-Unis / 1938 / 88 min / VOSTF / 16 mm  
 Avec George Burns, Gracie Allen, Martha Raye.  
 Une héritière simplette prend la direction d'une université et embauche des acteurs de vaudeville en guise d'enseignants. Dans l'esprit des thirties, une comédie qui brille par ses numéros musicaux et son casting de stars mené par Bob Hope, figure de l'_entertainment américain_.  
-Gracie Alden doit se consacrer à ses études pour passer en classe supérieure et toucher un héritage.  
+La jeune Gracie doit à tout prix réussir ses examens pour toucher un héritage.  
 Copie de la collection Jon Davison à l' Academy Film Archive.
 
 - Sa 4 nov 15h00 GF
@@ -226,17 +226,19 @@ Copie de la collection Jon Davison à l' Academy Film Archive.
 **(Battle Cry)**  
 de Raoul Walsh  
 États-Unis / 1954 / 150 min / VOSTF / 35 mm  
-Avec Dorothy Malone, Van Heflin, James Whitmore.  
+D'après le roman _Le Cri de la victoire_ de Leon Uris.  
+Avec Van Heflin, Aldo Ray, Mona Freeman.  
 Dix ans après _Aventures en Birmanie_, Walsh retourne sur le front du Pacifique, et adapte un roman autobiographique à succès de Leon Uris, futur auteur d'_Exodus_ de Preminger. L'histoire suit le parcours d'un groupe de Marines, depuis la caserne de San Diego, lieu de leur formation, jusqu'au débarquement en Nouvelle-Zélande. Alors qu'_Aventures en Birmanie_ s'appliquait à décrire le champ de bataille, _Le Cri de la victoire_ s'attarde sur les « coulisses » de la guerre – discipline, vie de chambrée, frustration sexuelle, flirts et tournée des bars –, brossant un portrait touchant des jeunes recrues et de leurs compagnes, confrontées à la difficulté d'aimer en temps de conflit et à la peur de mourir au combat.  
 En 1942, avant de partir au front, de jeunes recrues tentent d'apprendre les rudiments de la guerre, enseignés par un instructeur aux méthodes sévères.
 
 - Sa 9 sep 14h30 HL
 
 [81231]  
-**Danse rouge**  
+**La Danse rouge**  
 **(The Red Dance)**  
 de Raoul Walsh  
 États-Unis / 1928 / 103 min / INT. FR. / 35 mm  
+D'après le roman _The Red Dancer of Moscow_ de Henry Leyford Gates.  
 Avec Dolores del Río, Charles Farrell, Ivan Linow.  
 Après avoir dévoilé l'exotisme de Dolores Del Rio dans _Les Amours de Carmen_, Walsh retrouve l'actrice mexicaine dans le rôle d'une danseuse russe qui s'éprend du prince qu'elle doit assassiner. Derrière l'intrigue amoureuse, une évocation spectaculaire de la Révolution de 1917, dans l'ultime œuvre muette du réalisateur.  
 Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Grand Duc Eugen à la veille de son mariage avec la Princesse Varvara.
@@ -248,20 +250,21 @@ Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Gra
 **(A Private's Affair)**  
 de Raoul Walsh  
 États-Unis / 1959 / 93 min / VOSTF / DCP  
-Avec Sal Mineo, Christine Carère, Barry Coe.  
+Avec Sal Mineo, Christine Carrère, Barry Coe.  
 Trois appelés au service militaire, poussant la chansonnette, sont repérés par le producteur d'un show TV. Sur fond de camaraderie et de quiproquos, un vaudeville musical éclatant, qui égratigne gentiment les institutions de l'armée, de l'hôpital et du mariage.  
-Trois énergiques jeunes soldats, Luigi, Jerry et Mike, font leurs classes dans un camp d'entraînement militaire lorsqu'ils apprennent qu'ils sont sélectionnés pour représenter leur unité dans un spectacle télévisé.
+Luigi, Jerry et Mike, de jeunes soldats, font leurs classes dans un camp d'entraînement militaire et deviennent amis. Ils sont bientôt sélectionnés pour représenter leur unité dans un spectacle télévisé.
 
 - Me 11 oct 18h00 HL
 
 [85148]  
-**Deux aventuriers**  
+**Les Deux aventuriers**  
 **(When Thief Meets Thief)**  
 de Raoul Walsh  
 États-Unis / 1937 / 87 min / VOSTF / 35 mm  
+D'après le roman _Jump for Glory_ de Gordon McDonell.  
 Avec Douglas Fairbanks Jr., Valerie Hobson, Alan Hale.  
 En fuite à Londres, un _bootlegger_ américain, devenu cambrioleur, tombe amoureux d'une de ses victimes. Une romance policière, portée par le glamour du couple Douglas Fairbanks Jr. et Valerie Hobson.  
-Meurtrier involontaire, Ricky est poursuivi par un ami maitre-chanteur, Jim, qui à la suite d'une machination, lui ravit aussi sa fiancée.
+Après un meurtre involontaire, Ricky est poursuivi par un maître-chanteur, qui, à la suite d'une machination, lui ravit aussi sa fiancée.
 
 - Di 1 oct 17h45 HL  
 - Je 2 nov 20h30 GF
@@ -271,9 +274,10 @@ Meurtrier involontaire, Ricky est poursuivi par un ami maitre-chanteur, Jim, qui
 **(Northern Pursuit)**  
 de Raoul Walsh  
 États-Unis / 1943 / 93 min / VOSTF / 35 mm  
+D'après le roman _Five Thousand Trojan Horses_ de Leslie T. White.  
 Avec Errol Flynn, Julie Bishop, Helmut Dantine.  
 Espionnage et complot nazi dans le grand nord canadien. Inspirée du _49<sup>e</sup> Parallèle_ de Michael Powell, une aventure cousue main pour Eroll Flynn, rythmée par l'abordage spectaculaire d'un sous-marin de glace, de poursuites à ski et d'avalanches grandioses.  
-Des aviateurs allemands débarquent secrètement au Canada pour y saboter les voies de communication. A la suite d'une avalanche, tous sont tués sauf le chef, Von Keller, qui est capturé par la police.
+Des aviateurs nazis débarquent secrètement au Canada pour y saboter les voies de communication. À la suite d'une avalanche, tous sont tués sauf le colonel Von Keller, qui est capturé par la police.
 
 - Di 3 sep 19h00 HL
 
@@ -282,10 +286,10 @@ Des aviateurs allemands débarquent secrètement au Canada pour y saboter les vo
 **(Big Brown Eyes)**  
 de Raoul Walsh  
 États-Unis / 1935 / 76 min / VOSTF / 16 mm  
-D'après les histoires _Hahsit Babe_ et _Big Brown Eyes_ de James Edward Grant.  
+D'après les nouvelles _Hahsit Babe_ et _Big Brown Eyes_ de James Edward Grant.  
 Avec Cary Grant, Joan Bennett, Walter Pidgeon.  
 Mêlant à merveille le polar et la _screwball comedy_, un joyau méconnu et l'un des rares films signé par Walsh. Sur la piste d'un réseau de voleurs de bijoux, le couple Joan Bennett-Cary Grant fait des étincelles, avec notamment un grand numéro de ventriloquie.  
-Dan Barr, gendarme, vit avec Eve Fallon, une manucure, depuis cinq ans, malgré leurs disputes fréquentes. Grâce à Eve, il parvient à pincer Cortig, un malfaiteurs qui a accidentellement tué un bébé dans le parc, à la suite d'une fusillade.
+Un policier et une ancienne manucure devenue journaliste enquêtent sur un voleur de diamants.
 
 - Sa 23 sep 16h45 GF
 
@@ -296,7 +300,7 @@ de Raoul Walsh
 États-Unis / 1949 / 115 min / VOSTF / 35 mm  
 Avec James Cagney, Virginia Mayo, Edmond O'Brien.  
 Dix ans après _Les Fantastiques Années 20_, James Cagney retrouve Raoul Walsh pour un rôle à sa mesure : un chef de gang hargneux et paranoïaque, dont la brutalité des actes est sans cesse contrebalancée par la manifestation de ses faiblesses. En proie à d'effroyables crises de migraines et vouant une admiration sans borne à sa mère, Cody Jarrett est certainement l'une des figures de gangster les plus passionnantes du genre, qui permet à Cagney de littéralement enflammer l'écran dans un final époustouflant, parmi les scènes les plus belles et les plus marquantes de l'œuvre de Walsh.  
-Le gangster Cody Jarrett et ses complices attaquent un train en Californie. Pendant l'opération, quatre employés sont tués. La police est déterminée à retrouver les coupables et surveille la mère de Cody, à laquelle ce dernier voue une adoration pathologique. Un policier va tenter d'infiltrer le gang.
+Cody Jarrett, un criminel psychopathe, voue une adoration démesurée à sa mère. Arrêté pour un délit mineur, il est enfermé avec un codétenu, qui se révèle être un policier chargé d'infiltrer son gang. Lorsqu'il apprend la mort de sa mère et la trahison de sa compagne, il décide de se venger.
 
 - Me 30 aoû 20h00 HL  
 Ouverture de la rétrospective
@@ -308,19 +312,19 @@ de Raoul Walsh
 États-Unis / 1947 / 104 min / VOSTF / 35 mm  
 Avec Edward G. Robinson, Marlene Dietrich, George Raft.  
 Ange noir de la fatalité, Marlene Dietrich déchaîne les passions et sème la discorde entre deux amis réparateurs de pylônes électriques. Tout en tension et rupture de tons, le film, qui s'attache à la classe ouvrière, doit sa réussite au trio d'acteurs et à une atmosphère orageuse saisissante.  
-Johnny Marshall et Hank McHenry sont deux amis réparateurs de lignes électriques à haute tension qui jouent chaque jour avec le feu face aux dangers de leur métier. Un soir, ils font la connaissance de Fay, une chanteuse de cabaret, qui sème le trouble dans leur amitié.
+Johnny Marshall et Hank McHenry, deux amis réparateurs de lignes électriques à haute tension, sont confrontés à des missions dangereuses. Un soir, ils font la connaissance de Fay, une chanteuse de cabaret, qui sème le trouble dans leur amitié.
 
 - Sa 2 sep 19h30 HL
 
 [65626]  
 **L'Escadron noir**  
-**(The Dark Command)**  
+**(Dark Command)**  
 de Raoul Walsh  
 États-Unis / 1940 / 90 min / VOSTF / 35 mm  
-D'après le roman _The Dark command_ de W.R. Burnett.  
-Avec John Wayne, Claire Trevor, Roy Rogers.  
+D'après le roman _The Dark Command : A Kansas Illiad_ de W.R. Burnett.  
+Avec John Wayne, Claire Trevor, Walter Pidgeon.  
 Les prémisses de la Guerre de Sécession au Kansas, à travers la vie romancée de William Quantrill, instituteur et chef d'une bande armée qui sévit dans la région. L'un des plus gros succès de l'année 1940, emporté par le duel Walter Pidgeon/John Wayne, tout juste sorti de _La Chevauchée fantastique_.  
-Vers 1860, dans le Kansas, deux hommes, l'un rustre et intègre et l'autre cultivé et sans scrupules, se disputent les faveurs d'une femme et le poste de shérif.
+Au Kansas, peu avant la guerre de Sécession, William Quantrill, un instituteur, rêve de devenir shérif, mais Bob Seton, un cowboy, est promu à sa place. Une lutte pour le pouvoir s'engage entre les deux hommes.
 
 - Di 24 sep 16h45 HL
 
@@ -329,10 +333,10 @@ Vers 1860, dans le Kansas, deux hommes, l'un rustre et intègre et l'autre culti
 **(Band of Angels)**  
 de Raoul Walsh  
 États-Unis / 1957 / 125 min / VOSTF / 35 mm  
-D'après le roman _Band of angels_ de Robert Penn Warren.  
+D'après le roman _Band of Angels_ de Robert Penn Warren.  
 Avec Clark Gable, Yvonne De Carlo, Sidney Poitier.  
 À travers le récit d'une métisse qui découvre la condition d'esclave à la mort de son père, Walsh réalise une œuvre romanesque, évoquant de front la question du racisme à la veille de la Guerre de Sécession. L'adaptation du roman de Robert Penn Warren fournit au cinéaste une nouvelle occasion de décrire des personnages complexes, enchaînés à leur passé et devant faire face à l'ambiguïté de leur position. C'est aussi une histoire d'amour d'une tension érotique extrême, subtilement distillée par le couple Yvonne de Carlo-Clark Gable. Une réflexion à la fois tortueuse et sensuelle sur la liberté et sur cette période trouble de l'histoire américaine, injustement éclipsée par la popularité d'_Autant en emporte le vent_. Pour autant, _L'Esclave libre_ est un film plus fascinant.  
-Au XIXe siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien veuf. Quand son père décède, un lourd secret remonte à la surface.
+Au XIX<sup>e</sup> siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien. Quand son père décède, un lourd secret remonte à la surface.
 
 - Me 6 sep 19h00 HL
 
@@ -352,9 +356,10 @@ Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier 
 **(Sadie Thompson)**  
 de Raoul Walsh  
 États-Unis / 1927 / 95 min  
-Avec Gloria Swanson, Lionel Barrymore, Raoul Walsh.  
+D'après la nouvelle _Miss Thompson_ de William Somerset Maugham.  
+Avec Gloria Swanson, Lionel Barrymore, Blanche Friderici.  
 D'après le récit de Somerset Maugham, un chef-d'œuvre muet de Walsh, explorant les thèmes de la moralité, du refoulement sexuel et de la rédemption dans une atmosphère aussi poisseuse que pesante. Raoul Walsh y tient un des principaux rôles masculins.  
-Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion de refaire sa vie. Sur cette île du Pacifique, le puritain Davidson ne lui laisse aucun répit et menace de la dénoncer et de la renvoyer à San Francisco où elle risque la prison.
+Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago Pago, une île du Pacifique, l'occasion de refaire sa vie. Elle est rapidement harcelée par un missionnaire, le puritain Davidson, qui menace de la renvoyer à San Francisco.
 
 - Di 8 oct 19h15 GF
 
@@ -363,9 +368,10 @@ Forcée à l'exil, la prostituée Sadie Thompson trouve à Pago-Pago, l'occasion
 **(The Roaring Twenties)**  
 de Raoul Walsh  
 États-Unis / 1939 / 106 min / VOSTF / 35 mm  
+D'après le roman _The World Moves On_ de Mark Hellinger.  
 Avec James Cagney, Priscilla Lane, Humphrey Bogart.  
 Un modèle de film de gangsters et de l'Amérique de la Prohibition. Exploitant génialement les physionomies, le jargon et le climat d'une époque, Walsh oppose deux visages de criminels, antihéros fiévreux et pathétique d'un côté, froid et cynique de l'autre, incarnés par Cagney et Bogart, magnifiques. Premier film de Walsh pour la Warner Bros.  
-Trois soldats américains qui ont combattu en France pendant la Première Guerre mondiale se séparent et retournent à la vie civile. La prohibition va de nouveau les réunir pour le meilleur et pour le pire.
+Trois soldats américains sont démobilisés après la Première Guerre mondiale et retournent à la vie civile. La prohibition finit par les réunir, pour le meilleur et pour le pire.
 
 - Ve 1 sep 18h00 HL
 
@@ -374,9 +380,10 @@ Trois soldats américains qui ont combattu en France pendant la Première Guerre
 **(The Bowery)**  
 de Raoul Walsh  
 États-Unis / 1933 / 92 min / VOSTF / 35 mm  
-Avec George Raft, Wallace Beery, Jackie Cooper.  
+D'après le roman _Chuck Connors_ de Michael L. Simmons et Bessie Roth Solomon.  
+Avec Wallace Beery, George Raft, Jackie Cooper.  
 Plongée truculente dans les bas quartiers de New York au tournant du siècle. Rivalité et camaraderie sont au centre de cette fresque haute en couleurs, où chaque menu fait divers se transforme en épopée des faubourgs du peuple yankee.  
-Chuck Connors règne en maître sur le quartier Bowery. Chef de la brigade de pompiers, il possède également la plus grande brasserie. En concurrence permanente avec Steve, ils se disputent la suprématie du quartier.
+Chuck Connors règne en maître sur la _Bowery_, où il est le chef de la brigade de pompiers, toujours en concurrence avec celle de Steve Brodie. Les deux hommes s'engagent dans une lutte ouverte pour la suprématie du quartier.
 
 - Di 24 sep 18h45 HL
 
@@ -385,9 +392,9 @@ Chuck Connors règne en maître sur le quartier Bowery. Chef de la brigade de po
 **(The Enforcer)**  
 de Bretaigne Windust, Raoul Walsh  
 États-Unis / 1950 / 88 min / VOSTF / DCP  
-Avec Humphrey Bogart, Zero Mostel, Ted De Corsia.  
+Avec Humphrey Bogart, Zero Mostel, Ted de Corsia.  
 Dans un jeu de flashbacks imbriqués, une enquête reconstituée visant à faire tomber le chef d'une bande du crime organisé. Sublimé par l'utilisation d'un clair-obscur constant, un modèle de film noir à la mise en scène implacable, notamment dans son ouverture et son final, d'une brutalité remarquable.  
-Un policier tente de protéger un témoin capital avant un procès. Celui-ci est traqué par des tueurs à gages.
+Un policier tente de protéger un témoin capital, traqué par des tueurs à gages, avant un procès.
 
 - Ve 29 sep 20h00 HL
 
@@ -398,7 +405,7 @@ de Raoul Walsh
 États-Unis / 1937 / 87 min / VOSTF / 35 mm  
 Avec Lily Pons, Jack Oakie, John Howard.  
 De Paris à Manhattan en passant par la jungle africaine, les débuts d'une chanteuse de cabaret qui rêve d'une carrière à l'Opéra. La soprano française Lily Pons, à la voix d'oiseau, dans une comédie musicale exotique et doucement loufoque.  
-Suzanne, une jeune chanteuse de cabaret rêve de devenir une grande et vraie chanteuse d'opéra. Pour l'aider, son agent monte un subterfuge
+Suzette, une jeune chanteuse de cabaret, rêve de devenir une grande cantatrice. Pour l'aider, son agent l'envoie en Afrique et monte un subterfuge, qui la fait passer pour une indigène.
 
 - Lu 6 nov 18h30 GF
 
@@ -409,7 +416,7 @@ de Raoul Walsh
 États-Unis / 1949 / 94 min / VOSTF / 35 mm  
 D'après le roman _High Sierra_ et le scénario du film éponyme de W.R. Burnett.  
 D'après le film _High Sierra_ de Raoul Walsh.  
-Avec Dorothy Malone, Joel McCrea, Virginia Mayo.  
+Avec Joel McCrea, Virginia Mayo, Dorothy Malone.  
 Avec _La Fille du désert_, Walsh réalise un remake de son propre film, _La Grande Évasion_, sorti huit ans plus tôt. Il en fait un western cosmique aux accents « noir », qui vaut autant pour ses superbes chevauchées, attaques de train et de diligence, que pour son versant psychologique tourné vers la trahison et la fatalité. Dans le rôle de Wes McQueen, pilleur de chemin de fer, évadé de prison, Joel McCrea porte la classe de son héros. Cavalier hors pair, solitaire et sentimental, il rêve de raccrocher le pistolet en s'offrant les bénéfices d'un dernier exploit. S'ensuit une traque, à laquelle ni lui ni sa compagne de planque, l'ardente Virginia Mayo, ne pourront échapper. Sec, tranchant et désespéré, le récit d'une impossible quête de rédemption, aussi tragique que palpitante.  
 En 1870, dans une Amérique en voie de pacification, le hors-la-loi Wes McQueen parvient à s'évader de prison et à rejoindre ses complices avec qui il projette de braquer un train.
 
@@ -420,7 +427,8 @@ En 1870, dans une Amérique en voie de pacification, le hors-la-loi Wes McQueen 
 **(The Wanderer)**  
 de Raoul Walsh  
 États-Unis / 1925 / 90 min / INT. FR. / 35 mm  
-Avec Wallace Beery, Greta Nissen, William Collier Jr..  
+D'après la pièce _The Wanderer_ de Maurice Samuel.  
+Avec Greta Nissen, William Collier Jr., Ernest Torrence.  
 Inspirée de la parabole biblique, une importante production Paramount aux décors fastueux. Entre autres (futures) stars du muet qui composent le casting, Greta Nissen interprète la vénérable prêtresse d'Ishtar pour son premier grand rôle à Hollywood, tandis que Myrna Loy danse parmi les figurantes.  
 Jether, un berger, est attiré par Tisha, prêtresse d'Ishtar. Il se rend à Babylone et y dilapide son héritage en couvrant Tisha de cadeaux et en vivant une vie dissolue.
 
@@ -479,7 +487,7 @@ Avec Janet Gaynor, Charles Farrell, Kenneth MacKenna.
 Le couple de stars, Janet Gaynor et Charles Farrell, bravant les obstacles de San Francisco à Shanghaï. Une romance exotique, qui vaut pour sa scène de fumerie d'opium, particulièrement réussie  
 Un fils de famille alcoolique et une chanteuse de cabaret s'aiment en depit de toute sorte d'obstacles.
 
-- Sa 14 oct 15h30 GF
+- Sa 30 sep 15h00 GF
 
 [36874]  
 **Les Implacables**  
@@ -791,7 +799,7 @@ Biff est amoureux de Virginia qui lui préfère son ami Hugo. Ce dernier rend Bi
 **Un lion dans la rue**  
 **(A Lion Is in the Streets)**  
 de Raoul Walsh  
-États-Unis / 1953 / 87 min / VOSTF / 16 mm  
+États-Unis / 1953 / 88 min / VOSTF / 16 mm  
 D'après le roman _A Lion Is in the Streets_ d'Adria Locke Langley.  
 Avec James Cagney, Lon Chaney Jr., Barbara Hale.  
 Dans l'Amérique profonde des bayous, le charismatique James Cagney en défenseur acharné des exploités au service de son ambition. Walsh démonte les rouages d'une ascension irrésistible, pointant du doigt le sectarisme et la politique populiste, d'après la vie du politicien véreux, Huey Long.  
@@ -844,6 +852,17 @@ Avec Rock Hudson, Julie Adams, Mary Castle.
 Un homme est victime des ennuis provoqués par son tempérament aventureux et son habilité au pistolet.
 
 - Ve 15 sep 20h00 HL
+
+[36875]  
+**Le Voleur de Bagdad**  
+**(The Thief of Bagdad)**  
+de Raoul Walsh  
+États-Unis / 1924 / 140 min / INT. FR. / DCP  
+Avec Douglas Fairbanks, Snitz Edwards, Anna May Wong.  
+Libre adaptation des contes des _Mille et Une Nuits_ avec Douglas Fairbanks. Une superproduction épique ou l'incarnation d'un certain idéal muet hollywoodien, aux décors monumentaux et aux effets spéciaux révolutionnaires.  
+La fille du Calife tombe amoureuse d'un sympathique voleur qui devra la conquérir.
+
+- Sa 14 oct 14h30 HL
 
 [82501]  
 **Wild Girl**  

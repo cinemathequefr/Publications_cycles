@@ -132,5 +132,5 @@ Une petite fille d'aristocrates solitaire devient l'amie d'une mystérieuse autr
 
 **Film + discussion avec Jean-François Rauger**
 
-- Me 1 nov 18h45 GF
+- Me 1 nov 20h15 GF
 

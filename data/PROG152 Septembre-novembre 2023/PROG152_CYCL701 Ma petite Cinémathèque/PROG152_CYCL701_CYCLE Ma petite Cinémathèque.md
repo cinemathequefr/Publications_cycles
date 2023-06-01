@@ -143,7 +143,8 @@ Version numérique restaurée en 2K par MK2 avec le soutien du CNC.
 de Jerry Lewis  
 États-Unis / 1965 / 100 min / VOSTF / 35 mm  
 Avec Jerry Lewis, Donna Butterworth.  
-[JP] Une petite orpheline doit choisir entre ses différents oncles pour déterminer lequel sera son tuteur. Infatigable, Jerry Lewis réalise et produit une comédie gentiment farfelue... mais y interprète aussi pas moins de sept personnages, l'occasion de déployer tous ses talents de pitre au fil de gags hilarants.
+[JP] Une petite orpheline doit choisir entre ses différents oncles pour déterminer lequel sera son tuteur. Infatigable, Jerry Lewis réalise et produit une comédie gentiment farfelue... mais y interprète aussi pas moins de sept personnages, l'occasion de déployer tous ses talents de pitre au fil de gags hilarants.  
+Avec l'aide de son majordome, une orpheline milliardaire doit choisir son tuteur parmi six oncles, dont un marin sénile, un pilote d'avion fantasque (mention spéciale) et un affreux gangster. L'occasion pour Jerry Lewis d'endosser les sept masques d'une parade pétaradante qui cache une grande tendresse pour ses personnages.
 
 - Di 12 nov 15h00 GF
 
@@ -153,7 +154,8 @@ de Jean Cocteau
 France / 1945 / 100 min / 35 mm  
 D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.  
 Avec Josette Day, Jean Marais, Marcel André.  
-[JP] Le chef-d'œuvre enchanteur de Jean Cocteau, qui porte à l'écran le conte cruel de madame Leprince de Beaumont. Les décors féeriques évoquent Gustave Doré, la photographie d'Alekan donne corps aux trucages artisanaux, et le château qui abrite les souffrances de la Bête/Jean Marais s'anime dans une atmosphère surréaliste et magique.
+[JP] Le chef-d'œuvre enchanteur de Jean Cocteau, qui porte à l'écran le conte cruel de madame Leprince de Beaumont. Les décors féeriques évoquent Gustave Doré, la photographie d'Alekan donne corps aux trucages artisanaux, et le château qui abrite les souffrances de la Bête/Jean Marais s'anime dans une atmosphère surréaliste et magique.  
+Cocteau sort exsangue du tournage épique, Jean Marais a souffert mille tortures sous son maquillage de Bête. Le conte cruel de madame Leprince de Beaumont prend corps dans les décors féeriques de Christian Bérard, sous les lumières du génial Henri Alekan, convoque Vermeer et les gravures de Gustave Doré, séduit par ses trucages artisanaux. Des bras tiennent des chandeliers, des voilages dansent dans une brise invisible, Josette Day, la Belle, semble glisser sur le sol. Et Cocteau, cinéaste-poète, tisse, dans une atmosphère qui tient du merveilleux et du surréalisme, un chef-d'œuvre enchanteur, le fameux « ruban de rêves » qui éblouissait Orson Welles.
 
 - Me 22 nov 15h00 GF
 

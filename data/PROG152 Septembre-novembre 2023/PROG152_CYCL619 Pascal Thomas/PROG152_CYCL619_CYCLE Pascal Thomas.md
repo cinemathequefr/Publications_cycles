@@ -150,6 +150,24 @@ Une amitié riche de souvenirs unit le rédacteur en chef d'un magazine à la mo
 
 - Ve 6 oct 20h30 GF
 
+[57018]  
+**Un oursin dans la poche**  
+de Pascal Thomas  
+France / 1977 / 98 min / 35 mm  
+Avec Darry Cowl, Bernard Menez, Maurice Risch.  
+Une jeune journaliste, abandonnée par son amant fortuné, va tenter, avec un inventeur musicien, de monter une comédie musicale
+
+- Je 12 oct 17h30 GF
+
+[125568]  
+**Valentin Valentin**  
+de Pascal Thomas  
+France / 2014 / 106 min / DCP  
+Avec Marilou Berry, Vincent Rottiers, Marie Gillain, Arielle Dombasle.  
+Dans ce « fenêtres sur cour » qui se déroule dans un petit immeuble parisien, tout un monde hétéroclite gravite, s'aime, s'observe sans toujours se voir. C'est là que vit Valentin, jeune homme mélancolique, charmant, partagé entre sa maîtresse, les trois jeunes filles du cinquième étage qui tournent autour de lui, une gardienne démonstrative et une belle chinoise qui l'intrigue.
+
+- Sa 14 oct 15h30 GF
+
 [51398]  
 **Les Zozos**  
 de Pascal Thomas  
