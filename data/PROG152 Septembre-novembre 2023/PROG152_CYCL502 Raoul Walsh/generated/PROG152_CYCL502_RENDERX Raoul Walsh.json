@@ -39,34 +39,50 @@
           ]
         },
         {
-          "idFilm": 36827,
-          "content": [
+          "groupe": [
             {
               "idFilm": 36827,
-              "ordre": 1,
-              "titre": "Annie du Klondike",
-              "titreVo": "Klondike Annie",
-              "realisateurs": "Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1936,
-              "duree": 77,
-              "version": "VOSTF",
-              "format": "16 mm",
-              "adaptation": "D'après la pièce _Annie du Klondike_ de Mae West.",
-              "generique": [
-                "Mae West",
-                "Victor McLaglen",
-                "Phillip Reed"
+              "content": [
+                {
+                  "idFilm": 36827,
+                  "ordre": 1,
+                  "titre": "Annie du Klondike",
+                  "titreVo": "Klondike Annie",
+                  "realisateurs": "Raoul Walsh",
+                  "pays": "États-Unis",
+                  "annee": 1936,
+                  "duree": 77,
+                  "version": "VOSTF",
+                  "format": "16 mm",
+                  "adaptation": "D'après la pièce _Annie du Klondike_ de Mae West.",
+                  "generique": [
+                    "Mae West",
+                    "Victor McLaglen",
+                    "Phillip Reed"
+                  ],
+                  "miniTexte": "San Francisco, fin XIX<sup>e<sup> siècle. Une chanteuse de cabaret s'enfuit sur un cargo, après avoir poignardé son protecteur chinois. Mae West, qui signe aussi les dialogues, fait sensation dans le rôle licencieux d'une aventurière déguisée en missionnaire aux méthodes peu orthodoxes."
+                }
               ],
-              "miniTexte": "San Francisco, fin XIX<sup>e<sup> siècle. Une chanteuse de cabaret s'enfuit sur un cargo, après avoir poignardé son protecteur chinois. Mae West, qui signe aussi les dialogues, fait sensation dans le rôle licencieux d'une aventurière déguisée en missionnaire aux méthodes peu orthodoxes."
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 104565,
-              "typeAssoc": 118,
-              "dateHeure": "2023-09-13T20:00:00",
-              "idSalle": "HL"
+              "idEvenement": 28592,
+              "content": [
+                {
+                  "idConf": 28592,
+                  "ordre": 2,
+                  "titre": "Film + Discussion avec Jean-François Rauger et Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104565,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-13T20:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -691,7 +707,7 @@
           ]
         },
         {
-          "idEvenement": 26909,
+          "idFilm": 85148,
           "content": [
             {
               "idFilm": 85148,
@@ -717,6 +733,11 @@
               "idSeance": 104813,
               "dateHeure": "2023-10-01T17:45:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 104816,
+              "dateHeure": "2023-11-02T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1750,7 +1771,7 @@
           ]
         },
         {
-          "idEvenement": 26890,
+          "idFilm": 37710,
           "content": [
             {
               "idFilm": 37710,
@@ -2403,29 +2424,10 @@
       "tri": 4,
       "items": [
         {
-          "idConf": 28592,
+          "idEvenement": 28588,
           "content": [
             {
-              "idEvenement": 28592,
-              "ordre": 2,
-              "titre": "Film + Discussion avec Jean-François Rauger et Murielle Joudet",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104565,
-              "typeAssoc": 118,
-              "dateHeure": "2023-09-13T20:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idConf": 28588,
-          "content": [
-            {
-              "idEvenement": 28588,
+              "idConf": 28588,
               "titre": "Film + discussion avec Pierre Gabaston",
               "sousTitre": "Conférence de Pierre Gabaston",
               "typeConference": "Conférence"

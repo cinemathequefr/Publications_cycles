@@ -178,35 +178,59 @@
           ]
         },
         {
-          "idFilm": 33879,
-          "content": [
+          "groupe": [
             {
               "idFilm": 33879,
-              "ordre": 1,
-              "titre": "Jerry souffre douleur",
-              "titreVo": "Patsy",
-              "artVo": "The",
-              "realisateurs": "Jerry Lewis",
-              "pays": "États-Unis",
-              "annee": 1964,
-              "duree": 101,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Jerry Lewis",
-                "Everett Sloane",
-                "Ina Balin",
-                "Keenan Wynn"
+              "content": [
+                {
+                  "idFilm": 33879,
+                  "ordre": 1,
+                  "titre": "Jerry souffre douleur",
+                  "titreVo": "Patsy",
+                  "artVo": "The",
+                  "realisateurs": "Jerry Lewis",
+                  "pays": "États-Unis",
+                  "annee": 1964,
+                  "duree": 101,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Jerry Lewis",
+                    "Everett Sloane",
+                    "Ina Balin",
+                    "Keenan Wynn"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104594,
+                  "idSeanceAssoc": 104594,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-11T14:30:00",
+                  "idSalle": "HL"
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 104594,
-              "idSeanceAssoc": 104696,
-              "typeAssoc": 117,
-              "dateHeure": "2023-11-11T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28598,
+              "content": [
+                {
+                  "idConf": 28598,
+                  "titre": "Film + Discussion Matthieu Macheret",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104696,
+                  "idSeanceAssoc": 104594,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-11T16:15:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Jerry souffre douleur_ de Jerry Lewis"
+                }
+              ]
             }
           ]
         },
@@ -260,66 +284,114 @@
           ]
         },
         {
-          "idFilm": 53748,
-          "content": [
+          "groupe": [
             {
               "idFilm": 53748,
-              "ordre": 1,
-              "titre": "T'es fou Jerry !",
-              "titreVo": "Smorgasbord",
-              "realisateurs": "Jerry Lewis",
-              "pays": "États-Unis",
-              "annee": 1982,
-              "duree": 90,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Jerry Lewis",
-                "Milton Berle",
-                "Sammy Davis Jr."
+              "content": [
+                {
+                  "idFilm": 53748,
+                  "ordre": 1,
+                  "titre": "T'es fou Jerry !",
+                  "titreVo": "Smorgasbord",
+                  "realisateurs": "Jerry Lewis",
+                  "pays": "États-Unis",
+                  "annee": 1982,
+                  "duree": 90,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "Jerry Lewis",
+                    "Milton Berle",
+                    "Sammy Davis Jr."
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104598,
+                  "idSeanceAssoc": 104598,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-25T14:30:00",
+                  "idSalle": "HL"
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 104598,
-              "idSeanceAssoc": 104698,
-              "typeAssoc": 117,
-              "dateHeure": "2023-11-25T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28601,
+              "content": [
+                {
+                  "idConf": 28601,
+                  "titre": "Film + Discussion avec Damien Bertrand",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104698,
+                  "idSeanceAssoc": 104598,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-25T16:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _T'es fou Jerry !_ de Jerry Lewis"
+                }
+              ]
             }
           ]
         },
         {
-          "idFilm": 45090,
-          "content": [
+          "groupe": [
             {
               "idFilm": 45090,
-              "ordre": 1,
-              "titre": "Tombeur de ces dames",
-              "art": "Le",
-              "titreVo": "Ladies Man",
-              "artVo": "The",
-              "realisateurs": "Jerry Lewis",
-              "pays": "États-Unis",
-              "annee": 1961,
-              "duree": 106,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Jerry Lewis",
-                "Helen Traubel",
-                "Kathleen Freeman"
+              "content": [
+                {
+                  "idFilm": 45090,
+                  "ordre": 1,
+                  "titre": "Tombeur de ces dames",
+                  "art": "Le",
+                  "titreVo": "Ladies Man",
+                  "artVo": "The",
+                  "realisateurs": "Jerry Lewis",
+                  "pays": "États-Unis",
+                  "annee": 1961,
+                  "duree": 106,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Jerry Lewis",
+                    "Helen Traubel",
+                    "Kathleen Freeman"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104595,
+                  "idSeanceAssoc": 104595,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-18T14:30:00",
+                  "idSalle": "HL"
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 104595,
-              "idSeanceAssoc": 104697,
-              "typeAssoc": 117,
-              "dateHeure": "2023-11-18T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28600,
+              "content": [
+                {
+                  "idConf": 28600,
+                  "titre": "Film + discussion avec Pascale Bodet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104697,
+                  "idSeanceAssoc": 104595,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-18T16:15:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Le Tombeur de ces dames_ de Jerry Lewis"
+                }
+              ]
             }
           ]
         },
@@ -451,10 +523,10 @@
       "tri": 4,
       "items": [
         {
-          "idConf": 28583,
+          "idEvenement": 28583,
           "content": [
             {
-              "idEvenement": 28583,
+              "idConf": 28583,
               "titre": "« Jerry Lewis Cinéaste » par Damien Bertrand",
               "sousTitre": "Conférence ",
               "typeConference": "Conférence"
@@ -465,63 +537,6 @@
               "idSeance": 104631,
               "dateHeure": "2023-11-09T19:00:00",
               "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idConf": 28598,
-          "content": [
-            {
-              "idEvenement": 28598,
-              "titre": "Film + Discussion Matthieu Macheret",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104696,
-              "idSeanceAssoc": 104594,
-              "typeAssoc": 117,
-              "dateHeure": "2023-11-11T16:15:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idConf": 28600,
-          "content": [
-            {
-              "idEvenement": 28600,
-              "titre": "Film + discussion avec Pascale Bodet",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104697,
-              "idSeanceAssoc": 104595,
-              "typeAssoc": 117,
-              "dateHeure": "2023-11-18T16:15:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idConf": 28601,
-          "content": [
-            {
-              "idEvenement": 28601,
-              "titre": "Film + Discussion avec Damien Bertrand",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104698,
-              "idSeanceAssoc": 104598,
-              "typeAssoc": 117,
-              "dateHeure": "2023-11-25T16:00:00",
-              "idSalle": "HL"
             }
           ]
         }
