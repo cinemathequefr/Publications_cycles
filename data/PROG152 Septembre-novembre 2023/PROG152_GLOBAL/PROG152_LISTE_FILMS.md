@@ -195,8 +195,8 @@
   * Aventures en Birmanie  
   * Barbe-Noire le pirate  
   * Bataille sans merci  
-  * Belle espionne (La)  
-  * Blonde et le Shérif (La)  
+  * Belle Espionne (La)  
+  * Blonde et le shérif (La)  
   * Brigade héroïque (La)  
   * Bungalow pour femmes  
   * Capitaine sans peur  

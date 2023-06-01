@@ -15,7 +15,8 @@ Quand son cirque ferme, le clown Bo Hooper perd son emploi. Il s'installe chez s
 [154491]  
 **Der Clown TV**  
 d'Erich Friedler  
-Allemagne / 2016 / 115 min / Numérique
+Allemagne / 2016 / 115 min / Numérique  
+Le film retrace l'histoire du mythique film de Jerry Lewis disparu : _The Day The clown Cried._
 
 - Me 15 nov 18h00 GF
 

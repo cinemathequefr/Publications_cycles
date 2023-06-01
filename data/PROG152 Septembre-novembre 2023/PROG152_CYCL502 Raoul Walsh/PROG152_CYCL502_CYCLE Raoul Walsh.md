@@ -99,7 +99,7 @@ En 1943, un commando de parachutistes américains est largué au-dessus de la zo
 **(Blackbeard the Pirate)**  
 de Raoul Walsh  
 États-Unis / 1952 / 100 min / VOSTF / 35 mm  
-Avec Linda Darnell, Richard Egan, William Bendix.  
+Avec Robert Newton, Linda Darnell, Keith Andes.  
 Contant les exploits picaresques du corsaire des Antilles, le film est une splendeur, dont les plans semblent tout droit sortis des pages d'un grand livre d'aventures. D'une fabuleuse richesse visuelle, scènes de bagarres et chasses au trésor en Technicolor servent avec panache le jeu truculent de l'acteur de théâtre, Robert Newton, spectaculaire.  
 Le célèbre pirate Barbe-Noire écume les mers des Caraïbes et donne du fil à retordre à la couronne britannique.
 
@@ -111,32 +111,33 @@ Le célèbre pirate Barbe-Noire écume les mers des Caraïbes et donne du fil à
 de Raoul Walsh  
 États-Unis / 1953 / 83 min / VOSTF / DCP  
 D'après le roman _Ten Against Caesar_ de K. R. G. Granger.  
-Avec Rock Hudson, Donna Reed, Phil Carey.  
+Avec Rock Hudson, Donna Reed, Philip Carey.  
 Course-poursuite entre un hors-la-loi sudiste et un aspirant pacifiste, le film, conçu en relief et en Technicolor, repose sur la figure complexe de son _bad guy_ et le rapport de force qu'il entretient avec la sensuelle Donna Reed, au centre de toutes les attentions.  
 En Arizona, le gang de Frank Slayton dévalise une diligence et kidnappe la fiancée de Ben Warren. Celui-ci est laissé pour mort. Blessé, il part immédiatement à la poursuite de Slayton.
 
 - Di 10 sep 19h30 HL
 
 [36604]  
-**La Belle espionne**  
+**La Belle Espionne**  
 **(Sea Devils)**  
 de Raoul Walsh  
 États-Unis / 1953 / 90 min / VOSTF / 16 mm  
 D'après le roman _Les Travailleurs de la mer_ de Victor Hugo.  
 Avec Yvonne De Carlo, Rock Hudson, Maxwell Reed.  
 Lointainement inspiré par _Les Travailleurs de la mer_ de Victor Hugo et illuminé par la beauté d'Yvonne De Carlo, le portrait d'une mystérieuse jeune femme chargée de dérober les plans d'invasion de la France en Angleterre. Avec Gérard Oury dans le rôle de Napoléon.  
-Une mystérieuse et troublante jeune femme, chargée de découvrir les projets napoléoniens d'invasion de l'Angleterre, bouleverse l'existence d'un contrebandier.
+1804. Craignant une invasion française, les services d'espionnage anglais chargent une jeune femme de découvrir les projets de l'Empereur. Gilliatt, un contrebandier, l'aide à traverser la Manche et tombe amoureux d'elle.
 
 - Ve 15 sep 18h00 HL
 
 [36871]  
-**La Blonde et le Shérif**  
+**La Blonde et le shérif**  
 **(The Sheriff of Fractured Jaw)**  
 de Raoul Walsh  
 Grande-Bretagne / 1958 / 103 min / VOSTF / 35 mm  
-Avec Jayne Mansfield, Kenneth More, Bruce Cabot.  
+D'après la nouvelle _The Sheriff of Fractured Jaw_ de Jacob Hay.  
+Avec Kenneth More, Jayne Mansfield, Henry Hull.  
 Western d'un ton nouveau pour un routier du genre. S'amusant à marier humour britannique et grossièreté yankee, Walsh met en scène un négociant d'armes anglais à la conquête du marché américain. Une aventure aussi décalée qu'enthousiasmante, où les Indiens ont le beau rôle.  
-Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé de prospecter dans un pays prometteur : l'Ouest américain. Jonathan ne tarde pas à se faire remarquer dans cette contrée sauvage.
+Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé de prospecter dans un pays prometteur : l'Ouest américain. Il ne tarde pas à se faire remarquer dans cette contrée sauvage.
 
 - Lu 18 sep 18h00 GF
 
@@ -145,9 +146,9 @@ Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé
 **(Saskatchewan)**  
 de Raoul Walsh  
 États-Unis / 1954 / 87 min / VOSTF / 16 mm  
-Avec Alan Ladd, Shelley Winters, Robert Douglas.  
+Avec Alan Ladd, Shelley Winters, J. Carrol Naish.  
 Affrontements sur la frontière canadienne entre Sioux et Tuniques rouges. Un sergent de la cavalerie, élevé par les Indiens Crees, prend la tête du régiment, tandis que la rescapée d'un massacre se voit accusée de meurtre. Attaques, chevauchées et courses en pirogues se succèdent dans les grandioses décors de l'Alberta.  
-En 1877 dans l'Ouest canadien, un inspecteur de police se révolte contre son commandant borné, et emprunte une route plus sûre jusqu'à la frontière américaine afin d'empêcher l'invasion d'Indiens hostiles.
+Canada, 1877. Un sergent des Tuniques rouges se révolte contre un commandant borné et tente d'empêcher l'invasion d'Indiens hostiles.
 
 - Di 10 sep 17h30 HL
 
@@ -159,7 +160,7 @@ de Raoul Walsh
 D'après le roman _The Revolt of Mamie Stover_ de William Bradford Huie.  
 Avec Jane Russell, Richard Egan, Joan Leslie.  
 Fascinante héroïne de Walsh, Mamie Stover (Jane Russell) incarne la détermination et la revanche sociale d'une femme prête à tout pour s'enrichir, jusqu'à bâtir son propre empire en plein conflit mondial. Elle le fera au cœur d'un lupanar d'Honolulu, le Bungalow, profitant autant de ses charmes que des opportunités économiques de la guerre. Avec une précision remarquable, Walsh en décrit les rouages et brosse le tableau d'un microcosme impitoyable, à travers le portrait d'une mère maquerelle ou celui d'un écrivain à succès. Sexe, argent et pouvoir, l'histoire d'une ascension, d'une chute et d'une impossible rédemption, aussi cynique que vertigineuse.  
-Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au Bungalow, un dancing célèbre. Après l'attaque de Pearl Harbor, obnubilée par son désir d'argent, elle cherche à s'enrichir. Sa rencontre avec Jim Blair, un romancier, bouleverse ses projets.
+Expulsée de San Francisco, Mamie Stover embarque pour Honolulu et fait la connaissance de Jim Blair, un romancier, durant la traversée. D'abord obsédée par l'appât du gain, leur idylle bouleverse ses projets.
 
 - Di 17 sep 20h30 HL
 
@@ -168,9 +169,10 @@ Expulsée de San Francisco Mamie Stover se rend à Honolulu pour travailler au B
 **(Captain Horatio Hornblower R. N.)**  
 de Raoul Walsh  
 Grande-Bretagne-États-Unis / 1951 / 117 min / VOSTF / 35 mm  
-Avec Gregory Peck, James Robertson Justice, Christopher Lee.  
+D'après la série des _Hornblower_ de C. S. Forester.  
+Avec Gregory Peck, Virginia Mayo, Robert Beatty.  
 Le personnage d'Horatio Hornblower, imaginé par C.S. Forester, est l'objet d'un véritable culte en Angleterre. Figure idéale du marin, cet officier de la Royal Navy inspire à Walsh l'une de ses épopées maritimes les plus éclatantes, aux péripéties feuilletonesques. Vénérable prédécesseur de _Master and Commander_, un classique.  
-À l'époque des guerres napoléonniennes, le capitaine Horatio Hornblower est à la tête d'un petit vaisseau. Il doit fournir des armes à un chef de bande ennemi de l'Espagne.  
+Les aventures maritimes et sentimentales d'un capitaine britannique, Horatio Hornblower, à l'époque du blocus continental napoléonien.  
 Copie Technicolor original.
 
 - Ve 22 sep 20h15 HL
@@ -180,6 +182,7 @@ Copie Technicolor original.
 **(A Distant Trumpet)**  
 de Raoul Walsh  
 États-Unis / 1963 / 110 min / VOSTF / 35 mm  
+D'après le roman _A Distant Trumpet_ de Paul Horgan.  
 Avec Troy Donahue, Suzanne Pleshette, Diane McBain.  
 À 77 ans, Walsh clôt son impressionnante filmographie avec un western de cavalerie qui en impose par son âpreté et sa vision empathique du peuple conquis. Peu glorieuses, les guerres indiennes sont décrites sans complaisance, à travers l'honneur, l'ouverture et le respect de deux commandants. La tendresse avec laquelle Walsh filme le silence d'un éclaireur indien ou la coiffe des vaincus jetée à terre est bouleversante. Si le triangle amoureux sort un peu du cadre, la vigueur des chevauchées et les scènes de bataille proprement vertigineuses, emmenées par les tambours et les cuivres de Max Steiner, font de ce western tardif de la période classique un superbe chant du cygne.  
 Matt Hazard, lieutenant de l'armée américaine réaffecté dans l'Arizona, combat contre des tribus indiennes. Il fait la connaissance de Kitty, la femme d'un commandant, à laquelle il sauve la vie à plusieurs reprises.
@@ -235,6 +238,7 @@ En 1942, avant de partir au front, de jeunes recrues tentent d'apprendre les rud
 de Raoul Walsh  
 États-Unis / 1928 / 103 min / INT. FR. / 35 mm  
 Avec Dolores del Río, Charles Farrell, Ivan Linow.  
+Après avoir dévoilé l'exotisme de Dolores Del Rio dans _Les Amours de Carmen_, Walsh retrouve l'actrice mexicaine dans le rôle d'une danseuse russe qui s'éprend du prince qu'elle doit assassiner. Derrière l'intrigue amoureuse, une évocation spectaculaire de la Révolution de 1917, dans l'ultime œuvre muette du réalisateur.  
 Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Grand Duc Eugen à la veille de son mariage avec la Princesse Varvara.
 
 - Sa 7 oct 18h00 GF
@@ -580,6 +584,7 @@ Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où
 de Raoul Walsh  
 États-Unis / 1914 / 28 min / INT. FR. / 35 mm  
 Avec Nick Cage, Dark Cloud, Richard Cummings.  
+L'un des tout premiers courts métrages de Walsh, enquête policière qu'il réalise et interprète, dans une copie 35 mm restaurée.  
 Emprisonné la veille de son mariage pour le meurtre du propriétaire d'un talisman hindou, John Stafford parvient à s'échapper tandis qu'un détective engagé par sa fiancée démasque les véritables assassins.
 
 - Me 4 oct 18h30 JE
@@ -590,10 +595,11 @@ Emprisonné la veille de son mariage pour le meurtre du propriétaire d'un talis
 de Raoul Walsh  
 États-Unis / 1935 / 80 min / VOSTF / 16 mm  
 Avec George Raft, Alice Faye, Frances Langford.  
+Un film musical qui suit l'itinéraire d'un trio de chanteuses sans le sou, inscrites au concours amateur d'une station de radio. Dans le rôle du chef d'orchestre, George Raft, avant qu'il ne devienne un visage familier des films de gangsters.  
 Trois jeunes employés formant un trio vocal deviennent des vedette de la radio.  
 Copie de la collection Jon Davison à l' Academy Film Archive.
 
-- Di 15 oct 17h30 GF
+- Di 15 oct 17h45 GF
 
 [36837]  
 **Les Nus et les morts**  
@@ -757,7 +763,7 @@ Avec Pat Paterson, Mary Brian, George Barbier.
 Les débuts de Henry Fonda dans le rôle d'un amateur de polo mondain qui tombe dans les bras d'une aventurière malhonnête. Une comédie qui se moque des riches oisifs et de leur entourage cupide.  
 Un héritier, qui a dilapidé toute sa fortune dans la pratique de sports de luxe, épouse une aventurière se faisant passer pour la fille d'un millionnaire.
 
-- Di 15 oct 19h15 GF
+- Di 15 oct 19h30 GF
 
 [37792]  
 **Têtes brûlées**  

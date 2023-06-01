@@ -125,7 +125,7 @@ de Hayao Miyazaki
 Japon / 1992 / 94 min / VOSTF / DCP  
 [JP] Tout le savoir-faire des studios Ghibli, dans le dernier film du maître Miyazaki entièrement dessiné à la main, et témoin de sa passion pour l'aviation. Une fable délicate sur l'héroïsme, ou quand les aventures d'un pilote à tête de cochon servent un réquisitoire subtil contre la guerre.
 
-- Di 5 nov 15h00 GF
+- Di 5 nov 15h00 HL
 
 [51550]  
 **L'Argent de poche**  

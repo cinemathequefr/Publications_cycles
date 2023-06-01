@@ -40,7 +40,7 @@ D'après la pièce _Les Parents terribles_ de Jean Cocteau.
 Avec Jean Marais, Josette Day, Yvonne de Bray, Gabrielle Dorziat.  
 Michel est amoureux de Madeleine et veut l'épouser, mais ses parents s'opposent au mariage.
 
-- Di 19 nov 15h00 HL
+- Di 19 nov 14h30 HL
 
 [47713]  
 **Le Sang d'un poète**  
@@ -98,7 +98,7 @@ D'après le roman _Les Enfants terribles_ de Jean Cocteau.
 Avec Nicole Stéphane, Jacques Bernard, Edouard Dermit.  
 Un frère et une sœur vivent en étroite connivence dans un monde clos.
 
-- Di 19 nov 17h15 HL
+- Di 19 nov 17h00 HL
 
 [42487]  
 **Le Mystère d'Oberwald**  
@@ -109,7 +109,7 @@ D'après la pièce _L'Aigle à deux têtes_ de Jean Cocteau.
 Avec Monica Vitti, Franco Branciaroli, Luigi Diberti.  
 Dans un royaume d'Europe centrale, un poète révolutionnaire veut assassiner la reine, mais il tombe amoureux d'elle.
 
-- Di 19 nov 19h30 HL
+- Di 19 nov 19h15 HL
 
 [47979]  
 **La Princesse de Clèves**  

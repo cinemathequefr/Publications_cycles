@@ -67,7 +67,7 @@ Produit par Abel Salazar, cinq ans après le diptyque vampirique de Méndez, _Le
 Sara est employée domestique chez un docteur fou, enclin au féminicide. Elle est aussi une sorcière, qui communique avec des esprits tout-puissants et rêve de venger la mort de sa filleule, l'ancienne femme de son employeur.  
 Restauration en 2K par Alameda Films.
 
-- Ve 3 nov 19h00 GF
+- Me 1 nov 19h00 GF
 
 [154474]  
 **El Mundo de los muertos**  
