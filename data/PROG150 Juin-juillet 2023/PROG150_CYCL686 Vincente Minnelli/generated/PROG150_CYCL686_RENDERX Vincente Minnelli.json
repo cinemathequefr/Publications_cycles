@@ -33,7 +33,41 @@
           ]
         },
         {
-          "idEvenement": 28068,
+          "idFilm": 35235,
+          "content": [
+            {
+              "idFilm": 35235,
+              "ordre": 2,
+              "titre": "Allons donc, papa !",
+              "titreVo": "Father's Little Dividend",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1951,
+              "duree": 81,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Spencer Tracy",
+                "Elizabeth Taylor",
+                "Joan Bennett"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104290,
+              "dateHeure": "2023-07-10T20:00:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 104271,
+              "dateHeure": "2023-07-26T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 35257,
           "content": [
             {
               "idFilm": 35257,
@@ -67,47 +101,6 @@
           ]
         },
         {
-          "idEvenement": 28268,
-          "content": [
-            {
-              "idFilm": 105778,
-              "ordre": 1,
-              "titre": "Baignade dans un torrent",
-              "realisateurs": "Alice Guy",
-              "pays": "France",
-              "annee": 1897,
-              "duree": 1,
-              "version": "INT. FR.",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 54351,
-              "ordre": 2,
-              "titre": "Yolanda et le Voleur",
-              "titreVo": "Yolanda and the Thief",
-              "realisateurs": "Vincente Minnelli",
-              "pays": "États-Unis",
-              "annee": 1945,
-              "duree": 108,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Fred Astaire",
-                "Lucile Bremer",
-                "Frank Morgan"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104119,
-              "dateHeure": "2023-07-01T17:30:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par Dominique Païni"
-            }
-          ]
-        },
-        {
           "idFilm": 105778,
           "content": [
             {
@@ -132,7 +125,7 @@
           ]
         },
         {
-          "idEvenement": 28054,
+          "idFilm": 35211,
           "content": [
             {
               "idFilm": 35211,
@@ -166,7 +159,7 @@
           ]
         },
         {
-          "idEvenement": 28063,
+          "idFilm": 44957,
           "content": [
             {
               "idFilm": 44957,
@@ -201,44 +194,72 @@
           ]
         },
         {
-          "idEvenement": 28042,
-          "content": [
+          "groupe": [
             {
               "idFilm": 44951,
-              "ordre": 1,
-              "titre": "Chant du Missouri",
-              "art": "Le",
-              "titreVo": "Meet Me in St. Louis",
-              "realisateurs": "Vincente Minnelli",
-              "pays": "États-Unis",
-              "annee": 1944,
-              "duree": 113,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Meet Me in St. Louis_ de Sally Benson.",
-              "generique": [
-                "Judy Garland",
-                "Margaret O'Brien",
-                "Mary Astor"
+              "content": [
+                {
+                  "idFilm": 44951,
+                  "ordre": 1,
+                  "titre": "Chant du Missouri",
+                  "art": "Le",
+                  "titreVo": "Meet Me in St. Louis",
+                  "realisateurs": "Vincente Minnelli",
+                  "pays": "États-Unis",
+                  "annee": 1944,
+                  "duree": 113,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _Meet Me in St. Louis_ de Sally Benson.",
+                  "generique": [
+                    "Judy Garland",
+                    "Margaret O'Brien",
+                    "Mary Astor"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104056,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-07-06T19:00:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 104056,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 102008,
+                  "dateHeure": "2023-07-20T17:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104056,
-              "typeAssoc": 118,
-              "dateHeure": "2023-07-06T19:00:00",
-              "idSalle": "HL"
             },
             {
-              "idSeance": 102008,
-              "dateHeure": "2023-07-20T17:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28175,
+              "content": [
+                {
+                  "idConf": 28175,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104056,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-07-06T19:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         },
         {
-          "idEvenement": 28067,
+          "idFilm": 44828,
           "content": [
             {
               "idFilm": 44828,
@@ -275,7 +296,7 @@
           ]
         },
         {
-          "idEvenement": 28061,
+          "idFilm": 35287,
           "content": [
             {
               "idFilm": 35287,
@@ -311,7 +332,7 @@
           ]
         },
         {
-          "idEvenement": 28053,
+          "idFilm": 35208,
           "content": [
             {
               "idFilm": 35208,
@@ -349,70 +370,6 @@
           ]
         },
         {
-          "idEvenement": 28266,
-          "content": [
-            {
-              "idFilm": 53492,
-              "ordre": 1,
-              "titre": "Fée aux choux",
-              "art": "La",
-              "realisateurs": "Alice Guy",
-              "pays": "France",
-              "annee": 1896,
-              "duree": 1,
-              "version": "INT. FR.",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 106009,
-              "ordre": 2,
-              "titre": "Alice Guy tourne une phonoscène",
-              "realisateurs": "Alice Guy",
-              "pays": "France",
-              "annee": 1905,
-              "duree": 2,
-              "version": "INT. FR.",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 106017,
-              "ordre": 3,
-              "titre": "Madame a des envies",
-              "realisateurs": "Alice Guy",
-              "pays": "France",
-              "annee": 1906,
-              "duree": 4,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 44960,
-              "ordre": 4,
-              "titre": "Un numéro du tonnerre",
-              "titreVo": "Bells Are Ringing",
-              "realisateurs": "Vincente Minnelli",
-              "pays": "États-Unis",
-              "annee": 1960,
-              "duree": 127,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après la comédie musicale _Bells Are Ringing_ de Betty Comden et Adolph Green.",
-              "generique": [
-                "Judy Holliday",
-                "Dean Martin"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104105,
-              "dateHeure": "2023-07-01T15:00:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par Catel & Bocquet"
-            }
-          ]
-        },
-        {
           "idFilm": 53492,
           "content": [
             {
@@ -438,7 +395,7 @@
           ]
         },
         {
-          "idEvenement": 28058,
+          "idFilm": 35221,
           "content": [
             {
               "idFilm": 35221,
@@ -472,49 +429,6 @@
           ]
         },
         {
-          "idEvenement": 28264,
-          "content": [
-            {
-              "idFilm": 105838,
-              "ordre": 1,
-              "titre": "Fredaines de Pierrette",
-              "art": "Les",
-              "realisateurs": "Alice Guy",
-              "pays": "France",
-              "annee": 1900,
-              "duree": 2,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 35212,
-              "ordre": 2,
-              "titre": "Tous en scène",
-              "titreVo": "Band Wagon",
-              "artVo": "The",
-              "realisateurs": "Vincente Minnelli",
-              "pays": "États-Unis",
-              "annee": 1953,
-              "duree": 112,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Fred Astaire",
-                "Cyd Charisse",
-                "Oscar Levant",
-                "Nanette Fabray"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104176,
-              "dateHeure": "2023-07-01T20:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 105838,
           "content": [
             {
@@ -539,7 +453,7 @@
           ]
         },
         {
-          "idEvenement": 28059,
+          "idFilm": 35254,
           "content": [
             {
               "idFilm": 35254,
@@ -569,53 +483,6 @@
               "idSeance": 102263,
               "dateHeure": "2023-07-29T14:30:00",
               "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idEvenement": 28049,
-          "content": [
-            {
-              "idFilm": 35279,
-              "ordre": 1,
-              "titre": "Histoire de trois amours : Mademoiselle",
-              "titreVo": "Story of Three Loves: Mademoiselle",
-              "artVo": "The",
-              "realisateurs": "Vincente Minnelli",
-              "pays": "États-Unis",
-              "annee": 1952,
-              "duree": 32,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Leslie Caron",
-                "Ethel Barrymore",
-                "Farley Granger"
-              ]
-            },
-            {
-              "idFilm": 35235,
-              "ordre": 2,
-              "titre": "Allons donc, papa !",
-              "titreVo": "Father's Little Dividend",
-              "realisateurs": "Vincente Minnelli",
-              "pays": "États-Unis",
-              "annee": 1951,
-              "duree": 81,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Spencer Tracy",
-                "Elizabeth Taylor",
-                "Joan Bennett"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104290,
-              "dateHeure": "2023-07-10T20:00:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -650,7 +517,7 @@
           ]
         },
         {
-          "idEvenement": 28044,
+          "idFilm": 58549,
           "content": [
             {
               "idFilm": 58549,
@@ -685,7 +552,7 @@
           ]
         },
         {
-          "idEvenement": 28066,
+          "idFilm": 61789,
           "content": [
             {
               "idFilm": 61789,
@@ -721,7 +588,7 @@
           ]
         },
         {
-          "idEvenement": 28076,
+          "idFilm": 35222,
           "content": [
             {
               "idFilm": 35222,
@@ -755,7 +622,7 @@
           ]
         },
         {
-          "idEvenement": 28046,
+          "idFilm": 34254,
           "content": [
             {
               "idFilm": 34254,
@@ -813,7 +680,7 @@
           ]
         },
         {
-          "idEvenement": 28048,
+          "idFilm": 35207,
           "content": [
             {
               "idFilm": 35207,
@@ -848,7 +715,7 @@
           ]
         },
         {
-          "idEvenement": 28074,
+          "idFilm": 79453,
           "content": [
             {
               "idFilm": 79453,
@@ -883,7 +750,7 @@
           ]
         },
         {
-          "idEvenement": 28069,
+          "idFilm": 45896,
           "content": [
             {
               "idFilm": 45896,
@@ -917,7 +784,7 @@
           ]
         },
         {
-          "idEvenement": 28070,
+          "idFilm": 70387,
           "content": [
             {
               "idFilm": 70387,
@@ -952,7 +819,7 @@
           ]
         },
         {
-          "idEvenement": 28050,
+          "idFilm": 35233,
           "content": [
             {
               "idFilm": 35233,
@@ -988,7 +855,7 @@
           ]
         },
         {
-          "idEvenement": 28047,
+          "idFilm": 35285,
           "content": [
             {
               "idFilm": 35285,
@@ -1025,7 +892,7 @@
           ]
         },
         {
-          "idEvenement": 28045,
+          "idFilm": 38027,
           "content": [
             {
               "idFilm": 38027,
@@ -1060,7 +927,7 @@
           ]
         },
         {
-          "idEvenement": 28060,
+          "idFilm": 34955,
           "content": [
             {
               "idFilm": 34955,
@@ -1096,7 +963,7 @@
           ]
         },
         {
-          "idEvenement": 28064,
+          "idFilm": 35245,
           "content": [
             {
               "idFilm": 35245,
@@ -1134,7 +1001,7 @@
           ]
         },
         {
-          "idEvenement": 28065,
+          "idFilm": 34252,
           "content": [
             {
               "idFilm": 34252,
@@ -1169,7 +1036,7 @@
           ]
         },
         {
-          "idEvenement": 28055,
+          "idFilm": 35160,
           "content": [
             {
               "idFilm": 35160,
@@ -1204,7 +1071,7 @@
           ]
         },
         {
-          "idEvenement": 28057,
+          "idFilm": 54360,
           "content": [
             {
               "idFilm": 54360,
@@ -1239,7 +1106,7 @@
           ]
         },
         {
-          "idEvenement": 28056,
+          "idFilm": 44962,
           "content": [
             {
               "idFilm": 44962,
@@ -1278,7 +1145,43 @@
           ]
         },
         {
-          "idEvenement": 28051,
+          "idFilm": 35212,
+          "content": [
+            {
+              "idFilm": 35212,
+              "ordre": 2,
+              "titre": "Tous en scène",
+              "titreVo": "Band Wagon",
+              "artVo": "The",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1953,
+              "duree": 112,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Fred Astaire",
+                "Cyd Charisse",
+                "Oscar Levant",
+                "Nanette Fabray"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104176,
+              "dateHeure": "2023-07-01T20:00:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 104252,
+              "dateHeure": "2023-07-27T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 44918,
           "content": [
             {
               "idFilm": 44918,
@@ -1313,7 +1216,42 @@
           ]
         },
         {
-          "idEvenement": 28040,
+          "idFilm": 44960,
+          "content": [
+            {
+              "idFilm": 44960,
+              "ordre": 4,
+              "titre": "Un numéro du tonnerre",
+              "titreVo": "Bells Are Ringing",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1960,
+              "duree": 127,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après la comédie musicale _Bells Are Ringing_ de Betty Comden et Adolph Green.",
+              "generique": [
+                "Judy Holliday",
+                "Dean Martin"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104105,
+              "dateHeure": "2023-07-01T15:00:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Catel & Bocquet"
+            },
+            {
+              "idSeance": 104251,
+              "dateHeure": "2023-07-09T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 35216,
           "content": [
             {
               "idFilm": 35216,
@@ -1350,7 +1288,7 @@
           ]
         },
         {
-          "idEvenement": 28078,
+          "idFilm": 35259,
           "content": [
             {
               "idFilm": 35259,
@@ -1385,7 +1323,42 @@
           ]
         },
         {
-          "idEvenement": 28041,
+          "idFilm": 54351,
+          "content": [
+            {
+              "idFilm": 54351,
+              "ordre": 2,
+              "titre": "Yolanda et le Voleur",
+              "titreVo": "Yolanda and the Thief",
+              "realisateurs": "Vincente Minnelli",
+              "pays": "États-Unis",
+              "annee": 1945,
+              "duree": 108,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Fred Astaire",
+                "Lucile Bremer",
+                "Frank Morgan"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104119,
+              "dateHeure": "2023-07-01T17:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Dominique Païni"
+            },
+            {
+              "idSeance": 104253,
+              "dateHeure": "2023-07-21T20:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 34230,
           "content": [
             {
               "idFilm": 34230,
@@ -1414,32 +1387,6 @@
             {
               "idSeance": 102009,
               "dateHeure": "2023-07-20T20:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titreSousCycle": "Rencontres et conférences",
-      "tri": 4,
-      "items": [
-        {
-          "idConf": 28175,
-          "content": [
-            {
-              "idEvenement": 28175,
-              "ordre": 2,
-              "titre": "Dialogue avec Murielle Joudet",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Rencontre animée par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104056,
-              "typeAssoc": 118,
-              "dateHeure": "2023-07-06T19:00:00",
               "idSalle": "HL"
             }
           ]

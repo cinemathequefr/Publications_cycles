@@ -65,26 +65,43 @@
           ]
         },
         {
-          "idFilm": 52364,
-          "content": [
+          "groupe": [
             {
               "idFilm": 52364,
-              "ordre": 2,
-              "titre": "Chronique d'un été",
-              "realisateurs": "Jean Rouch, Edgar Morin",
-              "pays": "France",
-              "annee": 1960,
-              "duree": 86,
-              "version": "",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 52364,
+                  "ordre": 2,
+                  "titre": "Chronique d'un été",
+                  "realisateurs": "Jean Rouch, Edgar Morin",
+                  "pays": "France",
+                  "annee": 1960,
+                  "duree": 86,
+                  "version": "",
+                  "format": "DCP"
+                }
+              ],
+              "seances": []
+            },
             {
-              "idSeance": 104053,
-              "typeAssoc": 118,
-              "dateHeure": "2023-07-01T14:30:00",
-              "idSalle": "GF"
+              "idEvenement": 28173,
+              "content": [
+                {
+                  "idConf": 28173,
+                  "ordre": 3,
+                  "titre": "Film + Dialogue avec Frédérique Berthet",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104053,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-07-01T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -418,27 +435,44 @@
           ]
         },
         {
-          "idFilm": 41219,
-          "content": [
+          "groupe": [
             {
               "idFilm": 41219,
-              "ordre": 1,
-              "titre": "Nanouk l'esquimau",
-              "titreVo": "Nanook of the North",
-              "realisateurs": "Robert J. Flaherty",
-              "pays": "États-Unis",
-              "annee": 1922,
-              "duree": 50,
-              "version": "INT. FR.",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 41219,
+                  "ordre": 1,
+                  "titre": "Nanouk l'esquimau",
+                  "titreVo": "Nanook of the North",
+                  "realisateurs": "Robert J. Flaherty",
+                  "pays": "États-Unis",
+                  "annee": 1922,
+                  "duree": 50,
+                  "version": "INT. FR.",
+                  "format": "DCP"
+                }
+              ],
+              "seances": []
+            },
             {
-              "idSeance": 104052,
-              "typeAssoc": 118,
-              "dateHeure": "2023-06-25T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28169,
+              "content": [
+                {
+                  "idConf": 28169,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec Pierre Gabaston",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104052,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-06-25T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -535,26 +569,43 @@
           ]
         },
         {
-          "idFilm": 60776,
-          "content": [
+          "groupe": [
             {
               "idFilm": 60776,
-              "ordre": 1,
-              "titre": "Reprise",
-              "realisateurs": "Hervé Le Roux",
-              "pays": "France",
-              "annee": 1996,
-              "duree": 180,
-              "version": "",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 60776,
+                  "ordre": 1,
+                  "titre": "Reprise",
+                  "realisateurs": "Hervé Le Roux",
+                  "pays": "France",
+                  "annee": 1996,
+                  "duree": 180,
+                  "version": "",
+                  "format": "DCP"
+                }
+              ],
+              "seances": []
+            },
             {
-              "idSeance": 101726,
-              "typeAssoc": 118,
-              "dateHeure": "2023-07-08T14:30:00",
-              "idSalle": "GF"
+              "idEvenement": 28174,
+              "content": [
+                {
+                  "idConf": 28174,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec David Faroult",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 101726,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-07-08T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -906,72 +957,6 @@
               "dateHeure": "2023-06-28T18:30:00",
               "idSalle": "GF",
               "mention": "Séance présentée par Brigitte Berg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titreSousCycle": "Rencontres et conférences",
-      "tri": 4,
-      "items": [
-        {
-          "idConf": 28169,
-          "content": [
-            {
-              "idEvenement": 28169,
-              "ordre": 2,
-              "titre": "Film + Dialogue avec Pierre Gabaston",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Rencontre animée par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104052,
-              "typeAssoc": 118,
-              "dateHeure": "2023-06-25T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idConf": 28173,
-          "content": [
-            {
-              "idEvenement": 28173,
-              "ordre": 3,
-              "titre": "Film + Dialogue avec Frédérique Berthet",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Rencontre animée par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104053,
-              "typeAssoc": 118,
-              "dateHeure": "2023-07-01T14:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idConf": 28174,
-          "content": [
-            {
-              "idEvenement": 28174,
-              "ordre": 2,
-              "titre": "Film + Dialogue avec David Faroult",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Rencontre animée par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 101726,
-              "typeAssoc": 118,
-              "dateHeure": "2023-07-08T14:30:00",
-              "idSalle": "GF"
             }
           ]
         }

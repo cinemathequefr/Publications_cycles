@@ -406,33 +406,49 @@
           ]
         },
         {
-          "idFilm": 33073,
-          "content": [
+          "groupe": [
             {
               "idFilm": 33073,
-              "ordre": 1,
-              "titre": "Peter Ibbetson",
-              "realisateurs": "Henry Hathaway",
-              "pays": "États-Unis",
-              "annee": 1935,
-              "duree": 85,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Peter Ibbetson_ de George Du Maurier.",
-              "generique": [
-                "Gary Cooper",
-                "Ann Harding",
-                "John Halliday",
-                "Ida Lupino"
-              ]
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 33073,
+                  "ordre": 1,
+                  "titre": "Peter Ibbetson",
+                  "realisateurs": "Henry Hathaway",
+                  "pays": "États-Unis",
+                  "annee": 1935,
+                  "duree": 85,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Peter Ibbetson_ de George Du Maurier.",
+                  "generique": [
+                    "Gary Cooper",
+                    "Ann Harding",
+                    "John Halliday",
+                    "Ida Lupino"
+                  ]
+                }
+              ],
+              "seances": []
+            },
             {
-              "idSeance": 104030,
-              "typeAssoc": 118,
-              "dateHeure": "2023-06-18T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28034,
+              "content": [
+                {
+                  "idConf": 28034,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue entre Dominique Païni et Dominique Rabourdin",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104030,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-06-18T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -892,7 +908,7 @@
           ]
         },
         {
-          "idFilm": 154373,
+          "idEvenement": 28071,
           "content": [
             {
               "idFilm": 154373,
@@ -913,31 +929,6 @@
               "dateHeure": "2023-06-22T20:30:00",
               "idSalle": "JE",
               "mention": "Séance présentée par Fabrice Maze"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titreSousCycle": "Rencontres et conférences",
-      "tri": 4,
-      "items": [
-        {
-          "idConf": 28034,
-          "content": [
-            {
-              "idEvenement": 28034,
-              "ordre": 2,
-              "titre": "Film + Dialogue entre Dominique Païni et Dominique Rabourdin",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104030,
-              "typeAssoc": 118,
-              "dateHeure": "2023-06-18T14:30:00",
-              "idSalle": "HL"
             }
           ]
         }

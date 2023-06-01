@@ -439,9 +439,9 @@ Jether, un berger, est attiré par Tisha, prêtresse d'Ishtar. Il se rend à Bab
 **(Fighter Squadron)**  
 de Raoul Walsh  
 États-Unis / 1948 / 96 min / VOSTF / 16 mm  
-Avec Robert Stack, Edmond O'Brien, Rock Hudson.  
+Avec Edmond O'Brien, Robert Stack, John Rodney.  
 Les exploits d'une escadrille de bombardiers américains pendant la Deuxième Guerre mondiale. Combinant habilement scènes de fiction et extraits d'actualité de l'US Air Force, l'unique film d'aviation de Walsh est aussi sa première production en couleurs (Technicolor) et marque les débuts discrets de Rock Hudson à l'écran.  
-1943\. Une base américaine en Angleterre. Un pilote virtuose et indiscipliné devient chef d'escadron. Les missions de bombardement se succèdent en attendant le débarquement en Normandie.
+Membre d'une escadrille basée en Angleterre pendant la Seconde Guerre mondiale, le capitaine Hamilton accomplit un acte héroïque, qui sauve la vie du sévère major Hardin. Autorisé à rentrer aux États-Unis mais contraint par son ordre de rester célibataire, il s'attire les foudres de son supérieur en annonçant son prochain mariage.
 
 - Je 14 sep 18h00 HL
 
@@ -449,10 +449,10 @@ Les exploits d'une escadrille de bombardiers américains pendant la Deuxième Gu
 **Gentleman Jim**  
 de Raoul Walsh  
 États-Unis / 1942 / 104 min / VOSTF / 35 mm  
-D'après l'ouvrage _The Roar of the Crowd_ de James J. Corbett.  
-Avec Errol Flynn, Alexis Smith, Alan Hale.  
+D'après l'autobiographie _The Roar of the Crowd_ de James J. Corbett.  
+Avec Errol Flynn, Alexis Smith, Jack Carson.  
 L'histoire d'une irrésistible ascension, celle de James Corbett, modeste employé de banque des faubourgs de San Francisco, qui parvient à intégrer le club athlétique des milieux huppés. Pour l'interpréter, Walsh fait appel à l'un de ses acteurs fétiches. Silhouette agile, débordant de fougue et d'aplomb, Errol Flynn revêt l'habit du champion de boxe avec un naturel d'élégance et d'arrogance mêlées, aussi à l'aise sur un ring que dans les salons de la haute société. Dans un exaltant ballet viril, Walsh filme le mouvement des corps avec autant de suspense que d'humour, donnant à voir autant d'uppercuts que d'esquives amoureuses, capable d'égratigner la société américaine tout en livrant le plus beau film sur l'art pugilistique.  
-Jim veux tout très vite : être à la fois champion de boxe, grand acteur shakespearien et surtout épouser la fille de son patron. Les entraînements, les matchs fougueux, la vie à toute vitesse sauront lui apprendront à changer.
+Jim veut tout très vite : être champion de boxe, grand acteur shakespearien et surtout épouser la fille de son patron. Les entraînements, les matchs fougueux, la vie à toute vitesse, sauront lui apprendre à changer.
 
 - Di 3 sep 16h45 HL
 
@@ -474,7 +474,7 @@ de Raoul Walsh
 États-Unis / 1943 / 80 min / VOSTF / 35 mm  
 Avec Jack Benny, Alexis Smith, Dolores Moran.  
 Un trompettiste rêve qu'il est un ange envoyé sur Terre afin d'y sonner la fin du monde à minuit. Paradis bureaucratique, ascenseur céleste et tasse à café géante donnent à cette fantaisie un ton burlesque et surréaliste réjouissant, le tout orchestré par Jack Benny, vedette de radio et humoriste préféré d'un certain Benny Hill, qui lui empruntera son nom.  
-Un trompettiste rêve qu'il est chargé par le chef des anges de jouer le signal de l'Apocalypse à minuit.
+Le trompettiste d'un orchestre radiophonique s'endort pendant le passage de la publicité et rêve qu'il est chargé, par le chef des anges, de jouer le signal de l'Apocalypse à minuit.
 
 - Di 5 nov 18h30 GF
 
@@ -485,7 +485,7 @@ de Raoul Walsh
 États-Unis / 1931 / 85 min / VOSTF / 16 mm  
 Avec Janet Gaynor, Charles Farrell, Kenneth MacKenna.  
 Le couple de stars, Janet Gaynor et Charles Farrell, bravant les obstacles de San Francisco à Shanghaï. Une romance exotique, qui vaut pour sa scène de fumerie d'opium, particulièrement réussie  
-Un fils de famille alcoolique et une chanteuse de cabaret s'aiment en depit de toute sorte d'obstacles.
+Impliqué dans une série de scandales, le fils d'un millionnaire new-yorkais s'éprend d'une chanteuse de cabaret.
 
 - Sa 30 sep 15h00 GF
 
@@ -494,9 +494,10 @@ Un fils de famille alcoolique et une chanteuse de cabaret s'aiment en depit de t
 **(The Tall Men)**  
 de Raoul Walsh  
 États-Unis / 1955 / 122 min / VOSTF / 35 mm  
+D'après le roman _The Tall Men_ de Henry Wilson Allen.  
 Avec Clark Gable, Jane Russell, Robert Ryan.  
 Produit par le frère de Howard Hawks pour la Twentieth Century Fox, dans un impressionnant CinémaScope, l'acheminement d'un troupeau de bétail par quatre hommes et une ambitieuse pionnière. Les paysages grandioses exhalent le goût de l'aventure qui mène au bonheur spirituel de ses héros. Première rencontre filmique entre Walsh et Clark Gable, dont le cinéaste fera une sorte de double.  
-Au lendemain de la guerre de Sécession, deux frères se retrouvent totalement ruinés. Un homme leur propose alors un marché : conduire un immense troupeau du Texas au Montana pour en partager les bénéfices.
+Deux frères, anciens soldats sudistes de la Guerre de Sécession devenus bandits, kidnappent un propriétaire terrien. En échange de sa liberté, il leur propose un marché : conduire un immense troupeau de bêtes du Texas au Montana et partager les bénéfices.
 
 - Di 17 sep 18h00 HL
 

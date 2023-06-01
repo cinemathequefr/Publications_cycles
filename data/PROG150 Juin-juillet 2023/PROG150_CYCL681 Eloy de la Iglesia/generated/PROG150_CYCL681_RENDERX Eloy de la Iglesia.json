@@ -161,34 +161,51 @@
           ]
         },
         {
-          "idFilm": 43024,
-          "content": [
+          "groupe": [
             {
               "idFilm": 43024,
-              "ordre": 1,
-              "titre": "Député",
-              "art": "Le",
-              "titreVo": "Diputado",
-              "artVo": "El",
-              "realisateurs": "Eloy de la Iglesia",
-              "pays": "Espagne",
-              "annee": 1978,
-              "duree": 111,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "José Sacristán",
-                "María Luisa San José",
-                "Ángel Pardo"
-              ]
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 43024,
+                  "ordre": 1,
+                  "titre": "Député",
+                  "art": "Le",
+                  "titreVo": "Diputado",
+                  "artVo": "El",
+                  "realisateurs": "Eloy de la Iglesia",
+                  "pays": "Espagne",
+                  "annee": 1978,
+                  "duree": 111,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "José Sacristán",
+                    "María Luisa San José",
+                    "Ángel Pardo"
+                  ]
+                }
+              ],
+              "seances": []
+            },
             {
-              "idSeance": 104249,
-              "typeAssoc": 118,
-              "dateHeure": "2023-07-13T19:00:00",
-              "idSalle": "GF"
+              "idEvenement": 28035,
+              "content": [
+                {
+                  "idConf": 28035,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Marcos Uzal",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Jean-François Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104249,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-07-13T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -636,32 +653,6 @@
             {
               "idSeance": 104087,
               "dateHeure": "2023-07-15T17:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titreSousCycle": "Rencontres et conférences",
-      "tri": 4,
-      "items": [
-        {
-          "idConf": 28035,
-          "content": [
-            {
-              "idEvenement": 28035,
-              "ordre": 2,
-              "titre": "Dialogue avec Marcos Uzal",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Rencontre animée par Jean-François Rauger"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104249,
-              "typeAssoc": 118,
-              "dateHeure": "2023-07-13T19:00:00",
               "idSalle": "GF"
             }
           ]

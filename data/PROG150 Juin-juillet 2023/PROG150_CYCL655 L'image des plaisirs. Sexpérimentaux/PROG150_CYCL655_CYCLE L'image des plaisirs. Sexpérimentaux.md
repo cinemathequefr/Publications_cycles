@@ -550,7 +550,7 @@ suivi de
 **Barbie aussi peut être triste**  
 **(Barbie también puede estar triste)**  
 d'Albertina Carri  
-Argentine / 2002 / 24 min / VOSTF / DCP  
+Argentine / 2002 / 24 min / VO / DCP  
 Pamphlet d'animation féministe sur la fluidité de la sexualité et la réinvention des schémas amoureux. Tout ce que vous vouliez savoir sur la sexualité de Barbie et Ken.  
 suivi de  
 [154052]  

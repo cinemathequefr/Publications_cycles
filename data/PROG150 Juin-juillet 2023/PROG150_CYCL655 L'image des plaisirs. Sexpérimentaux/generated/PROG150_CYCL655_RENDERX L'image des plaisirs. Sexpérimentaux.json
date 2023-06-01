@@ -9,7 +9,7 @@
       "tri": 4,
       "items": [
         {
-          "idFilm": 54881,
+          "idEvenement": 27357,
           "content": [
             {
               "idFilm": 54881,
@@ -45,7 +45,7 @@
       "tri": 4,
       "items": [
         {
-          "idFilm": 57087,
+          "idEvenement": 26615,
           "content": [
             {
               "idFilm": 57087,
@@ -124,11 +124,87 @@
       "tri": 4,
       "items": [
         {
-          "idFilm": 154196,
+          "groupe": [
+            {
+              "idEvenement": 28033,
+              "content": [
+                {
+                  "idConf": 28033,
+                  "ordre": 1,
+                  "titre": "L'image des plaisirs : De quoi le film me rend-il sujet ?",
+                  "sousTitre": "Conférence de Frédéric Tachou",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": []
+            },
+            {
+              "idEvenement": 28280,
+              "content": [
+                {
+                  "idFilm": 154069,
+                  "ordre": 2,
+                  "titre": "Action",
+                  "art": "The",
+                  "realisateurs": "David Matarasso",
+                  "pays": "France",
+                  "annee": 2012,
+                  "duree": 4,
+                  "version": "",
+                  "format": "DCP"
+                },
+                {
+                  "idFilm": 154196,
+                  "ordre": 3,
+                  "titre": "Essence d'absinthe",
+                  "realisateurs": "Yervant Gianikian, Angela Ricci Lucchi",
+                  "pays": "Italie",
+                  "annee": 1981,
+                  "duree": 15,
+                  "version": "",
+                  "format": "DCP"
+                },
+                {
+                  "idFilm": 141217,
+                  "ordre": 4,
+                  "titre": "Troisième œil",
+                  "art": "Le",
+                  "realisateurs": "André Almuró",
+                  "pays": "France",
+                  "annee": 1989,
+                  "duree": 22,
+                  "version": "",
+                  "format": "DCP"
+                },
+                {
+                  "idFilm": 154062,
+                  "ordre": 5,
+                  "titre": "Blind Porn",
+                  "realisateurs": "Émilie Jouvet",
+                  "pays": "France",
+                  "annee": 2005,
+                  "duree": 4,
+                  "version": "",
+                  "format": "Numérique"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 103946,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-06-03T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idEvenement": 26667,
           "content": [
             {
               "idFilm": 154196,
-              "ordre": 3,
+              "ordre": 5,
               "titre": "Essence d'absinthe",
               "realisateurs": "Yervant Gianikian, Angela Ricci Lucchi",
               "pays": "Italie",
@@ -139,12 +215,6 @@
             }
           ],
           "seances": [
-            {
-              "idSeance": 103946,
-              "typeAssoc": 118,
-              "dateHeure": "2023-06-03T14:30:00",
-              "idSalle": "GF"
-            },
             {
               "idSeance": 100836,
               "dateHeure": "2023-06-03T18:30:00",
@@ -154,11 +224,11 @@
           ]
         },
         {
-          "idFilm": 141217,
+          "idEvenement": 26672,
           "content": [
             {
               "idFilm": 141217,
-              "ordre": 4,
+              "ordre": 6,
               "titre": "Troisième œil",
               "art": "Le",
               "realisateurs": "André Almuró",
@@ -171,12 +241,6 @@
           ],
           "seances": [
             {
-              "idSeance": 103946,
-              "typeAssoc": 118,
-              "dateHeure": "2023-06-03T14:30:00",
-              "idSalle": "GF"
-            },
-            {
               "idSeance": 100901,
               "dateHeure": "2023-06-07T17:30:00",
               "idSalle": "JE"
@@ -184,11 +248,11 @@
           ]
         },
         {
-          "idFilm": 154062,
+          "idEvenement": 28036,
           "content": [
             {
               "idFilm": 154062,
-              "ordre": 5,
+              "ordre": 3,
               "titre": "Blind Porn",
               "realisateurs": "Émilie Jouvet",
               "pays": "France",
@@ -199,12 +263,6 @@
             }
           ],
           "seances": [
-            {
-              "idSeance": 103946,
-              "typeAssoc": 118,
-              "dateHeure": "2023-06-03T14:30:00",
-              "idSalle": "GF"
-            },
             {
               "idSeance": 103990,
               "dateHeure": "2023-06-14T18:00:00",
@@ -214,11 +272,11 @@
           ]
         },
         {
-          "idFilm": 154069,
+          "idEvenement": 28037,
           "content": [
             {
               "idFilm": 154069,
-              "ordre": 2,
+              "ordre": 1,
               "titre": "Action",
               "art": "The",
               "realisateurs": "David Matarasso",
@@ -230,76 +288,11 @@
             }
           ],
           "seances": [
-            {
-              "idSeance": 103946,
-              "typeAssoc": 118,
-              "dateHeure": "2023-06-03T14:30:00",
-              "idSalle": "GF"
-            },
             {
               "idSeance": 103994,
               "dateHeure": "2023-06-16T18:30:00",
               "idSalle": "JE",
               "mention": "Séance présentée par Derek Woolfenden et David Matarasso"
-            }
-          ]
-        },
-        {
-          "idEvenement": 28280,
-          "content": [
-            {
-              "idFilm": 154069,
-              "ordre": 2,
-              "titre": "Action",
-              "art": "The",
-              "realisateurs": "David Matarasso",
-              "pays": "France",
-              "annee": 2012,
-              "duree": 4,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 154196,
-              "ordre": 3,
-              "titre": "Essence d'absinthe",
-              "realisateurs": "Yervant Gianikian, Angela Ricci Lucchi",
-              "pays": "Italie",
-              "annee": 1981,
-              "duree": 15,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 141217,
-              "ordre": 4,
-              "titre": "Troisième œil",
-              "art": "Le",
-              "realisateurs": "André Almuró",
-              "pays": "France",
-              "annee": 1989,
-              "duree": 22,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 154062,
-              "ordre": 5,
-              "titre": "Blind Porn",
-              "realisateurs": "Émilie Jouvet",
-              "pays": "France",
-              "annee": 2005,
-              "duree": 4,
-              "version": "",
-              "format": "Numérique"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 103946,
-              "typeAssoc": 118,
-              "dateHeure": "2023-06-03T14:30:00",
-              "idSalle": "GF"
             }
           ]
         }
@@ -981,7 +974,7 @@
       "tri": 4,
       "items": [
         {
-          "idFilm": 154220,
+          "idEvenement": 27395,
           "content": [
             {
               "idFilm": 154220,
@@ -1254,7 +1247,7 @@
               "pays": "Argentine",
               "annee": 2002,
               "duree": 24,
-              "version": "VOSTF",
+              "version": "VO",
               "format": "DCP"
             },
             {
@@ -1318,7 +1311,7 @@
       "tri": 4,
       "items": [
         {
-          "idFilm": 122041,
+          "idEvenement": 26621,
           "content": [
             {
               "idFilm": 122041,
@@ -2068,32 +2061,6 @@
               "dateHeure": "2023-06-17T18:30:00",
               "idSalle": "JE",
               "mention": "Séance présentée par Marion Scemama"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titreSousCycle": "Rencontres et conférences",
-      "tri": 4,
-      "items": [
-        {
-          "idConf": 28033,
-          "content": [
-            {
-              "idEvenement": 28033,
-              "ordre": 1,
-              "titre": "L'image des plaisirs : De quoi le film me rend-il sujet ?",
-              "sousTitre": "Conférence de Frédéric Tachou",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 103946,
-              "typeAssoc": 118,
-              "dateHeure": "2023-06-03T14:30:00",
-              "idSalle": "GF"
             }
           ]
         }

@@ -8,7 +8,7 @@ En deux temps, trois volets, ce triptyque nous invite à partager des destins em
 **Rome plutôt que vous**  
 **(Roma wala ntouma)**  
 de Tariq Teguia  
-Algérie-France-Allemagne / 2006 / 114 min / VOSTF / 35 mm  
+Algérie-France-Allemagne / 2006 / 116 min / VOSTF / 35 mm  
 Avec Samira Kaddour, Rachid Amrani, Ahmed Benaïssa.  
 1999 : Alger la blanche est exsangue après la décennie noire. Kamel, sur le départ, ne conçoit que l'exil comme futur viable et entraîne sa fiancée Zina dans ses rêves d'un ailleurs préférable. Mais comment partir lorsque toutes les trajectoires mènent à des impasses ?
 
@@ -18,7 +18,7 @@ Séance présentée par Mehdi Taïbi et Tariq Teguia
 [90296]  
 **Festival panafricain d'Alger**  
 de William Klein  
-Algérie-France- Allemagne / 1969 / 6 min / DCP  
+Algérie-France- Allemagne / 1969 / 6 min / 35 mm  
 Avec Nina Simone, Archie Shepp, Miriam Makeba.  
 Au cœur d'un festival resté dans les annales, le film se nourrit d'archives des luttes d'indépendance et d'entretiens avec des représentants de mouvements de libération et d'écrivains africains.  
 suivi de  

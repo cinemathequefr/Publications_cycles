@@ -8,7 +8,7 @@ de Catherine Breillat
 France / 1987 / 88 min / 35 mm  
 D'après le roman _36 fillette_ de Catherine Breillat.  
 Avec Delphine Zentout, Étienne Chicot, Olivier Parnière, Jean-Pierre Léaud.  
-« C'est horrible d'être vierge ». Avec toute la crudité insolente déjà présente dans son roman éponyme, Breillat décrit le désarroi d'une jeune fille face à sa pesante virginité, le malaise du passage à l'acte sexuel, qui va de la rage à la répugnance en passant par l'angoisse de la soumission. Gamine capricieuse ou bombe aguicheuse, Lili se tient sur une ligne de partage entre l'envie et le refus de se laisser toucher. Un état transitoire qui fascine la réalisatrice depuis _Une vraie jeune fille_, son premier film, citant la Baby Doll du film d'Elia Kazan comme influence majeure de sa figure adolescente.  
+« C'est horrible d'être vierge ! » Avec toute la crudité insolente déjà présente dans son roman éponyme, Breillat décrit le désarroi d'une jeune fille face à sa pesante virginité, le malaise du passage à l'acte sexuel, qui va de la rage à la répugnance en passant par l'angoisse de la soumission. Gamine capricieuse ou bombe aguicheuse, Lili se tient sur une ligne de partage entre l'envie et le refus de se laisser toucher. Un état transitoire qui fascine la réalisatrice depuis _Une vraie jeune fille_, son premier film, citant la Baby Doll du film d'Elia Kazan comme influence majeure de sa figure adolescente.  
 Lili, 14 ans, passe ses vacances dans un camping avec ses parents et son frère. Un soir, elle rencontre Maurice, quadragénaire cynique qui cherche à la séduire. Une relation ambiguë s'installe alors entre eux.
 
 - Sa 16 sep 14h30 HL
@@ -62,7 +62,7 @@ France / 2010
 D'après le conte _La Belle au bois dormant_ de Charles Perrault.  
 Avec Carla Besnaïnou, Julia Artamonov, Kerian Mayan.  
 Après Barbe bleue, les contes de l'enfance donnent de nouveau matière à évoquer les rêves de jeune fille de Catherine Breillat. Ponctuée d'allusions à Cocteau ou à la peinture classique, une exploration cruelle et merveilleuse.  
-À sa naissance, la petite Anastasia est victime d'un mauvais sort, jeté par la fée Carabosse. Pour déjouer la malédiction, trois jeunes fées lui donnent le pouvoir de vivre, durant cent ans, des rêves d'aventures fantastiques.
+À sa naissance, la petite Anastasia est victime d'un mauvais sort jeté par la fée Carabosse. Pour déjouer la malédiction, trois jeunes fées lui donnent le pouvoir de vivre, durant cent ans, des rêves d'aventures fantastiques.
 
 - Je 21 sep 20h30 JE
 
@@ -73,7 +73,7 @@ France / 2001 / 84 min / STA / 35 mm
 Avec Sarah Pratt, Gilles Guillain, Christelle Dacosta.  
 Pour la collection « Masculin/féminin » d'Arte, Breillat livre un récit d'initiation au masculin. Une nuit d'amour sur un ferry reliant la France et l'Angleterre, à la fois tendre, charnelle et cruelle, où l'objet de désir adolescent se trouve être – fait rare chez Breillat – un garçon.  
 Sur le ferry-boat en partance pour l'Angleterre, un adolescent de 16 ans tombe sous le charme d'une trentenaire, mariée et mère de famille.  
-Film réalisé pour la collection _Masculin/Féminin_.
+Film de la collection « Masculin/féminin » d'Arte.
 
 - Di 17 sep 18h30 GF
 

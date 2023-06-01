@@ -192,7 +192,8 @@ Italie-France-RFA / 1964 / 86 min / VOSTF / DCP
 Avec Eva Bartok, Cameron Mitchell, Thomas Reiner.  
 Une série de meurtres est perpétrée sur les mannequins d'une maison de haute couture réputée.
 
-- Ve 22 sep 19h00 GF
+- Ve 22 sep 19h00 GF  
+Séance présentée par Jean-François Rauger
 
 [76324]  
 **Zoolander**  
@@ -201,5 +202,6 @@ de Ben Stiller
 Avec Ben Stiller, Owen Wilson, Christine Taylor.  
 Après avoir remporté le trophée du meilleur top model trois années consécutives Derek Zoolander perd face à un nouveau venu, Hansel, un jeune blond aussi stupide que lui. Cependant, le grand couturier Mugatu veut tout de même l'engager pour présenter sa nouvelle collection.
 
-- Me 20 sep 18h30 GF
+- Me 20 sep 18h30 GF  
+Séance présentée par Jean-François Rauger
 
