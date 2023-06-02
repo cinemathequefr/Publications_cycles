@@ -156,7 +156,7 @@ Déclaré réformé, le riche Brendan Byers ne peut servir l'Amérique dans la s
 **Le Zinzin d'Hollywood**  
 **(The Errand Boy)**  
 de Jerry Lewis  
-États-Unis / 1961 / 92 min  
+États-Unis / 1961 / 92 min / VO  
 Avec Jerry Lewis, Brian Donlevy, Felicia Atkins.  
 L'envers d'un studio de cinéma, dévoilé par les gaffes d'un garçon de courses. Depuis _Le Dingue du Palace_, Jerry Lewis décline une formule bien rodée : une série de sketches dans un lieu unique, propice aux meilleurs gags. Parmi les plus célèbres, l'imitation d'un puissant patron sur un air de jazz synchrone.  
 Morty est engagé par le Paramutual Studio comme homme à tout faire. Son patron le charge également d'espionner ses collègues.

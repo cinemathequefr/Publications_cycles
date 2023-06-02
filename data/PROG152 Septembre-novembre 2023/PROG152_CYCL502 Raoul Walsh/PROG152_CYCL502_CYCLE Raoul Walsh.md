@@ -141,6 +141,18 @@ Jonathan Tibbs, héritier d'une célèbre firme londonienne d'armes, est chargé
 
 - Lu 18 sep 18h00 GF
 
+[36872]  
+**La Blonde framboise**  
+**(The Strawberry Blonde)**  
+de Raoul Walsh  
+États-Unis / 1940 / 98 min / VOSTF / 35 mm  
+D'après la pièce _One Sunday Afternoon_ de James Hagan.  
+Avec James Cagney, Olivia De Havilland, Rita Hayworth.  
+À partir d'une rage de dent qui ravive les souvenirs d'un dentiste fraîchement sorti de prison, Walsh dégaine une comédie spirituelle, où se croisent arrivistes sans scrupule, blonde coquette et brune suffragette. Une satire du rêve américain, portée par un casting merveilleusement piquant, avec un James Cagney particulièrement survolté.  
+À la suite d'un accident dont il n'est pas responsable, Biff Grimes est envoyé en prison. Il choisit de suivre des cours par correspondance pour devenir dentiste. Diplômé au moment de sa libération, il retrouve l'homme qui l'a fait emprisonner et décide de se venger.
+
+- Me 1 nov 20h30 HL
+
 [36862]  
 **La Brigade héroïque**  
 **(Saskatchewan)**  
@@ -256,6 +268,17 @@ Luigi, Jerry et Mike, de jeunes soldats, font leurs classes dans un camp d'entra
 
 - Me 11 oct 18h00 HL
 
+[154409]  
+**Democratic National Convention New York City 1924**  
+de Raoul Walsh  
+États-Unis / 1924 / 3 min / STF / DCP  
+Prises de vue de la Convention du Parti Démocrate.
+
+- Je 31 aoû 18h30 GF  
+Film suivi de _The Mystery of the Hindu Image_ de Raoul Walsh, _Pillars of Society_ de Raoul Walsh, George Nicholls  
+- Me 4 oct 18h30 JE  
+Film suivi de _The Mystery of the Hindu Image_ de Raoul Walsh, _Pillars of Society_ de Raoul Walsh, George Nicholls
+
 [85148]  
 **Les Deux aventuriers**  
 **(When Thief Meets Thief)**  
@@ -355,7 +378,7 @@ Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier 
 **Faiblesse humaine**  
 **(Sadie Thompson)**  
 de Raoul Walsh  
-États-Unis / 1927 / 95 min  
+États-Unis / 1927 / 95 min / VOSTF / Vidéo  
 D'après la nouvelle _Miss Thompson_ de William Somerset Maugham.  
 Avec Gloria Swanson, Lionel Barrymore, Blanche Friderici.  
 D'après le récit de Somerset Maugham, un chef-d'œuvre muet de Walsh, explorant les thèmes de la moralité, du refoulement sexuel et de la rédemption dans une atmosphère aussi poisseuse que pesante. Raoul Walsh y tient un des principaux rôles masculins.  
@@ -599,7 +622,10 @@ Avec Raoul Walsh, Nick Cage, Dark Cloud.
 L'un des tout premiers courts métrages de Walsh, enquête policière qu'il réalise et interprète, dans une copie 35 mm restaurée.  
 Emprisonné pour meurtre la veille de son mariage, John Stafford parvient à s'échapper tandis qu'un détective engagé par sa fiancée démasque les véritables assassins.
 
-- Me 4 oct 18h30 JE
+- Je 31 aoû 18h30 GF  
+Film précédé de _Democratic National Convention New York City 1924_ de Raoul Walsh et suivi de de _Pillars of Society_ de Raoul Walsh, George Nicholls  
+- Me 4 oct 18h30 JE  
+Film précédé de _Democratic National Convention New York City 1924_ de Raoul Walsh et suivi de de _Pillars of Society_ de Raoul Walsh, George Nicholls
 
 [80150]  
 **Nuit après nuit**  
@@ -619,7 +645,7 @@ Copie de la collection Jon Davison à l'Academy Film Archive.
 de Raoul Walsh  
 États-Unis / 1958 / 131 min / VOSTF / 35 mm  
 D'après le roman _Les Nus et les morts_ de Norman Mailer.  
-Avec Aldo Ray, Cliff Robertson, Raymond Massey.  
+Avec Raymond Massey, Cliff Robertson, Aldo Ray.  
 Le plus beau film de guerre de Walsh, tiré du roman de Norman Mailer paru dix ans plus tôt. Une réflexion sur l'univers militaire, les méthodes de commandement, les jeux de pouvoir et la brutalité et la morale. Avec un réalisme effroyable, le film rend compte de l'inhumanité des conflits, au plus près des corps harassés et des esprits malmenés. Un constat terrible, mais dans une profusion de plans homériques, de paysages luxuriants, où se déchaînent excès et transgressions. Une fresque sauvage, et un héros inoubliable, l'impitoyable sergent Croft (génial Aldo Ray), qui incarne toute l'ambiguïté de la nature humaine.  
 En pleine guerre du Pacifique, un lieutenant s'oppose à la brutalité cynique d'un sous-officier particulièrement féroce.
 
@@ -629,9 +655,10 @@ En pleine guerre du Pacifique, un lieutenant s'oppose à la brutalité cynique d
 **One Sunday Afternoon**  
 de Raoul Walsh  
 États-Unis / 1948 / 90 min / VOSTF / 16 mm  
-Avec Dorothy Malone, Dennis Morgan, Janis Paige.  
+D'après la pièce _One Sunday Afternoon_ de James Hagan.  
+Avec Dennis Morgan, Janis Paige, Don DeFore.  
 Un dentiste tient sous sa fraise l'homme qui l'a envoyé jadis en prison. Sous ses airs de film noir, une comédie chantée, qui reprend l'intrigue de _Strawberry Blonde_, réalisé par Walsh sept ans plus tôt.  
-Un jeune homme bagarreur voit la femme qu'il aime se marier avec son meilleur ami.
+Un dimanche après-midi, Biff Grimes, un dentiste de New York, se remémore le bon vieux temps avec son ami Nick, le barbier. Il reçoit un appel d'urgence pour soigner la dent d'Hugo Barnstead, le conseiller municipal, mais les deux hommes entretiennent une vive rancœur depuis plusieurs années.
 
 - Lu 6 nov 20h30 GF
 
@@ -639,21 +666,24 @@ Un jeune homme bagarreur voit la femme qu'il aime se marier avec son meilleur am
 **Pillars of Society**  
 de Raoul Walsh, George Nicholls  
 États-Unis / 1915 / 52 min / INT. FR. / 35 mm  
-D'après la pièce _Samfundets Stotter_ de Henrik Ibsen.  
+D'après la pièce _Les Piliers de la société_ de Henrik Ibsen.  
 Avec Henry B. Walthall, Mary Alden, Juanita Archer.  
 Bien avant la version allemande de Douglas Sirk (1935), cette adaptation de la pièce d'Ibsen déroule un enchevêtrement de drames familiaux, évoquant avec sarcasme les petits arrangements de la bourgeoisie rongée par l'hypocrisie et le mensonge.  
-Un armateur, dont la fortune est due au mensonge et a la duplicité, fait l'objet d'un chantage.
+Un armateur, qui doit sa fortune au mensonge et à la duplicité, fait l'objet d'un chantage.
 
-- Je 31 aoû 18h30 GF
+- Je 31 aoû 18h30 GF  
+Film précédé de _Democratic National Convention New York City 1924_ de Raoul Walsh, _The Mystery of the Hindu Image_ de Raoul Walsh  
+- Me 4 oct 18h30 JE  
+Film précédé de _Democratic National Convention New York City 1924_ de Raoul Walsh, _The Mystery of the Hindu Image_ de Raoul Walsh
 
 [37710]  
 **La Piste des géants**  
 **(The Big Trail)**  
 de Raoul Walsh  
 États-Unis / 1930 / 125 min / VOSTF / 35 mm  
-Avec John Wayne, Robert Parrish, Marguerite Churchill.  
+Avec John Wayne, Marguerite Churchill, El Brendel.  
 Dans son premier grand rôle, John Wayne prend la tête d'un convoi de colons vers les riches plaines de l'Ouest. Tournées avec le nouveau procédé Fox Grandeur, en prise de son directe, les scènes d'ensemble monumentales confèrent au spectacle une incroyable authenticité, confrontant les mythes fondateurs de la nation américaine à l'aventure individuelle.  
-Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'apprêtent à partir. Coleman, un jeune trappeur, enquête sur le meurtre de son meilleur ami et soupçonne le conducteur de l'une des caravanes. Dans le but de le démasquer, il se fait engager comme guide.
+Red Flack et Lopez, deux mauvais garçons, ont été engagés pour accompagner une caravane de migrants du Missouri à l'Oregon. Breck Coleman, un trappeur qui connaît bien les Indiens, se joint à eux. Il soupçonne Red et Lopez d'être les assassins de son meilleur ami.
 
 - Sa 16 sep 18h30 HL  
 - Di 1 oct 15h00 HL
@@ -662,9 +692,10 @@ Sur les rives du Mississippi, les prétendants à la conquête de l'ouest s'appr
 **Regeneration**  
 de Raoul Walsh  
 États-Unis / 1915 / 72 min / INT. FR. / DCP  
+D'après l'autobiographie _My Mamie Rose : The Story of My Regeneration_ d'Owen Kildare.  
 Avec John McCann, James A. Marcus, Maggie Weston.  
 Chef-d'œuvre inaugural de la carrière de Walsh (le plus ancien encore visible), _The Regeneration_ est aussi la matrice des films de gangster des années 30. Restituant la vie quotidienne des quartiers pauvres du Bowery à New York – avec ses véritables gueules de brutes recrutées sur place –, l'histoire suit le destin d'un orphelin, devenu chef de gang, qui choisit la voie du repentir par amour pour une travailleuse sociale. Au moyen de plans spectaculaires et d'un montage parallèle emprunté à Griffith, Walsh dévoile tout son génie et signe une séquence d'anthologie : l'incendie d'un bateau transportant une centaine de passagers. Tout Scorsese est déjà là.  
-Orphelin à l'âge de 10 ans, Owen est recueilli par ses voisins violents. Cherchant à fuir ces derniers qui l'exploitent, Owen erre sur les docks de New York et devient chef de gang à 25 ans.
+Après la mort de sa mère, Owen est recueilli par des voisins violents, les Conways. À l'adolescence, il est chassé de son foyer et erre sur les docks de New York, où il devient chef de gang.
 
 - Di 24 sep 14h30 GF
 
@@ -673,9 +704,10 @@ Orphelin à l'âge de 10 ans, Owen est recueilli par ses voisins violents. Cherc
 **(Under Pressure)**  
 de Raoul Walsh  
 États-Unis / 1935 / 72 min / VOSTF / 16 mm  
+D'après le roman _Sand Hog_ d'Edward Doherty et Borden Chase.  
 Avec Edmund Lowe, Victor McLaglen, Florence Rice.  
 Chronique sous-tension de la construction de souterrains new-yorkais. Walsh y montre la vie de ceux qui œuvrent à l'édification des villes étatsuniennes jusqu'à l'obsession et l'épuisement, livrant un traité de rivalité virile et d'héroïsme dérisoire.  
-Shocker et Jumbo travaillent comme ouvriers sur un tunnel qui relie Brooklyn à Manhattan. Ils s'éprenent tous les deux de Pat, la belle journaliste, entre eux commence une compétition à toute épreuve.
+Shocker et Jumbo travaillent comme ouvriers sur un tunnel qui relie Brooklyn à Manhattan. Ils s'éprennent tous deux de Pat, une belle journaliste, et luttent pour la conquérir.
 
 - Sa 30 sep 18h30 HL
 
@@ -686,18 +718,18 @@ de Raoul Walsh
 États-Unis / 1948 / 110 min / VOSTF / 35 mm  
 Avec Errol Flynn, Ann Sheridan, Thomas Mitchell.  
 Archétype du héros athlétique, drôle et séduisant, Errol Flynn ajoute une nouvelle corde à son arc, en ex-officier de l'armée dégradé, devenu homme d'affaires arriviste et cynique. Une réflexion sur le système capitaliste américain et les ambiguïtés de l'individualisme, qui clôt la collaboration (riche de sept films) entre l'acteur et le réalisateur.  
-Lors de la guerre de Sécession, le capitaine nordiste Mike McComb est injustement renvoyé de l'armée. Il se rend alors dans l'Ouest où il se lance dans les affaires en construisant petit à petit une fortune, puis un empire, grâce à sa clairvoyance et surtout à son manque total de scrupules.
+Durant la guerre de Sécession, le capitaine nordiste Mike McComb est injustement renvoyé de l'armée. Il décide de lancer sa propre entreprise dans l'Ouest et parvient à bâtir un empire, mais il tombe amoureux de la femme de son associé.
 
 - Ve 8 sep 18h00 HL
 
 [36825]  
-**Le Roi et Quatre Reines**  
+**Le Roi et quatre reines**  
 **(The King and Four Queens)**  
 de Raoul Walsh  
 États-Unis / 1956 / 86 min / VOSTF / 35 mm  
-Avec Clark Gable, Eleanor Parker, Barbara Nichols.  
+Avec Clark Gable, Eleanor Parker, Jo Van Fleet.  
 Gorgé de gags irrévérencieux, _Le Roi et Quatre Reines_ tient autant du western que de la comédie. Au cœur d'un gynécée implacable, Clark Gable joue le roi irrésistible d'une partie de chasse au trésor et d'un jeu de séduction aussi sensuel que cynique.  
-Dan Kehoe est recueilli pour une femme qui l'a blessé d'un coup de fusil. Les quatre belles filles de celle-ci, veuves, s'intéressent au blessé qui lui cherche à dérober le butin d'un hold up, caché dans un
+Au début du XX<sup>e</sup> siècle, les frères McDade se sont emparés de 100 000 dollars en or. Alors que trois d'entre eux ont été tués par une explosion, le dernier reste introuvable. Leur mère, Ma, qui connaît la cachette du trésor, attend son retour.
 
 - Me 20 sep 18h00 HL
 
@@ -705,10 +737,10 @@ Dan Kehoe est recueilli pour une femme qui l'a blessé d'un coup de fusil. Les q
 **La Ruelle du péché**  
 **(Glory Alley)**  
 de Raoul Walsh  
-États-Unis / 1951 / VO / 16 mm  
-Avec Leslie Caron, Louis Armstrong, Gilbert Roland.  
+États-Unis / 1951 / 79 min / VOSTF / 16 mm  
+Avec Ralph Meeker, Leslie Caron, Kurt Kasznar.  
 Dans l'atmosphère nocturne de La Nouvelle-Orléans, les tourments d'un boxeur résolu à raccrocher les gants permettent à Ralph Meeker de s'illustrer dans la figure walshienne du paria. Passant pour un orgueilleux et un lâche, le héros déchu part se racheter une gloire en allant combattre en Corée. Des pas de danse de la petite amie française (Leslie Caron) aux trognes d'un vieux grincheux aveugle (Kurt Kasznar) et de son guide plein de sagesse (Louis Armstrong), la caméra de Walsh swingue d'une ambiance à l'autre, dans un mélange des genres qui sait aussi bien traduire le climat délétère d'un cabaret que le drame d'un homme en proie aux démons œdipiens.  
-À La Nouvelle-Orléans, Socks Barbarossa, un jeune boxeur, combat pour un titre de champion mais quitte soudainement le ring, sans explication.
+À La Nouvelle-Orléans, Socks Barbarossa, un jeune boxeur, combat pour un titre de champion, mais quitte soudainement le ring, sans explication.
 
 - Ve 29 sep 18h00 HL
 
@@ -719,7 +751,7 @@ de Raoul Walsh
 États-Unis / 1945 / 100 min / VOSTF / 16 mm  
 Avec Alan Ladd, Gail Russell, William Demarest.  
 Incursion de Walsh dans un univers qui lui est familier, celui des courses hippiques. Un polar rythmé qui met en scène Alan Ladd dans la peau d'un petit escroc qui élabore un stratagème autour d'un cheval fougueux pour rembourser sa dette.  
-Parieur invétéré, Salty O'Rourke a amoncelé les dettes auprès du mafieux Doc Baxter qui lui donne trente jours pour le rembourser. Salty a une solution : acheter un cheval, trouver un jockey et gagner une course
+Parieur invétéré, Salty O'Rourke a amoncelé les dettes auprès du mafieux Doc Baxter, qui lui donne trente jours pour le rembourser. En désespoir de cause, Salty utilise ses dernières ressources afin d'acheter Whipper, un cheval qu'il souhaite faire courir en Californie, et s'associe avec Johnny, un jeune jockey.
 
 - Di 5 nov 20h15 GF
 
@@ -728,9 +760,9 @@ Parieur invétéré, Salty O'Rourke a amoncelé les dettes auprès du mafieux Do
 **(Desperate Journey)**  
 de Raoul Walsh  
 États-Unis / 1942 / 107 min / VOSTF / 35 mm  
-Avec Errol Flynn, Ronald Reagan, Arthur Kennedy.  
+Avec Errol Flynn, Ronald Reagan, Nancy Coleman.  
 Les péripéties et les actes de bravoure d'un groupe d'aviateurs alliés dans l'Allemagne nazie. Emmené par les vigoureux Errol Flynn et Ronald Reagan, un classique du film de guerre, sorti en 1942, destiné à remonter le moral des troupes durant la Seconde Guerre mondiale. Du Alexandre Dumas antinazi.  
-Lors de la Deuxième Guerre mondiale, l'équipage d'un bombardier de la R.A.F. est abattu au-dessus de l'Allemagne. Les cinq rescapés s'organisent et se mettent à la recherche d'un avion pour rentrer en Angleterre.
+Lors de la Seconde Guerre mondiale, l'équipage d'un bombardier de la Royal Air Force est abattu au-dessus de l'Allemagne. Les cinq rescapés s'organisent et se mettent à la recherche d'un avion pour rentrer en Angleterre.
 
 - Di 3 sep 14h30 HL
 
@@ -739,27 +771,18 @@ Lors de la Deuxième Guerre mondiale, l'équipage d'un bombardier de la R.A.F. e
 **(Uncertain Glory)**  
 de Raoul Walsh  
 États-Unis / 1944 / 102 min / VOSTF / 16 mm  
-Avec Errol Flynn, Paul Lukas, Jean Sullivan.  
+Avec Errol Flynn, Paul Lukas, Lucile Watson.  
 Plus qu'un film de guerre, un film noir sur fond d'occupation allemande, qui suit, dans la France de 1943, le face à face tendu entre un repris de justice et l'inspecteur qui le ramène à Paris. Aux côtés de l'excellent Paul Lukas, Errol Flynn campe l'un de ses personnages les plus ambigus, naviguant entre égoïsme et rédemption.  
-Pendant la Seconde Guerre mondiale, un criminel évadé et un policier sont coincés dans un village dont les habitants ont été pris en otages par les Allemands.
+Pendant la Seconde Guerre mondiale, dans un Paris occupé, un homme coupable de vol et de meurtre est sur le point d'être mis à mort. L'occasion de s'échapper se présente lorsqu'une bombe alliée s'abat sur la prison.
 
 - Je 28 sep 20h30 GF
-
-[80137]  
-**Saint Louis Blues**  
-de Raoul Walsh  
-États-Unis / 1939 / 90 min / VOSTF / 16 mm  
-Avec Dorothy Lamour, Lloyd Nolan, Jerome Cowan.  
-Dorothy Malone joue les vedettes de Broadway, trouvant refuge dans la troupe d'un show-boat sur le Mississippi. Une croisière qui file au rythme des péripéties romantiques et des numéros chantés, dont un célèbre standard de blues, popularisé par Bessie Smith et Louis Armstrong.  
-Une chanteuse de Broadway fuit son imprésario qui la force à se déshabiller et rejoint un showboat sur le Mississipi.
-
-- Me 1 nov 18h30 HL
 
 [85152]  
 **Le Singe qui parle**  
 **(The Monkey Talks)**  
 de Raoul Walsh  
 États-Unis / 1927 / 63 min / INT. FR.  
+D'après la pièce _Le Singe qui parle_ de René Fauchois.  
 Avec Olive Borden, Jacques Lerner, Don Alvarado.  
 Œuvre rescapée du muet, une curiosité de Walsh située dans le monde du spectacle forain. Le récit de la rencontre d'une funambule avec un acrobate se faisant passer pour un singe qui parle doit son origine au dramaturge français, René Fauchois, l'auteur de _Boudu sauvé des eaux_.  
 Trois forains sans scrupules obligent un nain à se déguiser en singe parlant.  
@@ -771,33 +794,34 @@ Film incomplet.
 **Spendthrift**  
 de Raoul Walsh  
 États-Unis / 1936 / 78 min / VOSTF / 16 mm  
-Avec Pat Paterson, Mary Brian, George Barbier.  
+D'après le roman _Spendthrift_ d'Éric Hatch.  
+Avec Henry Fonda, Pat Paterson, Mary Brian.  
 Les débuts de Henry Fonda dans le rôle d'un amateur de polo mondain qui tombe dans les bras d'une aventurière malhonnête. Une comédie qui se moque des riches oisifs et de leur entourage cupide.  
-Un héritier, qui a dilapidé toute sa fortune dans la pratique de sports de luxe, épouse une aventurière se faisant passer pour la fille d'un millionnaire.
+Un héritier, qui a dilapidé toute sa fortune en sports de luxe, épouse une aventurière se faisant passer pour la fille d'un millionnaire.
 
 - Di 15 oct 19h30 GF
+
+[80137]  
+**St. Louis Blues**  
+de Raoul Walsh  
+États-Unis / 1939 / 90 min / VOSTF / 16 mm  
+Avec Dorothy Lamour, Lloyd Nolan, Tito Guízar.  
+Dorothy Malone joue les vedettes de Broadway, trouvant refuge dans la troupe d'un show-boat sur le Mississippi. Une croisière qui file au rythme des péripéties romantiques et des numéros chantés, dont un célèbre standard de blues, popularisé par Bessie Smith et Louis Armstrong.  
+Épuisée par Broadway, la chanteuse Norma Malone rejoint le Mississippi, où elle rencontre Dave, l'imprésario d'un show-boat.
+
+- Me 1 nov 18h30 HL
 
 [37792]  
 **Têtes brûlées**  
 **(The Cock-Eyed World)**  
 de Raoul Walsh  
 États-Unis / 1929 / 118 min / VOSTF / 16 mm  
-Avec Edmund Lowe, Victor McLaglen, Lili Damita.  
+D'après la pièce _Tropical Twins_ de Laurence Stallings et Maxwell Anderson.  
+Avec Victor McLaglen, Edmund Lowe, Lili Damita.  
 Walsh réunit les deux soldats d'_Au service de la gloire_ dans la suite de leurs aventures militaires et amoureuses à travers le monde. McLaglen et Lowe resigneront pour une troisième partie, _Women of All Nations_, après ce succès retentissant.  
-Deux marines envoyés dans les îles se battent pour les yeux d'une belle Haïtienne.
+Deux Marines, envoyés dans les îles, se battent pour les yeux d'une belle Haïtienne.
 
 - Sa 7 oct 20h15 GF
-
-[36872]  
-**Un dimanche après-midi**  
-**(The Strawberry Blonde)**  
-de Raoul Walsh  
-États-Unis / 1940 / 98 min / VOSTF / 35 mm  
-Avec James Cagney, Olivia De Havilland, Rita Hayworth.  
-À partir d'une rage de dent qui ravive les souvenirs d'un dentiste fraîchement sorti de prison, Walsh dégaine une comédie spirituelle, où se croisent arrivistes sans scrupule, blonde coquette et brune suffragette. Une satire du rêve américain, portée par un casting merveilleusement piquant, avec un James Cagney particulièrement survolté.  
-Biff est amoureux de Virginia qui lui préfère son ami Hugo. Ce dernier rend Biff responsable d'un accident qui l'envoie en prison.
-
-- Me 1 nov 20h30 HL
 
 [79825]  
 **Un lion dans la rue**  
@@ -805,9 +829,10 @@ Biff est amoureux de Virginia qui lui préfère son ami Hugo. Ce dernier rend Bi
 de Raoul Walsh  
 États-Unis / 1953 / 88 min / VOSTF / 16 mm  
 D'après le roman _A Lion Is in the Streets_ d'Adria Locke Langley.  
-Avec James Cagney, Lon Chaney Jr., Barbara Hale.  
+Avec James Cagney, Barbara Hale, Anne Francis.  
 Dans l'Amérique profonde des bayous, le charismatique James Cagney en défenseur acharné des exploités au service de son ambition. Walsh démonte les rouages d'une ascension irrésistible, pointant du doigt le sectarisme et la politique populiste, d'après la vie du politicien véreux, Huey Long.  
-L'ascension et la chute d'un politicien démagogue du Sud.
+L'ascension et la chute d'un politicien démagogue du Sud.  
+Film également connu sous le titre _L'Homme à abattre_.
 
 - Je 14 sep 20h15 HL
 
@@ -816,9 +841,9 @@ L'ascension et la chute d'un politicien démagogue du Sud.
 **(Along the Great Divide)**  
 de Raoul Walsh  
 États-Unis / 1951 / 88 min / VOSTF / 35 mm  
-Avec Kirk Douglas, Virginia Mayo, Walter Brennan.  
+Avec Kirk Douglas, Virginia Mayo, John Agar.  
 Sur les sentiers de l'Ouest, l'escorte d'un prisonnier pourchassé par une bande armée qui veut sa peau. Pour son premier western, pétri de tension et de violence, Kirk Douglas affiche un beau charisme en _marshall_ attaché à l'ordre et à la justice.  
-Le marshal Merrick et ses assistants empêchent la pendaison sans procès d'un suspect, Keith, pour le meurtre du fils d'un rancher, Roden. Il amène l'homme à la ville pour que celui-ci fasse l'objet d'un procès équitable. Mais les hommes de Roden le traquent.  
+Le fils d'un riche propriétaire du Far West a été assassiné par son frère. Pop, un vieil homme, est accusé du crime. Pour lui éviter une pendaison arbitraire, un représentant de la loi décide de le livrer lui-même à la justice, mais, en chemin, il découvre un indice capable de l'innocenter.  
 Film également connu sous le titre _Le Désert de la peur_.
 
 - Je 7 sep 21h15 GF
@@ -839,7 +864,7 @@ Le dirigeant d'une entreprise de transport est accusé d'assassinat par la femme
 **La Vallée de la peur**  
 **(Pursued)**  
 de Raoul Walsh  
-États-Unis / 1947 / VOSTF / DCP  
+États-Unis / 1947 / 100 min / VOSTF / DCP  
 Avec Robert Mitchum, Teresa Wright, Alan Hale.  
 La névrose parentale est au centre de _La Vallée de la peur_, western psychanalytique que le réalisateur voit « comme une histoire de fantômes ». Adoptant le ton tranchant de la tragédie, dans un décor d'ombres et de contre-jours, il offre à Robert Mitchum un rôle de cow-boy hanté par les réminiscences d'un traumatisme enfoui. Dans cette lutte éternelle de l'homme contre son passé, le film tente d'en reconstituer les pièces à coups de flashbacks et d'envolées lyriques, que la musique de Max Steiner transportent au-delà d'une simple histoire de violence et de vengeance. Vers un tragique onirique.  
 Au Nouveau-Méxique, Medora Callum recueille Jeb Rand, un jeune enfant dont le père vient d'être assassiné, et l'élève avec ses deux propres enfants. Ceux-ci devenus adultes, elle veut partager ses biens en trois parts égales. Le passé rattrape bientôt Jeb Rand.

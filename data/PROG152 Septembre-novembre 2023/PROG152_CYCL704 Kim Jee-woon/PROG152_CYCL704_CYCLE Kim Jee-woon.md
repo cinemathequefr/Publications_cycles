@@ -6,7 +6,7 @@
 **A Bittersweet Life**  
 **(Dal kom han in-saeng)**  
 de Jee-woon Kim  
-Corée / 2004 / 118 min  
+Corée / 2004 / 118 min / VOSTF / DCP  
 Avec Byung-hun Lee, Young-chul Kim, Mina Shin.  
 Un chef mafieux jaloux suspecte sa petite amie d'avoir une liaison avec un homme. Il demande à son associé de la suivre et de la tuer s'il la surprend avec un amant.
 
@@ -66,7 +66,7 @@ Après une longue absence, deux sœurs retournent dans leur demeure familiale. E
 **Fool King**  
 **(Banchikwang)**  
 de Jee-woon Kim  
-Corée / 1999 / 116 min  
+Corée / 1999 / 116 min / VOSTF / DCP  
 Avec Kang-ho Song, Goo Shin, Jin-young Jung.  
 Dae-Ho s'ennuie dans son travail d'employé de banque. Désabusé, il attire les foudres de son patron. Amateur de catch il décide de s'inscrire à un cours afin de trouver un exutoire. Contre toute attente, le jeune homme possède un don pour cette discipline.
 
@@ -76,7 +76,9 @@ Dae-Ho s'ennuie dans son travail d'employé de banque. Désabusé, il attire les
 **Illang : la Brigade des loups**  
 **(Illang: The Wolf Brigade)**  
 de Jee-woon Kim  
-Corée / 2018
+Corée / 2018 / 139 min / VOSTF / DCP  
+Avec Kang Dong-woo, Han Hyo-joo, Woo-Sung Jung.  
+En 2029, la brigade de police d'élite Illang combat un groupe terroriste qui s'oppose à la réunification des deux Corées... Mais un autre ennemi guette dans l'ombre.
 
 - Ve 10 nov 20h30 HL
 
@@ -94,7 +96,7 @@ Un agent secret recherche le serial killer qui a tué sa fiancée.
 **The Quiet Family**  
 **(Choyonghan kajok)**  
 de Jee-woon Kim  
-Corée / 1988 / 98 min  
+Corée / 1988 / 98 min / VOSTF / DCP  
 Avec In-hwan Park, Moon-hee Nah, Kang-ho Song.  
 La famille Kang ouvre un hôtel dans les montagnes. Ils retrouvent leur premier client mort dans sa chambre. Effrayés, ils décident de cacher le corps pour ne pas risquer de devoir fermer l'hôtel. Mais s'ensuit une série troublante de morts.
 

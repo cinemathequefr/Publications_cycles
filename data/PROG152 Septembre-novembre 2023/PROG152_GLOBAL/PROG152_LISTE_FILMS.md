@@ -8,7 +8,7 @@
 ## Catherine Breillat (15)
 
   * 36 fillette  
-  * À ma sœur  
+  * À ma sœur !  
   * Abus de faiblesse  
   * Anatomie de l'enfer  
   * Barbe bleue  
@@ -63,12 +63,11 @@
   * Six femmes pour l'assassin  
   * Zoolander
 
-## Cédric Kahn (16)
+## Cédric Kahn (15)
 
   * Avion (L')  
   * Bar des rails  
   * Bonheur TV  
-  * Culpabilité zéro TV  
   * Dernières heures du millénaire (Les)  
   * Ennui (L')  
   * Fête de famille  
@@ -197,7 +196,7 @@
   * Valentin Valentin  
   * Zozos (Les)
 
-## Raoul Walsh (78)
+## Raoul Walsh (79)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -211,6 +210,7 @@
   * Bataille sans merci  
   * Belle Espionne (La)  
   * Blonde et le shérif (La)  
+  * Blonde framboise (La)  
   * Brigade héroïque (La)  
   * Bungalow pour femmes  
   * Capitaine sans peur  
@@ -221,6 +221,7 @@
   * Cri de la victoire (Le)  
   * Danse rouge (La)  
   * Déchaînés (Les)  
+  * Democratic National Convention New York City 1924  
   * Deux aventuriers (Les)  
   * Du sang sur la neige  
   * Empreintes digitales  
@@ -259,16 +260,15 @@
   * Regeneration  
   * Rivaux  
   * Rivière d'argent (La)  
-  * Roi et Quatre Reines (Le)  
+  * Roi et quatre reines (Le)  
   * Ruelle du péché (La)  
   * Sa dernière course  
   * Sabotage à Berlin  
   * Saboteur sans gloire  
-  * Saint Louis Blues  
   * Singe qui parle (Le)  
   * Spendthrift  
+  * St. Louis Blues  
   * Têtes brûlées  
-  * Un dimanche après-midi  
   * Un lion dans la rue  
   * Une corde pour te pendre  
   * Une femme dangereuse  

@@ -79,7 +79,7 @@ de Vincente Minnelli
 Avec Gregory Peck, Lauren Bacall.  
 Marilla et Mike se marient, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents : elle est dessinatrice de mode, et lui, chroniqueur sportif.
 
-- Sa 9 sep 17h30 GF
+- Sa 9 sep 20h00 GF
 
 [31479]  
 **Femmes**  
@@ -113,7 +113,7 @@ France / 1956 / 35 mm
 Avec Brigitte Bardot, Louis Jourdan, Micheline Presle.  
 Chouchou, jeune mannequin remarqué par Judith, rédactrice d'un journal féminin, tombe amoureuse de Michel, l'amant de cette dernière.
 
-- Sa 9 sep 20h00 GF
+- Sa 9 sep 17h30 GF
 
 [131583]  
 **The Neon Demon**  
@@ -173,7 +173,8 @@ France / 1966 / 105 min / VOSTF / DCP
 Avec Dorothy McGowan, Jean Rochefort, Sami Frey, Philippe Noiret.  
 Polly Maggoo, mannequin superstar, est interviewée par une équipe de télévision sur la mode, sa vie, et le prince étranger qui veut l'épouser.
 
-- Sa 9 sep 15h00 GF
+- Sa 9 sep 15h00 GF  
+Séance présentée par Matthieu Orléan
 
 [123300]  
 **Saint-Laurent**  

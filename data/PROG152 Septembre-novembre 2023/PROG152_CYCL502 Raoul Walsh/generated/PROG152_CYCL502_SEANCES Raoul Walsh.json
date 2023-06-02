@@ -27,7 +27,7 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 26911,
+    "idEvenement": 28260,
     "idSeance": 104346,
     "dateHeure": "2023-08-31T18:30:00",
     "idSalle": [
@@ -37,8 +37,26 @@
     "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 36848,
+        "idFilm": 154409,
         "ordre": 1,
+        "idSeance": 104346,
+        "idCopie": 25984,
+        "duree": 3,
+        "version": "STF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154408,
+        "ordre": 2,
+        "idSeance": 104346,
+        "idCopie": 25980,
+        "duree": 28,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 36848,
+        "ordre": 3,
         "idSeance": 104346,
         "idCopie": 25218,
         "duree": 52,
@@ -224,7 +242,7 @@
         "idFilm": 36808,
         "ordre": 1,
         "idSeance": 104362,
-        "idCopie": 8721,
+        "idCopie": 25998,
         "duree": 104,
         "version": "VOSTF",
         "format": "35 mm"
@@ -409,7 +427,7 @@
         "ordre": 1,
         "idSeance": 104651,
         "idCopie": 26051,
-        "duree": 0,
+        "duree": 100,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -1110,8 +1128,8 @@
         "ordre": 1,
         "idSeance": 104570,
         "idCopie": 25951,
-        "duree": 0,
-        "version": "VO",
+        "duree": 79,
+        "version": "VOSTF",
         "format": "16 mm"
       }
     ]
@@ -1280,7 +1298,7 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 28259,
+    "idEvenement": 28260,
     "idSeance": 104512,
     "dateHeure": "2023-10-04T18:30:00",
     "idSalle": [
@@ -1290,11 +1308,29 @@
     "dureeSeance": 60,
     "items": [
       {
-        "idFilm": 154408,
+        "idFilm": 154409,
         "ordre": 1,
+        "idSeance": 104512,
+        "idCopie": 25984,
+        "duree": 3,
+        "version": "STF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154408,
+        "ordre": 2,
         "idSeance": 104512,
         "idCopie": 25980,
         "duree": 28,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 36848,
+        "ordre": 3,
+        "idSeance": 104512,
+        "idCopie": 25218,
+        "duree": 52,
         "version": "INT. FR.",
         "format": "35 mm"
       }
@@ -1456,8 +1492,8 @@
         "idSeance": 104516,
         "idCopie": 25073,
         "duree": 95,
-        "version": "",
-        "format": ""
+        "version": "VOSTF",
+        "format": "Vidéo"
       }
     ]
   },
@@ -1868,7 +1904,7 @@
         "idFilm": 80872,
         "ordre": 1,
         "idSeance": 104823,
-        "idCopie": 25901,
+        "idCopie": 26221,
         "duree": 90,
         "version": "VOSTF",
         "format": "16 mm"

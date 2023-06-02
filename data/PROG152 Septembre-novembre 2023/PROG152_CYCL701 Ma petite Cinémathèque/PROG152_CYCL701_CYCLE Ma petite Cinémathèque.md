@@ -25,7 +25,7 @@ de Hamilton Luske, Clyde Geronimi, Wilfred Jackson
 **(The Big Trail)**  
 de Raoul Walsh  
 États-Unis / 1930 / 125 min / VOSTF / 35 mm  
-Avec John Wayne, Robert Parrish, Marguerite Churchill.  
+Avec John Wayne, Marguerite Churchill, El Brendel.  
 [JP] À la tête d'un convoi de colons, un jeune trappeur enquête sur le meurtre de son meilleur ami, sur fond de conquête de l'Ouest. Le premier grand western parlant de l'histoire du cinéma, qui énumère en plans majestueux chacun des mythes fondateurs de l'Amérique, et le premier grand rôle de John Wayne, (re)découvert par Walsh.  
 Dans son premier grand rôle, John Wayne prend la tête d'un convoi de colons vers les riches plaines de l'Ouest. Tournées avec le nouveau procédé Fox Grandeur, en prise de son directe, les scènes d'ensemble monumentales confèrent au spectacle une incroyable authenticité, confrontant les mythes fondateurs de la nation américaine à l'aventure individuelle.
 

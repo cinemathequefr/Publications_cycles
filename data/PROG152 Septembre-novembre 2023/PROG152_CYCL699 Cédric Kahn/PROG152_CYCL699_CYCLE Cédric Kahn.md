@@ -10,7 +10,7 @@ D'après la bande-dessinée _Charly_ de Denis Lapière et Magda Seron.
 Avec Isabelle Carré, Vincent Lindon.  
 Le soir de Noël, Charly, huit ans, découvre avec grande déception une immense maquette d'avion. Son père meurt peu après. Mais la tristesse laisse la place à l'émerveillement lorsque Charly découvre que son avion est « vivant » !
 
-- Di 1 oct 17h00 GF
+- Di 1 oct 14h30 GF
 
 [49412]  
 **Bar des rails**  
@@ -34,15 +34,6 @@ Le destin croisé de quatre adolescents va prendre un tour décisif lors d'une f
 Une version longue du téléfilm est sortie au cinéma sous le titre _Trop de bonheur_.
 
 - Je 5 oct 18h00 GF
-
-[118386]  
-**Culpabilité zéro TV**  
-de Cédric Kahn  
-France / 1995 / 95 min  
-Avec Vincent Berger, Marie Mure, Marie Payen.  
-Simon, un jeune homme d'une vingtaine d'années, arrive à Strasbourg un matin. Il vient enquêter sur la mort de son frère, qui s'est suicidé dans des conditions obscures.
-
-- Ve 29 sep 20h30 GF
 
 [86127]  
 **Les Dernières heures du millénaire**  
@@ -71,7 +62,7 @@ France-Belgique / 2018 / 100 min / DCP
 Avec Catherine Deneuve, Emmanuelle Bercot, Vincent Macaigne, Cédric Kahn.  
 « Aujourd'hui c'est mon anniversaire et j'aimerais qu'on ne parle que de choses joyeuses. »Andréa ne sait pas encore que l'arrivée « surprise » de sa fille aînée, Claire, disparue depuis 3 ans et bien décidée à reprendre ce qui lui est dû, va bouleverser le programme et déclencher une tempête familiale.
 
-- Me 4 oct 20h45 GF
+- Sa 30 sep 14h30 HL
 
 [88951]  
 **Feux rouges**  
@@ -81,7 +72,7 @@ D'après le roman _Feux rouges_ de Georges Simenon.
 Avec Jean-Pierre Darroussin, Carole Bouquet, Vincent Deniard.  
 Antoine attend sa femme, Hélène, qui est en retard, avant de prendre la route pour récupérer ses enfants en colonie de vacances.
 
-- Di 1 oct 14h30 GF
+- Di 1 oct 17h00 GF
 
 [154253]  
 **Making of**  

@@ -14,7 +14,7 @@ Lili, 14 ans, passe ses vacances dans un camping avec ses parents et son frère.
 - Sa 16 sep 14h30 HL
 
 [73479]  
-**À ma sœur**  
+**À ma sœur !**  
 de Catherine Breillat  
 France-Italie / 2000 / 93 min / 35 mm  
 Avec Anaïs Reboux, Roxane Mesquida, Libero De Rienzo.  
@@ -36,10 +36,10 @@ Victime d'une hémorragie cérébrale, Maud, réalisatrice, se réveille hémipl
 [88526]  
 **Anatomie de l'enfer**  
 de Catherine Breillat  
-France / 2003 / 100 min / 35 mm  
+France / 2004 / 100 min / 35 mm  
 D'après le roman _Pornocratie_ de Catherine Breillat.  
 Avec Amira Casar, Rocco Siffredi.  
-Dans la continuité esthétique et métaphysique de Romance, Breillat choisit d'adapter, pour son dixième film, son livre _Pornocratie_. L'exploration du sexe de la femme, par un homme que le corps féminin répugne, constitue le point d'orgue des obsessions de la cinéaste : l'obscène et le franchissement des tabous.  
+Dans la continuité esthétique et métaphysique de _Romance_, Breillat choisit d'adapter, pour son dixième film, son livre _Pornocratie_. L'exploration du sexe de la femme, par un homme que le corps féminin répugne, constitue le point d'orgue des obsessions de la cinéaste : l'obscène et le franchissement des tabous.  
 Secourue par un inconnu dans une boîte gay après s'être ouvert les veines, une jeune femme lui propose un marché : durant quatre jours, elle le paiera pour la regarder, mais aussi l'écouter parler de ses peurs et de ses désirs. D'abord hésitant, l'homme se prend bientôt au jeu.
 
 - Sa 23 sep 20h30 GF
@@ -91,9 +91,9 @@ Avant-première
 [60437]  
 **Parfait Amour !**  
 de Catherine Breillat  
-France / 1995 / 113 min / 35 mm  
+France / 1996 / 113 min / 35 mm  
 Avec Isabelle Renauld, Francis Renaud, Laura Saglio.  
-Autopsie d'une passion amoureuse, _Parfait Amour !_ explore la dynamique de pouvoir qui mène insidieusement au fait divers. D'une ressemblance étonnante avec Romy Schneider, Isabelle Renault porte sur son visage toute l'ivresse et la tristesse de son personnage, d'une beauté tragique.  
+Autopsie d'une passion amoureuse, _Parfait Amour !_ explore la dynamique de pouvoir qui mène insidieusement au fait divers. D'une ressemblance étonnante avec Romy Schneider, Isabelle Renauld porte sur son visage toute l'ivresse et la tristesse de son personnage, d'une beauté tragique.  
 Au cours d'une soirée, Christophe et Frédérique ont le coup de foudre. D'abord passionnelle, leur liaison sombre progressivement dans le conflit et la violence.
 
 - Sa 16 sep 20h30 GF
@@ -101,7 +101,7 @@ Au cours d'une soirée, Christophe et Frédérique ont le coup de foudre. D'abor
 [64238]  
 **Romance**  
 de Catherine Breillat  
-France / 1998 / 98 min / 35 mm  
+France / 1999 / 98 min / 35 mm  
 Avec Caroline Ducey, Sagamore Stévenin, Rocco Siffredi.  
 Précédé d'une réputation sulfureuse, _Romance_ suit l'errance identitaire et sexuelle de Marie, en quête de sensualité. Quittant le lit glacé de Paul pour les mains expertes d'aventures masculines, la jeune femme trouvera l'extase et la consolation dans les jeux de soumission/domination de Robert. Mis en lumière par Yorgos Arvanitis (chef opérateur attitré d'Angelopoulos), le corps immaculé de l'héroïne bientôt ranimé par l'étoffe rouge d'une robe – celle qui traverse toute l'œuvre de Breillat –, visite tous les fantasmes jusqu'à l'enfantement libérateur. Aussi déroutante que fascinante, une œuvre chauffée à blanc qui a su se tailler un succès à travers le monde.  
 Frustrée dans son couple, une jeune femme se laisse séduire par un inconnu. Cette première aventure la pousse à multiplier les relations éphémères, où elle s'initie à de nouvelles expériences.
@@ -111,9 +111,9 @@ Frustrée dans son couple, une jeune femme se laisse séduire par un inconnu. Ce
 [47115]  
 **Sale comme un ange**  
 de Catherine Breillat  
-France / 1990 / 105 min  
+France / 1991 / 105 min  
 Avec Claude Brasseur, Lio, Nils Tavernier.  
-Six ans après avoir écrit le scénario de _Police_, Breillat met à profit la version originale rejetée par Pialat et replonge sans complaisance dans l'univers d'un commissariat de quartier. Sale comme un ange commence comme un polar avec chasse aux dealers et propos machistes alcoolisés, avant de prendre des tournures de romance scabreuse. Breillat filme sans fard le désir sexuel entre un flic usé (Pierre Brasseur) et l'épouse docile (Lio) de son jeune partenaire (Nils Tavernier), observant les rapports de soumission et de jouissance d'un adultère trivial et finalement libérateur.  
+Six ans après avoir écrit le scénario de _Police_, Breillat met à profit la version originale rejetée par Pialat et replonge sans complaisance dans l'univers d'un commissariat de quartier. _Sale comme un ange_ commence comme un polar avec chasse aux dealers et propos machistes alcoolisés, avant de prendre des tournures de romance scabreuse. Breillat filme sans fard le désir sexuel entre un flic usé (Pierre Brasseur) et l'épouse docile (Lio) de son jeune partenaire (Nils Tavernier), observant les rapports de soumission et de jouissance d'un adultère trivial et finalement libérateur.  
 Georges Deblache, un flic quinquagénaire, solitaire, et alcoolique, veut protéger son vieil ami Mannoni, un trafiquant de drogue notoire. Il installe son coéquipier Théron en protection rapprochée au domicile de Mannoni. Dans le même temps, il tente de séduire Barbara, l'épouse de Théron.
 
 - Sa 16 sep 18h00 GF
@@ -121,7 +121,7 @@ Georges Deblache, un flic quinquagénaire, solitaire, et alcoolique, veut proté
 [79126]  
 **Sex Is Comedy**  
 de Catherine Breillat  
-France / 2001 / 93 min / 35 mm  
+France / 2002 / 93 min / 35 mm  
 Avec Anne Parillaud, Grégoire Colin, Roxane Mesquida.  
 Les dessous d'un tournage émaillé d'incidents et de psychodrames, qui permettent à Breillat d'évoquer, par une mise en abyme, les rapports que la réalisatrice entretient avec son équipe. En double tyrannique, Anne Parillaud se débat, exigeant le meilleur de ses acteurs, pour qu'une scène de sexe devienne un moment de grâce.  
 Sur le tournage de son nouveau film, Jeanne rencontre des difficultés avec ses acteurs principaux, incapables de jouer les scènes d'amour demandées. Alors qu'elle s'efforce de trouver un terrain d'entente avec eux, ils refusent de suivre ses instructions.
@@ -142,8 +142,8 @@ Mariée et mère d'une petite fille, Solange est metteur en scène. D'aventure e
 [101896]  
 **Une vieille maîtresse**  
 de Catherine Breillat  
-France-Italie / 2006 / 114 min / 35 mm  
-D'après le roman _Une vieille maîtresse_ de Jules Amédée Barbey d'Aurevilly.  
+France-Italie / 2007 / 114 min / 35 mm  
+D'après le roman _Une vieille maîtresse_ de Jules Barbey d'Aurevilly.  
 Avec Asia Argento, Fu'ad Aït Aattou, Roxane Mesquida.  
 Amour, possession, jalousie et malédiction, l'évocation d'une passion mortifère au XIX<sup>e</sup> siècle. Férue de romantisme noir, Breillat s'empare d'un texte de Barbey d'Aurevilly et retrace la brûlante liaison, entre Paris et la lande normande, d'un dandy libertin et d'une vénéneuse courtisane.  
 Paris, 1835. Le jeune et libertin Ryno de Marigny doit épouser une aristocrate dont il semble réellement épris. Il est pourtant engagé depuis dix ans auprès de sa maîtresse, la Vellini, une Malagaise possessive, qui refuse de le laisser partir.
