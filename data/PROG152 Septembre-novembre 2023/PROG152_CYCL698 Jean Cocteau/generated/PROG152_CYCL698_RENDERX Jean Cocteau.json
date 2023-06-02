@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2023-11-15T20:00:00",
-    "2023-11-22T15:00:00"
+    "2023-11-26T19:30:00"
   ],
   "sousCycles": [
     {
@@ -75,6 +75,33 @@
           ]
         },
         {
+          "idFilm": 118768,
+          "content": [
+            {
+              "idFilm": 118768,
+              "ordre": 1,
+              "titre": "Jean Cocteau s'adresse à... l'an 2000",
+              "realisateurs": "Jean Cocteau",
+              "pays": "France",
+              "annee": 1962,
+              "duree": 24,
+              "version": "",
+              "format": "16 mm",
+              "generique": [
+                "Jean Cocteau"
+              ],
+              "miniTexte": "Dans un exercice touchant, candide capsule temporelle, Cocteau livre face caméra ses impressions sur son époque, ses craintes et ses espoirs pour la jeunesse du millénaire à venir."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104885,
+              "dateHeure": "2023-11-24T20:15:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 47762,
           "content": [
             {
@@ -138,33 +165,49 @@
           ]
         },
         {
-          "idFilm": 47713,
-          "content": [
+          "groupe": [
             {
               "idFilm": 47713,
-              "ordre": 1,
-              "titre": "Sang d'un poète",
-              "art": "Le",
-              "realisateurs": "Jean Cocteau",
-              "pays": "France",
-              "annee": 1930,
-              "duree": 55,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Enrique de Rivero",
-                "Lee Miller",
-                "Pauline Carton"
+              "content": [
+                {
+                  "idFilm": 47713,
+                  "ordre": 1,
+                  "titre": "Sang d'un poète",
+                  "art": "Le",
+                  "realisateurs": "Jean Cocteau",
+                  "pays": "France",
+                  "annee": 1930,
+                  "duree": 55,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "Enrique de Rivero",
+                    "Lee Miller",
+                    "Pauline Carton"
+                  ],
+                  "miniTexte": "Les premiers pas officiels au cinéma de Jean Cocteau. Fantastique, onirique, un film-poème, tentative de capter l'invisible dans laquelle il explore en tableaux successifs les déviances humaines – et les siennes propres – à travers une descente aux enfers métaphorique."
+                }
               ],
-              "miniTexte": "Les premiers pas officiels au cinéma de Jean Cocteau. Fantastique, onirique, un film-poème, tentative de capter l'invisible dans laquelle il explore en tableaux successifs les déviances humaines – et les siennes propres – à travers une descente aux enfers métaphorique."
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 104605,
-              "typeAssoc": 118,
-              "dateHeure": "2023-11-16T19:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28602,
+              "content": [
+                {
+                  "idConf": 28602,
+                  "ordre": 3,
+                  "titre": "Film + discussion avec Claude Arnaud",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104605,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-11-16T19:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -236,6 +279,99 @@
       "tri": 1,
       "items": [
         {
+          "idFilm": 35524,
+          "content": [
+            {
+              "idFilm": 35524,
+              "ordre": 1,
+              "titre": "8 × 8: A Chess Sonata in 8 Movements",
+              "realisateurs": "Hans Richter, Jean Cocteau",
+              "pays": "États-Unis",
+              "annee": 1956,
+              "duree": 80,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Paul Bowles",
+                "Marcel Duchamp",
+                "Max Ernst",
+                "Alexander Calder",
+                "Yves Tanguy"
+              ],
+              "miniTexte": "64, ou le nombre de cases d'un échiquier, pour une métaphore expérimentale et fantaisiste sur les différentes combinaisons possibles de la vie. Un « conte de fées pour adultes, à mi-chemin entre Freud et Lewis Carroll » tel que le décrit Richter, aidé dans sa composition par de nombreux artistes dont Cocteau, Max Ernst ou Marcel Duchamp."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104884,
+              "dateHeure": "2023-11-24T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 45108,
+          "content": [
+            {
+              "idFilm": 45108,
+              "ordre": 1,
+              "titre": "Amore",
+              "art": "L'",
+              "realisateurs": "Roberto Rossellini",
+              "pays": "Italie",
+              "annee": 1947,
+              "duree": 77,
+              "version": "VO",
+              "format": "DCP",
+              "adaptation": "D'après la pièce _La Voix humaine_ de Jean Cocteau.  \nD'après la nouvelle _Flor de Santidad_ (pour l'épisode _Le Miracle_) de Ramón María del Valle-Inclán.",
+              "generique": [
+                "Anna Magnani",
+                "Federico Fellini",
+                "Peparuolo"
+              ],
+              "miniTexte": "Premier segment, avant _Le Miracle_ de Fellini, du diptyque _L'Amore_, transposition à l'écran de la pièce de Cocteau portée par la Magnani. Ou quand un monologue du cœur prend le ton d'une ode bouleversante d'un homme à une femme, à une comédienne, et à son art."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104894,
+              "dateHeure": "2023-11-16T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 50660,
+          "content": [
+            {
+              "idFilm": 50660,
+              "ordre": 1,
+              "titre": "Baron fantôme",
+              "art": "Le",
+              "realisateurs": "Serge de Poligny",
+              "pays": "France",
+              "annee": 1942,
+              "duree": 98,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Alain Cuny",
+                "Odette Joyeux",
+                "Jany Holt",
+                "Jean Cocteau"
+              ],
+              "miniTexte": "Cocteau interprète le rôle-titre, mais surtout marque de sa patte scénario et dialogues, et compose une œuvre poético-romantique au casting _ad hoc_, avec château, oubliettes, trésor perdu et une mémorable scène de somnambulisme."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104878,
+              "dateHeure": "2023-11-22T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 43788,
           "content": [
             {
@@ -268,6 +404,39 @@
           ]
         },
         {
+          "idFilm": 47121,
+          "content": [
+            {
+              "idFilm": 47121,
+              "ordre": 1,
+              "titre": "Dames du Bois de Boulogne",
+              "art": "Les",
+              "realisateurs": "Robert Bresson",
+              "pays": "France",
+              "annee": 1944,
+              "duree": 85,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Jacques le fataliste_ de Denis Diderot.",
+              "generique": [
+                "Paul Bernard",
+                "Maria Casarès",
+                "Elina Labourdette",
+                "Lucienne Bogaert"
+              ],
+              "isFocus": true,
+              "miniTexte": "Librement adapté de Diderot (_Jacques le Fataliste_), _Les Dames du bois de Boulogne_ entrechoque deux mondes : aux dialogues littéraires de Cocteau s'oppose le style dépouillé de Bresson. C'est la dernière fois que le cinéaste travaille avec des comédiens professionnels (Maria Casarès, moderne, grave, sublime) avant de faire appel à ses fameux « modèles ». La mise en scène sèche, au somptueux noir et blanc, sert le tragique du récit, qui, derrière la vengeance froide d'une femme quittée par son amant, explore en creux les différences de classes. D'abord fraîchement accueilli par la critique, puis renié par Bresson, _Les Dames..._ deviendra, grâce aux ciné-clubs, un immense classique."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104888,
+              "dateHeure": "2023-11-18T20:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 50142,
           "content": [
             {
@@ -295,6 +464,36 @@
               "idSeance": 104851,
               "dateHeure": "2023-11-19T17:00:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 47999,
+          "content": [
+            {
+              "idFilm": 47999,
+              "ordre": 1,
+              "titre": "Éternel Retour",
+              "art": "L'",
+              "realisateurs": "Jean Delannoy",
+              "pays": "France",
+              "annee": 1943,
+              "duree": 115,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Jean Marais",
+                "Madeleine Sologne",
+                "Jean Murat"
+              ],
+              "miniTexte": "Empruntant son titre à Nietzsche, Cocteau creuse la répétition des mythes, et transpose – scénario, dialogues, casting – la légende médiévale de Tristan et Yseult à l'époque moderne. Dans des décors gothiques envoûtants, Jean Marais et Madeleine Sologne sont des doubles angéliques, déchirés par leur amour impossible."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104879,
+              "dateHeure": "2023-11-22T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -356,8 +555,68 @@
           ],
           "seances": [
             {
-              "idSeance": 104853,
-              "dateHeure": "2023-11-18T19:00:00",
+              "idSeance": 104889,
+              "dateHeure": "2023-11-23T18:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 46807,
+          "content": [
+            {
+              "idFilm": 46807,
+              "ordre": 1,
+              "titre": "Ruy Blas",
+              "realisateurs": "Pierre Billon",
+              "pays": "France-Italie",
+              "annee": 1947,
+              "duree": 93,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Ruy Blas_ de Victor Hugo.",
+              "generique": [
+                "Danielle Darrieux",
+                "Jean Marais",
+                "Marcel Herrand"
+              ],
+              "miniTexte": "Cocteau s'empare de la pièce de Victor Hugo et n'en garde que la structure narrative. Il signe scénario et dialogues, et impose Jean Marais dans le double rôle du valet Ruy Blas et de Don César face à Danielle Darrieux, impressionnante reine d'Espagne."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104882,
+              "dateHeure": "2023-11-25T19:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 48633,
+          "content": [
+            {
+              "idFilm": 48633,
+              "ordre": 1,
+              "titre": "Thomas l'imposteur",
+              "realisateurs": "Georges Franju",
+              "pays": "France",
+              "annee": 1964,
+              "duree": 93,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Thomas l'imposteur_ de Jean Cocteau.",
+              "generique": [
+                "Fabrice Rouleau",
+                "Emmanuelle Riva",
+                "Jean Servais"
+              ],
+              "miniTexte": "À coups de griffes antimilitaristes et anticléricales, la guerre vue de l'arrière du front, par un adolescent et une infirmière. Avec tout son savoir-faire de poète de l'horreur, Franju adapte l'œuvre de Cocteau, d'une noirceur lumineuse, où la vie n'est qu'une illusion et la mort une réalité."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104886,
+              "dateHeure": "2023-11-26T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -365,25 +624,208 @@
       ]
     },
     {
-      "titreSousCycle": "Rencontres et conférences",
+      "titreSousCycle": "Autour de Jean Cocteau",
       "tri": 1,
       "items": [
         {
-          "idConf": 28602,
+          "idFilm": 53162,
           "content": [
             {
-              "idEvenement": 28602,
-              "ordre": 3,
-              "titre": "Film + discussion avec Claude Arnaud",
-              "typeConference": "Dialogue"
+              "idFilm": 53162,
+              "ordre": 1,
+              "titre": "Anna, la bonne",
+              "realisateurs": "Claude Jutra",
+              "pays": "France",
+              "annee": 1959,
+              "duree": 9,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après la chanson _Anna, la bonne_ de Jean Cocteau.",
+              "generique": [
+                "Marianne Oswald"
+              ],
+              "miniTexte": "Produit par François Truffaut, le poème de Cocteau écrit en 1936 pour la chanteuse populaire Marianne Oswald."
             }
           ],
           "seances": [
             {
-              "idSeance": 104605,
-              "typeAssoc": 118,
-              "dateHeure": "2023-11-16T19:30:00",
-              "idSalle": "HL"
+              "idSeance": 104893,
+              "dateHeure": "2023-11-23T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 52042,
+          "content": [
+            {
+              "idFilm": 52042,
+              "ordre": 1,
+              "titre": "Bel Indifférent",
+              "art": "Le",
+              "realisateurs": "Jacques Demy",
+              "pays": "France",
+              "annee": 1957,
+              "duree": 29,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après la pièce _Le Bel indifférent_ de Jean Cocteau.",
+              "generique": [
+                "Jeanne Allard",
+                "Angelo Bellini"
+              ],
+              "miniTexte": "Dans un décor de chambre d'hôtel, Demy adapte la pièce de Cocteau, monologue d'une femme délaissée par son amant. Ou la métaphore amère d'une société étouffée par la solitude et l'incommunicabilité."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104887,
+              "dateHeure": "2023-11-26T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 58762,
+          "content": [
+            {
+              "idFilm": 58762,
+              "ordre": 2,
+              "titre": "Charlotte et son Jules",
+              "realisateurs": "Jean-Luc Godard",
+              "pays": "France",
+              "annee": 1958,
+              "duree": 20,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après la pièce _Le Bel Indifférent_ de Jean Cocteau.",
+              "generique": [
+                "Jean-Paul Belmondo",
+                "Anne Colette",
+                "Gérard Blain"
+              ],
+              "miniTexte": "Dans un monologue acerbe, à la fois drôle et grave, inspiré de la pièce de Cocteau, Godard met en scène les réflexions désabusées d'un jeune homme (Belmondo, dont il double la voix) face à son ancienne maîtresse."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104893,
+              "dateHeure": "2023-11-23T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 66350,
+          "content": [
+            {
+              "idFilm": 66350,
+              "ordre": 3,
+              "titre": "Dame de Monte-Carlo",
+              "art": "La",
+              "realisateurs": "Dominique Delouche",
+              "pays": "France",
+              "annee": 1979,
+              "duree": 8,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le pièce _La Dame de Monte-Carlo_ de Jean Cocteau.",
+              "generique": [
+                "Edith Stockhausen"
+              ],
+              "miniTexte": "Balade aux quatre coins de Paris sur un poème de Cocteau mis en musique par Francis Poulenc."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104893,
+              "dateHeure": "2023-11-23T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 50500,
+          "content": [
+            {
+              "idFilm": 50500,
+              "ordre": 2,
+              "titre": "Django Reinhardt",
+              "realisateurs": "Paul Paviot",
+              "pays": "France",
+              "annee": 1958,
+              "duree": 23,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "Yves Montand",
+                "Django Reinhardt",
+                "Stéphane Grappelli"
+              ],
+              "miniTexte": "Façon impro de jazz, un portrait impressionniste du guitariste de génie, introduit par Cocteau, et porté par la poésie du commentaire signé Chris Marker, récité par Yves Montand."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104887,
+              "dateHeure": "2023-11-26T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 50548,
+          "content": [
+            {
+              "idFilm": 50548,
+              "ordre": 3,
+              "titre": "Pantomimes",
+              "realisateurs": "Paul Paviot",
+              "pays": "France",
+              "annee": 1954,
+              "duree": 21,
+              "version": "",
+              "format": "16 mm",
+              "generique": [
+                "Marcel Marceau"
+              ],
+              "miniTexte": "Sur un commentaire écrit et dit par Cocteau, le mime Marceau décrit les différentes étapes de la vie, adolescence, maturité et vieillesse."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104887,
+              "dateHeure": "2023-11-26T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 52041,
+          "content": [
+            {
+              "idFilm": 52041,
+              "ordre": 4,
+              "titre": "Voix humaine",
+              "art": "La",
+              "realisateurs": "Dominique Delouche",
+              "pays": "France",
+              "annee": 1984,
+              "duree": 38,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après la pièce _La Voix humaine_ de Jean Cocteau.",
+              "generique": [
+                "Denise Duval"
+              ],
+              "miniTexte": "Le drame lyrique de Francis Poulenc d'après le monologue de Cocteau, avec la soprano Denise Duval, qui reprend en playback son interprétation de 1959."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104893,
+              "dateHeure": "2023-11-23T20:30:00",
+              "idSalle": "JE"
             }
           ]
         }

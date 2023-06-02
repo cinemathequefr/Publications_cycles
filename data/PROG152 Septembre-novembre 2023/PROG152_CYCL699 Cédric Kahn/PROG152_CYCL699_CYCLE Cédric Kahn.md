@@ -33,7 +33,7 @@ Le destin croisé de quatre adolescents va prendre un tour décisif lors d'une f
 
 Une version longue du téléfilm est sortie au cinéma sous le titre _Trop de bonheur_.
 
-- Je 5 oct 18h00 GF
+- Me 4 oct 20h45 GF
 
 [86127]  
 **Les Dernières heures du millénaire**  

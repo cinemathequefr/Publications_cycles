@@ -50,10 +50,10 @@ Dans un collège pour filles, une enseignante de français quitte son poste pour
 
 [45140]  
 **Au service de la gloire**  
-**(What Price Glory ?)**  
+**(What Price Glory?)**  
 de Raoul Walsh  
 États-Unis / 1926 / 120 min / INT. FR. / 35 mm  
-D'après la pièce _What Price Glory ?_ de Maxwell Anderson et Laurence Stallings.  
+D'après la pièce _What Price Glory?_ de Maxwell Anderson et Laurence Stallings.  
 Avec Edmund Lowe, Victor McLaglen, Dolores del Río.  
 Les aventures militaires et amoureuses de deux compagnons envoyés dans les tranchées du nord de la France. Passant allègrement du cocasse au tragique, ce triomphe de la période muette livre de brillantes scènes de combat, qui permettent à Walsh d'asseoir sa réputation de réalisateur de films de guerre.  
 Un capitaine et un sergent de l'armée américaine se retrouvent en 1917 dans les tranchées du Nord de la France. Ils tombent tous deux amoureux de la fille de l'aubergiste.
@@ -67,7 +67,7 @@ de Raoul Walsh
 Grande-Bretagne / 1937 / 87 min / VOSTF / 35 mm  
 Avec Wallace Ford, John Mills, Anna Lee.  
 Un mauvais garçon new-yorkais, poursuivi pour meurtre, s'engage dans l'armée britannique. Alternant comédie et morceaux de bravoure, Walsh dessine un triangle amoureux sur fond de péripéties militaires, dont le final de la bataille chinoise qui annonce l'ampleur d'_Aventures en Birmanie_.  
-Deux soldats, engagés au service de Sa Majesté, se disputent les faveurs de la fille du sergent-major alors que les combats font rage.
+Deux soldats se disputent les faveurs de la fille du sergent-major alors que les combats font rage.
 
 - Me 18 oct 20h45 GF
 
@@ -203,7 +203,7 @@ Alors que la guerre contre les tribus indiennes fait rage, le lieutenant Hazard 
 
 [36876]  
 **La Charge fantastique**  
-**(They Died with Their Boots On)**  
+**(They Died With Their Boots on)**  
 de Raoul Walsh  
 États-Unis / 1941 / 140 min / VOSTF / 35 mm  
 Avec Errol Flynn, Olivia de Havilland, Arthur Kennedy.  
@@ -856,7 +856,7 @@ de Raoul Walsh
 D'après le roman _Long Haul_ d'A.I. Bezzerides.  
 Avec George Raft, Ann Sheridan, Humphrey Bogart.  
 Évocation de la _working class_ des années de crise, à travers l'histoire de deux frères, chauffeurs routiers, le film bascule brusquement dans le drame sentimental et judiciaire. La jeune Ida Lupino réussit en beauté son entrée à la Warner et en devient une nouvelle icône.  
-Le dirigeant d'une entreprise de transport est accusé d'assassinat par la femme d'un de ses concurrents retrouvé mort.
+Deux frères dirigeants d'une entreprise de transport sont soupçonnés de l'assassinat de leur concurrent.
 
 - Sa 2 sep 14h30 HL
 
@@ -865,9 +865,9 @@ Le dirigeant d'une entreprise de transport est accusé d'assassinat par la femme
 **(Pursued)**  
 de Raoul Walsh  
 États-Unis / 1947 / 100 min / VOSTF / DCP  
-Avec Robert Mitchum, Teresa Wright, Alan Hale.  
+Avec Robert Mitchum, Teresa Wright, Judith Anderson.  
 La névrose parentale est au centre de _La Vallée de la peur_, western psychanalytique que le réalisateur voit « comme une histoire de fantômes ». Adoptant le ton tranchant de la tragédie, dans un décor d'ombres et de contre-jours, il offre à Robert Mitchum un rôle de cow-boy hanté par les réminiscences d'un traumatisme enfoui. Dans cette lutte éternelle de l'homme contre son passé, le film tente d'en reconstituer les pièces à coups de flashbacks et d'envolées lyriques, que la musique de Max Steiner transportent au-delà d'une simple histoire de violence et de vengeance. Vers un tragique onirique.  
-Au Nouveau-Méxique, Medora Callum recueille Jeb Rand, un jeune enfant dont le père vient d'être assassiné, et l'élève avec ses deux propres enfants. Ceux-ci devenus adultes, elle veut partager ses biens en trois parts égales. Le passé rattrape bientôt Jeb Rand.
+Le cowboy Jeb Rand est assailli par des visions cauchemardesques, où il revoit le meurtre de ses parents durant son enfance. Tandis que sa vie défile, il se remémore les visages des siens et ceux de leurs assassins qu'il s'est toujours juré d'abattre.
 
 - Sa 9 sep 20h30 HL
 
@@ -878,7 +878,7 @@ de Raoul Walsh
 États-Unis / 1953 / 82 min / VOSTF / 35 mm  
 Avec Rock Hudson, Julie Adams, Mary Castle.  
 À travers le portrait romancé de John Wesley Hardin, légende du Far West qui commit de nombreux meurtres au lendemain de la guerre de Sécession, Walsh s'interroge : le criminel peut-il changer et sortir de l'engrenage de la violence ? Avec Rock Hudson, à l'aube de la célébrité.  
-Un homme est victime des ennuis provoqués par son tempérament aventureux et son habilité au pistolet.
+La vie de John Wesley Hardin, qui décide, à sa libération de prison, de publier son autobiographie pour blanchir sa réputation.
 
 - Ve 15 sep 20h00 HL
 
@@ -887,9 +887,9 @@ Un homme est victime des ennuis provoqués par son tempérament aventureux et so
 **(The Thief of Bagdad)**  
 de Raoul Walsh  
 États-Unis / 1924 / 140 min / INT. FR. / DCP  
-Avec Douglas Fairbanks, Snitz Edwards, Anna May Wong.  
+Avec Douglas Fairbanks, Julanne Johnston, Snitz Edwards.  
 Libre adaptation des contes des _Mille et Une Nuits_ avec Douglas Fairbanks. Une superproduction épique ou l'incarnation d'un certain idéal muet hollywoodien, aux décors monumentaux et aux effets spéciaux révolutionnaires.  
-La fille du Calife tombe amoureuse d'un sympathique voleur qui devra la conquérir.
+Les aventures extraordinaires d'Ahmed, un petit voleur magicien dans le royaume de Bagdad. Tombé amoureux de la fille du Calife, il va devoir déployer des trésors d'astuces pour la conquérir.
 
 - Sa 14 oct 14h30 HL
 
@@ -897,9 +897,10 @@ La fille du Calife tombe amoureuse d'un sympathique voleur qui devra la conquér
 **Wild Girl**  
 de Raoul Walsh  
 États-Unis / 1932 / 74 min / VOSTF / DCP  
+D'après le roman _Salomy Jane_ de Bret Harte.  
 Avec Joan Bennett, Charles Farrell, Ralph Bellamy.  
 Parmi les trésors méconnus de Walsh, les aventures de Salomy Jane et de ses compagnons, parias et marginaux, trouvant refuge dans les forêts profondes de la Sierra Nevada. Inspiré de Bret Harte, connu pour ses écrits sur les pionniers du Far West, une célébration des esprits libres et de la nature sauvage comme dernier sanctuaire.  
-Une jeune fille s'enfuit avec le meurtrier du séducteur de sa sœur.
+Salomy Jane, un garçon manqué, vit avec son père dans une petite ville de la Sierra Nevada. Elle rencontre un homme mystérieux, surnommé l'Étranger, qui recherche le responsable du suicide de sa sœur.
 
 - Sa 14 oct 19h30 GF
 
@@ -909,7 +910,7 @@ de Raoul Walsh
 États-Unis / 1931 / 72 min / VOSTF / 35 mm  
 Avec Edmund Lowe, Victor McLaglen, Greta Nissen.  
 Les tribulations des soldats Flagg et Quirt, dans un deuxième _sequel_ d'_Au service de la gloire_. Après Dolores Del Rio et Lili Damita, Greta Nissen endosse le rôle de la belle du bout du monde.  
-Flagg et Quirt, deux marines qui tentent chacun de séduire la belle Else en Suède puis en Égypte où celle-ci fait partie du harem d'un prince.  
+Flagg et Quirt, deux Marines, parcourent le monde afin de séduire la belle Else.  
 Restauré par UCLA Film & Television Archive.
 
 - Di 1 oct 20h00 HL

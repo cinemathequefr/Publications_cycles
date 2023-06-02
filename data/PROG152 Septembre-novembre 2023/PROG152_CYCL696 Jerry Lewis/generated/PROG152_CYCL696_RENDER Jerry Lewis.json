@@ -78,6 +78,36 @@
         ]
       },
       {
+        "idFilm": 154494,
+        "typeEvenement": 13,
+        "titre": "Come Back Little Shiksa",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1962,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 1000,
+            "texte": "Inversant l'intrigue de _Reviens petite Sheba_, Dean Martin reprend le rôle de Burt Lancaster, dans le rôle d'un chirurgien alcoolique qui doit constamment faire face à la tentation de la sobriété."
+          }
+        ],
+        "duree": 39,
+        "format": "",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104891,
+            "ordre": 1,
+            "dateHeure": "2023-11-18T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film suivi de _Fairfax Avenue_ de Jerry Lewis, _The Re-Inforcer_ de Jerry Lewis"
+          }
+        ]
+      },
+      {
         "idFilm": 45745,
         "typeEvenement": 13,
         "titre": "Dingue du palace",
@@ -156,6 +186,36 @@
         ]
       },
       {
+        "idFilm": 154493,
+        "typeEvenement": 13,
+        "titre": "Fairfax Avenue",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1951,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 1000,
+            "texte": "Janet Leigh, Tony Curtis et Dean Martin s'amusent à parodier _Sunset Boulevard_."
+          }
+        ],
+        "duree": 30,
+        "format": "",
+        "version": "",
+        "seances": [
+          {
+            "idSeance": 104891,
+            "ordre": 2,
+            "dateHeure": "2023-11-18T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Come Back Little Shiksa_ de Jerry Lewis et suivi de de _The Re-Inforcer_ de Jerry Lewis"
+          }
+        ]
+      },
+      {
         "idFilm": 51283,
         "typeEvenement": 13,
         "titre": "Jerry grande gueule",
@@ -186,7 +246,7 @@
           {
             "idSeance": 104847,
             "ordre": 1,
-            "dateHeure": "2023-11-18T18:30:00",
+            "dateHeure": "2023-11-18T18:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -335,6 +395,17 @@
               "Georges Franju"
             ],
             "typeEvenement": 13
+          },
+          {
+            "idSeance": 104891,
+            "ordre": 3,
+            "dateHeure": "2023-11-18T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Come Back Little Shiksa_ de Jerry Lewis, _Fairfax Avenue_ de Jerry Lewis"
           }
         ]
       },
@@ -405,10 +476,20 @@
           "Helen Traubel",
           "Kathleen Freeman"
         ],
-        "duree": 106,
-        "format": "DCP",
-        "version": "VOSTF",
+        "duree": 110,
+        "format": "35 mm",
+        "version": "",
         "seances": [
+          {
+            "idSeance": 104892,
+            "ordre": 1,
+            "dateHeure": "2023-11-16T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13
+          },
           {
             "idSeance": 104595,
             "ordre": 1,

@@ -25,7 +25,7 @@ L'unique long métrage signé par l'actrice Isela Vega, aperçue chez Peckinpah,
 de Chano Urueta  
 Mexique / 1961 / 77 min / VOSTF / DCP  
 Avec Abel Salazar, Ariadna Welter, David Silva.  
-Un film de monstre aussi étrange que désopilant, devenu culte aux USA sous le titre _The Brainiac_. Dans ce mélange d'outrance et d'absurdité, Chano Urueta (_Le Miroir de la sorcière_) réunit des figures du cinéma mexicain (Germán Robles, Ariadna Welter) face à Abel Salazar, qui cabotine en baron déchu.
+Un film de monstres aussi étrange que désopilant, devenu culte aux USA sous le titre _The Brainiac_. Dans ce mélange d'outrance et d'absurdité, Chano Urueta (_Le Miroir de la sorcière_) réunit des figures du cinéma mexicain (Germán Robles, Ariadna Welter) face à Abel Salazar, qui cabotine en baron déchu.
 
 - Sa 28 oct 20h30 GF
 

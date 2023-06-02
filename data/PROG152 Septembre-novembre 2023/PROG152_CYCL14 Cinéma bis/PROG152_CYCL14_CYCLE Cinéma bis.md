@@ -38,7 +38,7 @@ Avec John Carradine.
 **Frankenstein 2000, the vindicator**  
 **(The Vindicator)**  
 de Jean-Claude Lord  
-Canada-États-Unis / 1984 / 92 min / VF  
+Canada-États-Unis / 1984 / 92 min / VF / 35 mm  
 Avec Pam Grier, Richard Cox, David McIlwraith.  
 Alex White, l'impitoyable et ambitieux directeur des laboratoires ARC, utilise le cerveau et le corps mutilé de Carl, un scientifique décédé dans un accident pour servir à l'opération Frankenstein.
 
@@ -50,7 +50,7 @@ Alex White, l'impitoyable et ambitieux directeur des laboratoires ARC, utilise l
 **Dans le cercle du vice**  
 **(Kynighimeni ersate)**  
 d'Omiros Efstratiadis  
-Grèce / 1972 / 100 min / 35 mm  
+Grèce / 1972 / 100 min / VF / 35 mm  
 Avec Dora Sitzani, Faidon Georgitsis, Thodoros Roubanis.  
 Deux jeunes qui s'aiment décident de quitter leur village et de chercher un avenir meilleur à Athènes.
 
@@ -93,7 +93,7 @@ Avec Zoé Chauveau, André Dussollier, Alain Doutey.
 **Les Soucoupes volantes attaquent**  
 **(Earth vs. the Flying Saucers)**  
 de Fred F. Sears  
-États-Unis / 1955 / VOSTF / Numérique  
+États-Unis / 1955 / 83 min / VOSTF / Numérique  
 Avec Joann Taylor, Donald Curtis, Hugh Marlowe.  
 De curieux objets volants non identifiés envahissent le ciel, aux quatre coins du monde : les Terriens doivent faire face à une attaque d'extraterrestres.
 

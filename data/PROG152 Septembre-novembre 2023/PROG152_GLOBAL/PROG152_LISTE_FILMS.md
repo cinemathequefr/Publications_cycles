@@ -96,25 +96,42 @@
   * Social Network (The)  
   * Zodiac
 
-## Jean Cocteau (11)
+## Jean Cocteau (26)
 
+  * 8 × 8: A Chess Sonata in 8 Movements  
   * Aigle à deux têtes (L')  
+  * Amore (L')  
+  * Anna, la bonne  
+  * Baron fantôme (Le)  
+  * Bel Indifférent (Le)  
   * Belle et la Bête (La)  
+  * Charlotte et son Jules  
   * Couronne noire (La)  
+  * Dame de Monte-Carlo (La)  
+  * Dames du Bois de Boulogne (Les)  
+  * Django Reinhardt  
   * Enfants terribles (Les)  
+  * Éternel Retour (L')  
+  * Jean Cocteau s'adresse à... l'an 2000  
   * Mystère d'Oberwald (Le)  
   * Orphée  
+  * Pantomimes  
   * Parents terribles (Les)  
   * Princesse de Clèves (La)  
+  * Ruy Blas  
   * Sang d'un poète (Le)  
   * Testament d'Orphée ou Ne me demandez pas pourquoi (Le)  
-  * Villa Santo Sospir (La)
+  * Thomas l'imposteur  
+  * Villa Santo Sospir (La)  
+  * Voix humaine (La)
 
-## Jerry Lewis (14)
+## Jerry Lewis (16)
 
   * Au boulot, Jerry  
   * Clown TV (Der)  
+  * Come Back Little Shiksa  
   * Dingue du palace (Le)  
+  * Fairfax Avenue  
   * Jerry grande gueule  
   * Jerry Lewis  
   * Jerry souffre douleur  
