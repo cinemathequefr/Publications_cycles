@@ -506,20 +506,21 @@ Deux frères, anciens soldats sudistes de la Guerre de Sécession devenus bandit
 **(Background to Danger)**  
 de Raoul Walsh  
 États-Unis / 1942 / 80 min / VOSTF / 35 mm  
-D'après le roman _Background to Danger_ d'Eric Ambler.  
+D'après le roman _Background to Danger_ d'Éric Ambler.  
 Avec George Raft, Brenda Marshall, Sydney Greenstreet.  
 Dans le prolongement du succès de _Casablanca_ de Curtiz, une plongée, adapté d'un roman d'Eric Ambler, dans le monde interlope des trafics d'Ankara, où un espion américain tente d'empêcher le ralliement de la Turquie à l'Allemagne nazie.  
-A Ankara, pendant la Seconde Guerre Mondiale, un agent américain tente d'empêcher une alliance entre la Turquie et l'Allemagne.
+À Ankara, pendant la Seconde Guerre Mondiale, un agent américain tente d'empêcher une alliance entre la Turquie et l'Allemagne.
 
 - Me 13 sep 18h00 HL
 
 [85155]  
-**The Kindred of the Dust**  
+**Kindred of the Dust**  
 de Raoul Walsh  
 États-Unis / 1922 / 92 min / INT. FR. / 35 mm  
-Avec Lionel Barrymore, Miriam Cooper, Ralph Graves.  
+D'après le roman _Kindred of the Dust_ de Peter Bernard Kyne.  
+Avec Miriam Cooper, Ralph Graves, Lionel Belmore.  
 Le réalisateur met en vedette son épouse, l'actrice Miriam Cooper, dans le rôle d'une femme victime d'un mari bigame. Un drame sentimental, l'un des plus vieux films muets de Walsh encore visible.  
-Une orpheline retourne chez elle dans une petite ville du nord-ouest du Pacifique après un mariage raté et avec un fils en bas âge.
+Lorsqu'elle apprend que son époux est déjà marié à une autre, Nan retourne, avec son fils, dans sa ville natale. Elle y est traitée comme une paria par tous les habitants, sauf Donald, son amour de jeunesse.
 
 - Me 4 oct 19h45 JE
 
@@ -527,9 +528,10 @@ Une orpheline retourne chez elle dans une petite ville du nord-ouest du Pacifiqu
 **The Loves of Carmen**  
 de Raoul Walsh  
 États-Unis / 1927 / 98 min / INT. FR. / DCP  
+D'après la nouvelle _Carmen_ de Prosper Mérimée.  
 Avec Dolores del Río, Don Alvarado, Victor McLaglen.  
 Dolores Del Rio incarne la gitane espagnole, toute en sensualité exotique. L'atmosphère lumineuse de chaque tableau, rythmé par d'audacieux mouvements de caméra, fait de cette version de la nouvelle de Mérimée l'une des plus réussies du cinéma muet.  
-Seconde adaptation par Walsh de la nouvelle de Merimee.  
+Un soldat et un célèbre torero se disputent les faveurs de Carmen, une gitane espagnole.  
 Restauré par le MoMA avec le soutien de la Film Foundation.
 
 - Di 8 oct 17h00 GF
@@ -540,7 +542,7 @@ de Raoul Walsh
 États-Unis / 1926 / 60 min / INT. FR. / 16 mm  
 Avec Greta Nissen, Lionel Barrymore, William Collier Jr..  
 Star des années 1920, Greta Nissen déploie ses charmes pour déjouer les plans d'un mariage arrangé. Une comédie légère, dans l'univers d'une principauté d'opérette et de ses casinos.  
-Le premier Ministre Franz Garletz veut faire marier la Princesse Antoinette avec le Comte Ferranzo. Antoinette, élève dans un couvent, sort clandestinement le soir pour aller voir les spectacles à l'auberge locale. Elle y commence à flirter avec Clarke, un jeune touriste américain.
+Le Premier ministre Franz Garletz veut arranger un mariage entre la princesse Antoinette et le comte Ferranzo, mais elle tombe amoureuse d'un touriste américain, soupçonné d'être un espion.
 
 - Sa 7 oct 15h00 GF
 
@@ -551,7 +553,7 @@ de Raoul Walsh
 D'après le roman _Night Shift_ de Maritta Wolff.  
 Avec Ida Lupino, Robert Alda, Andrea King.  
 Entre polar et romance musicale, un mélo d'une rare modernité féministe qui relate l'histoire d'une chanteuse de bar new-yorkaise, partie rompre sa solitude dans les night-clubs de L.A. L'une des inspirations de Martin Scorsese pour _New York, New York_.  
-Une chanteuse de night-club retourne dans sa famille et découvre la déchéance dans laquelle sont tombés son frère, compromis avec des gangsters, et un pianiste qu'elle admirait et dont elle tombe amoureuse.
+De retour chez elle pour Noël, la chanteuse Petey Brown découvre que ses frères et sœurs sont impliqués dans des affaires de pègre.
 
 - Sa 16 sep 21h00 HL
 
@@ -561,19 +563,19 @@ de Raoul Walsh
 États-Unis / 1961 / 98 min / VOSTF / DCP  
 Avec Tom Tryon, David Hedison, Tom Reese.  
 Pour son avant-dernier film, Walsh écrit et produit une comédie sur fond de guerre de Corée. Un mélange des genres qui suit un groupe de GIs s'encanaillant à Tokyo, avant de partir au front.  
-Pendant la guerre de Corée, trois Marines, bénéficiant d'une permission au Japon, vivent diverses aventures sentimentales, avant d'être rappelés au front.
+Pendant la guerre de Corée, trois Marines profitent d'une permission au Japon. Ils vivent différentes aventures sentimentales avant d'être rappelés au front.
 
 - Me 11 oct 20h00 HL
 
 [36832]  
-**Mon ami et moi**  
+**Mon amie et moi**  
 **(Me And My Gal)**  
 de Raoul Walsh  
 États-Unis / 1932 / 79 min / VOSTF / DCP  
-Avec Spencer Tracy, Joan Bennett, George Chandler.  
+Avec Spencer Tracy, Joan Bennett, Marion Burns.  
 Dans un univers référentiel tissé autour de Broadway et du cinéma muet, une joyeuse comédie policière qui arbore d'hilarants attributs pré-code et de belles idées sonores, insufflées par les débuts du parlant.  
-Dan, un jeune policier new-yorkais, est amoureux d'une serveuse, mais la sœur de cette dernière est la maitresse d'un gangster.  
-Conservé par le MoMA,. Restauration numérique soutenue par 20th Century Fox.
+Dan, un policier new-yorkais, est amoureux d'une serveuse, mais la sœur de celle-ci est la maîtresse d'un gangster.  
+Conservé par le MoMA. Restauration numérique soutenue par 20th Century Fox.
 
 - Sa 14 oct 17h45 GF
 
@@ -582,9 +584,10 @@ Conservé par le MoMA,. Restauration numérique soutenue par 20th Century Fox.
 **(The World in His Arms)**  
 de Raoul Walsh  
 États-Unis / 1952 / 104 min / VOSTF / 35 mm  
-Avec Anthony Quinn, Gregory Peck, Ann Blyth.  
+D'après le roman _The World in His Arms_ de Rex Beach.  
+Avec Gregory Peck, Ann Blyth, Anthony Quinn.  
 Entre San Francisco et l'Alaska, les péripéties sentimentales et maritimes d'un chasseur de phoque, prêt à provoquer en duel le protégé du Tsar pour l'amour d'une comtesse russe. Multipliant les antagonismes, Walsh s'amuse autant à railler la société de classes qu'à dépeindre une galerie de personnages aussi truculents que la bande de bourlingueurs des mers ou que des filles de joie. Au rythme de courses de voiliers, de bagarres et de bras de fer d'anthologie, Grégory Peck et Anthony Quinn campent un duo d'ennemis inséparables, comme Walsh les aime, dans une véritable ode à la mer et aux éléments déchaînés.  
-Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où il rencontre la comtesse Marina Selanova qui essaye désespérément d'échapper à un mariage avec le Prince Semyon, un prétendant imposé par le tsar.
+Jonathan Clark, capitaine du « Pilgrim », tombe amoureux de la comtesse Marina Selanova, qui tente désespérément d'échapper à un mariage avec le prince Semyon, un prétendant imposé par le tsar.
 
 - Sa 9 sep 18h00 HL
 
@@ -592,9 +595,9 @@ Jonathan Clark, capitaine du « Pilgrim », revient au port de San Francisco où
 **The Mystery of the Hindu Image**  
 de Raoul Walsh  
 États-Unis / 1914 / 28 min / INT. FR. / 35 mm  
-Avec Nick Cage, Dark Cloud, Richard Cummings.  
+Avec Raoul Walsh, Nick Cage, Dark Cloud.  
 L'un des tout premiers courts métrages de Walsh, enquête policière qu'il réalise et interprète, dans une copie 35 mm restaurée.  
-Emprisonné la veille de son mariage pour le meurtre du propriétaire d'un talisman hindou, John Stafford parvient à s'échapper tandis qu'un détective engagé par sa fiancée démasque les véritables assassins.
+Emprisonné pour meurtre la veille de son mariage, John Stafford parvient à s'échapper tandis qu'un détective engagé par sa fiancée démasque les véritables assassins.
 
 - Me 4 oct 18h30 JE
 
@@ -605,8 +608,8 @@ de Raoul Walsh
 États-Unis / 1935 / 80 min / VOSTF / 16 mm  
 Avec George Raft, Alice Faye, Frances Langford.  
 Un film musical qui suit l'itinéraire d'un trio de chanteuses sans le sou, inscrites au concours amateur d'une station de radio. Dans le rôle du chef d'orchestre, George Raft, avant qu'il ne devienne un visage familier des films de gangsters.  
-Trois jeunes employés formant un trio vocal deviennent des vedette de la radio.  
-Copie de la collection Jon Davison à l' Academy Film Archive.
+Après avoir été licenciées par leur patron, trois chanteuses dans le besoin remportent un radio-crochet et deviennent des vedettes.  
+Copie de la collection Jon Davison à l'Academy Film Archive.
 
 - Di 15 oct 17h45 GF
 

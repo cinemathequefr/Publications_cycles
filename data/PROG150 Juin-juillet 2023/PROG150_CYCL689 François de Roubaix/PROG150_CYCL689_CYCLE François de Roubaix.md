@@ -62,7 +62,7 @@ D'après le roman _Le Haut-fer_ de José Giovanni.
 Avec Bourvil, Lino Ventura, Marie Dubois, Jean-Claude Rolland.  
 Hector Valentin revient dans ses Vosges natales pour gérer la scierie familiale. Pour faire face à Therraz, son concurrent, il embauche plusieurs repris de justice comme main-d'œuvre bon marché.
 
-- Di 25 juin 16h15 GF  
+- Di 25 juin 16h45 GF  
 Film précédé de _Thaumetopoea_ de Robert Enrico
 
 [39701]  
@@ -92,7 +92,7 @@ France-Italie-Mexique / 1967 / 35 mm
 Avec Lino Ventura, Rosa Furman, Xavier Marc.  
 En 1938, des révolutionnaires cherchent à assassiner le président d'un pays sud-américain. Ils engagent un tueur professionnel, qui accepte de mauvaise grâce que le propre petit-fils du président soit crédité du meurtre afin de passer pour un héros national.
 
-- Di 25 juin 19h15 GF
+- Di 25 juin 19h45 GF
 
 [50143]  
 **Le Samouraï**  
@@ -122,7 +122,7 @@ de Robert Enrico
 France / 1960 / 23 min / DCP  
 À sa sortie de l'IDHEC, Robert Enrico réalise des courts métrages industriels et agricoles. _Thaumetopoea_ décrit le cycle biologique et l'incroyable instinct de survie collective de la chenille processionnaire du pin.
 
-- Di 25 juin 16h15 GF  
+- Di 25 juin 16h45 GF  
 Film suivi de _Les Grandes Gueules_ de Robert Enrico
 
 ## Autour de François de Roubaix

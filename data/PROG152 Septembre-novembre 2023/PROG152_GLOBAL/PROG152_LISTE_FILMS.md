@@ -243,12 +243,12 @@
   * Hors du gouffre  
   * Implacables (Les)  
   * Intrigues en Orient  
-  * Kindred of the Dust (The)  
+  * Kindred of the Dust  
   * Loves of Carmen (The)  
   * Lucky Lady (The)  
   * Man I Love (The)  
   * Marines, Let's Go !  
-  * Mon ami et moi  
+  * Mon amie et moi  
   * Monde lui appartient (Le)  
   * Mystery of the Hindu Image (The)  
   * Nuit après nuit  
