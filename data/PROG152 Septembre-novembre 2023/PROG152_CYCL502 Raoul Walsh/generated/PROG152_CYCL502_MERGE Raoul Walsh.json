@@ -1643,12 +1643,12 @@
           ]
         },
         {
-          "idSeance": 104520,
+          "idSeance": 104899,
           "ordre": 1,
-          "dateHeure": "2023-09-14T18:00:00",
+          "dateHeure": "2023-09-27T19:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 135,
           "idCategorie": 2286,
@@ -2297,6 +2297,46 @@
           ]
         },
         {
+          "idSeance": 104902,
+          "ordre": 1,
+          "dateHeure": "2023-10-08T14:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 2286,
+          "idEvenement": 26942,
+          "typeEvenement": 13,
+          "idFilm": 72462,
+          "art": "Le",
+          "titre": "Passeport jaune",
+          "artVo": "The",
+          "titreVo": "Yellow Ticket",
+          "realisateurs": "Raoul Walsh",
+          "annee": 1931,
+          "pays": "États-Unis",
+          "duree": 75,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Elissa Landi",
+            "Lionel Barrymore",
+            "Laurence Olivier"
+          ],
+          "adaptation": "D'après la pièce _The Yellow Ticket_ de Michael Morton.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Une évocation de la Russie tsariste dans laquelle Walsh reprend certains éléments d'inspiration expressionniste de _The Red Dance_, et livre une intrigue aussi pittoresque qu'inattendue : une jeune femme juive est contrainte d'utiliser le passeport jaune délivré aux prostituées, pour se rendre auprès de son père emprisonné."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "En 1913, dans la Russie tsariste, une jeune juive se fait passer pour une prostituée afin d'obtenir le passeport jaune nécessaire pour se déplacer librement. Alors qu'elle veut rejoindre son père emprisonné, elle rencontre un journaliste britannique et lui révèle la vérité sur la vie en Russie."
+            }
+          ]
+        },
+        {
           "idSeance": 104346,
           "ordre": 3,
           "dateHeure": "2023-08-31T18:30:00",
@@ -2572,12 +2612,14 @@
         {
           "idSeance": 104444,
           "ordre": 1,
-          "dateHeure": "2023-09-20T18:00:00",
+          "dateHeure": "2023-09-20T21:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104897,
           "idCategorie": 2286,
           "idEvenement": 26925,
           "typeEvenement": 13,
@@ -2721,12 +2763,12 @@
           ]
         },
         {
-          "idSeance": 104567,
+          "idSeance": 104898,
           "ordre": 1,
-          "dateHeure": "2023-09-28T20:30:00",
+          "dateHeure": "2023-09-14T18:00:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "dureeSeance": 135,
           "idCategorie": 2286,
@@ -3272,6 +3314,34 @@
           "intervenants": [
             {
               "nomComplet": "Pierre Gabaston",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        },
+        {
+          "idSeance": 104897,
+          "dateHeure": "2023-09-20T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104444,
+          "idCategorie": 3091,
+          "idEvenement": 28593,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "« Conférence Walsh » Par Jean-François Rauger",
+          "sousTitre": "Conférence de Jean-François Rauger",
+          "duree": 0,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Jean-François Rauger",
               "idFonction": 139,
               "fonction": "Conférencier",
               "ordre": 1

@@ -19,7 +19,7 @@ France / 1991 / 103 min / 35 mm
 Avec Fabienne Babe, Marc Vidal, Brigitte Roüan.  
 Les amour d'un adolescent de seize ans et d'une jeune femme qui habite en face de chez lui avec sa fille dans une petite ville de province.
 
-- Me 27 sep 20h30 GF  
+- Ve 29 sep 20h30 GF  
 Film précédé de _Les Dernières heures du millénaire_ de Cédric Kahn
 
 [132515]  
@@ -42,7 +42,7 @@ France / 1990 / 8 min / 35 mm
 Avec Laetitia Masson, Nathalie Richard.  
 Une jeune femme quitte pendant la nuit l'homme avec qui elle vit. Le lendemain, elle cherche toute la journée, en vain, un endroit où dormir. Elle décide de rentrer chez elle
 
-- Me 27 sep 20h30 GF  
+- Ve 29 sep 20h30 GF  
 Film suivi de _Bar des rails_ de Cédric Kahn
 
 [63979]  

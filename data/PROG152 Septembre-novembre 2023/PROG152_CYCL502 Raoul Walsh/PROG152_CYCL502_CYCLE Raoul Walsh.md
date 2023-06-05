@@ -466,7 +466,7 @@ Avec Edmond O'Brien, Robert Stack, John Rodney.
 Les exploits d'une escadrille de bombardiers américains pendant la Deuxième Guerre mondiale. Combinant habilement scènes de fiction et extraits d'actualité de l'US Air Force, l'unique film d'aviation de Walsh est aussi sa première production en couleurs (Technicolor) et marque les débuts discrets de Rock Hudson à l'écran.  
 Membre d'une escadrille basée en Angleterre pendant la Seconde Guerre mondiale, le capitaine Hamilton accomplit un acte héroïque, qui sauve la vie du sévère major Hardin. Autorisé à rentrer aux États-Unis mais contraint par son ordre de rester célibataire, il s'attire les foudres de son supérieur en annonçant son prochain mariage.
 
-- Je 14 sep 18h00 HL
+- Me 27 sep 19h30 GF
 
 [36808]  
 **Gentleman Jim**  
@@ -662,6 +662,18 @@ Un dimanche après-midi, Biff Grimes, un dentiste de New York, se remémore le b
 
 - Lu 6 nov 20h30 GF
 
+[72462]  
+**Le Passeport jaune**  
+**(The Yellow Ticket)**  
+de Raoul Walsh  
+États-Unis / 1931 / 75 min / VOSTF / DCP  
+D'après la pièce _The Yellow Ticket_ de Michael Morton.  
+Avec Elissa Landi, Lionel Barrymore, Laurence Olivier.  
+Une évocation de la Russie tsariste dans laquelle Walsh reprend certains éléments d'inspiration expressionniste de _The Red Dance_, et livre une intrigue aussi pittoresque qu'inattendue : une jeune femme juive est contrainte d'utiliser le passeport jaune délivré aux prostituées, pour se rendre auprès de son père emprisonné.  
+En 1913, dans la Russie tsariste, une jeune juive se fait passer pour une prostituée afin d'obtenir le passeport jaune nécessaire pour se déplacer librement. Alors qu'elle veut rejoindre son père emprisonné, elle rencontre un journaliste britannique et lui révèle la vérité sur la vie en Russie.
+
+- Di 8 oct 14h30 JE
+
 [36848]  
 **Pillars of Society**  
 de Raoul Walsh, George Nicholls  
@@ -731,7 +743,8 @@ Avec Clark Gable, Eleanor Parker, Jo Van Fleet.
 Gorgé de gags irrévérencieux, _Le Roi et Quatre Reines_ tient autant du western que de la comédie. Au cœur d'un gynécée implacable, Clark Gable joue le roi irrésistible d'une partie de chasse au trésor et d'un jeu de séduction aussi sensuel que cynique.  
 Au début du XX<sup>e</sup> siècle, les frères McDade se sont emparés de 100 000 dollars en or. Alors que trois d'entre eux ont été tués par une explosion, le dernier reste introuvable. Leur mère, Ma, qui connaît la cachette du trésor, attend son retour.
 
-- Me 20 sep 18h00 HL
+- Me 20 sep 21h15 HL  
+Voir aussi conférence p. xx
 
 [36813]  
 **La Ruelle du péché**  
@@ -775,7 +788,7 @@ Avec Errol Flynn, Paul Lukas, Lucile Watson.
 Plus qu'un film de guerre, un film noir sur fond d'occupation allemande, qui suit, dans la France de 1943, le face à face tendu entre un repris de justice et l'inspecteur qui le ramène à Paris. Aux côtés de l'excellent Paul Lukas, Errol Flynn campe l'un de ses personnages les plus ambigus, naviguant entre égoïsme et rédemption.  
 Pendant la Seconde Guerre mondiale, dans un Paris occupé, un homme coupable de vol et de meurtre est sur le point d'être mis à mort. L'occasion de s'échapper se présente lorsqu'une bombe alliée s'abat sur la prison.
 
-- Je 28 sep 20h30 GF
+- Je 14 sep 18h00 HL
 
 [85152]  
 **Le Singe qui parle**  
@@ -926,4 +939,10 @@ Restauré par UCLA Film & Television Archive.
 **Conférence de Pierre Gabaston**
 
 - Di 17 sep 16h15 HL
+
+**« Conférence Walsh » Par Jean-François Rauger**  
+**Conférence de Jean-François Rauger**
+
+- Me 20 sep 19h00 HL  
+À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _Le Roi et quatre reines_ de Raoul Walsh (voir p. xx)
 

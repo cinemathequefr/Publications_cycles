@@ -106,7 +106,7 @@ Avec Caroline Ducey, Sagamore Stévenin, Rocco Siffredi.
 Précédé d'une réputation sulfureuse, _Romance_ suit l'errance identitaire et sexuelle de Marie, en quête de sensualité. Quittant le lit glacé de Paul pour les mains expertes d'aventures masculines, la jeune femme trouvera l'extase et la consolation dans les jeux de soumission/domination de Robert. Mis en lumière par Yorgos Arvanitis (chef opérateur attitré d'Angelopoulos), le corps immaculé de l'héroïne bientôt ranimé par l'étoffe rouge d'une robe – celle qui traverse toute l'œuvre de Breillat –, visite tous les fantasmes jusqu'à l'enfantement libérateur. Aussi déroutante que fascinante, une œuvre chauffée à blanc qui a su se tailler un succès à travers le monde.  
 Frustrée dans son couple, une jeune femme se laisse séduire par un inconnu. Cette première aventure la pousse à multiplier les relations éphémères, où elle s'initie à de nouvelles expériences.
 
-- Me 20 sep 20h45 GF
+- Sa 23 sep 18h30 GF
 
 [47115]  
 **Sale comme un ange**  
@@ -126,7 +126,7 @@ Avec Anne Parillaud, Grégoire Colin, Roxane Mesquida.
 Les dessous d'un tournage émaillé d'incidents et de psychodrames, qui permettent à Breillat d'évoquer, par une mise en abyme, les rapports que la réalisatrice entretient avec son équipe. En double tyrannique, Anne Parillaud se débat, exigeant le meilleur de ses acteurs, pour qu'une scène de sexe devienne un moment de grâce.  
 Sur le tournage de son nouveau film, Jeanne rencontre des difficultés avec ses acteurs principaux, incapables de jouer les scènes d'amour demandées. Alors qu'elle s'efforce de trouver un terrain d'entente avec eux, ils refusent de suivre ses instructions.
 
-- Sa 23 sep 18h30 GF
+- Me 20 sep 20h45 GF
 
 [47116]  
 **Tapage nocturne**  

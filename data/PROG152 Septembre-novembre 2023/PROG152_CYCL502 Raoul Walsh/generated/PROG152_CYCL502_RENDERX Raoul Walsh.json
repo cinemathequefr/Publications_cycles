@@ -1279,9 +1279,9 @@
           ],
           "seances": [
             {
-              "idSeance": 104520,
-              "dateHeure": "2023-09-14T18:00:00",
-              "idSalle": "HL"
+              "idSeance": 104899,
+              "dateHeure": "2023-09-27T19:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1820,6 +1820,39 @@
           ]
         },
         {
+          "idFilm": 72462,
+          "content": [
+            {
+              "idFilm": 72462,
+              "ordre": 1,
+              "titre": "Passeport jaune",
+              "art": "Le",
+              "titreVo": "Yellow Ticket",
+              "artVo": "The",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1931,
+              "duree": 75,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après la pièce _The Yellow Ticket_ de Michael Morton.",
+              "generique": [
+                "Elissa Landi",
+                "Lionel Barrymore",
+                "Laurence Olivier"
+              ],
+              "miniTexte": "Une évocation de la Russie tsariste dans laquelle Walsh reprend certains éléments d'inspiration expressionniste de _The Red Dance_, et livre une intrigue aussi pittoresque qu'inattendue : une jeune femme juive est contrainte d'utiliser le passeport jaune délivré aux prostituées, pour se rendre auprès de son père emprisonné."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104902,
+              "dateHeure": "2023-10-08T14:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 36848,
           "content": [
             {
@@ -1985,34 +2018,61 @@
           ]
         },
         {
-          "idFilm": 36825,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 28593,
+              "content": [
+                {
+                  "idConf": 28593,
+                  "titre": "« Conférence Walsh » Par Jean-François Rauger",
+                  "sousTitre": "Conférence de Jean-François Rauger",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104897,
+                  "idSeanceAssoc": 104444,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-09-20T19:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _Le Roi et quatre reines_ de Raoul Walsh"
+                }
+              ]
+            },
             {
               "idFilm": 36825,
-              "ordre": 1,
-              "titre": "Roi et quatre reines",
-              "art": "Le",
-              "titreVo": "King and Four Queens",
-              "artVo": "The",
-              "realisateurs": "Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1956,
-              "duree": 86,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Clark Gable",
-                "Eleanor Parker",
-                "Jo Van Fleet"
+              "content": [
+                {
+                  "idFilm": 36825,
+                  "ordre": 1,
+                  "titre": "Roi et quatre reines",
+                  "art": "Le",
+                  "titreVo": "King and Four Queens",
+                  "artVo": "The",
+                  "realisateurs": "Raoul Walsh",
+                  "pays": "États-Unis",
+                  "annee": 1956,
+                  "duree": 86,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Clark Gable",
+                    "Eleanor Parker",
+                    "Jo Van Fleet"
+                  ],
+                  "miniTexte": "Gorgé de gags irrévérencieux, _Le Roi et Quatre Reines_ tient autant du western que de la comédie. Au cœur d'un gynécée implacable, Clark Gable joue le roi irrésistible d'une partie de chasse au trésor et d'un jeu de séduction aussi sensuel que cynique."
+                }
               ],
-              "miniTexte": "Gorgé de gags irrévérencieux, _Le Roi et Quatre Reines_ tient autant du western que de la comédie. Au cœur d'un gynécée implacable, Clark Gable joue le roi irrésistible d'une partie de chasse au trésor et d'un jeu de séduction aussi sensuel que cynique."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104444,
-              "dateHeure": "2023-09-20T18:00:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 104444,
+                  "idSeanceAssoc": 104444,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-09-20T21:15:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -2132,9 +2192,9 @@
           ],
           "seances": [
             {
-              "idSeance": 104567,
-              "dateHeure": "2023-09-28T20:30:00",
-              "idSalle": "GF"
+              "idSeance": 104898,
+              "dateHeure": "2023-09-14T18:00:00",
+              "idSalle": "HL"
             }
           ]
         },

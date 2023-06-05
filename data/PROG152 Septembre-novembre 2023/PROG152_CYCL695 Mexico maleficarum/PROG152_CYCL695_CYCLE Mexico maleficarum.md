@@ -79,7 +79,7 @@ L'un des volets les plus mémorables de la série des Santo, où un catcheur mex
 
 [154264]  
 **Museo del horror**  
-de Rafael Baledon  
+de Rafael Baledón  
 Mexique / 1964 / 85 min / VOSTF / DCP  
 Avec Julio Alemán, Patricia Conde, Joaquín Cordero.  
 En hommage à _House of Wax_, Baledón signe un _whodunit_ paranoïaque, influencé par l'horreur gothique des années 30 et la littérature pulp. À la frontière du giallo, cette traque d'un meurtrier fait monter crescendo la tension dans un inquiétant Mexico urbain, où le réalisme des enlèvements suscite la terreur.

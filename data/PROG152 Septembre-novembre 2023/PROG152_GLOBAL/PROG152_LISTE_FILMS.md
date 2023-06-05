@@ -213,7 +213,7 @@
   * Valentin Valentin  
   * Zozos (Les)
 
-## Raoul Walsh (79)
+## Raoul Walsh (80)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -272,6 +272,7 @@
   * Nuit après nuit  
   * Nus et les morts (Les)  
   * One Sunday Afternoon  
+  * Passeport jaune (Le)  
   * Pillars of Society  
   * Piste des géants (La)  
   * Regeneration  

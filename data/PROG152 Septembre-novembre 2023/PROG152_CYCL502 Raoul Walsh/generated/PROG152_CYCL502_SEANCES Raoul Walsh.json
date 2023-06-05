@@ -570,8 +570,8 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 26878,
-    "idSeance": 104520,
+    "idEvenement": 26919,
+    "idSeance": 104898,
     "dateHeure": "2023-09-14T18:00:00",
     "idSalle": [
       "HL",
@@ -580,11 +580,11 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 36787,
+        "idFilm": 36878,
         "ordre": 1,
-        "idSeance": 104520,
-        "idCopie": 25947,
-        "duree": 96,
+        "idSeance": 104898,
+        "idCopie": 25985,
+        "duree": 102,
         "version": "VOSTF",
         "format": "16 mm"
       }
@@ -836,16 +836,35 @@
     ]
   },
   {
+    "idCategorie": 3091,
+    "typeEvenement": 14,
+    "idEvenement": 28593,
+    "idSeance": 104897,
+    "dateHeure": "2023-09-20T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "idSeanceAssoc": 104444,
+    "typeAssoc": 117,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 2286,
     "typeEvenement": 13,
     "idEvenement": 26925,
     "idSeance": 104444,
-    "dateHeure": "2023-09-20T18:00:00",
+    "dateHeure": "2023-09-20T21:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "idSeanceAssoc": 104897,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 36825,
@@ -1091,9 +1110,9 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 26919,
-    "idSeance": 104567,
-    "dateHeure": "2023-09-28T20:30:00",
+    "idEvenement": 26878,
+    "idSeance": 104899,
+    "dateHeure": "2023-09-27T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1101,11 +1120,11 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 36878,
+        "idFilm": 36787,
         "ordre": 1,
-        "idSeance": 104567,
-        "idCopie": 25985,
-        "duree": 102,
+        "idSeance": 104899,
+        "idCopie": 25947,
+        "duree": 96,
         "version": "VOSTF",
         "format": "16 mm"
       }
@@ -1448,6 +1467,29 @@
         "duree": 118,
         "version": "VOSTF",
         "format": "16 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2286,
+    "typeEvenement": 13,
+    "idEvenement": 26942,
+    "idSeance": 104902,
+    "dateHeure": "2023-10-08T14:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 72462,
+        "ordre": 1,
+        "idSeance": 104902,
+        "idCopie": 26132,
+        "duree": 75,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
