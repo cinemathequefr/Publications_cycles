@@ -21,18 +21,17 @@ Avec Michael Sopkiw, George Eastman, Michele Soavi.
 
 - Ve 1 sep 21h00 GF
 
-## Horreur, années 70
+## Science-fiction, années 70 et 80
 
 [49582]  
 **Spectre**  
 **(The Boogey Man)**  
 d'Ulli Lommel  
 États-Unis / 1981 / 82 min / VF / 35 mm  
-Avec John Carradine.
+Avec John Carradine, Suzanna Love, Ron James.  
+Willy, un petit garçon régulièrement maltraité par l'amant de sa mère, finit par massacrer ce dernier à coups de couteau sous les yeux impuissants de sa petite sœur Lacey. Vingt ans plus tard Lacey et Willy tentent d'oublier ce drame vécu dans leur enfance.
 
 - Ve 8 sep 19h00 GF
-
-## Science-fiction, années 70 et 80
 
 [56303]  
 **Frankenstein 2000, the vindicator**  
@@ -83,7 +82,8 @@ Un jeune inspecteur de police séduit la maîtresse d'un gangster pour neutralis
 de Joël Le Moigné  
 France / 1981 / 95 min / 35 mm  
 D'après le roman _Les Filles de Grenoble_ de Paul Lefèvre.  
-Avec Zoé Chauveau, André Dussollier, Alain Doutey.
+Avec Zoé Chauveau, André Dussollier, Alain Doutey.  
+A Grenoble, une prostituée est assassinée dans son lit d'hôpital. Son amie Cora, vingt-deux ans et elle aussi prostituée, se décide à parler au juge Le Pérec.
 
 - Ve 20 oct 21h00 GF
 

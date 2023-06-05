@@ -95,6 +95,28 @@
         "version": "",
         "seances": [
           {
+            "idSeance": 104860,
+            "ordre": 1,
+            "dateHeure": "2023-11-15T20:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film suivi de _Fairfax Avenue_ de Jerry Lewis, _The Re-Inforcer_ de Jerry Lewis"
+          },
+          {
+            "idSeance": 104892,
+            "ordre": 1,
+            "dateHeure": "2023-11-16T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film suivi de _Fairfax Avenue_ de Jerry Lewis, _The Re-Inforcer_ de Jerry Lewis"
+          },
+          {
             "idSeance": 104891,
             "ordre": 1,
             "dateHeure": "2023-11-18T20:00:00",
@@ -202,6 +224,28 @@
         "format": "",
         "version": "",
         "seances": [
+          {
+            "idSeance": 104860,
+            "ordre": 2,
+            "dateHeure": "2023-11-15T20:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Come Back Little Shiksa_ de Jerry Lewis et suivi de de _The Re-Inforcer_ de Jerry Lewis"
+          },
+          {
+            "idSeance": 104892,
+            "ordre": 2,
+            "dateHeure": "2023-11-16T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Come Back Little Shiksa_ de Jerry Lewis et suivi de de _The Re-Inforcer_ de Jerry Lewis"
+          },
           {
             "idSeance": 104891,
             "ordre": 2,
@@ -385,16 +429,31 @@
             "texte": "L'organisation criminelle de Joe Lasagna (Dean Martin) se voit menacée par la nouvelle garde et son chef (Tony Curtis). Pastiche d'Humphrey Bogart dans _La Femme à abattre_."
           }
         ],
+        "duree": 45,
+        "format": "",
+        "version": "",
         "seances": [
           {
             "idSeance": 104860,
-            "ordre": 1,
+            "ordre": 3,
             "dateHeure": "2023-11-15T20:30:00",
             "idSalle": [
               "GF",
               "Georges Franju"
             ],
-            "typeEvenement": 13
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Come Back Little Shiksa_ de Jerry Lewis, _Fairfax Avenue_ de Jerry Lewis"
+          },
+          {
+            "idSeance": 104892,
+            "ordre": 3,
+            "dateHeure": "2023-11-16T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeEvenement": 13,
+            "precedeSuivi": "Film précédé de _Come Back Little Shiksa_ de Jerry Lewis, _Fairfax Avenue_ de Jerry Lewis"
           },
           {
             "idSeance": 104891,
@@ -476,20 +535,10 @@
           "Helen Traubel",
           "Kathleen Freeman"
         ],
-        "duree": 110,
-        "format": "35 mm",
-        "version": "",
+        "duree": 106,
+        "format": "DCP",
+        "version": "VOSTF",
         "seances": [
-          {
-            "idSeance": 104892,
-            "ordre": 1,
-            "dateHeure": "2023-11-16T20:00:00",
-            "idSalle": [
-              "GF",
-              "Georges Franju"
-            ],
-            "typeEvenement": 13
-          },
           {
             "idSeance": 104595,
             "ordre": 1,

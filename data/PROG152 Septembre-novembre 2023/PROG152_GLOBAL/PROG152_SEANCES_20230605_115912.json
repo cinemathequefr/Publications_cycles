@@ -27,7 +27,7 @@
   },
   {
     "idSeance": 104346,
-    "idEvenement": 26911,
+    "idEvenement": 28260,
     "dateHeure": "2023-08-31T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -38,6 +38,25 @@
     ],
     "items": [
       {
+        "idFilm": 154409,
+        "titre": "Democratic National Convention New York City 1924",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1924,
+        "duree": 3,
+        "version": "STF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154408,
+        "titre": "Mystery of the Hindu Image",
+        "art": "The",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1914,
+        "duree": 28,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
         "idFilm": 36848,
         "titre": "Pillars of Society",
         "realisateurs": "Raoul Walsh, George Nicholls",
@@ -47,7 +66,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f36848"
+    "hashEvenement": "f154409f154408f36848"
   },
   {
     "idSeance": 104453,
@@ -125,6 +144,30 @@
     "hashEvenement": "f67404"
   },
   {
+    "idSeance": 104390,
+    "idEvenement": 28129,
+    "dateHeure": "2023-09-01T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Vendetta !"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 120411,
+        "titre": "Vengeance",
+        "realisateurs": "Bob Blizz",
+        "annee": 1980,
+        "duree": 91,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f120411"
+  },
+  {
     "idSeance": 104353,
     "idEvenement": 26880,
     "dateHeure": "2023-09-01T20:15:00",
@@ -138,7 +181,7 @@
     "items": [
       {
         "idFilm": 36814,
-        "titre": "Grande évasion",
+        "titre": "Grande Évasion",
         "art": "La",
         "realisateurs": "Raoul Walsh",
         "annee": 1940,
@@ -148,6 +191,30 @@
       }
     ],
     "hashEvenement": "f36814"
+  },
+  {
+    "idSeance": 104391,
+    "idEvenement": 27604,
+    "dateHeure": "2023-09-01T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Vendetta !"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 56667,
+        "titre": "Blastfighter, l'exécuteur",
+        "realisateurs": "Lamberto Bava",
+        "annee": 1984,
+        "duree": 87,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f56667"
   },
   {
     "idSeance": 104358,
@@ -527,8 +594,7 @@
     "items": [
       {
         "idFilm": 37734,
-        "titre": "Désert de la peur = Une corde pour te pendre",
-        "art": "Le",
+        "titre": "Une corde pour te pendre",
         "realisateurs": "Raoul Walsh",
         "annee": 1951,
         "duree": 88,
@@ -564,6 +630,30 @@
     "hashEvenement": "f45139"
   },
   {
+    "idSeance": 104396,
+    "idEvenement": 28379,
+    "dateHeure": "2023-09-08T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Science-fiction, années 70 et 80"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49582,
+        "titre": "Spectre",
+        "realisateurs": "Ulli Lommel",
+        "annee": 1981,
+        "duree": 82,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f49582"
+  },
+  {
     "idSeance": 104371,
     "idEvenement": 26924,
     "dateHeure": "2023-09-08T20:15:00",
@@ -587,6 +677,30 @@
       }
     ],
     "hashEvenement": "f37802"
+  },
+  {
+    "idSeance": 104397,
+    "idEvenement": 28192,
+    "dateHeure": "2023-09-08T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Science-fiction, années 70 et 80"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 56303,
+        "titre": "Frankenstein 2000, the vindicator",
+        "realisateurs": "Jean-Claude Lord",
+        "annee": 1984,
+        "duree": 92,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f56303"
   },
   {
     "idSeance": 104811,
@@ -624,6 +738,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Matthieu Orléan",
     "items": [
       {
         "idFilm": 49481,
@@ -638,8 +753,8 @@
     "hashEvenement": "f49481"
   },
   {
-    "idSeance": 104401,
-    "idEvenement": 28431,
+    "idSeance": 104402,
+    "idEvenement": 28445,
     "dateHeure": "2023-09-09T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -650,17 +765,15 @@
     ],
     "items": [
       {
-        "idFilm": 35221,
-        "titre": "Femme modèle",
+        "idFilm": 48724,
+        "titre": "Mariée est trop belle",
         "art": "La",
-        "realisateurs": "Vincente Minnelli",
-        "annee": 1957,
-        "duree": 117,
-        "version": "VOSTF",
+        "realisateurs": "Pierre Gaspard-Huit",
+        "annee": 1956,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35221"
+    "hashEvenement": "f48724"
   },
   {
     "idSeance": 104375,
@@ -688,8 +801,8 @@
     "hashEvenement": "f36863"
   },
   {
-    "idSeance": 104402,
-    "idEvenement": 28445,
+    "idSeance": 104401,
+    "idEvenement": 28431,
     "dateHeure": "2023-09-09T20:00:00",
     "salle": "GF",
     "cycle": [
@@ -700,15 +813,17 @@
     ],
     "items": [
       {
-        "idFilm": 48724,
-        "titre": "Mariée est trop belle",
+        "idFilm": 35221,
+        "titre": "Femme modèle",
         "art": "La",
-        "realisateurs": "Pierre Gaspard-Huit",
-        "annee": 1956,
+        "realisateurs": "Vincente Minnelli",
+        "annee": 1957,
+        "duree": 117,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f48724"
+    "hashEvenement": "f35221"
   },
   {
     "idSeance": 104651,
@@ -728,6 +843,7 @@
         "art": "La",
         "realisateurs": "Raoul Walsh",
         "annee": 1947,
+        "duree": 100,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -1037,8 +1153,8 @@
     "hashEvenement": "f47116"
   },
   {
-    "idSeance": 104520,
-    "idEvenement": 26878,
+    "idSeance": 104898,
+    "idEvenement": 26919,
     "dateHeure": "2023-09-14T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -1049,17 +1165,16 @@
     ],
     "items": [
       {
-        "idFilm": 36787,
-        "titre": "Géants du ciel",
-        "art": "Les",
+        "idFilm": 36878,
+        "titre": "Saboteur sans gloire",
         "realisateurs": "Raoul Walsh",
-        "annee": 1948,
-        "duree": 96,
+        "annee": 1944,
+        "duree": 102,
         "version": "VOSTF",
         "format": "16 mm"
       }
     ],
-    "hashEvenement": "f36787"
+    "hashEvenement": "f36878"
   },
   {
     "idSeance": 104418,
@@ -1075,10 +1190,10 @@
     "items": [
       {
         "idFilm": 79825,
-        "titre": "Un lion dans la rue = L'Homme à abattre",
+        "titre": "Un lion dans la rue",
         "realisateurs": "Raoul Walsh",
         "annee": 1953,
-        "duree": 87,
+        "duree": 88,
         "version": "VOSTF",
         "format": "16 mm"
       }
@@ -1099,7 +1214,7 @@
     "items": [
       {
         "idFilm": 36604,
-        "titre": "Belle espionne",
+        "titre": "Belle Espionne",
         "art": "La",
         "realisateurs": "Raoul Walsh",
         "annee": 1953,
@@ -1109,6 +1224,30 @@
       }
     ],
     "hashEvenement": "f36604"
+  },
+  {
+    "idSeance": 104799,
+    "idEvenement": 28596,
+    "dateHeure": "2023-09-15T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Soirée grecque"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 134589,
+        "titre": "Dans le cercle du vice",
+        "realisateurs": "Omiros Efstratiadis",
+        "annee": 1972,
+        "duree": 100,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f134589"
   },
   {
     "idSeance": 104420,
@@ -1133,6 +1272,31 @@
       }
     ],
     "hashEvenement": "f79791"
+  },
+  {
+    "idSeance": 104800,
+    "idEvenement": 28562,
+    "dateHeure": "2023-09-15T21:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Soirée grecque"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154472,
+        "titre": "Nuits galantes d'une infidèle",
+        "art": "Les",
+        "realisateurs": "Omiros Efstratiadis",
+        "annee": 1973,
+        "duree": 90,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f154472"
   },
   {
     "idSeance": 104784,
@@ -1197,7 +1361,7 @@
         "idFilm": 47115,
         "titre": "Sale comme un ange",
         "realisateurs": "Catherine Breillat",
-        "annee": 1990,
+        "annee": 1991,
         "duree": 105
       }
     ],
@@ -1244,7 +1408,7 @@
         "idFilm": 60437,
         "titre": "Parfait Amour !",
         "realisateurs": "Catherine Breillat",
-        "annee": 1995,
+        "annee": 1996,
         "duree": 113,
         "format": "35 mm"
       }
@@ -1457,7 +1621,7 @@
     "items": [
       {
         "idFilm": 37834,
-        "titre": "Esther et le roi",
+        "titre": "Esther et le Roi",
         "realisateurs": "Raoul Walsh, Mario Bava",
         "annee": 1960,
         "duree": 108,
@@ -1468,9 +1632,78 @@
     "hashEvenement": "f37834"
   },
   {
+    "idSeance": 104804,
+    "idEvenement": 28437,
+    "dateHeure": "2023-09-20T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma et mode, 20 indispensables",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Jean-François Rauger",
+    "items": [
+      {
+        "idFilm": 76324,
+        "titre": "Zoolander",
+        "realisateurs": "Ben Stiller",
+        "annee": 2000,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f76324"
+  },
+  {
+    "idSeance": 104897,
+    "idEvenement": 28593,
+    "dateHeure": "2023-09-20T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Raoul Walsh",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 28593,
+        "titre": "« Conférence Walsh » Par Jean-François Rauger",
+        "sousTitre": "Conférence de Jean-François Rauger",
+        "typeConference": "Conférence"
+      }
+    ],
+    "hashEvenement": "c28593"
+  },
+  {
+    "idSeance": 104896,
+    "idEvenement": 28295,
+    "dateHeure": "2023-09-20T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Catherine Breillat",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79126,
+        "titre": "Sex Is Comedy",
+        "realisateurs": "Catherine Breillat",
+        "annee": 2002,
+        "duree": 93,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f79126"
+  },
+  {
     "idSeance": 104444,
     "idEvenement": 26925,
-    "dateHeure": "2023-09-20T18:00:00",
+    "dateHeure": "2023-09-20T21:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1491,53 +1724,6 @@
       }
     ],
     "hashEvenement": "f36825"
-  },
-  {
-    "idSeance": 104804,
-    "idEvenement": 28437,
-    "dateHeure": "2023-09-20T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cinéma et mode, 20 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 76324,
-        "titre": "Zoolander",
-        "realisateurs": "Ben Stiller",
-        "annee": 2000,
-        "duree": 89,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f76324"
-  },
-  {
-    "idSeance": 104805,
-    "idEvenement": 28292,
-    "dateHeure": "2023-09-20T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Catherine Breillat",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 64238,
-        "titre": "Romance",
-        "realisateurs": "Catherine Breillat",
-        "annee": 1998,
-        "duree": 98,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f64238"
   },
   {
     "idSeance": 104508,
@@ -1667,6 +1853,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jean-François Rauger",
     "items": [
       {
         "idFilm": 83125,
@@ -1766,7 +1953,7 @@
     "items": [
       {
         "idFilm": 73479,
-        "titre": "À ma sœur",
+        "titre": "À ma sœur !",
         "realisateurs": "Catherine Breillat",
         "annee": 2000,
         "duree": 93,
@@ -1800,8 +1987,8 @@
     "hashEvenement": "f72584"
   },
   {
-    "idSeance": 104806,
-    "idEvenement": 28295,
+    "idSeance": 104895,
+    "idEvenement": 28292,
     "dateHeure": "2023-09-23T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -1812,15 +1999,15 @@
     ],
     "items": [
       {
-        "idFilm": 79126,
-        "titre": "Sex Is Comedy",
+        "idFilm": 64238,
+        "titre": "Romance",
         "realisateurs": "Catherine Breillat",
-        "annee": 2001,
-        "duree": 93,
+        "annee": 1999,
+        "duree": 98,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f79126"
+    "hashEvenement": "f64238"
   },
   {
     "idSeance": 104589,
@@ -1863,7 +2050,7 @@
         "idFilm": 88526,
         "titre": "Anatomie de l'enfer",
         "realisateurs": "Catherine Breillat",
-        "annee": 2003,
+        "annee": 2004,
         "duree": 100,
         "format": "35 mm"
       }
@@ -1959,7 +2146,7 @@
         "idFilm": 101896,
         "titre": "Une vieille maîtresse",
         "realisateurs": "Catherine Breillat",
-        "annee": 2006,
+        "annee": 2007,
         "duree": 114,
         "format": "35 mm"
       }
@@ -2063,41 +2250,9 @@
     "hashEvenement": "f57089"
   },
   {
-    "idSeance": 104547,
-    "idEvenement": 28502,
-    "dateHeure": "2023-09-27T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cédric Kahn",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 86127,
-        "titre": "Dernières heures du millénaire",
-        "art": "Les",
-        "realisateurs": "Cédric Kahn",
-        "annee": 1990,
-        "duree": 8,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 49412,
-        "titre": "Bar des rails",
-        "realisateurs": "Cédric Kahn",
-        "annee": 1991,
-        "duree": 103,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f86127f49412"
-  },
-  {
-    "idSeance": 104567,
-    "idEvenement": 26919,
-    "dateHeure": "2023-09-28T20:30:00",
+    "idSeance": 104899,
+    "idEvenement": 26878,
+    "dateHeure": "2023-09-27T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2107,16 +2262,17 @@
     ],
     "items": [
       {
-        "idFilm": 36878,
-        "titre": "Saboteur sans gloire",
+        "idFilm": 36787,
+        "titre": "Géants du ciel",
+        "art": "Les",
         "realisateurs": "Raoul Walsh",
-        "annee": 1944,
-        "duree": 102,
+        "annee": 1948,
+        "duree": 96,
         "version": "VOSTF",
         "format": "16 mm"
       }
     ],
-    "hashEvenement": "f36878"
+    "hashEvenement": "f36787"
   },
   {
     "idSeance": 104570,
@@ -2136,7 +2292,8 @@
         "art": "La",
         "realisateurs": "Raoul Walsh",
         "annee": 1951,
-        "version": "VO",
+        "duree": 79,
+        "version": "VOSTF",
         "format": "16 mm"
       }
     ],
@@ -2191,8 +2348,8 @@
     "hashEvenement": "f37753"
   },
   {
-    "idSeance": 104549,
-    "idEvenement": 28491,
+    "idSeance": 104547,
+    "idEvenement": 28502,
     "dateHeure": "2023-09-29T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -2203,14 +2360,71 @@
     ],
     "items": [
       {
-        "idFilm": 118386,
-        "titre": "Culpabilité zéro TV",
+        "idFilm": 86127,
+        "titre": "Dernières heures du millénaire",
+        "art": "Les",
         "realisateurs": "Cédric Kahn",
-        "annee": 1995,
-        "duree": 95
+        "annee": 1990,
+        "duree": 8,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 49412,
+        "titre": "Bar des rails",
+        "realisateurs": "Cédric Kahn",
+        "annee": 1991,
+        "duree": 103,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f118386"
+    "hashEvenement": "f86127f49412"
+  },
+  {
+    "idSeance": 104590,
+    "idEvenement": 28500,
+    "dateHeure": "2023-09-30T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Cédric Kahn",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 142635,
+        "titre": "Fête de famille",
+        "realisateurs": "Cédric Kahn",
+        "annee": 2018,
+        "duree": 100,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f142635"
+  },
+  {
+    "idSeance": 104869,
+    "idEvenement": 26888,
+    "dateHeure": "2023-09-30T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Raoul Walsh",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 85888,
+        "titre": "Hors du gouffre",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1931,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f85888"
   },
   {
     "idSeance": 104774,
@@ -2308,8 +2522,8 @@
     "hashEvenement": "f73961"
   },
   {
-    "idSeance": 104552,
-    "idEvenement": 28494,
+    "idSeance": 104874,
+    "idEvenement": 28495,
     "dateHeure": "2023-10-01T14:30:00",
     "salle": "GF",
     "cycle": [
@@ -2320,15 +2534,16 @@
     ],
     "items": [
       {
-        "idFilm": 88951,
-        "titre": "Feux rouges",
+        "idFilm": 97028,
+        "titre": "Avion",
+        "art": "L'",
         "realisateurs": "Cédric Kahn",
-        "annee": 2003,
-        "duree": 105,
+        "annee": 2004,
+        "duree": 100,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f88951"
+    "hashEvenement": "f97028"
   },
   {
     "idSeance": 104675,
@@ -2360,8 +2575,8 @@
     "hashEvenement": "f37710"
   },
   {
-    "idSeance": 104553,
-    "idEvenement": 28495,
+    "idSeance": 104875,
+    "idEvenement": 28494,
     "dateHeure": "2023-10-01T17:00:00",
     "salle": "GF",
     "cycle": [
@@ -2372,16 +2587,15 @@
     ],
     "items": [
       {
-        "idFilm": 97028,
-        "titre": "Avion",
-        "art": "L'",
+        "idFilm": 88951,
+        "titre": "Feux rouges",
         "realisateurs": "Cédric Kahn",
-        "annee": 2004,
-        "duree": 100,
+        "annee": 2003,
+        "duree": 105,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f97028"
+    "hashEvenement": "f88951"
   },
   {
     "idSeance": 104813,
@@ -2398,6 +2612,7 @@
       {
         "idFilm": 85148,
         "titre": "Deux aventuriers",
+        "art": "Les",
         "realisateurs": "Raoul Walsh",
         "annee": 1937,
         "duree": 87,
@@ -2575,7 +2790,7 @@
   },
   {
     "idSeance": 104512,
-    "idEvenement": 28259,
+    "idEvenement": 28260,
     "dateHeure": "2023-10-04T18:30:00",
     "salle": "JE",
     "cycle": [
@@ -2586,6 +2801,15 @@
     ],
     "items": [
       {
+        "idFilm": 154409,
+        "titre": "Democratic National Convention New York City 1924",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1924,
+        "duree": 3,
+        "version": "STF",
+        "format": "DCP"
+      },
+      {
         "idFilm": 154408,
         "titre": "Mystery of the Hindu Image",
         "art": "The",
@@ -2594,9 +2818,18 @@
         "duree": 28,
         "version": "INT. FR.",
         "format": "35 mm"
+      },
+      {
+        "idFilm": 36848,
+        "titre": "Pillars of Society",
+        "realisateurs": "Raoul Walsh, George Nicholls",
+        "annee": 1915,
+        "duree": 52,
+        "version": "INT. FR.",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154408"
+    "hashEvenement": "f154409f154408f36848"
   },
   {
     "idSeance": 104513,
@@ -2613,7 +2846,6 @@
       {
         "idFilm": 85155,
         "titre": "Kindred of the Dust",
-        "art": "The",
         "realisateurs": "Raoul Walsh",
         "annee": 1922,
         "duree": 92,
@@ -2647,8 +2879,8 @@
     "hashEvenement": "f57583"
   },
   {
-    "idSeance": 104558,
-    "idEvenement": 28500,
+    "idSeance": 104901,
+    "idEvenement": 28490,
     "dateHeure": "2023-10-04T20:45:00",
     "salle": "GF",
     "cycle": [
@@ -2659,15 +2891,15 @@
     ],
     "items": [
       {
-        "idFilm": 142635,
-        "titre": "Fête de famille",
+        "idFilm": 132515,
+        "titre": "Bonheur TV",
         "realisateurs": "Cédric Kahn",
-        "annee": 2018,
-        "duree": 100,
-        "format": "DCP"
+        "annee": 1994,
+        "duree": 60,
+        "format": "Vidéo"
       }
     ],
-    "hashEvenement": "f142635"
+    "hashEvenement": "f132515"
   },
   {
     "idSeance": 104770,
@@ -2691,29 +2923,6 @@
       }
     ],
     "hashEvenement": "f96024"
-  },
-  {
-    "idSeance": 104561,
-    "idEvenement": 28490,
-    "dateHeure": "2023-10-05T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cédric Kahn",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 132515,
-        "titre": "Bonheur TV",
-        "realisateurs": "Cédric Kahn",
-        "annee": 1994,
-        "duree": 60,
-        "format": "Vidéo"
-      }
-    ],
-    "hashEvenement": "f132515"
   },
   {
     "idSeance": 104668,
@@ -2964,6 +3173,7 @@
       {
         "idFilm": 81231,
         "titre": "Danse rouge",
+        "art": "La",
         "realisateurs": "Raoul Walsh",
         "annee": 1928,
         "duree": 103,
@@ -3068,6 +3278,31 @@
     "hashEvenement": "f64369"
   },
   {
+    "idSeance": 104902,
+    "idEvenement": 26942,
+    "dateHeure": "2023-10-08T14:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Raoul Walsh",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 72462,
+        "titre": "Passeport jaune",
+        "art": "Le",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1931,
+        "duree": 75,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f72462"
+  },
+  {
     "idSeance": 104708,
     "idEvenement": 28576,
     "dateHeure": "2023-10-08T15:00:00",
@@ -3158,7 +3393,9 @@
         "titre": "Faiblesse humaine",
         "realisateurs": "Raoul Walsh",
         "annee": 1927,
-        "duree": 95
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "Vidéo"
       }
     ],
     "hashEvenement": "f36861"
@@ -3307,6 +3544,29 @@
       }
     ],
     "hashEvenement": "f46330"
+  },
+  {
+    "idSeance": 104867,
+    "idEvenement": 25648,
+    "dateHeure": "2023-10-12T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Pascal Thomas",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 57018,
+        "titre": "Un oursin dans la poche",
+        "realisateurs": "Pascal Thomas",
+        "annee": 1977,
+        "duree": 98,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f57018"
   },
   {
     "idSeance": 104670,
@@ -3548,10 +3808,10 @@
     "hashEvenement": "f116400"
   },
   {
-    "idSeance": 104725,
-    "idEvenement": 26888,
-    "dateHeure": "2023-10-14T15:30:00",
-    "salle": "GF",
+    "idSeance": 104870,
+    "idEvenement": 26913,
+    "dateHeure": "2023-10-14T14:30:00",
+    "salle": "HL",
     "cycle": [
       [
         "Raoul Walsh",
@@ -3560,16 +3820,40 @@
     ],
     "items": [
       {
-        "idFilm": 85888,
-        "titre": "Hors du gouffre",
+        "idFilm": 36875,
+        "titre": "Voleur de Bagdad",
+        "art": "Le",
         "realisateurs": "Raoul Walsh",
-        "annee": 1931,
-        "duree": 85,
-        "version": "VOSTF",
-        "format": "16 mm"
+        "annee": 1924,
+        "duree": 140,
+        "version": "INT. FR.",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f85888"
+    "hashEvenement": "f36875"
+  },
+  {
+    "idSeance": 104868,
+    "idEvenement": 25661,
+    "dateHeure": "2023-10-14T15:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Pascal Thomas",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 125568,
+        "titre": "Valentin Valentin",
+        "realisateurs": "Pascal Thomas",
+        "annee": 2014,
+        "duree": 106,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f125568"
   },
   {
     "idSeance": 104458,
@@ -3609,7 +3893,7 @@
     "items": [
       {
         "idFilm": 36832,
-        "titre": "Mon ami et moi",
+        "titre": "Mon amie et moi",
         "realisateurs": "Raoul Walsh",
         "annee": 1932,
         "duree": 79,
@@ -3695,7 +3979,7 @@
   {
     "idSeance": 104728,
     "idEvenement": 26864,
-    "dateHeure": "2023-10-15T17:30:00",
+    "dateHeure": "2023-10-15T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3719,7 +4003,7 @@
   {
     "idSeance": 104729,
     "idEvenement": 26949,
-    "dateHeure": "2023-10-15T19:15:00",
+    "dateHeure": "2023-10-15T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3837,6 +4121,101 @@
     "hashEvenement": "f111965"
   },
   {
+    "idSeance": 104861,
+    "idEvenement": 26883,
+    "dateHeure": "2023-10-18T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Raoul Walsh",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 37658,
+        "titre": "Artistes et modèles",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1937,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f37658"
+  },
+  {
+    "idSeance": 104863,
+    "idEvenement": 28319,
+    "dateHeure": "2023-10-18T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "David Fincher",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 115282,
+        "titre": "Millénium : Les hommes qui n'aimaient pas les femmes",
+        "realisateurs": "David Fincher",
+        "annee": 2010,
+        "duree": 155,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f115282"
+  },
+  {
+    "idSeance": 104862,
+    "idEvenement": 26876,
+    "dateHeure": "2023-10-18T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Raoul Walsh",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41735,
+        "titre": "Au service de Sa Majesté",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1937,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f41735"
+  },
+  {
+    "idSeance": 104864,
+    "idEvenement": 28317,
+    "dateHeure": "2023-10-19T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "David Fincher",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 124663,
+        "titre": "Gone Girl",
+        "realisateurs": "David Fincher",
+        "annee": 2013,
+        "duree": 149,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f124663"
+  },
+  {
     "idSeance": 104703,
     "idEvenement": 28607,
     "dateHeure": "2023-10-19T19:00:00",
@@ -3856,6 +4235,30 @@
       }
     ],
     "hashEvenement": "c28607"
+  },
+  {
+    "idSeance": 104865,
+    "idEvenement": 28318,
+    "dateHeure": "2023-10-19T21:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "David Fincher",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 146087,
+        "titre": "Mank",
+        "realisateurs": "David Fincher",
+        "annee": 2019,
+        "duree": 131,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f146087"
   },
   {
     "idSeance": 104643,
@@ -3887,6 +4290,55 @@
       }
     ],
     "hashEvenement": "f79314f51559"
+  },
+  {
+    "idSeance": 104838,
+    "idEvenement": 28377,
+    "dateHeure": "2023-10-20T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Polar français des années 80"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 56519,
+        "titre": "Indic",
+        "art": "L'",
+        "realisateurs": "Serge Leroy",
+        "annee": 1982,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f56519"
+  },
+  {
+    "idSeance": 104839,
+    "idEvenement": 28378,
+    "dateHeure": "2023-10-20T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Polar français des années 80"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49812,
+        "titre": "Filles de Grenoble",
+        "art": "Les",
+        "realisateurs": "Joël Le Moigné",
+        "annee": 1981,
+        "duree": 95,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f49812"
   },
   {
     "idSeance": 104635,
@@ -3932,53 +4384,6 @@
     "hashEvenement": "c28610"
   },
   {
-    "idSeance": 104521,
-    "idEvenement": 28319,
-    "dateHeure": "2023-10-21T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "David Fincher",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 115282,
-        "titre": "Millénium : Les hommes qui n'aimaient pas les femmes",
-        "realisateurs": "David Fincher",
-        "annee": 2010,
-        "duree": 155,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f115282"
-  },
-  {
-    "idSeance": 104522,
-    "idEvenement": 28317,
-    "dateHeure": "2023-10-21T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "David Fincher",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 124663,
-        "titre": "Gone Girl",
-        "realisateurs": "David Fincher",
-        "annee": 2013,
-        "duree": 149,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f124663"
-  },
-  {
     "idSeance": 104681,
     "idEvenement": 28558,
     "dateHeure": "2023-10-22T15:00:00",
@@ -4001,78 +4406,6 @@
       }
     ],
     "hashEvenement": "f48037"
-  },
-  {
-    "idSeance": 104523,
-    "idEvenement": 28318,
-    "dateHeure": "2023-10-22T17:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "David Fincher",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 146087,
-        "titre": "Mank",
-        "realisateurs": "David Fincher",
-        "annee": 2019,
-        "duree": 131,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f146087"
-  },
-  {
-    "idSeance": 104731,
-    "idEvenement": 26883,
-    "dateHeure": "2023-10-23T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Raoul Walsh",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 37658,
-        "titre": "Artistes et modèles",
-        "realisateurs": "Raoul Walsh",
-        "annee": 1937,
-        "duree": 97,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f37658"
-  },
-  {
-    "idSeance": 104732,
-    "idEvenement": 26876,
-    "dateHeure": "2023-10-23T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Raoul Walsh",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 41735,
-        "titre": "Au service de sa majesté",
-        "realisateurs": "Raoul Walsh",
-        "annee": 1937,
-        "duree": 87,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f41735"
   },
   {
     "idSeance": 104682,
@@ -4402,7 +4735,7 @@
       {
         "idFilm": 154264,
         "titre": "Museo del horror",
-        "realisateurs": "Rafael Baledon",
+        "realisateurs": "Rafael Baledón",
         "annee": 1964,
         "duree": 85,
         "version": "VOSTF",
@@ -4472,7 +4805,7 @@
     "items": [
       {
         "idFilm": 80137,
-        "titre": "Saint Louis Blues",
+        "titre": "St. Louis Blues",
         "realisateurs": "Raoul Walsh",
         "annee": 1939,
         "duree": 90,
@@ -4481,6 +4814,51 @@
       }
     ],
     "hashEvenement": "f80137"
+  },
+  {
+    "idSeance": 104866,
+    "idEvenement": 28568,
+    "dateHeure": "2023-11-01T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Mexico maleficarum",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 128743,
+        "titre": "Miroir de la sorcière",
+        "art": "Le",
+        "realisateurs": "Chano Urueta",
+        "annee": 1960,
+        "duree": 75,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f128743"
+  },
+  {
+    "idSeance": 104763,
+    "idEvenement": 28594,
+    "dateHeure": "2023-11-01T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Mexico maleficarum",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 28594,
+        "titre": "Discussion avec Jean-François Rauger",
+        "typeConference": "Dialogue"
+      }
+    ],
+    "hashEvenement": "c28594"
   },
   {
     "idSeance": 104844,
@@ -4496,7 +4874,8 @@
     "items": [
       {
         "idFilm": 36872,
-        "titre": "Un dimanche après-midi",
+        "titre": "Blonde framboise",
+        "art": "La",
         "realisateurs": "Raoul Walsh",
         "annee": 1940,
         "duree": 98,
@@ -4569,6 +4948,7 @@
       {
         "idFilm": 85148,
         "titre": "Deux aventuriers",
+        "art": "Les",
         "realisateurs": "Raoul Walsh",
         "annee": 1937,
         "duree": 87,
@@ -4596,55 +4976,12 @@
         "art": "The",
         "realisateurs": "Jee-woon Kim",
         "annee": 1988,
-        "duree": 98
-      }
-    ],
-    "hashEvenement": "f154489"
-  },
-  {
-    "idSeance": 104763,
-    "idEvenement": 28594,
-    "dateHeure": "2023-11-03T18:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Mexico maleficarum",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 28594,
-        "titre": "Discussion avec Jean-François Rauger",
-        "typeConference": "Dialogue"
-      }
-    ],
-    "hashEvenement": "c28594"
-  },
-  {
-    "idSeance": 104775,
-    "idEvenement": 28568,
-    "dateHeure": "2023-11-03T19:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Mexico maleficarum",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 128743,
-        "titre": "Miroir de la sorcière",
-        "art": "Le",
-        "realisateurs": "Chano Urueta",
-        "annee": 1960,
-        "duree": 75,
-        "version": "VO",
+        "duree": 98,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f128743"
+    "hashEvenement": "f154489"
   },
   {
     "idSeance": 104780,
@@ -4663,7 +5000,9 @@
         "titre": "Fool King",
         "realisateurs": "Jee-woon Kim",
         "annee": 1999,
-        "duree": 116
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f133306"
@@ -4685,7 +5024,9 @@
         "titre": "A Bittersweet Life",
         "realisateurs": "Jee-woon Kim",
         "annee": 2004,
-        "duree": 118
+        "duree": 118,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f96708"
@@ -4708,7 +5049,7 @@
         "realisateurs": "Raoul Walsh",
         "annee": 1938,
         "duree": 88,
-        "version": "STF",
+        "version": "VOSTF",
         "format": "16 mm"
       }
     ],
@@ -4815,7 +5156,7 @@
     "idSeance": 104685,
     "idEvenement": 28578,
     "dateHeure": "2023-11-05T15:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Ma petite Cinémathèque",
@@ -5181,7 +5522,10 @@
         "idFilm": 154490,
         "titre": "Illang : la Brigade des loups",
         "realisateurs": "Jee-woon Kim",
-        "annee": 2018
+        "annee": 2018,
+        "duree": 139,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f154490"
@@ -5274,7 +5618,8 @@
         "art": "Le",
         "realisateurs": "Jerry Lewis",
         "annee": 1961,
-        "duree": 92
+        "duree": 92,
+        "version": "VO"
       }
     ],
     "hashEvenement": "f34529"
@@ -5426,7 +5771,7 @@
   },
   {
     "idSeance": 104860,
-    "idEvenement": 28649,
+    "idEvenement": 28651,
     "dateHeure": "2023-11-15T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -5437,14 +5782,54 @@
     ],
     "items": [
       {
+        "idFilm": 154494,
+        "titre": "Come Back Little Shiksa",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1962,
+        "duree": 39
+      },
+      {
+        "idFilm": 154493,
+        "titre": "Fairfax Avenue",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1951,
+        "duree": 30
+      },
+      {
         "idFilm": 154492,
         "titre": "Re-Inforcer",
         "art": "The",
         "realisateurs": "Jerry Lewis",
-        "annee": 1951
+        "annee": 1951,
+        "duree": 45
       }
     ],
-    "hashEvenement": "f154492"
+    "hashEvenement": "f154494f154493f154492"
+  },
+  {
+    "idSeance": 104894,
+    "idEvenement": 28512,
+    "dateHeure": "2023-11-16T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jean Cocteau",
+        "Cocteau scénariste, dialoguiste et adaptateur"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45108,
+        "titre": "Amore",
+        "art": "L'",
+        "realisateurs": "Roberto Rossellini",
+        "annee": 1947,
+        "duree": 77,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f45108"
   },
   {
     "idSeance": 104605,
@@ -5488,6 +5873,43 @@
       }
     ],
     "hashEvenement": "f47713f62173c28602"
+  },
+  {
+    "idSeance": 104892,
+    "idEvenement": 28651,
+    "dateHeure": "2023-11-16T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jerry Lewis",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154494,
+        "titre": "Come Back Little Shiksa",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1962,
+        "duree": 39
+      },
+      {
+        "idFilm": 154493,
+        "titre": "Fairfax Avenue",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1951,
+        "duree": 30
+      },
+      {
+        "idFilm": 154492,
+        "titre": "Re-Inforcer",
+        "art": "The",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1951,
+        "duree": 45
+      }
+    ],
+    "hashEvenement": "f154494f154493f154492"
   },
   {
     "idSeance": 104855,
@@ -5634,7 +6056,7 @@
   {
     "idSeance": 104847,
     "idEvenement": 28404,
-    "dateHeure": "2023-11-18T18:30:00",
+    "dateHeure": "2023-11-18T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5654,10 +6076,47 @@
     "hashEvenement": "f51283"
   },
   {
-    "idSeance": 104853,
-    "idEvenement": 28523,
-    "dateHeure": "2023-11-18T19:00:00",
+    "idSeance": 104891,
+    "idEvenement": 28651,
+    "dateHeure": "2023-11-18T20:00:00",
     "salle": "GF",
+    "cycle": [
+      [
+        "Jerry Lewis",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154494,
+        "titre": "Come Back Little Shiksa",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1962,
+        "duree": 39
+      },
+      {
+        "idFilm": 154493,
+        "titre": "Fairfax Avenue",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1951,
+        "duree": 30
+      },
+      {
+        "idFilm": 154492,
+        "titre": "Re-Inforcer",
+        "art": "The",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1951,
+        "duree": 45
+      }
+    ],
+    "hashEvenement": "f154494f154493f154492"
+  },
+  {
+    "idSeance": 104888,
+    "idEvenement": 28517,
+    "dateHeure": "2023-11-18T20:30:00",
+    "salle": "HL",
     "cycle": [
       [
         "Jean Cocteau",
@@ -5666,21 +6125,21 @@
     ],
     "items": [
       {
-        "idFilm": 47979,
-        "titre": "Princesse de Clèves",
-        "art": "La",
-        "realisateurs": "Jean Delannoy",
-        "annee": 1960,
-        "duree": 111,
+        "idFilm": 47121,
+        "titre": "Dames du Bois de Boulogne",
+        "art": "Les",
+        "realisateurs": "Robert Bresson",
+        "annee": 1944,
+        "duree": 85,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f47979"
+    "hashEvenement": "f47121"
   },
   {
     "idSeance": 104850,
     "idEvenement": 28509,
-    "dateHeure": "2023-11-19T15:00:00",
+    "dateHeure": "2023-11-19T14:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5704,7 +6163,7 @@
   {
     "idSeance": 104851,
     "idEvenement": 28519,
-    "dateHeure": "2023-11-19T17:15:00",
+    "dateHeure": "2023-11-19T17:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5728,7 +6187,7 @@
   {
     "idSeance": 104854,
     "idEvenement": 28521,
-    "dateHeure": "2023-11-19T19:30:00",
+    "dateHeure": "2023-11-19T19:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5779,6 +6238,78 @@
     "hashEvenement": "f47711"
   },
   {
+    "idSeance": 104878,
+    "idEvenement": 28513,
+    "dateHeure": "2023-11-22T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jean Cocteau",
+        "Cocteau scénariste, dialoguiste et adaptateur"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50660,
+        "titre": "Baron fantôme",
+        "art": "Le",
+        "realisateurs": "Serge de Poligny",
+        "annee": 1942,
+        "duree": 98,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f50660"
+  },
+  {
+    "idSeance": 104879,
+    "idEvenement": 28520,
+    "dateHeure": "2023-11-22T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jean Cocteau",
+        "Cocteau scénariste, dialoguiste et adaptateur"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47999,
+        "titre": "Éternel Retour",
+        "art": "L'",
+        "realisateurs": "Jean Delannoy",
+        "annee": 1943,
+        "duree": 115,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f47999"
+  },
+  {
+    "idSeance": 104889,
+    "idEvenement": 28523,
+    "dateHeure": "2023-11-23T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Jean Cocteau",
+        "Cocteau scénariste, dialoguiste et adaptateur"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47979,
+        "titre": "Princesse de Clèves",
+        "art": "La",
+        "realisateurs": "Jean Delannoy",
+        "annee": 1960,
+        "duree": 111,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f47979"
+  },
+  {
     "idSeance": 104633,
     "idEvenement": 28412,
     "dateHeure": "2023-11-23T19:00:00",
@@ -5805,6 +6336,125 @@
       }
     ],
     "hashEvenement": "f33623"
+  },
+  {
+    "idSeance": 104893,
+    "idEvenement": 28569,
+    "dateHeure": "2023-11-23T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Jean Cocteau",
+        "Autour de Jean Cocteau"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 53162,
+        "titre": "Anna, la bonne",
+        "realisateurs": "Claude Jutra",
+        "annee": 1959,
+        "duree": 9,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 58762,
+        "titre": "Charlotte et son Jules",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 1958,
+        "duree": 20,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 66350,
+        "titre": "Dame de Monte-Carlo",
+        "art": "La",
+        "realisateurs": "Dominique Delouche",
+        "annee": 1979,
+        "duree": 8,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 52041,
+        "titre": "Voix humaine",
+        "art": "La",
+        "realisateurs": "Dominique Delouche",
+        "annee": 1984,
+        "duree": 38,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f53162f58762f66350f52041"
+  },
+  {
+    "idSeance": 104884,
+    "idEvenement": 28504,
+    "dateHeure": "2023-11-24T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Jean Cocteau",
+        "Cocteau scénariste, dialoguiste et adaptateur"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35524,
+        "titre": "8 × 8: A Chess Sonata in 8 Movements",
+        "realisateurs": "Hans Richter, Jean Cocteau",
+        "annee": 1956,
+        "duree": 80
+      }
+    ],
+    "hashEvenement": "f35524"
+  },
+  {
+    "idSeance": 104857,
+    "idEvenement": 28375,
+    "dateHeure": "2023-11-24T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "[Rentrée 7]"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35720,
+        "titre": "Soucoupes volantes attaquent",
+        "art": "Les",
+        "realisateurs": "Fred F. Sears",
+        "annee": 1955,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f35720"
+  },
+  {
+    "idSeance": 104885,
+    "idEvenement": 28547,
+    "dateHeure": "2023-11-24T20:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Jean Cocteau",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 118768,
+        "titre": "Jean Cocteau s'adresse à... l'an 2000",
+        "realisateurs": "Jean Cocteau",
+        "annee": 1962,
+        "duree": 24,
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f118768"
   },
   {
     "idSeance": 104598,
@@ -5899,6 +6549,29 @@
     "hashEvenement": "f127627"
   },
   {
+    "idSeance": 104882,
+    "idEvenement": 28524,
+    "dateHeure": "2023-11-25T19:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jean Cocteau",
+        "Cocteau scénariste, dialoguiste et adaptateur"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46807,
+        "titre": "Ruy Blas",
+        "realisateurs": "Pierre Billon",
+        "annee": 1947,
+        "duree": 93,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f46807"
+  },
+  {
     "idSeance": 104691,
     "idEvenement": 16285,
     "dateHeure": "2023-11-26T15:00:00",
@@ -5920,5 +6593,69 @@
       }
     ],
     "hashEvenement": "f51561"
+  },
+  {
+    "idSeance": 104886,
+    "idEvenement": 28510,
+    "dateHeure": "2023-11-26T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jean Cocteau",
+        "Cocteau scénariste, dialoguiste et adaptateur"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48633,
+        "titre": "Thomas l'imposteur",
+        "realisateurs": "Georges Franju",
+        "annee": 1964,
+        "duree": 93,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f48633"
+  },
+  {
+    "idSeance": 104887,
+    "idEvenement": 28514,
+    "dateHeure": "2023-11-26T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jean Cocteau",
+        "Autour de Jean Cocteau"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 52042,
+        "titre": "Bel Indifférent",
+        "art": "Le",
+        "realisateurs": "Jacques Demy",
+        "annee": 1957,
+        "duree": 29,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 50500,
+        "titre": "Django Reinhardt",
+        "realisateurs": "Paul Paviot",
+        "annee": 1958,
+        "duree": 23,
+        "version": "VO",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 50548,
+        "titre": "Pantomimes",
+        "realisateurs": "Paul Paviot",
+        "annee": 1954,
+        "duree": 21,
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f52042f50500f50548"
   }
 ]

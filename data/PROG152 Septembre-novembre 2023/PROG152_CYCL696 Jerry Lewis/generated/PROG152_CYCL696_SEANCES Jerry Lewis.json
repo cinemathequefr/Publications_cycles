@@ -245,7 +245,7 @@
   {
     "idCategorie": 3060,
     "typeEvenement": 13,
-    "idEvenement": 28649,
+    "idEvenement": 28651,
     "idSeance": 104860,
     "dateHeure": "2023-11-15T20:30:00",
     "idSalle": [
@@ -255,15 +255,38 @@
     "dureeSeance": 30,
     "items": [
       {
+        "idFilm": 154494,
+        "ordre": 1,
+        "idSeance": 104860,
+        "idCopie": 26285,
+        "duree": 39,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 154493,
+        "ordre": 2,
+        "idSeance": 104860,
+        "idCopie": 26286,
+        "duree": 30,
+        "version": "",
+        "format": ""
+      },
+      {
         "idFilm": 154492,
-        "ordre": 1
+        "ordre": 3,
+        "idSeance": 104860,
+        "idCopie": 26288,
+        "duree": 45,
+        "version": "",
+        "format": ""
       }
     ]
   },
   {
     "idCategorie": 3060,
     "typeEvenement": 13,
-    "idEvenement": 28652,
+    "idEvenement": 28651,
     "idSeance": 104892,
     "dateHeure": "2023-11-16T20:00:00",
     "idSalle": [
@@ -273,13 +296,31 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 45090,
+        "idFilm": 154494,
         "ordre": 1,
         "idSeance": 104892,
-        "idCopie": 26284,
-        "duree": 110,
+        "idCopie": 26285,
+        "duree": 39,
         "version": "",
-        "format": "35 mm"
+        "format": ""
+      },
+      {
+        "idFilm": 154493,
+        "ordre": 2,
+        "idSeance": 104892,
+        "idCopie": 26286,
+        "duree": 30,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 154492,
+        "ordre": 3,
+        "idSeance": 104892,
+        "idCopie": 26288,
+        "duree": 45,
+        "version": "",
+        "format": ""
       }
     ]
   },

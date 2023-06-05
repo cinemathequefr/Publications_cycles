@@ -81,6 +81,17 @@
   * Une vie meilleure  
   * Vie sauvage
 
+## D. W. Griffith (8)
+
+  * A travers l'orage  
+  * Cœurs du monde  
+  * Deux orphelines (Les)  
+  * Intolerance  
+  * Lys brisé (Le)  
+  * Naissance d'une nation  
+  * Sally, fille de cirque  
+  * Sorrows of Satan (The)
+
 ## David Fincher (12)
 
   * Alien 3  
@@ -213,7 +224,7 @@
   * Valentin Valentin  
   * Zozos (Les)
 
-## Raoul Walsh (80)
+## Raoul Walsh (81)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -260,6 +271,7 @@
   * Horn Blows at Midnight (The)  
   * Hors du gouffre  
   * Implacables (Les)  
+  * In Old Arizona  
   * Intrigues en Orient  
   * Kindred of the Dust  
   * Loves of Carmen (The)  

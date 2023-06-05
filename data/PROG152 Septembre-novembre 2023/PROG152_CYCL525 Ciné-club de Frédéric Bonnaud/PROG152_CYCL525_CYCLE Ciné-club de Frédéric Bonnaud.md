@@ -14,7 +14,8 @@ Avec Clark Gable, Yvonne De Carlo, Sidney Poitier.
 À travers le récit d'une métisse qui découvre la condition d'esclave à la mort de son père, Walsh réalise une œuvre romanesque, évoquant de front la question du racisme à la veille de la Guerre de Sécession. L'adaptation du roman de Robert Penn Warren fournit au cinéaste une nouvelle occasion de décrire des personnages complexes, enchaînés à leur passé et devant faire face à l'ambiguïté de leur position. C'est aussi une histoire d'amour d'une tension érotique extrême, subtilement distillée par le couple Yvonne de Carlo-Clark Gable. Une réflexion à la fois tortueuse et sensuelle sur la liberté et sur cette période trouble de l'histoire américaine, injustement éclipsée par la popularité d'_Autant en emporte le vent_. Pour autant, _L'Esclave libre_ est un film plus fascinant.  
 Au XIX<sup>e</sup> siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien. Quand son père décède, un lourd secret remonte à la surface.
 
-- Me 6 sep 19h00 HL
+- Me 6 sep 19h00 HL  
+- Di 29 oct 19h30 HL
 
 [38955]  
 **Les Amours d'une blonde**  

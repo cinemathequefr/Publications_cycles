@@ -73,40 +73,6 @@
       "textes": []
     },
     {
-      "titreSousCycle": "Horreur, années 70",
-      "tri": 4,
-      "items": [
-        {
-          "idSeance": 104396,
-          "ordre": 1,
-          "dateHeure": "2023-09-08T19:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 3106,
-          "idEvenement": 28379,
-          "typeEvenement": 13,
-          "idFilm": 49582,
-          "titre": "Spectre",
-          "artVo": "The",
-          "titreVo": "Boogey Man",
-          "realisateurs": "Ulli Lommel",
-          "annee": 1981,
-          "pays": "États-Unis",
-          "duree": 82,
-          "version": "VF",
-          "format": "35 mm",
-          "generique": [
-            "John Carradine"
-          ],
-          "textes": []
-        }
-      ],
-      "textes": []
-    },
-    {
       "titreSousCycle": "Science-fiction, années 70 et 80",
       "tri": 4,
       "items": [
@@ -141,6 +107,40 @@
             {
               "typeTexte": 9,
               "texte": "Alex White, l'impitoyable et ambitieux directeur des laboratoires ARC, utilise le cerveau et le corps mutilé de Carl, un scientifique décédé dans un accident pour servir à l'opération Frankenstein."
+            }
+          ]
+        },
+        {
+          "idSeance": 104396,
+          "ordre": 1,
+          "dateHeure": "2023-09-08T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3104,
+          "idEvenement": 28379,
+          "typeEvenement": 13,
+          "idFilm": 49582,
+          "titre": "Spectre",
+          "artVo": "The",
+          "titreVo": "Boogey Man",
+          "realisateurs": "Ulli Lommel",
+          "annee": 1981,
+          "pays": "États-Unis",
+          "duree": 82,
+          "version": "VF",
+          "format": "35 mm",
+          "generique": [
+            "John Carradine",
+            "Suzanna Love",
+            "Ron James"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Willy, un petit garçon régulièrement maltraité par l'amant de sa mère, finit par massacrer ce dernier à coups de couteau sous les yeux impuissants de sa petite sœur Lacey. Vingt ans plus tard Lacey et Willy tentent d'oublier ce drame vécu dans leur enfance."
             }
           ]
         }
@@ -253,7 +253,12 @@
             "Alain Doutey"
           ],
           "adaptation": "D'après le roman _Les Filles de Grenoble_ de Paul Lefèvre.",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A Grenoble, une prostituée est assassinée dans son lit d'hôpital. Son amie Cora, vingt-deux ans et elle aussi prostituée, se décide à parler au juge Le Pérec."
+            }
+          ]
         },
         {
           "idSeance": 104838,

@@ -81,7 +81,8 @@ Une version western d'_Aventures en Birmanie_, sur les terres hostiles des Everg
 Après avoir détruit un fort rempli d'armes, des soldats américains sont pourchassés par les féroces Indiens de la région des Everglades.  
 Auto-remake d'_Aventures en Birmanie_ (1945).
 
-- Di 17 sep 14h30 HL
+- Di 17 sep 14h30 HL  
+- Lu 23 oct 20h30 GF
 
 [36844]  
 **Aventures en Birmanie**  
@@ -92,7 +93,8 @@ Avec Errol Flynn, James Brown, William Prince.
 Fleuron du film de guerre, sorti en 1945, _Aventures en Birmanie_ plonge le spectateur au cœur de l'action d'un commando américain, chargé de faire sauter un radar japonais dans la jungle birmane. Description minutieuse du comportement des combattants en pleine mission, la mise en scène de Walsh, réglée au cordeau, montre la guerre avec un réalisme époustouflant. Inquiétude, fatigue, angoisse, l'intrigue avance progressivement au rythme des corps s'enfonçant dans la végétation d'une moiteur terrifiante. Une descente aux enfers, menée par Errol Flynn au sommet de son art, d'un lyrisme et d'un suspense saisissants.  
 En 1943, un commando de parachutistes américains est largué au-dessus de la zone occupée en Birmanie pour détruire une station radar japonaise. Sa mission accomplie, le commando doit redoubler d'efforts pour fuir les soldats de l'armée japonaise.
 
-- Sa 30 sep 20h30 HL
+- Sa 30 sep 20h30 HL  
+- Di 22 oct 14h30 HL
 
 [58507]  
 **Barbe-Noire le pirate**  
@@ -210,7 +212,8 @@ Avec Errol Flynn, Olivia de Havilland, Arthur Kennedy.
 De l'école militaire de West Point à la défaite de Little Big Horn, la biographie romancée du jeune Custer, devenu commandant du 7<sup>e</sup> Régiment de cavalerie. Épique et spectaculaire, un chef-d'œuvre de mise en scène, et les débuts d'une collaboration légendaire entre Raoul Walsh et Errol Flynn.  
 Dans le camp militaire de West Point, le jeune Custer se distingue par son talent et son insubordination. Après avoir remporté la bataille de Hanover durant la guerre de Sécession, il est muté à la tête d'une garnison bientôt attaquée par les Indiens de Crazy Horse.
 
-- Sa 2 sep 16h30 HL
+- Sa 2 sep 16h30 HL  
+- Sa 21 oct 18h15 HL
 
 [37786]  
 **Cheyenne**  
@@ -243,7 +246,8 @@ Avec Van Heflin, Aldo Ray, Mona Freeman.
 Dix ans après _Aventures en Birmanie_, Walsh retourne sur le front du Pacifique, et adapte un roman autobiographique à succès de Leon Uris, futur auteur d'_Exodus_ de Preminger. L'histoire suit le parcours d'un groupe de Marines, depuis la caserne de San Diego, lieu de leur formation, jusqu'au débarquement en Nouvelle-Zélande. Alors qu'_Aventures en Birmanie_ s'appliquait à décrire le champ de bataille, _Le Cri de la victoire_ s'attarde sur les « coulisses » de la guerre – discipline, vie de chambrée, frustration sexuelle, flirts et tournée des bars –, brossant un portrait touchant des jeunes recrues et de leurs compagnes, confrontées à la difficulté d'aimer en temps de conflit et à la peur de mourir au combat.  
 En 1942, avant de partir au front, de jeunes recrues tentent d'apprendre les rudiments de la guerre, enseignés par un instructeur aux méthodes sévères.
 
-- Sa 9 sep 14h30 HL
+- Sa 9 sep 14h30 HL  
+- Ve 27 oct 20h00 HL
 
 [81231]  
 **La Danse rouge**  
@@ -275,8 +279,6 @@ de Raoul Walsh
 Prises de vue de la Convention du Parti Démocrate.
 
 - Je 31 aoû 18h30 GF  
-Film suivi de _The Mystery of the Hindu Image_ de Raoul Walsh, _Pillars of Society_ de Raoul Walsh, George Nicholls  
-- Me 4 oct 18h30 JE  
 Film suivi de _The Mystery of the Hindu Image_ de Raoul Walsh, _Pillars of Society_ de Raoul Walsh, George Nicholls
 
 [85148]  
@@ -326,7 +328,8 @@ Dix ans après _Les Fantastiques Années 20_, James Cagney retrouve Raoul Walsh 
 Cody Jarrett, un criminel psychopathe, voue une adoration démesurée à sa mère. Arrêté pour un délit mineur, il est enfermé avec un codétenu, qui se révèle être un policier chargé d'infiltrer son gang. Lorsqu'il apprend la mort de sa mère et la trahison de sa compagne, il décide de se venger.
 
 - Me 30 aoû 20h00 HL  
-Ouverture de la rétrospective
+Ouverture de la rétrospective  
+- Lu 23 oct 18h00 GF
 
 [36829]  
 **L'Entraîneuse fatale**  
@@ -337,7 +340,8 @@ Avec Edward G. Robinson, Marlene Dietrich, George Raft.
 Ange noir de la fatalité, Marlene Dietrich déchaîne les passions et sème la discorde entre deux amis réparateurs de pylônes électriques. Tout en tension et rupture de tons, le film, qui s'attache à la classe ouvrière, doit sa réussite au trio d'acteurs et à une atmosphère orageuse saisissante.  
 Johnny Marshall et Hank McHenry, deux amis réparateurs de lignes électriques à haute tension, sont confrontés à des missions dangereuses. Un soir, ils font la connaissance de Fay, une chanteuse de cabaret, qui sème le trouble dans leur amitié.
 
-- Sa 2 sep 19h30 HL
+- Sa 2 sep 19h30 HL  
+- Me 25 oct 20h30 HL
 
 [65626]  
 **L'Escadron noir**  
@@ -361,7 +365,8 @@ Avec Clark Gable, Yvonne De Carlo, Sidney Poitier.
 À travers le récit d'une métisse qui découvre la condition d'esclave à la mort de son père, Walsh réalise une œuvre romanesque, évoquant de front la question du racisme à la veille de la Guerre de Sécession. L'adaptation du roman de Robert Penn Warren fournit au cinéaste une nouvelle occasion de décrire des personnages complexes, enchaînés à leur passé et devant faire face à l'ambiguïté de leur position. C'est aussi une histoire d'amour d'une tension érotique extrême, subtilement distillée par le couple Yvonne de Carlo-Clark Gable. Une réflexion à la fois tortueuse et sensuelle sur la liberté et sur cette période trouble de l'histoire américaine, injustement éclipsée par la popularité d'_Autant en emporte le vent_. Pour autant, _L'Esclave libre_ est un film plus fascinant.  
 Au XIX<sup>e</sup> siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien. Quand son père décède, un lourd secret remonte à la surface.
 
-- Me 6 sep 19h00 HL
+- Me 6 sep 19h00 HL  
+- Di 29 oct 19h30 HL
 
 [37834]  
 **Esther et le Roi**  
@@ -443,7 +448,8 @@ Avec Joel McCrea, Virginia Mayo, Dorothy Malone.
 Avec _La Fille du désert_, Walsh réalise un remake de son propre film, _La Grande Évasion_, sorti huit ans plus tôt. Il en fait un western cosmique aux accents « noir », qui vaut autant pour ses superbes chevauchées, attaques de train et de diligence, que pour son versant psychologique tourné vers la trahison et la fatalité. Dans le rôle de Wes McQueen, pilleur de chemin de fer, évadé de prison, Joel McCrea porte la classe de son héros. Cavalier hors pair, solitaire et sentimental, il rêve de raccrocher le pistolet en s'offrant les bénéfices d'un dernier exploit. S'ensuit une traque, à laquelle ni lui ni sa compagne de planque, l'ardente Virginia Mayo, ne pourront échapper. Sec, tranchant et désespéré, le récit d'une impossible quête de rédemption, aussi tragique que palpitante.  
 En 1870, dans une Amérique en voie de pacification, le hors-la-loi Wes McQueen parvient à s'évader de prison et à rejoindre ses complices avec qui il projette de braquer un train.
 
-- Ve 8 sep 20h15 HL
+- Ve 8 sep 20h15 HL  
+- Di 22 oct 20h00 HL
 
 [60037]  
 **Le Fils prodigue**  
@@ -466,7 +472,7 @@ Avec Edmond O'Brien, Robert Stack, John Rodney.
 Les exploits d'une escadrille de bombardiers américains pendant la Deuxième Guerre mondiale. Combinant habilement scènes de fiction et extraits d'actualité de l'US Air Force, l'unique film d'aviation de Walsh est aussi sa première production en couleurs (Technicolor) et marque les débuts discrets de Rock Hudson à l'écran.  
 Membre d'une escadrille basée en Angleterre pendant la Seconde Guerre mondiale, le capitaine Hamilton accomplit un acte héroïque, qui sauve la vie du sévère major Hardin. Autorisé à rentrer aux États-Unis mais contraint par son ordre de rester célibataire, il s'attire les foudres de son supérieur en annonçant son prochain mariage.
 
-- Me 27 sep 19h30 GF
+- Me 27 sep 20h30 GF
 
 [36808]  
 **Gentleman Jim**  
@@ -477,7 +483,8 @@ Avec Errol Flynn, Alexis Smith, Jack Carson.
 L'histoire d'une irrésistible ascension, celle de James Corbett, modeste employé de banque des faubourgs de San Francisco, qui parvient à intégrer le club athlétique des milieux huppés. Pour l'interpréter, Walsh fait appel à l'un de ses acteurs fétiches. Silhouette agile, débordant de fougue et d'aplomb, Errol Flynn revêt l'habit du champion de boxe avec un naturel d'élégance et d'arrogance mêlées, aussi à l'aise sur un ring que dans les salons de la haute société. Dans un exaltant ballet viril, Walsh filme le mouvement des corps avec autant de suspense que d'humour, donnant à voir autant d'uppercuts que d'esquives amoureuses, capable d'égratigner la société américaine tout en livrant le plus beau film sur l'art pugilistique.  
 Jim veut tout très vite : être champion de boxe, grand acteur shakespearien et surtout épouser la fille de son patron. Les entraînements, les matchs fougueux, la vie à toute vitesse, sauront lui apprendre à changer.
 
-- Di 3 sep 16h45 HL
+- Di 3 sep 16h45 HL  
+- Sa 21 oct 21h00 HL
 
 [36814]  
 **La Grande Évasion**  
@@ -489,7 +496,8 @@ Avec Ida Lupino, Humphrey Bogart, Alan Curtis.
 Avec Roy Earle, célèbre gangster chargé d'organiser un nouveau casse à sa sortie de prison, Humphrey Bogart sublime la figure du loser magnifique. Walsh l'éloigne de la ville – et par-là même du cadre du film noir –, pour lui faire traverser les grands espaces qu'il affectionne. Une sierra éclatante de soleil, cadre originel du western, où l'ennemi public devient un hors-la-loi romantique, à la recherche d'une nature providentielle. Avec Ida Lupino, il forme le couple walshien par excellence, épris de quiétude et de liberté, dans l'impossibilité pourtant d'échapper au destin. Deux héros condamnés que le cinéaste transposera quelques années plus tard dans un remake, _La Fille du désert_. Forcément, un western.  
 Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de prison. Celui-ci, devenu son débiteur, accepte de participer à ce hold-up qui doit les rendre riches, mais croise la route de la belle Velma.
 
-- Ve 1 sep 20h15 HL
+- Ve 1 sep 20h15 HL  
+- Ve 20 oct 20h30 HL
 
 [85146]  
 **The Horn Blows at Midnight**  
@@ -522,7 +530,19 @@ Avec Clark Gable, Jane Russell, Robert Ryan.
 Produit par le frère de Howard Hawks pour la Twentieth Century Fox, dans un impressionnant CinémaScope, l'acheminement d'un troupeau de bétail par quatre hommes et une ambitieuse pionnière. Les paysages grandioses exhalent le goût de l'aventure qui mène au bonheur spirituel de ses héros. Première rencontre filmique entre Walsh et Clark Gable, dont le cinéaste fera une sorte de double.  
 Deux frères, anciens soldats sudistes de la Guerre de Sécession devenus bandits, kidnappent un propriétaire terrien. En échange de sa liberté, il leur propose un marché : conduire un immense troupeau de bêtes du Texas au Montana et partager les bénéfices.
 
-- Di 17 sep 18h00 HL
+- Di 17 sep 18h00 HL  
+- Di 29 oct 14h30 HL
+
+[36818]  
+**In Old Arizona**  
+d'Irving Cummings, Raoul Walsh  
+États-Unis / 1929 / 95 min / VOSTF / DCP  
+D'après la nouvelle _The Caballero's Way_ de William Sidney Porter.  
+Avec Warner Baxter, Edmund Lowe, Dorothy Burgess.  
+Premier film parlant tourné en extérieurs, un western qui fait date dans l'histoire du cinéma. La traque du célèbre bandit mexicain, Cisco Kid, charmé par une courtisane, participe au mythe du cow-boy chantant. C'est aussi sur ce tournage que Walsh perdit un œil dans un accident de voiture.  
+Le bandit mexicain Cisco Kid a toujours une longueur d'avance sur ses poursuivants. Tombé sous le charme de Tonia, leur idylle vient bouleverser ses plans
+
+- Ve 20 oct 18h30 HL
 
 [37781]  
 **Intrigues en Orient**  
@@ -545,7 +565,7 @@ Avec Miriam Cooper, Ralph Graves, Lionel Belmore.
 Le réalisateur met en vedette son épouse, l'actrice Miriam Cooper, dans le rôle d'une femme victime d'un mari bigame. Un drame sentimental, l'un des plus vieux films muets de Walsh encore visible.  
 Lorsqu'elle apprend que son époux est déjà marié à une autre, Nan retourne, avec son fils, dans sa ville natale. Elle y est traitée comme une paria par tous les habitants, sauf Donald, son amour de jeunesse.
 
-- Me 4 oct 19h45 JE
+- Me 4 oct 20h15 JE
 
 [81234]  
 **The Loves of Carmen**  
@@ -623,8 +643,6 @@ L'un des tout premiers courts métrages de Walsh, enquête policière qu'il réa
 Emprisonné pour meurtre la veille de son mariage, John Stafford parvient à s'échapper tandis qu'un détective engagé par sa fiancée démasque les véritables assassins.
 
 - Je 31 aoû 18h30 GF  
-Film précédé de _Democratic National Convention New York City 1924_ de Raoul Walsh et suivi de de _Pillars of Society_ de Raoul Walsh, George Nicholls  
-- Me 4 oct 18h30 JE  
 Film précédé de _Democratic National Convention New York City 1924_ de Raoul Walsh et suivi de de _Pillars of Society_ de Raoul Walsh, George Nicholls
 
 [80150]  
@@ -672,7 +690,7 @@ Avec Elissa Landi, Lionel Barrymore, Laurence Olivier.
 Une évocation de la Russie tsariste dans laquelle Walsh reprend certains éléments d'inspiration expressionniste de _The Red Dance_, et livre une intrigue aussi pittoresque qu'inattendue : une jeune femme juive est contrainte d'utiliser le passeport jaune délivré aux prostituées, pour se rendre auprès de son père emprisonné.  
 En 1913, dans la Russie tsariste, une jeune juive se fait passer pour une prostituée afin d'obtenir le passeport jaune nécessaire pour se déplacer librement. Alors qu'elle veut rejoindre son père emprisonné, elle rencontre un journaliste britannique et lui révèle la vérité sur la vie en Russie.
 
-- Di 8 oct 14h30 JE
+- Me 4 oct 18h30 JE
 
 [36848]  
 **Pillars of Society**  
@@ -684,8 +702,6 @@ Bien avant la version allemande de Douglas Sirk (1935), cette adaptation de la p
 Un armateur, qui doit sa fortune au mensonge et à la duplicité, fait l'objet d'un chantage.
 
 - Je 31 aoû 18h30 GF  
-Film précédé de _Democratic National Convention New York City 1924_ de Raoul Walsh, _The Mystery of the Hindu Image_ de Raoul Walsh  
-- Me 4 oct 18h30 JE  
 Film précédé de _Democratic National Convention New York City 1924_ de Raoul Walsh, _The Mystery of the Hindu Image_ de Raoul Walsh
 
 [37710]  
@@ -732,7 +748,8 @@ Avec Errol Flynn, Ann Sheridan, Thomas Mitchell.
 Archétype du héros athlétique, drôle et séduisant, Errol Flynn ajoute une nouvelle corde à son arc, en ex-officier de l'armée dégradé, devenu homme d'affaires arriviste et cynique. Une réflexion sur le système capitaliste américain et les ambiguïtés de l'individualisme, qui clôt la collaboration (riche de sept films) entre l'acteur et le réalisateur.  
 Durant la guerre de Sécession, le capitaine nordiste Mike McComb est injustement renvoyé de l'armée. Il décide de lancer sa propre entreprise dans l'Ouest et parvient à bâtir un empire, mais il tombe amoureux de la femme de son associé.
 
-- Ve 8 sep 18h00 HL
+- Ve 8 sep 18h00 HL  
+- Je 26 oct 20h30 GF
 
 [36825]  
 **Le Roi et quatre reines**  
@@ -744,7 +761,8 @@ Gorgé de gags irrévérencieux, _Le Roi et Quatre Reines_ tient autant du weste
 Au début du XX<sup>e</sup> siècle, les frères McDade se sont emparés de 100 000 dollars en or. Alors que trois d'entre eux ont été tués par une explosion, le dernier reste introuvable. Leur mère, Ma, qui connaît la cachette du trésor, attend son retour.
 
 - Me 20 sep 21h15 HL  
-Voir aussi conférence p. xx
+Voir aussi conférence p. xx  
+- Di 29 oct 17h30 HL
 
 [36813]  
 **La Ruelle du péché**  
@@ -777,7 +795,8 @@ Avec Errol Flynn, Ronald Reagan, Nancy Coleman.
 Les péripéties et les actes de bravoure d'un groupe d'aviateurs alliés dans l'Allemagne nazie. Emmené par les vigoureux Errol Flynn et Ronald Reagan, un classique du film de guerre, sorti en 1942, destiné à remonter le moral des troupes durant la Seconde Guerre mondiale. Du Alexandre Dumas antinazi.  
 Lors de la Seconde Guerre mondiale, l'équipage d'un bombardier de la Royal Air Force est abattu au-dessus de l'Allemagne. Les cinq rescapés s'organisent et se mettent à la recherche d'un avion pour rentrer en Angleterre.
 
-- Di 3 sep 14h30 HL
+- Di 3 sep 14h30 HL  
+- Je 26 oct 18h15 GF
 
 [36878]  
 **Saboteur sans gloire**  
@@ -871,7 +890,8 @@ Avec George Raft, Ann Sheridan, Humphrey Bogart.
 Évocation de la _working class_ des années de crise, à travers l'histoire de deux frères, chauffeurs routiers, le film bascule brusquement dans le drame sentimental et judiciaire. La jeune Ida Lupino réussit en beauté son entrée à la Warner et en devient une nouvelle icône.  
 Deux frères dirigeants d'une entreprise de transport sont soupçonnés de l'assassinat de leur concurrent.
 
-- Sa 2 sep 14h30 HL
+- Sa 2 sep 14h30 HL  
+- Me 25 oct 18h30 HL
 
 [36851]  
 **La Vallée de la peur**  
@@ -882,7 +902,8 @@ Avec Robert Mitchum, Teresa Wright, Judith Anderson.
 La névrose parentale est au centre de _La Vallée de la peur_, western psychanalytique que le réalisateur voit « comme une histoire de fantômes ». Adoptant le ton tranchant de la tragédie, dans un décor d'ombres et de contre-jours, il offre à Robert Mitchum un rôle de cow-boy hanté par les réminiscences d'un traumatisme enfoui. Dans cette lutte éternelle de l'homme contre son passé, le film tente d'en reconstituer les pièces à coups de flashbacks et d'envolées lyriques, que la musique de Max Steiner transportent au-delà d'une simple histoire de violence et de vengeance. Vers un tragique onirique.  
 Le cowboy Jeb Rand est assailli par des visions cauchemardesques, où il revoit le meurtre de ses parents durant son enfance. Tandis que sa vie défile, il se remémore les visages des siens et ceux de leurs assassins qu'il s'est toujours juré d'abattre.
 
-- Sa 9 sep 20h30 HL
+- Sa 9 sep 20h30 HL  
+- Di 22 oct 17h30 HL
 
 [79791]  
 **Victime du destin**  
