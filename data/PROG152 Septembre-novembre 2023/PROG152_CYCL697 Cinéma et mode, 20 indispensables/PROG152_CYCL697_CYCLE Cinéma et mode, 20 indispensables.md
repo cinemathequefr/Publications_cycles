@@ -160,7 +160,7 @@ A Londres Reynolds Woodcock célèbre couturier, célibataire et solitaire est a
 **Prêt à porter**  
 **(Ready to Wear)**  
 de Robert Altman  
-États-Unis-France / 1994 / 133 min  
+États-Unis-France / 1994 / 133 min / VOSTF / 35 mm  
 Avec Sophia Loren, Marcello Mastroianni, Lauren Bacall, Julia Roberts.  
 Paris, mars 1994. Chronique de la semaine du prêt-à-porter et du grand et petit monde qui gravite autour, le tout ponctué par un étrange décès.
 

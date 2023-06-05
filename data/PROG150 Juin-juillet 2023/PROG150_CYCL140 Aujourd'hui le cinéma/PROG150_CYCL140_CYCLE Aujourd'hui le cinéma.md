@@ -81,7 +81,7 @@ France / 2022 / 22 min / DCP
 Avec Lou Deleuze, Katell Vavat, Pauline Lorillard.  
 Madeleine, huit ans, accompagne sa mère esthéticienne à domicile chez de nouvelles clientes. Arrivée à la maison, elle fait la connaissance d'Eugénie, Constance et Émeraude, qui l'invitent au sous-sol à participer à un cruel jeu de société.
 
-- Lu 26 juin 20h00 JE
+- Lu 26 juin 20h00 GF
 
 ## Carte blanche au Busan International Short Film Festival
 
