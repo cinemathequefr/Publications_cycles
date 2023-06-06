@@ -54,12 +54,12 @@
   * Mannequin  
   * Mariée est trop belle (La)  
   * Neon Demon (The)  
-  * Où est passé Jessica ?  
+  * Où est passé Jessica  
   * Personal Shopper  
   * Phantom Thread  
-  * Prêt à porter  
+  * Prêt-à-porter  
   * Qui êtes-vous Polly Maggoo ?  
-  * Saint-Laurent  
+  * Saint Laurent  
   * Six femmes pour l'assassin  
   * Zoolander
 
@@ -212,7 +212,7 @@
   * Crime est notre affaire (Le)  
   * Dilettante (La)  
   * Ensemble, nous allons vivre une très, très grande histoire d'amour  
-  * Grand appartement (Le)  
+  * Grand Appartement (Le)  
   * Heure zéro (L')  
   * Maris, les femmes, les amants (Les)  
   * Mercredi, folle journée !  

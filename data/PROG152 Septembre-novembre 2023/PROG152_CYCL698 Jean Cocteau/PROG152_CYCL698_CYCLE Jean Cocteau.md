@@ -134,7 +134,7 @@ Deux jeunes filles s'installent dans un château où a disparu mystérieusement 
 **La Couronne noire**  
 **(La Corona negra)**  
 de Luis Saslavsky  
-Espagne / 1950 / 94 min / VO / 35 mm  
+Espagne / 1950 / 94 min / VF / 35 mm  
 Avec María Félix, Rossano Brazzi, Vittorio Gassman.  
 Sur un scénario signé Jean Cocteau, les étincelles entre une jeune femme amnésique (María Félix) et son amant (Vittorio Gassmann), embarqués dans une aventure sanglante à mi-chemin entre le noir et le mélo, sur fond d'amnésie et de bijoux cachés.  
 A Tanger, un jeune ingénieur recueille une jeune femme amnésique qui erre dans les rues. Scénario original de Jean Cocteau.
