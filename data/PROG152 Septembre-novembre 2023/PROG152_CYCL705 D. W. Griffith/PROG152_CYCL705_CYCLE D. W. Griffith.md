@@ -43,7 +43,7 @@ Copie musiquée.
 [33035]  
 **Intolerance**  
 de D.W. Griffith  
-États-Unis / 1916 / 168 min / INT. FR. / DCP  
+États-Unis / 1916 / 198 min / 35 mm  
 Avec Lillian Gish, Constance Talmadge, Mae Marsh.  
 Pour fustiger l'intolérance à travers les âges, Griffith imagina une fresque en quatre épisodes relatant respectivement une erreur judiciaire à l'époque contemporaine, les derniers jours du Christ en Judée, le massacre de la Saint-Barthélémy et la mise à sac de Babylone par les Perses.
 

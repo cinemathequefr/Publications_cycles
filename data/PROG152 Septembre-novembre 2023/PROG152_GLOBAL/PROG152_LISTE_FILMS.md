@@ -107,6 +107,22 @@
   * Social Network (The)  
   * Zodiac
 
+## Fenêtre sur les collections (13)
+
+  * Adieu Léonard – Essais d'acteurs  
+  * Affaire est dans le sac (L')  
+  * Amor pedestre  
+  * Avventura galante di un provinciale (L')  
+  * C'est la tangente que je préfère  
+  * Damnation de Caïn (La)  
+  * Fille des flots (La)  
+  * Filles, personne s'en méfie (Les)  
+  * Grandeur et déchéance  
+  * Il est si beau garçon = Gribouille et les femmes = Elles sont toutes folles de Gribouille  
+  * Paris la belle  
+  * Paris mange son pain  
+  * Voyage surprise
+
 ## Jean Cocteau (26)
 
   * 8 × 8: A Chess Sonata in 8 Movements  

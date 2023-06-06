@@ -134,6 +134,7 @@ Film suivi d'_Alice Guy tourne une phonoscène_ d'Alice Guy, _Madame a des envie
 de Vincente Minnelli  
 États-Unis / 1957 / 117 min / VOSTF / 35 mm  
 Avec Gregory Peck, Lauren Bacall.  
+Les déboires conjugaux d'un journaliste sportif new-yorkais et d'une modéliste de Los Angeles que tout oppose. Coups bas, bagarres et crises de nerfs agrémentent un ballet irrésistible, avec style et tempo : la comédie américaine dans toute sa splendeur.  
 Marilla et Mike se marient, avant de se rendre compte qu'ils appartiennent à des milieux sociaux et professionnels fort différents : elle est dessinatrice de mode, et lui, chroniqueur sportif.
 
 - Je 29 juin 18h00 HL  
