@@ -5,97 +5,145 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 37701,
-          "content": [
+          "groupe": [
             {
               "idFilm": 37701,
-              "ordre": 1,
-              "titre": "Esclave libre",
-              "art": "L'",
-              "titreVo": "Band of Angels",
-              "realisateurs": "Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1957,
-              "duree": 125,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Band of Angels_ de Robert Penn Warren.",
-              "generique": [
-                "Clark Gable",
-                "Yvonne De Carlo",
-                "Sidney Poitier"
+              "content": [
+                {
+                  "idFilm": 37701,
+                  "ordre": 1,
+                  "titre": "Esclave libre",
+                  "art": "L'",
+                  "titreVo": "Band of Angels",
+                  "realisateurs": "Raoul Walsh",
+                  "pays": "États-Unis",
+                  "annee": 1957,
+                  "duree": 125,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Band of Angels_ de Robert Penn Warren.",
+                  "generique": [
+                    "Clark Gable",
+                    "Yvonne De Carlo",
+                    "Sidney Poitier"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "À travers le récit d'une métisse qui découvre la condition d'esclave à la mort de son père, Walsh réalise une œuvre romanesque, évoquant de front la question du racisme à la veille de la Guerre de Sécession. L'adaptation du roman de Robert Penn Warren fournit au cinéaste une nouvelle occasion de décrire des personnages complexes, enchaînés à leur passé et devant faire face à l'ambiguïté de leur position. C'est aussi une histoire d'amour d'une tension érotique extrême, subtilement distillée par le couple Yvonne de Carlo-Clark Gable. Une réflexion à la fois tortueuse et sensuelle sur la liberté et sur cette période trouble de l'histoire américaine, injustement éclipsée par la popularité d'_Autant en emporte le vent_. Pour autant, _L'Esclave libre_ est un film plus fascinant."
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "À travers le récit d'une métisse qui découvre la condition d'esclave à la mort de son père, Walsh réalise une œuvre romanesque, évoquant de front la question du racisme à la veille de la Guerre de Sécession. L'adaptation du roman de Robert Penn Warren fournit au cinéaste une nouvelle occasion de décrire des personnages complexes, enchaînés à leur passé et devant faire face à l'ambiguïté de leur position. C'est aussi une histoire d'amour d'une tension érotique extrême, subtilement distillée par le couple Yvonne de Carlo-Clark Gable. Une réflexion à la fois tortueuse et sensuelle sur la liberté et sur cette période trouble de l'histoire américaine, injustement éclipsée par la popularité d'_Autant en emporte le vent_. Pour autant, _L'Esclave libre_ est un film plus fascinant."
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 104449,
-              "typeAssoc": 118,
-              "dateHeure": "2023-09-06T19:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 38955,
-          "content": [
-            {
-              "idFilm": 38955,
-              "ordre": 1,
-              "titre": "Amours d'une blonde",
-              "art": "Les",
-              "titreVo": "Lásky jedné plavovlásky",
-              "realisateurs": "Miloš Forman",
-              "pays": "Tchécoslovaquie",
-              "annee": 1965,
-              "generique": [
-                "Hana Brejchová",
-                "Vladimír Pucholt",
-                "Vladimír Menšík"
+              "idEvenement": 28726,
+              "content": [
+                {
+                  "idConf": 28726,
+                  "ordre": 2,
+                  "titre": "Discussion avec Frédéric Bonnaud",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104449,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-06T19:00:00",
+                  "idSalle": "HL"
+                }
               ]
             }
-          ],
-          "seances": [
+          ]
+        },
+        {
+          "groupe": [
             {
-              "idSeance": 104632,
-              "typeAssoc": 118,
-              "dateHeure": "2023-10-25T19:30:00",
-              "idSalle": "GF"
+              "idFilm": 38955,
+              "content": [
+                {
+                  "idFilm": 38955,
+                  "ordre": 1,
+                  "titre": "Amours d'une blonde",
+                  "art": "Les",
+                  "titreVo": "Lásky jedné plavovlásky",
+                  "realisateurs": "Miloš Forman",
+                  "pays": "Tchécoslovaquie",
+                  "annee": 1965,
+                  "generique": [
+                    "Hana Brejchová",
+                    "Vladimír Pucholt",
+                    "Vladimír Menšík"
+                  ]
+                }
+              ],
+              "seances": []
+            },
+            {
+              "idEvenement": 28724,
+              "content": [
+                {
+                  "idConf": 28724,
+                  "ordre": 2,
+                  "titre": "Discussion avec Frédéric Bonnaud",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104632,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-10-25T19:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
         {
-          "idFilm": 33623,
-          "content": [
+          "groupe": [
             {
               "idFilm": 33623,
-              "ordre": 1,
-              "titre": "Docteur Jerry et Mister Love",
-              "titreVo": "Nutty Professor",
-              "artVo": "The",
-              "realisateurs": "Jerry Lewis",
-              "pays": "États-Unis",
-              "annee": 1963,
-              "duree": 118,
-              "version": "VOSTF",
-              "format": "DCP",
-              "ageMinimal": 8,
-              "generique": [
-                "Jerry Lewis",
-                "Stella Stevens"
+              "content": [
+                {
+                  "idFilm": 33623,
+                  "ordre": 1,
+                  "titre": "Docteur Jerry et Mister Love",
+                  "titreVo": "Nutty Professor",
+                  "artVo": "The",
+                  "realisateurs": "Jerry Lewis",
+                  "pays": "États-Unis",
+                  "annee": 1963,
+                  "duree": 118,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "ageMinimal": 8,
+                  "generique": [
+                    "Jerry Lewis",
+                    "Stella Stevens"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Dans un pastiche du classique de la littérature fantastique, _Docteur Jekyll et Mr. Hyde_, Jerry Lewis recourt aux thèmes du double et du déguisement chers à son âme d'enfant. Objet de toutes les brimades, un professeur de chimie émérite, du genre nigaud, met au point un breuvage qui le métamorphose en Buddy Love, créature vaniteuse au sex-appeal débridé. Le bellâtre rejoint chaque nuit le night-club local, véritable miroir aux alouettes, où il exhibe ses talents de crooner, avant que le corps ingrat du professeur aux mille complexes ne reprenne le dessus. Un numéro d'acteur irrésistible, qui dézingue l'esprit de masse, les préjugés et les héros du monde moderne, avec une fantaisie inépuisable."
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Dans un pastiche du classique de la littérature fantastique, _Docteur Jekyll et Mr. Hyde_, Jerry Lewis recourt aux thèmes du double et du déguisement chers à son âme d'enfant. Objet de toutes les brimades, un professeur de chimie émérite, du genre nigaud, met au point un breuvage qui le métamorphose en Buddy Love, créature vaniteuse au sex-appeal débridé. Le bellâtre rejoint chaque nuit le night-club local, véritable miroir aux alouettes, où il exhibe ses talents de crooner, avant que le corps ingrat du professeur aux mille complexes ne reprenne le dessus. Un numéro d'acteur irrésistible, qui dézingue l'esprit de masse, les préjugés et les héros du monde moderne, avec une fantaisie inépuisable."
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 104633,
-              "typeAssoc": 118,
-              "dateHeure": "2023-11-23T19:00:00",
-              "idSalle": "HL"
+              "idEvenement": 28725,
+              "content": [
+                {
+                  "idConf": 28725,
+                  "ordre": 2,
+                  "titre": "Discussion avec Frédéric Bonnaud",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104633,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-11-23T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }

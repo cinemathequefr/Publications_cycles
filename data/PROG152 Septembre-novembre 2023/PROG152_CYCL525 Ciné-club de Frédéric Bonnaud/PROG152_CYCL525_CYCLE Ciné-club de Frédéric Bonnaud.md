@@ -14,7 +14,8 @@ Avec Clark Gable, Yvonne De Carlo, Sidney Poitier.
 À travers le récit d'une métisse qui découvre la condition d'esclave à la mort de son père, Walsh réalise une œuvre romanesque, évoquant de front la question du racisme à la veille de la Guerre de Sécession. L'adaptation du roman de Robert Penn Warren fournit au cinéaste une nouvelle occasion de décrire des personnages complexes, enchaînés à leur passé et devant faire face à l'ambiguïté de leur position. C'est aussi une histoire d'amour d'une tension érotique extrême, subtilement distillée par le couple Yvonne de Carlo-Clark Gable. Une réflexion à la fois tortueuse et sensuelle sur la liberté et sur cette période trouble de l'histoire américaine, injustement éclipsée par la popularité d'_Autant en emporte le vent_. Pour autant, _L'Esclave libre_ est un film plus fascinant.  
 Au XIX<sup>e</sup> siècle, Amantha Starr est la petite fille gâtée d'un riche propriétaire terrien. Quand son père décède, un lourd secret remonte à la surface.
 
-- Me 6 sep 19h00 HL
+- Me 6 sep 19h00 HL  
+Voir aussi dialogue p. xx
 
 [38955]  
 **Les Amours d'une blonde**  
@@ -24,7 +25,8 @@ Tchécoslovaquie / 1965
 Avec Hana Brejchová, Vladimír Pucholt, Vladimír Menšík.  
 Au cours d'un bal de province, une jeune ouvrière se laisse séduire par le pianiste de l'orchestre venu de Prague.
 
-- Me 25 oct 19h30 GF
+- Me 25 oct 19h30 GF  
+Voir aussi dialogue p. xx
 
 [33623]  
 **Docteur Jerry et Mister Love**  
@@ -34,6 +36,24 @@ de Jerry Lewis
 Avec Jerry Lewis, Stella Stevens.  
 Dans un pastiche du classique de la littérature fantastique, _Docteur Jekyll et Mr. Hyde_, Jerry Lewis recourt aux thèmes du double et du déguisement chers à son âme d'enfant. Objet de toutes les brimades, un professeur de chimie émérite, du genre nigaud, met au point un breuvage qui le métamorphose en Buddy Love, créature vaniteuse au sex-appeal débridé. Le bellâtre rejoint chaque nuit le night-club local, véritable miroir aux alouettes, où il exhibe ses talents de crooner, avant que le corps ingrat du professeur aux mille complexes ne reprenne le dessus. Un numéro d'acteur irrésistible, qui dézingue l'esprit de masse, les préjugés et les héros du monde moderne, avec une fantaisie inépuisable.
 
-- Je 23 nov 19h00 HL
+- Je 23 nov 19h00 HL  
+Voir aussi dialogue p. xx
+
+## Rencontres et conférences
+
+**Discussion avec Frédéric Bonnaud**
+
+- Me 6 sep 19h00 HL  
+À la suite de la projection de _L'Esclave libre_ de Raoul Walsh (voir p. xx)
+
+**Discussion avec Frédéric Bonnaud**
+
+- Me 25 oct 19h30 GF  
+À la suite de la projection de _Les Amours d'une blonde_ de Miloš Forman (voir p. xx)
+
+**Discussion avec Frédéric Bonnaud**
+
+- Je 23 nov 19h00 HL  
+À la suite de la projection de _Docteur Jerry et Mister Love_ de Jerry Lewis (voir p. xx)
 
 Remerciements : Capricci, Warner Bros.
