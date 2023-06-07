@@ -6,7 +6,7 @@
 **Au boulot, Jerry**  
 **(Hardly Working)**  
 de Jerry Lewis  
-États-Unis / 1979 / 89 min / 35 mm  
+États-Unis / 1979 / 89 min / VOSTF / 35 mm  
 Avec Jerry Lewis, Susan Oliver, Roger C. Carmel.  
 Après une absence de huit ans, Jerry Lewis remet en piste son personnage de doux dingue paré à toutes les gaffes. Clown au chômage, il enchaîne les petits boulots aussi vite que les catastrophes. Un retour nimbé de mélancolie. Si l'auguste a vieilli, il n'a rien perdu de son comique.  
 Quand son cirque ferme, le clown Bo Hooper perd son emploi. Il s'installe chez sa sœur contre l'avis de son mari. Il s'essaie à différents métiers, sans succès.
@@ -16,7 +16,7 @@ Quand son cirque ferme, le clown Bo Hooper perd son emploi. Il s'installe chez s
 [154491]  
 **Der Clown TV**  
 d'Erich Friedler  
-Allemagne / 2016 / 115 min / Numérique  
+Allemagne / 2016 / 115 min / STF / Numérique  
 Un clown allemand, déporté à Auschwitz, se charge de distraire les enfants destinés à la mort. L'histoire du film maudit de Jerry Lewis, _The Day the Clown Cried_, racontée dans un documentaire qui retrace le mythe d'une œuvre jamais projetée. Avec des interviews du réalisateur, de Pierre Etaix et de Jean-Jacques Beineix, couronnées d'un extrait inédit de trente minutes.  
 Le film retrace l'histoire du mythique film de Jerry Lewis disparu : _The Day The clown Cried._
 
@@ -39,7 +39,7 @@ Film suivi de _Fairfax Avenue_ de Jerry Lewis, _The Re-Inforcer_ de Jerry Lewis
 **Le Dingue du palace**  
 **(The Bellboy)**  
 de Jerry Lewis  
-États-Unis / 1960 / 72 min  
+États-Unis / 1960 / 72 min / STF  
 Avec Jerry Lewis, Alex Gerry, Bob Clayton.  
 Coup d'essai, coup de maître. Nourri de son duo avec Dean Martin et de sa complicité avec le cinéaste Frank Tashlin, Jerry Lewis passe à la réalisation, puisant aux sources du cinéma et de ses grandes figures burlesques (Stan Laurel, Buster Keaton, les Marx Brothers). Il joue ici le groom d'un grand hôtel, lieu unique dont il exploite toutes les potentialités comiques, posant ainsi les mécanismes du gag selon Jerry : sons, objets, dédoublements, corrélations entre l'espace et le corps, les fondements d'un art du rire sur lesquels l'humoriste va naviguer, en virtuose de l'extravagance, pendant trois décennies.  
 À Miami Beach, le groom muet Stanley travaille pour le luxueux hôtel Fontainebleau. Bien que serviable et agréable, il accumule gaffes et ennuis.

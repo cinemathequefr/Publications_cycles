@@ -42,6 +42,7 @@ Une version longue du téléfilm est sortie au cinéma sous le titre _Trop de bo
 de Cédric Kahn  
 France / 1990 / 8 min / 35 mm  
 Avec Laetitia Masson, Nathalie Richard.  
+Le deuxième court métrage de Cédric Kahn, où une femme quitte son compagnon et se met à errer dans les rues parisiennes. Un an après le tournage de _Nadir_, son premier essai, le cinéaste offre à Louis-Do de Lencquesaing ses débuts sur grand écran.  
 Une jeune femme quitte pendant la nuit l'homme avec qui elle vit. Le lendemain, elle cherche toute la journée, en vain, un endroit où dormir. Elle décide de rentrer chez elle
 
 - Ve 29 sep 20h30 GF  

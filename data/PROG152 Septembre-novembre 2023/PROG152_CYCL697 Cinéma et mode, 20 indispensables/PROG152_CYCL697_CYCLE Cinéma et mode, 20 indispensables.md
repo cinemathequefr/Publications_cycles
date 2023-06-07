@@ -11,7 +11,8 @@ Avec Audrey Tautou, Benoît Poelvoorde, Alessandro Nivola.
 De l'orphelinat à la rue Cambon, les années de jeunesse de Coco Chanel, inspirées de _L'Irrégulière_, biographie d'Edmonde Charles-Roux. Tailleur et marinière fièrement portés par Audrey Tautou, et du cousu main pour Benoît Poelvoorde, dans le rôle d'Étienne Balsan, amant et mécène de Mademoiselle.  
 L'histoire fascinante de Coco Chanel, une jeune femme partie de rien, devenue reine de la haute couture parisienne et véritable icône de la mode.
 
-- Di 3 sep 17h15 GF
+- Di 3 sep 17h15 GF  
+Séance présentée par Anne Fontaine
 
 [107938]  
 **Coco Chanel et Igor Stravinsky**  
