@@ -28,10 +28,6 @@ de Jerry Lewis
 États-Unis / 1962 / 39 min  
 Inversant l'intrigue de _Reviens petite Sheba_, Dean Martin reprend le rôle de Burt Lancaster, dans le rôle d'un chirurgien alcoolique qui doit constamment faire face à la tentation de la sobriété.
 
-- Me 15 nov 20h30 GF  
-Film suivi de _Fairfax Avenue_ de Jerry Lewis, _The Re-Inforcer_ de Jerry Lewis  
-- Je 16 nov 20h00 GF  
-Film suivi de _Fairfax Avenue_ de Jerry Lewis, _The Re-Inforcer_ de Jerry Lewis  
 - Sa 18 nov 20h00 GF  
 Film suivi de _Fairfax Avenue_ de Jerry Lewis, _The Re-Inforcer_ de Jerry Lewis
 
@@ -63,10 +59,6 @@ de Jerry Lewis
 États-Unis / 1951 / 30 min  
 Janet Leigh, Tony Curtis et Dean Martin s'amusent à parodier _Sunset Boulevard_.
 
-- Me 15 nov 20h30 GF  
-Film précédé de _Come Back Little Shiksa_ de Jerry Lewis et suivi de de _The Re-Inforcer_ de Jerry Lewis  
-- Je 16 nov 20h00 GF  
-Film précédé de _Come Back Little Shiksa_ de Jerry Lewis et suivi de de _The Re-Inforcer_ de Jerry Lewis  
 - Sa 18 nov 20h00 GF  
 Film précédé de _Come Back Little Shiksa_ de Jerry Lewis et suivi de de _The Re-Inforcer_ de Jerry Lewis
 
@@ -119,10 +111,6 @@ de Jerry Lewis
 États-Unis / 1951 / 45 min  
 L'organisation criminelle de Joe Lasagna (Dean Martin) se voit menacée par la nouvelle garde et son chef (Tony Curtis). Pastiche d'Humphrey Bogart dans _La Femme à abattre_.
 
-- Me 15 nov 20h30 GF  
-Film précédé de _Come Back Little Shiksa_ de Jerry Lewis, _Fairfax Avenue_ de Jerry Lewis  
-- Je 16 nov 20h00 GF  
-Film précédé de _Come Back Little Shiksa_ de Jerry Lewis, _Fairfax Avenue_ de Jerry Lewis  
 - Sa 18 nov 20h00 GF  
 Film précédé de _Come Back Little Shiksa_ de Jerry Lewis, _Fairfax Avenue_ de Jerry Lewis
 
@@ -142,11 +130,12 @@ Voir aussi dialogue p. xx
 **Le Tombeur de ces dames**  
 **(The Ladies Man)**  
 de Jerry Lewis  
-États-Unis / 1961 / 106 min / VOSTF / DCP  
+États-Unis / 1961 / 110 min / 35 mm  
 Avec Jerry Lewis, Helen Traubel, Kathleen Freeman.  
 Grandiose, musical, onirique et coloré, le deuxième film de Jerry Lewis a tout du show hollywoodien. Un décor hallucinant (une maison de poupées géante), des numéros sophistiqués, des répliques cultes ("Geronimo !") et des gags épatants. Nul besoin d'une intrigue subtile (un misogyne converti accepte sans le savoir une place de domestique dans une pension pour demoiselles), le comique destructeur de Jerry mis en scène dans une énumération de saynètes déjantées, suffit à plonger le spectateur au cœur d'un virtuose ballet graphique. La caméra est mobile, libre d'emprunter les couloirs, les escaliers et de traverser toutes les portes, alors tout devient possible, comme transformer le désordre et la puérilité en un chef-d'œuvre du burlesque.  
 Herbert Heebert surprend sa fiancée dans les bras d'un autre. Fraîchement installé à Los Angeles, il souhaite y couler des jours paisibles avec l'intention de rester célibataire. Engagé comme homme à tout faire dans une pension de jeunes filles, sa résolution est mise à rude épreuve.
 
+- Me 15 nov 20h30 GF  
 - Sa 18 nov 14h30 HL  
 Voir aussi dialogue p. xx
 

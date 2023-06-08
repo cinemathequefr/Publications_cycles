@@ -118,7 +118,7 @@ Premier segment, avant _Le Miracle_ de Fellini, du diptyque _L'Amore_, transposi
 Film en deux épisodes: Un huis clos, adapté de la pièce de Jean Cocteau, enregistré en temps réel suivi du _Miracle,_ l'histoire d'une gardienne de chèvres simple d'esprit.  
 Restauré par la Fondazione Cineteca di Bologna, CSC – Cineteca Nazionale, Coproduction Office et Istituto Luce Cinecittà.
 
-- Je 16 nov 18h00 GF
+- Je 16 nov 19h00 GF
 
 [50660]  
 **Le Baron fantôme**  

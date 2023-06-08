@@ -1,0 +1,100 @@
+{
+  "datesCycle": [
+    "2023-03-10T14:00:00",
+    "2023-03-11T18:30:00"
+  ],
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 126303,
+          "content": [
+            {
+              "idFilm": 126303,
+              "ordre": 1,
+              "titre": "Big Eyes",
+              "realisateurs": "Tim Burton",
+              "pays": "États-Unis",
+              "annee": 2014,
+              "duree": 106,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Amy Adams",
+                "Christoph Waltz",
+                "Danny Huston"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 100645,
+              "dateHeure": "2023-03-11T18:30:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Bruno Delbonnel"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 115793,
+              "content": [
+                {
+                  "idFilm": 115793,
+                  "ordre": 1,
+                  "titre": "Faust",
+                  "realisateurs": "Alexandre Sokourov",
+                  "pays": "Russie",
+                  "annee": 2011,
+                  "duree": 134,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après la pièce _Faust_ de Johann Wolfgang von Goethe.",
+                  "generique": [
+                    "Johannes Zeiler",
+                    "Anton Adasinsky",
+                    "Isolda Dychauk"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 100642,
+                  "idSeanceAssoc": 100642,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-03-10T14:00:00",
+                  "idSalle": "HL",
+                  "mention": "Séance présentée par Bruno Delbonnel"
+                }
+              ]
+            },
+            {
+              "idEvenement": 27953,
+              "content": [
+                {
+                  "idConf": 27953,
+                  "titre": "Dialogue avec Bruno Delbonnel",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Laurent Mannoni et Natasza Chroscicki"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 100658,
+                  "idSeanceAssoc": 100642,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-03-10T17:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 14h00, projection d'un film choisi par le conférencier : _Faust_ d'Alexandre Sokourov"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -57,7 +57,7 @@ Avec Ben Affleck, Rosamund Pike, Neil Patrick Harris.
 Étude mordante des mécanismes du couple et de leur épuisement, _Gone Girl_ est un thriller à tiroirs. Fincher y joue des apparences et des faux-semblants grâce à un récit gigogne aux rebondissements savamment dosés, qui se mue dans sa deuxième moitié en un véritable jeu de massacre.  
 Beaux, jeunes et riches, Amy et Nick forment un couple envié à New York. Alors que le couple s'apprête à célébrer son 5e anniversaire de mariage, la jeune femme disparaît sans laisser de trace. Nick est immédiatement suspecté.
 
-- Di 22 oct 17h30 GF
+- Di 22 oct 17h45 GF
 
 [154470]  
 **The Killer**  
@@ -78,7 +78,7 @@ de David Fincher
 Tournée pour Netflix, sur un scénario du père de David Fincher, l'évocation du rôle ingrat des scénaristes dans le grand jeu de dupes hollywoodien – ici Herman J. Mankiewicz, aux manettes du script de _Citizen Kane_. Extraordinaire composition de Gary Oldman, reconstitution fastueuse, et constat un rien amer sur les coulisses de l'industrie des rêves.  
 Le Hollywood des années 1930 raconté à travers la figure de Herman J. Mankiewicz, critique social et scénariste alcoolique, au moment où il s'efforce de terminer le script de _Citizen Kane_.
 
-- Di 22 oct 20h30 GF
+- Di 22 oct 20h45 GF
 
 [115282]  
 **Millénium : Les hommes qui n'aimaient pas les femmes**  
@@ -141,7 +141,8 @@ Voir aussi masterclass p. xx
 
 ## Rencontres et conférences
 
-**Masterclass Fincher**
+**Masterclass Fincher**  
+« Je connaissais bien cette histoire pour avoir grandi près de San Francisco : Zodiac hantait mes cauchemars de gosse. J'ai toujours pensé qu'il y avait eu une énorme chasse à l'homme pour trouver ce type. Il s'avère que c'était deux gars avec des téléphones à cadran et des stylos Bic. Même si la télé nous disait qu'ils examinaient des fichiers informatiques comparant les empreintes digitales, la réalité était que la technologie n'existait sous aucune forme, pas même un fax. Ce sont ces temps primitifs que nous avons voulu rappeler. » (David Fincher)
 
 - Sa 14 oct 17h15 HL  
 À la suite de la masterclass, à 14h30, projection d'un film choisi par le conférencier : _Zodiac_ de David Fincher (voir p. xx)

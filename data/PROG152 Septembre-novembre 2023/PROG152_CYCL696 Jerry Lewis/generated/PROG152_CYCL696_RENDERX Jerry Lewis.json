@@ -81,16 +81,6 @@
           ],
           "seances": [
             {
-              "idSeance": 104860,
-              "dateHeure": "2023-11-15T20:30:00",
-              "idSalle": "GF"
-            },
-            {
-              "idSeance": 104892,
-              "dateHeure": "2023-11-16T20:00:00",
-              "idSalle": "GF"
-            },
-            {
               "idSeance": 104891,
               "dateHeure": "2023-11-18T20:00:00",
               "idSalle": "GF"
@@ -181,16 +171,6 @@
             }
           ],
           "seances": [
-            {
-              "idSeance": 104860,
-              "dateHeure": "2023-11-15T20:30:00",
-              "idSalle": "GF"
-            },
-            {
-              "idSeance": 104892,
-              "dateHeure": "2023-11-16T20:00:00",
-              "idSalle": "GF"
-            },
             {
               "idSeance": 104891,
               "dateHeure": "2023-11-18T20:00:00",
@@ -360,16 +340,6 @@
           ],
           "seances": [
             {
-              "idSeance": 104860,
-              "dateHeure": "2023-11-15T20:30:00",
-              "idSalle": "GF"
-            },
-            {
-              "idSeance": 104892,
-              "dateHeure": "2023-11-16T20:00:00",
-              "idSalle": "GF"
-            },
-            {
               "idSeance": 104891,
               "dateHeure": "2023-11-18T20:00:00",
               "idSalle": "GF"
@@ -448,9 +418,9 @@
                   "realisateurs": "Jerry Lewis",
                   "pays": "États-Unis",
                   "annee": 1961,
-                  "duree": 106,
-                  "version": "VOSTF",
-                  "format": "DCP",
+                  "duree": 110,
+                  "version": "",
+                  "format": "35 mm",
                   "generique": [
                     "Jerry Lewis",
                     "Helen Traubel",
@@ -462,8 +432,14 @@
               ],
               "seances": [
                 {
+                  "idSeance": 104958,
+                  "dateHeure": "2023-11-15T20:30:00",
+                  "idSalle": "GF",
+                  "idSeanceAssoc": 104595
+                },
+                {
                   "idSeance": 104595,
-                  "idSeanceAssoc": 104595,
+                  "idSeanceAssoc": 104697,
                   "typeAssoc": 117,
                   "dateHeure": "2023-11-18T14:30:00",
                   "idSalle": "HL"
@@ -486,7 +462,7 @@
                   "typeAssoc": 117,
                   "dateHeure": "2023-11-18T16:15:00",
                   "idSalle": "HL",
-                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Le Tombeur de ces dames_ de Jerry Lewis"
+                  "mentionAssoc": "À la suite de la conférence, à 20h30, projection d'un film choisi par le conférencier : _Le Tombeur de ces dames_ de Jerry Lewis"
                 }
               ]
             }

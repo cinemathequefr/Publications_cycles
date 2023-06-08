@@ -1,0 +1,187 @@
+{
+  "datesCycle": [
+    "2023-03-10T21:30:00",
+    "2023-03-12T19:00:00"
+  ],
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 102664,
+          "content": [
+            {
+              "idFilm": 102664,
+              "ordre": 1,
+              "titre": "Gardien de l'enfer",
+              "art": "Le",
+              "titreVo": "Jigoku no keibi-in",
+              "realisateurs": "Kiyoshi Kurosawa",
+              "pays": "Japon",
+              "annee": 1992,
+              "duree": 97,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Makiko Kuno",
+                "Yutaka Matsushige",
+                "Hatsunori Hasegawa"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 100639,
+              "dateHeure": "2023-03-10T21:30:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Clément Rauger"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 1,
+      "titreSousCycle": "Carte blanche à Kiyoshi Kurosawa",
+      "items": [
+        {
+          "idFilm": 133144,
+          "content": [
+            {
+              "idFilm": 133144,
+              "ordre": 1,
+              "titre": "Alliés",
+              "titreVo": "Allied",
+              "realisateurs": "Robert Zemeckis",
+              "pays": "États-Unis",
+              "annee": 2016,
+              "duree": 121,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Brad Pitt",
+                "Marion Cotillard",
+                "Jared Harris"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 100634,
+              "dateHeure": "2023-03-12T14:00:00",
+              "idSalle": "HO",
+              "mention": "Séance présentée par Kiyoshi Kurosawa"
+            }
+          ]
+        },
+        {
+          "idFilm": 77471,
+          "content": [
+            {
+              "idFilm": 77471,
+              "ordre": 1,
+              "titre": "Armored Car Robbery",
+              "realisateurs": "Richard Fleischer",
+              "pays": "États-Unis",
+              "annee": 1950,
+              "duree": 67,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Charles McGraw",
+                "Adele Jergens",
+                "William Talman"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 100620,
+              "dateHeure": "2023-03-12T19:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Kiyoshi Kurosawa"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 65545,
+              "content": [
+                {
+                  "idFilm": 65545,
+                  "ordre": 1,
+                  "titre": "Cure",
+                  "titreVo": "Kyua",
+                  "realisateurs": "Kiyoshi Kurosawa",
+                  "pays": "Japon",
+                  "annee": 1997,
+                  "duree": 111,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Kōji Yakusho",
+                    "Masato Hagiwara",
+                    "Tsuyoshi Ujiki",
+                    "Anna Nakagawa"
+                  ]
+                }
+              ],
+              "seances": []
+            },
+            {
+              "idEvenement": 27897,
+              "content": [
+                {
+                  "idConf": 27897,
+                  "ordre": 2,
+                  "titre": "Master class de Kiyoshi Kurosawa",
+                  "typeConference": "Master class",
+                  "mentionAnimation": "Rencontre animée par Jean-François Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 100671,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-03-11T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 71777,
+          "content": [
+            {
+              "idFilm": 71777,
+              "ordre": 1,
+              "titre": "Spontaneous Combustion",
+              "realisateurs": "Tobe Hooper",
+              "pays": "États-Unis",
+              "annee": 1989,
+              "duree": 97,
+              "version": "VOSTF",
+              "format": "Numérique",
+              "generique": [
+                "Brad Dourif",
+                "Cynthia Bain",
+                "Jon Cypher"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 100672,
+              "dateHeure": "2023-03-11T16:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Kiyoshi Kurosawa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

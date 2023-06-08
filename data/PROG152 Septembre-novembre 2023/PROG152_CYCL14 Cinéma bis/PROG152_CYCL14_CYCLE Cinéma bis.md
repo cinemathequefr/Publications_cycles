@@ -99,4 +99,25 @@ De curieux objets volants non identifiés envahissent le ciel, aux quatre coins 
 
 - Ve 24 nov 19h00 GF
 
+## Qui êtes-vous Edward L. Cahn ?
+
+[30781]  
+**Curse of the Faceless Man**  
+d'Edward L. Cahn  
+États-Unis / 1958 / 67 min / VOSTF  
+Avec Richard Anderson, Adele Mara, Luis Van Rooten.  
+Un corps pétrifié est déterré à Pompéi. Les gens laissés seuls avec lui meurent tous le crane écrasé.
+
+- Ve 10 nov 19h30 GF
+
+[131885]  
+**Le Poignard de bambou**  
+**(The Four Skulls of Jonathan Drake)**  
+d'Edward L. Cahn  
+États-Unis / 1959 / 70 min / VOSTF / 16 mm  
+Avec Eduard Franz, Valerie French, Henry Daniell.  
+Une étrange malédiction semble peser, depuis des années, sur les membres mâles d'une famille américaine : l'élément masculin meurt toujours dans sa soixantième année, d'une manière ou d'une autre, décapité.
+
+- Ve 10 nov 21h15 GF
+
 Remerciements : Warner Bros Picture France

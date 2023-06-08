@@ -905,7 +905,7 @@ La névrose parentale est au centre de _La Vallée de la peur_, western psychana
 Le cowboy Jeb Rand est assailli par des visions cauchemardesques, où il revoit le meurtre de ses parents durant son enfance. Tandis que sa vie défile, il se remémore les visages des siens et ceux de leurs assassins qu'il s'est toujours juré d'abattre.
 
 - Sa 9 sep 20h30 HL  
-- Di 22 oct 17h30 HL
+- Di 22 oct 17h15 HL
 
 [79791]  
 **Victime du destin**  

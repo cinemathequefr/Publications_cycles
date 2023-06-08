@@ -98,7 +98,8 @@ Voir aussi table ronde p. xx
 **Table ronde Cléo de 5 à 7**  
 Animée par Frédéric Bonnaud, une table ronde pour évoquer le chef-d'œuvre d'Agnès Varda, et notamment son tournage, avec Jurith Ertel, autrice d'un livre sur le film, Charlotte Garson, journaliste aux _Cahiers du cinéma_, ainsi que le réalisateur et producteur Marin Karmitz, qui fut l'assistant de Varda sur le plateau de _Cléo de 5 à 7_.
 
-- Sa 21 oct 16h30 HL
+- Sa 21 oct 16h30 HL  
+Séance suivie d'une discussion avec Marin Karmitz, Judith Ertel et Charlotte Garson
 
 **Table ronde Sans toit ni loi**  
 Un dialogue autour du geste de réalisatrice d'Agnès Varda, qui aura renouvelé le langage cinématographique autant que la représentation des personnages féminins à l'écran. Animée par Florence Tissot, commissaire de l'exposition _Viva Varda !_, cette table ronde réunit la productrice et costumière Rosalie Varda, Clémentine Charlemaine, déléguée générale de Cinéma pour tous et coprésidente du collectif 50/50, ainsi que Brigitte Rollet, autrice de _Femmes et cinéma, sois belle et tais-toi !_
@@ -108,5 +109,6 @@ Un dialogue autour du geste de réalisatrice d'Agnès Varda, qui aura renouvelé
 
 **Table Ronde Les glaneurs et la glaneuse**
 
-- Di 5 nov 16h00 GF
+- Di 5 nov 16h00 GF  
+Séance suivie d'une discussion avec Sylvain Dreyer, Nathalie Mauffrey et Clémentine Charlemaine
 

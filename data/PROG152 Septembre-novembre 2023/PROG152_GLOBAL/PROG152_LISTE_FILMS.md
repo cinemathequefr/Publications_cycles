@@ -28,14 +28,16 @@
   * Amours d'une blonde (Les)  
   * Docteur Jerry et Mister Love
 
-## Cinéma bis (9)
+## Cinéma bis (11)
 
   * Blastfighter, l'exécuteur  
+  * Curse of the Faceless Man  
   * Dans le cercle du vice  
   * Filles de Grenoble (Les)  
   * Frankenstein 2000, the vindicator  
   * Indic (L')  
   * Nuits galantes d'une infidèle (Les)  
+  * Poignard de bambou (Le)  
   * Soucoupes volantes attaquent (Les)  
   * Spectre  
   * Vengeance
