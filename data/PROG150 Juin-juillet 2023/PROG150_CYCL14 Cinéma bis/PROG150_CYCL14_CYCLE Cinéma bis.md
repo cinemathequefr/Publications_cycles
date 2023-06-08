@@ -43,7 +43,7 @@ de George C. Scott
 Avec George C. Scott, Martin Sheen, Richard Basehart.  
 Un propriétaire de ranch voit son stock détruit et son fils tué à cause d'une erreur militaire. Quand il cherche à connaître la vérité, il se retrouve face à un mur du silence.
 
-- Ve 9 juin 21h15 GF
+- Ve 9 juin 21h15 JE
 
 ## Vigilante
 
@@ -84,7 +84,7 @@ Avec Christina von Blanc, Howard Vernon, Britt Nichols, Paul Muller.
 **Le Cabaret des filles perverses**  
 **(Blue Rita)**  
 de Jess Franco  
-France-Suisse / 1976 / 72 min / VOSTF / 35 mm  
+France-Suisse / 1976 / 72 min / VFSTF / 35 mm  
 Avec Martine Fléty, Sarah Strasberg, Erik Falk.  
 Derrère un cabaret de strip-tease, le Blue Rita, il se cache une redoutable organisation criminelle louant ses services au plus offrant.
 

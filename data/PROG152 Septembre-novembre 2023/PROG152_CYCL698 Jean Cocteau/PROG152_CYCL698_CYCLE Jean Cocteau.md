@@ -216,7 +216,7 @@ Avec Fabrice Rouleau, Emmanuelle Riva, Jean Servais.
 À coups de griffes antimilitaristes et anticléricales, la guerre vue de l'arrière du front, par un adolescent et une infirmière. Avec tout son savoir-faire de poète de l'horreur, Franju adapte l'œuvre de Cocteau, d'une noirceur lumineuse, où la vie n'est qu'une illusion et la mort une réalité.  
 En 1914, une princesse devenue infirmière est aidée par un jeune sous-lieutenant qui a usurpé l'identité d'un jeune aristocrate.
 
-- Di 26 nov 17h30 GF
+- Di 26 nov 17h45 GF
 
 ## Autour de Jean Cocteau
 
@@ -245,7 +245,7 @@ Le monologue d'une femme, folle de jalousie, d'angoisse et de colère devant l'i
 
 Le monologue d'une femme, folle de jalousie, d'angoisse et de colère devant l'indifférence et l'infidélité de son jeune amant. Film restauré et numérisé par Ciné-Tamaris avec le soutien du CNC et de la Fondation Bergé.
 
-- Di 26 nov 19h30 GF  
+- Di 26 nov 19h45 GF  
 Film suivi de _Django Reinhardt_ de Paul Paviot, _Pantomimes_ de Paul Paviot
 
 [58762]  
@@ -280,7 +280,7 @@ Avec Yves Montand, Django Reinhardt, Stéphane Grappelli.
 Façon impro de jazz, un portrait impressionniste du guitariste de génie, introduit par Cocteau, et porté par la poésie du commentaire signé Chris Marker, récité par Yves Montand.  
 De la boîte de nuit _La Roulotte_ au légendaire club de jazz _Le Bœuf sur le toit_, Paul Paviot revient sur la vie et la carrière du guitariste qui a fondé avec Stéphane Grappelli le Hot Club de France. Commentaire de Chris Marker. Textes liminaires par Jean Cocteau.
 
-- Di 26 nov 19h30 GF  
+- Di 26 nov 19h45 GF  
 Film précédé de _Le Bel Indifférent_ de Jacques Demy et suivi de de _Pantomimes_ de Paul Paviot
 
 [50548]  
@@ -291,7 +291,7 @@ Avec Marcel Marceau.
 Sur un commentaire écrit et dit par Cocteau, le mime Marceau décrit les différentes étapes de la vie, adolescence, maturité et vieillesse.  
 Marcel Marceau joue aux dés, chasse les papillons, apprivoise les animaux sauvages et décrit les étapes de la vie : l'adolescence, la maturité et la vieillesse.
 
-- Di 26 nov 19h30 GF  
+- Di 26 nov 19h45 GF  
 Film précédé de _Le Bel Indifférent_ de Jacques Demy, _Django Reinhardt_ de Paul Paviot
 
 [52041]  

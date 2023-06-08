@@ -48,7 +48,7 @@ Texte à saisir
 
 Voyager en autobus, rien de plus classique, mais quand l'autobus est fabriqué de bric et de broc et qu'on ne connaît ni la destination, ni les horaires du voyage, là, ça devient vraiment original. Voyage aussi surprenant que poétique imaginé par les deux frères Prévert, Pierre et Jacques.
 
-- Ve 8 sep 20h30 JE
+- Ve 8 sep 20h45 JE
 
 ## Muets italiens d'avant 1922
 

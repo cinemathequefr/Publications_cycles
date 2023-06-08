@@ -351,9 +351,9 @@
           ]
         },
         {
-          "idSeance": 104916,
+          "idSeance": 104950,
           "ordre": 1,
-          "dateHeure": "2023-10-22T14:30:00",
+          "dateHeure": "2023-10-12T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -780,10 +780,10 @@
         {
           "idSeance": 104914,
           "ordre": 1,
-          "dateHeure": "2023-10-21T18:15:00",
+          "dateHeure": "2023-10-21T18:00:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 165,
           "idCategorie": 2286,
@@ -1006,6 +1006,10 @@
             {
               "typeTexte": 9,
               "texte": "Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Grand Duc Eugen à la veille de son mariage avec la Princesse Varvara."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par le MoMA."
             }
           ]
         },
@@ -1890,10 +1894,10 @@
         {
           "idSeance": 104915,
           "ordre": 1,
-          "dateHeure": "2023-10-21T21:00:00",
+          "dateHeure": "2023-10-21T20:45:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 135,
           "idCategorie": 2286,
@@ -1967,7 +1971,7 @@
         {
           "idSeance": 104913,
           "ordre": 1,
-          "dateHeure": "2023-10-20T20:30:00",
+          "dateHeure": "2023-10-20T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -2197,9 +2201,9 @@
           ]
         },
         {
-          "idSeance": 104912,
+          "idSeance": 104951,
           "ordre": 1,
-          "dateHeure": "2023-10-20T18:30:00",
+          "dateHeure": "2023-10-12T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -2274,7 +2278,7 @@
         {
           "idSeance": 104513,
           "ordre": 1,
-          "dateHeure": "2023-10-04T20:15:00",
+          "dateHeure": "2023-10-04T20:45:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -2346,7 +2350,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Restauré par le MoMA avec le soutien de la Film Foundation."
+              "texte": "Restauration 4K par le MoMA and The Film Foundation, avec le soutien financier de Hobson / Lucas Family Foundation et le Fonds culturel franco-américan et avec la la collaboration de Directors Guild of America (DGA), Motion Picture Association of America (MPAA), Société des auteurs, compositeurs et éditeurs de musique (SACEM), et de Writers Guild of America, West (WGAW)."
             }
           ]
         },
@@ -3092,14 +3096,14 @@
           ]
         },
         {
-          "idSeance": 104570,
+          "idSeance": 104953,
           "ordre": 1,
           "dateHeure": "2023-09-29T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 30,
+          "dureeSeance": 105,
           "idCategorie": 2286,
           "idEvenement": 26920,
           "typeEvenement": 13,
@@ -3484,6 +3488,8 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104956,
           "idCategorie": 2286,
           "idEvenement": 26865,
           "typeEvenement": 13,
@@ -3593,14 +3599,14 @@
           ]
         },
         {
-          "idSeance": 104651,
+          "idSeance": 104952,
           "ordre": 1,
           "dateHeure": "2023-09-09T20:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 30,
+          "dureeSeance": 135,
           "idCategorie": 2286,
           "idEvenement": 26910,
           "typeEvenement": 13,
@@ -3707,9 +3713,9 @@
           ]
         },
         {
-          "idSeance": 104870,
+          "idSeance": 104949,
           "ordre": 1,
-          "dateHeure": "2023-10-14T14:30:00",
+          "dateHeure": "2023-10-22T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -3779,6 +3785,10 @@
             {
               "typeTexte": 9,
               "texte": "Salomy Jane, un garçon manqué, vit avec son père dans une petite ville de la Sierra Nevada. Elle rencontre un homme mystérieux, surnommé l'Étranger, qui recherche le responsable du suicide de sa sœur."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré par le MoMA avec le soutien de Celeste Bartos Fund for Film Preservation."
             }
           ]
         },
@@ -3896,6 +3906,34 @@
           "intervenants": [
             {
               "nomComplet": "Jean-François Rauger",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        },
+        {
+          "idSeance": 104956,
+          "dateHeure": "2023-09-07T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104650,
+          "idCategorie": 3091,
+          "idEvenement": 28586,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "« Conférence Walsh » par Serge Chauvin",
+          "sousTitre": "Conférence de Serge Chauvin",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Serge Chauvin",
               "idFonction": 139,
               "fonction": "Conférencier",
               "ordre": 1

@@ -1575,10 +1575,35 @@
     "hashEvenement": "f154432"
   },
   {
+    "idSeance": 104154,
+    "idEvenement": 28127,
+    "dateHeure": "2023-06-09T21:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Raretés de la Warner Bros."
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 89112,
+        "titre": "Rage au cœur",
+        "art": "La",
+        "realisateurs": "George C. Scott",
+        "annee": 1972,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f89112"
+  },
+  {
     "idSeance": 104207,
     "idEvenement": 28232,
     "dateHeure": "2023-06-09T21:15:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Fenêtre sur les collections",
@@ -1613,31 +1638,6 @@
       }
     ],
     "hashEvenement": "f90296f154394f146798"
-  },
-  {
-    "idSeance": 104154,
-    "idEvenement": 28127,
-    "dateHeure": "2023-06-09T21:15:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Cinéma bis",
-        "Raretés de la Warner Bros."
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 89112,
-        "titre": "Rage au cœur",
-        "art": "La",
-        "realisateurs": "George C. Scott",
-        "annee": 1972,
-        "duree": 100,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f89112"
   },
   {
     "idSeance": 104106,
@@ -5121,7 +5121,7 @@
         "realisateurs": "Jess Franco",
         "annee": 1976,
         "duree": 72,
-        "version": "VFSTF",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],

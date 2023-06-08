@@ -26,7 +26,7 @@ de D.W. Griffith
 Avec Lillian Gish, Dorothy Gish, Erich von Stroheim, Noël Coward.  
 Des jeunes gens grandissent dans un paisible village de France. La guerre est déclarée et l'armée allemande envahit, détruit et occupe le village. La jeunesse du village résiste, avec plus ou moins de réussite.
 
-- Di 26 nov 20h15 HL
+- Di 26 nov 20h30 HL
 
 [32512]  
 **Les Deux orphelines**  
@@ -56,8 +56,7 @@ Pour fustiger l'intolérance à travers les âges, Griffith imagina une fresque 
 De la Babylone antique au début du XXe siècle, illustration en quatre épisodes de la cruauté et de la férocité de l'homme envers son prochain.  
 Restauré en 2K par Cohen Film Collection au Modern Videofilm, à partir de deux contretypes négatifs 35 mm et une copie 35 mm.
 
-- Me 22 nov 20h00 HL  
-Ouverture de la rétrospective
+- Me 22 nov 20h00 HL
 
 [32990]  
 **Le Lys brisé**  

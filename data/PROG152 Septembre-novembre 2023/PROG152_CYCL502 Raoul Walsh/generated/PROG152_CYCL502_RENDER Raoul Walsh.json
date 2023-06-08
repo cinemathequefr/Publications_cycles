@@ -334,9 +334,9 @@
             "typeEvenement": 13
           },
           {
-            "idSeance": 104916,
+            "idSeance": 104950,
             "ordre": 1,
-            "dateHeure": "2023-10-22T14:30:00",
+            "dateHeure": "2023-10-12T20:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -756,10 +756,10 @@
           {
             "idSeance": 104914,
             "ordre": 1,
-            "dateHeure": "2023-10-21T18:15:00",
+            "dateHeure": "2023-10-21T18:00:00",
             "idSalle": [
-              "HL",
-              "Henri Langlois"
+              "GF",
+              "Georges Franju"
             ],
             "typeEvenement": 13
           }
@@ -914,6 +914,10 @@
           {
             "typeTexte": 9,
             "texte": "Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Grand Duc Eugen à la veille de son mariage avec la Princesse Varvara."
+          },
+          {
+            "typeTexte": 99,
+            "texte": "Restauré par le MoMA."
           }
         ],
         "adaptation": "D'après le roman _The Red Dancer of Moscow_ de Henry Leyford Gates.",
@@ -1751,10 +1755,10 @@
           {
             "idSeance": 104915,
             "ordre": 1,
-            "dateHeure": "2023-10-21T21:00:00",
+            "dateHeure": "2023-10-21T20:45:00",
             "idSalle": [
-              "HL",
-              "Henri Langlois"
+              "GF",
+              "Georges Franju"
             ],
             "typeEvenement": 13
           }
@@ -1802,7 +1806,7 @@
           {
             "idSeance": 104913,
             "ordre": 1,
-            "dateHeure": "2023-10-20T20:30:00",
+            "dateHeure": "2023-10-20T18:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -1970,9 +1974,9 @@
         "version": "VOSTF",
         "seances": [
           {
-            "idSeance": 104912,
+            "idSeance": 104951,
             "ordre": 1,
-            "dateHeure": "2023-10-20T18:30:00",
+            "dateHeure": "2023-10-12T18:00:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -2051,7 +2055,7 @@
           {
             "idSeance": 104513,
             "ordre": 1,
-            "dateHeure": "2023-10-04T20:15:00",
+            "dateHeure": "2023-10-04T20:45:00",
             "idSalle": [
               "JE",
               "Jean Epstein"
@@ -2079,7 +2083,7 @@
           },
           {
             "typeTexte": 99,
-            "texte": "Restauré par le MoMA avec le soutien de la Film Foundation."
+            "texte": "Restauration 4K par le MoMA and The Film Foundation, avec le soutien financier de Hobson / Lucas Family Foundation et le Fonds culturel franco-américan et avec la la collaboration de Directors Guild of America (DGA), Motion Picture Association of America (MPAA), Société des auteurs, compositeurs et éditeurs de musique (SACEM), et de Writers Guild of America, West (WGAW)."
           }
         ],
         "adaptation": "D'après la nouvelle _Carmen_ de Prosper Mérimée.",
@@ -2815,7 +2819,7 @@
         "version": "VOSTF",
         "seances": [
           {
-            "idSeance": 104570,
+            "idSeance": 104953,
             "ordre": 1,
             "dateHeure": "2023-09-29T18:00:00",
             "idSalle": [
@@ -3200,7 +3204,10 @@
               "GF",
               "Georges Franju"
             ],
-            "typeEvenement": 13
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104956,
+            "typeEvenement": 13,
+            "mentionRenvoi": "Voir aussi conférence p. xx"
           }
         ]
       },
@@ -3283,7 +3290,7 @@
         "version": "VOSTF",
         "seances": [
           {
-            "idSeance": 104651,
+            "idSeance": 104952,
             "ordre": 1,
             "dateHeure": "2023-09-09T20:30:00",
             "idSalle": [
@@ -3374,9 +3381,9 @@
         "version": "INT. FR.",
         "seances": [
           {
-            "idSeance": 104870,
+            "idSeance": 104949,
             "ordre": 1,
-            "dateHeure": "2023-10-14T14:30:00",
+            "dateHeure": "2023-10-22T14:30:00",
             "idSalle": [
               "HL",
               "Henri Langlois"
@@ -3400,6 +3407,10 @@
           {
             "typeTexte": 9,
             "texte": "Salomy Jane, un garçon manqué, vit avec son père dans une petite ville de la Sierra Nevada. Elle rencontre un homme mystérieux, surnommé l'Étranger, qui recherche le responsable du suicide de sa sœur."
+          },
+          {
+            "typeTexte": 99,
+            "texte": "Restauré par le MoMA avec le soutien de Celeste Bartos Fund for Film Preservation."
           }
         ],
         "adaptation": "D'après le roman _Salomy Jane_ de Bret Harte.",
@@ -3473,6 +3484,31 @@
     "tri": 4,
     "textes": [],
     "items": [
+      {
+        "items": [
+          {
+            "titre": "« Conférence Walsh » par Serge Chauvin",
+            "sousTitre": "Conférence de Serge Chauvin",
+            "textes": [],
+            "duree": 60
+          }
+        ],
+        "seances": [
+          {
+            "idSeance": 104956,
+            "dateHeure": "2023-09-07T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "typeAssoc": 117,
+            "idSeanceAssoc": 104650,
+            "typeEvenement": 14,
+            "typeConference": "Conférence",
+            "mentionRenvoi": "À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _Une corde pour te pendre_ de Raoul Walsh (voir p. xx)"
+          }
+        ]
+      },
       {
         "items": [
           {

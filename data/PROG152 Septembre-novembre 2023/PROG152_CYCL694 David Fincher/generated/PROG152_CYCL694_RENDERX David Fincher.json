@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2023-10-12T18:00:00",
-    "2023-10-19T21:00:00"
+    "2023-10-13T20:30:00",
+    "2023-10-22T20:30:00"
   ],
   "sousCycles": [
     {
@@ -31,8 +31,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104455,
-              "dateHeure": "2023-10-13T14:30:00",
+              "idSeance": 104937,
+              "dateHeure": "2023-10-18T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -64,9 +64,9 @@
           ],
           "seances": [
             {
-              "idSeance": 104467,
-              "dateHeure": "2023-10-16T20:30:00",
-              "idSalle": "GF"
+              "idSeance": 104942,
+              "dateHeure": "2023-10-20T20:15:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -93,8 +93,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104458,
-              "dateHeure": "2023-10-14T17:15:00",
+              "idSeance": 104940,
+              "dateHeure": "2023-10-19T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -122,8 +122,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104459,
-              "dateHeure": "2023-10-13T19:45:00",
+              "idSeance": 104939,
+              "dateHeure": "2023-10-19T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -152,9 +152,9 @@
           ],
           "seances": [
             {
-              "idSeance": 104864,
-              "dateHeure": "2023-10-19T18:00:00",
-              "idSalle": "HL"
+              "idSeance": 104944,
+              "dateHeure": "2023-10-22T17:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -183,17 +183,17 @@
           "seances": [
             {
               "idSeance": 104614,
-              "dateHeure": "2023-10-12T20:30:00",
+              "dateHeure": "2023-10-13T20:30:00",
               "idSalle": "HL"
             },
             {
               "idSeance": 104615,
-              "dateHeure": "2023-10-12T20:30:00",
+              "dateHeure": "2023-10-13T20:30:00",
               "idSalle": "GF"
             },
             {
               "idSeance": 104616,
-              "dateHeure": "2023-10-12T20:30:00",
+              "dateHeure": "2023-10-13T20:30:00",
               "idSalle": "JE"
             }
           ]
@@ -216,9 +216,9 @@
           ],
           "seances": [
             {
-              "idSeance": 104865,
-              "dateHeure": "2023-10-19T21:00:00",
-              "idSalle": "HL"
+              "idSeance": 104945,
+              "dateHeure": "2023-10-22T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -248,8 +248,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104863,
-              "dateHeure": "2023-10-18T20:30:00",
+              "idSeance": 104946,
+              "dateHeure": "2023-10-21T18:30:00",
               "idSalle": "HL"
             }
           ]
@@ -277,8 +277,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104466,
-              "dateHeure": "2023-10-16T18:00:00",
+              "idSeance": 104941,
+              "dateHeure": "2023-10-21T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -305,8 +305,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104456,
-              "dateHeure": "2023-10-13T17:00:00",
+              "idSeance": 104938,
+              "dateHeure": "2023-10-18T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -337,63 +337,66 @@
           ],
           "seances": [
             {
-              "idSeance": 104468,
-              "dateHeure": "2023-10-18T18:00:00",
+              "idSeance": 104936,
+              "dateHeure": "2023-10-14T20:00:00",
               "idSalle": "HL"
             }
           ]
         },
         {
-          "idFilm": 101866,
-          "content": [
+          "groupe": [
             {
               "idFilm": 101866,
-              "ordre": 1,
-              "titre": "Zodiac",
-              "realisateurs": "David Fincher",
-              "pays": "États-Unis",
-              "annee": 2007,
-              "duree": 156,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après les récits _Zodiac_ et _Zodiac Unmasked_ de Robert Graysmith.",
-              "generique": [
-                "Jake Gyllenhaal",
-                "Robert Downey Jr.",
-                "Mark Ruffalo"
+              "content": [
+                {
+                  "idFilm": 101866,
+                  "ordre": 1,
+                  "titre": "Zodiac",
+                  "realisateurs": "David Fincher",
+                  "pays": "États-Unis",
+                  "annee": 2007,
+                  "duree": 156,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après les récits _Zodiac_ et _Zodiac Unmasked_ de Robert Graysmith.",
+                  "generique": [
+                    "Jake Gyllenhaal",
+                    "Robert Downey Jr.",
+                    "Mark Ruffalo"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Le film de la maturité, récit rigoureux et ample d'une enquête longue de trente ans, menée par deux journalistes et deux enquêteurs sur les traces d'un insaisissable serial killer – le Zodiac, qui sévissait à San Francisco à la fin des sixties. Loin des effets de ses débuts, Fincher adopte la grande forme classique du cinéma américain des années 70, celle des Pakula et autres Pollack. La minutie maniaque de la reconstitution, magnifiée par la photographie du regretté Harry Savides, le suspense implacable de certaines scènes et le casting impeccable font de _Zodiac_ l'un des grands films américains de son époque."
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Le film de la maturité, récit rigoureux et ample d'une enquête longue de trente ans, menée par deux journalistes et deux enquêteurs sur les traces d'un insaisissable serial killer – le Zodiac, qui sévissait à San Francisco à la fin des sixties. Loin des effets de ses débuts, Fincher adopte la grande forme classique du cinéma américain des années 70, celle des Pakula et autres Pollack. La minutie maniaque de la reconstitution, magnifiée par la photographie du regretté Harry Savides, le suspense implacable de certaines scènes et le casting impeccable font de _Zodiac_ l'un des grands films américains de son époque."
-            }
-          ],
-          "seances": [
+              "seances": [
+                {
+                  "idSeance": 104935,
+                  "idSeanceAssoc": 104935,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-10-14T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
+            },
             {
-              "idSeance": 104462,
-              "dateHeure": "2023-10-14T20:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 28589,
-          "content": [
-            {
-              "idConf": 28589,
-              "titre": "Masterclass Fincher",
-              "typeConference": "MasterClass"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104670,
-              "dateHeure": "2023-10-12T18:00:00",
-              "idSalle": "HL"
+              "idEvenement": 28589,
+              "content": [
+                {
+                  "idConf": 28589,
+                  "titre": "Masterclass Fincher",
+                  "typeConference": "MasterClass"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104947,
+                  "idSeanceAssoc": 104935,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-10-14T17:15:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Zodiac_ de David Fincher"
+                }
+              ]
             }
           ]
         }

@@ -273,8 +273,8 @@
               "idSalle": "HL"
             },
             {
-              "idSeance": 104916,
-              "dateHeure": "2023-10-22T14:30:00",
+              "idSeance": 104950,
+              "dateHeure": "2023-10-12T20:00:00",
               "idSalle": "HL"
             }
           ]
@@ -597,8 +597,8 @@
             },
             {
               "idSeance": 104914,
-              "dateHeure": "2023-10-21T18:15:00",
-              "idSalle": "HL"
+              "dateHeure": "2023-10-21T18:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1353,8 +1353,8 @@
             },
             {
               "idSeance": 104915,
-              "dateHeure": "2023-10-21T21:00:00",
-              "idSalle": "HL"
+              "dateHeure": "2023-10-21T20:45:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1391,7 +1391,7 @@
             },
             {
               "idSeance": 104913,
-              "dateHeure": "2023-10-20T20:30:00",
+              "dateHeure": "2023-10-20T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -1519,8 +1519,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104912,
-              "dateHeure": "2023-10-20T18:30:00",
+              "idSeance": 104951,
+              "dateHeure": "2023-10-12T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -1581,7 +1581,7 @@
           "seances": [
             {
               "idSeance": 104513,
-              "dateHeure": "2023-10-04T20:15:00",
+              "dateHeure": "2023-10-04T20:45:00",
               "idSalle": "JE"
             }
           ]
@@ -2183,7 +2183,7 @@
           ],
           "seances": [
             {
-              "idSeance": 104570,
+              "idSeance": 104953,
               "dateHeure": "2023-09-29T18:00:00",
               "idSalle": "HL"
             }
@@ -2440,32 +2440,59 @@
           ]
         },
         {
-          "idFilm": 37734,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 28586,
+              "content": [
+                {
+                  "idConf": 28586,
+                  "titre": "« Conférence Walsh » par Serge Chauvin",
+                  "sousTitre": "Conférence de Serge Chauvin",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104956,
+                  "idSeanceAssoc": 104650,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-09-07T19:00:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _Une corde pour te pendre_ de Raoul Walsh"
+                }
+              ]
+            },
             {
               "idFilm": 37734,
-              "ordre": 1,
-              "titre": "Une corde pour te pendre",
-              "titreVo": "Along the Great Divide",
-              "realisateurs": "Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1951,
-              "duree": 88,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Kirk Douglas",
-                "Virginia Mayo",
-                "John Agar"
+              "content": [
+                {
+                  "idFilm": 37734,
+                  "ordre": 1,
+                  "titre": "Une corde pour te pendre",
+                  "titreVo": "Along the Great Divide",
+                  "realisateurs": "Raoul Walsh",
+                  "pays": "États-Unis",
+                  "annee": 1951,
+                  "duree": 88,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Kirk Douglas",
+                    "Virginia Mayo",
+                    "John Agar"
+                  ],
+                  "miniTexte": "Sur les sentiers de l'Ouest, l'escorte d'un prisonnier pourchassé par une bande armée qui veut sa peau. Pour son premier western, pétri de tension et de violence, Kirk Douglas affiche un beau charisme en _marshall_ attaché à l'ordre et à la justice."
+                }
               ],
-              "miniTexte": "Sur les sentiers de l'Ouest, l'escorte d'un prisonnier pourchassé par une bande armée qui veut sa peau. Pour son premier western, pétri de tension et de violence, Kirk Douglas affiche un beau charisme en _marshall_ attaché à l'ordre et à la justice."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104650,
-              "dateHeure": "2023-09-07T21:15:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 104650,
+                  "idSeanceAssoc": 104650,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-09-07T21:15:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -2531,7 +2558,7 @@
           ],
           "seances": [
             {
-              "idSeance": 104651,
+              "idSeance": 104952,
               "dateHeure": "2023-09-09T20:30:00",
               "idSalle": "HL"
             },
@@ -2599,8 +2626,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104870,
-              "dateHeure": "2023-10-14T14:30:00",
+              "idSeance": 104949,
+              "dateHeure": "2023-10-22T14:30:00",
               "idSalle": "HL"
             }
           ]

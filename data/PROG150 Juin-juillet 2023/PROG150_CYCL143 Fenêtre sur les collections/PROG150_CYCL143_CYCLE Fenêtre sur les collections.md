@@ -34,7 +34,7 @@ de Mohammed Latrèche
 France-Algérie / 2019 / 63 min / DCP  
 Ayant animé pendant 34 ans la Cinémathèque algérienne, Boudjemâa Karèche a été le témoin privilégié des plus riches heures de l'institution créée en 1965. Depuis son îlot, il revient sur son parcours, de l'effervescence des débuts et sa complicité avec Henri Langlois à la terreur des années 1990. C'est aussi l'Histoire de l'Algérie qui est racontée en filigrane à travers le destin d'un héros discret qui a programmé des films sans relâche.
 
-- Ve 9 juin 21h15 JE  
+- Ve 9 juin 21h15 GF  
 Séance présentée par Mehdi Taïbi
 
 ## Ciné-expéditions

@@ -94,7 +94,7 @@ Fleuron du film de guerre, sorti en 1945, _Aventures en Birmanie_ plonge le spec
 En 1943, un commando de parachutistes américains est largué au-dessus de la zone occupée en Birmanie pour détruire une station radar japonaise. Sa mission accomplie, le commando doit redoubler d'efforts pour fuir les soldats de l'armée japonaise.
 
 - Sa 30 sep 20h30 HL  
-- Di 22 oct 14h30 HL
+- Je 12 oct 20h00 HL
 
 [58507]  
 **Barbe-Noire le pirate**  
@@ -213,7 +213,7 @@ De l'école militaire de West Point à la défaite de Little Big Horn, la biogra
 Dans le camp militaire de West Point, le jeune Custer se distingue par son talent et son insubordination. Après avoir remporté la bataille de Hanover durant la guerre de Sécession, il est muté à la tête d'une garnison bientôt attaquée par les Indiens de Crazy Horse.
 
 - Sa 2 sep 16h30 HL  
-- Sa 21 oct 18h15 HL
+- Sa 21 oct 18h00 GF
 
 [37786]  
 **Cheyenne**  
@@ -257,7 +257,8 @@ de Raoul Walsh
 D'après le roman _The Red Dancer of Moscow_ de Henry Leyford Gates.  
 Avec Dolores del Río, Charles Farrell, Ivan Linow.  
 Après avoir dévoilé l'exotisme de Dolores Del Rio dans _Les Amours de Carmen_, Walsh retrouve l'actrice mexicaine dans le rôle d'une danseuse russe qui s'éprend du prince qu'elle doit assassiner. Derrière l'intrigue amoureuse, une évocation spectaculaire de la Révolution de 1917, dans l'ultime œuvre muette du réalisateur.  
-Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Grand Duc Eugen à la veille de son mariage avec la Princesse Varvara.
+Peu avant la Révolution, Tasia, une jeune paysanne, est chargée de tuer le Grand Duc Eugen à la veille de son mariage avec la Princesse Varvara.  
+Restauré par le MoMA.
 
 - Sa 7 oct 18h00 GF
 
@@ -484,7 +485,7 @@ L'histoire d'une irrésistible ascension, celle de James Corbett, modeste employ
 Jim veut tout très vite : être champion de boxe, grand acteur shakespearien et surtout épouser la fille de son patron. Les entraînements, les matchs fougueux, la vie à toute vitesse, sauront lui apprendre à changer.
 
 - Di 3 sep 16h45 HL  
-- Sa 21 oct 21h00 HL
+- Sa 21 oct 20h45 GF
 
 [36814]  
 **La Grande Évasion**  
@@ -497,7 +498,7 @@ Avec Roy Earle, célèbre gangster chargé d'organiser un nouveau casse à sa so
 Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de prison. Celui-ci, devenu son débiteur, accepte de participer à ce hold-up qui doit les rendre riches, mais croise la route de la belle Velma.
 
 - Ve 1 sep 20h15 HL  
-- Ve 20 oct 20h30 HL
+- Ve 20 oct 18h00 HL
 
 [85146]  
 **The Horn Blows at Midnight**  
@@ -542,7 +543,7 @@ Avec Warner Baxter, Edmund Lowe, Dorothy Burgess.
 Premier film parlant tourné en extérieurs, un western qui fait date dans l'histoire du cinéma. La traque du célèbre bandit mexicain, Cisco Kid, charmé par une courtisane, participe au mythe du cow-boy chantant. C'est aussi sur ce tournage que Walsh perdit un œil dans un accident de voiture.  
 Le bandit mexicain Cisco Kid a toujours une longueur d'avance sur ses poursuivants. Tombé sous le charme de Tonia, leur idylle vient bouleverser ses plans
 
-- Ve 20 oct 18h30 HL
+- Je 12 oct 18h00 HL
 
 [37781]  
 **Intrigues en Orient**  
@@ -565,7 +566,7 @@ Avec Miriam Cooper, Ralph Graves, Lionel Belmore.
 Le réalisateur met en vedette son épouse, l'actrice Miriam Cooper, dans le rôle d'une femme victime d'un mari bigame. Un drame sentimental, l'un des plus vieux films muets de Walsh encore visible.  
 Lorsqu'elle apprend que son époux est déjà marié à une autre, Nan retourne, avec son fils, dans sa ville natale. Elle y est traitée comme une paria par tous les habitants, sauf Donald, son amour de jeunesse.
 
-- Me 4 oct 20h15 JE
+- Me 4 oct 20h45 JE
 
 [81234]  
 **The Loves of Carmen**  
@@ -575,7 +576,7 @@ D'après la nouvelle _Carmen_ de Prosper Mérimée.
 Avec Dolores del Río, Don Alvarado, Victor McLaglen.  
 Dolores Del Rio incarne la gitane espagnole, toute en sensualité exotique. L'atmosphère lumineuse de chaque tableau, rythmé par d'audacieux mouvements de caméra, fait de cette version de la nouvelle de Mérimée l'une des plus réussies du cinéma muet.  
 Un soldat et un célèbre torero se disputent les faveurs de Carmen, une gitane espagnole.  
-Restauré par le MoMA avec le soutien de la Film Foundation.
+Restauration 4K par le MoMA and The Film Foundation, avec le soutien financier de Hobson / Lucas Family Foundation et le Fonds culturel franco-américan et avec la la collaboration de Directors Guild of America (DGA), Motion Picture Association of America (MPAA), Société des auteurs, compositeurs et éditeurs de musique (SACEM), et de Writers Guild of America, West (WGAW).
 
 - Di 8 oct 17h00 GF
 
@@ -878,7 +879,8 @@ Sur les sentiers de l'Ouest, l'escorte d'un prisonnier pourchassé par une bande
 Le fils d'un riche propriétaire du Far West a été assassiné par son frère. Pop, un vieil homme, est accusé du crime. Pour lui éviter une pendaison arbitraire, un représentant de la loi décide de le livrer lui-même à la justice, mais, en chemin, il découvre un indice capable de l'innocenter.  
 Film également connu sous le titre _Le Désert de la peur_.
 
-- Je 7 sep 21h15 GF
+- Je 7 sep 21h15 GF  
+Voir aussi conférence p. xx
 
 [36877]  
 **Une femme dangereuse**  
@@ -925,7 +927,7 @@ Avec Douglas Fairbanks, Julanne Johnston, Snitz Edwards.
 Libre adaptation des contes des _Mille et Une Nuits_ avec Douglas Fairbanks. Une superproduction épique ou l'incarnation d'un certain idéal muet hollywoodien, aux décors monumentaux et aux effets spéciaux révolutionnaires.  
 Les aventures extraordinaires d'Ahmed, un petit voleur magicien dans le royaume de Bagdad. Tombé amoureux de la fille du Calife, il va devoir déployer des trésors d'astuces pour la conquérir.
 
-- Sa 14 oct 14h30 HL
+- Di 22 oct 14h30 HL
 
 [82501]  
 **Wild Girl**  
@@ -934,7 +936,8 @@ de Raoul Walsh
 D'après le roman _Salomy Jane_ de Bret Harte.  
 Avec Joan Bennett, Charles Farrell, Ralph Bellamy.  
 Parmi les trésors méconnus de Walsh, les aventures de Salomy Jane et de ses compagnons, parias et marginaux, trouvant refuge dans les forêts profondes de la Sierra Nevada. Inspiré de Bret Harte, connu pour ses écrits sur les pionniers du Far West, une célébration des esprits libres et de la nature sauvage comme dernier sanctuaire.  
-Salomy Jane, un garçon manqué, vit avec son père dans une petite ville de la Sierra Nevada. Elle rencontre un homme mystérieux, surnommé l'Étranger, qui recherche le responsable du suicide de sa sœur.
+Salomy Jane, un garçon manqué, vit avec son père dans une petite ville de la Sierra Nevada. Elle rencontre un homme mystérieux, surnommé l'Étranger, qui recherche le responsable du suicide de sa sœur.  
+Restauré par le MoMA avec le soutien de Celeste Bartos Fund for Film Preservation.
 
 - Sa 14 oct 19h30 GF
 
@@ -950,6 +953,12 @@ Restauré par UCLA Film & Television Archive.
 - Di 1 oct 20h00 HL
 
 ## Rencontres et conférences
+
+**« Conférence Walsh » par Serge Chauvin**  
+**Conférence de Serge Chauvin**
+
+- Je 7 sep 19h00 GF  
+À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _Une corde pour te pendre_ de Raoul Walsh (voir p. xx)
 
 **Film + Discussion avec Jean-François Rauger et Murielle Joudet**
 

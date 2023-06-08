@@ -10,7 +10,7 @@ Avec José Garcia, Rossy de Palma, François Morel, Barbara Schulz, Pierre Richa
 Une impressionnante brochette d'acteurs pour un film choral trop rapidement retiré de l'affiche lors de sa sortie. Variation légère, plus féminine, de _Celles qu'on n'a pas eues_, une comédie à sketches dans le bassin d'Arcachon, qui dit avec finesse les aléas du cœur.  
 A l'occasion d'une noce d'où le mari s'est enfui, à peine la cérémonie terminée, chacun, en guise d'épithalame – ce chant composé à l'occasion d'un mariage – va s'employer à remonter le moral de la mariée.
 
-- Ve 13 oct 18h15 GF
+- Je 12 oct 18h30 GF
 
 [116400]  
 **Associés contre le crime**  
@@ -21,7 +21,7 @@ Avec Catherine Frot, André Dussollier, Linh-Dan Pham.
 Troisième et dernière adaptation d'Agatha Christie pour le tandem Frot/Dussollier. Tirée de la nouvelle _La Femme disparue_, l'intrigue policière (la disparition d'un savant dans une clinique de chirurgie esthétique) s'efface discrètement au profit d'un portrait de couple drolatique, duo d'enquêteurs dont la désinvolture est la seule boussole.  
 Prudence et Bélisaire Beresford ont décidé de prendre un repos bien mérité. Mais une richissime héritière russe disparaît, et Prudence ne résiste pas à l'appel du danger... Bélisaire est bien obligé de suivre sa turbulente épouse.
 
-- Ve 13 oct 20h30 GF
+- Je 12 oct 20h45 GF
 
 [51404]  
 **Celles qu'on n'a pas eues**  
@@ -174,7 +174,7 @@ Avec Darry Cowl, Bernard Menez, Maurice Risch.
 Inspirée des comédies de boulevard d'avant-guerre, Sacha Guitry dans le rétroviseur, une chronique acide du monde du théâtre et du pouvoir de l'argent. Avec la fine fleur de la scène seventies : Bernard Menez, Maurice Risch, Michel Duchaussoy ou encore Darry Cowl en auteur de comédie musicale.  
 Une jeune journaliste, abandonnée par son amant fortuné, va tenter, avec un inventeur musicien, de monter une comédie musicale
 
-- Je 12 oct 17h30 GF
+- Je 12 oct 16h00 GF
 
 [125568]  
 **Valentin Valentin**  

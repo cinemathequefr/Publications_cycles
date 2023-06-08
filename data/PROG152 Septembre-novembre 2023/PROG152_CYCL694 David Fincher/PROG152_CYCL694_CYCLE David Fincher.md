@@ -10,7 +10,7 @@ Avec Sigourney Weaver, Charles Dance, Charles S. Dutton.
 Le premier film de David Fincher, renié depuis par le réalisateur. Échafaudé sur un script ambitieux de Walter Hill (Ripley aux prises avec un alien dans une prison de haute sécurité), émaillé de fulgurances visuelles, _Alien 3_ se révèle une efficace série B malgré ses aléas de production.  
 Ellen Ripley a survécu au carnage provoqué par les Aliens sur la planète LV-426. Son vaisseau s'écrase sur Fiorina 161, une planète-prison où vit une vingtaine d'hommes, parmi les plus dangereux détenus de l'univers.
 
-- Ve 13 oct 14h30 HL
+- Me 18 oct 18h00 HL
 
 [107010]  
 **L'Étrange histoire de Benjamin Button**  
@@ -22,7 +22,7 @@ Avec Brad Pitt, Cate Blanchett, Julia Ormond.
 Le plus mélancolique des films de Fincher, qui voit se croiser les destins de Daisy (Cate Blanchett) et Button (Brad Pitt), un homme né vieillard et qui rajeunit au fil des ans. Les discrets effets spéciaux servent au plus près l'ambition romanesque du film, poignante adaptation d'une nouvelle de F. Scott Fitzgerald.  
 Benjamin Button,nait avec l'apparence d'un vieillard, il est abandonné par son père et recueilli par Queenie. Au fil des ans, alors qu'il voit ses compagnons âgés mourir, Benjamin Button rajeunit et profite de cette jouvence inattendue pour découvrir le monde.
 
-- Lu 16 oct 20h30 GF
+- Ve 20 oct 20h15 HL
 
 [65587]  
 **Fight Club**  
@@ -36,7 +36,7 @@ Jack erre sans but réel dans sa vie. Las de son existence morne, il devient mem
 
 Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mange seul ses plateaux-repas individuels comme beaucoup d'autres personnes solitaires qui connaissent la misère humaine, morale et sexuelle. C'est pourquoi il va devenir membre du Fight Club et il va pouvoir retrouver sa virilité, l'échange et la communication.
 
-- Sa 14 oct 17h15 HL
+- Je 19 oct 20h45 HL
 
 [29008]  
 **The Game**  
@@ -46,7 +46,7 @@ Avec Michael Douglas, Sean Penn.
 Thriller paranoïaque au titre programmatique, _The Game_ est le plus ludique des films de Fincher. Mais le jeu est funeste, formidable entreprise de machination qui met Michael Douglas à rude épreuve, jusqu'à un improbable twist final, dernière pièce d'un puzzle machiavélique.  
 Un riche magnat reçoit comme cadeau d'anniversaire de la part de son frère une invitation à participer à un jeu d'un genre nouveau. Ce fameux « Jeu » aura des répercussions vertigineuses dans sa vie, d'autant qu'aucune règle ne sera expliquée, ni son déroulement. ou Nicholas Van Orton, un richissime homme d'affaires reçoit comme cadeau d'anniversaire de la part de son frère Conrad une invitation à participer à un jeu d'un genre nouveau. D'abord sceptique, il se laisse tenter par cette aventure. Cette partie se révèle être un engrenage aux mécanismes diaboliques
 
-- Ve 13 oct 19h45 HL
+- Je 19 oct 18h00 HL
 
 [124663]  
 **Gone Girl**  
@@ -57,7 +57,7 @@ Avec Ben Affleck, Rosamund Pike, Neil Patrick Harris.
 Étude mordante des mécanismes du couple et de leur épuisement, _Gone Girl_ est un thriller à tiroirs. Fincher y joue des apparences et des faux-semblants grâce à un récit gigogne aux rebondissements savamment dosés, qui se mue dans sa deuxième moitié en un véritable jeu de massacre.  
 Beaux, jeunes et riches, Amy et Nick forment un couple envié à New York. Alors que le couple s'apprête à célébrer son 5e anniversaire de mariage, la jeune femme disparaît sans laisser de trace. Nick est immédiatement suspecté.
 
-- Je 19 oct 18h00 HL
+- Di 22 oct 17h30 GF
 
 [154470]  
 **The Killer**  
@@ -67,9 +67,9 @@ Avec Michael Fassbender, Tilda Swinton, Charles Parnell.
 L'adaptation d'une série de BD française signée Matz et Luc Jacamon marque les retrouvailles de Fincher avec Andrew Kevin Walker, scénariste de _Seven_, et Tilda Swinton, treize ans après _L'Étrange Histoire de Benjamin Button_. Et pour la première fois devant sa caméra, Michael Fassbender, en tueur à gages qui perd lentement la raison.  
 Un assassin implacable commence à développer peu à peu une conscience entre le Bien et le Mal.
 
-- Je 12 oct 20h30 HL  
-- Je 12 oct 20h30 GF  
-- Je 12 oct 20h30 JE
+- Ve 13 oct 20h30 HL  
+- Ve 13 oct 20h30 GF  
+- Ve 13 oct 20h30 JE
 
 [146087]  
 **Mank**  
@@ -78,7 +78,7 @@ de David Fincher
 Tournée pour Netflix, sur un scénario du père de David Fincher, l'évocation du rôle ingrat des scénaristes dans le grand jeu de dupes hollywoodien – ici Herman J. Mankiewicz, aux manettes du script de _Citizen Kane_. Extraordinaire composition de Gary Oldman, reconstitution fastueuse, et constat un rien amer sur les coulisses de l'industrie des rêves.  
 Le Hollywood des années 1930 raconté à travers la figure de Herman J. Mankiewicz, critique social et scénariste alcoolique, au moment où il s'efforce de terminer le script de _Citizen Kane_.
 
-- Je 19 oct 21h00 HL
+- Di 22 oct 20h30 GF
 
 [115282]  
 **Millénium : Les hommes qui n'aimaient pas les femmes**  
@@ -90,7 +90,7 @@ Avec Daniel Craig, Rooney Mara, Christopher Plummer.
 Seconde adaptation du best-seller de Stieg Larsson, _Millénium_ teint les habituelles obsessions de Fincher – traque d'un tueur en série, enquête labyrinthique, héroïne forte – d'une patine métallique qui tranche avec l'esthétique viscérale de _Seven_. Impeccable Rooney Mara, incarnation idéale du cyberpunk.  
 Blomkvist, journaliste d'investigation, enquête à la demande d'un ancien industriel sur la disparition de sa nièce, Harriet. Lisbeth Salander, jeune femme rebelle mais enquêtrice exceptionnelle, est chargée de se renseigner sur Blomkvist, ce qui va finalement la conduire à travailler avec lui.
 
-- Me 18 oct 20h30 HL
+- Sa 21 oct 18h30 HL
 
 [78356]  
 **Panic Room**  
@@ -100,7 +100,7 @@ Avec Jodie Foster, Forest Whitaker, Kristen Stewart.
 Fincher dépoussière le motif classique du siège (_Rio Bravo_, _Assaut_), qu'il déploie dans une demeure new-yorkaise high-tech. Sa mise en scène virtuose joue des contraintes du huis clos avec élégance, et dessine en creux le portrait d'une mère et de sa fille face à la brutalité des hommes.  
 Une mère et sa fille diabétique sont enfermées dans la chambre forte de leur maison, tandis que trois cambrioleurs tentent d'y accéder à tout prix.
 
-- Lu 16 oct 18h00 GF
+- Sa 21 oct 15h00 GF
 
 [53501]  
 **Seven**  
@@ -114,7 +114,7 @@ Un tueur a entrepris d'accomplir sept crimes, inspirés de la série des sept p�
 
 Pour conclure sa carrière, l'inspecteur Somerset, vieux flic blasé, tombe à sept jours de la retraite sur un criminel peu ordinaire, John Doe, qui a décidé de nettoyer la société des maux qui la rongent en commettant sept meurtres basés sur les sept péchés capitaux.
 
-- Ve 13 oct 17h00 HL
+- Me 18 oct 20h30 HL
 
 [111965]  
 **The Social Network**  
@@ -125,7 +125,7 @@ Avec Jesse Eisenberg, Andrew Garfield, Justin Timberlake.
 Le chef-d'œuvre _pixel perfect_ de Fincher, palpitant biopic d'un personnage paradoxalement falot, _geek_ lambda planqué derrière son ordinateur mais bientôt appelé à un destin extraordinaire : Mark Zuckerberg. Le rythme du film, parfois comparé à celui des comédies mitraillettes de Howard Hawks, doit autant au talent de conteur de Fincher qu'au script éblouissant d'Aaron Sorkin (_À la Maison Blanche_). En un parfait contrepoint, l'électro spleen du duo Reznor-Ross et la composition nuancée de Jesse Eisenberg font de ce portrait la plus juste incarnation à ce jour de l'ultra-moderne solitude des années Facebook.  
 Étudiant à Harvard, Mark Zuckerberg développe une idée qui fait de lui la star du web, lui attire des ennuis avec la justice et met fin à des amitiés.
 
-- Me 18 oct 18h00 HL
+- Sa 14 oct 20h00 HL
 
 [101866]  
 **Zodiac**  
@@ -136,11 +136,13 @@ Avec Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo.
 Le film de la maturité, récit rigoureux et ample d'une enquête longue de trente ans, menée par deux journalistes et deux enquêteurs sur les traces d'un insaisissable serial killer – le Zodiac, qui sévissait à San Francisco à la fin des sixties. Loin des effets de ses débuts, Fincher adopte la grande forme classique du cinéma américain des années 70, celle des Pakula et autres Pollack. La minutie maniaque de la reconstitution, magnifiée par la photographie du regretté Harry Savides, le suspense implacable de certaines scènes et le casting impeccable font de _Zodiac_ l'un des grands films américains de son époque.  
 En 1969, un tueur en série sème la terreur à San Francisco. Revendiquant trente-sept meurtres, il prend un malin plaisir à narguer la police en envoyant des lettres codées à la presse.
 
-- Sa 14 oct 20h00 HL
+- Sa 14 oct 14h30 HL  
+Voir aussi masterclass p. xx
 
 ## Rencontres et conférences
 
 **Masterclass Fincher**
 
-- Je 12 oct 18h00 HL
+- Sa 14 oct 17h15 HL  
+À la suite de la masterclass, à 14h30, projection d'un film choisi par le conférencier : _Zodiac_ de David Fincher (voir p. xx)
 
