@@ -157,32 +157,49 @@
           ]
         },
         {
-          "idFilm": 142635,
-          "content": [
+          "groupe": [
             {
               "idFilm": 142635,
-              "ordre": 1,
-              "titre": "Fête de famille",
-              "realisateurs": "Cédric Kahn",
-              "pays": "France-Belgique",
-              "annee": 2018,
-              "duree": 100,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Catherine Deneuve",
-                "Emmanuelle Bercot",
-                "Vincent Macaigne",
-                "Cédric Kahn"
+              "content": [
+                {
+                  "idFilm": 142635,
+                  "ordre": 1,
+                  "titre": "Fête de famille",
+                  "realisateurs": "Cédric Kahn",
+                  "pays": "France-Belgique",
+                  "annee": 2018,
+                  "duree": 100,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Catherine Deneuve",
+                    "Emmanuelle Bercot",
+                    "Vincent Macaigne",
+                    "Cédric Kahn"
+                  ],
+                  "miniTexte": "Une famille affronte ses failles et ses non-dits dans un implacable jeu de massacre. De la comédie chorale à la tragédie, les rancœurs explosent au sein d'un huis clos intense, rappelant les grandes heures de _Festen_. Avec un casting au sommet, qui réserve un face-à-face mère/fille savoureux entre Catherine Deneuve et Emmanuelle Bercot."
+                }
               ],
-              "miniTexte": "Une famille affronte ses failles et ses non-dits dans un implacable jeu de massacre. De la comédie chorale à la tragédie, les rancœurs explosent au sein d'un huis clos intense, rappelant les grandes heures de _Festen_. Avec un casting au sommet, qui réserve un face-à-face mère/fille savoureux entre Catherine Deneuve et Emmanuelle Bercot."
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 104590,
-              "dateHeure": "2023-09-30T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28729,
+              "content": [
+                {
+                  "idConf": 28729,
+                  "ordre": 2,
+                  "titre": "Film + dialogue avec Cedric Kahn",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104590,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-30T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },

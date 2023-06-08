@@ -67,7 +67,8 @@ Avec Catherine Deneuve, Emmanuelle Bercot, Vincent Macaigne, Cédric Kahn.
 Une famille affronte ses failles et ses non-dits dans un implacable jeu de massacre. De la comédie chorale à la tragédie, les rancœurs explosent au sein d'un huis clos intense, rappelant les grandes heures de _Festen_. Avec un casting au sommet, qui réserve un face-à-face mère/fille savoureux entre Catherine Deneuve et Emmanuelle Bercot.  
 « Aujourd'hui c'est mon anniversaire et j'aimerais qu'on ne parle que de choses joyeuses. »Andréa ne sait pas encore que l'arrivée « surprise » de sa fille aînée, Claire, disparue depuis 3 ans et bien décidée à reprendre ce qui lui est dû, va bouleverser le programme et déclencher une tempête familiale.
 
-- Sa 30 sep 14h30 HL
+- Sa 30 sep 14h30 HL  
+Voir aussi dialogue p. xx
 
 [88951]  
 **Feux rouges**  
@@ -163,4 +164,14 @@ Inspiré par l'affaire Xavier Fortin, un père ayant caché durant onze ans ses 
 Un homme, proche de la nature et qui refuse la société de consommation, enlève ses fils âgés de 6 et 7 ans et se lance dans une cavale qui dure onze ans.
 
 - Lu 2 oct 20h30 GF
+
+## Rencontres et conférences
+
+« La réunion familiale est un prétexte, une fois que j'ai trouvé le dispositif, j'ai trouvé l'histoire. Elle commence avec légèreté, presque comme une farce, un morceau de musique qui va crescendo, mais une sorte de bombe est posée sur la table. La fantaisie et la réactivité sont comme des soupapes qui permettent au groupe de révéler sa folie. » (Cédric Kahn)
+
+**Film + dialogue avec Cedric Kahn**  
+« La réunion familiale est un prétexte, une fois que j'ai trouvé le dispositif, j'ai trouvé l'histoire. Elle commence avec légèreté, presque comme une farce, un morceau de musique qui va crescendo, mais une sorte de bombe est posée sur la table. La fantaisie et la réactivité sont comme des soupapes qui permettent au groupe de révéler sa folie. » (Cédric Kahn)
+
+- Sa 30 sep 14h30 HL  
+À la suite de la projection de _Fête de famille_ de Cédric Kahn (voir p. xx)
 

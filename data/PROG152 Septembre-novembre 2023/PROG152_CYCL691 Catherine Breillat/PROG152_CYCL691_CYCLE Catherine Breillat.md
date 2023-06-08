@@ -42,7 +42,7 @@ Avec Amira Casar, Rocco Siffredi.
 Dans la continuité esthétique et métaphysique de _Romance_, Breillat choisit d'adapter, pour son dixième film, son livre _Pornocratie_. L'exploration du sexe de la femme, par un homme que le corps féminin répugne, constitue le point d'orgue des obsessions de la cinéaste : l'obscène et le franchissement des tabous.  
 Secourue par un inconnu dans une boîte gay après s'être ouvert les veines, une jeune femme lui propose un marché : durant quatre jours, elle le paiera pour la regarder, mais aussi l'écouter parler de ses peurs et de ses désirs. D'abord hésitant, l'homme se prend bientôt au jeu.
 
-- Sa 23 sep 20h30 GF
+- Sa 23 sep 20h45 GF
 
 [111101]  
 **Barbe bleue**  

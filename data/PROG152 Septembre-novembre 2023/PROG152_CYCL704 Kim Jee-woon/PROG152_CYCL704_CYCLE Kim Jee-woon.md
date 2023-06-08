@@ -11,7 +11,8 @@ Avec Byung-hun Lee, Young-chul Kim, Mina Shin.
 Variation coréenne des films de yakuzas japonais, un polar qui s'aventure d'abord sur le terrain du drame amoureux – l'homme de main d'un baron de la pègre s'éprend de la fiancée de ce dernier – avant de prendre une tournure brutale à son mitan. Séquestré, torturé, laissé pour mort, Kim (Lee Byung-hun, sûrement dans son plus grand rôle) entreprend alors de se venger, méthodiquement, de tous les criminels qui ont vainement essayé de l'achever. Un tourbillon de violence, une heure de _gunfights_ éblouissants, d'une violence opératique, non dénuée d'humour, et qui n'est pas sans rappeler la virtuosité de _Kill Bill_, tourné un an plus tôt.  
 Un chef mafieux jaloux suspecte sa petite amie d'avoir une liaison avec un homme. Il demande à son associé de la suivre et de la tuer s'il la surprend avec un amant.
 
-- Sa 4 nov 14h30 HL
+- Sa 4 nov 14h30 HL  
+Voir aussi masterclass p. xx
 
 [154487]  
 **The Age of Shadows**  
@@ -118,7 +119,18 @@ La famille Kang ouvre un hôtel dans les montagnes. Ils retrouvent leur premier 
 de Jee-woon Kim, Nonzee Nimibutr, Peter Chan  
 Chine-Corée-Thaïlande / 2002 / 125 min / VOSTF / 35 mm  
 Avec Eric Tsang, Leon Lai, Eugenia Yuan.  
+Trois cinéastes de trois pays (Corée du Sud, Thaïlande, Hong Kong) pour autant de moyens métrages, visions hallucinées de l'au-delà. Le très beau _Chez Nous_ de Peter Chan et le formidable _Souvenirs_ de Kim Jee-woon, relecture gore des canons du film de fantômes asiatique, constituent les morceaux de choix de cette collection.  
 Trois visions différentes sur l'au-delà et le monde des ectoplasmes.
 
 - Ve 10 nov 18h00 HL
+
+## Rencontres et conférences
+
+« Je voulais que le titre fasse partie intégrante de l'histoire et soit un contrepoint ironique au déchaînement de violence qui en constitue le socle. J'ai longtemps hésité entre _Irréversible_, _True Romance_ et _Trop belle pour toi_, avant d'opter pour _A Bittersweet Life_, qui est un peu la traduction de _La dolce vita_, certainement le titre le plus beau, le plus spirituel et le plus chargé de sens qui soit. Si j'avais choisi « Massacre dans la mafia coréenne », ça n'aurait pas été le même film. » (Kim Jee-woon)
+
+**Film + Masterclass Kim Jee-woon**  
+« Je voulais que le titre fasse partie intégrante de l'histoire et soit un contrepoint ironique au déchaînement de violence qui en constitue le socle. J'ai longtemps hésité entre _Irréversible_, _True Romance_ et _Trop belle pour toi_, avant d'opter pour _A Bittersweet Life_, qui est un peu la traduction de _La dolce vita_, certainement le titre le plus beau, le plus spirituel et le plus chargé de sens qui soit. Si j'avais choisi « Massacre dans la mafia coréenne », ça n'aurait pas été le même film. » (Kim Jee-woon)
+
+- Sa 4 nov 14h30 HL  
+À la suite de la projection de _A Bittersweet Life_ de Jee-woon Kim (voir p. xx)
 

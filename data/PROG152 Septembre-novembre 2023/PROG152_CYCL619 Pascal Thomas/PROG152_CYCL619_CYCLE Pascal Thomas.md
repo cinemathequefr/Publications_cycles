@@ -198,7 +198,8 @@ Les aventures sentimentales de deux adolescents des années 60, pensionnaires da
 
 ## Rencontres et conférences
 
-**Film + dialogue avec Pascal Thomas**
+**Film + dialogue avec Pascal Thomas**  
+« Je recherche l'accident même au montage. Il est vrai que c'est symptomatique de ce type de tournage,un quelconque accident arrive et cela devient positif. On s'adapte à la pluie, au vent. On ne cherche jamais à masquer les choses. C'est la différence entre le cinéma Lumière et le cinéma Méliès. C'est la leçon de Renoir et de Rozier que de prendre la richesse de l'instant, essayer de l'intégrer. Cela crée des moments de vérité fantastiques. » (Pascal Thomas)
 
 - Sa 7 oct 16h30 HL
 

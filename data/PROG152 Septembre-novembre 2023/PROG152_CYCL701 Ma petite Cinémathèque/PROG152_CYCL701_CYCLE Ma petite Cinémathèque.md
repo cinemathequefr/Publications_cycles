@@ -141,7 +141,7 @@ Version numérique restaurée en 2K par MK2 avec le soutien du CNC.
 **Les Tontons farceurs**  
 **(The Family Jewels)**  
 de Jerry Lewis  
-États-Unis / 1965 / 100 min / VOSTF / 35 mm  
+États-Unis / 1965 / 100 min / VOSTF / DCP  
 Avec Jerry Lewis, Donna Butterworth.  
 [JP] Une petite orpheline doit choisir entre ses différents oncles pour déterminer lequel sera son tuteur. Infatigable, Jerry Lewis réalise et produit une comédie gentiment farfelue... mais y interprète aussi pas moins de sept personnages, l'occasion de déployer tous ses talents de pitre au fil de gags hilarants.  
 Avec l'aide de son majordome, une orpheline milliardaire doit choisir son tuteur parmi six oncles, dont un marin sénile, un pilote d'avion fantasque (mention spéciale) et un affreux gangster. L'occasion pour Jerry Lewis d'endosser les sept masques d'une parade pétaradante qui cache une grande tendresse pour ses personnages.
