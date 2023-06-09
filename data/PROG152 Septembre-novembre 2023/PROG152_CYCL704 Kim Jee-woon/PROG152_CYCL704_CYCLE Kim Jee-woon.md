@@ -31,7 +31,7 @@ Corée, années 1920. Le capitaine Lee Jung-Chool, Coréen travaillant pour la p
 de Kim Jee-woon  
 Corée / 2008 / 128 min / VOSTF / 35 mm  
 Avec Song Kang-ho, Lee Byung-hun, Jung Woo-sung.  
-S'il se pose évidemment en hommage à Sergio Leone, le rodéo délirant de Kim Jee-woon est surtout un exercice de style, qui doit plus à la bande dessinée et à Tex Avery qu'aux canons du western italien. Un pastiche de western mandchou, pensé comme un train fou, lancé à toute allure, dont on ressort étourdi, lessivé.  
+S'il se pose évidemment en hommage à Sergio Leone, le rodéo délirant de Kim Jee-woon est surtout un exercice de style, qui doit plus à la bande dessinée et à Tex Avery qu'aux canons du western italien. Un pastiche de western mandchou pensé comme un train fou, lancé à toute allure, dont on ressort étourdi, lessivé.  
 Les années 30 en Mandchourie. Le Cinglé vole une carte au trésor à un haut dignitaire japonais. La Brute, tueur à gages réputé, est payé pour récupérer cette carte. Le Bon veut retrouver le détenteur de la carte pour empocher la prime.
 
 - Di 5 nov 19h30 HL
