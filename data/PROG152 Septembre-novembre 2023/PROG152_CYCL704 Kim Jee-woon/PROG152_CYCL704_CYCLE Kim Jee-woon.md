@@ -16,7 +16,7 @@ Voir aussi masterclass p. xx
 
 [154487]  
 **The Age of Shadows**  
-**(밀정)**  
+**(Miljeong)**  
 de Kim Jee-woon  
 Corée / 2016 / 141 min  
 Avec Song Kang-ho, Gong Yoo, Han Ji-min.  
@@ -41,9 +41,9 @@ Les années 30 en Mandchourie. Le Cinglé vole une carte au trésor à un haut d
 **(Geomijip)**  
 de Kim Jee-woon  
 Corée / 2023 / 135 min / DCP  
-Avec Kang-ho Song, Soo-jung Lim, Ho Jung-se.  
-Le nouveau film de Kim Jee-woon, présenté en hors-compétition lors du festival de Cannes 2023. Évocation méta d'un tournage qui vire au désastre, comme ont pu l'être en leur temps _Ça tourne à Manhattan_ (Tom DiCillo) ou _Ne Coupez pas_ (Shin'ichirō Ueda), mais aussi autoportrait ironique et grinçant d'un cinéaste réputé pour son exigence sur les plateaux. Un hommage à l'univers du cinéma coréen des années 60 et 70.  
-Kim souhaite refaire la fin de son film « Cobweb ». Mais les autorités de censure, les plaintes des acteurs et des producteurs ne cessent d'interférer et un grand désordre s'installe sur le tournage. Kim doit donc surmonter ce chaos, pour achever ce qu'il pense être son chef-d'œuvre ultime...
+Avec Song Kang-ho, Lim Soo-jung, Oh Jung-se.  
+Le nouveau film de Kim Jee-woon, présenté hors compétition au Festival de Cannes 2023. Évocation méta d'un tournage qui vire au désastre, comme ont pu l'être en leur temps _Ça tourne à Manhattan_ (Tom DiCillo) ou _Ne Coupez pas_ (Shin'ichirō Ueda), mais aussi autoportrait ironique et grinçant d'un cinéaste réputé pour son exigence sur les plateaux. Un hommage à l'univers du cinéma coréen des années 60 et 70.  
+Corée, années 1970. Kim, cinéaste, veut donner à son film _Cobweb_ la fin qui en fera son chef-d'œuvre ultime. Mais entre la pression de la censure et les protestations des acteurs et des producteurs, le chaos s'installe sur le plateau.
 
 - Je 2 nov 20h00 HL  
 Avant-première
@@ -120,7 +120,7 @@ La famille Kang ouvre un hôtel dans les montagnes. Ils retrouvent leur premier 
 de Kim Jee-woon, Nonzee Nimibutr, Peter Chan  
 Chine-Corée-Thaïlande / 2002 / 125 min / VOSTF / 35 mm  
 Avec Eric Tsang, Leon Lai, Eugenia Yuan.  
-Trois cinéastes de trois pays (Corée du Sud, Thaïlande, Hong Kong) pour autant de moyens métrages, visions hallucinées de l'au-delà. Le très beau _Chez Nous_ de Peter Chan et le formidable _Souvenirs_ de Kim Jee-woon, relecture gore des canons du film de fantômes asiatique, constituent les morceaux de choix de cette collection.  
+Trois cinéastes de trois pays (Corée du Sud, Thaïlande, Hong Kong) pour autant de moyens métrages, visions hallucinées de l'au-delà. Le très beau _Chez nous_ de Peter Chan et le formidable _Souvenirs_ de Kim Jee-woon, relecture gore des canons du film de fantômes asiatique, constituent les morceaux de choix de cette collection.  
 Trois visions différentes sur l'au-delà et le monde des ectoplasmes.
 
 - Ve 10 nov 18h00 HL
@@ -129,8 +129,8 @@ Trois visions différentes sur l'au-delà et le monde des ectoplasmes.
 
 « Je voulais que le titre fasse partie intégrante de l'histoire et soit un contrepoint ironique au déchaînement de violence qui en constitue le socle. J'ai longtemps hésité entre _Irréversible_, _True Romance_ et _Trop belle pour toi_, avant d'opter pour _A Bittersweet Life_, qui est un peu la traduction de _La dolce vita_, certainement le titre le plus beau, le plus spirituel et le plus chargé de sens qui soit. Si j'avais choisi « Massacre dans la mafia coréenne », ça n'aurait pas été le même film. » (Kim Jee-woon)
 
-**Film + Masterclass Kim Jee-woon**  
-« Je voulais que le titre fasse partie intégrante de l'histoire et soit un contrepoint ironique au déchaînement de violence qui en constitue le socle. J'ai longtemps hésité entre _Irréversible_, _True Romance_ et _Trop belle pour toi_, avant d'opter pour _A Bittersweet Life_, qui est un peu la traduction de _La dolce vita_, certainement le titre le plus beau, le plus spirituel et le plus chargé de sens qui soit. Si j'avais choisi « Massacre dans la mafia coréenne », ça n'aurait pas été le même film. » (Kim Jee-woon)
+**Dialogue avec Kim Jee-woon**  
+« Je voulais que le titre fasse partie intégrante de l'histoire et soit un contrepoint ironique au déchaînement de violence qui en constitue le socle. J'ai longtemps hésité entre _Irréversible_, _True Romance_ et _Trop belle pour toi_, avant d'opter pour _A Bittersweet Life_, qui est un peu la traduction de _“La Dolce vita”_, certainement le titre le plus beau, le plus spirituel et le plus chargé de sens qui soit. Si j'avais choisi “Massacre dans la mafia coréenne”, ça n'aurait pas été le même film. » (Kim Jee-woon)
 
 - Sa 4 nov 14h30 HL  
 À la suite de la projection de _A Bittersweet Life_ de Kim Jee-woon (voir p. xx)

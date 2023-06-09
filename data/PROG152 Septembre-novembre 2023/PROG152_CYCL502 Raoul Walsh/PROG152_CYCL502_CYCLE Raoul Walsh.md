@@ -20,7 +20,7 @@ de Raoul Walsh
 États-Unis / 1936 / 77 min / VOSTF / 16 mm  
 D'après la pièce _Annie du Klondike_ de Mae West.  
 Avec Mae West, Victor McLaglen, Phillip Reed.  
-San Francisco, fin XIX<sup>e<sup> siècle. Une chanteuse de cabaret s'enfuit sur un cargo, après avoir poignardé son protecteur chinois. Mae West, qui signe aussi les dialogues, fait sensation dans le rôle licencieux d'une aventurière déguisée en missionnaire aux méthodes peu orthodoxes.  
+San Francisco, fin XIX<sup>e</sup> siècle. Une chanteuse de cabaret s'enfuit sur un cargo, après avoir poignardé son protecteur chinois. Mae West, qui signe aussi les dialogues, fait sensation dans le rôle licencieux d'une aventurière déguisée en missionnaire aux méthodes peu orthodoxes.  
 À la fin du XIX<sup>e</sup> siècle, Rose Carlton, une chanteuse de cabaret recherchée par la police prend la fuite sur un bateau et endosse l'identité d'une missionnaire décédée pour échapper aux autorités.
 
 - Me 13 sep 20h00 HL  

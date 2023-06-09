@@ -486,7 +486,7 @@
   {
     "idSeance": 104393,
     "idEvenement": 28439,
-    "dateHeure": "2023-09-03T19:30:00",
+    "dateHeure": "2023-09-03T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1453,6 +1453,27 @@
     "hashEvenement": "f31479"
   },
   {
+    "idSeance": 104959,
+    "idEvenement": 28356,
+    "dateHeure": "2023-09-16T16:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Catherine Breillat",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 28356,
+        "titre": "Leçon de cinéma Catherine Breillat",
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c28356"
+  },
+  {
     "idSeance": 104801,
     "idEvenement": 28289,
     "dateHeure": "2023-09-16T18:00:00",
@@ -2001,7 +2022,7 @@
   {
     "idSeance": 104798,
     "idEvenement": 28435,
-    "dateHeure": "2023-09-22T21:00:00",
+    "dateHeure": "2023-09-22T21:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5101,6 +5122,7 @@
         "Rencontres et conférences"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Brigitte Rollet, Rosalie Varda, Clémentine Charlemaine et Alice Diop",
     "items": [
       {
         "idConf": 28591,
@@ -5670,7 +5692,7 @@
       },
       {
         "idConf": 28728,
-        "titre": "Masterclass Kim Jee-woon",
+        "titre": "Dialogue avec Kim Jee-woon",
         "typeConference": "MasterClass",
         "duree": 90
       }
@@ -5833,7 +5855,7 @@
         "Rencontres et conférences"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Sylvain Dreyer, Nathalie Mauffrey et Clémentine Charlemaine",
+    "mention": "Séance suivie d'une discussion avec Sylvain Dreyer, Nathalie Mauffrey et Antoine Compagnon",
     "items": [
       {
         "idConf": 28611,
@@ -7129,35 +7151,11 @@
         "titre": "8 × 8: A Chess Sonata in 8 Movements",
         "realisateurs": "Hans Richter, Jean Cocteau",
         "annee": 1956,
-        "duree": 80
+        "duree": 80,
+        "version": "STF"
       }
     ],
     "hashEvenement": "f35524"
-  },
-  {
-    "idSeance": 104955,
-    "idEvenement": 28375,
-    "dateHeure": "2023-11-24T19:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cinéma bis",
-        "[Rentrée 7]"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35720,
-        "titre": "Soucoupes volantes attaquent",
-        "art": "Les",
-        "realisateurs": "Fred F. Sears",
-        "annee": 1955,
-        "duree": 83,
-        "version": "VOSTF",
-        "format": "Numérique"
-      }
-    ],
-    "hashEvenement": "f35720"
   },
   {
     "idSeance": 104904,
@@ -7466,7 +7464,6 @@
         "realisateurs": "Paul Paviot",
         "annee": 1958,
         "duree": 23,
-        "version": "VO",
         "format": "35 mm"
       },
       {

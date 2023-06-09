@@ -28,7 +28,7 @@
   * Amours d'une blonde (Les)  
   * Docteur Jerry et Mister Love
 
-## Cinéma bis (11)
+## Cinéma bis (10)
 
   * Blastfighter, l'exécuteur  
   * Curse of the Faceless Man  
@@ -38,7 +38,6 @@
   * Indic (L')  
   * Nuits galantes d'une infidèle (Les)  
   * Poignard de bambou (Le)  
-  * Soucoupes volantes attaquent (Les)  
   * Spectre  
   * Vengeance
 

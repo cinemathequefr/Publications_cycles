@@ -23,7 +23,7 @@ Avec Anna Mouglalis, Mads Mikkelsen, Elena Morozova.
 La rencontre et la passion fantasmée de deux créateurs anticonformistes. Allure vénéneuse, Anna Mouglalis incarne la maîtresse du compositeur russe, dans une bataille d'egos implacable, qui fait la part belle au scandale du _Sacre du printemps_ et à l'invention d'un célèbre parfum.  
 Les amours brèves et orageuses entre deux légendes de la musique et de la mode, qui chacune à sa manière ont révolutionné leur époque.
 
-- Di 3 sep 19h30 GF
+- Di 3 sep 19h45 GF
 
 [47063]  
 **Le Couturier de ces dames**  
@@ -150,7 +150,7 @@ Avec Tom Schanley, Renée Simonsen, Donald Pleasence.
 Cultivant les archétypes du _giallo_ façon Bava, une enquête dans le milieu de la mode milanaise, où sévit un mystérieux tueur en série. La musique signée Pino Donaggio, compositeur attitré de Brian De Palma, sert pleinement ce thriller sensuel, estampillé années 80.  
 Bob Crane travaille à Yellowstone Park aux États-Unis et a une sœur nommée Jessica qui travaille comme mannequin à Milan. Un jour, Jessica disparaît et Bob se précipite à Milan où avec le commissaire Danesi il tente de résoudre l'affaire.
 
-- Ve 22 sep 21h00 GF
+- Ve 22 sep 21h15 GF
 
 [131532]  
 **Personal Shopper**  

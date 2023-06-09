@@ -100,7 +100,7 @@ Film précédé de _Le Sang d'un poète_ de Jean Cocteau
 [35524]  
 **8 × 8: A Chess Sonata in 8 Movements**  
 de Hans Richter, Jean Cocteau  
-États-Unis / 1956 / 80 min  
+États-Unis / 1956 / 80 min / STF  
 Avec Paul Bowles, Marcel Duchamp, Max Ernst, Alexander Calder, Yves Tanguy.  
 64, ou le nombre de cases d'un échiquier, pour une métaphore expérimentale et fantaisiste sur les différentes combinaisons possibles de la vie. Un « conte de fées pour adultes, à mi-chemin entre Freud et Lewis Carroll » tel que le décrit Richter, aidé dans sa composition par de nombreux artistes dont Cocteau, Max Ernst ou Marcel Duchamp.  
 Quelque part entre Sigmund Freud et Lewis Carroll, un conte de fées pour l'inconscient basé sur le jeu d'échecs.
@@ -275,7 +275,7 @@ Film précédé d'_Anna, la bonne_ de Claude Jutra, _Charlotte et son Jules_ de 
 [50500]  
 **Django Reinhardt**  
 de Paul Paviot  
-France / 1958 / 23 min / VO / 35 mm  
+France / 1958 / 23 min / 35 mm  
 Avec Yves Montand, Django Reinhardt, Stéphane Grappelli.  
 Façon impro de jazz, un portrait impressionniste du guitariste de génie, introduit par Cocteau, et porté par la poésie du commentaire signé Chris Marker, récité par Yves Montand.  
 De la boîte de nuit _La Roulotte_ au légendaire club de jazz _Le Bœuf sur le toit_, Paul Paviot revient sur la vie et la carrière du guitariste qui a fondé avec Stéphane Grappelli le Hot Club de France. Commentaire de Chris Marker. Textes liminaires par Jean Cocteau.

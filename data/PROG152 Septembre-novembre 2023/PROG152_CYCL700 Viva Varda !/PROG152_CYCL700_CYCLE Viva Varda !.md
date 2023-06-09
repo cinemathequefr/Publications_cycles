@@ -105,10 +105,11 @@ Séance suivie d'une discussion avec Marin Karmitz, Judith Ertel et Charlotte Ga
 Un dialogue autour du geste de réalisatrice d'Agnès Varda, qui aura renouvelé le langage cinématographique autant que la représentation des personnages féminins à l'écran. Animée par Florence Tissot, commissaire de l'exposition _Viva Varda !_, cette table ronde réunit la productrice et costumière Rosalie Varda, Clémentine Charlemaine, déléguée générale de Cinéma pour tous et coprésidente du collectif 50/50, ainsi que Brigitte Rollet, autrice de _Femmes et cinéma, sois belle et tais-toi !_
 
 - Sa 28 oct 16h45 HL  
+Séance suivie d'une discussion avec Brigitte Rollet, Rosalie Varda, Clémentine Charlemaine et Alice Diop  
 À la suite de la table ronde, à 14h30, projection d'un film choisi par le conférencier : _Sans toit ni loi_ d'Agnès Varda (voir p. xx)
 
 **Table Ronde Les glaneurs et la glaneuse**
 
 - Di 5 nov 16h00 GF  
-Séance suivie d'une discussion avec Sylvain Dreyer, Nathalie Mauffrey et Clémentine Charlemaine
+Séance suivie d'une discussion avec Sylvain Dreyer, Nathalie Mauffrey et Antoine Compagnon
 

@@ -7,7 +7,7 @@
 de Bob Blizz  
 États-Unis / 1980 / 91 min / VF / 35 mm  
 Avec Sally Lockett, Nicholas Jacquez, Bob Elliott.  
-Après avoir cambriolé une bijouterie, quatre malfrats prennent en otage la petite-fille d'un sénateur et son petit ami. Mais les choses se compliquent de jour en jour.
+Après avoir cambriolé une bijouterie, quatre malfrats prennent en otage la petite-fille d'un sénateur et son petit ami.
 
 - Ve 1 sep 19h00 GF
 
@@ -86,18 +86,6 @@ Avec Zoé Chauveau, André Dussollier, Alain Doutey.
 A Grenoble, une prostituée est assassinée dans son lit d'hôpital. Son amie Cora, vingt-deux ans et elle aussi prostituée, se décide à parler au juge Le Pérec.
 
 - Ve 20 oct 21h00 GF
-
-## [Rentrée 7]
-
-[35720]  
-**Les Soucoupes volantes attaquent**  
-**(Earth vs. the Flying Saucers)**  
-de Fred F. Sears  
-États-Unis / 1955 / 83 min / VOSTF / Numérique  
-Avec Joann Taylor, Donald Curtis, Hugh Marlowe.  
-De curieux objets volants non identifiés envahissent le ciel, aux quatre coins du monde : les Terriens doivent faire face à une attaque d'extraterrestres.
-
-- Ve 24 nov 19h00 GF
 
 ## Qui êtes-vous Edward L. Cahn ?
 

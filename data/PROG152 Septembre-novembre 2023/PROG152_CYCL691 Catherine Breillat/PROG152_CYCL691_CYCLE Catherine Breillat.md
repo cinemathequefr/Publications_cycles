@@ -161,3 +161,12 @@ Alice, une adolescente, passe ses vacances d'été chez ses parents dans les Lan
 
 - Me 13 sep 18h30 GF
 
+## Rencontres et conférences
+
+« Après la sortie de _Tapage Nocturne_, je ne voulais plus faire de cinéma, je n'avais plus aucune idée et surtout aucune envie de me faire lapider encore une fois. Puis je suis allée voir _Baby Doll_ d'Elia Kazan dans un cinéma – j'y suis restée toute la journée. Les artistes me sauvent. Ils me tendent la main à travers les siècles, c'est comme ça. Le lendemain, j'ai commencé à écrire 36 fillette : j'ai relié Baby Doll à une tentative de viol vécue lorsque j'avais 14 ans. Baby Doll c'est moi : je suis Carroll Baker, mais aussi Eli Wallach. » (Catherine Breillat)
+
+**Film + Leçon de cinéma Catherine Breillat**  
+« Après la sortie de _Tapage Nocturne_, je ne voulais plus faire de cinéma, je n'avais plus aucune idée et surtout aucune envie de me faire lapider encore une fois. Puis je suis allée voir _Baby Doll_ d'Elia Kazan dans un cinéma – j'y suis restée toute la journée. Les artistes me sauvent. Ils me tendent la main à travers les siècles, c'est comme ça. Le lendemain, j'ai commencé à écrire 36 fillette : j'ai relié Baby Doll à une tentative de viol vécue lorsque j'avais 14 ans. Baby Doll c'est moi : je suis Carroll Baker, mais aussi Eli Wallach. » (Catherine Breillat)
+
+- Sa 16 sep 16h00 HL
+
