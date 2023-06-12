@@ -192,7 +192,6 @@
 
   * Argent de poche (L')  
   * Arsenic et vieilles dentelles  
-  * Aventure de madame Muir (L')  
   * Aventures de Peter Pan (Les)  
   * Demoiselles de Rochefort (Les)  
   * Homme qui en savait trop (L')  
@@ -203,6 +202,7 @@
   * Ma vache et moi  
   * Microcosmos  
   * Petite vendeuse de soleil (La)  
+  * Piste des géants (La)  
   * Porco Rosso
 
 ## Mexico maleficarum (13)
