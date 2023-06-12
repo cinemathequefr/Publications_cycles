@@ -188,7 +188,7 @@
   * Quiet Family (The)  
   * Trois histoires de l'au-delà
 
-## Ma petite Cinémathèque (14)
+## Ma petite Cinémathèque (13)
 
   * Argent de poche (L')  
   * Arsenic et vieilles dentelles  
@@ -202,7 +202,6 @@
   * Ma vache et moi  
   * Microcosmos  
   * Petite vendeuse de soleil (La)  
-  * Piste des géants (La)  
   * Porco Rosso
 
 ## Mexico maleficarum (13)
@@ -332,12 +331,13 @@
   * Salvador Allende  
   * Septembre chilien
 
-## Viva Varda ! (8)
+## Viva Varda ! (9)
 
   * Bonheur (Le)  
   * Cléo de 5 à 7  
   * Créatures (Les)  
   * Documenteur  
+  * Femmes sont de nature créatives : Agnès Varda (Les)  
   * Glaneurs et la Glaneuse (Les)  
   * Oncle Yanko  
   * Pointe Courte (La)  
