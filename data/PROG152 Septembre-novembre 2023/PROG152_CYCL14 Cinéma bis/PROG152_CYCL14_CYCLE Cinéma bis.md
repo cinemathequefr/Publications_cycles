@@ -16,7 +16,7 @@ Après avoir cambriolé une bijouterie, quatre malfrats prennent en otage la pet
 **(Blastfighter)**  
 de Lamberto Bava  
 États-Unis / 1984 / 87 min / VF / 35 mm  
-Avec Michael Sopkiw, George Eastman, Michele Soavi.  
+Avec Michael Sopkiw, George Eastman, Valerie Blake.  
 À sa sortie de prison, un ancien flic retourne dans son village natal, décidé à redevenir un homme libre, mais il est très vite confronté à l'hostilité des habitants.
 
 - Ve 1 sep 21h00 GF

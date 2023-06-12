@@ -85,8 +85,8 @@ Avec Christina von Blanc, Howard Vernon, Britt Nichols, Paul Muller.
 **(Blue Rita)**  
 de Jess Franco  
 France-Suisse / 1976 / 72 min / VFSTF / 35 mm  
-Avec Martine Fléty, Sarah Strasberg, Erik Falk.  
-Derrère un cabaret de strip-tease, le Blue Rita, il se cache une redoutable organisation criminelle louant ses services au plus offrant.
+Avec Martine Fléty, Sarah Strasberg, Dagmar Bürger.  
+Le Blue Rita, un cabaret de strip-tease, dissimule une redoutable organisation criminelle, qui enlève et séquestre des agents secrets.
 
 - Ve 30 juin 21h00 GF
 

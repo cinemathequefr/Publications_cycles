@@ -116,7 +116,8 @@ Avec Claude Brasseur, Lio, Nils Tavernier.
 Six ans après avoir écrit le scénario de _Police_, Breillat met à profit la version originale rejetée par Pialat et replonge sans complaisance dans l'univers d'un commissariat de quartier. _Sale comme un ange_ commence comme un polar avec chasse aux dealers et propos machistes alcoolisés, avant de prendre des tournures de romance scabreuse. Breillat filme sans fard le désir sexuel entre un flic usé (Pierre Brasseur) et l'épouse docile (Lio) de son jeune partenaire (Nils Tavernier), observant les rapports de soumission et de jouissance d'un adultère trivial et finalement libérateur.  
 Georges Deblache, un flic quinquagénaire, solitaire, et alcoolique, veut protéger son vieil ami Mannoni, un trafiquant de drogue notoire. Il installe son coéquipier Théron en protection rapprochée au domicile de Mannoni. Dans le même temps, il tente de séduire Barbara, l'épouse de Théron.
 
-- Sa 16 sep 18h00 GF
+- Sa 16 sep 18h00 GF  
+Séance présentée par Laurent Dailland
 
 [79126]  
 **Sex Is Comedy**  
