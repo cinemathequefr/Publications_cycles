@@ -62,8 +62,8 @@
   * Nuits rouges de Harlem (Les)  
   * Rage au cœur (La)  
   * Rues de l'enfer (Les)  
+  * Shaft contre les trafiquants d'hommes  
   * Spécial police  
-  * Trafiquants d'hommes (Les)  
   * Une vierge chez les morts-vivants
 
 ## Eloy de la Iglesia (21)

@@ -182,8 +182,8 @@
   * Dans la toile  
   * Dernier rempart (Le)  
   * Deux sœurs  
-  * Fool King  
-  * Illang : la Brigade des loups  
+  * Foul King  
+  * Illang : La Brigade des loups  
   * J'ai rencontré le diable  
   * Quiet Family (The)  
   * Trois histoires de l'au-delà
