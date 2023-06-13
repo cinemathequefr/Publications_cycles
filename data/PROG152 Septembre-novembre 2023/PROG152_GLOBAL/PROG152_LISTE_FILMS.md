@@ -5,19 +5,25 @@
   * Brad Pitt – La Revanche d'un Blond  
   * Jim Carrey, l'Amérique démasquée
 
-## Aujourd'hui le cinéma (14)
+## Aujourd'hui le cinéma (20)
 
+  * Alberi  
   * Bambino  
   * Bonobo  
   * Chienne (La)  
   * Classified people  
+  * Cœur Brisé  
   * Fairplay  
+  * J'ai vu le visage du diable  
   * Margarethe 89  
+  * Martin  
+  * Mes Indésirables  
   * Nova Dubai  
   * Os Cuidados que se tem com o cuidado que osoutros devem ter consigo mesmos  
   * petite reine (Ma)  
   * Portraits fantômes  
   * Roi David (Le)  
+  * soleil dort (Le)  
   * Tinikling  
   * Trois nuits par semaine  
   * Trois tristes tigres

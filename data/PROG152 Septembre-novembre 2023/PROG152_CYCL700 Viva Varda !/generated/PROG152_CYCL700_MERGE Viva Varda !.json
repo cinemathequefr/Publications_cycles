@@ -298,6 +298,34 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 104703,
+          "dateHeure": "2023-10-19T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104643,
+          "idCategorie": 3093,
+          "idEvenement": 28607,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Qui êtes-vous Agnès Varda ?",
+          "sousTitre": "Conférence de Florence Tissot",
+          "duree": 90,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Florence Tissot",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        },
+        {
           "idSeance": 104777,
           "ordre": 2,
           "dateHeure": "2023-11-05T14:30:00",
@@ -313,7 +341,7 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Table Ronde Cléo de 5 à 7",
+          "titre": "Table ronde autour de « Cléo de 5 à 7 »",
           "duree": 60,
           "textes": []
         },
@@ -333,7 +361,7 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Table ronde Les glaneurs et la glaneuse",
+          "titre": "Table ronde autour de « Les Glaneurs et la Glaneuse »",
           "duree": 60,
           "textes": [
             {
@@ -358,40 +386,12 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Table ronde Sans toit ni loi",
+          "titre": "Table ronde autour de « Sans toit ni loi »",
           "duree": 60,
           "textes": [
             {
               "typeTexte": 9,
               "texte": "Un dialogue autour du geste de réalisatrice d'Agnès Varda, qui aura renouvelé le langage cinématographique autant que la représentation des personnages féminins à l'écran. Animée par Florence Tissot, commissaire de l'exposition _Viva Varda !_, cette table ronde réunit la productrice et costumière Rosalie Varda, la réalisatrice Alice Diop, Clémentine Charlemaine, déléguée générale de Cinéma pour tous et coprésidente du collectif 50/50, ainsi que Brigitte Rollet, autrice de _Femmes et cinéma, sois belle et tais-toi !_"
-            }
-          ]
-        },
-        {
-          "idSeance": 104703,
-          "dateHeure": "2023-10-19T19:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 90,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104643,
-          "idCategorie": 3093,
-          "idEvenement": 28607,
-          "typeEvenement": 14,
-          "idTypeConference": 55,
-          "typeConference": "Conférence",
-          "titre": "« Qui êtes-vous agnes Varda ? » par Florence Tissot",
-          "sousTitre": "Conférence de Florence Tissot",
-          "duree": 90,
-          "textes": [],
-          "intervenants": [
-            {
-              "nomComplet": "Florence Tissot",
-              "idFonction": 139,
-              "fonction": "Conférencier",
-              "ordre": 1
             }
           ]
         }

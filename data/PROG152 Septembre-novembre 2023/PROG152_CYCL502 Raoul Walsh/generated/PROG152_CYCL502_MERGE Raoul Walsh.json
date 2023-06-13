@@ -157,7 +157,7 @@
         {
           "idSeance": 104862,
           "ordre": 1,
-          "dateHeure": "2023-10-18T20:45:00",
+          "dateHeure": "2023-10-18T21:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -3917,33 +3917,6 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 104976,
-          "ordre": 2,
-          "dateHeure": "2023-09-09T14:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 60,
-          "typeAssoc": 118,
-          "idCategorie": 3091,
-          "idEvenement": 28587,
-          "typeEvenement": 14,
-          "idTypeConference": 16,
-          "typeConference": "Dialogue",
-          "titre": "Film + Dialogue Murielle Joudet",
-          "duree": 60,
-          "textes": [],
-          "intervenants": [
-            {
-              "nomComplet": "Murielle Joudet",
-              "idFonction": 139,
-              "fonction": "Conférencier",
-              "ordre": 1
-            }
-          ]
-        },
-        {
           "idSeance": 104565,
           "ordre": 2,
           "dateHeure": "2023-09-13T20:00:00",
@@ -3959,9 +3932,36 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + Dialogue avec Jean-François Rauger et Murielle Joudet",
+          "titre": "Dialogue avec Jean-François Rauger et Murielle Joudet",
           "duree": 60,
           "textes": []
+        },
+        {
+          "idSeance": 104976,
+          "ordre": 2,
+          "dateHeure": "2023-09-09T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 3091,
+          "idEvenement": 28587,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Murielle Joudet",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Murielle Joudet",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
         },
         {
           "idSeance": 104417,
@@ -3978,12 +3978,47 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + Dialogue avec Pierre Gabaston",
+          "titre": "Dialogue avec Pierre Gabaston",
           "duree": 60,
           "textes": [],
           "intervenants": [
             {
               "nomComplet": "Pierre Gabaston",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        },
+        {
+          "idSeance": 104897,
+          "dateHeure": "2023-09-20T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3091,
+          "idEvenement": 28593,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Raoul Walsh après la Warner (1955-1964) : un cinéaste déchaîné",
+          "sousTitre": "Conférence de Jean-François Rauger",
+          "duree": 90,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Raoul Walsh n'est plus un salarié de la Warner Bros. depuis 1951. Les structures industrielles du cinéma hollywoodien se fissurent. Les cinéastes s'émancipent progressivement au cœur d'un système qui peine à se renouveler radicalement. L'auteur de Bungalow pour femmes est encore à l'étroit, bridé par d'obsolètes exigences de représentation. À partir du milieu des années 1950, son œuvre va toutefois s'infléchir vers un sentiment nouveau, plus mûr, dépassant le romantisme cosmique des films de la décennie précédente. Un sentiment constitué, paradoxalement, d'hédonisme stoïcien, de mélancolie cool, mais aussi de déchaînement libidinal. Mercredi 20 septembre 19h HL"
+            },
+            {
+              "typeTexte": 156,
+              "texte": "**Jean-François Rauger** est directeur de la programmation à la Cinémathèque française."
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Jean-François Rauger",
               "idFonction": 139,
               "fonction": "Conférencier",
               "ordre": 1
@@ -4005,7 +4040,7 @@
           "typeEvenement": 14,
           "idTypeConference": 55,
           "typeConference": "Conférence",
-          "titre": "« Conférence Walsh » par Serge Chauvin",
+          "titre": "[Raoul Walsh]",
           "sousTitre": "Conférence de Serge Chauvin",
           "duree": 90,
           "textes": [
@@ -4017,41 +4052,6 @@
           "intervenants": [
             {
               "nomComplet": "Serge Chauvin",
-              "idFonction": 139,
-              "fonction": "Conférencier",
-              "ordre": 1
-            }
-          ]
-        },
-        {
-          "idSeance": 104897,
-          "dateHeure": "2023-09-20T19:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 90,
-          "idCategorie": 3091,
-          "idEvenement": 28593,
-          "typeEvenement": 14,
-          "idTypeConference": 55,
-          "typeConference": "Conférence",
-          "titre": "« Raoul Walsh après la Warner (1955-1964) : un cinéaste déchaîné » Par Jean-François Rauger",
-          "sousTitre": "Conférence de Jean-François Rauger",
-          "duree": 90,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Raoul Walsh n'est plus un salarié de la Warner Bros. depuis 1951. Les structures industrielles du cinéma hollywoodien se fissurent. Les cinéastes s'émancipent progressivement au cœur d'un système qui peine à se renouveler radicalement. L'auteur de Bungalow pour femmes est encore à l'étroit, bridé par d'obsolètes exigences de représentation. À partir du milieu des années 1950, son œuvre va toutefois s'infléchir vers un sentiment nouveau, plus mûr, dépassant le romantisme cosmique des films de la décennie précédente. Un sentiment constitué, paradoxalement, d'hédonisme stoïcien, de mélancolie cool, mais aussi de déchaînement libidinal. Mercredi 20 septembre 19h HL"
-            },
-            {
-              "typeTexte": 156,
-              "texte": "**Jean-François Rauger** est directeur de la programmation à la Cinémathèque française."
-            }
-          ],
-          "intervenants": [
-            {
-              "nomComplet": "Jean-François Rauger",
               "idFonction": 139,
               "fonction": "Conférencier",
               "ordre": 1

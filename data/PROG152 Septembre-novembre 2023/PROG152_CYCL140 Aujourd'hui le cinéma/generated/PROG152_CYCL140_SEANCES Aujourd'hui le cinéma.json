@@ -1,5 +1,38 @@
 [
   {
+    "idCategorie": 3074,
+    "typeEvenement": 13,
+    "idEvenement": 28534,
+    "idSeance": 104988,
+    "dateHeure": "2023-09-04T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 154468,
+        "ordre": 1,
+        "idSeance": 104988,
+        "idCopie": 26204,
+        "duree": 36,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 57359,
+        "ordre": 2,
+        "idSeance": 104988,
+        "idCopie": 13096,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance présentée par Julia Kowalski"
+  },
+  {
     "idCategorie": 3122,
     "typeEvenement": 13,
     "idEvenement": 28846,
@@ -31,6 +64,57 @@
       }
     ],
     "mention": "Séance suivie d'une discussion avec Yolande Zauberman et Lila Pinell"
+  },
+  {
+    "idCategorie": 3112,
+    "typeEvenement": 13,
+    "idEvenement": 28730,
+    "idSeance": 104990,
+    "dateHeure": "2023-09-18T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 154495,
+        "ordre": 1,
+        "idSeance": 104990,
+        "idCopie": 26327,
+        "duree": 39,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154496,
+        "ordre": 2,
+        "idSeance": 104990,
+        "idCopie": 26326,
+        "duree": 39,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154497,
+        "ordre": 3,
+        "idSeance": 104990,
+        "idCopie": 26306,
+        "duree": 28,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154513,
+        "ordre": 4,
+        "idSeance": 104990,
+        "idCopie": 26325,
+        "duree": 18,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Pablo Dury. Séance présentée par Félix Fattal"
   },
   {
     "idCategorie": 3070,
@@ -215,5 +299,8 @@
   },
   {
     "mention": "Séance présentée par Jean-Christophe Berjon"
+  },
+  {
+    "mention": "Séance présentée par Alex Masson"
   }
 ]
