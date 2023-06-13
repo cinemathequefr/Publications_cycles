@@ -243,8 +243,8 @@
                   "mentionAssoc": "Film + dialogue"
                 },
                 {
-                  "idSeance": 104920,
-                  "dateHeure": "2023-10-23T20:30:00",
+                  "idSeance": 104986,
+                  "dateHeure": "2023-10-26T20:30:00",
                   "idSalle": "GF",
                   "mentionAssoc": "Film seul"
                 }
@@ -721,8 +721,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104811,
-              "dateHeure": "2023-09-09T14:30:00",
+              "idSeance": 104977,
+              "dateHeure": "2023-09-16T19:00:00",
               "idSalle": "HL"
             },
             {
@@ -949,11 +949,6 @@
               "dateHeure": "2023-08-30T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
-            },
-            {
-              "idSeance": 104919,
-              "dateHeure": "2023-10-23T18:00:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -1693,33 +1688,50 @@
           ]
         },
         {
-          "idFilm": 80342,
-          "content": [
+          "groupe": [
             {
               "idFilm": 80342,
-              "ordre": 1,
-              "titre": "Man I Love",
-              "art": "The",
-              "realisateurs": "Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1946,
-              "duree": 96,
-              "version": "VOSTF",
-              "format": "16 mm",
-              "adaptation": "D'après le roman _Night Shift_ de Maritta Wolff.",
-              "generique": [
-                "Ida Lupino",
-                "Robert Alda",
-                "Andrea King"
+              "content": [
+                {
+                  "idFilm": 80342,
+                  "ordre": 1,
+                  "titre": "Man I Love",
+                  "art": "The",
+                  "realisateurs": "Raoul Walsh",
+                  "pays": "États-Unis",
+                  "annee": 1946,
+                  "duree": 96,
+                  "version": "VOSTF",
+                  "format": "16 mm",
+                  "adaptation": "D'après le roman _Night Shift_ de Maritta Wolff.",
+                  "generique": [
+                    "Ida Lupino",
+                    "Robert Alda",
+                    "Andrea King"
+                  ],
+                  "miniTexte": "Entre polar et romance musicale, un mélo d'une rare modernité féministe qui relate l'histoire d'une chanteuse de bar new-yorkaise, partie rompre sa solitude dans les night-clubs de L.A. L'une des inspirations de Martin Scorsese pour _New York, New York_."
+                }
               ],
-              "miniTexte": "Entre polar et romance musicale, un mélo d'une rare modernité féministe qui relate l'histoire d'une chanteuse de bar new-yorkaise, partie rompre sa solitude dans les night-clubs de L.A. L'une des inspirations de Martin Scorsese pour _New York, New York_."
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 104810,
-              "dateHeure": "2023-09-16T21:00:00",
-              "idSalle": "HL"
+              "idEvenement": 28587,
+              "content": [
+                {
+                  "idConf": 28587,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104976,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-09T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -2034,11 +2046,6 @@
           ],
           "seances": [
             {
-              "idSeance": 104440,
-              "dateHeure": "2023-09-16T18:30:00",
-              "idSalle": "HL"
-            },
-            {
               "idSeance": 104962,
               "dateHeure": "2023-10-08T15:00:00",
               "idSalle": "HL"
@@ -2144,66 +2151,39 @@
           ]
         },
         {
-          "groupe": [
-            {
-              "idEvenement": 28593,
-              "content": [
-                {
-                  "idConf": 28593,
-                  "titre": "« Conférence Walsh » Par Jean-François Rauger",
-                  "sousTitre": "Conférence de Jean-François Rauger",
-                  "typeConference": "Conférence"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104897,
-                  "idSeanceAssoc": 104444,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-09-20T19:00:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _Le Roi et quatre reines_ de Raoul Walsh"
-                }
-              ]
-            },
+          "idFilm": 36825,
+          "content": [
             {
               "idFilm": 36825,
-              "content": [
-                {
-                  "idFilm": 36825,
-                  "ordre": 1,
-                  "titre": "Roi et quatre reines",
-                  "art": "Le",
-                  "titreVo": "King and Four Queens",
-                  "artVo": "The",
-                  "realisateurs": "Raoul Walsh",
-                  "pays": "États-Unis",
-                  "annee": 1956,
-                  "duree": 86,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "Clark Gable",
-                    "Eleanor Parker",
-                    "Jo Van Fleet"
-                  ],
-                  "miniTexte": "Gorgé de gags irrévérencieux, _Le Roi et Quatre Reines_ tient autant du western que de la comédie. Au cœur d'un gynécée implacable, Clark Gable joue le roi irrésistible d'une partie de chasse au trésor et d'un jeu de séduction aussi sensuel que cynique."
-                }
+              "ordre": 1,
+              "titre": "Roi et quatre reines",
+              "art": "Le",
+              "titreVo": "King and Four Queens",
+              "artVo": "The",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1956,
+              "duree": 86,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Clark Gable",
+                "Eleanor Parker",
+                "Jo Van Fleet"
               ],
-              "seances": [
-                {
-                  "idSeance": 104444,
-                  "idSeanceAssoc": 104444,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-09-20T21:15:00",
-                  "idSalle": "HL"
-                },
-                {
-                  "idSeance": 104927,
-                  "dateHeure": "2023-10-29T17:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "miniTexte": "Gorgé de gags irrévérencieux, _Le Roi et Quatre Reines_ tient autant du western que de la comédie. Au cœur d'un gynécée implacable, Clark Gable joue le roi irrésistible d'une partie de chasse au trésor et d'un jeu de séduction aussi sensuel que cynique."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104444,
+              "dateHeure": "2023-09-20T21:15:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 104927,
+              "dateHeure": "2023-10-29T17:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -2738,6 +2718,31 @@
             {
               "idSeance": 104814,
               "dateHeure": "2023-10-01T18:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 28593,
+          "content": [
+            {
+              "idConf": 28593,
+              "titre": "« Raoul Walsh après la Warner (1955-1964) : un cinéaste déchaîné » Par Jean-François Rauger",
+              "sousTitre": "Conférence de Jean-François Rauger",
+              "typeConference": "Conférence",
+              "miniTexte": "Raoul Walsh n'est plus un salarié de la Warner Bros. depuis 1951. Les structures industrielles du cinéma hollywoodien se fissurent. Les cinéastes s'émancipent progressivement au cœur d'un système qui peine à se renouveler radicalement. L'auteur de Bungalow pour femmes est encore à l'étroit, bridé par d'obsolètes exigences de représentation. À partir du milieu des années 1950, son œuvre va toutefois s'infléchir vers un sentiment nouveau, plus mûr, dépassant le romantisme cosmique des films de la décennie précédente. Un sentiment constitué, paradoxalement, d'hédonisme stoïcien, de mélancolie cool, mais aussi de déchaînement libidinal. Mercredi 20 septembre 19h HL"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104897,
+              "dateHeure": "2023-09-20T19:00:00",
               "idSalle": "HL"
             }
           ]

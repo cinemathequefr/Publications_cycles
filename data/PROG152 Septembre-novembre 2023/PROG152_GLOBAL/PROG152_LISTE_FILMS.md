@@ -5,6 +5,23 @@
   * Brad Pitt – La Revanche d'un Blond  
   * Jim Carrey, l'Amérique démasquée
 
+## Aujourd'hui le cinéma (14)
+
+  * Bambino  
+  * Bonobo  
+  * Chienne (La)  
+  * Classified people  
+  * Fairplay  
+  * Margarethe 89  
+  * Nova Dubai  
+  * Os Cuidados que se tem com o cuidado que osoutros devem ter consigo mesmos  
+  * petite reine (Ma)  
+  * Portraits fantômes  
+  * Roi David (Le)  
+  * Tinikling  
+  * Trois nuits par semaine  
+  * Trois tristes tigres
+
 ## Catherine Breillat (15)
 
   * 36 fillette  
@@ -333,13 +350,12 @@
   * Salvador Allende  
   * Septembre chilien
 
-## Viva Varda ! (9)
+## Viva Varda ! (8)
 
   * Bonheur (Le)  
   * Cléo de 5 à 7  
   * Créatures (Les)  
   * Documenteur  
-  * Femmes sont de nature créatives : Agnès Varda (Les)  
   * Glaneurs et la Glaneuse (Les)  
   * Oncle Yanko  
   * Pointe Courte (La)  

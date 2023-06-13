@@ -387,23 +387,42 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 26850,
-    "idSeance": 104811,
+    "idEvenement": 26904,
+    "idSeance": 104976,
     "dateHeure": "2023-09-09T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 180,
+    "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 37663,
+        "idFilm": 80342,
         "ordre": 1,
-        "idSeance": 104811,
-        "idCopie": 25995,
-        "duree": 150,
+        "idSeance": 104976,
+        "idCopie": 25915,
+        "duree": 96,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3091,
+    "typeEvenement": 14,
+    "idEvenement": 28587,
+    "idSeance": 104976,
+    "dateHeure": "2023-09-09T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -683,46 +702,23 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 26890,
-    "idSeance": 104440,
-    "dateHeure": "2023-09-16T18:30:00",
+    "idEvenement": 26850,
+    "idSeance": 104977,
+    "dateHeure": "2023-09-16T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 180,
     "items": [
       {
-        "idFilm": 37710,
+        "idFilm": 37663,
         "ordre": 1,
-        "idSeance": 104440,
-        "idCopie": 10516,
-        "duree": 125,
+        "idSeance": 104977,
+        "idCopie": 25995,
+        "duree": 150,
         "version": "VOSTF",
         "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2286,
-    "typeEvenement": 13,
-    "idEvenement": 26904,
-    "idSeance": 104810,
-    "dateHeure": "2023-09-16T21:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 80342,
-        "ordre": 1,
-        "idSeance": 104810,
-        "idCopie": 25915,
-        "duree": 96,
-        "version": "VOSTF",
-        "format": "16 mm"
       }
     ]
   },
@@ -871,8 +867,6 @@
       "Henri Langlois"
     ],
     "dureeSeance": 90,
-    "idSeanceAssoc": 104444,
-    "typeAssoc": 117,
     "items": [
       {}
     ]
@@ -888,8 +882,6 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
-    "idSeanceAssoc": 104897,
-    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 36825,
@@ -1940,52 +1932,6 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 26856,
-    "idSeance": 104919,
-    "dateHeure": "2023-10-23T18:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 36892,
-        "ordre": 1,
-        "idSeance": 104919,
-        "idCopie": 26220,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2286,
-    "typeEvenement": 13,
-    "idEvenement": 26873,
-    "idSeance": 104920,
-    "dateHeure": "2023-10-23T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 37819,
-        "ordre": 1,
-        "idSeance": 104920,
-        "idCopie": 26133,
-        "duree": 101,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2286,
-    "typeEvenement": 13,
     "idEvenement": 26906,
     "idSeance": 104923,
     "dateHeure": "2023-10-25T18:30:00",
@@ -2047,6 +1993,29 @@
         "idSeance": 104921,
         "idCopie": 25900,
         "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2286,
+    "typeEvenement": 13,
+    "idEvenement": 26873,
+    "idSeance": 104986,
+    "dateHeure": "2023-10-26T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 37819,
+        "ordre": 1,
+        "idSeance": 104986,
+        "idCopie": 26133,
+        "duree": 101,
         "version": "VOSTF",
         "format": "35 mm"
       }
