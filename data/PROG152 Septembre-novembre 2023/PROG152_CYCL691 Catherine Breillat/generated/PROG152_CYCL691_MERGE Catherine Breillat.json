@@ -13,6 +13,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 3042,
           "idEvenement": 28288,
           "typeEvenement": 13,
@@ -604,13 +605,15 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 104959,
-          "dateHeure": "2023-09-16T16:00:00",
+          "idSeance": 104784,
+          "ordre": 2,
+          "dateHeure": "2023-09-16T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
+          "typeAssoc": 118,
           "idCategorie": 3059,
           "idEvenement": 28356,
           "typeEvenement": 14,
@@ -630,8 +633,15 @@
               "idFonction": 142,
               "fonction": "Interviewé",
               "ordre": 1
+            },
+            {
+              "nomComplet": "Murielle Joudet",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
             }
-          ]
+          ],
+          "mentionAnimation": "Rencontre animée par Murielle Joudet"
         }
       ],
       "textes": [

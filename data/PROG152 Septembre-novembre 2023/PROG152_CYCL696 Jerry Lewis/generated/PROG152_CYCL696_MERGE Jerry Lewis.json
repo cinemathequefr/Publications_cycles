@@ -285,8 +285,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104696,
+          "typeAssoc": 118,
           "idCategorie": 3060,
           "idEvenement": 28402,
           "typeEvenement": 13,
@@ -326,6 +325,8 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104631,
           "idCategorie": 3060,
           "idEvenement": 28408,
           "typeEvenement": 13,
@@ -390,8 +391,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104698,
+          "typeAssoc": 118,
           "idCategorie": 3060,
           "idEvenement": 28405,
           "typeEvenement": 13,
@@ -468,8 +468,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104697,
+          "typeAssoc": 118,
           "idCategorie": 3060,
           "idEvenement": 28413,
           "typeEvenement": 13,
@@ -665,59 +664,62 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 104696,
-          "dateHeure": "2023-11-11T16:15:00",
+          "idSeance": 104594,
+          "ordre": 2,
+          "dateHeure": "2023-11-11T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104594,
+          "mention": "Séance suivie d'une discussion avec Mathieu Macheret",
+          "typeAssoc": 118,
           "idCategorie": 3090,
           "idEvenement": 28598,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + Discussion Matthieu Macheret",
+          "titre": "Film + Dialogue Matthieu Macheret",
           "duree": 60,
           "textes": []
         },
         {
-          "idSeance": 104698,
-          "dateHeure": "2023-11-25T16:00:00",
+          "idSeance": 104598,
+          "ordre": 2,
+          "dateHeure": "2023-11-25T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104598,
+          "mention": "Séance suivie d'une discussion avec Damien Bertrand",
+          "typeAssoc": 118,
           "idCategorie": 3090,
           "idEvenement": 28601,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + Discussion avec Damien Bertrand",
+          "titre": "Film + Dialogue avec Damien Bertrand",
           "duree": 60,
           "textes": []
         },
         {
-          "idSeance": 104697,
-          "dateHeure": "2023-11-18T16:15:00",
+          "idSeance": 104595,
+          "ordre": 2,
+          "dateHeure": "2023-11-18T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104595,
+          "mention": "Séance suivie d'une discussion avec Pascale Bodet",
+          "typeAssoc": 118,
           "idCategorie": 3090,
           "idEvenement": 28600,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + discussion avec Pascale Bodet",
+          "titre": "Film + Dialogue avec Pascale Bodet",
           "duree": 60,
           "textes": []
         },
@@ -729,15 +731,25 @@
             "Georges Franju"
           ],
           "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104593,
           "idCategorie": 3090,
           "idEvenement": 28583,
           "typeEvenement": 14,
           "idTypeConference": 55,
           "typeConference": "Conférence",
           "titre": "« Jerry Lewis Cinéaste » par Damien Bertrand",
-          "sousTitre": "Conférence ",
+          "sousTitre": "Conférence de Damien Bertrand",
           "duree": 90,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Damien Bertrand",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []

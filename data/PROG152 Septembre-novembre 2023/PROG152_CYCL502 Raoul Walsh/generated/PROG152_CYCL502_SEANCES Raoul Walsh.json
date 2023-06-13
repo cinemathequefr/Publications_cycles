@@ -585,7 +585,8 @@
       {
         "ordre": 2
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Murielle Joudet et Jean-François Rauger"
   },
   {
     "idCategorie": 2286,
@@ -736,6 +737,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 37819,
@@ -752,15 +754,18 @@
     "idCategorie": 3091,
     "typeEvenement": 14,
     "idEvenement": 28588,
-    "idSeance": 104669,
-    "dateHeure": "2023-09-17T16:15:00",
+    "idSeance": 104417,
+    "dateHeure": "2023-09-17T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 90,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -1268,9 +1273,32 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
+    "idEvenement": 26869,
+    "idSeance": 104974,
+    "dateHeure": "2023-10-01T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 37753,
+        "ordre": 1,
+        "idSeance": 104974,
+        "idCopie": 25043,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2286,
+    "typeEvenement": 13,
     "idEvenement": 26909,
     "idSeance": 104813,
-    "dateHeure": "2023-10-01T17:45:00",
+    "dateHeure": "2023-10-01T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1293,7 +1321,7 @@
     "typeEvenement": 13,
     "idEvenement": 28237,
     "idSeance": 104814,
-    "dateHeure": "2023-10-01T20:00:00",
+    "dateHeure": "2023-10-01T18:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1306,6 +1334,29 @@
         "idSeance": 104814,
         "idCopie": 25956,
         "duree": 72,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2286,
+    "typeEvenement": 13,
+    "idEvenement": 26866,
+    "idSeance": 104975,
+    "dateHeure": "2023-10-01T20:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 67404,
+        "ordre": 1,
+        "idSeance": 104975,
+        "idCopie": 25864,
+        "duree": 106,
         "version": "VOSTF",
         "format": "35 mm"
       }

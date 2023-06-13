@@ -447,8 +447,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 195,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104947,
+          "typeAssoc": 118,
           "idCategorie": 3047,
           "idEvenement": 28323,
           "typeEvenement": 13,
@@ -525,26 +524,34 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 104947,
-          "dateHeure": "2023-10-14T17:15:00",
+          "idSeance": 104935,
+          "ordre": 2,
+          "dateHeure": "2023-10-14T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104935,
+          "typeAssoc": 118,
           "idCategorie": 3092,
           "idEvenement": 28589,
           "typeEvenement": 14,
-          "idTypeConference": 145,
-          "typeConference": "MasterClass",
+          "idTypeConference": 15,
+          "typeConference": "Leçon de cinéma",
           "titre": "Masterclass Fincher",
           "duree": 60,
           "textes": [
             {
               "typeTexte": 9,
               "texte": "« Je connaissais bien cette histoire pour avoir grandi près de San Francisco : Zodiac hantait mes cauchemars de gosse. J'ai toujours pensé qu'il y avait eu une énorme chasse à l'homme pour trouver ce type. Il s'avère que c'était deux gars avec des téléphones à cadran et des stylos Bic. Même si la télé nous disait qu'ils examinaient des fichiers informatiques comparant les empreintes digitales, la réalité était que la technologie n'existait sous aucune forme, pas même un fax. Ce sont ces temps primitifs que nous avons voulu rappeler. » (David Fincher)"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "David Fincher",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
             }
           ]
         }

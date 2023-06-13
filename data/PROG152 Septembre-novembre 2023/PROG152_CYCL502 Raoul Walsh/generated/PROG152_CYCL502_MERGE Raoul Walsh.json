@@ -238,6 +238,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 2286,
           "idEvenement": 26873,
           "typeEvenement": 13,
@@ -1048,7 +1049,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Restauré par le MoMA."
+              "texte": "Restauration par le MoMA."
             }
           ]
         },
@@ -1082,7 +1083,7 @@
         {
           "idSeance": 104813,
           "ordre": 1,
-          "dateHeure": "2023-10-01T17:45:00",
+          "dateHeure": "2023-10-01T16:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1658,6 +1659,46 @@
           ]
         },
         {
+          "idSeance": 104975,
+          "ordre": 1,
+          "dateHeure": "2023-10-01T20:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 2286,
+          "idEvenement": 26866,
+          "typeEvenement": 13,
+          "idFilm": 67404,
+          "art": "Les",
+          "titre": "Fantastiques années 20",
+          "artVo": "The",
+          "titreVo": "Roaring Twenties",
+          "realisateurs": "Raoul Walsh",
+          "annee": 1939,
+          "pays": "États-Unis",
+          "duree": 106,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "James Cagney",
+            "Priscilla Lane",
+            "Humphrey Bogart"
+          ],
+          "adaptation": "D'après le roman _The World Moves On_ de Mark Hellinger.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Un modèle de film de gangsters et de l'Amérique de la Prohibition. Exploitant génialement les physionomies, le jargon et le climat d'une époque, Walsh oppose deux visages de criminels, antihéros fiévreux et pathétique d'un côté, froid et cynique de l'autre, incarnés par Cagney et Bogart, magnifiques. Premier film de Walsh pour la Warner Bros."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Trois soldats américains sont démobilisés après la Première Guerre mondiale et retournent à la vie civile. La prohibition finit par les réunir, pour le meilleur et pour le pire."
+            }
+          ]
+        },
+        {
           "idSeance": 104656,
           "ordre": 1,
           "dateHeure": "2023-09-24T18:45:00",
@@ -1739,6 +1780,45 @@
           "idSeance": 104568,
           "ordre": 1,
           "dateHeure": "2023-09-29T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 2286,
+          "idEvenement": 26869,
+          "typeEvenement": 13,
+          "idFilm": 37753,
+          "art": "La",
+          "titre": "Femme à abattre",
+          "artVo": "The",
+          "titreVo": "Enforcer",
+          "realisateurs": "Bretaigne Windust, Raoul Walsh",
+          "annee": 1950,
+          "pays": "États-Unis",
+          "duree": 88,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Humphrey Bogart",
+            "Zero Mostel",
+            "Ted de Corsia"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Dans un jeu de flashbacks imbriqués, une enquête reconstituée visant à faire tomber le chef d'une bande du crime organisé. Sublimé par l'utilisation d'un clair-obscur constant, un modèle de film noir à la mise en scène implacable, notamment dans son ouverture et son final, d'une brutalité remarquable."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Un policier tente de protéger un témoin capital, traqué par des tueurs à gages, avant un procès."
+            }
+          ]
+        },
+        {
+          "idSeance": 104974,
+          "ordre": 1,
+          "dateHeure": "2023-10-01T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -2389,7 +2469,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Restauration 4K par le MoMA and The Film Foundation, avec le soutien financier de Hobson / Lucas Family Foundation et le Fonds culturel franco-américan et avec la la collaboration de Directors Guild of America (DGA), Motion Picture Association of America (MPAA), Société des auteurs, compositeurs et éditeurs de musique (SACEM), et de Writers Guild of America, West (WGAW)."
+              "texte": "Restauration 4K par le MoMA et la Film Foundation, avec le soutien de Hobson/Lucas Family Foundation et le Fonds culturel franco-américan. Avec la collaboration de la Directors Guild of America, la Motion Picture Association of America, la SACEM et la Writers Guild of America, West."
             }
           ]
         },
@@ -3867,14 +3947,14 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Restauré par le MoMA avec le soutien de Celeste Bartos Fund for Film Preservation."
+              "texte": "Restauration par le MoMA, avec le soutien de Celeste Bartos Fund for Film Preservation."
             }
           ]
         },
         {
           "idSeance": 104814,
           "ordre": 1,
-          "dateHeure": "2023-10-01T20:00:00",
+          "dateHeure": "2023-10-01T18:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -3927,31 +4007,33 @@
             "Henri Langlois"
           ],
           "dureeSeance": 90,
+          "mention": "Séance suivie d'une discussion avec Murielle Joudet et Jean-François Rauger",
           "typeAssoc": 118,
           "idCategorie": 3091,
           "idEvenement": 28592,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + Discussion avec Jean-François Rauger et Murielle Joudet",
+          "titre": "Film + Dialogue avec Jean-François Rauger et Murielle Joudet",
           "duree": 60,
           "textes": []
         },
         {
-          "idSeance": 104669,
-          "dateHeure": "2023-09-17T16:15:00",
+          "idSeance": 104417,
+          "ordre": 2,
+          "dateHeure": "2023-09-17T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
+          "typeAssoc": 118,
           "idCategorie": 3091,
           "idEvenement": 28588,
           "typeEvenement": 14,
-          "idTypeConference": 55,
-          "typeConference": "Conférence",
-          "titre": "Film + discussion avec Pierre Gabaston",
-          "sousTitre": "Conférence de Pierre Gabaston",
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + Dialogue avec Pierre Gabaston",
           "duree": 60,
           "textes": [],
           "intervenants": [

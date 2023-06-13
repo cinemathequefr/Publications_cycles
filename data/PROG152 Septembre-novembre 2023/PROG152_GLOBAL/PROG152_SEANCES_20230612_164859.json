@@ -799,7 +799,7 @@
     "items": [
       {
         "idFilm": 56303,
-        "titre": "Frankenstein 2000, the vindicator",
+        "titre": "Frankenstein 2000",
         "realisateurs": "Jean-Claude Lord",
         "annee": 1984,
         "duree": 92,
@@ -1664,8 +1664,8 @@
     "hashEvenement": "f36874"
   },
   {
-    "idSeance": 104791,
-    "idEvenement": 28294,
+    "idSeance": 104968,
+    "idEvenement": 28292,
     "dateHeure": "2023-09-17T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -1676,16 +1676,15 @@
     ],
     "items": [
       {
-        "idFilm": 111102,
-        "titre": "Brève Traversée",
+        "idFilm": 64238,
+        "titre": "Romance",
         "realisateurs": "Catherine Breillat",
-        "annee": 2001,
-        "duree": 84,
-        "version": "STA",
+        "annee": 1999,
+        "duree": 98,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f111102"
+    "hashEvenement": "f64238"
   },
   {
     "idSeance": 104443,
@@ -1710,6 +1709,30 @@
       }
     ],
     "hashEvenement": "f36860"
+  },
+  {
+    "idSeance": 104969,
+    "idEvenement": 28294,
+    "dateHeure": "2023-09-17T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Catherine Breillat",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 111102,
+        "titre": "Brève Traversée",
+        "realisateurs": "Catherine Breillat",
+        "annee": 2001,
+        "duree": 84,
+        "version": "STA",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f111102"
   },
   {
     "idSeance": 104475,
@@ -2669,6 +2692,10 @@
       [
         "Cédric Kahn",
         "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
       ]
     ],
     "items": [
@@ -2685,13 +2712,13 @@
     "hashEvenement": "f97028"
   },
   {
-    "idSeance": 104675,
-    "idEvenement": 26890,
+    "idSeance": 104963,
+    "idEvenement": 28495,
     "dateHeure": "2023-10-01T15:00:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
-        "Raoul Walsh",
+        "Cédric Kahn",
         "Les films"
       ],
       [
@@ -2701,17 +2728,16 @@
     ],
     "items": [
       {
-        "idFilm": 37710,
-        "titre": "Piste des géants",
-        "art": "La",
-        "realisateurs": "Raoul Walsh",
-        "annee": 1930,
-        "duree": 125,
-        "version": "VOSTF",
+        "idFilm": 97028,
+        "titre": "Avion",
+        "art": "L'",
+        "realisateurs": "Cédric Kahn",
+        "annee": 2004,
+        "duree": 100,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f37710"
+    "hashEvenement": "f97028"
   },
   {
     "idSeance": 104875,
@@ -3063,6 +3089,7 @@
         "realisateurs": "Thibaut Sève, Adrien Dénouette",
         "annee": 2021,
         "duree": 52,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -3109,6 +3136,7 @@
         "realisateurs": "Adrien Dénouette, Thibaut Sève",
         "annee": 2022,
         "duree": 52,
+        "version": "VF",
         "format": "DCP"
       }
     ],
@@ -3271,7 +3299,7 @@
     "hashEvenement": "f56965"
   },
   {
-    "idSeance": 104736,
+    "idSeance": 104973,
     "idEvenement": 25654,
     "dateHeure": "2023-10-07T14:30:00",
     "salle": "HL",
@@ -3483,11 +3511,15 @@
     "hashEvenement": "f64369"
   },
   {
-    "idSeance": 104708,
-    "idEvenement": 28576,
+    "idSeance": 104962,
+    "idEvenement": 26890,
     "dateHeure": "2023-10-08T15:00:00",
     "salle": "HL",
     "cycle": [
+      [
+        "Raoul Walsh",
+        "Les films"
+      ],
       [
         "Ma petite Cinémathèque",
         "Les films"
@@ -3495,17 +3527,17 @@
     ],
     "items": [
       {
-        "idFilm": 33678,
-        "titre": "Aventure de madame Muir",
-        "art": "L'",
-        "realisateurs": "Joseph L. Mankiewicz",
-        "annee": 1946,
-        "duree": 104,
+        "idFilm": 37710,
+        "titre": "Piste des géants",
+        "art": "La",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1930,
+        "duree": 125,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f33678"
+    "hashEvenement": "f37710"
   },
   {
     "idSeance": 104515,
@@ -3773,8 +3805,8 @@
     "hashEvenement": "f36818"
   },
   {
-    "idSeance": 104835,
-    "idEvenement": 25662,
+    "idSeance": 104971,
+    "idEvenement": 25661,
     "dateHeure": "2023-10-12T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -3785,15 +3817,15 @@
     ],
     "items": [
       {
-        "idFilm": 140885,
-        "titre": "A cause des filles ?",
+        "idFilm": 125568,
+        "titre": "Valentin Valentin",
         "realisateurs": "Pascal Thomas",
-        "annee": 2017,
-        "duree": 96,
+        "annee": 2014,
+        "duree": 106,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f140885"
+    "hashEvenement": "f125568"
   },
   {
     "idSeance": 104950,
@@ -3966,8 +3998,8 @@
     "hashEvenement": "f101866"
   },
   {
-    "idSeance": 104868,
-    "idEvenement": 25661,
+    "idSeance": 104970,
+    "idEvenement": 25662,
     "dateHeure": "2023-10-14T15:30:00",
     "salle": "GF",
     "cycle": [
@@ -3978,15 +4010,15 @@
     ],
     "items": [
       {
-        "idFilm": 125568,
-        "titre": "Valentin Valentin",
+        "idFilm": 140885,
+        "titre": "A cause des filles ?",
         "realisateurs": "Pascal Thomas",
-        "annee": 2014,
-        "duree": 106,
+        "annee": 2017,
+        "duree": 96,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f125568"
+    "hashEvenement": "f140885"
   },
   {
     "idSeance": 104947,
@@ -4966,29 +4998,28 @@
     "hashEvenement": "f43918"
   },
   {
-    "idSeance": 104922,
-    "idEvenement": 26917,
+    "idSeance": 104964,
+    "idEvenement": 28554,
     "dateHeure": "2023-10-26T20:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Raoul Walsh",
-        "Les films"
+        "Viva Varda !",
+        "Autour d'Agnès Varda"
       ]
     ],
     "items": [
       {
-        "idFilm": 45139,
-        "titre": "Rivière d'argent",
-        "art": "La",
-        "realisateurs": "Raoul Walsh",
-        "annee": 1948,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 154471,
+        "titre": "Femmes sont de nature créatives : Agnès Varda",
+        "art": "Les",
+        "realisateurs": "Raganelli Katja",
+        "annee": 1977,
+        "duree": 47,
+        "format": "Numérique"
       }
     ],
-    "hashEvenement": "f45139"
+    "hashEvenement": "f154471"
   },
   {
     "idSeance": 104618,
@@ -5157,6 +5188,31 @@
       }
     ],
     "hashEvenement": "f154473"
+  },
+  {
+    "idSeance": 104965,
+    "idEvenement": 26917,
+    "dateHeure": "2023-10-28T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Raoul Walsh",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45139,
+        "titre": "Rivière d'argent",
+        "art": "La",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1948,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f45139"
   },
   {
     "idSeance": 104620,
@@ -5596,6 +5652,30 @@
     "hashEvenement": "f154489"
   },
   {
+    "idSeance": 104966,
+    "idEvenement": 26847,
+    "dateHeure": "2023-11-03T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Raoul Walsh",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36860,
+        "titre": "Bungalow pour femmes",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1956,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f36860"
+  },
+  {
     "idSeance": 104385,
     "idEvenement": 28603,
     "dateHeure": "2023-11-03T18:30:00",
@@ -5633,9 +5713,9 @@
     "items": [
       {
         "idFilm": 133306,
-        "titre": "Fool King",
+        "titre": "Foul King",
         "realisateurs": "Kim Jee-woon",
-        "annee": 1999,
+        "annee": 2000,
         "duree": 116,
         "version": "VOSTF",
         "format": "DCP"
@@ -5665,6 +5745,31 @@
       }
     ],
     "hashEvenement": "f28935"
+  },
+  {
+    "idSeance": 104967,
+    "idEvenement": 26912,
+    "dateHeure": "2023-11-03T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Raoul Walsh",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36837,
+        "titre": "Nus et les morts",
+        "art": "Les",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1958,
+        "duree": 131,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f36837"
   },
   {
     "idSeance": 104778,
@@ -6080,7 +6185,7 @@
         "titre": "Dernier rempart",
         "art": "Le",
         "realisateurs": "Kim Jee-woon",
-        "annee": 2011,
+        "annee": 2013,
         "duree": 105
       }
     ],
@@ -6214,7 +6319,7 @@
     "items": [
       {
         "idFilm": 154490,
-        "titre": "Illang : la Brigade des loups",
+        "titre": "Illang : La Brigade des loups",
         "realisateurs": "Kim Jee-woon",
         "annee": 2018,
         "duree": 139,
@@ -6517,7 +6622,7 @@
   {
     "idSeance": 104894,
     "idEvenement": 28512,
-    "dateHeure": "2023-11-16T19:00:00",
+    "dateHeure": "2023-11-16T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6875,7 +6980,7 @@
         "annee": 1980,
         "duree": 128,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f42487"
@@ -7159,6 +7264,31 @@
     "hashEvenement": "f35524"
   },
   {
+    "idSeance": 104955,
+    "idEvenement": 28375,
+    "dateHeure": "2023-11-24T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Du côté des Martiens"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35720,
+        "titre": "Soucoupes volantes attaquent",
+        "art": "Les",
+        "realisateurs": "Fred F. Sears",
+        "annee": 1955,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f35720"
+  },
+  {
     "idSeance": 104904,
     "idEvenement": 28658,
     "dateHeure": "2023-11-24T19:30:00",
@@ -7204,6 +7334,30 @@
       }
     ],
     "hashEvenement": "f118768"
+  },
+  {
+    "idSeance": 104858,
+    "idEvenement": 28194,
+    "dateHeure": "2023-11-24T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Du côté des Martiens"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 74302,
+        "titre": "Prisonnières des martiens",
+        "realisateurs": "Ishirō Honda",
+        "annee": 1957,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f74302"
   },
   {
     "idSeance": 104598,
@@ -7325,7 +7479,7 @@
   {
     "idSeance": 104882,
     "idEvenement": 28524,
-    "dateHeure": "2023-11-25T19:15:00",
+    "dateHeure": "2023-11-25T19:30:00",
     "salle": "GF",
     "cycle": [
       [

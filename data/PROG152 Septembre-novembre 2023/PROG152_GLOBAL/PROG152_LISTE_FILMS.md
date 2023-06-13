@@ -220,7 +220,7 @@
   * Vampiro sangriento (El)  
   * Veneno para las hadas
 
-## Pascal Thomas (19)
+## Pascal Thomas (21)
 
   * A cause des filles ?  
   * Associés contre le crime  
@@ -235,8 +235,10 @@
   * Maris, les femmes, les amants (Les)  
   * Mercredi, folle journée !  
   * Mon petit doigt m'a dit  
+  * Nono Nénesse  
   * Pagaille (La)  
   * Pleure pas la bouche pleine  
+  * Poème de l'élève Mikovsky (Le)  
   * Surprise du chef (La)  
   * Un oursin dans la poche  
   * Valentin Valentin  

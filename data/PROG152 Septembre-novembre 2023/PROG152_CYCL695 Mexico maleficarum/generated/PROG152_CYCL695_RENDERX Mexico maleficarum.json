@@ -177,37 +177,55 @@
           ]
         },
         {
-          "idFilm": 128743,
-          "content": [
+          "groupe": [
             {
               "idFilm": 128743,
-              "ordre": 1,
-              "titre": "Miroir de la sorcière",
-              "art": "Le",
-              "titreVo": "Espejo de la bruja",
-              "artVo": "El",
-              "realisateurs": "Chano Urueta",
-              "pays": "Mexique",
-              "annee": 1960,
-              "duree": 75,
-              "version": "VO",
-              "format": "DCP",
-              "generique": [
-                "Rosita Arenas",
-                "Armando Calvo",
-                "Isabela Corona",
-                "Dina de Marco",
-                "Carlos Nieto"
+              "content": [
+                {
+                  "idFilm": 128743,
+                  "ordre": 1,
+                  "titre": "Miroir de la sorcière",
+                  "art": "Le",
+                  "titreVo": "Espejo de la bruja",
+                  "artVo": "El",
+                  "realisateurs": "Chano Urueta",
+                  "pays": "Mexique",
+                  "annee": 1960,
+                  "duree": 75,
+                  "version": "VO",
+                  "format": "DCP",
+                  "generique": [
+                    "Rosita Arenas",
+                    "Armando Calvo",
+                    "Isabela Corona",
+                    "Dina de Marco",
+                    "Carlos Nieto"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Produit par Abel Salazar, cinq ans après le diptyque vampirique de Méndez, _Le Miroir de la sorcière_ concentre l'imagerie gothique italienne et l'horreur chirurgicale française dans l'un des films majeurs du fantastique mexicain. Écrit par Alfredo Ruanova (_The Hell of Frankenstein_) et Carlos Enrique Taboada (_Veneno para las hadas_), ce conte de fées macabre à l'atmosphère inquiétante joue des apparitions fantomatiques et des invocations démoniaques pour narrer une quête de revanche. Une immersion envoûtante au cœur de l'épouvante, qui cite _Les Yeux sans visage_ ou encore _Rebecca_."
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Produit par Abel Salazar, cinq ans après le diptyque vampirique de Méndez, _Le Miroir de la sorcière_ concentre l'imagerie gothique italienne et l'horreur chirurgicale française dans l'un des films majeurs du fantastique mexicain. Écrit par Alfredo Ruanova (_The Hell of Frankenstein_) et Carlos Enrique Taboada (_Veneno para las hadas_), ce conte de fées macabre à l'atmosphère inquiétante joue des apparitions fantomatiques et des invocations démoniaques pour narrer une quête de revanche. Une immersion envoûtante au cœur de l'épouvante, qui cite _Les Yeux sans visage_ ou encore _Rebecca_."
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 104866,
-              "dateHeure": "2023-11-01T19:00:00",
-              "idSalle": "GF"
+              "idEvenement": 28594,
+              "content": [
+                {
+                  "idConf": 28594,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec Jean-François Rauger",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104866,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-11-01T19:00:00",
+                  "idSalle": "GF",
+                  "mention": "Séance suivie d'une discussion avec Jean-François Rauger"
+                }
+              ]
             }
           ]
         },
@@ -389,29 +407,6 @@
             {
               "idSeance": 104629,
               "dateHeure": "2023-10-28T16:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 28594,
-          "content": [
-            {
-              "idConf": 28594,
-              "titre": "Film + discussion avec Jean-François Rauger",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104763,
-              "dateHeure": "2023-11-01T20:15:00",
               "idSalle": "GF"
             }
           ]

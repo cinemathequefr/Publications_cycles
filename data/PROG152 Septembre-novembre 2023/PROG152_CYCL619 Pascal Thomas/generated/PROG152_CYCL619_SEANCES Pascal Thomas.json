@@ -2,7 +2,7 @@
   {
     "idCategorie": 2660,
     "typeEvenement": 13,
-    "idEvenement": 25644,
+    "idEvenement": 28842,
     "idSeance": 104654,
     "dateHeure": "2023-10-04T18:00:00",
     "idSalle": [
@@ -12,8 +12,17 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 51398,
+        "idFilm": 65819,
         "ordre": 1,
+        "idSeance": 104654,
+        "idCopie": 26312,
+        "duree": 22,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 51398,
+        "ordre": 2,
         "idSeance": 104654,
         "idCopie": 23744,
         "duree": 108,
@@ -148,6 +157,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 165,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 72518,
@@ -164,15 +174,18 @@
     "idCategorie": 3100,
     "typeEvenement": 14,
     "idEvenement": 28620,
-    "idSeance": 104735,
-    "dateHeure": "2023-10-07T16:30:00",
+    "idSeance": 104973,
+    "dateHeure": "2023-10-07T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 90,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -249,7 +262,7 @@
     "typeEvenement": 13,
     "idEvenement": 25651,
     "idSeance": 104758,
-    "dateHeure": "2023-10-08T17:30:00",
+    "dateHeure": "2023-10-08T17:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -272,7 +285,7 @@
     "typeEvenement": 13,
     "idEvenement": 25652,
     "idSeance": 104759,
-    "dateHeure": "2023-10-08T19:45:00",
+    "dateHeure": "2023-10-08T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -333,6 +346,15 @@
         "duree": 103,
         "version": "",
         "format": "35 mm"
+      },
+      {
+        "idFilm": 145831,
+        "ordre": 2,
+        "idSeance": 104764,
+        "idCopie": 21607,
+        "duree": 26,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },

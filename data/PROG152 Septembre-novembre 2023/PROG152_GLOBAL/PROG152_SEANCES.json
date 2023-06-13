@@ -1229,7 +1229,7 @@
       },
       {
         "idConf": 28592,
-        "titre": "Discussion avec Jean-François Rauger et Murielle Joudet",
+        "titre": "Dialogue avec Jean-François Rauger et Murielle Joudet",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -1414,6 +1414,10 @@
       [
         "Catherine Breillat",
         "Les films"
+      ],
+      [
+        "Catherine Breillat",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1424,9 +1428,15 @@
         "annee": 1987,
         "duree": 88,
         "format": "35 mm"
+      },
+      {
+        "idConf": 28356,
+        "titre": "Leçon de cinéma Catherine Breillat",
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f47092"
+    "hashEvenement": "f47092c28356"
   },
   {
     "idSeance": 104803,
@@ -1451,27 +1461,6 @@
       }
     ],
     "hashEvenement": "f31479"
-  },
-  {
-    "idSeance": 104959,
-    "idEvenement": 28356,
-    "dateHeure": "2023-09-16T16:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Catherine Breillat",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 28356,
-        "titre": "Leçon de cinéma Catherine Breillat",
-        "typeConference": "Leçon de cinéma",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c28356"
   },
   {
     "idSeance": 104801,
@@ -1578,6 +1567,10 @@
       [
         "Raoul Walsh",
         "Les films"
+      ],
+      [
+        "Raoul Walsh",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1590,9 +1583,15 @@
         "duree": 101,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 28588,
+        "titre": "Dialogue avec Pierre Gabaston",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f37819"
+    "hashEvenement": "f37819c28588"
   },
   {
     "idSeance": 104413,
@@ -1615,28 +1614,6 @@
       }
     ],
     "hashEvenement": "f123300"
-  },
-  {
-    "idSeance": 104669,
-    "idEvenement": 28588,
-    "dateHeure": "2023-09-17T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Raoul Walsh",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 28588,
-        "titre": "Discussion avec Pierre Gabaston",
-        "sousTitre": "Conférence de Pierre Gabaston",
-        "typeConference": "Conférence",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c28588"
   },
   {
     "idSeance": 104442,
@@ -2510,6 +2487,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Fabienne Babe",
     "items": [
       {
         "idFilm": 86127,
@@ -2558,8 +2536,8 @@
       {
         "idConf": 28729,
         "titre": "Dialogue avec Cedric Kahn",
-        "typeConference": "Dialogue",
-        "duree": 90
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
       }
     ],
     "hashEvenement": "f142635c28729"
@@ -2684,32 +2662,29 @@
     "hashEvenement": "f73961"
   },
   {
-    "idSeance": 104874,
-    "idEvenement": 28495,
+    "idSeance": 104974,
+    "idEvenement": 26869,
     "dateHeure": "2023-10-01T14:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
-        "Cédric Kahn",
-        "Les films"
-      ],
-      [
-        "Ma petite Cinémathèque",
+        "Raoul Walsh",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 97028,
-        "titre": "Avion",
-        "art": "L'",
-        "realisateurs": "Cédric Kahn",
-        "annee": 2004,
-        "duree": 100,
-        "format": "35 mm"
+        "idFilm": 37753,
+        "titre": "Femme à abattre",
+        "art": "La",
+        "realisateurs": "Bretaigne Windust, Raoul Walsh",
+        "annee": 1950,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f97028"
+    "hashEvenement": "f37753"
   },
   {
     "idSeance": 104963,
@@ -2740,32 +2715,9 @@
     "hashEvenement": "f97028"
   },
   {
-    "idSeance": 104875,
-    "idEvenement": 28494,
-    "dateHeure": "2023-10-01T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cédric Kahn",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 88951,
-        "titre": "Feux rouges",
-        "realisateurs": "Cédric Kahn",
-        "annee": 2003,
-        "duree": 105,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f88951"
-  },
-  {
     "idSeance": 104813,
     "idEvenement": 26909,
-    "dateHeure": "2023-10-01T17:45:00",
+    "dateHeure": "2023-10-01T16:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2788,9 +2740,56 @@
     "hashEvenement": "f85148"
   },
   {
+    "idSeance": 104875,
+    "idEvenement": 28494,
+    "dateHeure": "2023-10-01T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cédric Kahn",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 88951,
+        "titre": "Feux rouges",
+        "realisateurs": "Cédric Kahn",
+        "annee": 2003,
+        "duree": 105,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f88951"
+  },
+  {
+    "idSeance": 104814,
+    "idEvenement": 28237,
+    "dateHeure": "2023-10-01T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Raoul Walsh",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 67395,
+        "titre": "Women of All Nations",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1931,
+        "duree": 72,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f67395"
+  },
+  {
     "idSeance": 104554,
     "idEvenement": 28496,
-    "dateHeure": "2023-10-01T19:30:00",
+    "dateHeure": "2023-10-01T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2812,9 +2811,9 @@
     "hashEvenement": "f108548"
   },
   {
-    "idSeance": 104814,
-    "idEvenement": 28237,
-    "dateHeure": "2023-10-01T20:00:00",
+    "idSeance": 104975,
+    "idEvenement": 26866,
+    "dateHeure": "2023-10-01T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2824,16 +2823,17 @@
     ],
     "items": [
       {
-        "idFilm": 67395,
-        "titre": "Women of All Nations",
+        "idFilm": 67404,
+        "titre": "Fantastiques années 20",
+        "art": "Les",
         "realisateurs": "Raoul Walsh",
-        "annee": 1931,
-        "duree": 72,
+        "annee": 1939,
+        "duree": 106,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f67395"
+    "hashEvenement": "f67404"
   },
   {
     "idSeance": 104555,
@@ -2907,7 +2907,7 @@
   },
   {
     "idSeance": 104654,
-    "idEvenement": 25644,
+    "idEvenement": 28842,
     "dateHeure": "2023-10-04T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -2918,6 +2918,14 @@
     ],
     "items": [
       {
+        "idFilm": 65819,
+        "titre": "Poème de l'élève Mikovsky",
+        "art": "Le",
+        "realisateurs": "Pascal Thomas",
+        "annee": 1970,
+        "duree": 22
+      },
+      {
         "idFilm": 51398,
         "titre": "Zozos",
         "art": "Les",
@@ -2927,7 +2935,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51398"
+    "hashEvenement": "f65819f51398"
   },
   {
     "idSeance": 104557,
@@ -3307,6 +3315,10 @@
       [
         "Pascal Thomas",
         "Les films"
+      ],
+      [
+        "Pascal Thomas",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3317,9 +3329,15 @@
         "annee": 2000,
         "duree": 127,
         "format": "35 mm"
+      },
+      {
+        "idConf": 28620,
+        "titre": "Dialogue avec Pascal Thomas",
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f72518"
+    "hashEvenement": "f72518c28620"
   },
   {
     "idSeance": 104514,
@@ -3369,27 +3387,6 @@
       }
     ],
     "hashEvenement": "f85152"
-  },
-  {
-    "idSeance": 104735,
-    "idEvenement": 28620,
-    "dateHeure": "2023-10-07T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Pascal Thomas",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 28620,
-        "titre": "Dialogue avec Pascal Thomas",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c28620"
   },
   {
     "idSeance": 104518,
@@ -3567,7 +3564,7 @@
   {
     "idSeance": 104758,
     "idEvenement": 25651,
-    "dateHeure": "2023-10-08T17:30:00",
+    "dateHeure": "2023-10-08T17:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3615,7 +3612,7 @@
   {
     "idSeance": 104759,
     "idEvenement": 25652,
-    "dateHeure": "2023-10-08T19:45:00",
+    "dateHeure": "2023-10-08T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3729,9 +3726,17 @@
         "annee": 2005,
         "duree": 103,
         "format": "35 mm"
+      },
+      {
+        "idFilm": 145831,
+        "titre": "Nono Nénesse",
+        "realisateurs": "Jacques Rozier",
+        "annee": 1976,
+        "duree": 26,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f100327"
+    "hashEvenement": "f100327f145831"
   },
   {
     "idSeance": 104665,
@@ -3982,6 +3987,10 @@
       [
         "David Fincher",
         "Les films"
+      ],
+      [
+        "David Fincher",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3993,9 +4002,15 @@
         "duree": 156,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 28589,
+        "titre": "Masterclass Fincher",
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f101866"
+    "hashEvenement": "f101866c28589"
   },
   {
     "idSeance": 104970,
@@ -4019,27 +4034,6 @@
       }
     ],
     "hashEvenement": "f140885"
-  },
-  {
-    "idSeance": 104947,
-    "idEvenement": 28589,
-    "dateHeure": "2023-10-14T17:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "David Fincher",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 28589,
-        "titre": "Masterclass Fincher",
-        "typeConference": "MasterClass",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c28589"
   },
   {
     "idSeance": 104726,
@@ -4346,7 +4340,7 @@
       {
         "idConf": 28607,
         "titre": "« Qui êtes-vous agnes Varda ? » par Florence Tissot",
-        "sousTitre": "Conférence ",
+        "sousTitre": "Conférence de Florence Tissot",
         "typeConference": "Conférence"
       }
     ],
@@ -4515,6 +4509,10 @@
       [
         "Viva Varda !",
         "Les films"
+      ],
+      [
+        "Viva Varda !",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -4525,9 +4523,14 @@
         "annee": 1962,
         "duree": 90,
         "format": "DCP"
+      },
+      {
+        "idConf": 28610,
+        "titre": "Table ronde Cléo de 5 à 7",
+        "typeConference": "Dialogue"
       }
     ],
-    "hashEvenement": "f51603"
+    "hashEvenement": "f51603c28610"
   },
   {
     "idSeance": 104941,
@@ -4551,27 +4554,6 @@
       }
     ],
     "hashEvenement": "f78356"
-  },
-  {
-    "idSeance": 104704,
-    "idEvenement": 28610,
-    "dateHeure": "2023-10-21T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Viva Varda !",
-        "Rencontres et conférences"
-      ]
-    ],
-    "mention": "Séance suivie d'une discussion avec Marin Karmitz, Judith Ertel et Charlotte Garson",
-    "items": [
-      {
-        "idConf": 28610,
-        "titre": "Table ronde Cléo de 5 à 7",
-        "typeConference": "Table ronde"
-      }
-    ],
-    "hashEvenement": "c28610"
   },
   {
     "idSeance": 104914,
@@ -5105,6 +5087,10 @@
       [
         "Viva Varda !",
         "Les films"
+      ],
+      [
+        "Viva Varda !",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -5115,9 +5101,15 @@
         "annee": 1985,
         "duree": 105,
         "format": "DCP"
+      },
+      {
+        "idConf": 28591,
+        "titre": "Table ronde Sans toit ni loi",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f51614"
+    "hashEvenement": "f51614c28591"
   },
   {
     "idSeance": 104629,
@@ -5142,28 +5134,6 @@
       }
     ],
     "hashEvenement": "f117467"
-  },
-  {
-    "idSeance": 104705,
-    "idEvenement": 28591,
-    "dateHeure": "2023-10-28T16:45:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Viva Varda !",
-        "Rencontres et conférences"
-      ]
-    ],
-    "mention": "Séance suivie d'une discussion avec Brigitte Rollet, Rosalie Varda, Clémentine Charlemaine et Alice Diop",
-    "items": [
-      {
-        "idConf": 28591,
-        "titre": "Table ronde Sans toit ni loi",
-        "typeConference": "Table ronde",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c28591"
   },
   {
     "idSeance": 104628,
@@ -5492,6 +5462,10 @@
       [
         "Mexico maleficarum",
         "Les films"
+      ],
+      [
+        "Mexico maleficarum",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -5504,29 +5478,15 @@
         "duree": 75,
         "version": "VO",
         "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f128743"
-  },
-  {
-    "idSeance": 104763,
-    "idEvenement": 28594,
-    "dateHeure": "2023-11-01T20:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Mexico maleficarum",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 28594,
-        "titre": "Discussion avec Jean-François Rauger",
-        "typeConference": "Dialogue"
+        "titre": "Dialogue avec Jean-François Rauger",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "c28594"
+    "hashEvenement": "f128743c28594"
   },
   {
     "idSeance": 104844,
@@ -5911,6 +5871,10 @@
       [
         "Viva Varda !",
         "Les films"
+      ],
+      [
+        "Viva Varda !",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -5922,9 +5886,15 @@
         "annee": 2000,
         "duree": 82,
         "format": "DCP"
+      },
+      {
+        "idConf": 28611,
+        "titre": "Table Ronde Les glaneurs et la glaneuse",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f68649"
+    "hashEvenement": "f68649c28611"
   },
   {
     "idSeance": 104685,
@@ -5949,28 +5919,6 @@
       }
     ],
     "hashEvenement": "f59503"
-  },
-  {
-    "idSeance": 104706,
-    "idEvenement": 28611,
-    "dateHeure": "2023-11-05T16:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Viva Varda !",
-        "Rencontres et conférences"
-      ]
-    ],
-    "mention": "Séance suivie d'une discussion avec Sylvain Dreyer, Nathalie Mauffrey et Antoine Compagnon",
-    "items": [
-      {
-        "idConf": 28611,
-        "titre": "Table Ronde Les glaneurs et la glaneuse",
-        "typeConference": "Table ronde",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c28611"
   },
   {
     "idSeance": 104825,
@@ -6206,7 +6154,7 @@
       {
         "idConf": 28583,
         "titre": "« Jerry Lewis Cinéaste » par Damien Bertrand",
-        "sousTitre": "Conférence ",
+        "sousTitre": "Conférence de Damien Bertrand",
         "typeConference": "Conférence",
         "duree": 90
       }
@@ -6363,6 +6311,10 @@
       [
         "Jerry Lewis",
         "Les films"
+      ],
+      [
+        "Jerry Lewis",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6374,9 +6326,15 @@
         "duree": 101,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 28598,
+        "titre": "Dialogue Matthieu Macheret",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f33879"
+    "hashEvenement": "f33879c28598"
   },
   {
     "idSeance": 104638,
@@ -6402,27 +6360,6 @@
       }
     ],
     "hashEvenement": "f51613"
-  },
-  {
-    "idSeance": 104696,
-    "idEvenement": 28598,
-    "dateHeure": "2023-11-11T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Jerry Lewis",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 28598,
-        "titre": "Discussion Matthieu Macheret",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c28598"
   },
   {
     "idSeance": 104831,
@@ -6742,6 +6679,10 @@
       [
         "Jerry Lewis",
         "Les films"
+      ],
+      [
+        "Jerry Lewis",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6754,9 +6695,15 @@
         "duree": 106,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 28600,
+        "titre": "Dialogue avec Pascale Bodet",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f45090"
+    "hashEvenement": "f45090c28600"
   },
   {
     "idSeance": 104639,
@@ -6782,27 +6729,6 @@
       }
     ],
     "hashEvenement": "f51558"
-  },
-  {
-    "idSeance": 104697,
-    "idEvenement": 28600,
-    "dateHeure": "2023-11-18T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Jerry Lewis",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 28600,
-        "titre": "Discussion avec Pascale Bodet",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c28600"
   },
   {
     "idSeance": 104852,
@@ -7368,6 +7294,10 @@
       [
         "Jerry Lewis",
         "Les films"
+      ],
+      [
+        "Jerry Lewis",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -7378,9 +7308,15 @@
         "annee": 1982,
         "duree": 90,
         "format": "35 mm"
+      },
+      {
+        "idConf": 28601,
+        "titre": "Dialogue avec Damien Bertrand",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f53748"
+    "hashEvenement": "f53748c28601"
   },
   {
     "idSeance": 104640,
@@ -7405,27 +7341,6 @@
       }
     ],
     "hashEvenement": "f51604"
-  },
-  {
-    "idSeance": 104698,
-    "idEvenement": 28601,
-    "dateHeure": "2023-11-25T16:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Jerry Lewis",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 28601,
-        "titre": "Discussion avec Damien Bertrand",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c28601"
   },
   {
     "idSeance": 104599,

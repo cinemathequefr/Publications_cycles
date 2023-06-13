@@ -347,39 +347,57 @@
           "seances": [
             {
               "idSeance": 104758,
-              "dateHeure": "2023-10-08T17:30:00",
+              "dateHeure": "2023-10-08T17:45:00",
               "idSalle": "HL"
             }
           ]
         },
         {
-          "idFilm": 72518,
-          "content": [
+          "groupe": [
             {
               "idFilm": 72518,
-              "ordre": 1,
-              "titre": "Mercredi, folle journée !",
-              "realisateurs": "Pascal Thomas",
-              "pays": "France",
-              "annee": 2000,
-              "duree": 127,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Vincent Lindon",
-                "Alessandra Martines",
-                "Victoria Lafaurie",
-                "Catherine Frot"
+              "content": [
+                {
+                  "idFilm": 72518,
+                  "ordre": 1,
+                  "titre": "Mercredi, folle journée !",
+                  "realisateurs": "Pascal Thomas",
+                  "pays": "France",
+                  "annee": 2000,
+                  "duree": 127,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "Vincent Lindon",
+                    "Alessandra Martines",
+                    "Victoria Lafaurie",
+                    "Catherine Frot"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "C'est l'un des plus beaux films de Pascal Thomas, ouvert à tous les vents, d'une folle liberté : loin des figures imposées du cinéma parisien, le réalisateur investit Nantes, les bords de Loire, et y convoque une galerie de personnages extravagants qui dynamitent et relancent sans cesse le récit – un père immature (Vincent Lindon) essaie de renouer le fil avec sa jeune fille dont il a exceptionnellement la garde. Infatigable sismographe de la province, le réalisateur prend, le temps d'une journée, le pouls d'une France joyeuse et débrouillarde, qui rappelle l'Italie des meilleures comédies transalpines."
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "C'est l'un des plus beaux films de Pascal Thomas, ouvert à tous les vents, d'une folle liberté : loin des figures imposées du cinéma parisien, le réalisateur investit Nantes, les bords de Loire, et y convoque une galerie de personnages extravagants qui dynamitent et relancent sans cesse le récit – un père immature (Vincent Lindon) essaie de renouer le fil avec sa jeune fille dont il a exceptionnellement la garde. Infatigable sismographe de la province, le réalisateur prend, le temps d'une journée, le pouls d'une France joyeuse et débrouillarde, qui rappelle l'Italie des meilleures comédies transalpines."
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 104973,
-              "dateHeure": "2023-10-07T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28620,
+              "content": [
+                {
+                  "idConf": 28620,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec Pascal Thomas",
+                  "typeConference": "Leçon de cinéma",
+                  "miniTexte": "« Je recherche l'accident même au montage. Il est vrai que c'est symptomatique de ce type de tournage,un quelconque accident arrive et cela devient positif. On s'adapte à la pluie, au vent. On ne cherche jamais à masquer les choses. C'est la différence entre le cinéma Lumière et le cinéma Méliès. C'est la leçon de Renoir et de Rozier que de prendre la richesse de l'instant, essayer de l'intégrer. Cela crée des moments de vérité fantastiques. » (Pascal Thomas)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104973,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-10-07T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -415,6 +433,30 @@
           ]
         },
         {
+          "idFilm": 145831,
+          "content": [
+            {
+              "idFilm": 145831,
+              "ordre": 2,
+              "titre": "Nono Nénesse",
+              "realisateurs": "Jacques Rozier",
+              "pays": "France",
+              "annee": 1976,
+              "duree": 26,
+              "version": "",
+              "format": "DCP",
+              "miniTexte": "Trois bébés qui grandissent et évoluent sur la scène d'un théâtre, dans un décor à leur échelle."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104764,
+              "dateHeure": "2023-10-11T19:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 51397,
           "content": [
             {
@@ -440,7 +482,7 @@
           "seances": [
             {
               "idSeance": 104759,
-              "dateHeure": "2023-10-08T19:45:00",
+              "dateHeure": "2023-10-08T20:00:00",
               "idSalle": "HL"
             }
           ]
@@ -472,6 +514,36 @@
             {
               "idSeance": 104737,
               "dateHeure": "2023-10-04T20:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 65819,
+          "content": [
+            {
+              "idFilm": 65819,
+              "ordre": 1,
+              "titre": "Poème de l'élève Mikovsky",
+              "art": "Le",
+              "realisateurs": "Pascal Thomas",
+              "pays": "France",
+              "annee": 1970,
+              "duree": 22,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Jean-Claude Antezack",
+                "Christiane Duval",
+                "Daniel Ceccaldi"
+              ],
+              "miniTexte": "Un collège et ses pensionnaires. Le train-train habituel du dortoir aux classes, en passant par l'inévitable cour de récréation. Mikovsky est un élève un peu maniaque, amoureux de son professeur d'histoire. Un jour, il se décide à lui écrire une missive anonyme en parodiant le poète Arthur Rimbaud. Cependant, il n'est pas bien sûr, d'avoir compris, la moitié des mots utilisés dans son texte. Le résultat est de fait, totalement à l'opposé de celui escompté."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104654,
+              "dateHeure": "2023-10-04T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -570,7 +642,7 @@
           "content": [
             {
               "idFilm": 51398,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Zozos",
               "art": "Les",
               "realisateurs": "Pascal Thomas",
@@ -591,30 +663,6 @@
             {
               "idSeance": 104654,
               "dateHeure": "2023-10-04T18:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 28620,
-          "content": [
-            {
-              "idConf": 28620,
-              "titre": "Film + dialogue avec Pascal Thomas",
-              "typeConference": "Dialogue",
-              "miniTexte": "« Je recherche l'accident même au montage. Il est vrai que c'est symptomatique de ce type de tournage,un quelconque accident arrive et cela devient positif. On s'adapte à la pluie, au vent. On ne cherche jamais à masquer les choses. C'est la différence entre le cinéma Lumière et le cinéma Méliès. C'est la leçon de Renoir et de Rozier que de prendre la richesse de l'instant, essayer de l'intégrer. Cela crée des moments de vérité fantastiques. » (Pascal Thomas)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104735,
-              "dateHeure": "2023-10-07T16:30:00",
               "idSalle": "HL"
             }
           ]

@@ -5,43 +5,6 @@
       "tri": 1,
       "items": [
         {
-          "idSeance": 104874,
-          "ordre": 1,
-          "dateHeure": "2023-10-01T14:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3063,
-          "idEvenement": 28495,
-          "typeEvenement": 13,
-          "idFilm": 97028,
-          "art": "L'",
-          "titre": "Avion",
-          "realisateurs": "Cédric Kahn",
-          "annee": 2004,
-          "pays": "France",
-          "duree": 100,
-          "version": "",
-          "format": "35 mm",
-          "generique": [
-            "Isabelle Carré",
-            "Vincent Lindon"
-          ],
-          "adaptation": "D'après la bande-dessinée _Charly_ de Denis Lapière et Magda Seron.",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Le pouvoir de l'imagination face au deuil dans une tragédie familiale aux accents fantastiques, librement adaptée de la bande dessinée Charly. Filmé à hauteur d'enfant, le conte se transforme en aventure haletante, citant aussi bien _E.T._ que _Le Petit Prince_, au fil d'un tendre récit onirique sur l'incursion du merveilleux dans le quotidien."
-            },
-            {
-              "typeTexte": 9,
-              "texte": "Le soir de Noël, Charly, huit ans, découvre avec grande déception une immense maquette d'avion. Son père meurt peu après. Mais la tristesse laisse la place à l'émerveillement lorsque Charly découvre que son avion est « vivant » !"
-            }
-          ]
-        },
-        {
           "idSeance": 104963,
           "ordre": 1,
           "dateHeure": "2023-10-01T15:00:00",
@@ -87,6 +50,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 150,
+          "mention": "Séance présentée par Fabienne Babe",
           "idCategorie": 3063,
           "idEvenement": 28502,
           "typeEvenement": 13,
@@ -155,6 +119,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 150,
+          "mention": "Séance présentée par Fabienne Babe",
           "idCategorie": 3063,
           "idEvenement": 28502,
           "typeEvenement": 13,
@@ -224,7 +189,7 @@
         {
           "idSeance": 104875,
           "ordre": 1,
-          "dateHeure": "2023-10-01T17:00:00",
+          "dateHeure": "2023-10-01T17:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -408,7 +373,7 @@
         {
           "idSeance": 104554,
           "ordre": 1,
-          "dateHeure": "2023-10-01T19:30:00",
+          "dateHeure": "2023-10-01T19:45:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -609,14 +574,22 @@
           "idCategorie": 3116,
           "idEvenement": 28729,
           "typeEvenement": 14,
-          "idTypeConference": 16,
-          "typeConference": "Dialogue",
+          "idTypeConference": 15,
+          "typeConference": "Leçon de cinéma",
           "titre": "Film + dialogue avec Cedric Kahn",
-          "duree": 90,
+          "duree": 60,
           "textes": [
             {
               "typeTexte": 9,
               "texte": "« La réunion familiale est un prétexte, une fois que j'ai trouvé le dispositif, j'ai trouvé l'histoire. Elle commence avec légèreté, presque comme une farce, un morceau de musique qui va crescendo, mais une sorte de bombe est posée sur la table. La fantaisie et la réactivité sont comme des soupapes qui permettent au groupe de révéler sa folie. » (Cédric Kahn)"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Cédric Kahn",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
             }
           ]
         }

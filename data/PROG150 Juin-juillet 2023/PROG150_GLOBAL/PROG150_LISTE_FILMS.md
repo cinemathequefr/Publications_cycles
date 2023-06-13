@@ -288,10 +288,10 @@
   * Chrysalide et le papillon d'or (La)  
   * Cirque (Le)  
   * Couchée de Robert Desnos  
+  * Dislocation mystérieuse  
   * Génie de la boîte de raviolis (Le)  
   * Génie du feu (Le)  
   * Livre de la jungle (Le)  
-  * Livre magique (Le)  
   * Lune à un mètre ou Le Rêve de l'astronome (La)  
   * Main au collet (La)  
   * Mon oncle  

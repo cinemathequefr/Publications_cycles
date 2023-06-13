@@ -9,34 +9,53 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 47092,
-          "content": [
+          "groupe": [
             {
               "idFilm": 47092,
-              "ordre": 1,
-              "titre": "36 fillette",
-              "realisateurs": "Catherine Breillat",
-              "pays": "France",
-              "annee": 1987,
-              "duree": 88,
-              "version": "",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _36 fillette_ de Catherine Breillat.",
-              "generique": [
-                "Delphine Zentout",
-                "Étienne Chicot",
-                "Olivier Parnière",
-                "Jean-Pierre Léaud"
+              "content": [
+                {
+                  "idFilm": 47092,
+                  "ordre": 1,
+                  "titre": "36 fillette",
+                  "realisateurs": "Catherine Breillat",
+                  "pays": "France",
+                  "annee": 1987,
+                  "duree": 88,
+                  "version": "",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _36 fillette_ de Catherine Breillat.",
+                  "generique": [
+                    "Delphine Zentout",
+                    "Étienne Chicot",
+                    "Olivier Parnière",
+                    "Jean-Pierre Léaud"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "« C'est horrible d'être vierge ! » Avec toute la crudité insolente déjà présente dans son roman éponyme, Breillat décrit le désarroi d'une jeune fille face à sa pesante virginité, le malaise du passage à l'acte sexuel, qui va de la rage à la répugnance en passant par l'angoisse de la soumission. Gamine capricieuse ou bombe aguicheuse, Lili se tient sur une ligne de partage entre l'envie et le refus de se laisser toucher. Un état transitoire qui fascine la réalisatrice depuis _Une vraie jeune fille_, son premier film, citant la Baby Doll du film d'Elia Kazan comme influence majeure de sa figure adolescente."
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "« C'est horrible d'être vierge ! » Avec toute la crudité insolente déjà présente dans son roman éponyme, Breillat décrit le désarroi d'une jeune fille face à sa pesante virginité, le malaise du passage à l'acte sexuel, qui va de la rage à la répugnance en passant par l'angoisse de la soumission. Gamine capricieuse ou bombe aguicheuse, Lili se tient sur une ligne de partage entre l'envie et le refus de se laisser toucher. Un état transitoire qui fascine la réalisatrice depuis _Une vraie jeune fille_, son premier film, citant la Baby Doll du film d'Elia Kazan comme influence majeure de sa figure adolescente."
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 104784,
-              "dateHeure": "2023-09-16T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 28356,
+              "content": [
+                {
+                  "idConf": 28356,
+                  "ordre": 2,
+                  "titre": "Film + Leçon de cinéma Catherine Breillat",
+                  "typeConference": "Leçon de cinéma",
+                  "mentionAnimation": "Rencontre animée par Murielle Joudet",
+                  "miniTexte": "« Après la sortie de _Tapage Nocturne_, je ne voulais plus faire de cinéma, je n'avais plus aucune idée et surtout aucune envie de me faire lapider encore une fois. Puis je suis allée voir _Baby Doll_ d'Elia Kazan dans un cinéma – j'y suis restée toute la journée. Les artistes me sauvent. Ils me tendent la main à travers les siècles, c'est comme ça. Le lendemain, j'ai commencé à écrire 36 fillette : j'ai relié Baby Doll à une tentative de viol vécue lorsque j'avais 14 ans. Baby Doll c'est moi : je suis Carroll Baker, mais aussi Eli Wallach. » (Catherine Breillat)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104784,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-16T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -462,30 +481,6 @@
               "idSeance": 104782,
               "dateHeure": "2023-09-13T18:30:00",
               "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 28356,
-          "content": [
-            {
-              "idConf": 28356,
-              "titre": "Film + Leçon de cinéma Catherine Breillat",
-              "typeConference": "Leçon de cinéma",
-              "miniTexte": "« Après la sortie de _Tapage Nocturne_, je ne voulais plus faire de cinéma, je n'avais plus aucune idée et surtout aucune envie de me faire lapider encore une fois. Puis je suis allée voir _Baby Doll_ d'Elia Kazan dans un cinéma – j'y suis restée toute la journée. Les artistes me sauvent. Ils me tendent la main à travers les siècles, c'est comme ça. Le lendemain, j'ai commencé à écrire 36 fillette : j'ai relié Baby Doll à une tentative de viol vécue lorsque j'avais 14 ans. Baby Doll c'est moi : je suis Carroll Baker, mais aussi Eli Wallach. » (Catherine Breillat)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104959,
-              "dateHeure": "2023-09-16T16:00:00",
-              "idSalle": "HL"
             }
           ]
         }

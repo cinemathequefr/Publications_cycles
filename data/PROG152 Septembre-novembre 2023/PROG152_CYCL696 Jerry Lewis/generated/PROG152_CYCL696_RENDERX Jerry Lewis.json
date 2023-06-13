@@ -259,64 +259,83 @@
                   "miniTexte": "Un garçon d'étage promu vedette de music-hall malgré lui. Un sujet en or pour le gagman américain, qui trouve dans la caricature des milieux artistiques d'Hollywood matière à s'interroger sur le jeu d'acteur et, par quelques pirouettes, à en révéler les coulisses."
                 }
               ],
-              "seances": [
-                {
-                  "idSeance": 104594,
-                  "idSeanceAssoc": 104594,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-11-11T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "seances": []
             },
             {
               "idEvenement": 28598,
               "content": [
                 {
                   "idConf": 28598,
-                  "titre": "Film + Discussion Matthieu Macheret",
+                  "ordre": 2,
+                  "titre": "Film + Dialogue Matthieu Macheret",
                   "typeConference": "Dialogue"
                 }
               ],
               "seances": [
                 {
-                  "idSeance": 104696,
-                  "idSeanceAssoc": 104594,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-11-11T16:15:00",
+                  "idSeance": 104594,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-11-11T14:30:00",
                   "idSalle": "HL",
-                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _Jerry souffre douleur_ de Jerry Lewis"
+                  "mention": "Séance suivie d'une discussion avec Mathieu Macheret"
                 }
               ]
             }
           ]
         },
         {
-          "idFilm": 41629,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 28583,
+              "content": [
+                {
+                  "idConf": 28583,
+                  "titre": "« Jerry Lewis Cinéaste » par Damien Bertrand",
+                  "sousTitre": "Conférence de Damien Bertrand",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104631,
+                  "idSeanceAssoc": 104593,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-09T19:00:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "À la suite de la conférence, à 21h15, projection d'un film choisi par le conférencier : _One More Time_ de Jerry Lewis"
+                }
+              ]
+            },
             {
               "idFilm": 41629,
-              "ordre": 1,
-              "titre": "One More Time",
-              "realisateurs": "Jerry Lewis",
-              "pays": "Grande-Bretagne",
-              "annee": 1969,
-              "duree": 93,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Sammy Davis Jr.",
-                "Peter Lawford",
-                "Maggie Wright"
+              "content": [
+                {
+                  "idFilm": 41629,
+                  "ordre": 1,
+                  "titre": "One More Time",
+                  "realisateurs": "Jerry Lewis",
+                  "pays": "Grande-Bretagne",
+                  "annee": 1969,
+                  "duree": 93,
+                  "version": "",
+                  "format": "",
+                  "generique": [
+                    "Sammy Davis Jr.",
+                    "Peter Lawford",
+                    "Maggie Wright"
+                  ],
+                  "miniTexte": "Tournée en Angleterre, une suite du film de Richard Donner, _Sel, poivre et dynamite_. Deux patrons de boîte de nuit du Swinging London se voient mêlés à une affaire de trafiquants et d'agents doubles. Avec en guest-stars de la Hammer, Christopher Lee en Dracula, et Peter Cushing en Dr Frankenstein."
+                }
               ],
-              "miniTexte": "Tournée en Angleterre, une suite du film de Richard Donner, _Sel, poivre et dynamite_. Deux patrons de boîte de nuit du Swinging London se voient mêlés à une affaire de trafiquants et d'agents doubles. Avec en guest-stars de la Hammer, Christopher Lee en Dracula, et Peter Cushing en Dr Frankenstein."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104593,
-              "dateHeure": "2023-11-09T21:15:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 104593,
+                  "idSeanceAssoc": 104593,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-11-09T21:15:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -370,33 +389,25 @@
                   "miniTexte": "À presque 60 ans, Jerry Lewis retrouve, une dernière fois, son personnage d'éternel ado inadapté, constamment débordé par les absurdités du monde qui l'entoure. Épuisé par tant d'infortunes, il décide de se confier à un psychanalyste (puisque ses maladresses l'empêchent même de se suicider). L'ultime folie de l'artiste contient tous les motifs (chutes, exagération, anachronisme) et les qualités plastiques (décor, générique) de ses débuts. Mais à l'aune des années 80, la ronde de gags se pare d'une certaine amertume et même de désespoir. Celui d'un comique dépassé par son temps, sur le point de raccrocher la caméra. Seul remède en guise de mot de la fin, une formule magique prescrite par le psy : « Smorgasbord ! »"
                 }
               ],
-              "seances": [
-                {
-                  "idSeance": 104598,
-                  "idSeanceAssoc": 104598,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-11-25T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "seances": []
             },
             {
               "idEvenement": 28601,
               "content": [
                 {
                   "idConf": 28601,
-                  "titre": "Film + Discussion avec Damien Bertrand",
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec Damien Bertrand",
                   "typeConference": "Dialogue"
                 }
               ],
               "seances": [
                 {
-                  "idSeance": 104698,
-                  "idSeanceAssoc": 104598,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-11-25T16:00:00",
+                  "idSeance": 104598,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-11-25T14:30:00",
                   "idSalle": "HL",
-                  "mentionAssoc": "À la suite de la conférence, à 14h30, projection d'un film choisi par le conférencier : _T'es fou Jerry !_ de Jerry Lewis"
+                  "mention": "Séance suivie d'une discussion avec Damien Bertrand"
                 }
               ]
             }
@@ -434,14 +445,15 @@
                   "idSeance": 104958,
                   "dateHeure": "2023-11-15T20:30:00",
                   "idSalle": "GF",
-                  "idSeanceAssoc": 104595
+                  "idSeanceAssoc": 104595,
+                  "mentionAssoc": "Film seul"
                 },
                 {
                   "idSeance": 104595,
-                  "idSeanceAssoc": 104697,
-                  "typeAssoc": 117,
+                  "typeAssoc": 118,
                   "dateHeure": "2023-11-18T14:30:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
                 }
               ]
             },
@@ -450,18 +462,19 @@
               "content": [
                 {
                   "idConf": 28600,
-                  "titre": "Film + discussion avec Pascale Bodet",
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec Pascale Bodet",
                   "typeConference": "Dialogue"
                 }
               ],
               "seances": [
                 {
-                  "idSeance": 104697,
-                  "idSeanceAssoc": 104595,
-                  "typeAssoc": 117,
-                  "dateHeure": "2023-11-18T16:15:00",
+                  "idSeance": 104595,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-11-18T14:30:00",
                   "idSalle": "HL",
-                  "mentionAssoc": "À la suite de la conférence, à 20h30, projection d'un film choisi par le conférencier : _Le Tombeur de ces dames_ de Jerry Lewis"
+                  "mention": "Séance suivie d'une discussion avec Pascale Bodet",
+                  "mentionAssoc": "Film + dialogue"
                 }
               ]
             }
@@ -589,30 +602,6 @@
               "idSeance": 104831,
               "dateHeure": "2023-11-11T18:30:00",
               "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 28583,
-          "content": [
-            {
-              "idConf": 28583,
-              "titre": "« Jerry Lewis Cinéaste » par Damien Bertrand",
-              "sousTitre": "Conférence ",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104631,
-              "dateHeure": "2023-11-09T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }

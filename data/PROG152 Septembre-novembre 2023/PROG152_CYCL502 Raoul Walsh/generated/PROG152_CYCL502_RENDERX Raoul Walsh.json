@@ -71,7 +71,7 @@
                 {
                   "idConf": 28592,
                   "ordre": 2,
-                  "titre": "Film + Discussion avec Jean-François Rauger et Murielle Joudet",
+                  "titre": "Film + Dialogue avec Jean-François Rauger et Murielle Joudet",
                   "typeConference": "Dialogue"
                 }
               ],
@@ -80,7 +80,8 @@
                   "idSeance": 104565,
                   "typeAssoc": 118,
                   "dateHeure": "2023-09-13T20:00:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "mention": "Séance suivie d'une discussion avec Murielle Joudet et Jean-François Rauger"
                 }
               ]
             }
@@ -208,38 +209,66 @@
           ]
         },
         {
-          "idFilm": 37819,
-          "content": [
+          "groupe": [
             {
               "idFilm": 37819,
-              "ordre": 1,
-              "titre": "Aventures du capitaine Wyatt",
-              "art": "Les",
-              "titreVo": "Distant Drums",
-              "realisateurs": "Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1951,
-              "duree": 101,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Gary Cooper",
-                "Mari Aldon",
-                "Richard Webb"
+              "content": [
+                {
+                  "idFilm": 37819,
+                  "ordre": 1,
+                  "titre": "Aventures du capitaine Wyatt",
+                  "art": "Les",
+                  "titreVo": "Distant Drums",
+                  "realisateurs": "Raoul Walsh",
+                  "pays": "États-Unis",
+                  "annee": 1951,
+                  "duree": 101,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Gary Cooper",
+                    "Mari Aldon",
+                    "Richard Webb"
+                  ],
+                  "miniTexte": "Une version western d'_Aventures en Birmanie_, sur les terres hostiles des Everglades. Évoquant une mission périlleuse des Fédéraux traqués par les Indiens Séminole, Walsh fait de la jungle le décor idéal pour exploiter les thèmes de la survie et du racisme, et offre à Gary Cooper, en homme des marais, un rôle à sa mesure."
+                }
               ],
-              "miniTexte": "Une version western d'_Aventures en Birmanie_, sur les terres hostiles des Everglades. Évoquant une mission périlleuse des Fédéraux traqués par les Indiens Séminole, Walsh fait de la jungle le décor idéal pour exploiter les thèmes de la survie et du racisme, et offre à Gary Cooper, en homme des marais, un rôle à sa mesure."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104417,
-              "dateHeure": "2023-09-17T14:30:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 104417,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-17T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 104417,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 104920,
+                  "dateHeure": "2023-10-23T20:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             },
             {
-              "idSeance": 104920,
-              "dateHeure": "2023-10-23T20:30:00",
-              "idSalle": "GF"
+              "idEvenement": 28588,
+              "content": [
+                {
+                  "idConf": 28588,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec Pierre Gabaston",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104417,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-17T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         },
@@ -818,7 +847,7 @@
           "seances": [
             {
               "idSeance": 104813,
-              "dateHeure": "2023-10-01T17:45:00",
+              "dateHeure": "2023-10-01T16:30:00",
               "idSalle": "HL"
             },
             {
@@ -1126,6 +1155,11 @@
               "idSeance": 104352,
               "dateHeure": "2023-09-01T18:00:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 104975,
+              "dateHeure": "2023-10-01T20:15:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -1190,6 +1224,11 @@
             {
               "idSeance": 104568,
               "dateHeure": "2023-09-29T20:00:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 104974,
+              "dateHeure": "2023-10-01T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -2698,31 +2737,7 @@
           "seances": [
             {
               "idSeance": 104814,
-              "dateHeure": "2023-10-01T20:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 28588,
-          "content": [
-            {
-              "idConf": 28588,
-              "titre": "Film + discussion avec Pierre Gabaston",
-              "sousTitre": "Conférence de Pierre Gabaston",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104669,
-              "dateHeure": "2023-09-17T16:15:00",
+              "dateHeure": "2023-10-01T18:30:00",
               "idSalle": "HL"
             }
           ]
