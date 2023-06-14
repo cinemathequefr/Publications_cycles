@@ -245,7 +245,7 @@
 
 ## Pascal Thomas (21)
 
-  * A cause des filles ?  
+  * À cause des filles ?  
   * Associés contre le crime  
   * Celles qu'on n'a pas eues  
   * Chaud lapin (Le)  
@@ -257,7 +257,7 @@
   * Heure zéro (L')  
   * Maris, les femmes, les amants (Les)  
   * Mercredi, folle journée !  
-  * Mon petit doigt m'a dit  
+  * Mon petit doigt m'a dit...  
   * Nono Nénesse  
   * Pagaille (La)  
   * Pleure pas la bouche pleine  
@@ -267,7 +267,7 @@
   * Valentin Valentin  
   * Zozos (Les)
 
-## Raoul Walsh (81)
+## Raoul Walsh (82)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -342,6 +342,7 @@
   * Spendthrift  
   * St. Louis Blues  
   * Têtes brûlées  
+  * True Adventures of Raoul Walsh (The)  
   * Un lion dans la rue  
   * Une corde pour te pendre  
   * Une femme dangereuse  
@@ -359,7 +360,7 @@
   * Septembre chilien  
   * Tremblement de terre
 
-## Viva Varda ! (8)
+## Viva Varda ! (9)
 
   * Bonheur (Le)  
   * Cléo de 5 à 7  
@@ -368,7 +369,8 @@
   * Glaneurs et la Glaneuse (Les)  
   * Oncle Yanko  
   * Pointe Courte (La)  
-  * Sans toit ni loi
+  * Sans toit ni loi  
+  * Viva Varda!
 
 ## Víctor Erice (3)
 
