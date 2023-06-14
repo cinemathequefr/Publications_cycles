@@ -127,7 +127,7 @@
   * Gone Girl  
   * Killer (The)  
   * Mank  
-  * Millénium : Les hommes qui n'aimaient pas les femmes  
+  * Millénium : Les Hommes qui n'aimaient pas les femmes  
   * Panic Room  
   * Seven  
   * Social Network (The)  
