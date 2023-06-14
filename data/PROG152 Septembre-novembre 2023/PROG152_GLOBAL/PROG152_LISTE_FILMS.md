@@ -121,7 +121,7 @@
 ## David Fincher (12)
 
   * Alien 3  
-  * Étrange histoire de Benjamin Button (L')  
+  * Étrange Histoire de Benjamin Button (L')  
   * Fight Club  
   * Game (The)  
   * Gone Girl  
