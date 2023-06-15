@@ -149,9 +149,21 @@
   * Paris mange son pain  
   * Voyage surprise
 
+## Hommage à Jean-Luc Godard (9)
+
+  * Histoire(s) du cinéma, chapitre 1a : Toutes les histoires  
+  * Histoire(s) du cinéma, chapitre 1b : Une histoire seule  
+  * Histoire(s) du cinéma, chapitre 2a : Seul le cinéma  
+  * Histoire(s) du cinéma, chapitre 2b : Fatale beauté  
+  * Histoire(s) du cinéma, chapitre 3a : La Monnaie de l'absolu  
+  * Histoire(s) du cinéma, chapitre 3b : Une vague nouvelle  
+  * Histoire(s) du cinéma, chapitre 4a : Le Contrôle de l'univers  
+  * Histoire(s) du cinéma, chapitre 4b : Les Signes parmi nous  
+  * Old Place (The)
+
 ## Jean Cocteau (26)
 
-  * 8 × 8: A Chess Sonata in 8 Movements  
+  * 8 × 8 : A Chess Sonata in 8 Movements  
   * Aigle à deux têtes (L')  
   * Amore (L')  
   * Anna, la bonne  
@@ -185,9 +197,9 @@
   * Come Back Little Shiksa  
   * Dingue du palace (Le)  
   * Fairfax Avenue  
-  * Jerry grande gueule  
+  * Jerry la grande gueule  
   * Jerry Lewis  
-  * Jerry souffre douleur  
+  * Jerry souffre-douleur  
   * One More Time  
   * Re-Inforcer (The)  
   * T'es fou Jerry !  
@@ -221,7 +233,7 @@
   * Jacquot de Nantes  
   * Kid (Le)  
   * Kiki, la petite sorcière  
-  * Linda veut du poulet  
+  * Linda veut du poulet !  
   * Ma vache et moi  
   * Microcosmos  
   * Petite vendeuse de soleil (La)  
@@ -245,14 +257,14 @@
 
 ## Pascal Thomas (21)
 
-  * À cause des filles ?  
+  * À cause des filles.. ?  
   * Associés contre le crime  
   * Celles qu'on n'a pas eues  
-  * Chaud lapin (Le)  
+  * Chaud Lapin (Le)  
   * Confidences pour confidences  
   * Crime est notre affaire (Le)  
   * Dilettante (La)  
-  * Ensemble, nous allons vivre une très, très grande histoire d'amour  
+  * Ensemble, nous allons vivre une très, très grande histoire d'amour...  
   * Grand Appartement (Le)  
   * Heure zéro (L')  
   * Maris, les femmes, les amants (Les)  
