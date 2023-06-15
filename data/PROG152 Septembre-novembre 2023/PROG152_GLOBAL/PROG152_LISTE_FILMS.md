@@ -181,7 +181,7 @@
 ## Jerry Lewis (16)
 
   * Au boulot, Jerry  
-  * Clown TV (Der)  
+  * Clown (Der)  
   * Come Back Little Shiksa  
   * Dingue du palace (Le)  
   * Fairfax Avenue  
