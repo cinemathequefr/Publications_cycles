@@ -79,8 +79,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 195,
-    "idSeanceAssoc": 104947,
-    "typeAssoc": 117,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 101866,
@@ -97,17 +96,18 @@
     "idCategorie": 3092,
     "typeEvenement": 14,
     "idEvenement": 28589,
-    "idSeance": 104947,
-    "dateHeure": "2023-10-14T17:15:00",
+    "idSeance": 104935,
+    "dateHeure": "2023-10-14T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 90,
-    "idSeanceAssoc": 104935,
-    "typeAssoc": 117,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -127,11 +127,12 @@
         "ordre": 1,
         "idSeance": 104936,
         "idCopie": 24203,
-        "duree": 0,
+        "duree": 120,
         "version": "VOSTF",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Guillaume Orignac"
   },
   {
     "idCategorie": 3047,
@@ -223,7 +224,8 @@
         "version": "VOSTF",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Guillaume Orignac"
   },
   {
     "idCategorie": 3047,
@@ -246,7 +248,8 @@
         "version": "VOSTF",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Guillaume Orignac"
   },
   {
     "idCategorie": 3047,
@@ -266,7 +269,7 @@
         "idSeance": 104941,
         "idCopie": 26080,
         "duree": 108,
-        "version": "",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ]
@@ -299,10 +302,10 @@
     "typeEvenement": 13,
     "idEvenement": 28317,
     "idSeance": 104944,
-    "dateHeure": "2023-10-22T17:45:00",
+    "dateHeure": "2023-10-22T18:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
     "dureeSeance": 180,
     "items": [
@@ -315,17 +318,18 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Guillaume Orignac"
   },
   {
     "idCategorie": 3047,
     "typeEvenement": 13,
     "idEvenement": 28318,
     "idSeance": 104945,
-    "dateHeure": "2023-10-22T20:45:00",
+    "dateHeure": "2023-10-22T21:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
     "dureeSeance": 165,
     "items": [
@@ -338,6 +342,7 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Guillaume Orignac"
   }
 ]

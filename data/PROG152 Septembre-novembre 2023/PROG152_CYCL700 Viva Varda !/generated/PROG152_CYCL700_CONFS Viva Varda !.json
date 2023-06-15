@@ -4,12 +4,12 @@
     "idEvenement": 28591,
     "titre": "Table ronde Sans toit ni loi",
     "duree": 60,
-    "idTypeConference": 19,
-    "typeConference": "Table ronde",
+    "idTypeConference": 16,
+    "typeConference": "Dialogue",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un dialogue autour du geste de réalisatrice d'Agnès Varda, qui aura renouvelé le langage cinématographique autant que la représentation des personnages féminins à l'écran. Animée par Florence Tissot, commissaire de l'exposition _Viva Varda !_, cette table ronde réunit la productrice et costumière Rosalie Varda, Clémentine Charlemaine, déléguée générale de Cinéma pour tous et coprésidente du collectif 50/50, ainsi que Brigitte Rollet, autrice de _Femmes et cinéma, sois belle et tais-toi !_"
+        "texte": "Un dialogue autour du geste de réalisatrice d'Agnès Varda, qui aura renouvelé le langage cinématographique autant que la représentation des personnages féminins à l'écran. Animée par Florence Tissot, commissaire de l'exposition _Viva Varda !_, cette table ronde réunit la productrice et costumière Rosalie Varda, la réalisatrice Alice Diop, Clémentine Charlemaine, déléguée générale de Cinéma pour tous et coprésidente du collectif 50/50, ainsi que Brigitte Rollet, autrice de _Femmes et cinéma, sois belle et tais-toi !_"
       }
     ]
   },
@@ -17,18 +17,26 @@
     "idCategorie": 3093,
     "idEvenement": 28607,
     "titre": "« Qui êtes-vous agnes Varda ? » par Florence Tissot",
-    "duree": 0,
+    "duree": 90,
     "idTypeConference": 55,
     "typeConference": "Conférence",
-    "sousTitre": "Conférence "
+    "intervenants": [
+      {
+        "nomComplet": "Florence Tissot",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 1
+      }
+    ],
+    "sousTitre": "Conférence de Florence Tissot"
   },
   {
     "idCategorie": 3093,
     "idEvenement": 28610,
     "titre": "Table ronde Cléo de 5 à 7",
-    "duree": 0,
-    "idTypeConference": 19,
-    "typeConference": "Table ronde",
+    "duree": 60,
+    "idTypeConference": 16,
+    "typeConference": "Dialogue",
     "textes": [
       {
         "typeTexte": 9,
@@ -39,9 +47,17 @@
   {
     "idCategorie": 3093,
     "idEvenement": 28611,
-    "titre": "Table Ronde Les glaneurs et la glaneuse",
+    "titre": "Tables ronde Les glaneurs et la glaneuse",
     "duree": 60,
-    "idTypeConference": 19,
-    "typeConference": "Table ronde"
+    "idTypeConference": 16,
+    "typeConference": "Dialogue"
+  },
+  {
+    "idCategorie": 3093,
+    "idEvenement": 28873,
+    "titre": "Concert Varda",
+    "duree": 60,
+    "idTypeConference": 18,
+    "typeConference": "Spectacle"
   }
 ]

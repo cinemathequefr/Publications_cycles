@@ -1,5 +1,37 @@
 [
   {
+    "idCategorie": 2896,
+    "typeEvenement": 13,
+    "idEvenement": 28789,
+    "idSeance": 104984,
+    "dateHeure": "2023-09-04T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 154500,
+        "ordre": 1,
+        "idSeance": 104984,
+        "idCopie": 26308,
+        "duree": 60,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154499,
+        "ordre": 2,
+        "idSeance": 104984,
+        "idCopie": 26309,
+        "duree": 20,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
     "idCategorie": 3081,
     "typeEvenement": 13,
     "idEvenement": 28560,
@@ -28,6 +60,29 @@
         "duree": 39,
         "version": "",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3082,
+    "typeEvenement": 13,
+    "idEvenement": 28561,
+    "idSeance": 104613,
+    "dateHeure": "2023-10-06T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 36200,
+        "ordre": 1,
+        "idSeance": 104613,
+        "idCopie": 26223,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   }

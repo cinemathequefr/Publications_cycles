@@ -13,6 +13,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 3042,
           "idEvenement": 28288,
           "typeEvenement": 13,
@@ -45,7 +46,7 @@
         {
           "idSeance": 104809,
           "ordre": 1,
-          "dateHeure": "2023-09-24T19:45:00",
+          "dateHeure": "2023-09-24T20:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -81,7 +82,7 @@
         {
           "idSeance": 104807,
           "ordre": 1,
-          "dateHeure": "2023-09-23T20:45:00",
+          "dateHeure": "2023-09-23T21:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -190,9 +191,9 @@
           ]
         },
         {
-          "idSeance": 104791,
+          "idSeance": 104969,
           "ordre": 1,
-          "dateHeure": "2023-09-17T18:30:00",
+          "dateHeure": "2023-09-17T21:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -266,6 +267,42 @@
           ]
         },
         {
+          "idSeance": 104968,
+          "ordre": 1,
+          "dateHeure": "2023-09-17T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3042,
+          "idEvenement": 28292,
+          "typeEvenement": 13,
+          "idFilm": 64238,
+          "titre": "Romance",
+          "realisateurs": "Catherine Breillat",
+          "annee": 1999,
+          "pays": "France",
+          "duree": 98,
+          "version": "",
+          "format": "35 mm",
+          "generique": [
+            "Caroline Ducey",
+            "Sagamore Stévenin",
+            "Rocco Siffredi"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Précédé d'une réputation sulfureuse, _Romance_ suit l'errance identitaire et sexuelle de Marie, en quête de sensualité. Quittant le lit glacé de Paul pour les mains expertes d'aventures masculines, la jeune femme trouvera l'extase et la consolation dans les jeux de soumission/domination de Robert. Mis en lumière par Yorgos Arvanitis (chef opérateur attitré d'Angelopoulos), le corps immaculé de l'héroïne bientôt ranimé par l'étoffe rouge d'une robe – celle qui traverse toute l'œuvre de Breillat –, visite tous les fantasmes jusqu'à l'enfantement libérateur. Aussi déroutante que fascinante, une œuvre chauffée à blanc qui a su se tailler un succès à travers le monde."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Frustrée dans son couple, une jeune femme se laisse séduire par un inconnu. Cette première aventure la pousse à multiplier les relations éphémères, où elle s'initie à de nouvelles expériences."
+            }
+          ]
+        },
+        {
           "idSeance": 104895,
           "ordre": 1,
           "dateHeure": "2023-09-23T18:30:00",
@@ -310,6 +347,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 135,
+          "mention": "Séance présentée par Laurent Dailland",
           "idCategorie": 3042,
           "idEvenement": 28289,
           "typeEvenement": 13,
@@ -413,7 +451,7 @@
         {
           "idSeance": 104808,
           "ordre": 1,
-          "dateHeure": "2023-09-24T17:15:00",
+          "dateHeure": "2023-09-24T17:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -488,7 +526,7 @@
         {
           "idSeance": 104812,
           "ordre": 1,
-          "dateHeure": "2023-09-23T15:30:00",
+          "dateHeure": "2023-09-23T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -561,6 +599,63 @@
         }
       ],
       "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 104784,
+          "ordre": 2,
+          "dateHeure": "2023-09-16T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3059,
+          "idEvenement": 28356,
+          "typeEvenement": 14,
+          "idTypeConference": 15,
+          "typeConference": "Leçon de cinéma",
+          "titre": "Film + Leçon de cinéma Catherine Breillat",
+          "duree": 60,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "« Après la sortie de _Tapage Nocturne_, je ne voulais plus faire de cinéma, je n'avais plus aucune idée et surtout aucune envie de me faire lapider encore une fois. Puis je suis allée voir _Baby Doll_ d'Elia Kazan dans un cinéma – j'y suis restée toute la journée. Les artistes me sauvent. Ils me tendent la main à travers les siècles, c'est comme ça. Le lendemain, j'ai commencé à écrire 36 fillette : j'ai relié Baby Doll à une tentative de viol vécue lorsque j'avais 14 ans. Baby Doll c'est moi : je suis Carroll Baker, mais aussi Eli Wallach. » (Catherine Breillat)"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Catherine Breillat",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Murielle Joudet",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            },
+            {
+              "nomComplet": "Jean-François Rauger",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 3
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Murielle Joudet et Jean-François Rauger"
+        }
+      ],
+      "textes": [
+        {
+          "typeTexte": 9,
+          "texte": "« Après la sortie de _Tapage Nocturne_, je ne voulais plus faire de cinéma, je n'avais plus aucune idée et surtout aucune envie de me faire lapider encore une fois. Puis je suis allée voir _Baby Doll_ d'Elia Kazan dans un cinéma – j'y suis restée toute la journée. Les artistes me sauvent. Ils me tendent la main à travers les siècles, c'est comme ça. Le lendemain, j'ai commencé à écrire 36 fillette : j'ai relié Baby Doll à une tentative de viol vécue lorsque j'avais 14 ans. Baby Doll c'est moi : je suis Carroll Baker, mais aussi Eli Wallach. » (Catherine Breillat)"
+        }
+      ]
     }
   ],
   "textes": [],

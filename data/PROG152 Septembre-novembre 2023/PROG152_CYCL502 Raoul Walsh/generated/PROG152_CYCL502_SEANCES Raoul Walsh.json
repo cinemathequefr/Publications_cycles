@@ -387,23 +387,42 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 26850,
-    "idSeance": 104811,
+    "idEvenement": 26904,
+    "idSeance": 104976,
     "dateHeure": "2023-09-09T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 180,
+    "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 37663,
+        "idFilm": 80342,
         "ordre": 1,
-        "idSeance": 104811,
-        "idCopie": 25995,
-        "duree": 150,
+        "idSeance": 104976,
+        "idCopie": 25915,
+        "duree": 96,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3091,
+    "typeEvenement": 14,
+    "idEvenement": 28587,
+    "idSeance": 104976,
+    "dateHeure": "2023-09-09T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -504,7 +523,7 @@
     "typeEvenement": 13,
     "idEvenement": 26852,
     "idSeance": 104378,
-    "dateHeure": "2023-09-10T19:30:00",
+    "dateHeure": "2023-09-10T19:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -585,7 +604,8 @@
       {
         "ordre": 2
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Murielle Joudet et Jean-François Rauger"
   },
   {
     "idCategorie": 2286,
@@ -682,46 +702,23 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 26890,
-    "idSeance": 104440,
-    "dateHeure": "2023-09-16T18:30:00",
+    "idEvenement": 26850,
+    "idSeance": 104977,
+    "dateHeure": "2023-09-16T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 180,
     "items": [
       {
-        "idFilm": 37710,
+        "idFilm": 37663,
         "ordre": 1,
-        "idSeance": 104440,
-        "idCopie": 10516,
-        "duree": 125,
+        "idSeance": 104977,
+        "idCopie": 25995,
+        "duree": 150,
         "version": "VOSTF",
         "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2286,
-    "typeEvenement": 13,
-    "idEvenement": 26904,
-    "idSeance": 104810,
-    "dateHeure": "2023-09-16T21:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 80342,
-        "ordre": 1,
-        "idSeance": 104810,
-        "idCopie": 25915,
-        "duree": 96,
-        "version": "VOSTF",
-        "format": "16 mm"
       }
     ]
   },
@@ -736,6 +733,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 37819,
@@ -752,15 +750,18 @@
     "idCategorie": 3091,
     "typeEvenement": 14,
     "idEvenement": 28588,
-    "idSeance": 104669,
-    "dateHeure": "2023-09-17T16:15:00",
+    "idSeance": 104417,
+    "dateHeure": "2023-09-17T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 90,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -1040,7 +1041,7 @@
     "typeEvenement": 13,
     "idEvenement": 26912,
     "idSeance": 104589,
-    "dateHeure": "2023-09-23T19:30:00",
+    "dateHeure": "2023-09-23T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1086,7 +1087,7 @@
     "typeEvenement": 13,
     "idEvenement": 26859,
     "idSeance": 104655,
-    "dateHeure": "2023-09-24T16:45:00",
+    "dateHeure": "2023-09-24T17:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1109,7 +1110,7 @@
     "typeEvenement": 13,
     "idEvenement": 26868,
     "idSeance": 104656,
-    "dateHeure": "2023-09-24T18:45:00",
+    "dateHeure": "2023-09-24T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1147,6 +1148,29 @@
         "duree": 96,
         "version": "VOSTF",
         "format": "16 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3120,
+    "typeEvenement": 13,
+    "idEvenement": 28791,
+    "idSeance": 105009,
+    "dateHeure": "2023-09-28T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 154501,
+        "ordre": 1,
+        "idSeance": 105009,
+        "idCopie": 26311,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "Numérique"
       }
     ]
   },
@@ -1268,23 +1292,23 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 26890,
-    "idSeance": 104675,
-    "dateHeure": "2023-10-01T15:00:00",
+    "idEvenement": 26869,
+    "idSeance": 104974,
+    "dateHeure": "2023-10-01T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 37710,
+        "idFilm": 37753,
         "ordre": 1,
-        "idSeance": 104675,
-        "idCopie": 10516,
-        "duree": 125,
+        "idSeance": 104974,
+        "idCopie": 25043,
+        "duree": 88,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   },
@@ -1293,7 +1317,7 @@
     "typeEvenement": 13,
     "idEvenement": 26909,
     "idSeance": 104813,
-    "dateHeure": "2023-10-01T17:45:00",
+    "dateHeure": "2023-10-01T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1316,7 +1340,7 @@
     "typeEvenement": 13,
     "idEvenement": 28237,
     "idSeance": 104814,
-    "dateHeure": "2023-10-01T20:00:00",
+    "dateHeure": "2023-10-01T18:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1329,6 +1353,29 @@
         "idSeance": 104814,
         "idCopie": 25956,
         "duree": 72,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2286,
+    "typeEvenement": 13,
+    "idEvenement": 26866,
+    "idSeance": 104975,
+    "dateHeure": "2023-10-01T20:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 67404,
+        "ordre": 1,
+        "idSeance": 104975,
+        "idCopie": 25864,
+        "duree": 106,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -1475,12 +1522,35 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
+    "idEvenement": 26890,
+    "idSeance": 104962,
+    "dateHeure": "2023-10-08T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 37710,
+        "ordre": 1,
+        "idSeance": 104962,
+        "idCopie": 10516,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2286,
+    "typeEvenement": 13,
     "idEvenement": 26944,
     "idSeance": 104515,
-    "dateHeure": "2023-10-08T17:00:00",
+    "dateHeure": "2023-10-08T17:45:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
     "dureeSeance": 135,
     "items": [
@@ -1500,10 +1570,10 @@
     "typeEvenement": 13,
     "idEvenement": 26963,
     "idSeance": 104516,
-    "dateHeure": "2023-10-08T19:15:00",
+    "dateHeure": "2023-10-08T20:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
     "dureeSeance": 120,
     "items": [
@@ -1730,7 +1800,7 @@
     "typeEvenement": 13,
     "idEvenement": 26876,
     "idSeance": 104862,
-    "dateHeure": "2023-10-18T20:45:00",
+    "dateHeure": "2023-10-18T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1845,10 +1915,10 @@
     "typeEvenement": 13,
     "idEvenement": 26910,
     "idSeance": 104917,
-    "dateHeure": "2023-10-22T17:15:00",
+    "dateHeure": "2023-10-22T17:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "dureeSeance": 135,
     "items": [
@@ -1868,10 +1938,10 @@
     "typeEvenement": 13,
     "idEvenement": 26924,
     "idSeance": 104918,
-    "dateHeure": "2023-10-22T20:00:00",
+    "dateHeure": "2023-10-22T19:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "dureeSeance": 120,
     "items": [
@@ -1881,52 +1951,6 @@
         "idSeance": 104918,
         "idCopie": 25913,
         "duree": 94,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2286,
-    "typeEvenement": 13,
-    "idEvenement": 26856,
-    "idSeance": 104919,
-    "dateHeure": "2023-10-23T18:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 36892,
-        "ordre": 1,
-        "idSeance": 104919,
-        "idCopie": 26220,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2286,
-    "typeEvenement": 13,
-    "idEvenement": 26873,
-    "idSeance": 104920,
-    "dateHeure": "2023-10-23T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 37819,
-        "ordre": 1,
-        "idSeance": 104920,
-        "idCopie": 26133,
-        "duree": 101,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -2004,8 +2028,8 @@
   {
     "idCategorie": 2286,
     "typeEvenement": 13,
-    "idEvenement": 26917,
-    "idSeance": 104922,
+    "idEvenement": 26873,
+    "idSeance": 104986,
     "dateHeure": "2023-10-26T20:30:00",
     "idSalle": [
       "GF",
@@ -2014,11 +2038,11 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 45139,
+        "idFilm": 37819,
         "ordre": 1,
-        "idSeance": 104922,
-        "idCopie": 25045,
-        "duree": 110,
+        "idSeance": 104986,
+        "idCopie": 26133,
+        "duree": 101,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -2042,6 +2066,29 @@
         "idSeance": 104925,
         "idCopie": 25995,
         "duree": 150,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2286,
+    "typeEvenement": 13,
+    "idEvenement": 26917,
+    "idSeance": 104965,
+    "dateHeure": "2023-10-28T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 45139,
+        "ordre": 1,
+        "idSeance": 104965,
+        "idCopie": 25045,
+        "duree": 110,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -2203,6 +2250,52 @@
         "idSeance": 104816,
         "idCopie": 25214,
         "duree": 87,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2286,
+    "typeEvenement": 13,
+    "idEvenement": 26847,
+    "idSeance": 104966,
+    "dateHeure": "2023-11-03T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 36860,
+        "ordre": 1,
+        "idSeance": 104966,
+        "idCopie": 25878,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2286,
+    "typeEvenement": 13,
+    "idEvenement": 26912,
+    "idSeance": 104967,
+    "dateHeure": "2023-11-03T20:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 36837,
+        "ordre": 1,
+        "idSeance": 104967,
+        "idCopie": 25920,
+        "duree": 131,
         "version": "VOSTF",
         "format": "35 mm"
       }

@@ -81,6 +81,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 47092,
@@ -90,6 +91,24 @@
         "duree": 88,
         "version": "",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3059,
+    "typeEvenement": 14,
+    "idEvenement": 28356,
+    "idSeance": 104784,
+    "dateHeure": "2023-09-16T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -114,7 +133,8 @@
         "version": "",
         "format": ""
       }
-    ]
+    ],
+    "mention": "Séance présentée par Laurent Dailland"
   },
   {
     "idCategorie": 3042,
@@ -142,9 +162,32 @@
   {
     "idCategorie": 3042,
     "typeEvenement": 13,
-    "idEvenement": 28294,
-    "idSeance": 104791,
+    "idEvenement": 28292,
+    "idSeance": 104968,
     "dateHeure": "2023-09-17T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 64238,
+        "ordre": 1,
+        "idSeance": 104968,
+        "idCopie": 26061,
+        "duree": 98,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3042,
+    "typeEvenement": 13,
+    "idEvenement": 28294,
+    "idSeance": 104969,
+    "dateHeure": "2023-09-17T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -154,7 +197,7 @@
       {
         "idFilm": 111102,
         "ordre": 1,
-        "idSeance": 104791,
+        "idSeance": 104969,
         "idCopie": 11357,
         "duree": 84,
         "version": "STA",
@@ -236,7 +279,7 @@
     "typeEvenement": 13,
     "idEvenement": 28293,
     "idSeance": 104812,
-    "dateHeure": "2023-09-23T15:30:00",
+    "dateHeure": "2023-09-23T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -282,7 +325,7 @@
     "typeEvenement": 13,
     "idEvenement": 28296,
     "idSeance": 104807,
-    "dateHeure": "2023-09-23T20:45:00",
+    "dateHeure": "2023-09-23T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -305,7 +348,7 @@
     "typeEvenement": 13,
     "idEvenement": 28297,
     "idSeance": 104808,
-    "dateHeure": "2023-09-24T17:15:00",
+    "dateHeure": "2023-09-24T17:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -328,7 +371,7 @@
     "typeEvenement": 13,
     "idEvenement": 28300,
     "idSeance": 104809,
-    "dateHeure": "2023-09-24T19:45:00",
+    "dateHeure": "2023-09-24T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"

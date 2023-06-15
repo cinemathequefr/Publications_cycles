@@ -5,6 +5,29 @@
   * Brad Pitt – La Revanche d'un Blond  
   * Jim Carrey, l'Amérique démasquée
 
+## Aujourd'hui le cinéma (20)
+
+  * Alberi  
+  * Bambino  
+  * Bonobo  
+  * Chienne (La)  
+  * Classified people  
+  * Cœur Brisé  
+  * Cuidados que se tem com o cuidado que os outros devem ter consigo mesmos (Os)  
+  * Fairplay  
+  * J'ai vu le visage du diable  
+  * Ma petite reine  
+  * Margarethe 89  
+  * Martin  
+  * Mes indésirables  
+  * Nova Dubai  
+  * Portraits fantômes  
+  * Roi David (Le)  
+  * Soleil dort (Le)  
+  * Tinikling  
+  * Trois nuits par semaine  
+  * Trois tristes tigres
+
 ## Catherine Breillat (15)
 
   * 36 fillette  
@@ -28,16 +51,17 @@
   * Amours d'une blonde (Les)  
   * Docteur Jerry et Mister Love
 
-## Cinéma bis (11)
+## Cinéma bis (12)
 
   * Blastfighter, l'exécuteur  
   * Curse of the Faceless Man  
   * Dans le cercle du vice  
   * Filles de Grenoble (Les)  
-  * Frankenstein 2000, the vindicator  
+  * Frankenstein 2000  
   * Indic (L')  
   * Nuits galantes d'une infidèle (Les)  
   * Poignard de bambou (Le)  
+  * Prisonnières des martiens  
   * Soucoupes volantes attaquent (Les)  
   * Spectre  
   * Vengeance
@@ -69,7 +93,7 @@
 
   * Avion (L')  
   * Bar des rails  
-  * Bonheur TV  
+  * Bonheur  
   * Dernières heures du millénaire (Les)  
   * Ennui (L')  
   * Fête de famille  
@@ -97,13 +121,13 @@
 ## David Fincher (12)
 
   * Alien 3  
-  * Étrange histoire de Benjamin Button (L')  
+  * Étrange Histoire de Benjamin Button (L')  
   * Fight Club  
   * Game (The)  
   * Gone Girl  
   * Killer (The)  
   * Mank  
-  * Millénium : Les hommes qui n'aimaient pas les femmes  
+  * Millénium : Les Hommes qui n'aimaient pas les femmes  
   * Panic Room  
   * Seven  
   * Social Network (The)  
@@ -125,23 +149,35 @@
   * Paris mange son pain  
   * Voyage surprise
 
+## Hommage à Jean-Luc Godard (9)
+
+  * Histoire(s) du cinéma, chapitre 1a : Toutes les histoires  
+  * Histoire(s) du cinéma, chapitre 1b : Une histoire seule  
+  * Histoire(s) du cinéma, chapitre 2a : Seul le cinéma  
+  * Histoire(s) du cinéma, chapitre 2b : Fatale beauté  
+  * Histoire(s) du cinéma, chapitre 3a : La Monnaie de l'absolu  
+  * Histoire(s) du cinéma, chapitre 3b : Une vague nouvelle  
+  * Histoire(s) du cinéma, chapitre 4a : Le Contrôle de l'univers  
+  * Histoire(s) du cinéma, chapitre 4b : Les Signes parmi nous  
+  * Old Place (The)
+
 ## Jean Cocteau (26)
 
-  * 8 × 8: A Chess Sonata in 8 Movements  
+  * 8 × 8 : A Chess Sonata in 8 Movements  
   * Aigle à deux têtes (L')  
   * Amore (L')  
   * Anna, la bonne  
   * Baron fantôme (Le)  
   * Bel Indifférent (Le)  
-  * Belle et la Bête (La)  
-  * Charlotte et son Jules  
+  * Belle et la bête (La)  
+  * Charlotte et son jules  
   * Couronne noire (La)  
   * Dame de Monte-Carlo (La)  
-  * Dames du Bois de Boulogne (Les)  
+  * Dames du bois de Boulogne (Les)  
   * Django Reinhardt  
   * Enfants terribles (Les)  
   * Éternel Retour (L')  
-  * Jean Cocteau s'adresse à... l'an 2000  
+  * Jean Cocteau s'adresse... à l'an 2000  
   * Mystère d'Oberwald (Le)  
   * Orphée  
   * Pantomimes  
@@ -149,7 +185,7 @@
   * Princesse de Clèves (La)  
   * Ruy Blas  
   * Sang d'un poète (Le)  
-  * Testament d'Orphée ou Ne me demandez pas pourquoi (Le)  
+  * Testament d'Orphée ou ne me demandez pas pourquoi ! (Le)  
   * Thomas l'imposteur  
   * Villa Santo Sospir (La)  
   * Voix humaine (La)
@@ -157,13 +193,13 @@
 ## Jerry Lewis (16)
 
   * Au boulot, Jerry  
-  * Clown TV (Der)  
+  * Clown (Der)  
   * Come Back Little Shiksa  
   * Dingue du palace (Le)  
   * Fairfax Avenue  
-  * Jerry grande gueule  
+  * Jerry la grande gueule  
   * Jerry Lewis  
-  * Jerry souffre douleur  
+  * Jerry souffre-douleur  
   * One More Time  
   * Re-Inforcer (The)  
   * T'es fou Jerry !  
@@ -181,27 +217,26 @@
   * Dans la toile  
   * Dernier rempart (Le)  
   * Deux sœurs  
-  * Fool King  
-  * Illang : la Brigade des loups  
+  * Foul King  
+  * Illang : La Brigade des loups  
   * J'ai rencontré le diable  
   * Quiet Family (The)  
   * Trois histoires de l'au-delà
 
-## Ma petite Cinémathèque (14)
+## Ma petite Cinémathèque (13)
 
   * Argent de poche (L')  
   * Arsenic et vieilles dentelles  
-  * Aventure de madame Muir (L')  
   * Aventures de Peter Pan (Les)  
   * Demoiselles de Rochefort (Les)  
   * Homme qui en savait trop (L')  
   * Jacquot de Nantes  
   * Kid (Le)  
-  * Kiki, la petite sorcière  
-  * Linda veut du poulet  
+  * Kiki la petite sorcière  
+  * Linda veut du poulet !  
   * Ma vache et moi  
   * Microcosmos  
-  * Petite vendeuse de soleil (La)  
+  * Petite Vendeuse de Soleil (La)  
   * Porco Rosso
 
 ## Mexico maleficarum (13)
@@ -220,29 +255,31 @@
   * Vampiro sangriento (El)  
   * Veneno para las hadas
 
-## Pascal Thomas (19)
+## Pascal Thomas (21)
 
-  * A cause des filles ?  
+  * À cause des filles.. ?  
   * Associés contre le crime  
   * Celles qu'on n'a pas eues  
-  * Chaud lapin (Le)  
+  * Chaud Lapin (Le)  
   * Confidences pour confidences  
   * Crime est notre affaire (Le)  
   * Dilettante (La)  
-  * Ensemble, nous allons vivre une très, très grande histoire d'amour  
+  * Ensemble, nous allons vivre une très, très grande histoire d'amour...  
   * Grand Appartement (Le)  
   * Heure zéro (L')  
   * Maris, les femmes, les amants (Les)  
   * Mercredi, folle journée !  
-  * Mon petit doigt m'a dit  
+  * Mon petit doigt m'a dit...  
+  * Nono Nénesse  
   * Pagaille (La)  
   * Pleure pas la bouche pleine  
+  * Poème de l'élève Mikovsky (Le)  
   * Surprise du chef (La)  
   * Un oursin dans la poche  
   * Valentin Valentin  
   * Zozos (Les)
 
-## Raoul Walsh (81)
+## Raoul Walsh (82)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -317,6 +354,7 @@
   * Spendthrift  
   * St. Louis Blues  
   * Têtes brûlées  
+  * True Adventures of Raoul Walsh (The)  
   * Un lion dans la rue  
   * Une corde pour te pendre  
   * Une femme dangereuse  
@@ -326,12 +364,15 @@
   * Wild Girl  
   * Women of All Nations
 
-## Séances spéciales (2)
+## Séances spéciales (5)
 
+  * Film annonce du film qui n'existera jamais : « Drôles de Guerres »  
+  * Godard par Godard  
   * Salvador Allende  
-  * Septembre chilien
+  * Septembre chilien  
+  * Tremblement de terre
 
-## Viva Varda ! (8)
+## Viva Varda ! (9)
 
   * Bonheur (Le)  
   * Cléo de 5 à 7  
@@ -341,3 +382,10 @@
   * Oncle Yanko  
   * Pointe Courte (La)  
   * Sans toit ni loi  
+  * Viva Varda!
+
+## Víctor Erice (3)
+
+  * Esprit de la ruche (L')  
+  * Songe de la lumière (Le)  
+  * Sur (El)  

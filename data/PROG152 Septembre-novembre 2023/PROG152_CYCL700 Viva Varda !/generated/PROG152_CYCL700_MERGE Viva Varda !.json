@@ -51,6 +51,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 3064,
           "idEvenement": 28451,
           "typeEvenement": 13,
@@ -125,6 +126,8 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104703,
           "idCategorie": 3064,
           "idEvenement": 28466,
           "typeEvenement": 13,
@@ -161,6 +164,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 3064,
           "idEvenement": 28479,
           "typeEvenement": 13,
@@ -193,6 +197,8 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104703,
           "idCategorie": 3064,
           "idEvenement": 28466,
           "typeEvenement": 13,
@@ -261,8 +267,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104705,
+          "typeAssoc": 118,
           "idCategorie": 3064,
           "idEvenement": 28471,
           "typeEvenement": 13,
@@ -289,43 +294,63 @@
       "textes": []
     },
     {
+      "titreSousCycle": "Autour d'Agnès Varda",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 104667,
+          "ordre": 1,
+          "dateHeure": "2023-10-16T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 105,
+          "mention": "Avant-première",
+          "idCategorie": 3080,
+          "idEvenement": 28585,
+          "typeEvenement": 13,
+          "idFilm": 154476,
+          "titre": "Viva Varda!",
+          "realisateurs": "Pierre-Henri Gibert",
+          "annee": 2023,
+          "pays": "France",
+          "duree": 67,
+          "version": "",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Portrait d'Agnès Varda présenté à Cannes Classics cette année au Festival de Cannes."
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
       "titreSousCycle": "Rencontres et conférences",
       "tri": 4,
       "items": [
         {
-          "idSeance": 104706,
-          "dateHeure": "2023-11-05T16:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 90,
-          "mention": "Séance suivie d'une discussion avec Sylvain Dreyer, Nathalie Mauffrey et Clémentine Charlemaine",
-          "idCategorie": 3093,
-          "idEvenement": 28611,
-          "typeEvenement": 14,
-          "idTypeConference": 19,
-          "typeConference": "Table ronde",
-          "titre": "Table Ronde Les glaneurs et la glaneuse",
-          "duree": 60,
-          "textes": []
-        },
-        {
-          "idSeance": 104704,
-          "dateHeure": "2023-10-21T16:30:00",
+          "idSeance": 104635,
+          "ordre": 2,
+          "dateHeure": "2023-10-21T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
-          "mention": "Séance suivie d'une discussion avec Marin Karmitz, Judith Ertel et Charlotte Garson",
+          "mention": "Séance suivie d'une discussion avec Marin Karmitz, Judith Ertel, Charlotte Garson et Frédéric Bonnaud",
+          "typeAssoc": 118,
           "idCategorie": 3093,
           "idEvenement": 28610,
           "typeEvenement": 14,
-          "idTypeConference": 19,
+          "idTypeConference": 16,
           "typeConference": "Table ronde",
-          "titre": "Table ronde Cléo de 5 à 7",
-          "duree": 0,
+          "titre": "Cléo de 5 à 7",
+          "sousTitre": "Table ronde",
+          "duree": 60,
           "textes": [
             {
               "typeTexte": 9,
@@ -334,28 +359,42 @@
           ]
         },
         {
-          "idSeance": 104705,
-          "dateHeure": "2023-10-28T16:45:00",
+          "idSeance": 105011,
+          "dateHeure": "2023-10-15T17:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 90,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 104636,
+          "dureeSeance": 60,
           "idCategorie": 3093,
-          "idEvenement": 28591,
+          "idEvenement": 28873,
           "typeEvenement": 14,
-          "idTypeConference": 19,
-          "typeConference": "Table ronde",
-          "titre": "Table ronde Sans toit ni loi",
+          "idTypeConference": 18,
+          "typeConference": "Spectacle",
+          "titre": "Concert Varda",
           "duree": 60,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un dialogue autour du geste de réalisatrice d'Agnès Varda, qui aura renouvelé le langage cinématographique autant que la représentation des personnages féminins à l'écran. Animée par Florence Tissot, commissaire de l'exposition _Viva Varda !_, cette table ronde réunit la productrice et costumière Rosalie Varda, Clémentine Charlemaine, déléguée générale de Cinéma pour tous et coprésidente du collectif 50/50, ainsi que Brigitte Rollet, autrice de _Femmes et cinéma, sois belle et tais-toi !_"
-            }
-          ]
+          "textes": []
+        },
+        {
+          "idSeance": 104777,
+          "ordre": 2,
+          "dateHeure": "2023-11-05T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "mention": "Séance suivie d'une discussion avec Sylvain Dreyer, Nathalie Mauffrey, Antoine Compagnon et Bernard Benoliel",
+          "typeAssoc": 118,
+          "idCategorie": 3093,
+          "idEvenement": 28611,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Table ronde",
+          "titre": "Les Glaneurs et la Glaneuse",
+          "sousTitre": "Table ronde",
+          "duree": 60,
+          "textes": []
         },
         {
           "idSeance": 104703,
@@ -365,15 +404,51 @@
             "Georges Franju"
           ],
           "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 104643,
           "idCategorie": 3093,
           "idEvenement": 28607,
           "typeEvenement": 14,
           "idTypeConference": 55,
           "typeConference": "Conférence",
-          "titre": "« Qui êtes-vous agnes Varda ? » par Florence Tissot",
-          "sousTitre": "Conférence ",
-          "duree": 0,
-          "textes": []
+          "titre": "Qui êtes-vous Agnès Varda ?",
+          "sousTitre": "Conférence de Florence Tissot",
+          "duree": 90,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Florence Tissot",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        },
+        {
+          "idSeance": 104636,
+          "ordre": 2,
+          "dateHeure": "2023-10-28T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "mention": "Séance suivie d'une discussion avec Brigitte Rollet, Rosalie Varda, Clémentine Charlemaine, Alice Diop et Florence Tissot",
+          "typeAssoc": 118,
+          "idCategorie": 3093,
+          "idEvenement": 28591,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Table ronde",
+          "titre": "Sans toit ni loi",
+          "sousTitre": "Table ronde",
+          "duree": 60,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un dialogue autour du geste de réalisatrice d'Agnès Varda, qui aura renouvelé le langage cinématographique autant que la représentation des personnages féminins à l'écran. Animée par Florence Tissot, commissaire de l'exposition _Viva Varda !_, cette table ronde réunit la productrice et costumière Rosalie Varda, la réalisatrice Alice Diop, Clémentine Charlemaine, déléguée générale de Cinéma pour tous et coprésidente du collectif 50/50, ainsi que Brigitte Rollet, autrice de _Femmes et cinéma, sois belle et tais-toi !_"
+            }
+          ]
         }
       ],
       "textes": []

@@ -2,6 +2,46 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Jean-Luc Godard 2023",
+      "items": [
+        {
+          "idEvenement": 28789,
+          "content": [
+            {
+              "idFilm": 154500,
+              "ordre": 1,
+              "titre": "Godard par Godard",
+              "realisateurs": "Florence Platarets",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 60,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 154499,
+              "ordre": 2,
+              "titre": "Film annonce du film qui n'existera jamais : « Drôles de Guerres »",
+              "realisateurs": "Jean-Luc Godard",
+              "pays": "France-Suisse",
+              "annee": 2023,
+              "duree": 20,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104984,
+              "dateHeure": "2023-09-04T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Chili, 11 septembre 1973",
       "items": [
         {
@@ -40,6 +80,41 @@
               "idSeance": 104380,
               "dateHeure": "2023-09-11T19:00:00",
               "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Conservatoire des techniques cinématographiques",
+      "items": [
+        {
+          "idFilm": 36200,
+          "content": [
+            {
+              "idFilm": 36200,
+              "ordre": 1,
+              "titre": "Tremblement de terre",
+              "titreVo": "Earthquake",
+              "realisateurs": "Mark Robson",
+              "pays": "États-Unis",
+              "annee": 1974,
+              "duree": 107,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Ava Gardner",
+                "Geneviève Bujold",
+                "Charlton Heston"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104613,
+              "dateHeure": "2023-10-06T19:00:00",
+              "idSalle": "HL"
             }
           ]
         }

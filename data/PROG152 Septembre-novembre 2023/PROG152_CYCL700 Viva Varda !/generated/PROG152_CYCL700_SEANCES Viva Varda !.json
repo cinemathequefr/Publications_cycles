@@ -2,6 +2,46 @@
   {
     "idCategorie": 3093,
     "typeEvenement": 14,
+    "idEvenement": 28873,
+    "idSeance": 105011,
+    "dateHeure": "2023-10-15T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "items": [
+      {}
+    ]
+  },
+  {
+    "idCategorie": 3080,
+    "typeEvenement": 13,
+    "idEvenement": 28585,
+    "idSeance": 104667,
+    "dateHeure": "2023-10-16T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 105,
+    "typeSeance": 43,
+    "items": [
+      {
+        "idFilm": 154476,
+        "ordre": 1,
+        "idSeance": 104667,
+        "idCopie": 26241,
+        "duree": 67,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Avant-première"
+  },
+  {
+    "idCategorie": 3093,
+    "typeEvenement": 14,
     "idEvenement": 28607,
     "idSeance": 104703,
     "dateHeure": "2023-10-19T19:00:00",
@@ -10,6 +50,8 @@
       "Georges Franju"
     ],
     "dureeSeance": 90,
+    "idSeanceAssoc": 104643,
+    "typeAssoc": 117,
     "items": [
       {}
     ]
@@ -25,6 +67,8 @@
       "Georges Franju"
     ],
     "dureeSeance": 120,
+    "idSeanceAssoc": 104703,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 79314,
@@ -57,6 +101,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 51603,
@@ -73,17 +118,20 @@
     "idCategorie": 3093,
     "typeEvenement": 14,
     "idEvenement": 28610,
-    "idSeance": 104704,
-    "dateHeure": "2023-10-21T16:30:00",
+    "idSeance": 104635,
+    "dateHeure": "2023-10-21T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 90,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ],
-    "mention": "Séance suivie d'une discussion avec Marin Karmitz, Judith Ertel et Charlotte Garson"
+    "mention": "Séance suivie d'une discussion avec Marin Karmitz, Judith Ertel, Charlotte Garson et Frédéric Bonnaud"
   },
   {
     "idCategorie": 3064,
@@ -96,8 +144,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
-    "idSeanceAssoc": 104705,
-    "typeAssoc": 117,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 51614,
@@ -114,18 +161,20 @@
     "idCategorie": 3093,
     "typeEvenement": 14,
     "idEvenement": 28591,
-    "idSeance": 104705,
-    "dateHeure": "2023-10-28T16:45:00",
+    "idSeance": 104636,
+    "dateHeure": "2023-10-28T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 90,
-    "idSeanceAssoc": 104636,
-    "typeAssoc": 117,
+    "typeAssoc": 118,
     "items": [
-      {}
-    ]
+      {
+        "ordre": 2
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Brigitte Rollet, Rosalie Varda, Clémentine Charlemaine, Alice Diop et Florence Tissot"
   },
   {
     "idCategorie": 3064,
@@ -138,6 +187,7 @@
       "Georges Franju"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 68649,
@@ -154,17 +204,20 @@
     "idCategorie": 3093,
     "typeEvenement": 14,
     "idEvenement": 28611,
-    "idSeance": 104706,
-    "dateHeure": "2023-11-05T16:00:00",
+    "idSeance": 104777,
+    "dateHeure": "2023-11-05T14:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
     "dureeSeance": 90,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ],
-    "mention": "Séance suivie d'une discussion avec Sylvain Dreyer, Nathalie Mauffrey et Clémentine Charlemaine"
+    "mention": "Séance suivie d'une discussion avec Sylvain Dreyer, Nathalie Mauffrey, Antoine Compagnon et Bernard Benoliel"
   },
   {
     "idCategorie": 3064,

@@ -62,8 +62,8 @@
   * Nuits rouges de Harlem (Les)  
   * Rage au cœur (La)  
   * Rues de l'enfer (Les)  
+  * Shaft contre les trafiquants d'hommes  
   * Spécial police  
-  * Trafiquants d'hommes (Les)  
   * Une vierge chez les morts-vivants
 
 ## Eloy de la Iglesia (21)
@@ -288,10 +288,10 @@
   * Chrysalide et le papillon d'or (La)  
   * Cirque (Le)  
   * Couchée de Robert Desnos  
+  * Dislocation mystérieuse  
   * Génie de la boîte de raviolis (Le)  
   * Génie du feu (Le)  
   * Livre de la jungle (Le)  
-  * Livre magique (Le)  
   * Lune à un mètre ou Le Rêve de l'astronome (La)  
   * Main au collet (La)  
   * Mon oncle  

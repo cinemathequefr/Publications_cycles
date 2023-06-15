@@ -60,7 +60,7 @@
                     "Victor McLaglen",
                     "Phillip Reed"
                   ],
-                  "miniTexte": "San Francisco, fin XIX<sup>e<sup> siècle. Une chanteuse de cabaret s'enfuit sur un cargo, après avoir poignardé son protecteur chinois. Mae West, qui signe aussi les dialogues, fait sensation dans le rôle licencieux d'une aventurière déguisée en missionnaire aux méthodes peu orthodoxes."
+                  "miniTexte": "San Francisco, fin XIX<sup>e</sup> siècle. Une chanteuse de cabaret s'enfuit sur un cargo, après avoir poignardé son protecteur chinois. Mae West, qui signe aussi les dialogues, fait sensation dans le rôle licencieux d'une aventurière déguisée en missionnaire aux méthodes peu orthodoxes."
                 }
               ],
               "seances": []
@@ -71,7 +71,7 @@
                 {
                   "idConf": 28592,
                   "ordre": 2,
-                  "titre": "Film + Discussion avec Jean-François Rauger et Murielle Joudet",
+                  "titre": "Dialogue avec Jean-François Rauger et Murielle Joudet",
                   "typeConference": "Dialogue"
                 }
               ],
@@ -80,7 +80,8 @@
                   "idSeance": 104565,
                   "typeAssoc": 118,
                   "dateHeure": "2023-09-13T20:00:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "mention": "Séance suivie d'une discussion avec Murielle Joudet et Jean-François Rauger"
                 }
               ]
             }
@@ -202,44 +203,72 @@
           "seances": [
             {
               "idSeance": 104862,
-              "dateHeure": "2023-10-18T20:45:00",
+              "dateHeure": "2023-10-18T21:00:00",
               "idSalle": "GF"
             }
           ]
         },
         {
-          "idFilm": 37819,
-          "content": [
+          "groupe": [
             {
               "idFilm": 37819,
-              "ordre": 1,
-              "titre": "Aventures du capitaine Wyatt",
-              "art": "Les",
-              "titreVo": "Distant Drums",
-              "realisateurs": "Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1951,
-              "duree": 101,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Gary Cooper",
-                "Mari Aldon",
-                "Richard Webb"
+              "content": [
+                {
+                  "idFilm": 37819,
+                  "ordre": 1,
+                  "titre": "Aventures du capitaine Wyatt",
+                  "art": "Les",
+                  "titreVo": "Distant Drums",
+                  "realisateurs": "Raoul Walsh",
+                  "pays": "États-Unis",
+                  "annee": 1951,
+                  "duree": 101,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Gary Cooper",
+                    "Mari Aldon",
+                    "Richard Webb"
+                  ],
+                  "miniTexte": "Une version western d'_Aventures en Birmanie_, sur les terres hostiles des Everglades. Évoquant une mission périlleuse des Fédéraux traqués par les Indiens Séminole, Walsh fait de la jungle le décor idéal pour exploiter les thèmes de la survie et du racisme, et offre à Gary Cooper, en homme des marais, un rôle à sa mesure."
+                }
               ],
-              "miniTexte": "Une version western d'_Aventures en Birmanie_, sur les terres hostiles des Everglades. Évoquant une mission périlleuse des Fédéraux traqués par les Indiens Séminole, Walsh fait de la jungle le décor idéal pour exploiter les thèmes de la survie et du racisme, et offre à Gary Cooper, en homme des marais, un rôle à sa mesure."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104417,
-              "dateHeure": "2023-09-17T14:30:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 104417,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-17T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 104417,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 104986,
+                  "dateHeure": "2023-10-26T20:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             },
             {
-              "idSeance": 104920,
-              "dateHeure": "2023-10-23T20:30:00",
-              "idSalle": "GF"
+              "idEvenement": 28588,
+              "content": [
+                {
+                  "idConf": 28588,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Pierre Gabaston",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104417,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-17T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         },
@@ -335,7 +364,7 @@
           "seances": [
             {
               "idSeance": 104378,
-              "dateHeure": "2023-09-10T19:30:00",
+              "dateHeure": "2023-09-10T19:45:00",
               "idSalle": "HL"
             }
           ]
@@ -499,6 +528,11 @@
               "idSeance": 104443,
               "dateHeure": "2023-09-17T20:30:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 104966,
+              "dateHeure": "2023-11-03T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -687,8 +721,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104811,
-              "dateHeure": "2023-09-09T14:30:00",
+              "idSeance": 104977,
+              "dateHeure": "2023-09-16T19:00:00",
               "idSalle": "HL"
             },
             {
@@ -812,7 +846,7 @@
           "seances": [
             {
               "idSeance": 104813,
-              "dateHeure": "2023-10-01T17:45:00",
+              "dateHeure": "2023-10-01T16:30:00",
               "idSalle": "HL"
             },
             {
@@ -914,11 +948,6 @@
               "dateHeure": "2023-08-30T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
-            },
-            {
-              "idSeance": 104919,
-              "dateHeure": "2023-10-23T18:00:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -985,7 +1014,7 @@
           "seances": [
             {
               "idSeance": 104655,
-              "dateHeure": "2023-09-24T16:45:00",
+              "dateHeure": "2023-09-24T17:00:00",
               "idSalle": "HL"
             }
           ]
@@ -1085,8 +1114,8 @@
           "seances": [
             {
               "idSeance": 104516,
-              "dateHeure": "2023-10-08T19:15:00",
-              "idSalle": "GF"
+              "dateHeure": "2023-10-08T20:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -1120,6 +1149,11 @@
               "idSeance": 104352,
               "dateHeure": "2023-09-01T18:00:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 104975,
+              "dateHeure": "2023-10-01T20:15:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -1151,7 +1185,7 @@
           "seances": [
             {
               "idSeance": 104656,
-              "dateHeure": "2023-09-24T18:45:00",
+              "dateHeure": "2023-09-24T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -1184,6 +1218,11 @@
             {
               "idSeance": 104568,
               "dateHeure": "2023-09-29T20:00:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 104974,
+              "dateHeure": "2023-10-01T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -1252,8 +1291,8 @@
             },
             {
               "idSeance": 104918,
-              "dateHeure": "2023-10-22T20:00:00",
-              "idSalle": "HL"
+              "dateHeure": "2023-10-22T19:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1612,8 +1651,8 @@
           "seances": [
             {
               "idSeance": 104515,
-              "dateHeure": "2023-10-08T17:00:00",
-              "idSalle": "GF"
+              "dateHeure": "2023-10-08T17:45:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -1648,33 +1687,50 @@
           ]
         },
         {
-          "idFilm": 80342,
-          "content": [
+          "groupe": [
             {
               "idFilm": 80342,
-              "ordre": 1,
-              "titre": "Man I Love",
-              "art": "The",
-              "realisateurs": "Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1946,
-              "duree": 96,
-              "version": "VOSTF",
-              "format": "16 mm",
-              "adaptation": "D'après le roman _Night Shift_ de Maritta Wolff.",
-              "generique": [
-                "Ida Lupino",
-                "Robert Alda",
-                "Andrea King"
+              "content": [
+                {
+                  "idFilm": 80342,
+                  "ordre": 1,
+                  "titre": "Man I Love",
+                  "art": "The",
+                  "realisateurs": "Raoul Walsh",
+                  "pays": "États-Unis",
+                  "annee": 1946,
+                  "duree": 96,
+                  "version": "VOSTF",
+                  "format": "16 mm",
+                  "adaptation": "D'après le roman _Night Shift_ de Maritta Wolff.",
+                  "generique": [
+                    "Ida Lupino",
+                    "Robert Alda",
+                    "Andrea King"
+                  ],
+                  "miniTexte": "Entre polar et romance musicale, un mélo d'une rare modernité féministe qui relate l'histoire d'une chanteuse de bar new-yorkaise, partie rompre sa solitude dans les night-clubs de L.A. L'une des inspirations de Martin Scorsese pour _New York, New York_."
+                }
               ],
-              "miniTexte": "Entre polar et romance musicale, un mélo d'une rare modernité féministe qui relate l'histoire d'une chanteuse de bar new-yorkaise, partie rompre sa solitude dans les night-clubs de L.A. L'une des inspirations de Martin Scorsese pour _New York, New York_."
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 104810,
-              "dateHeure": "2023-09-16T21:00:00",
-              "idSalle": "HL"
+              "idEvenement": 28587,
+              "content": [
+                {
+                  "idConf": 28587,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104976,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-09T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -1860,8 +1916,13 @@
           "seances": [
             {
               "idSeance": 104589,
-              "dateHeure": "2023-09-23T19:30:00",
+              "dateHeure": "2023-09-23T20:00:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 104967,
+              "dateHeure": "2023-11-03T20:45:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1984,13 +2045,8 @@
           ],
           "seances": [
             {
-              "idSeance": 104440,
-              "dateHeure": "2023-09-16T18:30:00",
-              "idSalle": "HL"
-            },
-            {
-              "idSeance": 104675,
-              "dateHeure": "2023-10-01T15:00:00",
+              "idSeance": 104962,
+              "dateHeure": "2023-10-08T15:00:00",
               "idSalle": "HL"
             }
           ]
@@ -2087,9 +2143,9 @@
               "idSalle": "HL"
             },
             {
-              "idSeance": 104922,
-              "dateHeure": "2023-10-26T20:30:00",
-              "idSalle": "GF"
+              "idSeance": 104965,
+              "dateHeure": "2023-10-28T19:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -2100,9 +2156,10 @@
               "content": [
                 {
                   "idConf": 28593,
-                  "titre": "« Conférence Walsh » Par Jean-François Rauger",
+                  "titre": "Raoul Walsh après la Warner (1955-1964) : un cinéaste déchaîné",
                   "sousTitre": "Conférence de Jean-François Rauger",
-                  "typeConference": "Conférence"
+                  "typeConference": "Conférence",
+                  "miniTexte": "Raoul Walsh n'est plus un salarié de la Warner Bros. depuis 1951. Les structures industrielles du cinéma hollywoodien se fissurent. Les cinéastes s'émancipent progressivement au cœur d'un système qui peine à se renouveler radicalement. L'auteur de Bungalow pour femmes est encore à l'étroit, bridé par d'obsolètes exigences de représentation. À partir du milieu des années 1950, son œuvre va toutefois s'infléchir vers un sentiment nouveau, plus mûr, dépassant le romantisme cosmique des films de la décennie précédente. Un sentiment constitué, paradoxalement, d'hédonisme stoïcien, de mélancolie cool, mais aussi de déchaînement libidinal. Mercredi 20 septembre 19h HL"
                 }
               ],
               "seances": [
@@ -2446,9 +2503,10 @@
               "content": [
                 {
                   "idConf": 28586,
-                  "titre": "« Conférence Walsh » par Serge Chauvin",
+                  "titre": "Raoul Walsh",
                   "sousTitre": "Conférence de Serge Chauvin",
-                  "typeConference": "Conférence"
+                  "typeConference": "Conférence",
+                  "miniTexte": "La Warner était faite pour Walsh et inversement : même génie de la prose, même urgence, même truculence. En douze ans et le double de films, le cinéaste joue pleinement le jeu du studio, dont il épouse la ligne, illustre les genres et magnifie les stars, tout en insufflant à son style une maturité tragique ou inquiète, élégiaque ou brutale, exténuant l'élan et osant la langueur. Jeudi 7 septembre 19h GF"
                 }
               ],
               "seances": [
@@ -2564,8 +2622,8 @@
             },
             {
               "idSeance": 104917,
-              "dateHeure": "2023-10-22T17:15:00",
-              "idSalle": "HL"
+              "dateHeure": "2023-10-22T17:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -2686,7 +2744,7 @@
           "seances": [
             {
               "idSeance": 104814,
-              "dateHeure": "2023-10-01T20:00:00",
+              "dateHeure": "2023-10-01T18:30:00",
               "idSalle": "HL"
             }
           ]
@@ -2694,24 +2752,31 @@
       ]
     },
     {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
+      "tri": 1,
+      "titreSousCycle": "Autour de Raoul Walsh",
       "items": [
         {
-          "idConf": 28588,
+          "idFilm": 154501,
           "content": [
             {
-              "idConf": 28588,
-              "titre": "Film + discussion avec Pierre Gabaston",
-              "sousTitre": "Conférence de Pierre Gabaston",
-              "typeConference": "Conférence"
+              "idFilm": 154501,
+              "ordre": 1,
+              "titre": "True Adventures of Raoul Walsh",
+              "art": "The",
+              "realisateurs": "Marilyn Ann Moss",
+              "pays": "États-Unis",
+              "annee": 2014,
+              "duree": 100,
+              "version": "VOSTF",
+              "format": "Numérique",
+              "miniTexte": "Premier long métrage documentaire consacré au réalisateur de _High Sierra_, par sa biographe. De ses débuts avec D. W. Griffith à ses classiques avec Errol Flynn ou James Cagney, photos et séquences rares retracent la vie du plus aventurier des cinéastes hollywoodiens."
             }
           ],
           "seances": [
             {
-              "idSeance": 104669,
-              "dateHeure": "2023-09-17T16:15:00",
-              "idSalle": "HL"
+              "idSeance": 105009,
+              "dateHeure": "2023-09-28T19:30:00",
+              "idSalle": "JE"
             }
           ]
         }
