@@ -13,17 +13,17 @@
   * Chienne (La)  
   * Classified people  
   * Cœur Brisé  
+  * Cuidados que se tem com o cuidado que os outros devem ter consigo mesmos (Os)  
   * Fairplay  
   * J'ai vu le visage du diable  
+  * Ma petite reine  
   * Margarethe 89  
   * Martin  
-  * Mes Indésirables  
+  * Mes indésirables  
   * Nova Dubai  
-  * Os Cuidados que se tem com o cuidado que osoutros devem ter consigo mesmos  
-  * petite reine (Ma)  
   * Portraits fantômes  
   * Roi David (Le)  
-  * soleil dort (Le)  
+  * Soleil dort (Le)  
   * Tinikling  
   * Trois nuits par semaine  
   * Trois tristes tigres
@@ -169,15 +169,15 @@
   * Anna, la bonne  
   * Baron fantôme (Le)  
   * Bel Indifférent (Le)  
-  * Belle et la Bête (La)  
-  * Charlotte et son Jules  
+  * Belle et la bête (La)  
+  * Charlotte et son jules  
   * Couronne noire (La)  
   * Dame de Monte-Carlo (La)  
-  * Dames du Bois de Boulogne (Les)  
+  * Dames du bois de Boulogne (Les)  
   * Django Reinhardt  
   * Enfants terribles (Les)  
   * Éternel Retour (L')  
-  * Jean Cocteau s'adresse à... l'an 2000  
+  * Jean Cocteau s'adresse... à l'an 2000  
   * Mystère d'Oberwald (Le)  
   * Orphée  
   * Pantomimes  
