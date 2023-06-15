@@ -93,7 +93,7 @@
 
   * Avion (L')  
   * Bar des rails  
-  * Bonheur TV  
+  * Bonheur  
   * Dernières heures du millénaire (Les)  
   * Ennui (L')  
   * Fête de famille  
@@ -185,7 +185,7 @@
   * Princesse de Clèves (La)  
   * Ruy Blas  
   * Sang d'un poète (Le)  
-  * Testament d'Orphée ou Ne me demandez pas pourquoi (Le)  
+  * Testament d'Orphée ou ne me demandez pas pourquoi ! (Le)  
   * Thomas l'imposteur  
   * Villa Santo Sospir (La)  
   * Voix humaine (La)
@@ -232,11 +232,11 @@
   * Homme qui en savait trop (L')  
   * Jacquot de Nantes  
   * Kid (Le)  
-  * Kiki, la petite sorcière  
+  * Kiki la petite sorcière  
   * Linda veut du poulet !  
   * Ma vache et moi  
   * Microcosmos  
-  * Petite vendeuse de soleil (La)  
+  * Petite Vendeuse de Soleil (La)  
   * Porco Rosso
 
 ## Mexico maleficarum (13)
