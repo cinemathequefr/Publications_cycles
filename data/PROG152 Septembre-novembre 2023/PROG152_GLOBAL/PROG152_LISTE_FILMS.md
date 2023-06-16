@@ -23,7 +23,7 @@
   * Nova Dubai  
   * Portraits fantômes  
   * Roi David (Le)  
-  * Soleil dort (Le)  
+  * soleil dort (Le)  
   * Tinikling  
   * Trois nuits par semaine  
   * Trois tristes tigres
