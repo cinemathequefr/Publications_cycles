@@ -193,7 +193,7 @@
 ## Jerry Lewis (16)
 
   * Au boulot, Jerry !  
-  * Clown (The)  
+  * Clown (Der)  
   * Come Back Little Shiksa  
   * Dingue du palace (Le)  
   * Fairfax Avenue  
@@ -254,6 +254,13 @@
   * Proies du vampire (Les)  
   * Vampiro sangriento (El)  
   * Veneno para las hadas
+
+## Parlons cinéma avec David Perrault (4)
+
+  * Bellissima  
+  * Candyman  
+  * Jackie Brown  
+  * Orgissimo = La Vallée des plaisirs = La Grande Trique = La Vallée des débauches
 
 ## Pascal Thomas (21)
 
