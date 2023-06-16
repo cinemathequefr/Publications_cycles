@@ -192,8 +192,8 @@
 
 ## Jerry Lewis (16)
 
-  * Au boulot, Jerry  
-  * Clown (Der)  
+  * Au boulot, Jerry !  
+  * Clown (The)  
   * Come Back Little Shiksa  
   * Dingue du palace (Le)  
   * Fairfax Avenue  
@@ -206,7 +206,7 @@
   * Tombeur de ces dames (Le)  
   * Tontons farceurs (Les)  
   * Trois sur un sofa  
-  * Ya ya mon général  
+  * Ya, ya, mon général !  
   * Zinzin d'Hollywood (Le)
 
 ## Kim Jee-woon (11)
