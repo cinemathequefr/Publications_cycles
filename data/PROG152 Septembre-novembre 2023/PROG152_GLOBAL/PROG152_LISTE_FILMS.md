@@ -379,10 +379,11 @@
   * Wild Girl  
   * Women of All Nations
 
-## Séances spéciales (4)
+## Séances spéciales (5)
 
   * Film annonce du film qui n'existera jamais : « Drôles de Guerres »  
   * Godard par Godard  
+  * Maternelle (La)  
   * Salvador Allende  
   * Septembre chilien
 
