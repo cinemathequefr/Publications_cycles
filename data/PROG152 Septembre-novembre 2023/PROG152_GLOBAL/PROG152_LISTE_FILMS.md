@@ -149,17 +149,14 @@
   * Paris mange son pain  
   * Voyage surprise
 
-## Hommage à Jean-Luc Godard (9)
+## Hommage à Jean-Luc Godard (6)
 
-  * Histoire(s) du cinéma, chapitre 1a : Toutes les histoires  
-  * Histoire(s) du cinéma, chapitre 1b : Une histoire seule  
   * Histoire(s) du cinéma, chapitre 2a : Seul le cinéma  
   * Histoire(s) du cinéma, chapitre 2b : Fatale beauté  
   * Histoire(s) du cinéma, chapitre 3a : La Monnaie de l'absolu  
   * Histoire(s) du cinéma, chapitre 3b : Une vague nouvelle  
   * Histoire(s) du cinéma, chapitre 4a : Le Contrôle de l'univers  
-  * Histoire(s) du cinéma, chapitre 4b : Les Signes parmi nous  
-  * Old Place (The)
+  * Histoire(s) du cinéma, chapitre 4b : Les Signes parmi nous
 
 ## Jean Cocteau (26)
 
@@ -264,7 +261,7 @@
 
 ## Pascal Thomas (21)
 
-  * À cause des filles.. ?  
+  * À cause des filles..?  
   * Associés contre le crime  
   * Celles qu'on n'a pas eues  
   * Chaud Lapin (Le)  
