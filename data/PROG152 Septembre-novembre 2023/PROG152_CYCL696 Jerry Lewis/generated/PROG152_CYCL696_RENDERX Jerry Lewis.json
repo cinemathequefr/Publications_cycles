@@ -5,7 +5,7 @@
   ],
   "sousCycles": [
     {
-      "tri": 1,
+      "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
         {
@@ -69,7 +69,7 @@
           ]
         },
         {
-          "idFilm": 154494,
+          "idEvenement": 28651,
           "content": [
             {
               "idFilm": 154494,
@@ -86,20 +86,42 @@
                 "Patti Lewis",
                 "Janet Leigh"
               ],
-              "miniTexte": "Inversant l'intrigue de _Reviens petite Sheba_, Dean Martin reprend le rôle de Burt Lancaster, dans le rôle d'un chirurgien alcoolique qui doit constamment faire face à la tentation de la sobriété.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Fairfax Avenue",
-                    null
-                  ],
-                  [
-                    "Re-Inforcer",
-                    "The"
-                  ]
-                ]
-              ]
+              "miniTexte": "Inversant l'intrigue de _Reviens petite Sheba_, Dean Martin reprend le rôle de Burt Lancaster, dans le rôle d'un chirurgien alcoolique qui doit constamment faire face à la tentation de la sobriété."
+            },
+            {
+              "idFilm": 154493,
+              "ordre": 2,
+              "titre": "Fairfax Avenue",
+              "realisateurs": "Jerry Lewis",
+              "pays": "États-Unis",
+              "annee": 1951,
+              "duree": 30,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Janet Leigh",
+                "Tony Curtis",
+                "Dino Crocetti"
+              ],
+              "miniTexte": "Janet Leigh, Tony Curtis et Dean Martin s'amusent à parodier _Sunset Boulevard_."
+            },
+            {
+              "idFilm": 154492,
+              "ordre": 3,
+              "titre": "Re-Inforcer",
+              "art": "The",
+              "realisateurs": "Jerry Lewis",
+              "pays": "États-Unis",
+              "annee": 1951,
+              "duree": 45,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Tony Curtis",
+                "Janet Leigh",
+                "Mona Freeman"
+              ],
+              "miniTexte": "L'organisation criminelle de Joe Lasagna (Dean Martin) se voit menacée par la nouvelle garde et son chef (Tony Curtis). Pastiche d'Humphrey Bogart dans _La Femme à abattre_."
             }
           ],
           "seances": [
@@ -176,49 +198,6 @@
               "typeAssoc": 118,
               "dateHeure": "2023-11-23T19:00:00",
               "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 154493,
-          "content": [
-            {
-              "idFilm": 154493,
-              "ordre": 2,
-              "titre": "Fairfax Avenue",
-              "realisateurs": "Jerry Lewis",
-              "pays": "États-Unis",
-              "annee": 1951,
-              "duree": 30,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Janet Leigh",
-                "Tony Curtis",
-                "Dino Crocetti"
-              ],
-              "miniTexte": "Janet Leigh, Tony Curtis et Dean Martin s'amusent à parodier _Sunset Boulevard_.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Come Back Little Shiksa",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Re-Inforcer",
-                    "The"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104891,
-              "dateHeure": "2023-11-18T20:00:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -388,49 +367,6 @@
           ]
         },
         {
-          "idFilm": 154492,
-          "content": [
-            {
-              "idFilm": 154492,
-              "ordre": 3,
-              "titre": "Re-Inforcer",
-              "art": "The",
-              "realisateurs": "Jerry Lewis",
-              "pays": "États-Unis",
-              "annee": 1951,
-              "duree": 45,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Tony Curtis",
-                "Janet Leigh",
-                "Mona Freeman"
-              ],
-              "miniTexte": "L'organisation criminelle de Joe Lasagna (Dean Martin) se voit menacée par la nouvelle garde et son chef (Tony Curtis). Pastiche d'Humphrey Bogart dans _La Femme à abattre_.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Come Back Little Shiksa",
-                    null
-                  ],
-                  [
-                    "Fairfax Avenue",
-                    null
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104891,
-              "dateHeure": "2023-11-18T20:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "groupe": [
             {
               "idFilm": 53748,
@@ -494,9 +430,9 @@
                   "realisateurs": "Jerry Lewis",
                   "pays": "États-Unis",
                   "annee": 1961,
-                  "duree": 110,
-                  "version": "",
-                  "format": "35 mm",
+                  "duree": 106,
+                  "version": "VOSTF",
+                  "format": "DCP",
                   "generique": [
                     "Jerry Lewis",
                     "Helen Traubel",
@@ -506,22 +442,7 @@
                   "miniTexte": "Grandiose, musical, onirique et coloré, le deuxième film de Jerry Lewis a tout du show hollywoodien. Un décor hallucinant (une maison de poupées géante), des numéros sophistiqués, des répliques cultes (\"Geronimo !\") et des gags épatants. Nul besoin d'une intrigue subtile (un misogyne converti accepte sans le savoir une place de domestique dans une pension pour demoiselles), le comique destructeur de Jerry mis en scène dans une énumération de saynètes déjantées, suffit à plonger le spectateur au cœur d'un virtuose ballet graphique. La caméra est mobile, libre d'emprunter les couloirs, les escaliers et de traverser toutes les portes, alors tout devient possible, comme transformer le désordre et la puérilité en un chef-d'œuvre du burlesque."
                 }
               ],
-              "seances": [
-                {
-                  "idSeance": 104958,
-                  "dateHeure": "2023-11-15T20:30:00",
-                  "idSalle": "GF",
-                  "idSeanceAssoc": 104595,
-                  "mentionAssoc": "Film seul"
-                },
-                {
-                  "idSeance": 104595,
-                  "typeAssoc": 118,
-                  "dateHeure": "2023-11-18T14:30:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film + dialogue"
-                }
-              ]
+              "seances": []
             },
             {
               "idEvenement": 28600,
@@ -539,10 +460,42 @@
                   "typeAssoc": 118,
                   "dateHeure": "2023-11-18T14:30:00",
                   "idSalle": "HL",
-                  "mention": "Séance suivie d'une discussion avec Pascale Bodet et Bernard Benoliel",
-                  "mentionAssoc": "Film + dialogue"
+                  "mention": "Séance suivie d'une discussion avec Pascale Bodet et Bernard Benoliel"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "idFilm": 45090,
+          "content": [
+            {
+              "idFilm": 45090,
+              "ordre": 1,
+              "titre": "Tombeur de ces dames",
+              "art": "Le",
+              "titreVo": "Ladies Man",
+              "artVo": "The",
+              "realisateurs": "Jerry Lewis",
+              "pays": "États-Unis",
+              "annee": 1961,
+              "duree": 110,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Jerry Lewis",
+                "Helen Traubel",
+                "Kathleen Freeman"
+              ],
+              "isFocus": true,
+              "miniTexte": "Grandiose, musical, onirique et coloré, le deuxième film de Jerry Lewis a tout du show hollywoodien. Un décor hallucinant (une maison de poupées géante), des numéros sophistiqués, des répliques cultes (\"Geronimo !\") et des gags épatants. Nul besoin d'une intrigue subtile (un misogyne converti accepte sans le savoir une place de domestique dans une pension pour demoiselles), le comique destructeur de Jerry mis en scène dans une énumération de saynètes déjantées, suffit à plonger le spectateur au cœur d'un virtuose ballet graphique. La caméra est mobile, libre d'emprunter les couloirs, les escaliers et de traverser toutes les portes, alors tout devient possible, comme transformer le désordre et la puérilité en un chef-d'œuvre du burlesque."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104958,
+              "dateHeure": "2023-11-15T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
