@@ -98,7 +98,7 @@
   * Ennui (L')  
   * Fête de famille  
   * Feux rouges  
-  * Making of  
+  * Making Of  
   * Prière (La)  
   * Procès Goldman (Le)  
   * Regrets (Les)  
@@ -239,7 +239,7 @@
 ## Mexico maleficarum (13)
 
   * Alucarda, la hija de las tinieblas  
-  * Amantes del Señor de la Noche (Las)  
+  * Amantes del señor de la noche (Las)  
   * Baron de la terreur (Le)  
   * Invasión de los vampiros (La)  
   * La Bruja  
@@ -259,7 +259,7 @@
   * Jackie Brown  
   * Orgissimo = La Vallée des plaisirs = La Grande Trique = La Vallée des débauches
 
-## Pascal Thomas (21)
+## Pascal Thomas (22)
 
   * À cause des filles..?  
   * Associés contre le crime  
@@ -281,6 +281,7 @@
   * Surprise du chef (La)  
   * Un oursin dans la poche  
   * Valentin Valentin  
+  * Voyage en pyjama (Le)  
   * Zozos (Les)
 
 ## Raoul Walsh (82)

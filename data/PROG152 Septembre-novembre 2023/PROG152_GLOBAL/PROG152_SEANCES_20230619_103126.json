@@ -3313,29 +3313,6 @@
     "hashEvenement": "f154462f154463"
   },
   {
-    "idSeance": 104652,
-    "idEvenement": 28845,
-    "dateHeure": "2023-10-02T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Pascal Thomas",
-        "Les films"
-      ]
-    ],
-    "mention": "Avant-première",
-    "items": [
-      {
-        "idFilm": 154502,
-        "titre": "Voyage en pyjama",
-        "art": "Le",
-        "realisateurs": "Pascal Thomas",
-        "annee": 2023
-      }
-    ],
-    "hashEvenement": "f154502"
-  },
-  {
     "idSeance": 104556,
     "idEvenement": 28498,
     "dateHeure": "2023-10-02T20:30:00",
@@ -3625,7 +3602,7 @@
     "items": [
       {
         "idFilm": 154253,
-        "titre": "Making Of",
+        "titre": "Making of",
         "realisateurs": "Cédric Kahn",
         "annee": 2022,
         "format": "DCP"
@@ -4601,7 +4578,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Guillaume Orignac",
     "items": [
       {
         "idFilm": 111965,
@@ -5993,7 +5969,7 @@
     "items": [
       {
         "idFilm": 154428,
-        "titre": "Amantes del señor de la noche",
+        "titre": "Amantes del Señor de la Noche",
         "art": "Las",
         "realisateurs": "Isela Vega",
         "annee": 1983,
@@ -8030,8 +8006,8 @@
     "hashEvenement": "f46807"
   },
   {
-    "idSeance": 104911,
-    "idEvenement": 28665,
+    "idSeance": 104907,
+    "idEvenement": 28660,
     "dateHeure": "2023-11-26T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -8042,14 +8018,17 @@
     ],
     "items": [
       {
-        "idFilm": 33033,
-        "titre": "Cœurs du monde",
+        "idFilm": 32990,
+        "titre": "Lys brisé",
+        "art": "Le",
         "realisateurs": "D.W. Griffith",
-        "annee": 1918,
-        "duree": 117
+        "annee": 1919,
+        "duree": 90,
+        "version": "INT. ANG.",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f33033"
+    "hashEvenement": "f32990"
   },
   {
     "idSeance": 104691,
@@ -8160,9 +8139,9 @@
     "hashEvenement": "f52042f50500f50548"
   },
   {
-    "idSeance": 104907,
-    "idEvenement": 28660,
-    "dateHeure": "2023-11-26T20:00:00",
+    "idSeance": 104911,
+    "idEvenement": 28665,
+    "dateHeure": "2023-11-26T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -8172,16 +8151,13 @@
     ],
     "items": [
       {
-        "idFilm": 32990,
-        "titre": "Lys brisé",
-        "art": "Le",
+        "idFilm": 33033,
+        "titre": "Cœurs du monde",
         "realisateurs": "D.W. Griffith",
-        "annee": 1919,
-        "duree": 90,
-        "version": "INT. ANG.",
-        "format": "DCP"
+        "annee": 1918,
+        "duree": 117
       }
     ],
-    "hashEvenement": "f32990"
+    "hashEvenement": "f33033"
   }
 ]
