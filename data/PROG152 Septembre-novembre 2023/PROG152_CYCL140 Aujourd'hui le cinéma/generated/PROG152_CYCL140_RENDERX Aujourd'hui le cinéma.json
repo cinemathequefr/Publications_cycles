@@ -239,11 +239,23 @@
       "titreSousCycle": "Zoel Aeschbacher",
       "items": [
         {
-          "idEvenement": 28529,
+          "idEvenement": 28919,
           "content": [
             {
-              "idFilm": 154462,
+              "idFilm": 154527,
               "ordre": 1,
+              "titre": "Misérables",
+              "art": "Les",
+              "realisateurs": "Ladj Ly",
+              "pays": "France",
+              "annee": 2017,
+              "duree": 16,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 154462,
+              "ordre": 2,
               "titre": "Bonobo",
               "realisateurs": "Zoel Aeschbacher",
               "pays": "France-Suisse",
@@ -254,7 +266,7 @@
             },
             {
               "idFilm": 154463,
-              "ordre": 2,
+              "ordre": 3,
               "titre": "Fairplay",
               "realisateurs": "Zoel Aeschbacher",
               "pays": "France-Suisse",
@@ -419,6 +431,90 @@
               "dateHeure": "2023-11-06T19:00:00",
               "idSalle": "JE",
               "mention": "Séance suivie d'une discussion avec Florent Gouëlou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Nicolas Giuliani",
+      "items": [
+        {
+          "idEvenement": 28533,
+          "content": [
+            {
+              "idFilm": 154467,
+              "ordre": 1,
+              "titre": "Envoûtement",
+              "art": "L'",
+              "realisateurs": "Nicolas Giuliani",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 47,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Manon Carpentier",
+                "Guillaume Drouadaine",
+                "Élise Lhomeau"
+              ]
+            },
+            {
+              "idFilm": 65226,
+              "ordre": 2,
+              "titre": "Petite Vendeuse de Soleil",
+              "art": "La",
+              "realisateurs": "Djibril Diop Mambéty",
+              "pays": "Sénégal-Suisse-France",
+              "annee": 1998,
+              "duree": 45,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "ageMinimal": 8,
+              "generique": [
+                "Lissa Baléra",
+                "Taörou M'Baye",
+                "Oumou Samb"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105041,
+              "dateHeure": "2023-11-13T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Nicolas Giuliani"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Carte blanche à la revue Blink Blank",
+      "items": [
+        {
+          "idFilm": 154526,
+          "content": [
+            {
+              "idFilm": 154526,
+              "ordre": 1,
+              "titre": "Mars express",
+              "realisateurs": "Jérémie Périn",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 85,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105044,
+              "dateHeure": "2023-11-20T20:00:00",
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Jérémie Périn"
             }
           ]
         }

@@ -5,103 +5,167 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 43724,
-          "content": [
+          "groupe": [
             {
               "idFilm": 43724,
-              "ordre": 1,
-              "titre": "Bellissima",
-              "realisateurs": "Luchino Visconti",
-              "pays": "Italie",
-              "annee": 1951,
-              "generique": [
-                "Anna Magnani",
-                "Walter Chiari"
+              "content": [
+                {
+                  "idFilm": 43724,
+                  "ordre": 1,
+                  "titre": "Bellissima",
+                  "realisateurs": "Luchino Visconti",
+                  "pays": "Italie",
+                  "annee": 1951,
+                  "generique": [
+                    "Anna Magnani",
+                    "Walter Chiari"
+                  ],
+                  "miniTexte": "« Une mère tente à tout prix de décrocher un rôle à Cinecittà pour sa fille de 7 ans. Visconti réfléchit à son art, tiraillé entre sa volonté de filmer l'Italie prolétarienne telle qu'elle est et son attrait grandissant pour tous les artifices du spectacle. Anna Magnani devient alors un double du cinaste et livre un bouleversant portrait de femme du peuple, prise au piège de son rêve de cinéma. » (David Perrault)"
+                }
               ],
-              "miniTexte": "« Une mère tente à tout prix de décrocher un rôle à Cinecittà pour sa fille de 7 ans. Visconti réfléchit à son art, tiraillé entre sa volonté de filmer l'Italie prolétarienne telle qu'elle est et son attrait grandissant pour tous les artifices du spectacle. Anna Magnani devient alors un double du cinaste et livre un bouleversant portrait de femme du peuple, prise au piège de son rêve de cinéma. » (David Perrault)"
-            }
-          ],
-          "seances": [
+              "seances": []
+            },
             {
-              "idSeance": 105029,
-              "typeAssoc": 118,
-              "dateHeure": "2023-09-14T19:00:00",
-              "idSalle": "GF"
+              "idEvenement": 28654,
+              "content": [
+                {
+                  "idConf": 28654,
+                  "ordre": 2,
+                  "titre": "« Parlons cinéma avec... David Perrault » après Bellissima",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 105029,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-14T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
         {
-          "idFilm": 35197,
-          "content": [
+          "groupe": [
             {
               "idFilm": 35197,
-              "ordre": 1,
-              "titre": "Orgissimo = La Vallée des plaisirs = La Grande Trique = La Vallée des débauches",
-              "titreVo": "Beyond the Valley of the Dolls = Hollywood Vixens",
-              "realisateurs": "Russ Meyer",
-              "pays": "États-Unis",
-              "annee": 1969,
-              "generique": [
-                "Haji",
-                "Pam Grier",
-                "Russ Meyer"
-              ]
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 35197,
+                  "ordre": 1,
+                  "titre": "Orgissimo = La Vallée des plaisirs = La Grande Trique = La Vallée des débauches",
+                  "titreVo": "Beyond the Valley of the Dolls = Hollywood Vixens",
+                  "realisateurs": "Russ Meyer",
+                  "pays": "États-Unis",
+                  "annee": 1969,
+                  "generique": [
+                    "Haji",
+                    "Pam Grier",
+                    "Russ Meyer"
+                  ]
+                }
+              ],
+              "seances": []
+            },
             {
-              "idSeance": 105025,
-              "typeAssoc": 118,
-              "dateHeure": "2023-09-21T19:00:00",
-              "idSalle": "GF"
+              "idEvenement": 28903,
+              "content": [
+                {
+                  "idConf": 28903,
+                  "ordre": 2,
+                  "titre": "« Parlons cinéma avec... David Perrault » après La vallée des plaisirs",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 105025,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-21T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
         {
-          "idFilm": 29187,
-          "content": [
+          "groupe": [
             {
               "idFilm": 29187,
-              "ordre": 1,
-              "titre": "Jackie Brown",
-              "realisateurs": "Quentin Tarantino",
-              "pays": "États-Unis",
-              "annee": 1997,
-              "generique": [
-                "Pam Grier",
-                "Samuel L. Jackson",
-                "Robert Forster"
-              ]
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 29187,
+                  "ordre": 1,
+                  "titre": "Jackie Brown",
+                  "realisateurs": "Quentin Tarantino",
+                  "pays": "États-Unis",
+                  "annee": 1997,
+                  "generique": [
+                    "Pam Grier",
+                    "Samuel L. Jackson",
+                    "Robert Forster"
+                  ]
+                }
+              ],
+              "seances": []
+            },
             {
-              "idSeance": 105026,
-              "typeAssoc": 118,
-              "dateHeure": "2023-09-28T19:00:00",
-              "idSalle": "HL"
+              "idEvenement": 28904,
+              "content": [
+                {
+                  "idConf": 28904,
+                  "ordre": 2,
+                  "titre": "« Parlons cinéma avec... David Perrault » après Jackie Brown",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 105026,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-09-28T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
         {
-          "idFilm": 36459,
-          "content": [
+          "groupe": [
             {
               "idFilm": 36459,
-              "ordre": 1,
-              "titre": "Candyman",
-              "realisateurs": "Bernard Rose",
-              "pays": "États-Unis",
-              "annee": 1991,
-              "adaptation": "D'après la nouvelle _The Forbidden_ de Clive Barker."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 36459,
+                  "ordre": 1,
+                  "titre": "Candyman",
+                  "realisateurs": "Bernard Rose",
+                  "pays": "États-Unis",
+                  "annee": 1991,
+                  "adaptation": "D'après la nouvelle _The Forbidden_ de Clive Barker."
+                }
+              ],
+              "seances": []
+            },
             {
-              "idSeance": 105027,
-              "typeAssoc": 118,
-              "dateHeure": "2023-10-05T19:00:00",
-              "idSalle": "GF"
+              "idEvenement": 28905,
+              "content": [
+                {
+                  "idConf": 28905,
+                  "ordre": 2,
+                  "titre": "« Parlons cinéma avec... David Perrault » après Candyman",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 105027,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-10-05T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         }

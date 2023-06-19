@@ -160,7 +160,7 @@
   {
     "idCategorie": 3069,
     "typeEvenement": 13,
-    "idEvenement": 28529,
+    "idEvenement": 28919,
     "idSeance": 104980,
     "dateHeure": "2023-10-02T19:00:00",
     "idSalle": [
@@ -170,8 +170,17 @@
     "dureeSeance": 60,
     "items": [
       {
-        "idFilm": 154462,
+        "idFilm": 154527,
         "ordre": 1,
+        "idSeance": 104980,
+        "idCopie": 26352,
+        "duree": 16,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154462,
+        "ordre": 2,
         "idSeance": 104980,
         "idCopie": 26201,
         "duree": 18,
@@ -180,7 +189,7 @@
       },
       {
         "idFilm": 154463,
-        "ordre": 2,
+        "ordre": 3,
         "idSeance": 104980,
         "idCopie": 26202,
         "duree": 17,
@@ -298,7 +307,61 @@
     "mention": "Séance suivie d'une discussion avec Florent Gouëlou"
   },
   {
-    "mention": "Séance présentée par Jean-Christophe Berjon"
+    "idCategorie": 3073,
+    "typeEvenement": 13,
+    "idEvenement": 28533,
+    "idSeance": 105041,
+    "dateHeure": "2023-11-13T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154467,
+        "ordre": 1,
+        "idSeance": 105041,
+        "idCopie": 26203,
+        "duree": 47,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 65226,
+        "ordre": 2,
+        "idSeance": 105041,
+        "idCopie": 10378,
+        "duree": 45,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Nicolas Giuliani"
+  },
+  {
+    "idCategorie": 3133,
+    "typeEvenement": 13,
+    "idEvenement": 28918,
+    "idSeance": 105044,
+    "dateHeure": "2023-11-20T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154526,
+        "ordre": 1,
+        "idSeance": 105044,
+        "idCopie": 26351,
+        "duree": 85,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Jérémie Périn"
   },
   {
     "mention": "Séance présentée par Alex Masson"

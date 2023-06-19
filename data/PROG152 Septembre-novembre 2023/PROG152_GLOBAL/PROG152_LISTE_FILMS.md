@@ -5,7 +5,7 @@
   * Brad Pitt – La Revanche d'un Blond  
   * Jim Carrey, l'Amérique démasquée
 
-## Aujourd'hui le cinéma (20)
+## Aujourd'hui le cinéma (24)
 
   * Alberi  
   * Bambino  
@@ -14,13 +14,17 @@
   * Classified people  
   * Cœur Brisé  
   * Cuidados que se tem com o cuidado que os outros devem ter consigo mesmos (Os)  
+  * Envoûtement (L')  
   * Fairplay  
   * J'ai vu le visage du diable  
   * Ma petite reine  
   * Margarethe 89  
+  * Mars express  
   * Martin  
   * Mes indésirables  
+  * Misérables (Les)  
   * Nova Dubai  
+  * Petite Vendeuse de Soleil (La)  
   * Portraits fantômes  
   * Roi David (Le)  
   * soleil dort (Le)  
@@ -89,6 +93,10 @@
   * Six femmes pour l'assassin  
   * Zoolander
 
+## Conservatoire des techniques cinématographiques (1)
+
+  * Tremblement de terre
+
 ## Cédric Kahn (15)
 
   * Avion (L')  
@@ -98,7 +106,7 @@
   * Ennui (L')  
   * Fête de famille  
   * Feux rouges  
-  * Making Of  
+  * Making of  
   * Prière (La)  
   * Procès Goldman (Le)  
   * Regrets (Les)  
@@ -149,8 +157,10 @@
   * Paris mange son pain  
   * Voyage surprise
 
-## Hommage à Jean-Luc Godard (6)
+## Hommage à Jean-Luc Godard (8)
 
+  * Histoire(s) du cinéma, chapitre 1a : Toutes les histoires  
+  * Histoire(s) du cinéma, chapitre 1b : Une histoire seule  
   * Histoire(s) du cinéma, chapitre 2a : Seul le cinéma  
   * Histoire(s) du cinéma, chapitre 2b : Fatale beauté  
   * Histoire(s) du cinéma, chapitre 3a : La Monnaie de l'absolu  
@@ -241,8 +251,8 @@
   * Alucarda, la hija de las tinieblas  
   * Amantes del señor de la noche (Las)  
   * Baron de la terreur (Le)  
+  * Bruja (La)  
   * Invasión de los vampiros (La)  
-  * La Bruja  
   * Larmes de la malédiction (Les)  
   * Miroir de la sorcière (Le)  
   * Mundo de los muertos (El)  
@@ -369,13 +379,12 @@
   * Wild Girl  
   * Women of All Nations
 
-## Séances spéciales (5)
+## Séances spéciales (4)
 
   * Film annonce du film qui n'existera jamais : « Drôles de Guerres »  
   * Godard par Godard  
   * Salvador Allende  
-  * Septembre chilien  
-  * Tremblement de terre
+  * Septembre chilien
 
 ## Viva Varda ! (9)
 

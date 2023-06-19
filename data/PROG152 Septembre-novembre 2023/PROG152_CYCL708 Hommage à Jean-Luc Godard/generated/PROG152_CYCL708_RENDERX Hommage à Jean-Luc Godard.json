@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2023-09-09T19:30:00",
+    "2023-09-09T17:30:00",
     "2023-09-10T17:00:00"
   ],
   "sousCycles": [
@@ -8,6 +8,40 @@
       "tri": 4,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idEvenement": 28892,
+          "content": [
+            {
+              "idFilm": 74777,
+              "ordre": 1,
+              "titre": "Histoire(s) du cinéma, chapitre 1a : Toutes les histoires",
+              "realisateurs": "Jean-Luc Godard",
+              "pays": "France",
+              "annee": 1989,
+              "duree": 51,
+              "version": "",
+              "format": "Numérique"
+            },
+            {
+              "idFilm": 53266,
+              "ordre": 2,
+              "titre": "Histoire(s) du cinéma, chapitre 1b : Une histoire seule",
+              "realisateurs": "Jean-Luc Godard",
+              "pays": "France",
+              "annee": 1989,
+              "duree": 42,
+              "version": "",
+              "format": "Numérique"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105043,
+              "dateHeure": "2023-09-09T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idEvenement": 28894,
           "content": [
