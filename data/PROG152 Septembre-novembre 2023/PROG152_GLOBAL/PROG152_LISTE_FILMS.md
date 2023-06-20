@@ -184,7 +184,7 @@
   * Django Reinhardt  
   * Enfants terribles (Les)  
   * Éternel Retour (L')  
-  * Jean Cocteau s'adresse... à l'an 2000  
+  * Jean Cocteau s'adresse à l'an 2000  
   * Mystère d'Oberwald (Le)  
   * Orphée  
   * Pantomimes  
@@ -192,7 +192,7 @@
   * Princesse de Clèves (La)  
   * Ruy Blas  
   * Sang d'un poète (Le)  
-  * Testament d'Orphée ou ne me demandez pas pourquoi ! (Le)  
+  * Testament d'Orphée (Le)  
   * Thomas l'imposteur  
   * Villa Santo Sospir (La)  
   * Voix humaine (La)

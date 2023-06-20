@@ -349,6 +349,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Miquel Escudero Diéguez",
     "items": [
       {
         "idFilm": 43739,
@@ -472,6 +473,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Miquel Escudero Diéguez",
     "items": [
       {
         "idFilm": 43768,
@@ -544,6 +546,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Miquel Escudero Diéguez",
     "items": [
       {
         "idFilm": 43743,
@@ -814,6 +817,7 @@
         "L'autre Prévert"
       ]
     ],
+    "mention": "Séance présentée par Daniel Vogel et Joël Daire",
     "items": [
       {
         "idFilm": 154482,
@@ -911,6 +915,7 @@
         "L'autre Prévert"
       ]
     ],
+    "mention": "Séance présentée par Daniel Vogel et Joël Daire",
     "items": [
       {
         "idFilm": 50772,
@@ -1008,8 +1013,8 @@
     "hashEvenement": "f49481"
   },
   {
-    "idSeance": 105012,
-    "idEvenement": 20209,
+    "idSeance": 105043,
+    "idEvenement": 28892,
     "dateHeure": "2023-09-09T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -1088,8 +1093,8 @@
     "hashEvenement": "f36863"
   },
   {
-    "idSeance": 105013,
-    "idEvenement": 20191,
+    "idSeance": 105035,
+    "idEvenement": 28894,
     "dateHeure": "2023-09-09T19:30:00",
     "salle": "GF",
     "cycle": [
@@ -1100,32 +1105,39 @@
     ],
     "items": [
       {
-        "idFilm": 74772,
-        "titre": "Histoire(s) du cinéma, chapitre 4a : Le Contrôle de l'univers",
+        "idFilm": 74774,
+        "titre": "Histoire(s) du cinéma, chapitre 2a : Seul le cinéma",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 1989,
+        "duree": 26,
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 74770,
+        "titre": "Histoire(s) du cinéma, chapitre 2b : Fatale beauté",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 1989,
+        "duree": 28,
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 74771,
+        "titre": "Histoire(s) du cinéma, chapitre 3a : La Monnaie de l'absolu",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 1989,
+        "duree": 26,
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 74776,
+        "titre": "Histoire(s) du cinéma, chapitre 3b : Une vague nouvelle",
         "realisateurs": "Jean-Luc Godard",
         "annee": 1989,
         "duree": 27,
         "format": "Numérique"
-      },
-      {
-        "idFilm": 74773,
-        "titre": "Histoire(s) du cinéma, chapitre 4b : Les Signes parmi nous",
-        "realisateurs": "Jean-Luc Godard",
-        "annee": 1989,
-        "duree": 38,
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 94592,
-        "titre": "Old Place",
-        "art": "The",
-        "realisateurs": "Jean-Luc Godard, Anne-Marie Miéville",
-        "annee": 1998,
-        "duree": 47,
-        "format": "DCP"
       }
     ],
-    "hashEvenement": "f74772f74773f94592"
+    "hashEvenement": "f74774f74770f74771f74776"
   },
   {
     "idSeance": 104401,
@@ -1226,8 +1238,8 @@
     "hashEvenement": "f45140"
   },
   {
-    "idSeance": 105014,
-    "idEvenement": 20210,
+    "idSeance": 105036,
+    "idEvenement": 28888,
     "dateHeure": "2023-09-10T17:00:00",
     "salle": "GF",
     "cycle": [
@@ -1238,39 +1250,23 @@
     ],
     "items": [
       {
-        "idFilm": 74774,
-        "titre": "Histoire(s) du cinéma, chapitre 2a : Seul le cinéma",
-        "realisateurs": "Jean-Luc Godard",
-        "annee": 1989,
-        "duree": 26,
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 74770,
-        "titre": "Histoire(s) du cinéma, chapitre 2b : Fatale beauté",
-        "realisateurs": "Jean-Luc Godard",
-        "annee": 1989,
-        "duree": 28,
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 74771,
-        "titre": "Histoire(s) du cinéma, chapitre 3a : La Monnaie de l'absolu",
-        "realisateurs": "Jean-Luc Godard",
-        "annee": 1989,
-        "duree": 26,
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 74776,
-        "titre": "Histoire(s) du cinéma, chapitre 3b : Une vague nouvelle",
+        "idFilm": 74772,
+        "titre": "Histoire(s) du cinéma, chapitre 4a : Le Contrôle de l'univers",
         "realisateurs": "Jean-Luc Godard",
         "annee": 1989,
         "duree": 27,
         "format": "Numérique"
+      },
+      {
+        "idFilm": 74773,
+        "titre": "Histoire(s) du cinéma, chapitre 4b : Les Signes parmi nous",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 1989,
+        "duree": 38,
+        "format": "Numérique"
       }
     ],
-    "hashEvenement": "f74774f74770f74771f74776"
+    "hashEvenement": "f74772f74773"
   },
   {
     "idSeance": 104404,
@@ -1324,7 +1320,7 @@
   {
     "idSeance": 104405,
     "idEvenement": 28428,
-    "dateHeure": "2023-09-10T19:15:00",
+    "dateHeure": "2023-09-10T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1594,6 +1590,10 @@
       [
         "Parlons cinéma avec David Perrault",
         "Les films"
+      ],
+      [
+        "Parlons cinéma avec David Perrault",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1602,9 +1602,15 @@
         "titre": "Bellissima",
         "realisateurs": "Luchino Visconti",
         "annee": 1951
+      },
+      {
+        "idConf": 28654,
+        "titre": "Dialogue avec David Perrault",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f43724"
+    "hashEvenement": "f43724c28654"
   },
   {
     "idSeance": 104418,
@@ -1678,6 +1684,30 @@
       }
     ],
     "hashEvenement": "f134589"
+  },
+  {
+    "idSeance": 105042,
+    "idEvenement": 28917,
+    "dateHeure": "2023-09-15T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Journée du matrimoine"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46648,
+        "titre": "Maternelle",
+        "art": "La",
+        "realisateurs": "Jean Benoit-Lévy, Marie Epstein",
+        "annee": 1933,
+        "duree": 98,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f46648"
   },
   {
     "idSeance": 104420,
@@ -2239,6 +2269,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Thomas Dominique",
     "items": [
       {
         "idFilm": 111101,
@@ -2259,6 +2290,10 @@
       [
         "Parlons cinéma avec David Perrault",
         "Les films"
+      ],
+      [
+        "Parlons cinéma avec David Perrault",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2267,9 +2302,15 @@
         "titre": "Orgissimo = La Vallée des plaisirs = La Grande Trique = La Vallée des débauches",
         "realisateurs": "Russ Meyer",
         "annee": 1969
+      },
+      {
+        "idConf": 28903,
+        "titre": "Dialogue avec David Perrault",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f35197"
+    "hashEvenement": "f35197c28903"
   },
   {
     "idSeance": 104474,
@@ -2349,6 +2390,10 @@
     "salle": "GF",
     "cycle": [
       [
+        "Cinéma bis",
+        "Cinéma bis et mode"
+      ],
+      [
         "Cinéma et mode, 20 indispensables",
         "Les films"
       ]
@@ -2397,6 +2442,10 @@
     "dateHeure": "2023-09-22T21:15:00",
     "salle": "GF",
     "cycle": [
+      [
+        "Cinéma bis",
+        "Cinéma bis et mode"
+      ],
       [
         "Cinéma et mode, 20 indispensables",
         "Les films"
@@ -2498,6 +2547,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Caroline Ducey",
     "items": [
       {
         "idFilm": 64238,
@@ -2828,6 +2878,10 @@
       [
         "Parlons cinéma avec David Perrault",
         "Les films"
+      ],
+      [
+        "Parlons cinéma avec David Perrault",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2836,9 +2890,15 @@
         "titre": "Jackie Brown",
         "realisateurs": "Quentin Tarantino",
         "annee": 1997
+      },
+      {
+        "idConf": 28904,
+        "titre": "Dialogue avec David Perrault",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f29187"
+    "hashEvenement": "f29187c28904"
   },
   {
     "idSeance": 105009,
@@ -3063,6 +3123,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Sophie Guillemin",
     "items": [
       {
         "idFilm": 63979,
@@ -3321,7 +3382,7 @@
   },
   {
     "idSeance": 104980,
-    "idEvenement": 28529,
+    "idEvenement": 28919,
     "dateHeure": "2023-10-02T19:00:00",
     "salle": "JE",
     "cycle": [
@@ -3332,6 +3393,15 @@
     ],
     "mention": "Séance suivie d'une discussion avec Zoel Aeschbacher",
     "items": [
+      {
+        "idFilm": 154527,
+        "titre": "Misérables",
+        "art": "Les",
+        "realisateurs": "Ladj Ly",
+        "annee": 2017,
+        "duree": 16,
+        "format": "DCP"
+      },
       {
         "idFilm": 154462,
         "titre": "Bonobo",
@@ -3349,7 +3419,30 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f154462f154463"
+    "hashEvenement": "f154527f154462f154463"
+  },
+  {
+    "idSeance": 104652,
+    "idEvenement": 28845,
+    "dateHeure": "2023-10-02T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Pascal Thomas",
+        "Les films"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 154502,
+        "titre": "Voyage en pyjama",
+        "art": "Le",
+        "realisateurs": "Pascal Thomas",
+        "annee": 2023
+      }
+    ],
+    "hashEvenement": "f154502"
   },
   {
     "idSeance": 104556,
@@ -3581,6 +3674,10 @@
       [
         "Parlons cinéma avec David Perrault",
         "Les films"
+      ],
+      [
+        "Parlons cinéma avec David Perrault",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3589,9 +3686,15 @@
         "titre": "Candyman",
         "realisateurs": "Bernard Rose",
         "annee": 1991
+      },
+      {
+        "idConf": 28905,
+        "titre": "Dialogue avec David Perrault",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f36459"
+    "hashEvenement": "f36459c28905"
   },
   {
     "idSeance": 105021,
@@ -3616,7 +3719,7 @@
       },
       {
         "idFilm": 154477,
-        "titre": "Brad Pitt – La Revanche d'un Blond",
+        "titre": "Brad Pitt, la revanche d'un blond",
         "realisateurs": "Adrien Dénouette, Thibaut Sève",
         "annee": 2022,
         "duree": 52,
@@ -3708,6 +3811,7 @@
         "Muets italiens d'avant 1922"
       ]
     ],
+    "mention": "Séance présentée par Hervé Pichard",
     "items": [
       {
         "idFilm": 134729,
@@ -3747,14 +3851,14 @@
     "hashEvenement": "f134729f154479f154480f154481"
   },
   {
-    "idSeance": 104613,
-    "idEvenement": 28561,
+    "idSeance": 105039,
+    "idEvenement": 28916,
     "dateHeure": "2023-10-06T19:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Séances spéciales",
-        "Conservatoire des techniques cinématographiques"
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3781,6 +3885,7 @@
         "Muets italiens d'avant 1922"
       ]
     ],
+    "mention": "Séance présentée par Hervé Pichard",
     "items": [
       {
         "idFilm": 135109,
@@ -4181,58 +4286,9 @@
     "hashEvenement": "f32933"
   },
   {
-    "idSeance": 104765,
-    "idEvenement": 25657,
-    "dateHeure": "2023-10-11T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Pascal Thomas",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 102762,
-        "titre": "Heure zéro",
-        "art": "L'",
-        "realisateurs": "Pascal Thomas",
-        "annee": 2007,
-        "duree": 107,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f102762"
-  },
-  {
-    "idSeance": 104664,
-    "idEvenement": 26861,
-    "dateHeure": "2023-10-11T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Raoul Walsh",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 37758,
-        "titre": "Déchaînés",
-        "art": "Les",
-        "realisateurs": "Raoul Walsh",
-        "annee": 1959,
-        "duree": 93,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f37758"
-  },
-  {
     "idSeance": 104764,
     "idEvenement": 25656,
-    "dateHeure": "2023-10-11T19:15:00",
+    "dateHeure": "2023-10-11T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4262,9 +4318,58 @@
     "hashEvenement": "f100327f145831"
   },
   {
+    "idSeance": 104664,
+    "idEvenement": 26861,
+    "dateHeure": "2023-10-11T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Raoul Walsh",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 37758,
+        "titre": "Déchaînés",
+        "art": "Les",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1959,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f37758"
+  },
+  {
+    "idSeance": 104765,
+    "idEvenement": 25657,
+    "dateHeure": "2023-10-11T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Pascal Thomas",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 102762,
+        "titre": "Heure zéro",
+        "art": "L'",
+        "realisateurs": "Pascal Thomas",
+        "annee": 2007,
+        "duree": 107,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f102762"
+  },
+  {
     "idSeance": 104665,
     "idEvenement": 26926,
-    "dateHeure": "2023-10-11T20:00:00",
+    "dateHeure": "2023-10-11T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4429,7 +4534,7 @@
   {
     "idSeance": 104615,
     "idEvenement": 28548,
-    "dateHeure": "2023-10-13T20:30:00",
+    "dateHeure": "2023-10-13T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4454,7 +4559,7 @@
   {
     "idSeance": 104614,
     "idEvenement": 28548,
-    "dateHeure": "2023-10-13T20:30:00",
+    "dateHeure": "2023-10-13T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4479,7 +4584,7 @@
   {
     "idSeance": 104616,
     "idEvenement": 28548,
-    "dateHeure": "2023-10-13T20:30:00",
+    "dateHeure": "2023-10-13T19:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -4549,7 +4654,7 @@
     "items": [
       {
         "idFilm": 140885,
-        "titre": "À cause des filles.. ?",
+        "titre": "À cause des filles..?",
         "realisateurs": "Pascal Thomas",
         "annee": 2019,
         "duree": 96,
@@ -4617,6 +4722,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Guillaume Orignac",
     "items": [
       {
         "idFilm": 111965,
@@ -5703,7 +5809,8 @@
     "items": [
       {
         "idFilm": 154473,
-        "titre": "La Bruja",
+        "titre": "Bruja",
+        "art": "La",
         "realisateurs": "Chano Urueta",
         "annee": 1954,
         "duree": 90,
@@ -6008,7 +6115,7 @@
     "items": [
       {
         "idFilm": 154428,
-        "titre": "Amantes del Señor de la Noche",
+        "titre": "Amantes del señor de la noche",
         "art": "Las",
         "realisateurs": "Isela Vega",
         "annee": 1983,
@@ -6088,7 +6195,7 @@
         "realisateurs": "Chano Urueta",
         "annee": 1960,
         "duree": 75,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -6419,7 +6526,7 @@
         "idFilm": 154474,
         "titre": "Mundo de los muertos",
         "art": "El",
-        "realisateurs": "Gilberto Martinez Solares",
+        "realisateurs": "Gilberto Martínez Solares",
         "annee": 1970,
         "duree": 85,
         "version": "VOSTF",
@@ -6470,7 +6577,7 @@
         "realisateurs": "Juan López Moctezuma",
         "annee": 1978,
         "duree": 75,
-        "version": "VOSTF",
+        "version": "VASTF",
         "format": "DCP"
       }
     ],
@@ -7125,6 +7232,41 @@
     "hashEvenement": "f33732"
   },
   {
+    "idSeance": 105041,
+    "idEvenement": 28533,
+    "dateHeure": "2023-11-13T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Nicolas Giuliani"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Nicolas Giuliani",
+    "items": [
+      {
+        "idFilm": 154467,
+        "titre": "Envoûtement",
+        "art": "L'",
+        "realisateurs": "Nicolas Giuliani",
+        "annee": 2023,
+        "duree": 47,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 65226,
+        "titre": "Petite Vendeuse de Soleil",
+        "art": "La",
+        "realisateurs": "Djibril Diop Mambéty",
+        "annee": 1998,
+        "duree": 45,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f154467f65226"
+  },
+  {
     "idSeance": 104859,
     "idEvenement": 28648,
     "dateHeure": "2023-11-15T18:00:00",
@@ -7561,6 +7703,30 @@
       }
     ],
     "hashEvenement": "f42487"
+  },
+  {
+    "idSeance": 105044,
+    "idEvenement": 28918,
+    "dateHeure": "2023-11-20T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Carte blanche à la revue Blink Blank"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Jérémie Périn",
+    "items": [
+      {
+        "idFilm": 154526,
+        "titre": "Mars express",
+        "realisateurs": "Jérémie Périn",
+        "annee": 2023,
+        "duree": 85,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154526"
   },
   {
     "idSeance": 104690,
@@ -8045,8 +8211,8 @@
     "hashEvenement": "f46807"
   },
   {
-    "idSeance": 104907,
-    "idEvenement": 28660,
+    "idSeance": 104911,
+    "idEvenement": 28665,
     "dateHeure": "2023-11-26T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -8057,17 +8223,14 @@
     ],
     "items": [
       {
-        "idFilm": 32990,
-        "titre": "Lys brisé",
-        "art": "Le",
+        "idFilm": 33033,
+        "titre": "Cœurs du monde",
         "realisateurs": "D.W. Griffith",
-        "annee": 1919,
-        "duree": 90,
-        "version": "INT. ANG.",
-        "format": "DCP"
+        "annee": 1918,
+        "duree": 117
       }
     ],
-    "hashEvenement": "f32990"
+    "hashEvenement": "f33033"
   },
   {
     "idSeance": 104691,
@@ -8178,8 +8341,8 @@
     "hashEvenement": "f52042f50500f50548"
   },
   {
-    "idSeance": 104911,
-    "idEvenement": 28665,
+    "idSeance": 104907,
+    "idEvenement": 28660,
     "dateHeure": "2023-11-26T20:30:00",
     "salle": "HL",
     "cycle": [
@@ -8190,13 +8353,16 @@
     ],
     "items": [
       {
-        "idFilm": 33033,
-        "titre": "Cœurs du monde",
+        "idFilm": 32990,
+        "titre": "Lys brisé",
+        "art": "Le",
         "realisateurs": "D.W. Griffith",
-        "annee": 1918,
-        "duree": 117
+        "annee": 1919,
+        "duree": 90,
+        "version": "INT. ANG.",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f33033"
+    "hashEvenement": "f32990"
   }
 ]
