@@ -5,7 +5,7 @@
   ],
   "sousCycles": [
     {
-      "tri": 1,
+      "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
         {
@@ -71,9 +71,9 @@
                 {
                   "idConf": 28592,
                   "ordre": 2,
-                  "titre": "Film + Dialogue avec Jean-François Rauger et Murielle Joudet",
+                  "titre": "Dialogue avec Jean-François Rauger et Murielle Joudet",
                   "typeConference": "Dialogue",
-                  "miniTexte": "Klondike Annie est un dialogue à trois voix : Walsh, Mae West et le Code de censure qui, fraîchement instauré, tente de corseter l'actrice, créature surréelle qui a libéré la sexualité de tous ses fers le temps d'une poignée de films de contrebande. Ici, la décence est réclamée à tous les niveaux ; le génie de Mae West prend alors la voie de la rédemption. Mais entre les lignes, s'infiltre le contrepoison d'une vitalité et d'un amoralisme flamboyant, qu'aucune censure ne saurait étouffer très longtemps. Mercredi 13 septembre 20h HL"
+                  "miniTexte": "_Klondike Annie_ est un dialogue à trois voix : Walsh, Mae West et le code de censure qui, fraîchement instauré, tente de corseter l'actrice, créature surréelle qui a libéré la sexualité de tous ses fers le temps d'une poignée de films de contrebande. Ici, la décence est réclamée à tous les niveaux ; le génie de Mae West prend alors la voie de la rédemption. Mais, entre les lignes, s'infiltre le contrepoison d'une vitalité et d'un amoralisme flamboyant, qu'aucune censure ne saurait étouffer très longtemps. — Murielle Joudet, Jean-François Rauger"
                 }
               ],
               "seances": [
@@ -81,8 +81,7 @@
                   "idSeance": 104565,
                   "typeAssoc": 118,
                   "dateHeure": "2023-09-13T20:00:00",
-                  "idSalle": "HL",
-                  "mention": "Séance suivie d'une discussion avec Murielle Joudet et Jean-François Rauger"
+                  "idSalle": "HL"
                 }
               ]
             }
@@ -257,9 +256,9 @@
                 {
                   "idConf": 28588,
                   "ordre": 2,
-                  "titre": "Film + Dialogue avec Pierre Gabaston",
+                  "titre": "Dialogue avec Pierre Gabaston",
                   "typeConference": "Dialogue",
-                  "miniTexte": "Floride. 1840. « Wyatt, tu vas mourir ! Tu m'entends ? » Le chef Okala lui coupe la retraite. Wyatt n'a qu'une solution : franchir les marais des Everglades dont personne n'est ressorti vivant. Au milieu d'une nature inquiétante, venez faire l'épreuve du dilemme walshien. Pour vivre, vivre vraiment, faut-il mourir les armes à la main, ou lutter jusqu'à la mort tenant tête à un monde plein de bruit et de fureur ? Dimanche 17 septembre 14h30 HL"
+                  "miniTexte": "Floride, 1840. « Wyatt, tu vas mourir ! Tu m'entends ? » Le chef Okala lui coupe la retraite. Wyatt n'a qu'une solution : franchir les marais des Everglades dont personne n'est ressorti vivant. Au milieu d'une nature inquiétante, venez faire l'épreuve du dilemme walshien. Pour vivre, vivre vraiment, faut-il mourir les armes à la main, ou lutter jusqu'à la mort tenant tête à un monde plein de bruit et de fureur ? — Pierre Gabaston"
                 }
               ],
               "seances": [
@@ -799,7 +798,7 @@
           ]
         },
         {
-          "idFilm": 154409,
+          "idEvenement": 28260,
           "content": [
             {
               "idFilm": 154409,
@@ -811,20 +810,43 @@
               "duree": 3,
               "version": "STF",
               "format": "DCP",
-              "miniTexte": "Bande d'actualités filmée pendant la convention démocrate de 1924, la plus disputée de l'histoire des États-Unis : 16 jours, 103 tours de scrutin pour choisir le candidat du parti à la présidentielle.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Mystery of the Hindu Image",
-                    "The"
-                  ],
-                  [
-                    "Pillars of Society",
-                    null
-                  ]
-                ]
-              ]
+              "miniTexte": "Bande d'actualités filmée pendant la convention démocrate de 1924, la plus disputée de l'histoire des États-Unis : 16 jours, 103 tours de scrutin pour choisir le candidat du parti à la présidentielle."
+            },
+            {
+              "idFilm": 154408,
+              "ordre": 2,
+              "titre": "Mystery of the Hindu Image",
+              "art": "The",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1914,
+              "duree": 28,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "generique": [
+                "Raoul Walsh",
+                "Nick Cage",
+                "Dark Cloud"
+              ],
+              "miniTexte": "L'un des tout premiers courts métrages de Walsh, enquête policière qu'il réalise et interprète, dans une copie 35 mm restaurée."
+            },
+            {
+              "idFilm": 36848,
+              "ordre": 3,
+              "titre": "Pillars of Society",
+              "realisateurs": "Raoul Walsh, George Nicholls",
+              "pays": "États-Unis",
+              "annee": 1915,
+              "duree": 52,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "adaptation": "D'après la pièce _Les Piliers de la société_ de Henrik Ibsen.",
+              "generique": [
+                "Henry B. Walthall",
+                "Mary Alden",
+                "Juanita Archer"
+              ],
+              "miniTexte": "Bien avant la version allemande de Douglas Sirk (1935), cette adaptation de la pièce d'Ibsen déroule un enchevêtrement de drames familiaux, évoquant avec sarcasme les petits arrangements de la bourgeoisie rongée par l'hypocrisie et le mensonge."
             }
           ],
           "seances": [
@@ -864,7 +886,34 @@
               "idSeance": 104813,
               "dateHeure": "2023-10-01T16:30:00",
               "idSalle": "HL"
-            },
+            }
+          ]
+        },
+        {
+          "idFilm": 85148,
+          "content": [
+            {
+              "idFilm": 85148,
+              "ordre": 1,
+              "titre": "Deux aventuriers",
+              "art": "Les",
+              "titreVo": "When Thief Meets Thief",
+              "realisateurs": "Raoul Walsh",
+              "pays": "États-Unis",
+              "annee": 1937,
+              "duree": 87,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Jump for Glory_ de Gordon McDonell.",
+              "generique": [
+                "Douglas Fairbanks Jr.",
+                "Valerie Hobson",
+                "Alan Hale"
+              ],
+              "miniTexte": "En fuite à Londres, un _bootlegger_ américain, devenu cambrioleur, tombe amoureux d'une de ses victimes. Une romance policière, portée par le glamour du couple Douglas Fairbanks Jr. et Valerie Hobson."
+            }
+          ],
+          "seances": [
             {
               "idSeance": 104816,
               "dateHeure": "2023-11-02T20:30:00",
@@ -1057,7 +1106,7 @@
                 "Sidney Poitier"
               ],
               "isFocus": true,
-              "miniTexte": "À travers le récit d'une métisse qui découvre la condition d'esclave à la mort de son père, Walsh réalise une œuvre romanesque, évoquant de front la question du racisme à la veille de la guerre de Sécession. L'adaptation du roman de Robert Penn Warren fournit au cinéaste une nouvelle occasion de décrire des personnages complexes, enchaînés à leur passé et devant faire face à l'ambiguïté de leur position. C'est aussi une histoire d'amour d'une tension érotique extrême, subtilement distillée par le couple Yvonne De Carlo – Clark Gable. Une réflexion à la fois tortueuse et sensuelle sur la liberté et sur cette période trouble de l'histoire américaine, injustement éclipsée par la popularité d'_Autant en emporte le vent_. Pour autant, _L'Esclave libre_ est un film plus fascinant."
+              "miniTexte": "Le vieux Walsh se déchaîne ! Sujet brûlant pour un film qui fait tapis à chaque raccord. Certains prétendent que ça ressemble à Autant en emporte le vent. Ressemblance superficielle : c'est beaucoup mieux. — Frédéric Bonnaud\n\nÀ travers le récit d'une métisse qui découvre la condition d'esclave à la mort de son père, Walsh réalise une œuvre romanesque, évoquant de front la question du racisme à la veille de la guerre de Sécession. L'adaptation du roman de Robert Penn Warren fournit au cinéaste une nouvelle occasion de décrire des personnages complexes, enchaînés à leur passé et devant faire face à l'ambiguïté de leur position. C'est aussi une histoire d'amour d'une tension érotique extrême, subtilement distillée par le couple Yvonne De Carlo – Clark Gable. Une réflexion à la fois tortueuse et sensuelle sur la liberté et sur cette période trouble de l'histoire américaine, injustement éclipsée par la popularité d'_Autant en emporte le vent_. Pour autant, _L'Esclave libre_ est un film plus fascinant."
             }
           ],
           "seances": [
@@ -1081,8 +1130,8 @@
               "idFilm": 37834,
               "ordre": 1,
               "titre": "Esther et le Roi",
-              "titreVo": "Ester e il re",
-              "realisateurs": "Raoul Walsh, Mario Bava",
+              "titreVo": "Esther and the King",
+              "realisateurs": "Raoul Walsh",
               "pays": "Italie-États-Unis",
               "annee": 1960,
               "duree": 108,
@@ -1735,9 +1784,9 @@
                 {
                   "idConf": 28587,
                   "ordre": 2,
-                  "titre": "Film + Dialogue Murielle Joudet",
+                  "titre": "Dialogue avec Murielle Joudet",
                   "typeConference": "Dialogue",
-                  "miniTexte": "Quatrième et dernière collaboration d'Ida Lupino avec Raoul Walsh, The Man I Love est leur plus beau film ensemble. La rigidité du film de studio (un genre, une vedette, un sujet...) se fait emporter par un mouvement vital, walshien, qui gomme les limites entre woman's picture et film noir, ego des premiers rôles et démocratie des personnages. Sorti de l'ombre masculine, voici Lupino : concrète, réaliste, aimant sans retour, plus soucieuse des autres que d'elle-même. Dans ce rôle, la voilà déjà un peu cinéaste. Samedi 9 septembre 14h30 HL"
+                  "miniTexte": "Quatrième et dernière collaboration d'Ida Lupino avec Raoul Walsh, _The Man I Love_ est leur plus beau film ensemble. La rigidité du film de studio (un genre, une vedette, un sujet) se fait emporter par un mouvement vital, walshien, qui gomme les limites entre _woman's picture_ et film noir, ego des premiers rôles et démocratie des personnages. Sorti de l'ombre masculine, voici Lupino : concrète, réaliste, aimant sans retour, plus soucieuse des autres que d'elle-même. Dans ce rôle, la voilà déjà un peu cinéaste. — Murielle Joudet"
                 }
               ],
               "seances": [
@@ -1841,50 +1890,6 @@
               "idSeance": 104375,
               "dateHeure": "2023-09-09T18:00:00",
               "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 154408,
-          "content": [
-            {
-              "idFilm": 154408,
-              "ordre": 2,
-              "titre": "Mystery of the Hindu Image",
-              "art": "The",
-              "realisateurs": "Raoul Walsh",
-              "pays": "États-Unis",
-              "annee": 1914,
-              "duree": 28,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "generique": [
-                "Raoul Walsh",
-                "Nick Cage",
-                "Dark Cloud"
-              ],
-              "miniTexte": "L'un des tout premiers courts métrages de Walsh, enquête policière qu'il réalise et interprète, dans une copie 35 mm restaurée.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Democratic National Convention New York City 1924",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Pillars of Society",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104346,
-              "dateHeure": "2023-08-31T18:30:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -2017,49 +2022,6 @@
               "idSeance": 104902,
               "dateHeure": "2023-10-04T18:30:00",
               "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 36848,
-          "content": [
-            {
-              "idFilm": 36848,
-              "ordre": 3,
-              "titre": "Pillars of Society",
-              "realisateurs": "Raoul Walsh, George Nicholls",
-              "pays": "États-Unis",
-              "annee": 1915,
-              "duree": 52,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "adaptation": "D'après la pièce _Les Piliers de la société_ de Henrik Ibsen.",
-              "generique": [
-                "Henry B. Walthall",
-                "Mary Alden",
-                "Juanita Archer"
-              ],
-              "miniTexte": "Bien avant la version allemande de Douglas Sirk (1935), cette adaptation de la pièce d'Ibsen déroule un enchevêtrement de drames familiaux, évoquant avec sarcasme les petits arrangements de la bourgeoisie rongée par l'hypocrisie et le mensonge.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Democratic National Convention New York City 1924",
-                    null
-                  ],
-                  [
-                    "Mystery of the Hindu Image",
-                    "The"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104346,
-              "dateHeure": "2023-08-31T18:30:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -2200,10 +2162,10 @@
               "content": [
                 {
                   "idConf": 28593,
-                  "titre": "« Raoul Walsh après la Warner (1955-1964) : un cinéaste déchaîné » Par Jean-François Rauger",
+                  "titre": "Raoul Walsh après la Warner (1955-1964) : un cinéaste déchaîné",
                   "sousTitre": "Conférence de Jean-François Rauger",
                   "typeConference": "Conférence",
-                  "miniTexte": "Raoul Walsh n'est plus un salarié de la Warner Bros. depuis 1951. Les structures industrielles du cinéma hollywoodien se fissurent. Les cinéastes s'émancipent progressivement au cœur d'un système qui peine à se renouveler radicalement. L'auteur de Bungalow pour femmes est encore à l'étroit, bridé par d'obsolètes exigences de représentation. À partir du milieu des années 1950, son œuvre va toutefois s'infléchir vers un sentiment nouveau, plus mûr, dépassant le romantisme cosmique des films de la décennie précédente. Un sentiment constitué, paradoxalement, d'hédonisme stoïcien, de mélancolie cool, mais aussi de déchaînement libidinal. Mercredi 20 septembre 19h HL"
+                  "miniTexte": "Raoul Walsh n'est plus un salarié de la Warner Bros. depuis 1951. Les structures industrielles du cinéma hollywoodien se fissurent. Les cinéastes s'émancipent progressivement au cœur d'un système qui peine à se renouveler radicalement. L'auteur de _Bungalow pour femmes_ est encore à l'étroit, bridé par d'obsolètes exigences de représentation. À partir du milieu des années 1950, son œuvre va toutefois s'infléchir vers un sentiment nouveau, plus mûr, dépassant le romantisme cosmique des films de la décennie précédente. Un sentiment constitué, paradoxalement, d'hédonisme stoïcien, de mélancolie cool, mais aussi de déchaînement libidinal. — Jean-François Rauger"
                 }
               ],
               "seances": [
@@ -2547,10 +2509,10 @@
               "content": [
                 {
                   "idConf": 28586,
-                  "titre": "« Walsh à la Warner (1939-1951) : jusqu'aux limites du souffle » par Serge Chauvin",
+                  "titre": "Raoul Walsh à la Warner (1939-1951) : jusqu'aux limites du souffle",
                   "sousTitre": "Conférence de Serge Chauvin",
                   "typeConference": "Conférence",
-                  "miniTexte": "La Warner était faite pour Walsh et inversement : même génie de la prose, même urgence, même truculence. En douze ans et le double de films, le cinéaste joue pleinement le jeu du studio, dont il épouse la ligne, illustre les genres et magnifie les stars, tout en insufflant à son style une maturité tragique ou inquiète, élégiaque ou brutale, exténuant l'élan et osant la langueur. Jeudi 7 septembre 19h GF"
+                  "miniTexte": "La Warner était faite pour Walsh, et inversement : même génie de la prose, même urgence, même truculence. En douze ans et le double de films, le cinéaste joue pleinement le jeu du studio, dont il épouse la ligne, illustre les genres et magnifie les stars, tout en insufflant à son style une maturité tragique ou inquiète, élégiaque ou brutale, exténuant l'élan et osant la langueur. — Serge Chauvin"
                 }
               ],
               "seances": [

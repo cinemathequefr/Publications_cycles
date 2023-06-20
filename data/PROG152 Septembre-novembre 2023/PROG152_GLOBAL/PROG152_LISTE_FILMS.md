@@ -66,7 +66,7 @@
   * Nuits galantes d'une infidèle (Les)  
   * Où est passée Jessica ?  
   * Poignard de bambou (Le)  
-  * Prisonnières des martiens  
+  * Prisonnières des Martiens  
   * Six femmes pour l'assassin  
   * Soucoupes volantes attaquent (Les)  
   * Spectre  

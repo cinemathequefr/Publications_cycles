@@ -25,7 +25,7 @@
   {
     "idCategorie": 3090,
     "idEvenement": 28598,
-    "titre": "Film + Dialogue Matthieu Macheret",
+    "titre": "Dialogue Matthieu Macheret",
     "duree": 60,
     "idTypeConference": 16,
     "typeConference": "Dialogue",
@@ -54,15 +54,30 @@
   {
     "idCategorie": 3090,
     "idEvenement": 28600,
-    "titre": "Film + Dialogue avec Pascale Bodet",
+    "titre": "Dialogue avec Pascale Bodet",
     "duree": 60,
     "idTypeConference": 16,
-    "typeConference": "Dialogue"
+    "typeConference": "Dialogue",
+    "intervenants": [
+      {
+        "nomComplet": "Pascale Bodet",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Bernard Benoliel",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
+      }
+    ],
+    "mentionAnimation": "Rencontre animée par Bernard Benoliel"
   },
   {
     "idCategorie": 3090,
     "idEvenement": 28601,
-    "titre": "Film + Dialogue avec Damien Bertrand",
+    "titre": "Dialogue avec Damien Bertrand",
     "duree": 60,
     "idTypeConference": 16,
     "typeConference": "Dialogue",
@@ -71,6 +86,21 @@
         "typeTexte": 9,
         "texte": "Avec ce dernier long métrage, Jerry Lewis conjugue les extrêmes : le trait burlesque qui croque les pénibles qui nous entourent, et la pulsion morbide qui nous fait nous déprécier de ne pas savoir leur ressembler. L'arrière-plan de ce film hilarant est si sombre que sa dernière séquence fut édulcorée aux États-Unis. Ici, le trivial non seulement côtoie la philosophie, mais aussi l'exprime. On y verra à quel point la psychanalyse, notamment, est un terrain littéralement glissant. Samedi 25 novembre 14h30 HL"
       }
-    ]
+    ],
+    "intervenants": [
+      {
+        "nomComplet": "Damien Bertrand",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Bernard Benoliel",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
+      }
+    ],
+    "mentionAnimation": "Rencontre animée par Bernard Benoliel"
   }
 ]
