@@ -710,6 +710,45 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 104594,
+          "ordre": 2,
+          "dateHeure": "2023-11-11T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3090,
+          "idEvenement": 28598,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + Dialogue Matthieu Macheret",
+          "duree": 60,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "De tous les films réalisés par Jerry Lewis, Jerry souffre-douleur est non seulement l'un de plus intégralement mabouls, mais celui qui donne à comprendre son personnage en profondeur parce que, en exposant sa construction étape par étape, il en produit lui-même l'analyse. Un petit groom (repêché du Dingue du palace) est choisi pour devenir du jour au lendemain une vedette de télévision. De cette situation de base, Lewis tire un véritable rituel de possession comique, où son héros traverse tête baissée toutes les strates de l'image et les degrés de représentation pour advenir enfin à lui-même. Un retour aux sources de l'art burlesque. Samedi 11 novembre 14h30 HL"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Mathieu Macheret",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 2
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 1
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Bernard Benoliel"
+        },
+        {
           "idSeance": 104598,
           "ordre": 2,
           "dateHeure": "2023-11-25T14:30:00",
@@ -725,29 +764,14 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Dialogue avec Damien Bertrand",
+          "titre": "Film + Dialogue avec Damien Bertrand",
           "duree": 60,
-          "textes": []
-        },
-        {
-          "idSeance": 104594,
-          "ordre": 2,
-          "dateHeure": "2023-11-11T14:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 90,
-          "mention": "Séance suivie d'une discussion avec Bernard Benoliel et Mathieu Macheret",
-          "typeAssoc": 118,
-          "idCategorie": 3090,
-          "idEvenement": 28598,
-          "typeEvenement": 14,
-          "idTypeConference": 16,
-          "typeConference": "Dialogue",
-          "titre": "Dialogue avec Mathieu Macheret",
-          "duree": 60,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Avec ce dernier long-métrage, Lewis conjugue les extrêmes : le trait burlesque qui croque les pénibles qui nous entourent, et la pulsion morbide qui nous fait nous déprécier de ne pas savoir leur ressembler. L'arrière-plan de ce film hilarant est si sombre que sa dernière séquence fut édulcorée aux États-Unis. Ici, le trivial non seulement côtoie la philosophie, mais aussi l'exprime. On y verra à quel point la psychanalyse, notamment, est un terrain littéralement glissant. Samedi 25 novembre 14h30 HL"
+            }
+          ]
         },
         {
           "idSeance": 104595,
@@ -765,7 +789,7 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Dialogue avec Pascale Bodet",
+          "titre": "Film + Dialogue avec Pascale Bodet",
           "duree": 60,
           "textes": []
         },
@@ -784,10 +808,15 @@
           "typeEvenement": 14,
           "idTypeConference": 55,
           "typeConference": "Conférence",
-          "titre": "Jerry Lewis cinéaste",
+          "titre": "« Jerry Lewis Cinéaste » par Damien Bertrand",
           "sousTitre": "Conférence de Damien Bertrand",
           "duree": 90,
-          "textes": [],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En 1967, Jerry Lewis enseigne le cinéma à l'Université de Californie du Sud. Il faut bien deux titres pour saisir la portée du livre magnifique issu de ces cours : le français (Quand je fais du cinéma) qui désigne le guide pratique construit par le professeur, et l'anglais (The Total FilmMaker, le cinéaste complet) qui souligne que cette appétence pour les aspects les plus matériels du cinéma participe entièrement de sa vision singulière. Le 9 novembre, on a cours de cinéma avec Jerry Lewis. Jeudi 9 novembre 19h HL"
+            }
+          ],
           "intervenants": [
             {
               "nomComplet": "Damien Bertrand",

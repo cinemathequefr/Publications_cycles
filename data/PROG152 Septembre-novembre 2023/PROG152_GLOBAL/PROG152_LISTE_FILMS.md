@@ -2,7 +2,7 @@
 
 ## Archi Vives (2)
 
-  * Brad Pitt – La Revanche d'un Blond  
+  * Brad Pitt, la revanche d'un blond  
   * Jim Carrey, l'Amérique démasquée
 
 ## Aujourd'hui le cinéma (24)
@@ -55,7 +55,7 @@
   * Amours d'une blonde (Les)  
   * Docteur Jerry et Mister Love
 
-## Cinéma bis (12)
+## Cinéma bis (14)
 
   * Blastfighter, l'exécuteur  
   * Curse of the Faceless Man  
@@ -64,13 +64,15 @@
   * Frankenstein 2000  
   * Indic (L')  
   * Nuits galantes d'une infidèle (Les)  
+  * Où est passée Jessica ?  
   * Poignard de bambou (Le)  
   * Prisonnières des martiens  
+  * Six femmes pour l'assassin  
   * Soucoupes volantes attaquent (Les)  
   * Spectre  
   * Vengeance
 
-## Cinéma et mode, 20 indispensables (20)
+## Cinéma et mode, 20 indispensables (18)
 
   * Coco avant Chanel  
   * Coco Chanel et Igor Stravinsky  
@@ -84,13 +86,11 @@
   * Mannequin  
   * Mariée est trop belle (La)  
   * Neon Demon (The)  
-  * Où est passée Jessica ?  
   * Personal Shopper  
   * Phantom Thread  
   * Prêt-à-porter  
   * Qui êtes-vous Polly Maggoo ?  
   * Saint Laurent  
-  * Six femmes pour l'assassin  
   * Zoolander
 
 ## Conservatoire des techniques cinématographiques (1)

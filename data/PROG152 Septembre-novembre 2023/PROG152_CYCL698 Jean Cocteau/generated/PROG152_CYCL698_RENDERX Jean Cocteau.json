@@ -79,7 +79,7 @@
             {
               "idFilm": 118768,
               "ordre": 1,
-              "titre": "Jean Cocteau s'adresse... à l'an 2000",
+              "titre": "Jean Cocteau s'adresse à l'an 2000",
               "realisateurs": "Jean Cocteau",
               "pays": "France",
               "annee": 1962,
@@ -94,7 +94,7 @@
                 [],
                 [
                   [
-                    "Testament d'Orphée ou ne me demandez pas pourquoi !",
+                    "Testament d'Orphée",
                     "Le"
                   ]
                 ]
@@ -211,7 +211,7 @@
                 {
                   "idConf": 28602,
                   "ordre": 3,
-                  "titre": "Dialogue avec Claude Arnaud",
+                  "titre": "Film + discussion avec Claude Arnaud",
                   "typeConference": "Dialogue"
                 }
               ],
@@ -233,7 +233,7 @@
             {
               "idFilm": 47714,
               "ordre": 2,
-              "titre": "Testament d'Orphée ou ne me demandez pas pourquoi !",
+              "titre": "Testament d'Orphée",
               "art": "Le",
               "realisateurs": "Jean Cocteau",
               "pays": "France",
@@ -250,7 +250,7 @@
               "precedeSuivi": [
                 [
                   [
-                    "Jean Cocteau s'adresse... à l'an 2000",
+                    "Jean Cocteau s'adresse à l'an 2000",
                     null
                   ]
                 ],
@@ -654,11 +654,11 @@
       ]
     },
     {
-      "tri": 1,
+      "tri": 2,
       "titreSousCycle": "Autour de Jean Cocteau",
       "items": [
         {
-          "idFilm": 53162,
+          "idEvenement": 28569,
           "content": [
             {
               "idFilm": 53162,
@@ -675,24 +675,59 @@
                 "Marianne Oswald",
                 "Dorian Leigh Parker"
               ],
-              "miniTexte": "Produit par François Truffaut, le poème de Cocteau écrit en 1936 pour la chanteuse populaire Marianne Oswald.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Charlotte et son jules",
-                    null
-                  ],
-                  [
-                    "Dame de Monte-Carlo",
-                    "La"
-                  ],
-                  [
-                    "Voix humaine",
-                    "La"
-                  ]
-                ]
-              ]
+              "miniTexte": "Produit par François Truffaut, le poème de Cocteau écrit en 1936 pour la chanteuse populaire Marianne Oswald."
+            },
+            {
+              "idFilm": 58762,
+              "ordre": 2,
+              "titre": "Charlotte et son jules",
+              "realisateurs": "Jean-Luc Godard",
+              "pays": "France",
+              "annee": 1958,
+              "duree": 20,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après la pièce _Le Bel Indifférent_ de Jean Cocteau.",
+              "generique": [
+                "Jean-Paul Belmondo",
+                "Anne Colette",
+                "Gérard Blain"
+              ],
+              "miniTexte": "Dans un monologue acerbe, à la fois drôle et grave, inspiré de la pièce de Cocteau, Godard met en scène les réflexions désabusées d'un jeune homme (Belmondo, dont il double la voix) face à son ancienne maîtresse."
+            },
+            {
+              "idFilm": 66350,
+              "ordre": 3,
+              "titre": "Dame de Monte-Carlo",
+              "art": "La",
+              "realisateurs": "Dominique Delouche",
+              "pays": "France",
+              "annee": 1979,
+              "duree": 8,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le pièce _La Dame de Monte-Carlo_ de Jean Cocteau.",
+              "generique": [
+                "Édith Stockhausen"
+              ],
+              "miniTexte": "Balade aux quatre coins de Paris sur un poème de Cocteau mis en musique par Francis Poulenc."
+            },
+            {
+              "idFilm": 52041,
+              "ordre": 4,
+              "titre": "Voix humaine",
+              "art": "La",
+              "realisateurs": "Dominique Delouche",
+              "pays": "France",
+              "annee": 1971,
+              "duree": 38,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après la pièce _La Voix humaine_ de Jean Cocteau.",
+              "generique": [
+                "Denise Duval"
+              ],
+              "miniTexte": "Le drame lyrique de Francis Poulenc d'après le monologue de Cocteau, avec la soprano Denise Duval, qui reprend en playback son interprétation de 1959."
             }
           ],
           "seances": [
@@ -704,7 +739,7 @@
           ]
         },
         {
-          "idFilm": 52042,
+          "idEvenement": 28514,
           "content": [
             {
               "idFilm": 52042,
@@ -723,128 +758,8 @@
                 "Angelo Bellini",
                 "Jacques Demy"
               ],
-              "miniTexte": "Dans un décor de chambre d'hôtel, Demy adapte la pièce de Cocteau, monologue d'une femme délaissée par son amant. Ou la métaphore amère d'une société étouffée par la solitude et l'incommunicabilité.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Django Reinhardt",
-                    null
-                  ],
-                  [
-                    "Pantomimes",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104887,
-              "dateHeure": "2023-11-26T19:45:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 58762,
-          "content": [
-            {
-              "idFilm": 58762,
-              "ordre": 2,
-              "titre": "Charlotte et son jules",
-              "realisateurs": "Jean-Luc Godard",
-              "pays": "France",
-              "annee": 1958,
-              "duree": 20,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après la pièce _Le Bel Indifférent_ de Jean Cocteau.",
-              "generique": [
-                "Jean-Paul Belmondo",
-                "Anne Colette",
-                "Gérard Blain"
-              ],
-              "miniTexte": "Dans un monologue acerbe, à la fois drôle et grave, inspiré de la pièce de Cocteau, Godard met en scène les réflexions désabusées d'un jeune homme (Belmondo, dont il double la voix) face à son ancienne maîtresse.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Anna, la bonne",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Dame de Monte-Carlo",
-                    "La"
-                  ],
-                  [
-                    "Voix humaine",
-                    "La"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104893,
-              "dateHeure": "2023-11-23T20:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 66350,
-          "content": [
-            {
-              "idFilm": 66350,
-              "ordre": 3,
-              "titre": "Dame de Monte-Carlo",
-              "art": "La",
-              "realisateurs": "Dominique Delouche",
-              "pays": "France",
-              "annee": 1979,
-              "duree": 8,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après le pièce _La Dame de Monte-Carlo_ de Jean Cocteau.",
-              "generique": [
-                "Édith Stockhausen"
-              ],
-              "miniTexte": "Balade aux quatre coins de Paris sur un poème de Cocteau mis en musique par Francis Poulenc.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Anna, la bonne",
-                    null
-                  ],
-                  [
-                    "Charlotte et son jules",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Voix humaine",
-                    "La"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104893,
-              "dateHeure": "2023-11-23T20:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 50500,
-          "content": [
+              "miniTexte": "Dans un décor de chambre d'hôtel, Demy adapte la pièce de Cocteau, monologue d'une femme délaissée par son amant. Ou la métaphore amère d'une société étouffée par la solitude et l'incommunicabilité."
+            },
             {
               "idFilm": 50500,
               "ordre": 2,
@@ -860,34 +775,8 @@
                 "Django Reinhardt",
                 "Stéphane Grappelli"
               ],
-              "miniTexte": "Façon impro de jazz, un portrait impressionniste du guitariste de génie, introduit par Cocteau, et porté par la poésie du commentaire signé Chris Marker, récité par Yves Montand.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Bel Indifférent",
-                    "Le"
-                  ]
-                ],
-                [
-                  [
-                    "Pantomimes",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104887,
-              "dateHeure": "2023-11-26T19:45:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 50548,
-          "content": [
+              "miniTexte": "Façon impro de jazz, un portrait impressionniste du guitariste de génie, introduit par Cocteau, et porté par la poésie du commentaire signé Chris Marker, récité par Yves Montand."
+            },
             {
               "idFilm": 50548,
               "ordre": 3,
@@ -903,20 +792,7 @@
                 "Daniel Gélin",
                 "Pierre Verry"
               ],
-              "miniTexte": "Sur un commentaire écrit et dit par Cocteau, le mime Marceau décrit les différentes étapes de la vie, adolescence, maturité et vieillesse.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Bel Indifférent",
-                    "Le"
-                  ],
-                  [
-                    "Django Reinhardt",
-                    null
-                  ]
-                ],
-                []
-              ]
+              "miniTexte": "Sur un commentaire écrit et dit par Cocteau, le mime Marceau décrit les différentes étapes de la vie, adolescence, maturité et vieillesse."
             }
           ],
           "seances": [
@@ -924,52 +800,6 @@
               "idSeance": 104887,
               "dateHeure": "2023-11-26T19:45:00",
               "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 52041,
-          "content": [
-            {
-              "idFilm": 52041,
-              "ordre": 4,
-              "titre": "Voix humaine",
-              "art": "La",
-              "realisateurs": "Dominique Delouche",
-              "pays": "France",
-              "annee": 1984,
-              "duree": 38,
-              "version": "",
-              "format": "35 mm",
-              "adaptation": "D'après la pièce _La Voix humaine_ de Jean Cocteau.",
-              "generique": [
-                "Denise Duval"
-              ],
-              "miniTexte": "Le drame lyrique de Francis Poulenc d'après le monologue de Cocteau, avec la soprano Denise Duval, qui reprend en playback son interprétation de 1959.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Anna, la bonne",
-                    null
-                  ],
-                  [
-                    "Charlotte et son jules",
-                    null
-                  ],
-                  [
-                    "Dame de Monte-Carlo",
-                    "La"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104893,
-              "dateHeure": "2023-11-23T20:30:00",
-              "idSalle": "JE"
             }
           ]
         }

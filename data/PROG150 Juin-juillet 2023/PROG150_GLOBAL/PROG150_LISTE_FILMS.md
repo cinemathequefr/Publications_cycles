@@ -364,7 +364,7 @@
 ## Séances spéciales (3)
 
   * Casa Susanna  
-  * De Nos Jours  
+  * De nos jours  
   * Peau douce (La)
 
 ## Vincente Minnelli (40)
