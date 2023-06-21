@@ -9,6 +9,38 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 64109,
+          "content": [
+            {
+              "idFilm": 64109,
+              "ordre": 1,
+              "titre": "Black Panthers",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 1968,
+              "duree": 28,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Mur murs",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105049,
+              "dateHeure": "2023-11-12T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 51558,
           "content": [
             {
@@ -117,6 +149,38 @@
             {
               "idSeance": 104640,
               "dateHeure": "2023-11-25T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 59484,
+          "content": [
+            {
+              "idFilm": 59484,
+              "ordre": 1,
+              "titre": "Demoiselles ont eu 25 ans",
+              "art": "Les",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 1992,
+              "duree": 63,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Mag Bodard",
+                "Catherine Deneuve",
+                "Bernard Evein",
+                "Michel Legrand",
+                "Jacques Perrin"
+              ],
+              "miniTexte": "Les vingt-cinq ans des _Demoiselles de Rochefort_ célébrés dans une collection d'images de tournage captées par Varda, agrémentées de témoignages inédits de l'équipe du film. Catherine Deneuve, Jacques Perrin et Michel Legrand rendent un hommage poignant à Jacques Demy et à un classique, qui a donné ses lettres de noblesse à la ville de Rochefort."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105050,
+              "dateHeure": "2023-10-22T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -233,6 +297,68 @@
           ]
         },
         {
+          "idFilm": 51554,
+          "content": [
+            {
+              "idFilm": 51554,
+              "ordre": 1,
+              "titre": "Lions Love",
+              "realisateurs": "Agnès Varda",
+              "pays": "États-Unis",
+              "annee": 1969,
+              "duree": 110,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Viva",
+                "James Rado",
+                "Gerome Ragni"
+              ],
+              "miniTexte": "La découverte du mouvement hippie par Agnès Varda, un « documenteur » qui emprunte au cinéma-vérité. En pleine naissance de la contre-culture, cette observation des nouvelles stars d'Hollywood voit l'actrice Viva, muse de l'Underground et égérie d'Andy Warhol, évoluer aux côtés de Rado et Ragni, créateurs de la comédie musicale _Hair_."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105047,
+              "dateHeure": "2023-11-11T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 51562,
+          "content": [
+            {
+              "idFilm": 51562,
+              "ordre": 2,
+              "titre": "Mur murs",
+              "realisateurs": "Agnès Varda",
+              "pays": "France-RFA",
+              "annee": 1981,
+              "duree": 81,
+              "version": "",
+              "format": "DCP",
+              "miniTexte": "Le jumeau de _Documenteur_, un kaléidoscope de peintures murales créées par des artistes chicanos et californiens au cœur de Los Angeles. Varda sonde cette expression du vide et de l'abstraction, qui interpelle par son paradoxal mélange de militantisme et de vocation publicitaire.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Black Panthers",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105049,
+              "dateHeure": "2023-11-12T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 79314,
           "content": [
             {
@@ -262,6 +388,31 @@
               "idSeanceAssoc": 104703,
               "typeAssoc": 117,
               "dateHeure": "2023-10-19T21:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 106448,
+          "content": [
+            {
+              "idFilm": 106448,
+              "ordre": 1,
+              "titre": "Plages d'Agnès",
+              "art": "Les",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 2008,
+              "duree": 110,
+              "version": "",
+              "format": "DCP",
+              "miniTexte": "Un autoportrait intime, construit comme le voyage d'une vie. Avec délicatesse et espièglerie, Varda retrace ses débuts dans la photographie, son combat féministe ou encore son histoire d'amour avec Jacques Demy. De plages en visages, ce pêle-mêle de souvenirs imbrique mémoires et époques dans un collage surréaliste d'images."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105048,
+              "dateHeure": "2023-11-11T19:30:00",
               "idSalle": "GF"
             }
           ]

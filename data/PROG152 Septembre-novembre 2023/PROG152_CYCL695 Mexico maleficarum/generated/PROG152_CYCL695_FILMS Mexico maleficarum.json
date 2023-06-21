@@ -1,7 +1,8 @@
 [
   {
     "idFilm": 107875,
-    "titre": "Alucarda, la hija de las tinieblas",
+    "titre": "Alucarda",
+    "titreVo": "Alucarda, la hija de las tinieblas",
     "realisateurs": "Juan López Moctezuma",
     "annee": 1978,
     "pays": "Mexique",
@@ -14,8 +15,10 @@
   },
   {
     "idFilm": 154428,
-    "titre": "Amantes del señor de la noche",
-    "art": "Las",
+    "titre": "Amantes du seigneur de la nuit",
+    "art": "Les",
+    "titreVo": "Amantes del señor de la noche",
+    "artVo": "Las",
     "realisateurs": "Isela Vega",
     "annee": 1983,
     "pays": "Mexique",
@@ -53,23 +56,34 @@
     ]
   },
   {
-    "idFilm": 154473,
-    "titre": "Bruja",
-    "art": "La",
-    "realisateurs": "Chano Urueta",
-    "annee": 1954,
+    "idFilm": 117467,
+    "titre": "Du poison pour les fées",
+    "titreVo": "Veneno para las hadas",
+    "realisateurs": "Carlos Enrique Taboada",
+    "annee": 1984,
     "pays": "Mexique",
+    "generique": [
+      "Elsa María Gutiérrez",
+      "Ana Patricia Rojo",
+      "Leonor Llausas"
+    ],
     "textes": [
       {
+        "typeTexte": 9,
+        "texte": "Flavia, petite fille solitaire, entre dans une nouvelle école où elle se lie d'amitié avec la mystérieuse Verónica, une fillette qui se prétend sorcière."
+      },
+      {
         "typeTexte": 1000,
-        "texte": "Une relecture du mythe de Pygmalion, qui explore l'obsession de la beauté et de la jeunesse au sein de la pègre mexicaine. Inspiré par _M_ (Fritz Lang) et _Freaks_ (Tod Browning), Chano Urueta (_Le Miroir de la sorcière_) ausculte la guerre des classes, qu'il transforme en allégorie de conte de fées, convoquant aussi bien Cendrillon et Frankenstein que _La Belle et la Bête_."
+        "texte": "La dernière réalisation de Taboada, un film d'horreur psychologique sur les mécanismes de l'emprise. Premier long métrage de genre à gagner un Ariel, la plus importante distinction du cinéma mexicain, cette étude de la domination met en scène la perversion à hauteur d'enfant (géniale Ana Patricia Rojo), où les événements tétanisent, avant tout, par leur réalisme."
       }
     ]
   },
   {
     "idFilm": 154430,
-    "titre": "Invasión de los vampiros",
-    "art": "La",
+    "titre": "Invasion des vampires",
+    "art": "L'",
+    "titreVo": "Invasión de los vampiros",
+    "artVo": "La",
     "realisateurs": "Miguel Morayta",
     "annee": 1962,
     "pays": "Mexique",
@@ -81,7 +95,7 @@
     "textes": [
       {
         "typeTexte": 1000,
-        "texte": "La suite d'_El Vampiro sangriento_, une chasse à l'homme haletante, qui confronte croyance et science. Morayta fait du vampire l'expression du Mal absolu dans un déluge de hurlements, d'apparitions et de brouillard. Sommet de peur, la scène finale ressemble fort à un avant-goût de _La Nuit des morts-vivants_, sorti six ans plus tard."
+        "texte": "La suite du _Vampire sanglant_, une chasse à l'homme haletante, qui confronte croyance et science. Morayta fait du vampire l'expression du mal absolu dans un déluge de hurlements, d'apparitions et de brouillard. Sommet de peur, la scène finale ressemble fort à un avant-goût de _La Nuit des morts-vivants_, sorti six ans plus tard."
       }
     ]
   },
@@ -89,7 +103,7 @@
     "idFilm": 154291,
     "titre": "Larmes de la malédiction",
     "art": "Les",
-    "titreVo": "Maldición de la llorona",
+    "titreVo": "Maldición de la Llorona",
     "artVo": "La",
     "realisateurs": "Rafael Baledón",
     "annee": 1963,
@@ -98,11 +112,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Selma, sorcière démoniaque, manipule la jeune Amelia pour qu'elle réalise un obscur rituel, afin de réveiller le corps flétri de Doña Marina, son ancêtre, aussi connu comme la Llorona."
+        "texte": "Selma, sorcière démoniaque, manipule la jeune Amelia pour qu'elle réalise l'obscur rituel qui réveillera le corps flétri de Doña Marina, son ancêtre, la légendaire « Llorona »."
       },
       {
         "typeTexte": 1000,
-        "texte": "L'une des légendes les plus connues du folklore mexicain, confrontée au gothique de la Hammer et au bestiaire italien. Dans la lignée des films de Roger Corman (_La Chute de la maison Usher_) ou Mario Bava (_Le Masque du démon_), et malgré tout de manière singulière, Baledón accumule visages difformes, cadavres putréfiés et autres créatures secrètes pour un film de spectre à la surprenante brutalité."
+        "texte": "L'une des légendes les plus connues du folklore mexicain, confrontée au gothique de la Hammer et au bestiaire italien. Dans la lignée des films de Roger Corman (_La Chute de la maison Usher_) ou Mario Bava (_Le Masque du démon_), et malgré tout de manière singulière, Baledón accumule visages difformes, cadavres putréfiés et autres créatures secrètes pour un film de spectres à la surprenante brutalité."
       }
     ]
   },
@@ -139,8 +153,10 @@
   },
   {
     "idFilm": 154474,
-    "titre": "Mundo de los muertos",
-    "art": "El",
+    "titre": "Monde des morts",
+    "art": "Le",
+    "titreVo": "Mundo de los muertos",
+    "artVo": "El",
     "realisateurs": "Gilberto Martínez Solares",
     "annee": 1970,
     "pays": "Mexique",
@@ -153,7 +169,9 @@
   },
   {
     "idFilm": 154264,
-    "titre": "Museo del horror",
+    "titre": "Musée de l'horreur",
+    "art": "Le",
+    "titreVo": "Museo del horror",
     "realisateurs": "Rafael Baledón",
     "annee": 1964,
     "pays": "Mexique",
@@ -186,11 +204,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Au XIXe siècle, dans un hôpital psychiatrique, deux médecins font un pacte : celui qui meure en premier doit révéler à l'autre ce qui se passe après la mort. Dans ce vortex d'obsession maladive, le fantôme fera tout son possible pour tenir parole."
+        "texte": "Au XIX<sup>e/sup> siècle, dans un hôpital psychiatrique, deux médecins font un pacte : que celui qui meurt en premier révèle à l'autre la vérité sur l'au-delà."
       },
       {
         "typeTexte": 1000,
-        "texte": "Mystères, spiritisme et fantômes dans une sombre histoire de vengeance post-mortem, qui rappelle W.W. Jacobs et Edgar Allan Poe. Après _Les Proies du vampire_, Méndez investit des lieux habités par la folie et réinvente le mythe de Faust au cœur d'un sanatorium rempli de cris et de fureur. En s'interrogeant sur une angoisse universelle – l'impossibilité de savoir ce qui vient après la mort –, il dynamite, grâce à une imposante mise en scène expressionniste, tous les clichés de l'horreur classique, de la légende du docteur fou aux morts-vivants."
+        "texte": "Mystères, spiritisme et fantômes dans une sombre histoire de vengeance post-mortem qui rappelle W. W. Jacobs et Edgar Allan Poe. Après _Les Proies du vampire_, Méndez investit des lieux habités par la folie et réinvente le mythe de Faust au cœur d'un sanatorium rempli de cris et de fureur. En s'interrogeant sur une angoisse universelle – l'impossibilité de savoir ce qui vient après la mort –, il dynamite, grâce à une imposante mise en scène expressionniste, tous les clichés de l'horreur classique, de la légende du docteur fou aux morts-vivants."
       }
     ]
   },
@@ -216,14 +234,32 @@
       },
       {
         "typeTexte": 1000,
-        "texte": "Considéré comme un tournant dans la représentation du vampire à l'écran, _Les Proies du vampire_ met en scène, pour la première fois, une créature aux canines allongées. Un an avant _Le Cauchemar de Dracula_, Méndez applique à la lettre les visions de Bram Stoker pour imaginer un buveur de sang fascinant, incarné par la future vedette de l'épouvante mexicaine, le magnétique Germán Robles. Sur un scénario retors, qui mêle réflexion autour de l'inceste et de l'homosexualité, le cinéaste orchestre une impressionnante progression dans l'horreur, où planent les ombres de Fritz Lang et Tod Browning."
+        "texte": "Considéré comme un tournant dans la représentation du vampire à l'écran, _Les Proies du vampire_ met en scène pour la première fois une créature aux canines allongées. Un an avant _Le Cauchemar de Dracula_, Méndez applique à la lettre les visions de Bram Stoker pour imaginer un buveur de sang fascinant, incarné par la future vedette de l'épouvante mexicaine, le magnétique Germán Robles. Sur un scénario retors, qui mêle réflexion autour de l'inceste et de l'homosexualité, le cinéaste orchestre une impressionnante progression dans l'horreur, où planent les ombres de Fritz Lang et Tod Browning."
+      }
+    ]
+  },
+  {
+    "idFilm": 154473,
+    "titre": "Sorcière",
+    "art": "La",
+    "titreVo": "Bruja",
+    "artVo": "La",
+    "realisateurs": "Chano Urueta",
+    "annee": 1954,
+    "pays": "Mexique",
+    "textes": [
+      {
+        "typeTexte": 1000,
+        "texte": "Une relecture du mythe de Pygmalion, qui explore l'obsession de la beauté et de la jeunesse au sein de la pègre mexicaine. Inspiré par _M le maudit_ (Fritz Lang) et _Freaks_ (Tod Browning), Chano Urueta ausculte la lutte des classes, qu'il transforme en allégorie de conte de fées, convoquant aussi bien Cendrillon et Frankenstein que _La Belle et la Bête_."
       }
     ]
   },
   {
     "idFilm": 154263,
-    "titre": "Vampiro sangriento",
-    "art": "El",
+    "titre": "Vampire sanglant",
+    "art": "Le",
+    "titreVo": "Vampiro sangriento",
+    "artVo": "El",
     "realisateurs": "Miguel Morayta",
     "annee": 1962,
     "pays": "Mexique",
@@ -237,28 +273,6 @@
       {
         "typeTexte": 1000,
         "texte": "La mythologie et l'imagerie du vampire, relues par l'un des plus grandes figures du cinéma mexicain. Fort d'une atmosphère lugubre, créée par la photographie de Raúl Martínez Solares, le film surprend, pour l'époque, dans son écriture aiguisée des personnages féminins, notamment la redoutable sorcière Hildegarde (Bertha Moss, impressionnante)."
-      }
-    ]
-  },
-  {
-    "idFilm": 117467,
-    "titre": "Veneno para las hadas",
-    "realisateurs": "Carlos Enrique Taboada",
-    "annee": 1984,
-    "pays": "Mexique",
-    "generique": [
-      "Elsa María Gutiérrez",
-      "Ana Patricia Rojo",
-      "Leonor Llausas"
-    ],
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Une petite fille d'aristocrates solitaire devient l'amie d'une mystérieuse autre fille qui rêve de devenir sorcière. Leurs jeux sont de plus en plus macabres, une escalade qui les conduit au meurtre."
-      },
-      {
-        "typeTexte": 1000,
-        "texte": "La dernière réalisation de Taboada, un film d'horreur psychologique sur les mécanismes douloureux de l'emprise. Premier long métrage de genre à gagner un Ariel, la plus importante distinction du cinéma mexicain, cette étude de la domination met en scène la perversion à hauteur d'enfant (géniale Ana Patricia Rojo), où les événements tétanisent, avant tout, par leur réalisme."
       }
     ]
   }

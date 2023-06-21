@@ -248,26 +248,26 @@
 
 ## Mexico maleficarum (13)
 
-  * Alucarda, la hija de las tinieblas  
-  * Amantes del señor de la noche (Las)  
+  * Alucarda  
+  * Amantes du seigneur de la nuit (Les)  
   * Baron de la terreur (Le)  
-  * Bruja (La)  
-  * Invasión de los vampiros (La)  
+  * Du poison pour les fées  
+  * Invasion des vampires (L')  
   * Larmes de la malédiction (Les)  
   * Miroir de la sorcière (Le)  
-  * Mundo de los muertos (El)  
-  * Museo del horror  
+  * Monde des morts (Le)  
+  * Musée de l'horreur (Le)  
   * Mystères d'outre-tombe (Les)  
   * Proies du vampire (Les)  
-  * Vampiro sangriento (El)  
-  * Veneno para las hadas
+  * Sorcière (La)  
+  * Vampire sanglant (Le)
 
 ## Parlons cinéma avec David Perrault (4)
 
   * Bellissima  
   * Candyman  
   * Jackie Brown  
-  * Orgissimo = La Vallée des plaisirs = La Grande Trique = La Vallée des débauches
+  * Vallée des plaisirs (La)
 
 ## Pascal Thomas (22)
 
@@ -387,14 +387,19 @@
   * Salvador Allende  
   * Septembre chilien
 
-## Viva Varda ! (9)
+## Viva Varda ! (14)
 
+  * Black Panthers  
   * Bonheur (Le)  
   * Cléo de 5 à 7  
   * Créatures (Les)  
+  * Demoiselles ont eu 25 ans (Les)  
   * Documenteur  
   * Glaneurs et la Glaneuse (Les)  
+  * Lions Love  
+  * Mur murs  
   * Oncle Yanko  
+  * Plages d'Agnès (Les)  
   * Pointe Courte (La)  
   * Sans toit ni loi  
   * Viva Varda!
