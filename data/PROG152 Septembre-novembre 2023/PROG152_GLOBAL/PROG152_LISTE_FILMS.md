@@ -309,7 +309,6 @@
   * Bataille sans merci  
   * Belle Espionne (La)  
   * Blonde et le shérif (La)  
-  * Blonde framboise (La)  
   * Brigade héroïque (La)  
   * Bungalow pour femmes  
   * Capitaine sans peur  
@@ -369,6 +368,7 @@
   * Singe qui parle (Le)  
   * Spendthrift  
   * St. Louis Blues  
+  * Strawberry Blonde (The)  
   * Têtes brûlées  
   * True Adventures of Raoul Walsh (The)  
   * Un lion dans la rue  
