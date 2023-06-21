@@ -197,7 +197,7 @@
   * Villa Santo Sospir (La)  
   * Voix humaine (La)
 
-## Jerry Lewis (16)
+## Jerry Lewis (17)
 
   * Au boulot, Jerry !  
   * Clown (Der)  
@@ -211,6 +211,7 @@
   * Re-Inforcer (The)  
   * T'es fou Jerry !  
   * Tombeur de ces dames (Le)  
+  * Tombeur de ces dames (version alternative) (Le)  
   * Tontons farceurs (Les)  
   * Trois sur un sofa  
   * Ya, ya, mon général !  
@@ -379,13 +380,14 @@
   * Wild Girl  
   * Women of All Nations
 
-## Séances spéciales (5)
+## Séances spéciales (6)
 
   * Film annonce du film qui n'existera jamais : « Drôles de Guerres »  
   * Godard par Godard  
   * Maternelle (La)  
   * Salvador Allende  
-  * Septembre chilien
+  * Septembre chilien  
+  * West Side Story
 
 ## Viva Varda ! (14)
 
