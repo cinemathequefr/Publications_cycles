@@ -156,7 +156,7 @@
   * Paris mange son pain  
   * Voyage surprise
 
-## Hommage à Jean-Luc Godard (8)
+## Histoire(s) du cinéma (8)
 
   * Histoire(s) du cinéma, chapitre 1a : Toutes les histoires  
   * Histoire(s) du cinéma, chapitre 1b : Une histoire seule  
