@@ -196,15 +196,17 @@
   * Villa Santo Sospir (La)  
   * Voix humaine (La)
 
-## Jerry Lewis (17)
+## Jerry Lewis (19)
 
   * A Spot in the Shade  
   * An Eye for an Eye  
   * Au boulot, Jerry !  
+  * Clown (Der)  
   * Come Back Little Shiksa  
   * Dingue du palace (Le)  
   * Fairfax Avenue  
   * Jerry la grande gueule  
+  * Jerry Lewis  
   * Jerry souffre-douleur  
   * One More Time  
   * Re-Inforcer (The)  
@@ -379,8 +381,9 @@
   * Wild Girl  
   * Women of All Nations
 
-## Séances spéciales (6)
+## Séances spéciales (7)
 
+  * Anselm  
   * Film annonce du film qui n'existera jamais : « Drôles de Guerres »  
   * Godard par Godard  
   * Maternelle (La)  

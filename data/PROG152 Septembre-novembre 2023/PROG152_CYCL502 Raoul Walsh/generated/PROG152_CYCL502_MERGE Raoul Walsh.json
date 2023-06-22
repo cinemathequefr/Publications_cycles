@@ -503,6 +503,45 @@
           ]
         },
         {
+          "idSeance": 105061,
+          "ordre": 1,
+          "dateHeure": "2023-11-02T20:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 2286,
+          "idEvenement": 26862,
+          "typeEvenement": 13,
+          "idFilm": 36604,
+          "art": "La",
+          "titre": "Belle Espionne",
+          "titreVo": "Sea Devils",
+          "realisateurs": "Raoul Walsh",
+          "annee": 1953,
+          "pays": "États-Unis",
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "16 mm",
+          "generique": [
+            "Yvonne De Carlo",
+            "Rock Hudson",
+            "Maxwell Reed"
+          ],
+          "adaptation": "D'après le roman _Les Travailleurs de la mer_ de Victor Hugo.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Lointainement inspiré par _Les Travailleurs de la mer_ de Victor Hugo et illuminé par la beauté d'Yvonne De Carlo, le portrait d'une mystérieuse jeune femme chargée de dérober les plans d'invasion de la France en Angleterre. Avec Gérard Oury dans le rôle de Napoléon."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "1804. Craignant une invasion française, les services d'espionnage anglais chargent une jeune femme de découvrir les projets de l'Empereur. Gilliatt, un contrebandier, l'aide à traverser la Manche et tombe amoureux d'elle."
+            }
+          ]
+        },
+        {
           "idSeance": 104475,
           "ordre": 1,
           "dateHeure": "2023-09-18T18:00:00",
@@ -1055,45 +1094,6 @@
           "dureeSeance": 120,
           "idCategorie": 2286,
           "idEvenement": 26909,
-          "typeEvenement": 13,
-          "idFilm": 85148,
-          "art": "Les",
-          "titre": "Deux aventuriers",
-          "titreVo": "When Thief Meets Thief",
-          "realisateurs": "Raoul Walsh",
-          "annee": 1937,
-          "pays": "États-Unis",
-          "duree": 87,
-          "version": "VOSTF",
-          "format": "35 mm",
-          "generique": [
-            "Douglas Fairbanks Jr.",
-            "Valerie Hobson",
-            "Alan Hale"
-          ],
-          "adaptation": "D'après le roman _Jump for Glory_ de Gordon McDonell.",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "En fuite à Londres, un _bootlegger_ américain, devenu cambrioleur, tombe amoureux d'une de ses victimes. Une romance policière, portée par le glamour du couple Douglas Fairbanks Jr. et Valerie Hobson."
-            },
-            {
-              "typeTexte": 9,
-              "texte": "Après un meurtre involontaire, Ricky est poursuivi par un maître-chanteur, qui, à la suite d'une machination, lui ravit aussi sa fiancée."
-            }
-          ]
-        },
-        {
-          "idSeance": 104816,
-          "ordre": 1,
-          "dateHeure": "2023-11-02T20:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 2286,
-          "idEvenement": 28227,
           "typeEvenement": 13,
           "idFilm": 85148,
           "art": "Les",
@@ -4157,6 +4157,11 @@
       "textes": []
     }
   ],
-  "textes": [],
+  "textes": [
+    {
+      "typeTexte": 263,
+      "texte": "Academy Film Archive, British Film Institute National Archive, Cineteca Griffith, Cinémathèque de Toulouse, Cinémathèque du Luxembourg, F George Eastman House, Institut Lumière, Library of Congress, MoMa, The Walt Disney Company, Twentieth Century Fox France, UCLA Film & Television Archive, United Artists, Universal Pictures, Walt Disney Pictures, Warner Bros Picture France."
+    }
+  ],
   "info": {}
 }

@@ -5,41 +5,66 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idEvenement": 28599,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 152505,
-              "ordre": 1,
-              "titre": "Jim Carrey, l'Amérique démasquée",
-              "realisateurs": "Thibaut Sève, Adrien Dénouette",
-              "pays": "France",
-              "annee": 2021,
-              "duree": 52,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Lison Daniel"
+              "idEvenement": 28872,
+              "content": [
+                {
+                  "idConf": 28872,
+                  "titre": "De l'essai au documentaire filmé : écrire avec les images des autres",
+                  "sousTitre": "Conférence d'Adrien Dénouette",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 105034,
+                  "idSeanceAssoc": 105021,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-10-05T17:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "À la suite de la conférence, à 19h30, projection d'un film choisi par le conférencier : _Jim Carrey, l'Amérique démasquée_ de Thibaut Sève, Adrien Dénouette"
+                }
               ]
             },
             {
-              "idFilm": 154477,
-              "ordre": 2,
-              "titre": "Brad Pitt, la revanche d'un blond",
-              "realisateurs": "Adrien Dénouette, Thibaut Sève",
-              "pays": "France",
-              "annee": 2022,
-              "duree": 52,
-              "version": "VF",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 105021,
-              "idSeanceAssoc": 105034,
-              "typeAssoc": 117,
-              "dateHeure": "2023-10-05T19:30:00",
-              "idSalle": "JE"
+              "idEvenement": 28599,
+              "content": [
+                {
+                  "idFilm": 152505,
+                  "ordre": 1,
+                  "titre": "Jim Carrey, l'Amérique démasquée",
+                  "realisateurs": "Thibaut Sève, Adrien Dénouette",
+                  "pays": "France",
+                  "annee": 2021,
+                  "duree": 52,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Lison Daniel"
+                  ]
+                },
+                {
+                  "idFilm": 154477,
+                  "ordre": 2,
+                  "titre": "Brad Pitt, la revanche d'un blond",
+                  "realisateurs": "Adrien Dénouette, Thibaut Sève",
+                  "pays": "France",
+                  "annee": 2022,
+                  "duree": 52,
+                  "version": "VF",
+                  "format": "DCP"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 105021,
+                  "idSeanceAssoc": 105021,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-10-05T19:30:00",
+                  "idSalle": "JE"
+                }
+              ]
             }
           ]
         }
