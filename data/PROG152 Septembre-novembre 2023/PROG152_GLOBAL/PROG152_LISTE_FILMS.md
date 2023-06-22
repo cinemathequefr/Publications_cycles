@@ -58,12 +58,12 @@
 ## Cinéma bis (14)
 
   * Blastfighter, l'exécuteur  
+  * Conjugaisons sexuelles  
   * Curse of the Faceless Man  
   * Dans le cercle du vice  
   * Filles de Grenoble (Les)  
   * Frankenstein 2000  
   * Indic (L')  
-  * Nuits galantes d'une infidèle (Les)  
   * Où est passée Jessica ?  
   * Poignard de bambou (Le)  
   * Prisonnières des Martiens  
