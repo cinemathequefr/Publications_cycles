@@ -126,9 +126,8 @@
   * Sally, fille de cirque  
   * Sorrows of Satan (The)
 
-## David Fincher (12)
+## David Fincher (11)
 
-  * Alien 3  
   * Étrange Histoire de Benjamin Button (L')  
   * Fight Club  
   * Game (The)  
@@ -199,13 +198,13 @@
 
 ## Jerry Lewis (17)
 
+  * A Spot in the Shade  
+  * An Eye for an Eye  
   * Au boulot, Jerry !  
-  * Clown (Der)  
   * Come Back Little Shiksa  
   * Dingue du palace (Le)  
   * Fairfax Avenue  
   * Jerry la grande gueule  
-  * Jerry Lewis  
   * Jerry souffre-douleur  
   * One More Time  
   * Re-Inforcer (The)  
