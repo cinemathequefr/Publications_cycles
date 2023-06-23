@@ -208,20 +208,15 @@
   * Villa Santo Sospir (La)  
   * Voix humaine (La)
 
-## Jerry Lewis (19)
+## Jerry Lewis (14)
 
-  * A Spot in the Shade  
-  * An Eye for an Eye  
   * Au boulot, Jerry !  
   * Clown (Der)  
-  * Come Back Little Shiksa  
   * Dingue du palace (Le)  
-  * Fairfax Avenue  
   * Jerry la grande gueule  
   * Jerry Lewis  
   * Jerry souffre-douleur  
   * One More Time  
-  * Re-Inforcer (The)  
   * T'es fou Jerry !  
   * Tombeur de ces dames (Le)  
   * Tombeur de ces dames (version alternative) (Le)  
