@@ -1,5 +1,17 @@
 # Liste des films par cycle
 
+## American Fringe 7 (9)
+
+  * Bad Axe  
+  * Black Barbie  
+  * Cora Bora  
+  * Country Gold  
+  * Girl Internet Show: A Kati Kelli Mixtape  
+  * In the Bones  
+  * Really Good Friends  
+  * You Hurt My Feelings  
+  * You're Dancing This Dance All Wrong
+
 ## Archi Vives (2)
 
   * Brad Pitt, la revanche d'un blond  
@@ -232,12 +244,13 @@
   * Quiet Family (The)  
   * Trois histoires de l'au-delà
 
-## Ma petite Cinémathèque (13)
+## Ma petite Cinémathèque (14)
 
   * Argent de poche (L')  
   * Arsenic et vieilles dentelles  
   * Aventures de Peter Pan (Les)  
   * Demoiselles de Rochefort (Les)  
+  * Franc (Le)  
   * Homme qui en savait trop (L')  
   * Jacquot de Nantes  
   * Kid (Le)  
