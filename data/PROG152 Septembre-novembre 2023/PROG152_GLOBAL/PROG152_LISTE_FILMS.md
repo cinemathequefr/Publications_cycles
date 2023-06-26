@@ -129,10 +129,10 @@
 
 ## D. W. Griffith (8)
 
-  * A travers l'orage  
+  * À travers l'orage  
   * Cœurs du monde  
   * Deux orphelines (Les)  
-  * Intolerance  
+  * Intolérance  
   * Lys brisé (Le)  
   * Naissance d'une nation  
   * Sally, fille de cirque  
@@ -208,8 +208,9 @@
   * Villa Santo Sospir (La)  
   * Voix humaine (La)
 
-## Jerry Lewis (14)
+## Jerry Lewis (15)
 
+  * A Little Fun to Match the Sorrow  
   * Au boulot, Jerry !  
   * Clown (Der)  
   * Dingue du palace (Le)  
