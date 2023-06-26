@@ -3,7 +3,7 @@
 ## American Fringe 7 (9)
 
   * Bad Axe  
-  * Black Barbie  
+  * Black Barbie: A Documentary  
   * Cora Bora  
   * Country Gold  
   * Girl Internet Show: A Kati Kelli Mixtape  
