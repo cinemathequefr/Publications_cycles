@@ -31,8 +31,8 @@
     "idEvenement": 28551,
     "titre": "« Du nouveau sur Gaumont ! » par Manuela Padoan, Emmanuelle Champomier et Laurent Mannoni",
     "duree": 120,
-    "idTypeConference": 16,
-    "typeConference": "Dialogue",
+    "idTypeConference": 55,
+    "typeConference": "Conférence",
     "textes": [
       {
         "typeTexte": 9,
@@ -50,7 +50,28 @@
         "typeTexte": 156,
         "texte": "Laurent Mannoni est directeur scientifique du Patrimoine de la Cinémathèque française, il a publié plusieurs ouvrages sur Georges Demenÿ et Étienne-Jules Marey."
       }
-    ]
+    ],
+    "intervenants": [
+      {
+        "nomComplet": "Laurent Mannoni",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Emmanuelle Champomier",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 2
+      },
+      {
+        "nomComplet": "Manuela Padoan",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 3
+      }
+    ],
+    "sousTitre": "Conférence de Laurent Mannoni, Emmanuelle Champomier et Manuela Padoan"
   },
   {
     "idCategorie": 1856,
@@ -67,6 +88,14 @@
       {
         "typeTexte": 156,
         "texte": "Jean-Pierre Verscheure, historien des techniques cinématographiques, membre du conseil scientifique du Conservatoire des techniques et de plusieurs associations internationales, est l'un des plus grands spécialistes du son au cinéma."
+      }
+    ],
+    "intervenants": [
+      {
+        "nomComplet": "Jean-Pierre Verscheure",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 1
       }
     ]
   }
