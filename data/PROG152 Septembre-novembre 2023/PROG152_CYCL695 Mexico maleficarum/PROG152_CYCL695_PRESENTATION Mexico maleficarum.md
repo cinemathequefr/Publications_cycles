@@ -1,6 +1,8 @@
-> Souvent réduit à la catégorie pittoresque des films de catcheurs masqués, le cinéma fantastique mexicain a en fait soumis les thèmes macabres traditionnels à d'étranges traitements, tout en leur insufflant une folie latine qui puise dans les racines sombres du pays. On pourra le vérifier avec treize titres, dont certains sont vraiment des classiques incontournables du genre.
+> Un cinéma qui puise aux racines des légendes et du folklore mexicains, d'un certain baroque catholique, un genre qui fascine depuis les années 30, aux multiples ramifications et déclinaisons : horreur, science-fiction ou fantasy, d'où émergent d'innombrables personnages iconiques, de la Llorona aux vampires, des fantômes aux superhéros.
 
 # Mexique, terre de fantastique
+
+Souvent réduit à la catégorie pittoresque des films de catcheurs masqués, le cinéma fantastique mexicain a en fait soumis les thèmes macabres traditionnels à d'étranges traitements, tout en leur insufflant une folie latine qui puise dans les racines sombres du pays. On pourra le vérifier avec treize titres, dont certains sont vraiment des classiques incontournables du genre.
 
 Porté par l'effervescence des révolutions, le cinéma mexicain connaît des âges d'or au temps du muet puis dans les années 30-40, mais ensuite marque le pas. Non que la production diminue, loin de là. Soutenue à bout de bras par l'État (jusqu'à une nationalisation de fait au début des années 60), l'industrie livre un grand nombre de longs métrages. Seulement, ceux-ci se replient vers des genres éprouvés et vidés de leurs implications sociales : comédies rurales, mélodrames, divertissements musicaux, succédanés de western... À première vue, les films fantastiques constituent une autre catégorie formatée. En fait, ils vont réintroduire l'invention formelle, et aussi évoquer par la bande les contradictions et les atavismes de la société locale.
 

@@ -76,7 +76,7 @@
   * Filles de Grenoble (Les)  
   * Frankenstein 2000  
   * Indic (L')  
-  * Où est passée Jessica ?  
+  * Où est passée Jessica  
   * Poignard de bambou (Le)  
   * Prisonnières des Martiens  
   * Six femmes pour l'assassin  
@@ -411,7 +411,7 @@
   * Glaneurs et la Glaneuse (Les)  
   * Lions Love  
   * Mur murs  
-  * Oncle Yanko  
+  * Oncle Yanco  
   * Plages d'Agnès (Les)  
   * Pointe Courte (La)  
   * Sans toit ni loi  
