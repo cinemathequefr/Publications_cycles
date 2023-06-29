@@ -130,13 +130,13 @@
 ## D. W. Griffith (8)
 
   * À travers l'orage  
+  * Chagrins de Satan (Les)  
   * Cœurs du monde  
-  * Deux orphelines (Les)  
+  * Deux Orphelines (Les)  
   * Intolérance  
   * Lys brisé (Le)  
   * Naissance d'une nation  
-  * Sally, fille de cirque  
-  * Sorrows of Satan (The)
+  * Sally, fille de cirque
 
 ## David Fincher (11)
 
@@ -278,7 +278,7 @@
   * Bellissima  
   * Candyman  
   * Jackie Brown  
-  * Orgissimo (La)
+  * Orgissimo
 
 ## Pascal Thomas (22)
 

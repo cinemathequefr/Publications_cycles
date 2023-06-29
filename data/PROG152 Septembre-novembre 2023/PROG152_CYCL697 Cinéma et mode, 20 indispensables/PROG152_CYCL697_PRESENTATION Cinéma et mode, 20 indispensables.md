@@ -1,6 +1,4 @@
-[_Phantom Thread_, _Coco avant Chanel_, _Falbalas_, Joan Crawford, Yves Saint Laurent : certains films, quelques comédiens et couturiers renommés nous rappellent immédiatement ce que le cinéma et la mode ont pu engendrer en termes de magie, de renouveau des corps et de leurs images. Retour sur ce mariage fécond en 20 films.]
-
-# Cinéma et mode en 20 films indispensables
+> _Phantom Thread_, _Coco avant Chanel_, _Falbalas_, Joan Crawford, Yves Saint Laurent : à travers les époques, leçons de style et défilés élégants, à travers une plongée sur grand écran dans un univers tantôt classique, tantôt excentrique, parfois caricatural, toujours passionnant.
 
 Certains films, grands comédiens ou couturiers renommés évoquent irrémédiablement le mariage fécond entre le cinéma et la mode : influences réciproques, magie, renouveau des corps et de leurs images... De l'âge d'or hollywoodien aux créations contemporaines, des _costume designers_ mythiques aux collaborations de grands couturiers français : 20 films emblématiques, autant de représentations uniques et variées, pour un voyage sur mesure.
 
