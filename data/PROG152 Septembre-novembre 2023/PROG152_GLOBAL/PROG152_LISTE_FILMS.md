@@ -154,7 +154,7 @@
 
 ## Fenêtre sur les collections (13)
 
-  * Adieu Léonard – Essais d'acteurs  
+  * Adieu Léonard (Essais d'acteurs)  
   * Affaire est dans le sac (L')  
   * Amor pedestre  
   * Avventura galante di un provinciale (L')  
@@ -163,7 +163,7 @@
   * Fille des flots (La)  
   * Filles, personne s'en méfie (Les)  
   * Grandeur et déchéance  
-  * Il est si beau garçon = Gribouille et les femmes = Elles sont toutes folles de Gribouille  
+  * Gribouille et les femmes  
   * Paris la belle  
   * Paris mange son pain  
   * Voyage surprise
