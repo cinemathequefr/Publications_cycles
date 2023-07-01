@@ -23,15 +23,15 @@
   * Bambino  
   * Bonobo  
   * Chienne (La)  
-  * Classified people  
-  * Cœur Brisé  
+  * Classified People  
+  * Cœur brisé  
   * Cuidados que se tem com o cuidado que os outros devem ter consigo mesmos (Os)  
   * Envoûtement (L')  
   * Fairplay  
   * J'ai vu le visage du diable  
   * Ma petite reine  
   * Margarethe 89  
-  * Mars express  
+  * Mars Express  
   * Martin  
   * Mes indésirables  
   * Misérables (Les)  
@@ -39,7 +39,7 @@
   * Petite Vendeuse de Soleil (La)  
   * Portraits fantômes  
   * Roi David (Le)  
-  * soleil dort (Le)  
+  * Soleil dort (Le)  
   * Tinikling  
   * Trois nuits par semaine  
   * Trois tristes tigres
