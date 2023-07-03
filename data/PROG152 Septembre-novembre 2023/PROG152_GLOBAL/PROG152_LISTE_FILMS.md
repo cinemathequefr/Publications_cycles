@@ -417,8 +417,14 @@
   * Sans toit ni loi  
   * Viva Varda !
 
-## Víctor Erice (3)
+## Víctor Erice (9)
 
+  * Alumbramiento  
+  * Desafíos (Los)  
+  * Días perdidos (Los)  
+  * En la terraza  
+  * Entre vías  
   * Esprit de la ruche (L')  
+  * Páginas de un diario perdido  
   * Songe de la lumière (Le)  
   * Sur (El)  

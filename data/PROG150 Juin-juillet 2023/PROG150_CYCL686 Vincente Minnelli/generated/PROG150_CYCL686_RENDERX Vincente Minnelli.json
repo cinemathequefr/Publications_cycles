@@ -253,22 +253,6 @@
                     "Mary Astor"
                   ]
                 }
-              ],
-              "seances": [
-                {
-                  "idSeance": 104056,
-                  "typeAssoc": 118,
-                  "dateHeure": "2023-07-06T19:00:00",
-                  "idSalle": "HL",
-                  "idSeanceAssoc": 104056,
-                  "mentionAssoc": "Film + dialogue"
-                },
-                {
-                  "idSeance": 102008,
-                  "dateHeure": "2023-07-20T17:30:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film seul"
-                }
               ]
             },
             {
@@ -289,7 +273,14 @@
                   "typeAssoc": 118,
                   "dateHeure": "2023-07-06T19:00:00",
                   "idSalle": "HL",
+                  "idSeanceAssoc": 104056,
                   "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 102008,
+                  "dateHeure": "2023-07-20T17:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
                 }
               ]
             }

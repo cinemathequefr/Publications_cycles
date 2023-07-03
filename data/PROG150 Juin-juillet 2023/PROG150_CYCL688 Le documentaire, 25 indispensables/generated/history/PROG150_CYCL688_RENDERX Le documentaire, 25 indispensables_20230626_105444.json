@@ -1,0 +1,971 @@
+{
+  "datesCycle": [
+    "2023-06-21T20:00:00",
+    "2023-07-09T20:30:00"
+  ],
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 77226,
+          "content": [
+            {
+              "idFilm": 77226,
+              "ordre": 1,
+              "titre": "1974, une partie de campagne",
+              "realisateurs": "Raymond Depardon",
+              "pays": "France",
+              "annee": 1974,
+              "duree": 90,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Valéry Giscard d'Estaing"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104058,
+              "dateHeure": "2023-07-08T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 50421,
+          "content": [
+            {
+              "idFilm": 50421,
+              "ordre": 1,
+              "titre": "Chagrin et la Pitié",
+              "art": "Le",
+              "realisateurs": "Marcel Ophuls",
+              "pays": "France-Suisse-RFA",
+              "annee": 1969,
+              "duree": 270,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Emmanuel d'Astier de la Vigerie",
+                "Georges Bidault",
+                "Matthäus Bleibinger"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104034,
+              "dateHeure": "2023-06-23T18:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 52364,
+              "content": [
+                {
+                  "idFilm": 52364,
+                  "ordre": 2,
+                  "titre": "Chronique d'un été",
+                  "realisateurs": "Jean Rouch, Edgar Morin",
+                  "pays": "France",
+                  "annee": 1960,
+                  "duree": 86,
+                  "version": "",
+                  "format": "DCP",
+                  "precedeSuivi": [
+                    [
+                      [
+                        "Marâtre",
+                        "La"
+                      ]
+                    ],
+                    []
+                  ]
+                }
+              ],
+              "seances": []
+            },
+            {
+              "idEvenement": 28173,
+              "content": [
+                {
+                  "idConf": 28173,
+                  "ordre": 3,
+                  "titre": "Film + Dialogue avec Frédérique Berthet",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Bernard Benoliel",
+                  "miniTexte": "« _Chronique d'un été_ remporte le prix de la critique internationale du festival de Cannes, puis sort discrètement en salle en France, à l'automne, le 20 octobre 1961. Il dure une heure vingt-six. Une petite vingtaine de participants y figurent. Ils ont accepté l'expérience mi-sérieuse mi-factieuse lancée par Rouch et Morin en 1960 : une recherche filmée sur la façon dont, à Paris, « on se débrouille avec la vie ». Marceline [Loridan] pourrait être une interprète parmi les autres. Pourtant, elle seule porte, dans _Chronique d'un été_, une histoire qui n'est pas celle de “tout le monde”. » « L'intuition du film : faire des lambeaux de souvenirs de Marceline les pièces magistralement ajustées d'un manteau ; une intuition qui va contribuer à ce que _Chronique_, selon la jolie formule qu'emploie Anatole Dauman en 1990, “défie les années”. » (Frédérique Berthet, _La Voix manquante_, P.O.L, 2018)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104053,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-07-01T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 59394,
+          "content": [
+            {
+              "idFilm": 59394,
+              "ordre": 1,
+              "titre": "Deux Marseillaises",
+              "art": "Les",
+              "realisateurs": "Jean-Louis Comolli, André S. Labarthe",
+              "pays": "France",
+              "annee": 1968,
+              "duree": 108,
+              "version": "",
+              "format": "16 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101255,
+              "dateHeure": "2023-06-21T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective. Séance présentée par Luc Béraud"
+            }
+          ]
+        },
+        {
+          "idFilm": 154395,
+          "content": [
+            {
+              "idFilm": 154395,
+              "ordre": 1,
+              "titre": "Dieux du stade, partie 1 : La Fête des peuples",
+              "art": "Les",
+              "titreVo": "Olympia, 1. Teil – Fest der Völke",
+              "realisateurs": "Leni Riefenstahl",
+              "pays": "Allemagne",
+              "annee": 1938,
+              "duree": 103,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104292,
+              "dateHeure": "2023-07-02T18:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Jérôme Prieur"
+            }
+          ]
+        },
+        {
+          "idFilm": 40226,
+          "content": [
+            {
+              "idFilm": 40226,
+              "ordre": 1,
+              "titre": "Dieux du stade, partie 2 : Jeunesse olympique",
+              "art": "Les",
+              "titreVo": "Olympia, 2. Teil – Fest der Schönheit",
+              "realisateurs": "Leni Riefenstahl",
+              "pays": "Allemagne",
+              "annee": 1938,
+              "duree": 127,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104293,
+              "dateHeure": "2023-07-02T21:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 54259,
+          "content": [
+            {
+              "idFilm": 54259,
+              "ordre": 1,
+              "titre": "Dix-septième parallèle",
+              "art": "Le",
+              "realisateurs": "Joris Ivens, Marceline Loridan",
+              "pays": "France-Vietnam",
+              "annee": 1967,
+              "duree": 119,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104057,
+              "dateHeure": "2023-07-06T20:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 79092,
+          "content": [
+            {
+              "idFilm": 79092,
+              "ordre": 1,
+              "titre": "Être et avoir",
+              "realisateurs": "Nicolas Philibert",
+              "pays": "France",
+              "annee": 2002,
+              "duree": 104,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104021,
+              "dateHeure": "2023-06-24T18:00:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Nicolas Philibert"
+            }
+          ]
+        },
+        {
+          "idFilm": 54668,
+          "content": [
+            {
+              "idFilm": 54668,
+              "ordre": 1,
+              "titre": "Exode",
+              "art": "L'",
+              "titreVo": "Grass",
+              "realisateurs": "Merian C. Cooper, Ernest B. Schoedsack",
+              "pays": "États-Unis",
+              "annee": 1925,
+              "duree": 41,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Terre sans pain",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101746,
+              "dateHeure": "2023-07-09T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154415,
+          "content": [
+            {
+              "idFilm": 154415,
+              "ordre": 1,
+              "titre": "Fils du garde de chasse",
+              "art": "Le",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1906,
+              "duree": 5,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Général Idi Amin Dada",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101552,
+              "dateHeure": "2023-07-01T18:30:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Barbet Schroeder (sous réserve)"
+            }
+          ]
+        },
+        {
+          "idFilm": 62245,
+          "content": [
+            {
+              "idFilm": 62245,
+              "ordre": 2,
+              "titre": "Général Idi Amin Dada",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France-Suisse",
+              "annee": 1974,
+              "duree": 92,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Fils du garde de chasse",
+                    "Le"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101552,
+              "dateHeure": "2023-07-01T18:30:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Barbet Schroeder (sous réserve)"
+            }
+          ]
+        },
+        {
+          "idFilm": 68649,
+          "content": [
+            {
+              "idFilm": 68649,
+              "ordre": 1,
+              "titre": "Glaneurs et la Glaneuse",
+              "art": "Les",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 2000,
+              "duree": 82,
+              "version": "",
+              "format": "DCP",
+              "isFocus": true,
+              "miniTexte": "Aux quatre coins de la France, la rencontre d'Agnès Varda avec des adeptes du glanage et du grappillage. Filmé en DV, _Les Glaneurs et la Glaneuse_ passe au crible une société du gaspillage, qui oblige des laissés-pour-compte à lutter pour leur survie. Sans jamais devenir une analyse didactique, ce « road-documentary », comme le surnomme Varda, égrène un ensemble de portraits touchants, où des invisibles sont enfin mis en lumière. Dans un mélange d'impertinence et de radicalité, Varda se caractérise, elle aussi, comme une glaneuse de plans, soudain rattrapée par l'urgence du temps qui passe."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101385,
+              "dateHeure": "2023-06-25T18:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Florence Tissot"
+            }
+          ]
+        },
+        {
+          "idFilm": 53328,
+          "content": [
+            {
+              "idFilm": 53328,
+              "ordre": 1,
+              "titre": "Homme à la caméra",
+              "art": "L'",
+              "titreVo": "Tchelovek s kinoapparatom",
+              "realisateurs": "Dziga Vertov",
+              "pays": "URSS",
+              "annee": 1929,
+              "duree": 70,
+              "version": "INT. FR.",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104055,
+              "dateHeure": "2023-07-06T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 58050,
+          "content": [
+            {
+              "idFilm": 58050,
+              "ordre": 1,
+              "titre": "Joli Mai",
+              "art": "Le",
+              "realisateurs": "Chris Marker, Pierre Lhomme",
+              "pays": "France",
+              "annee": 1962,
+              "duree": 165,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Yves Montand"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101386,
+              "dateHeure": "2023-06-25T20:45:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Luc Béraud"
+            }
+          ]
+        },
+        {
+          "idFilm": 38514,
+          "content": [
+            {
+              "idFilm": 38514,
+              "ordre": 1,
+              "titre": "Jungle plate",
+              "art": "La",
+              "titreVo": "Platte jungle",
+              "artVo": "De",
+              "realisateurs": "Johan van der Keuken",
+              "pays": "Pays-Bas",
+              "annee": 1978,
+              "duree": 90,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104224,
+              "dateHeure": "2023-07-05T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 106219,
+          "content": [
+            {
+              "idFilm": 106219,
+              "ordre": 1,
+              "titre": "Marâtre",
+              "art": "La",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1906,
+              "duree": 7,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Chronique d'un été",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104053,
+              "typeAssoc": 118,
+              "dateHeure": "2023-07-01T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 41219,
+              "content": [
+                {
+                  "idFilm": 41219,
+                  "ordre": 1,
+                  "titre": "Nanouk l'esquimau",
+                  "titreVo": "Nanook of the North",
+                  "realisateurs": "Robert J. Flaherty",
+                  "pays": "États-Unis",
+                  "annee": 1922,
+                  "duree": 50,
+                  "version": "INT. FR.",
+                  "format": "DCP"
+                }
+              ],
+              "seances": []
+            },
+            {
+              "idEvenement": 28169,
+              "content": [
+                {
+                  "idConf": 28169,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec Pierre Gabaston",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Bernard Benoliel",
+                  "miniTexte": "« Révillon Frères, bailleur de fonds, commandite toute l'entreprise de _Nanouk_. Une dotation de 3 000 dollars libère les Inuits de leurs obligations de chasse et de pêche pendant le tournage du film. Les voilà à l'entière disposition de leur metteur en scène. Il va leur faire rejouer les activités dont ils viennent de se délier. Le 15 août 1919, Flaherty and C<sup>ie</sup> pénètre dans l'embouchure de l'Innusuk. (...) Un stupéfiant tournage de quinze mois commence. » (Pierre Gabaston, _Nanouk l'esquimau_, Les Enfants de cinéma, 2004) « Loin de Hollywood, de ses studios qu'il fuit et où il étoufferait, bannissant les clairs-obscurs de l'Expressionnisme, Flaherty – le réfractaire – éclaire sa toile de fond concrète d'une élémentaire source lumineuse : l'astre du jour garde sa confiance. Luit seul, le soleil. Sous son empire, une origine, blancheur, silence et infini se répondent en une symphonie parfaite. » (Pierre Gabaston, _Trafic_, printemps 2016)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 104052,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-06-25T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 50890,
+          "content": [
+            {
+              "idFilm": 50890,
+              "ordre": 1,
+              "titre": "Nuit et Brouillard",
+              "realisateurs": "Alain Resnais",
+              "pays": "France",
+              "annee": 1955,
+              "duree": 32,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Statues meurent aussi",
+                    "Les"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104307,
+              "dateHeure": "2023-07-09T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 56070,
+          "content": [
+            {
+              "idFilm": 56070,
+              "ordre": 1,
+              "titre": "Pour la suite du monde",
+              "realisateurs": "Pierre Perrault, Michel Brault",
+              "pays": "Canada",
+              "annee": 1963,
+              "duree": 105,
+              "version": "VOSTF",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101436,
+              "dateHeure": "2023-06-28T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 31875,
+          "content": [
+            {
+              "idFilm": 31875,
+              "ordre": 1,
+              "titre": "Primary",
+              "realisateurs": "Robert Drew",
+              "pays": "États-Unis",
+              "annee": 1960,
+              "duree": 60,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101616,
+              "dateHeure": "2023-07-05T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 63749,
+          "content": [
+            {
+              "idFilm": 63749,
+              "ordre": 1,
+              "titre": "Récréations",
+              "realisateurs": "Claire Simon",
+              "pays": "France",
+              "annee": 1993,
+              "duree": 54,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104205,
+              "dateHeure": "2023-07-09T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 60776,
+              "content": [
+                {
+                  "idFilm": 60776,
+                  "ordre": 1,
+                  "titre": "Reprise",
+                  "realisateurs": "Hervé Le Roux",
+                  "pays": "France",
+                  "annee": 1996,
+                  "duree": 180,
+                  "version": "",
+                  "format": "DCP"
+                }
+              ],
+              "seances": []
+            },
+            {
+              "idEvenement": 28174,
+              "content": [
+                {
+                  "idConf": 28174,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec David Faroult",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Bernard Benoliel",
+                  "miniTexte": "Juin 1968 : une jeune ouvrière des usines Wonder de Saint-Ouen refuse de reprendre le travail ; des étudiants en cinéma sont là, qui filment son cri de révolte. 1997 : le cinéaste Hervé Le Roux part à la recherche de cette belle inconnue en rencontrant d'anciens ouvriers, militants et syndicalistes, en leur donnant la parole, longuement, précisément, chaleureusement, et exhumant alors un pan enfoui d'histoire sociale, politique et culturelle... « Wonder, Wonderland, Alice à l'Usine, l'Usine en Pays des Merveilles. Le film a été tourné par des étudiants de l'IDHEC, on y voit des ouvrières qui reprennent le travail après trois semaines de grève. Et cette femme. Qui reste là. Et qui crie. Elle dit qu'elle rentrera pas, qu'elle y foutra plus les pieds dans cette tôle... Les années ont passé. L'usine est fermée. Mais j'arrive pas à oublier le visage, la voix de cette femme. J'ai décidé de la retrouver. Parce qu'elle n'a eu droit qu'à une prise. Et que je lui en dois une deuxième. » (Hervé Le Roux)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 101726,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-07-08T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 75848,
+          "content": [
+            {
+              "idFilm": 75848,
+              "ordre": 1,
+              "titre": "Sobibor, 14 octobre 1943, 16 heures",
+              "realisateurs": "Claude Lanzmann",
+              "pays": "France",
+              "annee": 2001,
+              "duree": 95,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101579,
+              "dateHeure": "2023-07-03T18:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Dominique Lanzmann, Marc Sagnol et Laura Koeppel"
+            }
+          ]
+        },
+        {
+          "idFilm": 67847,
+          "content": [
+            {
+              "idFilm": 67847,
+              "ordre": 1,
+              "titre": "Sois belle et tais-toi",
+              "realisateurs": "Delphine Seyrig",
+              "pays": "France",
+              "annee": 1977,
+              "duree": 111,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Ellen Burstyn",
+                "Jane Fonda",
+                "Anne Wiazemsky"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104060,
+              "dateHeure": "2023-07-03T20:15:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Emilie Cauquy"
+            }
+          ]
+        },
+        {
+          "idFilm": 50892,
+          "content": [
+            {
+              "idFilm": 50892,
+              "ordre": 2,
+              "titre": "Statues meurent aussi",
+              "art": "Les",
+              "realisateurs": "Alain Resnais, Chris Marker",
+              "pays": "France",
+              "annee": 1953,
+              "duree": 29,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Nuit et Brouillard",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104307,
+              "dateHeure": "2023-07-09T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 68124,
+          "content": [
+            {
+              "idFilm": 68124,
+              "ordre": 2,
+              "titre": "Sud",
+              "realisateurs": "Chantal Akerman",
+              "pays": "France-Belgique",
+              "annee": 1999,
+              "duree": 70,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Vues d'Espagne",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101553,
+              "dateHeure": "2023-07-01T21:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Claire Atherton et Alice Winocour"
+            }
+          ]
+        },
+        {
+          "idFilm": 43672,
+          "content": [
+            {
+              "idFilm": 43672,
+              "ordre": 2,
+              "titre": "Terre sans pain",
+              "titreVo": "Hurdes, tierra sin pan",
+              "artVo": "Las",
+              "realisateurs": "Luis Buñuel",
+              "pays": "Espagne",
+              "annee": 1932,
+              "duree": 27,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le récit _Las Jurdes_ de Maurice Legendre.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Exode",
+                    "L'"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101746,
+              "dateHeure": "2023-07-09T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154414,
+          "content": [
+            {
+              "idFilm": 154414,
+              "ordre": 1,
+              "titre": "Vues d'Espagne",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1905,
+              "duree": 10,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Sud",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 101553,
+              "dateHeure": "2023-07-01T21:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Claire Atherton et Alice Winocour"
+            }
+          ]
+        },
+        {
+          "idFilm": 62606,
+          "content": [
+            {
+              "idFilm": 62606,
+              "ordre": 1,
+              "titre": "Welfare",
+              "realisateurs": "Frederick Wiseman",
+              "pays": "États-Unis",
+              "annee": 1975,
+              "duree": 167,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104223,
+              "dateHeure": "2023-06-24T20:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Frederick Wiseman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Programme Jean Painlevé",
+      "items": [
+        {
+          "idEvenement": 28276,
+          "content": [
+            {
+              "idFilm": 154375,
+              "ordre": 1,
+              "titre": "Pieuvre",
+              "art": "La",
+              "realisateurs": "Jean Painlevé",
+              "pays": "France",
+              "annee": 1928,
+              "duree": 13,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 50523,
+              "ordre": 2,
+              "titre": "Hippocampe",
+              "art": "L'",
+              "realisateurs": "Jean Painlevé",
+              "pays": "France",
+              "annee": 1933,
+              "duree": 16,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 65713,
+              "ordre": 3,
+              "titre": "Acéra ou le bal des sorcières",
+              "realisateurs": "Jean Painlevé",
+              "pays": "France",
+              "annee": 1972,
+              "duree": 17,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 65711,
+              "ordre": 4,
+              "titre": "Hyas, sténorinque, spirographe",
+              "realisateurs": "Jean Painlevé",
+              "pays": "France",
+              "annee": 1929,
+              "duree": 13,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 65709,
+              "ordre": 5,
+              "titre": "Amours de la pieuvre",
+              "art": "Les",
+              "realisateurs": "Jean Painlevé",
+              "pays": "France",
+              "annee": 1965,
+              "duree": 13,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 154416,
+              "ordre": 6,
+              "titre": "Cristaux liquides",
+              "realisateurs": "Jean Painlevé",
+              "pays": "France",
+              "annee": 1978,
+              "duree": 6,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104294,
+              "dateHeure": "2023-06-28T18:30:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Brigitte Berg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
