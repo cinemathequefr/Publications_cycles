@@ -67,21 +67,19 @@
   * Amours d'une blonde (Les)  
   * Docteur Jerry et Mister Love
 
-## Cinéma bis (14)
+## Cinéma bis (12)
 
   * Blastfighter, l'exécuteur  
   * Conjugaisons sexuelles  
   * Curse of the Faceless Man  
   * Dans le cercle du vice  
   * Filles de Grenoble (Les)  
-  * Frankenstein 2000  
   * Indic (L')  
   * Où est passée Jessica  
   * Poignard de bambou (Le)  
   * Prisonnières des Martiens  
   * Six femmes pour l'assassin  
   * Soucoupes volantes attaquent (Les)  
-  * Spectre  
   * Vengeance
 
 ## Cinéma et mode, 20 indispensables (18)
@@ -168,7 +166,7 @@
   * Paris mange son pain  
   * Voyage surprise
 
-## Histoire(s) du cinéma (8)
+## Histoire(s) du cinéma (11)
 
   * Histoire(s) du cinéma, chapitre 1a : Toutes les histoires  
   * Histoire(s) du cinéma, chapitre 1b : Une histoire seule  
@@ -177,7 +175,10 @@
   * Histoire(s) du cinéma, chapitre 3a : La Monnaie de l'absolu  
   * Histoire(s) du cinéma, chapitre 3b : Une vague nouvelle  
   * Histoire(s) du cinéma, chapitre 4a : Le Contrôle de l'univers  
-  * Histoire(s) du cinéma, chapitre 4b : Les Signes parmi nous
+  * Histoire(s) du cinéma, chapitre 4b : Les Signes parmi nous  
+  * Leçons de cinéma de Godard à Montréal, programme 1  
+  * Leçons de cinéma de Godard à Montréal, programme 2  
+  * Leçons de cinéma de Godard à Montréal, programme 3
 
 ## Jean Cocteau (26)
 
