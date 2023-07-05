@@ -232,13 +232,13 @@
   * Age of Shadows (The)  
   * Bon, la brute, le cinglé (Le)  
   * Dans la toile  
-  * Dernier rempart (Le)  
+  * Dernier Rempart (Le)  
   * Deux sœurs  
   * Foul King  
   * Illang : La Brigade des loups  
   * J'ai rencontré le diable  
   * Quiet Family (The)  
-  * Trois histoires de l'au-delà
+  * Trois Histoires de l'au-delà
 
 ## Ma petite Cinémathèque (14)
 
