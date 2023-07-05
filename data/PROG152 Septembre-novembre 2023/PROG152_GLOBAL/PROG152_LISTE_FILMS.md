@@ -310,7 +310,7 @@
 
   * Amour de marin  
   * Annie du Klondike  
-  * Artistes et modèles  
+  * Artistes et Modèles  
   * Au pays du rêve  
   * Au service de la gloire  
   * Au service de Sa Majesté  
