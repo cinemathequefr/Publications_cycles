@@ -209,11 +209,10 @@
   * Villa Santo Sospir (La)  
   * Voix humaine (La)
 
-## Jerry Lewis (15)
+## Jerry Lewis (14)
 
   * A Little Fun to Match the Sorrow  
   * Au boulot, Jerry !  
-  * Clown (Der)  
   * Dingue du palace (Le)  
   * Jerry la grande gueule  
   * Jerry Lewis  
