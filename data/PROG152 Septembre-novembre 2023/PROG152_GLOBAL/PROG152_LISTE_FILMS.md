@@ -42,7 +42,7 @@
   * Soleil dort (Le)  
   * Tinikling  
   * Trois nuits par semaine  
-  * Trois tristes tigres
+  * Trois Tristes Tigres
 
 ## Catherine Breillat (15)
 
