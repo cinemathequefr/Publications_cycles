@@ -390,13 +390,16 @@
   * Wild Girl  
   * Women of All Nations
 
-## Séances spéciales (7)
+## Séances spéciales (10)
 
   * Anselm  
   * Film annonce du film qui n'existera jamais : « Drôles de Guerres »  
   * Godard par Godard  
   * Maternelle (La)  
-  * Salvador Allende  
+  * Panique à Needle Park  
+  * Portrait d'une enfant déchue  
+  * Première année (La)  
+  * Ricardo et la peinture  
   * Septembre chilien  
   * West Side Story
 

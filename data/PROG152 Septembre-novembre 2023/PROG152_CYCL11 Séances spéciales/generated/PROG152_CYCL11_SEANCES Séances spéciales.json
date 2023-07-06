@@ -10,6 +10,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 105,
+    "typeSeance": 43,
     "items": [
       {
         "idFilm": 154500,
@@ -29,12 +30,49 @@
         "version": "",
         "format": "DCP"
       }
+    ],
+    "mention": "Avant-première"
+  },
+  {
+    "idCategorie": 3150,
+    "typeEvenement": 13,
+    "idEvenement": 29104,
+    "idSeance": 107787,
+    "dateHeure": "2023-09-05T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 61816,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3150,
+    "typeEvenement": 13,
+    "idEvenement": 29103,
+    "idSeance": 107788,
+    "dateHeure": "2023-09-05T20:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 36752,
+        "ordre": 1
+      }
     ]
   },
   {
     "idCategorie": 3081,
     "typeEvenement": 13,
-    "idEvenement": 28560,
+    "idEvenement": 29071,
     "idSeance": 104380,
     "dateHeure": "2023-09-11T19:00:00",
     "idSalle": [
@@ -44,21 +82,21 @@
     "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 91465,
-        "ordre": 1,
-        "idSeance": 104380,
-        "idCopie": 26217,
-        "duree": 100,
-        "version": "",
-        "format": ""
-      },
-      {
         "idFilm": 50264,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 104380,
         "idCopie": 14254,
         "duree": 39,
-        "version": "",
+        "version": "VF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 66066,
+        "ordre": 2,
+        "idSeance": 104380,
+        "idCopie": 26387,
+        "duree": 90,
+        "version": "VF",
         "format": "DCP"
       }
     ]
@@ -109,7 +147,7 @@
         "format": "DCP"
       }
     ],
-    "mention": "Avant-première"
+    "mention": "Avant-première. Séance présentée par Wim Wenders"
   },
   {
     "idCategorie": 3134,
@@ -133,5 +171,30 @@
         "format": "DCP"
       }
     ]
+  },
+  {
+    "idCategorie": 3148,
+    "typeEvenement": 13,
+    "idEvenement": 29068,
+    "idSeance": 107784,
+    "dateHeure": "2023-11-13T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "typeSeance": 43,
+    "items": [
+      {
+        "idFilm": 154539,
+        "ordre": 1,
+        "idSeance": 107784,
+        "idCopie": 26386,
+        "duree": 90,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Avant-première. Séance présentée par Barbet Schroeder"
   }
 ]

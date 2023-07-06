@@ -14,7 +14,7 @@ Des hommes (parfois aussi des femmes) habités par une obsession, voilà le prem
 
 ## Mouvement et fébrilité
 
-_Une vie meilleure_ permet au cinéaste de déployer aussi son esthétique du mouvement et de la fébrilité qui prévaut dans nombre de ses longs métrages. Dans un film de Cédric Kahn, les personnages bougent sans cesse, la caméra doit les (pour)suivre, les accompagner. La fièvre gagne les acteurs qui les incarnent : Yvan Attal dans _Les Regrets_, Jean-Pierre Darroussin dans _Feux rouges_, Charles Berling dans _L'Ennui_, Stefano Cassetti dans _Roberto Succo_, Arieh Worthalter bien sûr dans _Le Procès Goldman_, et d'autres encore, sont animés d'une intensité commune. Cette nervosité investit la narration. On peut avoir souvent la sensation d'un danger, on peut le guetter même s'il ne vient pas. On peut aussi avoir le sentiment qu'un geste ou qu'un regard est filmé pour la première ou la dernière fois.
+_Une vie meilleure_ permet au cinéaste de déployer aussi son esthétique du mouvement et de la fébrilité qui prévaut dans nombre de ses longs métrages. Dans un film de Cédric Kahn, les personnages bougent sans cesse, la caméra doit les (pour)suivre, les accompagner. La fièvre gagne les acteurs qui les incarnent : Yvan Attal dans _Les Regrets_, Jean-Pierre Darroussin dans _Feux rouges_, Charles Berling dans _L'Ennui_, Stefano Cassetti dans _Roberto Succo_, Arieh Worthalter bien sûr dans _Le Procès Goldman_, et d'autres encore, sont animés d'une intensité commune. Cette nervosité investit la narration. On peut avoir souvent la sensation d'un danger, on peut le guetter même s'il ne vient pas. On peut aussi avoir le sentiment qu'un geste ou un regard est filmé pour la première ou la dernière fois.
 
 ## Rupture et expérimentations
 

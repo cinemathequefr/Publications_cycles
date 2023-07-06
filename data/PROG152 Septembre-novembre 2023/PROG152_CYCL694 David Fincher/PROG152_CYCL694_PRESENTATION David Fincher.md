@@ -1,4 +1,4 @@
-> David Fincher fait l'événement avec la sortie sur Netflix de _The Killer_, que la Cinémathèque propose en avant-première et en sa présence. Un temps méprisé, notamment pour les malentendus autour de _Fight Club_, Fincher a depuis acquis ses lettres de noblesse. Œuvres de jeunesse, _Seven_ ou _Panic Room_ sont des marqueurs de leur époque, quand les plus récents _Zodiac_ ou _Social Network_ ne témoignent plus seulement d'une virtuosité maniaque, mais d'une nouvelle forme de maturité. Celle des plus grands.
+> David Fincher fait l'événement avec la sortie sur Netflix de _The Killer_, que la Cinémathèque propose en avant-première et en sa présence. Un temps méprisé, notamment pour les malentendus autour de _Fight Club_, Fincher a depuis acquis ses lettres de noblesse. Œuvres de jeunesse, _Seven_ ou _Panic Room_ sont des marqueurs de leur époque, quand les plus récents _Zodiac_ ou _The Social Network_ ne témoignent plus seulement d'une virtuosité maniaque, mais d'une nouvelle forme de maturité. Celle des plus grands.
 
 # Fincher, dans la main du temps
 
