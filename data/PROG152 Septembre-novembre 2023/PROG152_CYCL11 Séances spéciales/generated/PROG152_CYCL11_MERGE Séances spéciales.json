@@ -73,6 +73,25 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 107789,
+          "ordre": 1,
+          "dateHeure": "2023-09-05T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 30,
+          "idCategorie": 3150,
+          "idEvenement": 29106,
+          "typeEvenement": 13,
+          "idFilm": 154541,
+          "titre": "Jerry Schatzberg, portrait paysage",
+          "realisateurs": "Pierre Filmon",
+          "annee": 2022,
+          "pays": "France",
+          "textes": []
+        },
+        {
           "idSeance": 107788,
           "ordre": 1,
           "dateHeure": "2023-09-05T20:30:00",
@@ -93,12 +112,15 @@
           "pays": "États-Unis",
           "generique": [
             "Al Pacino",
-            "Kitty Winn",
-            "Alan Vint",
-            "Richard Bright"
+            "Kitty Winn"
           ],
           "adaptation": "D'après le roman _The Panic in Needle Park_ de James Mills.",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Helen traverse une passe douloureuse de son existence. Elle tombe amoureuse de Bobby, un jeune drogué, qui lui redonne goût à la vie. Mais Needle Park, haut lieu du trafic de drogue new-yorkais, n'engendre que détresse et désespoir."
+            }
+          ]
         },
         {
           "idSeance": 107787,
@@ -109,6 +131,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 30,
+          "typeAssoc": 118,
           "idCategorie": 3150,
           "idEvenement": 29104,
           "typeEvenement": 13,
@@ -120,14 +143,12 @@
           "pays": "États-Unis",
           "generique": [
             "Faye Dunaway",
-            "Barry Primus",
-            "Viveca Lindfors",
-            "Barry Morse"
+            "Barry Primus"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un photographe se rend sur une petite île où réside l'une de ses amies mannequin car il souhaite faire un film à son sujet. Elle lui confie ses souvenirs."
+              "texte": "Aaron Reinhardt, photographe devenu réalisateur, arrive sur une petite île où vit Lou Andreas Sand, qui fut autrefois un célèbre mannequin. Désireux de faire un film sur sa vie mouvementée, l'artiste poursuit son interview de Lou, qui déroule le fil de sa carrière."
             }
           ]
         }
@@ -135,7 +156,7 @@
       "textes": [
         {
           "typeTexte": 8,
-          "texte": "À l'occasion de l'hommage qui lui est rendu au Festival du cinéma américain de Deauville, la Cinémathèque française reçoit Jerry Schatzberg pour une soirée spéciale, avec la projection de ses deux premiers films, les formidables _Portrait d'une enfant déchue_ et _Panique à Needle Park_, et une discussion sur son passé de photographe, sa carrière, sa Palme d'or (_L'Épouvantail_) et les nombreux acteurs (Faye Dunaway, Al Pacino, Gene Hackman, Demi Moore, Christopher Reeve, ...) qu'il a dirigés depuis 1970."
+          "texte": "À l'occasion de l'hommage qui lui est rendu au Festival du cinéma américain de Deauville, la Cinémathèque française reçoit Jerry Schatzberg pour une soirée spéciale : projection du documentaire signé par Pierre Filmon et de ses deux premiers films, suivie d'une discussion avec lui sur son passé de photographe, sa carrière, sa Palme d'or (_L'Épouvantail_) et les nombreux acteurs qu'il a dirigés depuis 1970."
         }
       ]
     },
@@ -381,7 +402,12 @@
           "duree": 90,
           "version": "",
           "format": "DCP",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un portrait du peintre Ricardo Cavallo, de Buenos Aires au Finistère, en passant par Paris et le Pérou."
+            }
+          ]
         }
       ],
       "textes": [

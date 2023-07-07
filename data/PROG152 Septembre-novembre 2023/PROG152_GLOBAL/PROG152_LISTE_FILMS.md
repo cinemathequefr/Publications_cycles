@@ -390,11 +390,12 @@
   * Wild Girl  
   * Women of All Nations
 
-## Séances spéciales (10)
+## Séances spéciales (11)
 
   * Anselm  
   * Film annonce du film qui n'existera jamais : « Drôles de Guerres »  
   * Godard par Godard  
+  * Jerry Schatzberg, portrait paysage  
   * Maternelle (La)  
   * Panique à Needle Park  
   * Portrait d'une enfant déchue  
