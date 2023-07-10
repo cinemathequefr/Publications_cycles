@@ -209,7 +209,7 @@
   * Villa Santo Sospir (La)  
   * Voix humaine (La)
 
-## Jerry Lewis (14)
+## Jerry Lewis, cinéaste (13)
 
   * A Little Fun to Match the Sorrow  
   * Au boulot, Jerry !  
@@ -220,7 +220,6 @@
   * One More Time  
   * T'es fou Jerry !  
   * Tombeur de ces dames (Le)  
-  * Tombeur de ces dames (version alternative) (Le)  
   * Tontons farceurs (Les)  
   * Trois sur un sofa  
   * Ya, ya, mon général !  
@@ -420,9 +419,10 @@
   * Pointe Courte (La)  
   * Sans toit ni loi
 
-## Víctor Erice (10)
+## Víctor Erice (11)
 
   * Alumbramiento  
+  * Correspondance Víctor Erice / Abbas Kiarostami 2005-2007  
   * Desafíos (Los)  
   * Días perdidos (Los)  
   * En la terraza  

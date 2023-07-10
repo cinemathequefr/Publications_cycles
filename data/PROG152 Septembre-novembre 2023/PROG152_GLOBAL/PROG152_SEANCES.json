@@ -536,6 +536,29 @@
     "hashEvenement": "f100397"
   },
   {
+    "idSeance": 107795,
+    "idEvenement": 29136,
+    "dateHeure": "2023-09-03T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Víctor Erice",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154517,
+        "titre": "Correspondance Víctor Erice / Abbas Kiarostami 2005-2007",
+        "realisateurs": "Víctor Erice, Abbas Kiarostami",
+        "annee": 2007,
+        "duree": 97,
+        "format": "Vidéo"
+      }
+    ],
+    "hashEvenement": "f154517"
+  },
+  {
     "idSeance": 104362,
     "idEvenement": 26879,
     "dateHeure": "2023-09-03T16:45:00",
@@ -588,7 +611,7 @@
   {
     "idSeance": 104392,
     "idEvenement": 28438,
-    "dateHeure": "2023-09-03T17:15:00",
+    "dateHeure": "2023-09-03T17:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -807,12 +830,16 @@
         "Hommage à Jerry Schatzberg"
       ]
     ],
+    "mention": "Séance présentée par Pierre Filmon",
     "items": [
       {
         "idFilm": 154541,
         "titre": "Jerry Schatzberg, portrait paysage",
         "realisateurs": "Pierre Filmon",
-        "annee": 2022
+        "annee": 2022,
+        "duree": 46,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f154541"
@@ -854,7 +881,10 @@
         "idFilm": 36752,
         "titre": "Panique à Needle Park",
         "realisateurs": "Jerry Schatzberg",
-        "annee": 1971
+        "annee": 1971,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f36752"
@@ -1036,7 +1066,6 @@
         "realisateurs": "Université Concordia",
         "annee": 1978,
         "duree": 99,
-        "version": "VF",
         "format": "DCP"
       }
     ],
@@ -1250,7 +1279,6 @@
         "realisateurs": "Université Concordia",
         "annee": 1978,
         "duree": 83,
-        "version": "VF",
         "format": "DCP"
       }
     ],
@@ -1469,7 +1497,6 @@
         "realisateurs": "Université Concordia",
         "annee": 1978,
         "duree": 80,
-        "version": "VF",
         "format": "DCP"
       }
     ],
@@ -3013,6 +3040,7 @@
         "Gustavo Vinagre"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Gustavo Vinagre",
     "items": [
       {
         "idFilm": 154510,
@@ -3064,6 +3092,7 @@
         "art": "Le",
         "realisateurs": "Cédric Kahn",
         "annee": 2023,
+        "duree": 116,
         "format": "DCP"
       }
     ],
@@ -3535,6 +3564,7 @@
         "realisateurs": "Cédric Kahn",
         "annee": 2003,
         "duree": 105,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -3649,15 +3679,6 @@
     "mention": "Séance suivie d'une discussion avec Zoel Aeschbacher",
     "items": [
       {
-        "idFilm": 154527,
-        "titre": "Misérables",
-        "art": "Les",
-        "realisateurs": "Ladj Ly",
-        "annee": 2017,
-        "duree": 16,
-        "format": "DCP"
-      },
-      {
         "idFilm": 154462,
         "titre": "Bonobo",
         "realisateurs": "Zoel Aeschbacher",
@@ -3672,9 +3693,18 @@
         "annee": 2022,
         "duree": 17,
         "format": "DCP"
+      },
+      {
+        "idFilm": 154527,
+        "titre": "Misérables",
+        "art": "Les",
+        "realisateurs": "Ladj Ly",
+        "annee": 2017,
+        "duree": 16,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f154527f154462f154463"
+    "hashEvenement": "f154462f154463f154527"
   },
   {
     "idSeance": 104652,
@@ -3694,7 +3724,8 @@
         "titre": "Voyage en pyjama",
         "art": "Le",
         "realisateurs": "Pascal Thomas",
-        "annee": 2023
+        "annee": 2023,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f154502"
@@ -3764,7 +3795,8 @@
         "art": "Le",
         "realisateurs": "Pascal Thomas",
         "annee": 1971,
-        "duree": 22
+        "duree": 22,
+        "format": "Vidéo"
       },
       {
         "idFilm": 51398,
@@ -4305,7 +4337,8 @@
         "realisateurs": "Raoul Walsh",
         "annee": 1927,
         "duree": 63,
-        "version": "INT. FR."
+        "version": "INT. FR.",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f85152"
@@ -4477,7 +4510,7 @@
         "realisateurs": "Pascal Thomas",
         "annee": 1989,
         "duree": 107,
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f51406"
@@ -4801,7 +4834,7 @@
         "realisateurs": "Pascal Thomas",
         "annee": 2011,
         "duree": 104,
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f116400"
@@ -4824,7 +4857,6 @@
         "realisateurs": "Pascal Thomas",
         "annee": 2010,
         "duree": 100,
-        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -5078,7 +5110,8 @@
     "items": [
       {
         "idConf": 28873,
-        "titre": "Concert Varda",
+        "titre": "Agnès Varda, en musique(s)",
+        "sousTitre": "Concert",
         "typeConference": "Spectacle",
         "duree": 60
       }
@@ -5721,7 +5754,7 @@
         "Kleber Mendonça Filho"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Kleber Mendonça Filho",
+    "mention": "Avant-première. Séance suivie d'une discussion avec Kleber Mendonça Filho",
     "items": [
       {
         "idFilm": 154504,
@@ -5813,7 +5846,10 @@
         "titre": "Amours d'une blonde",
         "art": "Les",
         "realisateurs": "Miloš Forman",
-        "annee": 1965
+        "annee": 1965,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "35 mm"
       },
       {
         "idConf": 28724,
@@ -6340,6 +6376,7 @@
         "Courts métrages Arte"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Hélène Vayssières",
     "items": [
       {
         "idFilm": 154505,
@@ -7143,7 +7180,7 @@
         "annee": 1939,
         "duree": 90,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f80137"
@@ -7155,7 +7192,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ]
     ],
@@ -7230,7 +7267,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Rencontres et conférences"
       ]
     ],
@@ -7277,7 +7314,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ]
     ],
@@ -7358,7 +7395,8 @@
         "realisateurs": "Edward L. Cahn",
         "annee": 1958,
         "duree": 67,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f30781"
@@ -7419,11 +7457,11 @@
     "salle": "HL",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ],
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Rencontres et conférences"
       ]
     ],
@@ -7502,7 +7540,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ]
     ],
@@ -7551,7 +7589,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ]
     ],
@@ -7575,7 +7613,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ],
       [
@@ -7604,7 +7642,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ]
     ],
@@ -7660,7 +7698,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ]
     ],
@@ -7735,30 +7773,6 @@
       }
     ],
     "hashEvenement": "f154539"
-  },
-  {
-    "idSeance": 105054,
-    "idEvenement": 28921,
-    "dateHeure": "2023-11-15T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Jerry Lewis",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154529,
-        "titre": "Tombeur de ces dames (version alternative)",
-        "art": "Le",
-        "realisateurs": "Jerry Lewis",
-        "annee": 1961,
-        "duree": 95,
-        "version": "VOSTF"
-      }
-    ],
-    "hashEvenement": "f154529"
   },
   {
     "idSeance": 104604,
@@ -7963,11 +7977,11 @@
     "salle": "HL",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ],
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Rencontres et conférences"
       ]
     ],
@@ -8096,7 +8110,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ]
     ],
@@ -8505,7 +8519,7 @@
         "Rencontres et conférences"
       ],
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ]
     ],
@@ -8555,7 +8569,7 @@
   {
     "idSeance": 104893,
     "idEvenement": 28569,
-    "dateHeure": "2023-11-23T20:30:00",
+    "dateHeure": "2023-11-23T20:45:00",
     "salle": "JE",
     "cycle": [
       [
@@ -8705,11 +8719,11 @@
     "salle": "HL",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Les films"
       ],
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Rencontres et conférences"
       ]
     ],
@@ -8750,8 +8764,8 @@
         "art": "Les",
         "realisateurs": "Agnès Varda",
         "annee": 1966,
-        "duree": 90,
-        "format": "35 mm"
+        "duree": 105,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f51604"
@@ -8763,7 +8777,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Jerry Lewis",
+        "Jerry Lewis, cinéaste",
         "Autour de Jerry Lewis"
       ]
     ],
@@ -8897,7 +8911,7 @@
         "Les films"
       ]
     ],
-    "mention": "Accompagnement musical par Materia Nova. Séance présentée par Irène Bonnaud",
+    "mention": "Accompagnement musical par Nova Materia. Séance présentée par Irène Bonnaud",
     "items": [
       {
         "idFilm": 32623,
