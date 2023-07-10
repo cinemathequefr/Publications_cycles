@@ -404,7 +404,7 @@
   * Septembre chilien  
   * West Side Story
 
-## Viva Varda ! (14)
+## Viva Varda ! (13)
 
   * Black Panthers  
   * Bonheur (Le)  
@@ -418,8 +418,7 @@
   * Oncle Yanco  
   * Plages d'Agnès (Les)  
   * Pointe Courte (La)  
-  * Sans toit ni loi  
-  * Viva Varda !
+  * Sans toit ni loi
 
 ## Víctor Erice (9)
 
