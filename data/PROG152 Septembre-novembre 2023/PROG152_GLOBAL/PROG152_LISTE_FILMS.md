@@ -157,11 +157,11 @@
   * Amor pedestre  
   * Avventura galante di un provinciale (L')  
   * C'est la tangente que je préfère  
+  * Cretinetti e le donne  
   * Damnation de Caïn (La)  
   * Fille des flots (La)  
   * Filles, personne s'en méfie (Les)  
   * Grandeur et déchéance  
-  * Gribouille et les femmes  
   * Paris la belle  
   * Paris mange son pain  
   * Voyage surprise
