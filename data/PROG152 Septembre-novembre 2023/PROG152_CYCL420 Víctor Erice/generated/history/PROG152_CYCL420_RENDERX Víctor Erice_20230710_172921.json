@@ -5,9 +5,34 @@
   ],
   "sousCycles": [
     {
-      "tri": 4,
+      "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 154517,
+          "content": [
+            {
+              "idFilm": 154517,
+              "ordre": 1,
+              "titre": "Correspondance Víctor Erice / Abbas Kiarostami 2005-2007",
+              "titreVo": "Víctor Erice / Abbas Kiarostami: Correspondencias",
+              "realisateurs": "Víctor Erice, Abbas Kiarostami",
+              "pays": "Espagne-Iran",
+              "annee": 2007,
+              "duree": 97,
+              "version": "",
+              "format": "Vidéo",
+              "miniTexte": "Filmé en caméra DV, un échange poétique où chaque réalisateur met en scène l'œuvre de l'autre. Ces lettres vidéo ont été réalisées en vue de l'exposition « Víctor Erice / Abbas Kiarostami : Correspondances » consacrée aux deux cinéastes au CCCB (Barcelone) et au Centre Pompidou (Paris)."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107795,
+              "dateHeure": "2023-09-03T15:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
         {
           "idFilm": 97089,
           "content": [
@@ -73,27 +98,35 @@
           ]
         },
         {
-          "idFilm": 154517,
+          "idFilm": 43743,
           "content": [
             {
-              "idFilm": 154517,
+              "idFilm": 43743,
               "ordre": 1,
-              "titre": "Correspondance Víctor Erice / Abbas Kiarostami 2005-2007",
-              "titreVo": "Víctor Erice / Abbas Kiarostami: Correspondencias",
-              "realisateurs": "Víctor Erice, Abbas Kiarostami",
-              "pays": "Espagne-Iran",
-              "annee": 2007,
-              "duree": 97,
-              "version": "",
-              "format": "Vidéo",
-              "miniTexte": "Filmé en caméra DV, un échange poétique où chaque réalisateur met en scène l'œuvre de l'autre. Ces lettres vidéo ont été réalisées en vue de l'exposition « Víctor Erice / Abbas Kiarostami : Correspondances » consacrée aux deux cinéastes au CCCB (Barcelone) et au Centre Pompidou (Paris)."
+              "titre": "Songe de la lumière",
+              "art": "Le",
+              "titreVo": "Sol del membrillo",
+              "artVo": "El",
+              "realisateurs": "Víctor Erice",
+              "pays": "Espagne",
+              "annee": 1992,
+              "duree": 138,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Antonio López García",
+                "María Moreno",
+                "Enrique Gran"
+              ],
+              "miniTexte": "Devant la caméra de Víctor Erice, le peintre Antonio López cherche à capter sur sa toile la lumière automnale qui baigne un cognassier de son jardin. Une confrontation amoureuse du cinéma avec la peinture, filmée avec une ferveur presque religieuse."
             }
           ],
           "seances": [
             {
-              "idSeance": 107795,
-              "dateHeure": "2023-09-03T15:00:00",
-              "idSalle": "JE"
+              "idSeance": 105008,
+              "dateHeure": "2023-09-03T19:30:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Miquel Escudero Diéguez"
             }
           ]
         },
@@ -124,39 +157,6 @@
             {
               "idSeance": 105007,
               "dateHeure": "2023-09-03T17:15:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par Miquel Escudero Diéguez"
-            }
-          ]
-        },
-        {
-          "idFilm": 43743,
-          "content": [
-            {
-              "idFilm": 43743,
-              "ordre": 1,
-              "titre": "Songe de la lumière",
-              "art": "Le",
-              "titreVo": "Sol del membrillo",
-              "artVo": "El",
-              "realisateurs": "Víctor Erice",
-              "pays": "Espagne",
-              "annee": 1992,
-              "duree": 138,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Antonio López García",
-                "María Moreno",
-                "Enrique Gran"
-              ],
-              "miniTexte": "Devant la caméra de Víctor Erice, le peintre Antonio López cherche à capter sur sa toile la lumière automnale qui baigne un cognassier de son jardin. Une confrontation amoureuse du cinéma avec la peinture, filmée avec une ferveur presque religieuse."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 105008,
-              "dateHeure": "2023-09-03T19:30:00",
               "idSalle": "GF",
               "mention": "Séance présentée par Miquel Escudero Diéguez"
             }
