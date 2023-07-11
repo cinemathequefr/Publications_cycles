@@ -29,6 +29,7 @@
   * Envoûtement (L')  
   * Fairplay  
   * J'ai vu le visage du diable  
+  * Jean-Jacques  
   * Ma petite reine  
   * Margarethe 89  
   * Mars Express  
@@ -38,7 +39,6 @@
   * Nova Dubai  
   * Petite Vendeuse de Soleil (La)  
   * Portraits fantômes  
-  * Roi David (Le)  
   * Soleil dort (Le)  
   * Tinikling  
   * Trois nuits par semaine  

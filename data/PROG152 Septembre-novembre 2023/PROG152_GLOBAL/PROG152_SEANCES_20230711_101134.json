@@ -44,6 +44,7 @@
         "realisateurs": "Raoul Walsh",
         "annee": 1924,
         "duree": 3,
+        "version": "STF",
         "format": "DCP"
       },
       {
@@ -774,16 +775,8 @@
         "Avant-première Godard"
       ]
     ],
-    "mention": "Avant-première. Séance présentée par Frédéric Bonnaud",
+    "mention": "Avant-première",
     "items": [
-      {
-        "idFilm": 154499,
-        "titre": "Film annonce du film qui n'existera jamais : « Drôles de Guerres »",
-        "realisateurs": "Jean-Luc Godard",
-        "annee": 2023,
-        "duree": 20,
-        "format": "DCP"
-      },
       {
         "idFilm": 154500,
         "titre": "Godard par Godard",
@@ -791,9 +784,17 @@
         "annee": 2023,
         "duree": 60,
         "format": "DCP"
+      },
+      {
+        "idFilm": 154499,
+        "titre": "Film annonce du film qui n'existera jamais : « Drôles de Guerres »",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 2023,
+        "duree": 20,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f154499f154500"
+    "hashEvenement": "f154500f154499"
   },
   {
     "idSeance": 105059,
@@ -1671,10 +1672,10 @@
     "cycle": [
       [
         "Aujourd'hui le cinéma",
-        "Yolande Zauberman"
+        "Yolande Zauberman / Lila Pinell"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Yolande Zauberman",
+    "mention": "Séance suivie d'une discussion avec Yolande Zauberman et Lila Pinell",
     "items": [
       {
         "idFilm": 51799,
@@ -1683,9 +1684,18 @@
         "annee": 1987,
         "duree": 55,
         "format": "DCP"
+      },
+      {
+        "idFilm": 154503,
+        "titre": "Roi David",
+        "art": "Le",
+        "realisateurs": "Lila Pinell",
+        "annee": 2021,
+        "duree": 41,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f51799"
+    "hashEvenement": "f51799f154503"
   },
   {
     "idSeance": 104781,
@@ -2664,7 +2674,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Jean-François Rauger",
     "items": [
       {
         "idFilm": 83125,
@@ -7715,7 +7724,7 @@
   },
   {
     "idSeance": 105041,
-    "idEvenement": 29160,
+    "idEvenement": 28533,
     "dateHeure": "2023-11-13T19:00:00",
     "salle": "JE",
     "cycle": [
@@ -7736,14 +7745,6 @@
         "format": "DCP"
       },
       {
-        "idFilm": 53221,
-        "titre": "Jean-Jacques",
-        "realisateurs": "Jean Gaumy",
-        "annee": 1985,
-        "duree": 51,
-        "format": "16 mm"
-      },
-      {
         "idFilm": 65226,
         "titre": "Petite Vendeuse de Soleil",
         "art": "La",
@@ -7754,7 +7755,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154467f53221f65226"
+    "hashEvenement": "f154467f65226"
   },
   {
     "idSeance": 107784,
@@ -7774,7 +7775,7 @@
         "titre": "Ricardo et la peinture",
         "realisateurs": "Barbet Schroeder",
         "annee": 2023,
-        "duree": 106,
+        "duree": 90,
         "format": "DCP"
       }
     ],
