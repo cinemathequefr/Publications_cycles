@@ -1,4 +1,4 @@
-> L'une des réalisatrices les plus transgressives du cinéma français contemporain. Œil acéré sur l'adolescence, l'amour et la violence, Catherine Breillat ausculte depuis 50 ans les rapports entre les sexes avec justesse et âpreté. Un cinéma moral, mais jamais moralisateur, sans concession, qui nous manquait : voilà dix ans (_Abus de faiblesse_) que Breillat n'avait pas tourné. Nous célébrons son grand retour avec une leçon de cinéma, et l'avant-première de son nouveau film, _L'Été dernier_.
+> L'une des cinéastes les plus transgressives du cinéma français contemporain. Œil acéré sur l'adolescence, l'amour et la violence, Catherine Breillat ausculte depuis 50 ans les rapports entre les sexes avec justesse et âpreté. Un cinéma moral, mais jamais moralisateur, sans concession, qui nous manquait : voilà dix ans (_Abus de faiblesse_) que Breillat n'avait pas tourné. Nous célébrons son grand retour avec une leçon de cinéma, et l'avant-première de son nouveau film, _L'Été dernier_.
 
 # L'Infilmable
 

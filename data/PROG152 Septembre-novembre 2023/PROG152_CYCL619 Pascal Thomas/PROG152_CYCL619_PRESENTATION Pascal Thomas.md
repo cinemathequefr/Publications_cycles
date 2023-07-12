@@ -1,4 +1,4 @@
-> Menée sur un rythme dilettante, la carrière de Pascal Thomas est un joyeux lacis de comédies hédonistes (_Les Zozos_, _Pleure pas la bouche pleine_, _Mercredi, folle journée !_) ou plus récemment d'adaptations ludiques d'Agatha Christie (_L'Heure zéro_). Un cinéma populaire, exhilarant, régulièrement traversé d'écarts mélancoliques, à l'image de son dernier film, _Le Voyage en pyjama_, présenté en avant-première.
+> Il devient cinéaste à l'orée des années 70, sous l'impulsion de Claude Berri, le premier à déceler chez lui un talent inédit pour raconter l'adolescence, la France rurale et les atermoiements du cœur (_Les Zozos_, _Pleure pas la bouche pleine_). 50 ans et 20 longs métrages plus tard, Pascal Thomas présente son nouveau film en avant-première et revient sur sa carrière de touche-à-tout, émaillée de succès publics et critiques (_La Dilettante_, _Mercredi, folle journée !_, _Le crime est notre affaire_).
 
 # La comédie est son affaire
 

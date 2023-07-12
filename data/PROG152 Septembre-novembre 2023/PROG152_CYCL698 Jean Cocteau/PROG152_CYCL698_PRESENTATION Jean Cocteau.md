@@ -1,4 +1,4 @@
-> Pour marquer le 60<sup>e</sup> anniversaire de sa disparition, hommage au poète-cinéaste, réalisateur mais aussi scénariste ou dialoguiste (_Les Dames du bois de Boulogne_), avec des œuvres mêlant beauté, rêve (_La Belle et la Bête_), amour et mort (_Orphée_), multipliant les expérimentations, de la veine surréaliste (_Le Sang d'un poète_) à la poésie la plus brute.
+> Pour marquer le 60<sup>e</sup> anniversaire de sa disparition, hommage à Jean Cocteau. Poète, puis poète-cinéaste, lui préférait se qualifier d'ébéniste, qui tournait des films comme d'autres font tourner des tables. Le premier tour de magie, _Le Sang d'un poète_, sera suivi de sept autres films, dont _La Belle et la Bête_ et _Orphée_, à revoir tous sur grand écran. Une rétrospective complétée de son œuvre de scénariste (_Le Baron fantôme_) et de dialoguiste (_Les Dames du bois de Boulogne_), moins souvent célébrée, pas moins sidérante.\nAvec le soutien de CHANEL
 
 # Jean Cocteau, à l'improviste
 

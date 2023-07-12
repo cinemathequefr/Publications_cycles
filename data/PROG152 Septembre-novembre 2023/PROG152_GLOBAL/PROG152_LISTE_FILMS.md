@@ -227,7 +227,7 @@
 
 ## Kim Jee-woon (11)
 
-  * A Bittersweet Life  
+  * A Bittersweet Life (Director's Cut)  
   * Age of Shadows (The)  
   * Bon, la brute, le cinglé (Le)  
   * Dans la toile  
@@ -272,7 +272,7 @@
   * Sorcière (La)  
   * Vampire sanglant (Le)
 
-## Parlons cinéma avec David Perrault (4)
+## Parlons cinéma... avec David Perrault (4)
 
   * Bellissima  
   * Candyman  

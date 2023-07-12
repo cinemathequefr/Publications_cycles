@@ -4,4 +4,4 @@ Les films choisis ici sont portés par des héroïnes en lutte avec leur prédes
 
 Voilà donc des films qui prennent le risque de la rupture avec le système qui les a produits et, surtout, avec eux-mêmes. Ils font se côtoyer l'ancien et le moderne, le pur et l'impur, la beauté et la vulgarité, le grand art et les formes populaires. Ils rendent compte de cette croyance qui est aussi la mienne : il faut décloisonner les styles et les genres pour rendre au cinéma ses infinies possibilités.
 
-David Perrault
+David Perrault (réalisateur de _Nos héros sont morts ce soir_ et _L'État sauvage_)
