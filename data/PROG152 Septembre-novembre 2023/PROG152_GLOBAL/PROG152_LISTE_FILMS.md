@@ -419,16 +419,14 @@
   * Pointe Courte (La)  
   * Sans toit ni loi
 
-## Víctor Erice (11)
+## Víctor Erice (9)
 
-  * Alumbramiento  
   * Correspondance Víctor Erice / Abbas Kiarostami 2005-2007  
   * Desafíos (Los)  
   * Días perdidos (Los)  
   * En la terraza  
   * Entre vías  
   * Esprit de la ruche (L')  
-  * Morte rouge (La)  
   * Páginas de un diario perdido  
   * Songe de la lumière (Le)  
   * Sur (El)  
