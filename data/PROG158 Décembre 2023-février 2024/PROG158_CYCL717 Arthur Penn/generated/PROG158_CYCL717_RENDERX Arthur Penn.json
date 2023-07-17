@@ -1,0 +1,59 @@
+{
+  "datesCycle": [
+    "2024-02-21T20:00:00",
+    "2024-02-22T19:30:00"
+  ],
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 35694,
+          "content": [
+            {
+              "idFilm": 35694,
+              "ordre": 1,
+              "titre": "Georgia",
+              "titreVo": "Four Friends",
+              "realisateurs": "Arthur Penn",
+              "pays": "États-Unis",
+              "annee": 1981
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107255,
+              "dateHeure": "2024-02-21T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 35810,
+          "content": [
+            {
+              "idFilm": 35810,
+              "ordre": 1,
+              "titre": "Miracle en Alabama = Sous un autre soleil",
+              "titreVo": "Miracle Worker",
+              "artVo": "The",
+              "realisateurs": "Arthur Penn",
+              "pays": "États-Unis",
+              "annee": 1961,
+              "adaptation": "D'après la pièce _The Miracle worker_ de William Gibson."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107292,
+              "dateHeure": "2024-02-22T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

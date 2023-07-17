@@ -182,7 +182,7 @@
 
 ## Jean Cocteau (26)
 
-  * 8 × 8 : A Chess Sonata in 8 Movements  
+  * 8 × 8: A Chess Sonata in 8 Movements  
   * Aigle à deux têtes (L')  
   * Amore (L')  
   * Anna, la bonne  

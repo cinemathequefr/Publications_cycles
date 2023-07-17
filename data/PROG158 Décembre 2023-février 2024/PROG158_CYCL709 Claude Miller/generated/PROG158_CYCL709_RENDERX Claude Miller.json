@@ -1,0 +1,73 @@
+{
+  "datesCycle": [
+    "2024-01-27T14:30:00",
+    "2024-02-03T14:30:00"
+  ],
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 50134,
+          "content": [
+            {
+              "idFilm": 50134,
+              "ordre": 1,
+              "titre": "Effrontée",
+              "art": "L'",
+              "realisateurs": "Claude Miller",
+              "pays": "France-Suisse",
+              "annee": 1985,
+              "duree": 96,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 10,
+              "generique": [
+                "Charlotte Gainsbourg",
+                "Bernadette Lafont",
+                "Julie Glenn"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 106831,
+              "dateHeure": "2024-02-03T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 50170,
+          "content": [
+            {
+              "idFilm": 50170,
+              "ordre": 1,
+              "titre": "Meilleure façon de marcher",
+              "art": "La",
+              "realisateurs": "Claude Miller",
+              "pays": "France",
+              "annee": 1975,
+              "duree": 82,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Patrick Dewaere",
+                "Patrick Bouchitey",
+                "Christine Pascal"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 106652,
+              "dateHeure": "2024-01-27T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
