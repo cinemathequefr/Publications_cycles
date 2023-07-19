@@ -1,0 +1,107 @@
+{
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "groupe": [
+            {
+              "idFilm": 151644,
+              "content": [
+                {
+                  "idFilm": 151644,
+                  "ordre": 1,
+                  "titre": "Ailleurs, partout",
+                  "realisateurs": "Vivianne Perelmuter, Isabelle Ingold",
+                  "pays": "Belgique",
+                  "annee": 2020,
+                  "duree": 63,
+                  "version": "VOSTF",
+                  "format": "DCP"
+                }
+              ],
+              "seances": []
+            },
+            {
+              "idEvenement": 26801,
+              "content": [
+                {
+                  "idConf": 26801,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec Vivianne Perelmuter et Isabelle Ingold",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Emmanuelle André et Frédérique Berthet"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 76159,
+                  "typeAssoc": 118,
+                  "dateHeure": "2022-12-08T17:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idEvenement": 27082,
+              "content": [
+                {
+                  "idConf": 27082,
+                  "titre": "Pour une reprise féministe de l'histoire du cinéma",
+                  "sousTitre": "Conférence d'Hélène Fleckinger",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 88632,
+                  "idSeanceAssoc": 77842,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-02-09T17:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "À la suite de la conférence, à 19h30, projection d'un film choisi par le conférencier : _La Fiancée du pirate_ de Nelly Kaplan"
+                }
+              ]
+            },
+            {
+              "idFilm": 49428,
+              "content": [
+                {
+                  "idFilm": 49428,
+                  "ordre": 1,
+                  "titre": "Fiancée du pirate",
+                  "art": "La",
+                  "realisateurs": "Nelly Kaplan",
+                  "pays": "France",
+                  "annee": 1969,
+                  "duree": 107,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Bernadette Lafont",
+                    "Georges Géret",
+                    "Michel Constantin"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 77842,
+                  "idSeanceAssoc": 77842,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-02-09T19:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

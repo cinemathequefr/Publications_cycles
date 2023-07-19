@@ -1,0 +1,114 @@
+{
+  "datesCycle": [
+    "2022-12-03T14:30:00",
+    "2022-12-04T18:00:00"
+  ],
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 153653,
+          "content": [
+            {
+              "idFilm": 153653,
+              "ordre": 1,
+              "titre": "Esterno notte",
+              "realisateurs": "Marco Bellocchio",
+              "pays": "Italie",
+              "annee": 2022,
+              "duree": 330,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Fabrizio Gifuni",
+                "Margherita Buy",
+                "Toni Servillo"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 76050,
+              "dateHeure": "2022-12-03T14:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Marco Bellocchio"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idEvenement": 27037,
+              "content": [
+                {
+                  "idConf": 27037,
+                  "ordre": 1,
+                  "titre": "Dialogue avec Marco Bellocchio + Film",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Rencontre animée par Jean-François Rauger"
+                }
+              ],
+              "seances": []
+            },
+            {
+              "idFilm": 153990,
+              "content": [
+                {
+                  "idFilm": 153990,
+                  "ordre": 2,
+                  "titre": "Marx peut attendre",
+                  "titreVo": "Marx può aspettare",
+                  "realisateurs": "Marco Bellocchio",
+                  "pays": "Italie",
+                  "annee": 2021,
+                  "duree": 96,
+                  "version": "VOSTF",
+                  "format": "DCP"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 88071,
+                  "typeAssoc": 118,
+                  "dateHeure": "2022-12-04T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 88437,
+          "content": [
+            {
+              "idFilm": 88437,
+              "ordre": 1,
+              "titre": "Buongiorno, notte",
+              "realisateurs": "Marco Bellocchio",
+              "pays": "Italie",
+              "annee": 2003,
+              "duree": 105,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Maya Sansa",
+                "Luigi Lo Cascio",
+                "Roberto Herlitzka"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 76068,
+              "dateHeure": "2022-12-04T18:00:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Marco Bellocchio"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
