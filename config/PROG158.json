@@ -26,7 +26,18 @@
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
       "isReg": true,
-      "sousCycles": [{ "titre": "", "cats": [], "tri": 4 }]
+      "sousCycles": [
+        {
+          "titre": "Avant-première Bertrand Mandico",
+          "cats": [3125],
+          "tri": 4
+        },
+        {
+          "titre": "Festival Entrevues Belfort",
+          "cats": [3070],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 143,
@@ -50,7 +61,7 @@
       "sousCycles": [
         {
           "titre": "",
-          "cats": [],
+          "cats": [3162],
           "tri": 4
         },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
@@ -61,14 +72,6 @@
       "titreCycle": "Ciné-club de Frédéric Bonnaud",
       "isReg": true,
       "sousCycles": [{ "titre": "", "cats": [], "tri": 4 }],
-      "excludeSeances": []
-    },
-    {
-      "idCycleProg": null,
-      "isReg": true,
-      "type": "jp",
-      "titreCycle": "Ma petite Cinémathèque",
-      "sousCycles": [{ "titre": "Les films", "cats": [], "tri": 4 }],
       "excludeSeances": []
     },
     {
@@ -123,7 +126,10 @@
     {
       "idCycleProg": 712,
       "titreCycle": "Barbet Schroeder",
-      "sousCycles": [{ "titre": "Les films", "cats": [3146], "tri": 1 }]
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3146], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [3176], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": 713,
@@ -150,6 +156,16 @@
         { "titre": "Les films", "cats": [3161], "tri": 1 },
         { "titre": "Courts métrages", "cats": [3163], "tri": 2 }
       ]
+    },
+    {
+      "idCycleProg": 723,
+      "titreCycle": "Le cinéma d'horreur : 25 indispensables",
+      "sousCycles": [{ "titre": "Les films", "cats": [3171], "tri": 1 }]
+    },
+    {
+      "idCycleProg": 724,
+      "titreCycle": "David Lean",
+      "sousCycles": [{ "titre": "Les films", "cats": [3172], "tri": 1 }]
     }
   ]
 }

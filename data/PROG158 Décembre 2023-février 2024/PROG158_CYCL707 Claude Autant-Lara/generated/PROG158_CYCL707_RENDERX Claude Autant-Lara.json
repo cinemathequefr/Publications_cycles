@@ -1,13 +1,34 @@
 {
   "datesCycle": [
-    "2023-12-13T20:00:00",
-    "2023-12-13T20:00:00"
+    "2024-02-07T20:00:00",
+    "2024-02-25T15:00:00"
   ],
   "sousCycles": [
     {
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 46279,
+          "content": [
+            {
+              "idFilm": 46279,
+              "ordre": 1,
+              "titre": "Sylvie et le fantôme",
+              "realisateurs": "Claude Autant-Lara",
+              "pays": "France",
+              "annee": 1945,
+              "adaptation": "D'après la pièce _Sylvie et le fantôme_ d'Alfred Adam."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107389,
+              "dateHeure": "2024-02-25T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 46280,
           "content": [
@@ -32,8 +53,8 @@
           ],
           "seances": [
             {
-              "idSeance": 105465,
-              "dateHeure": "2023-12-13T20:00:00",
+              "idSeance": 106897,
+              "dateHeure": "2024-02-07T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
             }
