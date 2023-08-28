@@ -412,24 +412,19 @@
   * Demoiselles ont eu 25 ans (Les)  
   * Documenteur  
   * Glaneurs et la Glaneuse (Les)  
-  * Lions Love  
+  * Lions Love (... and lies)  
   * Mur murs  
-  * Oncle Yanco  
   * Plages d'Agnès (Les)  
   * Pointe Courte (La)  
-  * Sans toit ni loi
+  * Sans toit ni loi  
+  * Uncle Yanco
 
-## Víctor Erice (12)
+## Víctor Erice (7)
 
   * Alumbramiento  
   * Correspondance Víctor Erice / Abbas Kiarostami 2005-2007  
-  * Desafíos (Los)  
-  * Días perdidos (Los)  
-  * En la terraza  
-  * Entre vías  
   * Esprit de la ruche (L')  
   * Morte rouge (La)  
-  * Páginas de un diario perdido  
   * Songe de la lumière (Le)  
   * Sur (El)  
   * Vidros partidos  
