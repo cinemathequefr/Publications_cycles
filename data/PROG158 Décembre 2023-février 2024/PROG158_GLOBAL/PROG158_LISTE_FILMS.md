@@ -62,12 +62,19 @@
   * Sylvie et le fantôme  
   * Traversée de Paris (La)
 
-## Claude Miller (4)
+## Claude Miller (11)
 
+  * Accompagnatrice (L')  
+  * Chambre des magiciennes (La)  
+  * Classe de neige (La)  
+  * Dites-lui que je l'aime  
   * Effrontée (L')  
   * Garde à vue  
+  * Heures blanches (Les)  
   * Meilleure façon de marcher (La)  
-  * Mortelle randonnée
+  * Mortelle randonnée  
+  * Petite voleuse (La)  
+  * Sourire (Le)
 
 ## David Lean (16)
 
@@ -138,47 +145,54 @@
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous
 
-## Richard Fleischer (32)
+## Richard Fleischer (37)
 
   * Arena  
   * Armored Car Robbery  
   * Assassin sans visage (L')  
-  * Bandido  
+  * Bandido caballero !  
   * Barabbas  
   * Bodyguard  
   * Child of Divorce  
-  * Clay Pidgeon (The)  
   * Complices de la dernière chance (Les)  
+  * Conan le destructeur  
+  * Don Angelo est mort  
   * Drame dans un miroir  
   * Du sang dans la poussière  
   * Duel dans la boue  
   * Énigme du Chicago Express (L')  
-  * Etrangleur de Boston (L')  
-  * Etrangleur de la place Rillington (L')  
-  * Extravagant Docteur Dolittle (L')  
+  * Étrangleur de Boston (L')  
+  * Étrangleur Rillington Place (L')  
+  * Extravagant docteur Dolittle (L')  
   * Fille sur la balançoire (La)  
   * Flics ne dorment pas la nuit (Les)  
   * Génie du mal (Le)  
   * Inconnus dans la ville (Les)  
+  * Kalidor, la légende du talisman  
   * Make Mine Laughs  
   * Mandingo  
-  * Mister Majestyk  
+  * Mon chien et moi  
+  * Mr. Majestyk  
+  * Pigeon d'argile (Le)  
   * Sacré printemps  
   * So This Is New York  
   * Soleil vert  
   * Temps de la colère (Le)  
   * Terreur aveugle  
+  * Tora! Tora! Tora!  
   * Traquenard (Le)  
   * Vikings (Les)  
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (22)
+## Roberto Rossellini (24)
 
+  * Âge du fer (L')  
   * Allemagne, année zéro  
+  * Âme noire  
   * Amore (L')  
   * Europe 51  
-  * Evadés de la nuit (Les)  
+  * Évadés de la nuit (Les)  
   * Général Della Rovere (Le)  
   * Homme à la croix (L')  
   * Jeanne au bûcher  
@@ -191,7 +205,7 @@
   * Peur (La)  
   * Prise de pouvoir par Louis XIV (La)  
   * Proie du désir (La)  
-  * Rome ville ouverte  
+  * Rome, ville ouverte  
   * Sept péchés capitaux : L'Envie (Les)  
   * Stromboli  
   * Un pilote revient  
