@@ -5,18 +5,18 @@
   * Ariel  
   * Au loin s'en vont les nuages  
   * Autre côté de l'espoir (L')  
-  * Calamari union  
+  * Calamari Union  
   * Cinema Laika  
   * Crime et châtiment  
   * Fille aux allumettes (La)  
-  * Hamlet goes business  
+  * Hamlet Goes Business  
   * Homme sans passé (L')  
   * J'ai engagé un tueur  
   * Juha  
   * Leningrad Cowboys Go America  
-  * Leningrad cowboys rencontrent Moïse (Les)  
+  * Leningrad Cowboys rencontrent Moïse (Les)  
   * Lumières du faubourg (Les)  
-  * Shadows in paradise  
+  * Shadows in Paradise  
   * Syndrome du lac Saimaa (Le)  
   * Tiens ton foulard, Tatiana  
   * Vie de bohème (La)
@@ -29,7 +29,7 @@
 ## Arthur Penn (2)
 
   * Georgia  
-  * Miracle en Alabama = Sous un autre soleil
+  * Miracle en Alabama
 
 ## Barbet Schroeder (23)
 
@@ -185,30 +185,42 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (24)
+## Roberto Rossellini (36)
 
+  * Actes des apôtres (Les)  
+  * Âge de Cosme de Médicis (L')  
   * Âge du fer (L')  
   * Allemagne, année zéro  
   * Âme noire  
   * Amore (L')  
+  * An un (L')  
+  * Augustin d'Hippone  
+  * Blaise Pascal  
+  * Descartes  
   * Europe 51  
   * Évadés de la nuit (Les)  
   * Général Della Rovere (Le)  
   * Homme à la croix (L')  
+  * Idée d'une île  
   * Jeanne au bûcher  
   * Machine à tuer les méchants (La)  
+  * Messie (Le)  
   * Navire blanc (Le)  
   * Nous, les femmes : Ingrid Bergman  
-  * Onze fioretti de Saint François d' Assise (Les)  
+  * Onze fioretti de Saint François d'Assise (Les)  
   * Où est la liberté ?  
   * Paisà  
   * Peur (La)  
   * Prise de pouvoir par Louis XIV (La)  
   * Proie du désir (La)  
+  * Psychodrame (Le)  
+  * Ro.Go.Pa.G  
   * Rome, ville ouverte  
   * Sept péchés capitaux : L'Envie (Les)  
+  * Socrate  
   * Stromboli  
   * Un pilote revient  
+  * Vanina Vanini  
   * Viva l'Italia  
   * Voyage en Italie
 
