@@ -26,10 +26,17 @@
   * Amussu  
   * Le Parti du cinéma
 
-## Arthur Penn (2)
+## Arthur Penn (9)
 
+  * Alice's Restaurant  
+  * Bonnie and Clyde  
+  * Fugue (La)  
+  * Gaucher (Le)  
   * Georgia  
-  * Miracle en Alabama
+  * Mickey One  
+  * Miracle en Alabama  
+  * Missouri Breaks  
+  * Poursuite impitoyable (La)
 
 ## Barbet Schroeder (23)
 
@@ -57,24 +64,37 @@
   * Vénérable W. (Le)  
   * Vierge des tueurs (La)
 
-## Claude Autant-Lara (2)
+## Claude Autant-Lara (4)
 
+  * Douce  
+  * Mariage de Chiffon (Le)  
   * Sylvie et le fantôme  
   * Traversée de Paris (La)
 
-## Claude Miller (11)
+## Claude Miller (22)
 
   * Accompagnatrice (L')  
+  * Betty Fisher et autres histoires  
+  * Camille ou la comédie catastrophique  
   * Chambre des magiciennes (La)  
   * Classe de neige (La)  
   * Dites-lui que je l'aime  
   * Effrontée (L')  
   * Garde à vue  
   * Heures blanches (Les)  
+  * Je suis heureux que ma mère soit vivante  
+  * Juliet dans Paris  
+  * Marching band  
   * Meilleure façon de marcher (La)  
   * Mortelle randonnée  
+  * Petite Lili (La)  
   * Petite voleuse (La)  
-  * Sourire (Le)
+  * Question ordinaire (La)  
+  * Serpent  
+  * Sourire (Le)  
+  * Thérèse Desqueyroux  
+  * Un secret  
+  * Voyez comme ils dansent
 
 ## David Lean (16)
 
@@ -107,19 +127,38 @@
   * Huitième femme de Barbe Bleue (La)  
   * Impossible monsieur Bébé (L')  
   * Indiscrétions  
-  * Jeux dangereux  
   * Jeux de mains  
   * Lune de miel mouvementée  
   * Madame et ses flirts  
+  * Mon homme Godfrey  
   * Mon mari le patron  
-  * My Man Godfrey  
   * New York-Miami  
   * Ninotchka  
   * Rendez-vous  
   * Sérénade à trois  
+  * To Be or Not To Be  
   * Un cœur pris au piège  
   * Vacances  
   * Vie facile (La)
+
+## Le cinéma d'horreur 25 indispensables (16)
+
+  * Cauchemar de Dracula (Le)  
+  * Dernière Maison sur la gauche (La)  
+  * Féline (La)  
+  * Frankenstein  
+  * Frissons  
+  * Histoires de fantômes japonais  
+  * Horrible docteur Orloff (L')  
+  * Maison du diable (La)  
+  * Masque du démon (Le)  
+  * Massacre à la tronçonneuse  
+  * Nosferatu le vampire  
+  * Oiseaux (Les)  
+  * Psychose  
+  * Rosemary's Baby  
+  * Sorcellerie à travers les âges (La)  
+  * Yeux sans visage (Les)
 
 ## Ma petite Cinémathèque (21)
 
@@ -145,7 +184,7 @@
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous
 
-## Richard Fleischer (37)
+## Richard Fleischer (38)
 
   * Arena  
   * Armored Car Robbery  
@@ -167,6 +206,7 @@
   * Fille sur la balançoire (La)  
   * Flics ne dorment pas la nuit (Les)  
   * Génie du mal (Le)  
+  * Grand risque (Le)  
   * Inconnus dans la ville (Les)  
   * Kalidor, la légende du talisman  
   * Make Mine Laughs  
@@ -185,7 +225,7 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (36)
+## Roberto Rossellini (41)
 
   * Actes des apôtres (Les)  
   * Âge de Cosme de Médicis (L')  
@@ -197,8 +237,11 @@
   * Augustin d'Hippone  
   * Blaise Pascal  
   * Descartes  
+  * Dindon insolent (Le)  
   * Europe 51  
   * Évadés de la nuit (Les)  
+  * Fantaisie sous-marine  
+  * Force et la raison : Entretien avec Salvador Allende (La)  
   * Général Della Rovere (Le)  
   * Homme à la croix (L')  
   * Idée d'une île  
@@ -214,11 +257,13 @@
   * Prise de pouvoir par Louis XIV (La)  
   * Proie du désir (La)  
   * Psychodrame (Le)  
-  * Ro.Go.Pa.G  
+  * RoGoPaG  
   * Rome, ville ouverte  
+  * Santa Brigida  
   * Sept péchés capitaux : L'Envie (Les)  
   * Socrate  
   * Stromboli  
+  * Thérèse la vive  
   * Un pilote revient  
   * Vanina Vanini  
   * Viva l'Italia  

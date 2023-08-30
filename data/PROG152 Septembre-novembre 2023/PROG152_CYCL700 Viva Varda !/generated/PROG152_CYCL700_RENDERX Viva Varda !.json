@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2023-10-15T17:00:00",
+    "2023-10-05T14:30:00",
     "2023-11-25T15:00:00"
   ],
   "sousCycles": [
@@ -8,40 +8,6 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
-        {
-          "idFilm": 64109,
-          "content": [
-            {
-              "idFilm": 64109,
-              "ordre": 1,
-              "titre": "Black Panthers",
-              "realisateurs": "Agnès Varda",
-              "pays": "France",
-              "annee": 1968,
-              "duree": 28,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "Un hommage vibrant au mouvement des droits civiques américains, tourné pendant les mobilisations en faveur de l'un des fondateurs des Black Panthers, accusé du meurtre d'un policier. Avec finesse et enthousiasme, Varda présente le mouvement armé comme étant aussi un mouvement d'éducation populaire. Elle s'attarde également sur l'engagement des femmes au sein du parti.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Mur murs",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 105049,
-              "dateHeure": "2023-11-12T18:00:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par Hélier Cisterne"
-            }
-          ]
-        },
         {
           "idFilm": 51558,
           "content": [
@@ -343,7 +309,7 @@
               "precedeSuivi": [
                 [
                   [
-                    "Black Panthers",
+                    "Mur murs",
                     null
                   ]
                 ],
@@ -500,6 +466,84 @@
               "typeAssoc": 117,
               "dateHeure": "2023-10-19T21:15:00",
               "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Autour d'Agnès Varda",
+      "items": [
+        {
+          "idEvenement": 29356,
+          "content": [
+            {
+              "idFilm": 64109,
+              "ordre": 1,
+              "titre": "Black Panthers",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 1968,
+              "duree": 28,
+              "version": "",
+              "format": "DCP",
+              "miniTexte": "Un hommage vibrant au mouvement des droits civiques américains, tourné pendant les mobilisations en faveur de l'un des fondateurs des Black Panthers, accusé du meurtre d'un policier. Avec finesse et enthousiasme, Varda présente le mouvement armé comme étant aussi un mouvement d'éducation populaire. Elle s'attarde également sur l'engagement des femmes au sein du parti."
+            },
+            {
+              "idFilm": 52729,
+              "ordre": 2,
+              "titre": "Ulysse",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 1982,
+              "duree": 22,
+              "version": "VO",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 70451,
+              "ordre": 3,
+              "titre": "Dites cariatides",
+              "art": "Les",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 1984,
+              "duree": 13,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115336,
+              "dateHeure": "2023-10-05T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 64109,
+          "content": [
+            {
+              "idFilm": 64109,
+              "ordre": 1,
+              "titre": "Black Panthers",
+              "realisateurs": "Agnès Varda",
+              "pays": "France",
+              "annee": 1968,
+              "duree": 28,
+              "version": "",
+              "format": "DCP",
+              "miniTexte": "Un hommage vibrant au mouvement des droits civiques américains, tourné pendant les mobilisations en faveur de l'un des fondateurs des Black Panthers, accusé du meurtre d'un policier. Avec finesse et enthousiasme, Varda présente le mouvement armé comme étant aussi un mouvement d'éducation populaire. Elle s'attarde également sur l'engagement des femmes au sein du parti."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105049,
+              "dateHeure": "2023-11-12T18:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Hélier Cisterne"
             }
           ]
         }

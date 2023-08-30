@@ -1,0 +1,710 @@
+{
+  "datesCycle": [
+    "2023-11-29T20:00:00",
+    "2023-12-11T20:00:00"
+  ],
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 126778,
+          "content": [
+            {
+              "idFilm": 126778,
+              "ordre": 1,
+              "titre": "Amnesia",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "Suisse-France",
+              "annee": 2014,
+              "duree": 90,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Marthe Keller",
+                "Max Riemelt"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107808,
+              "dateHeure": "2023-11-30T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 101925,
+          "content": [
+            {
+              "idFilm": 101925,
+              "ordre": 1,
+              "titre": "Avocat de la terreur",
+              "art": "L'",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 2006,
+              "duree": 135,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105225,
+              "dateHeure": "2023-12-02T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 36477,
+              "content": [
+                {
+                  "idFilm": 36477,
+                  "ordre": 1,
+                  "titre": "Barfly",
+                  "realisateurs": "Barbet Schroeder",
+                  "pays": "États-Unis",
+                  "annee": 1987,
+                  "duree": 0,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Faye Dunaway",
+                    "Mickey Rourke"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 29309,
+              "content": [
+                {
+                  "idConf": 29309,
+                  "ordre": 2,
+                  "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 115164,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-12-10T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 29146,
+          "content": [
+            {
+              "idFilm": 29146,
+              "ordre": 1,
+              "titre": "Before and After",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "États-Unis",
+              "annee": 1995,
+              "duree": 108,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Meryl Streep",
+                "Liam Neeson",
+                "Edward Furlong"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105421,
+              "dateHeure": "2023-12-10T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 50968,
+          "content": [
+            {
+              "idFilm": 50968,
+              "ordre": 1,
+              "titre": "Boulangère de Monceau",
+              "art": "La",
+              "realisateurs": "Eric Rohmer",
+              "pays": "France",
+              "annee": 1962,
+              "duree": 26,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Barbet Schroeder",
+                "Michèle Girardon",
+                "Claudine Soubrier"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Carrière de Suzanne",
+                    "La"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105286,
+              "dateHeure": "2023-12-06T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 43655,
+          "content": [
+            {
+              "idFilm": 43655,
+              "ordre": 2,
+              "titre": "Carrière de Suzanne",
+              "art": "La",
+              "realisateurs": "Eric Rohmer",
+              "pays": "France",
+              "annee": 1963,
+              "duree": 52,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Philippe Beuzen",
+                "Catherine Sée",
+                "Christian Charrière"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Boulangère de Monceau",
+                    "La"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105286,
+              "dateHeure": "2023-12-06T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 69925,
+          "content": [
+            {
+              "idFilm": 69925,
+              "ordre": 1,
+              "titre": "Cochon aux patates douces",
+              "art": "Le",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 1971,
+              "duree": 8,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Maquillages",
+                    null
+                  ],
+                  [
+                    "Sing-Sing",
+                    null
+                  ],
+                  [
+                    "Où en êtes-vous, Barbet Schroeder ?",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105422,
+              "dateHeure": "2023-12-10T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 29157,
+          "content": [
+            {
+              "idFilm": 29157,
+              "ordre": 1,
+              "titre": "Enjeu",
+              "art": "L'",
+              "titreVo": "Desperate Measures",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "États-Unis",
+              "annee": 1997,
+              "duree": 100,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105226,
+              "dateHeure": "2023-12-02T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 62245,
+          "content": [
+            {
+              "idFilm": 62245,
+              "ordre": 1,
+              "titre": "Général Idi Amin Dada",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France-Suisse",
+              "annee": 1974,
+              "duree": 92,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105404,
+              "dateHeure": "2023-12-09T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 105406,
+          "content": [
+            {
+              "idFilm": 105406,
+              "ordre": 1,
+              "titre": "Inju, la bête dans l'ombre",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 2007,
+              "duree": 0,
+              "version": "VF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Inju_ de Ranpo Edogawa."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105185,
+              "dateHeure": "2023-12-01T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 36479,
+          "content": [
+            {
+              "idFilm": 36479,
+              "ordre": 1,
+              "titre": "JF partagerait appartement",
+              "titreVo": "Single White Female",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "États-Unis",
+              "annee": 1991,
+              "duree": 108,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Single White Female_ de John Lutz.",
+              "generique": [
+                "Bridget Fonda",
+                "Jennifer Jason Leigh",
+                "Steven Weber"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105243,
+              "dateHeure": "2023-12-03T19:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 57561,
+          "content": [
+            {
+              "idFilm": 57561,
+              "ordre": 1,
+              "titre": "Kiss of Death",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "États-Unis",
+              "annee": 1994,
+              "duree": 101,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le scénario du film _Kiss of Death_ (1947) de Ben Hecht et Charles Lederer.",
+              "generique": [
+                "David Caruso",
+                "Samuel L. Jackson",
+                "Nicolas Cage"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105242,
+              "dateHeure": "2023-12-03T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 51225,
+          "content": [
+            {
+              "idFilm": 51225,
+              "ordre": 1,
+              "titre": "Koko, le gorille qui parle",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 1977,
+              "duree": 85,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105405,
+              "dateHeure": "2023-12-09T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 56826,
+          "content": [
+            {
+              "idFilm": 56826,
+              "ordre": 1,
+              "titre": "Maîtresse",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 1975,
+              "duree": 112,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Gérard Depardieu",
+                "Bulle Ogier"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 112672,
+              "dateHeure": "2023-12-07T20:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 69926,
+          "content": [
+            {
+              "idFilm": 69926,
+              "ordre": 2,
+              "titre": "Maquillages",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 1971,
+              "duree": 13,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "Cochon aux patates douces",
+                    "Le"
+                  ]
+                ],
+                [
+                  [
+                    "Sing-Sing",
+                    null
+                  ],
+                  [
+                    "Où en êtes-vous, Barbet Schroeder ?",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105422,
+              "dateHeure": "2023-12-10T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 51226,
+          "content": [
+            {
+              "idFilm": 51226,
+              "ordre": 1,
+              "titre": "More",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France-Luxembourg",
+              "annee": 1969,
+              "duree": 117,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115165,
+              "dateHeure": "2023-12-08T20:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 36483,
+          "content": [
+            {
+              "idFilm": 36483,
+              "ordre": 1,
+              "titre": "Mystère von Bulow",
+              "art": "Le",
+              "titreVo": "Reversal of Fortune",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "États-Unis",
+              "annee": 1989,
+              "duree": 110,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le livre _Reversal of Fortune_ d'Alan M. Dershowitz."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 112671,
+              "dateHeure": "2023-12-07T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 136039,
+          "content": [
+            {
+              "idFilm": 136039,
+              "ordre": 4,
+              "titre": "Où en êtes-vous, Barbet Schroeder ?",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 2016,
+              "duree": 15,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "Cochon aux patates douces",
+                    "Le"
+                  ],
+                  [
+                    "Maquillages",
+                    null
+                  ],
+                  [
+                    "Sing-Sing",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105422,
+              "dateHeure": "2023-12-10T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 69924,
+          "content": [
+            {
+              "idFilm": 69924,
+              "ordre": 3,
+              "titre": "Sing-Sing",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 1971,
+              "duree": 5,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "Cochon aux patates douces",
+                    "Le"
+                  ],
+                  [
+                    "Maquillages",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Où en êtes-vous, Barbet Schroeder ?",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105422,
+              "dateHeure": "2023-12-10T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 51227,
+          "content": [
+            {
+              "idFilm": 51227,
+              "ordre": 1,
+              "titre": "Tricheurs",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France-Allemagne-Portugal",
+              "annee": 1983,
+              "duree": 94,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Jacques Dutronc",
+                "Bulle Ogier",
+                "Kurt Raab"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105431,
+              "dateHeure": "2023-12-11T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 51228,
+          "content": [
+            {
+              "idFilm": 51228,
+              "ordre": 1,
+              "titre": "Vallée",
+              "art": "La",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 1971,
+              "duree": 106,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Jean-Pierre Kalfon",
+                "Bulle Ogier",
+                "Valérie Lagrange"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115166,
+              "dateHeure": "2023-12-03T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 136038,
+          "content": [
+            {
+              "idFilm": 136038,
+              "ordre": 1,
+              "titre": "Vénérable W.",
+              "art": "Le",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France-Suisse",
+              "annee": 2016,
+              "duree": 97,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105141,
+              "dateHeure": "2023-11-30T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 69792,
+          "content": [
+            {
+              "idFilm": 69792,
+              "ordre": 1,
+              "titre": "Vierge des tueurs",
+              "art": "La",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France-Espagne-Colombie",
+              "annee": 1999,
+              "duree": 97,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 112666,
+              "dateHeure": "2023-11-29T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

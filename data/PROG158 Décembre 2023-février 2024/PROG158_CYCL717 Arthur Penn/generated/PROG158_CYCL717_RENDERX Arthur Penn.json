@@ -1,13 +1,114 @@
 {
   "datesCycle": [
     "2024-02-21T20:00:00",
-    "2024-02-22T19:30:00"
+    "2024-02-25T17:00:00"
   ],
   "sousCycles": [
     {
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 55621,
+          "content": [
+            {
+              "idFilm": 55621,
+              "ordre": 1,
+              "titre": "Alice's Restaurant",
+              "realisateurs": "Arthur Penn",
+              "pays": "États-Unis",
+              "annee": 1968
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107370,
+              "dateHeure": "2024-02-24T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 35805,
+          "content": [
+            {
+              "idFilm": 35805,
+              "ordre": 1,
+              "titre": "Bonnie and Clyde",
+              "realisateurs": "Arthur Penn",
+              "pays": "États-Unis",
+              "annee": 1967,
+              "duree": 111,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Warren Beatty",
+                "Faye Dunaway",
+                "Michael J. Pollard",
+                "Gene Hackman"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107369,
+              "dateHeure": "2024-02-24T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 35701,
+          "content": [
+            {
+              "idFilm": 35701,
+              "ordre": 1,
+              "titre": "Fugue",
+              "art": "La",
+              "titreVo": "Night Moves",
+              "realisateurs": "Arthur Penn",
+              "pays": "États-Unis",
+              "annee": 1975,
+              "generique": [
+                "Gene Hackman",
+                "Susan Clark",
+                "Melanie Griffith",
+                "James Woods"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107384,
+              "dateHeure": "2024-02-25T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 35656,
+          "content": [
+            {
+              "idFilm": 35656,
+              "ordre": 1,
+              "titre": "Gaucher",
+              "art": "Le",
+              "titreVo": "Left-Handed Gun",
+              "artVo": "The",
+              "realisateurs": "Arthur Penn",
+              "pays": "États-Unis",
+              "annee": 1957,
+              "adaptation": "D'après la pièce _The Death of Billy the kid_ de Gore Vidal."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107330,
+              "dateHeure": "2024-02-23T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 35694,
           "content": [
@@ -31,6 +132,26 @@
           ]
         },
         {
+          "idFilm": 35647,
+          "content": [
+            {
+              "idFilm": 35647,
+              "ordre": 1,
+              "titre": "Mickey One",
+              "realisateurs": "Arthur Penn",
+              "pays": "États-Unis",
+              "annee": 1964
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107331,
+              "dateHeure": "2024-02-23T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 35810,
           "content": [
             {
@@ -49,6 +170,55 @@
             {
               "idSeance": 107292,
               "dateHeure": "2024-02-22T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 35699,
+          "content": [
+            {
+              "idFilm": 35699,
+              "ordre": 1,
+              "titre": "Missouri Breaks",
+              "realisateurs": "Arthur Penn",
+              "pays": "États-Unis",
+              "annee": 1975
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107385,
+              "dateHeure": "2024-02-25T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 44468,
+          "content": [
+            {
+              "idFilm": 44468,
+              "ordre": 1,
+              "titre": "Poursuite impitoyable",
+              "art": "La",
+              "titreVo": "Chase",
+              "artVo": "The",
+              "realisateurs": "Arthur Penn",
+              "pays": "États-Unis",
+              "annee": 1965,
+              "adaptation": "D'après le roman et la pièce _The Chase_ de Horton Foote.",
+              "generique": [
+                "Marlon Brando",
+                "Jane Fonda",
+                "Robert Redford"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107368,
+              "dateHeure": "2024-02-24T14:30:00",
               "idSalle": "HL"
             }
           ]

@@ -1,0 +1,66 @@
+{
+  "datesCycle": [
+    "2024-02-07T20:00:00",
+    "2024-02-25T15:00:00"
+  ],
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 46279,
+          "content": [
+            {
+              "idFilm": 46279,
+              "ordre": 1,
+              "titre": "Sylvie et le fantôme",
+              "realisateurs": "Claude Autant-Lara",
+              "pays": "France",
+              "annee": 1945,
+              "adaptation": "D'après la pièce _Sylvie et le fantôme_ d'Alfred Adam."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107389,
+              "dateHeure": "2024-02-25T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 46280,
+          "content": [
+            {
+              "idFilm": 46280,
+              "ordre": 1,
+              "titre": "Traversée de Paris",
+              "art": "La",
+              "realisateurs": "Claude Autant-Lara",
+              "pays": "France-Italie",
+              "annee": 1956,
+              "duree": 82,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après la nouvelle _La Traversée de Paris_ de Marcel Aymé.",
+              "generique": [
+                "Jean Gabin",
+                "Bourvil",
+                "Louis de Funès"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 106897,
+              "dateHeure": "2024-02-07T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -30,13 +30,13 @@
   * Fairplay  
   * J'ai vu le visage du diable  
   * Jean-Jacques  
-  * Ma petite reine  
   * Margarethe 89  
   * Mars Express  
   * Martin  
   * Mes indésirables  
   * Misérables (Les)  
   * Nova Dubai  
+  * Petite reine  
   * Petite Vendeuse de Soleil (La)  
   * Portraits fantômes  
   * Soleil dort (Le)  
@@ -403,13 +403,14 @@
   * Septembre chilien  
   * West Side Story
 
-## Viva Varda ! (13)
+## Viva Varda ! (15)
 
   * Black Panthers  
   * Bonheur (Le)  
   * Cléo de 5 à 7  
   * Créatures (Les)  
   * Demoiselles ont eu 25 ans (Les)  
+  * Dites cariatides (Les)  
   * Documenteur  
   * Glaneurs et la Glaneuse (Les)  
   * Lions Love (... and lies)  
@@ -417,6 +418,7 @@
   * Plages d'Agnès (Les)  
   * Pointe Courte (La)  
   * Sans toit ni loi  
+  * Ulysse  
   * Uncle Yanco
 
 ## Víctor Erice (7)

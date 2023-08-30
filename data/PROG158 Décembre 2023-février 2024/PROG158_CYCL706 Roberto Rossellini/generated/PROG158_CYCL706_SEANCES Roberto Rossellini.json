@@ -245,8 +245,8 @@
         "idFilm": 42471,
         "ordre": 1,
         "idSeance": 115321,
-        "idCopie": 26620,
-        "duree": 136,
+        "idCopie": 26667,
+        "duree": 133,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -276,9 +276,9 @@
     ]
   },
   {
-    "idCategorie": 3118,
+    "idCategorie": 3184,
     "typeEvenement": 13,
-    "idEvenement": 28772,
+    "idEvenement": 28756,
     "idSeance": 106295,
     "dateHeure": "2024-01-13T17:00:00",
     "idSalle": [
@@ -288,12 +288,52 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 41976,
+        "idFilm": 65318,
         "ordre": 1,
+        "idSeance": 106295,
+        "idCopie": 26402,
+        "duree": 36,
+        "version": "VOSTA",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 65302,
+        "ordre": 2,
+        "idSeance": 106295,
+        "idCopie": 26647,
+        "duree": 6,
+        "version": "VO",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 65299,
+        "ordre": 3,
+        "idSeance": 106295,
+        "idCopie": 26651,
+        "duree": 10,
+        "version": "VO",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 65303,
+        "ordre": 4
+      },
+      {
+        "idFilm": 41976,
+        "ordre": 5,
         "idSeance": 106295,
         "idCopie": 6825,
         "duree": 17,
         "version": "VO",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 126401,
+        "ordre": 6,
+        "idSeance": 106295,
+        "idCopie": 6894,
+        "duree": 9,
+        "version": "",
         "format": "35 mm"
       }
     ]
@@ -314,9 +354,9 @@
         "idFilm": 42629,
         "ordre": 1,
         "idSeance": 106296,
-        "idCopie": 26400,
+        "idCopie": 26674,
         "duree": 128,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ]
@@ -358,7 +398,12 @@
     "items": [
       {
         "idFilm": 65306,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 106317,
+        "idCopie": 26666,
+        "duree": 79,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },
@@ -445,7 +490,12 @@
     "items": [
       {
         "idFilm": 42474,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 106438,
+        "idCopie": 26699,
+        "duree": 266,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -509,7 +559,12 @@
     "items": [
       {
         "idFilm": 41997,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 106495,
+        "idCopie": 26695,
+        "duree": 0,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },
@@ -552,10 +607,10 @@
         "idFilm": 45109,
         "ordre": 1,
         "idSeance": 106541,
-        "idCopie": 26405,
+        "idCopie": 26669,
         "duree": 123,
         "version": "VO",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ]
   },
@@ -665,7 +720,12 @@
     "items": [
       {
         "idFilm": 42445,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 106618,
+        "idCopie": 26698,
+        "duree": 342,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -729,7 +789,12 @@
     "items": [
       {
         "idFilm": 65321,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 106659,
+        "idCopie": 26702,
+        "duree": 131,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -738,7 +803,7 @@
     "typeEvenement": 13,
     "idEvenement": 28739,
     "idSeance": 115330,
-    "dateHeure": "2024-01-27T17:30:00",
+    "dateHeure": "2024-01-27T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -747,7 +812,58 @@
     "items": [
       {
         "idFilm": 65323,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 115330,
+        "idCopie": 26670,
+        "duree": 254,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3118,
+    "typeEvenement": 13,
+    "idEvenement": 28779,
+    "idSeance": 106668,
+    "dateHeure": "2024-01-28T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 41995,
+        "ordre": 1,
+        "idSeance": 106668,
+        "idCopie": 24200,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3118,
+    "typeEvenement": 13,
+    "idEvenement": 28776,
+    "idSeance": 106669,
+    "dateHeure": "2024-01-28T16:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 41984,
+        "ordre": 1,
+        "idSeance": 106669,
+        "idCopie": 24195,
+        "duree": 124,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -756,7 +872,7 @@
     "typeEvenement": 13,
     "idEvenement": 28751,
     "idSeance": 106672,
-    "dateHeure": "2024-01-28T20:30:00",
+    "dateHeure": "2024-01-28T16:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -765,7 +881,35 @@
     "items": [
       {
         "idFilm": 65324,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 106672,
+        "idCopie": 26704,
+        "duree": 150,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3118,
+    "typeEvenement": 13,
+    "idEvenement": 28740,
+    "idSeance": 106670,
+    "dateHeure": "2024-01-28T18:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 43151,
+        "ordre": 1,
+        "idSeance": 106670,
+        "idCopie": 24201,
+        "duree": 78,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -774,7 +918,7 @@
     "typeEvenement": 13,
     "idEvenement": 28742,
     "idSeance": 115331,
-    "dateHeure": "2024-01-28T20:30:00",
+    "dateHeure": "2024-01-28T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -783,7 +927,35 @@
     "items": [
       {
         "idFilm": 65322,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 115331,
+        "idCopie": 26701,
+        "duree": 117,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3118,
+    "typeEvenement": 13,
+    "idEvenement": 28788,
+    "idSeance": 106671,
+    "dateHeure": "2024-01-28T20:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 42004,
+        "ordre": 1,
+        "idSeance": 106671,
+        "idCopie": 14912,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   }
