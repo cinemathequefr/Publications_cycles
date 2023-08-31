@@ -26,17 +26,21 @@
   * Amussu  
   * Le Parti du cinéma
 
-## Arthur Penn (9)
+## Arthur Penn (13)
 
   * Alice's Restaurant  
   * Bonnie and Clyde  
+  * Extravagantes aventures d'un visage pâle (Les)  
+  * Froid comme la mort  
   * Fugue (La)  
   * Gaucher (Le)  
   * Georgia  
+  * Inside  
   * Mickey One  
   * Miracle en Alabama  
   * Missouri Breaks  
-  * Poursuite impitoyable (La)
+  * Poursuite impitoyable (La)  
+  * Target
 
 ## Barbet Schroeder (23)
 
@@ -64,10 +68,32 @@
   * Vénérable W. (Le)  
   * Vierge des tueurs (La)
 
-## Claude Autant-Lara (4)
+## Boris Barnet (1)
 
+  * Au bord de la mer bleue
+
+## Cinéma bis (10)
+
+  * Baiser de la tarentule (Le)  
+  * Banco  
+  * Cabo Blanco  
+  * Frankenstein 2000  
+  * Horreur dans la villes  
+  * Horrible invasion (L')  
+  * On m'appelait Bruce Lee  
+  * Plage sanglante (La)  
+  * Spectre  
+  * Yang Sze, la terreur de Bruce Lee
+
+## Claude Autant-Lara (9)
+
+  * Affaire du courrier de Lyon (L')  
+  * Auberge rouge (L')  
+  * Diable au corps (Le)  
   * Douce  
+  * Lettres d'amour  
   * Mariage de Chiffon (Le)  
+  * Occupe-toi d'Amélie  
   * Sylvie et le fantôme  
   * Traversée de Paris (La)
 
@@ -184,14 +210,18 @@
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous
 
-## Richard Fleischer (38)
+## Richard Fleischer (46)
 
+  * Amityville 3D : Le Démon  
   * Arena  
   * Armored Car Robbery  
+  * Ashanti  
   * Assassin sans visage (L')  
   * Bandido caballero !  
   * Barabbas  
   * Bodyguard  
+  * Chanteur de jazz (Le)  
+  * Che!  
   * Child of Divorce  
   * Complices de la dernière chance (Les)  
   * Conan le destructeur  
@@ -205,15 +235,19 @@
   * Extravagant docteur Dolittle (L')  
   * Fille sur la balançoire (La)  
   * Flics ne dorment pas la nuit (Les)  
+  * Force de vaincre (La)  
   * Génie du mal (Le)  
   * Grand risque (Le)  
   * Inconnus dans la ville (Les)  
+  * Incredible Sarah (The)  
   * Kalidor, la légende du talisman  
   * Make Mine Laughs  
   * Mandingo  
+  * Million Dollar Mystery  
   * Mon chien et moi  
   * Mr. Majestyk  
   * Pigeon d'argile (Le)  
+  * Prince et le pauvre (Le)  
   * Sacré printemps  
   * So This Is New York  
   * Soleil vert  
@@ -225,31 +259,28 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (41)
+## Roberto Rossellini (36)
 
   * Actes des apôtres (Les)  
-  * Âge de Cosme de Médicis (L')  
   * Âge du fer (L')  
   * Allemagne, année zéro  
   * Âme noire  
   * Amore (L')  
+  * Amours d'une moitié de siècle  
   * An un (L')  
   * Augustin d'Hippone  
   * Blaise Pascal  
   * Descartes  
-  * Dindon insolent (Le)  
   * Europe 51  
   * Évadés de la nuit (Les)  
-  * Fantaisie sous-marine  
-  * Force et la raison : Entretien avec Salvador Allende (La)  
   * Général Della Rovere (Le)  
   * Homme à la croix (L')  
   * Idée d'une île  
+  * India  
   * Jeanne au bûcher  
   * Machine à tuer les méchants (La)  
   * Messie (Le)  
   * Navire blanc (Le)  
-  * Nous, les femmes : Ingrid Bergman  
   * Onze fioretti de Saint François d'Assise (Les)  
   * Où est la liberté ?  
   * Paisà  
@@ -259,11 +290,9 @@
   * Psychodrame (Le)  
   * RoGoPaG  
   * Rome, ville ouverte  
-  * Santa Brigida  
   * Sept péchés capitaux : L'Envie (Les)  
   * Socrate  
   * Stromboli  
-  * Thérèse la vive  
   * Un pilote revient  
   * Vanina Vanini  
   * Viva l'Italia  
