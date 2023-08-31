@@ -4041,11 +4041,15 @@
     "hashEvenement": "f46365"
   },
   {
-    "idSeance": 115365,
-    "idEvenement": 29315,
+    "idSeance": 115252,
+    "idEvenement": 29034,
     "dateHeure": "2024-01-21T15:00:00",
     "salle": "GF",
     "cycle": [
+      [
+        "Richard Fleischer",
+        "Les films"
+      ],
       [
         "Ma petite Cinémathèque",
         "Les films"
@@ -4053,14 +4057,16 @@
     ],
     "items": [
       {
-        "idFilm": 50527,
-        "titre": "Rue Cases Nègres",
-        "realisateurs": "Euzhan Palcy",
-        "annee": 1983,
-        "duree": 103
+        "idFilm": 31103,
+        "titre": "Vingt mille lieues sous les mers",
+        "realisateurs": "Richard Fleischer",
+        "annee": 1954,
+        "duree": 128,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f50527"
+    "hashEvenement": "f31103"
   },
   {
     "idSeance": 106493,
@@ -4328,7 +4334,7 @@
   {
     "idSeance": 106576,
     "idEvenement": 29030,
-    "dateHeure": "2024-01-25T19:30:00",
+    "dateHeure": "2024-01-25T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4372,30 +4378,6 @@
       }
     ],
     "hashEvenement": "f65316"
-  },
-  {
-    "idSeance": 115366,
-    "idEvenement": 28945,
-    "dateHeure": "2024-01-25T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Claude Miller",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 53397,
-        "titre": "Sourire",
-        "art": "Le",
-        "realisateurs": "Claude Miller",
-        "annee": 1993,
-        "duree": 90,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f53397"
   },
   {
     "idSeance": 115350,
@@ -4753,15 +4735,11 @@
     "hashEvenement": "f41995"
   },
   {
-    "idSeance": 115364,
-    "idEvenement": 29034,
+    "idSeance": 106673,
+    "idEvenement": 29315,
     "dateHeure": "2024-01-28T15:00:00",
     "salle": "GF",
     "cycle": [
-      [
-        "Richard Fleischer",
-        "Les films"
-      ],
       [
         "Ma petite Cinémathèque",
         "Les films"
@@ -4769,16 +4747,14 @@
     ],
     "items": [
       {
-        "idFilm": 31103,
-        "titre": "Vingt mille lieues sous les mers",
-        "realisateurs": "Richard Fleischer",
-        "annee": 1954,
-        "duree": 128,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 50527,
+        "titre": "Rue Cases Nègres",
+        "realisateurs": "Euzhan Palcy",
+        "annee": 1983,
+        "duree": 103
       }
     ],
-    "hashEvenement": "f31103"
+    "hashEvenement": "f50527"
   },
   {
     "idSeance": 115346,
@@ -4874,8 +4850,8 @@
     "hashEvenement": "f43151"
   },
   {
-    "idSeance": 115367,
-    "idEvenement": 29352,
+    "idSeance": 106675,
+    "idEvenement": 28945,
     "dateHeure": "2024-01-28T19:30:00",
     "salle": "GF",
     "cycle": [
@@ -4886,13 +4862,16 @@
     ],
     "items": [
       {
-        "idFilm": 50171,
-        "titre": "Mortelle randonnée",
+        "idFilm": 53397,
+        "titre": "Sourire",
+        "art": "Le",
         "realisateurs": "Claude Miller",
-        "annee": 1982
+        "annee": 1993,
+        "duree": 90,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f50171"
+    "hashEvenement": "f53397"
   },
   {
     "idSeance": 115345,
@@ -6006,34 +5985,9 @@
     "hashEvenement": "f36468"
   },
   {
-    "idSeance": 107113,
-    "idEvenement": 29039,
-    "dateHeure": "2024-02-14T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Les films"
-      ]
-    ],
-    "mention": "Ouverture de la rétrospective",
-    "items": [
-      {
-        "idFilm": 70817,
-        "titre": "Au bord de la mer bleue",
-        "realisateurs": "Boris Barnet",
-        "annee": 1935,
-        "duree": 70,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f70817"
-  },
-  {
     "idSeance": 107075,
     "idEvenement": 29267,
-    "dateHeure": "2024-02-15T20:00:00",
+    "dateHeure": "2024-02-14T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6054,6 +6008,31 @@
       }
     ],
     "hashEvenement": "f39179"
+  },
+  {
+    "idSeance": 107113,
+    "idEvenement": 29039,
+    "dateHeure": "2024-02-15T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Boris Barnet",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 70817,
+        "titre": "Au bord de la mer bleue",
+        "realisateurs": "Boris Barnet",
+        "annee": 1935,
+        "duree": 70,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f70817"
   },
   {
     "idSeance": 107210,
@@ -6570,6 +6549,27 @@
       }
     ],
     "hashEvenement": "f35785"
+  },
+  {
+    "idSeance": 107468,
+    "idEvenement": 29188,
+    "dateHeure": "2024-02-29T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Arthur Penn",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35017,
+        "titre": "Inside",
+        "realisateurs": "Arthur Penn",
+        "annee": 1995
+      }
+    ],
+    "hashEvenement": "f35017"
   },
   {
     "idSeance": 107568,

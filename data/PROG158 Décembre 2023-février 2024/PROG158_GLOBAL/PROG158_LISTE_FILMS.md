@@ -26,7 +26,7 @@
   * Amussu  
   * Le Parti du cinéma
 
-## Arthur Penn (13)
+## Arthur Penn (12)
 
   * Alice's Restaurant  
   * Bonnie and Clyde  
@@ -35,7 +35,6 @@
   * Fugue (La)  
   * Gaucher (Le)  
   * Georgia  
-  * Inside  
   * Mickey One  
   * Miracle en Alabama  
   * Missouri Breaks  
