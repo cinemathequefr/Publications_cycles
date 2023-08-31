@@ -85,15 +85,20 @@
   * Spectre  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (9)
+## Claude Autant-Lara (14)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
+  * Blé en herbe (Le)  
+  * Bon Dieu sans confession (Le)  
   * Diable au corps (Le)  
   * Douce  
+  * En cas de malheur  
   * Lettres d'amour  
+  * Marguerite de la nuit  
   * Mariage de Chiffon (Le)  
   * Occupe-toi d'Amélie  
+  * Rouge et le Noir (Le)  
   * Sylvie et le fantôme  
   * Traversée de Paris (La)
 
@@ -167,7 +172,7 @@
   * Vacances  
   * Vie facile (La)
 
-## Le cinéma d'horreur 25 indispensables (16)
+## Le cinéma d'horreur 25 indispensables (15)
 
   * Cauchemar de Dracula (Le)  
   * Dernière Maison sur la gauche (La)  
@@ -180,7 +185,6 @@
   * Masque du démon (Le)  
   * Massacre à la tronçonneuse  
   * Nosferatu le vampire  
-  * Oiseaux (Les)  
   * Psychose  
   * Rosemary's Baby  
   * Sorcellerie à travers les âges (La)  
