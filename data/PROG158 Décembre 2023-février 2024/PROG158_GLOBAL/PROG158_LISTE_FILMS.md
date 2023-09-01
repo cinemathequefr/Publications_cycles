@@ -59,13 +59,20 @@
   * Maîtresse  
   * Maquillages  
   * More  
-  * Mystère von Bulow (Le)  
+  * Mystère von Bülow (Le)  
   * Où en êtes-vous, Barbet Schroeder ?  
   * Sing-Sing  
   * Tricheurs  
   * Vallée (La)  
   * Vénérable W. (Le)  
   * Vierge des tueurs (La)
+
+## Bertrand Bonello (4)
+
+  * Apollonide : Souvenirs de la maison close (L')  
+  * Nocturama  
+  * Pornographe (Le)  
+  * Saint Laurent
 
 ## Boris Barnet (1)
 
@@ -84,7 +91,7 @@
   * Spectre  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (21)
+## Claude Autant-Lara (25)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
@@ -95,6 +102,8 @@
   * Diable au corps (Le)  
   * Douce  
   * En cas de malheur  
+  * Franciscain de Bourges (Le)  
+  * Gloria  
   * Joueur (Le)  
   * Jument verte (La)  
   * Lettres d'amour  
@@ -103,6 +112,8 @@
   * Mariage de Chiffon (Le)  
   * Meurtrier (Le)  
   * Occupe-toi d'Amélie  
+  * Patates (Les)  
+  * Régates de San Francisco (Les)  
   * Rouge et le Noir (Le)  
   * Sylvie et le fantôme  
   * Tu ne tueras point  
