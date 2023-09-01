@@ -421,12 +421,16 @@
   * Ulysse  
   * Uncle Yanco
 
-## Víctor Erice (7)
+## Víctor Erice (11)
 
   * Alumbramiento  
   * Correspondance Víctor Erice / Abbas Kiarostami 2005-2007  
+  * Días perdidos (Los)  
+  * En la terraza  
+  * Entre vías  
   * Esprit de la ruche (L')  
   * Morte rouge (La)  
+  * Páginas de un diario perdido  
   * Songe de la lumière (Le)  
   * Sur (El)  
   * Vidros partidos  
