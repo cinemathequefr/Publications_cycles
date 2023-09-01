@@ -84,22 +84,29 @@
   * Spectre  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (14)
+## Claude Autant-Lara (21)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
   * Blé en herbe (Le)  
+  * Bois des amants (Le)  
   * Bon Dieu sans confession (Le)  
+  * Comte de Monte-Cristo (Le)  
   * Diable au corps (Le)  
   * Douce  
   * En cas de malheur  
+  * Joueur (Le)  
+  * Jument verte (La)  
   * Lettres d'amour  
+  * Magot de Josefa (Le)  
   * Marguerite de la nuit  
   * Mariage de Chiffon (Le)  
+  * Meurtrier (Le)  
   * Occupe-toi d'Amélie  
   * Rouge et le Noir (Le)  
   * Sylvie et le fantôme  
-  * Traversée de Paris (La)
+  * Tu ne tueras point  
+  * Vive Henri IV, vive l'amour
 
 ## Claude Miller (22)
 
@@ -171,28 +178,37 @@
   * Vacances  
   * Vie facile (La)
 
-## Le cinéma d'horreur 25 indispensables (15)
+## Le cinéma d'horreur 25 indispensables (25)
 
+  * Audition  
+  * Carrie au bal du diable  
   * Cauchemar de Dracula (Le)  
   * Dernière Maison sur la gauche (La)  
+  * Enfer des Zombies (L')  
+  * Exorciste (L')  
   * Féline (La)  
   * Frankenstein  
+  * Freaks  
   * Frissons  
   * Histoires de fantômes japonais  
   * Horrible docteur Orloff (L')  
+  * Inferno  
+  * Kaïro  
   * Maison du diable (La)  
   * Masque du démon (Le)  
   * Massacre à la tronçonneuse  
   * Nosferatu le vampire  
+  * Nuit des masques (La)  
+  * Oiseaux (Les)  
   * Psychose  
   * Rosemary's Baby  
   * Sorcellerie à travers les âges (La)  
-  * Yeux sans visage (Les)
+  * Yeux sans visage (Les)  
+  * Zombie
 
-## Ma petite Cinémathèque (21)
+## Ma petite Cinémathèque (20)
 
   * Belle et le Clochard (La)  
-  * Brendan et le secret de Kells  
   * Château ambulant (Le)  
   * Chicken Run : La Menace Nuggets  
   * Cinq mille doigts du docteur T. (Les)  
@@ -262,9 +278,10 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (36)
+## Roberto Rossellini (45)
 
   * Actes des apôtres (Les)  
+  * Âge de Cosme de Médicis (L')  
   * Âge du fer (L')  
   * Allemagne, année zéro  
   * Âme noire  
@@ -272,18 +289,25 @@
   * Amours d'une moitié de siècle  
   * An un (L')  
   * Augustin d'Hippone  
+  * Beaubourg, centre d'art et de culture Georges Pompidou  
   * Blaise Pascal  
+  * Concerto per Michelangelo  
   * Descartes  
+  * Dindon insolent (Le)  
   * Europe 51  
   * Évadés de la nuit (Les)  
+  * Fantaisie sous-marine  
+  * Force et la raison : Entretien avec Salvador Allende (La)  
   * Général Della Rovere (Le)  
   * Homme à la croix (L')  
   * Idée d'une île  
   * India  
+  * J'ai fait un beau voyage TV  
   * Jeanne au bûcher  
   * Machine à tuer les méchants (La)  
   * Messie (Le)  
   * Navire blanc (Le)  
+  * Nous, les femmes : Ingrid Bergman  
   * Onze fioretti de Saint François d'Assise (Les)  
   * Où est la liberté ?  
   * Paisà  
@@ -293,6 +317,7 @@
   * Psychodrame (Le)  
   * RoGoPaG  
   * Rome, ville ouverte  
+  * Santa Brigida  
   * Sept péchés capitaux : L'Envie (Les)  
   * Socrate  
   * Stromboli  
