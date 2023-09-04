@@ -26,7 +26,7 @@
   * Amussu  
   * Le Parti du cinéma
 
-## Arthur Penn (12)
+## Arthur Penn (14)
 
   * Alice's Restaurant  
   * Bonnie and Clyde  
@@ -35,9 +35,11 @@
   * Fugue (La)  
   * Gaucher (Le)  
   * Georgia  
+  * Inside  
   * Mickey One  
   * Miracle en Alabama  
   * Missouri Breaks  
+  * Penn and Teller Get Killed: Dead Funny  
   * Poursuite impitoyable (La)  
   * Target
 
@@ -67,12 +69,16 @@
   * Vénérable W. (Le)  
   * Vierge des tueurs (La)
 
-## Bertrand Bonello (4)
+## Bertrand Bonello (8)
 
   * Apollonide : Souvenirs de la maison close (L')  
+  * De la guerre  
   * Nocturama  
   * Pornographe (Le)  
-  * Saint Laurent
+  * Quelque chose d'organique  
+  * Saint Laurent  
+  * Tiresia  
+  * Zombi Child
 
 ## Boris Barnet (1)
 
@@ -91,7 +97,7 @@
   * Spectre  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (25)
+## Claude Autant-Lara (29)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
@@ -105,19 +111,23 @@
   * Franciscain de Bourges (Le)  
   * Gloria  
   * Joueur (Le)  
+  * Journal d'une femme en blanc (Le)  
   * Jument verte (La)  
   * Lettres d'amour  
   * Magot de Josefa (Le)  
   * Marguerite de la nuit  
   * Mariage de Chiffon (Le)  
   * Meurtrier (Le)  
+  * Nouveau journal d'une femme en blanc = Une femme en blanc se révolte (Le)  
   * Occupe-toi d'Amélie  
   * Patates (Les)  
+  * Plus vieux métier du monde (Le)  
   * Régates de San Francisco (Les)  
   * Rouge et le Noir (Le)  
+  * Sept péchés capitaux : L'Orgueil (Les)  
   * Sylvie et le fantôme  
-  * Tu ne tueras point  
-  * Vive Henri IV, vive l'amour
+  * Traversée de Paris (La)  
+  * Tu ne tueras point
 
 ## Claude Miller (22)
 
@@ -189,18 +199,16 @@
   * Vacances  
   * Vie facile (La)
 
-## Le cinéma d'horreur 25 indispensables (25)
+## Le cinéma d'horreur 25 indispensables (23)
 
   * Audition  
   * Carrie au bal du diable  
   * Cauchemar de Dracula (Le)  
-  * Dernière Maison sur la gauche (La)  
   * Enfer des Zombies (L')  
   * Exorciste (L')  
   * Féline (La)  
   * Frankenstein  
   * Freaks  
-  * Frissons  
   * Histoires de fantômes japonais  
   * Horrible docteur Orloff (L')  
   * Inferno  
