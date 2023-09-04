@@ -27,7 +27,13 @@
           "duree": 75,
           "version": "VF",
           "format": "DCP",
-          "textes": []
+          "ageMinimal": 4,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Belle est une petite chienne domestique, choyée dans la maison de ses maîtres. Sa rencontre avec celui qu'on appelle le Clochard va lui bouleverser son quotidien."
+            }
+          ]
         },
         {
           "idSeance": 115195,
@@ -91,6 +97,7 @@
           "art": "Le",
           "titre": "Château ambulant",
           "titreVo": "Hauru no ugoku shiro",
+          "titreNx": "ハウルの動く城",
           "realisateurs": "Hayao Miyazaki",
           "annee": 2004,
           "pays": "Japon",
@@ -98,11 +105,11 @@
           "version": "VF",
           "format": "",
           "ageMinimal": 10,
-          "adaptation": "D'après le roman _Howl's moving castle_ de Diana Wynne Jones.",
+          "adaptation": "D'après le roman _Howl's Moving Castle_ de Diana Wynne Jones.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Sophie devient amie avec Hauru, un jeune sorcier mystérieux. Mais la Sorcière des Landes, jalouse, la transforme en une très vieille dame. Pour garder son secret, Sophie s'enfuit et se réfugie dans une incroyable machine volante."
+              "texte": "Sophie devient amie avec Hauru, un jeune sorcier mystérieux. Mais la sorcière des Landes, jalouse, la transforme en une très vieille dame. Pour garder son secret, Sophie s'enfuit et se réfugie dans une incroyable machine volante."
             }
           ]
         },
@@ -162,35 +169,6 @@
             {
               "typeTexte": 9,
               "texte": "Le jeune Jem, sa sœur Scout et leur voisin Dill passent l'été dans une petite ville du Sud des États-Unis. Intrigués par ce qu'on raconte sur une maison du quartier et par les affaires de leur père, ils sont confrontés au monde des adultes souvent effrayant et injuste, mais parfois bienveillant."
-            }
-          ]
-        },
-        {
-          "idSeance": 106536,
-          "ordre": 1,
-          "dateHeure": "2024-01-24T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 60,
-          "idCategorie": 3143,
-          "idEvenement": 29297,
-          "typeEvenement": 13,
-          "idFilm": 70463,
-          "art": "L'",
-          "titre": "Ecole des facteurs",
-          "realisateurs": "Jacques Tati",
-          "annee": 1946,
-          "pays": "France",
-          "duree": 18,
-          "version": "",
-          "format": "DCP",
-          "ageMinimal": 6,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "L'Ecole des facteurs de Jacques Tati suivi d'autres courses de vélos, de voitures, toutes sortes de machines qui s'emballent et roulent de plus en plus vite.\n\n---\n\nTandis que sur les chemins de campagne les facteurs apprennent à enfourcher leur monture, en ville, un éléphant est prêt à travailler dur pour s'acheter un vélo. Et dans la course, Cowboy et Indien, bien décidés à gagner, ne respectent aucune règle et nous font bien rire."
             }
           ]
         },
@@ -445,41 +423,6 @@
           ]
         },
         {
-          "idSeance": 105283,
-          "ordre": 1,
-          "dateHeure": "2023-12-06T15:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 3143,
-          "idEvenement": 29244,
-          "typeEvenement": 13,
-          "idFilm": 45328,
-          "art": "La",
-          "titre": "Légende de Madame Pai-Niang = Le Serpent blanc",
-          "titreVo": "Hakuja den",
-          "realisateurs": "Kazuhiko Okabe, Taiji Yabushita",
-          "annee": 1958,
-          "pays": "Japon",
-          "duree": 78,
-          "version": "VF",
-          "format": "35 mm",
-          "ageMinimal": 6,
-          "generique": [
-            "Keisha Castle-Hughes",
-            "Rawiri Paratene",
-            "Vicky Haughton"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un petit garçon se lie d'amitié avec un serpent blanc, mais ses parents refusent qu'il garde l'animal. Quelques années plus tard, le serpent réapparaît sous la forme d'une belle jeune fille. Une ribambelle d'adorables petits animaux les accompagnera dans leurs aventures.\n\n---\n\nUn jeune garçon se lie d'amitié avec un serpent blanc mais il est contraint de s'en séparer. Quelques années plus tard, le serpent réapparaît sous la forme d'une belle jeune fille."
-            }
-          ]
-        },
-        {
           "idSeance": 107252,
           "ordre": 1,
           "dateHeure": "2024-02-21T15:00:00",
@@ -577,7 +520,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "L'histoire d'une famille de mineurs du Pays de Galles dans les années 1890.\n\n---\n\nLa nombreuse famille Morgan vit heureuse dans un petit village minier d'une grande vallée du Pays de Galles. Le père travaille à la mine, ainsi que tous ses fils sauf le dernier qui ne saurait tarder. L'aîné se marie, mais les beaux jours prennent fin et le destin va sembler s'acharner sur les Morgan."
+              "texte": "La vie des Morgan, famille nombreuse et comblée, dans un petit village de mineurs du pays de Galles."
             }
           ]
         },
@@ -604,6 +547,37 @@
           "textes": []
         },
         {
+          "idSeance": 105283,
+          "ordre": 1,
+          "dateHeure": "2023-12-06T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3143,
+          "idEvenement": 29244,
+          "typeEvenement": 13,
+          "idFilm": 45328,
+          "art": "Le",
+          "titre": "Serpent blanc",
+          "titreVo": "Hakuja den",
+          "titreNx": "白蛇伝",
+          "realisateurs": "Taiji Yabushita, Kazuhiko Okabe",
+          "annee": 1958,
+          "pays": "Japon",
+          "duree": 78,
+          "version": "VF",
+          "format": "35 mm",
+          "ageMinimal": 6,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un petit garçon se lie d'amitié avec un serpent blanc aux pouvoirs magiques, mais ses parents le forcent à s'en séparer. Quelques années plus tard, le serpent réapparaît sous les traits d'une belle jeune fille."
+            }
+          ]
+        },
+        {
           "idSeance": 105999,
           "ordre": 1,
           "dateHeure": "2024-01-03T15:00:00",
@@ -617,7 +591,7 @@
           "typeEvenement": 13,
           "idFilm": 113568,
           "titre": "Super 8",
-          "realisateurs": "J.J. Abrams",
+          "realisateurs": "J. J. Abrams",
           "annee": 2010,
           "pays": "États-Unis",
           "duree": 112,
@@ -760,7 +734,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Alice, petite-fille du vieux Vanderhof, tombe amoureuse de Tony Kirby, le fils d'un homme d'affaires. Si Alice et Tony s'aiment, il n'en va pas de même des Vanderhof et des Kirby, qui n'ont réellement pas la même conception de la vie."
+              "texte": "Le fils d'un financier véreux s'éprend d'une femme appartenant à une famille de gens simples et originaux.\n\n---\n\nAlice, petite-fille du vieux Vanderhof, tombe amoureuse de Tony Kirby, le fils d'un homme d'affaires. Si Alice et Tony s'aiment, il n'en va pas de même des Vanderhof et des Kirby, qui n'ont réellement pas la même conception de la vie."
             }
           ]
         },
@@ -795,7 +769,36 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Alice, petite-fille du vieux Vanderhof, tombe amoureuse de Tony Kirby, le fils d'un homme d'affaires. Si Alice et Tony s'aiment, il n'en va pas de même des Vanderhof et des Kirby, qui n'ont réellement pas la même conception de la vie."
+              "texte": "Le fils d'un financier véreux s'éprend d'une femme appartenant à une famille de gens simples et originaux.\n\n---\n\nAlice, petite-fille du vieux Vanderhof, tombe amoureuse de Tony Kirby, le fils d'un homme d'affaires. Si Alice et Tony s'aiment, il n'en va pas de même des Vanderhof et des Kirby, qui n'ont réellement pas la même conception de la vie."
+            }
+          ]
+        },
+        {
+          "idSeance": 106536,
+          "ordre": 1,
+          "dateHeure": "2024-01-24T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 60,
+          "idCategorie": 3143,
+          "idEvenement": 29297,
+          "typeEvenement": 13,
+          "idFilm": 70463,
+          "art": "L'",
+          "titre": "École des facteurs",
+          "realisateurs": "Jacques Tati",
+          "annee": 1946,
+          "pays": "France",
+          "duree": 18,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": 6,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'Ecole des facteurs de Jacques Tati suivi d'autres courses de vélos, de voitures, toutes sortes de machines qui s'emballent et roulent de plus en plus vite.\n\n---\n\nTandis que sur les chemins de campagne les facteurs apprennent à enfourcher leur monture, en ville, un éléphant est prêt à travailler dur pour s'acheter un vélo. Et dans la course, Cowboy et Indien, bien décidés à gagner, ne respectent aucune règle et nous font bien rire."
             }
           ]
         }

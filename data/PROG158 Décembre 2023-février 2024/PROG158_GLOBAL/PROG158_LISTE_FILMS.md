@@ -232,17 +232,17 @@
   * Chicken Run : La Menace Nuggets  
   * Cinq mille doigts du docteur T. (Les)  
   * Du silence et des ombres  
-  * Ecole des facteurs (L')  
+  * École des facteurs (L')  
   * Edward aux mains d'argent  
   * Ernest et Célestine  
   * Fiancées en folie (Les)  
   * Histoire sans fin (L')  
   * Jeune fille au carton à chapeau (La)  
   * Le Havre  
-  * Légende de Madame Pai-Niang = Le Serpent blanc (La)  
   * Montagnards sont là (Les)  
   * Qu'elle était verte ma vallée  
   * Rue Cases Nègres  
+  * Serpent blanc (Le)  
   * Super 8  
   * Sylvia Scarlett  
   * Voleur de bicyclette (Le)  
@@ -344,6 +344,11 @@
   * Vanina Vanini  
   * Viva l'Italia  
   * Voyage en Italie
+
+## Séances spéciales (2)
+
+  * Nous irons tous au paradis  
+  * Un éléphant ça trompe énormément
 
 ## Viva Varda ! (9)
 
