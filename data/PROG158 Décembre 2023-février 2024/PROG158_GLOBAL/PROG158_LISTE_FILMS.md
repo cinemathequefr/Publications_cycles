@@ -80,9 +80,21 @@
   * Tiresia  
   * Zombi Child
 
-## Boris Barnet (1)
+## Boris Barnet (13)
 
-  * Au bord de la mer bleue
+  * Au bord de la mer bleue  
+  * Concert des maîtres de l'art ukrainien  
+  * Exploit d'un éclaireur (L')  
+  * Liana  
+  * Lutteur et le clown (Le)  
+  * Maison de la rue Troubnaïa (La)  
+  * Miss Mend  
+  * Okraïna  
+  * Pages de la vie (Les)  
+  * Un brave garçon  
+  * Un été prodigieux  
+  * Une fois, la nuit  
+  * Vieux cavalier (Le)
 
 ## Cinéma bis (10)
 
