@@ -26,7 +26,7 @@
   * Amussu  
   * Le Parti du cinéma
 
-## Arthur Penn (14)
+## Arthur Penn (15)
 
   * Alice's Restaurant  
   * Bonnie and Clyde  
@@ -41,7 +41,8 @@
   * Missouri Breaks  
   * Penn and Teller Get Killed: Dead Funny  
   * Poursuite impitoyable (La)  
-  * Target
+  * Target  
+  * Visions of Eight: The Highest
 
 ## Barbet Schroeder (23)
 
@@ -80,20 +81,28 @@
   * Tiresia  
   * Zombi Child
 
-## Boris Barnet (13)
+## Boris Barnet (21)
 
+  * Alenka  
+  * Annouchka  
   * Au bord de la mer bleue  
   * Concert des maîtres de l'art ukrainien  
   * Exploit d'un éclaireur (L')  
+  * Fonte des glaces (La)  
   * Liana  
   * Lutteur et le clown (Le)  
   * Maison de la rue Troubnaïa (La)  
   * Miss Mend  
+  * Moscou en octobre  
   * Okraïna  
   * Pages de la vie (Les)  
+  * Petite gare (La)  
+  * Poète (Le)  
+  * Tempête sur l'Asie  
   * Un brave garçon  
   * Un été prodigieux  
   * Une fois, la nuit  
+  * Une nuit de septembre  
   * Vieux cavalier (Le)
 
 ## Cinéma bis (10)
@@ -211,16 +220,18 @@
   * Vacances  
   * Vie facile (La)
 
-## Le cinéma d'horreur 25 indispensables (23)
+## Le cinéma d'horreur 25 indispensables (25)
 
   * Audition  
   * Carrie au bal du diable  
   * Cauchemar de Dracula (Le)  
+  * Dernière Maison sur la gauche (La)  
   * Enfer des Zombies (L')  
   * Exorciste (L')  
   * Féline (La)  
   * Frankenstein  
   * Freaks  
+  * Frissons  
   * Histoires de fantômes japonais  
   * Horrible docteur Orloff (L')  
   * Inferno  
