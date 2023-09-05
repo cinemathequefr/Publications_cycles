@@ -442,50 +442,33 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 31763,
+          "content": [
             {
               "idFilm": 31763,
-              "content": [
-                {
-                  "idFilm": 31763,
-                  "ordre": 1,
-                  "titre": "Énigme du Chicago Express",
-                  "art": "L'",
-                  "titreVo": "Narrow Margin",
-                  "artVo": "The",
-                  "realisateurs": "Richard Fleischer",
-                  "pays": "États-Unis",
-                  "annee": 1952,
-                  "duree": 71,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "Charles McGraw",
-                    "Marie Windsor",
-                    "Jacqueline White"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Énigme du Chicago Express",
+              "art": "L'",
+              "titreVo": "Narrow Margin",
+              "artVo": "The",
+              "realisateurs": "Richard Fleischer",
+              "pays": "États-Unis",
+              "annee": 1952,
+              "duree": 71,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Charles McGraw",
+                "Marie Windsor",
+                "Jacqueline White"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29432,
-              "content": [
-                {
-                  "idConf": 29432,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Nicolas Saada",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Bernard Benoliel"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 106115,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-01-06T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "idSeance": 106115,
+              "dateHeure": "2024-01-06T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -537,8 +520,7 @@
             {
               "idSeance": 115298,
               "dateHeure": "2024-01-04T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "idSalle": "HL"
             },
             {
               "idSeance": 115357,
@@ -597,8 +579,8 @@
           ],
           "seances": [
             {
-              "idSeance": 115427,
-              "dateHeure": "2024-01-14T14:30:00",
+              "idSeance": 115306,
+              "dateHeure": "2024-01-10T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -629,8 +611,8 @@
           ],
           "seances": [
             {
-              "idSeance": 115428,
-              "dateHeure": "2024-01-21T14:30:00",
+              "idSeance": 115312,
+              "dateHeure": "2024-01-14T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -719,48 +701,32 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 31160,
+          "content": [
             {
               "idFilm": 31160,
-              "content": [
-                {
-                  "idFilm": 31160,
-                  "ordre": 1,
-                  "titre": "Inconnus dans la ville",
-                  "art": "Les",
-                  "titreVo": "Violent Saturday",
-                  "realisateurs": "Richard Fleischer",
-                  "pays": "États-Unis",
-                  "annee": 1955,
-                  "duree": 90,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "Lee Marvin",
-                    "Victor Mature",
-                    "Richard Egan"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Inconnus dans la ville",
+              "art": "Les",
+              "titreVo": "Violent Saturday",
+              "realisateurs": "Richard Fleischer",
+              "pays": "États-Unis",
+              "annee": 1955,
+              "duree": 90,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Lee Marvin",
+                "Victor Mature",
+                "Richard Egan"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29313,
-              "content": [
-                {
-                  "idConf": 29313,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Nicolas Pariser",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115301,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-01-07T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "idSeance": 115301,
+              "dateHeure": "2024-01-07T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -852,8 +818,8 @@
           ],
           "seances": [
             {
-              "idSeance": 115429,
-              "dateHeure": "2024-01-10T18:00:00",
+              "idSeance": 115317,
+              "dateHeure": "2024-01-21T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -1191,7 +1157,7 @@
           "seances": [
             {
               "idSeance": 115307,
-              "dateHeure": "2024-01-10T20:45:00",
+              "dateHeure": "2024-01-10T20:30:00",
               "idSalle": "HL"
             },
             {
@@ -1255,6 +1221,29 @@
             {
               "idSeance": 106398,
               "dateHeure": "2024-01-18T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 29313,
+          "content": [
+            {
+              "idConf": 29313,
+              "titre": "Dialogue avec Nicolas Pariser",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115193,
+              "dateHeure": "2024-01-07T16:00:00",
               "idSalle": "HL"
             }
           ]

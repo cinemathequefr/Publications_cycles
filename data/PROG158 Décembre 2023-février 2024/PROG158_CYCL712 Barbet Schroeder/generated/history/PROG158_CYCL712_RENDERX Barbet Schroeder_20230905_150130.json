@@ -207,6 +207,47 @@
           ]
         },
         {
+          "idFilm": 69925,
+          "content": [
+            {
+              "idFilm": 69925,
+              "ordre": 1,
+              "titre": "Cochon aux patates douces",
+              "art": "Le",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 1971,
+              "duree": 8,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Maquillages",
+                    null
+                  ],
+                  [
+                    "Sing-Sing",
+                    null
+                  ],
+                  [
+                    "Où en êtes-vous, Barbet Schroeder ?",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105422,
+              "dateHeure": "2023-12-10T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 29157,
           "content": [
             {
@@ -388,6 +429,47 @@
           ]
         },
         {
+          "idFilm": 69926,
+          "content": [
+            {
+              "idFilm": 69926,
+              "ordre": 2,
+              "titre": "Maquillages",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 1971,
+              "duree": 13,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "Cochon aux patates douces",
+                    "Le"
+                  ]
+                ],
+                [
+                  [
+                    "Sing-Sing",
+                    null
+                  ],
+                  [
+                    "Où en êtes-vous, Barbet Schroeder ?",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105422,
+              "dateHeure": "2023-12-10T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 51226,
           "content": [
             {
@@ -469,6 +551,52 @@
             {
               "idSeance": 105141,
               "dateHeure": "2023-11-30T20:30:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 105422,
+              "dateHeure": "2023-12-10T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 69924,
+          "content": [
+            {
+              "idFilm": 69924,
+              "ordre": 3,
+              "titre": "Sing-Sing",
+              "realisateurs": "Barbet Schroeder",
+              "pays": "France",
+              "annee": 1971,
+              "duree": 5,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "Cochon aux patates douces",
+                    "Le"
+                  ],
+                  [
+                    "Maquillages",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Où en êtes-vous, Barbet Schroeder ?",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105422,
+              "dateHeure": "2023-12-10T20:45:00",
               "idSalle": "GF"
             }
           ]

@@ -30,12 +30,12 @@
 
   * Alice's Restaurant  
   * Bonnie and Clyde  
-  * Extravagantes aventures d'un visage pâle (Les)  
   * Froid comme la mort  
   * Fugue (La)  
   * Gaucher (Le)  
   * Georgia  
   * Inside  
+  * Little Big Man  
   * Mickey One  
   * Miracle en Alabama  
   * Missouri Breaks  
@@ -44,7 +44,7 @@
   * Target  
   * Visions of Eight: The Highest
 
-## Barbet Schroeder (23)
+## Barbet Schroeder (20)
 
   * Amnesia  
   * Avocat de la terreur (L')  
@@ -52,7 +52,6 @@
   * Before and After  
   * Boulangère de Monceau (La)  
   * Carrière de Suzanne (La)  
-  * Cochon aux patates douces (Le)  
   * Enjeu (L')  
   * Général Idi Amin Dada  
   * Inju, la bête dans l'ombre  
@@ -60,11 +59,9 @@
   * Kiss of Death  
   * Koko, le gorille qui parle  
   * Maîtresse  
-  * Maquillages  
   * More  
   * Mystère von Bülow (Le)  
   * Où en êtes-vous, Barbet Schroeder ?  
-  * Sing-Sing  
   * Tricheurs  
   * Vallée (La)  
   * Vénérable W. (Le)  
@@ -194,7 +191,7 @@
   * Route des Indes (La)  
   * Vacances à Venise
 
-## La comédie hollywoodienne classique 25 indispensables (23)
+## La comédie hollywoodienne classique 25 indispensables (24)
 
   * Arsenic et vieilles dentelles  
   * Baronne de minuit (La)  
@@ -215,6 +212,7 @@
   * Ninotchka  
   * Rendez-vous  
   * Sérénade à trois  
+  * Sylvia Scarlett  
   * To Be or Not To Be  
   * Un cœur pris au piège  
   * Vacances  
@@ -248,7 +246,7 @@
   * Sorcellerie à travers les âges (La)  
   * Zombie
 
-## Ma petite Cinémathèque (20)
+## Ma petite Cinémathèque (19)
 
   * Belle et le Clochard (La)  
   * Château ambulant (Le)  
@@ -267,7 +265,6 @@
   * Rue Cases Nègres  
   * Serpent blanc (Le)  
   * Super 8  
-  * Sylvia Scarlett  
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous
 

@@ -1008,50 +1008,6 @@
     "hashEvenement": "f53131"
   },
   {
-    "idSeance": 105422,
-    "idEvenement": 29076,
-    "dateHeure": "2023-12-10T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Barbet Schroeder",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 69925,
-        "titre": "Cochon aux patates douces",
-        "art": "Le",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1971,
-        "duree": 8
-      },
-      {
-        "idFilm": 69926,
-        "titre": "Maquillages",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1971,
-        "duree": 13
-      },
-      {
-        "idFilm": 69924,
-        "titre": "Sing-Sing",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1971,
-        "duree": 5
-      },
-      {
-        "idFilm": 136039,
-        "titre": "Où en êtes-vous, Barbet Schroeder ?",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 2017,
-        "duree": 15
-      }
-    ],
-    "hashEvenement": "f69925f69926f69924f136039"
-  },
-  {
     "idSeance": 115294,
     "idEvenement": 29110,
     "dateHeure": "2023-12-11T18:30:00",
@@ -1406,10 +1362,6 @@
     "dateHeure": "2023-12-16T16:30:00",
     "salle": "HL",
     "cycle": [
-      [
-        "Ma petite Cinémathèque",
-        "Les films"
-      ],
       [
         "La comédie hollywoodienne classique 25 indispensables",
         "Les films"
@@ -2648,6 +2600,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 45844,
@@ -2791,6 +2744,10 @@
       [
         "Richard Fleischer",
         "Les films"
+      ],
+      [
+        "Richard Fleischer",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2803,9 +2760,15 @@
         "duree": 71,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 29432,
+        "titre": "Dialogue avec Nicolas Saada",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f31763"
+    "hashEvenement": "f31763c29432"
   },
   {
     "idSeance": 106119,
@@ -2934,6 +2897,10 @@
       [
         "Richard Fleischer",
         "Les films"
+      ],
+      [
+        "Richard Fleischer",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2946,9 +2913,15 @@
         "duree": 90,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 29313,
+        "titre": "Dialogue avec Nicolas Pariser",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f31160"
+    "hashEvenement": "f31160c29313"
   },
   {
     "idSeance": 115253,
@@ -2974,27 +2947,6 @@
       }
     ],
     "hashEvenement": "f41858"
-  },
-  {
-    "idSeance": 115193,
-    "idEvenement": 29313,
-    "dateHeure": "2024-01-07T16:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Richard Fleischer",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29313,
-        "titre": "Dialogue avec Nicolas Pariser",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29313"
   },
   {
     "idSeance": 115320,
@@ -3141,8 +3093,8 @@
     "hashEvenement": "f84035"
   },
   {
-    "idSeance": 115306,
-    "idEvenement": 29001,
+    "idSeance": 115429,
+    "idEvenement": 29017,
     "dateHeure": "2024-01-10T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -3153,17 +3105,16 @@
     ],
     "items": [
       {
-        "idFilm": 31143,
-        "titre": "Fille sur la balançoire",
-        "art": "La",
+        "idFilm": 46365,
+        "titre": "Mandingo",
         "realisateurs": "Richard Fleischer",
-        "annee": 1955,
-        "duree": 109,
+        "annee": 1975,
+        "duree": 127,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f31143"
+    "hashEvenement": "f46365"
   },
   {
     "idSeance": 106183,
@@ -3193,7 +3144,7 @@
   {
     "idSeance": 115307,
     "idEvenement": 29033,
-    "dateHeure": "2024-01-10T20:30:00",
+    "dateHeure": "2024-01-10T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3240,6 +3191,30 @@
     "hashEvenement": "f31770"
   },
   {
+    "idSeance": 106215,
+    "idEvenement": 29354,
+    "dateHeure": "2024-01-11T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Roberto Rossellini",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43679,
+        "titre": "India",
+        "realisateurs": "Roberto Rossellini",
+        "annee": 1957,
+        "duree": 90,
+        "version": "STF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f43679"
+  },
+  {
     "idSeance": 115309,
     "idEvenement": 29010,
     "dateHeure": "2024-01-11T20:15:00",
@@ -3263,6 +3238,30 @@
       }
     ],
     "hashEvenement": "f31342"
+  },
+  {
+    "idSeance": 115430,
+    "idEvenement": 28753,
+    "dateHeure": "2024-01-11T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Roberto Rossellini",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45110,
+        "titre": "Europe 51",
+        "realisateurs": "Roberto Rossellini",
+        "annee": 1951,
+        "duree": 119,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f45110"
   },
   {
     "idSeance": 106256,
@@ -3506,8 +3505,8 @@
     "hashEvenement": "f31683"
   },
   {
-    "idSeance": 115312,
-    "idEvenement": 29009,
+    "idSeance": 115427,
+    "idEvenement": 29001,
     "dateHeure": "2024-01-14T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -3518,17 +3517,17 @@
     ],
     "items": [
       {
-        "idFilm": 31767,
-        "titre": "Flics ne dorment pas la nuit",
-        "art": "Les",
+        "idFilm": 31143,
+        "titre": "Fille sur la balançoire",
+        "art": "La",
         "realisateurs": "Richard Fleischer",
-        "annee": 1972,
-        "duree": 103,
-        "version": "VO",
+        "annee": 1955,
+        "duree": 109,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f31767"
+    "hashEvenement": "f31143"
   },
   {
     "idSeance": 106315,
@@ -4076,8 +4075,8 @@
     "hashEvenement": "f31734"
   },
   {
-    "idSeance": 115317,
-    "idEvenement": 29017,
+    "idSeance": 115428,
+    "idEvenement": 29009,
     "dateHeure": "2024-01-21T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -4088,16 +4087,17 @@
     ],
     "items": [
       {
-        "idFilm": 46365,
-        "titre": "Mandingo",
+        "idFilm": 31767,
+        "titre": "Flics ne dorment pas la nuit",
+        "art": "Les",
         "realisateurs": "Richard Fleischer",
-        "annee": 1975,
-        "duree": 127,
-        "version": "VOSTF",
-        "format": "DCP"
+        "annee": 1972,
+        "duree": 103,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f46365"
+    "hashEvenement": "f31767"
   },
   {
     "idSeance": 115365,
@@ -4636,8 +4636,7 @@
         "titre": "Actes des apôtres",
         "art": "Les",
         "realisateurs": "Roberto Rossellini",
-        "annee": 1968,
-        "duree": 342
+        "annee": 1968
       }
     ],
     "hashEvenement": "f42445"
@@ -5315,8 +5314,7 @@
         "titre": "Âge du fer",
         "art": "L'",
         "realisateurs": "Roberto Rossellini, Renzo Rossellini",
-        "annee": 1964,
-        "duree": 266
+        "annee": 1964
       }
     ],
     "hashEvenement": "f42474"
@@ -5598,6 +5596,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 74301,
@@ -6996,7 +6995,7 @@
     "hashEvenement": "f70839"
   },
   {
-    "idSeance": 107330,
+    "idSeance": 115425,
     "idEvenement": 29186,
     "dateHeure": "2024-02-23T18:00:00",
     "salle": "HL",
@@ -7023,7 +7022,7 @@
   {
     "idSeance": 115413,
     "idEvenement": 29189,
-    "dateHeure": "2024-02-23T20:00:00",
+    "dateHeure": "2024-02-23T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7064,7 +7063,7 @@
         "annee": 1965,
         "duree": 122,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f44468"
@@ -7108,8 +7107,7 @@
     "items": [
       {
         "idFilm": 55882,
-        "titre": "Extravagantes aventures d'un visage pâle",
-        "art": "Les",
+        "titre": "Little Big Man",
         "realisateurs": "Arthur Penn",
         "annee": 1969,
         "duree": 147,
@@ -7418,10 +7416,7 @@
         "idFilm": 35017,
         "titre": "Inside",
         "realisateurs": "Arthur Penn",
-        "annee": 1995,
-        "duree": 94,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "annee": 1995
       }
     ],
     "hashEvenement": "f35017"
@@ -7442,7 +7437,8 @@
         "idFilm": 92314,
         "titre": "Penn and Teller Get Killed: Dead Funny",
         "realisateurs": "Arthur Penn",
-        "annee": 1989
+        "annee": 1989,
+        "duree": 89
       }
     ],
     "hashEvenement": "f92314"
@@ -7949,7 +7945,7 @@
     "hashEvenement": "f70833"
   },
   {
-    "idSeance": 107616,
+    "idSeance": 115426,
     "idEvenement": 29047,
     "dateHeure": "2024-03-06T20:30:00",
     "salle": "GF",

@@ -10,6 +10,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 150,
+    "typeSeance": 44,
     "items": [
       {
         "idFilm": 45844,
@@ -20,7 +21,8 @@
         "version": "VOSTF",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 2418,
@@ -33,6 +35,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 105,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 31763,
@@ -42,6 +45,24 @@
         "duree": 71,
         "version": "VOSTF",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3180,
+    "typeEvenement": 14,
+    "idEvenement": 29432,
+    "idSeance": 106115,
+    "dateHeure": "2024-01-06T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -102,6 +123,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 31160,
@@ -118,15 +140,18 @@
     "idCategorie": 3180,
     "typeEvenement": 14,
     "idEvenement": 29313,
-    "idSeance": 115193,
-    "dateHeure": "2024-01-07T16:00:00",
+    "idSeance": 115301,
+    "dateHeure": "2024-01-07T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 105,
+    "dureeSeance": 90,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -224,23 +249,23 @@
   {
     "idCategorie": 2418,
     "typeEvenement": 13,
-    "idEvenement": 29001,
-    "idSeance": 115306,
+    "idEvenement": 29017,
+    "idSeance": 115429,
     "dateHeure": "2024-01-10T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 31143,
+        "idFilm": 46365,
         "ordre": 1,
-        "idSeance": 115306,
-        "idCopie": 26563,
-        "duree": 109,
+        "idSeance": 115429,
+        "idCopie": 26585,
+        "duree": 127,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   },
@@ -249,7 +274,7 @@
     "typeEvenement": 13,
     "idEvenement": 29033,
     "idSeance": 115307,
-    "dateHeure": "2024-01-10T20:30:00",
+    "dateHeure": "2024-01-10T20:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -408,8 +433,8 @@
   {
     "idCategorie": 2418,
     "typeEvenement": 13,
-    "idEvenement": 29009,
-    "idSeance": 115312,
+    "idEvenement": 29001,
+    "idSeance": 115427,
     "dateHeure": "2024-01-14T14:30:00",
     "idSalle": [
       "HL",
@@ -418,12 +443,12 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 31767,
+        "idFilm": 31143,
         "ordre": 1,
-        "idSeance": 115312,
-        "idCopie": 11516,
-        "duree": 103,
-        "version": "VO",
+        "idSeance": 115427,
+        "idCopie": 26563,
+        "duree": 109,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ]
@@ -730,23 +755,23 @@
   {
     "idCategorie": 2418,
     "typeEvenement": 13,
-    "idEvenement": 29017,
-    "idSeance": 115317,
+    "idEvenement": 29009,
+    "idSeance": 115428,
     "dateHeure": "2024-01-21T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 165,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 46365,
+        "idFilm": 31767,
         "ordre": 1,
-        "idSeance": 115317,
-        "idCopie": 26585,
-        "duree": 127,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idSeance": 115428,
+        "idCopie": 11516,
+        "duree": 103,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },

@@ -493,9 +493,9 @@
           "textes": []
         },
         {
-          "idSeance": 115306,
+          "idSeance": 115427,
           "ordre": 1,
-          "dateHeure": "2024-01-10T18:00:00",
+          "dateHeure": "2024-01-14T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -518,9 +518,9 @@
           "textes": []
         },
         {
-          "idSeance": 115312,
+          "idSeance": 115428,
           "ordre": 1,
-          "dateHeure": "2024-01-14T14:30:00",
+          "dateHeure": "2024-01-21T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -647,6 +647,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 2418,
           "idEvenement": 29012,
           "typeEvenement": 13,
@@ -741,9 +742,9 @@
           "textes": []
         },
         {
-          "idSeance": 115317,
+          "idSeance": 115429,
           "ordre": 1,
-          "dateHeure": "2024-01-21T14:30:00",
+          "dateHeure": "2024-01-10T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1068,7 +1069,7 @@
         {
           "idSeance": 115307,
           "ordre": 1,
-          "dateHeure": "2024-01-10T20:30:00",
+          "dateHeure": "2024-01-10T20:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1217,6 +1218,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 105,
+          "typeAssoc": 118,
           "idCategorie": 2418,
           "idEvenement": 28997,
           "typeEvenement": 13,
@@ -1256,6 +1258,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 150,
+          "mention": "Ouverture de la rétrospective",
           "idCategorie": 2418,
           "idEvenement": 28999,
           "typeEvenement": 13,
@@ -1329,13 +1332,15 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 115193,
-          "dateHeure": "2024-01-07T16:00:00",
+          "idSeance": 115301,
+          "ordre": 2,
+          "dateHeure": "2024-01-07T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 105,
+          "dureeSeance": 90,
+          "typeAssoc": 118,
           "idCategorie": 3180,
           "idEvenement": 29313,
           "typeEvenement": 14,
@@ -1352,6 +1357,40 @@
               "ordre": 1
             }
           ]
+        },
+        {
+          "idSeance": 106115,
+          "ordre": 2,
+          "dateHeure": "2024-01-06T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3180,
+          "idEvenement": 29432,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Nicolas Saada",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Nicolas Saada",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Bernard Benoliel"
         }
       ],
       "textes": []
