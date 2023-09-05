@@ -225,8 +225,9 @@
   * Audition  
   * Carrie au bal du diable  
   * Cauchemar de Dracula (Le)  
+  * Dents de la mer (Les)  
   * Dernière Maison sur la gauche (La)  
-  * Enfer des Zombies (L')  
+  * Enfer des zombies (L')  
   * Exorciste (L')  
   * Féline (La)  
   * Frankenstein  
@@ -245,7 +246,6 @@
   * Psychose  
   * Rosemary's Baby  
   * Sorcellerie à travers les âges (La)  
-  * Yeux sans visage (Les)  
   * Zombie
 
 ## Ma petite Cinémathèque (20)
