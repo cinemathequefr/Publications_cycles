@@ -220,7 +220,7 @@
           ],
           "dureeSeance": 150,
           "idCategorie": 3118,
-          "idEvenement": 28744,
+          "idEvenement": 29462,
           "typeEvenement": 13,
           "idFilm": 65327,
           "titre": "Beaubourg, centre d'art et de culture Georges Pompidou",
@@ -257,25 +257,6 @@
           "duree": 131,
           "version": "",
           "format": "",
-          "textes": []
-        },
-        {
-          "idSeance": 115375,
-          "ordre": 2,
-          "dateHeure": "2024-02-04T20:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 150,
-          "idCategorie": 3118,
-          "idEvenement": 28744,
-          "typeEvenement": 13,
-          "idFilm": 65326,
-          "titre": "Concerto per Michelangelo",
-          "realisateurs": "Roberto Rossellini",
-          "annee": 1977,
-          "pays": "Italie",
           "textes": []
         },
         {
@@ -1183,7 +1164,7 @@
           "annee": 1972,
           "pays": "Italie",
           "duree": 254,
-          "version": "VO",
+          "version": "VA",
           "format": "35 mm",
           "textes": []
         },
@@ -1262,7 +1243,7 @@
     },
     {
       "titreSousCycle": "Courts métrages",
-      "tri": 1,
+      "tri": 2,
       "items": [
         {
           "idSeance": 115373,
@@ -1405,6 +1386,62 @@
               "texte": "Film suédois, commandé par l'organisation caritative Rädda Barnen (\"Save the Children\"),qui  montre Ingrid Bergman aider les religieuses à trier les vêtements, les chaussures, les couvertures pour les enfants."
             }
           ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 115439,
+          "dateHeure": "2024-01-13T16:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3194,
+          "idEvenement": 29471,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Aurore Renaut",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Aurore Renaut",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Bernard Benoliel"
+        },
+        {
+          "idSeance": 115438,
+          "dateHeure": "2024-01-11T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 3194,
+          "idEvenement": 29470,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Onze Fioretti de Saint François d'Assise + Dial. Alain Bergala",
+          "duree": 60,
+          "textes": []
         }
       ],
       "textes": []

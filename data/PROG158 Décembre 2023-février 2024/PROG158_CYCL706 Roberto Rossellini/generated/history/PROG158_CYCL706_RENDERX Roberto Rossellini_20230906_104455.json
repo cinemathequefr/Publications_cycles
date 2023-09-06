@@ -44,7 +44,7 @@
               "pays": "Italie",
               "annee": 1972,
               "duree": 254,
-              "version": "VA",
+              "version": "VO",
               "format": "35 mm"
             }
           ],
@@ -255,7 +255,16 @@
               "annee": 1977,
               "duree": 56,
               "version": "VO",
-              "format": "16 mm"
+              "format": "16 mm",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Concerto per Michelangelo",
+                    null
+                  ]
+                ]
+              ]
             }
           ],
           "seances": [
@@ -285,6 +294,35 @@
             {
               "idSeance": 115350,
               "dateHeure": "2024-01-26T15:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 65326,
+          "content": [
+            {
+              "idFilm": 65326,
+              "ordre": 2,
+              "titre": "Concerto per Michelangelo",
+              "realisateurs": "Roberto Rossellini",
+              "pays": "Italie",
+              "annee": 1977,
+              "precedeSuivi": [
+                [
+                  [
+                    "Beaubourg, centre d'art et de culture Georges Pompidou",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115375,
+              "dateHeure": "2024-02-04T20:00:00",
               "idSalle": "JE"
             }
           ]
@@ -1052,11 +1090,11 @@
       ]
     },
     {
-      "tri": 2,
+      "tri": 1,
       "titreSousCycle": "Courts métrages",
       "items": [
         {
-          "idEvenement": 29417,
+          "idFilm": 65302,
           "content": [
             {
               "idFilm": 65302,
@@ -1070,8 +1108,41 @@
               "annee": 1939,
               "duree": 6,
               "version": "VO",
-              "format": "35 mm"
-            },
+              "format": "35 mm",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Fantaisie sous-marine",
+                    null
+                  ],
+                  [
+                    "Force et la raison : Entretien avec Salvador Allende",
+                    "La"
+                  ],
+                  [
+                    "Nous, les femmes : Ingrid Bergman",
+                    null
+                  ],
+                  [
+                    "Santa Brigida",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115373,
+              "dateHeure": "2024-02-03T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 65299,
+          "content": [
             {
               "idFilm": 65299,
               "ordre": 2,
@@ -1082,8 +1153,42 @@
               "annee": 1936,
               "duree": 10,
               "version": "VO",
-              "format": "35 mm"
-            },
+              "format": "35 mm",
+              "precedeSuivi": [
+                [
+                  [
+                    "Dindon insolent",
+                    "Le"
+                  ]
+                ],
+                [
+                  [
+                    "Force et la raison : Entretien avec Salvador Allende",
+                    "La"
+                  ],
+                  [
+                    "Nous, les femmes : Ingrid Bergman",
+                    null
+                  ],
+                  [
+                    "Santa Brigida",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115373,
+              "dateHeure": "2024-02-03T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 65318,
+          "content": [
             {
               "idFilm": 65318,
               "ordre": 3,
@@ -1096,8 +1201,42 @@
               "annee": 1971,
               "duree": 36,
               "version": "VOSTA",
-              "format": "DCP"
-            },
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Dindon insolent",
+                    "Le"
+                  ],
+                  [
+                    "Fantaisie sous-marine",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Nous, les femmes : Ingrid Bergman",
+                    null
+                  ],
+                  [
+                    "Santa Brigida",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115373,
+              "dateHeure": "2024-02-03T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 41976,
+          "content": [
             {
               "idFilm": 41976,
               "ordre": 4,
@@ -1115,8 +1254,42 @@
                 "Renzo Rossellini",
                 "Robertino Rossellini",
                 "Isabella Rossellini"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Dindon insolent",
+                    "Le"
+                  ],
+                  [
+                    "Fantaisie sous-marine",
+                    null
+                  ],
+                  [
+                    "Force et la raison : Entretien avec Salvador Allende",
+                    "La"
+                  ]
+                ],
+                [
+                  [
+                    "Santa Brigida",
+                    null
+                  ]
+                ]
               ]
-            },
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115373,
+              "dateHeure": "2024-02-03T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 126401,
+          "content": [
             {
               "idFilm": 126401,
               "ordre": 5,
@@ -1129,6 +1302,27 @@
               "format": "35 mm",
               "generique": [
                 "Ingrid Bergman"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Dindon insolent",
+                    "Le"
+                  ],
+                  [
+                    "Fantaisie sous-marine",
+                    null
+                  ],
+                  [
+                    "Force et la raison : Entretien avec Salvador Allende",
+                    "La"
+                  ],
+                  [
+                    "Nous, les femmes : Ingrid Bergman",
+                    null
+                  ]
+                ],
+                []
               ]
             }
           ],
@@ -1137,47 +1331,6 @@
               "idSeance": 115373,
               "dateHeure": "2024-02-03T19:30:00",
               "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 29470,
-          "content": [
-            {
-              "idConf": 29470,
-              "titre": "Onze Fioretti de Saint François d'Assise + Dial. Alain Bergala",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115438,
-              "dateHeure": "2024-01-11T19:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idConf": 29471,
-          "content": [
-            {
-              "idConf": 29471,
-              "titre": "Dialogue avec Aurore Renaut",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115439,
-              "dateHeure": "2024-01-13T16:15:00",
-              "idSalle": "HL"
             }
           ]
         }

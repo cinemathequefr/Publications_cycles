@@ -115,7 +115,7 @@
   * Spectre  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (29)
+## Claude Autant-Lara (31)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
@@ -128,6 +128,7 @@
   * En cas de malheur  
   * Franciscain de Bourges (Le)  
   * Gloria  
+  * Humour noir : La Bestiole  
   * Joueur (Le)  
   * Journal d'une femme en blanc (Le)  
   * Jument verte (La)  
@@ -139,6 +140,7 @@
   * Nouveau journal d'une femme en blanc = Une femme en blanc se révolte (Le)  
   * Occupe-toi d'Amélie  
   * Patates (Les)  
+  * Plus vieux métier du monde : Aujourd'hui (Le)  
   * Plus vieux métier du monde (Le)  
   * Régates de San Francisco (Les)  
   * Rouge et le Noir (Le)  
@@ -317,7 +319,7 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (45)
+## Roberto Rossellini (44)
 
   * Actes des apôtres (Les)  
   * Âge de Cosme de Médicis (L')  
@@ -330,7 +332,6 @@
   * Augustin d'Hippone  
   * Beaubourg, centre d'art et de culture Georges Pompidou  
   * Blaise Pascal  
-  * Concerto per Michelangelo  
   * Descartes  
   * Dindon insolent (Le)  
   * Europe 51  

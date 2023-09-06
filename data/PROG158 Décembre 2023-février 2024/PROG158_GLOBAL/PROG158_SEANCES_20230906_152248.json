@@ -637,27 +637,6 @@
     "hashEvenement": "f154547"
   },
   {
-    "idSeance": 115436,
-    "idEvenement": 29461,
-    "dateHeure": "2023-12-07T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Aki Kaurismäki",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29461,
-        "titre": "Dialogue avec Charles Tesson",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29461"
-  },
-  {
     "idSeance": 112672,
     "idEvenement": 29083,
     "dateHeure": "2023-12-07T20:15:00",
@@ -3237,27 +3216,6 @@
     "hashEvenement": "f43679"
   },
   {
-    "idSeance": 115438,
-    "idEvenement": 29470,
-    "dateHeure": "2024-01-11T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Roberto Rossellini",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29470,
-        "titre": "Onze Fioretti de Saint François d'Assise + Dial. Alain Bergala",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29470"
-  },
-  {
     "idSeance": 115309,
     "idEvenement": 29010,
     "dateHeure": "2024-01-11T20:15:00",
@@ -3451,27 +3409,6 @@
       }
     ],
     "hashEvenement": "f51603"
-  },
-  {
-    "idSeance": 115439,
-    "idEvenement": 29471,
-    "dateHeure": "2024-01-13T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Roberto Rossellini",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29471,
-        "titre": "Dialogue avec Aurore Renaut",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29471"
   },
   {
     "idSeance": 115351,
@@ -4458,28 +4395,6 @@
     "hashEvenement": "f138063"
   },
   {
-    "idSeance": 115440,
-    "idEvenement": 29472,
-    "dateHeure": "2024-01-25T19:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Claude Miller",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29472,
-        "titre": "Conférence d'Olivier Curchod",
-        "sousTitre": "Conférence d'Olivier Curchod",
-        "typeConference": "Conférence",
-        "duree": 90
-      }
-    ],
-    "hashEvenement": "c29472"
-  },
-  {
     "idSeance": 106576,
     "idEvenement": 29030,
     "dateHeure": "2024-01-25T19:30:00",
@@ -4698,10 +4613,6 @@
       [
         "Claude Miller",
         "Les films"
-      ],
-      [
-        "Claude Miller",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -4713,15 +4624,9 @@
         "annee": 1975,
         "duree": 82,
         "format": "DCP"
-      },
-      {
-        "idConf": 29473,
-        "titre": "Table ronde",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f50170c29473"
+    "hashEvenement": "f50170"
   },
   {
     "idSeance": 106657,
@@ -5499,7 +5404,7 @@
   },
   {
     "idSeance": 115375,
-    "idEvenement": 29462,
+    "idEvenement": 28744,
     "dateHeure": "2024-02-04T20:00:00",
     "salle": "JE",
     "cycle": [
@@ -5517,9 +5422,15 @@
         "duree": 56,
         "version": "VO",
         "format": "16 mm"
+      },
+      {
+        "idFilm": 65326,
+        "titre": "Concerto per Michelangelo",
+        "realisateurs": "Roberto Rossellini",
+        "annee": 1977
       }
     ],
-    "hashEvenement": "f65327"
+    "hashEvenement": "f65327f65326"
   },
   {
     "idSeance": 106862,
@@ -5989,7 +5900,7 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1972,
         "duree": 254,
-        "version": "VA",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -6438,7 +6349,6 @@
         "realisateurs": "Fedor Ozep, Boris Barnet",
         "annee": 1926,
         "duree": 250,
-        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -6707,31 +6617,16 @@
   },
   {
     "idSeance": 115387,
-    "idEvenement": 28833,
+    "idEvenement": 28817,
     "dateHeure": "2024-02-18T14:30:00",
     "salle": "GF",
     "cycle": [
       [
         "Claude Autant-Lara",
-        "Courts métrages"
+        "Les films"
       ]
     ],
     "items": [
-      {
-        "idFilm": 65362,
-        "titre": "Humour noir : La Bestiole",
-        "realisateurs": "Claude Autant-Lara",
-        "annee": 1963,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 46274,
-        "titre": "Plus vieux métier du monde : Aujourd'hui",
-        "art": "Le",
-        "realisateurs": "Claude Autant-Lara",
-        "annee": 1966,
-        "format": "35 mm"
-      },
       {
         "idFilm": 46278,
         "titre": "Sept péchés capitaux : L'Orgueil",
@@ -6742,7 +6637,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f65362f46274f46278"
+    "hashEvenement": "f46278"
   },
   {
     "idSeance": 107210,
@@ -7276,8 +7171,8 @@
         "realisateurs": "Boris Barnet",
         "annee": 1927,
         "duree": 65,
-        "version": "VO",
-        "format": "DCP"
+        "version": "INT. FR.",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f70816"

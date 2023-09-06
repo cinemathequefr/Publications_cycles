@@ -296,47 +296,31 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 50170,
+          "content": [
             {
               "idFilm": 50170,
-              "content": [
-                {
-                  "idFilm": 50170,
-                  "ordre": 1,
-                  "titre": "Meilleure façon de marcher",
-                  "art": "La",
-                  "realisateurs": "Claude Miller",
-                  "pays": "France",
-                  "annee": 1975,
-                  "duree": 82,
-                  "version": "",
-                  "format": "DCP",
-                  "generique": [
-                    "Patrick Dewaere",
-                    "Patrick Bouchitey",
-                    "Christine Pascal"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Meilleure façon de marcher",
+              "art": "La",
+              "realisateurs": "Claude Miller",
+              "pays": "France",
+              "annee": 1975,
+              "duree": 82,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Patrick Dewaere",
+                "Patrick Bouchitey",
+                "Christine Pascal"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29473,
-              "content": [
-                {
-                  "idConf": 29473,
-                  "ordre": 2,
-                  "titre": "Table ronde",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 106652,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-01-27T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "idSeance": 106652,
+              "dateHeure": "2024-01-27T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -737,30 +721,6 @@
               "idSeance": 106854,
               "dateHeure": "2024-02-09T18:30:00",
               "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 29472,
-          "content": [
-            {
-              "idConf": 29472,
-              "titre": "Conférence d'Olivier Curchod",
-              "sousTitre": "Conférence d'Olivier Curchod",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115440,
-              "dateHeure": "2024-01-25T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }
