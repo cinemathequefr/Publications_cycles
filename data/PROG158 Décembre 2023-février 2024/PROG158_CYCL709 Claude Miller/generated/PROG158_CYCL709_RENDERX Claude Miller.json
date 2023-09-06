@@ -157,32 +157,48 @@
           ]
         },
         {
-          "idFilm": 50134,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50134,
-              "ordre": 1,
-              "titre": "Effrontée",
-              "art": "L'",
-              "realisateurs": "Claude Miller",
-              "pays": "France-Suisse",
-              "annee": 1985,
-              "duree": 96,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 10,
-              "generique": [
-                "Charlotte Gainsbourg",
-                "Bernadette Lafont",
-                "Julie Glenn"
+              "content": [
+                {
+                  "idFilm": 50134,
+                  "ordre": 1,
+                  "titre": "Effrontée",
+                  "art": "L'",
+                  "realisateurs": "Claude Miller",
+                  "pays": "France-Suisse",
+                  "annee": 1985,
+                  "duree": 96,
+                  "version": "",
+                  "format": "DCP",
+                  "ageMinimal": 10,
+                  "generique": [
+                    "Charlotte Gainsbourg",
+                    "Bernadette Lafont",
+                    "Julie Glenn"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 106831,
-              "dateHeure": "2024-02-03T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 29474,
+              "content": [
+                {
+                  "idConf": 29474,
+                  "ordre": 2,
+                  "titre": "Table ronde",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 106831,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-02-03T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -461,7 +477,7 @@
           "seances": [
             {
               "idSeance": 115366,
-              "dateHeure": "2024-01-25T21:00:00",
+              "dateHeure": "2024-01-25T21:15:00",
               "idSalle": "GF"
             }
           ]

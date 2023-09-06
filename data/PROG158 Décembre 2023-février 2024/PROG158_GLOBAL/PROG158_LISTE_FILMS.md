@@ -44,7 +44,7 @@
   * Target  
   * Visions of Eight: The Highest
 
-## Barbet Schroeder (20)
+## Barbet Schroeder (18)
 
   * Amnesia  
   * Avocat de la terreur (L')  
@@ -58,9 +58,7 @@
   * JF partagerait appartement  
   * Kiss of Death  
   * Koko, le gorille qui parle  
-  * Maîtresse  
   * More  
-  * Mystère von Bülow (Le)  
   * Où en êtes-vous, Barbet Schroeder ?  
   * Tricheurs  
   * Vallée (La)  
@@ -270,7 +268,7 @@
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous
 
-## Richard Fleischer (46)
+## Richard Fleischer (45)
 
   * Amityville 3D : Le Démon  
   * Arena  
@@ -281,7 +279,6 @@
   * Barabbas  
   * Bodyguard  
   * Chanteur de jazz (Le)  
-  * Che!  
   * Child of Divorce  
   * Complices de la dernière chance (Les)  
   * Conan le destructeur  
@@ -297,7 +294,7 @@
   * Flics ne dorment pas la nuit (Les)  
   * Force de vaincre (La)  
   * Génie du mal (Le)  
-  * Grand risque (Le)  
+  * Grand Risque (Le)  
   * Inconnus dans la ville (Les)  
   * Incredible Sarah (The)  
   * Kalidor, la légende du talisman  
@@ -365,6 +362,13 @@
   * Vanina Vanini  
   * Viva l'Italia  
   * Voyage en Italie
+
+## Straub-Huillet (4)
+
+  * Amerika, rapports de classe  
+  * Mort d'Empédocle (La)  
+  * Ouvriers, paysans  
+  * Sicilia !
 
 ## Séances spéciales (2)
 
