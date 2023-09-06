@@ -96,7 +96,7 @@
   },
   {
     "idSeance": 105141,
-    "idEvenement": 29092,
+    "idEvenement": 29427,
     "dateHeure": "2023-11-30T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -107,6 +107,13 @@
     ],
     "items": [
       {
+        "idFilm": 136039,
+        "titre": "Où en êtes-vous, Barbet Schroeder ?",
+        "realisateurs": "Barbet Schroeder",
+        "annee": 2017,
+        "duree": 15
+      },
+      {
         "idFilm": 136038,
         "titre": "Vénérable W.",
         "art": "Le",
@@ -116,7 +123,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f136038"
+    "hashEvenement": "f136039f136038"
   },
   {
     "idSeance": 115282,
@@ -1001,50 +1008,6 @@
     "hashEvenement": "f53131"
   },
   {
-    "idSeance": 105422,
-    "idEvenement": 29076,
-    "dateHeure": "2023-12-10T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Barbet Schroeder",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 69925,
-        "titre": "Cochon aux patates douces",
-        "art": "Le",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1971,
-        "duree": 8
-      },
-      {
-        "idFilm": 69926,
-        "titre": "Maquillages",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1971,
-        "duree": 13
-      },
-      {
-        "idFilm": 69924,
-        "titre": "Sing-Sing",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1971,
-        "duree": 5
-      },
-      {
-        "idFilm": 136039,
-        "titre": "Où en êtes-vous, Barbet Schroeder ?",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 2017,
-        "duree": 15
-      }
-    ],
-    "hashEvenement": "f69925f69926f69924f136039"
-  },
-  {
     "idSeance": 115294,
     "idEvenement": 29110,
     "dateHeure": "2023-12-11T18:30:00",
@@ -1399,10 +1362,6 @@
     "dateHeure": "2023-12-16T16:30:00",
     "salle": "HL",
     "cycle": [
-      [
-        "Ma petite Cinémathèque",
-        "Les films"
-      ],
       [
         "La comédie hollywoodienne classique 25 indispensables",
         "Les films"
@@ -2641,6 +2600,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 45844,
@@ -2784,6 +2744,10 @@
       [
         "Richard Fleischer",
         "Les films"
+      ],
+      [
+        "Richard Fleischer",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2796,9 +2760,15 @@
         "duree": 71,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 29432,
+        "titre": "Dialogue avec Nicolas Saada",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f31763"
+    "hashEvenement": "f31763c29432"
   },
   {
     "idSeance": 106119,
@@ -2927,6 +2897,10 @@
       [
         "Richard Fleischer",
         "Les films"
+      ],
+      [
+        "Richard Fleischer",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2939,9 +2913,15 @@
         "duree": 90,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 29313,
+        "titre": "Dialogue avec Nicolas Pariser",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f31160"
+    "hashEvenement": "f31160c29313"
   },
   {
     "idSeance": 115253,
@@ -2967,27 +2947,6 @@
       }
     ],
     "hashEvenement": "f41858"
-  },
-  {
-    "idSeance": 115193,
-    "idEvenement": 29313,
-    "dateHeure": "2024-01-07T16:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Richard Fleischer",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29313,
-        "titre": "Dialogue avec Nicolas Pariser",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29313"
   },
   {
     "idSeance": 115320,
@@ -3134,8 +3093,8 @@
     "hashEvenement": "f84035"
   },
   {
-    "idSeance": 115306,
-    "idEvenement": 29001,
+    "idSeance": 115429,
+    "idEvenement": 29017,
     "dateHeure": "2024-01-10T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -3146,17 +3105,16 @@
     ],
     "items": [
       {
-        "idFilm": 31143,
-        "titre": "Fille sur la balançoire",
-        "art": "La",
+        "idFilm": 46365,
+        "titre": "Mandingo",
         "realisateurs": "Richard Fleischer",
-        "annee": 1955,
-        "duree": 109,
+        "annee": 1975,
+        "duree": 127,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f31143"
+    "hashEvenement": "f46365"
   },
   {
     "idSeance": 106183,
@@ -3186,7 +3144,7 @@
   {
     "idSeance": 115307,
     "idEvenement": 29033,
-    "dateHeure": "2024-01-10T20:30:00",
+    "dateHeure": "2024-01-10T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3233,6 +3191,30 @@
     "hashEvenement": "f31770"
   },
   {
+    "idSeance": 106215,
+    "idEvenement": 29354,
+    "dateHeure": "2024-01-11T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Roberto Rossellini",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43679,
+        "titre": "India",
+        "realisateurs": "Roberto Rossellini",
+        "annee": 1957,
+        "duree": 90,
+        "version": "STF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f43679"
+  },
+  {
     "idSeance": 115309,
     "idEvenement": 29010,
     "dateHeure": "2024-01-11T20:15:00",
@@ -3256,6 +3238,30 @@
       }
     ],
     "hashEvenement": "f31342"
+  },
+  {
+    "idSeance": 115430,
+    "idEvenement": 28753,
+    "dateHeure": "2024-01-11T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Roberto Rossellini",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45110,
+        "titre": "Europe 51",
+        "realisateurs": "Roberto Rossellini",
+        "annee": 1951,
+        "duree": 119,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f45110"
   },
   {
     "idSeance": 106256,
@@ -3499,8 +3505,8 @@
     "hashEvenement": "f31683"
   },
   {
-    "idSeance": 115312,
-    "idEvenement": 29009,
+    "idSeance": 115427,
+    "idEvenement": 29001,
     "dateHeure": "2024-01-14T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -3511,17 +3517,17 @@
     ],
     "items": [
       {
-        "idFilm": 31767,
-        "titre": "Flics ne dorment pas la nuit",
-        "art": "Les",
+        "idFilm": 31143,
+        "titre": "Fille sur la balançoire",
+        "art": "La",
         "realisateurs": "Richard Fleischer",
-        "annee": 1972,
-        "duree": 103,
-        "version": "VO",
+        "annee": 1955,
+        "duree": 109,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f31767"
+    "hashEvenement": "f31143"
   },
   {
     "idSeance": 106315,
@@ -4069,8 +4075,8 @@
     "hashEvenement": "f31734"
   },
   {
-    "idSeance": 115317,
-    "idEvenement": 29017,
+    "idSeance": 115428,
+    "idEvenement": 29009,
     "dateHeure": "2024-01-21T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -4081,16 +4087,17 @@
     ],
     "items": [
       {
-        "idFilm": 46365,
-        "titre": "Mandingo",
+        "idFilm": 31767,
+        "titre": "Flics ne dorment pas la nuit",
+        "art": "Les",
         "realisateurs": "Richard Fleischer",
-        "annee": 1975,
-        "duree": 127,
-        "version": "VOSTF",
-        "format": "DCP"
+        "annee": 1972,
+        "duree": 103,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f46365"
+    "hashEvenement": "f31767"
   },
   {
     "idSeance": 115365,
@@ -4487,7 +4494,7 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1961,
         "duree": 127,
-        "version": "VOSTA",
+        "version": "VO",
         "format": "DCP"
       }
     ],
@@ -4629,8 +4636,7 @@
         "titre": "Actes des apôtres",
         "art": "Les",
         "realisateurs": "Roberto Rossellini",
-        "annee": 1968,
-        "duree": 342
+        "annee": 1968
       }
     ],
     "hashEvenement": "f42445"
@@ -5308,8 +5314,7 @@
         "titre": "Âge du fer",
         "art": "L'",
         "realisateurs": "Roberto Rossellini, Renzo Rossellini",
-        "annee": 1964,
-        "duree": 266
+        "annee": 1964
       }
     ],
     "hashEvenement": "f42474"
@@ -5591,6 +5596,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 74301,
@@ -5628,8 +5634,8 @@
     "hashEvenement": "f45989"
   },
   {
-    "idSeance": 106972,
-    "idEvenement": 29348,
+    "idSeance": 106973,
+    "idEvenement": 29250,
     "dateHeure": "2024-02-09T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -5640,17 +5646,17 @@
     ],
     "items": [
       {
-        "idFilm": 59489,
-        "titre": "Féline",
-        "art": "La",
-        "realisateurs": "Jacques Tourneur",
-        "annee": 1942,
-        "duree": 73,
-        "version": "VO",
+        "idFilm": 45668,
+        "titre": "Cauchemar de Dracula",
+        "art": "Le",
+        "realisateurs": "Terence Fisher",
+        "annee": 1958,
+        "duree": 82,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f59489"
+    "hashEvenement": "f45668"
   },
   {
     "idSeance": 106974,
@@ -5725,8 +5731,8 @@
     "hashEvenement": "f154546f67849f50108f67851"
   },
   {
-    "idSeance": 106973,
-    "idEvenement": 29250,
+    "idSeance": 115422,
+    "idEvenement": 29428,
     "dateHeure": "2024-02-09T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -5737,17 +5743,17 @@
     ],
     "items": [
       {
-        "idFilm": 45668,
-        "titre": "Cauchemar de Dracula",
-        "art": "Le",
-        "realisateurs": "Terence Fisher",
-        "annee": 1958,
-        "duree": 82,
+        "idFilm": 36385,
+        "titre": "Dents de la mer",
+        "art": "Les",
+        "realisateurs": "Steven Spielberg",
+        "annee": 1974,
+        "duree": 124,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f45668"
+    "hashEvenement": "f36385"
   },
   {
     "idSeance": 106853,
@@ -6711,7 +6717,7 @@
     "items": [
       {
         "idFilm": 55510,
-        "titre": "Enfer des Zombies",
+        "titre": "Enfer des zombies",
         "art": "L'",
         "realisateurs": "Lucio Fulci",
         "annee": 1979,
@@ -6843,9 +6849,9 @@
     "hashEvenement": "f30512"
   },
   {
-    "idSeance": 107253,
-    "idEvenement": 29268,
-    "dateHeure": "2024-02-21T17:00:00",
+    "idSeance": 115423,
+    "idEvenement": 29348,
+    "dateHeure": "2024-02-21T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6855,41 +6861,17 @@
     ],
     "items": [
       {
-        "idFilm": 48505,
-        "titre": "Yeux sans visage",
-        "art": "Les",
-        "realisateurs": "Georges Franju",
-        "annee": 1959,
-        "duree": 88,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f48505"
-  },
-  {
-    "idSeance": 107257,
-    "idEvenement": 29271,
-    "dateHeure": "2024-02-21T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Le cinéma d'horreur 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65595,
-        "titre": "Horrible docteur Orloff",
-        "art": "L'",
-        "realisateurs": "Jesus Franco",
-        "annee": 1961,
-        "duree": 86,
-        "version": "VF",
+        "idFilm": 59489,
+        "titre": "Féline",
+        "art": "La",
+        "realisateurs": "Jacques Tourneur",
+        "annee": 1942,
+        "duree": 73,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f65595"
+    "hashEvenement": "f59489"
   },
   {
     "idSeance": 107255,
@@ -6914,6 +6896,31 @@
       }
     ],
     "hashEvenement": "f35694"
+  },
+  {
+    "idSeance": 107257,
+    "idEvenement": 29271,
+    "dateHeure": "2024-02-21T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le cinéma d'horreur 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 65595,
+        "titre": "Horrible docteur Orloff",
+        "art": "L'",
+        "realisateurs": "Jesus Franco",
+        "annee": 1961,
+        "duree": 86,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f65595"
   },
   {
     "idSeance": 115410,
@@ -6988,7 +6995,7 @@
     "hashEvenement": "f70839"
   },
   {
-    "idSeance": 107330,
+    "idSeance": 115425,
     "idEvenement": 29186,
     "dateHeure": "2024-02-23T18:00:00",
     "salle": "HL",
@@ -7015,7 +7022,7 @@
   {
     "idSeance": 115413,
     "idEvenement": 29189,
-    "dateHeure": "2024-02-23T20:00:00",
+    "dateHeure": "2024-02-23T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7056,7 +7063,7 @@
         "annee": 1965,
         "duree": 122,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f44468"
@@ -7100,8 +7107,7 @@
     "items": [
       {
         "idFilm": 55882,
-        "titre": "Extravagantes aventures d'un visage pâle",
-        "art": "Les",
+        "titre": "Little Big Man",
         "realisateurs": "Arthur Penn",
         "annee": 1969,
         "duree": 147,
@@ -7200,7 +7206,8 @@
         "art": "La",
         "realisateurs": "Arthur Penn",
         "annee": 1975,
-        "version": "VOSTF",
+        "duree": 100,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -7272,7 +7279,7 @@
         "annee": 1967,
         "duree": 111,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f35805"
@@ -7409,10 +7416,7 @@
         "idFilm": 35017,
         "titre": "Inside",
         "realisateurs": "Arthur Penn",
-        "annee": 1995,
-        "duree": 94,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "annee": 1995
       }
     ],
     "hashEvenement": "f35017"
@@ -7433,7 +7437,8 @@
         "idFilm": 92314,
         "titre": "Penn and Teller Get Killed: Dead Funny",
         "realisateurs": "Arthur Penn",
-        "annee": 1989
+        "annee": 1989,
+        "duree": 89
       }
     ],
     "hashEvenement": "f92314"
@@ -7464,8 +7469,8 @@
     "hashEvenement": "f30512"
   },
   {
-    "idSeance": 107433,
-    "idEvenement": 29380,
+    "idSeance": 115417,
+    "idEvenement": 29368,
     "dateHeure": "2024-02-28T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -7476,14 +7481,14 @@
     ],
     "items": [
       {
-        "idFilm": 75412,
-        "titre": "Pornographe",
-        "art": "Le",
+        "idFilm": 113247,
+        "titre": "Apollonide : Souvenirs de la maison close",
+        "art": "L'",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2001
+        "annee": 2011
       }
     ],
-    "hashEvenement": "f75412"
+    "hashEvenement": "f113247"
   },
   {
     "idSeance": 107436,
@@ -7509,8 +7514,8 @@
     "hashEvenement": "f35632"
   },
   {
-    "idSeance": 107434,
-    "idEvenement": 29368,
+    "idSeance": 115418,
+    "idEvenement": 29373,
     "dateHeure": "2024-02-28T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -7521,14 +7526,13 @@
     ],
     "items": [
       {
-        "idFilm": 113247,
-        "titre": "Apollonide : Souvenirs de la maison close",
-        "art": "L'",
+        "idFilm": 132054,
+        "titre": "Nocturama",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2011
+        "annee": 2016
       }
     ],
-    "hashEvenement": "f113247"
+    "hashEvenement": "f132054"
   },
   {
     "idSeance": 115416,
@@ -7554,30 +7558,6 @@
     "hashEvenement": "f35785"
   },
   {
-    "idSeance": 107471,
-    "idEvenement": 29290,
-    "dateHeure": "2024-02-29T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le cinéma d'horreur 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 77547,
-        "titre": "Audition",
-        "realisateurs": "Takashi Miike",
-        "annee": 1999,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f77547"
-  },
-  {
     "idSeance": 107473,
     "idEvenement": 29195,
     "dateHeure": "2024-02-29T19:00:00",
@@ -7601,9 +7581,55 @@
     "hashEvenement": "f127715"
   },
   {
-    "idSeance": 107472,
+    "idSeance": 115420,
+    "idEvenement": 29290,
+    "dateHeure": "2024-03-01T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le cinéma d'horreur 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 77547,
+        "titre": "Audition",
+        "realisateurs": "Takashi Miike",
+        "annee": 1999,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f77547"
+  },
+  {
+    "idSeance": 115419,
+    "idEvenement": 29380,
+    "dateHeure": "2024-03-01T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Bertrand Bonello",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 75412,
+        "titre": "Pornographe",
+        "art": "Le",
+        "realisateurs": "Bertrand Bonello",
+        "annee": 2001
+      }
+    ],
+    "hashEvenement": "f75412"
+  },
+  {
+    "idSeance": 115421,
     "idEvenement": 29291,
-    "dateHeure": "2024-02-29T20:30:00",
+    "dateHeure": "2024-03-01T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7625,10 +7651,10 @@
     "hashEvenement": "f74025"
   },
   {
-    "idSeance": 107509,
+    "idSeance": 107512,
     "idEvenement": 29379,
-    "dateHeure": "2024-03-01T18:00:00",
-    "salle": "HL",
+    "dateHeure": "2024-03-01T21:30:00",
+    "salle": "GF",
     "cycle": [
       [
         "Bertrand Bonello",
@@ -7644,27 +7670,6 @@
       }
     ],
     "hashEvenement": "f123300"
-  },
-  {
-    "idSeance": 107510,
-    "idEvenement": 29373,
-    "dateHeure": "2024-03-01T20:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Bertrand Bonello",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 132054,
-        "titre": "Nocturama",
-        "realisateurs": "Bertrand Bonello",
-        "annee": 2016
-      }
-    ],
-    "hashEvenement": "f132054"
   },
   {
     "idSeance": 107547,
@@ -7940,7 +7945,7 @@
     "hashEvenement": "f70833"
   },
   {
-    "idSeance": 107616,
+    "idSeance": 115426,
     "idEvenement": 29047,
     "dateHeure": "2024-03-06T20:30:00",
     "salle": "GF",

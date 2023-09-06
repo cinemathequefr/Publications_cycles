@@ -210,8 +210,8 @@
   * Mon mari le patron  
   * New York-Miami  
   * Ninotchka  
-  * Rendez-vous  
   * Sérénade à trois  
+  * Shop Around the Corner (The)  
   * Sylvia Scarlett  
   * To Be or Not To Be  
   * Un cœur pris au piège  
@@ -341,7 +341,7 @@
   * Homme à la croix (L')  
   * Idée d'une île  
   * India  
-  * J'ai fait un beau voyage TV  
+  * J'ai fait un beau voyage  
   * Jeanne au bûcher  
   * Machine à tuer les méchants (La)  
   * Messie (Le)  
