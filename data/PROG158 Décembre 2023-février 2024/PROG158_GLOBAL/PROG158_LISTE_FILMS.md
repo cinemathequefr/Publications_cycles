@@ -316,11 +316,9 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (44)
+## Roberto Rossellini (41)
 
-  * Actes des apôtres (Les)  
   * Âge de Cosme de Médicis (L')  
-  * Âge du fer (L')  
   * Allemagne, année zéro  
   * Âme noire  
   * Amore (L')  
@@ -337,7 +335,6 @@
   * Force et la raison : Entretien avec Salvador Allende (La)  
   * Général Della Rovere (Le)  
   * Homme à la croix (L')  
-  * Idée d'une île  
   * India  
   * J'ai fait un beau voyage  
   * Jeanne au bûcher  
@@ -372,12 +369,16 @@
   * Somewhere  
   * Virgin Suicides
 
-## Straub-Huillet (4)
+## Straub-Huillet (8)
 
   * Amerika, rapports de classe  
+  * Ces rencontres avec eux  
+  * Du jour au lendemain  
   * Mort d'Empédocle (La)  
+  * Non réconciliés ou Seule la violence aide où la violence règne  
   * Ouvriers, paysans  
-  * Sicilia !
+  * Sicilia !  
+  * Une visite au Louvre
 
 ## Séances spéciales (2)
 
