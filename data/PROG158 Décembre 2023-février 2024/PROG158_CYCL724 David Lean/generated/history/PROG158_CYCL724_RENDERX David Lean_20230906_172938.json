@@ -40,48 +40,32 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 40058,
+          "content": [
             {
               "idFilm": 40058,
-              "content": [
-                {
-                  "idFilm": 40058,
-                  "ordre": 1,
-                  "titre": "Brève rencontre",
-                  "titreVo": "Brief Encounter",
-                  "realisateurs": "David Lean",
-                  "pays": "Grande-Bretagne",
-                  "annee": 1945,
-                  "duree": 86,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "adaptation": "D'après la pièce _Still life_ de Noël Coward.",
-                  "generique": [
-                    "Celia Johnson",
-                    "Trevor Howard",
-                    "Cyril Raymond"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Brève rencontre",
+              "titreVo": "Brief Encounter",
+              "realisateurs": "David Lean",
+              "pays": "Grande-Bretagne",
+              "annee": 1945,
+              "duree": 86,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après la pièce _Still life_ de Noël Coward.",
+              "generique": [
+                "Celia Johnson",
+                "Trevor Howard",
+                "Cyril Raymond"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29488,
-              "content": [
-                {
-                  "idConf": 29488,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Kevin Brownlow",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115444,
-                  "typeAssoc": 118,
-                  "dateHeure": "2023-12-21T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
+              "idSeance": 115444,
+              "dateHeure": "2023-12-21T19:00:00",
+              "idSalle": "GF"
             }
           ]
         },

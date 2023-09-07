@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Aki Kaurismäki (18)
+## Aki Kaurismäki (19)
 
   * Ariel  
   * Au loin s'en vont les nuages  
@@ -15,6 +15,7 @@
   * Juha  
   * Leningrad Cowboys Go America  
   * Leningrad Cowboys rencontrent Moïse (Les)  
+  * Likaiset kädet  
   * Lumières du faubourg (Les)  
   * Shadows in Paradise  
   * Syndrome du lac Saimaa (Le)  
@@ -44,7 +45,7 @@
   * Target  
   * Visions of Eight: The Highest
 
-## Barbet Schroeder (18)
+## Barbet Schroeder (22)
 
   * Amnesia  
   * Avocat de la terreur (L')  
@@ -52,14 +53,18 @@
   * Before and After  
   * Boulangère de Monceau (La)  
   * Carrière de Suzanne (La)  
+  * Collectionneuse (La)  
   * Enjeu (L')  
   * Général Idi Amin Dada  
   * Inju, la bête dans l'ombre  
   * JF partagerait appartement  
   * Kiss of Death  
   * Koko, le gorille qui parle  
+  * Maîtresse  
   * More  
+  * Mystère von Bülow (Le)  
   * Où en êtes-vous, Barbet Schroeder ?  
+  * Some More : Barbet Schroeder  
   * Tricheurs  
   * Vallée (La)  
   * Vénérable W. (Le)  
@@ -100,27 +105,22 @@
   * Une nuit de septembre  
   * Vieux cavalier (Le)
 
-## Cinéma bis (10)
+## Cinéma bis (6)
 
-  * Baiser de la tarentule (Le)  
   * Banco  
   * Cabo Blanco  
   * Frankenstein 2000  
-  * Horreur dans la villes  
-  * Horrible invasion (L')  
   * On m'appelait Bruce Lee  
-  * Plage sanglante (La)  
   * Spectre  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (31)
+## Claude Autant-Lara (30)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
   * Blé en herbe (Le)  
   * Bois des amants (Le)  
   * Bon Dieu sans confession (Le)  
-  * Comte de Monte-Cristo (Le)  
   * Diable au corps (Le)  
   * Douce  
   * En cas de malheur  
@@ -362,6 +362,15 @@
   * Vanina Vanini  
   * Viva l'Italia  
   * Voyage en Italie
+
+## Sofia Coppola (6)
+
+  * Lost in Translation  
+  * Marie-Antoinette  
+  * On the Rocks  
+  * Proies (Les)  
+  * Somewhere  
+  * Virgin Suicides
 
 ## Straub-Huillet (4)
 

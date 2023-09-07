@@ -48,6 +48,29 @@
   {
     "idCategorie": 3151,
     "typeEvenement": 13,
+    "idEvenement": 29110,
+    "idSeance": 105221,
+    "dateHeure": "2023-12-02T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 38404,
+        "ordre": 1,
+        "idSeance": 105221,
+        "idCopie": 26631,
+        "duree": 82,
+        "version": "VOSTF",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3151,
+    "typeEvenement": 13,
     "idEvenement": 29125,
     "idSeance": 115283,
     "dateHeure": "2023-12-02T20:30:00",
@@ -207,18 +230,26 @@
     ]
   },
   {
-    "idCategorie": 3193,
-    "typeEvenement": 14,
-    "idEvenement": 29461,
-    "idSeance": 115436,
-    "dateHeure": "2023-12-07T19:30:00",
+    "idCategorie": 3151,
+    "typeEvenement": 13,
+    "idEvenement": 29122,
+    "idSeance": 105320,
+    "dateHeure": "2023-12-07T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 180,
+    "dureeSeance": 105,
     "items": [
-      {}
+      {
+        "idFilm": 99733,
+        "ordre": 1,
+        "idSeance": 105320,
+        "idCopie": 26614,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
     ]
   },
   {
@@ -228,8 +259,8 @@
     "idSeance": 115287,
     "dateHeure": "2023-12-08T18:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "dureeSeance": 135,
     "items": [
@@ -239,29 +270,6 @@
         "idSeance": 115287,
         "idCopie": 26609,
         "duree": 100,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3151,
-    "typeEvenement": 13,
-    "idEvenement": 29122,
-    "idSeance": 115288,
-    "dateHeure": "2023-12-09T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 105,
-    "items": [
-      {
-        "idFilm": 99733,
-        "ordre": 1,
-        "idSeance": 115288,
-        "idCopie": 26614,
-        "duree": 80,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -362,29 +370,6 @@
   {
     "idCategorie": 3151,
     "typeEvenement": 13,
-    "idEvenement": 29110,
-    "idSeance": 115294,
-    "dateHeure": "2023-12-11T18:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 38404,
-        "ordre": 1,
-        "idSeance": 115294,
-        "idCopie": 26631,
-        "duree": 82,
-        "version": "VOSTF",
-        "format": ""
-      }
-    ]
-  },
-  {
-    "idCategorie": 3151,
-    "typeEvenement": 13,
     "idEvenement": 29116,
     "idSeance": 115295,
     "dateHeure": "2023-12-13T18:30:00",
@@ -402,29 +387,6 @@
         "duree": 80,
         "version": "VOSTF",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3151,
-    "typeEvenement": 13,
-    "idEvenement": 29109,
-    "idSeance": 115297,
-    "dateHeure": "2023-12-13T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 134626,
-        "ordre": 1,
-        "idSeance": 115297,
-        "idCopie": 26610,
-        "duree": 98,
-        "version": "VOSTF",
-        "format": ""
       }
     ]
   },
@@ -447,5 +409,51 @@
       }
     ],
     "mention": "Avant-première"
+  },
+  {
+    "idCategorie": 3151,
+    "typeEvenement": 13,
+    "idEvenement": 29109,
+    "idSeance": 105600,
+    "dateHeure": "2023-12-17T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 134626,
+        "ordre": 1,
+        "idSeance": 105600,
+        "idCopie": 26610,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3151,
+    "typeEvenement": 13,
+    "idEvenement": 29430,
+    "idSeance": 105601,
+    "dateHeure": "2023-12-17T20:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 154560,
+        "ordre": 1,
+        "idSeance": 105601,
+        "idCopie": 26739,
+        "duree": 67,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ]
   }
 ]
