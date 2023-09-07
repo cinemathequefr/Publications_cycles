@@ -79,7 +79,7 @@
   * Tiresia  
   * Zombi Child
 
-## Boris Barnet (21)
+## Boris Barnet (20)
 
   * Alenka  
   * Annouchka  
@@ -87,7 +87,6 @@
   * Concert des maîtres de l'art ukrainien  
   * Exploit d'un éclaireur (L')  
   * Fonte des glaces (La)  
-  * Liana  
   * Lutteur et le clown (Le)  
   * Maison de la rue Troubnaïa (La)  
   * Miss Mend  
@@ -119,7 +118,7 @@
   * Spectre  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (35)
+## Claude Autant-Lara (36)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
@@ -127,6 +126,7 @@
   * Bois des amants (Le)  
   * Bon Dieu sans confession (Le)  
   * Boul se met au verre...  
+  * Comte de Monte-Cristo (Le)  
   * Diable au corps (Le)  
   * Douce  
   * En cas de malheur  
@@ -370,11 +370,12 @@
   * Viva l'Italia  
   * Voyage en Italie
 
-## Sofia Coppola (6)
+## Sofia Coppola (7)
 
   * Lost in Translation  
   * Marie-Antoinette  
   * On the Rocks  
+  * Priscilla  
   * Proies (Les)  
   * Somewhere  
   * Virgin Suicides
