@@ -104,7 +104,10 @@
       "idCycleProg": 525,
       "titreCycle": "Ciné-club de Frédéric Bonnaud",
       "isReg": true,
-      "sousCycles": [{ "titre": "", "cats": [], "tri": 4 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3200], "tri": 4 },
+        { "titre": "Rencontres et conférences", "cats": [3114], "tri": 4 }
+      ],
       "excludeSeances": []
     },
     {
@@ -159,7 +162,8 @@
       "isReg": true,
       "type": "jp",
       "titreCycle": "Ma petite Cinémathèque",
-      "sousCycles": [{ "titre": "Les films", "cats": [3143], "tri": 1 }]
+      "sousCycles": [{ "titre": "Les films", "cats": [3143], "tri": 1 }],
+      "excludeSeances": [105719]
     },
     {
       "idCycleProg": 711,
@@ -179,7 +183,7 @@
     },
     {
       "idCycleProg": 713,
-      "titreCycle": "La comédie hollywoodienne classique : 25 indispensables",
+      "titreCycle": "La comédie hollywoodienne classique, 25 indispensables",
       "sousCycles": [{ "titre": "Les films", "cats": [3147], "tri": 1 }]
     },
     {
@@ -198,7 +202,7 @@
     },
     {
       "idCycleProg": 723,
-      "titreCycle": "Le cinéma d'horreur : 25 indispensables",
+      "titreCycle": "Le cinéma d'horreur, 25 indispensables",
       "sousCycles": [{ "titre": "Les films", "cats": [3171], "tri": 1 }]
     },
     {

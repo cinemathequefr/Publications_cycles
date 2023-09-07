@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Aki Kaurismäki (19)
+## Aki Kaurismäki (20)
 
   * Ariel  
   * Au loin s'en vont les nuages  
@@ -20,6 +20,7 @@
   * Shadows in Paradise  
   * Syndrome du lac Saimaa (Le)  
   * Tiens ton foulard, Tatiana  
+  * Total Balalaika Show  
   * Vie de bohème (La)
 
 ## Archi Vives (2)
@@ -27,7 +28,7 @@
   * Amussu  
   * Le Parti du cinéma
 
-## Arthur Penn (15)
+## Arthur Penn (14)
 
   * Alice's Restaurant  
   * Bonnie and Clyde  
@@ -38,21 +39,18 @@
   * Inside  
   * Little Big Man  
   * Mickey One  
-  * Miracle en Alabama  
   * Missouri Breaks  
   * Penn and Teller Get Killed: Dead Funny  
   * Poursuite impitoyable (La)  
   * Target  
   * Visions of Eight: The Highest
 
-## Barbet Schroeder (22)
+## Barbet Schroeder (20)
 
   * Amnesia  
   * Avocat de la terreur (L')  
   * Barfly  
   * Before and After  
-  * Boulangère de Monceau (La)  
-  * Carrière de Suzanne (La)  
   * Collectionneuse (La)  
   * Enjeu (L')  
   * Général Idi Amin Dada  
@@ -105,6 +103,13 @@
   * Une nuit de septembre  
   * Vieux cavalier (Le)
 
+## Ciné-club de Frédéric Bonnaud (4)
+
+  * Boulangère de Monceau (La)  
+  * Carrière de Suzanne (La)  
+  * Général Della Rovere (Le)  
+  * Miracle en Alabama
+
 ## Cinéma bis (6)
 
   * Banco  
@@ -114,17 +119,20 @@
   * Spectre  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (30)
+## Claude Autant-Lara (35)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
   * Blé en herbe (Le)  
   * Bois des amants (Le)  
   * Bon Dieu sans confession (Le)  
+  * Boul se met au verre...  
   * Diable au corps (Le)  
   * Douce  
   * En cas de malheur  
+  * Fait divers  
   * Franciscain de Bourges (Le)  
+  * Gendarme est sans pitié (Le)  
   * Gloria  
   * Humour noir : La Bestiole  
   * Joueur (Le)  
@@ -135,6 +143,7 @@
   * Marguerite de la nuit  
   * Mariage de Chiffon (Le)  
   * Meurtrier (Le)  
+  * My Partner Mr Davis = The Mysterious Mr Davis  
   * Nouveau journal d'une femme en blanc = Une femme en blanc se révolte (Le)  
   * Occupe-toi d'Amélie  
   * Patates (Les)  
@@ -145,7 +154,8 @@
   * Sept péchés capitaux : L'Orgueil (Les)  
   * Sylvie et le fantôme  
   * Traversée de Paris (La)  
-  * Tu ne tueras point
+  * Tu ne tueras point  
+  * Vittel
 
 ## Claude Miller (22)
 
@@ -191,7 +201,7 @@
   * Route des Indes (La)  
   * Vacances à Venise
 
-## La comédie hollywoodienne classique 25 indispensables (24)
+## La comédie hollywoodienne classique, 25 indispensables (25)
 
   * Arsenic et vieilles dentelles  
   * Baronne de minuit (La)  
@@ -216,9 +226,10 @@
   * To Be or Not To Be  
   * Un cœur pris au piège  
   * Vacances  
-  * Vie facile (La)
+  * Vie facile (La)  
+  * Vous ne l'emporterez pas avec vous
 
-## Le cinéma d'horreur 25 indispensables (25)
+## Le cinéma d'horreur, 25 indispensables (25)
 
   * Audition  
   * Carrie au bal du diable  
@@ -316,7 +327,7 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (41)
+## Roberto Rossellini (40)
 
   * Âge de Cosme de Médicis (L')  
   * Allemagne, année zéro  
@@ -333,7 +344,6 @@
   * Évadés de la nuit (Les)  
   * Fantaisie sous-marine  
   * Force et la raison : Entretien avec Salvador Allende (La)  
-  * Général Della Rovere (Le)  
   * Homme à la croix (L')  
   * India  
   * J'ai fait un beau voyage  
