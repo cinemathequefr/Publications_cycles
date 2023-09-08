@@ -63,7 +63,7 @@
           "seances": [
             {
               "idSeance": 107190,
-              "dateHeure": "2024-02-17T17:00:00",
+              "dateHeure": "2024-02-17T17:15:00",
               "idSalle": "HL"
             }
           ]
@@ -185,7 +185,7 @@
           ],
           "seances": [
             {
-              "idSeance": 107207,
+              "idSeance": 115533,
               "dateHeure": "2024-02-18T19:00:00",
               "idSalle": "HL"
             }
@@ -429,7 +429,7 @@
           "seances": [
             {
               "idSeance": 115377,
-              "dateHeure": "2024-02-17T14:30:00",
+              "dateHeure": "2024-02-17T15:00:00",
               "idSalle": "HL"
             }
           ]
@@ -484,7 +484,7 @@
           "seances": [
             {
               "idSeance": 115333,
-              "dateHeure": "2024-02-10T17:00:00",
+              "dateHeure": "2024-02-10T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -571,7 +571,7 @@
           "seances": [
             {
               "idSeance": 107012,
-              "dateHeure": "2024-02-10T20:00:00",
+              "dateHeure": "2024-02-10T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -633,33 +633,50 @@
           ]
         },
         {
-          "idFilm": 41068,
-          "content": [
+          "groupe": [
             {
               "idFilm": 41068,
-              "ordre": 1,
-              "titre": "Psychose",
-              "titreVo": "Psycho",
-              "realisateurs": "Alfred Hitchcock",
-              "pays": "États-Unis",
-              "annee": 1959,
-              "duree": 109,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Psychose_ de Robert Bloch.",
-              "generique": [
-                "Anthony Perkins",
-                "Vera Miles",
-                "Janet Leigh",
-                "John Gavin"
+              "content": [
+                {
+                  "idFilm": 41068,
+                  "ordre": 1,
+                  "titre": "Psychose",
+                  "titreVo": "Psycho",
+                  "realisateurs": "Alfred Hitchcock",
+                  "pays": "États-Unis",
+                  "annee": 1959,
+                  "duree": 109,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Psychose_ de Robert Bloch.",
+                  "generique": [
+                    "Anthony Perkins",
+                    "Vera Miles",
+                    "Janet Leigh",
+                    "John Gavin"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 115332,
-              "dateHeure": "2024-02-10T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 29521,
+              "content": [
+                {
+                  "idConf": 29521,
+                  "ordre": 2,
+                  "titre": "« Naissance de l'horreur moderne » : dialogue avec Jean-François Rauger",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 115332,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-02-10T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },

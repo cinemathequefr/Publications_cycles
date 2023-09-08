@@ -59,6 +59,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Barbet Schroeder",
     "items": [
       {
         "idFilm": 69792,
@@ -594,7 +595,7 @@
         "Les films"
       ]
     ],
-    "mention": "Avant-première",
+    "mention": "Avant-première. Séance présentée par Sofia Coppola",
     "items": [
       {
         "idFilm": 154568,
@@ -1014,28 +1015,25 @@
     "hashEvenement": "f54394"
   },
   {
-    "idSeance": 115467,
-    "idEvenement": 29475,
-    "dateHeure": "2023-12-09T18:30:00",
+    "idSeance": 115536,
+    "idEvenement": 29526,
+    "dateHeure": "2023-12-09T16:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Barbet Schroeder",
-        "Les films"
+        "Séances spéciales",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 54250,
-        "titre": "Collectionneuse",
-        "art": "La",
-        "realisateurs": "Éric Rohmer",
-        "annee": 1967,
-        "duree": 90,
-        "format": "DCP"
+        "idConf": 29526,
+        "titre": "Séance spectaculaire Méliès : le monde à portée de la main",
+        "typeConference": "Spectacle",
+        "duree": 75
       }
     ],
-    "hashEvenement": "f54250"
+    "hashEvenement": "c29526"
   },
   {
     "idSeance": 115482,
@@ -1059,9 +1057,33 @@
     "hashEvenement": "f112506"
   },
   {
+    "idSeance": 115467,
+    "idEvenement": 29475,
+    "dateHeure": "2023-12-09T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Barbet Schroeder",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 54250,
+        "titre": "Collectionneuse",
+        "art": "La",
+        "realisateurs": "Éric Rohmer",
+        "annee": 1967,
+        "duree": 90,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f54250"
+  },
+  {
     "idSeance": 115466,
     "idEvenement": 29083,
-    "dateHeure": "2023-12-09T20:30:00",
+    "dateHeure": "2023-12-09T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1084,7 +1106,7 @@
   {
     "idSeance": 115290,
     "idEvenement": 29117,
-    "dateHeure": "2023-12-09T21:00:00",
+    "dateHeure": "2023-12-09T21:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1400,6 +1422,7 @@
         "realisateurs": "Mitchell Leisen",
         "annee": 1937,
         "duree": 88,
+        "version": "STF",
         "format": "DCP"
       }
     ],
@@ -1444,7 +1467,9 @@
         "titre": "Jeux de mains",
         "realisateurs": "Mitchell Leisen",
         "annee": 1935,
-        "duree": 80
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f71114"
@@ -3047,7 +3072,7 @@
     "items": [
       {
         "idFilm": 43151,
-        "titre": "Allemagne, année zéro",
+        "titre": "Allemagne année zéro",
         "realisateurs": "Roberto Rossellini",
         "annee": 1948,
         "duree": 78,
@@ -3609,7 +3634,7 @@
     "items": [
       {
         "idFilm": 43088,
-        "titre": "Onze fioretti de Saint François d'Assise",
+        "titre": "Onze Fioretti de Saint François d'Assise",
         "art": "Les",
         "realisateurs": "Roberto Rossellini",
         "annee": 1950,
@@ -3793,9 +3818,9 @@
         "art": "La",
         "realisateurs": "Roberto Rossellini",
         "annee": 1966,
-        "duree": 102,
-        "version": "VOSTF",
-        "format": "Numérique"
+        "duree": 92,
+        "version": "VF",
+        "format": "35 mm"
       },
       {
         "idConf": 29471,
@@ -4059,6 +4084,32 @@
       }
     ],
     "hashEvenement": "f65305"
+  },
+  {
+    "idSeance": 106327,
+    "idEvenement": 29345,
+    "dateHeure": "2024-01-15T20:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Festival Entrevues Belfort"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 154555,
+        "titre": "Auge del humano 3",
+        "art": "El",
+        "realisateurs": "Eduardo Williams",
+        "annee": 2023,
+        "duree": 121,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154555"
   },
   {
     "idSeance": 106326,
@@ -4839,7 +4890,7 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1956,
         "duree": 53,
-        "format": "Numérique"
+        "version": "VO"
       }
     ],
     "hashEvenement": "f138063"
@@ -4915,28 +4966,6 @@
     "hashEvenement": "f53397"
   },
   {
-    "idSeance": 115350,
-    "idEvenement": 28748,
-    "dateHeure": "2024-01-26T15:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Roberto Rossellini",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65321,
-        "titre": "Blaise Pascal",
-        "realisateurs": "Roberto Rossellini",
-        "annee": 1971,
-        "duree": 131
-      }
-    ],
-    "hashEvenement": "f65321"
-  },
-  {
     "idSeance": 106616,
     "idEvenement": 28938,
     "dateHeure": "2024-01-26T17:30:00",
@@ -4984,9 +5013,9 @@
     "hashEvenement": "f42671"
   },
   {
-    "idSeance": 115329,
-    "idEvenement": 28787,
-    "dateHeure": "2024-01-26T18:30:00",
+    "idSeance": 115350,
+    "idEvenement": 28748,
+    "dateHeure": "2024-01-26T19:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -4996,16 +5025,14 @@
     ],
     "items": [
       {
-        "idFilm": 42001,
-        "titre": "Socrate",
+        "idFilm": 65321,
+        "titre": "Blaise Pascal",
         "realisateurs": "Roberto Rossellini",
-        "annee": 1970,
-        "duree": 120,
-        "version": "VF",
-        "format": "Numérique"
+        "annee": 1971,
+        "duree": 131
       }
     ],
-    "hashEvenement": "f42001"
+    "hashEvenement": "f65321"
   },
   {
     "idSeance": 106617,
@@ -5345,7 +5372,7 @@
     "items": [
       {
         "idFilm": 43151,
-        "titre": "Allemagne, année zéro",
+        "titre": "Allemagne année zéro",
         "realisateurs": "Roberto Rossellini",
         "annee": 1948,
         "duree": 78,
@@ -5541,29 +5568,6 @@
     "hashEvenement": "c29513"
   },
   {
-    "idSeance": 115503,
-    "idEvenement": 28986,
-    "dateHeure": "2024-02-02T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Richard Fleischer",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 45043,
-        "titre": "Che!",
-        "realisateurs": "Richard Fleischer",
-        "annee": 1968,
-        "duree": 96,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f45043"
-  },
-  {
     "idSeance": 115528,
     "idEvenement": 29442,
     "dateHeure": "2024-02-02T18:30:00",
@@ -5594,6 +5598,29 @@
       }
     ],
     "hashEvenement": "f154561f122518"
+  },
+  {
+    "idSeance": 115503,
+    "idEvenement": 28986,
+    "dateHeure": "2024-02-02T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Richard Fleischer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45043,
+        "titre": "Che!",
+        "realisateurs": "Richard Fleischer",
+        "annee": 1968,
+        "duree": 96,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f45043"
   },
   {
     "idSeance": 115337,
@@ -5701,7 +5728,7 @@
       },
       {
         "idConf": 29474,
-        "titre": "Dialogue",
+        "titre": "Dialogue avec Charlotte Gainsbourg",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -5793,7 +5820,7 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1971,
         "duree": 36,
-        "version": "VOSTA",
+        "version": "VO",
         "format": "DCP"
       },
       {
@@ -6349,6 +6376,10 @@
       [
         "Le cinéma d'horreur, 25 indispensables",
         "Les films"
+      ],
+      [
+        "Le cinéma d'horreur, 25 indispensables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6360,9 +6391,15 @@
         "duree": 109,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 29521,
+        "titre": "« Naissance de l'horreur moderne » : dialogue avec Jean-François Rauger",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f41068"
+    "hashEvenement": "f41068c29521"
   },
   {
     "idSeance": 115343,
@@ -6414,29 +6451,6 @@
     "hashEvenement": "f65323"
   },
   {
-    "idSeance": 115333,
-    "idEvenement": 29273,
-    "dateHeure": "2024-02-10T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le cinéma d'horreur, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 37485,
-        "titre": "Maison du diable",
-        "art": "La",
-        "realisateurs": "Robert Wise",
-        "annee": 1963,
-        "duree": 112
-      }
-    ],
-    "hashEvenement": "f37485"
-  },
-  {
     "idSeance": 107015,
     "idEvenement": 28815,
     "dateHeure": "2024-02-10T17:30:00",
@@ -6457,6 +6471,29 @@
       }
     ],
     "hashEvenement": "f46488"
+  },
+  {
+    "idSeance": 115333,
+    "idEvenement": 29273,
+    "dateHeure": "2024-02-10T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le cinéma d'horreur, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 37485,
+        "titre": "Maison du diable",
+        "art": "La",
+        "realisateurs": "Robert Wise",
+        "annee": 1963,
+        "duree": 112
+      }
+    ],
+    "hashEvenement": "f37485"
   },
   {
     "idSeance": 107016,
@@ -6484,7 +6521,7 @@
   {
     "idSeance": 107012,
     "idEvenement": 29247,
-    "dateHeure": "2024-02-10T20:00:00",
+    "dateHeure": "2024-02-10T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6550,29 +6587,6 @@
       }
     ],
     "hashEvenement": "f34913"
-  },
-  {
-    "idSeance": 107030,
-    "idEvenement": 29357,
-    "dateHeure": "2024-02-11T15:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Roberto Rossellini",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65311,
-        "titre": "J'ai fait un beau voyage",
-        "realisateurs": "Roberto Rossellini",
-        "annee": 1957,
-        "duree": 239,
-        "format": "Numérique"
-      }
-    ],
-    "hashEvenement": "f65311"
   },
   {
     "idSeance": 107027,
@@ -6982,9 +6996,43 @@
     "hashEvenement": "f42084"
   },
   {
+    "idSeance": 107196,
+    "idEvenement": 29200,
+    "dateHeure": "2024-02-17T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Boris Barnet",
+        "Les films"
+      ],
+      [
+        "Boris Barnet",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40600,
+        "titre": "Okraïna",
+        "realisateurs": "Boris Barnet",
+        "annee": 1933,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idConf": 29485,
+        "titre": "Dialogue avec Bernard Eisenschitz",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f40600c29485"
+  },
+  {
     "idSeance": 115377,
     "idEvenement": 29289,
-    "dateHeure": "2024-02-17T14:30:00",
+    "dateHeure": "2024-02-17T15:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7004,30 +7052,6 @@
       }
     ],
     "hashEvenement": "f42508"
-  },
-  {
-    "idSeance": 107196,
-    "idEvenement": 29200,
-    "dateHeure": "2024-02-17T15:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 40600,
-        "titre": "Okraïna",
-        "realisateurs": "Boris Barnet",
-        "annee": 1933,
-        "duree": 96,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f40600"
   },
   {
     "idSeance": 107193,
@@ -7056,7 +7080,7 @@
   {
     "idSeance": 107190,
     "idEvenement": 29284,
-    "dateHeure": "2024-02-17T17:00:00",
+    "dateHeure": "2024-02-17T17:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7099,27 +7123,6 @@
       }
     ],
     "hashEvenement": "f70826"
-  },
-  {
-    "idSeance": 115461,
-    "idEvenement": 29485,
-    "dateHeure": "2024-02-17T17:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29485,
-        "titre": "Dialogue avec Bernard Eisenschitz",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29485"
   },
   {
     "idSeance": 107194,
@@ -7333,7 +7336,7 @@
     "hashEvenement": "f69160"
   },
   {
-    "idSeance": 107207,
+    "idSeance": 115533,
     "idEvenement": 29347,
     "dateHeure": "2024-02-18T19:00:00",
     "salle": "HL",
@@ -8712,7 +8715,10 @@
         "titre": "Histoire sans fin",
         "art": "L'",
         "realisateurs": "Wolfgang Petersen",
-        "annee": 1983
+        "annee": 1983,
+        "duree": 94,
+        "version": "VFSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f40781"
@@ -9114,7 +9120,7 @@
     "items": [
       {
         "idFilm": 84476,
-        "titre": "Retour du fils prodigue – Humiliés",
+        "titre": "Retour du fils prodigue",
         "art": "Le",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 2002,

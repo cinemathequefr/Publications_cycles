@@ -42,7 +42,7 @@
         {
           "idSeance": 107190,
           "ordre": 1,
-          "dateHeure": "2024-02-17T17:00:00",
+          "dateHeure": "2024-02-17T17:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -179,7 +179,7 @@
           ]
         },
         {
-          "idSeance": 107207,
+          "idSeance": 115533,
           "ordre": 1,
           "dateHeure": "2024-02-18T19:00:00",
           "idSalle": [
@@ -465,7 +465,7 @@
         {
           "idSeance": 115377,
           "ordre": 1,
-          "dateHeure": "2024-02-17T14:30:00",
+          "dateHeure": "2024-02-17T15:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -535,7 +535,7 @@
         {
           "idSeance": 115333,
           "ordre": 1,
-          "dateHeure": "2024-02-10T17:00:00",
+          "dateHeure": "2024-02-10T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -621,7 +621,7 @@
         {
           "idSeance": 107012,
           "ordre": 1,
-          "dateHeure": "2024-02-10T20:00:00",
+          "dateHeure": "2024-02-10T20:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -720,6 +720,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3171,
           "idEvenement": 29269,
           "typeEvenement": 13,
@@ -841,6 +842,47 @@
               "texte": "Alors que le monde entier est envahi par les morts-vivants, quatre survivants fuient le chaos en hélicoptère et trouvent refuge dans un immense centre commercial."
             }
           ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 115332,
+          "ordre": 2,
+          "dateHeure": "2024-02-10T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 75,
+          "typeAssoc": 118,
+          "idCategorie": 3208,
+          "idEvenement": 29521,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "« Naissance de l'horreur moderne » : dialogue avec Jean-François Rauger",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Jean-François Rauger",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Bernard Benoliel"
         }
       ],
       "textes": []

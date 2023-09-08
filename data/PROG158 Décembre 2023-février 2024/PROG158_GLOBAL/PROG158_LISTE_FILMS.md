@@ -45,8 +45,9 @@
   * Target  
   * Visions of Eight: The Highest
 
-## Aujourd'hui le cinéma (1)
+## Aujourd'hui le cinéma (2)
 
+  * Auge del humano 3 (El)  
   * Conann
 
 ## Barbet Schroeder (20)
@@ -353,10 +354,10 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (39)
+## Roberto Rossellini (37)
 
   * Âge de Cosme de Médicis (L')  
-  * Allemagne, année zéro  
+  * Allemagne année zéro  
   * Âme noire  
   * Amore (L')  
   * Amours d'une moitié de siècle  
@@ -372,13 +373,12 @@
   * Force et la raison : Entretien avec Salvador Allende (La)  
   * Homme à la croix (L')  
   * India  
-  * J'ai fait un beau voyage  
   * Jeanne au bûcher  
   * Machine à tuer les méchants (La)  
   * Messie (Le)  
   * Navire blanc (Le)  
   * Nous, les femmes : Ingrid Bergman  
-  * Onze fioretti de Saint François d'Assise (Les)  
+  * Onze Fioretti de Saint François d'Assise (Les)  
   * Où est la liberté ?  
   * Paisà  
   * Peur (La)  
@@ -388,7 +388,6 @@
   * RoGoPaG  
   * Rome, ville ouverte  
   * Santa Brigida  
-  * Socrate  
   * Stromboli  
   * Un pilote revient  
   * Vanina Vanini  
@@ -421,7 +420,7 @@
   * Non réconciliés ou Seule la violence aide où la violence règne  
   * Othon  
   * Ouvriers, paysans  
-  * Retour du fils prodigue – Humiliés (Le)  
+  * Retour du fils prodigue (Le)  
   * Sicilia !  
   * Une visite au Louvre
 

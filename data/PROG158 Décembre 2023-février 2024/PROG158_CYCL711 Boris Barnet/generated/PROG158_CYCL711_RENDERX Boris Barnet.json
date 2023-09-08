@@ -315,32 +315,49 @@
           ]
         },
         {
-          "idFilm": 40600,
-          "content": [
+          "groupe": [
             {
               "idFilm": 40600,
-              "ordre": 1,
-              "titre": "Okraïna",
-              "realisateurs": "Boris Barnet",
-              "pays": "URSS",
-              "annee": 1933,
-              "duree": 96,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après la nouvelle _Okraïna_ de Konstantin Finn.",
-              "generique": [
-                "Alexandre Tchistiakov",
-                "Nikolaï Bogolioubov",
-                "Nikolaï Krioutchkov",
-                "Elena Kouzmina"
+              "content": [
+                {
+                  "idFilm": 40600,
+                  "ordre": 1,
+                  "titre": "Okraïna",
+                  "realisateurs": "Boris Barnet",
+                  "pays": "URSS",
+                  "annee": 1933,
+                  "duree": 96,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après la nouvelle _Okraïna_ de Konstantin Finn.",
+                  "generique": [
+                    "Alexandre Tchistiakov",
+                    "Nikolaï Bogolioubov",
+                    "Nikolaï Krioutchkov",
+                    "Elena Kouzmina"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 107196,
-              "dateHeure": "2024-02-17T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 29485,
+              "content": [
+                {
+                  "idConf": 29485,
+                  "ordre": 2,
+                  "titre": "Film + Dialogue avec Bernard Eisenschitz",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 107196,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-02-17T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -571,30 +588,6 @@
               "idSeance": 115385,
               "dateHeure": "2024-02-17T17:30:00",
               "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 29485,
-          "content": [
-            {
-              "idConf": 29485,
-              "titre": "Film + Dialogue avec Bernard Eisenschitz",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115461,
-              "dateHeure": "2024-02-17T17:45:00",
-              "idSalle": "GF"
             }
           ]
         }
