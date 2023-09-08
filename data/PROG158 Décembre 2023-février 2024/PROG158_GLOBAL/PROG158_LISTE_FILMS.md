@@ -45,6 +45,10 @@
   * Target  
   * Visions of Eight: The Highest
 
+## Aujourd'hui le cinéma (1)
+
+  * Conann
+
 ## Barbet Schroeder (20)
 
   * Amnesia  
@@ -109,12 +113,14 @@
   * Général Della Rovere (Le)  
   * Miracle en Alabama
 
-## Cinéma bis (8)
+## Cinéma bis (10)
 
+  * Baiser de la tarentule (Le)  
   * Banco  
   * Cabo Blanco  
   * Créatures de Kolos (Les)  
   * Frankenstein 2000  
+  * Horrible invasion (L')  
   * On m'appelait Bruce Lee  
   * Spectre  
   * Survivant (Le)  
@@ -204,6 +210,20 @@
   * Route des Indes (La)  
   * Vacances à Venise
 
+## Fenêtre sur les collections (11)
+
+  * Berceaux (Les)  
+  * Dans le sous-marin  
+  * Foulard de Smyrne (Le)  
+  * Jean d'Agrève  
+  * Manika, une vie plus tard  
+  * Mor'vran, la mer des corbeaux  
+  * Océan ou les enfants de la mer (L')  
+  * Océans  
+  * Tempestaire (Le)  
+  * Verte moisson (La)  
+  * Voyage fantastique de marius (Le)
+
 ## La comédie hollywoodienne classique, 25 indispensables (25)
 
   * Arsenic et vieilles dentelles  
@@ -260,10 +280,11 @@
   * Sorcellerie à travers les âges (La)  
   * Zombie
 
-## Ma petite Cinémathèque (20)
+## Ma petite Cinémathèque (21)
 
   * Aventure de madame Muir (L')  
   * Belle et le Clochard (La)  
+  * Brendan et le secret de Kells  
   * Château ambulant (Le)  
   * Chicken Run : La Menace Nuggets  
   * Cinq mille doigts du docteur T. (Les)  
