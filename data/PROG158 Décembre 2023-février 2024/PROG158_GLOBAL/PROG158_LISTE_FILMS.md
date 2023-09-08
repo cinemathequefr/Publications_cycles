@@ -231,13 +231,15 @@
   * Baronne de minuit (La)  
   * Cette sacrée vérité  
   * Dame du vendredi (La)  
+  * Easy Living  
   * Extravagant Mr Ruggles (L')  
   * Grande dame d'un jour  
   * Haute pègre  
-  * Huitième femme de Barbe Bleue (La)  
+  * Huitième femme de Barbe-Bleue (La)  
   * Impossible monsieur Bébé (L')  
   * Indiscrétions  
   * Jeux de mains  
+  * Lady Eve (The)  
   * Lune de miel mouvementée  
   * Madame et ses flirts  
   * Mon homme Godfrey  
@@ -248,9 +250,7 @@
   * Shop Around the Corner (The)  
   * Sylvia Scarlett  
   * To Be or Not To Be  
-  * Un cœur pris au piège  
   * Vacances  
-  * Vie facile (La)  
   * Vous ne l'emporterez pas avec vous
 
 ## Le cinéma d'horreur, 25 indispensables (25)
