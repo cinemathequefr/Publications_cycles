@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-02-29T20:00:00",
-    "2024-03-07T20:00:00"
+    "2024-03-10T18:30:00"
   ],
   "sousCycles": [
     {
@@ -19,7 +19,7 @@
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
               "pays": "RFA-France",
               "annee": 1983,
-              "duree": 0,
+              "duree": 127,
               "version": "VOSTF",
               "format": "35 mm",
               "adaptation": "D'après le roman _L'Amérique, ou Le Disparu_ de Franz Kafka.",
@@ -37,6 +37,34 @@
               "dateHeure": "2024-02-29T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 40401,
+          "content": [
+            {
+              "idFilm": 40401,
+              "ordre": 1,
+              "titre": "Antigone",
+              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+              "pays": "Allemagne-France",
+              "annee": 1992,
+              "duree": 98,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Astrid Ofner",
+                "Ursula Ofner",
+                "Hans Diehl"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107688,
+              "dateHeure": "2024-03-08T18:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -63,8 +91,40 @@
           ],
           "seances": [
             {
-              "idSeance": 107651,
-              "dateHeure": "2024-03-07T20:00:00",
+              "idSeance": 107743,
+              "dateHeure": "2024-03-10T18:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 39507,
+          "content": [
+            {
+              "idFilm": 39507,
+              "ordre": 1,
+              "titre": "Cézanne",
+              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+              "pays": "France",
+              "annee": 1990,
+              "duree": 50,
+              "version": "VO",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Une visite au Louvre",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107650,
+              "dateHeure": "2024-03-07T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -80,20 +140,148 @@
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
               "pays": "Allemagne-France",
               "annee": 1996,
-              "duree": 0,
+              "duree": 61,
               "version": "VOSTF",
               "format": "35 mm",
               "adaptation": "D'après l'opéra _Von Heute auf Morgen_ d'Arnold Schönberg.",
               "generique": [
                 "Richard Salter",
                 "Christine Whittlesey"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Noir péché",
+                    null
+                  ]
+                ]
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 107613,
+              "idSeance": 107689,
+              "dateHeure": "2024-03-08T20:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 39552,
+          "content": [
+            {
+              "idFilm": 39552,
+              "ordre": 1,
+              "titre": "Fiancé, la comédienne et le maquereau",
+              "art": "Le",
+              "titreVo": "Bräutigam, die Komödiantin und der Zuhälter",
+              "artVo": "Der",
+              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+              "pays": "RFA",
+              "annee": 1968,
+              "duree": 24,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Irm Hermann",
+                "Kristin Peterson",
+                "Hanna Schygulla",
+                "Rainer Werner Fassbinder"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Non réconciliés ou Seule la violence aide où la violence règne",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115510,
               "dateHeure": "2024-03-06T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 42466,
+          "content": [
+            {
+              "idFilm": 42466,
+              "ordre": 1,
+              "titre": "Fortini/Cani",
+              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+              "pays": "Italie-France-RFA-Grande-Bretagne",
+              "annee": 1976,
+              "duree": 83,
+              "version": "VOSTF",
+              "format": "16 mm",
+              "adaptation": "D'après le livre _Les Chiens du Sinaï_ de Franco Fortini."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115509,
+              "dateHeure": "2024-03-06T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 56345,
+          "content": [
+            {
+              "idFilm": 56345,
+              "ordre": 1,
+              "titre": "Leçons d'histoire",
+              "titreVo": "Geschichtsuntericht",
+              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+              "pays": "RFA",
+              "annee": 1972,
+              "duree": 87,
+              "version": "VOSTF",
+              "format": "16 mm",
+              "adaptation": "D'après le roman _Les Affaires de M. Jules César_ de Bertolt Brecht.",
+              "generique": [
+                "Gottfried Bold",
+                "Johann Unterpertinger",
+                "Henri Ludwigg"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115507,
+              "dateHeure": "2024-03-03T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 38943,
+          "content": [
+            {
+              "idFilm": 38943,
+              "ordre": 1,
+              "titre": "Moïse et Aaron",
+              "titreVo": "Moses und Aron",
+              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+              "pays": "RFA-France-Italie",
+              "annee": 1974,
+              "duree": 105,
+              "version": "VOSTF",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115508,
+              "dateHeure": "2024-03-03T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -118,8 +306,41 @@
           ],
           "seances": [
             {
-              "idSeance": 107549,
-              "dateHeure": "2024-03-02T19:00:00",
+              "idSeance": 115511,
+              "dateHeure": "2024-03-07T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 52389,
+          "content": [
+            {
+              "idFilm": 52389,
+              "ordre": 2,
+              "titre": "Noir péché",
+              "titreVo": "Schwarze Sünde",
+              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+              "pays": "RFA-France",
+              "annee": 1990,
+              "duree": 42,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [
+                  [
+                    "Du jour au lendemain",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107689,
+              "dateHeure": "2024-03-08T20:15:00",
               "idSalle": "HL"
             }
           ]
@@ -129,7 +350,7 @@
           "content": [
             {
               "idFilm": 39536,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Non réconciliés ou Seule la violence aide où la violence règne",
               "titreVo": "Nicht versöhnt oder Es hilft nur Gewalt, wo Gewalt herrscht",
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
@@ -144,13 +365,51 @@
                 "Ulrich Hopmann",
                 "Ulrich von Thüna",
                 "Ernst Kutzinski"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Fiancé, la comédienne et le maquereau",
+                    "Le"
+                  ]
+                ],
+                []
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 115476,
-              "dateHeure": "2024-03-06T18:00:00",
+              "idSeance": 115510,
+              "dateHeure": "2024-03-06T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 42655,
+          "content": [
+            {
+              "idFilm": 42655,
+              "ordre": 1,
+              "titre": "Othon",
+              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+              "pays": "France-Italie",
+              "annee": 1970,
+              "duree": 88,
+              "version": "VO",
+              "format": "35 mm",
+              "adaptation": "D'après la pièce _Othon_ de Pierre Corneille.",
+              "generique": [
+                "Adriano Aprà",
+                "Anne Brumague",
+                "Ennio Lauricella"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115506,
+              "dateHeure": "2024-03-02T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -166,15 +425,40 @@
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
               "pays": "Italie-France",
               "annee": 2000,
-              "duree": 0,
+              "duree": 123,
               "version": "VOSTF",
               "format": "35 mm"
             }
           ],
           "seances": [
             {
-              "idSeance": 107565,
-              "dateHeure": "2024-03-03T19:00:00",
+              "idSeance": 107727,
+              "dateHeure": "2024-03-09T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 84476,
+          "content": [
+            {
+              "idFilm": 84476,
+              "ordre": 1,
+              "titre": "Retour du fils prodigue – Humiliés",
+              "art": "Le",
+              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+              "pays": "France-Italie-Allemagne",
+              "annee": 2002,
+              "duree": 64,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Les Femmes de Messine_ d'Elio Vittorini."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 107742,
+              "dateHeure": "2024-03-10T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -189,15 +473,15 @@
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
               "pays": "Suisse-France",
               "annee": 1998,
-              "duree": 0,
+              "duree": 66,
               "version": "VOSTF",
               "format": "35 mm"
             }
           ],
           "seances": [
             {
-              "idSeance": 107564,
-              "dateHeure": "2024-03-03T17:00:00",
+              "idSeance": 107726,
+              "dateHeure": "2024-03-09T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -207,7 +491,7 @@
           "content": [
             {
               "idFilm": 90542,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Une visite au Louvre",
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
               "pays": "France",
@@ -215,7 +499,16 @@
               "duree": 48,
               "version": "VO",
               "format": "35 mm",
-              "adaptation": "D'après le chapitre 2 _Le Louvre_ du livre _Cézanne - ce qu'il m'a dit_ de Joachim Gasquet."
+              "adaptation": "D'après le chapitre 2 _Le Louvre_ du livre _Cézanne - ce qu'il m'a dit_ de Joachim Gasquet.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Cézanne",
+                    null
+                  ]
+                ],
+                []
+              ]
             }
           ],
           "seances": [

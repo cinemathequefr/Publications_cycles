@@ -118,7 +118,7 @@
   * Spectre  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (36)
+## Claude Autant-Lara (37)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
@@ -155,7 +155,8 @@
   * Sylvie et le fantôme  
   * Traversée de Paris (La)  
   * Tu ne tueras point  
-  * Vittel
+  * Vittel  
+  * Vive Henri IV, vive l'amour
 
 ## Claude Miller (22)
 
@@ -279,7 +280,7 @@
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous
 
-## Richard Fleischer (45)
+## Richard Fleischer (46)
 
   * Amityville 3D : Le Démon  
   * Arena  
@@ -290,6 +291,7 @@
   * Barabbas  
   * Bodyguard  
   * Chanteur de jazz (Le)  
+  * Che!  
   * Child of Divorce  
   * Complices de la dernière chance (Les)  
   * Conan le destructeur  
@@ -327,7 +329,7 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (40)
+## Roberto Rossellini (39)
 
   * Âge de Cosme de Médicis (L')  
   * Allemagne, année zéro  
@@ -362,7 +364,6 @@
   * RoGoPaG  
   * Rome, ville ouverte  
   * Santa Brigida  
-  * Sept péchés capitaux : L'Envie (Les)  
   * Socrate  
   * Stromboli  
   * Un pilote revient  
@@ -380,14 +381,23 @@
   * Somewhere  
   * Virgin Suicides
 
-## Straub-Huillet (8)
+## Straub-Huillet (17)
 
   * Amerika, rapports de classe  
+  * Antigone  
   * Ces rencontres avec eux  
+  * Cézanne  
   * Du jour au lendemain  
+  * Fiancé, la comédienne et le maquereau (Le)  
+  * Fortini/Cani  
+  * Leçons d'histoire  
+  * Moïse et Aaron  
   * Mort d'Empédocle (La)  
+  * Noir péché  
   * Non réconciliés ou Seule la violence aide où la violence règne  
+  * Othon  
   * Ouvriers, paysans  
+  * Retour du fils prodigue – Humiliés (Le)  
   * Sicilia !  
   * Une visite au Louvre
 
