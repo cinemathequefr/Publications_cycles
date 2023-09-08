@@ -584,6 +584,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 105,
+          "typeAssoc": 118,
           "idCategorie": 3118,
           "idEvenement": 28773,
           "typeEvenement": 13,
@@ -742,6 +743,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3118,
           "idEvenement": 28767,
           "typeEvenement": 13,
@@ -1310,13 +1312,49 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 115439,
-          "dateHeure": "2024-01-13T16:15:00",
+          "idSeance": 115448,
+          "ordre": 2,
+          "dateHeure": "2024-01-11T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3194,
+          "idEvenement": 29470,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Alain Bergala",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Alain Bergala",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Bernard Benoliel"
+        },
+        {
+          "idSeance": 106294,
+          "ordre": 2,
+          "dateHeure": "2024-01-13T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
+          "typeAssoc": 118,
           "idCategorie": 3194,
           "idEvenement": 29471,
           "typeEvenement": 14,
@@ -1340,23 +1378,6 @@
             }
           ],
           "mentionAnimation": "Animé par Bernard Benoliel"
-        },
-        {
-          "idSeance": 115438,
-          "dateHeure": "2024-01-11T19:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 150,
-          "idCategorie": 3194,
-          "idEvenement": 29470,
-          "typeEvenement": 14,
-          "idTypeConference": 16,
-          "typeConference": "Dialogue",
-          "titre": "Onze Fioretti de Saint François d'Assise + Dial. Alain Bergala",
-          "duree": 60,
-          "textes": []
         }
       ],
       "textes": []

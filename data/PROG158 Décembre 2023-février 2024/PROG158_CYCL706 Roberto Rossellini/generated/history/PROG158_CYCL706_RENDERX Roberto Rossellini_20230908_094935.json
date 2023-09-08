@@ -546,49 +546,32 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 43088,
+          "content": [
             {
               "idFilm": 43088,
-              "content": [
-                {
-                  "idFilm": 43088,
-                  "ordre": 1,
-                  "titre": "Onze fioretti de Saint François d'Assise",
-                  "art": "Les",
-                  "titreVo": "Francesco, giullare di Dio",
-                  "realisateurs": "Roberto Rossellini",
-                  "pays": "Italie",
-                  "annee": 1950,
-                  "duree": 75,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "generique": [
-                    "Aldo Fabrizi",
-                    "Arabella Lemaître",
-                    "Nazario Gerardi"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Onze fioretti de Saint François d'Assise",
+              "art": "Les",
+              "titreVo": "Francesco, giullare di Dio",
+              "realisateurs": "Roberto Rossellini",
+              "pays": "Italie",
+              "annee": 1950,
+              "duree": 75,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Aldo Fabrizi",
+                "Arabella Lemaître",
+                "Nazario Gerardi"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29470,
-              "content": [
-                {
-                  "idConf": 29470,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Alain Bergala",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Bernard Benoliel"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115448,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-01-11T19:30:00",
-                  "idSalle": "GF"
-                }
-              ]
+              "idSeance": 115448,
+              "dateHeure": "2024-01-11T19:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -682,48 +665,31 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 41988,
+          "content": [
             {
               "idFilm": 41988,
-              "content": [
-                {
-                  "idFilm": 41988,
-                  "ordre": 1,
-                  "titre": "Prise de pouvoir par Louis XIV",
-                  "art": "La",
-                  "realisateurs": "Roberto Rossellini",
-                  "pays": "France",
-                  "annee": 1966,
-                  "duree": 102,
-                  "version": "VOSTF",
-                  "format": "Numérique",
-                  "generique": [
-                    "Jean-Marie Patte",
-                    "Raymond Jourdan",
-                    "Giulio Cesare Silvagni"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Prise de pouvoir par Louis XIV",
+              "art": "La",
+              "realisateurs": "Roberto Rossellini",
+              "pays": "France",
+              "annee": 1966,
+              "duree": 102,
+              "version": "VOSTF",
+              "format": "Numérique",
+              "generique": [
+                "Jean-Marie Patte",
+                "Raymond Jourdan",
+                "Giulio Cesare Silvagni"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29471,
-              "content": [
-                {
-                  "idConf": 29471,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Aurore Renaut",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Bernard Benoliel"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 106294,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-01-13T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "idSeance": 106294,
+              "dateHeure": "2024-01-13T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -1082,6 +1048,47 @@
               "idSeance": 115373,
               "dateHeure": "2024-02-03T19:30:00",
               "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 29470,
+          "content": [
+            {
+              "idConf": 29470,
+              "titre": "Onze Fioretti de Saint François d'Assise + Dial. Alain Bergala",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115438,
+              "dateHeure": "2024-01-11T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 29471,
+          "content": [
+            {
+              "idConf": 29471,
+              "titre": "Dialogue avec Aurore Renaut",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Bernard Benoliel"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115439,
+              "dateHeure": "2024-01-13T16:15:00",
+              "idSalle": "HL"
             }
           ]
         }

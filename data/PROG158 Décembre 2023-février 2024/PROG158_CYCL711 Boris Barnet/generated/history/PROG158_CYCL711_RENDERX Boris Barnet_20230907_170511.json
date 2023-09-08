@@ -223,50 +223,33 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 70816,
+          "content": [
             {
               "idFilm": 70816,
-              "content": [
-                {
-                  "idFilm": 70816,
-                  "ordre": 1,
-                  "titre": "Maison de la rue Troubnaïa",
-                  "art": "La",
-                  "titreVo": "Dom na Trubnoï",
-                  "realisateurs": "Boris Barnet",
-                  "pays": "URSS",
-                  "annee": 1927,
-                  "duree": 65,
-                  "version": "VO",
-                  "format": "DCP",
-                  "generique": [
-                    "Vera Maretskaïa",
-                    "Vladimir Fogel",
-                    "Vladimir Batalov",
-                    "Anna Soudakevitch"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Maison de la rue Troubnaïa",
+              "art": "La",
+              "titreVo": "Dom na Trubnoï",
+              "realisateurs": "Boris Barnet",
+              "pays": "URSS",
+              "annee": 1927,
+              "duree": 65,
+              "version": "VO",
+              "format": "DCP",
+              "generique": [
+                "Vera Maretskaïa",
+                "Vladimir Fogel",
+                "Vladimir Batalov",
+                "Anna Soudakevitch"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29486,
-              "content": [
-                {
-                  "idConf": 29486,
-                  "ordre": 2,
-                  "titre": "Film + Dialogue avec Bernard Eisenschitz",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Bernard Benoliel"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115389,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-02-24T14:30:00",
-                  "idSalle": "GF"
-                }
-              ]
+              "idSeance": 115389,
+              "dateHeure": "2024-02-24T14:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -593,7 +576,25 @@
           "seances": [
             {
               "idSeance": 115461,
-              "dateHeure": "2024-02-17T17:45:00",
+              "dateHeure": "2024-02-17T16:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 29486,
+          "content": [
+            {
+              "idConf": 29486,
+              "titre": "Film + Dialogue avec Bernard Eisenschitz",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Bernard Benoliel"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115462,
+              "dateHeure": "2024-02-24T16:00:00",
               "idSalle": "GF"
             }
           ]

@@ -67,47 +67,31 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 132054,
+          "content": [
             {
               "idFilm": 132054,
-              "content": [
-                {
-                  "idFilm": 132054,
-                  "ordre": 1,
-                  "titre": "Nocturama",
-                  "realisateurs": "Bertrand Bonello",
-                  "pays": "France-Allemagne-Belgique",
-                  "annee": 2016,
-                  "duree": 130,
-                  "version": "",
-                  "format": "DCP",
-                  "generique": [
-                    "Finnegan Oldfield",
-                    "Vincent Rottiers",
-                    "Manal Issa",
-                    "Hamza Meziani"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Nocturama",
+              "realisateurs": "Bertrand Bonello",
+              "pays": "France-Allemagne-Belgique",
+              "annee": 2016,
+              "duree": 130,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Finnegan Oldfield",
+                "Vincent Rottiers",
+                "Manal Issa",
+                "Hamza Meziani"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29487,
-              "content": [
-                {
-                  "idConf": 29487,
-                  "ordre": 2,
-                  "titre": "Film + Leçon de cinéma avec Bertrand Bonello",
-                  "typeConference": "Leçon de cinéma"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115516,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-03-02T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "idSeance": 115516,
+              "dateHeure": "2024-03-02T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -227,6 +211,29 @@
               "idSeance": 107570,
               "dateHeure": "2024-03-03T21:30:00",
               "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 29487,
+          "content": [
+            {
+              "idConf": 29487,
+              "titre": "Film + Leçon de cinéma avec Bertrand Bonello",
+              "typeConference": "Leçon de cinéma"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115465,
+              "dateHeure": "2024-03-02T16:30:00",
+              "idSalle": "HL"
             }
           ]
         }

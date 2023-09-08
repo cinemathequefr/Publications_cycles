@@ -245,7 +245,7 @@
   * Frankenstein  
   * Freaks  
   * Frissons  
-  * Histoires de fantômes japonais  
+  * Histoire de fantômes japonais  
   * Horrible docteur Orloff (L')  
   * Inferno  
   * Kaïro  
@@ -260,8 +260,9 @@
   * Sorcellerie à travers les âges (La)  
   * Zombie
 
-## Ma petite Cinémathèque (19)
+## Ma petite Cinémathèque (20)
 
+  * Aventure de madame Muir (L')  
   * Belle et le Clochard (La)  
   * Château ambulant (Le)  
   * Chicken Run : La Menace Nuggets  

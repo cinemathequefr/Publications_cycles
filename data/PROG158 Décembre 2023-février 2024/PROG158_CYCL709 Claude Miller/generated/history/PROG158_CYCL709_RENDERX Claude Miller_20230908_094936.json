@@ -454,59 +454,31 @@
           ]
         },
         {
-          "groupe": [
-            {
-              "idEvenement": 29472,
-              "content": [
-                {
-                  "idConf": 29472,
-                  "titre": "« Qui êtes-vous... Claude Miller ? » par Olivier Curchod",
-                  "sousTitre": "Conférence d'Olivier Curchod",
-                  "typeConference": "Conférence",
-                  "miniTexte": "Et si le cinéma de Claude Miller, loin de certaines étiquettes qui lui furent parfois accolées, était aussi un cinéma de l'expérimentation, des « premières fois » ? Première fois d'un premier long métrage, première fois d'un tournage intégral en studio, première fois d'un scénario rédigé seul, première fois d'un tournage en caméra numérique, première fois d'une cosignature... – et tant d'autres premières expériences qui sont aussi pour lui une façon de cerner ses identités, et pour nous de revisiter l'œuvre entière. – Olivier Curchod"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115440,
-                  "idSeanceAssoc": 115366,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-01-25T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
-            },
+          "idFilm": 53397,
+          "content": [
             {
               "idFilm": 53397,
-              "content": [
-                {
-                  "idFilm": 53397,
-                  "ordre": 1,
-                  "titre": "Sourire",
-                  "art": "Le",
-                  "realisateurs": "Claude Miller",
-                  "pays": "France",
-                  "annee": 1993,
-                  "duree": 90,
-                  "version": "",
-                  "format": "35 mm",
-                  "generique": [
-                    "Jean-Pierre Marielle",
-                    "Richard Bohringer",
-                    "Emmanuelle Seigner"
-                  ]
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115366,
-                  "idSeanceAssoc": 115366,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-01-25T21:15:00",
-                  "idSalle": "GF",
-                  "mentionAssoc": "Film choisi par le conférencier"
-                }
+              "ordre": 1,
+              "titre": "Sourire",
+              "art": "Le",
+              "realisateurs": "Claude Miller",
+              "pays": "France",
+              "annee": 1993,
+              "duree": 90,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Jean-Pierre Marielle",
+                "Richard Bohringer",
+                "Emmanuelle Seigner"
               ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115366,
+              "dateHeure": "2024-01-25T21:15:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -781,6 +753,31 @@
               "idSeance": 106854,
               "dateHeure": "2024-02-09T18:30:00",
               "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 29472,
+          "content": [
+            {
+              "idConf": 29472,
+              "titre": "« Qui êtes-vous... Claude Miller ? » par Olivier Curchod",
+              "sousTitre": "Conférence d'Olivier Curchod",
+              "typeConference": "Conférence",
+              "miniTexte": "Et si le cinéma de Claude Miller, loin de certaines étiquettes qui lui furent parfois accolées, était aussi un cinéma de l'expérimentation, des « premières fois » ? Première fois d'un premier long métrage, première fois d'un tournage intégral en studio, première fois d'un scénario rédigé seul, première fois d'un tournage en caméra numérique, première fois d'une cosignature... – et tant d'autres premières expériences qui sont aussi pour lui une façon de cerner ses identités, et pour nous de revisiter l'œuvre entière. – Olivier Curchod"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115440,
+              "dateHeure": "2024-01-25T19:00:00",
+              "idSalle": "GF"
             }
           ]
         }
