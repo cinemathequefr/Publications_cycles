@@ -473,6 +473,29 @@
     "hashEvenement": "f91820"
   },
   {
+    "idSeance": 115442,
+    "idEvenement": 29506,
+    "dateHeure": "2023-12-04T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sofia Coppola",
+        "Les films"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 154568,
+        "titre": "Priscilla",
+        "realisateurs": "Sofia Coppola",
+        "annee": 2023,
+        "duree": 113
+      }
+    ],
+    "hashEvenement": "f154568"
+  },
+  {
     "idSeance": 115286,
     "idEvenement": 29112,
     "dateHeure": "2023-12-04T20:45:00",
@@ -667,6 +690,10 @@
     "salle": "HL",
     "cycle": [
       [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ],
+      [
         "Barbet Schroeder",
         "Les films"
       ]
@@ -694,9 +721,78 @@
     "hashEvenement": "f50968f43655"
   },
   {
+    "idSeance": 115477,
+    "idEvenement": 29132,
+    "dateHeure": "2023-12-07T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 100260,
+        "titre": "Total Balalaika Show",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 1994,
+        "duree": 54,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f100260"
+  },
+  {
+    "idSeance": 115478,
+    "idEvenement": 29490,
+    "dateHeure": "2023-12-07T20:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 29490,
+        "titre": "Discussion avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c29490"
+  },
+  {
+    "idSeance": 115484,
+    "idEvenement": 29086,
+    "dateHeure": "2023-12-08T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Barbet Schroeder",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36483,
+        "titre": "Mystère von Bülow",
+        "art": "Le",
+        "realisateurs": "Barbet Schroeder",
+        "annee": 1989,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f36483"
+  },
+  {
     "idSeance": 115287,
     "idEvenement": 29134,
-    "dateHeure": "2023-12-08T18:00:00",
+    "dateHeure": "2023-12-08T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -719,31 +815,10 @@
     "hashEvenement": "f40069"
   },
   {
-    "idSeance": 115455,
-    "idEvenement": 29480,
-    "dateHeure": "2023-12-08T18:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sofia Coppola",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 99501,
-        "titre": "Marie-Antoinette",
-        "realisateurs": "Sofia Coppola",
-        "annee": 2005
-      }
-    ],
-    "hashEvenement": "f99501"
-  },
-  {
-    "idSeance": 115165,
+    "idSeance": 115486,
     "idEvenement": 29085,
-    "dateHeure": "2023-12-08T20:15:00",
-    "salle": "GF",
+    "dateHeure": "2023-12-08T20:30:00",
+    "salle": "HL",
     "cycle": [
       [
         "Barbet Schroeder",
@@ -763,9 +838,34 @@
     "hashEvenement": "f51226"
   },
   {
-    "idSeance": 115456,
-    "idEvenement": 29483,
-    "dateHeure": "2023-12-08T20:30:00",
+    "idSeance": 115487,
+    "idEvenement": 29115,
+    "dateHeure": "2023-12-08T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79090,
+        "titre": "Homme sans passé",
+        "art": "L'",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 2001,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f79090"
+  },
+  {
+    "idSeance": 115481,
+    "idEvenement": 29480,
+    "dateHeure": "2023-12-09T14:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -775,38 +875,13 @@
     ],
     "items": [
       {
-        "idFilm": 112506,
-        "titre": "Somewhere",
+        "idFilm": 99501,
+        "titre": "Marie-Antoinette",
         "realisateurs": "Sofia Coppola",
-        "annee": 2009
+        "annee": 2005
       }
     ],
-    "hashEvenement": "f112506"
-  },
-  {
-    "idSeance": 115464,
-    "idEvenement": 29086,
-    "dateHeure": "2023-12-09T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Barbet Schroeder",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36483,
-        "titre": "Mystère von Bülow",
-        "art": "Le",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1989,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f36483"
+    "hashEvenement": "f99501"
   },
   {
     "idSeance": 107800,
@@ -833,29 +908,25 @@
     "hashEvenement": "f54394"
   },
   {
-    "idSeance": 115289,
-    "idEvenement": 29115,
-    "dateHeure": "2023-12-09T16:45:00",
+    "idSeance": 115522,
+    "idEvenement": 29514,
+    "dateHeure": "2023-12-09T16:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Aki Kaurismäki",
-        "Les films"
+        "Sofia Coppola",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 79090,
-        "titre": "Homme sans passé",
-        "art": "L'",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 2001,
-        "duree": 97,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idConf": 29514,
+        "titre": "Sofia Coppola par Sofia Coppola, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f79090"
+    "hashEvenement": "c29514"
   },
   {
     "idSeance": 115467,
@@ -873,8 +944,8 @@
         "idFilm": 54250,
         "titre": "Collectionneuse",
         "art": "La",
-        "realisateurs": "Eric Rohmer",
-        "annee": 1966,
+        "realisateurs": "Éric Rohmer",
+        "annee": 1967,
         "duree": 90,
         "format": "DCP"
       }
@@ -882,28 +953,25 @@
     "hashEvenement": "f54250"
   },
   {
-    "idSeance": 115290,
-    "idEvenement": 29117,
-    "dateHeure": "2023-12-09T19:30:00",
+    "idSeance": 115482,
+    "idEvenement": 29483,
+    "dateHeure": "2023-12-09T18:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Aki Kaurismäki",
+        "Sofia Coppola",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 64208,
-        "titre": "Juha",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 1998,
-        "duree": 78,
-        "version": "INT. FR.",
-        "format": "DCP"
+        "idFilm": 112506,
+        "titre": "Somewhere",
+        "realisateurs": "Sofia Coppola",
+        "annee": 2009
       }
     ],
-    "hashEvenement": "f64208"
+    "hashEvenement": "f112506"
   },
   {
     "idSeance": 115466,
@@ -927,6 +995,30 @@
       }
     ],
     "hashEvenement": "f56826"
+  },
+  {
+    "idSeance": 115290,
+    "idEvenement": 29117,
+    "dateHeure": "2023-12-09T21:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 64208,
+        "titre": "Juha",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 1998,
+        "duree": 78,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f64208"
   },
   {
     "idSeance": 115164,
@@ -1164,7 +1256,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1211,7 +1303,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1256,7 +1348,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1278,7 +1370,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1294,36 +1386,13 @@
     "hashEvenement": "f30932"
   },
   {
-    "idSeance": 115468,
-    "idEvenement": 29078,
-    "dateHeure": "2023-12-15T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Barbet Schroeder",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 62245,
-        "titre": "Général Idi Amin Dada",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1974,
-        "duree": 92,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f62245"
-  },
-  {
     "idSeance": 105541,
     "idEvenement": 29165,
     "dateHeure": "2023-12-15T20:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1340,29 +1409,6 @@
       }
     ],
     "hashEvenement": "f34782"
-  },
-  {
-    "idSeance": 115469,
-    "idEvenement": 29082,
-    "dateHeure": "2023-12-15T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Barbet Schroeder",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51225,
-        "titre": "Koko, le gorille qui parle",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1977,
-        "duree": 85,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f51225"
   },
   {
     "idSeance": 107801,
@@ -1417,7 +1463,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1439,7 +1485,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1487,7 +1533,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1515,7 +1561,7 @@
         "Les films"
       ],
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1539,7 +1585,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1588,7 +1634,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1707,7 +1753,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1757,7 +1803,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1805,7 +1851,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1863,7 +1909,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1886,7 +1932,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1911,11 +1957,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Ma petite Cinémathèque",
-        "Les films"
-      ],
-      [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1962,7 +2004,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2057,7 +2099,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2081,7 +2123,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2178,7 +2220,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2227,7 +2269,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2251,7 +2293,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2300,7 +2342,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2324,7 +2366,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2417,7 +2459,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2465,7 +2507,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2513,7 +2555,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2586,7 +2628,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "La comédie hollywoodienne classique 25 indispensables",
+        "La comédie hollywoodienne classique, 25 indispensables",
         "Les films"
       ]
     ],
@@ -3868,8 +3910,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1954,
         "duree": 128,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31103"
@@ -3900,10 +3941,14 @@
   },
   {
     "idSeance": 106359,
-    "idEvenement": 28758,
+    "idEvenement": 29491,
     "dateHeure": "2024-01-17T19:00:00",
     "salle": "HL",
     "cycle": [
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ],
       [
         "Roberto Rossellini",
         "Les films"
@@ -3919,9 +3964,15 @@
         "duree": 137,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 29491,
+        "titre": "Discussion avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f43057"
+    "hashEvenement": "f43057c29491"
   },
   {
     "idSeance": 115323,
@@ -4021,8 +4072,8 @@
     "hashEvenement": "f31134"
   },
   {
-    "idSeance": 115381,
-    "idEvenement": 28786,
+    "idSeance": 115505,
+    "idEvenement": 28763,
     "dateHeure": "2024-01-18T20:45:00",
     "salle": "GF",
     "cycle": [
@@ -4033,16 +4084,16 @@
     ],
     "items": [
       {
-        "idFilm": 41997,
-        "titre": "Sept péchés capitaux : L'Envie",
-        "art": "Les",
+        "idFilm": 43679,
+        "titre": "India",
         "realisateurs": "Roberto Rossellini",
-        "annee": 1951,
-        "version": "VO",
+        "annee": 1957,
+        "duree": 95,
+        "version": "VF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f41997"
+    "hashEvenement": "f43679"
   },
   {
     "idSeance": 115314,
@@ -4562,7 +4613,7 @@
     "items": [
       {
         "idConf": 29472,
-        "titre": "Conférence d'Olivier Curchod",
+        "titre": "« Qui êtes-vous... Claude Miller ? » par Olivier Curchod",
         "sousTitre": "Conférence d'Olivier Curchod",
         "typeConference": "Conférence",
         "duree": 90
@@ -4573,7 +4624,7 @@
   {
     "idSeance": 106576,
     "idEvenement": 29030,
-    "dateHeure": "2024-01-25T19:30:00",
+    "dateHeure": "2024-01-25T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4841,8 +4892,8 @@
     "hashEvenement": "f51540"
   },
   {
-    "idSeance": 115357,
-    "idEvenement": 28999,
+    "idSeance": 115504,
+    "idEvenement": 29503,
     "dateHeure": "2024-01-27T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -4853,17 +4904,16 @@
     ],
     "items": [
       {
-        "idFilm": 45844,
-        "titre": "Étrangleur Rillington Place",
-        "art": "L'",
+        "idFilm": 31103,
+        "titre": "Vingt mille lieues sous les mers",
         "realisateurs": "Richard Fleischer",
-        "annee": 1970,
-        "duree": 111,
+        "annee": 1954,
+        "duree": 128,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f45844"
+    "hashEvenement": "f31103"
   },
   {
     "idSeance": 106658,
@@ -4915,7 +4965,7 @@
   {
     "idSeance": 106655,
     "idEvenement": 29033,
-    "dateHeure": "2024-01-27T20:30:00",
+    "dateHeure": "2024-01-27T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5178,6 +5228,29 @@
     "hashEvenement": "f85666"
   },
   {
+    "idSeance": 115503,
+    "idEvenement": 28986,
+    "dateHeure": "2024-02-02T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Richard Fleischer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45043,
+        "titre": "Che!",
+        "realisateurs": "Richard Fleischer",
+        "annee": 1968,
+        "duree": 96,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f45043"
+  },
+  {
     "idSeance": 106795,
     "idEvenement": 28943,
     "dateHeure": "2024-02-02T18:30:00",
@@ -5203,7 +5276,7 @@
   {
     "idSeance": 115337,
     "idEvenement": 29014,
-    "dateHeure": "2024-02-02T19:30:00",
+    "dateHeure": "2024-02-02T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5296,7 +5369,7 @@
       },
       {
         "idConf": 29474,
-        "titre": "Table ronde",
+        "titre": "Dialogue",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -5726,7 +5799,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -5774,7 +5847,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -5871,7 +5944,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -5942,7 +6015,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6015,7 +6088,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6083,7 +6156,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6176,7 +6249,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6224,7 +6297,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6409,13 +6482,52 @@
     "hashEvenement": "f46485"
   },
   {
+    "idSeance": 115488,
+    "idEvenement": 29467,
+    "dateHeure": "2024-02-15T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Claude Autant-Lara",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 70227,
+        "titre": "Boul se met au verre...",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1929,
+        "duree": 20,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 46478,
+        "titre": "Fait divers",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1923,
+        "duree": 19,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 68047,
+        "titre": "Vittel",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1926,
+        "duree": 42,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f70227f46478f68047"
+  },
+  {
     "idSeance": 107075,
     "idEvenement": 29267,
     "dateHeure": "2024-02-15T20:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6432,6 +6544,37 @@
       }
     ],
     "hashEvenement": "f39179"
+  },
+  {
+    "idSeance": 115489,
+    "idEvenement": 29468,
+    "dateHeure": "2024-02-16T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Claude Autant-Lara",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 68050,
+        "titre": "Gendarme est sans pitié",
+        "art": "Le",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1932,
+        "duree": 19,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 41642,
+        "titre": "My Partner Mr Davis = The Mysterious Mr Davis",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1936,
+        "duree": 58
+      }
+    ],
+    "hashEvenement": "f68050f41642"
   },
   {
     "idSeance": 107153,
@@ -6464,7 +6607,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6488,7 +6631,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6513,7 +6656,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6606,7 +6749,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6676,7 +6819,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6793,7 +6936,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -6864,7 +7007,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -7009,7 +7152,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -7058,7 +7201,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -7107,6 +7250,14 @@
     "salle": "HL",
     "cycle": [
       [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
+      ],
+      [
         "Arthur Penn",
         "Les films"
       ]
@@ -7120,9 +7271,15 @@
         "duree": 106,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 29494,
+        "titre": "Discussion avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f35810"
+    "hashEvenement": "f35810c29494"
   },
   {
     "idSeance": 115411,
@@ -7149,6 +7306,28 @@
     "hashEvenement": "f70839"
   },
   {
+    "idSeance": 115517,
+    "idEvenement": 28827,
+    "dateHeure": "2024-02-23T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Claude Autant-Lara",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46301,
+        "titre": "Vive Henri IV, vive l'amour",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1960,
+        "duree": 121
+      }
+    ],
+    "hashEvenement": "f46301"
+  },
+  {
     "idSeance": 115425,
     "idEvenement": 29186,
     "dateHeure": "2024-02-23T18:00:00",
@@ -7172,6 +7351,29 @@
       }
     ],
     "hashEvenement": "f35656"
+  },
+  {
+    "idSeance": 115501,
+    "idEvenement": 28830,
+    "dateHeure": "2024-02-23T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Claude Autant-Lara",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51857,
+        "titre": "Comte de Monte-Cristo",
+        "art": "Le",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1961,
+        "duree": 193
+      }
+    ],
+    "hashEvenement": "f51857"
   },
   {
     "idSeance": 115413,
@@ -7298,7 +7500,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -7553,29 +7755,6 @@
     "hashEvenement": "f51858"
   },
   {
-    "idSeance": 115409,
-    "idEvenement": 29049,
-    "dateHeure": "2024-02-25T20:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 70827,
-        "titre": "Liana",
-        "realisateurs": "Boris Barnet",
-        "annee": 1955,
-        "duree": 78,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f70827"
-  },
-  {
     "idSeance": 115394,
     "idEvenement": 29188,
     "dateHeure": "2024-02-26T18:30:00",
@@ -7591,7 +7770,10 @@
         "idFilm": 35017,
         "titre": "Inside",
         "realisateurs": "Arthur Penn",
-        "annee": 1995
+        "annee": 1995,
+        "duree": 94,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f35017"
@@ -7644,7 +7826,7 @@
     "hashEvenement": "f30512"
   },
   {
-    "idSeance": 115417,
+    "idSeance": 115512,
     "idEvenement": 29368,
     "dateHeure": "2024-02-28T18:00:00",
     "salle": "HL",
@@ -7660,7 +7842,9 @@
         "titre": "Apollonide : Souvenirs de la maison close",
         "art": "L'",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2011
+        "annee": 2011,
+        "duree": 122,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f113247"
@@ -7689,9 +7873,9 @@
     "hashEvenement": "f35632"
   },
   {
-    "idSeance": 115418,
-    "idEvenement": 29373,
-    "dateHeure": "2024-02-28T20:00:00",
+    "idSeance": 115513,
+    "idEvenement": 29371,
+    "dateHeure": "2024-02-28T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7701,18 +7885,20 @@
     ],
     "items": [
       {
-        "idFilm": 132054,
-        "titre": "Nocturama",
+        "idFilm": 104657,
+        "titre": "De la guerre",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2016
+        "annee": 2008,
+        "duree": 130,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f132054"
+    "hashEvenement": "f104657"
   },
   {
     "idSeance": 115416,
     "idEvenement": 29184,
-    "dateHeure": "2024-02-28T20:30:00",
+    "dateHeure": "2024-02-28T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7773,6 +7959,7 @@
         "titre": "Amerika, rapports de classe",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 1983,
+        "duree": 127,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -7786,7 +7973,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -7804,9 +7991,9 @@
     "hashEvenement": "f77547"
   },
   {
-    "idSeance": 115419,
+    "idSeance": 115514,
     "idEvenement": 29380,
-    "dateHeure": "2024-03-01T19:30:00",
+    "dateHeure": "2024-03-01T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7820,7 +8007,8 @@
         "titre": "Pornographe",
         "art": "Le",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2001
+        "annee": 2001,
+        "duree": 108
       }
     ],
     "hashEvenement": "f75412"
@@ -7832,7 +8020,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -7850,9 +8038,9 @@
     "hashEvenement": "f74025"
   },
   {
-    "idSeance": 107512,
+    "idSeance": 115515,
     "idEvenement": 29379,
-    "dateHeure": "2024-03-01T21:30:00",
+    "dateHeure": "2024-03-01T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7865,14 +8053,16 @@
         "idFilm": 123300,
         "titre": "Saint Laurent",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2014
+        "annee": 2014,
+        "duree": 135,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f123300"
   },
   {
-    "idSeance": 107551,
-    "idEvenement": 29371,
+    "idSeance": 115516,
+    "idEvenement": 29373,
     "dateHeure": "2024-03-02T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -7883,13 +8073,15 @@
     ],
     "items": [
       {
-        "idFilm": 104657,
-        "titre": "De la guerre",
+        "idFilm": 132054,
+        "titre": "Nocturama",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2008
+        "annee": 2016,
+        "duree": 130,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f104657"
+    "hashEvenement": "f132054"
   },
   {
     "idSeance": 107547,
@@ -7898,7 +8090,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -7939,7 +8131,7 @@
   {
     "idSeance": 107806,
     "idEvenement": 29382,
-    "dateHeure": "2024-03-02T17:00:00",
+    "dateHeure": "2024-03-02T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7952,15 +8144,17 @@
         "idFilm": 63876,
         "titre": "Quelque chose d'organique",
         "realisateurs": "Bertrand Bonello",
-        "annee": 1998
+        "annee": 1998,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f63876"
   },
   {
-    "idSeance": 107549,
-    "idEvenement": 29460,
-    "dateHeure": "2024-03-02T18:30:00",
+    "idSeance": 115506,
+    "idEvenement": 29495,
+    "dateHeure": "2024-03-02T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7970,22 +8164,21 @@
     ],
     "items": [
       {
-        "idFilm": 52779,
-        "titre": "Mort d'Empédocle",
-        "art": "La",
+        "idFilm": 42655,
+        "titre": "Othon",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1987,
-        "duree": 132,
-        "version": "VOSTF",
+        "annee": 1970,
+        "duree": 88,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f52779"
+    "hashEvenement": "f42655"
   },
   {
     "idSeance": 107552,
     "idEvenement": 28828,
-    "dateHeure": "2024-03-02T19:30:00",
+    "dateHeure": "2024-03-02T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8013,7 +8206,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -8056,8 +8249,8 @@
     "hashEvenement": "f32330"
   },
   {
-    "idSeance": 107564,
-    "idEvenement": 29456,
+    "idSeance": 115507,
+    "idEvenement": 29496,
     "dateHeure": "2024-03-03T17:00:00",
     "salle": "HL",
     "cycle": [
@@ -8068,19 +8261,20 @@
     ],
     "items": [
       {
-        "idFilm": 64373,
-        "titre": "Sicilia !",
+        "idFilm": 56345,
+        "titre": "Leçons d'histoire",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1998,
+        "annee": 1972,
+        "duree": 87,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f64373"
+    "hashEvenement": "f56345"
   },
   {
-    "idSeance": 107565,
-    "idEvenement": 29455,
+    "idSeance": 115508,
+    "idEvenement": 29497,
     "dateHeure": "2024-03-03T19:00:00",
     "salle": "HL",
     "cycle": [
@@ -8091,15 +8285,16 @@
     ],
     "items": [
       {
-        "idFilm": 74059,
-        "titre": "Ouvriers, paysans",
+        "idFilm": 38943,
+        "titre": "Moïse et Aaron",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 2000,
+        "annee": 1974,
+        "duree": 105,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f74059"
+    "hashEvenement": "f38943"
   },
   {
     "idSeance": 107569,
@@ -8117,7 +8312,9 @@
         "idFilm": 85673,
         "titre": "Tiresia",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2003
+        "annee": 2003,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f85673"
@@ -8212,8 +8409,8 @@
     "hashEvenement": "f40781"
   },
   {
-    "idSeance": 115476,
-    "idEvenement": 29454,
+    "idSeance": 115509,
+    "idEvenement": 29509,
     "dateHeure": "2024-03-06T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -8224,16 +8421,16 @@
     ],
     "items": [
       {
-        "idFilm": 39536,
-        "titre": "Non réconciliés ou Seule la violence aide où la violence règne",
+        "idFilm": 42466,
+        "titre": "Fortini/Cani",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1965,
-        "duree": 52,
+        "annee": 1976,
+        "duree": 83,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f39536"
+    "hashEvenement": "f42466"
   },
   {
     "idSeance": 107615,
@@ -8257,8 +8454,8 @@
     "hashEvenement": "f70833"
   },
   {
-    "idSeance": 107613,
-    "idEvenement": 29458,
+    "idSeance": 115510,
+    "idEvenement": 29459,
     "dateHeure": "2024-03-06T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -8269,15 +8466,26 @@
     ],
     "items": [
       {
-        "idFilm": 61801,
-        "titre": "Du jour au lendemain",
+        "idFilm": 39552,
+        "titre": "Fiancé, la comédienne et le maquereau",
+        "art": "Le",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1996,
+        "annee": 1968,
+        "duree": 24,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 39536,
+        "titre": "Non réconciliés ou Seule la violence aide où la violence règne",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1965,
+        "duree": 52,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f61801"
+    "hashEvenement": "f39552f39536"
   },
   {
     "idSeance": 115426,
@@ -8305,7 +8513,7 @@
   },
   {
     "idSeance": 107650,
-    "idEvenement": 29457,
+    "idEvenement": 29505,
     "dateHeure": "2024-03-07T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -8316,6 +8524,15 @@
     ],
     "items": [
       {
+        "idFilm": 39507,
+        "titre": "Cézanne",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1990,
+        "duree": 50,
+        "version": "VO",
+        "format": "35 mm"
+      },
+      {
         "idFilm": 90542,
         "titre": "Une visite au Louvre",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
@@ -8325,12 +8542,12 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f90542"
+    "hashEvenement": "f39507f90542"
   },
   {
-    "idSeance": 107651,
-    "idEvenement": 29452,
-    "dateHeure": "2024-03-07T20:00:00",
+    "idSeance": 115511,
+    "idEvenement": 29460,
+    "dateHeure": "2024-03-07T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -8340,16 +8557,41 @@
     ],
     "items": [
       {
-        "idFilm": 100031,
-        "titre": "Ces rencontres avec eux",
+        "idFilm": 52779,
+        "titre": "Mort d'Empédocle",
+        "art": "La",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 2006,
-        "duree": 68,
+        "annee": 1987,
+        "duree": 132,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f100031"
+    "hashEvenement": "f52779"
+  },
+  {
+    "idSeance": 107688,
+    "idEvenement": 29507,
+    "dateHeure": "2024-03-08T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Straub-Huillet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40401,
+        "titre": "Antigone",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1992,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f40401"
   },
   {
     "idSeance": 107690,
@@ -8358,7 +8600,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -8376,13 +8618,46 @@
     "hashEvenement": "f37586"
   },
   {
+    "idSeance": 107689,
+    "idEvenement": 29458,
+    "dateHeure": "2024-03-08T20:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Straub-Huillet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 61801,
+        "titre": "Du jour au lendemain",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1996,
+        "duree": 61,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 52389,
+        "titre": "Noir péché",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1990,
+        "duree": 42,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f61801f52389"
+  },
+  {
     "idSeance": 107691,
     "idEvenement": 29270,
-    "dateHeure": "2024-03-08T20:30:00",
+    "dateHeure": "2024-03-08T20:45:00",
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur 25 indispensables",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
@@ -8399,6 +8674,30 @@
       }
     ],
     "hashEvenement": "f45212"
+  },
+  {
+    "idSeance": 107726,
+    "idEvenement": 29456,
+    "dateHeure": "2024-03-09T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Straub-Huillet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 64373,
+        "titre": "Sicilia !",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1998,
+        "duree": 66,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f64373"
   },
   {
     "idSeance": 107730,
@@ -8422,6 +8721,30 @@
       }
     ],
     "hashEvenement": "f40764"
+  },
+  {
+    "idSeance": 107727,
+    "idEvenement": 29455,
+    "dateHeure": "2024-03-09T16:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Straub-Huillet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 74059,
+        "titre": "Ouvriers, paysans",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 2000,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f74059"
   },
   {
     "idSeance": 107731,
@@ -8467,6 +8790,31 @@
       }
     ],
     "hashEvenement": "f70848"
+  },
+  {
+    "idSeance": 107742,
+    "idEvenement": 29510,
+    "dateHeure": "2024-03-10T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Straub-Huillet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 84476,
+        "titre": "Retour du fils prodigue – Humiliés",
+        "art": "Le",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 2002,
+        "duree": 64,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f84476"
   },
   {
     "idSeance": 107747,
@@ -8515,6 +8863,30 @@
       }
     ],
     "hashEvenement": "f70849"
+  },
+  {
+    "idSeance": 107743,
+    "idEvenement": 29452,
+    "dateHeure": "2024-03-10T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Straub-Huillet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 100031,
+        "titre": "Ces rencontres avec eux",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 2006,
+        "duree": 68,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f100031"
   },
   {
     "idSeance": 107749,

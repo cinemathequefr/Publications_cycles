@@ -109,13 +109,15 @@
   * Général Della Rovere (Le)  
   * Miracle en Alabama
 
-## Cinéma bis (6)
+## Cinéma bis (8)
 
   * Banco  
   * Cabo Blanco  
+  * Créatures de Kolos (Les)  
   * Frankenstein 2000  
   * On m'appelait Bruce Lee  
   * Spectre  
+  * Survivant (Le)  
   * Yang Sze, la terreur de Bruce Lee
 
 ## Claude Autant-Lara (37)

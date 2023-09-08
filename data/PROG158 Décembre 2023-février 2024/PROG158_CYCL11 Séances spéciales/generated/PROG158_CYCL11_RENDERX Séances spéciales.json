@@ -5,32 +5,48 @@
       "titreSousCycle": "Hommage à Jean-Loup Dabadie",
       "items": [
         {
-          "idFilm": 50986,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50986,
-              "ordre": 1,
-              "titre": "Un éléphant ça trompe énormément",
-              "realisateurs": "Yves Robert",
-              "pays": "France",
-              "annee": 1976,
-              "duree": 110,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Jean Rochefort",
-                "Claude Brasseur",
-                "Guy Bedos",
-                "Victor Lanoux"
+              "content": [
+                {
+                  "idFilm": 50986,
+                  "ordre": 1,
+                  "titre": "Un éléphant ça trompe énormément",
+                  "realisateurs": "Yves Robert",
+                  "pays": "France",
+                  "annee": 1976,
+                  "duree": 110,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Jean Rochefort",
+                    "Claude Brasseur",
+                    "Guy Bedos",
+                    "Victor Lanoux"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 105578,
-              "typeAssoc": 118,
-              "dateHeure": "2023-12-16T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 29464,
+              "content": [
+                {
+                  "idConf": 29464,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Christophe Tardieu",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 105578,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-12-16T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
