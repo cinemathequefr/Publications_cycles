@@ -45,13 +45,18 @@
   * Target  
   * Visions of Eight: The Highest
 
-## Aujourd'hui le cinéma (6)
+## Aujourd'hui le cinéma (11)
 
+  * À mon seul désir  
   * Auge del humano 3 (El)  
   * Blackbird Blackbird Blackberry  
+  * Blue  
   * Conann  
+  * Coraçao vagabundo  
   * Dans la tête un orage  
+  * Ficelles (Les)  
   * Maison brûle, autant se réchauffer (La)  
+  * Pan  
   * Prise de l'Élysée (La)
 
 ## Barbet Schroeder (20)

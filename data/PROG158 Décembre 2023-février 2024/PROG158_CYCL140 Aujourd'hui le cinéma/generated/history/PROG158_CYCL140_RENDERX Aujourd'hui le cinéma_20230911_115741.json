@@ -2,6 +2,36 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Avant-première Elene Naveriani",
+      "items": [
+        {
+          "idFilm": 154569,
+          "content": [
+            {
+              "idFilm": 154569,
+              "ordre": 1,
+              "titre": "Blackbird Blackbird Blackberry",
+              "realisateurs": "Elene Naveriani",
+              "pays": "Géorgie-Suisse",
+              "annee": 2023,
+              "duree": 110,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105432,
+              "dateHeure": "2023-12-11T19:30:00",
+              "idSalle": "JE",
+              "mention": "Avant-première. Séance suivie d'une discussion avec Elene Naveriani"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Avant-première Bertrand Mandico",
       "items": [
         {
@@ -31,36 +61,6 @@
               "dateHeure": "2023-11-27T20:00:00",
               "idSalle": "GF",
               "mention": "Avant-première. Séance suivie d'une discussion avec Bertrand Mandico"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Avant-première Elene Naveriani",
-      "items": [
-        {
-          "idFilm": 154569,
-          "content": [
-            {
-              "idFilm": 154569,
-              "ordre": 1,
-              "titre": "Blackbird Blackbird Blackberry",
-              "realisateurs": "Elene Naveriani",
-              "pays": "Géorgie-Suisse",
-              "annee": 2023,
-              "duree": 110,
-              "version": "VOSTF",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 105432,
-              "dateHeure": "2023-12-11T19:30:00",
-              "idSalle": "JE",
-              "mention": "Avant-première. Séance suivie d'une discussion avec Elene Naveriani"
             }
           ]
         }
@@ -134,86 +134,6 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Frédéric Bayer Azem",
-      "items": [
-        {
-          "idEvenement": 29523,
-          "content": [
-            {
-              "idFilm": 154573,
-              "ordre": 1,
-              "titre": "Ficelles",
-              "art": "Les",
-              "realisateurs": "Frédéric Bayer Azem",
-              "pays": "France",
-              "annee": 2011,
-              "duree": 24,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Nathalie Nguyen",
-                "Karim Sbaï"
-              ]
-            },
-            {
-              "idFilm": 154574,
-              "ordre": 2,
-              "titre": "Blue",
-              "realisateurs": "Frédéric Bayer Azem",
-              "pays": "France",
-              "annee": 2021,
-              "duree": 27,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Assma El Hadrami",
-                "Alfred Renely"
-              ]
-            },
-            {
-              "idFilm": 154575,
-              "ordre": 3,
-              "titre": "Coraçao vagabundo",
-              "realisateurs": "Frédéric Bayer Azem",
-              "pays": "France",
-              "annee": 2018,
-              "duree": 20,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Minami Bages",
-                "Astrid Adverbe"
-              ]
-            },
-            {
-              "idFilm": 154577,
-              "ordre": 4,
-              "titre": "Pan",
-              "realisateurs": "Frédéric Bayer Azem",
-              "pays": "France",
-              "annee": 2013,
-              "duree": 9,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Fanny Sidney",
-                "Marie Lork"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 106506,
-              "dateHeure": "2024-01-22T19:00:00",
-              "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Frédéric Bayer Azem"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
       "titreSousCycle": "Mouloud Aït Liotna",
       "items": [
         {
@@ -265,40 +185,6 @@
             {
               "idSeance": 107222,
               "dateHeure": "2024-02-19T19:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Lucie Borleteau",
-      "items": [
-        {
-          "idFilm": 154556,
-          "content": [
-            {
-              "idFilm": 154556,
-              "ordre": 1,
-              "titre": "À mon seul désir",
-              "realisateurs": "Lucie Borleteau",
-              "pays": "France",
-              "annee": 2022,
-              "duree": 117,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Zita Hanrot",
-                "Louise Chevillotte",
-                "Laure Giappiconi"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 107580,
-              "dateHeure": "2024-03-04T19:00:00",
               "idSalle": "JE"
             }
           ]
