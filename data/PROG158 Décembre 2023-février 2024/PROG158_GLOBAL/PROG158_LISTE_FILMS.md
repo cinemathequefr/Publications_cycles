@@ -45,10 +45,14 @@
   * Target  
   * Visions of Eight: The Highest
 
-## Aujourd'hui le cinéma (2)
+## Aujourd'hui le cinéma (6)
 
   * Auge del humano 3 (El)  
-  * Conann
+  * Blackbird Blackbird Blackberry  
+  * Conann  
+  * Dans la tête un orage  
+  * Maison brûle, autant se réchauffer (La)  
+  * Prise de l'Élysée (La)
 
 ## Barbet Schroeder (20)
 
@@ -404,7 +408,7 @@
   * Somewhere  
   * Virgin Suicides
 
-## Straub-Huillet (17)
+## Straub-Huillet (18)
 
   * Amerika, rapports de classe  
   * Antigone  
@@ -422,6 +426,7 @@
   * Ouvriers, paysans  
   * Retour du fils prodigue (Le)  
   * Sicilia !  
+  * Trop tôt, trop tard  
   * Une visite au Louvre
 
 ## Séances spéciales (2)
