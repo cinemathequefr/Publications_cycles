@@ -234,6 +234,27 @@
   * Verte moisson (La)  
   * Voyage fantastique de marius (Le)
 
+## Jean-Marie Straub et Danièle Huillet (18)
+
+  * Amerika, rapports de classe  
+  * Antigone  
+  * Ces rencontres avec eux  
+  * Cézanne  
+  * Du jour au lendemain  
+  * Fiancé, la comédienne et le maquereau (Le)  
+  * Fortini/Cani  
+  * Leçons d'histoire  
+  * Moïse et Aaron  
+  * Mort d'Empédocle (La)  
+  * Noir péché  
+  * Non réconciliés ou Seule la violence aide où la violence règne  
+  * Othon  
+  * Ouvriers, paysans  
+  * Retour du fils prodigue (Le)  
+  * Sicilia !  
+  * Trop tôt, trop tard  
+  * Une visite au Louvre
+
 ## La comédie hollywoodienne classique, 25 indispensables (25)
 
   * Arsenic et vieilles dentelles  
@@ -412,27 +433,6 @@
   * Proies (Les)  
   * Somewhere  
   * Virgin Suicides
-
-## Straub-Huillet (18)
-
-  * Amerika, rapports de classe  
-  * Antigone  
-  * Ces rencontres avec eux  
-  * Cézanne  
-  * Du jour au lendemain  
-  * Fiancé, la comédienne et le maquereau (Le)  
-  * Fortini/Cani  
-  * Leçons d'histoire  
-  * Moïse et Aaron  
-  * Mort d'Empédocle (La)  
-  * Noir péché  
-  * Non réconciliés ou Seule la violence aide où la violence règne  
-  * Othon  
-  * Ouvriers, paysans  
-  * Retour du fils prodigue (Le)  
-  * Sicilia !  
-  * Trop tôt, trop tard  
-  * Une visite au Louvre
 
 ## Séances spéciales (2)
 
