@@ -176,10 +176,11 @@
   * Vittel  
   * Vive Henri IV, vive l'amour
 
-## Claude Miller (22)
+## Claude Miller (25)
 
   * Accompagnatrice (L')  
   * Betty Fisher et autres histoires  
+  * Blindés face au danger aérien  
   * Camille ou la comédie catastrophique  
   * Chambre des magiciennes (La)  
   * Classe de neige (La)  
@@ -189,9 +190,11 @@
   * Heures blanches (Les)  
   * Je suis heureux que ma mère soit vivante  
   * Juliet dans Paris  
+  * Les Transmissions de la division 59  
   * Marching band  
   * Meilleure façon de marcher (La)  
   * Mortelle randonnée  
+  * Patrouille en zone minée  
   * Petite Lili (La)  
   * Petite voleuse (La)  
   * Question ordinaire (La)  
@@ -234,16 +237,23 @@
   * Verte moisson (La)  
   * Voyage fantastique de marius (Le)
 
-## Jean-Marie Straub et Danièle Huillet (18)
+## Jean-Marie Straub et Danièle Huillet (26)
 
   * Amerika, rapports de classe  
   * Antigone  
   * Ces rencontres avec eux  
   * Cézanne  
+  * Chronique d'Anna Magdalena Bach  
+  * De la nuée à la résistance  
   * Du jour au lendemain  
+  * En rachachant  
   * Fiancé, la comédienne et le maquereau (Le)  
   * Fortini/Cani  
+  * Introduction à la « Musique d'accompagnement pour une scène de film » d'Arnold Schoenberg  
+  * Itinéraire de Jean Bricard  
   * Leçons d'histoire  
+  * Lothringen  
+  * Machorka Muff  
   * Moïse et Aaron  
   * Mort d'Empédocle (La)  
   * Noir péché  
@@ -252,6 +262,7 @@
   * Ouvriers, paysans  
   * Retour du fils prodigue (Le)  
   * Sicilia !  
+  * Toute révolution est un coup de dés  
   * Trop tôt, trop tard  
   * Une visite au Louvre
 
@@ -384,7 +395,7 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (37)
+## Roberto Rossellini (38)
 
   * Âge de Cosme de Médicis (L')  
   * Allemagne année zéro  
@@ -418,6 +429,7 @@
   * RoGoPaG  
   * Rome, ville ouverte  
   * Santa Brigida  
+  * Sept péchés capitaux : L'Envie (Les)  
   * Stromboli  
   * Un pilote revient  
   * Vanina Vanini  

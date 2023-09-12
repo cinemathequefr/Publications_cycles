@@ -73,9 +73,9 @@
                   "realisateurs": "Barbet Schroeder",
                   "pays": "États-Unis",
                   "annee": 1987,
-                  "duree": 99,
-                  "version": "VOSTF",
-                  "format": "35 mm",
+                  "duree": 0,
+                  "version": "",
+                  "format": "DCP",
                   "generique": [
                     "Faye Dunaway",
                     "Mickey Rourke"
@@ -131,7 +131,114 @@
           "seances": [
             {
               "idSeance": 105421,
-              "dateHeure": "2023-12-10T17:45:00",
+              "dateHeure": "2023-12-10T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 50968,
+          "content": [
+            {
+              "idFilm": 50968,
+              "ordre": 1,
+              "titre": "Boulangère de Monceau",
+              "art": "La",
+              "realisateurs": "Éric Rohmer",
+              "pays": "France",
+              "annee": 1962,
+              "duree": 26,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Barbet Schroeder",
+                "Michèle Girardon",
+                "Claudine Soubrier"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Carrière de Suzanne",
+                    "La"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105286,
+              "typeAssoc": 118,
+              "dateHeure": "2023-12-07T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 43655,
+          "content": [
+            {
+              "idFilm": 43655,
+              "ordre": 2,
+              "titre": "Carrière de Suzanne",
+              "art": "La",
+              "realisateurs": "Éric Rohmer",
+              "pays": "France",
+              "annee": 1963,
+              "duree": 52,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Philippe Beuzen",
+                "Catherine Sée",
+                "Christian Charrière"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Boulangère de Monceau",
+                    "La"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105286,
+              "typeAssoc": 118,
+              "dateHeure": "2023-12-07T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 54250,
+          "content": [
+            {
+              "idFilm": 54250,
+              "ordre": 1,
+              "titre": "Collectionneuse",
+              "art": "La",
+              "realisateurs": "Éric Rohmer",
+              "pays": "France",
+              "annee": 1967,
+              "duree": 90,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Patrick Bauchau",
+                "Haydée Politoff",
+                "Daniel Pommereulle"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115467,
+              "dateHeure": "2023-12-09T19:00:00",
               "idSalle": "GF"
             }
           ]
@@ -412,7 +519,7 @@
           "seances": [
             {
               "idSeance": 115463,
-              "dateHeure": "2023-12-10T20:30:00",
+              "dateHeure": "2023-12-10T20:45:00",
               "idSalle": "GF"
             }
           ]
@@ -528,7 +635,7 @@
           "seances": [
             {
               "idSeance": 115463,
-              "dateHeure": "2023-12-10T20:30:00",
+              "dateHeure": "2023-12-10T20:45:00",
               "idSalle": "GF"
             }
           ]
@@ -557,119 +664,6 @@
               "dateHeure": "2023-11-29T20:00:00",
               "idSalle": "HL",
               "mention": "Séance présentée par Barbet Schroeder"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 1,
-      "titreSousCycle": "Barbet Schroeder producteur",
-      "items": [
-        {
-          "idFilm": 50968,
-          "content": [
-            {
-              "idFilm": 50968,
-              "ordre": 1,
-              "titre": "Boulangère de Monceau",
-              "art": "La",
-              "realisateurs": "Éric Rohmer",
-              "pays": "France",
-              "annee": 1962,
-              "duree": 26,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Barbet Schroeder",
-                "Michèle Girardon",
-                "Claudine Soubrier"
-              ],
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Carrière de Suzanne",
-                    "La"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 105286,
-              "typeAssoc": 118,
-              "dateHeure": "2023-12-07T19:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 43655,
-          "content": [
-            {
-              "idFilm": 43655,
-              "ordre": 2,
-              "titre": "Carrière de Suzanne",
-              "art": "La",
-              "realisateurs": "Éric Rohmer",
-              "pays": "France",
-              "annee": 1963,
-              "duree": 52,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Philippe Beuzen",
-                "Catherine Sée",
-                "Christian Charrière"
-              ],
-              "precedeSuivi": [
-                [
-                  [
-                    "Boulangère de Monceau",
-                    "La"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 105286,
-              "typeAssoc": 118,
-              "dateHeure": "2023-12-07T19:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 54250,
-          "content": [
-            {
-              "idFilm": 54250,
-              "ordre": 1,
-              "titre": "Collectionneuse",
-              "art": "La",
-              "realisateurs": "Éric Rohmer",
-              "pays": "France",
-              "annee": 1967,
-              "duree": 90,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Patrick Bauchau",
-                "Haydée Politoff",
-                "Daniel Pommereulle"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115467,
-              "dateHeure": "2023-12-09T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }
