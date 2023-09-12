@@ -271,47 +271,30 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 64208,
+          "content": [
             {
               "idFilm": 64208,
-              "content": [
-                {
-                  "idFilm": 64208,
-                  "ordre": 1,
-                  "titre": "Juha",
-                  "realisateurs": "Aki Kaurismäki",
-                  "pays": "Finlande",
-                  "annee": 1998,
-                  "duree": 78,
-                  "version": "INT. FR.",
-                  "format": "DCP",
-                  "generique": [
-                    "Kati Outinen",
-                    "Sakari Kuosmanen",
-                    "André Wilms"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Juha",
+              "realisateurs": "Aki Kaurismäki",
+              "pays": "Finlande",
+              "annee": 1998,
+              "duree": 78,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Kati Outinen",
+                "Sakari Kuosmanen",
+                "André Wilms"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29571,
-              "content": [
-                {
-                  "idConf": 29571,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Philippe Azoury",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Emilie Cauquy"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115568,
-                  "typeAssoc": 118,
-                  "dateHeure": "2023-12-06T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
+              "idSeance": 115568,
+              "dateHeure": "2023-12-06T19:00:00",
+              "idSalle": "GF"
             }
           ]
         },
