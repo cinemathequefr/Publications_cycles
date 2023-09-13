@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Aki Kaurismäki (20)
+## Aki Kaurismäki (27)
 
   * Ariel  
   * Au loin s'en vont les nuages  
@@ -17,11 +17,18 @@
   * Leningrad Cowboys rencontrent Moïse (Les)  
   * Likaiset kädet  
   * Lumières du faubourg (Les)  
+  * Rocky VI  
   * Shadows in Paradise  
   * Syndrome du lac Saimaa (Le)  
+  * Tasqueiro (O)  
+  * Ten minutes older : The Trumpet : Dogs have no hell  
+  * Those Were the Days  
   * Tiens ton foulard, Tatiana  
   * Total Balalaika Show  
-  * Vie de bohème (La)
+  * Valimo  
+  * Välittäjä  
+  * Vie de bohème (La)  
+  * Visions of Europe : Bico
 
 ## Archi Vives (2)
 

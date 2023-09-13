@@ -987,7 +987,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Valérie Mairesse",
     "items": [
       {
         "idFilm": 54394,
@@ -1459,8 +1458,8 @@
         "realisateurs": "Mitchell Leisen",
         "annee": 1937,
         "duree": 88,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "version": "STF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f33297"
@@ -1614,10 +1613,6 @@
       [
         "Viva Varda !",
         "Les films"
-      ],
-      [
-        "Viva Varda !",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1628,15 +1623,9 @@
         "annee": 1976,
         "duree": 80,
         "format": "DCP"
-      },
-      {
-        "idConf": 29574,
-        "titre": "Dialogue avec Nurith Aviv",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f54824c29574"
+    "hashEvenement": "f54824"
   },
   {
     "idSeance": 105578,
@@ -1674,7 +1663,7 @@
   {
     "idSeance": 105579,
     "idEvenement": 29155,
-    "dateHeure": "2023-12-16T18:00:00",
+    "dateHeure": "2023-12-16T16:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1694,111 +1683,9 @@
     "hashEvenement": "f31521"
   },
   {
-    "idSeance": 115232,
-    "idEvenement": 29501,
-    "dateHeure": "2023-12-16T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Aki Kaurismäki",
-        "Programme de courts métrages"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154567,
-        "titre": "Tasqueiro",
-        "art": "O",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 2012,
-        "duree": 14,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 100255,
-        "titre": "Rocky VI",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 1986,
-        "duree": 9,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 86876,
-        "titre": "Ten minutes older : The Trumpet : Dogs have no hell",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 2001,
-        "duree": 11,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 154565,
-        "titre": "Those Were the Days",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 1991,
-        "duree": 4,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154566,
-        "titre": "Valimo",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 2006,
-        "duree": 3,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 105714,
-        "titre": "Visions of Europe : Bico",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 2004,
-        "duree": 5,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 100261,
-        "titre": "Välittäjä",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 1996,
-        "duree": 4,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f154567f100255f86876f154565f154566f105714f100261"
-  },
-  {
-    "idSeance": 105583,
-    "idEvenement": 29199,
-    "dateHeure": "2023-12-16T19:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Hommage à Jean-Loup Dabadie"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 50994,
-        "titre": "Nous irons tous au paradis",
-        "realisateurs": "Yves Robert",
-        "annee": 1977,
-        "duree": 110,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f50994"
-  },
-  {
     "idSeance": 115167,
     "idEvenement": 29152,
-    "dateHeure": "2023-12-16T20:15:00",
+    "dateHeure": "2023-12-16T18:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1819,6 +1706,29 @@
       }
     ],
     "hashEvenement": "f32627"
+  },
+  {
+    "idSeance": 105583,
+    "idEvenement": 29199,
+    "dateHeure": "2023-12-16T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Hommage à Jean-Loup Dabadie"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50994,
+        "titre": "Nous irons tous au paradis",
+        "realisateurs": "Yves Robert",
+        "annee": 1977,
+        "duree": 110,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f50994"
   },
   {
     "idSeance": 105599,
@@ -3622,29 +3532,6 @@
     "hashEvenement": "f84035"
   },
   {
-    "idSeance": 115571,
-    "idEvenement": 28746,
-    "dateHeure": "2024-01-10T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Roberto Rossellini",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65313,
-        "titre": "Âme noire",
-        "realisateurs": "Roberto Rossellini",
-        "annee": 1962,
-        "duree": 97,
-        "version": "VOSTF"
-      }
-    ],
-    "hashEvenement": "f65313"
-  },
-  {
     "idSeance": 115429,
     "idEvenement": 29017,
     "dateHeure": "2024-01-10T18:00:00",
@@ -3669,9 +3556,32 @@
     "hashEvenement": "f46365"
   },
   {
+    "idSeance": 115571,
+    "idEvenement": 28746,
+    "dateHeure": "2024-01-10T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Roberto Rossellini",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 65313,
+        "titre": "Âme noire",
+        "realisateurs": "Roberto Rossellini",
+        "annee": 1962,
+        "duree": 97,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f65313"
+  },
+  {
     "idSeance": 115449,
     "idEvenement": 28753,
-    "dateHeure": "2024-01-10T20:00:00",
+    "dateHeure": "2024-01-10T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3841,7 +3751,7 @@
         "art": "La",
         "realisateurs": "Roberto Rossellini",
         "annee": 1954,
-        "duree": 84,
+        "duree": 83,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -6003,6 +5913,7 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1939,
         "duree": 6,
+        "version": "VOSTF",
         "format": "35 mm"
       },
       {
@@ -6475,26 +6386,26 @@
     "hashEvenement": "f113572"
   },
   {
-    "idSeance": 115587,
-    "idEvenement": 29572,
-    "dateHeure": "2024-02-08T19:00:00",
+    "idSeance": 115335,
+    "idEvenement": 28812,
+    "dateHeure": "2024-02-08T18:30:00",
     "salle": "GF",
     "cycle": [
       [
         "Claude Autant-Lara",
-        "Rencontres et conférences"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idConf": 29572,
-        "titre": "Conférence Autant-Lara",
-        "sousTitre": "Conférence ",
-        "typeConference": "Conférence",
-        "duree": 90
+        "idFilm": 46502,
+        "titre": "Douce",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1943,
+        "duree": 104
       }
     ],
-    "hashEvenement": "c29572"
+    "hashEvenement": "f46502"
   },
   {
     "idSeance": 106936,
@@ -6543,28 +6454,6 @@
       }
     ],
     "hashEvenement": "f74301"
-  },
-  {
-    "idSeance": 115335,
-    "idEvenement": 28812,
-    "dateHeure": "2024-02-08T21:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Claude Autant-Lara",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 46502,
-        "titre": "Douce",
-        "realisateurs": "Claude Autant-Lara",
-        "annee": 1943,
-        "duree": 104
-      }
-    ],
-    "hashEvenement": "f46502"
   },
   {
     "idSeance": 106973,
@@ -6857,27 +6746,6 @@
       }
     ],
     "hashEvenement": "f34913"
-  },
-  {
-    "idSeance": 115584,
-    "idEvenement": 29573,
-    "dateHeure": "2024-02-11T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Claude Autant-Lara",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29573,
-        "titre": "Dialogue Autant-Lara",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29573"
   },
   {
     "idSeance": 115474,
@@ -8512,7 +8380,7 @@
     "hashEvenement": "f113247"
   },
   {
-    "idSeance": 115582,
+    "idSeance": 107436,
     "idEvenement": 29194,
     "dateHeure": "2024-02-28T18:30:00",
     "salle": "GF",
@@ -8942,8 +8810,8 @@
     "hashEvenement": "f42655"
   },
   {
-    "idSeance": 115585,
-    "idEvenement": 29529,
+    "idSeance": 115554,
+    "idEvenement": 29536,
     "dateHeure": "2024-03-03T19:00:00",
     "salle": "HL",
     "cycle": [
@@ -8954,25 +8822,25 @@
     ],
     "items": [
       {
-        "idFilm": 39151,
-        "titre": "Machorka Muff",
+        "idFilm": 86158,
+        "titre": "Introduction à la « Musique d'accompagnement pour une scène de film » d'Arnold Schoenberg",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1962,
-        "duree": 17,
+        "annee": 1972,
+        "duree": 15,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       },
       {
-        "idFilm": 39536,
-        "titre": "Non réconciliés ou Seule la violence aide où la violence règne",
+        "idFilm": 56345,
+        "titre": "Leçons d'histoire",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1965,
-        "duree": 52,
+        "annee": 1972,
+        "duree": 87,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f39151f39536"
+    "hashEvenement": "f86158f56345"
   },
   {
     "idSeance": 107569,
@@ -9182,8 +9050,8 @@
     "hashEvenement": "f70823"
   },
   {
-    "idSeance": 115586,
-    "idEvenement": 29536,
+    "idSeance": 115550,
+    "idEvenement": 29529,
     "dateHeure": "2024-03-06T20:15:00",
     "salle": "HL",
     "cycle": [
@@ -9194,25 +9062,25 @@
     ],
     "items": [
       {
-        "idFilm": 86158,
-        "titre": "Introduction à la « Musique d'accompagnement pour une scène de film » d'Arnold Schoenberg",
+        "idFilm": 39151,
+        "titre": "Machorka Muff",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1972,
-        "duree": 15,
+        "annee": 1962,
+        "duree": 17,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       },
       {
-        "idFilm": 56345,
-        "titre": "Leçons d'histoire",
+        "idFilm": 39536,
+        "titre": "Non réconciliés ou Seule la violence aide où la violence règne",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1972,
-        "duree": 87,
+        "annee": 1965,
+        "duree": 52,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f86158f56345"
+    "hashEvenement": "f39151f39536"
   },
   {
     "idSeance": 115556,
@@ -9495,7 +9363,7 @@
   {
     "idSeance": 107732,
     "idEvenement": 29055,
-    "dateHeure": "2024-03-09T19:45:00",
+    "dateHeure": "2024-03-09T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9654,10 +9522,34 @@
     "hashEvenement": "f70849"
   },
   {
-    "idSeance": 115588,
+    "idSeance": 107749,
+    "idEvenement": 29037,
+    "dateHeure": "2024-03-10T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Boris Barnet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 70850,
+        "titre": "Alenka",
+        "realisateurs": "Boris Barnet",
+        "annee": 1961,
+        "duree": 88,
+        "version": "VOSTA",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f70850"
+  },
+  {
+    "idSeance": 115566,
     "idEvenement": 29505,
-    "dateHeure": "2024-03-10T19:15:00",
-    "salle": "HL",
+    "dateHeure": "2024-03-11T18:30:00",
+    "salle": "GF",
     "cycle": [
       [
         "Jean-Marie Straub et Danièle Huillet",
@@ -9683,29 +9575,5 @@
       }
     ],
     "hashEvenement": "f39507f90542"
-  },
-  {
-    "idSeance": 107749,
-    "idEvenement": 29037,
-    "dateHeure": "2024-03-10T20:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 70850,
-        "titre": "Alenka",
-        "realisateurs": "Boris Barnet",
-        "annee": 1961,
-        "duree": 88,
-        "version": "VOSTA",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f70850"
   }
 ]
