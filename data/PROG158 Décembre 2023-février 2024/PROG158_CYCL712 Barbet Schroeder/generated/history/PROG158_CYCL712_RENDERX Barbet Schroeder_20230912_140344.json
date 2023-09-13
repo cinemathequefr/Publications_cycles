@@ -62,31 +62,48 @@
           ]
         },
         {
-          "idFilm": 36477,
-          "content": [
+          "groupe": [
             {
               "idFilm": 36477,
-              "ordre": 1,
-              "titre": "Barfly",
-              "realisateurs": "Barbet Schroeder",
-              "pays": "États-Unis",
-              "annee": 1987,
-              "duree": 99,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Faye Dunaway",
-                "Mickey Rourke"
-              ],
-              "isFocus": true,
-              "miniTexte": "Bukowski ne fait qu'une très courte apparition dans _Barfly_, discret pilier de bar sifflant un whisky, mais son esprit, sa poésie et son verbe imbibent le film de Schroeder. Jamais misérabiliste, le cinéaste prend le parti de filmer ses clochards célestes avec la grâce réservée aux anges : dès les premiers plans, sa caméra flotte dans de longs mouvements éthérés, sublimés par la photographie chaude de Robby Müller (_L'Ami américain_). Faye Dunaway, tristement abandonnée par Hollywood dans les années 80, est bouleversante, tandis qu'à ses côtés, Mickey Rourke, drôle, pathétique et déchirant dans la même seconde, trouve le rôle de sa vie."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 36477,
+                  "ordre": 1,
+                  "titre": "Barfly",
+                  "realisateurs": "Barbet Schroeder",
+                  "pays": "États-Unis",
+                  "annee": 1987,
+                  "duree": 99,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Faye Dunaway",
+                    "Mickey Rourke"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Bukowski ne fait qu'une très courte apparition dans _Barfly_, discret pilier de bar sifflant un whisky, mais son esprit, sa poésie et son verbe imbibent le film de Schroeder. Jamais misérabiliste, le cinéaste prend le parti de filmer ses clochards célestes avec la grâce réservée aux anges : dès les premiers plans, sa caméra flotte dans de longs mouvements éthérés, sublimés par la photographie chaude de Robby Müller (_L'Ami américain_). Faye Dunaway, tristement abandonnée par Hollywood dans les années 80, est bouleversante, tandis qu'à ses côtés, Mickey Rourke, drôle, pathétique et déchirant dans la même seconde, trouve le rôle de sa vie."
+                }
+              ]
+            },
             {
-              "idSeance": 115164,
-              "dateHeure": "2023-12-10T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 29309,
+              "content": [
+                {
+                  "idConf": 29309,
+                  "ordre": 2,
+                  "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud et Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 115164,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-12-10T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -547,35 +564,6 @@
     },
     {
       "tri": 1,
-      "titreSousCycle": "Films pour la télévision",
-      "items": [
-        {
-          "idFilm": 154581,
-          "content": [
-            {
-              "idFilm": 154581,
-              "ordre": 1,
-              "titre": "Bukowski",
-              "realisateurs": "Barbet Schroeder",
-              "pays": "France-Pologne",
-              "annee": 1982,
-              "duree": 200,
-              "version": "",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 105290,
-              "dateHeure": "2023-12-06T19:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 1,
       "titreSousCycle": "Barbet Schroeder producteur",
       "items": [
         {
@@ -682,30 +670,6 @@
               "idSeance": 115467,
               "dateHeure": "2023-12-09T19:00:00",
               "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 29309,
-          "content": [
-            {
-              "idConf": 29309,
-              "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma",
-              "mentionAnimation": "Animé par Frédéric Bonnaud et Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115191,
-              "dateHeure": "2023-12-10T16:15:00",
-              "idSalle": "HL"
             }
           ]
         }

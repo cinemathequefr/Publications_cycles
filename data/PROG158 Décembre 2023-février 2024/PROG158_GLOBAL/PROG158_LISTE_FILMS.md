@@ -52,12 +52,13 @@
   * Target  
   * Visions of Eight: The Highest
 
-## Aujourd'hui le cinéma (11)
+## Aujourd'hui le cinéma (12)
 
   * À mon seul désir  
   * Auge del humano 3 (El)  
   * Blackbird Blackbird Blackberry  
   * Blue  
+  * Brodeuses  
   * Conann  
   * Coraçao vagabundo  
   * Dans la tête un orage  
@@ -66,12 +67,13 @@
   * Pan  
   * Prise de l'Élysée (La)
 
-## Barbet Schroeder (20)
+## Barbet Schroeder (21)
 
   * Amnesia  
   * Avocat de la terreur (L')  
   * Barfly  
   * Before and After  
+  * Bukowski  
   * Collectionneuse (La)  
   * Enjeu (L')  
   * Général Idi Amin Dada  

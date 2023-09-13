@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2023-12-06T18:00:00",
+    "2023-12-04T20:00:00",
     "2023-12-11T20:30:00"
   ],
   "sousCycles": [
@@ -29,23 +29,39 @@
           ]
         },
         {
-          "idFilm": 99501,
-          "content": [
+          "groupe": [
             {
               "idFilm": 99501,
-              "ordre": 1,
-              "titre": "Marie-Antoinette",
-              "realisateurs": "Sofia Coppola",
-              "pays": "États-Unis-France",
-              "annee": 2005,
-              "adaptation": "D'après le livre _Marie-Antoinette_ d'Antonia Fraser."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 99501,
+                  "ordre": 1,
+                  "titre": "Marie-Antoinette",
+                  "realisateurs": "Sofia Coppola",
+                  "pays": "États-Unis-France",
+                  "annee": 2005,
+                  "adaptation": "D'après le livre _Marie-Antoinette_ d'Antonia Fraser."
+                }
+              ]
+            },
             {
-              "idSeance": 115481,
-              "dateHeure": "2023-12-09T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 29514,
+              "content": [
+                {
+                  "idConf": 29514,
+                  "ordre": 2,
+                  "titre": "Sofia Coppola par Sofia Coppola, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 115481,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-12-09T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -87,7 +103,7 @@
           "seances": [
             {
               "idSeance": 115442,
-              "dateHeure": "2023-12-11T20:00:00",
+              "dateHeure": "2023-12-04T20:00:00",
               "idSalle": "HL",
               "mention": "Avant-première. Séance présentée par Sofia Coppola"
             }
@@ -156,30 +172,6 @@
             {
               "idSeance": 115453,
               "dateHeure": "2023-12-06T18:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 29514,
-          "content": [
-            {
-              "idConf": 29514,
-              "titre": "Sofia Coppola par Sofia Coppola, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115522,
-              "dateHeure": "2023-12-09T16:30:00",
               "idSalle": "HL"
             }
           ]
