@@ -304,7 +304,7 @@
   * Voyage en pyjama (Le)  
   * Zozos (Les)
 
-## Raoul Walsh (82)
+## Raoul Walsh (81)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -354,7 +354,6 @@
   * Intrigues en Orient  
   * Kindred of the Dust  
   * Loves of Carmen (The)  
-  * Lucky Lady (The)  
   * Man I Love (The)  
   * Marines, Let's Go !  
   * Mon amie et moi  
