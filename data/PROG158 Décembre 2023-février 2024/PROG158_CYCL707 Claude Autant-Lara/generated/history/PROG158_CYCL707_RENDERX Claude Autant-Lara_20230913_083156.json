@@ -199,96 +199,53 @@
           ]
         },
         {
-          "groupe": [
-            {
-              "idEvenement": 29572,
-              "content": [
-                {
-                  "idConf": 29572,
-                  "titre": "Conférence Autant-Lara",
-                  "sousTitre": "Conférence ",
-                  "typeConference": "Conférence"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115587,
-                  "idSeanceAssoc": 115335,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-02-08T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
-            },
+          "idFilm": 46502,
+          "content": [
             {
               "idFilm": 46502,
-              "content": [
-                {
-                  "idFilm": 46502,
-                  "ordre": 1,
-                  "titre": "Douce",
-                  "realisateurs": "Claude Autant-Lara",
-                  "pays": "France",
-                  "annee": 1943,
-                  "duree": 104,
-                  "version": "",
-                  "format": ""
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115335,
-                  "idSeanceAssoc": 115335,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-02-08T21:15:00",
-                  "idSalle": "GF",
-                  "mentionAssoc": "Film choisi par le conférencier"
-                }
-              ]
+              "ordre": 1,
+              "titre": "Douce",
+              "realisateurs": "Claude Autant-Lara",
+              "pays": "France",
+              "annee": 1943,
+              "duree": 104,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115335,
+              "dateHeure": "2024-02-08T21:15:00",
+              "idSalle": "GF"
             }
           ]
         },
         {
-          "groupe": [
+          "idFilm": 46404,
+          "content": [
             {
               "idFilm": 46404,
-              "content": [
-                {
-                  "idFilm": 46404,
-                  "ordre": 1,
-                  "titre": "En cas de malheur",
-                  "realisateurs": "Claude Autant-Lara",
-                  "pays": "France-Italie",
-                  "annee": 1957,
-                  "duree": 0,
-                  "version": "",
-                  "format": "35 mm",
-                  "generique": [
-                    "Jean Gabin",
-                    "Brigitte Bardot",
-                    "Edwige Feuillère"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "En cas de malheur",
+              "realisateurs": "Claude Autant-Lara",
+              "pays": "France-Italie",
+              "annee": 1957,
+              "duree": 0,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Jean Gabin",
+                "Brigitte Bardot",
+                "Edwige Feuillère"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29573,
-              "content": [
-                {
-                  "idConf": 29573,
-                  "ordre": 2,
-                  "titre": "Film + Dialogue Autant-Lara",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115363,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-02-11T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "idSeance": 115363,
+              "dateHeure": "2024-02-11T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -933,6 +890,47 @@
               "idSeance": 115387,
               "dateHeure": "2024-02-18T14:30:00",
               "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 29572,
+          "content": [
+            {
+              "idConf": 29572,
+              "titre": "Conférence Autant-Lara",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115587,
+              "dateHeure": "2024-02-08T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 29573,
+          "content": [
+            {
+              "idConf": 29573,
+              "titre": "Film + Dialogue Autant-Lara",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115584,
+              "dateHeure": "2024-02-11T16:15:00",
+              "idSalle": "HL"
             }
           ]
         }

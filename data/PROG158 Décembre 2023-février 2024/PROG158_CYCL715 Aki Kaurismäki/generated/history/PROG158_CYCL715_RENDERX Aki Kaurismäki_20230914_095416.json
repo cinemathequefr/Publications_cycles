@@ -544,49 +544,32 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 40069,
+          "content": [
             {
               "idFilm": 40069,
-              "content": [
-                {
-                  "idFilm": 40069,
-                  "ordre": 1,
-                  "titre": "Vie de bohème",
-                  "art": "La",
-                  "realisateurs": "Aki Kaurismäki",
-                  "pays": "France-Finlande",
-                  "annee": 1991,
-                  "duree": 100,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "generique": [
-                    "Jean-Pierre Léaud",
-                    "Samuel Fuller",
-                    "Matti Pellonpää",
-                    "André Wilms"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Vie de bohème",
+              "art": "La",
+              "realisateurs": "Aki Kaurismäki",
+              "pays": "France-Finlande",
+              "annee": 1991,
+              "duree": 100,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Jean-Pierre Léaud",
+                "Samuel Fuller",
+                "Matti Pellonpää",
+                "André Wilms"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29571,
-              "content": [
-                {
-                  "idConf": 29571,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Philippe Azoury",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Emilie Cauquy"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115616,
-                  "typeAssoc": 118,
-                  "dateHeure": "2023-12-06T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
+              "idSeance": 115616,
+              "dateHeure": "2023-12-06T19:00:00",
+              "idSalle": "GF"
             }
           ]
         }
@@ -714,6 +697,30 @@
               "dateHeure": "2023-12-14T20:00:00",
               "idSalle": "HL",
               "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 29571,
+          "content": [
+            {
+              "idConf": 29571,
+              "titre": "Dialogue avec Philippe Azoury",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Emilie Cauquy"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115581,
+              "dateHeure": "2023-12-06T20:30:00",
+              "idSalle": "GF"
             }
           ]
         }
