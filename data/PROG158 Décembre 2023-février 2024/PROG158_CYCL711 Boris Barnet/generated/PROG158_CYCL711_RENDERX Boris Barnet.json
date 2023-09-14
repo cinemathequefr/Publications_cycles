@@ -261,10 +261,18 @@
               ],
               "seances": [
                 {
+                  "idSeance": 115638,
+                  "dateHeure": "2024-02-17T16:45:00",
+                  "idSalle": "GF",
+                  "idSeanceAssoc": 115389,
+                  "mentionAssoc": "Film seul"
+                },
+                {
                   "idSeance": 115389,
                   "typeAssoc": 118,
                   "dateHeure": "2024-02-24T14:30:00",
-                  "idSalle": "GF"
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film + dialogue"
                 }
               ]
             }
@@ -432,35 +440,6 @@
             {
               "idSeance": 107732,
               "dateHeure": "2024-03-09T19:45:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 40764,
-          "content": [
-            {
-              "idFilm": 40764,
-              "ordre": 1,
-              "titre": "Tempête sur l'Asie",
-              "titreVo": "Potomok Tchinguis-Khana",
-              "realisateurs": "Vsevolod Poudovkine",
-              "pays": "URSS",
-              "annee": 1928,
-              "duree": 0,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Valery Inkijinoff",
-                "Boris Barnet",
-                "Anel Sudakevich"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 107730,
-              "dateHeure": "2024-03-09T15:00:00",
               "idSalle": "GF"
             }
           ]

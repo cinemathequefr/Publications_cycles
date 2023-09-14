@@ -137,11 +137,11 @@
         "format": "DCP"
       },
       {
-        "idFilm": 154577,
+        "idFilm": 154576,
         "ordre": 4,
         "idSeance": 115567,
-        "idCopie": 26790,
-        "duree": 9,
+        "idCopie": 26825,
+        "duree": 0,
         "version": "",
         "format": "DCP"
       }
@@ -217,6 +217,57 @@
     ]
   },
   {
+    "idCategorie": 3212,
+    "typeEvenement": 13,
+    "idEvenement": 29622,
+    "idSeance": 107401,
+    "dateHeure": "2024-02-26T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 154584,
+        "ordre": 1,
+        "idSeance": 107401,
+        "idCopie": 26828,
+        "duree": 30,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154583,
+        "ordre": 2,
+        "idSeance": 107401,
+        "idCopie": 26827,
+        "duree": 29,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154585,
+        "ordre": 3,
+        "idSeance": 107401,
+        "idCopie": 26829,
+        "duree": 18,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154586,
+        "ordre": 4,
+        "idSeance": 107401,
+        "idCopie": 26830,
+        "duree": 30,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Lola Cambourieu et Yann Berlier"
+  },
+  {
     "idCategorie": 3210,
     "typeEvenement": 13,
     "idEvenement": 29353,
@@ -238,8 +289,5 @@
         "format": "DCP"
       }
     ]
-  },
-  {
-    "mention": "Séance suivie d'une discussion avec Lola Cambourieu et Yann Berlier"
   }
 ]

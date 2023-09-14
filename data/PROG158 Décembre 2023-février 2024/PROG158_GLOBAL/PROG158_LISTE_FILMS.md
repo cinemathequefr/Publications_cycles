@@ -52,19 +52,23 @@
   * Target  
   * Visions of Eight: The Highest
 
-## Aujourd'hui le cinéma (12)
+## Aujourd'hui le cinéma (16)
 
   * À mon seul désir  
   * Auge del humano 3 (El)  
+  * Automne malade  
   * Blackbird Blackbird Blackberry  
   * Blue  
   * Brodeuses  
   * Conann  
   * Coraçao vagabundo  
+  * Cousinade (La)  
   * Dans la tête un orage  
+  * Enfants perdus (Les)  
+  * Enterrement de vie de jeune fille  
   * Ficelles (Les)  
+  * Geronimo  
   * Maison brûle, autant se réchauffer (La)  
-  * Pan  
   * Prise de l'Élysée (La)
 
 ## Barbet Schroeder (21)
@@ -102,7 +106,7 @@
   * Tiresia  
   * Zombi Child
 
-## Boris Barnet (20)
+## Boris Barnet (19)
 
   * Alenka  
   * Annouchka  
@@ -118,7 +122,6 @@
   * Pages de la vie (Les)  
   * Petite gare (La)  
   * Poète (Le)  
-  * Tempête sur l'Asie  
   * Un brave garçon  
   * Un été prodigieux  
   * Une fois, la nuit  
@@ -170,8 +173,8 @@
   * Marguerite de la nuit  
   * Mariage de Chiffon (Le)  
   * Meurtrier (Le)  
-  * My Partner Mr Davis = The Mysterious Mr Davis  
-  * Nouveau journal d'une femme en blanc = Une femme en blanc se révolte (Le)  
+  * Mysterious Mr. Davis (The)  
+  * Nouveau journal d'une femme en blanc  
   * Occupe-toi d'Amélie  
   * Patates (Les)  
   * Plus vieux métier du monde : Aujourd'hui (Le)  
@@ -282,7 +285,7 @@
   * Cette sacrée vérité  
   * Dame du vendredi (La)  
   * Easy Living  
-  * Extravagant Mr Ruggles (L')  
+  * Extravagant Mr. Ruggles (L')  
   * Grande dame d'un jour  
   * Haute pègre  
   * Huitième femme de Barbe-Bleue (La)  
@@ -362,7 +365,7 @@
   * Armored Car Robbery  
   * Ashanti  
   * Assassin sans visage (L')  
-  * Bandido caballero !  
+  * Bandido caballero!  
   * Barabbas  
   * Bodyguard  
   * Chanteur de jazz (Le)  
@@ -376,7 +379,7 @@
   * Duel dans la boue  
   * Énigme du Chicago Express (L')  
   * Étrangleur de Boston (L')  
-  * Étrangleur Rillington Place (L')  
+  * Étrangleur de Rillington Place (L')  
   * Extravagant docteur Dolittle (L')  
   * Fille sur la balançoire (La)  
   * Flics ne dorment pas la nuit (Les)  
