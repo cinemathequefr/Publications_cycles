@@ -14,7 +14,12 @@
     "items": [
       {
         "idFilm": 69793,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 115453,
+        "idCopie": 26803,
+        "duree": 96,
+        "version": "",
+        "format": ""
       }
     ],
     "mention": "Ouverture de la rétrospective"
@@ -33,25 +38,90 @@
     "items": [
       {
         "idFilm": 87794,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 115454,
+        "idCopie": 26800,
+        "duree": 102,
+        "version": "",
+        "format": ""
       }
     ]
   },
   {
     "idCategorie": 3196,
     "typeEvenement": 13,
-    "idEvenement": 29480,
-    "idSeance": 115481,
-    "dateHeure": "2023-12-09T14:30:00",
+    "idEvenement": 29481,
+    "idSeance": 115617,
+    "dateHeure": "2023-12-07T18:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 99501,
-        "ordre": 1
+        "idFilm": 147225,
+        "ordre": 1,
+        "idSeance": 115617,
+        "idCopie": 26801,
+        "duree": 96,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3196,
+    "typeEvenement": 13,
+    "idEvenement": 29482,
+    "idSeance": 115615,
+    "dateHeure": "2023-12-08T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 136543,
+        "ordre": 1,
+        "idSeance": 115615,
+        "idCopie": 26796,
+        "duree": 95,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3224,
+    "typeEvenement": 13,
+    "idEvenement": 29476,
+    "idSeance": 105365,
+    "dateHeure": "2023-12-08T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 75,
+    "items": [
+      {
+        "idFilm": 117203,
+        "ordre": 1,
+        "idSeance": 105365,
+        "idCopie": 26797,
+        "duree": 28,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 87818,
+        "ordre": 2,
+        "idSeance": 105365,
+        "idCopie": 26799,
+        "duree": 14,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -84,25 +154,90 @@
     "items": [
       {
         "idFilm": 112506,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 115482,
+        "idCopie": 26802,
+        "duree": 98,
+        "version": "",
+        "format": ""
       }
     ]
   },
   {
     "idCategorie": 3196,
     "typeEvenement": 13,
-    "idEvenement": 29482,
-    "idSeance": 115458,
+    "idEvenement": 29480,
+    "idSeance": 115613,
+    "dateHeure": "2023-12-10T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 99501,
+        "ordre": 1,
+        "idSeance": 115613,
+        "idCopie": 26795,
+        "duree": 123,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3196,
+    "typeEvenement": 13,
+    "idEvenement": 29477,
+    "idSeance": 115599,
+    "dateHeure": "2023-12-10T18:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 120063,
+        "ordre": 1,
+        "idSeance": 115599,
+        "idCopie": 26798,
+        "duree": 90,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3224,
+    "typeEvenement": 13,
+    "idEvenement": 29476,
+    "idSeance": 115620,
     "dateHeure": "2023-12-11T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 75,
     "items": [
       {
-        "idFilm": 136543,
-        "ordre": 1
+        "idFilm": 117203,
+        "ordre": 1,
+        "idSeance": 115620,
+        "idCopie": 26797,
+        "duree": 28,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 87818,
+        "ordre": 2,
+        "idSeance": 115620,
+        "idCopie": 26799,
+        "duree": 14,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -130,23 +265,5 @@
       }
     ],
     "mention": "Avant-première. Séance présentée par Sofia Coppola"
-  },
-  {
-    "idCategorie": 3196,
-    "typeEvenement": 13,
-    "idEvenement": 29481,
-    "idSeance": 115459,
-    "dateHeure": "2023-12-11T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 147225,
-        "ordre": 1
-      }
-    ]
   }
 ]

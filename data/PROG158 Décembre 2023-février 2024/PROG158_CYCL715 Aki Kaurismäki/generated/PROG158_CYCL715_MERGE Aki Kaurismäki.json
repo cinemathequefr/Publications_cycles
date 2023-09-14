@@ -72,7 +72,7 @@
         {
           "idSeance": 105600,
           "ordre": 1,
-          "dateHeure": "2023-12-17T18:15:00",
+          "dateHeure": "2023-12-17T17:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -238,7 +238,7 @@
         {
           "idSeance": 115487,
           "ordre": 1,
-          "dateHeure": "2023-12-08T20:45:00",
+          "dateHeure": "2023-12-08T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -303,15 +303,14 @@
           ]
         },
         {
-          "idSeance": 115568,
+          "idSeance": 115619,
           "ordre": 1,
-          "dateHeure": "2023-12-06T19:00:00",
+          "dateHeure": "2023-12-11T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "dureeSeance": 105,
-          "typeAssoc": 118,
           "idCategorie": 3151,
           "idEvenement": 29117,
           "typeEvenement": 13,
@@ -401,7 +400,7 @@
         {
           "idSeance": 115570,
           "ordre": 1,
-          "dateHeure": "2023-12-10T20:00:00",
+          "dateHeure": "2023-12-10T20:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -434,7 +433,7 @@
         {
           "idSeance": 105601,
           "ordre": 1,
-          "dateHeure": "2023-12-17T20:30:00",
+          "dateHeure": "2023-12-17T19:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -454,9 +453,9 @@
           "textes": []
         },
         {
-          "idSeance": 105320,
+          "idSeance": 115618,
           "ordre": 1,
-          "dateHeure": "2023-12-07T18:30:00",
+          "dateHeure": "2023-12-07T20:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -551,12 +550,12 @@
           ]
         },
         {
-          "idSeance": 115293,
+          "idSeance": 115600,
           "ordre": 1,
-          "dateHeure": "2023-12-10T18:15:00",
+          "dateHeure": "2023-12-17T15:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 90,
           "idCategorie": 3151,
@@ -585,9 +584,9 @@
           ]
         },
         {
-          "idSeance": 115477,
+          "idSeance": 115621,
           "ordre": 1,
-          "dateHeure": "2023-12-07T20:15:00",
+          "dateHeure": "2023-12-11T17:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -607,9 +606,9 @@
           "textes": []
         },
         {
-          "idSeance": 115287,
+          "idSeance": 115616,
           "ordre": 1,
-          "dateHeure": "2023-12-08T18:30:00",
+          "dateHeure": "2023-12-06T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -841,24 +840,28 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 115568,
-          "ordre": 2,
-          "dateHeure": "2023-12-06T19:00:00",
+          "idSeance": 115581,
+          "dateHeure": "2023-12-06T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "dureeSeance": 75,
-          "typeAssoc": 118,
           "idCategorie": 3193,
           "idEvenement": 29571,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Dialogue avec Emilie Cauquy",
+          "titre": "Dialogue avec Philippe Azoury",
           "duree": 60,
           "textes": [],
           "intervenants": [
+            {
+              "nomComplet": "Philippe Azoury",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 2
+            },
             {
               "nomComplet": "Emilie Cauquy",
               "idFonction": 40,

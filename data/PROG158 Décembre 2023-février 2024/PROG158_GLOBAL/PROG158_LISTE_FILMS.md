@@ -445,8 +445,11 @@
   * Viva l'Italia  
   * Voyage en Italie
 
-## Sofia Coppola (7)
+## Sofia Coppola (10)
 
+  * Bed, Bath and Beyond  
+  * Bling Ring (The)  
+  * Lick the Star  
   * Lost in Translation  
   * Marie-Antoinette  
   * On the Rocks  
