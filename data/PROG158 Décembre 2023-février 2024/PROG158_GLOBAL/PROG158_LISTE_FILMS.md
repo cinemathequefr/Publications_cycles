@@ -95,13 +95,23 @@
   * Vénérable W. (Le)  
   * Vierge des tueurs (La)
 
-## Bertrand Bonello (8)
+## Bertrand Bonello (18)
 
   * Apollonide : Souvenirs de la maison close (L')  
+  * Aventures de James et David (Les)  
+  * Bête (La)  
+  * Bus d'Alice (Le)  
+  * Cindy: The Doll Is Mine  
+  * Coma  
   * De la guerre  
+  * Gennevilliers: Where the Boys Are  
+  * Ingrid Caven, musique et voix  
+  * Juliette + 2  
+  * My New Picture  
   * Nocturama  
   * Pornographe (Le)  
   * Quelque chose d'organique  
+  * Qui je suis – D'après Pier Paolo Pasolini  
   * Saint Laurent  
   * Tiresia  
   * Zombi Child
@@ -120,7 +130,7 @@
   * Moscou en octobre  
   * Okraïna  
   * Pages de la vie (Les)  
-  * Petite gare (La)  
+  * Petite Gare (La)  
   * Poète (Le)  
   * Un brave garçon  
   * Un été prodigieux  
@@ -219,14 +229,14 @@
 ## David Lean (16)
 
   * Amants passionnés (Les)  
-  * Brève rencontre  
+  * Brève Rencontre  
   * Ceux qui servent en mer  
   * Chaussure à son pied  
   * Docteur Jivago (Le)  
   * Esprit s'amuse (L')  
   * Fille de Ryan (La)  
-  * Grandes espérances (Les)  
-  * Heureux mortels  
+  * Grandes Espérances (Les)  
+  * Heureux Mortels  
   * Lawrence d'Arabie  
   * Madeleine  
   * Mur du son (Le)  
@@ -348,7 +358,7 @@
   * Ernest et Célestine  
   * Fiancées en folie (Les)  
   * Histoire sans fin (L')  
-  * Jeune fille au carton à chapeau (La)  
+  * Jeune Fille au carton à chapeau (La)  
   * Le Havre  
   * Montagnards sont là (Les)  
   * Qu'elle était verte ma vallée  

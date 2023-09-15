@@ -18,4 +18,4 @@ Pour autant, cet obsessionnel ne pratiquait pas une mise en scène de la démesu
 
 Dans chacun de ses films, Miller parlait de lui sans céder à l'autobiographie et à ses sirènes, et sans jamais lésiner sur l'autodérision. Scénarios originaux, ou le plus souvent adaptations (Highsmith, McCullers, Berberova, Hustvedt, Rendell, Grimbert, Mauriac, Carrère...) étaient autant de manières d'autoportraits – homme ou femme, fille ou garçon, voire face-à-face contradictoires. « Il y a plusieurs personnes en nous », souriait-il au soir de sa vie en citant Paul Valéry, « la vraie, c'est l'autre ! ». « Tout chez lui », renchérissait à sa mort son vieil ami le réalisateur Bernard Stora, « y compris le plus intime de l'intime, passait par le cinéma. Et si l'on veut en savoir plus, il faut voir et revoir ses films où il a enfoui, comme dans un rébus, des signes, des indices, tout un fléchage énigmatique qui à la fois le révèle et le préserve. »
 
-Olivier Curchod
+<div class="author">Olivier Curchod</div>

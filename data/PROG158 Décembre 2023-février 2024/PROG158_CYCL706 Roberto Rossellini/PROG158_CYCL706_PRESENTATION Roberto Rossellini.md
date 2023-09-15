@@ -22,4 +22,4 @@ Roberto Rossellini est principalement connu pour les films qu'il réalisa après
 
 En mai 1977, quelques semaines avant d'être foudroyé par une crise cardiaque à l'âge de 71 ans, Roberto Rossellini décernait la Palme d'or au film âpre des frères Taviani produit par la RAI, _Padre padrone_. Un geste fort et provocateur contre le monde du cinéma, mais aussi un acte de résistance contre la télévision publicitaire de Silvio Berlusconi alors en train de prendre le pouvoir.
 
-Aurore Renaut
+<div class="author">Aurore Renaut</div>

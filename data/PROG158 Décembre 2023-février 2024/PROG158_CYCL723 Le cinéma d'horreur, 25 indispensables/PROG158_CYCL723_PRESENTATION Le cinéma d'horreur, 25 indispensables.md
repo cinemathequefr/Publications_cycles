@@ -14,6 +14,6 @@ Il a parfois été considéré, souvent à tort, que l'imagerie gore (cf. les fi
 
 L'horreur au cinéma a largement été interprétée comme l'expression de ce que l'on appelle, en termes freudiens, le retour du refoulé. Ce qui a été repoussé et dissimulé resurgissant ainsi sous une forme monstrueuse et punitive. De façon allégorique, mais parfois de façon littérale, comme les fantômes japonais de Nobuo Nakagawa (_Histoire de fantômes japonais_) ou les manifestations spectrales de _La Maison du diable_ de Robert Wise, qui mettent à nu pulsions interdites et névroses prohibées, ici le lesbianisme et la frigidité. Les zombies des films de George Romero quant à eux n'incarnent-ils pas un refoulé politique, la dimension mortifère de la société moderne et ses impératifs consuméristes ? Un monde où les morts encore vivants ne sont que la représentation symbolique de ces vivants déjà morts que produirait la forme prétendument achevée de la civilisation.
 
-Jean-François Rauger
+<div class="author">Jean-François Rauger</div>
 
 [^1]: Notions développées notamment par Noel Carroll dans _The Philosophy of Horror, or: Paradoxes of the Heart_ (Routledge, 1990).
