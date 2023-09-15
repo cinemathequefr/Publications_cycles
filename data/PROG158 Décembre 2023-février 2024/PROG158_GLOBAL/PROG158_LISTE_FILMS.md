@@ -67,8 +67,8 @@
   * Enfants perdus (Les)  
   * Enterrement de vie de jeune fille  
   * Ficelles (Les)  
+  * Garçon qui la nuit (Le)  
   * Geronimo  
-  * Maison brûle, autant se réchauffer (La)  
   * Prise de l'Élysée (La)
 
 ## Barbet Schroeder (21)
@@ -166,7 +166,7 @@
   * Gloria  
   * Humour noir : La Bestiole  
   * Joueur (Le)  
-  * Journal d'une femme en blanc (Le)  
+  * Journal d'une femme en blanc  
   * Jument verte (La)  
   * Lettres d'amour  
   * Magot de Josefa (Le)  
@@ -222,7 +222,7 @@
   * Brève rencontre  
   * Ceux qui servent en mer  
   * Chaussure à son pied  
-  * Docteur Jivago  
+  * Docteur Jivago (Le)  
   * Esprit s'amuse (L')  
   * Fille de Ryan (La)  
   * Grandes espérances (Les)  
