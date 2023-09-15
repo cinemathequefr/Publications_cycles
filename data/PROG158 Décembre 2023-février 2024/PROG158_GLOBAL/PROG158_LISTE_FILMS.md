@@ -77,7 +77,7 @@
   * Avocat de la terreur (L')  
   * Barfly  
   * Before and After  
-  * Bukowski  
+  * Charles Bukowski Tapes (The)  
   * Collectionneuse (La)  
   * Enjeu (L')  
   * Général Idi Amin Dada  
@@ -203,7 +203,7 @@
   * Je suis heureux que ma mère soit vivante  
   * Juliet dans Paris  
   * Les Transmissions de la division 59  
-  * Marching band  
+  * Marching Band  
   * Meilleure Façon de marcher (La)  
   * Mortelle Randonnée  
   * Patrouille en zone minée  
@@ -407,7 +407,7 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (38)
+## Roberto Rossellini (39)
 
   * Âge de Cosme de Médicis (L')  
   * Allemagne année zéro  
@@ -443,6 +443,7 @@
   * Santa Brigida  
   * Sept péchés capitaux : L'Envie (Les)  
   * Stromboli  
+  * Thérèse la vive  
   * Un pilote revient  
   * Vanina Vanini  
   * Viva l'Italia  
