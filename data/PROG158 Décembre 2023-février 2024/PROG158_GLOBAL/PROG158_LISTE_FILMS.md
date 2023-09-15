@@ -204,11 +204,11 @@
   * Juliet dans Paris  
   * Les Transmissions de la division 59  
   * Marching band  
-  * Meilleure façon de marcher (La)  
-  * Mortelle randonnée  
+  * Meilleure Façon de marcher (La)  
+  * Mortelle Randonnée  
   * Patrouille en zone minée  
   * Petite Lili (La)  
-  * Petite voleuse (La)  
+  * Petite Voleuse (La)  
   * Question ordinaire (La)  
   * Serpent  
   * Sourire (Le)  
@@ -287,8 +287,8 @@
   * Easy Living  
   * Extravagant Mr. Ruggles (L')  
   * Grande dame d'un jour  
-  * Haute pègre  
-  * Huitième femme de Barbe-Bleue (La)  
+  * Haute Pègre  
+  * Huitième Femme de Barbe-Bleue (La)  
   * Impossible monsieur Bébé (L')  
   * Indiscrétions  
   * Jeux de mains  
@@ -365,11 +365,11 @@
   * Armored Car Robbery  
   * Ashanti  
   * Assassin sans visage (L')  
-  * Bandido caballero!  
+  * Bandido caballero !  
   * Barabbas  
   * Bodyguard  
   * Chanteur de jazz (Le)  
-  * Che!  
+  * Che !  
   * Child of Divorce  
   * Complices de la dernière chance (Les)  
   * Conan le destructeur  

@@ -146,7 +146,7 @@
   {
     "idSeance": 115518,
     "idEvenement": 29511,
-    "dateHeure": "2023-12-01T17:00:00",
+    "dateHeure": "2023-12-01T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -585,29 +585,6 @@
     "hashEvenement": "f91820"
   },
   {
-    "idSeance": 115442,
-    "idEvenement": 29506,
-    "dateHeure": "2023-12-04T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sofia Coppola",
-        "Les films"
-      ]
-    ],
-    "mention": "Avant-première. Séance présentée par Sofia Coppola",
-    "items": [
-      {
-        "idFilm": 154568,
-        "titre": "Priscilla",
-        "realisateurs": "Sofia Coppola",
-        "annee": 2023,
-        "duree": 113
-      }
-    ],
-    "hashEvenement": "f154568"
-  },
-  {
     "idSeance": 115286,
     "idEvenement": 29112,
     "dateHeure": "2023-12-04T20:45:00",
@@ -657,7 +634,7 @@
     "hashEvenement": "f45328"
   },
   {
-    "idSeance": 115453,
+    "idSeance": 115632,
     "idEvenement": 29484,
     "dateHeure": "2023-12-06T18:00:00",
     "salle": "HL",
@@ -672,14 +649,15 @@
         "idFilm": 69793,
         "titre": "Virgin Suicides",
         "realisateurs": "Sofia Coppola",
-        "annee": 1999
+        "annee": 1999,
+        "duree": 96
       }
     ],
     "hashEvenement": "f69793"
   },
   {
-    "idSeance": 115568,
-    "idEvenement": 29117,
+    "idSeance": 115616,
+    "idEvenement": 29134,
     "dateHeure": "2023-12-06T19:00:00",
     "salle": "GF",
     "cycle": [
@@ -694,12 +672,13 @@
     ],
     "items": [
       {
-        "idFilm": 64208,
-        "titre": "Juha",
+        "idFilm": 40069,
+        "titre": "Vie de bohème",
+        "art": "La",
         "realisateurs": "Aki Kaurismäki",
-        "annee": 1998,
-        "duree": 78,
-        "version": "INT. FR.",
+        "annee": 1991,
+        "duree": 100,
+        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -709,12 +688,35 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "f64208c29571"
+    "hashEvenement": "f40069c29571"
+  },
+  {
+    "idSeance": 105290,
+    "idEvenement": 29561,
+    "dateHeure": "2023-12-06T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Barbet Schroeder",
+        "Films pour la télévision"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154581,
+        "titre": "Bukowski",
+        "realisateurs": "Barbet Schroeder",
+        "annee": 1982,
+        "duree": 200,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154581"
   },
   {
     "idSeance": 115454,
     "idEvenement": 29479,
-    "dateHeure": "2023-12-06T20:00:00",
+    "dateHeure": "2023-12-06T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -727,35 +729,55 @@
         "idFilm": 87794,
         "titre": "Lost in Translation",
         "realisateurs": "Sofia Coppola",
-        "annee": 2003
+        "annee": 2003,
+        "duree": 102
       }
     ],
     "hashEvenement": "f87794"
   },
   {
-    "idSeance": 105320,
-    "idEvenement": 29122,
-    "dateHeure": "2023-12-07T18:30:00",
-    "salle": "GF",
+    "idSeance": 115630,
+    "idEvenement": 29527,
+    "dateHeure": "2023-12-07T17:00:00",
+    "salle": "JE",
     "cycle": [
       [
-        "Aki Kaurismäki",
+        "Archi Vives",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 99733,
-        "titre": "Lumières du faubourg",
-        "art": "Les",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 2005,
-        "duree": 80,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idConf": 29527,
+        "titre": "Chants, films, archives de l'insoumission : le « bled siba » du cinéma marocain",
+        "sousTitre": "Conférence de Marie Pierre-Bouthier et Touda Bouanani",
+        "typeConference": "Conférence",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f99733"
+    "hashEvenement": "c29527"
+  },
+  {
+    "idSeance": 115617,
+    "idEvenement": 29481,
+    "dateHeure": "2023-12-07T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Sofia Coppola",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 147225,
+        "titre": "On the Rocks",
+        "realisateurs": "Sofia Coppola",
+        "annee": 2019,
+        "duree": 96
+      }
+    ],
+    "hashEvenement": "f147225"
   },
   {
     "idSeance": 105325,
@@ -765,7 +787,7 @@
     "cycle": [
       [
         "Archi Vives",
-        ""
+        "Les films"
       ]
     ],
     "items": [
@@ -825,8 +847,8 @@
     "hashEvenement": "f50968f43655c29490"
   },
   {
-    "idSeance": 115477,
-    "idEvenement": 29132,
+    "idSeance": 115618,
+    "idEvenement": 29122,
     "dateHeure": "2023-12-07T20:15:00",
     "salle": "GF",
     "cycle": [
@@ -837,15 +859,17 @@
     ],
     "items": [
       {
-        "idFilm": 100260,
-        "titre": "Total Balalaika Show",
+        "idFilm": 99733,
+        "titre": "Lumières du faubourg",
+        "art": "Les",
         "realisateurs": "Aki Kaurismäki",
-        "annee": 1994,
-        "duree": 54,
-        "version": "VOSTF"
+        "annee": 2005,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f100260"
+    "hashEvenement": "f99733"
   },
   {
     "idSeance": 115484,
@@ -873,9 +897,32 @@
     "hashEvenement": "f36483"
   },
   {
-    "idSeance": 115287,
-    "idEvenement": 29134,
+    "idSeance": 115615,
+    "idEvenement": 29482,
     "dateHeure": "2023-12-08T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Sofia Coppola",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 136543,
+        "titre": "Proies",
+        "art": "Les",
+        "realisateurs": "Sofia Coppola",
+        "annee": 2017,
+        "duree": 95
+      }
+    ],
+    "hashEvenement": "f136543"
+  },
+  {
+    "idSeance": 115487,
+    "idEvenement": 29115,
+    "dateHeure": "2023-12-08T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -885,17 +932,17 @@
     ],
     "items": [
       {
-        "idFilm": 40069,
-        "titre": "Vie de bohème",
-        "art": "La",
+        "idFilm": 79090,
+        "titre": "Homme sans passé",
+        "art": "L'",
         "realisateurs": "Aki Kaurismäki",
-        "annee": 1991,
-        "duree": 100,
+        "annee": 2001,
+        "duree": 97,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f40069"
+    "hashEvenement": "f79090"
   },
   {
     "idSeance": 115486,
@@ -921,60 +968,28 @@
     "hashEvenement": "f51226"
   },
   {
-    "idSeance": 115487,
-    "idEvenement": 29115,
-    "dateHeure": "2023-12-08T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Aki Kaurismäki",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 79090,
-        "titre": "Homme sans passé",
-        "art": "L'",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 2001,
-        "duree": 97,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f79090"
-  },
-  {
-    "idSeance": 115481,
-    "idEvenement": 29480,
+    "idSeance": 115612,
+    "idEvenement": 29074,
     "dateHeure": "2023-12-09T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Sofia Coppola",
+        "Barbet Schroeder",
         "Les films"
-      ],
-      [
-        "Sofia Coppola",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 99501,
-        "titre": "Marie-Antoinette",
-        "realisateurs": "Sofia Coppola",
-        "annee": 2005
-      },
-      {
-        "idConf": 29514,
-        "titre": "Sofia Coppola par Sofia Coppola, une leçon de cinéma",
-        "typeConference": "Leçon de cinéma",
-        "duree": 60
+        "idFilm": 36477,
+        "titre": "Barfly",
+        "realisateurs": "Barbet Schroeder",
+        "annee": 1987,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f99501c29514"
+    "hashEvenement": "f36477"
   },
   {
     "idSeance": 107800,
@@ -1023,6 +1038,27 @@
     "hashEvenement": "c29526"
   },
   {
+    "idSeance": 115191,
+    "idEvenement": 29309,
+    "dateHeure": "2023-12-09T16:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Barbet Schroeder",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 29309,
+        "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c29309"
+  },
+  {
     "idSeance": 115482,
     "idEvenement": 29483,
     "dateHeure": "2023-12-09T18:30:00",
@@ -1038,7 +1074,8 @@
         "idFilm": 112506,
         "titre": "Somewhere",
         "realisateurs": "Sofia Coppola",
-        "annee": 2009
+        "annee": 2009,
+        "duree": 98
       }
     ],
     "hashEvenement": "f112506"
@@ -1115,38 +1152,26 @@
     "hashEvenement": "f56826"
   },
   {
-    "idSeance": 115164,
-    "idEvenement": 29074,
+    "idSeance": 115613,
+    "idEvenement": 29480,
     "dateHeure": "2023-12-10T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Barbet Schroeder",
+        "Sofia Coppola",
         "Les films"
-      ],
-      [
-        "Barbet Schroeder",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 36477,
-        "titre": "Barfly",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1987,
-        "duree": 99,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idConf": 29309,
-        "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
-        "typeConference": "Leçon de cinéma",
-        "duree": 90
+        "idFilm": 99501,
+        "titre": "Marie-Antoinette",
+        "realisateurs": "Sofia Coppola",
+        "annee": 2005,
+        "duree": 123
       }
     ],
-    "hashEvenement": "f36477c29309"
+    "hashEvenement": "f99501"
   },
   {
     "idSeance": 105420,
@@ -1176,6 +1201,27 @@
     "hashEvenement": "f113254"
   },
   {
+    "idSeance": 115522,
+    "idEvenement": 29514,
+    "dateHeure": "2023-12-10T16:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sofia Coppola",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 29514,
+        "titre": "Sofia Coppola par Sofia Coppola, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c29514"
+  },
+  {
     "idSeance": 105421,
     "idEvenement": 29075,
     "dateHeure": "2023-12-10T17:45:00",
@@ -1200,57 +1246,32 @@
     "hashEvenement": "f29146"
   },
   {
-    "idSeance": 115293,
-    "idEvenement": 29131,
+    "idSeance": 115599,
+    "idEvenement": 29477,
     "dateHeure": "2023-12-10T18:15:00",
     "salle": "HL",
     "cycle": [
       [
-        "Aki Kaurismäki",
+        "Sofia Coppola",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 53131,
-        "titre": "Tiens ton foulard, Tatiana",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 1993,
-        "duree": 65,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 120063,
+        "titre": "Bling Ring",
+        "art": "The",
+        "realisateurs": "Sofia Coppola",
+        "annee": 2012,
+        "duree": 90
       }
     ],
-    "hashEvenement": "f53131"
-  },
-  {
-    "idSeance": 115570,
-    "idEvenement": 29121,
-    "dateHeure": "2023-12-10T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Aki Kaurismäki",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 52386,
-        "titre": "Leningrad Cowboys rencontrent Moïse",
-        "art": "Les",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 1993,
-        "duree": 94,
-        "version": "VOSTF"
-      }
-    ],
-    "hashEvenement": "f52386"
+    "hashEvenement": "f120063"
   },
   {
     "idSeance": 115463,
     "idEvenement": 29427,
-    "dateHeure": "2023-12-10T20:30:00",
+    "dateHeure": "2023-12-10T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1279,26 +1300,80 @@
     "hashEvenement": "f136039f136038"
   },
   {
-    "idSeance": 115458,
-    "idEvenement": 29482,
-    "dateHeure": "2023-12-11T18:30:00",
-    "salle": "GF",
+    "idSeance": 115570,
+    "idEvenement": 29121,
+    "dateHeure": "2023-12-10T20:30:00",
+    "salle": "HL",
     "cycle": [
       [
-        "Sofia Coppola",
+        "Aki Kaurismäki",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 136543,
-        "titre": "Proies",
+        "idFilm": 52386,
+        "titre": "Leningrad Cowboys rencontrent Moïse",
         "art": "Les",
-        "realisateurs": "Sofia Coppola",
-        "annee": 2017
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 1993,
+        "duree": 94,
+        "version": "VOSTF"
       }
     ],
-    "hashEvenement": "f136543"
+    "hashEvenement": "f52386"
+  },
+  {
+    "idSeance": 115621,
+    "idEvenement": 29132,
+    "dateHeure": "2023-12-11T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 100260,
+        "titre": "Total Balalaika Show",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 1994,
+        "duree": 54,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f100260"
+  },
+  {
+    "idSeance": 115620,
+    "idEvenement": 29476,
+    "dateHeure": "2023-12-11T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Sofia Coppola",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 117203,
+        "titre": "Bed, Bath and Beyond",
+        "realisateurs": "Sofia Coppola, Andrew Durham, Ione Skye",
+        "annee": 1996,
+        "duree": 28
+      },
+      {
+        "idFilm": 87818,
+        "titre": "Lick the Star",
+        "realisateurs": "Sofia Coppola",
+        "annee": 1998,
+        "duree": 14
+      }
+    ],
+    "hashEvenement": "f117203f87818"
   },
   {
     "idSeance": 105432,
@@ -1326,25 +1401,51 @@
     "hashEvenement": "f154569"
   },
   {
-    "idSeance": 115459,
-    "idEvenement": 29481,
-    "dateHeure": "2023-12-11T20:30:00",
-    "salle": "GF",
+    "idSeance": 115442,
+    "idEvenement": 29506,
+    "dateHeure": "2023-12-11T20:00:00",
+    "salle": "HL",
     "cycle": [
       [
         "Sofia Coppola",
         "Les films"
       ]
     ],
+    "mention": "Avant-première. Séance présentée par Sofia Coppola",
     "items": [
       {
-        "idFilm": 147225,
-        "titre": "On the Rocks",
+        "idFilm": 154568,
+        "titre": "Priscilla",
         "realisateurs": "Sofia Coppola",
-        "annee": 2019
+        "annee": 2023,
+        "duree": 113
       }
     ],
-    "hashEvenement": "f147225"
+    "hashEvenement": "f154568"
+  },
+  {
+    "idSeance": 115619,
+    "idEvenement": 29117,
+    "dateHeure": "2023-12-11T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 64208,
+        "titre": "Juha",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 1998,
+        "duree": 78,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f64208"
   },
   {
     "idSeance": 105462,
@@ -1570,7 +1671,7 @@
     "items": [
       {
         "idFilm": 34782,
-        "titre": "Extravagant Mr Ruggles",
+        "titre": "Extravagant Mr. Ruggles",
         "art": "L'",
         "realisateurs": "Leo McCarey",
         "annee": 1935,
@@ -1849,9 +1950,57 @@
     "hashEvenement": "f31003"
   },
   {
+    "idSeance": 115600,
+    "idEvenement": 29131,
+    "dateHeure": "2023-12-17T15:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 53131,
+        "titre": "Tiens ton foulard, Tatiana",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 1993,
+        "duree": 65,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f53131"
+  },
+  {
+    "idSeance": 105600,
+    "idEvenement": 29109,
+    "dateHeure": "2023-12-17T17:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 134626,
+        "titre": "Autre côté de l'espoir",
+        "art": "L'",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 2016,
+        "duree": 98,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f134626"
+  },
+  {
     "idSeance": 115168,
     "idEvenement": 29156,
-    "dateHeure": "2023-12-17T17:30:00",
+    "dateHeure": "2023-12-17T17:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1874,57 +2023,9 @@
     "hashEvenement": "f33172"
   },
   {
-    "idSeance": 105600,
-    "idEvenement": 29109,
-    "dateHeure": "2023-12-17T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Aki Kaurismäki",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 134626,
-        "titre": "Autre côté de l'espoir",
-        "art": "L'",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 2016,
-        "duree": 98,
-        "version": "VOSTF"
-      }
-    ],
-    "hashEvenement": "f134626"
-  },
-  {
-    "idSeance": 115169,
-    "idEvenement": 29151,
-    "dateHeure": "2023-12-17T19:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "La comédie hollywoodienne classique, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 34420,
-        "titre": "Ninotchka",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1939,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f34420"
-  },
-  {
     "idSeance": 105601,
     "idEvenement": 29430,
-    "dateHeure": "2023-12-17T20:15:00",
+    "dateHeure": "2023-12-17T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1944,6 +2045,30 @@
       }
     ],
     "hashEvenement": "f154560"
+  },
+  {
+    "idSeance": 115169,
+    "idEvenement": 29151,
+    "dateHeure": "2023-12-17T19:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "La comédie hollywoodienne classique, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34420,
+        "titre": "Ninotchka",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1939,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f34420"
   },
   {
     "idSeance": 105609,
@@ -2210,7 +2335,7 @@
     "items": [
       {
         "idFilm": 34782,
-        "titre": "Extravagant Mr Ruggles",
+        "titre": "Extravagant Mr. Ruggles",
         "art": "L'",
         "realisateurs": "Leo McCarey",
         "annee": 1935,
@@ -2430,7 +2555,7 @@
         "realisateurs": "David Lean",
         "annee": 1944,
         "duree": 96,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -2478,7 +2603,7 @@
         "realisateurs": "David Lean",
         "annee": 1944,
         "duree": 111,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -2960,7 +3085,7 @@
         "realisateurs": "David Lean",
         "annee": 1948,
         "duree": 95,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -3054,13 +3179,13 @@
     "items": [
       {
         "idFilm": 45844,
-        "titre": "Étrangleur Rillington Place",
+        "titre": "Étrangleur de Rillington Place",
         "art": "L'",
         "realisateurs": "Richard Fleischer",
         "annee": 1970,
         "duree": 111,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f45844"
@@ -3083,8 +3208,7 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1941,
         "duree": 83,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f65304"
@@ -3455,10 +3579,10 @@
     "hashEvenement": "f41858"
   },
   {
-    "idSeance": 115320,
+    "idSeance": 115634,
     "idEvenement": 28775,
-    "dateHeure": "2024-01-07T18:00:00",
-    "salle": "HL",
+    "dateHeure": "2024-01-07T17:00:00",
+    "salle": "GF",
     "cycle": [
       [
         "Roberto Rossellini",
@@ -3478,10 +3602,10 @@
     "hashEvenement": "f42449"
   },
   {
-    "idSeance": 115302,
+    "idSeance": 115633,
     "idEvenement": 28980,
     "dateHeure": "2024-01-07T18:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Richard Fleischer",
@@ -3544,7 +3668,9 @@
         "art": "Le",
         "realisateurs": "Richard Fleischer",
         "annee": 1949,
-        "duree": 79
+        "duree": 79,
+        "version": "STF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f31149"
@@ -3769,7 +3895,7 @@
       },
       {
         "idConf": 29470,
-        "titre": "Dialogue avec Alain Bergala",
+        "titre": "Dialogue",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -3795,8 +3921,8 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1959,
         "duree": 103,
-        "version": "VOAutres",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31342"
@@ -3992,7 +4118,7 @@
     "items": [
       {
         "idFilm": 32135,
-        "titre": "Bandido caballero !",
+        "titre": "Bandido caballero!",
         "realisateurs": "Richard Fleischer",
         "annee": 1955,
         "duree": 92,
@@ -4281,6 +4407,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1954,
         "duree": 128,
+        "version": "VO",
         "format": "DCP"
       }
     ],
@@ -4415,7 +4542,7 @@
         "titre": "India",
         "realisateurs": "Roberto Rossellini",
         "annee": 1957,
-        "duree": 95,
+        "duree": 94,
         "format": "35 mm"
       },
       {
@@ -4922,15 +5049,14 @@
         "format": "DCP"
       },
       {
-        "idFilm": 154577,
-        "titre": "Pan",
+        "idFilm": 154576,
+        "titre": "Geronimo",
         "realisateurs": "Frédéric Bayer Azem",
-        "annee": 2013,
-        "duree": 9,
+        "annee": 2014,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f154573f154574f154575f154577"
+    "hashEvenement": "f154573f154574f154575f154576"
   },
   {
     "idSeance": 115356,
@@ -5090,7 +5216,7 @@
     "items": [
       {
         "idConf": 29472,
-        "titre": "« Qui êtes-vous... Claude Miller ? » par Olivier Curchod",
+        "titre": "Qui êtes-vous... Claude Miller ?",
         "sousTitre": "Conférence d'Olivier Curchod",
         "typeConference": "Conférence",
         "duree": 90
@@ -5157,6 +5283,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Luc Béraud",
     "items": [
       {
         "idFilm": 57095,
@@ -5228,6 +5355,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Luc Béraud",
     "items": [
       {
         "idFilm": 50172,
@@ -5365,7 +5493,7 @@
         "annee": 1954,
         "duree": 128,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31103"
@@ -5404,6 +5532,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Luc Béraud",
     "items": [
       {
         "idFilm": 37574,
@@ -5443,8 +5572,8 @@
     "hashEvenement": "f31162"
   },
   {
-    "idSeance": 106668,
-    "idEvenement": 28779,
+    "idSeance": 115627,
+    "idEvenement": 28747,
     "dateHeure": "2024-01-28T14:15:00",
     "salle": "HL",
     "cycle": [
@@ -5455,16 +5584,16 @@
     ],
     "items": [
       {
-        "idFilm": 41995,
-        "titre": "Rome, ville ouverte",
+        "idFilm": 42673,
+        "titre": "Voyage en Italie",
         "realisateurs": "Roberto Rossellini",
-        "annee": 1945,
-        "duree": 98,
+        "annee": 1953,
+        "duree": 88,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f41995"
+    "hashEvenement": "f42673"
   },
   {
     "idSeance": 115370,
@@ -5489,7 +5618,8 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1967,
         "duree": 152,
-        "format": "70 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31119"
@@ -5609,6 +5739,29 @@
       }
     ],
     "hashEvenement": "f29420"
+  },
+  {
+    "idSeance": 106685,
+    "idEvenement": 29518,
+    "dateHeure": "2024-01-29T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Mouloud Aït Liotna"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154571,
+        "titre": "Maison brûle, autant se réchauffer",
+        "art": "La",
+        "realisateurs": "Mouloud Aït Liotna",
+        "annee": 2023,
+        "duree": 42
+      }
+    ],
+    "hashEvenement": "f154571"
   },
   {
     "idSeance": 106684,
@@ -5776,6 +5929,7 @@
         "art": "L'",
         "realisateurs": "Henri Andréani",
         "annee": 1916,
+        "duree": 74,
         "version": "INT. FR.",
         "format": "DCP"
       }
@@ -5956,6 +6110,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Gilles Ciment",
     "items": [
       {
         "idFilm": 154578,
@@ -6264,27 +6419,27 @@
     "hashEvenement": "f154546f67849f50108f67851"
   },
   {
-    "idSeance": 115537,
-    "idEvenement": 29518,
+    "idSeance": 115597,
+    "idEvenement": 29576,
     "dateHeure": "2024-02-05T19:00:00",
     "salle": "JE",
     "cycle": [
       [
         "Aujourd'hui le cinéma",
-        "Mouloud Aït Liotna"
+        "Hommage à Éléonore Faucher"
       ]
     ],
     "items": [
       {
-        "idFilm": 154571,
-        "titre": "Maison brûle, autant se réchauffer",
-        "art": "La",
-        "realisateurs": "Mouloud Aït Liotna",
-        "annee": 2023,
-        "duree": 42
+        "idFilm": 91525,
+        "titre": "Brodeuses",
+        "realisateurs": "Éléonore Faucher",
+        "annee": 2003,
+        "duree": 87,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154571"
+    "hashEvenement": "f91525"
   },
   {
     "idSeance": 115545,
@@ -6475,6 +6630,28 @@
     "hashEvenement": "f113572"
   },
   {
+    "idSeance": 115631,
+    "idEvenement": 29528,
+    "dateHeure": "2024-02-08T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 29528,
+        "titre": "Quand le PCF faisait son cinéma",
+        "sousTitre": "Conférence de Pauline Gallinari et Maxime Grember",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c29528"
+  },
+  {
     "idSeance": 115587,
     "idEvenement": 29572,
     "dateHeure": "2024-02-08T19:00:00",
@@ -6504,7 +6681,7 @@
     "cycle": [
       [
         "Archi Vives",
-        ""
+        "Les films"
       ]
     ],
     "items": [
@@ -6561,7 +6738,8 @@
         "titre": "Douce",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1943,
-        "duree": 104
+        "duree": 104,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46502"
@@ -6609,7 +6787,8 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1941,
-        "duree": 104
+        "duree": 104,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f45989"
@@ -7000,8 +7179,8 @@
     "hashEvenement": "f46035"
   },
   {
-    "idSeance": 107073,
-    "idEvenement": 29306,
+    "idSeance": 115592,
+    "idEvenement": 29295,
     "dateHeure": "2024-02-14T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -7012,17 +7191,16 @@
     ],
     "items": [
       {
-        "idFilm": 36468,
-        "titre": "Cinq mille doigts du docteur T.",
-        "art": "Les",
-        "realisateurs": "Roy Rowland",
-        "annee": 1953,
-        "duree": 88,
-        "version": "VOSTF",
+        "idFilm": 107041,
+        "titre": "Brendan et le secret de Kells",
+        "realisateurs": "Tomm Moore, Nora Twomey",
+        "annee": 2008,
+        "duree": 75,
+        "version": "VF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f36468"
+    "hashEvenement": "f107041"
   },
   {
     "idSeance": 107078,
@@ -7042,7 +7220,8 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1958,
-        "duree": 102
+        "duree": 102,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f46482"
@@ -7091,7 +7270,7 @@
         "realisateurs": "Claude Autant-Lara",
         "annee": 1959,
         "duree": 97,
-        "format": "Numérique"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f46485"
@@ -7207,7 +7386,8 @@
       },
       {
         "idFilm": 41642,
-        "titre": "My Partner Mr Davis = The Mysterious Mr Davis",
+        "titre": "Mysterious Mr. Davis",
+        "art": "The",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1936,
         "duree": 58
@@ -7371,6 +7551,31 @@
     "hashEvenement": "f42508"
   },
   {
+    "idSeance": 115638,
+    "idEvenement": 29051,
+    "dateHeure": "2024-02-17T16:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Boris Barnet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 70816,
+        "titre": "Maison de la rue Troubnaïa",
+        "art": "La",
+        "realisateurs": "Boris Barnet",
+        "annee": 1927,
+        "duree": 65,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f70816"
+  },
+  {
     "idSeance": 115385,
     "idEvenement": 29063,
     "dateHeure": "2024-02-17T16:45:00",
@@ -7420,7 +7625,7 @@
   {
     "idSeance": 107194,
     "idEvenement": 28832,
-    "dateHeure": "2024-02-17T19:00:00",
+    "dateHeure": "2024-02-17T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7435,7 +7640,8 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1963,
-        "duree": 90
+        "duree": 90,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f45981"
@@ -7543,7 +7749,7 @@
         "art": "Les",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1951,
-        "duree": 148,
+        "duree": 28,
         "format": "35 mm"
       }
     ],
@@ -7620,7 +7826,7 @@
         "realisateurs": "Claude Autant-Lara",
         "annee": 1956,
         "duree": 82,
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46280"
@@ -7741,7 +7947,8 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1965,
-        "duree": 110
+        "duree": 110,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46483"
@@ -7782,8 +7989,7 @@
     "items": [
       {
         "idFilm": 46487,
-        "titre": "Nouveau journal d'une femme en blanc = Une femme en blanc se révolte",
-        "art": "Le",
+        "titre": "Nouveau journal d'une femme en blanc",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1966,
         "duree": 115
@@ -7792,8 +7998,8 @@
     "hashEvenement": "f46487"
   },
   {
-    "idSeance": 107252,
-    "idEvenement": 29303,
+    "idSeance": 115593,
+    "idEvenement": 29306,
     "dateHeure": "2024-02-21T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -7804,17 +8010,17 @@
     ],
     "items": [
       {
-        "idFilm": 30512,
-        "titre": "Montagnards sont là",
+        "idFilm": 36468,
+        "titre": "Cinq mille doigts du docteur T.",
         "art": "Les",
-        "realisateurs": "John G. Blystone",
-        "annee": 1937,
-        "duree": 73,
+        "realisateurs": "Roy Rowland",
+        "annee": 1953,
+        "duree": 88,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f30512"
+    "hashEvenement": "f36468"
   },
   {
     "idSeance": 115423,
@@ -7859,7 +8065,8 @@
         "titre": "Georgia",
         "realisateurs": "Arthur Penn",
         "annee": 1981,
-        "version": "VOSTF",
+        "duree": 114,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -7993,7 +8200,8 @@
         "titre": "Vive Henri IV, vive l'amour",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1960,
-        "duree": 121
+        "duree": 121,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46301"
@@ -8245,7 +8453,7 @@
         "realisateurs": "Arthur Penn",
         "annee": 1975,
         "duree": 100,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -8259,6 +8467,10 @@
     "cycle": [
       [
         "Claude Autant-Lara",
+        "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
         "Les films"
       ]
     ],
@@ -8387,7 +8599,7 @@
         "realisateurs": "Arthur Penn",
         "annee": 1968,
         "duree": 111,
-        "version": "VOSTF"
+        "version": "VO"
       }
     ],
     "hashEvenement": "f55621"
@@ -8410,7 +8622,8 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1967,
-        "duree": 110
+        "duree": 110,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f51858"
@@ -8433,11 +8646,61 @@
         "realisateurs": "Arthur Penn",
         "annee": 1995,
         "duree": 94,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
     "hashEvenement": "f35017"
+  },
+  {
+    "idSeance": 107401,
+    "idEvenement": 29622,
+    "dateHeure": "2024-02-26T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Lola Cambourieu et Yann Berlier"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Lola Cambourieu et Yann Berlier",
+    "items": [
+      {
+        "idFilm": 154584,
+        "titre": "Enterrement de vie de jeune fille",
+        "realisateurs": "Lola Cambourieu, Yann Berlier",
+        "annee": 2021,
+        "duree": 30,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154583,
+        "titre": "Enfants perdus",
+        "art": "Les",
+        "realisateurs": "Lola Cambourieu, Yann Berlier",
+        "annee": 2022,
+        "duree": 29,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154585,
+        "titre": "Cousinade",
+        "art": "La",
+        "realisateurs": "Lola Cambourieu, Yann Berlier",
+        "annee": 2020,
+        "duree": 18,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154586,
+        "titre": "Automne malade",
+        "realisateurs": "Yann Berlier, Lola Cambourieu",
+        "annee": 2019,
+        "duree": 30,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154584f154583f154585f154586"
   },
   {
     "idSeance": 115395,
@@ -8457,15 +8720,15 @@
         "realisateurs": "Arthur Penn",
         "annee": 1989,
         "duree": 89,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
     "hashEvenement": "f92314"
   },
   {
-    "idSeance": 115524,
-    "idEvenement": 29295,
+    "idSeance": 115594,
+    "idEvenement": 29303,
     "dateHeure": "2024-02-28T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -8476,16 +8739,17 @@
     ],
     "items": [
       {
-        "idFilm": 107041,
-        "titre": "Brendan et le secret de Kells",
-        "realisateurs": "Tomm Moore, Nora Twomey",
-        "annee": 2008,
-        "duree": 75,
-        "version": "VF",
+        "idFilm": 30512,
+        "titre": "Montagnards sont là",
+        "art": "Les",
+        "realisateurs": "John G. Blystone",
+        "annee": 1937,
+        "duree": 73,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f107041"
+    "hashEvenement": "f30512"
   },
   {
     "idSeance": 115512,
@@ -8582,7 +8846,7 @@
     "hashEvenement": "f35785"
   },
   {
-    "idSeance": 107473,
+    "idSeance": 115598,
     "idEvenement": 29195,
     "dateHeure": "2024-02-29T19:00:00",
     "salle": "JE",
@@ -8598,6 +8862,7 @@
         "titre": "Visions of Eight: The Highest",
         "realisateurs": "Arthur Penn",
         "annee": 1973,
+        "duree": 109,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -8628,7 +8893,7 @@
       },
       {
         "idFilm": 77818,
-        "titre": "En rachachant",
+        "titre": "En rachâchant",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 1982,
         "duree": 7,
@@ -8805,6 +9070,7 @@
         "titre": "Quelque chose d'organique",
         "realisateurs": "Bertrand Bonello",
         "annee": 1998,
+        "duree": 89,
         "version": "VO",
         "format": "35 mm"
       }
@@ -8942,6 +9208,30 @@
     "hashEvenement": "f42655"
   },
   {
+    "idSeance": 107569,
+    "idEvenement": 29381,
+    "dateHeure": "2024-03-03T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Bertrand Bonello",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 85673,
+        "titre": "Tiresia",
+        "realisateurs": "Bertrand Bonello",
+        "annee": 2003,
+        "duree": 117,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f85673"
+  },
+  {
     "idSeance": 115585,
     "idEvenement": 29529,
     "dateHeure": "2024-03-03T19:00:00",
@@ -8975,32 +9265,9 @@
     "hashEvenement": "f39151f39536"
   },
   {
-    "idSeance": 107569,
-    "idEvenement": 29381,
-    "dateHeure": "2024-03-03T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Bertrand Bonello",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 85673,
-        "titre": "Tiresia",
-        "realisateurs": "Bertrand Bonello",
-        "annee": 2003,
-        "version": "VF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f85673"
-  },
-  {
     "idSeance": 107570,
     "idEvenement": 29377,
-    "dateHeure": "2024-03-03T21:30:00",
+    "dateHeure": "2024-03-03T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9013,7 +9280,8 @@
         "idFilm": 142026,
         "titre": "Zombi Child",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2019
+        "annee": 2019,
+        "duree": 101
       }
     ],
     "hashEvenement": "f142026"
@@ -9392,29 +9660,6 @@
     "hashEvenement": "f40401"
   },
   {
-    "idSeance": 107730,
-    "idEvenement": 29060,
-    "dateHeure": "2024-03-09T15:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 40764,
-        "titre": "Tempête sur l'Asie",
-        "realisateurs": "Vsevolod Poudovkine",
-        "annee": 1928,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f40764"
-  },
-  {
     "idSeance": 115561,
     "idEvenement": 29455,
     "dateHeure": "2024-03-09T16:45:00",
@@ -9516,39 +9761,6 @@
     "hashEvenement": "f70848"
   },
   {
-    "idSeance": 115565,
-    "idEvenement": 29458,
-    "dateHeure": "2024-03-09T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Jean-Marie Straub et Danièle Huillet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 61801,
-        "titre": "Du jour au lendemain",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1996,
-        "duree": 61,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 52389,
-        "titre": "Noir péché",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1990,
-        "duree": 42,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f61801f52389"
-  },
-  {
     "idSeance": 115562,
     "idEvenement": 29510,
     "dateHeure": "2024-03-10T14:30:00",
@@ -9598,7 +9810,7 @@
     "hashEvenement": "f94860"
   },
   {
-    "idSeance": 107743,
+    "idSeance": 115602,
     "idEvenement": 29560,
     "dateHeure": "2024-03-10T17:30:00",
     "salle": "HL",
@@ -9656,7 +9868,7 @@
   {
     "idSeance": 115588,
     "idEvenement": 29505,
-    "dateHeure": "2024-03-10T19:15:00",
+    "dateHeure": "2024-03-10T19:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -9687,7 +9899,7 @@
   {
     "idSeance": 107749,
     "idEvenement": 29037,
-    "dateHeure": "2024-03-10T20:00:00",
+    "dateHeure": "2024-03-10T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9707,5 +9919,38 @@
       }
     ],
     "hashEvenement": "f70850"
+  },
+  {
+    "idSeance": 115601,
+    "idEvenement": 29458,
+    "dateHeure": "2024-03-11T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Jean-Marie Straub et Danièle Huillet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 61801,
+        "titre": "Du jour au lendemain",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1996,
+        "duree": 61,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 52389,
+        "titre": "Noir péché",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1990,
+        "duree": 42,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f61801f52389"
   }
 ]
