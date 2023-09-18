@@ -8,6 +8,7 @@
   * Calamari Union  
   * Cinema Laika  
   * Crime et châtiment  
+  * Dogs Have No Hell  
   * Fille aux allumettes (La)  
   * Hamlet Goes Business  
   * Homme sans passé (L')  
@@ -21,14 +22,13 @@
   * Shadows in Paradise  
   * Syndrome du lac Saimaa (Le)  
   * Tasqueiro (O)  
-  * Ten minutes older : The Trumpet : Dogs have no hell  
   * Those Were the Days  
   * Tiens ton foulard, Tatiana  
   * Total Balalaika Show  
   * Valimo  
   * Välittäjä  
   * Vie de bohème (La)  
-  * Visions of Europe : Bico
+  * Visions of Europe: Bico
 
 ## Archi Vives (2)
 
@@ -47,10 +47,10 @@
   * Little Big Man  
   * Mickey One  
   * Missouri Breaks  
-  * Penn and Teller Get Killed: Dead Funny  
+  * Penn & Teller Get Killed  
   * Poursuite impitoyable (La)  
   * Target  
-  * Visions of Eight: The Highest
+  * Visions of Eight
 
 ## Aujourd'hui le cinéma (16)
 
@@ -333,7 +333,7 @@
   * Horrible docteur Orloff (L')  
   * Inferno  
   * Kaïro  
-  * Maison du diable (La)  
+  * Maison du Diable (La)  
   * Masque du démon (Le)  
   * Massacre à la tronçonneuse  
   * Nosferatu le vampire  
@@ -379,7 +379,7 @@
   * Barabbas  
   * Bodyguard  
   * Chanteur de jazz (Le)  
-  * Che !  
+  * Che!  
   * Child of Divorce  
   * Complices de la dernière chance (Les)  
   * Conan le destructeur  
@@ -451,7 +451,7 @@
   * RoGoPaG  
   * Rome, ville ouverte  
   * Santa Brigida  
-  * Sept péchés capitaux : L'Envie (Les)  
+  * Sept péchés capitaux (Les)  
   * Stromboli  
   * Thérèse la vive  
   * Un pilote revient  

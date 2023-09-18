@@ -1,0 +1,79 @@
+{
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "groupe": [
+            {
+              "idEvenement": 28872,
+              "content": [
+                {
+                  "idConf": 28872,
+                  "titre": "De l'essai au documentaire filmé : écrire avec les images des autres",
+                  "sousTitre": "Conférence d'Adrien Dénouette",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Lorsque se présenta l'opportunité d'adapter mon essai sur Jim Carrey en documentaire pour la télévision, je trépignais de concrétiser trois ambitions personnelles : faire un pas vers le cinéma, rendre mon travail accessible au plus grand nombre, et prouver que Jim Carrey avait été l'homme le plus drôle du monde. Deux ans et deux documentaires en images d'archives plus tard (j'en réaliserais un autre, sur Brad Pitt), je mesurais combien j'avais été naïf. Je n'étais pas devenu un « réalisateur », j'avais réalisé un rêve de critique : sélectionner des images dans mes œuvres préférées, afin de montrer au reste du monde qu'il avait eu tort de ne pas les aimer autant que moi. — Adrien Dénouette"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 105034,
+                  "idSeanceAssoc": 105021,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-10-05T17:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            },
+            {
+              "idEvenement": 28599,
+              "content": [
+                {
+                  "idFilm": 152505,
+                  "ordre": 1,
+                  "titre": "Jim Carrey, l'Amérique démasquée",
+                  "realisateurs": "Adrien Dénouette, Thibaut Sève",
+                  "pays": "France",
+                  "annee": 2021,
+                  "duree": 52,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Jim Carrey",
+                    "Lison Daniel"
+                  ]
+                },
+                {
+                  "idFilm": 154477,
+                  "ordre": 2,
+                  "titre": "Brad Pitt, la revanche d'un blond",
+                  "realisateurs": "Adrien Dénouette, Thibaut Sève",
+                  "pays": "France",
+                  "annee": 2022,
+                  "duree": 52,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Brad Pitt"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 105021,
+                  "idSeanceAssoc": 105021,
+                  "typeAssoc": 117,
+                  "dateHeure": "2023-10-05T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

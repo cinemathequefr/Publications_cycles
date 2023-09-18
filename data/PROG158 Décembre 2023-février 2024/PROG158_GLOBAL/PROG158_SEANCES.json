@@ -183,8 +183,7 @@
         "realisateurs": "Aki Kaurismäki",
         "annee": 1987,
         "duree": 86,
-        "version": "VOSTF",
-        "format": "DCP"
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f46177"
@@ -602,8 +601,7 @@
         "realisateurs": "Aki Kaurismäki",
         "annee": 1983,
         "duree": 93,
-        "version": "VOSTF",
-        "format": "DCP"
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f91876"
@@ -678,8 +676,7 @@
         "realisateurs": "Aki Kaurismäki",
         "annee": 1991,
         "duree": 100,
-        "version": "VOSTF",
-        "format": "DCP"
+        "version": "VOSTF"
       },
       {
         "idConf": 29571,
@@ -698,7 +695,7 @@
     "cycle": [
       [
         "Barbet Schroeder",
-        "Films pour la télévision"
+        "Les films"
       ]
     ],
     "items": [
@@ -977,6 +974,10 @@
       [
         "Barbet Schroeder",
         "Les films"
+      ],
+      [
+        "Barbet Schroeder",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -988,9 +989,15 @@
         "duree": 99,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 29309,
+        "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f36477"
+    "hashEvenement": "f36477c29309"
   },
   {
     "idSeance": 107800,
@@ -1037,27 +1044,6 @@
       }
     ],
     "hashEvenement": "c29526"
-  },
-  {
-    "idSeance": 115191,
-    "idEvenement": 29309,
-    "dateHeure": "2023-12-09T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Barbet Schroeder",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29309,
-        "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
-        "typeConference": "Leçon de cinéma",
-        "duree": 90
-      }
-    ],
-    "hashEvenement": "c29309"
   },
   {
     "idSeance": 115482,
@@ -1123,8 +1109,7 @@
         "realisateurs": "Aki Kaurismäki",
         "annee": 1989,
         "duree": 82,
-        "version": "VOSTF",
-        "format": "DCP"
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f46178"
@@ -1653,7 +1638,9 @@
         "art": "Le",
         "realisateurs": "Chris Munger",
         "annee": 1975,
-        "duree": 85
+        "duree": 85,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f154553"
@@ -1828,9 +1815,9 @@
       },
       {
         "idFilm": 86876,
-        "titre": "Ten minutes older : The Trumpet : Dogs have no hell",
+        "titre": "Dogs Have No Hell",
         "realisateurs": "Aki Kaurismäki",
-        "annee": 2001,
+        "annee": 2002,
         "duree": 11,
         "version": "VOSTF",
         "format": "35 mm"
@@ -1855,7 +1842,7 @@
       },
       {
         "idFilm": 105714,
-        "titre": "Visions of Europe : Bico",
+        "titre": "Visions of Europe: Bico",
         "realisateurs": "Aki Kaurismäki",
         "annee": 2004,
         "duree": 5,
@@ -1993,7 +1980,8 @@
         "realisateurs": "Aki Kaurismäki",
         "annee": 2016,
         "duree": 98,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f134626"
@@ -3213,7 +3201,8 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1941,
         "duree": 83,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f65304"
@@ -3768,7 +3757,8 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1962,
         "duree": 97,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f65313"
@@ -5955,7 +5945,7 @@
     "items": [
       {
         "idFilm": 45043,
-        "titre": "Che !",
+        "titre": "Che!",
         "realisateurs": "Richard Fleischer",
         "annee": 1968,
         "duree": 96,
@@ -6167,6 +6157,15 @@
         "format": "35 mm"
       },
       {
+        "idFilm": 65303,
+        "titre": "Thérèse la vive",
+        "realisateurs": "Roberto Rossellini",
+        "annee": 1939,
+        "duree": 15,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
         "idFilm": 65299,
         "titre": "Fantaisie sous-marine",
         "realisateurs": "Roberto Rossellini",
@@ -6176,12 +6175,11 @@
         "format": "35 mm"
       },
       {
-        "idFilm": 65303,
-        "titre": "Thérèse la vive",
+        "idFilm": 126401,
+        "titre": "Santa Brigida",
         "realisateurs": "Roberto Rossellini",
-        "annee": 1939,
-        "duree": 15,
-        "version": "VOSTF",
+        "annee": 1952,
+        "duree": 9,
         "format": "35 mm"
       },
       {
@@ -6194,14 +6192,6 @@
         "format": "DCP"
       },
       {
-        "idFilm": 126401,
-        "titre": "Santa Brigida",
-        "realisateurs": "Roberto Rossellini",
-        "annee": 1952,
-        "duree": 9,
-        "format": "35 mm"
-      },
-      {
         "idFilm": 65318,
         "titre": "Force et la raison : Entretien avec Salvador Allende",
         "art": "La",
@@ -6212,7 +6202,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f65302f65299f65303f41976f126401f65318"
+    "hashEvenement": "f65302f65303f65299f126401f41976f65318"
   },
   {
     "idSeance": 115340,
@@ -6610,17 +6600,17 @@
     ],
     "items": [
       {
-        "idFilm": 41997,
-        "titre": "Sept péchés capitaux : L'Envie",
+        "idFilm": 57659,
+        "titre": "Sept péchés capitaux",
         "art": "Les",
-        "realisateurs": "Roberto Rossellini",
+        "realisateurs": "Eduardo De Filippo, Jean Dréville, Yves Allégret, [etc.]",
         "annee": 1951,
-        "duree": 140,
+        "duree": 148,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f41997"
+    "hashEvenement": "f57659"
   },
   {
     "idSeance": 106837,
@@ -6951,7 +6941,7 @@
     "items": [
       {
         "idFilm": 37485,
-        "titre": "Maison du diable",
+        "titre": "Maison du Diable",
         "art": "La",
         "realisateurs": "Robert Wise",
         "annee": 1963,
@@ -8161,7 +8151,7 @@
         "idFilm": 35810,
         "titre": "Miracle en Alabama",
         "realisateurs": "Arthur Penn",
-        "annee": 1961,
+        "annee": 1962,
         "duree": 106,
         "version": "VOSTF",
         "format": "DCP"
@@ -8239,7 +8229,7 @@
         "titre": "Gaucher",
         "art": "Le",
         "realisateurs": "Arthur Penn",
-        "annee": 1957,
+        "annee": 1958,
         "duree": 102,
         "version": "VOSTF",
         "format": "35 mm"
@@ -8287,7 +8277,7 @@
         "idFilm": 35647,
         "titre": "Mickey One",
         "realisateurs": "Arthur Penn",
-        "annee": 1964,
+        "annee": 1965,
         "duree": 93,
         "version": "VOSTF",
         "format": "DCP"
@@ -8371,7 +8361,7 @@
         "idFilm": 55882,
         "titre": "Little Big Man",
         "realisateurs": "Arthur Penn",
-        "annee": 1969,
+        "annee": 1970,
         "duree": 147,
         "format": "DCP"
       }
@@ -8612,7 +8602,7 @@
         "idFilm": 55621,
         "titre": "Alice's Restaurant",
         "realisateurs": "Arthur Penn",
-        "annee": 1968,
+        "annee": 1969,
         "duree": 111,
         "version": "VO"
       }
@@ -8659,7 +8649,7 @@
         "idFilm": 35017,
         "titre": "Inside",
         "realisateurs": "Arthur Penn",
-        "annee": 1995,
+        "annee": 1996,
         "duree": 94,
         "version": "VOSTF",
         "format": "35 mm"
@@ -8754,7 +8744,7 @@
     "items": [
       {
         "idFilm": 92314,
-        "titre": "Penn and Teller Get Killed: Dead Funny",
+        "titre": "Penn & Teller Get Killed",
         "realisateurs": "Arthur Penn",
         "annee": 1989,
         "duree": 89,
@@ -8829,7 +8819,7 @@
         "idFilm": 35632,
         "titre": "Target",
         "realisateurs": "Arthur Penn",
-        "annee": 1984,
+        "annee": 1985,
         "duree": 117,
         "version": "VOSTF",
         "format": "35 mm"
@@ -8876,7 +8866,7 @@
         "idFilm": 35785,
         "titre": "Froid comme la mort",
         "realisateurs": "Arthur Penn",
-        "annee": 1986,
+        "annee": 1987,
         "duree": 101,
         "version": "VO"
       }
@@ -8896,16 +8886,16 @@
     ],
     "items": [
       {
-        "idFilm": 127715,
-        "titre": "Visions of Eight: The Highest",
-        "realisateurs": "Arthur Penn",
+        "idFilm": 70994,
+        "titre": "Visions of Eight",
+        "realisateurs": "Jim Clark, Miloš Forman, Kon Ichikawa, Claude Lelouch, Iouri Ozerov, Arthur Penn, Michael Pfleghar, John Schlesinger, Mai Zetterling",
         "annee": 1973,
         "duree": 109,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f127715"
+    "hashEvenement": "f70994"
   },
   {
     "idSeance": 115424,
@@ -8921,6 +8911,14 @@
     "mention": "Ouverture de la rétrospective",
     "items": [
       {
+        "idFilm": 77818,
+        "titre": "En rachâchant",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1982,
+        "duree": 7,
+        "format": "35 mm"
+      },
+      {
         "idFilm": 39503,
         "titre": "Amerika, rapports de classe",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
@@ -8928,17 +8926,9 @@
         "duree": 127,
         "version": "VOSTF",
         "format": "35 mm"
-      },
-      {
-        "idFilm": 77818,
-        "titre": "En rachâchant",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1982,
-        "duree": 7,
-        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f39503f77818"
+    "hashEvenement": "f77818f39503"
   },
   {
     "idSeance": 115420,
@@ -9580,23 +9570,23 @@
     ],
     "items": [
       {
-        "idFilm": 54556,
-        "titre": "Trop tôt, trop tard",
-        "realisateurs": "Danièle Huillet, Jean-Marie Straub",
-        "annee": 1980,
-        "duree": 104,
-        "format": "16 mm"
-      },
-      {
         "idFilm": 86159,
         "titre": "Toute révolution est un coup de dés",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 1977,
         "duree": 10,
         "format": "35 mm"
+      },
+      {
+        "idFilm": 54556,
+        "titre": "Trop tôt, trop tard",
+        "realisateurs": "Danièle Huillet, Jean-Marie Straub",
+        "annee": 1980,
+        "duree": 104,
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f54556f86159"
+    "hashEvenement": "f86159f54556"
   },
   {
     "idSeance": 115557,
@@ -9989,14 +9979,6 @@
     ],
     "items": [
       {
-        "idFilm": 104733,
-        "titre": "Itinéraire de Jean Bricard",
-        "realisateurs": "Danièle Huillet, Jean-Marie Straub",
-        "annee": 2007,
-        "duree": 40,
-        "format": "35 mm"
-      },
-      {
         "idFilm": 100031,
         "titre": "Ces rencontres avec eux",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
@@ -10004,9 +9986,17 @@
         "duree": 68,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idFilm": 104733,
+        "titre": "Itinéraire de Jean Bricard",
+        "realisateurs": "Danièle Huillet, Jean-Marie Straub",
+        "annee": 2007,
+        "duree": 40,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f104733f100031"
+    "hashEvenement": "f100031f104733"
   },
   {
     "idSeance": 107748,
@@ -10100,15 +10090,6 @@
     ],
     "items": [
       {
-        "idFilm": 61801,
-        "titre": "Du jour au lendemain",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1996,
-        "duree": 61,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
         "idFilm": 52389,
         "titre": "Noir péché",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
@@ -10116,8 +10097,17 @@
         "duree": 42,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idFilm": 61801,
+        "titre": "Du jour au lendemain",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1996,
+        "duree": 61,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f61801f52389"
+    "hashEvenement": "f52389f61801"
   }
 ]
