@@ -10,6 +10,7 @@
   * Crime et châtiment  
   * Dogs Have No Hell  
   * Fille aux allumettes (La)  
+  * Fonderie (La)  
   * Hamlet Goes Business  
   * Homme sans passé (L')  
   * J'ai engagé un tueur  
@@ -25,7 +26,6 @@
   * Those Were the Days  
   * Tiens ton foulard, Tatiana  
   * Total Balalaika Show  
-  * Valimo  
   * Välittäjä  
   * Vie de bohème (La)  
   * Visions of Europe: Bico
@@ -259,7 +259,7 @@
   * Verte moisson (La)  
   * Voyage fantastique de marius (Le)
 
-## Jean-Marie Straub et Danièle Huillet (26)
+## Jean-Marie Straub et Danièle Huillet (25)
 
   * Amerika, rapports de classe  
   * Antigone  
@@ -272,7 +272,6 @@
   * Fiancé, la comédienne et le maquereau (Le)  
   * Fortini/Cani  
   * Introduction à la « Musique d'accompagnement pour une scène de film » d'Arnold Schoenberg  
-  * Itinéraire de Jean Bricard  
   * Leçons d'histoire  
   * Lothringen  
   * Machorka Muff  

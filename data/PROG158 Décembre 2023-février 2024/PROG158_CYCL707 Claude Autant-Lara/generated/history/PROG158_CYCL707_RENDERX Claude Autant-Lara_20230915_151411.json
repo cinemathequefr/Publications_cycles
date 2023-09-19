@@ -200,25 +200,52 @@
           ]
         },
         {
-          "idFilm": 46502,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 29572,
+              "content": [
+                {
+                  "idConf": 29572,
+                  "titre": "Conférence Autant-Lara",
+                  "sousTitre": "Conférence ",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 115587,
+                  "idSeanceAssoc": 115335,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-02-08T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 46502,
-              "ordre": 1,
-              "titre": "Douce",
-              "realisateurs": "Claude Autant-Lara",
-              "pays": "France",
-              "annee": 1943,
-              "duree": 104,
-              "version": "",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115335,
-              "dateHeure": "2024-02-08T21:15:00",
-              "idSalle": "GF"
+              "content": [
+                {
+                  "idFilm": 46502,
+                  "ordre": 1,
+                  "titre": "Douce",
+                  "realisateurs": "Claude Autant-Lara",
+                  "pays": "France",
+                  "annee": 1943,
+                  "duree": 104,
+                  "version": "",
+                  "format": "DCP"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 115335,
+                  "idSeanceAssoc": 115335,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-02-08T21:15:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -900,31 +927,12 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
-          "idConf": 29572,
-          "content": [
-            {
-              "idConf": 29572,
-              "titre": "« Qui êtes-vous... Claude Autant-Lara ? » par Guillaume Vernet",
-              "sousTitre": "Conférence de Guillaume Vernet",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115587,
-              "dateHeure": "2024-02-08T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idConf": 29573,
           "content": [
             {
               "idConf": 29573,
-              "titre": "Dialogue avec Guillaume Vernet",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Joël Daire"
+              "titre": "Film + Dialogue Autant-Lara",
+              "typeConference": "Dialogue"
             }
           ],
           "seances": [

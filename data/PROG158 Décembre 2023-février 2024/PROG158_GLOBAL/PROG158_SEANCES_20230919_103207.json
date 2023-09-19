@@ -128,7 +128,7 @@
     "cycle": [
       [
         "Barbet Schroeder",
-        "Autour de Barbet Schroeder"
+        "Les films"
       ]
     ],
     "items": [
@@ -410,9 +410,8 @@
         "art": "L'",
         "realisateurs": "Barbet Schroeder",
         "annee": 1997,
-        "duree": 99,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "duree": 100,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f29157"
@@ -915,9 +914,7 @@
         "art": "Les",
         "realisateurs": "Sofia Coppola",
         "annee": 2017,
-        "duree": 95,
-        "version": "VO",
-        "format": "DCP"
+        "duree": 95
       }
     ],
     "hashEvenement": "f136543"
@@ -1409,8 +1406,7 @@
         "titre": "Priscilla",
         "realisateurs": "Sofia Coppola",
         "annee": 2023,
-        "duree": 113,
-        "format": "DCP"
+        "duree": 113
       }
     ],
     "hashEvenement": "f154568"
@@ -1838,9 +1834,8 @@
         "format": "DCP"
       },
       {
-        "idFilm": 102166,
-        "titre": "Fonderie",
-        "art": "La",
+        "idFilm": 154566,
+        "titre": "Valimo",
         "realisateurs": "Aki Kaurismäki",
         "annee": 2006,
         "duree": 3,
@@ -1866,7 +1861,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154567f100255f86876f154565f102166f105714f100261"
+    "hashEvenement": "f154567f100255f86876f154565f154566f105714f100261"
   },
   {
     "idSeance": 105583,
@@ -1879,7 +1874,6 @@
         "Hommage à Jean-Loup Dabadie"
       ]
     ],
-    "mention": "Séance présentée par Christophe Tardieu",
     "items": [
       {
         "idFilm": 50994,
@@ -3845,27 +3839,6 @@
     "hashEvenement": "f31162"
   },
   {
-    "idSeance": 115674,
-    "idEvenement": 29451,
-    "dateHeure": "2024-01-10T22:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Richard Fleischer",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29451,
-        "titre": "Dialogue avec Jean-François Rauger",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29451"
-  },
-  {
     "idSeance": 115308,
     "idEvenement": 28996,
     "dateHeure": "2024-01-11T18:00:00",
@@ -3917,7 +3890,7 @@
       },
       {
         "idConf": 29470,
-        "titre": "Dialogue avec Alain Bergala",
+        "titre": "Dialogue",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -4889,6 +4862,10 @@
       [
         "Richard Fleischer",
         "Les films"
+      ],
+      [
+        "Richard Fleischer",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -4901,9 +4878,15 @@
         "duree": 103,
         "version": "VO",
         "format": "35 mm"
+      },
+      {
+        "idConf": 29451,
+        "titre": "Dialogue avec Jean-François Rauger",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f31767"
+    "hashEvenement": "f31767c29451"
   },
   {
     "idSeance": 115365,
@@ -4926,27 +4909,6 @@
       }
     ],
     "hashEvenement": "f50527"
-  },
-  {
-    "idSeance": 115673,
-    "idEvenement": 29641,
-    "dateHeure": "2024-01-21T16:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Richard Fleischer",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29641,
-        "titre": "Dialogue avec Bertrand Bonello",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29641"
   },
   {
     "idSeance": 115355,
@@ -5727,25 +5689,6 @@
       }
     ],
     "hashEvenement": "f43151"
-  },
-  {
-    "idSeance": 115675,
-    "idEvenement": 29642,
-    "dateHeure": "2024-01-28T19:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Claude Miller",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29642,
-        "titre": "[Sans titre]"
-      }
-    ],
-    "hashEvenement": "c29642"
   },
   {
     "idSeance": 115367,
@@ -6730,8 +6673,8 @@
     "items": [
       {
         "idConf": 29572,
-        "titre": "« Qui êtes-vous... Claude Autant-Lara ? » par Guillaume Vernet",
-        "sousTitre": "Conférence de Guillaume Vernet",
+        "titre": "Conférence Autant-Lara",
+        "sousTitre": "Conférence ",
         "typeConference": "Conférence",
         "duree": 90
       }
@@ -7117,7 +7060,7 @@
     "items": [
       {
         "idConf": 29573,
-        "titre": "Dialogue avec Guillaume Vernet",
+        "titre": "Dialogue Autant-Lara",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -7543,6 +7486,10 @@
       [
         "Boris Barnet",
         "Les films"
+      ],
+      [
+        "Boris Barnet",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -7554,9 +7501,15 @@
         "duree": 96,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 29485,
+        "titre": "Dialogue avec Bernard Eisenschitz",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f40600"
+    "hashEvenement": "f40600c29485"
   },
   {
     "idSeance": 107193,
@@ -7605,27 +7558,6 @@
       }
     ],
     "hashEvenement": "f42508"
-  },
-  {
-    "idSeance": 115461,
-    "idEvenement": 29485,
-    "dateHeure": "2024-02-17T16:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29485,
-        "titre": "Dialogue avec Bernard Eisenschitz",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29485"
   },
   {
     "idSeance": 115638,
@@ -8365,6 +8297,10 @@
       [
         "Boris Barnet",
         "Les films"
+      ],
+      [
+        "Boris Barnet",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -8377,9 +8313,15 @@
         "duree": 65,
         "version": "VO",
         "format": "DCP"
+      },
+      {
+        "idConf": 29486,
+        "titre": "Dialogue avec Bernard Eisenschitz",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f70816"
+    "hashEvenement": "f70816c29486"
   },
   {
     "idSeance": 115414,
@@ -8405,27 +8347,6 @@
       }
     ],
     "hashEvenement": "f44468"
-  },
-  {
-    "idSeance": 115462,
-    "idEvenement": 29486,
-    "dateHeure": "2024-02-24T15:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29486,
-        "titre": "Dialogue avec Bernard Eisenschitz",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29486"
   },
   {
     "idSeance": 115399,
@@ -10068,9 +9989,17 @@
         "duree": 68,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idFilm": 104733,
+        "titre": "Itinéraire de Jean Bricard",
+        "realisateurs": "Danièle Huillet, Jean-Marie Straub",
+        "annee": 2007,
+        "duree": 40,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f100031"
+    "hashEvenement": "f100031f104733"
   },
   {
     "idSeance": 107748,

@@ -215,8 +215,6 @@
             "Georges Franju"
           ],
           "dureeSeance": 135,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 115587,
           "idCategorie": 3121,
           "idEvenement": 28812,
           "typeEvenement": 13,
@@ -990,26 +988,6 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 115587,
-          "dateHeure": "2024-02-08T19:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 90,
-          "typeAssoc": 117,
-          "idSeanceAssoc": 115335,
-          "idCategorie": 3221,
-          "idEvenement": 29572,
-          "typeEvenement": 14,
-          "idTypeConference": 55,
-          "typeConference": "Conférence",
-          "titre": "Conférence Autant-Lara",
-          "sousTitre": "Conférence ",
-          "duree": 90,
-          "textes": []
-        },
-        {
           "idSeance": 115584,
           "dateHeure": "2024-02-11T16:15:00",
           "idSalle": [
@@ -1022,9 +1000,50 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + Dialogue Autant-Lara",
+          "titre": "Dialogue avec Guillaume Vernet",
           "duree": 60,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Guillaume Vernet",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Joël Daire",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Joël Daire"
+        },
+        {
+          "idSeance": 115587,
+          "dateHeure": "2024-02-08T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3221,
+          "idEvenement": 29572,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "« Qui êtes-vous... Claude Autant-Lara ? » par Guillaume Vernet",
+          "sousTitre": "Conférence de Guillaume Vernet",
+          "duree": 90,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Guillaume Vernet",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []
