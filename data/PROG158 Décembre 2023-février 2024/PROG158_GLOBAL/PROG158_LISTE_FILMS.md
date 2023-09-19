@@ -6,7 +6,7 @@
   * Au loin s'en vont les nuages  
   * Autre côté de l'espoir (L')  
   * Calamari Union  
-  * Cinema Laika  
+  * Cinéma Laika  
   * Crime et châtiment  
   * Dogs Have No Hell  
   * Fille aux allumettes (La)  

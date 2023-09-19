@@ -979,6 +979,10 @@
       [
         "Barbet Schroeder",
         "Les films"
+      ],
+      [
+        "Barbet Schroeder",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -990,9 +994,15 @@
         "duree": 99,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 29309,
+        "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f36477"
+    "hashEvenement": "f36477c29309"
   },
   {
     "idSeance": 107800,
@@ -1039,27 +1049,6 @@
       }
     ],
     "hashEvenement": "c29526"
-  },
-  {
-    "idSeance": 115191,
-    "idEvenement": 29309,
-    "dateHeure": "2023-12-09T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Barbet Schroeder",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29309,
-        "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
-        "typeConference": "Leçon de cinéma",
-        "duree": 90
-      }
-    ],
-    "hashEvenement": "c29309"
   },
   {
     "idSeance": 115482,
@@ -1584,7 +1573,7 @@
     "items": [
       {
         "idFilm": 154545,
-        "titre": "Cinéma Laika",
+        "titre": "Cinema Laika",
         "realisateurs": "Veljko Vidak",
         "annee": 2023
       }
@@ -5753,9 +5742,7 @@
     "items": [
       {
         "idConf": 29642,
-        "titre": "Dialogue avec Thibault Bruttin",
-        "typeConference": "Dialogue",
-        "duree": 60
+        "titre": "[Sans titre]"
       }
     ],
     "hashEvenement": "c29642"

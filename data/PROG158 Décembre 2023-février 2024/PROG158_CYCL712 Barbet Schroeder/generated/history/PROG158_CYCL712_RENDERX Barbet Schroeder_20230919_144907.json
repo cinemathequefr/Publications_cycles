@@ -64,32 +64,49 @@
           ]
         },
         {
-          "idFilm": 36477,
-          "content": [
+          "groupe": [
             {
               "idFilm": 36477,
-              "ordre": 1,
-              "titre": "Barfly",
-              "realisateurs": "Barbet Schroeder",
-              "pays": "États-Unis",
-              "annee": 1987,
-              "duree": 99,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Faye Dunaway",
-                "Mickey Rourke",
-                "Alice Krige"
-              ],
-              "isFocus": true,
-              "miniTexte": "Bukowski ne fait qu'une très courte apparition dans _Barfly_, discret pilier de bar sifflant un whisky, mais son esprit, sa poésie et son verbe imbibent le film de Schroeder. Jamais misérabiliste, le cinéaste prend le parti de filmer ses clochards célestes avec la grâce réservée aux anges : dès les premiers plans, sa caméra flotte dans de longs mouvements éthérés, sublimés par la photographie chaude de Robby Müller (_L'Ami américain_). Faye Dunaway, tristement abandonnée par Hollywood dans les années 80, est bouleversante, tandis qu'à ses côtés, Mickey Rourke, drôle, pathétique et déchirant dans la même seconde, trouve le rôle de sa vie."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 36477,
+                  "ordre": 1,
+                  "titre": "Barfly",
+                  "realisateurs": "Barbet Schroeder",
+                  "pays": "États-Unis",
+                  "annee": 1987,
+                  "duree": 99,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Faye Dunaway",
+                    "Mickey Rourke",
+                    "Alice Krige"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Bukowski ne fait qu'une très courte apparition dans _Barfly_, discret pilier de bar sifflant un whisky, mais son esprit, sa poésie et son verbe imbibent le film de Schroeder. Jamais misérabiliste, le cinéaste prend le parti de filmer ses clochards célestes avec la grâce réservée aux anges : dès les premiers plans, sa caméra flotte dans de longs mouvements éthérés, sublimés par la photographie chaude de Robby Müller (_L'Ami américain_). Faye Dunaway, tristement abandonnée par Hollywood dans les années 80, est bouleversante, tandis qu'à ses côtés, Mickey Rourke, drôle, pathétique et déchirant dans la même seconde, trouve le rôle de sa vie."
+                }
+              ]
+            },
             {
-              "idSeance": 115612,
-              "dateHeure": "2023-12-09T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 29309,
+              "content": [
+                {
+                  "idConf": 29309,
+                  "ordre": 2,
+                  "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma",
+                  "mentionAnimation": "Animée par Frédéric Bonnaud et Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 115612,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-12-09T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -684,30 +701,6 @@
               "idSeance": 115460,
               "dateHeure": "2023-11-30T20:30:00",
               "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 29309,
-          "content": [
-            {
-              "idConf": 29309,
-              "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma",
-              "mentionAnimation": "Animée par Frédéric Bonnaud et Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115191,
-              "dateHeure": "2023-12-09T16:15:00",
-              "idSalle": "HL"
             }
           ]
         }
