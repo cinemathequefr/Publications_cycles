@@ -52,7 +52,7 @@
   * Target  
   * Visions of Eight
 
-## Aujourd'hui le cinéma (24)
+## Aujourd'hui le cinéma (25)
 
   * À mon seul désir  
   * Auge del humano 3 (El)  
@@ -67,6 +67,7 @@
   * Cousinade (La)  
   * Dans la tête un orage  
   * Défaite du rouge-gorge (La)  
+  * Des majorettes dans l'espace  
   * Enfants perdus (Les)  
   * Enterrement de vie de jeune fille  
   * Ficelles (Les)  
@@ -206,7 +207,7 @@
   * Vittel  
   * Vive Henri IV, vive l'amour
 
-## Claude Miller (25)
+## Claude Miller (24)
 
   * Accompagnatrice (L')  
   * Betty Fisher et autres histoires  
@@ -217,7 +218,6 @@
   * Dites-lui que je l'aime  
   * Effrontée (L')  
   * Garde à vue  
-  * Heures blanches (Les)  
   * Je suis heureux que ma mère soit vivante  
   * Juliet dans Paris  
   * Les Transmissions de la division 59  
@@ -374,6 +374,13 @@
   * Super 8  
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous
+
+## Parlons cinéma... avec Bertrand Bonello (4)
+
+  * Birth  
+  * Clean With Me (After Dark)  
+  * Terreur sur la ligne  
+  * Un flic
 
 ## Richard Fleischer (46)
 

@@ -110,7 +110,7 @@
         "format": "35 mm"
       }
     ],
-    "mention": "Séance présentée par Luc Béraud"
+    "mention": "Séance présentée par Luc Béraud, Annie Miller et Jean-Louis Livi"
   },
   {
     "idCategorie": 3138,
@@ -157,32 +157,9 @@
   {
     "idCategorie": 3138,
     "typeEvenement": 13,
-    "idEvenement": 29067,
-    "idSeance": 106658,
-    "dateHeure": "2024-01-27T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 154540,
-        "ordre": 1,
-        "idSeance": 106658,
-        "idCopie": 26455,
-        "duree": 0,
-        "version": "",
-        "format": "Vidéo"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3138,
-    "typeEvenement": 13,
     "idEvenement": 28939,
-    "idSeance": 115280,
-    "dateHeure": "2024-01-27T20:00:00",
+    "idSeance": 115709,
+    "dateHeure": "2024-01-27T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -192,14 +169,13 @@
       {
         "idFilm": 37574,
         "ordre": 1,
-        "idSeance": 115280,
+        "idSeance": 115709,
         "idCopie": 26456,
         "duree": 102,
         "version": "",
         "format": "35 mm"
       }
-    ],
-    "mention": "Séance présentée par Luc Béraud"
+    ]
   },
   {
     "idCategorie": 3138,
@@ -212,6 +188,7 @@
       "Georges Franju"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 50169,
@@ -228,32 +205,17 @@
     "idCategorie": 3195,
     "typeEvenement": 14,
     "idEvenement": 29642,
-    "idSeance": 115675,
-    "dateHeure": "2024-01-28T19:45:00",
+    "idSeance": 106674,
+    "dateHeure": "2024-01-28T18:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
     "dureeSeance": 60,
-    "items": [
-      {}
-    ]
-  },
-  {
-    "idCategorie": 3138,
-    "typeEvenement": 13,
-    "idEvenement": 29352,
-    "idSeance": 115367,
-    "dateHeure": "2024-01-28T20:15:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 50171,
-        "ordre": 1
+        "ordre": 2
       }
     ]
   },
@@ -308,7 +270,7 @@
     "typeEvenement": 13,
     "idEvenement": 28932,
     "idSeance": 106720,
-    "dateHeure": "2024-01-31T18:30:00",
+    "dateHeure": "2024-01-31T18:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -325,14 +287,14 @@
         "format": "35 mm"
       }
     ],
-    "mention": "Séance présentée par Véronique Lange (sous réserve)"
+    "mention": "Séance présentée par Véronique Lange (sous réserve) et Annie Miller"
   },
   {
     "idCategorie": 3138,
     "typeEvenement": 13,
     "idEvenement": 28944,
     "idSeance": 106721,
-    "dateHeure": "2024-01-31T20:45:00",
+    "dateHeure": "2024-01-31T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -395,7 +357,8 @@
         "version": "",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Nathan Miller"
   },
   {
     "idCategorie": 3138,
@@ -576,7 +539,8 @@
         "version": "",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Annie Miller"
   },
   {
     "idCategorie": 3138,
@@ -601,5 +565,23 @@
       }
     ],
     "mention": "Séance présentée par Véronique Lange (sous réserve)"
+  },
+  {
+    "idCategorie": 3138,
+    "typeEvenement": 13,
+    "idEvenement": 29352,
+    "idSeance": 115710,
+    "dateHeure": "2024-02-09T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 50171,
+        "ordre": 1
+      }
+    ]
   }
 ]

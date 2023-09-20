@@ -1,0 +1,110 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Hommage à Jean-Loup Dabadie",
+      "items": [
+        {
+          "groupe": [
+            {
+              "idFilm": 50986,
+              "content": [
+                {
+                  "idFilm": 50986,
+                  "ordre": 1,
+                  "titre": "Un éléphant ça trompe énormément",
+                  "realisateurs": "Yves Robert",
+                  "pays": "France",
+                  "annee": 1976,
+                  "duree": 110,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Jean Rochefort",
+                    "Claude Brasseur",
+                    "Guy Bedos",
+                    "Victor Lanoux"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 29464,
+              "content": [
+                {
+                  "idConf": 29464,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Christophe Tardieu",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 105578,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-12-16T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 50994,
+          "content": [
+            {
+              "idFilm": 50994,
+              "ordre": 1,
+              "titre": "Nous irons tous au paradis",
+              "realisateurs": "Yves Robert",
+              "pays": "France",
+              "annee": 1977,
+              "duree": 110,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Jean Rochefort",
+                "Claude Brasseur",
+                "Guy Bedos",
+                "Victor Lanoux"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105583,
+              "dateHeure": "2023-12-16T19:45:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Christophe Tardieu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 29526,
+          "content": [
+            {
+              "idConf": 29526,
+              "titre": "Séance spectaculaire Méliès : le monde à portée de la main",
+              "typeConference": "Spectacle"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115536,
+              "dateHeure": "2023-12-09T16:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

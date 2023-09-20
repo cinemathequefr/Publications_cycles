@@ -111,21 +111,21 @@
   {
     "idCategorie": 3121,
     "typeEvenement": 13,
-    "idEvenement": 28814,
-    "idSeance": 115343,
+    "idEvenement": 28823,
+    "idSeance": 115712,
     "dateHeure": "2024-02-10T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 46525,
+        "idFilm": 46404,
         "ordre": 1,
-        "idSeance": 115343,
-        "idCopie": 3496,
-        "duree": 112,
+        "idSeance": 115712,
+        "idCopie": 26671,
+        "duree": 0,
         "version": "",
         "format": "35 mm"
       }
@@ -180,21 +180,22 @@
   {
     "idCategorie": 3121,
     "typeEvenement": 13,
-    "idEvenement": 28823,
-    "idSeance": 115363,
+    "idEvenement": 28814,
+    "idSeance": 115711,
     "dateHeure": "2024-02-11T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 46404,
+        "idFilm": 46525,
         "ordre": 1,
-        "idSeance": 115363,
-        "idCopie": 26671,
-        "duree": 0,
+        "idSeance": 115711,
+        "idCopie": 3496,
+        "duree": 112,
         "version": "",
         "format": "35 mm"
       }
@@ -204,15 +205,18 @@
     "idCategorie": 3221,
     "typeEvenement": 14,
     "idEvenement": 29573,
-    "idSeance": 115584,
-    "dateHeure": "2024-02-11T16:15:00",
+    "idSeance": 115711,
+    "dateHeure": "2024-02-11T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 75,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
