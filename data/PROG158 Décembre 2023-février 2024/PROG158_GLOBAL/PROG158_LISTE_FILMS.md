@@ -5,6 +5,7 @@
   * Ariel  
   * Au loin s'en vont les nuages  
   * Autre côté de l'espoir (L')  
+  * Bico  
   * Calamari Union  
   * Cinéma Laika  
   * Crime et châtiment  
@@ -27,8 +28,7 @@
   * Tiens ton foulard, Tatiana  
   * Total Balalaika Show  
   * Välittäjä  
-  * Vie de bohème (La)  
-  * Visions of Europe: Bico
+  * Vie de bohème (La)
 
 ## Archi Vives (2)
 
