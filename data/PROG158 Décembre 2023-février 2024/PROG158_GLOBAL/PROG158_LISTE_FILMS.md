@@ -52,24 +52,32 @@
   * Target  
   * Visions of Eight
 
-## Aujourd'hui le cinéma (16)
+## Aujourd'hui le cinéma (24)
 
   * À mon seul désir  
   * Auge del humano 3 (El)  
   * Automne malade  
+  * Baiser (Le)  
   * Blackbird Blackbird Blackberry  
   * Blue  
   * Brodeuses  
+  * Comme les doigts de la main  
   * Conann  
   * Coraçao vagabundo  
   * Cousinade (La)  
   * Dans la tête un orage  
+  * Défaite du rouge-gorge (La)  
   * Enfants perdus (Les)  
   * Enterrement de vie de jeune fille  
   * Ficelles (Les)  
   * Garçon qui la nuit (Le)  
   * Geronimo  
-  * Prise de l'Élysée (La)
+  * Grosse  
+  * Kitchen  
+  * Peur, petit chasseur (La)  
+  * Prise de l'Élysée (La)  
+  * Tiers providentiel (Le)  
+  * Une souris verte
 
 ## Barbet Schroeder (21)
 

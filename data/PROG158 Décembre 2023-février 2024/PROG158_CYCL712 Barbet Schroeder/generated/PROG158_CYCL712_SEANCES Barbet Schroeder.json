@@ -72,23 +72,23 @@
   {
     "idCategorie": 3146,
     "typeEvenement": 13,
-    "idEvenement": 29079,
-    "idSeance": 115472,
+    "idEvenement": 29083,
+    "idSeance": 115677,
     "dateHeure": "2023-12-01T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 105406,
+        "idFilm": 56826,
         "ordre": 1,
-        "idSeance": 115472,
-        "idCopie": 10089,
-        "duree": 105,
+        "idSeance": 115677,
+        "idCopie": 7879,
+        "duree": 112,
         "version": "",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   },
@@ -310,44 +310,6 @@
     ]
   },
   {
-    "idCategorie": 3146,
-    "typeEvenement": 13,
-    "idEvenement": 29074,
-    "idSeance": 115612,
-    "dateHeure": "2023-12-09T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 36477,
-        "ordre": 1,
-        "idSeance": 115612,
-        "idCopie": 5745,
-        "duree": 99,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3176,
-    "typeEvenement": 14,
-    "idEvenement": 29309,
-    "idSeance": 115191,
-    "dateHeure": "2023-12-09T16:15:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 90,
-    "items": [
-      {}
-    ]
-  },
-  {
     "idCategorie": 3218,
     "typeEvenement": 13,
     "idEvenement": 29475,
@@ -373,23 +335,65 @@
   {
     "idCategorie": 3146,
     "typeEvenement": 13,
-    "idEvenement": 29083,
-    "idSeance": 115466,
+    "idEvenement": 29079,
+    "idSeance": 115676,
     "dateHeure": "2023-12-09T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 56826,
+        "idFilm": 105406,
         "ordre": 1,
-        "idSeance": 115466,
-        "idCopie": 7879,
-        "duree": 112,
+        "idSeance": 115676,
+        "idCopie": 10089,
+        "duree": 105,
         "version": "",
-        "format": "DCP"
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3146,
+    "typeEvenement": 13,
+    "idEvenement": 29074,
+    "idSeance": 115678,
+    "dateHeure": "2023-12-10T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 36477,
+        "ordre": 1,
+        "idSeance": 115678,
+        "idCopie": 5745,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3176,
+    "typeEvenement": 14,
+    "idEvenement": 29309,
+    "idSeance": 115678,
+    "dateHeure": "2023-12-10T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 75,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },

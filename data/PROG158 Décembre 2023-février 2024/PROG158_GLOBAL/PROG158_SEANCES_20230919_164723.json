@@ -230,8 +230,8 @@
     "hashEvenement": "f84561f54212f48399"
   },
   {
-    "idSeance": 115677,
-    "idEvenement": 29083,
+    "idSeance": 115472,
+    "idEvenement": 29079,
     "dateHeure": "2023-12-01T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -242,15 +242,15 @@
     ],
     "items": [
       {
-        "idFilm": 56826,
-        "titre": "Maîtresse",
+        "idFilm": 105406,
+        "titre": "Inju, la bête dans l'ombre",
         "realisateurs": "Barbet Schroeder",
-        "annee": 1975,
-        "duree": 112,
-        "format": "DCP"
+        "annee": 2007,
+        "duree": 105,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f56826"
+    "hashEvenement": "f105406"
   },
   {
     "idSeance": 115525,
@@ -971,26 +971,28 @@
     "hashEvenement": "f51226"
   },
   {
-    "idSeance": 115679,
-    "idEvenement": 29480,
+    "idSeance": 115612,
+    "idEvenement": 29074,
     "dateHeure": "2023-12-09T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Sofia Coppola",
+        "Barbet Schroeder",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 99501,
-        "titre": "Marie-Antoinette",
-        "realisateurs": "Sofia Coppola",
-        "annee": 2005,
-        "duree": 123
+        "idFilm": 36477,
+        "titre": "Barfly",
+        "realisateurs": "Barbet Schroeder",
+        "annee": 1987,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f99501"
+    "hashEvenement": "f36477"
   },
   {
     "idSeance": 107800,
@@ -1039,25 +1041,25 @@
     "hashEvenement": "c29526"
   },
   {
-    "idSeance": 115681,
-    "idEvenement": 29514,
-    "dateHeure": "2023-12-09T16:30:00",
+    "idSeance": 115191,
+    "idEvenement": 29309,
+    "dateHeure": "2023-12-09T16:15:00",
     "salle": "HL",
     "cycle": [
       [
-        "Sofia Coppola",
+        "Barbet Schroeder",
         "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idConf": 29514,
-        "titre": "Sofia Coppola par Sofia Coppola, une leçon de cinéma",
+        "idConf": 29309,
+        "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
         "typeConference": "Leçon de cinéma",
-        "duree": 60
+        "duree": 90
       }
     ],
-    "hashEvenement": "c29514"
+    "hashEvenement": "c29309"
   },
   {
     "idSeance": 115482,
@@ -1129,8 +1131,8 @@
     "hashEvenement": "f46178"
   },
   {
-    "idSeance": 115676,
-    "idEvenement": 29079,
+    "idSeance": 115466,
+    "idEvenement": 29083,
     "dateHeure": "2023-12-09T21:00:00",
     "salle": "GF",
     "cycle": [
@@ -1141,49 +1143,37 @@
     ],
     "items": [
       {
-        "idFilm": 105406,
-        "titre": "Inju, la bête dans l'ombre",
+        "idFilm": 56826,
+        "titre": "Maîtresse",
         "realisateurs": "Barbet Schroeder",
-        "annee": 2007,
-        "duree": 105,
-        "format": "35 mm"
+        "annee": 1975,
+        "duree": 112,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f105406"
+    "hashEvenement": "f56826"
   },
   {
-    "idSeance": 115678,
-    "idEvenement": 29074,
+    "idSeance": 115613,
+    "idEvenement": 29480,
     "dateHeure": "2023-12-10T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Barbet Schroeder",
+        "Sofia Coppola",
         "Les films"
-      ],
-      [
-        "Barbet Schroeder",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 36477,
-        "titre": "Barfly",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1987,
-        "duree": 99,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idConf": 29309,
-        "titre": "Barbet Schroeder par Barbet Schroeder, une leçon de cinéma",
-        "typeConference": "Leçon de cinéma",
-        "duree": 90
+        "idFilm": 99501,
+        "titre": "Marie-Antoinette",
+        "realisateurs": "Sofia Coppola",
+        "annee": 2005,
+        "duree": 123
       }
     ],
-    "hashEvenement": "f36477c29309"
+    "hashEvenement": "f99501"
   },
   {
     "idSeance": 105420,
@@ -1211,6 +1201,27 @@
       }
     ],
     "hashEvenement": "f113254"
+  },
+  {
+    "idSeance": 115522,
+    "idEvenement": 29514,
+    "dateHeure": "2023-12-10T16:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sofia Coppola",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 29514,
+        "titre": "Sofia Coppola par Sofia Coppola, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c29514"
   },
   {
     "idSeance": 105421,
@@ -2089,73 +2100,6 @@
       }
     ],
     "hashEvenement": "f62245"
-  },
-  {
-    "idSeance": 105611,
-    "idEvenement": 29520,
-    "dateHeure": "2023-12-18T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Aujourd'hui le cinéma",
-        "Les 40 ans de l'Agence du court métrage"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 66889,
-        "titre": "Comme les doigts de la main",
-        "realisateurs": "Eric Rochant",
-        "annee": 1984
-      },
-      {
-        "idFilm": 66177,
-        "titre": "Baiser",
-        "art": "Le",
-        "realisateurs": "Pascale Ferran",
-        "annee": 1990
-      },
-      {
-        "idFilm": 98297,
-        "titre": "Défaite du rouge-gorge",
-        "art": "La",
-        "realisateurs": "Valérie Mréjen",
-        "annee": 2001
-      },
-      {
-        "idFilm": 69264,
-        "titre": "Une souris verte",
-        "realisateurs": "Orso Miret",
-        "annee": 1996
-      },
-      {
-        "idFilm": 95414,
-        "titre": "Tiers providentiel",
-        "art": "Le",
-        "realisateurs": "Gérard Frot-Coutaz",
-        "annee": 1985
-      },
-      {
-        "idFilm": 68690,
-        "titre": "Grosse",
-        "realisateurs": "Brigitte Roüan",
-        "annee": 1984
-      },
-      {
-        "idFilm": 96733,
-        "titre": "Kitchen",
-        "realisateurs": "Alice Winocour",
-        "annee": 2004
-      },
-      {
-        "idFilm": 91824,
-        "titre": "Peur, petit chasseur",
-        "art": "La",
-        "realisateurs": "Laurent Achard",
-        "annee": 2003
-      }
-    ],
-    "hashEvenement": "f66889f66177f98297f69264f95414f68690f96733f91824"
   },
   {
     "idSeance": 105610,
@@ -3649,7 +3593,7 @@
   {
     "idSeance": 115634,
     "idEvenement": 28775,
-    "dateHeure": "2024-01-07T17:45:00",
+    "dateHeure": "2024-01-07T17:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3839,9 +3783,9 @@
     "hashEvenement": "f65313"
   },
   {
-    "idSeance": 115685,
-    "idEvenement": 29009,
-    "dateHeure": "2024-01-10T19:00:00",
+    "idSeance": 115429,
+    "idEvenement": 29017,
+    "dateHeure": "2024-01-10T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3851,17 +3795,16 @@
     ],
     "items": [
       {
-        "idFilm": 31767,
-        "titre": "Flics ne dorment pas la nuit",
-        "art": "Les",
+        "idFilm": 46365,
+        "titre": "Mandingo",
         "realisateurs": "Richard Fleischer",
-        "annee": 1972,
-        "duree": 103,
-        "version": "VO",
-        "format": "35 mm"
+        "annee": 1975,
+        "duree": 127,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f31767"
+    "hashEvenement": "f46365"
   },
   {
     "idSeance": 115449,
@@ -3886,6 +3829,31 @@
       }
     ],
     "hashEvenement": "f45110"
+  },
+  {
+    "idSeance": 115307,
+    "idEvenement": 29033,
+    "dateHeure": "2024-01-10T20:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Richard Fleischer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31162,
+        "titre": "Vikings",
+        "art": "Les",
+        "realisateurs": "Richard Fleischer",
+        "annee": 1958,
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f31162"
   },
   {
     "idSeance": 115674,
@@ -4376,28 +4344,29 @@
     "hashEvenement": "f65306"
   },
   {
-    "idSeance": 115687,
-    "idEvenement": 28995,
+    "idSeance": 106325,
+    "idEvenement": 28760,
     "dateHeure": "2024-01-15T18:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Richard Fleischer",
+        "Roberto Rossellini",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 71464,
-        "titre": "Du sang dans la poussière",
-        "realisateurs": "Richard Fleischer",
-        "annee": 1974,
-        "duree": 96,
-        "version": "STF",
+        "idFilm": 65305,
+        "titre": "Homme à la croix",
+        "art": "L'",
+        "realisateurs": "Roberto Rossellini",
+        "annee": 1942,
+        "duree": 74,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f71464"
+    "hashEvenement": "f65305"
   },
   {
     "idSeance": 106327,
@@ -4428,7 +4397,7 @@
   {
     "idSeance": 106326,
     "idEvenement": 28993,
-    "dateHeure": "2024-01-15T20:45:00",
+    "dateHeure": "2024-01-15T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4693,33 +4662,8 @@
     "hashEvenement": "f32588"
   },
   {
-    "idSeance": 106439,
-    "idEvenement": 28760,
-    "dateHeure": "2024-01-19T19:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Roberto Rossellini",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65305,
-        "titre": "Homme à la croix",
-        "art": "L'",
-        "realisateurs": "Roberto Rossellini",
-        "annee": 1942,
-        "duree": 74,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f65305"
-  },
-  {
-    "idSeance": 115686,
-    "idEvenement": 29017,
+    "idSeance": 115325,
+    "idEvenement": 28995,
     "dateHeure": "2024-01-19T20:15:00",
     "salle": "HL",
     "cycle": [
@@ -4730,16 +4674,16 @@
     ],
     "items": [
       {
-        "idFilm": 46365,
-        "titre": "Mandingo",
+        "idFilm": 71464,
+        "titre": "Du sang dans la poussière",
         "realisateurs": "Richard Fleischer",
-        "annee": 1975,
-        "duree": 127,
-        "version": "VOSTF",
-        "format": "DCP"
+        "annee": 1974,
+        "duree": 96,
+        "version": "STF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f46365"
+    "hashEvenement": "f71464"
   },
   {
     "idSeance": 115383,
@@ -4850,8 +4794,8 @@
     "hashEvenement": "f45108"
   },
   {
-    "idSeance": 115684,
-    "idEvenement": 29033,
+    "idSeance": 115315,
+    "idEvenement": 29028,
     "dateHeure": "2024-01-20T18:30:00",
     "salle": "HL",
     "cycle": [
@@ -4862,17 +4806,16 @@
     ],
     "items": [
       {
-        "idFilm": 31162,
-        "titre": "Vikings",
-        "art": "Les",
+        "idFilm": 32162,
+        "titre": "Terreur aveugle",
         "realisateurs": "Richard Fleischer",
-        "annee": 1958,
-        "duree": 116,
+        "annee": 1971,
+        "duree": 89,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f31162"
+    "hashEvenement": "f32162"
   },
   {
     "idSeance": 106479,
@@ -4900,6 +4843,31 @@
     "hashEvenement": "f43161"
   },
   {
+    "idSeance": 115316,
+    "idEvenement": 28989,
+    "dateHeure": "2024-01-20T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Richard Fleischer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31734,
+        "titre": "Complices de la dernière chance",
+        "art": "Les",
+        "realisateurs": "Richard Fleischer",
+        "annee": 1971,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f31734"
+  },
+  {
     "idSeance": 115572,
     "idEvenement": 29354,
     "dateHeure": "2024-01-20T21:00:00",
@@ -4924,33 +4892,8 @@
     "hashEvenement": "f43679"
   },
   {
-    "idSeance": 115316,
-    "idEvenement": 28989,
-    "dateHeure": "2024-01-20T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Richard Fleischer",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 31734,
-        "titre": "Complices de la dernière chance",
-        "art": "Les",
-        "realisateurs": "Richard Fleischer",
-        "annee": 1971,
-        "duree": 95,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f31734"
-  },
-  {
-    "idSeance": 115682,
-    "idEvenement": 29028,
+    "idSeance": 115428,
+    "idEvenement": 29009,
     "dateHeure": "2024-01-21T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -4961,16 +4904,17 @@
     ],
     "items": [
       {
-        "idFilm": 32162,
-        "titre": "Terreur aveugle",
+        "idFilm": 31767,
+        "titre": "Flics ne dorment pas la nuit",
+        "art": "Les",
         "realisateurs": "Richard Fleischer",
-        "annee": 1971,
-        "duree": 89,
-        "version": "VOSTF",
+        "annee": 1972,
+        "duree": 103,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f32162"
+    "hashEvenement": "f31767"
   },
   {
     "idSeance": 115365,
