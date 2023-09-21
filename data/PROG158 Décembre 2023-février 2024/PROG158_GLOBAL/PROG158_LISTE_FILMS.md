@@ -63,7 +63,7 @@
   * Brodeuses  
   * Comme les doigts de la main  
   * Conann  
-  * Coraçao vagabundo  
+  * Coração vagabundo  
   * Cousinade (La)  
   * Dans la tête un orage  
   * Défaite du rouge-gorge (La)  
