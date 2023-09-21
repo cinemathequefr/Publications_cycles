@@ -52,7 +52,7 @@
   * Target  
   * Visions of Eight
 
-## Aujourd'hui le cinéma (25)
+## Aujourd'hui le cinéma (26)
 
   * À mon seul désir  
   * Auge del humano 3 (El)  
@@ -78,6 +78,7 @@
   * Peur, petit chasseur (La)  
   * Prise de l'Élysée (La)  
   * Tiers providentiel (Le)  
+  * undefined  
   * Une souris verte
 
 ## Barbet Schroeder (22)
@@ -135,7 +136,7 @@
   * Exploit d'un éclaireur (L')  
   * Fonte des glaces (La)  
   * Lutteur et le clown (Le)  
-  * Maison de la rue Troubnaïa (La)  
+  * Maison de la place Troubnaïa (La)  
   * Miss Mend  
   * Moscou en octobre  
   * Okraïna  
