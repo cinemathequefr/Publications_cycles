@@ -89,7 +89,7 @@
   * Charles Bukowski Tapes (The)  
   * Collectionneuse (La)  
   * Enjeu (L')  
-  * Général Idi Amin Dada  
+  * Général Idi Amin Dada : Autoportrait  
   * Inju, la bête dans l'ombre  
   * JF partagerait appartement  
   * Kiss of Death  
