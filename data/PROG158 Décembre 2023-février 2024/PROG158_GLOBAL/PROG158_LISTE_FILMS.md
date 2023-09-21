@@ -80,12 +80,13 @@
   * Tiers providentiel (Le)  
   * Une souris verte
 
-## Barbet Schroeder (21)
+## Barbet Schroeder (22)
 
   * Amnesia  
   * Avocat de la terreur (L')  
   * Barfly  
   * Before and After  
+  * Calculs meurtriers  
   * Charles Bukowski Tapes (The)  
   * Collectionneuse (La)  
   * Enjeu (L')  
