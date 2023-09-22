@@ -68,6 +68,7 @@
   * Dans la tête un orage  
   * Défaite du rouge-gorge (La)  
   * Des majorettes dans l'espace  
+  * Enfance nue (L')  
   * Enfants perdus (Les)  
   * Enterrement de vie de jeune fille  
   * Ficelles (Les)  
@@ -78,7 +79,6 @@
   * Peur, petit chasseur (La)  
   * Prise de l'Élysée (La)  
   * Tiers providentiel (Le)  
-  * undefined  
   * Une souris verte
 
 ## Barbet Schroeder (22)
