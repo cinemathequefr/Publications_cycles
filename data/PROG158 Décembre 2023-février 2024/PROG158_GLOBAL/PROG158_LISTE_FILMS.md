@@ -177,7 +177,7 @@
   * Blé en herbe (Le)  
   * Bois des amants (Le)  
   * Bon Dieu sans confession (Le)  
-  * Boul se met au verre...  
+  * Boul se met au verre  
   * Comte de Monte-Cristo (Le)  
   * Diable au corps (Le)  
   * Douce  
