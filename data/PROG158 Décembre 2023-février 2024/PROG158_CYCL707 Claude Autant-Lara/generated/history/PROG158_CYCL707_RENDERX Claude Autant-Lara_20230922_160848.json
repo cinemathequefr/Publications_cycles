@@ -246,60 +246,33 @@
           ]
         },
         {
-          "groupe": [
-            {
-              "idEvenement": 29572,
-              "content": [
-                {
-                  "idConf": 29572,
-                  "titre": "Qui êtes-vous... Claude Autant-Lara ?",
-                  "sousTitre": "Conférence de Guillaume Vernet",
-                  "typeConference": "Conférence"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 115587,
-                  "idSeanceAssoc": 115335,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-02-08T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
-            },
+          "idFilm": 46502,
+          "content": [
             {
               "idFilm": 46502,
-              "content": [
-                {
-                  "idFilm": 46502,
-                  "ordre": 1,
-                  "titre": "Douce",
-                  "realisateurs": "Claude Autant-Lara",
-                  "pays": "France",
-                  "annee": 1943,
-                  "duree": 109,
-                  "version": "",
-                  "format": "35 mm",
-                  "adaptation": "D'après le roman _Douce_ de Michel Davet.",
-                  "generique": [
-                    "Odette Joyeux",
-                    "Roger Pigaut",
-                    "Madeleine Robinson"
-                  ],
-                  "isFocus": true,
-                  "miniTexte": "Un modèle de tragédie romantique, réalisé sous l'Occupation juste après _Le Mariage de Chiffon_ et _Lettres d'amour_, dans lesquels Autant-Lara peaufine sa description des conventions sociales. Dans l'atmosphère sclérosante d'une famille aristocratique du XIX<sup>e</sup> siècle, la critique des divisions de classes se fait plus mordante. Centré sur l'interdépendance entre les maîtres et les valets qui régissent la maison, le récit met au grand jour une dynamique domestique faite de tensions et de manipulations, de fantasmes et de haine sous-jacente. _Douce_ est une œuvre aiguë, féroce, parée des plus beaux atours du mélodrame, interprétée par un quintette d'acteurs impeccables, dont une Odette Joyeux ovationnée, au centre d'une ronde amoureuse désenchantée, où seule la fatalité peut triompher."
-                }
+              "ordre": 1,
+              "titre": "Douce",
+              "realisateurs": "Claude Autant-Lara",
+              "pays": "France",
+              "annee": 1943,
+              "duree": 109,
+              "version": "",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Douce_ de Michel Davet.",
+              "generique": [
+                "Odette Joyeux",
+                "Roger Pigaut",
+                "Madeleine Robinson"
               ],
-              "seances": [
-                {
-                  "idSeance": 115335,
-                  "idSeanceAssoc": 115335,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-02-08T21:15:00",
-                  "idSalle": "GF",
-                  "mentionAssoc": "Film choisi par le conférencier"
-                }
-              ]
+              "isFocus": true,
+              "miniTexte": "Un modèle de tragédie romantique, réalisé sous l'Occupation juste après _Le Mariage de Chiffon_ et _Lettres d'amour_, dans lesquels Autant-Lara peaufine sa description des conventions sociales. Dans l'atmosphère sclérosante d'une famille aristocratique du XIX<sup>e</sup> siècle, la critique des divisions de classes se fait plus mordante. Centré sur l'interdépendance entre les maîtres et les valets qui régissent la maison, le récit met au grand jour une dynamique domestique faite de tensions et de manipulations, de fantasmes et de haine sous-jacente. _Douce_ est une œuvre aiguë, féroce, parée des plus beaux atours du mélodrame, interprétée par un quintette d'acteurs impeccables, dont une Odette Joyeux ovationnée, au centre d'une ronde amoureuse désenchantée, où seule la fatalité peut triompher."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115335,
+              "dateHeure": "2024-02-08T21:15:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1087,6 +1060,30 @@
               "idSeance": 115387,
               "dateHeure": "2024-02-18T14:30:00",
               "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 29572,
+          "content": [
+            {
+              "idConf": 29572,
+              "titre": "Qui êtes-vous... Claude Autant-Lara ?",
+              "sousTitre": "Conférence de Guillaume Vernet",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115587,
+              "dateHeure": "2024-02-08T19:00:00",
+              "idSalle": "GF"
             }
           ]
         }
