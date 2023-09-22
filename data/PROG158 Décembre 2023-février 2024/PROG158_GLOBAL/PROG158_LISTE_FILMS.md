@@ -170,7 +170,7 @@
   * Survivant (Le)  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (37)
+## Claude Autant-Lara (36)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
@@ -200,7 +200,6 @@
   * Occupe-toi d'Amélie  
   * Patates (Les)  
   * Plus vieux métier du monde : Aujourd'hui (Le)  
-  * Plus vieux métier du monde (Le)  
   * Régates de San Francisco (Les)  
   * Rouge et le Noir (Le)  
   * Sept péchés capitaux : L'Orgueil (Les)  
