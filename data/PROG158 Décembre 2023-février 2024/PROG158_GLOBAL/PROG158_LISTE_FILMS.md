@@ -52,7 +52,7 @@
   * Target  
   * Visions of Eight
 
-## Aujourd'hui le cinéma (26)
+## Aujourd'hui le cinéma (27)
 
   * À mon seul désir  
   * Auge del humano 3 (El)  
@@ -73,6 +73,7 @@
   * Enterrement de vie de jeune fille  
   * Ficelles (Les)  
   * Garçon qui la nuit (Le)  
+  * Gasherbrum, la montagne lumineuse  
   * Geronimo  
   * Grosse  
   * Kitchen  
@@ -371,7 +372,7 @@
   * Le Havre  
   * Montagnards sont là (Les)  
   * Qu'elle était verte ma vallée  
-  * Rue Cases Nègres  
+  * Rue Cases-Nègres  
   * Serpent blanc (Le)  
   * Super 8  
   * Voleur de bicyclette (Le)  
