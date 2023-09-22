@@ -1,12 +1,11 @@
 # Liste des films par cycle
 
-## Aki Kaurismäki (27)
+## Aki Kaurismäki (26)
 
   * Ariel  
   * Au loin s'en vont les nuages  
   * Autre côté de l'espoir (L')  
   * Bico  
-  * Calamari Union  
   * Cinéma Laika  
   * Crime et châtiment  
   * Dogs Have No Hell  
