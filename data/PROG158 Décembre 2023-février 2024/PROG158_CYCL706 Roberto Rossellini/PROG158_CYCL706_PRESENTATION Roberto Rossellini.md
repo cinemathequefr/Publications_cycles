@@ -1,3 +1,5 @@
+> Entamée sous la férule du fils de Mussolini, la carrière de Rossellini se libère du carcan fasciste en 1945 avec _Rome, ville ouverte_, une révolution esthétique, nouvelle manière, inédite, de faire du cinéma, de le penser et de penser le monde. Un bouleversement si radical qu'on ne saurait le réduire à la simple étiquette, trop étriquée, de néoréaliste. Sa rencontre avec Ingrid Bergman marque l'une des collaborations artistiques les plus fécondes de l'histoire. Cinq chefs-d'œuvre (dont _Stromboli_, _Europe 51_, _Voyage en Italie_), puis la séparation. Rossellini se fait alors voyageur (_India_), et finit sa carrière à la télévision, qu'il envisage en sage, comme un médium universel et didactique.
+
 # Cinéma, année zéro
 
 Si l'on regarde de près la filmographie de Roberto Rossellini, il est frappant de constater qu'elle compte autant de titres célèbres que de films peu connus du public cinéphile. Le cinéaste, considéré comme le père du néoréalisme et du cinéma moderne, chantre d'une télévision didactique de service public a pris soin de toujours décontenancer ses contemporains et de ne jamais être là où on l'attendait.

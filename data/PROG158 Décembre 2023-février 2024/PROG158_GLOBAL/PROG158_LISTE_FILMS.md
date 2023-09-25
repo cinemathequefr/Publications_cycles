@@ -51,7 +51,7 @@
   * Target  
   * Visions of Eight
 
-## Aujourd'hui le cinéma (27)
+## Aujourd'hui le cinéma (30)
 
   * À mon seul désir  
   * Auge del humano 3 (El)  
@@ -71,13 +71,16 @@
   * Enfants perdus (Les)  
   * Enterrement de vie de jeune fille  
   * Ficelles (Les)  
+  * Four Boys in a Volvo  
   * Garçon qui la nuit (Le)  
   * Gasherbrum, la montagne lumineuse  
   * Geronimo  
   * Grosse  
   * Kitchen  
+  * Oiseau de la nuit (L')  
   * Peur, petit chasseur (La)  
   * Prise de l'Élysée (La)  
+  * This Side of Paradise (Fragments of an Unfinished Biography)  
   * Tiers providentiel (Le)  
   * Une souris verte
 
