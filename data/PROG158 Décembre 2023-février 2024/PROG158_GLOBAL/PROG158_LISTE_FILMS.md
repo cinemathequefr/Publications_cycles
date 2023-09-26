@@ -288,8 +288,8 @@
   * Fortini/Cani  
   * Introduction à la « Musique d'accompagnement pour une scène de film » d'Arnold Schoenberg  
   * Leçons d'histoire  
-  * Lothringen  
-  * Machorka Muff  
+  * Lothringen !  
+  * Machorka-Muff  
   * Moïse et Aaron  
   * Mort d'Empédocle (La)  
   * Noir péché  
@@ -299,7 +299,7 @@
   * Retour du fils prodigue (Le)  
   * Sicilia !  
   * Toute révolution est un coup de dés  
-  * Trop tôt, trop tard  
+  * Trop tôt / Trop tard  
   * Une visite au Louvre
 
 ## La comédie hollywoodienne classique, 25 indispensables (25)
