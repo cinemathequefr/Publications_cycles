@@ -562,6 +562,31 @@
     "hashEvenement": "f36479"
   },
   {
+    "idSeance": 115473,
+    "idEvenement": 29124,
+    "dateHeure": "2023-12-04T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 91820,
+        "titre": "Syndrome du lac Saimaa",
+        "art": "Le",
+        "realisateurs": "Aki Kaurismäki, Mika Kaurismäki",
+        "annee": 1981,
+        "duree": 128,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f91820"
+  },
+  {
     "idSeance": 115286,
     "idEvenement": 29112,
     "dateHeure": "2023-12-04T20:45:00",
@@ -1051,7 +1076,7 @@
         "Barbet Schroeder producteur"
       ]
     ],
-    "mention": "Séance suivie d'une discussion avec Barbet Schroeder",
+    "mention": "Séance présentée par Barbet Schroeder",
     "items": [
       {
         "idFilm": 54250,
@@ -1852,9 +1877,18 @@
         "duree": 5,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idFilm": 100261,
+        "titre": "Välittäjä",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 1996,
+        "duree": 4,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154567f100255f86876f154565f102166f105714"
+    "hashEvenement": "f154567f100255f86876f154565f102166f105714f100261"
   },
   {
     "idSeance": 105583,
@@ -2008,6 +2042,30 @@
       }
     ],
     "hashEvenement": "f33172"
+  },
+  {
+    "idSeance": 105601,
+    "idEvenement": 29430,
+    "dateHeure": "2023-12-17T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154560,
+        "titre": "Likaiset kädet",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 1989,
+        "duree": 67,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f154560"
   },
   {
     "idSeance": 115169,
@@ -4181,7 +4239,7 @@
         "annee": 1956,
         "duree": 92,
         "version": "VOSTF",
-        "format": "Numérique"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f32135"
@@ -5673,7 +5731,7 @@
     "items": [
       {
         "idFilm": 31119,
-        "titre": "Extravagant Docteur Dolittle",
+        "titre": "Extravagant docteur Dolittle",
         "art": "L'",
         "realisateurs": "Richard Fleischer",
         "annee": 1967,
@@ -6143,6 +6201,10 @@
       [
         "Claude Miller",
         "Les films"
+      ],
+      [
+        "Claude Miller",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6154,22 +6216,7 @@
         "annee": 1985,
         "duree": 96,
         "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f50134"
-  },
-  {
-    "idSeance": 115443,
-    "idEvenement": 29474,
-    "dateHeure": "2024-02-03T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Claude Miller",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 29474,
         "titre": "Dialogue avec Charlotte Gainsbourg",
@@ -6177,7 +6224,7 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c29474"
+    "hashEvenement": "f50134c29474"
   },
   {
     "idSeance": 115338,
@@ -6664,7 +6711,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Annie Miller et Pierre-Nicolas Durand",
+    "mention": "Séance présentée par Annie Miller",
     "items": [
       {
         "idFilm": 108671,
@@ -8680,7 +8727,7 @@
     "items": [
       {
         "idFilm": 46279,
-        "titre": "Sylvie et le Fantôme",
+        "titre": "Sylvie et le fantôme",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1945,
         "duree": 102,
@@ -9036,7 +9083,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Mathieu Amalric",
     "items": [
       {
         "idFilm": 104657,

@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Aki Kaurismäki (26)
+## Aki Kaurismäki (23)
 
   * Ariel  
   * Au loin s'en vont les nuages  
@@ -17,16 +17,13 @@
   * Juha  
   * Leningrad Cowboys Go America  
   * Leningrad Cowboys rencontrent Moïse (Les)  
-  * Likaiset kädet  
   * Lumières du faubourg (Les)  
   * Rocky VI  
   * Shadows in Paradise  
-  * Syndrome du lac Saimaa (Le)  
   * Tasqueiro (O)  
   * Those Were the Days  
   * Tiens ton foulard, Tatiana  
   * Total Balalaika Show  
-  * Välittäjä  
   * Vie de bohème (La)
 
 ## Archi Vives (2)
@@ -211,7 +208,7 @@
   * Régates de San Francisco (Les)  
   * Rouge et le Noir (Le)  
   * Sept péchés capitaux : L'Orgueil (Les)  
-  * Sylvie et le fantôme  
+  * Sylvie et le Fantôme  
   * Traversée de Paris (La)  
   * Tu ne tueras point  
   * Vittel  
@@ -413,7 +410,7 @@
   * Énigme du Chicago Express (L')  
   * Étrangleur de Boston (L')  
   * Étrangleur de Rillington Place (L')  
-  * Extravagant docteur Dolittle (L')  
+  * Extravagant Docteur Dolittle (L')  
   * Fille sur la balançoire (La)  
   * Flics ne dorment pas la nuit (Les)  
   * Force de vaincre (La)  

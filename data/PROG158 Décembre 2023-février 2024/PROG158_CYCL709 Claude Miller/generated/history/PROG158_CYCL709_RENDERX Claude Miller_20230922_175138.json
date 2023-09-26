@@ -205,34 +205,50 @@
           ]
         },
         {
-          "idFilm": 50134,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50134,
-              "ordre": 1,
-              "titre": "Effrontée",
-              "art": "L'",
-              "realisateurs": "Claude Miller",
-              "pays": "France-Suisse",
-              "annee": 1985,
-              "duree": 96,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 10,
-              "generique": [
-                "Charlotte Gainsbourg",
-                "Bernadette Lafont",
-                "Julie Glenn"
-              ],
-              "isFocus": true,
-              "miniTexte": "_L'Effrontée_, immense succès de l'année 86, ou l'une des plus belles manières de raconter l'adolescence et ses tourments. Claude Miller en capte les élans, l'audace et la timidité. Filme des instants pleins de grâce (la petite Lulu, espiègle hypocondriaque), ou la gouaille de Bernadette Lafont. Mais surtout Charlotte Gainsbourg. César du meilleur espoir, elle est la révélation du film, marinière et sourire boudeur, gestes indécis et douce rébellion. Éblouie par une jeune pianiste prodige, elle cherche éperdument à approcher ce monde qui n'est pas le sien, et s'accroche à ses rêves le temps d'un été. Un film solaire, un regard poétique et cru sur l'amitié, l'angoisse et les apprentissages. Ou l'éclosion d'une actrice, portée par un tube vivifiant qui reste en tête. _Sarà perché ti amo_..."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 50134,
+                  "ordre": 1,
+                  "titre": "Effrontée",
+                  "art": "L'",
+                  "realisateurs": "Claude Miller",
+                  "pays": "France-Suisse",
+                  "annee": 1985,
+                  "duree": 96,
+                  "version": "",
+                  "format": "DCP",
+                  "ageMinimal": 10,
+                  "generique": [
+                    "Charlotte Gainsbourg",
+                    "Bernadette Lafont",
+                    "Julie Glenn"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "_L'Effrontée_, immense succès de l'année 86, ou l'une des plus belles manières de raconter l'adolescence et ses tourments. Claude Miller en capte les élans, l'audace et la timidité. Filme des instants pleins de grâce (la petite Lulu, espiègle hypocondriaque), ou la gouaille de Bernadette Lafont. Mais surtout Charlotte Gainsbourg. César du meilleur espoir, elle est la révélation du film, marinière et sourire boudeur, gestes indécis et douce rébellion. Éblouie par une jeune pianiste prodige, elle cherche éperdument à approcher ce monde qui n'est pas le sien, et s'accroche à ses rêves le temps d'un été. Un film solaire, un regard poétique et cru sur l'amitié, l'angoisse et les apprentissages. Ou l'éclosion d'une actrice, portée par un tube vivifiant qui reste en tête. _Sarà perché ti amo_..."
+                }
+              ]
+            },
             {
-              "idSeance": 106831,
-              "dateHeure": "2024-02-03T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 29474,
+              "content": [
+                {
+                  "idConf": 29474,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Charlotte Gainsbourg",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 106831,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-02-03T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -372,7 +388,7 @@
               "idSeance": 106836,
               "dateHeure": "2024-02-07T18:30:00",
               "idSalle": "JE",
-              "mention": "Séance présentée par Annie Miller et Pierre-Nicolas Durand"
+              "mention": "Séance présentée par Annie Miller"
             }
           ]
         },
@@ -898,29 +914,6 @@
               "idSeance": 115542,
               "dateHeure": "2024-02-05T18:30:00",
               "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 29474,
-          "content": [
-            {
-              "idConf": 29474,
-              "titre": "Dialogue avec Charlotte Gainsbourg",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115443,
-              "dateHeure": "2024-02-03T16:15:00",
-              "idSalle": "HL"
             }
           ]
         }
