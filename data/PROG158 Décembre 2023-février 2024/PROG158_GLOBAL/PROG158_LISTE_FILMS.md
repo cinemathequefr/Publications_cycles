@@ -46,18 +46,20 @@
   * Little Big Man  
   * Mickey One  
   * Missouri Breaks  
-  * Penn & Teller Get Killed  
+  * Penn and Teller Get Killed  
   * Poursuite impitoyable (La)  
   * Target  
   * Visions of Eight
 
-## Aujourd'hui le cinéma (30)
+## Aujourd'hui le cinéma (35)
 
+  * À la recherche d'Aline  
   * À mon seul désir  
   * Auge del humano 3 (El)  
   * Automne malade  
   * Baiser (Le)  
-  * Blackbird Blackbird Blackberry  
+  * Be at Peace in an Endless Sleep  
+  * Birdsong  
   * Blue  
   * Brodeuses  
   * Comme les doigts de la main  
@@ -77,7 +79,10 @@
   * Geronimo  
   * Grosse  
   * Kitchen  
+  * Merle et la mûre (Le)  
+  * Nous le savions qu'elles étaient belles, les îles  
   * Oiseau de la nuit (L')  
+  * Opus  
   * Peur, petit chasseur (La)  
   * Prise de l'Élysée (La)  
   * This Side of Paradise (Fragments of an Unfinished Biography)  
@@ -130,7 +135,7 @@
   * Tiresia  
   * Zombi Child
 
-## Boris Barnet (19)
+## Boris Barnet (20)
 
   * Alenka  
   * Annouchka  
@@ -138,6 +143,7 @@
   * Concert des maîtres de l'art ukrainien  
   * Exploit d'un éclaireur (L')  
   * Fonte des glaces (La)  
+  * Jeune Fille au carton à chapeau (La)  
   * Lutteur et le clown (Le)  
   * Maison de la place Troubnaïa (La)  
   * Miss Mend  
@@ -355,7 +361,7 @@
   * Sorcellerie à travers les âges (La)  
   * Zombie
 
-## Ma petite Cinémathèque (21)
+## Ma petite Cinémathèque (20)
 
   * Aventure de madame Muir (L')  
   * Belle et le Clochard (La)  
@@ -369,7 +375,6 @@
   * Ernest et Célestine  
   * Fiancées en folie (Les)  
   * Histoire sans fin (L')  
-  * Jeune Fille au carton à chapeau (La)  
   * Le Havre  
   * Montagnards sont là (Les)  
   * Qu'elle était verte ma vallée  
@@ -459,7 +464,7 @@
   * Messie (Le)  
   * Navire blanc (Le)  
   * Nous, les femmes : Ingrid Bergman  
-  * Onze Fioretti de Saint François d'Assise (Les)  
+  * Onze Fioretti de saint François d'Assise (Les)  
   * Où est la liberté ?  
   * Paisà  
   * Peur (La)  
