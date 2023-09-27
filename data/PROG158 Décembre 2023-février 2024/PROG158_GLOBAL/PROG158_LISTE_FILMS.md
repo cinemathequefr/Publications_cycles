@@ -437,7 +437,7 @@
   * Vingt mille lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (39)
+## Roberto Rossellini (38)
 
   * Âge de Cosme de Médicis (L')  
   * Allemagne année zéro  
@@ -452,7 +452,6 @@
   * Dindon insolent (Le)  
   * Europe 51  
   * Évadés de la nuit (Les)  
-  * Fantaisie sous-marine  
   * Force et la raison : Entretien avec Salvador Allende (La)  
   * Homme à la croix (L')  
   * India  
