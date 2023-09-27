@@ -381,10 +381,13 @@
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous
 
-## Parlons cinéma... avec Bertrand Bonello (4)
+## Parlons cinéma... avec Bertrand Bonello (7)
 
   * Birth  
+  * Brumes d'automne  
   * Clean With Me (After Dark)  
+  * De l'origine du XXIe siècle  
+  * Scorpio Rising  
   * Terreur sur la ligne  
   * Un flic
 
@@ -446,8 +449,8 @@
   * Amours d'une moitié de siècle  
   * An un (L')  
   * Augustin d'Hippone  
-  * Beaubourg, centre d'art et de culture Georges Pompidou  
   * Blaise Pascal  
+  * Centre Pompidou (Le)  
   * Descartes  
   * Dindon insolent (Le)  
   * Europe 51  

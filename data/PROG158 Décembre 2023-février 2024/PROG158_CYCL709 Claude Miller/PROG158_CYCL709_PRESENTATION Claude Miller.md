@@ -1,3 +1,5 @@
+> Assistant réalisateur de Carné, Godard ou Truffaut, Claude Miller devient dès ses premiers films l'une des figures du cinéma d'auteur populaire français (_La Meilleure Façon de marcher_, _Garde à vue_). Ses portraits d'adolescence ont marqué les années 80 (_L'Effrontée_, _La Petite Voleuse_) quand la seconde moitié de sa carrière, éclectique, l'a vu se frotter aux nouvelles technologies (_La Chambre des magiciennes_, tourné en DV), en même temps qu'il alignait plusieurs grands succès critiques et publics (_La Classe de neige_, _Un secret_).
+
 # Claude Miller, cinéaste de l'intime
 
 _« Tout ce que tu dis parle de toi : singulièrement quand tu parles d'un autre. » — Paul Valéry_

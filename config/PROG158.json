@@ -212,10 +212,13 @@
       "titreCycle": "Claude Miller",
       "sousCycles": [
         { "titre": "Les films", "cats": [3138], "tri": 1 },
-        { "titre": "Courts métrages", "cats": [3156], "tri": 1 },
+        { "titre": "Courts métrages", "cats": [3156], "tri": 4 },
         { "titre": "Rencontres et conférences", "cats": [3195], "tri": 4 }
       ],
-      "excludeSeances": []
+      "titreEvenements": {
+        "29559": "Films réalisés à l'ECA (Établissement cinématographique des armées)"
+      },
+      "excludeSeances": [115443]
     },
     {
       "idCycleProg": 710,
