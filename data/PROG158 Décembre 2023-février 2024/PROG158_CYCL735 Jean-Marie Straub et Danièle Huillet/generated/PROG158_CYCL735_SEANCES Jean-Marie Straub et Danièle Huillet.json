@@ -121,14 +121,29 @@
     ]
   },
   {
+    "idCategorie": 3231,
+    "typeEvenement": 14,
+    "idEvenement": 29727,
+    "idSeance": 118061,
+    "dateHeure": "2024-03-06T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 3192,
     "typeEvenement": 13,
     "idEvenement": 29497,
     "idSeance": 115555,
-    "dateHeure": "2024-03-06T18:00:00",
+    "dateHeure": "2024-03-06T21:15:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "dureeSeance": 135,
     "items": [
@@ -140,38 +155,6 @@
         "duree": 105,
         "version": "VOSTF",
         "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3192,
-    "typeEvenement": 13,
-    "idEvenement": 29536,
-    "idSeance": 115586,
-    "dateHeure": "2024-03-06T20:15:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 86158,
-        "ordre": 1,
-        "idSeance": 115586,
-        "idCopie": 26785,
-        "duree": 15,
-        "version": "VOSTF",
-        "format": "16 mm"
-      },
-      {
-        "idFilm": 56345,
-        "ordre": 2,
-        "idSeance": 115586,
-        "idCopie": 9117,
-        "duree": 87,
-        "version": "VOSTF",
-        "format": "16 mm"
       }
     ]
   },
@@ -437,7 +420,7 @@
     "typeEvenement": 13,
     "idEvenement": 29458,
     "idSeance": 115601,
-    "dateHeure": "2024-03-11T19:00:00",
+    "dateHeure": "2024-03-11T18:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -461,6 +444,38 @@
         "duree": 61,
         "version": "VOSTF",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3192,
+    "typeEvenement": 13,
+    "idEvenement": 29536,
+    "idSeance": 118058,
+    "dateHeure": "2024-03-11T20:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 86158,
+        "ordre": 1,
+        "idSeance": 118058,
+        "idCopie": 26785,
+        "duree": 15,
+        "version": "VOSTF",
+        "format": "16 mm"
+      },
+      {
+        "idFilm": 56345,
+        "ordre": 2,
+        "idSeance": 118058,
+        "idCopie": 9117,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ]
   }

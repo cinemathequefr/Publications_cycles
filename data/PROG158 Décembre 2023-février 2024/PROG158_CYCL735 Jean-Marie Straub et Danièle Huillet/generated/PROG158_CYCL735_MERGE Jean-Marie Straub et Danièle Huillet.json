@@ -220,7 +220,7 @@
         {
           "idSeance": 115601,
           "ordre": 2,
-          "dateHeure": "2024-03-11T19:00:00",
+          "dateHeure": "2024-03-11T18:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -355,12 +355,12 @@
           ]
         },
         {
-          "idSeance": 115586,
+          "idSeance": 118058,
           "ordre": 1,
-          "dateHeure": "2024-03-06T20:15:00",
+          "dateHeure": "2024-03-11T20:15:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 135,
           "idCategorie": 3192,
@@ -388,12 +388,12 @@
           ]
         },
         {
-          "idSeance": 115586,
+          "idSeance": 118058,
           "ordre": 2,
-          "dateHeure": "2024-03-06T20:15:00",
+          "dateHeure": "2024-03-11T20:15:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 135,
           "idCategorie": 3192,
@@ -532,10 +532,10 @@
         {
           "idSeance": 115555,
           "ordre": 1,
-          "dateHeure": "2024-03-06T18:00:00",
+          "dateHeure": "2024-03-06T21:15:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 135,
           "idCategorie": 3192,
@@ -566,7 +566,7 @@
         {
           "idSeance": 115601,
           "ordre": 1,
-          "dateHeure": "2024-03-11T19:00:00",
+          "dateHeure": "2024-03-11T18:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -872,6 +872,39 @@
             {
               "typeTexte": 9,
               "texte": "Invitation à un parcours d'une douzaine d'œuvres de Courbet, de Véronèse, d'Ingres, Delacroix, etc., commentées, en voix _off_, par les mots de Cézanne."
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 118061,
+          "dateHeure": "2024-03-06T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3231,
+          "idEvenement": 29727,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Conférence de Mathieu Macheret",
+          "sousTitre": "Conférence de Mathieu Macheret",
+          "duree": 90,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Mathieu Macheret",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
             }
           ]
         }

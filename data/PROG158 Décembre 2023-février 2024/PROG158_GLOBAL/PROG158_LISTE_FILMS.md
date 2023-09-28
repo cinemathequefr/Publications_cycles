@@ -1,14 +1,16 @@
 # Liste des films par cycle
 
-## Aki Kaurismäki (23)
+## Aki Kaurismäki (25)
 
   * Ariel  
   * Au loin s'en vont les nuages  
   * Autre côté de l'espoir (L')  
   * Bico  
+  * Calamari Union  
   * Cinéma Laika  
   * Crime et châtiment  
   * Dogs Have No Hell  
+  * Feuilles mortes (Les)  
   * Fille aux allumettes (La)  
   * Fonderie (La)  
   * Hamlet Goes Business  
@@ -116,23 +118,23 @@
   * Apollonide : Souvenirs de la maison close (L')  
   * Aventures de James et David (Les)  
   * Bête (La)  
-  * Bus d'Alice (Le)  
   * Cindy: The Doll Is Mine  
   * Coma  
   * De la guerre  
   * Gennevilliers: Where the Boys Are  
   * Ingrid Caven, musique et voix  
-  * Juliette + 2  
   * My New Picture  
   * Nocturama  
+  * Où en êtes-vous, Bertrand Bonello?  
   * Pornographe (Le)  
   * Quelque chose d'organique  
   * Qui je suis – D'après Pier Paolo Pasolini  
   * Saint Laurent  
+  * Sarah Winchester, opéra fantôme  
   * Tiresia  
   * Zombi Child
 
-## Boris Barnet (20)
+## Boris Barnet (19)
 
   * Alenka  
   * Annouchka  
@@ -140,7 +142,6 @@
   * Concert des maîtres de l'art ukrainien  
   * Exploit d'un éclaireur (L')  
   * Fonte des glaces (La)  
-  * Jeune Fille au carton à chapeau (La)  
   * Lutteur et le clown (Le)  
   * Maison de la place Troubnaïa (La)  
   * Miss Mend  
@@ -175,7 +176,7 @@
   * Survivant (Le)  
   * Yang Sze, la terreur de Bruce Lee
 
-## Claude Autant-Lara (36)
+## Claude Autant-Lara (37)
 
   * Affaire du courrier de Lyon (L')  
   * Auberge rouge (L')  
@@ -183,6 +184,7 @@
   * Bois des amants (Le)  
   * Bon Dieu sans confession (Le)  
   * Boul se met au verre  
+  * Ciboulette  
   * Comte de Monte-Cristo (Le)  
   * Diable au corps (Le)  
   * Douce  
@@ -358,22 +360,28 @@
   * Sorcellerie à travers les âges (La)  
   * Zombie
 
-## Ma petite Cinémathèque (20)
+## Ma petite Cinémathèque (26)
 
   * Aventure de madame Muir (L')  
   * Belle et le Clochard (La)  
+  * Bon voyage, Dimitri ! : Le Vélo de l'éléphant  
   * Brendan et le secret de Kells  
   * Château ambulant (Le)  
   * Chicken Run : La Menace Nuggets  
   * Cinq mille doigts du docteur T. (Les)  
+  * cycle  
   * Du silence et des ombres  
   * École des facteurs (L')  
   * Edward aux mains d'argent  
   * Ernest et Célestine  
   * Fiancées en folie (Les)  
   * Histoire sans fin (L')  
+  * Jeune Fille au carton à chapeau (La)  
   * Le Havre  
+  * Lola s'est perdue  
   * Montagnards sont là (Les)  
+  * Panique au village : La Course cycliste  
+  * Père et fille  
   * Qu'elle était verte ma vallée  
   * Rue Cases-Nègres  
   * Serpent blanc (Le)  
