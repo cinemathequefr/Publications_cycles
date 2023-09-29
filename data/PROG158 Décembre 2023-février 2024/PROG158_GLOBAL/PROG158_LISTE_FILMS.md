@@ -86,7 +86,7 @@
   * Prise de l'Élysée (La)  
   * This Side of Paradise (Fragments of an Unfinished Biography)  
   * Tiers providentiel (Le)  
-  * Une souris verte
+  * Vis (La)
 
 ## Barbet Schroeder (22)
 
