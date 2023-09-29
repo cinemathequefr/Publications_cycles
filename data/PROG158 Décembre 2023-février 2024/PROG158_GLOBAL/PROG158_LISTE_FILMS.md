@@ -364,12 +364,11 @@
 
   * Aventure de madame Muir (L')  
   * Belle et le Clochard (La)  
-  * Bon voyage, Dimitri ! : Le Vélo de l'éléphant  
   * Brendan et le secret de Kells  
   * Château ambulant (Le)  
   * Chicken Run : La Menace Nuggets  
   * Cinq mille doigts du docteur T. (Les)  
-  * cycle  
+  * Cycle  
   * Du silence et des ombres  
   * École des facteurs (L')  
   * Edward aux mains d'argent  
@@ -386,6 +385,7 @@
   * Rue Cases-Nègres  
   * Serpent blanc (Le)  
   * Super 8  
+  * Vélo de l'éléphant (Le)  
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous
 
