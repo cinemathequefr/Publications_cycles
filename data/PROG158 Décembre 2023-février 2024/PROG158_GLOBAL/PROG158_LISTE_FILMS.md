@@ -301,7 +301,7 @@
   * Retour du fils prodigue (Le)  
   * Sicilia !  
   * Toute révolution est un coup de dés  
-  * Trop tôt / Trop tard  
+  * Trop tôt, trop tard  
   * Une visite au Louvre
 
 ## La comédie hollywoodienne classique, 25 indispensables (25)
@@ -489,9 +489,8 @@
   * Viva l'Italia  
   * Voyage en Italie
 
-## Sofia Coppola (10)
+## Sofia Coppola (9)
 
-  * Bed, Bath and Beyond  
   * Bling Ring (The)  
   * Lick the Star  
   * Lost in Translation  
