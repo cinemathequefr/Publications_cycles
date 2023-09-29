@@ -112,7 +112,7 @@
               "annee": 1974,
               "duree": 115,
               "version": "",
-              "format": "35 mm",
+              "format": "DCP",
               "generique": [
                 "Bernard Menez",
                 "Daniel Ceccaldi",
@@ -206,7 +206,7 @@
               "annee": 1999,
               "duree": 118,
               "version": "",
-              "format": "35 mm",
+              "format": "",
               "generique": [
                 "Catherine Frot",
                 "Barbara Schulz",
@@ -689,7 +689,7 @@
               "idSeance": 104652,
               "dateHeure": "2023-10-02T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première"
+              "mention": ""
             }
           ]
         },
@@ -734,5 +734,56 @@
         }
       ]
     }
-  ]
+  ],
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2023-10-02T20:00:00",
+        "titreFilms": "Le Voyage en pyjama"
+      }
+    ],
+    "Leçon de cinéma": [
+      {
+        "titre": "Pascal Thomas par Pascal Thomas, une leçon de cinéma",
+        "dateHeure": "2023-10-07T14:30:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Mon petit doigt m'a dit...",
+        "mention": "par Catherine Frot",
+        "dateHeure": "2023-10-05T15:30:00"
+      },
+      {
+        "titreFilms": "Le Chaud Lapin",
+        "mention": "par Bernard Menez",
+        "dateHeure": "2023-10-06T18:00:00"
+      },
+      {
+        "titreFilms": "Confidences pour confidences",
+        "mention": "par Bernard Menez",
+        "dateHeure": "2023-10-07T18:30:00"
+      },
+      {
+        "titreFilms": "La Dilettante",
+        "mention": "par Catherine Frot",
+        "dateHeure": "2023-10-08T14:30:00"
+      },
+      {
+        "titreFilms": "Nono Nénesse / Le Grand Appartement",
+        "mention": "par Pierre Arditi et Bernard Menez",
+        "dateHeure": "2023-10-11T17:45:00"
+      },
+      {
+        "titreFilms": "Un oursin dans la poche",
+        "mention": "par Bernard Menez",
+        "dateHeure": "2023-10-12T16:00:00"
+      },
+      {
+        "titreFilms": "À cause des filles..?",
+        "mention": "par Bernard Menez",
+        "dateHeure": "2023-10-14T15:30:00"
+      }
+    ]
+  }
 }

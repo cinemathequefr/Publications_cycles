@@ -71,7 +71,7 @@
               "idSeance": 107397,
               "dateHeure": "2024-02-26T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première. Séance présentée par Bertrand Bonello"
+              "mention": " Séance présentée par Bertrand Bonello"
             }
           ]
         },
@@ -527,5 +527,47 @@
         }
       ]
     }
-  ]
+  ],
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2024-02-26T20:00:00",
+        "titreFilms": "La Bête",
+        "mention": " Séance présentée par Bertrand Bonello"
+      }
+    ],
+    "Leçon de cinéma": [
+      {
+        "titre": "Bertrand Bonello par Bertrand Bonello, une leçon de cinéma",
+        "dateHeure": "2024-03-02T14:30:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "La Bête",
+        "mention": "par Bertrand Bonello",
+        "dateHeure": "2024-02-26T20:00:00"
+      },
+      {
+        "titreFilms": "L'Apollonide : Souvenirs de la maison close",
+        "mention": "par Anaïs Romand",
+        "dateHeure": "2024-02-28T18:00:00"
+      },
+      {
+        "titreFilms": "De la guerre",
+        "mention": "par Mathieu Amalric",
+        "dateHeure": "2024-02-28T20:30:00"
+      },
+      {
+        "titreFilms": "Saint Laurent",
+        "mention": "par Anaïs Romand",
+        "dateHeure": "2024-03-01T21:00:00"
+      },
+      {
+        "titreFilms": "Zombi Child",
+        "mention": "par Patrick Boucheron",
+        "dateHeure": "2024-03-03T20:00:00"
+      }
+    ]
+  }
 }

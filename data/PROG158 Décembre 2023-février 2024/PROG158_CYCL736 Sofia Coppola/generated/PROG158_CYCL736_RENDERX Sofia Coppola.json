@@ -173,7 +173,7 @@
               "idSeance": 115442,
               "dateHeure": "2023-12-11T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première. Séance présentée par Sofia Coppola"
+              "mention": " Séance présentée par Sofia Coppola"
             }
           ]
         },
@@ -310,5 +310,27 @@
         }
       ]
     }
-  ]
+  ],
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2023-12-11T20:00:00",
+        "titreFilms": "Priscilla",
+        "mention": " Séance présentée par Sofia Coppola"
+      }
+    ],
+    "Leçon de cinéma": [
+      {
+        "titre": "Sofia Coppola par Sofia Coppola, une leçon de cinéma",
+        "dateHeure": "2023-12-12T18:00:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Priscilla",
+        "mention": "par Sofia Coppola",
+        "dateHeure": "2023-12-11T20:00:00"
+      }
+    ]
+  }
 }

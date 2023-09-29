@@ -37,7 +37,7 @@
               "idSeance": 104984,
               "dateHeure": "2023-09-04T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première. Séance présentée par Frédéric Bonnaud"
+              "mention": " Séance présentée par Frédéric Bonnaud"
             }
           ]
         }
@@ -249,7 +249,7 @@
               "idSeance": 105056,
               "dateHeure": "2023-10-16T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première. Séance présentée par Wim Wenders"
+              "mention": " Séance présentée par Wim Wenders"
             }
           ]
         }
@@ -317,11 +317,67 @@
               "idSeance": 107784,
               "dateHeure": "2023-11-13T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première. Séance présentée par Barbet Schroeder"
+              "mention": " Séance présentée par Barbet Schroeder"
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "syntheseAction": {
+    "Avant-premières": [
+      {
+        "dateHeure": "2023-09-04T20:00:00",
+        "titreFilms": "Film annonce du film qui n'existera jamais : « Drôles de Guerres »",
+        "mention": " Séance présentée par Frédéric Bonnaud"
+      },
+      {
+        "dateHeure": "2023-09-04T20:00:00",
+        "titreFilms": "Godard par Godard",
+        "mention": " Séance présentée par Frédéric Bonnaud"
+      },
+      {
+        "dateHeure": "2023-10-16T20:00:00",
+        "titreFilms": "Anselm",
+        "mention": " Séance présentée par Wim Wenders"
+      },
+      {
+        "dateHeure": "2023-11-13T20:00:00",
+        "titreFilms": "Ricardo et la peinture",
+        "mention": " Séance présentée par Barbet Schroeder"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Film annonce du film qui n'existera jamais : « Drôles de Guerres » / Godard par Godard",
+        "mention": "par Frédéric Bonnaud",
+        "dateHeure": "2023-09-04T20:00:00"
+      },
+      {
+        "titreFilms": "Jerry Schatzberg, portrait paysage",
+        "mention": "par Pierre Filmon",
+        "dateHeure": "2023-09-05T15:00:00"
+      },
+      {
+        "titreFilms": "Panique à Needle Park",
+        "mention": "par Jerry Schatzberg",
+        "dateHeure": "2023-09-05T20:30:00"
+      },
+      {
+        "titreFilms": "Septembre chilien / La Première année",
+        "mention": "par Jean-Pierre Thorn",
+        "dateHeure": "2023-09-11T19:00:00"
+      },
+      {
+        "titreFilms": "Anselm",
+        "mention": "par Wim Wenders",
+        "dateHeure": "2023-10-16T20:00:00"
+      },
+      {
+        "titreFilms": "Ricardo et la peinture",
+        "mention": "par Barbet Schroeder",
+        "dateHeure": "2023-11-13T20:00:00"
+      }
+    ]
+  }
 }

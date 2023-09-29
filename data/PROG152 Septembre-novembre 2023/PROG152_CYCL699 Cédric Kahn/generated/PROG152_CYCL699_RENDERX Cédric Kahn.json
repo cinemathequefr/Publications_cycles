@@ -285,7 +285,7 @@
               "idSeance": 104560,
               "dateHeure": "2023-10-05T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première"
+              "mention": ""
             }
           ]
         },
@@ -347,7 +347,7 @@
               "idSeance": 104446,
               "dateHeure": "2023-09-25T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première"
+              "mention": ""
             }
           ]
         },
@@ -422,7 +422,7 @@
               "realisateurs": "Cédric Kahn",
               "pays": "France",
               "annee": 1993,
-              "duree": 61,
+              "duree": 85,
               "version": "",
               "format": "35 mm",
               "generique": [
@@ -505,5 +505,45 @@
         }
       ]
     }
-  ]
+  ],
+  "syntheseAction": {
+    "Avant-premières": [
+      {
+        "dateHeure": "2023-09-25T20:00:00",
+        "titreFilms": "Le Procès Goldman"
+      },
+      {
+        "dateHeure": "2023-10-05T20:00:00",
+        "titreFilms": "Making of"
+      }
+    ],
+    "Leçon de cinéma": [
+      {
+        "titre": "Cédric Kahn par Cédric Kahn, une leçon de cinéma",
+        "dateHeure": "2023-09-30T14:30:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Les Dernières heures du millénaire / Bar des rails",
+        "mention": "par Fabienne Babe",
+        "dateHeure": "2023-09-29T20:30:00"
+      },
+      {
+        "titreFilms": "L'Ennui",
+        "mention": "par Sophie Guillemin, Yann Dedet et Cédric Kahn",
+        "dateHeure": "2023-09-30T19:00:00"
+      },
+      {
+        "titreFilms": "Feux rouges",
+        "mention": "par Gilles Marchand",
+        "dateHeure": "2023-10-01T17:30:00"
+      },
+      {
+        "titreFilms": "La Prière",
+        "mention": "par Anthony Bajon",
+        "dateHeure": "2023-10-04T18:30:00"
+      }
+    ]
+  }
 }

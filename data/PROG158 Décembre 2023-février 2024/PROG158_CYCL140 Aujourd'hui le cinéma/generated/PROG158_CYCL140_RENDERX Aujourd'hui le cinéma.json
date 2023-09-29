@@ -32,7 +32,7 @@
               "idSeance": 105072,
               "dateHeure": "2023-11-27T20:00:00",
               "idSalle": "GF",
-              "mention": "Avant-première. Séance suivie d'une discussion avec Bertrand Mandico"
+              "mention": " Séance suivie d'une discussion avec Bertrand Mandico"
             }
           ]
         }
@@ -69,7 +69,7 @@
               "idSeance": 105432,
               "dateHeure": "2023-12-11T19:30:00",
               "idSalle": "JE",
-              "mention": "Avant-première. Séance suivie d'une discussion avec Elene Naveriani"
+              "mention": " Séance suivie d'une discussion avec Elene Naveriani"
             }
           ]
         }
@@ -318,7 +318,7 @@
               "idSeance": 106327,
               "dateHeure": "2024-01-15T20:00:00",
               "idSalle": "JE",
-              "mention": "Avant-première. Séance suivie d'une discussion avec Eduardo Williams"
+              "mention": " Séance suivie d'une discussion avec Eduardo Williams"
             }
           ]
         }
@@ -747,5 +747,46 @@
         }
       ]
     }
-  ]
+  ],
+  "syntheseAction": {
+    "Avant-premières": [
+      {
+        "dateHeure": "2023-11-27T20:00:00",
+        "titreFilms": "Conann",
+        "mention": " Séance suivie d'une discussion avec Bertrand Mandico"
+      },
+      {
+        "dateHeure": "2023-12-11T19:30:00",
+        "titreFilms": "Le Merle et la mûre",
+        "mention": " Séance suivie d'une discussion avec Elene Naveriani"
+      },
+      {
+        "dateHeure": "2024-01-15T20:00:00",
+        "titreFilms": "El Auge del humano 3",
+        "mention": " Séance suivie d'une discussion avec Eduardo Williams"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Comme les doigts de la main / Grosse / Le Tiers providentiel / Le Baiser / Une souris verte / Des majorettes dans l'espace / La Défaite du rouge-gorge / La Peur, petit chasseur / Kitchen",
+        "mention": "par Stéphane Kahn",
+        "dateHeure": "2023-12-18T19:00:00"
+      },
+      {
+        "titreFilms": "Brodeuses",
+        "mention": "par Ariane Ascaride, Lola Naymark, Gaëlle Macé, Jean-Christophe Delpias et Anne Villacèque",
+        "dateHeure": "2024-02-05T19:00:00"
+      },
+      {
+        "titreFilms": "Birdsong / Opus / Nous le savions qu'elles étaient belles, les îles / À la recherche d'Aline / Be at Peace in an Endless Sleep",
+        "mention": "par José Revault et Pierre X. Garnier",
+        "dateHeure": "2024-02-12T19:00:00"
+      },
+      {
+        "titreFilms": "Le Garçon qui la nuit / This Side of Paradise (Fragments of an Unfinished Biography) / L'Oiseau de la nuit / Four Boys in a Volvo",
+        "mention": "par Marie Losier",
+        "dateHeure": "2024-02-19T19:00:00"
+      }
+    ]
+  }
 }
