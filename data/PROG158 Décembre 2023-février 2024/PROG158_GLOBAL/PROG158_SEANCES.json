@@ -1030,13 +1030,14 @@
     "cycle": [
       [
         "Séances spéciales",
-        "Rencontres et conférences"
+        "Spectacle"
       ]
     ],
     "items": [
       {
         "idConf": 29526,
-        "titre": "« Le monde à portée de la main » : séance spectaculaire Georges Méliès",
+        "titre": "Le monde à portée de la main",
+        "sousTitre": "Séance spectaculaire Georges Méliès",
         "typeConference": "Spectacle",
         "duree": 75
       }
@@ -1766,7 +1767,7 @@
       ],
       [
         "Séances spéciales",
-        "Rencontres et conférences"
+        "Spectacle"
       ]
     ],
     "items": [
@@ -1804,7 +1805,9 @@
         "titre": "Sylvia Scarlett",
         "realisateurs": "George Cukor",
         "annee": 1935,
-        "duree": 97
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f31521"
@@ -5934,6 +5937,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Olivier Curchod",
     "items": [
       {
         "idFilm": 72543,
@@ -6798,8 +6802,8 @@
     "hashEvenement": "f57659"
   },
   {
-    "idSeance": 106837,
-    "idEvenement": 28937,
+    "idSeance": 118069,
+    "idEvenement": 29352,
     "dateHeure": "2024-02-07T20:30:00",
     "salle": "JE",
     "cycle": [
@@ -6808,18 +6812,16 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Véronique Lange (sous réserve)",
+    "mention": "Séance présentée par Olivier Curchod",
     "items": [
       {
-        "idFilm": 113572,
-        "titre": "Voyez comme ils dansent",
+        "idFilm": 50171,
+        "titre": "Mortelle Randonnée",
         "realisateurs": "Claude Miller",
-        "annee": 2010,
-        "duree": 99,
-        "format": "35 mm"
+        "annee": 1982
       }
     ],
-    "hashEvenement": "f113572"
+    "hashEvenement": "f50171"
   },
   {
     "idSeance": 115631,
@@ -6985,8 +6987,8 @@
     "hashEvenement": "f45989"
   },
   {
-    "idSeance": 115710,
-    "idEvenement": 29352,
+    "idSeance": 118070,
+    "idEvenement": 28937,
     "dateHeure": "2024-02-09T19:00:00",
     "salle": "JE",
     "cycle": [
@@ -6995,15 +6997,18 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Véronique Lange (sous réserve)",
     "items": [
       {
-        "idFilm": 50171,
-        "titre": "Mortelle Randonnée",
+        "idFilm": 113572,
+        "titre": "Voyez comme ils dansent",
         "realisateurs": "Claude Miller",
-        "annee": 1982
+        "annee": 2010,
+        "duree": 99,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f50171"
+    "hashEvenement": "f113572"
   },
   {
     "idSeance": 115422,
@@ -8346,7 +8351,7 @@
         "realisateurs": "Arthur Penn",
         "annee": 1981,
         "duree": 115,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm"
       }
     ],

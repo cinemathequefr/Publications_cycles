@@ -562,6 +562,29 @@
     "hashEvenement": "f36479"
   },
   {
+    "idSeance": 118062,
+    "idEvenement": 29110,
+    "dateHeure": "2023-12-04T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 38404,
+        "titre": "Calamari Union",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 1984,
+        "duree": 82,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f38404"
+  },
+  {
     "idSeance": 115286,
     "idEvenement": 29112,
     "dateHeure": "2023-12-04T20:45:00",
@@ -708,7 +731,9 @@
         "titre": "Lost in Translation",
         "realisateurs": "Sofia Coppola",
         "annee": 2003,
-        "duree": 102
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f87794"
@@ -721,7 +746,7 @@
     "cycle": [
       [
         "Archi Vives",
-        "Les films"
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1035,7 +1060,9 @@
         "titre": "Somewhere",
         "realisateurs": "Sofia Coppola",
         "annee": 2010,
-        "duree": 98
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f112506"
@@ -1313,21 +1340,15 @@
     ],
     "items": [
       {
-        "idFilm": 117203,
-        "titre": "Bed, Bath and Beyond",
-        "realisateurs": "Sofia Coppola, Andrew Durham, Ione Skye",
-        "annee": 1996,
-        "duree": 28
-      },
-      {
         "idFilm": 87818,
         "titre": "Lick the Star",
         "realisateurs": "Sofia Coppola",
         "annee": 1998,
-        "duree": 14
+        "duree": 14,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f117203f87818"
+    "hashEvenement": "f87818"
   },
   {
     "idSeance": 105432,
@@ -1424,7 +1445,9 @@
         "titre": "Marie-Antoinette",
         "realisateurs": "Sofia Coppola",
         "annee": 2006,
-        "duree": 123
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm"
       },
       {
         "idConf": 29514,
@@ -1565,7 +1588,7 @@
         "Autour d'Aki Kaurismäki"
       ]
     ],
-    "mention": "Avant-première",
+    "mention": "Avant-première. Séance présentée par Sylvie Pialat",
     "items": [
       {
         "idFilm": 154545,
@@ -1692,6 +1715,7 @@
         "realisateurs": "John Bud Cardos",
         "annee": 1977,
         "duree": 88,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -2035,6 +2059,31 @@
     "hashEvenement": "f34420"
   },
   {
+    "idSeance": 118064,
+    "idEvenement": 29638,
+    "dateHeure": "2023-12-17T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154592,
+        "titre": "Feuilles mortes",
+        "art": "Les",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 2023,
+        "duree": 81,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154592"
+  },
+  {
     "idSeance": 105609,
     "idEvenement": 29078,
     "dateHeure": "2023-12-18T18:30:00",
@@ -2104,13 +2153,6 @@
         "format": "35 mm"
       },
       {
-        "idFilm": 69264,
-        "titre": "Une souris verte",
-        "realisateurs": "Orso Miret",
-        "annee": 1996,
-        "duree": 38
-      },
-      {
         "idFilm": 91040,
         "titre": "Des majorettes dans l'espace",
         "realisateurs": "David Fourier",
@@ -2141,9 +2183,18 @@
         "realisateurs": "Alice Winocour",
         "annee": 2004,
         "duree": 14
+      },
+      {
+        "idFilm": 62632,
+        "titre": "Vis",
+        "art": "La",
+        "realisateurs": "Didier Flamand",
+        "annee": 1993,
+        "duree": 19,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f66889f68690f95414f66177f69264f91040f98297f91824f96733"
+    "hashEvenement": "f66889f68690f95414f66177f91040f98297f91824f96733f62632"
   },
   {
     "idSeance": 105610,
@@ -3329,7 +3380,7 @@
     "cycle": [
       [
         "Cinéma bis",
-        "[Horreur années 70-80]"
+        "Horreur années 80"
       ]
     ],
     "items": [
@@ -3377,7 +3428,7 @@
     "cycle": [
       [
         "Cinéma bis",
-        "[Horreur années 70-80]"
+        "Horreur années 80"
       ]
     ],
     "items": [
@@ -3550,7 +3601,7 @@
         "annee": 1948,
         "duree": 62,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f84034"
@@ -3813,7 +3864,7 @@
         "annee": 1949,
         "duree": 63,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f84035"
@@ -3865,7 +3916,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1972,
         "duree": 103,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       },
       {
@@ -3999,8 +4050,8 @@
     "items": [
       {
         "idConf": 29512,
-        "titre": "Conservatoire : le montage",
-        "sousTitre": "Conférence ",
+        "titre": "De l'assemblage au montage cinématographique par Laurent Le Forestier",
+        "sousTitre": "Conférence de Laurent Le Forestier",
         "typeConference": "Conférence",
         "duree": 90
       }
@@ -4338,8 +4389,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1961,
         "duree": 134,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "STF"
       }
     ],
     "hashEvenement": "f32003"
@@ -4669,7 +4719,7 @@
     "cycle": [
       [
         "Cinéma bis",
-        "[Science-fiction fin des années 70]"
+        "Science-fiction californienne"
       ]
     ],
     "items": [
@@ -4743,7 +4793,7 @@
     "cycle": [
       [
         "Cinéma bis",
-        "[Hommage à la Warner]"
+        "Science-fiction californienne"
       ]
     ],
     "items": [
@@ -5117,19 +5167,19 @@
         "format": "DCP"
       },
       {
-        "idFilm": 154574,
-        "titre": "Blue",
-        "realisateurs": "Frédéric Bayer Azem",
-        "annee": 2021,
-        "duree": 27,
-        "format": "DCP"
-      },
-      {
         "idFilm": 154575,
         "titre": "Coração vagabundo",
         "realisateurs": "Frédéric Bayer Azem",
         "annee": 2018,
         "duree": 20,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154574,
+        "titre": "Blue",
+        "realisateurs": "Frédéric Bayer Azem",
+        "annee": 2021,
+        "duree": 27,
         "format": "DCP"
       },
       {
@@ -5140,7 +5190,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f154573f154574f154575f154576"
+    "hashEvenement": "f154573f154575f154574f154576"
   },
   {
     "idSeance": 115356,
@@ -5161,7 +5211,7 @@
         "annee": 1953,
         "duree": 71,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f45449"
@@ -5179,6 +5229,55 @@
     ],
     "items": [
       {
+        "idFilm": 130296,
+        "titre": "Voleur de bicyclette",
+        "art": "Le",
+        "realisateurs": "Charles Lépine",
+        "annee": 1905
+      },
+      {
+        "idFilm": 154642,
+        "titre": "Cycle",
+        "realisateurs": "Sytske Kok, Sophie Olga de Jong",
+        "annee": 2018,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 140197,
+        "titre": "Lola s'est perdue",
+        "realisateurs": "Gun Jacobson, Lotta Geffenblad",
+        "annee": 1991,
+        "duree": 15,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 128281,
+        "titre": "Vélo de l'éléphant",
+        "art": "Le",
+        "realisateurs": "Olesya Shchukina",
+        "annee": 2014,
+        "duree": 9,
+        "version": "VF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 140249,
+        "titre": "Panique au village : La Course cycliste",
+        "realisateurs": "Vincent Patar, Stéphane Aubier",
+        "annee": 2002,
+        "duree": 5,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 114365,
+        "titre": "Père et fille",
+        "realisateurs": "Michael Dudok de Wit",
+        "annee": 2000,
+        "duree": 8,
+        "format": "DCP"
+      },
+      {
         "idFilm": 70463,
         "titre": "École des facteurs",
         "art": "L'",
@@ -5188,7 +5287,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f70463"
+    "hashEvenement": "f130296f154642f140197f128281f140249f114365f70463"
   },
   {
     "idSeance": 106541,
@@ -5530,7 +5629,7 @@
         "annee": 1947,
         "duree": 68,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f84033"
@@ -5673,7 +5772,7 @@
     "items": [
       {
         "idFilm": 31119,
-        "titre": "Extravagant Docteur Dolittle",
+        "titre": "Extravagant docteur Dolittle",
         "art": "L'",
         "realisateurs": "Richard Fleischer",
         "annee": 1967,
@@ -5776,6 +5875,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Guillaume Schiffman",
     "items": [
       {
         "idFilm": 29420,
@@ -5944,9 +6044,7 @@
       },
       {
         "idConf": 29652,
-        "titre": "Dialogue avec Bertrand Bonello",
-        "typeConference": "Dialogue",
-        "duree": 60
+        "titre": "[Action culturelle sans titre]"
       }
     ],
     "hashEvenement": "f36943c29652"
@@ -6048,6 +6146,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1969,
         "duree": 96,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -6159,27 +6258,6 @@
     "hashEvenement": "f50134"
   },
   {
-    "idSeance": 115443,
-    "idEvenement": 29474,
-    "dateHeure": "2024-02-03T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Claude Miller",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29474,
-        "titre": "Dialogue avec Charlotte Gainsbourg",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29474"
-  },
-  {
     "idSeance": 115338,
     "idEvenement": 29023,
     "dateHeure": "2024-02-03T17:30:00",
@@ -6212,9 +6290,10 @@
     "cycle": [
       [
         "Claude Miller",
-        "Les films"
+        "Courts métrages"
       ]
     ],
+    "titreEvenement": "Films réalisés à l'ECA (Établissement cinématographique des armées)",
     "mention": "Séance présentée par Gilles Ciment et Bernard Stora",
     "items": [
       {
@@ -6444,7 +6523,8 @@
     "items": [
       {
         "idFilm": 65327,
-        "titre": "Beaubourg, centre d'art et de culture Georges Pompidou",
+        "titre": "Centre Pompidou",
+        "art": "Le",
         "realisateurs": "Roberto Rossellini",
         "annee": 1977,
         "duree": 54,
@@ -6656,7 +6736,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Annie Miller et Pierre-Nicolas Durand",
+    "mention": "Séance présentée par Annie Miller, Pierre-Nicolas Durand et Héléna Cotinier",
     "items": [
       {
         "idFilm": 108671,
@@ -6749,7 +6829,7 @@
     "cycle": [
       [
         "Archi Vives",
-        "Les films"
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -7184,8 +7264,8 @@
     "hashEvenement": "f34913"
   },
   {
-    "idSeance": 115474,
-    "idEvenement": 28818,
+    "idSeance": 115360,
+    "idEvenement": 28819,
     "dateHeure": "2024-02-11T17:45:00",
     "salle": "GF",
     "cycle": [
@@ -7196,16 +7276,16 @@
     ],
     "items": [
       {
-        "idFilm": 46004,
-        "titre": "Bon Dieu sans confession",
+        "idFilm": 46521,
+        "titre": "Blé en herbe",
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1953,
-        "duree": 112,
+        "duree": 106,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f46004"
+    "hashEvenement": "f46521"
   },
   {
     "idSeance": 107027,
@@ -7232,9 +7312,9 @@
     "hashEvenement": "f35811"
   },
   {
-    "idSeance": 115360,
-    "idEvenement": 28819,
-    "dateHeure": "2024-02-11T20:15:00",
+    "idSeance": 115474,
+    "idEvenement": 28818,
+    "dateHeure": "2024-02-11T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7244,16 +7324,16 @@
     ],
     "items": [
       {
-        "idFilm": 46521,
-        "titre": "Blé en herbe",
+        "idFilm": 46004,
+        "titre": "Bon Dieu sans confession",
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1953,
-        "duree": 106,
+        "duree": 112,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f46521"
+    "hashEvenement": "f46004"
   },
   {
     "idSeance": 115361,
@@ -7266,6 +7346,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Noël Herpe",
     "items": [
       {
         "idFilm": 46276,
@@ -7471,6 +7552,7 @@
         "Courts métrages"
       ]
     ],
+    "mention": "Séance présentée par François Albera",
     "items": [
       {
         "idFilm": 70227,
@@ -7525,9 +7607,7 @@
       },
       {
         "idConf": 29654,
-        "titre": "Dialogue avec Bertrand Bonello",
-        "typeConference": "Dialogue",
-        "duree": 60
+        "titre": "[Action culturelle sans titre]"
       }
     ],
     "hashEvenement": "f57739c29654"
@@ -7681,7 +7761,7 @@
         "realisateurs": "Alfred Hitchcock",
         "annee": 1962,
         "duree": 119,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "DCP"
       }
     ],
@@ -7812,7 +7892,6 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1963,
-        "duree": 90,
         "format": "35 mm"
       }
     ],
@@ -7881,7 +7960,8 @@
         "titre": "Massacre à la tronçonneuse",
         "realisateurs": "Tobe Hooper",
         "annee": 1973,
-        "duree": 83
+        "duree": 84,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f54535"
@@ -7929,16 +8009,21 @@
     "hashEvenement": "f65362f46274f46278"
   },
   {
-    "idSeance": 107210,
+    "idSeance": 118057,
     "idEvenement": 29048,
     "dateHeure": "2024-02-18T15:00:00",
     "salle": "HL",
     "cycle": [
       [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ],
+      [
         "Boris Barnet",
         "Les films"
       ]
     ],
+    "mention": "Accompagnement musical par Karim Gherbi, Jean-Baptiste Laya et Abdesslem Gherbi",
     "items": [
       {
         "idFilm": 40602,
@@ -7987,6 +8072,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Sylvie Lindeperg (sous réserve)",
     "items": [
       {
         "idFilm": 46280,
@@ -8067,7 +8153,6 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1962,
-        "duree": 104,
         "format": "35 mm"
       }
     ],
@@ -8188,7 +8273,7 @@
         "titre": "Nouveau journal d'une femme en blanc",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1966,
-        "duree": 115
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f46487"
@@ -8261,7 +8346,7 @@
         "realisateurs": "Arthur Penn",
         "annee": 1981,
         "duree": 115,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -8395,8 +8480,7 @@
         "titre": "Vive Henri IV, vive l'amour",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1960,
-        "duree": 121,
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f46301"
@@ -8532,6 +8616,29 @@
       }
     ],
     "hashEvenement": "f44468"
+  },
+  {
+    "idSeance": 107375,
+    "idEvenement": 28798,
+    "dateHeure": "2024-02-24T16:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Claude Autant-Lara",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46523,
+        "titre": "Ciboulette",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1932,
+        "duree": 93,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f46523"
   },
   {
     "idSeance": 115399,
@@ -8747,6 +8854,8 @@
         "art": "Les",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1959,
+        "duree": 72,
+        "version": "VF",
         "format": "35 mm"
       }
     ],
@@ -8817,7 +8926,6 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1967,
-        "duree": 110,
         "format": "35 mm"
       }
     ],
@@ -8915,7 +9023,8 @@
         "titre": "Bête",
         "art": "La",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2023
+        "annee": 2023,
+        "duree": 146
       }
     ],
     "hashEvenement": "f154589"
@@ -8980,6 +9089,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Anaïs Romand",
     "items": [
       {
         "idFilm": 113247,
@@ -9067,7 +9177,7 @@
   },
   {
     "idSeance": 115624,
-    "idEvenement": 29660,
+    "idEvenement": 29724,
     "dateHeure": "2024-02-29T19:00:00",
     "salle": "GF",
     "cycle": [
@@ -9082,10 +9192,40 @@
     ],
     "items": [
       {
+        "idFilm": 154639,
+        "titre": "Dancing in the rain (Turf Feinz)",
+        "realisateurs": "Savion Yoram",
+        "annee": 2014
+      },
+      {
+        "idFilm": 30125,
+        "titre": "Scorpio Rising",
+        "realisateurs": "Kenneth Anger",
+        "annee": 1964
+      },
+      {
+        "idFilm": 53149,
+        "titre": "Brumes d'automne",
+        "realisateurs": "Dimitri Kirsanoff",
+        "annee": 1928
+      },
+      {
+        "idFilm": 77379,
+        "titre": "De l'origine du XXIe siècle",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 2000
+      },
+      {
         "idFilm": 153162,
         "titre": "Clean With Me (After Dark)",
         "realisateurs": "Gabrielle Stemmer",
         "annee": 2019
+      },
+      {
+        "idFilm": 154638,
+        "titre": "Voodoo in my blood",
+        "realisateurs": "Ledwige Wingan",
+        "annee": 2016
       },
       {
         "idConf": 29657,
@@ -9094,7 +9234,7 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "f153162c29657"
+    "hashEvenement": "f154639f30125f53149f77379f153162f154638c29657"
   },
   {
     "idSeance": 115598,
@@ -9188,6 +9328,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jean-Pierre Léaud (sous réserve)",
     "items": [
       {
         "idFilm": 75412,
@@ -9235,6 +9376,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Anaïs Romand",
     "items": [
       {
         "idFilm": 123300,
@@ -9380,8 +9522,8 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1960,
-        "duree": 91,
-        "format": "35 mm"
+        "duree": 94,
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f46522"
@@ -9527,6 +9669,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Patrick Boucheron",
     "items": [
       {
         "idFilm": 142026,
@@ -9556,7 +9699,8 @@
         "art": "Les",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1969,
-        "duree": 90
+        "duree": 99,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f51840"
@@ -9634,50 +9778,28 @@
     "hashEvenement": "f40781"
   },
   {
-    "idSeance": 115555,
-    "idEvenement": 29497,
+    "idSeance": 107690,
+    "idEvenement": 29248,
     "dateHeure": "2024-03-06T18:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Jean-Marie Straub et Danièle Huillet",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 38943,
-        "titre": "Moïse et Aaron",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1974,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 37586,
+        "titre": "Frankenstein",
+        "realisateurs": "James Whale",
+        "annee": 1931,
+        "duree": 70,
+        "version": "VO",
+        "format": "Numérique"
       }
     ],
-    "hashEvenement": "f38943"
-  },
-  {
-    "idSeance": 115644,
-    "idEvenement": 29636,
-    "dateHeure": "2024-03-06T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Bertrand Bonello",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154588,
-        "titre": "Coma",
-        "realisateurs": "Bertrand Bonello",
-        "annee": 2022,
-        "duree": 81
-      }
-    ],
-    "hashEvenement": "f154588"
+    "hashEvenement": "f37586"
   },
   {
     "idSeance": 107615,
@@ -9704,6 +9826,28 @@
     "hashEvenement": "f70833"
   },
   {
+    "idSeance": 118061,
+    "idEvenement": 29727,
+    "dateHeure": "2024-03-06T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jean-Marie Straub et Danièle Huillet",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 29727,
+        "titre": "Conférence de Mathieu Macheret",
+        "sousTitre": "Conférence de Mathieu Macheret",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c29727"
+  },
+  {
     "idSeance": 115426,
     "idEvenement": 29047,
     "dateHeure": "2024-03-06T19:45:00",
@@ -9728,10 +9872,35 @@
     "hashEvenement": "f70823"
   },
   {
-    "idSeance": 115586,
-    "idEvenement": 29536,
-    "dateHeure": "2024-03-06T20:15:00",
+    "idSeance": 107691,
+    "idEvenement": 29270,
+    "dateHeure": "2024-03-06T20:00:00",
     "salle": "HL",
+    "cycle": [
+      [
+        "Le cinéma d'horreur, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45212,
+        "titre": "Masque du démon",
+        "art": "Le",
+        "realisateurs": "Mario Bava",
+        "annee": 1960,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f45212"
+  },
+  {
+    "idSeance": 115555,
+    "idEvenement": 29497,
+    "dateHeure": "2024-03-06T21:15:00",
+    "salle": "GF",
     "cycle": [
       [
         "Jean-Marie Straub et Danièle Huillet",
@@ -9740,47 +9909,16 @@
     ],
     "items": [
       {
-        "idFilm": 86158,
-        "titre": "Introduction à la « Musique d'accompagnement pour une scène de film » d'Arnold Schoenberg",
+        "idFilm": 38943,
+        "titre": "Moïse et Aaron",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1972,
-        "duree": 15,
+        "annee": 1974,
+        "duree": 105,
         "version": "VOSTF",
-        "format": "16 mm"
-      },
-      {
-        "idFilm": 56345,
-        "titre": "Leçons d'histoire",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1972,
-        "duree": 87,
-        "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f86158f56345"
-  },
-  {
-    "idSeance": 115645,
-    "idEvenement": 29375,
-    "dateHeure": "2024-03-06T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Bertrand Bonello",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 132147,
-        "titre": "Ingrid Caven, musique et voix",
-        "realisateurs": "Bertrand Bonello",
-        "annee": 2012,
-        "duree": 105
-      }
-    ],
-    "hashEvenement": "f132147"
+    "hashEvenement": "f38943"
   },
   {
     "idSeance": 115556,
@@ -9804,7 +9942,7 @@
       },
       {
         "idFilm": 54556,
-        "titre": "Trop tôt / Trop tard",
+        "titre": "Trop tôt, trop tard",
         "realisateurs": "Danièle Huillet, Jean-Marie Straub",
         "annee": 1981,
         "duree": 104,
@@ -9840,9 +9978,7 @@
       },
       {
         "idConf": 29656,
-        "titre": "Dialogue avec Bertrand Bonello",
-        "typeConference": "Dialogue",
-        "duree": 60
+        "titre": "[Action culturelle sans titre]"
       }
     ],
     "hashEvenement": "f94161c29656"
@@ -9872,64 +10008,34 @@
     "hashEvenement": "f42692"
   },
   {
-    "idSeance": 107690,
-    "idEvenement": 29248,
+    "idSeance": 118059,
+    "idEvenement": 29636,
     "dateHeure": "2024-03-08T18:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur, 25 indispensables",
+        "Bertrand Bonello",
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Julia Faure et Louise Labeque",
     "items": [
       {
-        "idFilm": 37586,
-        "titre": "Frankenstein",
-        "realisateurs": "James Whale",
-        "annee": 1931,
-        "duree": 70,
-        "version": "VO",
-        "format": "Numérique"
-      }
-    ],
-    "hashEvenement": "f37586"
-  },
-  {
-    "idSeance": 107692,
-    "idEvenement": 29370,
-    "dateHeure": "2024-03-08T18:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Bertrand Bonello",
-        "Courts métrages"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 97049,
-        "titre": "Cindy: The Doll Is Mine",
+        "idFilm": 154641,
+        "titre": "Où en êtes-vous, Bertrand Bonello ?",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2005,
-        "duree": 15
+        "annee": 2014,
+        "duree": 17
       },
       {
-        "idFilm": 102736,
-        "titre": "My New Picture",
+        "idFilm": 154588,
+        "titre": "Coma",
         "realisateurs": "Bertrand Bonello",
-        "annee": 2006,
-        "duree": 43
-      },
-      {
-        "idFilm": 131916,
-        "titre": "Gennevilliers: Where the Boys Are",
-        "realisateurs": "Bertrand Bonello",
-        "annee": 2009,
-        "duree": 22
+        "annee": 2022,
+        "duree": 81
       }
     ],
-    "hashEvenement": "f97049f102736f131916"
+    "hashEvenement": "f154641f154588"
   },
   {
     "idSeance": 115558,
@@ -9956,75 +10062,26 @@
     "hashEvenement": "f42466"
   },
   {
-    "idSeance": 107691,
-    "idEvenement": 29270,
+    "idSeance": 118060,
+    "idEvenement": 29375,
     "dateHeure": "2024-03-08T20:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur, 25 indispensables",
+        "Bertrand Bonello",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 45212,
-        "titre": "Masque du démon",
-        "art": "Le",
-        "realisateurs": "Mario Bava",
-        "annee": 1960,
-        "duree": 84,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 132147,
+        "titre": "Ingrid Caven, musique et voix",
+        "realisateurs": "Bertrand Bonello",
+        "annee": 2012,
+        "duree": 105
       }
     ],
-    "hashEvenement": "f45212"
-  },
-  {
-    "idSeance": 115648,
-    "idEvenement": 29376,
-    "dateHeure": "2024-03-08T20:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Bertrand Bonello",
-        "Courts métrages"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 87369,
-        "titre": "Juliette + 2",
-        "realisateurs": "Bertrand Bonello",
-        "annee": 1993,
-        "duree": 33
-      },
-      {
-        "idFilm": 75942,
-        "titre": "Bus d'Alice",
-        "art": "Le",
-        "realisateurs": "Bertrand Bonello",
-        "annee": 1995,
-        "duree": 18
-      },
-      {
-        "idFilm": 120473,
-        "titre": "Qui je suis – D'après Pier Paolo Pasolini",
-        "realisateurs": "Bertrand Bonello",
-        "annee": 1996,
-        "duree": 41,
-        "format": "Vidéo"
-      },
-      {
-        "idFilm": 87368,
-        "titre": "Aventures de James et David",
-        "art": "Les",
-        "realisateurs": "Bertrand Bonello",
-        "annee": 1997,
-        "duree": 11
-      }
-    ],
-    "hashEvenement": "f87369f75942f120473f87368"
+    "hashEvenement": "f132147"
   },
   {
     "idSeance": 115559,
@@ -10076,6 +10133,42 @@
     "hashEvenement": "f40401"
   },
   {
+    "idSeance": 107692,
+    "idEvenement": 29370,
+    "dateHeure": "2024-03-09T15:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Bertrand Bonello",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 97049,
+        "titre": "Cindy: The Doll Is Mine",
+        "realisateurs": "Bertrand Bonello",
+        "annee": 2005,
+        "duree": 15
+      },
+      {
+        "idFilm": 102736,
+        "titre": "My New Picture",
+        "realisateurs": "Bertrand Bonello",
+        "annee": 2006,
+        "duree": 43
+      },
+      {
+        "idFilm": 131916,
+        "titre": "Gennevilliers: Where the Boys Are",
+        "realisateurs": "Bertrand Bonello",
+        "annee": 2009,
+        "duree": 22
+      }
+    ],
+    "hashEvenement": "f97049f102736f131916"
+  },
+  {
     "idSeance": 115561,
     "idEvenement": 29455,
     "dateHeure": "2024-03-09T16:45:00",
@@ -10120,6 +10213,44 @@
       }
     ],
     "hashEvenement": "f70825"
+  },
+  {
+    "idSeance": 115648,
+    "idEvenement": 29376,
+    "dateHeure": "2024-03-09T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Bertrand Bonello",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 120473,
+        "titre": "Qui je suis – D'après Pier Paolo Pasolini",
+        "realisateurs": "Bertrand Bonello",
+        "annee": 1996,
+        "duree": 41,
+        "format": "Vidéo"
+      },
+      {
+        "idFilm": 87368,
+        "titre": "Aventures de James et David",
+        "art": "Les",
+        "realisateurs": "Bertrand Bonello",
+        "annee": 1997,
+        "duree": 11
+      },
+      {
+        "idFilm": 154640,
+        "titre": "Sarah Winchester, opéra fantôme",
+        "realisateurs": "Bertrand Bonello",
+        "annee": 2016,
+        "duree": 23
+      }
+    ],
+    "hashEvenement": "f120473f87368f154640"
   },
   {
     "idSeance": 115564,
@@ -10331,7 +10462,7 @@
   {
     "idSeance": 115601,
     "idEvenement": 29458,
-    "dateHeure": "2024-03-11T19:00:00",
+    "dateHeure": "2024-03-11T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -10360,5 +10491,38 @@
       }
     ],
     "hashEvenement": "f52389f61801"
+  },
+  {
+    "idSeance": 118058,
+    "idEvenement": 29536,
+    "dateHeure": "2024-03-11T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jean-Marie Straub et Danièle Huillet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 86158,
+        "titre": "Introduction à la « Musique d'accompagnement pour une scène de film » d'Arnold Schoenberg",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1972,
+        "duree": 15,
+        "version": "VOSTF",
+        "format": "16 mm"
+      },
+      {
+        "idFilm": 56345,
+        "titre": "Leçons d'histoire",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1972,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f86158f56345"
   }
 ]
