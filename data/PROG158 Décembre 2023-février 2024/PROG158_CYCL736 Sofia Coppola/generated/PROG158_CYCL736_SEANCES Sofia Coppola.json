@@ -71,7 +71,7 @@
   {
     "idCategorie": 3196,
     "typeEvenement": 13,
-    "idEvenement": 29482,
+    "idEvenement": 29476,
     "idSeance": 115615,
     "dateHeure": "2023-12-08T17:30:00",
     "idSalle": [
@@ -81,8 +81,17 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 136543,
+        "idFilm": 87818,
         "ordre": 1,
+        "idSeance": 115615,
+        "idCopie": 26799,
+        "duree": 14,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 136543,
+        "ordre": 2,
         "idSeance": 115615,
         "idCopie": 26796,
         "duree": 95,
@@ -138,7 +147,7 @@
     ]
   },
   {
-    "idCategorie": 3224,
+    "idCategorie": 3196,
     "typeEvenement": 13,
     "idEvenement": 29476,
     "idSeance": 115620,
@@ -156,6 +165,15 @@
         "idCopie": 26799,
         "duree": 14,
         "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 136543,
+        "ordre": 2,
+        "idSeance": 115620,
+        "idCopie": 26796,
+        "duree": 95,
+        "version": "VO",
         "format": "DCP"
       }
     ]
