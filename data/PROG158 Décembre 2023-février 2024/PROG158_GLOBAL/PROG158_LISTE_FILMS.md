@@ -389,15 +389,17 @@
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous
 
-## Parlons cinéma... avec Bertrand Bonello (7)
+## Parlons cinéma... avec Bertrand Bonello (9)
 
   * Birth  
   * Brumes d'automne  
   * Clean With Me (After Dark)  
+  * Dancing in the rain (Turf Feinz)  
   * De l'origine du XXIe siècle  
   * Scorpio Rising  
   * Terreur sur la ligne  
-  * Un flic
+  * Un flic  
+  * Voodoo in my blood
 
 ## Richard Fleischer (46)
 
@@ -421,7 +423,7 @@
   * Énigme du Chicago Express (L')  
   * Étrangleur de Boston (L')  
   * Étrangleur de Rillington Place (L')  
-  * Extravagant Docteur Dolittle (L')  
+  * Extravagant docteur Dolittle (L')  
   * Fille sur la balançoire (La)  
   * Flics ne dorment pas la nuit (Les)  
   * Force de vaincre (La)  

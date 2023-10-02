@@ -1,0 +1,5 @@
+# Parlons cinéma... avec Bertrand Bonello
+
+J'ai l'impression que tout ce que je sais dans la vie, je l'ai appris avec les films, ou en parlant des films. Que ce soit sur l'amour, l'amitié, la politique, le rapport au monde. La vie n'a fait que confirmer et prolonger ce que les films m'apprenaient. Les films vous accompagnent comme de fidèles confidents. Alors en choisir quatre est beaucoup plus difficile que d'en choisir cent. Ce sont ici avant tout des choix affectifs et arbitraires. Des choix faits aujourd'hui qui auraient été différents demain. Je tenais à ce qu'il y ait une séance de films courts. Ce sont souvent les rencontres les plus fulgurantes, parce qu'on associe souvent ces films courts à des balbutiements de débutants. Mais lorsqu'ils sont réussis, ils ont la force de la nouvelle par rapport au roman. Pour les autres, je m'aperçois qu'inconsciemment, je me suis tourné vers de grands films sur la solitude, symptôme peut-être d'une époque qui, malgré son ultra connexion, a ramené les gens vers un isolement aussi tragique qu'inéluctable. Alors peut-être que ces films sont plus contemporains que jamais.
+
+<div class="author">Bertrand Bonello</div>
