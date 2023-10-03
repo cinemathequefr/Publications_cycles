@@ -143,7 +143,7 @@
   * Exploit d'un éclaireur (L')  
   * Fonte des glaces (La)  
   * Lutteur et le clown (Le)  
-  * Maison de la place Troubnaïa (La)  
+  * Maison de la rue Troubnaïa (La)  
   * Miss Mend  
   * Moscou en octobre  
   * Okraïna  
@@ -503,10 +503,12 @@
   * Somewhere  
   * Virgin Suicides
 
-## Séances spéciales (2)
+## Séances spéciales (4)
 
+  * Il était une fois en Amérique  
+  * Les Sentinelles de l'oubli  
   * Nous irons tous au paradis  
-  * Un éléphant ça trompe énormément
+  * Un éléphant, ça trompe énormément
 
 ## Viva Varda ! (9)
 

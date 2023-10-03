@@ -26,12 +26,12 @@
         "ordre": 2,
         "idSeance": 115424,
         "idCopie": 9109,
-        "duree": 127,
+        "duree": 126,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "mention": "Ouverture de la rétrospective"
+    "mention": "Ouverture de la rétrospective. Séance présentée par Jacques Bontemps"
   },
   {
     "idCategorie": 3192,
@@ -50,7 +50,7 @@
         "ordre": 1,
         "idSeance": 115552,
         "idCopie": 9112,
-        "duree": 24,
+        "duree": 23,
         "version": "VOSTF",
         "format": "35 mm"
       },
@@ -70,12 +70,13 @@
     "typeEvenement": 13,
     "idEvenement": 29495,
     "idSeance": 115553,
-    "dateHeure": "2024-03-03T17:00:00",
+    "dateHeure": "2024-03-03T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 42655,
@@ -89,32 +90,41 @@
     ]
   },
   {
-    "idCategorie": 3192,
-    "typeEvenement": 13,
-    "idEvenement": 29529,
-    "idSeance": 115585,
-    "dateHeure": "2024-03-03T19:00:00",
+    "idCategorie": 3231,
+    "typeEvenement": 14,
+    "idEvenement": 29740,
+    "idSeance": 115553,
+    "dateHeure": "2024-03-03T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 105,
+    "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 39151,
-        "ordre": 1,
-        "idSeance": 115585,
-        "idCopie": 9225,
-        "duree": 17,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 3192,
+    "typeEvenement": 13,
+    "idEvenement": 29497,
+    "idSeance": 118077,
+    "dateHeure": "2024-03-03T20:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
       {
-        "idFilm": 39536,
-        "ordre": 2,
-        "idSeance": 115585,
-        "idCopie": 9111,
-        "duree": 52,
+        "idFilm": 38943,
+        "ordre": 1,
+        "idSeance": 118077,
+        "idCopie": 26763,
+        "duree": 105,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -131,6 +141,8 @@
       "Georges Franju"
     ],
     "dureeSeance": 90,
+    "idSeanceAssoc": 118076,
+    "typeAssoc": 117,
     "items": [
       {}
     ]
@@ -138,21 +150,23 @@
   {
     "idCategorie": 3192,
     "typeEvenement": 13,
-    "idEvenement": 29497,
-    "idSeance": 115555,
+    "idEvenement": 29507,
+    "idSeance": 118076,
     "dateHeure": "2024-03-06T21:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
     "dureeSeance": 135,
+    "idSeanceAssoc": 118061,
+    "typeAssoc": 117,
     "items": [
       {
-        "idFilm": 38943,
+        "idFilm": 40401,
         "ordre": 1,
-        "idSeance": 115555,
-        "idCopie": 26763,
-        "duree": 105,
+        "idSeance": 118076,
+        "idCopie": 7871,
+        "duree": 98,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -262,23 +276,42 @@
   {
     "idCategorie": 3192,
     "typeEvenement": 13,
-    "idEvenement": 29507,
-    "idSeance": 115560,
+    "idEvenement": 29739,
+    "idSeance": 118080,
     "dateHeure": "2024-03-09T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 90,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 40401,
+        "idFilm": 39536,
         "ordre": 1,
-        "idSeance": 115560,
-        "idCopie": 7871,
-        "duree": 98,
+        "idSeance": 118080,
+        "idCopie": 9111,
+        "duree": 52,
         "version": "VOSTF",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3231,
+    "typeEvenement": 14,
+    "idEvenement": 29741,
+    "idSeance": 118080,
+    "dateHeure": "2024-03-09T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -287,7 +320,7 @@
     "typeEvenement": 13,
     "idEvenement": 29455,
     "idSeance": 115561,
-    "dateHeure": "2024-03-09T16:45:00",
+    "dateHeure": "2024-03-09T18:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -310,7 +343,7 @@
     "typeEvenement": 13,
     "idEvenement": 29531,
     "idSeance": 115564,
-    "dateHeure": "2024-03-09T19:15:00",
+    "dateHeure": "2024-03-09T20:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -340,7 +373,7 @@
   {
     "idCategorie": 3192,
     "typeEvenement": 13,
-    "idEvenement": 29510,
+    "idEvenement": 29738,
     "idSeance": 115562,
     "dateHeure": "2024-03-10T14:30:00",
     "idSalle": [
@@ -350,8 +383,17 @@
     "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 84476,
+        "idFilm": 39151,
         "ordre": 1,
+        "idSeance": 115562,
+        "idCopie": 9225,
+        "duree": 17,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 84476,
+        "ordre": 2,
         "idSeance": 115562,
         "idCopie": 26771,
         "duree": 64,
@@ -377,7 +419,7 @@
         "ordre": 1,
         "idSeance": 115602,
         "idCopie": 8240,
-        "duree": 72,
+        "duree": 70,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -386,63 +428,31 @@
   {
     "idCategorie": 3192,
     "typeEvenement": 13,
-    "idEvenement": 29505,
-    "idSeance": 115588,
+    "idEvenement": 29735,
+    "idSeance": 118072,
     "dateHeure": "2024-03-10T19:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 39507,
+        "idFilm": 61801,
         "ordre": 1,
-        "idSeance": 115588,
-        "idCopie": 9114,
-        "duree": 51,
-        "version": "",
+        "idSeance": 118072,
+        "idCopie": 9106,
+        "duree": 61,
+        "version": "VOSTF",
         "format": "35 mm"
       },
       {
         "idFilm": 90542,
         "ordre": 2,
-        "idSeance": 115588,
+        "idSeance": 118072,
         "idCopie": 9119,
-        "duree": 70,
+        "duree": 48,
         "version": "",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3192,
-    "typeEvenement": 13,
-    "idEvenement": 29458,
-    "idSeance": 115601,
-    "dateHeure": "2024-03-11T18:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 52389,
-        "ordre": 1,
-        "idSeance": 115601,
-        "idCopie": 26768,
-        "duree": 42,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 61801,
-        "ordre": 2,
-        "idSeance": 115601,
-        "idCopie": 9106,
-        "duree": 61,
-        "version": "VOSTF",
         "format": "35 mm"
       }
     ]
@@ -452,7 +462,7 @@
     "typeEvenement": 13,
     "idEvenement": 29536,
     "idSeance": 118058,
-    "dateHeure": "2024-03-11T20:15:00",
+    "dateHeure": "2024-03-11T18:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -478,5 +488,38 @@
         "format": "16 mm"
       }
     ]
+  },
+  {
+    "idCategorie": 3192,
+    "typeEvenement": 13,
+    "idEvenement": 29732,
+    "idSeance": 118071,
+    "dateHeure": "2024-03-11T20:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 52389,
+        "ordre": 1,
+        "idSeance": 118071,
+        "idCopie": 26768,
+        "duree": 42,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 39507,
+        "ordre": 2,
+        "idSeance": 118071,
+        "idCopie": 9114,
+        "duree": 50,
+        "version": "",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance présentée par Dominique Païni"
   }
 ]

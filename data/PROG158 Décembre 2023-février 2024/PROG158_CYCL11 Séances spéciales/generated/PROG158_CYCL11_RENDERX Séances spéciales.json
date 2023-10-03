@@ -3,6 +3,62 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Avant-première Jérôme Prieur",
+      "items": [
+        {
+          "idFilm": 154649,
+          "content": [
+            {
+              "idFilm": 154649,
+              "ordre": 1,
+              "titre": "Les Sentinelles de l'oubli",
+              "realisateurs": "Jérôme Prieur",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 0,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105249,
+              "dateHeure": "2023-12-04T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Spectacle",
+      "items": [
+        {
+          "idConf": 29526,
+          "content": [
+            {
+              "idConf": 29526,
+              "titre": "Le monde à portée de la main",
+              "sousTitre": "Séance spectaculaire Georges Méliès",
+              "typeConference": "Spectacle",
+              "mentionAnimation": "Avec Émilie Cauquy, Camille Jourdy et Marion Montaigne",
+              "miniTexte": "Anticipation, science, rêves océanographiques et mécaniques célestes, instituts de géographie incohérente, expéditions fantastiques et exotiques. Une séance originale, sur mesure, tout public, célébrant l'art complet de Méliès l'enchanteur ! Du ciné-spectacle fondé sur des effets de surprise et d'attraction réunis autour de la projection de films : boniment, musique, bruitage, décor, causerie. De splendides restaurations numériques d'après copies peintes à la main, une partition sonore à trois artistes et une causerie à trois voix, tel est le programme de ces nouvelles séances spectaculaires entre ciné-concert et performance. Atmosphère insolite et sans pareil garantie !"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115536,
+              "dateHeure": "2023-12-09T16:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Hommage à Jean-Loup Dabadie",
       "items": [
         {
@@ -13,7 +69,7 @@
                 {
                   "idFilm": 50986,
                   "ordre": 1,
-                  "titre": "Un éléphant ça trompe énormément",
+                  "titre": "Un éléphant, ça trompe énormément",
                   "realisateurs": "Yves Robert",
                   "pays": "France",
                   "annee": 1976,
@@ -37,7 +93,8 @@
                   "ordre": 2,
                   "titre": "Dialogue avec Christophe Tardieu",
                   "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                  "mentionAnimation": "Animé par Frédéric Bonnaud",
+                  "miniTexte": "Jean-Loup Dabadie fut auteur de textes de chansons, de sketches qui ont fait rire les Français, de scénarios et de dialogues pour les réalisateurs français de la seconde moitié du XX<sup>e</sup> siècle : Claude Sautet (_César et Rosalie_), Claude Pinoteau (_La Gifle_), François Truffaut (_Une belle fille comme moi_), Yves Robert (_Un éléphant, ça trompe énormément_), Jean-Paul Rappeneau (_Le Sauvage_), Philippe de Broca (_Chère Louise_). À l'occasion de la parution du livre _Les Années Dabadie_ (éditions de l'Observatoire, 2023), Christophe Tardieu évoquera l'œuvre de cet homme de lettres et touche-à-tout de génie.\n\nÀ l'issue de la projection d'_Un éléphant, ça trompe énormément_, vers 18h, Christophe Tardieu dédicacera son ouvrage à la librairie de la Cinémathèque."
                 }
               ],
               "seances": [
@@ -85,25 +142,35 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Spectacle",
+      "titreSousCycle": "Sergio Leone",
       "items": [
         {
-          "idConf": 29526,
+          "idFilm": 43295,
           "content": [
             {
-              "idConf": 29526,
-              "titre": "Le monde à portée de la main",
-              "sousTitre": "Séance spectaculaire Georges Méliès",
-              "typeConference": "Spectacle",
-              "mentionAnimation": "Avec Émilie Cauquy, Camille Jourdy et Marion Montaigne",
-              "miniTexte": "Anticipation, science, rêves océanographiques et mécaniques célestes, instituts de géographie incohérente, expéditions fantastiques et exotiques. Une séance originale, sur mesure, tout public, célébrant l'art complet de Méliès l'enchanteur ! Du ciné-spectacle fondé sur des effets de surprise et d'attraction réunis autour de la projection de films : boniment, musique, bruitage, décor, causerie. De splendides restaurations numériques d'après copies peintes à la main, une partition sonore à trois artistes et une causerie à trois voix, tel est le programme de ces nouvelles séances spectaculaires entre ciné-concert et performance. Atmosphère insolite et sans pareil garantie !"
+              "idFilm": 43295,
+              "ordre": 1,
+              "titre": "Il était une fois en Amérique",
+              "titreVo": "Once Upon a Time in America",
+              "realisateurs": "Sergio Leone",
+              "pays": "États-Unis-Italie",
+              "annee": 1982,
+              "duree": 227,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _The Hoods_ de Harry Grey.",
+              "generique": [
+                "Robert De Niro",
+                "James Woods",
+                "Elizabeth McGovern"
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 115536,
-              "dateHeure": "2023-12-09T16:00:00",
-              "idSalle": "GF"
+              "idSeance": 105965,
+              "dateHeure": "2024-01-01T16:00:00",
+              "idSalle": "HL"
             }
           ]
         }
@@ -111,9 +178,15 @@
     }
   ],
   "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2023-12-04T20:00:00",
+        "titreFilms": "Les Sentinelles de l'oubli"
+      }
+    ],
     "Dialogue": [
       {
-        "titreFilms": "Un éléphant ça trompe énormément",
+        "titreFilms": "Un éléphant, ça trompe énormément",
         "mention": "avec Christophe Tardieu",
         "dateHeure": "2023-12-16T15:00:00"
       }

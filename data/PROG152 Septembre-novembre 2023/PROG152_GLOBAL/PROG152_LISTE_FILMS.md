@@ -17,11 +17,12 @@
   * Brad Pitt, la revanche d'un blond  
   * Jim Carrey, l'Amérique démasquée
 
-## Aujourd'hui le cinéma (24)
+## Aujourd'hui le cinéma (26)
 
   * Alberi  
   * Bambino  
   * Bonobo  
+  * Castigo (El)  
   * Chienne (La)  
   * Classified People  
   * Cœur brisé  
@@ -40,6 +41,7 @@
   * Petite Vendeuse de Soleil (La)  
   * Portraits fantômes  
   * Soleil dort (Le)  
+  * Takanakuy  
   * Tinikling  
   * Trois nuits par semaine  
   * Trois Tristes Tigres

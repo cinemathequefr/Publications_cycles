@@ -20,7 +20,7 @@
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
               "pays": "RFA-France",
               "annee": 1984,
-              "duree": 127,
+              "duree": 126,
               "version": "VOSTF",
               "format": "35 mm",
               "adaptation": "D'après le roman _L'Amérique_ de Franz Kafka.",
@@ -47,37 +47,64 @@
               "idSeance": 115424,
               "dateHeure": "2024-02-29T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Jacques Bontemps"
             }
           ]
         },
         {
-          "idFilm": 40401,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 29727,
+              "content": [
+                {
+                  "idConf": 29727,
+                  "titre": "Conférence de Mathieu Macheret",
+                  "sousTitre": "Conférence de Mathieu Macheret",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 118061,
+                  "idSeanceAssoc": 118076,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-03-06T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 40401,
-              "ordre": 1,
-              "titre": "Antigone",
-              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-              "pays": "Allemagne-France",
-              "annee": 1991,
-              "duree": 98,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après la pièce _Antigone_ de Sophocle.",
-              "generique": [
-                "Astrid Ofner",
-                "Ursula Ofner",
-                "Hans Diehl"
+              "content": [
+                {
+                  "idFilm": 40401,
+                  "ordre": 1,
+                  "titre": "Antigone",
+                  "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+                  "pays": "Allemagne-France",
+                  "annee": 1991,
+                  "duree": 98,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après la pièce _Antigone_ de Sophocle.",
+                  "generique": [
+                    "Astrid Ofner",
+                    "Ursula Ofner",
+                    "Hans Diehl"
+                  ],
+                  "miniTexte": "La tragédie de Sophocle, sa traduction par Hölderlin et la mise en scène de Brecht, filmées avec une rigueur mathématique par les Straub. La solennité du décor (le théâtre antique de Ségeste en Sicile), et la direction d'acteur millimétrée servent le combat épique de la sœur de Polynice avec l'arbitraire de la raison d'État. Le carton final, une citation de Brecht, est d'une terrassante actualité."
+                }
               ],
-              "miniTexte": "La tragédie de Sophocle, sa traduction par Hölderlin et la mise en scène de Brecht, filmées avec une rigueur mathématique par les Straub. La solennité du décor (le théâtre antique de Ségeste en Sicile), et la direction d'acteur millimétrée servent le combat épique de la sœur de Polynice avec l'arbitraire de la raison d'État. Le carton final, une citation de Brecht, est d'une terrassante actualité."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115560,
-              "dateHeure": "2024-03-09T14:30:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 118076,
+                  "idSeanceAssoc": 118076,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-03-06T21:15:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -92,7 +119,7 @@
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
               "pays": "Italie-France",
               "annee": 2006,
-              "duree": 72,
+              "duree": 70,
               "version": "VOSTF",
               "format": "35 mm",
               "adaptation": "D'après le roman _Dialogues avec Leucò_ de Cesare Pavese.",
@@ -117,32 +144,33 @@
           "content": [
             {
               "idFilm": 39507,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Cézanne",
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
               "pays": "France",
               "annee": 1990,
-              "duree": 51,
+              "duree": 50,
               "version": "",
               "format": "35 mm",
               "adaptation": "D'après le recueil _Cézanne_ de Joachim Gasquet.",
               "miniTexte": "Straub et Huillet éprouvent la question du regard, en croisant extraits du _Madame Bovary_ de Jean Renoir, images de la montagne Sainte-Victoire, tableaux de Cézanne et photos du maître au travail, lui qui, dans un dialogue avec Joachim Gasquet en 1921, se résignait à n'être « qu'une plaque sensible ».",
               "precedeSuivi": [
-                [],
                 [
                   [
-                    "Une visite au Louvre",
+                    "Noir péché",
                     null
                   ]
-                ]
+                ],
+                []
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 115588,
-              "dateHeure": "2024-03-10T19:45:00",
-              "idSalle": "HL"
+              "idSeance": 118071,
+              "dateHeure": "2024-03-11T20:15:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Dominique Païni"
             }
           ]
         },
@@ -221,7 +249,7 @@
           "content": [
             {
               "idFilm": 61801,
-              "ordre": 2,
+              "ordre": 1,
               "titre": "Du jour au lendemain",
               "titreVo": "Von Heute auf Morgen",
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
@@ -238,21 +266,21 @@
               ],
               "miniTexte": "L'un des films les plus légers du couple, adaptation en studio mais en son direct, d'un opéra de Schoenberg. Un panoramique sur l'orchestre, un insert sur un graffiti (« Où gît votre sourire enfoui ? »), puis un couple, chacun avec des envies d'ailleurs, dans un magnifique noir et blanc. Et une enfant, avec cette question qui pourrait embrasser tout le cinéma des Straub : « c'est quoi, un homme moderne ? »",
               "precedeSuivi": [
+                [],
                 [
                   [
-                    "Noir péché",
+                    "Une visite au Louvre",
                     null
                   ]
-                ],
-                []
+                ]
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 115601,
-              "dateHeure": "2024-03-11T18:00:00",
-              "idSalle": "GF"
+              "idSeance": 118072,
+              "dateHeure": "2024-03-10T19:45:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -292,7 +320,7 @@
               "idSeance": 115424,
               "dateHeure": "2024-02-29T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Jacques Bontemps"
             }
           ]
         },
@@ -309,7 +337,7 @@
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
               "pays": "RFA",
               "annee": 1968,
-              "duree": 24,
+              "duree": 23,
               "version": "VOSTF",
               "format": "35 mm",
               "adaptation": "D'après la pièce _Le Mal de la jeunesse_ de Ferdinand Bruckner.",
@@ -402,7 +430,7 @@
           "seances": [
             {
               "idSeance": 118058,
-              "dateHeure": "2024-03-11T20:15:00",
+              "dateHeure": "2024-03-11T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -442,7 +470,7 @@
           "seances": [
             {
               "idSeance": 118058,
-              "dateHeure": "2024-03-11T20:15:00",
+              "dateHeure": "2024-03-11T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -479,7 +507,7 @@
           "seances": [
             {
               "idSeance": 115564,
-              "dateHeure": "2024-03-09T19:15:00",
+              "dateHeure": "2024-03-09T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -508,8 +536,8 @@
                 [],
                 [
                   [
-                    "Non réconciliés ou Seule la violence aide où la violence règne",
-                    null
+                    "Retour du fils prodigue",
+                    "Le"
                   ]
                 ]
               ]
@@ -517,8 +545,8 @@
           ],
           "seances": [
             {
-              "idSeance": 115585,
-              "dateHeure": "2024-03-03T19:00:00",
+              "idSeance": 115562,
+              "dateHeure": "2024-03-10T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -548,9 +576,9 @@
           ],
           "seances": [
             {
-              "idSeance": 115555,
-              "dateHeure": "2024-03-06T21:15:00",
-              "idSalle": "GF"
+              "idSeance": 118077,
+              "dateHeure": "2024-03-03T20:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -612,7 +640,7 @@
                 [],
                 [
                   [
-                    "Du jour au lendemain",
+                    "Cézanne",
                     null
                   ]
                 ]
@@ -621,81 +649,107 @@
           ],
           "seances": [
             {
-              "idSeance": 115601,
-              "dateHeure": "2024-03-11T18:00:00",
-              "idSalle": "GF"
+              "idSeance": 118071,
+              "dateHeure": "2024-03-11T20:15:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Dominique Païni"
             }
           ]
         },
         {
-          "idFilm": 39536,
-          "content": [
+          "groupe": [
             {
               "idFilm": 39536,
-              "ordre": 2,
-              "titre": "Non réconciliés ou Seule la violence aide où la violence règne",
-              "titreVo": "Nicht versöhnt oder Es hilft nur Gewalt, wo Gewalt herrscht",
-              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-              "pays": "RFA",
-              "annee": 1965,
-              "duree": 52,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Les Deux Sacrements_ de Heinrich Böll.",
-              "generique": [
-                "Heinrich Hargesheimer",
-                "Karl Heinz Hargesheimer",
-                "Martha Staendner"
-              ],
-              "isFocus": true,
-              "miniTexte": "D'après _Les Deux Sacrements_ (Heinrich Böll, 1961), 50 ans de l'histoire de l'Allemagne, de la veille de la Première Guerre mondiale jusqu'au lendemain de la Seconde, à travers une dizaine de personnages dont les histoires et les destins s'entremêlent. Le premier long métrage des Straub, analyse au scalpel du « miracle économique », et un art consommé de la rapidité, de la soustraction, du récit lacunaire. La distanciation brechtienne à l'œuvre ici se retrouve même dans le titre du film, tiré d'une citation du dramaturge allemand.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Machorka-Muff",
-                    null
-                  ]
-                ],
-                []
+              "content": [
+                {
+                  "idFilm": 39536,
+                  "ordre": 1,
+                  "titre": "Non réconciliés ou Seule la violence aide où la violence règne",
+                  "titreVo": "Nicht versöhnt oder Es hilft nur Gewalt, wo Gewalt herrscht",
+                  "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+                  "pays": "RFA",
+                  "annee": 1965,
+                  "duree": 52,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Les Deux Sacrements_ de Heinrich Böll.",
+                  "generique": [
+                    "Heinrich Hargesheimer",
+                    "Karl Heinz Hargesheimer",
+                    "Martha Staendner"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "D'après _Les Deux Sacrements_ (Heinrich Böll, 1961), 50 ans de l'histoire de l'Allemagne, de la veille de la Première Guerre mondiale jusqu'au lendemain de la Seconde, à travers une dizaine de personnages dont les histoires et les destins s'entremêlent. Le premier long métrage des Straub, analyse au scalpel du « miracle économique », et un art consommé de la rapidité, de la soustraction, du récit lacunaire. La distanciation brechtienne à l'œuvre ici se retrouve même dans le titre du film, tiré d'une citation du dramaturge allemand."
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 115585,
-              "dateHeure": "2024-03-03T19:00:00",
-              "idSalle": "HL"
+              "idEvenement": 29741,
+              "content": [
+                {
+                  "idConf": 29741,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean Narboni",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 118080,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-03-09T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
         {
-          "idFilm": 42655,
-          "content": [
+          "groupe": [
             {
               "idFilm": 42655,
-              "ordre": 1,
-              "titre": "Othon",
-              "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-              "pays": "France-Italie",
-              "annee": 1969,
-              "duree": 88,
-              "version": "",
-              "format": "35 mm",
-              "adaptation": "D'après la pièce _Othon_ de Pierre Corneille.",
-              "generique": [
-                "Adriano Aprà",
-                "Anne Brumagne",
-                "Ennio Lauricella"
-              ],
-              "isFocus": true,
-              "miniTexte": "« Tous nos films ont mis des choses à l'épreuve. Des lieux avec des textes, des textes contre des lieux, des textes dans des lieux. Si on ne met pas les choses à l'épreuve, c'est inutile de faire un film ». Les Straub s'emparent d'une pièce de Corneille, dont l'adaptation est envisagée ici comme une lutte contre toute forme d'artifice : pas de scène de théâtre, ni de professionnels, mais des acteurs amateurs, filmés sur le mont Palatin pendant que le bruissement de la circulation romaine en contrebas couvre les alexandrins. L'oreille se tend, l'œil s'attache au moindre détail (magnifique photographie de Renato Berta), avec le sentiment de découvrir le verbe sous une forme jusqu'alors jamais vue."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 42655,
+                  "ordre": 1,
+                  "titre": "Othon",
+                  "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+                  "pays": "France-Italie",
+                  "annee": 1969,
+                  "duree": 88,
+                  "version": "",
+                  "format": "35 mm",
+                  "adaptation": "D'après la pièce _Othon_ de Pierre Corneille.",
+                  "generique": [
+                    "Adriano Aprà",
+                    "Anne Brumagne",
+                    "Ennio Lauricella"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "« Tous nos films ont mis des choses à l'épreuve. Des lieux avec des textes, des textes contre des lieux, des textes dans des lieux. Si on ne met pas les choses à l'épreuve, c'est inutile de faire un film ». Les Straub s'emparent d'une pièce de Corneille, dont l'adaptation est envisagée ici comme une lutte contre toute forme d'artifice : pas de scène de théâtre, ni de professionnels, mais des acteurs amateurs, filmés sur le mont Palatin pendant que le bruissement de la circulation romaine en contrebas couvre les alexandrins. L'oreille se tend, l'œil s'attache au moindre détail (magnifique photographie de Renato Berta), avec le sentiment de découvrir le verbe sous une forme jusqu'alors jamais vue."
+                }
+              ]
+            },
             {
-              "idSeance": 115553,
-              "dateHeure": "2024-03-03T17:00:00",
-              "idSalle": "HL"
+              "idEvenement": 29740,
+              "content": [
+                {
+                  "idConf": 29740,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Renato Berta",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 115553,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-03-03T16:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -725,7 +779,7 @@
           "seances": [
             {
               "idSeance": 115561,
-              "dateHeure": "2024-03-09T16:45:00",
+              "dateHeure": "2024-03-09T18:15:00",
               "idSalle": "HL"
             }
           ]
@@ -735,7 +789,7 @@
           "content": [
             {
               "idFilm": 84476,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Retour du fils prodigue",
               "art": "Le",
               "titreVo": "Ritorno del figlio prodiguo",
@@ -752,7 +806,16 @@
                 "Andrea Balducci",
                 "Gabriella Taddei"
               ],
-              "miniTexte": "Adaptés du roman _Les Femmes de Messine_, publié en 1949 par l'écrivain Elio Vittorini, _Le Retour du fils prodigue_ et _Humiliés_ constituent une forme de « suite » à _Ouvriers et Paysans_. L'utopie née du premier chapitre s'essouffle, sous les coups de boutoir de l'oppression économique. Reste un poing tendu, certes vers le bas, mais toujours serré fort."
+              "miniTexte": "Adaptés du roman _Les Femmes de Messine_, publié en 1949 par l'écrivain Elio Vittorini, _Le Retour du fils prodigue_ et _Humiliés_ constituent une forme de « suite » à _Ouvriers et Paysans_. L'utopie née du premier chapitre s'essouffle, sous les coups de boutoir de l'oppression économique. Reste un poing tendu, certes vers le bas, mais toujours serré fort.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Machorka-Muff",
+                    null
+                  ]
+                ],
+                []
+              ]
             }
           ],
           "seances": [
@@ -797,7 +860,7 @@
           "seances": [
             {
               "idSeance": 115564,
-              "dateHeure": "2024-03-09T19:15:00",
+              "dateHeure": "2024-03-09T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -885,7 +948,7 @@
               "realisateurs": "Jean-Marie Straub, Danièle Huillet",
               "pays": "France",
               "annee": 2003,
-              "duree": 70,
+              "duree": 48,
               "version": "",
               "format": "35 mm",
               "adaptation": "D'après des propos de Cézanne rapportés par Joachim Gasquet.",
@@ -894,7 +957,7 @@
               "precedeSuivi": [
                 [
                   [
-                    "Cézanne",
+                    "Du jour au lendemain",
                     null
                   ]
                 ],
@@ -904,33 +967,9 @@
           ],
           "seances": [
             {
-              "idSeance": 115588,
+              "idSeance": 118072,
               "dateHeure": "2024-03-10T19:45:00",
               "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 29727,
-          "content": [
-            {
-              "idConf": 29727,
-              "titre": "Conférence de Mathieu Macheret",
-              "sousTitre": "Conférence de Mathieu Macheret",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 118061,
-              "dateHeure": "2024-03-06T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }
@@ -943,6 +982,30 @@
         "titre": "Conférence de Mathieu Macheret",
         "mention": "par Mathieu Macheret",
         "dateHeure": "2024-03-06T19:00:00"
+      }
+    ],
+    "Dialogues": [
+      {
+        "titreFilms": "Othon",
+        "mention": "avec Renato Berta",
+        "dateHeure": "2024-03-03T16:30:00"
+      },
+      {
+        "titreFilms": "Non réconciliés ou Seule la violence aide où la violence règne",
+        "mention": "avec Jean Narboni",
+        "dateHeure": "2024-03-09T14:30:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "En rachâchant / Amerika, rapports de classe",
+        "mention": "par Jacques Bontemps",
+        "dateHeure": "2024-02-29T20:00:00"
+      },
+      {
+        "titreFilms": "Noir péché / Cézanne",
+        "mention": "par Dominique Païni",
+        "dateHeure": "2024-03-11T20:15:00"
       }
     ]
   }

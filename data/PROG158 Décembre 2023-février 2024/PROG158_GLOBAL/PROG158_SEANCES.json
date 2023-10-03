@@ -585,6 +585,29 @@
     "hashEvenement": "f38404"
   },
   {
+    "idSeance": 105249,
+    "idEvenement": 29742,
+    "dateHeure": "2023-12-04T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Avant-première Jérôme Prieur"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 154649,
+        "titre": "Les Sentinelles de l'oubli",
+        "realisateurs": "Jérôme Prieur",
+        "annee": 2023,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154649"
+  },
+  {
     "idSeance": 115286,
     "idEvenement": 29112,
     "dateHeure": "2023-12-04T20:45:00",
@@ -817,6 +840,10 @@
         "Les films"
       ],
       [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
+      ],
+      [
         "Barbet Schroeder",
         "Barbet Schroeder producteur"
       ]
@@ -843,7 +870,7 @@
       },
       {
         "idConf": 29490,
-        "titre": "Dialogue avec Frédéric Bonnaud",
+        "titre": "Discussion avec Frédéric Bonnaud",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -876,9 +903,9 @@
     "hashEvenement": "f99733"
   },
   {
-    "idSeance": 115615,
+    "idSeance": 118079,
     "idEvenement": 29476,
-    "dateHeure": "2023-12-08T17:30:00",
+    "dateHeure": "2023-12-08T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -936,7 +963,7 @@
   {
     "idSeance": 115487,
     "idEvenement": 29115,
-    "dateHeure": "2023-12-08T20:00:00",
+    "dateHeure": "2023-12-08T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -961,7 +988,7 @@
   {
     "idSeance": 115486,
     "idEvenement": 29085,
-    "dateHeure": "2023-12-08T20:30:00",
+    "dateHeure": "2023-12-08T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1337,39 +1364,6 @@
     "hashEvenement": "f100260"
   },
   {
-    "idSeance": 115620,
-    "idEvenement": 29476,
-    "dateHeure": "2023-12-11T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Sofia Coppola",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 87818,
-        "titre": "Lick the Star",
-        "realisateurs": "Sofia Coppola",
-        "annee": 1998,
-        "duree": 14,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 136543,
-        "titre": "Proies",
-        "art": "Les",
-        "realisateurs": "Sofia Coppola",
-        "annee": 2017,
-        "duree": 95,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f87818f136543"
-  },
-  {
     "idSeance": 105432,
     "idEvenement": 29515,
     "dateHeure": "2023-12-11T19:30:00",
@@ -1422,7 +1416,7 @@
   {
     "idSeance": 115619,
     "idEvenement": 29117,
-    "dateHeure": "2023-12-11T20:30:00",
+    "dateHeure": "2023-12-11T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1775,23 +1769,23 @@
   },
   {
     "idSeance": 105578,
-    "idEvenement": 29198,
+    "idEvenement": 29464,
     "dateHeure": "2023-12-16T15:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Séances spéciales",
-        "Hommage à Jean-Loup Dabadie"
+        "Spectacle"
       ],
       [
         "Séances spéciales",
-        "Spectacle"
+        "Hommage à Jean-Loup Dabadie"
       ]
     ],
     "items": [
       {
         "idFilm": 50986,
-        "titre": "Un éléphant ça trompe énormément",
+        "titre": "Un éléphant, ça trompe énormément",
         "realisateurs": "Yves Robert",
         "annee": 1976,
         "duree": 110,
@@ -2924,7 +2918,9 @@
         "titre": "Cabo Blanco",
         "realisateurs": "J. Lee Thompson",
         "annee": 1980,
-        "duree": 91
+        "duree": 91,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f154552"
@@ -3171,6 +3167,30 @@
       }
     ],
     "hashEvenement": "f32627"
+  },
+  {
+    "idSeance": 105965,
+    "idEvenement": 29743,
+    "dateHeure": "2024-01-01T16:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Sergio Leone"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43295,
+        "titre": "Il était une fois en Amérique",
+        "realisateurs": "Sergio Leone",
+        "annee": 1982,
+        "duree": 227,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f43295"
   },
   {
     "idSeance": 105999,
@@ -4568,13 +4588,17 @@
   },
   {
     "idSeance": 106359,
-    "idEvenement": 29491,
+    "idEvenement": 28758,
     "dateHeure": "2024-01-17T19:00:00",
     "salle": "HL",
     "cycle": [
       [
         "Ciné-club de Frédéric Bonnaud",
         "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
       ],
       [
         "Roberto Rossellini",
@@ -4594,7 +4618,7 @@
       },
       {
         "idConf": 29491,
-        "titre": "Dialogue avec Frédéric Bonnaud",
+        "titre": "Discussion avec Frédéric Bonnaud",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -7103,8 +7127,7 @@
       },
       {
         "idConf": 29521,
-        "titre": "Naissance de l'horreur moderne",
-        "sousTitre": "Dialogue avec Jean-François Rauger",
+        "titre": "Dialogue avec Jean-François Rauger",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -7526,7 +7549,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
+    "mention": "Ouverture de la rétrospective. Séance présentée par Bernard Eisenschitz",
     "items": [
       {
         "idFilm": 70817,
@@ -7805,10 +7828,11 @@
         "Rencontres et conférences"
       ]
     ],
+    "mention": "Accompagnement musical par Adrien Leconte, Quentin Coppalle et Lina Belaïd",
     "items": [
       {
         "idFilm": 70816,
-        "titre": "Maison de la place Troubnaïa",
+        "titre": "Maison de la rue Troubnaïa",
         "art": "La",
         "realisateurs": "Boris Barnet",
         "annee": 1927,
@@ -8455,7 +8479,7 @@
       },
       {
         "idConf": 29494,
-        "titre": "Dialogue avec Frédéric Bonnaud",
+        "titre": "Discussion avec Frédéric Bonnaud",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -8666,7 +8690,7 @@
   {
     "idSeance": 115399,
     "idEvenement": 29183,
-    "dateHeure": "2024-02-24T17:30:00",
+    "dateHeure": "2024-02-24T17:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -8688,9 +8712,33 @@
     "hashEvenement": "f55882"
   },
   {
+    "idSeance": 115406,
+    "idEvenement": 29050,
+    "dateHeure": "2024-02-24T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Boris Barnet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 53490,
+        "titre": "Lutteur et le clown",
+        "art": "Le",
+        "realisateurs": "Boris Barnet, Konstantin Youdine",
+        "annee": 1957,
+        "duree": 95,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f53490"
+  },
+  {
     "idSeance": 115642,
     "idEvenement": 29284,
-    "dateHeure": "2024-02-24T18:30:00",
+    "dateHeure": "2024-02-24T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8712,9 +8760,9 @@
     "hashEvenement": "f29534"
   },
   {
-    "idSeance": 115400,
+    "idSeance": 118081,
     "idEvenement": 29191,
-    "dateHeure": "2024-02-24T20:30:00",
+    "dateHeure": "2024-02-24T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -8734,30 +8782,6 @@
       }
     ],
     "hashEvenement": "f35699"
-  },
-  {
-    "idSeance": 115406,
-    "idEvenement": 29050,
-    "dateHeure": "2024-02-24T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 53490,
-        "titre": "Lutteur et le clown",
-        "art": "Le",
-        "realisateurs": "Boris Barnet, Konstantin Youdine",
-        "annee": 1957,
-        "duree": 95,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f53490"
   },
   {
     "idSeance": 115379,
@@ -8860,7 +8884,7 @@
     "hashEvenement": "f35805"
   },
   {
-    "idSeance": 107390,
+    "idSeance": 118082,
     "idEvenement": 28826,
     "dateHeure": "2024-02-25T17:30:00",
     "salle": "GF",
@@ -9029,7 +9053,7 @@
     "hashEvenement": "f154584f154583f154585f154586"
   },
   {
-    "idSeance": 107397,
+    "idSeance": 118084,
     "idEvenement": 29637,
     "dateHeure": "2024-02-26T20:00:00",
     "salle": "HL",
@@ -9039,7 +9063,7 @@
         "Les films"
       ]
     ],
-    "mention": "Avant-première. Séance présentée par Bertrand Bonello",
+    "mention": "Avant-première",
     "items": [
       {
         "idFilm": 154589,
@@ -9294,7 +9318,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
+    "mention": "Ouverture de la rétrospective. Séance présentée par Jacques Bontemps",
     "items": [
       {
         "idFilm": 77818,
@@ -9309,7 +9333,7 @@
         "titre": "Amerika, rapports de classe",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 1984,
-        "duree": 127,
+        "duree": 126,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -9446,28 +9470,28 @@
     "hashEvenement": "f132054c29487"
   },
   {
-    "idSeance": 107547,
-    "idEvenement": 29283,
+    "idSeance": 118073,
+    "idEvenement": 28828,
     "dateHeure": "2024-03-02T15:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur, 25 indispensables",
+        "Claude Autant-Lara",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 56844,
-        "titre": "Frissons",
-        "realisateurs": "David Cronenberg",
-        "annee": 1974,
-        "duree": 87,
-        "version": "VO",
-        "format": "DCP"
+        "idFilm": 46522,
+        "titre": "Bois des amants",
+        "art": "Le",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1960,
+        "duree": 94,
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f56844"
+    "hashEvenement": "f46522"
   },
   {
     "idSeance": 118019,
@@ -9511,7 +9535,7 @@
         "art": "Le",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 1968,
-        "duree": 24,
+        "duree": 23,
         "version": "VOSTF",
         "format": "35 mm"
       },
@@ -9528,28 +9552,28 @@
     "hashEvenement": "f39552f39557"
   },
   {
-    "idSeance": 107552,
-    "idEvenement": 28828,
+    "idSeance": 118074,
+    "idEvenement": 29283,
     "dateHeure": "2024-03-02T20:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Claude Autant-Lara",
+        "Le cinéma d'horreur, 25 indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 46522,
-        "titre": "Bois des amants",
-        "art": "Le",
-        "realisateurs": "Claude Autant-Lara",
-        "annee": 1960,
-        "duree": 94,
-        "format": "16 mm"
+        "idFilm": 56844,
+        "titre": "Frissons",
+        "realisateurs": "David Cronenberg",
+        "annee": 1974,
+        "duree": 87,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f46522"
+    "hashEvenement": "f56844"
   },
   {
     "idSeance": 115391,
@@ -9604,12 +9628,16 @@
   {
     "idSeance": 115553,
     "idEvenement": 29495,
-    "dateHeure": "2024-03-03T17:00:00",
+    "dateHeure": "2024-03-03T16:30:00",
     "salle": "HL",
     "cycle": [
       [
         "Jean-Marie Straub et Danièle Huillet",
         "Les films"
+      ],
+      [
+        "Jean-Marie Straub et Danièle Huillet",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -9620,9 +9648,15 @@
         "annee": 1969,
         "duree": 88,
         "format": "35 mm"
+      },
+      {
+        "idConf": 29740,
+        "titre": "Dialogue avec Renato Berta",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f42655"
+    "hashEvenement": "f42655c29740"
   },
   {
     "idSeance": 118020,
@@ -9649,39 +9683,6 @@
     "hashEvenement": "f85673"
   },
   {
-    "idSeance": 115585,
-    "idEvenement": 29529,
-    "dateHeure": "2024-03-03T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Jean-Marie Straub et Danièle Huillet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 39151,
-        "titre": "Machorka-Muff",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1962,
-        "duree": 17,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 39536,
-        "titre": "Non réconciliés ou Seule la violence aide où la violence règne",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1965,
-        "duree": 52,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f39151f39536"
-  },
-  {
     "idSeance": 118021,
     "idEvenement": 29377,
     "dateHeure": "2024-03-03T20:00:00",
@@ -9703,6 +9704,30 @@
       }
     ],
     "hashEvenement": "f142026"
+  },
+  {
+    "idSeance": 118077,
+    "idEvenement": 29497,
+    "dateHeure": "2024-03-03T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Jean-Marie Straub et Danièle Huillet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 38943,
+        "titre": "Moïse et Aaron",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1974,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f38943"
   },
   {
     "idSeance": 115396,
@@ -9871,30 +9896,6 @@
     "hashEvenement": "c29727"
   },
   {
-    "idSeance": 115426,
-    "idEvenement": 29047,
-    "dateHeure": "2024-03-06T19:45:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 70823,
-        "titre": "Fonte des glaces",
-        "art": "La",
-        "realisateurs": "Boris Barnet",
-        "annee": 1931,
-        "duree": 65,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f70823"
-  },
-  {
     "idSeance": 107691,
     "idEvenement": 29270,
     "dateHeure": "2024-03-06T20:00:00",
@@ -9920,8 +9921,32 @@
     "hashEvenement": "f45212"
   },
   {
-    "idSeance": 115555,
-    "idEvenement": 29497,
+    "idSeance": 115426,
+    "idEvenement": 29047,
+    "dateHeure": "2024-03-06T20:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Boris Barnet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 70823,
+        "titre": "Fonte des glaces",
+        "art": "La",
+        "realisateurs": "Boris Barnet",
+        "annee": 1931,
+        "duree": 65,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f70823"
+  },
+  {
+    "idSeance": 118076,
+    "idEvenement": 29507,
     "dateHeure": "2024-03-06T21:15:00",
     "salle": "GF",
     "cycle": [
@@ -9932,16 +9957,16 @@
     ],
     "items": [
       {
-        "idFilm": 38943,
-        "titre": "Moïse et Aaron",
+        "idFilm": 40401,
+        "titre": "Antigone",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1974,
-        "duree": 105,
+        "annee": 1991,
+        "duree": 98,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f38943"
+    "hashEvenement": "f40401"
   },
   {
     "idSeance": 115556,
@@ -10132,28 +10157,38 @@
     "hashEvenement": "f52779"
   },
   {
-    "idSeance": 115560,
-    "idEvenement": 29507,
+    "idSeance": 118080,
+    "idEvenement": 29739,
     "dateHeure": "2024-03-09T14:30:00",
     "salle": "HL",
     "cycle": [
       [
         "Jean-Marie Straub et Danièle Huillet",
         "Les films"
+      ],
+      [
+        "Jean-Marie Straub et Danièle Huillet",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 40401,
-        "titre": "Antigone",
+        "idFilm": 39536,
+        "titre": "Non réconciliés ou Seule la violence aide où la violence règne",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1991,
-        "duree": 98,
+        "annee": 1965,
+        "duree": 52,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 29741,
+        "titre": "Dialogue avec Jean Narboni",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f40401"
+    "hashEvenement": "f39536c29741"
   },
   {
     "idSeance": 107692,
@@ -10190,30 +10225,6 @@
       }
     ],
     "hashEvenement": "f97049f102736f131916"
-  },
-  {
-    "idSeance": 115561,
-    "idEvenement": 29455,
-    "dateHeure": "2024-03-09T16:45:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Jean-Marie Straub et Danièle Huillet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 74059,
-        "titre": "Ouvriers, paysans",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 2000,
-        "duree": 123,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f74059"
   },
   {
     "idSeance": 107731,
@@ -10276,9 +10287,56 @@
     "hashEvenement": "f120473f87368f154640"
   },
   {
+    "idSeance": 115561,
+    "idEvenement": 29455,
+    "dateHeure": "2024-03-09T18:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Jean-Marie Straub et Danièle Huillet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 74059,
+        "titre": "Ouvriers, paysans",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 2000,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f74059"
+  },
+  {
+    "idSeance": 107732,
+    "idEvenement": 29055,
+    "dateHeure": "2024-03-09T19:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Boris Barnet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 70848,
+        "titre": "Poète",
+        "art": "Le",
+        "realisateurs": "Boris Barnet",
+        "annee": 1957,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f70848"
+  },
+  {
     "idSeance": 115564,
     "idEvenement": 29531,
-    "dateHeure": "2024-03-09T19:15:00",
+    "dateHeure": "2024-03-09T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -10308,31 +10366,8 @@
     "hashEvenement": "f61799f64373"
   },
   {
-    "idSeance": 107732,
-    "idEvenement": 29055,
-    "dateHeure": "2024-03-09T19:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 70848,
-        "titre": "Poète",
-        "art": "Le",
-        "realisateurs": "Boris Barnet",
-        "annee": 1957,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f70848"
-  },
-  {
     "idSeance": 115562,
-    "idEvenement": 29510,
+    "idEvenement": 29738,
     "dateHeure": "2024-03-10T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -10342,6 +10377,15 @@
       ]
     ],
     "items": [
+      {
+        "idFilm": 39151,
+        "titre": "Machorka-Muff",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1962,
+        "duree": 17,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
       {
         "idFilm": 84476,
         "titre": "Retour du fils prodigue",
@@ -10353,7 +10397,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f84476"
+    "hashEvenement": "f39151f84476"
   },
   {
     "idSeance": 107747,
@@ -10396,7 +10440,7 @@
         "titre": "Ces rencontres avec eux",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 2006,
-        "duree": 72,
+        "duree": 70,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -10428,8 +10472,8 @@
     "hashEvenement": "f70849"
   },
   {
-    "idSeance": 115588,
-    "idEvenement": 29505,
+    "idSeance": 118072,
+    "idEvenement": 29735,
     "dateHeure": "2024-03-10T19:45:00",
     "salle": "HL",
     "cycle": [
@@ -10440,11 +10484,12 @@
     ],
     "items": [
       {
-        "idFilm": 39507,
-        "titre": "Cézanne",
+        "idFilm": 61801,
+        "titre": "Du jour au lendemain",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1990,
-        "duree": 51,
+        "annee": 1996,
+        "duree": 61,
+        "version": "VOSTF",
         "format": "35 mm"
       },
       {
@@ -10452,11 +10497,11 @@
         "titre": "Une visite au Louvre",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 2003,
-        "duree": 70,
+        "duree": 48,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f39507f90542"
+    "hashEvenement": "f61801f90542"
   },
   {
     "idSeance": 107749,
@@ -10483,42 +10528,9 @@
     "hashEvenement": "f70850"
   },
   {
-    "idSeance": 115601,
-    "idEvenement": 29458,
-    "dateHeure": "2024-03-11T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Jean-Marie Straub et Danièle Huillet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 52389,
-        "titre": "Noir péché",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1989,
-        "duree": 42,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 61801,
-        "titre": "Du jour au lendemain",
-        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-        "annee": 1996,
-        "duree": 61,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f52389f61801"
-  },
-  {
     "idSeance": 118058,
     "idEvenement": 29536,
-    "dateHeure": "2024-03-11T20:15:00",
+    "dateHeure": "2024-03-11T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -10547,5 +10559,38 @@
       }
     ],
     "hashEvenement": "f86158f56345"
+  },
+  {
+    "idSeance": 118071,
+    "idEvenement": 29732,
+    "dateHeure": "2024-03-11T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jean-Marie Straub et Danièle Huillet",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Dominique Païni",
+    "items": [
+      {
+        "idFilm": 52389,
+        "titre": "Noir péché",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1989,
+        "duree": 42,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 39507,
+        "titre": "Cézanne",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+        "annee": 1990,
+        "duree": 50,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f52389f39507"
   }
 ]

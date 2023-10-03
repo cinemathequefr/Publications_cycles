@@ -462,6 +462,54 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Festival Biarritz Amérique latine 2023",
+      "texteSousCycle": "Rendez-vous de référence en Europe pour les cinémas latino-américains, le Festival Biarritz Amérique latine présente chaque année plus de 60 films, pour la plupart inédits en France. Les deux Grands prix 2023, long et court métrages, primés lors de la 32<sup>e</sup> édition (23-29 septembre) seront présentés en avant-première et en présence des réalisateurs (sous réserve).",
+      "items": [
+        {
+          "idEvenement": 29737,
+          "content": [
+            {
+              "idFilm": 154648,
+              "ordre": 1,
+              "titre": "Takanakuy",
+              "realisateurs": "Gustavo Bockos",
+              "pays": "Brésil-Pérou",
+              "annee": 2022,
+              "duree": 18,
+              "version": "VOSTF",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 154647,
+              "ordre": 2,
+              "titre": "Castigo",
+              "art": "El",
+              "realisateurs": "Matías Bize",
+              "pays": "Chili-Argentine",
+              "annee": 2023,
+              "duree": 86,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Antonia Zegers",
+                "Néstor Cantillana",
+                "Catalina Saavedra"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104989,
+              "dateHeure": "2023-10-16T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Alex Masson"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Nicolas Giuliani",
       "texteSousCycle": "_L'Envoûtement_ suit le quotidien d'un couple d'amoureux déficients mentaux, qui travaille dans un établissement maraîcher, et dont l'harmonie est troublée par l'arrivée d'une nouvelle éducatrice. Nicolas Giuliani filme avec grâce et sans pathos une histoire d'amour fou, saisissante de beauté. Pour sa carte blanche, le cinéaste a choisi deux moyens métrages : la puissance du cinéma direct avec _Jean-Jacques_, documentaire rare et remarquable du photographe et cinéaste Jean Gaumy qui saisit les liens entre les habitants d'un petit village normand et le curieux Jean-Jacques ; et _La Petite vendeuse de soleil_ de Djibril Diop Mambéty, qui voit une jeune mendiante vendre _Le Soleil_, célèbre quotidien sénégalais, dont le commerce est réservé aux garçons.",
       "items": [
@@ -506,7 +554,7 @@
               "annee": 1998,
               "duree": 45,
               "version": "VOSTF",
-              "format": "35 mm",
+              "format": "DCP",
               "ageMinimal": 8,
               "generique": [
                 "Lissa Baléra",
@@ -581,6 +629,11 @@
         "titreFilms": "Cœur brisé / Le Soleil dort / Alberi / Mes indésirables",
         "mention": "par Félix Fattal",
         "dateHeure": "2023-09-18T19:00:00"
+      },
+      {
+        "titreFilms": "Takanakuy / El Castigo",
+        "mention": "par Alex Masson",
+        "dateHeure": "2023-10-16T19:00:00"
       }
     ]
   }

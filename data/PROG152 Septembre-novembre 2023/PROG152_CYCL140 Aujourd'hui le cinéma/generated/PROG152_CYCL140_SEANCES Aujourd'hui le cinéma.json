@@ -192,6 +192,39 @@
     "mention": "Séance suivie d'une discussion avec Zoel Aeschbacher"
   },
   {
+    "idCategorie": 3071,
+    "typeEvenement": 13,
+    "idEvenement": 29737,
+    "idSeance": 104989,
+    "dateHeure": "2023-10-16T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 154648,
+        "ordre": 1,
+        "idSeance": 104989,
+        "idCopie": 26954,
+        "duree": 18,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154647,
+        "ordre": 2,
+        "idSeance": 104989,
+        "idCopie": 26956,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Alex Masson"
+  },
+  {
     "idCategorie": 3123,
     "typeEvenement": 13,
     "idEvenement": 28848,
@@ -334,10 +367,10 @@
         "idFilm": 65226,
         "ordre": 3,
         "idSeance": 105041,
-        "idCopie": 10378,
+        "idCopie": 16944,
         "duree": 45,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "mention": "Séance suivie d'une discussion avec Nicolas Giuliani"
@@ -365,8 +398,5 @@
       }
     ],
     "mention": "Séance suivie d'une discussion avec Jérémie Périn"
-  },
-  {
-    "mention": "Séance présentée par Alex Masson"
   }
 ]
