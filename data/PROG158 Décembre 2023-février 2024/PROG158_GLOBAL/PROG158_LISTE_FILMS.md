@@ -332,7 +332,7 @@
   * Vacances  
   * Vous ne l'emporterez pas avec vous
 
-## Le cinéma d'horreur, 25 indispensables (25)
+## Le cinéma d'horreur, 25 indispensables (24)
 
   * Audition  
   * Carrie au bal du diable  
@@ -346,7 +346,6 @@
   * Freaks  
   * Frissons  
   * Histoire de fantômes japonais  
-  * Horrible docteur Orloff (L')  
   * Inferno  
   * Kaïro  
   * Maison du Diable (La)  
@@ -399,7 +398,7 @@
   * Scorpio Rising  
   * Terreur sur la ligne  
   * Un flic  
-  * Voodoo in my blood
+  * Voodoo in My Blood
 
 ## Richard Fleischer (46)
 
