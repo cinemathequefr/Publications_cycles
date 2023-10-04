@@ -200,9 +200,9 @@
           ]
         },
         {
-          "idSeance": 115533,
+          "idSeance": 118092,
           "ordre": 1,
-          "dateHeure": "2024-02-18T20:30:00",
+          "dateHeure": "2024-02-17T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -315,9 +315,9 @@
           ]
         },
         {
-          "idSeance": 118088,
+          "idSeance": 118091,
           "ordre": 1,
-          "dateHeure": "2024-02-17T20:00:00",
+          "dateHeure": "2024-02-18T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -478,6 +478,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 3171,
           "idEvenement": 29744,
           "typeEvenement": 13,
@@ -497,7 +498,7 @@
           "textes": [
             {
               "typeTexte": 1000,
-              "texte": "Le deuxième film d'Eli Roth (« The Bear Jew », dans _Inglourious Basterds_ de Quentin Tarantino, lui-même producteur exécutif d'_Hostel_). Entamé sur un tempo à contretemps des modes de l'époque, _Hostel_ laisse le malaise s'installer lentement, pour _in fine_ atteindre des sommets de gore, qui disent autant sur l'état actuel du genre que sur les basses pulsions des mâles américains (ici en quêtes de sensations fortes et de filles faciles en Slovaquie)."
+              "texte": "Le deuxième film d'Eli Roth (« The Bear Jew », dans _Inglourious Basterds_ de Quentin Tarantino, lui-même producteur exécutif d'_Hostel_). Entamé sur un tempo à contretemps des modes de l'époque, _Hostel_ laisse le malaise s'installer lentement, pour _in fine_ atteindre des sommets de gore, qui en disent autant sur l'état actuel du genre que sur l'abjection du Mâle occidental obsédé par une quête du plaisir culminant, en toute logique, dans la torture et la mise à mort."
             },
             {
               "typeTexte": 9,
@@ -659,6 +660,40 @@
           ]
         },
         {
+          "idSeance": 118093,
+          "ordre": 1,
+          "dateHeure": "2024-02-21T20:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3171,
+          "idEvenement": 29282,
+          "typeEvenement": 13,
+          "idFilm": 54535,
+          "titre": "Massacre à la tronçonneuse",
+          "artVo": "The",
+          "titreVo": "Texas Chainsaw Massacre",
+          "realisateurs": "Tobe Hooper",
+          "annee": 1973,
+          "pays": "États-Unis",
+          "duree": 84,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Marilyn Burns",
+            "Paul A. Partain",
+            "William Vail"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "« Mon film montre la face sombre des États-Unis », expliquait Tobe Hooper. Le premier opus de la franchise qui met en scène les atrocités de Leatherface distille un malaise diffus. Dans un tourbillon de violence gore, un groupe d'amis devient la proie d'une famille de cannibales. La censure se déchaîne, et Marilyn Burns entre dans la légende, première _Scream Queen_ d'une longue lignée."
+            }
+          ]
+        },
+        {
           "idSeance": 107012,
           "ordre": 1,
           "dateHeure": "2024-02-10T20:30:00",
@@ -700,7 +735,7 @@
         {
           "idSeance": 107206,
           "ordre": 1,
-          "dateHeure": "2024-02-18T18:30:00",
+          "dateHeure": "2024-02-18T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -964,6 +999,38 @@
             }
           ],
           "mentionAnimation": "Animé par Bernard Benoliel"
+        },
+        {
+          "idSeance": 118089,
+          "ordre": 2,
+          "dateHeure": "2024-02-18T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3208,
+          "idEvenement": 29745,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Jean-François Rauger",
+          "duree": 60,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "_Hostel_ incarne exemplairement la façon dont le cinéma d'horreur moderne, dans ses meilleures manifestations, peut être compris comme une gigantesque parabole sur le monde moderne et l'ordre néolibéral. Le film décrit un univers de la circulation illimitée, de l'instantanéité et de la transparence absolues. La mort et la souffrance y deviennent les perspectives logiques de cette satisfaction infinie des désirs que promeut le consumérisme contemporain. — Jean-François Rauger"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Jean-François Rauger",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []

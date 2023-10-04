@@ -301,23 +301,23 @@
   {
     "idCategorie": 3171,
     "typeEvenement": 13,
-    "idEvenement": 29249,
-    "idSeance": 118088,
+    "idEvenement": 29347,
+    "idSeance": 118092,
     "dateHeure": "2024-02-17T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 90,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 30930,
+        "idFilm": 55510,
         "ordre": 1,
-        "idSeance": 118088,
-        "idCopie": 1711,
-        "duree": 64,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idSeance": 118092,
+        "idCopie": 9197,
+        "duree": 91,
+        "version": "VF",
+        "format": "35 mm"
       }
     ]
   },
@@ -332,6 +332,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 99098,
@@ -345,11 +346,29 @@
     ]
   },
   {
+    "idCategorie": 3208,
+    "typeEvenement": 14,
+    "idEvenement": 29745,
+    "idSeance": 118089,
+    "dateHeure": "2024-02-18T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
     "idCategorie": 3171,
     "typeEvenement": 13,
     "idEvenement": 29287,
     "idSeance": 107206,
-    "dateHeure": "2024-02-18T18:30:00",
+    "dateHeure": "2024-02-18T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -370,23 +389,23 @@
   {
     "idCategorie": 3171,
     "typeEvenement": 13,
-    "idEvenement": 29347,
-    "idSeance": 115533,
-    "dateHeure": "2024-02-18T20:30:00",
+    "idEvenement": 29249,
+    "idSeance": 118091,
+    "dateHeure": "2024-02-18T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 55510,
+        "idFilm": 30930,
         "ordre": 1,
-        "idSeance": 115533,
-        "idCopie": 9197,
-        "duree": 91,
-        "version": "VF",
-        "format": "35 mm"
+        "idSeance": 118091,
+        "idCopie": 1711,
+        "duree": 64,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -416,6 +435,29 @@
   {
     "idCategorie": 3171,
     "typeEvenement": 13,
+    "idEvenement": 29282,
+    "idSeance": 118093,
+    "dateHeure": "2024-02-21T20:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 54535,
+        "ordre": 1,
+        "idSeance": 118093,
+        "idCopie": 26531,
+        "duree": 84,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3171,
+    "typeEvenement": 13,
     "idEvenement": 29284,
     "idSeance": 115642,
     "dateHeure": "2024-02-24T20:30:00",
@@ -429,7 +471,7 @@
         "idFilm": 29534,
         "ordre": 1,
         "idSeance": 115642,
-        "idCopie": 14665,
+        "idCopie": 26968,
         "duree": 98,
         "version": "VOSTF",
         "format": "DCP"

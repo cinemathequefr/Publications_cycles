@@ -487,7 +487,8 @@
         "realisateurs": "Aki Kaurismäki",
         "annee": 1988,
         "duree": 73,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46176"
@@ -582,7 +583,8 @@
         "realisateurs": "Aki Kaurismäki",
         "annee": 1984,
         "duree": 82,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f38404"
@@ -907,9 +909,34 @@
     "hashEvenement": "f99733"
   },
   {
+    "idSeance": 115484,
+    "idEvenement": 29086,
+    "dateHeure": "2023-12-08T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Barbet Schroeder",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36483,
+        "titre": "Mystère von Bülow",
+        "art": "Le",
+        "realisateurs": "Barbet Schroeder",
+        "annee": 1989,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f36483"
+  },
+  {
     "idSeance": 118079,
     "idEvenement": 29476,
-    "dateHeure": "2023-12-08T18:00:00",
+    "dateHeure": "2023-12-08T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -940,56 +967,6 @@
     "hashEvenement": "f87818f136543"
   },
   {
-    "idSeance": 115484,
-    "idEvenement": 29086,
-    "dateHeure": "2023-12-08T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Barbet Schroeder",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36483,
-        "titre": "Mystère von Bülow",
-        "art": "Le",
-        "realisateurs": "Barbet Schroeder",
-        "annee": 1989,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f36483"
-  },
-  {
-    "idSeance": 115487,
-    "idEvenement": 29115,
-    "dateHeure": "2023-12-08T20:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Aki Kaurismäki",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 79090,
-        "titre": "Homme sans passé",
-        "art": "L'",
-        "realisateurs": "Aki Kaurismäki",
-        "annee": 2001,
-        "duree": 97,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f79090"
-  },
-  {
     "idSeance": 115486,
     "idEvenement": 29085,
     "dateHeure": "2023-12-08T20:45:00",
@@ -1011,6 +988,31 @@
       }
     ],
     "hashEvenement": "f51226"
+  },
+  {
+    "idSeance": 115487,
+    "idEvenement": 29115,
+    "dateHeure": "2023-12-08T21:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aki Kaurismäki",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79090,
+        "titre": "Homme sans passé",
+        "art": "L'",
+        "realisateurs": "Aki Kaurismäki",
+        "annee": 2001,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f79090"
   },
   {
     "idSeance": 118012,
@@ -3182,7 +3184,7 @@
     "cycle": [
       [
         "Séances spéciales",
-        "Sergio Leone"
+        "Séance du jour de l'An"
       ]
     ],
     "items": [
@@ -6097,7 +6099,9 @@
       },
       {
         "idConf": 29652,
-        "titre": "[Action culturelle sans titre]"
+        "titre": "Dialogue avec Bertrand Bonello",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
     "hashEvenement": "f36943c29652"
@@ -7660,7 +7664,9 @@
       },
       {
         "idConf": 29654,
-        "titre": "[Action culturelle sans titre]"
+        "titre": "Dialogue avec Bertrand Bonello",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
     "hashEvenement": "f57739c29654"
@@ -7714,6 +7720,29 @@
       }
     ],
     "hashEvenement": "f46519"
+  },
+  {
+    "idSeance": 118086,
+    "idEvenement": 29288,
+    "dateHeure": "2024-02-16T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le cinéma d'horreur, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 54715,
+        "titre": "Zombie",
+        "realisateurs": "George A. Romero",
+        "annee": 1978,
+        "duree": 117,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f54715"
   },
   {
     "idSeance": 115489,
@@ -7772,33 +7801,9 @@
     "hashEvenement": "f70812"
   },
   {
-    "idSeance": 107151,
-    "idEvenement": 29249,
-    "dateHeure": "2024-02-16T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le cinéma d'horreur, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 30930,
-        "titre": "Freaks",
-        "realisateurs": "Tod Browning",
-        "annee": 1932,
-        "duree": 64,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f30930"
-  },
-  {
     "idSeance": 107152,
     "idEvenement": 29274,
-    "dateHeure": "2024-02-16T21:00:00",
+    "dateHeure": "2024-02-16T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7975,8 +7980,8 @@
     "hashEvenement": "f70837"
   },
   {
-    "idSeance": 107191,
-    "idEvenement": 29288,
+    "idSeance": 118092,
+    "idEvenement": 29347,
     "dateHeure": "2024-02-17T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -7987,43 +7992,86 @@
     ],
     "items": [
       {
-        "idFilm": 54715,
-        "titre": "Zombie",
-        "realisateurs": "George A. Romero",
-        "annee": 1978,
-        "duree": 117,
-        "format": "DCP"
+        "idFilm": 55510,
+        "titre": "Enfer des zombies",
+        "art": "L'",
+        "realisateurs": "Lucio Fulci",
+        "annee": 1979,
+        "duree": 91,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f54715"
+    "hashEvenement": "f55510"
   },
   {
-    "idSeance": 115579,
-    "idEvenement": 29282,
+    "idSeance": 118089,
+    "idEvenement": 29744,
     "dateHeure": "2024-02-18T14:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Le cinéma d'horreur, 25 indispensables",
         "Les films"
+      ],
+      [
+        "Le cinéma d'horreur, 25 indispensables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 54535,
-        "titre": "Massacre à la tronçonneuse",
-        "realisateurs": "Tobe Hooper",
-        "annee": 1973,
-        "duree": 84,
-        "format": "DCP"
+        "idFilm": 99098,
+        "titre": "Hostel",
+        "realisateurs": "Eli Roth",
+        "annee": 2005,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idConf": 29745,
+        "titre": "Dialogue avec Jean-François Rauger",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f54535"
+    "hashEvenement": "f99098c29745"
+  },
+  {
+    "idSeance": 118057,
+    "idEvenement": 29048,
+    "dateHeure": "2024-02-18T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ],
+      [
+        "Boris Barnet",
+        "Les films"
+      ]
+    ],
+    "mention": "Accompagnement musical par Karim Gherbi, Jean-Baptiste Laya et Abdesslem Gherbi",
+    "items": [
+      {
+        "idFilm": 40602,
+        "titre": "Jeune Fille au carton à chapeau",
+        "art": "La",
+        "realisateurs": "Boris Barnet",
+        "annee": 1927,
+        "duree": 60,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f40602"
   },
   {
     "idSeance": 115387,
     "idEvenement": 28833,
-    "dateHeure": "2024-02-18T14:30:00",
+    "dateHeure": "2024-02-18T15:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -8063,59 +8111,6 @@
     "hashEvenement": "f65362f46274f46278"
   },
   {
-    "idSeance": 118057,
-    "idEvenement": 29048,
-    "dateHeure": "2024-02-18T15:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Ma petite Cinémathèque",
-        "Les films"
-      ],
-      [
-        "Boris Barnet",
-        "Les films"
-      ]
-    ],
-    "mention": "Accompagnement musical par Karim Gherbi, Jean-Baptiste Laya et Abdesslem Gherbi",
-    "items": [
-      {
-        "idFilm": 40602,
-        "titre": "Jeune Fille au carton à chapeau",
-        "art": "La",
-        "realisateurs": "Boris Barnet",
-        "annee": 1927,
-        "duree": 60,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f40602"
-  },
-  {
-    "idSeance": 107206,
-    "idEvenement": 29287,
-    "dateHeure": "2024-02-18T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le cinéma d'horreur, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 30860,
-        "titre": "Nuit des masques",
-        "art": "La",
-        "realisateurs": "John Carpenter",
-        "annee": 1978,
-        "duree": 91
-      }
-    ],
-    "hashEvenement": "f30860"
-  },
-  {
     "idSeance": 107211,
     "idEvenement": 28822,
     "dateHeure": "2024-02-18T17:30:00",
@@ -8141,9 +8136,32 @@
     "hashEvenement": "f46280"
   },
   {
+    "idSeance": 107206,
+    "idEvenement": 29287,
+    "dateHeure": "2024-02-18T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le cinéma d'horreur, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30860,
+        "titre": "Nuit des masques",
+        "art": "La",
+        "realisateurs": "John Carpenter",
+        "annee": 1978,
+        "duree": 91
+      }
+    ],
+    "hashEvenement": "f30860"
+  },
+  {
     "idSeance": 115388,
     "idEvenement": 29201,
-    "dateHeure": "2024-02-18T17:30:00",
+    "dateHeure": "2024-02-18T18:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -8163,31 +8181,6 @@
       }
     ],
     "hashEvenement": "f69160"
-  },
-  {
-    "idSeance": 115533,
-    "idEvenement": 29347,
-    "dateHeure": "2024-02-18T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le cinéma d'horreur, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 55510,
-        "titre": "Enfer des zombies",
-        "art": "L'",
-        "realisateurs": "Lucio Fulci",
-        "annee": 1979,
-        "duree": 91,
-        "version": "VF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f55510"
   },
   {
     "idSeance": 118033,
@@ -8213,9 +8206,33 @@
     "hashEvenement": "f46151"
   },
   {
+    "idSeance": 118091,
+    "idEvenement": 29249,
+    "dateHeure": "2024-02-18T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le cinéma d'horreur, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30930,
+        "titre": "Freaks",
+        "realisateurs": "Tod Browning",
+        "annee": 1932,
+        "duree": 64,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f30930"
+  },
+  {
     "idSeance": 115404,
     "idEvenement": 29059,
-    "dateHeure": "2024-02-18T20:00:00",
+    "dateHeure": "2024-02-18T20:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -8405,9 +8422,9 @@
     "hashEvenement": "f35694"
   },
   {
-    "idSeance": 107257,
-    "idEvenement": 29271,
-    "dateHeure": "2024-02-21T20:30:00",
+    "idSeance": 118093,
+    "idEvenement": 29282,
+    "dateHeure": "2024-02-21T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8417,17 +8434,15 @@
     ],
     "items": [
       {
-        "idFilm": 65595,
-        "titre": "Horrible docteur Orloff",
-        "art": "L'",
-        "realisateurs": "Jesús Franco",
-        "annee": 1961,
-        "duree": 86,
-        "version": "VF",
-        "format": "35 mm"
+        "idFilm": 54535,
+        "titre": "Massacre à la tronçonneuse",
+        "realisateurs": "Tobe Hooper",
+        "annee": 1973,
+        "duree": 84,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f65595"
+    "hashEvenement": "f54535"
   },
   {
     "idSeance": 115410,
@@ -10032,7 +10047,9 @@
       },
       {
         "idConf": 29656,
-        "titre": "[Action culturelle sans titre]"
+        "titre": "Dialogue avec Bertrand Bonello",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
     "hashEvenement": "f94161c29656"

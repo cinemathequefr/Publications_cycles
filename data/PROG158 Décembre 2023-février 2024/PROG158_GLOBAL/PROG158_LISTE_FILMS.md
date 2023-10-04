@@ -274,7 +274,7 @@
   * Océans  
   * Tempestaire (Le)  
   * Verte moisson (La)  
-  * Voyage fantastique de marius (Le)
+  * Voyage fantastique de Marius (Le)
 
 ## Jean-Marie Straub et Danièle Huillet (25)
 
@@ -332,7 +332,7 @@
   * Vacances  
   * Vous ne l'emporterez pas avec vous
 
-## Le cinéma d'horreur, 25 indispensables (24)
+## Le cinéma d'horreur, 25 indispensables (25)
 
   * Audition  
   * Carrie au bal du diable  
@@ -351,6 +351,7 @@
   * Kaïro  
   * Maison du Diable (La)  
   * Masque du démon (Le)  
+  * Massacre à la tronçonneuse  
   * Nosferatu le vampire  
   * Nuit des masques (La)  
   * Oiseaux (Les)  
