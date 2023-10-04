@@ -346,11 +346,11 @@
   * Freaks  
   * Frissons  
   * Histoire de fantômes japonais  
+  * Hostel  
   * Inferno  
   * Kaïro  
   * Maison du Diable (La)  
   * Masque du démon (Le)  
-  * Massacre à la tronçonneuse  
   * Nosferatu le vampire  
   * Nuit des masques (La)  
   * Oiseaux (Les)  
