@@ -2,7 +2,7 @@
 
 # Varda, une femme cinéaste
 
-Agnès Varda est souvent présentée comme une femme libre qui n'a jamais cessé de se réinventer, guidée par un désir toujours inassouvi d'expérimentations. Une femme cinéaste que le goût pour les autres et l'appétit des rencontres aurait conduit à traverser, à sa guise, les catégories : court et long métrages, fiction et documentaire, argentique et numérique. Comme si sa détermination avait garanti le fait qu'aucun carcan – esthétique, politique, économique – ne contienne sa folle liberté.
+Agnès Varda est souvent présentée comme une femme libre qui n'a jamais cessé de se réinventer, guidée par un désir toujours inassouvi d'expérimentations. Une femme cinéaste que le goût pour les autres et l'appétit des rencontres aurait conduite à traverser, à sa guise, les catégories : court et long métrages, fiction et documentaire, argentique et numérique. Comme si sa détermination avait garanti le fait qu'aucun carcan – esthétique, politique, économique – ne contienne sa folle liberté.
 
 Il est vrai de dire que Varda était libérée. Dans sa jeunesse et alors que les femmes vivent encore sous l'emprise du Code Napoléon, elle fait des choix de vie conjugaux, sentimentaux et familiaux très modernes : vivant une dizaine d'années en concubinage quand le mariage est une norme à laquelle il est difficile d'échapper, un temps en couple avec une femme (Valentine Schlegel) ou encore choisissant d'élever sa fille sans le père biologique. Dans sa vie professionnelle, Varda a été tout aussi audacieuse. Mais la célébration d'une artiste ayant navigué avec aisance entre les formats et supports – le cinéma, mais aussi la photographie et l'art contemporain – peut avoir tendance à effacer les renoncements que ses partis pris lui ont coûtés.
 
