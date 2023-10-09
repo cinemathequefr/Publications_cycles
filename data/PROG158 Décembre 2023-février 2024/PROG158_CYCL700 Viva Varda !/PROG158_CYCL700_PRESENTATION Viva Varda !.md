@@ -20,4 +20,4 @@ En 1967, Varda sacrifie la possibilité d'un long métrage financé par la Colum
 
 Le plus grand succès public de Varda (un million de spectateurs) est _Sans toit ni loi_ (1985). Elle y dessine une vagabonde en rage refusant les cadres de la société. Ce personnage à contre-courant est inséparable de son perpétuel mouvement, souligné par une série de travellings balayant un environnement hostile. Mona semble faire vaciller les normes, y compris celles de la mise en scène, en revendiquant une solitude radicale. Godard avait déclaré que pour faire un film, il suffisait d'une fille et d'un flingue. Comme l'a remarqué Lauren Elkin, Varda elle, prouve qu'une femme seule suffit.
 
-Florence Tissot
+<div class="author">Florence Tissot</div>
