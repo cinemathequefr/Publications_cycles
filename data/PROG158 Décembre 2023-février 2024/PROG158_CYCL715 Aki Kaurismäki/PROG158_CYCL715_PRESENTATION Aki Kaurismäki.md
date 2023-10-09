@@ -2,19 +2,19 @@
 
 # En faire peu, mais de toutes ses forces
 
-L'un badinait avec la barmaid.  
-L'un reposait la tête sur sa main.  
-L'un jouait de tout cœur du piano.  
-Untel de toutes ses dents s'esclaffa.  
-Untel, l'obscur dans son rêve fusa.  
-Untel, la touche dure lui céda.  
-Soudain la svelte jeune fille s'en alla.  
-Soudain le rêveur ahuri sursauta.  
-Soudain une chanson anglaise on joua.  
-Un baratineur, fumée, tabac,  
-un rêveur éveillé, et un rêve,  
-un pianiste virtuose, fatigué.  
-Robert Walser, « Petite bière »
+        L'un badinait avec la barmaid.
+        L'un reposait la tête sur sa main.
+        L'un jouait de tout cœur du piano.
+        Untel de toutes ses dents s'esclaffa.
+        Untel, l'obscur dans son rêve fusa.
+        Untel, la touche dure lui céda.
+        Soudain la svelte jeune fille s'en alla.
+        Soudain le rêveur ahuri sursauta.
+        Soudain une chanson anglaise on joua.
+        Un baratineur, fumée, tabac,
+        un rêveur éveillé, et un rêve,
+        un pianiste virtuose, fatigué.
+        Robert Walser, « Petite bière »
 
 Dans le récent documentaire _Cinéma Laika_ (2023), on découvre le rêve poursuivi et achevé par Aki Kaurismäki d'ouvrir une salle de cinéma dans une usine désaffectée, au milieu de la campagne : ainsi, à Karkkila, le « club des fainéants » (gang de gentils chômeurs renonçants) rencontrerait des ouvrières au détour d'une séance, au bar attenant « La Moderne », dans une ambiance post-punk Wurlitzer. Exactement comme dans ses films (le néon de l'enseigne a été recyclé des décors du _Havre_, le comptoir n'est autre que celui de _Tiens ton foulard, Tatiana_ et _Juha_). Et comme le tout petit monde Kaurismäki est fidèle, le 2 septembre dernier, le groupe Maustetytöt (littéralement « Les Assaisonnements »), duo féminin électro repéré dans _Les Feuilles mortes_, jouait au Cinéma Laika. Les fans d'Helsinki pouvaient prendre un bus affrété spécialement pour Karkkila. Ce n'est pas la première fois que Kaurismäki décide de montrer des films dans un endroit reculé : en 1986, il fonde avec son frère Mika, Anssi Mänttäri et surtout Peter von Bagh, le Midnight Sun film Festival, au cœur de la Laponie finlandaise, là où le soleil ne se couche pas en été. Pendant cinq jours, près d'une centaine de projections, 24 heures sur 24, des rencontres entre cinéastes réputés et nouveaux venus, locaux et festivaliers, dans une atmosphère sans pareille. Citons l'année 1987 pour témoigner de l'excentricité improbable de la tribune : Michael Powell, Jacques Demy, Jim Jarmusch, D. A. Pennebaker, Juliet Berto, Thelma Schoonmaker, Stefan Jarl, Tom Luddy, Raymond Durgnat. L'année d'avant, pour la première édition, on raconte que c'est Samuel Fuller qui avait négocié la possibilité de projeter des films indiens sans visa auprès d'un officier de justice local zélé... L'anecdote sonne comme une scène inédite et déjà vue, serait-ce dans _La Vie de bohème_ ? Ou dans ce film avec Jarmusch, _Tigrero_ ?
 
