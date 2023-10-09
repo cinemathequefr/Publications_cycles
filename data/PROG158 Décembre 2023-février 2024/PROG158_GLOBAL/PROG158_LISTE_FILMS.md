@@ -367,7 +367,7 @@
   * Brendan et le secret de Kells  
   * Château ambulant (Le)  
   * Chicken Run : La Menace Nuggets  
-  * Cinq mille doigts du docteur T. (Les)  
+  * Cinq Mille Doigts du docteur T. (Les)  
   * Cycle  
   * Du silence et des ombres  
   * École des facteurs (L')  
