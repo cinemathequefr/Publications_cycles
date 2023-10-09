@@ -423,7 +423,7 @@
   * Énigme du Chicago Express (L')  
   * Étrangleur de Boston (L')  
   * Étrangleur de Rillington Place (L')  
-  * Extravagant docteur Dolittle (L')  
+  * Extravagant Docteur Dolittle (L')  
   * Fille sur la balançoire (La)  
   * Flics ne dorment pas la nuit (Les)  
   * Force de vaincre (La)  
@@ -438,7 +438,7 @@
   * Mon chien et moi  
   * Mr. Majestyk  
   * Pigeon d'argile (Le)  
-  * Prince et le pauvre (Le)  
+  * Prince et le Pauvre (Le)  
   * Sacré printemps  
   * So This Is New York  
   * Soleil vert  
@@ -447,7 +447,7 @@
   * Tora! Tora! Tora!  
   * Traquenard (Le)  
   * Vikings (Les)  
-  * Vingt mille lieues sous les mers  
+  * Vingt Mille Lieues sous les mers  
   * Voyage fantastique (Le)
 
 ## Roberto Rossellini (38)
