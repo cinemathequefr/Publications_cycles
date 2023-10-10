@@ -506,8 +506,8 @@
 ## Séances spéciales (4)
 
   * Il était une fois en Amérique  
-  * Les Sentinelles de l'oubli  
   * Nous irons tous au paradis  
+  * Sentinelles de l'oubli (Les)  
   * Un éléphant, ça trompe énormément
 
 ## Viva Varda ! (9)
