@@ -3,86 +3,6 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Océan(s) : De Jean Epstein à Jacques Perrin",
-      "texteSousCycle": "La mer est un spectacle permanent. À l'occasion de l'exposition Objectif mer, l'océan filmé, présentée à partir du 12 décembre 2023 au Musée de la Marine, et dont la Cinémathèque française est partenaire, cette séance propose un double regard sur les océans : celui de Jean Epstein, cinéaste de la Bretagne maritime et de ses tempêtes ; et celui de Jacques Perrin et de Jacques Cluzaud, défenseurs passionnés de la faune et de la flore océaniques, dans un documentaire humaniste qui marqua un renouveau du genre.  ",
-      "items": [
-        {
-          "idEvenement": 29363,
-          "content": [
-            {
-              "idFilm": 84561,
-              "ordre": 1,
-              "titre": "Berceaux",
-              "art": "Les",
-              "realisateurs": "Jean Epstein",
-              "pays": "France",
-              "annee": 1932,
-              "duree": 6,
-              "version": "",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 54212,
-              "ordre": 2,
-              "titre": "Mor'vran, la mer des corbeaux",
-              "realisateurs": "Jean Epstein",
-              "pays": "France",
-              "annee": 1930,
-              "duree": 25,
-              "version": "INT. FR.",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 48399,
-              "ordre": 3,
-              "titre": "Tempestaire",
-              "art": "Le",
-              "realisateurs": "Jean Epstein",
-              "pays": "France",
-              "annee": 1947,
-              "duree": 22,
-              "version": "",
-              "format": "35 mm"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 105186,
-              "dateHeure": "2023-12-01T18:30:00",
-              "idSalle": "JE",
-              "mention": "Séance présentée par Joël Daire"
-            }
-          ]
-        },
-        {
-          "idFilm": 110379,
-          "content": [
-            {
-              "idFilm": 110379,
-              "ordre": 1,
-              "titre": "Océans",
-              "realisateurs": "Jacques Perrin, Jacques Cluzaud",
-              "pays": "France",
-              "annee": 2009,
-              "duree": 103,
-              "version": "",
-              "format": "35 mm",
-              "ageMinimal": 6
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 115525,
-              "dateHeure": "2023-12-01T20:30:00",
-              "idSalle": "JE",
-              "mention": "Séance présentée par Costa-Gavras"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
       "titreSousCycle": "Hommage à François Villiers",
       "texteSousCycle": "François Villiers, ou 50 ans de cinéma entre les années 40 et la fin des années 80. Cinéaste prolifique mais discret, lauréat de nombreux prix, il a dirigé des acteurs incontournables (Claude Brasseur, Michel Simon, Michèle Morgan, ou son propre frère Jean-Pierre Aumont...). Ses films sont aujourd'hui quasiment invisibles, mais grâce à Gaumont et aux Éditions Montparnasse, deux pépites restaurées permettent de redécouvrir cet artiste oublié (en bonus, un curieux court métrage écrit et raconté par Jean Giono).",
       "items": [
@@ -236,6 +156,86 @@
               "idSeance": 115527,
               "dateHeure": "2024-02-02T20:30:00",
               "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Océan(s) : De Jean Epstein à Jacques Perrin",
+      "texteSousCycle": "La mer est un spectacle permanent. À l'occasion de l'exposition Objectif mer, l'océan filmé, présentée à partir du 12 décembre 2023 au Musée de la Marine, et dont la Cinémathèque française est partenaire, cette séance propose un double regard sur les océans : celui de Jean Epstein, cinéaste de la Bretagne maritime et de ses tempêtes ; et celui de Jacques Perrin et de Jacques Cluzaud, défenseurs passionnés de la faune et de la flore océaniques, dans un documentaire humaniste qui marqua un renouveau du genre.  ",
+      "items": [
+        {
+          "idEvenement": 29363,
+          "content": [
+            {
+              "idFilm": 84561,
+              "ordre": 1,
+              "titre": "Berceaux",
+              "art": "Les",
+              "realisateurs": "Jean Epstein",
+              "pays": "France",
+              "annee": 1932,
+              "duree": 6,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 54212,
+              "ordre": 2,
+              "titre": "Mor'vran, la mer des corbeaux",
+              "realisateurs": "Jean Epstein",
+              "pays": "France",
+              "annee": 1930,
+              "duree": 25,
+              "version": "INT. FR.",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 48399,
+              "ordre": 3,
+              "titre": "Tempestaire",
+              "art": "Le",
+              "realisateurs": "Jean Epstein",
+              "pays": "France",
+              "annee": 1947,
+              "duree": 22,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 105186,
+              "dateHeure": "2023-12-01T18:30:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Joël Daire"
+            }
+          ]
+        },
+        {
+          "idFilm": 110379,
+          "content": [
+            {
+              "idFilm": 110379,
+              "ordre": 1,
+              "titre": "Océans",
+              "realisateurs": "Jacques Perrin, Jacques Cluzaud",
+              "pays": "France",
+              "annee": 2009,
+              "duree": 103,
+              "version": "",
+              "format": "35 mm",
+              "ageMinimal": 6
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115525,
+              "dateHeure": "2023-12-01T20:30:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Costa-Gavras"
             }
           ]
         }

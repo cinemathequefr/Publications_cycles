@@ -85,6 +85,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Barbet Schroeder",
     "items": [
       {
         "idFilm": 126778,
@@ -133,6 +134,7 @@
         "Autour de Barbet Schroeder"
       ]
     ],
+    "mention": "Séance présentée par Barbet Schroeder et Victoria Clay Mendoza",
     "items": [
       {
         "idFilm": 154558,
@@ -202,6 +204,7 @@
         "Océan(s) : De Jean Epstein à Jacques Perrin"
       ]
     ],
+    "mention": "Séance présentée par Joël Daire",
     "items": [
       {
         "idFilm": 84561,
@@ -227,10 +230,43 @@
         "art": "Le",
         "realisateurs": "Jean Epstein",
         "annee": 1947,
-        "duree": 22
+        "duree": 22,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f84561f54212f48399"
+  },
+  {
+    "idSeance": 118375,
+    "idEvenement": 29817,
+    "dateHeure": "2023-12-01T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Les films"
+      ],
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 29819,
+        "titre": "Dialogue avec Wally Pfister",
+        "typeConference": "Dialogue",
+        "duree": 60
+      },
+      {
+        "idFilm": 100558,
+        "titre": "Prestige",
+        "art": "Le",
+        "realisateurs": "Christopher Nolan",
+        "annee": 2006
+      }
+    ],
+    "hashEvenement": "c29819f100558"
   },
   {
     "idSeance": 115677,
@@ -266,6 +302,7 @@
         "Océan(s) : De Jean Epstein à Jacques Perrin"
       ]
     ],
+    "mention": "Séance présentée par Costa-Gavras",
     "items": [
       {
         "idFilm": 110379,
@@ -606,7 +643,8 @@
     "items": [
       {
         "idFilm": 154649,
-        "titre": "Les Sentinelles de l'oubli",
+        "titre": "Sentinelles de l'oubli",
+        "art": "Les",
         "realisateurs": "Jérôme Prieur",
         "annee": 2023,
         "format": "DCP"
@@ -810,7 +848,9 @@
         "titre": "On the Rocks",
         "realisateurs": "Sofia Coppola",
         "annee": 2020,
-        "duree": 96
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f147225"
@@ -833,7 +873,7 @@
         "realisateurs": "Nadir Bouhmouch",
         "annee": 2019,
         "duree": 99,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -880,7 +920,7 @@
       },
       {
         "idConf": 29490,
-        "titre": "Discussion avec Frédéric Bonnaud",
+        "titre": "Dialogue avec Frédéric Bonnaud",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -955,6 +995,7 @@
         "realisateurs": "Sofia Coppola",
         "annee": 1998,
         "duree": 14,
+        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -964,7 +1005,7 @@
         "realisateurs": "Sofia Coppola",
         "annee": 2017,
         "duree": 95,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -1026,7 +1067,7 @@
     "cycle": [
       [
         "Barbet Schroeder",
-        "Autour de Barbet Schroeder"
+        "Les films"
       ]
     ],
     "items": [
@@ -1315,7 +1356,8 @@
         "titre": "Où en êtes-vous, Barbet Schroeder ?",
         "realisateurs": "Barbet Schroeder",
         "annee": 2017,
-        "duree": 15
+        "duree": 15,
+        "format": "Numérique"
       },
       {
         "idFilm": 136038,
@@ -1423,6 +1465,7 @@
         "realisateurs": "Sofia Coppola",
         "annee": 2023,
         "duree": 113,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -1671,7 +1714,9 @@
         "titre": "Grande dame d'un jour",
         "realisateurs": "Frank Capra",
         "annee": 1933,
-        "version": "VOSTF"
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f30932"
@@ -1745,9 +1790,9 @@
         "art": "L'",
         "realisateurs": "John Bud Cardos",
         "annee": 1977,
-        "duree": 88,
+        "duree": 94,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f64495"
@@ -2313,7 +2358,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
+    "mention": "Ouverture de la rétrospective. Séance présentée par Kevin Brownlow",
     "items": [
       {
         "idFilm": 40089,
@@ -2454,7 +2499,9 @@
         "art": "La",
         "realisateurs": "Ernst Lubitsch",
         "annee": 1938,
-        "duree": 85
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f33899"
@@ -2500,6 +2547,7 @@
         "titre": "On m'appelait Bruce Lee",
         "realisateurs": "Tony Chun-Ku Liu",
         "annee": 1975,
+        "duree": 90,
         "version": "VF",
         "format": "35 mm"
       }
@@ -3252,7 +3300,7 @@
         "titre": "Voyage en Italie",
         "realisateurs": "Roberto Rossellini",
         "annee": 1953,
-        "duree": 88,
+        "duree": 97,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -3393,6 +3441,7 @@
         "Hommage à François Villiers"
       ]
     ],
+    "mention": "Séance présentée par Hervé Pichard et Mara Villiers",
     "items": [
       {
         "idFilm": 51748,
@@ -3433,7 +3482,7 @@
   {
     "idSeance": 106078,
     "idEvenement": 28740,
-    "dateHeure": "2024-01-05T20:30:00",
+    "dateHeure": "2024-01-05T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3455,30 +3504,6 @@
     "hashEvenement": "f43151"
   },
   {
-    "idSeance": 106080,
-    "idEvenement": 28379,
-    "dateHeure": "2024-01-05T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cinéma bis",
-        "Horreur années 80"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 49582,
-        "titre": "Spectre",
-        "realisateurs": "Ulli Lommel",
-        "annee": 1981,
-        "duree": 82,
-        "version": "VF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f49582"
-  },
-  {
     "idSeance": 115526,
     "idEvenement": 29448,
     "dateHeure": "2024-01-05T21:00:00",
@@ -3489,6 +3514,7 @@
         "Hommage à François Villiers"
       ]
     ],
+    "mention": "Séance présentée par Hervé Pichard et Mara Villiers",
     "items": [
       {
         "idFilm": 67357,
@@ -3509,6 +3535,30 @@
       }
     ],
     "hashEvenement": "f67357f51738"
+  },
+  {
+    "idSeance": 106080,
+    "idEvenement": 28379,
+    "dateHeure": "2024-01-05T21:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Horreur années 80"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49582,
+        "titre": "Spectre",
+        "realisateurs": "Ulli Lommel",
+        "annee": 1981,
+        "duree": 82,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f49582"
   },
   {
     "idSeance": 106115,
@@ -3586,7 +3636,8 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1946,
         "duree": 62,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f84032"
@@ -3643,7 +3694,7 @@
   {
     "idSeance": 106118,
     "idEvenement": 28753,
-    "dateHeure": "2024-01-06T20:15:00",
+    "dateHeure": "2024-01-06T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3742,7 +3793,8 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1952,
         "duree": 89,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f42449"
@@ -3816,7 +3868,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1949,
         "duree": 79,
-        "version": "STF",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -3865,7 +3917,8 @@
         "titre": "Dans la tête un orage",
         "realisateurs": "Clément Pérot",
         "annee": 2023,
-        "duree": 26
+        "duree": 26,
+        "format": "DCP"
       },
       {
         "idFilm": 50622,
@@ -3921,7 +3974,7 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1962,
         "duree": 97,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "Numérique"
       }
     ],
@@ -4032,7 +4085,7 @@
         "art": "Les",
         "realisateurs": "Roberto Rossellini",
         "annee": 1950,
-        "duree": 75,
+        "duree": 87,
         "version": "VOSTF",
         "format": "DCP"
       },
@@ -4135,8 +4188,8 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1984,
         "duree": 101,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31678"
@@ -4423,7 +4476,8 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1961,
         "duree": 134,
-        "version": "STF"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f32003"
@@ -4471,7 +4525,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1974,
         "duree": 96,
-        "version": "STF",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -4521,7 +4575,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1973,
         "duree": 117,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -4545,7 +4599,7 @@
     "items": [
       {
         "idFilm": 31103,
-        "titre": "Vingt mille lieues sous les mers",
+        "titre": "Vingt Mille Lieues sous les mers",
         "realisateurs": "Richard Fleischer",
         "annee": 1954,
         "duree": 128,
@@ -4611,7 +4665,7 @@
       },
       {
         "idConf": 29491,
-        "titre": "Discussion avec Frédéric Bonnaud",
+        "titre": "Dialogue avec Frédéric Bonnaud",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -4841,8 +4895,9 @@
         "art": "Le",
         "realisateurs": "Boris Sagal",
         "annee": 1970,
-        "duree": 98,
-        "version": "VOSTF"
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f63495"
@@ -4999,7 +5054,7 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1958,
         "duree": 90,
-        "version": "STF",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -5176,8 +5231,8 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1948,
         "duree": 79,
-        "version": "VOAutres",
-        "format": "DCP"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f67629"
@@ -5271,7 +5326,10 @@
         "titre": "Voleur de bicyclette",
         "art": "Le",
         "realisateurs": "Charles Lépine",
-        "annee": 1905
+        "annee": 1905,
+        "duree": 5,
+        "version": "VF",
+        "format": "DCP"
       },
       {
         "idFilm": 154642,
@@ -5419,7 +5477,8 @@
         "art": "Le",
         "realisateurs": "Roberto Rossellini",
         "annee": 1956,
-        "duree": 53
+        "duree": 53,
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f138063"
@@ -5643,7 +5702,7 @@
       {
         "idConf": 29473,
         "titre": "Table ronde",
-        "typeConference": "Dialogue",
+        "typeConference": "Table ronde",
         "duree": 60
       }
     ],
@@ -5710,7 +5769,7 @@
     "items": [
       {
         "idFilm": 31103,
-        "titre": "Vingt mille lieues sous les mers",
+        "titre": "Vingt Mille Lieues sous les mers",
         "realisateurs": "Richard Fleischer",
         "annee": 1954,
         "duree": 128,
@@ -5786,7 +5845,7 @@
         "titre": "Voyage en Italie",
         "realisateurs": "Roberto Rossellini",
         "annee": 1953,
-        "duree": 88,
+        "duree": 97,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -5811,7 +5870,7 @@
     "items": [
       {
         "idFilm": 31119,
-        "titre": "Extravagant docteur Dolittle",
+        "titre": "Extravagant Docteur Dolittle",
         "art": "L'",
         "realisateurs": "Richard Fleischer",
         "annee": 1967,
@@ -5872,7 +5931,7 @@
       },
       {
         "idConf": 29642,
-        "titre": "Dialogue avec Thibault Bruttin",
+        "titre": "Dialogue avec Thibaut Bruttin",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -5906,7 +5965,7 @@
   {
     "idSeance": 106683,
     "idEvenement": 28933,
-    "dateHeure": "2024-01-29T18:30:00",
+    "dateHeure": "2024-01-29T18:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6006,7 +6065,6 @@
         "realisateurs": "Claude Miller",
         "annee": 2000,
         "duree": 102,
-        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -6190,7 +6248,6 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1969,
         "duree": 96,
-        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -6315,7 +6372,7 @@
     "items": [
       {
         "idFilm": 57470,
-        "titre": "Prince et le pauvre",
+        "titre": "Prince et le Pauvre",
         "art": "Le",
         "realisateurs": "Richard Fleischer",
         "annee": 1977,
@@ -6496,7 +6553,7 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1972,
         "duree": 255,
-        "version": "VASTF",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -6521,7 +6578,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1983,
         "duree": 106,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -6677,7 +6734,7 @@
   {
     "idSeance": 115545,
     "idEvenement": 28946,
-    "dateHeure": "2024-02-05T20:00:00",
+    "dateHeure": "2024-02-05T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6701,7 +6758,7 @@
   {
     "idSeance": 115544,
     "idEvenement": 29014,
-    "dateHeure": "2024-02-05T20:30:00",
+    "dateHeure": "2024-02-05T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6717,7 +6774,8 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1980,
         "duree": 107,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f31752"
@@ -6772,7 +6830,7 @@
   {
     "idSeance": 106836,
     "idEvenement": 28948,
-    "dateHeure": "2024-02-07T18:30:00",
+    "dateHeure": "2024-02-07T18:15:00",
     "salle": "JE",
     "cycle": [
       [
@@ -6811,7 +6869,8 @@
         "titre": "Tu ne tueras point",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1960,
-        "format": "35 mm"
+        "duree": 148,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46490"
@@ -6835,7 +6894,6 @@
         "realisateurs": "Eduardo De Filippo, Jean Dréville, Yves Allégret, Roberto Rossellini, Carlo Rim, Claude Autant-Lara, Georges Lacombe",
         "annee": 1951,
         "duree": 148,
-        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -6972,8 +7030,8 @@
         "titre": "Douce",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1943,
-        "duree": 109,
-        "format": "35 mm"
+        "duree": 104,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46502"
@@ -7021,7 +7079,8 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1941,
-        "format": "16 mm"
+        "duree": 104,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f45989"
@@ -7172,7 +7231,8 @@
         "titre": "Occupe-toi d'Amélie",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1949,
-        "duree": 92
+        "duree": 92,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46488"
@@ -7196,6 +7256,7 @@
         "realisateurs": "Robert Wise",
         "annee": 1963,
         "duree": 112,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -7326,7 +7387,7 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1953,
-        "duree": 106,
+        "duree": 116,
         "format": "35 mm"
       }
     ],
@@ -7468,7 +7529,7 @@
   {
     "idSeance": 115475,
     "idEvenement": 28821,
-    "dateHeure": "2024-02-12T20:30:00",
+    "dateHeure": "2024-02-12T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7483,7 +7544,6 @@
         "realisateurs": "Claude Autant-Lara",
         "annee": 1955,
         "duree": 130,
-        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -7600,14 +7660,6 @@
     "mention": "Séance présentée par François Albera",
     "items": [
       {
-        "idFilm": 70227,
-        "titre": "Boul se met au verre",
-        "realisateurs": "Claude Autant-Lara",
-        "annee": 1929,
-        "duree": 26,
-        "format": "35 mm"
-      },
-      {
         "idFilm": 46478,
         "titre": "Fait divers",
         "realisateurs": "Claude Autant-Lara",
@@ -7622,9 +7674,17 @@
         "annee": 1926,
         "duree": 50,
         "format": "DCP"
+      },
+      {
+        "idFilm": 70227,
+        "titre": "Boul se met au verre",
+        "realisateurs": "Claude Autant-Lara",
+        "annee": 1929,
+        "duree": 26,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f70227f46478f68047"
+    "hashEvenement": "f46478f68047f70227"
   },
   {
     "idSeance": 115702,
@@ -7679,8 +7739,8 @@
         "realisateurs": "Benjamin Christensen",
         "annee": 1921,
         "duree": 105,
-        "version": "Autres",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f39179"
@@ -7704,7 +7764,7 @@
         "realisateurs": "Maurice Lehmann, Claude Autant-Lara",
         "annee": 1937,
         "duree": 102,
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46519"
@@ -7728,6 +7788,7 @@
         "realisateurs": "George A. Romero",
         "annee": 1978,
         "duree": 117,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -7760,7 +7821,9 @@
         "art": "The",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1936,
-        "duree": 58
+        "duree": 58,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f68050f41642"
@@ -7792,7 +7855,7 @@
   {
     "idSeance": 107152,
     "idEvenement": 29274,
-    "dateHeure": "2024-02-16T20:30:00",
+    "dateHeure": "2024-02-16T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7808,7 +7871,7 @@
         "realisateurs": "Alfred Hitchcock",
         "annee": 1962,
         "duree": 119,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -7868,7 +7931,7 @@
         "realisateurs": "Dario Argento",
         "annee": 1979,
         "duree": 106,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -7941,6 +8004,7 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1963,
+        "duree": 90,
         "format": "35 mm"
       }
     ],
@@ -8085,8 +8149,7 @@
         "realisateurs": "Claude Autant-Lara",
         "annee": 1966,
         "duree": 19,
-        "version": "VF",
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 46278,
@@ -8144,6 +8207,7 @@
         "realisateurs": "John Carpenter",
         "annee": 1978,
         "duree": 91,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -8176,7 +8240,7 @@
   {
     "idSeance": 118033,
     "idEvenement": 28831,
-    "dateHeure": "2024-02-18T19:30:00",
+    "dateHeure": "2024-02-18T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8191,6 +8255,7 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1962,
+        "duree": 107,
         "format": "35 mm"
       }
     ],
@@ -8199,7 +8264,7 @@
   {
     "idSeance": 118091,
     "idEvenement": 29249,
-    "dateHeure": "2024-02-18T20:00:00",
+    "dateHeure": "2024-02-18T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -8304,7 +8369,8 @@
         "art": "L'",
         "realisateurs": "Marie Losier",
         "annee": 2015,
-        "duree": 20
+        "duree": 20,
+        "format": "16 mm"
       },
       {
         "idFilm": 98211,
@@ -8312,7 +8378,7 @@
         "realisateurs": "Gus Van Sant",
         "annee": 1996,
         "duree": 4,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -8335,6 +8401,7 @@
         "titre": "Nouveau journal d'une femme en blanc",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1966,
+        "duree": 115,
         "format": "35 mm"
       }
     ],
@@ -8354,10 +8421,13 @@
     "items": [
       {
         "idFilm": 36468,
-        "titre": "Cinq mille doigts du docteur T.",
+        "titre": "Cinq Mille Doigts du docteur T.",
         "art": "Les",
         "realisateurs": "Roy Rowland",
-        "annee": 1953
+        "annee": 1953,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f36468"
@@ -8381,8 +8451,8 @@
         "realisateurs": "Jacques Tourneur",
         "annee": 1942,
         "duree": 73,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f59489"
@@ -8406,15 +8476,15 @@
         "realisateurs": "Arthur Penn",
         "annee": 1981,
         "duree": 115,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
     "hashEvenement": "f35694"
   },
   {
-    "idSeance": 118093,
-    "idEvenement": 29282,
+    "idSeance": 118137,
+    "idEvenement": 29270,
     "dateHeure": "2024-02-21T20:15:00",
     "salle": "GF",
     "cycle": [
@@ -8425,15 +8495,17 @@
     ],
     "items": [
       {
-        "idFilm": 54535,
-        "titre": "Massacre à la tronçonneuse",
-        "realisateurs": "Tobe Hooper",
-        "annee": 1973,
+        "idFilm": 45212,
+        "titre": "Masque du démon",
+        "art": "Le",
+        "realisateurs": "Mario Bava",
+        "annee": 1960,
         "duree": 84,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f54535"
+    "hashEvenement": "f45212"
   },
   {
     "idSeance": 115410,
@@ -8490,7 +8562,7 @@
       },
       {
         "idConf": 29494,
-        "titre": "Discussion avec Frédéric Bonnaud",
+        "titre": "Dialogue avec Frédéric Bonnaud",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -8538,7 +8610,8 @@
         "titre": "Vive Henri IV, vive l'amour",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1960,
-        "format": "35 mm"
+        "duree": 121,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46301"
@@ -8840,8 +8913,8 @@
         "titre": "Sylvie et le Fantôme",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1945,
-        "duree": 102,
-        "format": "16 mm"
+        "duree": 97,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f46279"
@@ -8960,7 +9033,7 @@
         "realisateurs": "Arthur Penn",
         "annee": 1969,
         "duree": 111,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -8984,6 +9057,7 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1967,
+        "duree": 110,
         "format": "35 mm"
       }
     ],
@@ -9189,7 +9263,7 @@
   {
     "idSeance": 115513,
     "idEvenement": 29371,
-    "dateHeure": "2024-02-28T20:30:00",
+    "dateHeure": "2024-02-28T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -9213,7 +9287,7 @@
   {
     "idSeance": 115416,
     "idEvenement": 29184,
-    "dateHeure": "2024-02-28T21:00:00",
+    "dateHeure": "2024-02-28T21:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9228,7 +9302,7 @@
         "realisateurs": "Arthur Penn",
         "annee": 1987,
         "duree": 100,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -9418,7 +9492,7 @@
   {
     "idSeance": 115421,
     "idEvenement": 29291,
-    "dateHeure": "2024-03-01T20:30:00",
+    "dateHeure": "2024-03-01T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -9443,7 +9517,7 @@
   {
     "idSeance": 115515,
     "idEvenement": 29379,
-    "dateHeure": "2024-03-01T21:00:00",
+    "dateHeure": "2024-03-01T21:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9515,8 +9589,8 @@
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1960,
-        "duree": 94,
-        "format": "16 mm"
+        "duree": 91,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f46522"
@@ -9579,8 +9653,8 @@
     "hashEvenement": "f39552f39557"
   },
   {
-    "idSeance": 118074,
-    "idEvenement": 29283,
+    "idSeance": 118136,
+    "idEvenement": 29248,
     "dateHeure": "2024-03-02T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -9591,16 +9665,16 @@
     ],
     "items": [
       {
-        "idFilm": 56844,
-        "titre": "Frissons",
-        "realisateurs": "David Cronenberg",
-        "annee": 1974,
-        "duree": 87,
-        "version": "VO",
+        "idFilm": 37586,
+        "titre": "Frankenstein",
+        "realisateurs": "James Whale",
+        "annee": 1931,
+        "duree": 70,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f56844"
+    "hashEvenement": "f37586"
   },
   {
     "idSeance": 115391,
@@ -9621,7 +9695,7 @@
         "realisateurs": "Wes Craven",
         "annee": 1972,
         "duree": 91,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -9703,7 +9777,6 @@
         "realisateurs": "Bertrand Bonello",
         "annee": 2003,
         "duree": 116,
-        "version": "VF",
         "format": "35 mm"
       }
     ],
@@ -9854,8 +9927,8 @@
     "hashEvenement": "f40781"
   },
   {
-    "idSeance": 107690,
-    "idEvenement": 29248,
+    "idSeance": 118138,
+    "idEvenement": 29282,
     "dateHeure": "2024-03-06T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -9866,16 +9939,16 @@
     ],
     "items": [
       {
-        "idFilm": 37586,
-        "titre": "Frankenstein",
-        "realisateurs": "James Whale",
-        "annee": 1931,
-        "duree": 70,
-        "version": "VO",
-        "format": "Numérique"
+        "idFilm": 54535,
+        "titre": "Massacre à la tronçonneuse",
+        "realisateurs": "Tobe Hooper",
+        "annee": 1973,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f37586"
+    "hashEvenement": "f54535"
   },
   {
     "idSeance": 118061,
@@ -9891,7 +9964,8 @@
     "items": [
       {
         "idConf": 29727,
-        "titre": "Conférence de Mathieu Macheret",
+        "titre": "Les Straub sur le mont Éros",
+        "sousTitre": "Conférence de Mathieu Macheret",
         "typeConference": "Conférence",
         "duree": 90
       }
@@ -9923,8 +9997,8 @@
     "hashEvenement": "f70833"
   },
   {
-    "idSeance": 107691,
-    "idEvenement": 29270,
+    "idSeance": 118139,
+    "idEvenement": 29283,
     "dateHeure": "2024-03-06T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -9935,17 +10009,16 @@
     ],
     "items": [
       {
-        "idFilm": 45212,
-        "titre": "Masque du démon",
-        "art": "Le",
-        "realisateurs": "Mario Bava",
-        "annee": 1960,
-        "duree": 84,
+        "idFilm": 56844,
+        "titre": "Frissons",
+        "realisateurs": "David Cronenberg",
+        "annee": 1974,
+        "duree": 87,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f45212"
+    "hashEvenement": "f56844"
   },
   {
     "idSeance": 115426,
@@ -10143,7 +10216,7 @@
   {
     "idSeance": 118060,
     "idEvenement": 29375,
-    "dateHeure": "2024-03-08T20:00:00",
+    "dateHeure": "2024-03-08T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -10309,7 +10382,8 @@
         "art": "Les",
         "realisateurs": "Bertrand Bonello",
         "annee": 1997,
-        "duree": 11
+        "duree": 11,
+        "format": "DCP"
       },
       {
         "idFilm": 154640,
