@@ -1,6 +1,42 @@
 {
   "data": [
     {
+      "titreSousCycle": "Les films",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 118375,
+          "ordre": 2,
+          "dateHeure": "2023-12-01T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 135,
+          "typeAssoc": 118,
+          "idCategorie": 3202,
+          "idEvenement": 29817,
+          "typeEvenement": 13,
+          "idFilm": 100558,
+          "art": "Le",
+          "titre": "Prestige",
+          "artVo": "The",
+          "titreVo": "Prestige",
+          "realisateurs": "Christopher Nolan",
+          "annee": 2006,
+          "pays": "États-Unis-Grande-Bretagne",
+          "generique": [
+            "Hugh Jackman",
+            "Christian Bale",
+            "Michael Caine"
+          ],
+          "adaptation": "D'après le roman _Le Prestige_ de Christopher Priest.",
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
       "titreSousCycle": "Rencontres et conférences",
       "tri": 4,
       "items": [
@@ -52,6 +88,25 @@
               "ordre": 1
             }
           ]
+        },
+        {
+          "idSeance": 118375,
+          "ordre": 1,
+          "dateHeure": "2023-12-01T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 1856,
+          "idEvenement": 29819,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Wally Pfister",
+          "duree": 60,
+          "textes": []
         },
         {
           "idSeance": 115518,
