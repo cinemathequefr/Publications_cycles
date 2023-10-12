@@ -1959,29 +1959,6 @@
     "hashEvenement": "f154567f100255f86876f154565f102166f105714"
   },
   {
-    "idSeance": 105585,
-    "idEvenement": 29821,
-    "dateHeure": "2023-12-16T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Festival 12 × 12"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154653,
-        "titre": "Barock",
-        "realisateurs": "Maéva Dayras",
-        "annee": 2022,
-        "duree": 67,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154653"
-  },
-  {
     "idSeance": 105583,
     "idEvenement": 29199,
     "dateHeure": "2023-12-16T20:00:00",
@@ -1992,6 +1969,7 @@
         "Hommage à Jean-Loup Dabadie"
       ]
     ],
+    "mention": "Séance présentée par Christophe Tardieu",
     "items": [
       {
         "idFilm": 50994,
@@ -3916,7 +3894,10 @@
         "titre": "Pigeon d'argile",
         "art": "Le",
         "realisateurs": "Richard Fleischer",
-        "annee": 1949
+        "annee": 1949,
+        "duree": 63,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f73135"
@@ -4269,7 +4250,7 @@
     "idSeance": 106294,
     "idEvenement": 28767,
     "dateHeure": "2024-01-13T14:30:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Roberto Rossellini",
@@ -4303,7 +4284,7 @@
     "idSeance": 106298,
     "idEvenement": 28451,
     "dateHeure": "2024-01-13T15:00:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Viva Varda !",
@@ -4323,10 +4304,10 @@
     "hashEvenement": "f51603"
   },
   {
-    "idSeance": 115311,
-    "idEvenement": 28994,
-    "dateHeure": "2024-01-13T17:00:00",
-    "salle": "HL",
+    "idSeance": 115310,
+    "idEvenement": 28981,
+    "dateHeure": "2024-01-13T17:30:00",
+    "salle": "GF",
     "cycle": [
       [
         "Richard Fleischer",
@@ -4335,21 +4316,21 @@
     ],
     "items": [
       {
-        "idFilm": 31683,
-        "titre": "Drame dans un miroir",
+        "idFilm": 32135,
+        "titre": "Bandido caballero !",
         "realisateurs": "Richard Fleischer",
-        "annee": 1960,
-        "duree": 96,
+        "annee": 1956,
+        "duree": 92,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
-    "hashEvenement": "f31683"
+    "hashEvenement": "f32135"
   },
   {
     "idSeance": 106296,
     "idEvenement": 28757,
-    "dateHeure": "2024-01-13T19:15:00",
+    "dateHeure": "2024-01-13T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4372,9 +4353,9 @@
     "hashEvenement": "f42629"
   },
   {
-    "idSeance": 115310,
-    "idEvenement": 28981,
-    "dateHeure": "2024-01-13T19:45:00",
+    "idSeance": 115311,
+    "idEvenement": 28994,
+    "dateHeure": "2024-01-13T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4384,16 +4365,16 @@
     ],
     "items": [
       {
-        "idFilm": 32135,
-        "titre": "Bandido caballero !",
+        "idFilm": 31683,
+        "titre": "Drame dans un miroir",
         "realisateurs": "Richard Fleischer",
-        "annee": 1956,
-        "duree": 92,
+        "annee": 1960,
+        "duree": 96,
         "version": "VOSTF",
-        "format": "Numérique"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f32135"
+    "hashEvenement": "f31683"
   },
   {
     "idSeance": 115427,
@@ -5750,7 +5731,7 @@
         "annee": 1947,
         "duree": 68,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f84033"
@@ -6710,7 +6691,7 @@
         "realisateurs": "Claude Miller",
         "annee": 1967,
         "duree": 18,
-        "format": "Numérique"
+        "format": "35 mm"
       },
       {
         "idFilm": 50108,
@@ -6719,7 +6700,7 @@
         "realisateurs": "Claude Miller",
         "annee": 1970,
         "duree": 9,
-        "format": "DCP"
+        "format": "35 mm"
       },
       {
         "idFilm": 67851,
@@ -6727,7 +6708,7 @@
         "realisateurs": "Claude Miller",
         "annee": 1971,
         "duree": 33,
-        "format": "DCP"
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f154546f67849f50108f67851"
@@ -7872,7 +7853,7 @@
         "realisateurs": "Fedor Ozep, Boris Barnet",
         "annee": 1926,
         "duree": 250,
-        "version": "INT. FR.",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -8142,8 +8123,8 @@
         "realisateurs": "Boris Barnet",
         "annee": 1927,
         "duree": 60,
-        "version": "INT. FR.",
-        "format": "16 mm"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f40602"
@@ -8310,6 +8291,30 @@
       }
     ],
     "hashEvenement": "f30930"
+  },
+  {
+    "idSeance": 115404,
+    "idEvenement": 29059,
+    "dateHeure": "2024-02-18T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Boris Barnet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 70841,
+        "titre": "Pages de la vie",
+        "art": "Les",
+        "realisateurs": "Boris Barnet",
+        "annee": 1948,
+        "duree": 90,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f70841"
   },
   {
     "idSeance": 107220,

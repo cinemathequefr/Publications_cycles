@@ -214,12 +214,7 @@
     "items": [
       {
         "idFilm": 73135,
-        "ordre": 1,
-        "idSeance": 115304,
-        "idCopie": 26558,
-        "duree": 63,
-        "version": "VOSTF",
-        "format": "16 mm"
+        "ordre": 1
       }
     ]
   },
@@ -383,9 +378,32 @@
   {
     "idCategorie": 2418,
     "typeEvenement": 13,
+    "idEvenement": 28994,
+    "idSeance": 115311,
+    "dateHeure": "2024-01-13T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 31683,
+        "ordre": 1,
+        "idSeance": 115311,
+        "idCopie": 7075,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2418,
+    "typeEvenement": 13,
     "idEvenement": 28981,
     "idSeance": 115310,
-    "dateHeure": "2024-01-13T17:30:00",
+    "dateHeure": "2024-01-13T19:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -400,29 +418,6 @@
         "duree": 92,
         "version": "VOSTF",
         "format": "Numérique"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2418,
-    "typeEvenement": 13,
-    "idEvenement": 28994,
-    "idSeance": 115311,
-    "dateHeure": "2024-01-13T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 31683,
-        "ordre": 1,
-        "idSeance": 115311,
-        "idCopie": 7075,
-        "duree": 96,
-        "version": "VOSTF",
-        "format": "35 mm"
       }
     ]
   },
@@ -936,10 +931,10 @@
         "idFilm": 84033,
         "ordre": 1,
         "idSeance": 106657,
-        "idCopie": 26917,
+        "idCopie": 26555,
         "duree": 68,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ]
   },

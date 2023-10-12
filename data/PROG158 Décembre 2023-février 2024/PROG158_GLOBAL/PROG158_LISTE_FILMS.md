@@ -134,7 +134,7 @@
   * Tiresia  
   * Zombi Child
 
-## Boris Barnet (19)
+## Boris Barnet (18)
 
   * Alenka  
   * Annouchka  
@@ -147,7 +147,6 @@
   * Miss Mend  
   * Moscou en octobre  
   * Okraïna  
-  * Pages de la vie (Les)  
   * Petite Gare (La)  
   * Poète (Le)  
   * Un brave garçon  
@@ -507,8 +506,9 @@
   * Somewhere  
   * Virgin Suicides
 
-## Séances spéciales (4)
+## Séances spéciales (5)
 
+  * Barock  
   * Il était une fois en Amérique  
   * Nous irons tous au paradis  
   * Sentinelles de l'oubli (Les)  
