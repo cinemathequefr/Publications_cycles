@@ -59,6 +59,7 @@
   * Baiser (Le)  
   * Be at Peace in an Endless Sleep  
   * Birdsong  
+  * Blackbird Blackberry  
   * Blue  
   * Brodeuses  
   * Comme les doigts de la main  
@@ -78,7 +79,6 @@
   * Geronimo  
   * Grosse  
   * Kitchen  
-  * Merle et la mûre (Le)  
   * Nous le savions qu'elles étaient belles, les îles  
   * Oiseau de la nuit (L')  
   * Opus  
