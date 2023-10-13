@@ -99,6 +99,7 @@
   * Collectionneuse (La)  
   * Enjeu (L')  
   * Général Idi Amin Dada : Autoportrait  
+  * Haine (La)  
   * Inju, la bête dans l'ombre  
   * JF partagerait appartement  
   * Kiss of Death  
@@ -106,7 +107,6 @@
   * Maîtresse  
   * More  
   * Mystère von Bülow (Le)  
-  * Où en êtes-vous, Barbet Schroeder ?  
   * Some More : Barbet Schroeder  
   * Tricheurs  
   * Vallée (La)  
@@ -142,7 +142,7 @@
   * Concert des maîtres de l'art ukrainien  
   * Exploit d'un éclaireur (L')  
   * Fonte des glaces (La)  
-  * Lutteur et le clown (Le)  
+  * Lutteur et le Clown (Le)  
   * Maison de la rue Troubnaïa (La)  
   * Miss Mend  
   * Moscou en octobre  
@@ -202,10 +202,10 @@
   * Mariage de Chiffon (Le)  
   * Meurtrier (Le)  
   * Mysterious Mr. Davis (The)  
-  * Nouveau journal d'une femme en blanc  
+  * Nouveau Journal d'une femme en blanc  
   * Occupe-toi d'Amélie  
   * Patates (Les)  
-  * Plus vieux métier du monde : Aujourd'hui (Le)  
+  * Plus Vieux Métier du monde : Aujourd'hui (Le)  
   * Régates de San Francisco (Les)  
   * Rouge et le Noir (Le)  
   * Sept péchés capitaux : L'Orgueil (Les)  
@@ -276,7 +276,7 @@
   * Océan ou les enfants de la mer (L')  
   * Océans  
   * Tempestaire (Le)  
-  * Verte moisson (La)  
+  * Verte Moisson (La)  
   * Voyage fantastique de Marius (Le)
 
 ## Jean-Marie Straub et Danièle Huillet (25)
@@ -297,11 +297,11 @@
   * Machorka-Muff  
   * Moïse et Aaron  
   * Mort d'Empédocle (La)  
-  * Noir péché  
+  * Noir Péché  
   * Non réconciliés ou Seule la violence aide où la violence règne  
   * Othon  
   * Ouvriers, paysans  
-  * Retour du fils prodigue (Le)  
+  * Retour du fils prodigue – Humiliés (Le)  
   * Sicilia !  
   * Toute révolution est un coup de dés  
   * Trop tôt, trop tard  
@@ -315,10 +315,10 @@
   * Dame du vendredi (La)  
   * Easy Living  
   * Extravagant Mr. Ruggles (L')  
-  * Grande dame d'un jour  
+  * Grande Dame d'un jour  
   * Haute Pègre  
   * Huitième Femme de Barbe-Bleue (La)  
-  * Impossible monsieur Bébé (L')  
+  * Impossible Monsieur Bébé (L')  
   * Indiscrétions  
   * Jeux de mains  
   * Lady Eve (The)  
@@ -397,7 +397,7 @@
   * Birth  
   * Brumes d'automne  
   * Clean With Me (After Dark)  
-  * Dancing in the rain (Turf Feinz)  
+  * Dancing in the Rain (Turf Feinz)  
   * De l'origine du XXIe siècle  
   * Scorpio Rising  
   * Terreur sur la ligne  
@@ -457,18 +457,18 @@
 
   * Âge de Cosme de Médicis (L')  
   * Allemagne année zéro  
-  * Âme noire  
-  * Amore (L')  
+  * Âme noire (L')  
+  * Amore  
   * Amours d'une moitié de siècle  
   * An un (L')  
   * Augustin d'Hippone  
   * Blaise Pascal  
-  * Centre Pompidou (Le)  
+  * Centre Georges Pompidou (Le)  
   * Descartes  
   * Dindon insolent (Le)  
   * Europe 51  
   * Évadés de la nuit (Les)  
-  * Force et la raison : Entretien avec Salvador Allende (La)  
+  * Force et la Raison : Entretien avec Salvador Allende (La)  
   * Homme à la croix (L')  
   * India  
   * Jeanne au bûcher  
@@ -476,7 +476,7 @@
   * Messie (Le)  
   * Navire blanc (Le)  
   * Nous, les femmes : Ingrid Bergman  
-  * Onze Fioretti de saint François d'Assise (Les)  
+  * Onze Fioretti de François d'Assise (Les)  
   * Où est la liberté ?  
   * Paisà  
   * Peur (La)  
