@@ -187,7 +187,7 @@
 
   * 8 × 8: A Chess Sonata in 8 Movements  
   * Aigle à deux têtes (L')  
-  * Amore (L')  
+  * Amore  
   * Anna, la bonne  
   * Baron fantôme (Le)  
   * Bel Indifférent (Le)  
