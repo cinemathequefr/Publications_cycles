@@ -140,7 +140,7 @@
   * Annouchka  
   * Au bord de la mer bleue  
   * Concert des maîtres de l'art ukrainien  
-  * Exploit d'un éclaireur (L')  
+  * Exploit d'un agent secret (L')  
   * Fonte des glaces (La)  
   * Lutteur et le Clown (Le)  
   * Maison de la rue Troubnaïa (La)  
