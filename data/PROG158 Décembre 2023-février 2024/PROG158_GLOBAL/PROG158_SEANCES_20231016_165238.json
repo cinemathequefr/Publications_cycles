@@ -349,6 +349,7 @@
         "Les films"
       ]
     ],
+    "mention": "Avant-première. Séance présentée par Peter Lord et Sam Fell",
     "items": [
       {
         "idFilm": 154549,
@@ -495,6 +496,7 @@
         "Les films"
       ]
     ],
+    "mention": "Avant-première. Séance présentée par Sam Fell et Peter Lord",
     "items": [
       {
         "idFilm": 154549,
@@ -550,7 +552,8 @@
         "realisateurs": "Barbet Schroeder",
         "annee": 1994,
         "duree": 101,
-        "format": "DCP"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f57561"
@@ -639,7 +642,7 @@
         "Avant-première Jérôme Prieur"
       ]
     ],
-    "mention": "Avant-première",
+    "mention": "Avant-première. Séance présentée par Jérôme Prieur",
     "items": [
       {
         "idFilm": 154649,
@@ -647,6 +650,7 @@
         "art": "Les",
         "realisateurs": "Jérôme Prieur",
         "annee": 2023,
+        "duree": 75,
         "format": "DCP"
       }
     ],
@@ -780,6 +784,7 @@
         "realisateurs": "Barbet Schroeder",
         "annee": 1982,
         "duree": 200,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -1353,7 +1358,8 @@
     "items": [
       {
         "idFilm": 136039,
-        "titre": "Où en êtes-vous, Barbet Schroeder ?",
+        "titre": "Haine",
+        "art": "La",
         "realisateurs": "Barbet Schroeder",
         "annee": 2017,
         "duree": 15,
@@ -1435,8 +1441,7 @@
     "items": [
       {
         "idFilm": 154569,
-        "titre": "Merle et la mûre",
-        "art": "Le",
+        "titre": "Blackbird Blackberry",
         "realisateurs": "Elene Naveriani",
         "annee": 2023,
         "duree": 110,
@@ -1596,6 +1601,7 @@
         "realisateurs": "Ernst Lubitsch",
         "annee": 1932,
         "duree": 83,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -1711,7 +1717,7 @@
     "items": [
       {
         "idFilm": 30932,
-        "titre": "Grande dame d'un jour",
+        "titre": "Grande Dame d'un jour",
         "realisateurs": "Frank Capra",
         "annee": 1933,
         "duree": 96,
@@ -1959,6 +1965,29 @@
     "hashEvenement": "f154567f100255f86876f154565f102166f105714"
   },
   {
+    "idSeance": 105585,
+    "idEvenement": 29821,
+    "dateHeure": "2023-12-16T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Festival 12 × 12"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154653,
+        "titre": "Barock",
+        "realisateurs": "Maéva Dayras",
+        "annee": 2022,
+        "duree": 67,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154653"
+  },
+  {
     "idSeance": 105583,
     "idEvenement": 29199,
     "dateHeure": "2023-12-16T20:00:00",
@@ -1969,7 +1998,6 @@
         "Hommage à Jean-Loup Dabadie"
       ]
     ],
-    "mention": "Séance présentée par Christophe Tardieu",
     "items": [
       {
         "idFilm": 50994,
@@ -1997,7 +2025,7 @@
     "items": [
       {
         "idFilm": 32627,
-        "titre": "Impossible monsieur Bébé",
+        "titre": "Impossible Monsieur Bébé",
         "art": "L'",
         "realisateurs": "Howard Hawks",
         "annee": 1938,
@@ -2202,7 +2230,8 @@
         "titre": "Comme les doigts de la main",
         "realisateurs": "Éric Rochant",
         "annee": 1984,
-        "duree": 9
+        "duree": 9,
+        "format": "35 mm"
       },
       {
         "idFilm": 68690,
@@ -2235,7 +2264,8 @@
         "titre": "Des majorettes dans l'espace",
         "realisateurs": "David Fourier",
         "annee": 1996,
-        "duree": 6
+        "duree": 6,
+        "format": "35 mm"
       },
       {
         "idFilm": 98297,
@@ -2260,7 +2290,8 @@
         "titre": "Kitchen",
         "realisateurs": "Alice Winocour",
         "annee": 2004,
-        "duree": 14
+        "duree": 14,
+        "format": "35 mm"
       },
       {
         "idFilm": 62632,
@@ -2693,6 +2724,7 @@
         "realisateurs": "Ernst Lubitsch",
         "annee": 1939,
         "duree": 97,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -3198,7 +3230,7 @@
     "items": [
       {
         "idFilm": 32627,
-        "titre": "Impossible monsieur Bébé",
+        "titre": "Impossible Monsieur Bébé",
         "art": "L'",
         "realisateurs": "Howard Hawks",
         "annee": 1938,
@@ -3445,7 +3477,7 @@
     "items": [
       {
         "idFilm": 51748,
-        "titre": "Verte moisson",
+        "titre": "Verte Moisson",
         "art": "La",
         "realisateurs": "François Villiers",
         "annee": 1959,
@@ -3891,10 +3923,7 @@
         "titre": "Pigeon d'argile",
         "art": "Le",
         "realisateurs": "Richard Fleischer",
-        "annee": 1949,
-        "duree": 63,
-        "version": "VOSTF",
-        "format": "16 mm"
+        "annee": 1949
       }
     ],
     "hashEvenement": "f73135"
@@ -3971,6 +4000,7 @@
       {
         "idFilm": 65313,
         "titre": "Âme noire",
+        "art": "L'",
         "realisateurs": "Roberto Rossellini",
         "annee": 1962,
         "duree": 97,
@@ -4081,7 +4111,7 @@
     "items": [
       {
         "idFilm": 43088,
-        "titre": "Onze Fioretti de saint François d'Assise",
+        "titre": "Onze Fioretti de François d'Assise",
         "art": "Les",
         "realisateurs": "Roberto Rossellini",
         "annee": 1950,
@@ -4137,7 +4167,7 @@
     "items": [
       {
         "idConf": 29512,
-        "titre": "De l'assemblage au montage cinématographique par Laurent Le Forestier",
+        "titre": "De l'assemblage au montage cinématographique",
         "sousTitre": "Conférence de Laurent Le Forestier",
         "typeConference": "Conférence",
         "duree": 90
@@ -4247,7 +4277,7 @@
     "idSeance": 106294,
     "idEvenement": 28767,
     "dateHeure": "2024-01-13T14:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "Roberto Rossellini",
@@ -4281,7 +4311,7 @@
     "idSeance": 106298,
     "idEvenement": 28451,
     "dateHeure": "2024-01-13T15:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Viva Varda !",
@@ -4301,10 +4331,10 @@
     "hashEvenement": "f51603"
   },
   {
-    "idSeance": 115310,
-    "idEvenement": 28981,
-    "dateHeure": "2024-01-13T17:30:00",
-    "salle": "GF",
+    "idSeance": 115311,
+    "idEvenement": 28994,
+    "dateHeure": "2024-01-13T17:00:00",
+    "salle": "HL",
     "cycle": [
       [
         "Richard Fleischer",
@@ -4313,21 +4343,21 @@
     ],
     "items": [
       {
-        "idFilm": 32135,
-        "titre": "Bandido caballero !",
+        "idFilm": 31683,
+        "titre": "Drame dans un miroir",
         "realisateurs": "Richard Fleischer",
-        "annee": 1956,
-        "duree": 92,
+        "annee": 1960,
+        "duree": 96,
         "version": "VOSTF",
-        "format": "Numérique"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f32135"
+    "hashEvenement": "f31683"
   },
   {
     "idSeance": 106296,
     "idEvenement": 28757,
-    "dateHeure": "2024-01-13T19:00:00",
+    "dateHeure": "2024-01-13T19:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4350,9 +4380,9 @@
     "hashEvenement": "f42629"
   },
   {
-    "idSeance": 115311,
-    "idEvenement": 28994,
-    "dateHeure": "2024-01-13T19:30:00",
+    "idSeance": 115310,
+    "idEvenement": 28981,
+    "dateHeure": "2024-01-13T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4362,16 +4392,16 @@
     ],
     "items": [
       {
-        "idFilm": 31683,
-        "titre": "Drame dans un miroir",
+        "idFilm": 32135,
+        "titre": "Bandido caballero !",
         "realisateurs": "Richard Fleischer",
-        "annee": 1960,
-        "duree": 96,
+        "annee": 1956,
+        "duree": 92,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
-    "hashEvenement": "f31683"
+    "hashEvenement": "f32135"
   },
   {
     "idSeance": 115427,
@@ -4477,7 +4507,7 @@
         "annee": 1961,
         "duree": 134,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f32003"
@@ -4603,7 +4633,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1954,
         "duree": 128,
-        "version": "VO",
+        "version": "VF",
         "format": "DCP"
       }
     ],
@@ -4691,7 +4721,7 @@
         "annee": 1952,
         "duree": 94,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f31146"
@@ -4976,7 +5006,6 @@
       {
         "idFilm": 45108,
         "titre": "Amore",
-        "art": "L'",
         "realisateurs": "Roberto Rossellini",
         "annee": 1947,
         "duree": 75,
@@ -5280,6 +5309,7 @@
         "titre": "Geronimo",
         "realisateurs": "Frédéric Bayer Azem",
         "annee": 2014,
+        "duree": 18,
         "format": "DCP"
       }
     ],
@@ -5645,7 +5675,7 @@
         "realisateurs": "Claude Miller",
         "annee": 1988,
         "duree": 109,
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f50172"
@@ -5727,7 +5757,7 @@
         "annee": 1947,
         "duree": 68,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f84033"
@@ -5773,7 +5803,7 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1954,
         "duree": 128,
-        "version": "VOSTF",
+        "version": "VFSTF",
         "format": "DCP"
       }
     ],
@@ -5790,6 +5820,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Luc Béraud et Jean-Louis Livi",
     "items": [
       {
         "idFilm": 37574,
@@ -6189,8 +6220,8 @@
     "items": [
       {
         "idConf": 29513,
-        "titre": "Dans les airs : Le cinéma aérien",
-        "sousTitre": "Conférence ",
+        "titre": "Dans les airs : le cinéma aérien. Historique (rapide) de la prise de vues aériennes",
+        "sousTitre": "Conférence de Frédéric Spriet",
         "typeConference": "Conférence",
         "duree": 90
       }
@@ -6248,7 +6279,8 @@
         "realisateurs": "Richard Fleischer",
         "annee": 1969,
         "duree": 96,
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f45043"
@@ -6474,7 +6506,7 @@
       },
       {
         "idFilm": 65318,
-        "titre": "Force et la raison : Entretien avec Salvador Allende",
+        "titre": "Force et la Raison : Entretien avec Salvador Allende",
         "art": "La",
         "realisateurs": "Roberto Rossellini",
         "annee": 1971,
@@ -6553,7 +6585,7 @@
         "realisateurs": "Roberto Rossellini",
         "annee": 1972,
         "duree": 255,
-        "version": "VOSTF",
+        "version": "VASTF",
         "format": "35 mm"
       }
     ],
@@ -6624,7 +6656,7 @@
     "items": [
       {
         "idFilm": 65327,
-        "titre": "Centre Pompidou",
+        "titre": "Centre Georges Pompidou",
         "art": "Le",
         "realisateurs": "Roberto Rossellini",
         "annee": 1977,
@@ -6677,7 +6709,7 @@
         "realisateurs": "Claude Miller",
         "annee": 1962,
         "duree": 5,
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 67849,
@@ -6685,7 +6717,7 @@
         "realisateurs": "Claude Miller",
         "annee": 1967,
         "duree": 18,
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 50108,
@@ -6694,7 +6726,7 @@
         "realisateurs": "Claude Miller",
         "annee": 1970,
         "duree": 9,
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 67851,
@@ -6718,7 +6750,7 @@
         "Hommage à Éléonore Faucher"
       ]
     ],
-    "mention": "Séance présentée par Ariane Ascaride, Lola Naymark, Gaëlle Macé, Jean-Christophe Delpias et Anne Villacèque",
+    "mention": "Séance présentée par Ariane Ascaride, Lola Naymark, Anaïs Delpias-Faucher, Antonin Delpias-Faucher et Anne Villacèque",
     "items": [
       {
         "idFilm": 91525,
@@ -7380,6 +7412,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Paola Palma",
     "items": [
       {
         "idFilm": 46521,
@@ -7568,7 +7601,7 @@
         "annee": 2008,
         "duree": 75,
         "version": "VF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f107041"
@@ -7846,7 +7879,7 @@
         "realisateurs": "Fedor Ozep, Boris Barnet",
         "annee": 1926,
         "duree": 250,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "35 mm"
       }
     ],
@@ -7901,7 +7934,7 @@
         "realisateurs": "Boris Barnet",
         "annee": 1927,
         "duree": 65,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "DCP"
       },
       {
@@ -7955,7 +7988,9 @@
         "art": "Le",
         "realisateurs": "Boris Barnet",
         "annee": 1940,
-        "duree": 96
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "Vidéo"
       }
     ],
     "hashEvenement": "f70826"
@@ -8028,7 +8063,8 @@
         "realisateurs": "Boris Barnet",
         "annee": 1942,
         "duree": 67,
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "Vidéo"
       }
     ],
     "hashEvenement": "f70837"
@@ -8116,8 +8152,8 @@
         "realisateurs": "Boris Barnet",
         "annee": 1927,
         "duree": 60,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "version": "INT. FR.",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f40602"
@@ -8144,7 +8180,7 @@
       },
       {
         "idFilm": 46274,
-        "titre": "Plus vieux métier du monde : Aujourd'hui",
+        "titre": "Plus Vieux Métier du monde : Aujourd'hui",
         "art": "Le",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1966,
@@ -8227,11 +8263,12 @@
     "items": [
       {
         "idFilm": 69160,
-        "titre": "Exploit d'un éclaireur",
+        "titre": "Exploit d'un agent secret",
         "art": "L'",
         "realisateurs": "Boris Barnet",
         "annee": 1947,
         "duree": 120,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -8286,30 +8323,6 @@
     "hashEvenement": "f30930"
   },
   {
-    "idSeance": 115404,
-    "idEvenement": 29059,
-    "dateHeure": "2024-02-18T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Boris Barnet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 70841,
-        "titre": "Pages de la vie",
-        "art": "Les",
-        "realisateurs": "Boris Barnet",
-        "annee": 1948,
-        "duree": 90,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f70841"
-  },
-  {
     "idSeance": 107220,
     "idEvenement": 28835,
     "dateHeure": "2024-02-19T18:00:00",
@@ -8360,7 +8373,7 @@
         "realisateurs": "Jonas Mekas",
         "annee": 1999,
         "duree": 35,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "16 mm"
       },
       {
@@ -8398,7 +8411,7 @@
     "items": [
       {
         "idFilm": 46487,
-        "titre": "Nouveau journal d'une femme en blanc",
+        "titre": "Nouveau Journal d'une femme en blanc",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1966,
         "duree": 115,
@@ -8526,7 +8539,8 @@
         "realisateurs": "Boris Barnet",
         "annee": 1963,
         "duree": 70,
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "Vidéo"
       }
     ],
     "hashEvenement": "f70829"
@@ -8710,7 +8724,7 @@
         "titre": "Une fois, la nuit",
         "realisateurs": "Boris Barnet",
         "annee": 1944,
-        "duree": 88,
+        "duree": 78,
         "version": "VOSTF",
         "format": "35 mm"
       },
@@ -8809,11 +8823,12 @@
     "items": [
       {
         "idFilm": 53490,
-        "titre": "Lutteur et le clown",
+        "titre": "Lutteur et le Clown",
         "art": "Le",
         "realisateurs": "Boris Barnet, Konstantin Youdine",
         "annee": 1957,
         "duree": 95,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -8937,7 +8952,7 @@
         "realisateurs": "Boris Barnet",
         "annee": 1951,
         "duree": 87,
-        "version": "VOSTA",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -9009,6 +9024,7 @@
         "titre": "Concert des maîtres de l'art ukrainien",
         "realisateurs": "Boris Barnet",
         "annee": 1952,
+        "duree": 78,
         "version": "VOSTF",
         "format": "16 mm"
       }
@@ -9129,7 +9145,7 @@
       {
         "idFilm": 154586,
         "titre": "Automne malade",
-        "realisateurs": "Yann Berlier, Lola Cambourieu",
+        "realisateurs": "Lola Cambourieu, Yann Berlier",
         "annee": 2019,
         "duree": 30,
         "format": "DCP"
@@ -9148,7 +9164,7 @@
         "Les films"
       ]
     ],
-    "mention": "Avant-première",
+    "mention": "Avant-première. Séance présentée par Bertrand Bonello",
     "items": [
       {
         "idFilm": 154589,
@@ -9205,8 +9221,8 @@
         "realisateurs": "John G. Blystone",
         "annee": 1937,
         "duree": 73,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f30512"
@@ -9342,7 +9358,7 @@
       },
       {
         "idFilm": 154639,
-        "titre": "Dancing in the rain (Turf Feinz)",
+        "titre": "Dancing in the Rain (Turf Feinz)",
         "realisateurs": "Savion Yoram",
         "annee": 2014,
         "duree": 4,
@@ -9920,7 +9936,7 @@
         "realisateurs": "Wolfgang Petersen",
         "annee": 1983,
         "duree": 94,
-        "version": "VFSTF",
+        "version": "VF",
         "format": "DCP"
       }
     ],
@@ -9990,7 +10006,7 @@
         "realisateurs": "Boris Barnet",
         "annee": 1929,
         "duree": 44,
-        "version": "Autres",
+        "version": "INT. FR.",
         "format": "35 mm"
       }
     ],
@@ -10039,6 +10055,7 @@
         "realisateurs": "Boris Barnet",
         "annee": 1931,
         "duree": 65,
+        "version": "INT. FR.",
         "format": "35 mm"
       }
     ],
@@ -10091,7 +10108,7 @@
       {
         "idFilm": 54556,
         "titre": "Trop tôt, trop tard",
-        "realisateurs": "Danièle Huillet, Jean-Marie Straub",
+        "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 1981,
         "duree": 104,
         "format": "16 mm"
@@ -10168,7 +10185,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Julia Faure et Louise Labeque",
+    "mention": "Séance présentée par Julia Faure et Louise Labèque",
     "items": [
       {
         "idFilm": 154641,
@@ -10351,7 +10368,9 @@
         "titre": "Une nuit de septembre",
         "realisateurs": "Boris Barnet",
         "annee": 1939,
-        "format": "35 mm"
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f70825"
@@ -10438,6 +10457,8 @@
         "art": "Le",
         "realisateurs": "Boris Barnet",
         "annee": 1957,
+        "duree": 96,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -10498,7 +10519,7 @@
       },
       {
         "idFilm": 84476,
-        "titre": "Retour du fils prodigue",
+        "titre": "Retour du fils prodigue – Humiliés",
         "art": "Le",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 2002,
@@ -10631,7 +10652,7 @@
         "realisateurs": "Boris Barnet",
         "annee": 1961,
         "duree": 88,
-        "version": "VOSTA",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -10685,7 +10706,7 @@
     "items": [
       {
         "idFilm": 52389,
-        "titre": "Noir péché",
+        "titre": "Noir Péché",
         "realisateurs": "Jean-Marie Straub, Danièle Huillet",
         "annee": 1989,
         "duree": 42,
