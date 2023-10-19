@@ -279,34 +279,6 @@
   * Verte Moisson (La)  
   * Voyage fantastique de Marius (Le)
 
-## Jean-Marie Straub et Danièle Huillet (25)
-
-  * Amerika, rapports de classe  
-  * Antigone  
-  * Ces rencontres avec eux  
-  * Cézanne  
-  * Chronique d'Anna Magdalena Bach  
-  * De la nuée à la résistance  
-  * Du jour au lendemain  
-  * En rachâchant  
-  * Fiancé, la comédienne et le maquereau (Le)  
-  * Fortini/Cani  
-  * Introduction à la « Musique d'accompagnement pour une scène de film » d'Arnold Schoenberg  
-  * Leçons d'histoire  
-  * Lothringen !  
-  * Machorka-Muff  
-  * Moïse et Aaron  
-  * Mort d'Empédocle (La)  
-  * Noir Péché  
-  * Non réconciliés ou Seule la violence aide où la violence règne  
-  * Othon  
-  * Ouvriers, paysans  
-  * Retour du fils prodigue – Humiliés (Le)  
-  * Sicilia !  
-  * Toute révolution est un coup de dés  
-  * Trop tôt, trop tard  
-  * Une visite au Louvre
-
 ## La comédie hollywoodienne classique, 25 indispensables (25)
 
   * Arsenic et vieilles dentelles  
@@ -505,6 +477,34 @@
   * Proies (Les)  
   * Somewhere  
   * Virgin Suicides
+
+## Straub-Huillet (25)
+
+  * Amerika, rapports de classe  
+  * Antigone  
+  * Ces rencontres avec eux  
+  * Cézanne  
+  * Chronique d'Anna Magdalena Bach  
+  * De la nuée à la résistance  
+  * Du jour au lendemain  
+  * En rachâchant  
+  * Fiancé, la comédienne et le maquereau (Le)  
+  * Fortini/Cani  
+  * Introduction à la « Musique d'accompagnement pour une scène de film » d'Arnold Schoenberg  
+  * Leçons d'histoire  
+  * Lothringen !  
+  * Machorka-Muff  
+  * Moïse et Aaron  
+  * Mort d'Empédocle (La)  
+  * Noir Péché  
+  * Non réconciliés ou Seule la violence aide où la violence règne  
+  * Othon  
+  * Ouvriers, paysans  
+  * Retour du fils prodigue – Humiliés (Le)  
+  * Sicilia !  
+  * Toute révolution est un coup de dés  
+  * Trop tôt, trop tard  
+  * Une visite au Louvre
 
 ## Séances spéciales (5)
 
