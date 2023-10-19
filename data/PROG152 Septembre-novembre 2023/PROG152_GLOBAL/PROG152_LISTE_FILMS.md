@@ -233,7 +233,7 @@
   * A Bittersweet Life (Director's Cut)  
   * Age of Shadows (The)  
   * Bon, la brute, le cinglé (Le)  
-  * Dans la toile  
+  * Ça tourne à Séoul (Cobweb)  
   * Dernier Rempart (Le)  
   * Deux sœurs  
   * Foul King  
