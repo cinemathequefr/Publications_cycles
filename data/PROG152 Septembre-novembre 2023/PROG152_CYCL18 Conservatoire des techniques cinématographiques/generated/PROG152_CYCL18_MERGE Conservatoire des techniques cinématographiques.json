@@ -5,6 +5,44 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 105037,
+          "ordre": 2,
+          "dateHeure": "2023-10-06T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 135,
+          "typeAssoc": 118,
+          "idCategorie": 3079,
+          "idEvenement": 28916,
+          "typeEvenement": 13,
+          "idFilm": 36200,
+          "titre": "Tremblement de terre",
+          "titreVo": "Earthquake",
+          "realisateurs": "Mark Robson",
+          "annee": 1974,
+          "pays": "États-Unis",
+          "duree": 107,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Charlton Heston",
+            "Ava Gardner",
+            "George Kennedy"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un tremblement de terre secoue la ville de Los Angeles. Au milieu des décombres, les survivants s'organisent tandis que les catastrophes s'enchaînent."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Copie Technicolor originale."
+            }
+          ]
+        },
+        {
           "idSeance": 105038,
           "ordre": 2,
           "dateHeure": "2023-11-10T17:00:00",
@@ -74,12 +112,14 @@
         },
         {
           "idSeance": 105037,
+          "ordre": 1,
           "dateHeure": "2023-10-06T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 30,
+          "typeAssoc": 118,
           "idCategorie": 1856,
           "idEvenement": 28908,
           "typeEvenement": 14,
