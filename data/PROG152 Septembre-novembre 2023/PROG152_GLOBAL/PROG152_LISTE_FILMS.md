@@ -415,7 +415,7 @@
   * Dites cariatides (Les)  
   * Documenteur  
   * Glaneurs et la Glaneuse (Les)  
-  * Lions Love (... and lies)  
+  * Lions Love (... and Lies)  
   * Mur murs  
   * Plages d'Agnès (Les)  
   * Pointe Courte (La)  
