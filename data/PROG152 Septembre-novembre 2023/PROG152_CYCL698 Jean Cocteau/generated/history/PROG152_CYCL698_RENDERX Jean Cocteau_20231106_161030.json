@@ -10,6 +10,35 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 154679,
+          "content": [
+            {
+              "idFilm": 154679,
+              "ordre": 1,
+              "duree": 44,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Aigle à deux têtes",
+                    "L'"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104604,
+              "dateHeure": "2023-11-15T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
           "idFilm": 47676,
           "content": [
             {
@@ -33,7 +62,7 @@
               "precedeSuivi": [
                 [
                   [
-                    "Toute la vérité",
+                    null,
                     null
                   ]
                 ],
@@ -273,39 +302,6 @@
               "idSeance": 105023,
               "dateHeure": "2023-11-17T20:00:00",
               "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 154679,
-          "content": [
-            {
-              "idFilm": 154679,
-              "ordre": 1,
-              "titre": "Toute la vérité",
-              "realisateurs": "Anonyme",
-              "pays": "France",
-              "annee": 1947,
-              "duree": 44,
-              "version": "",
-              "format": "DCP",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Aigle à deux têtes",
-                    "L'"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 104604,
-              "dateHeure": "2023-11-15T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
             }
           ]
         },

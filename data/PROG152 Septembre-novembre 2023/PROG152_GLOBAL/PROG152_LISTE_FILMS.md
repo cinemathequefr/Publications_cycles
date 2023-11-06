@@ -183,7 +183,7 @@
   * Leçons de cinéma de Godard à Montréal, programme 2  
   * Leçons de cinéma de Godard à Montréal, programme 3
 
-## Jean Cocteau (26)
+## Jean Cocteau (27)
 
   * 8 × 8: A Chess Sonata in 8 Movements  
   * Aigle à deux têtes (L')  
@@ -209,6 +209,7 @@
   * Sang d'un poète (Le)  
   * Testament d'Orphée (Le)  
   * Thomas l'imposteur  
+  * Toute la vérité  
   * Villa Santo Sospir (La)  
   * Voix humaine (La)
 
