@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-05-09T21:00:00",
-    "2024-05-09T21:00:00"
+    "2024-05-19T14:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,86 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 48211,
+          "content": [
+            {
+              "idFilm": 48211,
+              "ordre": 1,
+              "titre": "Camion",
+              "art": "Le",
+              "realisateurs": "Marguerite Duras",
+              "pays": "France",
+              "annee": 1977,
+              "duree": 78,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Marguerite Duras",
+                "Gérard Depardieu"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 117617,
+              "dateHeure": "2024-05-19T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 57707,
+          "content": [
+            {
+              "idFilm": 57707,
+              "ordre": 1,
+              "titre": "Femme du Gange",
+              "art": "La",
+              "realisateurs": "Marguerite Duras",
+              "pays": "France",
+              "annee": 1972,
+              "duree": 87,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118499,
+              "dateHeure": "2024-05-11T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 50869,
+          "content": [
+            {
+              "idFilm": 50869,
+              "ordre": 1,
+              "titre": "Hiroshima, mon amour",
+              "realisateurs": "Alain Resnais",
+              "pays": "France-Japon",
+              "annee": 1959,
+              "duree": 91,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Emmanuelle Riva",
+                "Eiji Okada",
+                "Stella Dassas"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 117600,
+              "dateHeure": "2024-05-18T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 48298,
           "content": [
@@ -35,6 +115,34 @@
               "dateHeure": "2024-05-09T21:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 53305,
+          "content": [
+            {
+              "idFilm": 53305,
+              "ordre": 1,
+              "titre": "Son nom de Venise dans Calcutta désert",
+              "realisateurs": "Marguerite Duras",
+              "pays": "France",
+              "annee": 1976,
+              "duree": 120,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Delphine Seyrig",
+                "Nicole Hiss",
+                "Sylvie Nuytten"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118489,
+              "dateHeure": "2024-05-11T19:30:00",
+              "idSalle": "HL"
             }
           ]
         }

@@ -10,6 +10,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 30,
+    "typeSeance": 44,
     "items": [
       {
         "idFilm": 104517,
@@ -20,7 +21,8 @@
         "version": "VOSTF",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 3217,
@@ -73,7 +75,7 @@
     "typeEvenement": 13,
     "idEvenement": 29702,
     "idSeance": 116838,
-    "dateHeure": "2024-04-20T19:30:00",
+    "dateHeure": "2024-04-20T17:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -96,7 +98,7 @@
     "typeEvenement": 13,
     "idEvenement": 29558,
     "idSeance": 116855,
-    "dateHeure": "2024-04-21T19:15:00",
+    "dateHeure": "2024-04-20T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -117,9 +119,32 @@
   {
     "idCategorie": 3217,
     "typeEvenement": 13,
+    "idEvenement": 29556,
+    "idSeance": 118491,
+    "dateHeure": "2024-04-21T16:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 97210,
+        "ordre": 1,
+        "idSeance": 118491,
+        "idCopie": 27022,
+        "duree": 96,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
     "idEvenement": 29669,
     "idSeance": 116869,
-    "dateHeure": "2024-04-22T20:15:00",
+    "dateHeure": "2024-04-21T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -131,52 +156,6 @@
         "ordre": 1,
         "idSeance": 116869,
         "idCopie": 26995,
-        "duree": 0,
-        "version": "",
-        "format": ""
-      }
-    ]
-  },
-  {
-    "idCategorie": 3217,
-    "typeEvenement": 13,
-    "idEvenement": 29675,
-    "idSeance": 116909,
-    "dateHeure": "2024-04-24T18:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 154606,
-        "ordre": 1,
-        "idSeance": 116909,
-        "idCopie": 26998,
-        "duree": 0,
-        "version": "",
-        "format": ""
-      }
-    ]
-  },
-  {
-    "idCategorie": 3217,
-    "typeEvenement": 13,
-    "idEvenement": 29681,
-    "idSeance": 118453,
-    "dateHeure": "2024-04-24T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 154609,
-        "ordre": 1,
-        "idSeance": 118453,
-        "idCopie": 27003,
         "duree": 0,
         "version": "",
         "format": ""
@@ -349,7 +328,7 @@
     "typeEvenement": 13,
     "idEvenement": 29671,
     "idSeance": 117051,
-    "dateHeure": "2024-04-28T19:15:00",
+    "dateHeure": "2024-04-28T19:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -692,32 +671,9 @@
   {
     "idCategorie": 3217,
     "typeEvenement": 13,
-    "idEvenement": 29697,
-    "idSeance": 117413,
-    "dateHeure": "2024-05-11T15:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 105,
-    "items": [
-      {
-        "idFilm": 154623,
-        "ordre": 1,
-        "idSeance": 117413,
-        "idCopie": 26950,
-        "duree": 79,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3217,
-    "typeEvenement": 13,
     "idEvenement": 29687,
     "idSeance": 117409,
-    "dateHeure": "2024-05-11T17:00:00",
+    "dateHeure": "2024-05-11T17:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -738,21 +694,44 @@
   {
     "idCategorie": 3217,
     "typeEvenement": 13,
-    "idEvenement": 29692,
-    "idSeance": 117415,
-    "dateHeure": "2024-05-11T20:30:00",
+    "idEvenement": 29697,
+    "idSeance": 118503,
+    "dateHeure": "2024-05-11T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 154619,
+        "idFilm": 154623,
         "ordre": 1,
-        "idSeance": 117415,
-        "idCopie": 27011,
-        "duree": 0,
+        "idSeance": 118503,
+        "idCopie": 26950,
+        "duree": 79,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29703,
+    "idSeance": 118504,
+    "dateHeure": "2024-05-11T20:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154628,
+        "ordre": 1,
+        "idSeance": 118504,
+        "idCopie": 27017,
+        "duree": 89,
         "version": "",
         "format": ""
       }
@@ -784,9 +763,32 @@
   {
     "idCategorie": 3217,
     "typeEvenement": 13,
+    "idEvenement": 29705,
+    "idSeance": 117432,
+    "dateHeure": "2024-05-12T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 154630,
+        "ordre": 1,
+        "idSeance": 117432,
+        "idCopie": 27021,
+        "duree": 76,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
     "idEvenement": 29691,
     "idSeance": 117433,
-    "dateHeure": "2024-05-12T20:30:00",
+    "dateHeure": "2024-05-12T19:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -801,6 +803,259 @@
         "duree": 76,
         "version": "",
         "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29684,
+    "idSeance": 117482,
+    "dateHeure": "2024-05-15T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 154612,
+        "ordre": 1,
+        "idSeance": 117482,
+        "idCopie": 27006,
+        "duree": 0,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29704,
+    "idSeance": 117483,
+    "dateHeure": "2024-05-15T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154629,
+        "ordre": 1,
+        "idSeance": 117483,
+        "idCopie": 27019,
+        "duree": 81,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29712,
+    "idSeance": 117561,
+    "dateHeure": "2024-05-17T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154637,
+        "ordre": 1,
+        "idSeance": 117561,
+        "idCopie": 27026,
+        "duree": 94,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29707,
+    "idSeance": 117562,
+    "dateHeure": "2024-05-17T20:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154632,
+        "ordre": 1,
+        "idSeance": 117562,
+        "idCopie": 27023,
+        "duree": 83,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29709,
+    "idSeance": 117604,
+    "dateHeure": "2024-05-18T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154634,
+        "ordre": 1,
+        "idSeance": 117604,
+        "idCopie": 27024,
+        "duree": 89,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29711,
+    "idSeance": 117605,
+    "dateHeure": "2024-05-18T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 154636,
+        "ordre": 1,
+        "idSeance": 117605,
+        "idCopie": 26944,
+        "duree": 0,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29675,
+    "idSeance": 117606,
+    "dateHeure": "2024-05-18T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 154606,
+        "ordre": 1,
+        "idSeance": 117606,
+        "idCopie": 26998,
+        "duree": 0,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29700,
+    "idSeance": 117623,
+    "dateHeure": "2024-05-19T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154625,
+        "ordre": 1,
+        "idSeance": 117623,
+        "idCopie": 27016,
+        "duree": 90,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29692,
+    "idSeance": 117624,
+    "dateHeure": "2024-05-19T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 154619,
+        "ordre": 1,
+        "idSeance": 117624,
+        "idCopie": 27011,
+        "duree": 0,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29718,
+    "idSeance": 117631,
+    "dateHeure": "2024-05-20T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 144558,
+        "ordre": 1,
+        "idSeance": 117631,
+        "idCopie": 26951,
+        "duree": 79,
+        "version": "VO",
+        "format": "16 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3217,
+    "typeEvenement": 13,
+    "idEvenement": 29695,
+    "idSeance": 117632,
+    "dateHeure": "2024-05-20T20:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 139736,
+        "ordre": 1,
+        "idSeance": 117632,
+        "idCopie": 16509,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   }

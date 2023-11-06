@@ -42,27 +42,46 @@
   * Two O'clock Courage  
   * Winchester 73
 
-## Cinéma et travestis (7)
+## Cinéma et travestis (22)
 
   * Allez coucher ailleurs  
+  * Amours d'Astrée et de Céladon (Les)  
   * Buster s'en va en guerre  
   * Cage aux folles (La)  
+  * Certains l'aiment chaud  
+  * C'est l'homme  
+  * Des garçons de province  
   * Fanfare d'amour  
   * Glen or Glenda  
+  * Jardins en automne  
+  * Locataire (Le)  
+  * Madame Doubtfire  
+  * Nuits d'été (Les)  
+  * Paradis perdus (Les)  
+  * Poupées du diable (Les)  
+  * Priscilla, folle du désert  
+  * Pulsions  
+  * Rocky Horror Picture Show (The)  
   * Souris qui rugissait (La)  
-  * Triple echo
+  * Tootsie  
+  * Triple echo  
+  * Victor Victoria
 
-## James Cameron (7)
+## James Cameron (11)
 
   * Abyss  
+  * Aliens, le retour  
   * Aliens of the Deep  
+  * Avatar  
+  * Avatar : La voie de l'eau  
   * Fantômes du Titanic (Les)  
   * Piranha II : Les tueurs volants  
   * Terminator  
   * Terminator 2, le jugement dernier  
-  * Titanic
+  * Titanic  
+  * True Lies
 
-## Kenji Misumi (35)
+## Kenji Misumi (46)
 
   * Baby Cart : Dans la terre de l'ombre  
   * Baby Cart : L'Enfant du massacre  
@@ -73,22 +92,31 @@
   * Carnets de route de Mito Komon (Les)  
   * Carnets secrets de Senzaburu (Les)  
   * Chroniques du Shinsengumi (Les)  
+  * Combinards des pompes funèbres (Les)  
   * Courtisane et l'assassin (La)  
   * Démon du chateau de Sendai (Le)  
+  * Derniers Samouraïs (Les)  
+  * Deux gardes du corps (Les)  
+  * Deux sœurs mélaconliques à Kyoto  
+  * Enfant Renard (L')  
+  * Epée errante (L')  
+  * Famille matrilinéaire (La)  
   * Fantôme de Yotsuya (Le)  
   * Gompachi au chapeau  
+  * Hanzo the Razor – Sword of Justice  
   * Homme au pousse-pousse (L')  
   * Inspecteur du Shogun (L')  
   * Jirokichi le rat  
   * Komako, fille unique de la maison Shiroko  
   * Lame diabolique (La)  
+  * Légende de Zaitoïchi: Le Shogun de l'ombre (La)  
   * Légende de Zaitoïchi : Voyage en enfer (La)  
   * Légende de Zaitoïchi : Voyage meurtrier (La)  
   * Légende de Zatoichi : Le masseur aveugle (La)  
   * Légende de Zatoïchi: Les tambours de la colère (La)  
   * Légende de Zatoïchi: route sanglante (La)  
-  * Lignée d'une femme (La)  
   * Momotaro le Samouraï  
+  * Nemuri Kyoshiro: lesabreur et les pirates  
   * Okuma Shigenobu le grand  
   * Palais de la princesse Sen (Le)  
   * Passage du grand bouddha (Le)  
@@ -98,7 +126,24 @@
   * Sabre (Le)  
   * Sabreur et les pirates (Le)  
   * Sur la route à jamais  
-  * Tuer
+  * Temple du démon (Le)  
+  * Tuer  
+  * Vision de la vierge (La)
+
+## La comédie romantique moderne (12)
+
+  * Coup de foudre à Notting Hill  
+  * Dirty Dancing  
+  * Journal de Bridget Jones (Le)  
+  * Mariage de mon meilleur ami (Le)  
+  * Nuits blanches à Seattle  
+  * Pour le pire et pour le meilleur  
+  * Pretty Woman  
+  * Quand Harry rencontre Sally  
+  * Quand les femmes s'en mêlent  
+  * Quatre mariages et un enterrement  
+  * Un jour sans fin  
+  * Vous avez un mess@ge
 
 ## Mae West (9)
 
@@ -112,9 +157,13 @@
   * Mon petit poussin chéri  
   * Nuit suivante (La)
 
-## Marguerite Duras (1)
+## Marguerite Duras (5)
 
-  * India song
+  * Camion (Le)  
+  * Femme du Gange (La)  
+  * Hiroshima, mon amour  
+  * India song  
+  * Son nom de Venise dans Calcutta désert
 
 ## Michelangelo Antonioni (20)
 
@@ -139,13 +188,30 @@
   * Vaincus (Les)  
   * Zabriskie Point
 
-## Nicolas Philibert (3)
+## Nicolas Philibert (20)
 
+  * Christophe  
+  * Come-back de Baquet (Le)  
+  * Être et avoir  
+  * Face nord du camembert (La)  
+  * Moindre des choses (La)  
+  * Nénette  
+  * Nous, sans-papiers de France  
   * Patrons-télévision  
+  * Pays des sourds (Le)  
+  * Portraits de famille  
+  * Projection (La)  
+  * Qui sait ?  
+  * Retour en Normandie  
   * Sur l'Adamant partie 2 : Averroes et Rosa Parks  
-  * Voix de son maître (La)
+  * Trilogie pour un homme seul  
+  * Un animal, des animaux  
+  * Vas-y Lapébie  
+  * Ville Louvre (La)  
+  * Voix de son maître (La)  
+  * Y'a pas de malaise
 
-## William Friedkin (20)
+## William Friedkin (19)
 
   * Birthday Party (The)  
   * Blue Chips  
@@ -153,7 +219,6 @@
   * Convoi de la peur (Le)  
   * Cruising – La chasse  
   * Enfer du devoir (L')  
-  * Exorciste (L')  
   * French Connection  
   * Garçons de la bande (Les)  
   * Good Times  

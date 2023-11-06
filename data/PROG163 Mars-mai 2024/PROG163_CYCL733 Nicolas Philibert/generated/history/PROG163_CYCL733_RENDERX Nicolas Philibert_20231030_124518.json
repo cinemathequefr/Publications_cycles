@@ -1,0 +1,85 @@
+{
+  "datesCycle": [
+    "2024-03-18T20:00:00",
+    "2024-03-20T20:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 55218,
+          "content": [
+            {
+              "idFilm": 55218,
+              "ordre": 1,
+              "titre": "Patrons-télévision",
+              "realisateurs": "Gérard Mordillat, Nicolas Philibert",
+              "pays": "France",
+              "annee": 1978
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115955,
+              "dateHeure": "2024-03-20T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154668,
+          "content": [
+            {
+              "idFilm": 154668,
+              "ordre": 1,
+              "titre": "Sur l'Adamant partie 2 : Averroes et Rosa Parks",
+              "realisateurs": "Nicolas Philibert",
+              "pays": "France",
+              "annee": 2024
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115911,
+              "dateHeure": "2024-03-18T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        },
+        {
+          "idFilm": 57225,
+          "content": [
+            {
+              "idFilm": 57225,
+              "ordre": 1,
+              "titre": "Voix de son maître",
+              "art": "La",
+              "realisateurs": "Gérard Mordillat, Nicolas Philibert",
+              "pays": "France",
+              "annee": 1977
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 115954,
+              "dateHeure": "2024-03-20T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2024-03-18T20:00:00",
+        "titreFilms": "Sur l'Adamant partie 2 : Averroes et Rosa Parks"
+      }
+    ]
+  }
+}
