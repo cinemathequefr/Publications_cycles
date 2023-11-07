@@ -138,7 +138,7 @@
             {
               "idFilm": 47711,
               "ordre": 1,
-              "titre": "Belle et la Bête",
+              "titre": "Belle et la bête",
               "art": "La",
               "realisateurs": "Jean Cocteau",
               "pays": "France",
@@ -147,7 +147,7 @@
               "version": "",
               "format": "35 mm",
               "ageMinimal": 6,
-              "adaptation": "D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.",
+              "adaptation": "D'après le conte _La Belle et la bête_ de Jeanne-Marie Leprince de Beaumont.",
               "generique": [
                 "Josette Day",
                 "Jean Marais",
@@ -170,7 +170,7 @@
           "content": [
             {
               "idFilm": 57769,
-              "ordre": 1,
+              "ordre": 3,
               "titre": "Cadet d'eau douce",
               "titreVo": "Steamboat Bill, Jr.",
               "realisateurs": "Buster Keaton, Charles F. Riesner",
@@ -187,18 +187,23 @@
               ],
               "miniTexte": "Sur le Mississippi, deux vieux marins se disputent : d'un côté, Bill et son vieux rafiot, de l'autre King et son rutilant steamer. Cette querelle s'arrêtera-t-elle avec le retour au pays de Junior, le fils de Bill, qui tombe immédiatement amoureux de Kitty, la fille de King ? Buster Keaton, le jeune fils, se livre à une succession de cascades impressionnantes, sur les bateaux, sous l'eau et sur la terre ferme, jusqu'à la très spectaculaire séquence du cyclone.",
               "precedeSuivi": [
-                [],
                 [
                   [
-                    "Grande migration",
-                    "La"
-                  ],
-                  [
-                    "Ponyo sur la falaise",
+                    "Sientje",
                     null
                   ],
                   [
-                    "Sientje",
+                    "Grande migration",
+                    "La"
+                  ]
+                ],
+                [
+                  [
+                    "Pl.ink !",
+                    null
+                  ],
+                  [
+                    "Ponyo sur la falaise",
                     null
                   ]
                 ]
@@ -313,17 +318,21 @@
               "precedeSuivi": [
                 [
                   [
-                    "Cadet d'eau douce",
+                    "Sientje",
                     null
                   ]
                 ],
                 [
                   [
-                    "Ponyo sur la falaise",
+                    "Cadet d'eau douce",
                     null
                   ],
                   [
-                    "Sientje",
+                    "Pl.ink !",
+                    null
+                  ],
+                  [
+                    "Ponyo sur la falaise",
                     null
                   ]
                 ]
@@ -633,11 +642,64 @@
           ]
         },
         {
+          "idFilm": 136493,
+          "content": [
+            {
+              "idFilm": 136493,
+              "ordre": 4,
+              "titre": "Pl.ink !",
+              "realisateurs": "Anne Kristin Berge",
+              "pays": "Norvège",
+              "annee": 2010,
+              "duree": 3,
+              "version": "",
+              "format": "Numérique",
+              "ageMinimal": 3,
+              "precedeSuivi": [
+                [
+                  [
+                    "Sientje",
+                    null
+                  ],
+                  [
+                    "Grande migration",
+                    "La"
+                  ],
+                  [
+                    "Cadet d'eau douce",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Ponyo sur la falaise",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 104688,
+              "dateHeure": "2023-11-15T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 3
+            },
+            {
+              "idSeance": 104689,
+              "dateHeure": "2023-11-19T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 3
+            }
+          ]
+        },
+        {
           "idFilm": 106786,
           "content": [
             {
               "idFilm": 106786,
-              "ordre": 3,
+              "ordre": 5,
               "titre": "Ponyo sur la falaise",
               "titreVo": "Gake no ue no Ponyo",
               "realisateurs": "Hayao Miyazaki",
@@ -649,20 +711,23 @@
               "precedeSuivi": [
                 [
                   [
-                    "Cadet d'eau douce",
+                    "Sientje",
                     null
                   ],
                   [
                     "Grande migration",
                     "La"
-                  ]
-                ],
-                [
+                  ],
                   [
-                    "Sientje",
+                    "Cadet d'eau douce",
+                    null
+                  ],
+                  [
+                    "Pl.ink !",
                     null
                   ]
-                ]
+                ],
+                []
               ]
             }
           ],
@@ -711,7 +776,7 @@
           "content": [
             {
               "idFilm": 96906,
-              "ordre": 4,
+              "ordre": 1,
               "titre": "Sientje",
               "realisateurs": "Christa Moesker",
               "pays": "Pays-Bas",
@@ -720,21 +785,25 @@
               "version": "",
               "format": "DCP",
               "precedeSuivi": [
+                [],
                 [
-                  [
-                    "Cadet d'eau douce",
-                    null
-                  ],
                   [
                     "Grande migration",
                     "La"
                   ],
                   [
+                    "Cadet d'eau douce",
+                    null
+                  ],
+                  [
+                    "Pl.ink !",
+                    null
+                  ],
+                  [
                     "Ponyo sur la falaise",
                     null
                   ]
-                ],
-                []
+                ]
               ]
             }
           ],

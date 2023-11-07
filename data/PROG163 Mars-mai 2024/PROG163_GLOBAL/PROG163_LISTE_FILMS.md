@@ -191,7 +191,7 @@
   * Son nom de Venise dans Calcutta désert  
   * Une aussi longue absence
 
-## Michelangelo Antonioni (20)
+## Michelangelo Antonioni (18)
 
   * 12 registi per 12 città  
   * Avventura (L')  
@@ -199,7 +199,6 @@
   * Chronique d'un amour  
   * Chung Kuo, La Chine  
   * Cri (Le)  
-  * Dame sans camélias (La)  
   * Désert rouge (Le)  
   * Eclipse (L')  
   * Eros  
@@ -210,16 +209,16 @@
   * Par-delà les nuages  
   * Profession : Reporter  
   * Sous le signe de Rome  
-  * Trois visages (Les)  
   * Vaincus (Les)  
   * Zabriskie Point
 
-## Nicolas Philibert (20)
+## Nicolas Philibert (21)
 
   * Christophe  
   * Come-back de Baquet (Le)  
   * Être et avoir  
   * Face nord du camembert (La)  
+  * Mesure de l'exploit (La)  
   * Moindre des choses (La)  
   * Nénette  
   * Nous, sans-papiers de France  
@@ -237,13 +236,15 @@
   * Voix de son maître (La)  
   * Y'a pas de malaise
 
-## William Friedkin (19)
+## William Friedkin (22)
 
   * Birthday Party (The)  
   * Blue Chips  
   * Bug  
   * Convoi de la peur (Le)  
   * Cruising – La chasse  
+  * Deal of the Century  
+  * Douze hommes en colère  
   * Enfer du devoir (L')  
   * French Connection  
   * Garçons de la bande (Les)  
@@ -254,6 +255,7 @@
   * Nurse (La)  
   * People vs. Paul Crump TV (The)  
   * Police fédérale Los Angeles  
+  * Sang du Châtiment : Director's Cut (Le)  
   * Sang du châtiment (Le)  
   * Têtes vides cherchent coffre plein  
   * The Caine Mutiny Court-Martial  

@@ -191,7 +191,7 @@
   * Anna, la bonne  
   * Baron fantôme (Le)  
   * Bel Indifférent (Le)  
-  * Belle et la bête (La)  
+  * Belle et la Bête (La)  
   * Charlotte et son jules  
   * Couronne noire (La)  
   * Dame de Monte-Carlo (La)  
@@ -243,7 +243,7 @@
   * Quiet Family (The)  
   * Trois Histoires de l'au-delà
 
-## Ma petite Cinémathèque (19)
+## Ma petite Cinémathèque (18)
 
   * Argent de poche (L')  
   * Arsenic et vieilles dentelles  
@@ -260,7 +260,6 @@
   * Ma vache et moi  
   * Microcosmos  
   * Petite Vendeuse de Soleil (La)  
-  * Pl.ink !  
   * Ponyo sur la falaise  
   * Porco Rosso  
   * Sientje
@@ -313,7 +312,7 @@
   * Voyage en pyjama (Le)  
   * Zozos (Les)
 
-## Raoul Walsh (81)
+## Raoul Walsh (80)
 
   * Amour de marin  
   * Annie du Klondike  
@@ -384,7 +383,6 @@
   * Saboteur sans gloire  
   * Singe qui parle (Le)  
   * Spendthrift  
-  * St. Louis Blues  
   * Strawberry Blonde (The)  
   * Têtes brûlées  
   * True Adventures of Raoul Walsh (The)  

@@ -6,9 +6,69 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 2,
+      "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 66852,
+          "content": [
+            {
+              "idFilm": 66852,
+              "ordre": 2,
+              "titre": "Christophe",
+              "realisateurs": "Nicolas Philibert",
+              "pays": "France",
+              "annee": 1984,
+              "duree": 29,
+              "version": "",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [
+                  [
+                    "Y'a pas de malaise",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Face nord du camembert",
+                    "La"
+                  ],
+                  [
+                    "Trilogie pour un homme seul",
+                    null
+                  ],
+                  [
+                    "Mesure de l'exploit",
+                    "La"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 116147,
+              "dateHeure": "2024-03-27T18:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 118465,
+              "dateHeure": "2024-03-27T20:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 116183,
+              "dateHeure": "2024-03-28T18:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 118466,
+              "dateHeure": "2024-03-28T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
         {
           "idFilm": 147588,
           "content": [
@@ -53,6 +113,127 @@
               "idSeance": 116078,
               "dateHeure": "2024-03-23T19:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 67887,
+          "content": [
+            {
+              "idFilm": 67887,
+              "ordre": 3,
+              "titre": "Face nord du camembert",
+              "art": "La",
+              "realisateurs": "Nicolas Philibert",
+              "pays": "France",
+              "annee": 1984,
+              "duree": 7,
+              "version": "",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [
+                  [
+                    "Y'a pas de malaise",
+                    null
+                  ],
+                  [
+                    "Christophe",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Trilogie pour un homme seul",
+                    null
+                  ],
+                  [
+                    "Mesure de l'exploit",
+                    "La"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 116147,
+              "dateHeure": "2024-03-27T18:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 118465,
+              "dateHeure": "2024-03-27T20:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 116183,
+              "dateHeure": "2024-03-28T18:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 118466,
+              "dateHeure": "2024-03-28T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 154680,
+          "content": [
+            {
+              "idFilm": 154680,
+              "ordre": 5,
+              "titre": "Mesure de l'exploit",
+              "art": "La",
+              "realisateurs": "Nicolas Philibert",
+              "pays": "France",
+              "annee": 1987,
+              "duree": 21,
+              "version": "",
+              "format": "16 mm",
+              "precedeSuivi": [
+                [
+                  [
+                    "Y'a pas de malaise",
+                    null
+                  ],
+                  [
+                    "Christophe",
+                    null
+                  ],
+                  [
+                    "Face nord du camembert",
+                    "La"
+                  ],
+                  [
+                    "Trilogie pour un homme seul",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 116147,
+              "dateHeure": "2024-03-27T18:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 118465,
+              "dateHeure": "2024-03-27T20:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 116183,
+              "dateHeure": "2024-03-28T18:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 118466,
+              "dateHeure": "2024-03-28T20:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -295,6 +476,66 @@
           ]
         },
         {
+          "idFilm": 147586,
+          "content": [
+            {
+              "idFilm": 147586,
+              "ordre": 4,
+              "titre": "Trilogie pour un homme seul",
+              "realisateurs": "Nicolas Philibert",
+              "pays": "France",
+              "annee": 1987,
+              "duree": 56,
+              "version": "",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [
+                  [
+                    "Y'a pas de malaise",
+                    null
+                  ],
+                  [
+                    "Christophe",
+                    null
+                  ],
+                  [
+                    "Face nord du camembert",
+                    "La"
+                  ]
+                ],
+                [
+                  [
+                    "Mesure de l'exploit",
+                    "La"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 116147,
+              "dateHeure": "2024-03-27T18:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 118465,
+              "dateHeure": "2024-03-27T20:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 116183,
+              "dateHeure": "2024-03-28T18:30:00",
+              "idSalle": "JE"
+            },
+            {
+              "idSeance": 118466,
+              "dateHeure": "2024-03-28T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 58225,
           "content": [
             {
@@ -390,7 +631,7 @@
           ]
         },
         {
-          "idEvenement": 29415,
+          "idFilm": 91230,
           "content": [
             {
               "idFilm": 91230,
@@ -401,53 +642,28 @@
               "annee": 1984,
               "duree": 13,
               "version": "",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 66852,
-              "ordre": 2,
-              "titre": "Christophe",
-              "realisateurs": "Nicolas Philibert",
-              "pays": "France",
-              "annee": 1984,
-              "duree": 29,
-              "version": "",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 67887,
-              "ordre": 3,
-              "titre": "Face nord du camembert",
-              "art": "La",
-              "realisateurs": "Nicolas Philibert",
-              "pays": "France",
-              "annee": 1984,
-              "duree": 7,
-              "version": "",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 147586,
-              "ordre": 4,
-              "titre": "Trilogie pour un homme seul",
-              "realisateurs": "Nicolas Philibert",
-              "pays": "France",
-              "annee": 1987,
-              "duree": 56,
-              "version": "",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 154680,
-              "ordre": 5,
-              "titre": "Mesure de l'exploit",
-              "art": "La",
-              "realisateurs": "Nicolas Philibert",
-              "pays": "France",
-              "annee": 1987,
-              "duree": 21,
-              "version": "",
-              "format": "16 mm"
+              "format": "35 mm",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Christophe",
+                    null
+                  ],
+                  [
+                    "Face nord du camembert",
+                    "La"
+                  ],
+                  [
+                    "Trilogie pour un homme seul",
+                    null
+                  ],
+                  [
+                    "Mesure de l'exploit",
+                    "La"
+                  ]
+                ]
+              ]
             }
           ],
           "seances": [
