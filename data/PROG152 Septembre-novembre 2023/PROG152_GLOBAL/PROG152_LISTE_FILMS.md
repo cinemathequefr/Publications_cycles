@@ -243,13 +243,15 @@
   * Quiet Family (The)  
   * Trois Histoires de l'au-delà
 
-## Ma petite Cinémathèque (14)
+## Ma petite Cinémathèque (19)
 
   * Argent de poche (L')  
   * Arsenic et vieilles dentelles  
   * Aventures de Peter Pan (Les)  
+  * Cadet d'eau douce  
   * Demoiselles de Rochefort (Les)  
   * Franc (Le)  
+  * Grande migration (La)  
   * Homme qui en savait trop (L')  
   * Jacquot de Nantes  
   * Kid (Le)  
@@ -258,7 +260,10 @@
   * Ma vache et moi  
   * Microcosmos  
   * Petite Vendeuse de Soleil (La)  
-  * Porco Rosso
+  * Pl.ink !  
+  * Ponyo sur la falaise  
+  * Porco Rosso  
+  * Sientje
 
 ## Mexico maleficarum (13)
 
