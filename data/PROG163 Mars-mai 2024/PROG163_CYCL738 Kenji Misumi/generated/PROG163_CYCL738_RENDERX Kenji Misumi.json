@@ -123,7 +123,7 @@
           "seances": [
             {
               "idSeance": 117046,
-              "dateHeure": "2024-04-28T16:30:00",
+              "dateHeure": "2024-04-28T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -266,7 +266,7 @@
           "seances": [
             {
               "idSeance": 117237,
-              "dateHeure": "2024-05-05T19:00:00",
+              "dateHeure": "2024-05-05T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -859,8 +859,8 @@
           ],
           "seances": [
             {
-              "idSeance": 118491,
-              "dateHeure": "2024-04-21T16:45:00",
+              "idSeance": 118605,
+              "dateHeure": "2024-04-21T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -889,8 +889,8 @@
           ],
           "seances": [
             {
-              "idSeance": 116796,
-              "dateHeure": "2024-04-19T20:15:00",
+              "idSeance": 118603,
+              "dateHeure": "2024-04-21T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -950,8 +950,8 @@
           ],
           "seances": [
             {
-              "idSeance": 116795,
-              "dateHeure": "2024-04-19T18:00:00",
+              "idSeance": 118601,
+              "dateHeure": "2024-04-20T18:30:00",
               "idSalle": "HL"
             }
           ]
@@ -980,8 +980,8 @@
           ],
           "seances": [
             {
-              "idSeance": 116855,
-              "dateHeure": "2024-04-20T19:30:00",
+              "idSeance": 118604,
+              "dateHeure": "2024-04-21T16:30:00",
               "idSalle": "HL"
             }
           ]
@@ -1010,8 +1010,8 @@
           ],
           "seances": [
             {
-              "idSeance": 116838,
-              "dateHeure": "2024-04-20T17:30:00",
+              "idSeance": 118602,
+              "dateHeure": "2024-04-20T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -1343,7 +1343,7 @@
             },
             {
               "idSeance": 118543,
-              "dateHeure": "2024-05-04T17:15:00",
+              "dateHeure": "2024-05-04T18:15:00",
               "idSalle": "HL"
             }
           ]
@@ -1398,7 +1398,7 @@
           "seances": [
             {
               "idSeance": 117220,
-              "dateHeure": "2024-05-04T19:15:00",
+              "dateHeure": "2024-05-04T20:15:00",
               "idSalle": "HL"
             }
           ]
@@ -1488,35 +1488,6 @@
           ]
         },
         {
-          "idFilm": 90640,
-          "content": [
-            {
-              "idFilm": 90640,
-              "ordre": 1,
-              "titre": "Tuer",
-              "titreVo": "Kiru",
-              "realisateurs": "Kenji Misumi",
-              "pays": "Japon",
-              "annee": 1963,
-              "duree": 71,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Shiho Fujimura",
-                "Mayumi Nagisa",
-                "Raizô Ichikawa"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 118580,
-              "dateHeure": "2024-04-21T19:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 139736,
           "content": [
             {
@@ -1547,7 +1518,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30000,
+          "content": [
+            {
+              "idConf": 30000,
+              "titre": "Babycart L'enfant du Massacre + Dialogue avec Jean Fraçois Rauger et Fabrice Arduini",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118586,
+              "dateHeure": "2024-04-27T15:59:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Babycart L'enfant du Massacre + Dialogue avec Jean Fraçois Rauger et Fabrice Arduini",
+        "dateHeure": "2024-04-27T15:59:00"
+      }
+    ]
+  }
 }

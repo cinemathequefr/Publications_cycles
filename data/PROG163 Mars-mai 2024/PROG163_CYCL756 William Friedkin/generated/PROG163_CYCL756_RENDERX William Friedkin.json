@@ -77,7 +77,7 @@
           "seances": [
             {
               "idSeance": 117236,
-              "dateHeure": "2024-05-05T16:30:00",
+              "dateHeure": "2024-05-05T18:30:00",
               "idSalle": "HL"
             }
           ]
@@ -189,32 +189,34 @@
           ]
         },
         {
-          "idFilm": 69774,
+          "idFilm": 31698,
           "content": [
             {
-              "idFilm": 69774,
+              "idFilm": 31698,
               "ordre": 1,
-              "titre": "Enfer du devoir",
+              "titre": "Exorciste",
               "art": "L'",
-              "titreVo": "Rules of Engagement",
+              "titreVo": "Exorcist",
+              "artVo": "The",
               "realisateurs": "William Friedkin",
               "pays": "États-Unis",
-              "annee": 1999,
-              "duree": 127,
+              "annee": 1973,
+              "duree": 122,
               "version": "VOSTF",
               "format": "35 mm",
+              "adaptation": "D'après le roman _L'Exorciste_ de William Peter Blatty.",
               "generique": [
-                "Tommy Lee Jones",
-                "Samuel L. Jackson",
-                "Guy Pearce",
-                "Ben Kingsley"
-              ]
+                "Linda Blair",
+                "Ellen Burstyn",
+                "Max von Sydow"
+              ],
+              "miniTexte": "Un prêtre à la foi chancelante doit exorciser une adolescente possédée par Satan (Linda Blair, stupéfiante). Friedkin déploie toute sa maestria dans une mise en scène au cordeau, portée par le thème obsédant de Mike Oldfield. Derrière les scènes choc qui ont traumatisé des générations entières, l'affrontement osé entre Église et sexualité, doublé d'une parabole sur le mal, la folie et la culpabilité."
             }
           ],
           "seances": [
             {
-              "idSeance": 117218,
-              "dateHeure": "2024-05-04T14:30:00",
+              "idSeance": 118577,
+              "dateHeure": "2024-05-05T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -491,7 +493,7 @@
           "seances": [
             {
               "idSeance": 118566,
-              "dateHeure": "2024-04-28T19:15:00",
+              "dateHeure": "2024-04-28T20:00:00",
               "idSalle": "HL"
             }
           ]
@@ -568,7 +570,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30007,
+          "content": [
+            {
+              "idConf": 30007,
+              "titre": "Film + Dialogue Friedkin",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118587,
+              "dateHeure": "2024-05-05T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Film + Dialogue Friedkin",
+        "dateHeure": "2024-05-05T14:30:00"
+      }
+    ]
+  }
 }

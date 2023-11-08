@@ -42,6 +42,15 @@
   * Two O'clock Courage  
   * Winchester 73
 
+## Cinéma bis (6)
+
+  * Black Cobra 3  
+  * Dernière chance (La)  
+  * Incroyable Homme Puma (L')  
+  * Plaisirs dangereux (Les)  
+  * Superman le diabolique  
+  * Une poignée de salopards
+
 ## James Cameron (11)
 
   * Abyss  
@@ -56,7 +65,7 @@
   * Titanic  
   * True Lies
 
-## Kenji Misumi (52)
+## Kenji Misumi (51)
 
   * Baby Cart : Dans la terre de l'ombre  
   * Baby Cart : L'Enfant du massacre  
@@ -108,7 +117,6 @@
   * Saga de Magoichi (La)  
   * Sur la route à jamais  
   * Temple du démon (Le)  
-  * Tuer  
   * Vision de la vierge (La)
 
 ## La comédie romantique moderne (20)
@@ -134,7 +142,7 @@
   * Un jour sans fin  
   * Vous avez un mess@ge
 
-## Les aventures du travesti au cinéma (22)
+## Les aventures du travesti au cinéma (19)
 
   * Allez coucher ailleurs  
   * Amours d'Astrée et de Céladon (Les)  
@@ -145,11 +153,8 @@
   * Des garçons de province  
   * Fanfare d'amour  
   * Glen or Glenda  
-  * Jardins en automne  
   * Locataire (Le)  
   * Madame Doubtfire  
-  * Nuits d'été (Les)  
-  * Paradis perdus (Les)  
   * Poupées du diable (Les)  
   * Priscilla, folle du désert  
   * Pulsions  
@@ -171,11 +176,10 @@
   * Mon petit poussin chéri  
   * Nuit suivante (La)
 
-## Marguerite Duras (17)
+## Marguerite Duras (16)
 
   * Agatha et les lectures illimitées  
   * Baxter, Vera Baxter  
-  * Camion (Le)  
   * Césarée  
   * Des journées entières dans les arbres  
   * Détruire dit-elle  
@@ -191,14 +195,13 @@
   * Son nom de Venise dans Calcutta désert  
   * Une aussi longue absence
 
-## Michelangelo Antonioni (18)
+## Michelangelo Antonioni (17)
 
   * 12 registi per 12 città  
   * Avventura (L')  
   * Blow up  
   * Chronique d'un amour  
   * Chung Kuo, La Chine  
-  * Cri (Le)  
   * Désert rouge (Le)  
   * Eclipse (L')  
   * Eros  
@@ -246,7 +249,7 @@
   * Cruising – La chasse  
   * Deal of the Century  
   * Douze hommes en colère  
-  * Enfer du devoir (L')  
+  * Exorciste (L')  
   * French Connection  
   * Garçons de la bande (Les)  
   * Good Times  

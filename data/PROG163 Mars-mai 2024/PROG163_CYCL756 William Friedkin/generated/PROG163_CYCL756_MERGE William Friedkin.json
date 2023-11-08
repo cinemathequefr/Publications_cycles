@@ -50,7 +50,7 @@
         {
           "idSeance": 117236,
           "ordre": 1,
-          "dateHeure": "2024-05-05T16:30:00",
+          "dateHeure": "2024-05-05T18:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -196,37 +196,42 @@
           "textes": []
         },
         {
-          "idSeance": 117218,
+          "idSeance": 118577,
           "ordre": 1,
-          "dateHeure": "2024-05-04T14:30:00",
+          "dateHeure": "2024-05-05T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 165,
+          "dureeSeance": 150,
           "idCategorie": 3252,
-          "idEvenement": 29908,
+          "idEvenement": 29899,
           "typeEvenement": 13,
-          "idFilm": 69774,
+          "idFilm": 31698,
           "art": "L'",
-          "titre": "Enfer du devoir",
-          "titreVo": "Rules of Engagement",
+          "titre": "Exorciste",
+          "artVo": "The",
+          "titreVo": "Exorcist",
           "realisateurs": "William Friedkin",
-          "annee": 1999,
+          "annee": 1973,
           "pays": "États-Unis",
-          "duree": 127,
+          "duree": 122,
           "version": "VOSTF",
           "format": "35 mm",
           "generique": [
-            "Tommy Lee Jones",
-            "Samuel L. Jackson",
-            "Guy Pearce",
-            "Ben Kingsley"
+            "Linda Blair",
+            "Ellen Burstyn",
+            "Max von Sydow"
           ],
+          "adaptation": "D'après le roman _L'Exorciste_ de William Peter Blatty.",
           "textes": [
             {
+              "typeTexte": 1000,
+              "texte": "Un prêtre à la foi chancelante doit exorciser une adolescente possédée par Satan (Linda Blair, stupéfiante). Friedkin déploie toute sa maestria dans une mise en scène au cordeau, portée par le thème obsédant de Mike Oldfield. Derrière les scènes choc qui ont traumatisé des générations entières, l'affrontement osé entre Église et sexualité, doublé d'une parabole sur le mal, la folie et la culpabilité."
+            },
+            {
               "typeTexte": 9,
-              "texte": "Un officier américain est accusé d'un massacre de civils au Yémen. Son ancien frère d'armes va tenter de le disculper."
+              "texte": "Une adolescente présente tous les signes d'une possession diabolique. Un prêtre est appelé à son chevet pour combattre le démon qui s'est emparé d'elle."
             }
           ]
         },
@@ -464,7 +469,7 @@
         {
           "idSeance": 118566,
           "ordre": 1,
-          "dateHeure": "2024-04-28T19:15:00",
+          "dateHeure": "2024-04-28T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -572,6 +577,30 @@
           "version": "VO",
           "format": "35 mm",
           "adaptation": "D'après le roman _Big Stick-Up at Brink's_ de Noel Behn.",
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 118587,
+          "dateHeure": "2024-05-05T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 180,
+          "idCategorie": 3270,
+          "idEvenement": 30007,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + Dialogue Friedkin",
+          "duree": 60,
           "textes": []
         }
       ],

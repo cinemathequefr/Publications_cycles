@@ -1103,6 +1103,23 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
+          "idConf": 29996,
+          "content": [
+            {
+              "idConf": 29996,
+              "titre": "Film + dialogue Serge chauvin",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118583,
+              "dateHeure": "2024-03-21T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idConf": 29997,
           "content": [
             {
@@ -1141,6 +1158,10 @@
   ],
   "syntheseAction": {
     "Dialogues": [
+      {
+        "mention": "Film + dialogue Serge chauvin",
+        "dateHeure": "2024-03-21T19:00:00"
+      },
       {
         "mention": "L'homme de la plaine + dialogue avec Bernard Benoliel",
         "dateHeure": "2024-03-24T16:15:00"
