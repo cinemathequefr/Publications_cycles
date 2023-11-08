@@ -10,7 +10,7 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idEvenement": 29414,
+          "idFilm": 147588,
           "content": [
             {
               "idFilm": 147588,
@@ -23,44 +23,12 @@
               "duree": 24,
               "version": "",
               "format": "35 mm"
-            },
-            {
-              "idFilm": 147587,
-              "ordre": 2,
-              "titre": "Vas-y Lapébie",
-              "realisateurs": "Nicolas Philibert",
-              "pays": "France",
-              "annee": 1988,
-              "duree": 28,
-              "version": "",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 118799,
-              "ordre": 3,
-              "titre": "Nous, sans-papiers de France",
-              "realisateurs": "Nicolas Philibert",
-              "pays": "France",
-              "annee": 1997,
-              "duree": 3,
-              "version": "",
-              "format": "35 mm"
             }
           ],
           "seances": [
             {
               "idSeance": 116226,
               "dateHeure": "2024-03-29T18:30:00",
-              "idSalle": "JE"
-            },
-            {
-              "idSeance": 118467,
-              "dateHeure": "2024-03-29T20:30:00",
-              "idSalle": "JE"
-            },
-            {
-              "idSeance": 116284,
-              "dateHeure": "2024-03-31T15:00:00",
               "idSalle": "JE"
             }
           ]
@@ -113,23 +81,11 @@
           ]
         },
         {
-          "idEvenement": 29402,
+          "idFilm": 110803,
           "content": [
             {
-              "idFilm": 147592,
-              "ordre": 1,
-              "titre": "Nuit tombe sur la ménagerie",
-              "art": "La",
-              "realisateurs": "Nicolas Philibert",
-              "pays": "France",
-              "annee": 2010,
-              "duree": 11,
-              "version": "",
-              "format": ""
-            },
-            {
               "idFilm": 110803,
-              "ordre": 2,
+              "ordre": 1,
               "titre": "Nénette",
               "realisateurs": "Nicolas Philibert",
               "pays": "France",
@@ -138,18 +94,6 @@
               "version": "",
               "format": "35 mm",
               "ageMinimal": 6
-            },
-            {
-              "idFilm": 147591,
-              "ordre": 3,
-              "titre": "Projection",
-              "art": "La",
-              "realisateurs": "Nicolas Philibert",
-              "pays": "France",
-              "annee": 2010,
-              "duree": 8,
-              "version": "",
-              "format": ""
             }
           ],
           "seances": [
@@ -157,10 +101,28 @@
               "idSeance": 116096,
               "dateHeure": "2024-03-24T19:30:00",
               "idSalle": "GF"
-            },
+            }
+          ]
+        },
+        {
+          "idFilm": 118799,
+          "content": [
             {
-              "idSeance": 118472,
-              "dateHeure": "2024-03-31T19:00:00",
+              "idFilm": 118799,
+              "ordre": 1,
+              "titre": "Nous, sans-papiers de France",
+              "realisateurs": "Nicolas Philibert",
+              "pays": "France",
+              "annee": 1997,
+              "duree": 3,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 116284,
+              "dateHeure": "2024-03-31T15:00:00",
               "idSalle": "JE"
             }
           ]
@@ -215,6 +177,50 @@
               "idSeance": 118464,
               "dateHeure": "2024-03-21T20:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 147589,
+          "content": [
+            {
+              "idFilm": 147589,
+              "ordre": 1,
+              "titre": "Portraits de famille",
+              "realisateurs": "Nicolas Philibert",
+              "pays": "France",
+              "annee": 1994
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 116270,
+              "dateHeure": "2024-03-30T14:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 147591,
+          "content": [
+            {
+              "idFilm": 147591,
+              "ordre": 1,
+              "titre": "Projection",
+              "art": "La",
+              "realisateurs": "Nicolas Philibert",
+              "pays": "France",
+              "annee": 2010,
+              "duree": 8,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118472,
+              "dateHeure": "2024-03-31T19:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -289,7 +295,7 @@
           ]
         },
         {
-          "idEvenement": 29413,
+          "idFilm": 58225,
           "content": [
             {
               "idFilm": 58225,
@@ -302,28 +308,35 @@
               "version": "",
               "format": "35 mm",
               "ageMinimal": 6
-            },
-            {
-              "idFilm": 147589,
-              "ordre": 2,
-              "titre": "Portraits de famille",
-              "realisateurs": "Nicolas Philibert",
-              "pays": "France",
-              "annee": 1994,
-              "duree": 3,
-              "version": "",
-              "format": ""
             }
           ],
           "seances": [
             {
-              "idSeance": 116270,
-              "dateHeure": "2024-03-30T14:30:00",
-              "idSalle": "JE"
-            },
-            {
               "idSeance": 118468,
               "dateHeure": "2024-03-30T17:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 147587,
+          "content": [
+            {
+              "idFilm": 147587,
+              "ordre": 1,
+              "titre": "Vas-y Lapébie",
+              "realisateurs": "Nicolas Philibert",
+              "pays": "France",
+              "annee": 1988,
+              "duree": 28,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118467,
+              "dateHeure": "2024-03-29T20:30:00",
               "idSalle": "JE"
             }
           ]
