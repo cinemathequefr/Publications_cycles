@@ -65,7 +65,7 @@
   * Titanic  
   * True Lies
 
-## Kenji Misumi (51)
+## Kenji Misumi (48)
 
   * Baby Cart : Dans la terre de l'ombre  
   * Baby Cart : L'Enfant du massacre  
@@ -78,7 +78,6 @@
   * Chroniques du Shinsengumi (Les)  
   * Combat de Kyoshiro Nemuri (Le)  
   * Combinards des pompes funèbres (Les)  
-  * Courtisane et l'assassin (La)  
   * Démon du chateau de Sendai (Le)  
   * Derniers Samouraïs (Les)  
   * Deux gardes du corps (Les)  
@@ -88,7 +87,6 @@
   * Famille matrilinéaire (La)  
   * Fantôme de Yotsuya (Le)  
   * flic hors-la-loi (Un)  
-  * Gompachi au chapeau  
   * Hanzo the Razor – Sword of Justice  
   * Homme au pousse-pousse (L')  
   * Inspecteur du Shogun (L')  
@@ -105,7 +103,6 @@
   * Momotaro le Samouraï  
   * Nemuri Kyoshiro: lesabreur et les pirates  
   * Nouvelles aventures de la joueuse (Les)  
-  * Okuma Shigenobu le grand  
   * Palais de la princesse Sen (Le)  
   * Passage du grand bouddha (Le)  
   * Passage du grand Boudha II (Le)  
@@ -195,13 +192,16 @@
   * Son nom de Venise dans Calcutta désert  
   * Une aussi longue absence
 
-## Michelangelo Antonioni (17)
+## Michelangelo Antonioni (21)
 
   * 12 registi per 12 città  
+  * Amour à la ville (L')  
   * Avventura (L')  
   * Blow up  
   * Chronique d'un amour  
   * Chung Kuo, La Chine  
+  * Cri (Le)  
+  * Dame sans camélias (La)  
   * Désert rouge (Le)  
   * Eclipse (L')  
   * Eros  
@@ -212,15 +212,18 @@
   * Par-delà les nuages  
   * Profession : Reporter  
   * Sous le signe de Rome  
+  * Trois visages (Les)  
   * Vaincus (Les)  
   * Zabriskie Point
 
-## Nicolas Philibert (22)
+## Nicolas Philibert (24)
 
   * Christophe  
   * Come-back de Baquet (Le)  
+  * De chaque instant  
   * Être et avoir  
   * Face nord du camembert (La)  
+  * Maison de la Radio (La)  
   * Mesure de l'exploit (La)  
   * Moindre des choses (La)  
   * Nénette  
