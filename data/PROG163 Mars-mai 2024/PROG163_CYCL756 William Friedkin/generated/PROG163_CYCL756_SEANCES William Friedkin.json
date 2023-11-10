@@ -175,6 +175,29 @@
   {
     "idCategorie": 3252,
     "typeEvenement": 13,
+    "idEvenement": 29908,
+    "idSeance": 118661,
+    "dateHeure": "2024-04-21T19:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 69774,
+        "ordre": 1,
+        "idSeance": 118661,
+        "idCopie": 4876,
+        "duree": 127,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3252,
+    "typeEvenement": 13,
     "idEvenement": 29909,
     "idSeance": 118579,
     "dateHeure": "2024-04-22T20:15:00",
@@ -257,39 +280,21 @@
   {
     "idCategorie": 3252,
     "typeEvenement": 13,
-    "idEvenement": 29984,
-    "idSeance": 118573,
-    "dateHeure": "2024-04-26T18:00:00",
+    "idEvenement": 29898,
+    "idSeance": 118639,
+    "dateHeure": "2024-04-26T16:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 129900,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 3252,
-    "typeEvenement": 13,
-    "idEvenement": 29897,
-    "idSeance": 116989,
-    "dateHeure": "2024-04-26T20:15:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 32900,
+        "idFilm": 31701,
         "ordre": 1,
-        "idSeance": 116989,
-        "idCopie": 27185,
-        "duree": 119,
+        "idSeance": 118639,
+        "idCopie": 27186,
+        "duree": 102,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -402,6 +407,70 @@
       {
         "idFilm": 129920,
         "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3252,
+    "typeEvenement": 13,
+    "idEvenement": 29897,
+    "idSeance": 118657,
+    "dateHeure": "2024-04-29T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 32900,
+        "ordre": 1,
+        "idSeance": 118657,
+        "idCopie": 27185,
+        "duree": 119,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3252,
+    "typeEvenement": 13,
+    "idEvenement": 29984,
+    "idSeance": 118658,
+    "dateHeure": "2024-04-29T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 129900,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3252,
+    "typeEvenement": 13,
+    "idEvenement": 29900,
+    "idSeance": 118640,
+    "dateHeure": "2024-05-03T15:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 31721,
+        "ordre": 1,
+        "idSeance": 118640,
+        "idCopie": 27196,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },

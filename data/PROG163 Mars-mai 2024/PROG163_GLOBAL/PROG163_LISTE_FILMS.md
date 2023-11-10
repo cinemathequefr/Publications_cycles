@@ -42,13 +42,15 @@
   * Two O'clock Courage  
   * Winchester 73
 
-## Cinéma bis (6)
+## Cinéma bis (8)
 
   * Black Cobra 3  
+  * Children Shouldn't Play With Dead Things  
   * Dernière chance (La)  
-  * Incroyable Homme Puma (L')  
+  * Horreur dans la ville  
+  * Plage sanglante (La)  
   * Plaisirs dangereux (Les)  
-  * Superman le diabolique  
+  * Ruby  
   * Une poignée de salopards
 
 ## James Cameron (11)
@@ -65,7 +67,7 @@
   * Titanic  
   * True Lies
 
-## Kenji Misumi (48)
+## Kenji Misumi (51)
 
   * Baby Cart : Dans la terre de l'ombre  
   * Baby Cart : L'Enfant du massacre  
@@ -74,10 +76,10 @@
   * Bouddha  
   * Brassard noir dans la neige  
   * Carnets de route de Mito Komon (Les)  
-  * Carnets secrets de Senzaburu (Les)  
   * Chroniques du Shinsengumi (Les)  
   * Combat de Kyoshiro Nemuri (Le)  
   * Combinards des pompes funèbres (Les)  
+  * Courtisane et l'assassin (La)  
   * Démon du chateau de Sendai (Le)  
   * Derniers Samouraïs (Les)  
   * Deux gardes du corps (Les)  
@@ -87,6 +89,7 @@
   * Famille matrilinéaire (La)  
   * Fantôme de Yotsuya (Le)  
   * flic hors-la-loi (Un)  
+  * Gompachi au chapeau  
   * Hanzo the Razor – Sword of Justice  
   * Homme au pousse-pousse (L')  
   * Inspecteur du Shogun (L')  
@@ -103,6 +106,7 @@
   * Momotaro le Samouraï  
   * Nemuri Kyoshiro: lesabreur et les pirates  
   * Nouvelles aventures de la joueuse (Les)  
+  * Okuma Shigenobu le grand  
   * Palais de la princesse Sen (Le)  
   * Passage du grand bouddha (Le)  
   * Passage du grand Boudha II (Le)  
@@ -114,6 +118,7 @@
   * Saga de Magoichi (La)  
   * Sur la route à jamais  
   * Temple du démon (Le)  
+  * Tuer  
   * Vision de la vierge (La)
 
 ## La comédie romantique moderne (20)
@@ -139,7 +144,7 @@
   * Un jour sans fin  
   * Vous avez un mess@ge
 
-## Les aventures du travesti au cinéma (19)
+## Les aventures du travesti au cinéma (22)
 
   * Allez coucher ailleurs  
   * Amours d'Astrée et de Céladon (Les)  
@@ -150,8 +155,11 @@
   * Des garçons de province  
   * Fanfare d'amour  
   * Glen or Glenda  
+  * Jardins en automne  
   * Locataire (Le)  
   * Madame Doubtfire  
+  * Nuits d'été (Les)  
+  * Paradis perdus (Les)  
   * Poupées du diable (Les)  
   * Priscilla, folle du désert  
   * Pulsions  
@@ -173,13 +181,18 @@
   * Mon petit poussin chéri  
   * Nuit suivante (La)
 
-## Marguerite Duras (16)
+## Marguerite Duras (21)
 
   * Agatha et les lectures illimitées  
+  * Aurelia Steiner : Melbourne  
+  * Aurélia Steiner : Vancouver  
   * Baxter, Vera Baxter  
+  * Camion (Le)  
   * Césarée  
   * Des journées entières dans les arbres  
   * Détruire dit-elle  
+  * Dialogue de Rome  
+  * Enfants (Les)  
   * Femme du Gange (La)  
   * Hiroshima, mon amour  
   * Homme Atlantique (L')  
@@ -192,7 +205,7 @@
   * Son nom de Venise dans Calcutta désert  
   * Une aussi longue absence
 
-## Michelangelo Antonioni (21)
+## Michelangelo Antonioni (22)
 
   * 12 registi per 12 città  
   * Amour à la ville (L')  
@@ -206,13 +219,14 @@
   * Eclipse (L')  
   * Eros  
   * Femmes entre elles  
+  * Gens du Po (Les)  
   * Identification d'une femme  
   * Mystère d'Oberwald (Le)  
   * Nuit (La)  
   * Par-delà les nuages  
   * Profession : Reporter  
   * Sous le signe de Rome  
-  * Trois visages (Les)  
+  * Trois Visages (Les)  
   * Vaincus (Les)  
   * Zabriskie Point
 
@@ -229,12 +243,12 @@
   * Nénette  
   * Nous, sans-papiers de France  
   * Nuit tombe sur la ménagerie (La)  
-  * Patrons-télévision  
   * Pays des sourds (Le)  
   * Portraits de famille  
   * Projection (La)  
   * Qui sait ?  
   * Retour en Normandie  
+  * Sur l'Adamant  
   * Sur l'Adamant partie 2 : Averroes et Rosa Parks  
   * Trilogie pour un homme seul  
   * Un animal, des animaux  
@@ -243,7 +257,7 @@
   * Voix de son maître (La)  
   * Y'a pas de malaise
 
-## William Friedkin (22)
+## William Friedkin (23)
 
   * Birthday Party (The)  
   * Blue Chips  
@@ -252,6 +266,7 @@
   * Cruising – La chasse  
   * Deal of the Century  
   * Douze hommes en colère  
+  * Enfer du devoir (L')  
   * Exorciste (L')  
   * French Connection  
   * Garçons de la bande (Les)  

@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-03-27T20:00:00",
-    "2024-04-10T20:30:00"
+    "2024-04-07T19:45:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -59,10 +59,9 @@
           ],
           "seances": [
             {
-              "idSeance": 118650,
-              "dateHeure": "2024-03-30T18:30:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par Noël Herpe"
+              "idSeance": 118515,
+              "dateHeure": "2024-04-01T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -144,7 +143,7 @@
               "annee": 1978,
               "duree": 105,
               "version": "",
-              "format": "35 mm",
+              "format": "DCP",
               "adaptation": "D'après la pièce _La Cage aux folles_ de Jean Poiret."
             }
           ],
@@ -280,34 +279,6 @@
           ]
         },
         {
-          "idFilm": 99999,
-          "content": [
-            {
-              "idFilm": 99999,
-              "ordre": 1,
-              "titre": "Jardins en automne",
-              "realisateurs": "Otar Iosseliani",
-              "pays": "France",
-              "annee": 2005,
-              "duree": 117,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Séverin Blanchet",
-                "Michel Piccoli",
-                "Muriel Motte"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 116529,
-              "dateHeure": "2024-04-10T18:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 50447,
           "content": [
             {
@@ -331,8 +302,8 @@
           ],
           "seances": [
             {
-              "idSeance": 118651,
-              "dateHeure": "2024-04-01T20:30:00",
+              "idSeance": 116268,
+              "dateHeure": "2024-03-30T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -359,74 +330,8 @@
           "seances": [
             {
               "idSeance": 116295,
-              "dateHeure": "2024-04-01T18:00:00",
+              "dateHeure": "2024-04-01T18:30:00",
               "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 125817,
-          "content": [
-            {
-              "idFilm": 125817,
-              "ordre": 2,
-              "titre": "Nuits d'été",
-              "art": "Les",
-              "realisateurs": "Mario Fanfani",
-              "pays": "France",
-              "annee": 2013,
-              "duree": 100,
-              "version": "",
-              "format": "",
-              "precedeSuivi": [
-                [
-                  [
-                    "Paradis perdus",
-                    "Les"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 118629,
-              "dateHeure": "2024-04-10T20:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 104800,
-          "content": [
-            {
-              "idFilm": 104800,
-              "ordre": 1,
-              "titre": "Paradis perdus",
-              "art": "Les",
-              "realisateurs": "Hélier Cisterne",
-              "pays": "France",
-              "annee": 2007,
-              "duree": 30,
-              "version": "",
-              "format": "35 mm",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Nuits d'été",
-                    "Les"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 118629,
-              "dateHeure": "2024-04-10T20:30:00",
-              "idSalle": "JE"
             }
           ]
         },
@@ -661,13 +566,5 @@
       ]
     }
   ],
-  "syntheseAction": {
-    "Séance présentée": [
-      {
-        "titreFilms": "Les Amours d'Astrée et de Céladon",
-        "mention": "par Noël Herpe",
-        "dateHeure": "2024-03-30T18:30:00"
-      }
-    ]
-  }
+  "syntheseAction": {}
 }

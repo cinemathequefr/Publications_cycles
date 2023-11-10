@@ -94,25 +94,21 @@
   {
     "idCategorie": 3234,
     "typeEvenement": 13,
-    "idEvenement": 29755,
-    "idSeance": 116268,
-    "dateHeure": "2024-03-30T17:30:00",
+    "idEvenement": 29988,
+    "idSeance": 118650,
+    "dateHeure": "2024-03-30T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 50447,
-        "ordre": 1,
-        "idSeance": 116268,
-        "idCopie": 1153,
-        "duree": 125,
-        "version": "VO",
-        "format": "35 mm"
+        "idFilm": 102415,
+        "ordre": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Noël Herpe"
   },
   {
     "idCategorie": 3234,
@@ -188,7 +184,7 @@
     "typeEvenement": 13,
     "idEvenement": 29760,
     "idSeance": 116295,
-    "dateHeure": "2024-04-01T18:30:00",
+    "dateHeure": "2024-04-01T18:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -204,18 +200,23 @@
   {
     "idCategorie": 3234,
     "typeEvenement": 13,
-    "idEvenement": 29988,
-    "idSeance": 118515,
+    "idEvenement": 29755,
+    "idSeance": 118651,
     "dateHeure": "2024-04-01T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 102415,
-        "ordre": 1
+        "idFilm": 50447,
+        "ordre": 1,
+        "idSeance": 118651,
+        "idCopie": 1153,
+        "duree": 125,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },
@@ -258,10 +259,10 @@
         "idFilm": 50255,
         "ordre": 1,
         "idSeance": 116417,
-        "idCopie": 26977,
+        "idCopie": 27267,
         "duree": 105,
         "version": "",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ]
   },
@@ -404,6 +405,61 @@
         "duree": 84,
         "version": "",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3234,
+    "typeEvenement": 13,
+    "idEvenement": 29761,
+    "idSeance": 116529,
+    "dateHeure": "2024-04-10T18:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 99999,
+        "ordre": 1,
+        "idSeance": 116529,
+        "idCopie": 18320,
+        "duree": 117,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3234,
+    "typeEvenement": 13,
+    "idEvenement": 29995,
+    "idSeance": 118629,
+    "dateHeure": "2024-04-10T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 104800,
+        "ordre": 1,
+        "idSeance": 118629,
+        "idCopie": 27262,
+        "duree": 30,
+        "version": "",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 125817,
+        "ordre": 2,
+        "idSeance": 118629,
+        "idCopie": 27263,
+        "duree": 100,
+        "version": "",
+        "format": ""
       }
     ]
   }
