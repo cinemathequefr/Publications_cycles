@@ -243,12 +243,13 @@
   * Quiet Family (The)  
   * Trois Histoires de l'au-delà
 
-## Ma petite Cinémathèque (18)
+## Ma petite Cinémathèque (19)
 
   * Argent de poche (L')  
   * Arsenic et vieilles dentelles  
   * Aventures de Peter Pan (Les)  
   * Cadet d'eau douce  
+  * Dans un petit bateau de Robert Desnos  
   * Demoiselles de Rochefort (Les)  
   * Franc (Le)  
   * Grande migration (La)  
