@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Anthony Mann (39)
+## Anthony Mann (40)
 
   * Affameurs (Les)  
   * Appât (L')  
@@ -18,6 +18,7 @@
   * Héros de Télémark (Les)  
   * Homme de l'Ouest (L')  
   * Homme de la plaine (L')  
+  * Il marchait la nuit  
   * Incidents de frontière  
   * Je suis un aventurier  
   * Le Cid  
@@ -67,7 +68,7 @@
   * Titanic  
   * True Lies
 
-## Kenji Misumi (51)
+## Kenji Misumi (52)
 
   * Baby Cart : Dans la terre de l'ombre  
   * Baby Cart : L'Enfant du massacre  
@@ -76,6 +77,7 @@
   * Bouddha  
   * Brassard noir dans la neige  
   * Carnets de route de Mito Komon (Les)  
+  * Carnets secrets de Senzaburu (Les)  
   * Chroniques du Shinsengumi (Les)  
   * Combat de Kyoshiro Nemuri (Le)  
   * Combinards des pompes funèbres (Les)  
