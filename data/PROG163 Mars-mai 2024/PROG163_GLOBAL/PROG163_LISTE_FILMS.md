@@ -183,7 +183,7 @@
   * Mon petit poussin chéri  
   * Nuit suivante (La)
 
-## Marguerite Duras (21)
+## Marguerite Duras (22)
 
   * Agatha et les lectures illimitées  
   * Aurelia Steiner : Melbourne  
@@ -200,6 +200,7 @@
   * Homme Atlantique (L')  
   * India song  
   * Jaune le soleil  
+  * Mains négatives (Les)  
   * Moderato cantabile  
   * Musica (La)  
   * Nathalie Granger  
