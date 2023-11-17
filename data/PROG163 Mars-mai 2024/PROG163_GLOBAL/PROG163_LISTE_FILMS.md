@@ -171,6 +171,25 @@
   * Triple echo  
   * Victor Victoria
 
+## Ma petite Cinémathèque (16)
+
+  * Aristochats (Les)  
+  * Aventuriers de l'Arche perdue (Les)  
+  * Cerf-volant du bout du monde  
+  * Dictateur (Le)  
+  * Enfant sauvage (L')  
+  * Enfants loups, Ame et Yuki (Les)  
+  * Fantastic Mr. Fox  
+  * Grease  
+  * Guerre des boutons (La)  
+  * Là-haut  
+  * Mais qui a tué Harry ?  
+  * Mariage royal  
+  * Party (La)  
+  * Prophétie des grenouilles (La)  
+  * Qui veut la peau de Roger Rabbit  
+  * Soupe au canard
+
 ## Mae West (9)
 
   * Annie du Klondike  
