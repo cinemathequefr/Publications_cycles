@@ -1424,59 +1424,31 @@
           ]
         },
         {
-          "groupe": [
-            {
-              "idEvenement": 30001,
-              "content": [
-                {
-                  "idConf": 30001,
-                  "titre": "Qui êtes-vous... Kenji Misumi ?",
-                  "sousTitre": "Conférence ",
-                  "typeConference": "Conférence",
-                  "miniTexte": "Conférence de Clément Rauger Alors que la Daiei présente aux yeux du monde, dans la première moitié des années 1950, Rashomon d'Akira Kurosawa, Les Contes de la lune vague après la pluie de Kenji Mizoguchi ou La Porte de l'enfer de Teinosuke Kinugasa, Kenji Misumi entre dans cette société de production par la petite porte pour y réaliser, à un rythme industriel, une série de films de complément ayant peu de chances de rejoindre la sélection des festivals internationaux. Cinéaste de studio discret, ses films témoigneront pourtant d'une inventivité plastique qui transformera, au fil des ans, l'artisan besogneux en l'un des grands auteurs de son siècle. Accompagnant les instants décisifs de l'histoire du cinéma japonais, du zénith au nadir de son rayonnement culturel et économique, de quoi la quête d'absolu d'artistique de Misumi est-elle le nom ? Mercredi 24 avril 19h GF Film choisi par le conférencier, à 21h15 : Sur la route à jamais de Kenji Misumi"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 118686,
-                  "idSeanceAssoc": 118444,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-04-24T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
-            },
+          "idFilm": 154616,
+          "content": [
             {
               "idFilm": 154616,
-              "content": [
-                {
-                  "idFilm": 154616,
-                  "ordre": 1,
-                  "titre": "Sur la route à jamais",
-                  "titreVo": "Mushuku mono",
-                  "realisateurs": "Kenji Misumi",
-                  "pays": "Japon",
-                  "annee": 1964,
-                  "duree": 0,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "Raizô Ichikawa",
-                    "Jun Fujimaki",
-                    "Eiko Taki"
-                  ]
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 118444,
-                  "idSeanceAssoc": 118444,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-04-24T21:15:00",
-                  "idSalle": "GF",
-                  "mentionAssoc": "Film choisi par le conférencier"
-                }
+              "ordre": 1,
+              "titre": "Sur la route à jamais",
+              "titreVo": "Mushuku mono",
+              "realisateurs": "Kenji Misumi",
+              "pays": "Japon",
+              "annee": 1964,
+              "duree": 0,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Raizô Ichikawa",
+                "Jun Fujimaki",
+                "Eiko Taki"
               ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118444,
+              "dateHeure": "2024-04-24T21:15:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1591,13 +1563,6 @@
     }
   ],
   "syntheseAction": {
-    "Conférence": [
-      {
-        "titre": "Qui êtes-vous... Kenji Misumi ?",
-        "mention": "Conférence ",
-        "dateHeure": "2024-04-24T19:00:00"
-      }
-    ],
     "Dialogue": [
       {
         "mention": "Babycart L'enfant du Massacre + Dialogue avec Jean Fraçois Rauger et Fabrice Arduini",
