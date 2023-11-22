@@ -259,14 +259,14 @@
   * De chaque instant  
   * Être et avoir  
   * Face nord du camembert (La)  
+  * Invisible (L')  
   * Maison de la Radio (La)  
-  * Mesure de l'exploit (La)  
   * Moindre des choses (La)  
   * Nénette  
+  * Nicolas Philibert, hasard et nécessité  
   * Nous, sans-papiers de France  
   * Nuit tombe sur la ménagerie (La)  
   * Pays des sourds (Le)  
-  * Portraits de famille  
   * Projection (La)  
   * Qui sait ?  
   * Retour en Normandie  

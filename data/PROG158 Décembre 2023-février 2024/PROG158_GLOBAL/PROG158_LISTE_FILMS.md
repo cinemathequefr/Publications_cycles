@@ -170,10 +170,10 @@
   * Créatures de Kolos (Les)  
   * Frankenstein 2000  
   * Horrible invasion (L')  
+  * Jackie et Bruce défient le maître du kung-fu  
   * On m'appelait Bruce Lee  
   * Spectre  
-  * Survivant (Le)  
-  * Yang Sze, la terreur de Bruce Lee
+  * Survivant (Le)
 
 ## Claude Autant-Lara (37)
 
