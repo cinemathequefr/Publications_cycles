@@ -49,9 +49,6 @@
               "realisateurs": "Eric Rohmer",
               "pays": "France-Italie-Espagne",
               "annee": 2006,
-              "duree": 110,
-              "version": "",
-              "format": "35 mm",
               "adaptation": "D'après le texte _L'Astrée_ de Honoré d'Urfé.",
               "generique": [
                 "Andy Gillet",
@@ -313,39 +310,6 @@
           ]
         },
         {
-          "idFilm": 154698,
-          "content": [
-            {
-              "idFilm": 154698,
-              "ordre": 1,
-              "titre": "Jours d'automne",
-              "art": "Les",
-              "realisateurs": "Mario Fanfani",
-              "pays": "France",
-              "annee": 2013,
-              "duree": 20,
-              "version": "",
-              "format": "",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Nuits d'été",
-                    "Les"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 122892,
-              "dateHeure": "2024-03-29T19:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 50447,
           "content": [
             {
@@ -386,9 +350,6 @@
               "realisateurs": "Chris Columbus",
               "pays": "États-Unis",
               "annee": 1993,
-              "duree": 125,
-              "version": "VOSTF",
-              "format": "DCP",
               "adaptation": "D'après le roman _Alias Madame Doubtfire_ d'Anne Fine.",
               "generique": [
                 "Robin Williams",
@@ -422,7 +383,7 @@
               "precedeSuivi": [
                 [
                   [
-                    "Jours d'automne",
+                    "Paradis perdus",
                     "Les"
                   ]
                 ],
@@ -432,9 +393,10 @@
           ],
           "seances": [
             {
-              "idSeance": 122892,
+              "idSeance": 118671,
               "dateHeure": "2024-03-29T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Hélier Cisterne et Mario Fanfani"
             }
           ]
         },
@@ -456,7 +418,7 @@
                 [],
                 [
                   [
-                    "Poupées du diable",
+                    "Nuits d'été",
                     "Les"
                   ]
                 ]
@@ -465,9 +427,10 @@
           ],
           "seances": [
             {
-              "idSeance": 118475,
-              "dateHeure": "2024-03-28T20:45:00",
-              "idSalle": "GF"
+              "idSeance": 118671,
+              "dateHeure": "2024-03-29T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Hélier Cisterne et Mario Fanfani"
             }
           ]
         },
@@ -476,7 +439,7 @@
           "content": [
             {
               "idFilm": 30922,
-              "ordre": 2,
+              "ordre": 1,
               "titre": "Poupées du diable",
               "art": "Les",
               "titreVo": "Devil Doll",
@@ -493,15 +456,6 @@
                 "Maureen O'Sullivan",
                 "Frank Lawton",
                 "Lucy Beaumont"
-              ],
-              "precedeSuivi": [
-                [
-                  [
-                    "Paradis perdus",
-                    "Les"
-                  ]
-                ],
-                []
               ]
             }
           ],
@@ -578,7 +532,7 @@
               "realisateurs": "Jim Sharman",
               "pays": "Grande-Bretagne-États-Unis",
               "annee": 1975,
-              "duree": 98,
+              "duree": 100,
               "version": "VOSTF",
               "format": "DCP",
               "adaptation": "D'après la comédie musicale _The Rocky Horror Show_ de Richard O'Brien.",
@@ -610,9 +564,6 @@
               "realisateurs": "Jack Arnold",
               "pays": "Grande-Bretagne",
               "annee": 1959,
-              "duree": 83,
-              "version": "",
-              "format": "",
               "ageMinimal": 9,
               "adaptation": "D'après le roman _The Mouse That Roared_ de Leonard Wibberley.",
               "generique": [
@@ -721,6 +672,11 @@
         "titreFilms": "Tootsie",
         "mention": "par Noël Herpe",
         "dateHeure": "2024-03-27T20:00:00"
+      },
+      {
+        "titreFilms": "Les Paradis perdus / Les Nuits d'été",
+        "mention": "par Hélier Cisterne et Mario Fanfani",
+        "dateHeure": "2024-03-29T19:00:00"
       },
       {
         "titreFilms": "Les Amours d'Astrée et de Céladon",

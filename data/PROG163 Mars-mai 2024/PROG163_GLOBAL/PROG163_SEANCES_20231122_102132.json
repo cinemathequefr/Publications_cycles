@@ -373,7 +373,8 @@
         "realisateurs": "Anthony Mann",
         "annee": 1944,
         "duree": 56,
-        "version": "VO"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f79830"
@@ -715,8 +716,8 @@
     "hashEvenement": "f33619"
   },
   {
-    "idSeance": 122895,
-    "idEvenement": 30140,
+    "idSeance": 118618,
+    "idEvenement": 29415,
     "dateHeure": "2024-03-27T18:30:00",
     "salle": "JE",
     "cycle": [
@@ -727,14 +728,40 @@
     ],
     "items": [
       {
-        "idFilm": 154695,
-        "titre": "Nicolas Philibert, hasard et nécessité",
-        "realisateurs": "Jean-Louis Comolli",
-        "annee": 2019,
-        "duree": 95
+        "idFilm": 67887,
+        "titre": "Face nord du camembert",
+        "art": "La",
+        "realisateurs": "Nicolas Philibert",
+        "annee": 1984,
+        "duree": 7,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 66852,
+        "titre": "Christophe",
+        "realisateurs": "Nicolas Philibert",
+        "annee": 1984,
+        "duree": 29,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 91230,
+        "titre": "Y'a pas de malaise",
+        "realisateurs": "Nicolas Philibert",
+        "annee": 1984,
+        "duree": 13,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 147586,
+        "titre": "Trilogie pour un homme seul",
+        "realisateurs": "Nicolas Philibert",
+        "annee": 1987,
+        "duree": 56,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154695"
+    "hashEvenement": "f67887f66852f91230f147586"
   },
   {
     "idSeance": 118510,
@@ -785,29 +812,6 @@
     "hashEvenement": "f77461"
   },
   {
-    "idSeance": 122894,
-    "idEvenement": 30139,
-    "dateHeure": "2024-03-28T17:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Nicolas Philibert",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154694,
-        "titre": "Invisible",
-        "art": "L'",
-        "realisateurs": "Nicolas Philibert",
-        "annee": 2002,
-        "duree": 45
-      }
-    ],
-    "hashEvenement": "f154694"
-  },
-  {
     "idSeance": 118508,
     "idEvenement": 29749,
     "dateHeure": "2024-03-28T18:30:00",
@@ -832,9 +836,9 @@
     "hashEvenement": "f46104"
   },
   {
-    "idSeance": 122898,
-    "idEvenement": 29408,
-    "dateHeure": "2024-03-28T19:00:00",
+    "idSeance": 118619,
+    "idEvenement": 29414,
+    "dateHeure": "2024-03-28T18:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -844,15 +848,32 @@
     ],
     "items": [
       {
-        "idFilm": 64775,
-        "titre": "Qui sait ?",
+        "idFilm": 118799,
+        "titre": "Nous, sans-papiers de France",
         "realisateurs": "Nicolas Philibert",
-        "annee": 1998,
-        "duree": 106,
+        "annee": 1997,
+        "duree": 3,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 147588,
+        "titre": "Come-back de Baquet",
+        "art": "Le",
+        "realisateurs": "Nicolas Philibert",
+        "annee": 1988,
+        "duree": 24,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 147587,
+        "titre": "Vas-y Lapébie",
+        "realisateurs": "Nicolas Philibert",
+        "annee": 1988,
+        "duree": 28,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f64775"
+    "hashEvenement": "f118799f147588f147587"
   },
   {
     "idSeance": 118696,
@@ -880,7 +901,7 @@
   },
   {
     "idSeance": 118475,
-    "idEvenement": 30147,
+    "idEvenement": 29748,
     "dateHeure": "2024-03-28T20:45:00",
     "salle": "GF",
     "cycle": [
@@ -890,15 +911,6 @@
       ]
     ],
     "items": [
-      {
-        "idFilm": 104800,
-        "titre": "Paradis perdus",
-        "art": "Les",
-        "realisateurs": "Hélier Cisterne",
-        "annee": 2007,
-        "duree": 30,
-        "format": "35 mm"
-      },
       {
         "idFilm": 30922,
         "titre": "Poupées du diable",
@@ -910,7 +922,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f104800f30922"
+    "hashEvenement": "f30922"
   },
   {
     "idSeance": 118584,
@@ -1008,8 +1020,8 @@
     "hashEvenement": "f74213"
   },
   {
-    "idSeance": 122892,
-    "idEvenement": 30151,
+    "idSeance": 118671,
+    "idEvenement": 29995,
     "dateHeure": "2024-03-29T19:00:00",
     "salle": "JE",
     "cycle": [
@@ -1018,14 +1030,16 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Hélier Cisterne et Mario Fanfani",
     "items": [
       {
-        "idFilm": 154698,
-        "titre": "Jours d'automne",
+        "idFilm": 104800,
+        "titre": "Paradis perdus",
         "art": "Les",
-        "realisateurs": "Mario Fanfani",
-        "annee": 2013,
-        "duree": 20
+        "realisateurs": "Hélier Cisterne",
+        "annee": 2007,
+        "duree": 30,
+        "format": "35 mm"
       },
       {
         "idFilm": 125817,
@@ -1037,7 +1051,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f154698f125817"
+    "hashEvenement": "f104800f125817"
   },
   {
     "idSeance": 118697,
@@ -1058,7 +1072,7 @@
         "annee": 1949,
         "duree": 96,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f33705"
@@ -1106,7 +1120,7 @@
         "art": "The",
         "realisateurs": "Jim Sharman",
         "annee": 1975,
-        "duree": 98,
+        "duree": 100,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -1173,6 +1187,14 @@
     ],
     "items": [
       {
+        "idFilm": 147592,
+        "titre": "Nuit tombe sur la ménagerie",
+        "art": "La",
+        "realisateurs": "Nicolas Philibert",
+        "annee": 2010,
+        "duree": 11
+      },
+      {
         "idFilm": 110803,
         "titre": "Nénette",
         "realisateurs": "Nicolas Philibert",
@@ -1187,17 +1209,9 @@
         "realisateurs": "Nicolas Philibert",
         "annee": 2010,
         "duree": 8
-      },
-      {
-        "idFilm": 147592,
-        "titre": "Nuit tombe sur la ménagerie",
-        "art": "La",
-        "realisateurs": "Nicolas Philibert",
-        "annee": 2010,
-        "duree": 11
       }
     ],
-    "hashEvenement": "f110803f147591f147592"
+    "hashEvenement": "f147592f110803f147591"
   },
   {
     "idSeance": 118650,
@@ -1217,9 +1231,7 @@
         "titre": "Amours d'Astrée et de Céladon",
         "art": "Les",
         "realisateurs": "Eric Rohmer",
-        "annee": 2006,
-        "duree": 110,
-        "format": "35 mm"
+        "annee": 2006
       }
     ],
     "hashEvenement": "f102415"
@@ -1320,8 +1332,8 @@
     "hashEvenement": "f37998"
   },
   {
-    "idSeance": 122896,
-    "idEvenement": 29415,
+    "idSeance": 118726,
+    "idEvenement": 30139,
     "dateHeure": "2024-03-31T15:00:00",
     "salle": "JE",
     "cycle": [
@@ -1332,40 +1344,14 @@
     ],
     "items": [
       {
-        "idFilm": 67887,
-        "titre": "Face nord du camembert",
-        "art": "La",
+        "idFilm": 154694,
+        "titre": "Invisible",
+        "art": "L'",
         "realisateurs": "Nicolas Philibert",
-        "annee": 1984,
-        "duree": 7,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 66852,
-        "titre": "Christophe",
-        "realisateurs": "Nicolas Philibert",
-        "annee": 1984,
-        "duree": 29,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 91230,
-        "titre": "Y'a pas de malaise",
-        "realisateurs": "Nicolas Philibert",
-        "annee": 1984,
-        "duree": 13,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 147586,
-        "titre": "Trilogie pour un homme seul",
-        "realisateurs": "Nicolas Philibert",
-        "annee": 1987,
-        "duree": 56,
-        "format": "35 mm"
+        "annee": 2002
       }
     ],
-    "hashEvenement": "f67887f66852f91230f147586"
+    "hashEvenement": "f154694"
   },
   {
     "idSeance": 118511,
@@ -1413,8 +1399,8 @@
     "hashEvenement": "c29998"
   },
   {
-    "idSeance": 122897,
-    "idEvenement": 29414,
+    "idSeance": 118723,
+    "idEvenement": 30140,
     "dateHeure": "2024-03-31T17:30:00",
     "salle": "JE",
     "cycle": [
@@ -1425,32 +1411,37 @@
     ],
     "items": [
       {
-        "idFilm": 118799,
-        "titre": "Nous, sans-papiers de France",
-        "realisateurs": "Nicolas Philibert",
-        "annee": 1997,
-        "duree": 3,
-        "format": "35 mm"
-      },
+        "idFilm": 154695,
+        "titre": "Nicolas Philibert, hasard et nécessité",
+        "realisateurs": "Jean-Louis Comolli",
+        "annee": 2019,
+        "duree": 95
+      }
+    ],
+    "hashEvenement": "f154695"
+  },
+  {
+    "idSeance": 118721,
+    "idEvenement": 29408,
+    "dateHeure": "2024-03-31T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Nicolas Philibert",
+        "Les films"
+      ]
+    ],
+    "items": [
       {
-        "idFilm": 147588,
-        "titre": "Come-back de Baquet",
-        "art": "Le",
+        "idFilm": 64775,
+        "titre": "Qui sait ?",
         "realisateurs": "Nicolas Philibert",
-        "annee": 1988,
-        "duree": 24,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 147587,
-        "titre": "Vas-y Lapébie",
-        "realisateurs": "Nicolas Philibert",
-        "annee": 1988,
-        "duree": 28,
+        "annee": 1998,
+        "duree": 106,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f118799f147588f147587"
+    "hashEvenement": "f64775"
   },
   {
     "idSeance": 118698,
@@ -1517,10 +1508,7 @@
         "idFilm": 31854,
         "titre": "Madame Doubtfire",
         "realisateurs": "Chris Columbus",
-        "annee": 1993,
-        "duree": 125,
-        "version": "VOSTF",
-        "format": "DCP"
+        "annee": 1993
       }
     ],
     "hashEvenement": "f31854"
@@ -1899,8 +1887,8 @@
         "realisateurs": "Anthony Mann",
         "annee": 1944,
         "duree": 78,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f33806"
@@ -1922,8 +1910,7 @@
         "titre": "Souris qui rugissait",
         "art": "La",
         "realisateurs": "Jack Arnold",
-        "annee": 1959,
-        "duree": 83
+        "annee": 1959
       }
     ],
     "hashEvenement": "f44978"
@@ -2116,8 +2103,7 @@
         "realisateurs": "Anthony Mann",
         "annee": 1945,
         "duree": 72,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "version": "VO"
       }
     ],
     "hashEvenement": "f79838"
@@ -2306,7 +2292,7 @@
         "realisateurs": "Alfred L. Werker",
         "annee": 1948,
         "duree": 79,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "16 mm"
       }
     ],
@@ -2464,7 +2450,7 @@
         "annee": 1963,
         "duree": 116,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41103"
@@ -2488,7 +2474,7 @@
         "annee": 1953,
         "duree": 116,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f34248"
@@ -2777,8 +2763,8 @@
         "realisateurs": "Anthony Mann",
         "annee": 1955,
         "duree": 121,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "version": "VO",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f33776"
@@ -3106,7 +3092,6 @@
         "art": "La",
         "realisateurs": "Kenji Misumi",
         "annee": 1964,
-        "duree": 87,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -3845,7 +3830,6 @@
         "titre": "Sur la route à jamais",
         "realisateurs": "Kenji Misumi",
         "annee": 1964,
-        "duree": 89,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -4537,7 +4521,6 @@
         "art": "Le",
         "realisateurs": "Kenji Misumi",
         "annee": 1960,
-        "duree": 106,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -5105,7 +5088,6 @@
         "art": "Le",
         "realisateurs": "Kenji Misumi",
         "annee": 1960,
-        "duree": 97,
         "version": "STF"
       }
     ],
@@ -5152,7 +5134,6 @@
         "titre": "Bouddha",
         "realisateurs": "Kenji Misumi",
         "annee": 1961,
-        "duree": 154,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -5672,7 +5653,6 @@
         "art": "La",
         "realisateurs": "Kenji Misumi",
         "annee": 1963,
-        "duree": 111,
         "version": "STF"
       }
     ],
@@ -6480,9 +6460,7 @@
         "art": "Le",
         "realisateurs": "Kenji Misumi",
         "annee": 1964,
-        "duree": 83,
-        "version": "VOSTF",
-        "format": "16 mm"
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f154678"
@@ -6724,7 +6702,6 @@
         "art": "La",
         "realisateurs": "Kenji Misumi",
         "annee": 1962,
-        "duree": 99,
         "version": "STF"
       }
     ],

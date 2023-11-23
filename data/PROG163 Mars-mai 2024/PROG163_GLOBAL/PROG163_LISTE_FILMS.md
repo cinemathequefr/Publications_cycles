@@ -146,7 +146,7 @@
   * Un jour sans fin  
   * Vous avez un mess@ge
 
-## Les aventures du travesti au cinéma (22)
+## Les aventures du travesti au cinéma (23)
 
   * Allez coucher ailleurs  
   * Amours d'Astrée et de Céladon (Les)  
@@ -158,6 +158,7 @@
   * Fanfare d'amour  
   * Glen or Glenda  
   * Jardins en automne  
+  * Jours d'automne (Les)  
   * Locataire (Le)  
   * Madame Doubtfire  
   * Nuits d'été (Les)  

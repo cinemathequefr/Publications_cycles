@@ -49,7 +49,7 @@
   {
     "idCategorie": 3234,
     "typeEvenement": 13,
-    "idEvenement": 29748,
+    "idEvenement": 30147,
     "idSeance": 118475,
     "dateHeure": "2024-03-28T20:45:00",
     "idSalle": [
@@ -59,8 +59,17 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 30922,
+        "idFilm": 104800,
         "ordre": 1,
+        "idSeance": 118475,
+        "idCopie": 27262,
+        "duree": 30,
+        "version": "",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 30922,
+        "ordre": 2,
         "idSeance": 118475,
         "idCopie": 13184,
         "duree": 79,
@@ -72,35 +81,34 @@
   {
     "idCategorie": 3234,
     "typeEvenement": 13,
-    "idEvenement": 29995,
-    "idSeance": 118671,
+    "idEvenement": 30151,
+    "idSeance": 122892,
     "dateHeure": "2024-03-29T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 165,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 104800,
+        "idFilm": 154698,
         "ordre": 1,
-        "idSeance": 118671,
-        "idCopie": 27262,
-        "duree": 30,
+        "idSeance": 122892,
+        "idCopie": 27409,
+        "duree": 20,
         "version": "",
-        "format": "35 mm"
+        "format": ""
       },
       {
         "idFilm": 125817,
         "ordre": 2,
-        "idSeance": 118671,
+        "idSeance": 122892,
         "idCopie": 27263,
         "duree": 100,
         "version": "",
         "format": "DCP"
       }
-    ],
-    "mention": "Séance présentée par Hélier Cisterne et Mario Fanfani"
+    ]
   },
   {
     "idCategorie": 3234,
@@ -118,8 +126,8 @@
         "idFilm": 56789,
         "ordre": 1,
         "idSeance": 118507,
-        "idCopie": 13051,
-        "duree": 100,
+        "idCopie": 13179,
+        "duree": 98,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -139,7 +147,12 @@
     "items": [
       {
         "idFilm": 102415,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 118650,
+        "idCopie": 16961,
+        "duree": 110,
+        "version": "",
+        "format": "35 mm"
       }
     ],
     "mention": "Séance présentée par Noël Herpe"
@@ -227,7 +240,12 @@
     "items": [
       {
         "idFilm": 31854,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 116295,
+        "idCopie": 27405,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -337,7 +355,12 @@
     "items": [
       {
         "idFilm": 44978,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 118481,
+        "idCopie": 27402,
+        "duree": 83,
+        "version": "",
+        "format": ""
       }
     ]
   },
