@@ -17,12 +17,12 @@
         "ordre": 1,
         "idSeance": 115911,
         "idCopie": 27212,
-        "duree": 0,
+        "duree": 143,
         "version": "",
         "format": ""
       }
     ],
-    "mention": "Avant-première"
+    "mention": "Avant-première. Séance présentée par Nicolas Philibert"
   },
   {
     "idCategorie": 3187,
@@ -40,12 +40,13 @@
         "idFilm": 57225,
         "ordre": 1,
         "idSeance": 118611,
-        "idCopie": 27208,
+        "idCopie": 27209,
         "duree": 100,
         "version": "",
-        "format": "16 mm"
+        "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Frédéric Lordon"
   },
   {
     "idCategorie": 3187,
@@ -91,7 +92,8 @@
         "version": "",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Dominique Païni"
   },
   {
     "idCategorie": 3187,
@@ -127,15 +129,34 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 60405,
         "ordre": 1,
         "idSeance": 116072,
         "idCopie": 27241,
-        "duree": 103,
+        "duree": 105,
         "version": "",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3269,
+    "typeEvenement": 14,
+    "idEvenement": 30006,
+    "idSeance": 116072,
+    "dateHeure": "2024-03-23T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -156,11 +177,12 @@
         "ordre": 1,
         "idSeance": 118717,
         "idCopie": 25613,
-        "duree": 110,
+        "duree": 109,
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Linda De Zitter et Nicolas Philibert"
   },
   {
     "idCategorie": 3187,
@@ -178,12 +200,13 @@
         "idFilm": 102039,
         "ordre": 1,
         "idSeance": 118616,
-        "idCopie": 27246,
-        "duree": 112,
+        "idCopie": 2329,
+        "duree": 113,
         "version": "",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Nicolas Philibert"
   },
   {
     "idCategorie": 3187,
@@ -202,11 +225,12 @@
         "ordre": 1,
         "idSeance": 118718,
         "idCopie": 27236,
-        "duree": 100,
+        "duree": 99,
         "version": "VOSTF",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Florent Desjardins et Nicolas Philibert"
   },
   {
     "idCategorie": 3187,
@@ -229,7 +253,8 @@
         "version": "",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Régine Vial"
   },
   {
     "idCategorie": 3187,
@@ -248,7 +273,7 @@
         "ordre": 1,
         "idSeance": 122895,
         "idCopie": 27385,
-        "duree": 95,
+        "duree": 90,
         "version": "",
         "format": ""
       }
@@ -275,14 +300,15 @@
         "version": "",
         "format": ""
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Linda De Zitter"
   },
   {
     "idCategorie": 3187,
     "typeEvenement": 13,
     "idEvenement": 29408,
     "idSeance": 122898,
-    "dateHeure": "2024-03-28T19:00:00",
+    "dateHeure": "2024-03-28T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -298,7 +324,8 @@
         "version": "",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Nicolas Philibert"
   },
   {
     "idCategorie": 3187,
@@ -316,12 +343,13 @@
         "idFilm": 58225,
         "ordre": 1,
         "idSeance": 118620,
-        "idCopie": 27239,
-        "duree": 59,
+        "idCopie": 27238,
+        "duree": 60,
         "version": "",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Nicolas Philibert"
   },
   {
     "idCategorie": 3187,
@@ -340,7 +368,7 @@
         "ordre": 1,
         "idSeance": 118722,
         "idCopie": 27247,
-        "duree": 69,
+        "duree": 70,
         "version": "",
         "format": "35 mm"
       },
@@ -362,7 +390,32 @@
         "version": "",
         "format": ""
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Nicolas Philibert"
+  },
+  {
+    "idCategorie": 3187,
+    "typeEvenement": 13,
+    "idEvenement": 30142,
+    "idSeance": 118725,
+    "dateHeure": "2024-03-30T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {
+        "idFilm": 54347,
+        "ordre": 1,
+        "idSeance": 118725,
+        "idCopie": 27389,
+        "duree": 60,
+        "version": "",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance présentée par Nicolas Philibert"
   },
   {
     "idCategorie": 3187,
@@ -381,7 +434,7 @@
         "ordre": 1,
         "idSeance": 122896,
         "idCopie": 27217,
-        "duree": 7,
+        "duree": 8,
         "version": "",
         "format": "35 mm"
       },
@@ -408,7 +461,7 @@
         "ordre": 4,
         "idSeance": 122896,
         "idCopie": 27219,
-        "duree": 56,
+        "duree": 53,
         "version": "",
         "format": "35 mm"
       }

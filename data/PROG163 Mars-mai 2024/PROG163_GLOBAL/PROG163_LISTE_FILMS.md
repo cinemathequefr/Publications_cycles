@@ -253,13 +253,14 @@
   * Vaincus (Les)  
   * Zabriskie Point
 
-## Nicolas Philibert (24)
+## Nicolas Philibert (25)
 
   * Christophe  
   * Come-back de Baquet (Le)  
   * De chaque instant  
   * Être et avoir  
   * Face nord du camembert (La)  
+  * Heure exquise (L')  
   * Invisible (L')  
   * Maison de la Radio (La)  
   * Moindre des choses (La)  
