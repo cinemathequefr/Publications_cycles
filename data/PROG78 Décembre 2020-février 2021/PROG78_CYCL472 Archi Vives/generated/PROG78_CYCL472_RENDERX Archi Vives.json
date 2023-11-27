@@ -1,0 +1,112 @@
+{
+  "datesCycle": [
+    "2020-12-17T18:00:00",
+    "2021-02-04T19:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Films et conférences",
+      "items": [
+        {
+          "content": [
+            {
+              "titre": "Regarder et filmer les œuvres, retrouver le regard et le corps de l'artiste",
+              "duree": 90
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 37791,
+              "dateHeure": "2020-12-17T18:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 143782,
+          "content": [
+            {
+              "idFilm": 143782,
+              "ordre": 1,
+              "titre": "Histoire d'un regard",
+              "realisateurs": "Mariana Otero",
+              "pays": "France",
+              "annee": 2019,
+              "duree": 93,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 37624,
+              "dateHeure": "2020-12-17T20:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "titre": "Unité et accidents dans l'inspiration classique : l'expérience ultime de « Duel au soleil »",
+              "duree": 90
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 37792,
+              "dateHeure": "2021-02-04T17:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 37409,
+          "content": [
+            {
+              "idFilm": 37409,
+              "ordre": 1,
+              "titre": "Duel au soleil",
+              "titreVo": "Duel in the Sun",
+              "realisateurs": "King Vidor",
+              "pays": "États-Unis",
+              "annee": 1945,
+              "duree": 135,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Duel au soleil_ de Niven Busch.",
+              "generique": [
+                "Jennifer Jones",
+                "Gregory Peck",
+                "Joseph Cotten"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 37625,
+              "dateHeure": "2021-02-04T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Conférences": [
+      {
+        "titre": "Regarder et filmer les œuvres, retrouver le regard et le corps de l'artiste",
+        "mention": "par Mariana Otero",
+        "dateHeure": "2020-12-17T18:00:00"
+      },
+      {
+        "titre": "Unité et accidents dans l'inspiration classique : l'expérience ultime de « Duel au soleil »",
+        "mention": "par Pierre Berthomieu",
+        "dateHeure": "2021-02-04T17:30:00"
+      }
+    ]
+  }
+}
