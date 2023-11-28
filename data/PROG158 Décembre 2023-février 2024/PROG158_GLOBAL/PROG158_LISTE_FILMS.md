@@ -50,10 +50,11 @@
   * Target  
   * Visions of Eight
 
-## Aujourd'hui le cinéma (35)
+## Aujourd'hui le cinéma (37)
 
   * À la recherche d'Aline  
   * À mon seul désir  
+  * An Asian Ghost Story  
   * Auge del humano 3 (El)  
   * Automne malade  
   * Baiser (Le)  
@@ -69,6 +70,7 @@
   * Dans la tête un orage  
   * Défaite du rouge-gorge (La)  
   * Des majorettes dans l'espace  
+  * Dia que te conheci (O)  
   * Enfance nue (L')  
   * Enfants perdus (Les)  
   * Enterrement de vie de jeune fille  
