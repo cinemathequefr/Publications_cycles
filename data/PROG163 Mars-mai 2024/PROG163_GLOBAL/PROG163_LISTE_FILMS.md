@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Anthony Mann (40)
+## Anthony Mann (39)
 
   * Affameurs (Les)  
   * Appât (L')  
@@ -27,7 +27,6 @@
   * Marché de brutes  
   * Moonlight in Havana  
   * My Best Gal  
-  * Nobody's Darling  
   * Petit arpent du bon Dieu (Le)  
   * Port des passions (Le)  
   * Porte du diable (La)  
