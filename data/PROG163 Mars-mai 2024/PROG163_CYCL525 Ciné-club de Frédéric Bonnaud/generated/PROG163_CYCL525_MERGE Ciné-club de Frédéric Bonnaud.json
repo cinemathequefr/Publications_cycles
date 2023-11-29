@@ -1,6 +1,48 @@
 {
   "data": [
     {
+      "titreSousCycle": "Les films",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 122931,
+          "ordre": 1,
+          "dateHeure": "2024-04-19T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3272,
+          "idEvenement": 30182,
+          "typeEvenement": 13,
+          "idFilm": 51367,
+          "titre": "Mon oncle",
+          "realisateurs": "Jacques Tati",
+          "annee": 1957,
+          "pays": "France-Italie",
+          "ageMinimal": 6,
+          "generique": [
+            "Jacques Tati",
+            "Jean-Pierre Zola",
+            "Adrienne Servantie",
+            "Alain Bécourt"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "D'un côté la maison ultra-moderne de la famille Arpel, de l'autre la drôle de maison tarabiscotée de monsieur Hulot... Entre les deux, le petit Gérard navigue et observe le drôle de manège des adultes."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Gérard fuit la maison ultramoderne de ses parents pour passer du bon temps dans les rues avec son drôle d'oncle. Entre tradition et modernité, sa petite ville est revisitée par la fantaisie de monsieur Hulot."
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
       "titreSousCycle": "Rencontres et conférences",
       "tri": 4,
       "items": [
@@ -22,11 +64,11 @@
           "textes": []
         },
         {
-          "idSeance": 118585,
-          "dateHeure": "2024-04-11T21:00:00",
+          "idSeance": 122932,
+          "dateHeure": "2024-04-19T21:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 60,
           "idCategorie": 3114,
