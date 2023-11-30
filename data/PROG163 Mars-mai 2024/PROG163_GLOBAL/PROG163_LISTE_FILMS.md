@@ -194,17 +194,18 @@
   * Qui veut la peau de Roger Rabbit  
   * Soupe au canard
 
-## Mae West (9)
+## Mae West (10)
 
   * Annie du Klondike  
   * Ce n'est pas un péché  
   * Fifi peau de pêche  
   * Go West Young Man  
+  * Heat's On (The)  
   * Je ne suis pas un ange  
   * Je veux être une lady  
   * Lady Lou  
   * Mon petit poussin chéri  
-  * Nuit suivante (La)
+  * Nuit après nuit (La)
 
 ## Marguerite Duras (22)
 
@@ -215,7 +216,7 @@
   * Camion (Le)  
   * Césarée  
   * Des journées entières dans les arbres  
-  * Détruire dit-elle  
+  * Détruire, dit-elle  
   * Dialogue de Rome  
   * Enfants (Les)  
   * Femme du Gange (La)  
@@ -227,7 +228,7 @@
   * Moderato cantabile  
   * Musica (La)  
   * Nathalie Granger  
-  * Navire night (Le)  
+  * Navire Night (Le)  
   * Son nom de Venise dans Calcutta désert  
   * Une aussi longue absence
 
@@ -245,7 +246,7 @@
   * Eclipse (L')  
   * Eros  
   * Femmes entre elles  
-  * Gens du Po (Les)  
+  * Gens du Pô (Les)  
   * Identification d'une femme  
   * Mystère d'Oberwald (Le)  
   * Nuit (La)  
