@@ -132,7 +132,7 @@
   * Coup de foudre à Notting Hill  
   * Dirty Dancing  
   * Femmes de ses rêves (Les)  
-  * Happiness therapy  
+  * Happiness Therapy  
   * Holiday (The)  
   * Journal de Bridget Jones (Le)  
   * Love Actually  
@@ -140,14 +140,14 @@
   * Nuits blanches à Seattle  
   * Pour le pire et pour le meilleur  
   * Pretty Woman  
-  * Punch-drunk Love – Ivre d'amour  
+  * Punch-Drunk Love – Ivre d'amour  
   * Quand Harry rencontre Sally  
-  * Quand les femmes s'en mêlent  
   * Quatre mariages et un enterrement  
   * Sans Sarah, rien ne va !  
   * Sexe entre amis  
   * Un jour sans fin  
-  * Vous avez un mess@ge
+  * Vous avez un mess@ge  
+  * Working Girl
 
 ## Les aventures du travesti au cinéma (23)
 
@@ -205,9 +205,9 @@
   * Je veux être une lady  
   * Lady Lou  
   * Mon petit poussin chéri  
-  * Nuit après nuit (La)
+  * Nuit après nuit
 
-## Marguerite Duras (22)
+## Marguerite Duras (23)
 
   * Agatha et les lectures illimitées  
   * Aurelia Steiner : Melbourne  
@@ -218,6 +218,7 @@
   * Des journées entières dans les arbres  
   * Détruire, dit-elle  
   * Dialogue de Rome  
+  * Duras filme  
   * Enfants (Les)  
   * Femme du Gange (La)  
   * Hiroshima, mon amour  
@@ -237,13 +238,13 @@
   * 12 registi per 12 città  
   * Amour à la ville (L')  
   * Avventura (L')  
-  * Blow up  
+  * Blow-Up  
   * Chronique d'un amour  
-  * Chung Kuo, La Chine  
+  * Chung Kuo, la Chine  
   * Cri (Le)  
   * Dame sans camélias (La)  
   * Désert rouge (Le)  
-  * Eclipse (L')  
+  * Éclipse (L')  
   * Eros  
   * Femmes entre elles  
   * Gens du Pô (Les)  
@@ -251,7 +252,7 @@
   * Mystère d'Oberwald (Le)  
   * Nuit (La)  
   * Par-delà les nuages  
-  * Profession : Reporter  
+  * Profession : reporter  
   * Sous le signe de Rome  
   * Trois Visages (Les)  
   * Vaincus (Les)  
