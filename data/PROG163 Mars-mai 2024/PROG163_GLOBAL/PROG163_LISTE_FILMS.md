@@ -175,11 +175,10 @@
   * Triple echo  
   * Victor Victoria
 
-## Ma petite Cinémathèque (16)
+## Ma petite Cinémathèque (15)
 
   * Aristochats (Les)  
   * Aventuriers de l'Arche perdue (Les)  
-  * Cerf-volant du bout du monde  
   * Dictateur (Le)  
   * Enfant sauvage (L')  
   * Enfants loups, Ame et Yuki (Les)  

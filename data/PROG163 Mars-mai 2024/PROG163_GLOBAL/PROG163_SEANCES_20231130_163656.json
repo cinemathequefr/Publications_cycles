@@ -1598,6 +1598,30 @@
     "hashEvenement": "f50447"
   },
   {
+    "idSeance": 116331,
+    "idEvenement": 30123,
+    "dateHeure": "2024-04-03T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50600,
+        "titre": "Cerf-volant du bout du monde",
+        "realisateurs": "Roger Pigaut, Kia-Yi Wang",
+        "annee": 1957,
+        "duree": 82,
+        "version": "VF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f50600"
+  },
+  {
     "idSeance": 118699,
     "idEvenement": 29835,
     "dateHeure": "2024-04-04T18:00:00",
@@ -2245,6 +2269,31 @@
     "hashEvenement": "f85665"
   },
   {
+    "idSeance": 116522,
+    "idEvenement": 30124,
+    "dateHeure": "2024-04-10T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32369,
+        "titre": "Party",
+        "art": "La",
+        "realisateurs": "Blake Edwards",
+        "annee": 1967,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f32369"
+  },
+  {
     "idSeance": 116529,
     "idEvenement": 29761,
     "dateHeure": "2024-04-10T18:00:00",
@@ -2450,7 +2499,7 @@
   {
     "idSeance": 118591,
     "idEvenement": 29592,
-    "dateHeure": "2024-04-11T21:30:00",
+    "dateHeure": "2024-04-11T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2764,31 +2813,6 @@
       }
     ],
     "hashEvenement": "f32488"
-  },
-  {
-    "idSeance": 116522,
-    "idEvenement": 30124,
-    "dateHeure": "2024-04-14T15:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Ma petite Cinémathèque",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 32369,
-        "titre": "Party",
-        "art": "La",
-        "realisateurs": "Blake Edwards",
-        "annee": 1967,
-        "duree": 99,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f32369"
   },
   {
     "idSeance": 116663,
@@ -4637,7 +4661,10 @@
         "idFilm": 45988,
         "titre": "Je veux être une lady",
         "realisateurs": "Alexander Hall",
-        "annee": 1935
+        "annee": 1935,
+        "duree": 74,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f45988"
@@ -5154,7 +5181,9 @@
         "titre": "Annie du Klondike",
         "realisateurs": "Raoul Walsh",
         "annee": 1936,
-        "duree": 77
+        "duree": 76,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f36827"
@@ -5224,8 +5253,8 @@
         "titre": "India song",
         "realisateurs": "Marguerite Duras",
         "annee": 1974,
-        "duree": 120,
-        "format": "DCP"
+        "duree": 118,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f48298"
@@ -5319,8 +5348,7 @@
         "art": "La",
         "realisateurs": "Marguerite Duras, Paul Seban",
         "annee": 1966,
-        "duree": 80,
-        "format": "DCP"
+        "duree": 80
       }
     ],
     "hashEvenement": "f48300"
@@ -5769,8 +5797,8 @@
         "art": "Les",
         "realisateurs": "Marguerite Duras",
         "annee": 1984,
-        "duree": 90,
-        "format": "35 mm"
+        "duree": 94,
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f48297"
@@ -5865,8 +5893,7 @@
         "art": "La",
         "realisateurs": "Marguerite Duras",
         "annee": 1972,
-        "duree": 87,
-        "format": "Numérique"
+        "duree": 87
       }
     ],
     "hashEvenement": "f57707"
@@ -6580,7 +6607,7 @@
         "realisateurs": "Marguerite Duras",
         "annee": 1978,
         "duree": 35,
-        "format": "35 mm"
+        "format": "Numérique"
       },
       {
         "idFilm": 37430,
@@ -6588,7 +6615,7 @@
         "realisateurs": "Marguerite Duras",
         "annee": 1978,
         "duree": 48,
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f78933f37430"
@@ -6684,7 +6711,7 @@
         "realisateurs": "Marguerite Duras",
         "annee": 1969,
         "duree": 90,
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f48296"
@@ -6729,8 +6756,8 @@
         "titre": "Nathalie Granger",
         "realisateurs": "Marguerite Duras",
         "annee": 1972,
-        "duree": 83,
-        "format": "DCP"
+        "duree": 82,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f48301"
@@ -6917,8 +6944,7 @@
         "titre": "Jaune le soleil",
         "realisateurs": "Marguerite Duras",
         "annee": 1971,
-        "duree": 80,
-        "format": "16 mm"
+        "duree": 80
       }
     ],
     "hashEvenement": "f48299"
@@ -6941,7 +6967,7 @@
         "realisateurs": "Marguerite Duras",
         "annee": 1978,
         "duree": 11,
-        "format": "35 mm"
+        "format": "Numérique"
       },
       {
         "idFilm": 54599,
@@ -6949,8 +6975,7 @@
         "art": "L'",
         "realisateurs": "Marguerite Duras",
         "annee": 1981,
-        "duree": 42,
-        "format": "35 mm"
+        "duree": 42
       },
       {
         "idFilm": 78934,
@@ -6959,7 +6984,7 @@
         "realisateurs": "Marguerite Duras",
         "annee": 1978,
         "duree": 18,
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f78935f54599f78934"
