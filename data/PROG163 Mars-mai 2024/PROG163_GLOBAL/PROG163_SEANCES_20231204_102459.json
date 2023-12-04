@@ -1710,28 +1710,6 @@
     "hashEvenement": "f79831"
   },
   {
-    "idSeance": 122975,
-    "idEvenement": 29999,
-    "dateHeure": "2024-04-04T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "James Cameron",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29999,
-        "titre": "Masterclass James Cameron",
-        "sousTitre": "Conférence ",
-        "typeConference": "Conférence",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29999"
-  },
-  {
     "idSeance": 116417,
     "idEvenement": 29756,
     "dateHeure": "2024-04-04T20:00:00",
@@ -1852,7 +1830,7 @@
         "annee": 1944,
         "duree": 66,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f79837"
@@ -3323,10 +3301,6 @@
       [
         "Ciné-club de Frédéric Bonnaud",
         "Les films"
-      ],
-      [
-        "Ciné-club de Frédéric Bonnaud",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3335,15 +3309,9 @@
         "titre": "Mon oncle",
         "realisateurs": "Jacques Tati",
         "annee": 1957
-      },
-      {
-        "idConf": 30026,
-        "titre": "Discussion avec Frédéric Bonnaud",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f51367c30026"
+    "hashEvenement": "f51367"
   },
   {
     "idSeance": 118565,
@@ -3368,6 +3336,27 @@
       }
     ],
     "hashEvenement": "f42110"
+  },
+  {
+    "idSeance": 122932,
+    "idEvenement": 30026,
+    "dateHeure": "2024-04-19T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30026,
+        "titre": "Discussion avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30026"
   },
   {
     "idSeance": 116837,
@@ -7130,8 +7119,7 @@
         "realisateurs": "Kenji Misumi",
         "annee": 1956,
         "duree": 65,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "version": "STF"
       }
     ],
     "hashEvenement": "f154601"
