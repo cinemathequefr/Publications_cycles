@@ -32,7 +32,10 @@
       "idCycleProg": 143,
       "titreCycle": "Fenêtre sur les collections",
       "isReg": true,
-      "sousCycles": [{ "titre": "", "cats": [], "tri": 4 }]
+      "sousCycles": [
+        { "titre": "Cinéma des Antilles", "cats": [3278], "tri": 4 },
+        { "titre": "Mark Rappaport", "cats": [3279], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": 152,
@@ -46,11 +49,11 @@
       "isReg": true,
       "sousCycles": [
         {
-          "titre": "",
-          "cats": [],
+          "titre": "Les films",
+          "cats": [3262],
           "tri": 4
         },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [2757], "tri": 4 }
       ]
     },
     {
@@ -78,6 +81,7 @@
       "sousCycles": [
         { "titre": "Les films", "cats": [3161], "tri": 1 },
         { "titre": "Courts métrages", "cats": [3163], "tri": 2 },
+        { "titre": "Entretiens", "cats": [3281], "tri": 2 },
         { "titre": "Rencontres et conférences", "cats": [3268], "tri": 4 }
       ],
       "excludeSeances": []

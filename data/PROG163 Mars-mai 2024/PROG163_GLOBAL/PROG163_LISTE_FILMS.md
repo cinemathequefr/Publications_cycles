@@ -57,6 +57,19 @@
   * Ruby  
   * Une poignée de salopards
 
+## Fenêtre sur les collections (10)
+
+  * Année dernière à Dachau (L')  
+  * Empty Screen or The Metaphysics of Movies (The)  
+  * Guadeloupe  
+  * Machette et le marteau (La)  
+  * Marriage of Greta Garbo and Sergei Eisenstein (The)  
+  * Max & James & Danielle...  
+  * Pathé-Revue 1927 n° ind. / Martinique  
+  * Scenic Route (The)  
+  * Stendhal Syndrome or My Dinner with Turhan Bey (The)  
+  * Toutes les Joséphine ne sont pas impératrices
+
 ## James Cameron (11)
 
   * Abyss  
@@ -206,7 +219,7 @@
   * Mon petit poussin chéri  
   * Nuit après nuit
 
-## Marguerite Duras (23)
+## Marguerite Duras (27)
 
   * Agatha et les lectures illimitées  
   * Aurelia Steiner : Melbourne  
@@ -214,6 +227,10 @@
   * Baxter, Vera Baxter  
   * Camion (Le)  
   * Césarée  
+  * Cimetière anglais (Le)  
+  * Classe de la violence (La)  
+  * Couleur des mots (La)  
+  * Dame des Yvelines (La)  
   * Des journées entières dans les arbres  
   * Détruire, dit-elle  
   * Dialogue de Rome  
