@@ -302,7 +302,7 @@
   * Voix de son maître (La)  
   * Y'a pas de malaise
 
-## William Friedkin (23)
+## William Friedkin (24)
 
   * Birthday Party (The)  
   * Blue Chips  
@@ -310,6 +310,7 @@
   * Convoi de la peur (Le)  
   * Cruising – La chasse  
   * Deal of the Century  
+  * Devil and Father Amorth (The)  
   * Douze hommes en colère  
   * Enfer du devoir (L')  
   * Exorciste (L')  
