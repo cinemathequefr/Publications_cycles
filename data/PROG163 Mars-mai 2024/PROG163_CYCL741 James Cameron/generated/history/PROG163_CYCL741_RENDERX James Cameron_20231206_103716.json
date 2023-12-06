@@ -10,54 +10,35 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "groupe": [
+          "idFilm": 30822,
+          "content": [
             {
               "idFilm": 30822,
-              "content": [
-                {
-                  "idFilm": 30822,
-                  "ordre": 1,
-                  "titre": "Abyss",
-                  "realisateurs": "James Cameron",
-                  "pays": "États-Unis",
-                  "annee": 1989,
-                  "duree": 140,
-                  "version": "VOSTF",
-                  "format": "70 mm",
-                  "generique": [
-                    "Ed Harris",
-                    "Mary Elizabeth Mastrantonio",
-                    "Michael Biehn"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Abyss",
+              "realisateurs": "James Cameron",
+              "pays": "États-Unis",
+              "annee": 1989,
+              "duree": 140,
+              "version": "VOSTF",
+              "format": "70 mm",
+              "generique": [
+                "Ed Harris",
+                "Mary Elizabeth Mastrantonio",
+                "Michael Biehn"
               ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118688,
+              "dateHeure": "2024-04-05T21:00:00",
+              "idSalle": "HL"
             },
             {
-              "idEvenement": 30215,
-              "content": [
-                {
-                  "idConf": 30215,
-                  "ordre": 2,
-                  "titre": "Film + dialogue avec Julien Dupuis et Stephane Moïssakis",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 118688,
-                  "dateHeure": "2024-04-05T21:00:00",
-                  "idSalle": "HL",
-                  "idSeanceAssoc": 122977,
-                  "mentionAssoc": "Film seul"
-                },
-                {
-                  "idSeance": 122977,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-04-13T14:30:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film + dialogue"
-                }
-              ]
+              "idSeance": 122977,
+              "dateHeure": "2024-04-13T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -376,6 +357,29 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30215,
+          "content": [
+            {
+              "idConf": 30215,
+              "titre": "Film + dialogue avec Julien Dupuis et Stephane Moïssakis",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 122995,
+              "dateHeure": "2024-04-13T17:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -388,9 +392,8 @@
     ],
     "Dialogue": [
       {
-        "titreFilms": "Abyss",
         "mention": "Film + dialogue avec Julien Dupuis et Stephane Moïssakis",
-        "dateHeure": "2024-04-13T14:30:00"
+        "dateHeure": "2024-04-13T17:30:00"
       }
     ]
   }

@@ -553,6 +553,46 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30212,
+          "content": [
+            {
+              "idConf": 30212,
+              "titre": "Film + dialogue avec Linda de Zitter",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 122992,
+              "dateHeure": "2024-03-28T18:15:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idConf": 30213,
+          "content": [
+            {
+              "idConf": 30213,
+              "titre": "Film + Dialogue avec Nicolas Philibert",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 122993,
+              "dateHeure": "2024-03-30T14:45:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -567,6 +607,16 @@
       {
         "titre": "Film + Leçon de cinéma Nicolas Philibert",
         "dateHeure": "2024-03-23T14:30:00"
+      }
+    ],
+    "Dialogues": [
+      {
+        "mention": "Film + dialogue avec Linda de Zitter",
+        "dateHeure": "2024-03-28T18:15:00"
+      },
+      {
+        "mention": "Film + Dialogue avec Nicolas Philibert",
+        "dateHeure": "2024-03-30T14:45:00"
       }
     ],
     "Discussions": [

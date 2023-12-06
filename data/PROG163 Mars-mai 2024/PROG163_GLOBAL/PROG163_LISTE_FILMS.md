@@ -250,7 +250,7 @@
   * Son nom de Venise dans Calcutta désert  
   * Une aussi longue absence
 
-## Michelangelo Antonioni (22)
+## Michelangelo Antonioni (21)
 
   * 12 registi per 12 città  
   * Amour à la ville (L')  
@@ -271,7 +271,6 @@
   * Par-delà les nuages  
   * Profession : reporter  
   * Sous le signe de Rome  
-  * Trois Visages (Les)  
   * Vaincus (Les)  
   * Zabriskie Point
 
