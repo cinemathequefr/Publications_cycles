@@ -351,7 +351,6 @@
           "seances": [
             {
               "idSeance": 118696,
-              "typeAssoc": 118,
               "dateHeure": "2024-03-28T19:00:00",
               "idSalle": "HL"
             }
@@ -578,95 +577,62 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 34525,
+          "content": [
             {
               "idFilm": 34525,
-              "content": [
-                {
-                  "idFilm": 34525,
-                  "ordre": 1,
-                  "titre": "Je suis un aventurier",
-                  "titreVo": "Far Country",
-                  "artVo": "The",
-                  "realisateurs": "Anthony Mann",
-                  "pays": "États-Unis",
-                  "annee": 1953,
-                  "duree": 97,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "James Stewart",
-                    "Ruth Roman",
-                    "Corinne Calvet",
-                    "Walter Brennan"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Je suis un aventurier",
+              "titreVo": "Far Country",
+              "artVo": "The",
+              "realisateurs": "Anthony Mann",
+              "pays": "États-Unis",
+              "annee": 1953,
+              "duree": 97,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "James Stewart",
+                "Ruth Roman",
+                "Corinne Calvet",
+                "Walter Brennan"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29997,
-              "content": [
-                {
-                  "idConf": 29997,
-                  "ordre": 2,
-                  "titre": "Je suis un aventurier + dialogue avec Bernard Benoliel",
-                  "typeConference": "Dialogue",
-                  "miniTexte": "De 1950 à 1955, Anthony Mann et James Stewart tournent huit films ensemble dont cinq westerns, parmi les plus beaux du genre, le cinéaste et l'acteur accomplissant un geste esthétique d'envergure. Il faudra revenir sur le trajet de Stewart et la réinvention de son jeu dans l'après-guerre. Quant à Mann, si les cinq films paraissent comme les doigts d'une main, cela vaut la peine de relever aussi ce qui les distingue. Entre le premier, Winchester 73, et le quatrième, Je suis un aventurier, tous deux scénarisés par Borden Chase pour le studio Universal, l'un en noir et blanc et l'autre en couleurs, il s'agira ainsi de mesurer le chemin parcouru ou le terrain perdu. Car si de l'un à l'autre, le personnage selon Mann traverse une même étendue américaine, il ne la traverse visiblement plus de la même façon. À titre d'indice, disons que de ces cinq westerns, Je suis un aventurier est celui qui se situe historiquement le plus tard : en 1896, la conquête de l'Ouest est terminée et le continent largement quadrillé. Peut-on encore être libre sans espace ? – Bernard Benoliel"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 118674,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-03-24T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "idSeance": 118674,
+              "dateHeure": "2024-03-24T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
         {
-          "groupe": [
+          "idFilm": 34907,
+          "content": [
             {
               "idFilm": 34907,
-              "content": [
-                {
-                  "idFilm": 34907,
-                  "ordre": 1,
-                  "titre": "Le Cid",
-                  "titreVo": "El Cid",
-                  "realisateurs": "Anthony Mann",
-                  "pays": "États-Unis-Italie",
-                  "annee": 1960,
-                  "duree": 180,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "Charlton Heston",
-                    "Sophia Loren",
-                    "Raf Vallone"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Le Cid",
+              "titreVo": "El Cid",
+              "realisateurs": "Anthony Mann",
+              "pays": "États-Unis-Italie",
+              "annee": 1960,
+              "duree": 180,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Charlton Heston",
+                "Sophia Loren",
+                "Raf Vallone"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29998,
-              "content": [
-                {
-                  "idConf": 29998,
-                  "ordre": 2,
-                  "titre": "Le Cid + dialogue avec Jean-François Rauger",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 116280,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-03-31T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "idSeance": 116280,
+              "dateHeure": "2024-03-31T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -731,49 +697,32 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 77536,
+          "content": [
             {
               "idFilm": 77536,
-              "content": [
-                {
-                  "idFilm": 77536,
-                  "ordre": 1,
-                  "titre": "Marché de brutes",
-                  "titreVo": "Raw Deal",
-                  "realisateurs": "Anthony Mann",
-                  "pays": "États-Unis",
-                  "annee": 1948,
-                  "duree": 78,
-                  "version": "VO",
-                  "format": "35 mm",
-                  "generique": [
-                    "Dennis O'Keefe",
-                    "Claire Trevor",
-                    "John Ireland",
-                    "Raymond Burr"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Marché de brutes",
+              "titreVo": "Raw Deal",
+              "realisateurs": "Anthony Mann",
+              "pays": "États-Unis",
+              "annee": 1948,
+              "duree": 78,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "Dennis O'Keefe",
+                "Claire Trevor",
+                "John Ireland",
+                "Raymond Burr"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 29996,
-              "content": [
-                {
-                  "idConf": 29996,
-                  "ordre": 2,
-                  "titre": "Marché des brutes + dialogue Serge chauvin",
-                  "typeConference": "Dialogue",
-                  "miniTexte": "Anthony Mann s'affirme d'abord comme un maître du film noir, puisant dans les contraintes de la série B une exigence d'expressivité maximale dans la composition, les angles de caméra, la profondeur de champ. À la Eagle-Lion, sa rencontre avec le chef-opérateur John Alton lui permet d'affiner un style plastique qui « peint en lumière » et sculpte les ténèbres, où chaque plan est porté à incandescence. Les extérieurs réels en sont dramatisés, les décors de studio lestés d'un poids concret. Avant d'être appliqué au film historique et au western, ce ténébrisme matérialise dans Marché de brutes une réflexion morale sur la violence, et transmue le fait divers en tragédie. – Serge Chauvin"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 118665,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-03-21T19:00:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "idSeance": 118665,
+              "dateHeure": "2024-03-21T19:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -1240,24 +1189,80 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 29996,
+          "content": [
+            {
+              "idConf": 29996,
+              "titre": "Film + dialogue Serge chauvin",
+              "typeConference": "Dialogue",
+              "miniTexte": "Anthony Mann s'affirme d'abord comme un maître du film noir, puisant dans les contraintes de la série B une exigence d'expressivité maximale dans la composition, les angles de caméra, la profondeur de champ. À la Eagle-Lion, sa rencontre avec le chef-opérateur John Alton lui permet d'affiner un style plastique qui « peint en lumière » et sculpte les ténèbres, où chaque plan est porté à incandescence. Les extérieurs réels en sont dramatisés, les décors de studio lestés d'un poids concret. Avant d'être appliqué au film historique et au western, ce ténébrisme matérialise dans Marché de brutes une réflexion morale sur la violence, et transmue le fait divers en tragédie. – Serge Chauvin"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118583,
+              "dateHeure": "2024-03-21T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 29997,
+          "content": [
+            {
+              "idConf": 29997,
+              "titre": "Je suis un aventurier + dialogue avec Bernard Benoliel",
+              "typeConference": "Dialogue",
+              "miniTexte": "De 1950 à 1955, Anthony Mann et James Stewart tournent huit films ensemble dont cinq westerns, parmi les plus beaux du genre, le cinéaste et l'acteur accomplissant un geste esthétique d'envergure. Il faudra revenir sur le trajet de Stewart et la réinvention de son jeu dans l'après-guerre. Quant à Mann, si les cinq films paraissent comme les doigts d'une main, cela vaut la peine de relever aussi ce qui les distingue. Entre le premier, Winchester 73, et le quatrième, Je suis un aventurier, tous deux scénarisés par Borden Chase pour le studio Universal, l'un en noir et blanc et l'autre en couleurs, il s'agira ainsi de mesurer le chemin parcouru ou le terrain perdu. Car si de l'un à l'autre, le personnage selon Mann traverse une même étendue américaine, il ne la traverse visiblement plus de la même façon. À titre d'indice, disons que de ces cinq westerns, Je suis un aventurier est celui qui se situe historiquement le plus tard : en 1896, la conquête de l'Ouest est terminée et le continent largement quadrillé. Peut-on encore être libre sans espace ? – Bernard Benoliel"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118520,
+              "dateHeure": "2024-03-24T16:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 29998,
+          "content": [
+            {
+              "idConf": 29998,
+              "titre": "Le Cid + dialogue avec Jean-François Rauger",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118521,
+              "dateHeure": "2024-03-31T17:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Dialogues": [
       {
-        "titreFilms": "Marché de brutes",
-        "mention": "Marché des brutes + dialogue Serge chauvin",
+        "mention": "Film + dialogue Serge chauvin",
         "dateHeure": "2024-03-21T19:00:00"
       },
       {
-        "titreFilms": "Je suis un aventurier",
         "mention": "Je suis un aventurier + dialogue avec Bernard Benoliel",
-        "dateHeure": "2024-03-24T14:30:00"
+        "dateHeure": "2024-03-24T16:15:00"
       },
       {
-        "titreFilms": "Le Cid",
         "mention": "Le Cid + dialogue avec Jean-François Rauger",
-        "dateHeure": "2024-03-31T14:30:00"
+        "dateHeure": "2024-03-31T17:30:00"
       }
     ]
   }

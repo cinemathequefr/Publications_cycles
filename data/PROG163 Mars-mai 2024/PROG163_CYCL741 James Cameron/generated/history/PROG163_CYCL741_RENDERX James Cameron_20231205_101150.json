@@ -95,7 +95,7 @@
             {
               "idSeance": 116486,
               "dateHeure": "2024-04-08T20:30:00",
-              "idSalle": "HL"
+              "idSalle": "GF"
             }
           ]
         },
@@ -176,7 +176,7 @@
             {
               "idSeance": 116487,
               "dateHeure": "2024-04-08T21:15:00",
-              "idSalle": "HL"
+              "idSalle": "GF"
             }
           ]
         },
@@ -204,60 +204,40 @@
             {
               "idSeance": 118436,
               "dateHeure": "2024-04-08T18:30:00",
-              "idSalle": "HL"
+              "idSalle": "GF"
             }
           ]
         },
         {
-          "groupe": [
+          "idFilm": 30824,
+          "content": [
             {
               "idFilm": 30824,
-              "content": [
-                {
-                  "idFilm": 30824,
-                  "ordre": 1,
-                  "titre": "Terminator",
-                  "realisateurs": "James Cameron",
-                  "pays": "États-Unis",
-                  "annee": 1984,
-                  "duree": 107,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "Arnold Schwarzenegger",
-                    "Michael Biehn",
-                    "Linda Hamilton"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Terminator",
+              "realisateurs": "James Cameron",
+              "pays": "États-Unis",
+              "annee": 1984,
+              "duree": 107,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Arnold Schwarzenegger",
+                "Michael Biehn",
+                "Linda Hamilton"
               ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118687,
+              "dateHeure": "2024-04-04T18:30:00",
+              "idSalle": "HL"
             },
             {
-              "idEvenement": 29999,
-              "content": [
-                {
-                  "idConf": 29999,
-                  "ordre": 2,
-                  "titre": "Masterclass James Cameron",
-                  "sousTitre": "Conférence ",
-                  "typeConference": "Conférence"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 118687,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-04-04T18:30:00",
-                  "idSalle": "HL",
-                  "idSeanceAssoc": 118687,
-                  "mentionAssoc": "Film + conférence"
-                },
-                {
-                  "idSeance": 118561,
-                  "dateHeure": "2024-05-12T14:30:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film seul"
-                }
-              ]
+              "idSeance": 118561,
+              "dateHeure": "2024-05-12T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -363,18 +343,19 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
-          "idConf": 30215,
+          "idConf": 29999,
           "content": [
             {
-              "idConf": 30215,
-              "titre": "Film + dialogue avec Julien Dupuis et Stephane Moïssakis",
-              "typeConference": "Dialogue"
+              "idConf": 29999,
+              "titre": "Masterclass James Cameron",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
             }
           ],
           "seances": [
             {
-              "idSeance": 122995,
-              "dateHeure": "2024-04-13T17:30:00",
+              "idSeance": 122975,
+              "dateHeure": "2024-04-04T20:00:00",
               "idSalle": "HL"
             }
           ]
@@ -387,13 +368,7 @@
       {
         "titre": "Masterclass James Cameron",
         "mention": "Conférence ",
-        "dateHeure": "2024-04-04T18:30:00"
-      }
-    ],
-    "Dialogue": [
-      {
-        "mention": "Film + dialogue avec Julien Dupuis et Stephane Moïssakis",
-        "dateHeure": "2024-04-13T17:30:00"
+        "dateHeure": "2024-04-04T20:00:00"
       }
     ]
   }

@@ -73,8 +73,8 @@
           "ordre": 1,
           "dateHeure": "2024-04-08T20:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "dureeSeance": 75,
           "idCategorie": 3235,
@@ -220,8 +220,8 @@
           "ordre": 1,
           "dateHeure": "2024-04-08T21:15:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "dureeSeance": 90,
           "idCategorie": 3235,
@@ -244,8 +244,8 @@
           "ordre": 1,
           "dateHeure": "2024-04-08T18:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "dureeSeance": 120,
           "idCategorie": 3235,
@@ -275,6 +275,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3235,
           "idEvenement": 29886,
           "typeEvenement": 13,
@@ -508,13 +509,32 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 122975,
-          "dateHeure": "2024-04-04T20:00:00",
+          "idSeance": 122995,
+          "dateHeure": "2024-04-13T17:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 60,
+          "idCategorie": 3264,
+          "idEvenement": 30215,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Film + dialogue avec Julien Dupuis et Stephane Moïssakis",
+          "duree": 60,
+          "textes": []
+        },
+        {
+          "idSeance": 118687,
+          "ordre": 2,
+          "dateHeure": "2024-04-04T18:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 3264,
           "idEvenement": 29999,
           "typeEvenement": 14,

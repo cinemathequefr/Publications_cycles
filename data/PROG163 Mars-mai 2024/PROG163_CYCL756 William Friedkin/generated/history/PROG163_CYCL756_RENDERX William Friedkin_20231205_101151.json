@@ -83,64 +83,45 @@
           ],
           "seances": [
             {
-              "idSeance": 122996,
-              "dateHeure": "2024-05-04T18:45:00",
-              "idSalle": "GF"
+              "idSeance": 117236,
+              "dateHeure": "2024-05-05T18:30:00",
+              "idSalle": "HL"
             }
           ]
         },
         {
-          "groupe": [
+          "idFilm": 31721,
+          "content": [
             {
               "idFilm": 31721,
-              "content": [
-                {
-                  "idFilm": 31721,
-                  "ordre": 1,
-                  "titre": "Convoi de la peur",
-                  "art": "Le",
-                  "titreVo": "Sorcerer",
-                  "realisateurs": "William Friedkin",
-                  "pays": "États-Unis",
-                  "annee": 1976,
-                  "duree": 122,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "adaptation": "D'après le roman _Le Salaire de la peur_ de Georges Arnaud.",
-                  "generique": [
-                    "Roy Scheider",
-                    "Bruno Cremer",
-                    "Francisco Rabal"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Convoi de la peur",
+              "art": "Le",
+              "titreVo": "Sorcerer",
+              "realisateurs": "William Friedkin",
+              "pays": "États-Unis",
+              "annee": 1976,
+              "duree": 122,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Le Salaire de la peur_ de Georges Arnaud.",
+              "generique": [
+                "Roy Scheider",
+                "Bruno Cremer",
+                "Francisco Rabal"
               ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 116837,
+              "dateHeure": "2024-04-20T14:30:00",
+              "idSalle": "HL"
             },
             {
-              "idEvenement": 30008,
-              "content": [
-                {
-                  "idConf": 30008,
-                  "ordre": 2,
-                  "titre": "Sorcerer + Dialogue avec Arthur Harari et Nicolas Pariser",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 116837,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-04-20T14:30:00",
-                  "idSalle": "HL",
-                  "idSeanceAssoc": 116837,
-                  "mentionAssoc": "Film + dialogue"
-                },
-                {
-                  "idSeance": 118640,
-                  "dateHeure": "2024-05-03T15:30:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film seul"
-                }
-              ]
+              "idSeance": 118640,
+              "dateHeure": "2024-05-03T15:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -278,51 +259,35 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 31698,
+          "content": [
             {
               "idFilm": 31698,
-              "content": [
-                {
-                  "idFilm": 31698,
-                  "ordre": 1,
-                  "titre": "Exorciste",
-                  "art": "L'",
-                  "titreVo": "Exorcist",
-                  "artVo": "The",
-                  "realisateurs": "William Friedkin",
-                  "pays": "États-Unis",
-                  "annee": 1973,
-                  "duree": 122,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "adaptation": "D'après le roman _L'Exorciste_ de William Peter Blatty.",
-                  "generique": [
-                    "Linda Blair",
-                    "Ellen Burstyn",
-                    "Max von Sydow"
-                  ],
-                  "miniTexte": "Un prêtre à la foi chancelante doit exorciser une adolescente possédée par Satan (Linda Blair, stupéfiante). Friedkin déploie toute sa maestria dans une mise en scène au cordeau, portée par le thème obsédant de Mike Oldfield. Derrière les scènes choc qui ont traumatisé des générations entières, l'affrontement osé entre Église et sexualité, doublé d'une parabole sur le mal, la folie et la culpabilité."
-                }
-              ]
-            },
-            {
-              "idEvenement": 30007,
-              "content": [
-                {
-                  "idConf": 30007,
-                  "ordre": 2,
-                  "titre": "Film + Dialogue avec Jean Baptiste Thoret",
-                  "typeConference": "Dialogue"
-                }
+              "ordre": 1,
+              "titre": "Exorciste",
+              "art": "L'",
+              "titreVo": "Exorcist",
+              "artVo": "The",
+              "realisateurs": "William Friedkin",
+              "pays": "États-Unis",
+              "annee": 1973,
+              "duree": 122,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _L'Exorciste_ de William Peter Blatty.",
+              "generique": [
+                "Linda Blair",
+                "Ellen Burstyn",
+                "Max von Sydow"
               ],
-              "seances": [
-                {
-                  "idSeance": 118577,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-05-05T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "miniTexte": "Un prêtre à la foi chancelante doit exorciser une adolescente possédée par Satan (Linda Blair, stupéfiante). Friedkin déploie toute sa maestria dans une mise en scène au cordeau, portée par le thème obsédant de Mike Oldfield. Derrière les scènes choc qui ont traumatisé des générations entières, l'affrontement osé entre Église et sexualité, doublé d'une parabole sur le mal, la folie et la culpabilité."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118577,
+              "dateHeure": "2024-05-05T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -457,7 +422,7 @@
           "seances": [
             {
               "idSeance": 117224,
-              "dateHeure": "2024-05-04T21:00:00",
+              "dateHeure": "2024-05-04T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -707,18 +672,56 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30008,
+          "content": [
+            {
+              "idConf": 30008,
+              "titre": "Sorcerer + Dialogue avec Arthur Harari et Nicolas Pariser",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118628,
+              "dateHeure": "2024-04-20T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 30007,
+          "content": [
+            {
+              "idConf": 30007,
+              "titre": "Film + Dialogue Friedkin",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118587,
+              "dateHeure": "2024-05-05T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Dialogues": [
       {
-        "titreFilms": "Le Convoi de la peur",
         "mention": "Sorcerer + Dialogue avec Arthur Harari et Nicolas Pariser",
-        "dateHeure": "2024-04-20T14:30:00"
+        "dateHeure": "2024-04-20T16:30:00"
       },
       {
-        "titreFilms": "L'Exorciste",
-        "mention": "Film + Dialogue avec Jean Baptiste Thoret",
+        "mention": "Film + Dialogue Friedkin",
         "dateHeure": "2024-05-05T14:30:00"
       }
     ]

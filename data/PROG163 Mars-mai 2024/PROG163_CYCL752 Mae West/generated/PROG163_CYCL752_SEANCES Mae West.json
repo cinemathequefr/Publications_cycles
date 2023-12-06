@@ -61,7 +61,12 @@
     "items": [
       {
         "idFilm": 45988,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 117180,
+        "idCopie": 27470,
+        "duree": 74,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -76,6 +81,7 @@
       "Georges Franju"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 63616,
@@ -92,37 +98,40 @@
     "idCategorie": 3267,
     "typeEvenement": 14,
     "idEvenement": 30003,
-    "idSeance": 118685,
-    "dateHeure": "2024-05-04T16:30:00",
+    "idSeance": 117222,
+    "dateHeure": "2024-05-04T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
     "idCategorie": 3246,
     "typeEvenement": 13,
-    "idEvenement": 29772,
-    "idSeance": 117223,
+    "idEvenement": 29780,
+    "idSeance": 117225,
     "dateHeure": "2024-05-04T18:45:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
-    "dureeSeance": 105,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 45698,
+        "idFilm": 31086,
         "ordre": 1,
-        "idSeance": 117223,
-        "idCopie": 27078,
-        "duree": 80,
-        "version": "",
-        "format": ""
+        "idSeance": 117225,
+        "idCopie": 27072,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -152,23 +161,23 @@
   {
     "idCategorie": 3246,
     "typeEvenement": 13,
-    "idEvenement": 29780,
-    "idSeance": 117251,
+    "idEvenement": 29772,
+    "idSeance": 122997,
     "dateHeure": "2024-05-06T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 31086,
+        "idFilm": 45698,
         "ordre": 1,
-        "idSeance": 117251,
-        "idCopie": 27072,
-        "duree": 83,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idSeance": 122997,
+        "idCopie": 27078,
+        "duree": 80,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -211,10 +220,10 @@
         "idFilm": 36827,
         "ordre": 1,
         "idSeance": 118447,
-        "idCopie": 27290,
-        "duree": 77,
-        "version": "",
-        "format": ""
+        "idCopie": 25865,
+        "duree": 76,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ]
   },
@@ -223,7 +232,7 @@
     "typeEvenement": 13,
     "idEvenement": 29775,
     "idSeance": 117329,
-    "dateHeure": "2024-05-09T19:00:00",
+    "dateHeure": "2024-05-09T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -236,6 +245,29 @@
         "idSeance": 117329,
         "idCopie": 27083,
         "duree": 79,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3246,
+    "typeEvenement": 13,
+    "idEvenement": 30210,
+    "idSeance": 122990,
+    "dateHeure": "2024-05-09T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 41787,
+        "ordre": 1,
+        "idSeance": 122990,
+        "idCopie": 27472,
+        "duree": 91,
         "version": "",
         "format": ""
       }

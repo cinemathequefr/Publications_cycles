@@ -76,6 +76,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 31721,
@@ -92,15 +93,18 @@
     "idCategorie": 3270,
     "typeEvenement": 14,
     "idEvenement": 30008,
-    "idSeance": 118628,
-    "dateHeure": "2024-04-20T16:30:00",
+    "idSeance": 116837,
+    "dateHeure": "2024-04-20T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -510,9 +514,32 @@
   {
     "idCategorie": 3252,
     "typeEvenement": 13,
+    "idEvenement": 29910,
+    "idSeance": 122996,
+    "dateHeure": "2024-05-04T18:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 99843,
+        "ordre": 1,
+        "idSeance": 122996,
+        "idCopie": 974,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3252,
+    "typeEvenement": 13,
     "idEvenement": 29911,
     "idSeance": 117224,
-    "dateHeure": "2024-05-04T20:30:00",
+    "dateHeure": "2024-05-04T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -541,6 +568,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 31698,
@@ -557,37 +585,17 @@
     "idCategorie": 3270,
     "typeEvenement": 14,
     "idEvenement": 30007,
-    "idSeance": 118587,
+    "idSeance": 118577,
     "dateHeure": "2024-05-05T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 180,
-    "items": [
-      {}
-    ]
-  },
-  {
-    "idCategorie": 3252,
-    "typeEvenement": 13,
-    "idEvenement": 29910,
-    "idSeance": 117236,
-    "dateHeure": "2024-05-05T18:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
+    "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 99843,
-        "ordre": 1,
-        "idSeance": 117236,
-        "idCopie": 974,
-        "duree": 102,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "ordre": 2
       }
     ]
   },

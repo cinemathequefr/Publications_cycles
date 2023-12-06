@@ -206,7 +206,7 @@
   * Qui veut la peau de Roger Rabbit  
   * Soupe au canard
 
-## Mae West (10)
+## Mae West (11)
 
   * Annie du Klondike  
   * Ce n'est pas un péché  
@@ -217,7 +217,8 @@
   * Je veux être une lady  
   * Lady Lou  
   * Mon petit poussin chéri  
-  * Nuit après nuit
+  * Nuit après nuit  
+  * Sextette
 
 ## Marguerite Duras (27)
 
@@ -238,8 +239,8 @@
   * Enfants (Les)  
   * Femme du Gange (La)  
   * Hiroshima, mon amour  
-  * Homme Atlantique (L')  
-  * India song  
+  * Homme atlantique (L')  
+  * India Song  
   * Jaune le soleil  
   * Mains négatives (Les)  
   * Moderato cantabile  

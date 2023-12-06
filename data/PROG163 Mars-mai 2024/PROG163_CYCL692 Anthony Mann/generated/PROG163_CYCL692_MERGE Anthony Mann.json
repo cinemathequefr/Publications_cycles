@@ -395,6 +395,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 3045,
           "idEvenement": 29836,
           "typeEvenement": 13,
@@ -685,6 +686,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3045,
           "idEvenement": 29843,
           "typeEvenement": 13,
@@ -715,6 +717,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 210,
+          "typeAssoc": 118,
           "idCategorie": 3045,
           "idEvenement": 29844,
           "typeEvenement": 13,
@@ -811,6 +814,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 105,
+          "typeAssoc": 118,
           "idCategorie": 3045,
           "idEvenement": 29847,
           "typeEvenement": 13,
@@ -1295,43 +1299,15 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 118583,
-          "dateHeure": "2024-03-21T19:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 150,
-          "idCategorie": 3263,
-          "idEvenement": 29996,
-          "typeEvenement": 14,
-          "idTypeConference": 16,
-          "typeConference": "Dialogue",
-          "titre": "Film + dialogue Serge chauvin",
-          "duree": 60,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Anthony Mann s'affirme d'abord comme un maître du film noir, puisant dans les contraintes de la série B une exigence d'expressivité maximale dans la composition, les angles de caméra, la profondeur de champ. À la Eagle-Lion, sa rencontre avec le chef-opérateur John Alton lui permet d'affiner un style plastique qui « peint en lumière » et sculpte les ténèbres, où chaque plan est porté à incandescence. Les extérieurs réels en sont dramatisés, les décors de studio lestés d'un poids concret. Avant d'être appliqué au film historique et au western, ce ténébrisme matérialise dans Marché de brutes une réflexion morale sur la violence, et transmue le fait divers en tragédie. – Serge Chauvin"
-            }
-          ],
-          "intervenants": [
-            {
-              "nomComplet": "Serge Chauvin",
-              "idFonction": 39,
-              "fonction": "Intervenant",
-              "ordre": 1
-            }
-          ]
-        },
-        {
-          "idSeance": 118520,
-          "dateHeure": "2024-03-24T16:15:00",
+          "idSeance": 118674,
+          "ordre": 2,
+          "dateHeure": "2024-03-24T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 3263,
           "idEvenement": 29997,
           "typeEvenement": 14,
@@ -1347,13 +1323,15 @@
           ]
         },
         {
-          "idSeance": 118521,
-          "dateHeure": "2024-03-31T17:30:00",
+          "idSeance": 116280,
+          "ordre": 2,
+          "dateHeure": "2024-03-31T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 3263,
           "idEvenement": 29998,
           "typeEvenement": 14,
@@ -1362,6 +1340,38 @@
           "titre": "Le Cid + dialogue avec Jean-François Rauger",
           "duree": 60,
           "textes": []
+        },
+        {
+          "idSeance": 118665,
+          "ordre": 2,
+          "dateHeure": "2024-03-21T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 3263,
+          "idEvenement": 29996,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Marché des brutes + dialogue Serge chauvin",
+          "duree": 60,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Anthony Mann s'affirme d'abord comme un maître du film noir, puisant dans les contraintes de la série B une exigence d'expressivité maximale dans la composition, les angles de caméra, la profondeur de champ. À la Eagle-Lion, sa rencontre avec le chef-opérateur John Alton lui permet d'affiner un style plastique qui « peint en lumière » et sculpte les ténèbres, où chaque plan est porté à incandescence. Les extérieurs réels en sont dramatisés, les décors de studio lestés d'un poids concret. Avant d'être appliqué au film historique et au western, ce ténébrisme matérialise dans Marché de brutes une réflexion morale sur la violence, et transmue le fait divers en tragédie. – Serge Chauvin"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Serge Chauvin",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []
