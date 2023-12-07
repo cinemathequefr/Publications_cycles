@@ -38,10 +38,10 @@ suivi de
 **L'Étrange histoire de Prince Dethmer**  
 de Hadrien La Vapeur, Corto Vaclav  
 France / 2018 / 23 min / Numérique  
-Dans un quartier populaire de Brazzaville, un  danseur prometteur du nom de Prince Dethmer est retrouvé mort. Sa famille organise une cérémonie funéraire, invitant tous ses amis artistes à lui rendre un dernier hommage. Mais quelques jours plus tard, l'impossible se produit.
+Dans un quartier populaire de Brazzaville, un danseur prometteur du nom de Prince Dethmer est retrouvé mort. Sa famille organise une cérémonie funéraire, invitant tous ses amis artistes à lui rendre un dernier hommage. Mais quelques jours plus tard, l'impossible se produit.
 
 - lu 9 mar 19h00 GF  
-Séance présentée par Hadrien La Vapeur et Corto Vaclav
+  Séance présentée par Hadrien La Vapeur et Corto Vaclav
 
 [143674]  
 **Kongo**  
@@ -50,7 +50,7 @@ France / 2019 / 70 min / DCP
 À Brazzaville, un monde invisible régit le monde visible. L'apôtre Médard se démène pour guérir les malades victimes de mauvais sorts. Mais sa vie bascule lorsqu'on l'accuse publiquement de pratiquer la magie noire.
 
 - lu 9 mar 21h15 GF  
-Avant-première. Séance suivie d'une discussion avec Hadrien La Vapeur et Corto Vaclav
+  Avant-première. Séance suivie d'une discussion avec Hadrien La Vapeur et Corto Vaclav
 
 ## Frédéric Farrucci
 
@@ -78,7 +78,7 @@ Avec Avram Ion, Trayko Atanasov.
 Fin de l'été. Cinq petits voleurs arpentent la ville. Parmi eux, Stefan tente d'apprendre à lire le français.
 
 - lu 16 mar 19h00 GF  
-Séance présentée par Frédéric Farrucci
+  Séance présentée par Frédéric Farrucci
 
 [143675]  
 **La Nuit venue**  
@@ -88,7 +88,7 @@ Avec Camélia Jordana, Guang Huo.
 Paris, 2018. Jin, jeune immigré sans papiers, conduit chaque nuit un VTC pour le compte de la mafia chinoise. Une nuit, Noémie, call-girl envoûtante, monte à bord de son taxi. Intriguée par le mutisme et l'aura de Jin, elle décide d'en faire son chauffeur.
 
 - lu 16 mar 21h00 GF  
-Avant-première. Séance présentée par Frédéric Farrucci
+  Avant-première. Séance présentée par Frédéric Farrucci
 
 ## Radiohead par Paul Thomas Anderson
 
@@ -123,7 +123,7 @@ de Paul Thomas Anderson
 Le musicien Thom Yorke, leader de Radiohead, mis en scène dans un futur dystopique. Court métrage réalisé pour accompagner la sortie de son album solo _Anima_.
 
 - lu 23 mar 19h30 GF  
-Séance présentée par Morgan Pokée
+  Séance présentée par Morgan Pokée
 
 ## Konstantina Kotzamani
 
@@ -143,7 +143,7 @@ Avec Ann-Sofie Kylin, Rolf Sohlman, Anita Lindblom.
 En marge du monde des adultes, Pär et Annika, avec l'ingénuité et la fraîcheur de leurs 15 ans, découvrent l'envie et le bonheur d'aimer.
 
 - lu 6 avr 19h30 JE  
-Séance suivie d'une discussion avec Konstantina Kotzamani. Séance présentée par Konstantina Kotzamani
+  Séance suivie d'une discussion avec Konstantina Kotzamani. Séance présentée par Konstantina Kotzamani
 
 ## Matthieu Bareyre
 
@@ -154,7 +154,7 @@ France / 2018 / 98 min / DCP
 _L'Époque_, ce sont des rêves, des cauchemars, de l'ivresse, de l'ennui, de la douceur, des larmes, des terrasses, des parents, du désir, de l'amnésie. C'est aussi une traversée nocturne aux côtés de jeunes, à Paris, de l'après-Charlie à l'élection présidentielle.
 
 - lu 20 avr 19h00 JE  
-Séance suivie d'une discussion avec Matthieu Bareyre
+  Séance suivie d'une discussion avec Matthieu Bareyre
 
 [75270]  
 **Y tu mamá también**  
@@ -164,7 +164,7 @@ Avec Maribel Verdú, Gael García Bernal, Diego Luna.
 Tenoch et Julio sont deux jeunes amis, fêtards et dragueurs. Lors d'un mariage, ils font la rencontre d'une trentenaire, Luisa. Très vite, le trio décide de partir quelques jours sur la côte du Pacifique.
 
 - lu 20 avr 21h30 JE  
-Séance présentée par Matthieu Bareyre
+  Séance présentée par Matthieu Bareyre
 
 ## Alexis Langlois
 
@@ -191,7 +191,7 @@ Avec Nana Benamer, Naëlle Dariya, Félix Maritaud.
 Kalthoum et ses copines sirotent des cocktails, cherchent des plans cul sur Internet, attendent désespérément l'amour et essuient, une fois de plus, les insultes transphobes d'inconnus. Oui mais voilà : aujourd'hui, ça ne va pas se passer comme ça.
 
 - lu 27 avr 19h00 JE  
-Séance suivie d'une discussion avec Alexis Langlois
+  Séance suivie d'une discussion avec Alexis Langlois
 
 [32494]  
 **Frigo déménageur**  
@@ -217,7 +217,7 @@ Avec Tom Ewell, Jayne Mansfield, Edmond O'Brien.
 Le mafieux Marty Murdock engage Tom Miller, un imprésario alcoolique, pour faire de sa petite amie Jerri Jordan une vedette de la chanson.
 
 - lu 27 avr 21h00 JE  
-Séance présentée par Alexis Langlois
+  Séance présentée par Alexis Langlois
 
 ## Delphine Gleize
 
@@ -231,7 +231,7 @@ L'Aviron Bayonnais Rugby est remonté en Top 14 grâce à un agrégat de joueurs
 
 - lu 4 mai 19h00 JE
 
-## Le G.R.E.C. 2020
+## Le GREC 2020
 
 **Créé en 1969 par Jean Rouch et les producteurs Pierre Braunberger et Anatole Dauman pour développer la création des premiers courts métrages, et soutenu par le CNC depuis ses débuts, le G.R.E.C (Groupe de recherche et d'essais cinématographiques) a produit plus de 900 films depuis son origine, veillant à leur caractère singulier et innovant. Il a permis de découvrir de nombreux cinéastes parmi lesquels Alain Guiraudie, Xavier Beauvois, Claire Simon, Clément Cogitore, Damien Manivel, Katell Quillévéré, Catherine Corsini ou Mathieu Amalric.**
 
@@ -254,10 +254,10 @@ suivi de
 d'Antoine Bargain  
 France / 2018 / 20 min / DCP  
 En Corse, aux abords du village de Corte, la nature a repris ses droits sur les vestiges d'une quartier militaire. Aujourd'hui lieu de détente des familles et des sportifs, cette caserne fut dans les années 1970 la terreur des soldats de la Légion étrangère.  
-Coproduction Le G.R.E.C.-IUT de Corse.
+Coproduction Le GREC-IUT de Corse.
 
 - lu 11 mai 19h15 JE  
-Séance présentée par Anne Luthaud
+  Séance présentée par Anne Luthaud
 
 ## Nouvelles du Canada
 
@@ -337,7 +337,6 @@ Avec Christine Salem, David Abrousse, Harry Périgonne.
 Pour tenir la promesse faite à sa mère mourante, une jeune femme part à la recherche de son père, qu'elle n'a jamais connu. En chemin, elle apprend rapidement qu'il est mort.
 
 - lu 25 mai 19h00 JE  
-Séance présentée par Miguel Valverde
+  Séance présentée par Miguel Valverde
 
 ## Le meilleur des talents Adami
-

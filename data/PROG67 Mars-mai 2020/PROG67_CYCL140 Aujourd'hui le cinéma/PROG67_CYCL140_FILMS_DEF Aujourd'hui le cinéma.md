@@ -86,7 +86,7 @@ d'Antoine Bargain
 France / 2018  
 En Corse, aux abords du village de Corte, la nature a repris ses droits sur les vestiges d'une quartier militaire. Aujourd'hui lieu de détente des familles et des sportifs, cette caserne fut dans les années 1970 la terreur des soldats de la Légion étrangère.
 
-Coproduction Le G.R.E.C.-IUT de Corse.
+Coproduction Le GREC-IUT de Corse.
 
 [143757]  
 **Electric Swan**  
@@ -112,7 +112,7 @@ _L'Époque_, ce sont des rêves, des cauchemars, de l'ivresse, de l'ennui, de la
 **L'Étrange histoire de Prince Dethmer**  
 de Hadrien La Vapeur, Corto Vaclav  
 France / 2018  
-Dans un quartier populaire de Brazzaville, un  danseur prometteur du nom de Prince Dethmer est retrouvé mort. Sa famille organise une cérémonie funéraire, invitant tous ses amis artistes à lui rendre un dernier hommage. Mais quelques jours plus tard, l'impossible se produit.
+Dans un quartier populaire de Brazzaville, un danseur prometteur du nom de Prince Dethmer est retrouvé mort. Sa famille organise une cérémonie funéraire, invitant tous ses amis artistes à lui rendre un dernier hommage. Mais quelques jours plus tard, l'impossible se produit.
 
 [143687]  
 **Fanfreluches et idées noires**  
@@ -265,4 +265,3 @@ d'Alfonso Cuarón
 Mexique / 2000  
 Avec Maribel Verdú, Gael García Bernal, Diego Luna.  
 Tenoch et Julio sont deux jeunes amis, fêtards et dragueurs. Lors d'un mariage, ils font la rencontre d'une trentenaire, Luisa. Très vite, le trio décide de partir quelques jours sur la côte du Pacifique.
-
