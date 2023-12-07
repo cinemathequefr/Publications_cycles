@@ -101,7 +101,7 @@
 ## Kenji Misumi (52)
 
   * Baby Cart : Dans la terre de l'ombre  
-  * Baby Cart : L'Enfant du massacre  
+  * Baby Cart : L'Enfant massacre  
   * Baby Cart : Le Sabre de la vengeance  
   * Baby Cart : Le Territoire des démons  
   * Bouddha  
@@ -111,7 +111,7 @@
   * Chroniques du Shinsengumi (Les)  
   * Combat de Kyoshiro Nemuri (Le)  
   * Combinards des pompes funèbres (Les)  
-  * Courtisane et l'assassin (La)  
+  * Courtisane et l'Assassin (La)  
   * Démon du chateau de Sendai (Le)  
   * Derniers Samouraïs (Les)  
   * Deux gardes du corps (Les)  
