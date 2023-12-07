@@ -40,7 +40,7 @@
   * Strangers in the Night  
   * Strategic Air Command  
   * Two O'clock Courage  
-  * Winchester 73
+  * Winchester '73
 
 ## Aujourd'hui le cinéma (12)
 
@@ -91,9 +91,9 @@
   * Aliens, le retour  
   * Aliens of the Deep  
   * Avatar  
-  * Avatar : La voie de l'eau  
+  * Avatar : La Voie de l'eau  
   * Fantômes du Titanic (Les)  
-  * Piranha II : Les tueurs volants  
+  * Piranha II : Les Tueurs volants  
   * Terminator  
   * Terminator 2, le jugement dernier  
   * Titanic  
@@ -168,7 +168,7 @@
   * Nuits blanches à Seattle  
   * Pour le pire et pour le meilleur  
   * Pretty Woman  
-  * Punch-Drunk Love – Ivre d'amour  
+  * Punch-Drunk Love  
   * Quand Harry rencontre Sally  
   * Quatre mariages et un enterrement  
   * Sans Sarah, rien ne va !  
@@ -292,6 +292,7 @@
 
 ## Nicolas Philibert (25)
 
+  * Averroès et Rosa Parks  
   * Christophe  
   * Come-back de Baquet (Le)  
   * De chaque instant  
@@ -310,7 +311,6 @@
   * Qui sait ?  
   * Retour en Normandie  
   * Sur l'Adamant  
-  * Sur l'Adamant partie 2 : Averroès et Rosa Parks  
   * Trilogie pour un homme seul  
   * Un animal, des animaux  
   * Vas-y Lapébie  
