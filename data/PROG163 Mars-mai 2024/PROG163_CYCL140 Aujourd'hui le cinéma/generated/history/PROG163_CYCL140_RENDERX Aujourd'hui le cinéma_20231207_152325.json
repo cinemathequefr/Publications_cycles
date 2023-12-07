@@ -45,48 +45,29 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "François Robic",
+      "titreSousCycle": "Louise Narboni et Agathe Bonitzer",
       "items": [
         {
-          "idEvenement": 30228,
+          "idFilm": 154718,
           "content": [
             {
-              "idFilm": 154693,
+              "idFilm": 154718,
               "ordre": 1,
-              "titre": "Rien d'important",
-              "realisateurs": "François Robic",
-              "pays": "France",
-              "annee": 2022,
-              "duree": 20,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Gaëlle Robic",
-                "Flora Piskorski"
-              ]
-            },
-            {
-              "idFilm": 154720,
-              "ordre": 2,
-              "titre": "Trois femmes brûlées",
-              "realisateurs": "François Robic",
+              "titre": "Agathe, Solange et moi",
+              "realisateurs": "Louise Narboni",
               "pays": "France",
               "annee": 2023,
-              "duree": 25,
+              "duree": 75,
               "version": "",
-              "format": "DCP",
-              "generique": [
-                "Flora Piskorski",
-                "Mireille Roussel"
-              ]
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 123009,
-              "dateHeure": "2024-03-18T19:00:00",
+              "idSeance": 117061,
+              "dateHeure": "2024-04-29T19:00:00",
               "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec François Robic"
+              "mention": "Séance suivie d'une discussion avec Louise Narboni et Agathe Bonitzer"
             }
           ]
         }
@@ -118,73 +99,6 @@
               "dateHeure": "2024-03-25T20:00:00",
               "idSalle": "JE",
               "mention": " Séance suivie d'une discussion avec Damien Manivel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Caroline Poggi et Jonathan Vinel",
-      "items": [
-        {
-          "idFilm": 154719,
-          "content": [
-            {
-              "idFilm": 154719,
-              "ordre": 1,
-              "titre": "Best Secret Place",
-              "realisateurs": "Caroline Poggi, Jonathan Vinel",
-              "pays": "France",
-              "annee": 2023,
-              "duree": 61,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Vimala Pons",
-                "Vincent Macaigne",
-                "Sania Halifa",
-                "Idir Azougli",
-                "Chouf"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 123011,
-              "dateHeure": "2024-04-15T19:00:00",
-              "idSalle": "GF",
-              "mention": " Séance suivie d'une discussion avec Caroline Poggi et Jonathan Vinel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Louise Narboni et Agathe Bonitzer",
-      "items": [
-        {
-          "idFilm": 154718,
-          "content": [
-            {
-              "idFilm": 154718,
-              "ordre": 1,
-              "titre": "Agathe, Solange et moi",
-              "realisateurs": "Louise Narboni",
-              "pays": "France",
-              "annee": 2023,
-              "duree": 75,
-              "version": "",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 117061,
-              "dateHeure": "2024-04-29T19:00:00",
-              "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Louise Narboni et Agathe Bonitzer"
             }
           ]
         }
@@ -268,6 +182,43 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Caroline Poggi et Jonathan Vinel",
+      "items": [
+        {
+          "idFilm": 154719,
+          "content": [
+            {
+              "idFilm": 154719,
+              "ordre": 1,
+              "titre": "Best Secret Place",
+              "realisateurs": "Caroline Poggi, Jonathan Vinel",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 61,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Vimala Pons",
+                "Vincent Macaigne",
+                "Sania Halifa",
+                "Idir Azougli",
+                "Chouf"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 123011,
+              "dateHeure": "2024-04-15T19:00:00",
+              "idSalle": "GF",
+              "mention": " Séance suivie d'une discussion avec Caroline Poggi et Jonathan Vinel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Leonor Serraille",
       "items": [
         {
@@ -293,6 +244,55 @@
               "dateHeure": "2024-05-27T19:00:00",
               "idSalle": "JE",
               "mention": "Séance suivie d'une discussion avec Léonor Serraille"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "François Robic",
+      "items": [
+        {
+          "idEvenement": 30228,
+          "content": [
+            {
+              "idFilm": 154693,
+              "ordre": 1,
+              "titre": "Rien d'important",
+              "realisateurs": "François Robic",
+              "pays": "France",
+              "annee": 2022,
+              "duree": 20,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Gaëlle Robic",
+                "Flora Piskorski"
+              ]
+            },
+            {
+              "idFilm": 154720,
+              "ordre": 2,
+              "titre": "Trois femmes brûlées",
+              "realisateurs": "François Robic",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 25,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Flora Piskorski",
+                "Mireille Roussel"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 123009,
+              "dateHeure": "2024-03-18T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec François Robic"
             }
           ]
         }
