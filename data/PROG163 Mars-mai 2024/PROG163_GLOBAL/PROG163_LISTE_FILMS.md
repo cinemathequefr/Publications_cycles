@@ -42,12 +42,13 @@
   * Two O'clock Courage  
   * Winchester 73
 
-## Aujourd'hui le cinéma (11)
+## Aujourd'hui le cinéma (12)
 
   * Agathe, Solange et moi  
   * Best Secret Place  
   * Fogaréu  
   * Île (L')  
+  * Ishi ga aru  
   * Oyu  
   * Rémi  
   * Retour à Toyama  
@@ -107,20 +108,19 @@
   * Bouddha  
   * Brassard noir dans la neige  
   * Carnets de route de Mito Komon (Les)  
-  * Carnets secrets de Senzaburu (Les)  
+  * Carnets secrets de Senbazuru (Les)  
   * Chroniques du Shinsengumi (Les)  
   * Combat de Kyoshiro Nemuri (Le)  
   * Combinards des pompes funèbres (Les)  
   * Courtisane et l'Assassin (La)  
   * Démon du chateau de Sendai (Le)  
   * Derniers Samouraïs (Les)  
-  * Deux gardes du corps (Les)  
-  * Deux sœurs mélaconliques à Kyoto  
-  * Enfant Renard (L')  
+  * Deux Gardes du corps (Les)  
+  * Deux sœurs mélancoliques à Kyoto  
+  * Enfant renard (L')  
   * Epée errante (L')  
   * Famille matrilinéaire (La)  
   * Fantôme de Yotsuya (Le)  
-  * flic hors-la-loi (Un)  
   * Gompachi au chapeau  
   * Hanzo the Razor – Sword of Justice  
   * Homme au pousse-pousse (L')  
@@ -128,19 +128,19 @@
   * Jirokichi le rat  
   * Komako, fille unique de la maison Shiroko  
   * Lame diabolique (La)  
-  * Légende de Zaitoïchi: Le Shogun de l'ombre (La)  
-  * Légende de Zaitoïchi : Voyage en enfer (La)  
-  * Légende de Zaitoïchi : Voyage meurtrier (La)  
-  * Légende de Zatoichi : Le masseur aveugle (La)  
-  * Légende de Zatoïchi: Les tambours de la colère (La)  
-  * Légende de Zatoïchi: route sanglante (La)  
+  * Légende de Zatoichi : Le Masseur aveugle (La)  
+  * Légende de Zatoichi : Le Shogun de l'ombre (La)  
+  * Légende de Zatoichi : Les Tambours de la colère (La)  
+  * Légende de Zatoichi : Route sanglante (La)  
+  * Légende de Zatoichi : Voyage en enfer (La)  
+  * Légende de Zatoichi : Voyage meurtrier (La)  
   * Lignée d'une femme (La)  
   * Momotaro le Samouraï  
-  * Nemuri Kyoshiro: lesabreur et les pirates  
-  * Nouvelles aventures de la joueuse (Les)  
+  * Nemuri Kyōshirō : le sabreur et les pirates  
+  * Nouvelles Aventures de la joueuse (Les)  
   * Okuma Shigenobu le grand  
   * Palais de la princesse Sen (Le)  
-  * Passage du grand bouddha (Le)  
+  * Passage du grand Bouddha (Le)  
   * Passage du grand Boudha II (Le)  
   * Princesse aveugle (La)  
   * Retour de Majin (Le)  
@@ -151,6 +151,7 @@
   * Sur la route à jamais  
   * Temple du démon (Le)  
   * Tuer  
+  * Un flic hors-la-loi  
   * Vision de la vierge (La)
 
 ## La comédie romantique moderne (20)
@@ -199,7 +200,7 @@
   * Rocky Horror Picture Show (The)  
   * Souris qui rugissait (La)  
   * Tootsie  
-  * Triple echo  
+  * Triple Écho  
   * Victor Victoria
 
 ## Ma petite Cinémathèque (16)
@@ -298,7 +299,7 @@
   * Face nord du camembert (La)  
   * Heure exquise (L')  
   * Invisible (L')  
-  * Maison de la Radio (La)  
+  * Maison de la radio (La)  
   * Moindre des choses (La)  
   * Nénette  
   * Nicolas Philibert, hasard et nécessité  
@@ -309,7 +310,7 @@
   * Qui sait ?  
   * Retour en Normandie  
   * Sur l'Adamant  
-  * Sur l'Adamant partie 2 : Averroes et Rosa Parks  
+  * Sur l'Adamant partie 2 : Averroès et Rosa Parks  
   * Trilogie pour un homme seul  
   * Un animal, des animaux  
   * Vas-y Lapébie  
