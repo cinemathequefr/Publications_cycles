@@ -1,7 +1,9 @@
 # Liste des films par cycle
 
-## Anthony Mann (34)
+## Anthony Mann (39)
 
+  * Affameurs (Les)  
+  * Appât (L')  
   * Bamboo Blonde (The)  
   * Brigade du suicide (La)  
   * Charge des tuniques bleues (La)  
@@ -15,8 +17,10 @@
   * Grand attentat (La)  
   * Héros de Télémark (Les)  
   * Homme de l'Ouest (L')  
+  * Homme de la plaine (L')  
   * Il marchait la nuit  
   * Incidents de frontière  
+  * Je suis un aventurier  
   * Le Cid  
   * Livre noir (Le)  
   * Maldonne pour un espion  
@@ -35,7 +39,22 @@
   * Strange Impersonation  
   * Strangers in the Night  
   * Strategic Air Command  
-  * Two O'clock Courage
+  * Two O'clock Courage  
+  * Winchester 73
+
+## Aujourd'hui le cinéma (11)
+
+  * Agathe, Solange et moi  
+  * Best Secret Place  
+  * Fogaréu  
+  * Île (L')  
+  * Oyu  
+  * Rémi  
+  * Retour à Toyama  
+  * Rien d'important  
+  * Thé au harem d'Archimède (Le)  
+  * Trois femmes brûlées  
+  * Un petit frère
 
 ## Ciné-club de Frédéric Bonnaud (1)
 
