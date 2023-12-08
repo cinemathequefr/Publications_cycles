@@ -323,6 +323,7 @@
   * Anniversaire (L')  
   * Blue Chips  
   * Bug  
+  * Caine Mutiny Court-Martial (The)  
   * Chasse (La)  
   * Convoi de la peur (Le)  
   * Coup du siècle (Le)  
@@ -338,9 +339,8 @@
   * Nurse (La)  
   * People vs. Paul Crump (The)  
   * Police fédérale, Los Angeles  
-  * Sang du Châtiment : Director's Cut (Le)  
+  * Sang du Châtiment (director's cut) (Le)  
   * Sang du châtiment (Le)  
   * Strip-tease chez Minsky  
   * Têtes vides cherchent coffres pleins  
-  * The Caine Mutiny Court-Martial  
   * Traqué  
