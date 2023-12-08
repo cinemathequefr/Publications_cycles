@@ -4,15 +4,51 @@
     "idEvenement": 29999,
     "titre": "James Cameron par James Cameron, une leçon de cinéma",
     "duree": 60,
-    "idTypeConference": 55,
-    "typeConference": "Conférence"
+    "idTypeConference": 15,
+    "typeConference": "Leçon de cinéma",
+    "intervenants": [
+      {
+        "nomComplet": "James Cameron",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Frédéric Bonnaud",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
+      }
+    ],
+    "mentionAnimation": "Animée par Frédéric Bonnaud"
   },
   {
     "idCategorie": 3264,
     "idEvenement": 30215,
-    "titre": "Dialogue avec Julien Dupuis et Stephane Moïssakis",
+    "titre": "Dialogue avec Julien Dupuis et Stéphane Moïssakis",
     "duree": 60,
     "idTypeConference": 16,
-    "typeConference": "Dialogue"
+    "typeConference": "Dialogue",
+    "intervenants": [
+      {
+        "nomComplet": "Julien Dupuis",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Stéphane Moïssakis",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 2
+      },
+      {
+        "nomComplet": "Bernard Benoliel",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 3
+      }
+    ],
+    "mentionAnimation": "Animé par Bernard Benoliel"
   }
 ]

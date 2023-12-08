@@ -320,12 +320,12 @@
 
 ## William Friedkin (24)
 
-  * Birthday Party (The)  
+  * Anniversaire (L')  
   * Blue Chips  
   * Bug  
+  * Chasse (La)  
   * Convoi de la peur (Le)  
-  * Cruising – La chasse  
-  * Deal of the Century  
+  * Coup du siècle (Le)  
   * Devil and Father Amorth (The)  
   * Douze hommes en colère  
   * Enfer du devoir (L')  
@@ -337,7 +337,7 @@
   * Killer Joe  
   * Night They Raided Minsky's (The)  
   * Nurse (La)  
-  * People vs. Paul Crump TV (The)  
+  * People vs. Paul Crump (The)  
   * Police fédérale Los Angeles  
   * Sang du Châtiment : Director's Cut (Le)  
   * Sang du châtiment (Le)  

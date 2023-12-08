@@ -17,16 +17,28 @@
           "idEvenement": 29896,
           "typeEvenement": 13,
           "idFilm": 53180,
-          "art": "The",
-          "titre": "Birthday Party",
+          "art": "L'",
+          "titre": "Anniversaire",
+          "artVo": "The",
+          "titreVo": "Birthday Party",
           "realisateurs": "William Friedkin",
           "annee": 1968,
           "pays": "Grande-Bretagne",
           "duree": 124,
           "version": "VOSTF",
           "format": "16 mm",
+          "generique": [
+            "Robert Shaw",
+            "Patrick Magee",
+            "Dandy Nichols"
+          ],
           "adaptation": "D'après la pièce _The Birthday Party_ de Harold Pinter.",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Isolé en pension, un homme (Robert Shaw, impressionnant) se retrouve aux prises avec deux inconnus qui veulent lui organiser une fête d'anniversaire. D'après la pièce d'Harold Pinter, un huis clos électrique, proche du cinéma expérimental, qui joue sur une atmosphère claustrophobe et l'ambivalence de ses protagonistes pour dépeindre une lente progression vers la folie."
+            }
+          ]
         },
         {
           "idSeance": 117050,
@@ -50,9 +62,15 @@
           "format": "35 mm",
           "generique": [
             "Nick Nolte",
-            "Mary McDonnell"
+            "Mary McDonnell",
+            "J. T. Walsh"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Pour ses retrouvailles avec Paramount Pictures, Friedkin dévoile les arcanes du sport américain et livre une illustration grisante de sa première passion, le basket. Alors qu'il explore comment les grandes universités attirent les meilleurs joueurs, il offre à Nick Nolte, paternaliste et impliqué, un rôle en or."
+            }
+          ]
         },
         {
           "idSeance": 122996,
@@ -76,13 +94,57 @@
           "format": "35 mm",
           "generique": [
             "Ashley Judd",
-            "Michael Shannon"
+            "Michael Shannon",
+            "Harry Connick Jr."
           ],
-          "adaptation": "D'après la pièce de théêtre _Bug_ de Tracy Letts.",
+          "adaptation": "D'après la pièce de théâtre _Bug_ de Tracy Letts.",
           "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "La détresse de deux personnages (l'excellent duo Michael Shannon/Ashley Judd) consumés par leurs névroses et un amour fou qui contamine le corps et l'esprit. Entre paranoïa d'une Amérique post-11 septembre et difficulté de vivre une existence médiocre, Friedkin crée une montée en tension implacable, qui suscite le doute sur notre propre réalité."
+            },
             {
               "typeTexte": 9,
               "texte": "Agnès vit seule dans un motel désert. Elle est hantée par le souvenir de son enfant, kidnappé plusieurs années auparavant, et redoute la visite de son ex-mari récemment sorti de prison."
+            }
+          ]
+        },
+        {
+          "idSeance": 122937,
+          "ordre": 1,
+          "dateHeure": "2024-04-24T18:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3252,
+          "idEvenement": 29902,
+          "typeEvenement": 13,
+          "idFilm": 31697,
+          "art": "La",
+          "titre": "Chasse",
+          "titreVo": "Cruising",
+          "realisateurs": "William Friedkin",
+          "annee": 1979,
+          "pays": "États-Unis",
+          "duree": 106,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Al Pacino",
+            "Paul Sorvino",
+            "Karen Allen"
+          ],
+          "adaptation": "D'après le roman _Cruising_ de Gerald Walker.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Longtemps jugé scandaleux, censuré, puis réhabilité au fil des années, _Cruising_ s'immisce dans un milieu peu mis en lumière à son époque, la communauté gay underground – tendance rituels SM – des _eighties_. Sous prétexte d'une enquête en forme de chasse à l'homme, Friedkin entretient le malaise et l'ambiguïté à travers le personnage d'Al Pacino, stratosphérique en jeune policier rongé par l'ambition avant la révélation de ses parts d'ombre. Un polar sulfureux, sans concession dans sa violence et sa viscéralité, à redécouvrir."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Plusieurs crimes sont perpétrés à New York sur des homosexuels adeptes de pratiques sado-masochistes. Steve Burns, un jeune policier, est chargé de l'enquête et doit, pour ce faire, infiltrer le milieu gay de Greenwich Village."
             }
           ]
         },
@@ -117,8 +179,12 @@
           "adaptation": "D'après le roman _Le Salaire de la peur_ de Georges Arnaud.",
           "textes": [
             {
+              "typeTexte": 1000,
+              "texte": "Après les succès de _French Connection_ et de _L'Exorciste_, Friedkin a carte blanche pour réaliser le remake du _Salaire de la peur_, projet insensé au tournage monumental qui, trois ans avant _La Porte du Paradis_, commence à entamer le crédit des cinéastes-démiurges. Échec cuisant au box-office (le film sort une semaine avant _La Guerre des étoiles_), _Le Convoi de la peur_ constitue une saisissante plongée au cœur des ténèbres, succession d'images chocs, où règnent la misère et le chaos. De sueur et de sang, porté par la musique envoûtante de Tangerine Dream, le film confronte Roy Scheider, et son camion chargé de nitroglycérine, à une jungle terrifiante et hostile. Mythique."
+            },
+            {
               "typeTexte": 9,
-              "texte": "Quatre hommes de nationalités différentes s'associent pour conduire un chargement de nitroglycérine à travers la jungle sud-américaine. Remake du _Salaire de la peur_."
+              "texte": "Quatre hommes de nationalités différentes s'associent pour conduire un chargement de nitroglycérine à travers la jungle sud-américaine."
             },
             {
               "typeTexte": 99,
@@ -156,45 +222,16 @@
           "adaptation": "D'après le roman _Le Salaire de la peur_ de Georges Arnaud.",
           "textes": [
             {
+              "typeTexte": 1000,
+              "texte": "Après les succès de _French Connection_ et de _L'Exorciste_, Friedkin a carte blanche pour réaliser le remake du _Salaire de la peur_, projet insensé au tournage monumental qui, trois ans avant _La Porte du Paradis_, commence à entamer le crédit des cinéastes-démiurges. Échec cuisant au box-office (le film sort une semaine avant _La Guerre des étoiles_), _Le Convoi de la peur_ constitue une saisissante plongée au cœur des ténèbres, succession d'images chocs, où règnent la misère et le chaos. De sueur et de sang, porté par la musique envoûtante de Tangerine Dream, le film confronte Roy Scheider, et son camion chargé de nitroglycérine, à une jungle terrifiante et hostile. Mythique."
+            },
+            {
               "typeTexte": 9,
-              "texte": "Quatre hommes de nationalités différentes s'associent pour conduire un chargement de nitroglycérine à travers la jungle sud-américaine. Remake du _Salaire de la peur_."
+              "texte": "Quatre hommes de nationalités différentes s'associent pour conduire un chargement de nitroglycérine à travers la jungle sud-américaine."
             },
             {
               "typeTexte": 99,
               "texte": "Restauré par Warner Bros, sous la supervision de William Friedkin. Distribué par la Rabbia"
-            }
-          ]
-        },
-        {
-          "idSeance": 122937,
-          "ordre": 1,
-          "dateHeure": "2024-04-24T18:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3252,
-          "idEvenement": 29902,
-          "typeEvenement": 13,
-          "idFilm": 31697,
-          "titre": "Cruising – La chasse",
-          "titreVo": "Cruising",
-          "realisateurs": "William Friedkin",
-          "annee": 1979,
-          "pays": "États-Unis",
-          "duree": 106,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Al Pacino",
-            "Paul Sorvino",
-            "Karen Allen"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Plusieurs crimes sont perpétrés à New York sur des homosexuels adeptes de pratiques sado-masochistes. Steve Burns, un jeune policier, est chargé de l'enquête et doit, pour ce faire, infiltrer le milieu gay de Greenwich Village."
             }
           ]
         },
@@ -211,7 +248,9 @@
           "idEvenement": 29986,
           "typeEvenement": 13,
           "idFilm": 83292,
-          "titre": "Deal of the Century",
+          "art": "Le",
+          "titre": "Coup du siècle",
+          "titreVo": "Deal of the Century",
           "realisateurs": "William Friedkin",
           "annee": 1983,
           "pays": "États-Unis",
@@ -223,7 +262,13 @@
             "Sigourney Weaver",
             "Gregory Hines"
           ],
-          "textes": []
+          "adaptation": "D'après le roman _Le Coup du siècle_ de Bernard Edelman.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "D'après le roman de Bernard Edelman, Friedkin imagine une comédie satirique sur un trafiquant d'armes pris au piège dans une importante vente de drones à une dictature américaine. La course à l'armement est abordée avec malice et décalage sous la forme d'une parodie incisive, où l'influence de _Docteur Folamour_ et _M*A*S*H_ n'est jamais bien loin."
+            }
+          ]
         },
         {
           "idSeance": 122984,
@@ -266,7 +311,12 @@
           "realisateurs": "William Friedkin",
           "annee": 1997,
           "pays": "États-Unis",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "40 ans après le film de Lumet, grand classique du film de procès, Friedkin s'essaie à l'exercice périlleux du remake, pour un résultat entièrement remanié et tourné en couleurs. L'adaptation littérale du texte met en valeur un héros tourmenté par sa responsabilité tandis qu'une ribambelle de stars hollywoodiennes (Jack Lemmon, George C. Scott) rencontre des figures emblématiques de séries (James Gandolfini, Tony Danza)."
+            }
+          ]
         },
         {
           "idSeance": 118661,
@@ -336,7 +386,7 @@
           "textes": [
             {
               "typeTexte": 1000,
-              "texte": "Un prêtre à la foi chancelante doit exorciser une adolescente possédée par Satan (Linda Blair, stupéfiante). Friedkin déploie toute sa maestria dans une mise en scène au cordeau, portée par le thème obsédant de Mike Oldfield. Derrière les scènes choc qui ont traumatisé des générations entières, l'affrontement osé entre Église et sexualité, doublé d'une parabole sur le mal, la folie et la culpabilité."
+              "texte": "Un prêtre à la foi chancelante doit exorciser une adolescente possédée par Satan (Linda Blair, stupéfiante). Friedkin déploie toute sa maestria dans une mise en scène au cordeau, portée par le thème obsédant de Mike Oldfield. Derrière les scènes choc qui ont traumatisé des générations entières, l'affrontement osé entre Église et sexualité, doublé d'une parabole sur le Mal, la folie et la culpabilité."
             },
             {
               "typeTexte": 9,
@@ -432,7 +482,12 @@
           "annee": 1969,
           "pays": "États-Unis",
           "adaptation": "D'après la pièce _The Boys in the Band_ de Mart Crowley.",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Les souvenirs et les sentiments d'un groupe d'amis homosexuels lors d'une soirée d'anniversaire dans un appartement new yorkais des seventies. Loin des pièges du théâtre filmé, Friedkin adapte la pièce de Mart Crowley et révolutionne la représentation trop rare pour l'époque de la communauté gay au cinéma. Un portrait admirable, humain et sans fausse pudeur."
+            }
+          ]
         },
         {
           "idSeance": 118568,
@@ -451,7 +506,12 @@
           "realisateurs": "William Friedkin",
           "annee": 1967,
           "pays": "États-Unis",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Venu du documentaire et de la télévision, Friedkin signe ses débuts au cinéma avec un film à sketches intégralement construit à la gloire de Sonny & Cher. Piraterie, western, préhistoire et gangsters : une comédie musicale au scénario ubuesque, inspirée par _Help!_ et _A Hard Day's Night_."
+            }
+          ]
         },
         {
           "idSeance": 116842,
@@ -478,7 +538,12 @@
             "Chazz Palminteri",
             "Linda Fiorentino"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Un thriller érotique sous influence (_Basic Instinct_), qui voit un riche collectionneur amateur de prostituées assassiné dans de sombres circonstances. Sexualité, perversion et corruption s'enchevêtrent dans une sanglante histoire de mœurs, soutenue par la prestation de Linda Fiorentino, aussi séduisante que machiavélique."
+            }
+          ]
         },
         {
           "idSeance": 117224,
@@ -506,7 +571,12 @@
             "Juno Temple"
           ],
           "adaptation": "D'après la pièce de théâtre _Killer Joe_ de Tracy Letts.",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Un dealer à la manque, endetté jusqu'au cou, orchestre le meurtre de sa mère pour toucher son assurance-vie. Revenu du néant, Matthew McConaughey compose un magnétique flic-tueur à gages et électrise un polar rageur, peuplé de personnages white trash, qui oscille entre la comédie noire au grand-guignol assumé et la série B cynique."
+            }
+          ]
         },
         {
           "idSeance": 122983,
@@ -534,7 +604,12 @@
             "Britt Ekland"
           ],
           "adaptation": "D'après le roman _The Night they raided Minsky's_ de Rowland Barber.",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Une Amish s'extirpe d'un milieu puritain pour intégrer celui d'un cabaret burlesque en pleine Amérique de la prohibition. Friedkin embrasse un sujet piquant et caustique – l'invention du strip-tease – au moyen d'une mise en scène enlevée en caméra portée, qui colle à sa volonté d'immersion."
+            }
+          ]
         },
         {
           "idSeance": 117032,
@@ -563,7 +638,12 @@
             "Jenny Seagrove",
             "Dwier Brown"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Le retour de Friedkin vers le drame horrifique, dix-sept ans après _L'Exorciste_. Violent et réaliste, _La Nurse_ s'appuie sur des faits authentiques, notamment la propre expérience du cinéaste avec l'une des nourrices de son fils. Une catharsis aux scènes de suspense efficaces, avec rites ancestraux, sacrifices et arbre de vie dévoreur d'enfants."
+            }
+          ]
         },
         {
           "idSeance": 116756,
@@ -579,14 +659,19 @@
           "typeEvenement": 13,
           "idFilm": 129907,
           "art": "The",
-          "titre": "People vs. Paul Crump TV",
+          "titre": "People vs. Paul Crump",
           "realisateurs": "William Friedkin",
           "annee": 1962,
           "pays": "États-Unis",
           "duree": 59,
           "version": "VO",
           "format": "16 mm",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "« Paul a eu sa liberté, j'ai eu ma carrière. » Paul Crump, un Afro-Américain condamné à mort attend son exécution depuis neuf ans dans une prison de l'Illinois. Persuadé de son innocence, Friedkin s'empare de cette affaire qui a défrayé la chronique, en choisissant de réévaluer le dossier et de montrer les failles de l'enquête policière. Avec rigueur, passion et investissement, il utilise le documentaire comme un révélateur – la peine sera finalement commuée en prison à vie –, une manière de donner la parole au condamné, et cite déjà une succession de prestigieuses références, de Walsh à Welles."
+            }
+          ]
         },
         {
           "idSeance": 118479,
@@ -618,6 +703,10 @@
           "adaptation": "D'après son roman _To Live and Die in L.A._ de Gerald Petievich.",
           "textes": [
             {
+              "typeTexte": 1000,
+              "texte": "Friedkin adapte le roman de Gerald Petievich, _Voir Los Angeles et mourir_, et suit les enquêtes de deux flics confrontés à la corruption. Aujourd'hui considéré comme un polar de référence, le film entremêle trahisons et vengeance dans un Los Angeles déroutant, tout en néons et terrains vagues. Propulsé par l'enivrante bande son de Wang Chung et un montage épatant de fluidité, le style de Friedkin impressionne par son ampleur et sa créativité."
+            },
+            {
               "typeTexte": 99,
               "texte": "Le projet de la restauration de Police Fédérale Los Angeles a été initié par Arrow Films au Royaume-Uni. Le négatif original 35mm a été scanné en 4K à Deluxe Media in Burbank puis converti en 2K pour réaliser la correction colorimétrique supervisée par William Friedkin, ainsi que le processus de restauration numérique."
             }
@@ -645,7 +734,12 @@
           "duree": 0,
           "version": "VO",
           "format": "",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "L'affaire du « Vampire de Sacramento », un tueur en série aux tendances sanguinaires et cannibales, relue par Friedkin. Par le biais de ce personnage troublant, le cinéaste transforme une histoire glaçante en thriller judiciaire poisseux, qui interroge la peine de mort et remet en cause les valeurs morales."
+            }
+          ]
         },
         {
           "idSeance": 118445,
@@ -669,7 +763,12 @@
           "duree": 97,
           "version": "VOSTF",
           "format": "35 mm",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "L'affaire du « Vampire de Sacramento », un tueur en série aux tendances sanguinaires et cannibales, relue par Friedkin. Par le biais de ce personnage troublant, le cinéaste transforme une histoire glaçante en thriller judiciaire poisseux, qui interroge la peine de mort et remet en cause les valeurs morales."
+            }
+          ]
         },
         {
           "idSeance": 118457,
@@ -688,7 +787,12 @@
           "realisateurs": "William Friedkin",
           "annee": 2023,
           "pays": "France",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "70 ans après _Ouragan sur le Caine_ (l'un des derniers rôles d'Humphrey Bogart), Friedkin adapte à son tour le roman d'Herman Wouk, qu'il transpose dans le contexte brûlant du Moyen-Orient post-11 septembre. Le dernier long métrage du cinéaste, film de procès captivant, présenté à Venise 2023 à titre posthume, et toujours inédit en salles."
+            }
+          ]
         },
         {
           "idSeance": 118579,
@@ -717,7 +821,12 @@
             "Benicio Del Toro",
             "Connie Nielsen"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Une chasse à l'homme haletante, un _survival_ sur le conditionnement et la déshumanisation. De poursuites automobiles en duels serrés, le cinéaste revisite ses classiques – une magistrale séquence de métro aérien – pendant que Tommy Lee Jones promène son regard désenchanté aux côtés de Benicio del Toro, formidable en soldat trahi."
+            }
+          ]
         },
         {
           "idSeance": 117031,
@@ -746,7 +855,12 @@
             "Peter Boyle"
           ],
           "adaptation": "D'après le roman _Big Stick-Up at Brink's_ de Noel Behn.",
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Passée l'expérience chaotique du _Convoi de la peur_, Friedkin renoue avec Hollywood grâce à une comédie hilarante sur le mythique hold-up de la Brink's. Alors qu'il reprend les codes du film de gangster, le cinéaste joue la carte de la dérision et de l'humour pour brosser le portrait d'un groupe de bandits à la petite semaine, emmené par l'inénarrable Peter Falk."
+            }
+          ]
         }
       ],
       "textes": []

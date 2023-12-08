@@ -6,7 +6,22 @@
     "duree": 60,
     "idTypeConference": 55,
     "typeConference": "Conférence",
-    "sousTitre": "Conférence "
+    "intervenants": [
+      {
+        "nomComplet": "James Cameron",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Frédéric Bonnaud",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
+      }
+    ],
+    "sousTitre": "Conférence ",
+    "mentionAnimation": "Animé par Frédéric Bonnaud"
   },
   {
     "idCategorie": 3264,
@@ -14,6 +29,21 @@
     "titre": "Film + dialogue avec Julien Dupuis et Stephane Moïssakis",
     "duree": 60,
     "idTypeConference": 16,
-    "typeConference": "Dialogue"
+    "typeConference": "Dialogue",
+    "intervenants": [
+      {
+        "nomComplet": "Julien Dupuis",
+        "idFonction": 142,
+        "fonction": "Interviewé",
+        "ordre": 2
+      },
+      {
+        "nomComplet": "Bernard Benoliel",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 1
+      }
+    ],
+    "mentionAnimation": "Animé par Bernard Benoliel"
   }
 ]
