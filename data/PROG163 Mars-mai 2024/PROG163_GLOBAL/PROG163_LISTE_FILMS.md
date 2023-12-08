@@ -13,13 +13,15 @@
   * Desperate  
   * Dr. Broadway  
   * Du sang dans le désert  
+  * Engrenage fatal (L')  
+  * Esprit pervers (L')  
   * Furies (Les)  
-  * Grand attentat (La)  
+  * Grand Attentat (Le)  
   * Héros de Télémark (Les)  
   * Homme de l'Ouest (L')  
   * Homme de la plaine (L')  
-  * Il marchait la nuit  
-  * Incidents de frontière  
+  * Il marchait dans la nuit  
+  * Incident de frontière  
   * Je suis un aventurier  
   * Le Cid  
   * Livre noir (Le)  
@@ -30,14 +32,12 @@
   * Petit arpent du bon Dieu (Le)  
   * Port des passions (Le)  
   * Porte du diable (La)  
-  * Railroaded  
   * Romance inachevée  
   * Rue de la mort (La)  
   * Ruée vers l'Ouest (La)  
   * Serenade  
   * Sing Your Way Home  
   * Strange Impersonation  
-  * Strangers in the Night  
   * Strategic Air Command  
   * Two O'clock Courage  
   * Winchester '73
@@ -327,7 +327,7 @@
   * Convoi de la peur (Le)  
   * Coup du siècle (Le)  
   * Devil and Father Amorth (The)  
-  * Douze hommes en colère  
+  * Douze Hommes en colère  
   * Enfer du devoir (L')  
   * Exorciste (L')  
   * French Connection  
@@ -335,12 +335,12 @@
   * Good Times  
   * Jade  
   * Killer Joe  
-  * Night They Raided Minsky's (The)  
   * Nurse (La)  
   * People vs. Paul Crump (The)  
-  * Police fédérale Los Angeles  
+  * Police fédérale, Los Angeles  
   * Sang du Châtiment : Director's Cut (Le)  
   * Sang du châtiment (Le)  
-  * Têtes vides cherchent coffre plein  
+  * Strip-tease chez Minsky  
+  * Têtes vides cherchent coffres pleins  
   * The Caine Mutiny Court-Martial  
   * Traqué  
