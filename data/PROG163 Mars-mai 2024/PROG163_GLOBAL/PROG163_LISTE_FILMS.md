@@ -7,11 +7,11 @@
   * Bamboo Blonde (The)  
   * Brigade du suicide (La)  
   * Charge des tuniques bleues (La)  
-  * Chute de l'empire romain (La)  
+  * Chute de l'Empire romain (La)  
   * Cible vivante (La)  
+  * Clair de lune à La Havane  
   * Cote 465  
   * Desperate  
-  * Dr. Broadway  
   * Du sang dans le désert  
   * Engrenage fatal (L')  
   * Esprit pervers (L')  
@@ -27,9 +27,9 @@
   * Livre noir (Le)  
   * Maldonne pour un espion  
   * Marché de brutes  
-  * Moonlight in Havana  
   * My Best Gal  
-  * Petit arpent du bon Dieu (Le)  
+  * Mystérieux Docteur Broadway (Le)  
+  * Petit Arpent du bon Dieu (Le)  
   * Port des passions (Le)  
   * Porte du diable (La)  
   * Romance inachevée  
@@ -39,7 +39,7 @@
   * Sing Your Way Home  
   * Strange Impersonation  
   * Strategic Air Command  
-  * Two O'clock Courage  
+  * Two O'Clock Courage  
   * Winchester '73
 
 ## Aujourd'hui le cinéma (12)
@@ -99,12 +99,10 @@
   * Titanic  
   * True Lies
 
-## Kenji Misumi (52)
+## Kenji Misumi (50)
 
   * Baby Cart : Dans la terre de l'ombre  
-  * Baby Cart : L'Enfant massacre  
   * Baby Cart : Le Sabre de la vengeance  
-  * Baby Cart : Le Territoire des démons  
   * Bouddha  
   * Brassard noir dans la neige  
   * Carnets de route de Mito Komon (Les)  
@@ -227,8 +225,8 @@
   * Annie du Klondike  
   * Ce n'est pas un péché  
   * Fifi peau de pêche  
-  * Go West Young Man  
-  * Heat's On (The)  
+  * Go West, Young Man  
+  * Heat's on (The)  
   * Je ne suis pas un ange  
   * Je veux être une lady  
   * Lady Lou  
