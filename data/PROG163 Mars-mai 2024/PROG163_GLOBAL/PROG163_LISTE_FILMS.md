@@ -106,14 +106,14 @@
   * Baby Cart : Le Territoire des démons  
   * Bouddha  
   * Brassard noir dans la neige  
-  * Carnets de route de Mito Komon (Les)  
+  * Carnets de route de Mito Kōmon (Les)  
   * Carnets secrets de Senbazuru (Les)  
   * Chroniques du Shinsengumi (Les)  
-  * Combat de Kyoshiro Nemuri (Le)  
+  * Combat de Kyōshirō Nemuri (Le)  
   * Combinards des pompes funèbres (Les)  
   * Courtisane et l'Assassin (La)  
   * Démon du chateau de Sendai (Le)  
-  * Derniers Samouraïs (Les)  
+  * Derniers samouraïs (Les)  
   * Deux Gardes du corps (Les)  
   * Deux sœurs mélancoliques à Kyoto  
   * Enfant renard (L')  
@@ -134,8 +134,8 @@
   * Légende de Zatoichi : Voyage en enfer (La)  
   * Légende de Zatoichi : Voyage meurtrier (La)  
   * Lignée d'une femme (La)  
-  * Momotaro le Samouraï  
-  * Nemuri Kyōshirō : le sabreur et les pirates  
+  * Momotaro le samouraï  
+  * Nemuri Kyōshirō : Le Sabreur et les pirates  
   * Nouvelles Aventures de la joueuse (Les)  
   * Okuma Shigenobu le grand  
   * Palais de la princesse Sen (Le)  
