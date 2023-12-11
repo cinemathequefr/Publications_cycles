@@ -99,10 +99,11 @@
   * Titanic  
   * True Lies
 
-## Kenji Misumi (50)
+## Kenji Misumi (51)
 
   * Baby Cart : Dans la terre de l'ombre  
   * Baby Cart : Le Sabre de la vengeance  
+  * Baby Cart : Le Territoire des démons  
   * Bouddha  
   * Brassard noir dans la neige  
   * Carnets de route de Mito Komon (Les)  
