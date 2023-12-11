@@ -117,11 +117,11 @@
   * Deux Gardes du corps (Les)  
   * Deux sœurs mélancoliques à Kyoto  
   * Enfant renard (L')  
-  * Epée errante (L')  
+  * Épée errante (L')  
   * Famille matrilinéaire (La)  
   * Fantôme de Yotsuya (Le)  
   * Gompachi au chapeau  
-  * Hanzo the Razor – Sword of Justice  
+  * Hanzo the Razor: Sword of Justice  
   * Homme au pousse-pousse (L')  
   * Inspecteur du Shogun (L')  
   * Jirokichi le rat  
