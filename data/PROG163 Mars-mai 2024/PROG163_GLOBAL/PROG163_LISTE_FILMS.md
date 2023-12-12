@@ -99,9 +99,10 @@
   * Titanic  
   * True Lies
 
-## Kenji Misumi (51)
+## Kenji Misumi (52)
 
   * Baby Cart : Dans la terre de l'ombre  
+  * Baby Cart : L'Enfant massacre  
   * Baby Cart : Le Sabre de la vengeance  
   * Baby Cart : Le Territoire des démons  
   * Bouddha  
