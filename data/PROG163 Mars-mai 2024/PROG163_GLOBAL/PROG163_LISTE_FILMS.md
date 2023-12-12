@@ -127,12 +127,12 @@
   * Jirokichi le rat  
   * Komako, fille unique de la maison Shiroko  
   * Lame diabolique (La)  
-  * Légende de Zatoichi : Le Masseur aveugle (La)  
-  * Légende de Zatoichi : Le Shogun de l'ombre (La)  
-  * Légende de Zatoichi : Les Tambours de la colère (La)  
-  * Légende de Zatoichi : Route sanglante (La)  
-  * Légende de Zatoichi : Voyage en enfer (La)  
-  * Légende de Zatoichi : Voyage meurtrier (La)  
+  * Légende de Zatōichi : Le Masseur aveugle (La)  
+  * Légende de Zatōichi : Le Shogun de l'ombre (La)  
+  * Légende de Zatōichi : Les Tambours de la colère (La)  
+  * Légende de Zatōichi : Route sanglante (La)  
+  * Légende de Zatōichi : Voyage en enfer (La)  
+  * Légende de Zatōichi : Voyage meurtrier (La)  
   * Lignée d'une femme (La)  
   * Momotaro le samouraï  
   * Nemuri Kyōshirō : Le Sabreur et les pirates  
