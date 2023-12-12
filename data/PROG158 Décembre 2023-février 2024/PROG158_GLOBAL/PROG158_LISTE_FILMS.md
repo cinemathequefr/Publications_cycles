@@ -337,7 +337,7 @@
   * Sorcellerie à travers les âges (La)  
   * Zombie
 
-## Ma petite Cinémathèque (26)
+## Ma petite Cinémathèque (27)
 
   * Aventure de madame Muir (L')  
   * Belle et le Clochard (La)  
@@ -358,6 +358,7 @@
   * Montagnards sont là (Les)  
   * Panique au village : La Course cycliste  
   * Père et fille  
+  * Pluto au zoo  
   * Qu'elle était verte ma vallée  
   * Rue Cases-Nègres  
   * Serpent blanc (Le)  
@@ -427,11 +428,10 @@
   * Vingt Mille Lieues sous les mers  
   * Voyage fantastique (Le)
 
-## Roberto Rossellini (38)
+## Roberto Rossellini (37)
 
   * Âge de Cosme de Médicis (L')  
   * Allemagne année zéro  
-  * Âme noire (L')  
   * Amore  
   * Amours d'une moitié de siècle  
   * An un (L')  

@@ -2076,9 +2076,7 @@
         "art": "La",
         "realisateurs": "Jack Arnold",
         "annee": 1959,
-        "duree": 83,
-        "version": "VO",
-        "format": "35 mm"
+        "duree": 83
       }
     ],
     "hashEvenement": "f44978"
@@ -3411,10 +3409,7 @@
         "idFilm": 83888,
         "titre": "Good Times",
         "realisateurs": "William Friedkin",
-        "annee": 1967,
-        "duree": 91,
-        "version": "VO",
-        "format": "35 mm"
+        "annee": 1967
       }
     ],
     "hashEvenement": "f83888"
@@ -4312,7 +4307,8 @@
         "realisateurs": "William Friedkin",
         "annee": 2020,
         "duree": 69,
-        "version": "VO"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f154697"
@@ -4326,6 +4322,10 @@
       [
         "Kenji Misumi",
         "Baby Cart"
+      ],
+      [
+        "Kenji Misumi",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -4333,13 +4333,19 @@
         "idFilm": 74297,
         "titre": "Baby Cart : Dans la terre de l'ombre",
         "realisateurs": "Kenji Misumi",
-        "annee": 1972,
+        "annee": 1973,
         "duree": 89,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 30000,
+        "titre": "Dialogue avec Jean-François Rauger et Fabrice Arduini",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f74297"
+    "hashEvenement": "f74297c30000"
   },
   {
     "idSeance": 117031,
@@ -4364,27 +4370,6 @@
       }
     ],
     "hashEvenement": "f32902"
-  },
-  {
-    "idSeance": 118586,
-    "idEvenement": 30000,
-    "dateHeure": "2024-04-27T15:59:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Kenji Misumi",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 30000,
-        "titre": "Dialogue avec Jean-François Rauger et Fabrice Arduini",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c30000"
   },
   {
     "idSeance": 117032,
@@ -4426,7 +4411,7 @@
         "idFilm": 74297,
         "titre": "Baby Cart : Dans la terre de l'ombre",
         "realisateurs": "Kenji Misumi",
-        "annee": 1972,
+        "annee": 1973,
         "duree": 89,
         "version": "VOSTF",
         "format": "35 mm"
@@ -4571,7 +4556,7 @@
         "idFilm": 74298,
         "titre": "Baby Cart : Le Territoire des démons",
         "realisateurs": "Kenji Misumi",
-        "annee": 1973,
+        "annee": 1974,
         "duree": 89,
         "version": "VOSTF",
         "format": "35 mm"
@@ -4643,8 +4628,7 @@
         "titre": "Garçons de la bande",
         "art": "Les",
         "realisateurs": "William Friedkin",
-        "annee": 1969,
-        "duree": 119
+        "annee": 1969
       }
     ],
     "hashEvenement": "f32900"
@@ -4689,9 +4673,7 @@
         "idFilm": 129900,
         "titre": "Douze Hommes en colère",
         "realisateurs": "William Friedkin",
-        "annee": 1997,
-        "duree": 117,
-        "version": "VO"
+        "annee": 1997
       }
     ],
     "hashEvenement": "f129900"
@@ -5639,7 +5621,7 @@
         "idFilm": 90640,
         "titre": "Tuer",
         "realisateurs": "Kenji Misumi",
-        "annee": 1962,
+        "annee": 1963,
         "duree": 71,
         "version": "VOSTF",
         "format": "DCP"
@@ -6979,8 +6961,8 @@
     "hashEvenement": "f114070"
   },
   {
-    "idSeance": 123077,
-    "idEvenement": 30246,
+    "idSeance": 117753,
+    "idEvenement": 29914,
     "dateHeure": "2024-05-24T19:30:00",
     "salle": "GF",
     "cycle": [
@@ -6991,15 +6973,15 @@
     ],
     "items": [
       {
-        "idFilm": 149847,
-        "titre": "Suzanna Andler",
-        "realisateurs": "Benoît Jacquot",
-        "annee": 2019,
+        "idFilm": 45323,
+        "titre": "Moderato cantabile",
+        "realisateurs": "Peter Brook",
+        "annee": 1960,
         "duree": 91,
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f149847"
+    "hashEvenement": "f45323"
   },
   {
     "idSeance": 122916,
@@ -7104,30 +7086,6 @@
       }
     ],
     "hashEvenement": "f154623"
-  },
-  {
-    "idSeance": 117798,
-    "idEvenement": 29211,
-    "dateHeure": "2024-05-25T15:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Marguerite Duras",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 53242,
-        "titre": "Dialogue de Rome",
-        "realisateurs": "Marguerite Duras",
-        "annee": 1982,
-        "duree": 62,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f53242"
   },
   {
     "idSeance": 122917,
@@ -7392,9 +7350,9 @@
     "hashEvenement": "f154601"
   },
   {
-    "idSeance": 123078,
-    "idEvenement": 29914,
-    "dateHeure": "2024-05-27T17:00:00",
+    "idSeance": 118652,
+    "idEvenement": 29211,
+    "dateHeure": "2024-05-27T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7404,15 +7362,16 @@
     ],
     "items": [
       {
-        "idFilm": 45323,
-        "titre": "Moderato cantabile",
-        "realisateurs": "Peter Brook",
-        "annee": 1960,
-        "duree": 91,
-        "format": "35 mm"
+        "idFilm": 53242,
+        "titre": "Dialogue de Rome",
+        "realisateurs": "Marguerite Duras",
+        "annee": 1982,
+        "duree": 62,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f45323"
+    "hashEvenement": "f53242"
   },
   {
     "idSeance": 118537,

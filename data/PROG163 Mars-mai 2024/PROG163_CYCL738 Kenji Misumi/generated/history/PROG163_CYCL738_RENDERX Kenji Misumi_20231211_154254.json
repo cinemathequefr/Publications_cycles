@@ -1259,7 +1259,7 @@
               "titreVo": "Kiru",
               "realisateurs": "Kenji Misumi",
               "pays": "Japon",
-              "annee": 1962,
+              "annee": 1963,
               "duree": 71,
               "version": "VOSTF",
               "format": "DCP",
@@ -1349,38 +1349,57 @@
       "titreSousCycle": "Baby Cart",
       "items": [
         {
-          "idFilm": 74297,
-          "content": [
+          "groupe": [
             {
               "idFilm": 74297,
-              "ordre": 1,
-              "titre": "Baby Cart : Dans la terre de l'ombre",
-              "titreVo": "Kozure Ōkami: Shinikazeni mukau ubaguruma",
-              "realisateurs": "Kenji Misumi",
-              "pays": "Japon",
-              "annee": 1972,
-              "duree": 89,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le manga _Lone Wolf and Cub_ de Kazuo Koike et Goseki Kojima.",
-              "generique": [
-                "Tomisaburō Wakayama",
-                "Akihiro Tomikawa",
-                "Gō Katō"
-              ],
-              "miniTexte": "Moins exubérant que les deux premiers volets de la saga, _Dans la terre de l'ombre_ reste un chanbara de haute volée, émaillé de plusieurs scènes avec des armes à feu, qui sont autant de tributs au western italien, dont s'inspire en partie Misumi. Tomisaburo Wakayama, toujours aussi imposant, fait entrer encore davantage son personnage dans la légende, notamment lors d'un final épique à la virtuosité renversante, qui le voit se défaire d'une armée d'une centaine d'hommes."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 118539,
-              "dateHeure": "2024-04-27T14:30:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 74297,
+                  "ordre": 1,
+                  "titre": "Baby Cart : Dans la terre de l'ombre",
+                  "titreVo": "Kozure Ōkami: Shinikazeni mukau ubaguruma",
+                  "realisateurs": "Kenji Misumi",
+                  "pays": "Japon",
+                  "annee": 1973,
+                  "duree": 89,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le manga _Lone Wolf and Cub_ de Kazuo Koike et Goseki Kojima.",
+                  "generique": [
+                    "Tomisaburō Wakayama",
+                    "Akihiro Tomikawa",
+                    "Gō Katō"
+                  ],
+                  "miniTexte": "Moins exubérant que les deux premiers volets de la saga, _Dans la terre de l'ombre_ reste un chanbara de haute volée, émaillé de plusieurs scènes avec des armes à feu, qui sont autant de tributs au western italien, dont s'inspire en partie Misumi. Tomisaburo Wakayama, toujours aussi imposant, fait entrer encore davantage son personnage dans la légende, notamment lors d'un final épique à la virtuosité renversante, qui le voit se défaire d'une armée d'une centaine d'hommes."
+                }
+              ]
             },
             {
-              "idSeance": 123035,
-              "dateHeure": "2024-04-27T18:30:00",
-              "idSalle": "HL"
+              "idEvenement": 30000,
+              "content": [
+                {
+                  "idConf": 30000,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-François Rauger et Fabrice Arduini",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 118539,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-04-27T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 118539,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 123035,
+                  "dateHeure": "2024-04-27T18:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -1425,7 +1444,7 @@
               "titreVo": "Kozure Ōkami: Meifumadō",
               "realisateurs": "Kenji Misumi",
               "pays": "Japon",
-              "annee": 1973,
+              "annee": 1974,
               "duree": 89,
               "version": "VOSTF",
               "format": "35 mm",
@@ -1641,29 +1660,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30000,
-          "content": [
-            {
-              "idConf": 30000,
-              "titre": "Dialogue avec Jean-François Rauger et Fabrice Arduini",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 118586,
-              "dateHeure": "2024-04-27T15:59:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -1676,8 +1672,9 @@
     ],
     "Dialogue": [
       {
+        "titreFilms": "Baby Cart : Dans la terre de l'ombre",
         "mention": "avec Jean-François Rauger et Fabrice Arduini",
-        "dateHeure": "2024-04-27T15:59:00"
+        "dateHeure": "2024-04-27T14:30:00"
       }
     ]
   }
