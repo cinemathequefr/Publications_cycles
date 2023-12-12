@@ -123,8 +123,8 @@
   * Gompachi au chapeau  
   * Hanzo the Razor: Sword of Justice  
   * Homme au pousse-pousse (L')  
-  * Inspecteur du Shogun (L')  
-  * Jirokichi le rat  
+  * Inspecteur du Shōgun (L')  
+  * Jirōkichi le rat  
   * Komako, fille unique de la maison Shiroko  
   * Lame diabolique (La)  
   * Légende de Zatōichi : Le Masseur aveugle (La)  
@@ -134,10 +134,10 @@
   * Légende de Zatōichi : Voyage en enfer (La)  
   * Légende de Zatōichi : Voyage meurtrier (La)  
   * Lignée d'une femme (La)  
-  * Momotaro le samouraï  
+  * Momotarō le samouraï  
   * Nemuri Kyōshirō : Le Sabreur et les pirates  
   * Nouvelles Aventures de la joueuse (Les)  
-  * Okuma Shigenobu le grand  
+  * Ōkuma Shigenobu le grand  
   * Palais de la princesse Sen (Le)  
   * Passage du grand Bouddha (Le)  
   * Passage du grand Boudha II (Le)  
