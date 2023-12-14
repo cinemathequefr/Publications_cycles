@@ -5,6 +5,40 @@
       "tri": 1,
       "items": [
         {
+          "idSeance": 123119,
+          "ordre": 1,
+          "dateHeure": "2024-03-13T18:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3238,
+          "idEvenement": 30024,
+          "typeEvenement": 13,
+          "idFilm": 49283,
+          "art": "Les",
+          "titre": "Ailes de la colombe",
+          "realisateurs": "Benoît Jacquot",
+          "annee": 1980,
+          "pays": "France-Italie",
+          "duree": 92,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Isabelle Huppert",
+            "Dominique Sanda",
+            "Michele Placido"
+          ],
+          "adaptation": "D'après le roman _Les Ailes de la colombe_ de Henry James.",
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Le scan 4K a été fait en Italie par Augustus Color, la restauration chez Hiventy et l'étalonnage avec Benoit Jacquot et Caroline Champetier. Cette nouvelle restauration a été validée par le réalisateur du film."
+            }
+          ]
+        },
+        {
           "idSeance": 118307,
           "ordre": 1,
           "dateHeure": "2024-03-16T14:00:00",
@@ -30,6 +64,29 @@
               "texte": "Aloïse Corbaz, artiste Suisse qui découvrit la peinture à l'asile, fut internée à la déclaration de la Grande Guerre qui ébranla sa vie et sa santé mentale."
             }
           ]
+        },
+        {
+          "idSeance": 123092,
+          "ordre": 1,
+          "dateHeure": "2024-03-16T16:45:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3238,
+          "idEvenement": 30219,
+          "typeEvenement": 13,
+          "idFilm": 154717,
+          "art": "La",
+          "titre": "Bestia debe morir",
+          "realisateurs": "Román Viñoly Barreto",
+          "annee": 1952,
+          "pays": "Argentine",
+          "duree": 95,
+          "version": "VOSTF",
+          "format": "DCP",
+          "textes": []
         },
         {
           "idSeance": 118305,
@@ -89,6 +146,45 @@
           "textes": []
         },
         {
+          "idSeance": 123120,
+          "ordre": 1,
+          "dateHeure": "2024-03-15T14:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 165,
+          "idCategorie": 3238,
+          "idEvenement": 30034,
+          "typeEvenement": 13,
+          "idFilm": 42963,
+          "titre": "Croix de fer",
+          "titreVo": "Cross of Iron",
+          "realisateurs": "Sam Peckinpah",
+          "annee": 1976,
+          "pays": "Grande-Bretagne-RFA",
+          "duree": 130,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "James Coburn",
+            "Maximilian Schell",
+            "James Mason",
+            "David Warner"
+          ],
+          "adaptation": "D'après le roman _La Peau des hommes_ de Willi Heinrich.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le Major Steiner, soldat d'élite de la Wermacht sur le front de l'Est s'oppose à un supérieur couard et avide de gloire."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Cette restauration a été produite par STUDIOCANAL en 2023 à partir du négatif original 35mm. Scan en 4K et étalonnage par Silver Salt Restoration (Royaume-Uni)."
+            }
+          ]
+        },
+        {
           "idSeance": 118324,
           "ordre": 1,
           "dateHeure": "2024-03-17T16:30:00",
@@ -102,7 +198,7 @@
           "typeEvenement": 13,
           "idFilm": 43628,
           "titre": "Enamorada",
-          "realisateurs": "Emilio Fernandez",
+          "realisateurs": "Emilio Fernández",
           "annee": 1946,
           "pays": "Mexique",
           "duree": 99,
@@ -733,29 +829,6 @@
               "texte": "Restauration 4K par CHUO EIGABOEKI CO., LTD. Distribution Survivance."
             }
           ]
-        },
-        {
-          "idSeance": 123092,
-          "ordre": 1,
-          "dateHeure": "2024-03-16T16:45:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 3238,
-          "idEvenement": 30219,
-          "typeEvenement": 13,
-          "idFilm": 154717,
-          "art": "La",
-          "titre": "bestia debe morir",
-          "realisateurs": "Roman Viñoly Barreto",
-          "annee": 1952,
-          "pays": "Argentine",
-          "duree": 95,
-          "version": "VOSTF",
-          "format": "DCP",
-          "textes": []
         }
       ],
       "textes": []

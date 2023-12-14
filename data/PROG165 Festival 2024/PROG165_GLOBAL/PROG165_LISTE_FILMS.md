@@ -1,9 +1,11 @@
 # Liste des films par cycle
 
-## Jacques Deray (2)
+## Jacques Deray (4)
 
   * Par un beau matin d'été  
-  * Rififi à Tokyo
+  * Rififi à Tokyo  
+  * Symphonie pour un massacre  
+  * Un papillon sur l'épaule
 
 ## Machiko Kyō (4)
 
@@ -12,17 +14,19 @@
   * Rashōmon  
   * Rue de la honte (La)
 
-## Nancy Savoca (2)
+## Nancy Savoca (3)
 
   * Dogfight  
+  * Households Saints  
   * True Love
 
-## Peter Weir (6)
+## Peter Weir (7)
 
   * Cercle des poètes disparus (Le)  
   * Dernière vague (La)  
   * Master and Commander : De l'autre côté du monde  
   * Picnic à Hanging Rock  
+  * Swimmer (The)  
   * Truman Show (The)  
   * Witness
 
@@ -31,12 +35,14 @@
   * Conte cruel  
   * Fièvre
 
-## Restaurations et incunables (26)
+## Restaurations et incunables (28)
 
+  * Ailes de la colombe (Les)  
   * Aloïse  
-  * bestia debe morir (La)  
+  * Bestia debe morir (La)  
   * Collateral  
   * Comédiennes  
+  * Croix de fer  
   * Enamorada  
   * Judex, épisode 1 : L'Ombre mystérieuse  
   * Judex, épisode 10 : Le Cœur de Jacqueline  
@@ -60,23 +66,31 @@
   * Toute une nuit  
   * Typhoon club
 
-## Sadao Yamanaka (3)
+## Sadao Yamanaka (4)
 
+  * Kôchiyama Sôshun  
   * Nezumikozō Jirokichi  
   * Pauvres humains et ballons de papier  
   * Pot d'un million de yens = Tange Sazen et le pot d'un million de ryôs (Le)
 
-## UCLA Film and Television Archive (12)
+## UCLA Film and Television Archive (19)
 
   * Annihilation of Fish (The)  
   * Chasseurs de salut (Les)  
   * Enfer de la corruption (L')  
+  * Flash Gordin – In the Claws of the Tigron  
   * Flash Gordon – Battling the Sea Beast  
   * Flash Gordon – Captured by Shark Men  
+  * Flash Gordon – Fighting the Fire Dragon  
   * Flash Gordon – Flaming Torture  
   * Flash Gordon – La Planète maudite  
   * Flash Gordon – Le Tunnel de la terreur  
+  * Flash Gordon – Rocketing to Earth  
+  * Flash Gordon – Shattering Doom  
   * Flash Gordon – The Destroying Ray  
+  * Flash Gordon – The Unseen Peril  
+  * Flash Gordon – Tournament of Death  
+  * Flash Gordon – Trapped in the Turret  
   * I, the Jury  
   * Mortal Storm  
   * Vampiro negro (El)  
