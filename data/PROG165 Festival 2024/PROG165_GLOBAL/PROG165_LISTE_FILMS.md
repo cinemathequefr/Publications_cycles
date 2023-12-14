@@ -7,6 +7,10 @@
   * Symphonie pour un massacre  
   * Un papillon sur l'épaule
 
+## Judit Elek (1)
+
+  * Dame de Constantinople (La)
+
 ## Machiko Kyō (4)
 
   * Contes de la lune vague après la pluie (Les)  
@@ -35,15 +39,18 @@
   * Conte cruel  
   * Fièvre
 
-## Restaurations et incunables (28)
+## Restaurations et incunables (31)
 
   * Ailes de la colombe (Les)  
   * Aloïse  
+  * Alphaville, une étrange aventure de Lemmy Caution  
   * Bestia debe morir (La)  
   * Collateral  
   * Comédiennes  
   * Croix de fer  
   * Enamorada  
+  * Esqueleto de la señora Morales (El)  
+  * Homme K (L')  
   * Judex, épisode 1 : L'Ombre mystérieuse  
   * Judex, épisode 10 : Le Cœur de Jacqueline  
   * Judex, épisode 11 : L'Ondine  
@@ -73,11 +80,10 @@
   * Pauvres humains et ballons de papier  
   * Pot d'un million de yens = Tange Sazen et le pot d'un million de ryôs (Le)
 
-## UCLA Film and Television Archive (19)
+## UCLA Film and Television Archive (18)
 
   * Annihilation of Fish (The)  
   * Chasseurs de salut (Les)  
-  * Enfer de la corruption (L')  
   * Flash Gordin – In the Claws of the Tigron  
   * Flash Gordon – Battling the Sea Beast  
   * Flash Gordon – Captured by Shark Men  

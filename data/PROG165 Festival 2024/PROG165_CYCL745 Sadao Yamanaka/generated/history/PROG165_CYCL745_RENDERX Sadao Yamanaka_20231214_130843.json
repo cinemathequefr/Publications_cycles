@@ -1,0 +1,135 @@
+{
+  "datesCycle": [
+    "2024-03-16T14:00:00",
+    "2024-03-17T14:00:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 114406,
+          "content": [
+            {
+              "idFilm": 114406,
+              "ordre": 1,
+              "titre": "Kôchiyama Sôshun",
+              "realisateurs": "Sadao Yamanaka",
+              "pays": "Japon",
+              "annee": 1936,
+              "duree": 82,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après la pièce de kabuki _Kôchiyama Sôshun_ de Kawatake Mokuami."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 123118,
+              "dateHeure": "2024-03-17T14:00:00",
+              "idSalle": "HO"
+            }
+          ]
+        },
+        {
+          "idFilm": 154703,
+          "content": [
+            {
+              "idFilm": 154703,
+              "ordre": 1,
+              "titre": "Nezumikozō Jirokichi",
+              "realisateurs": "Rintaro",
+              "pays": "Japon",
+              "annee": 2023,
+              "duree": 24,
+              "version": "VOSTF",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Pot d'un million de yens = Tange Sazen et le pot d'un million de ryôs",
+                    "Le"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118183,
+              "dateHeure": "2024-03-16T14:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 38342,
+          "content": [
+            {
+              "idFilm": 38342,
+              "ordre": 1,
+              "titre": "Pauvres humains et ballons de papier",
+              "titreVo": "Ninjo kamifusen",
+              "realisateurs": "Sadao Yamanaka",
+              "pays": "Japon",
+              "annee": 1937,
+              "duree": 90,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Chojuro Kawarasaki",
+                "Tsuruzo Nakamura",
+                "Kanemon Nakamura"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 123095,
+              "dateHeure": "2024-03-17T14:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 38341,
+          "content": [
+            {
+              "idFilm": 38341,
+              "ordre": 2,
+              "titre": "Pot d'un million de yens = Tange Sazen et le pot d'un million de ryôs",
+              "art": "Le",
+              "titreVo": "Hyakuman ryo no tsobo",
+              "realisateurs": "Sadao Yamanaka",
+              "pays": "Japon",
+              "annee": 1935,
+              "duree": 92,
+              "version": "VOSTF",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Nezumikozō Jirokichi",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118183,
+              "dateHeure": "2024-03-16T14:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}

@@ -66,9 +66,42 @@
           ]
         },
         {
+          "idSeance": 123129,
+          "ordre": 1,
+          "dateHeure": "2024-03-15T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3238,
+          "idEvenement": 30273,
+          "typeEvenement": 13,
+          "idFilm": 48840,
+          "titre": "Alphaville, une étrange aventure de Lemmy Caution",
+          "realisateurs": "Jean-Luc Godard",
+          "annee": 1965,
+          "pays": "France-Italie",
+          "duree": 100,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Eddie Constantine",
+            "Anna Karina",
+            "Akim Tamiroff",
+            "Howard Vernon"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'agent secret Lemmy Caution, envoyé à Alphaville pour détruire l'ordinateur Alpha 60, tombe amoureux de Natacha, la fille du professeur von Braun."
+            }
+          ]
+        },
+        {
           "idSeance": 123092,
           "ordre": 1,
-          "dateHeure": "2024-03-16T16:45:00",
+          "dateHeure": "2024-03-15T20:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -208,6 +241,58 @@
             "María Félix"
           ],
           "textes": []
+        },
+        {
+          "idSeance": 123132,
+          "ordre": 1,
+          "dateHeure": "2024-03-13T20:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3238,
+          "idEvenement": 30217,
+          "typeEvenement": 13,
+          "idFilm": 44070,
+          "art": "El",
+          "titre": "Esqueleto de la señora Morales",
+          "realisateurs": "Rogelio A. González",
+          "annee": 1959,
+          "pays": "Mexique",
+          "duree": 84,
+          "version": "VOSTF",
+          "format": "DCP",
+          "textes": []
+        },
+        {
+          "idSeance": 118179,
+          "ordre": 1,
+          "dateHeure": "2024-03-17T16:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3238,
+          "idEvenement": 29976,
+          "typeEvenement": 13,
+          "idFilm": 154674,
+          "art": "L'",
+          "titre": "Homme K",
+          "titreVo": "Ljudyna K",
+          "realisateurs": "Sergey Rakhmanin",
+          "annee": 1992,
+          "pays": "Ukraine",
+          "duree": 87,
+          "version": "VOSTF",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Numérisation à partir des éléments originaux."
+            }
+          ]
         },
         {
           "idSeance": 118303,
@@ -730,6 +815,11 @@
           "duree": 90,
           "version": "VO",
           "format": "DCP",
+          "generique": [
+            "Eugen Klöpfer",
+            "Lucie Höflich",
+            "Aud Egede-Nissen"
+          ],
           "textes": []
         },
         {
@@ -753,6 +843,11 @@
           "duree": 85,
           "version": "VOSTF",
           "format": "DCP",
+          "generique": [
+            "Charles Laughton",
+            "Ella Raines",
+            "Dean Harens"
+          ],
           "adaptation": "D'après le roman _This way out_ (1939) de James Ronald.",
           "textes": []
         },
@@ -816,8 +911,7 @@
           "generique": [
             "Yuki Kudo",
             "Yuichi Mikami",
-            "Tomokazu Miura",
-            "Toshiyuki Matsunaga"
+            "Tomokazu Miura"
           ],
           "textes": [
             {

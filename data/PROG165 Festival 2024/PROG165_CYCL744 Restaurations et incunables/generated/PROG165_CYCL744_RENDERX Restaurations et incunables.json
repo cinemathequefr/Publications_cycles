@@ -63,6 +63,35 @@
           ]
         },
         {
+          "idFilm": 48840,
+          "content": [
+            {
+              "idFilm": 48840,
+              "ordre": 1,
+              "titre": "Alphaville, une étrange aventure de Lemmy Caution",
+              "realisateurs": "Jean-Luc Godard",
+              "pays": "France-Italie",
+              "annee": 1965,
+              "duree": 100,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Eddie Constantine",
+                "Anna Karina",
+                "Akim Tamiroff",
+                "Howard Vernon"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 123129,
+              "dateHeure": "2024-03-15T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 154717,
           "content": [
             {
@@ -81,7 +110,7 @@
           "seances": [
             {
               "idSeance": 123092,
-              "dateHeure": "2024-03-16T16:45:00",
+              "dateHeure": "2024-03-15T20:30:00",
               "idSalle": "JE"
             }
           ]
@@ -194,6 +223,55 @@
               "idSeance": 118324,
               "dateHeure": "2024-03-17T16:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 44070,
+          "content": [
+            {
+              "idFilm": 44070,
+              "ordre": 1,
+              "titre": "Esqueleto de la señora Morales",
+              "art": "El",
+              "realisateurs": "Rogelio A. González",
+              "pays": "Mexique",
+              "annee": 1959,
+              "duree": 84,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 123132,
+              "dateHeure": "2024-03-13T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154674,
+          "content": [
+            {
+              "idFilm": 154674,
+              "ordre": 1,
+              "titre": "Homme K",
+              "art": "L'",
+              "titreVo": "Ljudyna K",
+              "realisateurs": "Sergey Rakhmanin",
+              "pays": "Ukraine",
+              "annee": 1992,
+              "duree": 87,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118179,
+              "dateHeure": "2024-03-17T16:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -1078,7 +1156,12 @@
               "annee": 1923,
               "duree": 90,
               "version": "VO",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Eugen Klöpfer",
+                "Lucie Höflich",
+                "Aud Egede-Nissen"
+              ]
             }
           ],
           "seances": [
@@ -1103,7 +1186,12 @@
               "duree": 85,
               "version": "VOSTF",
               "format": "DCP",
-              "adaptation": "D'après le roman _This way out_ (1939) de James Ronald."
+              "adaptation": "D'après le roman _This way out_ (1939) de James Ronald.",
+              "generique": [
+                "Charles Laughton",
+                "Ella Raines",
+                "Dean Harens"
+              ]
             }
           ],
           "seances": [
@@ -1168,8 +1256,7 @@
               "generique": [
                 "Yuki Kudo",
                 "Yuichi Mikami",
-                "Tomokazu Miura",
-                "Toshiyuki Matsunaga"
+                "Tomokazu Miura"
               ]
             }
           ],

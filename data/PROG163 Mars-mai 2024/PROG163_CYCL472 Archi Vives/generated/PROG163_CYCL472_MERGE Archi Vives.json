@@ -1,17 +1,49 @@
 {
   "data": [
     {
-      "titreSousCycle": "Rencontres et conférences",
+      "titreSousCycle": "Les films",
       "tri": 4,
       "items": [
         {
           "idSeance": 122933,
+          "ordre": 2,
           "dateHeure": "2024-03-21T17:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
+          "idCategorie": 3262,
+          "idEvenement": 30247,
+          "typeEvenement": 13,
+          "idFilm": 154727,
+          "titre": "Extrait de Napoléon vu par Abel Gance",
+          "realisateurs": "Abel Gance",
+          "annee": 1927,
+          "pays": "France",
+          "duree": 90,
+          "version": "",
+          "format": "DCP",
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 122933,
+          "ordre": 1,
+          "dateHeure": "2024-03-21T17:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 2757,
           "idEvenement": 30175,
           "typeEvenement": 14,

@@ -186,10 +186,14 @@
   },
   {
     "idSeance": 122933,
-    "idEvenement": 30175,
+    "idEvenement": 30247,
     "dateHeure": "2024-03-21T17:30:00",
     "salle": "JE",
     "cycle": [
+      [
+        "Archi Vives",
+        "Les films"
+      ],
       [
         "Archi Vives",
         "Rencontres et conférences"
@@ -202,9 +206,17 @@
         "sousTitre": "Conférence de Simon Cloquet-Lafollye",
         "typeConference": "Conférence",
         "duree": 90
+      },
+      {
+        "idFilm": 154727,
+        "titre": "Extrait de Napoléon vu par Abel Gance",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 90,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "c30175"
+    "hashEvenement": "c30175f154727"
   },
   {
     "idSeance": 118613,
@@ -1202,35 +1214,10 @@
     "hashEvenement": "f38564"
   },
   {
-    "idSeance": 118507,
-    "idEvenement": 29754,
+    "idSeance": 116263,
+    "idEvenement": 29831,
     "dateHeure": "2024-03-30T14:30:00",
     "salle": "HL",
-    "cycle": [
-      [
-        "Les aventures du travesti au cinéma",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 56789,
-        "titre": "Rocky Horror Picture Show",
-        "art": "The",
-        "realisateurs": "Jim Sharman",
-        "annee": 1975,
-        "duree": 98,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f56789"
-  },
-  {
-    "idSeance": 118526,
-    "idEvenement": 29846,
-    "dateHeure": "2024-03-30T15:00:00",
-    "salle": "GF",
     "cycle": [
       [
         "Anthony Mann",
@@ -1239,16 +1226,41 @@
     ],
     "items": [
       {
-        "idFilm": 34921,
-        "titre": "Maldonne pour un espion",
+        "idFilm": 34925,
+        "titre": "Chute de l'Empire romain",
+        "art": "La",
         "realisateurs": "Anthony Mann",
-        "annee": 1968,
-        "duree": 110,
+        "annee": 1963,
+        "duree": 185,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f34921"
+    "hashEvenement": "f34925"
+  },
+  {
+    "idSeance": 116269,
+    "idEvenement": 29757,
+    "dateHeure": "2024-03-30T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Les aventures du travesti au cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31603,
+        "titre": "Pulsions",
+        "realisateurs": "Brian De Palma",
+        "annee": 1980,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f31603"
   },
   {
     "idSeance": 118620,
@@ -1317,7 +1329,7 @@
   {
     "idSeance": 118650,
     "idEvenement": 29988,
-    "dateHeure": "2024-03-30T18:15:00",
+    "dateHeure": "2024-03-30T17:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1338,31 +1350,6 @@
       }
     ],
     "hashEvenement": "f102415"
-  },
-  {
-    "idSeance": 116263,
-    "idEvenement": 29831,
-    "dateHeure": "2024-03-30T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Anthony Mann",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 34925,
-        "titre": "Chute de l'Empire romain",
-        "art": "La",
-        "realisateurs": "Anthony Mann",
-        "annee": 1963,
-        "duree": 185,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f34925"
   },
   {
     "idSeance": 118725,
@@ -1390,10 +1377,34 @@
     "hashEvenement": "f54347"
   },
   {
-    "idSeance": 116269,
-    "idEvenement": 29757,
-    "dateHeure": "2024-03-30T20:45:00",
+    "idSeance": 118526,
+    "idEvenement": 29846,
+    "dateHeure": "2024-03-30T20:00:00",
     "salle": "GF",
+    "cycle": [
+      [
+        "Anthony Mann",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34921,
+        "titre": "Maldonne pour un espion",
+        "realisateurs": "Anthony Mann",
+        "annee": 1968,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f34921"
+  },
+  {
+    "idSeance": 118507,
+    "idEvenement": 29754,
+    "dateHeure": "2024-03-30T20:30:00",
+    "salle": "HL",
     "cycle": [
       [
         "Les aventures du travesti au cinéma",
@@ -1402,16 +1413,17 @@
     ],
     "items": [
       {
-        "idFilm": 31603,
-        "titre": "Pulsions",
-        "realisateurs": "Brian De Palma",
-        "annee": 1980,
-        "duree": 104,
+        "idFilm": 56789,
+        "titre": "Rocky Horror Picture Show",
+        "art": "The",
+        "realisateurs": "Jim Sharman",
+        "annee": 1975,
+        "duree": 98,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f31603"
+    "hashEvenement": "f56789"
   },
   {
     "idSeance": 116280,
@@ -2624,7 +2636,7 @@
   {
     "idSeance": 118675,
     "idEvenement": 29841,
-    "dateHeure": "2024-04-11T16:00:00",
+    "dateHeure": "2024-04-11T15:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2647,10 +2659,10 @@
     "hashEvenement": "f44101"
   },
   {
-    "idSeance": 118707,
-    "idEvenement": 29852,
-    "dateHeure": "2024-04-11T18:30:00",
-    "salle": "HL",
+    "idSeance": 118708,
+    "idEvenement": 29856,
+    "dateHeure": "2024-04-11T18:00:00",
+    "salle": "GF",
     "cycle": [
       [
         "Anthony Mann",
@@ -2659,17 +2671,16 @@
     ],
     "items": [
       {
-        "idFilm": 33753,
-        "titre": "Port des passions",
-        "art": "Le",
+        "idFilm": 34248,
+        "titre": "Romance inachevée",
         "realisateurs": "Anthony Mann",
-        "annee": 1952,
-        "duree": 103,
+        "annee": 1953,
+        "duree": 116,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f33753"
+    "hashEvenement": "f34248"
   },
   {
     "idSeance": 123018,
@@ -2694,9 +2705,9 @@
     "hashEvenement": "c30214"
   },
   {
-    "idSeance": 118708,
-    "idEvenement": 29856,
-    "dateHeure": "2024-04-11T21:00:00",
+    "idSeance": 118707,
+    "idEvenement": 29852,
+    "dateHeure": "2024-04-11T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2706,21 +2717,22 @@
     ],
     "items": [
       {
-        "idFilm": 34248,
-        "titre": "Romance inachevée",
+        "idFilm": 33753,
+        "titre": "Port des passions",
+        "art": "Le",
         "realisateurs": "Anthony Mann",
-        "annee": 1953,
-        "duree": 116,
+        "annee": 1952,
+        "duree": 103,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f34248"
+    "hashEvenement": "f33753"
   },
   {
     "idSeance": 118591,
     "idEvenement": 29592,
-    "dateHeure": "2024-04-11T21:30:00",
+    "dateHeure": "2024-04-11T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4812,7 +4824,10 @@
         "titre": "Passage du grand Bouddha",
         "art": "Le",
         "realisateurs": "Kenji Misumi",
-        "annee": 1960
+        "annee": 1960,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f60751"
@@ -6175,9 +6190,9 @@
         "titre": "Pour le pire et pour le meilleur",
         "realisateurs": "James L. Brooks",
         "annee": 1996,
-        "duree": 138,
-        "version": "VO",
-        "format": "DCP"
+        "duree": 139,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f29137"
@@ -6225,8 +6240,8 @@
         "realisateurs": "P.J. Hogan",
         "annee": 1996,
         "duree": 105,
-        "version": "VO",
-        "format": "DCP"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f28944"
@@ -6732,7 +6747,7 @@
         "annee": 1966,
         "duree": 79,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f144558"
@@ -6877,7 +6892,7 @@
         "realisateurs": "Peter Farrelly, Bobby Farrelly",
         "annee": 2006,
         "duree": 115,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
