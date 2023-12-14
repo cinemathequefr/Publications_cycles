@@ -777,6 +777,10 @@
       [
         "Aki Kaurismäki",
         "Les films"
+      ],
+      [
+        "Aki Kaurismäki",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -789,9 +793,15 @@
         "duree": 100,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 29571,
+        "titre": "Dialogue avec Philippe Azoury",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f40069"
+    "hashEvenement": "f40069c29571"
   },
   {
     "idSeance": 105290,
@@ -841,27 +851,6 @@
       }
     ],
     "hashEvenement": "f87794"
-  },
-  {
-    "idSeance": 123080,
-    "idEvenement": 29571,
-    "dateHeure": "2023-12-06T21:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Aki Kaurismäki",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 29571,
-        "titre": "Dialogue avec Philippe Azoury",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c29571"
   },
   {
     "idSeance": 115630,
@@ -4013,7 +4002,7 @@
         "realisateurs": "Maurice Pialat",
         "annee": 1968,
         "duree": 82,
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f154570f50622"
@@ -6728,7 +6717,7 @@
   {
     "idSeance": 106862,
     "idEvenement": 28976,
-    "dateHeure": "2024-02-05T18:15:00",
+    "dateHeure": "2024-02-05T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -8477,6 +8466,7 @@
         "titre": "Nouveau Journal d'une femme en blanc",
         "realisateurs": "Claude Autant-Lara",
         "annee": 1966,
+        "duree": 115,
         "format": "35 mm"
       }
     ],

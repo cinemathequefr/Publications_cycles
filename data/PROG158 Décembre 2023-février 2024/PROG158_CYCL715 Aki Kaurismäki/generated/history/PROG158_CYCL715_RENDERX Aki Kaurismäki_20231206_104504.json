@@ -562,33 +562,51 @@
           ]
         },
         {
-          "idFilm": 40069,
-          "content": [
+          "groupe": [
             {
               "idFilm": 40069,
-              "ordre": 1,
-              "titre": "Vie de bohème",
-              "art": "La",
-              "realisateurs": "Aki Kaurismäki",
-              "pays": "France-Finlande",
-              "annee": 1991,
-              "duree": 100,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Scènes de la vie de bohème_ d'Henry Murger.",
-              "generique": [
-                "Jean-Pierre Léaud",
-                "Samuel Fuller",
-                "Matti Pellonpää"
-              ],
-              "miniTexte": "Humour polaire et humeur mélancolique, Kaurismäki convoque les personnages du roman d'Henry Murger dans une suite de vignettes en noir et blanc, aussi drôles que pathétiques, qui voit quelques marginaux cosmopolites étaler leurs états d'âme dans une banlieue parisienne des années 60 fantasmées."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 40069,
+                  "ordre": 1,
+                  "titre": "Vie de bohème",
+                  "art": "La",
+                  "realisateurs": "Aki Kaurismäki",
+                  "pays": "France-Finlande",
+                  "annee": 1991,
+                  "duree": 100,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _Scènes de la vie de bohème_ d'Henry Murger.",
+                  "generique": [
+                    "Jean-Pierre Léaud",
+                    "Samuel Fuller",
+                    "Matti Pellonpää"
+                  ],
+                  "miniTexte": "Humour polaire et humeur mélancolique, Kaurismäki convoque les personnages du roman d'Henry Murger dans une suite de vignettes en noir et blanc, aussi drôles que pathétiques, qui voit quelques marginaux cosmopolites étaler leurs états d'âme dans une banlieue parisienne des années 60 fantasmées."
+                }
+              ]
+            },
             {
-              "idSeance": 115616,
-              "dateHeure": "2023-12-06T19:00:00",
-              "idSalle": "GF"
+              "idEvenement": 29571,
+              "content": [
+                {
+                  "idConf": 29571,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Philippe Azoury",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Émilie Cauquy",
+                  "miniTexte": "Il est très difficile de parler ou d'écrire après un film de Kaurismäki. Tous les critiques le savent. On tourne tous un peu en rond avec les mêmes mots, usés jusqu'à la lie, humanité, comique désespéré... On connaît la chanson. Mais elle ne dit rien de la teneur de son refrain, elle ne décrit pas le refuge contre le monde construit par Kaurismäki film après film, ni les rêves et les silences mats qui lui servent de soupapes. Refuge contre le monde ? Ou plutôt contre un certain monde, celui du marché, qui n'a plus aucun souci envers l'humain. Le projet de Kaurismäki, c'est qu'on pourrait tout aussi bien s'en foutre. Faire une autre humanité à quelques-uns, dans un coin, réapprendre quelques trucs, vérifier si c'est possible. Et si ça rate, faire en sorte quand même que ça rate mieux. En transposant un livre de 1851 dans un Paris fantasmé, qui tient plus de Grémillon que du réel, Kaurismäki nous montre que l'on peut tous se servir du cinéma, les cinéastes comme les spectateurs, pour respirer un autre air, enfin. On tentera de voir lequel, après la projection. — Philippe Azoury"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 115616,
+                  "typeAssoc": 118,
+                  "dateHeure": "2023-12-06T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         }
@@ -749,31 +767,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 29571,
-          "content": [
-            {
-              "idConf": 29571,
-              "titre": "Dialogue avec Philippe Azoury",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Émilie Cauquy",
-              "miniTexte": "Il est très difficile de parler ou d'écrire après un film de Kaurismäki. Tous les critiques le savent. On tourne tous un peu en rond avec les mêmes mots, usés jusqu'à la lie, humanité, comique désespéré... On connaît la chanson. Mais elle ne dit rien de la teneur de son refrain, elle ne décrit pas le refuge contre le monde construit par Kaurismäki film après film, ni les rêves et les silences mats qui lui servent de soupapes. Refuge contre le monde ? Ou plutôt contre un certain monde, celui du marché, qui n'a plus aucun souci envers l'humain. Le projet de Kaurismäki, c'est qu'on pourrait tout aussi bien s'en foutre. Faire une autre humanité à quelques-uns, dans un coin, réapprendre quelques trucs, vérifier si c'est possible. Et si ça rate, faire en sorte quand même que ça rate mieux. En transposant un livre de 1851 dans un Paris fantasmé, qui tient plus de Grémillon que du réel, Kaurismäki nous montre que l'on peut tous se servir du cinéma, les cinéastes comme les spectateurs, pour respirer un autre air, enfin. On tentera de voir lequel, après la projection. — Philippe Azoury"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 123080,
-              "dateHeure": "2023-12-06T21:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -786,8 +779,9 @@
     ],
     "Dialogue": [
       {
+        "titreFilms": "La Vie de bohème",
         "mention": "avec Philippe Azoury",
-        "dateHeure": "2023-12-06T21:00:00"
+        "dateHeure": "2023-12-06T19:00:00"
       }
     ],
     "Séance présentée": [
