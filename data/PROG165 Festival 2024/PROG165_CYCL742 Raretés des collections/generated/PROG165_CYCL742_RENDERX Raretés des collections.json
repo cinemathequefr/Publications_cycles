@@ -1,0 +1,89 @@
+{
+  "datesCycle": [
+    "2024-03-14T18:30:00",
+    "2024-03-14T18:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 50240,
+          "content": [
+            {
+              "idFilm": 50240,
+              "ordre": 1,
+              "titre": "Conte cruel",
+              "realisateurs": "Gaston Modot",
+              "pays": "France",
+              "annee": 1928,
+              "duree": 30,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "adaptation": "D'après la nouvelle _La Torture par l'espérance_ d'Auguste de Villiers de l'Isle-Adam.",
+              "generique": [
+                "Gaston Modot"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Fièvre",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118216,
+              "dateHeure": "2024-03-14T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 48026,
+          "content": [
+            {
+              "idFilm": 48026,
+              "ordre": 2,
+              "titre": "Fièvre",
+              "realisateurs": "Louis Delluc",
+              "pays": "France",
+              "annee": 1921,
+              "duree": 44,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Ève Francis",
+                "Edmond Van Daële",
+                "Gaston Modot"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Conte cruel",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 118216,
+              "dateHeure": "2024-03-14T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}
