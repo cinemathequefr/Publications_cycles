@@ -7,9 +7,11 @@
   * Symphonie pour un massacre  
   * Un papillon sur l'épaule
 
-## Judit Elek (1)
+## Judit Elek (3)
 
-  * Dame de Constantinople (La)
+  * Dame de Constantinople (La)  
+  * Eveil (L')  
+  * fête de Maria (La)
 
 ## Machiko Kyō (4)
 
@@ -24,10 +26,12 @@
   * Households Saints  
   * True Love
 
-## Peter Weir (7)
+## Peter Weir (9)
 
   * Cercle des poètes disparus (Le)  
   * Dernière vague (La)  
+  * Femme des sables (La)  
+  * Jedda  
   * Master and Commander : De l'autre côté du monde  
   * Picnic à Hanging Rock  
   * Swimmer (The)  
@@ -39,7 +43,7 @@
   * Conte cruel  
   * Fièvre
 
-## Restaurations et incunables (31)
+## Restaurations et incunables (33)
 
   * Ailes de la colombe (Les)  
   * Aloïse  
@@ -51,6 +55,7 @@
   * Enamorada  
   * Esqueleto de la señora Morales (El)  
   * Homme K (L')  
+  * Jeanne d'Arc  
   * Judex, épisode 1 : L'Ombre mystérieuse  
   * Judex, épisode 10 : Le Cœur de Jacqueline  
   * Judex, épisode 11 : L'Ondine  
@@ -67,6 +72,7 @@
   * Macario  
   * Moissons du ciel (Les)  
   * Paris vu par 20 ans après : J'ai faim, j'ai froid  
+  * Rendez-vous des quais (Le)  
   * Revanche de la créature (La)  
   * Rue (La)  
   * Suspect (Le)  
