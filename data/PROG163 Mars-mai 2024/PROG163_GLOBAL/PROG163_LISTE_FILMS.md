@@ -133,7 +133,7 @@
   * Komako, fille unique de la maison Shiroko  
   * Lame diabolique (La)  
   * Légende de Zatōichi : Le Masseur aveugle (La)  
-  * Légende de Zatōichi : Le Shogun de l'ombre (La)  
+  * Légende de Zatōichi : Le Shōgun de l'ombre (La)  
   * Légende de Zatōichi : Les Tambours de la colère (La)  
   * Légende de Zatōichi : Route sanglante (La)  
   * Légende de Zatōichi : Voyage en enfer (La)  
