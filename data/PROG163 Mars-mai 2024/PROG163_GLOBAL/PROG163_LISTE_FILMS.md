@@ -323,6 +323,13 @@
   * Voix de son maître (La)  
   * Y'a pas de malaise
 
+## Parlons cinéma... avec Antoine Compagnon (4)
+
+  * Au hasard, Balthazar  
+  * Guerre est finie (La)  
+  * Masculin féminin  
+  * Religieuse (La)
+
 ## William Friedkin (24)
 
   * Anniversaire (L')  
