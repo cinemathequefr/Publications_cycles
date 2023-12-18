@@ -140,16 +140,16 @@
   * Légende de Zatōichi : Voyage meurtrier (La)  
   * Lignée d'une femme (La)  
   * Momotarō le samouraï  
-  * Nemuri Kyōshirō : Le Sabreur et les pirates  
   * Nouvelles Aventures de la joueuse (Les)  
   * Ōkuma Shigenobu le grand  
   * Palais de la princesse Sen (Le)  
-  * Passage du grand Bouddha (Le)  
-  * Passage du grand Boudha II (Le)  
+  * Passage du Grand Bouddha (Le)  
+  * Passage du Grand Boudha II (Le)  
   * Princesse aveugle (La)  
   * Retour de Majin (Le)  
   * Rivière des larmes (La)  
   * Sabre (Le)  
+  * Sabre qui sauva Edō (Le)  
   * Sabreur et les pirates (Le)  
   * Saga de Magoichi (La)  
   * Sur la route à jamais  
