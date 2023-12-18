@@ -1,8 +1,40 @@
 [
   {
-    "idSeance": 123138,
-    "idEvenement": 30228,
+    "idSeance": 115724,
+    "idEvenement": 30231,
     "dateHeure": "2024-03-11T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Rémi Martin"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Bob H.B. El Khayrat et Loïk Poupinaïs. Accompagnement musical par Rémi Martin",
+    "items": [
+      {
+        "idFilm": 154721,
+        "titre": "Rémi",
+        "realisateurs": "Bob H.B. El Khayrat, Loïk Poupinaïs",
+        "annee": 2022,
+        "duree": 32,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 47513,
+        "titre": "Thé au harem d'Archimède",
+        "art": "Le",
+        "realisateurs": "Mehdi Charef",
+        "annee": 1984,
+        "duree": 110
+      }
+    ],
+    "hashEvenement": "f154721f47513"
+  },
+  {
+    "idSeance": 123009,
+    "idEvenement": 30228,
+    "dateHeure": "2024-03-18T19:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -10,6 +42,7 @@
         "François Robic"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec François Robic",
     "items": [
       {
         "idFilm": 154693,
@@ -29,38 +62,6 @@
       }
     ],
     "hashEvenement": "f154693f154720"
-  },
-  {
-    "idSeance": 123139,
-    "idEvenement": 30231,
-    "dateHeure": "2024-03-18T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Aujourd'hui le cinéma",
-        "Rémi Martin"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154721,
-        "titre": "Rémi",
-        "realisateurs": "Bob H.B. El Khayrat, Loïk Poupinaïs",
-        "annee": 2022,
-        "duree": 32,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 47513,
-        "titre": "Thé au harem d'Archimède",
-        "art": "Le",
-        "realisateurs": "Mehdi Charef",
-        "annee": 1984,
-        "duree": 110,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154721f47513"
   },
   {
     "idSeance": 115911,
@@ -390,7 +391,7 @@
         "titre": "Une poignée de salopards",
         "realisateurs": "Enzo G. Castellari",
         "annee": 1977,
-        "duree": 99,
+        "duree": 98,
         "version": "VF",
         "format": "35 mm"
       }
@@ -1730,10 +1731,7 @@
         "idFilm": 95679,
         "titre": "Triple Écho",
         "realisateurs": "Michael Apted",
-        "annee": 1972,
-        "duree": 94,
-        "version": "VOSTF",
-        "format": "Numérique"
+        "annee": 1972
       }
     ],
     "hashEvenement": "f95679"
@@ -1813,6 +1811,7 @@
         "realisateurs": "Édouard Molinaro",
         "annee": 1978,
         "duree": 105,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -1888,7 +1887,7 @@
         "art": "Les",
         "realisateurs": "Duccio Tessari",
         "annee": 1964,
-        "duree": 97,
+        "duree": 99,
         "version": "VF",
         "format": "35 mm"
       }
@@ -2090,7 +2089,7 @@
         "realisateurs": "Jack Arnold",
         "annee": 1959,
         "duree": 83,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -4407,7 +4406,7 @@
         "realisateurs": "William Friedkin",
         "annee": 1989,
         "duree": 93,
-        "format": "Numérique"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f31703"
