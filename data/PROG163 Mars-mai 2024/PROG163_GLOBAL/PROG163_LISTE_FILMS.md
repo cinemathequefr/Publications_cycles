@@ -44,7 +44,7 @@
 
 ## Archi Vives (1)
 
-  * Extraits de "Napoléon vu par Abel Gance"
+  * Napoléon vu par Abel Gance (extraits)
 
 ## Aujourd'hui le cinéma (12)
 
