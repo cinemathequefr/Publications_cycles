@@ -8,6 +8,53 @@
         {
           "groupe": [
             {
+              "idFilm": 33754,
+              "content": [
+                {
+                  "idFilm": 33754,
+                  "ordre": 1,
+                  "titre": "Du sang dans le désert",
+                  "titreVo": "Tin Star",
+                  "artVo": "The",
+                  "realisateurs": "Anthony Mann",
+                  "pays": "États-Unis",
+                  "annee": 1957,
+                  "duree": 93,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Henry Fonda",
+                    "Anthony Perkins",
+                    "Betsy Palmer"
+                  ],
+                  "miniTexte": "Sur un script de Dudley Nichols (_La Chevauchée fantastique_), un récit de transmission et d'apprentissage entre un chasseur de prime vieillissant et un jeune shérif inexpérimenté. D'une beauté âpre, un western méconnu de Mann, qui aborde les questions du racisme, de l'ordre et de la loi."
+                }
+              ]
+            },
+            {
+              "idEvenement": 30025,
+              "content": [
+                {
+                  "idConf": 30025,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Frédéric Bonnaud",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 118696,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-03-28T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
               "idFilm": 51367,
               "content": [
                 {
@@ -17,6 +64,9 @@
                   "realisateurs": "Jacques Tati",
                   "pays": "France-Italie",
                   "annee": 1957,
+                  "duree": 120,
+                  "version": "",
+                  "format": "35 mm",
                   "ageMinimal": 6,
                   "generique": [
                     "Jacques Tati",
@@ -47,6 +97,53 @@
               ]
             }
           ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 48300,
+              "content": [
+                {
+                  "idFilm": 48300,
+                  "ordre": 1,
+                  "titre": "Musica",
+                  "art": "La",
+                  "realisateurs": "Marguerite Duras, Paul Seban",
+                  "pays": "France",
+                  "annee": 1966,
+                  "duree": 80,
+                  "version": "",
+                  "format": "DCP",
+                  "adaptation": "D'après la pièce _La Musica_ de Marguerite Duras.",
+                  "generique": [
+                    "Delphine Seyrig",
+                    "Robert Hossein",
+                    "Julie Dassin"
+                  ],
+                  "miniTexte": "Le premier film de Duras, adapté de sa pièce de théâtre éponyme, et coréalisé avec Paul Seban. Dans un dialogue nocturne voué à conjurer la solitude, elle utilise la ville d'Évreux comme personnage central pour raconter la fin d'une liaison et ses conséquences. Une manière de tordre le cou au classicisme qui convoque déjà Robbe-Grillet et Resnais."
+                }
+              ]
+            },
+            {
+              "idEvenement": 30027,
+              "content": [
+                {
+                  "idConf": 30027,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Frédéric Bonnaud",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 118606,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-05-10T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
@@ -54,8 +151,9 @@
   "syntheseAction": {
     "Dialogues": [
       {
+        "titreFilms": "Du sang dans le désert",
         "mention": "avec Frédéric Bonnaud",
-        "dateHeure": "2024-03-28T21:00:00"
+        "dateHeure": "2024-03-28T19:00:00"
       },
       {
         "titreFilms": "Mon oncle",
@@ -63,8 +161,9 @@
         "dateHeure": "2024-04-19T19:00:00"
       },
       {
+        "titreFilms": "La Musica",
         "mention": "avec Frédéric Bonnaud",
-        "dateHeure": "2024-05-10T20:30:00"
+        "dateHeure": "2024-05-10T19:00:00"
       }
     ]
   }

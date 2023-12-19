@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Anthony Mann (39)
+## Anthony Mann (38)
 
   * Affameurs (Les)  
   * Appât (L')  
@@ -12,7 +12,6 @@
   * Clair de lune à La Havane  
   * Cote 465  
   * Desperate  
-  * Du sang dans le désert  
   * Engrenage fatal (L')  
   * Esprit pervers (L')  
   * Furies (Les)  
@@ -61,9 +60,11 @@
   * Trois femmes brûlées  
   * Un petit frère
 
-## Ciné-club de Frédéric Bonnaud (1)
+## Ciné-club de Frédéric Bonnaud (3)
 
-  * Mon oncle
+  * Du sang dans le désert  
+  * Mon oncle  
+  * Musica (La)
 
 ## Cinéma bis (8)
 
@@ -240,7 +241,7 @@
   * Nuit après nuit  
   * Sextette
 
-## Marguerite Duras (28)
+## Marguerite Duras (27)
 
   * Agatha et les lectures illimitées  
   * Aurelia Steiner : Melbourne  
@@ -264,7 +265,6 @@
   * Jaune le soleil  
   * Mains négatives (Les)  
   * Moderato cantabile  
-  * Musica (La)  
   * Nathalie Granger  
   * Navire Night (Le)  
   * Son nom de Venise dans Calcutta désert  

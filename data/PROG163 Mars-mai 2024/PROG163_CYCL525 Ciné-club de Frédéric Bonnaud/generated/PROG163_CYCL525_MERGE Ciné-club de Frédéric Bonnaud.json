@@ -5,6 +5,41 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 118696,
+          "ordre": 1,
+          "dateHeure": "2024-03-28T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "typeAssoc": 118,
+          "idCategorie": 3272,
+          "idEvenement": 29836,
+          "typeEvenement": 13,
+          "idFilm": 33754,
+          "titre": "Du sang dans le désert",
+          "artVo": "The",
+          "titreVo": "Tin Star",
+          "realisateurs": "Anthony Mann",
+          "annee": 1957,
+          "pays": "États-Unis",
+          "duree": 93,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Henry Fonda",
+            "Anthony Perkins",
+            "Betsy Palmer"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Sur un script de Dudley Nichols (_La Chevauchée fantastique_), un récit de transmission et d'apprentissage entre un chasseur de prime vieillissant et un jeune shérif inexpérimenté. D'une beauté âpre, un western méconnu de Mann, qui aborde les questions du racisme, de l'ordre et de la loi."
+            }
+          ]
+        },
+        {
           "idSeance": 122931,
           "ordre": 1,
           "dateHeure": "2024-04-19T19:00:00",
@@ -22,6 +57,9 @@
           "realisateurs": "Jacques Tati",
           "annee": 1957,
           "pays": "France-Italie",
+          "duree": 120,
+          "version": "",
+          "format": "35 mm",
           "ageMinimal": 6,
           "generique": [
             "Jacques Tati",
@@ -35,6 +73,41 @@
               "texte": "D'un côté la maison ultra-moderne de la famille Arpel, de l'autre la drôle de maison tarabiscotée de monsieur Hulot... Entre les deux, le petit Gérard navigue et observe le drôle de manège des adultes."
             }
           ]
+        },
+        {
+          "idSeance": 118606,
+          "ordre": 1,
+          "dateHeure": "2024-05-10T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 105,
+          "typeAssoc": 118,
+          "idCategorie": 3272,
+          "idEvenement": 29213,
+          "typeEvenement": 13,
+          "idFilm": 48300,
+          "art": "La",
+          "titre": "Musica",
+          "realisateurs": "Marguerite Duras, Paul Seban",
+          "annee": 1966,
+          "pays": "France",
+          "duree": 80,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Delphine Seyrig",
+            "Robert Hossein",
+            "Julie Dassin"
+          ],
+          "adaptation": "D'après la pièce _La Musica_ de Marguerite Duras.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Le premier film de Duras, adapté de sa pièce de théâtre éponyme, et coréalisé avec Paul Seban. Dans un dialogue nocturne voué à conjurer la solitude, elle utilise la ville d'Évreux comme personnage central pour raconter la fin d'une liaison et ses conséquences. Une manière de tordre le cou au classicisme qui convoque déjà Robbe-Grillet et Resnais."
+            }
+          ]
         }
       ],
       "textes": []
@@ -44,9 +117,9 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 118584,
-          "ordre": 1,
-          "dateHeure": "2024-03-28T21:00:00",
+          "idSeance": 118696,
+          "ordre": 2,
+          "dateHeure": "2024-03-28T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -98,9 +171,9 @@
           ]
         },
         {
-          "idSeance": 118588,
-          "ordre": 1,
-          "dateHeure": "2024-05-10T20:30:00",
+          "idSeance": 118606,
+          "ordre": 2,
+          "dateHeure": "2024-05-10T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"

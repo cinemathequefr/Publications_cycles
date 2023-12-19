@@ -1,10 +1,34 @@
 [
   {
+    "idCategorie": 3272,
+    "typeEvenement": 13,
+    "idEvenement": 29836,
+    "idSeance": 118696,
+    "dateHeure": "2024-03-28T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 33754,
+        "ordre": 1,
+        "idSeance": 118696,
+        "idCopie": 27288,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
     "idCategorie": 3114,
     "typeEvenement": 14,
     "idEvenement": 30025,
-    "idSeance": 118584,
-    "dateHeure": "2024-03-28T21:00:00",
+    "idSeance": 118696,
+    "dateHeure": "2024-03-28T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -13,7 +37,7 @@
     "typeAssoc": 118,
     "items": [
       {
-        "ordre": 1
+        "ordre": 2
       }
     ]
   },
@@ -32,7 +56,12 @@
     "items": [
       {
         "idFilm": 51367,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 122931,
+        "idCopie": 2783,
+        "duree": 120,
+        "version": "",
+        "format": "35 mm"
       }
     ]
   },
@@ -55,11 +84,35 @@
     ]
   },
   {
+    "idCategorie": 3272,
+    "typeEvenement": 13,
+    "idEvenement": 29213,
+    "idSeance": 118606,
+    "dateHeure": "2024-05-10T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 48300,
+        "ordre": 1,
+        "idSeance": 118606,
+        "idCopie": 27090,
+        "duree": 80,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
     "idCategorie": 3114,
     "typeEvenement": 14,
     "idEvenement": 30027,
-    "idSeance": 118588,
-    "dateHeure": "2024-05-10T20:30:00",
+    "idSeance": 118606,
+    "dateHeure": "2024-05-10T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -68,7 +121,7 @@
     "typeAssoc": 118,
     "items": [
       {
-        "ordre": 1
+        "ordre": 2
       }
     ]
   }
