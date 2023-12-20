@@ -45,20 +45,23 @@
 
   * Napoléon vu par Abel Gance (extraits)
 
-## Aujourd'hui le cinéma (12)
+## Aujourd'hui le cinéma (15)
 
   * Agathe, Solange et moi  
   * Best Secret Place  
   * Fogaréu  
   * Île (L')  
   * Ishi ga aru  
+  * Maurice's Bar  
   * Oyu  
+  * Psylo  
   * Rémi  
   * Retour à Toyama  
   * Rien d'important  
   * Thé au harem d'Archimède (Le)  
   * Trois femmes brûlées  
-  * Un petit frère
+  * Un petit frère  
+  * Vérité (La)
 
 ## Ciné-club de Frédéric Bonnaud (3)
 

@@ -28,6 +28,15 @@
         "duree": 25,
         "version": "",
         "format": "DCP"
+      },
+      {
+        "idFilm": 154744,
+        "ordre": 3,
+        "idSeance": 123138,
+        "idCopie": 27552,
+        "duree": 18,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
@@ -138,6 +147,39 @@
     "mention": "Avant-première. Séance suivie d'une discussion avec Caroline Poggi et Jonathan Vinel"
   },
   {
+    "idCategorie": 3289,
+    "typeEvenement": 13,
+    "idEvenement": 30234,
+    "idSeance": 116870,
+    "dateHeure": "2024-04-22T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 154745,
+        "ordre": 1,
+        "idSeance": 116870,
+        "idCopie": 27555,
+        "duree": 15,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154746,
+        "ordre": 2,
+        "idSeance": 116870,
+        "idCopie": 27554,
+        "duree": 22,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Hélène Vayssières"
+  },
+  {
     "idCategorie": 3284,
     "typeEvenement": 13,
     "idEvenement": 30224,
@@ -221,8 +263,5 @@
       }
     ],
     "mention": "Séance suivie d'une discussion avec Léonor Serraille"
-  },
-  {
-    "mention": "Séance suivie d'une discussion avec Hélène Vayssières"
   }
 ]

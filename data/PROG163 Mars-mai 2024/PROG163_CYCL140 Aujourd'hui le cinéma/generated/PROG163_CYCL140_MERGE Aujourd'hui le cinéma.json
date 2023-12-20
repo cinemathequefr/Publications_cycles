@@ -58,6 +58,33 @@
       "items": [
         {
           "idSeance": 123138,
+          "ordre": 3,
+          "dateHeure": "2024-03-11T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 75,
+          "idCategorie": 3286,
+          "idEvenement": 30228,
+          "typeEvenement": 13,
+          "idFilm": 154744,
+          "titre": "Psylo",
+          "realisateurs": "François Robic",
+          "annee": 2020,
+          "pays": "France",
+          "duree": 18,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Yara Pilartz",
+            "Manon Clavel",
+            "Stéphane Rideau"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 123138,
           "ordre": 1,
           "dateHeure": "2024-03-11T19:00:00",
           "idSalle": [
@@ -204,6 +231,60 @@
             "Idir Azougli",
             "Chouf"
           ],
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Courts métrages Arte",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 116870,
+          "ordre": 1,
+          "dateHeure": "2024-04-22T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 30,
+          "mention": "Séance suivie d'une discussion avec Hélène Vayssières",
+          "idCategorie": 3289,
+          "idEvenement": 30234,
+          "typeEvenement": 13,
+          "idFilm": 154745,
+          "titre": "Maurice's Bar",
+          "realisateurs": "Tom Prezman, Tzor Edery",
+          "annee": 2023,
+          "pays": "France-Israël",
+          "duree": 15,
+          "version": "VOSTF",
+          "format": "DCP",
+          "textes": []
+        },
+        {
+          "idSeance": 116870,
+          "ordre": 2,
+          "dateHeure": "2024-04-22T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 30,
+          "mention": "Séance suivie d'une discussion avec Hélène Vayssières",
+          "idCategorie": 3289,
+          "idEvenement": 30234,
+          "typeEvenement": 13,
+          "idFilm": 154746,
+          "art": "La",
+          "titre": "Vérité",
+          "realisateurs": "Malou Lévêque",
+          "annee": 2023,
+          "pays": "France",
+          "duree": 22,
+          "version": "",
+          "format": "DCP",
           "textes": []
         }
       ],
