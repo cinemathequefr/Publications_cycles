@@ -267,35 +267,63 @@
           ]
         },
         {
-          "idFilm": 41103,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 30214,
+              "content": [
+                {
+                  "idConf": 30214,
+                  "titre": "[Titre conférence]",
+                  "sousTitre": "Conférence de Federico Pierotti",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 123018,
+                  "idSeanceAssoc": 118591,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-04-11T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
+            },
             {
               "idFilm": 41103,
-              "ordre": 1,
-              "titre": "Désert rouge",
-              "art": "Le",
-              "titreVo": "Deserto rosso",
-              "artVo": "Il",
-              "realisateurs": "Michelangelo Antonioni",
-              "pays": "Italie-France",
-              "annee": 1963,
-              "duree": 116,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Richard Harris",
-                "Monica Vitti",
-                "Carlo Chionetti"
+              "content": [
+                {
+                  "idFilm": 41103,
+                  "ordre": 1,
+                  "titre": "Désert rouge",
+                  "art": "Le",
+                  "titreVo": "Deserto rosso",
+                  "artVo": "Il",
+                  "realisateurs": "Michelangelo Antonioni",
+                  "pays": "Italie-France",
+                  "annee": 1963,
+                  "duree": 116,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Richard Harris",
+                    "Monica Vitti",
+                    "Carlo Chionetti"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Plongée dans le psychisme d'une femme névrosée embarquée dans une aventure adultère, interrogation douloureuse sur l'avenir social de l'humanité. La description d'une Italie rouillée et polluée par l'activité industrielle, avec ses paysages fantomatiques et asphyxiants, offre un éclairage d'une indéniable acuité sur la situation du monde. Chaque plan s'apparente à de l'art brut, le cinéaste serpente entre Mondrian, Matta ou Morandi, et convoque Piero della Francesca, son peintre de prédilection, dans une mémorable séquence-hommage au Retable de Brera. C'est son premier film en couleurs (Lion d'or à la Mostra de Venise en 1964), sublime mise en images de son credo : « Je veux peindre la pellicule comme on peint une toile, inventer des relations entre les couleurs. »"
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Plongée dans le psychisme d'une femme névrosée embarquée dans une aventure adultère, interrogation douloureuse sur l'avenir social de l'humanité. La description d'une Italie rouillée et polluée par l'activité industrielle, avec ses paysages fantomatiques et asphyxiants, offre un éclairage d'une indéniable acuité sur la situation du monde. Chaque plan s'apparente à de l'art brut, le cinéaste serpente entre Mondrian, Matta ou Morandi, et convoque Piero della Francesca, son peintre de prédilection, dans une mémorable séquence-hommage au Retable de Brera. C'est son premier film en couleurs (Lion d'or à la Mostra de Venise en 1964), sublime mise en images de son credo : « Je veux peindre la pellicule comme on peint une toile, inventer des relations entre les couleurs. »"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 118591,
-              "dateHeure": "2024-04-11T21:00:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 118591,
+                  "idSeanceAssoc": 118591,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-04-11T21:00:00",
+                  "idSalle": "HL",
+                  "mention": "Séance présentée par Federico Pierotti",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -694,30 +722,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30214,
-          "content": [
-            {
-              "idConf": 30214,
-              "titre": "[Titre conférence]",
-              "sousTitre": "Conférence de Federico Pierotti",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 123018,
-              "dateHeure": "2024-04-11T19:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -726,6 +730,13 @@
         "titre": "[Titre conférence]",
         "mention": "par Federico Pierotti",
         "dateHeure": "2024-04-11T19:00:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Le Désert rouge",
+        "mention": "par Federico Pierotti",
+        "dateHeure": "2024-04-11T21:00:00"
       }
     ]
   }

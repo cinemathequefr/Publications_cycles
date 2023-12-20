@@ -45,12 +45,11 @@
 
   * Napoléon vu par Abel Gance (extraits)
 
-## Aujourd'hui le cinéma (15)
+## Aujourd'hui le cinéma (14)
 
   * Agathe, Solange et moi  
   * Best Secret Place  
   * Fogaréu  
-  * Île (L')  
   * Ishi ga aru  
   * Maurice's Bar  
   * Oyu  
