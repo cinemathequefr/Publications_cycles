@@ -6,6 +6,25 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
+          "idConf": 30009,
+          "content": [
+            {
+              "idConf": 30009,
+              "titre": "Gaumont-Palace, demandez le programme !",
+              "sousTitre": "Conférence de Laurent Mannoni et Laurent Véray",
+              "typeConference": "Conférence",
+              "miniTexte": "À l'occasion de la publication de _Demandez le programme ! Une histoire du cinéma (1894-1930) vue par les programmes des lieux de projection_ (Créaphis, 2023), actes de la journée d'étude tenue à la Cinémathèque française le 28 février 2020, retour sur l'histoire du « plus grand cinéma du monde », le Gaumont-Palace de la place Clichy à Paris. D'abord hippodrome, ensuite cinéma en 1911, cette salle mythique et populaire ferme ses portes en 1972, après avoir connu toutes les innovations techniques, du sonore au Cinérama. Présentation de documents rares, étude des programmes pendant la Grande Guerre."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 123144,
+              "dateHeure": "2024-03-15T16:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idConf": 30208,
           "content": [
             {
@@ -48,6 +67,11 @@
   ],
   "syntheseAction": {
     "Conférences": [
+      {
+        "titre": "Gaumont-Palace, demandez le programme !",
+        "mention": "par Laurent Mannoni et Laurent Véray",
+        "dateHeure": "2024-03-15T16:00:00"
+      },
       {
         "titre": "Le cinéma sous-marin, de « Wonders of the Sea » des frères Williamson à « Avatar : La Voie de l'eau »",
         "mention": "par Laurent Mannoni",
