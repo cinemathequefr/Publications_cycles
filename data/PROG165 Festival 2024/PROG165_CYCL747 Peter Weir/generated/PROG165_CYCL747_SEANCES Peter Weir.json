@@ -50,7 +50,7 @@
     "typeEvenement": 13,
     "idEvenement": 30104,
     "idSeance": 118219,
-    "dateHeure": "2024-03-14T18:30:00",
+    "dateHeure": "2024-03-14T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -65,6 +65,29 @@
         "duree": 103,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3280,
+    "typeEvenement": 13,
+    "idEvenement": 30199,
+    "idSeance": 123103,
+    "dateHeure": "2024-03-15T14:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 38168,
+        "ordre": 1,
+        "idSeance": 123103,
+        "idCopie": 10655,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -178,29 +201,6 @@
         "idSeance": 118318,
         "idCopie": 27335,
         "duree": 135,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3280,
-    "typeEvenement": 13,
-    "idEvenement": 30199,
-    "idSeance": 123103,
-    "dateHeure": "2024-03-17T18:00:00",
-    "idSalle": [
-      "LE",
-      "Lotte Eisner"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 38168,
-        "ordre": 1,
-        "idSeance": 123103,
-        "idCopie": 10655,
-        "duree": 123,
         "version": "VOSTF",
         "format": "35 mm"
       }

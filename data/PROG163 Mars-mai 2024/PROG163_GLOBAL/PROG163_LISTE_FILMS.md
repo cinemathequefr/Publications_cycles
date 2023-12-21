@@ -54,7 +54,6 @@
   * Chaleur (La)  
   * Fogaréu  
   * Gigi  
-  * Ishi ga aru  
   * Maurice's Bar  
   * Mort du petit cheval (La)  
   * Ovan Gruvan  
@@ -66,8 +65,9 @@
   * Retour à Toyama  
   * Rien d'important  
   * Sainte Sultana  
-  * Sem coração  
+  * Sans cœur  
   * Thé au harem d'Archimède (Le)  
+  * There Is a Stone  
   * Trois femmes brûlées  
   * Un petit frère  
   * Vérité (La)
@@ -93,8 +93,8 @@
 
   * Année dernière à Dachau (L')  
   * Empty Screen or The Metaphysics of Movies (The)  
-  * Guadeloupe  
-  * Machette et le marteau (La)  
+  * Guadeloupe, le pays des Belles-Eaux  
+  * Machette et le Marteau (La)  
   * Marriage of Greta Garbo and Sergei Eisenstein (The)  
   * Max & James & Danielle...  
   * Pathé-Revue 1927 n° ind. / Martinique  

@@ -43,11 +43,10 @@
   * Conte cruel  
   * Fièvre
 
-## Restaurations et incunables (33)
+## Restaurations et incunables (32)
 
   * Ailes de la colombe (Les)  
   * Aloïse  
-  * Alphaville, une étrange aventure de Lemmy Caution  
   * Bestia debe morir (La)  
   * Collateral  
   * Comédiennes  
@@ -86,10 +85,11 @@
   * Pauvres humains et ballons de papier  
   * Pot d'un million de yens = Tange Sazen et le pot d'un million de ryôs (Le)
 
-## UCLA Film and Television Archive (18)
+## UCLA Film and Television Archive (19)
 
   * Annihilation of Fish (The)  
   * Chasseurs de salut (Les)  
+  * Enfer de la corruption (L')  
   * Flash Gordin – In the Claws of the Tigron  
   * Flash Gordon – Battling the Sea Beast  
   * Flash Gordon – Captured by Shark Men  
