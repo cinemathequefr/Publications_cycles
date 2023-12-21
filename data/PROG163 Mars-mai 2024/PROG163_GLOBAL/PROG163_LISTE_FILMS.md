@@ -45,18 +45,28 @@
 
   * Napoléon vu par Abel Gance (extraits)
 
-## Aujourd'hui le cinéma (14)
+## Aujourd'hui le cinéma (24)
 
   * Agathe, Solange et moi  
+  * Ballad (The)  
   * Best Secret Place  
+  * Canicule (La)  
+  * Chaleur (La)  
   * Fogaréu  
+  * Gigi  
   * Ishi ga aru  
   * Maurice's Bar  
+  * Mort du petit cheval (La)  
+  * Ovan Gruvan  
   * Oyu  
+  * Palestine Islands  
   * Psylo  
+  * Rapide  
   * Rémi  
   * Retour à Toyama  
   * Rien d'important  
+  * Sainte Sultana  
+  * Sem coração  
   * Thé au harem d'Archimède (Le)  
   * Trois femmes brûlées  
   * Un petit frère  
