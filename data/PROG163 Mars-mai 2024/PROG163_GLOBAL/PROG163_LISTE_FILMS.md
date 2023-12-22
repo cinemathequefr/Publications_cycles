@@ -110,7 +110,7 @@
   * Avatar  
   * Avatar : La Voie de l'eau  
   * Fantômes du Titanic (Les)  
-  * Piranha II : Les Tueurs volants  
+  * Piranha 2 : Les Tueurs volants  
   * Terminator  
   * Terminator 2, le jugement dernier  
   * Titanic  
@@ -231,7 +231,7 @@
   * Grease  
   * Guerre des boutons (La)  
   * Là-haut  
-  * Magicien d' Oz (Le)  
+  * Magicien d'Oz (Le)  
   * Mais qui a tué Harry ?  
   * Party (La)  
   * Pompoko  

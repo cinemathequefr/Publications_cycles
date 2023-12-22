@@ -281,6 +281,19 @@
   * Verte Moisson (La)  
   * Voyage fantastique de Marius (Le)
 
+## Gérardmer à Paris (10)
+
+  * Amelia's Children  
+  * Damnée (La)  
+  * En attendant la nuit  
+  * Forbidden Play (The)  
+  * Funeral (The)  
+  * Perpetrator  
+  * Resvrgis  
+  * Sleep  
+  * The Seeding  
+  * When Evil Lurks
+
 ## La comédie hollywoodienne classique, 25 indispensables (25)
 
   * Arsenic et vieilles dentelles  
