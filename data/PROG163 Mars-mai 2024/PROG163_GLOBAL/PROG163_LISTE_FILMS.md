@@ -237,7 +237,7 @@
   * Pompoko  
   * Prophétie des grenouilles (La)  
   * Qui veut la peau de Roger Rabbit  
-  * Soupe au canard
+  * Soupe au canard (La)
 
 ## Mae West (11)
 
