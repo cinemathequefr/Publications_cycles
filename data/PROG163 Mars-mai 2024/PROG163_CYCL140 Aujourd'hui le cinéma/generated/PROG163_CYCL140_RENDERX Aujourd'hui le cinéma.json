@@ -61,7 +61,8 @@
             {
               "idSeance": 123138,
               "dateHeure": "2024-03-11T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec François Robic"
             }
           ]
         }
@@ -114,7 +115,8 @@
             {
               "idSeance": 123139,
               "dateHeure": "2024-03-18T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Bob H.B. El Khayrat, Loïk Poupinaïs et Rémi Martin"
             }
           ]
         }
@@ -150,7 +152,8 @@
             {
               "idSeance": 123152,
               "dateHeure": "2024-03-25T20:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": " Séance suivie d'une discussion avec Nara Normande et Tião"
             }
           ]
         }
@@ -535,6 +538,9 @@
               "realisateurs": "Léonor Serraille",
               "pays": "France",
               "annee": 2021,
+              "duree": 116,
+              "version": "",
+              "format": "DCP",
               "generique": [
                 "Annabelle Lengronne",
                 "Stéphane Bak",
@@ -555,7 +561,12 @@
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
+      {
+        "dateHeure": "2024-03-25T20:00:00",
+        "titreFilms": "Sans cœur",
+        "mention": " Séance suivie d'une discussion avec Nara Normande et Tião"
+      },
       {
         "dateHeure": "2024-04-15T19:30:00",
         "titreFilms": "Best Secret Place",
@@ -563,6 +574,21 @@
       }
     ],
     "Discussions": [
+      {
+        "titreFilms": "Rien d'important / Trois femmes brûlées / Psylo",
+        "mention": "avec François Robic",
+        "dateHeure": "2024-03-11T19:00:00"
+      },
+      {
+        "titreFilms": "Rémi / Le Thé au harem d'Archimède",
+        "mention": "avec Bob H.B. El Khayrat, Loïk Poupinaïs et Rémi Martin",
+        "dateHeure": "2024-03-18T19:00:00"
+      },
+      {
+        "titreFilms": "Sans cœur",
+        "mention": "avec Nara Normande et Tião",
+        "dateHeure": "2024-03-25T20:00:00"
+      },
       {
         "titreFilms": "Fogaréu",
         "mention": "avec Flávia Neves",
