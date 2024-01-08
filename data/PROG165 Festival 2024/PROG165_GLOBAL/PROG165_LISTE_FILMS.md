@@ -13,9 +13,10 @@
   * Eveil (L')  
   * fête de Maria (La)
 
-## Machiko Kyō (4)
+## Machiko Kyō (5)
 
   * Contes de la lune vague après la pluie (Les)  
+  * Frère et sœur  
   * Herbes flottantes  
   * Rashōmon  
   * Rue de la honte (La)
@@ -26,10 +27,17 @@
   * Households Saints  
   * True Love
 
+## Peter Emanuel Goldman (4)
+
+  * Recommended by Duncan Hines  
+  * Sensualist (bande annonce) (The)  
+  * Sensualist (extrait) (The)  
+  * Wheel of Ashes
+
 ## Peter Weir (9)
 
   * Cercle des poètes disparus (Le)  
-  * Dernière vague (La)  
+  * Dernière Vague (La)  
   * Femme des sables (La)  
   * Jedda  
   * Master and Commander : De l'autre côté du monde  
@@ -38,21 +46,24 @@
   * Truman Show (The)  
   * Witness
 
-## Raretés des collections (2)
+## Raretés des collections (5)
 
   * Conte cruel  
-  * Fièvre
+  * Fièvre  
+  * Pêche à la morue à la ligne de Fond en Islande (La)  
+  * Vase (La)  
+  * Vent debout
 
-## Restaurations et incunables (32)
+## Restaurations et incunables (34)
 
   * Ailes de la colombe (Les)  
   * Aloïse  
+  * Alphaville, une étrange aventure de Lemmy Caution  
   * Bestia debe morir (La)  
   * Collateral  
   * Comédiennes  
   * Croix de fer  
   * Enamorada  
-  * Esqueleto de la señora Morales (El)  
   * Homme K (L')  
   * Jeanne d'Arc  
   * Judex, épisode 1 : L'Ombre mystérieuse  
@@ -74,16 +85,18 @@
   * Rendez-vous des quais (Le)  
   * Revanche de la créature (La)  
   * Rue (La)  
+  * Squelette de Madame Morales (Le)  
   * Suspect (Le)  
+  * Tendre Dracula  
   * Toute une nuit  
   * Typhoon club
 
 ## Sadao Yamanaka (4)
 
-  * Kôchiyama Sôshun  
   * Nezumikozō Jirokichi  
   * Pauvres humains et ballons de papier  
-  * Pot d'un million de yens = Tange Sazen et le pot d'un million de ryôs (Le)
+  * Pot d'un million de yens = Tange Sazen et le pot d'un million de ryôs (Le)  
+  * Priest of Darkness
 
 ## UCLA Film and Television Archive (19)
 
@@ -103,6 +116,6 @@
   * Flash Gordon – The Unseen Peril  
   * Flash Gordon – Tournament of Death  
   * Flash Gordon – Trapped in the Turret  
-  * I, the Jury  
-  * Mortal Storm  
+  * J'aurai ta peau  
+  * Tempête qui tue (La)  
   * Vampiro negro (El)  

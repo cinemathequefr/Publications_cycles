@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2024-03-14T18:30:00",
-    "2024-03-14T18:30:00"
+    "2024-03-14T18:00:00",
+    "2024-03-14T20:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -79,6 +79,98 @@
               "idSeance": 118216,
               "dateHeure": "2024-03-14T18:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154689,
+          "content": [
+            {
+              "idFilm": 154689,
+              "ordre": 1,
+              "titre": "Pêche à la morue à la ligne de Fond en Islande",
+              "art": "La",
+              "realisateurs": "Jean Nédelec",
+              "pays": "France",
+              "annee": 1911,
+              "duree": 6,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Vent debout",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130519,
+              "dateHeure": "2024-03-14T18:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 87358,
+          "content": [
+            {
+              "idFilm": 87358,
+              "ordre": 1,
+              "titre": "Vase",
+              "art": "La",
+              "realisateurs": "Heinz von Kramer",
+              "pays": "Suisse",
+              "annee": 1970,
+              "duree": 80,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Eugène Ionesco"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 128826,
+              "dateHeure": "2024-03-14T20:00:00",
+              "idSalle": "LE"
+            }
+          ]
+        },
+        {
+          "idFilm": 49706,
+          "content": [
+            {
+              "idFilm": 49706,
+              "ordre": 2,
+              "titre": "Vent debout",
+              "realisateurs": "René Leprince",
+              "pays": "France",
+              "annee": 1922,
+              "duree": 85,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Pêche à la morue à la ligne de Fond en Islande",
+                    "La"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130519,
+              "dateHeure": "2024-03-14T18:00:00",
+              "idSalle": "JE"
             }
           ]
         }
