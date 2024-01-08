@@ -6,6 +6,25 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 36382,
+          "content": [
+            {
+              "idFilm": 36382,
+              "ordre": 1,
+              "duree": 118,
+              "version": "VF",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130523,
+              "dateHeure": "2024-03-24T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 45717,
           "content": [
             {
@@ -61,39 +80,6 @@
               "idSeance": 118434,
               "dateHeure": "2024-04-07T14:30:00",
               "idSalle": "HL",
-              "ageMinimal": 10
-            }
-          ]
-        },
-        {
-          "idFilm": 36623,
-          "content": [
-            {
-              "idFilm": 36623,
-              "ordre": 1,
-              "titre": "Aventuriers de l'Arche perdue",
-              "art": "Les",
-              "titreVo": "Raiders of the Lost Ark",
-              "realisateurs": "Steven Spielberg",
-              "pays": "États-Unis",
-              "annee": 1980,
-              "duree": 115,
-              "version": "VF",
-              "format": "35 mm",
-              "ageMinimal": 10,
-              "generique": [
-                "Harrison Ford",
-                "Karen Allen",
-                "Paul Freeman"
-              ],
-              "miniTexte": "Le premier volet des aventures d'Indiana Jones : poursuivi par les nazis, l'archéologue au fouet et au chapeau se lance dans une course effrénée de la jungle au désert égyptien, sur les traces de l'Arche d'alliance. Humour, action et suspense, BO emblématique : du très grand Spielberg."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 123022,
-              "dateHeure": "2024-03-24T15:00:00",
-              "idSalle": "GF",
               "ageMinimal": 10
             }
           ]

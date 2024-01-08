@@ -223,7 +223,6 @@
 ## Ma petite Cinémathèque (16)
 
   * Aristochats (Les)  
-  * Aventuriers de l'Arche perdue (Les)  
   * Chantons sous la pluie  
   * Dictateur (Le)  
   * Enfant sauvage (L')  
@@ -237,7 +236,8 @@
   * Pompoko  
   * Prophétie des grenouilles (La)  
   * Qui veut la peau de Roger Rabbit  
-  * Soupe au canard (La)
+  * Soupe au canard (La)  
+  * undefined
 
 ## Mae West (12)
 

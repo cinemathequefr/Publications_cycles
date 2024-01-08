@@ -1,6 +1,6 @@
 > À l'occasion de la grande exposition qui lui est consacrée, rétrospective intégrale des films de James Cameron sur écran géant. Démiurge génial, il truste les sommets du box-office depuis ses débuts, en ne cédant jamais rien ni sur l'exigence, ni sur l'innovation. Ses films de science-fiction, _Aliens_, _Terminator_ ou _Avatar_ ont tous été des marqueurs dans l'histoire du genre et des effets spéciaux, quand ses drames, _Abyss_ ou _Titanic_, ont eux atteint un degré d'universel qui ne connaît aucun équivalent depuis 40 ans.
 
-# TITRE EN ATTENTE
+# [James Cameron]
 
 Son nom est à la fois la promesse d'un spectacle monumental et celle de prouesses visuelles inédites. En moins de dix longs métrages, James Cameron s'est imposé comme l'un des réalisateurs phares d'Hollywood, décrochant de nouveaux records à chaque film, imposant de nouvelles normes artistiques et technologiques. Mais, au-delà du bruit et de la fureur de ses monumentaux blockbusters, se cache un cinéaste d'une sensibilité rare, d'une tendresse insoupçonnée.
 
