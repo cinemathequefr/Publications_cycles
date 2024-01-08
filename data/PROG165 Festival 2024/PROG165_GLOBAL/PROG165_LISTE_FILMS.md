@@ -30,7 +30,7 @@
 ## Peter Emanuel Goldman (4)
 
   * Recommended by Duncan Hines  
-  * Sensualist (bande annonce) (The)  
+  * Sensualist (bande-annonce) (The)  
   * Sensualist (extrait) (The)  
   * Wheel of Ashes
 
