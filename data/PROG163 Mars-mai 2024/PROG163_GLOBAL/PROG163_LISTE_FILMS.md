@@ -239,7 +239,7 @@
   * Qui veut la peau de Roger Rabbit  
   * Soupe au canard (La)
 
-## Mae West (11)
+## Mae West (12)
 
   * Annie du Klondike  
   * Ce n'est pas un péché  
@@ -250,6 +250,7 @@
   * Je veux être une lady  
   * Lady Lou  
   * Mon petit poussin chéri  
+  * Myra Breckinridge  
   * Nuit après nuit  
   * Sextette
 
