@@ -229,6 +229,7 @@
   * Fantastic Mr. Fox  
   * Grease  
   * Guerre des boutons (La)  
+  * Indiana Jones et le temple maudit  
   * Là-haut  
   * Magicien d'Oz (Le)  
   * Mais qui a tué Harry ?  
@@ -236,8 +237,7 @@
   * Pompoko  
   * Prophétie des grenouilles (La)  
   * Qui veut la peau de Roger Rabbit  
-  * Soupe au canard (La)  
-  * undefined
+  * Soupe au canard (La)
 
 ## Mae West (12)
 
