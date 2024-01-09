@@ -10,8 +10,8 @@
 ## Judit Elek (3)
 
   * Dame de Constantinople (La)  
-  * Eveil (L')  
-  * fête de Maria (La)
+  * Éveil (L')  
+  * Fête de Maria (La)
 
 ## Machiko Kyō (5)
 
@@ -95,7 +95,7 @@
 
   * Nezumikozō Jirokichi  
   * Pauvres humains et ballons de papier  
-  * Pot d'un million de yens = Tange Sazen et le pot d'un million de ryôs (Le)  
+  * Pot d'un million de ryō (Le)  
   * Priest of Darkness
 
 ## UCLA Film and Television Archive (19)
@@ -103,11 +103,11 @@
   * Annihilation of Fish (The)  
   * Chasseurs de salut (Les)  
   * Enfer de la corruption (L')  
-  * Flash Gordin – In the Claws of the Tigron  
   * Flash Gordon – Battling the Sea Beast  
   * Flash Gordon – Captured by Shark Men  
   * Flash Gordon – Fighting the Fire Dragon  
   * Flash Gordon – Flaming Torture  
+  * Flash Gordon – In the Claws of the Tigron  
   * Flash Gordon – La Planète maudite  
   * Flash Gordon – Le Tunnel de la terreur  
   * Flash Gordon – Rocketing to Earth  
