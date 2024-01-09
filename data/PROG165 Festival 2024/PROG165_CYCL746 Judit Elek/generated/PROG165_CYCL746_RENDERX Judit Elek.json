@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-03-14T14:30:00",
-    "2024-03-16T14:00:00"
+    "2024-03-16T15:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -79,7 +79,31 @@
           "seances": [
             {
               "idSeance": 123125,
-              "dateHeure": "2024-03-14T20:00:00",
+              "dateHeure": "2024-03-14T20:15:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 1,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30321,
+          "content": [
+            {
+              "idEvenement": 30321,
+              "titre": "Dialogue avec Judit Elek",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Damien Marguet"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130522,
+              "dateHeure": "2024-03-16T15:30:00",
               "idSalle": "JE"
             }
           ]
@@ -87,5 +111,12 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "avec Judit Elek",
+        "dateHeure": "2024-03-16T15:30:00"
+      }
+    ]
+  }
 }

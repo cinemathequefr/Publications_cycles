@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-03-13T16:30:00",
-    "2024-03-17T14:30:00"
+    "2024-03-17T17:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -214,7 +214,7 @@
               "pays": "Japon",
               "annee": 1964,
               "duree": 123,
-              "version": "VOSTF",
+              "version": "",
               "format": "35 mm",
               "adaptation": "D'après le roman _La Femme des sables_ de Kôbô Abe."
             }
@@ -280,7 +280,58 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 1,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30108,
+          "content": [
+            {
+              "idEvenement": 30108,
+              "titre": "Dialogue avec Peter Weir",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130520,
+              "dateHeure": "2024-03-14T20:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 30109,
+          "content": [
+            {
+              "idEvenement": 30109,
+              "titre": "Dialogue avec Peter Weir",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130521,
+              "dateHeure": "2024-03-17T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "mention": "avec Peter Weir",
+        "dateHeure": "2024-03-14T20:15:00"
+      },
+      {
+        "mention": "avec Peter Weir",
+        "dateHeure": "2024-03-17T17:00:00"
+      }
+    ]
+  }
 }
