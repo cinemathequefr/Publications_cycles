@@ -7,11 +7,14 @@
   * Symphonie pour un massacre  
   * Un papillon sur l'épaule
 
-## Judit Elek (3)
+## Judit Elek (6)
 
   * Dame de Constantinople (La)  
   * Éveil (L')  
-  * Fête de Maria (La)
+  * Fête de Maria (La)  
+  * Mémoires d'une rivière  
+  * Procès Martinovics (Le)  
+  * Visszatérés – Retrace
 
 ## Machiko Kyō (5)
 
@@ -27,39 +30,53 @@
   * Households Saints  
   * True Love
 
-## Peter Emanuel Goldman (4)
+## Peter Emanuel Goldman (6)
 
+  * Echoes of Silence  
+  * Pestilent City  
   * Recommended by Duncan Hines  
   * Sensualist (bande-annonce) (The)  
   * Sensualist (extrait) (The)  
   * Wheel of Ashes
 
-## Peter Weir (9)
+## Peter Weir (11)
 
   * Cercle des poètes disparus (Le)  
   * Dernière Vague (La)  
+  * État second  
   * Femme des sables (La)  
   * Jedda  
   * Master and Commander : De l'autre côté du monde  
   * Picnic à Hanging Rock  
   * Swimmer (The)  
   * Truman Show (The)  
+  * Voitures qui ont mangé Paris (Les)  
   * Witness
 
-## Raretés des collections (5)
+## Raretés des collections (14)
 
+  * Accident (L')  
   * Conte cruel  
+  * Départ des Terre-Neuvas  
   * Fièvre  
+  * Industrie du hareng à Boulogne-sur-mer (L')  
   * Pêche à la morue à la ligne de Fond en Islande (La)  
+  * Pêche aux cordes (La)  
+  * Pêche aux homards (La)  
+  * Retour de la pêche à la sardine aux Sables-d'Olonne  
+  * Surcouf  
+  * Tabataba  
+  * Traversée de la Manche à la nage  
   * Vase (La)  
   * Vent debout
 
-## Restaurations et incunables (34)
+## Restaurations et incunables (39)
 
   * Ailes de la colombe (Les)  
   * Aloïse  
   * Alphaville, une étrange aventure de Lemmy Caution  
   * Bestia debe morir (La)  
+  * Châteaux de sable  
   * Collateral  
   * Comédiennes  
   * Croix de fer  
@@ -81,15 +98,19 @@
   * Judex : Prologue  
   * Macario  
   * Moissons du ciel (Les)  
+  * Opinion publique (L')  
   * Paris vu par 20 ans après : J'ai faim, j'ai froid  
+  * Petit Pierre  
   * Rendez-vous des quais (Le)  
   * Revanche de la créature (La)  
   * Rue (La)  
-  * Squelette de Madame Morales (Le)  
+  * Squelette de madame Morales (Le)  
   * Suspect (Le)  
   * Tendre Dracula  
+  * Théâtre du triangle (Le)  
   * Toute une nuit  
-  * Typhoon club
+  * Typhoon Club  
+  * Véronique et son cancre
 
 ## Sadao Yamanaka (4)
 
