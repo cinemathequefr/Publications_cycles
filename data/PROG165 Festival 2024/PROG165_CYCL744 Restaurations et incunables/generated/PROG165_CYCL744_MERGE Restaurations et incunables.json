@@ -2,7 +2,7 @@
   "data": [
     {
       "titreSousCycle": "Les films",
-      "tri": 1,
+      "tri": 2,
       "items": [
         {
           "idSeance": 128823,
@@ -38,7 +38,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Le scan 4K a été fait en Italie par Augustus Color, la restauration chez Hiventy et l'étalonnage avec Benoit Jacquot et Caroline Champetier. Cette nouvelle restauration a été validée par le réalisateur du film."
+              "texte": "Scan 4K réalisé en Italie par Augustus Color. Restauration chez Hiventy, étalonnage Benoît Jacquot et Caroline Champetier."
             }
           ]
         },
@@ -62,10 +62,19 @@
           "duree": 118,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Isabelle Huppert",
+            "Delphine Seyrig",
+            "Michael Lonsdale"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
               "texte": "Photographe de plateau pour Varda et Resnais, Liliane de Kermadec réalise un portrait de l'artiste suisse Aloïse Corbaz (1886-1964), qui passa les 46 dernières années de sa vie internée pour schizophrénie, et dont les œuvres furent réunies dans la collection d'art brut de Jean Dubuffet. Isabelle Huppert et Delphine Seyrig incarnent, à deux âges différents, la richesse d'une figure toute de désirs étouffés."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Nouvelle version restaurée en 4K par TF1 Studio, avec le soutien de la Cinémathèque française et la Cinémathèque suisse, à partir du négatif image et du magnétique son français. Travaux numériques et photochimiques par le laboratoire Hiventy (TransPerfect Media France) en 2023. Distribution Les Acacias."
             }
           ]
         },
@@ -78,6 +87,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "mention": "Séance présentée par Jean-François Rauger",
           "idCategorie": 3238,
           "idEvenement": 30273,
           "typeEvenement": 13,
@@ -99,6 +109,10 @@
             {
               "typeTexte": 1000,
               "texte": "L'agent secret Lemmy Caution se rend à Alphaville, cité futuriste contrôlée par l'intelligence artificielle Alpha 60, où les émotions sont bannies et certains mots supprimés. Avec son héros de polar plongé dans un décor de science-fiction, Godard affine un langage et des motifs qui préfigurent les plus grandes productions dystopiques (_2001_, _Blade Runner_, _Soleil vert_)."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration 4K par Hiventy à partir du négatif original 35 mm et du négatif son, avec le soutien du CNC. Négatif noir et blanc composé de pellicules Ilford, Agfa et Kodak remis en état avant d'être scanné par immersion en 4K, étalonné et nettoyé numériquement."
             }
           ]
         },
@@ -123,6 +137,11 @@
           "duree": 95,
           "version": "VOSTF",
           "format": "DCP",
+          "generique": [
+            "Narciso Ibáñez Menta",
+            "Laura Hidalgo",
+            "Guillermo Battaglia"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
@@ -185,6 +204,12 @@
           "duree": 98,
           "version": "INT. FR.",
           "format": "DCP",
+          "generique": [
+            "Florence Vidor",
+            "Adolph Menjou",
+            "Monte Blue",
+            "Marie Prevost"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
@@ -192,7 +217,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Restauration 4K par le MoMA (Museum of Modern Art), avec le soutien de Matthew et Natalie Bernstein."
+              "texte": "Restauration 4K par le MoMA, avec le soutien de Matthew et Natalie Bernstein."
             }
           ]
         },
@@ -843,6 +868,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "mention": "Séance présentée par Jean-François Rauger",
           "idCategorie": 3238,
           "idEvenement": 29934,
           "typeEvenement": 13,
