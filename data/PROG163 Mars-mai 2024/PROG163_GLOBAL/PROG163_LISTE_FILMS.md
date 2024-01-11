@@ -198,7 +198,7 @@
 
   * Allez coucher ailleurs  
   * Amours d'Astrée et de Céladon (Les)  
-  * Buster s'en va en guerre  
+  * Buster s'en va-t-en guerre  
   * Cage aux folles (La)  
   * Certains l'aiment chaud  
   * C'est l'homme  

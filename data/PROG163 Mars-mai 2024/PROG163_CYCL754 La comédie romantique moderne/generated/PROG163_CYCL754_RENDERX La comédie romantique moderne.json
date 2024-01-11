@@ -94,7 +94,8 @@
             {
               "idSeance": 117369,
               "dateHeure": "2024-05-10T18:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Guillaume Boure"
             }
           ]
         },
@@ -220,7 +221,7 @@
           "seances": [
             {
               "idSeance": 117630,
-              "dateHeure": "2024-05-20T18:00:00",
+              "dateHeure": "2024-05-20T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -618,11 +619,16 @@
     }
   ],
   "syntheseAction": {
-    "Séance présentée": [
+    "Séances présentées": [
       {
         "titreFilms": "Pretty Woman",
         "mention": "par Arnaud Desplechin",
         "dateHeure": "2024-05-08T20:00:00"
+      },
+      {
+        "titreFilms": "Dirty Dancing",
+        "mention": "par Guillaume Boure",
+        "dateHeure": "2024-05-10T18:00:00"
       }
     ]
   }
