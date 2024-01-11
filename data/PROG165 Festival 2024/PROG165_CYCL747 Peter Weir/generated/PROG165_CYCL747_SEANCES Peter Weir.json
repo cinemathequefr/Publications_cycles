@@ -115,44 +115,6 @@
     ]
   },
   {
-    "idCategorie": 3241,
-    "typeEvenement": 13,
-    "idEvenement": 30104,
-    "idSeance": 118219,
-    "dateHeure": "2024-03-14T19:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 29517,
-        "ordre": 1,
-        "idSeance": 118219,
-        "idCopie": 23380,
-        "duree": 103,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3276,
-    "typeEvenement": 14,
-    "idEvenement": 30108,
-    "idSeance": 130520,
-    "dateHeure": "2024-03-14T20:15:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 90,
-    "items": [
-      {}
-    ]
-  },
-  {
     "idCategorie": 3280,
     "typeEvenement": 13,
     "idEvenement": 30197,
@@ -201,9 +163,51 @@
   {
     "idCategorie": 3241,
     "typeEvenement": 13,
+    "idEvenement": 30104,
+    "idSeance": 118219,
+    "dateHeure": "2024-03-16T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 29517,
+        "ordre": 1,
+        "idSeance": 118219,
+        "idCopie": 23380,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3276,
+    "typeEvenement": 14,
+    "idEvenement": 30108,
+    "idSeance": 118219,
+    "dateHeure": "2024-03-16T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 75,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 3241,
+    "typeEvenement": 13,
     "idEvenement": 30106,
     "idSeance": 123082,
-    "dateHeure": "2024-03-16T14:30:00",
+    "dateHeure": "2024-03-16T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -218,29 +222,6 @@
         "duree": 129,
         "version": "VOSTF",
         "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3241,
-    "typeEvenement": 13,
-    "idEvenement": 30101,
-    "idSeance": 118325,
-    "dateHeure": "2024-03-16T17:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 38856,
-        "ordre": 1,
-        "idSeance": 118325,
-        "idCopie": 27337,
-        "duree": 106,
-        "version": "VOSTF",
-        "format": "DCP"
       }
     ]
   },
@@ -270,6 +251,29 @@
   {
     "idCategorie": 3241,
     "typeEvenement": 13,
+    "idEvenement": 30101,
+    "idSeance": 118325,
+    "dateHeure": "2024-03-16T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 38856,
+        "ordre": 1,
+        "idSeance": 118325,
+        "idCopie": 27337,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3241,
+    "typeEvenement": 13,
     "idEvenement": 30105,
     "idSeance": 118318,
     "dateHeure": "2024-03-17T14:30:00",
@@ -278,6 +282,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 165,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 88453,
@@ -294,15 +299,18 @@
     "idCategorie": 3276,
     "typeEvenement": 14,
     "idEvenement": 30109,
-    "idSeance": 130521,
-    "dateHeure": "2024-03-17T17:00:00",
+    "idSeance": 118318,
+    "dateHeure": "2024-03-17T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 90,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   }
 ]

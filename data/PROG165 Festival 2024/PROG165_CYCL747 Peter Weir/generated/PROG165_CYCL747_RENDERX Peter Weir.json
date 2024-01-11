@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-03-13T12:00:00",
-    "2024-03-17T17:00:00"
+    "2024-03-17T14:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -36,7 +36,7 @@
           "seances": [
             {
               "idSeance": 123082,
-              "dateHeure": "2024-03-16T14:30:00",
+              "dateHeure": "2024-03-16T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -68,7 +68,7 @@
           "seances": [
             {
               "idSeance": 118325,
-              "dateHeure": "2024-03-16T17:30:00",
+              "dateHeure": "2024-03-16T21:00:00",
               "idSalle": "HL"
             }
           ]
@@ -131,6 +131,7 @@
           "seances": [
             {
               "idSeance": 118318,
+              "typeAssoc": 118,
               "dateHeure": "2024-03-17T14:30:00",
               "idSalle": "HL"
             }
@@ -191,14 +192,14 @@
                 "Ed Harris",
                 "Laura Linney"
               ],
-              "miniTexte": "Dans une petite ville « de rêve », un homme ordinaire vit une existence parfaitement réglée, jusqu'à ce qu'il découvre peu à peu l'envers du décor. Une critique de l'American way of life de l'après-guerre, de la télésurveillance, de la télé-(ir)réalité, en même temps qu'une sorte de documentaire sur le tournage d'un film de studio à Hollywood, par exemple avec Jim Carrey.",
-              "mentionRestauration": "Restauration 4K à partir du négatif original, mastering réalisé par Paramount."
+              "miniTexte": "Dans une petite ville « de rêve », un homme ordinaire vit une existence parfaitement réglée, jusqu'à ce qu'il découvre peu à peu l'envers du décor. Une critique de l'American way of life de l'après-guerre, de la télésurveillance, de la télé-(ir)réalité, en même temps qu'une sorte de documentaire sur le tournage d'un film de studio à Hollywood, par exemple avec Jim Carrey."
             }
           ],
           "seances": [
             {
               "idSeance": 118219,
-              "dateHeure": "2024-03-14T19:00:00",
+              "typeAssoc": 118,
+              "dateHeure": "2024-03-16T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -359,14 +360,16 @@
           "content": [
             {
               "idEvenement": 30108,
+              "ordre": 2,
               "titre": "Dialogue avec Peter Weir",
               "typeConference": "Dialogue"
             }
           ],
           "seances": [
             {
-              "idSeance": 130520,
-              "dateHeure": "2024-03-14T20:15:00",
+              "idSeance": 118219,
+              "typeAssoc": 118,
+              "dateHeure": "2024-03-16T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -376,14 +379,16 @@
           "content": [
             {
               "idEvenement": 30109,
+              "ordre": 2,
               "titre": "Dialogue avec Peter Weir",
               "typeConference": "Dialogue"
             }
           ],
           "seances": [
             {
-              "idSeance": 130521,
-              "dateHeure": "2024-03-17T17:00:00",
+              "idSeance": 118318,
+              "typeAssoc": 118,
+              "dateHeure": "2024-03-17T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -394,12 +399,14 @@
   "syntheseAction": {
     "Dialogues": [
       {
+        "titreFilms": "The Truman Show",
         "mention": "avec Peter Weir",
-        "dateHeure": "2024-03-14T20:15:00"
+        "dateHeure": "2024-03-16T14:30:00"
       },
       {
+        "titreFilms": "Master and Commander : De l'autre côté du monde",
         "mention": "avec Peter Weir",
-        "dateHeure": "2024-03-17T17:00:00"
+        "dateHeure": "2024-03-17T14:30:00"
       }
     ]
   }

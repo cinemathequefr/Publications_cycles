@@ -829,28 +829,29 @@
     "hashEvenement": "f50240f48026"
   },
   {
-    "idSeance": 123145,
-    "idEvenement": 30297,
+    "idSeance": 118219,
+    "idEvenement": 30104,
     "dateHeure": "2024-03-14T19:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Restaurations et incunables",
+        "Peter Weir",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 31570,
-        "titre": "Jeanne d'Arc",
-        "realisateurs": "Cecil B. DeMille",
-        "annee": 1916,
-        "duree": 157,
-        "version": "INT. FR.",
+        "idFilm": 29517,
+        "titre": "Truman Show",
+        "art": "The",
+        "realisateurs": "Peter Weir",
+        "annee": 1996,
+        "duree": 103,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f31570"
+    "hashEvenement": "f29517"
   },
   {
     "idSeance": 118307,
@@ -874,6 +875,27 @@
       }
     ],
     "hashEvenement": "f49459"
+  },
+  {
+    "idSeance": 130520,
+    "idEvenement": 30108,
+    "dateHeure": "2024-03-14T20:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Peter Weir",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30108,
+        "titre": "Dialogue avec Peter Weir",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30108"
   },
   {
     "idSeance": 123125,
@@ -1371,10 +1393,6 @@
       [
         "Judit Elek",
         "Les films"
-      ],
-      [
-        "Judit Elek",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1387,15 +1405,9 @@
         "duree": 77,
         "version": "VOSTF",
         "format": "DCP"
-      },
-      {
-        "idConf": 30321,
-        "titre": "Dialogue avec Judit Elek",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f40921c30321"
+    "hashEvenement": "f40921"
   },
   {
     "idSeance": 118264,
@@ -1468,39 +1480,50 @@
     "hashEvenement": "f117690f117689f154657f154658f154659f154660"
   },
   {
-    "idSeance": 118219,
-    "idEvenement": 30104,
+    "idSeance": 123082,
+    "idEvenement": 30106,
     "dateHeure": "2024-03-16T14:30:00",
     "salle": "HL",
     "cycle": [
       [
         "Peter Weir",
         "Les films"
-      ],
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 37816,
+        "titre": "Cercle des poètes disparus",
+        "art": "Le",
+        "realisateurs": "Peter Weir",
+        "annee": 1989,
+        "duree": 129,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f37816"
+  },
+  {
+    "idSeance": 130522,
+    "idEvenement": 30321,
+    "dateHeure": "2024-03-16T15:30:00",
+    "salle": "JE",
+    "cycle": [
       [
-        "Peter Weir",
+        "Judit Elek",
         "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 29517,
-        "titre": "Truman Show",
-        "art": "The",
-        "realisateurs": "Peter Weir",
-        "annee": 1996,
-        "duree": 103,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idConf": 30108,
-        "titre": "Dialogue avec Peter Weir",
+        "idConf": 30321,
+        "titre": "Dialogue avec Judit Elek",
         "typeConference": "Dialogue",
         "duree": 60
       }
     ],
-    "hashEvenement": "f29517c30108"
+    "hashEvenement": "c30321"
   },
   {
     "idSeance": 118306,
@@ -1613,9 +1636,9 @@
     "hashEvenement": "f154661f154662f154663f154664f154665f154666f154667"
   },
   {
-    "idSeance": 123082,
-    "idEvenement": 30106,
-    "dateHeure": "2024-03-16T18:00:00",
+    "idSeance": 118325,
+    "idEvenement": 30101,
+    "dateHeure": "2024-03-16T17:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1625,17 +1648,17 @@
     ],
     "items": [
       {
-        "idFilm": 37816,
-        "titre": "Cercle des poètes disparus",
-        "art": "Le",
+        "idFilm": 38856,
+        "titre": "Dernière Vague",
+        "art": "La",
         "realisateurs": "Peter Weir",
-        "annee": 1989,
-        "duree": 129,
+        "annee": 1977,
+        "duree": 106,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f37816"
+    "hashEvenement": "f38856"
   },
   {
     "idSeance": 123115,
@@ -1684,6 +1707,30 @@
       }
     ],
     "hashEvenement": "f77482"
+  },
+  {
+    "idSeance": 123145,
+    "idEvenement": 30297,
+    "dateHeure": "2024-03-16T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31570,
+        "titre": "Jeanne d'Arc",
+        "realisateurs": "Cecil B. DeMille",
+        "annee": 1916,
+        "duree": 157,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f31570"
   },
   {
     "idSeance": 118183,
@@ -1742,31 +1789,6 @@
       }
     ],
     "hashEvenement": "f45276"
-  },
-  {
-    "idSeance": 118325,
-    "idEvenement": 30101,
-    "dateHeure": "2024-03-16T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Peter Weir",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 38856,
-        "titre": "Dernière Vague",
-        "art": "La",
-        "realisateurs": "Peter Weir",
-        "annee": 1977,
-        "duree": 106,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f38856"
   },
   {
     "idSeance": 118263,
@@ -1925,10 +1947,6 @@
       [
         "Peter Weir",
         "Les films"
-      ],
-      [
-        "Peter Weir",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1940,15 +1958,9 @@
         "duree": 135,
         "version": "VOSTF",
         "format": "35 mm"
-      },
-      {
-        "idConf": 30109,
-        "titre": "Dialogue avec Peter Weir",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f88453c30109"
+    "hashEvenement": "f88453"
   },
   {
     "idSeance": 123151,
@@ -2022,6 +2034,27 @@
       }
     ],
     "hashEvenement": "f43628"
+  },
+  {
+    "idSeance": 130521,
+    "idEvenement": 30109,
+    "dateHeure": "2024-03-17T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Peter Weir",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30109,
+        "titre": "Dialogue avec Peter Weir",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30109"
   },
   {
     "idSeance": 123128,

@@ -7,7 +7,7 @@
         {
           "idSeance": 123082,
           "ordre": 1,
-          "dateHeure": "2024-03-16T14:30:00",
+          "dateHeure": "2024-03-16T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -42,7 +42,7 @@
         {
           "idSeance": 118325,
           "ordre": 1,
-          "dateHeure": "2024-03-16T17:30:00",
+          "dateHeure": "2024-03-16T21:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -83,6 +83,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 165,
+          "typeAssoc": 118,
           "idCategorie": 3241,
           "idEvenement": 30105,
           "typeEvenement": 13,
@@ -179,12 +180,13 @@
         {
           "idSeance": 118219,
           "ordre": 1,
-          "dateHeure": "2024-03-14T19:00:00",
+          "dateHeure": "2024-03-16T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3241,
           "idEvenement": 30104,
           "typeEvenement": 13,
@@ -206,10 +208,6 @@
             {
               "typeTexte": 1000,
               "texte": "Dans une petite ville « de rêve », un homme ordinaire vit une existence parfaitement réglée, jusqu'à ce qu'il découvre peu à peu l'envers du décor. Une critique de l'American way of life de l'après-guerre, de la télésurveillance, de la télé-(ir)réalité, en même temps qu'une sorte de documentaire sur le tournage d'un film de studio à Hollywood, par exemple avec Jim Carrey."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Restauration 4K à partir du négatif original, mastering réalisé par Paramount."
             }
           ]
         },
@@ -405,13 +403,15 @@
       "tri": 1,
       "items": [
         {
-          "idSeance": 130520,
-          "dateHeure": "2024-03-14T20:15:00",
+          "idSeance": 118219,
+          "ordre": 2,
+          "dateHeure": "2024-03-16T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 90,
+          "dureeSeance": 75,
+          "typeAssoc": 118,
           "idCategorie": 3276,
           "idEvenement": 30108,
           "typeEvenement": 14,
@@ -430,13 +430,15 @@
           ]
         },
         {
-          "idSeance": 130521,
-          "dateHeure": "2024-03-17T17:00:00",
+          "idSeance": 118318,
+          "ordre": 2,
+          "dateHeure": "2024-03-17T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
+          "typeAssoc": 118,
           "idCategorie": 3276,
           "idEvenement": 30109,
           "typeEvenement": 14,
