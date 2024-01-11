@@ -876,28 +876,29 @@
     "hashEvenement": "f49459"
   },
   {
-    "idSeance": 123127,
-    "idEvenement": 30200,
+    "idSeance": 123125,
+    "idEvenement": 30159,
     "dateHeure": "2024-03-14T20:15:00",
     "salle": "JE",
     "cycle": [
       [
-        "Peter Weir",
-        "Carte blanche à Peter Weir"
+        "Judit Elek",
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 45276,
-        "titre": "Jedda",
-        "realisateurs": "Charles Chauvel",
-        "annee": 1955,
-        "duree": 101,
-        "version": "VO",
-        "format": "35 mm"
+        "idFilm": 56767,
+        "titre": "Fête de Maria",
+        "art": "La",
+        "realisateurs": "Judit Elek",
+        "annee": 1983,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f45276"
+    "hashEvenement": "f56767"
   },
   {
     "idSeance": 128835,
@@ -1116,29 +1117,28 @@
     "hashEvenement": "f123824"
   },
   {
-    "idSeance": 123125,
-    "idEvenement": 30159,
+    "idSeance": 128826,
+    "idEvenement": 29926,
     "dateHeure": "2024-03-15T18:00:00",
     "salle": "LE",
     "cycle": [
       [
-        "Judit Elek",
+        "Raretés des collections",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 56767,
-        "titre": "Fête de Maria",
+        "idFilm": 87358,
+        "titre": "Vase",
         "art": "La",
-        "realisateurs": "Judit Elek",
-        "annee": 1983,
-        "duree": 120,
-        "version": "VOSTF",
+        "realisateurs": "Heinz von Kramer",
+        "annee": 1970,
+        "duree": 80,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f56767"
+    "hashEvenement": "f87358"
   },
   {
     "idSeance": 118260,
@@ -1363,10 +1363,45 @@
     "hashEvenement": "f44389"
   },
   {
+    "idSeance": 123130,
+    "idEvenement": 30158,
+    "dateHeure": "2024-03-16T14:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Judit Elek",
+        "Les films"
+      ],
+      [
+        "Judit Elek",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40921,
+        "titre": "Dame de Constantinople",
+        "art": "La",
+        "realisateurs": "Judit Elek",
+        "annee": 1968,
+        "duree": 77,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idConf": 30321,
+        "titre": "Dialogue avec Judit Elek",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f40921c30321"
+  },
+  {
     "idSeance": 118264,
     "idEvenement": 29944,
     "dateHeure": "2024-03-16T14:00:00",
-    "salle": "JE",
+    "salle": "LE",
     "cycle": [
       [
         "UCLA Film and Television Archive",
@@ -1433,41 +1468,6 @@
     "hashEvenement": "f117690f117689f154657f154658f154659f154660"
   },
   {
-    "idSeance": 123130,
-    "idEvenement": 30158,
-    "dateHeure": "2024-03-16T14:00:00",
-    "salle": "LE",
-    "cycle": [
-      [
-        "Judit Elek",
-        "Les films"
-      ],
-      [
-        "Judit Elek",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 40921,
-        "titre": "Dame de Constantinople",
-        "art": "La",
-        "realisateurs": "Judit Elek",
-        "annee": 1968,
-        "duree": 77,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idConf": 30321,
-        "titre": "Dialogue avec Judit Elek",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "f40921c30321"
-  },
-  {
     "idSeance": 118219,
     "idEvenement": 30104,
     "dateHeure": "2024-03-16T14:30:00",
@@ -1476,6 +1476,10 @@
       [
         "Peter Weir",
         "Les films"
+      ],
+      [
+        "Peter Weir",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1488,22 +1492,7 @@
         "duree": 103,
         "version": "VOSTF",
         "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f29517"
-  },
-  {
-    "idSeance": 130536,
-    "idEvenement": 30108,
-    "dateHeure": "2024-03-16T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Peter Weir",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 30108,
         "titre": "Dialogue avec Peter Weir",
@@ -1511,7 +1500,7 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c30108"
+    "hashEvenement": "f29517c30108"
   },
   {
     "idSeance": 118306,
@@ -1548,7 +1537,7 @@
     "idSeance": 118308,
     "idEvenement": 29951,
     "dateHeure": "2024-03-16T17:15:00",
-    "salle": "JE",
+    "salle": "LE",
     "cycle": [
       [
         "UCLA Film and Television Archive",
@@ -1624,30 +1613,6 @@
     "hashEvenement": "f154661f154662f154663f154664f154665f154666f154667"
   },
   {
-    "idSeance": 128826,
-    "idEvenement": 29926,
-    "dateHeure": "2024-03-16T17:30:00",
-    "salle": "LE",
-    "cycle": [
-      [
-        "Raretés des collections",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 87358,
-        "titre": "Vase",
-        "art": "La",
-        "realisateurs": "Heinz von Kramer",
-        "annee": 1970,
-        "duree": 80,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f87358"
-  },
-  {
     "idSeance": 123082,
     "idEvenement": 30106,
     "dateHeure": "2024-03-16T18:00:00",
@@ -1671,6 +1636,29 @@
       }
     ],
     "hashEvenement": "f37816"
+  },
+  {
+    "idSeance": 123115,
+    "idEvenement": 30293,
+    "dateHeure": "2024-03-16T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Nancy Savoca",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154740,
+        "titre": "Dogfight",
+        "realisateurs": "Nancy Savoca",
+        "annee": 1991,
+        "duree": 89,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f154740"
   },
   {
     "idSeance": 118262,
@@ -1698,57 +1686,9 @@
     "hashEvenement": "f77482"
   },
   {
-    "idSeance": 123115,
-    "idEvenement": 30293,
-    "dateHeure": "2024-03-16T19:30:00",
-    "salle": "LE",
-    "cycle": [
-      [
-        "Nancy Savoca",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154740,
-        "titre": "Dogfight",
-        "realisateurs": "Nancy Savoca",
-        "annee": 1991,
-        "duree": 89,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f154740"
-  },
-  {
-    "idSeance": 118325,
-    "idEvenement": 30101,
-    "dateHeure": "2024-03-16T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Peter Weir",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 38856,
-        "titre": "Dernière Vague",
-        "art": "La",
-        "realisateurs": "Peter Weir",
-        "annee": 1977,
-        "duree": 106,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f38856"
-  },
-  {
     "idSeance": 118183,
     "idEvenement": 30164,
-    "dateHeure": "2024-03-16T21:00:00",
+    "dateHeure": "2024-03-16T20:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -1778,6 +1718,55 @@
       }
     ],
     "hashEvenement": "f154703f38341"
+  },
+  {
+    "idSeance": 123127,
+    "idEvenement": 30200,
+    "dateHeure": "2024-03-16T20:45:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "Peter Weir",
+        "Carte blanche à Peter Weir"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45276,
+        "titre": "Jedda",
+        "realisateurs": "Charles Chauvel",
+        "annee": 1955,
+        "duree": 101,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f45276"
+  },
+  {
+    "idSeance": 118325,
+    "idEvenement": 30101,
+    "dateHeure": "2024-03-16T21:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Peter Weir",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 38856,
+        "titre": "Dernière Vague",
+        "art": "La",
+        "realisateurs": "Peter Weir",
+        "annee": 1977,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f38856"
   },
   {
     "idSeance": 118263,
@@ -1936,6 +1925,10 @@
       [
         "Peter Weir",
         "Les films"
+      ],
+      [
+        "Peter Weir",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1947,9 +1940,15 @@
         "duree": 135,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 30109,
+        "titre": "Dialogue avec Peter Weir",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f88453"
+    "hashEvenement": "f88453c30109"
   },
   {
     "idSeance": 123151,
@@ -2025,27 +2024,6 @@
     "hashEvenement": "f43628"
   },
   {
-    "idSeance": 130521,
-    "idEvenement": 30109,
-    "dateHeure": "2024-03-17T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Peter Weir",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 30109,
-        "titre": "Dialogue avec Peter Weir",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c30109"
-  },
-  {
     "idSeance": 123128,
     "idEvenement": 29973,
     "dateHeure": "2024-03-17T17:30:00",
@@ -2116,6 +2094,30 @@
     "hashEvenement": "f49042"
   },
   {
+    "idSeance": 123120,
+    "idEvenement": 30034,
+    "dateHeure": "2024-03-17T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42963,
+        "titre": "Croix de fer",
+        "realisateurs": "Sam Peckinpah",
+        "annee": 1976,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42963"
+  },
+  {
     "idSeance": 118321,
     "idEvenement": 30032,
     "dateHeure": "2024-03-17T20:00:00",
@@ -2138,29 +2140,5 @@
       }
     ],
     "hashEvenement": "f54851"
-  },
-  {
-    "idSeance": 123120,
-    "idEvenement": 30034,
-    "dateHeure": "2024-03-17T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 42963,
-        "titre": "Croix de fer",
-        "realisateurs": "Sam Peckinpah",
-        "annee": 1976,
-        "duree": 130,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f42963"
   }
 ]

@@ -1,4 +1,4 @@
-> Un siècle de comédies, de drames et de thrillers, 100 ans de masques, de maquillages, de perruques, de bas résilles et de porte-jarretelles. Où l'on croisera Buster Keaton, Tony Curtis et Jack Lemmon, Ed Wood et ses pulls mohair, Dustin Hoffman et Robin Williams, ainsi que quelques grandes signatures – Howard Hawks, Tod Browning, Brian De Palma, Billy Wilder, Sydney Pollack ou Éric Rohmer – qui tous ont su jouer du travestissement comme métaphore du cinéma et de ses simulacres.
+> Un siècle de comédies, de drames et de thrillers, 100 ans de masques, de maquillages, de perruques, de bas résilles et de porte-jarretelles. Où l'on croisera Buster Keaton, Tony Curtis et Jack Lemmon, Ed Wood et ses pulls mohair, Dustin Hoffman et Robin Williams, ainsi que quelques grandes signatures – Howard Hawks, Tod Browning, Brian De Palma, Billy Wilder, Sydney Pollack ou Éric Rohmer – qui tous ont su jouer du travestissement comme métaphore du cinéma et de ses simulacres. Une programmation établie par Noël Herpe, à l'occasion de la sortie de son nouveau livre, _Travestissons-nous_ (Capricci).
 
 # Travelling sur les travelos
 
