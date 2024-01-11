@@ -350,9 +350,9 @@
   * Blue Chips  
   * Bug  
   * Caine Mutiny Court-Martial (The)  
-  * Chasse (La)  
   * Convoi de la peur (Le)  
   * Coup du siècle (Le)  
+  * Cruising  
   * Devil and Father Amorth (The)  
   * Douze Hommes en colère  
   * Enfer du devoir (L')  

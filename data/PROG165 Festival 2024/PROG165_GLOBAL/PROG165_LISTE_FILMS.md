@@ -12,9 +12,9 @@
   * Dame de Constantinople (La)  
   * Éveil (L')  
   * Fête de Maria (La)  
-  * Mémoires d'une rivière  
+  * Mémoires d'un fleuve  
   * Procès Martinovics (Le)  
-  * Visszatérés – Retrace
+  * Retrace
 
 ## Machiko Kyō (5)
 
