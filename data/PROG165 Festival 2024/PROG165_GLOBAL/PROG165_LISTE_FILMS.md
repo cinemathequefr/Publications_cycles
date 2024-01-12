@@ -124,20 +124,20 @@
 
   * Annihilation of Fish (The)  
   * Enfer de la corruption (L')  
-  * Flash Gordon – Battling the Sea Beast  
-  * Flash Gordon – Captured by Shark Men  
-  * Flash Gordon – Fighting the Fire Dragon  
-  * Flash Gordon – Flaming Torture  
-  * Flash Gordon – In the Claws of the Tigron  
-  * Flash Gordon – La Planète maudite  
-  * Flash Gordon – Le Tunnel de la terreur  
-  * Flash Gordon – Rocketing to Earth  
-  * Flash Gordon – Shattering Doom  
-  * Flash Gordon – The Destroying Ray  
-  * Flash Gordon – The Unseen Peril  
-  * Flash Gordon – Tournament of Death  
-  * Flash Gordon – Trapped in the Turret  
+  * Flash Gordon: Battling the Sea Beast  
+  * Flash Gordon: Captured by Shark Men  
+  * Flash Gordon: Fighting the Fire Dragon  
+  * Flash Gordon: Flaming Torture  
+  * Flash Gordon: In the Claws of the Tigron  
+  * Flash Gordon: Rocketing to Earth  
+  * Flash Gordon: Shattering Doom  
+  * Flash Gordon: The Destroying Ray  
+  * Flash Gordon: The Planet of Peril  
+  * Flash Gordon: The Tunnel of Terror  
+  * Flash Gordon: The Unseen Peril  
+  * Flash Gordon: Tournament of Death  
+  * Flash Gordon: Trapped in the Turret  
   * J'aurai ta peau  
+  * Mortal Storm (The)  
   * Salvation Hunters (The)  
-  * Tempête qui tue (La)  
   * Vampiro negro (El)  
