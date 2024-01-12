@@ -24,10 +24,11 @@
   * Rashōmon  
   * Rue de la honte (La)
 
-## Nancy Savoca (3)
+## Nancy Savoca (4)
 
   * Dogfight  
   * Households Saints  
+  * Renata  
   * True Love
 
 ## Peter Emanuel Goldman (6)
@@ -122,7 +123,6 @@
 ## UCLA Film and Television Archive (19)
 
   * Annihilation of Fish (The)  
-  * Chasseurs de salut (Les)  
   * Enfer de la corruption (L')  
   * Flash Gordon – Battling the Sea Beast  
   * Flash Gordon – Captured by Shark Men  
@@ -138,5 +138,6 @@
   * Flash Gordon – Tournament of Death  
   * Flash Gordon – Trapped in the Turret  
   * J'aurai ta peau  
+  * Salvation Hunters (The)  
   * Tempête qui tue (La)  
   * Vampiro negro (El)  

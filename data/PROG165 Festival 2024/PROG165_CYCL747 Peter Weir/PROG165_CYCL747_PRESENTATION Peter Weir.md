@@ -1,4 +1,4 @@
-# [Peter Weir]
+# Les mondes parallèles de Peter Weir
 
 C'est une petite histoire que Peter Weir raconte volontiers quand on lui demande comment il a eu l'idée de son premier long métrage au titre singulier, _Les Voitures qui ont mangé Paris_ : en 1971, au volant sur les routes de France avec sa compagne, alors qu'une brume envahissait le paysage, deux hommes à l'allure inquiétante l'arrêtèrent et lui demandèrent de changer de route sans explication. L'anecdote, par ce qu'elle évoque d'indétermination entre la réalité et le fantastique, préfigure les atmosphères fantastiques des débuts du cinéaste. Dans son premier film, Paris n'est pas la Ville Lumière, mais un village paumé de la campagne australienne, où des voitures instrumentalisées et customisées par des habitants patibulaires ont des comportements violents, voire cannibales. La violence et la noirceur du film sont en droite ligne du précédent film du cinéaste, le moyen métrage _Homesdale_ qui le fait connaître alors que le cinéma australien entame sa pleine renaissance avec le mouvement de l'Ozploitation.
 
