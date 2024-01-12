@@ -71,7 +71,7 @@
   * Vase (La)  
   * Vent debout
 
-## Restaurations et incunables (39)
+## Restaurations et incunables (40)
 
   * Ailes de la colombe (Les)  
   * Aloïse  
@@ -80,6 +80,7 @@
   * Châteaux de sable  
   * Collateral  
   * Comédiennes  
+  * Coup de cœur  
   * Croix de fer  
   * Enamorada  
   * Homme K (L')  
