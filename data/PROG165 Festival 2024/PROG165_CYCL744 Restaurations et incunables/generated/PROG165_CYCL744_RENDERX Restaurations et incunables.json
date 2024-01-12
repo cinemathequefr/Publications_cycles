@@ -131,32 +131,49 @@
           ]
         },
         {
-          "idFilm": 92659,
-          "content": [
+          "groupe": [
             {
               "idFilm": 92659,
-              "ordre": 1,
-              "titre": "Collateral",
-              "realisateurs": "Michael Mann",
-              "pays": "États-Unis",
-              "annee": 2003,
-              "duree": 120,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Tom Cruise",
-                "Jamie Foxx",
-                "Jada Pinkett Smith",
-                "Mark Ruffalo"
-              ],
-              "miniTexte": "Sur un scénario passe-partout (un tueur à gage prend un chauffeur de taxi en otage), c'est l'œuvre d'un immense styliste, un film d'action poétique d'une beauté formelle sidérante. Alors que la plupart de ses collègues tâtonnent avec les nouvelles caméras numériques, Mann filme Los Angeles, et la nuit, comme personne, et fait de Tom Cruise, minéral, une impressionnante figure melvillienne."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 92659,
+                  "ordre": 1,
+                  "titre": "Collateral",
+                  "realisateurs": "Michael Mann",
+                  "pays": "États-Unis",
+                  "annee": 2003,
+                  "duree": 120,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Tom Cruise",
+                    "Jamie Foxx",
+                    "Jada Pinkett Smith",
+                    "Mark Ruffalo"
+                  ],
+                  "miniTexte": "Sur un scénario passe-partout (un tueur à gage prend un chauffeur de taxi en otage), c'est l'œuvre d'un immense styliste, un film d'action poétique d'une beauté formelle sidérante. Alors que la plupart de ses collègues tâtonnent avec les nouvelles caméras numériques, Mann filme Los Angeles, et la nuit, comme personne, et fait de Tom Cruise, minéral, une impressionnante figure melvillienne."
+                }
+              ]
+            },
             {
-              "idSeance": 118305,
-              "dateHeure": "2024-03-17T16:30:00",
-              "idSalle": "GF"
+              "idEvenement": 30328,
+              "content": [
+                {
+                  "idConf": 30328,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-Baptiste Thoret",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 118305,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-03-17T16:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -202,7 +219,7 @@
               "titreVo": "Cross of Iron",
               "realisateurs": "Sam Peckinpah",
               "pays": "Grande-Bretagne-RFA",
-              "annee": 1976,
+              "annee": 1977,
               "duree": 130,
               "version": "VOSTF",
               "format": "DCP",
@@ -261,7 +278,7 @@
               "ordre": 1,
               "titre": "Homme K",
               "art": "L'",
-              "titreVo": "Ljudyna K",
+              "titreVo": "Tchelovek K",
               "realisateurs": "Sergey Rakhmanin",
               "pays": "Ukraine",
               "annee": 1992,
@@ -270,10 +287,10 @@
               "format": "DCP",
               "generique": [
                 "Dima Golubov",
-                "Nikolay Kochegarov",
-                "Elena Kondulaynen"
+                "Nikolaï Kotchegarov",
+                "Elena Kondulainen"
               ],
-              "miniTexte": "Sous l'influence d'Andreï Tarkovski, le metteur en scène et cinéaste ukrainien Sergy Rahmanin brosse un tableau onirique et sensoriel des expériences et des tourments de l'écrivain Franz Kafka. Réalisée pour la télévision dans un superbe noir et blanc, l'œuvre rare et déroutante d'un passionné, qui relie le cinéma aux rêves et aux mystères de la création."
+              "miniTexte": "Sous l'influence d'Andreï Tarkovski, le metteur en scène et cinéaste ukrainien Sergey Rakhmanin brosse un tableau onirique et sensoriel des expériences et des tourments de l'écrivain Franz Kafka. Réalisée pour la télévision dans un superbe noir et blanc, l'œuvre rare et déroutante d'un passionné, qui relie le cinéma aux rêves et aux mystères de la création."
             }
           ],
           "seances": [
@@ -629,7 +646,7 @@
               "ordre": 1,
               "titre": "Opinion publique",
               "art": "L'",
-              "titreVo": "A Woman of Paris = The Public Opinion",
+              "titreVo": "A Woman of Paris",
               "realisateurs": "Charles Chaplin",
               "pays": "États-Unis",
               "annee": 1923,
@@ -648,7 +665,8 @@
             {
               "idSeance": 130525,
               "dateHeure": "2024-03-15T16:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Gabrielle Sébire"
             }
           ]
         },
@@ -658,7 +676,7 @@
             {
               "idFilm": 75828,
               "ordre": 1,
-              "titre": "Paris vu par 20 ans après : J'ai faim, j'ai froid",
+              "titre": "Paris vu par... 20 ans après : J'ai faim, j'ai froid",
               "realisateurs": "Chantal Akerman",
               "pays": "France",
               "annee": 1984,
@@ -745,7 +763,7 @@
               "idFilm": 77291,
               "ordre": 4,
               "titre": "Véronique et son cancre",
-              "realisateurs": "Eric Rohmer",
+              "realisateurs": "Éric Rohmer",
               "pays": "France",
               "annee": 1958,
               "duree": 19,
@@ -803,7 +821,6 @@
               "titre": "Revanche de la créature",
               "art": "La",
               "titreVo": "Revenge of the Creature",
-              "artVo": "The",
               "realisateurs": "Jack Arnold",
               "pays": "États-Unis",
               "annee": 1954,
@@ -836,7 +853,7 @@
               "ordre": 1,
               "titre": "Rue",
               "art": "La",
-              "titreVo": "Strasse",
+              "titreVo": "Straße",
               "artVo": "Die",
               "realisateurs": "Karl Grune",
               "pays": "Allemagne",
@@ -900,6 +917,8 @@
               "ordre": 1,
               "titre": "Suspect",
               "art": "Le",
+              "titreVo": "Suspect",
+              "artVo": "The",
               "realisateurs": "Robert Siodmak",
               "pays": "États-Unis",
               "annee": 1945,
@@ -919,7 +938,8 @@
             {
               "idSeance": 118258,
               "dateHeure": "2024-03-15T14:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Gabrielle Sébire"
             }
           ]
         },
@@ -938,10 +958,10 @@
               "format": "DCP",
               "generique": [
                 "Peter Cushing",
-                "Alida Valli",
+                "Bernard Menez",
                 "Miou-Miou"
               ],
-              "miniTexte": "Miou-Miou avec une afro blonde, Peter Cushing en vampire berrichon, Bernard Menez en réalisateur partouzard et Alida Valli en roue libre. Si l'on considère _Les Bidasses en folie_ comme la réponse de Christian Fechner aux _Douze salopards_, alors _Tendre Dracul_a est son _Nosferatu_. Avec dix fois moins de budget, et un goût assumé pour le grand n'importe-quoi."
+              "miniTexte": "Miou-Miou avec une afro blonde, Peter Cushing en vampire berrichon, Bernard Menez en réalisateur partouzard et Alida Valli en roue libre. Si l'on considère _Les Bidasses en folie_ comme la réponse de Christian Fechner aux _Douze salopards_, alors _Tendre Dracula_ est son _Nosferatu_. Avec dix fois moins de budget, et un goût assumé pour le grand n'importe-quoi."
             }
           ],
           "seances": [
@@ -959,7 +979,7 @@
               "idFilm": 58211,
               "ordre": 1,
               "titre": "Typhoon Club",
-              "titreVo": "Taifu-kurabu",
+              "titreVo": "Taifū-kurabu",
               "realisateurs": "Shinji Sōmai",
               "pays": "Japon",
               "annee": 1985,
@@ -983,37 +1003,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30328,
-          "content": [
-            {
-              "idConf": 30328,
-              "titre": "Dialogue avec Jean-Baptiste Thoret",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 130539,
-              "dateHeure": "2024-03-17T18:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Collateral",
         "mention": "avec Jean-Baptiste Thoret",
-        "dateHeure": "2024-03-17T18:30:00"
+        "dateHeure": "2024-03-17T16:30:00"
       }
     ],
     "Séances présentées": [
@@ -1021,6 +1018,16 @@
         "titreFilms": "Alphaville, une étrange aventure de Lemmy Caution",
         "mention": "par Jean-François Rauger",
         "dateHeure": "2024-03-14T16:15:00"
+      },
+      {
+        "titreFilms": "Le Suspect",
+        "mention": "par Gabrielle Sébire",
+        "dateHeure": "2024-03-15T14:00:00"
+      },
+      {
+        "titreFilms": "L'Opinion publique",
+        "mention": "par Gabrielle Sébire",
+        "dateHeure": "2024-03-15T16:30:00"
       },
       {
         "titreFilms": "La Revanche de la créature",

@@ -61,7 +61,7 @@
   * Départ des Terre-Neuvas  
   * Fièvre  
   * Industrie du hareng à Boulogne-sur-mer (L')  
-  * Pêche à la morue à la ligne de Fond en Islande (La)  
+  * Pêche à la morue à la ligne de fond en Islande (La)  
   * Pêche aux cordes (La)  
   * Pêche aux homards (La)  
   * Retour de la pêche à la sardine aux Sables-d'Olonne  
@@ -100,7 +100,7 @@
   * Macario  
   * Moissons du ciel (Les)  
   * Opinion publique (L')  
-  * Paris vu par 20 ans après : J'ai faim, j'ai froid  
+  * Paris vu par... 20 ans après : J'ai faim, j'ai froid  
   * Petit Pierre  
   * Rendez-vous des quais (Le)  
   * Revanche de la créature (La)  
