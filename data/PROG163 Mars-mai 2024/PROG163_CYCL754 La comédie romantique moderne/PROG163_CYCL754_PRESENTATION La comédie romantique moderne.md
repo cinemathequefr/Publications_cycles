@@ -1,6 +1,6 @@
 > Les comédies de Billy Wilder, Woody Allen ou Blake Edwards dans le rétroviseur, Rob Reiner signe, avec _Quand Harry rencontre Sally_, le grand retour de la comédie romantique au box-office à la fin des années 80. Depuis, Hollywood creuse le sillon avec ferveur et application, tantôt fleur bleue (_Pretty Woman_), tantôt grivois (_Sans Sarah, rien ne va !_, _Les Femmes de ses rêves_) ou méta (_Un jour sans fin_, _Punch-Drunk Love_) mais toujours avec un sens parfait du rythme, du casting et du happy end, ingrédients indispensables du genre.
 
-# [La comédie romantique moderne]
+# « To be in love in a movie »
 
 Pur produit de l'industrie hollywoodienne né à la fin des années 80, héritière directe des _screwball comedies_ de l'âge d'or, la comédie romantique repose sur l'alchimie d'un couple de stars et leur met des bâtons dans les roues avant de leur accorder l'amour au bout du chemin. Surnommée « romcom », souvent mal considérée, on lui consent parfois le statut de « plaisir coupable », mais elle a trop de véritables amoureux pour n'être que cela.
 

@@ -220,13 +220,12 @@
   * Triple Écho  
   * Victor Victoria
 
-## Ma petite Cinémathèque (16)
+## Ma petite Cinémathèque (15)
 
   * Aristochats (Les)  
   * Chantons sous la pluie  
   * Dictateur (Le)  
   * Enfant sauvage (L')  
-  * Fantastic Mr. Fox  
   * Grease  
   * Guerre des boutons (La)  
   * Indiana Jones et le temple maudit  
