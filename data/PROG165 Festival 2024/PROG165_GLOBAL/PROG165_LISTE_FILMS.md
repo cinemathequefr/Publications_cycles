@@ -71,18 +71,21 @@
   * Vase (La)  
   * Vent debout
 
-## Restaurations et incunables (40)
+## Restaurations et incunables (49)
 
   * Ailes de la colombe (Les)  
   * Aloïse  
   * Alphaville, une étrange aventure de Lemmy Caution  
   * Bestia debe morir (La)  
+  * Bushman  
   * Châteaux de sable  
+  * Cœur fou (Le)  
   * Collateral  
   * Comédiennes  
   * Coup de cœur  
   * Croix de fer  
   * Enamorada  
+  * Guerre du feu (La)  
   * Homme K (L')  
   * Jeanne d'Arc  
   * Judex, épisode 1 : L'Ombre mystérieuse  
@@ -98,18 +101,24 @@
   * Judex, épisode 8 : Les Souterrains du Château-Rouge  
   * Judex, épisode 9 : Lorsque l'enfant parut  
   * Judex : Prologue  
+  * Lucrèce Borgia  
   * Macario  
+  * Manoir de la peur (Le)  
+  * Marchande d'amour (La)  
   * Moissons du ciel (Les)  
+  * Obsessed With Light  
   * Opinion publique (L')  
   * Paris vu par... 20 ans après : J'ai faim, j'ai froid  
   * Petit Pierre  
   * Rendez-vous des quais (Le)  
   * Revanche de la créature (La)  
+  * Revenant (Le)  
   * Rue (La)  
   * Squelette de madame Morales (Le)  
   * Suspect (Le)  
   * Tendre Dracula  
   * Théâtre du triangle (Le)  
+  * Tire-au-flanc  
   * Toute une nuit  
   * Typhoon Club  
   * Véronique et son cancre
