@@ -303,7 +303,7 @@
           "idEvenement": 30331,
           "typeEvenement": 13,
           "idFilm": 154764,
-          "titre": "Corso Tragique",
+          "titre": "Corso tragique",
           "realisateurs": "Albert Capellani",
           "annee": 1908,
           "pays": "France",
@@ -312,8 +312,12 @@
           "format": "DCP",
           "textes": [
             {
+              "typeTexte": 1000,
+              "texte": "Tourné en extérieur à Nice, le récit d'une vendetta pendant le carnaval, dans la veine des films régionaux en costumes."
+            },
+            {
               "typeTexte": 99,
-              "texte": "Cette restauration 4K par la Fondation Jérôme Seydoux-Pathé a été réalisée en 2023 à partir du négatif original nitrate conservé dans ses collections. Travaux 4K menés au laboratoire L'Image Retrouvée, avec le soutien du CNC."
+              "texte": "Cette restauration 4K par la Fondation Jérôme Seydoux-Pathé a été réalisée en 2023 à partir du négatif original nitrate conservé dans ses collections. Travaux 4K menés au laboratoire L'Image retrouvée avec le soutien du CNC."
             }
           ]
         },
@@ -541,15 +545,14 @@
           ]
         },
         {
-          "idSeance": 123145,
+          "idSeance": 130568,
           "ordre": 1,
-          "dateHeure": "2024-03-14T19:30:00",
+          "dateHeure": "2024-03-16T21:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 195,
-          "mention": "Séance présentée par Jean-François Rauger",
           "idCategorie": 3238,
           "idEvenement": 30297,
           "typeEvenement": 13,
@@ -653,6 +656,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 225,
+          "mention": "Accompagnement musical par La Mverte et Vega Voga",
           "idCategorie": 3238,
           "idEvenement": 30253,
           "typeEvenement": 13,
@@ -681,6 +685,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 225,
+          "mention": "Accompagnement musical par La Mverte et Vega Voga",
           "idCategorie": 3238,
           "idEvenement": 30253,
           "typeEvenement": 13,
@@ -709,6 +714,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 225,
+          "mention": "Accompagnement musical par La Mverte et Vega Voga",
           "idCategorie": 3238,
           "idEvenement": 30253,
           "typeEvenement": 13,
@@ -849,6 +855,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 225,
+          "mention": "Accompagnement musical par La Mverte et Vega Voga",
           "idCategorie": 3238,
           "idEvenement": 30253,
           "typeEvenement": 13,
@@ -877,6 +884,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 225,
+          "mention": "Accompagnement musical par La Mverte et Vega Voga",
           "idCategorie": 3238,
           "idEvenement": 30253,
           "typeEvenement": 13,
@@ -905,6 +913,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 225,
+          "mention": "Accompagnement musical par La Mverte et Vega Voga",
           "idCategorie": 3238,
           "idEvenement": 30253,
           "typeEvenement": 13,
@@ -933,6 +942,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 225,
+          "mention": "Accompagnement musical par La Mverte et Vega Voga",
           "idCategorie": 3238,
           "idEvenement": 30253,
           "typeEvenement": 13,
@@ -1428,9 +1438,9 @@
           ]
         },
         {
-          "idSeance": 123132,
+          "idSeance": 130571,
           "ordre": 1,
-          "dateHeure": "2024-03-14T18:00:00",
+          "dateHeure": "2024-03-14T20:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"

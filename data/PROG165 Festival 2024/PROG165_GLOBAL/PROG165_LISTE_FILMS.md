@@ -82,7 +82,7 @@
   * Cœur fou (Le)  
   * Collateral  
   * Comédiennes  
-  * Corso Tragique  
+  * Corso tragique  
   * Coup de cœur  
   * Croix de fer  
   * Enamorada  
