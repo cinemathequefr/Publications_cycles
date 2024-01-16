@@ -117,12 +117,12 @@
           ]
         },
         {
-          "idSeance": 123092,
+          "idSeance": 130559,
           "ordre": 1,
-          "dateHeure": "2024-03-15T20:30:00",
+          "dateHeure": "2024-03-16T19:30:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "LE",
+            "Lotte Eisner"
           ],
           "dureeSeance": 120,
           "idCategorie": 3238,
@@ -287,6 +287,33 @@
             {
               "typeTexte": 99,
               "texte": "Restauration 4K par le MoMA, avec le soutien de Matthew et Natalie Bernstein."
+            }
+          ]
+        },
+        {
+          "idSeance": 130554,
+          "ordre": 1,
+          "dateHeure": "2024-03-13T12:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 3238,
+          "idEvenement": 30331,
+          "typeEvenement": 13,
+          "idFilm": 154764,
+          "titre": "Corso Tragique",
+          "realisateurs": "Albert Capellani",
+          "annee": 1908,
+          "pays": "France",
+          "duree": 13,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Cette restauration 4K par la Fondation Jérôme Seydoux-Pathé a été réalisée en 2023 à partir du négatif original nitrate conservé dans ses collections. Travaux 4K menés au laboratoire L'Image Retrouvée, avec le soutien du CNC."
             }
           ]
         },
@@ -1369,6 +1396,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "mention": "Séance présentée par Laurent Mannoni",
           "idCategorie": 3238,
           "idEvenement": 30216,
           "typeEvenement": 13,
@@ -1488,6 +1516,7 @@
             "Lotte Eisner"
           ],
           "dureeSeance": 135,
+          "mention": "Séance présentée par Pierre Grunstein",
           "idCategorie": 3238,
           "idEvenement": 30278,
           "typeEvenement": 13,
@@ -1541,7 +1570,7 @@
         },
         {
           "idSeance": 130554,
-          "ordre": 1,
+          "ordre": 2,
           "dateHeure": "2024-03-13T12:00:00",
           "idSalle": [
             "HL",
@@ -1549,7 +1578,7 @@
           ],
           "dureeSeance": 150,
           "idCategorie": 3238,
-          "idEvenement": 29974,
+          "idEvenement": 30331,
           "typeEvenement": 13,
           "idFilm": 50879,
           "titre": "Tire-au-flanc",

@@ -124,9 +124,9 @@
           ],
           "seances": [
             {
-              "idSeance": 123092,
-              "dateHeure": "2024-03-15T20:30:00",
-              "idSalle": "JE"
+              "idSeance": 130559,
+              "dateHeure": "2024-03-16T19:30:00",
+              "idSalle": "LE"
             }
           ]
         },
@@ -266,6 +266,47 @@
               "dateHeure": "2024-03-17T20:00:00",
               "idSalle": "HL",
               "mention": "Accompagnement musical par Quatuor Voce"
+            }
+          ]
+        },
+        {
+          "idEvenement": 30331,
+          "content": [
+            {
+              "idFilm": 154764,
+              "ordre": 1,
+              "titre": "Corso Tragique",
+              "realisateurs": "Albert Capellani",
+              "pays": "France",
+              "annee": 1908,
+              "duree": 13,
+              "version": "INT. FR.",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 50879,
+              "ordre": 2,
+              "titre": "Tire-au-flanc",
+              "realisateurs": "Jean Renoir",
+              "pays": "France",
+              "annee": 1928,
+              "duree": 116,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "adaptation": "D'après le vaudeville _Tire-au-flanc_ d'André Mouezy-Eon et André Sylvane.",
+              "generique": [
+                "Georges Pomiès",
+                "Michel Simon",
+                "Fridette Fatton"
+              ],
+              "miniTexte": "Sur une trame qui raille autant l'armée que les différences de classes (pendant son service militaire, un poète riche et frivole se retrouve dans la même caserne que son valet), Renoir signe l'un de ses films les plus comiques, une succession de sketches situés entre le burlesque d'un _Charlot soldat_ et l'anarchie de _Zéro de conduite_ de Jean Vigo."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130554,
+              "dateHeure": "2024-03-13T12:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -1149,7 +1190,8 @@
             {
               "idSeance": 118320,
               "dateHeure": "2024-03-16T14:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Laurent Mannoni"
             }
           ]
         },
@@ -1244,37 +1286,8 @@
             {
               "idSeance": 128827,
               "dateHeure": "2024-03-17T18:30:00",
-              "idSalle": "LE"
-            }
-          ]
-        },
-        {
-          "idFilm": 50879,
-          "content": [
-            {
-              "idFilm": 50879,
-              "ordre": 1,
-              "titre": "Tire-au-flanc",
-              "realisateurs": "Jean Renoir",
-              "pays": "France",
-              "annee": 1928,
-              "duree": 116,
-              "version": "INT. FR.",
-              "format": "DCP",
-              "adaptation": "D'après le vaudeville _Tire-au-flanc_ d'André Mouezy-Eon et André Sylvane.",
-              "generique": [
-                "Georges Pomiès",
-                "Michel Simon",
-                "Fridette Fatton"
-              ],
-              "miniTexte": "Sur une trame qui raille autant l'armée que les différences de classes (pendant son service militaire, un poète riche et frivole se retrouve dans la même caserne que son valet), Renoir signe l'un de ses films les plus comiques, une succession de sketches situés entre le burlesque d'un _Charlot soldat_ et l'anarchie de _Zéro de conduite_ de Jean Vigo."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 130554,
-              "dateHeure": "2024-03-13T12:00:00",
-              "idSalle": "HL"
+              "idSalle": "LE",
+              "mention": "Séance présentée par Pierre Grunstein"
             }
           ]
         },
@@ -1346,9 +1359,19 @@
         "dateHeure": "2024-03-15T16:30:00"
       },
       {
+        "titreFilms": "La Rue",
+        "mention": "par Laurent Mannoni",
+        "dateHeure": "2024-03-16T14:00:00"
+      },
+      {
         "titreFilms": "La Revanche de la créature",
         "mention": "par Jean-François Rauger",
         "dateHeure": "2024-03-16T21:30:00"
+      },
+      {
+        "titreFilms": "Tendre Dracula",
+        "mention": "par Pierre Grunstein",
+        "dateHeure": "2024-03-17T18:30:00"
       },
       {
         "titreFilms": "Croix de fer",

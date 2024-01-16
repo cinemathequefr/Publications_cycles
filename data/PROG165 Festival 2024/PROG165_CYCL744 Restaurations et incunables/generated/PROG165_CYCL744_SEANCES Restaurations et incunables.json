@@ -163,7 +163,7 @@
   {
     "idCategorie": 3238,
     "typeEvenement": 13,
-    "idEvenement": 29974,
+    "idEvenement": 30331,
     "idSeance": 130554,
     "dateHeure": "2024-03-13T12:00:00",
     "idSalle": [
@@ -173,8 +173,17 @@
     "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 50879,
+        "idFilm": 154764,
         "ordre": 1,
+        "idSeance": 130554,
+        "idCopie": 27611,
+        "duree": 13,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 50879,
+        "ordre": 2,
         "idSeance": 130554,
         "idCopie": 15742,
         "duree": 116,
@@ -517,29 +526,6 @@
   {
     "idCategorie": 3238,
     "typeEvenement": 13,
-    "idEvenement": 30219,
-    "idSeance": 123092,
-    "dateHeure": "2024-03-15T20:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 154717,
-        "ordre": 1,
-        "idSeance": 123092,
-        "idCopie": 27479,
-        "duree": 95,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3238,
-    "typeEvenement": 13,
     "idEvenement": 29972,
     "idSeance": 130518,
     "dateHeure": "2024-03-15T20:30:00",
@@ -681,7 +667,8 @@
         "version": "VO",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Laurent Mannoni"
   },
   {
     "idCategorie": 3238,
@@ -711,6 +698,29 @@
         "idCopie": 27035,
         "duree": 89,
         "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3238,
+    "typeEvenement": 13,
+    "idEvenement": 30219,
+    "idSeance": 130559,
+    "dateHeure": "2024-03-16T19:30:00",
+    "idSalle": [
+      "LE",
+      "Lotte Eisner"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154717,
+        "ordre": 1,
+        "idSeance": 130559,
+        "idCopie": 27479,
+        "duree": 95,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ]
@@ -894,7 +904,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Pierre Grunstein"
   },
   {
     "idCategorie": 3238,

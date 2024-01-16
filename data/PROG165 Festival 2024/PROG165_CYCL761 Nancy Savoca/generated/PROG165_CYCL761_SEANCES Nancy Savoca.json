@@ -17,7 +17,7 @@
         "idSeance": 123093,
         "idCopie": 27606,
         "duree": 16,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -26,8 +26,31 @@
         "idSeance": 123093,
         "idCopie": 27538,
         "duree": 104,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3307,
+    "typeEvenement": 13,
+    "idEvenement": 30293,
+    "idSeance": 130558,
+    "dateHeure": "2024-03-15T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154740,
+        "ordre": 1,
+        "idSeance": 130558,
+        "idCopie": 27539,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -49,31 +72,8 @@
         "idSeance": 123121,
         "idCopie": 27537,
         "duree": 124,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3307,
-    "typeEvenement": 13,
-    "idEvenement": 30293,
-    "idSeance": 123115,
-    "dateHeure": "2024-03-16T19:30:00",
-    "idSalle": [
-      "LE",
-      "Lotte Eisner"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 154740,
-        "ordre": 1,
-        "idSeance": 123115,
-        "idCopie": 27539,
-        "duree": 89,
-        "version": "",
-        "format": "35 mm"
       }
     ]
   }
