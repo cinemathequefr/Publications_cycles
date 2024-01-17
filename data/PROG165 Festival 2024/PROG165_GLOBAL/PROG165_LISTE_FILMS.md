@@ -106,6 +106,7 @@
   * Macario  
   * Manoir de la peur (Le)  
   * Marchande d'amour (La)  
+  * Mistons (Les)  
   * Moissons du ciel (Les)  
   * Obsessed With Light  
   * Opinion publique (L')  
@@ -121,8 +122,7 @@
   * Théâtre du triangle (Le)  
   * Tire-au-flanc  
   * Toute une nuit  
-  * Typhoon Club  
-  * Véronique et son cancre
+  * Typhoon Club
 
 ## Sadao Yamanaka (4)
 

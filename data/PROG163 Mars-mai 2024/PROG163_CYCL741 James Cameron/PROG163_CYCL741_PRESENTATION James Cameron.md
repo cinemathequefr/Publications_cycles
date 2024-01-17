@@ -1,4 +1,4 @@
-> À l'occasion de la grande exposition qui lui est consacrée, rétrospective intégrale des films de James Cameron sur écran géant. Démiurge génial, il truste les sommets du box-office depuis ses débuts, en ne cédant jamais rien ni sur l'exigence, ni sur l'innovation. Ses films de science-fiction, _Aliens_, _Terminator_ ou _Avatar_ ont tous été des marqueurs dans l'histoire du genre et des effets spéciaux, quand ses drames, _Abyss_ ou _Titanic_, ont eux atteint un degré d'universel qui ne connaît aucun équivalent depuis 40 ans.
+> À l'occasion de la grande exposition qui lui est consacrée, rétrospective intégrale des films de James Cameron sur écran géant. Démiurge génial, il truste les sommets du box-office depuis ses débuts, en ne cédant jamais rien ni sur l'exigence, ni sur l'innovation. Ses films de science-fiction, _Aliens, le retour_, _Terminator_ ou _Avatar_ ont tous été des marqueurs dans l'histoire du genre et des effets spéciaux, quand ses drames, _Abyss_ ou _Titanic_, ont eux atteint un degré d'universel qui ne connaît aucun équivalent depuis 40 ans.
 
 # James Cameron, cinéaste explorateur
 
