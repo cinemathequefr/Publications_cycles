@@ -6,6 +6,39 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idEvenement": 29242,
+          "content": [
+            {
+              "idFilm": 79164,
+              "ordre": 1
+            },
+            {
+              "idFilm": 154766,
+              "ordre": 2
+            },
+            {
+              "idFilm": 106503,
+              "ordre": 3
+            },
+            {
+              "idFilm": 137602,
+              "ordre": 4
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 106715,
+              "dateHeure": "2024-01-31T15:00:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 106852,
+              "dateHeure": "2024-02-04T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 33678,
           "content": [
             {
@@ -547,7 +580,7 @@
               "annee": 1983,
               "duree": 103,
               "version": "",
-              "format": "",
+              "format": "DCP",
               "ageMinimal": 10,
               "adaptation": "D'après le roman _La Rue Cases-Nègres_ de Joseph Zobel.",
               "generique": [
@@ -790,20 +823,8 @@
               "format": "DCP"
             },
             {
-              "idFilm": 114365,
-              "ordre": 6,
-              "titre": "Père et fille",
-              "titreVo": "Father and Daughter",
-              "realisateurs": "Michael Dudok de Wit",
-              "pays": "Grande-Bretagne-Belgique-Pays-Bas",
-              "annee": 2000,
-              "duree": 8,
-              "version": "",
-              "format": "DCP"
-            },
-            {
               "idFilm": 70463,
-              "ordre": 7,
+              "ordre": 6,
               "titre": "École des facteurs",
               "art": "L'",
               "realisateurs": "Jacques Tati",
