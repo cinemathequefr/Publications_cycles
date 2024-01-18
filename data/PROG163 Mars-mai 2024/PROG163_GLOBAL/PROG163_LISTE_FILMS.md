@@ -308,7 +308,7 @@
   * Vaincus (Les)  
   * Zabriskie Point
 
-## Nicolas Philibert (25)
+## Nicolas Philibert (26)
 
   * Averroès et Rosa Parks  
   * Christophe  
@@ -318,6 +318,7 @@
   * Face nord du camembert (La)  
   * Heure exquise (L')  
   * Invisible (L')  
+  * Machine à écrire et autres sources de tracas (La)  
   * Maison de la radio (La)  
   * Moindre des choses (La)  
   * Nénette  
