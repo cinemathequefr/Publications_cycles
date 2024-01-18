@@ -10,34 +10,51 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 40921,
-          "content": [
+          "groupe": [
             {
               "idFilm": 40921,
-              "ordre": 1,
-              "titre": "Dame de Constantinople",
-              "art": "La",
-              "titreVo": "Sziget a szárazföldön",
-              "realisateurs": "Judit Elek",
-              "pays": "Hongrie",
-              "annee": 1969,
-              "duree": 77,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Manyi Kiss",
-                "Éva Almási",
-                "László Bathó"
-              ],
-              "miniTexte": "Contrainte de quitter son appartement rempli de souvenirs, une petite dame rencontre des inconnus qui vont ébranler son quotidien. Dans un mélange de style direct et de fantaisie, la cinéaste brosse le portrait d'une solitude, ainsi qu'un formidable tableau de la capitale hongroise. Sélectionné à Cannes, ce premier long métrage contient toute la tendresse et l'amertume de l'œuvre à venir."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 40921,
+                  "ordre": 1,
+                  "titre": "Dame de Constantinople",
+                  "art": "La",
+                  "titreVo": "Sziget a szárazföldön",
+                  "realisateurs": "Judit Elek",
+                  "pays": "Hongrie",
+                  "annee": 1969,
+                  "duree": 77,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Manyi Kiss",
+                    "Éva Almási",
+                    "László Bathó"
+                  ],
+                  "miniTexte": "Contrainte de quitter son appartement rempli de souvenirs, une petite dame rencontre des inconnus qui vont ébranler son quotidien. Dans un mélange de style direct et de fantaisie, la cinéaste brosse le portrait d'une solitude, ainsi qu'un formidable tableau de la capitale hongroise. Sélectionné à Cannes, ce premier long métrage contient toute la tendresse et l'amertume de l'œuvre à venir."
+                }
+              ]
+            },
             {
-              "idSeance": 123130,
-              "typeAssoc": 118,
-              "dateHeure": "2024-03-16T14:00:00",
-              "idSalle": "LE"
+              "idEvenement": 30321,
+              "content": [
+                {
+                  "idConf": 30321,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Judit Elek",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Damien Marguet",
+                  "miniTexte": "« Dans _La Dame de Constantinople_, c'est la première fois que je crée et construis un personnage, d'abord sur le papier, puis avec l'aide d'un acteur. (...) Le problème ici devient : comment garder la force et la spontanéité de la réalité à travers une construction donnée, quasi dramaturgique ? » (Judit Elek)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 123130,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-03-16T14:00:00",
+                  "idSalle": "LE"
+                }
+              ]
             }
           ]
         },
@@ -191,33 +208,6 @@
               "idSeance": 130529,
               "dateHeure": "2024-03-13T12:00:00",
               "idSalle": "HO"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 1,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30321,
-          "content": [
-            {
-              "idEvenement": 30321,
-              "ordre": 2,
-              "titre": "Dialogue avec Judit Elek",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Damien Marguet",
-              "miniTexte": "« Dans _La Dame de Constantinople_, c'est la première fois que je crée et construis un personnage, d'abord sur le papier, puis avec l'aide d'un acteur. (...) Le problème ici devient : comment garder la force et la spontanéité de la réalité à travers une construction donnée, quasi dramaturgique ? » (Judit Elek)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 123130,
-              "typeAssoc": 118,
-              "dateHeure": "2024-03-16T14:00:00",
-              "idSalle": "LE"
             }
           ]
         }
