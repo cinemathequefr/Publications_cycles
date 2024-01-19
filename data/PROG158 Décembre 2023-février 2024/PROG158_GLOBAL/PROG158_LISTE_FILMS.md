@@ -350,15 +350,18 @@
   * Sorcellerie à travers les âges (La)  
   * Zombie
 
-## Ma petite Cinémathèque (27)
+## Ma petite Cinémathèque (30)
 
+  * abri d'Esther Granek  
   * Aventure de madame Muir (L')  
   * Belle et le Clochard (La)  
   * Brendan et le secret de Kells  
   * Château ambulant (Le)  
   * Chicken Run : La Menace Nuggets  
   * Cinq Mille Doigts du docteur T. (Les)  
+  * Coco  
   * Cycle  
+  * Discours de bienvenue de Norman McLaren  
   * Du silence et des ombres  
   * École des facteurs (L')  
   * Edward aux mains d'argent  
@@ -366,6 +369,7 @@
   * Fiancées en folie (Les)  
   * Histoire sans fin (L')  
   * Jeune Fille au carton à chapeau (La)  
+  * Laban, le petit fantôme  
   * Le Havre  
   * Lola s'est perdue  
   * Montagnards sont là (Les)  
@@ -375,7 +379,6 @@
   * Rue Cases-Nègres  
   * Serpent blanc (Le)  
   * Super 8  
-  * undefined  
   * Vélo de l'éléphant (Le)  
   * Voleur de bicyclette (Le)  
   * Vous ne l'emporterez pas avec vous

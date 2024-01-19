@@ -6,39 +6,6 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idEvenement": 29242,
-          "content": [
-            {
-              "idFilm": 79164,
-              "ordre": 1
-            },
-            {
-              "idFilm": 154766,
-              "ordre": 2
-            },
-            {
-              "idFilm": 106503,
-              "ordre": 3
-            },
-            {
-              "idFilm": 137602,
-              "ordre": 4
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 106715,
-              "dateHeure": "2024-01-31T15:00:00",
-              "idSalle": "GF"
-            },
-            {
-              "idSeance": 106852,
-              "dateHeure": "2024-02-04T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 33678,
           "content": [
             {
@@ -195,6 +162,64 @@
               "dateHeure": "2024-02-21T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 10
+            }
+          ]
+        },
+        {
+          "idEvenement": 29242,
+          "content": [
+            {
+              "idFilm": 79164,
+              "ordre": 1,
+              "titre": "Discours de bienvenue de Norman McLaren",
+              "titreVo": "Opening Speech",
+              "realisateurs": "Norman McLaren",
+              "pays": "Grande-Bretagne",
+              "annee": 1960,
+              "ageMinimal": 3,
+              "generique": [
+                "Norman McLaren"
+              ]
+            },
+            {
+              "idFilm": 154766,
+              "ordre": 2,
+              "titre": "abri d'Esther Granek",
+              "realisateurs": "Julie Daravan Chea",
+              "pays": "France",
+              "annee": 2023
+            },
+            {
+              "idFilm": 106503,
+              "ordre": 3,
+              "titre": "Laban, le petit fantôme",
+              "titreVo": "Lilla spöket Laban",
+              "realisateurs": "Per Åhlin, Alicja Jaworski, Karin Nilsson, [etc.]",
+              "pays": "Suède",
+              "annee": 2006,
+              "adaptation": "D'après les livres _Laban, le petit fantôme_ d'Inger Sandberg et Lasse Sandberg."
+            },
+            {
+              "idFilm": 137602,
+              "ordre": 4,
+              "titre": "Coco",
+              "realisateurs": "Lee Unkrich",
+              "pays": "États-Unis",
+              "annee": 2016
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 106715,
+              "dateHeure": "2024-01-31T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 3
+            },
+            {
+              "idSeance": 106852,
+              "dateHeure": "2024-02-04T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 3
             }
           ]
         },
