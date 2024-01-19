@@ -194,32 +194,6 @@
   * Vous avez un mess@ge  
   * Working Girl
 
-## Les aventures du travesti au cinéma (23)
-
-  * Allez coucher ailleurs  
-  * Amours d'Astrée et de Céladon (Les)  
-  * Buster s'en va-t-en guerre  
-  * Cage aux folles (La)  
-  * Certains l'aiment chaud  
-  * C'est l'homme  
-  * Des garçons de province  
-  * Fanfare d'amour  
-  * Glen or Glenda  
-  * Jardins en automne  
-  * Jours d'automne (Les)  
-  * Locataire (Le)  
-  * Madame Doubtfire  
-  * Nuits d'été (Les)  
-  * Paradis perdus (Les)  
-  * Poupées du diable (Les)  
-  * Priscilla, folle du désert  
-  * Pulsions  
-  * Rocky Horror Picture Show (The)  
-  * Souris qui rugissait (La)  
-  * Tootsie  
-  * Triple Écho  
-  * Victor Victoria
-
 ## Ma petite Cinémathèque (15)
 
   * Aristochats (Les)  
@@ -343,6 +317,32 @@
   * Guerre est finie (La)  
   * Masculin féminin  
   * Religieuse (La)
+
+## Travestis au cinéma (23)
+
+  * Allez coucher ailleurs  
+  * Amours d'Astrée et de Céladon (Les)  
+  * Buster s'en va-t-en guerre  
+  * Cage aux folles (La)  
+  * Certains l'aiment chaud  
+  * C'est l'homme  
+  * Des garçons de province  
+  * Fanfare d'amour  
+  * Glen or Glenda  
+  * Jardins en automne  
+  * Jours d'automne (Les)  
+  * Locataire (Le)  
+  * Madame Doubtfire  
+  * Nuits d'été (Les)  
+  * Paradis perdus (Les)  
+  * Poupées du diable (Les)  
+  * Priscilla, folle du désert  
+  * Pulsions  
+  * Rocky Horror Picture Show (The)  
+  * Souris qui rugissait (La)  
+  * Tootsie  
+  * Triple Écho  
+  * Victor Victoria
 
 ## William Friedkin (24)
 
