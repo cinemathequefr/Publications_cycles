@@ -99,7 +99,7 @@
   * Max & James & Danielle...  
   * Pathé-Revue 1927 n° ind. / Martinique  
   * Scenic Route (The)  
-  * Stendhal Syndrome or My Dinner with Turhan Bey (The)  
+  * Stendhal Syndrome or My Dinner With Turhan Bey (The)  
   * Toutes les Joséphine ne sont pas impératrices
 
 ## James Cameron (11)
