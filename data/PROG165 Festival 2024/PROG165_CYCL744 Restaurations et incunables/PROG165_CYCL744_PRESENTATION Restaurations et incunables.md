@@ -1,0 +1,15 @@
+Dans cette section éclectique par nature, nous rassemblons quelques-uns des joyaux récemment restaurés par les ayant-droits, les archives et les laboratoires du monde entier.
+
+Parmi les 35 séances proposées, on pourra par exemple voir ou revoir en clôture de la manifestation le second film d'Ernst Lubitsch à Hollywood. Après l'expérience difficile de _Rosita_, le cinéaste allemand est engagé par la Warner qui lui offre un budget conséquent et une liberté d'action. Ce sera _Comédiennes_, ou la première comédie sophistiquée d'Ernst Lubitsch. Avec facétie, il place l'intrigue sous les auspices de la psychanalyse : à Vienne, deux médecins « soignent les nerfs » de leurs patients. L'impayable Mizzy vient bouleverser l'ordre bourgeois du mariage de sa meilleure amie quand elle cherche à séduire son mari. Sous le vernis des bonnes manières, il n'est en réalité question que de sexe.
+
+Nous montrerons aussi _Toute une nuit_ de Chantal Akerman, tourné dans sa ville d'origine, Bruxelles, et sous forte influence de la peinture, notamment celle d'Edward Hopper. La nuit d'été sera le décor des désirs et sentiments des 80 personnages (parmi lesquels de nombreux amis de Chantal Akerman), mis en situations dans des saynètes souvent silencieuses qui sont autant de haïkus cinématographiques. Avec la nuit, c'est la violence du désir qui peut se dire, la profonde solitude, les séparations, les retrouvailles et les rencontres inespérées.
+
+_Macario_ du mexicain Roberto Gavaldón est un joyau du cinéma fantastique à découvrir absolument. Adapté d'une nouvelle de B. Traven, le film raconte l'histoire d'un pauvre bûcheron obsédé par l'idée de manger enfin à sa faim, quitte à priver de nourriture ses propres enfants. Il sera amené à conclure un pacte faustien avec la Mort. À la fois farce et fable, _Macario_ dépeint un Mexique plongé dans la pauvreté et l'obscurantisme. Il est porté par la magnifique photographie de Gabriel Figueroa.
+
+Joyau du cinéma noir, _Le Suspect_ de Robert Siodmak est invisible depuis longtemps. Dans ce film que le réalisateur affectionnait, le coupable est connu d'emblée. Mais Siodmak joue avec notre sidération et notre envie d'en savoir plus sur les motivations du tueur, un bourgeois londonien. Comment, dans le Londres cossu du début du siècle dernier, un homme aussi respectable peut-il en venir à tuer sa femme ? Siodmak explore la psyché d'un homme, prisonnier des bienséances. Laughton est tout aussi touchant que terrifiant.
+
+Avec _La Marchande d'amour_, on découvrira l'un des plus beaux films de l'écrivain et cinéaste Mario Soldati, figure oubliée du cinéma italien d'après-guerre. Dans ce récit adapté d'un roman d'Alberto Moravia, Gina Lollobrigida tient le rôle de Gemma, une femme à l'histoire inavouable que Soldati choisit de raconter à travers une construction complexe en flash-back et les voix de plusieurs personnages. _La Marchande d'amour_ fait penser aux premiers longs métrages de Michelangelo Antonioni dans sa volonté opiniâtre de déchiffrer ce qui résiste à notre compréhension.
+
+Venez nombreux découvrir tous ces films et beaucoup d'autres !
+
+Pauline de Raymond

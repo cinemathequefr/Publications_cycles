@@ -284,7 +284,7 @@
 
 ## Nicolas Philibert (26)
 
-  * Averroès et Rosa Parks  
+  * Averroès & Rosa Parks  
   * Christophe  
   * Come-back de Baquet (Le)  
   * De chaque instant  
