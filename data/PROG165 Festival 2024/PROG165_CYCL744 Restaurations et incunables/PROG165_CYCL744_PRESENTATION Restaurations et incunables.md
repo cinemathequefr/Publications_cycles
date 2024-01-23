@@ -12,4 +12,4 @@ Avec _La Marchande d'amour_, on découvrira l'un des plus beaux films de l'écri
 
 Venez nombreux découvrir tous ces films et beaucoup d'autres !
 
-Pauline de Raymond
+<div class="author">Pauline de Raymond</div>
