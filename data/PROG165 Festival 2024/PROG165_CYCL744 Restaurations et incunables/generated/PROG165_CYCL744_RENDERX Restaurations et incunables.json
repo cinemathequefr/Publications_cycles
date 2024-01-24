@@ -185,7 +185,7 @@
           "seances": [
             {
               "idSeance": 130547,
-              "dateHeure": "2024-03-13T12:00:00",
+              "dateHeure": "2024-03-13T13:45:00",
               "idSalle": "HO"
             }
           ]
@@ -432,7 +432,7 @@
           "seances": [
             {
               "idSeance": 130548,
-              "dateHeure": "2024-03-13T12:00:00",
+              "dateHeure": "2024-03-16T13:30:00",
               "idSalle": "HO"
             }
           ]
@@ -771,8 +771,9 @@
           "seances": [
             {
               "idSeance": 130549,
-              "dateHeure": "2024-03-13T12:00:00",
-              "idSalle": "HO"
+              "dateHeure": "2024-03-15T13:30:00",
+              "idSalle": "HO",
+              "mention": "Séance suivie d'une discussion avec Lou Bobin"
             }
           ]
         },
@@ -866,7 +867,7 @@
           "seances": [
             {
               "idSeance": 130551,
-              "dateHeure": "2024-03-13T12:00:00",
+              "dateHeure": "2024-03-17T13:30:00",
               "idSalle": "HO"
             }
           ]
@@ -896,10 +897,20 @@
           ],
           "seances": [
             {
+              "idSeance": 130594,
+              "dateHeure": "2024-03-13T12:00:00",
+              "idSalle": "HL"
+            },
+            {
               "idSeance": 118217,
               "dateHeure": "2024-03-14T14:00:00",
               "idSalle": "HL",
               "mention": "Séance présentée par Frédéric Bonnaud"
+            },
+            {
+              "idSeance": 130593,
+              "dateHeure": "2024-03-16T20:30:00",
+              "idSalle": "HO"
             }
           ]
         },
@@ -1167,14 +1178,15 @@
                 "Gyula Mészáros",
                 "Gida von Lazar"
               ],
-              "miniTexte": "L'un des rares films fantastiques hongrois du muet encore existant, par un pionnier du cinéma magyar, adaptation du _Fantôme de l'Opéra_ de Gaston Leroux, avec dans le rôle principal l'actrice populaire Kamilla Hollay. Retrouvée dans les archives de la Cinémathèque royale de Belgique, l'œuvre se distingue notamment par sa palette de teintes et par des astuces techniques uniques."
+              "miniTexte": "L'un des rares films fantastiques hongrois du muet encore existant, par un pionnier du cinéma magyar, adaptation du _Fantôme de l'Opéra_ de Gaston Leroux, avec dans le rôle principal l'actrice populaire Kamilla Hollay. Retrouvée dans les archives de la Cinémathèque royale de Belgique, l'œuvre se distingue notamment par sa palette de teintes et des astuces techniques uniques."
             }
           ],
           "seances": [
             {
               "idSeance": 130553,
               "dateHeure": "2024-03-17T14:00:00",
-              "idSalle": "HO"
+              "idSalle": "HO",
+              "mention": "Séance présentée par György Ráduly"
             }
           ]
         },
@@ -1340,6 +1352,11 @@
               "idSeance": 130588,
               "dateHeure": "2024-03-16T17:30:00",
               "idSalle": "HO"
+            },
+            {
+              "idSeance": 130592,
+              "dateHeure": "2024-03-16T17:30:00",
+              "idSalle": "HL"
             }
           ]
         }
@@ -1352,6 +1369,13 @@
         "titreFilms": "Collateral",
         "mention": "avec Jean-Baptiste Thoret",
         "dateHeure": "2024-03-17T16:30:00"
+      }
+    ],
+    "Discussion": [
+      {
+        "titreFilms": "Lucrèce Borgia",
+        "mention": "avec Lou Bobin",
+        "dateHeure": "2024-03-15T13:30:00"
       }
     ],
     "Séances présentées": [
@@ -1408,6 +1432,11 @@
       {
         "titreFilms": "Macario",
         "mention": "par Fernando Ganzo",
+        "dateHeure": "2024-03-17T14:00:00"
+      },
+      {
+        "titreFilms": "Le Revenant",
+        "mention": "par György Ráduly",
         "dateHeure": "2024-03-17T14:00:00"
       },
       {
