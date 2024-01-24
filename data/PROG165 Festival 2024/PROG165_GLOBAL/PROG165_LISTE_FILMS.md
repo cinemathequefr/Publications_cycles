@@ -48,7 +48,7 @@
   * Femme des sables (La)  
   * Jedda  
   * Master and Commander : De l'autre côté du monde  
-  * Picnic à Hanging Rock  
+  * Pique-nique à Hanging Rock  
   * Swimmer (The)  
   * Truman Show (The)  
   * Voitures qui ont mangé Paris (Les)  
