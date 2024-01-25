@@ -33,7 +33,8 @@
             {
               "idSeance": 130558,
               "dateHeure": "2024-03-15T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Pauline de Raymond"
             }
           ]
         },
@@ -62,7 +63,8 @@
             {
               "idSeance": 123121,
               "dateHeure": "2024-03-14T20:00:00",
-              "idSalle": "HO"
+              "idSalle": "HO",
+              "mention": "Séance présentée par Pauline de Raymond"
             }
           ]
         },
@@ -102,12 +104,31 @@
             {
               "idSeance": 123093,
               "dateHeure": "2024-03-15T18:00:00",
-              "idSalle": "LE"
+              "idSalle": "LE",
+              "mention": "Séance présentée par Pauline de Raymond"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Households Saints",
+        "mention": "par Pauline de Raymond",
+        "dateHeure": "2024-03-14T20:00:00"
+      },
+      {
+        "titreFilms": "Renata / True Love",
+        "mention": "par Pauline de Raymond",
+        "dateHeure": "2024-03-15T18:00:00"
+      },
+      {
+        "titreFilms": "Dogfight",
+        "mention": "par Pauline de Raymond",
+        "dateHeure": "2024-03-15T20:30:00"
+      }
+    ]
+  }
 }
