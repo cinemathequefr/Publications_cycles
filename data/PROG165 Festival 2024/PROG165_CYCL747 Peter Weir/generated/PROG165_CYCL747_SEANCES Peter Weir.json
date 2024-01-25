@@ -99,7 +99,7 @@
     "idCategorie": 3241,
     "typeEvenement": 13,
     "idEvenement": 30106,
-    "idSeance": 130567,
+    "idSeance": 130596,
     "dateHeure": "2024-03-14T19:30:00",
     "idSalle": [
       "HL",
@@ -110,7 +110,7 @@
       {
         "idFilm": 37816,
         "ordre": 1,
-        "idSeance": 130567,
+        "idSeance": 130596,
         "idCopie": 27338,
         "duree": 129,
         "version": "VOSTF",
@@ -118,29 +118,6 @@
       }
     ],
     "mention": "Séance présentée par Peter Weir"
-  },
-  {
-    "idCategorie": 3241,
-    "typeEvenement": 13,
-    "idEvenement": 30099,
-    "idSeance": 130531,
-    "dateHeure": "2024-03-14T20:00:00",
-    "idSalle": [
-      "HO",
-      "Hors les murs"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 58597,
-        "ordre": 1,
-        "idSeance": 130531,
-        "idCopie": 27332,
-        "duree": 91,
-        "version": "",
-        "format": "Numérique"
-      }
-    ]
   },
   {
     "idCategorie": 3280,
@@ -193,23 +170,23 @@
   {
     "idCategorie": 3241,
     "typeEvenement": 13,
-    "idEvenement": 30104,
-    "idSeance": 130591,
+    "idEvenement": 30099,
+    "idSeance": 130531,
     "dateHeure": "2024-03-15T20:00:00",
     "idSalle": [
       "HO",
       "Hors les murs"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 29517,
+        "idFilm": 58597,
         "ordre": 1,
-        "idSeance": 130591,
-        "idCopie": 23380,
-        "duree": 103,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idSeance": 130531,
+        "idCopie": 27332,
+        "duree": 91,
+        "version": "",
+        "format": "Numérique"
       }
     ]
   },
@@ -365,6 +342,29 @@
     "items": [
       {
         "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 3241,
+    "typeEvenement": 13,
+    "idEvenement": 30104,
+    "idSeance": 130591,
+    "dateHeure": "2024-03-17T20:00:00",
+    "idSalle": [
+      "HO",
+      "Hors les murs"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 29517,
+        "ordre": 1,
+        "idSeance": 130591,
+        "idCopie": 23380,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   }
