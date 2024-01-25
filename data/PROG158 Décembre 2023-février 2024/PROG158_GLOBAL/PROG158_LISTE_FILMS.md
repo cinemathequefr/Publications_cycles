@@ -217,7 +217,7 @@
   * Vittel  
   * Vive Henri IV, vive l'amour
 
-## Claude Miller (24)
+## Claude Miller (25)
 
   * Accompagnatrice (L')  
   * Betty Fisher et autres histoires  
@@ -240,6 +240,7 @@
   * Question ordinaire (La)  
   * Serpent  
   * Sourire (Le)  
+  * Sous l'aile de Claude Miller  
   * Thérèse Desqueyroux  
   * Un secret  
   * Voyez comme ils dansent
