@@ -112,7 +112,7 @@
   * Fantômes du Titanic (Les)  
   * Piranha 2 : Les Tueurs volants  
   * Terminator  
-  * Terminator 2, le jugement dernier  
+  * Terminator 2 : Le Jugement dernier  
   * Titanic  
   * True Lies
 
@@ -130,9 +130,9 @@
   * Combat de Kyōshirō Nemuri (Le)  
   * Combinards des pompes funèbres (Les)  
   * Courtisane et l'Assassin (La)  
-  * Démon du chateau de Sendai (Le)  
+  * Démon du château de Sendai (Le)  
   * Derniers samouraïs (Les)  
-  * Deux Gardes du corps (Les)  
+  * Deux gardes du corps (Les)  
   * Deux sœurs mélancoliques à Kyoto  
   * Enfant renard (L')  
   * Épée errante (L')  
@@ -171,7 +171,7 @@
   * Un flic hors-la-loi  
   * Vision de la vierge (La)
 
-## La comédie romantique moderne (20)
+## La comédie romantique en 20 indispensables (20)
 
   * Comment savoir  
   * Coup de foudre à Notting Hill  
@@ -365,7 +365,7 @@
   * Nurse (La)  
   * People vs. Paul Crump (The)  
   * Police fédérale, Los Angeles  
-  * Sang du Châtiment (director's cut) (Le)  
+  * Sang du châtiment (director's cut) (Le)  
   * Sang du châtiment (Le)  
   * Strip-tease chez Minsky  
   * Têtes vides cherchent coffres pleins  
