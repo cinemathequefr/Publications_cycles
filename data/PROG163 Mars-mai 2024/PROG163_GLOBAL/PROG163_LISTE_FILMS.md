@@ -133,7 +133,6 @@
   * Démon du château de Sendai (Le)  
   * Derniers samouraïs (Les)  
   * Deux gardes du corps (Les)  
-  * Deux sœurs mélancoliques à Kyoto  
   * Enfant renard (L')  
   * Épée errante (L')  
   * Famille matrilinéaire (La)  
@@ -165,6 +164,7 @@
   * Sabre qui sauva Edō (Le)  
   * Sabreur et les pirates (Le)  
   * Saga de Magoichi (La)  
+  * Sœurs mélancoliques à Kyoto (Les)  
   * Sur la route à jamais  
   * Temple du démon (Le)  
   * Tuer  

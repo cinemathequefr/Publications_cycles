@@ -1,5 +1,11 @@
 # Liste des films par cycle
 
+## Carte blanche à Peter Weir (3)
+
+  * Femme des sables (La)  
+  * Jedda  
+  * Swimmer (The)
+
 ## Jacques Deray (4)
 
   * Par un beau matin d'été  
@@ -40,16 +46,13 @@
   * Sensualist (extrait) (The)  
   * Wheel of Ashes
 
-## Peter Weir (11)
+## Peter Weir (8)
 
   * Cercle des poètes disparus (Le)  
   * Dernière Vague (La)  
   * État second  
-  * Femme des sables (La)  
-  * Jedda  
   * Master and Commander : De l'autre côté du monde  
   * Pique-nique à Hanging Rock  
-  * Swimmer (The)  
   * Truman Show (The)  
   * Voitures qui ont mangé Paris (Les)  
   * Witness
