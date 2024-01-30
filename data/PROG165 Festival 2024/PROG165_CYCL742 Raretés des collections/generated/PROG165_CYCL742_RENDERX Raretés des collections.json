@@ -47,7 +47,8 @@
             {
               "idSeance": 123085,
               "dateHeure": "2024-03-15T15:30:00",
-              "idSalle": "LE"
+              "idSalle": "LE",
+              "mention": "Séance présentée par Noémie Jean"
             }
           ]
         },
@@ -94,7 +95,7 @@
               "idSeance": 118216,
               "dateHeure": "2024-03-14T18:30:00",
               "idSalle": "GF",
-              "mention": "Accompagnement musical par Moecke"
+              "mention": "Accompagnement musical par Moecke. Séance présentée par Hervé Pichard et Mehdi Taïbi"
             }
           ]
         },
@@ -139,7 +140,7 @@
               "idSeance": 130519,
               "dateHeure": "2024-03-13T19:30:00",
               "idSalle": "JE",
-              "mention": "Accompagnement musical par Sylvain Barou, Laura Perrudin et Antoine Lahay"
+              "mention": "Accompagnement musical par Sylvain Barou, Laura Perrudin et Antoine Lahay. Séance présentée par Hervé Pichard et Mehdi Taïbi"
             }
           ]
         },
@@ -239,7 +240,8 @@
             {
               "idSeance": 130534,
               "dateHeure": "2024-03-17T18:00:00",
-              "idSalle": "HO"
+              "idSalle": "HO",
+              "mention": "Séance présentée par Felicidad Guarda et Hervé Pichard"
             }
           ]
         },
@@ -267,12 +269,41 @@
             {
               "idSeance": 128826,
               "dateHeure": "2024-03-16T17:30:00",
-              "idSalle": "LE"
+              "idSalle": "LE",
+              "mention": "Séance présentée par Noémie Jean et Nicolas Ricordel"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "La Pêche à la morue à la ligne de fond en Islande / Vent debout",
+        "mention": "par Hervé Pichard et Mehdi Taïbi",
+        "dateHeure": "2024-03-13T19:30:00"
+      },
+      {
+        "titreFilms": "Conte cruel / Fièvre",
+        "mention": "par Hervé Pichard et Mehdi Taïbi",
+        "dateHeure": "2024-03-14T18:30:00"
+      },
+      {
+        "titreFilms": "L'Accident / Tabataba",
+        "mention": "par Noémie Jean",
+        "dateHeure": "2024-03-15T15:30:00"
+      },
+      {
+        "titreFilms": "La Vase",
+        "mention": "par Noémie Jean et Nicolas Ricordel",
+        "dateHeure": "2024-03-16T17:30:00"
+      },
+      {
+        "titreFilms": "La Pêche aux homards / Départ des Terre-Neuvas / La Pêche aux cordes / Retour de la pêche à la sardine aux Sables-d'Olonne / L'Industrie du hareng à Boulogne-sur-mer / Traversée de la Manche à la nage / Surcouf",
+        "mention": "par Felicidad Guarda et Hervé Pichard",
+        "dateHeure": "2024-03-17T18:00:00"
+      }
+    ]
+  }
 }
