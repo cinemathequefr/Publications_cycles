@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2024-02-01T18:00:00",
+    "2024-01-31T20:00:00",
     "2024-02-05T16:00:00"
   ],
   "textePresentation": "",
@@ -9,6 +9,41 @@
       "tri": 4,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 154731,
+          "content": [
+            {
+              "idFilm": 154731,
+              "ordre": 1,
+              "titre": "Sleep",
+              "realisateurs": "Jason Yu",
+              "pays": "Corée",
+              "annee": 2023,
+              "duree": 99,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Jung Yu-mi",
+                "Lee Sun-Kyun",
+                "Kim Kul-soon"
+              ],
+              "miniTexte": "La vie d'un jeune couple est bouleversée lorsque le mari devient somnambule et se transforme en quelqu'un d'autre la nuit tombée. Sa femme, submergée par la peur qu'il fasse du mal à leur nouveau-né, ne trouve alors plus le sommeil."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130607,
+              "dateHeure": "2024-01-31T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 123111,
+              "dateHeure": "2024-02-04T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 154728,
           "content": [
@@ -150,7 +185,7 @@
             {
               "idSeance": 123110,
               "dateHeure": "2024-02-03T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "HL"
             }
           ]
         },
@@ -235,35 +270,6 @@
             {
               "idSeance": 123112,
               "dateHeure": "2024-02-04T17:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 154731,
-          "content": [
-            {
-              "idFilm": 154731,
-              "ordre": 1,
-              "titre": "Sleep",
-              "realisateurs": "Jason Yu",
-              "pays": "Corée",
-              "annee": 2023,
-              "duree": 99,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Jung Yu-mi",
-                "Lee Sun-Kyun",
-                "Kim Kul-soon"
-              ],
-              "miniTexte": "La vie d'un jeune couple est bouleversée lorsque le mari devient somnambule et se transforme en quelqu'un d'autre la nuit tombée. Sa femme, submergée par la peur qu'il fasse du mal à leur nouveau-né, ne trouve alors plus le sommeil."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 123111,
-              "dateHeure": "2024-02-04T20:00:00",
               "idSalle": "HL"
             }
           ]
