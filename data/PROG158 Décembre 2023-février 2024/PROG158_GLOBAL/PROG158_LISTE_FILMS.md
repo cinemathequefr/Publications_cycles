@@ -136,7 +136,7 @@
   * Tiresia  
   * Zombi Child
 
-## Boris Barnet (18)
+## Boris Barnet (17)
 
   * Alenka  
   * Annouchka  
@@ -154,8 +154,7 @@
   * Un brave garçon  
   * Un été prodigieux  
   * Une fois, la nuit  
-  * Une nuit de septembre  
-  * Vieux cavalier (Le)
+  * Une nuit de septembre
 
 ## Ciné-club de Frédéric Bonnaud (4)
 
