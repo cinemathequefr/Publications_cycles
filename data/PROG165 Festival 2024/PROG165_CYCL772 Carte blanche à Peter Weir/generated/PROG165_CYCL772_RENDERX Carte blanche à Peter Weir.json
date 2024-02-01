@@ -33,7 +33,8 @@
             {
               "idSeance": 130605,
               "dateHeure": "2024-03-13T16:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Peter Weir"
             }
           ]
         },
@@ -63,7 +64,8 @@
             {
               "idSeance": 130606,
               "dateHeure": "2024-03-15T15:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Peter Weir"
             }
           ]
         },
@@ -94,12 +96,31 @@
             {
               "idSeance": 130604,
               "dateHeure": "2024-03-15T18:45:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Peter Weir"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "La Femme des sables",
+        "mention": "par Peter Weir",
+        "dateHeure": "2024-03-13T16:30:00"
+      },
+      {
+        "titreFilms": "Jedda",
+        "mention": "par Peter Weir",
+        "dateHeure": "2024-03-15T15:00:00"
+      },
+      {
+        "titreFilms": "The Swimmer",
+        "mention": "par Peter Weir",
+        "dateHeure": "2024-03-15T18:45:00"
+      }
+    ]
+  }
 }
