@@ -33,7 +33,7 @@
 ## Nancy Savoca (4)
 
   * Dogfight  
-  * Households Saints  
+  * Household Saints  
   * Renata  
   * True Love
 
