@@ -12,4 +12,4 @@ Parmi les trésors de la Cinémathèque, _Conte Cruel_ constitue certainement l'
 
 Le Festival est ainsi une occasion magnifique de faire revivre ces images tournées par des artistes qui n'ont cessé de contribuer aux renouvellements des formes cinématographiques tout en offrant un regard critique sur une humanité parfois cruelle.
 
-<div class="author">Hervé Pichard (directeur des collections films de la Cinémathèque française)</div>
+<div class="author">Hervé Pichard</div>
