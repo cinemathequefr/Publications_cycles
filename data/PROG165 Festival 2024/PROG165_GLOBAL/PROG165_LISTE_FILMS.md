@@ -74,7 +74,7 @@
   * Vase (La)  
   * Vent debout
 
-## Restaurations et incunables (50)
+## Restaurations et incunables (49)
 
   * Ailes de la colombe (Les)  
   * Aloïse  
@@ -86,7 +86,6 @@
   * Collateral  
   * Comédiennes  
   * Corso tragique  
-  * Coup de cœur  
   * Croix de fer  
   * Enamorada  
   * Guerre du feu (La)  

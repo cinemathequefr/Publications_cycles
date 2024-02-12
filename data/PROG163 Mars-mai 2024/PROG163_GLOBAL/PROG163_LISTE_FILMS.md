@@ -230,8 +230,8 @@
 ## Marguerite Duras (28)
 
   * Agatha et les lectures illimitées  
-  * Aurelia Steiner : Melbourne  
-  * Aurélia Steiner : Vancouver  
+  * Aurélia Steiner (Melbourne)  
+  * Aurélia Steiner (Vancouver)  
   * Baxter, Vera Baxter  
   * Camion (Le)  
   * Caverne noire (La)  
