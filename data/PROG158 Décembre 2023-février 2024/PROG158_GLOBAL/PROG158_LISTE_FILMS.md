@@ -339,7 +339,7 @@
   * Hostel  
   * Inferno  
   * Kaïro  
-  * Maison du Diable (La)  
+  * Maison du diable (La)  
   * Masque du démon (Le)  
   * Massacre à la tronçonneuse  
   * Nosferatu le vampire  
