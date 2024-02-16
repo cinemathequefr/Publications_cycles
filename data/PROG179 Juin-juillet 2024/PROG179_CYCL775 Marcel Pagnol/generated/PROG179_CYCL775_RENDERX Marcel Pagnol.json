@@ -1,0 +1,73 @@
+{
+  "datesCycle": [
+    "2024-07-10T21:00:00",
+    "2024-07-14T14:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 50481,
+          "content": [
+            {
+              "idFilm": 50481,
+              "ordre": 1,
+              "titre": "Angèle",
+              "realisateurs": "Marcel Pagnol",
+              "pays": "France",
+              "annee": 1934,
+              "generique": [
+                "Henri Poupon",
+                "Annie Toinon",
+                "Orane Demazis",
+                "Fernandel"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 129992,
+              "dateHeure": "2024-07-10T21:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30575,
+          "content": [
+            {
+              "idConf": 30575,
+              "titre": "Film + Dialogue avec Marcos Uzal",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130637,
+              "dateHeure": "2024-07-14T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Film + Dialogue avec Marcos Uzal",
+        "dateHeure": "2024-07-14T14:30:00"
+      }
+    ]
+  }
+}
