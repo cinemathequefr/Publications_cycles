@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-07-03T20:00:00",
-    "2024-07-05T21:00:00"
+    "2024-07-06T14:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -20,13 +20,16 @@
               "titreVo": "Ma Yong Zhen",
               "realisateurs": "Cheh Chang",
               "pays": "Hong-Kong",
-              "annee": 1972
+              "annee": 1972,
+              "duree": 134,
+              "version": "",
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 130682,
-              "dateHeure": "2024-07-04T19:00:00",
+              "idSeance": 130742,
+              "dateHeure": "2024-07-04T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -41,13 +44,16 @@
               "titreVo": "Shao Lin wu zu",
               "realisateurs": "Cheh Chang",
               "pays": "Hong-Kong",
-              "annee": 1974
+              "annee": 1974,
+              "duree": 109,
+              "version": "",
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 129884,
-              "dateHeure": "2024-07-05T19:00:00",
+              "idSeance": 130743,
+              "dateHeure": "2024-07-05T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -63,13 +69,16 @@
               "titreVo": "Liu A-Cai yu Huang Fei-Hong",
               "realisateurs": "Chia-Liang Liu",
               "pays": "Hong-Kong",
-              "annee": 1976
+              "annee": 1976,
+              "duree": 97,
+              "version": "",
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 130684,
-              "dateHeure": "2024-07-05T21:00:00",
+              "idSeance": 130745,
+              "dateHeure": "2024-07-05T20:15:00",
               "idSalle": "HL"
             }
           ]
@@ -85,15 +94,17 @@
               "titreVo": "Shao Lin si",
               "realisateurs": "Cheh Chang",
               "pays": "Hong-Kong",
-              "annee": 1976
+              "annee": 1976,
+              "duree": 126,
+              "version": "",
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 129806,
+              "idSeance": 130741,
               "dateHeure": "2024-07-03T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "idSalle": "HL"
             }
           ]
         },
@@ -108,19 +119,53 @@
               "titreVo": "Shao Lin san shih liu fang",
               "realisateurs": "Chia-Liang Liu",
               "pays": "Hong-Kong",
-              "annee": 1977
+              "annee": 1977,
+              "duree": 116,
+              "version": "",
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 130683,
-              "dateHeure": "2024-07-04T21:00:00",
+              "idSeance": 130744,
+              "dateHeure": "2024-07-04T20:45:00",
               "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30573,
+          "content": [
+            {
+              "idConf": 30573,
+              "titre": "Film + Dialogue avec Stéphane du Mesnildot",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Jean-François Rauger"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130747,
+              "dateHeure": "2024-07-06T14:30:00",
+              "idSalle": "GF"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Film + Dialogue avec Stéphane du Mesnildot",
+        "dateHeure": "2024-07-06T14:30:00"
+      }
+    ]
+  }
 }

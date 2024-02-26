@@ -1,57 +1,51 @@
 # Liste des films par cycle
 
-## David Cronenberg (36)
+## James Cameron (2)
 
-  * A Dangerous Method  
-  * A History of Violence  
-  * Camera  
-  * Chromosome 3  
-  * Cosmopolis  
-  * Crash  
-  * Crimes du futur (Les)  
-  * Crimes of the Future  
-  * Dead Zone  
-  * Death of David Cronenberg (The)  
-  * eXistenZ  
-  * Faith Healer (The)  
-  * Fast Company  
-  * Faux-semblants  
-  * Festin nu (Le)  
-  * Frissons  
-  * From the Drain  
-  * Italian Machine (The)  
-  * Jim Ritchie Sculptor  
-  * Letter from Michelangelo  
-  * Lie Chair (The)  
-  * M. Butterfly  
-  * Maps to the Stars  
-  * Mouche (La)  
-  * Nid (Le)  
-  * Promesses de l'ombre (Les)  
-  * Rage  
-  * Scanners  
-  * Secret Weapons  
-  * Shrouds (The)  
-  * Spider  
-  * Stereo  
-  * Tourettes  
-  * Transfer  
-  * Victim (The)  
-  * Videodrome
-
-## James Cameron (1)
-
+  * Avatar : La Voie de l'eau  
   * Titanic
 
-## Ma petite Cinémathèque (1)
+## Ma petite Cinémathèque (7)
 
-  * Adorable voisine (L')
+  * Adorable voisine (L')  
+  * Alice au pays des merveilles  
+  * Drôle de frimousse  
+  * Fantastic Mr. Fox  
+  * Ile au trésor (L')  
+  * Princes et princesses  
+  * Ratatouille
 
-## Marcel Pagnol (1)
+## Marcel Pagnol (4)
 
-  * Angèle
+  * Angèle  
+  * César  
+  * Fanny  
+  * Marius
 
-## Olivier Assayas (13)
+## Mike Nichols (20)
+
+  * A propos d' Henry  
+  * Biloxi Blues  
+  * Birdcage (The)  
+  * Bonne fortune (La)  
+  * Bons baisers d'Hollywood  
+  * Brûlure (La)  
+  * Catch 22  
+  * Ce plaisir qu'on dit charnel  
+  * De quelle planète viens-tu ?  
+  * Entre adultes consentants  
+  * Gilda Live  
+  * Guerre selon Charlie Wilson (La)  
+  * Jour du dauphin (Le)  
+  * Lauréat (Le)  
+  * Mon Combat  
+  * Mystère Silkwood (Le)  
+  * Primary Colors  
+  * Qui a peur de Virginia Woolf ?  
+  * Wolf  
+  * Working Girl
+
+## Olivier Assayas (15)
 
   * Après mai  
   * Boarding gate  
@@ -65,9 +59,11 @@
   * Heure d'été (L')  
   * Irma Vep  
   * Paris s'éveille  
+  * Personal Shopper  
+  * Sils Maria  
   * Une nouvelle vie
 
-## Richard Quine (15)
+## Richard Quine (16)
 
   * Bal des cinglés (Le)  
   * Ça c'est Paris  
@@ -76,6 +72,7 @@
   * Deux têtes folles  
   * Du plomb pour l'inspecteur  
   * Inquiétante dame en noir (L')  
+  * Joyeux débarquement  
   * Leather Gloves  
   * Liaisons secrètes (Les)  
   * Ma sœur est du tonnerre  
@@ -85,14 +82,30 @@
   * Une Cadillac en or massif  
   * Une vierge sur canapé
 
-## Road Movie, USA 25 indispensables (6)
+## Road Movie, USA 25 indispensables (22)
 
-  * Easy Rider  
+  * Alice n'est plus ici  
+  * Balade sauvage (La)  
+  * Brown Bunny (The)  
+  * Canardeur (Le)  
+  * Dillinger  
   * En route pour la gloire  
+  * Épouvantail (L')  
+  * Gens de la pluie (Les)  
   * Macadam à deux voies  
+  * My Own Private Idaho  
   * New York-Miami  
+  * Paris, Texas  
   * Point limite zéro  
-  * Raisins de la colère (Les)
+  * Raisins de la colère (Les)  
+  * Route One / USA  
+  * Stranger than Paradise  
+  * Thelma et Louise  
+  * Un monde parfait  
+  * Une histoire vraie  
+  * Voyages de Sullivan (Les)  
+  * Wanda  
+  * Wild Boys of the Road
 
 ## Shaw Brothers 25 indispensables (5)
 
