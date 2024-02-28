@@ -4,7 +4,7 @@
     "typeEvenement": 13,
     "idEvenement": 30404,
     "idSeance": 129620,
-    "dateHeure": "2024-06-26T21:00:00",
+    "dateHeure": "2024-06-26T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -226,9 +226,9 @@
   {
     "idCategorie": 3332,
     "typeEvenement": 13,
-    "idEvenement": 30403,
-    "idSeance": 129768,
-    "dateHeure": "2024-07-01T18:00:00",
+    "idEvenement": 30411,
+    "idSeance": 130824,
+    "dateHeure": "2024-07-01T17:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -236,11 +236,11 @@
     "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 29629,
+        "idFilm": 64318,
         "ordre": 1,
-        "idSeance": 129768,
-        "idCopie": 3609,
-        "duree": 115,
+        "idSeance": 130824,
+        "idCopie": 5755,
+        "duree": 111,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -251,7 +251,7 @@
     "typeEvenement": 13,
     "idEvenement": 30399,
     "idSeance": 130764,
-    "dateHeure": "2024-07-01T20:30:00",
+    "dateHeure": "2024-07-01T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -389,7 +389,7 @@
     "typeEvenement": 13,
     "idEvenement": 30408,
     "idSeance": 129929,
-    "dateHeure": "2024-07-06T15:00:00",
+    "dateHeure": "2024-07-06T14:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -435,7 +435,7 @@
     "typeEvenement": 13,
     "idEvenement": 30413,
     "idSeance": 129931,
-    "dateHeure": "2024-07-06T20:00:00",
+    "dateHeure": "2024-07-06T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -456,8 +456,8 @@
   {
     "idCategorie": 3332,
     "typeEvenement": 13,
-    "idEvenement": 30411,
-    "idSeance": 129947,
+    "idEvenement": 30403,
+    "idSeance": 130825,
     "dateHeure": "2024-07-07T17:30:00",
     "idSalle": [
       "JE",
@@ -466,11 +466,11 @@
     "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 64318,
+        "idFilm": 29629,
         "ordre": 1,
-        "idSeance": 129947,
-        "idCopie": 5755,
-        "duree": 111,
+        "idSeance": 130825,
+        "idCopie": 3609,
+        "duree": 115,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -502,6 +502,29 @@
   {
     "idCategorie": 3332,
     "typeEvenement": 13,
+    "idEvenement": 30404,
+    "idSeance": 129996,
+    "dateHeure": "2024-07-10T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 30343,
+        "ordre": 1,
+        "idSeance": 129996,
+        "idCopie": 17709,
+        "duree": 147,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3332,
+    "typeEvenement": 13,
     "idEvenement": 30397,
     "idSeance": 130030,
     "dateHeure": "2024-07-11T19:00:00",
@@ -510,6 +533,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 60213,
@@ -526,15 +550,41 @@
     "idCategorie": 3346,
     "typeEvenement": 14,
     "idEvenement": 30572,
-    "idSeance": 130688,
-    "dateHeure": "2024-07-11T20:45:00",
+    "idSeance": 130030,
+    "dateHeure": "2024-07-11T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 3332,
+    "typeEvenement": 13,
+    "idEvenement": 30390,
+    "idSeance": 130823,
+    "dateHeure": "2024-07-12T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 31135,
+        "ordre": 1,
+        "idSeance": 130823,
+        "idCopie": 16569,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
     ]
   },
   {

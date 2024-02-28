@@ -144,6 +144,7 @@
           "seances": [
             {
               "idSeance": 129097,
+              "typeAssoc": 118,
               "dateHeure": "2024-06-06T19:00:00",
               "idSalle": "GF"
             }
@@ -176,26 +177,43 @@
           ]
         },
         {
-          "idFilm": 43787,
-          "content": [
+          "groupe": [
             {
               "idFilm": 43787,
-              "ordre": 1,
-              "titre": "Journal intime",
-              "titreVo": "Cronaca familiare",
-              "realisateurs": "Valerio Zurlini",
-              "pays": "Italie",
-              "annee": 1962,
-              "duree": 105,
-              "version": "VOSTF",
-              "format": "35 mm"
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 43787,
+                  "ordre": 1,
+                  "titre": "Journal intime",
+                  "titreVo": "Cronaca familiare",
+                  "realisateurs": "Valerio Zurlini",
+                  "pays": "Italie",
+                  "annee": 1962,
+                  "duree": 105,
+                  "version": "VOSTF",
+                  "format": "35 mm"
+                }
+              ]
+            },
             {
-              "idSeance": 130666,
-              "dateHeure": "2024-05-31T19:00:00",
-              "idSalle": "HL"
+              "idEvenement": 30567,
+              "content": [
+                {
+                  "idConf": 30567,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-Christophe Ferrari",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 130666,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-05-31T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -250,37 +268,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30567,
-          "content": [
-            {
-              "idConf": 30567,
-              "titre": "Dialogue avec Jean-Christophe Ferrari",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 130664,
-              "dateHeure": "2024-05-31T21:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Journal intime",
         "mention": "avec Jean-Christophe Ferrari",
-        "dateHeure": "2024-05-31T21:00:00"
+        "dateHeure": "2024-05-31T19:00:00"
       }
     ]
   }

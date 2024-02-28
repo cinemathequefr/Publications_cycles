@@ -108,7 +108,7 @@
         {
           "idSeance": 129368,
           "ordre": 1,
-          "dateHeure": "2024-06-15T19:30:00",
+          "dateHeure": "2024-06-15T20:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -130,9 +130,9 @@
           "textes": []
         },
         {
-          "idSeance": 129434,
+          "idSeance": 130813,
           "ordre": 1,
-          "dateHeure": "2024-06-19T19:00:00",
+          "dateHeure": "2024-06-15T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -156,7 +156,7 @@
         {
           "idSeance": 130773,
           "ordre": 1,
-          "dateHeure": "2024-06-26T20:00:00",
+          "dateHeure": "2024-06-26T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -204,7 +204,7 @@
         {
           "idSeance": 129367,
           "ordre": 1,
-          "dateHeure": "2024-06-15T17:00:00",
+          "dateHeure": "2024-06-15T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -273,9 +273,9 @@
           "textes": []
         },
         {
-          "idSeance": 129366,
+          "idSeance": 130814,
           "ordre": 1,
-          "dateHeure": "2024-06-15T14:30:00",
+          "dateHeure": "2024-06-19T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -355,7 +355,7 @@
         {
           "idSeance": 130772,
           "ordre": 1,
-          "dateHeure": "2024-06-26T18:00:00",
+          "dateHeure": "2024-06-26T18:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -516,7 +516,7 @@
         {
           "idSeance": 129702,
           "ordre": 1,
-          "dateHeure": "2024-06-28T19:00:00",
+          "dateHeure": "2024-06-28T19:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -566,21 +566,35 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 130644,
-          "dateHeure": "2024-06-19T19:00:00",
+          "idSeance": 130809,
+          "dateHeure": "2024-06-15T16:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 90,
+          "dureeSeance": 60,
           "idCategorie": 3344,
-          "idEvenement": 30568,
+          "idEvenement": 30642,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + Dialogue (rétro Richard Quine)",
+          "titre": "Dialogue avec Serge Chauvin",
           "duree": 60,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Serge Chauvin",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 2
+            }
+          ]
         }
       ],
       "textes": []

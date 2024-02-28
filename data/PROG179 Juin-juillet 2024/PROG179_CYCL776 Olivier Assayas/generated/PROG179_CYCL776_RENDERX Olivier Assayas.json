@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-06-19T18:30:00",
-    "2024-07-03T20:30:00"
+    "2024-07-04T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,29 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 117618,
+          "content": [
+            {
+              "idFilm": 117618,
+              "ordre": 1,
+              "titre": "Après mai",
+              "realisateurs": "Olivier Assayas",
+              "pays": "France",
+              "annee": 2011,
+              "duree": 122,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 129624,
+              "dateHeure": "2024-06-26T19:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
         {
           "idFilm": 102024,
           "content": [
@@ -90,7 +113,7 @@
           "seances": [
             {
               "idSeance": 130766,
-              "dateHeure": "2024-07-01T20:45:00",
+              "dateHeure": "2024-07-01T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -188,9 +211,9 @@
           ],
           "seances": [
             {
-              "idSeance": 130765,
-              "dateHeure": "2024-07-01T18:30:00",
-              "idSalle": "GF"
+              "idSeance": 130807,
+              "dateHeure": "2024-07-04T20:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -301,6 +324,30 @@
             {
               "idSeance": 129575,
               "dateHeure": "2024-06-23T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 103544,
+          "content": [
+            {
+              "idFilm": 103544,
+              "ordre": 1,
+              "titre": "Heure d'été",
+              "art": "L'",
+              "realisateurs": "Olivier Assayas",
+              "pays": "France",
+              "annee": 2007,
+              "duree": 143,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130806,
+              "dateHeure": "2024-07-01T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -715,6 +762,31 @@
             {
               "idSeance": 130767,
               "dateHeure": "2024-07-03T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 99765,
+          "content": [
+            {
+              "idFilm": 99765,
+              "ordre": 1,
+              "titre": "Paris, je t'aime",
+              "realisateurs": "Olivier Assayas, Frédéric Auburtin, Emmanuel Benbihy, [etc.]",
+              "pays": "France",
+              "annee": 2005,
+              "generique": [
+                "Marianne Faithfull",
+                "Gaspard Ulliel",
+                "Elias McConnell"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 129846,
+              "dateHeure": "2024-07-04T18:30:00",
               "idSalle": "JE"
             }
           ]

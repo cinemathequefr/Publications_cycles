@@ -35,7 +35,7 @@
         {
           "idSeance": 129931,
           "ordre": 1,
-          "dateHeure": "2024-07-06T20:00:00",
+          "dateHeure": "2024-07-06T20:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -62,7 +62,7 @@
         {
           "idSeance": 130764,
           "ordre": 1,
-          "dateHeure": "2024-07-01T20:30:00",
+          "dateHeure": "2024-07-01T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -122,12 +122,12 @@
           ]
         },
         {
-          "idSeance": 129768,
+          "idSeance": 130825,
           "ordre": 1,
-          "dateHeure": "2024-07-01T18:00:00",
+          "dateHeure": "2024-07-07T17:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "JE",
+            "Jean Epstein"
           ],
           "dureeSeance": 150,
           "idCategorie": 3332,
@@ -207,13 +207,42 @@
         {
           "idSeance": 129620,
           "ordre": 1,
-          "dateHeure": "2024-06-26T21:00:00",
+          "dateHeure": "2024-06-26T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 180,
           "mention": "Ouverture de la rétrospective",
+          "idCategorie": 3332,
+          "idEvenement": 30404,
+          "typeEvenement": 13,
+          "idFilm": 30343,
+          "titre": "En route pour la gloire",
+          "titreVo": "Bound for Glory",
+          "realisateurs": "Hal Ashby",
+          "annee": 1975,
+          "pays": "États-Unis",
+          "duree": 147,
+          "version": "VO",
+          "format": "35 mm",
+          "generique": [
+            "David Carradine",
+            "Ronny Cox",
+            "Melinda Dillon"
+          ],
+          "adaptation": "D'après l'ouvrage _Bound for Glory: The Hard-Driving, Truth-Telling, Autobiography of America's Great Poet-Folk Singer_ de Woody Guthrie.",
+          "textes": []
+        },
+        {
+          "idSeance": 129996,
+          "ordre": 1,
+          "dateHeure": "2024-07-10T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 180,
           "idCategorie": 3332,
           "idEvenement": 30404,
           "typeEvenement": 13,
@@ -293,9 +322,47 @@
           "textes": []
         },
         {
+          "idSeance": 130823,
+          "ordre": 1,
+          "dateHeure": "2024-07-12T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3332,
+          "idEvenement": 30390,
+          "typeEvenement": 13,
+          "idFilm": 31135,
+          "art": "Le",
+          "titre": "Magicien d'Oz",
+          "artVo": "The",
+          "titreVo": "Wizard of Oz",
+          "realisateurs": "Victor Fleming",
+          "annee": 1938,
+          "pays": "États-Unis",
+          "duree": 101,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": 6,
+          "generique": [
+            "Judy Garland",
+            "Frank Morgan",
+            "Ray Bolger",
+            "Bert Lahr"
+          ],
+          "adaptation": "D'après le roman _Le Magicien d'Oz_ de L. Frank Baum.",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Le voyage fantastique _« over the rainbow »_ de la jeune Dorothy, qui part à la rencontre du magicien d'Oz, accompagnée par un lion peureux, un épouvantail sans cervelle et un homme en fer blanc sans cœur. Un conte musical merveilleux aux couleurs éclatantes, et un classique de l'histoire du cinéma."
+            }
+          ]
+        },
+        {
           "idSeance": 129929,
           "ordre": 1,
-          "dateHeure": "2024-07-06T15:00:00",
+          "dateHeure": "2024-07-06T14:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -396,6 +463,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3332,
           "idEvenement": 30397,
           "typeEvenement": 13,
@@ -555,12 +623,12 @@
           "textes": []
         },
         {
-          "idSeance": 129947,
+          "idSeance": 130824,
           "ordre": 1,
-          "dateHeure": "2024-07-07T17:30:00",
+          "dateHeure": "2024-07-01T17:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "HL",
+            "Henri Langlois"
           ],
           "dureeSeance": 150,
           "idCategorie": 3332,
@@ -746,13 +814,15 @@
           "mentionAnimation": "Animé par Bernard Benoliel"
         },
         {
-          "idSeance": 130688,
-          "dateHeure": "2024-07-11T20:45:00",
+          "idSeance": 130030,
+          "ordre": 2,
+          "dateHeure": "2024-07-11T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 3346,
           "idEvenement": 30572,
           "typeEvenement": 14,
