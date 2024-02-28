@@ -25,9 +25,32 @@
   {
     "idCategorie": 3235,
     "typeEvenement": 13,
-    "idEvenement": 29975,
-    "idSeance": 129569,
+    "idEvenement": 29893,
+    "idSeance": 130754,
     "dateHeure": "2024-06-23T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 110101,
+        "ordre": 1,
+        "idSeance": 130754,
+        "idCopie": 4859,
+        "duree": 150,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3235,
+    "typeEvenement": 13,
+    "idEvenement": 29975,
+    "idSeance": 129570,
+    "dateHeure": "2024-06-23T18:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -37,7 +60,7 @@
       {
         "idFilm": 154672,
         "ordre": 1,
-        "idSeance": 129569,
+        "idSeance": 129570,
         "idCopie": 27179,
         "duree": 0,
         "version": "VOSTF",

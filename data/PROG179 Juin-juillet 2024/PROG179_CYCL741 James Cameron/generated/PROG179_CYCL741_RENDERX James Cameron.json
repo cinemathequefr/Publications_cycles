@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-06-14T19:00:00",
-    "2024-06-23T15:00:00"
+    "2024-06-23T18:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,37 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 110101,
+          "content": [
+            {
+              "idFilm": 110101,
+              "ordre": 1,
+              "titre": "Avatar",
+              "realisateurs": "James Cameron",
+              "pays": "États-Unis",
+              "annee": 2007,
+              "duree": 150,
+              "version": "VOSTF",
+              "format": "DCP",
+              "ageMinimal": 10,
+              "generique": [
+                "Sam Worthington",
+                "Zoe Saldana",
+                "Sigourney Weaver"
+              ],
+              "isFocus": true,
+              "miniTexte": "_Avatar_, ou tout simplement le plus grand succès au box-office de toute l'histoire du cinéma. Un ancien Marine est envoyé par un groupe industriel sur la planète Pandora, habitée par le peuple des Na'vi. Cameron emmène le spectateur très loin dans la mythologie et le rêve, compose une ode à la nature dans un univers unique, pensé dans ses moindres détails. Trouvailles visuelles splendides (végétation, personnages), effets spéciaux à couper le souffle (_motion capture_, 3D) d'un réalisme saisissant : du très grand divertissement, pour en prendre plein les yeux."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130754,
+              "dateHeure": "2024-06-23T15:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 154672,
           "content": [
@@ -33,8 +64,8 @@
           ],
           "seances": [
             {
-              "idSeance": 129569,
-              "dateHeure": "2024-06-23T15:00:00",
+              "idSeance": 129570,
+              "dateHeure": "2024-06-23T18:30:00",
               "idSalle": "HL"
             }
           ]
