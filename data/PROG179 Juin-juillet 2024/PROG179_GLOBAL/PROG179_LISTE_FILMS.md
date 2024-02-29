@@ -69,11 +69,12 @@
   * Wolf  
   * Working Girl
 
-## Olivier Assayas (28)
+## Olivier Assayas (32)
 
   * Après mai  
   * Boarding gate  
   * Carlos  
+  * Copyright  
   * Cuban Network  
   * Demonlover  
   * Désordre  
@@ -93,12 +94,15 @@
   * Irma Vep, épisode 6 : Le Maître de la foudre  
   * Irma Vep, épisode 7 : Le Spectre  
   * Irma Vep, épisode 8 : Les Noces sanglantes  
+  * Laissé inachevé à Tokyo  
   * Page blanche TV (La)  
   * Paris, je t'aime  
   * Paris s'éveille  
   * Personal Shopper  
+  * Rectangle  
   * Sils Maria  
-  * Une nouvelle vie
+  * Une nouvelle vie  
+  * Winston Tong en studio
 
 ## Richard Quine (23)
 
