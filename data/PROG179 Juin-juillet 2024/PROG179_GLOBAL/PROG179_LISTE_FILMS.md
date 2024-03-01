@@ -1,5 +1,10 @@
 # Liste des films par cycle
 
+## Ciné-club de Frédéric Bonnaud (2)
+
+  * Fille à la valise (La)  
+  * Lola Montès
+
 ## Fenêtre sur les collections (2)
 
   * Ben et Bénédict  
@@ -28,7 +33,7 @@
 ## Marcel Pagnol (19)
 
   * Angèle  
-  * Belle meunière (La)  
+  * Belle Meunière (La)  
   * César  
   * Cigalon  
   * Curé de Cucugnan (Le)  
@@ -47,11 +52,12 @@
   * Schpountz (Le)  
   * Topaze
 
-## Mike Nichols (19)
+## Mike Nichols (20)
 
   * A propos d' Henry  
   * Biloxi Blues  
   * Birdcage (The)  
+  * Bonne fortune (La)  
   * Bons baisers d'Hollywood  
   * Brûlure (La)  
   * Catch 22  
@@ -158,8 +164,9 @@
   * Wanda  
   * Wild Boys of the Road
 
-## Shaw Brothers 25 indispensables (24)
+## Shaw Brothers 25 indispensables (25)
 
+  * Arts martiaux de Shaolin (Les)  
   * Brute, le bonze et le méchant (La)  
   * Caïd de Chinatown (Le)  
   * Cinq maîtres de Shaolin  
@@ -190,13 +197,12 @@
   * Napoléon vu par Abel Gance – Partie 1  
   * Napoléon vu par Abel Gance – Partie 2
 
-## Valerio Zurlini (9)
+## Valerio Zurlini (8)
 
   * Black Jesus = Assis à sa droite  
   * Des filles pour l'armée  
   * Désert des Tartares (Le)  
   * été violent  
-  * Fille à la valise (La)  
   * Jeunes filles de San Frediano (Les)  
   * Journal intime  
   * Professeur (Le)  

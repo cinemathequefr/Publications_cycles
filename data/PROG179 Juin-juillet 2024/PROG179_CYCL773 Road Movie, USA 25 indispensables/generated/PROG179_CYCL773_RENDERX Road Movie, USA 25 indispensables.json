@@ -239,41 +239,53 @@
               "dateHeure": "2024-06-26T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
-            },
-            {
-              "idSeance": 129996,
-              "dateHeure": "2024-07-10T19:00:00",
-              "idSalle": "JE"
             }
           ]
         },
         {
-          "idFilm": 36741,
-          "content": [
+          "groupe": [
             {
               "idFilm": 36741,
-              "ordre": 1,
-              "titre": "Épouvantail",
-              "art": "L'",
-              "titreVo": "Scarecrow",
-              "realisateurs": "Jerry Schatzberg",
-              "pays": "États-Unis",
-              "annee": 1973,
-              "duree": 112,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Al Pacino",
-                "Gene Hackman",
-                "Dorothy Tristan"
+              "content": [
+                {
+                  "idFilm": 36741,
+                  "ordre": 1,
+                  "titre": "Épouvantail",
+                  "art": "L'",
+                  "titreVo": "Scarecrow",
+                  "realisateurs": "Jerry Schatzberg",
+                  "pays": "États-Unis",
+                  "annee": 1973,
+                  "duree": 112,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Al Pacino",
+                    "Gene Hackman",
+                    "Dorothy Tristan"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 130730,
-              "dateHeure": "2024-06-30T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 30571,
+              "content": [
+                {
+                  "idConf": 30571,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-Baptiste Thoret",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 130730,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-06-30T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -768,37 +780,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30571,
-          "content": [
-            {
-              "idConf": 30571,
-              "titre": "Dialogue avec Jean-Baptiste Thoret",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 130650,
-              "dateHeure": "2024-06-30T16:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogues": [
       {
+        "titreFilms": "L'Épouvantail",
         "mention": "avec Jean-Baptiste Thoret",
-        "dateHeure": "2024-06-30T16:00:00"
+        "dateHeure": "2024-06-30T14:30:00"
       },
       {
         "titreFilms": "Point limite zéro",

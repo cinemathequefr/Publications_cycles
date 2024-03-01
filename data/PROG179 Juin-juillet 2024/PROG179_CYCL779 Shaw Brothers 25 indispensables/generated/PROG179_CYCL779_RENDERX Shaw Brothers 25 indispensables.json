@@ -10,6 +10,31 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 154790,
+          "content": [
+            {
+              "idFilm": 154790,
+              "ordre": 1,
+              "titre": "Arts martiaux de Shaolin",
+              "art": "Les",
+              "titreVo": "Nan bei Shaolin",
+              "realisateurs": "Chia-Liang Liu",
+              "pays": "Hong-Kong",
+              "annee": 1986,
+              "duree": 95,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130834,
+              "dateHeure": "2024-07-19T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 154794,
           "content": [
             {
@@ -515,7 +540,8 @@
             {
               "idSeance": 130741,
               "dateHeure": "2024-07-03T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
             }
           ]
         },
