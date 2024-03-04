@@ -26,11 +26,11 @@
   * Alice au pays des merveilles  
   * Drôle de frimousse  
   * Fantastic Mr. Fox  
-  * Ile au trésor (L')  
+  * Île au trésor (L')  
   * Princes et princesses  
   * Ratatouille
 
-## Marcel Pagnol (19)
+## Marcel Pagnol (20)
 
   * Angèle  
   * Belle Meunière (La)  
@@ -41,9 +41,10 @@
   * Femme du boulanger (La)  
   * Fille du puisatier (La)  
   * Gendre de Monsieur Poirier (Le)  
+  * Île de lumière (L')  
   * Jofroi  
   * Lettres de mon moulin (Les)  
-  * Manon des Sources  
+  * Manon des sources  
   * Marius  
   * Merlusse  
   * Naïs  
@@ -75,12 +76,11 @@
   * Wolf  
   * Working Girl
 
-## Olivier Assayas (32)
+## Olivier Assayas (28)
 
   * Après mai  
   * Boarding gate  
   * Carlos  
-  * Copyright  
   * Cuban Network  
   * Demonlover  
   * Désordre  
@@ -100,15 +100,12 @@
   * Irma Vep, épisode 6 : Le Maître de la foudre  
   * Irma Vep, épisode 7 : Le Spectre  
   * Irma Vep, épisode 8 : Les Noces sanglantes  
-  * Laissé inachevé à Tokyo  
-  * Page blanche TV (La)  
+  * Noise  
   * Paris, je t'aime  
   * Paris s'éveille  
   * Personal Shopper  
-  * Rectangle  
   * Sils Maria  
-  * Une nouvelle vie  
-  * Winston Tong en studio
+  * Une nouvelle vie
 
 ## Richard Quine (23)
 
@@ -136,7 +133,7 @@
   * Une vierge sur canapé  
   * W
 
-## Road Movie, USA 25 indispensables (25)
+## Road Movie, USA, 25 indispensables (25)
 
   * Alice n'est plus ici  
   * American Honey  
@@ -164,7 +161,7 @@
   * Wanda  
   * Wild Boys of the Road
 
-## Shaw Brothers 25 indispensables (25)
+## Shaw Brothers, 25 indispensables (25)
 
   * Arts martiaux de Shaolin (Les)  
   * Brute, le bonze et le méchant (La)  
@@ -175,19 +172,19 @@
   * Démons du karaté = Les Héros de l'Orient (Les)  
   * Disciples de la 36ème chambre (Les)  
   * Disciples de Shaolin (Les)  
-  * Executeur de Shao Lin (L')  
+  * Exécuteurs de Shaolin (Les)  
   * Fureur de Shaolin (La)  
-  * Guandong shi hu xing yu wu xi  
-  * Jin bi tong  
-  * Lie mo zhe  
+  * Kid With the Golden Arm (The)  
   * Mai ming xiao zi  
   * Main de fer (La)  
+  * Mercenaries from Hong Kong  
   * Mo  
   * Prince et l'arnaqueur (Le)  
   * Retour à la 36ème chanbre  
   * Singe fou du kung-fu (Le)  
   * Tang shan wu hu  
   * Temple de Shaolin (Le)  
+  * Ten Tigers Of Kwangtung  
   * Trente-sixième chambre de Shaolin (La)  
   * Vengeance des infirmes (La)  
   * Zhang bei
