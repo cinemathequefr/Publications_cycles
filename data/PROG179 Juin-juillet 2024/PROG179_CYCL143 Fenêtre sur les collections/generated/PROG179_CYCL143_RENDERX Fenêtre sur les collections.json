@@ -25,7 +25,8 @@
             {
               "idSeance": 129888,
               "dateHeure": "2024-07-05T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Eric Le Roy"
             }
           ]
         },
@@ -53,12 +54,26 @@
             {
               "idSeance": 130819,
               "dateHeure": "2024-07-05T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Aurore Renaut"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "La Dérive = Une fille à la dérive",
+        "mention": "par Eric Le Roy",
+        "dateHeure": "2024-07-05T18:30:00"
+      },
+      {
+        "titreFilms": "Ben et Bénédict",
+        "mention": "par Aurore Renaut",
+        "dateHeure": "2024-07-05T20:30:00"
+      }
+    ]
+  }
 }

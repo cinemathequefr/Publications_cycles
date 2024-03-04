@@ -76,7 +76,7 @@
   * Wolf  
   * Working Girl
 
-## Olivier Assayas (28)
+## Olivier Assayas (29)
 
   * Après mai  
   * Boarding gate  
@@ -91,6 +91,7 @@
   * Enfant de l'hiver (L')  
   * Fin août, début septembre  
   * Heure d'été (L')  
+  * Hors du temps  
   * Irma Vep  
   * Irma Vep, épisode 1 : La Tête coupée  
   * Irma Vep, épisode 2 : La Bague qui tue  
@@ -163,31 +164,31 @@
 
 ## Shaw Brothers, 25 indispensables (25)
 
+  * 36e Chambre de Shaolin (La)  
   * Arts martiaux de Shaolin (Les)  
-  * Brute, le bonze et le méchant (La)  
+  * Boxer's Omen (The)  
   * Caïd de Chinatown (Le)  
   * Cinq maîtres de Shaolin  
   * Cinq venins mortels  
   * Combat des maîtres (Le)  
-  * Démons du karaté = Les Héros de l'Orient (Les)  
+  * Démons du karaté = Les Héros de l'Orient = Shaolin contre Ninja (Les)  
   * Disciples de la 36ème chambre (Les)  
   * Disciples de Shaolin (Les)  
   * Exécuteurs de Shaolin (Les)  
+  * Five Superfighters  
   * Fureur de Shaolin (La)  
+  * Justicier de Shangai / La Brute, le bonze et le méchan (Le)  
   * Kid With the Golden Arm (The)  
-  * Mai ming xiao zi  
+  * Lady Kung-Fu  
+  * Magnificent Ruffians (The)  
   * Main de fer (La)  
   * Mercenaries from Hong Kong  
-  * Mo  
-  * Prince et l'arnaqueur (Le)  
-  * Retour à la 36ème chanbre  
+  * Prince et l'Arnaqueur (Le)  
+  * Retour à la 36e chambre  
   * Singe fou du kung-fu (Le)  
-  * Tang shan wu hu  
   * Temple de Shaolin (Le)  
   * Ten Tigers Of Kwangtung  
-  * Trente-sixième chambre de Shaolin (La)  
-  * Vengeance des infirmes (La)  
-  * Zhang bei
+  * Vengeance des infirmes (La)
 
 ## Séances spéciales (2)
 
@@ -199,7 +200,7 @@
   * Black Jesus = Assis à sa droite  
   * Des filles pour l'armée  
   * Désert des Tartares (Le)  
-  * été violent  
+  * Été violent  
   * Jeunes filles de San Frediano (Les)  
   * Journal intime  
   * Professeur (Le)  
