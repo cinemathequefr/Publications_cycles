@@ -87,7 +87,7 @@
     "items": [
       {
         "idFilm": 43799,
-        "titre": "été violent",
+        "titre": "Été violent",
         "realisateurs": "Valerio Zurlini",
         "annee": 1959,
         "duree": 100,
@@ -130,6 +130,10 @@
       [
         "Valerio Zurlini",
         "Les films"
+      ],
+      [
+        "Valerio Zurlini",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -141,22 +145,7 @@
         "duree": 105,
         "version": "VOSTF",
         "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f43787"
-  },
-  {
-    "idSeance": 130664,
-    "idEvenement": 30567,
-    "dateHeure": "2024-05-31T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Valerio Zurlini",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 30567,
         "titre": "Dialogue avec Jean-Christophe Ferrari",
@@ -164,7 +153,31 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c30567"
+    "hashEvenement": "f43787c30567"
+  },
+  {
+    "idSeance": 130629,
+    "idEvenement": 29886,
+    "dateHeure": "2024-06-01T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "James Cameron",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30824,
+        "titre": "Terminator",
+        "realisateurs": "James Cameron",
+        "annee": 1984,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f30824"
   },
   {
     "idSeance": 130627,
@@ -180,7 +193,7 @@
     "items": [
       {
         "idFilm": 43799,
-        "titre": "été violent",
+        "titre": "Été violent",
         "realisateurs": "Valerio Zurlini",
         "annee": 1959,
         "duree": 100,
@@ -193,7 +206,7 @@
   {
     "idSeance": 130783,
     "idEvenement": 30619,
-    "dateHeure": "2024-06-01T17:45:00",
+    "dateHeure": "2024-06-01T17:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -241,7 +254,7 @@
   {
     "idSeance": 130784,
     "idEvenement": 30613,
-    "dateHeure": "2024-06-01T20:15:00",
+    "dateHeure": "2024-06-01T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -338,8 +351,8 @@
     "hashEvenement": "f57070"
   },
   {
-    "idSeance": 130785,
-    "idEvenement": 30604,
+    "idSeance": 130815,
+    "idEvenement": 30606,
     "dateHeure": "2024-06-02T17:30:00",
     "salle": "HL",
     "cycle": [
@@ -350,17 +363,16 @@
     ],
     "items": [
       {
-        "idFilm": 35453,
-        "titre": "Bonne fortune",
+        "idFilm": 35465,
+        "titre": "Brûlure",
         "art": "La",
         "realisateurs": "Mike Nichols",
-        "annee": 1974,
-        "duree": 88,
-        "version": "VOSTF",
+        "annee": 1985,
+        "duree": 108,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35453"
+    "hashEvenement": "f35465"
   },
   {
     "idSeance": 129017,
@@ -389,7 +401,7 @@
   {
     "idSeance": 130786,
     "idEvenement": 30616,
-    "dateHeure": "2024-06-02T19:30:00",
+    "dateHeure": "2024-06-02T19:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -463,7 +475,7 @@
   {
     "idSeance": 130788,
     "idEvenement": 30615,
-    "dateHeure": "2024-06-03T20:00:00",
+    "dateHeure": "2024-06-03T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -533,6 +545,14 @@
     "salle": "GF",
     "cycle": [
       [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
+      ],
+      [
         "Valerio Zurlini",
         "Les films"
       ]
@@ -547,59 +567,69 @@
         "duree": 121,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 30646,
+        "titre": "Dialogue avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f43803"
+    "hashEvenement": "f43803c30646"
   },
   {
-    "idSeance": 130790,
-    "idEvenement": 30606,
-    "dateHeure": "2024-06-07T18:30:00",
-    "salle": "GF",
+    "idSeance": 129144,
+    "idEvenement": 30464,
+    "dateHeure": "2024-06-07T20:00:00",
+    "salle": "JE",
     "cycle": [
       [
-        "Mike Nichols",
+        "Valerio Zurlini",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 35465,
-        "titre": "Brûlure",
-        "art": "La",
-        "realisateurs": "Mike Nichols",
+        "idFilm": 43139,
+        "titre": "Désert des Tartares",
+        "art": "Le",
+        "realisateurs": "Valerio Zurlini",
+        "annee": 1976,
+        "duree": 140,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f43139"
+  },
+  {
+    "idSeance": 129180,
+    "idEvenement": 30021,
+    "dateHeure": "2024-06-08T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "James Cameron",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30809,
+        "titre": "Aliens, le retour",
+        "realisateurs": "James Cameron",
         "annee": 1985,
-        "duree": 108,
-        "format": "35 mm"
+        "duree": 137,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f35465"
-  },
-  {
-    "idSeance": 130718,
-    "idEvenement": 30602,
-    "dateHeure": "2024-06-07T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Mike Nichols",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35451,
-        "titre": "Biloxi Blues",
-        "realisateurs": "Mike Nichols",
-        "annee": 1987
-      }
-    ],
-    "hashEvenement": "f35451"
+    "hashEvenement": "f30809"
   },
   {
     "idSeance": 130791,
     "idEvenement": 30618,
-    "dateHeure": "2024-06-08T14:30:00",
+    "dateHeure": "2024-06-08T15:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -623,7 +653,7 @@
   {
     "idSeance": 130792,
     "idEvenement": 30605,
-    "dateHeure": "2024-06-08T17:30:00",
+    "dateHeure": "2024-06-08T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -644,9 +674,33 @@
     "hashEvenement": "f35411"
   },
   {
-    "idSeance": 130721,
+    "idSeance": 130835,
+    "idEvenement": 30468,
+    "dateHeure": "2024-06-08T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Valerio Zurlini",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43787,
+        "titre": "Journal intime",
+        "realisateurs": "Valerio Zurlini",
+        "annee": 1962,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f43787"
+  },
+  {
+    "idSeance": 130845,
     "idEvenement": 30601,
-    "dateHeure": "2024-06-08T19:45:00",
+    "dateHeure": "2024-06-08T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -691,6 +745,55 @@
     "hashEvenement": "f31344"
   },
   {
+    "idSeance": 130848,
+    "idEvenement": 30607,
+    "dateHeure": "2024-06-09T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Mike Nichols",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35456,
+        "titre": "Catch 22",
+        "realisateurs": "Mike Nichols",
+        "annee": 1969,
+        "duree": 122,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f35456"
+  },
+  {
+    "idSeance": 130836,
+    "idEvenement": 30469,
+    "dateHeure": "2024-06-09T16:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Valerio Zurlini",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 61817,
+        "titre": "Professeur",
+        "art": "Le",
+        "realisateurs": "Valerio Zurlini",
+        "annee": 1972,
+        "duree": 127,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f61817"
+  },
+  {
     "idSeance": 130793,
     "idEvenement": 30620,
     "dateHeure": "2024-06-09T17:30:00",
@@ -717,7 +820,7 @@
   {
     "idSeance": 130794,
     "idEvenement": 30617,
-    "dateHeure": "2024-06-09T19:45:00",
+    "dateHeure": "2024-06-09T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -836,6 +939,30 @@
     "hashEvenement": "f35597"
   },
   {
+    "idSeance": 129288,
+    "idEvenement": 30608,
+    "dateHeure": "2024-06-13T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Mike Nichols",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35443,
+        "titre": "Ce plaisir qu'on dit charnel",
+        "realisateurs": "Mike Nichols",
+        "annee": 1970,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f35443"
+  },
+  {
     "idSeance": 129287,
     "idEvenement": 30491,
     "dateHeure": "2024-06-13T20:15:00",
@@ -885,29 +1012,62 @@
     "hashEvenement": "f29089"
   },
   {
-    "idSeance": 129366,
-    "idEvenement": 30489,
+    "idSeance": 129330,
+    "idEvenement": 30619,
+    "dateHeure": "2024-06-14T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Mike Nichols",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35470,
+        "titre": "Qui a peur de Virginia Woolf ?",
+        "realisateurs": "Mike Nichols",
+        "annee": 1965,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f35470"
+  },
+  {
+    "idSeance": 130813,
+    "idEvenement": 30495,
     "dateHeure": "2024-06-15T14:30:00",
     "salle": "HL",
     "cycle": [
       [
         "Richard Quine",
         "Les films"
+      ],
+      [
+        "Richard Quine",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 45861,
-        "titre": "Liaisons secrètes",
-        "art": "Les",
+        "idFilm": 35906,
+        "titre": "Du plomb pour l'inspecteur",
         "realisateurs": "Richard Quine",
-        "annee": 1959,
-        "duree": 117,
+        "annee": 1954,
+        "duree": 88,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 30642,
+        "titre": "Dialogue avec Serge Chauvin",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f45861"
+    "hashEvenement": "f35906c30642"
   },
   {
     "idSeance": 130797,
@@ -935,31 +1095,6 @@
     "hashEvenement": "f35461"
   },
   {
-    "idSeance": 129367,
-    "idEvenement": 30487,
-    "dateHeure": "2024-06-15T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Richard Quine",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35948,
-        "titre": "Inquiétante dame en noir",
-        "art": "L'",
-        "realisateurs": "Richard Quine",
-        "annee": 1961,
-        "duree": 122,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f35948"
-  },
-  {
     "idSeance": 129371,
     "idEvenement": 30603,
     "dateHeure": "2024-06-15T17:30:00",
@@ -985,9 +1120,55 @@
     "hashEvenement": "f59885"
   },
   {
+    "idSeance": 129367,
+    "idEvenement": 30487,
+    "dateHeure": "2024-06-15T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Richard Quine",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35948,
+        "titre": "Inquiétante dame en noir",
+        "art": "L'",
+        "realisateurs": "Richard Quine",
+        "annee": 1961,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35948"
+  },
+  {
+    "idSeance": 129372,
+    "idEvenement": 30602,
+    "dateHeure": "2024-06-15T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Mike Nichols",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35451,
+        "titre": "Biloxi Blues",
+        "realisateurs": "Mike Nichols",
+        "annee": 1987
+      }
+    ],
+    "hashEvenement": "f35451"
+  },
+  {
     "idSeance": 129368,
     "idEvenement": 30486,
-    "dateHeure": "2024-06-15T19:30:00",
+    "dateHeure": "2024-06-15T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1081,6 +1262,31 @@
     "hashEvenement": "f35445"
   },
   {
+    "idSeance": 129389,
+    "idEvenement": 30604,
+    "dateHeure": "2024-06-16T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Mike Nichols",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35453,
+        "titre": "Bonne fortune",
+        "art": "La",
+        "realisateurs": "Mike Nichols",
+        "annee": 1974,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35453"
+  },
+  {
     "idSeance": 129385,
     "idEvenement": 30488,
     "dateHeure": "2024-06-16T19:30:00",
@@ -1130,6 +1336,28 @@
     "hashEvenement": "f73134"
   },
   {
+    "idSeance": 129396,
+    "idEvenement": 30660,
+    "dateHeure": "2024-06-17T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Olivier Assayas",
+        "Les films"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 154801,
+        "titre": "Hors du temps",
+        "realisateurs": "Olivier Assayas",
+        "annee": 2023
+      }
+    ],
+    "hashEvenement": "f154801"
+  },
+  {
     "idSeance": 130737,
     "idEvenement": 30502,
     "dateHeure": "2024-06-17T20:30:00",
@@ -1154,8 +1382,8 @@
     "hashEvenement": "f35433"
   },
   {
-    "idSeance": 129436,
-    "idEvenement": 30433,
+    "idSeance": 130850,
+    "idEvenement": 30450,
     "dateHeure": "2024-06-19T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -1166,47 +1394,27 @@
     ],
     "items": [
       {
-        "idFilm": 58435,
-        "titre": "Désordre",
+        "idFilm": 56143,
+        "titre": "Paris s'éveille",
         "realisateurs": "Olivier Assayas",
-        "annee": 1986,
-        "duree": 90,
+        "annee": 1991,
+        "duree": 95,
         "version": "VO",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f58435"
+    "hashEvenement": "f56143"
   },
   {
-    "idSeance": 129434,
-    "idEvenement": 30495,
+    "idSeance": 130814,
+    "idEvenement": 30489,
     "dateHeure": "2024-06-19T19:00:00",
     "salle": "HL",
     "cycle": [
       [
         "Richard Quine",
         "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35906,
-        "titre": "Du plomb pour l'inspecteur",
-        "realisateurs": "Richard Quine",
-        "annee": 1954,
-        "duree": 88,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f35906"
-  },
-  {
-    "idSeance": 130644,
-    "idEvenement": 30568,
-    "dateHeure": "2024-06-19T19:00:00",
-    "salle": "HL",
-    "cycle": [
+      ],
       [
         "Richard Quine",
         "Rencontres et conférences"
@@ -1214,13 +1422,23 @@
     ],
     "items": [
       {
+        "idFilm": 45861,
+        "titre": "Liaisons secrètes",
+        "art": "Les",
+        "realisateurs": "Richard Quine",
+        "annee": 1959,
+        "duree": 117,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
         "idConf": 30568,
-        "titre": "Dialogue (rétro Richard Quine)",
+        "titre": "Dialogue avec Murielle Joudet",
         "typeConference": "Dialogue",
         "duree": 60
       }
     ],
-    "hashEvenement": "c30568"
+    "hashEvenement": "f45861c30568"
   },
   {
     "idSeance": 129437,
@@ -1366,8 +1584,8 @@
     "hashEvenement": "f73146"
   },
   {
-    "idSeance": 130645,
-    "idEvenement": 30450,
+    "idSeance": 130874,
+    "idEvenement": 30426,
     "dateHeure": "2024-06-22T15:00:00",
     "salle": "HL",
     "cycle": [
@@ -1378,16 +1596,14 @@
     ],
     "items": [
       {
-        "idFilm": 56143,
-        "titre": "Paris s'éveille",
+        "idFilm": 117618,
+        "titre": "Après mai",
         "realisateurs": "Olivier Assayas",
-        "annee": 1991,
-        "duree": 95,
-        "version": "VO",
-        "format": "35 mm"
+        "annee": 2011,
+        "duree": 122
       }
     ],
-    "hashEvenement": "f56143"
+    "hashEvenement": "f117618"
   },
   {
     "idSeance": 130686,
@@ -1527,6 +1743,31 @@
     "hashEvenement": "c30569"
   },
   {
+    "idSeance": 129573,
+    "idEvenement": 30492,
+    "dateHeure": "2024-06-23T14:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Richard Quine",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35597,
+        "titre": "Bal des cinglés",
+        "art": "Le",
+        "realisateurs": "Richard Quine",
+        "annee": 1957,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35597"
+  },
+  {
     "idSeance": 130754,
     "idEvenement": 29893,
     "dateHeure": "2024-06-23T15:00:00",
@@ -1549,6 +1790,31 @@
       }
     ],
     "hashEvenement": "f110101"
+  },
+  {
+    "idSeance": 130840,
+    "idEvenement": 30491,
+    "dateHeure": "2024-06-23T17:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Richard Quine",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 44912,
+        "titre": "Adorable voisine",
+        "art": "L'",
+        "realisateurs": "Richard Quine",
+        "annee": 1958,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f44912"
   },
   {
     "idSeance": 129575,
@@ -1595,6 +1861,31 @@
       }
     ],
     "hashEvenement": "f154672"
+  },
+  {
+    "idSeance": 130842,
+    "idEvenement": 30487,
+    "dateHeure": "2024-06-23T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Richard Quine",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35948,
+        "titre": "Inquiétante dame en noir",
+        "art": "L'",
+        "realisateurs": "Richard Quine",
+        "annee": 1961,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35948"
   },
   {
     "idSeance": 130676,
@@ -1667,7 +1958,7 @@
   {
     "idSeance": 130772,
     "idEvenement": 30493,
-    "dateHeure": "2024-06-26T18:00:00",
+    "dateHeure": "2024-06-26T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1689,9 +1980,58 @@
     "hashEvenement": "f42112"
   },
   {
+    "idSeance": 130875,
+    "idEvenement": 30433,
+    "dateHeure": "2024-06-26T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Olivier Assayas",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 58435,
+        "titre": "Désordre",
+        "realisateurs": "Olivier Assayas",
+        "annee": 1986,
+        "duree": 90,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f58435"
+  },
+  {
+    "idSeance": 129620,
+    "idEvenement": 30404,
+    "dateHeure": "2024-06-26T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Road Movie, USA, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 30343,
+        "titre": "En route pour la gloire",
+        "realisateurs": "Hal Ashby",
+        "annee": 1975,
+        "duree": 147,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f30343"
+  },
+  {
     "idSeance": 130773,
     "idEvenement": 30480,
-    "dateHeure": "2024-06-26T20:00:00",
+    "dateHeure": "2024-06-26T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1714,38 +2054,13 @@
     "hashEvenement": "f35595"
   },
   {
-    "idSeance": 129620,
-    "idEvenement": 30404,
-    "dateHeure": "2024-06-26T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Road Movie, USA 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "mention": "Ouverture de la rétrospective",
-    "items": [
-      {
-        "idFilm": 30343,
-        "titre": "En route pour la gloire",
-        "realisateurs": "Hal Ashby",
-        "annee": 1975,
-        "duree": 147,
-        "version": "VO",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f30343"
-  },
-  {
     "idSeance": 129658,
     "idEvenement": 30389,
     "dateHeure": "2024-06-27T18:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1763,13 +2078,38 @@
     "hashEvenement": "f30906"
   },
   {
+    "idSeance": 130829,
+    "idEvenement": 30489,
+    "dateHeure": "2024-06-27T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Richard Quine",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45861,
+        "titre": "Liaisons secrètes",
+        "art": "Les",
+        "realisateurs": "Richard Quine",
+        "annee": 1959,
+        "duree": 117,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f45861"
+  },
+  {
     "idSeance": 129659,
     "idEvenement": 30391,
     "dateHeure": "2024-06-27T20:15:00",
     "salle": "HL",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1812,7 +2152,7 @@
   {
     "idSeance": 129702,
     "idEvenement": 30479,
-    "dateHeure": "2024-06-28T19:00:00",
+    "dateHeure": "2024-06-28T18:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -1832,6 +2172,54 @@
       }
     ],
     "hashEvenement": "f73167"
+  },
+  {
+    "idSeance": 130677,
+    "idEvenement": 30020,
+    "dateHeure": "2024-06-28T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "James Cameron",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30822,
+        "titre": "Abyss",
+        "realisateurs": "James Cameron",
+        "annee": 1989,
+        "duree": 171,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f30822"
+  },
+  {
+    "idSeance": 130843,
+    "idEvenement": 30485,
+    "dateHeure": "2024-06-28T20:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Richard Quine",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35956,
+        "titre": "Une vierge sur canapé",
+        "realisateurs": "Richard Quine",
+        "annee": 1963,
+        "duree": 114,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35956"
   },
   {
     "idSeance": 129701,
@@ -1886,7 +2274,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1909,7 +2297,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1926,6 +2314,29 @@
       }
     ],
     "hashEvenement": "f36309"
+  },
+  {
+    "idSeance": 129745,
+    "idEvenement": 30497,
+    "dateHeure": "2024-06-29T17:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Richard Quine",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35594,
+        "titre": "Ma sœur est du tonnerre",
+        "realisateurs": "Richard Quine",
+        "annee": 1954,
+        "duree": 108,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f35594"
   },
   {
     "idSeance": 130680,
@@ -1957,7 +2368,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -1974,6 +2385,30 @@
       }
     ],
     "hashEvenement": "f32058"
+  },
+  {
+    "idSeance": 130844,
+    "idEvenement": 30486,
+    "dateHeure": "2024-06-29T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Richard Quine",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45860,
+        "titre": "Deux têtes folles",
+        "realisateurs": "Richard Quine",
+        "annee": 1962,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f45860"
   },
   {
     "idSeance": 130681,
@@ -2005,8 +2440,12 @@
     "salle": "HL",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
+      ],
+      [
+        "Road Movie, USA, 25 indispensables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2019,9 +2458,15 @@
         "duree": 112,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 30571,
+        "titre": "Dialogue avec Jean-Baptiste Thoret",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f36741"
+    "hashEvenement": "f36741c30571"
   },
   {
     "idSeance": 129760,
@@ -2099,27 +2544,6 @@
     "hashEvenement": "f154082f154083f154084f154085"
   },
   {
-    "idSeance": 130650,
-    "idEvenement": 30571,
-    "dateHeure": "2024-06-30T16:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Road Movie, USA 25 indispensables",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 30571,
-        "titre": "Dialogue avec Jean-Baptiste Thoret",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c30571"
-  },
-  {
     "idSeance": 130774,
     "idEvenement": 30481,
     "dateHeure": "2024-06-30T17:30:00",
@@ -2150,7 +2574,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2237,7 +2661,7 @@
         "realisateurs": "Richard Quine",
         "annee": 1979,
         "duree": 108,
-        "version": "VOAutres",
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -2250,7 +2674,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2266,34 +2690,33 @@
     "hashEvenement": "f35293"
   },
   {
-    "idSeance": 129768,
-    "idEvenement": 30403,
-    "dateHeure": "2024-07-01T18:00:00",
+    "idSeance": 130824,
+    "idEvenement": 30411,
+    "dateHeure": "2024-07-01T17:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 29629,
-        "titre": "Canardeur",
-        "art": "Le",
-        "realisateurs": "Michael Cimino",
-        "annee": 1973,
-        "duree": 115,
+        "idFilm": 64318,
+        "titre": "Une histoire vraie",
+        "realisateurs": "David Lynch",
+        "annee": 1998,
+        "duree": 111,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f29629"
+    "hashEvenement": "f64318"
   },
   {
-    "idSeance": 130765,
-    "idEvenement": 30435,
-    "dateHeure": "2024-07-01T18:30:00",
+    "idSeance": 130806,
+    "idEvenement": 30440,
+    "dateHeure": "2024-07-01T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2303,23 +2726,24 @@
     ],
     "items": [
       {
-        "idFilm": 140736,
-        "titre": "Doubles vies",
+        "idFilm": 103544,
+        "titre": "Heure d'été",
+        "art": "L'",
         "realisateurs": "Olivier Assayas",
-        "annee": 2017,
-        "duree": 103
+        "annee": 2007,
+        "duree": 143
       }
     ],
-    "hashEvenement": "f140736"
+    "hashEvenement": "f103544"
   },
   {
     "idSeance": 130764,
     "idEvenement": 30399,
-    "dateHeure": "2024-07-01T20:30:00",
+    "dateHeure": "2024-07-01T20:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2340,7 +2764,7 @@
   {
     "idSeance": 130766,
     "idEvenement": 30430,
-    "dateHeure": "2024-07-01T20:45:00",
+    "dateHeure": "2024-07-01T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2368,7 +2792,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2414,10 +2838,11 @@
     "salle": "HL",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 44205,
@@ -2432,8 +2857,8 @@
     "hashEvenement": "f44205"
   },
   {
-    "idSeance": 130767,
-    "idEvenement": 30449,
+    "idSeance": 130872,
+    "idEvenement": 30654,
     "dateHeure": "2024-07-03T20:30:00",
     "salle": "JE",
     "cycle": [
@@ -2444,16 +2869,13 @@
     ],
     "items": [
       {
-        "idFilm": 132513,
-        "titre": "Page blanche TV",
-        "art": "La",
+        "idFilm": 154800,
+        "titre": "Noise",
         "realisateurs": "Olivier Assayas",
-        "annee": 1994,
-        "duree": 67,
-        "format": "35 mm"
+        "annee": 2005
       }
     ],
-    "hashEvenement": "f132513"
+    "hashEvenement": "f154800"
   },
   {
     "idSeance": 129809,
@@ -2462,7 +2884,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2486,15 +2908,15 @@
     "salle": "HL",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 154794,
-        "titre": "Brute, le bonze et le méchant",
-        "art": "La",
+        "titre": "Justicier de Shangai / La Brute, le bonze et le méchan",
+        "art": "Le",
         "realisateurs": "Cheh Chang",
         "annee": 1972,
         "duree": 134,
@@ -2510,7 +2932,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2528,13 +2950,34 @@
     "hashEvenement": "f52854"
   },
   {
+    "idSeance": 129846,
+    "idEvenement": 30451,
+    "dateHeure": "2024-07-04T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Olivier Assayas",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 99765,
+        "titre": "Paris, je t'aime",
+        "realisateurs": "Olivier Assayas, Frédéric Auburtin, Emmanuel Benbihy, [etc.]",
+        "annee": 2005
+      }
+    ],
+    "hashEvenement": "f99765"
+  },
+  {
     "idSeance": 129841,
     "idEvenement": 30406,
     "dateHeure": "2024-07-04T20:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2552,20 +2995,42 @@
     "hashEvenement": "f39315"
   },
   {
+    "idSeance": 130807,
+    "idEvenement": 30435,
+    "dateHeure": "2024-07-04T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Olivier Assayas",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 140736,
+        "titre": "Doubles vies",
+        "realisateurs": "Olivier Assayas",
+        "annee": 2017,
+        "duree": 103
+      }
+    ],
+    "hashEvenement": "f140736"
+  },
+  {
     "idSeance": 130744,
     "idEvenement": 30520,
     "dateHeure": "2024-07-04T20:45:00",
     "salle": "HL",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 100989,
-        "titre": "Trente-sixième chambre de Shaolin",
+        "titre": "36e Chambre de Shaolin",
         "art": "La",
         "realisateurs": "Chia-Liang Liu",
         "annee": 1977,
@@ -2582,7 +3047,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2600,25 +3065,77 @@
     "hashEvenement": "f56969"
   },
   {
-    "idSeance": 130747,
-    "idEvenement": 30573,
-    "dateHeure": "2024-07-06T14:30:00",
-    "salle": "GF",
+    "idSeance": 129888,
+    "idEvenement": 30511,
+    "dateHeure": "2024-07-05T18:30:00",
+    "salle": "JE",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
-        "Rencontres et conférences"
+        "Fenêtre sur les collections",
+        "Paula Delsol"
+      ]
+    ],
+    "mention": "Séance présentée par Eric Le Roy",
+    "items": [
+      {
+        "idFilm": 57541,
+        "titre": "Dérive = Une fille à la dérive",
+        "art": "La",
+        "realisateurs": "Paula Delsol",
+        "annee": 1961,
+        "duree": 82,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f57541"
+  },
+  {
+    "idSeance": 130762,
+    "idEvenement": 29889,
+    "dateHeure": "2024-07-05T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "James Cameron",
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idConf": 30573,
-        "titre": "Dialogue avec Stéphane du Mesnildot",
-        "typeConference": "Dialogue",
-        "duree": 60
+        "idFilm": 30829,
+        "titre": "Terminator 2 : Le Jugement dernier",
+        "realisateurs": "James Cameron",
+        "annee": 1990,
+        "duree": 136,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "c30573"
+    "hashEvenement": "f30829"
+  },
+  {
+    "idSeance": 130819,
+    "idEvenement": 30512,
+    "dateHeure": "2024-07-05T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Fenêtre sur les collections",
+        "Paula Delsol"
+      ]
+    ],
+    "mention": "Séance présentée par Aurore Renaut",
+    "items": [
+      {
+        "idFilm": 55462,
+        "titre": "Ben et Bénédict",
+        "realisateurs": "Paula Delsol",
+        "annee": 1976,
+        "duree": 96,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f55462"
   },
   {
     "idSeance": 130753,
@@ -2627,8 +3144,12 @@
     "salle": "GF",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
+      ],
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2640,18 +3161,24 @@
         "annee": 1978,
         "duree": 104,
         "format": "DCP"
+      },
+      {
+        "idConf": 30573,
+        "titre": "Dialogue avec Stéphane du Mesnildot",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f154778"
+    "hashEvenement": "f154778c30573"
   },
   {
     "idSeance": 129929,
     "idEvenement": 30408,
-    "dateHeure": "2024-07-06T15:00:00",
+    "dateHeure": "2024-07-06T14:30:00",
     "salle": "JE",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2669,13 +3196,36 @@
     "hashEvenement": "f37815"
   },
   {
+    "idSeance": 129924,
+    "idEvenement": 30629,
+    "dateHeure": "2024-07-06T15:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154798,
+        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 220,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154798"
+  },
+  {
     "idSeance": 129930,
     "idEvenement": 30410,
     "dateHeure": "2024-07-06T17:15:00",
     "salle": "JE",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2699,7 +3249,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2717,13 +3267,60 @@
     "hashEvenement": "f85878"
   },
   {
+    "idSeance": 129925,
+    "idEvenement": 30628,
+    "dateHeure": "2024-07-06T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154797,
+        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 205,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154797"
+  },
+  {
+    "idSeance": 130758,
+    "idEvenement": 30517,
+    "dateHeure": "2024-07-06T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 84713,
+        "titre": "Exécuteurs de Shaolin",
+        "art": "Les",
+        "realisateurs": "Chia-Liang Liu",
+        "annee": 1977,
+        "duree": 100,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f84713"
+  },
+  {
     "idSeance": 129931,
     "idEvenement": 30413,
-    "dateHeure": "2024-07-06T20:00:00",
+    "dateHeure": "2024-07-06T20:30:00",
     "salle": "JE",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2741,28 +3338,27 @@
     "hashEvenement": "f131531"
   },
   {
-    "idSeance": 130758,
-    "idEvenement": 30517,
-    "dateHeure": "2024-07-06T20:30:00",
-    "salle": "GF",
+    "idSeance": 129941,
+    "idEvenement": 30629,
+    "dateHeure": "2024-07-07T14:30:00",
+    "salle": "HL",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
-        "Les films"
+        "Séances spéciales",
+        "Napoléon"
       ]
     ],
     "items": [
       {
-        "idFilm": 84713,
-        "titre": "Executeur de Shao Lin",
-        "art": "L'",
-        "realisateurs": "Chia-Liang Liu",
-        "annee": 1977,
-        "duree": 100,
+        "idFilm": 154798,
+        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 220,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f84713"
+    "hashEvenement": "f154798"
   },
   {
     "idSeance": 129946,
@@ -2778,7 +3374,7 @@
     "items": [
       {
         "idFilm": 42987,
-        "titre": "Ile au trésor",
+        "titre": "Île au trésor",
         "art": "L'",
         "realisateurs": "Andrew White, John Hough",
         "annee": 1972
@@ -2793,7 +3389,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2810,37 +3406,82 @@
     "hashEvenement": "f154773"
   },
   {
-    "idSeance": 129947,
-    "idEvenement": 30411,
+    "idSeance": 130810,
+    "idEvenement": 30574,
+    "dateHeure": "2024-07-07T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30574,
+        "titre": "Dialogue avec Christophe Gans",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30574"
+  },
+  {
+    "idSeance": 130825,
+    "idEvenement": 30403,
     "dateHeure": "2024-07-07T17:30:00",
     "salle": "JE",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 64318,
-        "titre": "Une histoire vraie",
-        "realisateurs": "David Lynch",
-        "annee": 1998,
-        "duree": 111,
+        "idFilm": 29629,
+        "titre": "Canardeur",
+        "art": "Le",
+        "realisateurs": "Michael Cimino",
+        "annee": 1973,
+        "duree": 115,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f64318"
+    "hashEvenement": "f29629"
+  },
+  {
+    "idSeance": 129942,
+    "idEvenement": 30628,
+    "dateHeure": "2024-07-07T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154797,
+        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 205,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154797"
   },
   {
     "idSeance": 130761,
     "idEvenement": 30523,
-    "dateHeure": "2024-07-07T19:45:00",
+    "dateHeure": "2024-07-07T20:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2864,7 +3505,7 @@
     "salle": "JE",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2889,7 +3530,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2913,14 +3554,14 @@
     "salle": "HL",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 44340,
-        "titre": "Démons du karaté = Les Héros de l'Orient",
+        "titre": "Démons du karaté = Les Héros de l'Orient = Shaolin contre Ninja",
         "art": "Les",
         "realisateurs": "Chia-Liang Liu",
         "annee": 1978,
@@ -2937,7 +3578,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
@@ -2983,14 +3624,14 @@
     "salle": "GF",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 154780,
-        "titre": "Prince et l'arnaqueur",
+        "titre": "Prince et l'Arnaqueur",
         "art": "Le",
         "realisateurs": "Chia-Liang Liu",
         "annee": 1979,
@@ -3028,8 +3669,12 @@
     "salle": "HL",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
+      ],
+      [
+        "Road Movie, USA, 25 indispensables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3040,22 +3685,7 @@
         "annee": 1970,
         "duree": 99,
         "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f60213"
-  },
-  {
-    "idSeance": 130688,
-    "idEvenement": 30572,
-    "dateHeure": "2024-07-11T20:45:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Road Movie, USA 25 indispensables",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 30572,
         "titre": "Dialogue avec Robert M. Rubin",
@@ -3063,12 +3693,12 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c30572"
+    "hashEvenement": "f60213c30572"
   },
   {
     "idSeance": 130755,
     "idEvenement": 30582,
-    "dateHeure": "2024-07-11T21:30:00",
+    "dateHeure": "2024-07-11T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3085,6 +3715,187 @@
       }
     ],
     "hashEvenement": "f50518"
+  },
+  {
+    "idSeance": 130823,
+    "idEvenement": 30390,
+    "dateHeure": "2024-07-12T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Road Movie, USA, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31135,
+        "titre": "Magicien d'Oz",
+        "art": "Le",
+        "realisateurs": "Victor Fleming",
+        "annee": 1938,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f31135"
+  },
+  {
+    "idSeance": 130821,
+    "idEvenement": 30591,
+    "dateHeure": "2024-07-12T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49774,
+        "titre": "Naïs",
+        "realisateurs": "Raymond Leboursier, Marcel Pagnol",
+        "annee": 1945
+      }
+    ],
+    "hashEvenement": "f49774"
+  },
+  {
+    "idSeance": 130802,
+    "idEvenement": 30540,
+    "dateHeure": "2024-07-12T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154789,
+        "titre": "Disciples de la 36ème chambre",
+        "art": "Les",
+        "realisateurs": "Chia-Liang Liu",
+        "annee": 1985,
+        "duree": 90,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154789"
+  },
+  {
+    "idSeance": 130074,
+    "idEvenement": 30592,
+    "dateHeure": "2024-07-12T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50485,
+        "titre": "Belle Meunière",
+        "art": "La",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1948
+      }
+    ],
+    "hashEvenement": "f50485"
+  },
+  {
+    "idSeance": 130812,
+    "idEvenement": 30645,
+    "dateHeure": "2024-07-12T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50426,
+        "titre": "Lola Montès",
+        "realisateurs": "Max Ophuls",
+        "annee": 1955
+      }
+    ],
+    "hashEvenement": "f50426"
+  },
+  {
+    "idSeance": 130778,
+    "idEvenement": 29890,
+    "dateHeure": "2024-07-12T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "James Cameron",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 59914,
+        "titre": "True Lies",
+        "realisateurs": "James Cameron",
+        "annee": 1994,
+        "duree": 141,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f59914"
+  },
+  {
+    "idSeance": 130820,
+    "idEvenement": 30595,
+    "dateHeure": "2024-07-12T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 52894,
+        "titre": "Curé de Cucugnan",
+        "art": "Le",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1967
+      }
+    ],
+    "hashEvenement": "f52894"
+  },
+  {
+    "idSeance": 130733,
+    "idEvenement": 30629,
+    "dateHeure": "2024-07-13T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154798,
+        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 220,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154798"
   },
   {
     "idSeance": 130114,
@@ -3150,6 +3961,29 @@
     "hashEvenement": "f50486"
   },
   {
+    "idSeance": 130734,
+    "idEvenement": 30628,
+    "dateHeure": "2024-07-13T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154797,
+        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 205,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154797"
+  },
+  {
     "idSeance": 130637,
     "idEvenement": 30575,
     "dateHeure": "2024-07-14T14:30:00",
@@ -3169,6 +4003,29 @@
       }
     ],
     "hashEvenement": "c30575"
+  },
+  {
+    "idSeance": 130127,
+    "idEvenement": 30629,
+    "dateHeure": "2024-07-14T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154798,
+        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 220,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154798"
   },
   {
     "idSeance": 130133,
@@ -3193,20 +4050,43 @@
     "hashEvenement": "f50517"
   },
   {
+    "idSeance": 130128,
+    "idEvenement": 30628,
+    "dateHeure": "2024-07-14T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154797,
+        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 205,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154797"
+  },
+  {
     "idSeance": 130779,
     "idEvenement": 30531,
     "dateHeure": "2024-07-14T20:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 154782,
-        "titre": "Tang shan wu hu",
+        "titre": "Five Superfighters",
         "realisateurs": "Lo Mar",
         "annee": 1979,
         "duree": 95,
@@ -3222,7 +4102,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -3246,7 +4126,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
@@ -3270,7 +4150,7 @@
     "salle": "HL",
     "cycle": [
       [
-        "Road Movie, USA 25 indispensables",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
@@ -3294,7 +4174,7 @@
     "salle": "GF",
     "cycle": [
       [
-        "Shaw Brothers 25 indispensables",
+        "Shaw Brothers, 25 indispensables",
         "Les films"
       ]
     ],
@@ -3310,5 +4190,556 @@
       }
     ],
     "hashEvenement": "f154781"
+  },
+  {
+    "idSeance": 130177,
+    "idEvenement": 30525,
+    "dateHeure": "2024-07-17T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154777,
+        "titre": "Cinq venins mortels",
+        "realisateurs": "Cheh Chang",
+        "annee": 1978,
+        "duree": 101,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154777"
+  },
+  {
+    "idSeance": 130180,
+    "idEvenement": 30577,
+    "dateHeure": "2024-07-17T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50511,
+        "titre": "Jofroi",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1934,
+        "duree": 52
+      },
+      {
+        "idFilm": 154799,
+        "titre": "Île de lumière",
+        "art": "L'",
+        "realisateurs": "Georges Drouet",
+        "annee": 1950,
+        "duree": 31
+      }
+    ],
+    "hashEvenement": "f50511f154799"
+  },
+  {
+    "idSeance": 130178,
+    "idEvenement": 30559,
+    "dateHeure": "2024-07-17T20:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154793,
+        "titre": "Retour à la 36e chambre",
+        "realisateurs": "Chia-Liang Liu",
+        "annee": 1980,
+        "duree": 99,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154793"
+  },
+  {
+    "idSeance": 130181,
+    "idEvenement": 30576,
+    "dateHeure": "2024-07-17T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50510,
+        "titre": "Gendre de Monsieur Poirier",
+        "art": "Le",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1934
+      }
+    ],
+    "hashEvenement": "f50510"
+  },
+  {
+    "idSeance": 130216,
+    "idEvenement": 30533,
+    "dateHeure": "2024-07-18T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154783,
+        "titre": "Magnificent Ruffians",
+        "art": "The",
+        "realisateurs": "Cheh Chang",
+        "annee": 1979,
+        "duree": 82,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154783"
+  },
+  {
+    "idSeance": 130213,
+    "idEvenement": 30580,
+    "dateHeure": "2024-07-18T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50514,
+        "titre": "Merlusse",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1935
+      }
+    ],
+    "hashEvenement": "f50514"
+  },
+  {
+    "idSeance": 130217,
+    "idEvenement": 30538,
+    "dateHeure": "2024-07-18T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154787,
+        "titre": "Lady Kung-Fu",
+        "realisateurs": "Chia-Liang Liu",
+        "annee": 1981,
+        "duree": 121,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154787"
+  },
+  {
+    "idSeance": 130801,
+    "idEvenement": 30581,
+    "dateHeure": "2024-07-18T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50487,
+        "titre": "Cigalon",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1935
+      }
+    ],
+    "hashEvenement": "f50487"
+  },
+  {
+    "idSeance": 130834,
+    "idEvenement": 30541,
+    "dateHeure": "2024-07-19T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154790,
+        "titre": "Arts martiaux de Shaolin",
+        "art": "Les",
+        "realisateurs": "Chia-Liang Liu",
+        "annee": 1986,
+        "duree": 95,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154790"
+  },
+  {
+    "idSeance": 130258,
+    "idEvenement": 30587,
+    "dateHeure": "2024-07-19T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50488,
+        "titre": "Femme du boulanger",
+        "art": "La",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1938
+      }
+    ],
+    "hashEvenement": "f50488"
+  },
+  {
+    "idSeance": 130257,
+    "idEvenement": 29891,
+    "dateHeure": "2024-07-19T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "James Cameron",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29089,
+        "titre": "Titanic",
+        "realisateurs": "James Cameron",
+        "annee": 1996,
+        "duree": 194,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f29089"
+  },
+  {
+    "idSeance": 130259,
+    "idEvenement": 30589,
+    "dateHeure": "2024-07-19T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50509,
+        "titre": "Fille du puisatier",
+        "art": "La",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1941
+      }
+    ],
+    "hashEvenement": "f50509"
+  },
+  {
+    "idSeance": 130296,
+    "idEvenement": 30629,
+    "dateHeure": "2024-07-20T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154798,
+        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 220,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154798"
+  },
+  {
+    "idSeance": 130300,
+    "idEvenement": 30593,
+    "dateHeure": "2024-07-20T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50513,
+        "titre": "Manon des sources",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1953
+      }
+    ],
+    "hashEvenement": "f50513"
+  },
+  {
+    "idSeance": 130301,
+    "idEvenement": 30556,
+    "dateHeure": "2024-07-20T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154791,
+        "titre": "Kid With the Golden Arm",
+        "art": "The",
+        "realisateurs": "Cheh Chang",
+        "annee": 1979,
+        "duree": 86,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154791"
+  },
+  {
+    "idSeance": 130297,
+    "idEvenement": 30628,
+    "dateHeure": "2024-07-20T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154797,
+        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 205,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154797"
+  },
+  {
+    "idSeance": 130302,
+    "idEvenement": 30557,
+    "dateHeure": "2024-07-20T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154792,
+        "titre": "Mercenaries from Hong Kong",
+        "realisateurs": "Jing Wong",
+        "annee": 1982,
+        "duree": 95,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154792"
+  },
+  {
+    "idSeance": 130313,
+    "idEvenement": 30629,
+    "dateHeure": "2024-07-21T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154798,
+        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 220,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154798"
+  },
+  {
+    "idSeance": 130319,
+    "idEvenement": 30583,
+    "dateHeure": "2024-07-21T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50519,
+        "titre": "Topaze",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1950
+      }
+    ],
+    "hashEvenement": "f50519"
+  },
+  {
+    "idSeance": 130320,
+    "idEvenement": 30537,
+    "dateHeure": "2024-07-21T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154786,
+        "titre": "Ten Tigers Of Kwangtung",
+        "realisateurs": "Cheh Chang",
+        "annee": 1980,
+        "duree": 91,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154786"
+  },
+  {
+    "idSeance": 130317,
+    "idEvenement": 30594,
+    "dateHeure": "2024-07-21T17:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50512,
+        "titre": "Lettres de mon moulin",
+        "art": "Les",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1954
+      }
+    ],
+    "hashEvenement": "f50512"
+  },
+  {
+    "idSeance": 130804,
+    "idEvenement": 30539,
+    "dateHeure": "2024-07-21T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Shaw Brothers, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154788,
+        "titre": "Boxer's Omen",
+        "art": "The",
+        "realisateurs": "Chih-hung Kuei",
+        "annee": 1982,
+        "duree": 105,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154788"
+  },
+  {
+    "idSeance": 130822,
+    "idEvenement": 30590,
+    "dateHeure": "2024-07-21T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50515,
+        "titre": "Prière aux étoiles",
+        "art": "La",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1941
+      }
+    ],
+    "hashEvenement": "f50515"
+  },
+  {
+    "idSeance": 130314,
+    "idEvenement": 30628,
+    "dateHeure": "2024-07-21T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Napoléon"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154797,
+        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "realisateurs": "Abel Gance",
+        "annee": 1927,
+        "duree": 205,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154797"
   }
 ]

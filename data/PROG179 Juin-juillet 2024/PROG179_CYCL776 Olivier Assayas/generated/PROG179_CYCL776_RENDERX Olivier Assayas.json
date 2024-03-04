@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2024-06-19T18:30:00",
-    "2024-07-03T20:30:00"
+    "2024-06-17T20:00:00",
+    "2024-07-04T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,29 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 117618,
+          "content": [
+            {
+              "idFilm": 117618,
+              "ordre": 1,
+              "titre": "Après mai",
+              "realisateurs": "Olivier Assayas",
+              "pays": "France",
+              "annee": 2011,
+              "duree": 122,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130874,
+              "dateHeure": "2024-06-22T15:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 102024,
           "content": [
@@ -90,7 +113,7 @@
           "seances": [
             {
               "idSeance": 130766,
-              "dateHeure": "2024-07-01T20:45:00",
+              "dateHeure": "2024-07-01T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -135,9 +158,9 @@
           ],
           "seances": [
             {
-              "idSeance": 129436,
-              "dateHeure": "2024-06-19T18:30:00",
-              "idSalle": "GF"
+              "idSeance": 130875,
+              "dateHeure": "2024-06-26T19:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -188,9 +211,9 @@
           ],
           "seances": [
             {
-              "idSeance": 130765,
-              "dateHeure": "2024-07-01T18:30:00",
-              "idSalle": "GF"
+              "idSeance": 130807,
+              "dateHeure": "2024-07-04T20:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -302,6 +325,51 @@
               "idSeance": 129575,
               "dateHeure": "2024-06-23T17:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 103544,
+          "content": [
+            {
+              "idFilm": 103544,
+              "ordre": 1,
+              "titre": "Heure d'été",
+              "art": "L'",
+              "realisateurs": "Olivier Assayas",
+              "pays": "France",
+              "annee": 2007,
+              "duree": 143,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130806,
+              "dateHeure": "2024-07-01T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154801,
+          "content": [
+            {
+              "idFilm": 154801,
+              "ordre": 1,
+              "titre": "Hors du temps",
+              "realisateurs": "Olivier Assayas",
+              "pays": "France",
+              "annee": 2023
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 129396,
+              "dateHeure": "2024-06-17T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
             }
           ]
         },
@@ -691,30 +759,46 @@
           ]
         },
         {
-          "idFilm": 132513,
+          "idFilm": 154800,
           "content": [
             {
-              "idFilm": 132513,
+              "idFilm": 154800,
               "ordre": 1,
-              "titre": "Page blanche TV",
-              "art": "La",
+              "titre": "Noise",
               "realisateurs": "Olivier Assayas",
               "pays": "France",
-              "annee": 1994,
-              "duree": 67,
-              "version": "",
-              "format": "35 mm",
+              "annee": 2005
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130872,
+              "dateHeure": "2024-07-03T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 99765,
+          "content": [
+            {
+              "idFilm": 99765,
+              "ordre": 1,
+              "titre": "Paris, je t'aime",
+              "realisateurs": "Olivier Assayas, Frédéric Auburtin, Emmanuel Benbihy, [etc.]",
+              "pays": "France",
+              "annee": 2005,
               "generique": [
-                "Virginie Ledoyen",
-                "Cyprien Fouquet",
-                "Djamel Bensalah"
+                "Marianne Faithfull",
+                "Gaspard Ulliel",
+                "Elias McConnell"
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 130767,
-              "dateHeure": "2024-07-03T20:30:00",
+              "idSeance": 129846,
+              "dateHeure": "2024-07-04T18:30:00",
               "idSalle": "JE"
             }
           ]
@@ -736,9 +820,9 @@
           ],
           "seances": [
             {
-              "idSeance": 130645,
-              "dateHeure": "2024-06-22T15:00:00",
-              "idSalle": "HL"
+              "idSeance": 130850,
+              "dateHeure": "2024-06-19T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -860,6 +944,12 @@
     }
   ],
   "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2024-06-17T20:00:00",
+        "titreFilms": "Hors du temps"
+      }
+    ],
     "Leçon de cinéma": [
       {
         "titre": "Olivier Assayas par Olivier Assayas, une leçon de cinéma",

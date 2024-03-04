@@ -37,6 +37,11 @@
               "idSeance": 129287,
               "dateHeure": "2024-06-13T20:15:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 130840,
+              "dateHeure": "2024-06-23T17:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -62,6 +67,11 @@
               "idSeance": 130632,
               "dateHeure": "2024-06-13T18:00:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 129573,
+              "dateHeure": "2024-06-23T14:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -158,33 +168,54 @@
           "seances": [
             {
               "idSeance": 129368,
-              "dateHeure": "2024-06-15T19:30:00",
+              "dateHeure": "2024-06-15T20:30:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 130844,
+              "dateHeure": "2024-06-29T19:30:00",
+              "idSalle": "JE"
             }
           ]
         },
         {
-          "idFilm": 35906,
-          "content": [
+          "groupe": [
             {
               "idFilm": 35906,
-              "ordre": 1,
-              "titre": "Du plomb pour l'inspecteur",
-              "titreVo": "Pushover",
-              "realisateurs": "Richard Quine",
-              "pays": "États-Unis",
-              "annee": 1954,
-              "duree": 88,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après la série _The Killer wore a badge_ de Thomas Walsh.  \nD'après le roman _Rafferty_ de Bill S. Ballinger."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 35906,
+                  "ordre": 1,
+                  "titre": "Du plomb pour l'inspecteur",
+                  "titreVo": "Pushover",
+                  "realisateurs": "Richard Quine",
+                  "pays": "États-Unis",
+                  "annee": 1954,
+                  "duree": 88,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après la série _The Killer wore a badge_ de Thomas Walsh.  \nD'après le roman _Rafferty_ de Bill S. Ballinger."
+                }
+              ]
+            },
             {
-              "idSeance": 129434,
-              "dateHeure": "2024-06-19T19:00:00",
-              "idSalle": "HL"
+              "idEvenement": 30642,
+              "content": [
+                {
+                  "idConf": 30642,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Serge Chauvin",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 130813,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-06-15T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -209,7 +240,7 @@
           "seances": [
             {
               "idSeance": 130773,
-              "dateHeure": "2024-06-26T20:00:00",
+              "dateHeure": "2024-06-26T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -260,8 +291,13 @@
           "seances": [
             {
               "idSeance": 129367,
-              "dateHeure": "2024-06-15T17:00:00",
+              "dateHeure": "2024-06-15T18:00:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 130842,
+              "dateHeure": "2024-06-23T19:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -313,33 +349,57 @@
           ]
         },
         {
-          "idFilm": 45861,
-          "content": [
+          "groupe": [
             {
               "idFilm": 45861,
-              "ordre": 1,
-              "titre": "Liaisons secrètes",
-              "art": "Les",
-              "titreVo": "Strangers When We Meet",
-              "realisateurs": "Richard Quine",
-              "pays": "États-Unis",
-              "annee": 1959,
-              "duree": 117,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Liaisons secrètes_ d'Evan Hunter.",
-              "generique": [
-                "Kirk Douglas",
-                "Kim Novak",
-                "Walter Matthau"
+              "content": [
+                {
+                  "idFilm": 45861,
+                  "ordre": 1,
+                  "titre": "Liaisons secrètes",
+                  "art": "Les",
+                  "titreVo": "Strangers When We Meet",
+                  "realisateurs": "Richard Quine",
+                  "pays": "États-Unis",
+                  "annee": 1959,
+                  "duree": 117,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Liaisons secrètes_ d'Evan Hunter.",
+                  "generique": [
+                    "Kirk Douglas",
+                    "Kim Novak",
+                    "Walter Matthau"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 129366,
-              "dateHeure": "2024-06-15T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 30568,
+              "content": [
+                {
+                  "idConf": 30568,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 130814,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-06-19T19:00:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 130814,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 130829,
+                  "dateHeure": "2024-06-27T19:00:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -366,6 +426,11 @@
               "dateHeure": "2024-06-12T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 129745,
+              "dateHeure": "2024-06-29T17:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -414,7 +479,7 @@
           "seances": [
             {
               "idSeance": 130772,
-              "dateHeure": "2024-06-26T18:00:00",
+              "dateHeure": "2024-06-26T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -431,7 +496,7 @@
               "pays": "États-Unis",
               "annee": 1979,
               "duree": 108,
-              "version": "VOAutres",
+              "version": "VO",
               "format": "35 mm"
             }
           ],
@@ -560,6 +625,11 @@
               "idSeance": 129383,
               "dateHeure": "2024-06-16T14:30:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 130843,
+              "dateHeure": "2024-06-28T20:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -581,31 +651,8 @@
           "seances": [
             {
               "idSeance": 129702,
-              "dateHeure": "2024-06-28T19:00:00",
+              "dateHeure": "2024-06-28T18:00:00",
               "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30568,
-          "content": [
-            {
-              "idConf": 30568,
-              "titre": "Film + Dialogue (rétro Richard Quine)",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 130644,
-              "dateHeure": "2024-06-19T19:00:00",
-              "idSalle": "HL"
             }
           ]
         }
@@ -613,9 +660,15 @@
     }
   ],
   "syntheseAction": {
-    "Dialogue": [
+    "Dialogues": [
       {
-        "mention": "Film + Dialogue (rétro Richard Quine)",
+        "titreFilms": "Du plomb pour l'inspecteur",
+        "mention": "avec Serge Chauvin",
+        "dateHeure": "2024-06-15T14:30:00"
+      },
+      {
+        "titreFilms": "Les Liaisons secrètes",
+        "mention": "avec Murielle Joudet",
         "dateHeure": "2024-06-19T19:00:00"
       }
     ]

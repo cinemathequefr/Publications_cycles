@@ -1,26 +1,54 @@
 # Liste des films par cycle
 
-## James Cameron (3)
+## Ciné-club de Frédéric Bonnaud (2)
 
+  * Fille à la valise (La)  
+  * Lola Montès
+
+## Fenêtre sur les collections (2)
+
+  * Ben et Bénédict  
+  * Dérive = Une fille à la dérive (La)
+
+## James Cameron (8)
+
+  * Abyss  
+  * Aliens, le retour  
   * Avatar  
   * Avatar : La Voie de l'eau  
-  * Titanic
+  * Terminator  
+  * Terminator 2 : Le Jugement dernier  
+  * Titanic  
+  * True Lies
 
 ## Ma petite Cinémathèque (6)
 
   * Alice au pays des merveilles  
   * Drôle de frimousse  
   * Fantastic Mr. Fox  
-  * Ile au trésor (L')  
+  * Île au trésor (L')  
   * Princes et princesses  
   * Ratatouille
 
-## Marcel Pagnol (7)
+## Marcel Pagnol (20)
 
   * Angèle  
+  * Belle Meunière (La)  
   * César  
+  * Cigalon  
+  * Curé de Cucugnan (Le)  
   * Fanny  
+  * Femme du boulanger (La)  
+  * Fille du puisatier (La)  
+  * Gendre de Monsieur Poirier (Le)  
+  * Île de lumière (L')  
+  * Jofroi  
+  * Lettres de mon moulin (Les)  
+  * Manon des sources  
   * Marius  
+  * Merlusse  
+  * Naïs  
+  * Prière aux étoiles (La)  
   * Regain  
   * Schpountz (Le)  
   * Topaze
@@ -48,8 +76,9 @@
   * Wolf  
   * Working Girl
 
-## Olivier Assayas (25)
+## Olivier Assayas (29)
 
+  * Après mai  
   * Boarding gate  
   * Carlos  
   * Cuban Network  
@@ -61,6 +90,8 @@
   * Eldorado, création  
   * Enfant de l'hiver (L')  
   * Fin août, début septembre  
+  * Heure d'été (L')  
+  * Hors du temps  
   * Irma Vep  
   * Irma Vep, épisode 1 : La Tête coupée  
   * Irma Vep, épisode 2 : La Bague qui tue  
@@ -70,7 +101,8 @@
   * Irma Vep, épisode 6 : Le Maître de la foudre  
   * Irma Vep, épisode 7 : Le Spectre  
   * Irma Vep, épisode 8 : Les Noces sanglantes  
-  * Page blanche TV (La)  
+  * Noise  
+  * Paris, je t'aime  
   * Paris s'éveille  
   * Personal Shopper  
   * Sils Maria  
@@ -102,7 +134,7 @@
   * Une vierge sur canapé  
   * W
 
-## Road Movie, USA 25 indispensables (24)
+## Road Movie, USA, 25 indispensables (25)
 
   * Alice n'est plus ici  
   * American Honey  
@@ -115,6 +147,7 @@
   * Épouvantail (L')  
   * Gens de la pluie (Les)  
   * Macadam à deux voies  
+  * Magicien d'Oz (Le)  
   * My Own Private Idaho  
   * New York-Miami  
   * Paris, Texas  
@@ -129,31 +162,45 @@
   * Wanda  
   * Wild Boys of the Road
 
-## Shaw Brothers 25 indispensables (15)
+## Shaw Brothers, 25 indispensables (25)
 
-  * Brute, le bonze et le méchant (La)  
+  * 36e Chambre de Shaolin (La)  
+  * Arts martiaux de Shaolin (Les)  
+  * Boxer's Omen (The)  
   * Caïd de Chinatown (Le)  
   * Cinq maîtres de Shaolin  
+  * Cinq venins mortels  
   * Combat des maîtres (Le)  
-  * Démons du karaté = Les Héros de l'Orient (Les)  
+  * Démons du karaté = Les Héros de l'Orient = Shaolin contre Ninja (Les)  
+  * Disciples de la 36ème chambre (Les)  
   * Disciples de Shaolin (Les)  
-  * Executeur de Shao Lin (L')  
+  * Exécuteurs de Shaolin (Les)  
+  * Five Superfighters  
   * Fureur de Shaolin (La)  
+  * Justicier de Shangai / La Brute, le bonze et le méchan (Le)  
+  * Kid With the Golden Arm (The)  
+  * Lady Kung-Fu  
+  * Magnificent Ruffians (The)  
   * Main de fer (La)  
-  * Prince et l'arnaqueur (Le)  
+  * Mercenaries from Hong Kong  
+  * Prince et l'Arnaqueur (Le)  
+  * Retour à la 36e chambre  
   * Singe fou du kung-fu (Le)  
-  * Tang shan wu hu  
   * Temple de Shaolin (Le)  
-  * Trente-sixième chambre de Shaolin (La)  
+  * Ten Tigers Of Kwangtung  
   * Vengeance des infirmes (La)
 
-## Valerio Zurlini (9)
+## Séances spéciales (2)
+
+  * Napoléon vu par Abel Gance – Partie 1  
+  * Napoléon vu par Abel Gance – Partie 2
+
+## Valerio Zurlini (8)
 
   * Black Jesus = Assis à sa droite  
   * Des filles pour l'armée  
   * Désert des Tartares (Le)  
-  * été violent  
-  * Fille à la valise (La)  
+  * Été violent  
   * Jeunes filles de San Frediano (Les)  
   * Journal intime  
   * Professeur (Le)  

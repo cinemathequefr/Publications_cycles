@@ -2,8 +2,28 @@
   {
     "idCategorie": 3335,
     "typeEvenement": 13,
-    "idEvenement": 30433,
-    "idSeance": 129436,
+    "idEvenement": 30660,
+    "idSeance": 129396,
+    "dateHeure": "2024-06-17T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "typeSeance": 43,
+    "items": [
+      {
+        "idFilm": 154801,
+        "ordre": 1
+      }
+    ],
+    "mention": "Avant-première"
+  },
+  {
+    "idCategorie": 3335,
+    "typeEvenement": 13,
+    "idEvenement": 30450,
+    "idSeance": 130850,
     "dateHeure": "2024-06-19T18:30:00",
     "idSalle": [
       "GF",
@@ -12,11 +32,11 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 58435,
+        "idFilm": 56143,
         "ordre": 1,
-        "idSeance": 129436,
-        "idCopie": 27666,
-        "duree": 90,
+        "idSeance": 130850,
+        "idCopie": 27670,
+        "duree": 95,
         "version": "VO",
         "format": "35 mm"
       }
@@ -71,23 +91,23 @@
   {
     "idCategorie": 3335,
     "typeEvenement": 13,
-    "idEvenement": 30450,
-    "idSeance": 130645,
+    "idEvenement": 30426,
+    "idSeance": 130874,
     "dateHeure": "2024-06-22T15:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 56143,
+        "idFilm": 117618,
         "ordre": 1,
-        "idSeance": 130645,
-        "idCopie": 27670,
-        "duree": 95,
-        "version": "VO",
-        "format": "35 mm"
+        "idSeance": 130874,
+        "idCopie": 27660,
+        "duree": 122,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -256,6 +276,29 @@
         "duree": 103,
         "version": "",
         "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3335,
+    "typeEvenement": 13,
+    "idEvenement": 30433,
+    "idSeance": 130875,
+    "dateHeure": "2024-06-26T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 58435,
+        "ordre": 1,
+        "idSeance": 130875,
+        "idCopie": 27666,
+        "duree": 90,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },
@@ -477,21 +520,21 @@
   {
     "idCategorie": 3335,
     "typeEvenement": 13,
-    "idEvenement": 30435,
-    "idSeance": 130765,
-    "dateHeure": "2024-07-01T18:30:00",
+    "idEvenement": 30440,
+    "idSeance": 130806,
+    "dateHeure": "2024-07-01T17:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 180,
     "items": [
       {
-        "idFilm": 140736,
+        "idFilm": 103544,
         "ordre": 1,
-        "idSeance": 130765,
-        "idCopie": 27665,
-        "duree": 103,
+        "idSeance": 130806,
+        "idCopie": 27668,
+        "duree": 143,
         "version": "",
         "format": ""
       }
@@ -502,7 +545,7 @@
     "typeEvenement": 13,
     "idEvenement": 30430,
     "idSeance": 130766,
-    "dateHeure": "2024-07-01T20:45:00",
+    "dateHeure": "2024-07-01T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -546,23 +589,59 @@
   {
     "idCategorie": 3335,
     "typeEvenement": 13,
-    "idEvenement": 30449,
-    "idSeance": 130767,
+    "idEvenement": 30654,
+    "idSeance": 130872,
     "dateHeure": "2024-07-03T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 105,
+    "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 132513,
+        "idFilm": 154800,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3335,
+    "typeEvenement": 13,
+    "idEvenement": 30451,
+    "idSeance": 129846,
+    "dateHeure": "2024-07-04T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 99765,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3335,
+    "typeEvenement": 13,
+    "idEvenement": 30435,
+    "idSeance": 130807,
+    "dateHeure": "2024-07-04T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 140736,
         "ordre": 1,
-        "idSeance": 130767,
-        "idCopie": 10528,
-        "duree": 67,
+        "idSeance": 130807,
+        "idCopie": 27665,
+        "duree": 103,
         "version": "",
-        "format": "35 mm"
+        "format": ""
       }
     ]
   }

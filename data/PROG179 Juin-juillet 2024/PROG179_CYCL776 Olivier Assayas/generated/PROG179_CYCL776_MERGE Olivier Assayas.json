@@ -5,6 +5,28 @@
       "tri": 1,
       "items": [
         {
+          "idSeance": 130874,
+          "ordre": 1,
+          "dateHeure": "2024-06-22T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 3335,
+          "idEvenement": 30426,
+          "typeEvenement": 13,
+          "idFilm": 117618,
+          "titre": "Après mai",
+          "realisateurs": "Olivier Assayas",
+          "annee": 2011,
+          "pays": "France",
+          "duree": 122,
+          "version": "",
+          "format": "",
+          "textes": []
+        },
+        {
           "idSeance": 130689,
           "ordre": 1,
           "dateHeure": "2024-06-24T20:45:00",
@@ -95,7 +117,7 @@
         {
           "idSeance": 130766,
           "ordre": 1,
-          "dateHeure": "2024-07-01T20:45:00",
+          "dateHeure": "2024-07-01T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -173,12 +195,12 @@
           "textes": []
         },
         {
-          "idSeance": 130765,
+          "idSeance": 130807,
           "ordre": 1,
-          "dateHeure": "2024-07-01T18:30:00",
+          "dateHeure": "2024-07-04T20:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "dureeSeance": 135,
           "idCategorie": 3335,
@@ -195,12 +217,12 @@
           "textes": []
         },
         {
-          "idSeance": 129436,
+          "idSeance": 130875,
           "ordre": 1,
-          "dateHeure": "2024-06-19T18:30:00",
+          "dateHeure": "2024-06-26T19:00:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "dureeSeance": 120,
           "idCategorie": 3335,
@@ -326,6 +348,49 @@
             "François Cluzet",
             "Jeanne Balibar"
           ],
+          "textes": []
+        },
+        {
+          "idSeance": 130806,
+          "ordre": 1,
+          "dateHeure": "2024-07-01T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 180,
+          "idCategorie": 3335,
+          "idEvenement": 30440,
+          "typeEvenement": 13,
+          "idFilm": 103544,
+          "art": "L'",
+          "titre": "Heure d'été",
+          "realisateurs": "Olivier Assayas",
+          "annee": 2007,
+          "pays": "France",
+          "duree": 143,
+          "version": "",
+          "format": "",
+          "textes": []
+        },
+        {
+          "idSeance": 129396,
+          "ordre": 1,
+          "dateHeure": "2024-06-17T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 30,
+          "mention": "Avant-première",
+          "idCategorie": 3335,
+          "idEvenement": 30660,
+          "typeEvenement": 13,
+          "idFilm": 154801,
+          "titre": "Hors du temps",
+          "realisateurs": "Olivier Assayas",
+          "annee": 2023,
+          "pays": "France",
           "textes": []
         },
         {
@@ -565,40 +630,31 @@
           "textes": []
         },
         {
-          "idSeance": 130767,
+          "idSeance": 130872,
           "ordre": 1,
           "dateHeure": "2024-07-03T20:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
-          "dureeSeance": 105,
+          "dureeSeance": 30,
           "idCategorie": 3335,
-          "idEvenement": 30449,
+          "idEvenement": 30654,
           "typeEvenement": 13,
-          "idFilm": 132513,
-          "art": "La",
-          "titre": "Page blanche TV",
+          "idFilm": 154800,
+          "titre": "Noise",
           "realisateurs": "Olivier Assayas",
-          "annee": 1994,
+          "annee": 2005,
           "pays": "France",
-          "duree": 67,
-          "version": "",
-          "format": "35 mm",
-          "generique": [
-            "Virginie Ledoyen",
-            "Cyprien Fouquet",
-            "Djamel Bensalah"
-          ],
           "textes": []
         },
         {
-          "idSeance": 130645,
+          "idSeance": 130850,
           "ordre": 1,
-          "dateHeure": "2024-06-22T15:00:00",
+          "dateHeure": "2024-06-19T18:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 120,
           "idCategorie": 3335,
@@ -612,6 +668,30 @@
           "duree": 95,
           "version": "VO",
           "format": "35 mm",
+          "textes": []
+        },
+        {
+          "idSeance": 129846,
+          "ordre": 1,
+          "dateHeure": "2024-07-04T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 30,
+          "idCategorie": 3335,
+          "idEvenement": 30451,
+          "typeEvenement": 13,
+          "idFilm": 99765,
+          "titre": "Paris, je t'aime",
+          "realisateurs": "Olivier Assayas, Frédéric Auburtin, Emmanuel Benbihy, [etc.]",
+          "annee": 2005,
+          "pays": "France",
+          "generique": [
+            "Marianne Faithfull",
+            "Gaspard Ulliel",
+            "Elias McConnell"
+          ],
           "textes": []
         },
         {
