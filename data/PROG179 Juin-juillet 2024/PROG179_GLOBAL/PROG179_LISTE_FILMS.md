@@ -5,10 +5,24 @@
   * Fille à la valise (La)  
   * Lola Montès
 
-## Fenêtre sur les collections (2)
+## Cinéma bis (6)
 
+  * Blessure  
+  * Flag  
+  * Maison au fond du parc (La)  
+  * Opération Jaguar  
+  * Qui êtes-vous Inspecteur Chandler ?  
+  * Too Beautiful to Die
+
+## Fenêtre sur les collections (7)
+
+  * Ajoncs (Les)  
   * Ben et Bénédict  
-  * Dérive = Une fille à la dérive (La)
+  * Bougnoul : Bande annonce (Le)  
+  * Bougnoul (Le)  
+  * Trois cousins (Les)  
+  * Une fille à la dérive  
+  * Zinet, Alger, le Bonheur
 
 ## James Cameron (8)
 
@@ -27,16 +41,15 @@
   * Drôle de frimousse  
   * Fantastic Mr. Fox  
   * Île au trésor (L')  
-  * Princes et princesses  
+  * Princes et Princesses  
   * Ratatouille
 
-## Marcel Pagnol (20)
+## Marcel Pagnol (18)
 
   * Angèle  
   * Belle Meunière (La)  
   * César  
   * Cigalon  
-  * Curé de Cucugnan (Le)  
   * Fanny  
   * Femme du boulanger (La)  
   * Fille du puisatier (La)  
@@ -48,7 +61,6 @@
   * Marius  
   * Merlusse  
   * Naïs  
-  * Prière aux étoiles (La)  
   * Regain  
   * Schpountz (Le)  
   * Topaze
@@ -76,7 +88,7 @@
   * Wolf  
   * Working Girl
 
-## Olivier Assayas (29)
+## Olivier Assayas (32)
 
   * Après mai  
   * Boarding gate  
@@ -104,7 +116,10 @@
   * Noise  
   * Paris, je t'aime  
   * Paris s'éveille  
+  * Passage secret  
   * Personal Shopper  
+  * Rendez-vous  
+  * Scopitone  
   * Sils Maria  
   * Une nouvelle vie
 
@@ -171,19 +186,19 @@
   * Cinq maîtres de Shaolin  
   * Cinq venins mortels  
   * Combat des maîtres (Le)  
-  * Démons du karaté = Les Héros de l'Orient = Shaolin contre Ninja (Les)  
-  * Disciples de la 36ème chambre (Les)  
+  * Démons du karaté (Les)  
+  * Disciples de la 36e chambre (Les)  
   * Disciples de Shaolin (Les)  
   * Exécuteurs de Shaolin (Les)  
   * Five Superfighters  
   * Fureur de Shaolin (La)  
-  * Justicier de Shangai / La Brute, le bonze et le méchan (Le)  
-  * Kid With the Golden Arm (The)  
+  * Justicier de Shanghaï (Le)  
+  * Kid with the Golden Arm (The)  
   * Lady Kung-Fu  
   * Magnificent Ruffians (The)  
   * Main de fer (La)  
   * Mercenaries from Hong Kong  
-  * Prince et l'Arnaqueur (Le)  
+  * Prince et l'arnaqueur (Le)  
   * Retour à la 36e chambre  
   * Singe fou du kung-fu (Le)  
   * Temple de Shaolin (Le)  
@@ -197,7 +212,7 @@
 
 ## Valerio Zurlini (8)
 
-  * Black Jesus = Assis à sa droite  
+  * Assis à sa droite  
   * Des filles pour l'armée  
   * Désert des Tartares (Le)  
   * Été violent  
