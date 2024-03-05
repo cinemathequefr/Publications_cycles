@@ -1,9 +1,8 @@
 # Liste des films par cycle
 
-## Ciné-club de Frédéric Bonnaud (2)
+## Ciné-club de Frédéric Bonnaud (1)
 
-  * Fille à la valise (La)  
-  * Lola Montès
+  * Fille à la valise (La)
 
 ## Cinéma bis (6)
 
@@ -40,9 +39,9 @@
   * Alice au pays des merveilles  
   * Drôle de frimousse  
   * Fantastic Mr. Fox  
-  * Île au trésor (L')  
   * Princes et Princesses  
-  * Ratatouille
+  * Ratatouille  
+  * Sportif par amour
 
 ## Marcel Pagnol (18)
 
@@ -53,7 +52,7 @@
   * Fanny  
   * Femme du boulanger (La)  
   * Fille du puisatier (La)  
-  * Gendre de Monsieur Poirier (Le)  
+  * Gendre de monsieur Poirier (Le)  
   * Île de lumière (L')  
   * Jofroi  
   * Lettres de mon moulin (Les)  
@@ -88,7 +87,7 @@
   * Wolf  
   * Working Girl
 
-## Olivier Assayas (32)
+## Olivier Assayas (30)
 
   * Après mai  
   * Boarding gate  
@@ -114,16 +113,14 @@
   * Irma Vep, épisode 7 : Le Spectre  
   * Irma Vep, épisode 8 : Les Noces sanglantes  
   * Noise  
-  * Paris, je t'aime  
   * Paris s'éveille  
   * Passage secret  
   * Personal Shopper  
-  * Rendez-vous  
   * Scopitone  
   * Sils Maria  
   * Une nouvelle vie
 
-## Richard Quine (23)
+## Richard Quine (22)
 
   * Adorable voisine (L')  
   * Bal des cinglés (Le)  
@@ -142,7 +139,6 @@
   * Monde de Suzie Wong (Le)  
   * Pleine de vie  
   * Prisoner of Zenda (The)  
-  * Rainbow 'Round My Shoulder  
   * Sunny Side of the Street  
   * Train, amour et crustacés  
   * Une Cadillac en or massif  
