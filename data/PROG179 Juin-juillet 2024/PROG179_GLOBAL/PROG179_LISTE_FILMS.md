@@ -4,15 +4,6 @@
 
   * Fille à la valise (La)
 
-## Cinéma bis (6)
-
-  * Blessure  
-  * Flag  
-  * Maison au fond du parc (La)  
-  * Opération Jaguar  
-  * Qui êtes-vous Inspecteur Chandler ?  
-  * Too Beautiful to Die
-
 ## Fenêtre sur les collections (7)
 
   * Ajoncs (Les)  
