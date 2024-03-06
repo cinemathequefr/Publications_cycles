@@ -81,7 +81,7 @@
 ## Olivier Assayas (30)
 
   * Après mai  
-  * Boarding gate  
+  * Boarding Gate  
   * Carlos  
   * Cuban Network  
   * Demonlover  
@@ -89,7 +89,7 @@
   * Destinées sentimentales (Les)  
   * Doubles vies  
   * Eau froide (L')  
-  * Eldorado, création  
+  * Eldorado  
   * Enfant de l'hiver (L')  
   * Fin août, début septembre  
   * Heure d'été (L')  
@@ -122,14 +122,14 @@
   * Du plomb pour l'inspecteur  
   * Guerre des bootleggers (La)  
   * Hôtel Saint-Gregory  
-  * Inquiétante dame en noir (L')  
-  * Joyeux débarquement  
+  * Inquiétante Dame en noir (L')  
+  * Joyeux Débarquement  
   * Leather Gloves  
-  * Liaisons secrètes (Les)  
+  * Liaisons secrètes  
   * Ma sœur est du tonnerre  
   * Monde de Suzie Wong (Le)  
   * Pleine de vie  
-  * Prisoner of Zenda (The)  
+  * Prisonnier de Zenda (Le)  
   * Sunny Side of the Street  
   * Train, amour et crustacés  
   * Une Cadillac en or massif  
@@ -156,7 +156,7 @@
   * Point limite zéro  
   * Raisins de la colère (Les)  
   * Route One / USA  
-  * Stranger than Paradise  
+  * Stranger Than Paradise  
   * Thelma et Louise  
   * Un monde parfait  
   * Une histoire vraie  
@@ -197,7 +197,7 @@
   * Napoléon vu par Abel Gance – Partie 1  
   * Napoléon vu par Abel Gance – Partie 2
 
-## Valerio Zurlini (8)
+## Valerio Zurlini (7)
 
   * Assis à sa droite  
   * Des filles pour l'armée  
@@ -206,4 +206,3 @@
   * Jeunes filles de San Frediano (Les)  
   * Journal intime  
   * Professeur (Le)  
-  * Quand, comment et avec qui ?  
