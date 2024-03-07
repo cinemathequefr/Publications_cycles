@@ -12,10 +12,37 @@
       ]
     },
     {
+      "idCycleProg": 140,
+      "titreCycle": "Aujourd'hui le cinéma",
+      "isReg": true,
+      "sousCycles": [
+        { "titre": "Invitation au Fresnoy", "cats": [3360], "tri": 4 },
+        {
+          "titre": "Panorama du court métrage canadien",
+          "cats": [3361],
+          "tri": 4
+        },
+        {
+          "titre": "Repérages 2024 : Nouveaux talents",
+          "cats": [3362],
+          "tri": 4
+        },
+        {
+          "titre": "Festival du court métrage de Busan 2024",
+          "cats": [3364],
+          "tri": 4
+        },
+        { "titre": "Fondation Gan pour le cinéma", "cats": [3363], "tri": 4 }
+      ]
+    },
+    {
       "idCycleProg": 143,
       "titreCycle": "Fenêtre sur les collections",
       "isReg": true,
-      "sousCycles": [{ "titre": "Paula Delsol", "cats": [3339], "tri": 4 }]
+      "sousCycles": [
+        { "titre": "Mohamed Zinet", "cats": [3338], "tri": 4 },
+        { "titre": "Paula Delsol", "cats": [3339], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": 152,
@@ -116,7 +143,10 @@
     {
       "idCycleProg": 782,
       "titreCycle": "Mike Nichols",
-      "sousCycles": [{ "titre": "Les films", "cats": [3350], "tri": 1 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3350], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [3365], "tri": 4 }
+      ],
       "excludeSeances": []
     }
   ]

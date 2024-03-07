@@ -10,6 +10,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeSeance": 44,
     "items": [
       {
         "idFilm": 35461,
@@ -20,7 +21,8 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 3350,
@@ -65,6 +67,52 @@
         "duree": 105,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3350,
+    "typeEvenement": 13,
+    "idEvenement": 30606,
+    "idSeance": 130906,
+    "dateHeure": "2024-05-31T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 35465,
+        "ordre": 1,
+        "idSeance": 130906,
+        "idCopie": 27791,
+        "duree": 108,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3350,
+    "typeEvenement": 13,
+    "idEvenement": 30616,
+    "idSeance": 130907,
+    "dateHeure": "2024-05-31T20:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 35468,
+        "ordre": 1,
+        "idSeance": 130907,
+        "idCopie": 27790,
+        "duree": 131,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -117,52 +165,6 @@
   {
     "idCategorie": 3350,
     "typeEvenement": 13,
-    "idEvenement": 30606,
-    "idSeance": 130815,
-    "dateHeure": "2024-06-02T17:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 35465,
-        "ordre": 1,
-        "idSeance": 130815,
-        "idCopie": 27791,
-        "duree": 108,
-        "version": "",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3350,
-    "typeEvenement": 13,
-    "idEvenement": 30616,
-    "idSeance": 130786,
-    "dateHeure": "2024-06-02T19:45:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 165,
-    "items": [
-      {
-        "idFilm": 35468,
-        "ordre": 1,
-        "idSeance": 130786,
-        "idCopie": 27790,
-        "duree": 131,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3350,
-    "typeEvenement": 13,
     "idEvenement": 30609,
     "idSeance": 130787,
     "dateHeure": "2024-06-03T18:00:00",
@@ -197,7 +199,12 @@
     "items": [
       {
         "idFilm": 141680,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 130788,
+        "idCopie": 27817,
+        "duree": 99,
+        "version": "VO",
+        "format": ""
       }
     ]
   },
@@ -283,7 +290,7 @@
         "idSeance": 130845,
         "idCopie": 27792,
         "duree": 107,
-        "version": "",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ]
@@ -335,26 +342,18 @@
     ]
   },
   {
-    "idCategorie": 3350,
-    "typeEvenement": 13,
-    "idEvenement": 30617,
-    "idSeance": 130794,
-    "dateHeure": "2024-06-09T20:00:00",
+    "idCategorie": 3365,
+    "typeEvenement": 14,
+    "idEvenement": 30674,
+    "idSeance": 130914,
+    "dateHeure": "2024-06-09T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 180,
+    "dureeSeance": 60,
     "items": [
-      {
-        "idFilm": 29232,
-        "ordre": 1,
-        "idSeance": 130794,
-        "idCopie": 9565,
-        "duree": 143,
-        "version": "VO",
-        "format": "35 mm"
-      }
+      {}
     ]
   },
   {
@@ -376,7 +375,7 @@
         "idCopie": 27795,
         "duree": 97,
         "version": "",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ]
   },
@@ -429,6 +428,29 @@
   {
     "idCategorie": 3350,
     "typeEvenement": 13,
+    "idEvenement": 30604,
+    "idSeance": 130908,
+    "dateHeure": "2024-06-14T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 35453,
+        "ordre": 1,
+        "idSeance": 130908,
+        "idCopie": 27789,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3350,
+    "typeEvenement": 13,
     "idEvenement": 30619,
     "idSeance": 129330,
     "dateHeure": "2024-06-14T19:30:00",
@@ -446,6 +468,29 @@
         "duree": 130,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3350,
+    "typeEvenement": 13,
+    "idEvenement": 30617,
+    "idSeance": 130909,
+    "dateHeure": "2024-06-14T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 29232,
+        "ordre": 1,
+        "idSeance": 130909,
+        "idCopie": 9565,
+        "duree": 143,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },
@@ -499,38 +544,43 @@
     "idCategorie": 3350,
     "typeEvenement": 13,
     "idEvenement": 30602,
-    "idSeance": 129372,
-    "dateHeure": "2024-06-15T20:00:00",
+    "idSeance": 130910,
+    "dateHeure": "2024-06-17T17:30:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
         "idFilm": 35451,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 130910,
+        "idCopie": 27818,
+        "duree": 107,
+        "version": "",
+        "format": "35 mm"
       }
     ]
   },
   {
     "idCategorie": 3350,
     "typeEvenement": 13,
-    "idEvenement": 30604,
-    "idSeance": 129389,
-    "dateHeure": "2024-06-16T17:30:00",
+    "idEvenement": 30616,
+    "idSeance": 130912,
+    "dateHeure": "2024-06-21T17:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 35453,
+        "idFilm": 35468,
         "ordre": 1,
-        "idSeance": 129389,
-        "idCopie": 27789,
-        "duree": 88,
+        "idSeance": 130912,
+        "idCopie": 27790,
+        "duree": 131,
         "version": "VOSTF",
         "format": "35 mm"
       }

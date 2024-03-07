@@ -1,14 +1,18 @@
 # Liste des films par cycle
 
-## Ciné-club de Frédéric Bonnaud (2)
+## Ciné-club de Frédéric Bonnaud (1)
 
-  * Fille à la valise (La)  
-  * Lola Montès
+  * Fille à la valise (La)
 
-## Fenêtre sur les collections (2)
+## Fenêtre sur les collections (7)
 
+  * Ajoncs (Les)  
   * Ben et Bénédict  
-  * Dérive = Une fille à la dérive (La)
+  * Bougnoul : Bande annonce (Le)  
+  * Bougnoul (Le)  
+  * Dérive = Une fille à la dérive (La)  
+  * Trois cousins (Les)  
+  * Zinet, Alger, le Bonheur
 
 ## James Cameron (8)
 
@@ -26,21 +30,20 @@
   * Alice au pays des merveilles  
   * Drôle de frimousse  
   * Fantastic Mr. Fox  
-  * Île au trésor (L')  
-  * Princes et princesses  
-  * Ratatouille
+  * Princes et Princesses  
+  * Ratatouille  
+  * Sportif par amour
 
-## Marcel Pagnol (20)
+## Marcel Pagnol (18)
 
   * Angèle  
   * Belle Meunière (La)  
   * César  
   * Cigalon  
-  * Curé de Cucugnan (Le)  
   * Fanny  
   * Femme du boulanger (La)  
   * Fille du puisatier (La)  
-  * Gendre de Monsieur Poirier (Le)  
+  * Gendre de monsieur Poirier (Le)  
   * Île de lumière (L')  
   * Jofroi  
   * Lettres de mon moulin (Les)  
@@ -48,7 +51,6 @@
   * Marius  
   * Merlusse  
   * Naïs  
-  * Prière aux étoiles (La)  
   * Regain  
   * Schpountz (Le)  
   * Topaze
@@ -76,10 +78,10 @@
   * Wolf  
   * Working Girl
 
-## Olivier Assayas (29)
+## Olivier Assayas (30)
 
   * Après mai  
-  * Boarding gate  
+  * Boarding Gate  
   * Carlos  
   * Cuban Network  
   * Demonlover  
@@ -87,7 +89,7 @@
   * Destinées sentimentales (Les)  
   * Doubles vies  
   * Eau froide (L')  
-  * Eldorado, création  
+  * Eldorado  
   * Enfant de l'hiver (L')  
   * Fin août, début septembre  
   * Heure d'été (L')  
@@ -102,13 +104,14 @@
   * Irma Vep, épisode 7 : Le Spectre  
   * Irma Vep, épisode 8 : Les Noces sanglantes  
   * Noise  
-  * Paris, je t'aime  
   * Paris s'éveille  
+  * Passage secret  
   * Personal Shopper  
+  * Scopitone  
   * Sils Maria  
   * Une nouvelle vie
 
-## Richard Quine (23)
+## Richard Quine (22)
 
   * Adorable voisine (L')  
   * Bal des cinglés (Le)  
@@ -119,15 +122,14 @@
   * Du plomb pour l'inspecteur  
   * Guerre des bootleggers (La)  
   * Hôtel Saint-Gregory  
-  * Inquiétante dame en noir (L')  
-  * Joyeux débarquement  
+  * Inquiétante Dame en noir (L')  
+  * Joyeux Débarquement  
   * Leather Gloves  
-  * Liaisons secrètes (Les)  
+  * Liaisons secrètes  
   * Ma sœur est du tonnerre  
   * Monde de Suzie Wong (Le)  
   * Pleine de vie  
-  * Prisoner of Zenda (The)  
-  * Rainbow 'Round My Shoulder  
+  * Prisonnier de Zenda (Le)  
   * Sunny Side of the Street  
   * Train, amour et crustacés  
   * Une Cadillac en or massif  
@@ -154,7 +156,7 @@
   * Point limite zéro  
   * Raisins de la colère (Les)  
   * Route One / USA  
-  * Stranger than Paradise  
+  * Stranger Than Paradise  
   * Thelma et Louise  
   * Un monde parfait  
   * Une histoire vraie  
@@ -171,19 +173,19 @@
   * Cinq maîtres de Shaolin  
   * Cinq venins mortels  
   * Combat des maîtres (Le)  
-  * Démons du karaté = Les Héros de l'Orient = Shaolin contre Ninja (Les)  
-  * Disciples de la 36ème chambre (Les)  
+  * Démons du karaté (Les)  
+  * Disciples de la 36e chambre (Les)  
   * Disciples de Shaolin (Les)  
   * Exécuteurs de Shaolin (Les)  
   * Five Superfighters  
   * Fureur de Shaolin (La)  
-  * Justicier de Shangai / La Brute, le bonze et le méchan (Le)  
-  * Kid With the Golden Arm (The)  
+  * Justicier de Shanghaï (Le)  
+  * Kid with the Golden Arm (The)  
   * Lady Kung-Fu  
   * Magnificent Ruffians (The)  
   * Main de fer (La)  
   * Mercenaries from Hong Kong  
-  * Prince et l'Arnaqueur (Le)  
+  * Prince et l'arnaqueur (Le)  
   * Retour à la 36e chambre  
   * Singe fou du kung-fu (Le)  
   * Temple de Shaolin (Le)  
@@ -195,13 +197,12 @@
   * Napoléon vu par Abel Gance – Partie 1  
   * Napoléon vu par Abel Gance – Partie 2
 
-## Valerio Zurlini (8)
+## Valerio Zurlini (7)
 
-  * Black Jesus = Assis à sa droite  
+  * Assis à sa droite  
   * Des filles pour l'armée  
   * Désert des Tartares (Le)  
   * Été violent  
   * Jeunes filles de San Frediano (Les)  
   * Journal intime  
   * Professeur (Le)  
-  * Quand, comment et avec qui ?  
