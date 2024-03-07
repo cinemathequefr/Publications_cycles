@@ -542,7 +542,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30674,
+          "content": [
+            {
+              "idConf": 30674,
+              "titre": "Dialogue avec Léo Soesanto ??",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130914,
+              "dateHeure": "2024-06-09T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "avec Léo Soesanto ??",
+        "dateHeure": "2024-06-09T19:30:00"
+      }
+    ]
+  }
 }
