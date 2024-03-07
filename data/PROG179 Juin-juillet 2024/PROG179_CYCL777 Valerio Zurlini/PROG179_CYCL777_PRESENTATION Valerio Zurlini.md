@@ -2,7 +2,7 @@
 
 # La grâce malgré tout
 
-La filmographie de Valerio Zurlini est traversée par un spleen exigeant et un brin hautain, une manière de désarroi languissant. Un spleen et une langueur qui expliquent sans doute pourquoi l'un des cinéastes les plus talentueux de sa génération – travaillant qui plus est à une époque où le système de production italien marchait à plein régime – ne réalisa que huit longs métrages en plus de vingt ans de carrière et ne fut jamais reconnu à sa juste place, l'une des plus hautes dans l'histoire du cinéma italien.
+La filmographie de Valerio Zurlini est traversée par un spleen exigeant et un brin hautain, une manière de désarroi languissant. Un spleen et une langueur qui expliquent sans doute pourquoi l'un des cinéastes les plus talentueux de sa génération – travaillant qui plus est à une époque où le système de production italien marchait à plein régime – ne réalisa que huit longs métrages en plus de vingt ans de carrière et ne fut jamais reconnu à sa juste place, l'une des plus hautes dans l'histoire du cinéma transalpin.
 
 ## Un tragique de l'Histoire
 
