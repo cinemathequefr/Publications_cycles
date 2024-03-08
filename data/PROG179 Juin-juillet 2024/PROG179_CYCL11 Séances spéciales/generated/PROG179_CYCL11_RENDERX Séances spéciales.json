@@ -3,10 +3,40 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Napoléon",
+      "titreSousCycle": "Avant-première Yervant Gianikian et Angela Ricci Lucchi",
       "items": [
         {
-          "idFilm": 154798,
+          "idFilm": 154803,
+          "content": [
+            {
+              "idFilm": 154803,
+              "ordre": 1,
+              "titre": "Frente a Guernica",
+              "realisateurs": "Yervant Gianikian, Angela Ricci Lucchi",
+              "pays": "Italie",
+              "annee": 2023,
+              "duree": 126,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 129024,
+              "dateHeure": "2024-06-03T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Napoléon, vu par Abel Gance",
+      "items": [
+        {
+          "idEvenement": 30629,
           "content": [
             {
               "idFilm": 154798,
@@ -18,47 +48,10 @@
               "duree": 220,
               "version": "",
               "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 129924,
-              "dateHeure": "2024-07-06T15:00:00",
-              "idSalle": "HL"
             },
-            {
-              "idSeance": 129941,
-              "dateHeure": "2024-07-07T14:30:00",
-              "idSalle": "HL"
-            },
-            {
-              "idSeance": 130733,
-              "dateHeure": "2024-07-13T14:30:00",
-              "idSalle": "HL"
-            },
-            {
-              "idSeance": 130127,
-              "dateHeure": "2024-07-14T14:30:00",
-              "idSalle": "HL"
-            },
-            {
-              "idSeance": 130296,
-              "dateHeure": "2024-07-20T14:30:00",
-              "idSalle": "HL"
-            },
-            {
-              "idSeance": 130313,
-              "dateHeure": "2024-07-21T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 154797,
-          "content": [
             {
               "idFilm": 154797,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Napoléon vu par Abel Gance – Partie 2",
               "realisateurs": "Abel Gance",
               "pays": "France",
@@ -70,33 +63,33 @@
           ],
           "seances": [
             {
-              "idSeance": 129925,
-              "dateHeure": "2024-07-06T20:00:00",
+              "idSeance": 130920,
+              "dateHeure": "2024-07-06T15:00:00",
               "idSalle": "HL"
             },
             {
-              "idSeance": 129942,
-              "dateHeure": "2024-07-07T19:30:00",
+              "idSeance": 130921,
+              "dateHeure": "2024-07-07T14:30:00",
               "idSalle": "HL"
             },
             {
-              "idSeance": 130734,
-              "dateHeure": "2024-07-13T19:30:00",
+              "idSeance": 130922,
+              "dateHeure": "2024-07-13T14:30:00",
               "idSalle": "HL"
             },
             {
-              "idSeance": 130128,
-              "dateHeure": "2024-07-14T19:30:00",
+              "idSeance": 130923,
+              "dateHeure": "2024-07-14T14:30:00",
               "idSalle": "HL"
             },
             {
-              "idSeance": 130297,
-              "dateHeure": "2024-07-20T19:30:00",
+              "idSeance": 130924,
+              "dateHeure": "2024-07-20T14:30:00",
               "idSalle": "HL"
             },
             {
-              "idSeance": 130314,
-              "dateHeure": "2024-07-21T19:30:00",
+              "idSeance": 130925,
+              "dateHeure": "2024-07-21T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -104,5 +97,12 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2024-06-03T20:00:00",
+        "titreFilms": "Frente a Guernica"
+      }
+    ]
+  }
 }

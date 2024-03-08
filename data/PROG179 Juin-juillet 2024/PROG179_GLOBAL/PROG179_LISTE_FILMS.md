@@ -10,7 +10,7 @@
   * Ben et Bénédict  
   * Bougnoul : Bande annonce (Le)  
   * Bougnoul (Le)  
-  * Dérive = Une fille à la dérive (La)  
+  * Dérive (La)  
   * Trois cousins (Les)  
   * Zinet, Alger, le Bonheur
 
@@ -55,23 +55,25 @@
   * Schpountz (Le)  
   * Topaze
 
-## Mike Nichols (20)
+## Mike Nichols (22)
 
-  * A propos d' Henry  
+  * À propos d'Henry  
+  * Angels in America : Millennium Approaches  
+  * Angels in America : Perestroika  
   * Biloxi Blues  
-  * Birdcage (The)  
+  * Birdcage  
   * Bonne fortune (La)  
   * Bons baisers d'Hollywood  
   * Brûlure (La)  
-  * Catch 22  
+  * Catch-22  
   * Ce plaisir qu'on dit charnel  
+  * Closer, entre adultes consentants  
   * De quelle planète viens-tu ?  
-  * Entre adultes consentants  
   * Gilda Live  
   * Guerre selon Charlie Wilson (La)  
   * Jour du dauphin (Le)  
   * Lauréat (Le)  
-  * Mon Combat  
+  * Mon combat  
   * Mystère Silkwood (Le)  
   * Primary Colors  
   * Qui a peur de Virginia Woolf ?  
@@ -192,8 +194,9 @@
   * Ten Tigers Of Kwangtung  
   * Vengeance des infirmes (La)
 
-## Séances spéciales (2)
+## Séances spéciales (3)
 
+  * Frente a Guernica  
   * Napoléon vu par Abel Gance – Partie 1  
   * Napoléon vu par Abel Gance – Partie 2
 
