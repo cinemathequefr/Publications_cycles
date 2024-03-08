@@ -57,16 +57,16 @@
 
 ## Mike Nichols (20)
 
-  * A propos d' Henry  
+  * À propos d'Henry  
   * Biloxi Blues  
-  * Birdcage (The)  
+  * Birdcage  
   * Bonne fortune (La)  
   * Bons baisers d'Hollywood  
   * Brûlure (La)  
   * Catch 22  
   * Ce plaisir qu'on dit charnel  
+  * Closer, entre adultes consentants  
   * De quelle planète viens-tu ?  
-  * Entre adultes consentants  
   * Gilda Live  
   * Guerre selon Charlie Wilson (La)  
   * Jour du dauphin (Le)  
@@ -192,8 +192,9 @@
   * Ten Tigers Of Kwangtung  
   * Vengeance des infirmes (La)
 
-## Séances spéciales (2)
+## Séances spéciales (3)
 
+  * Frente a Guernica  
   * Napoléon vu par Abel Gance – Partie 1  
   * Napoléon vu par Abel Gance – Partie 2
 
