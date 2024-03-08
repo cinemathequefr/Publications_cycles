@@ -63,7 +63,7 @@
   * Bonne fortune (La)  
   * Bons baisers d'Hollywood  
   * Brûlure (La)  
-  * Catch 22  
+  * Catch-22  
   * Ce plaisir qu'on dit charnel  
   * Closer, entre adultes consentants  
   * De quelle planète viens-tu ?  
@@ -71,7 +71,7 @@
   * Guerre selon Charlie Wilson (La)  
   * Jour du dauphin (Le)  
   * Lauréat (Le)  
-  * Mon Combat  
+  * Mon combat  
   * Mystère Silkwood (Le)  
   * Primary Colors  
   * Qui a peur de Virginia Woolf ?  
