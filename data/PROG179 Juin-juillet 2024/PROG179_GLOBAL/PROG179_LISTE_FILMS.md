@@ -10,7 +10,7 @@
   * Ben et Bénédict  
   * Bougnoul : Bande annonce (Le)  
   * Bougnoul (Le)  
-  * Dérive = Une fille à la dérive (La)  
+  * Dérive (La)  
   * Trois cousins (Les)  
   * Zinet, Alger, le Bonheur
 
@@ -55,10 +55,11 @@
   * Schpountz (Le)  
   * Topaze
 
-## Mike Nichols (21)
+## Mike Nichols (22)
 
   * À propos d'Henry  
-  * Angels in America  
+  * Angels in America : Millennium Approaches  
+  * Angels in America : Perestroika  
   * Biloxi Blues  
   * Birdcage  
   * Bonne fortune (La)  
