@@ -74,9 +74,8 @@
   * Vase (La)  
   * Vent debout
 
-## Restaurations et incunables (49)
+## Restaurations et incunables (48)
 
-  * Ailes de la colombe (Les)  
   * Aloïse  
   * Alphaville, une étrange aventure de Lemmy Caution  
   * Bestia debe morir (La)  
@@ -126,10 +125,9 @@
   * Toute une nuit  
   * Typhoon Club
 
-## Sadao Yamanaka (4)
+## Sadao Yamanaka (3)
 
   * Nezumikozō Jirokichi  
-  * Pauvres humains et ballons de papier  
   * Pot d'un million de ryō (Le)  
   * Priest of Darkness
 

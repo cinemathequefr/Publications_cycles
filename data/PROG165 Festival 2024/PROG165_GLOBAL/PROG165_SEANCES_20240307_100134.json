@@ -51,6 +51,29 @@
     "hashEvenement": "f38201"
   },
   {
+    "idSeance": 128823,
+    "idEvenement": 30024,
+    "dateHeure": "2024-03-13T14:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Caroline Champetier",
+    "items": [
+      {
+        "idFilm": 49283,
+        "titre": "Ailes de la colombe",
+        "art": "Les",
+        "realisateurs": "Benoît Jacquot",
+        "annee": 1980
+      }
+    ],
+    "hashEvenement": "f49283"
+  },
+  {
     "idSeance": 130605,
     "idEvenement": 30387,
     "dateHeure": "2024-03-13T16:30:00",
@@ -189,7 +212,7 @@
       ]
     ],
     "titreEvenement": "Programme 3",
-    "mention": "Accompagnement musical par Sylvain Barou, Laura Perrudin et Antoine Lahay. Séance présentée par Hervé Pichard, Mehdi Taïbi et Coralie George",
+    "mention": "Accompagnement musical par Sylvain Barou, Laura Perrudin et Antoine Lahay. Séance présentée par Hervé Pichard et Mehdi Taïbi",
     "items": [
       {
         "idFilm": 154689,
@@ -453,7 +476,7 @@
       ]
     ],
     "titreEvenement": "Programme 2",
-    "mention": "Accompagnement musical par Mocke. Séance présentée par Hervé Pichard, Mehdi Taïbi et Loïc Arteaga",
+    "mention": "Accompagnement musical par Mocke. Séance présentée par Hervé Pichard et Mehdi Taïbi",
     "items": [
       {
         "idFilm": 50240,
@@ -588,7 +611,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Agnès Vincent-Deray, Nicolas Seydoux et Laurence Deray",
+    "mention": "Séance présentée par Agnès Vincent-Deray, Nicolas Seydoux, Laurence Deray et Nicole Garcia (sous réserve)",
     "items": [
       {
         "idFilm": 48057,
@@ -714,7 +737,7 @@
       ]
     ],
     "titreEvenement": "Programme 1",
-    "mention": "Séance présentée par Noémie Jean, Léa Baron et Coralie George",
+    "mention": "Séance présentée par Noémie Jean et Léa Baron",
     "items": [
       {
         "idFilm": 154654,
@@ -1916,6 +1939,59 @@
     "hashEvenement": "f31570"
   },
   {
+    "idSeance": 128837,
+    "idEvenement": 30288,
+    "dateHeure": "2024-03-16T21:00:00",
+    "salle": "HO",
+    "cycle": [
+      [
+        "Peter Emanuel Goldman",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Damien Bertrand",
+    "items": [
+      {
+        "idFilm": 154739,
+        "titre": "Sensualist (bande-annonce)",
+        "art": "The",
+        "realisateurs": "Peter Emanuel Goldman",
+        "annee": 1966,
+        "duree": 3,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 138557,
+        "titre": "Sensualist (extrait)",
+        "art": "The",
+        "realisateurs": "Peter Emanuel Goldman",
+        "annee": 1966,
+        "duree": 9,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 32482,
+        "titre": "Wheel of Ashes",
+        "realisateurs": "Peter Emanuel Goldman",
+        "annee": 1970,
+        "duree": 95,
+        "version": "VOSTF"
+      },
+      {
+        "idFilm": 138560,
+        "titre": "Recommended by Duncan Hines",
+        "realisateurs": "Peter Emanuel Goldman",
+        "annee": 1963,
+        "duree": 4,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154739f138557f32482f138560"
+  },
+  {
     "idSeance": 118263,
     "idEvenement": 29934,
     "dateHeure": "2024-03-16T21:30:00",
@@ -2114,8 +2190,8 @@
     "hashEvenement": "f88453c30109"
   },
   {
-    "idSeance": 130915,
-    "idEvenement": 30156,
+    "idSeance": 123095,
+    "idEvenement": 30163,
     "dateHeure": "2024-03-17T14:30:00",
     "salle": "JE",
     "cycle": [
@@ -2124,18 +2200,19 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Clément Rauger",
     "items": [
       {
-        "idFilm": 114406,
-        "titre": "Priest of Darkness",
+        "idFilm": 38342,
+        "titre": "Pauvres humains et ballons de papier",
         "realisateurs": "Sadao Yamanaka",
-        "annee": 1936,
-        "duree": 82,
+        "annee": 1937,
+        "duree": 90,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f114406"
+    "hashEvenement": "f38342"
   },
   {
     "idSeance": 130528,
@@ -2510,54 +2587,5 @@
       }
     ],
     "hashEvenement": "f42963"
-  },
-  {
-    "idSeance": 130918,
-    "idEvenement": 30288,
-    "dateHeure": "2024-03-17T21:00:00",
-    "salle": "HO",
-    "cycle": [
-      [
-        "Peter Emanuel Goldman",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154739,
-        "titre": "Sensualist (bande-annonce)",
-        "art": "The",
-        "realisateurs": "Peter Emanuel Goldman",
-        "annee": 1966
-      },
-      {
-        "idFilm": 138557,
-        "titre": "Sensualist (extrait)",
-        "art": "The",
-        "realisateurs": "Peter Emanuel Goldman",
-        "annee": 1966,
-        "duree": 9,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 32482,
-        "titre": "Wheel of Ashes",
-        "realisateurs": "Peter Emanuel Goldman",
-        "annee": 1970,
-        "duree": 95,
-        "version": "VOSTF"
-      },
-      {
-        "idFilm": 138560,
-        "titre": "Recommended by Duncan Hines",
-        "realisateurs": "Peter Emanuel Goldman",
-        "annee": 1963,
-        "duree": 4,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154739f138557f32482f138560"
   }
 ]
