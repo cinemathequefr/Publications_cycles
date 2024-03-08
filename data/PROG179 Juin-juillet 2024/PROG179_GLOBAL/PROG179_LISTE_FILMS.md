@@ -55,9 +55,10 @@
   * Schpountz (Le)  
   * Topaze
 
-## Mike Nichols (20)
+## Mike Nichols (21)
 
   * À propos d'Henry  
+  * Angels in America  
   * Biloxi Blues  
   * Birdcage  
   * Bonne fortune (La)  
