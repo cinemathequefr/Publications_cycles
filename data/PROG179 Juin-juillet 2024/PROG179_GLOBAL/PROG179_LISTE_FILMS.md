@@ -25,6 +25,34 @@
   * Titanic  
   * True Lies
 
+## La Shaw Brothers et le kung-fu (25)
+
+  * 36e Chambre de Shaolin (La)  
+  * Arts martiaux de Shaolin (Les)  
+  * Boxer's Omen (The)  
+  * Caïd de Chinatown (Le)  
+  * Cinq maîtres de Shaolin  
+  * Cinq venins mortels  
+  * Combat des maîtres (Le)  
+  * Démons du karaté (Les)  
+  * Disciples de la 36e chambre (Les)  
+  * Disciples de Shaolin (Les)  
+  * Exécuteurs de Shaolin (Les)  
+  * Five Superfighters  
+  * Fureur de Shaolin (La)  
+  * Justicier de Shanghaï (Le)  
+  * Kid with the Golden Arm (The)  
+  * Lady Kung-Fu  
+  * Magnificent Ruffians (The)  
+  * Main de fer (La)  
+  * Mercenaries from Hong Kong  
+  * Prince et l'arnaqueur (Le)  
+  * Retour à la 36e chambre  
+  * Singe fou du kung-fu (Le)  
+  * Temple de Shaolin (Le)  
+  * Ten Tigers Of Kwangtung  
+  * Vengeance des infirmes (La)
+
 ## Ma petite Cinémathèque (6)
 
   * Alice au pays des merveilles  
@@ -165,34 +193,6 @@
   * Voyages de Sullivan (Les)  
   * Wanda  
   * Wild Boys of the Road
-
-## Shaw Brothers, 25 indispensables (25)
-
-  * 36e Chambre de Shaolin (La)  
-  * Arts martiaux de Shaolin (Les)  
-  * Boxer's Omen (The)  
-  * Caïd de Chinatown (Le)  
-  * Cinq maîtres de Shaolin  
-  * Cinq venins mortels  
-  * Combat des maîtres (Le)  
-  * Démons du karaté (Les)  
-  * Disciples de la 36e chambre (Les)  
-  * Disciples de Shaolin (Les)  
-  * Exécuteurs de Shaolin (Les)  
-  * Five Superfighters  
-  * Fureur de Shaolin (La)  
-  * Justicier de Shanghaï (Le)  
-  * Kid with the Golden Arm (The)  
-  * Lady Kung-Fu  
-  * Magnificent Ruffians (The)  
-  * Main de fer (La)  
-  * Mercenaries from Hong Kong  
-  * Prince et l'arnaqueur (Le)  
-  * Retour à la 36e chambre  
-  * Singe fou du kung-fu (Le)  
-  * Temple de Shaolin (Le)  
-  * Ten Tigers Of Kwangtung  
-  * Vengeance des infirmes (La)
 
 ## Séances spéciales (3)
 
