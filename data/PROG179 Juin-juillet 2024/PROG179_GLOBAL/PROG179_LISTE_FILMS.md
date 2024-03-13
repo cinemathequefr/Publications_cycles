@@ -194,11 +194,9 @@
   * Wanda  
   * Wild Boys of the Road
 
-## Séances spéciales (3)
+## Séances spéciales (1)
 
-  * Frente a Guernica  
-  * Napoléon vu par Abel Gance (partie 1)  
-  * Napoléon vu par Abel Gance (partie 2)
+  * Frente a Guernica
 
 ## Valerio Zurlini (7)
 
