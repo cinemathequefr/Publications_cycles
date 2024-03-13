@@ -8,7 +8,7 @@
 
   * Ajoncs (Les)  
   * Ben et Bénédict  
-  * Bougnoul : Bande annonce (Le)  
+  * Bougnoul (bande-annonce) (Le)  
   * Bougnoul (Le)  
   * Dérive (La)  
   * Trois cousins (Les)  
@@ -197,8 +197,8 @@
 ## Séances spéciales (3)
 
   * Frente a Guernica  
-  * Napoléon vu par Abel Gance – Partie 1  
-  * Napoléon vu par Abel Gance – Partie 2
+  * Napoléon vu par Abel Gance (partie 1)  
+  * Napoléon vu par Abel Gance (partie 2)
 
 ## Valerio Zurlini (7)
 

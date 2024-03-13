@@ -70,31 +70,47 @@
           ]
         },
         {
-          "idFilm": 154807,
-          "content": [
+          "groupe": [
             {
               "idFilm": 154807,
-              "ordre": 1,
-              "titre": "Angels in America : Perestroika",
-              "realisateurs": "Mike Nichols",
-              "pays": "États-Unis",
-              "annee": 2003,
-              "duree": 160,
-              "version": "",
-              "format": "Numérique",
-              "adaptation": "D'après la pièce de théâtre _Angels in America_ de Tony Kushner.",
-              "generique": [
-                "Al Pacino",
-                "Meryl Streep",
-                "Mary-Louise Parker"
+              "content": [
+                {
+                  "idFilm": 154807,
+                  "ordre": 1,
+                  "titre": "Angels in America : Perestroika",
+                  "realisateurs": "Mike Nichols",
+                  "pays": "États-Unis",
+                  "annee": 2003,
+                  "duree": 160,
+                  "version": "",
+                  "format": "Numérique",
+                  "adaptation": "D'après la pièce de théâtre _Angels in America_ de Tony Kushner.",
+                  "generique": [
+                    "Al Pacino",
+                    "Meryl Streep",
+                    "Mary-Louise Parker"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 130928,
-              "dateHeure": "2024-06-16T17:00:00",
-              "idSalle": "GF"
+              "idEvenement": 30675,
+              "content": [
+                {
+                  "idConf": 30675,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Arnaud Desplechin ??",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 130928,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-06-16T17:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -737,23 +753,6 @@
               "idSalle": "GF"
             }
           ]
-        },
-        {
-          "idConf": 30675,
-          "content": [
-            {
-              "idConf": 30675,
-              "titre": "Dialogue avec Arnaud Desplechin ??",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 130919,
-              "dateHeure": "2024-06-16T20:00:00",
-              "idSalle": "GF"
-            }
-          ]
         }
       ]
     }
@@ -765,8 +764,9 @@
         "dateHeure": "2024-06-08T17:00:00"
       },
       {
+        "titreFilms": "Angels in America : Perestroika",
         "mention": "avec Arnaud Desplechin ??",
-        "dateHeure": "2024-06-16T20:00:00"
+        "dateHeure": "2024-06-16T17:00:00"
       }
     ]
   }

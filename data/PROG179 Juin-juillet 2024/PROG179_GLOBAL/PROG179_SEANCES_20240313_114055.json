@@ -1394,10 +1394,6 @@
       [
         "Mike Nichols",
         "Les films"
-      ],
-      [
-        "Mike Nichols",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1408,15 +1404,9 @@
         "annee": 2003,
         "duree": 160,
         "format": "Numérique"
-      },
-      {
-        "idConf": 30675,
-        "titre": "Dialogue avec Arnaud Desplechin ??",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f154807c30675"
+    "hashEvenement": "f154807"
   },
   {
     "idSeance": 130633,
@@ -1441,6 +1431,27 @@
       }
     ],
     "hashEvenement": "f35445"
+  },
+  {
+    "idSeance": 130919,
+    "idEvenement": 30675,
+    "dateHeure": "2024-06-16T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Mike Nichols",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30675,
+        "titre": "Dialogue avec Arnaud Desplechin ??",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30675"
   },
   {
     "idSeance": 129385,
@@ -2832,7 +2843,7 @@
         "realisateurs": "Richard Quine",
         "annee": 1956,
         "duree": 90,
-        "version": "VOAutres",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
