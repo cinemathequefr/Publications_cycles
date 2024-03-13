@@ -10,31 +10,48 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 117618,
-          "content": [
+          "groupe": [
             {
               "idFilm": 117618,
-              "ordre": 1,
-              "titre": "Après mai",
-              "realisateurs": "Olivier Assayas",
-              "pays": "France",
-              "annee": 2011,
-              "duree": 122,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Clément Métayer",
-                "Lola Créton",
-                "Carole Combes"
-              ],
-              "miniTexte": "L'auteur de _L'Eau froide_ revient sur la jeunesse inflammable du début des années 70, à travers le parcours d'une bande de lycéens engagés dans les luttes idéologiques de leur temps. Un récit d'initiations politique et amoureuse, sur les aspirations d'une génération qui se demande comment exister après 68. Prix du scénario à la Mostra de Venise."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 117618,
+                  "ordre": 1,
+                  "titre": "Après mai",
+                  "realisateurs": "Olivier Assayas",
+                  "pays": "France",
+                  "annee": 2011,
+                  "duree": 122,
+                  "version": "",
+                  "format": "",
+                  "generique": [
+                    "Clément Métayer",
+                    "Lola Créton",
+                    "Carole Combes"
+                  ],
+                  "miniTexte": "L'auteur de _L'Eau froide_ revient sur la jeunesse inflammable du début des années 70, à travers le parcours d'une bande de lycéens engagés dans les luttes idéologiques de leur temps. Un récit d'initiations politique et amoureuse, sur les aspirations d'une génération qui se demande comment exister après 68. Prix du scénario à la Mostra de Venise."
+                }
+              ]
+            },
             {
-              "idSeance": 130874,
-              "dateHeure": "2024-06-22T15:00:00",
-              "idSalle": "HL"
+              "idEvenement": 30570,
+              "content": [
+                {
+                  "idConf": 30570,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Olivier Assayas",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 130874,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-06-22T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -780,24 +797,6 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
-          "idConf": 30570,
-          "content": [
-            {
-              "idConf": 30570,
-              "titre": "Dialogue avec Olivier Assayas",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Frédéric Bonnaud"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 130686,
-              "dateHeure": "2024-06-22T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idConf": 30569,
           "content": [
             {
@@ -834,8 +833,9 @@
     ],
     "Dialogue": [
       {
+        "titreFilms": "Après mai",
         "mention": "avec Olivier Assayas",
-        "dateHeure": "2024-06-22T16:30:00"
+        "dateHeure": "2024-06-22T14:30:00"
       }
     ],
     "Séance présentée": [

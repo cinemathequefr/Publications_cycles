@@ -743,6 +743,39 @@
           ]
         },
         {
+          "idSeance": 133542,
+          "ordre": 1,
+          "dateHeure": "2024-06-22T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 180,
+          "idCategorie": 3350,
+          "idEvenement": 30617,
+          "typeEvenement": 13,
+          "idFilm": 29232,
+          "titre": "Primary Colors",
+          "realisateurs": "Mike Nichols",
+          "annee": 1998,
+          "pays": "États-Unis-Grande-Bretagne-Japon-Allemagne",
+          "duree": 143,
+          "version": "VO",
+          "format": "35 mm",
+          "generique": [
+            "John Travolta",
+            "Emma Thompson",
+            "Billy Bob Thornton"
+          ],
+          "adaptation": "D'après le roman _Primary Colors_ de Joe Klein.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Lancé dans la course à la Maison-Blanche, un gouverneur est rattrapé par son passé de coureur de jupons. Inspiré des déboires de Bill Clinton, _Primary Colors_ explore le double jeu des hommes politiques dans une satire virulente, à la fois documentée et réaliste, emmenée par le duo Travolta/Thompson, troublants de mimétisme."
+            }
+          ]
+        },
+        {
           "idSeance": 130783,
           "ordre": 1,
           "dateHeure": "2024-06-01T17:00:00",
@@ -927,13 +960,13 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Angels in America (Perestroika) + Dialogue avec Arnaud Desplechin ?",
+          "titre": "Dialogue avec Arnaud Desplechin ??",
           "duree": 60,
           "textes": []
         },
         {
           "idSeance": 130914,
-          "dateHeure": "2024-06-09T19:30:00",
+          "dateHeure": "2024-06-08T17:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -944,9 +977,24 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Dialogue avec Léo Soesanto ?",
+          "titre": "Dialogue avec Léo Soesanto",
           "duree": 60,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Léo Soesanto",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Jean-François Rauger",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Jean-François Rauger"
         }
       ],
       "textes": []

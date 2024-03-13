@@ -751,27 +751,6 @@
     "hashEvenement": "f35474"
   },
   {
-    "idSeance": 130914,
-    "idEvenement": 30674,
-    "dateHeure": "2024-06-08T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Mike Nichols",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 30674,
-        "titre": "Dialogue avec Léo Soesanto",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c30674"
-  },
-  {
     "idSeance": 130792,
     "idEvenement": 30605,
     "dateHeure": "2024-06-08T17:45:00",
@@ -938,6 +917,27 @@
       }
     ],
     "hashEvenement": "f61817"
+  },
+  {
+    "idSeance": 130914,
+    "idEvenement": 30674,
+    "dateHeure": "2024-06-09T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Mike Nichols",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30674,
+        "titre": "Dialogue avec Léo Soesanto ?",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30674"
   },
   {
     "idSeance": 130795,
@@ -1446,7 +1446,7 @@
     "items": [
       {
         "idConf": 30675,
-        "titre": "Dialogue avec Arnaud Desplechin ??",
+        "titre": "Angels in America (Perestroika) + Dialogue avec Arnaud Desplechin ?",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -1800,16 +1800,12 @@
   {
     "idSeance": 130874,
     "idEvenement": 30426,
-    "dateHeure": "2024-06-22T14:30:00",
+    "dateHeure": "2024-06-22T15:00:00",
     "salle": "HL",
     "cycle": [
       [
         "Olivier Assayas",
         "Les films"
-      ],
-      [
-        "Olivier Assayas",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1819,7 +1815,22 @@
         "realisateurs": "Olivier Assayas",
         "annee": 2011,
         "duree": 122
-      },
+      }
+    ],
+    "hashEvenement": "f117618"
+  },
+  {
+    "idSeance": 130686,
+    "idEvenement": 30570,
+    "dateHeure": "2024-06-22T16:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Olivier Assayas",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
       {
         "idConf": 30570,
         "titre": "Dialogue avec Olivier Assayas",
@@ -1827,31 +1838,31 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "f117618c30570"
+    "hashEvenement": "c30570"
   },
   {
-    "idSeance": 133542,
-    "idEvenement": 30617,
-    "dateHeure": "2024-06-22T15:00:00",
-    "salle": "GF",
+    "idSeance": 130739,
+    "idEvenement": 30494,
+    "dateHeure": "2024-06-22T17:30:00",
+    "salle": "HL",
     "cycle": [
       [
-        "Mike Nichols",
+        "Richard Quine",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 29232,
-        "titre": "Primary Colors",
-        "realisateurs": "Mike Nichols",
-        "annee": 1998,
-        "duree": 143,
-        "version": "VO",
+        "idFilm": 35960,
+        "titre": "Une Cadillac en or massif",
+        "realisateurs": "Richard Quine",
+        "annee": 1955,
+        "duree": 99,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f29232"
+    "hashEvenement": "f35960"
   },
   {
     "idSeance": 129558,
@@ -1876,9 +1887,9 @@
     "hashEvenement": "f51847"
   },
   {
-    "idSeance": 130739,
-    "idEvenement": 30494,
-    "dateHeure": "2024-06-22T18:30:00",
+    "idSeance": 130740,
+    "idEvenement": 30499,
+    "dateHeure": "2024-06-22T19:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1888,16 +1899,17 @@
     ],
     "items": [
       {
-        "idFilm": 35960,
-        "titre": "Une Cadillac en or massif",
+        "idFilm": 35440,
+        "titre": "Destin est au tournant",
+        "art": "Le",
         "realisateurs": "Richard Quine",
-        "annee": 1955,
-        "duree": 99,
+        "annee": 1953,
+        "duree": 83,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35960"
+    "hashEvenement": "f35440"
   },
   {
     "idSeance": 130675,
@@ -1922,31 +1934,6 @@
       }
     ],
     "hashEvenement": "f51846"
-  },
-  {
-    "idSeance": 130740,
-    "idEvenement": 30499,
-    "dateHeure": "2024-06-22T20:45:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Richard Quine",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35440,
-        "titre": "Destin est au tournant",
-        "art": "Le",
-        "realisateurs": "Richard Quine",
-        "annee": 1953,
-        "duree": 83,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f35440"
   },
   {
     "idSeance": 130665,
