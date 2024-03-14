@@ -1,3 +1,5 @@
+> Un quart de siècle après la mémorable restauration de Kevin Brownlow, et au terme de quinze années d'une aventure collective sans précédent dans l'histoire de la Cinémathèque française, le public est invité à venir juger sur pièce un film que nul n'a jamais vu depuis sa création en mai 1927 : la « grande version » (dite aussi version « Apollo ») d'une durée de 7 heures, et dotée d'un accompagnement musical inédit dû au talent de Simon Cloquet-Lafollye et des musiciens des orchestres de Radio France.
+
 # Le Napoléon d'Abel Gance, un célèbre inconnu ?
 
 « Il ne s'agit pas ici de morale, ni de politique, mais d'art. » (Abel Gance)
@@ -16,4 +18,4 @@ Paroxysmes ou apothéoses, les triptyques valurent au film son triomphe à l'Op�
 
 Concluant la « proclamation » qu'il adressait le 4 juin 1924 à tous ses collaborateurs présents et futurs, Abel Gance concluait : « Au public de nous dire aujourd'hui si le but a été atteint. » Nous ne saurions mieux dire !
 
-Joël Daire
+<div class="author">Joël Daire</div>
