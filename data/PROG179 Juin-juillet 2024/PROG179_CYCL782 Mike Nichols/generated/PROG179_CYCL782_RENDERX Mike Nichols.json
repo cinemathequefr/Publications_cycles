@@ -33,8 +33,8 @@
           ],
           "seances": [
             {
-              "idSeance": 130845,
-              "dateHeure": "2024-06-08T20:00:00",
+              "idSeance": 133556,
+              "dateHeure": "2024-06-09T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -235,7 +235,7 @@
           "seances": [
             {
               "idSeance": 130792,
-              "dateHeure": "2024-06-08T17:45:00",
+              "dateHeure": "2024-06-08T19:30:00",
               "idSalle": "GF"
             }
           ]
@@ -309,38 +309,58 @@
           ]
         },
         {
-          "idFilm": 35443,
-          "content": [
+          "groupe": [
             {
               "idFilm": 35443,
-              "ordre": 1,
-              "titre": "Ce plaisir qu'on dit charnel",
-              "titreVo": "Carnal Knowledge",
-              "realisateurs": "Mike Nichols",
-              "pays": "États-Unis",
-              "annee": 1971,
-              "duree": 105,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Jack Nicholson",
-                "Art Garfunkel",
-                "Ann-Margret"
-              ],
-              "isFocus": true,
-              "miniTexte": "La quête amoureuse de deux amis, depuis la faculté jusqu'à l'âge mûr. Sur plus de vingt ans, Nichols suit deux hommes obsédés par leurs conquêtes – le duo Nicholson/Garfunkel, au diapason –, bientôt engloutis sous le poids de la désillusion. À travers leur parcours, il signe un portrait impitoyable du mâle américain, qui donne à ressentir le temps qui passe et les conséquences d'une vie sans amour. Efficace et précise, sa mise en scène sonne juste de bout en bout, soutenue par une interprétation d'une vérité impressionnante (avec, à la clé, une nomination à l'Oscar pour Ann-Margret)."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133554,
-              "dateHeure": "2024-06-08T15:00:00",
-              "idSalle": "GF"
+              "content": [
+                {
+                  "idFilm": 35443,
+                  "ordre": 1,
+                  "titre": "Ce plaisir qu'on dit charnel",
+                  "titreVo": "Carnal Knowledge",
+                  "realisateurs": "Mike Nichols",
+                  "pays": "États-Unis",
+                  "annee": 1971,
+                  "duree": 105,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Jack Nicholson",
+                    "Art Garfunkel",
+                    "Ann-Margret"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "La quête amoureuse de deux amis, depuis la faculté jusqu'à l'âge mûr. Sur plus de vingt ans, Nichols suit deux hommes obsédés par leurs conquêtes – le duo Nicholson/Garfunkel, au diapason –, bientôt engloutis sous le poids de la désillusion. À travers leur parcours, il signe un portrait impitoyable du mâle américain, qui donne à ressentir le temps qui passe et les conséquences d'une vie sans amour. Efficace et précise, sa mise en scène sonne juste de bout en bout, soutenue par une interprétation d'une vérité impressionnante (avec, à la clé, une nomination à l'Oscar pour Ann-Margret)."
+                }
+              ]
             },
             {
-              "idSeance": 129288,
-              "dateHeure": "2024-06-13T19:30:00",
-              "idSalle": "JE"
+              "idEvenement": 30674,
+              "content": [
+                {
+                  "idConf": 30674,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Léo Soesanto",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Jean-François Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133554,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-06-08T15:00:00",
+                  "idSalle": "GF",
+                  "idSeanceAssoc": 133554,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 129288,
+                  "dateHeure": "2024-06-13T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -732,37 +752,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30674,
-          "content": [
-            {
-              "idConf": 30674,
-              "titre": "Dialogue avec Léo Soesanto",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Jean-François Rauger"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 130914,
-              "dateHeure": "2024-06-08T17:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogues": [
       {
+        "titreFilms": "Ce plaisir qu'on dit charnel",
         "mention": "avec Léo Soesanto",
-        "dateHeure": "2024-06-08T17:00:00"
+        "dateHeure": "2024-06-08T15:00:00"
       },
       {
         "titreFilms": "Angels in America : Perestroika",

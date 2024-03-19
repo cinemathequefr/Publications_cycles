@@ -237,6 +237,7 @@
       "Georges Franju"
     ],
     "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 35443,
@@ -253,15 +254,18 @@
     "idCategorie": 3365,
     "typeEvenement": 14,
     "idEvenement": 30674,
-    "idSeance": 130914,
-    "dateHeure": "2024-06-08T17:00:00",
+    "idSeance": 133554,
+    "dateHeure": "2024-06-08T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 60,
+    "dureeSeance": 75,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -269,7 +273,7 @@
     "typeEvenement": 13,
     "idEvenement": 30605,
     "idSeance": 130792,
-    "dateHeure": "2024-06-08T17:45:00",
+    "dateHeure": "2024-06-08T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -284,29 +288,6 @@
         "duree": 101,
         "version": "VOSTF",
         "format": ""
-      }
-    ]
-  },
-  {
-    "idCategorie": 3350,
-    "typeEvenement": 13,
-    "idEvenement": 30601,
-    "idSeance": 130845,
-    "dateHeure": "2024-06-08T20:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 35339,
-        "ordre": 1,
-        "idSeance": 130845,
-        "idCopie": 27792,
-        "duree": 107,
-        "version": "VOSTF",
-        "format": "35 mm"
       }
     ]
   },
@@ -351,6 +332,29 @@
         "idSeance": 130793,
         "idCopie": 27796,
         "duree": 125,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3350,
+    "typeEvenement": 13,
+    "idEvenement": 30601,
+    "idSeance": 133556,
+    "dateHeure": "2024-06-09T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 35339,
+        "ordre": 1,
+        "idSeance": 133556,
+        "idCopie": 27792,
+        "duree": 107,
         "version": "VOSTF",
         "format": "35 mm"
       }
