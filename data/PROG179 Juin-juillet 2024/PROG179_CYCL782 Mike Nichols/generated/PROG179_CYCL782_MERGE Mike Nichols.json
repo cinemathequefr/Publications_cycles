@@ -46,6 +46,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 195,
+          "typeAssoc": 118,
           "idCategorie": 3350,
           "idEvenement": 30688,
           "typeEvenement": 13,
@@ -136,7 +137,7 @@
         {
           "idSeance": 130908,
           "ordre": 1,
-          "dateHeure": "2024-06-14T18:30:00",
+          "dateHeure": "2024-06-14T18:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -171,7 +172,7 @@
         {
           "idSeance": 130792,
           "ordre": 1,
-          "dateHeure": "2024-06-08T17:45:00",
+          "dateHeure": "2024-06-08T19:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -304,14 +305,15 @@
           ]
         },
         {
-          "idSeance": 130782,
+          "idSeance": 133554,
           "ordre": 1,
-          "dateHeure": "2024-05-30T20:30:00",
+          "dateHeure": "2024-06-08T15:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3350,
           "idEvenement": 30608,
           "typeEvenement": 13,
@@ -481,7 +483,7 @@
           "annee": 2007,
           "pays": "États-Unis",
           "duree": 97,
-          "version": "",
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "Tom Hanks",
@@ -712,7 +714,7 @@
         {
           "idSeance": 130909,
           "ordre": 1,
-          "dateHeure": "2024-06-14T20:30:00",
+          "dateHeure": "2024-06-14T20:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -727,7 +729,40 @@
           "annee": 1998,
           "pays": "États-Unis-Grande-Bretagne-Japon-Allemagne",
           "duree": 143,
-          "version": "VO",
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "John Travolta",
+            "Emma Thompson",
+            "Billy Bob Thornton"
+          ],
+          "adaptation": "D'après le roman _Primary Colors_ de Joe Klein.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Lancé dans la course à la Maison-Blanche, un gouverneur est rattrapé par son passé de coureur de jupons. Inspiré des déboires de Bill Clinton, _Primary Colors_ explore le double jeu des hommes politiques dans une satire virulente, à la fois documentée et réaliste, emmenée par le duo Travolta/Thompson, troublants de mimétisme."
+            }
+          ]
+        },
+        {
+          "idSeance": 133542,
+          "ordre": 1,
+          "dateHeure": "2024-06-22T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 180,
+          "idCategorie": 3350,
+          "idEvenement": 30617,
+          "typeEvenement": 13,
+          "idFilm": 29232,
+          "titre": "Primary Colors",
+          "realisateurs": "Mike Nichols",
+          "annee": 1998,
+          "pays": "États-Unis-Grande-Bretagne-Japon-Allemagne",
+          "duree": 143,
+          "version": "VOSTF",
           "format": "35 mm",
           "generique": [
             "John Travolta",
@@ -843,9 +878,9 @@
           ]
         },
         {
-          "idSeance": 130791,
+          "idSeance": 133555,
           "ordre": 1,
-          "dateHeure": "2024-06-08T15:00:00",
+          "dateHeure": "2024-05-30T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -859,9 +894,9 @@
           "realisateurs": "Mike Nichols",
           "annee": 1988,
           "pays": "États-Unis",
-          "duree": 116,
-          "version": "VO",
-          "format": "DCP",
+          "duree": 113,
+          "version": "VOSTF",
+          "format": "35 mm",
           "generique": [
             "Melanie Griffith",
             "Sigourney Weaver",
@@ -875,9 +910,9 @@
           ]
         },
         {
-          "idSeance": 130845,
+          "idSeance": 133556,
           "ordre": 1,
-          "dateHeure": "2024-06-08T20:00:00",
+          "dateHeure": "2024-06-09T20:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -915,38 +950,72 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 130919,
-          "dateHeure": "2024-06-16T20:00:00",
+          "idSeance": 130928,
+          "ordre": 2,
+          "dateHeure": "2024-06-16T17:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "dureeSeance": 75,
+          "typeAssoc": 118,
           "idCategorie": 3365,
           "idEvenement": 30675,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Angels in America (Perestroika) + Dialogue avec Arnaud Desplechin ?",
+          "titre": "Dialogue avec Arnaud Desplechin",
           "duree": 60,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Arnaud Desplechin",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Isaac Gaido-Daniel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Isaac Gaido-Daniel"
         },
         {
-          "idSeance": 130914,
-          "dateHeure": "2024-06-09T19:30:00",
+          "idSeance": 133554,
+          "ordre": 2,
+          "dateHeure": "2024-06-08T15:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
-          "dureeSeance": 60,
+          "dureeSeance": 75,
+          "typeAssoc": 118,
           "idCategorie": 3365,
           "idEvenement": 30674,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Dialogue avec Léo Soesanto ?",
+          "titre": "Dialogue avec Léo Soesanto",
           "duree": 60,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Léo Soesanto",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Jean-François Rauger",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Jean-François Rauger"
         }
       ],
       "textes": []

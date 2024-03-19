@@ -1,5 +1,22 @@
 # Liste des films par cycle
 
+## Aujourd'hui le cinéma (14)
+
+  * Another Town  
+  * Chat mort  
+  * Cut and Paste  
+  * Dinosauria, We  
+  * Été 2000  
+  * Faire un enfant  
+  * Meutes (Les)  
+  * Mint Condition  
+  * Songe de Joseph (Le)  
+  * Talk to Me  
+  * Un trou dans la poitrine  
+  * Une femme à la mer  
+  * Une nuit particulière  
+  * Youthful Days
+
 ## Ciné-club de Frédéric Bonnaud (1)
 
   * Fille à la valise (La)
@@ -8,7 +25,7 @@
 
   * Ajoncs (Les)  
   * Ben et Bénédict  
-  * Bougnoul : Bande annonce (Le)  
+  * Bougnoul (bande-annonce) (Le)  
   * Bougnoul (Le)  
   * Dérive (La)  
   * Trois cousins (Les)  
@@ -108,6 +125,11 @@
   * Wolf  
   * Working Girl
 
+## Napoléon vu par Abel Gance (2)
+
+  * Napoléon vu par Abel Gance (partie 1)  
+  * Napoléon vu par Abel Gance (partie 2)
+
 ## Olivier Assayas (30)
 
   * Après mai  
@@ -194,11 +216,9 @@
   * Wanda  
   * Wild Boys of the Road
 
-## Séances spéciales (3)
+## Séances spéciales (1)
 
-  * Frente a Guernica  
-  * Napoléon vu par Abel Gance – Partie 1  
-  * Napoléon vu par Abel Gance – Partie 2
+  * Frente a Guernica
 
 ## Valerio Zurlini (7)
 

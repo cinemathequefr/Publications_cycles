@@ -99,8 +99,8 @@
     "hashEvenement": "f43799"
   },
   {
-    "idSeance": 130782,
-    "idEvenement": 30608,
+    "idSeance": 133555,
+    "idEvenement": 30618,
     "dateHeure": "2024-05-30T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -111,16 +111,16 @@
     ],
     "items": [
       {
-        "idFilm": 35443,
-        "titre": "Ce plaisir qu'on dit charnel",
+        "idFilm": 35474,
+        "titre": "Working Girl",
         "realisateurs": "Mike Nichols",
-        "annee": 1971,
-        "duree": 105,
+        "annee": 1988,
+        "duree": 113,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35443"
+    "hashEvenement": "f35474"
   },
   {
     "idSeance": 130906,
@@ -167,7 +167,7 @@
         "titre": "Journal intime",
         "realisateurs": "Valerio Zurlini",
         "annee": 1962,
-        "duree": 105,
+        "duree": 113,
         "version": "VOSTF",
         "format": "35 mm"
       },
@@ -474,6 +474,61 @@
     "hashEvenement": "f69553"
   },
   {
+    "idSeance": 130916,
+    "idEvenement": 30699,
+    "dateHeure": "2024-06-03T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Panorama du court métrage canadien"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154823,
+        "titre": "Été 2000",
+        "realisateurs": "Virginie Nolin, Laurence Olivier",
+        "annee": 2023,
+        "duree": 20,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154819,
+        "titre": "Chat mort",
+        "realisateurs": "Annie-Claude Caron, Danick Audet",
+        "annee": 2023,
+        "duree": 12,
+        "format": "8 mm"
+      },
+      {
+        "idFilm": 154820,
+        "titre": "Dinosauria, We",
+        "realisateurs": "Maxime-Claude Lecuyer",
+        "annee": 2023,
+        "duree": 5,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154821,
+        "titre": "Faire un enfant",
+        "realisateurs": "Éric K. Boulianne",
+        "annee": 2023,
+        "duree": 19,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154822,
+        "titre": "Un trou dans la poitrine",
+        "realisateurs": "Alexandra Myotte, Jean-Sébastien Hamel",
+        "annee": 2023,
+        "duree": 11,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154823f154819f154820f154821f154822"
+  },
+  {
     "idSeance": 129024,
     "idEvenement": 30676,
     "dateHeure": "2024-06-03T20:00:00",
@@ -619,7 +674,7 @@
         "titre": "Bougnoul",
         "art": "Le",
         "realisateurs": "Daniel Moosmann",
-        "annee": 1974,
+        "annee": 1975,
         "duree": 102,
         "format": "35 mm"
       }
@@ -666,10 +721,10 @@
     "items": [
       {
         "idFilm": 154771,
-        "titre": "Bougnoul : Bande annonce",
+        "titre": "Bougnoul (bande-annonce)",
         "art": "Le",
-        "realisateurs": "Anonyme",
-        "annee": 1974,
+        "realisateurs": "Daniel Moosmann",
+        "annee": 1975,
         "duree": 4,
         "format": "35 mm"
       },
@@ -678,7 +733,7 @@
         "titre": "Trois cousins",
         "art": "Les",
         "realisateurs": "René Vautier",
-        "annee": 1968,
+        "annee": 1970,
         "duree": 21,
         "format": "35 mm"
       },
@@ -687,7 +742,7 @@
         "titre": "Ajoncs",
         "art": "Les",
         "realisateurs": "René Vautier",
-        "annee": 1968,
+        "annee": 1970,
         "duree": 13,
         "format": "35 mm"
       },
@@ -727,51 +782,38 @@
     "hashEvenement": "f30809"
   },
   {
-    "idSeance": 130791,
-    "idEvenement": 30618,
+    "idSeance": 133554,
+    "idEvenement": 30608,
     "dateHeure": "2024-06-08T15:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Mike Nichols",
         "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35474,
-        "titre": "Working Girl",
-        "realisateurs": "Mike Nichols",
-        "annee": 1988,
-        "duree": 116,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f35474"
-  },
-  {
-    "idSeance": 130792,
-    "idEvenement": 30605,
-    "dateHeure": "2024-06-08T17:45:00",
-    "salle": "GF",
-    "cycle": [
+      ],
       [
         "Mike Nichols",
-        "Les films"
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 35411,
-        "titre": "Bons baisers d'Hollywood",
+        "idFilm": 35443,
+        "titre": "Ce plaisir qu'on dit charnel",
         "realisateurs": "Mike Nichols",
-        "annee": 1990,
-        "duree": 101,
-        "version": "VOSTF"
+        "annee": 1971,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idConf": 30674,
+        "titre": "Dialogue avec Léo Soesanto",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f35411"
+    "hashEvenement": "f35443c30674"
   },
   {
     "idSeance": 130835,
@@ -790,7 +832,7 @@
         "titre": "Journal intime",
         "realisateurs": "Valerio Zurlini",
         "annee": 1962,
-        "duree": 105,
+        "duree": 113,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -798,9 +840,9 @@
     "hashEvenement": "f43787"
   },
   {
-    "idSeance": 130845,
-    "idEvenement": 30601,
-    "dateHeure": "2024-06-08T20:00:00",
+    "idSeance": 130792,
+    "idEvenement": 30605,
+    "dateHeure": "2024-06-08T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -810,16 +852,15 @@
     ],
     "items": [
       {
-        "idFilm": 35339,
-        "titre": "À propos d'Henry",
+        "idFilm": 35411,
+        "titre": "Bons baisers d'Hollywood",
         "realisateurs": "Mike Nichols",
-        "annee": 1991,
-        "duree": 107,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "annee": 1990,
+        "duree": 101,
+        "version": "VOSTF"
       }
     ],
-    "hashEvenement": "f35339"
+    "hashEvenement": "f35411"
   },
   {
     "idSeance": 129202,
@@ -919,25 +960,28 @@
     "hashEvenement": "f61817"
   },
   {
-    "idSeance": 130914,
-    "idEvenement": 30674,
-    "dateHeure": "2024-06-09T19:30:00",
+    "idSeance": 133556,
+    "idEvenement": 30601,
+    "dateHeure": "2024-06-09T20:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Mike Nichols",
-        "Rencontres et conférences"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idConf": 30674,
-        "titre": "Dialogue avec Léo Soesanto ?",
-        "typeConference": "Dialogue",
-        "duree": 60
+        "idFilm": 35339,
+        "titre": "À propos d'Henry",
+        "realisateurs": "Mike Nichols",
+        "annee": 1991,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "c30674"
+    "hashEvenement": "f35339"
   },
   {
     "idSeance": 130795,
@@ -958,6 +1002,7 @@
         "realisateurs": "Mike Nichols",
         "annee": 2007,
         "duree": 97,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -1088,7 +1133,7 @@
   {
     "idSeance": 130908,
     "idEvenement": 30604,
-    "dateHeure": "2024-06-14T18:30:00",
+    "dateHeure": "2024-06-14T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1109,30 +1154,6 @@
       }
     ],
     "hashEvenement": "f35453"
-  },
-  {
-    "idSeance": 130631,
-    "idEvenement": 29891,
-    "dateHeure": "2024-06-14T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "James Cameron",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 29089,
-        "titre": "Titanic",
-        "realisateurs": "James Cameron",
-        "annee": 1997,
-        "duree": 194,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f29089"
   },
   {
     "idSeance": 129330,
@@ -1161,7 +1182,7 @@
   {
     "idSeance": 130909,
     "idEvenement": 30617,
-    "dateHeure": "2024-06-14T20:30:00",
+    "dateHeure": "2024-06-14T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1176,11 +1197,35 @@
         "realisateurs": "Mike Nichols",
         "annee": 1998,
         "duree": 143,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
     "hashEvenement": "f29232"
+  },
+  {
+    "idSeance": 130631,
+    "idEvenement": 29891,
+    "dateHeure": "2024-06-14T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "James Cameron",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29089,
+        "titre": "Titanic",
+        "realisateurs": "James Cameron",
+        "annee": 1997,
+        "duree": 194,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f29089"
   },
   {
     "idSeance": 130813,
@@ -1394,6 +1439,10 @@
       [
         "Mike Nichols",
         "Les films"
+      ],
+      [
+        "Mike Nichols",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1404,9 +1453,15 @@
         "annee": 2003,
         "duree": 160,
         "format": "Numérique"
+      },
+      {
+        "idConf": 30675,
+        "titre": "Dialogue avec Arnaud Desplechin",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f154807"
+    "hashEvenement": "f154807c30675"
   },
   {
     "idSeance": 130633,
@@ -1431,27 +1486,6 @@
       }
     ],
     "hashEvenement": "f35445"
-  },
-  {
-    "idSeance": 130919,
-    "idEvenement": 30675,
-    "dateHeure": "2024-06-16T20:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Mike Nichols",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 30675,
-        "titre": "Angels in America (Perestroika) + Dialogue avec Arnaud Desplechin ?",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c30675"
   },
   {
     "idSeance": 129385,
@@ -1524,6 +1558,30 @@
       }
     ],
     "hashEvenement": "f73134"
+  },
+  {
+    "idSeance": 130926,
+    "idEvenement": 30658,
+    "dateHeure": "2024-06-17T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Fondation Gan pour le cinéma"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154814,
+        "titre": "Meutes",
+        "art": "Les",
+        "realisateurs": "Kamal Lazraq",
+        "annee": 2023,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154814"
   },
   {
     "idSeance": 129396,
@@ -1671,7 +1729,9 @@
         "titre": "Train, amour et crustacés",
         "realisateurs": "Richard Quine",
         "annee": 1959,
-        "duree": 97
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f35705"
@@ -1742,8 +1802,8 @@
         "titre": "Sunny Side of the Street",
         "realisateurs": "Richard Quine",
         "annee": 1951,
-        "duree": 70,
-        "version": "VO",
+        "duree": 65,
+        "version": "VOSTF",
         "format": "16 mm"
       }
     ],
@@ -1791,7 +1851,7 @@
         "realisateurs": "Richard Quine",
         "annee": 1974,
         "duree": 95,
-        "version": "VOAutres",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -1800,31 +1860,13 @@
   {
     "idSeance": 130874,
     "idEvenement": 30426,
-    "dateHeure": "2024-06-22T15:00:00",
+    "dateHeure": "2024-06-22T14:30:00",
     "salle": "HL",
     "cycle": [
       [
         "Olivier Assayas",
         "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 117618,
-        "titre": "Après mai",
-        "realisateurs": "Olivier Assayas",
-        "annee": 2011,
-        "duree": 122
-      }
-    ],
-    "hashEvenement": "f117618"
-  },
-  {
-    "idSeance": 130686,
-    "idEvenement": 30570,
-    "dateHeure": "2024-06-22T16:30:00",
-    "salle": "HL",
-    "cycle": [
+      ],
       [
         "Olivier Assayas",
         "Rencontres et conférences"
@@ -1832,37 +1874,44 @@
     ],
     "items": [
       {
+        "idFilm": 117618,
+        "titre": "Après mai",
+        "realisateurs": "Olivier Assayas",
+        "annee": 2012,
+        "duree": 122
+      },
+      {
         "idConf": 30570,
         "titre": "Dialogue avec Olivier Assayas",
         "typeConference": "Dialogue",
         "duree": 60
       }
     ],
-    "hashEvenement": "c30570"
+    "hashEvenement": "f117618c30570"
   },
   {
-    "idSeance": 130739,
-    "idEvenement": 30494,
-    "dateHeure": "2024-06-22T17:30:00",
-    "salle": "HL",
+    "idSeance": 133542,
+    "idEvenement": 30617,
+    "dateHeure": "2024-06-22T15:00:00",
+    "salle": "GF",
     "cycle": [
       [
-        "Richard Quine",
+        "Mike Nichols",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 35960,
-        "titre": "Une Cadillac en or massif",
-        "realisateurs": "Richard Quine",
-        "annee": 1955,
-        "duree": 99,
+        "idFilm": 29232,
+        "titre": "Primary Colors",
+        "realisateurs": "Mike Nichols",
+        "annee": 1998,
+        "duree": 143,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35960"
+    "hashEvenement": "f29232"
   },
   {
     "idSeance": 129558,
@@ -1887,9 +1936,9 @@
     "hashEvenement": "f51847"
   },
   {
-    "idSeance": 130740,
-    "idEvenement": 30499,
-    "dateHeure": "2024-06-22T19:45:00",
+    "idSeance": 130739,
+    "idEvenement": 30494,
+    "dateHeure": "2024-06-22T18:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1899,17 +1948,16 @@
     ],
     "items": [
       {
-        "idFilm": 35440,
-        "titre": "Destin est au tournant",
-        "art": "Le",
+        "idFilm": 35960,
+        "titre": "Une Cadillac en or massif",
         "realisateurs": "Richard Quine",
-        "annee": 1953,
-        "duree": 83,
+        "annee": 1955,
+        "duree": 99,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35440"
+    "hashEvenement": "f35960"
   },
   {
     "idSeance": 130675,
@@ -1936,6 +1984,31 @@
     "hashEvenement": "f51846"
   },
   {
+    "idSeance": 130740,
+    "idEvenement": 30499,
+    "dateHeure": "2024-06-22T20:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Richard Quine",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35440,
+        "titre": "Destin est au tournant",
+        "art": "Le",
+        "realisateurs": "Richard Quine",
+        "annee": 1953,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35440"
+  },
+  {
     "idSeance": 130665,
     "idEvenement": 30569,
     "dateHeure": "2024-06-23T14:30:00",
@@ -1949,7 +2022,7 @@
     "items": [
       {
         "idConf": 30569,
-        "titre": "Olivier Assayas par Olivier Assayas, une leçon de cinéma",
+        "titre": "Assayas par Assayas : dialogue autour de 4 extraits choisis",
         "typeConference": "Leçon de cinéma",
         "duree": 60
       }
@@ -2118,7 +2191,7 @@
         "titre": "Destinées sentimentales",
         "art": "Les",
         "realisateurs": "Olivier Assayas",
-        "annee": 1999,
+        "annee": 2000,
         "duree": 180,
         "format": "35 mm"
       }
@@ -2141,11 +2214,60 @@
         "idFilm": 79061,
         "titre": "Demonlover",
         "realisateurs": "Olivier Assayas",
-        "annee": 2001,
+        "annee": 2002,
         "duree": 130
       }
     ],
     "hashEvenement": "f79061"
+  },
+  {
+    "idSeance": 130873,
+    "idEvenement": 30659,
+    "dateHeure": "2024-06-24T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Repérages 2024 : Nouveaux talents"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154815,
+        "titre": "Une nuit particulière",
+        "realisateurs": "Enzo Martinez",
+        "annee": 2023,
+        "duree": 27,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154818,
+        "titre": "Talk to Me",
+        "realisateurs": "Ribal Chedid",
+        "annee": 2022,
+        "duree": 21,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154817,
+        "titre": "Une femme à la mer",
+        "realisateurs": "Céline Baril",
+        "annee": 2022,
+        "duree": 33,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154816,
+        "titre": "Songe de Joseph",
+        "art": "Le",
+        "realisateurs": "François Hebert",
+        "annee": 2023,
+        "duree": 23,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154815f154818f154817f154816"
   },
   {
     "idSeance": 130689,
@@ -2163,7 +2285,7 @@
         "idFilm": 102024,
         "titre": "Boarding Gate",
         "realisateurs": "Olivier Assayas",
-        "annee": 2006,
+        "annee": 2007,
         "duree": 105,
         "version": "VOSTF",
         "format": "35 mm"
@@ -2172,8 +2294,8 @@
     "hashEvenement": "f102024"
   },
   {
-    "idSeance": 130903,
-    "idEvenement": 30493,
+    "idSeance": 133544,
+    "idEvenement": 30478,
     "dateHeure": "2024-06-26T17:30:00",
     "salle": "HL",
     "cycle": [
@@ -2184,16 +2306,17 @@
     ],
     "items": [
       {
-        "idFilm": 42112,
-        "titre": "Pleine de vie",
+        "idFilm": 35600,
+        "titre": "Prisonnier de Zenda",
+        "art": "Le",
         "realisateurs": "Richard Quine",
-        "annee": 1956,
-        "duree": 90,
+        "annee": 1979,
+        "duree": 108,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f42112"
+    "hashEvenement": "f35600"
   },
   {
     "idSeance": 130875,
@@ -2451,7 +2574,7 @@
         "idFilm": 111190,
         "titre": "Carlos",
         "realisateurs": "Olivier Assayas",
-        "annee": 2009,
+        "annee": 2010,
         "duree": 330,
         "version": "VOSTF",
         "format": "DCP"
@@ -2812,8 +2935,8 @@
     "hashEvenement": "f154086f154087f154088f154089"
   },
   {
-    "idSeance": 130775,
-    "idEvenement": 30478,
+    "idSeance": 133545,
+    "idEvenement": 30493,
     "dateHeure": "2024-06-30T20:00:00",
     "salle": "GF",
     "cycle": [
@@ -2824,17 +2947,16 @@
     ],
     "items": [
       {
-        "idFilm": 35600,
-        "titre": "Prisonnier de Zenda",
-        "art": "Le",
+        "idFilm": 42112,
+        "titre": "Pleine de vie",
         "realisateurs": "Richard Quine",
-        "annee": 1979,
-        "duree": 108,
-        "version": "VO",
+        "annee": 1956,
+        "duree": 90,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35600"
+    "hashEvenement": "f42112"
   },
   {
     "idSeance": 130888,
@@ -2877,9 +2999,9 @@
         "titre": "Une histoire vraie",
         "realisateurs": "David Lynch",
         "annee": 1999,
-        "duree": 111,
+        "duree": 112,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f64318"
@@ -2906,6 +3028,58 @@
       }
     ],
     "hashEvenement": "f103544"
+  },
+  {
+    "idSeance": 133552,
+    "idEvenement": 30693,
+    "dateHeure": "2024-07-01T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Festival du court métrage de Busan 2024"
+      ]
+    ],
+    "mention": "Séance présentée par Sanghoon Lee",
+    "items": [
+      {
+        "idFilm": 154808,
+        "titre": "Another Town",
+        "realisateurs": "Dongki Yoon",
+        "annee": 2022,
+        "duree": 28,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154809,
+        "titre": "Mint Condition",
+        "realisateurs": "Solbeen Yoon",
+        "annee": 2022,
+        "duree": 19,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154812,
+        "titre": "Youthful Days",
+        "realisateurs": "Nakyung Lee",
+        "annee": 2022,
+        "duree": 17,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154810,
+        "titre": "Cut and Paste",
+        "realisateurs": "Hyojun Kim",
+        "annee": 2022,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154808f154809f154812f154810"
   },
   {
     "idSeance": 130764,
@@ -3230,7 +3404,7 @@
         "titre": "Dérive",
         "art": "La",
         "realisateurs": "Paula Delsol",
-        "annee": 1961
+        "annee": 1964
       }
     ],
     "hashEvenement": "f57541"
@@ -3252,7 +3426,7 @@
         "idFilm": 55462,
         "titre": "Ben et Bénédict",
         "realisateurs": "Paula Delsol",
-        "annee": 1976,
+        "annee": 1977,
         "duree": 96,
         "format": "35 mm"
       }
@@ -3318,20 +3492,20 @@
     "hashEvenement": "f154794c30574"
   },
   {
-    "idSeance": 130920,
-    "idEvenement": 30629,
+    "idSeance": 133546,
+    "idEvenement": 30690,
     "dateHeure": "2024-07-06T15:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Séances spéciales",
-        "Napoléon, vu par Abel Gance"
+        "Napoléon vu par Abel Gance",
+        "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 154798,
-        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "titre": "Napoléon vu par Abel Gance (partie 1)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 220,
@@ -3339,7 +3513,7 @@
       },
       {
         "idFilm": 154797,
-        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "titre": "Napoléon vu par Abel Gance (partie 2)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 205,
@@ -3444,20 +3618,20 @@
     "hashEvenement": "f84713"
   },
   {
-    "idSeance": 130921,
-    "idEvenement": 30629,
+    "idSeance": 133547,
+    "idEvenement": 30690,
     "dateHeure": "2024-07-07T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Séances spéciales",
-        "Napoléon, vu par Abel Gance"
+        "Napoléon vu par Abel Gance",
+        "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 154798,
-        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "titre": "Napoléon vu par Abel Gance (partie 1)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 220,
@@ -3465,7 +3639,7 @@
       },
       {
         "idFilm": 154797,
-        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "titre": "Napoléon vu par Abel Gance (partie 2)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 205,
@@ -3982,20 +4156,20 @@
     "hashEvenement": "f59914"
   },
   {
-    "idSeance": 130922,
-    "idEvenement": 30629,
+    "idSeance": 133548,
+    "idEvenement": 30690,
     "dateHeure": "2024-07-13T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Séances spéciales",
-        "Napoléon, vu par Abel Gance"
+        "Napoléon vu par Abel Gance",
+        "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 154798,
-        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "titre": "Napoléon vu par Abel Gance (partie 1)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 220,
@@ -4003,7 +4177,7 @@
       },
       {
         "idFilm": 154797,
-        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "titre": "Napoléon vu par Abel Gance (partie 2)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 205,
@@ -4106,20 +4280,20 @@
     "hashEvenement": "c30575"
   },
   {
-    "idSeance": 130923,
-    "idEvenement": 30629,
+    "idSeance": 133549,
+    "idEvenement": 30690,
     "dateHeure": "2024-07-14T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Séances spéciales",
-        "Napoléon, vu par Abel Gance"
+        "Napoléon vu par Abel Gance",
+        "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 154798,
-        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "titre": "Napoléon vu par Abel Gance (partie 1)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 220,
@@ -4127,7 +4301,7 @@
       },
       {
         "idFilm": 154797,
-        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "titre": "Napoléon vu par Abel Gance (partie 2)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 205,
@@ -4603,20 +4777,20 @@
     "hashEvenement": "f50509"
   },
   {
-    "idSeance": 130924,
-    "idEvenement": 30629,
+    "idSeance": 133550,
+    "idEvenement": 30690,
     "dateHeure": "2024-07-20T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Séances spéciales",
-        "Napoléon, vu par Abel Gance"
+        "Napoléon vu par Abel Gance",
+        "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 154798,
-        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "titre": "Napoléon vu par Abel Gance (partie 1)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 220,
@@ -4624,7 +4798,7 @@
       },
       {
         "idFilm": 154797,
-        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "titre": "Napoléon vu par Abel Gance (partie 2)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 205,
@@ -4704,20 +4878,20 @@
     "hashEvenement": "f154792"
   },
   {
-    "idSeance": 130925,
-    "idEvenement": 30629,
+    "idSeance": 133551,
+    "idEvenement": 30690,
     "dateHeure": "2024-07-21T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Séances spéciales",
-        "Napoléon, vu par Abel Gance"
+        "Napoléon vu par Abel Gance",
+        "Les films"
       ]
     ],
     "items": [
       {
         "idFilm": 154798,
-        "titre": "Napoléon vu par Abel Gance – Partie 1",
+        "titre": "Napoléon vu par Abel Gance (partie 1)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 220,
@@ -4725,7 +4899,7 @@
       },
       {
         "idFilm": 154797,
-        "titre": "Napoléon vu par Abel Gance – Partie 2",
+        "titre": "Napoléon vu par Abel Gance (partie 2)",
         "realisateurs": "Abel Gance",
         "annee": 1927,
         "duree": 205,
