@@ -1,11 +1,20 @@
 # Liste des films par cycle
 
-## Aujourd'hui le cinéma (5)
+## Aujourd'hui le cinéma (14)
 
   * Another Town  
+  * Chat mort  
   * Cut and Paste  
+  * Dinosauria, We  
+  * Été 2000  
+  * Faire un enfant  
   * Meutes (Les)  
   * Mint Condition  
+  * Songe de Joseph (Le)  
+  * Talk to Me  
+  * Un trou dans la poitrine  
+  * Une femme à la mer  
+  * Une nuit particulière  
   * Youthful Days
 
 ## Ciné-club de Frédéric Bonnaud (1)
