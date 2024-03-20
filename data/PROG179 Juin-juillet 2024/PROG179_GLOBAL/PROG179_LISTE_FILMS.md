@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Aujourd'hui le cinéma (15)
+## Aujourd'hui le cinéma (16)
 
   * Another Town  
   * Chat mort  
@@ -8,12 +8,13 @@
   * Dinosauria, We  
   * Été 2000  
   * Faire un enfant  
+  * Froid et sombre  
+  * Fuck You, I'm Millwall!  
   * Meutes (Les)  
   * Mint Condition  
   * Songe de Joseph (Le)  
   * Talk to Me  
   * Un trou dans la poitrine  
-  * undefined  
   * Une femme à la mer  
   * Une nuit particulière  
   * Youthful Days
@@ -166,7 +167,7 @@
 
 ## Richard Quine (22)
 
-  * Adorable voisine (L')  
+  * Adorable Voisine (L')  
   * Bal des cinglés (Le)  
   * Ça c'est Paris  
   * Comment tuer votre femme  
