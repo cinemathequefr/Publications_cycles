@@ -105,8 +105,8 @@
 ## Mike Nichols (22)
 
   * À propos d'Henry  
-  * Angels in America : Millennium Approaches  
-  * Angels in America : Perestroika  
+  * Angels in America : Le Millennium approche  
+  * Angels in America : Perestroïka  
   * Biloxi Blues  
   * Birdcage  
   * Bonne fortune (La)  
