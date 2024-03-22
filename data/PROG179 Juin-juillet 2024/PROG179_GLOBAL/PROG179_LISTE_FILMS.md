@@ -105,8 +105,8 @@
 ## Mike Nichols (22)
 
   * À propos d'Henry  
-  * Angels in America : Millennium Approaches  
-  * Angels in America : Perestroika  
+  * Angels in America : Le Millennium approche  
+  * Angels in America : Perestroïka  
   * Biloxi Blues  
   * Birdcage  
   * Bonne fortune (La)  
@@ -132,7 +132,7 @@
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)
 
-## Olivier Assayas (30)
+## Olivier Assayas (31)
 
   * Après mai  
   * Boarding Gate  
@@ -147,6 +147,7 @@
   * Enfant de l'hiver (L')  
   * Fin août, début septembre  
   * Heure d'été (L')  
+  * HHH, portrait de Hou Hsiao-Hsien  
   * Hors du temps  
   * Irma Vep  
   * Irma Vep, épisode 1 : La Tête coupée  
