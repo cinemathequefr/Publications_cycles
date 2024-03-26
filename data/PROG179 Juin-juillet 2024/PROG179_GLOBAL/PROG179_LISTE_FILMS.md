@@ -132,13 +132,14 @@
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)
 
-## Olivier Assayas (38)
+## Olivier Assayas (39)
 
   * Après mai  
   * Boarding Gate  
   * Carlos, épisode 1  
   * Carlos, épisode 2  
   * Carlos, épisode 3  
+  * Chacun son cinéma : Recrudescence  
   * Cuban Network  
   * Demonlover  
   * Désordre  
@@ -163,7 +164,7 @@
   * Irma Vep, épisode 8 : Les Noces sanglantes  
   * Laissé inachevé à Tokyo  
   * Noise  
-  * Paris, je t'aime : Quartier des Enfants Rouges  
+  * Paris, je t'aime : Quartier des Enfants-Rouges  
   * Paris s'éveille  
   * Passage secret  
   * Personal Shopper  
