@@ -97,6 +97,12 @@
               "duree": 4,
               "version": "VO",
               "format": "DCP",
+              "generique": [
+                "George Babluani",
+                "Lionel Dray",
+                "Deniz Gamze Ergüven"
+              ],
+              "miniTexte": "Segment issu de _Chacun son cinéma_, film réalisé à l'occasion des 60 ans du Festival de Cannes, constitué de 34 courts métrages réalisés par 34 cinéastes, autour du thème de la salle de cinéma.",
               "precedeSuivi": [
                 [],
                 [
@@ -503,6 +509,7 @@
               "duree": 35,
               "version": "VO",
               "format": "Vidéo",
+              "miniTexte": "Film expérimental assemblé à la demande de Mirror-Dash pour accompagner leur performance au Festival Art Rock.",
               "precedeSuivi": [
                 [],
                 [
@@ -519,6 +526,45 @@
               "idSeance": 130872,
               "dateHeure": "2024-07-03T20:30:00",
               "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 55633,
+          "content": [
+            {
+              "idFilm": 55633,
+              "ordre": 2,
+              "titre": "Irma Vep",
+              "realisateurs": "Olivier Assayas",
+              "pays": "France",
+              "annee": 1996,
+              "duree": 98,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Maggie Cheung",
+                "Jean-Pierre Léaud",
+                "Nathalie Richard",
+                "Bulle Ogier"
+              ],
+              "miniTexte": "Le tournage catastrophique d'un remake des _Vampires_ de Louis Feuillade, avec Maggie Cheung – dans son propre rôle – en Musidora. Le sixième film d'Assayas, mené tambour battant, un script rédigé en dix jours, un mois de tournage, un montage éclair, et à l'écran une énergie qui convoque aussi bien le cinéma de Hong Kong que les fantômes de Feuillade, Truffaut ou Rivette.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Paris, je t'aime : Quartier des Enfants-Rouges",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130685,
+              "dateHeure": "2024-06-21T20:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -590,6 +636,44 @@
               "idSeance": 130872,
               "dateHeure": "2024-07-03T20:30:00",
               "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 99766,
+          "content": [
+            {
+              "idFilm": 99766,
+              "ordre": 1,
+              "titre": "Paris, je t'aime : Quartier des Enfants-Rouges",
+              "realisateurs": "Olivier Assayas",
+              "pays": "France",
+              "annee": 2006,
+              "duree": 10,
+              "version": "VOSTF",
+              "format": "Vidéo",
+              "generique": [
+                "Maggie Gyllenhaal",
+                "Lionel Dray",
+                "Joana Preiss"
+              ],
+              "miniTexte": "Raconter en cinq minutes l'histoire d'une rencontre amoureuse dans un quartier de Paris. Dix-huit cinéastes du monde entier se sont prêtés au jeu. Avec _Quartier des Enfants-Rouges_, Assayas réalise l'un des plus beaux segments, autour d'une actrice américaine et d'un rendez-vous manqué.",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Irma Vep",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130685,
+              "dateHeure": "2024-06-21T20:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -792,53 +876,6 @@
       "titreSousCycle": "Séries",
       "items": [
         {
-          "idEvenement": 30443,
-          "content": [
-            {
-              "idFilm": 99766,
-              "ordre": 1,
-              "titre": "Paris, je t'aime : Quartier des Enfants-Rouges",
-              "realisateurs": "Olivier Assayas",
-              "pays": "France",
-              "annee": 2006,
-              "duree": 10,
-              "version": "VOSTF",
-              "format": "Vidéo",
-              "generique": [
-                "Maggie Gyllenhaal",
-                "Lionel Dray",
-                "Joana Preiss"
-              ],
-              "miniTexte": "Raconter en cinq minutes l'histoire d'une rencontre amoureuse dans un quartier de Paris. Dix-huit cinéastes du monde entier se sont prêtés au jeu. Avec _Quartier des Enfants-Rouges_, Assayas réalise l'un des plus beaux segments, autour d'une actrice américaine et d'un rendez-vous manqué."
-            },
-            {
-              "idFilm": 55633,
-              "ordre": 2,
-              "titre": "Irma Vep",
-              "realisateurs": "Olivier Assayas",
-              "pays": "France",
-              "annee": 1996,
-              "duree": 98,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Maggie Cheung",
-                "Jean-Pierre Léaud",
-                "Nathalie Richard",
-                "Bulle Ogier"
-              ],
-              "miniTexte": "Le tournage catastrophique d'un remake des _Vampires_ de Louis Feuillade, avec Maggie Cheung – dans son propre rôle – en Musidora. Le sixième film d'Assayas, mené tambour battant, un script rédigé en dix jours, un mois de tournage, un montage éclair, et à l'écran une énergie qui convoque aussi bien le cinéma de Hong Kong que les fantômes de Feuillade, Truffaut ou Rivette."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 130685,
-              "dateHeure": "2024-06-21T20:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idEvenement": 30560,
           "content": [
             {
@@ -868,7 +905,12 @@
               "annee": 2010,
               "duree": 107,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Édgar Ramírez",
+                "Alexander Scheer",
+                "Alexander Beyer"
+              ]
             },
             {
               "idFilm": 154829,
@@ -879,7 +921,12 @@
               "annee": 2010,
               "duree": 118,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Édgar Ramírez",
+                "Alexander Scheer",
+                "Alexander Beyer"
+              ]
             }
           ],
           "seances": [
