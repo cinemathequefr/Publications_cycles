@@ -136,9 +136,9 @@
 
   * Après mai  
   * Boarding Gate  
-  * Carlos  
-  * Carlos – épisode 2  
-  * Carlos – épisode 3  
+  * Carlos, épisode 1  
+  * Carlos, épisode 2  
+  * Carlos, épisode 3  
   * Cuban Network  
   * Demonlover  
   * Désordre  
