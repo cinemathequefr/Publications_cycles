@@ -132,11 +132,14 @@
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)
 
-## Olivier Assayas (31)
+## Olivier Assayas (39)
 
   * Après mai  
   * Boarding Gate  
-  * Carlos  
+  * Carlos, épisode 1  
+  * Carlos, épisode 2  
+  * Carlos, épisode 3  
+  * Chacun son cinéma : Recrudescence  
   * Cuban Network  
   * Demonlover  
   * Désordre  
@@ -149,6 +152,7 @@
   * Heure d'été (L')  
   * HHH, portrait de Hou Hsiao-Hsien  
   * Hors du temps  
+  * Hotel Atithi  
   * Irma Vep  
   * Irma Vep, épisode 1 : La Tête coupée  
   * Irma Vep, épisode 2 : La Bague qui tue  
@@ -158,13 +162,17 @@
   * Irma Vep, épisode 6 : Le Maître de la foudre  
   * Irma Vep, épisode 7 : Le Spectre  
   * Irma Vep, épisode 8 : Les Noces sanglantes  
+  * Laissé inachevé à Tokyo  
   * Noise  
+  * Paris, je t'aime : Quartier des Enfants-Rouges  
   * Paris s'éveille  
   * Passage secret  
   * Personal Shopper  
+  * Rectangle  
   * Scopitone  
   * Sils Maria  
-  * Une nouvelle vie
+  * Une nouvelle vie  
+  * Winston Tong en studio
 
 ## Richard Quine (22)
 
