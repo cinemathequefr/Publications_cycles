@@ -103,6 +103,43 @@
           ]
         },
         {
+          "idFilm": 154831,
+          "content": [
+            {
+              "idFilm": 154831,
+              "ordre": 1,
+              "titre": "Chansons de Marseille",
+              "realisateurs": "Antoine Toé",
+              "pays": "France",
+              "annee": 1949,
+              "duree": 17,
+              "version": "",
+              "format": "35 mm",
+              "miniTexte": "Des extraits de films et des chansons font découvrir les ambiances de Marseille : ses industries, son port, ses habitants. Toé, le réalisateur, était un ami proche de Marcel Pagnol.",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Île de lumière",
+                    "L'"
+                  ],
+                  [
+                    "Jofroi",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130878,
+              "dateHeure": "2024-07-17T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 50487,
           "content": [
             {
@@ -260,7 +297,7 @@
           "content": [
             {
               "idFilm": 154799,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Île de lumière",
               "art": "L'",
               "realisateurs": "Georges Drouet",
@@ -271,7 +308,12 @@
               "format": "DCP",
               "miniTexte": "Coproduit par La Société Nouvelle des Films Marcel Pagnol, un tableau de la Corse, confrontée aux mutations sociales de l'après-guerre.",
               "precedeSuivi": [
-                [],
+                [
+                  [
+                    "Chansons de Marseille",
+                    null
+                  ]
+                ],
                 [
                   [
                     "Jofroi",
@@ -294,13 +336,13 @@
           "content": [
             {
               "idFilm": 50511,
-              "ordre": 2,
+              "ordre": 3,
               "titre": "Jofroi",
               "realisateurs": "Marcel Pagnol",
               "pays": "France",
               "annee": 1934,
               "duree": 52,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "adaptation": "D'après la nouvelle _Jofroi de la Maussan_ de Jean Giono.",
               "generique": [
@@ -311,6 +353,10 @@
               "miniTexte": "Un vieux paysan irascible vend son verger à un voisin mais lui interdit d'en arracher les arbres, menaçant sinon de se suicider. D'après une nouvelle de Jean Giono et interprétée par le compositeur de musique populaire, Vincent Scotto, une pochade picaresque, qui résonne comme un plaidoyer pour la protection de la nature.",
               "precedeSuivi": [
                 [
+                  [
+                    "Chansons de Marseille",
+                    null
+                  ],
                   [
                     "Île de lumière",
                     "L'"

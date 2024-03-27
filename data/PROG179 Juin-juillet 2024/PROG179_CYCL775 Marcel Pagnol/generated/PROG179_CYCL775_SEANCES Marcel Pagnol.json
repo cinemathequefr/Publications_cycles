@@ -230,7 +230,7 @@
   {
     "idCategorie": 3334,
     "typeEvenement": 13,
-    "idEvenement": 30577,
+    "idEvenement": 30762,
     "idSeance": 130878,
     "dateHeure": "2024-07-17T18:30:00",
     "idSalle": [
@@ -240,8 +240,17 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 154799,
+        "idFilm": 154831,
         "ordre": 1,
+        "idSeance": 130878,
+        "idCopie": 27937,
+        "duree": 17,
+        "version": "",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 154799,
+        "ordre": 2,
         "idSeance": 130878,
         "idCopie": 27813,
         "duree": 31,
@@ -250,11 +259,11 @@
       },
       {
         "idFilm": 50511,
-        "ordre": 2,
+        "ordre": 3,
         "idSeance": 130878,
         "idCopie": 27814,
         "duree": 52,
-        "version": "VO",
+        "version": "",
         "format": "DCP"
       }
     ]
