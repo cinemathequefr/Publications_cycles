@@ -37,7 +37,7 @@
   * Trois cousins (Les)  
   * Zinet, Alger, le Bonheur
 
-## James Cameron (7)
+## James Cameron (8)
 
   * Abyss  
   * Aliens, le retour  
@@ -45,6 +45,7 @@
   * Avatar : La Voie de l'eau  
   * Terminator  
   * Terminator 2 : Le Jugement dernier  
+  * Titanic  
   * True Lies
 
 ## La Shaw Brothers et le kung-fu (25)
@@ -84,7 +85,7 @@
   * Ratatouille  
   * Sportif par amour
 
-## Marcel Pagnol (19)
+## Marcel Pagnol (20)
 
   * Angèle  
   * Belle Meunière (La)  
@@ -104,7 +105,8 @@
   * Naïs  
   * Regain  
   * Schpountz (Le)  
-  * Topaze
+  * Topaze  
+  * Ugolin
 
 ## Mike Nichols (22)
 
