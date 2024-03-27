@@ -1179,6 +1179,48 @@
     "hashEvenement": "f35453"
   },
   {
+    "idSeance": 130808,
+    "idEvenement": 29891,
+    "dateHeure": "2024-06-14T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Les films"
+      ],
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
+      ],
+      [
+        "James Cameron",
+        "Les films"
+      ],
+      [
+        "James Cameron",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30641,
+        "titre": "Russell Carpenter par Russell Carpenter, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
+      },
+      {
+        "idFilm": 29089,
+        "titre": "Titanic",
+        "realisateurs": "James Cameron",
+        "annee": 1997,
+        "duree": 194,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "c30641f29089"
+  },
+  {
     "idSeance": 129330,
     "idEvenement": 30619,
     "dateHeure": "2024-06-14T19:30:00",
@@ -1225,30 +1267,6 @@
       }
     ],
     "hashEvenement": "f29232"
-  },
-  {
-    "idSeance": 130631,
-    "idEvenement": 29891,
-    "dateHeure": "2024-06-14T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "James Cameron",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 29089,
-        "titre": "Titanic",
-        "realisateurs": "James Cameron",
-        "annee": 1997,
-        "duree": 194,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f29089"
   },
   {
     "idSeance": 130813,
@@ -1595,6 +1613,7 @@
         "Soirée Fondation Gan pour le cinéma : Kamal Lazraq"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Kamal Lazraq",
     "items": [
       {
         "idFilm": 154814,
@@ -1602,6 +1621,7 @@
         "art": "Les",
         "realisateurs": "Kamal Lazraq",
         "annee": 2023,
+        "duree": 94,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -1656,7 +1676,7 @@
   },
   {
     "idSeance": 130850,
-    "idEvenement": 30450,
+    "idEvenement": 30766,
     "dateHeure": "2024-06-19T18:15:00",
     "salle": "GF",
     "cycle": [
@@ -1667,15 +1687,6 @@
     ],
     "items": [
       {
-        "idFilm": 71468,
-        "titre": "Rectangle",
-        "realisateurs": "Olivier Assayas",
-        "annee": 1980,
-        "duree": 8,
-        "version": "VO",
-        "format": "Vidéo"
-      },
-      {
         "idFilm": 56143,
         "titre": "Paris s'éveille",
         "realisateurs": "Olivier Assayas",
@@ -1685,7 +1696,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f71468f56143"
+    "hashEvenement": "f56143"
   },
   {
     "idSeance": 130814,
@@ -1845,7 +1856,7 @@
   },
   {
     "idSeance": 130685,
-    "idEvenement": 30443,
+    "idEvenement": 30770,
     "dateHeure": "2024-06-21T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -1856,15 +1867,6 @@
     ],
     "items": [
       {
-        "idFilm": 99766,
-        "titre": "Paris, je t'aime : Quartier des Enfants-Rouges",
-        "realisateurs": "Olivier Assayas",
-        "annee": 2006,
-        "duree": 10,
-        "version": "VOSTF",
-        "format": "Vidéo"
-      },
-      {
         "idFilm": 55633,
         "titre": "Irma Vep",
         "realisateurs": "Olivier Assayas",
@@ -1874,7 +1876,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f99766f55633"
+    "hashEvenement": "f55633"
   },
   {
     "idSeance": 130913,
@@ -2245,7 +2247,7 @@
   },
   {
     "idSeance": 129584,
-    "idEvenement": 30432,
+    "idEvenement": 30768,
     "dateHeure": "2024-06-24T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -2256,15 +2258,6 @@
     ],
     "items": [
       {
-        "idFilm": 71466,
-        "titre": "Laissé inachevé à Tokyo",
-        "realisateurs": "Olivier Assayas",
-        "annee": 1982,
-        "duree": 22,
-        "version": "VO",
-        "format": "DCP"
-      },
-      {
         "idFilm": 79061,
         "titre": "Demonlover",
         "realisateurs": "Olivier Assayas",
@@ -2274,7 +2267,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f71466f79061"
+    "hashEvenement": "f79061"
   },
   {
     "idSeance": 130873,
@@ -2287,6 +2280,7 @@
         "Repérages 2024 : Nouveaux talents"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Céline Baril, François Hebert, Ribal Chedid et Enzo Martinez",
     "items": [
       {
         "idFilm": 154815,
@@ -2387,6 +2381,15 @@
     ],
     "items": [
       {
+        "idFilm": 71468,
+        "titre": "Rectangle",
+        "realisateurs": "Olivier Assayas",
+        "annee": 1980,
+        "duree": 8,
+        "version": "VO",
+        "format": "Vidéo"
+      },
+      {
         "idFilm": 105711,
         "titre": "Winston Tong en studio",
         "realisateurs": "Olivier Assayas",
@@ -2394,6 +2397,15 @@
         "duree": 10,
         "version": "VO",
         "format": "35 mm"
+      },
+      {
+        "idFilm": 71466,
+        "titre": "Laissé inachevé à Tokyo",
+        "realisateurs": "Olivier Assayas",
+        "annee": 1982,
+        "duree": 22,
+        "version": "VO",
+        "format": "DCP"
       },
       {
         "idFilm": 58435,
@@ -2405,7 +2417,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f105711f58435"
+    "hashEvenement": "f71468f105711f71466f58435"
   },
   {
     "idSeance": 133568,
@@ -2459,7 +2471,7 @@
   },
   {
     "idSeance": 133567,
-    "idEvenement": 30752,
+    "idEvenement": 30773,
     "dateHeure": "2024-06-26T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -2470,6 +2482,24 @@
     ],
     "items": [
       {
+        "idFilm": 102180,
+        "titre": "Chacun son cinéma : Recrudescence",
+        "realisateurs": "Olivier Assayas",
+        "annee": 2007,
+        "duree": 4,
+        "version": "VO",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 99766,
+        "titre": "Paris, je t'aime : Quartier des Enfants-Rouges",
+        "realisateurs": "Olivier Assayas",
+        "annee": 2006,
+        "duree": 10,
+        "version": "VOSTF",
+        "format": "Vidéo"
+      },
+      {
         "idFilm": 91443,
         "titre": "Clean",
         "realisateurs": "Olivier Assayas",
@@ -2479,7 +2509,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f91443"
+    "hashEvenement": "f102180f99766f91443"
   },
   {
     "idSeance": 129658,
@@ -2886,7 +2916,7 @@
         "idFilm": 102426,
         "titre": "Ratatouille",
         "realisateurs": "Brad Bird",
-        "annee": 2006,
+        "annee": 2007,
         "duree": 110,
         "version": "VF",
         "format": "DCP"
@@ -3242,7 +3272,7 @@
   },
   {
     "idSeance": 129810,
-    "idEvenement": 30757,
+    "idEvenement": 30772,
     "dateHeure": "2024-07-03T18:00:00",
     "salle": "JE",
     "cycle": [
@@ -3253,15 +3283,6 @@
     ],
     "items": [
       {
-        "idFilm": 102180,
-        "titre": "Chacun son cinéma : Recrudescence",
-        "realisateurs": "Olivier Assayas",
-        "annee": 2007,
-        "duree": 4,
-        "version": "VO",
-        "format": "DCP"
-      },
-      {
         "idFilm": 105192,
         "titre": "Eldorado",
         "realisateurs": "Olivier Assayas",
@@ -3269,7 +3290,7 @@
         "duree": 90
       }
     ],
-    "hashEvenement": "f102180f105192"
+    "hashEvenement": "f105192"
   },
   {
     "idSeance": 129808,
@@ -3314,6 +3335,7 @@
         "realisateurs": "Liu Chia-liang",
         "annee": 1980,
         "duree": 99,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -3467,6 +3489,7 @@
         "realisateurs": "Liu Chia-liang",
         "annee": 1978,
         "duree": 116,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -3537,6 +3560,7 @@
         "realisateurs": "Chang Cheh",
         "annee": 1976,
         "duree": 126,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -3858,6 +3882,7 @@
         "realisateurs": "Chang Cheh",
         "annee": 1978,
         "duree": 104,
+        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -3938,6 +3963,7 @@
         "realisateurs": "Chang Cheh",
         "annee": 1975,
         "duree": 106,
+        "version": "STF",
         "format": "DCP"
       }
     ],
@@ -4023,7 +4049,7 @@
     "hashEvenement": "f52326f69546"
   },
   {
-    "idSeance": 129992,
+    "idSeance": 133573,
     "idEvenement": 30579,
     "dateHeure": "2024-07-10T20:00:00",
     "salle": "HL",
@@ -4041,7 +4067,6 @@
         "realisateurs": "Marcel Pagnol",
         "annee": 1934,
         "duree": 135,
-        "version": "VO",
         "format": "DCP"
       }
     ],
@@ -4066,6 +4091,7 @@
         "realisateurs": "Liu Chia-liang",
         "annee": 1979,
         "duree": 93,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -4097,7 +4123,7 @@
     "hashEvenement": "f31135"
   },
   {
-    "idSeance": 130756,
+    "idSeance": 133572,
     "idEvenement": 30585,
     "dateHeure": "2024-07-11T17:30:00",
     "salle": "GF",
@@ -4114,7 +4140,6 @@
         "realisateurs": "Marcel Pagnol",
         "annee": 1937,
         "duree": 127,
-        "version": "VO",
         "format": "DCP"
       }
     ],
@@ -4154,7 +4179,7 @@
     "hashEvenement": "f60213c30572"
   },
   {
-    "idSeance": 130755,
+    "idSeance": 133574,
     "idEvenement": 30582,
     "dateHeure": "2024-07-11T20:30:00",
     "salle": "GF",
@@ -4171,35 +4196,10 @@
         "realisateurs": "Marcel Pagnol",
         "annee": 1936,
         "duree": 100,
-        "version": "VO"
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f50518"
-  },
-  {
-    "idSeance": 130892,
-    "idEvenement": 30412,
-    "dateHeure": "2024-07-12T14:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Road Movie, USA, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 85514,
-        "titre": "Brown Bunny",
-        "art": "The",
-        "realisateurs": "Vincent Gallo",
-        "annee": 2003,
-        "duree": 93,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f85514"
   },
   {
     "idSeance": 130821,
@@ -4219,7 +4219,7 @@
         "realisateurs": "Raymond Leboursier, Marcel Pagnol",
         "annee": 1945,
         "duree": 117,
-        "version": "VO"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f49774"
@@ -4250,29 +4250,37 @@
     "hashEvenement": "f154789"
   },
   {
-    "idSeance": 130900,
-    "idEvenement": 30403,
+    "idSeance": 133569,
+    "idEvenement": 30580,
     "dateHeure": "2024-07-12T19:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Road Movie, USA, 25 indispensables",
+        "Marcel Pagnol",
         "Les films"
+      ],
+      [
+        "Marcel Pagnol",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 29629,
-        "titre": "Canardeur",
-        "art": "Le",
-        "realisateurs": "Michael Cimino",
-        "annee": 1974,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 50514,
+        "titre": "Merlusse",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1935,
+        "duree": 72,
+        "format": "DCP"
+      },
+      {
+        "idConf": 30575,
+        "titre": "Dialogue avec Marcos Uzal",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f29629"
+    "hashEvenement": "f50514c30575"
   },
   {
     "idSeance": 130074,
@@ -4292,8 +4300,7 @@
         "art": "La",
         "realisateurs": "Marcel Pagnol",
         "annee": 1948,
-        "duree": 99,
-        "version": "VO",
+        "duree": 103,
         "format": "35 mm"
       }
     ],
@@ -4324,25 +4331,29 @@
     "hashEvenement": "f59914"
   },
   {
-    "idSeance": 130637,
-    "idEvenement": 30575,
+    "idSeance": 130892,
+    "idEvenement": 30412,
     "dateHeure": "2024-07-13T14:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Marcel Pagnol",
-        "Rencontres et conférences"
+        "Road Movie, USA, 25 indispensables",
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idConf": 30575,
-        "titre": "Dialogue avec Marcos Uzal",
-        "typeConference": "Dialogue",
-        "duree": 60
+        "idFilm": 85514,
+        "titre": "Brown Bunny",
+        "art": "The",
+        "realisateurs": "Vincent Gallo",
+        "annee": 2003,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "c30575"
+    "hashEvenement": "f85514"
   },
   {
     "idSeance": 133548,
@@ -4376,29 +4387,29 @@
     "hashEvenement": "f154798f154797"
   },
   {
-    "idSeance": 130133,
-    "idEvenement": 30586,
-    "dateHeure": "2024-07-13T18:15:00",
+    "idSeance": 130900,
+    "idEvenement": 30403,
+    "dateHeure": "2024-07-13T19:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Marcel Pagnol",
+        "Road Movie, USA, 25 indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 50517,
-        "titre": "Schpountz",
+        "idFilm": 29629,
+        "titre": "Canardeur",
         "art": "Le",
-        "realisateurs": "Marcel Pagnol",
-        "annee": 1938,
-        "duree": 123,
-        "version": "VO",
-        "format": "DCP"
+        "realisateurs": "Michael Cimino",
+        "annee": 1974,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f50517"
+    "hashEvenement": "f29629"
   },
   {
     "idSeance": 130779,
@@ -4425,7 +4436,7 @@
     "hashEvenement": "f154782"
   },
   {
-    "idSeance": 130114,
+    "idSeance": 133575,
     "idEvenement": 30599,
     "dateHeure": "2024-07-14T15:00:00",
     "salle": "GF",
@@ -4442,7 +4453,6 @@
         "realisateurs": "Alexander Korda",
         "annee": 1931,
         "duree": 138,
-        "version": "VO",
         "format": "DCP"
       }
     ],
@@ -4480,9 +4490,9 @@
     "hashEvenement": "f154798f154797"
   },
   {
-    "idSeance": 130111,
+    "idSeance": 133576,
     "idEvenement": 30600,
-    "dateHeure": "2024-07-14T16:30:00",
+    "dateHeure": "2024-07-14T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4497,14 +4507,13 @@
         "realisateurs": "Marc Allégret",
         "annee": 1932,
         "duree": 140,
-        "version": "VO",
         "format": "DCP"
       }
     ],
     "hashEvenement": "f46367"
   },
   {
-    "idSeance": 130112,
+    "idSeance": 133577,
     "idEvenement": 30584,
     "dateHeure": "2024-07-14T20:00:00",
     "salle": "GF",
@@ -4521,7 +4530,6 @@
         "realisateurs": "Marcel Pagnol",
         "annee": 1936,
         "duree": 138,
-        "version": "VO",
         "format": "DCP"
       }
     ],
@@ -4643,6 +4651,7 @@
         "realisateurs": "Liu Chia-liang",
         "annee": 1979,
         "duree": 116,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -4674,7 +4683,7 @@
   },
   {
     "idSeance": 130878,
-    "idEvenement": 30577,
+    "idEvenement": 30762,
     "dateHeure": "2024-07-17T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -4685,13 +4694,20 @@
     ],
     "items": [
       {
+        "idFilm": 154831,
+        "titre": "Chansons de Marseille",
+        "realisateurs": "Antoine Toé",
+        "annee": 1949,
+        "duree": 17,
+        "format": "35 mm"
+      },
+      {
         "idFilm": 154799,
         "titre": "Île de lumière",
         "art": "L'",
         "realisateurs": "Georges Drouet",
         "annee": 1950,
         "duree": 31,
-        "version": "VO",
         "format": "DCP"
       },
       {
@@ -4700,11 +4716,10 @@
         "realisateurs": "Marcel Pagnol",
         "annee": 1934,
         "duree": 52,
-        "version": "VO",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f154799f50511"
+    "hashEvenement": "f154831f154799f50511"
   },
   {
     "idSeance": 130887,
@@ -4724,6 +4739,7 @@
         "realisateurs": "Liu Chia-liang",
         "annee": 1980,
         "duree": 99,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -4747,7 +4763,8 @@
         "art": "Le",
         "realisateurs": "Marcel Pagnol",
         "annee": 1933,
-        "version": "VO"
+        "duree": 102,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f50510"
@@ -4778,8 +4795,8 @@
     "hashEvenement": "f154783"
   },
   {
-    "idSeance": 130213,
-    "idEvenement": 30580,
+    "idSeance": 133571,
+    "idEvenement": 30581,
     "dateHeure": "2024-07-18T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -4790,15 +4807,15 @@
     ],
     "items": [
       {
-        "idFilm": 50514,
-        "titre": "Merlusse",
+        "idFilm": 50487,
+        "titre": "Cigalon",
         "realisateurs": "Marcel Pagnol",
         "annee": 1935,
-        "duree": 72,
-        "version": "VO"
+        "duree": 73,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f50514"
+    "hashEvenement": "f50487"
   },
   {
     "idSeance": 130217,
@@ -4826,8 +4843,8 @@
     "hashEvenement": "f154787"
   },
   {
-    "idSeance": 130801,
-    "idEvenement": 30581,
+    "idSeance": 133570,
+    "idEvenement": 30586,
     "dateHeure": "2024-07-18T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -4838,16 +4855,64 @@
     ],
     "items": [
       {
-        "idFilm": 50487,
-        "titre": "Cigalon",
+        "idFilm": 50517,
+        "titre": "Schpountz",
+        "art": "Le",
         "realisateurs": "Marcel Pagnol",
-        "annee": 1935,
-        "duree": 73,
-        "version": "VO",
-        "format": "35 mm"
+        "annee": 1938,
+        "duree": 123,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f50487"
+    "hashEvenement": "f50517"
+  },
+  {
+    "idSeance": 133585,
+    "idEvenement": 30557,
+    "dateHeure": "2024-07-19T16:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "La Shaw Brothers et le kung-fu",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154792,
+        "titre": "Mercenaries from Hong Kong",
+        "realisateurs": "Wong Jing",
+        "annee": 1982,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154792"
+  },
+  {
+    "idSeance": 133578,
+    "idEvenement": 30587,
+    "dateHeure": "2024-07-19T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50488,
+        "titre": "Femme du boulanger",
+        "art": "La",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1938,
+        "duree": 133,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f50488"
   },
   {
     "idSeance": 130834,
@@ -4875,31 +4940,6 @@
     "hashEvenement": "f154790"
   },
   {
-    "idSeance": 130258,
-    "idEvenement": 30587,
-    "dateHeure": "2024-07-19T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Marcel Pagnol",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 50488,
-        "titre": "Femme du boulanger",
-        "art": "La",
-        "realisateurs": "Marcel Pagnol",
-        "annee": 1938,
-        "duree": 133,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f50488"
-  },
-  {
     "idSeance": 130257,
     "idEvenement": 29891,
     "dateHeure": "2024-07-19T20:00:00",
@@ -4924,7 +4964,7 @@
     "hashEvenement": "f29089"
   },
   {
-    "idSeance": 130259,
+    "idSeance": 133579,
     "idEvenement": 30589,
     "dateHeure": "2024-07-19T20:30:00",
     "salle": "GF",
@@ -4942,7 +4982,6 @@
         "realisateurs": "Marcel Pagnol",
         "annee": 1940,
         "duree": 146,
-        "version": "VO",
         "format": "DCP"
       }
     ],
@@ -4980,7 +5019,7 @@
     "hashEvenement": "f154798f154797"
   },
   {
-    "idSeance": 130300,
+    "idSeance": 133580,
     "idEvenement": 30593,
     "dateHeure": "2024-07-20T15:00:00",
     "salle": "GF",
@@ -4997,15 +5036,38 @@
         "realisateurs": "Marcel Pagnol",
         "annee": 1952,
         "duree": 117,
-        "version": "VO"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f50513"
   },
   {
+    "idSeance": 133584,
+    "idEvenement": 30761,
+    "dateHeure": "2024-07-20T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154830,
+        "titre": "Ugolin",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1952,
+        "duree": 110,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154830"
+  },
+  {
     "idSeance": 130301,
     "idEvenement": 30556,
-    "dateHeure": "2024-07-20T18:30:00",
+    "dateHeure": "2024-07-20T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5026,29 +5088,6 @@
       }
     ],
     "hashEvenement": "f154791"
-  },
-  {
-    "idSeance": 130302,
-    "idEvenement": 30557,
-    "dateHeure": "2024-07-20T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "La Shaw Brothers et le kung-fu",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154792,
-        "titre": "Mercenaries from Hong Kong",
-        "realisateurs": "Wong Jing",
-        "annee": 1982,
-        "duree": 95,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154792"
   },
   {
     "idSeance": 133551,
@@ -5082,7 +5121,7 @@
     "hashEvenement": "f154798f154797"
   },
   {
-    "idSeance": 130319,
+    "idSeance": 133581,
     "idEvenement": 30583,
     "dateHeure": "2024-07-21T15:00:00",
     "salle": "GF",
@@ -5099,34 +5138,10 @@
         "realisateurs": "Marcel Pagnol",
         "annee": 1951,
         "duree": 136,
-        "version": "VO",
         "format": "DCP"
       }
     ],
     "hashEvenement": "f50519"
-  },
-  {
-    "idSeance": 130320,
-    "idEvenement": 30537,
-    "dateHeure": "2024-07-21T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "La Shaw Brothers et le kung-fu",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154786,
-        "titre": "Ten Tigers Of Kwangtung",
-        "realisateurs": "Chang Cheh",
-        "annee": 1980,
-        "duree": 91,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154786"
   },
   {
     "idSeance": 130317,
@@ -5147,15 +5162,39 @@
         "realisateurs": "Marcel Pagnol",
         "annee": 1954,
         "duree": 199,
-        "version": "VO"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f50512"
   },
   {
+    "idSeance": 130320,
+    "idEvenement": 30537,
+    "dateHeure": "2024-07-21T17:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "La Shaw Brothers et le kung-fu",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154786,
+        "titre": "Ten Tigers Of Kwangtung",
+        "realisateurs": "Chang Cheh",
+        "annee": 1980,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154786"
+  },
+  {
     "idSeance": 130804,
     "idEvenement": 30539,
-    "dateHeure": "2024-07-21T19:00:00",
+    "dateHeure": "2024-07-21T19:45:00",
     "salle": "GF",
     "cycle": [
       [

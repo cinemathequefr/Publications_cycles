@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Anthony Mann (38)
+## Anthony Mann (39)
 
   * Affameurs (Les)  
   * Appât (L')  
@@ -14,6 +14,7 @@
   * Desperate  
   * Engrenage fatal (L')  
   * Esprit pervers (L')  
+  * Fille d'artistes  
   * Furies (Les)  
   * Grand Attentat (Le)  
   * Héros de Télémark (Les)  

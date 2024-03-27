@@ -21,8 +21,14 @@
       "titreCycle": "Conservatoire des techniques cinématographiques",
       "titreCycleMini": "Conservatoire",
       "sousCycles": [
-        { "titre": "Rencontres et conférences", "cats": [3355], "tri": 4 }
-      ]
+        {
+          "titre": "Les films",
+          "cats": [3355],
+          "tri": 4
+        },
+        { "titre": "Rencontres et conférences", "cats": [1856], "tri": 4 }
+      ],
+      "excludeSeances": [130257]
     },
     {
       "idCycleProg": 140,
@@ -109,7 +115,7 @@
       "idCycleProg": 775,
       "titreCycle": "Marcel Pagnol",
       "sousCycles": [
-        { "titre": "Les films", "cats": [3334], "tri": 1 },
+        { "titre": "Les films", "cats": [3334, 3370], "tri": 1 },
         { "titre": "Rencontres et conférences", "cats": [3348], "tri": 4 }
       ],
       "excludeSeances": []

@@ -23,6 +23,10 @@
 
   * Fille à la valise (La)
 
+## Conservatoire des techniques cinématographiques (1)
+
+  * Titanic
+
 ## Fenêtre sur les collections (7)
 
   * Ajoncs (Les)  
@@ -81,11 +85,12 @@
   * Ratatouille  
   * Sportif par amour
 
-## Marcel Pagnol (18)
+## Marcel Pagnol (20)
 
   * Angèle  
   * Belle Meunière (La)  
   * César  
+  * Chansons de Marseille  
   * Cigalon  
   * Fanny  
   * Femme du boulanger (La)  
@@ -100,7 +105,8 @@
   * Naïs  
   * Regain  
   * Schpountz (Le)  
-  * Topaze
+  * Topaze  
+  * Ugolin
 
 ## Mike Nichols (22)
 

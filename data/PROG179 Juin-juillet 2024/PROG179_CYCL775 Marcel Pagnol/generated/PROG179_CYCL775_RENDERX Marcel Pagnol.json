@@ -20,7 +20,7 @@
               "pays": "France",
               "annee": 1934,
               "duree": 135,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "adaptation": "D'après le roman _Un de Baumugnes_ de Jean Giono.",
               "generique": [
@@ -34,7 +34,7 @@
           ],
           "seances": [
             {
-              "idSeance": 129992,
+              "idSeance": 133573,
               "dateHeure": "2024-07-10T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
@@ -52,8 +52,8 @@
               "realisateurs": "Marcel Pagnol",
               "pays": "France",
               "annee": 1948,
-              "duree": 99,
-              "version": "VO",
+              "duree": 103,
+              "version": "",
               "format": "35 mm",
               "generique": [
                 "Tino Rossi",
@@ -82,7 +82,7 @@
               "pays": "France",
               "annee": 1936,
               "duree": 138,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "adaptation": "D'après la pièce _César_ de Marcel Pagnol.",
               "generique": [
@@ -96,8 +96,45 @@
           ],
           "seances": [
             {
-              "idSeance": 130112,
+              "idSeance": 133577,
               "dateHeure": "2024-07-14T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154831,
+          "content": [
+            {
+              "idFilm": 154831,
+              "ordre": 1,
+              "titre": "Chansons de Marseille",
+              "realisateurs": "Antoine Toé",
+              "pays": "France",
+              "annee": 1949,
+              "duree": 17,
+              "version": "",
+              "format": "35 mm",
+              "miniTexte": "Des extraits de films et des chansons font découvrir les ambiances de Marseille : ses industries, son port, ses habitants. Toé, le réalisateur, était un ami proche de Marcel Pagnol.",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Île de lumière",
+                    "L'"
+                  ],
+                  [
+                    "Jofroi",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130878,
+              "dateHeure": "2024-07-17T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -113,7 +150,7 @@
               "pays": "France",
               "annee": 1935,
               "duree": 73,
-              "version": "VO",
+              "version": "",
               "format": "35 mm",
               "generique": [
                 "Arnaudy",
@@ -125,8 +162,8 @@
           ],
           "seances": [
             {
-              "idSeance": 130801,
-              "dateHeure": "2024-07-18T20:30:00",
+              "idSeance": 133571,
+              "dateHeure": "2024-07-18T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -142,7 +179,7 @@
               "pays": "France",
               "annee": 1932,
               "duree": 140,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "adaptation": "D'après la pièce _Fanny_ de Marcel Pagnol.",
               "generique": [
@@ -156,8 +193,8 @@
           ],
           "seances": [
             {
-              "idSeance": 130111,
-              "dateHeure": "2024-07-14T16:30:00",
+              "idSeance": 133576,
+              "dateHeure": "2024-07-14T17:45:00",
               "idSalle": "GF"
             }
           ]
@@ -174,7 +211,7 @@
               "pays": "France",
               "annee": 1938,
               "duree": 133,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "adaptation": "D'après un épisode de _Jean le Bleu_ de Jean Giono.",
               "generique": [
@@ -188,8 +225,8 @@
           ],
           "seances": [
             {
-              "idSeance": 130258,
-              "dateHeure": "2024-07-19T18:30:00",
+              "idSeance": 133578,
+              "dateHeure": "2024-07-19T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -206,7 +243,7 @@
               "pays": "France",
               "annee": 1940,
               "duree": 146,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "generique": [
                 "Raimu",
@@ -218,7 +255,7 @@
           ],
           "seances": [
             {
-              "idSeance": 130259,
+              "idSeance": 133579,
               "dateHeure": "2024-07-19T20:30:00",
               "idSalle": "GF"
             }
@@ -235,9 +272,9 @@
               "realisateurs": "Marcel Pagnol",
               "pays": "France",
               "annee": 1933,
-              "duree": 0,
-              "version": "VO",
-              "format": "",
+              "duree": 102,
+              "version": "",
+              "format": "35 mm",
               "adaptation": "D'après la pièce de théâtre _Le Gendre de monsieur Poirier_ de Jules Sandeau et Émile Augier.",
               "generique": [
                 "Léon Bernard",
@@ -260,18 +297,23 @@
           "content": [
             {
               "idFilm": 154799,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Île de lumière",
               "art": "L'",
               "realisateurs": "Georges Drouet",
               "pays": "France",
               "annee": 1950,
               "duree": 31,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "miniTexte": "Coproduit par La Société Nouvelle des Films Marcel Pagnol, un tableau de la Corse, confrontée aux mutations sociales de l'après-guerre.",
               "precedeSuivi": [
-                [],
+                [
+                  [
+                    "Chansons de Marseille",
+                    null
+                  ]
+                ],
                 [
                   [
                     "Jofroi",
@@ -294,13 +336,13 @@
           "content": [
             {
               "idFilm": 50511,
-              "ordre": 2,
+              "ordre": 3,
               "titre": "Jofroi",
               "realisateurs": "Marcel Pagnol",
               "pays": "France",
               "annee": 1934,
               "duree": 52,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "adaptation": "D'après la nouvelle _Jofroi de la Maussan_ de Jean Giono.",
               "generique": [
@@ -311,6 +353,10 @@
               "miniTexte": "Un vieux paysan irascible vend son verger à un voisin mais lui interdit d'en arracher les arbres, menaçant sinon de se suicider. D'après une nouvelle de Jean Giono et interprétée par le compositeur de musique populaire, Vincent Scotto, une pochade picaresque, qui résonne comme un plaidoyer pour la protection de la nature.",
               "precedeSuivi": [
                 [
+                  [
+                    "Chansons de Marseille",
+                    null
+                  ],
                   [
                     "Île de lumière",
                     "L'"
@@ -340,8 +386,8 @@
               "pays": "France",
               "annee": 1954,
               "duree": 199,
-              "version": "VO",
-              "format": "",
+              "version": "",
+              "format": "DCP",
               "adaptation": "D'après le recueil de nouvelles _Les Lettres de mon moulin_ d'Alphonse Daudet.",
               "generique": [
                 "Rellys",
@@ -370,8 +416,8 @@
               "pays": "France",
               "annee": 1952,
               "duree": 117,
-              "version": "VO",
-              "format": "",
+              "version": "",
+              "format": "DCP",
               "generique": [
                 "Jacqueline Pagnol",
                 "Raymond Pellegrin",
@@ -382,7 +428,7 @@
           ],
           "seances": [
             {
-              "idSeance": 130300,
+              "idSeance": 133580,
               "dateHeure": "2024-07-20T15:00:00",
               "idSalle": "GF"
             }
@@ -399,7 +445,7 @@
               "pays": "France",
               "annee": 1931,
               "duree": 138,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "adaptation": "D'après la pièce _Marius_ de Marcel Pagnol.",
               "generique": [
@@ -413,38 +459,55 @@
           ],
           "seances": [
             {
-              "idSeance": 130114,
+              "idSeance": 133575,
               "dateHeure": "2024-07-14T15:00:00",
               "idSalle": "GF"
             }
           ]
         },
         {
-          "idFilm": 50514,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50514,
-              "ordre": 1,
-              "titre": "Merlusse",
-              "realisateurs": "Marcel Pagnol",
-              "pays": "France",
-              "annee": 1935,
-              "duree": 72,
-              "version": "VO",
-              "format": "",
-              "generique": [
-                "Henri Poupon",
-                "Rellys",
-                "André Pollack"
-              ],
-              "miniTexte": "Vacances de Noël au lycée Thiers de Marseille. Quelques orphelins et élèves « oubliés » sont gardés par un surveillant borgne, qui, sous des dehors terrifiants, cache une immense tendresse. Derrière les murs lugubres de l'école à l'atmosphère parfaitement restituée, une fable sensible qui possède l'étoffe d'un _Zéro de conduite_."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 50514,
+                  "ordre": 1,
+                  "titre": "Merlusse",
+                  "realisateurs": "Marcel Pagnol",
+                  "pays": "France",
+                  "annee": 1935,
+                  "duree": 72,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Henri Poupon",
+                    "Rellys",
+                    "André Pollack"
+                  ],
+                  "miniTexte": "Vacances de Noël au lycée Thiers de Marseille. Quelques orphelins et élèves « oubliés » sont gardés par un surveillant borgne, qui, sous des dehors terrifiants, cache une immense tendresse. Derrière les murs lugubres de l'école à l'atmosphère parfaitement restituée, une fable sensible qui possède l'étoffe d'un _Zéro de conduite_."
+                }
+              ]
+            },
             {
-              "idSeance": 130213,
-              "dateHeure": "2024-07-18T18:30:00",
-              "idSalle": "GF"
+              "idEvenement": 30575,
+              "content": [
+                {
+                  "idConf": 30575,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Marcos Uzal",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Dans un internat de Marseille dont nous ne sortirons pas, toutes les couches sociales se croisent lors d'un triste réveillon « des orphelins qui n'ont pas perdu leurs parents ». Les uns sont trop pauvres pour la fête, les autres trop riches pour déranger les agapes d'une famille qui les délaisse. La violence de la guerre 14-18 persiste dans la blessure de monsieur Blanchard (génial Henri Poupon), cet œil mort qui effraie les enfants. Et les colonies affleurent dans le manque d'un père, qu'il soit roi d'un pays lointain ou ouvrier de l'autre côté de la mer. _Merlusse_, c'est un peu le chaînon manquant entre _Zéro de conduite_ de Jean Vigo et _La Maison des bois_ de Pialat. — Marcos Uzal"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133569,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-07-12T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -459,8 +522,8 @@
               "pays": "France",
               "annee": 1945,
               "duree": 117,
-              "version": "VO",
-              "format": "",
+              "version": "",
+              "format": "DCP",
               "adaptation": "D'après le recueil de nouvelles _Naïs Micoulin_ d'Émile Zola.",
               "generique": [
                 "Fernandel",
@@ -489,7 +552,7 @@
               "pays": "France",
               "annee": 1937,
               "duree": 127,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "adaptation": "D'après le roman _Regain_ de Jean Giono.",
               "generique": [
@@ -502,7 +565,7 @@
           ],
           "seances": [
             {
-              "idSeance": 130756,
+              "idSeance": 133572,
               "dateHeure": "2024-07-11T17:30:00",
               "idSalle": "GF"
             }
@@ -520,7 +583,7 @@
               "pays": "France",
               "annee": 1938,
               "duree": 123,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "ageMinimal": 8,
               "generique": [
@@ -534,8 +597,8 @@
           ],
           "seances": [
             {
-              "idSeance": 130133,
-              "dateHeure": "2024-07-13T18:15:00",
+              "idSeance": 133570,
+              "dateHeure": "2024-07-18T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -551,8 +614,8 @@
               "pays": "France",
               "annee": 1936,
               "duree": 100,
-              "version": "VO",
-              "format": "",
+              "version": "",
+              "format": "16 mm",
               "generique": [
                 "Alexandre Arnaudy",
                 "Sylvia Bataille",
@@ -563,7 +626,7 @@
           ],
           "seances": [
             {
-              "idSeance": 130755,
+              "idSeance": 133574,
               "dateHeure": "2024-07-11T20:30:00",
               "idSalle": "GF"
             }
@@ -580,7 +643,7 @@
               "pays": "France",
               "annee": 1951,
               "duree": 136,
-              "version": "VO",
+              "version": "",
               "format": "DCP",
               "adaptation": "D'après la pièce _Topaze_ de Marcel Pagnol.",
               "generique": [
@@ -593,31 +656,37 @@
           ],
           "seances": [
             {
-              "idSeance": 130319,
+              "idSeance": 133581,
               "dateHeure": "2024-07-21T15:00:00",
               "idSalle": "GF"
             }
           ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
+        },
         {
-          "idConf": 30575,
+          "idFilm": 154830,
           "content": [
             {
-              "idConf": 30575,
-              "titre": "Film + Dialogue avec Marcos Uzal",
-              "typeConference": "Dialogue"
+              "idFilm": 154830,
+              "ordre": 1,
+              "titre": "Ugolin",
+              "realisateurs": "Marcel Pagnol",
+              "pays": "France",
+              "annee": 1952,
+              "duree": 110,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Jacqueline Pagnol",
+                "Raymond Pellegrin",
+                "Anne Roudier"
+              ],
+              "miniTexte": "Deuxième volet de la fresque villageoise _Manon des sources_ (à l'origine un seul et même film), _Ugolin_ se concentre sur la figure pathétique du paysan fou amoureux de Manon, et pris de remords pour avoir causé la faillite de son père, Jean de Florette."
             }
           ],
           "seances": [
             {
-              "idSeance": 130637,
-              "dateHeure": "2024-07-13T14:30:00",
+              "idSeance": 133584,
+              "dateHeure": "2024-07-20T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -628,8 +697,9 @@
   "syntheseAction": {
     "Dialogue": [
       {
-        "mention": "Film + Dialogue avec Marcos Uzal",
-        "dateHeure": "2024-07-13T14:30:00"
+        "titreFilms": "Merlusse",
+        "mention": "avec Marcos Uzal",
+        "dateHeure": "2024-07-12T19:00:00"
       }
     ]
   }
