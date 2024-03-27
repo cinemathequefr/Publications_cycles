@@ -52,7 +52,7 @@
               "realisateurs": "Marcel Pagnol",
               "pays": "France",
               "annee": 1948,
-              "duree": 99,
+              "duree": 103,
               "version": "",
               "format": "35 mm",
               "generique": [
@@ -420,31 +420,48 @@
           ]
         },
         {
-          "idFilm": 50514,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50514,
-              "ordre": 1,
-              "titre": "Merlusse",
-              "realisateurs": "Marcel Pagnol",
-              "pays": "France",
-              "annee": 1935,
-              "duree": 72,
-              "version": "VO",
-              "format": "",
-              "generique": [
-                "Henri Poupon",
-                "Rellys",
-                "André Pollack"
-              ],
-              "miniTexte": "Vacances de Noël au lycée Thiers de Marseille. Quelques orphelins et élèves « oubliés » sont gardés par un surveillant borgne, qui, sous des dehors terrifiants, cache une immense tendresse. Derrière les murs lugubres de l'école à l'atmosphère parfaitement restituée, une fable sensible qui possède l'étoffe d'un _Zéro de conduite_."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 50514,
+                  "ordre": 1,
+                  "titre": "Merlusse",
+                  "realisateurs": "Marcel Pagnol",
+                  "pays": "France",
+                  "annee": 1935,
+                  "duree": 72,
+                  "version": "VO",
+                  "format": "",
+                  "generique": [
+                    "Henri Poupon",
+                    "Rellys",
+                    "André Pollack"
+                  ],
+                  "miniTexte": "Vacances de Noël au lycée Thiers de Marseille. Quelques orphelins et élèves « oubliés » sont gardés par un surveillant borgne, qui, sous des dehors terrifiants, cache une immense tendresse. Derrière les murs lugubres de l'école à l'atmosphère parfaitement restituée, une fable sensible qui possède l'étoffe d'un _Zéro de conduite_."
+                }
+              ]
+            },
             {
-              "idSeance": 133569,
-              "dateHeure": "2024-07-12T19:00:00",
-              "idSalle": "GF"
+              "idEvenement": 30575,
+              "content": [
+                {
+                  "idConf": 30575,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Marcos Uzal",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Dans un internat de Marseille dont nous ne sortirons pas, toutes les couches sociales se croisent lors d'un triste réveillon « des orphelins qui n'ont pas perdu leurs parents ». Les uns sont trop pauvres pour la fête, les autres trop riches pour déranger les agapes d'une famille qui les délaisse. La violence de la guerre 14-18 persiste dans la blessure de monsieur Blanchard (génial Henri Poupon), cet œil mort qui effraie les enfants. Et les colonies affleurent dans le manque d'un père, qu'il soit roi d'un pays lointain ou ouvrier de l'autre côté de la mer. _Merlusse_, c'est un peu le chaînon manquant entre _Zéro de conduite_ de Jean Vigo et _La Maison des bois_ de Pialat. — Marcos Uzal"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133569,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-07-12T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -600,37 +617,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30575,
-          "content": [
-            {
-              "idConf": 30575,
-              "titre": "Dialogue avec Marcos Uzal",
-              "typeConference": "Dialogue",
-              "miniTexte": "Dans un internat de Marseille dont nous ne sortirons pas, toutes les couches sociales se croisent lors d'un triste réveillon « des orphelins qui n'ont pas perdu leurs parents ». Les uns sont trop pauvres pour la fête, les autres trop riches pour déranger les agapes d'une famille qui les délaisse. La violence de la guerre 14-18 persiste dans la blessure de monsieur Blanchard (génial Henri Poupon), cet œil mort qui effraie les enfants. Et les colonies affleurent dans le manque d'un père, qu'il soit roi d'un pays lointain ou ouvrier de l'autre côté de la mer. _Merlusse_, c'est un peu le chaînon manquant entre _Zéro de conduite_ de Jean Vigo et _La Maison des bois_ de Pialat. — Marcos Uzal"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 130637,
-              "dateHeure": "2024-07-12T20:15:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Merlusse",
         "mention": "avec Marcos Uzal",
-        "dateHeure": "2024-07-12T20:15:00"
+        "dateHeure": "2024-07-12T19:00:00"
       }
     ]
   }

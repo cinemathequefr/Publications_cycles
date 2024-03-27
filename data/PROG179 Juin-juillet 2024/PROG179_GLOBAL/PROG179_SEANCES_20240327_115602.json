@@ -1187,30 +1187,17 @@
       [
         "Conservatoire des techniques cinématographiques",
         "Rencontres et conférences"
-      ],
-      [
-        "James Cameron",
-        "Les films"
       ]
     ],
     "items": [
       {
         "idConf": 30641,
-        "titre": "Russell Carpenter par Russell Carpenter, une leçon de cinéma",
-        "typeConference": "Leçon de cinéma",
+        "titre": "Dialogue avec Russell Carpenter",
+        "typeConference": "Dialogue",
         "duree": 60
-      },
-      {
-        "idFilm": 29089,
-        "titre": "Titanic",
-        "realisateurs": "James Cameron",
-        "annee": 1997,
-        "duree": 194,
-        "version": "VOSTF",
-        "format": "DCP"
       }
     ],
-    "hashEvenement": "c30641f29089"
+    "hashEvenement": "c30641"
   },
   {
     "idSeance": 129330,
@@ -1259,6 +1246,30 @@
       }
     ],
     "hashEvenement": "f29232"
+  },
+  {
+    "idSeance": 130631,
+    "idEvenement": 29891,
+    "dateHeure": "2024-06-14T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "James Cameron",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29089,
+        "titre": "Titanic",
+        "realisateurs": "James Cameron",
+        "annee": 1997,
+        "duree": 194,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f29089"
   },
   {
     "idSeance": 130813,
@@ -4248,10 +4259,6 @@
       [
         "Marcel Pagnol",
         "Les films"
-      ],
-      [
-        "Marcel Pagnol",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -4262,15 +4269,9 @@
         "annee": 1935,
         "duree": 72,
         "version": "VO"
-      },
-      {
-        "idConf": 30575,
-        "titre": "Dialogue avec Marcos Uzal",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f50514c30575"
+    "hashEvenement": "f50514"
   },
   {
     "idSeance": 130074,
@@ -4290,7 +4291,7 @@
         "art": "La",
         "realisateurs": "Marcel Pagnol",
         "annee": 1948,
-        "duree": 103,
+        "duree": 99,
         "format": "35 mm"
       }
     ],
@@ -4319,6 +4320,27 @@
       }
     ],
     "hashEvenement": "f59914"
+  },
+  {
+    "idSeance": 130637,
+    "idEvenement": 30575,
+    "dateHeure": "2024-07-12T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marcel Pagnol",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30575,
+        "titre": "Dialogue avec Marcos Uzal",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30575"
   },
   {
     "idSeance": 130892,
@@ -4910,10 +4932,6 @@
     "dateHeure": "2024-07-19T20:00:00",
     "salle": "HL",
     "cycle": [
-      [
-        "Conservatoire des techniques cinématographiques",
-        "Rencontres et conférences"
-      ],
       [
         "James Cameron",
         "Les films"

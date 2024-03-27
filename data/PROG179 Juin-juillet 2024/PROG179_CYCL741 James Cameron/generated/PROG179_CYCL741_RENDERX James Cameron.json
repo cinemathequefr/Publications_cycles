@@ -139,6 +139,27 @@
           ]
         },
         {
+          "idConf": 30641,
+          "content": [
+            {
+              "idEvenement": 30641,
+              "ordre": 1,
+              "titre": "Russell Carpenter par Russell Carpenter, une leçon de cinéma",
+              "typeConference": "Leçon de cinéma",
+              "mentionAnimation": "Animé par Laurent Mannoni",
+              "miniTexte": "Jusqu'alors directeur de la photographie du _Cobaye_ ou de _Chasse à l'homme_ de John Woo, Russell Carpenter se voit confier la photographie de _True Lies_ en 1994. James Cameron, lui-même hyper exigeant, remarque que son directeur photo est « très méticuleux », qu'il sait travailler en équipe, et « qu'il a les yeux qui brille quand il voit quelque chose qu'il aime ». Carpenter enchaîne, en 70 mm et en 3D, avec _Terminator 2 3D_ (1996), destiné au parc d'attractions d'Universal, puis le voilà embarqué sur le _Titanic_. Tourné en Super 35 mm, le film regorge de prises de vues sous-marines, de trucages mixant _morphing_, maquettes, animation de caches, _motion control_, _compositing_. Un tournage difficile, mais on connaît la suite : triomphe international, recettes extraordinaires... et un Oscar pour Carpenter. Le deuxième _Avatar_, _La Voie de l'eau_, tourné en _performance capture_ et en 3D avec des outils révolutionnaires, est le premier film 4K en relief, en HDR (High Dynamic Range), en son Dolby Atmos et, enfin, en HFR (High Frame Rate), soit 48 images par seconde, offrant des mouvements d'une fluidité parfaite. C'est dire la complexité du tournage. Mais comme le dit Cameron : « If the shoot's not exciting, the film's not going to be exciting! » — Laurent Mannoni"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130808,
+              "typeAssoc": 118,
+              "dateHeure": "2024-06-14T18:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 30824,
           "content": [
             {
@@ -204,7 +225,7 @@
           "content": [
             {
               "idFilm": 29089,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Titanic",
               "realisateurs": "James Cameron",
               "pays": "États-Unis",
@@ -218,14 +239,23 @@
                 "Billy Zane"
               ],
               "isFocus": true,
-              "miniTexte": "Reconstitution minutieuse et grandiose du plus grand naufrage connu, à la fois le _magnum opus_ de James Cameron, et _la_ superproduction des années 90. Le film de tous les records, au budget colossal, installé plus d'une décennie en tête du box-office mondial, récompensé par 11 Oscars. Mais au-delà des chiffres, _Titanic_ marque un nouveau tournant dans l'histoire des effets spéciaux et fait basculer Hollywood dans le tout numérique, à grands coups d'innovations techniques combinées à l'ingéniosité de son auteur. Une œuvre monumentale, qui célèbre autant l'amour fou de Jack et Rose que le cinéma comme art de l'invention, de l'illusion et de l'émerveillement."
+              "miniTexte": "Reconstitution minutieuse et grandiose du plus grand naufrage connu, à la fois le _magnum opus_ de James Cameron, et _la_ superproduction des années 90. Le film de tous les records, au budget colossal, installé plus d'une décennie en tête du box-office mondial, récompensé par 11 Oscars. Mais au-delà des chiffres, _Titanic_ marque un nouveau tournant dans l'histoire des effets spéciaux et fait basculer Hollywood dans le tout numérique, à grands coups d'innovations techniques combinées à l'ingéniosité de son auteur. Une œuvre monumentale, qui célèbre autant l'amour fou de Jack et Rose que le cinéma comme art de l'invention, de l'illusion et de l'émerveillement.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Russell Carpenter par Russell Carpenter, une leçon de cinéma",
+                    null
+                  ]
+                ],
+                []
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 130631,
+              "idSeance": 130808,
               "typeAssoc": 118,
-              "dateHeure": "2024-06-14T20:00:00",
+              "dateHeure": "2024-06-14T18:30:00",
               "idSalle": "HL"
             },
             {
@@ -272,5 +302,12 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Leçon de cinéma": [
+      {
+        "titre": "Russell Carpenter par Russell Carpenter, une leçon de cinéma",
+        "dateHeure": "2024-06-14T18:30:00"
+      }
+    ]
+  }
 }

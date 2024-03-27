@@ -23,6 +23,10 @@
 
   * Fille à la valise (La)
 
+## Conservatoire des techniques cinématographiques (1)
+
+  * Titanic
+
 ## Fenêtre sur les collections (7)
 
   * Ajoncs (Les)  
@@ -33,7 +37,7 @@
   * Trois cousins (Les)  
   * Zinet, Alger, le Bonheur
 
-## James Cameron (8)
+## James Cameron (7)
 
   * Abyss  
   * Aliens, le retour  
@@ -41,7 +45,6 @@
   * Avatar : La Voie de l'eau  
   * Terminator  
   * Terminator 2 : Le Jugement dernier  
-  * Titanic  
   * True Lies
 
 ## La Shaw Brothers et le kung-fu (25)
