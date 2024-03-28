@@ -366,7 +366,7 @@
   * Nurse (La)  
   * People vs. Paul Crump (The)  
   * Police fédérale, Los Angeles  
-  * Sang du châtiment (director's cut) (Le)  
+  * Sang du châtiment (Director's Cut) (Le)  
   * Sang du châtiment (Le)  
   * Strip-tease chez Minsky  
   * Têtes vides cherchent coffres pleins  
