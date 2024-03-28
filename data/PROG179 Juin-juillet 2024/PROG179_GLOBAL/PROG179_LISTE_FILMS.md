@@ -236,7 +236,7 @@
 
 ## Séances spéciales (1)
 
-  * Frente a Guernica
+  * Frente a Guernica (Director's Cut)
 
 ## Valerio Zurlini (7)
 

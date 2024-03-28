@@ -2,7 +2,7 @@
 
 # Et le kung-fu entra dans la modernité...
 
-Il était une fois trois frères parmi les six enfants d'un riche marchand de textile de Shanghaï, Shao Zuiweng, Shao Cunren, Shao Renmei et Shao Yifu, ou Runde, Runje, Runme, et Run Run Shaw, selon la dénomination malaise honorifique. Car si les uns se sont mis à produire des films, notamment Runde qui, à Hong Kong, fabriquait à la chaîne des œuvres en cantonais, les autres les distribuaient et les exploitaient dans ses salles de cinéma acquises à Singapour à la fin des années 20 et destinées à accueillir les membres de la communauté chinoise.
+Il était une fois quatre frères parmi les six enfants d'un riche marchand de textile de Shanghaï, Shao Zuiweng, Shao Cunren, Shao Renmei et Shao Yifu, ou Runde, Runje, Runme, et Run Run Shaw, selon la dénomination malaise honorifique. Car si les uns se sont mis à produire des films, notamment Runde qui, à Hong Kong, fabriquait à la chaîne des œuvres en cantonais, les autres les distribuaient et les exploitaient dans ses salles de cinéma acquises à Singapour à la fin des années 20 et destinées à accueillir les membres de la communauté chinoise.
 
 ## Un ambitieux projet familial
 
@@ -10,7 +10,7 @@ En 1958, les quatre frères, convertis aux avantages de la concentration vertica
 
 ## Vers une diffusion mondiale
 
-En 1972, la Warner Bros. fait l'acquisition des droits de _La Main de fer_ de Chung Chang-wa, réalisateur coréen installé à Hong Kong, et le diffuse mondialement. L'incroyable succès du film ouvre la voie vers une exportation massive, vers l'Occident, des productions de la Shaw Brothers. Les films d'épée (_wu xia piang_) et de kung-fu remplacent dans les _grindhouses_ et les salles des boulevards à double programme les westerns italiens à bout de souffle, et stimulent un nouvel appétit pour un cinéma post-hollywoodien qui aurait construit ses propres règles, révolutionné la manière de filmer les scènes d'action, engendré un nouveau type de personnages mais aussi d'écriture filmique, donné naissance à de nouveaux corps de cinéma.
+En 1972, la Warner Bros. fait l'acquisition des droits de _La Main de fer_ de Chung Chang-wa, réalisateur coréen installé à Hong Kong, et le diffuse mondialement. L'incroyable succès du film ouvre la voie à une exportation massive, vers l'Occident, des productions de la Shaw Brothers. Les films d'épée (_wu xia piang_) et de kung-fu remplacent dans les _grindhouses_ et les salles des boulevards à double programme les westerns italiens à bout de souffle, et stimulent un nouvel appétit pour un cinéma post-hollywoodien qui aurait construit ses propres règles, révolutionné la manière de filmer les scènes d'action, engendré un nouveau type de personnages mais aussi d'écriture filmique, donné naissance à de nouveaux corps de cinéma.
 
 La sélection proposée par cette rétrospective, resserrée sur les films d'arts martiaux, débute en 1972 et s'achève en 1986. Cette période correspond à celle d'une crise qui va frapper le studio dès le début de la décennie. Mais si la Shaw Brothers connaît son apogée économique dans les années 60, c'est au cours de la décennie suivante qu'elle atteint des sommets esthétiques. Certes, Raymond Chow quitte en 1970 la compagnie, suivi en cela par de nombreux talents, pour créer la Golden Harvest. Il embauche celui qui vient de refuser l'offre d'emploi de la Shaw Brothers, jugée trop peu avantageuse, Bruce Lee. C'est pourtant durant cette période que vont s'imposer, peut-être, les deux plus grands auteurs du cinéma de kung-fu de l'époque.
 
