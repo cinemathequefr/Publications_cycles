@@ -1,0 +1,161 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "groupe": [
+            {
+              "idFilm": 47122,
+              "content": [
+                {
+                  "idFilm": 47122,
+                  "ordre": 1,
+                  "titre": "Diable probablement",
+                  "art": "Le",
+                  "realisateurs": "Robert Bresson",
+                  "pays": "France",
+                  "annee": 1977,
+                  "duree": 95,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Antoine Monnier",
+                    "Tina Irissari",
+                    "Henri de Maublanc"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 30774,
+              "content": [
+                {
+                  "idConf": 30774,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Olivier Assayas",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133586,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-06-13T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 55468,
+              "content": [
+                {
+                  "idFilm": 55468,
+                  "ordre": 1,
+                  "titre": "In girum imus nocte et consumimur igni",
+                  "realisateurs": "Guy Debord",
+                  "pays": "France",
+                  "annee": 1978,
+                  "duree": 100,
+                  "version": "",
+                  "format": "DCP"
+                }
+              ]
+            },
+            {
+              "idEvenement": 30775,
+              "content": [
+                {
+                  "idConf": 30775,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Olivier Assayas",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133587,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-06-20T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 44980,
+              "content": [
+                {
+                  "idFilm": 44980,
+                  "ordre": 1,
+                  "titre": "Troubles d'Ådalen",
+                  "art": "Les",
+                  "titreVo": "Ådalen 31",
+                  "realisateurs": "Bo Widerberg",
+                  "pays": "Suède",
+                  "annee": 1969,
+                  "duree": 110,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Peter Schildt",
+                    "Kerstin Tidelius",
+                    "Roland Hedlund",
+                    "Martin Widerberg"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 30776,
+              "content": [
+                {
+                  "idConf": 30776,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Olivier Assayas",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133588,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-06-27T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "titreFilms": "Le Diable probablement",
+        "mention": "avec Olivier Assayas",
+        "dateHeure": "2024-06-13T19:00:00"
+      },
+      {
+        "titreFilms": "In girum imus nocte et consumimur igni",
+        "mention": "avec Olivier Assayas",
+        "dateHeure": "2024-06-20T19:00:00"
+      },
+      {
+        "titreFilms": "Les Troubles d'Ådalen",
+        "mention": "avec Olivier Assayas",
+        "dateHeure": "2024-06-27T19:00:00"
+      }
+    ]
+  }
+}
