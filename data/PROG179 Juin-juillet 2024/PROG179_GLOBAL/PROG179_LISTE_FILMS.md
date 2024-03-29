@@ -181,6 +181,12 @@
   * Une nouvelle vie  
   * Winston Tong en studio
 
+## Parlons cinéma... avec Olivier Assayas (3)
+
+  * Diable probablement (Le)  
+  * In girum imus nocte et consumimur igni  
+  * Troubles d'Ådalen (Les)
+
 ## Richard Quine (22)
 
   * Adorable Voisine (L')  
