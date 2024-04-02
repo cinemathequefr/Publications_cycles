@@ -183,9 +183,9 @@
 
 ## Parlons cinéma... avec Olivier Assayas (3)
 
+  * Ådalen 31  
   * Diable probablement (Le)  
-  * In girum imus nocte et consumimur igni  
-  * Troubles d'Ådalen (Les)
+  * In girum imus nocte et consumimur igni
 
 ## Richard Quine (22)
 
@@ -212,10 +212,11 @@
   * Une vierge sur canapé  
   * W
 
-## Road Movie, USA, 25 indispensables (23)
+## Road Movie, USA, 25 indispensables (25)
 
   * Alice n'est plus ici  
   * American Honey  
+  * Balade sauvage (La)  
   * Brown Bunny (The)  
   * Canardeur (Le)  
   * Dillinger  
@@ -234,6 +235,7 @@
   * Stranger Than Paradise  
   * Thelma et Louise  
   * Un monde parfait  
+  * Une histoire vraie  
   * Voyages de Sullivan (Les)  
   * Wanda  
   * Wild Boys of the Road

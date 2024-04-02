@@ -1,6 +1,6 @@
 > Son premier court, avec Elli Medeiros et _Rectangle_ de Jacno pour bande originale, annonce l'œuvre à venir, la jeunesse, l'amour, le rock. Viennent ensuite 18 films, singuliers, éclectiques, qui creusent le sillon du film d'auteur à la française, sans que jamais l'on puisse réduire son cinéma ample, lyrique, à cette étiquette étriquée. _Irma Vep_ et Maggie Cheung succèdent ainsi à _L'Eau froide_, _L'Heure d'été_ précèdera _Carlos_ 15 ans plus tard. Alors que sort _Hors du temps_, son nouveau film, retour sur l'œuvre d'un cinéaste passé maître dans l'art du contre-pied.
 
-# Olivier Assayas
+# Pulsation vibrante
 
 Olivier Assayas et moi échangeons depuis maintenant 30 ans, mais notre dialogue a commencé quelques années plus tôt, quand j'ai découvert _Paris s'éveille_ lors d'un voyage à Paris. J'avais vu quelques bons films lors de ce séjour, signés Pialat, Garrel, Téchiné ou Carax. Mais _Paris s'éveille_ m'a touché à un autre niveau, par son geste. Il y avait une forme d'urgence dans la manière même de filmer, quelque chose d'impérieux dans la relation entre les personnages et le cadre dans lequel ils évoluaient, qui me parlait directement – en tant qu'amoureux du cinéma, mais aussi en tant que jeune homme confronté au monde, prenant conscience du gouffre entre les espoirs et une réalité déconcertante et tumultueuse. Le film était porté par une vraie force, une tension permanente qui habitait les personnages joués par Langmann, Léaud et surtout Godrèche. Un danger existentiel, universel, et dont Assayas prenait le pouls.
 
