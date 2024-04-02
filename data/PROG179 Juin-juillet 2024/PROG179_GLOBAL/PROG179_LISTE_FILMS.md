@@ -212,11 +212,10 @@
   * Une vierge sur canapé  
   * W
 
-## Road Movie, USA, 25 indispensables (25)
+## Road Movie, USA, 25 indispensables (23)
 
   * Alice n'est plus ici  
   * American Honey  
-  * Balade sauvage (La)  
   * Brown Bunny (The)  
   * Canardeur (Le)  
   * Dillinger  
@@ -235,7 +234,6 @@
   * Stranger Than Paradise  
   * Thelma et Louise  
   * Un monde parfait  
-  * Une histoire vraie  
   * Voyages de Sullivan (Les)  
   * Wanda  
   * Wild Boys of the Road
