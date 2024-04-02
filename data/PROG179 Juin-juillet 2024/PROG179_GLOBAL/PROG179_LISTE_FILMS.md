@@ -183,9 +183,9 @@
 
 ## Parlons cinéma... avec Olivier Assayas (3)
 
+  * Ådalen 31  
   * Diable probablement (Le)  
-  * In girum imus nocte et consumimur igni  
-  * Troubles d'Ådalen (Les)
+  * In girum imus nocte et consumimur igni
 
 ## Richard Quine (22)
 

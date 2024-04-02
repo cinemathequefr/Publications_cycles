@@ -1,4 +1,4 @@
-> Hommage aux studios hongkongais de la Shaw Brothers avec une sélection resserrée de 25 _kung-fu pian_ (films de kung-fu) des années 70-80, période dorée durant laquelle les génies combinés de Chang Cheh et Liu Chia-liang s'imposèrent sur les écrans du monde entier. L'occasion de célébrer la beauté d'un cinéma trop souvent réduit à ses clichés, et dont les arabesques ont durablement marqué la culture populaire. Tous les films seront présentés dans de nouvelles restaurations menées par L'Immagine ritrovata pour Arrow Films.
+> Hommage aux studios hongkongais de la Shaw Brothers avec une sélection resserrée de 25 _kung-fu pian_ (films de kung-fu) des années 70-80, période dorée durant laquelle les génies combinés de Chang Cheh et Liu Chia-liang s'imposèrent sur les écrans du monde entier. L'occasion de célébrer la beauté d'un cinéma trop souvent réduit à ses clichés, et dont les arabesques ont durablement marqué la culture populaire. Tous les films seront présentés dans de nouvelles restaurations menées par L'Immagine Ritrovata pour Arrow Films. Rétrospective avec le soutien de l'Immagine Ritrovata.
 
 # Et le kung-fu entra dans la modernité...
 
