@@ -385,6 +385,39 @@
     ]
   },
   {
+    "idCategorie": 3369,
+    "typeEvenement": 13,
+    "idEvenement": 30663,
+    "idSeance": 133604,
+    "dateHeure": "2024-06-28T17:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 69546,
+        "ordre": 1,
+        "idSeance": 133604,
+        "idCopie": 27952,
+        "duree": 37,
+        "version": "",
+        "format": "16 mm"
+      },
+      {
+        "idFilm": 52326,
+        "ordre": 2,
+        "idSeance": 133604,
+        "idCopie": 27951,
+        "duree": 85,
+        "version": "",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance présentée par Olivier Assayas"
+  },
+  {
     "idCategorie": 3335,
     "typeEvenement": 13,
     "idEvenement": 30460,
@@ -713,38 +746,5 @@
       }
     ],
     "mention": "Séance présentée par Nora Hamzawi"
-  },
-  {
-    "idCategorie": 3369,
-    "typeEvenement": 13,
-    "idEvenement": 30663,
-    "idSeance": 130936,
-    "dateHeure": "2024-07-10T18:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 69546,
-        "ordre": 1,
-        "idSeance": 130936,
-        "idCopie": 27952,
-        "duree": 37,
-        "version": "",
-        "format": "16 mm"
-      },
-      {
-        "idFilm": 52326,
-        "ordre": 2,
-        "idSeance": 130936,
-        "idCopie": 27951,
-        "duree": 85,
-        "version": "",
-        "format": "35 mm"
-      }
-    ],
-    "mention": "Séance présentée par Olivier Assayas"
   }
 ]
