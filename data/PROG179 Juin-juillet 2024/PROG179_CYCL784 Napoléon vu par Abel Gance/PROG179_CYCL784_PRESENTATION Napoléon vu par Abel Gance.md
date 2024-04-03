@@ -1,4 +1,4 @@
-> Un quart de siècle après la mémorable restauration de Kevin Brownlow, et au terme de quinze années d'une aventure collective sans précédent dans l'histoire de la Cinémathèque française, le public est invité à venir juger sur pièce un film que nul n'a jamais vu depuis sa création en mai 1927 : la « grande version » (dite aussi version « Apollo ») d'une durée de 7 heures, et dotée d'un accompagnement musical inédit dû au talent de Simon Cloquet-Lafollye et des musiciens des orchestres de Radio France.
+> Après quinze ans d’une aventure collective sans précédent dans l’histoire de la Cinémathèque française, le public est enfin invité à venir juger sur pièce un film que nul n’a jamais vu depuis ses projections de mai 1927 : la « grande version » (dite aussi version « Apollo ») d’une durée de 7 heures. Une reconstruction exemplaire menée par Georges Mourier, et dotée d'une partition inédite due au talent de Simon Cloquet-Lafollye, enregistrée par les musiciens des orchestres de Radio France.
 
 # Le Napoléon d'Abel Gance, un célèbre inconnu ?
 

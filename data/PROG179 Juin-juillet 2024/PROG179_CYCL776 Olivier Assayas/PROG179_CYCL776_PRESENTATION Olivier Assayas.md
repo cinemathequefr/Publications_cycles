@@ -1,4 +1,4 @@
-> Son premier court, avec Elli Medeiros et _Rectangle_ de Jacno pour bande originale, annonce l'œuvre à venir, la jeunesse, l'amour, le rock. Viennent ensuite 18 films, singuliers, éclectiques, qui creusent le sillon du film d'auteur à la française, sans que jamais l'on puisse réduire son cinéma ample, lyrique, à cette étiquette étriquée. _Irma Vep_ et Maggie Cheung succèdent ainsi à _L'Eau froide_, _L'Heure d'été_ précèdera _Carlos_ 15 ans plus tard. Alors que sort _Hors du temps_, son nouveau film, retour sur l'œuvre d'un cinéaste passé maître dans l'art du contre-pied.
+> Son premier court métrage, avec Elli Medeiros et _Rectangle_ de Jacno pour bande originale, annonce l'œuvre à venir : la jeunesse, l'amour, le rock. Viennent ensuite dix-huit films, singuliers, éclectiques, qui cultivent un certain goût pour la marge et la solitude, tout en insistant sur les vestiges du passé. _Irma Vep_ et Maggie Cheung succèdent à _L'Eau froide_, _L'Heure d'été_ précèdera _Carlos_ quinze ans plus tard. Alors que sort _Hors du temps_, son nouveau film, retour sur l'œuvre d'un cinéaste passé maître dans l'art du contre-pied.
 
 # Pulsation vibrante
 
