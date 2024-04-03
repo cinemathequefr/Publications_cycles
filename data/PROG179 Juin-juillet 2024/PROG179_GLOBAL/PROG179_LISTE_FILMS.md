@@ -138,7 +138,7 @@
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)
 
-## Olivier Assayas (40)
+## Olivier Assayas (39)
 
   * Après mai  
   * Boarding Gate  
@@ -159,7 +159,6 @@
   * Heure d'été (L')  
   * HHH, portrait de Hou Hsiao-Hsien  
   * Hors du temps  
-  * Hotel Atithi  
   * Irma Vep  
   * Irma Vep, épisode 1 : La Tête coupée  
   * Irma Vep, épisode 2 : La Bague qui tue  
