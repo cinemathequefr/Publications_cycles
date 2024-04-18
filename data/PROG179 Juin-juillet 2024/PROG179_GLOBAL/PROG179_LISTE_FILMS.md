@@ -1,5 +1,15 @@
 # Liste des films par cycle
 
+## 63e Semaine de la critique (7)
+
+  * Animale  
+  * Baby  
+  * Blue Sun Palace  
+  * Fantômes (Les)  
+  * Julie zwijgt  
+  * Mer au loin (La)  
+  * Reines du drame (Les)
+
 ## Aujourd'hui le cinéma (16)
 
   * Another Town  
