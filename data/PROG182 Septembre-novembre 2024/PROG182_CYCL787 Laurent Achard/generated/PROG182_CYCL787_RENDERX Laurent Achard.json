@@ -1,0 +1,256 @@
+{
+  "datesCycle": [
+    "2024-08-30T20:00:00",
+    "2024-09-01T20:15:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 100438,
+          "content": [
+            {
+              "idFilm": 100438,
+              "ordre": 1,
+              "titre": "Dernier des fous",
+              "art": "Le",
+              "realisateurs": "Laurent Achard",
+              "pays": "France-Belgique",
+              "annee": 2005,
+              "duree": 96,
+              "version": "VF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _The Last of the Crazy People_ de Timothy Findley.",
+              "generique": [
+                "Julien Cochelin",
+                "Pascal Cervo",
+                "Annie Cordy"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131098,
+              "dateHeure": "2024-08-31T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 114854,
+          "content": [
+            {
+              "idFilm": 114854,
+              "ordre": 1,
+              "titre": "Dernière séance",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2010
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131116,
+              "dateHeure": "2024-09-01T17:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154840,
+          "content": [
+            {
+              "idFilm": 154840,
+              "ordre": 1,
+              "titre": "Jean-François Stévenin : Simples Messieurs",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2020
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133613,
+              "dateHeure": "2024-09-01T15:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 91824,
+          "content": [
+            {
+              "idFilm": 91824,
+              "ordre": 1,
+              "titre": "Peur, petit chasseur",
+              "art": "La",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2003,
+              "generique": [
+                "Mireille Roussel",
+                "Martin Buisson"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Plus qu'hier, moins que demain",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131055,
+              "dateHeure": "2024-08-30T20:00:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 131097,
+              "dateHeure": "2024-08-31T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 64087,
+          "content": [
+            {
+              "idFilm": 64087,
+              "ordre": 2,
+              "titre": "Plus qu'hier, moins que demain",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1998,
+              "generique": [
+                "Martin Mihelich",
+                "Laëtitia Legrix",
+                "Mireille Roussel"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Peur, petit chasseur",
+                    "La"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131055,
+              "dateHeure": "2024-08-30T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Courts métrages",
+      "items": [
+        {
+          "idEvenement": 30787,
+          "content": [
+            {
+              "idFilm": 76312,
+              "ordre": 1,
+              "titre": "Dimanche ou les fantômes",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1994
+            },
+            {
+              "idFilm": 75543,
+              "ordre": 3,
+              "titre": "Qu'en savent les morts ?",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1990
+            },
+            {
+              "idFilm": 121778,
+              "ordre": 4,
+              "titre": "Tableau",
+              "art": "Le",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2012
+            },
+            {
+              "idFilm": 76313,
+              "ordre": 5,
+              "titre": "Une odeur de géranium",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1997
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131097,
+              "dateHeure": "2024-08-31T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 1,
+      "titreSousCycle": "Documentaires sur le cinéma",
+      "items": [
+        {
+          "idFilm": 154839,
+          "content": [
+            {
+              "idFilm": 154839,
+              "ordre": 1,
+              "titre": "Brisseau, 251 rue Marcadet",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2018
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131100,
+              "dateHeure": "2024-08-31T19:45:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 153932,
+          "content": [
+            {
+              "idFilm": 153932,
+              "ordre": 1,
+              "titre": "Patricia Mazuy : avant Saturne",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2022
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131114,
+              "dateHeure": "2024-09-01T20:15:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}

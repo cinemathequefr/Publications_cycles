@@ -3,40 +3,95 @@
   "titre": "Septembre-novembre 2024",
   "cycles": [
     {
-      "idCycleProg": 741,
-      "titreCycle": "James Cameron"
+      "idCycleProg": 11,
+      "titreCycle": "Séances spéciales",
+      "isReg": true,
+      "sousCycles": [{ "titre": "Anatole France", "cats": [3353], "tri": 4 }]
     },
     {
-      "idCycleProg": 757,
-      "titreCycle": "Abel Gance"
+      "idCycleProg": 143,
+      "titreCycle": "Fenêtre sur les collections",
+      "isReg": true,
+      "sousCycles": []
     },
     {
-      "idCycleProg": 788,
-      "titreCycle": "Darejan Omirbaev"
+      "idCycleProg": 472,
+      "titreCycle": "Archi Vives",
+      "isReg": true,
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [3352],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 624,
-      "titreCycle": "David Cronenberg"
+      "titreCycle": "David Cronenberg",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [2673], "tri": 1 },
+        { "titre": "Films pour la télévision", "cats": [2685], "tri": 2 },
+        { "titre": "Courts métrages", "cats": [2684], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [2690], "tri": 4 }
+      ]
+    },
+    {
+      "idCycleProg": 741,
+      "titreCycle": "James Cameron",
+      "sousCycles": [{ "titre": "Les films", "cats": [3235], "tri": 1 }]
+    },
+    {
+      "idCycleProg": 757,
+      "titreCycle": "Abel Gance",
+      "sousCycles": [{ "titre": "Les films", "cats": [3273], "tri": 1 }]
     },
     {
       "idCycleProg": 785,
-      "titreCycle": "George Cukor"
+      "titreCycle": "George Cukor",
+      "sousCycles": [{ "titre": "Les films", "cats": [3367], "tri": 1 }]
     },
     {
       "idCycleProg": 786,
-      "titreCycle": "Marcello Mastroianni"
+      "titreCycle": "Marcello Mastroianni",
+      "sousCycles": [{ "titre": "Les films", "cats": [3371], "tri": 1 }]
     },
     {
       "idCycleProg": 787,
-      "titreCycle": "Laurent Achard"
+      "titreCycle": "Laurent Achard",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3372, 3376], "tri": 1 },
+        { "titre": "Courts métrages", "cats": [3374], "tri": 2 },
+        { "titre": "Documentaires sur le cinéma", "cats": [3375], "tri": 1 }
+      ]
+    },
+    {
+      "idCycleProg": 788,
+      "titreCycle": "Darejan Omirbaev",
+      "sousCycles": [{ "titre": "Les films", "cats": [3373], "tri": 1 }]
     },
     {
       "idCycleProg": 790,
-      "titreCycle": "Jim Jarmusch"
+      "titreCycle": "Jim Jarmusch",
+      "sousCycles": [{ "titre": "Les films", "cats": [3378], "tri": 1 }]
     },
     {
       "idCycleProg": 791,
-      "titreCycle": "Zucker-Abrahams-Zucker"
+      "titreCycle": "Zucker-Abrahams-Zucker",
+      "sousCycles": [{ "titre": "Les films", "cats": [3379], "tri": 1 }]
+    },
+    {
+      "idCycleProg": 793,
+      "titreCycle": "Claude Lelouch",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3381], "tri": 1 },
+        { "titre": "Courts métrages", "cats": [3382], "tri": 4 }
+      ]
+    },
+    {
+      "idCycleProg": 794,
+      "titreCycle": "Sophie Fillières",
+      "sousCycles": [{ "titre": "Les films", "cats": [3383], "tri": 1 }]
     }
   ]
 }
