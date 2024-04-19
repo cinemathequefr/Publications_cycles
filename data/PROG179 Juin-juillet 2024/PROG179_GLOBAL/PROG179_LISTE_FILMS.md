@@ -1,15 +1,21 @@
 # Liste des films par cycle
 
-## 63e Semaine de la critique (8)
+## 63e Semaine de la critique (14)
 
+  * 1996 ou les malheurs de Solveig  
   * Animale  
   * Baby  
   * Blue Sun Palace  
   * Fantômes (Les)  
+  * Fiancées du Sud (Les)  
   * Julie zwijgt  
+  * Locust  
   * Mer au loin (La)  
+  * Pampa (La)  
+  * Rafaat einy ll sama  
   * Reines du drame (Les)  
-  * undefined
+  * Sannapäiv  
+  * Simon de la montagne
 
 ## Aujourd'hui le cinéma (16)
 
@@ -149,7 +155,7 @@
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)
 
-## Olivier Assayas (39)
+## Olivier Assayas (40)
 
   * Après mai  
   * Boarding Gate  
@@ -188,6 +194,7 @@
   * Rectangle  
   * Scopitone  
   * Sils Maria  
+  * Sonntags Abschied  
   * Une nouvelle vie  
   * Winston Tong en studio
 

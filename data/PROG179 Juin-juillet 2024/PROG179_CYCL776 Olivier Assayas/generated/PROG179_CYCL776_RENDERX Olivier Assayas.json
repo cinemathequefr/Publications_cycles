@@ -387,7 +387,16 @@
               "duree": 90,
               "version": "",
               "format": "DCP",
-              "miniTexte": "Plongée dans l'univers de la danse contemporaine, le documentaire suit, au plus près des corps, les répétitions et la représentation du spectacle d'Angelin Preljocaj, sur la musique de Stockhausen."
+              "miniTexte": "Plongée dans l'univers de la danse contemporaine, le documentaire suit, au plus près des corps, les répétitions et la représentation du spectacle d'Angelin Preljocaj, sur la musique de Stockhausen.",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Sonntags Abschied",
+                    null
+                  ]
+                ]
+              ]
             }
           ],
           "seances": [
@@ -645,7 +654,7 @@
           "seances": [
             {
               "idSeance": 130872,
-              "dateHeure": "2024-07-03T20:30:00",
+              "dateHeure": "2024-07-03T20:45:00",
               "idSalle": "JE"
             }
           ]
@@ -822,6 +831,39 @@
               "dateHeure": "2024-06-29T20:15:00",
               "idSalle": "GF",
               "mention": "Séance présentée par Juliette Binoche"
+            }
+          ]
+        },
+        {
+          "idFilm": 154870,
+          "content": [
+            {
+              "idFilm": 154870,
+              "ordre": 2,
+              "titre": "Sonntags Abschied",
+              "realisateurs": "Olivier Assayas",
+              "pays": "France",
+              "annee": 2008,
+              "duree": 42,
+              "version": "",
+              "format": "Numérique",
+              "miniTexte": "Captation d'_Eldorado_ (_Sonntags Abschied_), chorégraphie d'Angelin Preljocaj, créée en 2007, sur une partition proposée par le compositeur Karlheinz Stockhausen.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Eldorado",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 129810,
+              "dateHeure": "2024-07-03T18:00:00",
+              "idSalle": "JE"
             }
           ]
         },
