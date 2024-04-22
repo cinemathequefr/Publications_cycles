@@ -99,10 +99,19 @@
   * Tableau (Le)  
   * Une odeur de géranium
 
-## Marcello Mastroianni (2)
+## Marcello Mastroianni (11)
 
   * 8½  
-  * Dolce vita (La)
+  * Camarades (Les)  
+  * Divorce à l'italienne  
+  * Dolce vita (La)  
+  * Drame de la jalousie  
+  * Femme du prêtre (La)  
+  * Grande bouffe (La)  
+  * Nuit (La)  
+  * Nuits blanches (Les)  
+  * Pigeon (Le)  
+  * Rapt à l'italienne
 
 ## Sophie Fillières (1)
 
