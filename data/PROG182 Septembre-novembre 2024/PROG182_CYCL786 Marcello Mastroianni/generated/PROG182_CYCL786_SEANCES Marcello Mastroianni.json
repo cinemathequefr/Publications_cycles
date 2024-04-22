@@ -2,26 +2,47 @@
   {
     "idCategorie": 3371,
     "typeEvenement": 13,
-    "idEvenement": 30841,
-    "idSeance": 133616,
+    "idEvenement": 30836,
+    "idSeance": 133635,
     "dateHeure": "2024-09-11T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
+    "dureeSeance": 210,
+    "items": [
+      {
+        "idFilm": 43326,
+        "ordre": 1,
+        "idSeance": 133635,
+        "idCopie": 10614,
+        "duree": 174,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3371,
+    "typeEvenement": 13,
+    "idEvenement": 30841,
+    "idSeance": 131533,
+    "dateHeure": "2024-09-18T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "dureeSeance": 165,
-    "typeSeance": 44,
     "items": [
       {
         "idFilm": 45182,
         "ordre": 1,
-        "idSeance": 133616,
+        "idSeance": 131533,
         "idCopie": 16659,
         "duree": 138,
         "version": "VOSTF",
         "format": "DCP"
       }
-    ],
-    "mention": "Ouverture de la rétrospective"
+    ]
   }
 ]
