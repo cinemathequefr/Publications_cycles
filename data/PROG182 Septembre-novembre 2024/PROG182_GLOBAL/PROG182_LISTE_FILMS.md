@@ -1,8 +1,9 @@
 # Liste des films par cycle
 
-## Abel Gance (11)
+## Abel Gance (13)
 
   * Capitaine Fracasse (Le)  
+  * Cyrano et d'Artagnan  
   * J'accuse !  
   * J'accuse  
   * Jérôme Perreau  
@@ -10,6 +11,7 @@
   * Lucrèce Borgia  
   * Paradis perdu  
   * Roman d'un jeune homme pauvre (Le)  
+  * Roue (La)  
   * Un grand amour de Beethoven  
   * Vénus aveugle  
   * Voleur de femmes (Le)
@@ -66,19 +68,19 @@
   * Girls about Town  
   * Grumpy  
   * Hantise  
+  * Haute société  
   * Indiscrétions  
   * Je retourne chez maman  
-  * Les Girls  
   * Madame porte la culotte  
-  * Milliardaire (Le)  
   * My Fair Lady  
+  * Quatre filles du docteur March (Les)  
   * Roman de Marguerite Gautier (Le)  
   * Royal family  
   * Sylvia Scarlett  
   * Tarnished Lady  
-  * Une étoile est née  
   * Une femme qui s'affiche  
-  * Vacances
+  * Vacances  
+  * What Price Hollywood ?
 
 ## James Cameron (2)
 
@@ -99,23 +101,27 @@
   * Tableau (Le)  
   * Une odeur de géranium
 
-## Marcello Mastroianni (11)
+## Marcello Mastroianni (8)
 
   * 8½  
-  * Camarades (Les)  
   * Divorce à l'italienne  
   * Dolce vita (La)  
-  * Drame de la jalousie  
-  * Femme du prêtre (La)  
   * Grande bouffe (La)  
   * Nuit (La)  
   * Nuits blanches (Les)  
   * Pigeon (Le)  
   * Rapt à l'italienne
 
-## Sophie Fillières (1)
+## Sophie Fillières (3)
 
+  * Aïe  
+  * Grande petite  
   * Ma vie, ma gueule
+
+## Séances spéciales (2)
+
+  * Napoléon vu par Abel Gance (partie 1)  
+  * Napoléon vu par Abel Gance (partie 2)
 
 ## Zucker-Abrahams-Zucker (1)
 
