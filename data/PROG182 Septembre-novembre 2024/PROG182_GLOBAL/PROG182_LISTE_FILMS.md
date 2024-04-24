@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Abel Gance (13)
+## Abel Gance (15)
 
   * Capitaine Fracasse (Le)  
   * Cyrano et d'Artagnan  
@@ -9,9 +9,11 @@
   * Jérôme Perreau  
   * Louise  
   * Lucrèce Borgia  
+  * Mater Dolorosa  
   * Paradis perdu  
   * Roman d'un jeune homme pauvre (Le)  
   * Roue (La)  
+  * Tour de Nesle (La)  
   * Un grand amour de Beethoven  
   * Vénus aveugle  
   * Voleur de femmes (Le)
@@ -58,7 +60,7 @@
 
   * Shrouds (The)
 
-## George Cukor (21)
+## George Cukor (20)
 
   * Comment l'esprit vient aux femmes  
   * Croisée des destins (La)  
@@ -73,7 +75,6 @@
   * Je retourne chez maman  
   * Madame porte la culotte  
   * My Fair Lady  
-  * Quatre filles du docteur March (Les)  
   * Roman de Marguerite Gautier (Le)  
   * Royal family  
   * Sylvia Scarlett  
@@ -87,19 +88,15 @@
   * Abyss  
   * Aliens, le retour
 
-## Laurent Achard (11)
+## Laurent Achard (7)
 
   * Brisseau, 251 rue Marcadet  
   * Dernier des fous (Le)  
   * Dernière séance  
-  * Dimanche ou les fantômes  
   * Jean-François Stévenin : Simples Messieurs  
   * Patricia Mazuy : avant Saturne  
   * Peur, petit chasseur (La)  
-  * Plus qu'hier, moins que demain  
-  * Qu'en savent les morts ?  
-  * Tableau (Le)  
-  * Une odeur de géranium
+  * Plus qu'hier, moins que demain
 
 ## Marcello Mastroianni (8)
 
