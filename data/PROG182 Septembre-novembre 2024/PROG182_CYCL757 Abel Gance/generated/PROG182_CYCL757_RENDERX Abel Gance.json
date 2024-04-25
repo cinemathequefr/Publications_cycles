@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-08-29T20:00:00",
-    "2024-09-08T20:30:00"
+    "2024-09-11T18:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,29 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 48585,
+          "content": [
+            {
+              "idFilm": 48585,
+              "ordre": 1,
+              "titre": "Austerlitz",
+              "realisateurs": "Abel Gance",
+              "pays": "France-Italie",
+              "annee": 1959,
+              "duree": 137,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131349,
+              "dateHeure": "2024-09-11T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 48587,
           "content": [
@@ -32,7 +55,7 @@
           ],
           "seances": [
             {
-              "idSeance": 131125,
+              "idSeance": 133654,
               "dateHeure": "2024-09-02T18:00:00",
               "idSalle": "GF"
             }
@@ -47,7 +70,10 @@
               "titre": "Cyrano et d'Artagnan",
               "realisateurs": "Abel Gance",
               "pays": "France-Italie-Espagne",
-              "annee": 1962
+              "annee": 1962,
+              "duree": 146,
+              "version": "",
+              "format": "35 mm"
             }
           ],
           "seances": [
@@ -111,8 +137,8 @@
           ],
           "seances": [
             {
-              "idSeance": 131163,
-              "dateHeure": "2024-09-04T20:45:00",
+              "idSeance": 133660,
+              "dateHeure": "2024-09-05T20:45:00",
               "idSalle": "GF"
             }
           ]
@@ -134,7 +160,7 @@
           ],
           "seances": [
             {
-              "idSeance": 131126,
+              "idSeance": 133655,
               "dateHeure": "2024-09-02T20:00:00",
               "idSalle": "GF"
             }
@@ -157,8 +183,8 @@
           ],
           "seances": [
             {
-              "idSeance": 133634,
-              "dateHeure": "2024-09-05T20:30:00",
+              "idSeance": 133658,
+              "dateHeure": "2024-09-04T20:45:00",
               "idSalle": "GF"
             }
           ]
@@ -186,7 +212,7 @@
           ],
           "seances": [
             {
-              "idSeance": 133615,
+              "idSeance": 133653,
               "dateHeure": "2024-09-01T20:15:00",
               "idSalle": "GF"
             }
@@ -237,10 +263,9 @@
           ],
           "seances": [
             {
-              "idSeance": 131013,
+              "idSeance": 133650,
               "dateHeure": "2024-08-29T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "idSalle": "HL"
             }
           ]
         },
@@ -255,7 +280,7 @@
               "realisateurs": "Abel Gance",
               "pays": "France",
               "annee": 1935,
-              "duree": 0,
+              "duree": 120,
               "version": "",
               "format": "DCP"
             }
@@ -315,7 +340,7 @@
           ],
           "seances": [
             {
-              "idSeance": 133649,
+              "idSeance": 133652,
               "dateHeure": "2024-08-31T17:30:00",
               "idSalle": "GF"
             }
@@ -338,7 +363,7 @@
           ],
           "seances": [
             {
-              "idSeance": 131159,
+              "idSeance": 133656,
               "dateHeure": "2024-09-04T18:30:00",
               "idSalle": "GF"
             }
@@ -366,7 +391,7 @@
           ],
           "seances": [
             {
-              "idSeance": 133642,
+              "idSeance": 133651,
               "dateHeure": "2024-08-30T20:30:00",
               "idSalle": "GF"
             }
@@ -390,7 +415,7 @@
           ],
           "seances": [
             {
-              "idSeance": 131196,
+              "idSeance": 133659,
               "dateHeure": "2024-09-05T18:30:00",
               "idSalle": "GF"
             }
