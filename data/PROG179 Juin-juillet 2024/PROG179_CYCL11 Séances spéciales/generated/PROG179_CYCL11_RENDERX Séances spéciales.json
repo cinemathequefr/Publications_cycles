@@ -31,14 +31,48 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Avant-première Richard Copans",
+      "items": [
+        {
+          "idFilm": 154874,
+          "content": [
+            {
+              "idFilm": 154874,
+              "ordre": 1,
+              "titre": "Looking for Robert",
+              "realisateurs": "Richard Copans",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 73,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 129210,
+              "dateHeure": "2024-06-10T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
       {
         "dateHeure": "2024-06-03T20:00:00",
         "titreFilms": "Frente a Guernica (Director's Cut)",
         "mention": " Séance présentée par Yervant Gianikian"
+      },
+      {
+        "dateHeure": "2024-06-10T20:00:00",
+        "titreFilms": "Looking for Robert"
       }
     ],
     "Séance présentée": [

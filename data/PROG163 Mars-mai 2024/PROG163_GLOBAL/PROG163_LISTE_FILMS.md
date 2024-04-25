@@ -176,6 +176,7 @@
 
   * Comment savoir  
   * Coup de foudre à Notting Hill  
+  * Crazy, Stupid, Love  
   * Dirty Dancing  
   * Femmes de ses rêves (Les)  
   * Happiness Therapy  
@@ -189,7 +190,6 @@
   * Punch-Drunk Love  
   * Quand Harry rencontre Sally  
   * Quatre mariages et un enterrement  
-  * Sans Sarah, rien ne va !  
   * Sexe entre amis  
   * Un jour sans fin  
   * Vous avez un mess@ge  

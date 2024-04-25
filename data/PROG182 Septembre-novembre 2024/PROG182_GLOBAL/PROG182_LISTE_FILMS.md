@@ -1,17 +1,37 @@
 # Liste des films par cycle
 
-## Abel Gance (16)
+## Abel Gance (36)
 
+  * 14 juillet 1953  
+  * A l'ombre des grands chênes (Abel Gance)  
+  * Au secours !  
+  * Auprès de ma blonde  
   * Austerlitz  
+  * Autour de La Fin du monde  
+  * Autour de La Roue  
+  * Autour de Napoléon  
   * Capitaine Fracasse (Le)  
+  * Château de nuages  
   * Cyrano et d'Artagnan  
+  * Dame aux camélias (La)  
+  * Dixième symphonie (La)  
+  * Droit à la vie (Le)  
+  * Fête foraine  
+  * Fin du monde (La)  
+  * Folie du docteur Tube (La)  
+  * Gaz mortels = Les Brouillards sur la ville (Les)  
   * J'accuse !  
   * J'accuse  
   * Jérôme Perreau  
   * Louise  
   * Lucrèce Borgia  
+  * Magirama  
   * Mater Dolorosa  
+  * Napoléon vu par Abel Gance (partie 1)  
+  * Napoléon vu par Abel Gance (partie 2)  
   * Paradis perdu  
+  * Pictographe (Le)  
+  * Poliche  
   * Roman d'un jeune homme pauvre (Le)  
   * Roue (La)  
   * Tour de Nesle (La)  
@@ -62,28 +82,38 @@
 
   * Shrouds (The)
 
-## George Cukor (20)
+## George Cukor (30)
 
   * Comment l'esprit vient aux femmes  
   * Croisée des destins (La)  
+  * David Copperfield  
   * Diablesse en collant rose (La)  
   * Femme aux deux visages (La)  
   * Femmes  
+  * Flamme sacrée (La)  
   * Girls about Town  
+  * Girls (Les)  
   * Grumpy  
   * Hantise  
   * Haute société  
   * Indiscrétions  
+  * Invités de huit heures (Les)  
   * Je retourne chez maman  
+  * Liaisons coupables (Les)  
   * Madame porte la culotte  
   * My Fair Lady  
+  * Quatre filles du docteur March (Les)  
   * Roman de Marguerite Gautier (Le)  
+  * Roméo et Juliette  
   * Royal family  
+  * Suzanne et ses idées  
   * Sylvia Scarlett  
   * Tarnished Lady  
+  * Une étoile est née  
   * Une femme qui s'affiche  
   * Vacances  
-  * What Price Hollywood ?
+  * What Price Hollywood ?  
+  * Zaza
 
 ## James Cameron (2)
 

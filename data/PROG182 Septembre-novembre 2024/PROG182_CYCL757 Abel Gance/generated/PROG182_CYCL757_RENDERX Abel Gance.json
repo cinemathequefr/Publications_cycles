@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-08-29T20:00:00",
-    "2024-09-11T18:00:00"
+    "2024-09-19T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,149 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 73462,
+          "content": [
+            {
+              "idFilm": 73462,
+              "ordre": 1,
+              "titre": "14 juillet 1953",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1954,
+              "duree": 14,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Magirama",
+                    null
+                  ],
+                  [
+                    "Fête foraine",
+                    null
+                  ],
+                  [
+                    "Château de nuages",
+                    null
+                  ],
+                  [
+                    "Auprès de ma blonde",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133669,
+              "dateHeure": "2024-09-12T20:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 106408,
+          "content": [
+            {
+              "idFilm": 106408,
+              "ordre": 1,
+              "titre": "A l'ombre des grands chênes (Abel Gance)",
+              "realisateurs": "Georges Mourier",
+              "pays": "France",
+              "annee": 2005,
+              "duree": 52,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133675,
+              "dateHeure": "2024-09-18T18:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 48672,
+          "content": [
+            {
+              "idFilm": 48672,
+              "ordre": 2,
+              "titre": "Au secours !",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1923,
+              "duree": 36,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [
+                  [
+                    "Folie du docteur Tube",
+                    "La"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131382,
+              "dateHeure": "2024-09-12T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 73473,
+          "content": [
+            {
+              "idFilm": 73473,
+              "ordre": 5,
+              "titre": "Auprès de ma blonde",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1956,
+              "duree": 15,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "14 juillet 1953",
+                    null
+                  ],
+                  [
+                    "Magirama",
+                    null
+                  ],
+                  [
+                    "Fête foraine",
+                    null
+                  ],
+                  [
+                    "Château de nuages",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133669,
+              "dateHeure": "2024-09-12T20:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
         {
           "idFilm": 48585,
           "content": [
@@ -29,6 +172,115 @@
               "idSeance": 131349,
               "dateHeure": "2024-09-11T18:00:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154301,
+          "content": [
+            {
+              "idFilm": 154301,
+              "ordre": 3,
+              "titre": "Autour de La Fin du monde",
+              "realisateurs": "Eugène Deslaw",
+              "pays": "France",
+              "annee": 1930,
+              "duree": 15,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Autour de La Roue",
+                    null
+                  ],
+                  [
+                    "Autour de Napoléon",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131573,
+              "dateHeure": "2024-09-19T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 73466,
+          "content": [
+            {
+              "idFilm": 73466,
+              "ordre": 1,
+              "titre": "Autour de La Roue",
+              "realisateurs": "Blaise Cendrars",
+              "pays": "France",
+              "annee": 1923,
+              "duree": 17,
+              "version": "",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Autour de Napoléon",
+                    null
+                  ],
+                  [
+                    "Autour de La Fin du monde",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131573,
+              "dateHeure": "2024-09-19T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 73467,
+          "content": [
+            {
+              "idFilm": 73467,
+              "ordre": 2,
+              "titre": "Autour de Napoléon",
+              "realisateurs": "Jean Arroy",
+              "pays": "France",
+              "annee": 1925,
+              "duree": 21,
+              "version": "",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [
+                  [
+                    "Autour de La Roue",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Autour de La Fin du monde",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131573,
+              "dateHeure": "2024-09-19T20:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -62,6 +314,51 @@
           ]
         },
         {
+          "idFilm": 73475,
+          "content": [
+            {
+              "idFilm": 73475,
+              "ordre": 4,
+              "titre": "Château de nuages",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1956,
+              "duree": 0,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "14 juillet 1953",
+                    null
+                  ],
+                  [
+                    "Magirama",
+                    null
+                  ],
+                  [
+                    "Fête foraine",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Auprès de ma blonde",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133669,
+              "dateHeure": "2024-09-12T20:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 48588,
           "content": [
             {
@@ -82,6 +379,230 @@
               "dateHeure": "2024-08-30T18:30:00",
               "idSalle": "GF",
               "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 50899,
+          "content": [
+            {
+              "idFilm": 50899,
+              "ordre": 1,
+              "titre": "Dame aux camélias",
+              "art": "La",
+              "realisateurs": "Abel Gance, Fernand Rivers",
+              "pays": "France",
+              "annee": 1934,
+              "duree": 110,
+              "version": "",
+              "format": "",
+              "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131350,
+              "dateHeure": "2024-09-11T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 48673,
+          "content": [
+            {
+              "idFilm": 48673,
+              "ordre": 1,
+              "titre": "Dixième symphonie",
+              "art": "La",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1918,
+              "duree": 81,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Séverin-Mars",
+                "Jean Toulout",
+                "André Lefaur"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133672,
+              "dateHeure": "2024-09-13T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 48674,
+          "content": [
+            {
+              "idFilm": 48674,
+              "ordre": 1,
+              "titre": "Droit à la vie",
+              "art": "Le",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1917,
+              "duree": 52,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Léon Mathot",
+                "Georges Paulais",
+                "Andrée Brabant"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133673,
+              "dateHeure": "2024-09-14T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 73474,
+          "content": [
+            {
+              "idFilm": 73474,
+              "ordre": 3,
+              "titre": "Fête foraine",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1956,
+              "duree": 15,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "14 juillet 1953",
+                    null
+                  ],
+                  [
+                    "Magirama",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Château de nuages",
+                    null
+                  ],
+                  [
+                    "Auprès de ma blonde",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133669,
+              "dateHeure": "2024-09-12T20:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 48675,
+          "content": [
+            {
+              "idFilm": 48675,
+              "ordre": 1,
+              "titre": "Fin du monde",
+              "art": "La",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1930,
+              "duree": 103,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Colette Darfeuil",
+                "Abel Gance",
+                "Victor Francen"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131486,
+              "dateHeure": "2024-09-15T17:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 48677,
+          "content": [
+            {
+              "idFilm": 48677,
+              "ordre": 1,
+              "titre": "Folie du docteur Tube",
+              "art": "La",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1915,
+              "duree": 14,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "ageMinimal": 8,
+              "generique": [
+                "Albert Dieudonné"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Au secours !",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131382,
+              "dateHeure": "2024-09-12T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 48678,
+          "content": [
+            {
+              "idFilm": 48678,
+              "ordre": 1,
+              "titre": "Gaz mortels = Les Brouillards sur la ville",
+              "art": "Les",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1916,
+              "duree": 69,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "generique": [
+                "Léon Mathot",
+                "Emile Keppens",
+                "Henri Maillard",
+                "Maud Richard"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131472,
+              "dateHeure": "2024-09-14T17:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -219,6 +740,84 @@
           ]
         },
         {
+          "idFilm": 73472,
+          "content": [
+            {
+              "idFilm": 73472,
+              "ordre": 2,
+              "titre": "Magirama",
+              "realisateurs": "Abel Gance, Nelly Kaplan",
+              "pays": "France",
+              "annee": 1956,
+              "duree": 60,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Abel Gance",
+                "Robert Vattier"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "14 juillet 1953",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Fête foraine",
+                    null
+                  ],
+                  [
+                    "Château de nuages",
+                    null
+                  ],
+                  [
+                    "Auprès de ma blonde",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133669,
+              "dateHeure": "2024-09-12T20:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 48683,
+          "content": [
+            {
+              "idFilm": 48683,
+              "ordre": 1,
+              "titre": "Mater Dolorosa",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1917,
+              "duree": 88,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Firmin Gémier",
+                "Emmy Lynn",
+                "Armand Tallier",
+                "Paul Vermoyal"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133671,
+              "dateHeure": "2024-09-13T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 48684,
           "content": [
             {
@@ -238,6 +837,70 @@
               "idSeance": 131303,
               "dateHeure": "2024-09-08T20:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154798,
+          "content": [
+            {
+              "idFilm": 154798,
+              "ordre": 1,
+              "titre": "Napoléon vu par Abel Gance (partie 1)",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1927,
+              "duree": 220,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Napoléon vu par Abel Gance (partie 2)",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133670,
+              "dateHeure": "2024-09-14T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 154797,
+          "content": [
+            {
+              "idFilm": 154797,
+              "ordre": 2,
+              "titre": "Napoléon vu par Abel Gance (partie 2)",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1927,
+              "duree": 205,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Napoléon vu par Abel Gance (partie 1)",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133670,
+              "dateHeure": "2024-09-14T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -266,6 +929,53 @@
               "idSeance": 133650,
               "dateHeure": "2024-08-29T20:00:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 154872,
+          "content": [
+            {
+              "idFilm": 154872,
+              "ordre": 1,
+              "titre": "Pictographe",
+              "art": "Le",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1937,
+              "duree": 115,
+              "version": "",
+              "format": "Numérique"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131537,
+              "dateHeure": "2024-09-18T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 48660,
+          "content": [
+            {
+              "idFilm": 48660,
+              "ordre": 1,
+              "titre": "Poliche",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1934,
+              "duree": 89,
+              "version": "",
+              "format": "16 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133674,
+              "dateHeure": "2024-09-15T20:00:00",
+              "idSalle": "JE"
             }
           ]
         },
