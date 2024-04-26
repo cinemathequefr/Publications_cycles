@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Abel Gance (36)
+## Abel Gance (34)
 
   * 14 juillet 1953  
   * A l'ombre des grands chênes (Abel Gance)  
@@ -10,10 +10,9 @@
   * Autour de La Fin du monde  
   * Autour de La Roue  
   * Autour de Napoléon  
+  * Barbe-Rousse  
   * Capitaine Fracasse (Le)  
   * Château de nuages  
-  * Cyrano et d'Artagnan  
-  * Dame aux camélias (La)  
   * Dixième symphonie (La)  
   * Droit à la vie (Le)  
   * Fête foraine  
@@ -24,7 +23,6 @@
   * J'accuse  
   * Jérôme Perreau  
   * Louise  
-  * Lucrèce Borgia  
   * Magirama  
   * Mater Dolorosa  
   * Napoléon vu par Abel Gance (partie 1)  
@@ -82,12 +80,16 @@
 
   * Shrouds (The)
 
-## George Cukor (30)
+## George Cukor (46)
 
+  * Actress (The)  
+  * Agence Cupidon  
+  * Car sauvage est le vent  
   * Comment l'esprit vient aux femmes  
   * Croisée des destins (La)  
   * David Copperfield  
   * Diablesse en collant rose (La)  
+  * Edouard, mon fils  
   * Femme aux deux visages (La)  
   * Femmes  
   * Flamme sacrée (La)  
@@ -96,13 +98,24 @@
   * Grumpy  
   * Hantise  
   * Haute société  
+  * Her Cardboard Lover  
+  * Héritage  
+  * Il était une fois  
   * Indiscrétions  
   * Invités de huit heures (Les)  
   * Je retourne chez maman  
+  * Justine  
   * Liaisons coupables (Les)  
+  * Ma vie à moi  
   * Madame porte la culotte  
+  * Mademoiselle Gagne-Tout  
+  * Milliardaire (Le)  
   * My Fair Lady  
+  * Oiseau bleu (L')  
+  * Othello  
   * Quatre filles du docteur March (Les)  
+  * Riches et célèbres  
+  * Rockabye  
   * Roman de Marguerite Gautier (Le)  
   * Roméo et Juliette  
   * Royal family  
@@ -112,6 +125,7 @@
   * Une étoile est née  
   * Une femme qui s'affiche  
   * Vacances  
+  * Voyages avec ma tante  
   * What Price Hollywood ?  
   * Zaza
 
@@ -130,20 +144,30 @@
   * Peur, petit chasseur (La)  
   * Plus qu'hier, moins que demain
 
-## Marcello Mastroianni (8)
+## Marcello Mastroianni (15)
 
   * 8½  
+  * Bel Antonio (Le)  
+  * Camarades (Les)  
   * Divorce à l'italienne  
   * Dolce vita (La)  
+  * Drame de la jalousie  
+  * Femme du prêtre (La)  
   * Grande bouffe (La)  
+  * Journal intime  
+  * Mariage à l'italienne  
   * Nuit (La)  
   * Nuits blanches (Les)  
   * Pigeon (Le)  
-  * Rapt à l'italienne
+  * Rapt à l'italienne  
+  * Une journée particulière
 
-## Sophie Fillières (3)
+## Sophie Fillières (6)
 
   * Aïe  
+  * Arrête ou je continue  
+  * Belle et la belle (La)  
+  * Gentille  
   * Grande petite  
   * Ma vie, ma gueule
 
