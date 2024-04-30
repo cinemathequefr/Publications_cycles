@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Abel Gance (34)
+## Abel Gance (33)
 
   * 14 juillet 1953  
   * A l'ombre des grands chênes (Abel Gance)  
@@ -19,11 +19,10 @@
   * Fin du monde (La)  
   * Folie du docteur Tube (La)  
   * Gaz mortels = Les Brouillards sur la ville (Les)  
-  * J'accuse !  
   * J'accuse  
   * Jérôme Perreau  
   * Louise  
-  * Magirama  
+  * Magirama (J'accuse)  
   * Mater Dolorosa  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
