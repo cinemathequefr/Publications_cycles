@@ -326,9 +326,32 @@
   {
     "idCategorie": 2673,
     "typeEvenement": 13,
+    "idEvenement": 25754,
+    "idSeance": 132047,
+    "dateHeure": "2024-10-05T19:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 123191,
+        "ordre": 1,
+        "idSeance": 132047,
+        "idCopie": 6592,
+        "duree": 0,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2673,
+    "typeEvenement": 13,
     "idEvenement": 25735,
     "idSeance": 133729,
-    "dateHeure": "2024-10-05T14:30:00",
+    "dateHeure": "2024-10-06T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -341,52 +364,6 @@
         "idSeance": 133729,
         "idCopie": 970,
         "duree": 95,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2673,
-    "typeEvenement": 13,
-    "idEvenement": 25736,
-    "idSeance": 132029,
-    "dateHeure": "2024-10-05T18:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 103263,
-        "ordre": 1,
-        "idSeance": 132029,
-        "idCopie": 23914,
-        "duree": 0,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2673,
-    "typeEvenement": 13,
-    "idEvenement": 25738,
-    "idSeance": 133730,
-    "dateHeure": "2024-10-05T20:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 114845,
-        "ordre": 1,
-        "idSeance": 133730,
-        "idCopie": 23912,
-        "duree": 99,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -418,9 +395,9 @@
   {
     "idCategorie": 2673,
     "typeEvenement": 13,
-    "idEvenement": 25754,
-    "idSeance": 132047,
-    "dateHeure": "2024-10-06T19:45:00",
+    "idEvenement": 25736,
+    "idSeance": 132029,
+    "dateHeure": "2024-10-06T18:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -428,13 +405,36 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 123191,
+        "idFilm": 103263,
         "ordre": 1,
-        "idSeance": 132047,
-        "idCopie": 6592,
+        "idSeance": 132029,
+        "idCopie": 23914,
         "duree": 0,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2673,
+    "typeEvenement": 13,
+    "idEvenement": 25738,
+    "idSeance": 133730,
+    "dateHeure": "2024-10-06T20:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 114845,
+        "ordre": 1,
+        "idSeance": 133730,
+        "idCopie": 23912,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },

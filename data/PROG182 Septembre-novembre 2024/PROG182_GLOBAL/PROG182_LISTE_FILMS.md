@@ -1,30 +1,23 @@
 # Liste des films par cycle
 
-## Abel Gance (35)
+## Abel Gance (28)
 
-  * 14 juillet 1953  
   * A l'ombre des grands chênes (Abel Gance)  
-  * Au secours !  
-  * Auprès de ma blonde  
   * Austerlitz  
   * Autour de La Fin du monde  
   * Autour de La Roue  
   * Autour de Napoléon  
   * Barbe-Rousse  
   * Capitaine Fracasse (Le)  
-  * Château de nuages  
   * Cyrano et d'Artagnan  
   * Dixième symphonie (La)  
   * Droit à la vie (Le)  
-  * Fête foraine  
   * Fin du monde (La)  
-  * Folie du docteur Tube (La)  
   * Gaz mortels = Les Brouillards sur la ville (Les)  
   * J'accuse  
   * Jérôme Perreau  
   * Louise  
   * Lucrèce Borgia  
-  * Magirama (J'accuse)  
   * Mater Dolorosa  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
@@ -37,6 +30,22 @@
   * Un grand amour de Beethoven  
   * Vénus aveugle  
   * Voleur de femmes (Le)
+
+## Bo Widerberg (13)
+
+  * Ådalen 31  
+  * Amour 65  
+  * Beauté des choses (La)  
+  * Chemin du serpent (Le)  
+  * Elvira Madigan  
+  * Hello, Roland !  
+  * Joe Hill  
+  * Liv till varje pris  
+  * Mannen fran Mallorca  
+  * Péché suédois (Le)  
+  * Quartier du corbeau (Le)  
+  * Un flic sur le toit  
+  * Victoria
 
 ## Claude Lelouch (26)
 
@@ -100,18 +109,19 @@
   * Stereo  
   * Videodrome
 
-## George Cukor (42)
+## George Cukor (44)
 
   * Actress (The)  
   * Agence Cupidon  
-  * Car sauvage est le vent  
   * Comment l'esprit vient aux femmes  
   * Croisée des destins (La)  
   * David Copperfield  
   * Diablesse en collant rose (La)  
+  * Edouard, mon fils  
   * Femme aux deux visages (La)  
   * Femmes  
   * Flamme sacrée (La)  
+  * Girls about Town  
   * Girls (Les)  
   * Grumpy  
   * Hantise  
@@ -124,6 +134,7 @@
   * Je retourne chez maman  
   * Justine  
   * Liaisons coupables (Les)  
+  * Ma vie à moi  
   * Madame porte la culotte  
   * Mademoiselle Gagne-Tout  
   * Milliardaire (Le)  
@@ -132,12 +143,12 @@
   * Othello  
   * Quatre filles du docteur March (Les)  
   * Riches et célèbres  
-  * Rockabye  
   * Roman de Marguerite Gautier (Le)  
   * Roméo et Juliette  
   * Royal family  
   * Suzanne et ses idées  
   * Sylvia Scarlett  
+  * Tarnished Lady  
   * Une étoile est née  
   * Une femme qui s'affiche  
   * Vacances  
@@ -186,21 +197,34 @@
   * Vertiges  
   * Yeux noirs (Les)
 
-## Sophie Fillières (7)
+## Sophie Fillières (14)
 
   * Aïe  
+  * Antoine et Sidonie  
   * Arrête ou je continue  
   * Belle et la belle (La)  
+  * Des filles et des chiens  
+  * Fille du directeur et la correspondante anglaise (La)  
   * Gentille  
   * Grande petite  
+  * Insu (L')  
   * Ma vie, ma gueule  
-  * Un chat, un chat
+  * Nathalie Moretti ...  
+  * Rien  
+  * Un chat, un chat  
+  * Véritée zébrée (La)
 
 ## Séances spéciales (2)
 
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)
 
-## Zucker, Abrahams et Zucker (1)
+## Zucker, Abrahams et Zucker (7)
 
+  * Hamburger film sandwich  
+  * Hot Shots !  
+  * Hot Shots ! 2  
   * Top Secret!  
+  * Y a-t-il un flic pour sauver la reine ?  
+  * Y a-t-il un flic pour sauver le président ?  
+  * Y a-t-il un pilote dans l'avion ?  

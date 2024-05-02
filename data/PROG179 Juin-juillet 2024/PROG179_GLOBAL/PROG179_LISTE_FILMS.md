@@ -1,8 +1,7 @@
 # Liste des films par cycle
 
-## 63e Semaine de la critique (24)
+## 63e Semaine de la critique (21)
 
-  * 1996 ou les malheurs de Solveig  
   * Alazar  
   * Animale  
   * Baby  
@@ -10,7 +9,6 @@
   * Ce qu'on demande à une statue, c'est qu'elle ne bouge pas  
   * Elle reste  
   * Fantômes (Les)  
-  * Fiancées du Sud (Les)  
   * Julie zwijgt  
   * Locust  
   * Menina e o pote (A)  
@@ -22,7 +20,6 @@
   * Radikals  
   * Rafaat einy ll sama  
   * Reines du drame (Les)  
-  * Sannapäiv  
   * Simon de la montagne  
   * Supersilly  
   * Taniec w narożniku
