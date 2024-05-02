@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Abel Gance (33)
+## Abel Gance (35)
 
   * 14 juillet 1953  
   * A l'ombre des grands chênes (Abel Gance)  
@@ -13,6 +13,7 @@
   * Barbe-Rousse  
   * Capitaine Fracasse (Le)  
   * Château de nuages  
+  * Cyrano et d'Artagnan  
   * Dixième symphonie (La)  
   * Droit à la vie (Le)  
   * Fête foraine  
@@ -22,6 +23,7 @@
   * J'accuse  
   * Jérôme Perreau  
   * Louise  
+  * Lucrèce Borgia  
   * Magirama (J'accuse)  
   * Mater Dolorosa  
   * Napoléon vu par Abel Gance (partie 1)  
@@ -75,11 +77,30 @@
   * Route (La)  
   * Tueur à gages
 
-## David Cronenberg (1)
+## David Cronenberg (20)
 
-  * Shrouds (The)
+  * A Dangerous Method  
+  * A History of Violence  
+  * Chromosome 3  
+  * Cosmopolis  
+  * Crash  
+  * Crimes du futur (Les)  
+  * Crimes of the Future  
+  * Dead Zone  
+  * Faux-semblants  
+  * Festin nu (Le)  
+  * Frissons  
+  * Maps to the Stars  
+  * Mouche (La)  
+  * Promesses de l'ombre (Les)  
+  * Rage  
+  * Scanners  
+  * Shrouds (The)  
+  * Spider  
+  * Stereo  
+  * Videodrome
 
-## George Cukor (46)
+## George Cukor (42)
 
   * Actress (The)  
   * Agence Cupidon  
@@ -88,11 +109,9 @@
   * Croisée des destins (La)  
   * David Copperfield  
   * Diablesse en collant rose (La)  
-  * Edouard, mon fils  
   * Femme aux deux visages (La)  
   * Femmes  
   * Flamme sacrée (La)  
-  * Girls about Town  
   * Girls (Les)  
   * Grumpy  
   * Hantise  
@@ -105,7 +124,6 @@
   * Je retourne chez maman  
   * Justine  
   * Liaisons coupables (Les)  
-  * Ma vie à moi  
   * Madame porte la culotte  
   * Mademoiselle Gagne-Tout  
   * Milliardaire (Le)  
@@ -120,7 +138,6 @@
   * Royal family  
   * Suzanne et ses idées  
   * Sylvia Scarlett  
-  * Tarnished Lady  
   * Une étoile est née  
   * Une femme qui s'affiche  
   * Vacances  
@@ -143,32 +160,41 @@
   * Peur, petit chasseur (La)  
   * Plus qu'hier, moins que demain
 
-## Marcello Mastroianni (15)
+## Marcello Mastroianni (23)
 
   * 8½  
+  * Allonsanfan  
   * Bel Antonio (Le)  
   * Camarades (Les)  
   * Divorce à l'italienne  
   * Dolce vita (La)  
   * Drame de la jalousie  
+  * Fantôme d'amour  
+  * Femme du dimanche (La)  
   * Femme du prêtre (La)  
   * Grande bouffe (La)  
   * Journal intime  
+  * Liza  
   * Mariage à l'italienne  
   * Nuit (La)  
   * Nuits blanches (Les)  
   * Pigeon (Le)  
   * Rapt à l'italienne  
-  * Une journée particulière
+  * Terrasse (La)  
+  * Todo modo  
+  * Une journée particulière  
+  * Vertiges  
+  * Yeux noirs (Les)
 
-## Sophie Fillières (6)
+## Sophie Fillières (7)
 
   * Aïe  
   * Arrête ou je continue  
   * Belle et la belle (La)  
   * Gentille  
   * Grande petite  
-  * Ma vie, ma gueule
+  * Ma vie, ma gueule  
+  * Un chat, un chat
 
 ## Séances spéciales (2)
 
