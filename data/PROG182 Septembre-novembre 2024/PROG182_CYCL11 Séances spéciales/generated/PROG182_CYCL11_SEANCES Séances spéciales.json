@@ -1,33 +1,87 @@
 [
   {
-    "idCategorie": 3351,
+    "idCategorie": 3397,
     "typeEvenement": 13,
-    "idEvenement": 30629,
-    "idSeance": 133639,
-    "dateHeure": "2024-09-14T14:30:00",
+    "idEvenement": 31004,
+    "idSeance": 133719,
+    "dateHeure": "2024-09-09T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 116164,
+        "ordre": 1
+      },
+      {
+        "idFilm": 100023,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 3397,
+    "typeEvenement": 13,
+    "idEvenement": 31005,
+    "idSeance": 133720,
+    "dateHeure": "2024-09-09T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 148994,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3385,
+    "typeEvenement": 13,
+    "idEvenement": 30941,
+    "idSeance": 131797,
+    "dateHeure": "2024-09-27T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 450,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 154798,
+        "idFilm": 46718,
         "ordre": 1,
-        "idSeance": 133639,
-        "idCopie": 27803,
-        "duree": 220,
+        "idSeance": 131797,
+        "idCopie": 28016,
+        "duree": 125,
         "version": "",
         "format": "DCP"
-      },
+      }
+    ]
+  },
+  {
+    "idCategorie": 3385,
+    "typeEvenement": 13,
+    "idEvenement": 30942,
+    "idSeance": 131798,
+    "dateHeure": "2024-09-27T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "items": [
       {
-        "idFilm": 154797,
-        "ordre": 2,
-        "idSeance": 133639,
-        "idCopie": 27804,
-        "duree": 205,
+        "idFilm": 54034,
+        "ordre": 1,
+        "idSeance": 131798,
+        "idCopie": 25856,
+        "duree": 95,
         "version": "",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ]
   }

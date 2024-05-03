@@ -175,7 +175,39 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30968,
+          "content": [
+            {
+              "idConf": 30968,
+              "titre": "Conférence Omirbaev",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133788,
+              "dateHeure": "2024-10-10T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Conférence Omirbaev",
+        "mention": "Conférence ",
+        "dateHeure": "2024-10-10T19:00:00"
+      }
+    ]
+  }
 }

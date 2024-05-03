@@ -86,33 +86,50 @@
   * Route (La)  
   * Tueur à gages
 
-## David Cronenberg (20)
+## David Cronenberg (36)
 
   * A Dangerous Method  
   * A History of Violence  
+  * Camera  
   * Chromosome 3  
   * Cosmopolis  
   * Crash  
   * Crimes du futur (Les)  
   * Crimes of the Future  
   * Dead Zone  
+  * Death of David Cronenberg (The)  
+  * eXistenZ  
+  * Faith Healer (The)  
+  * Fast Company  
   * Faux-semblants  
   * Festin nu (Le)  
   * Frissons  
+  * From the Drain  
+  * Italian Machine (The)  
+  * Jim Ritchie Sculptor  
+  * Letter from Michelangelo  
+  * Lie Chair (The)  
+  * M. Butterfly  
   * Maps to the Stars  
   * Mouche (La)  
+  * Nid (Le)  
   * Promesses de l'ombre (Les)  
   * Rage  
   * Scanners  
+  * Secret Weapons  
   * Shrouds (The)  
   * Spider  
   * Stereo  
+  * Tourettes  
+  * Transfer  
+  * Victim (The)  
   * Videodrome
 
 ## George Cukor (44)
 
   * Actress (The)  
   * Agence Cupidon  
+  * Car sauvage est le vent  
   * Comment l'esprit vient aux femmes  
   * Croisée des destins (La)  
   * David Copperfield  
@@ -127,7 +144,6 @@
   * Hantise  
   * Haute société  
   * Her Cardboard Lover  
-  * Héritage  
   * Il était une fois  
   * Indiscrétions  
   * Invités de huit heures (Les)  
@@ -171,7 +187,7 @@
   * Peur, petit chasseur (La)  
   * Plus qu'hier, moins que demain
 
-## Marcello Mastroianni (23)
+## Marcello Mastroianni (25)
 
   * 8½  
   * Allonsanfan  
@@ -183,6 +199,7 @@
   * Fantôme d'amour  
   * Femme du dimanche (La)  
   * Femme du prêtre (La)  
+  * Ginger et Fred  
   * Grande bouffe (La)  
   * Journal intime  
   * Liza  
@@ -191,6 +208,7 @@
   * Nuits blanches (Les)  
   * Pigeon (Le)  
   * Rapt à l'italienne  
+  * Splendor  
   * Terrasse (La)  
   * Todo modo  
   * Une journée particulière  
@@ -214,10 +232,13 @@
   * Un chat, un chat  
   * Véritée zébrée (La)
 
-## Séances spéciales (2)
+## Séances spéciales (5)
 
-  * Napoléon vu par Abel Gance (partie 1)  
-  * Napoléon vu par Abel Gance (partie 2)
+  * Family portraits  
+  * Galets d'Étretat (Les)  
+  * Sisters  
+  * Theatre bizarre : The Accident (The)  
+  * Un beau monstre
 
 ## Zucker, Abrahams et Zucker (7)
 

@@ -49,7 +49,7 @@
     "hashEvenement": "f79003"
   },
   {
-    "idSeance": 131010,
+    "idSeance": 133779,
     "idEvenement": 30712,
     "dateHeure": "2024-08-29T18:00:00",
     "salle": "GF",
@@ -64,7 +64,10 @@
         "idFilm": 80552,
         "titre": "Grumpy",
         "realisateurs": "George Cukor, Cyril Gardner",
-        "annee": 1930
+        "annee": 1930,
+        "duree": 74,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f80552"
@@ -118,7 +121,7 @@
     "hashEvenement": "f31517"
   },
   {
-    "idSeance": 133769,
+    "idSeance": 133780,
     "idEvenement": 30742,
     "dateHeure": "2024-08-30T15:30:00",
     "salle": "GF",
@@ -133,7 +136,10 @@
         "idFilm": 80554,
         "titre": "Tarnished Lady",
         "realisateurs": "George Cukor",
-        "annee": 1931
+        "annee": 1931,
+        "duree": 80,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f80554"
@@ -497,29 +503,6 @@
     "hashEvenement": "f48586"
   },
   {
-    "idSeance": 133696,
-    "idEvenement": 30044,
-    "dateHeure": "2024-09-02T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Abel Gance",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 48587,
-        "titre": "Capitaine Fracasse",
-        "art": "Le",
-        "realisateurs": "Abel Gance",
-        "annee": 1942,
-        "duree": 107
-      }
-    ],
-    "hashEvenement": "f48587"
-  },
-  {
     "idSeance": 131123,
     "idEvenement": 30707,
     "dateHeure": "2024-09-02T18:00:00",
@@ -544,9 +527,32 @@
     "hashEvenement": "f59286"
   },
   {
+    "idSeance": 133696,
+    "idEvenement": 30044,
+    "dateHeure": "2024-09-02T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48587,
+        "titre": "Capitaine Fracasse",
+        "art": "Le",
+        "realisateurs": "Abel Gance",
+        "annee": 1942,
+        "duree": 107
+      }
+    ],
+    "hashEvenement": "f48587"
+  },
+  {
     "idSeance": 133655,
     "idEvenement": 30050,
-    "dateHeure": "2024-09-02T20:15:00",
+    "dateHeure": "2024-09-02T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -883,6 +889,27 @@
     "hashEvenement": "f31528"
   },
   {
+    "idSeance": 133782,
+    "idEvenement": 30964,
+    "dateHeure": "2024-09-07T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "George Cukor",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30964,
+        "titre": "Dialogue avec Alexandre Piletitch",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30964"
+  },
+  {
     "idSeance": 133644,
     "idEvenement": 30786,
     "dateHeure": "2024-09-07T18:00:00",
@@ -1135,6 +1162,55 @@
     "hashEvenement": "f31523"
   },
   {
+    "idSeance": 133719,
+    "idEvenement": 31004,
+    "dateHeure": "2024-09-09T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Une soirée avec Douglas Buck"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 116164,
+        "titre": "Theatre bizarre : The Accident",
+        "art": "The",
+        "realisateurs": "Douglas Buck",
+        "annee": 2011
+      },
+      {
+        "idFilm": 100023,
+        "titre": "Family portraits",
+        "realisateurs": "Douglas Buck",
+        "annee": 2004
+      }
+    ],
+    "hashEvenement": "f116164f100023"
+  },
+  {
+    "idSeance": 133720,
+    "idEvenement": 31005,
+    "dateHeure": "2024-09-09T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Une soirée avec Douglas Buck"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 148994,
+        "titre": "Sisters",
+        "realisateurs": "Douglas Buck",
+        "annee": 2006
+      }
+    ],
+    "hashEvenement": "f148994"
+  },
+  {
     "idSeance": 133702,
     "idEvenement": 30039,
     "dateHeure": "2024-09-11T18:00:00",
@@ -1184,8 +1260,8 @@
     "hashEvenement": "f43326"
   },
   {
-    "idSeance": 131385,
-    "idEvenement": 30834,
+    "idSeance": 133772,
+    "idEvenement": 30847,
     "dateHeure": "2024-09-12T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -1196,22 +1272,21 @@
     ],
     "items": [
       {
-        "idFilm": 43892,
-        "titre": "Nuits blanches",
-        "art": "Les",
-        "realisateurs": "Luchino Visconti",
-        "annee": 1957,
-        "duree": 107,
+        "idFilm": 45957,
+        "titre": "Rapt à l'italienne",
+        "realisateurs": "Dino Risi",
+        "annee": 1972,
+        "duree": 101,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f43892"
+    "hashEvenement": "f45957"
   },
   {
     "idSeance": 133703,
     "idEvenement": 30835,
-    "dateHeure": "2024-09-12T20:45:00",
+    "dateHeure": "2024-09-12T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1234,8 +1309,8 @@
     "hashEvenement": "f43797"
   },
   {
-    "idSeance": 133686,
-    "idEvenement": 30716,
+    "idSeance": 133770,
+    "idEvenement": 30702,
     "dateHeure": "2024-09-12T21:00:00",
     "salle": "GF",
     "cycle": [
@@ -1246,16 +1321,16 @@
     ],
     "items": [
       {
-        "idFilm": 31386,
-        "titre": "Héritage",
+        "idFilm": 31473,
+        "titre": "Car sauvage est le vent",
         "realisateurs": "George Cukor",
-        "annee": 1932,
-        "duree": 70,
+        "annee": 1957,
+        "duree": 110,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f31386"
+    "hashEvenement": "f31473"
   },
   {
     "idSeance": 133762,
@@ -1374,37 +1449,6 @@
       }
     ],
     "hashEvenement": "f41959"
-  },
-  {
-    "idSeance": 133639,
-    "idEvenement": 30629,
-    "dateHeure": "2024-09-14T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Napoléon vu par Abel Gance"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154798,
-        "titre": "Napoléon vu par Abel Gance (partie 1)",
-        "realisateurs": "Abel Gance",
-        "annee": 1927,
-        "duree": 220,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154797,
-        "titre": "Napoléon vu par Abel Gance (partie 2)",
-        "realisateurs": "Abel Gance",
-        "annee": 1927,
-        "duree": 205,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154798f154797"
   },
   {
     "idSeance": 133670,
@@ -1561,8 +1605,8 @@
     "hashEvenement": "f31512"
   },
   {
-    "idSeance": 133704,
-    "idEvenement": 30847,
+    "idSeance": 133771,
+    "idEvenement": 30857,
     "dateHeure": "2024-09-15T17:00:00",
     "salle": "HL",
     "cycle": [
@@ -1573,16 +1617,16 @@
     ],
     "items": [
       {
-        "idFilm": 45957,
-        "titre": "Rapt à l'italienne",
-        "realisateurs": "Dino Risi",
-        "annee": 1972,
-        "duree": 101,
+        "idFilm": 55717,
+        "titre": "Ginger et Fred",
+        "realisateurs": "Federico Fellini",
+        "annee": 1985,
+        "duree": 125,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f45957"
+    "hashEvenement": "f55717"
   },
   {
     "idSeance": 133676,
@@ -1634,7 +1678,7 @@
   {
     "idSeance": 133705,
     "idEvenement": 30848,
-    "dateHeure": "2024-09-15T19:15:00",
+    "dateHeure": "2024-09-15T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2150,7 +2194,7 @@
     "hashEvenement": "f97823"
   },
   {
-    "idSeance": 133767,
+    "idSeance": 133781,
     "idEvenement": 30725,
     "dateHeure": "2024-09-21T18:00:00",
     "salle": "HL",
@@ -2165,7 +2209,10 @@
         "idFilm": 79895,
         "titre": "Ma vie à moi",
         "realisateurs": "George Cukor",
-        "annee": 1950
+        "annee": 1950,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f79895"
@@ -2362,9 +2409,34 @@
     "hashEvenement": "f42428"
   },
   {
+    "idSeance": 133774,
+    "idEvenement": 30834,
+    "dateHeure": "2024-09-23T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Marcello Mastroianni",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43892,
+        "titre": "Nuits blanches",
+        "art": "Les",
+        "realisateurs": "Luchino Visconti",
+        "annee": 1957,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f43892"
+  },
+  {
     "idSeance": 133716,
     "idEvenement": 30905,
-    "dateHeure": "2024-09-23T18:00:00",
+    "dateHeure": "2024-09-23T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2387,7 +2459,7 @@
   {
     "idSeance": 131681,
     "idEvenement": 30534,
-    "dateHeure": "2024-09-23T20:00:00",
+    "dateHeure": "2024-09-23T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2413,7 +2485,7 @@
   {
     "idSeance": 133717,
     "idEvenement": 30904,
-    "dateHeure": "2024-09-23T20:30:00",
+    "dateHeure": "2024-09-23T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2626,6 +2698,30 @@
     "hashEvenement": "f31448"
   },
   {
+    "idSeance": 131759,
+    "idEvenement": 30944,
+    "dateHeure": "2024-09-26T20:45:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Marcello Mastroianni",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42426,
+        "titre": "Splendor",
+        "realisateurs": "Ettore Scola",
+        "annee": 1988,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42426"
+  },
+  {
     "idSeance": 133732,
     "idEvenement": 30858,
     "dateHeure": "2024-09-27T18:00:00",
@@ -2651,6 +2747,29 @@
     "hashEvenement": "f42352"
   },
   {
+    "idSeance": 131797,
+    "idEvenement": 30941,
+    "dateHeure": "2024-09-27T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Une soirée avec Sergio Gobbi"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46718,
+        "titre": "Un beau monstre",
+        "realisateurs": "Sergio Gobbi",
+        "annee": 1971,
+        "duree": 125,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f46718"
+  },
+  {
     "idSeance": 131800,
     "idEvenement": 30710,
     "dateHeure": "2024-09-27T20:30:00",
@@ -2674,6 +2793,30 @@
       }
     ],
     "hashEvenement": "f31451"
+  },
+  {
+    "idSeance": 131798,
+    "idEvenement": 30942,
+    "dateHeure": "2024-09-27T22:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Une soirée avec Sergio Gobbi"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 54034,
+        "titre": "Galets d'Étretat",
+        "art": "Les",
+        "realisateurs": "Sergio Gobbi",
+        "annee": 1971,
+        "duree": 95,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f54034"
   },
   {
     "idSeance": 131837,
@@ -3064,9 +3207,175 @@
     "hashEvenement": "f56875"
   },
   {
+    "idSeance": 133776,
+    "idEvenement": 25759,
+    "dateHeure": "2024-10-03T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Films pour la télévision"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 130504,
+        "titre": "Secret Weapons",
+        "realisateurs": "David Cronenberg",
+        "annee": 1972,
+        "duree": 22,
+        "version": "VO"
+      },
+      {
+        "idFilm": 130505,
+        "titre": "Victim",
+        "art": "The",
+        "realisateurs": "David Cronenberg",
+        "annee": 1975,
+        "duree": 30,
+        "version": "VOSTF"
+      },
+      {
+        "idFilm": 130506,
+        "titre": "Lie Chair",
+        "art": "The",
+        "realisateurs": "David Cronenberg",
+        "annee": 1975,
+        "duree": 30,
+        "version": "VOSTF"
+      },
+      {
+        "idFilm": 130507,
+        "titre": "Italian Machine",
+        "art": "The",
+        "realisateurs": "David Cronenberg",
+        "annee": 1976,
+        "duree": 30,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f130504f130505f130506f130507"
+  },
+  {
+    "idSeance": 133775,
+    "idEvenement": 25760,
+    "dateHeure": "2024-10-03T21:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 85600,
+        "titre": "Transfer",
+        "realisateurs": "David Cronenberg",
+        "annee": 1966,
+        "duree": 7,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 85602,
+        "titre": "From the Drain",
+        "realisateurs": "David Cronenberg",
+        "annee": 1966,
+        "duree": 14,
+        "version": "VO",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 153088,
+        "titre": "Tourettes",
+        "realisateurs": "David Cronenberg",
+        "annee": 1971,
+        "duree": 6,
+        "version": "VOSTF"
+      },
+      {
+        "idFilm": 85607,
+        "titre": "Camera",
+        "realisateurs": "David Cronenberg",
+        "annee": 2000,
+        "duree": 6,
+        "version": "STF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 153087,
+        "titre": "Faith Healer",
+        "art": "The",
+        "realisateurs": "David Cronenberg",
+        "annee": 1987,
+        "duree": 60,
+        "version": "VOSTF"
+      },
+      {
+        "idFilm": 153089,
+        "titre": "Letter from Michelangelo",
+        "realisateurs": "David Cronenberg",
+        "annee": 1971,
+        "duree": 6
+      },
+      {
+        "idFilm": 153093,
+        "titre": "Death of David Cronenberg",
+        "art": "The",
+        "realisateurs": "David Cronenberg, Caitlin Cronenberg",
+        "annee": 2021,
+        "duree": 1,
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 153094,
+        "titre": "Nid",
+        "art": "Le",
+        "realisateurs": "David Cronenberg",
+        "annee": 2013,
+        "duree": 9,
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 153090,
+        "titre": "Jim Ritchie Sculptor",
+        "realisateurs": "David Cronenberg",
+        "annee": 1971,
+        "duree": 6,
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f85600f85602f153088f85607f153087f153089f153093f153094f153090"
+  },
+  {
+    "idSeance": 133777,
+    "idEvenement": 25731,
+    "dateHeure": "2024-10-04T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 55771,
+        "titre": "M. Butterfly",
+        "realisateurs": "David Cronenberg",
+        "annee": 1992,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f55771"
+  },
+  {
     "idSeance": 131986,
     "idEvenement": 25734,
-    "dateHeure": "2024-10-04T21:30:00",
+    "dateHeure": "2024-10-04T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3088,9 +3397,57 @@
     "hashEvenement": "f79085"
   },
   {
+    "idSeance": 132023,
+    "idEvenement": 25724,
+    "dateHeure": "2024-10-05T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79798,
+        "titre": "Fast Company",
+        "realisateurs": "David Cronenberg",
+        "annee": 1978,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f79798"
+  },
+  {
+    "idSeance": 133778,
+    "idEvenement": 25758,
+    "dateHeure": "2024-10-05T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 64235,
+        "titre": "eXistenZ",
+        "realisateurs": "David Cronenberg",
+        "annee": 1998,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f64235"
+  },
+  {
     "idSeance": 132047,
     "idEvenement": 25754,
-    "dateHeure": "2024-10-05T19:45:00",
+    "dateHeure": "2024-10-05T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3135,28 +3492,25 @@
     "hashEvenement": "f96665"
   },
   {
-    "idSeance": 132046,
-    "idEvenement": 25739,
-    "dateHeure": "2024-10-06T17:30:00",
-    "salle": "GF",
+    "idSeance": 132028,
+    "idEvenement": 30565,
+    "dateHeure": "2024-10-06T16:00:00",
+    "salle": "HL",
     "cycle": [
       [
         "David Cronenberg",
-        "Les films"
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 116210,
-        "titre": "Cosmopolis",
-        "realisateurs": "David Cronenberg",
-        "annee": 2011,
-        "duree": 108,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idConf": 30565,
+        "titre": "Dialogue avec Jean-François Rauger",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f116210"
+    "hashEvenement": "c30565"
   },
   {
     "idSeance": 132029,
@@ -3209,7 +3563,7 @@
   {
     "idSeance": 132055,
     "idEvenement": 30527,
-    "dateHeure": "2024-10-07T19:00:00",
+    "dateHeure": "2024-10-07T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3230,6 +3584,30 @@
       }
     ],
     "hashEvenement": "f153514"
+  },
+  {
+    "idSeance": 132056,
+    "idEvenement": 25739,
+    "dateHeure": "2024-10-07T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 116210,
+        "titre": "Cosmopolis",
+        "realisateurs": "David Cronenberg",
+        "annee": 2011,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f116210"
   },
   {
     "idSeance": 132091,
@@ -3254,6 +3632,28 @@
       }
     ],
     "hashEvenement": "f29079"
+  },
+  {
+    "idSeance": 133788,
+    "idEvenement": 30968,
+    "dateHeure": "2024-10-10T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Darejan Omirbaev",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30968,
+        "titre": "Conférence Omirbaev",
+        "sousTitre": "Conférence ",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c30968"
   },
   {
     "idSeance": 132171,
@@ -3831,7 +4231,7 @@
   {
     "idSeance": 132800,
     "idEvenement": 30948,
-    "dateHeure": "2024-11-04T20:30:00",
+    "dateHeure": "2024-11-04T20:45:00",
     "salle": "GF",
     "cycle": [
       [

@@ -3,38 +3,112 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Napoléon vu par Abel Gance",
+      "titreSousCycle": "Une soirée avec Douglas Buck",
       "items": [
         {
-          "idEvenement": 30629,
+          "idEvenement": 31004,
           "content": [
             {
-              "idFilm": 154798,
+              "idFilm": 116164,
               "ordre": 1,
-              "titre": "Napoléon vu par Abel Gance (partie 1)",
-              "realisateurs": "Abel Gance",
-              "pays": "France",
-              "annee": 1927,
-              "duree": 220,
-              "version": "",
-              "format": "DCP"
+              "titre": "Theatre bizarre : The Accident",
+              "art": "The",
+              "realisateurs": "Douglas Buck",
+              "pays": "États-Unis-France-Canada",
+              "annee": 2011
             },
             {
-              "idFilm": 154797,
+              "idFilm": 100023,
               "ordre": 2,
-              "titre": "Napoléon vu par Abel Gance (partie 2)",
-              "realisateurs": "Abel Gance",
-              "pays": "France",
-              "annee": 1927,
-              "duree": 205,
+              "titre": "Family portraits",
+              "titreVo": "Family portraits : A trilogy of America",
+              "realisateurs": "Douglas Buck",
+              "pays": "États-Unis",
+              "annee": 2004
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133719,
+              "dateHeure": "2024-09-09T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 148994,
+          "content": [
+            {
+              "idFilm": 148994,
+              "ordre": 1,
+              "titre": "Sisters",
+              "realisateurs": "Douglas Buck",
+              "pays": "États-Unis",
+              "annee": 2006
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133720,
+              "dateHeure": "2024-09-09T21:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Une soirée avec Sergio Gobbi",
+      "items": [
+        {
+          "idFilm": 46718,
+          "content": [
+            {
+              "idFilm": 46718,
+              "ordre": 1,
+              "titre": "Un beau monstre",
+              "realisateurs": "Sergio Gobbi",
+              "pays": "France-Italie",
+              "annee": 1971,
+              "duree": 125,
               "version": "",
               "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 133639,
-              "dateHeure": "2024-09-14T14:30:00",
+              "idSeance": 131797,
+              "dateHeure": "2024-09-27T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 54034,
+          "content": [
+            {
+              "idFilm": 54034,
+              "ordre": 1,
+              "titre": "Galets d'Étretat",
+              "art": "Les",
+              "realisateurs": "Sergio Gobbi",
+              "pays": "France-Italie",
+              "annee": 1971,
+              "duree": 95,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Virna Lisi",
+                "Maurice Ronet",
+                "Juliette Mills"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131798,
+              "dateHeure": "2024-09-27T22:00:00",
               "idSalle": "HL"
             }
           ]

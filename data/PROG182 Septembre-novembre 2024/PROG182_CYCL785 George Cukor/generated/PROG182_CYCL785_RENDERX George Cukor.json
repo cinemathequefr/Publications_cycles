@@ -60,6 +60,30 @@
           ]
         },
         {
+          "idFilm": 31473,
+          "content": [
+            {
+              "idFilm": 31473,
+              "ordre": 1,
+              "titre": "Car sauvage est le vent",
+              "titreVo": "Wild is the Wind",
+              "realisateurs": "George Cukor",
+              "pays": "États-Unis",
+              "annee": 1957,
+              "duree": 110,
+              "version": "VOSTF",
+              "format": "16 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133770,
+              "dateHeure": "2024-09-12T21:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 45492,
           "content": [
             {
@@ -335,12 +359,15 @@
               "realisateurs": "George Cukor, Cyril Gardner",
               "pays": "États-Unis",
               "annee": 1930,
+              "duree": 74,
+              "version": "VO",
+              "format": "35 mm",
               "adaptation": "D'après la pièce _Grumpy, a play in four acts_ de Horace Hodges et Thomas Wigney Percyval."
             }
           ],
           "seances": [
             {
-              "idSeance": 131010,
+              "idSeance": 133779,
               "dateHeure": "2024-08-29T18:00:00",
               "idSalle": "GF"
             }
@@ -424,31 +451,6 @@
             {
               "idSeance": 133738,
               "dateHeure": "2024-09-16T18:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 31386,
-          "content": [
-            {
-              "idFilm": 31386,
-              "ordre": 1,
-              "titre": "Héritage",
-              "titreVo": "A Bill of Divorcement",
-              "realisateurs": "George Cukor",
-              "pays": "États-Unis",
-              "annee": 1932,
-              "duree": 70,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après la pièce _A Bill of Divorcement_ de Clemence Dane."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133686,
-              "dateHeure": "2024-09-12T21:00:00",
               "idSalle": "GF"
             }
           ]
@@ -632,12 +634,15 @@
               "titreVo": "A Life of Her Own",
               "realisateurs": "George Cukor",
               "pays": "États-Unis",
-              "annee": 1950
+              "annee": 1950,
+              "duree": 108,
+              "version": "VOSTF",
+              "format": "35 mm"
             }
           ],
           "seances": [
             {
-              "idSeance": 133767,
+              "idSeance": 133781,
               "dateHeure": "2024-09-21T18:00:00",
               "idSalle": "HL"
             }
@@ -1016,12 +1021,15 @@
               "titre": "Tarnished Lady",
               "realisateurs": "George Cukor",
               "pays": "États-Unis",
-              "annee": 1931
+              "annee": 1931,
+              "duree": 80,
+              "version": "VO",
+              "format": "35 mm"
             }
           ],
           "seances": [
             {
-              "idSeance": 133769,
+              "idSeance": 133780,
               "dateHeure": "2024-08-30T15:30:00",
               "idSalle": "GF"
             }
@@ -1195,7 +1203,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30964,
+          "content": [
+            {
+              "idConf": 30964,
+              "titre": "Film + dialogue avec Alexandre Piletitch",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133782,
+              "dateHeure": "2024-09-07T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Film + dialogue avec Alexandre Piletitch",
+        "dateHeure": "2024-09-07T16:30:00"
+      }
+    ]
+  }
 }
