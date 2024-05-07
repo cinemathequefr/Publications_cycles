@@ -44,5 +44,51 @@
         "format": "35 mm"
       }
     ]
+  },
+  {
+    "idCategorie": 3235,
+    "typeEvenement": 13,
+    "idEvenement": 29893,
+    "idSeance": 133342,
+    "dateHeure": "2024-11-24T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 110101,
+        "ordre": 1,
+        "idSeance": 133342,
+        "idCopie": 4859,
+        "duree": 150,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3235,
+    "typeEvenement": 13,
+    "idEvenement": 29975,
+    "idSeance": 133343,
+    "dateHeure": "2024-11-24T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 154672,
+        "ordre": 1,
+        "idSeance": 133343,
+        "idCopie": 27179,
+        "duree": 0,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   }
 ]

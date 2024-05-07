@@ -173,10 +173,12 @@
   * What Price Hollywood ?  
   * Zaza
 
-## James Cameron (2)
+## James Cameron (4)
 
   * Abyss  
-  * Aliens, le retour
+  * Aliens, le retour  
+  * Avatar  
+  * Avatar : La Voie de l'eau
 
 ## Jim Jarmusch (14)
 
@@ -209,6 +211,26 @@
   * Tableau (Le)  
   * Un, parfois deux...  
   * Une odeur de géranium
+
+## MK2 (17)
+
+  * Apiculteur (L')  
+  * Au revoir les enfants  
+  * Camarades  
+  * Cérémonie (La)  
+  * Code inconnu  
+  * Coup pour coup  
+  * Femme est l'avenir de l'homme (La)  
+  * Mélo  
+  * No Man's Land  
+  * Nuit de San Lorenzo (La)  
+  * Nuit noire, Calcutta  
+  * Sauve qui peut (la vie)  
+  * Sept jours ailleurs  
+  * Souviens-toi du futur  
+  * Trois couleurs : Rouge  
+  * Vent nous emportera (Le)  
+  * Vie est un long fleuve tranquille (La)
 
 ## Marcello Mastroianni (24)
 
