@@ -1,8 +1,9 @@
 # Liste des films par cycle
 
-## Abel Gance (28)
+## Abel Gance (29)
 
   * A l'ombre des grands chênes (Abel Gance)  
+  * Au secours !  
   * Austerlitz  
   * Autour de La Fin du monde  
   * Autour de La Roue  
@@ -13,6 +14,7 @@
   * Dixième symphonie (La)  
   * Droit à la vie (Le)  
   * Fin du monde (La)  
+  * Folie du docteur Tube (La)  
   * Gaz mortels = Les Brouillards sur la ville (Les)  
   * J'accuse  
   * Jérôme Perreau  
@@ -23,7 +25,6 @@
   * Napoléon vu par Abel Gance (partie 2)  
   * Paradis perdu  
   * Pictographe (Le)  
-  * Poliche  
   * Roman d'un jeune homme pauvre (Le)  
   * Roue (La)  
   * Tour de Nesle (La)  
@@ -177,17 +178,39 @@
   * Abyss  
   * Aliens, le retour
 
-## Laurent Achard (7)
+## Jim Jarmusch (14)
+
+  * Broken Flowers  
+  * Coffee and Cigarettes  
+  * Dead Don't Die (The)  
+  * Dead Man  
+  * Down by Law  
+  * Ghost Dog : La Voie du samouraï  
+  * Gimme Danger  
+  * Limits of Control (The)  
+  * Mystery Train  
+  * Night on Earth  
+  * Only Lovers Left Alive  
+  * Paterson  
+  * Permanent Vacation  
+  * Stranger Than Paradise
+
+## Laurent Achard (12)
 
   * Brisseau, 251 rue Marcadet  
   * Dernier des fous (Le)  
   * Dernière séance  
+  * Dimanche ou les fantômes  
   * Jean-François Stévenin : Simples Messieurs  
   * Patricia Mazuy : avant Saturne  
   * Peur, petit chasseur (La)  
-  * Plus qu'hier, moins que demain
+  * Plus qu'hier, moins que demain  
+  * Qu'en savent les morts ?  
+  * Tableau (Le)  
+  * Un, parfois deux...  
+  * Une odeur de géranium
 
-## Marcello Mastroianni (25)
+## Marcello Mastroianni (24)
 
   * 8½  
   * Allonsanfan  
@@ -212,7 +235,6 @@
   * Terrasse (La)  
   * Todo modo  
   * Une journée particulière  
-  * Vertiges  
   * Yeux noirs (Les)
 
 ## Sophie Fillières (14)

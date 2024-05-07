@@ -133,6 +133,52 @@
           ]
         },
         {
+          "idFilm": 154882,
+          "content": [
+            {
+              "idFilm": 154882,
+              "ordre": 3,
+              "titre": "Drôle de poisson",
+              "realisateurs": " Krishna Chandran A. Nair",
+              "pays": "France-Suisse",
+              "annee": 2017,
+              "duree": 6,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Vacances de Monsieur Hulot",
+                    "Les"
+                  ],
+                  [
+                    "Petit Bateau en papier rouge",
+                    "Le"
+                  ]
+                ],
+                [
+                  [
+                    "Leaf",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 128807,
+              "dateHeure": "2024-05-22T15:00:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 128808,
+              "dateHeure": "2024-05-26T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 51566,
           "content": [
             {
@@ -290,6 +336,51 @@
           ]
         },
         {
+          "idFilm": 154880,
+          "content": [
+            {
+              "idFilm": 154880,
+              "ordre": 4,
+              "titre": "Leaf",
+              "realisateurs": "Aliona Baranova",
+              "pays": "Tchécoslovaquie",
+              "annee": 2020,
+              "duree": 6,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Vacances de Monsieur Hulot",
+                    "Les"
+                  ],
+                  [
+                    "Petit Bateau en papier rouge",
+                    "Le"
+                  ],
+                  [
+                    "Drôle de poisson",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 128807,
+              "dateHeure": "2024-05-22T15:00:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 128808,
+              "dateHeure": "2024-05-26T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 31135,
           "content": [
             {
@@ -388,6 +479,55 @@
               "dateHeure": "2024-04-14T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 10
+            }
+          ]
+        },
+        {
+          "idFilm": 154881,
+          "content": [
+            {
+              "idFilm": 154881,
+              "ordre": 2,
+              "titre": "Petit Bateau en papier rouge",
+              "art": "Le",
+              "titreVo": "Little Red Paper Ship",
+              "artVo": "The",
+              "realisateurs": " Aleksandra Zareba",
+              "pays": "Allemagne-Pologne",
+              "annee": 2013,
+              "duree": 13,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Vacances de Monsieur Hulot",
+                    "Les"
+                  ]
+                ],
+                [
+                  [
+                    "Drôle de poisson",
+                    null
+                  ],
+                  [
+                    "Leaf",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 128807,
+              "dateHeure": "2024-05-22T15:00:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 128808,
+              "dateHeure": "2024-05-26T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -508,6 +648,61 @@
               "dateHeure": "2024-04-17T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 10
+            }
+          ]
+        },
+        {
+          "idFilm": 51386,
+          "content": [
+            {
+              "idFilm": 51386,
+              "ordre": 1,
+              "titre": "Vacances de Monsieur Hulot",
+              "art": "Les",
+              "realisateurs": "Jacques Tati",
+              "pays": "France",
+              "annee": 1951,
+              "duree": 3,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 6,
+              "generique": [
+                "Jacques Tati",
+                "Nathalie Pascaud",
+                "Micheline Rolla"
+              ],
+              "miniTexte": "C'est l'heure des vacances et des grands départs ! Les vacanciers prennent la route pour le bord de mer. Ce qu'ils ne savent pas, c'est que Monsieur Hulot, plus maladroit que jamais, a lui aussi décidé de prendre le grand air !",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Petit Bateau en papier rouge",
+                    "Le"
+                  ],
+                  [
+                    "Drôle de poisson",
+                    null
+                  ],
+                  [
+                    "Leaf",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 128807,
+              "dateHeure": "2024-05-22T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            },
+            {
+              "idSeance": 128808,
+              "dateHeure": "2024-05-26T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
             }
           ]
         }

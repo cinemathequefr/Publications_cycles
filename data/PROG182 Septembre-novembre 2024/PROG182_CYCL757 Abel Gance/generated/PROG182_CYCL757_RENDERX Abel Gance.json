@@ -38,6 +38,38 @@
           ]
         },
         {
+          "idFilm": 48672,
+          "content": [
+            {
+              "idFilm": 48672,
+              "ordre": 2,
+              "titre": "Au secours !",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1923,
+              "duree": 36,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [
+                  [
+                    "Folie du docteur Tube",
+                    "La"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133827,
+              "dateHeure": "2024-09-15T15:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 48585,
           "content": [
             {
@@ -194,6 +226,11 @@
               "idSeance": 133695,
               "dateHeure": "2024-09-01T20:15:00",
               "idSalle": "GF"
+            },
+            {
+              "idSeance": 133828,
+              "dateHeure": "2024-09-15T19:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -244,7 +281,7 @@
           "seances": [
             {
               "idSeance": 133734,
-              "dateHeure": "2024-08-31T17:15:00",
+              "dateHeure": "2024-08-31T17:45:00",
               "idSalle": "GF"
             }
           ]
@@ -273,7 +310,7 @@
           "seances": [
             {
               "idSeance": 133672,
-              "dateHeure": "2024-09-13T19:30:00",
+              "dateHeure": "2024-09-13T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -301,9 +338,9 @@
           ],
           "seances": [
             {
-              "idSeance": 133673,
-              "dateHeure": "2024-09-14T19:30:00",
-              "idSalle": "JE"
+              "idSeance": 133826,
+              "dateHeure": "2024-09-13T18:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -331,7 +368,44 @@
           "seances": [
             {
               "idSeance": 131486,
-              "dateHeure": "2024-09-15T17:30:00",
+              "dateHeure": "2024-09-15T16:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 48677,
+          "content": [
+            {
+              "idFilm": 48677,
+              "ordre": 1,
+              "titre": "Folie du docteur Tube",
+              "art": "La",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1915,
+              "duree": 14,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "ageMinimal": 8,
+              "generique": [
+                "Albert Dieudonné"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Au secours !",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133827,
+              "dateHeure": "2024-09-15T15:00:00",
               "idSalle": "JE"
             }
           ]
@@ -522,9 +596,9 @@
           ],
           "seances": [
             {
-              "idSeance": 133671,
-              "dateHeure": "2024-09-13T17:30:00",
-              "idSalle": "GF"
+              "idSeance": 133825,
+              "dateHeure": "2024-09-14T19:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -669,29 +743,6 @@
           ]
         },
         {
-          "idFilm": 48660,
-          "content": [
-            {
-              "idFilm": 48660,
-              "ordre": 1,
-              "titre": "Poliche",
-              "realisateurs": "Abel Gance",
-              "pays": "France",
-              "annee": 1934,
-              "duree": 89,
-              "version": "",
-              "format": "16 mm"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133674,
-              "dateHeure": "2024-09-15T20:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 48688,
           "content": [
             {
@@ -764,7 +815,7 @@
           "seances": [
             {
               "idSeance": 133652,
-              "dateHeure": "2024-08-31T20:15:00",
+              "dateHeure": "2024-08-31T21:00:00",
               "idSalle": "GF"
             }
           ]

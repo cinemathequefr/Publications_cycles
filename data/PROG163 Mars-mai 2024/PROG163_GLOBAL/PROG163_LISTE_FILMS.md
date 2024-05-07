@@ -195,23 +195,27 @@
   * Vous avez un mess@ge  
   * Working Girl
 
-## Ma petite Cinémathèque (15)
+## Ma petite Cinémathèque (19)
 
   * Aristochats (Les)  
   * Chantons sous la pluie  
   * Dictateur (Le)  
+  * Drôle de poisson  
   * Enfant sauvage (L')  
   * Grease  
   * Guerre des boutons (La)  
   * Indiana Jones et le temple maudit  
   * Là-haut  
+  * Leaf  
   * Magicien d'Oz (Le)  
   * Mais qui a tué Harry ?  
   * Party (La)  
+  * Petit Bateau en papier rouge (Le)  
   * Pompoko  
   * Prophétie des grenouilles (La)  
   * Qui veut la peau de Roger Rabbit  
-  * Soupe au canard (La)
+  * Soupe au canard (La)  
+  * Vacances de Monsieur Hulot (Les)
 
 ## Mae West (12)
 

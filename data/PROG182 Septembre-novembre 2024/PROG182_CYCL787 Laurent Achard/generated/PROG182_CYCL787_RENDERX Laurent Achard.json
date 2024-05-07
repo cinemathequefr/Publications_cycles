@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-09-06T20:00:00",
-    "2024-09-08T19:30:00"
+    "2024-09-11T18:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -111,6 +111,11 @@
               "dateHeure": "2024-09-06T20:00:00",
               "idSalle": "GF",
               "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 133799,
+              "dateHeure": "2024-09-08T14:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -146,6 +151,69 @@
               "dateHeure": "2024-09-06T20:00:00",
               "idSalle": "GF",
               "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Courts métrages",
+      "items": [
+        {
+          "idEvenement": 30787,
+          "content": [
+            {
+              "idFilm": 76312,
+              "ordre": 1,
+              "titre": "Dimanche ou les fantômes",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1994,
+              "duree": 30,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 75543,
+              "ordre": 3,
+              "titre": "Qu'en savent les morts ?",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1990,
+              "duree": 5,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 121778,
+              "ordre": 4,
+              "titre": "Tableau",
+              "art": "Le",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2012,
+              "duree": 30,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 76313,
+              "ordre": 5,
+              "titre": "Une odeur de géranium",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1997,
+              "duree": 30,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133799,
+              "dateHeure": "2024-09-08T14:30:00",
+              "idSalle": "GF"
             }
           ]
         }
@@ -191,6 +259,29 @@
             {
               "idSeance": 131300,
               "dateHeure": "2024-09-08T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 154838,
+          "content": [
+            {
+              "idFilm": 154838,
+              "ordre": 1,
+              "titre": "Un, parfois deux...",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2016,
+              "duree": 52,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131351,
+              "dateHeure": "2024-09-11T18:00:00",
               "idSalle": "JE"
             }
           ]
