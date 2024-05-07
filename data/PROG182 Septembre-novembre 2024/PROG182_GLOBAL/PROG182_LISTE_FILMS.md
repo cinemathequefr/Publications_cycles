@@ -173,12 +173,15 @@
   * What Price Hollywood ?  
   * Zaza
 
-## James Cameron (4)
+## James Cameron (7)
 
   * Abyss  
   * Aliens, le retour  
   * Avatar  
-  * Avatar : La Voie de l'eau
+  * Avatar : La Voie de l'eau  
+  * Terminator  
+  * Terminator 2 : Le Jugement dernier  
+  * Titanic
 
 ## Jim Jarmusch (14)
 
