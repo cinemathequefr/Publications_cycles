@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-08-29T20:00:00",
-    "2024-09-19T18:30:00"
+    "2024-09-20T18:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,50 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 73462,
+          "content": [
+            {
+              "idFilm": 73462,
+              "ordre": 1,
+              "titre": "14 juillet 1953",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1954,
+              "duree": 14,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Magirama (J'accuse)",
+                    null
+                  ],
+                  [
+                    "Fête foraine",
+                    null
+                  ],
+                  [
+                    "Château de nuages",
+                    null
+                  ],
+                  [
+                    "Auprès de ma blonde",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131615,
+              "dateHeure": "2024-09-20T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
         {
           "idFilm": 106408,
           "content": [
@@ -70,6 +114,50 @@
           ]
         },
         {
+          "idFilm": 73473,
+          "content": [
+            {
+              "idFilm": 73473,
+              "ordre": 5,
+              "titre": "Auprès de ma blonde",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1956,
+              "duree": 15,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "14 juillet 1953",
+                    null
+                  ],
+                  [
+                    "Magirama (J'accuse)",
+                    null
+                  ],
+                  [
+                    "Fête foraine",
+                    null
+                  ],
+                  [
+                    "Château de nuages",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131615,
+              "dateHeure": "2024-09-20T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 48585,
           "content": [
             {
@@ -123,7 +211,7 @@
           "seances": [
             {
               "idSeance": 131573,
-              "dateHeure": "2024-09-19T18:30:00",
+              "dateHeure": "2024-09-19T20:30:00",
               "idSalle": "JE"
             }
           ]
@@ -159,7 +247,7 @@
           "seances": [
             {
               "idSeance": 131573,
-              "dateHeure": "2024-09-19T18:30:00",
+              "dateHeure": "2024-09-19T20:30:00",
               "idSalle": "JE"
             }
           ]
@@ -196,7 +284,7 @@
           "seances": [
             {
               "idSeance": 131573,
-              "dateHeure": "2024-09-19T18:30:00",
+              "dateHeure": "2024-09-19T20:30:00",
               "idSalle": "JE"
             }
           ]
@@ -222,11 +310,6 @@
             }
           ],
           "seances": [
-            {
-              "idSeance": 133695,
-              "dateHeure": "2024-09-01T20:15:00",
-              "idSalle": "GF"
-            },
             {
               "idSeance": 133828,
               "dateHeure": "2024-09-15T19:00:00",
@@ -264,6 +347,51 @@
           ]
         },
         {
+          "idFilm": 73475,
+          "content": [
+            {
+              "idFilm": 73475,
+              "ordre": 4,
+              "titre": "Château de nuages",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1956,
+              "duree": 0,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "14 juillet 1953",
+                    null
+                  ],
+                  [
+                    "Magirama (J'accuse)",
+                    null
+                  ],
+                  [
+                    "Fête foraine",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Auprès de ma blonde",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131615,
+              "dateHeure": "2024-09-20T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 48588,
           "content": [
             {
@@ -282,6 +410,31 @@
             {
               "idSeance": 133734,
               "dateHeure": "2024-08-31T17:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 50899,
+          "content": [
+            {
+              "idFilm": 50899,
+              "ordre": 1,
+              "titre": "Dame aux camélias",
+              "art": "La",
+              "realisateurs": "Abel Gance, Fernand Rivers",
+              "pays": "France",
+              "annee": 1934,
+              "duree": 110,
+              "version": "",
+              "format": "",
+              "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133858,
+              "dateHeure": "2024-09-01T20:15:00",
               "idSalle": "GF"
             }
           ]
@@ -341,6 +494,51 @@
               "idSeance": 133826,
               "dateHeure": "2024-09-13T18:00:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 73474,
+          "content": [
+            {
+              "idFilm": 73474,
+              "ordre": 3,
+              "titre": "Fête foraine",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1956,
+              "duree": 15,
+              "version": "",
+              "format": "",
+              "precedeSuivi": [
+                [
+                  [
+                    "14 juillet 1953",
+                    null
+                  ],
+                  [
+                    "Magirama (J'accuse)",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Château de nuages",
+                    null
+                  ],
+                  [
+                    "Auprès de ma blonde",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131615,
+              "dateHeure": "2024-09-20T18:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -574,6 +772,78 @@
           ]
         },
         {
+          "idFilm": 73472,
+          "content": [
+            {
+              "idFilm": 73472,
+              "ordre": 2,
+              "titre": "Magirama (J'accuse)",
+              "realisateurs": "Abel Gance, Nelly Kaplan",
+              "pays": "France",
+              "annee": 1956,
+              "duree": 60,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Abel Gance",
+                "Robert Vattier"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "14 juillet 1953",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Fête foraine",
+                    null
+                  ],
+                  [
+                    "Château de nuages",
+                    null
+                  ],
+                  [
+                    "Auprès de ma blonde",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131615,
+              "dateHeure": "2024-09-20T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 31916,
+          "content": [
+            {
+              "idFilm": 31916,
+              "ordre": 1,
+              "titre": "Marie Tudor",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1966,
+              "duree": 207,
+              "version": "",
+              "format": "Numérique"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131243,
+              "dateHeure": "2024-09-06T19:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 48683,
           "content": [
             {
@@ -738,6 +1008,29 @@
             {
               "idSeance": 131537,
               "dateHeure": "2024-09-18T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 48660,
+          "content": [
+            {
+              "idFilm": 48660,
+              "ordre": 1,
+              "titre": "Poliche",
+              "realisateurs": "Abel Gance",
+              "pays": "France",
+              "annee": 1934,
+              "duree": 89,
+              "version": "",
+              "format": "16 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133859,
+              "dateHeure": "2024-09-19T18:30:00",
               "idSalle": "JE"
             }
           ]

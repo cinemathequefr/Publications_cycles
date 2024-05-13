@@ -13,6 +13,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 150,
+          "typeAssoc": 118,
           "idCategorie": 3381,
           "idEvenement": 30876,
           "typeEvenement": 13,
@@ -81,7 +82,7 @@
         {
           "idSeance": 133061,
           "ordre": 1,
-          "dateHeure": "2024-11-14T20:30:00",
+          "dateHeure": "2024-11-14T20:45:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -148,7 +149,7 @@
         {
           "idSeance": 133288,
           "ordre": 1,
-          "dateHeure": "2024-11-22T20:45:00",
+          "dateHeure": "2024-11-22T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -197,12 +198,13 @@
         {
           "idSeance": 133663,
           "ordre": 1,
-          "dateHeure": "2024-11-20T20:15:00",
+          "dateHeure": "2024-11-20T21:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "dureeSeance": 135,
+          "mention": "Séance présentée par Rufus",
           "idCategorie": 3381,
           "idEvenement": 30927,
           "typeEvenement": 13,
@@ -225,6 +227,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 210,
+          "mention": "Séance présentée par Simon Lelouch",
           "idCategorie": 3381,
           "idEvenement": 30890,
           "typeEvenement": 13,
@@ -267,10 +270,11 @@
           "ordre": 1,
           "dateHeure": "2024-11-17T17:30:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 120,
+          "mention": "Séance présentée par Antoine Sire",
           "idCategorie": 3381,
           "idEvenement": 30928,
           "typeEvenement": 13,
@@ -310,7 +314,7 @@
         {
           "idSeance": 133627,
           "ordre": 1,
-          "dateHeure": "2024-11-24T20:15:00",
+          "dateHeure": "2024-11-24T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -339,6 +343,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 165,
+          "mention": "Séance présentée par Marthe Keller",
           "idCategorie": 3381,
           "idEvenement": 30898,
           "typeEvenement": 13,
@@ -383,6 +388,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 165,
+          "mention": "Séance présentée par Francis Huster et Macha Méril",
           "idCategorie": 3381,
           "idEvenement": 30892,
           "typeEvenement": 13,
@@ -404,12 +410,13 @@
         {
           "idSeance": 133141,
           "ordre": 1,
-          "dateHeure": "2024-11-16T19:00:00",
+          "dateHeure": "2024-11-16T19:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "mention": "Séance présentée par Antoine Sire",
           "idCategorie": 3381,
           "idEvenement": 30929,
           "typeEvenement": 13,
@@ -431,7 +438,7 @@
         {
           "idSeance": 133099,
           "ordre": 1,
-          "dateHeure": "2024-11-15T18:00:00",
+          "dateHeure": "2024-11-15T17:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -453,12 +460,13 @@
         {
           "idSeance": 133245,
           "ordre": 1,
-          "dateHeure": "2024-11-21T20:30:00",
+          "dateHeure": "2024-11-21T20:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 210,
+          "mention": "Séance présentée par Francis Huster et Macha Méril",
           "idCategorie": 3381,
           "idEvenement": 30891,
           "typeEvenement": 13,
@@ -532,6 +540,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 150,
+          "mention": "Séance présentée par Jean-Paul Salomé",
           "idCategorie": 3381,
           "idEvenement": 30894,
           "typeEvenement": 13,
@@ -618,6 +627,47 @@
           "version": "",
           "format": "DCP",
           "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 133139,
+          "ordre": 2,
+          "dateHeure": "2024-11-16T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3393,
+          "idEvenement": 30975,
+          "typeEvenement": 14,
+          "idTypeConference": 15,
+          "typeConference": "Leçon de cinéma",
+          "titre": "Claude Lelouch par Claude Lelouch, une leçon de cinéma",
+          "duree": 90,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Claude Lelouch",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Frédéric Bonnaud",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Frédéric Bonnaud"
         }
       ],
       "textes": []

@@ -1,18 +1,23 @@
 # Liste des films par cycle
 
-## Abel Gance (29)
+## Abel Gance (37)
 
+  * 14 juillet 1953  
   * A l'ombre des grands chênes (Abel Gance)  
   * Au secours !  
+  * Auprès de ma blonde  
   * Austerlitz  
   * Autour de La Fin du monde  
   * Autour de La Roue  
   * Autour de Napoléon  
   * Barbe-Rousse  
   * Capitaine Fracasse (Le)  
+  * Château de nuages  
   * Cyrano et d'Artagnan  
+  * Dame aux camélias (La)  
   * Dixième symphonie (La)  
   * Droit à la vie (Le)  
+  * Fête foraine  
   * Fin du monde (La)  
   * Folie du docteur Tube (La)  
   * Gaz mortels = Les Brouillards sur la ville (Les)  
@@ -20,11 +25,14 @@
   * Jérôme Perreau  
   * Louise  
   * Lucrèce Borgia  
+  * Magirama (J'accuse)  
+  * Marie Tudor  
   * Mater Dolorosa  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
   * Paradis perdu  
   * Pictographe (Le)  
+  * Poliche  
   * Roman d'un jeune homme pauvre (Le)  
   * Roue (La)  
   * Tour de Nesle (La)  
@@ -181,7 +189,7 @@
   * Avatar : La Voie de l'eau  
   * Terminator  
   * Terminator 2 : Le Jugement dernier  
-  * Titanic
+  * True Lies
 
 ## Jim Jarmusch (14)
 

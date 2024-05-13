@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-11-11T20:00:00",
-    "2024-11-24T20:15:00"
+    "2024-11-24T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -10,26 +10,43 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 49804,
-          "content": [
+          "groupe": [
             {
               "idFilm": 49804,
-              "ordre": 1,
-              "titre": "Aventure, c'est l'aventure",
-              "art": "L'",
-              "realisateurs": "Claude Lelouch",
-              "pays": "France-Italie",
-              "annee": 1971,
-              "duree": 122,
-              "version": "",
-              "format": ""
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 49804,
+                  "ordre": 1,
+                  "titre": "Aventure, c'est l'aventure",
+                  "art": "L'",
+                  "realisateurs": "Claude Lelouch",
+                  "pays": "France-Italie",
+                  "annee": 1971,
+                  "duree": 122,
+                  "version": "",
+                  "format": ""
+                }
+              ]
+            },
             {
-              "idSeance": 133139,
-              "dateHeure": "2024-11-16T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 30975,
+              "content": [
+                {
+                  "idConf": 30975,
+                  "ordre": 2,
+                  "titre": "Claude Lelouch par Claude Lelouch, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133139,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-11-16T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -104,7 +121,7 @@
           "seances": [
             {
               "idSeance": 133061,
-              "dateHeure": "2024-11-14T20:30:00",
+              "dateHeure": "2024-11-14T20:45:00",
               "idSalle": "JE"
             }
           ]
@@ -174,7 +191,7 @@
           "seances": [
             {
               "idSeance": 133288,
-              "dateHeure": "2024-11-22T20:45:00",
+              "dateHeure": "2024-11-22T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -225,8 +242,9 @@
           "seances": [
             {
               "idSeance": 133663,
-              "dateHeure": "2024-11-20T20:15:00",
-              "idSalle": "GF"
+              "dateHeure": "2024-11-20T21:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Rufus"
             }
           ]
         },
@@ -251,7 +269,8 @@
             {
               "idSeance": 133329,
               "dateHeure": "2024-11-23T14:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Simon Lelouch"
             }
           ]
         },
@@ -298,7 +317,8 @@
             {
               "idSeance": 133662,
               "dateHeure": "2024-11-17T17:30:00",
-              "idSalle": "JE"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Antoine Sire"
             }
           ]
         },
@@ -343,7 +363,7 @@
           "seances": [
             {
               "idSeance": 133627,
-              "dateHeure": "2024-11-24T20:15:00",
+              "dateHeure": "2024-11-24T20:30:00",
               "idSalle": "GF",
               "mention": "Séance présentée par Arlette Gordon"
             }
@@ -368,7 +388,8 @@
             {
               "idSeance": 133625,
               "dateHeure": "2024-11-24T17:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Marthe Keller"
             }
           ]
         },
@@ -396,7 +417,8 @@
             {
               "idSeance": 133171,
               "dateHeure": "2024-11-18T18:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Francis Huster et Macha Méril"
             }
           ]
         },
@@ -423,8 +445,9 @@
           "seances": [
             {
               "idSeance": 133141,
-              "dateHeure": "2024-11-16T19:00:00",
-              "idSalle": "HL"
+              "dateHeure": "2024-11-16T19:45:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Antoine Sire"
             }
           ]
         },
@@ -446,7 +469,7 @@
           "seances": [
             {
               "idSeance": 133099,
-              "dateHeure": "2024-11-15T18:00:00",
+              "dateHeure": "2024-11-15T17:45:00",
               "idSalle": "HL"
             }
           ]
@@ -493,8 +516,9 @@
           "seances": [
             {
               "idSeance": 133245,
-              "dateHeure": "2024-11-21T20:30:00",
-              "idSalle": "HL"
+              "dateHeure": "2024-11-21T20:45:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Francis Huster et Macha Méril"
             }
           ]
         },
@@ -570,7 +594,8 @@
             {
               "idSeance": 133102,
               "dateHeure": "2024-11-15T21:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Jean-Paul Salomé"
             }
           ]
         }
@@ -636,6 +661,12 @@
         "mention": " Séance présentée par Claude Lelouch"
       }
     ],
+    "Leçon de cinéma": [
+      {
+        "titre": "Claude Lelouch par Claude Lelouch, une leçon de cinéma",
+        "dateHeure": "2024-11-16T14:30:00"
+      }
+    ],
     "Séances présentées": [
       {
         "titreFilms": "Finalement",
@@ -643,9 +674,49 @@
         "dateHeure": "2024-11-11T20:00:00"
       },
       {
+        "titreFilms": "Le Voyou",
+        "mention": "par Jean-Paul Salomé",
+        "dateHeure": "2024-11-15T21:00:00"
+      },
+      {
+        "titreFilms": "Un homme et une femme",
+        "mention": "par Antoine Sire",
+        "dateHeure": "2024-11-16T19:45:00"
+      },
+      {
+        "titreFilms": "Les Plus belles années d'une vie",
+        "mention": "par Antoine Sire",
+        "dateHeure": "2024-11-17T17:30:00"
+      },
+      {
+        "titreFilms": "Un autre homme, une autre chance",
+        "mention": "par Francis Huster et Macha Méril",
+        "dateHeure": "2024-11-18T18:00:00"
+      },
+      {
+        "titreFilms": "Mariage",
+        "mention": "par Rufus",
+        "dateHeure": "2024-11-20T21:00:00"
+      },
+      {
+        "titreFilms": "Les Uns et les autres",
+        "mention": "par Francis Huster et Macha Méril",
+        "dateHeure": "2024-11-21T20:45:00"
+      },
+      {
+        "titreFilms": "Les Misérables",
+        "mention": "par Simon Lelouch",
+        "dateHeure": "2024-11-23T14:30:00"
+      },
+      {
+        "titreFilms": "Toute une vie",
+        "mention": "par Marthe Keller",
+        "dateHeure": "2024-11-24T17:30:00"
+      },
+      {
         "titreFilms": "Smic, Smac, Smoc",
         "mention": "par Arlette Gordon",
-        "dateHeure": "2024-11-24T20:15:00"
+        "dateHeure": "2024-11-24T20:30:00"
       }
     ]
   }
