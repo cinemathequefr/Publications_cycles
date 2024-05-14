@@ -97,7 +97,7 @@
   * Main de fer (La)  
   * Mercenaries from Hong Kong  
   * Prince et l'arnaqueur (Le)  
-  * Retour à la 36 chambre  
+  * Retour à la 36e chambre  
   * Singe fou du kung-fu (Le)  
   * Temple de Shaolin (Le)  
   * Ten Tigers Of Kwangtung  
