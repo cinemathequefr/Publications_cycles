@@ -97,11 +97,17 @@
   * Main de fer (La)  
   * Mercenaries from Hong Kong  
   * Prince et l'arnaqueur (Le)  
-  * Retour à la 36e chambre  
+  * Retour à la 36 chambre  
   * Singe fou du kung-fu (Le)  
   * Temple de Shaolin (Le)  
   * Ten Tigers Of Kwangtung  
   * Vengeance des infirmes (La)
+
+## Le FIDMarseille à Paris (3)
+
+  * Branco Sai, Preto Fica  
+  * Era uma vez Brasilia  
+  * Mato seco em chamas
 
 ## Ma petite Cinémathèque (6)
 

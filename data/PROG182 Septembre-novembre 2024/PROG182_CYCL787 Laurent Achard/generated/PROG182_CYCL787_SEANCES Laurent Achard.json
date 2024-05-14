@@ -2,33 +2,9 @@
   {
     "idCategorie": 3372,
     "typeEvenement": 13,
-    "idEvenement": 30874,
-    "idSeance": 133645,
-    "dateHeure": "2024-09-06T20:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "typeSeance": 44,
-    "items": [
-      {
-        "idFilm": 91824,
-        "ordre": 1
-      },
-      {
-        "idFilm": 64087,
-        "ordre": 2
-      }
-    ],
-    "mention": "Ouverture de la rétrospective"
-  },
-  {
-    "idCategorie": 3372,
-    "typeEvenement": 13,
     "idEvenement": 30786,
-    "idSeance": 133644,
-    "dateHeure": "2024-09-07T18:00:00",
+    "idSeance": 133867,
+    "dateHeure": "2024-09-06T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -38,11 +14,34 @@
       {
         "idFilm": 100438,
         "ordre": 1,
-        "idSeance": 133644,
+        "idSeance": 133867,
         "idCopie": 2291,
         "duree": 96,
         "version": "VF",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3372,
+    "typeEvenement": 13,
+    "idEvenement": 31051,
+    "idSeance": 133868,
+    "dateHeure": "2024-09-07T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 64087,
+        "ordre": 1,
+        "idSeance": 133868,
+        "idCopie": 28248,
+        "duree": 86,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
@@ -155,7 +154,12 @@
     "items": [
       {
         "idFilm": 114854,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 131302,
+        "idCopie": 28240,
+        "duree": 91,
+        "version": "",
+        "format": "35 mm"
       }
     ]
   },

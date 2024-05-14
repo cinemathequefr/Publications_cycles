@@ -33,8 +33,8 @@
           ],
           "seances": [
             {
-              "idSeance": 133644,
-              "dateHeure": "2024-09-07T18:00:00",
+              "idSeance": 133867,
+              "dateHeure": "2024-09-06T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -48,7 +48,10 @@
               "titre": "Dernière séance",
               "realisateurs": "Laurent Achard",
               "pays": "France",
-              "annee": 2010
+              "annee": 2010,
+              "duree": 91,
+              "version": "",
+              "format": "35 mm"
             }
           ],
           "seances": [
@@ -80,77 +83,30 @@
           ]
         },
         {
-          "idFilm": 91824,
-          "content": [
-            {
-              "idFilm": 91824,
-              "ordre": 1,
-              "titre": "Peur, petit chasseur",
-              "art": "La",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2003,
-              "generique": [
-                "Mireille Roussel",
-                "Martin Buisson"
-              ],
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Plus qu'hier, moins que demain",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133645,
-              "dateHeure": "2024-09-06T20:00:00",
-              "idSalle": "GF",
-              "mention": "Ouverture de la rétrospective"
-            },
-            {
-              "idSeance": 133799,
-              "dateHeure": "2024-09-08T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 64087,
           "content": [
             {
               "idFilm": 64087,
-              "ordre": 2,
+              "ordre": 1,
               "titre": "Plus qu'hier, moins que demain",
               "realisateurs": "Laurent Achard",
               "pays": "France",
               "annee": 1998,
+              "duree": 86,
+              "version": "",
+              "format": "DCP",
               "generique": [
                 "Martin Mihelich",
                 "Laëtitia Legrix",
                 "Mireille Roussel"
-              ],
-              "precedeSuivi": [
-                [
-                  [
-                    "Peur, petit chasseur",
-                    "La"
-                  ]
-                ],
-                []
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 133645,
-              "dateHeure": "2024-09-06T20:00:00",
-              "idSalle": "GF",
-              "mention": "Ouverture de la rétrospective"
+              "idSeance": 133868,
+              "dateHeure": "2024-09-07T18:00:00",
+              "idSalle": "GF"
             }
           ]
         }
@@ -173,6 +129,22 @@
               "duree": 30,
               "version": "",
               "format": ""
+            },
+            {
+              "idFilm": 91824,
+              "ordre": 2,
+              "titre": "Peur, petit chasseur",
+              "art": "La",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2003,
+              "duree": 9,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Mireille Roussel",
+                "Martin Buisson"
+              ]
             },
             {
               "idFilm": 75543,

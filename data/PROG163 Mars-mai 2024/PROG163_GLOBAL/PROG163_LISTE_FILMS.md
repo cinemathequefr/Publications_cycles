@@ -232,7 +232,7 @@
   * Nuit après nuit  
   * Sextette
 
-## Marguerite Duras (28)
+## Marguerite Duras (27)
 
   * Agatha et les lectures illimitées  
   * Aurélia Steiner (Melbourne)  
@@ -260,7 +260,6 @@
   * Nathalie Granger  
   * Navire Night (Le)  
   * Son nom de Venise dans Calcutta désert  
-  * Suzanna Andler  
   * Une aussi longue absence
 
 ## Michelangelo Antonioni (21)

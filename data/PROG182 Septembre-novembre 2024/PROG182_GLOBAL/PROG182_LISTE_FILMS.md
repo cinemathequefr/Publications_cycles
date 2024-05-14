@@ -256,7 +256,7 @@
   * Femme du dimanche (La)  
   * Femme du prêtre (La)  
   * Ginger et Fred  
-  * Grande bouffe (La)  
+  * Grande Bouffe (La)  
   * Journal intime  
   * Liza  
   * Mariage à l'italienne  
@@ -269,6 +269,56 @@
   * Todo modo  
   * Une journée particulière  
   * Yeux noirs (Les)
+
+## Michael Powell (47)
+
+  * 49e parallèle  
+  * A Canterbury Tale  
+  * À l'angle du monde  
+  * Age of Consent  
+  * An Airman's Letter to His Mother  
+  * Bataille du Rio de la Plata (La)  
+  * Blackout  
+  * Boy Who Turned Yellow (The)  
+  * Chaussons rouges (Les)  
+  * Colonel Blimp  
+  * Contes d'Hoffmann (Les)  
+  * Crown v. Stevens  
+  * Elusive Pimpernel (The)  
+  * Espion noir (L')  
+  * Espionne à bord  
+  * Fire Raisers (The)  
+  * Her Last Affaire  
+  * Herzog Blaubarts Burg  
+  * His Lordship  
+  * Hotel Splendide  
+  * Intelligence Service  
+  * Je sais où je vais  
+  * Lazybones  
+  * Lion a des ailes (Le)  
+  * Love Test (The)  
+  * Lune de miel  
+  * Man Behind the Mask (The)  
+  * Narcisse noir (Le)  
+  * Night of the Party (The)  
+  * Oh ! Rosalinda !  
+  * Phantom Light (The)  
+  * Queen's Guards (The)  
+  * Red Ensign  
+  * Renarde (La)  
+  * Return to the Edge of the World  
+  * Rynox  
+  * Small Back Room (The)  
+  * Smith  
+  * Something Always Happens  
+  * Sorcerer's Apprentice (The)  
+  * They're a Weird Mob  
+  * Un de nos avions n'est pas rentré  
+  * Une question de vie ou de mort  
+  * Voleur de Bagdad (Le)  
+  * Volunteer (The)  
+  * Voyeur (Le)  
+  * Wild Heart (The)
 
 ## Sophie Fillières (14)
 
@@ -292,7 +342,7 @@
   * Family portraits  
   * Galets d'Étretat (Les)  
   * Sisters  
-  * Theatre bizarre : The Accident (The)  
+  * Theatre bizarre: The Accident (The)  
   * Un beau monstre
 
 ## Zucker, Abrahams et Zucker (7)

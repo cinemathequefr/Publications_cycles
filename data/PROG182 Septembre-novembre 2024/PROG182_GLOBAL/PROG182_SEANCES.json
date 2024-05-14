@@ -810,8 +810,8 @@
     "hashEvenement": "f31916"
   },
   {
-    "idSeance": 133645,
-    "idEvenement": 30874,
+    "idSeance": 133867,
+    "idEvenement": 30786,
     "dateHeure": "2024-09-06T20:00:00",
     "salle": "GF",
     "cycle": [
@@ -820,23 +820,19 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
     "items": [
       {
-        "idFilm": 91824,
-        "titre": "Peur, petit chasseur",
-        "art": "La",
+        "idFilm": 100438,
+        "titre": "Dernier des fous",
+        "art": "Le",
         "realisateurs": "Laurent Achard",
-        "annee": 2003
-      },
-      {
-        "idFilm": 64087,
-        "titre": "Plus qu'hier, moins que demain",
-        "realisateurs": "Laurent Achard",
-        "annee": 1998
+        "annee": 2005,
+        "duree": 96,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f91824f64087"
+    "hashEvenement": "f100438"
   },
   {
     "idSeance": 131239,
@@ -932,8 +928,8 @@
     "hashEvenement": "c30964"
   },
   {
-    "idSeance": 133644,
-    "idEvenement": 30786,
+    "idSeance": 133868,
+    "idEvenement": 31051,
     "dateHeure": "2024-09-07T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -944,17 +940,15 @@
     ],
     "items": [
       {
-        "idFilm": 100438,
-        "titre": "Dernier des fous",
-        "art": "Le",
+        "idFilm": 64087,
+        "titre": "Plus qu'hier, moins que demain",
         "realisateurs": "Laurent Achard",
-        "annee": 2005,
-        "duree": 96,
-        "version": "VF",
-        "format": "35 mm"
+        "annee": 1998,
+        "duree": 86,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f100438"
+    "hashEvenement": "f64087"
   },
   {
     "idSeance": 131286,
@@ -1053,10 +1047,6 @@
     "cycle": [
       [
         "Laurent Achard",
-        "Les films"
-      ],
-      [
-        "Laurent Achard",
         "Courts métrages"
       ]
     ],
@@ -1121,7 +1111,9 @@
         "idFilm": 114854,
         "titre": "Dernière séance",
         "realisateurs": "Laurent Achard",
-        "annee": 2010
+        "annee": 2010,
+        "duree": 91,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f114854"
@@ -1257,7 +1249,7 @@
     "items": [
       {
         "idFilm": 116164,
-        "titre": "Theatre bizarre : The Accident",
+        "titre": "Theatre bizarre: The Accident",
         "art": "The",
         "realisateurs": "Douglas Buck",
         "annee": 2011
@@ -1874,7 +1866,7 @@
     "items": [
       {
         "idFilm": 48437,
-        "titre": "Grande bouffe",
+        "titre": "Grande Bouffe",
         "art": "La",
         "realisateurs": "Marco Ferreri",
         "annee": 1973,
@@ -5000,6 +4992,110 @@
     "hashEvenement": "f131612"
   },
   {
+    "idSeance": 132463,
+    "idEvenement": 21696,
+    "dateHeure": "2024-10-23T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 41789,
+        "titre": "Narcisse noir",
+        "art": "Le",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1947,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41789"
+  },
+  {
+    "idSeance": 133830,
+    "idEvenement": 21652,
+    "dateHeure": "2024-10-24T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107631,
+        "titre": "Boy Who Turned Yellow",
+        "art": "The",
+        "realisateurs": "Michael Powell",
+        "annee": 1972,
+        "duree": 55,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f107631"
+  },
+  {
+    "idSeance": 132503,
+    "idEvenement": 21680,
+    "dateHeure": "2024-10-24T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107613,
+        "titre": "Smith",
+        "realisateurs": "Michael Powell",
+        "annee": 1939,
+        "duree": 10,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 91360,
+        "titre": "An Airman's Letter to His Mother",
+        "realisateurs": "Michael Powell",
+        "annee": 1941,
+        "duree": 6,
+        "version": "STF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 107614,
+        "titre": "Volunteer",
+        "art": "The",
+        "realisateurs": "Michael Powell",
+        "annee": 1943,
+        "duree": 24,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 107616,
+        "titre": "Sorcerer's Apprentice",
+        "art": "The",
+        "realisateurs": "Michael Powell",
+        "annee": 1956,
+        "duree": 13,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107613f91360f107614f107616"
+  },
+  {
     "idSeance": 132502,
     "idEvenement": 30866,
     "dateHeure": "2024-10-24T20:00:00",
@@ -5023,6 +5119,30 @@
       }
     ],
     "hashEvenement": "f30105"
+  },
+  {
+    "idSeance": 132541,
+    "idEvenement": 21666,
+    "dateHeure": "2024-10-25T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40553,
+        "titre": "49e parallèle",
+        "realisateurs": "Michael Powell",
+        "annee": 1941,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f40553"
   },
   {
     "idSeance": 132543,
@@ -5049,6 +5169,30 @@
     "hashEvenement": "f30104"
   },
   {
+    "idSeance": 132542,
+    "idEvenement": 21664,
+    "dateHeure": "2024-10-25T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 62261,
+        "titre": "Intelligence Service",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1957,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f62261"
+  },
+  {
     "idSeance": 132544,
     "idEvenement": 30868,
     "dateHeure": "2024-10-25T21:00:00",
@@ -5071,6 +5215,30 @@
       }
     ],
     "hashEvenement": "f37170"
+  },
+  {
+    "idSeance": 132581,
+    "idEvenement": 21695,
+    "dateHeure": "2024-10-26T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42024,
+        "titre": "Colonel Blimp",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1942,
+        "duree": 163,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f42024"
   },
   {
     "idSeance": 132586,
@@ -5121,6 +5289,31 @@
     "hashEvenement": "f37185"
   },
   {
+    "idSeance": 132582,
+    "idEvenement": 21692,
+    "dateHeure": "2024-10-26T17:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42561,
+        "titre": "Chaussons rouges",
+        "art": "Les",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1947,
+        "duree": 133,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42561"
+  },
+  {
     "idSeance": 132587,
     "idEvenement": 30861,
     "dateHeure": "2024-10-26T19:00:00",
@@ -5145,6 +5338,31 @@
     "hashEvenement": "f57426"
   },
   {
+    "idSeance": 132583,
+    "idEvenement": 21688,
+    "dateHeure": "2024-10-26T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41089,
+        "titre": "Renarde",
+        "art": "La",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1950,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f41089"
+  },
+  {
     "idSeance": 132604,
     "idEvenement": 30863,
     "dateHeure": "2024-10-27T17:30:00",
@@ -5167,6 +5385,101 @@
       }
     ],
     "hashEvenement": "f58901"
+  },
+  {
+    "idSeance": 132599,
+    "idEvenement": 21654,
+    "dateHeure": "2024-10-27T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42009,
+        "titre": "Espion noir",
+        "art": "L'",
+        "realisateurs": "Michael Powell",
+        "annee": 1939,
+        "duree": 82,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f42009"
+  },
+  {
+    "idSeance": 132600,
+    "idEvenement": 21655,
+    "dateHeure": "2024-10-27T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 53350,
+        "titre": "Espionne à bord",
+        "realisateurs": "Michael Powell",
+        "annee": 1939,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f53350"
+  },
+  {
+    "idSeance": 132613,
+    "idEvenement": 21662,
+    "dateHeure": "2024-10-28T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107630,
+        "titre": "They're a Weird Mob",
+        "realisateurs": "Michael Powell",
+        "annee": 1965,
+        "duree": 112,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f107630"
+  },
+  {
+    "idSeance": 132614,
+    "idEvenement": 21648,
+    "dateHeure": "2024-10-28T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 71690,
+        "titre": "Age of Consent",
+        "realisateurs": "Michael Powell",
+        "annee": 1968,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f71690"
   },
   {
     "idSeance": 132648,
@@ -5219,6 +5532,31 @@
     "hashEvenement": "f38634"
   },
   {
+    "idSeance": 132687,
+    "idEvenement": 21665,
+    "dateHeure": "2024-10-31T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35996,
+        "titre": "Voyeur",
+        "art": "Le",
+        "realisateurs": "Michael Powell",
+        "annee": 1959,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f35996"
+  },
+  {
     "idSeance": 133765,
     "idEvenement": 30958,
     "dateHeure": "2024-10-31T20:30:00",
@@ -5244,6 +5582,30 @@
     "hashEvenement": "f38657"
   },
   {
+    "idSeance": 132727,
+    "idEvenement": 21689,
+    "dateHeure": "2024-11-01T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41074,
+        "titre": "A Canterbury Tale",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1944,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41074"
+  },
+  {
     "idSeance": 132729,
     "idEvenement": 30960,
     "dateHeure": "2024-11-01T18:30:00",
@@ -5266,6 +5628,30 @@
       }
     ],
     "hashEvenement": "f44980"
+  },
+  {
+    "idSeance": 132728,
+    "idEvenement": 21700,
+    "dateHeure": "2024-11-01T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41083,
+        "titre": "Une question de vie ou de mort",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1946,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41083"
   },
   {
     "idSeance": 133766,
@@ -5315,6 +5701,55 @@
     "hashEvenement": "f58122"
   },
   {
+    "idSeance": 132771,
+    "idEvenement": 21670,
+    "dateHeure": "2024-11-02T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43670,
+        "titre": "Lune de miel",
+        "realisateurs": "Michael Powell",
+        "annee": 1958,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f43670"
+  },
+  {
+    "idSeance": 132772,
+    "idEvenement": 21679,
+    "dateHeure": "2024-11-02T17:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42253,
+        "titre": "Queen's Guards",
+        "art": "The",
+        "realisateurs": "Michael Powell",
+        "annee": 1960,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f42253"
+  },
+  {
     "idSeance": 132769,
     "idEvenement": 30951,
     "dateHeure": "2024-11-02T19:00:00",
@@ -5361,6 +5796,31 @@
       }
     ],
     "hashEvenement": "f38656"
+  },
+  {
+    "idSeance": 132770,
+    "idEvenement": 21694,
+    "dateHeure": "2024-11-02T21:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42029,
+        "titre": "Contes d'Hoffmann",
+        "art": "Les",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1950,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42029"
   },
   {
     "idSeance": 132784,
@@ -5527,6 +5987,227 @@
     "hashEvenement": "f80521"
   },
   {
+    "idSeance": 132837,
+    "idEvenement": 21656,
+    "dateHeure": "2024-11-06T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107581,
+        "titre": "His Lordship",
+        "realisateurs": "Michael Powell",
+        "annee": 1932,
+        "duree": 77,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107581"
+  },
+  {
+    "idSeance": 132838,
+    "idEvenement": 21658,
+    "dateHeure": "2024-11-06T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107583,
+        "titre": "Fire Raisers",
+        "art": "The",
+        "realisateurs": "Michael Powell",
+        "annee": 1933,
+        "duree": 77,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107583"
+  },
+  {
+    "idSeance": 132915,
+    "idEvenement": 21677,
+    "dateHeure": "2024-11-08T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107585,
+        "titre": "Something Always Happens",
+        "realisateurs": "Michael Powell",
+        "annee": 1934,
+        "duree": 66,
+        "version": "STF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107585"
+  },
+  {
+    "idSeance": 132916,
+    "idEvenement": 21675,
+    "dateHeure": "2024-11-08T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42042,
+        "titre": "Red Ensign",
+        "realisateurs": "Michael Powell",
+        "annee": 1934,
+        "duree": 66,
+        "version": "STF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42042"
+  },
+  {
+    "idSeance": 132953,
+    "idEvenement": 21708,
+    "dateHeure": "2024-11-09T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42982,
+        "titre": "Voleur de Bagdad",
+        "art": "Le",
+        "realisateurs": "Ludwig Berger, Tim Whelan, Michael Powell",
+        "annee": 1940,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42982"
+  },
+  {
+    "idSeance": 132957,
+    "idEvenement": 21657,
+    "dateHeure": "2024-11-09T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107584,
+        "titre": "Night of the Party",
+        "art": "The",
+        "realisateurs": "Michael Powell",
+        "annee": 1934,
+        "duree": 63,
+        "version": "STF"
+      }
+    ],
+    "hashEvenement": "f107584"
+  },
+  {
+    "idSeance": 132958,
+    "idEvenement": 21669,
+    "dateHeure": "2024-11-09T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107587,
+        "titre": "Love Test",
+        "art": "The",
+        "realisateurs": "Michael Powell",
+        "annee": 1934,
+        "duree": 63,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107587"
+  },
+  {
+    "idSeance": 133836,
+    "idEvenement": 21672,
+    "dateHeure": "2024-11-09T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107612,
+        "titre": "Man Behind the Mask",
+        "art": "The",
+        "realisateurs": "Michael Powell",
+        "annee": 1936,
+        "duree": 55,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107612"
+  },
+  {
+    "idSeance": 133834,
+    "idEvenement": 21668,
+    "dateHeure": "2024-11-09T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107605,
+        "titre": "Phantom Light",
+        "art": "The",
+        "realisateurs": "Michael Powell",
+        "annee": 1935,
+        "duree": 76,
+        "version": "STF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107605"
+  },
+  {
     "idSeance": 133849,
     "idEvenement": 29890,
     "dateHeure": "2024-11-10T14:30:00",
@@ -5549,6 +6230,53 @@
       }
     ],
     "hashEvenement": "f59914"
+  },
+  {
+    "idSeance": 132976,
+    "idEvenement": 21660,
+    "dateHeure": "2024-11-10T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107608,
+        "titre": "Her Last Affaire",
+        "realisateurs": "Michael Powell",
+        "annee": 1935,
+        "duree": 68,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107608"
+  },
+  {
+    "idSeance": 133835,
+    "idEvenement": 21667,
+    "dateHeure": "2024-11-10T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107604,
+        "titre": "Lazybones",
+        "realisateurs": "Michael Powell",
+        "annee": 1935,
+        "duree": 66,
+        "version": "STF"
+      }
+    ],
+    "hashEvenement": "f107604"
   },
   {
     "idSeance": 132983,
@@ -5595,6 +6323,64 @@
       }
     ],
     "hashEvenement": "f49810"
+  },
+  {
+    "idSeance": 133854,
+    "idEvenement": 21647,
+    "dateHeure": "2024-11-13T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41077,
+        "titre": "À l'angle du monde",
+        "realisateurs": "Michael Powell",
+        "annee": 1937,
+        "duree": 81,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 107632,
+        "titre": "Return to the Edge of the World",
+        "realisateurs": "Michael Powell",
+        "annee": 1978,
+        "duree": 25,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41077f107632"
+  },
+  {
+    "idSeance": 133025,
+    "idEvenement": 21690,
+    "dateHeure": "2024-11-13T20:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41080,
+        "titre": "Elusive Pimpernel",
+        "art": "The",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1950,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f41080"
   },
   {
     "idSeance": 133024,
@@ -5702,6 +6488,80 @@
     "hashEvenement": "f49740"
   },
   {
+    "idSeance": 133103,
+    "idEvenement": 21651,
+    "dateHeure": "2024-11-15T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107611,
+        "titre": "Crown v. Stevens",
+        "realisateurs": "Michael Powell",
+        "annee": 1936,
+        "duree": 65,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107611"
+  },
+  {
+    "idSeance": 133855,
+    "idEvenement": 21698,
+    "dateHeure": "2024-11-15T20:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 86567,
+        "titre": "Wild Heart",
+        "art": "The",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1952,
+        "duree": 82,
+        "version": "STF",
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f86567"
+  },
+  {
+    "idSeance": 133100,
+    "idEvenement": 21696,
+    "dateHeure": "2024-11-15T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41789,
+        "titre": "Narcisse noir",
+        "art": "Le",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1947,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41789"
+  },
+  {
     "idSeance": 133102,
     "idEvenement": 30894,
     "dateHeure": "2024-11-15T21:00:00",
@@ -5759,6 +6619,79 @@
     "hashEvenement": "f49804c30975"
   },
   {
+    "idSeance": 133853,
+    "idEvenement": 21687,
+    "dateHeure": "2024-11-16T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 58543,
+        "titre": "Bataille du Rio de la Plata",
+        "art": "La",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1956,
+        "duree": 119,
+        "version": "STF"
+      }
+    ],
+    "hashEvenement": "f58543"
+  },
+  {
+    "idSeance": 133839,
+    "idEvenement": 21686,
+    "dateHeure": "2024-11-16T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42028,
+        "titre": "Lion a des ailes",
+        "art": "Le",
+        "realisateurs": "Michael Powell, Adrian Brunel, Brian Desmond Hurst",
+        "annee": 1939,
+        "duree": 76,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f42028"
+  },
+  {
+    "idSeance": 133840,
+    "idEvenement": 21649,
+    "dateHeure": "2024-11-16T19:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 56883,
+        "titre": "Blackout",
+        "realisateurs": "Michael Powell",
+        "annee": 1940,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f56883"
+  },
+  {
     "idSeance": 133141,
     "idEvenement": 30929,
     "dateHeure": "2024-11-16T19:45:00",
@@ -5780,6 +6713,54 @@
       }
     ],
     "hashEvenement": "f49686"
+  },
+  {
+    "idSeance": 133841,
+    "idEvenement": 21699,
+    "dateHeure": "2024-11-16T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 57597,
+        "titre": "Un de nos avions n'est pas rentré",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1942,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f57597"
+  },
+  {
+    "idSeance": 133842,
+    "idEvenement": 21697,
+    "dateHeure": "2024-11-17T15:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42007,
+        "titre": "Je sais où je vais",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1945,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42007"
   },
   {
     "idSeance": 133662,
@@ -5804,6 +6785,39 @@
       }
     ],
     "hashEvenement": "f142000"
+  },
+  {
+    "idSeance": 133160,
+    "idEvenement": 21684,
+    "dateHeure": "2024-11-17T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107576,
+        "titre": "Rynox",
+        "realisateurs": "Michael Powell",
+        "annee": 1931,
+        "duree": 47,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 107579,
+        "titre": "Hotel Splendide",
+        "realisateurs": "Michael Powell",
+        "annee": 1932,
+        "duree": 53,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107576f107579"
   },
   {
     "idSeance": 133163,
@@ -5897,6 +6911,31 @@
     "hashEvenement": "f49806"
   },
   {
+    "idSeance": 133851,
+    "idEvenement": 21691,
+    "dateHeure": "2024-11-20T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41945,
+        "titre": "Small Back Room",
+        "art": "The",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1948,
+        "duree": 111,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41945"
+  },
+  {
     "idSeance": 133663,
     "idEvenement": 30927,
     "dateHeure": "2024-11-20T21:00:00",
@@ -5918,6 +6957,30 @@
       }
     ],
     "hashEvenement": "f57892"
+  },
+  {
+    "idSeance": 133211,
+    "idEvenement": 21661,
+    "dateHeure": "2024-11-20T21:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 107628,
+        "titre": "Herzog Blaubarts Burg",
+        "realisateurs": "Michael Powell",
+        "annee": 1964,
+        "duree": 62,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f107628"
   },
   {
     "idSeance": 133665,
@@ -5942,6 +7005,30 @@
       }
     ],
     "hashEvenement": "f57973"
+  },
+  {
+    "idSeance": 133852,
+    "idEvenement": 21693,
+    "dateHeure": "2024-11-21T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 70991,
+        "titre": "Oh ! Rosalinda !",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1955,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f70991"
   },
   {
     "idSeance": 133245,
