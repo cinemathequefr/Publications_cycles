@@ -105,8 +105,8 @@
 
 ## Le FIDMarseille à Paris (3)
 
-  * Branco Sai, Preto Fica  
-  * Era uma vez Brasilia  
+  * Branco sai, preto fica  
+  * Era uma vez Brasília  
   * Mato seco em chamas
 
 ## Ma petite Cinémathèque (6)
