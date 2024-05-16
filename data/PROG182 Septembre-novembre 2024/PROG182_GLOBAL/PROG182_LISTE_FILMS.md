@@ -88,10 +88,10 @@
 ## Darejan Omirbaev (7)
 
   * Chouga  
-  * Etudiant (L')  
+  * Étudiant (L')  
   * Kaïrat  
   * Kardiogramma  
-  * Poète (Le)  
+  * Poet  
   * Route (La)  
   * Tueur à gages
 
@@ -143,11 +143,11 @@
   * Croisée des destins (La)  
   * David Copperfield  
   * Diablesse en collant rose (La)  
-  * Edouard, mon fils  
+  * Édouard, mon fils  
   * Femme aux deux visages (La)  
   * Femmes  
   * Flamme sacrée (La)  
-  * Girls about Town  
+  * Girls About Town  
   * Girls (Les)  
   * Grumpy  
   * Hantise  
@@ -178,7 +178,7 @@
   * Une femme qui s'affiche  
   * Vacances  
   * Voyages avec ma tante  
-  * What Price Hollywood ?  
+  * What Price Hollywood?  
   * Zaza
 
 ## James Cameron (7)
@@ -208,9 +208,10 @@
   * Permanent Vacation  
   * Stranger Than Paradise
 
-## Laurent Achard (12)
+## Laurent Achard (13)
 
   * Brisseau, 251 rue Marcadet  
+  * De ma fenêtre  
   * Dernier des fous (Le)  
   * Dernière séance  
   * Dimanche ou les fantômes  
@@ -246,7 +247,7 @@
 ## Marcello Mastroianni (24)
 
   * 8½  
-  * Allonsanfan  
+  * Allonsanfàn  
   * Bel Antonio (Le)  
   * Camarades (Les)  
   * Divorce à l'italienne  
@@ -347,9 +348,9 @@
 
 ## Zucker, Abrahams et Zucker (7)
 
-  * Hamburger film sandwich  
-  * Hot Shots !  
-  * Hot Shots ! 2  
+  * Hamburger Film Sandwich  
+  * Hot Shots!  
+  * Hot Shots! 2  
   * Top Secret!  
   * Y a-t-il un flic pour sauver la reine ?  
   * Y a-t-il un flic pour sauver le président ?  
