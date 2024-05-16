@@ -167,10 +167,10 @@
   * Oiseau bleu (L')  
   * Othello  
   * Quatre filles du docteur March (Les)  
-  * Riches et célèbres  
+  * Riches et Célèbres  
   * Roman de Marguerite Gautier (Le)  
   * Roméo et Juliette  
-  * Royal family  
+  * Royal Family  
   * Suzanne et ses idées  
   * Sylvia Scarlett  
   * Tarnished Lady  

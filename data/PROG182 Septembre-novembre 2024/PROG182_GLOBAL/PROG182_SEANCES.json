@@ -110,7 +110,7 @@
     "items": [
       {
         "idFilm": 31517,
-        "titre": "Royal family",
+        "titre": "Royal Family",
         "realisateurs": "George Cukor, Cyril Gardner",
         "annee": 1931,
         "duree": 85,
@@ -1040,8 +1040,8 @@
     "hashEvenement": "f30809"
   },
   {
-    "idSeance": 133799,
-    "idEvenement": 30787,
+    "idSeance": 133871,
+    "idEvenement": 31053,
     "dateHeure": "2024-09-08T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -1052,11 +1052,27 @@
     ],
     "items": [
       {
+        "idFilm": 75543,
+        "titre": "Qu'en savent les morts ?",
+        "realisateurs": "Laurent Achard",
+        "annee": 1990,
+        "duree": 5,
+        "format": "35 mm"
+      },
+      {
         "idFilm": 76312,
         "titre": "Dimanche ou les fantômes",
         "realisateurs": "Laurent Achard",
         "annee": 1994,
         "duree": 30
+      },
+      {
+        "idFilm": 76313,
+        "titre": "Une odeur de géranium",
+        "realisateurs": "Laurent Achard",
+        "annee": 1997,
+        "duree": 30,
+        "format": "35 mm"
       },
       {
         "idFilm": 91824,
@@ -1066,34 +1082,9 @@
         "annee": 2003,
         "duree": 9,
         "format": "35 mm"
-      },
-      {
-        "idFilm": 75543,
-        "titre": "Qu'en savent les morts ?",
-        "realisateurs": "Laurent Achard",
-        "annee": 1990,
-        "duree": 5,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 121778,
-        "titre": "Tableau",
-        "art": "Le",
-        "realisateurs": "Laurent Achard",
-        "annee": 2012,
-        "duree": 30,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 76313,
-        "titre": "Une odeur de géranium",
-        "realisateurs": "Laurent Achard",
-        "annee": 1997,
-        "duree": 30,
-        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f76312f91824f75543f121778f76313"
+    "hashEvenement": "f75543f76312f76313f91824"
   },
   {
     "idSeance": 131302,
@@ -1308,17 +1299,26 @@
     "hashEvenement": "f48585"
   },
   {
-    "idSeance": 131351,
-    "idEvenement": 30871,
+    "idSeance": 133870,
+    "idEvenement": 31056,
     "dateHeure": "2024-09-11T18:00:00",
     "salle": "JE",
     "cycle": [
       [
         "Laurent Achard",
-        "Documentaires sur le cinéma"
+        "Courts métrages"
       ]
     ],
     "items": [
+      {
+        "idFilm": 121778,
+        "titre": "Tableau",
+        "art": "Le",
+        "realisateurs": "Laurent Achard",
+        "annee": 2012,
+        "duree": 30,
+        "format": "DCP"
+      },
       {
         "idFilm": 154838,
         "titre": "Un, parfois deux...",
@@ -1328,7 +1328,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f154838"
+    "hashEvenement": "f121778f154838"
   },
   {
     "idSeance": 133635,
@@ -1722,6 +1722,27 @@
       }
     ],
     "hashEvenement": "f31512"
+  },
+  {
+    "idSeance": 133847,
+    "idEvenement": 31059,
+    "dateHeure": "2024-09-15T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31059,
+        "titre": "Ecce Homo – Séance spéctacle",
+        "typeConference": "Spectacle",
+        "duree": 120
+      }
+    ],
+    "hashEvenement": "c31059"
   },
   {
     "idSeance": 133827,
@@ -3208,7 +3229,7 @@
     "items": [
       {
         "idFilm": 31509,
-        "titre": "Riches et célèbres",
+        "titre": "Riches et Célèbres",
         "realisateurs": "George Cukor",
         "annee": 1981,
         "duree": 117,
