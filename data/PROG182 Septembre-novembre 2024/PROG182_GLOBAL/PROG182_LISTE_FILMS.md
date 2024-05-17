@@ -56,6 +56,34 @@
   * Un flic sur le toit  
   * Victoria
 
+## Casses, hold-ups et braquages en 25 indispensables (25)
+
+  * Cercle rouge (Le)  
+  * Coup de l'escalier (Le)  
+  * Dillinger  
+  * Drive  
+  * Du rififi chez les hommes  
+  * Guet-apens  
+  * Heat  
+  * Inconnu de Las Vegas (L')  
+  * Inconnus dans la ville (Les)  
+  * Inside Man – L'Homme de l'intérieur  
+  * Mélodie en sous-sol  
+  * Mise à sac  
+  * Mission: Impossible  
+  * Ocean's Eleven  
+  * Opération San Gennaro  
+  * Or se barre (L')  
+  * Point break – Extrême limite  
+  * Quand la ville dort  
+  * Reservoir Dogs  
+  * Solitaire (Le)  
+  * Thomas Crown  
+  * Topkapi  
+  * Trois milliards d'un coup  
+  * Ultime razzia (L')  
+  * Un après-midi de chien
+
 ## Claude Lelouch (26)
 
   * Aventure, c'est l'aventure (L')  
