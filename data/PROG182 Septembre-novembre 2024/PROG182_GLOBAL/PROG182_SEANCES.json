@@ -765,7 +765,7 @@
     "idSeance": 133694,
     "idEvenement": 30719,
     "dateHeure": "2024-09-06T18:00:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "George Cukor",
@@ -813,13 +813,14 @@
     "idSeance": 133867,
     "idEvenement": 30786,
     "dateHeure": "2024-09-06T20:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Laurent Achard",
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 100438,
@@ -835,10 +836,10 @@
     "hashEvenement": "f100438"
   },
   {
-    "idSeance": 131239,
-    "idEvenement": 30730,
+    "idSeance": 133882,
+    "idEvenement": 30720,
     "dateHeure": "2024-09-06T20:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "George Cukor",
@@ -847,16 +848,16 @@
     ],
     "items": [
       {
-        "idFilm": 31497,
-        "titre": "My Fair Lady",
+        "idFilm": 31488,
+        "titre": "Je retourne chez maman",
         "realisateurs": "George Cukor",
-        "annee": 1963,
-        "duree": 170,
+        "annee": 1952,
+        "duree": 90,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f31497"
+    "hashEvenement": "f31488"
   },
   {
     "idSeance": 133636,
@@ -1095,7 +1096,7 @@
     "hashEvenement": "f75543f76312f76313f154889f91824"
   },
   {
-    "idSeance": 131302,
+    "idSeance": 133889,
     "idEvenement": 30788,
     "dateHeure": "2024-09-08T17:30:00",
     "salle": "GF",
@@ -1164,33 +1165,9 @@
     "hashEvenement": "f153932"
   },
   {
-    "idSeance": 131298,
-    "idEvenement": 30720,
-    "dateHeure": "2024-09-08T20:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "George Cukor",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 31488,
-        "titre": "Je retourne chez maman",
-        "realisateurs": "George Cukor",
-        "annee": 1952,
-        "duree": 90,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f31488"
-  },
-  {
     "idSeance": 131303,
     "idEvenement": 30076,
-    "dateHeure": "2024-09-08T20:45:00",
+    "dateHeure": "2024-09-08T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1209,6 +1186,30 @@
       }
     ],
     "hashEvenement": "f48684"
+  },
+  {
+    "idSeance": 133881,
+    "idEvenement": 30730,
+    "dateHeure": "2024-09-08T20:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "George Cukor",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31497,
+        "titre": "My Fair Lady",
+        "realisateurs": "George Cukor",
+        "annee": 1963,
+        "duree": 170,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f31497"
   },
   {
     "idSeance": 131309,
@@ -1753,63 +1754,6 @@
     "hashEvenement": "c31059"
   },
   {
-    "idSeance": 133827,
-    "idEvenement": 30064,
-    "dateHeure": "2024-09-15T15:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Abel Gance",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 48677,
-        "titre": "Folie du docteur Tube",
-        "art": "La",
-        "realisateurs": "Abel Gance",
-        "annee": 1915,
-        "duree": 14,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 48672,
-        "titre": "Au secours !",
-        "realisateurs": "Abel Gance",
-        "annee": 1923,
-        "duree": 36,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f48677f48672"
-  },
-  {
-    "idSeance": 131486,
-    "idEvenement": 30061,
-    "dateHeure": "2024-09-15T16:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Abel Gance",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 48675,
-        "titre": "Fin du monde",
-        "art": "La",
-        "realisateurs": "Abel Gance",
-        "annee": 1930,
-        "duree": 103
-      }
-    ],
-    "hashEvenement": "f48675"
-  },
-  {
     "idSeance": 133771,
     "idEvenement": 30857,
     "dateHeure": "2024-09-15T17:00:00",
@@ -1858,9 +1802,9 @@
     "hashEvenement": "f31424"
   },
   {
-    "idSeance": 133828,
-    "idEvenement": 30042,
-    "dateHeure": "2024-09-15T19:00:00",
+    "idSeance": 131486,
+    "idEvenement": 30061,
+    "dateHeure": "2024-09-15T18:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -1870,16 +1814,15 @@
     ],
     "items": [
       {
-        "idFilm": 48586,
-        "titre": "Barbe-Rousse",
+        "idFilm": 48675,
+        "titre": "Fin du monde",
+        "art": "La",
         "realisateurs": "Abel Gance",
-        "annee": 1917,
-        "duree": 96,
-        "version": "INT. FR.",
-        "format": "DCP"
+        "annee": 1930,
+        "duree": 103
       }
     ],
-    "hashEvenement": "f48586"
+    "hashEvenement": "f48675"
   },
   {
     "idSeance": 133705,
@@ -1930,6 +1873,30 @@
     "hashEvenement": "f31405"
   },
   {
+    "idSeance": 133828,
+    "idEvenement": 30042,
+    "dateHeure": "2024-09-15T20:45:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48586,
+        "titre": "Barbe-Rousse",
+        "realisateurs": "Abel Gance",
+        "annee": 1917,
+        "duree": 96,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f48586"
+  },
+  {
     "idSeance": 133738,
     "idEvenement": 30715,
     "dateHeure": "2024-09-16T18:00:00",
@@ -1964,6 +1931,7 @@
         "Les films"
       ]
     ],
+    "mention": "Avant-première",
     "items": [
       {
         "idFilm": 154849,
@@ -2001,9 +1969,9 @@
     "hashEvenement": "f31400"
   },
   {
-    "idSeance": 133675,
-    "idEvenement": 30939,
-    "dateHeure": "2024-09-18T18:00:00",
+    "idSeance": 133886,
+    "idEvenement": 30064,
+    "dateHeure": "2024-09-18T18:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -2013,14 +1981,26 @@
     ],
     "items": [
       {
-        "idFilm": 106408,
-        "titre": "A l'ombre des grands chênes (Abel Gance)",
-        "realisateurs": "Georges Mourier",
-        "annee": 2005,
-        "duree": 52
+        "idFilm": 48677,
+        "titre": "Folie du docteur Tube",
+        "art": "La",
+        "realisateurs": "Abel Gance",
+        "annee": 1915,
+        "duree": 14,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 48672,
+        "titre": "Au secours !",
+        "realisateurs": "Abel Gance",
+        "annee": 1923,
+        "duree": 36,
+        "version": "INT. FR.",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f106408"
+    "hashEvenement": "f48677f48672"
   },
   {
     "idSeance": 131533,
@@ -2072,7 +2052,7 @@
   {
     "idSeance": 131537,
     "idEvenement": 30938,
-    "dateHeure": "2024-09-18T19:30:00",
+    "dateHeure": "2024-09-18T20:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -2214,45 +2194,6 @@
       }
     ],
     "hashEvenement": "f31468"
-  },
-  {
-    "idSeance": 131573,
-    "idEvenement": 30931,
-    "dateHeure": "2024-09-19T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Abel Gance",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 73466,
-        "titre": "Autour de La Roue",
-        "realisateurs": "Blaise Cendrars",
-        "annee": 1923,
-        "duree": 17,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 73467,
-        "titre": "Autour de Napoléon",
-        "realisateurs": "Jean Arroy",
-        "annee": 1925,
-        "duree": 21,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 154301,
-        "titre": "Autour de La Fin du monde",
-        "realisateurs": "Eugène Deslaw",
-        "annee": 1930,
-        "duree": 15,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f73466f73467f154301"
   },
   {
     "idSeance": 131611,
@@ -2449,6 +2390,45 @@
       }
     ],
     "hashEvenement": "f97823"
+  },
+  {
+    "idSeance": 133890,
+    "idEvenement": 30931,
+    "dateHeure": "2024-09-21T16:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 73466,
+        "titre": "Autour de La Roue",
+        "realisateurs": "Blaise Cendrars",
+        "annee": 1923,
+        "duree": 17,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 73467,
+        "titre": "Autour de Napoléon",
+        "realisateurs": "Jean Arroy",
+        "annee": 1925,
+        "duree": 21,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 154301,
+        "titre": "Autour de La Fin du monde",
+        "realisateurs": "Eugène Deslaw",
+        "annee": 1930,
+        "duree": 15,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f73466f73467f154301"
   },
   {
     "idSeance": 133781,
@@ -4705,7 +4685,7 @@
   {
     "idSeance": 132276,
     "idEvenement": 30826,
-    "dateHeure": "2024-10-16T19:00:00",
+    "dateHeure": "2024-10-16T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4725,9 +4705,33 @@
     "hashEvenement": "f33501"
   },
   {
+    "idSeance": 132279,
+    "idEvenement": 25721,
+    "dateHeure": "2024-10-16T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 56844,
+        "titre": "Frissons",
+        "realisateurs": "David Cronenberg",
+        "annee": 1974,
+        "duree": 87,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f56844"
+  },
+  {
     "idSeance": 132277,
     "idEvenement": 30829,
-    "dateHeure": "2024-10-16T21:00:00",
+    "dateHeure": "2024-10-16T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4749,9 +4753,33 @@
     "hashEvenement": "f52854"
   },
   {
+    "idSeance": 132280,
+    "idEvenement": 25722,
+    "dateHeure": "2024-10-16T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 55780,
+        "titre": "Rage",
+        "realisateurs": "David Cronenberg",
+        "annee": 1976,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f55780"
+  },
+  {
     "idSeance": 132313,
     "idEvenement": 30817,
-    "dateHeure": "2024-10-17T14:30:00",
+    "dateHeure": "2024-10-17T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4771,9 +4799,33 @@
     "hashEvenement": "f33490"
   },
   {
+    "idSeance": 132312,
+    "idEvenement": 25723,
+    "dateHeure": "2024-10-17T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 52912,
+        "titre": "Chromosome 3",
+        "realisateurs": "David Cronenberg",
+        "annee": 1978,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f52912"
+  },
+  {
     "idSeance": 132316,
     "idEvenement": 30830,
-    "dateHeure": "2024-10-17T21:00:00",
+    "dateHeure": "2024-10-17T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4793,9 +4845,58 @@
     "hashEvenement": "f46157"
   },
   {
-    "idSeance": 132355,
+    "idSeance": 133893,
+    "idEvenement": 25725,
+    "dateHeure": "2024-10-17T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 39040,
+        "titre": "Scanners",
+        "realisateurs": "David Cronenberg",
+        "annee": 1979,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f39040"
+  },
+  {
+    "idSeance": 133894,
+    "idEvenement": 25728,
+    "dateHeure": "2024-10-18T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31330,
+        "titre": "Mouche",
+        "art": "La",
+        "realisateurs": "David Cronenberg",
+        "annee": 1986,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f31330"
+  },
+  {
+    "idSeance": 133891,
     "idEvenement": 30827,
-    "dateHeure": "2024-10-18T19:00:00",
+    "dateHeure": "2024-10-18T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4815,9 +4916,33 @@
     "hashEvenement": "f33502"
   },
   {
+    "idSeance": 133895,
+    "idEvenement": 25727,
+    "dateHeure": "2024-10-18T19:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31329,
+        "titre": "Dead Zone",
+        "realisateurs": "David Cronenberg",
+        "annee": 1983,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f31329"
+  },
+  {
     "idSeance": 132356,
     "idEvenement": 30816,
-    "dateHeure": "2024-10-18T21:00:00",
+    "dateHeure": "2024-10-18T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4861,6 +4986,54 @@
     "hashEvenement": "f64306"
   },
   {
+    "idSeance": 132399,
+    "idEvenement": 25729,
+    "dateHeure": "2024-10-19T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 39020,
+        "titre": "Faux-semblants",
+        "realisateurs": "David Cronenberg",
+        "annee": 1988,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f39020"
+  },
+  {
+    "idSeance": 132400,
+    "idEvenement": 25731,
+    "dateHeure": "2024-10-19T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 55771,
+        "titre": "M. Butterfly",
+        "realisateurs": "David Cronenberg",
+        "annee": 1992,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f55771"
+  },
+  {
     "idSeance": 132397,
     "idEvenement": 30822,
     "dateHeure": "2024-10-19T18:30:00",
@@ -4883,6 +5056,30 @@
       }
     ],
     "hashEvenement": "f96668"
+  },
+  {
+    "idSeance": 132401,
+    "idEvenement": 25732,
+    "dateHeure": "2024-10-19T19:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 59968,
+        "titre": "Crash",
+        "realisateurs": "David Cronenberg",
+        "annee": 1995,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f59968"
   },
   {
     "idSeance": 132398,
@@ -4932,6 +5129,30 @@
     "hashEvenement": "f119997"
   },
   {
+    "idSeance": 132418,
+    "idEvenement": 25758,
+    "dateHeure": "2024-10-20T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 64235,
+        "titre": "eXistenZ",
+        "realisateurs": "David Cronenberg",
+        "annee": 1998,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f64235"
+  },
+  {
     "idSeance": 133816,
     "idEvenement": 30832,
     "dateHeure": "2024-10-20T19:30:00",
@@ -4952,6 +5173,29 @@
       }
     ],
     "hashEvenement": "f131547"
+  },
+  {
+    "idSeance": 132419,
+    "idEvenement": 25754,
+    "dateHeure": "2024-10-20T19:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 123191,
+        "titre": "Maps to the Stars",
+        "realisateurs": "David Cronenberg",
+        "annee": 2013,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f123191"
   },
   {
     "idSeance": 133829,
@@ -5001,7 +5245,7 @@
   {
     "idSeance": 132465,
     "idEvenement": 30821,
-    "dateHeure": "2024-10-23T19:30:00",
+    "dateHeure": "2024-10-23T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5045,6 +5289,30 @@
       }
     ],
     "hashEvenement": "f41789"
+  },
+  {
+    "idSeance": 132466,
+    "idEvenement": 25736,
+    "dateHeure": "2024-10-23T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 103263,
+        "titre": "Promesses de l'ombre",
+        "art": "Les",
+        "realisateurs": "David Cronenberg",
+        "annee": 2006,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f103263"
   },
   {
     "idSeance": 133830,
@@ -5148,6 +5416,28 @@
       }
     ],
     "hashEvenement": "f30105"
+  },
+  {
+    "idSeance": 133892,
+    "idEvenement": 31068,
+    "dateHeure": "2024-10-25T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31068,
+        "titre": "La technique de James Cameron par Philippe Loranchet",
+        "sousTitre": "Conférence ",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c31068"
   },
   {
     "idSeance": 132541,
@@ -5441,8 +5731,8 @@
     "hashEvenement": "f42009"
   },
   {
-    "idSeance": 132600,
-    "idEvenement": 21655,
+    "idSeance": 133901,
+    "idEvenement": 21700,
     "dateHeure": "2024-10-27T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -5453,14 +5743,16 @@
     ],
     "items": [
       {
-        "idFilm": 53350,
-        "titre": "Espionne à bord",
-        "realisateurs": "Michael Powell",
-        "annee": 1939,
-        "format": "35 mm"
+        "idFilm": 41083,
+        "titre": "Une question de vie ou de mort",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1946,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f53350"
+    "hashEvenement": "f41083"
   },
   {
     "idSeance": 132613,
@@ -5509,6 +5801,28 @@
       }
     ],
     "hashEvenement": "f71690"
+  },
+  {
+    "idSeance": 132651,
+    "idEvenement": 21655,
+    "dateHeure": "2024-10-30T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 53350,
+        "titre": "Espionne à bord",
+        "realisateurs": "Michael Powell",
+        "annee": 1939,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f53350"
   },
   {
     "idSeance": 132648,
@@ -5659,28 +5973,28 @@
     "hashEvenement": "f44980"
   },
   {
-    "idSeance": 132728,
-    "idEvenement": 21700,
+    "idSeance": 133900,
+    "idEvenement": 29886,
     "dateHeure": "2024-11-01T20:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Michael Powell",
+        "James Cameron",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 41083,
-        "titre": "Une question de vie ou de mort",
-        "realisateurs": "Michael Powell, Emeric Pressburger",
-        "annee": 1946,
-        "duree": 104,
+        "idFilm": 30824,
+        "titre": "Terminator",
+        "realisateurs": "James Cameron",
+        "annee": 1984,
+        "duree": 107,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f41083"
+    "hashEvenement": "f30824"
   },
   {
     "idSeance": 133766,
@@ -5852,52 +6166,50 @@
     "hashEvenement": "f42029"
   },
   {
-    "idSeance": 132784,
-    "idEvenement": 29886,
-    "dateHeure": "2024-11-03T14:30:00",
+    "idSeance": 132786,
+    "idEvenement": 31063,
+    "dateHeure": "2024-11-03T14:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "James Cameron",
-        "Les films"
+        "Séances spéciales",
+        "Godzilla Day"
       ]
     ],
     "items": [
       {
-        "idFilm": 30824,
-        "titre": "Terminator",
-        "realisateurs": "James Cameron",
-        "annee": 1984,
-        "duree": 107,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 37903,
+        "titre": "Godzilla",
+        "realisateurs": "Ishirô Honda",
+        "annee": 1954,
+        "duree": 98,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f30824"
+    "hashEvenement": "f37903"
   },
   {
-    "idSeance": 132785,
-    "idEvenement": 29889,
-    "dateHeure": "2024-11-03T17:00:00",
+    "idSeance": 133896,
+    "idEvenement": 31066,
+    "dateHeure": "2024-11-03T16:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "James Cameron",
-        "Les films"
+        "Séances spéciales",
+        "Godzilla Day"
       ]
     ],
     "items": [
       {
-        "idFilm": 30829,
-        "titre": "Terminator 2 : Le Jugement dernier",
-        "realisateurs": "James Cameron",
-        "annee": 1991,
-        "duree": 136,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 74370,
+        "titre": "Monstres des planètes secrètes = La Planète des monstres",
+        "art": "Les",
+        "realisateurs": "Jun Fukuda",
+        "annee": 1967
       }
     ],
-    "hashEvenement": "f30829"
+    "hashEvenement": "f74370"
   },
   {
     "idSeance": 132790,
@@ -5923,6 +6235,28 @@
     "hashEvenement": "f38654"
   },
   {
+    "idSeance": 133899,
+    "idEvenement": 31066,
+    "dateHeure": "2024-11-03T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Godzilla Day"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 74370,
+        "titre": "Monstres des planètes secrètes = La Planète des monstres",
+        "art": "Les",
+        "realisateurs": "Jun Fukuda",
+        "annee": 1967
+      }
+    ],
+    "hashEvenement": "f74370"
+  },
+  {
     "idSeance": 132791,
     "idEvenement": 30963,
     "dateHeure": "2024-11-03T19:45:00",
@@ -5944,6 +6278,27 @@
       }
     ],
     "hashEvenement": "f55161"
+  },
+  {
+    "idSeance": 133898,
+    "idEvenement": 31065,
+    "dateHeure": "2024-11-03T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Godzilla Day"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 97016,
+        "titre": "Godzilla : Final wars",
+        "realisateurs": "Ryuhei Kitamura",
+        "annee": 2004
+      }
+    ],
+    "hashEvenement": "f97016"
   },
   {
     "idSeance": 132799,
@@ -6843,7 +7198,7 @@
     "items": [
       {
         "idConf": 31048,
-        "titre": "Conférence du conservatoire Novembre 2024",
+        "titre": "Le Technicolor par Bob Hoffman",
         "sousTitre": "Conférence ",
         "typeConference": "Conférence",
         "duree": 90

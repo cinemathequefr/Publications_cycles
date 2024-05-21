@@ -209,14 +209,13 @@
   * What Price Hollywood?  
   * Zaza
 
-## James Cameron (7)
+## James Cameron (6)
 
   * Abyss  
   * Aliens, le retour  
   * Avatar  
   * Avatar : La Voie de l'eau  
   * Terminator  
-  * Terminator 2 : Le Jugement dernier  
   * True Lies
 
 ## Jim Jarmusch (14)
@@ -366,10 +365,13 @@
   * Un chat, un chat  
   * Véritée zébrée (La)
 
-## Séances spéciales (5)
+## Séances spéciales (8)
 
   * Family portraits  
   * Galets d'Étretat (Les)  
+  * Godzilla  
+  * Godzilla : Final wars  
+  * Monstres des planètes secrètes = La Planète des monstres (Les)  
   * Sisters  
   * Theatre bizarre: The Accident (The)  
   * Un beau monstre

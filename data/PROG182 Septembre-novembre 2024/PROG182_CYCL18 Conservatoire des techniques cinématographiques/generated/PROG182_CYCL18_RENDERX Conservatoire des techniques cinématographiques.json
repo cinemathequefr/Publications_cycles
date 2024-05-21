@@ -6,11 +6,29 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
+          "idConf": 31068,
+          "content": [
+            {
+              "idConf": 31068,
+              "titre": "La technique de James Cameron par Philippe Loranchet",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133892,
+              "dateHeure": "2024-10-25T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idConf": 31048,
           "content": [
             {
               "idConf": 31048,
-              "titre": "Conférence du conservatoire Novembre 2024",
+              "titre": "Le Technicolor par Bob Hoffman",
               "sousTitre": "Conférence ",
               "typeConference": "Conférence"
             }
@@ -27,9 +45,14 @@
     }
   ],
   "syntheseAction": {
-    "Conférence": [
+    "Conférences": [
       {
-        "titre": "Conférence du conservatoire Novembre 2024",
+        "titre": "La technique de James Cameron par Philippe Loranchet",
+        "mention": "Conférence ",
+        "dateHeure": "2024-10-25T17:00:00"
+      },
+      {
+        "titre": "Le Technicolor par Bob Hoffman",
         "mention": "Conférence ",
         "dateHeure": "2024-11-15T18:30:00"
       }
