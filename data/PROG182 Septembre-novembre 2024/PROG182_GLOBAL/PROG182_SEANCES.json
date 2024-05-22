@@ -820,7 +820,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective. Séance présentée par Pascal Cervo, Dominique Reymond et Mireille Roussel",
+    "mention": "Ouverture de la rétrospective. Séance présentée par Pascal Cervo, Dominique Reymond, Mireille Roussel et Ricardo Muñoz",
     "items": [
       {
         "idFilm": 100438,
@@ -939,7 +939,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Robert Guédiguian",
+    "mention": "Séance présentée par Robert Guédiguian et Ricardo Muñoz",
     "items": [
       {
         "idFilm": 64087,
@@ -1346,6 +1346,27 @@
     "hashEvenement": "f121778f154838"
   },
   {
+    "idSeance": 133905,
+    "idEvenement": 31070,
+    "dateHeure": "2024-09-11T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Laurent Achard",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31070,
+        "titre": "dialogue avec Pascal Cervo et Mireille Roussel",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c31070"
+  },
+  {
     "idSeance": 133635,
     "idEvenement": 30836,
     "dateHeure": "2024-09-11T20:00:00",
@@ -1652,6 +1673,10 @@
       [
         "George Cukor",
         "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
       ]
     ],
     "items": [
@@ -1812,8 +1837,8 @@
     "hashEvenement": "f31424"
   },
   {
-    "idSeance": 131486,
-    "idEvenement": 30061,
+    "idSeance": 133886,
+    "idEvenement": 30064,
     "dateHeure": "2024-09-15T18:30:00",
     "salle": "JE",
     "cycle": [
@@ -1822,17 +1847,29 @@
         "Les films"
       ]
     ],
+    "mention": "Accompagnement musical par (Etudiant) Zygel",
     "items": [
       {
-        "idFilm": 48675,
-        "titre": "Fin du monde",
+        "idFilm": 48677,
+        "titre": "Folie du docteur Tube",
         "art": "La",
         "realisateurs": "Abel Gance",
-        "annee": 1930,
-        "duree": 103
+        "annee": 1915,
+        "duree": 14,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 48672,
+        "titre": "Au secours !",
+        "realisateurs": "Abel Gance",
+        "annee": 1923,
+        "duree": 36,
+        "version": "INT. FR.",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f48675"
+    "hashEvenement": "f48677f48672"
   },
   {
     "idSeance": 133705,
@@ -1948,7 +1985,7 @@
         "idFilm": 154849,
         "titre": "Ma vie, ma gueule",
         "realisateurs": "Sophie Fillières",
-        "annee": 2023,
+        "annee": 2024,
         "duree": 99,
         "format": "DCP"
       }
@@ -1980,8 +2017,8 @@
     "hashEvenement": "f31400"
   },
   {
-    "idSeance": 133886,
-    "idEvenement": 30064,
+    "idSeance": 131486,
+    "idEvenement": 30061,
     "dateHeure": "2024-09-18T18:30:00",
     "salle": "JE",
     "cycle": [
@@ -1990,29 +2027,17 @@
         "Les films"
       ]
     ],
-    "mention": "Accompagnement musical par (Etudiant) Zygel",
     "items": [
       {
-        "idFilm": 48677,
-        "titre": "Folie du docteur Tube",
+        "idFilm": 48675,
+        "titre": "Fin du monde",
         "art": "La",
         "realisateurs": "Abel Gance",
-        "annee": 1915,
-        "duree": 14,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 48672,
-        "titre": "Au secours !",
-        "realisateurs": "Abel Gance",
-        "annee": 1923,
-        "duree": 36,
-        "version": "INT. FR.",
-        "format": "35 mm"
+        "annee": 1930,
+        "duree": 103
       }
     ],
-    "hashEvenement": "f48677f48672"
+    "hashEvenement": "f48675"
   },
   {
     "idSeance": 131533,
@@ -6609,6 +6634,10 @@
     "cycle": [
       [
         "Michael Powell",
+        "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
         "Les films"
       ]
     ],

@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-09-06T20:00:00",
-    "2024-09-11T18:00:00"
+    "2024-09-11T19:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -36,7 +36,7 @@
               "idSeance": 133867,
               "dateHeure": "2024-09-06T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective. Séance présentée par Pascal Cervo, Dominique Reymond et Mireille Roussel"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Pascal Cervo, Dominique Reymond, Mireille Roussel et Ricardo Muñoz"
             }
           ]
         },
@@ -109,7 +109,7 @@
               "idSeance": 133868,
               "dateHeure": "2024-09-07T18:00:00",
               "idSalle": "GF",
-              "mention": "Séance présentée par Robert Guédiguian"
+              "mention": "Séance présentée par Robert Guédiguian et Ricardo Muñoz"
             }
           ]
         }
@@ -277,18 +277,47 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31070,
+          "content": [
+            {
+              "idConf": 31070,
+              "titre": "dialogue avec Pascal Cervo et Mireille Roussel",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133905,
+              "dateHeure": "2024-09-11T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "dialogue avec Pascal Cervo et Mireille Roussel",
+        "dateHeure": "2024-09-11T19:30:00"
+      }
+    ],
     "Séances présentées": [
       {
         "titreFilms": "Le Dernier des fous",
-        "mention": "par Pascal Cervo, Dominique Reymond et Mireille Roussel",
+        "mention": "par Pascal Cervo, Dominique Reymond, Mireille Roussel et Ricardo Muñoz",
         "dateHeure": "2024-09-06T20:00:00"
       },
       {
         "titreFilms": "Plus qu'hier, moins que demain",
-        "mention": "par Robert Guédiguian",
+        "mention": "par Robert Guédiguian et Ricardo Muñoz",
         "dateHeure": "2024-09-07T18:00:00"
       },
       {
