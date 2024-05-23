@@ -308,6 +308,7 @@
   * Bataille du Rio de la Plata (La)  
   * Blackout  
   * Boy Who Turned Yellow (The)  
+  * Château de Barbe-Bleue (Le)  
   * Chaussons rouges (Les)  
   * Colonel Blimp  
   * Contes d'Hoffmann (Les)  
@@ -317,7 +318,6 @@
   * Espionne à bord  
   * Fire Raisers (The)  
   * Her Last Affaire  
-  * Herzog Blaubarts Burg  
   * His Lordship  
   * Hotel Splendide  
   * Intelligence Service  
@@ -329,10 +329,10 @@
   * Man Behind the Mask (The)  
   * Narcisse noir (Le)  
   * Night of the Party (The)  
-  * Oh ! Rosalinda !  
+  * Oh... Rosalinda!!  
+  * Pavillon rouge (Le)  
   * Phantom Light (The)  
   * Queen's Guards (The)  
-  * Red Ensign  
   * Renarde (La)  
   * Return to the Edge of the World  
   * Rynox  
