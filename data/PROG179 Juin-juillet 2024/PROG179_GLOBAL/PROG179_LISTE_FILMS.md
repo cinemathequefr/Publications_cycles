@@ -8,9 +8,11 @@
   * Baby  
   * Blue Sun Palace  
   * Ce qu'on demande à une statue, c'est qu'elle ne bouge pas  
+  * Dancing in the Corner  
   * Elle reste  
   * Fantômes (Les)  
   * Fiancées du Sud (Les)  
+  * Filles du Nil (Les)  
   * Julie zwijgt  
   * Locust  
   * Menina e o pote (A)  
@@ -20,12 +22,10 @@
   * Noksan  
   * Pampa (La)  
   * Radikals  
-  * Rafaat einy ll sama  
   * Reines du drame (Les)  
-  * Sannapäiv  
+  * Sauna Day  
   * Simon de la montagne  
-  * Supersilly  
-  * Taniec w narożniku
+  * Supersilly
 
 ## Aujourd'hui le cinéma (16)
 

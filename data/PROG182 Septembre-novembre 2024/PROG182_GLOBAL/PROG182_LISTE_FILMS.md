@@ -40,7 +40,7 @@
   * Vénus aveugle  
   * Voleur de femmes (Le)
 
-## Bo Widerberg (13)
+## Bo Widerberg (14)
 
   * Ådalen 31  
   * Amour 65  
@@ -53,6 +53,7 @@
   * Mannen fran Mallorca  
   * Péché suédois (Le)  
   * Quartier du corbeau (Le)  
+  * Tom Foot  
   * Un flic sur le toit  
   * Victoria
 
@@ -123,45 +124,6 @@
   * Route (La)  
   * Tueur à gages
 
-## David Cronenberg (36)
-
-  * A Dangerous Method  
-  * A History of Violence  
-  * Camera  
-  * Chromosome 3  
-  * Cosmopolis  
-  * Crash  
-  * Crimes du futur (Les)  
-  * Crimes of the Future  
-  * Dead Zone  
-  * Death of David Cronenberg (The)  
-  * eXistenZ  
-  * Faith Healer (The)  
-  * Fast Company  
-  * Faux-semblants  
-  * Festin nu (Le)  
-  * Frissons  
-  * From the Drain  
-  * Italian Machine (The)  
-  * Jim Ritchie Sculptor  
-  * Letter from Michelangelo  
-  * Lie Chair (The)  
-  * M. Butterfly  
-  * Maps to the Stars  
-  * Mouche (La)  
-  * Nid (Le)  
-  * Promesses de l'ombre (Les)  
-  * Rage  
-  * Scanners  
-  * Secret Weapons  
-  * Shrouds (The)  
-  * Spider  
-  * Stereo  
-  * Tourettes  
-  * Transfer  
-  * Victim (The)  
-  * Videodrome
-
 ## George Cukor (44)
 
   * Actress (The)  
@@ -174,7 +136,6 @@
   * Édouard, mon fils  
   * Femme aux deux visages (La)  
   * Femmes  
-  * Flamme sacrée (La)  
   * Girls About Town  
   * Girls (Les)  
   * Grumpy  
@@ -196,6 +157,7 @@
   * Othello  
   * Quatre filles du docteur March (Les)  
   * Riches et Célèbres  
+  * Rockabye  
   * Roman de Marguerite Gautier (Le)  
   * Roméo et Juliette  
   * Royal Family  
@@ -271,6 +233,21 @@
   * Vent nous emportera (Le)  
   * Vie est un long fleuve tranquille (La)
 
+## Ma petite Cinémathèque (12)
+
+  * Belle au bois dormant (La)  
+  * Brendan et le secret de Kells  
+  * Homme invisible (L')  
+  * Jeune et innocent  
+  * Lumières de la ville (Les)  
+  * Ma vie de courgette  
+  * Monde de Nemo (Le)  
+  * Ponyo sur la falaise  
+  * Roi et l'oiseau (Le)  
+  * Sherlock Jr.  
+  * Voleur de Bagdad (Le)  
+  * West Side Story
+
 ## Marcello Mastroianni (24)
 
   * 8½  
@@ -289,7 +266,7 @@
   * Liza  
   * Mariage à l'italienne  
   * Nuit (La)  
-  * Nuits blanches (Les)  
+  * Nuits blanches  
   * Pigeon (Le)  
   * Rapt à l'italienne  
   * Splendor  
