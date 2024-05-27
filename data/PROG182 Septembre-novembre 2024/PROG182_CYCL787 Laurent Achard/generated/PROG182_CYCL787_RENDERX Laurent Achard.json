@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-09-06T20:00:00",
-    "2024-09-11T19:30:00"
+    "2024-09-11T18:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -191,42 +191,6 @@
               "mention": "Séance présentée par Philippe Grivel et Frank Beauvais"
             }
           ]
-        },
-        {
-          "idEvenement": 31056,
-          "content": [
-            {
-              "idFilm": 121778,
-              "ordre": 1,
-              "titre": "Tableau",
-              "art": "Le",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2012,
-              "duree": 30,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 154838,
-              "ordre": 2,
-              "titre": "Un, parfois deux...",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2016,
-              "duree": 52,
-              "version": "",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133870,
-              "dateHeure": "2024-09-11T18:00:00",
-              "idSalle": "JE",
-              "mention": "Séance présentée par Pascal Cervo et Mireille Roussel"
-            }
-          ]
         }
       ]
     },
@@ -275,27 +239,71 @@
               "mention": "Séance présentée par Patricia Mazuy"
             }
           ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
+        },
         {
-          "idConf": 31070,
+          "idFilm": 121778,
           "content": [
             {
-              "idConf": 31070,
-              "titre": "dialogue avec Pascal Cervo et Mireille Roussel",
-              "typeConference": "Dialogue"
+              "idFilm": 121778,
+              "ordre": 1,
+              "titre": "Tableau",
+              "art": "Le",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2012,
+              "duree": 30,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Un, parfois deux...",
+                    null
+                  ]
+                ]
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 133905,
-              "dateHeure": "2024-09-11T19:30:00",
-              "idSalle": "JE"
+              "idSeance": 133870,
+              "dateHeure": "2024-09-11T18:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Pascal Cervo et Mireille Roussel"
+            }
+          ]
+        },
+        {
+          "idFilm": 154838,
+          "content": [
+            {
+              "idFilm": 154838,
+              "ordre": 2,
+              "titre": "Un, parfois deux...",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2016,
+              "duree": 52,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Tableau",
+                    "Le"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133870,
+              "dateHeure": "2024-09-11T18:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Pascal Cervo et Mireille Roussel"
             }
           ]
         }
@@ -303,10 +311,11 @@
     }
   ],
   "syntheseAction": {
-    "Dialogue": [
+    "Discussion": [
       {
-        "mention": "dialogue avec Pascal Cervo et Mireille Roussel",
-        "dateHeure": "2024-09-11T19:30:00"
+        "titreFilms": "Le Tableau / Un, parfois deux...",
+        "mention": "avec Pascal Cervo et Mireille Roussel",
+        "dateHeure": "2024-09-11T18:00:00"
       }
     ],
     "Séances présentées": [
@@ -339,11 +348,6 @@
         "titreFilms": "Patricia Mazuy : avant Saturne",
         "mention": "par Patricia Mazuy",
         "dateHeure": "2024-09-08T19:30:00"
-      },
-      {
-        "titreFilms": "Le Tableau / Un, parfois deux...",
-        "mention": "par Pascal Cervo et Mireille Roussel",
-        "dateHeure": "2024-09-11T18:00:00"
       }
     ]
   }
