@@ -38,11 +38,6 @@
               "idSeance": 131470,
               "dateHeure": "2024-09-14T17:15:00",
               "idSalle": "GF"
-            },
-            {
-              "idSeance": 133917,
-              "dateHeure": "2024-10-06T15:00:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -72,6 +67,36 @@
             {
               "idSeance": 131902,
               "dateHeure": "2024-10-02T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 31258,
+          "content": [
+            {
+              "idFilm": 31258,
+              "ordre": 1,
+              "titre": "Lumières de la ville",
+              "art": "Les",
+              "titreVo": "City Lights",
+              "realisateurs": "Charles Chaplin",
+              "pays": "États-Unis",
+              "annee": 1931,
+              "duree": 87,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Charles Chaplin",
+                "Robert Parrish",
+                "Jean Harlow"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133964,
+              "dateHeure": "2024-10-06T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -191,56 +216,54 @@
           ]
         },
         {
-          "idFilm": 37811,
+          "idFilm": 106786,
           "content": [
             {
-              "idFilm": 37811,
+              "idFilm": 106786,
               "ordre": 1,
-              "titre": "Homme invisible",
-              "art": "L'",
-              "titreVo": "Invisible Man",
-              "artVo": "The",
-              "realisateurs": "James Whale",
-              "pays": "États-Unis",
-              "annee": 1933,
-              "duree": 71,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après le roman _L'homme invisible_ de H.G. Wells.",
-              "generique": [
-                "Claude Rains",
-                "Gloria Stuart",
-                "William Harrigan"
-              ]
+              "titre": "Ponyo sur la falaise",
+              "titreVo": "Gake no ue no Ponyo",
+              "realisateurs": "Hayao Miyazaki",
+              "pays": "Japon",
+              "annee": 2008,
+              "duree": 100,
+              "version": "VF",
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 132603,
+              "idSeance": 133966,
               "dateHeure": "2024-10-27T15:00:00",
               "idSalle": "GF"
             }
           ]
         },
         {
-          "idFilm": 46450,
+          "idFilm": 49035,
           "content": [
             {
-              "idFilm": 46450,
+              "idFilm": 49035,
               "ordre": 1,
-              "titre": "Tom Foot",
-              "titreVo": "Fimpen",
-              "realisateurs": "Bo Widerberg",
-              "pays": "Suède",
-              "annee": 1974,
-              "duree": 89,
+              "titre": "Roi et l'oiseau",
+              "art": "Le",
+              "realisateurs": "Paul Grimault",
+              "pays": "France",
+              "annee": 1980,
+              "duree": 87,
               "version": "",
-              "format": "35 mm"
+              "format": "DCP",
+              "adaptation": "D'après le conte _La Bergère et la ramoneur_ de Hans Christian Andersen.",
+              "generique": [
+                "Roger Blin",
+                "Raymond Bussières",
+                "Philippe Derrez"
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 133916,
+              "idSeance": 133973,
               "dateHeure": "2024-11-03T15:00:00",
               "idSalle": "GF"
             }
@@ -340,84 +363,32 @@
           ]
         },
         {
-          "idFilm": 31258,
+          "idFilm": 37811,
           "content": [
             {
-              "idFilm": 31258,
+              "idFilm": 37811,
               "ordre": 1,
-              "titre": "Lumières de la ville",
-              "art": "Les",
-              "titreVo": "City Lights",
-              "realisateurs": "Charles Chaplin",
+              "titre": "Homme invisible",
+              "art": "L'",
+              "titreVo": "Invisible Man",
+              "artVo": "The",
+              "realisateurs": "James Whale",
               "pays": "États-Unis",
-              "annee": 1931,
-              "duree": 87,
-              "version": "INT. FR.",
+              "annee": 1933,
+              "duree": 71,
+              "version": "VOSTF",
               "format": "DCP",
+              "adaptation": "D'après le roman _L'homme invisible_ de H.G. Wells.",
               "generique": [
-                "Charles Chaplin",
-                "Robert Parrish",
-                "Jean Harlow"
+                "Claude Rains",
+                "Gloria Stuart",
+                "William Harrigan"
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 133161,
-              "dateHeure": "2024-11-17T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 106786,
-          "content": [
-            {
-              "idFilm": 106786,
-              "ordre": 1,
-              "titre": "Ponyo sur la falaise",
-              "titreVo": "Gake no ue no Ponyo",
-              "realisateurs": "Hayao Miyazaki",
-              "pays": "Japon",
-              "annee": 2008,
-              "duree": 100,
-              "version": "VF",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133204,
-              "dateHeure": "2024-11-20T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 49035,
-          "content": [
-            {
-              "idFilm": 49035,
-              "ordre": 1,
-              "titre": "Roi et l'oiseau",
-              "art": "Le",
-              "realisateurs": "Paul Grimault",
-              "pays": "France",
-              "annee": 1980,
-              "duree": 87,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après le conte _La Bergère et la ramoneur_ de Hans Christian Andersen.",
-              "generique": [
-                "Roger Blin",
-                "Raymond Bussières",
-                "Philippe Derrez"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133347,
+              "idSeance": 133971,
               "dateHeure": "2024-11-24T15:00:00",
               "idSalle": "GF"
             }

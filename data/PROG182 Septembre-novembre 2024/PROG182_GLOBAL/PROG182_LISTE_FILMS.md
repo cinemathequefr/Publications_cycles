@@ -40,7 +40,7 @@
   * Vénus aveugle  
   * Voleur de femmes (Le)
 
-## Bo Widerberg (14)
+## Bo Widerberg (13)
 
   * Ådalen 31  
   * Amour 65  
@@ -53,7 +53,6 @@
   * Mannen fran Mallorca  
   * Péché suédois (Le)  
   * Quartier du corbeau (Le)  
-  * Tom Foot  
   * Un flic sur le toit  
   * Victoria
 
