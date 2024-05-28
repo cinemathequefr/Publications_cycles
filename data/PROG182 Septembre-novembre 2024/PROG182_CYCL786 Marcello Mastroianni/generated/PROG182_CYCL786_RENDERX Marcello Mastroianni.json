@@ -33,8 +33,8 @@
           ],
           "seances": [
             {
-              "idSeance": 131533,
-              "dateHeure": "2024-09-18T19:00:00",
+              "idSeance": 133944,
+              "dateHeure": "2024-09-13T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -157,9 +157,10 @@
           ],
           "seances": [
             {
-              "idSeance": 133737,
-              "dateHeure": "2024-09-13T20:30:00",
-              "idSalle": "HL"
+              "idSeance": 133946,
+              "dateHeure": "2024-09-18T20:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean A. Gili"
             }
           ]
         },
@@ -218,9 +219,10 @@
           ],
           "seances": [
             {
-              "idSeance": 133741,
-              "dateHeure": "2024-09-20T18:30:00",
-              "idSalle": "GF"
+              "idSeance": 133948,
+              "dateHeure": "2024-09-25T20:45:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Jean A. Gili"
             }
           ]
         },
@@ -283,7 +285,7 @@
           "seances": [
             {
               "idSeance": 131843,
-              "dateHeure": "2024-09-28T19:45:00",
+              "dateHeure": "2024-09-28T19:15:00",
               "idSalle": "GF"
             }
           ]
@@ -315,7 +317,7 @@
           "seances": [
             {
               "idSeance": 131842,
-              "dateHeure": "2024-09-28T17:30:00",
+              "dateHeure": "2024-09-28T17:00:00",
               "idSalle": "GF"
             }
           ]
@@ -468,9 +470,10 @@
           ],
           "seances": [
             {
-              "idSeance": 131717,
-              "dateHeure": "2024-09-25T20:45:00",
-              "idSalle": "GF"
+              "idSeance": 133947,
+              "dateHeure": "2024-09-20T18:30:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Jean A. Gili"
             }
           ]
         },
@@ -500,8 +503,8 @@
           ],
           "seances": [
             {
-              "idSeance": 131425,
-              "dateHeure": "2024-09-13T17:30:00",
+              "idSeance": 133945,
+              "dateHeure": "2024-09-18T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -567,7 +570,8 @@
             {
               "idSeance": 133703,
               "dateHeure": "2024-09-12T20:15:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean A. Gili"
             }
           ]
         },
@@ -688,7 +692,8 @@
             {
               "idSeance": 133731,
               "dateHeure": "2024-09-26T17:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Jean A. Gili"
             }
           ]
         },
@@ -719,6 +724,37 @@
               "idSeance": 131670,
               "dateHeure": "2024-09-22T20:15:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 56875,
+          "content": [
+            {
+              "idFilm": 56875,
+              "ordre": 1,
+              "titre": "Vertiges",
+              "titreVo": "Per le antiche scale",
+              "realisateurs": "Mauro Bolognini",
+              "pays": "Italie-France",
+              "annee": 1975,
+              "duree": 97,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Par les escaliers anciens_ de Mario Tobino.",
+              "generique": [
+                "Marcello Mastroianni",
+                "Françoise Fabian",
+                "Marthe Keller"
+              ],
+              "miniTexte": "Dans la Toscane des années 30, un psychiatre mégalomane mène des recherches sur la folie, alors que l'arrivée d'une assistante remet en cause ses théories. Une exploration de l'aliénation mentale, d'une beauté formelle feutrée, qui aborde les thèmes de la sexualité et de la normalité, en pleine montée du fascisme."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133949,
+              "dateHeure": "2024-09-29T14:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -757,5 +793,33 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Le Pigeon",
+        "mention": "par Jean A. Gili",
+        "dateHeure": "2024-09-12T20:15:00"
+      },
+      {
+        "titreFilms": "Divorce à l'italienne",
+        "mention": "par Jean A. Gili",
+        "dateHeure": "2024-09-18T20:30:00"
+      },
+      {
+        "titreFilms": "Mariage à l'italienne",
+        "mention": "par Jean A. Gili",
+        "dateHeure": "2024-09-20T18:30:00"
+      },
+      {
+        "titreFilms": "Drame de la jalousie",
+        "mention": "par Jean A. Gili",
+        "dateHeure": "2024-09-25T20:45:00"
+      },
+      {
+        "titreFilms": "Todo modo",
+        "mention": "par Jean A. Gili",
+        "dateHeure": "2024-09-26T17:30:00"
+      }
+    ]
+  }
 }

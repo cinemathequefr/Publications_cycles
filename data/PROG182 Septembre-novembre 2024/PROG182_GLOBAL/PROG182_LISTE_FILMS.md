@@ -124,7 +124,7 @@
   * Route (La)  
   * Tueur à gages
 
-## George Cukor (44)
+## George Cukor (46)
 
   * Actress (The)  
   * Agence Cupidon  
@@ -136,12 +136,14 @@
   * Édouard, mon fils  
   * Femme aux deux visages (La)  
   * Femmes  
+  * Flamme sacrée (La)  
   * Girls About Town  
   * Girls (Les)  
   * Grumpy  
   * Hantise  
   * Haute société  
   * Her Cardboard Lover  
+  * Héritage  
   * Il était une fois  
   * Indiscrétions  
   * Invités de huit heures (Les)  
@@ -248,7 +250,7 @@
   * Voleur de Bagdad (Le)  
   * West Side Story
 
-## Marcello Mastroianni (24)
+## Marcello Mastroianni (25)
 
   * 8½  
   * Allonsanfàn  
@@ -273,6 +275,7 @@
   * Terrasse (La)  
   * Todo modo  
   * Une journée particulière  
+  * Vertiges  
   * Yeux noirs (Les)
 
 ## Michael Powell (47)
@@ -342,11 +345,12 @@
   * Un chat, un chat  
   * Véritée zébrée (La)
 
-## Séances spéciales (8)
+## Séances spéciales (9)
 
   * Family portraits  
   * Galets d'Étretat (Les)  
   * Godzilla  
+  * Godzilla contre Mecanik Monster  
   * Godzilla : Final wars  
   * Monstres des planètes secrètes = La Planète des monstres (Les)  
   * Sisters  

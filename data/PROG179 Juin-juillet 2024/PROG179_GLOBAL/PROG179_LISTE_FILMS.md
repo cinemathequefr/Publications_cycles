@@ -75,6 +75,15 @@
   * Titanic  
   * True Lies
 
+## Kenji Misumi (6)
+
+  * Brassard noir dans la neige  
+  * Combinards des pompes funèbres (Les)  
+  * Courtisane et l'Assassin (La)  
+  * Famille matrilinéaire (La)  
+  * Hanzo the Razor: Sword of Justice  
+  * Temple du démon (Le)
+
 ## La Shaw Brothers et le kung-fu (25)
 
   * 36e Chambre de Shaolin (La)  

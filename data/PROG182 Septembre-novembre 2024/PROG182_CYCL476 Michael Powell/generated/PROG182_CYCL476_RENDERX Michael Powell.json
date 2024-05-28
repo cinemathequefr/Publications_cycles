@@ -234,7 +234,7 @@
           "seances": [
             {
               "idSeance": 132582,
-              "dateHeure": "2024-10-26T17:45:00",
+              "dateHeure": "2024-10-26T18:15:00",
               "idSalle": "HL"
             }
           ]
@@ -266,6 +266,11 @@
             {
               "idSeance": 132581,
               "dateHeure": "2024-10-26T14:30:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 133959,
+              "dateHeure": "2024-10-31T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -835,7 +840,7 @@
           "seances": [
             {
               "idSeance": 132583,
-              "dateHeure": "2024-10-26T20:30:00",
+              "dateHeure": "2024-10-26T21:00:00",
               "idSalle": "HL"
             }
           ]
@@ -1108,8 +1113,8 @@
           ],
           "seances": [
             {
-              "idSeance": 132687,
-              "dateHeure": "2024-10-31T19:30:00",
+              "idSeance": 133941,
+              "dateHeure": "2024-11-13T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -1139,7 +1144,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31067,
+          "content": [
+            {
+              "idConf": 31067,
+              "titre": "Film + dialogue avec Natacha Thiéry",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133863,
+              "dateHeure": "2024-10-26T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Film + dialogue avec Natacha Thiéry",
+        "dateHeure": "2024-10-26T16:30:00"
+      }
+    ]
+  }
 }
