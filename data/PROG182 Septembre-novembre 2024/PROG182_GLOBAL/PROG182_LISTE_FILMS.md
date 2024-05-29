@@ -62,9 +62,9 @@
   * Cinq pièces faciles  
   * Facteur sonne toujours deux fois (Le)  
   * Head  
-  * House on Turk Street = No Good Deed (The)  
   * King of Marvin Gardens (The)  
   * Man Trouble  
+  * Sans motif apparent  
   * Stay Hungry  
   * Veuve noire (La)
 
@@ -99,8 +99,8 @@
 ## Claude Lelouch (26)
 
   * Aventure, c'est l'aventure (L')  
-  * Bon et les méchants (Le)  
-  * Bonne année (La)  
+  * Bon et les Méchants (Le)  
+  * Bonne Année (La)  
   * C'était un rendez-vous  
   * D'un film à l'autre  
   * Edith et Marcel  
@@ -120,12 +120,12 @@
   * Un homme et une femme  
   * Un homme qui me plaît  
   * Un + une  
-  * Uns et les autres (Les)  
+  * Uns et les Autres (Les)  
   * Vie, l'amour, la mort (La)  
   * Vivre pour vivre  
   * Voyou (Le)
 
-## Darejan Omirbaev (7)
+## Darejan Omirbaev (8)
 
   * Chouga  
   * Étudiant (L')  
@@ -133,7 +133,8 @@
   * Kardiogramma  
   * Poet  
   * Route (La)  
-  * Tueur à gages
+  * Tueur à gages  
+  * undefined
 
 ## Fenêtre sur les collections (8)
 
@@ -209,7 +210,7 @@
   * Brisseau, 251 rue Marcadet  
   * De ma fenêtre  
   * Dernier des fous (Le)  
-  * Dernière séance  
+  * Dernière Séance  
   * Dimanche ou les fantômes  
   * Jean-François Stévenin : Simples Messieurs  
   * Patricia Mazuy : avant Saturne  
@@ -250,7 +251,7 @@
   * Ma vie de courgette  
   * Monde de Nemo (Le)  
   * Ponyo sur la falaise  
-  * Roi et l'oiseau (Le)  
+  * Roi et l'Oiseau (Le)  
   * Sherlock Jr.  
   * Voleur de Bagdad (Le)  
   * West Side Story
@@ -332,6 +333,27 @@
   * Volunteer (The)  
   * Voyeur (Le)  
   * Wild Heart (The)
+
+## Pietro Germi (18)
+
+  * Alfredo Alfredo  
+  * Au nom de la loi  
+  * Beaucoup trop pour un seul homme  
+  * Castagne sono buone (Le)  
+  * Ces messieurs dames  
+  * Chemin de l'espérance (Le)  
+  * Disque rouge (Le)  
+  * Divorce à l'italienne  
+  * Gelosia  
+  * Homme de paille (L')  
+  * Jeunesse perdue  
+  * Mademoiselle la présidente  
+  * Meurtre à l'italienne  
+  * Séduite et abandonnée  
+  * Serafino ou l'amour aux champs  
+  * Tanière des brigands (La)  
+  * Témoin (Le)  
+  * Traqué dans la ville
 
 ## Sophie Fillières (14)
 

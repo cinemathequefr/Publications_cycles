@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-10-09T20:00:00",
-    "2024-10-14T21:00:00"
+    "2024-10-14T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,62 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 154896,
+          "content": [
+            {
+              "idFilm": 154896,
+              "ordre": 2,
+              "duree": 30,
+              "version": "VOSTF",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    null,
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133999,
+              "dateHeure": "2024-10-13T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154897,
+          "content": [
+            {
+              "idFilm": 154897,
+              "ordre": 1,
+              "duree": 28,
+              "version": "",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    null,
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133999,
+              "dateHeure": "2024-10-13T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 106346,
           "content": [
@@ -151,7 +207,7 @@
           "seances": [
             {
               "idSeance": 132242,
-              "dateHeure": "2024-10-14T21:00:00",
+              "dateHeure": "2024-10-14T20:30:00",
               "idSalle": "GF"
             }
           ]
