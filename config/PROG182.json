@@ -27,7 +27,15 @@
       "idCycleProg": 143,
       "titreCycle": "Fenêtre sur les collections",
       "isReg": true,
-      "sousCycles": []
+      "sousCycles": [
+        { "titre": "Martine Lancelot", "cats": [3410], "tri": 4 },
+        {
+          "titre": "Centenaire de la disparition de Louis Delluc",
+          "cats": [3411],
+          "tri": 4
+        },
+        { "titre": "L'abominable hommage", "cats": [3415], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": 391,
@@ -62,16 +70,6 @@
           "tri": 2
         },
         { "titre": "Rencontres et conférences", "cats": [3406], "tri": 4 }
-      ]
-    },
-    {
-      "idCycleProg": 624,
-      "titreCycle": "David Cronenberg",
-      "sousCycles": [
-        { "titre": "Les films", "cats": [2673], "tri": 1 },
-        { "titre": "Films pour la télévision", "cats": [2685], "tri": 2 },
-        { "titre": "Courts métrages", "cats": [2684], "tri": 2 },
-        { "titre": "Rencontres et conférences", "cats": [2690], "tri": 4 }
       ]
     },
     {
@@ -122,14 +120,6 @@
       ]
     },
     {
-      "idCycleProg": 790,
-      "titreCycle": "Jim Jarmusch",
-      "sousCycles": [
-        { "titre": "Les films", "cats": [3378], "tri": 1 },
-        { "titre": "Rencontres et conférences", "cats": [3391], "tri": 4 }
-      ]
-    },
-    {
       "idCycleProg": 791,
       "titreCycle": "Zucker, Abrahams et Zucker",
       "sousCycles": [{ "titre": "Les films", "cats": [3379], "tri": 1 }]
@@ -173,6 +163,24 @@
       "idCycleProg": 800,
       "titreCycle": "Anatole France / Micheline Presle",
       "sousCycles": [{ "titre": "Les films", "cats": [3404], "tri": 4 }]
+    },
+    {
+      "idCycleProg": 801,
+      "titreCycle": "Roger Corman",
+      "sousCycles": [{ "titre": "Les films", "cats": [3412], "tri": 1 }]
+    },
+    {
+      "idCycleProg": 802,
+      "titreCycle": "Bob Rafelson",
+      "sousCycles": [{ "titre": "Les films", "cats": [3413], "tri": 1 }]
+    },
+    {
+      "idCycleProg": 803,
+      "titreCycle": "Pietro Germi",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3414], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [3416], "tri": 4 }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Abel Gance (37)
+## Abel Gance (36)
 
   * 14 juillet 1953  
   * A l'ombre des grands chênes (Abel Gance)  
@@ -26,7 +26,6 @@
   * Louise  
   * Lucrèce Borgia  
   * Magirama (J'accuse)  
-  * Marie Tudor  
   * Mater Dolorosa  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
@@ -56,6 +55,19 @@
   * Un flic sur le toit  
   * Victoria
 
+## Bob Rafelson (10)
+
+  * Aux sources du Nil  
+  * Blood and Wine  
+  * Cinq pièces faciles  
+  * Facteur sonne toujours deux fois (Le)  
+  * Head  
+  * House on Turk Street = No Good Deed (The)  
+  * King of Marvin Gardens (The)  
+  * Man Trouble  
+  * Stay Hungry  
+  * Veuve noire (La)
+
 ## Casses, hold-ups et braquages en 25 indispensables (25)
 
   * Cercle rouge (Le)  
@@ -81,7 +93,7 @@
   * Thomas Crown  
   * Topkapi  
   * Trois milliards d'un coup  
-  * Ultime razzia (L')  
+  * Ultime Razzia (L')  
   * Un après-midi de chien
 
 ## Claude Lelouch (26)
@@ -122,6 +134,17 @@
   * Poet  
   * Route (La)  
   * Tueur à gages
+
+## Fenêtre sur les collections (8)
+
+  * Autrement, la Molussie  
+  * Chemin d'Ernoa (Le)  
+  * Conductos (Los)  
+  * Fête espagnole (La)  
+  * Inondation (L')  
+  * News from Chantal Akerman  
+  * Portrait de Chantal Akerman  
+  * S'il vous plaît, la mer ?
 
 ## George Cukor (46)
 
@@ -180,23 +203,6 @@
   * Avatar : La Voie de l'eau  
   * Terminator  
   * True Lies
-
-## Jim Jarmusch (14)
-
-  * Broken Flowers  
-  * Coffee and Cigarettes  
-  * Dead Don't Die (The)  
-  * Dead Man  
-  * Down by Law  
-  * Ghost Dog : La Voie du samouraï  
-  * Gimme Danger  
-  * Limits of Control (The)  
-  * Mystery Train  
-  * Night on Earth  
-  * Only Lovers Left Alive  
-  * Paterson  
-  * Permanent Vacation  
-  * Stranger Than Paradise
 
 ## Laurent Achard (13)
 
@@ -332,7 +338,7 @@
   * Aïe  
   * Antoine et Sidonie  
   * Arrête ou je continue  
-  * Belle et la belle (La)  
+  * Belle et la Belle (La)  
   * Des filles et des chiens  
   * Fille du directeur et la correspondante anglaise (La)  
   * Gentille  
