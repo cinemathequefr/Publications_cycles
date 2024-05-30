@@ -335,6 +335,14 @@
   * Voyeur (Le)  
   * Wild Heart (The)
 
+## Parlons cinéma... avec Nine Antico (5)
+
+  * Bonnes femmes (Les)  
+  * Carrière de Suzanne (La)  
+  * Fièvre du samedi soir (La)  
+  * Marin masqué (Le)  
+  * Working Girls
+
 ## Pietro Germi (18)
 
   * Alfredo Alfredo  
@@ -355,6 +363,21 @@
   * Tanière des brigands (La)  
   * Témoin (Le)  
   * Traqué dans la ville
+
+## Roger Corman (12)
+
+  * Bertha Boxcar  
+  * Bloody Mama  
+  * Cinq femmes à abattre  
+  * Cock Fighter  
+  * Death Race 2000  
+  * Frankenstein Unbound  
+  * Horrible Cas du docteur X (L')  
+  * Intruder (The)  
+  * It Conquered the World  
+  * Masque de la Mort Rouge (Le)  
+  * Petite boutique des horreurs (La)  
+  * Trip (The)
 
 ## Sophie Fillières (14)
 
