@@ -15,7 +15,7 @@
   * Château de nuages  
   * Cyrano et d'Artagnan  
   * Dame aux camélias (La)  
-  * Dixième symphonie (La)  
+  * Dixième Symphonie (La)  
   * Droit à la vie (Le)  
   * Fête foraine  
   * Fin du monde (La)  

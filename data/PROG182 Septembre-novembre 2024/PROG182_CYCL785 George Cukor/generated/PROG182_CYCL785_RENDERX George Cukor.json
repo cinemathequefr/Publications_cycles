@@ -65,9 +65,9 @@
           ],
           "seances": [
             {
-              "idSeance": 133761,
-              "dateHeure": "2024-08-31T15:00:00",
-              "idSalle": "GF"
+              "idSeance": 134050,
+              "dateHeure": "2024-09-01T19:45:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -340,7 +340,7 @@
           "seances": [
             {
               "idSeance": 131095,
-              "dateHeure": "2024-08-31T20:30:00",
+              "dateHeure": "2024-08-31T20:45:00",
               "idSalle": "HL"
             },
             {
@@ -376,8 +376,8 @@
           ],
           "seances": [
             {
-              "idSeance": 133951,
-              "dateHeure": "2024-09-28T14:15:00",
+              "idSeance": 134054,
+              "dateHeure": "2024-08-31T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -760,35 +760,51 @@
           ]
         },
         {
-          "idFilm": 31415,
-          "content": [
+          "groupe": [
             {
               "idFilm": 31415,
-              "ordre": 1,
-              "titre": "Liaisons coupables",
-              "art": "Les",
-              "titreVo": "Chapman Report",
-              "artVo": "The",
-              "realisateurs": "George Cukor",
-              "pays": "États-Unis",
-              "annee": 1961,
-              "duree": 123,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Les Liaisons coupables_ d'Irving Wallace.",
-              "generique": [
-                "Shelley Winters",
-                "Jane Fonda",
-                "Claire Bloom"
-              ],
-              "miniTexte": "Quatre femmes, quatre façons de vivre une sexualité névrosée, libre, ou entravée. Ou comment Cukor, filmant ses magnifiques actrices, compose avec délicatesse le portrait en mosaïque de la vie sexuelle – et de la psyché – de l'Américaine moyenne, dans les années 60."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 31415,
+                  "ordre": 1,
+                  "titre": "Liaisons coupables",
+                  "art": "Les",
+                  "titreVo": "Chapman Report",
+                  "artVo": "The",
+                  "realisateurs": "George Cukor",
+                  "pays": "États-Unis",
+                  "annee": 1961,
+                  "duree": 123,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Les Liaisons coupables_ d'Irving Wallace.",
+                  "generique": [
+                    "Shelley Winters",
+                    "Jane Fonda",
+                    "Claire Bloom"
+                  ],
+                  "miniTexte": "Quatre femmes, quatre façons de vivre une sexualité névrosée, libre, ou entravée. Ou comment Cukor, filmant ses magnifiques actrices, compose avec délicatesse le portrait en mosaïque de la vie sexuelle – et de la psyché – de l'Américaine moyenne, dans les années 60."
+                }
+              ]
+            },
             {
-              "idSeance": 133950,
-              "dateHeure": "2024-09-22T14:30:00",
-              "idSalle": "GF"
+              "idEvenement": 30965,
+              "content": [
+                {
+                  "idConf": 30965,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133950,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-09-22T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -823,33 +839,49 @@
           ]
         },
         {
-          "idFilm": 31387,
-          "content": [
+          "groupe": [
             {
               "idFilm": 31387,
-              "ordre": 1,
-              "titre": "Madame porte la culotte",
-              "titreVo": "Adam's rib",
-              "realisateurs": "George Cukor",
-              "pays": "États-Unis",
-              "annee": 1949,
-              "duree": 101,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Spencer Tracy",
-                "Katharine Hepburn",
-                "Judy Holliday"
-              ],
-              "isFocus": true,
-              "miniTexte": "Une mise en scène au cordeau, brillantissime. Un interrogatoire en forme de plan-séquence, mémorable. Judy Hollyday en épouse bafouée, dont la tentative de meurtre sur son mari adultère se solde par un procès. Et, surtout, la complicité éclatante entre Tracy et Hepburn, entre le magistrat et l'avocate progressiste, à la verve assassine. Dans un savant jeu de miroirs, le prétoire se fait caisse de résonance : unis à la ville (belle mise en abyme du couple légendaire de Hollywood), les deux époux s'affrontent sur l'épineux sujet de l'égalité des sexes, sur le partage des rôles. Metteur en scène féministe par excellence, Cukor pose la possibilité d'une confusion des genres. C'est acide, tranchant, jouissif, et c'est peut-être là le meilleur film du trio impérial."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 31387,
+                  "ordre": 1,
+                  "titre": "Madame porte la culotte",
+                  "titreVo": "Adam's rib",
+                  "realisateurs": "George Cukor",
+                  "pays": "États-Unis",
+                  "annee": 1949,
+                  "duree": 101,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Spencer Tracy",
+                    "Katharine Hepburn",
+                    "Judy Holliday"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Une mise en scène au cordeau, brillantissime. Un interrogatoire en forme de plan-séquence, mémorable. Judy Hollyday en épouse bafouée, dont la tentative de meurtre sur son mari adultère se solde par un procès. Et, surtout, la complicité éclatante entre Tracy et Hepburn, entre le magistrat et l'avocate progressiste, à la verve assassine. Dans un savant jeu de miroirs, le prétoire se fait caisse de résonance : unis à la ville (belle mise en abyme du couple légendaire de Hollywood), les deux époux s'affrontent sur l'épineux sujet de l'égalité des sexes, sur le partage des rôles. Metteur en scène féministe par excellence, Cukor pose la possibilité d'une confusion des genres. C'est acide, tranchant, jouissif, et c'est peut-être là le meilleur film du trio impérial."
+                }
+              ]
+            },
             {
-              "idSeance": 131112,
-              "dateHeure": "2024-09-01T19:45:00",
-              "idSalle": "HL"
+              "idEvenement": 30966,
+              "content": [
+                {
+                  "idConf": 30966,
+                  "ordre": 2,
+                  "titre": "Dialogue avec [intervenant ?]",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 134048,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-09-14T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -971,8 +1003,8 @@
           ],
           "seances": [
             {
-              "idSeance": 133693,
-              "dateHeure": "2024-09-14T15:00:00",
+              "idSeance": 134053,
+              "dateHeure": "2024-09-28T14:30:00",
               "idSalle": "GF"
             }
           ]
@@ -1035,7 +1067,7 @@
           "seances": [
             {
               "idSeance": 131470,
-              "dateHeure": "2024-09-14T17:15:00",
+              "dateHeure": "2024-09-14T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -1160,7 +1192,7 @@
           "seances": [
             {
               "idSeance": 131471,
-              "dateHeure": "2024-09-14T19:45:00",
+              "dateHeure": "2024-09-14T21:00:00",
               "idSalle": "GF"
             }
           ]
@@ -1420,31 +1452,47 @@
           ]
         },
         {
-          "idFilm": 31528,
-          "content": [
+          "groupe": [
             {
               "idFilm": 31528,
-              "ordre": 1,
-              "titre": "What Price Hollywood?",
-              "realisateurs": "George Cukor",
-              "pays": "États-Unis",
-              "annee": 1932,
-              "duree": 88,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Constance Bennett",
-                "Lowell Sherman",
-                "Neil Hamilton"
-              ],
-              "miniTexte": "Une serveuse opportuniste se rêve en star de cinéma, et parvient à ses fins grâce à un réalisateur à succès en bout de course. Cukor tend un miroir embué d'amertume à Hollywood et à son microcosme cruel. Une incursion sans concession dans les coulisses de l'usine à rêves, et, deux décennies en avance, la matrice d'_Une étoile est née_."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 31528,
+                  "ordre": 1,
+                  "titre": "What Price Hollywood?",
+                  "realisateurs": "George Cukor",
+                  "pays": "États-Unis",
+                  "annee": 1932,
+                  "duree": 88,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Constance Bennett",
+                    "Lowell Sherman",
+                    "Neil Hamilton"
+                  ],
+                  "miniTexte": "Une serveuse opportuniste se rêve en star de cinéma, et parvient à ses fins grâce à un réalisateur à succès en bout de course. Cukor tend un miroir embué d'amertume à Hollywood et à son microcosme cruel. Une incursion sans concession dans les coulisses de l'usine à rêves, et, deux décennies en avance, la matrice d'_Une étoile est née_."
+                }
+              ]
+            },
             {
-              "idSeance": 133760,
-              "dateHeure": "2024-09-07T14:30:00",
-              "idSalle": "GF"
+              "idEvenement": 30964,
+              "content": [
+                {
+                  "idConf": 30964,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Alexandre Piletitch",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133760,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-09-07T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -1479,57 +1527,24 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30964,
-          "content": [
-            {
-              "idConf": 30964,
-              "titre": "Dialogue avec Alexandre Piletitch",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133782,
-              "dateHeure": "2024-09-07T16:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idConf": 30965,
-          "content": [
-            {
-              "idConf": 30965,
-              "titre": "Dialogue avec Murielle Joudet",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133960,
-              "dateHeure": "2024-09-22T17:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogues": [
       {
+        "titreFilms": "What Price Hollywood?",
         "mention": "avec Alexandre Piletitch",
-        "dateHeure": "2024-09-07T16:30:00"
+        "dateHeure": "2024-09-07T14:30:00"
       },
       {
+        "titreFilms": "Madame porte la culotte",
+        "mention": "avec [intervenant ?]",
+        "dateHeure": "2024-09-14T14:30:00"
+      },
+      {
+        "titreFilms": "Les Liaisons coupables",
         "mention": "avec Murielle Joudet",
-        "dateHeure": "2024-09-22T17:00:00"
+        "dateHeure": "2024-09-22T14:30:00"
       }
     ]
   }

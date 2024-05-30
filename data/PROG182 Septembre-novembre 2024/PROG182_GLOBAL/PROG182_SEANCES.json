@@ -266,8 +266,8 @@
     "hashEvenement": "f48679"
   },
   {
-    "idSeance": 133761,
-    "idEvenement": 30729,
+    "idSeance": 134054,
+    "idEvenement": 30710,
     "dateHeure": "2024-08-31T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -278,21 +278,22 @@
     ],
     "items": [
       {
-        "idFilm": 80559,
-        "titre": "Agence Cupidon",
+        "idFilm": 31451,
+        "titre": "Flamme sacrée",
+        "art": "La",
         "realisateurs": "George Cukor",
-        "annee": 1951,
-        "duree": 103,
+        "annee": 1942,
+        "duree": 100,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f80559"
+    "hashEvenement": "f31451"
   },
   {
     "idSeance": 133734,
     "idEvenement": 30672,
-    "dateHeure": "2024-08-31T17:45:00",
+    "dateHeure": "2024-08-31T17:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -337,9 +338,32 @@
     "hashEvenement": "f56960"
   },
   {
+    "idSeance": 133652,
+    "idEvenement": 30085,
+    "dateHeure": "2024-08-31T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48690,
+        "titre": "Tour de Nesle",
+        "art": "La",
+        "realisateurs": "Abel Gance",
+        "annee": 1955,
+        "duree": 120
+      }
+    ],
+    "hashEvenement": "f48690"
+  },
+  {
     "idSeance": 131095,
     "idEvenement": 30709,
-    "dateHeure": "2024-08-31T20:30:00",
+    "dateHeure": "2024-08-31T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -359,29 +383,6 @@
       }
     ],
     "hashEvenement": "f31479"
-  },
-  {
-    "idSeance": 133652,
-    "idEvenement": 30085,
-    "dateHeure": "2024-08-31T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Abel Gance",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 48690,
-        "titre": "Tour de Nesle",
-        "art": "La",
-        "realisateurs": "Abel Gance",
-        "annee": 1955,
-        "duree": 120
-      }
-    ],
-    "hashEvenement": "f48690"
   },
   {
     "idSeance": 131110,
@@ -478,8 +479,8 @@
     "hashEvenement": "f48682"
   },
   {
-    "idSeance": 131112,
-    "idEvenement": 30726,
+    "idSeance": 134050,
+    "idEvenement": 30729,
     "dateHeure": "2024-09-01T19:45:00",
     "salle": "HL",
     "cycle": [
@@ -490,16 +491,16 @@
     ],
     "items": [
       {
-        "idFilm": 31387,
-        "titre": "Madame porte la culotte",
+        "idFilm": 80559,
+        "titre": "Agence Cupidon",
         "realisateurs": "George Cukor",
-        "annee": 1949,
-        "duree": 101,
+        "annee": 1951,
+        "duree": 103,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f31387"
+    "hashEvenement": "f80559"
   },
   {
     "idSeance": 133858,
@@ -920,6 +921,10 @@
       [
         "George Cukor",
         "Les films"
+      ],
+      [
+        "George Cukor",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -931,9 +936,15 @@
         "duree": 88,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 30964,
+        "titre": "Dialogue avec Alexandre Piletitch",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f31528"
+    "hashEvenement": "f31528c30964"
   },
   {
     "idSeance": 133636,
@@ -958,27 +969,6 @@
       }
     ],
     "hashEvenement": "f48689"
-  },
-  {
-    "idSeance": 133782,
-    "idEvenement": 30964,
-    "dateHeure": "2024-09-07T16:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "George Cukor",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 30964,
-        "titre": "Dialogue avec Alexandre Piletitch",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c30964"
   },
   {
     "idSeance": 133868,
@@ -1458,7 +1448,7 @@
     "items": [
       {
         "idFilm": 48673,
-        "titre": "Dixième symphonie",
+        "titre": "Dixième Symphonie",
         "art": "La",
         "realisateurs": "Abel Gance",
         "annee": 1918,
@@ -1467,6 +1457,28 @@
       }
     ],
     "hashEvenement": "f48673"
+  },
+  {
+    "idSeance": 134051,
+    "idEvenement": 31027,
+    "dateHeure": "2024-09-13T15:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31027,
+        "titre": "[Titre ?]",
+        "sousTitre": "Conférence de Georges Mourier",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c31027"
   },
   {
     "idSeance": 133977,
@@ -1564,9 +1576,43 @@
     "hashEvenement": "f106408"
   },
   {
+    "idSeance": 134048,
+    "idEvenement": 30726,
+    "dateHeure": "2024-09-14T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "George Cukor",
+        "Les films"
+      ],
+      [
+        "George Cukor",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31387,
+        "titre": "Madame porte la culotte",
+        "realisateurs": "George Cukor",
+        "annee": 1949,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idConf": 30966,
+        "titre": "Dialogue avec [intervenant ?]",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f31387c30966"
+  },
+  {
     "idSeance": 133670,
     "idEvenement": 30935,
-    "dateHeure": "2024-09-14T14:30:00",
+    "dateHeure": "2024-09-14T15:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1595,60 +1641,6 @@
     "hashEvenement": "f154798f154797"
   },
   {
-    "idSeance": 133693,
-    "idEvenement": 30731,
-    "dateHeure": "2024-09-14T15:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "George Cukor",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 31397,
-        "titre": "Oiseau bleu",
-        "art": "L'",
-        "realisateurs": "George Cukor",
-        "annee": 1975,
-        "duree": 90,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f31397"
-  },
-  {
-    "idSeance": 131470,
-    "idEvenement": 30733,
-    "dateHeure": "2024-09-14T17:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "George Cukor",
-        "Les films"
-      ],
-      [
-        "Ma petite Cinémathèque",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 31471,
-        "titre": "Quatre filles du docteur March",
-        "art": "Les",
-        "realisateurs": "George Cukor",
-        "annee": 1933,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f31471"
-  },
-  {
     "idSeance": 131472,
     "idEvenement": 30067,
     "dateHeure": "2024-09-14T17:30:00",
@@ -1673,6 +1665,35 @@
       }
     ],
     "hashEvenement": "f48678"
+  },
+  {
+    "idSeance": 131470,
+    "idEvenement": 30733,
+    "dateHeure": "2024-09-14T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "George Cukor",
+        "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31471,
+        "titre": "Quatre filles du docteur March",
+        "art": "Les",
+        "realisateurs": "George Cukor",
+        "annee": 1933,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f31471"
   },
   {
     "idSeance": 133825,
@@ -1701,7 +1722,7 @@
   {
     "idSeance": 131471,
     "idEvenement": 30737,
-    "dateHeure": "2024-09-14T19:45:00",
+    "dateHeure": "2024-09-14T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2553,6 +2574,10 @@
       [
         "George Cukor",
         "Les films"
+      ],
+      [
+        "George Cukor",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2565,22 +2590,7 @@
         "duree": 123,
         "version": "VOSTF",
         "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f31415"
-  },
-  {
-    "idSeance": 133960,
-    "idEvenement": 30965,
-    "dateHeure": "2024-09-22T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "George Cukor",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 30965,
         "titre": "Dialogue avec Murielle Joudet",
@@ -2588,7 +2598,7 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c30965"
+    "hashEvenement": "f31415c30965"
   },
   {
     "idSeance": 133724,
@@ -3098,9 +3108,9 @@
     "hashEvenement": "f54034"
   },
   {
-    "idSeance": 133951,
-    "idEvenement": 30710,
-    "dateHeure": "2024-09-28T14:15:00",
+    "idSeance": 134053,
+    "idEvenement": 30731,
+    "dateHeure": "2024-09-28T14:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3110,17 +3120,17 @@
     ],
     "items": [
       {
-        "idFilm": 31451,
-        "titre": "Flamme sacrée",
-        "art": "La",
+        "idFilm": 31397,
+        "titre": "Oiseau bleu",
+        "art": "L'",
         "realisateurs": "George Cukor",
-        "annee": 1942,
-        "duree": 100,
+        "annee": 1975,
+        "duree": 90,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f31451"
+    "hashEvenement": "f31397"
   },
   {
     "idSeance": 133990,
@@ -4175,7 +4185,7 @@
     "hashEvenement": "f68645"
   },
   {
-    "idSeance": 134000,
+    "idSeance": 134037,
     "idEvenement": 31140,
     "dateHeure": "2024-10-11T18:00:00",
     "salle": "HL",
@@ -4198,32 +4208,9 @@
     "hashEvenement": "f54730"
   },
   {
-    "idSeance": 134001,
-    "idEvenement": 31141,
-    "dateHeure": "2024-10-11T20:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Pietro Germi",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 42121,
-        "titre": "Séduite et abandonnée",
-        "realisateurs": "Pietro Germi",
-        "annee": 1963,
-        "duree": 125,
-        "version": "VOSTF"
-      }
-    ],
-    "hashEvenement": "f42121"
-  },
-  {
     "idSeance": 132173,
     "idEvenement": 31028,
-    "dateHeure": "2024-10-11T20:45:00",
+    "dateHeure": "2024-10-11T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4246,6 +4233,29 @@
     "hashEvenement": "f65565"
   },
   {
+    "idSeance": 134001,
+    "idEvenement": 31141,
+    "dateHeure": "2024-10-11T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42121,
+        "titre": "Séduite et abandonnée",
+        "realisateurs": "Pietro Germi",
+        "annee": 1963,
+        "duree": 125,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42121"
+  },
+  {
     "idSeance": 133807,
     "idEvenement": 30784,
     "dateHeure": "2024-10-12T14:30:00",
@@ -4254,6 +4264,10 @@
       [
         "Darejan Omirbaev",
         "Les films"
+      ],
+      [
+        "Darejan Omirbaev",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -4266,9 +4280,15 @@
         "duree": 90,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 30969,
+        "titre": "Darejan Omirbaev par Darejan Omirbaev, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f116510"
+    "hashEvenement": "f116510c30969"
   },
   {
     "idSeance": 133802,
@@ -4318,27 +4338,6 @@
     "hashEvenement": "f64403"
   },
   {
-    "idSeance": 133974,
-    "idEvenement": 30969,
-    "dateHeure": "2024-10-12T16:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Darejan Omirbaev",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 30969,
-        "titre": "Darejan Omirbaev par Darejan Omirbaev, une leçon de cinéma",
-        "typeConference": "Leçon de cinéma",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c30969"
-  },
-  {
     "idSeance": 133803,
     "idEvenement": 31039,
     "dateHeure": "2024-10-12T16:30:00",
@@ -4370,7 +4369,7 @@
     "hashEvenement": "f67871f154879"
   },
   {
-    "idSeance": 134003,
+    "idSeance": 134038,
     "idEvenement": 31138,
     "dateHeure": "2024-10-12T17:15:00",
     "salle": "HL",
@@ -4484,7 +4483,7 @@
     "hashEvenement": "f45199"
   },
   {
-    "idSeance": 134005,
+    "idSeance": 134039,
     "idEvenement": 31133,
     "dateHeure": "2024-10-13T17:15:00",
     "salle": "HL",
@@ -4566,7 +4565,7 @@
     "hashEvenement": "f154897f154896"
   },
   {
-    "idSeance": 134006,
+    "idSeance": 134040,
     "idEvenement": 31145,
     "dateHeure": "2024-10-13T20:15:00",
     "salle": "HL",
@@ -4702,7 +4701,7 @@
     "hashEvenement": "c31127"
   },
   {
-    "idSeance": 134009,
+    "idSeance": 134041,
     "idEvenement": 31134,
     "dateHeure": "2024-10-18T21:15:00",
     "salle": "GF",
@@ -4764,9 +4763,9 @@
         "titre": "Divorce à l'italienne",
         "realisateurs": "Pietro Germi",
         "annee": 1961,
-        "duree": 105,
+        "duree": 104,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f41959"
@@ -4898,7 +4897,9 @@
         "titre": "Castagne sono buone",
         "art": "Le",
         "realisateurs": "Pietro Germi",
-        "annee": 1970
+        "annee": 1970,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f66677"
@@ -4928,6 +4929,27 @@
     "hashEvenement": "f32739"
   },
   {
+    "idSeance": 132467,
+    "idEvenement": 31132,
+    "dateHeure": "2024-10-23T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42038,
+        "titre": "Ces messieurs dames",
+        "realisateurs": "Pietro Germi",
+        "annee": 1965
+      }
+    ],
+    "hashEvenement": "f42038"
+  },
+  {
     "idSeance": 132463,
     "idEvenement": 21696,
     "dateHeure": "2024-10-23T20:00:00",
@@ -4952,6 +4974,29 @@
       }
     ],
     "hashEvenement": "f41789"
+  },
+  {
+    "idSeance": 134042,
+    "idEvenement": 31141,
+    "dateHeure": "2024-10-23T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42121,
+        "titre": "Séduite et abandonnée",
+        "realisateurs": "Pietro Germi",
+        "annee": 1963,
+        "duree": 125,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42121"
   },
   {
     "idSeance": 133830,
@@ -5103,6 +5148,30 @@
     "hashEvenement": "f40553"
   },
   {
+    "idSeance": 132545,
+    "idEvenement": 31134,
+    "dateHeure": "2024-10-25T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41966,
+        "titre": "Disque rouge",
+        "art": "Le",
+        "realisateurs": "Pietro Germi",
+        "annee": 1955,
+        "duree": 114,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41966"
+  },
+  {
     "idSeance": 132543,
     "idEvenement": 30867,
     "dateHeure": "2024-10-25T19:00:00",
@@ -5175,6 +5244,29 @@
     "hashEvenement": "f37170"
   },
   {
+    "idSeance": 134043,
+    "idEvenement": 31129,
+    "dateHeure": "2024-10-25T21:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41967,
+        "titre": "Au nom de la loi",
+        "realisateurs": "Pietro Germi",
+        "annee": 1949,
+        "duree": 101,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41967"
+  },
+  {
     "idSeance": 132581,
     "idEvenement": 21695,
     "dateHeure": "2024-10-26T14:30:00",
@@ -5242,6 +5334,29 @@
       }
     ],
     "hashEvenement": "c31067"
+  },
+  {
+    "idSeance": 134044,
+    "idEvenement": 31145,
+    "dateHeure": "2024-10-26T16:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41762,
+        "titre": "Traqué dans la ville",
+        "realisateurs": "Pietro Germi",
+        "annee": 1951,
+        "duree": 79,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41762"
   },
   {
     "idSeance": 132585,
@@ -5315,6 +5430,30 @@
       }
     ],
     "hashEvenement": "f57426"
+  },
+  {
+    "idSeance": 134045,
+    "idEvenement": 31133,
+    "dateHeure": "2024-10-26T20:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41957,
+        "titre": "Chemin de l'espérance",
+        "art": "Le",
+        "realisateurs": "Pietro Germi",
+        "annee": 1950,
+        "duree": 99,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41957"
   },
   {
     "idSeance": 132583,
@@ -5415,6 +5554,29 @@
     "hashEvenement": "f42009"
   },
   {
+    "idSeance": 134046,
+    "idEvenement": 31129,
+    "dateHeure": "2024-10-27T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41967,
+        "titre": "Au nom de la loi",
+        "realisateurs": "Pietro Germi",
+        "annee": 1949,
+        "duree": 101,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41967"
+  },
+  {
     "idSeance": 133901,
     "idEvenement": 21700,
     "dateHeure": "2024-10-27T20:00:00",
@@ -5437,6 +5599,28 @@
       }
     ],
     "hashEvenement": "f41083"
+  },
+  {
+    "idSeance": 134047,
+    "idEvenement": 31144,
+    "dateHeure": "2024-10-27T20:45:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 64403,
+        "titre": "Témoin",
+        "art": "Le",
+        "realisateurs": "Pietro Germi",
+        "annee": 1948
+      }
+    ],
+    "hashEvenement": "f64403"
   },
   {
     "idSeance": 132613,
@@ -7894,6 +8078,31 @@
     "hashEvenement": "f52585"
   },
   {
+    "idSeance": 133332,
+    "idEvenement": 21654,
+    "dateHeure": "2024-11-23T14:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42009,
+        "titre": "Espion noir",
+        "art": "L'",
+        "realisateurs": "Michael Powell",
+        "annee": 1939,
+        "duree": 82,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f42009"
+  },
+  {
     "idSeance": 133325,
     "idEvenement": 31017,
     "dateHeure": "2024-11-23T15:00:00",
@@ -7916,6 +8125,31 @@
       }
     ],
     "hashEvenement": "f30408"
+  },
+  {
+    "idSeance": 134032,
+    "idEvenement": 21694,
+    "dateHeure": "2024-11-23T16:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42029,
+        "titre": "Contes d'Hoffmann",
+        "art": "Les",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1950,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42029"
   },
   {
     "idSeance": 133326,
@@ -7962,6 +8196,31 @@
       }
     ],
     "hashEvenement": "f129283"
+  },
+  {
+    "idSeance": 134033,
+    "idEvenement": 21688,
+    "dateHeure": "2024-11-23T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41089,
+        "titre": "Renarde",
+        "art": "La",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1950,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f41089"
   },
   {
     "idSeance": 133327,
@@ -8060,6 +8319,55 @@
     "hashEvenement": "f37811"
   },
   {
+    "idSeance": 134034,
+    "idEvenement": 21700,
+    "dateHeure": "2024-11-24T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41083,
+        "titre": "Une question de vie ou de mort",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1946,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41083"
+  },
+  {
+    "idSeance": 134036,
+    "idEvenement": 21692,
+    "dateHeure": "2024-11-24T17:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42561,
+        "titre": "Chaussons rouges",
+        "art": "Les",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1947,
+        "duree": 133,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42561"
+  },
+  {
     "idSeance": 133625,
     "idEvenement": 30898,
     "dateHeure": "2024-11-24T17:30:00",
@@ -8104,6 +8412,31 @@
       }
     ],
     "hashEvenement": "f154672"
+  },
+  {
+    "idSeance": 133346,
+    "idEvenement": 21665,
+    "dateHeure": "2024-11-24T20:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Michael Powell",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35996,
+        "titre": "Voyeur",
+        "art": "Le",
+        "realisateurs": "Michael Powell",
+        "annee": 1959,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f35996"
   },
   {
     "idSeance": 133627,
