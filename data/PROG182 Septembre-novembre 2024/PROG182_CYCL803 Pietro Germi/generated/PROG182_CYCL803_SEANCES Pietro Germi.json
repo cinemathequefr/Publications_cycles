@@ -24,7 +24,7 @@
     "typeEvenement": 13,
     "idEvenement": 31140,
     "idSeance": 134000,
-    "dateHeure": "2024-10-11T17:15:00",
+    "dateHeure": "2024-10-11T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -33,7 +33,12 @@
     "items": [
       {
         "idFilm": 54730,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 134000,
+        "idCopie": 28295,
+        "duree": 115,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
@@ -42,7 +47,7 @@
     "typeEvenement": 13,
     "idEvenement": 31141,
     "idSeance": 134001,
-    "dateHeure": "2024-10-11T17:15:00",
+    "dateHeure": "2024-10-11T20:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -92,7 +97,12 @@
     "items": [
       {
         "idFilm": 41970,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 134003,
+        "idCopie": 28291,
+        "duree": 86,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -112,10 +122,10 @@
         "idFilm": 41967,
         "ordre": 1,
         "idSeance": 134004,
-        "idCopie": 24119,
+        "idCopie": 28296,
         "duree": 101,
-        "version": "VOSTA",
-        "format": "35 mm"
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
@@ -133,7 +143,12 @@
     "items": [
       {
         "idFilm": 41957,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 134005,
+        "idCopie": 28292,
+        "duree": 99,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
@@ -142,7 +157,7 @@
     "typeEvenement": 13,
     "idEvenement": 31145,
     "idSeance": 134006,
-    "dateHeure": "2024-10-13T17:15:00",
+    "dateHeure": "2024-10-13T20:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -151,7 +166,12 @@
     "items": [
       {
         "idFilm": 41762,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 134006,
+        "idCopie": 28293,
+        "duree": 79,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
@@ -220,7 +240,12 @@
     "items": [
       {
         "idFilm": 41966,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 134009,
+        "idCopie": 28294,
+        "duree": 114,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
@@ -229,7 +254,7 @@
     "typeEvenement": 13,
     "idEvenement": 31137,
     "idSeance": 134010,
-    "dateHeure": "2024-10-19T17:30:00",
+    "dateHeure": "2024-10-19T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -247,7 +272,7 @@
     "typeEvenement": 13,
     "idEvenement": 31135,
     "idSeance": 134011,
-    "dateHeure": "2024-10-19T17:30:00",
+    "dateHeure": "2024-10-19T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -270,7 +295,7 @@
     "typeEvenement": 13,
     "idEvenement": 31130,
     "idSeance": 134012,
-    "dateHeure": "2024-10-19T17:30:00",
+    "dateHeure": "2024-10-19T18:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -311,7 +336,7 @@
     "typeEvenement": 13,
     "idEvenement": 31142,
     "idSeance": 134016,
-    "dateHeure": "2024-10-20T17:30:00",
+    "dateHeure": "2024-10-20T19:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -320,24 +345,6 @@
     "items": [
       {
         "idFilm": 53446,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 3414,
-    "typeEvenement": 13,
-    "idEvenement": 31131,
-    "idSeance": 134017,
-    "dateHeure": "2024-10-21T17:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 66677,
         "ordre": 1
       }
     ]
@@ -356,6 +363,24 @@
     "items": [
       {
         "idFilm": 41936,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3414,
+    "typeEvenement": 13,
+    "idEvenement": 31131,
+    "idSeance": 134017,
+    "dateHeure": "2024-10-21T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 66677,
         "ordre": 1
       }
     ]

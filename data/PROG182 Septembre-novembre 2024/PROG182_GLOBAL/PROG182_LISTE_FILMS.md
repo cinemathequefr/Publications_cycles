@@ -125,16 +125,17 @@
   * Vivre pour vivre  
   * Voyou (Le)
 
-## Darejan Omirbaev (8)
+## Darejan Omirbaev (9)
 
   * Chouga  
+  * Dernière Séance (La)  
   * Étudiant (L')  
+  * Juillet  
   * Kaïrat  
   * Kardiogramma  
   * Poet  
   * Route (La)  
-  * Tueur à gages  
-  * undefined
+  * Tueur à gages
 
 ## Fenêtre sur les collections (8)
 

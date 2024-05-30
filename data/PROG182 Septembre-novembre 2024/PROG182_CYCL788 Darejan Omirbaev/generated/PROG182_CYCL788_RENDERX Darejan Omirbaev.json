@@ -10,62 +10,6 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 154896,
-          "content": [
-            {
-              "idFilm": 154896,
-              "ordre": 2,
-              "duree": 30,
-              "version": "VOSTF",
-              "format": "DCP",
-              "precedeSuivi": [
-                [
-                  [
-                    null,
-                    null
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133999,
-              "dateHeure": "2024-10-13T19:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 154897,
-          "content": [
-            {
-              "idFilm": 154897,
-              "ordre": 1,
-              "duree": 28,
-              "version": "",
-              "format": "35 mm",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    null,
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133999,
-              "dateHeure": "2024-10-13T19:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 106346,
           "content": [
             {
@@ -88,6 +32,41 @@
             {
               "idSeance": 133806,
               "dateHeure": "2024-10-12T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154896,
+          "content": [
+            {
+              "idFilm": 154896,
+              "ordre": 2,
+              "titre": "Dernière Séance",
+              "art": "La",
+              "titreVo": "Songy Seans",
+              "realisateurs": "Darejan Omirbaev",
+              "pays": "Kazakhstan-Kirghizistan",
+              "annee": 2022,
+              "duree": 30,
+              "version": "VOSTF",
+              "format": "DCP",
+              "miniTexte": "Dans une métropole animée, les passagers d'un bus restent rivés sur leurs smartphones. Interprétée par des artistes et des étudiants, une réflexion sur la solitude et le monde moderne hyperconnecté.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Juillet",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133999,
+              "dateHeure": "2024-10-13T19:45:00",
               "idSalle": "GF"
             }
           ]
@@ -120,6 +99,40 @@
             {
               "idSeance": 133807,
               "dateHeure": "2024-10-12T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154897,
+          "content": [
+            {
+              "idFilm": 154897,
+              "ordre": 1,
+              "titre": "Juillet",
+              "titreVo": "Shilde",
+              "realisateurs": "Darezhan Omirbaev",
+              "pays": "Kazakhstan",
+              "annee": 1988,
+              "duree": 28,
+              "version": "",
+              "format": "35 mm",
+              "miniTexte": "Par une chaude journée d'été, deux garçons tentent de gagner de l'argent pour aller au cinéma. Une magnifique évocation de l'enfance dans les paysages déserts du Kazakhstan.",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Dernière Séance",
+                    "La"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133999,
+              "dateHeure": "2024-10-13T19:45:00",
               "idSalle": "GF"
             }
           ]
@@ -238,7 +251,7 @@
           "seances": [
             {
               "idSeance": 133808,
-              "dateHeure": "2024-10-13T17:30:00",
+              "dateHeure": "2024-10-13T17:45:00",
               "idSalle": "GF"
             }
           ]
@@ -284,8 +297,8 @@
           "content": [
             {
               "idConf": 30968,
-              "titre": "Qui êtes-vous... Darejan Omirbaev ? par Eugénie Zvonkine",
-              "sousTitre": "Conférence ",
+              "titre": "Qui êtes-vous... Darejan Omirbaev ?",
+              "sousTitre": "Conférence d'Eugénie Zvonkine",
               "typeConference": "Conférence"
             }
           ],
@@ -326,8 +339,8 @@
     ],
     "Conférence": [
       {
-        "titre": "Qui êtes-vous... Darejan Omirbaev ? par Eugénie Zvonkine",
-        "mention": "Conférence ",
+        "titre": "Qui êtes-vous... Darejan Omirbaev ?",
+        "mention": "par Eugénie Zvonkine",
         "dateHeure": "2024-10-10T19:00:00"
       }
     ]
