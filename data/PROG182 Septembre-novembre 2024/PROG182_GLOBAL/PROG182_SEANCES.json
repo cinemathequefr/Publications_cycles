@@ -66,8 +66,8 @@
         "realisateurs": "George Cukor, Cyril Gardner",
         "annee": 1930,
         "duree": 74,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f80552"
@@ -138,8 +138,8 @@
         "realisateurs": "George Cukor",
         "annee": 1931,
         "duree": 80,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f80554"
@@ -543,7 +543,7 @@
         "realisateurs": "George Cukor",
         "annee": 1948,
         "duree": 110,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "16 mm"
       }
     ],
@@ -567,7 +567,9 @@
         "art": "Le",
         "realisateurs": "Abel Gance",
         "annee": 1942,
-        "duree": 107
+        "duree": 108,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f48587"
@@ -1010,7 +1012,10 @@
         "idFilm": 80555,
         "titre": "Haute société",
         "realisateurs": "George Cukor",
-        "annee": 1933
+        "annee": 1933,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f80555"
@@ -1460,28 +1465,6 @@
     "hashEvenement": "f48673"
   },
   {
-    "idSeance": 134051,
-    "idEvenement": 31027,
-    "dateHeure": "2024-09-13T15:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Abel Gance",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 31027,
-        "titre": "[Titre ?]",
-        "sousTitre": "Conférence de Georges Mourier",
-        "typeConference": "Conférence",
-        "duree": 90
-      }
-    ],
-    "hashEvenement": "c31027"
-  },
-  {
     "idSeance": 133977,
     "idEvenement": 30847,
     "dateHeure": "2024-09-13T18:00:00",
@@ -1504,6 +1487,28 @@
       }
     ],
     "hashEvenement": "f45957"
+  },
+  {
+    "idSeance": 134051,
+    "idEvenement": 31027,
+    "dateHeure": "2024-09-13T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31027,
+        "titre": "[Titre ?]",
+        "sousTitre": "Conférence de Georges Mourier",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c31027"
   },
   {
     "idSeance": 133978,
@@ -1987,7 +1992,7 @@
         "realisateurs": "George Cukor",
         "annee": 1947,
         "duree": 100,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -2076,6 +2081,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Judith Godrèche",
     "items": [
       {
         "idFilm": 52078,
@@ -5574,8 +5580,8 @@
     "hashEvenement": "f41967"
   },
   {
-    "idSeance": 132581,
-    "idEvenement": 21695,
+    "idSeance": 134071,
+    "idEvenement": 21697,
     "dateHeure": "2024-10-26T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -5586,16 +5592,16 @@
     ],
     "items": [
       {
-        "idFilm": 42024,
-        "titre": "Colonel Blimp",
+        "idFilm": 42007,
+        "titre": "Je sais où je vais",
         "realisateurs": "Michael Powell, Emeric Pressburger",
-        "annee": 1942,
-        "duree": 163,
+        "annee": 1945,
+        "duree": 92,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f42024"
+    "hashEvenement": "f42007"
   },
   {
     "idSeance": 134057,
@@ -5690,8 +5696,8 @@
     "hashEvenement": "f37185"
   },
   {
-    "idSeance": 132582,
-    "idEvenement": 21692,
+    "idSeance": 134072,
+    "idEvenement": 21688,
     "dateHeure": "2024-10-26T18:15:00",
     "salle": "HL",
     "cycle": [
@@ -5702,17 +5708,17 @@
     ],
     "items": [
       {
-        "idFilm": 42561,
-        "titre": "Chaussons rouges",
-        "art": "Les",
+        "idFilm": 41089,
+        "titre": "Renarde",
+        "art": "La",
         "realisateurs": "Michael Powell, Emeric Pressburger",
-        "annee": 1947,
-        "duree": 133,
+        "annee": 1950,
+        "duree": 110,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f42561"
+    "hashEvenement": "f41089"
   },
   {
     "idSeance": 134061,
@@ -5763,9 +5769,9 @@
     "hashEvenement": "f41957"
   },
   {
-    "idSeance": 132583,
-    "idEvenement": 21688,
-    "dateHeure": "2024-10-26T21:00:00",
+    "idSeance": 134073,
+    "idEvenement": 21692,
+    "dateHeure": "2024-10-26T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5775,17 +5781,17 @@
     ],
     "items": [
       {
-        "idFilm": 41089,
-        "titre": "Renarde",
-        "art": "La",
+        "idFilm": 42561,
+        "titre": "Chaussons rouges",
+        "art": "Les",
         "realisateurs": "Michael Powell, Emeric Pressburger",
-        "annee": 1950,
-        "duree": 110,
+        "annee": 1947,
+        "duree": 133,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f41089"
+    "hashEvenement": "f42561"
   },
   {
     "idSeance": 133966,
@@ -7428,6 +7434,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Daniel Vigne",
     "items": [
       {
         "idFilm": 49809,
@@ -8064,6 +8071,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Erik Berchot",
     "items": [
       {
         "idFilm": 49815,
@@ -8499,7 +8507,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Simon Lelouch",
+    "mention": "Séance présentée par Simon Lelouch et Michel Boujenah",
     "items": [
       {
         "idFilm": 52585,
@@ -8621,6 +8629,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Elsa Zylberstein",
     "items": [
       {
         "idFilm": 129283,
