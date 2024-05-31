@@ -42,18 +42,23 @@
   {
     "idCategorie": 3373,
     "typeEvenement": 13,
-    "idEvenement": 30781,
-    "idSeance": 132126,
+    "idEvenement": 30782,
+    "idSeance": 134068,
     "dateHeure": "2024-10-10T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 60519,
-        "ordre": 1
+        "idFilm": 76647,
+        "ordre": 1,
+        "idSeance": 134068,
+        "idCopie": 28138,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -102,8 +107,8 @@
   {
     "idCategorie": 3373,
     "typeEvenement": 13,
-    "idEvenement": 30779,
-    "idSeance": 133806,
+    "idEvenement": 30781,
+    "idSeance": 134069,
     "dateHeure": "2024-10-12T18:00:00",
     "idSalle": [
       "GF",
@@ -112,7 +117,7 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 106346,
+        "idFilm": 60519,
         "ordre": 1
       }
     ]
@@ -143,23 +148,18 @@
   {
     "idCategorie": 3373,
     "typeEvenement": 13,
-    "idEvenement": 30782,
-    "idSeance": 133808,
+    "idEvenement": 30779,
+    "idSeance": 134070,
     "dateHeure": "2024-10-13T17:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 76647,
-        "ordre": 1,
-        "idSeance": 133808,
-        "idCopie": 28138,
-        "duree": 85,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 106346,
+        "ordre": 1
       }
     ]
   },

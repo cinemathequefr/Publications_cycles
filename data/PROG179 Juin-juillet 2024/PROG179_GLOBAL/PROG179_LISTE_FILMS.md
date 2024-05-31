@@ -3,6 +3,7 @@
 ## 63e Semaine de la critique (24)
 
   * 1996 ou les malheurs de Solveig  
+  * Absent  
   * Alazar  
   * Animale  
   * Baby  
@@ -13,13 +14,12 @@
   * Fantômes (Les)  
   * Fiancées du Sud (Les)  
   * Filles du Nil (Les)  
-  * Julie zwijgt  
+  * Julie se tait  
   * Locust  
   * Menina e o pote (A)  
   * Mer au loin (La)  
   * Minhas sensações são tudo o que tenho para oferecer (As)  
   * Montsouris  
-  * Noksan  
   * Pampa (La)  
   * Radikals  
   * Reines du drame (Les)  
@@ -64,11 +64,10 @@
   * Trois cousins (Les)  
   * Zinet, Alger, le Bonheur
 
-## James Cameron (8)
+## James Cameron (7)
 
   * Abyss  
   * Aliens, le retour  
-  * Avatar  
   * Avatar : La Voie de l'eau  
   * Terminator  
   * Terminator 2 : Le Jugement dernier  
@@ -118,9 +117,10 @@
   * Era uma vez Brasília  
   * Mato seco em chamas
 
-## Ma petite Cinémathèque (6)
+## Ma petite Cinémathèque (7)
 
   * Alice au pays des merveilles  
+  * Avatar  
   * Drôle de frimousse  
   * Fantastic Mr. Fox  
   * Princes et Princesses  
