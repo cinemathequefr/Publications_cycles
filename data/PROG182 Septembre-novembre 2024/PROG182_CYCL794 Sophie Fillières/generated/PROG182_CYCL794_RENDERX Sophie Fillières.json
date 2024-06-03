@@ -33,7 +33,8 @@
             {
               "idSeance": 133712,
               "dateHeure": "2024-09-21T19:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Hélène Fillières et André Dussollier"
             }
           ]
         },
@@ -61,7 +62,8 @@
             {
               "idSeance": 133716,
               "dateHeure": "2024-09-23T18:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Emmanuelle Devos"
             }
           ]
         },
@@ -118,7 +120,8 @@
             {
               "idSeance": 133710,
               "dateHeure": "2024-09-21T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Emmanuelle Devos"
             }
           ]
         },
@@ -322,6 +325,30 @@
             {
               "idSeance": 133714,
               "dateHeure": "2024-09-22T18:30:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Justine Triet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31161,
+          "content": [
+            {
+              "idConf": 31161,
+              "titre": "Table ronde autour de Sophie Fillières",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134074,
+              "dateHeure": "2024-09-21T16:45:00",
               "idSalle": "GF"
             }
           ]
@@ -336,11 +363,37 @@
         "titreFilms": "Ma vie, ma gueule"
       }
     ],
-    "Séance présentée": [
+    "Dialogue": [
+      {
+        "mention": "Table ronde autour de Sophie Fillières",
+        "dateHeure": "2024-09-21T16:45:00"
+      }
+    ],
+    "Séances présentées": [
       {
         "titreFilms": "Grande petite",
         "mention": "par Judith Godrèche",
         "dateHeure": "2024-09-18T19:15:00"
+      },
+      {
+        "titreFilms": "Gentille",
+        "mention": "par Emmanuelle Devos",
+        "dateHeure": "2024-09-21T15:00:00"
+      },
+      {
+        "titreFilms": "Aïe",
+        "mention": "par Hélène Fillières et André Dussollier",
+        "dateHeure": "2024-09-21T19:30:00"
+      },
+      {
+        "titreFilms": "L'Insu / Rien / La Fille du directeur et la correspondante anglaise / Des filles et des chiens / Antoine et Sidonie / Nathalie Moretti ... / La Véritée zébrée",
+        "mention": "par Justine Triet",
+        "dateHeure": "2024-09-22T18:30:00"
+      },
+      {
+        "titreFilms": "Arrête ou je continue",
+        "mention": "par Emmanuelle Devos",
+        "dateHeure": "2024-09-23T18:30:00"
       }
     ]
   }
