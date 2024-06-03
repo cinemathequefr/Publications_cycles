@@ -86,7 +86,7 @@
   * Ocean's Eleven  
   * Opération San Gennaro  
   * Or se barre (L')  
-  * Point break – Extrême limite  
+  * Point Break – Extrême limite  
   * Quand la ville dort  
   * Reservoir Dogs  
   * Solitaire (Le)  
@@ -232,13 +232,13 @@
   * Coup pour coup  
   * Femme est l'avenir de l'homme (La)  
   * Mélo  
-  * No Man's Land  
   * Nuit de San Lorenzo (La)  
   * Nuit noire, Calcutta  
   * Sauve qui peut (la vie)  
   * Sept jours ailleurs  
   * Souviens-toi du futur  
   * Trois couleurs : Rouge  
+  * undefined  
   * Vent nous emportera (Le)  
   * Vie est un long fleuve tranquille (La)
 
@@ -247,9 +247,9 @@
   * Belle au bois dormant (La)  
   * Brendan et le secret de Kells  
   * Homme invisible (L')  
-  * Jeune et innocent  
+  * Jeune et Innocent  
   * Lumières de la ville (Les)  
-  * Ma vie de courgette  
+  * Ma vie de Courgette  
   * Monde de Nemo (Le)  
   * Ponyo sur la falaise  
   * Roi et l'Oiseau (Le)  

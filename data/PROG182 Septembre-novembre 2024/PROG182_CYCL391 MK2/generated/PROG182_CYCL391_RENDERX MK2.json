@@ -125,11 +125,18 @@
           ]
         },
         {
-          "idFilm": 49439,
+          "idEvenement": 31037,
           "content": [
             {
-              "idFilm": 49439,
+              "idFilm": 58927,
               "ordre": 1,
+              "duree": 20,
+              "version": "",
+              "format": ""
+            },
+            {
+              "idFilm": 49439,
+              "ordre": 2,
               "titre": "Camarades",
               "realisateurs": "Marin Karmitz",
               "pays": "France",
@@ -148,61 +155,58 @@
           ]
         },
         {
-          "idFilm": 45004,
+          "idFilm": 46607,
           "content": [
             {
-              "idFilm": 45004,
+              "idFilm": 46607,
               "ordre": 1,
-              "titre": "No Man's Land",
-              "realisateurs": "Alain Tanner",
-              "pays": "France-Suisse-Grande-Bretagne-Allemagne",
-              "annee": 1984,
-              "duree": 110,
+              "duree": 111,
               "version": "",
-              "format": "DCP",
-              "generique": [
-                "Hugues Quester",
-                "Myriam Mézières",
-                "Jean-Philippe Écoffey",
-                "Betty Berr"
-              ]
+              "format": "35 mm"
             }
           ],
           "seances": [
             {
-              "idSeance": 132041,
-              "dateHeure": "2024-10-06T17:30:00",
+              "idSeance": 134078,
+              "dateHeure": "2024-10-06T17:15:00",
               "idSalle": "GF"
             }
           ]
         },
         {
-          "idFilm": 43589,
+          "idEvenement": 31039,
           "content": [
             {
-              "idFilm": 43589,
+              "idFilm": 67871,
               "ordre": 1,
-              "titre": "Apiculteur",
-              "art": "L'",
-              "titreVo": "Melissokomos",
-              "artVo": "O",
-              "realisateurs": "Theo Angelopoulos",
-              "pays": "Grèce-France",
-              "annee": 1986,
-              "duree": 122,
-              "version": "VOSTF",
-              "format": "35 mm",
+              "titre": "Nuit noire, Calcutta",
+              "realisateurs": "Marin Karmitz",
+              "pays": "France",
+              "annee": 1964,
+              "duree": 24,
+              "version": "",
+              "format": "DCP",
               "generique": [
-                "Marcello Mastroianni",
-                "Nadia Mourouzi",
-                "Serge Reggiani"
+                "Maurice Garrel",
+                "Natasha Parry"
               ]
+            },
+            {
+              "idFilm": 154879,
+              "ordre": 2,
+              "titre": "Souviens-toi du futur",
+              "realisateurs": "Romain Goupil",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 74,
+              "version": "",
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 132042,
-              "dateHeure": "2024-10-06T19:45:00",
+              "idSeance": 134079,
+              "dateHeure": "2024-10-06T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -423,45 +427,69 @@
           ]
         },
         {
-          "idEvenement": 31039,
+          "idFilm": 43589,
           "content": [
             {
-              "idFilm": 67871,
+              "idFilm": 43589,
               "ordre": 1,
-              "titre": "Nuit noire, Calcutta",
-              "realisateurs": "Marin Karmitz",
-              "pays": "France",
-              "annee": 1964,
-              "duree": 24,
-              "version": "",
-              "format": "DCP",
+              "titre": "Apiculteur",
+              "art": "L'",
+              "titreVo": "Melissokomos",
+              "artVo": "O",
+              "realisateurs": "Theo Angelopoulos",
+              "pays": "Grèce-France",
+              "annee": 1986,
+              "duree": 122,
+              "version": "VOSTF",
+              "format": "35 mm",
               "generique": [
-                "Maurice Garrel",
-                "Natasha Parry"
+                "Marcello Mastroianni",
+                "Nadia Mourouzi",
+                "Serge Reggiani"
               ]
-            },
-            {
-              "idFilm": 154879,
-              "ordre": 2,
-              "titre": "Souviens-toi du futur",
-              "realisateurs": "Romain Goupil",
-              "pays": "France",
-              "annee": 2024,
-              "duree": 74,
-              "version": "",
-              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 133803,
+              "idSeance": 134080,
               "dateHeure": "2024-10-12T16:30:00",
               "idSalle": "JE"
             }
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31160,
+          "content": [
+            {
+              "idConf": 31160,
+              "titre": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Frédéric Bonnaud"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134052,
+              "dateHeure": "2024-10-05T16:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
+        "dateHeure": "2024-10-05T16:15:00"
+      }
+    ]
+  }
 }

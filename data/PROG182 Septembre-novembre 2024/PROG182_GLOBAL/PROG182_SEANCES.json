@@ -1681,10 +1681,6 @@
       [
         "George Cukor",
         "Les films"
-      ],
-      [
-        "Ma petite Cinémathèque",
-        "Les films"
       ]
     ],
     "items": [
@@ -2448,6 +2444,10 @@
       [
         "Sophie Fillières",
         "Les films"
+      ],
+      [
+        "Sophie Fillières",
+        "Rencontres et conférences"
       ]
     ],
     "mention": "Séance présentée par Emmanuelle Devos",
@@ -2459,9 +2459,15 @@
         "annee": 2004,
         "duree": 102,
         "format": "35 mm"
+      },
+      {
+        "idConf": 31161,
+        "titre": "Table ronde autour de Sophie Fillières",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f97823"
+    "hashEvenement": "f97823c31161"
   },
   {
     "idSeance": 133890,
@@ -2501,27 +2507,6 @@
       }
     ],
     "hashEvenement": "f73466f73467f154301"
-  },
-  {
-    "idSeance": 134074,
-    "idEvenement": 31161,
-    "dateHeure": "2024-09-21T16:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Sophie Fillières",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 31161,
-        "titre": "Table ronde autour de Sophie Fillières",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c31161"
   },
   {
     "idSeance": 133781,
@@ -3459,7 +3444,7 @@
     "items": [
       {
         "idFilm": 131745,
-        "titre": "Ma vie de courgette",
+        "titre": "Ma vie de Courgette",
         "realisateurs": "Claude Barras",
         "annee": 2015,
         "duree": 66,
@@ -3746,6 +3731,27 @@
     "hashEvenement": "f45492"
   },
   {
+    "idSeance": 134052,
+    "idEvenement": 31160,
+    "dateHeure": "2024-10-05T16:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "MK2",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31160,
+        "titre": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c31160"
+  },
+  {
     "idSeance": 133965,
     "idEvenement": 30744,
     "dateHeure": "2024-10-05T17:15:00",
@@ -3782,6 +3788,10 @@
     ],
     "items": [
       {
+        "idFilm": 58927,
+        "duree": 20
+      },
+      {
         "idFilm": 49439,
         "titre": "Camarades",
         "realisateurs": "Marin Karmitz",
@@ -3790,7 +3800,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f49439"
+    "hashEvenement": "f58927f49439"
   },
   {
     "idSeance": 133818,
@@ -3843,9 +3853,9 @@
     "hashEvenement": "f31258"
   },
   {
-    "idSeance": 132041,
-    "idEvenement": 31030,
-    "dateHeure": "2024-10-06T17:30:00",
+    "idSeance": 134078,
+    "idEvenement": 31163,
+    "dateHeure": "2024-10-06T17:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3855,15 +3865,12 @@
     ],
     "items": [
       {
-        "idFilm": 45004,
-        "titre": "No Man's Land",
-        "realisateurs": "Alain Tanner",
-        "annee": 1984,
-        "duree": 110,
-        "format": "DCP"
+        "idFilm": 46607,
+        "duree": 111,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f45004"
+    "hashEvenement": "f46607"
   },
   {
     "idSeance": 133962,
@@ -3890,9 +3897,9 @@
     "hashEvenement": "f31418"
   },
   {
-    "idSeance": 132042,
-    "idEvenement": 31042,
-    "dateHeure": "2024-10-06T19:45:00",
+    "idSeance": 134079,
+    "idEvenement": 31039,
+    "dateHeure": "2024-10-06T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3902,17 +3909,23 @@
     ],
     "items": [
       {
-        "idFilm": 43589,
-        "titre": "Apiculteur",
-        "art": "L'",
-        "realisateurs": "Theo Angelopoulos",
-        "annee": 1986,
-        "duree": 122,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 67871,
+        "titre": "Nuit noire, Calcutta",
+        "realisateurs": "Marin Karmitz",
+        "annee": 1964,
+        "duree": 24,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154879,
+        "titre": "Souviens-toi du futur",
+        "realisateurs": "Romain Goupil",
+        "annee": 2024,
+        "duree": 74,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f43589"
+    "hashEvenement": "f67871f154879"
   },
   {
     "idSeance": 133819,
@@ -4145,7 +4158,10 @@
         "idFilm": 42038,
         "titre": "Ces messieurs dames",
         "realisateurs": "Pietro Germi",
-        "annee": 1965
+        "annee": 1965,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f42038"
@@ -4375,8 +4391,8 @@
     "hashEvenement": "f64403"
   },
   {
-    "idSeance": 133803,
-    "idEvenement": 31039,
+    "idSeance": 134080,
+    "idEvenement": 31042,
     "dateHeure": "2024-10-12T16:30:00",
     "salle": "JE",
     "cycle": [
@@ -4387,23 +4403,17 @@
     ],
     "items": [
       {
-        "idFilm": 67871,
-        "titre": "Nuit noire, Calcutta",
-        "realisateurs": "Marin Karmitz",
-        "annee": 1964,
-        "duree": 24,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154879,
-        "titre": "Souviens-toi du futur",
-        "realisateurs": "Romain Goupil",
-        "annee": 2024,
-        "duree": 74,
-        "format": "DCP"
+        "idFilm": 43589,
+        "titre": "Apiculteur",
+        "art": "L'",
+        "realisateurs": "Theo Angelopoulos",
+        "annee": 1986,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f67871f154879"
+    "hashEvenement": "f43589"
   },
   {
     "idSeance": 134038,
@@ -4615,7 +4625,8 @@
         "realisateurs": "Pietro Germi",
         "annee": 1951,
         "duree": 79,
-        "format": "DCP"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41762"
@@ -4637,7 +4648,10 @@
         "titre": "Tanière des brigands",
         "art": "La",
         "realisateurs": "Pietro Germi",
-        "annee": 1952
+        "annee": 1952,
+        "duree": 93,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41953"
@@ -4731,7 +4745,9 @@
         "idFilm": 53225,
         "titre": "Mademoiselle la présidente",
         "realisateurs": "Pietro Germi",
-        "annee": 1954
+        "annee": 1954,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f53225"
@@ -4849,7 +4865,8 @@
         "realisateurs": "Pietro Germi",
         "annee": 1955,
         "duree": 114,
-        "format": "DCP"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41966"
@@ -4871,7 +4888,9 @@
         "titre": "Homme de paille",
         "art": "L'",
         "realisateurs": "Pietro Germi",
-        "annee": 1958
+        "annee": 1958,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f42128"
@@ -5011,7 +5030,7 @@
     "items": [
       {
         "idFilm": 41256,
-        "titre": "Jeune et innocent",
+        "titre": "Jeune et Innocent",
         "realisateurs": "Alfred Hitchcock",
         "annee": 1937,
         "duree": 80,
@@ -5037,7 +5056,9 @@
         "idFilm": 66675,
         "titre": "Gelosia",
         "realisateurs": "Pietro Germi",
-        "annee": 1953
+        "annee": 1953,
+        "duree": 86,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f66675"
@@ -5112,7 +5133,7 @@
   {
     "idSeance": 134018,
     "idEvenement": 31128,
-    "dateHeure": "2024-10-21T17:30:00",
+    "dateHeure": "2024-10-21T17:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5125,15 +5146,17 @@
         "idFilm": 41936,
         "titre": "Alfredo Alfredo",
         "realisateurs": "Pietro Germi",
-        "annee": 1972
+        "annee": 1972,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41936"
   },
   {
-    "idSeance": 134017,
+    "idSeance": 134083,
     "idEvenement": 31131,
-    "dateHeure": "2024-10-21T18:30:00",
+    "dateHeure": "2024-10-21T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5194,7 +5217,10 @@
         "idFilm": 42038,
         "titre": "Ces messieurs dames",
         "realisateurs": "Pietro Germi",
-        "annee": 1965
+        "annee": 1965,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f42038"
@@ -5462,30 +5488,6 @@
     "hashEvenement": "c31068"
   },
   {
-    "idSeance": 134055,
-    "idEvenement": 31158,
-    "dateHeure": "2024-10-25T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Roger Corman",
-        "Roger Corman producteur"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36045,
-        "titre": "Bertha Boxcar",
-        "realisateurs": "Martin Scorsese",
-        "annee": 1972,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f36045"
-  },
-  {
     "idSeance": 132541,
     "idEvenement": 21666,
     "dateHeure": "2024-10-25T18:00:00",
@@ -5528,7 +5530,8 @@
         "realisateurs": "Pietro Germi",
         "annee": 1955,
         "duree": 114,
-        "format": "DCP"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41966"
@@ -5536,7 +5539,7 @@
   {
     "idSeance": 134056,
     "idEvenement": 30867,
-    "dateHeure": "2024-10-25T20:00:00",
+    "dateHeure": "2024-10-25T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5605,6 +5608,30 @@
     "hashEvenement": "f41967"
   },
   {
+    "idSeance": 134084,
+    "idEvenement": 31158,
+    "dateHeure": "2024-10-25T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Roger Corman",
+        "Roger Corman producteur"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36045,
+        "titre": "Bertha Boxcar",
+        "realisateurs": "Martin Scorsese",
+        "annee": 1972,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f36045"
+  },
+  {
     "idSeance": 134071,
     "idEvenement": 21697,
     "dateHeure": "2024-10-26T14:30:00",
@@ -5613,6 +5640,10 @@
       [
         "Michael Powell",
         "Les films"
+      ],
+      [
+        "Michael Powell",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -5624,9 +5655,15 @@
         "duree": 92,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 31067,
+        "titre": "Dialogue avec Natacha Thiéry",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f42007"
+    "hashEvenement": "f42007c31067"
   },
   {
     "idSeance": 134057,
@@ -5670,31 +5707,11 @@
         "realisateurs": "Pietro Germi",
         "annee": 1951,
         "duree": 79,
-        "format": "DCP"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41762"
-  },
-  {
-    "idSeance": 133863,
-    "idEvenement": 31067,
-    "dateHeure": "2024-10-26T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Michael Powell",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 31067,
-        "titre": "Dialogue avec Natacha Thiéry",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c31067"
   },
   {
     "idSeance": 132585,
@@ -8584,7 +8601,7 @@
     "items": [
       {
         "idFilm": 30408,
-        "titre": "Point break – Extrême limite",
+        "titre": "Point Break – Extrême limite",
         "realisateurs": "Kathryn Bigelow",
         "annee": 1990,
         "duree": 122,

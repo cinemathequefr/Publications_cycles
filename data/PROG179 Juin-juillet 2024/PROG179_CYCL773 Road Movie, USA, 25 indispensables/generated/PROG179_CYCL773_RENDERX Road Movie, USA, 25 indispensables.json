@@ -492,50 +492,32 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 60213,
+          "content": [
             {
               "idFilm": 60213,
-              "content": [
-                {
-                  "idFilm": 60213,
-                  "ordre": 1,
-                  "titre": "Point limite zéro",
-                  "titreVo": "Vanishing Point",
-                  "realisateurs": "Richard C. Sarafian",
-                  "pays": "États-Unis",
-                  "annee": 1971,
-                  "duree": 98,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "generique": [
-                    "Barry Newman",
-                    "Cleavon Little",
-                    "Dean Jagger"
-                  ],
-                  "miniTexte": "Ex-flic, pilote et vétéran du Vietnam, Kowalski n'a plus rien à perdre et se lance dans un pari grisant : rallier San Francisco depuis Denver, en Dodge, en quinze heures. Course-poursuite avec la police, sable, asphalte, vitesse et adrénaline, Sarafian filme à vif cette fuite en avant réelle et métaphorique, sans espoir de retour. Une œuvre fulgurante, libre et unique."
-                }
-              ]
-            },
-            {
-              "idEvenement": 30572,
-              "content": [
-                {
-                  "idConf": 30572,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Robert M. Rubin",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Bernard Benoliel",
-                  "miniTexte": "_Point limite zéro_ est le film ultime de course-poursuite automobile, avec ce _je-ne-sais-quoi_ en plus. Écrit par le célèbre romancier cubain Guillermo Cabrera Infante sous le pseudonyme de Guillermo Cain, c'est la saga d'un vétéran du Vietnam accro à la vitesse, en fuite existentielle à bord d'une Dodge Challenger. C'est aussi un western moderne, une allégorie dystopique sur notre société de surveillance et une lettre d'amour aux moteurs surgonflés (_muscle cars_), le tout en un seul film. Pas étonnant qu'il soit devenu culte, adulé et cité comme référence par Quentin Tarantino, Steven Spielberg, Bruce Springsteen, Richard Prince, Guns'n'Roses, Primal Scream, Audioslave, et tant d'autres. — Robert M. Rubin"
-                }
+              "ordre": 1,
+              "titre": "Point limite zéro",
+              "titreVo": "Vanishing Point",
+              "realisateurs": "Richard C. Sarafian",
+              "pays": "États-Unis",
+              "annee": 1971,
+              "duree": 98,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Barry Newman",
+                "Cleavon Little",
+                "Dean Jagger"
               ],
-              "seances": [
-                {
-                  "idSeance": 130030,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-07-11T19:00:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "miniTexte": "Ex-flic, pilote et vétéran du Vietnam, Kowalski n'a plus rien à perdre et se lance dans un pari grisant : rallier San Francisco depuis Denver, en Dodge, en quinze heures. Course-poursuite avec la police, sable, asphalte, vitesse et adrénaline, Sarafian filme à vif cette fuite en avant réelle et métaphorique, sans espoir de retour. Une œuvre fulgurante, libre et unique."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130030,
+              "dateHeure": "2024-07-11T19:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -583,7 +565,7 @@
               "realisateurs": "Robert Kramer",
               "pays": "France-Grande-Bretagne",
               "annee": 1989,
-              "duree": 248,
+              "duree": 255,
               "version": "VOSTF",
               "format": "DCP",
               "generique": [
@@ -596,8 +578,7 @@
             {
               "idSeance": 130930,
               "dateHeure": "2024-07-08T18:00:00",
-              "idSalle": "GF",
-              "mention": "Ouverture de la rétrospective"
+              "idSalle": "GF"
             }
           ]
         },
@@ -815,6 +796,31 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30572,
+          "content": [
+            {
+              "idConf": 30572,
+              "titre": "Dialogue avec Robert M. Rubin",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Bernard Benoliel",
+              "miniTexte": "_Point limite zéro_ est le film ultime de course-poursuite automobile, avec ce _je-ne-sais-quoi_ en plus. Écrit par le célèbre romancier cubain Guillermo Cabrera Infante sous le pseudonyme de Guillermo Cain, c'est la saga d'un vétéran du Vietnam accro à la vitesse, en fuite existentielle à bord d'une Dodge Challenger. C'est aussi un western moderne, une allégorie dystopique sur notre société de surveillance et une lettre d'amour aux moteurs surgonflés (_muscle cars_), le tout en un seul film. Pas étonnant qu'il soit devenu culte, adulé et cité comme référence par Quentin Tarantino, Steven Spielberg, Bruce Springsteen, Richard Prince, Guns'n'Roses, Primal Scream, Audioslave, et tant d'autres. — Robert M. Rubin"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130688,
+              "dateHeure": "2024-07-11T20:45:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -825,9 +831,8 @@
         "dateHeure": "2024-06-30T14:30:00"
       },
       {
-        "titreFilms": "Point limite zéro",
         "mention": "avec Robert M. Rubin",
-        "dateHeure": "2024-07-11T19:00:00"
+        "dateHeure": "2024-07-11T20:45:00"
       }
     ],
     "Séances présentées": [

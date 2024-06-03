@@ -97,31 +97,47 @@
           ]
         },
         {
-          "idFilm": 97823,
-          "content": [
+          "groupe": [
             {
               "idFilm": 97823,
-              "ordre": 1,
-              "titre": "Gentille",
-              "realisateurs": "Sophie Fillières",
-              "pays": "France",
-              "annee": 2004,
-              "duree": 102,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Emmanuelle Devos",
-                "Lambert Wilson",
-                "Bruno Todeschini"
+              "content": [
+                {
+                  "idFilm": 97823,
+                  "ordre": 1,
+                  "titre": "Gentille",
+                  "realisateurs": "Sophie Fillières",
+                  "pays": "France",
+                  "annee": 2004,
+                  "duree": 102,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "Emmanuelle Devos",
+                    "Lambert Wilson",
+                    "Bruno Todeschini"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 133710,
-              "dateHeure": "2024-09-21T15:00:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par Emmanuelle Devos"
+              "idEvenement": 31161,
+              "content": [
+                {
+                  "idConf": 31161,
+                  "ordre": 2,
+                  "titre": "Table ronde autour de Sophie Fillières",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133710,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-09-21T15:00:00",
+                  "idSalle": "GF",
+                  "mention": "Séance présentée par Emmanuelle Devos"
+                }
+              ]
             }
           ]
         },
@@ -331,29 +347,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 31161,
-          "content": [
-            {
-              "idConf": 31161,
-              "titre": "Table ronde autour de Sophie Fillières",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134074,
-              "dateHeure": "2024-09-21T16:45:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -365,8 +358,9 @@
     ],
     "Dialogue": [
       {
+        "titreFilms": "Gentille",
         "mention": "Table ronde autour de Sophie Fillières",
-        "dateHeure": "2024-09-21T16:45:00"
+        "dateHeure": "2024-09-21T15:00:00"
       }
     ],
     "Séances présentées": [

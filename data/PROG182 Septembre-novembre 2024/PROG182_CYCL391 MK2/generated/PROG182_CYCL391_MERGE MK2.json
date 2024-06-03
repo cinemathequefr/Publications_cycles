@@ -5,12 +5,12 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 132042,
+          "idSeance": 134080,
           "ordre": 1,
-          "dateHeure": "2024-10-06T19:45:00",
+          "dateHeure": "2024-10-12T16:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "dureeSeance": 150,
           "idCategorie": 1759,
@@ -65,7 +65,7 @@
         },
         {
           "idSeance": 132025,
-          "ordre": 1,
+          "ordre": 2,
           "dateHeure": "2024-10-05T19:15:00",
           "idSalle": [
             "GF",
@@ -220,34 +220,6 @@
           "textes": []
         },
         {
-          "idSeance": 132041,
-          "ordre": 1,
-          "dateHeure": "2024-10-06T17:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 1759,
-          "idEvenement": 31030,
-          "typeEvenement": 13,
-          "idFilm": 45004,
-          "titre": "No Man's Land",
-          "realisateurs": "Alain Tanner",
-          "annee": 1984,
-          "pays": "France-Suisse-Grande-Bretagne-Allemagne",
-          "duree": 110,
-          "version": "",
-          "format": "DCP",
-          "generique": [
-            "Hugues Quester",
-            "Myriam Mézières",
-            "Jean-Philippe Écoffey",
-            "Betty Berr"
-          ],
-          "textes": []
-        },
-        {
           "idSeance": 133811,
           "ordre": 1,
           "dateHeure": "2024-10-05T14:30:00",
@@ -283,12 +255,12 @@
           ]
         },
         {
-          "idSeance": 133803,
+          "idSeance": 134079,
           "ordre": 1,
-          "dateHeure": "2024-10-12T16:30:00",
+          "dateHeure": "2024-10-06T20:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 135,
           "idCategorie": 1759,
@@ -359,12 +331,12 @@
           "textes": []
         },
         {
-          "idSeance": 133803,
+          "idSeance": 134079,
           "ordre": 2,
-          "dateHeure": "2024-10-12T16:30:00",
+          "dateHeure": "2024-10-06T20:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 135,
           "idCategorie": 1759,
@@ -462,6 +434,81 @@
           "version": "",
           "format": "DCP",
           "textes": []
+        },
+        {
+          "idSeance": 134078,
+          "ordre": 1,
+          "dateHeure": "2024-10-06T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 1759,
+          "idEvenement": 31163,
+          "typeEvenement": 13,
+          "idFilm": 46607,
+          "duree": 111,
+          "version": "",
+          "format": "35 mm",
+          "textes": []
+        },
+        {
+          "idSeance": 132025,
+          "ordre": 1,
+          "dateHeure": "2024-10-05T19:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 1759,
+          "idEvenement": 31037,
+          "typeEvenement": 13,
+          "idFilm": 58927,
+          "duree": 20,
+          "version": "",
+          "format": "",
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 134052,
+          "dateHeure": "2024-10-05T16:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "idCategorie": 3419,
+          "idEvenement": 31160,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Marin Karmitz",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Frédéric Bonnaud",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Frédéric Bonnaud"
         }
       ],
       "textes": []

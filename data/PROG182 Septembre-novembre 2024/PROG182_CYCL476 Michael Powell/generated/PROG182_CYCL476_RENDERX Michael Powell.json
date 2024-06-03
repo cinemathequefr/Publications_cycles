@@ -601,36 +601,55 @@
           ]
         },
         {
-          "idFilm": 42007,
-          "content": [
+          "groupe": [
             {
               "idFilm": 42007,
-              "ordre": 1,
-              "titre": "Je sais où je vais",
-              "titreVo": "I Know Where I'm Going",
-              "realisateurs": "Michael Powell, Emeric Pressburger",
-              "pays": "Grande-Bretagne",
-              "annee": 1945,
-              "duree": 92,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Wendy Hiller",
-                "Roger Livesey",
-                "Pamela Brown"
+              "content": [
+                {
+                  "idFilm": 42007,
+                  "ordre": 1,
+                  "titre": "Je sais où je vais",
+                  "titreVo": "I Know Where I'm Going",
+                  "realisateurs": "Michael Powell, Emeric Pressburger",
+                  "pays": "Grande-Bretagne",
+                  "annee": 1945,
+                  "duree": 92,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Wendy Hiller",
+                    "Roger Livesey",
+                    "Pamela Brown"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134071,
-              "dateHeure": "2024-10-26T14:30:00",
-              "idSalle": "HL"
             },
             {
-              "idSeance": 133842,
-              "dateHeure": "2024-11-17T15:30:00",
-              "idSalle": "JE"
+              "idEvenement": 31067,
+              "content": [
+                {
+                  "idConf": 31067,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Natacha Thiéry",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 134071,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-10-26T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 134071,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 133842,
+                  "dateHeure": "2024-11-17T15:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -1363,36 +1382,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 31067,
-          "content": [
-            {
-              "idConf": 31067,
-              "titre": "Dialogue avec Natacha Thiéry",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133863,
-              "dateHeure": "2024-10-26T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Je sais où je vais",
         "mention": "avec Natacha Thiéry",
-        "dateHeure": "2024-10-26T16:30:00"
+        "dateHeure": "2024-10-26T14:30:00"
       }
     ]
   }
