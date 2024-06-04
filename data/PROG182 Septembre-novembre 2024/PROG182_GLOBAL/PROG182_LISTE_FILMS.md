@@ -47,9 +47,9 @@
   * Chemin du serpent (Le)  
   * Elvira Madigan  
   * Hello, Roland !  
+  * Homme de Majorque (L')  
   * Joe Hill  
   * Liv till varje pris  
-  * Mannen fran Mallorca  
   * Péché suédois (Le)  
   * Quartier du corbeau (Le)  
   * Un flic sur le toit  
@@ -197,13 +197,15 @@
   * What Price Hollywood?  
   * Zaza
 
-## James Cameron (6)
+## James Cameron (8)
 
   * Abyss  
   * Aliens, le retour  
   * Avatar  
   * Avatar : La Voie de l'eau  
   * Terminator  
+  * Terminator 2 : Le Jugement dernier  
+  * Titanic  
   * True Lies
 
 ## Laurent Achard (13)
@@ -222,15 +224,17 @@
   * Un, parfois deux...  
   * Une odeur de géranium
 
-## MK2 (17)
+## MK2 (18)
 
   * Apiculteur (L')  
   * Au revoir les enfants  
   * Camarades  
   * Cérémonie (La)  
   * Code inconnu  
+  * Comédie  
   * Coup pour coup  
   * Femme est l'avenir de l'homme (La)  
+  * Mazeppa  
   * Mélo  
   * Nuit de San Lorenzo (La)  
   * Nuit noire, Calcutta  
@@ -238,7 +242,6 @@
   * Sept jours ailleurs  
   * Souviens-toi du futur  
   * Trois couleurs : Rouge  
-  * undefined  
   * Vent nous emportera (Le)  
   * Vie est un long fleuve tranquille (La)
 
