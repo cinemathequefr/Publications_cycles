@@ -300,10 +300,11 @@
   * Boy Who Turned Yellow (The)  
   * Château de Barbe-Bleue (Le)  
   * Chaussons rouges (Les)  
+  * Chevalier de Londres (Le)  
   * Colonel Blimp  
+  * Conquête du bout du monde (La)  
   * Contes d'Hoffmann (Les)  
   * Crown v. Stevens  
-  * Elusive Pimpernel (The)  
   * Espion noir (L')  
   * Espionne à bord  
   * Fire Raisers (The)  
@@ -330,7 +331,6 @@
   * Smith  
   * Something Always Happens  
   * Sorcerer's Apprentice (The)  
-  * They're a Weird Mob  
   * Un de nos avions n'est pas rentré  
   * Une question de vie ou de mort  
   * Voleur de Bagdad (Le)  
