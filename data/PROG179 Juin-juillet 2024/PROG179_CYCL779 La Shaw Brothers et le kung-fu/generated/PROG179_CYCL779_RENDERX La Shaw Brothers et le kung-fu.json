@@ -416,51 +416,33 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 154794,
+          "content": [
             {
               "idFilm": 154794,
-              "content": [
-                {
-                  "idFilm": 154794,
-                  "ordre": 1,
-                  "titre": "Justicier de Shanghaï",
-                  "art": "Le",
-                  "titreVo": "Ma Yong Zhen",
-                  "realisateurs": "Chang Cheh",
-                  "pays": "Hong-Kong",
-                  "annee": 1972,
-                  "duree": 134,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "generique": [
-                    "Chen Kuan-tai",
-                    "Cheng Hong-yip",
-                    "David Chiang"
-                  ],
-                  "miniTexte": "L'ascension d'un jeune homme intègre au sein de la mafia, filmée avec une fureur opératique qui évoque, dans ses meilleurs moments, les westerns crépusculaires de la fin des années 60. Le final, épique, monumental, a des accents de _Scarface_ (version De Palma) avant l'heure. Pour l'histoire, deux cinéastes de renom font ici leurs débuts en tant qu'assistants réalisateurs : Godfrey Ho et John Woo."
-                }
-              ]
-            },
-            {
-              "idEvenement": 30574,
-              "content": [
-                {
-                  "idConf": 30574,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Christophe Gans",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Jean-François Rauger",
-                  "miniTexte": "De tous les films réalisés par Chang Cheh, _Le Justicier de Shanghaï_ (sorti sous le titre _La Brute, le Bonze et le Méchant_) était le plus avidement recherché. En 1976, il passait fort peu dans les salles : son interdiction aux moins de 18 ans en avait fait une rareté. De fait, ce film d'une réelle profondeur thématique est resté le plus apocalyptique de la filmo pourtant dévastatrice du cinéaste. Considéré à juste titre comme l'équivalent chinois de _La Horde sauvage_, il organise le plus grand massacre à mains nues jamais chorégraphié à la Shaw pour atteindre à une sauvagerie épique qui peut paraître, si l'on ne connait pas les obsessions de son auteur, étrangement sensuelle. Pas étonnant que John Woo ait été premier assistant sur ce monument écarlate... — Christophe Gans"
-                }
+              "ordre": 1,
+              "titre": "Justicier de Shanghaï",
+              "art": "Le",
+              "titreVo": "Ma Yong Zhen",
+              "realisateurs": "Chang Cheh",
+              "pays": "Hong-Kong",
+              "annee": 1972,
+              "duree": 134,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Chen Kuan-tai",
+                "Cheng Hong-yip",
+                "David Chiang"
               ],
-              "seances": [
-                {
-                  "idSeance": 130894,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-07-06T14:59:00",
-                  "idSalle": "GF"
-                }
-              ]
+              "miniTexte": "L'ascension d'un jeune homme intègre au sein de la mafia, filmée avec une fureur opératique qui évoque, dans ses meilleurs moments, les westerns crépusculaires de la fin des années 60. Le final, épique, monumental, a des accents de _Scarface_ (version De Palma) avant l'heure. Pour l'histoire, deux cinéastes de renom font ici leurs débuts en tant qu'assistants réalisateurs : Godfrey Ho et John Woo."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130894,
+              "dateHeure": "2024-07-06T14:59:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -831,14 +813,38 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30574,
+          "content": [
+            {
+              "idConf": 30574,
+              "titre": "Dialogue avec Christophe Gans",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Jean-François Rauger",
+              "miniTexte": "De tous les films réalisés par Chang Cheh, _Le Justicier de Shanghaï_ (sorti sous le titre _La Brute, le Bonze et le Méchant_) était le plus avidement recherché. En 1976, il passait fort peu dans les salles : son interdiction aux moins de 18 ans en avait fait une rareté. De fait, ce film d'une réelle profondeur thématique est resté le plus apocalyptique de la filmo pourtant dévastatrice du cinéaste. Considéré à juste titre comme l'équivalent chinois de _La Horde sauvage_, il organise le plus grand massacre à mains nues jamais chorégraphié à la Shaw pour atteindre à une sauvagerie épique qui peut paraître, si l'on ne connait pas les obsessions de son auteur, étrangement sensuelle. Pas étonnant que John Woo ait été premier assistant sur ce monument écarlate... — Christophe Gans"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130810,
+              "dateHeure": "2024-07-06T16:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Dialogues": [
       {
-        "titreFilms": "Le Justicier de Shanghaï",
         "mention": "avec Christophe Gans",
-        "dateHeure": "2024-07-06T14:59:00"
+        "dateHeure": "2024-07-06T16:45:00"
       },
       {
         "titreFilms": "La Vengeance des infirmes",

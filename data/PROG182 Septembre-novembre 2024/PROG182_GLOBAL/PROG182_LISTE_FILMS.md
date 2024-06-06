@@ -288,7 +288,7 @@
   * Vertiges  
   * Yeux noirs (Les)
 
-## Michael Powell (47)
+## Michael Powell (46)
 
   * 49e parallèle  
   * A Canterbury Tale  
@@ -296,7 +296,6 @@
   * Age of Consent  
   * An Airman's Letter to His Mother  
   * Bataille du Rio de la Plata (La)  
-  * Blackout  
   * Boy Who Turned Yellow (The)  
   * Château de Barbe-Bleue (Le)  
   * Chaussons rouges (Les)  

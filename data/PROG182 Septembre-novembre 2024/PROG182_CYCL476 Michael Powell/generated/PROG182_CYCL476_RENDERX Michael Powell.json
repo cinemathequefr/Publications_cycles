@@ -149,6 +149,69 @@
           ]
         },
         {
+          "idEvenement": 31173,
+          "content": [
+            {
+              "idFilm": 91360,
+              "ordre": 1,
+              "titre": "An Airman's Letter to His Mother",
+              "realisateurs": "Michael Powell",
+              "pays": "Grande-Bretagne",
+              "annee": 1941,
+              "duree": 6,
+              "version": "STF",
+              "format": "35 mm",
+              "generique": [
+                "John Gielgud"
+              ],
+              "miniTexte": "Court métrage de propagande britannique, basé sur la lettre d'un pilote de bombardier adressée à sa mère, et publiée dans le _Times_ en juin 1940. Powell participe à l'effort de guerre avec une lecture poignante, portée par la voix de John Gielgud."
+            },
+            {
+              "idFilm": 107614,
+              "ordre": 2,
+              "titre": "Volunteer",
+              "art": "The",
+              "realisateurs": "Michael Powell",
+              "pays": "Grande-Bretagne",
+              "annee": 1943,
+              "duree": 24,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Pat McGrath",
+                "Michael Powell",
+                "Ralph Richardson"
+              ],
+              "miniTexte": "L'habilleur maladroit d'un célèbre acteur devient un héros après s'être engagé dans l'armée. Réalisé pendant la Seconde Guerre mondiale, _The Volunteer_ loue les qualités de la Fleet Air Arm à travers l'itinéraire d'un jeune inconstant, qui creuse sa voie dans le monde militaire. Une piquante propagande de recrutement aux nombreuses saillies humoristiques."
+            },
+            {
+              "idFilm": 107576,
+              "ordre": 3,
+              "titre": "Rynox",
+              "realisateurs": "Michael Powell",
+              "pays": "Grande-Bretagne",
+              "annee": 1931,
+              "duree": 47,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Rynox_ de Philip MacDonald.",
+              "generique": [
+                "Stewart Rome",
+                "John Longden",
+                "Dorothy Boyd"
+              ],
+              "miniTexte": "Un homme d'affaires ruiné simule son propre meurtre pour toucher l'argent de l'assurance. Premier film de Powell, retrouvé et restauré en 1990, _Rynox_ témoigne déjà de l'imagination visuelle du cinéaste, influencé par le cinéma expressionniste allemand, notamment celui de Fritz Lang."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 132503,
+              "dateHeure": "2024-10-24T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 58543,
           "content": [
             {
@@ -161,9 +224,9 @@
               "realisateurs": "Michael Powell, Emeric Pressburger",
               "pays": "Grande-Bretagne",
               "annee": 1956,
-              "duree": 119,
-              "version": "STF",
-              "format": "",
+              "duree": 0,
+              "version": "VOSTF",
+              "format": "35 mm",
               "generique": [
                 "John Gregson",
                 "Anthony Quayle",
@@ -176,29 +239,6 @@
             {
               "idSeance": 133853,
               "dateHeure": "2024-11-16T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 56883,
-          "content": [
-            {
-              "idFilm": 56883,
-              "ordre": 1,
-              "titre": "Blackout",
-              "realisateurs": "Michael Powell",
-              "pays": "Grande-Bretagne",
-              "annee": 1940,
-              "duree": 80,
-              "version": "VOSTF",
-              "format": "35 mm"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133840,
-              "dateHeure": "2024-11-16T19:15:00",
               "idSalle": "GF"
             }
           ]
@@ -229,37 +269,6 @@
             {
               "idSeance": 133830,
               "dateHeure": "2024-10-24T18:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 107628,
-          "content": [
-            {
-              "idFilm": 107628,
-              "ordre": 1,
-              "titre": "Château de Barbe-Bleue",
-              "art": "Le",
-              "titreVo": "Herzog Blaubarts Burg",
-              "realisateurs": "Michael Powell",
-              "pays": "RFA",
-              "annee": 1964,
-              "duree": 62,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après l'opéra _Le Château de Barbe-Bleue_ de Béla Bartók.",
-              "generique": [
-                "Norman Foster",
-                "Ana Raquel Satre"
-              ],
-              "miniTexte": "Version filmée en studio de l'opéra éponyme de Béla Bartók. Chanté en allemand, le livret devient un psychodrame à la fois intense et expressionniste, baigné par un éclairage et un décor qui révèlent les tourments de Barbe-Bleue. Une plongée inventive et visuellement saisissante dans la psyché de personnages torturés."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133211,
-              "dateHeure": "2024-11-20T21:30:00",
               "idSalle": "JE"
             }
           ]
@@ -516,8 +525,8 @@
               "realisateurs": "Michael Powell",
               "pays": "Grande-Bretagne",
               "annee": 1939,
-              "duree": 0,
-              "version": "",
+              "duree": 80,
+              "version": "VOSTF",
               "format": "35 mm",
               "generique": [
                 "Conrad Veidt",
@@ -529,8 +538,13 @@
           ],
           "seances": [
             {
-              "idSeance": 132651,
+              "idSeance": 134103,
               "dateHeure": "2024-10-30T18:30:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 134105,
+              "dateHeure": "2024-11-16T19:15:00",
               "idSalle": "GF"
             }
           ]
@@ -671,7 +685,7 @@
                   "annee": 1945,
                   "duree": 92,
                   "version": "VOSTF",
-                  "format": "DCP",
+                  "format": "35 mm",
                   "generique": [
                     "Wendy Hiller",
                     "Roger Livesey",
@@ -915,8 +929,8 @@
               "pays": "Grande-Bretagne",
               "annee": 1934,
               "duree": 63,
-              "version": "STF",
-              "format": "",
+              "version": "VOSTF",
+              "format": "DCP",
               "adaptation": "D'après la pièce _The Night of the Party_ de Roland Pertwee et John Hastings Turner.",
               "generique": [
                 "Leslie Banks",
@@ -977,7 +991,7 @@
               "pays": "Grande-Bretagne",
               "annee": 1934,
               "duree": 66,
-              "version": "STF",
+              "version": "VOSTF",
               "format": "DCP",
               "generique": [
                 "Leslie Banks",
@@ -1019,6 +1033,11 @@
             }
           ],
           "seances": [
+            {
+              "idSeance": 134104,
+              "dateHeure": "2024-10-30T20:30:00",
+              "idSalle": "GF"
+            },
             {
               "idSeance": 133834,
               "dateHeure": "2024-11-09T20:00:00",
@@ -1094,53 +1113,6 @@
           ]
         },
         {
-          "idEvenement": 21684,
-          "content": [
-            {
-              "idFilm": 107576,
-              "ordre": 1,
-              "titre": "Rynox",
-              "realisateurs": "Michael Powell",
-              "pays": "Grande-Bretagne",
-              "annee": 1931,
-              "duree": 47,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Rynox_ de Philip MacDonald.",
-              "generique": [
-                "Stewart Rome",
-                "John Longden",
-                "Dorothy Boyd"
-              ],
-              "miniTexte": "Un homme d'affaires ruiné simule son propre meurtre pour toucher l'argent de l'assurance. Premier film de Powell, retrouvé et restauré en 1990, _Rynox_ témoigne déjà de l'imagination visuelle du cinéaste, influencé par le cinéma expressionniste allemand, notamment celui de Fritz Lang."
-            },
-            {
-              "idFilm": 107579,
-              "ordre": 2,
-              "titre": "Hotel Splendide",
-              "realisateurs": "Michael Powell",
-              "pays": "Grande-Bretagne",
-              "annee": 1932,
-              "duree": 53,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Jerry Verno",
-                "Anthony Holles",
-                "Edgar Norfolk"
-              ],
-              "miniTexte": "L'héritage imprévu d'un hôtel plonge un modeste employé dans une série d'arnaques. Réalisé avec un budget de 4 000 £ pour Gaumont-British, _Hotel Splendide_ fait la part belle à Jerry Verno, figure du music-hall, admirable de drôlerie, au gré d'une comédie chaleureuse et inventive."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133160,
-              "dateHeure": "2024-11-17T17:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 41945,
           "content": [
             {
@@ -1172,7 +1144,7 @@
           ]
         },
         {
-          "idEvenement": 21680,
+          "idEvenement": 31172,
           "content": [
             {
               "idFilm": 107613,
@@ -1192,57 +1164,27 @@
               "miniTexte": "Court métrage réalisé par Powell pour promouvoir une organisation caritative qui aidait les anciens militaires en difficulté. Découvert en 2003, le film a connu sa première projection publique un an plus tard, à Canterbury, près de 65 ans après son tournage."
             },
             {
-              "idFilm": 91360,
+              "idFilm": 107579,
               "ordre": 2,
-              "titre": "An Airman's Letter to His Mother",
+              "titre": "Hotel Splendide",
               "realisateurs": "Michael Powell",
               "pays": "Grande-Bretagne",
-              "annee": 1941,
-              "duree": 6,
-              "version": "STF",
-              "format": "35 mm",
-              "generique": [
-                "John Gielgud"
-              ],
-              "miniTexte": "Court métrage de propagande britannique, basé sur la lettre d'un pilote de bombardier adressée à sa mère, et publiée dans le _Times_ en juin 1940. Powell participe à l'effort de guerre avec une lecture poignante, portée par la voix de John Gielgud."
-            },
-            {
-              "idFilm": 107614,
-              "ordre": 3,
-              "titre": "Volunteer",
-              "art": "The",
-              "realisateurs": "Michael Powell",
-              "pays": "Grande-Bretagne",
-              "annee": 1943,
-              "duree": 24,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Pat McGrath",
-                "Michael Powell",
-                "Ralph Richardson"
-              ],
-              "miniTexte": "L'habilleur maladroit d'un célèbre acteur devient un héros après s'être engagé dans l'armée. Réalisé pendant la Seconde Guerre mondiale, _The Volunteer_ loue les qualités de la Fleet Air Arm à travers l'itinéraire d'un jeune inconstant, qui creuse sa voie dans le monde militaire. Une piquante propagande de recrutement aux nombreuses saillies humoristiques."
-            },
-            {
-              "idFilm": 107616,
-              "ordre": 4,
-              "titre": "Sorcerer's Apprentice",
-              "art": "The",
-              "realisateurs": "Michael Powell",
-              "pays": "États-Unis",
-              "annee": 1956,
-              "duree": 13,
+              "annee": 1932,
+              "duree": 53,
               "version": "VOSTF",
               "format": "DCP",
-              "adaptation": "D'après le poème _L'Apprenti sorcier_ de Goethe.",
-              "miniTexte": "Après _Les Chaussons rouges_, Powell filme à nouveau la danse, avec une captation du ballet _L'Apprenti sorcier_, interprété par Sonia Arova et le corps de ballet de l'Opéra d'État de Hambourg. Une première, tournée en CinémaScope."
+              "generique": [
+                "Jerry Verno",
+                "Anthony Holles",
+                "Edgar Norfolk"
+              ],
+              "miniTexte": "L'héritage imprévu d'un hôtel plonge un modeste employé dans une série d'arnaques. Réalisé avec un budget de 4 000 £ pour Gaumont-British, _Hotel Splendide_ fait la part belle à Jerry Verno, figure du music-hall, admirable de drôlerie, au gré d'une comédie chaleureuse et inventive."
             }
           ],
           "seances": [
             {
-              "idSeance": 132503,
-              "dateHeure": "2024-10-24T19:30:00",
+              "idSeance": 133160,
+              "dateHeure": "2024-11-17T17:30:00",
               "idSalle": "JE"
             }
           ]
@@ -1273,6 +1215,51 @@
               "idSeance": 132915,
               "dateHeure": "2024-11-08T19:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idEvenement": 31170,
+          "content": [
+            {
+              "idFilm": 107616,
+              "ordre": 1,
+              "titre": "Sorcerer's Apprentice",
+              "art": "The",
+              "realisateurs": "Michael Powell",
+              "pays": "États-Unis",
+              "annee": 1956,
+              "duree": 13,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le poème _L'Apprenti sorcier_ de Goethe.",
+              "miniTexte": "Après _Les Chaussons rouges_, Powell filme à nouveau la danse, avec une captation du ballet _L'Apprenti sorcier_, interprété par Sonia Arova et le corps de ballet de l'Opéra d'État de Hambourg. Une première, tournée en CinémaScope."
+            },
+            {
+              "idFilm": 107628,
+              "ordre": 2,
+              "titre": "Château de Barbe-Bleue",
+              "art": "Le",
+              "titreVo": "Herzog Blaubarts Burg",
+              "realisateurs": "Michael Powell",
+              "pays": "RFA",
+              "annee": 1964,
+              "duree": 62,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après l'opéra _Le Château de Barbe-Bleue_ de Béla Bartók.",
+              "generique": [
+                "Norman Foster",
+                "Ana Raquel Satre"
+              ],
+              "miniTexte": "Version filmée en studio de l'opéra éponyme de Béla Bartók. Chanté en allemand, le livret devient un psychodrame à la fois intense et expressionniste, baigné par un éclairage et un décor qui révèlent les tourments de Barbe-Bleue. Une plongée inventive et visuellement saisissante dans la psyché de personnages torturés."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133211,
+              "dateHeure": "2024-11-20T21:30:00",
+              "idSalle": "JE"
             }
           ]
         },
