@@ -747,7 +747,7 @@
     "idSeance": 133745,
     "idEvenement": 30548,
     "dateHeure": "2024-06-06T18:00:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "63e Semaine de la critique",
@@ -769,10 +769,10 @@
     "hashEvenement": "f154852"
   },
   {
-    "idSeance": 129097,
+    "idSeance": 134108,
     "idEvenement": 30466,
     "dateHeure": "2024-06-06T19:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Ciné-club de Frédéric Bonnaud",
@@ -811,7 +811,7 @@
     "idSeance": 133746,
     "idEvenement": 30546,
     "dateHeure": "2024-06-06T20:30:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "63e Semaine de la critique",
@@ -4406,12 +4406,16 @@
   {
     "idSeance": 130894,
     "idEvenement": 30515,
-    "dateHeure": "2024-07-06T14:59:00",
+    "dateHeure": "2024-07-06T14:30:00",
     "salle": "GF",
     "cycle": [
       [
         "La Shaw Brothers et le kung-fu",
         "Les films"
+      ],
+      [
+        "La Shaw Brothers et le kung-fu",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -4424,9 +4428,15 @@
         "duree": 134,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 30574,
+        "titre": "Dialogue avec Christophe Gans",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f154794"
+    "hashEvenement": "f154794c30574"
   },
   {
     "idSeance": 133546,
@@ -4484,27 +4494,6 @@
       }
     ],
     "hashEvenement": "f154886"
-  },
-  {
-    "idSeance": 130810,
-    "idEvenement": 30574,
-    "dateHeure": "2024-07-06T16:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "La Shaw Brothers et le kung-fu",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 30574,
-        "titre": "Dialogue avec Christophe Gans",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c30574"
   },
   {
     "idSeance": 133596,
