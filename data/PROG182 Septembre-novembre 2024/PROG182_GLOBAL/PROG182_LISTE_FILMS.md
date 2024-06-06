@@ -245,18 +245,22 @@
   * Vent nous emportera (Le)  
   * Vie est un long fleuve tranquille (La)
 
-## Ma petite Cinémathèque (12)
+## Ma petite Cinémathèque (16)
 
   * Belle au bois dormant (La)  
   * Brendan et le secret de Kells  
+  * Días de los muertos (Los)  
   * Homme invisible (L')  
+  * How to Paint Your Rainbow  
   * Jeune et Innocent  
   * Lumières de la ville (Les)  
   * Ma vie de Courgette  
+  * Malec chez les fantômes  
   * Monde de Nemo (Le)  
   * Ponyo sur la falaise  
   * Roi et l'Oiseau (Le)  
   * Sherlock Jr.  
+  * Six pattes sous terre  
   * Voleur de Bagdad (Le)  
   * West Side Story
 
