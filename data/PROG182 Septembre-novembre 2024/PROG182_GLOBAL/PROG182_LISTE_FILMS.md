@@ -392,7 +392,7 @@
   * Arrête ou je continue  
   * Belle et la Belle (La)  
   * Des filles et des chiens  
-  * Fille du directeur et la correspondante anglaise (La)  
+  * Fille du directeur et la Correspondante anglaise (La)  
   * Gentille  
   * Grande petite  
   * Insu (L')  

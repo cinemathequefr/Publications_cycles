@@ -2721,7 +2721,7 @@
       },
       {
         "idFilm": 154862,
-        "titre": "Fille du directeur et la correspondante anglaise",
+        "titre": "Fille du directeur et la Correspondante anglaise",
         "art": "La",
         "realisateurs": "Sophie Fillières",
         "annee": 1989,
@@ -3096,7 +3096,7 @@
         "art": "Les",
         "realisateurs": "Nikita Mikhalkov",
         "annee": 1986,
-        "duree": 117,
+        "duree": 144,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -3225,8 +3225,8 @@
     "hashEvenement": "f59914"
   },
   {
-    "idSeance": 133990,
-    "idEvenement": 31122,
+    "idSeance": 134115,
+    "idEvenement": 31118,
     "dateHeure": "2024-09-28T16:30:00",
     "salle": "GF",
     "cycle": [
@@ -3237,16 +3237,13 @@
     ],
     "items": [
       {
-        "idFilm": 80455,
-        "titre": "Head",
+        "idFilm": 88428,
+        "titre": "Sans motif apparent",
         "realisateurs": "Bob Rafelson",
-        "annee": 1968,
-        "duree": 86,
-        "version": "VO",
-        "format": "Vidéo"
+        "annee": 2002
       }
     ],
-    "hashEvenement": "f80455"
+    "hashEvenement": "f88428"
   },
   {
     "idSeance": 131842,
@@ -3344,8 +3341,8 @@
     "hashEvenement": "f56875"
   },
   {
-    "idSeance": 131858,
-    "idEvenement": 31118,
+    "idSeance": 134114,
+    "idEvenement": 31122,
     "dateHeure": "2024-09-29T14:30:00",
     "salle": "JE",
     "cycle": [
@@ -3356,13 +3353,16 @@
     ],
     "items": [
       {
-        "idFilm": 88428,
-        "titre": "Sans motif apparent",
+        "idFilm": 80455,
+        "titre": "Head",
         "realisateurs": "Bob Rafelson",
-        "annee": 2002
+        "annee": 1968,
+        "duree": 86,
+        "version": "VO",
+        "format": "Vidéo"
       }
     ],
-    "hashEvenement": "f88428"
+    "hashEvenement": "f80455"
   },
   {
     "idSeance": 133996,
@@ -5538,16 +5538,25 @@
   },
   {
     "idSeance": 132503,
-    "idEvenement": 31173,
+    "idEvenement": 31193,
     "dateHeure": "2024-10-24T19:30:00",
     "salle": "JE",
     "cycle": [
       [
         "Michael Powell",
-        "Les films"
+        "Courts métrages"
       ]
     ],
     "items": [
+      {
+        "idFilm": 107613,
+        "titre": "Smith",
+        "realisateurs": "Michael Powell",
+        "annee": 1939,
+        "duree": 10,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
       {
         "idFilm": 91360,
         "titre": "An Airman's Letter to His Mother",
@@ -5568,16 +5577,17 @@
         "format": "35 mm"
       },
       {
-        "idFilm": 107576,
-        "titre": "Rynox",
-        "realisateurs": "Michael Powell",
-        "annee": 1931,
-        "duree": 47,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 42028,
+        "titre": "Lion a des ailes",
+        "art": "Le",
+        "realisateurs": "Michael Powell, Adrian Brunel, Brian Desmond Hurst",
+        "annee": 1939,
+        "duree": 76,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f91360f107614f107576"
+    "hashEvenement": "f107613f91360f107614f42028"
   },
   {
     "idSeance": 132502,
@@ -6257,8 +6267,8 @@
     "hashEvenement": "f32706f154912f154913f154914"
   },
   {
-    "idSeance": 134103,
-    "idEvenement": 21649,
+    "idSeance": 134112,
+    "idEvenement": 21655,
     "dateHeure": "2024-10-30T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -8071,16 +8081,44 @@
   },
   {
     "idSeance": 133839,
-    "idEvenement": 21686,
+    "idEvenement": 31193,
     "dateHeure": "2024-11-16T17:30:00",
     "salle": "GF",
     "cycle": [
       [
         "Michael Powell",
-        "Les films"
+        "Courts métrages"
       ]
     ],
     "items": [
+      {
+        "idFilm": 107613,
+        "titre": "Smith",
+        "realisateurs": "Michael Powell",
+        "annee": 1939,
+        "duree": 10,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 91360,
+        "titre": "An Airman's Letter to His Mother",
+        "realisateurs": "Michael Powell",
+        "annee": 1941,
+        "duree": 6,
+        "version": "STF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 107614,
+        "titre": "Volunteer",
+        "art": "The",
+        "realisateurs": "Michael Powell",
+        "annee": 1943,
+        "duree": 24,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
       {
         "idFilm": 42028,
         "titre": "Lion a des ailes",
@@ -8092,11 +8130,11 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f42028"
+    "hashEvenement": "f107613f91360f107614f42028"
   },
   {
-    "idSeance": 134105,
-    "idEvenement": 21649,
+    "idSeance": 134113,
+    "idEvenement": 21655,
     "dateHeure": "2024-11-16T19:15:00",
     "salle": "GF",
     "cycle": [
@@ -8239,24 +8277,24 @@
   },
   {
     "idSeance": 133160,
-    "idEvenement": 31172,
+    "idEvenement": 31196,
     "dateHeure": "2024-11-17T17:30:00",
     "salle": "JE",
     "cycle": [
       [
         "Michael Powell",
-        "Les films"
+        "Courts métrages"
       ]
     ],
     "items": [
       {
-        "idFilm": 107613,
-        "titre": "Smith",
+        "idFilm": 107576,
+        "titre": "Rynox",
         "realisateurs": "Michael Powell",
-        "annee": 1939,
-        "duree": 10,
+        "annee": 1931,
+        "duree": 47,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 107579,
@@ -8268,7 +8306,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f107613f107579"
+    "hashEvenement": "f107576f107579"
   },
   {
     "idSeance": 133158,
