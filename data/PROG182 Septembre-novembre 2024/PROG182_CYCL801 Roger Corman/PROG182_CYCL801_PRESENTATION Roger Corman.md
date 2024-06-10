@@ -28,4 +28,4 @@ S'il cesse de tourner lui-même au début des années 70, il retourne brièvemen
 
 Corman fut apprécié par la cinéphilie française, sans doute bien avant que ne se généralise un certain goût pop pour le cinéma d'exploitation. La manière dont il fit de l'économie une vertu, son inventivité, sa marginalité, son apparent refus de tout intellectualisme ont été les conditions d'une singularité corrosive à l'intérieur du système hollywoodien. À sa façon, le cinéma de Roger Corman a incarné un moment moderne du cinéma américain.
 
-Jean-François Rauger
+<div class="author">Jean-François Rauger</div>

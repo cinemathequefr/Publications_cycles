@@ -1,6 +1,8 @@
 > D'abord assistant d'Alfred Hitchcock, Michael Powell devient, en quelques années inouïes de créativité, l'une des figures les plus flamboyantes du cinéma anglais. Inséparable de son acolyte Emeric Pressburger, il réalise entre 1937 et 1972 une trentaine de films d'une beauté à couper le souffle, qui jouent des contrastes (A Canterbury Tale), du Technicolor (The Red Shoes) et des artifices du studio (Le Narcisse noir) pour déployer une vision romantique et acide de l'existence. Une épopée brisée net par Le Voyeur, film d'une audace et d'une noirceur aujourd'hui encore tétanisantes.
 
-# « Levez la tête et regardez la mer »[^1]
+# « Levez la tête et regardez la mer »
+
+(Carl Boehm dans _Le Voyeur_)
 
 En 1938, le producteur Alexander Korda met en chantier l'adaptation de _L'Espion noir_. Le scénario définitif est signé Emeric Pressburger, émigré hongrois compatriote de Korda, et la mise en scène confiée à Michael Powell, réalisateur rôdé aux _quota quickies_. C'est la première collaboration de ceux qui par la suite, sous la bannière de leur société de production The Archers, feront parmi les plus grands films du cinéma britannique et signeront leurs œuvres de la formule conjointe _« Written, directed and produced by Michael Powell and Emeric Pressburger »_.
 
@@ -21,5 +23,3 @@ Dans _Age of Consent_, James Mason, peintre désabusé en retraite sur une île 
 Il faut alors se rappeler de cette séquence séminale d'_Une question de vie ou de mort_, expérimentation de vue subjective ultime, où les paupières d'un œil se referment sur l'image avant qu'un fondu enchaîné sur des traînées bleues et rouges abstraites ne nous donne l'impression de remonter le nerf optique, pour rejoindre le tribunal de l'âme de David Niven. Pénétrer le regard, l'exciter jusqu'à la jouissance scopique par des mirages de formes et de couleurs et espérer ainsi atteindre une vérité intérieure, telle est l'ambition du cinéma de Michael Powell, récapitulée en 1960 dans son dernier chef-d'œuvre : _Le Voyeur_.
 
 <div class="author">Nicolas Métayer</div>
-
-[^1]: Carl Boehm dans _Le Voyeur_
