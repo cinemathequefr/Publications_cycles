@@ -22,11 +22,11 @@
   * Folie du docteur Tube (La)  
   * Gaz mortels = Les Brouillards sur la ville (Les)  
   * J'accuse  
-  * Jérôme Perreau  
+  * Jérôme Perreau, héros des barricades  
   * Louise  
   * Lucrèce Borgia  
   * Magirama (J'accuse)  
-  * Mater Dolorosa  
+  * Mater dolorosa  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
   * Paradis perdu  
@@ -212,7 +212,7 @@
   * Brisseau, 251 rue Marcadet  
   * De ma fenêtre  
   * Dernier des fous (Le)  
-  * Dernière Séance  
+  * Dernière séance  
   * Dimanche ou les fantômes  
   * Jean-François Stévenin : Simples Messieurs  
   * Patricia Mazuy : avant Saturne  
@@ -340,9 +340,8 @@
   * Voyeur (Le)  
   * Wild Heart (The)
 
-## Parlons cinéma... avec Nine Antico (5)
+## Parlons cinéma... avec Nine Antico (4)
 
-  * Bonnes femmes (Les)  
   * Carrière de Suzanne (La)  
   * Fièvre du samedi soir (La)  
   * Marin masqué (Le)  

@@ -308,7 +308,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31176,
+          "content": [
+            {
+              "idConf": 31176,
+              "titre": "Dialogue avec Jean-Baptiste Thoret",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134174,
+              "dateHeure": "2024-09-28T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "avec Jean-Baptiste Thoret",
+        "dateHeure": "2024-09-28T16:30:00"
+      }
+    ]
+  }
 }
