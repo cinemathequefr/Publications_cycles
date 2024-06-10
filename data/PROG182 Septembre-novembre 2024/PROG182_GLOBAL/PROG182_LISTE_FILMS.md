@@ -246,12 +246,12 @@
 
 ## Ma petite Cinémathèque (16)
 
+  * Aventures d'Arsène Lupin (Les)  
   * Belle au bois dormant (La)  
   * Brendan et le secret de Kells  
   * Días de los muertos (Los)  
-  * Homme invisible (L')  
+  * Flibustière des Antilles (La)  
   * How to Paint Your Rainbow  
-  * Jeune et Innocent  
   * Lumières de la ville (Les)  
   * Ma vie de Courgette  
   * Malec chez les fantômes  
@@ -379,7 +379,7 @@
   * Horrible Cas du docteur X (L')  
   * Intruder (The)  
   * It Conquered the World  
-  * Masque de la Mort Rouge (Le)  
+  * Masque de la mort rouge (Le)  
   * Petite boutique des horreurs (La)  
   * Trip (The)
 
@@ -416,7 +416,7 @@
 
   * Hamburger Film Sandwich  
   * Hot Shots!  
-  * Hot Shots! 2  
+  * Hot Shots! Part 2  
   * Top Secret!  
   * Y a-t-il un flic pour sauver la reine ?  
   * Y a-t-il un flic pour sauver le président ?  
