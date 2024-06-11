@@ -35,7 +35,7 @@
               "idSeance": 131943,
               "dateHeure": "2024-10-03T20:30:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Marin Karmitz"
             }
           ]
         },
@@ -95,38 +95,56 @@
             {
               "idSeance": 131985,
               "dateHeure": "2024-10-04T21:15:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Marin Karmitz"
             }
           ]
         },
         {
-          "idFilm": 65565,
-          "content": [
+          "groupe": [
             {
               "idFilm": 65565,
-              "ordre": 1,
-              "titre": "Vent nous emportera",
-              "art": "Le",
-              "titreVo": "Bād mā rā khāhad bord",
-              "realisateurs": "Abbas Kiarostami",
-              "pays": "France-Iran",
-              "annee": 1998,
-              "duree": 118,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Behzad Dourani",
-                "Noghre Asadi",
-                "Roushan Karam Elmi"
-              ],
-              "miniTexte": "La quête mystérieuse de quelques hommes de Téhéran dans un village du Kurdistan iranien. Cinéaste des paysages et du temps qui passe, Kiarostami signe une fable philosophique, d'une splendeur picturale absolue, sur le rapport à la nature, à la mort, sur l'éternité des lieux et le sens de la vie."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 65565,
+                  "ordre": 1,
+                  "titre": "Vent nous emportera",
+                  "art": "Le",
+                  "titreVo": "Bād mā rā khāhad bord",
+                  "realisateurs": "Abbas Kiarostami",
+                  "pays": "France-Iran",
+                  "annee": 1998,
+                  "duree": 118,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Behzad Dourani",
+                    "Noghre Asadi",
+                    "Roushan Karam Elmi"
+                  ],
+                  "miniTexte": "La quête mystérieuse de quelques hommes de Téhéran dans un village du Kurdistan iranien. Cinéaste des paysages et du temps qui passe, Kiarostami signe une fable philosophique, d'une splendeur picturale absolue, sur le rapport à la nature, à la mort, sur l'éternité des lieux et le sens de la vie."
+                }
+              ]
+            },
             {
-              "idSeance": 134106,
-              "dateHeure": "2024-10-05T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 31160,
+              "content": [
+                {
+                  "idConf": 31160,
+                  "ordre": 2,
+                  "titre": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 134106,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-10-05T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -173,7 +191,8 @@
             {
               "idSeance": 132025,
               "dateHeure": "2024-10-05T19:15:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Marin Karmitz"
             }
           ]
         },
@@ -243,7 +262,8 @@
             {
               "idSeance": 134079,
               "dateHeure": "2024-10-06T20:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Marin Karmitz"
             }
           ]
         },
@@ -392,7 +412,8 @@
             {
               "idSeance": 133814,
               "dateHeure": "2024-10-10T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Marin Karmitz"
             }
           ]
         },
@@ -521,37 +542,41 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 31160,
-          "content": [
-            {
-              "idConf": 31160,
-              "titre": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Frédéric Bonnaud"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134052,
-              "dateHeure": "2024-10-05T16:15:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Le Vent nous emportera",
         "mention": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
-        "dateHeure": "2024-10-05T16:15:00"
+        "dateHeure": "2024-10-05T14:30:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Sauve qui peut (la vie)",
+        "mention": "par Marin Karmitz",
+        "dateHeure": "2024-10-03T20:30:00"
+      },
+      {
+        "titreFilms": "Coup pour coup",
+        "mention": "par Marin Karmitz",
+        "dateHeure": "2024-10-04T21:15:00"
+      },
+      {
+        "titreFilms": "Comédie / Camarades",
+        "mention": "par Marin Karmitz",
+        "dateHeure": "2024-10-05T19:15:00"
+      },
+      {
+        "titreFilms": "Nuit noire, Calcutta / Souviens-toi du futur",
+        "mention": "par Marin Karmitz",
+        "dateHeure": "2024-10-06T20:00:00"
+      },
+      {
+        "titreFilms": "Sept jours ailleurs",
+        "mention": "par Marin Karmitz",
+        "dateHeure": "2024-10-10T18:30:00"
       }
     ]
   }

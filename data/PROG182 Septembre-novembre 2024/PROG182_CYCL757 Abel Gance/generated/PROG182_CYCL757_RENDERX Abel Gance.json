@@ -54,25 +54,52 @@
           ]
         },
         {
-          "idFilm": 106408,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 31027,
+              "content": [
+                {
+                  "idConf": 31027,
+                  "titre": "[Titre ?]",
+                  "sousTitre": "Conférence de Georges Mourier",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 134051,
+                  "idSeanceAssoc": 131429,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-09-12T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 106408,
-              "ordre": 1,
-              "titre": "A l'ombre des grands chênes (Abel Gance)",
-              "realisateurs": "Georges Mourier",
-              "pays": "France",
-              "annee": 2005,
-              "duree": 52,
-              "version": "",
-              "format": ""
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 131429,
-              "dateHeure": "2024-09-13T21:15:00",
-              "idSalle": "JE"
+              "content": [
+                {
+                  "idFilm": 106408,
+                  "ordre": 1,
+                  "titre": "A l'ombre des grands chênes (Abel Gance)",
+                  "realisateurs": "Georges Mourier",
+                  "pays": "France",
+                  "annee": 2005,
+                  "duree": 52,
+                  "version": "",
+                  "format": ""
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 131429,
+                  "idSeanceAssoc": 131429,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-09-12T21:15:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -478,7 +505,7 @@
           "seances": [
             {
               "idSeance": 133980,
-              "dateHeure": "2024-09-12T20:00:00",
+              "dateHeure": "2024-09-13T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -508,7 +535,7 @@
           "seances": [
             {
               "idSeance": 133979,
-              "dateHeure": "2024-09-12T18:30:00",
+              "dateHeure": "2024-09-13T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -1223,24 +1250,6 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
-          "idConf": 31027,
-          "content": [
-            {
-              "idConf": 31027,
-              "titre": "[Titre ?]",
-              "sousTitre": "Conférence de Georges Mourier",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134051,
-              "dateHeure": "2024-09-13T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idConf": 31059,
           "content": [
             {
@@ -1265,7 +1274,7 @@
       {
         "titre": "[Titre ?]",
         "mention": "par Georges Mourier",
-        "dateHeure": "2024-09-13T19:00:00"
+        "dateHeure": "2024-09-12T19:00:00"
       }
     ],
     "Spectacle": [

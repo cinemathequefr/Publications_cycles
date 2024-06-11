@@ -70,33 +70,49 @@
           ]
         },
         {
-          "idFilm": 35848,
-          "content": [
+          "groupe": [
             {
               "idFilm": 35848,
-              "ordre": 1,
-              "titre": "Cinq pièces faciles",
-              "titreVo": "Five Easy Pieces",
-              "realisateurs": "Bob Rafelson",
-              "pays": "États-Unis",
-              "annee": 1970,
-              "duree": 98,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Jack Nicholson",
-                "Karen Black",
-                "Billy Green Bush"
-              ],
-              "isFocus": true,
-              "miniTexte": "Second film et coup de maître pour Rafelson avec cet itinéraire mélancolique sur le désarroi des jeunes générations américaines. Les cinq pièces faciles du titre – des morceaux de Chopin, Bach et Mozart –, scandent l'existence d'un ouvrier caractériel, fin dissimulateur de ses véritables origines sociales, qui personnifie le mal de vivre de tout un pays. Dans un style sobre, spontané, sans concession, Rafelson déploie une tragédie intimiste et confirme le talent brut de Jack Nicholson, fantastique de lyrisme. L'un des chefs-d'œuvre du Nouvel Hollywood."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 35848,
+                  "ordre": 1,
+                  "titre": "Cinq pièces faciles",
+                  "titreVo": "Five Easy Pieces",
+                  "realisateurs": "Bob Rafelson",
+                  "pays": "États-Unis",
+                  "annee": 1970,
+                  "duree": 98,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Jack Nicholson",
+                    "Karen Black",
+                    "Billy Green Bush"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Second film et coup de maître pour Rafelson avec cet itinéraire mélancolique sur le désarroi des jeunes générations américaines. Les cinq pièces faciles du titre – des morceaux de Chopin, Bach et Mozart –, scandent l'existence d'un ouvrier caractériel, fin dissimulateur de ses véritables origines sociales, qui personnifie le mal de vivre de tout un pays. Dans un style sobre, spontané, sans concession, Rafelson déploie une tragédie intimiste et confirme le talent brut de Jack Nicholson, fantastique de lyrisme. L'un des chefs-d'œuvre du Nouvel Hollywood."
+                }
+              ]
+            },
             {
-              "idSeance": 134164,
-              "dateHeure": "2024-09-28T15:00:00",
-              "idSalle": "HL"
+              "idEvenement": 31176,
+              "content": [
+                {
+                  "idConf": 31176,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-Baptiste Thoret",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 134164,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-09-28T15:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -308,36 +324,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 31176,
-          "content": [
-            {
-              "idConf": 31176,
-              "titre": "Dialogue avec Jean-Baptiste Thoret",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134174,
-              "dateHeure": "2024-09-28T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Cinq pièces faciles",
         "mention": "avec Jean-Baptiste Thoret",
-        "dateHeure": "2024-09-28T16:30:00"
+        "dateHeure": "2024-09-28T15:00:00"
       }
     ]
   }

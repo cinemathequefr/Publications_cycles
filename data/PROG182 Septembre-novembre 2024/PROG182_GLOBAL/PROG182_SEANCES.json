@@ -1395,81 +1395,9 @@
     "hashEvenement": "f43326"
   },
   {
-    "idSeance": 133979,
-    "idEvenement": 30056,
-    "dateHeure": "2024-09-12T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Abel Gance",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 48674,
-        "titre": "Droit à la vie",
-        "art": "Le",
-        "realisateurs": "Abel Gance",
-        "annee": 1917,
-        "duree": 52,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f48674"
-  },
-  {
-    "idSeance": 133976,
-    "idEvenement": 30841,
-    "dateHeure": "2024-09-12T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Marcello Mastroianni",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 45182,
-        "titre": "8½",
-        "realisateurs": "Federico Fellini",
-        "annee": 1962,
-        "duree": 137,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f45182"
-  },
-  {
-    "idSeance": 133980,
-    "idEvenement": 30055,
-    "dateHeure": "2024-09-12T20:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Abel Gance",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 48673,
-        "titre": "Dixième Symphonie",
-        "art": "La",
-        "realisateurs": "Abel Gance",
-        "annee": 1918,
-        "duree": 81,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f48673"
-  },
-  {
     "idSeance": 133977,
     "idEvenement": 30847,
-    "dateHeure": "2024-09-13T18:00:00",
+    "dateHeure": "2024-09-12T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1493,7 +1421,7 @@
   {
     "idSeance": 134051,
     "idEvenement": 31027,
-    "dateHeure": "2024-09-13T19:00:00",
+    "dateHeure": "2024-09-12T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1515,7 +1443,7 @@
   {
     "idSeance": 133978,
     "idEvenement": 30835,
-    "dateHeure": "2024-09-13T20:30:00",
+    "dateHeure": "2024-09-12T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1540,7 +1468,7 @@
   {
     "idSeance": 133770,
     "idEvenement": 30702,
-    "dateHeure": "2024-09-13T21:00:00",
+    "dateHeure": "2024-09-12T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1564,7 +1492,7 @@
   {
     "idSeance": 131429,
     "idEvenement": 30939,
-    "dateHeure": "2024-09-13T21:15:00",
+    "dateHeure": "2024-09-12T21:15:00",
     "salle": "JE",
     "cycle": [
       [
@@ -1582,6 +1510,78 @@
       }
     ],
     "hashEvenement": "f106408"
+  },
+  {
+    "idSeance": 133979,
+    "idEvenement": 30056,
+    "dateHeure": "2024-09-13T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48674,
+        "titre": "Droit à la vie",
+        "art": "Le",
+        "realisateurs": "Abel Gance",
+        "annee": 1917,
+        "duree": 52,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f48674"
+  },
+  {
+    "idSeance": 133976,
+    "idEvenement": 30841,
+    "dateHeure": "2024-09-13T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Marcello Mastroianni",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45182,
+        "titre": "8½",
+        "realisateurs": "Federico Fellini",
+        "annee": 1962,
+        "duree": 137,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f45182"
+  },
+  {
+    "idSeance": 133980,
+    "idEvenement": 30055,
+    "dateHeure": "2024-09-13T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48673,
+        "titre": "Dixième Symphonie",
+        "art": "La",
+        "realisateurs": "Abel Gance",
+        "annee": 1918,
+        "duree": 81,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f48673"
   },
   {
     "idSeance": 134048,
@@ -3208,6 +3208,10 @@
       [
         "Bob Rafelson",
         "Les films"
+      ],
+      [
+        "Bob Rafelson",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3219,9 +3223,15 @@
         "duree": 98,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 31176,
+        "titre": "Dialogue avec Jean-Baptiste Thoret",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f35848"
+    "hashEvenement": "f35848c31176"
   },
   {
     "idSeance": 134167,
@@ -3246,27 +3256,6 @@
       }
     ],
     "hashEvenement": "f31448"
-  },
-  {
-    "idSeance": 134174,
-    "idEvenement": 31176,
-    "dateHeure": "2024-09-28T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Bob Rafelson",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 31176,
-        "titre": "Dialogue avec Jean-Baptiste Thoret",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c31176"
   },
   {
     "idSeance": 131842,
@@ -3610,7 +3599,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
+    "mention": "Ouverture de la rétrospective. Séance présentée par Marin Karmitz",
     "items": [
       {
         "idFilm": 48865,
@@ -3766,6 +3755,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Marin Karmitz",
     "items": [
       {
         "idFilm": 49441,
@@ -3787,6 +3777,10 @@
       [
         "MK2",
         "Les films"
+      ],
+      [
+        "MK2",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3799,9 +3793,15 @@
         "duree": 118,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 31160,
+        "titre": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f65565"
+    "hashEvenement": "f65565c31160"
   },
   {
     "idSeance": 133963,
@@ -3826,27 +3826,6 @@
       }
     ],
     "hashEvenement": "f45492"
-  },
-  {
-    "idSeance": 134052,
-    "idEvenement": 31160,
-    "dateHeure": "2024-10-05T16:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "MK2",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 31160,
-        "titre": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c31160"
   },
   {
     "idSeance": 133965,
@@ -3883,6 +3862,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Marin Karmitz",
     "items": [
       {
         "idFilm": 58927,
@@ -4034,6 +4014,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Marin Karmitz",
     "items": [
       {
         "idFilm": 67871,
@@ -4257,6 +4238,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Marin Karmitz",
     "items": [
       {
         "idFilm": 52177,
