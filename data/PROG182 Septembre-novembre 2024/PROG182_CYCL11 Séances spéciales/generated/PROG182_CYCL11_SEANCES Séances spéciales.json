@@ -13,11 +13,21 @@
     "items": [
       {
         "idFilm": 116164,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 133719,
+        "idCopie": 28370,
+        "duree": 0,
+        "version": "",
+        "format": ""
       },
       {
         "idFilm": 100023,
-        "ordre": 2
+        "ordre": 2,
+        "idSeance": 133719,
+        "idCopie": 28369,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -36,6 +46,29 @@
       {
         "idFilm": 148994,
         "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3402,
+    "typeEvenement": 13,
+    "idEvenement": 31050,
+    "idSeance": 133824,
+    "dateHeure": "2024-09-11T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 154884,
+        "ordre": 1,
+        "idSeance": 133824,
+        "idCopie": 28238,
+        "duree": 92,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },

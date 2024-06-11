@@ -400,13 +400,14 @@
   * Un chat, un chat  
   * Véritée zébrée (La)
 
-## Séances spéciales (9)
+## Séances spéciales (10)
 
   * Family portraits  
   * Galets d'Étretat (Les)  
   * Godzilla  
   * Godzilla contre Mecanik Monster  
   * Godzilla : Final wars  
+  * Jeanne fait des siennes  
   * Monstres des planètes secrètes = La Planète des monstres (Les)  
   * Sisters  
   * Theatre bizarre: The Accident (The)  
