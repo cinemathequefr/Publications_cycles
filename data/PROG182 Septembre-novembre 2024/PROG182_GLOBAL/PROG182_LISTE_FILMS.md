@@ -246,11 +246,11 @@
 
 ## Ma petite Cinémathèque (16)
 
-  * Aventures d'Arsène Lupin (Les)  
   * Belle au bois dormant (La)  
   * Brendan et le secret de Kells  
   * Días de los muertos (Los)  
   * Flibustière des Antilles (La)  
+  * Homme qui rétrécit (L')  
   * How to Paint Your Rainbow  
   * Lumières de la ville (Les)  
   * Ma vie de Courgette  

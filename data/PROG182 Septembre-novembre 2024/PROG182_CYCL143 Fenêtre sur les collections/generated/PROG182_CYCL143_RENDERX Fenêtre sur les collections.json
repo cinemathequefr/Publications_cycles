@@ -35,7 +35,8 @@
             {
               "idSeance": 133981,
               "dateHeure": "2024-09-06T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Vincent Merlier et Martine Lancelot"
             }
           ]
         },
@@ -63,7 +64,8 @@
             {
               "idSeance": 133982,
               "dateHeure": "2024-09-06T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Vincent Merlier et Martine Lancelot"
             }
           ]
         }
@@ -72,6 +74,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Centenaire de la disparition de Louis Delluc",
+      "texteSousCycle": "Louis Delluc est mort prématurément en 1924, peu après le tournage de _L'Inondation_. Déjà malade et affaibli par les conditions du tournage, il n'assistera pas à la sortie du film. Il est une figure incontournable du cinéma muet pour les quelques films qu'il a réalisés mais aussi pour ses nombreux écrits théoriques sur le cinéma et ses textes critiques, obligeant ses contemporains à évoluer vers plus de réalisme, plus de finesse et d'engagements formels. Grâce à lui, sans aucun doute, le cinéma trouva une place majeure parmi les autres arts. Il réalisa sept films dont certains sont considérés comme disparus. La Cinémathèque française et la société Les Documents cinématographiques ont restauré quatre de ces fims : _Le Chemin d'Ernoa_, _Fièvre_, _La Femme de nulle part_ et _L'Inondation_, tous tournés entre 1920 et 1923, tous avec l'actrice Eve Francis. Pour lui rendre hommage, la Cinémathèque française a montré _Fièvre_ lors du dernier festival et propose maintenant deux films, _Le Chemin d'Ernoa_ et _L'Inondation_, insistant sur le naturalisme auquel Louis Delluc était profondément attaché.",
       "items": [
         {
           "idEvenement": 31109,
@@ -117,7 +120,8 @@
             {
               "idSeance": 131987,
               "dateHeure": "2024-10-04T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Melissa Gignac"
             }
           ]
         },
@@ -146,7 +150,8 @@
             {
               "idSeance": 133983,
               "dateHeure": "2024-10-04T21:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Joël Daire"
             }
           ]
         }
@@ -175,7 +180,8 @@
             {
               "idSeance": 133289,
               "dateHeure": "2024-11-22T18:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Delphine Voiry-Humbert et Nicolas Rey"
             }
           ]
         },
@@ -196,12 +202,41 @@
             {
               "idSeance": 133984,
               "dateHeure": "2024-11-22T20:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Accompagnement musical par Delphine Voiry-Humbert et Camilo Restrepo"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Portrait de Chantal Akerman / News from Chantal Akerman",
+        "mention": "par Vincent Merlier et Martine Lancelot",
+        "dateHeure": "2024-09-06T18:30:00"
+      },
+      {
+        "titreFilms": "S'il vous plaît, la mer ?",
+        "mention": "par Vincent Merlier et Martine Lancelot",
+        "dateHeure": "2024-09-06T20:30:00"
+      },
+      {
+        "titreFilms": "La Fête espagnole / Le Chemin d'Ernoa",
+        "mention": "par Melissa Gignac",
+        "dateHeure": "2024-10-04T19:00:00"
+      },
+      {
+        "titreFilms": "L'Inondation",
+        "mention": "par Joël Daire",
+        "dateHeure": "2024-10-04T21:00:00"
+      },
+      {
+        "titreFilms": "Autrement, la Molussie",
+        "mention": "par Delphine Voiry-Humbert et Nicolas Rey",
+        "dateHeure": "2024-11-22T18:00:00"
+      }
+    ]
+  }
 }
