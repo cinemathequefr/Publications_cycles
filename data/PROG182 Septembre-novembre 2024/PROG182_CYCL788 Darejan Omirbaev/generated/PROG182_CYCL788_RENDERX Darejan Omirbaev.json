@@ -242,33 +242,61 @@
           ]
         },
         {
-          "idFilm": 76647,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 30968,
+              "content": [
+                {
+                  "idConf": 30968,
+                  "titre": "Qui êtes-vous... Darejan Omirbaev ?",
+                  "sousTitre": "Conférence d'Eugénie Zvonkine",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Voilà bien un metteur en scène à part, entre autres pour sa manière rigoureuse et minimaliste de diriger ses acteurs et de composer ses cadres. Usant volontiers d'ellipses, créant sans cesse une tension entre petits écrans et grands écrans, le cinéaste mêle références à la culture kazakhe et à la culture mondiale. Il montre comment l'honnêteté morale et la place de l'art sont mises en péril dans le monde contemporain. — Eugénie Zvonkine"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133788,
+                  "idSeanceAssoc": 134068,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-10-11T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 76647,
-              "ordre": 1,
-              "titre": "Route",
-              "art": "La",
-              "titreVo": "Jol",
-              "realisateurs": "Darejan Omirbaev",
-              "pays": "Kazakhstan-France",
-              "annee": 2001,
-              "duree": 85,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Djamshed Usmonov",
-                "Saule Toktybayeva",
-                "Alnur Turgambayeva"
+              "content": [
+                {
+                  "idFilm": 76647,
+                  "ordre": 1,
+                  "titre": "Route",
+                  "art": "La",
+                  "titreVo": "Jol",
+                  "realisateurs": "Darejan Omirbaev",
+                  "pays": "Kazakhstan-France",
+                  "annee": 2001,
+                  "duree": 85,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Djamshed Usmonov",
+                    "Saule Toktybayeva",
+                    "Alnur Turgambayeva"
+                  ],
+                  "miniTexte": "Une plongée dans les pensées d'un jeune cinéaste appelé au chevet de sa mère malade. Une réflexion sur la création artistique en même temps qu'une autocritique cocasse, qui suit la ligne dépouillée d'un road movie des steppes, où plane l'ombre de l'âne Balthazar du film de Bresson."
+                }
               ],
-              "miniTexte": "Une plongée dans les pensées d'un jeune cinéaste appelé au chevet de sa mère malade. Une réflexion sur la création artistique en même temps qu'une autocritique cocasse, qui suit la ligne dépouillée d'un road movie des steppes, où plane l'ombre de l'âne Balthazar du film de Bresson."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134068,
-              "dateHeure": "2024-10-11T21:30:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 134068,
+                  "idSeanceAssoc": 134068,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-10-11T21:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -303,31 +331,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30968,
-          "content": [
-            {
-              "idConf": 30968,
-              "titre": "Qui êtes-vous... Darejan Omirbaev ?",
-              "sousTitre": "Conférence d'Eugénie Zvonkine",
-              "typeConference": "Conférence",
-              "miniTexte": "Voilà bien un metteur en scène à part, entre autres pour sa manière rigoureuse et minimaliste de diriger ses acteurs et de composer ses cadres. Usant volontiers d'ellipses, créant sans cesse une tension entre petits écrans et grands écrans, le cinéaste mêle références à la culture kazakhe et à la culture mondiale. Il montre comment l'honnêteté morale et la place de l'art sont mises en péril dans le monde contemporain. — Eugénie Zvonkine"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133788,
-              "dateHeure": "2024-10-10T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -341,7 +344,7 @@
       {
         "titre": "Qui êtes-vous... Darejan Omirbaev ?",
         "mention": "par Eugénie Zvonkine",
-        "dateHeure": "2024-10-10T19:00:00"
+        "dateHeure": "2024-10-11T19:00:00"
       }
     ]
   }

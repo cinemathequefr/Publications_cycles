@@ -4270,28 +4270,6 @@
     "hashEvenement": "f52177"
   },
   {
-    "idSeance": 133788,
-    "idEvenement": 30968,
-    "dateHeure": "2024-10-10T19:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Darejan Omirbaev",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 30968,
-        "titre": "Qui êtes-vous... Darejan Omirbaev ?",
-        "sousTitre": "Conférence d'Eugénie Zvonkine",
-        "typeConference": "Conférence",
-        "duree": 90
-      }
-    ],
-    "hashEvenement": "c30968"
-  },
-  {
     "idSeance": 134107,
     "idEvenement": 31045,
     "dateHeure": "2024-10-10T20:00:00",
@@ -4363,8 +4341,8 @@
     "hashEvenement": "f52785"
   },
   {
-    "idSeance": 134037,
-    "idEvenement": 31140,
+    "idSeance": 134181,
+    "idEvenement": 31137,
     "dateHeure": "2024-10-11T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -4375,15 +4353,38 @@
     ],
     "items": [
       {
-        "idFilm": 54730,
-        "titre": "Meurtre à l'italienne",
+        "idFilm": 42128,
+        "titre": "Homme de paille",
+        "art": "L'",
         "realisateurs": "Pietro Germi",
-        "annee": 1959,
-        "duree": 115,
-        "format": "DCP"
+        "annee": 1958,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f54730"
+    "hashEvenement": "f42128"
+  },
+  {
+    "idSeance": 133788,
+    "idEvenement": 30968,
+    "dateHeure": "2024-10-11T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Darejan Omirbaev",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30968,
+        "titre": "Qui êtes-vous... Darejan Omirbaev ?",
+        "sousTitre": "Conférence d'Eugénie Zvonkine",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c30968"
   },
   {
     "idSeance": 134001,
@@ -5022,28 +5023,37 @@
     "hashEvenement": "f41966"
   },
   {
-    "idSeance": 134010,
-    "idEvenement": 31137,
+    "idSeance": 134180,
+    "idEvenement": 31140,
     "dateHeure": "2024-10-19T14:30:00",
     "salle": "HL",
     "cycle": [
       [
         "Pietro Germi",
         "Les films"
+      ],
+      [
+        "Pietro Germi",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 42128,
-        "titre": "Homme de paille",
-        "art": "L'",
+        "idFilm": 54730,
+        "titre": "Meurtre à l'italienne",
         "realisateurs": "Pietro Germi",
-        "annee": 1958,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "annee": 1959,
+        "duree": 115,
+        "format": "DCP"
+      },
+      {
+        "idConf": 31202,
+        "titre": "Dialogue avec David Perrault",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f42128"
+    "hashEvenement": "f54730c31202"
   },
   {
     "idSeance": 134096,
@@ -5071,30 +5081,6 @@
     "hashEvenement": "f32099"
   },
   {
-    "idSeance": 134011,
-    "idEvenement": 31135,
-    "dateHeure": "2024-10-19T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Pietro Germi",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 41959,
-        "titre": "Divorce à l'italienne",
-        "realisateurs": "Pietro Germi",
-        "annee": 1961,
-        "duree": 104,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f41959"
-  },
-  {
     "idSeance": 134022,
     "idEvenement": 31150,
     "dateHeure": "2024-10-19T17:00:00",
@@ -5120,9 +5106,9 @@
     "hashEvenement": "f32104"
   },
   {
-    "idSeance": 134012,
-    "idEvenement": 31130,
-    "dateHeure": "2024-10-19T18:45:00",
+    "idSeance": 134011,
+    "idEvenement": 31135,
+    "dateHeure": "2024-10-19T18:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5132,15 +5118,16 @@
     ],
     "items": [
       {
-        "idFilm": 42115,
-        "titre": "Beaucoup trop pour un seul homme",
+        "idFilm": 41959,
+        "titre": "Divorce à l'italienne",
         "realisateurs": "Pietro Germi",
-        "annee": 1966,
-        "duree": 90,
-        "format": "35 mm"
+        "annee": 1961,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f42115"
+    "hashEvenement": "f41959"
   },
   {
     "idSeance": 134023,
@@ -5165,6 +5152,29 @@
       }
     ],
     "hashEvenement": "f58647"
+  },
+  {
+    "idSeance": 134012,
+    "idEvenement": 31130,
+    "dateHeure": "2024-10-19T20:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42115,
+        "titre": "Beaucoup trop pour un seul homme",
+        "realisateurs": "Pietro Germi",
+        "annee": 1966,
+        "duree": 90,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f42115"
   },
   {
     "idSeance": 132412,
@@ -5442,7 +5452,7 @@
         "annee": 1947,
         "duree": 100,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41789"
@@ -5924,7 +5934,7 @@
         "annee": 1947,
         "duree": 133,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f42561"
@@ -6246,7 +6256,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
+    "mention": "Ouverture de la rétrospective. Séance présentée par Mårten Blomkvist et Nina Widerberg",
     "items": [
       {
         "idFilm": 55089,
@@ -6502,6 +6512,27 @@
       }
     ],
     "hashEvenement": "f43670"
+  },
+  {
+    "idSeance": 134183,
+    "idEvenement": 30974,
+    "dateHeure": "2024-11-02T16:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Bo Widerberg",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30974,
+        "titre": "Dialogue avec Mårten Blomkvist et Nina Widerberg",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30974"
   },
   {
     "idSeance": 132772,
@@ -7962,7 +7993,7 @@
         "annee": 1947,
         "duree": 100,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41789"
@@ -9101,7 +9132,7 @@
         "annee": 1947,
         "duree": 133,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f42561"

@@ -370,7 +370,7 @@
               "idSeance": 132648,
               "dateHeure": "2024-10-30T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Mårten Blomkvist et Nina Widerberg"
             }
           ]
         },
@@ -404,7 +404,44 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30974,
+          "content": [
+            {
+              "idConf": 30974,
+              "titre": "Dialogue avec Mårten Blomkvist et Nina Widerberg",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134183,
+              "dateHeure": "2024-11-02T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "avec Mårten Blomkvist et Nina Widerberg",
+        "dateHeure": "2024-11-02T16:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Un flic sur le toit",
+        "mention": "par Mårten Blomkvist et Nina Widerberg",
+        "dateHeure": "2024-10-30T20:00:00"
+      }
+    ]
+  }
 }

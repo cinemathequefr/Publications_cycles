@@ -98,7 +98,7 @@
           "seances": [
             {
               "idSeance": 134012,
-              "dateHeure": "2024-10-19T18:45:00",
+              "dateHeure": "2024-10-19T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -264,7 +264,7 @@
           "seances": [
             {
               "idSeance": 134011,
-              "dateHeure": "2024-10-19T16:30:00",
+              "dateHeure": "2024-10-19T18:30:00",
               "idSalle": "HL"
             }
           ]
@@ -323,8 +323,8 @@
           ],
           "seances": [
             {
-              "idSeance": 134010,
-              "dateHeure": "2024-10-19T14:30:00",
+              "idSeance": 134181,
+              "dateHeure": "2024-10-11T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -390,37 +390,56 @@
           ]
         },
         {
-          "idFilm": 54730,
-          "content": [
+          "groupe": [
             {
               "idFilm": 54730,
-              "ordre": 1,
-              "titre": "Meurtre à l'italienne",
-              "titreVo": "Un maledetto imbroglio",
-              "realisateurs": "Pietro Germi",
-              "pays": "Italie",
-              "annee": 1959,
-              "duree": 115,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Meurtre à l'italienne_ de Carlo Emilio Gadda.",
-              "generique": [
-                "Pietro Germi",
-                "Claudia Cardinale",
-                "Franco Fabrizi"
+              "content": [
+                {
+                  "idFilm": 54730,
+                  "ordre": 1,
+                  "titre": "Meurtre à l'italienne",
+                  "titreVo": "Un maledetto imbroglio",
+                  "realisateurs": "Pietro Germi",
+                  "pays": "Italie",
+                  "annee": 1959,
+                  "duree": 115,
+                  "version": "",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _Meurtre à l'italienne_ de Carlo Emilio Gadda.",
+                  "generique": [
+                    "Pietro Germi",
+                    "Claudia Cardinale",
+                    "Franco Fabrizi"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134037,
-              "dateHeure": "2024-10-11T18:00:00",
-              "idSalle": "HL"
             },
             {
-              "idSeance": 134075,
-              "dateHeure": "2024-10-27T16:00:00",
-              "idSalle": "JE"
+              "idEvenement": 31202,
+              "content": [
+                {
+                  "idConf": 31202,
+                  "ordre": 2,
+                  "titre": "Dialogue avec David Perrault",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 134180,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-10-19T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 134180,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 134075,
+                  "dateHeure": "2024-10-27T16:00:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -617,6 +636,13 @@
         "titre": "Qui êtes-vous... Pietro Germi ?",
         "mention": "par Sergio Toffetti",
         "dateHeure": "2024-10-18T19:00:00"
+      }
+    ],
+    "Dialogue": [
+      {
+        "titreFilms": "Meurtre à l'italienne",
+        "mention": "avec David Perrault",
+        "dateHeure": "2024-10-19T14:30:00"
       }
     ]
   }
