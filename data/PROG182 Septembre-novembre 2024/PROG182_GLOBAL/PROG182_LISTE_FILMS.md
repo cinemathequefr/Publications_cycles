@@ -48,7 +48,7 @@
   * Across the waters  
   * Anapidae  
   * Après le soleil  
-  * Belles cicatrices (Les)  
+  * Belles Cicatrices (Les)  
   * Ce qui appartient à César  
   * Cœurs perdus  
   * Domaine  
