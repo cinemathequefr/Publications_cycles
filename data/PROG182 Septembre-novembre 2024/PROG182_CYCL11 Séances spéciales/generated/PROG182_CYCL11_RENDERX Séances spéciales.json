@@ -68,6 +68,35 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Claire Angelini",
+      "items": [
+        {
+          "idFilm": 154884,
+          "content": [
+            {
+              "idFilm": 154884,
+              "ordre": 1,
+              "titre": "Jeanne fait des siennes",
+              "realisateurs": "Claire Angelini",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 92,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133824,
+              "dateHeure": "2024-09-11T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Une soirée avec Sergio Gobbi",
       "items": [
         {
@@ -126,28 +155,44 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Claire Angelini",
+      "titreSousCycle": "Anatole France / Micheline Presle",
       "items": [
         {
-          "idFilm": 154884,
+          "idEvenement": 30630,
           "content": [
             {
-              "idFilm": 154884,
+              "idFilm": 53516,
               "ordre": 1,
-              "titre": "Jeanne fait des siennes",
-              "realisateurs": "Claire Angelini",
+              "titre": "Ceux de chez nous",
+              "realisateurs": "Sacha Guitry",
               "pays": "France",
-              "annee": 2023,
-              "duree": 92,
+              "annee": 1914,
+              "duree": 21,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Sacha Guitry",
+                "Anatole France",
+                "Sarah Bernhardt"
+              ]
+            },
+            {
+              "idFilm": 46368,
+              "ordre": 2,
+              "titre": "Félicie Nanteuil",
+              "realisateurs": "Marc Allégret",
+              "pays": "France",
+              "annee": 1942,
+              "duree": 93,
               "version": "",
               "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 133824,
-              "dateHeure": "2024-09-11T20:30:00",
-              "idSalle": "JE"
+              "idSeance": 134194,
+              "dateHeure": "2024-10-14T20:00:00",
+              "idSalle": "GF"
             }
           ]
         }

@@ -430,9 +430,11 @@
   * Un chat, un chat  
   * Véritée zébrée (La)
 
-## Séances spéciales (10)
+## Séances spéciales (12)
 
+  * Ceux de chez nous  
   * Family portraits  
+  * Félicie Nanteuil  
   * Galets d'Étretat (Les)  
   * Godzilla  
   * Godzilla contre Mecanik Monster  
