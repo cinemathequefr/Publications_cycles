@@ -43,6 +43,28 @@
 
   * Carnet de notes pour une Orestie africaine
 
+## Aujourd'hui le cinéma (19)
+
+  * Across the waters  
+  * Anapidae  
+  * Après le soleil  
+  * Belles cicatrices (Les)  
+  * Ce qui appartient à César  
+  * Cœurs perdus  
+  * Domaine  
+  * En chien  
+  * Lit de punaise  
+  * luna de hierro (Una)  
+  * Mont Noir  
+  * Na Marei  
+  * Otro Sol  
+  * Passion selon Karim (La)  
+  * Plus douce est la nuit  
+  * Samantha Chérie  
+  * Te quiero ma Vahiné  
+  * Trouble-fête  
+  * Un jour j'aurai une île
+
 ## Bo Widerberg (13)
 
   * Ådalen 31  
