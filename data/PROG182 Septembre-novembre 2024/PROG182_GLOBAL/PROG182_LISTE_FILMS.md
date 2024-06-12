@@ -122,6 +122,11 @@
   * Ultime Razzia (L')  
   * Un après-midi de chien
 
+## Ciné-club de Frédéric Bonnaud (2)
+
+  * 8½  
+  * Trou (Le)
+
 ## Claude Lelouch (26)
 
   * Aventure, c'est l'aventure (L')  
@@ -289,9 +294,8 @@
   * Voleur de Bagdad (Le)  
   * West Side Story
 
-## Marcello Mastroianni (25)
+## Marcello Mastroianni (24)
 
-  * 8½  
   * Allonsanfàn  
   * Bel Antonio (Le)  
   * Camarades (Les)  

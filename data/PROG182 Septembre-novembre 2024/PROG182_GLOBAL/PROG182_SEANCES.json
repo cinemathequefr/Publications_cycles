@@ -1329,7 +1329,8 @@
         "art": "The",
         "realisateurs": "Douglas Buck",
         "annee": 2011,
-        "duree": 10
+        "duree": 15,
+        "format": "Numérique"
       },
       {
         "idFilm": 100023,
@@ -1622,6 +1623,14 @@
     "salle": "HL",
     "cycle": [
       [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
+      ],
+      [
         "Marcello Mastroianni",
         "Les films"
       ]
@@ -1635,9 +1644,15 @@
         "duree": 137,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 31102,
+        "titre": "Dialogue avec Frederic Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f45182"
+    "hashEvenement": "f45182c31102"
   },
   {
     "idSeance": 133980,
@@ -3402,7 +3417,7 @@
   {
     "idSeance": 131842,
     "idEvenement": 30844,
-    "dateHeure": "2024-09-28T18:00:00",
+    "dateHeure": "2024-09-28T18:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3448,7 +3463,7 @@
   {
     "idSeance": 131843,
     "idEvenement": 30851,
-    "dateHeure": "2024-09-28T20:15:00",
+    "dateHeure": "2024-09-28T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5014,31 +5029,6 @@
     "hashEvenement": "f41762"
   },
   {
-    "idSeance": 134091,
-    "idEvenement": 31143,
-    "dateHeure": "2024-10-14T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Pietro Germi",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 41953,
-        "titre": "Tanière des brigands",
-        "art": "La",
-        "realisateurs": "Pietro Germi",
-        "annee": 1952,
-        "duree": 93,
-        "version": "VO",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f41953"
-  },
-  {
     "idSeance": 132243,
     "idEvenement": 31208,
     "dateHeure": "2024-10-14T19:00:00",
@@ -5060,30 +5050,6 @@
       }
     ],
     "hashEvenement": "f154918"
-  },
-  {
-    "idSeance": 132242,
-    "idEvenement": 30785,
-    "dateHeure": "2024-10-14T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Darejan Omirbaev",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154832,
-        "titre": "Poet",
-        "realisateurs": "Darejan Omirbaev",
-        "annee": 2021,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154832"
   },
   {
     "idSeance": 132274,
@@ -5108,6 +5074,31 @@
       }
     ],
     "hashEvenement": "f107041"
+  },
+  {
+    "idSeance": 134091,
+    "idEvenement": 31143,
+    "dateHeure": "2024-10-16T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41953,
+        "titre": "Tanière des brigands",
+        "art": "La",
+        "realisateurs": "Pietro Germi",
+        "annee": 1952,
+        "duree": 93,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f41953"
   },
   {
     "idSeance": 134092,
@@ -5135,6 +5126,30 @@
     "hashEvenement": "f97782"
   },
   {
+    "idSeance": 132242,
+    "idEvenement": 30785,
+    "dateHeure": "2024-10-16T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Darejan Omirbaev",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154832,
+        "titre": "Poet",
+        "realisateurs": "Darejan Omirbaev",
+        "annee": 2021,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154832"
+  },
+  {
     "idSeance": 134007,
     "idEvenement": 31139,
     "dateHeure": "2024-10-17T18:30:00",
@@ -5156,6 +5171,40 @@
       }
     ],
     "hashEvenement": "f53225"
+  },
+  {
+    "idSeance": 133934,
+    "idEvenement": 31100,
+    "dateHeure": "2024-10-17T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46660,
+        "titre": "Trou",
+        "art": "Le",
+        "realisateurs": "Jacques Becker",
+        "annee": 1959,
+        "duree": 115,
+        "format": "DCP"
+      },
+      {
+        "idConf": 31101,
+        "titre": "Dialogue avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f46660c31101"
   },
   {
     "idSeance": 134093,
@@ -7042,7 +7091,7 @@
         "art": "Les",
         "realisateurs": "Jun Fukuda",
         "annee": 1967,
-        "duree": 83,
+        "duree": 85,
         "version": "VF",
         "format": "35 mm"
       }
@@ -9170,7 +9219,7 @@
         "L'abominable hommage"
       ]
     ],
-    "mention": "Accompagnement musical par Delphine Voiry-Humbert et Camilo Restrepo",
+    "mention": "Séance présentée par Delphine Voiry-Humbert et Camilo Restrepo",
     "items": [
       {
         "idFilm": 154895,
@@ -9580,6 +9629,10 @@
     "cycle": [
       [
         "Michael Powell",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
         "Les films"
       ]
     ],
