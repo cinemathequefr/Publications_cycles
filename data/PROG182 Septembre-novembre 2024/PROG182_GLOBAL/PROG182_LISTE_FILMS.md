@@ -177,7 +177,7 @@
   * Inondation (L')  
   * News from Chantal Akerman  
   * Portrait de Chantal Akerman  
-  * S'il vous plaît, la mer ?
+  * S'il vous plaît... la mer ?
 
 ## George Cukor (46)
 
@@ -228,7 +228,7 @@
   * What Price Hollywood?  
   * Zaza
 
-## James Cameron (7)
+## James Cameron (8)
 
   * Abyss  
   * Aliens, le retour  
@@ -236,7 +236,8 @@
   * Avatar : La Voie de l'eau  
   * Terminator  
   * Terminator 2 : Le Jugement dernier  
-  * Titanic
+  * Titanic  
+  * True Lies
 
 ## Laurent Achard (13)
 

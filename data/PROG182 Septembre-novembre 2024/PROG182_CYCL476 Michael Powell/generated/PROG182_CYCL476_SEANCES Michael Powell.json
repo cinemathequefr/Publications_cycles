@@ -416,7 +416,7 @@
     "typeEvenement": 13,
     "idEvenement": 21656,
     "idSeance": 132837,
-    "dateHeure": "2024-11-06T19:30:00",
+    "dateHeure": "2024-11-06T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -439,7 +439,7 @@
     "typeEvenement": 13,
     "idEvenement": 21658,
     "idSeance": 132838,
-    "dateHeure": "2024-11-06T21:30:00",
+    "dateHeure": "2024-11-06T20:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -544,29 +544,6 @@
         "idSeance": 132953,
         "idCopie": 8456,
         "duree": 105,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2201,
-    "typeEvenement": 13,
-    "idEvenement": 21657,
-    "idSeance": 132957,
-    "dateHeure": "2024-11-09T15:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 90,
-    "items": [
-      {
-        "idFilm": 107584,
-        "ordre": 1,
-        "idSeance": 132957,
-        "idCopie": 28189,
-        "duree": 63,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -697,7 +674,7 @@
     "typeEvenement": 13,
     "idEvenement": 21660,
     "idSeance": 132976,
-    "dateHeure": "2024-11-10T18:00:00",
+    "dateHeure": "2024-11-10T18:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -742,8 +719,8 @@
     "idCategorie": 2201,
     "typeEvenement": 13,
     "idEvenement": 21647,
-    "idSeance": 133854,
-    "dateHeure": "2024-11-13T18:00:00",
+    "idSeance": 132987,
+    "dateHeure": "2024-11-11T18:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -753,7 +730,7 @@
       {
         "idFilm": 41077,
         "ordre": 1,
-        "idSeance": 133854,
+        "idSeance": 132987,
         "idCopie": 20213,
         "duree": 81,
         "version": "VOSTF",
@@ -762,11 +739,34 @@
       {
         "idFilm": 107632,
         "ordre": 2,
-        "idSeance": 133854,
+        "idSeance": 132987,
         "idCopie": 27596,
         "duree": 25,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2201,
+    "typeEvenement": 13,
+    "idEvenement": 21690,
+    "idSeance": 134197,
+    "dateHeure": "2024-11-11T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 41080,
+        "ordre": 1,
+        "idSeance": 134197,
+        "idCopie": 20202,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -791,29 +791,6 @@
         "duree": 101,
         "version": "VOSTF",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2201,
-    "typeEvenement": 13,
-    "idEvenement": 21690,
-    "idSeance": 133025,
-    "dateHeure": "2024-11-13T20:15:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 41080,
-        "ordre": 1,
-        "idSeance": 133025,
-        "idCopie": 20202,
-        "duree": 109,
-        "version": "VOSTF",
-        "format": "35 mm"
       }
     ]
   },
@@ -1092,9 +1069,55 @@
   {
     "idCategorie": 2201,
     "typeEvenement": 13,
+    "idEvenement": 21694,
+    "idSeance": 134032,
+    "dateHeure": "2024-11-21T17:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 42029,
+        "ordre": 1,
+        "idSeance": 134032,
+        "idCopie": 5915,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2201,
+    "typeEvenement": 13,
+    "idEvenement": 21665,
+    "idSeance": 133346,
+    "dateHeure": "2024-11-21T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 35996,
+        "ordre": 1,
+        "idSeance": 133346,
+        "idCopie": 20208,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 2201,
+    "typeEvenement": 13,
     "idEvenement": 21693,
-    "idSeance": 133852,
-    "dateHeure": "2024-11-21T18:30:00",
+    "idSeance": 134198,
+    "dateHeure": "2024-11-23T14:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -1104,7 +1127,7 @@
       {
         "idFilm": 70991,
         "ordre": 1,
-        "idSeance": 133852,
+        "idSeance": 134198,
         "idCopie": 27070,
         "duree": 101,
         "version": "VOSTF",
@@ -1117,7 +1140,7 @@
     "typeEvenement": 13,
     "idEvenement": 21654,
     "idSeance": 133332,
-    "dateHeure": "2024-11-23T14:30:00",
+    "dateHeure": "2024-11-23T16:45:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -1138,32 +1161,9 @@
   {
     "idCategorie": 2201,
     "typeEvenement": 13,
-    "idEvenement": 21694,
-    "idSeance": 134032,
-    "dateHeure": "2024-11-23T16:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 42029,
-        "ordre": 1,
-        "idSeance": 134032,
-        "idCopie": 5915,
-        "duree": 123,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 2201,
-    "typeEvenement": 13,
     "idEvenement": 21688,
     "idSeance": 134033,
-    "dateHeure": "2024-11-23T19:00:00",
+    "dateHeure": "2024-11-23T18:45:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -1230,21 +1230,21 @@
   {
     "idCategorie": 2201,
     "typeEvenement": 13,
-    "idEvenement": 21665,
-    "idSeance": 133346,
-    "dateHeure": "2024-11-24T20:00:00",
+    "idEvenement": 21657,
+    "idSeance": 134199,
+    "dateHeure": "2024-11-24T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 35996,
+        "idFilm": 107584,
         "ordre": 1,
-        "idSeance": 133346,
-        "idCopie": 20208,
-        "duree": 101,
+        "idSeance": 134199,
+        "idCopie": 28189,
+        "duree": 63,
         "version": "VOSTF",
         "format": "DCP"
       }
