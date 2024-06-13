@@ -10,7 +10,7 @@
   * Autour de La Fin du monde  
   * Autour de La Roue  
   * Autour de Napoléon  
-  * Barbe-Rousse  
+  * Barberousse  
   * Capitaine Fracasse (Le)  
   * Château de nuages  
   * Cyrano et d'Artagnan  
@@ -46,7 +46,7 @@
 ## Aujourd'hui le cinéma (20)
 
   * Across the waters  
-  * Anapidae  
+  * Anapidae (appelle-moi)  
   * Après le soleil  
   * Belles Cicatrices (Les)  
   * Ce qui appartient à César  
@@ -82,7 +82,7 @@
   * Un flic sur le toit  
   * Victoria
 
-## Bob Rafelson (10)
+## Bob Rafelson (9)
 
   * Aux sources du Nil  
   * Blood and Wine  
@@ -92,8 +92,7 @@
   * King of Marvin Gardens (The)  
   * Man Trouble  
   * Sans motif apparent  
-  * Stay Hungry  
-  * Veuve noire (La)
+  * Stay Hungry
 
 ## Casses, hold-ups et braquages en 25 indispensables (25)
 
@@ -379,7 +378,7 @@
   * Marin masqué (Le)  
   * Working Girls
 
-## Pietro Germi (18)
+## Pietro Germi (19)
 
   * Alfredo Alfredo  
   * Au nom de la loi  
@@ -394,6 +393,7 @@
   * Jeunesse perdue  
   * Mademoiselle la présidente  
   * Meurtre à l'italienne  
+  * Scrittori e poeti anglosassoni a Roma  
   * Séduite et abandonnée  
   * Serafino ou l'amour aux champs  
   * Tanière des brigands (La)  

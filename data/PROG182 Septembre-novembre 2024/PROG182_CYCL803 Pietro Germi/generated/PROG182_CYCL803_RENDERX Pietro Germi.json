@@ -157,7 +157,8 @@
             {
               "idSeance": 134090,
               "dateHeure": "2024-10-10T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
             },
             {
               "idSeance": 134099,
@@ -334,7 +335,7 @@
           "content": [
             {
               "idFilm": 41970,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Jeunesse perdue",
               "titreVo": "Gioventù perduta",
               "realisateurs": "Pietro Germi",
@@ -347,6 +348,15 @@
                 "Massimo Girotti",
                 "Carla Del Poggio",
                 "Jacques Sernas"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Scrittori e poeti anglosassoni a Roma",
+                    null
+                  ]
+                ],
+                []
               ]
             }
           ],
@@ -441,6 +451,39 @@
                   "mentionAssoc": "Film seul"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "idFilm": 154923,
+          "content": [
+            {
+              "idFilm": 154923,
+              "ordre": 1,
+              "titre": "Scrittori e poeti anglosassoni a Roma",
+              "realisateurs": "Pietro Germi",
+              "pays": "Italie",
+              "annee": 1947,
+              "duree": 9,
+              "version": "STF",
+              "format": "DCP",
+              "miniTexte": "L'une des premières œuvres de Germi, retrouvée dans les archives de la Cineteca Nazionale, un court documentaire en hommage aux Alliés britanniques et américains.",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Jeunesse perdue",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134038,
+              "dateHeure": "2024-10-12T17:15:00",
+              "idSalle": "HL"
             }
           ]
         },
