@@ -281,21 +281,25 @@
   {
     "idCategorie": 3432,
     "typeEvenement": 13,
-    "idEvenement": 31207,
-    "idSeance": 132801,
+    "idEvenement": 31215,
+    "idSeance": 134207,
     "dateHeure": "2024-11-04T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 75,
+    "dureeSeance": 120,
     "items": [
       {
         "idFilm": 154917,
-        "ordre": 1,
-        "idSeance": 132801,
-        "idCopie": 28378,
-        "duree": 43,
+        "ordre": 1
+      },
+      {
+        "idFilm": 154920,
+        "ordre": 2,
+        "idSeance": 134207,
+        "idCopie": 28380,
+        "duree": 81,
         "version": "",
         "format": "DCP"
       }

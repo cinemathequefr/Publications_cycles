@@ -43,7 +43,7 @@
 
   * Carnet de notes pour une Orestie africaine
 
-## Aujourd'hui le cinéma (19)
+## Aujourd'hui le cinéma (20)
 
   * Across the waters  
   * Anapidae  
@@ -51,6 +51,7 @@
   * Belles Cicatrices (Les)  
   * Ce qui appartient à César  
   * Cœurs perdus  
+  * Corps du délit (Le)  
   * Domaine  
   * En chien  
   * Lit de punaise  
