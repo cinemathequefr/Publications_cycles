@@ -89,7 +89,7 @@
   {
     "idCategorie": 3374,
     "typeEvenement": 13,
-    "idEvenement": 31060,
+    "idEvenement": 31223,
     "idSeance": 133871,
     "dateHeure": "2024-09-08T15:00:00",
     "idSalle": [
@@ -117,13 +117,13 @@
         "format": ""
       },
       {
-        "idFilm": 76313,
+        "idFilm": 121778,
         "ordre": 3,
         "idSeance": 133871,
-        "idCopie": 28229,
+        "idCopie": 3173,
         "duree": 30,
         "version": "",
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 154889,
@@ -190,9 +190,9 @@
     "mention": "Séance présentée par Patricia Mazuy"
   },
   {
-    "idCategorie": 3375,
+    "idCategorie": 3374,
     "typeEvenement": 13,
-    "idEvenement": 31056,
+    "idEvenement": 31223,
     "idSeance": 133952,
     "dateHeure": "2024-09-11T18:00:00",
     "idSalle": [
@@ -202,8 +202,26 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 121778,
+        "idFilm": 75543,
         "ordre": 1,
+        "idSeance": 133952,
+        "idCopie": 28228,
+        "duree": 5,
+        "version": "",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 76312,
+        "ordre": 2,
+        "idSeance": 133952,
+        "idCopie": 28227,
+        "duree": 30,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 121778,
+        "ordre": 3,
         "idSeance": 133952,
         "idCopie": 3173,
         "duree": 30,
@@ -211,13 +229,22 @@
         "format": "DCP"
       },
       {
-        "idFilm": 154838,
-        "ordre": 2,
+        "idFilm": 154889,
+        "ordre": 4,
         "idSeance": 133952,
-        "idCopie": 28027,
-        "duree": 52,
+        "idCopie": 28251,
+        "duree": 3,
         "version": "",
         "format": "DCP"
+      },
+      {
+        "idFilm": 91824,
+        "ordre": 5,
+        "idSeance": 133952,
+        "idCopie": 26874,
+        "duree": 9,
+        "version": "",
+        "format": "35 mm"
       }
     ],
     "mention": "Séance suivie d'une discussion avec Pierre Sénélas, Pascal Cervo et Mireille Roussel"

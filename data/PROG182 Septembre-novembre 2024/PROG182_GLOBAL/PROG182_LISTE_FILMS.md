@@ -241,7 +241,7 @@
   * Titanic  
   * True Lies
 
-## Laurent Achard (13)
+## Laurent Achard (11)
 
   * Brisseau, 251 rue Marcadet  
   * De ma fenêtre  
@@ -253,9 +253,7 @@
   * Peur, petit chasseur (La)  
   * Plus qu'hier, moins que demain  
   * Qu'en savent les morts ?  
-  * Tableau (Le)  
-  * Un, parfois deux...  
-  * Une odeur de géranium
+  * Tableau (Le)
 
 ## MK2 (18)
 

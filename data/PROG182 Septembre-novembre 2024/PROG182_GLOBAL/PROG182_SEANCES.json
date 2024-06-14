@@ -1114,7 +1114,7 @@
   },
   {
     "idSeance": 133871,
-    "idEvenement": 31060,
+    "idEvenement": 31223,
     "dateHeure": "2024-09-08T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -1141,12 +1141,13 @@
         "duree": 30
       },
       {
-        "idFilm": 76313,
-        "titre": "Une odeur de géranium",
+        "idFilm": 121778,
+        "titre": "Tableau",
+        "art": "Le",
         "realisateurs": "Laurent Achard",
-        "annee": 1997,
+        "annee": 2012,
         "duree": 30,
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 154889,
@@ -1166,7 +1167,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f75543f76312f76313f154889f91824"
+    "hashEvenement": "f75543f76312f121778f154889f91824"
   },
   {
     "idSeance": 133889,
@@ -1403,17 +1404,32 @@
   },
   {
     "idSeance": 133952,
-    "idEvenement": 31056,
+    "idEvenement": 31223,
     "dateHeure": "2024-09-11T18:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Laurent Achard",
-        "Documentaires sur le cinéma"
+        "Courts métrages"
       ]
     ],
     "mention": "Séance suivie d'une discussion avec Pierre Sénélas, Pascal Cervo et Mireille Roussel",
     "items": [
+      {
+        "idFilm": 75543,
+        "titre": "Qu'en savent les morts ?",
+        "realisateurs": "Laurent Achard",
+        "annee": 1990,
+        "duree": 5,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 76312,
+        "titre": "Dimanche ou les fantômes",
+        "realisateurs": "Laurent Achard",
+        "annee": 1994,
+        "duree": 30
+      },
       {
         "idFilm": 121778,
         "titre": "Tableau",
@@ -1424,15 +1440,24 @@
         "format": "DCP"
       },
       {
-        "idFilm": 154838,
-        "titre": "Un, parfois deux...",
+        "idFilm": 154889,
+        "titre": "De ma fenêtre",
         "realisateurs": "Laurent Achard",
-        "annee": 2016,
-        "duree": 52,
+        "annee": 2021,
+        "duree": 3,
         "format": "DCP"
+      },
+      {
+        "idFilm": 91824,
+        "titre": "Peur, petit chasseur",
+        "art": "La",
+        "realisateurs": "Laurent Achard",
+        "annee": 2003,
+        "duree": 9,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f121778f154838"
+    "hashEvenement": "f75543f76312f121778f154889f91824"
   },
   {
     "idSeance": 133635,

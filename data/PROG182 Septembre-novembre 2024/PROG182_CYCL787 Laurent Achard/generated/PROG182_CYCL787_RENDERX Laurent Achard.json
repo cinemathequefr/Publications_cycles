@@ -131,7 +131,7 @@
       "titreSousCycle": "Courts métrages",
       "items": [
         {
-          "idEvenement": 31060,
+          "idEvenement": 31223,
           "content": [
             {
               "idFilm": 75543,
@@ -165,19 +165,20 @@
               ]
             },
             {
-              "idFilm": 76313,
+              "idFilm": 121778,
               "ordre": 3,
-              "titre": "Une odeur de géranium",
+              "titre": "Tableau",
+              "art": "Le",
               "realisateurs": "Laurent Achard",
               "pays": "France",
-              "annee": 1997,
+              "annee": 2012,
               "duree": 30,
               "version": "",
-              "format": "35 mm",
+              "format": "DCP",
               "generique": [
-                "Babet Ferrier",
-                "Vincent Taveau",
-                "Jérôme Le Paulmier"
+                "Thérèse Roussel",
+                "Fred Personne",
+                "Pascal Cervo"
               ]
             },
             {
@@ -215,6 +216,12 @@
               "dateHeure": "2024-09-08T15:00:00",
               "idSalle": "GF",
               "mention": "Séance présentée par Philippe Grivel, Frank Beauvais et Martial Salomon"
+            },
+            {
+              "idSeance": 133952,
+              "dateHeure": "2024-09-11T18:00:00",
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Pierre Sénélas, Pascal Cervo et Mireille Roussel"
             }
           ]
         }
@@ -267,78 +274,6 @@
               "mention": "Séance présentée par Patricia Mazuy"
             }
           ]
-        },
-        {
-          "idFilm": 121778,
-          "content": [
-            {
-              "idFilm": 121778,
-              "ordre": 1,
-              "titre": "Tableau",
-              "art": "Le",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2012,
-              "duree": 30,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Thérèse Roussel",
-                "Fred Personne",
-                "Pascal Cervo"
-              ],
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Un, parfois deux...",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133952,
-              "dateHeure": "2024-09-11T18:00:00",
-              "idSalle": "GF",
-              "mention": "Séance suivie d'une discussion avec Pierre Sénélas, Pascal Cervo et Mireille Roussel"
-            }
-          ]
-        },
-        {
-          "idFilm": 154838,
-          "content": [
-            {
-              "idFilm": 154838,
-              "ordre": 2,
-              "titre": "Un, parfois deux...",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2016,
-              "duree": 52,
-              "version": "",
-              "format": "DCP",
-              "precedeSuivi": [
-                [
-                  [
-                    "Tableau",
-                    "Le"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133952,
-              "dateHeure": "2024-09-11T18:00:00",
-              "idSalle": "GF",
-              "mention": "Séance suivie d'une discussion avec Pierre Sénélas, Pascal Cervo et Mireille Roussel"
-            }
-          ]
         }
       ]
     }
@@ -346,7 +281,7 @@
   "syntheseAction": {
     "Discussion": [
       {
-        "titreFilms": "Le Tableau / Un, parfois deux...",
+        "titreFilms": "Qu'en savent les morts ? / Dimanche ou les fantômes / Le Tableau / De ma fenêtre / La Peur, petit chasseur",
         "mention": "avec Pierre Sénélas, Pascal Cervo et Mireille Roussel",
         "dateHeure": "2024-09-11T18:00:00"
       }
@@ -373,7 +308,7 @@
         "dateHeure": "2024-09-07T21:15:00"
       },
       {
-        "titreFilms": "Qu'en savent les morts ? / Dimanche ou les fantômes / Une odeur de géranium / De ma fenêtre / La Peur, petit chasseur",
+        "titreFilms": "Qu'en savent les morts ? / Dimanche ou les fantômes / Le Tableau / De ma fenêtre / La Peur, petit chasseur",
         "mention": "par Philippe Grivel, Frank Beauvais et Martial Salomon",
         "dateHeure": "2024-09-08T15:00:00"
       },
