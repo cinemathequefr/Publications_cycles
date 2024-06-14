@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Abel Gance (36)
+## Abel Gance (37)
 
   * 14 juillet 1953  
   * A l'ombre des grands chênes (Abel Gance)  
@@ -27,6 +27,7 @@
   * Lucrèce Borgia  
   * Magirama (J'accuse)  
   * Mater dolorosa  
+  * Napoléon Bonaparte  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
   * Paradis perdu  

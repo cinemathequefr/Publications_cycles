@@ -25,33 +25,9 @@
     "hashEvenement": "f31506"
   },
   {
-    "idSeance": 133768,
-    "idEvenement": 30711,
-    "dateHeure": "2024-08-29T16:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "George Cukor",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 79003,
-        "titre": "Girls About Town",
-        "realisateurs": "George Cukor",
-        "annee": 1931,
-        "duree": 80,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f79003"
-  },
-  {
     "idSeance": 133779,
     "idEvenement": 30712,
-    "dateHeure": "2024-08-29T18:00:00",
+    "dateHeure": "2024-08-29T16:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -71,6 +47,30 @@
       }
     ],
     "hashEvenement": "f80552"
+  },
+  {
+    "idSeance": 133768,
+    "idEvenement": 30711,
+    "dateHeure": "2024-08-29T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "George Cukor",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79003,
+        "titre": "Girls About Town",
+        "realisateurs": "George Cukor",
+        "annee": 1931,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f79003"
   },
   {
     "idSeance": 133650,
@@ -425,8 +425,7 @@
         "titre": "Austerlitz",
         "realisateurs": "Abel Gance",
         "annee": 1959,
-        "duree": 137,
-        "format": "35 mm"
+        "duree": 165
       }
     ],
     "hashEvenement": "f48585"
@@ -2667,6 +2666,29 @@
     "hashEvenement": "f73466f73467f154301"
   },
   {
+    "idSeance": 131658,
+    "idEvenement": 31212,
+    "dateHeure": "2024-09-21T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48686,
+        "titre": "Napoléon Bonaparte",
+        "realisateurs": "Abel Gance",
+        "annee": 1935,
+        "duree": 132,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f48686"
+  },
+  {
     "idSeance": 133781,
     "idEvenement": 30725,
     "dateHeure": "2024-09-21T18:00:00",
@@ -2977,7 +2999,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Emmanuelle Devos",
+    "mention": "Séance présentée par Emmanuelle Devos et Mathieu Amalric",
     "items": [
       {
         "idFilm": 122494,
@@ -6156,7 +6178,7 @@
         "annee": 1945,
         "duree": 92,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idConf": 31067,
@@ -6888,8 +6910,8 @@
     "hashEvenement": "f94773"
   },
   {
-    "idSeance": 132767,
-    "idEvenement": 30953,
+    "idSeance": 134214,
+    "idEvenement": 30951,
     "dateHeure": "2024-11-02T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -6900,16 +6922,16 @@
     ],
     "items": [
       {
-        "idFilm": 58122,
-        "titre": "Joe Hill",
+        "idFilm": 44983,
+        "titre": "Elvira Madigan",
         "realisateurs": "Bo Widerberg",
-        "annee": 1970,
-        "duree": 113,
+        "annee": 1967,
+        "duree": 91,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f58122"
+    "hashEvenement": "f44983"
   },
   {
     "idSeance": 132771,
@@ -6982,9 +7004,9 @@
     "hashEvenement": "f42253"
   },
   {
-    "idSeance": 132769,
-    "idEvenement": 30951,
-    "dateHeure": "2024-11-02T19:00:00",
+    "idSeance": 134215,
+    "idEvenement": 30953,
+    "dateHeure": "2024-11-02T18:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6994,16 +7016,16 @@
     ],
     "items": [
       {
-        "idFilm": 44983,
-        "titre": "Elvira Madigan",
+        "idFilm": 58122,
+        "titre": "Joe Hill",
         "realisateurs": "Bo Widerberg",
-        "annee": 1967,
-        "duree": 91,
+        "annee": 1970,
+        "duree": 113,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f44983"
+    "hashEvenement": "f58122"
   },
   {
     "idSeance": 132773,
@@ -7666,8 +7688,8 @@
         "realisateurs": "Ludwig Berger, Tim Whelan, Michael Powell",
         "annee": 1940,
         "duree": 106,
-        "version": "VO",
-        "format": "35 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f42982"
@@ -8141,7 +8163,7 @@
         "realisateurs": "Ludwig Berger, Tim Whelan, Michael Powell",
         "annee": 1940,
         "duree": 106,
-        "version": "VF",
+        "version": "VO",
         "format": "DCP"
       }
     ],
@@ -8783,7 +8805,7 @@
         "annee": 1945,
         "duree": 92,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f42007"
