@@ -68,7 +68,7 @@
   * Trouble-fête  
   * Un jour j'aurai une île
 
-## Bo Widerberg (13)
+## Bo Widerberg (14)
 
   * Ådalen 31  
   * Amour 65  
@@ -81,10 +81,11 @@
   * Liv till varje pris  
   * Péché suédois (Le)  
   * Quartier du corbeau (Le)  
+  * Tom Foot  
   * Un flic sur le toit  
   * Victoria
 
-## Bob Rafelson (9)
+## Bob Rafelson (10)
 
   * Aux sources du Nil  
   * Blood and Wine  
@@ -94,7 +95,8 @@
   * King of Marvin Gardens (The)  
   * Man Trouble  
   * Sans motif apparent  
-  * Stay Hungry
+  * Stay Hungry  
+  * Veuve noire (La)
 
 ## Casses, hold-ups et braquages en 25 indispensables (25)
 
@@ -405,14 +407,14 @@
   * Bertha Boxcar  
   * Bloody Mama  
   * Cinq femmes à abattre  
-  * Cock Fighter  
-  * Death Race 2000  
-  * Frankenstein Unbound  
-  * Horrible Cas du docteur X (L')  
+  * Cockfighter  
+  * Course à la mort de l'an 2000 (La)  
+  * Horrible cas du docteur X (L')  
   * Intruder (The)  
   * It Conquered the World  
   * Masque de la mort rouge (Le)  
   * Petite boutique des horreurs (La)  
+  * Résurrection de Frankenstein (La)  
   * Trip (The)
 
 ## Sophie Fillières (14)
