@@ -132,32 +132,49 @@
           ]
         },
         {
-          "idFilm": 44983,
-          "content": [
+          "groupe": [
             {
               "idFilm": 44983,
-              "ordre": 1,
-              "titre": "Elvira Madigan",
-              "realisateurs": "Bo Widerberg",
-              "pays": "Suède",
-              "annee": 1967,
-              "duree": 91,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Thommy Berggren",
-                "Pia Degermark",
-                "Lennart Malmer"
-              ],
-              "isFocus": true,
-              "miniTexte": "D'après un célèbre fait divers qui défraya la chronique à la fin du XIX<sup>e</sup> siècle, la fugue amoureuse d'une funambule danoise et d'un lieutenant suédois, marié et père de deux enfants. Widerberg délaisse le noir et blanc et le naturalisme de la ville pour filmer un hymne à l'amour fou, dans une suite de tableaux impressionnistes aussi sensuels que bucoliques. Au cœur d'une nature hédoniste, le couple formé par Pia Degermark (Prix d'interprétation à Cannes) et Thommy Berggren savoure l'ivresse d'un bel été à l'éclat du bonheur éphémère. Le film est un tel succès à sa sortie que le Concerto pour piano n°21 de Mozart, qui en constitue l'espace sonore, ressort dans une édition titrée Elvira Madigan."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 44983,
+                  "ordre": 1,
+                  "titre": "Elvira Madigan",
+                  "realisateurs": "Bo Widerberg",
+                  "pays": "Suède",
+                  "annee": 1967,
+                  "duree": 91,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Thommy Berggren",
+                    "Pia Degermark",
+                    "Lennart Malmer"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "D'après un célèbre fait divers qui défraya la chronique à la fin du XIX<sup>e</sup> siècle, la fugue amoureuse d'une funambule danoise et d'un lieutenant suédois, marié et père de deux enfants. Widerberg délaisse le noir et blanc et le naturalisme de la ville pour filmer un hymne à l'amour fou, dans une suite de tableaux impressionnistes aussi sensuels que bucoliques. Au cœur d'une nature hédoniste, le couple formé par Pia Degermark (Prix d'interprétation à Cannes) et Thommy Berggren savoure l'ivresse d'un bel été à l'éclat du bonheur éphémère. Le film est un tel succès à sa sortie que le Concerto pour piano n°21 de Mozart, qui en constitue l'espace sonore, ressort dans une édition titrée Elvira Madigan."
+                }
+              ]
+            },
             {
-              "idSeance": 134214,
-              "dateHeure": "2024-11-02T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 30974,
+              "content": [
+                {
+                  "idConf": 30974,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Mårten Blomkvist et Nina Widerberg",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 134214,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-11-02T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -404,37 +421,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30974,
-          "content": [
-            {
-              "idConf": 30974,
-              "titre": "Dialogue avec Mårten Blomkvist et Nina Widerberg",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134183,
-              "dateHeure": "2024-11-02T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Elvira Madigan",
         "mention": "avec Mårten Blomkvist et Nina Widerberg",
-        "dateHeure": "2024-11-02T16:30:00"
+        "dateHeure": "2024-11-02T14:30:00"
       }
     ],
     "Séance présentée": [

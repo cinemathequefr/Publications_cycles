@@ -3083,6 +3083,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Agathe Bonitzer et Melvil Poupaud",
     "items": [
       {
         "idFilm": 138499,
@@ -6943,6 +6944,10 @@
       [
         "Bo Widerberg",
         "Les films"
+      ],
+      [
+        "Bo Widerberg",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6954,9 +6959,15 @@
         "duree": 91,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 30974,
+        "titre": "Dialogue avec Mårten Blomkvist et Nina Widerberg",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f44983"
+    "hashEvenement": "f44983c30974"
   },
   {
     "idSeance": 132771,
@@ -6983,27 +6994,6 @@
     "hashEvenement": "f43670"
   },
   {
-    "idSeance": 134183,
-    "idEvenement": 30974,
-    "dateHeure": "2024-11-02T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Bo Widerberg",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 30974,
-        "titre": "Dialogue avec Mårten Blomkvist et Nina Widerberg",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c30974"
-  },
-  {
     "idSeance": 132772,
     "idEvenement": 21679,
     "dateHeure": "2024-11-02T17:15:00",
@@ -7022,8 +7012,8 @@
         "realisateurs": "Michael Powell",
         "annee": 1960,
         "duree": 110,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "version": "VO",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f42253"
@@ -8246,7 +8236,7 @@
         "annee": 1960,
         "duree": 101,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       },
       {
         "idConf": 31103,
@@ -9158,7 +9148,7 @@
         "annee": 1960,
         "duree": 101,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f35996"
