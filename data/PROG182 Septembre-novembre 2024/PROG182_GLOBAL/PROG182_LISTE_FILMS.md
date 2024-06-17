@@ -109,14 +109,14 @@
   * Heat  
   * Inconnu de Las Vegas (L')  
   * Inconnus dans la ville (Les)  
-  * Inside Man – L'Homme de l'intérieur  
+  * Inside Man : L'Homme de l'intérieur  
   * Mélodie en sous-sol  
   * Mise à sac  
   * Mission: Impossible  
   * Ocean's Eleven  
   * Opération San Gennaro  
   * Or se barre (L')  
-  * Point Break – Extrême limite  
+  * Point Break : Extrême Limite  
   * Quand la ville dort  
   * Reservoir Dogs  
   * Solitaire (Le)  
