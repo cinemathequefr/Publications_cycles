@@ -232,7 +232,7 @@
   * What Price Hollywood?  
   * Zaza
 
-## James Cameron (8)
+## James Cameron (7)
 
   * Abyss  
   * Aliens, le retour  
@@ -240,8 +240,7 @@
   * Avatar : La Voie de l'eau  
   * Terminator  
   * Terminator 2 : Le Jugement dernier  
-  * Titanic  
-  * True Lies
+  * Titanic
 
 ## Laurent Achard (11)
 
