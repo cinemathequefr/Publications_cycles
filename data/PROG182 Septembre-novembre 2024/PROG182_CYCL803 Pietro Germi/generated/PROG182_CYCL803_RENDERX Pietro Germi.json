@@ -175,35 +175,68 @@
           ]
         },
         {
-          "idFilm": 41957,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 31127,
+              "content": [
+                {
+                  "idConf": 31127,
+                  "titre": "Qui êtes-vous... Pietro Germi ?",
+                  "sousTitre": "Conférence de Sergio Toffetti",
+                  "typeConference": "Conférence",
+                  "miniTexte": "_Le Chemin de l'espérance_, c'est un voyage dans l'Italie de 1950, une Italie dévastée non plus par la guerre comme au temps de Rossellini, mais par la pauvreté. Pietro Germi – fordien depuis son « western » _Au nom de la loi_ – superpose ici sur les images-souvenirs des _Raisins de la colère_ la stature de Raf Vallone, icône prolétarienne qui fait face à l'injustice avec son corps d'acteur. Viendront ensuite les mélos sociaux, le noir, la cruauté de la comédie d'un auteur à la fois cynique et sentimental, formaliste et populaire. — Sergio Toffetti"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133998,
+                  "idSeanceAssoc": 134224,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-10-18T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 41957,
-              "ordre": 1,
-              "titre": "Chemin de l'espérance",
-              "art": "Le",
-              "titreVo": "Cammino della speranza",
-              "artVo": "Il",
-              "realisateurs": "Pietro Germi",
-              "pays": "Italie",
-              "annee": 1950,
-              "duree": 99,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
-              "generique": [
-                "Raf Vallone",
-                "Elena Varzi",
-                "Saro Urzi"
+              "content": [
+                {
+                  "idFilm": 41957,
+                  "ordre": 1,
+                  "titre": "Chemin de l'espérance",
+                  "art": "Le",
+                  "titreVo": "Cammino della speranza",
+                  "artVo": "Il",
+                  "realisateurs": "Pietro Germi",
+                  "pays": "Italie",
+                  "annee": 1950,
+                  "duree": 99,
+                  "version": "",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
+                  "generique": [
+                    "Raf Vallone",
+                    "Elena Varzi",
+                    "Saro Urzi"
+                  ],
+                  "miniTexte": "Le parcours d'un groupe de Siciliens vers la France, après la fermeture de la mine du village. Dans un geste néoréaliste, Pietro Germi filme l'exode italien de l'après-guerre, des promesses d'un passeur jusqu'aux cruelles désillusions. Habillé des plus beaux atours du mélodrame, _Le Chemin de l'espérance_ se voit comme une version italienne des _Raisins de la colère_ de John Ford."
+                }
               ],
-              "miniTexte": "Le parcours d'un groupe de Siciliens vers la France, après la fermeture de la mine du village. Dans un geste néoréaliste, Pietro Germi filme l'exode italien de l'après-guerre, des promesses d'un passeur jusqu'aux cruelles désillusions. Habillé des plus beaux atours du mélodrame, _Le Chemin de l'espérance_ se voit comme une version italienne des _Raisins de la colère_ de John Ford."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134045,
-              "dateHeure": "2024-10-26T18:00:00",
-              "idSalle": "JE"
+              "seances": [
+                {
+                  "idSeance": 134224,
+                  "idSeanceAssoc": 134224,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-10-18T21:15:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                },
+                {
+                  "idSeance": 134045,
+                  "dateHeure": "2024-10-26T18:00:00",
+                  "idSalle": "JE"
+                }
+              ]
             }
           ]
         },
@@ -233,14 +266,9 @@
           ],
           "seances": [
             {
-              "idSeance": 134222,
+              "idSeance": 134225,
               "dateHeure": "2024-10-12T17:15:00",
               "idSalle": "HL"
-            },
-            {
-              "idSeance": 134041,
-              "dateHeure": "2024-10-18T21:15:00",
-              "idSalle": "GF"
             },
             {
               "idSeance": 132545,
@@ -667,31 +695,6 @@
               "idSeance": 134044,
               "dateHeure": "2024-10-26T16:00:00",
               "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 31127,
-          "content": [
-            {
-              "idConf": 31127,
-              "titre": "Qui êtes-vous... Pietro Germi ?",
-              "sousTitre": "Conférence de Sergio Toffetti",
-              "typeConference": "Conférence",
-              "miniTexte": "_Le Chemin de l'espérance_, c'est un voyage dans l'Italie de 1950, une Italie dévastée non plus par la guerre comme au temps de Rossellini, mais par la pauvreté. Pietro Germi – fordien depuis son « western » _Au nom de la loi_ – superpose ici sur les images-souvenirs des _Raisins de la colère_ la stature de Raf Vallone, icône prolétarienne qui fait face à l'injustice avec son corps d'acteur. Viendront ensuite les mélos sociaux, le noir, la cruauté de la comédie d'un auteur à la fois cynique et sentimental, formaliste et populaire. — Sergio Toffetti"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133998,
-              "dateHeure": "2024-10-18T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }
