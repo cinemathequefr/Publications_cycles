@@ -305,7 +305,58 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Avant-première Payal Kapadia",
+      "items": [
+        {
+          "idFilm": 154926,
+          "content": [
+            {
+              "idFilm": 154926,
+              "ordre": 1,
+              "titre": "All We Imagine As Light",
+              "realisateurs": "Payal Kapadia",
+              "pays": "Inde-France-Pays-Bas-Luxembourg",
+              "annee": 2024,
+              "duree": 115,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Kani Kurusti",
+                "Divya Prabha",
+                "Chhaya Kadam",
+                "Hridhu Haroon"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134220,
+              "dateHeure": "2024-09-23T20:00:00",
+              "idSalle": "HL",
+              "mention": " Séance présentée par Payal Kapadia"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2024-09-23T20:00:00",
+        "titreFilms": "All We Imagine As Light",
+        "mention": " Séance présentée par Payal Kapadia"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "All We Imagine As Light",
+        "mention": "par Payal Kapadia",
+        "dateHeure": "2024-09-23T20:00:00"
+      }
+    ]
+  }
 }

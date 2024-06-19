@@ -56,7 +56,6 @@
   * Corps du délit (Le)  
   * Domaine  
   * En chien  
-  * Khandar = Les Ruines  
   * Lit de punaise  
   * luna de hierro (Una)  
   * Mont Noir  
@@ -64,6 +63,7 @@
   * Otro Sol  
   * Passion selon Karim (La)  
   * Plus douce est la nuit  
+  * Ruines (Les)  
   * Samantha Chérie  
   * Te quiero ma Vahiné  
   * Trouble-fête  
@@ -434,8 +434,9 @@
   * Un chat, un chat  
   * Véritée zébrée (La)
 
-## Séances spéciales (12)
+## Séances spéciales (13)
 
+  * All We Imagine As Light  
   * Ceux de chez nous  
   * Family portraits  
   * Félicie Nanteuil  
