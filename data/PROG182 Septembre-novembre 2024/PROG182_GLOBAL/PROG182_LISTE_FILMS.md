@@ -79,12 +79,12 @@
   * Hello, Roland !  
   * Homme de Majorque (L')  
   * Joe Hill  
-  * Liv till varje pris  
   * Péché suédois (Le)  
   * Quartier du corbeau (Le)  
   * Tom Foot  
   * Un flic sur le toit  
-  * Victoria
+  * Victoria  
+  * Vie à tout prix : Un film sur Bo Widerberg (La)
 
 ## Bob Rafelson (10)
 
