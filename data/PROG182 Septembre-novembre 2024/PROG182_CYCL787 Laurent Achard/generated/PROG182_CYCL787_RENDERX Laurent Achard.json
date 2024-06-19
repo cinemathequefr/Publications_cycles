@@ -212,16 +212,9 @@
           ],
           "seances": [
             {
-              "idSeance": 133871,
+              "idSeance": 134227,
               "dateHeure": "2024-09-08T15:00:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par Philippe Grivel, Frank Beauvais et Martial Salomon"
-            },
-            {
-              "idSeance": 133952,
-              "dateHeure": "2024-09-11T18:00:00",
-              "idSalle": "GF",
-              "mention": "Séance suivie d'une discussion avec Pierre Sénélas, Pascal Cervo et Mireille Roussel"
+              "idSalle": "GF"
             }
           ]
         }
@@ -274,18 +267,80 @@
               "mention": "Séance présentée par Patricia Mazuy"
             }
           ]
+        },
+        {
+          "idFilm": 154838,
+          "content": [
+            {
+              "idFilm": 154838,
+              "ordre": 2,
+              "titre": "Un, parfois deux...",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2016,
+              "duree": 52,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Une odeur de géranium",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134228,
+              "dateHeure": "2024-09-11T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 76313,
+          "content": [
+            {
+              "idFilm": 76313,
+              "ordre": 1,
+              "titre": "Une odeur de géranium",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1997,
+              "duree": 30,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Babet Ferrier",
+                "Vincent Taveau",
+                "Jérôme Le Paulmier"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Un, parfois deux...",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134228,
+              "dateHeure": "2024-09-11T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
         }
       ]
     }
   ],
   "syntheseAction": {
-    "Discussion": [
-      {
-        "titreFilms": "Qu'en savent les morts ? / Dimanche ou les fantômes / Le Tableau / De ma fenêtre / La Peur, petit chasseur",
-        "mention": "avec Pierre Sénélas, Pascal Cervo et Mireille Roussel",
-        "dateHeure": "2024-09-11T18:00:00"
-      }
-    ],
     "Séances présentées": [
       {
         "titreFilms": "Le Dernier des fous",
@@ -306,11 +361,6 @@
         "titreFilms": "Jean-François Stévenin : Simples Messieurs",
         "mention": "par Serge Bozon",
         "dateHeure": "2024-09-07T21:15:00"
-      },
-      {
-        "titreFilms": "Qu'en savent les morts ? / Dimanche ou les fantômes / Le Tableau / De ma fenêtre / La Peur, petit chasseur",
-        "mention": "par Philippe Grivel, Frank Beauvais et Martial Salomon",
-        "dateHeure": "2024-09-08T15:00:00"
       },
       {
         "titreFilms": "Dernière séance",

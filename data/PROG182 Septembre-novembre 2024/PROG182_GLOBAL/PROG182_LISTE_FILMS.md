@@ -244,7 +244,7 @@
   * Terminator 2 : Le Jugement dernier  
   * Titanic
 
-## Laurent Achard (11)
+## Laurent Achard (13)
 
   * Brisseau, 251 rue Marcadet  
   * De ma fenêtre  
@@ -256,7 +256,9 @@
   * Peur, petit chasseur (La)  
   * Plus qu'hier, moins que demain  
   * Qu'en savent les morts ?  
-  * Tableau (Le)
+  * Tableau (Le)  
+  * Un, parfois deux...  
+  * Une odeur de géranium
 
 ## Les 50 ans de MK2 (18)
 
@@ -430,10 +432,10 @@
   * Grande petite  
   * Insu (L')  
   * Ma vie, ma gueule  
-  * Nathalie Moretti ...  
+  * Nathalie Moretti...  
   * Rien  
   * Un chat, un chat  
-  * Véritée zébrée (La)
+  * Vérité zébrée (La)
 
 ## Séances spéciales (13)
 
