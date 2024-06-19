@@ -89,115 +89,6 @@
           ]
         },
         {
-          "idFilm": 154301,
-          "content": [
-            {
-              "idFilm": 154301,
-              "ordre": 3,
-              "titre": "Autour de La Fin du monde",
-              "realisateurs": "Eugène Deslaw",
-              "pays": "France",
-              "annee": 1930,
-              "duree": 15,
-              "version": "",
-              "format": "DCP",
-              "precedeSuivi": [
-                [
-                  [
-                    "Autour de La Roue",
-                    null
-                  ],
-                  [
-                    "Autour de Napoléon",
-                    null
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133890,
-              "dateHeure": "2024-09-21T16:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 73466,
-          "content": [
-            {
-              "idFilm": 73466,
-              "ordre": 1,
-              "titre": "Autour de La Roue",
-              "realisateurs": "Blaise Cendrars",
-              "pays": "France",
-              "annee": 1923,
-              "duree": 17,
-              "version": "",
-              "format": "35 mm",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Autour de Napoléon",
-                    null
-                  ],
-                  [
-                    "Autour de La Fin du monde",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133890,
-              "dateHeure": "2024-09-21T16:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 73467,
-          "content": [
-            {
-              "idFilm": 73467,
-              "ordre": 2,
-              "titre": "Autour de Napoléon",
-              "realisateurs": "Jean Arroy",
-              "pays": "France",
-              "annee": 1925,
-              "duree": 21,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "precedeSuivi": [
-                [
-                  [
-                    "Autour de La Roue",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Autour de La Fin du monde",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133890,
-              "dateHeure": "2024-09-21T16:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 48586,
           "content": [
             {
@@ -1153,6 +1044,55 @@
             {
               "idSeance": 131615,
               "dateHeure": "2024-09-20T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idEvenement": 30931,
+          "content": [
+            {
+              "idFilm": 73466,
+              "ordre": 1,
+              "titre": "Autour de La Roue",
+              "realisateurs": "Blaise Cendrars",
+              "pays": "France",
+              "annee": 1923,
+              "duree": 17,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 73467,
+              "ordre": 2,
+              "titre": "Autour de Napoléon",
+              "realisateurs": "Jean Arroy",
+              "pays": "France",
+              "annee": 1925,
+              "duree": 21,
+              "version": "INT. FR.",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 154301,
+              "ordre": 3,
+              "titre": "Autour de La Fin du monde",
+              "realisateurs": "Eugène Deslaw",
+              "pays": "France",
+              "annee": 1930,
+              "duree": 15,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 154928,
+              "ordre": 4
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133890,
+              "dateHeure": "2024-09-21T16:00:00",
               "idSalle": "JE"
             }
           ]

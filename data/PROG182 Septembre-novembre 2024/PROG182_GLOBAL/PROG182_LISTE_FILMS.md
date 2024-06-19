@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Abel Gance (37)
+## Abel Gance (38)
 
   * 14 juillet 1953  
   * A l'ombre des grands chênes (Abel Gance)  
@@ -37,6 +37,7 @@
   * Roue (La)  
   * Tour de Nesle (La)  
   * Un grand amour de Beethoven  
+  * undefined  
   * Vénus aveugle  
   * Voleur de femmes (Le)
 
@@ -382,7 +383,7 @@
 
 ## Pietro Germi (19)
 
-  * Alfredo Alfredo  
+  * Alfredo, Alfredo  
   * Au nom de la loi  
   * Beaucoup trop pour un seul homme  
   * Castagne sono buone (Le)  
@@ -390,8 +391,8 @@
   * Chemin de l'espérance (Le)  
   * Disque rouge (Le)  
   * Divorce à l'italienne  
-  * Gelosia  
   * Homme de paille (L')  
+  * Jalousie  
   * Jeunesse perdue  
   * Mademoiselle la présidente  
   * Meurtre à l'italienne  
