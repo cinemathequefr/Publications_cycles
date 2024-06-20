@@ -308,6 +308,36 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Avant-première Miguel Gomes",
+      "items": [
+        {
+          "idFilm": 154927,
+          "content": [
+            {
+              "idFilm": 154927,
+              "ordre": 1,
+              "titre": "Grand Tour",
+              "realisateurs": "Miguel Gomes",
+              "pays": "Portugal-Italie-France",
+              "annee": 2024,
+              "duree": 129,
+              "version": "VO",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 132797,
+              "dateHeure": "2024-11-04T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Avant-première Payal Kapadia",
       "items": [
         {
@@ -344,11 +374,15 @@
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
       {
         "dateHeure": "2024-09-23T20:30:00",
         "titreFilms": "All We Imagine As Light",
         "mention": " Séance présentée par Payal Kapadia"
+      },
+      {
+        "dateHeure": "2024-11-04T20:00:00",
+        "titreFilms": "Grand Tour"
       }
     ],
     "Séance présentée": [

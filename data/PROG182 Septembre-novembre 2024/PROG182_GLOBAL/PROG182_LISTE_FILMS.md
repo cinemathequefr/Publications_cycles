@@ -28,6 +28,7 @@
   * Magirama (J'accuse)  
   * Mater dolorosa  
   * Napoléon Bonaparte  
+  * Napoléon : danses, galops  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
   * Paradis perdu  
@@ -37,7 +38,6 @@
   * Roue (La)  
   * Tour de Nesle (La)  
   * Un grand amour de Beethoven  
-  * undefined  
   * Vénus aveugle  
   * Voleur de femmes (Le)
 
@@ -437,7 +437,7 @@
   * Un chat, un chat  
   * Vérité zébrée (La)
 
-## Séances spéciales (13)
+## Séances spéciales (14)
 
   * All We Imagine As Light  
   * Ceux de chez nous  
@@ -447,6 +447,7 @@
   * Godzilla  
   * Godzilla contre Mecanik Monster  
   * Godzilla : Final wars  
+  * Grand Tour  
   * Jeanne fait des siennes  
   * Monstres des planètes secrètes = La Planète des monstres (Les)  
   * Sisters  
