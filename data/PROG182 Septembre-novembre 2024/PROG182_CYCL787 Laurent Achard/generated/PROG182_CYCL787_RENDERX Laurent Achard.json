@@ -127,100 +127,6 @@
       ]
     },
     {
-      "tri": 2,
-      "titreSousCycle": "Courts métrages",
-      "items": [
-        {
-          "idEvenement": 31223,
-          "content": [
-            {
-              "idFilm": 75543,
-              "ordre": 1,
-              "titre": "Qu'en savent les morts ?",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 1990,
-              "duree": 5,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Laurence Côte",
-                "René Rabreau"
-              ]
-            },
-            {
-              "idFilm": 76312,
-              "ordre": 2,
-              "titre": "Dimanche ou les fantômes",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 1994,
-              "duree": 30,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Olivia Bouet-Willaumez",
-                "Julien Rivière",
-                "Pierre Lhuillier"
-              ]
-            },
-            {
-              "idFilm": 121778,
-              "ordre": 3,
-              "titre": "Tableau",
-              "art": "Le",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2012,
-              "duree": 30,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Thérèse Roussel",
-                "Fred Personne",
-                "Pascal Cervo"
-              ]
-            },
-            {
-              "idFilm": 154889,
-              "ordre": 4,
-              "titre": "De ma fenêtre",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2021,
-              "duree": 3,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 91824,
-              "ordre": 5,
-              "titre": "Peur, petit chasseur",
-              "art": "La",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2003,
-              "duree": 9,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Mireille Roussel",
-                "Martin Buisson",
-                "Pierre Beaux"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134227,
-              "dateHeure": "2024-09-08T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "tri": 1,
       "titreSousCycle": "Documentaires sur le cinéma",
       "items": [
@@ -247,6 +153,95 @@
           ]
         },
         {
+          "idFilm": 154889,
+          "content": [
+            {
+              "idFilm": 154889,
+              "ordre": 4,
+              "titre": "De ma fenêtre",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2021,
+              "precedeSuivi": [
+                [
+                  [
+                    "Qu'en savent les morts ?",
+                    null
+                  ],
+                  [
+                    "Dimanche ou les fantômes",
+                    null
+                  ],
+                  [
+                    "Tableau",
+                    "Le"
+                  ]
+                ],
+                [
+                  [
+                    "Peur, petit chasseur",
+                    "La"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134233,
+              "dateHeure": "2024-09-08T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 76312,
+          "content": [
+            {
+              "idFilm": 76312,
+              "ordre": 2,
+              "titre": "Dimanche ou les fantômes",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1994,
+              "generique": [
+                "Olivia Bouet-Willaumez",
+                "Julien Rivière",
+                "Pierre Lhuillier"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Qu'en savent les morts ?",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Tableau",
+                    "Le"
+                  ],
+                  [
+                    "De ma fenêtre",
+                    null
+                  ],
+                  [
+                    "Peur, petit chasseur",
+                    "La"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134233,
+              "dateHeure": "2024-09-08T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 153932,
           "content": [
             {
@@ -265,6 +260,146 @@
               "dateHeure": "2024-09-08T19:45:00",
               "idSalle": "JE",
               "mention": "Séance présentée par Patricia Mazuy"
+            }
+          ]
+        },
+        {
+          "idFilm": 91824,
+          "content": [
+            {
+              "idFilm": 91824,
+              "ordre": 5,
+              "titre": "Peur, petit chasseur",
+              "art": "La",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2003,
+              "generique": [
+                "Mireille Roussel",
+                "Martin Buisson",
+                "Pierre Beaux"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Qu'en savent les morts ?",
+                    null
+                  ],
+                  [
+                    "Dimanche ou les fantômes",
+                    null
+                  ],
+                  [
+                    "Tableau",
+                    "Le"
+                  ],
+                  [
+                    "De ma fenêtre",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134233,
+              "dateHeure": "2024-09-08T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 75543,
+          "content": [
+            {
+              "idFilm": 75543,
+              "ordre": 1,
+              "titre": "Qu'en savent les morts ?",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1990,
+              "generique": [
+                "Laurence Côte",
+                "René Rabreau"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Dimanche ou les fantômes",
+                    null
+                  ],
+                  [
+                    "Tableau",
+                    "Le"
+                  ],
+                  [
+                    "De ma fenêtre",
+                    null
+                  ],
+                  [
+                    "Peur, petit chasseur",
+                    "La"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134233,
+              "dateHeure": "2024-09-08T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 121778,
+          "content": [
+            {
+              "idFilm": 121778,
+              "ordre": 3,
+              "titre": "Tableau",
+              "art": "Le",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2012,
+              "generique": [
+                "Thérèse Roussel",
+                "Fred Personne",
+                "Pascal Cervo"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Qu'en savent les morts ?",
+                    null
+                  ],
+                  [
+                    "Dimanche ou les fantômes",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "De ma fenêtre",
+                    null
+                  ],
+                  [
+                    "Peur, petit chasseur",
+                    "La"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134233,
+              "dateHeure": "2024-09-08T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -294,7 +429,7 @@
           ],
           "seances": [
             {
-              "idSeance": 134228,
+              "idSeance": 134232,
               "dateHeure": "2024-09-11T18:00:00",
               "idSalle": "GF"
             }
@@ -331,7 +466,7 @@
           ],
           "seances": [
             {
-              "idSeance": 134228,
+              "idSeance": 134232,
               "dateHeure": "2024-09-11T18:00:00",
               "idSalle": "GF"
             }

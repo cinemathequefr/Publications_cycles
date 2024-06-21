@@ -3,7 +3,7 @@
 ## Abel Gance (38)
 
   * 14 juillet 1953  
-  * A l'ombre des grands chênes (Abel Gance)  
+  * À l'ombre des grands chênes (Abel Gance)  
   * Au secours !  
   * Auprès de ma blonde  
   * Austerlitz  
@@ -20,7 +20,7 @@
   * Fête foraine  
   * Fin du monde (La)  
   * Folie du docteur Tube (La)  
-  * Gaz mortels = Les Brouillards sur la ville (Les)  
+  * Gaz mortels (Les)  
   * J'accuse  
   * Jérôme Perreau, héros des barricades  
   * Louise  
@@ -45,20 +45,21 @@
 
   * Carnet de notes pour une Orestie africaine
 
-## Aujourd'hui le cinéma (22)
+## Aujourd'hui le cinéma (23)
 
   * Across the waters  
   * Anapidae (appelle-moi)  
   * Anges déchus (Les)  
   * Après le soleil  
   * Belles Cicatrices (Les)  
+  * Captive (La)  
   * Ce qui appartient à César  
+  * Cœur ailleurs (Le)  
   * Cœurs perdus  
   * Corps du délit (Le)  
   * Domaine  
   * En chien  
   * Lit de punaise  
-  * luna de hierro (Una)  
   * Mont Noir  
   * Na Marei  
   * Otro Sol  
@@ -68,7 +69,7 @@
   * Samantha Chérie  
   * Te quiero ma Vahiné  
   * Trouble-fête  
-  * Un jour j'aurai une île
+  * Una luna de hierro
 
 ## Bo Widerberg (14)
 
@@ -100,7 +101,7 @@
   * Stay Hungry  
   * Veuve noire (La)
 
-## Casses, hold-ups et braquages en 25 indispensables (25)
+## Casses, hold-ups et braquages en 25 indispensables (24)
 
   * Cercle rouge (Le)  
   * Coup de l'escalier (Le)  
@@ -111,7 +112,6 @@
   * Heat  
   * Inconnu de Las Vegas (L')  
   * Inconnus dans la ville (Les)  
-  * Inside Man : L'Homme de l'intérieur  
   * Mélodie en sous-sol  
   * Mise à sac  
   * Mission: Impossible  
@@ -441,15 +441,15 @@
 
   * All We Imagine As Light  
   * Ceux de chez nous  
-  * Family portraits  
+  * Family Portraits, une trilogie américaine  
   * Félicie Nanteuil  
   * Galets d'Étretat (Les)  
   * Godzilla  
   * Godzilla contre Mecanik Monster  
-  * Godzilla : Final wars  
+  * Godzilla: Final Wars  
   * Grand Tour  
   * Jeanne fait des siennes  
-  * Monstres des planètes secrètes = La Planète des monstres (Les)  
+  * Planète des monstres (La)  
   * Sisters  
   * Theatre bizarre: The Accident (The)  
   * Un beau monstre

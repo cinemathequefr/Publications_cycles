@@ -3,28 +3,46 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Vincent Weber",
+      "titreSousCycle": "Mathieu Morel",
       "items": [
         {
-          "idFilm": 154916,
+          "idEvenement": 31286,
           "content": [
             {
-              "idFilm": 154916,
+              "idFilm": 154917,
               "ordre": 1,
-              "titre": "Un jour j'aurai une île",
-              "realisateurs": "Vincent Weber",
+              "titre": "Anapidae (appelle-moi)",
+              "realisateurs": "Mathieu Morel",
               "pays": "France",
               "annee": 2024,
-              "duree": 50,
+              "duree": 43,
               "version": "",
               "format": "DCP"
+            },
+            {
+              "idFilm": 154920,
+              "ordre": 2,
+              "titre": "Corps du délit",
+              "art": "Le",
+              "realisateurs": "Léolo Victor-Pujebet",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 81,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Mathieu Morel",
+                "Bertrand Bonello",
+                "Aurélien Deniel"
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 131127,
+              "idSeance": 139448,
               "dateHeure": "2024-09-02T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Mathieu Morel. Séance présentée par Léolo Victor-Pujebet"
             }
           ]
         }
@@ -71,7 +89,8 @@
             {
               "idSeance": 131313,
               "dateHeure": "2024-09-09T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Rayane Mcirdi"
             }
           ]
         }
@@ -117,8 +136,7 @@
             {
               "idFilm": 154899,
               "ordre": 1,
-              "titre": "luna de hierro",
-              "art": "Una",
+              "titre": "Una luna de hierro",
               "realisateurs": "Francisco Rodriguez Teare",
               "pays": "Chili-France",
               "annee": 2017,
@@ -226,48 +244,51 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Yuna Alonzo",
+      "titreSousCycle": "Laura Tuillier",
       "items": [
         {
-          "idEvenement": 31228,
+          "idEvenement": 31230,
           "content": [
             {
-              "idFilm": 154918,
+              "idFilm": 69094,
               "ordre": 1,
-              "titre": "Te quiero ma Vahiné",
-              "realisateurs": "Yuna Alonzo",
-              "pays": "France",
-              "annee": 2024,
-              "duree": 33,
+              "titre": "Captive",
+              "art": "La",
+              "realisateurs": "Chantal Akerman",
+              "pays": "France-Belgique",
+              "annee": 2000,
+              "duree": 108,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "adaptation": "D'après le roman _La Prisonnière_ de Marcel Proust.",
+              "generique": [
+                "Stanislas Merhar",
+                "Sylvie Testud",
+                "Olivia Bonamy"
+              ]
             },
             {
-              "idFilm": 44574,
+              "idFilm": 154925,
               "ordre": 2,
-              "titre": "Ruines",
-              "art": "Les",
-              "titreVo": "Khandhar",
-              "realisateurs": "Mrinal Sen",
-              "pays": "Inde",
-              "annee": 1984,
-              "duree": 102,
-              "version": "VOSTF",
+              "titre": "Cœur ailleurs",
+              "art": "Le",
+              "realisateurs": "Laura Tuillier",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 42,
+              "version": "",
               "format": "DCP",
-              "adaptation": "D'après le roman _Khandar_ de Premendra Mitra.",
               "generique": [
-                "Shabana Azmi",
-                "Naseeruddin Shah",
-                "Gita Sen",
-                "Pankaj Kapoor"
+                "Stanislas Merhar"
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 132243,
+              "idSeance": 139445,
               "dateHeure": "2024-10-14T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Laura Tuillier"
             }
           ]
         }
@@ -395,45 +416,49 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Mathieu Morel",
+      "titreSousCycle": "Yuna Alonzo",
       "items": [
         {
-          "idEvenement": 31215,
+          "idEvenement": 31289,
           "content": [
             {
-              "idFilm": 154917,
+              "idFilm": 44574,
               "ordre": 1,
-              "titre": "Anapidae (appelle-moi)",
-              "realisateurs": "Mathieu Morel",
-              "pays": "France",
-              "annee": 2024,
-              "duree": 43,
-              "version": "",
-              "format": "DCP"
+              "titre": "Ruines",
+              "art": "Les",
+              "titreVo": "Khandhar",
+              "realisateurs": "Mrinal Sen",
+              "pays": "Inde",
+              "annee": 1984,
+              "duree": 102,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Khandar_ de Premendra Mitra.",
+              "generique": [
+                "Shabana Azmi",
+                "Naseeruddin Shah",
+                "Gita Sen",
+                "Pankaj Kapoor"
+              ]
             },
             {
-              "idFilm": 154920,
+              "idFilm": 154918,
               "ordre": 2,
-              "titre": "Corps du délit",
-              "art": "Le",
-              "realisateurs": "Léolo Victor-Pujebet",
+              "titre": "Te quiero ma Vahiné",
+              "realisateurs": "Yuna Alonzo",
               "pays": "France",
-              "annee": 2023,
-              "duree": 81,
+              "annee": 2024,
+              "duree": 33,
               "version": "",
-              "format": "DCP",
-              "generique": [
-                "Mathieu Morel",
-                "Bertrand Bonello",
-                "Aurélien Deniel"
-              ]
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 134207,
+              "idSeance": 139447,
               "dateHeure": "2024-11-04T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Yuna Alonzo"
             }
           ]
         }
@@ -442,6 +467,16 @@
   ],
   "syntheseAction": {
     "Discussions": [
+      {
+        "titreFilms": "Anapidae (appelle-moi) / Le Corps du délit",
+        "mention": "avec Mathieu Morel. Séance présentée par Léolo Victor-Pujebet",
+        "dateHeure": "2024-09-02T19:00:00"
+      },
+      {
+        "titreFilms": "Après le soleil / Les Anges déchus",
+        "mention": "avec Rayane Mcirdi",
+        "dateHeure": "2024-09-09T19:00:00"
+      },
       {
         "titreFilms": "Domaine",
         "mention": "avec Patric Chiha et Béatrice Dalle",
@@ -458,12 +493,27 @@
         "dateHeure": "2024-09-30T19:00:00"
       },
       {
+        "titreFilms": "La Captive / Le Cœur ailleurs",
+        "mention": "avec Laura Tuillier",
+        "dateHeure": "2024-10-14T19:00:00"
+      },
+      {
         "titreFilms": "Ce qui appartient à César / Les Belles Cicatrices / Across the waters / Plus douce est la nuit / Na Marei / Mont Noir",
         "mention": "avec Hélène Vayssières et Et les équipes Des films",
         "dateHeure": "2024-10-21T20:00:00"
+      },
+      {
+        "titreFilms": "Les Ruines / Te quiero ma Vahiné",
+        "mention": "avec Yuna Alonzo",
+        "dateHeure": "2024-11-04T19:00:00"
       }
     ],
-    "Séance présentée": [
+    "Séances présentées": [
+      {
+        "titreFilms": "Anapidae (appelle-moi) / Le Corps du délit",
+        "mention": "par Léolo Victor-Pujebet",
+        "dateHeure": "2024-09-02T19:00:00"
+      },
       {
         "titreFilms": "Cœurs perdus",
         "mention": "par Frédéric Lavigne",
