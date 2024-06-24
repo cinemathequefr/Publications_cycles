@@ -53,7 +53,7 @@
           "pays": "Suède",
           "duree": 130,
           "version": "",
-          "format": "",
+          "format": "DCP",
           "generique": [
             "Johan Widerberg",
             "Marika Lagercrantz",
@@ -86,8 +86,8 @@
           "annee": 1986,
           "pays": "Suède",
           "duree": 130,
-          "version": "",
-          "format": "35 mm",
+          "version": "VOSTF",
+          "format": "DCP",
           "generique": [
             "Stina Ekblad",
             "Stellan Skarsgård",
@@ -406,40 +406,6 @@
           ]
         },
         {
-          "idSeance": 132839,
-          "ordre": 1,
-          "dateHeure": "2024-11-06T20:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 3387,
-          "idEvenement": 30954,
-          "typeEvenement": 13,
-          "idFilm": 80521,
-          "art": "La",
-          "titre": "Vie à tout prix : Un film sur Bo Widerberg",
-          "titreVo": "Liv till varje pris: En film om Bo Widerberg",
-          "realisateurs": "Stefan Jarl",
-          "annee": 1998,
-          "pays": "Suède",
-          "duree": 90,
-          "version": "",
-          "format": "35 mm",
-          "generique": [
-            "Thommy Berggren",
-            "Roy Andersson",
-            "Tomas von Brömssen"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Entretiens et images d'archives, qui composent un portrait de Bo Widerberg, mort en 1997."
-            }
-          ]
-        },
-        {
           "idSeance": 132729,
           "ordre": 1,
           "dateHeure": "2024-11-01T18:30:00",
@@ -468,6 +434,47 @@
             {
               "typeTexte": 1000,
               "texte": "Au début des années 30, une grève des dockers paralyse le nord de la Suède, tandis qu'une relation amoureuse se noue entre le fils d'un ouvrier et la fille du directeur de l'usine. Autour des événements tragiques d'Ådalen qui mèneront les sociaux-démocrates au pouvoir, Widerberg signe une chronique familiale et sentimentale d'une sensibilité à fleur de peau. Un tableau de la lutte des classes aussi minutieux que bouillonnant, qui sait merveilleusement mêler la colère des hommes à la beauté des petits gestes."
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Autour de Bo Widerberg",
+      "tri": 1,
+      "items": [
+        {
+          "idSeance": 132839,
+          "ordre": 1,
+          "dateHeure": "2024-11-06T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3454,
+          "idEvenement": 30954,
+          "typeEvenement": 13,
+          "idFilm": 80521,
+          "art": "La",
+          "titre": "Vie à tout prix : Un film sur Bo Widerberg",
+          "titreVo": "Liv till varje pris: En film om Bo Widerberg",
+          "realisateurs": "Stefan Jarl",
+          "annee": 1998,
+          "pays": "Suède",
+          "duree": 90,
+          "version": "",
+          "format": "35 mm",
+          "generique": [
+            "Thommy Berggren",
+            "Roy Andersson",
+            "Tomas von Brömssen"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Entretiens et images d'archives, qui composent un portrait de Bo Widerberg, mort en 1997."
             }
           ]
         }

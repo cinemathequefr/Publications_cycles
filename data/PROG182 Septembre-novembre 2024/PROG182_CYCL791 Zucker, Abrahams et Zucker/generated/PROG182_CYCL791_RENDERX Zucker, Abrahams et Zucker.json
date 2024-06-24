@@ -186,7 +186,8 @@
             {
               "idSeance": 132585,
               "dateHeure": "2024-10-26T17:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Stefano Darchino"
             }
           ]
         },
@@ -216,7 +217,8 @@
             {
               "idSeance": 134056,
               "dateHeure": "2024-10-25T19:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Stefano Darchino"
             }
           ]
         }
@@ -224,11 +226,21 @@
     }
   ],
   "syntheseAction": {
-    "Séance présentée": [
+    "Séances présentées": [
       {
         "titreFilms": "Top Secret!",
         "mention": "par Alain Chabat",
         "dateHeure": "2024-10-24T20:00:00"
+      },
+      {
+        "titreFilms": "Y a-t-il un pilote dans l'avion ?",
+        "mention": "par Stefano Darchino",
+        "dateHeure": "2024-10-25T19:30:00"
+      },
+      {
+        "titreFilms": "Y a-t-il un flic pour sauver le président ?",
+        "mention": "par Stefano Darchino",
+        "dateHeure": "2024-10-26T17:00:00"
       }
     ]
   }
