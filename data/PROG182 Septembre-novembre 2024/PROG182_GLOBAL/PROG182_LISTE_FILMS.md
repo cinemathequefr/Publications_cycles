@@ -140,7 +140,7 @@
   * Bonne Année (La)  
   * C'était un rendez-vous  
   * D'un film à l'autre  
-  * Edith et Marcel  
+  * Édith et Marcel  
   * Finalement  
   * Il y a des jours et des lunes  
   * Itinéraire d'un enfant gâté  
