@@ -45,9 +45,10 @@
 
   * Carnet de notes pour une Orestie africaine
 
-## Aujourd'hui le cinéma (23)
+## Aujourd'hui le cinéma (24)
 
   * Across the waters  
+  * Alger la blanche  
   * Anapidae (appelle-moi)  
   * Anges déchus (Les)  
   * Après le soleil  
@@ -73,7 +74,7 @@
 
 ## Bo Widerberg (14)
 
-  * Ådalen 31  
+  * Ådalen '31  
   * Amour 65  
   * Beauté des choses (La)  
   * Chemin du serpent (Le)  
@@ -135,7 +136,7 @@
 
 ## Claude Lelouch (26)
 
-  * Aventure, c'est l'aventure (L')  
+  * Aventure c'est l'aventure (L')  
   * Bon et les Méchants (Le)  
   * Bonne Année (La)  
   * C'était un rendez-vous  
