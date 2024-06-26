@@ -1594,6 +1594,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Georges Mourier",
     "items": [
       {
         "idFilm": 106408,
@@ -1616,7 +1617,7 @@
         "Les films"
       ]
     ],
-    "mention": "Accompagnement musical par Nicolas Giraud et Fixi",
+    "mention": "Accompagnement musical par Nicolas Giraud et Fixi. Séance présentée par Hervé Pichard",
     "items": [
       {
         "idFilm": 48674,
@@ -1679,7 +1680,7 @@
         "Les films"
       ]
     ],
-    "mention": "Accompagnement musical par Benjamin Moussay",
+    "mention": "Accompagnement musical par Benjamin Moussay. Séance présentée par Hervé Pichard",
     "items": [
       {
         "idFilm": 48673,
@@ -2002,6 +2003,7 @@
         "Courts métrages"
       ]
     ],
+    "titreEvenement": "Programme 1",
     "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
     "items": [
       {
@@ -2514,7 +2516,7 @@
   },
   {
     "idSeance": 131615,
-    "idEvenement": 30074,
+    "idEvenement": 31346,
     "dateHeure": "2024-09-20T19:30:00",
     "salle": "JE",
     "cycle": [
@@ -2523,6 +2525,8 @@
         "Courts métrages"
       ]
     ],
+    "titreEvenement": "Séance Magirama",
+    "mention": "Séance présentée par Béatrice de Pastre",
     "items": [
       {
         "idFilm": 73462,
@@ -2533,9 +2537,9 @@
         "format": "DCP"
       },
       {
-        "idFilm": 73472,
-        "titre": "Magirama (J'accuse)",
-        "realisateurs": "Abel Gance, Nelly Kaplan",
+        "idFilm": 154935,
+        "titre": "J'accuse (Magirama)",
+        "realisateurs": "Abel Gance",
         "annee": 1956,
         "duree": 60,
         "format": "DCP"
@@ -2561,7 +2565,7 @@
         "duree": 15
       }
     ],
-    "hashEvenement": "f73462f73472f73474f73475f73473"
+    "hashEvenement": "f73462f154935f73474f73475f73473"
   },
   {
     "idSeance": 131612,
@@ -2772,6 +2776,7 @@
         "Courts métrages"
       ]
     ],
+    "titreEvenement": "Programme 2",
     "items": [
       {
         "idFilm": 73466,
@@ -3040,7 +3045,7 @@
       {
         "idFilm": 154899,
         "titre": "Una luna de hierro",
-        "realisateurs": "Francisco Rodriguez Teare",
+        "realisateurs": "Francisco Rodríguez Teare",
         "annee": 2017,
         "duree": 28,
         "version": "VOSTF",
@@ -3048,8 +3053,8 @@
       },
       {
         "idFilm": 154898,
-        "titre": "Otro Sol",
-        "realisateurs": "Francisco Rodriguez Teare",
+        "titre": "Otro sol",
+        "realisateurs": "Francisco Rodríguez Teare",
         "annee": 2023,
         "duree": 86,
         "version": "VOSTF",
@@ -3131,6 +3136,37 @@
       }
     ],
     "hashEvenement": "f31406"
+  },
+  {
+    "idSeance": 131723,
+    "idEvenement": 31293,
+    "dateHeure": "2024-09-25T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Abel Gance",
+        "Films pour la télévision"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154932,
+        "titre": "Marie Tudor, 1re époque : Henri VIII",
+        "realisateurs": "Abel Gance",
+        "annee": 1966,
+        "duree": 103,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154933,
+        "titre": "Marie Tudor, 2e époque : La Vengeance de Marie Tudor",
+        "realisateurs": "Abel Gance",
+        "annee": 1966,
+        "duree": 104,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154932f154933"
   },
   {
     "idSeance": 134165,
@@ -6673,7 +6709,7 @@
         "Frédéric Lavigne"
       ]
     ],
-    "mention": "Séance présentée par Frédéric Lavigne",
+    "mention": "Séance suivie d'une discussion avec Frédéric Lavigne et Gaël Morel",
     "items": [
       {
         "idFilm": 58354,
@@ -6690,9 +6726,16 @@
         "annee": 2023,
         "duree": 34,
         "format": "DCP"
+      },
+      {
+        "idFilm": 60228,
+        "titre": "Vie à rebours",
+        "art": "La",
+        "realisateurs": "Gaël Morel",
+        "annee": 1996
       }
     ],
-    "hashEvenement": "f58354f154919"
+    "hashEvenement": "f58354f154919f60228"
   },
   {
     "idSeance": 132614,
@@ -8561,6 +8604,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Daniel Vigne",
     "items": [
       {
         "idFilm": 49740,

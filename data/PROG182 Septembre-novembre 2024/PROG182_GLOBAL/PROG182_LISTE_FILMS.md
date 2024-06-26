@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Abel Gance (38)
+## Abel Gance (40)
 
   * 14 juillet 1953  
   * À l'ombre des grands chênes (Abel Gance)  
@@ -22,10 +22,12 @@
   * Folie du docteur Tube (La)  
   * Gaz mortels (Les)  
   * J'accuse  
+  * J'accuse (Magirama)  
   * Jérôme Perreau, héros des barricades  
   * Louise  
   * Lucrèce Borgia  
-  * Magirama (J'accuse)  
+  * Marie Tudor, 1re époque : Henri VIII  
+  * Marie Tudor, 2e époque : La Vengeance de Marie Tudor  
   * Mater dolorosa  
   * Napoléon Bonaparte  
   * Napoléon : danses, galops  
@@ -45,7 +47,7 @@
 
   * Carnet de notes pour une Orestie africaine
 
-## Aujourd'hui le cinéma (24)
+## Aujourd'hui le cinéma (25)
 
   * Across the waters  
   * Alger la blanche  
@@ -63,14 +65,15 @@
   * Lit de punaise  
   * Mont Noir  
   * Na Marei  
-  * Otro Sol  
+  * Otro sol  
   * Passion selon Karim (La)  
   * Plus douce est la nuit  
   * Ruines (Les)  
   * Samantha Chérie  
   * Te quiero ma Vahiné  
   * Trouble-fête  
-  * Una luna de hierro
+  * Una luna de hierro  
+  * Vie à rebours (La)
 
 ## Bo Widerberg (14)
 

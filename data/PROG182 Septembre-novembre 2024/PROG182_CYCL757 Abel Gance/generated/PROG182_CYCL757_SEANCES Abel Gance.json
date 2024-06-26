@@ -435,7 +435,8 @@
         "version": "",
         "format": ""
       }
-    ]
+    ],
+    "mention": "Séance présentée par Georges Mourier"
   },
   {
     "idCategorie": 3273,
@@ -459,7 +460,7 @@
         "format": "DCP"
       }
     ],
-    "mention": "Accompagnement musical par Nicolas Giraud et Fixi"
+    "mention": "Accompagnement musical par Nicolas Giraud et Fixi. Séance présentée par Hervé Pichard"
   },
   {
     "idCategorie": 3273,
@@ -483,7 +484,7 @@
         "format": "DCP"
       }
     ],
-    "mention": "Accompagnement musical par Benjamin Moussay"
+    "mention": "Accompagnement musical par Benjamin Moussay. Séance présentée par Hervé Pichard"
   },
   {
     "idCategorie": 3273,
@@ -579,6 +580,7 @@
         "format": "35 mm"
       }
     ],
+    "titreEvenement": "Programme 1",
     "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
   },
   {
@@ -677,7 +679,7 @@
   {
     "idCategorie": 3444,
     "typeEvenement": 13,
-    "idEvenement": 30074,
+    "idEvenement": 31346,
     "idSeance": 131615,
     "dateHeure": "2024-09-20T19:30:00",
     "idSalle": [
@@ -696,10 +698,10 @@
         "format": "DCP"
       },
       {
-        "idFilm": 73472,
+        "idFilm": 154935,
         "ordre": 2,
         "idSeance": 131615,
-        "idCopie": 28128,
+        "idCopie": 28442,
         "duree": 60,
         "version": "",
         "format": "DCP"
@@ -731,7 +733,9 @@
         "version": "",
         "format": ""
       }
-    ]
+    ],
+    "titreEvenement": "Séance Magirama",
+    "mention": "Séance présentée par Béatrice de Pastre"
   },
   {
     "idCategorie": 3273,
@@ -808,7 +812,8 @@
         "idFilm": 154928,
         "ordre": 4
       }
-    ]
+    ],
+    "titreEvenement": "Programme 2"
   },
   {
     "idCategorie": 3273,
@@ -830,6 +835,38 @@
         "duree": 132,
         "version": "",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3449,
+    "typeEvenement": 13,
+    "idEvenement": 31293,
+    "idSeance": 131723,
+    "dateHeure": "2024-09-25T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 240,
+    "items": [
+      {
+        "idFilm": 154932,
+        "ordre": 1,
+        "idSeance": 131723,
+        "idCopie": 28411,
+        "duree": 103,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154933,
+        "ordre": 2,
+        "idSeance": 131723,
+        "idCopie": 28412,
+        "duree": 104,
+        "version": "",
+        "format": "DCP"
       }
     ]
   }
