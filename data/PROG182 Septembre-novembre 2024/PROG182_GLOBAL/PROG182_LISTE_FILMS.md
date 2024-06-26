@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Abel Gance (40)
+## Abel Gance (39)
 
   * 14 juillet 1953  
   * À l'ombre des grands chênes (Abel Gance)  
@@ -22,7 +22,6 @@
   * Folie du docteur Tube (La)  
   * Gaz mortels (Les)  
   * J'accuse  
-  * J'accuse (Magirama)  
   * Jérôme Perreau, héros des barricades  
   * Louise  
   * Lucrèce Borgia  
