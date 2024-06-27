@@ -254,13 +254,13 @@
   * Dernier des fous (Le)  
   * Dernière séance  
   * Dimanche ou les fantômes  
-  * Jean-François Stévenin : Simples Messieurs  
-  * Patricia Mazuy : avant Saturne  
+  * Jean-François Stévenin : Simple Messieurs  
+  * Patricia Mazuy : Avant Saturne  
+  * Paul Vecchiali : Un, parfois deux...  
   * Peur, petit chasseur (La)  
   * Plus qu'hier, moins que demain  
   * Qu'en savent les morts ?  
   * Tableau (Le)  
-  * Un, parfois deux...  
   * Une odeur de géranium
 
 ## Les 50 ans de MK2 (18)
