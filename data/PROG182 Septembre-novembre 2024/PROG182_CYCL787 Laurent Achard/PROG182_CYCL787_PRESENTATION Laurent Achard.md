@@ -20,4 +20,4 @@ Laurent Achard n'a jamais réalisé de film directement fantastique, mais son ci
 
 On peut se demander ce que Laurent Achard aurait pensé d'une rétrospective intégrale de ses films à la Cinémathèque française, lui qui se rappelait que jeune spectateur, ce lieu (à l'époque situé au palais de Chaillot, avec cette grande descente d'escalier « qui l'intimidait trop ») « ne lui appartenait pas vraiment et qu'il lui faudrait prendre des chemins de traverse ». Avec trois longs et six courts métrages de fiction réalisés en 30 ans, Laurent Achard aura malheureusement été forcé de prendre de nombreux sentiers détournés pour réaliser son œuvre, qui s'accompagne aussi pour les dernières années de portraits amoureux de cinéastes qui ont compté pour lui, Jean-François Stévenin, Jean-Claude Brisseau, Patricia Mazuy, et bien sûr Paul Vecchiali. Avec comme trait d'union entre ces deux cinéastes, Pascal Cervo, incarnation intense et juste de ces personnages d'adultes hantés par leurs peurs d'enfants, auxquels le cinéaste ressemblait tant.
 
-Bernard Payen
+<div class="author">Bernard Payen</div>
