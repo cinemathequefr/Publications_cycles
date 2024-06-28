@@ -7,7 +7,7 @@
   "sousCycles": [
     {
       "tri": 1,
-      "titreSousCycle": "Les films",
+      "titreSousCycle": "Longs métrages",
       "items": [
         {
           "idFilm": 100438,
@@ -105,7 +105,86 @@
       ]
     },
     {
-      "tri": 1,
+      "tri": 2,
+      "titreSousCycle": "Courts métrages",
+      "items": [
+        {
+          "idEvenement": 31243,
+          "content": [
+            {
+              "idFilm": 75543,
+              "ordre": 1,
+              "titre": "Qu'en savent les morts ?",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1991,
+              "generique": [
+                "Laurence Côte",
+                "René Rabreau"
+              ]
+            },
+            {
+              "idFilm": 76312,
+              "ordre": 2,
+              "titre": "Dimanche ou les fantômes",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 1994,
+              "generique": [
+                "Olivia Bouet-Willaumez",
+                "Julien Rivière",
+                "Pierre Lhuillier"
+              ]
+            },
+            {
+              "idFilm": 121778,
+              "ordre": 3,
+              "titre": "Tableau",
+              "art": "Le",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2012,
+              "generique": [
+                "Thérèse Roussel",
+                "Fred Personne",
+                "Pascal Cervo"
+              ]
+            },
+            {
+              "idFilm": 154889,
+              "ordre": 4,
+              "titre": "De ma fenêtre",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2021
+            },
+            {
+              "idFilm": 91824,
+              "ordre": 5,
+              "titre": "Peur, petit chasseur",
+              "art": "La",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2004,
+              "generique": [
+                "Mireille Roussel",
+                "Martin Buisson",
+                "Pierre Beaux"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134233,
+              "dateHeure": "2024-09-08T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
       "titreSousCycle": "Documentaires sur le cinéma",
       "items": [
         {
@@ -127,95 +206,6 @@
               "dateHeure": "2024-09-07T19:30:00",
               "idSalle": "JE",
               "mention": "Séance présentée par Bernard Eisenschitz et Gaël Teicher"
-            }
-          ]
-        },
-        {
-          "idFilm": 154889,
-          "content": [
-            {
-              "idFilm": 154889,
-              "ordre": 4,
-              "titre": "De ma fenêtre",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2021,
-              "precedeSuivi": [
-                [
-                  [
-                    "Qu'en savent les morts ?",
-                    null
-                  ],
-                  [
-                    "Dimanche ou les fantômes",
-                    null
-                  ],
-                  [
-                    "Tableau",
-                    "Le"
-                  ]
-                ],
-                [
-                  [
-                    "Peur, petit chasseur",
-                    "La"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134233,
-              "dateHeure": "2024-09-08T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 76312,
-          "content": [
-            {
-              "idFilm": 76312,
-              "ordre": 2,
-              "titre": "Dimanche ou les fantômes",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 1994,
-              "generique": [
-                "Olivia Bouet-Willaumez",
-                "Julien Rivière",
-                "Pierre Lhuillier"
-              ],
-              "precedeSuivi": [
-                [
-                  [
-                    "Qu'en savent les morts ?",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Tableau",
-                    "Le"
-                  ],
-                  [
-                    "De ma fenêtre",
-                    null
-                  ],
-                  [
-                    "Peur, petit chasseur",
-                    "La"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134233,
-              "dateHeure": "2024-09-08T15:00:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -264,180 +254,7 @@
           ]
         },
         {
-          "idFilm": 154838,
-          "content": [
-            {
-              "idFilm": 154838,
-              "ordre": 2,
-              "titre": "Paul Vecchiali : Un, parfois deux...",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2016,
-              "duree": 52,
-              "version": "",
-              "format": "DCP",
-              "precedeSuivi": [
-                [
-                  [
-                    "Une odeur de géranium",
-                    null
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134232,
-              "dateHeure": "2024-09-11T18:00:00",
-              "idSalle": "GF",
-              "mention": "Séance suivie d'une discussion avec Pascal Cervo, Pierre Sénélas et Mireille Roussel"
-            }
-          ]
-        },
-        {
-          "idFilm": 91824,
-          "content": [
-            {
-              "idFilm": 91824,
-              "ordre": 5,
-              "titre": "Peur, petit chasseur",
-              "art": "La",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2004,
-              "generique": [
-                "Mireille Roussel",
-                "Martin Buisson",
-                "Pierre Beaux"
-              ],
-              "precedeSuivi": [
-                [
-                  [
-                    "Qu'en savent les morts ?",
-                    null
-                  ],
-                  [
-                    "Dimanche ou les fantômes",
-                    null
-                  ],
-                  [
-                    "Tableau",
-                    "Le"
-                  ],
-                  [
-                    "De ma fenêtre",
-                    null
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134233,
-              "dateHeure": "2024-09-08T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 75543,
-          "content": [
-            {
-              "idFilm": 75543,
-              "ordre": 1,
-              "titre": "Qu'en savent les morts ?",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 1991,
-              "generique": [
-                "Laurence Côte",
-                "René Rabreau"
-              ],
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Dimanche ou les fantômes",
-                    null
-                  ],
-                  [
-                    "Tableau",
-                    "Le"
-                  ],
-                  [
-                    "De ma fenêtre",
-                    null
-                  ],
-                  [
-                    "Peur, petit chasseur",
-                    "La"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134233,
-              "dateHeure": "2024-09-08T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 121778,
-          "content": [
-            {
-              "idFilm": 121778,
-              "ordre": 3,
-              "titre": "Tableau",
-              "art": "Le",
-              "realisateurs": "Laurent Achard",
-              "pays": "France",
-              "annee": 2012,
-              "generique": [
-                "Thérèse Roussel",
-                "Fred Personne",
-                "Pascal Cervo"
-              ],
-              "precedeSuivi": [
-                [
-                  [
-                    "Qu'en savent les morts ?",
-                    null
-                  ],
-                  [
-                    "Dimanche ou les fantômes",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "De ma fenêtre",
-                    null
-                  ],
-                  [
-                    "Peur, petit chasseur",
-                    "La"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134233,
-              "dateHeure": "2024-09-08T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 76313,
+          "idEvenement": 31237,
           "content": [
             {
               "idFilm": 76313,
@@ -453,16 +270,18 @@
                 "Babet Ferrier",
                 "Vincent Taveau",
                 "Jérôme Le Paulmier"
-              ],
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Paul Vecchiali : Un, parfois deux...",
-                    null
-                  ]
-                ]
               ]
+            },
+            {
+              "idFilm": 154838,
+              "ordre": 2,
+              "titre": "Paul Vecchiali : Un, parfois deux...",
+              "realisateurs": "Laurent Achard",
+              "pays": "France",
+              "annee": 2016,
+              "duree": 52,
+              "version": "",
+              "format": "DCP"
             }
           ],
           "seances": [
