@@ -191,7 +191,7 @@
   * Portrait de Chantal Akerman  
   * S'il vous plaît... la mer ?
 
-## George Cukor (44)
+## George Cukor (46)
 
   * Actress (The)  
   * Agence Cupidon  
@@ -224,9 +224,11 @@
   * My Fair Lady  
   * Oiseau bleu (L')  
   * Othello  
+  * Quatre filles du docteur March (Les)  
   * Riches et Célèbres  
   * Rockabye  
   * Roman de Marguerite Gautier (Le)  
+  * Roméo et Juliette  
   * Royal Family  
   * Suzanne et ses idées  
   * Sylvia Scarlett  
