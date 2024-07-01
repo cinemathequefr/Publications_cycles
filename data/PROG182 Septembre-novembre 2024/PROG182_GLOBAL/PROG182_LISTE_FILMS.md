@@ -54,7 +54,7 @@
   * Anges déchus (Les)  
   * Après Anna  
   * Après le soleil  
-  * Belles Cicatrices (Les)  
+  * Belles cicatrices (Les)  
   * Captive (La)  
   * Ce qui appartient à César  
   * Cœur ailleurs (Le)  
