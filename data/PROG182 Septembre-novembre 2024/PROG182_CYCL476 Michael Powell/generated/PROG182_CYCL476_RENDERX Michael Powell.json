@@ -240,6 +240,11 @@
           ],
           "seances": [
             {
+              "idSeance": 144457,
+              "dateHeure": "2024-10-26T14:30:00",
+              "idSalle": "HL"
+            },
+            {
               "idSeance": 134073,
               "dateHeure": "2024-10-26T20:45:00",
               "idSalle": "HL"
@@ -611,59 +616,33 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 42007,
+          "content": [
             {
               "idFilm": 42007,
-              "content": [
-                {
-                  "idFilm": 42007,
-                  "ordre": 1,
-                  "titre": "Je sais où je vais",
-                  "titreVo": "I Know Where I'm Going",
-                  "realisateurs": "Michael Powell, Emeric Pressburger",
-                  "pays": "Grande-Bretagne",
-                  "annee": 1945,
-                  "duree": 91,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "Wendy Hiller",
-                    "Roger Livesey",
-                    "Pamela Brown"
-                  ],
-                  "isFocus": true,
-                  "miniTexte": "Joan Webster sait ce qu'elle veut et où elle va, mais le trajet vers son destin est parsemé d'imprévus et de remises en question. Sur une idée de sa propre femme, Frankie, Powell utilise une chanson irlandaise, _I Know Where I'm Going_, comme point de départ d'un conte gaélique dans les brumes écossaises. Toute la malice du duo Powell et Pressburger exulte dans ce portrait pittoresque de l'Écosse profonde, dont les lumières crépusculaires et le folklore accompagnent à merveille cette histoire romanesque. Avec le superbe duo Roger Livesey et Wendy Hiller, en totale harmonie."
-                }
-              ]
-            },
-            {
-              "idEvenement": 31067,
-              "content": [
-                {
-                  "idConf": 31067,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Natacha Thiéry",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Bernard Benoliel",
-                  "miniTexte": "Pour leur septième film sous la bannière des Archers, Powell et Pressburger, à rebours du matérialisme d'après-guerre qu'incarne leur protagoniste, proposent une alternative fondée sur le partage et l'humanisme. Dans un noir et blanc vespéral et hanté, le film allie inventivité technique et puissance indomptée des îles écossaises où se déploie la puissance des éléments. Comédie sentimentale et récit d'apprentissage, c'est un concentré d'intensité romanesque autant que de délicatesse. — Natacha Thiéry"
-                }
+              "ordre": 1,
+              "titre": "Je sais où je vais",
+              "titreVo": "I Know Where I'm Going",
+              "realisateurs": "Michael Powell, Emeric Pressburger",
+              "pays": "Grande-Bretagne",
+              "annee": 1945,
+              "duree": 91,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Wendy Hiller",
+                "Roger Livesey",
+                "Pamela Brown"
               ],
-              "seances": [
-                {
-                  "idSeance": 134071,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-10-26T14:30:00",
-                  "idSalle": "HL",
-                  "idSeanceAssoc": 134071,
-                  "mentionAssoc": "Film + dialogue"
-                },
-                {
-                  "idSeance": 133842,
-                  "dateHeure": "2024-11-17T18:00:00",
-                  "idSalle": "JE",
-                  "mentionAssoc": "Film seul"
-                }
-              ]
+              "isFocus": true,
+              "miniTexte": "Joan Webster sait ce qu'elle veut et où elle va, mais le trajet vers son destin est parsemé d'imprévus et de remises en question. Sur une idée de sa propre femme, Frankie, Powell utilise une chanson irlandaise, _I Know Where I'm Going_, comme point de départ d'un conte gaélique dans les brumes écossaises. Toute la malice du duo Powell et Pressburger exulte dans ce portrait pittoresque de l'Écosse profonde, dont les lumières crépusculaires et le folklore accompagnent à merveille cette histoire romanesque. Avec le superbe duo Roger Livesey et Wendy Hiller, en totale harmonie."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133842,
+              "dateHeure": "2024-11-17T18:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -1436,14 +1415,38 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31067,
+          "content": [
+            {
+              "idConf": 31067,
+              "titre": "Dialogue avec Natacha Thiéry",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Bernard Benoliel",
+              "miniTexte": "Pour leur septième film sous la bannière des Archers, Powell et Pressburger, à rebours du matérialisme d'après-guerre qu'incarne leur protagoniste, proposent une alternative fondée sur le partage et l'humanisme. Dans un noir et blanc vespéral et hanté, le film allie inventivité technique et puissance indomptée des îles écossaises où se déploie la puissance des éléments. Comédie sentimentale et récit d'apprentissage, c'est un concentré d'intensité romanesque autant que de délicatesse. — Natacha Thiéry"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133863,
+              "dateHeure": "2024-10-26T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
-        "titreFilms": "Je sais où je vais",
         "mention": "avec Natacha Thiéry",
-        "dateHeure": "2024-10-26T14:30:00"
+        "dateHeure": "2024-10-26T16:30:00"
       }
     ],
     "Séances présentées": [

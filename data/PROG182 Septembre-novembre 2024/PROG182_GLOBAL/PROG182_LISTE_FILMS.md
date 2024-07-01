@@ -72,7 +72,7 @@
   * Plus douce est la nuit  
   * Ruines (Les)  
   * Samantha Chérie  
-  * Te quiero ma Vahiné  
+  * Te quiero ma vahiné  
   * Trouble-fête  
   * Una luna de hierro  
   * Vie à rebours (La)
