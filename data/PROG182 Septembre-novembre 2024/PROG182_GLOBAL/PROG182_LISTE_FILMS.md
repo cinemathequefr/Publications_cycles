@@ -48,7 +48,7 @@
 
 ## Aujourd'hui le cinéma (28)
 
-  * Across the waters  
+  * Across the Waters  
   * Alger la blanche  
   * Anapidae (appelle-moi)  
   * Anges déchus (Les)  
