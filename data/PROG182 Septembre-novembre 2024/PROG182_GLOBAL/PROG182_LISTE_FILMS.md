@@ -46,12 +46,13 @@
 
   * Carnet de notes pour une Orestie africaine
 
-## Aujourd'hui le cinéma (25)
+## Aujourd'hui le cinéma (28)
 
   * Across the waters  
   * Alger la blanche  
   * Anapidae (appelle-moi)  
   * Anges déchus (Les)  
+  * Après Anna  
   * Après le soleil  
   * Belles Cicatrices (Les)  
   * Captive (La)  
@@ -60,6 +61,8 @@
   * Cœurs perdus  
   * Corps du délit (Le)  
   * Domaine  
+  * Donovan s'évade  
+  * D'un château l'autre  
   * En chien  
   * Lit de punaise  
   * Mont Noir  

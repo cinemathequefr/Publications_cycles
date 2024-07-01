@@ -4,6 +4,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Une soirée avec Douglas Buck",
+      "texteSousCycle": "Premier film (à sketches) et premier coup de maître pour Douglas Buck qui pose, avec _Family Portraits_, les bases d'un cinéma trash, gore et dérangeant, débarrassé de toute forme de concession. Derrière la violence psychologique et des images graphiques aux frontières du supportable se cache une esquisse désespérée de l'Amérique, où la médiocrité humaine rencontre la barbarie. Plus classique, mais aussi plus ludique, son remake de _Sisters_ réinvente le film original de De Palma et dynamite la reconstitution d'époque par un jeu sur le hors-champ et la tentation du grotesque.",
       "items": [
         {
           "idEvenement": 31004,
@@ -18,7 +19,12 @@
               "annee": 2011,
               "duree": 15,
               "version": "",
-              "format": "Numérique"
+              "format": "Numérique",
+              "generique": [
+                "Lena Kleine",
+                "Mélodie Simard",
+                "Jean-Paul Rivière"
+              ]
             },
             {
               "idFilm": 100023,
@@ -30,13 +36,18 @@
               "annee": 2004,
               "duree": 104,
               "version": "VOSTF",
-              "format": "35 mm"
+              "format": "35 mm",
+              "generique": [
+                "Gary Betsworth",
+                "Sally Conway",
+                "William Stone Mahoney"
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 133719,
-              "dateHeure": "2024-09-09T19:00:00",
+              "idSeance": 144451,
+              "dateHeure": "2024-09-09T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -53,12 +64,17 @@
               "annee": 2006,
               "duree": 92,
               "version": "VOSTF",
-              "format": "35 mm"
+              "format": "35 mm",
+              "generique": [
+                "Chloë Sevigny",
+                "Stephen Rea",
+                "Lou Doillon"
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 133720,
+              "idSeance": 144453,
               "dateHeure": "2024-09-09T21:30:00",
               "idSalle": "GF"
             }
@@ -68,7 +84,7 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Claire Angelini",
+      "titreSousCycle": "Avant-première Claire Angelini",
       "items": [
         {
           "idFilm": 154884,
@@ -82,7 +98,13 @@
               "annee": 2023,
               "duree": 92,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Marie-Julie Lemercier",
+                "Geneviève Chan Lone",
+                "Marie-Ange Rey",
+                "Yadira Saís Ruiz"
+              ]
             }
           ],
           "seances": [
@@ -97,7 +119,44 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Avant-première Payal Kapadia",
+      "items": [
+        {
+          "idFilm": 154926,
+          "content": [
+            {
+              "idFilm": 154926,
+              "ordre": 1,
+              "titre": "All We Imagine As Light",
+              "realisateurs": "Payal Kapadia",
+              "pays": "Inde-France-Pays-Bas-Luxembourg",
+              "annee": 2024,
+              "duree": 115,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Kani Kurusti",
+                "Divya Prabha",
+                "Chhaya Kadam",
+                "Hridhu Haroon"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134220,
+              "dateHeure": "2024-09-23T20:30:00",
+              "idSalle": "HL",
+              "mention": " Séance présentée par Payal Kapadia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Une soirée avec Sergio Gobbi",
+      "texteSousCycle": "Avec _Un beau monstre_, Sergio Gobbi, cinéaste touche-à-tout amoureux de la série B, insuffle noirceur et étrangeté au roman éponyme de Dominique Fabre. Pouvoir de l'emprise, narcissisme exacerbé et héros sadique, pour une observation du mal au suspense haletant, parfaitement incarnée par Helmut Berger (_Les Damnés_) et Virna Lisi. À nouveau flamboyante en femme bafouée, l'actrice cherche ensuite la vengeance dans _Les Galets d'Étretat_, improbable _melting pot_ d'érotisme suranné et de surréalisme, qui offre à Maurice Ronet un boulevard pour cabotiner.",
       "items": [
         {
           "idFilm": 46718,
@@ -111,7 +170,13 @@
               "annee": 1971,
               "duree": 125,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Virna Lisi",
+                "Helmut Berger",
+                "Françoise Brion",
+                "Charles Aznavour"
+              ]
             }
           ],
           "seances": [
@@ -155,7 +220,8 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Anatole France / Micheline Presle",
+      "titreSousCycle": "Centenaire de la mort d'Anatole France",
+      "texteSousCycle": "",
       "items": [
         {
           "idEvenement": 30630,
@@ -166,7 +232,7 @@
               "titre": "Ceux de chez nous",
               "realisateurs": "Sacha Guitry",
               "pays": "France",
-              "annee": 1914,
+              "annee": 1915,
               "duree": 21,
               "version": "",
               "format": "DCP",
@@ -185,7 +251,12 @@
               "annee": 1942,
               "duree": 93,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Micheline Presle",
+                "Claude Dauphin",
+                "Louis Jourdan"
+              ]
             }
           ],
           "seances": [
@@ -201,6 +272,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Godzilla Day",
+      "texteSousCycle": "À l'occasion du Godzilla Day, célébration annuelle de la superstar des _kaijū eiga_ (films de monstres japonais), retour en quatre films sur un phénomène devenu mondial, notamment depuis les triomphes récents de _Godzilla Minus One_ et _Monarch: Legacy of Monsters_. Et quelle meilleure entame que le _Godzilla_ de 1954, geste séminal signé Ishirō Honda, dont l'ingéniosité des effets spéciaux, tout en costumes et maquettes, impressionne encore aujourd'hui ? Allégorie sur les bombardements atomiques de 1945, le film sera évidemment présenté dans sa version japonaise non censurée. Treize ans plus tard (_Le Fils de Godzilla_), le monstre se découvre une descendance, et extermine – aidé de son rejeton – des mantes religieuses géantes, dans un film catastrophe à la candeur poétique. _Godzilla contre Mecanik Monster_ de Jun Fukuda (1974) voit la bête affronter un imposteur bionique venu de l'espace, Mechagodzilla. Cette quatorzième itération des aventures du monstre marin, à la patine _seventies_, marque l'apparition d'un nouveau _kaijū_ répondant au nom de King Caesar, étonnante bestiole poilue que l'on retrouvera trente ans plus tard dans _Godzilla : Final wars_, superproduction de la Tōhō commémorant le cinquantenaire de la licence. Un film épique dans lequel Godzilla prête main forte aux Terriens attaqués par une armée de monstres géants, puis subissant une invasion extraterrestre.",
       "items": [
         {
           "idFilm": 37903,
@@ -322,7 +394,12 @@
               "annee": 2024,
               "duree": 129,
               "version": "VO",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Gonçalo Waddington",
+                "Crista Alfaiate",
+                "Jani Zhao"
+              ]
             }
           ],
           "seances": [
@@ -331,42 +408,6 @@
               "dateHeure": "2024-11-04T20:00:00",
               "idSalle": "HL",
               "mention": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Avant-première Payal Kapadia",
-      "items": [
-        {
-          "idFilm": 154926,
-          "content": [
-            {
-              "idFilm": 154926,
-              "ordre": 1,
-              "titre": "All We Imagine As Light",
-              "realisateurs": "Payal Kapadia",
-              "pays": "Inde-France-Pays-Bas-Luxembourg",
-              "annee": 2024,
-              "duree": 115,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Kani Kurusti",
-                "Divya Prabha",
-                "Chhaya Kadam",
-                "Hridhu Haroon"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134220,
-              "dateHeure": "2024-09-23T20:30:00",
-              "idSalle": "HL",
-              "mention": " Séance présentée par Payal Kapadia"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2024-07-06T15:00:00",
-    "2024-07-07T17:30:00"
+    "2024-07-05T20:00:00",
+    "2024-07-08T20:15:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,32 @@
       "tri": 4,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 154937,
+          "content": [
+            {
+              "idFilm": 154937,
+              "ordre": 1,
+              "titre": "7 Promenades avec Mark Brown",
+              "realisateurs": "Pierre Creton, Vincent Barré",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 104,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Mark Brown"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130929,
+              "dateHeure": "2024-07-05T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 154886,
           "content": [
@@ -21,7 +47,14 @@
               "annee": 2015,
               "duree": 93,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "DJ Jamaika",
+                "Marquim do Tropa",
+                "Dilmar Durães",
+                "Gleide Firmino",
+                "Shockito"
+              ]
             }
           ],
           "seances": [
@@ -45,7 +78,13 @@
               "annee": 2017,
               "duree": 100,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Wellington Abreu",
+                "Marquim do Tropa",
+                "Andreia Vieira",
+                "Franklin Ferreira"
+              ]
             }
           ],
           "seances": [
@@ -69,7 +108,12 @@
               "annee": 2022,
               "duree": 150,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Débora Alencar",
+                "Léa Alves da Silva",
+                "Gleide Firmino"
+              ]
             }
           ],
           "seances": [
@@ -78,6 +122,59 @@
               "dateHeure": "2024-07-07T17:30:00",
               "idSalle": "JE",
               "mention": "Séance présentée par Adirley Queirós et Joanna Pimenta"
+            }
+          ]
+        },
+        {
+          "idFilm": 154938,
+          "content": [
+            {
+              "idFilm": 154938,
+              "ordre": 1,
+              "titre": "Chambre d'ombres",
+              "art": "La",
+              "realisateurs": "Camilo Restrepo",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 65,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130934,
+              "dateHeure": "2024-07-08T18:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 154939,
+          "content": [
+            {
+              "idFilm": 154939,
+              "ordre": 1,
+              "titre": "Ballad of Suzanne Césaire",
+              "art": "The",
+              "realisateurs": "Madeleine Hunt-Ehrlich",
+              "pays": "États-Unis",
+              "annee": 2024,
+              "duree": 74,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Zita Hanrot",
+                "Motell Gyn Foster",
+                "Josué Gutierrez"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 130935,
+              "dateHeure": "2024-07-08T20:15:00",
+              "idSalle": "JE"
             }
           ]
         }
