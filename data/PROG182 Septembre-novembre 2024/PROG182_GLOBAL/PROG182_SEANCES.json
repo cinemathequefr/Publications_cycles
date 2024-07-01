@@ -706,7 +706,7 @@
   {
     "idSeance": 133633,
     "idEvenement": 30744,
-    "dateHeure": "2024-09-04T20:15:00",
+    "dateHeure": "2024-09-04T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2569,7 +2569,7 @@
   {
     "idSeance": 131612,
     "idEvenement": 30701,
-    "dateHeure": "2024-09-20T20:30:00",
+    "dateHeure": "2024-09-20T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2594,7 +2594,7 @@
   {
     "idSeance": 131614,
     "idEvenement": 30842,
-    "dateHeure": "2024-09-20T21:00:00",
+    "dateHeure": "2024-09-20T21:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2741,33 +2741,9 @@
     "hashEvenement": "f31415c30965"
   },
   {
-    "idSeance": 134202,
-    "idEvenement": 29886,
-    "dateHeure": "2024-09-22T15:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "James Cameron",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 30824,
-        "titre": "Terminator",
-        "realisateurs": "James Cameron",
-        "annee": 1984,
-        "duree": 107,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f30824"
-  },
-  {
     "idSeance": 133890,
     "idEvenement": 30931,
-    "dateHeure": "2024-09-22T15:00:00",
+    "dateHeure": "2024-09-22T14:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -2810,6 +2786,30 @@
       }
     ],
     "hashEvenement": "f73466f73467f154301f154928"
+  },
+  {
+    "idSeance": 134202,
+    "idEvenement": 29886,
+    "dateHeure": "2024-09-22T15:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "James Cameron",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30824,
+        "titre": "Terminator",
+        "realisateurs": "James Cameron",
+        "annee": 1984,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f30824"
   },
   {
     "idSeance": 131658,
@@ -2935,7 +2935,7 @@
   {
     "idSeance": 133715,
     "idEvenement": 30907,
-    "dateHeure": "2024-09-22T20:00:00",
+    "dateHeure": "2024-09-22T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2959,7 +2959,7 @@
   {
     "idSeance": 131670,
     "idEvenement": 30853,
-    "dateHeure": "2024-09-22T20:30:00",
+    "dateHeure": "2024-09-22T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5391,6 +5391,28 @@
     "hashEvenement": "f80914"
   },
   {
+    "idSeance": 144461,
+    "idEvenement": 31127,
+    "dateHeure": "2024-10-18T15:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Pietro Germi",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31127,
+        "titre": "Qui êtes-vous... Pietro Germi ?",
+        "sousTitre": "Conférence de Sergio Toffetti",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c31127"
+  },
+  {
     "idSeance": 134094,
     "idEvenement": 31153,
     "dateHeure": "2024-10-18T18:00:00",
@@ -6207,7 +6229,7 @@
   {
     "idSeance": 132542,
     "idEvenement": 21664,
-    "dateHeure": "2024-10-25T20:30:00",
+    "dateHeure": "2024-10-25T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6231,7 +6253,7 @@
   {
     "idSeance": 134043,
     "idEvenement": 31129,
-    "dateHeure": "2024-10-25T21:00:00",
+    "dateHeure": "2024-10-25T21:15:00",
     "salle": "JE",
     "cycle": [
       [
@@ -6254,7 +6276,7 @@
   {
     "idSeance": 134084,
     "idEvenement": 31158,
-    "dateHeure": "2024-10-25T21:30:00",
+    "dateHeure": "2024-10-25T21:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6419,8 +6441,8 @@
     "hashEvenement": "f41957"
   },
   {
-    "idSeance": 134072,
-    "idEvenement": 21688,
+    "idSeance": 144458,
+    "idEvenement": 21695,
     "dateHeure": "2024-10-26T18:30:00",
     "salle": "HL",
     "cycle": [
@@ -6429,25 +6451,23 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Natacha Thiéry",
     "items": [
       {
-        "idFilm": 41089,
-        "titre": "Renarde",
-        "art": "La",
+        "idFilm": 42024,
+        "titre": "Colonel Blimp",
         "realisateurs": "Michael Powell, Emeric Pressburger",
-        "annee": 1950,
-        "duree": 110,
+        "annee": 1943,
+        "duree": 163,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f41089"
+    "hashEvenement": "f42024"
   },
   {
     "idSeance": 134061,
     "idEvenement": 30862,
-    "dateHeure": "2024-10-26T19:00:00",
+    "dateHeure": "2024-10-26T19:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6467,31 +6487,6 @@
       }
     ],
     "hashEvenement": "f45670"
-  },
-  {
-    "idSeance": 134073,
-    "idEvenement": 21692,
-    "dateHeure": "2024-10-26T20:45:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Michael Powell",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 42561,
-        "titre": "Chaussons rouges",
-        "art": "Les",
-        "realisateurs": "Michael Powell, Emeric Pressburger",
-        "annee": 1948,
-        "duree": 133,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f42561"
   },
   {
     "idSeance": 134219,
@@ -6663,7 +6658,7 @@
   {
     "idSeance": 132599,
     "idEvenement": 21654,
-    "dateHeure": "2024-10-27T20:15:00",
+    "dateHeure": "2024-10-27T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6916,8 +6911,8 @@
     "hashEvenement": "f38634"
   },
   {
-    "idSeance": 133959,
-    "idEvenement": 21695,
+    "idSeance": 144459,
+    "idEvenement": 21697,
     "dateHeure": "2024-10-31T19:00:00",
     "salle": "HL",
     "cycle": [
@@ -6928,16 +6923,16 @@
     ],
     "items": [
       {
-        "idFilm": 42024,
-        "titre": "Colonel Blimp",
+        "idFilm": 42007,
+        "titre": "Je sais où je vais",
         "realisateurs": "Michael Powell, Emeric Pressburger",
-        "annee": 1943,
-        "duree": 163,
+        "annee": 1945,
+        "duree": 91,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f42024"
+    "hashEvenement": "f42007"
   },
   {
     "idSeance": 133765,
@@ -7013,28 +7008,29 @@
     "hashEvenement": "f44980"
   },
   {
-    "idSeance": 133900,
-    "idEvenement": 29886,
+    "idSeance": 144460,
+    "idEvenement": 21688,
     "dateHeure": "2024-11-01T20:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "James Cameron",
+        "Michael Powell",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 30824,
-        "titre": "Terminator",
-        "realisateurs": "James Cameron",
-        "annee": 1984,
-        "duree": 107,
+        "idFilm": 41089,
+        "titre": "Renarde",
+        "art": "La",
+        "realisateurs": "Michael Powell, Emeric Pressburger",
+        "annee": 1950,
+        "duree": 110,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f30824"
+    "hashEvenement": "f41089"
   },
   {
     "idSeance": 133766,
@@ -7947,7 +7943,7 @@
   {
     "idSeance": 133836,
     "idEvenement": 21672,
-    "dateHeure": "2024-11-09T18:00:00",
+    "dateHeure": "2024-11-09T18:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8971,7 +8967,7 @@
   {
     "idSeance": 133842,
     "idEvenement": 21697,
-    "dateHeure": "2024-11-17T18:00:00",
+    "dateHeure": "2024-11-17T18:15:00",
     "salle": "JE",
     "cycle": [
       [
@@ -8995,7 +8991,7 @@
   {
     "idSeance": 133163,
     "idEvenement": 30877,
-    "dateHeure": "2024-11-17T20:00:00",
+    "dateHeure": "2024-11-17T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9020,7 +9016,7 @@
   {
     "idSeance": 133158,
     "idEvenement": 31018,
-    "dateHeure": "2024-11-17T20:30:00",
+    "dateHeure": "2024-11-17T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -9300,7 +9296,7 @@
   {
     "idSeance": 133346,
     "idEvenement": 21665,
-    "dateHeure": "2024-11-21T20:00:00",
+    "dateHeure": "2024-11-21T20:15:00",
     "salle": "HL",
     "cycle": [
       [
