@@ -46,7 +46,7 @@
 
   * Carnet de notes pour une Orestie africaine
 
-## Aujourd'hui le cinéma (28)
+## Aujourd'hui le cinéma (35)
 
   * Across the Waters  
   * Alger la blanche  
@@ -55,6 +55,7 @@
   * Après Anna  
   * Après le soleil  
   * Belles cicatrices (Les)  
+  * Bernacles  
   * Captive (La)  
   * Ce qui appartient à César  
   * Cœur ailleurs (Le)  
@@ -64,18 +65,24 @@
   * Donovan s'évade  
   * D'un château l'autre  
   * En chien  
+  * Histoire tragique avec fin heureuse  
   * Lit de punaise  
+  * Misérable miracle  
   * Mont Noir  
   * Na Marei  
+  * Oncle Thomas, la comptabilité des jours  
   * Otro sol  
+  * Papillon  
   * Passion selon Karim (La)  
   * Plus douce est la nuit  
-  * Ruines (Les)  
   * Samantha Chérie  
+  * Tableau (Le)  
   * Te quiero ma vahiné  
   * Trouble-fête  
   * Una luna de hierro  
-  * Vie à rebours (La)
+  * Up the River  
+  * Vie à rebours (La)  
+  * Voix des sirènes (La)
 
 ## Bo Widerberg (14)
 

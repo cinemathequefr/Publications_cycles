@@ -1499,7 +1499,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
+    "mention": "Ouverture de la rétrospective. Séance présentée par Chiara Mastroianni",
     "items": [
       {
         "idFilm": 43326,
@@ -4329,8 +4329,8 @@
     "hashEvenement": "f31258"
   },
   {
-    "idSeance": 134078,
-    "idEvenement": 31163,
+    "idSeance": 144472,
+    "idEvenement": 31029,
     "dateHeure": "2024-10-06T17:15:00",
     "salle": "GF",
     "cycle": [
@@ -4339,18 +4339,17 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Bartabas et Marin Karmitz",
     "items": [
       {
-        "idFilm": 46607,
-        "titre": "Mazeppa",
-        "realisateurs": "Bartabas",
-        "annee": 1992,
-        "duree": 111,
-        "format": "35 mm"
+        "idFilm": 50887,
+        "titre": "Mélo",
+        "realisateurs": "Alain Resnais",
+        "annee": 1986,
+        "duree": 112,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f46607"
+    "hashEvenement": "f50887"
   },
   {
     "idSeance": 133962,
@@ -4460,8 +4459,8 @@
     "hashEvenement": "f31437"
   },
   {
-    "idSeance": 133812,
-    "idEvenement": 31029,
+    "idSeance": 144471,
+    "idEvenement": 31163,
     "dateHeure": "2024-10-07T20:45:00",
     "salle": "GF",
     "cycle": [
@@ -4470,17 +4469,18 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Bartabas et Marin Karmitz",
     "items": [
       {
-        "idFilm": 50887,
-        "titre": "Mélo",
-        "realisateurs": "Alain Resnais",
-        "annee": 1986,
-        "duree": 112,
-        "format": "DCP"
+        "idFilm": 46607,
+        "titre": "Mazeppa",
+        "realisateurs": "Bartabas",
+        "annee": 1992,
+        "duree": 111,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f50887"
+    "hashEvenement": "f46607"
   },
   {
     "idSeance": 132088,
@@ -5285,6 +5285,7 @@
         "realisateurs": "Roger Corman",
         "annee": 1962,
         "duree": 84,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -6330,7 +6331,7 @@
       },
       {
         "idConf": 31350,
-        "titre": "Rencontre avec Thelma Schoonmaker",
+        "titre": "Dialogue avec Thelma Schoonmaker",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -7413,7 +7414,7 @@
   },
   {
     "idSeance": 139447,
-    "idEvenement": 31289,
+    "idEvenement": 31390,
     "dateHeure": "2024-11-04T19:00:00",
     "salle": "JE",
     "cycle": [
@@ -7433,17 +7434,16 @@
         "format": "DCP"
       },
       {
-        "idFilm": 44574,
-        "titre": "Ruines",
-        "art": "Les",
-        "realisateurs": "Mrinal Sen",
-        "annee": 1984,
-        "duree": 102,
+        "idFilm": 67331,
+        "titre": "Up the River",
+        "realisateurs": "John Ford",
+        "annee": 1930,
+        "duree": 92,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f154918f44574"
+    "hashEvenement": "f154918f67331"
   },
   {
     "idSeance": 132797,
@@ -9162,6 +9162,83 @@
       }
     ],
     "hashEvenement": "f49822"
+  },
+  {
+    "idSeance": 144355,
+    "idEvenement": 31342,
+    "dateHeure": "2024-11-18T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Carte blanche à la revue Blink Blank"
+      ]
+    ],
+    "mention": "Séance présentée par Jacques Kermabon",
+    "items": [
+      {
+        "idFilm": 142425,
+        "titre": "Oncle Thomas, la comptabilité des jours",
+        "realisateurs": "Regina Pessoa",
+        "annee": 2019,
+        "duree": 12,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 100882,
+        "titre": "Histoire tragique avec fin heureuse",
+        "realisateurs": "Regina Pessoa",
+        "annee": 2005,
+        "duree": 8,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 154940,
+        "titre": "Bernacles",
+        "realisateurs": "Alexandra Ramires, Laura Gonçalves",
+        "annee": 2024,
+        "duree": 11,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154941,
+        "titre": "Misérable miracle",
+        "realisateurs": "Ryo Orikasa",
+        "annee": 2023,
+        "duree": 6,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154942,
+        "titre": "Voix des sirènes",
+        "art": "La",
+        "realisateurs": "Gianluigi Toccafondo",
+        "annee": 2024,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154943,
+        "titre": "Papillon",
+        "realisateurs": "Florence Miailhe",
+        "annee": 2024,
+        "duree": 15,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154944,
+        "titre": "Tableau",
+        "art": "Le",
+        "realisateurs": "Michèle Lemieux",
+        "annee": 2024,
+        "duree": 12,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f142425f100882f154940f154941f154942f154943f154944"
   },
   {
     "idSeance": 133620,

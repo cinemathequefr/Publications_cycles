@@ -111,14 +111,16 @@
   * Ten Tigers Of Kwangtung  
   * Vengeance des infirmes (La)
 
-## Le FIDMarseille à Paris (6)
+## Le FIDMarseille à Paris (8)
 
   * 7 Promenades avec Mark Brown  
   * Ballad of Suzanne Césaire (The)  
   * Branco sai, preto fica  
   * Chambre d'ombres (La)  
   * Era uma vez Brasília  
-  * Mato seco em chamas
+  * Figuras gravadas na faca com a seiva das bananeiras (As)  
+  * Mato seco em chamas  
+  * Um campo de aviação
 
 ## Ma petite Cinémathèque (7)
 
