@@ -630,38 +630,59 @@
           ]
         },
         {
-          "idFilm": 42007,
-          "content": [
+          "groupe": [
             {
               "idFilm": 42007,
-              "ordre": 1,
-              "titre": "Je sais où je vais",
-              "titreVo": "I Know Where I'm Going",
-              "realisateurs": "Michael Powell, Emeric Pressburger",
-              "pays": "Grande-Bretagne",
-              "annee": 1945,
-              "duree": 91,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Wendy Hiller",
-                "Roger Livesey",
-                "Pamela Brown"
-              ],
-              "isFocus": true,
-              "miniTexte": "Joan Webster sait ce qu'elle veut et où elle va, mais le trajet vers son destin est parsemé d'imprévus et de remises en question. Sur une idée de sa propre femme, Frankie, Powell utilise une chanson irlandaise, _I Know Where I'm Going_, comme point de départ d'un conte gaélique dans les brumes écossaises. Toute la malice du duo Powell et Pressburger exulte dans ce portrait pittoresque de l'Écosse profonde, dont les lumières crépusculaires et le folklore accompagnent à merveille cette histoire romanesque. Avec le superbe duo Roger Livesey et Wendy Hiller, en totale harmonie."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 144459,
-              "dateHeure": "2024-10-31T19:00:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 42007,
+                  "ordre": 1,
+                  "titre": "Je sais où je vais",
+                  "titreVo": "I Know Where I'm Going",
+                  "realisateurs": "Michael Powell, Emeric Pressburger",
+                  "pays": "Grande-Bretagne",
+                  "annee": 1945,
+                  "duree": 91,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Wendy Hiller",
+                    "Roger Livesey",
+                    "Pamela Brown"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Joan Webster sait ce qu'elle veut et où elle va, mais le trajet vers son destin est parsemé d'imprévus et de remises en question. Sur une idée de sa propre femme, Frankie, Powell utilise une chanson irlandaise, _I Know Where I'm Going_, comme point de départ d'un conte gaélique dans les brumes écossaises. Toute la malice du duo Powell et Pressburger exulte dans ce portrait pittoresque de l'Écosse profonde, dont les lumières crépusculaires et le folklore accompagnent à merveille cette histoire romanesque. Avec le superbe duo Roger Livesey et Wendy Hiller, en totale harmonie."
+                }
+              ]
             },
             {
-              "idSeance": 133842,
-              "dateHeure": "2024-11-17T18:15:00",
-              "idSalle": "JE"
+              "idEvenement": 31067,
+              "content": [
+                {
+                  "idConf": 31067,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Natacha Thiéry",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel",
+                  "miniTexte": "Pour leur septième film sous la bannière des Archers, Powell et Pressburger, à rebours du matérialisme d'après-guerre qu'incarne leur protagoniste, proposent une alternative fondée sur le partage et l'humanisme. Dans un noir et blanc vespéral et hanté, le film allie inventivité technique et puissance indomptée des îles écossaises où se déploie la puissance des éléments. Comédie sentimentale et récit d'apprentissage, c'est un concentré d'intensité romanesque autant que de délicatesse. — Natacha Thiéry"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 144459,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-10-31T19:00:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 144459,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 133842,
+                  "dateHeure": "2024-11-17T18:15:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -676,8 +697,8 @@
               "pays": "Grande-Bretagne",
               "annee": 1935,
               "duree": 66,
-              "version": "STF",
-              "format": "",
+              "version": "VOSTF",
+              "format": "DCP",
               "adaptation": "D'après la pièce _Lazybones_ d'Ernest Denny.",
               "generique": [
                 "Ian Hunter",
@@ -930,7 +951,7 @@
               "pays": "Grande-Bretagne",
               "annee": 1935,
               "duree": 76,
-              "version": "STF",
+              "version": "VOSTF",
               "format": "DCP",
               "adaptation": "D'après la pièce _The Haunted Light_ d'Evadne Price et Joan Roy Byford.",
               "generique": [
@@ -1065,7 +1086,7 @@
               "pays": "Grande-Bretagne",
               "annee": 1934,
               "duree": 66,
-              "version": "STF",
+              "version": "VOSTF",
               "format": "DCP",
               "generique": [
                 "Ian Hunter",
@@ -1277,7 +1298,7 @@
               "pays": "États-Unis-Grande-Bretagne",
               "annee": 1952,
               "duree": 82,
-              "version": "STF",
+              "version": "VOSTF",
               "format": "16 mm",
               "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
               "generique": [
@@ -1331,7 +1352,7 @@
               "pays": "Grande-Bretagne",
               "annee": 1941,
               "duree": 6,
-              "version": "STF",
+              "version": "VOSTF",
               "format": "35 mm",
               "generique": [
                 "John Gielgud"
@@ -1434,31 +1455,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 31067,
-          "content": [
-            {
-              "idConf": 31067,
-              "titre": "Dialogue avec Natacha Thiéry",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Bernard Benoliel",
-              "miniTexte": "Pour leur septième film sous la bannière des Archers, Powell et Pressburger, à rebours du matérialisme d'après-guerre qu'incarne leur protagoniste, proposent une alternative fondée sur le partage et l'humanisme. Dans un noir et blanc vespéral et hanté, le film allie inventivité technique et puissance indomptée des îles écossaises où se déploie la puissance des éléments. Comédie sentimentale et récit d'apprentissage, c'est un concentré d'intensité romanesque autant que de délicatesse. — Natacha Thiéry"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 144462,
-              "dateHeure": "2024-10-31T20:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -1469,8 +1465,9 @@
         "dateHeure": "2024-10-26T14:30:00"
       },
       {
+        "titreFilms": "Je sais où je vais",
         "mention": "avec Natacha Thiéry",
-        "dateHeure": "2024-10-31T20:30:00"
+        "dateHeure": "2024-10-31T19:00:00"
       }
     ],
     "Séances présentées": [
