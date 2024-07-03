@@ -73,8 +73,8 @@
   {
     "idCategorie": 3414,
     "typeEvenement": 13,
-    "idEvenement": 31144,
-    "idSeance": 134002,
+    "idEvenement": 31139,
+    "idSeance": 144478,
     "dateHeure": "2024-10-12T15:00:00",
     "idSalle": [
       "HL",
@@ -83,8 +83,13 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 64403,
-        "ordre": 1
+        "idFilm": 53225,
+        "ordre": 1,
+        "idSeance": 144478,
+        "idCopie": 28318,
+        "duree": 0,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -215,9 +220,9 @@
   {
     "idCategorie": 3414,
     "typeEvenement": 13,
-    "idEvenement": 31139,
-    "idSeance": 134007,
-    "dateHeure": "2024-10-17T18:30:00",
+    "idEvenement": 31144,
+    "idSeance": 144479,
+    "dateHeure": "2024-10-17T18:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -225,29 +230,9 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 53225,
-        "ordre": 1,
-        "idSeance": 134007,
-        "idCopie": 28318,
-        "duree": 0,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 64403,
+        "ordre": 1
       }
-    ]
-  },
-  {
-    "idCategorie": 3416,
-    "typeEvenement": 14,
-    "idEvenement": 31127,
-    "idSeance": 144461,
-    "dateHeure": "2024-10-18T15:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {}
     ]
   },
   {
@@ -631,18 +616,23 @@
   {
     "idCategorie": 3414,
     "typeEvenement": 13,
-    "idEvenement": 31144,
-    "idSeance": 134047,
+    "idEvenement": 31419,
+    "idSeance": 144481,
     "dateHeure": "2024-10-27T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 64403,
-        "ordre": 1
+        "idFilm": 42447,
+        "ordre": 1,
+        "idSeance": 144481,
+        "idCopie": 25377,
+        "duree": 140,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   }

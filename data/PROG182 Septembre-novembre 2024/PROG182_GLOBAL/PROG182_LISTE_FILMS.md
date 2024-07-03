@@ -396,7 +396,7 @@
   * Marin masqué (Le)  
   * Working Girls
 
-## Pietro Germi (19)
+## Pietro Germi (20)
 
   * Alfredo, Alfredo  
   * Au nom de la loi  
@@ -410,6 +410,7 @@
   * Jalousie  
   * Jeunesse perdue  
   * Mademoiselle la présidente  
+  * Mes chers amis  
   * Meurtre à l'italienne  
   * Scrittori e poeti anglosassoni a Roma  
   * Séduite et abandonnée  
