@@ -451,7 +451,7 @@
   * Un chat, un chat  
   * Vérité zébrée (La)
 
-## Séances spéciales (14)
+## Séances spéciales (13)
 
   * All We Imagine As Light  
   * Ceux de chez nous  
@@ -459,7 +459,6 @@
   * Félicie Nanteuil  
   * Galets d'Étretat (Les)  
   * Godzilla  
-  * Godzilla contre Mecanik Monster  
   * Godzilla: Final Wars  
   * Grand Tour  
   * Jeanne fait des siennes  
