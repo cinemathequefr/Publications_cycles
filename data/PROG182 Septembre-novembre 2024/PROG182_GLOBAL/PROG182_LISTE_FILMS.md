@@ -25,7 +25,7 @@
   * Jérôme Perreau, héros des barricades  
   * Louise  
   * Lucrèce Borgia  
-  * Marie Tudor, 1re époque : Henri VIII  
+  * Marie Tudor, 1e époque : Henri VIII  
   * Marie Tudor, 2e époque : La Vengeance de Marie Tudor  
   * Mater dolorosa  
   * Napoléon Bonaparte  
@@ -264,7 +264,7 @@
   * Dernier des fous (Le)  
   * Dernière séance  
   * Dimanche ou les fantômes  
-  * Jean-François Stévenin : Simple Messieurs  
+  * Jean-François Stévenin : Simple messieurs  
   * Patricia Mazuy : Avant Saturne  
   * Paul Vecchiali : Un, parfois deux...  
   * Peur, petit chasseur (La)  
