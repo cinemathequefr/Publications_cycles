@@ -3,6 +3,33 @@
   "titre": "Décembre 2024-février 2025",
   "cycles": [
     {
+      "idCycleProg": 140,
+      "titreCycle": "Aujourd'hui le cinéma",
+      "isReg": true,
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 143,
+      "titreCycle": "Fenêtre sur les collections",
+      "isReg": true,
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 624,
+      "titreCycle": "David Cronenberg",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [2673], "tri": 1 },
+        { "titre": "Courts métrages", "cats": [2684], "tri": 2 },
+        { "titre": "Films pour la télévision", "cats": [2685], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [2690], "tri": 4 }
+      ]
+    },
+    {
+      "idCycleProg": 796,
+      "titreCycle": "Sergueï Paradjanov",
+      "sousCycles": [{ "titre": "Les films", "cats": [3394], "tri": 1 }]
+    },
+    {
       "idCycleProg": 805,
       "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
       "sousCycles": [
@@ -36,6 +63,24 @@
         { "titre": "Les films", "cats": [3453], "tri": 1 },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
+      "excludeSeances": []
+    },
+    {
+      "idCycleProg": 809,
+      "titreCycle": "Marlon Brando",
+      "sousCycles": [{ "titre": "Les films", "cats": [3459], "tri": 1 }],
+      "excludeSeances": []
+    },
+    {
+      "idCycleProg": 811,
+      "titreCycle": "Yves Mirande",
+      "sousCycles": [{ "titre": "Les films", "cats": [3464], "tri": 1 }],
+      "excludeSeances": []
+    },
+    {
+      "idCycleProg": 812,
+      "titreCycle": "Éric Demarsan",
+      "sousCycles": [{ "titre": "Les films", "cats": 3466, "tri": 1 }],
       "excludeSeances": []
     }
   ]
