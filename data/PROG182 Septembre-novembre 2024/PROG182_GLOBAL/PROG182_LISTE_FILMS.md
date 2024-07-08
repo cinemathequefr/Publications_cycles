@@ -254,7 +254,7 @@
   * Avatar  
   * Avatar : La Voie de l'eau  
   * Terminator  
-  * Terminator 2 : Le Jugement dernier  
+  * Terminator 2 : Le Jugement dernier (version 3D)  
   * Titanic
 
 ## Laurent Achard (13)
@@ -340,7 +340,7 @@
   * Vertiges  
   * Yeux noirs (Les)
 
-## Michael Powell (46)
+## Michael Powell (45)
 
   * 49e parallèle  
   * A Canterbury Tale  
@@ -371,7 +371,6 @@
   * Man Behind the Mask (The)  
   * Narcisse noir (Le)  
   * Night of the Party (The)  
-  * Oh... Rosalinda!!  
   * Pavillon rouge (Le)  
   * Phantom Light (The)  
   * Queen's Guards (The)  
