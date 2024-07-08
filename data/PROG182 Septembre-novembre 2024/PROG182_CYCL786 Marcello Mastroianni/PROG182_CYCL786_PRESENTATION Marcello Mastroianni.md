@@ -1,4 +1,4 @@
-> Il incarne à lui seul le cinéma italien d'après-guerre, 150 films dont une somme de chefs-d'œuvre qui ne donnent qu'une vague idée de l'empreinte qu'il a laissée sur le septième art (_Les Nuits blanches_, _Le Bel Antonio_, _Le Pigeon_, _La Dolce vita_, _8½_, _Les Yeux noirs_). Aperçu en 25 films d'une filmographie inépuisable.
+> Il incarne à lui seul le cinéma italien d'après-guerre, 150 films dont une somme de chefs-d'œuvre qui ne donnent qu'une vague idée de l'empreinte qu'il a laissée sur le septième art (_Les Nuits blanches_, _Le Bel Antonio_, _Le Pigeon_, _La Dolce vita_, _8½_, _Les Yeux noirs_). Aperçu en 25 films d'une filmographie inépuisable, présentés pour la plupart en versions restaurées (restaurations effectuées en 2024 pour célébrer le centenaire de sa naissance).
 
 # Le siècle Mastroianni
 
