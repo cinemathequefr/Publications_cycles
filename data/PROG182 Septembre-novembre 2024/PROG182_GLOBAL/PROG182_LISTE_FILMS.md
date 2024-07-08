@@ -451,7 +451,7 @@
   * Un chat, un chat  
   * Vérité zébrée (La)
 
-## Séances spéciales (13)
+## Séances spéciales (15)
 
   * All We Imagine As Light  
   * Ceux de chez nous  
@@ -462,9 +462,11 @@
   * Godzilla: Final Wars  
   * Grand Tour  
   * Jeanne fait des siennes  
+  * King Kong contre Godzilla  
   * Planète des monstres (La)  
   * Sisters  
   * Theatre bizarre: The Accident (The)  
+  * Trois kilomètres jusqu'à la fin du monde  
   * Un beau monstre
 
 ## Zucker, Abrahams et Zucker (7)
