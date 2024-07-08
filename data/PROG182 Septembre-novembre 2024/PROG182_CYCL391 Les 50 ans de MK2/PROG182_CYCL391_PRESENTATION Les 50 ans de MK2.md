@@ -1,4 +1,4 @@
-> Alors que nous fêtons les 50 ans de la société de production et distribution fondée par Marin Karmitz, sélection de 15 titres triés sur le volet issus d'un catalogue d'une diversité et d'une exigence de producteur à nulles autres pareilles. Où l'on croisera les figures de Claude Chabrol, Jean-Luc Godard, Louis Malle, Abbas Kiarostami, Étienne Chatiliez ou encore Alain Resnais.
+> Alors que la société de production et distribution fondée par Marin Karmitz fête ses 50 ans, sélection de 15 titres triés sur le volet issus d'un catalogue d'une diversité et d'une exigence de producteur à nulles autres pareilles. Où l'on croisera les figures de Claude Chabrol, Jean-Luc Godard, Louis Malle, Abbas Kiarostami, Étienne Chatiliez ou encore Alain Resnais.
 
 # La curiosité en partage
 
