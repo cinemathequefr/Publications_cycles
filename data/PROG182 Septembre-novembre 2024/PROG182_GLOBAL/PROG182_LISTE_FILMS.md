@@ -294,11 +294,12 @@
   * Vent nous emportera (Le)  
   * Vie est un long fleuve tranquille (La)
 
-## Ma petite Cinémathèque (16)
+## Ma petite Cinémathèque (17)
 
   * Belle au bois dormant (La)  
   * Brendan et le secret de Kells  
   * Días de los muertos (Los)  
+  * Ellian et le sortilège  
   * Flibustière des Antilles (La)  
   * Homme qui rétrécit (L')  
   * How to Paint Your Rainbow  
