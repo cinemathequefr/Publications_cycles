@@ -114,7 +114,7 @@
   * Stay Hungry  
   * Veuve noire (La)
 
-## Casses, hold-ups et braquages en 25 indispensables (24)
+## Casses, hold-ups et braquages en 25 indispensables (25)
 
   * Cercle rouge (Le)  
   * Coup de l'escalier (Le)  
@@ -125,6 +125,7 @@
   * Heat  
   * Inconnu de Las Vegas (L')  
   * Inconnus dans la ville (Les)  
+  * Inside Man : L'Homme de l'intérieur  
   * Mélodie en sous-sol  
   * Mise à sac  
   * Mission: Impossible  
