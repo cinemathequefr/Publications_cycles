@@ -1,4 +1,4 @@
-> Disparu en mai 2024, il était l'une des figures majeures du cinéma américain d'après-guerre, qu'il aura contribué à dessiner à la fois comme réalisateur et producteur. Derrière la caméra, il signe un nombre impressionnant de séries B, thrillers ou films d'épouvante fauchés, parmi lesquels quelques grandes réussites (_Le Masque de la mort rouge_, _The Intruder_). Comme producteur, il donne sa chance à de futurs grands noms d'Hollywood : Francis Ford Coppola, Martin Scorsese, ou Jonathan Demme. Hommage en 12 films.
+> Disparu en mai 2024, il était l'une des figures majeures du cinéma américain d'après-guerre, qu'il aura contribué à dessiner à la fois comme réalisateur et producteur. Derrière la caméra, il signe un nombre impressionnant de séries B, thrillers ou films d'épouvante fauchés, parmi lesquels quelques grandes réussites (_Le Masque de la mort rouge_, _The Intruder_). Comme producteur, il donne sa chance à de futurs grands noms d'Hollywood : Francis Ford Coppola, Martin Scorsese, James Cameron ou Jonathan Demme. Hommage en 12 films.
 
 # Qui êtes-vous... Roger Corman ?
 
