@@ -39,5 +39,5 @@
   * Mains d'or (Les)  
   * Premier gars (Le)  
   * Rhapsodie ukrainienne  
-  * Sayat nova – Couleur de la grenade  
+  * Sayat Nova : La Couleur de la grenade  
   * Une petite fleur sur la pierre  
