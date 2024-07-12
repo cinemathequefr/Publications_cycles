@@ -254,7 +254,7 @@
   * Avatar  
   * Avatar : La Voie de l'eau  
   * Terminator  
-  * Terminator 2 : Le Jugement dernier (version 3D)  
+  * Terminator 2 : Le Jugement dernier  
   * Titanic
 
 ## Laurent Achard (13)
@@ -262,7 +262,7 @@
   * Brisseau, 251 rue Marcadet  
   * De ma fenêtre  
   * Dernier des fous (Le)  
-  * Dernière séance  
+  * Dernière Séance  
   * Dimanche ou les fantômes  
   * Jean-François Stévenin : Simple messieurs  
   * Patricia Mazuy : Avant Saturne  
@@ -444,7 +444,7 @@
   * Des filles et des chiens  
   * Fille du directeur et la Correspondante anglaise (La)  
   * Gentille  
-  * Grande petite  
+  * Grande Petite  
   * Insu (L')  
   * Ma vie, ma gueule  
   * Nathalie Moretti...  
@@ -475,7 +475,7 @@
 
   * Hamburger Film Sandwich  
   * Hot Shots!  
-  * Hot Shots! Part 2  
+  * Hot Shots! 2  
   * Top Secret!  
   * Y a-t-il un flic pour sauver la reine ?  
   * Y a-t-il un flic pour sauver le président ?  
