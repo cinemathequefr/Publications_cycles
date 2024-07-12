@@ -1,4 +1,4 @@
-> Hommage à Sophie Fillières, disparue en juillet 2023, alors que sort son ultime film, _Ma vie, ma gueule_. Ses enfants, Agathe et Adam Bonitzer, qui en ont terminé le montage, seront entourés des actrices, acteurs, techniciens et amis de la cinéaste, pour présenter ses films (_Aïe_, _Gentille_, _Un chat, un chat_...) et célébrer son art, unique. Celui du décalage loufoque, du pas de côté hilarant, comme seuls antidotes à l'absurdité de l'existence.
+> Hommage à Sophie Fillières, disparue en juillet 2023, alors que sort son ultime film, _Ma vie, ma gueule_. Ses enfants, Agathe et Adam Bonitzer, qui en ont terminé le montage, seront entourés des actrices, acteurs et amis de la cinéaste, pour présenter ses films (_Aïe_, _Gentille_, _Un chat, un chat_...) et célébrer son art, unique. Celui du décalage loufoque, du pas de côté hilarant, comme seuls antidotes à l'absurdité de l'existence.
 
 # Pionnière du malentendu
 

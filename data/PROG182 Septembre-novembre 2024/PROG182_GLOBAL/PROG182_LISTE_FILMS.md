@@ -452,7 +452,7 @@
   * Un chat, un chat  
   * Vérité zébrée (La)
 
-## Séances spéciales (15)
+## Séances spéciales (16)
 
   * All We Imagine As Light  
   * Ceux de chez nous  
@@ -464,6 +464,7 @@
   * Grand Tour  
   * Jeanne fait des siennes  
   * King Kong contre Godzilla  
+  * Miséricorde  
   * Planète des monstres (La)  
   * Sisters  
   * Theatre bizarre: The Accident (The)  
