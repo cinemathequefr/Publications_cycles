@@ -12,7 +12,7 @@ Au cœur des films, la honte sociale, certes, mais jamais une dépréciation de 
 
 Avec _Amour 65_, Widerberg salue la Nouvelle Vague et Cassavetes, et propose un film hybride sur la fragilité des êtres, aussi insaisissables que les miroitements de la lumière qui passe à travers l'optique dont son personnage de cinéaste ne se sépare guère. Cette lumière est aussi celle qui illumine de fenêtre en fenêtre, de reflets en reflets, Britt sur le chemin de sa liberté à la fin du _Péché suédois_.
 
-## « Le socialisme sans la joue n'est rien » (Bo Widerberg)
+## « Le socialisme sans la joie n'est rien » (Bo Widerberg)
 
 _Hello, Roland !_ (1966), satire du monde publicitaire, sera le dernier film de Widerberg en noir et blanc. Son passage à la couleur s'accompagne d'une variation dans la forme, qu'il revendique : « Personnellement, j'essaie d'être le plus classique dans la forme, et j'ai bien l'intention de l'être encore plus. » Car comment toucher les spectateurs si la forme fait barrage ? On lui reprochera parfois une joliesse toute impressionniste dans _Elvira Madigan_ ou _Ådalen '31_, comme si la lumière et les couleurs n'avaient pas leur place dans la description de ces vies minuscules.
 
