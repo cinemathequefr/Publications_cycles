@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Abel Gance (39)
+## Abel Gance (38)
 
   * 14 juillet 1953  
   * À l'ombre des grands chênes (Abel Gance)  
@@ -33,7 +33,6 @@
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
   * Paradis perdu  
-  * Pictographe (Le)  
   * Poliche  
   * Roman d'un jeune homme pauvre (Le)  
   * Roue (La)  
@@ -295,8 +294,9 @@
   * Vent nous emportera (Le)  
   * Vie est un long fleuve tranquille (La)
 
-## Ma petite Cinémathèque (17)
+## Ma petite Cinémathèque (18)
 
+  * Angelo dans la forêt mystérieuse  
   * Belle au bois dormant (La)  
   * Brendan et le secret de Kells  
   * Días de los muertos (Los)  
@@ -459,7 +459,7 @@
   * Family Portraits, une trilogie américaine  
   * Félicie Nanteuil  
   * Galets d'Étretat (Les)  
-  * Godzilla  
+  * Godzilla contre Mecanik Monster  
   * Godzilla: Final Wars  
   * Grand Tour  
   * Jeanne fait des siennes  
