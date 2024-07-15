@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-12-11T20:00:00",
-    "2024-12-11T20:00:00"
+    "2024-12-14T19:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,37 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 41117,
+          "content": [
+            {
+              "idFilm": 41117,
+              "ordre": 1,
+              "titre": "Cabinet du Docteur Caligari",
+              "art": "Le",
+              "titreVo": "Kabinett des Dr. Caligari",
+              "artVo": "Das",
+              "realisateurs": "Robert Wiene",
+              "pays": "Allemagne",
+              "annee": 1922,
+              "duree": 78,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Werner Krauss",
+                "Conrad Veidt",
+                "Lil Dagover"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137328,
+              "dateHeure": "2024-12-13T20:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 58648,
           "content": [
@@ -23,7 +54,7 @@
               "pays": "États-Unis",
               "annee": 1943,
               "duree": 71,
-              "version": "VO",
+              "version": "VOSTF",
               "format": "35 mm",
               "generique": [
                 "Kim Hunter",
@@ -38,6 +69,129 @@
               "dateHeure": "2024-12-11T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 34068,
+          "content": [
+            {
+              "idFilm": 34068,
+              "ordre": 1,
+              "titre": "Shining",
+              "titreVo": "Shining",
+              "artVo": "The",
+              "realisateurs": "Stanley Kubrick",
+              "pays": "Grande-Bretagne",
+              "annee": 1980,
+              "duree": 146,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Shining : L'Enfant lumière_ de Stephen King.",
+              "generique": [
+                "Jack Nicholson",
+                "Shelley Duvall",
+                "Danny Lloyd",
+                "Scatman Crothers"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137370,
+              "dateHeure": "2024-12-14T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 54362,
+          "content": [
+            {
+              "idFilm": 54362,
+              "ordre": 1,
+              "titre": "Sœurs de sang",
+              "titreVo": "Sisters",
+              "realisateurs": "Brian De Palma",
+              "pays": "États-Unis",
+              "annee": 1972,
+              "duree": 92,
+              "version": "VOAutres",
+              "format": "16 mm",
+              "generique": [
+                "Margot Kidder",
+                "Jennifer Salt",
+                "Charles Durning",
+                "Bill Finley"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137368,
+              "dateHeure": "2024-12-14T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 57189,
+          "content": [
+            {
+              "idFilm": 57189,
+              "ordre": 1,
+              "titre": "Suspiria",
+              "realisateurs": "Dario Argento",
+              "pays": "Italie",
+              "annee": 1976,
+              "duree": 98,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Suspiria de Profundis_ de Thomas De Quincey.",
+              "generique": [
+                "Jessica Harper",
+                "Stefania Casini",
+                "Flavio Bucci",
+                "aLida Valli",
+                "Udo Kier"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137369,
+              "dateHeure": "2024-12-14T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 48251,
+          "content": [
+            {
+              "idFilm": 48251,
+              "ordre": 1,
+              "titre": "Vampyr",
+              "titreVo": "Vampyr: Der Traum des Allan Gray",
+              "realisateurs": "Carl Theodor Dreyer",
+              "pays": "France-Allemagne",
+              "annee": 1930,
+              "duree": 77,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Carmilla_ de Sheridan Le Fanu.",
+              "generique": [
+                "Julian West",
+                "Maurice Schutz",
+                "Sybille Schmitz"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137327,
+              "dateHeure": "2024-12-13T18:15:00",
+              "idSalle": "HL"
             }
           ]
         }

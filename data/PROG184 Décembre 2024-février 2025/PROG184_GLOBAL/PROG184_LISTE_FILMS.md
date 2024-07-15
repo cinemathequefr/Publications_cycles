@@ -4,24 +4,41 @@
 
   * Pays de la violence (Le)
 
-## Karel Reisz (1)
+## Karel Reisz (4)
 
-  * Flambeur (Le)
+  * Flambeur (Le)  
+  * Maîtresse du lieutenant français (La)  
+  * Momma Don't Allow  
+  * We Are the Lambeth Boys
 
-## Le cinéma d'horreur, 25 autres indispensables (1)
+## Le cinéma d'horreur, 25 autres indispensables (6)
 
-  * Septième victime (La)
+  * Cabinet du Docteur Caligari (Le)  
+  * Septième victime (La)  
+  * Shining  
+  * Sœurs de sang  
+  * Suspiria  
+  * Vampyr
 
-## Marlon Brando (11)
+## Marlon Brando (20)
 
   * Apocalypse Now Redux  
+  * Bal des maudits (Le)  
+  * Blanches colombes et vilains messieurs  
   * C'étaient des hommes  
+  * Comtesse de Hong-Kong (La)  
+  * Corrupteur (Le)  
+  * Dernier tango à Paris (Le)  
   * Equipée sauvage (L')  
   * Formule (La)  
   * Homme à la peau de serpent (L')  
   * Jules César  
+  * Missouri Breaks  
   * Parrain (Le)  
   * Poursuite impitoyable (La)  
+  * Queimada  
+  * Reflets dans un œil d'or  
+  * Sur les quais  
   * Un tramway nommé Désir  
   * Vengeance aux deux visages (La)  
   * Viva Zapata !
