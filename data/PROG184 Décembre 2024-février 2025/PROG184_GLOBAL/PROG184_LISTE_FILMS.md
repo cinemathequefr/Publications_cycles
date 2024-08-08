@@ -1,19 +1,53 @@
 # Liste des films par cycle
 
+## David Cronenberg (1)
+
+  * Linceuls (Les)
+
+## Elio Petri (1)
+
+  * Jours comptés (Les)
+
 ## John Frankenheimer (1)
 
   * Pays de la violence (Le)
 
-## Karel Reisz (4)
+## Karel Reisz (12)
 
+  * Chacun sa chance  
   * Flambeur (Le)  
+  * Force des ténèbres (La)  
+  * Guerriers de l'enfer (Les)  
+  * Isadora  
   * Maîtresse du lieutenant français (La)  
+  * March to Aldermaston  
   * Momma Don't Allow  
+  * Morgan  
+  * Samedi soir et dimanche matin  
+  * Sweet Dreams  
   * We Are the Lambeth Boys
 
-## Le cinéma d'horreur, 25 autres indispensables (6)
+## Le cinéma d'horreur, 25 autres indispensables (24)
 
+  * Au-delà (L')  
   * Cabinet du Docteur Caligari (Le)  
+  * Chasse du comte Zaroff (La)  
+  * Corps et le fouet (Le)  
+  * Cure  
+  * Dracula  
+  * Evil dead 2  
+  * Fog  
+  * Frankenstein s'est échappé  
+  * Grand inquisiteur (Le)  
+  * Griffes de la nuit (Les)  
+  * Homicide  
+  * Loup-garou de Londres (Le)  
+  * Malédiction : L'Origine (La)  
+  * Malédiction (La)  
+  * Nuit des morts vivants (La)  
+  * Poltergeist  
+  * Rendez-vous avec la peur  
+  * Ring  
   * Septième victime (La)  
   * Shining  
   * Sœurs de sang  
@@ -42,6 +76,10 @@
   * Un tramway nommé Désir  
   * Vengeance aux deux visages (La)  
   * Viva Zapata !
+
+## Otto Preminger (1)
+
+  * Grosse Liebe (Die)
 
 ## Sergueï Paradjanov (13)
 

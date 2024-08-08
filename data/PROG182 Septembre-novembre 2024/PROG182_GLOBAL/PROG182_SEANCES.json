@@ -113,7 +113,7 @@
         "titre": "Royal Family",
         "realisateurs": "George Cukor, Cyril Gardner",
         "annee": 1930,
-        "duree": 85,
+        "duree": 82,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -926,6 +926,7 @@
         "realisateurs": "Laurent Achard",
         "annee": 2006,
         "duree": 95,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -1283,6 +1284,7 @@
         "realisateurs": "Abel Gance",
         "annee": 1932,
         "duree": 93,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -1496,7 +1498,7 @@
         "realisateurs": "Laurent Achard",
         "annee": 1997,
         "duree": 30,
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idFilm": 154838,
@@ -2678,6 +2680,7 @@
         "realisateurs": "Sophie Fillières",
         "annee": 2005,
         "duree": 102,
+        "version": "VO",
         "format": "35 mm"
       },
       {
@@ -2963,6 +2966,7 @@
         "realisateurs": "Sophie Fillières",
         "annee": 2009,
         "duree": 105,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -4854,7 +4858,7 @@
         "annee": 2001,
         "duree": 85,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f76647"
@@ -5157,8 +5161,8 @@
         "realisateurs": "Pietro Germi",
         "annee": 1947,
         "duree": 9,
-        "version": "VO",
-        "format": "DCP"
+        "version": "VOSTF",
+        "format": "35 mm"
       },
       {
         "idFilm": 41970,
@@ -5748,6 +5752,7 @@
         "realisateurs": "Pietro Germi",
         "annee": 1966,
         "duree": 90,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -6031,9 +6036,9 @@
         "titre": "Sherlock Jr.",
         "realisateurs": "Buster Keaton",
         "annee": 1924,
-        "duree": 50,
+        "duree": 45,
         "version": "INT. FR.",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f32739"
@@ -6909,9 +6914,54 @@
         "annee": 2021,
         "duree": 3,
         "format": "DCP"
+      },
+      {
+        "idFilm": 120327,
+        "titre": "Danse Macabre",
+        "realisateurs": "Dudley Murphy, Francis Bruguière",
+        "annee": 1922
+      },
+      {
+        "idFilm": 154973,
+        "titre": "Sainte Barbe",
+        "realisateurs": "Claude Barras, Cédric Louis",
+        "annee": 2007
+      },
+      {
+        "idFilm": 113046,
+        "titre": "Maison ensorcelée",
+        "art": "La",
+        "realisateurs": "Segundo de Chomón",
+        "annee": 1908,
+        "duree": 7,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 101917,
+        "titre": "Danse du feu",
+        "art": "La",
+        "realisateurs": "Georges Méliès",
+        "annee": 1899,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 113038,
+        "titre": "Ah ! La barbe",
+        "realisateurs": "Segundo de Chomón",
+        "annee": 1905
+      },
+      {
+        "idFilm": 121454,
+        "titre": "Légende du fantôme",
+        "art": "La",
+        "realisateurs": "Segundo de Chomón",
+        "annee": 1908,
+        "duree": 8,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f32706f154912f154913f154914"
+    "hashEvenement": "f32706f154912f154913f154914f120327f154973f113046f101917f113038f121454"
   },
   {
     "idSeance": 144487,
@@ -9441,6 +9491,46 @@
     "hashEvenement": "f49815"
   },
   {
+    "idSeance": 133969,
+    "idEvenement": 31092,
+    "dateHeure": "2024-11-20T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 112715,
+        "titre": "Blanche-Neige et Rose-Rouge",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1953
+      },
+      {
+        "idFilm": 112714,
+        "titre": "Belle au bois dormant",
+        "art": "La",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1954
+      },
+      {
+        "idFilm": 112716,
+        "titre": "Poucette",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1954
+      },
+      {
+        "idFilm": 42934,
+        "titre": "Hansel and Gretel",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1955
+      }
+    ],
+    "hashEvenement": "f112715f112714f112716f42934"
+  },
+  {
     "idSeance": 133205,
     "idEvenement": 30883,
     "dateHeure": "2024-11-20T17:15:00",
@@ -10062,6 +10152,46 @@
       }
     ],
     "hashEvenement": "f49820"
+  },
+  {
+    "idSeance": 133970,
+    "idEvenement": 31092,
+    "dateHeure": "2024-11-24T11:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 112715,
+        "titre": "Blanche-Neige et Rose-Rouge",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1953
+      },
+      {
+        "idFilm": 112714,
+        "titre": "Belle au bois dormant",
+        "art": "La",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1954
+      },
+      {
+        "idFilm": 112716,
+        "titre": "Poucette",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1954
+      },
+      {
+        "idFilm": 42934,
+        "titre": "Hansel and Gretel",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1955
+      }
+    ],
+    "hashEvenement": "f112715f112714f112716f42934"
   },
   {
     "idSeance": 133342,

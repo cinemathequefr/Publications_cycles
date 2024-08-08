@@ -68,6 +68,60 @@
           ]
         },
         {
+          "idEvenement": 31092,
+          "content": [
+            {
+              "idFilm": 112715,
+              "ordre": 1,
+              "titre": "Blanche-Neige et Rose-Rouge",
+              "titreVo": "Snow White and Rose Red",
+              "realisateurs": "Lotte Reiniger",
+              "pays": "Grande-Bretagne",
+              "annee": 1953
+            },
+            {
+              "idFilm": 112714,
+              "ordre": 2,
+              "titre": "Belle au bois dormant",
+              "art": "La",
+              "titreVo": "Sleeping Beauty",
+              "artVo": "The",
+              "realisateurs": "Lotte Reiniger",
+              "pays": "Grande-Bretagne",
+              "annee": 1954
+            },
+            {
+              "idFilm": 112716,
+              "ordre": 3,
+              "titre": "Poucette",
+              "titreVo": "Thumbelina",
+              "realisateurs": "Lotte Reiniger",
+              "pays": "Grande-Bretagne",
+              "annee": 1954
+            },
+            {
+              "idFilm": 42934,
+              "ordre": 4,
+              "titre": "Hansel and Gretel",
+              "realisateurs": "Lotte Reiniger",
+              "pays": "Grande-Bretagne",
+              "annee": 1955
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133969,
+              "dateHeure": "2024-11-20T15:00:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 133970,
+              "dateHeure": "2024-11-24T11:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 107041,
           "content": [
             {
@@ -317,6 +371,66 @@
               "version": "",
               "format": "DCP",
               "ageMinimal": 6
+            },
+            {
+              "idFilm": 120327,
+              "ordre": 5,
+              "titre": "Danse Macabre",
+              "realisateurs": "Dudley Murphy, Francis Bruguière",
+              "pays": "États-Unis",
+              "annee": 1922
+            },
+            {
+              "idFilm": 154973,
+              "ordre": 6,
+              "titre": "Sainte Barbe",
+              "realisateurs": "Claude Barras, Cédric Louis",
+              "pays": "Suisse",
+              "annee": 2007
+            },
+            {
+              "idFilm": 113046,
+              "ordre": 7,
+              "titre": "Maison ensorcelée",
+              "art": "La",
+              "realisateurs": "Segundo de Chomón",
+              "pays": "France",
+              "annee": 1908,
+              "duree": 7,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 101917,
+              "ordre": 8,
+              "titre": "Danse du feu",
+              "art": "La",
+              "realisateurs": "Georges Méliès",
+              "pays": "France",
+              "annee": 1899,
+              "duree": 2,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 113038,
+              "ordre": 9,
+              "titre": "Ah ! La barbe",
+              "realisateurs": "Segundo de Chomón",
+              "pays": "France",
+              "annee": 1905
+            },
+            {
+              "idFilm": 121454,
+              "ordre": 10,
+              "titre": "Légende du fantôme",
+              "art": "La",
+              "realisateurs": "Segundo de Chomón",
+              "pays": "France",
+              "annee": 1908,
+              "duree": 8,
+              "version": "",
+              "format": "35 mm"
             }
           ],
           "seances": [
@@ -431,9 +545,9 @@
               "realisateurs": "Buster Keaton",
               "pays": "États-Unis",
               "annee": 1924,
-              "duree": 50,
+              "duree": 45,
               "version": "INT. FR.",
-              "format": "35 mm",
+              "format": "DCP",
               "ageMinimal": 4,
               "generique": [
                 "Buster Keaton",
