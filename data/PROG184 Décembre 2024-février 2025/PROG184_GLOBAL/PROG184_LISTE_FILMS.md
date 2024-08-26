@@ -22,10 +22,6 @@
   * Todo modo  
   * Un coin tranquille à la campagne
 
-## John Frankenheimer (1)
-
-  * Pays de la violence (Le)
-
 ## Karel Reisz (12)
 
   * Chacun sa chance  
