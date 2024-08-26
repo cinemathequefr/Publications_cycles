@@ -4,9 +4,23 @@
 
   * Linceuls (Les)
 
-## Elio Petri (1)
+## Elio Petri (15)
 
-  * Jours comptés (Les)
+  * À chacun son dû  
+  * Assassin (L')  
+  * Buone notizie  
+  * Classe ouvrière va au paradis (La)  
+  * Dixième victime (La)  
+  * Documenti su Giuseppe Pinelli : Tre ipotesi sulla morte di Giuseppe Pinelli  
+  * Enquête sur un citoyen au-dessus de tout soupçon  
+  * Italia con Togliatti (L')  
+  * Jours comptés (Les)  
+  * Maestro di Vigevano (Il)  
+  * Nasce un campione  
+  * Propriété, c'est plus le vol (La)  
+  * Sette contadini (I)  
+  * Todo modo  
+  * Un coin tranquille à la campagne
 
 ## John Frankenheimer (1)
 
@@ -77,22 +91,46 @@
   * Vengeance aux deux visages (La)  
   * Viva Zapata !
 
-## Otto Preminger (1)
+## Otto Preminger (19)
 
-  * Grosse Liebe (Die)
+  * Ambre  
+  * Autopsie d'un meurtre  
+  * Bonjour Tristesse  
+  * Carmen Jones  
+  * Condamné au silence  
+  * Crime passionnel  
+  * Dame au manteau d'hermine (La)  
+  * Femme ou maîtresse  
+  * Grosse Liebe (Die)  
+  * Homme au bras d'or (L')  
+  * Laura  
+  * Lune était bleue (La)  
+  * Mark Dixon détective  
+  * Mystérieux docteur Korvo (Le)  
+  * Porgy and Bess  
+  * Rivière sans retour  
+  * Sainte Jeanne  
+  * Un si doux visage  
+  * Under Your Spell
 
-## Sergueï Paradjanov (13)
+## Sergueï Paradjanov (15)
 
   * Achik Kerib, conte d'un poète amoureux  
   * Andriech  
-  * Arabesque sue le thème de Pirosmani  
+  * Arabesque sur le thème de Pirosmani  
   * Chevaux de feu (Les)  
   * Dumka  
   * Fresques de Kiev (Les)  
   * Hagop hovnatanian  
   * Légende de la forteresse de Souram (La)  
   * Mains d'or (Les)  
-  * Premier gars (Le)  
+  * Paradjanov, le dernier collage  
+  * Premier Gars (Le)  
   * Rhapsodie ukrainienne  
   * Sayat Nova : La Couleur de la grenade  
-  * Une petite fleur sur la pierre  
+  * Sergueï Paradjanov, le rebelle  
+  * Une petite fleur sur la pierre
+
+## Séances spéciales (1)
+
+  * Porte du paradis (La)  

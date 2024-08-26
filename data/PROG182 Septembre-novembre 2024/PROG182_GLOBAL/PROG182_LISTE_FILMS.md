@@ -198,7 +198,7 @@
   * Portrait de Chantal Akerman  
   * S'il vous plaît... la mer ?
 
-## George Cukor (46)
+## George Cukor (44)
 
   * Actress (The)  
   * Agence Cupidon  
@@ -213,7 +213,6 @@
   * Flamme sacrée (La)  
   * Girls About Town  
   * Girls (Les)  
-  * Grumpy  
   * Hantise  
   * Haute société  
   * Her Cardboard Lover  
@@ -239,7 +238,6 @@
   * Royal Family  
   * Suzanne et ses idées  
   * Sylvia Scarlett  
-  * Tarnished Lady  
   * Une étoile est née  
   * Une femme qui s'affiche  
   * Vacances  

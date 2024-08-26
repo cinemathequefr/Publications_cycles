@@ -3,6 +3,12 @@
   "titre": "Décembre 2024-février 2025",
   "cycles": [
     {
+      "idCycleProg": 11,
+      "titreCycle": "Séances spéciales",
+      "isReg": true,
+      "sousCycles": [{ "titre": "Les films", "cats": [3040], "tri": 1 }]
+    },
+    {
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
       "isReg": true,
@@ -34,7 +40,8 @@
       "titreCycle": "Sergueï Paradjanov",
       "sousCycles": [
         { "titre": "Les films", "cats": [3394], "tri": 1 },
-        { "titre": "Courts métrages", "cats": [3467], "tri": 1 }
+        { "titre": "Courts métrages", "cats": [3467], "tri": 1 },
+        { "titre": "Autour de Sergueï Paradjanov", "cats": [3469], "tri": 1 }
       ]
     },
     {
@@ -51,6 +58,7 @@
       "titreCycle": "Elio Petri",
       "sousCycles": [
         { "titre": "Les films", "cats": [3448], "tri": 1 },
+        { "titre": "Courts métrages", "cats": [3480], "tri": 4 },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
       "excludeSeances": []
