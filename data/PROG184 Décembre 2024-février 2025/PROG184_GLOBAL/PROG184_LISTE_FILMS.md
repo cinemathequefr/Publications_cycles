@@ -37,7 +37,7 @@
   * March to Aldermaston  
   * Momma Don't Allow  
   * Morgan  
-  * Samedi soir et dimanche matin  
+  * Samedi soir, dimanche matin  
   * Sweet Dreams  
   * We Are the Lambeth Boys
 
@@ -91,25 +91,43 @@
   * Vengeance aux deux visages (La)  
   * Viva Zapata !
 
-## Otto Preminger (19)
+## Otto Preminger (37)
 
   * Ambre  
   * Autopsie d'un meurtre  
   * Bonjour Tristesse  
+  * Bunny Lake a disparu  
+  * Cardinal (Le)  
   * Carmen Jones  
+  * Charmante famille  
   * Condamné au silence  
   * Crime passionnel  
   * Dame au manteau d'hermine (La)  
+  * Des amis comme les miens  
+  * Dis-moi que tu m'aimes, Junie Moon  
+  * Eventail de Lady Windermere (L')  
+  * Exodus  
   * Femme ou maîtresse  
   * Grosse Liebe (Die)  
   * Homme au bras d'or (L')  
+  * Human Factor (The)  
+  * In the Meantime, Darling  
   * Laura  
   * Lune était bleue (La)  
+  * Margin for Error  
   * Mark Dixon détective  
   * Mystérieux docteur Korvo (Le)  
   * Porgy and Bess  
+  * Première victoire  
+  * Quadrille d'amour  
+  * Que vienne la nuit  
   * Rivière sans retour  
+  * Rosebud  
   * Sainte Jeanne  
+  * Scandale à la cour  
+  * Skidoo  
+  * Tempête à Washington  
+  * Treizième lettre (La)  
   * Un si doux visage  
   * Under Your Spell
 
