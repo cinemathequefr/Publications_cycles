@@ -1,8 +1,25 @@
 # Liste des films par cycle
 
-## David Cronenberg (1)
+## David Cronenberg (18)
 
-  * Linceuls (Les)
+  * A History of Violence  
+  * Chromosome 3  
+  * Crash  
+  * Crimes of the Future  
+  * Dead Zone  
+  * eXistenZ  
+  * Fast Company  
+  * Faux-semblants  
+  * Festin nu (Le)  
+  * Frissons  
+  * Linceuls (Les)  
+  * M. Butterfly  
+  * Mouche (La)  
+  * Rage  
+  * Scanners  
+  * Spider  
+  * Stereo  
+  * Videodrome
 
 ## Elio Petri (15)
 
@@ -37,11 +54,12 @@
   * Sweet Dreams  
   * We Are the Lambeth Boys
 
-## Le cinéma d'horreur, 25 autres indispensables (24)
+## Le cinéma d'horreur, 25 autres indispensables (25)
 
   * Au-delà (L')  
   * Cabinet du Docteur Caligari (Le)  
   * Chasse du comte Zaroff (La)  
+  * Chute de la maison Usher (La)  
   * Corps et le fouet (Le)  
   * Cure  
   * Dracula  
@@ -147,4 +165,8 @@
 
 ## Séances spéciales (1)
 
-  * Porte du paradis (La)  
+  * Porte du paradis (La)
+
+## Yves Mirande (1)
+
+  * Baccara  
