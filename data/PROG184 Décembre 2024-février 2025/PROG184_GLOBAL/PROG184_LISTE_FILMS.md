@@ -75,13 +75,13 @@
   * Cabinet du Docteur Caligari (Le)  
   * Chasse du comte Zaroff (La)  
   * Chute de la maison Usher (La)  
-  * Corps et le fouet (Le)  
+  * Corps et le Fouet (Le)  
   * Cure  
   * Dracula  
-  * Evil dead 2  
+  * Evil Dead 2  
   * Fog  
   * Frankenstein s'est échappé  
-  * Grand inquisiteur (Le)  
+  * Grand Inquisiteur (Le)  
   * Griffes de la nuit (Les)  
   * Homicide  
   * Loup-garou de Londres (Le)  
@@ -91,7 +91,7 @@
   * Poltergeist  
   * Rendez-vous avec la peur  
   * Ring  
-  * Septième victime (La)  
+  * Septième Victime (La)  
   * Shining  
   * Sœurs de sang  
   * Suspiria  
