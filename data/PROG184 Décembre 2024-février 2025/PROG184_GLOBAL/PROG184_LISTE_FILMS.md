@@ -32,7 +32,7 @@
   * Assassin (L')  
   * Buone notizie  
   * Classe ouvrière va au paradis (La)  
-  * Dixième victime (La)  
+  * Dixième Victime (La)  
   * Documenti su Giuseppe Pinelli : Tre ipotesi sulla morte di Giuseppe Pinelli  
   * Enquête sur un citoyen au-dessus de tout soupçon  
   * Italia con Togliatti (L')  
@@ -101,11 +101,11 @@
 
   * Apocalypse Now Redux  
   * Bal des maudits (Le)  
-  * Blanches colombes et vilains messieurs  
+  * Blanches Colombes et Vilains Messieurs  
   * C'étaient des hommes  
   * Comtesse de Hong-Kong (La)  
   * Corrupteur (Le)  
-  * Dernier tango à Paris (Le)  
+  * Dernier Tango à Paris (Le)  
   * Equipée sauvage (L')  
   * Formule (La)  
   * Homme à la peau de serpent (L')  
@@ -184,4 +184,14 @@
 
 ## Yves Mirande (1)
 
-  * Baccara  
+  * Baccara
+
+## Éric Demarsan (7)
+
+  * Armée des ombres (L')  
+  * Attention, les enfants regardent  
+  * Cercle rouge (Le)  
+  * Humeur vagabonde (L')  
+  * Ibis rouge (L')  
+  * Section spéciale  
+  * Une affaire privée  

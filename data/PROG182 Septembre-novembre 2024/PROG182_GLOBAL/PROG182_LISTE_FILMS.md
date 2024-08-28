@@ -459,9 +459,10 @@
   * Un chat, un chat  
   * Vérité zébrée (La)
 
-## Séances spéciales (16)
+## Séances spéciales (18)
 
   * All We Imagine As Light  
+  * Aloïse  
   * Ceux de chez nous  
   * Family Portraits, une trilogie américaine  
   * Félicie Nanteuil  
@@ -473,6 +474,7 @@
   * King Kong contre Godzilla  
   * Miséricorde  
   * Planète des monstres (La)  
+  * Qui donc a rêvé ?  
   * Sisters  
   * Theatre bizarre: The Accident (The)  
   * Trois kilomètres jusqu'à la fin du monde  

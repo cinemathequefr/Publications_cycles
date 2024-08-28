@@ -10,55 +10,27 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "groupe": [
-            {
-              "idEvenement": 31027,
-              "content": [
-                {
-                  "idConf": 31027,
-                  "titre": "Le « Napoléon » d'Abel Gance après la restauration : nouveaux regards",
-                  "sousTitre": "Conférence de Georges Mourier",
-                  "typeConference": "Conférence",
-                  "miniTexte": "La restauration du _Napoléon_ a permis de retrouver « la musique de la lumière » si chère à Gance, telle qu'elle n'avait plus été vue depuis presque un siècle. Sont alors réapparues des qualités insoupçonnées : fluidité ou violence du montage, subtile composition des cadrages, articulation du récit, etc. De la technique à l'émotion, ou comment un travail scientifique a pu faire revivre, au-delà des folles ambitions esthétiques et narratives d'un film fascinant, son impalpable énigme. Cette conférence illustrera par de nombreux exemples des aspects enfin retrouvés, offerts à notre regard d'aujourd'hui. — Georges Mourier"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 134051,
-                  "idSeanceAssoc": 131429,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-09-12T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
-            },
+          "idFilm": 106408,
+          "content": [
             {
               "idFilm": 106408,
-              "content": [
-                {
-                  "idFilm": 106408,
-                  "ordre": 1,
-                  "titre": "À l'ombre des grands chênes (Abel Gance)",
-                  "realisateurs": "Georges Mourier",
-                  "pays": "France",
-                  "annee": 2005,
-                  "duree": 52,
-                  "version": "",
-                  "format": "Numérique",
-                  "miniTexte": "Acteurs, cinéastes et proches évoquent leur relation avec Abel Gance."
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 131429,
-                  "idSeanceAssoc": 131429,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-09-12T21:15:00",
-                  "idSalle": "JE",
-                  "mention": "Séance présentée par Georges Mourier",
-                  "mentionAssoc": "Film choisi par le conférencier"
-                }
-              ]
+              "ordre": 1,
+              "titre": "À l'ombre des grands chênes (Abel Gance)",
+              "realisateurs": "Georges Mourier",
+              "pays": "France",
+              "annee": 2005,
+              "duree": 52,
+              "version": "",
+              "format": "Numérique",
+              "miniTexte": "Acteurs, cinéastes et proches évoquent leur relation avec Abel Gance."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 131429,
+              "dateHeure": "2024-09-12T21:15:00",
+              "idSalle": "LE",
+              "mention": "Séance présentée par Georges Mourier"
             }
           ]
         },
@@ -116,7 +88,7 @@
             {
               "idSeance": 133828,
               "dateHeure": "2024-09-15T20:30:00",
-              "idSalle": "JE",
+              "idSalle": "LE",
               "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
             }
           ]
@@ -924,7 +896,7 @@
             {
               "idSeance": 133886,
               "dateHeure": "2024-09-15T19:00:00",
-              "idSalle": "JE",
+              "idSalle": "LE",
               "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel. Séance présentée par Élodie Tamayo"
             }
           ]
@@ -1119,6 +1091,25 @@
       "tri": 4,
       "titreSousCycle": "Rencontres et conférences",
       "items": [
+        {
+          "idConf": 31027,
+          "content": [
+            {
+              "idConf": 31027,
+              "titre": "Le « Napoléon » d'Abel Gance après la restauration : nouveaux regards",
+              "sousTitre": "Conférence de Georges Mourier",
+              "typeConference": "Conférence",
+              "miniTexte": "La restauration du _Napoléon_ a permis de retrouver « la musique de la lumière » si chère à Gance, telle qu'elle n'avait plus été vue depuis presque un siècle. Sont alors réapparues des qualités insoupçonnées : fluidité ou violence du montage, subtile composition des cadrages, articulation du récit, etc. De la technique à l'émotion, ou comment un travail scientifique a pu faire revivre, au-delà des folles ambitions esthétiques et narratives d'un film fascinant, son impalpable énigme. Cette conférence illustrera par de nombreux exemples des aspects enfin retrouvés, offerts à notre regard d'aujourd'hui. — Georges Mourier"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134051,
+              "dateHeure": "2024-09-12T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idConf": 31059,
           "content": [
