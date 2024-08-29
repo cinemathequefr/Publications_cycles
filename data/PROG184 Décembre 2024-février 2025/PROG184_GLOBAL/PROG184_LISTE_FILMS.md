@@ -57,17 +57,47 @@
   * Todo modo  
   * Un coin tranquille à la campagne
 
-## John Frankenheimer (14)
+## Jacques Prévert (15)
 
+  * Affaire est dans le sac (L')  
+  * Crime de monsieur Lange (Le)  
+  * Drôle de drame  
+  * Enfants du paradis (Les)  
+  * Ernest le rebelle  
+  * Jenny  
+  * Jour se lève (Le)  
+  * Lumière d'été  
+  * Portes de la nuit (Les)  
+  * Quai des brumes (Le)  
+  * Remorques  
+  * Si j'étais le patron  
+  * Un oiseau rare  
+  * Visiteurs du soir (Les)  
+  * Voyage surprise
+
+## John Frankenheimer (26)
+
+  * À armes égales  
   * Ange de la violence (L')  
   * Black Sunday  
+  * Cavaliers (Les)  
+  * Dead Bang  
+  * Extravagant homme de mer (L')  
   * For Whom the Bell Tolls  
+  * French connection 2  
   * Grand Prix  
+  * Homme de Kiev (L')  
+  * Iceman Cometh (The)  
+  * Impossible objet (L')  
   * Mon père, cet étranger  
   * Opération diabolique (L')  
+  * Pacte Holcroft (Le)  
+  * Paiement cash  
   * Parachutistes arrivent (Les)  
   * Pays de la violence (Le)  
   * Prisonnier d'Alcatraz (Le)  
+  * Prophecy – Le monstre  
+  * Refroidi à 99 %  
   * Ronin  
   * Sept jours en mai  
   * Temps du châtiment (Le)  
@@ -202,9 +232,18 @@
 
   * Porte du paradis (La)
 
-## Yves Mirande (1)
+## Yves Mirande (10)
 
-  * Baccara
+  * À nous deux, madame la vie  
+  * Baccara  
+  * Café de Paris  
+  * Derrière la façade  
+  * Grand Refrain (Le)  
+  * Merveilleuse Journée (La)  
+  * Messieurs les ronds-de-cuir  
+  * Moulin Rouge  
+  * Paris-New York  
+  * Sept hommes... une femme
 
 ## Éric Demarsan (7)
 
