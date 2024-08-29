@@ -1,29 +1,42 @@
 # Liste des films par cycle
 
-## David Cronenberg (23)
+## David Cronenberg (36)
 
   * A Dangerous Method  
   * A History of Violence  
+  * Camera  
   * Chromosome 3  
   * Cosmopolis  
   * Crash  
   * Crimes du futur (Les)  
   * Crimes of the Future  
   * Dead Zone  
+  * Death of David Cronenberg (The)  
   * eXistenZ  
+  * Faith Healer (The)  
   * Fast Company  
   * Faux-semblants  
   * Festin nu (Le)  
   * Frissons  
+  * From the Drain  
+  * Italian Machine (The)  
+  * Jim Ritchie Sculptor  
+  * Letter from Michelangelo  
+  * Lie Chair (The)  
   * Linceuls (Les)  
   * M. Butterfly  
   * Maps to the Stars  
   * Mouche (La)  
+  * Nid (Le)  
   * Promesses de l'ombre (Les)  
   * Rage  
   * Scanners  
+  * Secret Weapons  
   * Spider  
   * Stereo  
+  * Tourettes  
+  * Transfer  
+  * Victim (The)  
   * Videodrome
 
 ## Elio Petri (15)
@@ -44,14 +57,21 @@
   * Todo modo  
   * Un coin tranquille à la campagne
 
-## John Frankenheimer (7)
+## John Frankenheimer (14)
 
   * Ange de la violence (L')  
+  * Black Sunday  
+  * For Whom the Bell Tolls  
+  * Grand Prix  
+  * Mon père, cet étranger  
   * Opération diabolique (L')  
   * Parachutistes arrivent (Les)  
+  * Pays de la violence (Le)  
   * Prisonnier d'Alcatraz (Le)  
+  * Ronin  
   * Sept jours en mai  
   * Temps du châtiment (Le)  
+  * Train (Le)  
   * Un crime dans la tête
 
 ## Karel Reisz (12)
