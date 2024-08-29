@@ -168,7 +168,7 @@
   * Sur les quais  
   * Un tramway nommé Désir  
   * Vengeance aux deux visages (La)  
-  * Viva Zapata !
+  * Viva Zapata!
 
 ## Otto Preminger (37)
 
