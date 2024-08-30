@@ -6,57 +6,54 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "groupe": [
-            {
-              "idEvenement": 31190,
-              "content": [
-                {
-                  "idConf": 31190,
-                  "titre": "Cinéma imaginaire",
-                  "sousTitre": "Conférence d'Érik Bullot",
-                  "typeConference": "Conférence",
-                  "miniTexte": "Cinéma imaginaire : d'un côté, le rêve, la danse des phosphènes sous les paupières, les expériences extra-sensorielles comme la clairvoyance, la vision à distance, la télépathie, qui activent un cinéma intérieur ; de l'autre, les différents modes d'existence du film (scénario, versions multiples, projet inachevé ou rêvé) qui rencontrent aujourd'hui les ressorts de l'imagination artificielle. Peut-on faire un film par la seule pensée ? En 1919, l'écrivain Jules Romains imagine une théorie de la vision paroptique selon laquelle le tégument renferme des cellules optiques qui permettent de voir avec la peau. On peut lire le récit de ses expériences comme un traité de cinéma mental ou psychique. En 1920, l'ingénieur russe Léon Thérémine invente l'instrument du même nom qui produit des sons électroniques par le jeu des mains de l'interprète sans contact direct avec l'appareil. Soit, à titre d'allégorie, deux modalités distinctes d'un cinéma imaginaire extra-rétinien et dématérialisé. La conférence se propose d'évoquer ces différentes hypothèses spéculatives qui présidèrent à l'exposition « Cinéma papier » présentée à la Filmoteca de Catalunya à Barcelone à l'automne 2023."
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 134192,
-                  "idSeanceAssoc": 133935,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-10-03T17:30:00",
-                  "idSalle": "JE"
-                }
-              ]
-            },
+          "idFilm": 42412,
+          "content": [
             {
               "idFilm": 42412,
-              "content": [
-                {
-                  "idFilm": 42412,
-                  "ordre": 1,
-                  "titre": "Carnet de notes pour une Orestie africaine",
-                  "titreVo": "Appunti per un'Orestiade africana",
-                  "realisateurs": "Pier Paolo Pasolini",
-                  "pays": "Italie",
-                  "annee": 1969,
-                  "duree": 71,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "Pier Paolo Pasolini"
-                  ]
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 133935,
-                  "idSeanceAssoc": 133935,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-10-03T19:30:00",
-                  "idSalle": "JE",
-                  "mentionAssoc": "Film choisi par le conférencier"
-                }
+              "ordre": 1,
+              "titre": "Carnet de notes pour une Orestie africaine",
+              "titreVo": "Appunti per un'Orestiade africana",
+              "realisateurs": "Pier Paolo Pasolini",
+              "pays": "Italie",
+              "annee": 1969,
+              "duree": 71,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Pier Paolo Pasolini"
               ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133935,
+              "dateHeure": "2024-10-03T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31190,
+          "content": [
+            {
+              "idConf": 31190,
+              "titre": "Cinéma imaginaire",
+              "sousTitre": "Conférence d'Érik Bullot",
+              "typeConference": "Conférence",
+              "miniTexte": "Cinéma imaginaire : d'un côté, le rêve, la danse des phosphènes sous les paupières, les expériences extra-sensorielles comme la clairvoyance, la vision à distance, la télépathie, qui activent un cinéma intérieur ; de l'autre, les différents modes d'existence du film (scénario, versions multiples, projet inachevé ou rêvé) qui rencontrent aujourd'hui les ressorts de l'imagination artificielle. Peut-on faire un film par la seule pensée ? En 1919, l'écrivain Jules Romains imagine une théorie de la vision paroptique selon laquelle le tégument renferme des cellules optiques qui permettent de voir avec la peau. On peut lire le récit de ses expériences comme un traité de cinéma mental ou psychique. En 1920, l'ingénieur russe Léon Thérémine invente l'instrument du même nom qui produit des sons électroniques par le jeu des mains de l'interprète sans contact direct avec l'appareil. Soit, à titre d'allégorie, deux modalités distinctes d'un cinéma imaginaire extra-rétinien et dématérialisé. La conférence se propose d'évoquer ces différentes hypothèses spéculatives qui présidèrent à l'exposition « Cinéma papier » présentée à la Filmoteca de Catalunya à Barcelone à l'automne 2023."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134192,
+              "dateHeure": "2024-10-03T17:30:00",
+              "idSalle": "JE"
             }
           ]
         }

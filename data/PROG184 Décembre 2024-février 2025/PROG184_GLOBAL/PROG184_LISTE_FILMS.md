@@ -86,13 +86,13 @@
   * Black Sunday  
   * Cavaliers (Les)  
   * Dead Bang  
-  * Extravagant homme de mer (L')  
+  * Extravagant Homme de mer (L')  
   * For Whom the Bell Tolls  
   * French connection 2  
   * Grand Prix  
   * Homme de Kiev (L')  
   * Iceman Cometh (The)  
-  * Impossible objet (L')  
+  * Impossible Objet (L')  
   * Mon père, cet étranger  
   * Opération diabolique (L')  
   * Pacte Holcroft (Le)  
@@ -100,7 +100,7 @@
   * Parachutistes arrivent (Les)  
   * Pays de la violence (Le)  
   * Prisonnier d'Alcatraz (Le)  
-  * Prophecy – Le monstre  
+  * Prophecy – Le Monstre  
   * Refroidi à 99 %  
   * Ronin  
   * Sept jours en mai  
