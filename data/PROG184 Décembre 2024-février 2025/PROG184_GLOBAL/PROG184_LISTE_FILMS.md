@@ -1,5 +1,9 @@
 # Liste des films par cycle
 
+## Annette Wademant (1)
+
+  * Lola Montès
+
 ## David Cronenberg (36)
 
   * A Dangerous Method  
@@ -170,7 +174,7 @@
   * Vengeance aux deux visages (La)  
   * Viva Zapata!
 
-## Otto Preminger (37)
+## Otto Preminger (36)
 
   * Ambre  
   * Autopsie d'un meurtre  
@@ -196,7 +200,6 @@
   * Margin for Error  
   * Mark Dixon détective  
   * Mystérieux docteur Korvo (Le)  
-  * Porgy and Bess  
   * Première Victoire  
   * Quadrille d'amour  
   * Que vienne la nuit  
