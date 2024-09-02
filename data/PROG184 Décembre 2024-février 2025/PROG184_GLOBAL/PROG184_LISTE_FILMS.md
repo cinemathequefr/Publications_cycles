@@ -171,7 +171,7 @@
   * Comtesse de Hong-Kong (La)  
   * Corrupteur (Le)  
   * Dernier Tango à Paris (Le)  
-  * Equipée sauvage (L')  
+  * Équipée sauvage (L')  
   * Formule (La)  
   * Homme à la peau de serpent (L')  
   * Jules César  
