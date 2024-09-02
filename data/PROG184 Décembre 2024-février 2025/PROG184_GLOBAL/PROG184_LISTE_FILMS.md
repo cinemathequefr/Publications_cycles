@@ -61,6 +61,17 @@
   * Todo modo  
   * Un coin tranquille à la campagne
 
+## Fenêtre sur les collections (8)
+
+  * Animoses  
+  * Arthur à la campagne  
+  * Chicken Western  
+  * Escargots (Les)  
+  * Montagne qui accouche (La)  
+  * Petit soldat (Le)  
+  * Sa dernière culotte  
+  * Sky Scraping
+
 ## Jacques Prévert (15)
 
   * Affaire est dans le sac (L')  
