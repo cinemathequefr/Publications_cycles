@@ -1,7 +1,8 @@
 # Liste des films par cycle
 
-## Annette Wademant (1)
+## Annette Wademant (2)
 
+  * Édouard et Caroline  
   * Lola Montès
 
 ## David Cronenberg (36)
@@ -90,12 +91,11 @@
   * Visiteurs du soir (Les)  
   * Voyage surprise
 
-## John Frankenheimer (26)
+## John Frankenheimer (24)
 
   * À armes égales  
   * Ange de la violence (L')  
   * Black Sunday  
-  * Cavaliers (Les)  
   * Dead Bang  
   * Extravagant Homme de mer (L')  
   * For Whom the Bell Tolls  
@@ -103,7 +103,6 @@
   * Grand Prix  
   * Homme de Kiev (L')  
   * Iceman Cometh (The)  
-  * Impossible Objet (L')  
   * Mon père, cet étranger  
   * Opération diabolique (L')  
   * Pacte Holcroft (Le)  
@@ -199,7 +198,6 @@
   * Dame au manteau d'hermine (La)  
   * Des amis comme les miens  
   * Dis-moi que tu m'aimes, Junie Moon  
-  * Eventail de Lady Windermere (L')  
   * Exodus  
   * Femme ou maîtresse  
   * Grosse Liebe (Die)  
@@ -211,6 +209,7 @@
   * Margin for Error  
   * Mark Dixon détective  
   * Mystérieux docteur Korvo (Le)  
+  * Porgy and Bess  
   * Première Victoire  
   * Quadrille d'amour  
   * Que vienne la nuit  
@@ -259,12 +258,13 @@
   * Paris-New York  
   * Sept hommes... une femme
 
-## Éric Demarsan (7)
+## Éric Demarsan (8)
 
   * Armée des ombres (L')  
   * Attention, les enfants regardent  
   * Cercle rouge (Le)  
   * Humeur vagabonde (L')  
   * Ibis rouge (L')  
+  * Plein sud  
   * Section spéciale  
   * Une affaire privée  

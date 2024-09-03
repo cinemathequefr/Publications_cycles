@@ -274,7 +274,7 @@
   {
     "idSeance": 145254,
     "idEvenement": 31402,
-    "dateHeure": "2024-12-07T17:30:00",
+    "dateHeure": "2024-12-07T17:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -298,7 +298,7 @@
   {
     "idSeance": 145255,
     "idEvenement": 30988,
-    "dateHeure": "2024-12-07T18:00:00",
+    "dateHeure": "2024-12-07T18:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -322,7 +322,7 @@
   {
     "idSeance": 145251,
     "idEvenement": 31401,
-    "dateHeure": "2024-12-07T20:00:00",
+    "dateHeure": "2024-12-07T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -346,7 +346,7 @@
   {
     "idSeance": 145256,
     "idEvenement": 30991,
-    "dateHeure": "2024-12-07T20:30:00",
+    "dateHeure": "2024-12-07T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -621,7 +621,7 @@
     "hashEvenement": "f29046"
   },
   {
-    "idSeance": 145295,
+    "idSeance": 184828,
     "idEvenement": 31296,
     "dateHeure": "2024-12-11T20:00:00",
     "salle": "HL",
@@ -631,7 +631,6 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 54028,
@@ -693,9 +692,9 @@
     "hashEvenement": "f106415"
   },
   {
-    "idSeance": 145289,
+    "idSeance": 184829,
     "idEvenement": 31305,
-    "dateHeure": "2024-12-12T17:30:00",
+    "dateHeure": "2024-12-12T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -715,30 +714,6 @@
       }
     ],
     "hashEvenement": "f94700"
-  },
-  {
-    "idSeance": 184803,
-    "idEvenement": 31399,
-    "dateHeure": "2024-12-12T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Marlon Brando",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 33586,
-        "titre": "Sur les quais",
-        "realisateurs": "Elia Kazan",
-        "annee": 1953,
-        "duree": 108,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f33586"
   },
   {
     "idSeance": 137290,
@@ -765,7 +740,31 @@
     "hashEvenement": "f39828"
   },
   {
-    "idSeance": 145290,
+    "idSeance": 184803,
+    "idEvenement": 31399,
+    "dateHeure": "2024-12-12T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Marlon Brando",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33586,
+        "titre": "Sur les quais",
+        "realisateurs": "Elia Kazan",
+        "annee": 1953,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f33586"
+  },
+  {
+    "idSeance": 184830,
     "idEvenement": 31301,
     "dateHeure": "2024-12-12T20:00:00",
     "salle": "GF",
@@ -813,7 +812,7 @@
     "hashEvenement": "f54854"
   },
   {
-    "idSeance": 145291,
+    "idSeance": 184831,
     "idEvenement": 31304,
     "dateHeure": "2024-12-13T18:30:00",
     "salle": "GF",
@@ -831,7 +830,7 @@
         "annee": 1960,
         "duree": 90,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f54601"
@@ -862,9 +861,9 @@
     "hashEvenement": "f55489"
   },
   {
-    "idSeance": 145292,
+    "idSeance": 184832,
     "idEvenement": 31297,
-    "dateHeure": "2024-12-13T20:45:00",
+    "dateHeure": "2024-12-13T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -911,7 +910,7 @@
     "hashEvenement": "f39866"
   },
   {
-    "idSeance": 184789,
+    "idSeance": 184838,
     "idEvenement": 31300,
     "dateHeure": "2024-12-14T14:30:00",
     "salle": "HL",
@@ -919,6 +918,10 @@
       [
         "Karel Reisz",
         "Les films"
+      ],
+      [
+        "Karel Reisz",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -931,9 +934,15 @@
         "duree": 124,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 31574,
+        "titre": "Dialogue avec Axelle Ropert",
+        "typeConference": "Dialogue",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f42938"
+    "hashEvenement": "f42938c31574"
   },
   {
     "idSeance": 145309,
@@ -961,7 +970,7 @@
     "hashEvenement": "f30806"
   },
   {
-    "idSeance": 145293,
+    "idSeance": 184833,
     "idEvenement": 31303,
     "dateHeure": "2024-12-14T18:00:00",
     "salle": "GF",
@@ -1010,7 +1019,7 @@
     "hashEvenement": "f32001"
   },
   {
-    "idSeance": 145294,
+    "idSeance": 184834,
     "idEvenement": 31299,
     "dateHeure": "2024-12-14T20:00:00",
     "salle": "GF",
@@ -1034,7 +1043,7 @@
     "hashEvenement": "f36198"
   },
   {
-    "idSeance": 184790,
+    "idSeance": 184837,
     "idEvenement": 31298,
     "dateHeure": "2024-12-15T14:30:00",
     "salle": "HL",
@@ -1051,9 +1060,7 @@
         "art": "Les",
         "realisateurs": "Karel Reisz",
         "annee": 1977,
-        "duree": 127,
-        "version": "VF",
-        "format": "35 mm"
+        "duree": 127
       }
     ],
     "hashEvenement": "f45716"
@@ -1061,7 +1068,7 @@
   {
     "idSeance": 145304,
     "idEvenement": 31433,
-    "dateHeure": "2024-12-15T17:00:00",
+    "dateHeure": "2024-12-15T17:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1083,9 +1090,9 @@
     "hashEvenement": "f45914"
   },
   {
-    "idSeance": 145296,
+    "idSeance": 184835,
     "idEvenement": 31302,
-    "dateHeure": "2024-12-15T17:30:00",
+    "dateHeure": "2024-12-15T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1109,7 +1116,7 @@
   {
     "idSeance": 184816,
     "idEvenement": 31398,
-    "dateHeure": "2024-12-15T19:45:00",
+    "dateHeure": "2024-12-15T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1132,9 +1139,9 @@
     "hashEvenement": "f46031"
   },
   {
-    "idSeance": 145297,
+    "idSeance": 184836,
     "idEvenement": 31295,
-    "dateHeure": "2024-12-15T20:45:00",
+    "dateHeure": "2024-12-15T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1205,7 +1212,7 @@
     "hashEvenement": "f45766"
   },
   {
-    "idSeance": 145312,
+    "idSeance": 184839,
     "idEvenement": 31306,
     "dateHeure": "2024-12-18T18:00:00",
     "salle": "GF",
@@ -1227,6 +1234,31 @@
       }
     ],
     "hashEvenement": "f94921"
+  },
+  {
+    "idSeance": 184840,
+    "idEvenement": 31296,
+    "dateHeure": "2024-12-18T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Karel Reisz",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 54028,
+        "titre": "Flambeur",
+        "art": "Le",
+        "realisateurs": "Karel Reisz",
+        "annee": 1973,
+        "duree": 111,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f54028"
   },
   {
     "idSeance": 137436,
@@ -1252,31 +1284,6 @@
       }
     ],
     "hashEvenement": "f47284"
-  },
-  {
-    "idSeance": 145313,
-    "idEvenement": 31296,
-    "dateHeure": "2024-12-18T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Karel Reisz",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 54028,
-        "titre": "Flambeur",
-        "art": "Le",
-        "realisateurs": "Karel Reisz",
-        "annee": 1973,
-        "duree": 111,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f54028"
   },
   {
     "idSeance": 174920,
@@ -1780,7 +1787,7 @@
         "annee": 1975,
         "duree": 111,
         "version": "VO",
-        "format": "16 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31188"
@@ -2330,30 +2337,6 @@
     "hashEvenement": "f45366"
   },
   {
-    "idSeance": 137926,
-    "idEvenement": 31361,
-    "dateHeure": "2025-01-04T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Otto Preminger",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35816,
-        "titre": "Crime passionnel",
-        "realisateurs": "Otto Preminger",
-        "annee": 1945,
-        "duree": 101,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f35816"
-  },
-  {
     "idSeance": 137931,
     "idEvenement": 31250,
     "dateHeure": "2025-01-04T17:30:00",
@@ -2379,9 +2362,9 @@
     "hashEvenement": "f43162"
   },
   {
-    "idSeance": 137927,
-    "idEvenement": 31363,
-    "dateHeure": "2025-01-04T19:30:00",
+    "idSeance": 137926,
+    "idEvenement": 31361,
+    "dateHeure": "2025-01-04T18:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2391,16 +2374,16 @@
     ],
     "items": [
       {
-        "idFilm": 35815,
-        "titre": "Femme ou maîtresse",
+        "idFilm": 35816,
+        "titre": "Crime passionnel",
         "realisateurs": "Otto Preminger",
-        "annee": 1947,
-        "duree": 99,
+        "annee": 1945,
+        "duree": 101,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35815"
+    "hashEvenement": "f35816"
   },
   {
     "idSeance": 137932,
@@ -2424,6 +2407,28 @@
       }
     ],
     "hashEvenement": "f41991"
+  },
+  {
+    "idSeance": 184850,
+    "idEvenement": 31387,
+    "dateHeure": "2025-01-04T20:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Otto Preminger",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35808,
+        "titre": "Un si doux visage",
+        "realisateurs": "Otto Preminger",
+        "annee": 1952,
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "f35808"
   },
   {
     "idSeance": 137943,
@@ -2500,8 +2505,8 @@
     "hashEvenement": "f43168"
   },
   {
-    "idSeance": 137945,
-    "idEvenement": 31387,
+    "idSeance": 184849,
+    "idEvenement": 31352,
     "dateHeure": "2025-01-05T19:00:00",
     "salle": "HL",
     "cycle": [
@@ -2512,14 +2517,17 @@
     ],
     "items": [
       {
-        "idFilm": 35808,
-        "titre": "Un si doux visage",
-        "realisateurs": "Otto Preminger",
-        "annee": 1952,
-        "duree": 90
+        "idFilm": 33920,
+        "titre": "Dame au manteau d'hermine",
+        "art": "La",
+        "realisateurs": "Ernst Lubitsch, Otto Preminger",
+        "annee": 1947,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35808"
+    "hashEvenement": "f33920"
   },
   {
     "idSeance": 137950,
@@ -2669,7 +2677,7 @@
   {
     "idSeance": 184810,
     "idEvenement": 31258,
-    "dateHeure": "2025-01-09T18:00:00",
+    "dateHeure": "2025-01-09T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2764,30 +2772,6 @@
     "hashEvenement": "f34877"
   },
   {
-    "idSeance": 138072,
-    "idEvenement": 31359,
-    "dateHeure": "2025-01-10T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Otto Preminger",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35607,
-        "titre": "Carmen Jones",
-        "realisateurs": "Otto Preminger",
-        "annee": 1954,
-        "duree": 107,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f35607"
-  },
-  {
     "idSeance": 184818,
     "idEvenement": 31416,
     "dateHeure": "2025-01-10T18:00:00",
@@ -2854,6 +2838,30 @@
     "hashEvenement": "f77847f69155f154951f37688f140177f154953"
   },
   {
+    "idSeance": 138072,
+    "idEvenement": 31359,
+    "dateHeure": "2025-01-10T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Otto Preminger",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35607,
+        "titre": "Carmen Jones",
+        "realisateurs": "Otto Preminger",
+        "annee": 1954,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35607"
+  },
+  {
     "idSeance": 138076,
     "idEvenement": 31422,
     "dateHeure": "2025-01-10T20:00:00",
@@ -2887,7 +2895,7 @@
   {
     "idSeance": 138073,
     "idEvenement": 31366,
-    "dateHeure": "2025-01-10T20:30:00",
+    "dateHeure": "2025-01-10T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2910,8 +2918,8 @@
     "hashEvenement": "f44907"
   },
   {
-    "idSeance": 138112,
-    "idEvenement": 31355,
+    "idSeance": 184847,
+    "idEvenement": 31363,
     "dateHeure": "2025-01-11T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -2922,14 +2930,16 @@
     ],
     "items": [
       {
-        "idFilm": 35812,
-        "titre": "Condamné au silence",
+        "idFilm": 35815,
+        "titre": "Femme ou maîtresse",
         "realisateurs": "Otto Preminger",
-        "annee": 1955,
-        "duree": 100
+        "annee": 1947,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35812"
+    "hashEvenement": "f35815"
   },
   {
     "idSeance": 174921,
@@ -2985,33 +2995,9 @@
     "hashEvenement": "f97271f66928f154974f147132"
   },
   {
-    "idSeance": 138113,
-    "idEvenement": 31382,
-    "dateHeure": "2025-01-11T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Otto Preminger",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 45857,
-        "titre": "Sainte Jeanne",
-        "realisateurs": "Otto Preminger",
-        "annee": 1957,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f45857"
-  },
-  {
     "idSeance": 138117,
     "idEvenement": 31255,
-    "dateHeure": "2025-01-11T17:30:00",
+    "dateHeure": "2025-01-11T17:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3082,9 +3068,9 @@
     "hashEvenement": "f43163"
   },
   {
-    "idSeance": 184808,
-    "idEvenement": 31352,
-    "dateHeure": "2025-01-12T14:30:00",
+    "idSeance": 184823,
+    "idEvenement": 31386,
+    "dateHeure": "2025-01-12T15:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3094,41 +3080,16 @@
     ],
     "items": [
       {
-        "idFilm": 33920,
-        "titre": "Dame au manteau d'hermine",
-        "art": "La",
-        "realisateurs": "Ernst Lubitsch, Otto Preminger",
-        "annee": 1947,
-        "duree": 90,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f33920"
-  },
-  {
-    "idSeance": 184809,
-    "idEvenement": 31369,
-    "dateHeure": "2025-01-12T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Otto Preminger",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 32568,
-        "titre": "Ambre",
+        "idFilm": 45917,
+        "titre": "Tempête à Washington",
         "realisateurs": "Otto Preminger",
-        "annee": 1946,
+        "annee": 1961,
         "duree": 140,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f32568"
+    "hashEvenement": "f45917"
   },
   {
     "idSeance": 184767,
@@ -3153,6 +3114,30 @@
       }
     ],
     "hashEvenement": "f71313"
+  },
+  {
+    "idSeance": 184809,
+    "idEvenement": 31369,
+    "dateHeure": "2025-01-12T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Otto Preminger",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32568,
+        "titre": "Ambre",
+        "realisateurs": "Otto Preminger",
+        "annee": 1946,
+        "duree": 140,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f32568"
   },
   {
     "idSeance": 138136,
@@ -3370,33 +3355,9 @@
     "hashEvenement": "f50137"
   },
   {
-    "idSeance": 138256,
-    "idEvenement": 31386,
-    "dateHeure": "2025-01-17T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Otto Preminger",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 45917,
-        "titre": "Tempête à Washington",
-        "realisateurs": "Otto Preminger",
-        "annee": 1961,
-        "duree": 140,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f45917"
-  },
-  {
     "idSeance": 138257,
     "idEvenement": 31354,
-    "dateHeure": "2025-01-17T20:45:00",
+    "dateHeure": "2025-01-17T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3416,6 +3377,31 @@
       }
     ],
     "hashEvenement": "f45924"
+  },
+  {
+    "idSeance": 184825,
+    "idEvenement": 31367,
+    "dateHeure": "2025-01-17T20:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Otto Preminger",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 71870,
+        "titre": "Human Factor",
+        "art": "The",
+        "realisateurs": "Otto Preminger",
+        "annee": 1979,
+        "duree": 114,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f71870"
   },
   {
     "idSeance": 184778,
@@ -3442,8 +3428,8 @@
     "hashEvenement": "f50136"
   },
   {
-    "idSeance": 138315,
-    "idEvenement": 31367,
+    "idSeance": 138112,
+    "idEvenement": 31355,
     "dateHeure": "2025-01-18T15:00:00",
     "salle": "HL",
     "cycle": [
@@ -3454,22 +3440,19 @@
     ],
     "items": [
       {
-        "idFilm": 71870,
-        "titre": "Human Factor",
-        "art": "The",
+        "idFilm": 35812,
+        "titre": "Condamné au silence",
         "realisateurs": "Otto Preminger",
-        "annee": 1979,
-        "duree": 114,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "annee": 1955,
+        "duree": 100
       }
     ],
-    "hashEvenement": "f71870"
+    "hashEvenement": "f35812"
   },
   {
-    "idSeance": 138316,
-    "idEvenement": 31377,
-    "dateHeure": "2025-01-18T17:30:00",
+    "idSeance": 138113,
+    "idEvenement": 31382,
+    "dateHeure": "2025-01-18T17:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3479,21 +3462,21 @@
     ],
     "items": [
       {
-        "idFilm": 45930,
-        "titre": "Première Victoire",
+        "idFilm": 45857,
+        "titre": "Sainte Jeanne",
         "realisateurs": "Otto Preminger",
-        "annee": 1964,
-        "duree": 165,
-        "version": "VOAutres",
-        "format": "35 mm"
+        "annee": 1957,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f45930"
+    "hashEvenement": "f45857"
   },
   {
     "idSeance": 184780,
     "idEvenement": 31491,
-    "dateHeure": "2025-01-18T19:30:00",
+    "dateHeure": "2025-01-18T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3514,9 +3497,9 @@
     "hashEvenement": "f77877"
   },
   {
-    "idSeance": 138317,
-    "idEvenement": 31372,
-    "dateHeure": "2025-01-18T20:45:00",
+    "idSeance": 138316,
+    "idEvenement": 31377,
+    "dateHeure": "2025-01-18T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3526,17 +3509,16 @@
     ],
     "items": [
       {
-        "idFilm": 35819,
-        "titre": "Eventail de Lady Windermere",
-        "art": "L'",
+        "idFilm": 45930,
+        "titre": "Première Victoire",
         "realisateurs": "Otto Preminger",
-        "annee": 1948,
-        "duree": 79,
-        "version": "VOSTF",
+        "annee": 1964,
+        "duree": 165,
+        "version": "VOAutres",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35819"
+    "hashEvenement": "f45930"
   },
   {
     "idSeance": 174917,
@@ -3758,6 +3740,29 @@
     "hashEvenement": "f34499"
   },
   {
+    "idSeance": 138370,
+    "idEvenement": 31573,
+    "dateHeure": "2025-01-22T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Éric Demarsan",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46705,
+        "titre": "Plein sud",
+        "realisateurs": "Luc Béraud",
+        "annee": 1980,
+        "duree": 90,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f46705"
+  },
+  {
     "idSeance": 138366,
     "idEvenement": 25722,
     "dateHeure": "2025-01-22T20:00:00",
@@ -3780,6 +3785,28 @@
       }
     ],
     "hashEvenement": "f55780"
+  },
+  {
+    "idSeance": 184841,
+    "idEvenement": 31449,
+    "dateHeure": "2025-01-22T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Éric Demarsan",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47835,
+        "titre": "Section spéciale",
+        "realisateurs": "Costa-Gavras",
+        "annee": 1974,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f47835"
   },
   {
     "idSeance": 138368,
@@ -4115,8 +4142,8 @@
     "hashEvenement": "f34844"
   },
   {
-    "idSeance": 138501,
-    "idEvenement": 31361,
+    "idSeance": 184827,
+    "idEvenement": 31389,
     "dateHeure": "2025-01-26T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -4127,40 +4154,15 @@
     ],
     "items": [
       {
-        "idFilm": 35816,
-        "titre": "Crime passionnel",
-        "realisateurs": "Otto Preminger",
-        "annee": 1945,
-        "duree": 101,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 34443,
+        "titre": "Porgy and Bess",
+        "realisateurs": "Otto Preminger, Rouben Mamoulian",
+        "annee": 1958,
+        "duree": 136,
+        "version": "VO"
       }
     ],
-    "hashEvenement": "f35816"
-  },
-  {
-    "idSeance": 138502,
-    "idEvenement": 25732,
-    "dateHeure": "2025-01-26T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "David Cronenberg",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 59968,
-        "titre": "Crash",
-        "realisateurs": "David Cronenberg",
-        "annee": 1995,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f59968"
+    "hashEvenement": "f34443"
   },
   {
     "idSeance": 138508,
@@ -4187,9 +4189,33 @@
     "hashEvenement": "f35800"
   },
   {
+    "idSeance": 138502,
+    "idEvenement": 25732,
+    "dateHeure": "2025-01-26T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 59968,
+        "titre": "Crash",
+        "realisateurs": "David Cronenberg",
+        "annee": 1995,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f59968"
+  },
+  {
     "idSeance": 138503,
     "idEvenement": 25758,
-    "dateHeure": "2025-01-26T19:15:00",
+    "dateHeure": "2025-01-26T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5023,50 +5049,6 @@
     "hashEvenement": "f32393"
   },
   {
-    "idSeance": 138773,
-    "idEvenement": 31307,
-    "dateHeure": "2025-02-06T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "John Frankenheimer",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 32357,
-        "titre": "Cavaliers",
-        "art": "Les",
-        "realisateurs": "John Frankenheimer",
-        "annee": 1970
-      }
-    ],
-    "hashEvenement": "f32357"
-  },
-  {
-    "idSeance": 184793,
-    "idEvenement": 31320,
-    "dateHeure": "2025-02-06T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "John Frankenheimer",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 32413,
-        "titre": "Impossible Objet",
-        "art": "L'",
-        "realisateurs": "John Frankenheimer",
-        "annee": 1972
-      }
-    ],
-    "hashEvenement": "f32413"
-  },
-  {
     "idSeance": 184794,
     "idEvenement": 31321,
     "dateHeure": "2025-02-07T19:00:00",
@@ -5270,7 +5252,7 @@
     "idSeance": 138959,
     "idEvenement": 31446,
     "dateHeure": "2025-02-13T18:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Yves Mirande",
@@ -5294,7 +5276,7 @@
     "idSeance": 184797,
     "idEvenement": 31445,
     "dateHeure": "2025-02-13T20:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Yves Mirande",
@@ -5317,7 +5299,7 @@
     "idSeance": 139004,
     "idEvenement": 31437,
     "dateHeure": "2025-02-14T18:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Yves Mirande",
@@ -5340,7 +5322,7 @@
     "idSeance": 139005,
     "idEvenement": 31443,
     "dateHeure": "2025-02-14T20:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Yves Mirande",
@@ -5359,6 +5341,28 @@
       }
     ],
     "hashEvenement": "f50003"
+  },
+  {
+    "idSeance": 139042,
+    "idEvenement": 31315,
+    "dateHeure": "2025-02-15T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "John Frankenheimer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32415,
+        "titre": "Pays de la violence",
+        "art": "Le",
+        "realisateurs": "John Frankenheimer",
+        "annee": 1969
+      }
+    ],
+    "hashEvenement": "f32415"
   },
   {
     "idSeance": 139046,
@@ -5475,9 +5479,32 @@
     "hashEvenement": "f49247"
   },
   {
+    "idSeance": 139110,
+    "idEvenement": 31481,
+    "dateHeure": "2025-02-19T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Annette Wademant",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46656,
+        "titre": "Édouard et Caroline",
+        "realisateurs": "Jacques Becker",
+        "annee": 1950,
+        "duree": 85,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f46656"
+  },
+  {
     "idSeance": 139190,
     "idEvenement": 31484,
-    "dateHeure": "2025-02-21T19:00:00",
+    "dateHeure": "2025-02-21T20:00:00",
     "salle": "GF",
     "cycle": [
       [

@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2024-12-11T20:00:00",
-    "2024-12-18T20:30:00"
+    "2024-12-18T19:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -27,8 +27,8 @@
           ],
           "seances": [
             {
-              "idSeance": 145297,
-              "dateHeure": "2024-12-15T20:45:00",
+              "idSeance": 184836,
+              "dateHeure": "2024-12-15T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -58,14 +58,13 @@
           ],
           "seances": [
             {
-              "idSeance": 145295,
+              "idSeance": 184828,
               "dateHeure": "2024-12-11T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "idSalle": "HL"
             },
             {
-              "idSeance": 145313,
-              "dateHeure": "2024-12-18T20:30:00",
+              "idSeance": 184840,
+              "dateHeure": "2024-12-18T19:30:00",
               "idSalle": "GF"
             }
           ]
@@ -90,8 +89,8 @@
           ],
           "seances": [
             {
-              "idSeance": 145292,
-              "dateHeure": "2024-12-13T20:45:00",
+              "idSeance": 184832,
+              "dateHeure": "2024-12-13T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -109,14 +108,14 @@
               "pays": "États-Unis",
               "annee": 1977,
               "duree": 127,
-              "version": "VF",
-              "format": "35 mm",
+              "version": "",
+              "format": "",
               "adaptation": "D'après le roman _Dog Soldiers_ de Robert Stone."
             }
           ],
           "seances": [
             {
-              "idSeance": 184790,
+              "idSeance": 184837,
               "dateHeure": "2024-12-15T14:30:00",
               "idSalle": "HL"
             }
@@ -145,36 +144,53 @@
           ],
           "seances": [
             {
-              "idSeance": 145294,
+              "idSeance": 184834,
               "dateHeure": "2024-12-14T20:00:00",
               "idSalle": "GF"
             }
           ]
         },
         {
-          "idFilm": 42938,
-          "content": [
+          "groupe": [
             {
               "idFilm": 42938,
-              "ordre": 1,
-              "titre": "Maîtresse du lieutenant français",
-              "art": "La",
-              "titreVo": "French Lieutenant's Woman",
-              "artVo": "The",
-              "realisateurs": "Karel Reisz",
-              "pays": "Grande-Bretagne",
-              "annee": 1980,
-              "duree": 124,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _The French Lieutenant's Woman_ de John Fowles."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 42938,
+                  "ordre": 1,
+                  "titre": "Maîtresse du lieutenant français",
+                  "art": "La",
+                  "titreVo": "French Lieutenant's Woman",
+                  "artVo": "The",
+                  "realisateurs": "Karel Reisz",
+                  "pays": "Grande-Bretagne",
+                  "annee": 1980,
+                  "duree": 124,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _The French Lieutenant's Woman_ de John Fowles."
+                }
+              ]
+            },
             {
-              "idSeance": 184789,
-              "dateHeure": "2024-12-14T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 31574,
+              "content": [
+                {
+                  "idConf": 31574,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Axelle Ropert",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184838,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-12-14T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -195,7 +211,7 @@
           ],
           "seances": [
             {
-              "idSeance": 145312,
+              "idSeance": 184839,
               "dateHeure": "2024-12-18T18:00:00",
               "idSalle": "GF"
             }
@@ -218,8 +234,8 @@
           ],
           "seances": [
             {
-              "idSeance": 145289,
-              "dateHeure": "2024-12-12T17:30:00",
+              "idSeance": 184829,
+              "dateHeure": "2024-12-12T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -242,7 +258,7 @@
           ],
           "seances": [
             {
-              "idSeance": 145293,
+              "idSeance": 184833,
               "dateHeure": "2024-12-14T18:00:00",
               "idSalle": "GF"
             }
@@ -261,13 +277,13 @@
               "annee": 1960,
               "duree": 90,
               "version": "VOSTF",
-              "format": "35 mm",
+              "format": "DCP",
               "adaptation": "D'après le roman _Saturday Night and Sunday Morning_ d'Alan Sillitoe."
             }
           ],
           "seances": [
             {
-              "idSeance": 145291,
+              "idSeance": 184831,
               "dateHeure": "2024-12-13T18:30:00",
               "idSalle": "GF"
             }
@@ -294,8 +310,8 @@
           ],
           "seances": [
             {
-              "idSeance": 145296,
-              "dateHeure": "2024-12-15T17:30:00",
+              "idSeance": 184835,
+              "dateHeure": "2024-12-15T17:45:00",
               "idSalle": "GF"
             }
           ]
@@ -317,7 +333,7 @@
           ],
           "seances": [
             {
-              "idSeance": 145290,
+              "idSeance": 184830,
               "dateHeure": "2024-12-12T20:00:00",
               "idSalle": "GF"
             }
@@ -326,5 +342,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "La Maîtresse du lieutenant français",
+        "mention": "avec Axelle Ropert",
+        "dateHeure": "2024-12-14T14:30:00"
+      }
+    ]
+  }
 }

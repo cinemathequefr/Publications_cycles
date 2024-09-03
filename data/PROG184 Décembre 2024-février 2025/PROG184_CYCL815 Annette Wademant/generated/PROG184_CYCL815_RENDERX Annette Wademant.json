@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2025-02-21T19:00:00",
-    "2025-02-21T19:00:00"
+    "2025-02-19T20:00:00",
+    "2025-02-21T20:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,34 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 46656,
+          "content": [
+            {
+              "idFilm": 46656,
+              "ordre": 1,
+              "titre": "Édouard et Caroline",
+              "realisateurs": "Jacques Becker",
+              "pays": "France",
+              "annee": 1950,
+              "duree": 85,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Daniel Gélin",
+                "Anne Vernon",
+                "Jacques François"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 139110,
+              "dateHeure": "2025-02-19T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 50426,
           "content": [
@@ -33,7 +61,7 @@
           "seances": [
             {
               "idSeance": 139190,
-              "dateHeure": "2025-02-21T19:00:00",
+              "dateHeure": "2025-02-21T20:00:00",
               "idSalle": "GF"
             }
           ]
