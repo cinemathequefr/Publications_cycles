@@ -134,33 +134,50 @@
           ]
         },
         {
-          "idFilm": 35660,
-          "content": [
+          "groupe": [
             {
               "idFilm": 35660,
-              "ordre": 1,
-              "titre": "Cardinal",
-              "art": "Le",
-              "realisateurs": "Otto Preminger",
-              "pays": "États-Unis",
-              "annee": 1963,
-              "duree": 175,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _The Cardinal_ de Henry Morton Robinson.",
-              "generique": [
-                "John Huston",
-                "Romy Schneider",
-                "Dorothy Gish",
-                "Tom Tryon"
+              "content": [
+                {
+                  "idFilm": 35660,
+                  "ordre": 1,
+                  "titre": "Cardinal",
+                  "art": "Le",
+                  "realisateurs": "Otto Preminger",
+                  "pays": "États-Unis",
+                  "annee": 1963,
+                  "duree": 175,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _The Cardinal_ de Henry Morton Robinson.",
+                  "generique": [
+                    "John Huston",
+                    "Romy Schneider",
+                    "Dorothy Gish",
+                    "Tom Tryon"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 174917,
-              "dateHeure": "2025-01-19T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 31576,
+              "content": [
+                {
+                  "idConf": 31576,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-François Rauger",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Murielle Joudet"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 174917,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-01-19T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -408,37 +425,57 @@
           ]
         },
         {
-          "idFilm": 35815,
-          "content": [
+          "groupe": [
             {
               "idFilm": 35815,
-              "ordre": 1,
-              "titre": "Femme ou maîtresse",
-              "titreVo": "Daisy Kenyon",
-              "realisateurs": "Otto Preminger",
-              "pays": "États-Unis",
-              "annee": 1947,
-              "duree": 99,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Daisy Kenyon_ d'Elizabeth Janeway.",
-              "generique": [
-                "Joan Crawford",
-                "Dana Andrews",
-                "Henry Fonda"
+              "content": [
+                {
+                  "idFilm": 35815,
+                  "ordre": 1,
+                  "titre": "Femme ou maîtresse",
+                  "titreVo": "Daisy Kenyon",
+                  "realisateurs": "Otto Preminger",
+                  "pays": "États-Unis",
+                  "annee": 1947,
+                  "duree": 99,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Daisy Kenyon_ d'Elizabeth Janeway.",
+                  "generique": [
+                    "Joan Crawford",
+                    "Dana Andrews",
+                    "Henry Fonda"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 184847,
-              "dateHeure": "2025-01-11T14:30:00",
-              "idSalle": "HL"
             },
             {
-              "idSeance": 138446,
-              "dateHeure": "2025-01-24T18:00:00",
-              "idSalle": "GF"
+              "idEvenement": 31575,
+              "content": [
+                {
+                  "idConf": 31575,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184847,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-01-11T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 184847,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 138446,
+                  "dateHeure": "2025-01-24T18:00:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -1133,5 +1170,18 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "titreFilms": "Femme ou maîtresse",
+        "mention": "avec Murielle Joudet",
+        "dateHeure": "2025-01-11T14:30:00"
+      },
+      {
+        "titreFilms": "Le Cardinal",
+        "mention": "avec Jean-François Rauger",
+        "dateHeure": "2025-01-19T14:30:00"
+      }
+    ]
+  }
 }
