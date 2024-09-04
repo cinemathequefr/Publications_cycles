@@ -459,23 +459,34 @@
   * Un chat, un chat  
   * Vérité zébrée (La)
 
-## Séances spéciales (18)
+## Séances spéciales (29)
 
+  * À la recherche d'Aline  
   * All We Imagine As Light  
   * Aloïse  
+  * Annonce (L')  
+  * Berlue  
   * Ceux de chez nous  
+  * Fabula  
   * Family Portraits, une trilogie américaine  
   * Félicie Nanteuil  
+  * Fin d'été  
   * Galets d'Étretat (Les)  
   * Godzilla contre Mecanik Monster  
   * Godzilla: Final Wars  
   * Grand Tour  
+  * Inside You  
   * Jeanne fait des siennes  
   * King Kong contre Godzilla  
   * Miséricorde  
+  * Missionnaire  
+  * Passenger  
+  * Petit Plafond  
   * Planète des monstres (La)  
   * Qui donc a rêvé ?  
+  * Rivages intérieurs  
   * Sisters  
+  * Stay Gold  
   * Theatre bizarre: The Accident (The)  
   * Trois kilomètres jusqu'à la fin du monde  
   * Un beau monstre

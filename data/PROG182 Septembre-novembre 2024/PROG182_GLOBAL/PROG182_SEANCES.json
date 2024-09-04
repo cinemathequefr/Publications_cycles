@@ -1773,15 +1773,11 @@
     "idSeance": 134048,
     "idEvenement": 30726,
     "dateHeure": "2024-09-14T14:30:00",
-    "salle": "GF",
+    "salle": "LE",
     "cycle": [
       [
         "George Cukor",
         "Les films"
-      ],
-      [
-        "George Cukor",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1793,15 +1789,9 @@
         "duree": 101,
         "version": "VOSTF",
         "format": "35 mm"
-      },
-      {
-        "idConf": 30966,
-        "titre": "Dialogue avec Yola Le Caïnec",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f31387c30966"
+    "hashEvenement": "f31387"
   },
   {
     "idSeance": 144441,
@@ -1826,6 +1816,27 @@
       }
     ],
     "hashEvenement": "f154672"
+  },
+  {
+    "idSeance": 133786,
+    "idEvenement": 30966,
+    "dateHeure": "2024-09-14T16:15:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "George Cukor",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30966,
+        "titre": "Dialogue avec Yola Le Caïnec",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30966"
   },
   {
     "idSeance": 133979,
@@ -1957,6 +1968,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Yola Le Caïnec",
     "items": [
       {
         "idFilm": 31402,
@@ -2397,6 +2409,63 @@
     "hashEvenement": "f31422"
   },
   {
+    "idSeance": 184871,
+    "idEvenement": 31543,
+    "dateHeure": "2024-09-19T18:00:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Prix Serge Daney"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154599,
+        "titre": "À la recherche d'Aline",
+        "realisateurs": "Rokhaya Marieme Balde",
+        "annee": 2020,
+        "duree": 27,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154979,
+        "titre": "Passenger",
+        "realisateurs": "Huang Wenting",
+        "annee": 2021,
+        "duree": 22,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154980,
+        "titre": "Fin d'été",
+        "realisateurs": "Pierre Grémillet",
+        "annee": 2021,
+        "duree": 10,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154981,
+        "titre": "Annonce",
+        "art": "L'",
+        "realisateurs": "Denis Liakhov",
+        "annee": 2021,
+        "duree": 8,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154982,
+        "titre": "Berlue",
+        "realisateurs": "Raoul Barbé, Axel Roche",
+        "annee": 2020,
+        "duree": 13,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154599f154979f154980f154981f154982"
+  },
+  {
     "idSeance": 133684,
     "idEvenement": 30840,
     "dateHeure": "2024-09-19T20:00:00",
@@ -2419,6 +2488,70 @@
       }
     ],
     "hashEvenement": "f43787"
+  },
+  {
+    "idSeance": 184872,
+    "idEvenement": 31409,
+    "dateHeure": "2024-09-19T20:00:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Prix Serge Daney"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154947,
+        "titre": "Fabula",
+        "realisateurs": "Elyes Jeridi",
+        "annee": 2023,
+        "duree": 14,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154948,
+        "titre": "Stay Gold",
+        "realisateurs": "Jude Cassidi",
+        "annee": 2022,
+        "duree": 19,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154949,
+        "titre": "Missionnaire",
+        "realisateurs": "Rose Duvivier",
+        "annee": 2022,
+        "duree": 13,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154975,
+        "titre": "Rivages intérieurs",
+        "realisateurs": "Benjamin Choiselat-Meyohas",
+        "annee": 2022,
+        "duree": 20,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154977,
+        "titre": "Petit Plafond",
+        "realisateurs": "Antoine Jablonski",
+        "annee": 2023,
+        "duree": 2,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 154978,
+        "titre": "Inside You",
+        "realisateurs": "Erik Semashkin",
+        "annee": 2022,
+        "duree": 3,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154947f154948f154949f154975f154977f154978"
   },
   {
     "idSeance": 133690,
@@ -3389,6 +3522,27 @@
     "hashEvenement": "f42426"
   },
   {
+    "idSeance": 184877,
+    "idEvenement": 31176,
+    "dateHeure": "2024-09-26T22:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Bob Rafelson",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31176,
+        "titre": "Dialogue avec Jean-Baptiste Thoret",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c31176"
+  },
+  {
     "idSeance": 134191,
     "idEvenement": 30858,
     "dateHeure": "2024-09-27T18:00:00",
@@ -3519,10 +3673,6 @@
       [
         "Bob Rafelson",
         "Les films"
-      ],
-      [
-        "Bob Rafelson",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3534,15 +3684,9 @@
         "duree": 98,
         "version": "VOSTF",
         "format": "DCP"
-      },
-      {
-        "idConf": 31176,
-        "titre": "Dialogue avec Jean-Baptiste Thoret",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f35848c31176"
+    "hashEvenement": "f35848"
   },
   {
     "idSeance": 134167,
@@ -3917,7 +4061,7 @@
     "idSeance": 131902,
     "idEvenement": 31072,
     "dateHeure": "2024-10-02T15:00:00",
-    "salle": "JE",
+    "salle": "LE",
     "cycle": [
       [
         "Ma petite Cinémathèque",

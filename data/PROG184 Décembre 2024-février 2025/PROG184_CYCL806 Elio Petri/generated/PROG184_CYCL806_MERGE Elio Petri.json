@@ -152,12 +152,12 @@
           "textes": []
         },
         {
-          "idSeance": 137928,
+          "idSeance": 184869,
           "ordre": 1,
-          "dateHeure": "2025-01-04T14:30:00",
+          "dateHeure": "2025-01-09T20:15:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 150,
           "idCategorie": 3448,
@@ -331,14 +331,15 @@
           ]
         },
         {
-          "idSeance": 138029,
+          "idSeance": 184868,
           "ordre": 1,
-          "dateHeure": "2025-01-09T20:15:00",
+          "dateHeure": "2025-01-04T14:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "dureeSeance": 165,
+          "typeAssoc": 118,
           "idCategorie": 3448,
           "idEvenement": 31254,
           "typeEvenement": 13,
@@ -518,6 +519,40 @@
           "version": "VO",
           "format": "DCP",
           "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 184868,
+          "ordre": 2,
+          "dateHeure": "2025-01-04T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 75,
+          "typeAssoc": 118,
+          "idCategorie": 3620,
+          "idEvenement": 31586,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Jean-François Rauger",
+          "duree": 90,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Jean-François Rauger",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []

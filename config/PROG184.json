@@ -47,6 +47,11 @@
       ]
     },
     {
+      "idCycleProg": 661,
+      "titreCycle": "Gérardmer à Paris",
+      "sousCycles": [{ "titre": "Les films", "cats": [3590], "tri": 1 }]
+    },
+    {
       "idCycleProg": 796,
       "titreCycle": "Sergueï Paradjanov",
       "sousCycles": [
@@ -71,7 +76,7 @@
       "sousCycles": [
         { "titre": "Les films", "cats": [3448], "tri": 1 },
         { "titre": "Courts métrages", "cats": [3480], "tri": 4 },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [3620], "tri": 4 }
       ],
       "excludeSeances": []
     },
@@ -141,7 +146,15 @@
     {
       "idCycleProg": 817,
       "titreCycle": "Ma petite Cinémathèque",
+      "isReg": true,
+      "type": "jp",
       "sousCycles": [{ "titre": "Les films", "cats": [3475], "tri": 1 }],
+      "excludeSeances": []
+    },
+    {
+      "idCycleProg": 953,
+      "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
+      "sousCycles": [{ "titre": "Les films", "cats": [3621], "tri": 4 }],
       "excludeSeances": []
     }
   ]

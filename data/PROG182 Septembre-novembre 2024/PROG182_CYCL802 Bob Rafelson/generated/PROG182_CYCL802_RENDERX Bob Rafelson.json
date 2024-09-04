@@ -70,51 +70,33 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 35848,
+          "content": [
             {
               "idFilm": 35848,
-              "content": [
-                {
-                  "idFilm": 35848,
-                  "ordre": 1,
-                  "titre": "Cinq pièces faciles",
-                  "titreVo": "Five Easy Pieces",
-                  "realisateurs": "Bob Rafelson",
-                  "pays": "États-Unis",
-                  "annee": 1970,
-                  "duree": 98,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "generique": [
-                    "Jack Nicholson",
-                    "Karen Black",
-                    "Billy Green Bush"
-                  ],
-                  "isFocus": true,
-                  "miniTexte": "Second film et coup de maître pour Rafelson avec cet itinéraire mélancolique sur le désarroi des jeunes générations américaines. Les cinq pièces faciles du titre – des morceaux de Chopin, Bach et Mozart – scandent l'existence d'un ouvrier caractériel, fin dissimulateur de ses véritables origines sociales, qui personnifie le mal de vivre de tout un pays. Dans un style sobre, spontané, sans concession, Rafelson déploie une tragédie intimiste et confirme le talent brut de Jack Nicholson, fantastique de lyrisme. L'un des chefs-d'œuvre du Nouvel Hollywood."
-                }
-              ]
-            },
-            {
-              "idEvenement": 31176,
-              "content": [
-                {
-                  "idConf": 31176,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Jean-Baptiste Thoret",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Bernard Benoliel",
-                  "miniTexte": "Sans doute l'un des films les plus emblématiques et les plus beaux de ce que, rétrospectivement, on a appelé le Nouvel Hollywood. Produit et réalisé sous l'égide de la BBS, _Cinq pièces faciles_ n'a pas seulement permis de nommer un genre – le road movie – qui allait saisir comme aucun autre le désenchantement existentiel de la période. Calant son pas sur un homme indécis qui ne trouve nulle part où se fixer vraiment, c'est un film à la fois éclatant et mystérieux, un film de route et d'avancées immobiles, le portrait prodigieux d'une Amérique déboussolée qui va et revient au gré de ses impulsions contradictoires. C'est peut-être, en cinq pièces difficiles, l'histoire de Télémaque au pays d'_Easy Rider_. — Jean-Baptiste Thoret"
-                }
+              "ordre": 1,
+              "titre": "Cinq pièces faciles",
+              "titreVo": "Five Easy Pieces",
+              "realisateurs": "Bob Rafelson",
+              "pays": "États-Unis",
+              "annee": 1970,
+              "duree": 98,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Jack Nicholson",
+                "Karen Black",
+                "Billy Green Bush"
               ],
-              "seances": [
-                {
-                  "idSeance": 134164,
-                  "typeAssoc": 118,
-                  "dateHeure": "2024-09-28T15:00:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "isFocus": true,
+              "miniTexte": "Second film et coup de maître pour Rafelson avec cet itinéraire mélancolique sur le désarroi des jeunes générations américaines. Les cinq pièces faciles du titre – des morceaux de Chopin, Bach et Mozart – scandent l'existence d'un ouvrier caractériel, fin dissimulateur de ses véritables origines sociales, qui personnifie le mal de vivre de tout un pays. Dans un style sobre, spontané, sans concession, Rafelson déploie une tragédie intimiste et confirme le talent brut de Jack Nicholson, fantastique de lyrisme. L'un des chefs-d'œuvre du Nouvel Hollywood."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 134164,
+              "dateHeure": "2024-09-28T15:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -335,14 +317,38 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31176,
+          "content": [
+            {
+              "idConf": 31176,
+              "titre": "Dialogue avec Jean-Baptiste Thoret",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Bernard Benoliel",
+              "miniTexte": "Sans doute l'un des films les plus emblématiques et les plus beaux de ce que, rétrospectivement, on a appelé le Nouvel Hollywood. Produit et réalisé sous l'égide de la BBS, _Cinq pièces faciles_ n'a pas seulement permis de nommer un genre – le road movie – qui allait saisir comme aucun autre le désenchantement existentiel de la période. Calant son pas sur un homme indécis qui ne trouve nulle part où se fixer vraiment, c'est un film à la fois éclatant et mystérieux, un film de route et d'avancées immobiles, le portrait prodigieux d'une Amérique déboussolée qui va et revient au gré de ses impulsions contradictoires. C'est peut-être, en cinq pièces difficiles, l'histoire de Télémaque au pays d'_Easy Rider_. — Jean-Baptiste Thoret"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184877,
+              "dateHeure": "2024-09-26T22:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
-        "titreFilms": "Cinq pièces faciles",
         "mention": "avec Jean-Baptiste Thoret",
-        "dateHeure": "2024-09-28T15:00:00"
+        "dateHeure": "2024-09-26T22:00:00"
       }
     ]
   }

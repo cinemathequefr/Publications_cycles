@@ -21,7 +21,7 @@
               "annee": 1937,
               "duree": 95,
               "version": "",
-              "format": "16 mm"
+              "format": "35 mm"
             }
           ],
           "seances": [
@@ -84,31 +84,48 @@
           "seances": [
             {
               "idSeance": 184799,
-              "dateHeure": "2025-02-15T21:30:00",
+              "dateHeure": "2025-02-15T20:30:00",
               "idSalle": "GF"
             }
           ]
         },
         {
-          "idFilm": 49542,
-          "content": [
+          "groupe": [
             {
               "idFilm": 49542,
-              "ordre": 1,
-              "titre": "Derrière la façade",
-              "realisateurs": "Georges Lacombe, Yves Mirande",
-              "pays": "France",
-              "annee": 1938,
-              "duree": 85,
-              "version": "",
-              "format": "35 mm"
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 49542,
+                  "ordre": 1,
+                  "titre": "Derrière la façade",
+                  "realisateurs": "Georges Lacombe, Yves Mirande",
+                  "pays": "France",
+                  "annee": 1938,
+                  "duree": 85,
+                  "version": "",
+                  "format": "35 mm"
+                }
+              ]
+            },
             {
-              "idSeance": 184798,
-              "dateHeure": "2025-02-15T19:30:00",
-              "idSalle": "GF"
+              "idEvenement": 31584,
+              "content": [
+                {
+                  "idConf": 31584,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Noël Herpe",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Jean-François Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184866,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-02-15T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -252,32 +269,8 @@
           ],
           "seances": [
             {
-              "idSeance": 139046,
-              "dateHeure": "2025-02-15T15:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 31584,
-          "content": [
-            {
-              "idConf": 31584,
-              "titre": "Film + Dialogue avec Noël Herpe",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Jean-François Rauger"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 184862,
-              "dateHeure": "2025-02-15T14:30:00",
+              "idSeance": 184867,
+              "dateHeure": "2025-02-15T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -288,8 +281,9 @@
   "syntheseAction": {
     "Dialogue": [
       {
-        "mention": "Film + Dialogue avec Noël Herpe",
-        "dateHeure": "2025-02-15T14:30:00"
+        "titreFilms": "Derrière la façade",
+        "mention": "avec Noël Herpe",
+        "dateHeure": "2025-02-15T15:00:00"
       }
     ]
   }
