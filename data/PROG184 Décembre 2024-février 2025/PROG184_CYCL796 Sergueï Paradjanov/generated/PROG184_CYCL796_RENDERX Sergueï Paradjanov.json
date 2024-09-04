@@ -203,37 +203,57 @@
           ]
         },
         {
-          "idFilm": 54854,
-          "content": [
+          "groupe": [
             {
               "idFilm": 54854,
-              "ordre": 1,
-              "titre": "Sayat Nova : La Couleur de la grenade",
-              "titreVo": "Sayat-Nova / Tsvet granata",
-              "realisateurs": "Sergueï Paradjanov",
-              "pays": "URSS",
-              "annee": 1969,
-              "duree": 79,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Sofiko Tchiaoureli",
-                "Melkop Alekian",
-                "Vilen Galstian",
-                "Georgi Gegeckori"
+              "content": [
+                {
+                  "idFilm": 54854,
+                  "ordre": 1,
+                  "titre": "Sayat Nova : La Couleur de la grenade",
+                  "titreVo": "Sayat-Nova / Tsvet granata",
+                  "realisateurs": "Sergueï Paradjanov",
+                  "pays": "URSS",
+                  "annee": 1969,
+                  "duree": 79,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Sofiko Tchiaoureli",
+                    "Melkop Alekian",
+                    "Vilen Galstian",
+                    "Georgi Gegeckori"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 145249,
-              "dateHeure": "2024-12-07T14:30:00",
-              "idSalle": "HL"
             },
             {
-              "idSeance": 145307,
-              "dateHeure": "2024-12-12T20:45:00",
-              "idSalle": "JE"
+              "idEvenement": 31585,
+              "content": [
+                {
+                  "idConf": 31585,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Érik Bullot",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Juliette Armantier"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 145249,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-12-07T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 145249,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 145307,
+                  "dateHeure": "2024-12-12T20:45:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -587,6 +607,13 @@
       {
         "dateHeure": "2024-12-09T18:00:00",
         "titreFilms": "Les Mains d'or"
+      }
+    ],
+    "Dialogue": [
+      {
+        "titreFilms": "Sayat Nova : La Couleur de la grenade",
+        "mention": "avec Érik Bullot",
+        "dateHeure": "2024-12-07T14:30:00"
       }
     ]
   }

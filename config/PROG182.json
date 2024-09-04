@@ -7,6 +7,7 @@
       "titreCycle": "Séances spéciales",
       "isReg": true,
       "sousCycles": [
+        { "titre": "Les films", "cats": [3040], "tri": 4 },
         { "titre": "Prix Serge Daney", "cats": [3458], "tri": 4 },
         { "titre": "Journée du matrimoine 2024", "cats": [3457], "tri": 4 },
         { "titre": "Une soirée avec Douglas Buck", "cats": [3397], "tri": 4 },
@@ -22,7 +23,8 @@
         { "titre": "Avant-première Miguel Gomes", "cats": [3443], "tri": 4 },
         { "titre": "Avant-première Emanuel Pârvu", "cats": [3465], "tri": 4 },
         { "titre": "Avant-première Alain Guiraudie", "cats": [3471], "tri": 4 }
-      ]
+      ],
+      "excludeSeances": [184864]
     },
     {
       "idCycleProg": 18,
