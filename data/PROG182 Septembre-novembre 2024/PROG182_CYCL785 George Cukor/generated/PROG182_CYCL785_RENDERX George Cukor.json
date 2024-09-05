@@ -838,21 +838,6 @@
                   "isFocus": true,
                   "miniTexte": "Une mise en scène au cordeau, brillantissime. Un interrogatoire en forme de plan-séquence, mémorable. Judy Holliday en épouse bafouée, dont la tentative de meurtre sur son mari adultère se solde par un procès. Et, surtout, la complicité éclatante entre Tracy et Hepburn, entre le magistrat et l'avocate progressiste, à la verve assassine. Dans un savant jeu de miroirs, le prétoire se fait caisse de résonance : unis à la ville (belle mise en abyme du couple légendaire de Hollywood), les deux époux s'affrontent sur l'épineux sujet de l'égalité des sexes, sur le partage des rôles. Metteur en scène féministe par excellence, Cukor pose la possibilité d'une confusion des genres. C'est acide, tranchant, jouissif, et c'est peut-être là le meilleur film du trio impérial."
                 }
-              ],
-              "seances": [
-                {
-                  "idSeance": 134048,
-                  "idSeanceAssoc": 134048,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-09-14T14:30:00",
-                  "idSalle": "LE",
-                  "mentionAssoc": "Film choisi par le conférencier"
-                },
-                {
-                  "idSeance": 134168,
-                  "dateHeure": "2024-09-30T18:00:00",
-                  "idSalle": "GF"
-                }
               ]
             },
             {
@@ -860,6 +845,7 @@
               "content": [
                 {
                   "idConf": 30966,
+                  "ordre": 2,
                   "titre": "Dialogue avec Yola Le Caïnec",
                   "typeConference": "Dialogue",
                   "mentionAnimation": "Animé par Bernard Benoliel",
@@ -868,11 +854,18 @@
               ],
               "seances": [
                 {
-                  "idSeance": 133786,
+                  "idSeance": 134048,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-09-14T14:30:00",
+                  "idSalle": "LE",
                   "idSeanceAssoc": 134048,
-                  "typeAssoc": 117,
-                  "dateHeure": "2024-09-14T16:15:00",
-                  "idSalle": "LE"
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 134168,
+                  "dateHeure": "2024-09-30T18:00:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
                 }
               ]
             }
@@ -1518,8 +1511,9 @@
         "dateHeure": "2024-09-07T14:30:00"
       },
       {
+        "titreFilms": "Madame porte la culotte",
         "mention": "avec Yola Le Caïnec",
-        "dateHeure": "2024-09-14T16:15:00"
+        "dateHeure": "2024-09-14T14:30:00"
       },
       {
         "titreFilms": "Les Liaisons coupables",

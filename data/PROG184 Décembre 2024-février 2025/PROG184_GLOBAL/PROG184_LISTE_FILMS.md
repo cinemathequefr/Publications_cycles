@@ -78,6 +78,17 @@
   * Sa dernière culotte  
   * Sky Scraping
 
+## GriffithEisenstein, leçons de montage (8)
+
+  * À travers l'orage  
+  * Cuirassé Potemkine (Le)  
+  * Grève (La)  
+  * Intolérance  
+  * Ligne générale (La)  
+  * Octobre  
+  * Pauvre Amour (Le)  
+  * Pour l'indépendance
+
 ## Jacques Prévert (15)
 
   * Affaire est dans le sac (L')  
@@ -146,24 +157,35 @@
   * Sweet Dreams  
   * We Are the Lambeth Boys
 
-## Le cinéma d'apocalypse, 25 indispensables (16)
+## Le cinéma d'apocalypse, 25 indispensables (27)
 
   * 2019 après la chute de New York  
   * Atomic cyborg  
   * Choc des mondes (Le)  
+  * Deep Impact  
+  * Dernier rivage  
+  * Dernier survivant (Le)  
   * Derniers jours du monde (Les)  
   * Dr Folamour  
   * Fils de l'homme (Les)  
+  * Furiosa : une saga Mad Max  
   * Los Angeles 2013  
+  * Machine à explorer le temps (La)  
   * Mad Max  
   * Mad Max 2 : Le Défi  
   * Mad Max au-delà du Dôme du Tonnerre  
   * Mad Max : Fury Road  
   * Melancholia  
+  * Monde, la chair et le diable (Le)  
+  * Mystère Andromède (Le)  
   * New York 1997  
   * Planète des singes (La)  
+  * Planète des singes : Les origines (La)  
   * Quand la terre s'entrouvrira  
-  * Stalker
+  * Snowpiercer, le transperceneige  
+  * Soleil vert  
+  * Stalker  
+  * Take Shelter
 
 ## Le cinéma d'horreur, 25 autres indispensables (25)
 

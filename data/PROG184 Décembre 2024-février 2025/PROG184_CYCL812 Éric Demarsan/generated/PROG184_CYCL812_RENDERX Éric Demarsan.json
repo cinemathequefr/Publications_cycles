@@ -10,32 +10,49 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 50136,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50136,
-              "ordre": 1,
-              "titre": "Armée des ombres",
-              "art": "L'",
-              "realisateurs": "Jean-Pierre Melville",
-              "pays": "France-Italie",
-              "annee": 1969,
-              "duree": 150,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après le roman _L'Armée des ombres_ de Joseph Kessel.",
-              "generique": [
-                "Lino Ventura",
-                "Simone Signoret",
-                "Paul Meurisse"
+              "content": [
+                {
+                  "idFilm": 50136,
+                  "ordre": 1,
+                  "titre": "Armée des ombres",
+                  "art": "L'",
+                  "realisateurs": "Jean-Pierre Melville",
+                  "pays": "France-Italie",
+                  "annee": 1969,
+                  "duree": 150,
+                  "version": "",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _L'Armée des ombres_ de Joseph Kessel.",
+                  "generique": [
+                    "Lino Ventura",
+                    "Simone Signoret",
+                    "Paul Meurisse"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 184778,
-              "dateHeure": "2025-01-18T14:30:00",
-              "idSalle": "GF"
+              "idEvenement": 31648,
+              "content": [
+                {
+                  "idConf": 31648,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Éric Demarsan",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel et Stéphane Lerouge"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184778,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-01-18T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -215,7 +232,7 @@
               "idSeance": 184777,
               "dateHeure": "2025-01-15T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Eric Demarsan et Costa-Gavras"
             },
             {
               "idSeance": 184841,
@@ -256,5 +273,20 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "L'Armée des ombres",
+        "mention": "avec Éric Demarsan",
+        "dateHeure": "2025-01-18T14:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Section spéciale",
+        "mention": "par Eric Demarsan et Costa-Gavras",
+        "dateHeure": "2025-01-15T20:00:00"
+      }
+    ]
+  }
 }
