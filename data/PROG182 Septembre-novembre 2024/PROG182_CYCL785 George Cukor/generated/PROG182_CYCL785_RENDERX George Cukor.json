@@ -815,38 +815,66 @@
           ]
         },
         {
-          "idFilm": 31387,
-          "content": [
+          "groupe": [
             {
               "idFilm": 31387,
-              "ordre": 1,
-              "titre": "Madame porte la culotte",
-              "titreVo": "Adam's Rib",
-              "realisateurs": "George Cukor",
-              "pays": "États-Unis",
-              "annee": 1949,
-              "duree": 101,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Spencer Tracy",
-                "Katharine Hepburn",
-                "Judy Holliday"
+              "content": [
+                {
+                  "idFilm": 31387,
+                  "ordre": 1,
+                  "titre": "Madame porte la culotte",
+                  "titreVo": "Adam's Rib",
+                  "realisateurs": "George Cukor",
+                  "pays": "États-Unis",
+                  "annee": 1949,
+                  "duree": 101,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Spencer Tracy",
+                    "Katharine Hepburn",
+                    "Judy Holliday"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Une mise en scène au cordeau, brillantissime. Un interrogatoire en forme de plan-séquence, mémorable. Judy Holliday en épouse bafouée, dont la tentative de meurtre sur son mari adultère se solde par un procès. Et, surtout, la complicité éclatante entre Tracy et Hepburn, entre le magistrat et l'avocate progressiste, à la verve assassine. Dans un savant jeu de miroirs, le prétoire se fait caisse de résonance : unis à la ville (belle mise en abyme du couple légendaire de Hollywood), les deux époux s'affrontent sur l'épineux sujet de l'égalité des sexes, sur le partage des rôles. Metteur en scène féministe par excellence, Cukor pose la possibilité d'une confusion des genres. C'est acide, tranchant, jouissif, et c'est peut-être là le meilleur film du trio impérial."
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Une mise en scène au cordeau, brillantissime. Un interrogatoire en forme de plan-séquence, mémorable. Judy Holliday en épouse bafouée, dont la tentative de meurtre sur son mari adultère se solde par un procès. Et, surtout, la complicité éclatante entre Tracy et Hepburn, entre le magistrat et l'avocate progressiste, à la verve assassine. Dans un savant jeu de miroirs, le prétoire se fait caisse de résonance : unis à la ville (belle mise en abyme du couple légendaire de Hollywood), les deux époux s'affrontent sur l'épineux sujet de l'égalité des sexes, sur le partage des rôles. Metteur en scène féministe par excellence, Cukor pose la possibilité d'une confusion des genres. C'est acide, tranchant, jouissif, et c'est peut-être là le meilleur film du trio impérial."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 134048,
-              "dateHeure": "2024-09-14T14:30:00",
-              "idSalle": "LE"
+              "seances": [
+                {
+                  "idSeance": 134048,
+                  "idSeanceAssoc": 134048,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-09-14T14:30:00",
+                  "idSalle": "LE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                },
+                {
+                  "idSeance": 134168,
+                  "dateHeure": "2024-09-30T18:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             },
             {
-              "idSeance": 134168,
-              "dateHeure": "2024-09-30T18:00:00",
-              "idSalle": "GF"
+              "idEvenement": 30966,
+              "content": [
+                {
+                  "idConf": 30966,
+                  "titre": "Dialogue avec Yola Le Caïnec",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel",
+                  "miniTexte": "Alors que _Le Deuxième Sexe_ de Simone de Beauvoir paraît en France, Cukor réalise une comédie sophistiquée au titre original éloquent, _Adam's Rib_ (« la côte d'Adam »). La présence de Katharine Hepburn suffit à dire l'ironie de ce titre. Icône féministe hollywoodienne, elle est censée incarner une femme conçue à partir d'un modèle masculin. Évidemment, elle y résistera, soutenue par Cukor. Comme à son habitude, le cinéaste œuvre du côté de l'actrice. Et même de deux en l'occurrence, avec Judy Holliday aussi, l'actrice la plus clownesque d'Hollywood, alors à ses débuts. — Yola Le Caïnec"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 133786,
+                  "idSeanceAssoc": 134048,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-09-14T16:15:00",
+                  "idSalle": "LE"
+                }
+              ]
             }
           ]
         },
@@ -1476,31 +1504,6 @@
               "idSeance": 133677,
               "dateHeure": "2024-09-15T20:45:00",
               "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30966,
-          "content": [
-            {
-              "idConf": 30966,
-              "titre": "Dialogue avec Yola Le Caïnec",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Bernard Benoliel",
-              "miniTexte": "Alors que _Le Deuxième Sexe_ de Simone de Beauvoir paraît en France, Cukor réalise une comédie sophistiquée au titre original éloquent, _Adam's Rib_ (« la côte d'Adam »). La présence de Katharine Hepburn suffit à dire l'ironie de ce titre. Icône féministe hollywoodienne, elle est censée incarner une femme conçue à partir d'un modèle masculin. Évidemment, elle y résistera, soutenue par Cukor. Comme à son habitude, le cinéaste œuvre du côté de l'actrice. Et même de deux en l'occurrence, avec Judy Holliday aussi, l'actrice la plus clownesque d'Hollywood, alors à ses débuts. — Yola Le Caïnec"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133786,
-              "dateHeure": "2024-09-14T16:15:00",
-              "idSalle": "LE"
             }
           ]
         }
