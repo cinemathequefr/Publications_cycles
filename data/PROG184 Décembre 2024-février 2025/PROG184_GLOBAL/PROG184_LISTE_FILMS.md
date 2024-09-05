@@ -10,6 +10,16 @@
   * Une Parisienne  
   * Une sale histoire
 
+## Cinéma bis (7)
+
+  * 2019, après la chute de New York  
+  * Atomic cyborg  
+  * Dernier survivant (Le)  
+  * Grande java (La)  
+  * Los Angeles 2013  
+  * New York 1997  
+  * Plus beau que moi, tu meurs
+
 ## David Cronenberg (36)
 
   * A Dangerous Method  
@@ -142,7 +152,7 @@
   * Un crime dans la tête  
   * Year of the Gun – Une année de violence
 
-## Karel Reisz (12)
+## Karel Reisz (11)
 
   * Chacun sa chance  
   * Flambeur (Le)  
@@ -151,25 +161,20 @@
   * Isadora  
   * Maîtresse du lieutenant français (La)  
   * March to Aldermaston  
-  * Momma Don't Allow  
   * Morgan  
   * Samedi soir, dimanche matin  
   * Sweet Dreams  
   * We Are the Lambeth Boys
 
-## Le cinéma d'apocalypse, 25 indispensables (27)
+## Le cinéma d'apocalypse, 25 indispensables (22)
 
-  * 2019 après la chute de New York  
-  * Atomic cyborg  
   * Choc des mondes (Le)  
   * Deep Impact  
   * Dernier rivage  
-  * Dernier survivant (Le)  
   * Derniers jours du monde (Les)  
   * Dr Folamour  
   * Fils de l'homme (Les)  
   * Furiosa : une saga Mad Max  
-  * Los Angeles 2013  
   * Machine à explorer le temps (La)  
   * Mad Max  
   * Mad Max 2 : Le Défi  
@@ -178,7 +183,6 @@
   * Melancholia  
   * Monde, la chair et le diable (Le)  
   * Mystère Andromède (Le)  
-  * New York 1997  
   * Planète des singes (La)  
   * Planète des singes : Les origines (La)  
   * Quand la terre s'entrouvrira  
@@ -215,7 +219,7 @@
   * Suspiria  
   * Vampyr
 
-## Marlon Brando (20)
+## Marlon Brando (18)
 
   * Apocalypse Now Redux  
   * Bal des maudits (Le)  
@@ -225,10 +229,8 @@
   * Corrupteur (Le)  
   * Dernier Tango à Paris (Le)  
   * Équipée sauvage (L')  
-  * Formule (La)  
   * Homme à la peau de serpent (L')  
   * Jules César  
-  * Missouri Breaks  
   * Parrain (Le)  
   * Poursuite impitoyable (La)  
   * Queimada  
@@ -295,21 +297,25 @@
   * Sergueï Paradjanov, le rebelle  
   * Une petite fleur sur la pierre
 
-## Séances spéciales (1)
+## Séances spéciales (3)
 
+  * Napoléon vu par Abel Gance (partie 1)  
+  * Napoléon vu par Abel Gance (partie 2)  
   * Porte du paradis (La)
 
 ## Yves Mirande (1)
 
   * Derrière la façade
 
-## Éric Demarsan (8)
+## Éric Demarsan (10)
 
   * Armée des ombres (L')  
   * Attention, les enfants regardent  
   * Cercle rouge (Le)  
   * Humeur vagabonde (L')  
   * Ibis rouge (L')  
+  * Indiscrétion (L')  
+  * Ombre d'une chance (L')  
   * Plein sud  
   * Section spéciale  
   * Une affaire privée  

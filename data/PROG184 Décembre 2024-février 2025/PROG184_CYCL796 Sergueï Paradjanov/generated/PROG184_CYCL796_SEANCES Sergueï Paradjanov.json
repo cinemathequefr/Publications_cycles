@@ -205,77 +205,17 @@
     ]
   },
   {
-    "idCategorie": 3467,
-    "typeEvenement": 13,
-    "idEvenement": 30978,
-    "idSeance": 137214,
-    "dateHeure": "2024-12-09T18:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "typeSeance": 43,
-    "items": [
-      {
-        "idFilm": 70698,
-        "ordre": 1,
-        "idSeance": 137214,
-        "idCopie": 28180,
-        "duree": 20,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 65596,
-        "ordre": 2,
-        "idSeance": 137214,
-        "idCopie": 28187,
-        "duree": 25,
-        "version": "VO",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 70696,
-        "ordre": 3,
-        "idSeance": 137214,
-        "idCopie": 28178,
-        "duree": 13,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 70695,
-        "ordre": 4,
-        "idSeance": 137214,
-        "idCopie": 28181,
-        "duree": 9,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 65598,
-        "ordre": 5,
-        "idSeance": 137214,
-        "idCopie": 28198,
-        "duree": 36,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Avant-première"
-  },
-  {
     "idCategorie": 3469,
     "typeEvenement": 13,
     "idEvenement": 31464,
     "idSeance": 137212,
-    "dateHeure": "2024-12-09T20:30:00",
+    "dateHeure": "2024-12-09T20:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "dureeSeance": 105,
+    "typeSeance": 43,
     "items": [
       {
         "idFilm": 29046,
@@ -286,7 +226,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Avant-première"
   },
   {
     "idCategorie": 3469,
@@ -303,6 +244,65 @@
       {
         "idFilm": 106415,
         "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3467,
+    "typeEvenement": 13,
+    "idEvenement": 30978,
+    "idSeance": 184907,
+    "dateHeure": "2024-12-11T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 70698,
+        "ordre": 1,
+        "idSeance": 184907,
+        "idCopie": 28180,
+        "duree": 20,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 65596,
+        "ordre": 2,
+        "idSeance": 184907,
+        "idCopie": 28187,
+        "duree": 25,
+        "version": "VO",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 70696,
+        "ordre": 3,
+        "idSeance": 184907,
+        "idCopie": 28178,
+        "duree": 13,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 70695,
+        "ordre": 4,
+        "idSeance": 184907,
+        "idCopie": 28181,
+        "duree": 9,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 65598,
+        "ordre": 5,
+        "idSeance": 184907,
+        "idCopie": 28198,
+        "duree": 36,
+        "version": "VO",
+        "format": "DCP"
       }
     ]
   },
