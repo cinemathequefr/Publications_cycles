@@ -1,9 +1,14 @@
 # Liste des films par cycle
 
-## Annette Wademant (2)
+## Annette Wademant (7)
 
   * Édouard et Caroline  
-  * Lola Montès
+  * Leçon particulière (La)  
+  * Lola Montès  
+  * Madame de...  
+  * Rue de l'Estrapade  
+  * Une Parisienne  
+  * Une sale histoire
 
 ## David Cronenberg (36)
 
@@ -91,32 +96,40 @@
   * Visiteurs du soir (Les)  
   * Voyage surprise
 
-## John Frankenheimer (24)
+## John Frankenheimer (32)
 
   * À armes égales  
   * Ange de la violence (L')  
   * Black Sunday  
+  * Cavaliers (Les)  
   * Dead Bang  
   * Extravagant Homme de mer (L')  
   * For Whom the Bell Tolls  
   * French connection 2  
   * Grand Prix  
+  * Hire : The Ambush  
   * Homme de Kiev (L')  
   * Iceman Cometh (The)  
+  * Ile du docteur Moreau (L')  
+  * Impossible Objet (L')  
   * Mon père, cet étranger  
   * Opération diabolique (L')  
   * Pacte Holcroft (Le)  
   * Paiement cash  
   * Parachutistes arrivent (Les)  
   * Pays de la violence (Le)  
+  * Piège fatal  
   * Prisonnier d'Alcatraz (Le)  
   * Prophecy – Le Monstre  
+  * Quatrième Guerre (La)  
   * Refroidi à 99 %  
   * Ronin  
   * Sept jours en mai  
+  * Sur le chemin de la guerre  
   * Temps du châtiment (Le)  
   * Train (Le)  
-  * Un crime dans la tête
+  * Un crime dans la tête  
+  * Year of the Gun – Une année de violence
 
 ## Karel Reisz (12)
 
@@ -132,6 +145,25 @@
   * Samedi soir, dimanche matin  
   * Sweet Dreams  
   * We Are the Lambeth Boys
+
+## Le cinéma d'apocalypse, 25 indispensables (16)
+
+  * 2019 après la chute de New York  
+  * Atomic cyborg  
+  * Choc des mondes (Le)  
+  * Derniers jours du monde (Les)  
+  * Dr Folamour  
+  * Fils de l'homme (Les)  
+  * Los Angeles 2013  
+  * Mad Max  
+  * Mad Max 2 : Le Défi  
+  * Mad Max au-delà du Dôme du Tonnerre  
+  * Mad Max : Fury Road  
+  * Melancholia  
+  * New York 1997  
+  * Planète des singes (La)  
+  * Quand la terre s'entrouvrira  
+  * Stalker
 
 ## Le cinéma d'horreur, 25 autres indispensables (25)
 
@@ -245,18 +277,9 @@
 
   * Porte du paradis (La)
 
-## Yves Mirande (10)
+## Yves Mirande (1)
 
-  * À nous deux, madame la vie  
-  * Baccara  
-  * Café de Paris  
-  * Derrière la façade  
-  * Grand Refrain (Le)  
-  * Merveilleuse Journée (La)  
-  * Messieurs les ronds-de-cuir  
-  * Moulin Rouge  
-  * Paris-New York  
-  * Sept hommes... une femme
+  * Derrière la façade
 
 ## Éric Demarsan (8)
 
