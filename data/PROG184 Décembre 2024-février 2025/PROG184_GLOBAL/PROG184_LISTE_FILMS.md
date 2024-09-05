@@ -219,7 +219,7 @@
   * Suspiria  
   * Vampyr
 
-## Marlon Brando (18)
+## Marlon Brando (20)
 
   * Apocalypse Now Redux  
   * Bal des maudits (Le)  
@@ -229,8 +229,10 @@
   * Corrupteur (Le)  
   * Dernier Tango à Paris (Le)  
   * Équipée sauvage (L')  
+  * Formule (La)  
   * Homme à la peau de serpent (L')  
   * Jules César  
+  * Missouri Breaks  
   * Parrain (Le)  
   * Poursuite impitoyable (La)  
   * Queimada  
