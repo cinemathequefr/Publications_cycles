@@ -219,6 +219,34 @@
   * Suspiria  
   * Vampyr
 
+## Ma petite Cinémathèque (25)
+
+  * Aventuriers de l'Arche perdue (Les)  
+  * Cadet d'eau douce  
+  * Cendrillon  
+  * Cerf-volant du bout du monde  
+  * Chez la sorcière  
+  * Chrysalide et le papillon d'or (La)  
+  * Contes de la nuit (Les)  
+  * Dislocation mystérieuse  
+  * Enfants loups, Ame et Yuki (Les)  
+  * Génie du feu (Le)  
+  * Hugo Cabret  
+  * Ile de Black Mor (L')  
+  * Indiana Jones et la dernière croisade  
+  * Indiana Jones et le temple maudit  
+  * Jason et les Argonautes  
+  * Kid (Le)  
+  * Kiki la petite sorcière  
+  * Lune à un mètre ou Le Rêve de l'astronome (La)  
+  * Mary Poppins  
+  * Panorama pris d'un train en marche  
+  * Petit dinosaure et la vallée des merveilles (Le)  
+  * Tout en haut du monde  
+  * Un homme de têtes  
+  * Une guitare à la mer  
+  * Voyage à travers l'impossible
+
 ## Marlon Brando (20)
 
   * Apocalypse Now Redux  
