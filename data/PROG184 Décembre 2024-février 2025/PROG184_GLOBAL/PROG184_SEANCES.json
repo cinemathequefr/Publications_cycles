@@ -627,7 +627,7 @@
   {
     "idSeance": 145283,
     "idEvenement": 31490,
-    "dateHeure": "2024-12-11T19:30:00",
+    "dateHeure": "2024-12-11T19:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -671,9 +671,34 @@
     "hashEvenement": "f54028"
   },
   {
+    "idSeance": 184806,
+    "idEvenement": 31434,
+    "dateHeure": "2024-12-11T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marlon Brando",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34800,
+        "titre": "Homme à la peau de serpent",
+        "art": "L'",
+        "realisateurs": "Sidney Lumet",
+        "annee": 1959,
+        "duree": 119,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f34800"
+  },
+  {
     "idSeance": 184907,
     "idEvenement": 30978,
-    "dateHeure": "2024-12-11T20:00:00",
+    "dateHeure": "2024-12-11T20:45:00",
     "salle": "JE",
     "cycle": [
       [
@@ -728,31 +753,6 @@
       }
     ],
     "hashEvenement": "f70698f65596f70696f70695f65598"
-  },
-  {
-    "idSeance": 184806,
-    "idEvenement": 31434,
-    "dateHeure": "2024-12-11T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Marlon Brando",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 34800,
-        "titre": "Homme à la peau de serpent",
-        "art": "L'",
-        "realisateurs": "Sidney Lumet",
-        "annee": 1959,
-        "duree": 119,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f34800"
   },
   {
     "idSeance": 184910,
@@ -3677,6 +3677,7 @@
         "titre": "Section spéciale",
         "realisateurs": "Costa-Gavras",
         "annee": 1974,
+        "duree": 110,
         "format": "DCP"
       }
     ],
@@ -4054,7 +4055,7 @@
         "realisateurs": "Jean-Pierre Mocky",
         "annee": 1975,
         "duree": 87,
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f50224"
@@ -4294,6 +4295,7 @@
         "titre": "Section spéciale",
         "realisateurs": "Costa-Gavras",
         "annee": 1974,
+        "duree": 110,
         "format": "DCP"
       }
     ],
@@ -5040,31 +5042,6 @@
     "hashEvenement": "f32382"
   },
   {
-    "idSeance": 138589,
-    "idEvenement": 31329,
-    "dateHeure": "2025-01-30T17:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "John Frankenheimer",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 44798,
-        "titre": "Prisonnier d'Alcatraz",
-        "art": "Le",
-        "realisateurs": "John Frankenheimer",
-        "annee": 1960,
-        "duree": 147,
-        "version": "VO",
-        "format": "16 mm"
-      }
-    ],
-    "hashEvenement": "f44798"
-  },
-  {
     "idSeance": 184773,
     "idEvenement": 25731,
     "dateHeure": "2025-01-30T18:30:00",
@@ -5089,25 +5066,26 @@
     "hashEvenement": "f55771"
   },
   {
-    "idSeance": 138590,
-    "idEvenement": 31337,
-    "dateHeure": "2025-01-30T20:30:00",
+    "idSeance": 184921,
+    "idEvenement": 31656,
+    "dateHeure": "2025-01-30T19:00:00",
     "salle": "HL",
     "cycle": [
       [
         "John Frankenheimer",
-        "Les films"
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 32418,
-        "titre": "Un crime dans la tête",
-        "realisateurs": "John Frankenheimer",
-        "annee": 1962
+        "idConf": 31656,
+        "titre": "« Qui êtes-vous... John Frankenheimer » par Jean-Baptiste Thoret",
+        "sousTitre": "Conférence de Jean-Baptiste Thoret",
+        "typeConference": "Conférence",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f32418"
+    "hashEvenement": "c31656"
   },
   {
     "idSeance": 138587,
@@ -5133,6 +5111,27 @@
       }
     ],
     "hashEvenement": "f39028"
+  },
+  {
+    "idSeance": 138590,
+    "idEvenement": 31337,
+    "dateHeure": "2025-01-30T21:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "John Frankenheimer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32418,
+        "titre": "Un crime dans la tête",
+        "realisateurs": "John Frankenheimer",
+        "annee": 1962
+      }
+    ],
+    "hashEvenement": "f32418"
   },
   {
     "idSeance": 138630,
@@ -5234,6 +5233,10 @@
       [
         "John Frankenheimer",
         "Les films"
+      ],
+      [
+        "John Frankenheimer",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -5243,9 +5246,15 @@
         "art": "Le",
         "realisateurs": "John Frankenheimer",
         "annee": 1969
+      },
+      {
+        "idConf": 31657,
+        "titre": "Dialogue avec Olivier Père",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f32415"
+    "hashEvenement": "f32415c31657"
   },
   {
     "idSeance": 138674,
@@ -5953,34 +5962,6 @@
     "hashEvenement": "f108687"
   },
   {
-    "idSeance": 184893,
-    "idEvenement": 31612,
-    "dateHeure": "2025-02-14T19:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cinéma bis",
-        "Les films"
-      ],
-      [
-        "Le cinéma d'apocalypse, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 56711,
-        "titre": "2019, après la chute de New York",
-        "realisateurs": "Sergio Martino",
-        "annee": 1983,
-        "duree": 95,
-        "version": "VF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f56711"
-  },
-  {
     "idSeance": 184896,
     "idEvenement": 31608,
     "dateHeure": "2025-02-14T20:45:00",
@@ -6003,34 +5984,6 @@
       }
     ],
     "hashEvenement": "f54844"
-  },
-  {
-    "idSeance": 184894,
-    "idEvenement": 31614,
-    "dateHeure": "2025-02-14T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cinéma bis",
-        "Les films"
-      ],
-      [
-        "Le cinéma d'apocalypse, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 55816,
-        "titre": "Atomic cyborg",
-        "realisateurs": "Martin Dolman",
-        "annee": 1985,
-        "duree": 94,
-        "version": "VF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f55816"
   },
   {
     "idSeance": 184890,
@@ -6554,7 +6507,7 @@
         "titre": "Planète des singes",
         "art": "La",
         "realisateurs": "Franklin J. Schaffner",
-        "annee": 1967,
+        "annee": 1968,
         "duree": 112,
         "version": "VOSTF",
         "format": "DCP"
@@ -6726,7 +6679,7 @@
       {
         "idFilm": 121219,
         "titre": "Snowpiercer, le transperceneige",
-        "realisateurs": "Joon-ho Bong",
+        "realisateurs": "Bong Joon-ho",
         "annee": 2012,
         "duree": 120,
         "version": "VOSTF",
@@ -6831,8 +6784,8 @@
     "hashEvenement": "f51923"
   },
   {
-    "idSeance": 139247,
-    "idEvenement": 31605,
+    "idSeance": 184914,
+    "idEvenement": 31655,
     "dateHeure": "2025-02-23T19:30:00",
     "salle": "HL",
     "cycle": [
@@ -6843,16 +6796,17 @@
     ],
     "items": [
       {
-        "idFilm": 59081,
-        "titre": "Soleil vert",
-        "realisateurs": "Richard Fleischer",
-        "annee": 1973,
-        "duree": 97,
+        "idFilm": 114723,
+        "titre": "Cheval de Turin",
+        "art": "Le",
+        "realisateurs": "Béla Tarr, Ágnes Hranitzky",
+        "annee": 2011,
+        "duree": 146,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f59081"
+    "hashEvenement": "f114723"
   },
   {
     "idSeance": 139260,
@@ -7041,7 +6995,7 @@
   {
     "idSeance": 139332,
     "idEvenement": 31467,
-    "dateHeure": "2025-02-27T20:00:00",
+    "dateHeure": "2025-02-27T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7117,8 +7071,8 @@
     "hashEvenement": "f33035"
   },
   {
-    "idSeance": 139377,
-    "idEvenement": 31616,
+    "idSeance": 184913,
+    "idEvenement": 31628,
     "dateHeure": "2025-02-28T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -7129,16 +7083,16 @@
     ],
     "items": [
       {
-        "idFilm": 29267,
-        "titre": "Deep Impact",
-        "realisateurs": "Mimi Leder",
-        "annee": 1997,
-        "duree": 121,
+        "idFilm": 118084,
+        "titre": "4h44, dernier jour sur terre",
+        "realisateurs": "Abel Ferrara",
+        "annee": 2011,
+        "duree": 82,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f29267"
+    "hashEvenement": "f118084"
   },
   {
     "idSeance": 139414,

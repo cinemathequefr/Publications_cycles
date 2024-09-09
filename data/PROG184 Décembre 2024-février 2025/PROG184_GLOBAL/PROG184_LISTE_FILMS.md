@@ -10,10 +10,8 @@
   * Une Parisienne  
   * Une sale histoire
 
-## Cinéma bis (7)
+## Cinéma bis (5)
 
-  * 2019, après la chute de New York  
-  * Atomic cyborg  
   * Dernier survivant (Le)  
   * Grande java (La)  
   * Los Angeles 2013  
@@ -117,7 +115,7 @@
   * Visiteurs du soir (Les)  
   * Voyage surprise
 
-## John Frankenheimer (32)
+## John Frankenheimer (31)
 
   * À armes égales  
   * Ange de la violence (L')  
@@ -140,7 +138,6 @@
   * Parachutistes arrivent (Les)  
   * Pays de la violence (Le)  
   * Piège fatal  
-  * Prisonnier d'Alcatraz (Le)  
   * Prophecy – Le Monstre  
   * Quatrième Guerre (La)  
   * Refroidi à 99 %  
@@ -168,8 +165,9 @@
 
 ## Le cinéma d'apocalypse, 25 indispensables (22)
 
+  * 4h44, dernier jour sur terre  
+  * Cheval de Turin (Le)  
   * Choc des mondes (Le)  
-  * Deep Impact  
   * Dernier rivage  
   * Derniers jours du monde (Les)  
   * Dr Folamour  
@@ -187,7 +185,6 @@
   * Planète des singes : Les origines (La)  
   * Quand la terre s'entrouvrira  
   * Snowpiercer, le transperceneige  
-  * Soleil vert  
   * Stalker  
   * Take Shelter
 

@@ -483,27 +483,43 @@
           ]
         },
         {
-          "idFilm": 32415,
-          "content": [
+          "groupe": [
             {
               "idFilm": 32415,
-              "ordre": 1,
-              "titre": "Pays de la violence",
-              "art": "Le",
-              "titreVo": "I Walk the Line",
-              "realisateurs": "John Frankenheimer",
-              "pays": "États-Unis",
-              "annee": 1969,
-              "adaptation": "D'après le roman _An Exile_ de Madison Jones.",
-              "isFocus": true,
-              "miniTexte": "Dans une petite ville du Tennessee, le vieillissant shérif Tawes s'ennuie, dans son mariage, dans son travail, et s'éprend de la jeune Alma. Mais elle est la fille d'un bootlegger traqué par un agent de l'État. La belle ingénue a l'attrait d'une dernière chance, et Gregory Peck traîne sa mélancolie dans des paysages évoquant Faulkner ou Steinbeck, au rythme des ballades folk. Le titre français ne rend pas justice à l'original – tiré de la chanson éponyme de Johnny Cash, auteur de la BO –, qui dit toute l'ambiguïté d'un homme tiraillé entre sa mission et son rêve d'ailleurs. Une œuvre douce-amère, ourlée de délicatesse."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 32415,
+                  "ordre": 1,
+                  "titre": "Pays de la violence",
+                  "art": "Le",
+                  "titreVo": "I Walk the Line",
+                  "realisateurs": "John Frankenheimer",
+                  "pays": "États-Unis",
+                  "annee": 1969,
+                  "adaptation": "D'après le roman _An Exile_ de Madison Jones.",
+                  "isFocus": true,
+                  "miniTexte": "Dans une petite ville du Tennessee, le vieillissant shérif Tawes s'ennuie, dans son mariage, dans son travail, et s'éprend de la jeune Alma. Mais elle est la fille d'un bootlegger traqué par un agent de l'État. La belle ingénue a l'attrait d'une dernière chance, et Gregory Peck traîne sa mélancolie dans des paysages évoquant Faulkner ou Steinbeck, au rythme des ballades folk. Le titre français ne rend pas justice à l'original – tiré de la chanson éponyme de Johnny Cash, auteur de la BO –, qui dit toute l'ambiguïté d'un homme tiraillé entre sa mission et son rêve d'ailleurs. Une œuvre douce-amère, ourlée de délicatesse."
+                }
+              ]
+            },
             {
-              "idSeance": 184792,
-              "dateHeure": "2025-02-01T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 31657,
+              "content": [
+                {
+                  "idConf": 31657,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Olivier Père",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184792,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-02-01T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -526,35 +542,6 @@
               "idSeance": 139113,
               "dateHeure": "2025-02-19T20:30:00",
               "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 44798,
-          "content": [
-            {
-              "idFilm": 44798,
-              "ordre": 1,
-              "titre": "Prisonnier d'Alcatraz",
-              "art": "Le",
-              "titreVo": "Birdman of Alcatraz",
-              "artVo": "The",
-              "realisateurs": "John Frankenheimer",
-              "pays": "États-Unis",
-              "annee": 1960,
-              "duree": 147,
-              "version": "VO",
-              "format": "16 mm",
-              "adaptation": "D'après le roman _Birdman of Alcatraz_ de Thomas E. Gaddis.",
-              "isFocus": true,
-              "miniTexte": "Une version romancée de la vie de Robert Stroud, célèbre détenu américain, condamné à perpétuité pour meurtre. Après avoir recueilli dans sa cellule un oiseau blessé, il se découvre une passion pour les canaris. Alcatraz sera sa dernière maison, où il ne pourra emmener ses protégés, mais poursuivra ses recherches et publiera deux traités d'ornithologie, s'attirant la sympathie du public. Frankenheimer prend son temps pour construire un récit confiné en noir et blanc, parfait rendu de l'atmosphère pesante du pénitencier. Une peinture à l'os de l'univers carcéral, doublée d'une étude en creux sur le rapport à la mère d'un être asocial, dont la mort est la seule issue. Face à Karl Malden qui campe le directeur du pénitencier, Burt Lancaster est (presque) de toutes les scènes, époustouflant (il sera récompensé à Venise et aux BAFTA)."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 138589,
-              "dateHeure": "2025-01-30T17:30:00",
-              "idSalle": "HL"
             }
           ]
         },
@@ -775,7 +762,7 @@
           "seances": [
             {
               "idSeance": 138590,
-              "dateHeure": "2025-01-30T20:30:00",
+              "dateHeure": "2025-01-30T21:00:00",
               "idSalle": "HL"
             },
             {
@@ -809,7 +796,46 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31656,
+          "content": [
+            {
+              "idConf": 31656,
+              "titre": "« Qui êtes-vous... John Frankenheimer » par Jean-Baptiste Thoret",
+              "sousTitre": "Conférence de Jean-Baptiste Thoret",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184921,
+              "dateHeure": "2025-01-30T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "« Qui êtes-vous... John Frankenheimer » par Jean-Baptiste Thoret",
+        "mention": "par Jean-Baptiste Thoret",
+        "dateHeure": "2025-01-30T19:00:00"
+      }
+    ],
+    "Dialogue": [
+      {
+        "titreFilms": "Le Pays de la violence",
+        "mention": "avec Olivier Père",
+        "dateHeure": "2025-02-01T14:30:00"
+      }
+    ]
+  }
 }
