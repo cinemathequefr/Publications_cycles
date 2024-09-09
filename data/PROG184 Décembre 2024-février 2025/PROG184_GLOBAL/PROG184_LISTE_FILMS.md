@@ -219,9 +219,11 @@
   * Suspiria  
   * Vampyr
 
-## Ma petite Cinémathèque (25)
+## Ma petite Cinémathèque (28)
 
   * Aventuriers de l'Arche perdue (Les)  
+  * Bons petits diables (Les)  
+  * Bricoleurs (Les)  
   * Cadet d'eau douce  
   * Cendrillon  
   * Cerf-volant du bout du monde  
@@ -238,6 +240,7 @@
   * Jason et les Argonautes  
   * Kid (Le)  
   * Kiki la petite sorcière  
+  * Laurel et Hardy menuisiers  
   * Lune à un mètre ou Le Rêve de l'astronome (La)  
   * Mary Poppins  
   * Panorama pris d'un train en marche  

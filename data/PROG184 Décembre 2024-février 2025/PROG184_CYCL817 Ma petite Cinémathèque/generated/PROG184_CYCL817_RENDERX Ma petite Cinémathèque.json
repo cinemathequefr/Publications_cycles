@@ -39,6 +39,93 @@
           ]
         },
         {
+          "idFilm": 66156,
+          "content": [
+            {
+              "idFilm": 66156,
+              "ordre": 3,
+              "titre": "Bons petits diables",
+              "art": "Les",
+              "titreVo": "Brats",
+              "realisateurs": "James Parrott",
+              "pays": "États-Unis",
+              "annee": 1930,
+              "duree": 25,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3,
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Bricoleurs",
+                    "Les"
+                  ],
+                  [
+                    "Laurel et Hardy menuisiers",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137948,
+              "dateHeure": "2025-01-05T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 3
+            }
+          ]
+        },
+        {
+          "idFilm": 66153,
+          "content": [
+            {
+              "idFilm": 66153,
+              "ordre": 1,
+              "titre": "Bricoleurs",
+              "art": "Les",
+              "titreVo": "Hog Wild",
+              "realisateurs": "James Parrott",
+              "pays": "États-Unis",
+              "annee": 1930,
+              "duree": 19,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy",
+                "Fay Holderness"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Laurel et Hardy menuisiers",
+                    null
+                  ],
+                  [
+                    "Bons petits diables",
+                    "Les"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137948,
+              "dateHeure": "2025-01-05T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 57769,
           "content": [
             {
@@ -637,6 +724,44 @@
               "dateHeure": "2025-01-19T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 4
+            }
+          ]
+        },
+        {
+          "idFilm": 56885,
+          "content": [
+            {
+              "idFilm": 56885,
+              "ordre": 2,
+              "titre": "Laurel et Hardy menuisiers",
+              "titreVo": "Busy Bodies",
+              "realisateurs": "Lloyd French",
+              "pays": "États-Unis",
+              "annee": 1933,
+              "duree": 19,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Bricoleurs",
+                    "Les"
+                  ]
+                ],
+                [
+                  [
+                    "Bons petits diables",
+                    "Les"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137948,
+              "dateHeure": "2025-01-05T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
