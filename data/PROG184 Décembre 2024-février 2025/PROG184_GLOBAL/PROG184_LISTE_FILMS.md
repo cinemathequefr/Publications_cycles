@@ -10,6 +10,11 @@
   * Une Parisienne  
   * Une sale histoire
 
+## Archi Vives (2)
+
+  * Nous filmons le peuple !  
+  * Temps détruit : lettres d'une guerre, 1939-1940 (Le)
+
 ## Ciné-club de Frédéric Bonnaud (2)
 
   * Classe tous risques  
@@ -128,7 +133,6 @@
   * Cavaliers (Les)  
   * Dead Bang  
   * Extravagant Homme de mer (L')  
-  * For Whom the Bell Tolls  
   * French connection 2  
   * Grand Prix  
   * Hire : The Ambush  
@@ -143,6 +147,7 @@
   * Parachutistes arrivent (Les)  
   * Pays de la violence (Le)  
   * Piège fatal  
+  * Prisonnier d'Alcatraz (Le)  
   * Prophecy – Le Monstre  
   * Quatrième Guerre (La)  
   * Refroidi à 99 %  
@@ -154,7 +159,7 @@
   * Un crime dans la tête  
   * Year of the Gun – Une année de violence
 
-## Karel Reisz (11)
+## Karel Reisz (12)
 
   * Chacun sa chance  
   * Flambeur (Le)  
@@ -163,6 +168,7 @@
   * Isadora  
   * Maîtresse du lieutenant français (La)  
   * March to Aldermaston  
+  * Momma Don't Allow  
   * Morgan  
   * Samedi soir, dimanche matin  
   * Sweet Dreams  
@@ -274,7 +280,7 @@
   * Vengeance aux deux visages (La)  
   * Viva Zapata!
 
-## Otto Preminger (36)
+## Otto Preminger (38)
 
   * Ambre  
   * Autopsie d'un meurtre  
@@ -288,12 +294,14 @@
   * Dame au manteau d'hermine (La)  
   * Des amis comme les miens  
   * Dis-moi que tu m'aimes, Junie Moon  
+  * Eventail de Lady Windermere (L')  
   * Exodus  
   * Femme ou maîtresse  
   * Grosse Liebe (Die)  
   * Homme au bras d'or (L')  
   * Human Factor (The)  
   * In the Meantime, Darling  
+  * Jungfrau auf dem Dach (Die)  
   * Laura  
   * Lune était bleue (La)  
   * Margin for Error  

@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-01-02T19:00:00",
-    "2025-01-26T20:45:00"
+    "2025-01-26T18:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -70,7 +70,7 @@
             },
             {
               "idSeance": 138508,
-              "dateHeure": "2025-01-26T17:30:00",
+              "dateHeure": "2025-01-26T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -236,8 +236,8 @@
           ],
           "seances": [
             {
-              "idSeance": 138144,
-              "dateHeure": "2025-01-13T18:00:00",
+              "idSeance": 184953,
+              "dateHeure": "2025-01-06T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -255,8 +255,8 @@
               "pays": "États-Unis",
               "annee": 1955,
               "duree": 100,
-              "version": "",
-              "format": "",
+              "version": "VOSTF",
+              "format": "35 mm",
               "generique": [
                 "Gary Cooper",
                 "Charles Bickford",
@@ -397,6 +397,39 @@
           ]
         },
         {
+          "idFilm": 35819,
+          "content": [
+            {
+              "idFilm": 35819,
+              "ordre": 1,
+              "titre": "Eventail de Lady Windermere",
+              "art": "L'",
+              "titreVo": "Fan",
+              "artVo": "The",
+              "realisateurs": "Otto Preminger",
+              "pays": "États-Unis",
+              "annee": 1948,
+              "duree": 79,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après la pièce _Lady Windermere's Fan_ d'Oscar Wilde.",
+              "generique": [
+                "Jeanne Crain",
+                "Madeleine Carroll",
+                "Richard Greene",
+                "George Sanders"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184948,
+              "dateHeure": "2025-01-03T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 35631,
           "content": [
             {
@@ -503,8 +536,8 @@
           ],
           "seances": [
             {
-              "idSeance": 184765,
-              "dateHeure": "2025-01-06T18:00:00",
+              "idSeance": 184950,
+              "dateHeure": "2025-01-03T19:00:00",
               "idSalle": "GF"
             }
           ]
@@ -539,11 +572,6 @@
               "idSeance": 138073,
               "dateHeure": "2025-01-10T20:45:00",
               "idSalle": "HL"
-            },
-            {
-              "idSeance": 138507,
-              "dateHeure": "2025-01-26T20:45:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -602,6 +630,33 @@
             {
               "idSeance": 138182,
               "dateHeure": "2025-01-15T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 55106,
+          "content": [
+            {
+              "idFilm": 55106,
+              "ordre": 1,
+              "titre": "Jungfrau auf dem Dach",
+              "art": "Die",
+              "realisateurs": "Otto Preminger",
+              "pays": "RFA",
+              "annee": 1953,
+              "adaptation": "D'après la pièce _The Moon is blue_ de F. Hugh Herbert.",
+              "generique": [
+                "Hardy Krüger",
+                "Johannes Heesters",
+                "Johanna Matz"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184952,
+              "dateHeure": "2025-01-13T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -785,8 +840,8 @@
               "pays": "États-Unis",
               "annee": 1958,
               "duree": 136,
-              "version": "VO",
-              "format": "",
+              "version": "VOSTF",
+              "format": "35 mm",
               "adaptation": "D'après le drame musical _Porgy and Bess_ de George Gershwin.  \nD'après le drame musical _Porgy and Bess_ et le roman _Porgy_ de DuBose Heyward.  \nD'après le roman _Porgy_ de Dorothy Heyward.",
               "generique": [
                 "Sidney Poitier",
@@ -889,7 +944,7 @@
           "seances": [
             {
               "idSeance": 174918,
-              "dateHeure": "2025-01-19T20:00:00",
+              "dateHeure": "2025-01-19T20:15:00",
               "idSalle": "HL"
             }
           ]
@@ -1043,34 +1098,51 @@
           ]
         },
         {
-          "idFilm": 45917,
-          "content": [
+          "groupe": [
             {
               "idFilm": 45917,
-              "ordre": 1,
-              "titre": "Tempête à Washington",
-              "titreVo": "Advise and Consent",
-              "realisateurs": "Otto Preminger",
-              "pays": "États-Unis",
-              "annee": 1961,
-              "duree": 140,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Advise and Consent_ d'Allen Drury.",
-              "generique": [
-                "Henry Fonda",
-                "Charles Laughton",
-                "Don Murray",
-                "Burgess Meredith",
-                "Gene Tierney"
+              "content": [
+                {
+                  "idFilm": 45917,
+                  "ordre": 1,
+                  "titre": "Tempête à Washington",
+                  "titreVo": "Advise and Consent",
+                  "realisateurs": "Otto Preminger",
+                  "pays": "États-Unis",
+                  "annee": 1961,
+                  "duree": 140,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Advise and Consent_ d'Allen Drury.",
+                  "generique": [
+                    "Henry Fonda",
+                    "Charles Laughton",
+                    "Don Murray",
+                    "Burgess Meredith",
+                    "Gene Tierney"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 184823,
-              "dateHeure": "2025-01-12T15:00:00",
-              "idSalle": "HL"
+              "idEvenement": 31681,
+              "content": [
+                {
+                  "idConf": 31681,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Nicolas Pariser",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Jean-François Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184823,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-01-12T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -1100,7 +1172,7 @@
           ],
           "seances": [
             {
-              "idSeance": 138331,
+              "idSeance": 184958,
               "dateHeure": "2025-01-20T20:15:00",
               "idSalle": "GF"
             }
@@ -1163,7 +1235,7 @@
           "seances": [
             {
               "idSeance": 137959,
-              "dateHeure": "2025-01-06T20:00:00",
+              "dateHeure": "2025-01-06T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -1177,6 +1249,11 @@
         "titreFilms": "Femme ou maîtresse",
         "mention": "avec Murielle Joudet",
         "dateHeure": "2025-01-11T14:30:00"
+      },
+      {
+        "titreFilms": "Tempête à Washington",
+        "mention": "avec Nicolas Pariser",
+        "dateHeure": "2025-01-12T14:30:00"
       },
       {
         "titreFilms": "Le Cardinal",

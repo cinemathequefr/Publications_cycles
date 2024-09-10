@@ -259,14 +259,14 @@
           "textes": []
         },
         {
-          "idSeance": 139230,
+          "idSeance": 184957,
           "ordre": 1,
           "dateHeure": "2025-02-22T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 30,
+          "dureeSeance": 135,
           "idCategorie": 3621,
           "idEvenement": 31615,
           "typeEvenement": 13,
@@ -368,7 +368,7 @@
         {
           "idSeance": 139060,
           "ordre": 1,
-          "dateHeure": "2025-02-16T18:00:00",
+          "dateHeure": "2025-02-16T18:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -435,6 +435,33 @@
           ],
           "dureeSeance": 165,
           "mention": "Ouverture de la rétrospective",
+          "idCategorie": 3621,
+          "idEvenement": 31627,
+          "typeEvenement": 13,
+          "idFilm": 113297,
+          "titre": "Melancholia",
+          "realisateurs": "Lars von Trier",
+          "annee": 2010,
+          "pays": "Danemark-Suède-France-Italie-Allemagne",
+          "duree": 130,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Kirsten Dunst",
+            "Charlotte Gainsbourg",
+            "Alexander Skarsgård"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 139437,
+          "ordre": 1,
+          "dateHeure": "2025-03-02T18:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 165,
           "idCategorie": 3621,
           "idEvenement": 31627,
           "typeEvenement": 13,
@@ -704,6 +731,45 @@
             "Jessica Chastain"
           ],
           "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 184966,
+          "dateHeure": "2025-02-22T16:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3628,
+          "idEvenement": 31683,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec François Angelier",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "François Angelier",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Jean-François Rauger",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Jean-François Rauger"
         }
       ],
       "textes": []

@@ -27,8 +27,8 @@
   {
     "idCategorie": 3447,
     "typeEvenement": 13,
-    "idEvenement": 31269,
-    "idSeance": 137514,
+    "idEvenement": 31271,
+    "idSeance": 184941,
     "dateHeure": "2024-12-20T18:00:00",
     "idSalle": [
       "HL",
@@ -37,13 +37,13 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 59013,
+        "idFilm": 42919,
         "ordre": 1,
-        "idSeance": 137514,
-        "idCopie": 1145,
-        "duree": 85,
-        "version": "VF",
-        "format": "35 mm"
+        "idSeance": 184941,
+        "idCopie": 28549,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -142,6 +142,29 @@
   {
     "idCategorie": 3447,
     "typeEvenement": 13,
+    "idEvenement": 31269,
+    "idSeance": 184940,
+    "dateHeure": "2024-12-22T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 59013,
+        "ordre": 1,
+        "idSeance": 184940,
+        "idCopie": 1145,
+        "duree": 85,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3447,
+    "typeEvenement": 13,
     "idEvenement": 31262,
     "idSeance": 145329,
     "dateHeure": "2024-12-22T19:30:00",
@@ -157,6 +180,29 @@
         "idSeance": 145329,
         "idCopie": 6137,
         "duree": 65,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3447,
+    "typeEvenement": 13,
+    "idEvenement": 31282,
+    "idSeance": 184942,
+    "dateHeure": "2024-12-23T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 35399,
+        "ordre": 1,
+        "idSeance": 184942,
+        "idCopie": 28427,
+        "duree": 84,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -395,29 +441,6 @@
   {
     "idCategorie": 3447,
     "typeEvenement": 13,
-    "idEvenement": 31282,
-    "idSeance": 137773,
-    "dateHeure": "2024-12-30T16:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 35399,
-        "ordre": 1,
-        "idSeance": 137773,
-        "idCopie": 28427,
-        "duree": 84,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3447,
-    "typeEvenement": 13,
     "idEvenement": 31280,
     "idSeance": 137771,
     "dateHeure": "2024-12-30T18:00:00",
@@ -510,52 +533,6 @@
   {
     "idCategorie": 3447,
     "typeEvenement": 13,
-    "idEvenement": 31271,
-    "idSeance": 137888,
-    "dateHeure": "2025-01-03T18:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 42919,
-        "ordre": 1,
-        "idSeance": 137888,
-        "idCopie": 28549,
-        "duree": 86,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3447,
-    "typeEvenement": 13,
-    "idEvenement": 31267,
-    "idSeance": 184764,
-    "dateHeure": "2025-01-03T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 105,
-    "items": [
-      {
-        "idFilm": 45599,
-        "ordre": 1,
-        "idSeance": 184764,
-        "idCopie": 28415,
-        "duree": 80,
-        "version": "VO",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3447,
-    "typeEvenement": 13,
     "idEvenement": 31268,
     "idSeance": 137930,
     "dateHeure": "2025-01-04T15:00:00",
@@ -572,6 +549,29 @@
         "idCopie": 17748,
         "duree": 87,
         "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3447,
+    "typeEvenement": 13,
+    "idEvenement": 31267,
+    "idSeance": 184945,
+    "dateHeure": "2025-01-04T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 45599,
+        "ordre": 1,
+        "idSeance": 184945,
+        "idCopie": 28415,
+        "duree": 80,
+        "version": "VO",
         "format": "35 mm"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-02-12T20:00:00",
-    "2025-03-01T15:00:00"
+    "2025-03-02T18:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -35,6 +35,11 @@
               "dateHeure": "2025-02-12T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 139437,
+              "dateHeure": "2025-03-02T18:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -291,7 +296,7 @@
           "seances": [
             {
               "idSeance": 139060,
-              "dateHeure": "2025-02-16T18:00:00",
+              "dateHeure": "2025-02-16T18:30:00",
               "idSalle": "HL"
             }
           ]
@@ -484,7 +489,7 @@
           ],
           "seances": [
             {
-              "idSeance": 139230,
+              "idSeance": 184957,
               "dateHeure": "2025-02-22T20:00:00",
               "idSalle": "HL"
             }
@@ -729,7 +734,38 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31683,
+          "content": [
+            {
+              "idConf": 31683,
+              "titre": "Dialogue avec François Angelier",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Jean-François Rauger"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184966,
+              "dateHeure": "2025-02-22T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "avec François Angelier",
+        "dateHeure": "2025-02-22T16:30:00"
+      }
+    ]
+  }
 }

@@ -58,6 +58,24 @@
       ]
     },
     {
+      "idCycleProg": 472,
+      "titreCycle": "Archi Vives",
+      "isReg": true,
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [3421],
+          "tri": 4
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2757],
+          "tri": 4
+        }
+      ]
+    },
+
+    {
       "idCycleProg": 525,
       "titreCycle": "Ciné-club de Frédéric Bonnaud",
       "isReg": true,
@@ -191,7 +209,10 @@
     {
       "idCycleProg": 953,
       "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-      "sousCycles": [{ "titre": "Les films", "cats": [3621], "tri": 4 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3621], "tri": 4 },
+        { "titre": "Rencontres et conférences", "cats": [3628], "tri": 4 }
+      ],
       "excludeSeances": []
     }
   ]

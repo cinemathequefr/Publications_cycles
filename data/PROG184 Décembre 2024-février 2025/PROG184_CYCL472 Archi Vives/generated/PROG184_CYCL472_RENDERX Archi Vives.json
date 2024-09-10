@@ -1,0 +1,130 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "groupe": [
+            {
+              "idEvenement": 31667,
+              "content": [
+                {
+                  "idConf": 31667,
+                  "titre": "Quand l'historienne fustige la cinéaste, et réciproquement",
+                  "sousTitre": "Conférence d'Ania Szczepanska",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184938,
+                  "idSeanceAssoc": 136918,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-11-28T17:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            },
+            {
+              "idFilm": 137015,
+              "content": [
+                {
+                  "idFilm": 137015,
+                  "ordre": 1,
+                  "titre": "Nous filmons le peuple !",
+                  "realisateurs": "Ania Szczepanska",
+                  "pays": "France",
+                  "annee": 2012,
+                  "duree": 58,
+                  "version": "VOSTF",
+                  "format": "Numérique",
+                  "generique": [
+                    "Marcel Lozinski",
+                    "Ryszard Bugajski"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 136918,
+                  "idSeanceAssoc": 136918,
+                  "typeAssoc": 117,
+                  "dateHeure": "2024-11-28T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idEvenement": 31671,
+              "content": [
+                {
+                  "idConf": 31671,
+                  "titre": "Jean Zay, la détention comme expérience intérieure",
+                  "sousTitre": "Conférence de Laurent Veray et Thomas Schmitt",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184939,
+                  "idSeanceAssoc": 138778,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-02-06T17:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            },
+            {
+              "idFilm": 154983,
+              "content": [
+                {
+                  "idFilm": 154983,
+                  "ordre": 1,
+                  "titre": "Temps détruit : lettres d'une guerre, 1939-1940",
+                  "art": "Le",
+                  "realisateurs": "Pierre Beuchot",
+                  "pays": "France",
+                  "annee": 1985,
+                  "duree": 73,
+                  "version": "",
+                  "format": "DCP"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 138778,
+                  "idSeanceAssoc": 138778,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-02-06T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Conférences": [
+      {
+        "titre": "Quand l'historienne fustige la cinéaste, et réciproquement",
+        "mention": "par Ania Szczepanska",
+        "dateHeure": "2024-11-28T17:30:00"
+      },
+      {
+        "titre": "Jean Zay, la détention comme expérience intérieure",
+        "mention": "par Laurent Veray et Thomas Schmitt",
+        "dateHeure": "2025-02-06T17:30:00"
+      }
+    ]
+  }
+}

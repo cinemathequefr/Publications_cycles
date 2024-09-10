@@ -1,5 +1,51 @@
 [
   {
+    "idSeance": 184938,
+    "idEvenement": 31667,
+    "dateHeure": "2024-11-28T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31667,
+        "titre": "Quand l'historienne fustige la cinéaste, et réciproquement",
+        "sousTitre": "Conférence d'Ania Szczepanska",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c31667"
+  },
+  {
+    "idSeance": 136918,
+    "idEvenement": 31550,
+    "dateHeure": "2024-11-28T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 137015,
+        "titre": "Nous filmons le peuple !",
+        "realisateurs": "Ania Szczepanska",
+        "annee": 2012,
+        "duree": 58,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f137015"
+  },
+  {
     "idSeance": 137061,
     "idEvenement": 24970,
     "dateHeure": "2024-12-04T15:00:00",
@@ -458,7 +504,7 @@
   {
     "idSeance": 137205,
     "idEvenement": 30976,
-    "dateHeure": "2024-12-08T17:30:00",
+    "dateHeure": "2024-12-08T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1511,6 +1557,30 @@
     "hashEvenement": "f47314"
   },
   {
+    "idSeance": 137476,
+    "idEvenement": 31305,
+    "dateHeure": "2024-12-19T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Karel Reisz",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 94700,
+        "titre": "Momma Don't Allow",
+        "realisateurs": "Karel Reisz, Tony Richardson",
+        "annee": 1956,
+        "duree": 22,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f94700"
+  },
+  {
     "idSeance": 145310,
     "idEvenement": 31264,
     "dateHeure": "2024-12-19T20:00:00",
@@ -1537,31 +1607,8 @@
     "hashEvenement": "f58648"
   },
   {
-    "idSeance": 144536,
-    "idEvenement": 31480,
-    "dateHeure": "2024-12-19T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Jacques Prévert",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 50687,
-        "titre": "Si j'étais le patron",
-        "realisateurs": "Richard Pottier",
-        "annee": 1934,
-        "duree": 107,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f50687"
-  },
-  {
-    "idSeance": 137514,
-    "idEvenement": 31269,
+    "idSeance": 184941,
+    "idEvenement": 31271,
     "dateHeure": "2024-12-20T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -1572,17 +1619,17 @@
     ],
     "items": [
       {
-        "idFilm": 59013,
-        "titre": "Corps et le Fouet",
+        "idFilm": 42919,
+        "titre": "Grand Inquisiteur",
         "art": "Le",
-        "realisateurs": "John M. Old",
-        "annee": 1963,
-        "duree": 85,
-        "version": "VF",
-        "format": "35 mm"
+        "realisateurs": "Michael Reeves",
+        "annee": 1967,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f59013"
+    "hashEvenement": "f42919"
   },
   {
     "idSeance": 145347,
@@ -1800,10 +1847,33 @@
     "hashEvenement": "f34068"
   },
   {
+    "idSeance": 184944,
+    "idEvenement": 31480,
+    "dateHeure": "2024-12-22T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jacques Prévert",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50687,
+        "titre": "Si j'étais le patron",
+        "realisateurs": "Richard Pottier",
+        "annee": 1934,
+        "duree": 107,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f50687"
+  },
+  {
     "idSeance": 137576,
     "idEvenement": 31555,
     "dateHeure": "2024-12-22T15:00:00",
-    "salle": "GF",
+    "salle": "HL",
     "cycle": [
       [
         "Ma petite Cinémathèque",
@@ -1820,6 +1890,31 @@
       }
     ],
     "hashEvenement": "f56486"
+  },
+  {
+    "idSeance": 184940,
+    "idEvenement": 31269,
+    "dateHeure": "2024-12-22T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le cinéma d'horreur, 25 autres indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 59013,
+        "titre": "Corps et le Fouet",
+        "art": "Le",
+        "realisateurs": "John M. Old",
+        "annee": 1963,
+        "duree": 85,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f59013"
   },
   {
     "idSeance": 145321,
@@ -1843,6 +1938,30 @@
       }
     ],
     "hashEvenement": "f47616"
+  },
+  {
+    "idSeance": 184943,
+    "idEvenement": 31475,
+    "dateHeure": "2024-12-22T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Jacques Prévert",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47315,
+        "titre": "Jour se lève",
+        "art": "Le",
+        "realisateurs": "Marcel Carné",
+        "annee": 1939,
+        "duree": 89,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f47315"
   },
   {
     "idSeance": 145329,
@@ -1870,33 +1989,33 @@
     "hashEvenement": "f36444"
   },
   {
-    "idSeance": 137586,
-    "idEvenement": 31475,
+    "idSeance": 184942,
+    "idEvenement": 31282,
     "dateHeure": "2024-12-23T18:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Jacques Prévert",
+        "Le cinéma d'horreur, 25 autres indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 47315,
-        "titre": "Jour se lève",
-        "art": "Le",
-        "realisateurs": "Marcel Carné",
-        "annee": 1939,
-        "duree": 89,
-        "format": "35 mm"
+        "idFilm": 35399,
+        "titre": "Evil Dead 2",
+        "realisateurs": "Sam Raimi",
+        "annee": 1986,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f47315"
+    "hashEvenement": "f35399"
   },
   {
     "idSeance": 137587,
     "idEvenement": 31479,
-    "dateHeure": "2024-12-23T21:00:00",
+    "dateHeure": "2024-12-23T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2241,6 +2360,30 @@
     "hashEvenement": "f31249"
   },
   {
+    "idSeance": 137763,
+    "idEvenement": 31477,
+    "dateHeure": "2024-12-29T15:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Jacques Prévert",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47284,
+        "titre": "Enfants du paradis",
+        "art": "Les",
+        "realisateurs": "Marcel Carné",
+        "annee": 1943,
+        "duree": 195,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f47284"
+  },
+  {
     "idSeance": 137758,
     "idEvenement": 31283,
     "dateHeure": "2024-12-29T17:00:00",
@@ -2265,30 +2408,6 @@
     "hashEvenement": "f65545"
   },
   {
-    "idSeance": 137763,
-    "idEvenement": 31477,
-    "dateHeure": "2024-12-29T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Jacques Prévert",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 47284,
-        "titre": "Enfants du paradis",
-        "art": "Les",
-        "realisateurs": "Marcel Carné",
-        "annee": 1943,
-        "duree": 195,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f47284"
-  },
-  {
     "idSeance": 137759,
     "idEvenement": 31284,
     "dateHeure": "2024-12-29T19:30:00",
@@ -2311,30 +2430,6 @@
       }
     ],
     "hashEvenement": "f73943"
-  },
-  {
-    "idSeance": 137773,
-    "idEvenement": 31282,
-    "dateHeure": "2024-12-30T16:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Le cinéma d'horreur, 25 autres indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35399,
-        "titre": "Evil Dead 2",
-        "realisateurs": "Sam Raimi",
-        "annee": 1986,
-        "duree": 84,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f35399"
   },
   {
     "idSeance": 137771,
@@ -2484,29 +2579,28 @@
     "hashEvenement": "f57665"
   },
   {
-    "idSeance": 137888,
-    "idEvenement": 31271,
-    "dateHeure": "2025-01-03T18:30:00",
+    "idSeance": 184950,
+    "idEvenement": 31364,
+    "dateHeure": "2025-01-03T19:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur, 25 autres indispensables",
+        "Otto Preminger",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 42919,
-        "titre": "Grand Inquisiteur",
-        "art": "Le",
-        "realisateurs": "Michael Reeves",
-        "annee": 1967,
-        "duree": 86,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 40843,
+        "titre": "Grosse Liebe",
+        "art": "Die",
+        "realisateurs": "Otto Preminger",
+        "annee": 1932,
+        "duree": 76,
+        "version": "VO"
       }
     ],
-    "hashEvenement": "f42919"
+    "hashEvenement": "f40843"
   },
   {
     "idSeance": 137884,
@@ -2535,29 +2629,29 @@
     "hashEvenement": "f71808"
   },
   {
-    "idSeance": 184764,
-    "idEvenement": 31267,
-    "dateHeure": "2025-01-03T20:30:00",
+    "idSeance": 184948,
+    "idEvenement": 31372,
+    "dateHeure": "2025-01-03T20:45:00",
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma d'horreur, 25 autres indispensables",
+        "Otto Preminger",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 45599,
-        "titre": "Chute de la maison Usher",
-        "art": "La",
-        "realisateurs": "Roger Corman",
-        "annee": 1960,
-        "duree": 80,
-        "version": "VO",
+        "idFilm": 35819,
+        "titre": "Eventail de Lady Windermere",
+        "art": "L'",
+        "realisateurs": "Otto Preminger",
+        "annee": 1948,
+        "duree": 79,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f45599"
+    "hashEvenement": "f35819"
   },
   {
     "idSeance": 184868,
@@ -2618,29 +2712,29 @@
     "hashEvenement": "f45366"
   },
   {
-    "idSeance": 137931,
-    "idEvenement": 31250,
+    "idSeance": 184945,
+    "idEvenement": 31267,
     "dateHeure": "2025-01-04T17:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Elio Petri",
+        "Le cinéma d'horreur, 25 autres indispensables",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 43162,
-        "titre": "Assassin",
-        "art": "L'",
-        "realisateurs": "Elio Petri",
+        "idFilm": 45599,
+        "titre": "Chute de la maison Usher",
+        "art": "La",
+        "realisateurs": "Roger Corman",
         "annee": 1960,
-        "duree": 100,
-        "version": "VOSTA",
-        "format": "DCP"
+        "duree": 80,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f43162"
+    "hashEvenement": "f45599"
   },
   {
     "idSeance": 137926,
@@ -2667,8 +2761,8 @@
     "hashEvenement": "f35816"
   },
   {
-    "idSeance": 137932,
-    "idEvenement": 31259,
+    "idSeance": 184946,
+    "idEvenement": 31250,
     "dateHeure": "2025-01-04T20:00:00",
     "salle": "GF",
     "cycle": [
@@ -2679,15 +2773,17 @@
     ],
     "items": [
       {
-        "idFilm": 41991,
-        "titre": "Maestro di Vigevano",
-        "art": "Il",
+        "idFilm": 43162,
+        "titre": "Assassin",
+        "art": "L'",
         "realisateurs": "Elio Petri",
-        "annee": 1963,
-        "duree": 113
+        "annee": 1960,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f41991"
+    "hashEvenement": "f43162"
   },
   {
     "idSeance": 184850,
@@ -2876,33 +2972,9 @@
     "hashEvenement": "f43154"
   },
   {
-    "idSeance": 184765,
-    "idEvenement": 31364,
-    "dateHeure": "2025-01-06T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Otto Preminger",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 40843,
-        "titre": "Grosse Liebe",
-        "art": "Die",
-        "realisateurs": "Otto Preminger",
-        "annee": 1932,
-        "duree": 76,
-        "version": "VO"
-      }
-    ],
-    "hashEvenement": "f40843"
-  },
-  {
     "idSeance": 137959,
     "idEvenement": 31384,
-    "dateHeure": "2025-01-06T20:00:00",
+    "dateHeure": "2025-01-06T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2922,6 +2994,30 @@
       }
     ],
     "hashEvenement": "f34501"
+  },
+  {
+    "idSeance": 184953,
+    "idEvenement": 31360,
+    "dateHeure": "2025-01-06T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Otto Preminger",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35613,
+        "titre": "Charmante famille",
+        "realisateurs": "Otto Preminger",
+        "annee": 1937,
+        "duree": 81,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f35613"
   },
   {
     "idSeance": 137991,
@@ -2948,8 +3044,8 @@
     "hashEvenement": "f130091"
   },
   {
-    "idSeance": 137996,
-    "idEvenement": 31252,
+    "idSeance": 184954,
+    "idEvenement": 31259,
     "dateHeure": "2025-01-08T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -2960,17 +3056,15 @@
     ],
     "items": [
       {
-        "idFilm": 43163,
-        "titre": "Classe ouvrière va au paradis",
-        "art": "La",
+        "idFilm": 41991,
+        "titre": "Maestro di Vigevano",
+        "art": "Il",
         "realisateurs": "Elio Petri",
-        "annee": 1970,
-        "duree": 125,
-        "version": "VOSTF",
-        "format": "DCP"
+        "annee": 1963,
+        "duree": 113
       }
     ],
-    "hashEvenement": "f43163"
+    "hashEvenement": "f41991"
   },
   {
     "idSeance": 184807,
@@ -3439,6 +3533,40 @@
     "hashEvenement": "f43163"
   },
   {
+    "idSeance": 184823,
+    "idEvenement": 31386,
+    "dateHeure": "2025-01-12T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Otto Preminger",
+        "Les films"
+      ],
+      [
+        "Otto Preminger",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45917,
+        "titre": "Tempête à Washington",
+        "realisateurs": "Otto Preminger",
+        "annee": 1961,
+        "duree": 140,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idConf": 31681,
+        "titre": "Dialogue avec Nicolas Pariser",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f45917c31681"
+  },
+  {
     "idSeance": 138134,
     "idEvenement": 31561,
     "dateHeure": "2025-01-12T15:00:00",
@@ -3462,30 +3590,6 @@
       }
     ],
     "hashEvenement": "f36623"
-  },
-  {
-    "idSeance": 184823,
-    "idEvenement": 31386,
-    "dateHeure": "2025-01-12T15:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Otto Preminger",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 45917,
-        "titre": "Tempête à Washington",
-        "realisateurs": "Otto Preminger",
-        "annee": 1961,
-        "duree": 140,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f45917"
   },
   {
     "idSeance": 184767,
@@ -3561,8 +3665,8 @@
     "hashEvenement": "f71808"
   },
   {
-    "idSeance": 138144,
-    "idEvenement": 31360,
+    "idSeance": 184952,
+    "idEvenement": 31376,
     "dateHeure": "2025-01-13T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -3573,16 +3677,14 @@
     ],
     "items": [
       {
-        "idFilm": 35613,
-        "titre": "Charmante famille",
+        "idFilm": 55106,
+        "titre": "Jungfrau auf dem Dach",
+        "art": "Die",
         "realisateurs": "Otto Preminger",
-        "annee": 1937,
-        "duree": 81,
-        "version": "VOSTF",
-        "format": "DCP"
+        "annee": 1953
       }
     ],
-    "hashEvenement": "f35613"
+    "hashEvenement": "f55106"
   },
   {
     "idSeance": 138145,
@@ -3657,7 +3759,7 @@
     "hashEvenement": "f35828"
   },
   {
-    "idSeance": 184777,
+    "idSeance": 184956,
     "idEvenement": 31449,
     "dateHeure": "2025-01-15T20:00:00",
     "salle": "HL",
@@ -3667,7 +3769,6 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective. Séance présentée par Eric Demarsan et Costa-Gavras",
     "items": [
       {
         "idFilm": 47835,
@@ -3851,7 +3952,7 @@
       },
       {
         "idConf": 31648,
-        "titre": "Dialogue avec Éric Demarsan",
+        "titre": "Dialogue avec Éric Demarsan et Guillaume Nicloux (?)",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -3875,7 +3976,9 @@
         "titre": "Condamné au silence",
         "realisateurs": "Otto Preminger",
         "annee": 1955,
-        "duree": 100
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f35812"
@@ -4013,7 +4116,7 @@
   {
     "idSeance": 138321,
     "idEvenement": 31453,
-    "dateHeure": "2025-01-19T17:00:00",
+    "dateHeure": "2025-01-19T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4036,7 +4139,7 @@
   {
     "idSeance": 184781,
     "idEvenement": 31450,
-    "dateHeure": "2025-01-19T19:30:00",
+    "dateHeure": "2025-01-19T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4060,7 +4163,7 @@
   {
     "idSeance": 174918,
     "idEvenement": 31379,
-    "dateHeure": "2025-01-19T20:00:00",
+    "dateHeure": "2025-01-19T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4132,7 +4235,7 @@
     "hashEvenement": "f154784"
   },
   {
-    "idSeance": 138331,
+    "idSeance": 184958,
     "idEvenement": 31385,
     "dateHeure": "2025-01-20T20:15:00",
     "salle": "GF",
@@ -4606,6 +4709,27 @@
     "hashEvenement": "f35835"
   },
   {
+    "idSeance": 184772,
+    "idEvenement": 30565,
+    "dateHeure": "2025-01-25T16:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 30565,
+        "titre": "Dialogue avec Jean-François Rauger",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c30565"
+  },
+  {
     "idSeance": 138488,
     "idEvenement": 31375,
     "dateHeure": "2025-01-25T17:30:00",
@@ -4696,7 +4820,8 @@
         "realisateurs": "Otto Preminger, Rouben Mamoulian",
         "annee": 1958,
         "duree": 136,
-        "version": "VO"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f34443"
@@ -4726,30 +4851,6 @@
     "hashEvenement": "f36382"
   },
   {
-    "idSeance": 138508,
-    "idEvenement": 31357,
-    "dateHeure": "2025-01-26T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Otto Preminger",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35800,
-        "titre": "Autopsie d'un meurtre",
-        "realisateurs": "Otto Preminger",
-        "annee": 1959,
-        "duree": 160,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f35800"
-  },
-  {
     "idSeance": 138502,
     "idEvenement": 25732,
     "dateHeure": "2025-01-26T18:00:00",
@@ -4774,6 +4875,30 @@
     "hashEvenement": "f59968"
   },
   {
+    "idSeance": 138508,
+    "idEvenement": 31357,
+    "dateHeure": "2025-01-26T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Otto Preminger",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35800,
+        "titre": "Autopsie d'un meurtre",
+        "realisateurs": "Otto Preminger",
+        "annee": 1959,
+        "duree": 160,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f35800"
+  },
+  {
     "idSeance": 138503,
     "idEvenement": 25758,
     "dateHeure": "2025-01-26T20:15:00",
@@ -4796,31 +4921,6 @@
       }
     ],
     "hashEvenement": "f64235"
-  },
-  {
-    "idSeance": 138507,
-    "idEvenement": 31366,
-    "dateHeure": "2025-01-26T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Otto Preminger",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 44907,
-        "titre": "Homme au bras d'or",
-        "art": "L'",
-        "realisateurs": "Otto Preminger",
-        "annee": 1955,
-        "duree": 119,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f44907"
   },
   {
     "idSeance": 138515,
@@ -4888,7 +4988,8 @@
         "titre": "Parachutistes arrivent",
         "art": "Les",
         "realisateurs": "John Frankenheimer",
-        "annee": 1968
+        "annee": 1968,
+        "duree": 106
       }
     ],
     "hashEvenement": "f32395"
@@ -5125,7 +5226,10 @@
         "idFilm": 32418,
         "titre": "Un crime dans la tête",
         "realisateurs": "John Frankenheimer",
-        "annee": 1962
+        "annee": 1962,
+        "duree": 126,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f32418"
@@ -5146,7 +5250,8 @@
         "idFilm": 32430,
         "titre": "Sept jours en mai",
         "realisateurs": "John Frankenheimer",
-        "annee": 1963
+        "annee": 1963,
+        "duree": 120
       }
     ],
     "hashEvenement": "f32430"
@@ -5192,7 +5297,10 @@
         "titre": "Opération diabolique",
         "art": "L'",
         "realisateurs": "John Frankenheimer",
-        "annee": 1965
+        "annee": 1965,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f31999"
@@ -5598,27 +5706,6 @@
     "hashEvenement": "f83971"
   },
   {
-    "idSeance": 138703,
-    "idEvenement": 31312,
-    "dateHeure": "2025-02-03T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "John Frankenheimer",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 145691,
-        "titre": "For Whom the Bell Tolls",
-        "realisateurs": "John Frankenheimer",
-        "annee": 1959
-      }
-    ],
-    "hashEvenement": "f145691"
-  },
-  {
     "idSeance": 138740,
     "idEvenement": 31311,
     "dateHeure": "2025-02-05T18:00:00",
@@ -5661,6 +5748,52 @@
       }
     ],
     "hashEvenement": "f32393"
+  },
+  {
+    "idSeance": 184939,
+    "idEvenement": 31671,
+    "dateHeure": "2025-02-06T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31671,
+        "titre": "Jean Zay, la détention comme expérience intérieure",
+        "sousTitre": "Conférence de Laurent Veray et Thomas Schmitt",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c31671"
+  },
+  {
+    "idSeance": 138778,
+    "idEvenement": 31551,
+    "dateHeure": "2025-02-06T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 154983,
+        "titre": "Temps détruit : lettres d'une guerre, 1939-1940",
+        "art": "Le",
+        "realisateurs": "Pierre Beuchot",
+        "annee": 1985,
+        "duree": 73,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f154983"
   },
   {
     "idSeance": 184925,
@@ -5726,9 +5859,34 @@
     "hashEvenement": "f32399"
   },
   {
+    "idSeance": 138857,
+    "idEvenement": 31329,
+    "dateHeure": "2025-02-08T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "John Frankenheimer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 44798,
+        "titre": "Prisonnier d'Alcatraz",
+        "art": "Le",
+        "realisateurs": "John Frankenheimer",
+        "annee": 1960,
+        "duree": 147,
+        "version": "VO",
+        "format": "16 mm"
+      }
+    ],
+    "hashEvenement": "f44798"
+  },
+  {
     "idSeance": 138860,
     "idEvenement": 31318,
-    "dateHeure": "2025-02-08T17:00:00",
+    "dateHeure": "2025-02-08T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5854,7 +6012,8 @@
         "idFilm": 32362,
         "titre": "Dead Bang",
         "realisateurs": "John Frankenheimer",
-        "annee": 1988
+        "annee": 1988,
+        "duree": 102
       }
     ],
     "hashEvenement": "f32362"
@@ -6071,7 +6230,9 @@
         "idFilm": 146889,
         "titre": "Sur le chemin de la guerre",
         "realisateurs": "John Frankenheimer",
-        "annee": 2002
+        "annee": 2002,
+        "duree": 165,
+        "version": "VO"
       }
     ],
     "hashEvenement": "f146889"
@@ -6242,7 +6403,7 @@
   {
     "idSeance": 184891,
     "idEvenement": 31313,
-    "dateHeure": "2025-02-16T17:30:00",
+    "dateHeure": "2025-02-16T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6264,7 +6425,7 @@
   {
     "idSeance": 139060,
     "idEvenement": 31591,
-    "dateHeure": "2025-02-16T18:00:00",
+    "dateHeure": "2025-02-16T18:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6288,7 +6449,7 @@
   {
     "idSeance": 184903,
     "idEvenement": 31307,
-    "dateHeure": "2025-02-16T19:30:00",
+    "dateHeure": "2025-02-16T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6302,15 +6463,16 @@
         "titre": "Cavaliers",
         "art": "Les",
         "realisateurs": "John Frankenheimer",
-        "annee": 1970
+        "annee": 1970,
+        "duree": 109
       }
     ],
     "hashEvenement": "f32357"
   },
   {
-    "idSeance": 184902,
-    "idEvenement": 31307,
-    "dateHeure": "2025-02-17T17:00:00",
+    "idSeance": 184955,
+    "idEvenement": 31329,
+    "dateHeure": "2025-02-17T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6320,19 +6482,22 @@
     ],
     "items": [
       {
-        "idFilm": 32357,
-        "titre": "Cavaliers",
-        "art": "Les",
+        "idFilm": 44798,
+        "titre": "Prisonnier d'Alcatraz",
+        "art": "Le",
         "realisateurs": "John Frankenheimer",
-        "annee": 1970
+        "annee": 1960,
+        "duree": 147,
+        "version": "VO",
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f32357"
+    "hashEvenement": "f44798"
   },
   {
     "idSeance": 139075,
     "idEvenement": 31320,
-    "dateHeure": "2025-02-17T21:00:00",
+    "dateHeure": "2025-02-17T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6655,6 +6820,27 @@
     "hashEvenement": "f46659"
   },
   {
+    "idSeance": 184966,
+    "idEvenement": 31683,
+    "dateHeure": "2025-02-22T16:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le cinéma d'apocalypse, 25 indispensables",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31683,
+        "titre": "Dialogue avec François Angelier",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c31683"
+  },
+  {
     "idSeance": 139233,
     "idEvenement": 31483,
     "dateHeure": "2025-02-22T17:00:00",
@@ -6729,7 +6915,7 @@
     "hashEvenement": "f46642"
   },
   {
-    "idSeance": 139230,
+    "idSeance": 184957,
     "idEvenement": 31615,
     "dateHeure": "2025-02-22T20:00:00",
     "salle": "HL",
@@ -6916,7 +7102,10 @@
         "idFilm": 32418,
         "titre": "Un crime dans la tête",
         "realisateurs": "John Frankenheimer",
-        "annee": 1962
+        "annee": 1962,
+        "duree": 126,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f32418"
@@ -6937,7 +7126,8 @@
         "idFilm": 32430,
         "titre": "Sept jours en mai",
         "realisateurs": "John Frankenheimer",
-        "annee": 1963
+        "annee": 1963,
+        "duree": 120
       }
     ],
     "hashEvenement": "f32430"
@@ -7298,7 +7488,10 @@
         "titre": "Opération diabolique",
         "art": "L'",
         "realisateurs": "John Frankenheimer",
-        "annee": 1965
+        "annee": 1965,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f31999"
@@ -7351,6 +7544,30 @@
       }
     ],
     "hashEvenement": "f36384"
+  },
+  {
+    "idSeance": 139437,
+    "idEvenement": 31627,
+    "dateHeure": "2025-03-02T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le cinéma d'apocalypse, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 113297,
+        "titre": "Melancholia",
+        "realisateurs": "Lars von Trier",
+        "annee": 2010,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f113297"
   },
   {
     "idSeance": 139432,

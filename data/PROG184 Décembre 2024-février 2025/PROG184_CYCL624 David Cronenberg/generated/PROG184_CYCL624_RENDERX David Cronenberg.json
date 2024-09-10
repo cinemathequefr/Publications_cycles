@@ -1062,6 +1062,29 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30565,
+          "content": [
+            {
+              "idConf": 30565,
+              "titre": "Dialogue avec Jean-François Rauger",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184772,
+              "dateHeure": "2025-01-25T16:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -1069,6 +1092,12 @@
       {
         "dateHeure": "2025-01-20T20:00:00",
         "titreFilms": "Les Linceuls"
+      }
+    ],
+    "Dialogue": [
+      {
+        "mention": "avec Jean-François Rauger",
+        "dateHeure": "2025-01-25T16:00:00"
       }
     ]
   }
