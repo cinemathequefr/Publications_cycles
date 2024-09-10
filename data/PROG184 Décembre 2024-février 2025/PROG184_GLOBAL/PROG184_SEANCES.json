@@ -809,6 +809,14 @@
     "salle": "HL",
     "cycle": [
       [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
+      ],
+      [
         "Marlon Brando",
         "Les films"
       ]
@@ -822,9 +830,15 @@
         "duree": 108,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 31668,
+        "titre": "Dialogue avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f33586"
+    "hashEvenement": "f33586c31668"
   },
   {
     "idSeance": 184830,
@@ -1784,37 +1798,6 @@
       }
     ],
     "hashEvenement": "f34068"
-  },
-  {
-    "idSeance": 145324,
-    "idEvenement": 30935,
-    "dateHeure": "2024-12-22T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Napoléon vu par Abel Gance"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 154798,
-        "titre": "Napoléon vu par Abel Gance (partie 1)",
-        "realisateurs": "Abel Gance",
-        "annee": 1927,
-        "duree": 220,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 154797,
-        "titre": "Napoléon vu par Abel Gance (partie 2)",
-        "realisateurs": "Abel Gance",
-        "annee": 1927,
-        "duree": 205,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f154798f154797"
   },
   {
     "idSeance": 137576,
@@ -2998,6 +2981,14 @@
       [
         "Otto Preminger",
         "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3009,9 +3000,15 @@
         "duree": 160,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 31669,
+        "titre": "Dialogue avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f35800"
+    "hashEvenement": "f35800c31669"
   },
   {
     "idSeance": 184811,
@@ -5580,7 +5577,7 @@
     "idSeance": 138702,
     "idEvenement": 31310,
     "dateHeure": "2025-02-03T18:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "John Frankenheimer",
@@ -5604,7 +5601,7 @@
     "idSeance": 138703,
     "idEvenement": 31312,
     "dateHeure": "2025-02-03T20:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "John Frankenheimer",
@@ -5664,6 +5661,27 @@
       }
     ],
     "hashEvenement": "f32393"
+  },
+  {
+    "idSeance": 184925,
+    "idEvenement": 31662,
+    "dateHeure": "2025-02-06T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec François Angelier",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31662,
+        "titre": "Dialogue avec François Angelier",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c31662"
   },
   {
     "idSeance": 184794,
@@ -5937,6 +5955,27 @@
     "hashEvenement": "f100427"
   },
   {
+    "idSeance": 184927,
+    "idEvenement": 31663,
+    "dateHeure": "2025-02-13T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec François Angelier",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31663,
+        "titre": "Dialogue avec François Angelier",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c31663"
+  },
+  {
     "idSeance": 139002,
     "idEvenement": 31626,
     "dateHeure": "2025-02-14T18:00:00",
@@ -5960,6 +5999,37 @@
       }
     ],
     "hashEvenement": "f108687"
+  },
+  {
+    "idSeance": 184932,
+    "idEvenement": 31666,
+    "dateHeure": "2025-02-14T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51129,
+        "titre": "Classe tous risques",
+        "realisateurs": "Claude Sautet",
+        "annee": 1959
+      },
+      {
+        "idConf": 31670,
+        "titre": "Dialogue avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f51129c31670"
   },
   {
     "idSeance": 184896,
@@ -6422,6 +6492,27 @@
     "hashEvenement": "f35080"
   },
   {
+    "idSeance": 184929,
+    "idEvenement": 31664,
+    "dateHeure": "2025-02-20T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec François Angelier",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31664,
+        "titre": "Dialogue avec François Angelier",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c31664"
+  },
+  {
     "idSeance": 139188,
     "idEvenement": 31642,
     "dateHeure": "2025-02-21T18:00:00",
@@ -6659,6 +6750,7 @@
         "realisateurs": "John Carpenter",
         "annee": 1995,
         "duree": 101,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -7093,6 +7185,27 @@
       }
     ],
     "hashEvenement": "f118084"
+  },
+  {
+    "idSeance": 184931,
+    "idEvenement": 31665,
+    "dateHeure": "2025-02-28T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec François Angelier",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31665,
+        "titre": "Dialogue avec François Angelier",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c31665"
   },
   {
     "idSeance": 139414,

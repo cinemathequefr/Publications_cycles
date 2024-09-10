@@ -10,6 +10,11 @@
   * Une Parisienne  
   * Une sale histoire
 
+## Ciné-club de Frédéric Bonnaud (2)
+
+  * Classe tous risques  
+  * Sur les quais
+
 ## Cinéma bis (5)
 
   * Dernier survivant (Le)  
@@ -247,7 +252,7 @@
   * Une guitare à la mer  
   * Voyage à travers l'impossible
 
-## Marlon Brando (20)
+## Marlon Brando (19)
 
   * Apocalypse Now Redux  
   * Bal des maudits (Le)  
@@ -265,7 +270,6 @@
   * Poursuite impitoyable (La)  
   * Queimada  
   * Reflets dans un œil d'or  
-  * Sur les quais  
   * Un tramway nommé Désir  
   * Vengeance aux deux visages (La)  
   * Viva Zapata!
@@ -327,10 +331,8 @@
   * Sergueï Paradjanov, le rebelle  
   * Une petite fleur sur la pierre
 
-## Séances spéciales (3)
+## Séances spéciales (1)
 
-  * Napoléon vu par Abel Gance (partie 1)  
-  * Napoléon vu par Abel Gance (partie 2)  
   * Porte du paradis (La)
 
 ## Yves Mirande (1)

@@ -1,0 +1,166 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "groupe": [
+            {
+              "idFilm": 33586,
+              "content": [
+                {
+                  "idFilm": 33586,
+                  "ordre": 1,
+                  "titre": "Sur les quais",
+                  "titreVo": "On the Waterfront",
+                  "realisateurs": "Elia Kazan",
+                  "pays": "États-Unis",
+                  "annee": 1953,
+                  "duree": 108,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Marlon Brando",
+                    "Karl Malden",
+                    "Rod Steiger",
+                    "Eva Marie Saint"
+                  ],
+                  "miniTexte": "Coupable d'avoir trahi un collègue à la botte d'un syndicat mafieux, un ancien boxeur devenu docker cherche la rédemption. Préféré à Frank Sinatra quelques jours avant le tournage, Brando irradie de rage et d'intensité dans une exploration du pouvoir criminel, qui fait écho à la propre histoire de Kazan. Un brillant film noir aux élans néoréalistes, récompensé par huit Oscars."
+                }
+              ]
+            },
+            {
+              "idEvenement": 31668,
+              "content": [
+                {
+                  "idConf": 31668,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Frédéric Bonnaud",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184803,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-12-12T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 35800,
+              "content": [
+                {
+                  "idFilm": 35800,
+                  "ordre": 1,
+                  "titre": "Autopsie d'un meurtre",
+                  "titreVo": "Anatomy of a Murder",
+                  "realisateurs": "Otto Preminger",
+                  "pays": "États-Unis",
+                  "annee": 1959,
+                  "duree": 160,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _Anatomy of a Murder_ de Robert Traver.",
+                  "generique": [
+                    "James Stewart",
+                    "Lee Remick",
+                    "Ben Gazzara"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 31669,
+              "content": [
+                {
+                  "idConf": 31669,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Frédéric Bonnaud",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184807,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-01-08T18:30:00",
+                  "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 51129,
+              "content": [
+                {
+                  "idFilm": 51129,
+                  "ordre": 1,
+                  "titre": "Classe tous risques",
+                  "realisateurs": "Claude Sautet",
+                  "pays": "France-Italie",
+                  "annee": 1959,
+                  "adaptation": "D'après le roman _Classe tous risques_ de José Giovanni.",
+                  "generique": [
+                    "Lino Ventura",
+                    "Jean-Paul Belmondo",
+                    "Sandra Milo",
+                    "Marcel Dalio"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 31670,
+              "content": [
+                {
+                  "idConf": 31670,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Frédéric Bonnaud",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184932,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-02-14T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "titreFilms": "Sur les quais",
+        "mention": "avec Frédéric Bonnaud",
+        "dateHeure": "2024-12-12T19:00:00"
+      },
+      {
+        "titreFilms": "Autopsie d'un meurtre",
+        "mention": "avec Frédéric Bonnaud",
+        "dateHeure": "2025-01-08T18:30:00"
+      },
+      {
+        "titreFilms": "Classe tous risques",
+        "mention": "avec Frédéric Bonnaud",
+        "dateHeure": "2025-02-14T19:00:00"
+      }
+    ]
+  }
+}
