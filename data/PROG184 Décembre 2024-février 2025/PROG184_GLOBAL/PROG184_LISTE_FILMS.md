@@ -15,6 +15,13 @@
   * Nous filmons le peuple !  
   * Temps détruit : lettres d'une guerre, 1939-1940 (Le)
 
+## Aujourd'hui le cinéma (4)
+
+  * météos d'Antoine (Les)  
+  * Paysage après la bataille  
+  * September Says  
+  * Un jour j'aurai une île
+
 ## Ciné-club de Frédéric Bonnaud (2)
 
   * Classe tous risques  

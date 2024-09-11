@@ -1,0 +1,168 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Vincent Weber",
+      "items": [
+        {
+          "idFilm": 154916,
+          "content": [
+            {
+              "idFilm": 154916,
+              "ordre": 1,
+              "titre": "Un jour j'aurai une île",
+              "realisateurs": "Vincent Weber",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 45,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Nouha A.",
+                "Kamel Adel"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137216,
+              "dateHeure": "2024-12-09T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Vincent Weber"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Jules Follet",
+      "items": [
+        {
+          "idFilm": 154995,
+          "content": [
+            {
+              "idFilm": 154995,
+              "ordre": 1,
+              "titre": "météos d'Antoine",
+              "art": "Les",
+              "realisateurs": "Jules Follet",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 27,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137960,
+              "dateHeure": "2025-01-06T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Jules Follet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Avant-première Ariane Labed",
+      "items": [
+        {
+          "idFilm": 154996,
+          "content": [
+            {
+              "idFilm": 154996,
+              "ordre": 1,
+              "titre": "September Says",
+              "realisateurs": "Ariane Labed",
+              "pays": "Irlande",
+              "annee": 2024,
+              "duree": 98,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Mia Tharia",
+                "Pascale Kann",
+                "Rakhee Thakrar"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184993,
+              "dateHeure": "2025-02-03T19:30:00",
+              "idSalle": "GF",
+              "mention": " Séance présentée par Ariane Labed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "João Paulo Miranda Maria",
+      "items": [
+        {
+          "idFilm": 154994,
+          "content": [
+            {
+              "idFilm": 154994,
+              "ordre": 1,
+              "titre": "Paysage après la bataille",
+              "realisateurs": "João Paulo Miranda Maria",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 25,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 139076,
+              "dateHeure": "2025-02-17T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec João Paulo Miranda Maria"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2025-02-03T19:30:00",
+        "titreFilms": "September Says",
+        "mention": " Séance présentée par Ariane Labed"
+      }
+    ],
+    "Discussions": [
+      {
+        "titreFilms": "Les météos d'Antoine",
+        "mention": "avec Jules Follet",
+        "dateHeure": "2025-01-06T19:00:00"
+      },
+      {
+        "titreFilms": "Paysage après la bataille",
+        "mention": "avec João Paulo Miranda Maria",
+        "dateHeure": "2025-02-17T19:00:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Un jour j'aurai une île",
+        "mention": "par Vincent Weber",
+        "dateHeure": "2024-12-09T19:00:00"
+      },
+      {
+        "titreFilms": "September Says",
+        "mention": "par Ariane Labed",
+        "dateHeure": "2025-02-03T19:30:00"
+      }
+    ]
+  }
+}
