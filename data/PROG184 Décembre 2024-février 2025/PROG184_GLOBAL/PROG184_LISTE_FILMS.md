@@ -96,7 +96,7 @@
   * Sa dernière culotte  
   * Sky Scraping
 
-## GriffithEisenstein, leçons de montage (8)
+## Griffith-Eisenstein, leçons de montage (8)
 
   * À travers l'orage  
   * Cuirassé Potemkine (Le)  
