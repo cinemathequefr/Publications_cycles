@@ -3905,6 +3905,47 @@
     "hashEvenement": "f55106"
   },
   {
+    "idSeance": 138146,
+    "idEvenement": 31715,
+    "dateHeure": "2025-01-13T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Marin Gérard"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155000,
+        "titre": "Espace rapide",
+        "art": "L'",
+        "realisateurs": "Marin Gérard",
+        "annee": 2020,
+        "duree": 27,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155001,
+        "titre": "À l'ombre l'après-midi",
+        "realisateurs": "Marin Gérard",
+        "annee": 2022,
+        "duree": 34,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155002,
+        "titre": "Soleil chante à l'horizon",
+        "art": "Le",
+        "realisateurs": "Marin Gérard",
+        "annee": 2024,
+        "duree": 30,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155000f155001f155002"
+  },
+  {
     "idSeance": 138145,
     "idEvenement": 31373,
     "dateHeure": "2025-01-13T20:00:00",
@@ -3922,7 +3963,7 @@
         "realisateurs": "Otto Preminger",
         "annee": 1942,
         "duree": 74,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -4017,7 +4058,8 @@
         "realisateurs": "Otto Preminger",
         "annee": 1944,
         "duree": 94,
-        "version": "VF"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f35692"
@@ -5288,7 +5330,9 @@
         "art": "Les",
         "realisateurs": "John Frankenheimer",
         "annee": 1968,
-        "duree": 106
+        "duree": 106,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f32395"
@@ -5384,7 +5428,10 @@
         "titre": "Temps du châtiment",
         "art": "Le",
         "realisateurs": "John Frankenheimer",
-        "annee": 1960
+        "annee": 1960,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f29711"
@@ -5651,7 +5698,9 @@
         "titre": "Pays de la violence",
         "art": "Le",
         "realisateurs": "John Frankenheimer",
-        "annee": 1969
+        "annee": 1969,
+        "duree": 95,
+        "version": "VO"
       },
       {
         "idConf": 31657,
@@ -6239,8 +6288,8 @@
         "realisateurs": "John Frankenheimer",
         "annee": 1960,
         "duree": 147,
-        "version": "VO",
-        "format": "16 mm"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f44798"
@@ -6354,7 +6403,7 @@
         "titre": "Paiement cash",
         "realisateurs": "John Frankenheimer",
         "annee": 1986,
-        "duree": 110,
+        "duree": 108,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -6855,7 +6904,9 @@
         "art": "Les",
         "realisateurs": "John Frankenheimer",
         "annee": 1970,
-        "duree": 109
+        "duree": 109,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f32357"
@@ -6879,8 +6930,8 @@
         "realisateurs": "John Frankenheimer",
         "annee": 1960,
         "duree": 147,
-        "version": "VO",
-        "format": "16 mm"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f44798"
@@ -7942,7 +7993,9 @@
         "art": "Les",
         "realisateurs": "John Frankenheimer",
         "annee": 1968,
-        "duree": 106
+        "duree": 106,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f32395"

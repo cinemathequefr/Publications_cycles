@@ -15,14 +15,17 @@
   * Nous filmons le peuple !  
   * Temps détruit : lettres d'une guerre, 1939-1940 (Le)
 
-## Aujourd'hui le cinéma (7)
+## Aujourd'hui le cinéma (10)
 
+  * À l'ombre l'après-midi  
   * Cidade; Campo  
+  * Espace rapide (L')  
   * Fogaréu  
   * Météos d'Antoine (Les)  
   * Morsure (La)  
   * Paysage après la bataille  
   * September Says  
+  * Soleil chante à l'horizon (Le)  
   * Un jour j'aurai une île
 
 ## Ciné-club de Frédéric Bonnaud (2)
