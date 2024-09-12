@@ -416,34 +416,51 @@
           ]
         },
         {
-          "idFilm": 37314,
-          "content": [
+          "groupe": [
             {
               "idFilm": 37314,
-              "ordre": 1,
-              "titre": "Mystère Andromède",
-              "art": "Le",
-              "titreVo": "Andromeda Strain",
-              "artVo": "The",
-              "realisateurs": "Robert Wise",
-              "pays": "États-Unis",
-              "annee": 1971,
-              "duree": 131,
-              "version": "VO",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _La Variété Andromède_ de Michael Crichton.",
-              "generique": [
-                "Arthur Hill",
-                "David Wayne",
-                "Kate Reid"
+              "content": [
+                {
+                  "idFilm": 37314,
+                  "ordre": 1,
+                  "titre": "Mystère Andromède",
+                  "art": "Le",
+                  "titreVo": "Andromeda Strain",
+                  "artVo": "The",
+                  "realisateurs": "Robert Wise",
+                  "pays": "États-Unis",
+                  "annee": 1971,
+                  "duree": 131,
+                  "version": "VO",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _La Variété Andromède_ de Michael Crichton.",
+                  "generique": [
+                    "Arthur Hill",
+                    "David Wayne",
+                    "Kate Reid"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 184900,
-              "dateHeure": "2025-02-22T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 31683,
+              "content": [
+                {
+                  "idConf": 31683,
+                  "ordre": 2,
+                  "titre": "Dialogue avec François Angelier",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Jean-François Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184900,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-02-22T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -698,7 +715,7 @@
           "seances": [
             {
               "idSeance": 184913,
-              "dateHeure": "2025-02-28T20:30:00",
+              "dateHeure": "2025-02-28T19:00:00",
               "idSalle": "GF"
             }
           ]
@@ -734,37 +751,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 31683,
-          "content": [
-            {
-              "idConf": 31683,
-              "titre": "Dialogue avec François Angelier",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Jean-François Rauger"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 184966,
-              "dateHeure": "2025-02-22T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Le Mystère Andromède",
         "mention": "avec François Angelier",
-        "dateHeure": "2025-02-22T16:30:00"
+        "dateHeure": "2025-02-22T14:30:00"
       }
     ]
   }

@@ -1,0 +1,84 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31716,
+          "content": [
+            {
+              "idConf": 31716,
+              "titre": "Film + Dialogue directeur Photo (FCFA)",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184996,
+              "dateHeure": "2024-12-13T18:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 31717,
+          "content": [
+            {
+              "idConf": 31717,
+              "titre": "Conférence sur les lanternes magiques par Patrice Guérin",
+              "sousTitre": "Conférence de Patrice Guérin",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184997,
+              "dateHeure": "2025-01-17T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 31718,
+          "content": [
+            {
+              "idConf": 31718,
+              "titre": "Après-midi d'études sur les salles de cinéma argentiques",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184998,
+              "dateHeure": "2025-02-07T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Conférences": [
+      {
+        "titre": "Conférence sur les lanternes magiques par Patrice Guérin",
+        "mention": "par Patrice Guérin",
+        "dateHeure": "2025-01-17T17:00:00"
+      },
+      {
+        "titre": "Après-midi d'études sur les salles de cinéma argentiques",
+        "mention": "Conférence ",
+        "dateHeure": "2025-02-07T14:30:00"
+      }
+    ],
+    "Dialogue": [
+      {
+        "mention": "Film + Dialogue directeur Photo (FCFA)",
+        "dateHeure": "2024-12-13T18:30:00"
+      }
+    ]
+  }
+}

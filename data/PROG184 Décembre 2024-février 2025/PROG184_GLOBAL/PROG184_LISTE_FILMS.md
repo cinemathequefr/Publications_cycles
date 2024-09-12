@@ -15,9 +15,12 @@
   * Nous filmons le peuple !  
   * Temps détruit : lettres d'une guerre, 1939-1940 (Le)
 
-## Aujourd'hui le cinéma (4)
+## Aujourd'hui le cinéma (7)
 
-  * météos d'Antoine (Les)  
+  * Cidade; Campo  
+  * Fogaréu  
+  * Météos d'Antoine (Les)  
+  * Morsure (La)  
   * Paysage après la bataille  
   * September Says  
   * Un jour j'aurai une île
@@ -27,13 +30,24 @@
   * Classe tous risques  
   * Sur les quais
 
-## Cinéma bis (5)
+## Cinéma bis (10)
 
+  * Cauchemars naissent la nuit (Les)  
   * Dernier survivant (Le)  
+  * Fantôme, ma femme et moi = La lycéenne épouse un dingue (Le)  
   * Grande java (La)  
   * Los Angeles 2013  
   * New York 1997  
-  * Plus beau que moi, tu meurs
+  * Passagers de l'angoisse (Les)  
+  * Pétomane (Le)  
+  * Plus beau que moi, tu meurs  
+  * undefined
+
+## Classiques et raretés (3)
+
+  * Body Double  
+  * Devil in Miss Jones (The)  
+  * Gilda
 
 ## David Cronenberg (36)
 

@@ -40,33 +40,49 @@
           ]
         },
         {
-          "idFilm": 96665,
-          "content": [
+          "groupe": [
             {
               "idFilm": 96665,
-              "ordre": 1,
-              "titre": "A History of Violence",
-              "realisateurs": "David Cronenberg",
-              "pays": "États-Unis",
-              "annee": 2004,
-              "duree": 95,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman graphique _A History of Violence_ de John Wagner et Vince Locke.",
-              "generique": [
-                "Viggo Mortensen",
-                "Maria Bello",
-                "Ed Harris"
-              ],
-              "isFocus": true,
-              "miniTexte": "Un père de famille, qui mène une vie paisible à la campagne, est soudainement rattrapé par un sombre passé. Sur un scénario de polar, adapté d'un roman graphique et construit autour d'un homme en apparence tranquille (Mortensen, impeccable de mystère), Cronenberg sonde les racines de la violence aux États-Unis, ses mécanismes et sa nature profonde. Cadrages serrés et travellings intrigants, le cinéaste filme la brutalité d'une manière crue, réaliste, et strie la simplicité rassurante du quotidien de foudroyants éclats de sauvagerie."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 96665,
+                  "ordre": 1,
+                  "titre": "A History of Violence",
+                  "realisateurs": "David Cronenberg",
+                  "pays": "États-Unis",
+                  "annee": 2004,
+                  "duree": 95,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman graphique _A History of Violence_ de John Wagner et Vince Locke.",
+                  "generique": [
+                    "Viggo Mortensen",
+                    "Maria Bello",
+                    "Ed Harris"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Un père de famille, qui mène une vie paisible à la campagne, est soudainement rattrapé par un sombre passé. Sur un scénario de polar, adapté d'un roman graphique et construit autour d'un homme en apparence tranquille (Mortensen, impeccable de mystère), Cronenberg sonde les racines de la violence aux États-Unis, ses mécanismes et sa nature profonde. Cadrages serrés et travellings intrigants, le cinéaste filme la brutalité d'une manière crue, réaliste, et strie la simplicité rassurante du quotidien de foudroyants éclats de sauvagerie."
+                }
+              ]
+            },
             {
-              "idSeance": 184769,
-              "dateHeure": "2025-01-25T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 30565,
+              "content": [
+                {
+                  "idConf": 30565,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-François Rauger",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184769,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-01-25T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -1062,29 +1078,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30565,
-          "content": [
-            {
-              "idConf": 30565,
-              "titre": "Dialogue avec Jean-François Rauger",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 184772,
-              "dateHeure": "2025-01-25T16:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -1096,8 +1089,9 @@
     ],
     "Dialogue": [
       {
+        "titreFilms": "A History of Violence",
         "mention": "avec Jean-François Rauger",
-        "dateHeure": "2025-01-25T16:00:00"
+        "dateHeure": "2025-01-25T14:30:00"
       }
     ]
   }
