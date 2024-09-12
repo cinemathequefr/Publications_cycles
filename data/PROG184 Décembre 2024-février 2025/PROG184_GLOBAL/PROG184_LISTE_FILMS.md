@@ -33,19 +33,18 @@
 ## Cinéma bis (10)
 
   * Cauchemars naissent la nuit (Les)  
-  * Dernier survivant (Le)  
   * Fantôme, ma femme et moi = La lycéenne épouse un dingue (Le)  
   * Grande java (La)  
+  * Inassouvies (Les)  
+  * Invasion U.S.A.  
   * Los Angeles 2013  
   * New York 1997  
   * Passagers de l'angoisse (Les)  
   * Pétomane (Le)  
-  * Plus beau que moi, tu meurs  
-  * undefined
+  * Plus beau que moi, tu meurs
 
-## Classiques et raretés (3)
+## Classiques et raretés (2)
 
-  * Body Double  
   * Devil in Miss Jones (The)  
   * Gilda
 
@@ -154,12 +153,12 @@
   * Cavaliers (Les)  
   * Dead Bang  
   * Extravagant Homme de mer (L')  
-  * French connection 2  
+  * French Connection 2  
   * Grand Prix  
   * Hire : The Ambush  
   * Homme de Kiev (L')  
   * Iceman Cometh (The)  
-  * Ile du docteur Moreau (L')  
+  * Île du docteur Moreau (L')  
   * Impossible Objet (L')  
   * Mon père, cet étranger  
   * Opération diabolique (L')  
@@ -195,11 +194,12 @@
   * Sweet Dreams  
   * We Are the Lambeth Boys
 
-## Le cinéma d'apocalypse, 25 indispensables (22)
+## Le cinéma d'apocalypse, 25 indispensables (23)
 
   * 4h44, dernier jour sur terre  
   * Cheval de Turin (Le)  
   * Choc des mondes (Le)  
+  * Deep Impact  
   * Dernier rivage  
   * Derniers jours du monde (Les)  
   * Dr Folamour  
@@ -350,7 +350,7 @@
   * Chevaux de feu (Les)  
   * Dumka  
   * Fresques de Kiev (Les)  
-  * Hagop hovnatanian  
+  * Hagop Hovnatanian  
   * Légende de la forteresse de Souram (La)  
   * Mains d'or (Les)  
   * Paradjanov, le dernier collage  
