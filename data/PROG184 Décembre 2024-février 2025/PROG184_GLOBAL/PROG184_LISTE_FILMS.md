@@ -46,10 +46,34 @@
   * Pétomane (Le)  
   * Plus beau que moi, tu meurs
 
-## Classiques et raretés (2)
+## Classiques et raretés (26)
 
+  * Amadeus (Director's Cut)  
+  * Ange des maudits (L')  
+  * Body Double  
+  * Canine  
+  * Chant du Missouri (Le)  
+  * Chantage  
+  * Conte cruel  
+  * Convoi (Le)  
+  * Dame du vendredi (La)  
   * Devil in Miss Jones (The)  
-  * Gilda
+  * Gilda  
+  * Ils vont tous bien  
+  * Justice des hommes (La)  
+  * Lady for a Night  
+  * Maison et le monde (La)  
+  * Napoléon vu par Abel Gance (partie 1)  
+  * Napoléon vu par Abel Gance (partie 2)  
+  * Parapluies de Cherbourg (Les)  
+  * Péché mortel  
+  * Pépé le Moko  
+  * Portrait de Dorian Gray (Le)  
+  * Sa vie  
+  * Sur la piste des Mohawks  
+  * Surcouf  
+  * Tasio  
+  * Torso
 
 ## David Cronenberg (36)
 
@@ -108,12 +132,14 @@
   * Todo modo  
   * Un coin tranquille à la campagne
 
-## Fenêtre sur les collections (8)
+## Fenêtre sur les collections (10)
 
   * Animoses  
   * Arthur à la campagne  
   * Chicken Western  
+  * Enfant du carnaval (L')  
   * Escargots (Les)  
+  * Kean ou Désordre et génie  
   * Montagne qui accouche (La)  
   * Petit soldat (Le)  
   * Sa dernière culotte  

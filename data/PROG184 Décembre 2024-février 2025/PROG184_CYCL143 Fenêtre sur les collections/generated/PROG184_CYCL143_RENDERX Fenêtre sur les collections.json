@@ -3,6 +3,66 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Ivan Mosjoukine",
+      "items": [
+        {
+          "idFilm": 154950,
+          "content": [
+            {
+              "idFilm": 154950,
+              "ordre": 1,
+              "titre": "Enfant du carnaval",
+              "art": "L'",
+              "realisateurs": "Ivan Mosjoukine",
+              "pays": "France",
+              "annee": 1921,
+              "duree": 81,
+              "version": "INT. FR.",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137146,
+              "dateHeure": "2024-12-06T18:30:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Myriam Juan, Valérie Pozner et Véronique Rossignol"
+            }
+          ]
+        },
+        {
+          "idFilm": 51688,
+          "content": [
+            {
+              "idFilm": 51688,
+              "ordre": 1,
+              "titre": "Kean ou Désordre et génie",
+              "realisateurs": "Alexandre Volkoff",
+              "pays": "France",
+              "annee": 1924,
+              "duree": 140,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "generique": [
+                "Ivan Mosjoukine",
+                "Nicolas Koline",
+                "Nathalie Lissenko"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185015,
+              "dateHeure": "2024-12-06T20:30:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Myriam Juan, Valérie Pozner et Véronique Rossignol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Jacques Colombat, un petit vélo dans la tête",
       "items": [
         {
@@ -130,5 +190,18 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "L'Enfant du carnaval",
+        "mention": "par Myriam Juan, Valérie Pozner et Véronique Rossignol",
+        "dateHeure": "2024-12-06T18:30:00"
+      },
+      {
+        "titreFilms": "Kean ou Désordre et génie",
+        "mention": "par Myriam Juan, Valérie Pozner et Véronique Rossignol",
+        "dateHeure": "2024-12-06T20:30:00"
+      }
+    ]
+  }
 }

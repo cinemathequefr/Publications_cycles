@@ -1,19 +1,234 @@
 {
   "data": [
     {
-      "titreSousCycle": "Les films",
+      "titreSousCycle": "Nouvelles restaurations",
       "tri": 4,
       "items": [
         {
+          "idSeance": 185018,
+          "ordre": 1,
+          "dateHeure": "2024-11-29T20:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 195,
+          "idCategorie": 3642,
+          "idEvenement": 31647,
+          "typeEvenement": 13,
+          "idFilm": 29749,
+          "titre": "Amadeus (Director's Cut)",
+          "titreVo": "Amadeus",
+          "realisateurs": "Milos Forman",
+          "annee": 1984,
+          "pays": "États-Unis",
+          "duree": 158,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Tom Hulce",
+            "F. Murray Abraham",
+            "Elizabeth Berridge",
+            "Jeffrey Jones"
+          ],
+          "adaptation": "D'après la pièce _Amadeus_ de Peter Shaffer.",
+          "textes": []
+        },
+        {
+          "idSeance": 145262,
+          "ordre": 1,
+          "dateHeure": "2024-11-28T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 3642,
+          "idEvenement": 31538,
+          "typeEvenement": 13,
+          "idFilm": 31600,
+          "titre": "Body Double",
+          "realisateurs": "Brian De Palma",
+          "annee": 1984,
+          "pays": "États-Unis",
+          "duree": 114,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Craig Wasson",
+            "Melanie Griffith",
+            "Gregg Henry"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 145279,
+          "ordre": 1,
+          "dateHeure": "2024-11-30T17:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3642,
+          "idEvenement": 31696,
+          "typeEvenement": 13,
+          "idFilm": 108373,
+          "titre": "Canine",
+          "titreVo": "Kynodontas",
+          "titreNx": "Κυνόδοντας",
+          "realisateurs": "Yorgos Lanthimos",
+          "annee": 2009,
+          "pays": "Grèce",
+          "duree": 96,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Christos Stergioglou",
+            "Angeliki Papoulia"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 145272,
+          "ordre": 1,
+          "dateHeure": "2024-12-01T18:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3642,
+          "idEvenement": 31694,
+          "typeEvenement": 13,
+          "idFilm": 54627,
+          "titre": "Chantage",
+          "titreVo": "Blackmail",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1929,
+          "pays": "Grande-Bretagne",
+          "duree": 85,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Anny Ondra",
+            "John Longden",
+            "Sara Allgood"
+          ],
+          "adaptation": "D'après la pièce _Blackmail_ de Charles Bennett.",
+          "textes": []
+        },
+        {
+          "idSeance": 136879,
+          "ordre": 1,
+          "dateHeure": "2024-11-27T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 3642,
+          "idEvenement": 31540,
+          "typeEvenement": 13,
+          "idFilm": 50240,
+          "titre": "Conte cruel",
+          "realisateurs": "Gaston Modot",
+          "annee": 1928,
+          "pays": "France",
+          "duree": 30,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Gaston Modot"
+          ],
+          "adaptation": "D'après la nouvelle _La Torture par l'espérance_ de Villiers de l'Isle-Adam.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "L'évasion d'un homme, sous l'Inquisition espagnole. Unique réalisation de l'acteur Gaston Modot, le récit impitoyable du conte de Villiers de L'Isle-Adam se pare des plus beaux atours du fantastique, dans les décors naturels du Mont Saint-Michel."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration 4K par la Cinémathèque française en 2023 au laboratoire Hiventy, à partir du négatif original issu de ses collections."
+            }
+          ]
+        },
+        {
+          "idSeance": 145282,
+          "ordre": 1,
+          "dateHeure": "2024-12-01T19:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3642,
+          "idEvenement": 31693,
+          "typeEvenement": 13,
+          "idFilm": 35690,
+          "art": "Le",
+          "titre": "Convoi",
+          "titreVo": "Convoy",
+          "realisateurs": "Sam Peckinpah",
+          "annee": 1977,
+          "pays": "États-Unis",
+          "duree": 110,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Kris Kristofferson",
+            "Ali MacGraw",
+            "Ernest Borgnine",
+            "Burt Young",
+            "Seymour Cassel"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 145266,
+          "ordre": 1,
+          "dateHeure": "2024-11-29T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3642,
+          "idEvenement": 31537,
+          "typeEvenement": 13,
+          "idFilm": 33172,
+          "art": "La",
+          "titre": "Dame du vendredi",
+          "titreVo": "His Girl Friday",
+          "realisateurs": "Howard Hawks",
+          "annee": 1940,
+          "pays": "États-Unis",
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Cary Grant",
+            "Rosalind Russell",
+            "Gene Lockhart"
+          ],
+          "adaptation": "D'après la pièce _The Front Page_ de Ben Hecht et Charles MacArthur.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Une brillante comédie de mœurs, chef-d'œuvre du timing comique. Dialogues hilarants et joutes verbales se succèdent à un débit de mitraillette, et Hawks compose un hommage au cinéma muet, doublé d'une critique des médias. En pleine guerre des sexes, il révèle la piquante Rosalind Russell, qui tient tête à Cary Grant et Ralph Bellamy."
+            }
+          ]
+        },
+        {
           "idSeance": 184999,
           "ordre": 1,
-          "dateHeure": "2024-11-30T22:00:00",
+          "dateHeure": "2024-11-30T22:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 105,
-          "idCategorie": 3474,
+          "idCategorie": 3642,
           "idEvenement": 31539,
           "typeEvenement": 13,
           "idFilm": 154976,
@@ -37,7 +252,7 @@
           ],
           "dureeSeance": 135,
           "mention": "Ouverture de la rétrospective",
-          "idCategorie": 3474,
+          "idCategorie": 3642,
           "idEvenement": 31652,
           "typeEvenement": 13,
           "idFilm": 45165,
@@ -54,11 +269,532 @@
             "George MacReady"
           ],
           "textes": []
+        },
+        {
+          "idSeance": 185023,
+          "ordre": 1,
+          "dateHeure": "2024-11-30T17:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 3642,
+          "idEvenement": 31695,
+          "typeEvenement": 13,
+          "idFilm": 42749,
+          "titre": "Ils vont tous bien",
+          "titreVo": "Stanno tutti bene",
+          "realisateurs": "Giuseppe Tornatore",
+          "annee": 1990,
+          "pays": "Italie-France",
+          "duree": 120,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Marcello Mastroianni",
+            "Michèle Morgan",
+            "Valeria Cavalli"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 145265,
+          "ordre": 1,
+          "dateHeure": "2024-11-29T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 3642,
+          "idEvenement": 31732,
+          "typeEvenement": 13,
+          "idFilm": 36646,
+          "art": "La",
+          "titre": "Justice des hommes",
+          "artVo": "The",
+          "titreVo": "Talk of the Town",
+          "realisateurs": "George Stevens",
+          "annee": 1942,
+          "pays": "États-Unis",
+          "duree": 118,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Cary Grant",
+            "Jean Arthur",
+            "Ronald Colman"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 185019,
+          "ordre": 1,
+          "dateHeure": "2024-11-29T15:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3642,
+          "idEvenement": 31653,
+          "typeEvenement": 13,
+          "idFilm": 67602,
+          "titre": "Lady for a Night",
+          "realisateurs": "Leigh Jason",
+          "annee": 1941,
+          "pays": "États-Unis",
+          "duree": 87,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Joan Blondell",
+            "John Wayne",
+            "Ray Middleton"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 145281,
+          "ordre": 1,
+          "dateHeure": "2024-12-01T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 165,
+          "idCategorie": 3642,
+          "idEvenement": 31644,
+          "typeEvenement": 13,
+          "idFilm": 44713,
+          "art": "La",
+          "titre": "Maison et le monde",
+          "titreVo": "Ghare baire",
+          "titreNx": "ঘরে-বাইরে",
+          "realisateurs": "Satyajit Ray",
+          "annee": 1984,
+          "pays": "Inde",
+          "duree": 140,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Soumitra Chatterjee",
+            "Victor Banerjee",
+            "Swatilekha Chatterjee"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 145268,
+          "ordre": 1,
+          "dateHeure": "2024-11-30T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 450,
+          "idCategorie": 3642,
+          "idEvenement": 31672,
+          "typeEvenement": 13,
+          "idFilm": 154798,
+          "titre": "Napoléon vu par Abel Gance (partie 1)",
+          "realisateurs": "Abel Gance",
+          "annee": 1927,
+          "pays": "France",
+          "duree": 220,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Albert Dieudonné",
+            "Maryse Damia",
+            "Wladimir Roudenko"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées."
+            }
+          ]
+        },
+        {
+          "idSeance": 145268,
+          "ordre": 2,
+          "dateHeure": "2024-11-30T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 450,
+          "idCategorie": 3642,
+          "idEvenement": 31672,
+          "typeEvenement": 13,
+          "idFilm": 154797,
+          "titre": "Napoléon vu par Abel Gance (partie 2)",
+          "realisateurs": "Abel Gance",
+          "annee": 1927,
+          "pays": "France",
+          "duree": 205,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Wladimir Roudenko",
+            "Albert Dieudonné",
+            "Maryse Damia"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 185020,
+          "ordre": 1,
+          "dateHeure": "2024-11-30T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3642,
+          "idEvenement": 31697,
+          "typeEvenement": 13,
+          "idFilm": 48044,
+          "art": "Les",
+          "titre": "Parapluies de Cherbourg",
+          "realisateurs": "Jacques Demy",
+          "annee": 1964,
+          "pays": "France-RFA",
+          "duree": 91,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Catherine Deneuve",
+            "Nino Castelnuovo",
+            "Anne Vernon"
+          ],
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré par Ciné Tamaris avec le soutien du Festival de Cannes, du CNC, de la Ville de Cherbourg et de la Région Basse-Normandie."
+            }
+          ]
+        },
+        {
+          "idSeance": 145275,
+          "ordre": 1,
+          "dateHeure": "2024-11-28T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3642,
+          "idEvenement": 31692,
+          "typeEvenement": 13,
+          "idFilm": 48350,
+          "titre": "Pépé le Moko",
+          "realisateurs": "Julien Duvivier",
+          "annee": 1936,
+          "pays": "France",
+          "duree": 93,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Jean Gabin",
+            "Mireille Balin",
+            "Line Noro",
+            "Fréhel"
+          ],
+          "adaptation": "D'après le roman _Pépé le Moko_ de Roger d'Ashelbé.",
+          "textes": []
+        },
+        {
+          "idSeance": 145273,
+          "ordre": 1,
+          "dateHeure": "2024-12-01T20:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3642,
+          "idEvenement": 31531,
+          "typeEvenement": 13,
+          "idFilm": 30657,
+          "titre": "Sa vie",
+          "artVo": "The",
+          "titreVo": "Lady",
+          "realisateurs": "Frank Borzage",
+          "annee": 1925,
+          "pays": "États-Unis",
+          "duree": 85,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Norma Talmadge",
+            "Wallace MacDonald"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 136879,
+          "ordre": 2,
+          "dateHeure": "2024-11-27T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 3642,
+          "idEvenement": 31540,
+          "typeEvenement": 13,
+          "idFilm": 49973,
+          "titre": "Surcouf",
+          "realisateurs": "Luitz-Morat",
+          "annee": 1924,
+          "pays": "France",
+          "duree": 40,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Jean Angelo",
+            "Antonin Artaud",
+            "Jacqueline Blanc"
+          ],
+          "adaptation": "D'après le roman _Surcouf, roi des corsaires_ de Charles Cunat.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Feuilleton à succès de huit épisodes, retraçant les aventures du corsaire de Saint-Malo dans une version courte Pathé-Baby, avec Antonin Artaud."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration 4K par la Cinémathèque française en 2023, au laboiratoire Hiventy, à partir d'une copie de travail 35 mm de la version courte Pathé-Baby conservée dans ses collections, seul élément existant du film. Les intertitres ont été allongés à partir des flash-titres. La restauration numérique a fait l'objet d'une sauvegarde argentique."
+            }
+          ]
+        },
+        {
+          "idSeance": 137003,
+          "ordre": 1,
+          "dateHeure": "2024-11-30T15:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3642,
+          "idEvenement": 31654,
+          "typeEvenement": 13,
+          "idFilm": 43939,
+          "titre": "Tasio",
+          "realisateurs": "Montxo Armendáriz",
+          "annee": 1984,
+          "pays": "Espagne",
+          "duree": 96,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Patxi Bisquert"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 185022,
+          "ordre": 1,
+          "dateHeure": "2024-11-29T20:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3642,
+          "idEvenement": 31645,
+          "typeEvenement": 13,
+          "idFilm": 137133,
+          "titre": "Torso",
+          "artVo": "I",
+          "titreVo": "Corpi presentano tracce di violenza carnale",
+          "realisateurs": "Sergio Martino",
+          "annee": 1972,
+          "pays": "Italie",
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "DCP",
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Copies Technicolor vintage",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 145264,
+          "ordre": 1,
+          "dateHeure": "2024-11-28T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3631,
+          "idEvenement": 31691,
+          "typeEvenement": 13,
+          "idFilm": 34190,
+          "art": "L'",
+          "titre": "Ange des maudits",
+          "titreVo": "Rancho Notorious",
+          "realisateurs": "Fritz Lang",
+          "annee": 1952,
+          "pays": "États-Unis",
+          "duree": 89,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Marlene Dietrich",
+            "Arthur Kennedy",
+            "Mel Ferrer"
+          ],
+          "adaptation": "D'après le roman _Gunsight Whitman_ de Silvia Richards.",
+          "textes": []
+        },
+        {
+          "idSeance": 145271,
+          "ordre": 1,
+          "dateHeure": "2024-12-01T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 3631,
+          "idEvenement": 31689,
+          "typeEvenement": 13,
+          "idFilm": 44951,
+          "art": "Le",
+          "titre": "Chant du Missouri",
+          "titreVo": "Meet Me in St. Louis",
+          "realisateurs": "Vincente Minnelli",
+          "annee": 1944,
+          "pays": "États-Unis",
+          "duree": 113,
+          "version": "VO",
+          "format": "35 mm",
+          "generique": [
+            "Judy Garland",
+            "Margaret O'Brien",
+            "Mary Astor"
+          ],
+          "adaptation": "D'après le roman _Meet Me in St. Louis_ de Sally Benson.",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Les saisons passent et toutes sont plus belles les unes que les autres à Saint-Louis, cette ville du Missouri, au centre des États-Unis, où vit la famille Smith. Mais voilà, c'est peut-être la dernière année passée ici, puisque papa Smith doit partir travailler à New York. Plongée au cœur de la maison d'une famille nombreuse, virevoltante et farfelue, où se mêlent les farces et les émotions les plus vives."
+            }
+          ]
+        },
+        {
+          "idSeance": 145280,
+          "ordre": 1,
+          "dateHeure": "2024-11-30T20:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3631,
+          "idEvenement": 31690,
+          "typeEvenement": 13,
+          "idFilm": 34496,
+          "art": "Le",
+          "titre": "Portrait de Dorian Gray",
+          "artVo": "The",
+          "titreVo": "Picture of Dorian Gray",
+          "realisateurs": "Albert Lewin",
+          "annee": 1945,
+          "pays": "États-Unis",
+          "duree": 109,
+          "version": "VO",
+          "format": "35 mm",
+          "generique": [
+            "George Sanders",
+            "Angela Lansbury",
+            "Peter Lawford"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 145276,
+          "ordre": 1,
+          "dateHeure": "2024-11-29T18:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3631,
+          "idEvenement": 31688,
+          "typeEvenement": 13,
+          "idFilm": 66087,
+          "titre": "Péché mortel",
+          "titreVo": "Leave Her to Heaven",
+          "realisateurs": "John M. Stahl",
+          "annee": 1947,
+          "pays": "États-Unis",
+          "duree": 110,
+          "version": "VO",
+          "format": "35 mm",
+          "generique": [
+            "Gene Tierney",
+            "Cornel Wilde",
+            "Jeanne Crain",
+            "Vincent Price"
+          ],
+          "adaptation": "D'après le roman _Leave Her to Heaven_ de Ben Ames Williams.",
+          "textes": []
+        },
+        {
+          "idSeance": 145274,
+          "ordre": 1,
+          "dateHeure": "2024-11-28T15:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3631,
+          "idEvenement": 31687,
+          "typeEvenement": 13,
+          "idFilm": 32334,
+          "titre": "Sur la piste des Mohawks",
+          "titreVo": "Drums Along the Mohawk",
+          "realisateurs": "John Ford",
+          "annee": 1939,
+          "pays": "États-Unis",
+          "duree": 103,
+          "version": "VO",
+          "format": "35 mm",
+          "generique": [
+            "Claudette Colbert",
+            "Henry Fonda",
+            "Edna May Oliver"
+          ],
+          "adaptation": "D'après le roman _Drums Along the Mohawk_ de Walter D. Edmonds.",
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Copie en Technicolor original conservée par la Cinémathèque française."
+            }
+          ]
         }
       ],
       "textes": []
     }
   ],
-  "textes": [],
+  "textes": [
+    {
+      "typeTexte": 263,
+      "texte": "Library of Congress"
+    }
+  ],
   "info": {}
 }
