@@ -63,7 +63,7 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Jacques Colombat, un petit vélo dans la tête",
+      "titreSousCycle": "Jacques Colombat, en roue libre",
       "items": [
         {
           "idEvenement": 31416,
@@ -143,7 +143,8 @@
             {
               "idSeance": 184818,
               "dateHeure": "2025-01-10T18:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Noémie Jean, Élodie Imbeau et Jacques Colombat"
             }
           ]
         },
@@ -183,7 +184,123 @@
             {
               "idSeance": 138076,
               "dateHeure": "2025-01-10T20:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Noémie Jean, Élodie Imbeau et Jacques Colombat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Mortelle Saint-Valentin avec Edgar Poe",
+      "items": [
+        {
+          "idEvenement": 31578,
+          "content": [
+            {
+              "idFilm": 154985,
+              "ordre": 1,
+              "titre": "Rachmaninoff's Prelude",
+              "realisateurs": "Castleton Knight",
+              "pays": "Grande-Bretagne",
+              "annee": 1927,
+              "duree": 7,
+              "version": "INT. ANG.",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 154986,
+              "ordre": 2,
+              "titre": "Fall of the House of Usher",
+              "art": "The",
+              "realisateurs": "Melville Webber, James Sibley Watson",
+              "pays": "États-Unis",
+              "annee": 1928,
+              "duree": 13,
+              "version": "",
+              "format": "16 mm"
+            },
+            {
+              "idFilm": 154990,
+              "ordre": 3,
+              "titre": "Cœur révélateur",
+              "art": "Le",
+              "realisateurs": "Jean Faurez",
+              "pays": "France",
+              "annee": 1949,
+              "duree": 15,
+              "version": "VF",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 154991,
+              "ordre": 4,
+              "titre": "Murders in the Rue Morgue",
+              "realisateurs": "Robert Florey",
+              "pays": "États-Unis",
+              "annee": 1932,
+              "duree": 61,
+              "version": "VOSTF",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185016,
+              "dateHeure": "2025-02-14T18:30:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Mehdi Taïbi et Emmanuelle Berthault"
+            }
+          ]
+        },
+        {
+          "idEvenement": 31583,
+          "content": [
+            {
+              "idFilm": 154988,
+              "ordre": 1,
+              "titre": "Silence",
+              "realisateurs": "Madeline Tourtelot",
+              "pays": "États-Unis",
+              "annee": 1955,
+              "duree": 11,
+              "version": "VO",
+              "format": "16 mm"
+            },
+            {
+              "idFilm": 154989,
+              "ordre": 2,
+              "titre": "Tell-Tale Heart",
+              "art": "The",
+              "realisateurs": "Ted Parmelee",
+              "pays": "États-Unis",
+              "annee": 1953,
+              "duree": 7,
+              "version": "VOSTF",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 56557,
+              "ordre": 3,
+              "titre": "Chat noir",
+              "art": "Le",
+              "titreVo": "Gatto nero",
+              "artVo": "Il",
+              "realisateurs": "Lucio Fulci",
+              "pays": "Italie",
+              "annee": 1981,
+              "duree": 92,
+              "version": "VF",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185017,
+              "dateHeure": "2025-02-14T20:45:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Mehdi Taïbi et Emmanuelle Berthault"
             }
           ]
         }
@@ -201,6 +318,26 @@
         "titreFilms": "Kean ou Désordre et génie",
         "mention": "par Myriam Juan, Valérie Pozner et Véronique Rossignol",
         "dateHeure": "2024-12-06T20:30:00"
+      },
+      {
+        "titreFilms": "La Montagne qui accouche / Les Escargots / Animoses / Le Petit soldat / Arthur à la campagne / Sky Scraping",
+        "mention": "par Noémie Jean, Élodie Imbeau et Jacques Colombat",
+        "dateHeure": "2025-01-10T18:00:00"
+      },
+      {
+        "titreFilms": "Chicken Western / Sa dernière culotte",
+        "mention": "par Noémie Jean, Élodie Imbeau et Jacques Colombat",
+        "dateHeure": "2025-01-10T20:00:00"
+      },
+      {
+        "titreFilms": "Rachmaninoff's Prelude / The Fall of the House of Usher / Le Cœur révélateur / Murders in the Rue Morgue",
+        "mention": "par Mehdi Taïbi et Emmanuelle Berthault",
+        "dateHeure": "2025-02-14T18:30:00"
+      },
+      {
+        "titreFilms": "Silence / The Tell-Tale Heart / Le Chat noir",
+        "mention": "par Mehdi Taïbi et Emmanuelle Berthault",
+        "dateHeure": "2025-02-14T20:45:00"
       }
     ]
   }

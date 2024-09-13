@@ -132,18 +132,25 @@
   * Todo modo  
   * Un coin tranquille à la campagne
 
-## Fenêtre sur les collections (10)
+## Fenêtre sur les collections (17)
 
   * Animoses  
   * Arthur à la campagne  
+  * Chat noir (Le)  
   * Chicken Western  
+  * Cœur révélateur (Le)  
   * Enfant du carnaval (L')  
   * Escargots (Les)  
+  * Fall of the House of Usher (The)  
   * Kean ou Désordre et génie  
   * Montagne qui accouche (La)  
+  * Murders in the Rue Morgue  
   * Petit soldat (Le)  
+  * Rachmaninoff's Prelude  
   * Sa dernière culotte  
-  * Sky Scraping
+  * Silence  
+  * Sky Scraping  
+  * Tell-Tale Heart (The)
 
 ## Griffith-Eisenstein, leçons de montage (8)
 
