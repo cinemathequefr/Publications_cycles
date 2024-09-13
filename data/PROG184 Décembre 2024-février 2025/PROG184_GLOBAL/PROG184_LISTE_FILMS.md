@@ -46,10 +46,11 @@
   * Pétomane (Le)  
   * Plus beau que moi, tu meurs
 
-## Classiques et raretés (26)
+## Classiques et raretés (29)
 
   * Amadeus (Director's Cut)  
   * Ange des maudits (L')  
+  * Annonces matrimoniales  
   * Body Double  
   * Canine  
   * Chant du Missouri (Le)  
@@ -58,6 +59,8 @@
   * Convoi (Le)  
   * Dame du vendredi (La)  
   * Devil in Miss Jones (The)  
+  * Ecce bombo  
+  * Freaks  
   * Gilda  
   * Ils vont tous bien  
   * Justice des hommes (La)  

@@ -2,7 +2,7 @@
   "data": [
     {
       "titreSousCycle": "Les films",
-      "tri": 4,
+      "tri": 1,
       "items": [
         {
           "idSeance": 185014,
@@ -225,33 +225,6 @@
           "textes": []
         },
         {
-          "idSeance": 139059,
-          "ordre": 1,
-          "dateHeure": "2025-02-16T14:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 180,
-          "idCategorie": 3621,
-          "idEvenement": 31643,
-          "typeEvenement": 13,
-          "idFilm": 154993,
-          "titre": "Furiosa : une saga Mad Max",
-          "realisateurs": "George Miller",
-          "annee": 2024,
-          "pays": "États-Unis-Australie",
-          "duree": 148,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Anya Taylor-Joy",
-            "Chris Hemsworth",
-            "Tom Burke"
-          ],
-          "textes": []
-        },
-        {
           "idSeance": 184957,
           "ordre": 1,
           "dateHeure": "2025-02-22T20:45:00",
@@ -300,121 +273,6 @@
           "generique": [
             "Rod Taylor",
             "Yvette Mimieux"
-          ],
-          "textes": []
-        },
-        {
-          "idSeance": 139044,
-          "ordre": 1,
-          "dateHeure": "2025-02-15T15:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 3621,
-          "idEvenement": 31589,
-          "typeEvenement": 13,
-          "idFilm": 35153,
-          "titre": "Mad Max",
-          "realisateurs": "George Miller",
-          "annee": 1977,
-          "pays": "Australie",
-          "duree": 85,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Mel Gibson",
-            "Joanne Samuel",
-            "Hugh Keays-Byrne"
-          ],
-          "textes": []
-        },
-        {
-          "idSeance": 139045,
-          "ordre": 1,
-          "dateHeure": "2025-02-15T17:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3621,
-          "idEvenement": 31590,
-          "typeEvenement": 13,
-          "idFilm": 49663,
-          "titre": "Mad Max 2 : Le Défi",
-          "titreVo": "Mad Max 2",
-          "realisateurs": "George Miller",
-          "annee": 1981,
-          "pays": "Australie",
-          "duree": 96,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Mel Gibson",
-            "Bruce Spence",
-            "Vernon Wells"
-          ],
-          "textes": []
-        },
-        {
-          "idSeance": 139060,
-          "ordre": 1,
-          "dateHeure": "2025-02-16T18:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 150,
-          "idCategorie": 3621,
-          "idEvenement": 31591,
-          "typeEvenement": 13,
-          "idFilm": 126882,
-          "titre": "Mad Max : Fury Road",
-          "realisateurs": "George Miller",
-          "annee": 2012,
-          "pays": "Australie-États-Unis",
-          "duree": 120,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Tom Hardy",
-            "Charlize Theron",
-            "Nicholas Hoult"
-          ],
-          "textes": [
-            {
-              "typeTexte": 99,
-              "texte": "Version « black & chrome »"
-            }
-          ]
-        },
-        {
-          "idSeance": 184895,
-          "ordre": 1,
-          "dateHeure": "2025-02-15T20:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 30,
-          "idCategorie": 3621,
-          "idEvenement": 31592,
-          "typeEvenement": 13,
-          "idFilm": 55598,
-          "titre": "Mad Max au-delà du Dôme du Tonnerre",
-          "titreVo": "Mad Max Beyond Thunderdome",
-          "realisateurs": "George Miller, George Ogilvie",
-          "annee": 1984,
-          "pays": "Australie",
-          "duree": 0,
-          "version": "VOSTF",
-          "format": "35 mm",
-          "generique": [
-            "Mel Gibson",
-            "Bruce Spence",
-            "Tina Turner"
           ],
           "textes": []
         },
@@ -730,8 +588,157 @@
       "textes": []
     },
     {
+      "titreSousCycle": "Mad Max",
+      "tri": 1,
+      "items": [
+        {
+          "idSeance": 139059,
+          "ordre": 1,
+          "dateHeure": "2025-02-16T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 180,
+          "idCategorie": 3643,
+          "idEvenement": 31643,
+          "typeEvenement": 13,
+          "idFilm": 154993,
+          "titre": "Furiosa : une saga Mad Max",
+          "realisateurs": "George Miller",
+          "annee": 2024,
+          "pays": "États-Unis-Australie",
+          "duree": 148,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Anya Taylor-Joy",
+            "Chris Hemsworth",
+            "Tom Burke"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 139044,
+          "ordre": 1,
+          "dateHeure": "2025-02-15T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3643,
+          "idEvenement": 31589,
+          "typeEvenement": 13,
+          "idFilm": 35153,
+          "titre": "Mad Max",
+          "realisateurs": "George Miller",
+          "annee": 1977,
+          "pays": "Australie",
+          "duree": 85,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Mel Gibson",
+            "Joanne Samuel",
+            "Hugh Keays-Byrne"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 139045,
+          "ordre": 1,
+          "dateHeure": "2025-02-15T17:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3643,
+          "idEvenement": 31590,
+          "typeEvenement": 13,
+          "idFilm": 49663,
+          "titre": "Mad Max 2 : Le Défi",
+          "titreVo": "Mad Max 2",
+          "realisateurs": "George Miller",
+          "annee": 1981,
+          "pays": "Australie",
+          "duree": 96,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Mel Gibson",
+            "Bruce Spence",
+            "Vernon Wells"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 139060,
+          "ordre": 1,
+          "dateHeure": "2025-02-16T18:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 3643,
+          "idEvenement": 31591,
+          "typeEvenement": 13,
+          "idFilm": 126882,
+          "titre": "Mad Max : Fury Road",
+          "realisateurs": "George Miller",
+          "annee": 2012,
+          "pays": "Australie-États-Unis",
+          "duree": 120,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult"
+          ],
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Version « black & chrome »"
+            }
+          ]
+        },
+        {
+          "idSeance": 184895,
+          "ordre": 1,
+          "dateHeure": "2025-02-15T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 30,
+          "idCategorie": 3643,
+          "idEvenement": 31592,
+          "typeEvenement": 13,
+          "idFilm": 55598,
+          "titre": "Mad Max au-delà du Dôme du Tonnerre",
+          "titreVo": "Mad Max Beyond Thunderdome",
+          "realisateurs": "George Miller, George Ogilvie",
+          "annee": 1984,
+          "pays": "Australie",
+          "duree": 0,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Mel Gibson",
+            "Bruce Spence",
+            "Tina Turner"
+          ],
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
       "titreSousCycle": "Rencontres et conférences",
-      "tri": 4,
+      "tri": 1,
       "items": [
         {
           "idSeance": 184900,
