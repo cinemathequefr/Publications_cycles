@@ -388,7 +388,7 @@
   * Andriech  
   * Arabesque sur le thème de Pirosmani  
   * Chevaux de feu (Les)  
-  * Dumka  
+  * Doumka  
   * Fresques de Kiev (Les)  
   * Hagop Hovnatanian  
   * Légende de la forteresse de Souram (La)  
