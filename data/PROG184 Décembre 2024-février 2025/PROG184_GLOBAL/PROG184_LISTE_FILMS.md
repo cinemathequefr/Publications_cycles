@@ -46,7 +46,7 @@
   * Pétomane (Le)  
   * Plus beau que moi, tu meurs
 
-## Classiques et raretés (29)
+## Classiques et raretés (30)
 
   * Amadeus (Director's Cut)  
   * Ange des maudits (L')  
@@ -73,6 +73,7 @@
   * Pépé le Moko  
   * Portrait de Dorian Gray (Le)  
   * Sa vie  
+  * Sans rien savoir d'elle  
   * Sur la piste des Mohawks  
   * Surcouf  
   * Tasio  
@@ -253,7 +254,7 @@
   * Monde, la chair et le diable (Le)  
   * Mystère Andromède (Le)  
   * Planète des singes (La)  
-  * Planète des singes : Les origines (La)  
+  * Planète des singes : Les Origines (La)  
   * Quand la terre s'entrouvrira  
   * Snowpiercer, le transperceneige  
   * Stalker  

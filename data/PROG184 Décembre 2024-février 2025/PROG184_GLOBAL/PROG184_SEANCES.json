@@ -82,6 +82,30 @@
     "hashEvenement": "f45165"
   },
   {
+    "idSeance": 136880,
+    "idEvenement": 31740,
+    "dateHeure": "2024-11-27T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Classiques et raretés",
+        "Nouvelles restaurations"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 60069,
+        "titre": "Sans rien savoir d'elle",
+        "realisateurs": "Luigi Comencini",
+        "annee": 1968,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f60069"
+  },
+  {
     "idSeance": 145263,
     "idEvenement": 31691,
     "dateHeure": "2024-11-28T14:30:00",
@@ -105,30 +129,6 @@
       }
     ],
     "hashEvenement": "f34190"
-  },
-  {
-    "idSeance": 185030,
-    "idEvenement": 31738,
-    "dateHeure": "2024-11-28T15:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Classiques et raretés",
-        "Nouvelles restaurations"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 42672,
-        "titre": "Annonces matrimoniales",
-        "realisateurs": "Antonio Pietrangeli",
-        "annee": 1963,
-        "duree": 112,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f42672"
   },
   {
     "idSeance": 185026,
@@ -274,7 +274,7 @@
   {
     "idSeance": 145265,
     "idEvenement": 31732,
-    "dateHeure": "2024-11-29T15:00:00",
+    "dateHeure": "2024-11-29T14:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -299,7 +299,7 @@
   {
     "idSeance": 185028,
     "idEvenement": 31696,
-    "dateHeure": "2024-11-29T15:30:00",
+    "dateHeure": "2024-11-29T15:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -368,6 +368,30 @@
       }
     ],
     "hashEvenement": "f66087"
+  },
+  {
+    "idSeance": 136960,
+    "idEvenement": 31738,
+    "dateHeure": "2024-11-29T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Classiques et raretés",
+        "Nouvelles restaurations"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42672,
+        "titre": "Annonces matrimoniales",
+        "realisateurs": "Antonio Pietrangeli",
+        "annee": 1963,
+        "duree": 112,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f42672"
   },
   {
     "idSeance": 185018,
@@ -4998,7 +5022,7 @@
         "annee": 1955,
         "duree": 100,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f35812"
@@ -5340,7 +5364,7 @@
         "idFilm": 56844,
         "titre": "Frissons",
         "realisateurs": "David Cronenberg",
-        "annee": 1974,
+        "annee": 1975,
         "duree": 87,
         "version": "VO",
         "format": "35 mm"
@@ -5412,7 +5436,7 @@
         "idFilm": 55780,
         "titre": "Rage",
         "realisateurs": "David Cronenberg",
-        "annee": 1976,
+        "annee": 1977,
         "duree": 91,
         "version": "VOSTF",
         "format": "35 mm"
@@ -5460,7 +5484,9 @@
         "titre": "Dis-moi que tu m'aimes, Junie Moon",
         "realisateurs": "Otto Preminger",
         "annee": 1969,
-        "duree": 113
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f34889"
@@ -5528,7 +5554,7 @@
         "idFilm": 52912,
         "titre": "Chromosome 3",
         "realisateurs": "David Cronenberg",
-        "annee": 1978,
+        "annee": 1979,
         "duree": 92,
         "version": "VOSTF",
         "format": "DCP"
@@ -5576,7 +5602,7 @@
         "idFilm": 39040,
         "titre": "Scanners",
         "realisateurs": "David Cronenberg",
-        "annee": 1979,
+        "annee": 1981,
         "duree": 103,
         "version": "VOSTF",
         "format": "DCP"
@@ -5648,7 +5674,7 @@
         "idFilm": 38946,
         "titre": "Videodrome",
         "realisateurs": "David Cronenberg",
-        "annee": 1981,
+        "annee": 1983,
         "duree": 87,
         "version": "VOSTF",
         "format": "DCP"
@@ -5724,7 +5750,7 @@
         "idFilm": 96665,
         "titre": "A History of Violence",
         "realisateurs": "David Cronenberg",
-        "annee": 2004,
+        "annee": 2005,
         "duree": 95,
         "version": "VOSTF",
         "format": "35 mm"
@@ -5803,7 +5829,7 @@
         "idFilm": 79085,
         "titre": "Spider",
         "realisateurs": "David Cronenberg",
-        "annee": 2001,
+        "annee": 2002,
         "duree": 98,
         "version": "VOSTF",
         "format": "35 mm"
@@ -5899,7 +5925,7 @@
         "idFilm": 59968,
         "titre": "Crash",
         "realisateurs": "David Cronenberg",
-        "annee": 1995,
+        "annee": 1996,
         "duree": 110,
         "version": "VOSTF",
         "format": "DCP"
@@ -5947,7 +5973,7 @@
         "idFilm": 64235,
         "titre": "eXistenZ",
         "realisateurs": "David Cronenberg",
-        "annee": 1998,
+        "annee": 1999,
         "duree": 96,
         "version": "VOSTF",
         "format": "35 mm"
@@ -5971,7 +5997,7 @@
         "idFilm": 39023,
         "titre": "Stereo",
         "realisateurs": "David Cronenberg",
-        "annee": 1968,
+        "annee": 1969,
         "duree": 63,
         "version": "VO",
         "format": "35 mm"
@@ -6336,7 +6362,7 @@
         "idFilm": 114845,
         "titre": "A Dangerous Method",
         "realisateurs": "David Cronenberg",
-        "annee": 2010,
+        "annee": 2011,
         "duree": 99,
         "version": "VOSTF",
         "format": "35 mm"
@@ -6419,7 +6445,7 @@
         "idFilm": 116210,
         "titre": "Cosmopolis",
         "realisateurs": "David Cronenberg",
-        "annee": 2011,
+        "annee": 2012,
         "duree": 108,
         "version": "VOSTF",
         "format": "DCP"
@@ -6443,7 +6469,7 @@
         "idFilm": 123191,
         "titre": "Maps to the Stars",
         "realisateurs": "David Cronenberg",
-        "annee": 2013,
+        "annee": 2014,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -6492,7 +6518,7 @@
         "titre": "Crimes du futur",
         "art": "Les",
         "realisateurs": "David Cronenberg",
-        "annee": 2021,
+        "annee": 2022,
         "duree": 107,
         "version": "VOSTF",
         "format": "DCP"
@@ -6580,6 +6606,7 @@
         "Courts métrages"
       ]
     ],
+    "titreEvenement": "Programme 1",
     "items": [
       {
         "idFilm": 85600,
@@ -6693,9 +6720,10 @@
     "cycle": [
       [
         "David Cronenberg",
-        "Films pour la télévision"
+        "Courts métrages"
       ]
     ],
+    "titreEvenement": "Programme 2",
     "items": [
       {
         "idFilm": 130504,
@@ -6801,7 +6829,10 @@
         "titre": "Extravagant Homme de mer",
         "art": "L'",
         "realisateurs": "John Frankenheimer",
-        "annee": 1967
+        "annee": 1967,
+        "duree": 80,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f68011"
@@ -7082,7 +7113,10 @@
         "titre": "Pacte Holcroft",
         "art": "Le",
         "realisateurs": "John Frankenheimer",
-        "annee": 1984
+        "annee": 1984,
+        "duree": 112,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f69041"
@@ -7562,7 +7596,10 @@
         "idFilm": 29707,
         "titre": "Year of the Gun – Une année de violence",
         "realisateurs": "John Frankenheimer",
-        "annee": 1990
+        "annee": 1990,
+        "duree": 111,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f29707"
@@ -7655,7 +7692,10 @@
         "titre": "Quatrième Guerre",
         "art": "La",
         "realisateurs": "John Frankenheimer",
-        "annee": 1990
+        "annee": 1990,
+        "duree": 91,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f89659"
@@ -7964,7 +8004,7 @@
     "items": [
       {
         "idFilm": 113578,
-        "titre": "Planète des singes : Les origines",
+        "titre": "Planète des singes : Les Origines",
         "art": "La",
         "realisateurs": "Rupert Wyatt",
         "annee": 2010,
