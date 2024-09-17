@@ -705,7 +705,7 @@
   {
     "idCategorie": 3452,
     "typeEvenement": 13,
-    "idEvenement": 31319,
+    "idEvenement": 31316,
     "idSeance": 139112,
     "dateHeure": "2025-02-19T18:00:00",
     "idSalle": [
@@ -715,8 +715,17 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 60163,
+        "idFilm": 89660,
         "ordre": 1,
+        "idSeance": 139112,
+        "idCopie": 28844,
+        "duree": 6,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 60163,
+        "ordre": 2,
         "idSeance": 139112,
         "idCopie": 28807,
         "duree": 96,
@@ -768,6 +777,15 @@
         "duree": 6,
         "version": "",
         "format": ""
+      },
+      {
+        "idFilm": 60163,
+        "ordre": 2,
+        "idSeance": 139191,
+        "idCopie": 28807,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },

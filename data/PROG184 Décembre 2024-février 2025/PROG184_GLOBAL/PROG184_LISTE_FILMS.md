@@ -193,10 +193,10 @@
   * Black Sunday  
   * Cavaliers (Les)  
   * Dead Bang  
-  * Extravagant Homme de mer (L')  
+  * Extraordinary Seaman (The)  
   * French Connection 2  
   * Grand Prix  
-  * Hire : The Ambush  
+  * Hire: Ambush (The)  
   * Homme de Kiev (L')  
   * Iceman Cometh (The)  
   * Île du docteur Moreau (L')  
@@ -235,7 +235,7 @@
   * Sweet Dreams  
   * We Are the Lambeth Boys
 
-## Le cinéma d'apocalypse, 25 indispensables (23)
+## Le cinéma d'apocalypse, 25 indispensables (22)
 
   * 4h44, dernier jour sur terre  
   * Cheval de Turin (Le)  
@@ -258,13 +258,12 @@
   * Planète des singes : Les Origines (La)  
   * Quand la terre s'entrouvrira  
   * Snowpiercer, le transperceneige  
-  * Stalker  
-  * Take Shelter
+  * Stalker
 
 ## Le cinéma d'horreur, 25 autres indispensables (25)
 
   * Au-delà (L')  
-  * Cabinet du Docteur Caligari (Le)  
+  * Cabinet du docteur Caligari (Le)  
   * Chasse du comte Zaroff (La)  
   * Chute de la maison Usher (La)  
   * Corps et le Fouet (Le)  
@@ -383,6 +382,13 @@
   * Un si doux visage  
   * Under Your Spell
 
+## Parlons cinéma... avec François Angelier (4)
+
+  * Association criminelle  
+  * Black Journal  
+  * Take Shelter  
+  * Une étrange affaire
+
 ## Sergueï Paradjanov (15)
 
   * Achik Kerib, conte d'un poète amoureux  
@@ -418,6 +424,6 @@
   * Ibis rouge (L')  
   * Indiscrétion (L')  
   * Ombre d'une chance (L')  
-  * Plein sud  
+  * Plein Sud  
   * Section spéciale  
   * Une affaire privée  

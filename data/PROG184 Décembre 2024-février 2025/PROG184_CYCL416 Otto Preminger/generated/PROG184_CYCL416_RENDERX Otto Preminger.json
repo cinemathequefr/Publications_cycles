@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-01-02T19:00:00",
-    "2025-01-26T18:30:00"
+    "2025-02-01T17:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -557,7 +557,7 @@
               "pays": "États-Unis",
               "annee": 1955,
               "duree": 119,
-              "version": "VOSTF",
+              "version": "VO",
               "format": "35 mm",
               "adaptation": "D'après le roman _The Man with the golden arm_ de Nelson Algren.",
               "generique": [
@@ -573,6 +573,11 @@
               "idSeance": 138073,
               "dateHeure": "2025-01-10T20:45:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 185056,
+              "dateHeure": "2025-01-29T19:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -603,6 +608,11 @@
               "idSeance": 184825,
               "dateHeure": "2025-01-17T20:15:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 185054,
+              "dateHeure": "2025-02-01T17:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -1039,6 +1049,11 @@
               "idSeance": 138113,
               "dateHeure": "2025-01-18T17:15:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 185051,
+              "dateHeure": "2025-01-30T19:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -1144,7 +1159,15 @@
                   "idSeance": 184823,
                   "typeAssoc": 118,
                   "dateHeure": "2025-01-12T14:30:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 184823,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 185052,
+                  "dateHeure": "2025-01-31T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film seul"
                 }
               ]
             }

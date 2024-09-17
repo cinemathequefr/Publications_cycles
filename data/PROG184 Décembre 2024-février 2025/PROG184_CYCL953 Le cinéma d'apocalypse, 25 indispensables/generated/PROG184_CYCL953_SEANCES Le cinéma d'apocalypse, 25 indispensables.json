@@ -22,7 +22,7 @@
         "format": "DCP"
       }
     ],
-    "mention": "Ouverture de la rétrospective"
+    "mention": "Ouverture de la rétrospective. Séance présentée par François Angelier"
   },
   {
     "idCategorie": 3621,
@@ -437,8 +437,8 @@
   {
     "idCategorie": 3621,
     "typeEvenement": 13,
-    "idEvenement": 31623,
-    "idSeance": 139246,
+    "idEvenement": 31616,
+    "idSeance": 185045,
     "dateHeure": "2025-02-23T17:00:00",
     "idSalle": [
       "HL",
@@ -447,11 +447,11 @@
     "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 115129,
+        "idFilm": 29267,
         "ordre": 1,
-        "idSeance": 139246,
-        "idCopie": 1157,
-        "duree": 116,
+        "idSeance": 185045,
+        "idCopie": 28705,
+        "duree": 121,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -529,32 +529,9 @@
   {
     "idCategorie": 3621,
     "typeEvenement": 13,
-    "idEvenement": 31616,
-    "idSeance": 185008,
-    "dateHeure": "2025-02-27T21:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 29267,
-        "ordre": 1,
-        "idSeance": 185008,
-        "idCopie": 28705,
-        "duree": 121,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3621,
-    "typeEvenement": 13,
     "idEvenement": 31626,
-    "idSeance": 185013,
-    "dateHeure": "2025-02-28T19:00:00",
+    "idSeance": 185044,
+    "dateHeure": "2025-02-27T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -564,11 +541,35 @@
       {
         "idFilm": 108687,
         "ordre": 1,
-        "idSeance": 185013,
+        "idSeance": 185044,
         "idCopie": 25088,
         "duree": 134,
         "version": "VO",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3621,
+    "typeEvenement": 13,
+    "idEvenement": 31623,
+    "idSeance": 185043,
+    "dateHeure": "2025-02-28T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 115129,
+        "ordre": 1,
+        "idSeance": 185043,
+        "idCopie": 1157,
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },

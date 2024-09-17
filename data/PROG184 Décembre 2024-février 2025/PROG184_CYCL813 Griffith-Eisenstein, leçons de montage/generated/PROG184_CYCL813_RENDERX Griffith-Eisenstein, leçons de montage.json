@@ -41,32 +41,59 @@
           ]
         },
         {
-          "idFilm": 40279,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 31646,
+              "content": [
+                {
+                  "idConf": 31646,
+                  "titre": "[Griffith-Eisenstein]",
+                  "sousTitre": "Conférence d'Ada Ackerman",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184898,
+                  "idSeanceAssoc": 139332,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-02-27T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 40279,
-              "ordre": 1,
-              "titre": "Cuirassé Potemkine",
-              "art": "Le",
-              "titreVo": "Bronenossets Potemkin",
-              "realisateurs": "Sergueï M. Eisenstein",
-              "pays": "URSS",
-              "annee": 1926,
-              "duree": 75,
-              "version": "VO",
-              "format": "DCP",
-              "generique": [
-                "Aleksandr Antonov",
-                "Vladimir Barski",
-                "Grigori Alexandrov"
+              "content": [
+                {
+                  "idFilm": 40279,
+                  "ordre": 1,
+                  "titre": "Cuirassé Potemkine",
+                  "art": "Le",
+                  "titreVo": "Bronenossets Potemkin",
+                  "realisateurs": "Sergueï M. Eisenstein",
+                  "pays": "URSS",
+                  "annee": 1926,
+                  "duree": 75,
+                  "version": "VO",
+                  "format": "DCP",
+                  "generique": [
+                    "Aleksandr Antonov",
+                    "Vladimir Barski",
+                    "Grigori Alexandrov"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 139332,
+                  "idSeanceAssoc": 139332,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-02-27T21:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 139332,
-              "dateHeure": "2025-02-27T21:30:00",
-              "idSalle": "HL"
             }
           ]
         },
@@ -241,30 +268,6 @@
               "idSeance": 184865,
               "dateHeure": "2025-03-01T19:00:00",
               "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Les films",
-      "items": [
-        {
-          "idConf": 31646,
-          "content": [
-            {
-              "idConf": 31646,
-              "titre": "[Griffith-Eisenstein]",
-              "sousTitre": "Conférence d'Ada Ackerman",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 184898,
-              "dateHeure": "2025-02-27T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }
