@@ -66,7 +66,7 @@
         {
           "idSeance": 185026,
           "ordre": 1,
-          "dateHeure": "2024-11-28T17:00:00",
+          "dateHeure": "2024-11-28T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -121,7 +121,7 @@
         {
           "idSeance": 145272,
           "ordre": 1,
-          "dateHeure": "2024-12-01T18:30:00",
+          "dateHeure": "2024-12-01T17:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -185,7 +185,7 @@
         {
           "idSeance": 145282,
           "ordre": 1,
-          "dateHeure": "2024-12-01T19:15:00",
+          "dateHeure": "2024-12-01T20:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -251,7 +251,7 @@
         {
           "idSeance": 184999,
           "ordre": 1,
-          "dateHeure": "2024-11-30T22:30:00",
+          "dateHeure": "2024-11-30T23:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -446,7 +446,7 @@
         {
           "idSeance": 145281,
           "ordre": 1,
-          "dateHeure": "2024-12-01T17:30:00",
+          "dateHeure": "2024-12-01T17:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -568,10 +568,10 @@
         {
           "idSeance": 145275,
           "ordre": 1,
-          "dateHeure": "2024-11-28T18:30:00",
+          "dateHeure": "2024-11-28T15:00:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "dureeSeance": 120,
           "idCategorie": 3642,
@@ -597,7 +597,7 @@
         {
           "idSeance": 145273,
           "ordre": 1,
-          "dateHeure": "2024-12-01T20:15:00",
+          "dateHeure": "2024-12-01T20:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -633,6 +633,34 @@
           "dureeSeance": 135,
           "idCategorie": 3642,
           "idEvenement": 31740,
+          "typeEvenement": 13,
+          "idFilm": 60069,
+          "titre": "Sans rien savoir d'elle",
+          "titreVo": "Senza sapere niente di lei",
+          "realisateurs": "Luigi Comencini",
+          "annee": 1968,
+          "pays": "Italie",
+          "duree": 96,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Philippe Leroy",
+            "Paola Pitagora",
+            "Sara Franchetti"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 185041,
+          "ordre": 1,
+          "dateHeure": "2024-12-01T16:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3642,
+          "idEvenement": 31742,
           "typeEvenement": 13,
           "idFilm": 60069,
           "titre": "Sans rien savoir d'elle",
@@ -744,12 +772,12 @@
       "tri": 2,
       "items": [
         {
-          "idSeance": 145263,
+          "idSeance": 185039,
           "ordre": 1,
-          "dateHeure": "2024-11-28T14:30:00",
+          "dateHeure": "2024-11-28T18:00:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 120,
           "idCategorie": 3631,
@@ -901,6 +929,40 @@
               "texte": "Copie en Technicolor original conservée par la Cinémathèque française."
             }
           ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Les films",
+      "tri": 2,
+      "items": [
+        {
+          "idSeance": 185040,
+          "ordre": 1,
+          "dateHeure": "2024-11-28T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 3474,
+          "idEvenement": 31741,
+          "typeEvenement": 13,
+          "idFilm": 91447,
+          "titre": "2046",
+          "realisateurs": "Wong Kar-Wai",
+          "annee": 2003,
+          "pays": "Chine",
+          "duree": 120,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Tony Chiu-Wai Leung",
+            "Li Gong",
+            "Takuya Kimura"
+          ],
+          "textes": []
         }
       ],
       "textes": []
