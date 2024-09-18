@@ -33,15 +33,13 @@
   * Classe tous risques  
   * Sur les quais
 
-## Cinéma bis (10)
+## Cinéma bis (8)
 
   * Cauchemars naissent la nuit (Les)  
   * Fantôme, ma femme et moi = La lycéenne épouse un dingue (Le)  
   * Grande java (La)  
   * Inassouvies (Les)  
   * Invasion U.S.A.  
-  * Los Angeles 2013  
-  * New York 1997  
   * Passagers de l'angoisse (Les)  
   * Pétomane (Le)  
   * Plus beau que moi, tu meurs
@@ -235,7 +233,7 @@
   * Sweet Dreams  
   * We Are the Lambeth Boys
 
-## Le cinéma d'apocalypse, 25 indispensables (22)
+## Le cinéma d'apocalypse, 25 indispensables (24)
 
   * 4h44, dernier jour sur terre  
   * Cheval de Turin (Le)  
@@ -246,6 +244,7 @@
   * Dr Folamour  
   * Fils de l'homme (Les)  
   * Furiosa : une saga Mad Max  
+  * Los Angeles 2013  
   * Machine à explorer le temps (La)  
   * Mad Max  
   * Mad Max 2 : Le Défi  
@@ -254,6 +253,7 @@
   * Melancholia  
   * Monde, la chair et le diable (Le)  
   * Mystère Andromède (Le)  
+  * New York 1997  
   * Planète des singes (La)  
   * Planète des singes : Les Origines (La)  
   * Quand la terre s'entrouvrira  
@@ -424,6 +424,6 @@
   * Ibis rouge (L')  
   * Indiscrétion (L')  
   * Ombre d'une chance (L')  
-  * Plein Sud  
+  * Plein sud  
   * Section spéciale  
   * Une affaire privée  
