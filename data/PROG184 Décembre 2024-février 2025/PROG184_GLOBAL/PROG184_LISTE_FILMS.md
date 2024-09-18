@@ -207,16 +207,16 @@
   * Pays de la violence (Le)  
   * Piège fatal  
   * Prisonnier d'Alcatraz (Le)  
-  * Prophecy – Le Monstre  
+  * Prophecy : Le Monstre  
   * Quatrième Guerre (La)  
-  * Refroidi à 99 %  
+  * Refroidi à 99%  
   * Ronin  
   * Sept jours en mai  
   * Sur le chemin de la guerre  
   * Temps du châtiment (Le)  
   * Train (Le)  
   * Un crime dans la tête  
-  * Year of the Gun – Une année de violence
+  * Year of the Gun : L'Année de plomb
 
 ## Karel Reisz (12)
 

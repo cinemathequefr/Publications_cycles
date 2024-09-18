@@ -10,6 +10,34 @@
       "titreSousCycle": "Nouvelles restaurations",
       "items": [
         {
+          "idFilm": 91447,
+          "content": [
+            {
+              "idFilm": 91447,
+              "ordre": 1,
+              "titre": "2046",
+              "realisateurs": "Wong Kar-Wai",
+              "pays": "Chine",
+              "annee": 2003,
+              "duree": 120,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Tony Chiu-Wai Leung",
+                "Li Gong",
+                "Takuya Kimura"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185040,
+              "dateHeure": "2024-11-28T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 29749,
           "content": [
             {
@@ -861,40 +889,6 @@
               "idSeance": 185031,
               "dateHeure": "2024-11-28T20:30:00",
               "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 2,
-      "titreSousCycle": "Les films",
-      "items": [
-        {
-          "idFilm": 91447,
-          "content": [
-            {
-              "idFilm": 91447,
-              "ordre": 1,
-              "titre": "2046",
-              "realisateurs": "Wong Kar-Wai",
-              "pays": "Chine",
-              "annee": 2003,
-              "duree": 120,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Tony Chiu-Wai Leung",
-                "Li Gong",
-                "Takuya Kimura"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185040,
-              "dateHeure": "2024-11-28T17:00:00",
-              "idSalle": "HL"
             }
           ]
         }

@@ -37,7 +37,8 @@
             {
               "idSeance": 137661,
               "dateHeure": "2024-12-26T18:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -102,7 +103,7 @@
           "seances": [
             {
               "idSeance": 145329,
-              "dateHeure": "2024-12-22T19:30:00",
+              "dateHeure": "2024-12-22T19:45:00",
               "idSalle": "GF"
             }
           ]
@@ -167,7 +168,8 @@
             {
               "idSeance": 184940,
               "dateHeure": "2024-12-22T17:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -197,8 +199,9 @@
           "seances": [
             {
               "idSeance": 137758,
-              "dateHeure": "2024-12-29T17:00:00",
-              "idSalle": "HL"
+              "dateHeure": "2024-12-29T14:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -228,7 +231,7 @@
           "seances": [
             {
               "idSeance": 137843,
-              "dateHeure": "2025-01-02T18:30:00",
+              "dateHeure": "2025-01-02T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -320,8 +323,9 @@
           "seances": [
             {
               "idSeance": 145328,
-              "dateHeure": "2025-01-02T20:30:00",
-              "idSalle": "GF"
+              "dateHeure": "2025-01-02T18:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -353,7 +357,8 @@
             {
               "idSeance": 184941,
               "dateHeure": "2024-12-20T18:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -383,7 +388,7 @@
           "seances": [
             {
               "idSeance": 137757,
-              "dateHeure": "2024-12-29T14:30:00",
+              "dateHeure": "2024-12-29T19:30:00",
               "idSalle": "HL"
             }
           ]
@@ -412,9 +417,10 @@
           ],
           "seances": [
             {
-              "idSeance": 137930,
-              "dateHeure": "2025-01-04T15:00:00",
-              "idSalle": "GF"
+              "idSeance": 185064,
+              "dateHeure": "2025-01-03T18:30:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -476,7 +482,7 @@
           "seances": [
             {
               "idSeance": 145326,
-              "dateHeure": "2024-12-27T20:30:00",
+              "dateHeure": "2024-12-27T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -509,7 +515,8 @@
             {
               "idSeance": 145325,
               "dateHeure": "2024-12-27T18:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -541,7 +548,7 @@
           "seances": [
             {
               "idSeance": 137660,
-              "dateHeure": "2024-12-26T20:00:00",
+              "dateHeure": "2024-12-26T20:15:00",
               "idSalle": "HL"
             }
           ]
@@ -632,7 +639,7 @@
           "seances": [
             {
               "idSeance": 137759,
-              "dateHeure": "2024-12-29T19:30:00",
+              "dateHeure": "2024-12-29T17:15:00",
               "idSalle": "HL"
             }
           ]
@@ -801,5 +808,43 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Le Grand Inquisiteur",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2024-12-20T18:00:00"
+      },
+      {
+        "titreFilms": "Le Corps et le Fouet",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2024-12-22T17:00:00"
+      },
+      {
+        "titreFilms": "L'Au-delà",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2024-12-26T18:00:00"
+      },
+      {
+        "titreFilms": "La Malédiction : L'Origine",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2024-12-27T18:00:00"
+      },
+      {
+        "titreFilms": "Cure",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2024-12-29T14:30:00"
+      },
+      {
+        "titreFilms": "Frankenstein s'est échappé",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2025-01-02T18:00:00"
+      },
+      {
+        "titreFilms": "Homicide",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2025-01-03T18:30:00"
+      }
+    ]
+  }
 }
