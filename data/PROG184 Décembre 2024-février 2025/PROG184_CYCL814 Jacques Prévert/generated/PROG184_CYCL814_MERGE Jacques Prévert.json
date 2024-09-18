@@ -2,7 +2,7 @@
   "data": [
     {
       "titreSousCycle": "Les films",
-      "tri": 1,
+      "tri": 2,
       "items": [
         {
           "idSeance": 137745,
@@ -117,7 +117,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 225,
-          "mention": "Ouverture de la rétrospective",
+          "mention": "Ouverture de la rétrospective. Séance présentée par Fanny De Lépinau et Alice S. Legé",
           "idCategorie": 3472,
           "idEvenement": 31477,
           "typeEvenement": 13,
@@ -209,9 +209,9 @@
           ]
         },
         {
-          "idSeance": 174920,
+          "idSeance": 185104,
           "ordre": 1,
-          "dateHeure": "2024-12-19T18:00:00",
+          "dateHeure": "2024-12-28T15:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -447,14 +447,15 @@
           ]
         },
         {
-          "idSeance": 137744,
+          "idSeance": 185103,
           "ordre": 1,
-          "dateHeure": "2024-12-28T15:00:00",
+          "dateHeure": "2024-12-19T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3472,
           "idEvenement": 31501,
           "typeEvenement": 13,
@@ -550,6 +551,53 @@
               "texte": "Film restauré en 4K en 2020."
             }
           ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 185103,
+          "ordre": 2,
+          "dateHeure": "2024-12-19T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3645,
+          "idEvenement": 31758,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Eugénie Bachelot-Prévert et Alice Legé",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Eugénie Bachelot-Prévert",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Alice S. Legé",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 3
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Bernard Benoliel"
         }
       ],
       "textes": []

@@ -6,11 +6,11 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 1,
+      "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 50769,
+          "idEvenement": 31473,
           "content": [
             {
               "idFilm": 50769,
@@ -28,16 +28,25 @@
                 "Étienne Decroux",
                 "Anthony Gildès"
               ],
-              "miniTexte": "Tourné en huit jours au studio Pathé de Joinville, _L'affaire est dans le sac_ marque les débuts cinématographiques des frères Prévert. L'enlèvement d'un milliardaire par un trio de brigands farfelus est prétexte à rire des convenances sociales et religieuses, dans un chassé-croisé dévastateur. Objet d'affection pour Jacques Prévert, le film fut mal accueilli à sa sortie et tomba dans l'oubli jusqu'à sa restauration en 2020.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Voyage surprise",
-                    null
-                  ]
-                ]
-              ]
+              "miniTexte": "Tourné en huit jours au studio Pathé de Joinville, _L'affaire est dans le sac_ marque les débuts cinématographiques des frères Prévert. L'enlèvement d'un milliardaire par un trio de brigands farfelus est prétexte à rire des convenances sociales et religieuses, dans un chassé-croisé dévastateur. Objet d'affection pour Jacques Prévert, le film fut mal accueilli à sa sortie et tomba dans l'oubli jusqu'à sa restauration en 2020."
+            },
+            {
+              "idFilm": 50772,
+              "ordre": 2,
+              "titre": "Voyage surprise",
+              "realisateurs": "Pierre Prévert",
+              "pays": "France",
+              "annee": 1946,
+              "duree": 109,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après la nouvelle _Voyage surprise_ de Maurice Diamant-Berger.",
+              "generique": [
+                "Martine Carol",
+                "Maurice Baquet",
+                "Thérèse Dorny"
+              ],
+              "miniTexte": "Un garagiste organise un voyage en autocar pour un groupe de passagers qui ne connaissent ni les étapes ni la destination. La fantaisie surréaliste des frères Prévert au service d'une virée semée d'embûches et d'incidents délirants, jusqu'à une reconstitution finale de la prise de la Bastille des plus hilarantes."
             }
           ],
           "seances": [
@@ -137,7 +146,7 @@
               "idSeance": 137436,
               "dateHeure": "2024-12-18T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Fanny De Lépinau et Alice S. Legé"
             },
             {
               "idSeance": 137763,
@@ -200,8 +209,8 @@
           ],
           "seances": [
             {
-              "idSeance": 174920,
-              "dateHeure": "2024-12-19T18:00:00",
+              "idSeance": 185104,
+              "dateHeure": "2024-12-28T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -390,33 +399,50 @@
           ]
         },
         {
-          "idFilm": 50637,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50637,
-              "ordre": 1,
-              "titre": "Un oiseau rare",
-              "realisateurs": "Richard Pottier",
-              "pays": "France",
-              "annee": 1935,
-              "duree": 104,
-              "version": "VO",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Trois hommes dans la neige_ d'Erich Kästner.",
-              "generique": [
-                "Max Dearly",
-                "Pierre Brasseur",
-                "Monique Rolland",
-                "Pierre Larquey"
-              ],
-              "miniTexte": "Un milliardaire accompagne son domestique, qui vient de gagner un séjour aux sports d'hiver. Mais les méprises s'enchaînent, et le serviteur est pris pour le maître. Autour d'un concours de slogans et d'un perroquet bavard, une comédie de quiproquo, d'après _Trois hommes dans la neige_ d'Erich Kästner (auteur d'_Émile et les Détectives_), aiguisée par la plume de Prévert contre l'ordre établi."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 50637,
+                  "ordre": 1,
+                  "titre": "Un oiseau rare",
+                  "realisateurs": "Richard Pottier",
+                  "pays": "France",
+                  "annee": 1935,
+                  "duree": 104,
+                  "version": "VO",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Trois hommes dans la neige_ d'Erich Kästner.",
+                  "generique": [
+                    "Max Dearly",
+                    "Pierre Brasseur",
+                    "Monique Rolland",
+                    "Pierre Larquey"
+                  ],
+                  "miniTexte": "Un milliardaire accompagne son domestique, qui vient de gagner un séjour aux sports d'hiver. Mais les méprises s'enchaînent, et le serviteur est pris pour le maître. Autour d'un concours de slogans et d'un perroquet bavard, une comédie de quiproquo, d'après _Trois hommes dans la neige_ d'Erich Kästner (auteur d'_Émile et les Détectives_), aiguisée par la plume de Prévert contre l'ordre établi."
+                }
+              ]
+            },
             {
-              "idSeance": 137744,
-              "dateHeure": "2024-12-28T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 31758,
+              "content": [
+                {
+                  "idConf": 31758,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Eugénie Bachelot-Prévert et Alice Legé",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 185103,
+                  "typeAssoc": 118,
+                  "dateHeure": "2024-12-19T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -450,48 +476,24 @@
               "idSalle": "GF"
             }
           ]
-        },
-        {
-          "idFilm": 50772,
-          "content": [
-            {
-              "idFilm": 50772,
-              "ordre": 2,
-              "titre": "Voyage surprise",
-              "realisateurs": "Pierre Prévert",
-              "pays": "France",
-              "annee": 1946,
-              "duree": 109,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après la nouvelle _Voyage surprise_ de Maurice Diamant-Berger.",
-              "generique": [
-                "Martine Carol",
-                "Maurice Baquet",
-                "Thérèse Dorny"
-              ],
-              "miniTexte": "Un garagiste organise un voyage en autocar pour un groupe de passagers qui ne connaissent ni les étapes ni la destination. La fantaisie surréaliste des frères Prévert au service d'une virée semée d'embûches et d'incidents délirants, jusqu'à une reconstitution finale de la prise de la Bastille des plus hilarantes.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Affaire est dans le sac",
-                    "L'"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137745,
-              "dateHeure": "2024-12-28T17:30:00",
-              "idSalle": "GF"
-            }
-          ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Un oiseau rare",
+        "mention": "avec Eugénie Bachelot-Prévert et Alice Legé",
+        "dateHeure": "2024-12-19T19:00:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Les Enfants du paradis",
+        "mention": "par Fanny De Lépinau et Alice S. Legé",
+        "dateHeure": "2024-12-18T20:00:00"
+      }
+    ]
+  }
 }
