@@ -48,7 +48,6 @@
 
   * 2046  
   * Amadeus (Director's Cut)  
-  * Ange des maudits (L')  
   * Annonces matrimoniales  
   * Body Double  
   * Canine  
@@ -71,6 +70,7 @@
   * Péché mortel  
   * Pépé le Moko  
   * Portrait de Dorian Gray (Le)  
+  * Qui donc a vu ma belle ?  
   * Sa vie  
   * Sans rien savoir d'elle  
   * Sur la piste des Mohawks  
@@ -248,7 +248,7 @@
   * Machine à explorer le temps (La)  
   * Mad Max  
   * Mad Max 2 : Le Défi  
-  * Mad Max au-delà du Dôme du Tonnerre  
+  * Mad Max : Au-delà du dôme du tonnerre  
   * Mad Max : Fury Road  
   * Melancholia  
   * Monde, la chair et le diable (Le)  
