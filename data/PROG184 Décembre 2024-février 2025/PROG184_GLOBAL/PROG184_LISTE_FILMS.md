@@ -36,7 +36,7 @@
 ## Cinéma bis (8)
 
   * Cauchemars naissent la nuit (Les)  
-  * Fantôme, ma femme et moi = La lycéenne épouse un dingue (Le)  
+  * Fantôme, ma femme et moi (Le)  
   * Grande java (La)  
   * Inassouvies (Les)  
   * Invasion U.S.A.  
