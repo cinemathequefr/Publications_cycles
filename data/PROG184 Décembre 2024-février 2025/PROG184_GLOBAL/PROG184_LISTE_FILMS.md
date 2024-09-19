@@ -269,12 +269,12 @@
   * Corps et le Fouet (Le)  
   * Cure  
   * Dracula  
-  * Evil Dead 2  
   * Fog  
   * Frankenstein s'est échappé  
   * Grand Inquisiteur (Le)  
   * Griffes de la nuit (Les)  
   * Homicide  
+  * Hostel, chapitre II  
   * Loup-garou de Londres (Le)  
   * Malédiction : L'Origine (La)  
   * Malédiction (La)  
@@ -341,21 +341,21 @@
   * Vengeance aux deux visages (La)  
   * Viva Zapata!
 
-## Otto Preminger (38)
+## Otto Preminger (39)
 
   * Ambre  
   * Autopsie d'un meurtre  
-  * Bonjour Tristesse  
+  * Bonjour tristesse  
   * Bunny Lake a disparu  
   * Cardinal (Le)  
   * Carmen Jones  
-  * Charmante famille  
+  * Charmante Famille  
   * Condamné au silence  
   * Crime passionnel  
   * Dame au manteau d'hermine (La)  
   * Des amis comme les miens  
   * Dis-moi que tu m'aimes, Junie Moon  
-  * Eventail de Lady Windermere (L')  
+  * Éventail de Lady Windermere (L')  
   * Exodus  
   * Femme ou maîtresse  
   * Grosse Liebe (Die)  
@@ -366,7 +366,7 @@
   * Laura  
   * Lune était bleue (La)  
   * Margin for Error  
-  * Mark Dixon détective  
+  * Mark Dixon, détective  
   * Mystérieux docteur Korvo (Le)  
   * Porgy and Bess  
   * Première Victoire  
@@ -377,8 +377,9 @@
   * Sainte Jeanne  
   * Scandale à la cour  
   * Skidoo  
+  * Stalag 17  
   * Tempête à Washington  
-  * Treizième lettre (La)  
+  * Treizième Lettre (La)  
   * Un si doux visage  
   * Under Your Spell
 
@@ -410,10 +411,6 @@
 ## Séances spéciales (1)
 
   * Porte du paradis (La)
-
-## Yves Mirande (1)
-
-  * Derrière la façade
 
 ## Éric Demarsan (10)
 

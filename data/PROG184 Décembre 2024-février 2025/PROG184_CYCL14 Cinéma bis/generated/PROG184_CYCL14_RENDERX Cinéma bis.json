@@ -3,7 +3,70 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Les films",
+      "titreSousCycle": "Philippe Clair",
+      "items": [
+        {
+          "idFilm": 54104,
+          "content": [
+            {
+              "idFilm": 54104,
+              "ordre": 1,
+              "titre": "Grande java",
+              "art": "La",
+              "realisateurs": "Philippe Clair",
+              "pays": "France",
+              "annee": 1970,
+              "duree": 85,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Francis Blanche",
+                "Corinne Le Poulain",
+                "Gérard Rinaldi"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 145347,
+              "dateHeure": "2024-12-20T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 47663,
+          "content": [
+            {
+              "idFilm": 47663,
+              "ordre": 1,
+              "titre": "Plus beau que moi, tu meurs",
+              "realisateurs": "Philippe Clair",
+              "pays": "France-Tunisie",
+              "annee": 1982,
+              "duree": 105,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Aldo Maccione",
+                "Raymond Pellegrin",
+                "Philippe Clair"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 145348,
+              "dateHeure": "2024-12-20T21:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Décadence de la comédie à l'italienne",
       "items": [
         {
           "idFilm": 70069,
@@ -61,127 +124,6 @@
             {
               "idSeance": 185001,
               "dateHeure": "2024-12-27T21:15:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 33015,
-          "content": [
-            {
-              "idFilm": 33015,
-              "ordre": 1,
-              "titre": "Passagers de l'angoisse",
-              "art": "Les",
-              "titreVo": "Stranded",
-              "realisateurs": "Tex Fuller",
-              "pays": "États-Unis",
-              "annee": 1987,
-              "duree": 80,
-              "version": "VF",
-              "format": "35 mm",
-              "generique": [
-                "Ione Skye",
-                "Maureen O'Sullivan",
-                "Joe Morton"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185004,
-              "dateHeure": "2025-01-17T19:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 38056,
-          "content": [
-            {
-              "idFilm": 38056,
-              "ordre": 1,
-              "titre": "Invasion U.S.A.",
-              "realisateurs": "Joseph Zito",
-              "pays": "États-Unis",
-              "annee": 1985,
-              "duree": 107,
-              "version": "VF",
-              "format": "35 mm",
-              "generique": [
-                "Chuck Norris",
-                "Richard Lynch",
-                "Melissa Prophet"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185005,
-              "dateHeure": "2025-01-17T21:15:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Philippe Clair",
-      "items": [
-        {
-          "idFilm": 54104,
-          "content": [
-            {
-              "idFilm": 54104,
-              "ordre": 1,
-              "titre": "Grande java",
-              "art": "La",
-              "realisateurs": "Philippe Clair",
-              "pays": "France",
-              "annee": 1970,
-              "duree": 85,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Francis Blanche",
-                "Corinne Le Poulain",
-                "Gérard Rinaldi"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 145347,
-              "dateHeure": "2024-12-20T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 47663,
-          "content": [
-            {
-              "idFilm": 47663,
-              "ordre": 1,
-              "titre": "Plus beau que moi, tu meurs",
-              "realisateurs": "Philippe Clair",
-              "pays": "France-Tunisie",
-              "annee": 1982,
-              "duree": 105,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Aldo Maccione",
-                "Raymond Pellegrin",
-                "Philippe Clair"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 145348,
-              "dateHeure": "2024-12-20T21:15:00",
               "idSalle": "GF"
             }
           ]
@@ -250,6 +192,70 @@
             {
               "idSeance": 138075,
               "dateHeure": "2025-01-10T21:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "USA Eighties",
+      "items": [
+        {
+          "idFilm": 33015,
+          "content": [
+            {
+              "idFilm": 33015,
+              "ordre": 1,
+              "titre": "Passagers de l'angoisse",
+              "art": "Les",
+              "titreVo": "Stranded",
+              "realisateurs": "Tex Fuller",
+              "pays": "États-Unis",
+              "annee": 1987,
+              "duree": 80,
+              "version": "VF",
+              "format": "35 mm",
+              "generique": [
+                "Ione Skye",
+                "Maureen O'Sullivan",
+                "Joe Morton"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185004,
+              "dateHeure": "2025-01-17T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 38056,
+          "content": [
+            {
+              "idFilm": 38056,
+              "ordre": 1,
+              "titre": "Invasion U.S.A.",
+              "realisateurs": "Joseph Zito",
+              "pays": "États-Unis",
+              "annee": 1985,
+              "duree": 107,
+              "version": "VF",
+              "format": "35 mm",
+              "generique": [
+                "Chuck Norris",
+                "Richard Lynch",
+                "Melissa Prophet"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185005,
+              "dateHeure": "2025-01-17T21:15:00",
               "idSalle": "GF"
             }
           ]
