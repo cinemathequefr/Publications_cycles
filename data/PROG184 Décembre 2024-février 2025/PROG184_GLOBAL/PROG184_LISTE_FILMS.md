@@ -124,7 +124,6 @@
   * Buone notizie  
   * Classe ouvrière va au paradis (La)  
   * Dixième Victime (La)  
-  * Documenti su Giuseppe Pinelli : Tre ipotesi sulla morte di Giuseppe Pinelli  
   * Enquête sur un citoyen au-dessus de tout soupçon  
   * Italia con Togliatti (L')  
   * Jours comptés (Les)  
@@ -133,6 +132,7 @@
   * Propriété, c'est plus le vol (La)  
   * Sette contadini (I)  
   * Todo modo  
+  * Tre ipotesi sulla morte di Giuseppe Pinelli  
   * Un coin tranquille à la campagne
 
 ## Fenêtre sur les collections (17)
