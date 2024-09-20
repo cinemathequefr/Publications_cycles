@@ -15,10 +15,11 @@
   * Nous filmons le peuple !  
   * Temps détruit : lettres d'une guerre, 1939-1940 (Le)
 
-## Aujourd'hui le cinéma (11)
+## Aujourd'hui le cinéma (12)
 
   * À l'ombre l'après-midi  
   * Adieu Émile  
+  * Cousin Jules (Le)  
   * Espace rapide (L')  
   * Esprit Coubertin (L')  
   * Fogaréu  
