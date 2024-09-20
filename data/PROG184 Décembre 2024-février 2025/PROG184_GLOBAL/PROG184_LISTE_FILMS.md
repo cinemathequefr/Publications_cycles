@@ -15,16 +15,17 @@
   * Nous filmons le peuple !  
   * Temps détruit : lettres d'une guerre, 1939-1940 (Le)
 
-## Aujourd'hui le cinéma (12)
+## Aujourd'hui le cinéma (13)
 
   * À l'ombre l'après-midi  
-  * Adieu Émile  
   * Cousin Jules (Le)  
   * Espace rapide (L')  
   * Esprit Coubertin (L')  
   * Fogaréu  
+  * Limite  
   * Météos d'Antoine (Les)  
   * Morsure (La)  
+  * Naked  
   * Paysage après la bataille  
   * September Says  
   * Soleil chante à l'horizon (Le)  
@@ -315,7 +316,7 @@
   * Lune à un mètre ou Le Rêve de l'astronome (La)  
   * Mary Poppins  
   * Panorama pris d'un train en marche  
-  * Petit dinosaure et la vallée des merveilles (Le)  
+  * Petit Dinosaure et la vallée des merveilles (Le)  
   * Tout en haut du monde  
   * Un homme de têtes  
   * Une guitare à la mer  
@@ -360,7 +361,7 @@
   * Éventail de Lady Windermere (L')  
   * Exodus  
   * Femme ou maîtresse  
-  * Grosse Liebe (Die)  
+  * Große Liebe (Die)  
   * Homme au bras d'or (L')  
   * Human Factor (The)  
   * In the Meantime, Darling  

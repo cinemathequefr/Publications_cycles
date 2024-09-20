@@ -2,7 +2,7 @@
   {
     "idCategorie": 3633,
     "typeEvenement": 13,
-    "idEvenement": 31710,
+    "idEvenement": 31767,
     "idSeance": 137216,
     "dateHeure": "2024-12-09T19:00:00",
     "idSalle": [
@@ -19,6 +19,15 @@
         "duree": 45,
         "version": "",
         "format": "DCP"
+      },
+      {
+        "idFilm": 41617,
+        "ordre": 2,
+        "idSeance": 137216,
+        "idCopie": 17984,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "mention": "Séance présentée par Vincent Weber"
@@ -137,34 +146,11 @@
     "mention": "Séance suivie d'une discussion avec Flávia Neves"
   },
   {
-    "idCategorie": 3636,
-    "typeEvenement": 13,
-    "idEvenement": 31711,
-    "idSeance": 138518,
-    "dateHeure": "2025-01-27T19:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 105,
-    "items": [
-      {
-        "idFilm": 154911,
-        "ordre": 1,
-        "idSeance": 138518,
-        "idCopie": 28351,
-        "duree": 25,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
     "idCategorie": 3634,
     "typeEvenement": 13,
     "idEvenement": 31708,
-    "idSeance": 184993,
-    "dateHeure": "2025-02-03T19:30:00",
+    "idSeance": 185119,
+    "dateHeure": "2025-01-27T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -175,14 +161,14 @@
       {
         "idFilm": 154996,
         "ordre": 1,
-        "idSeance": 184993,
+        "idSeance": 185119,
         "idCopie": 28775,
         "duree": 98,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "mention": "Avant-première. Séance présentée par Ariane Labed"
+    "mention": "Avant-première. Séance suivie d'une discussion avec Ariane Labed"
   },
   {
     "idCategorie": 3638,
@@ -211,7 +197,7 @@
   {
     "idCategorie": 3635,
     "typeEvenement": 13,
-    "idEvenement": 31707,
+    "idEvenement": 31768,
     "idSeance": 139076,
     "dateHeure": "2025-02-17T19:00:00",
     "idSalle": [
@@ -227,6 +213,15 @@
         "idCopie": 28774,
         "duree": 25,
         "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 44298,
+        "ordre": 2,
+        "idSeance": 139076,
+        "idCopie": 6149,
+        "duree": 117,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],

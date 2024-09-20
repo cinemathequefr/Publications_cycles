@@ -6,7 +6,7 @@
       "titreSousCycle": "Vincent Weber",
       "items": [
         {
-          "idFilm": 154916,
+          "idEvenement": 31767,
           "content": [
             {
               "idFilm": 154916,
@@ -21,6 +21,23 @@
               "generique": [
                 "Nouha A.",
                 "Kamel Adel"
+              ]
+            },
+            {
+              "idFilm": 41617,
+              "ordre": 2,
+              "titre": "Naked",
+              "realisateurs": "Mike Leigh",
+              "pays": "Grande-Bretagne",
+              "annee": 1993,
+              "duree": 126,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "David Thewlis",
+                "Greg Crutwell",
+                "Lesley Sharp",
+                "Katrin Cartlidge"
               ]
             }
           ],
@@ -208,35 +225,6 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Repérages : trois jeunes cinéastes à découvrir",
-      "items": [
-        {
-          "idFilm": 154911,
-          "content": [
-            {
-              "idFilm": 154911,
-              "ordre": 1,
-              "titre": "Adieu Émile",
-              "realisateurs": "Alexis Diop",
-              "pays": "France",
-              "annee": 2024,
-              "duree": 25,
-              "version": "",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 138518,
-              "dateHeure": "2025-01-27T19:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
       "titreSousCycle": "Avant-première Ariane Labed",
       "items": [
         {
@@ -261,10 +249,10 @@
           ],
           "seances": [
             {
-              "idSeance": 184993,
-              "dateHeure": "2025-02-03T19:30:00",
+              "idSeance": 185119,
+              "dateHeure": "2025-01-27T19:30:00",
               "idSalle": "GF",
-              "mention": " Séance présentée par Ariane Labed"
+              "mention": " Séance suivie d'une discussion avec Ariane Labed"
             }
           ]
         }
@@ -275,7 +263,7 @@
       "titreSousCycle": "João Paulo Miranda Maria",
       "items": [
         {
-          "idFilm": 154994,
+          "idEvenement": 31768,
           "content": [
             {
               "idFilm": 154994,
@@ -287,6 +275,22 @@
               "duree": 25,
               "version": "",
               "format": "DCP"
+            },
+            {
+              "idFilm": 44298,
+              "ordre": 2,
+              "titre": "Limite",
+              "realisateurs": "Mário Peixoto",
+              "pays": "Brésil",
+              "annee": 1931,
+              "duree": 117,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Olga Breno",
+                "Taciana Rei",
+                "Raul Schnoor"
+              ]
             }
           ],
           "seances": [
@@ -336,9 +340,9 @@
   "syntheseAction": {
     "Avant-première": [
       {
-        "dateHeure": "2025-02-03T19:30:00",
+        "dateHeure": "2025-01-27T19:30:00",
         "titreFilms": "September Says",
-        "mention": " Séance présentée par Ariane Labed"
+        "mention": " Séance suivie d'une discussion avec Ariane Labed"
       }
     ],
     "Discussions": [
@@ -363,26 +367,26 @@
         "dateHeure": "2025-01-20T19:00:00"
       },
       {
+        "titreFilms": "September Says",
+        "mention": "avec Ariane Labed",
+        "dateHeure": "2025-01-27T19:30:00"
+      },
+      {
         "titreFilms": "La Morsure",
         "mention": "avec Romain de Saint-Blanquat",
         "dateHeure": "2025-02-10T19:00:00"
       },
       {
-        "titreFilms": "Paysage après la bataille",
+        "titreFilms": "Paysage après la bataille / Limite",
         "mention": "avec João Paulo Miranda Maria",
         "dateHeure": "2025-02-17T19:00:00"
       }
     ],
-    "Séances présentées": [
+    "Séance présentée": [
       {
-        "titreFilms": "Un jour j'aurai une île",
+        "titreFilms": "Un jour j'aurai une île / Naked",
         "mention": "par Vincent Weber",
         "dateHeure": "2024-12-09T19:00:00"
-      },
-      {
-        "titreFilms": "September Says",
-        "mention": "par Ariane Labed",
-        "dateHeure": "2025-02-03T19:30:00"
       }
     ]
   }
