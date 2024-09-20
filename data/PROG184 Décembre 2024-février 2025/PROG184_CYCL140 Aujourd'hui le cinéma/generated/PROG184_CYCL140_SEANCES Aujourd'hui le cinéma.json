@@ -46,7 +46,12 @@
     "items": [
       {
         "idFilm": 155004,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 185118,
+        "idCopie": 28860,
+        "duree": 78,
+        "version": "",
+        "format": "DCP"
       }
     ],
     "mention": "Séance suivie d'une discussion avec Jérémie Sein"
@@ -85,46 +90,45 @@
     "mention": "Séance suivie d'une discussion avec Jules Follet"
   },
   {
-    "idCategorie": 3640,
+    "idCategorie": 3636,
     "typeEvenement": 13,
-    "idEvenement": 31715,
-    "idSeance": 138146,
+    "idEvenement": 31711,
+    "idSeance": 185126,
     "dateHeure": "2025-01-13T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 105,
+    "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 155000,
+        "idFilm": 155006,
         "ordre": 1,
-        "idSeance": 138146,
-        "idCopie": 28812,
-        "duree": 27,
+        "idSeance": 185126,
+        "idCopie": 28859,
+        "duree": 15,
         "version": "",
         "format": "DCP"
       },
       {
-        "idFilm": 155001,
+        "idFilm": 154911,
         "ordre": 2,
-        "idSeance": 138146,
-        "idCopie": 28814,
-        "duree": 34,
+        "idSeance": 185126,
+        "idCopie": 28351,
+        "duree": 25,
         "version": "",
         "format": "DCP"
       },
       {
-        "idFilm": 155002,
+        "idFilm": 155005,
         "ordre": 3,
-        "idSeance": 138146,
-        "idCopie": 28816,
-        "duree": 30,
+        "idSeance": 185126,
+        "idCopie": 28858,
+        "duree": 24,
         "version": "",
         "format": "DCP"
       }
-    ],
-    "mention": "Séance suivie d'une discussion avec Marin Gérard"
+    ]
   },
   {
     "idCategorie": 3641,
@@ -174,8 +178,8 @@
     "idCategorie": 3638,
     "typeEvenement": 13,
     "idEvenement": 31713,
-    "idSeance": 138890,
-    "dateHeure": "2025-02-10T19:00:00",
+    "idSeance": 185127,
+    "dateHeure": "2025-02-03T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -185,14 +189,54 @@
       {
         "idFilm": 154998,
         "ordre": 1,
-        "idSeance": 138890,
+        "idSeance": 185127,
         "idCopie": 28780,
         "duree": 87,
         "version": "",
         "format": "DCP"
       }
+    ]
+  },
+  {
+    "idCategorie": 3640,
+    "typeEvenement": 13,
+    "idEvenement": 31715,
+    "idSeance": 185128,
+    "dateHeure": "2025-02-10T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
     ],
-    "mention": "Séance suivie d'une discussion avec Romain de Saint-Blanquat"
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155000,
+        "ordre": 1,
+        "idSeance": 185128,
+        "idCopie": 28812,
+        "duree": 27,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155001,
+        "ordre": 2,
+        "idSeance": 185128,
+        "idCopie": 28814,
+        "duree": 34,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155002,
+        "ordre": 3,
+        "idSeance": 185128,
+        "idCopie": 28816,
+        "duree": 30,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCategorie": 3635,

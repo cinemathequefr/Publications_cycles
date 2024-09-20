@@ -15,17 +15,20 @@
   * Nous filmons le peuple !  
   * Temps détruit : lettres d'une guerre, 1939-1940 (Le)
 
-## Aujourd'hui le cinéma (13)
+## Aujourd'hui le cinéma (16)
 
   * À l'ombre l'après-midi  
+  * Adieu Émile  
   * Cousin Jules (Le)  
   * Espace rapide (L')  
   * Esprit Coubertin (L')  
   * Fogaréu  
   * Limite  
+  * Lou  
   * Météos d'Antoine (Les)  
   * Morsure (La)  
   * Naked  
+  * Oceania  
   * Paysage après la bataille  
   * September Says  
   * Soleil chante à l'horizon (Le)  

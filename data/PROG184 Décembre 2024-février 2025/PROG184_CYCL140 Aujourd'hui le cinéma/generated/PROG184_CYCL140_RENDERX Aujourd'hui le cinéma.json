@@ -55,6 +55,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Jérémie Sein",
+      "texteSousCycle": "Texte à saisir",
       "items": [
         {
           "idFilm": 155004,
@@ -66,7 +67,10 @@
               "art": "L'",
               "realisateurs": "Jérémie Sein",
               "pays": "France",
-              "annee": 2024
+              "annee": 2024,
+              "duree": 78,
+              "version": "",
+              "format": "DCP"
             }
           ],
           "seances": [
@@ -145,10 +149,9 @@
           ],
           "seances": [
             {
-              "idSeance": 138890,
-              "dateHeure": "2025-02-10T19:00:00",
-              "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Romain de Saint-Blanquat"
+              "idSeance": 185127,
+              "dateHeure": "2025-02-03T19:00:00",
+              "idSalle": "JE"
             }
           ]
         }
@@ -214,10 +217,60 @@
           ],
           "seances": [
             {
-              "idSeance": 138146,
+              "idSeance": 185128,
+              "dateHeure": "2025-02-10T19:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Repérages : trois jeunes cinéastes à découvrir",
+      "items": [
+        {
+          "idEvenement": 31711,
+          "content": [
+            {
+              "idFilm": 155006,
+              "ordre": 1,
+              "titre": "Lou",
+              "realisateurs": "Tara Maurel",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 15,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 154911,
+              "ordre": 2,
+              "titre": "Adieu Émile",
+              "realisateurs": "Alexis Diop",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 25,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155005,
+              "ordre": 3,
+              "titre": "Oceania",
+              "realisateurs": "Valentin Noujaïm",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 24,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185126,
               "dateHeure": "2025-01-13T19:00:00",
-              "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Marin Gérard"
+              "idSalle": "JE"
             }
           ]
         }
@@ -307,6 +360,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Flávia Neves",
+      "texteSousCycle": "Premier long métrage de Flávia Neves présenté à la Berlinale en 2022 (section Panorama), Fogaréu pourrait se traduire par « Brasier ». Il confronte l'héroïne du film à son passé, à l'héritage colonial de son pays, raconte le point de vue, singulier dans le cinéma brésilien, de l'opprimé sur l'oppresseur, avec par moments une dimension surnaturelle très originale. Séance en association avec Universciné où le film est également en ligne.",
       "items": [
         {
           "idFilm": 154722,
@@ -357,11 +411,6 @@
         "dateHeure": "2025-01-06T19:00:00"
       },
       {
-        "titreFilms": "L'Espace rapide / À l'ombre l'après-midi / Le Soleil chante à l'horizon",
-        "mention": "avec Marin Gérard",
-        "dateHeure": "2025-01-13T19:00:00"
-      },
-      {
         "titreFilms": "Fogaréu",
         "mention": "avec Flávia Neves",
         "dateHeure": "2025-01-20T19:00:00"
@@ -370,11 +419,6 @@
         "titreFilms": "September Says",
         "mention": "avec Ariane Labed",
         "dateHeure": "2025-01-27T19:30:00"
-      },
-      {
-        "titreFilms": "La Morsure",
-        "mention": "avec Romain de Saint-Blanquat",
-        "dateHeure": "2025-02-10T19:00:00"
       },
       {
         "titreFilms": "Paysage après la bataille / Limite",
