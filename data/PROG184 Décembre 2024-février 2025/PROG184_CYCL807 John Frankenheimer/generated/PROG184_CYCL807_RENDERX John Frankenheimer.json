@@ -461,67 +461,40 @@
           ]
         },
         {
-          "groupe": [
-            {
-              "idEvenement": 31656,
-              "content": [
-                {
-                  "idConf": 31656,
-                  "titre": "Qui êtes-vous... John Frankenheimer ?",
-                  "sousTitre": "Conférence de Jean-Baptiste Thoret",
-                  "typeConference": "Conférence"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 184921,
-                  "idSeanceAssoc": 185073,
-                  "typeAssoc": 117,
-                  "dateHeure": "2025-01-30T19:00:00",
-                  "idSalle": "HL"
-                }
-              ]
-            },
+          "idFilm": 31999,
+          "content": [
             {
               "idFilm": 31999,
-              "content": [
-                {
-                  "idFilm": 31999,
-                  "ordre": 1,
-                  "titre": "Opération diabolique",
-                  "art": "L'",
-                  "titreVo": "Seconds",
-                  "realisateurs": "John Frankenheimer",
-                  "pays": "États-Unis-Grande-Bretagne",
-                  "annee": 1966,
-                  "duree": 106,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "adaptation": "D'après le roman _Seconds_ de David Ely.",
-                  "generique": [
-                    "Rock Hudson",
-                    "Salome Jens",
-                    "John Randolph"
-                  ],
-                  "isFocus": true,
-                  "miniTexte": "BO angoissante de Jerry Goldsmith, générique kaléidoscopique imaginé par le génial Saul Bass : _L'Opération diabolique_ plonge dès son entame dans une atmosphère paranoïaque, un cauchemar éveillé. Un homme subit une opération de reconstruction faciale, mais derrière le coup de bistouri et la promesse d'une vie nouvelle se cache la misère d'une existence à laquelle on ne peut échapper. À mi-chemin entre fantastique et drame psychologique, avec un montage qui alterne séquences lentes ou nerveuses, Frankenheimer nous entraîne de duperies en manipulations infernales. Il nous parle de libre arbitre, de la seconde chance qui n'est qu'illusoire, se moque du mouvement hippie balbutiant en filmant une scène d'orgie dionysienne, et critique avec virulence le rêve américain. Une prise de conscience pessimiste et glaçante."
-                }
+              "ordre": 1,
+              "titre": "Opération diabolique",
+              "art": "L'",
+              "titreVo": "Seconds",
+              "realisateurs": "John Frankenheimer",
+              "pays": "États-Unis-Grande-Bretagne",
+              "annee": 1966,
+              "duree": 106,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Seconds_ de David Ely.",
+              "generique": [
+                "Rock Hudson",
+                "Salome Jens",
+                "John Randolph"
               ],
-              "seances": [
-                {
-                  "idSeance": 185073,
-                  "idSeanceAssoc": 185073,
-                  "typeAssoc": 117,
-                  "dateHeure": "2025-01-30T21:15:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film choisi par le conférencier"
-                },
-                {
-                  "idSeance": 184983,
-                  "dateHeure": "2025-03-01T17:15:00",
-                  "idSalle": "GF"
-                }
-              ]
+              "isFocus": true,
+              "miniTexte": "BO angoissante de Jerry Goldsmith, générique kaléidoscopique imaginé par le génial Saul Bass : _L'Opération diabolique_ plonge dès son entame dans une atmosphère paranoïaque, un cauchemar éveillé. Un homme subit une opération de reconstruction faciale, mais derrière le coup de bistouri et la promesse d'une vie nouvelle se cache la misère d'une existence à laquelle on ne peut échapper. À mi-chemin entre fantastique et drame psychologique, avec un montage qui alterne séquences lentes ou nerveuses, Frankenheimer nous entraîne de duperies en manipulations infernales. Il nous parle de libre arbitre, de la seconde chance qui n'est qu'illusoire, se moque du mouvement hippie balbutiant en filmant une scène d'orgie dionysienne, et critique avec virulence le rêve américain. Une prise de conscience pessimiste et glaçante."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185073,
+              "dateHeure": "2025-01-30T21:15:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 184983,
+              "dateHeure": "2025-03-01T17:15:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1075,6 +1048,30 @@
               "idSeance": 185092,
               "dateHeure": "2025-02-15T19:00:00",
               "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 31656,
+          "content": [
+            {
+              "idConf": 31656,
+              "titre": "Qui êtes-vous... John Frankenheimer ?",
+              "sousTitre": "Conférence de Jean-Baptiste Thoret",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 184921,
+              "dateHeure": "2025-01-30T19:00:00",
+              "idSalle": "HL"
             }
           ]
         }
