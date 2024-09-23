@@ -328,7 +328,8 @@
             {
               "idSeance": 184999,
               "dateHeure": "2024-11-30T23:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -617,7 +618,8 @@
             {
               "idSeance": 185020,
               "dateHeure": "2024-11-30T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Matthieu Orléan"
             }
           ]
         },
@@ -648,7 +650,8 @@
             {
               "idSeance": 145275,
               "dateHeure": "2024-11-28T15:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Caroline Maleville"
             }
           ]
         },
@@ -739,7 +742,8 @@
             {
               "idSeance": 137003,
               "dateHeure": "2024-11-30T15:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Marién Gomez"
             }
           ]
         },
@@ -770,7 +774,8 @@
             {
               "idSeance": 185022,
               "dateHeure": "2024-11-29T20:15:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         }
@@ -873,7 +878,8 @@
             {
               "idSeance": 145280,
               "dateHeure": "2024-11-30T20:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Isaac Gaido-Daniel"
             }
           ]
         },
@@ -920,7 +926,7 @@
               "pays": "États-Unis",
               "annee": 1939,
               "duree": 103,
-              "version": "VO",
+              "version": "VOSTF",
               "format": "35 mm",
               "adaptation": "D'après le roman _Drums Along the Mohawk_ de Walter D. Edmonds.",
               "generique": [
@@ -942,5 +948,38 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Pépé le Moko",
+        "mention": "par Caroline Maleville",
+        "dateHeure": "2024-11-28T15:00:00"
+      },
+      {
+        "titreFilms": "Torso",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2024-11-29T20:15:00"
+      },
+      {
+        "titreFilms": "Tasio",
+        "mention": "par Marién Gomez",
+        "dateHeure": "2024-11-30T15:00:00"
+      },
+      {
+        "titreFilms": "Les Parapluies de Cherbourg",
+        "mention": "par Matthieu Orléan",
+        "dateHeure": "2024-11-30T15:00:00"
+      },
+      {
+        "titreFilms": "Le Portrait de Dorian Gray",
+        "mention": "par Isaac Gaido-Daniel",
+        "dateHeure": "2024-11-30T20:00:00"
+      },
+      {
+        "titreFilms": "The Devil in Miss Jones",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2024-11-30T23:00:00"
+      }
+    ]
+  }
 }
