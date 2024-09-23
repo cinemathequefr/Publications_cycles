@@ -50,40 +50,6 @@
   * Pétomane (Le)  
   * Plus beau que moi, tu meurs
 
-## Classiques et raretés (31)
-
-  * 2046  
-  * Amadeus (Director's Cut)  
-  * Annonces matrimoniales  
-  * Body Double  
-  * Canine  
-  * Chant du Missouri (Le)  
-  * Chantage  
-  * Conte cruel  
-  * Convoi (Le)  
-  * Dame du vendredi (La)  
-  * Devil in Miss Jones (The)  
-  * Ecce bombo  
-  * Freaks  
-  * Gilda  
-  * Ils vont tous bien  
-  * Justice des hommes (La)  
-  * Lady for a Night  
-  * Maison et le monde (La)  
-  * Napoléon vu par Abel Gance (partie 1)  
-  * Napoléon vu par Abel Gance (partie 2)  
-  * Parapluies de Cherbourg (Les)  
-  * Péché mortel  
-  * Pépé le Moko  
-  * Portrait de Dorian Gray (Le)  
-  * Qui donc a vu ma belle ?  
-  * Sa vie  
-  * Sans rien savoir d'elle  
-  * Sur la piste des Mohawks  
-  * Surcouf  
-  * Tasio  
-  * Torso
-
 ## David Cronenberg (36)
 
   * A Dangerous Method  
@@ -395,6 +361,40 @@
   * Black Journal  
   * Take Shelter  
   * Une étrange affaire
+
+## Restaurations et raretés (31)
+
+  * 2046  
+  * Amadeus (Director's Cut)  
+  * Annonces matrimoniales  
+  * Body Double  
+  * Canine  
+  * Chant du Missouri (Le)  
+  * Chantage  
+  * Conte cruel  
+  * Convoi (Le)  
+  * Dame du vendredi (La)  
+  * Devil in Miss Jones (The)  
+  * Ecce bombo  
+  * Freaks  
+  * Gilda  
+  * Ils vont tous bien  
+  * Justice des hommes (La)  
+  * Lady for a Night  
+  * Maison et le monde (La)  
+  * Napoléon vu par Abel Gance (partie 1)  
+  * Napoléon vu par Abel Gance (partie 2)  
+  * Parapluies de Cherbourg (Les)  
+  * Péché mortel  
+  * Pépé le Moko  
+  * Portrait de Dorian Gray (Le)  
+  * Qui donc a vu ma belle ?  
+  * Sa vie  
+  * Sans rien savoir d'elle  
+  * Sur la piste des Mohawks  
+  * Surcouf  
+  * Tasio  
+  * Torso
 
 ## Sergueï Paradjanov (15)
 
