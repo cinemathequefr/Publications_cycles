@@ -65,6 +65,7 @@
   * D'un château l'autre  
   * En chien  
   * Histoire tragique avec fin heureuse  
+  * Il était une fois un merle chanteur  
   * Lit de punaise  
   * Misérable miracle  
   * Mont Noir  
@@ -79,7 +80,6 @@
   * Te quiero ma vahiné  
   * Trouble-fête  
   * Una luna de hierro  
-  * Up the River  
   * Vie à rebours (La)  
   * Voix des sirènes (La)
 

@@ -722,17 +722,51 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 139447,
+          "idSeance": 185132,
+          "ordre": 2,
+          "dateHeure": "2024-11-04T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 150,
+          "mention": "Séance suivie d'une discussion avec Yuna Alonzo",
+          "idCategorie": 3433,
+          "idEvenement": 31775,
+          "typeEvenement": 13,
+          "idFilm": 41206,
+          "titre": "Il était une fois un merle chanteur",
+          "titreVo": "Iqo chachvi mgalobeli",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1971,
+          "pays": "URSS",
+          "duree": 85,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Gogi Chkheidze",
+            "Gela Kandelaki",
+            "Irina Djandieri"
+          ],
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+            }
+          ]
+        },
+        {
+          "idSeance": 185132,
           "ordre": 1,
           "dateHeure": "2024-11-04T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
           ],
-          "dureeSeance": 165,
+          "dureeSeance": 150,
           "mention": "Séance suivie d'une discussion avec Yuna Alonzo",
           "idCategorie": 3433,
-          "idEvenement": 31390,
+          "idEvenement": 31775,
           "typeEvenement": 13,
           "idFilm": 154918,
           "titre": "Te quiero ma vahiné",
@@ -747,34 +781,6 @@
             "Lucie Cizeau",
             "Simon Gaillot",
             "Ysé Sorel"
-          ],
-          "textes": []
-        },
-        {
-          "idSeance": 139447,
-          "ordre": 2,
-          "dateHeure": "2024-11-04T19:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 165,
-          "mention": "Séance suivie d'une discussion avec Yuna Alonzo",
-          "idCategorie": 3433,
-          "idEvenement": 31390,
-          "typeEvenement": 13,
-          "idFilm": 67331,
-          "titre": "Up the River",
-          "realisateurs": "John Ford",
-          "annee": 1930,
-          "pays": "États-Unis",
-          "duree": 92,
-          "version": "VOSTF",
-          "format": "35 mm",
-          "generique": [
-            "Spencer Tracy",
-            "Warren Hymer",
-            "Humphrey Bogart"
           ],
           "textes": []
         }
@@ -1018,6 +1024,10 @@
           "duree": 40,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Pierre Nisse",
+            "Francine Atoch"
+          ],
           "textes": []
         },
         {
