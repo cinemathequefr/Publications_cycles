@@ -457,7 +457,7 @@
               "idSeance": 138328,
               "dateHeure": "2025-01-20T20:00:00",
               "idSalle": "HL",
-              "mention": ""
+              "mention": " Séance présentée par David Cronenberg et Diane Kruger"
             }
           ]
         },
@@ -971,13 +971,44 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 30563,
+          "content": [
+            {
+              "idConf": 30563,
+              "titre": "David Cronenberg par David Cronenberg, une leçon de cinéma",
+              "typeConference": "Leçon de cinéma",
+              "miniTexte": "« Mon style est viscéral. Si je regarde à travers le viseur de la caméra et que quelque chose cloche, je n'insiste pas et je n'utilise pas l'optique pour laquelle j'avais initialement opté. Au début de ma carrière, alors que je n'étais que scénariste, je me suis dit : “Si ça se trouve, je n'ai aucun sens du cadre.” Mais en réalité, à chaque fois que je regardais à travers l'œilleton, certaines choses me semblaient évidentes et d'autres vraiment, vraiment aberrantes. C'était une sensation très physique. Depuis, cette intuition guide mes choix d'objectifs, d'angles de caméra, etc. J'ai beau essayer de rationaliser mon art, il reste toujours très intuitif. » (David Cronenberg)"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185133,
+              "dateHeure": "2025-01-23T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Avant-première": [
       {
         "dateHeure": "2025-01-20T20:00:00",
-        "titreFilms": "Les Linceuls"
+        "titreFilms": "Les Linceuls",
+        "mention": " Séance présentée par David Cronenberg et Diane Kruger"
+      }
+    ],
+    "Leçon de cinéma": [
+      {
+        "titre": "David Cronenberg par David Cronenberg, une leçon de cinéma",
+        "dateHeure": "2025-01-23T20:00:00"
       }
     ],
     "Dialogue": [
@@ -985,6 +1016,13 @@
         "titreFilms": "A History of Violence",
         "mention": "avec Jean-François Rauger",
         "dateHeure": "2025-01-25T14:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Les Linceuls",
+        "mention": "par David Cronenberg et Diane Kruger",
+        "dateHeure": "2025-01-20T20:00:00"
       }
     ]
   }

@@ -419,7 +419,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 150,
-          "mention": "Avant-première",
+          "mention": "Avant-première. Séance présentée par David Cronenberg et Diane Kruger",
           "idCategorie": 2673,
           "idEvenement": 30534,
           "typeEvenement": 13,
@@ -1208,6 +1208,36 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 185133,
+          "dateHeure": "2025-01-23T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 2690,
+          "idEvenement": 30563,
+          "typeEvenement": 14,
+          "idTypeConference": 15,
+          "typeConference": "Leçon de cinéma",
+          "titre": "David Cronenberg par David Cronenberg, une leçon de cinéma",
+          "duree": 60,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "« Mon style est viscéral. Si je regarde à travers le viseur de la caméra et que quelque chose cloche, je n'insiste pas et je n'utilise pas l'optique pour laquelle j'avais initialement opté. Au début de ma carrière, alors que je n'étais que scénariste, je me suis dit : “Si ça se trouve, je n'ai aucun sens du cadre.” Mais en réalité, à chaque fois que je regardais à travers l'œilleton, certaines choses me semblaient évidentes et d'autres vraiment, vraiment aberrantes. C'était une sensation très physique. Depuis, cette intuition guide mes choix d'objectifs, d'angles de caméra, etc. J'ai beau essayer de rationaliser mon art, il reste toujours très intuitif. » (David Cronenberg)"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "David Cronenberg",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            }
+          ]
+        },
+        {
           "idSeance": 184769,
           "ordre": 2,
           "dateHeure": "2025-01-25T14:30:00",
@@ -1243,6 +1273,11 @@
       "textes": []
     }
   ],
-  "textes": [],
+  "textes": [
+    {
+      "typeTexte": 263,
+      "texte": "Cinémathèque Suisse, La Cinémathèque Québécoise, Le Pacte, Svenska Filminstitutet, TIFF Cinematheque"
+    }
+  ],
   "info": {}
 }
