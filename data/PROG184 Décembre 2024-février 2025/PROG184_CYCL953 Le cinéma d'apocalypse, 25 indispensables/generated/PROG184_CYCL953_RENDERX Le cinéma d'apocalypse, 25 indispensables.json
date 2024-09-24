@@ -359,36 +359,52 @@
           ]
         },
         {
-          "idFilm": 61377,
-          "content": [
+          "groupe": [
             {
               "idFilm": 61377,
-              "ordre": 1,
-              "titre": "Monde, la chair et le diable",
-              "art": "Le",
-              "titreVo": "World, the Flesh and the Devil",
-              "artVo": "The",
-              "realisateurs": "Ranald MacDougall",
-              "pays": "États-Unis",
-              "annee": 1959,
-              "duree": 94,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _The Purple Cloud_ de Matthew Phipps Shiel.",
-              "generique": [
-                "Harry Belafonte",
-                "Inger Stevens",
-                "Mel Ferrer"
-              ],
-              "miniTexte": "Huis clos apocalyptique, réalisé en plein mouvement des droits civiques et des luttes afro-américaines, le film pose frontalement la question : et si les deux dernières personnes sur Terre étaient un homme noir et une femme blanche ? Dans un Manhattan déserté, vertigineux, une production SF atypique des années 50, qui, derrière la réflexion sur le péril nucléaire, s'interroge sur le racisme, la violence et les rapports humains, à l'aube d'une société à reconstruire."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 61377,
+                  "ordre": 1,
+                  "titre": "Monde, la chair et le diable",
+                  "art": "Le",
+                  "titreVo": "World, the Flesh and the Devil",
+                  "artVo": "The",
+                  "realisateurs": "Ranald MacDougall",
+                  "pays": "États-Unis",
+                  "annee": 1959,
+                  "duree": 94,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _The Purple Cloud_ de Matthew Phipps Shiel.",
+                  "generique": [
+                    "Harry Belafonte",
+                    "Inger Stevens",
+                    "Mel Ferrer"
+                  ],
+                  "miniTexte": "Huis clos apocalyptique, réalisé en plein mouvement des droits civiques et des luttes afro-américaines, le film pose frontalement la question : et si les deux dernières personnes sur Terre étaient un homme noir et une femme blanche ? Dans un Manhattan déserté, vertigineux, une production SF atypique des années 50, qui, derrière la réflexion sur le péril nucléaire, s'interroge sur le racisme, la violence et les rapports humains, à l'aube d'une société à reconstruire."
+                }
+              ]
+            },
             {
-              "idSeance": 185062,
-              "typeAssoc": 118,
-              "dateHeure": "2025-02-22T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 31683,
+              "content": [
+                {
+                  "idConf": 31683,
+                  "ordre": 2,
+                  "titre": "Dialogue avec François Angelier",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Jean-François Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 185062,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-02-22T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -647,7 +663,8 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Mad Max",
+      "titreSousCycle": "Mad Max, l'intégrale",
+      "texteSousCycle": "« Oh, what a day... what a lovely day! » La saga apocalyptique de George Miller déboule sur l'écran géant de la salle Henri Langlois, pour un week-end de bruit et de fureur.",
       "items": [
         {
           "idFilm": 35153,
@@ -793,32 +810,6 @@
             {
               "idSeance": 139060,
               "dateHeure": "2025-02-16T18:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 1,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 31683,
-          "content": [
-            {
-              "idEvenement": 31683,
-              "ordre": 2,
-              "titre": "Dialogue avec François Angelier",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Jean-François Rauger"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185062,
-              "typeAssoc": 118,
-              "dateHeure": "2025-02-22T14:30:00",
               "idSalle": "HL"
             }
           ]
