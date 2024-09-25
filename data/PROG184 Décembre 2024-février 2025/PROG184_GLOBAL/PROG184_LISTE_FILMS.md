@@ -43,7 +43,7 @@
 
   * Cauchemars naissent la nuit (Les)  
   * Fantôme, ma femme et moi (Le)  
-  * Grande java (La)  
+  * Grande Java (La)  
   * Inassouvies (Les)  
   * Invasion U.S.A.  
   * Passagers de l'angoisse (Les)  
