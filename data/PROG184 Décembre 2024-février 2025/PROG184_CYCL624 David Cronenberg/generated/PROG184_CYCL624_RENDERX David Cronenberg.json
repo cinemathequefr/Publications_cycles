@@ -523,36 +523,53 @@
           ]
         },
         {
-          "idFilm": 31330,
-          "content": [
+          "groupe": [
             {
               "idFilm": 31330,
-              "ordre": 1,
-              "titre": "Mouche",
-              "art": "La",
-              "titreVo": "Fly",
-              "artVo": "The",
-              "realisateurs": "David Cronenberg",
-              "pays": "États-Unis",
-              "annee": 1986,
-              "duree": 96,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après la nouvelle _La Mouche_ de George Langelaan.",
-              "generique": [
-                "Jeff Goldblum",
-                "Geena Davis",
-                "John Getz"
-              ],
-              "isFocus": true,
-              "miniTexte": "Un scientifique timide et ambitieux (Jeff Goldblum, époustouflant) paie le prix de son audace lorsqu'il fusionne avec une mouche, qui s'est téléportée avec lui. Éprouvante mutation de l'homme à l'insecte, le remake de _La Mouche noire_(1958) s'impose comme une métaphore de la maladie, de la déliquescence du corps. À base d'images fortes, d'élans romantiques et de séquences cauchemardesques, Cronenberg instaure un crescendo de l'horreur pour faire réfléchir l'humain sur sa propre mortalité. Un vrai film d'amour, une immense tragédie sur l'absurdité du destin."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 31330,
+                  "ordre": 1,
+                  "titre": "Mouche",
+                  "art": "La",
+                  "titreVo": "Fly",
+                  "artVo": "The",
+                  "realisateurs": "David Cronenberg",
+                  "pays": "États-Unis",
+                  "annee": 1986,
+                  "duree": 96,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après la nouvelle _La Mouche_ de George Langelaan.",
+                  "generique": [
+                    "Jeff Goldblum",
+                    "Geena Davis",
+                    "John Getz"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Un scientifique timide et ambitieux (Jeff Goldblum, époustouflant) paie le prix de son audace lorsqu'il fusionne avec une mouche, qui s'est téléportée avec lui. Éprouvante mutation de l'homme à l'insecte, le remake de _La Mouche noire_(1958) s'impose comme une métaphore de la maladie, de la déliquescence du corps. À base d'images fortes, d'élans romantiques et de séquences cauchemardesques, Cronenberg instaure un crescendo de l'horreur pour faire réfléchir l'humain sur sa propre mortalité. Un vrai film d'amour, une immense tragédie sur l'absurdité du destin."
+                }
+              ]
+            },
             {
-              "idSeance": 185137,
-              "dateHeure": "2025-01-23T18:30:00",
-              "idSalle": "HL"
+              "idEvenement": 30563,
+              "content": [
+                {
+                  "idConf": 30563,
+                  "ordre": 2,
+                  "titre": "David Cronenberg par David Cronenberg, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma",
+                  "miniTexte": "« Mon style est viscéral. Si je regarde à travers le viseur de la caméra et que quelque chose cloche, je n'insiste pas et je n'utilise pas l'optique pour laquelle j'avais initialement opté. Au début de ma carrière, alors que je n'étais que scénariste, je me suis dit : “Si ça se trouve, je n'ai aucun sens du cadre.” Mais en réalité, à chaque fois que je regardais à travers l'œilleton, certaines choses me semblaient évidentes et d'autres vraiment, vraiment aberrantes. C'était une sensation très physique. Depuis, cette intuition guide mes choix d'objectifs, d'angles de caméra, etc. J'ai beau essayer de rationaliser mon art, il reste toujours très intuitif. » (David Cronenberg)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 185137,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-01-23T18:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -972,30 +989,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 30563,
-          "content": [
-            {
-              "idConf": 30563,
-              "titre": "David Cronenberg par David Cronenberg, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma",
-              "miniTexte": "« Mon style est viscéral. Si je regarde à travers le viseur de la caméra et que quelque chose cloche, je n'insiste pas et je n'utilise pas l'optique pour laquelle j'avais initialement opté. Au début de ma carrière, alors que je n'étais que scénariste, je me suis dit : “Si ça se trouve, je n'ai aucun sens du cadre.” Mais en réalité, à chaque fois que je regardais à travers l'œilleton, certaines choses me semblaient évidentes et d'autres vraiment, vraiment aberrantes. C'était une sensation très physique. Depuis, cette intuition guide mes choix d'objectifs, d'angles de caméra, etc. J'ai beau essayer de rationaliser mon art, il reste toujours très intuitif. » (David Cronenberg)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185133,
-              "dateHeure": "2025-01-23T20:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -1009,7 +1002,7 @@
     "Leçon de cinéma": [
       {
         "titre": "David Cronenberg par David Cronenberg, une leçon de cinéma",
-        "dateHeure": "2025-01-23T20:00:00"
+        "dateHeure": "2025-01-23T18:30:00"
       }
     ],
     "Dialogue": [

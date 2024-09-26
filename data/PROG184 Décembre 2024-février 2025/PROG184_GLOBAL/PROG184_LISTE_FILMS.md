@@ -362,7 +362,7 @@
   * Take Shelter  
   * Une étrange affaire
 
-## Restaurations et raretés (31)
+## Restaurations et raretés (32)
 
   * 2046  
   * Amadeus (Director's Cut)  
@@ -394,9 +394,10 @@
   * Sur la piste des Mohawks  
   * Surcouf  
   * Tasio  
-  * Torso
+  * Torso  
+  * Vagabond de Tokyo (Le)
 
-## Sergueï Paradjanov (15)
+## Sergueï Paradjanov (16)
 
   * Achik Kerib, conte d'un poète amoureux  
   * Andriech  
@@ -411,6 +412,7 @@
   * Premier Gars (Le)  
   * Rhapsodie ukrainienne  
   * Sayat Nova : La Couleur de la grenade  
+  * Scandale Paradjanov ou la vie tumultueuse d'un artiste (Le)  
   * Sergueï Paradjanov, le rebelle  
   * Une petite fleur sur la pierre
 
