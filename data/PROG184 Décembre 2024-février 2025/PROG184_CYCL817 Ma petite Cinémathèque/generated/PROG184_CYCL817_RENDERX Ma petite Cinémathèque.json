@@ -2,7 +2,7 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 1,
+      "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
         {
@@ -39,52 +39,7 @@
           ]
         },
         {
-          "idFilm": 66156,
-          "content": [
-            {
-              "idFilm": 66156,
-              "ordre": 3,
-              "titre": "Bons petits diables",
-              "art": "Les",
-              "titreVo": "Brats",
-              "realisateurs": "James Parrott",
-              "pays": "États-Unis",
-              "annee": 1930,
-              "duree": 25,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 3,
-              "generique": [
-                "Stan Laurel",
-                "Oliver Hardy"
-              ],
-              "miniTexte": "Des catastrophes et des gags en cascade : Laurel et Hardy se retrouvent aux prises avec leurs enfants, véritables clones miniatures, turbulents et facétieux. Grâce à des trucages astucieux, dans des décors géants, le duo comique interprète à la fois les pères et leur progéniture.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Bricoleurs",
-                    "Les"
-                  ],
-                  [
-                    "Laurel et Hardy menuisiers",
-                    null
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137948,
-              "dateHeure": "2025-01-05T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            }
-          ]
-        },
-        {
-          "idFilm": 66153,
+          "idEvenement": 31651,
           "content": [
             {
               "idFilm": 66153,
@@ -104,20 +59,43 @@
                 "Oliver Hardy",
                 "Fay Holderness"
               ],
-              "miniTexte": "Menacé par sa femme, Hardy, aidé par Laurel, doit installer une antenne radio sur le toit de leur maison. Chutes et péripéties en tous genres, pour un classique du burlesque porté par l'incontournable duo comique",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Laurel et Hardy menuisiers",
-                    null
-                  ],
-                  [
-                    "Bons petits diables",
-                    "Les"
-                  ]
-                ]
+              "miniTexte": "Menacé par sa femme, Hardy, aidé par Laurel, doit installer une antenne radio sur le toit de leur maison. Chutes et péripéties en tous genres, pour un classique du burlesque porté par l'incontournable duo comique"
+            },
+            {
+              "idFilm": 56885,
+              "ordre": 2,
+              "titre": "Laurel et Hardy menuisiers",
+              "titreVo": "Busy Bodies",
+              "realisateurs": "Lloyd French",
+              "pays": "États-Unis",
+              "annee": 1933,
+              "duree": 19,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3,
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy"
               ]
+            },
+            {
+              "idFilm": 66156,
+              "ordre": 3,
+              "titre": "Bons petits diables",
+              "art": "Les",
+              "titreVo": "Brats",
+              "realisateurs": "James Parrott",
+              "pays": "États-Unis",
+              "annee": 1930,
+              "duree": 25,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3,
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy"
+              ],
+              "miniTexte": "Des catastrophes et des gags en cascade : Laurel et Hardy se retrouvent aux prises avec leurs enfants, véritables clones miniatures, turbulents et facétieux. Grâce à des trucages astucieux, dans des décors géants, le duo comique interprète à la fois les pères et leur progéniture."
             }
           ],
           "seances": [
@@ -228,137 +206,6 @@
           ]
         },
         {
-          "idFilm": 102268,
-          "content": [
-            {
-              "idFilm": 102268,
-              "ordre": 5,
-              "titre": "Chez la sorcière",
-              "realisateurs": "Georges Méliès",
-              "pays": "France",
-              "annee": 1901,
-              "duree": null,
-              "version": "",
-              "format": "",
-              "ageMinimal": 3,
-              "precedeSuivi": [
-                [
-                  [
-                    "Panorama pris d'un train en marche",
-                    null
-                  ],
-                  [
-                    "Dislocation mystérieuse",
-                    null
-                  ],
-                  [
-                    "Lune à un mètre ou Le Rêve de l'astronome",
-                    "La"
-                  ],
-                  [
-                    "Chrysalide et le papillon d'or",
-                    "La"
-                  ]
-                ],
-                [
-                  [
-                    "Génie du feu",
-                    "Le"
-                  ],
-                  [
-                    "Voyage à travers l'impossible",
-                    null
-                  ],
-                  [
-                    "Un homme de têtes",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137061,
-              "dateHeure": "2024-12-04T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            },
-            {
-              "idSeance": 137390,
-              "dateHeure": "2024-12-15T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            }
-          ]
-        },
-        {
-          "idFilm": 65733,
-          "content": [
-            {
-              "idFilm": 65733,
-              "ordre": 4,
-              "titre": "Chrysalide et le papillon d'or",
-              "art": "La",
-              "realisateurs": "Georges Méliès",
-              "pays": "France",
-              "annee": 1901,
-              "duree": 2,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 3,
-              "precedeSuivi": [
-                [
-                  [
-                    "Panorama pris d'un train en marche",
-                    null
-                  ],
-                  [
-                    "Dislocation mystérieuse",
-                    null
-                  ],
-                  [
-                    "Lune à un mètre ou Le Rêve de l'astronome",
-                    "La"
-                  ]
-                ],
-                [
-                  [
-                    "Chez la sorcière",
-                    null
-                  ],
-                  [
-                    "Génie du feu",
-                    "Le"
-                  ],
-                  [
-                    "Voyage à travers l'impossible",
-                    null
-                  ],
-                  [
-                    "Un homme de têtes",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137061,
-              "dateHeure": "2024-12-04T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            },
-            {
-              "idSeance": 137390,
-              "dateHeure": "2024-12-15T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            }
-          ]
-        },
-        {
           "idFilm": 113539,
           "content": [
             {
@@ -386,74 +233,6 @@
           ]
         },
         {
-          "idFilm": 94151,
-          "content": [
-            {
-              "idFilm": 94151,
-              "ordre": 2,
-              "titre": "Dislocation mystérieuse",
-              "realisateurs": "Georges Méliès",
-              "pays": "France",
-              "annee": 1901,
-              "duree": 2,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 3,
-              "generique": [
-                "André Deed"
-              ],
-              "precedeSuivi": [
-                [
-                  [
-                    "Panorama pris d'un train en marche",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Lune à un mètre ou Le Rêve de l'astronome",
-                    "La"
-                  ],
-                  [
-                    "Chrysalide et le papillon d'or",
-                    "La"
-                  ],
-                  [
-                    "Chez la sorcière",
-                    null
-                  ],
-                  [
-                    "Génie du feu",
-                    "Le"
-                  ],
-                  [
-                    "Voyage à travers l'impossible",
-                    null
-                  ],
-                  [
-                    "Un homme de têtes",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137061,
-              "dateHeure": "2024-12-04T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            },
-            {
-              "idSeance": 137390,
-              "dateHeure": "2024-12-15T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            }
-          ]
-        },
-        {
           "idFilm": 116906,
           "content": [
             {
@@ -475,72 +254,6 @@
               "dateHeure": "2025-02-12T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 10
-            }
-          ]
-        },
-        {
-          "idFilm": 52467,
-          "content": [
-            {
-              "idFilm": 52467,
-              "ordre": 6,
-              "titre": "Génie du feu",
-              "art": "Le",
-              "realisateurs": "Georges Méliès",
-              "pays": "France",
-              "annee": 1908,
-              "duree": 4,
-              "version": "",
-              "format": "",
-              "ageMinimal": 3,
-              "precedeSuivi": [
-                [
-                  [
-                    "Panorama pris d'un train en marche",
-                    null
-                  ],
-                  [
-                    "Dislocation mystérieuse",
-                    null
-                  ],
-                  [
-                    "Lune à un mètre ou Le Rêve de l'astronome",
-                    "La"
-                  ],
-                  [
-                    "Chrysalide et le papillon d'or",
-                    "La"
-                  ],
-                  [
-                    "Chez la sorcière",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Voyage à travers l'impossible",
-                    null
-                  ],
-                  [
-                    "Un homme de têtes",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137061,
-              "dateHeure": "2024-12-04T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            },
-            {
-              "idSeance": 137390,
-              "dateHeure": "2024-12-15T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
             }
           ]
         },
@@ -766,116 +479,6 @@
           ]
         },
         {
-          "idFilm": 56885,
-          "content": [
-            {
-              "idFilm": 56885,
-              "ordre": 2,
-              "titre": "Laurel et Hardy menuisiers",
-              "titreVo": "Busy Bodies",
-              "realisateurs": "Lloyd French",
-              "pays": "États-Unis",
-              "annee": 1933,
-              "duree": 19,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 3,
-              "generique": [
-                "Stan Laurel",
-                "Oliver Hardy"
-              ],
-              "precedeSuivi": [
-                [
-                  [
-                    "Bricoleurs",
-                    "Les"
-                  ]
-                ],
-                [
-                  [
-                    "Bons petits diables",
-                    "Les"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137948,
-              "dateHeure": "2025-01-05T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            }
-          ]
-        },
-        {
-          "idFilm": 52505,
-          "content": [
-            {
-              "idFilm": 52505,
-              "ordre": 3,
-              "titre": "Lune à un mètre ou Le Rêve de l'astronome",
-              "art": "La",
-              "realisateurs": "Georges Méliès",
-              "pays": "France",
-              "annee": 1898,
-              "duree": 3,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 3,
-              "precedeSuivi": [
-                [
-                  [
-                    "Panorama pris d'un train en marche",
-                    null
-                  ],
-                  [
-                    "Dislocation mystérieuse",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Chrysalide et le papillon d'or",
-                    "La"
-                  ],
-                  [
-                    "Chez la sorcière",
-                    null
-                  ],
-                  [
-                    "Génie du feu",
-                    "Le"
-                  ],
-                  [
-                    "Voyage à travers l'impossible",
-                    null
-                  ],
-                  [
-                    "Un homme de têtes",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137061,
-              "dateHeure": "2024-12-04T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            },
-            {
-              "idSeance": 137390,
-              "dateHeure": "2024-12-15T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            }
-          ]
-        },
-        {
           "idFilm": 45294,
           "content": [
             {
@@ -904,70 +507,6 @@
               "dateHeure": "2025-02-16T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 4
-            }
-          ]
-        },
-        {
-          "idFilm": 84596,
-          "content": [
-            {
-              "idFilm": 84596,
-              "ordre": 1,
-              "titre": "Panorama pris d'un train en marche",
-              "realisateurs": "Georges Méliès",
-              "pays": "France",
-              "annee": 1898,
-              "duree": 2,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 3,
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Dislocation mystérieuse",
-                    null
-                  ],
-                  [
-                    "Lune à un mètre ou Le Rêve de l'astronome",
-                    "La"
-                  ],
-                  [
-                    "Chrysalide et le papillon d'or",
-                    "La"
-                  ],
-                  [
-                    "Chez la sorcière",
-                    null
-                  ],
-                  [
-                    "Génie du feu",
-                    "Le"
-                  ],
-                  [
-                    "Voyage à travers l'impossible",
-                    null
-                  ],
-                  [
-                    "Un homme de têtes",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137061,
-              "dateHeure": "2024-12-04T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            },
-            {
-              "idSeance": 137390,
-              "dateHeure": "2024-12-15T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
             }
           ]
         },
@@ -1032,70 +571,6 @@
           ]
         },
         {
-          "idFilm": 84496,
-          "content": [
-            {
-              "idFilm": 84496,
-              "ordre": 8,
-              "titre": "Un homme de têtes",
-              "realisateurs": "Georges Méliès",
-              "pays": "France",
-              "annee": 1898,
-              "duree": 1,
-              "version": "Autres",
-              "format": "35 mm",
-              "ageMinimal": 3,
-              "precedeSuivi": [
-                [
-                  [
-                    "Panorama pris d'un train en marche",
-                    null
-                  ],
-                  [
-                    "Dislocation mystérieuse",
-                    null
-                  ],
-                  [
-                    "Lune à un mètre ou Le Rêve de l'astronome",
-                    "La"
-                  ],
-                  [
-                    "Chrysalide et le papillon d'or",
-                    "La"
-                  ],
-                  [
-                    "Chez la sorcière",
-                    null
-                  ],
-                  [
-                    "Génie du feu",
-                    "Le"
-                  ],
-                  [
-                    "Voyage à travers l'impossible",
-                    null
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137061,
-              "dateHeure": "2024-12-04T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            },
-            {
-              "idSeance": 137390,
-              "dateHeure": "2024-12-15T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            }
-          ]
-        },
-        {
           "idFilm": 154984,
           "content": [
             {
@@ -1115,71 +590,6 @@
               "dateHeure": "2025-02-02T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 4
-            }
-          ]
-        },
-        {
-          "idFilm": 52512,
-          "content": [
-            {
-              "idFilm": 52512,
-              "ordre": 7,
-              "titre": "Voyage à travers l'impossible",
-              "realisateurs": "Georges Méliès",
-              "pays": "France",
-              "annee": 1904,
-              "duree": 22,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 3,
-              "precedeSuivi": [
-                [
-                  [
-                    "Panorama pris d'un train en marche",
-                    null
-                  ],
-                  [
-                    "Dislocation mystérieuse",
-                    null
-                  ],
-                  [
-                    "Lune à un mètre ou Le Rêve de l'astronome",
-                    "La"
-                  ],
-                  [
-                    "Chrysalide et le papillon d'or",
-                    "La"
-                  ],
-                  [
-                    "Chez la sorcière",
-                    null
-                  ],
-                  [
-                    "Génie du feu",
-                    "Le"
-                  ]
-                ],
-                [
-                  [
-                    "Un homme de têtes",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 137061,
-              "dateHeure": "2024-12-04T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            },
-            {
-              "idSeance": 137390,
-              "dateHeure": "2024-12-15T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
             }
           ]
         }
