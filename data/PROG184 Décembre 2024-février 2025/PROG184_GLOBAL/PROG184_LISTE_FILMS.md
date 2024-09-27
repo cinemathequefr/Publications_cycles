@@ -42,12 +42,12 @@
 
 ## Cinéma bis (8)
 
+  * Body Puzzle  
   * Cauchemars naissent la nuit (Les)  
+  * Delirium  
   * Fantôme, ma femme et moi (Le)  
   * Grande Java (La)  
   * Inassouvies (Les)  
-  * Invasion U.S.A.  
-  * Passagers de l'angoisse (Les)  
   * Pétomane (Le)  
   * Plus beau que moi, tu meurs
 
