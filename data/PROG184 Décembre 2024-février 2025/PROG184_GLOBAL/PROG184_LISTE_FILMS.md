@@ -261,7 +261,7 @@
   * Suspiria  
   * Vampyr
 
-## Ma petite Cinémathèque (28)
+## Ma petite Cinémathèque (20)
 
   * Aventuriers de l'Arche perdue (Les)  
   * Bons petits diables (Les)  
@@ -269,12 +269,8 @@
   * Cadet d'eau douce  
   * Cendrillon  
   * Cerf-volant du bout du monde  
-  * Chez la sorcière  
-  * Chrysalide et le papillon d'or (La)  
   * Contes de la nuit (Les)  
-  * Dislocation mystérieuse  
   * Enfants loups, Ame et Yuki (Les)  
-  * Génie du feu (Le)  
   * Hugo Cabret  
   * Ile de Black Mor (L')  
   * Indiana Jones et la dernière croisade  
@@ -283,14 +279,10 @@
   * Kid (Le)  
   * Kiki la petite sorcière  
   * Laurel et Hardy menuisiers  
-  * Lune à un mètre ou Le Rêve de l'astronome (La)  
   * Mary Poppins  
-  * Panorama pris d'un train en marche  
   * Petit Dinosaure et la vallée des merveilles (Le)  
   * Tout en haut du monde  
-  * Un homme de têtes  
-  * Une guitare à la mer  
-  * Voyage à travers l'impossible
+  * Une guitare à la mer
 
 ## Marlon Brando (19)
 
