@@ -272,7 +272,7 @@
   * Contes de la nuit (Les)  
   * Enfants loups, Ame et Yuki (Les)  
   * Hugo Cabret  
-  * Ile de Black Mor (L')  
+  * Île de Black Mór (L')  
   * Indiana Jones et la dernière croisade  
   * Indiana Jones et le temple maudit  
   * Jason et les Argonautes  
