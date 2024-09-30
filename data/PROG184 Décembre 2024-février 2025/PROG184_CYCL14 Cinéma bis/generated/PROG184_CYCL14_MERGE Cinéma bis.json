@@ -1,6 +1,81 @@
 {
   "data": [
     {
+      "titreSousCycle": "Une soirée avec Lamberto Bava",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 185311,
+          "ordre": 1,
+          "dateHeure": "2024-12-06T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "mention": "Séance présentée par Lamberto Bava",
+          "idCategorie": 3655,
+          "idEvenement": 31801,
+          "typeEvenement": 13,
+          "idFilm": 155012,
+          "titre": "Body Puzzle",
+          "realisateurs": "Lamberto Bava",
+          "annee": 1992,
+          "pays": "Italie",
+          "duree": 99,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Joanna Pacuła",
+            "Tomas Arana",
+            "François Montagut"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 185310,
+          "ordre": 1,
+          "dateHeure": "2024-12-06T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "mention": "Séance suivie d'une discussion avec Lamberto Bava",
+          "idCategorie": 3655,
+          "idEvenement": 31802,
+          "typeEvenement": 13,
+          "idFilm": 155013,
+          "titre": "Delirium",
+          "artVo": "Le",
+          "titreVo": "Foto di Gioia",
+          "realisateurs": "Lamberto Bava",
+          "annee": 1987,
+          "pays": "Italie",
+          "duree": 94,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Serena Grandi",
+            "Vanni Corbellini",
+            "George Eastman"
+          ],
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Film également connu sous le titre _Sentences de mort_."
+            }
+          ]
+        }
+      ],
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Imaginé pour Serena Grandi, _Delirium_ plonge dans les coulisses d'un magazine pour adultes qui voit sa directrice harcelée par un mystérieux tueur. Le point de départ d'un _whodunit_ tordu à l'esthétique érotico-chic, où Bava éclabousse les murs du baroque avec une collection de femmes victimes de sauvages meurtres fétichistes. Pour son retour au cinéma après une série de téléfilms, Bava reprend dans _Body Puzzle_ les codes du giallo avec un nouveau serial killer, dont les idées délirantes maintiennent le suspense jusqu'au twist final."
+        }
+      ]
+    },
+    {
       "titreSousCycle": "Philippe Clair",
       "tri": 4,
       "items": [
@@ -60,7 +135,12 @@
           "textes": []
         }
       ],
-      "textes": []
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Spécialiste d'un cinéma du gag outrancier, Philippe Clair s'est entouré de personnalités tapageuses, idéalement choisies pour célébrer l'extravagance de ses idées. Dans _La Grande Java_, ce sont d'abord les Charlots – pour leur premier film –, qui rivalisent de grimaces, tartes à la crème et travestissements lors d'un affrontement cartoonesque avec Francis Blanche. Puis c'est au tour d'Aldo Maccione de livrer un sommet de cabotinage, en séducteur italien à l'inimitable démarche chaloupée dans _Plus beau que moi, tu meurs_, comédie de mœurs exubérante, dont le burlesque flirte sans pudeur avec le mauvais goût."
+        }
+      ]
     },
     {
       "titreSousCycle": "Décadence de la comédie à l'italienne",
@@ -131,7 +211,12 @@
           "textes": []
         }
       ],
-      "textes": []
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Derrière un titre et une histoire insolites, _Le Pétomane_ dissimule un biopic à la psychologie surprenante, habile mélange de romance fictionnelle et de comédie italienne, entre farce et mélancolie. En fantaisiste contraint de cacher sa honte, Ugo Tognazzi dynamite une réflexion sur la gloire, la création et la pertinence du ridicule. Dans la série « La Lycéenne », _Le Fantôme, ma femme et moi_ joue également la carte du melting-pot improbable, avec une comédie surnaturelle aux élans horrifiques, où un facétieux fantôme empêche un couple de consommer son mariage."
+        }
+      ]
     },
     {
       "titreSousCycle": "Jess Franco",
@@ -199,60 +284,12 @@
           "textes": []
         }
       ],
-      "textes": []
-    },
-    {
-      "titreSousCycle": "Une soirée avec... Lamberto Bava",
-      "tri": 4,
-      "items": [
+      "textes": [
         {
-          "idSeance": 185311,
-          "ordre": 1,
-          "dateHeure": "2024-12-06T21:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3655,
-          "idEvenement": 31801,
-          "typeEvenement": 13,
-          "idFilm": 155012,
-          "titre": "Body Puzzle",
-          "realisateurs": "Lamberto Bava",
-          "annee": 1992,
-          "pays": "Italie",
-          "duree": 99,
-          "version": "VOSTF",
-          "format": "DCP",
-          "textes": []
-        },
-        {
-          "idSeance": 185310,
-          "ordre": 1,
-          "dateHeure": "2024-12-06T18:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 3655,
-          "idEvenement": 31802,
-          "typeEvenement": 13,
-          "idFilm": 155013,
-          "titre": "Delirium",
-          "artVo": "Le",
-          "titreVo": "Foto di Gioia",
-          "realisateurs": "Lamberto Bava",
-          "annee": 1987,
-          "pays": "Italie",
-          "duree": 94,
-          "version": "VOSTF",
-          "format": "DCP",
-          "textes": []
+          "typeTexte": 8,
+          "texte": "Dans _Les Inassouvies_, adapté d'un roman du marquis de Sade, messes noires et philtres d'amour s'entrechoquent pour une découverte du saphisme en forme de cauchemar éveillé, qui réunit Maria Rohm, habituée du cinéma de Franco, et Christopher Lee, tête pensante de la secte sadienne. Perdu durant plus de 30 ans, _Les Cauchemars naissent la nuit_, l'un des premiers films d'horreur du cinéaste, prend lui aussi l'allure d'une rêverie kitsch, où la relation de deux amantes se détricote, de folles passions en jeux de manipulation, après un meurtre sanglant."
         }
-      ],
-      "textes": []
+      ]
     }
   ],
   "textes": [],
