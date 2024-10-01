@@ -355,7 +355,7 @@
   * Take Shelter  
   * Une étrange affaire
 
-## Restaurations et raretés (32)
+## Restaurations et raretés (33)
 
   * 2046  
   * Amadeus (Director's Cut)  
@@ -381,6 +381,7 @@
   * Péché mortel  
   * Pépé le Moko  
   * Portrait de Dorian Gray (Le)  
+  * Quatre nuits d'un rêveur  
   * Qui donc a vu ma belle ?  
   * Sa vie  
   * Sans rien savoir d'elle  
