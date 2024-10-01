@@ -45,7 +45,7 @@
 
   * Carnet de notes pour une Orestie africaine
 
-## Aujourd'hui le cinéma (35)
+## Aujourd'hui le cinéma (37)
 
   * Across the Waters  
   * Alger la blanche  
@@ -53,6 +53,7 @@
   * Anges déchus (Les)  
   * Après Anna  
   * Après le soleil  
+  * Baby  
   * Belles Cicatrices (Les)  
   * Bernacles  
   * Captive (La)  
@@ -81,6 +82,7 @@
   * Trouble-fête  
   * Una luna de hierro  
   * Vie à rebours (La)  
+  * Visita (A)  
   * Voix des sirènes (La)
 
 ## Bo Widerberg (14)
