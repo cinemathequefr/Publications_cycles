@@ -271,7 +271,7 @@
   * Tableau (Le)  
   * Une odeur de géranium
 
-## Les 50 ans de MK2 (18)
+## Les 50 ans de MK2 (17)
 
   * Apiculteur (L')  
   * Au revoir les enfants  
@@ -283,7 +283,6 @@
   * Femme est l'avenir de l'homme (La)  
   * Mazeppa  
   * Mélo  
-  * Nuit de San Lorenzo (La)  
   * Nuit noire, Calcutta  
   * Sauve qui peut (la vie)  
   * Sept jours ailleurs  
