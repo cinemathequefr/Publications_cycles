@@ -34,7 +34,7 @@
           "seances": [
             {
               "idSeance": 185332,
-              "dateHeure": "2025-01-26T20:15:00",
+              "dateHeure": "2025-01-26T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -575,34 +575,51 @@
           ]
         },
         {
-          "idFilm": 103263,
-          "content": [
+          "groupe": [
             {
               "idFilm": 103263,
-              "ordre": 1,
-              "titre": "Promesses de l'ombre",
-              "art": "Les",
-              "titreVo": "Eastern Promises",
-              "realisateurs": "David Cronenberg",
-              "pays": "Grande-Bretagne-Canada-États-Unis",
-              "annee": 2007,
-              "duree": 0,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Viggo Mortensen",
-                "Naomi Watts",
-                "Vincent Cassel",
-                "Armin Mueller-Stahl"
-              ],
-              "miniTexte": "Une plongée en apnée au cœur de la mafia russe, pensée comme la face B d'_A History of Violence_. Avec les codes du western, du mélodrame et du film noir, les obsessions organiques de Cronenberg rejoignent le film de genre pour une tragédie familiale shakespearienne à la réalisation aussi virtuose que limpide."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 103263,
+                  "ordre": 1,
+                  "titre": "Promesses de l'ombre",
+                  "art": "Les",
+                  "titreVo": "Eastern Promises",
+                  "realisateurs": "David Cronenberg",
+                  "pays": "Grande-Bretagne-Canada-États-Unis",
+                  "annee": 2007,
+                  "duree": 0,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Viggo Mortensen",
+                    "Naomi Watts",
+                    "Vincent Cassel",
+                    "Armin Mueller-Stahl"
+                  ],
+                  "miniTexte": "Une plongée en apnée au cœur de la mafia russe, pensée comme la face B d'_A History of Violence_. Avec les codes du western, du mélodrame et du film noir, les obsessions organiques de Cronenberg rejoignent le film de genre pour une tragédie familiale shakespearienne à la réalisation aussi virtuose que limpide."
+                }
+              ]
+            },
             {
-              "idSeance": 185308,
-              "dateHeure": "2025-01-26T17:30:00",
-              "idSalle": "HL"
+              "idEvenement": 31817,
+              "content": [
+                {
+                  "idConf": 31817,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Viggo Mortensen",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "« Je savais que David [Cronenberg] était un cinéaste artiste, qu'il semblait très intelligent. Je me demandais si dans nos relations, il serait agréable ou étrange. Il est les deux. Il est agréablement étrange ou étrangement agréable ! » (Viggo Mortensen)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 185308,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-01-26T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -1006,11 +1023,16 @@
         "dateHeure": "2025-01-23T18:30:00"
       }
     ],
-    "Dialogue": [
+    "Dialogues": [
       {
         "titreFilms": "A History of Violence",
         "mention": "avec Jean-François Rauger",
         "dateHeure": "2025-01-25T14:30:00"
+      },
+      {
+        "titreFilms": "Les Promesses de l'ombre",
+        "mention": "avec Viggo Mortensen",
+        "dateHeure": "2025-01-26T14:30:00"
       }
     ],
     "Séances présentées": [

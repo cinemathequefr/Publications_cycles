@@ -5885,6 +5885,40 @@
     "hashEvenement": "f34443"
   },
   {
+    "idSeance": 185308,
+    "idEvenement": 25736,
+    "dateHeure": "2025-01-26T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "David Cronenberg",
+        "Les films"
+      ],
+      [
+        "David Cronenberg",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 103263,
+        "titre": "Promesses de l'ombre",
+        "art": "Les",
+        "realisateurs": "David Cronenberg",
+        "annee": 2007,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idConf": 31817,
+        "titre": "Dialogue avec Viggo Mortensen",
+        "typeConference": "Dialogue",
+        "duree": 75
+      }
+    ],
+    "hashEvenement": "f103263c31817"
+  },
+  {
     "idSeance": 138506,
     "idEvenement": 31560,
     "dateHeure": "2025-01-26T15:00:00",
@@ -5907,30 +5941,6 @@
       }
     ],
     "hashEvenement": "f36382"
-  },
-  {
-    "idSeance": 185308,
-    "idEvenement": 25736,
-    "dateHeure": "2025-01-26T17:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "David Cronenberg",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 103263,
-        "titre": "Promesses de l'ombre",
-        "art": "Les",
-        "realisateurs": "David Cronenberg",
-        "annee": 2007,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f103263"
   },
   {
     "idSeance": 138508,
@@ -5959,7 +5969,7 @@
   {
     "idSeance": 185332,
     "idEvenement": 25738,
-    "dateHeure": "2025-01-26T20:15:00",
+    "dateHeure": "2025-01-26T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7023,7 +7033,7 @@
       {
         "idConf": 31671,
         "titre": "Jean Zay, la détention comme expérience intérieure",
-        "sousTitre": "Conférence de Laurent Veray et Thomas Schmitt",
+        "sousTitre": "Conférence de Laurent Véray et Thomas Schmitt",
         "typeConference": "Conférence",
         "duree": 90
       }
@@ -7099,9 +7109,10 @@
     "items": [
       {
         "idConf": 31718,
-        "titre": "Les salles de cinéma argentiques",
-        "sousTitre": "Après-midi d'étude",
-        "typeConference": "Conférence"
+        "titre": "Les salles de cinéma : acoustique et architecture",
+        "sousTitre": "Conférence d'Éric Vivié et Simon Edelstein",
+        "typeConference": "Conférence",
+        "duree": 90
       }
     ],
     "hashEvenement": "c31718"
@@ -8448,7 +8459,7 @@
         "titre": "Los Angeles 2013",
         "realisateurs": "John Carpenter",
         "annee": 1995,
-        "duree": 101,
+        "duree": 100,
         "version": "VOSTF",
         "format": "35 mm"
       }
