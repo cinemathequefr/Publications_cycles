@@ -408,7 +408,7 @@
   * Premier Gars (Le)  
   * Rhapsodie ukrainienne  
   * Sayat Nova : La Couleur de la grenade  
-  * Scandale Paradjanov ou la vie tumultueuse d'un artiste (Le)  
+  * Scandale Paradjanov ou la vie tumultueuse d'un artiste soviétique (Le)  
   * Sergueï Paradjanov, le rebelle  
   * Une petite fleur sur la pierre
 
