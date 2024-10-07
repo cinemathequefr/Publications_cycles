@@ -1,4 +1,4 @@
-> Un an après une première édition qui fit de Bercy l'épicentre de l'effroi, la Cinémathèque vous propose une nouvelle sélection de classiques du cinéma d'horreur, signés des plus grands réalisateurs à s'être frottés au genre depuis un siècle : Carl Theodor Dreyer, George Romero, Tod Browning, Jacques Tourneur, Hideo Nakata, Stanley Kubrick ou encore Dario Argento.
+> Un an après une première édition qui fit de Bercy l'épicentre de l'effroi, la Cinémathèque propose une nouvelle sélection de classiques du cinéma d'horreur, signés des plus grands réalisateurs à s'être frottés au genre depuis un siècle : Carl Theodor Dreyer, George Romero, Tod Browning, Jacques Tourneur, Hideo Nakata, Stanley Kubrick ou encore Dario Argento.
 
 # Dans la tête d'un fou
 
