@@ -1,4 +1,4 @@
-> Il se qualifiait modestement de « rebouteux, rempailleur de films » mais son sens du verbe, son inventivité et sa poésie ont laissé une marque considérable sur le cinéma français, et sur les œuvres de Jean Renoir (_Le Crime de Monsieur Lange_), Jean Grémillon (_Remorques_) ou encore Marcel Carné (_Le Quai des brumes_, _Le jour se lève_, _Les Enfants du paradis_). Retour sur une filmographie foisonnante en quinze titres, à l'occasion de l'exposition qui lui est consacrée au Musée de Montmartre.
+> Jacques Prévert se qualifiait modestement de « rebouteux, rempailleur de films » mais son sens du verbe, son inventivité et sa poésie ont laissé une marque considérable sur le cinéma français, et sur les œuvres de Jean Renoir (_Le Crime de Monsieur Lange_), Jean Grémillon (_Remorques_) ou encore Marcel Carné (_Le Quai des brumes_, _Le jour se lève_, _Les Enfants du paradis_). Retour sur une filmographie foisonnante en quinze titres, à l'occasion de l'exposition qui lui est consacrée au Musée de Montmartre.
 
 # Prévert dialoguiste : l'enfer, c'est les mots
 
