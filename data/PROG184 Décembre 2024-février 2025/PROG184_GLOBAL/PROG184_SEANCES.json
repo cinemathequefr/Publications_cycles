@@ -752,6 +752,7 @@
         "Restaurations"
       ]
     ],
+    "mention": "Séance présentée par Amandine D'Azevedo",
     "items": [
       {
         "idFilm": 44713,
@@ -1397,7 +1398,7 @@
         "annee": 1993,
         "duree": 126,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f154916f41617"
@@ -1758,9 +1759,31 @@
     "hashEvenement": "f70690"
   },
   {
+    "idSeance": 187659,
+    "idEvenement": 31902,
+    "dateHeure": "2024-12-13T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 31902,
+        "titre": "Une caméra historique : le Parvo L d'Édouard Tissé, le directeur de la photographie d'Eisenstein",
+        "sousTitre": "Conférence de Laurent Mannoni",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c31902"
+  },
+  {
     "idSeance": 185367,
     "idEvenement": 31402,
-    "dateHeure": "2024-12-13T15:30:00",
+    "dateHeure": "2024-12-13T17:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1780,49 +1803,6 @@
       }
     ],
     "hashEvenement": "f33613"
-  },
-  {
-    "idSeance": 187659,
-    "idEvenement": 31902,
-    "dateHeure": "2024-12-13T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Conservatoire des techniques cinématographiques",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 31902,
-        "titre": "[Action culturelle sans titre]"
-      }
-    ],
-    "hashEvenement": "c31902"
-  },
-  {
-    "idSeance": 184911,
-    "idEvenement": 31408,
-    "dateHeure": "2024-12-13T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Marlon Brando",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35699,
-        "titre": "Missouri Breaks",
-        "realisateurs": "Arthur Penn",
-        "annee": 1976,
-        "duree": 126,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f35699"
   },
   {
     "idSeance": 137332,
@@ -1850,6 +1830,54 @@
     "hashEvenement": "f55489"
   },
   {
+    "idSeance": 184911,
+    "idEvenement": 31408,
+    "dateHeure": "2024-12-13T19:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Marlon Brando",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35699,
+        "titre": "Missouri Breaks",
+        "realisateurs": "Arthur Penn",
+        "annee": 1976,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35699"
+  },
+  {
+    "idSeance": 185067,
+    "idEvenement": 31304,
+    "dateHeure": "2024-12-13T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Karel Reisz",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 54601,
+        "titre": "Samedi soir, dimanche matin",
+        "realisateurs": "Karel Reisz",
+        "annee": 1960,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f54601"
+  },
+  {
     "idSeance": 145308,
     "idEvenement": 30976,
     "dateHeure": "2024-12-13T20:00:00",
@@ -1872,30 +1900,6 @@
       }
     ],
     "hashEvenement": "f39866"
-  },
-  {
-    "idSeance": 185067,
-    "idEvenement": 31304,
-    "dateHeure": "2024-12-13T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Karel Reisz",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 54601,
-        "titre": "Samedi soir, dimanche matin",
-        "realisateurs": "Karel Reisz",
-        "annee": 1960,
-        "duree": 90,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f54601"
   },
   {
     "idSeance": 184838,
@@ -2075,7 +2079,7 @@
         "art": "Les",
         "realisateurs": "Karel Reisz",
         "annee": 1978,
-        "duree": 105,
+        "duree": 127,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -2230,7 +2234,7 @@
   {
     "idSeance": 185366,
     "idEvenement": 31406,
-    "dateHeure": "2024-12-16T16:30:00",
+    "dateHeure": "2024-12-16T15:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2342,7 +2346,9 @@
         "titre": "Cendrillon",
         "realisateurs": "Wilfred Jackson, Hamilton Luske, Clyde Geronimi",
         "annee": 1950,
-        "duree": 74
+        "duree": 74,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f56486"
@@ -2517,7 +2523,6 @@
         "realisateurs": "Richard Pottier",
         "annee": 1935,
         "duree": 104,
-        "version": "VO",
         "format": "35 mm"
       },
       {
@@ -2581,8 +2586,8 @@
     "hashEvenement": "f44468"
   },
   {
-    "idSeance": 184941,
-    "idEvenement": 31271,
+    "idSeance": 187660,
+    "idEvenement": 31262,
     "dateHeure": "2024-12-20T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -2591,20 +2596,19 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Jean-François Rauger",
     "items": [
       {
-        "idFilm": 42919,
-        "titre": "Grand Inquisiteur",
-        "art": "Le",
-        "realisateurs": "Michael Reeves",
-        "annee": 1968,
-        "duree": 86,
+        "idFilm": 36444,
+        "titre": "Chasse du comte Zaroff",
+        "art": "La",
+        "realisateurs": "Ernest B. Schoedsack, Irving Pichel",
+        "annee": 1932,
+        "duree": 65,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f42919"
+    "hashEvenement": "f36444"
   },
   {
     "idSeance": 145347,
@@ -2633,7 +2637,7 @@
   {
     "idSeance": 145315,
     "idEvenement": 31260,
-    "dateHeure": "2024-12-20T20:30:00",
+    "dateHeure": "2024-12-20T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2793,7 +2797,6 @@
         "realisateurs": "Marcel Carné",
         "annee": 1938,
         "duree": 92,
-        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -2863,7 +2866,9 @@
         "titre": "Cendrillon",
         "realisateurs": "Wilfred Jackson, Hamilton Luske, Clyde Geronimi",
         "annee": 1950,
-        "duree": 74
+        "duree": 74,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f56486"
@@ -2942,8 +2947,8 @@
     "hashEvenement": "f47315"
   },
   {
-    "idSeance": 145329,
-    "idEvenement": 31262,
+    "idSeance": 187661,
+    "idEvenement": 31271,
     "dateHeure": "2024-12-22T19:45:00",
     "salle": "GF",
     "cycle": [
@@ -2954,17 +2959,17 @@
     ],
     "items": [
       {
-        "idFilm": 36444,
-        "titre": "Chasse du comte Zaroff",
-        "art": "La",
-        "realisateurs": "Ernest B. Schoedsack, Irving Pichel",
-        "annee": 1932,
-        "duree": 65,
+        "idFilm": 42919,
+        "titre": "Grand Inquisiteur",
+        "art": "Le",
+        "realisateurs": "Michael Reeves",
+        "annee": 1968,
+        "duree": 86,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f36444"
+    "hashEvenement": "f42919"
   },
   {
     "idSeance": 185371,
@@ -3013,6 +3018,30 @@
       }
     ],
     "hashEvenement": "f102296"
+  },
+  {
+    "idSeance": 187662,
+    "idEvenement": 31399,
+    "dateHeure": "2024-12-23T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Marlon Brando",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33586,
+        "titre": "Sur les quais",
+        "realisateurs": "Elia Kazan",
+        "annee": 1954,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f33586"
   },
   {
     "idSeance": 137587,
@@ -3907,7 +3936,7 @@
         "realisateurs": "Otto Preminger",
         "annee": 1931,
         "duree": 76,
-        "version": "VO"
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f40843"
@@ -4461,6 +4490,7 @@
         "realisateurs": "Otto Preminger",
         "annee": 1953,
         "duree": 99,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -4568,7 +4598,6 @@
         "realisateurs": "René Laloux",
         "annee": 1965,
         "duree": 11,
-        "version": "VO",
         "format": "16 mm"
       },
       {
@@ -4601,7 +4630,7 @@
         "realisateurs": "Dave Fleischer",
         "annee": 1930,
         "duree": 6,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -4682,7 +4711,7 @@
         "realisateurs": "Frank Capra",
         "annee": 1927,
         "duree": 58,
-        "version": "INT. ANG.",
+        "version": "INT. FR.",
         "format": "16 mm"
       }
     ],
@@ -5349,7 +5378,7 @@
     "items": [
       {
         "idConf": 31717,
-        "titre": "[Les lanternes magiques]",
+        "titre": "Alfred Molteni à l'origine des projections lumineuses",
         "sousTitre": "Conférence de Patrice Guérin",
         "typeConference": "Conférence",
         "duree": 90
@@ -5902,7 +5931,7 @@
         "realisateurs": "Otto Preminger",
         "annee": 1968,
         "duree": 98,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "16 mm"
       }
     ],
@@ -6044,7 +6073,8 @@
         "art": "L'",
         "realisateurs": "Pierre Lary",
         "annee": 1982,
-        "duree": 94
+        "duree": 94,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f54759"
@@ -6753,9 +6783,9 @@
         "art": "L'",
         "realisateurs": "John Frankenheimer",
         "annee": 1962,
-        "duree": 109,
+        "duree": 111,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f32382"
@@ -7437,7 +7467,8 @@
         "realisateurs": "David Cronenberg",
         "annee": 1972,
         "duree": 22,
-        "version": "VO"
+        "version": "VOSTF",
+        "format": "Numérique"
       },
       {
         "idFilm": 130505,
@@ -7455,7 +7486,8 @@
         "realisateurs": "David Cronenberg",
         "annee": 1976,
         "duree": 30,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "Numérique"
       },
       {
         "idFilm": 130507,
@@ -7464,7 +7496,8 @@
         "realisateurs": "David Cronenberg",
         "annee": 1976,
         "duree": 30,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "Numérique"
       }
     ],
     "hashEvenement": "f130504f130505f130506f130507"
@@ -7879,7 +7912,7 @@
         "annee": 1962,
         "duree": 147,
         "version": "VOSTF",
-        "format": "Numérique"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f44798"
@@ -7928,7 +7961,7 @@
         "annee": 1975,
         "duree": 118,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f32409"
@@ -7952,7 +7985,7 @@
         "annee": 1974,
         "duree": 98,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f45966"
@@ -8089,7 +8122,10 @@
         "titre": "Enfants loups, Ame et Yuki",
         "art": "Les",
         "realisateurs": "Mamoru Hosoda",
-        "annee": 2011
+        "annee": 2011,
+        "duree": 117,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f116906"
@@ -8265,9 +8301,9 @@
         "art": "L'",
         "realisateurs": "John Frankenheimer",
         "annee": 1962,
-        "duree": 109,
+        "duree": 111,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f32382"
@@ -8315,7 +8351,7 @@
         "realisateurs": "Castleton Knight",
         "annee": 1927,
         "duree": 7,
-        "version": "INT. ANG.",
+        "version": "INT. FR.",
         "format": "35 mm"
       },
       {
@@ -8334,7 +8370,6 @@
         "realisateurs": "Jean Faurez",
         "annee": 1949,
         "duree": 15,
-        "version": "VF",
         "format": "35 mm"
       },
       {
@@ -8467,7 +8502,8 @@
         "realisateurs": "John Frankenheimer",
         "annee": 2002,
         "duree": 165,
-        "version": "VO"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f146889"
@@ -8709,7 +8745,7 @@
         "annee": 1962,
         "duree": 147,
         "version": "VOSTF",
-        "format": "Numérique"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f44798"
@@ -9019,7 +9055,7 @@
         "annee": 1975,
         "duree": 118,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f32409"
@@ -9696,7 +9732,7 @@
   {
     "idSeance": 139332,
     "idEvenement": 31467,
-    "dateHeure": "2025-02-27T21:30:00",
+    "dateHeure": "2025-02-27T21:00:00",
     "salle": "HL",
     "cycle": [
       [

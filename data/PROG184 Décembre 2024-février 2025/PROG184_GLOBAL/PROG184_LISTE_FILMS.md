@@ -286,7 +286,7 @@
   * Tout en haut du monde  
   * Une guitare à la mer
 
-## Marlon Brando (19)
+## Marlon Brando (20)
 
   * Apocalypse Now Redux  
   * Bal des maudits (Le)  
@@ -304,6 +304,7 @@
   * Poursuite impitoyable (La)  
   * Queimada  
   * Reflets dans un œil d'or  
+  * Sur les quais  
   * Un tramway nommé Désir  
   * Vengeance aux deux visages (La)  
   * Viva Zapata!

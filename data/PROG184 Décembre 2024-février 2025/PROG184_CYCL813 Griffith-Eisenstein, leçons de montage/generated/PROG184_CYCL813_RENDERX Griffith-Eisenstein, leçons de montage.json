@@ -41,35 +41,63 @@
           ]
         },
         {
-          "idFilm": 40279,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 31646,
+              "content": [
+                {
+                  "idConf": 31646,
+                  "titre": "Griffith/Eisenstein, leçons de montage",
+                  "sousTitre": "Conférence d'Ada Ackerman",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Le montage a représenté l'une des obsessions majeures d'Eisenstein, tant sur le plan de sa pratique que de sa réflexion théorique. Le cinéaste soviétique n'a jamais caché, à cet égard, sa dette envers Griffith, qu'il considérait comme un « patriarche du cinéma », et auquel il a consacré plusieurs textes dont le célèbre « Dickens, Griffith et nous ». De Griffith, il étudie attentivement le recours au gros plan et surtout l'emploi du montage alterné et parallèle, qui l'inspire tout autant qu'il cherche à le dépasser, que ce soit dans le « montage des attractions » ou dans le « montage intellectuel ». — Ada Ackerman"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 184898,
+                  "idSeanceAssoc": 139332,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-02-27T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 40279,
-              "ordre": 1,
-              "titre": "Cuirassé Potemkine",
-              "art": "Le",
-              "titreVo": "Bronenossets Potemkin",
-              "realisateurs": "Sergueï M. Eisenstein",
-              "pays": "URSS",
-              "annee": 1925,
-              "duree": 68,
-              "version": "INT. FR.",
-              "format": "DCP",
-              "generique": [
-                "Aleksandr Antonov",
-                "Vladimir Barski",
-                "Grigori Alexandrov"
+              "content": [
+                {
+                  "idFilm": 40279,
+                  "ordre": 1,
+                  "titre": "Cuirassé Potemkine",
+                  "art": "Le",
+                  "titreVo": "Bronenossets Potemkin",
+                  "realisateurs": "Sergueï M. Eisenstein",
+                  "pays": "URSS",
+                  "annee": 1925,
+                  "duree": 68,
+                  "version": "INT. FR.",
+                  "format": "DCP",
+                  "generique": [
+                    "Aleksandr Antonov",
+                    "Vladimir Barski",
+                    "Grigori Alexandrov"
+                  ],
+                  "miniTexte": "Chronique de la révolte des marins du navire de guerre en 1905, le plus célèbre des films d'Eisenstein, leçon de montage en même temps que petit précis de propagande. L'incroyable scène du landau dévalant les marches des escaliers d'Odessa a impressionné des générations de cinéastes – parmi lesquels De Palma, Woody Allen, Scola ou Terry Gilliam –, au point d'être érigé en totem de la culture populaire, célébré ou parodié dans des dizaines de films.",
+                  "restauration": true
+                }
               ],
-              "miniTexte": "Chronique de la révolte des marins du navire de guerre en 1905, le plus célèbre des films d'Eisenstein, leçon de montage en même temps que petit précis de propagande. L'incroyable scène du landau dévalant les marches des escaliers d'Odessa a impressionné des générations de cinéastes – parmi lesquels De Palma, Woody Allen, Scola ou Terry Gilliam –, au point d'être érigé en totem de la culture populaire, célébré ou parodié dans des dizaines de films.",
-              "restauration": true
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 139332,
-              "dateHeure": "2025-02-27T21:30:00",
-              "idSalle": "HL",
-              "mention": "Accompagnement musical par Rhys Chatham Guitar orchestra"
+              "seances": [
+                {
+                  "idSeance": 139332,
+                  "idSeanceAssoc": 139332,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-02-27T21:00:00",
+                  "idSalle": "HL",
+                  "mention": "Accompagnement musical par Rhys Chatham Guitar orchestra",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -260,31 +288,6 @@
               "dateHeure": "2025-03-01T19:00:00",
               "idSalle": "HL",
               "mention": "Accompagnement musical par La Mverte"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Les films",
-      "items": [
-        {
-          "idConf": 31646,
-          "content": [
-            {
-              "idConf": 31646,
-              "titre": "Griffith/Eisenstein, leçons de montage",
-              "sousTitre": "Conférence d'Ada Ackerman",
-              "typeConference": "Conférence",
-              "miniTexte": "Le montage a représenté l'une des obsessions majeures d'Eisenstein, tant sur le plan de sa pratique que de sa réflexion théorique. Le cinéaste soviétique n'a jamais caché, à cet égard, sa dette envers Griffith, qu'il considérait comme un « patriarche du cinéma », et auquel il a consacré plusieurs textes dont le célèbre « Dickens, Griffith et nous ». De Griffith, il étudie attentivement le recours au gros plan et surtout l'emploi du montage alterné et parallèle, qui l'inspire tout autant qu'il cherche à le dépasser, que ce soit dans le « montage des attractions » ou dans le « montage intellectuel ». — Ada Ackerman"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 184898,
-              "dateHeure": "2025-02-27T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }
