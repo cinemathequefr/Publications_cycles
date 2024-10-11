@@ -214,7 +214,7 @@
   * Cheval de Turin (Le)  
   * Choc des mondes (Le)  
   * Deep Impact  
-  * Dernier rivage  
+  * Dernier Rivage (Le)  
   * Derniers jours du monde (Les)  
   * Dr Folamour  
   * Fils de l'homme (Les)  
@@ -361,7 +361,7 @@
 ## Restaurations et raretés (33)
 
   * 2046  
-  * Amadeus (Director's Cut)  
+  * Amadeus  
   * Annonces matrimoniales  
   * Body Double  
   * Canine  
