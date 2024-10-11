@@ -413,9 +413,10 @@
   * Sergueï Paradjanov, le rebelle  
   * Une petite fleur sur la pierre
 
-## Séances spéciales (1)
+## Séances spéciales (2)
 
-  * Porte du paradis (La)
+  * Porte du paradis (La)  
+  * Saltimbanque
 
 ## Éric Demarsan (10)
 
