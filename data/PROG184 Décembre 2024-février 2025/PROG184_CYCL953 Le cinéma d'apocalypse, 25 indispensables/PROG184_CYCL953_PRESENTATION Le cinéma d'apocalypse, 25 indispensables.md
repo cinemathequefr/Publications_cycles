@@ -1,4 +1,4 @@
-> Le cinéma n'a pas attendu les récentes crises climatiques pour raconter la fin du monde : voilà plus de 60 ans que l'apocalypse est prétexte à débauche d'effets spéciaux (_Le Choc des mondes_, la saga Mad Max), retentissantes dystopies (_La Planète des singes_, _Les Fils de l'homme_), projections post-apo (_Le Monde, la chair et le diable_) ou autres méditations philosophiques (_Stalker_, _Take Shelter_, _Melancholia_). Inventaire avant la fin des temps, en 25 films.
+> Le cinéma n'a pas attendu les récentes crises climatiques pour raconter la fin du monde : voilà plus de 60 ans que l'apocalypse est prétexte à débauche d'effets spéciaux (_Le Choc des mondes_, la saga Mad Max), retentissantes dystopies (_La Planète des singes_, _Les Fils de l'homme_), projections post-apo (_Le Monde, la chair et le diable_) ou autres méditations philosophiques (_Stalker_, _Take Shelter_, _Melancholia_). Inventaire en 25 films avant la fin des temps, à l'occasion de l'exposition « Apocalypse » à la BnF.
 
 # La Dernière séance
 
