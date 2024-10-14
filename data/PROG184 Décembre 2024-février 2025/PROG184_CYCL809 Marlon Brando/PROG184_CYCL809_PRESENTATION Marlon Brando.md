@@ -1,4 +1,4 @@
-> C'est sur les planches, dans _Un tramway nommé Désir_, qu'il impose d'abord son jeu, une révolution qui va sidérer Elia Kazan, puis le monde entier, public, cinéastes et acteurs. « Marlon n'a jamais eu besoin d'apprendre à jouer. Il savait », dira Stella Adler, son enseignante à l'Actors Studio, école de jeu à laquelle on l'a un peu trop rapidement associé : instinctive, physique, la méthode de Brando ne connaît de fait aucun équivalent dans l'histoire du cinéma. La preuve en 25 chefs-d'œuvre, de _Viva Zapata!_ à _Apocalypse Now_.
+> C'est sur les planches, dans _Un tramway nommé Désir_, qu'il impose d'abord son jeu, une révolution qui va sidérer Elia Kazan, puis le monde entier, public, cinéastes et acteurs. « Marlon n'a jamais eu besoin d'apprendre à jouer. Il savait », dira Stella Adler, son enseignante à l'Actors Studio, école de jeu à laquelle on l'a un peu trop rapidement associé : instinctive, physique, la méthode de Brando ne connaît de fait aucun équivalent dans l'histoire du cinéma. La preuve en 20 chefs-d'œuvre, de _Viva Zapata!_ à _Apocalypse Now_.
 
 # Une touche de vert
 
