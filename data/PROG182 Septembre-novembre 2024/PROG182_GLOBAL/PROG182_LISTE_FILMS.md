@@ -456,37 +456,52 @@
   * Un chat, un chat  
   * Vérité zébrée (La)
 
-## Séances spéciales (29)
+## Séances spéciales (44)
 
   * À la recherche d'Aline  
   * All We Imagine As Light  
   * Aloïse  
   * Annonce (L')  
+  * Ataragon (bande-annonce)  
   * Berlue  
   * Ceux de chez nous  
+  * Claude Lelouch, la vie en mieux  
+  * Envahisseurs attaquent (bande-annonce) (Les)  
+  * Envahisseurs de l'espace (Les)  
   * Fabula  
   * Family Portraits, une trilogie américaine  
   * Félicie Nanteuil  
   * Fin d'été  
+  * François Truffaut, le scénario de ma vie  
   * Galets d'Étretat (Les)  
+  * Gappa, le descendant de Godzilla (bande-annonce)  
   * Godzilla contre Mecanik Monster  
   * Godzilla: Final Wars  
   * Grand Tour  
+  * Guerre des monstres (bande-Annonce) (La)  
+  * Hommes d'une autre planète (bande-annonce) (Les)  
   * Inside You  
+  * Invasion planète X (bande-annonce)  
   * Jeanne fait des siennes  
   * King Kong contre Godzilla  
+  * Latitude zéro (bande-annonce)  
   * Miséricorde  
   * Missionnaire  
+  * Monstres attaquent (bande-annonce) (Les)  
+  * Monstres du continent perdu (bande-annonce) (Les)  
+  * Objectif terre, mission apocalypse (bande-annonce)  
   * Passenger  
   * Petit Plafond  
   * Planète des monstres (La)  
   * Qui donc a rêvé ?  
+  * Revanche de King-Kong (bande-annonce) (La)  
   * Rivages intérieurs  
   * Sisters  
   * Stay Gold  
   * Theatre bizarre: The Accident (The)  
   * Trois kilomètres jusqu'à la fin du monde  
-  * Un beau monstre
+  * Un beau monstre  
+  * undefined
 
 ## Zucker, Abrahams et Zucker (7)
 

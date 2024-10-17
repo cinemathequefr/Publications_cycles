@@ -3,13 +3,92 @@
   "titre": "Mars-mai 2025",
   "cycles": [
     {
+      "idCycleProg": 11,
+      "titreCycle": "Séances spéciales",
+      "isReg": true,
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 14,
+      "titreCycle": "Cinéma bis",
+      "isReg": true,
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 472,
+      "titreCycle": "Archi Vives",
+      "isReg": true,
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 753,
+      "titreCycle": "Carlo Lizzani",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3248], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
       "idCycleProg": 970,
       "titreCycle": "Le western, 25 indispensables",
       "sousCycles": [
-        { "titre": "Les films", "cats": [3669], "tri": 4 },
+        { "titre": "Les films", "cats": [3669], "tri": 1 },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
-      "excludeSeances": []
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
+      "idCycleProg": 971,
+      "titreCycle": "Věra Chytilová",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3670], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
+      "idCycleProg": 972,
+      "titreCycle": "Wes Anderson",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3671], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
+      "idCycleProg": 973,
+      "titreCycle": "Robert Wise",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3672], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
+      "idCycleProg": 974,
+      "titreCycle": "Anna May Wong",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3673], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
+      "idCycleProg": 975,
+      "titreCycle": "Ernst Lubitsch",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3675], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "restaurations": []
     }
   ]
 }
