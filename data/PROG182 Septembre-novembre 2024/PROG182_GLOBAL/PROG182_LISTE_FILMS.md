@@ -456,7 +456,7 @@
   * Un chat, un chat  
   * Vérité zébrée (La)
 
-## Séances spéciales (44)
+## Séances spéciales (43)
 
   * À la recherche d'Aline  
   * All We Imagine As Light  
@@ -477,7 +477,6 @@
   * Gappa, le descendant de Godzilla (bande-annonce)  
   * Godzilla contre Mecanik Monster  
   * Godzilla: Final Wars  
-  * Grand Tour  
   * Guerre des monstres (bande-Annonce) (La)  
   * Hommes d'une autre planète (bande-annonce) (Les)  
   * Inside You  
@@ -492,6 +491,7 @@
   * Objectif terre, mission apocalypse (bande-annonce)  
   * Passenger  
   * Petit Plafond  
+  * Planète de monstres – Bande Annonce (La)  
   * Planète des monstres (La)  
   * Qui donc a rêvé ?  
   * Revanche de King-Kong (bande-annonce) (La)  
@@ -500,8 +500,7 @@
   * Stay Gold  
   * Theatre bizarre: The Accident (The)  
   * Trois kilomètres jusqu'à la fin du monde  
-  * Un beau monstre  
-  * undefined
+  * Un beau monstre
 
 ## Zucker, Abrahams et Zucker (7)
 
