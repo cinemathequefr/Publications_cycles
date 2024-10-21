@@ -5,13 +5,21 @@
   * 2019, après la chute de New York  
   * Atomic Cyborg
 
-## Ernst Lubitsch (5)
+## Ernst Lubitsch (13)
 
   * Ange  
   * Eventail de Lady Windermere (L')  
   * Haute Pègre  
+  * Homme que j'ai tué (L')  
+  * Huitième Femme de Barbe-Bleue (La)  
+  * Lieutenant souriant (Le)  
+  * Merry Widow (The)  
+  * Ninotchka  
   * Sérénade à trois  
-  * To Be or Not To Be
+  * Shop Around the Corner (The)  
+  * Si j'avais un million  
+  * To Be or Not To Be  
+  * Une heure près de toi
 
 ## Glauber Rocha (7)
 
