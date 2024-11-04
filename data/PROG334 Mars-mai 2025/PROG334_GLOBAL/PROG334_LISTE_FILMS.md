@@ -4,10 +4,23 @@
 
   * Piccadilly
 
-## Cinéma bis (2)
+## Carlo Lizzani (1)
+
+  * Vie aigre (La)
+
+## Cinéma bis (6)
 
   * 2019, après la chute de New York  
-  * Atomic Cyborg
+  * Atomic Cyborg  
+  * Fin du monde – Nostradamus an 2000  
+  * Gladiateur du futur (Le)  
+  * Malevil  
+  * Survivants de la fin du monde (Les)
+
+## Darren Aronofsky (2)
+
+  * Black Swan  
+  * Requiem for a Dream
 
 ## Ernst Lubitsch (20)
 
@@ -21,7 +34,7 @@
   * Huitième Femme de Barbe-Bleue (La)  
   * Illusions perdues  
   * Lieutenant souriant (Le)  
-  * Merry Widow (The)  
+  * Monte Carlo  
   * Ninotchka  
   * Prince étudiant (Le)  
   * Scandale à la cour  
@@ -32,9 +45,10 @@
   * Une heure près de toi  
   * Veuve joyeuse (La)
 
-## Glauber Rocha (10)
+## Glauber Rocha (11)
 
   * Âge de la terre (L')  
+  * Amazonas  
   * Antônio das mortes  
   * Barravento  
   * Câncer  

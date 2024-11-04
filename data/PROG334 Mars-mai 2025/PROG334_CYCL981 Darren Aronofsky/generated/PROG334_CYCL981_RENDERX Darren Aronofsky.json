@@ -1,0 +1,66 @@
+{
+  "datesCycle": [
+    "2025-04-02T20:00:00",
+    "2025-04-05T14:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 1,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 112692,
+          "content": [
+            {
+              "idFilm": 112692,
+              "ordre": 1,
+              "titre": "Black Swan",
+              "realisateurs": "Darren Aronofsky",
+              "pays": "États-Unis",
+              "annee": 2009,
+              "generique": [
+                "Natalie Portman",
+                "Mila Kunis",
+                "Vincent Cassel"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186114,
+              "dateHeure": "2025-04-05T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 69742,
+          "content": [
+            {
+              "idFilm": 69742,
+              "ordre": 1,
+              "titre": "Requiem for a Dream",
+              "realisateurs": "Darren Aronofsky",
+              "pays": "États-Unis",
+              "annee": 1999,
+              "duree": 102,
+              "version": "",
+              "format": "",
+              "adaptation": "D'après le roman _Requiem for a dream_ de Hubert Selby Jr.."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185995,
+              "dateHeure": "2025-04-02T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}

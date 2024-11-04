@@ -491,7 +491,7 @@
   * Objectif terre, mission apocalypse (bande-annonce)  
   * Passenger  
   * Petit Plafond  
-  * Planète de monstres – Bande Annonce (La)  
+  * Planète de monstres (bande-annonce) (La)  
   * Planète des monstres (La)  
   * Qui donc a rêvé ?  
   * Revanche de King-Kong (bande-annonce) (La)  
