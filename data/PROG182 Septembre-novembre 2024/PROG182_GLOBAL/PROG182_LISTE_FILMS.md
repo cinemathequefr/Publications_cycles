@@ -456,8 +456,9 @@
   * Un chat, un chat  
   * Vérité zébrée (La)
 
-## Séances spéciales (43)
+## Séances spéciales (46)
 
+  * À armes égales  
   * À la recherche d'Aline  
   * All We Imagine As Light  
   * Aloïse  
@@ -475,6 +476,7 @@
   * François Truffaut, le scénario de ma vie  
   * Galets d'Étretat (Les)  
   * Gappa, le descendant de Godzilla (bande-annonce)  
+  * Ghost  
   * Godzilla contre Mecanik Monster  
   * Godzilla: Final Wars  
   * Guerre des monstres (bande-Annonce) (La)  
@@ -498,6 +500,7 @@
   * Rivages intérieurs  
   * Sisters  
   * Stay Gold  
+  * Substance (The)  
   * Theatre bizarre: The Accident (The)  
   * Trois kilomètres jusqu'à la fin du monde  
   * Un beau monstre

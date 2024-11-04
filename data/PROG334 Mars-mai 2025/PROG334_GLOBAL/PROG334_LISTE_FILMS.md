@@ -8,10 +8,12 @@
 
   * Vie aigre (La)
 
-## Cinéma bis (6)
+## Cinéma bis (8)
 
   * 2019, après la chute de New York  
   * Atomic Cyborg  
+  * Chair pour Frankenstein  
+  * Du sang pour Dracula  
   * Fin du monde – Nostradamus an 2000  
   * Gladiateur du futur (Le)  
   * Malevil  

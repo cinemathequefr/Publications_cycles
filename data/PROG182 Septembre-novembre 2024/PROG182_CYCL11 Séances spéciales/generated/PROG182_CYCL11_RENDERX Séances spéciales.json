@@ -829,6 +829,99 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Journée Demi Moore",
+      "items": [
+        {
+          "idFilm": 29147,
+          "content": [
+            {
+              "idFilm": 29147,
+              "ordre": 1,
+              "titre": "À armes égales",
+              "titreVo": "G. I. Jane",
+              "realisateurs": "Ridley Scott",
+              "pays": "États-Unis",
+              "annee": 1997,
+              "duree": 125,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Demi Moore",
+                "Viggo Mortensen",
+                "Anne Bancroft"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187789,
+              "dateHeure": "2024-11-05T14:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 37100,
+          "content": [
+            {
+              "idFilm": 37100,
+              "ordre": 1,
+              "titre": "Ghost",
+              "realisateurs": "Jerry Zucker",
+              "pays": "États-Unis",
+              "annee": 1990,
+              "duree": 126,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Patrick Swayze",
+                "Demi Moore",
+                "Whoopi Goldberg"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187790,
+              "dateHeure": "2024-11-05T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 155044,
+          "content": [
+            {
+              "idFilm": 155044,
+              "ordre": 1,
+              "titre": "Substance",
+              "art": "The",
+              "realisateurs": "Coralie Fargeat",
+              "pays": "Grande-Bretagne-États-Unis-France",
+              "annee": 2024,
+              "duree": 140,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Demi Moore",
+                "Margaret Qualley",
+                "Dennis Quaid"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187791,
+              "dateHeure": "2024-11-05T20:30:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Avant-premières (séances privées)",
       "items": [
         {
@@ -894,6 +987,10 @@
       {
         "dateHeure": "2024-10-14T20:00:00",
         "titreFilms": "Trois kilomètres jusqu'à la fin du monde"
+      },
+      {
+        "dateHeure": "2024-11-05T20:30:00",
+        "titreFilms": "The Substance"
       }
     ],
     "Séance présentée": [

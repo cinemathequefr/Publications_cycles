@@ -2,7 +2,7 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 1,
+      "tri": 4,
       "titreSousCycle": "Apocalypse",
       "items": [
         {
@@ -88,6 +88,37 @@
           ]
         },
         {
+          "idFilm": 55238,
+          "content": [
+            {
+              "idFilm": 55238,
+              "ordre": 1,
+              "titre": "Survivants de la fin du monde",
+              "art": "Les",
+              "titreVo": "Damnation Alley",
+              "realisateurs": "Jack Smight",
+              "pays": "États-Unis",
+              "annee": 1976,
+              "duree": 91,
+              "version": "VF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Damnation Alley_ de Roger Zelazny.",
+              "generique": [
+                "Jan-Michael Vincent",
+                "George Peppard",
+                "Dominique Sanda"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186075,
+              "dateHeure": "2025-04-04T21:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 56901,
           "content": [
             {
@@ -128,7 +159,7 @@
               "pays": "France-RFA",
               "annee": 1980,
               "duree": 119,
-              "version": "VF",
+              "version": "Autres",
               "format": "35 mm",
               "adaptation": "D'après le roman _Malevil_ de Robert Merle.",
               "generique": [
@@ -145,35 +176,68 @@
               "idSalle": "GF"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Paul Morrissey",
+      "items": [
         {
-          "idFilm": 55238,
+          "idFilm": 59536,
           "content": [
             {
-              "idFilm": 55238,
+              "idFilm": 59536,
               "ordre": 1,
-              "titre": "Survivants de la fin du monde",
-              "art": "Les",
-              "titreVo": "Damnation Alley",
-              "realisateurs": "Jack Smight",
-              "pays": "États-Unis",
-              "annee": 1976,
-              "duree": 91,
-              "version": "",
-              "format": "",
-              "adaptation": "D'après le roman _Damnation Alley_ de Roger Zelazny.",
+              "titre": "Du sang pour Dracula",
+              "titreVo": "Dracula cerca sangue di vergine e mori di sete !",
+              "realisateurs": "Paul Morrissey",
+              "pays": "Italie-France",
+              "annee": 1973,
+              "duree": 100,
+              "version": "VF",
+              "format": "35 mm",
               "generique": [
-                "Jan-Michael Vincent",
-                "George Peppard",
-                "Dominique Sanda"
+                "Joe Dallesandro",
+                "Udo Kier",
+                "Vittorio De Sica"
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 186075,
-              "dateHeure": "2025-04-04T21:00:00",
-              "idSalle": "GF"
+              "idSeance": 185883,
+              "dateHeure": "2025-03-28T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 58692,
+          "content": [
+            {
+              "idFilm": 58692,
+              "ordre": 1,
+              "titre": "Chair pour Frankenstein",
+              "titreVo": "Carne per Frankenstein",
+              "realisateurs": "Paul Morrissey",
+              "pays": "Italie-France",
+              "annee": 1973,
+              "duree": 94,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Joe Dallesandro",
+                "Monique Van Vooren",
+                "Udo Kier"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185884,
+              "dateHeure": "2025-03-28T21:15:00",
+              "idSalle": "HL"
             }
           ]
         }
