@@ -19,33 +19,67 @@
   * Malevil  
   * Survivants de la fin du monde (Les)
 
-## Darren Aronofsky (2)
+## Darren Aronofsky (8)
 
   * Black Swan  
-  * Requiem for a Dream
+  * Fountain (The)  
+  * Mother !  
+  * Noé  
+  * Pi  
+  * Requiem for a Dream  
+  * Whale (The)  
+  * Wrestler (The)
 
-## Ernst Lubitsch (20)
+## Ernst Lubitsch (48)
 
   * Ange  
+  * Anne Boleyn  
+  * Bergkatze (Die)  
+  * Blusenkönig (Der)  
+  * Carmen  
   * Ciel peut attendre (Le)  
-  * Dame au manteau d'hermine (La)  
+  * Comédiennes  
+  * Doktor Satansohm  
+  * Du Barry (La)  
+  * Ein fideles Gefängnis  
+  * Eternal Love  
   * Eventail de Lady Windermere (L')  
+  * Femme du pharaon (La)  
+  * Filles de Kohlhiesel (Les)  
   * Folle ingénue (La)  
   * Haute Pègre  
   * Homme que j'ai tué (L')  
   * Huitième Femme de Barbe-Bleue (La)  
   * Illusions perdues  
   * Lieutenant souriant (Le)  
-  * Monte Carlo  
+  * Mademoiselle Piccolo  
+  * Mirakel (Das)  
+  * Montmartre  
   * Ninotchka  
+  * orgueil de la firme (L')  
+  * Parade d'amour  
+  * Paradis defendu  
+  * Paramount on Parade  
+  * Poupée (La)  
   * Prince étudiant (Le)  
+  * Princesse aux huitres (La)  
+  * Quand j'étais mort  
+  * Robert et Bertram ou les joyeux vagabonds  
+  * Roméo et Juliette dans la neige  
+  * Rosita, chanteuse des rues  
   * Scandale à la cour  
+  * Schuhpalast Pinkus  
   * Sérénade à trois  
   * Shop Around the Corner (The)  
   * Si j'avais un million  
+  * So This Is Paris  
+  * Sumurun  
   * To Be or Not To Be  
+  * Trois femmes  
   * Une heure près de toi  
-  * Veuve joyeuse (La)
+  * Veuve joyeuse (La)  
+  * Wenn vier dasselbe tun  
+  * Yeux de la momie (Les)
 
 ## Glauber Rocha (11)
 
