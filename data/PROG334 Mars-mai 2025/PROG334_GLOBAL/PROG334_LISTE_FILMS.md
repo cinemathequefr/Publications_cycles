@@ -4,8 +4,9 @@
 
   * Piccadilly
 
-## Carlo Lizzani (1)
+## Carlo Lizzani (2)
 
+  * Tue et fais ta prière  
   * Vie aigre (La)
 
 ## Cinéma bis (8)
@@ -23,14 +24,14 @@
 
   * Black Swan  
   * Fountain (The)  
-  * Mother !  
+  * Mother!  
   * Noé  
   * Pi  
   * Requiem for a Dream  
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (48)
+## Ernst Lubitsch (45)
 
   * Ange  
   * Anne Boleyn  
@@ -39,7 +40,6 @@
   * Carmen  
   * Ciel peut attendre (Le)  
   * Comédiennes  
-  * Doktor Satansohm  
   * Du Barry (La)  
   * Ein fideles Gefängnis  
   * Eternal Love  
@@ -53,7 +53,6 @@
   * Illusions perdues  
   * Lieutenant souriant (Le)  
   * Mademoiselle Piccolo  
-  * Mirakel (Das)  
   * Montmartre  
   * Ninotchka  
   * orgueil de la firme (L')  
@@ -64,7 +63,6 @@
   * Prince étudiant (Le)  
   * Princesse aux huitres (La)  
   * Quand j'étais mort  
-  * Robert et Bertram ou les joyeux vagabonds  
   * Roméo et Juliette dans la neige  
   * Rosita, chanteuse des rues  
   * Scandale à la cour  
@@ -95,9 +93,10 @@
   * Terre en transe  
   * Têtes coupées
 
-## Le western, 25 indispensables (1)
+## Le western, 25 indispensables (2)
 
-  * Fureur apache
+  * Fureur apache  
+  * Homme qui tua Liberty Valance (L')
 
 ## Robert Benton (11)
 
