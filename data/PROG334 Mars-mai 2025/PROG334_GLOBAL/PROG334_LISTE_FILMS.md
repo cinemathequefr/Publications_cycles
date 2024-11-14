@@ -9,6 +9,12 @@
   * Tue et fais ta prière  
   * Vie aigre (La)
 
+## Ciné-club de Frédéric Bonnaud (3)
+
+  * Doulos (Le)  
+  * Homme qui tua Liberty Valance (L')  
+  * West Side Story
+
 ## Cinéma bis (8)
 
   * 2019, après la chute de New York  
@@ -31,7 +37,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (45)
+## Ernst Lubitsch (44)
 
   * Ange  
   * Anne Boleyn  
@@ -76,8 +82,7 @@
   * Trois femmes  
   * Une heure près de toi  
   * Veuve joyeuse (La)  
-  * Wenn vier dasselbe tun  
-  * Yeux de la momie (Les)
+  * Wenn vier dasselbe tun
 
 ## Glauber Rocha (11)
 
@@ -93,10 +98,26 @@
   * Terre en transe  
   * Têtes coupées
 
-## Le western, 25 indispensables (2)
+## Le western, 25 indispensables (7)
 
+  * Ange des maudits (L')  
+  * Django Unchained  
+  * Fille du désert (La)  
   * Fureur apache  
-  * Homme qui tua Liberty Valance (L')
+  * Rio Bravo  
+  * Rivière rouge (La)  
+  * Train sifflera trois fois (Le)
+
+## Louis Skorecki (1)
+
+  * Eugénie de Franval
+
+## Parlons cinéma... avec Patric Chiha (4)
+
+  * Main (La)  
+  * Mouvement des choses (Le)  
+  * Nuages flottants  
+  * Une partie de campagne
 
 ## Robert Benton (11)
 
@@ -118,4 +139,8 @@
 
 ## Věra Chytilová (1)
 
-  * Jeu de la pomme (Le)  
+  * Jeu de la pomme (Le)
+
+## Wes Anderson (1)
+
+  * French Dispatch (The)  

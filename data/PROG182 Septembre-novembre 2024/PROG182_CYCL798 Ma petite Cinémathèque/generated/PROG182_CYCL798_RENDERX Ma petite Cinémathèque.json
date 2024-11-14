@@ -68,60 +68,6 @@
           ]
         },
         {
-          "idEvenement": 31092,
-          "content": [
-            {
-              "idFilm": 112715,
-              "ordre": 1,
-              "titre": "Blanche-Neige et Rose-Rouge",
-              "titreVo": "Snow White and Rose Red",
-              "realisateurs": "Lotte Reiniger",
-              "pays": "Grande-Bretagne",
-              "annee": 1953
-            },
-            {
-              "idFilm": 112714,
-              "ordre": 2,
-              "titre": "Belle au bois dormant",
-              "art": "La",
-              "titreVo": "Sleeping Beauty",
-              "artVo": "The",
-              "realisateurs": "Lotte Reiniger",
-              "pays": "Grande-Bretagne",
-              "annee": 1954
-            },
-            {
-              "idFilm": 112716,
-              "ordre": 3,
-              "titre": "Poucette",
-              "titreVo": "Thumbelina",
-              "realisateurs": "Lotte Reiniger",
-              "pays": "Grande-Bretagne",
-              "annee": 1954
-            },
-            {
-              "idFilm": 42934,
-              "ordre": 4,
-              "titre": "Hansel and Gretel",
-              "realisateurs": "Lotte Reiniger",
-              "pays": "Grande-Bretagne",
-              "annee": 1955
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 133969,
-              "dateHeure": "2024-11-20T15:00:00",
-              "idSalle": "GF"
-            },
-            {
-              "idSeance": 133970,
-              "dateHeure": "2024-11-24T11:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 107041,
           "content": [
             {
@@ -211,6 +157,75 @@
               "dateHeure": "2024-10-20T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 8
+            }
+          ]
+        },
+        {
+          "idEvenement": 31092,
+          "content": [
+            {
+              "idFilm": 90141,
+              "ordre": 1,
+              "titre": "Hérisson dans le brouillard",
+              "art": "Le",
+              "titreVo": "Yozhik v tumane",
+              "realisateurs": "Youri Norstein",
+              "pays": "URSS",
+              "annee": 1975,
+              "duree": 10,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3
+            },
+            {
+              "idFilm": 155066,
+              "ordre": 2,
+              "titre": "Secret du loup",
+              "art": "Le",
+              "titreVo": "Wolf",
+              "realisateurs": "Julia Ocker",
+              "pays": "Allemagne",
+              "annee": 2016,
+              "duree": 4,
+              "version": "VF",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 139690,
+              "ordre": 3,
+              "titre": "Moroshka",
+              "realisateurs": "Polina Minchenok",
+              "pays": "Russie",
+              "annee": 2016,
+              "duree": 8,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 6
+            },
+            {
+              "idFilm": 155065,
+              "ordre": 4,
+              "titre": "Un paradis",
+              "realisateurs": "Katalin Egely",
+              "pays": "Hongrie",
+              "annee": 2017,
+              "duree": 4,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 133969,
+              "dateHeure": "2024-11-20T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 3
+            },
+            {
+              "idSeance": 133970,
+              "dateHeure": "2024-11-24T11:30:00",
+              "idSalle": "GF",
+              "ageMinimal": 3
             }
           ]
         },

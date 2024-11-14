@@ -1,0 +1,173 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 50141,
+          "content": [
+            {
+              "idFilm": 50141,
+              "ordre": 1,
+              "titre": "Doulos",
+              "art": "Le",
+              "realisateurs": "Jean-Pierre Melville",
+              "pays": "France-Italie",
+              "annee": 1962,
+              "adaptation": "D'après le roman _Le Doulos_ de Pierre Lesou.",
+              "generique": [
+                "Jean-Paul Belmondo",
+                "Serge Reggiani",
+                "Jean Desailly"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187736,
+              "dateHeure": "2025-03-27T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 32391,
+          "content": [
+            {
+              "idFilm": 32391,
+              "ordre": 1,
+              "titre": "Homme qui tua Liberty Valance",
+              "art": "L'",
+              "titreVo": "Man Who Shot Liberty Valance",
+              "artVo": "The",
+              "realisateurs": "John Ford",
+              "pays": "États-Unis",
+              "annee": 1961,
+              "duree": 122,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après la nouvelle _The Man who shot Liberty Valance_ de Dorothy M. Johnson.",
+              "generique": [
+                "James Stewart",
+                "John Wayne",
+                "Vera Miles"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186373,
+              "dateHeure": "2025-04-16T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 37582,
+          "content": [
+            {
+              "idFilm": 37582,
+              "ordre": 1,
+              "titre": "West Side Story",
+              "realisateurs": "Robert Wise, Jerome Robbins",
+              "pays": "États-Unis",
+              "annee": 1960,
+              "duree": 148,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "ageMinimal": 10,
+              "adaptation": "D'après la comédie musicale _West Side Story_ de Leonard Bernstein, Stephen Sondheim et Arthur Laurents.",
+              "generique": [
+                "Natalie Wood",
+                "Richard Beymer",
+                "George Chakiris"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187739,
+              "dateHeure": "2025-05-07T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 32337,
+          "content": [
+            {
+              "idConf": 32337,
+              "titre": "Dialogue avec Frédéric Bonnaud",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187868,
+              "dateHeure": "2025-03-27T21:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 32338,
+          "content": [
+            {
+              "idConf": 32338,
+              "titre": "Dialogue avec Frédéric Bonnaud",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187738,
+              "dateHeure": "2025-04-17T21:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 32339,
+          "content": [
+            {
+              "idConf": 32339,
+              "titre": "Dialogue avec Frédéric Bonnaud",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187870,
+              "dateHeure": "2025-05-07T22:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "mention": "avec Frédéric Bonnaud",
+        "dateHeure": "2025-03-27T21:00:00"
+      },
+      {
+        "mention": "avec Frédéric Bonnaud",
+        "dateHeure": "2025-04-17T21:30:00"
+      },
+      {
+        "mention": "avec Frédéric Bonnaud",
+        "dateHeure": "2025-05-07T22:00:00"
+      }
+    ]
+  }
+}

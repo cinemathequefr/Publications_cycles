@@ -293,29 +293,30 @@
   * Vent nous emportera (Le)  
   * Vie est un long fleuve tranquille (La)
 
-## Ma petite Cinémathèque (23)
+## Ma petite Cinémathèque (24)
 
   * Angelo dans la forêt mystérieuse  
   * Belle au bois dormant (La)  
-  * Blanche-Neige et Rose-Rouge  
   * Brendan et le secret de Kells  
   * Danse macabre  
   * Días de los muertos (Los)  
   * Ellian et le sortilège  
   * Flibustière des Antilles (La)  
-  * Hansel and Gretel  
+  * Hérisson dans le brouillard (Le)  
   * Homme qui rétrécit (L')  
   * How to Paint Your Rainbow  
   * Lumières de la ville (Les)  
   * Ma vie de Courgette  
   * Malec chez les fantômes  
   * Monde de Nemo (Le)  
+  * Moroshka  
   * Ponyo sur la falaise  
-  * Poucette  
   * Roi et l'Oiseau (Le)  
   * Sainte Barbe  
+  * Secret du loup (Le)  
   * Sherlock Jr.  
   * Six pattes sous terre  
+  * Un paradis  
   * Voleur de Bagdad (Le)  
   * West Side Story
 

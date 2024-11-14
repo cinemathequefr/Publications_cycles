@@ -1,0 +1,61 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 32342,
+          "content": [
+            {
+              "idConf": 32342,
+              "titre": "Rencontre avec Simon Weisse",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187900,
+              "dateHeure": "2025-04-18T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 32343,
+          "content": [
+            {
+              "idConf": 32343,
+              "titre": "Rencontre avec Robert Yeoman",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187740,
+              "dateHeure": "2025-05-16T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Conférences": [
+      {
+        "titre": "Rencontre avec Simon Weisse",
+        "mention": "Conférence ",
+        "dateHeure": "2025-04-18T17:00:00"
+      },
+      {
+        "titre": "Rencontre avec Robert Yeoman",
+        "mention": "Conférence ",
+        "dateHeure": "2025-05-16T18:00:00"
+      }
+    ]
+  }
+}
