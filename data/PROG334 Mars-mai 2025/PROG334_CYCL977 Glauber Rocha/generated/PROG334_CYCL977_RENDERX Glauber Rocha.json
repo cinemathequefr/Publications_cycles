@@ -322,7 +322,39 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 32380,
+          "content": [
+            {
+              "idConf": 32380,
+              "titre": "Qui êtes-vous... Glauber Rocha ?",
+              "sousTitre": "Conférence de Gabriela Trujillo",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187911,
+              "dateHeure": "2025-03-20T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Qui êtes-vous... Glauber Rocha ?",
+        "mention": "par Gabriela Trujillo",
+        "dateHeure": "2025-03-20T19:00:00"
+      }
+    ]
+  }
 }

@@ -133,10 +133,6 @@
 
   * Nous avons gagné ce soir
 
-## Věra Chytilová (1)
-
-  * Jeu de la pomme (Le)
-
 ## Wes Anderson (1)
 
   * French Dispatch (The)  

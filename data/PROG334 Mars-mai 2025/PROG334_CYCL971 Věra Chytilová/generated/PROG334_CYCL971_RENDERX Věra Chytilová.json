@@ -1,44 +1,41 @@
 {
   "datesCycle": [
-    "2025-03-26T20:00:00",
-    "2025-03-26T20:00:00"
+    "2025-03-22T16:30:00",
+    "2025-03-22T16:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 1,
-      "titreSousCycle": "Les films",
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
-          "idFilm": 39010,
+          "idConf": 32382,
           "content": [
             {
-              "idFilm": 39010,
-              "ordre": 1,
-              "titre": "Jeu de la pomme",
-              "art": "Le",
-              "titreVo": "Hra o jablko",
-              "realisateurs": "Věra Chytilová",
-              "pays": "Tchécoslovaquie",
-              "annee": 1976,
-              "generique": [
-                "Dagmar Bláhová",
-                "Jiří Menzel",
-                "Jiří Kodet"
-              ]
+              "idConf": 32382,
+              "titre": "Wes Anderson par Wes Anderson",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Matthieu Orléan"
             }
           ],
           "seances": [
             {
-              "idSeance": 187703,
-              "dateHeure": "2025-03-26T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "idSeance": 187912,
+              "dateHeure": "2025-03-22T16:30:00",
+              "idSalle": "HL"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Wes Anderson par Wes Anderson",
+        "dateHeure": "2025-03-22T16:30:00"
+      }
+    ]
+  }
 }
