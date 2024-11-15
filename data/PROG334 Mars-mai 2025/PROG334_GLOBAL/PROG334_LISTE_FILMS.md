@@ -15,12 +15,10 @@
   * Homme qui tua Liberty Valance (L')  
   * West Side Story
 
-## Cinéma bis (8)
+## Cinéma bis (6)
 
   * 2019, après la chute de New York  
   * Atomic Cyborg  
-  * Chair pour Frankenstein  
-  * Du sang pour Dracula  
   * Fin du monde – Nostradamus an 2000  
   * Gladiateur du futur (Le)  
   * Malevil  
@@ -37,7 +35,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (44)
+## Ernst Lubitsch (42)
 
   * Ange  
   * Anne Boleyn  
@@ -57,7 +55,6 @@
   * Homme que j'ai tué (L')  
   * Huitième Femme de Barbe-Bleue (La)  
   * Illusions perdues  
-  * Lieutenant souriant (Le)  
   * Mademoiselle Piccolo  
   * Montmartre  
   * Ninotchka  
@@ -80,7 +77,6 @@
   * Sumurun  
   * To Be or Not To Be  
   * Trois femmes  
-  * Une heure près de toi  
   * Veuve joyeuse (La)  
   * Wenn vier dasselbe tun
 
