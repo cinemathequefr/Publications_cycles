@@ -53,7 +53,7 @@
   * Pétomane (Le)  
   * Plus beau que moi, tu meurs
 
-## David Cronenberg (35)
+## David Cronenberg (36)
 
   * A Dangerous Method  
   * A History of Violence  
@@ -69,6 +69,7 @@
   * Fast Company  
   * Faux-semblants  
   * Festin nu (Le)  
+  * Four Unloved Women, Adrift on a Purposeless Sea, Experience the Ecstasy of Dissection  
   * Frissons  
   * From the Drain  
   * Italian Machine (The)  

@@ -3,71 +3,6 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Les films",
-      "items": [
-        {
-          "idFilm": 55579,
-          "content": [
-            {
-              "idFilm": 55579,
-              "ordre": 1,
-              "titre": "Runaway, l'évadé du futur",
-              "titreVo": "Runaway",
-              "realisateurs": "Michael Crichton",
-              "pays": "États-Unis",
-              "annee": 1984,
-              "duree": 99,
-              "version": "VF",
-              "format": "35 mm",
-              "generique": [
-                "Tom Selleck",
-                "Cynthia Rhodes",
-                "Gene Simmons"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 186263,
-              "dateHeure": "2025-04-11T19:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 60442,
-          "content": [
-            {
-              "idFilm": 60442,
-              "ordre": 1,
-              "titre": "Planète hurlante",
-              "titreVo": "Screamers",
-              "realisateurs": "Christian Duguay",
-              "pays": "Canada-États-Unis-Japon",
-              "annee": 1995,
-              "duree": 107,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après la nouvelle _Second variety_ de Philip K. Dick.",
-              "generique": [
-                "Peter Weller",
-                "Jennifer Rubin",
-                "Roy Dupuis"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 186264,
-              "dateHeure": "2025-04-11T21:45:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
       "titreSousCycle": "Apocalypse",
       "items": [
         {
@@ -179,6 +114,65 @@
             {
               "idSeance": 186075,
               "dateHeure": "2025-04-04T21:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 55579,
+          "content": [
+            {
+              "idFilm": 55579,
+              "ordre": 1,
+              "titre": "Runaway, l'évadé du futur",
+              "titreVo": "Runaway",
+              "realisateurs": "Michael Crichton",
+              "pays": "États-Unis",
+              "annee": 1984,
+              "duree": 100,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Tom Selleck",
+                "Cynthia Rhodes",
+                "Gene Simmons"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186263,
+              "dateHeure": "2025-04-11T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 60442,
+          "content": [
+            {
+              "idFilm": 60442,
+              "ordre": 1,
+              "titre": "Planète hurlante",
+              "titreVo": "Screamers",
+              "realisateurs": "Christian Duguay",
+              "pays": "Canada-États-Unis-Japon",
+              "annee": 1995,
+              "duree": 107,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après la nouvelle _Second variety_ de Philip K. Dick.",
+              "generique": [
+                "Peter Weller",
+                "Jennifer Rubin",
+                "Roy Dupuis"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186264,
+              "dateHeure": "2025-04-11T21:45:00",
               "idSalle": "GF"
             }
           ]

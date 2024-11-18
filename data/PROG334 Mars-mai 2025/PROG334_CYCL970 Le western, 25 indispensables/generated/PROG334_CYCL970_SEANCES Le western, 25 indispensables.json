@@ -68,9 +68,32 @@
   {
     "idCategorie": 3669,
     "typeEvenement": 13,
-    "idEvenement": 31862,
-    "idSeance": 186260,
+    "idEvenement": 31868,
+    "idSeance": 187981,
     "dateHeure": "2025-04-11T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 45843,
+        "ordre": 1,
+        "idSeance": 187981,
+        "idCopie": 28946,
+        "duree": 85,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3669,
+    "typeEvenement": 13,
+    "idEvenement": 31877,
+    "idSeance": 187982,
+    "dateHeure": "2025-04-11T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -78,36 +101,13 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 32352,
+        "idFilm": 33202,
         "ordre": 1,
-        "idSeance": 186260,
-        "idCopie": 781,
-        "duree": 97,
+        "idSeance": 187982,
+        "idCopie": 23112,
+        "duree": 105,
         "version": "VOSTF",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3669,
-    "typeEvenement": 13,
-    "idEvenement": 31864,
-    "idSeance": 186261,
-    "dateHeure": "2025-04-11T20:15:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 105,
-    "items": [
-      {
-        "idFilm": 36898,
-        "ordre": 1,
-        "idSeance": 186261,
-        "idCopie": 25604,
-        "duree": 75,
-        "version": "VOSTF",
-        "format": "35 mm"
       }
     ]
   },
@@ -176,29 +176,6 @@
         "idCopie": 28930,
         "duree": 164,
         "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3669,
-    "typeEvenement": 13,
-    "idEvenement": 31868,
-    "idSeance": 186321,
-    "dateHeure": "2025-04-13T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 45843,
-        "ordre": 1,
-        "idSeance": 186321,
-        "idCopie": 28946,
-        "duree": 85,
-        "version": "VO",
         "format": "35 mm"
       }
     ]

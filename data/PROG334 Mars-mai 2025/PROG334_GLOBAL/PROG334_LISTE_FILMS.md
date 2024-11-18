@@ -159,17 +159,15 @@
   * Une femme douce  
   * Vol au-dessus d'un nid de coucou
 
-## Le western, 25 indispensables (24)
+## Le western, 25 indispensables (22)
 
   * 3h10 pour Yuma  
   * Ange des maudits (L')  
   * Appât (L')  
   * Cavalier du désert (Le)  
   * Chevauchée de la vengeance (La)  
-  * Chevauchée fantastique (La)  
   * Deux hommes dans l'Ouest  
   * Django Unchained  
-  * Étrange incident (L')  
   * Fille du désert (La)  
   * Fureur apache  
   * Homme des vallées perdues (L')  
@@ -248,7 +246,8 @@
   * Something for the Birds  
   * Un jeu de mort
 
-## Wes Anderson (2)
+## Wes Anderson (3)
 
+  * Asteroid City  
   * Fantastic Mr. Fox  
   * French Dispatch (The)  
