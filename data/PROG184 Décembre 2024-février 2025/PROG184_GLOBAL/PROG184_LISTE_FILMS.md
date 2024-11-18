@@ -33,7 +33,7 @@
   * Oceania  
   * Paysage après la bataille  
   * Rien sauf l'été  
-  * September Says  
+  * September & July  
   * Soleil chante à l'horizon (Le)  
   * Un jour j'aurai une île
 

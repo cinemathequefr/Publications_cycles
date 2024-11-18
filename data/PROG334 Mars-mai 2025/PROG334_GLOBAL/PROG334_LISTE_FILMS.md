@@ -184,9 +184,19 @@
   * Vera Cruz  
   * Ville abandonnée
 
-## Louis Skorecki (1)
+## Louis Skorecki (11)
 
-  * Eugénie de Franval
+  * Cinéphiles 3 : Les Ruses de Frédéric (Les)  
+  * Cinéphiles : Éric a disparu (Les)  
+  * Cinéphiles : Le retour de Jean (Les)  
+  * CNC – Contre la Nouvelle Cinéphilie  
+  * Escalier de la haine (L')  
+  * Eugénie de Franval  
+  * Histoire sentimentale (Une)  
+  * Juif de Lascaux (Le)  
+  * LN 2/3  
+  * pieds dans les nuages (et la tête dans la lune) (Les)  
+  * Retour des cinéphiles (Le)
 
 ## Mike Leigh (14)
 
@@ -226,7 +236,7 @@
   * Saisons du cœur (Les)  
   * Un homme presque parfait
 
-## Robert Wise (17)
+## Robert Wise (15)
 
   * Canonnière du Yang-Tsé (La)  
   * Captive City (The)  
@@ -235,19 +245,24 @@
   * Jour où la terre s'arrêta (Le)  
   * Mademoiselle Fifi  
   * Maison sur la colline (La)  
-  * Malédiction des hommes chats (La)  
   * Mélodie du bonheur (La)  
   * Né pour tuer  
   * Nous avons gagné ce soir  
   * Rats du désert (Les)  
   * Rebelles de Fort Thorn (Les)  
-  * Récupérateur de cadavres  
   * Secrets de femme  
   * Something for the Birds  
   * Un jeu de mort
 
-## Wes Anderson (3)
+## Wes Anderson (10)
 
+  * À bord du Darjeeling Limited  
   * Asteroid City  
+  * Famille Tenenbaum (La)  
   * Fantastic Mr. Fox  
   * French Dispatch (The)  
+  * Grand Budapest Hotel (The)  
+  * Île aux chiens (L')  
+  * Moonrise Kingdom  
+  * Rushmore  
+  * Vie aquatique (La)  

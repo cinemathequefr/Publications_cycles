@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-04-23T20:00:00",
-    "2025-04-23T20:00:00"
+    "2025-04-26T16:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -38,7 +38,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 32394,
+          "content": [
+            {
+              "idConf": 32394,
+              "titre": "Film + dialogue",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187985,
+              "dateHeure": "2025-04-26T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Film + dialogue",
+        "dateHeure": "2025-04-26T16:30:00"
+      }
+    ]
+  }
 }

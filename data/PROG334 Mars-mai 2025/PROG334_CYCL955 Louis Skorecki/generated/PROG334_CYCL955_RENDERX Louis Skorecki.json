@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-04-17T20:00:00",
-    "2025-04-17T20:00:00"
+    "2025-04-21T18:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,124 @@
       "tri": 1,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 103111,
+          "content": [
+            {
+              "idFilm": 103111,
+              "ordre": 2,
+              "titre": "Cinéphiles 3 : Les Ruses de Frédéric",
+              "art": "Les",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 2006,
+              "duree": 32,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "Cinéphiles : Éric a disparu",
+                    "Les"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186498,
+              "dateHeure": "2025-04-19T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 125577,
+          "content": [
+            {
+              "idFilm": 125577,
+              "ordre": 1,
+              "titre": "Cinéphiles : Éric a disparu",
+              "art": "Les",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1988,
+              "duree": 56,
+              "version": "VO",
+              "format": "35 mm",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Cinéphiles 3 : Les Ruses de Frédéric",
+                    "Les"
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186498,
+              "dateHeure": "2025-04-19T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 51176,
+          "content": [
+            {
+              "idFilm": 51176,
+              "ordre": 1,
+              "titre": "Cinéphiles : Le retour de Jean",
+              "art": "Les",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1988,
+              "duree": 74,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "Nidam Abdi",
+                "Sébastien Clerger",
+                "Nathalie Coffre"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187947,
+              "dateHeure": "2025-04-19T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155086,
+          "content": [
+            {
+              "idFilm": 155086,
+              "ordre": 1,
+              "titre": "CNC – Contre la Nouvelle Cinéphilie",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1984,
+              "duree": 70,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187992,
+              "dateHeure": "2025-04-20T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 71650,
           "content": [
@@ -35,6 +153,225 @@
               "dateHeure": "2025-04-17T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 155092,
+          "content": [
+            {
+              "idFilm": 155092,
+              "ordre": 1,
+              "titre": "Juif de Lascaux",
+              "art": "Le",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 2015,
+              "duree": 52,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186496,
+              "dateHeure": "2025-04-19T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155089,
+          "content": [
+            {
+              "idFilm": 155089,
+              "ordre": 1,
+              "titre": "Retour des cinéphiles",
+              "art": "Le",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 2007,
+              "duree": 52,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186516,
+              "dateHeure": "2025-04-20T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 1,
+      "titreSousCycle": "Courts métrages",
+      "items": [
+        {
+          "idFilm": 71649,
+          "content": [
+            {
+              "idFilm": 71649,
+              "ordre": 2,
+              "titre": "Escalier de la haine",
+              "art": "L'",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1982,
+              "duree": 41,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "pieds dans les nuages (et la tête dans la lune)",
+                    "Les"
+                  ]
+                ],
+                [
+                  [
+                    "Histoire sentimentale",
+                    "Une"
+                  ],
+                  [
+                    "LN 2/3",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186526,
+              "dateHeure": "2025-04-21T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155087,
+          "content": [
+            {
+              "idFilm": 155087,
+              "ordre": 3,
+              "titre": "Histoire sentimentale",
+              "art": "Une",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1984,
+              "duree": 25,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "pieds dans les nuages (et la tête dans la lune)",
+                    "Les"
+                  ],
+                  [
+                    "Escalier de la haine",
+                    "L'"
+                  ]
+                ],
+                [
+                  [
+                    "LN 2/3",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186526,
+              "dateHeure": "2025-04-21T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155088,
+          "content": [
+            {
+              "idFilm": 155088,
+              "ordre": 4,
+              "titre": "LN 2/3",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1988,
+              "duree": 10,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "pieds dans les nuages (et la tête dans la lune)",
+                    "Les"
+                  ],
+                  [
+                    "Escalier de la haine",
+                    "L'"
+                  ],
+                  [
+                    "Histoire sentimentale",
+                    "Une"
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186526,
+              "dateHeure": "2025-04-21T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155083,
+          "content": [
+            {
+              "idFilm": 155083,
+              "ordre": 1,
+              "titre": "pieds dans les nuages (et la tête dans la lune)",
+              "art": "Les",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1966,
+              "duree": 20,
+              "version": "",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Escalier de la haine",
+                    "L'"
+                  ],
+                  [
+                    "Histoire sentimentale",
+                    "Une"
+                  ],
+                  [
+                    "LN 2/3",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186526,
+              "dateHeure": "2025-04-21T18:00:00",
+              "idSalle": "GF"
             }
           ]
         }
