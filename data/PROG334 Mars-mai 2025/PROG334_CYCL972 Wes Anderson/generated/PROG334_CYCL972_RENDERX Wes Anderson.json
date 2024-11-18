@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-03-22T16:30:00",
-    "2025-04-27T14:30:00"
+    "2025-05-10T16:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -91,15 +91,57 @@
               "idSalle": "HL"
             }
           ]
+        },
+        {
+          "idConf": 32398,
+          "content": [
+            {
+              "idConf": 32398,
+              "titre": "Dialogue avec Matthieu Orléan",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187969,
+              "dateHeure": "2025-04-26T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 32399,
+          "content": [
+            {
+              "idConf": 32399,
+              "titre": "Dialogue avec Nicolas Saada",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187974,
+              "dateHeure": "2025-05-10T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
         }
       ]
     }
   ],
   "syntheseAction": {
-    "Dialogue": [
+    "Dialogues": [
       {
         "mention": "Wes Anderson par Wes Anderson",
         "dateHeure": "2025-03-22T16:30:00"
+      },
+      {
+        "mention": "avec Matthieu Orléan",
+        "dateHeure": "2025-04-26T16:30:00"
+      },
+      {
+        "mention": "avec Nicolas Saada",
+        "dateHeure": "2025-05-10T16:30:00"
       }
     ]
   }

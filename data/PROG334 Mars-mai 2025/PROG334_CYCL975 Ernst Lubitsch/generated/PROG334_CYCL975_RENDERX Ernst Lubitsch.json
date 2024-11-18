@@ -1291,9 +1291,9 @@
           ],
           "seances": [
             {
-              "idSeance": 187793,
-              "dateHeure": "2025-03-13T18:30:00",
-              "idSalle": "GF"
+              "idSeance": 187844,
+              "dateHeure": "2025-03-15T16:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -1714,7 +1714,39 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 32381,
+          "content": [
+            {
+              "idConf": 32381,
+              "titre": "Conférence Lubitsch",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187966,
+              "dateHeure": "2025-03-13T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Conférence Lubitsch",
+        "mention": "Conférence ",
+        "dateHeure": "2025-03-13T19:00:00"
+      }
+    ]
+  }
 }

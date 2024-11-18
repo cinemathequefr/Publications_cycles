@@ -495,7 +495,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 32400,
+          "content": [
+            {
+              "idConf": 32400,
+              "titre": "Dialogue avec Serge Chauvin",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187972,
+              "dateHeure": "2025-05-04T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "avec Serge Chauvin",
+        "dateHeure": "2025-05-04T16:30:00"
+      }
+    ]
+  }
 }

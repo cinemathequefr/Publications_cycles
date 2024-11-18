@@ -120,17 +120,18 @@
   * Câncer  
   * Claro  
   * Dieu noir et le diable blond (Le)  
-  * Historia do Brasil  
+  * História do Brasil  
   * Lion à sept têtes (Le)  
   * Terre en transe  
   * Têtes coupées
 
-## Histoire permanente du cinéma (25)
+## Histoire permanente du cinéma (31)
 
   * À cause d'un assassinat  
   * Alice dans les villes  
   * Apportez-moi la tête d'Alfredo Garcia  
   * Bête (La)  
+  * Bronco Billy  
   * Butch Cassidy et le Kid  
   * Cadavres exquis  
   * Casanova de Fellini (Le)  
@@ -141,11 +142,16 @@
   * Fantôme de la liberté (Le)  
   * Femmes, femmes  
   * Ferdinand le radical  
+  * Gloria  
   * Homme qui voulut être roi (L')  
   * Incompris (L')  
   * Innocent (L')  
   * Jardin des Finzi-Contini (Le)  
+  * Joueurs d'échecs (Les)  
+  * Kagemusha, l'ombre du guerrier (Director's Cut)  
   * Longue marche (La)  
+  * Mado  
+  * Maîtresse  
   * Monsieur Klein  
   * Nuit américaine (La)  
   * Parfum de femme  
