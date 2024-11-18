@@ -4,9 +4,26 @@
 
   * Piccadilly
 
-## Carlo Lizzani (2)
+## Carlo Lizzani (19)
 
+  * Achtung banditi !  
+  * Bandits à Milan  
+  * Barbagia  
+  * Bossu de Rome (Le)  
+  * Carabinier à cheval (Le)  
+  * Chronique des pauvres amants (La)  
+  * Dans les faubourgs de la ville  
+  * Derniers Jours de Mussolini (Les)  
+  * Dingo (Le)  
+  * Du sang dans la montagne  
+  * Esterina  
+  * Lutring... réveille-toi et meurs  
+  * Maîtresse de Gramigna (La)  
+  * Procès de Vérone (Le)  
+  * Scandale à Rome  
+  * Traqués par la Gestapo  
   * Tue et fais ta prière  
+  * Vengeance du Sicilien (La)  
   * Vie aigre (La)
 
 ## Ciné-club de Frédéric Bonnaud (3)
@@ -15,13 +32,15 @@
   * Homme qui tua Liberty Valance (L')  
   * West Side Story
 
-## Cinéma bis (6)
+## Cinéma bis (8)
 
   * 2019, après la chute de New York  
   * Atomic Cyborg  
   * Fin du monde – Nostradamus an 2000  
   * Gladiateur du futur (Le)  
   * Malevil  
+  * Planète hurlante  
+  * Runaway, l'évadé du futur  
   * Survivants de la fin du monde (Les)
 
 ## Darren Aronofsky (8)
@@ -35,7 +54,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (42)
+## Ernst Lubitsch (54)
 
   * Ange  
   * Anne Boleyn  
@@ -44,6 +63,8 @@
   * Carmen  
   * Ciel peut attendre (Le)  
   * Comédiennes  
+  * Dame au manteau d'hermine (La)  
+  * Doktor Satansohm  
   * Du Barry (La)  
   * Ein fideles Gefängnis  
   * Eternal Love  
@@ -55,17 +76,25 @@
   * Homme que j'ai tué (L')  
   * Huitième Femme de Barbe-Bleue (La)  
   * Illusions perdues  
+  * Je ne voudrais pas être un homme  
+  * Joyeuse prison (La)  
+  * Lieutenant souriant (Le)  
   * Mademoiselle Piccolo  
+  * Meyer aus Berlin  
+  * Mirakel (Das)  
+  * Monte Carlo  
   * Montmartre  
   * Ninotchka  
   * orgueil de la firme (L')  
   * Parade d'amour  
   * Paradis defendu  
   * Paramount on Parade  
+  * Patriot (The)  
   * Poupée (La)  
   * Prince étudiant (Le)  
   * Princesse aux huitres (La)  
   * Quand j'étais mort  
+  * Robert et Bertram ou les joyeux vagabonds  
   * Roméo et Juliette dans la neige  
   * Rosita, chanteuse des rues  
   * Scandale à la cour  
@@ -77,8 +106,10 @@
   * Sumurun  
   * To Be or Not To Be  
   * Trois femmes  
+  * Une heure près de toi  
   * Veuve joyeuse (La)  
-  * Wenn vier dasselbe tun
+  * Wenn vier dasselbe tun  
+  * Yeux de la momie (Les)
 
 ## Glauber Rocha (11)
 
@@ -94,19 +125,81 @@
   * Terre en transe  
   * Têtes coupées
 
-## Le western, 25 indispensables (7)
+## Histoire permanente du cinéma (25)
 
+  * À cause d'un assassinat  
+  * Alice dans les villes  
+  * Apportez-moi la tête d'Alfredo Garcia  
+  * Bête (La)  
+  * Butch Cassidy et le Kid  
+  * Cadavres exquis  
+  * Casanova de Fellini (Le)  
+  * Cicatrice intérieure (La)  
+  * Dodes'kaden  
+  * Droit du plus fort (Le)  
+  * Easy Rider  
+  * Fantôme de la liberté (Le)  
+  * Femmes, femmes  
+  * Ferdinand le radical  
+  * Homme qui voulut être roi (L')  
+  * Incompris (L')  
+  * Innocent (L')  
+  * Jardin des Finzi-Contini (Le)  
+  * Longue marche (La)  
+  * Monsieur Klein  
+  * Nuit américaine (La)  
+  * Parfum de femme  
+  * Tout va bien  
+  * Une femme douce  
+  * Vol au-dessus d'un nid de coucou
+
+## Le western, 25 indispensables (24)
+
+  * 3h10 pour Yuma  
   * Ange des maudits (L')  
+  * Appât (L')  
+  * Cavalier du désert (Le)  
+  * Chevauchée de la vengeance (La)  
+  * Chevauchée fantastique (La)  
+  * Deux hommes dans l'Ouest  
   * Django Unchained  
+  * Étrange incident (L')  
   * Fille du désert (La)  
   * Fureur apache  
+  * Homme des vallées perdues (L')  
+  * Homme qui n'a pas d'étoile (L')  
+  * Horde sauvage (La)  
+  * Il était une fois dans l'Ouest  
+  * Impitoyable  
+  * Quarante tueurs  
   * Rio Bravo  
   * Rivière rouge (La)  
-  * Train sifflera trois fois (Le)
+  * Sept mercenaires (Les)  
+  * Train sifflera trois fois (Le)  
+  * Trésor du pendu (Le)  
+  * Vera Cruz  
+  * Ville abandonnée
 
 ## Louis Skorecki (1)
 
   * Eugénie de Franval
+
+## Mike Leigh (14)
+
+  * All or Nothing  
+  * Another Year  
+  * Be Happy  
+  * Bleak Moments  
+  * Deux filles d'aujourd'hui  
+  * High Hopes  
+  * Life Is Sweet  
+  * Meantime  
+  * Mr. Turner  
+  * Naked  
+  * Peterloo  
+  * Secrets et mensonges  
+  * Topsy-Turvy  
+  * Vera Drake
 
 ## Parlons cinéma... avec Patric Chiha (4)
 
@@ -129,10 +222,27 @@
   * Saisons du cœur (Les)  
   * Un homme presque parfait
 
-## Robert Wise (1)
+## Robert Wise (17)
 
-  * Nous avons gagné ce soir
+  * Canonnière du Yang-Tsé (La)  
+  * Captive City (The)  
+  * Ciel rouge  
+  * Criminal Court  
+  * Jour où la terre s'arrêta (Le)  
+  * Mademoiselle Fifi  
+  * Maison sur la colline (La)  
+  * Malédiction des hommes chats (La)  
+  * Mélodie du bonheur (La)  
+  * Né pour tuer  
+  * Nous avons gagné ce soir  
+  * Rats du désert (Les)  
+  * Rebelles de Fort Thorn (Les)  
+  * Récupérateur de cadavres  
+  * Secrets de femme  
+  * Something for the Birds  
+  * Un jeu de mort
 
-## Wes Anderson (1)
+## Wes Anderson (2)
 
+  * Fantastic Mr. Fox  
   * French Dispatch (The)  

@@ -13,6 +13,7 @@
       "titreCycle": "Cinéma bis",
       "isReg": true,
       "sousCycles": [
+        { "titre": "Les films", "cats": [3384], "tri": 4 },
         { "titre": "Apocalypse", "cats": [3674], "tri": 4 },
         { "titre": "Paul Morrissey", "cats": [3685], "tri": 4 }
       ]
@@ -153,9 +154,24 @@
       "restaurations": []
     },
     {
+      "idCycleProg": 978,
+      "titreCycle": "Histoire permanente du cinéma",
+      "isReg": true,
+      "sousCycles": [{ "titre": "Les films", "cats": [3680], "tri": 2 }],
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
       "idCycleProg": 981,
       "titreCycle": "Darren Aronofsky",
       "sousCycles": [{ "titre": "Les films", "cats": [3684], "tri": 1 }],
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
+      "idCycleProg": 986,
+      "titreCycle": "Mike Leigh",
+      "sousCycles": [{ "titre": "Les films", "cats": [3701], "tri": 1 }],
       "excludeSeances": [],
       "restaurations": []
     }
