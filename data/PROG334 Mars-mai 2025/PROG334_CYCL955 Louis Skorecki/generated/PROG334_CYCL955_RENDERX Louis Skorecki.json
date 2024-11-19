@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-04-17T20:00:00",
-    "2025-04-21T18:00:00"
+    "2025-04-23T18:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -37,7 +37,7 @@
           "seances": [
             {
               "idSeance": 186498,
-              "dateHeure": "2025-04-19T19:30:00",
+              "dateHeure": "2025-04-19T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -70,7 +70,7 @@
           "seances": [
             {
               "idSeance": 186498,
-              "dateHeure": "2025-04-19T19:30:00",
+              "dateHeure": "2025-04-19T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -199,7 +199,53 @@
           "seances": [
             {
               "idSeance": 186516,
-              "dateHeure": "2025-04-20T20:00:00",
+              "dateHeure": "2025-04-20T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155090,
+          "content": [
+            {
+              "idFilm": 155090,
+              "ordre": 1,
+              "titre": "Skorecki déménage",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 2009,
+              "duree": 78,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186527,
+              "dateHeure": "2025-04-21T20:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155091,
+          "content": [
+            {
+              "idFilm": 155091,
+              "ordre": 1,
+              "titre": "Skorecki devient producteur",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 2013,
+              "duree": 94,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186564,
+              "dateHeure": "2025-04-23T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -376,7 +422,62 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 32430,
+          "content": [
+            {
+              "idConf": 32430,
+              "titre": "Dialogue avec Louis Skorecki",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187997,
+              "dateHeure": "2025-04-19T16:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 32431,
+          "content": [
+            {
+              "idConf": 32431,
+              "titre": "Dialogue avec Louis Skorecki",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187998,
+              "dateHeure": "2025-04-20T15:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Dialogue avec Louis Skorecki",
+        "mention": "Conférence ",
+        "dateHeure": "2025-04-20T15:45:00"
+      }
+    ],
+    "Dialogue": [
+      {
+        "mention": "avec Louis Skorecki",
+        "dateHeure": "2025-04-19T16:15:00"
+      }
+    ]
+  }
 }

@@ -1,28 +1,56 @@
 # Liste des films par cycle
 
-## Anna May Wong (1)
+## Anna May Wong (17)
 
-  * Piccadilly
+  * Ange maudit  
+  * Bombs over Burma  
+  * Dame de Tchoung-King (La)  
+  * Dangereux à connaître  
+  * Driven from home  
+  * Fille de Shanghai (La)  
+  * Fleur de Lotus  
+  * Grain de son  
+  * Ile des hommes perdus (L')  
+  * Marchande de rêves (La)  
+  * Monsieur Wu  
+  * Papillon de la rue  
+  * Piccadilly  
+  * Roi de Chinatown (Le)  
+  * Shanghai Express  
+  * Sherlock Holmes: Une étude en rouge  
+  * When were you born
 
-## Carlo Lizzani (19)
+## Carlo Lizzani (31)
 
   * Achtung banditi !  
   * Bandits à Milan  
   * Barbagia  
   * Bossu de Rome (Le)  
   * Carabinier à cheval (Le)  
+  * Caro Gorbaciov  
+  * Casa del tappeto giallo (La)  
+  * Cattiva  
+  * Célestine (La)  
   * Chronique des pauvres amants (La)  
   * Dans les faubourgs de la ville  
   * Derniers Jours de Mussolini (Les)  
   * Dingo (Le)  
+  * Double plaisir  
   * Du sang dans la montagne  
   * Esterina  
+  * Fontamara  
+  * Hotel Meina  
+  * Jo le fou  
   * Lutring... réveille-toi et meurs  
   * Maîtresse de Gramigna (La)  
+  * Mamma Ebe  
   * Procès de Vérone (Le)  
+  * Remake, Rome ville ouverte  
   * Scandale à Rome  
+  * Storie di vita i malavita = Racket della prostituzione minorile  
   * Traqués par la Gestapo  
   * Tue et fais ta prière  
+  * Tuer pour tuer  
   * Vengeance du Sicilien (La)  
   * Vie aigre (La)
 
@@ -32,15 +60,19 @@
   * Homme qui tua Liberty Valance (L')  
   * West Side Story
 
-## Cinéma bis (8)
+## Cinéma bis (12)
 
   * 2019, après la chute de New York  
   * Atomic Cyborg  
   * Fin du monde – Nostradamus an 2000  
+  * Future cop  
   * Gladiateur du futur (Le)  
   * Malevil  
+  * Metalstorm  
+  * New York ne répond plus  
   * Planète hurlante  
   * Runaway, l'évadé du futur  
+  * Stryker  
   * Survivants de la fin du monde (Les)
 
 ## Darren Aronofsky (8)
@@ -125,17 +157,22 @@
   * Terre en transe  
   * Têtes coupées
 
-## Histoire permanente du cinéma (31)
+## Histoire permanente du cinéma (38)
 
   * À cause d'un assassinat  
+  * Absence de malice  
   * Alice dans les villes  
+  * Allemagne, mère blafarde  
   * Apportez-moi la tête d'Alfredo Garcia  
   * Bête (La)  
+  * Blues Brothers (The)  
   * Bronco Billy  
   * Butch Cassidy et le Kid  
   * Cadavres exquis  
   * Casanova de Fellini (Le)  
   * Cicatrice intérieure (La)  
+  * Conte de la folie ordinaire  
+  * De la vie des marionnettes  
   * Dodes'kaden  
   * Droit du plus fort (Le)  
   * Easy Rider  
@@ -150,11 +187,13 @@
   * Joueurs d'échecs (Les)  
   * Kagemusha, l'ombre du guerrier (Director's Cut)  
   * Longue marche (La)  
+  * Loulou  
   * Mado  
   * Maîtresse  
   * Monsieur Klein  
   * Nuit américaine (La)  
   * Parfum de femme  
+  * Possession  
   * Tout va bien  
   * Une femme douce  
   * Vol au-dessus d'un nid de coucou
@@ -184,7 +223,7 @@
   * Vera Cruz  
   * Ville abandonnée
 
-## Louis Skorecki (11)
+## Louis Skorecki (13)
 
   * Cinéphiles 3 : Les Ruses de Frédéric (Les)  
   * Cinéphiles : Éric a disparu (Les)  
@@ -196,7 +235,9 @@
   * Juif de Lascaux (Le)  
   * LN 2/3  
   * pieds dans les nuages (et la tête dans la lune) (Les)  
-  * Retour des cinéphiles (Le)
+  * Retour des cinéphiles (Le)  
+  * Skorecki déménage  
+  * Skorecki devient producteur
 
 ## Mike Leigh (14)
 
