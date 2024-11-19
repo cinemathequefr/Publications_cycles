@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Anna May Wong (17)
+## Anna May Wong (18)
 
   * Ange maudit  
   * Bombs over Burma  
@@ -14,6 +14,7 @@
   * Marchande de rêves (La)  
   * Monsieur Wu  
   * Papillon de la rue  
+  * Peter Pan  
   * Piccadilly  
   * Roi de Chinatown (Le)  
   * Shanghai Express  
@@ -47,7 +48,7 @@
   * Procès de Vérone (Le)  
   * Remake, Rome ville ouverte  
   * Scandale à Rome  
-  * Storie di vita i malavita = Racket della prostituzione minorile  
+  * Storie di vita e malavita = Racket della prostituzione minorile  
   * Traqués par la Gestapo  
   * Tue et fais ta prière  
   * Tuer pour tuer  
@@ -277,7 +278,7 @@
   * Saisons du cœur (Les)  
   * Un homme presque parfait
 
-## Robert Wise (15)
+## Robert Wise (16)
 
   * Canonnière du Yang-Tsé (La)  
   * Captive City (The)  
@@ -287,6 +288,7 @@
   * Mademoiselle Fifi  
   * Maison sur la colline (La)  
   * Mélodie du bonheur (La)  
+  * Mystère Andromède (Le)  
   * Né pour tuer  
   * Nous avons gagné ce soir  
   * Rats du désert (Les)  
@@ -295,10 +297,11 @@
   * Something for the Birds  
   * Un jeu de mort
 
-## Wes Anderson (10)
+## Wes Anderson (11)
 
   * À bord du Darjeeling Limited  
   * Asteroid City  
+  * Bottle Rocket  
   * Famille Tenenbaum (La)  
   * Fantastic Mr. Fox  
   * French Dispatch (The)  
