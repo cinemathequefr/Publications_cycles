@@ -203,6 +203,11 @@
   * Une femme douce  
   * Vol au-dessus d'un nid de coucou
 
+## Le flou au cinéma (2)
+
+  * Harry dans tous ses états  
+  * In Water
+
 ## Le western, 25 indispensables (22)
 
   * 3h10 pour Yuma  
