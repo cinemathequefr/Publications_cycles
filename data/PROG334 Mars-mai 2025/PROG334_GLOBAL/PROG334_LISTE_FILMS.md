@@ -158,13 +158,14 @@
   * Terre en transe  
   * Têtes coupées
 
-## Histoire permanente du cinéma (38)
+## Histoire permanente du cinéma (42)
 
   * À cause d'un assassinat  
   * Absence de malice  
   * Alice dans les villes  
   * Allemagne, mère blafarde  
   * Apportez-moi la tête d'Alfredo Garcia  
+  * Ballade de Narayama (La)  
   * Bête (La)  
   * Blues Brothers (The)  
   * Bronco Billy  
@@ -178,8 +179,10 @@
   * Droit du plus fort (Le)  
   * Easy Rider  
   * Fantôme de la liberté (Le)  
+  * Femme flambée (La)  
   * Femmes, femmes  
   * Ferdinand le radical  
+  * Furyo  
   * Gloria  
   * Homme qui voulut être roi (L')  
   * Incompris (L')  
@@ -196,6 +199,7 @@
   * Parfum de femme  
   * Possession  
   * Tout va bien  
+  * Travail au noir  
   * Une femme douce  
   * Vol au-dessus d'un nid de coucou
 
@@ -278,23 +282,45 @@
   * Saisons du cœur (Les)  
   * Un homme presque parfait
 
-## Robert Wise (16)
+## Robert Wise (38)
 
+  * Audrey Rose  
+  * Brève rencontre à Paris  
   * Canonnière du Yang-Tsé (La)  
   * Captive City (The)  
+  * Cette nuit ou jamais  
   * Ciel rouge  
+  * Coup de l'escalier (Le)  
   * Criminal Court  
+  * Destination Gobi  
+  * Deux sur la balançoire  
+  * East Side Story  
+  * Femmes coupables  
+  * Hélène de Troie  
+  * Je veux vivre  
   * Jour où la terre s'arrêta (Le)  
+  * Loi de la prairie (La)  
   * Mademoiselle Fifi  
+  * Maison du diable (La)  
   * Maison sur la colline (La)  
+  * Malédiction des hommes chats (La)  
+  * Marqué par la haine  
   * Mélodie du bonheur (La)  
+  * Mon grand  
   * Mystère Andromède (Le)  
+  * Mystery in Mexico  
   * Né pour tuer  
   * Nous avons gagné ce soir  
+  * Odyssée du Hindenburg (L')  
+  * Odyssée du sous-marin Nerka (L')  
   * Rats du désert (Les)  
   * Rebelles de Fort Thorn (Les)  
+  * Récupérateur de cadavres  
   * Secrets de femme  
   * Something for the Birds  
+  * Star !  
+  * Star Trek, le film  
+  * Tour des ambitieux (La)  
   * Un jeu de mort
 
 ## Wes Anderson (11)
