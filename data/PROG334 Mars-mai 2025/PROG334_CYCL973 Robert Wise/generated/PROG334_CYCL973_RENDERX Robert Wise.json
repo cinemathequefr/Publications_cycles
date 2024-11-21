@@ -94,32 +94,6 @@
           ]
         },
         {
-          "idFilm": 37480,
-          "content": [
-            {
-              "idFilm": 37480,
-              "ordre": 1,
-              "titre": "Captive City",
-              "art": "The",
-              "realisateurs": "Robert Wise",
-              "pays": "États-Unis",
-              "annee": 1952,
-              "generique": [
-                "John Forsythe",
-                "Joan Camden",
-                "Harold J. Kennedy"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187078,
-              "dateHeure": "2025-05-11T17:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 58703,
           "content": [
             {
@@ -217,7 +191,8 @@
             {
               "idFilm": 80546,
               "ordre": 1,
-              "titre": "Criminal Court",
+              "titre": "Cour criminelle",
+              "titreVo": "Criminal Court",
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
               "annee": 1946,
@@ -597,10 +572,15 @@
               "idFilm": 37559,
               "ordre": 1,
               "titre": "Marqué par la haine",
-              "titreVo": "Somebody up There Likes Me",
+              "titreVo": "Somebody Up There Likes Me",
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
-              "annee": 1956
+              "annee": 1956,
+              "generique": [
+                "Paul Newman",
+                "Pier Angeli",
+                "Everett Sloane"
+              ]
             }
           ],
           "seances": [
@@ -627,7 +607,7 @@
               "duree": 174,
               "version": "VOSTF",
               "format": "DCP",
-              "adaptation": "D'après le roman _The Trapp family_ de Maria von Trapp.",
+              "adaptation": "D'après le roman _The Trapp Family_ de Maria von Trapp.",
               "generique": [
                 "Julie Andrews",
                 "Christopher Plummer",
@@ -654,7 +634,12 @@
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
               "annee": 1953,
-              "adaptation": "D'après le roman _So big_ d'Edna Ferber."
+              "adaptation": "D'après le roman _So Big_ d'Edna Ferber.",
+              "generique": [
+                "Jane Wyman",
+                "Sterling Hayden",
+                "Nancy Olson"
+              ]
             }
           ],
           "seances": [
@@ -704,13 +689,19 @@
             {
               "idFilm": 80558,
               "ordre": 1,
-              "titre": "Mystery in Mexico",
+              "titre": "Mystère au Mexique",
+              "titreVo": "Mystery in Mexico",
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
               "annee": 1948,
               "duree": 0,
               "version": "VO",
-              "format": "35 mm"
+              "format": "35 mm",
+              "generique": [
+                "William Lundigan",
+                "Jacqueline White",
+                "Ricardo Cortez"
+              ]
             }
           ],
           "seances": [
@@ -735,7 +726,12 @@
               "duree": 92,
               "version": "VO",
               "format": "35 mm",
-              "adaptation": "D'après le roman _Deadlier Than the Male_ de James Gunn."
+              "adaptation": "D'après le roman _Tendre Femelle_ de James Gunn.",
+              "generique": [
+                "Claire Trevor",
+                "Lawrence Tierney",
+                "Walter Slezak"
+              ]
             }
           ],
           "seances": [
@@ -758,7 +754,12 @@
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
               "annee": 1948,
-              "adaptation": "D'après le poème _The Set-up_ de Joseph Moncure March."
+              "adaptation": "D'après le poème _The Set-up_ de Joseph Moncure March.",
+              "generique": [
+                "Robert Ryan",
+                "Audrey Totter",
+                "George Tobias"
+              ]
             }
           ],
           "seances": [
@@ -782,7 +783,12 @@
               "artVo": "The",
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
-              "annee": 1975
+              "annee": 1975,
+              "generique": [
+                "George C. Scott",
+                "Anne Bancroft",
+                "William Atherton"
+              ]
             }
           ],
           "seances": [
@@ -805,7 +811,12 @@
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
               "annee": 1957,
-              "adaptation": "D'après le roman _Run Silent Run Deep_ d'Edward L. Beach."
+              "adaptation": "D'après le roman _Run Silent, Run Deep_ d'Edward L. Beach.",
+              "generique": [
+                "Clark Gable",
+                "Burt Lancaster",
+                "Jack Warden"
+              ]
             }
           ],
           "seances": [
@@ -831,7 +842,12 @@
               "annee": 1953,
               "duree": 0,
               "version": "VO",
-              "format": "35 mm"
+              "format": "35 mm",
+              "generique": [
+                "Richard Burton",
+                "James Mason",
+                "Robert Newton"
+              ]
             }
           ],
           "seances": [
@@ -853,7 +869,12 @@
               "titreVo": "Two Flags West",
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
-              "annee": 1950
+              "annee": 1950,
+              "generique": [
+                "Joseph Cotten",
+                "Linda Darnell",
+                "Jeff Chandler"
+              ]
             }
           ],
           "seances": [
@@ -871,6 +892,7 @@
               "idFilm": 60806,
               "ordre": 1,
               "titre": "Récupérateur de cadavres",
+              "art": "Le",
               "titreVo": "Body Snatcher",
               "artVo": "The",
               "realisateurs": "Robert Wise",
@@ -878,7 +900,13 @@
               "annee": 1945,
               "duree": 0,
               "version": "VO",
-              "format": "35 mm"
+              "format": "35 mm",
+              "adaptation": "D'après la nouvelle _Le Voleur de cadavres_ de Robert Louis Stevenson.",
+              "generique": [
+                "Boris Karloff",
+                "Béla Lugosi",
+                "Henry Daniell"
+              ]
             }
           ],
           "seances": [
@@ -899,7 +927,12 @@
               "titreVo": "Three Secrets",
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
-              "annee": 1950
+              "annee": 1950,
+              "generique": [
+                "Eleanor Parker",
+                "Patricia Neal",
+                "Ruth Roman"
+              ]
             }
           ],
           "seances": [
@@ -919,7 +952,12 @@
               "titre": "Something for the Birds",
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
-              "annee": 1952
+              "annee": 1952,
+              "generique": [
+                "Victor Mature",
+                "Patricia Neal",
+                "Edmund Gwenn"
+              ]
             }
           ],
           "seances": [
@@ -969,7 +1007,12 @@
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
               "annee": 1979,
-              "adaptation": "D'après la série télévisée _Star Trek_ de Gene Roddenberry."
+              "adaptation": "D'après la série télévisée _Star Trek_ de Gene Roddenberry.",
+              "generique": [
+                "William Shatner",
+                "Leonard Nimoy",
+                "DeForest Kelley"
+              ]
             }
           ],
           "seances": [
@@ -994,7 +1037,13 @@
               "annee": 1953,
               "duree": 104,
               "version": "VO",
-              "format": "35 mm"
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Executive Suite_ de Cameron Hawley.",
+              "generique": [
+                "Barbara Stanwyck",
+                "William Holden",
+                "June Allyson"
+              ]
             }
           ],
           "seances": [
@@ -1016,13 +1065,46 @@
               "realisateurs": "Robert Wise",
               "pays": "États-Unis",
               "annee": 1946,
-              "adaptation": "D'après le roman _The Most Dangerous Game_ de Richard Connell."
+              "adaptation": "D'après le roman _The Most Dangerous Game_ de Richard Connell.",
+              "generique": [
+                "John Loder",
+                "Audrey Long",
+                "Edgar Barrier"
+              ]
             }
           ],
           "seances": [
             {
               "idSeance": 188036,
               "dateHeure": "2025-05-04T20:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 37480,
+          "content": [
+            {
+              "idFilm": 37480,
+              "ordre": 1,
+              "titre": "Ville captive",
+              "art": "La",
+              "titreVo": "Captive City",
+              "artVo": "The",
+              "realisateurs": "Robert Wise",
+              "pays": "États-Unis",
+              "annee": 1952,
+              "generique": [
+                "John Forsythe",
+                "Joan Camden",
+                "Harold J. Kennedy"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187078,
+              "dateHeure": "2025-05-11T17:00:00",
               "idSalle": "HL"
             }
           ]
@@ -1045,7 +1127,8 @@
               "generique": [
                 "Natalie Wood",
                 "Richard Beymer",
-                "George Chakiris"
+                "George Chakiris",
+                "Rita Moreno"
               ]
             }
           ],

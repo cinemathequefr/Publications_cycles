@@ -292,11 +292,10 @@
   * Audrey Rose  
   * Brève rencontre à Paris  
   * Canonnière du Yang-Tsé (La)  
-  * Captive City (The)  
   * Cette nuit ou jamais  
   * Ciel rouge  
   * Coup de l'escalier (Le)  
-  * Criminal Court  
+  * Cour criminelle  
   * Destination Gobi  
   * Deux sur la balançoire  
   * East Side Story  
@@ -313,20 +312,21 @@
   * Mélodie du bonheur (La)  
   * Mon grand  
   * Mystère Andromède (Le)  
-  * Mystery in Mexico  
+  * Mystère au Mexique  
   * Né pour tuer  
   * Nous avons gagné ce soir  
   * Odyssée du Hindenburg (L')  
   * Odyssée du sous-marin Nerka (L')  
   * Rats du désert (Les)  
   * Rebelles de Fort Thorn (Les)  
-  * Récupérateur de cadavres  
+  * Récupérateur de cadavres (Le)  
   * Secrets de femme  
   * Something for the Birds  
   * Star !  
   * Star Trek, le film  
   * Tour des ambitieux (La)  
-  * Un jeu de mort
+  * Un jeu de mort  
+  * Ville captive (La)
 
 ## Wes Anderson (11)
 
