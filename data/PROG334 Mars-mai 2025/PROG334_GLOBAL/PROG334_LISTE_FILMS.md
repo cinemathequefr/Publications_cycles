@@ -23,7 +23,7 @@
 
 ## Carlo Lizzani (31)
 
-  * Achtung banditi !  
+  * Achtung! Banditi!  
   * Bandits à Milan  
   * Barbagia  
   * Bossu de Rome (Le)  
@@ -48,7 +48,7 @@
   * Procès de Vérone (Le)  
   * Remake, Rome ville ouverte  
   * Scandale à Rome  
-  * Storie di vita e malavita = Racket della prostituzione minorile  
+  * Storie di vita e malavita  
   * Traqués par la Gestapo  
   * Tue et fais ta prière  
   * Tuer pour tuer  
@@ -147,7 +147,7 @@
 ## Glauber Rocha (11)
 
   * Âge de la terre (L')  
-  * Amazonas  
+  * Amazonas, Amazonas  
   * Antônio das mortes  
   * Barravento  
   * Câncer  
@@ -231,7 +231,7 @@
   * Train sifflera trois fois (Le)  
   * Trésor du pendu (Le)  
   * Vera Cruz  
-  * Ville abandonnée
+  * Ville abandonnée (La)
 
 ## Louis Skorecki (13)
 
