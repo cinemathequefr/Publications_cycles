@@ -303,7 +303,7 @@
     "items": [
       {
         "idFilm": 33905,
-        "titre": "Eventail de Lady Windermere",
+        "titre": "Éventail de Lady Windermere",
         "art": "L'",
         "realisateurs": "Ernst Lubitsch",
         "annee": 1925,
@@ -757,6 +757,16 @@
         "format": "35 mm"
       },
       {
+        "idFilm": 40802,
+        "titre": "Poupée",
+        "art": "La",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1919,
+        "duree": 57,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
         "idFilm": 34540,
         "titre": "Patriot",
         "art": "The",
@@ -767,7 +777,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f40800f34540"
+    "hashEvenement": "f40800f40802f34540"
   },
   {
     "idSeance": 187800,
@@ -816,6 +826,28 @@
       }
     ],
     "hashEvenement": "f92568"
+  },
+  {
+    "idSeance": 188068,
+    "idEvenement": 32483,
+    "dateHeure": "2025-03-20T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 32483,
+        "titre": "Cinégraphies, les femmes de la tempête : l'archive opoponax",
+        "sousTitre": "Conférence de Céline Ruivo",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c32483"
   },
   {
     "idSeance": 187911,
@@ -1048,6 +1080,10 @@
       [
         "Wes Anderson",
         "Les films"
+      ],
+      [
+        "Wes Anderson",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1057,9 +1093,15 @@
         "realisateurs": "Wes Anderson",
         "annee": 2023,
         "duree": 106
+      },
+      {
+        "idConf": 32382,
+        "titre": "Wes Anderson par Wes Anderson",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f155032"
+    "hashEvenement": "f155032c32382"
   },
   {
     "idSeance": 187842,
@@ -1108,7 +1150,7 @@
       },
       {
         "idFilm": 155052,
-        "titre": "Doktor Satansohm",
+        "titre": "Doktor Satansohn",
         "realisateurs": "Edmund Edel",
         "annee": 1916,
         "duree": 44,
@@ -1117,27 +1159,6 @@
       }
     ],
     "hashEvenement": "f155054f155052"
-  },
-  {
-    "idSeance": 187912,
-    "idEvenement": 32382,
-    "dateHeure": "2025-03-22T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Wes Anderson",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 32382,
-        "titre": "Wes Anderson par Wes Anderson",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c32382"
   },
   {
     "idSeance": 187892,
@@ -1264,7 +1285,7 @@
   },
   {
     "idSeance": 185758,
-    "idEvenement": 32067,
+    "idEvenement": 32480,
     "dateHeure": "2025-03-23T14:30:00",
     "salle": "JE",
     "cycle": [
@@ -1275,16 +1296,6 @@
     ],
     "items": [
       {
-        "idFilm": 128867,
-        "titre": "Joyeuse prison",
-        "art": "La",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1917,
-        "duree": 54,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      },
-      {
         "idFilm": 92582,
         "titre": "Je ne voudrais pas être un homme",
         "realisateurs": "Ernst Lubitsch",
@@ -1292,9 +1303,18 @@
         "duree": 44,
         "version": "INT. FR.",
         "format": "35 mm"
+      },
+      {
+        "idFilm": 70811,
+        "titre": "Ein fideles Gefängnis",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1917,
+        "duree": 54,
+        "version": "INT. FR.",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f128867f92582"
+    "hashEvenement": "f92582f70811"
   },
   {
     "idSeance": 185754,
@@ -1706,7 +1726,7 @@
     "cycle": [
       [
         "Ciné-club de Frédéric Bonnaud",
-        "Rencontres et conférences"
+        "Les films"
       ]
     ],
     "items": [
@@ -1770,7 +1790,7 @@
   },
   {
     "idSeance": 187839,
-    "idEvenement": 32047,
+    "idEvenement": 32480,
     "dateHeure": "2025-03-28T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -1781,6 +1801,15 @@
     ],
     "items": [
       {
+        "idFilm": 92582,
+        "titre": "Je ne voudrais pas être un homme",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1918,
+        "duree": 44,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
         "idFilm": 70811,
         "titre": "Ein fideles Gefängnis",
         "realisateurs": "Ernst Lubitsch",
@@ -1788,19 +1817,9 @@
         "duree": 54,
         "version": "INT. FR.",
         "format": "35 mm"
-      },
-      {
-        "idFilm": 40802,
-        "titre": "Poupée",
-        "art": "La",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1919,
-        "duree": 57,
-        "version": "INT. FR.",
-        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f70811f40802"
+    "hashEvenement": "f92582f70811"
   },
   {
     "idSeance": 187924,
@@ -2106,8 +2125,8 @@
     "items": [
       {
         "idFilm": 40727,
-        "titre": "Bergkatze",
-        "art": "Die",
+        "titre": "Chatte des montagnes",
+        "art": "La",
         "realisateurs": "Ernst Lubitsch",
         "annee": 1921,
         "duree": 80,
@@ -2800,7 +2819,8 @@
     "items": [
       {
         "idFilm": 33858,
-        "titre": "Eternal Love",
+        "titre": "Abîme",
+        "art": "L'",
         "realisateurs": "Ernst Lubitsch",
         "annee": 1929,
         "duree": 73,
@@ -3046,8 +3066,8 @@
       },
       {
         "idFilm": 40754,
-        "titre": "Blusenkönig",
-        "art": "Der",
+        "titre": "Roi du corsage",
+        "art": "Le",
         "realisateurs": "Ernst Lubitsch",
         "annee": 1917,
         "duree": 12,
@@ -4031,7 +4051,7 @@
     "cycle": [
       [
         "Ciné-club de Frédéric Bonnaud",
-        "Rencontres et conférences"
+        "Les films"
       ]
     ],
     "items": [
@@ -5436,7 +5456,7 @@
     "items": [
       {
         "idFilm": 155037,
-        "titre": "When were you born",
+        "titre": "When Were You Born",
         "realisateurs": "William C. McGann",
         "annee": 1938,
         "duree": 65,
@@ -5580,7 +5600,7 @@
         "realisateurs": "Carlo Lizzani",
         "annee": 1951,
         "duree": 98,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -6021,7 +6041,7 @@
     "cycle": [
       [
         "Ciné-club de Frédéric Bonnaud",
-        "Rencontres et conférences"
+        "Les films"
       ]
     ],
     "items": [
@@ -6125,7 +6145,9 @@
         "art": "Les",
         "realisateurs": "Carlo Lizzani",
         "annee": 1974,
-        "duree": 126
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f80780"
@@ -7279,7 +7301,9 @@
         "titre": "Caro Gorbaciov",
         "realisateurs": "Carlo Lizzani",
         "annee": 1988,
-        "duree": 85
+        "duree": 85,
+        "version": "VOAutres",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f56897"

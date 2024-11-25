@@ -10,6 +10,38 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 33858,
+          "content": [
+            {
+              "idFilm": 33858,
+              "ordre": 1,
+              "titre": "Abîme",
+              "art": "L'",
+              "titreVo": "Eternal Love",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "États-Unis",
+              "annee": 1929,
+              "duree": 73,
+              "version": "STF",
+              "format": "35 mm",
+              "generique": [
+                "John Barrymore",
+                "Camilla Horn",
+                "Victor Varconi"
+              ],
+              "isFocus": true,
+              "miniTexte": "Pendant les guerres napoléoniennes, dans les Alpes suisses, la passion contrariée d'un montagnard avec la fille du pasteur. Tourné en décors naturels dans les Rocheuses canadiennes, le dernier film muet de Lubitsch est une variation sur les amours impossibles, son thème de prédilection. Avec une tonalité plus sombre qu'à l'accoutumée, le cinéaste tire habilement parti des paysages enneigés pour créer une atmosphère de pur romantisme. Les vastes étendues blanches deviennent le théâtre d'intimité et de désespoir partagés par John Barrymore et Camilla Horn. Deux grands interprètes, suivis au plus près par une caméra aérienne, et de taille à transporter les émotions vers les plus hauts sommets."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186120,
+              "dateHeure": "2025-04-05T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 33887,
           "content": [
             {
@@ -78,80 +110,6 @@
           ]
         },
         {
-          "idFilm": 40727,
-          "content": [
-            {
-              "idFilm": 40727,
-              "ordre": 1,
-              "titre": "Bergkatze",
-              "art": "Die",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "Allemagne",
-              "annee": 1921,
-              "duree": 80,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "generique": [
-                "Pola Negri",
-                "Victor Janson",
-                "Paul Heidemann"
-              ],
-              "isFocus": true,
-              "miniTexte": "Avec les aventures d'un lieutenant, bourreau des cœurs, dépouillé par des brigands sur la route d'un fort isolé, le cinéaste allemand déploie une mise en scène véritablement débridée. Alors que la fille du voleur en chef tombe amoureuse de la victime, c'est tout un fil de situations farfelues qui se déroule avec une inventivité visuelle sans limites. Le jeu burlesque des acteurs, l'utilisation des décors enneigés et des cadres géométriques sont autant d'effets de surprises pour le spectateur. Un public ravi qui applaudit cette farce antimilitariste, tant pour sa forme inédite que pour le talent comique de Pola Negri. Actrice fétiche de Lubitsch depuis ses débuts, elle devient l'une des stars les plus adulées de sa génération."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187809,
-              "dateHeure": "2025-03-30T20:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 40754,
-          "content": [
-            {
-              "idFilm": 40754,
-              "ordre": 3,
-              "titre": "Blusenkönig",
-              "art": "Der",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "Allemagne",
-              "annee": 1917,
-              "duree": 12,
-              "version": "INT. FR.",
-              "format": "Numérique",
-              "generique": [
-                "Ernst Lubitsch",
-                "Käthe Dorsch",
-                "Guido Herzfeld"
-              ],
-              "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Quand j'étais mort",
-                    null
-                  ],
-                  [
-                    "Wenn vier dasselbe tun",
-                    null
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187811,
-              "dateHeure": "2025-04-06T19:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 40703,
           "content": [
             {
@@ -177,6 +135,39 @@
             {
               "idSeance": 187797,
               "dateHeure": "2025-03-17T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 40727,
+          "content": [
+            {
+              "idFilm": 40727,
+              "ordre": 1,
+              "titre": "Chatte des montagnes",
+              "art": "La",
+              "titreVo": "Bergkatze",
+              "artVo": "Die",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "Allemagne",
+              "annee": 1921,
+              "duree": 80,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "generique": [
+                "Pola Negri",
+                "Victor Janson",
+                "Paul Heidemann"
+              ],
+              "isFocus": true,
+              "miniTexte": "Avec les aventures d'un lieutenant, bourreau des cœurs, dépouillé par des brigands sur la route d'un fort isolé, le cinéaste allemand déploie une mise en scène véritablement débridée. Alors que la fille du voleur en chef tombe amoureuse de la victime, c'est tout un fil de situations farfelues qui se déroule avec une inventivité visuelle sans limites. Le jeu burlesque des acteurs, l'utilisation des décors enneigés et des cadres géométriques sont autant d'effets de surprises pour le spectateur. Un public ravi qui applaudit cette farce antimilitariste, tant pour sa forme inédite que pour le talent comique de Pola Negri. Actrice fétiche de Lubitsch depuis ses débuts, elle devient l'une des stars les plus adulées de sa génération."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187809,
+              "dateHeure": "2025-03-30T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -233,9 +224,10 @@
               "duree": 98,
               "version": "INT. FR.",
               "format": "DCP",
+              "adaptation": "D'après la pièce _Nur ein Traum_ de Lothar Schmidt.",
               "generique": [
                 "Florence Vidor",
-                "Adolph Menjou",
+                "Adolphe Menjou",
                 "Monte Blue",
                 "Marie Prevost"
               ],
@@ -319,7 +311,7 @@
           "content": [
             {
               "idFilm": 70811,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Ein fideles Gefängnis",
               "realisateurs": "Ernst Lubitsch",
               "pays": "Allemagne",
@@ -333,48 +325,25 @@
               ],
               "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
               "precedeSuivi": [
-                [],
                 [
                   [
-                    "Poupée",
-                    "La"
+                    "Je ne voudrais pas être un homme",
+                    null
                   ]
-                ]
+                ],
+                []
               ]
             }
           ],
           "seances": [
             {
+              "idSeance": 185758,
+              "dateHeure": "2025-03-23T14:30:00",
+              "idSalle": "JE"
+            },
+            {
               "idSeance": 187839,
               "dateHeure": "2025-03-28T17:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 33858,
-          "content": [
-            {
-              "idFilm": 33858,
-              "ordre": 1,
-              "titre": "Eternal Love",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "États-Unis",
-              "annee": 1929,
-              "duree": 73,
-              "version": "STF",
-              "format": "35 mm",
-              "generique": [
-                "John Barrymore"
-              ],
-              "isFocus": true,
-              "miniTexte": "Pendant les guerres napoléoniennes, dans les Alpes suisses, la passion contrariée d'un montagnard avec la fille du pasteur. Tourné en décors naturels dans les Rocheuses canadiennes, le dernier film muet de Lubitsch est une variation sur les amours impossibles, son thème de prédilection. Avec une tonalité plus sombre qu'à l'accoutumée, le cinéaste tire habilement parti des paysages enneigés pour créer une atmosphère de pur romantisme. Les vastes étendues blanches deviennent le théâtre d'intimité et de désespoir partagés par John Barrymore et Camilla Horn. Deux grands interprètes, suivis au plus près par une caméra aérienne, et de taille à transporter les émotions vers les plus hauts sommets."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 186120,
-              "dateHeure": "2025-04-05T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -385,7 +354,7 @@
             {
               "idFilm": 33905,
               "ordre": 1,
-              "titre": "Eventail de Lady Windermere",
+              "titre": "Éventail de Lady Windermere",
               "art": "L'",
               "titreVo": "Lady Windermere's Fan",
               "realisateurs": "Ernst Lubitsch",
@@ -394,8 +363,11 @@
               "duree": 70,
               "version": "",
               "format": "",
+              "adaptation": "D'après la pièce _L'Éventail de Lady Windermere_ d'Oscar Wilde.",
               "generique": [
-                "Ronald Colman"
+                "Ronald Colman",
+                "May McAvoy",
+                "Irene Rich"
               ],
               "isFocus": true,
               "miniTexte": "Comédie de mœurs dans la haute société londonienne, le film raconte les soupçons de Lady Windermer sur l'infidélité de son mari avec une femme de mauvaise réputation. Lubitsch troque l'esprit de la pièce d'Oscar Wilde contre son équivalent visuel : un geste, un sourire esquissé, un regard soutenu. Si secrets et mensonges se cachent derrière les portes closes, ils se révèlent astucieusement au travers d'un décor ou d'un objet perdu. Fondé sur l'ambiguïté des relations et sur les hypocrisies de la morale victorienne, _L'Éventail de Lady Windermere_ est un bijou de cruauté et d'amertume. Un incontournable du cinéma muet, longtemps resté inédit en France."
@@ -425,6 +397,11 @@
               "duree": 110,
               "version": "INT. FR.",
               "format": "35 mm",
+              "generique": [
+                "Emil Jannings",
+                "Dagny Servaes",
+                "Harry Liedtke"
+              ],
               "miniTexte": "Autour d'une intrigue amoureuse dans l'Égypte antique, une satire du pouvoir aux décors spectaculaires. La dernière superproduction allemande de Lubitsch, qui lui ouvre un boulevard vers les studios hollywoodiens."
             }
           ],
@@ -647,7 +624,7 @@
           "content": [
             {
               "idFilm": 92582,
-              "ordre": 2,
+              "ordre": 1,
               "titre": "Je ne voudrais pas être un homme",
               "titreVo": "Ich möchte kein Mann sein",
               "realisateurs": "Ernst Lubitsch",
@@ -658,50 +635,10 @@
               "format": "35 mm",
               "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-coureur et subversif qui explore les normes de genres avec malice.",
               "precedeSuivi": [
-                [
-                  [
-                    "Joyeuse prison",
-                    "La"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185758,
-              "dateHeure": "2025-03-23T14:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 128867,
-          "content": [
-            {
-              "idFilm": 128867,
-              "ordre": 1,
-              "titre": "Joyeuse prison",
-              "art": "La",
-              "titreVo": "Fidele Gefängnis",
-              "artVo": "Das",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "Allemagne",
-              "annee": 1917,
-              "duree": 54,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "generique": [
-                "Harry Liedtke",
-                "Kitty Dewall"
-              ],
-              "miniTexte": "Un mari fêtard évite une nuit de prison en se cachant dans un bal costumé. Avec un soin minutieux, Lubitsch tourne en dérision le mariage et les jeux amoureux dans une farce qui préfigure _Comédiennes_ et _Haute Pègre_.",
-              "precedeSuivi": [
                 [],
                 [
                   [
-                    "Je ne voudrais pas être un homme",
+                    "Ein fideles Gefängnis",
                     null
                   ]
                 ]
@@ -713,6 +650,11 @@
               "idSeance": 185758,
               "dateHeure": "2025-03-23T14:30:00",
               "idSalle": "JE"
+            },
+            {
+              "idSeance": 187839,
+              "dateHeure": "2025-03-28T17:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -760,6 +702,10 @@
               "precedeSuivi": [
                 [],
                 [
+                  [
+                    "Poupée",
+                    "La"
+                  ],
                   [
                     "Patriot",
                     "The"
@@ -962,7 +908,7 @@
           "content": [
             {
               "idFilm": 34540,
-              "ordre": 2,
+              "ordre": 3,
               "titre": "Patriot",
               "art": "The",
               "realisateurs": "Ernst Lubitsch",
@@ -977,6 +923,10 @@
                   [
                     "Meyer aus Berlin",
                     null
+                  ],
+                  [
+                    "Poupée",
+                    "La"
                   ]
                 ],
                 []
@@ -1016,19 +966,24 @@
               "precedeSuivi": [
                 [
                   [
-                    "Ein fideles Gefängnis",
+                    "Meyer aus Berlin",
                     null
                   ]
                 ],
-                []
+                [
+                  [
+                    "Patriot",
+                    "The"
+                  ]
+                ]
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 187839,
-              "dateHeure": "2025-03-28T17:30:00",
-              "idSalle": "GF"
+              "idSeance": 187923,
+              "dateHeure": "2025-03-19T20:15:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -1113,10 +1068,55 @@
                     null
                   ],
                   [
-                    "Blusenkönig",
-                    "Der"
+                    "Roi du corsage",
+                    "Le"
                   ]
                 ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187811,
+              "dateHeure": "2025-04-06T19:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 40754,
+          "content": [
+            {
+              "idFilm": 40754,
+              "ordre": 3,
+              "titre": "Roi du corsage",
+              "art": "Le",
+              "titreVo": "Blusenkönig",
+              "artVo": "Der",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "Allemagne",
+              "annee": 1917,
+              "duree": 12,
+              "version": "INT. FR.",
+              "format": "Numérique",
+              "generique": [
+                "Ernst Lubitsch",
+                "Käthe Dorsch",
+                "Guido Herzfeld"
+              ],
+              "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Quand j'étais mort",
+                    null
+                  ],
+                  [
+                    "Wenn vier dasselbe tun",
+                    null
+                  ]
+                ],
+                []
               ]
             }
           ],
@@ -1547,8 +1547,8 @@
                 ],
                 [
                   [
-                    "Blusenkönig",
-                    "Der"
+                    "Roi du corsage",
+                    "Le"
                   ]
                 ]
               ]
@@ -1601,7 +1601,7 @@
             {
               "idFilm": 155052,
               "ordre": 2,
-              "titre": "Doktor Satansohm",
+              "titre": "Doktor Satansohn",
               "realisateurs": "Edmund Edel",
               "pays": "Allemagne",
               "annee": 1916,
@@ -1609,7 +1609,9 @@
               "version": "INT. FR.",
               "format": "Numérique",
               "generique": [
-                "Hans Felix"
+                "Hans Felix",
+                "Yo Larte",
+                "Marga Köhler"
               ],
               "miniTexte": "Fantasmagorie aux accents faustiens, qui voit le propriétaire d'un institut de beauté, un certain Dr. Satansohn, réaliser le rêve d'une femme qui aspire à la jeunesse éternelle. Sous condition qu'elle n'embrasse plus aucun homme.",
               "precedeSuivi": [
@@ -1761,7 +1763,7 @@
                 [],
                 [
                   [
-                    "Doktor Satansohm",
+                    "Doktor Satansohn",
                     null
                   ]
                 ]

@@ -46,31 +46,48 @@
           ]
         },
         {
-          "idFilm": 155032,
-          "content": [
+          "groupe": [
             {
               "idFilm": 155032,
-              "ordre": 1,
-              "titre": "Asteroid City",
-              "realisateurs": "Wes Anderson",
-              "pays": "États-Unis",
-              "annee": 2023,
-              "duree": 106,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Scarlett Johansson",
-                "Jason Schwartzman",
-                "Tom Hanks"
-              ],
-              "miniTexte": "Avec le désert et ses essais nucléaires en toile de fond, une évocation des années 50 qui entrelace une convention de scientifiques juniors, une pièce de théâtre télévisée et la visite d'un alien. Un récit gigogne, où se déploient plus que jamais motifs géométriques et couleurs pastel, sur le thème du spleen et des angoisses existentielles."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 155032,
+                  "ordre": 1,
+                  "titre": "Asteroid City",
+                  "realisateurs": "Wes Anderson",
+                  "pays": "États-Unis",
+                  "annee": 2023,
+                  "duree": 106,
+                  "version": "",
+                  "format": "",
+                  "generique": [
+                    "Scarlett Johansson",
+                    "Jason Schwartzman",
+                    "Tom Hanks"
+                  ],
+                  "miniTexte": "Avec le désert et ses essais nucléaires en toile de fond, une évocation des années 50 qui entrelace une convention de scientifiques juniors, une pièce de théâtre télévisée et la visite d'un alien. Un récit gigogne, où se déploient plus que jamais motifs géométriques et couleurs pastel, sur le thème du spleen et des angoisses existentielles."
+                }
+              ]
+            },
             {
-              "idSeance": 185736,
-              "dateHeure": "2025-03-22T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 32382,
+              "content": [
+                {
+                  "idConf": 32382,
+                  "ordre": 2,
+                  "titre": "Wes Anderson par Wes Anderson",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Matthieu Orléan"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 185736,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-03-22T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -375,24 +392,6 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
-          "idConf": 32382,
-          "content": [
-            {
-              "idConf": 32382,
-              "titre": "Wes Anderson par Wes Anderson",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Matthieu Orléan"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187912,
-              "dateHeure": "2025-03-22T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idConf": 32398,
           "content": [
             {
@@ -432,8 +431,9 @@
   "syntheseAction": {
     "Dialogues": [
       {
+        "titreFilms": "Asteroid City",
         "mention": "Wes Anderson par Wes Anderson",
-        "dateHeure": "2025-03-22T16:30:00"
+        "dateHeure": "2025-03-22T14:30:00"
       },
       {
         "mention": "avec Matthieu Orléan",

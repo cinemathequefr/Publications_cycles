@@ -19,7 +19,7 @@
   * Roi de Chinatown (Le)  
   * Shanghai Express  
   * Sherlock Holmes: Une étude en rouge  
-  * When were you born
+  * When Were You Born
 
 ## Carlo Lizzani (31)
 
@@ -87,21 +87,20 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (54)
+## Ernst Lubitsch (53)
 
+  * Abîme (L')  
   * Ange  
   * Anne Boleyn  
-  * Bergkatze (Die)  
-  * Blusenkönig (Der)  
   * Carmen  
+  * Chatte des montagnes (La)  
   * Ciel peut attendre (Le)  
   * Comédiennes  
   * Dame au manteau d'hermine (La)  
-  * Doktor Satansohm  
+  * Doktor Satansohn  
   * Du Barry (La)  
   * Ein fideles Gefängnis  
-  * Eternal Love  
-  * Eventail de Lady Windermere (L')  
+  * Éventail de Lady Windermere (L')  
   * Femme du pharaon (La)  
   * Filles de Kohlhiesel (Les)  
   * Folle ingénue (La)  
@@ -110,7 +109,6 @@
   * Huitième Femme de Barbe-Bleue (La)  
   * Illusions perdues  
   * Je ne voudrais pas être un homme  
-  * Joyeuse prison (La)  
   * Lieutenant souriant (Le)  
   * Mademoiselle Piccolo  
   * Meyer aus Berlin  
@@ -128,6 +126,7 @@
   * Princesse aux huitres (La)  
   * Quand j'étais mort  
   * Robert et Bertram ou les joyeux vagabonds  
+  * Roi du corsage (Le)  
   * Roméo et Juliette dans la neige  
   * Rosita, chanteuse des rues  
   * Scandale à la cour  
