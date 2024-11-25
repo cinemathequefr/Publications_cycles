@@ -206,35 +206,51 @@
           ]
         },
         {
-          "idFilm": 30558,
-          "content": [
+          "groupe": [
             {
               "idFilm": 30558,
-              "ordre": 1,
-              "titre": "Kramer contre Kramer",
-              "titreVo": "Kramer vs Kramer",
-              "realisateurs": "Robert Benton",
-              "pays": "États-Unis",
-              "annee": 1979,
-              "duree": 105,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Le Droit du père_ d'Avery Corman.",
-              "generique": [
-                "Dustin Hoffman",
-                "Meryl Streep",
-                "Justin Henry",
-                "Jane Alexander"
-              ],
-              "isFocus": true,
-              "miniTexte": "Ouverture : Meryl Streep, déchirée, couche son enfant. Puis, pendant près d'une heure, on ne la verra plus. Maman est partie. Alors, comme un Lego, se construit dans les bribes du quotidien une relation père-fils, boiteuse, précieuse. Jusqu'au retour de la mère, des mois plus tard, qui réclame la garde du petit Billy. D'un roman d'Avery Corman, Robert Benton a tiré un scénario sobre, qu'il met en scène avec délicatesse : un plan dans l'embrasure d'une porte souligne une intimité fragile, la joie de vivre s'invite dans une promenade à Central Park, la douleur de la séparation éclate dans la violence des mots échangés lors du procès. Un grand film social, reflet de son époque, qui aborde de front la place de l'enfant, la libération de la femme et le rôle du père (Dustin Hoffman, bouleversant). Et un quinté gagnant aux Oscars, où _Kramer contre Kramer_ décroche les statuettes des meilleurs film, réalisateur, scénario et interprètes."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 30558,
+                  "ordre": 1,
+                  "titre": "Kramer contre Kramer",
+                  "titreVo": "Kramer vs Kramer",
+                  "realisateurs": "Robert Benton",
+                  "pays": "États-Unis",
+                  "annee": 1979,
+                  "duree": 105,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Le Droit du père_ d'Avery Corman.",
+                  "generique": [
+                    "Dustin Hoffman",
+                    "Meryl Streep",
+                    "Justin Henry",
+                    "Jane Alexander"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Ouverture : Meryl Streep, déchirée, couche son enfant. Puis, pendant près d'une heure, on ne la verra plus. Maman est partie. Alors, comme un Lego, se construit dans les bribes du quotidien une relation père-fils, boiteuse, précieuse. Jusqu'au retour de la mère, des mois plus tard, qui réclame la garde du petit Billy. D'un roman d'Avery Corman, Robert Benton a tiré un scénario sobre, qu'il met en scène avec délicatesse : un plan dans l'embrasure d'une porte souligne une intimité fragile, la joie de vivre s'invite dans une promenade à Central Park, la douleur de la séparation éclate dans la violence des mots échangés lors du procès. Un grand film social, reflet de son époque, qui aborde de front la place de l'enfant, la libération de la femme et le rôle du père (Dustin Hoffman, bouleversant). Et un quinté gagnant aux Oscars, où _Kramer contre Kramer_ décroche les statuettes des meilleurs film, réalisateur, scénario et interprètes."
+                }
+              ]
+            },
             {
-              "idSeance": 187889,
-              "dateHeure": "2025-03-23T14:30:00",
-              "idSalle": "GF"
+              "idEvenement": 32379,
+              "content": [
+                {
+                  "idConf": 32379,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 187889,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-03-23T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -361,36 +377,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32379,
-          "content": [
-            {
-              "idConf": 32379,
-              "titre": "Dialogue avec Murielle Joudet",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187967,
-              "dateHeure": "2025-03-23T16:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Kramer contre Kramer",
         "mention": "avec Murielle Joudet",
-        "dateHeure": "2025-03-23T16:30:00"
+        "dateHeure": "2025-03-23T14:30:00"
       }
     ]
   }
