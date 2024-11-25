@@ -3,6 +3,59 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Festival Entrevues Belfort 2024",
+      "texteSousCycle": "Créé par Janine Bazin en 1986, Entrevues Belfort est un festival dédié à la jeune création contemporaine et à l'histoire du cinéma. Les deux Grand prix (long et court métrages) de la 39<sup>e</sup> édition (18-24 novembre) seront présentés en avant-première et en présence des réalisateurs.",
+      "items": [
+        {
+          "idEvenement": 32490,
+          "content": [
+            {
+              "idFilm": 155109,
+              "ordre": 1,
+              "titre": "Avance",
+              "art": "L'",
+              "realisateurs": "Djiby Kebe",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 18,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Saabo Balde",
+                "Julia Faure",
+                "Juliette Speck"
+              ]
+            },
+            {
+              "idFilm": 155108,
+              "ordre": 2,
+              "titre": "Softshell",
+              "realisateurs": "Jinho Myung",
+              "pays": "États-Unis",
+              "annee": 2024,
+              "duree": 86,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Legyaan Thapa",
+                "Caledonia Abbey",
+                "Heen Sasithorn"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 137030,
+              "dateHeure": "2024-12-02T19:00:00",
+              "idSalle": "LE",
+              "mention": " Séance présentée par Cécile Cadoux"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Vincent Weber",
       "texteSousCycle": "Malika, 43 ans, vit dans une instabilité perpétuelle. Elle trouve refuge pour un temps chez son père, dans la résidence où elle a grandi, et renoue avec lui avant qu'il ne quitte l'appartement pour rentrer en Algérie. Avec _Un jour j'aurai une île_, Vincent Weber dessine le portrait intime et intense d'un personnage féminin qui s'émancipe de tout conditionnement social pour vivre sa vie. Pour sa carte blanche, le cinéaste présentera _Naked_ de Mike Leigh.",
       "items": [
@@ -499,7 +552,17 @@
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
+      {
+        "dateHeure": "2024-12-02T19:00:00",
+        "titreFilms": "L'Avance",
+        "mention": " Séance présentée par Cécile Cadoux"
+      },
+      {
+        "dateHeure": "2024-12-02T19:00:00",
+        "titreFilms": "Softshell",
+        "mention": " Séance présentée par Cécile Cadoux"
+      },
       {
         "dateHeure": "2025-01-27T19:30:00",
         "titreFilms": "September & July",
@@ -553,7 +616,12 @@
         "dateHeure": "2025-03-03T19:00:00"
       }
     ],
-    "Séance présentée": [
+    "Séances présentées": [
+      {
+        "titreFilms": "L'Avance / Softshell",
+        "mention": "par Cécile Cadoux",
+        "dateHeure": "2024-12-02T19:00:00"
+      },
       {
         "titreFilms": "Un jour j'aurai une île / Naked",
         "mention": "par Vincent Weber",

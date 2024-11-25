@@ -1,5 +1,39 @@
 [
   {
+    "idCategorie": 3630,
+    "typeEvenement": 13,
+    "idEvenement": 32490,
+    "idSeance": 137030,
+    "dateHeure": "2024-12-02T19:00:00",
+    "idSalle": [
+      "LE",
+      "Lotte Eisner"
+    ],
+    "dureeSeance": 30,
+    "typeSeance": 43,
+    "items": [
+      {
+        "idFilm": 155109,
+        "ordre": 1,
+        "idSeance": 137030,
+        "idCopie": 29274,
+        "duree": 18,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155108,
+        "ordre": 2,
+        "idSeance": 137030,
+        "idCopie": 29275,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Avant-première. Séance présentée par Cécile Cadoux"
+  },
+  {
     "idCategorie": 3633,
     "typeEvenement": 13,
     "idEvenement": 31767,
@@ -320,8 +354,5 @@
       }
     ],
     "mention": "Séance suivie d'une discussion avec Alexia Portal"
-  },
-  {
-    "mention": "Séance présentée par Cécile Cadoux"
   }
 ]
