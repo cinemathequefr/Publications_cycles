@@ -3,14 +3,14 @@
 ## Anna May Wong (18)
 
   * Ange maudit  
-  * Bombs over Burma  
+  * Bombs Over Burma  
   * Dame de Tchoung-King (La)  
   * Dangereux à connaître  
-  * Driven from home  
+  * Driven from Home  
   * Fille de Shanghai (La)  
   * Fleur de Lotus  
   * Grain de son  
-  * Ile des hommes perdus (L')  
+  * Île des hommes perdus (L')  
   * Marchande de rêves (La)  
   * Monsieur Wu  
   * Papillon de la rue  

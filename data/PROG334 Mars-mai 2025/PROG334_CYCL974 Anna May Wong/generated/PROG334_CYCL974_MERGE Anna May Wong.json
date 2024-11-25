@@ -45,13 +45,18 @@
           "idEvenement": 32119,
           "typeEvenement": 13,
           "idFilm": 82319,
-          "titre": "Bombs over Burma",
+          "titre": "Bombs Over Burma",
           "realisateurs": "Joseph H. Lewis",
           "annee": 1942,
           "pays": "États-Unis",
           "duree": 67,
           "version": "",
           "format": "",
+          "generique": [
+            "Anna May Wong",
+            "Noel Madison",
+            "Leslie Denison"
+          ],
           "textes": []
         },
         {
@@ -73,6 +78,11 @@
           "realisateurs": "William Nigh",
           "annee": 1950,
           "pays": "États-Unis",
+          "generique": [
+            "Anna May Wong",
+            "Harold Huber",
+            "Mae Clarke"
+          ],
           "textes": []
         },
         {
@@ -98,6 +108,7 @@
             "Anna May Wong",
             "Gail Patrick"
           ],
+          "adaptation": "D'après la pièce _On the Spot_ d'Edgar Wallace.",
           "textes": []
         },
         {
@@ -113,7 +124,7 @@
           "idEvenement": 32025,
           "typeEvenement": 13,
           "idFilm": 155035,
-          "titre": "Driven from home",
+          "titre": "Driven from Home",
           "realisateurs": "James Young",
           "annee": 1927,
           "pays": "États-Unis",
@@ -125,6 +136,7 @@
             "Ray Hallor",
             "Anna May Wong"
           ],
+          "adaptation": "D'après la pièce _Driven from Home_ de Hal Reid.",
           "textes": []
         },
         {
@@ -212,32 +224,6 @@
             "Wesley Barry",
             "Colleen Moore",
             "Anna May Wong"
-          ],
-          "textes": []
-        },
-        {
-          "idSeance": 186877,
-          "ordre": 1,
-          "dateHeure": "2025-05-03T18:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 30,
-          "idCategorie": 3673,
-          "idEvenement": 32116,
-          "typeEvenement": 13,
-          "idFilm": 67451,
-          "art": "L'",
-          "titre": "Ile des hommes perdus",
-          "titreVo": "Island of Lost Men",
-          "realisateurs": "Kurt Neumann",
-          "annee": 1939,
-          "pays": "États-Unis",
-          "generique": [
-            "Anna May Wong",
-            "J. Carrol Naish",
-            "Anthony Quinn"
           ],
           "textes": []
         },
@@ -477,6 +463,32 @@
             "Anna May Wong",
             "Margaret Lindsay",
             "Lola Lane"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 186877,
+          "ordre": 1,
+          "dateHeure": "2025-05-03T18:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 30,
+          "idCategorie": 3673,
+          "idEvenement": 32116,
+          "typeEvenement": 13,
+          "idFilm": 67451,
+          "art": "L'",
+          "titre": "Île des hommes perdus",
+          "titreVo": "Island of Lost Men",
+          "realisateurs": "Kurt Neumann",
+          "annee": 1939,
+          "pays": "États-Unis",
+          "generique": [
+            "Anna May Wong",
+            "J. Carrol Naish",
+            "Anthony Quinn"
           ],
           "textes": []
         }
