@@ -260,6 +260,10 @@
   * Skorecki déménage  
   * Skorecki devient producteur
 
+## Ma petite Cinémathèque (1)
+
+  * Fantastic Mr. Fox
+
 ## Mike Leigh (15)
 
   * All or Nothing  
@@ -340,13 +344,12 @@
   * Un jeu de mort  
   * Ville captive (La)
 
-## Wes Anderson (11)
+## Wes Anderson (10)
 
   * À bord du Darjeeling Limited  
   * Asteroid City  
   * Bottle Rocket  
   * Famille Tenenbaum (La)  
-  * Fantastic Mr. Fox  
   * French Dispatch (The)  
   * Grand Budapest Hotel (The)  
   * Île aux chiens (L')  
