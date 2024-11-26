@@ -50,21 +50,30 @@
   {
     "idCategorie": 3678,
     "typeEvenement": 13,
-    "idEvenement": 32147,
-    "idSeance": 188072,
+    "idEvenement": 32255,
+    "idSeance": 188080,
     "dateHeure": "2025-03-14T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 43193,
+        "idFilm": 89911,
         "ordre": 1,
-        "idSeance": 188072,
-        "idCopie": 29043,
-        "duree": 95,
+        "idSeance": 188080,
+        "idCopie": 13178,
+        "duree": 0,
+        "version": "VO",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 59413,
+        "ordre": 2,
+        "idSeance": 188080,
+        "idCopie": 4414,
+        "duree": 107,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -249,30 +258,21 @@
   {
     "idCategorie": 3678,
     "typeEvenement": 13,
-    "idEvenement": 32255,
-    "idSeance": 187980,
+    "idEvenement": 32147,
+    "idSeance": 188079,
     "dateHeure": "2025-03-20T21:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 89911,
+        "idFilm": 43193,
         "ordre": 1,
-        "idSeance": 187980,
-        "idCopie": 13178,
-        "duree": 0,
-        "version": "VO",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 59413,
-        "ordre": 2,
-        "idSeance": 187980,
-        "idCopie": 4414,
-        "duree": 107,
+        "idSeance": 188079,
+        "idCopie": 29043,
+        "duree": 95,
         "version": "VOSTF",
         "format": "35 mm"
       }
