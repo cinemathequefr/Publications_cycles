@@ -10,38 +10,63 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 103939,
-          "content": [
+          "groupe": [
             {
               "idFilm": 103939,
-              "ordre": 1,
-              "titre": "À bord du Darjeeling Limited",
-              "titreVo": "Darjeeling Limited",
-              "artVo": "The",
-              "realisateurs": "Wes Anderson",
-              "pays": "États-Unis",
-              "annee": 2007,
-              "duree": 91,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Owen Wilson",
-                "Adrien Brody",
-                "Jason Schwartzman"
-              ],
-              "miniTexte": "Le voyage en train, à travers l'Inde, d'une fratrie en quête de recomposition. Équipés d'une dizaine de valises, d'antidépresseurs et d'une bombe lacrymogène, les voici en route pour résoudre une foule de conflits familiaux, prêts à se délester d'un passé trop lourd et accepter de rentrer dans l'âge adulte."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187988,
-              "dateHeure": "2025-04-19T14:30:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 103939,
+                  "ordre": 1,
+                  "titre": "À bord du Darjeeling Limited",
+                  "titreVo": "Darjeeling Limited",
+                  "artVo": "The",
+                  "realisateurs": "Wes Anderson",
+                  "pays": "États-Unis",
+                  "annee": 2007,
+                  "duree": 91,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Owen Wilson",
+                    "Adrien Brody",
+                    "Jason Schwartzman"
+                  ],
+                  "miniTexte": "Le voyage en train, à travers l'Inde, d'une fratrie en quête de recomposition. Équipés d'une dizaine de valises, d'antidépresseurs et d'une bombe lacrymogène, les voici en route pour résoudre une foule de conflits familiaux, prêts à se délester d'un passé trop lourd et accepter de rentrer dans l'âge adulte."
+                }
+              ]
             },
             {
-              "idSeance": 187455,
-              "dateHeure": "2025-05-25T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 32399,
+              "content": [
+                {
+                  "idConf": 32399,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Nicolas Saada",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 187988,
+                  "dateHeure": "2025-04-19T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 187059,
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 187059,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-05-10T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 187455,
+                  "dateHeure": "2025-05-25T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -191,32 +216,48 @@
           ]
         },
         {
-          "idFilm": 150681,
-          "content": [
+          "groupe": [
             {
               "idFilm": 150681,
-              "ordre": 1,
-              "titre": "French Dispatch",
-              "art": "The",
-              "realisateurs": "Wes Anderson",
-              "pays": "États-Unis-Allemagne",
-              "annee": 2018,
-              "duree": 107,
-              "version": "VO",
-              "format": "",
-              "generique": [
-                "Benicio Del Toro",
-                "Adrien Brody",
-                "Tilda Swinton"
-              ],
-              "miniTexte": "Quatre histoires tirées d'un pseudo magazine américain prennent vie dans une ville française imaginaire du XX<sup>e</sup> siècle. Parmi la fine fleur de la bande Anderson, Léa Seydoux et Mathieu Amalric partagent la une du _French Dispatch_ dans une célébration nostalgique du journalisme et un hommage au cinéma français."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 150681,
+                  "ordre": 1,
+                  "titre": "French Dispatch",
+                  "art": "The",
+                  "realisateurs": "Wes Anderson",
+                  "pays": "États-Unis-Allemagne",
+                  "annee": 2018,
+                  "duree": 107,
+                  "version": "VO",
+                  "format": "",
+                  "generique": [
+                    "Benicio Del Toro",
+                    "Adrien Brody",
+                    "Tilda Swinton"
+                  ],
+                  "miniTexte": "Quatre histoires tirées d'un pseudo magazine américain prennent vie dans une ville française imaginaire du XX<sup>e</sup> siècle. Parmi la fine fleur de la bande Anderson, Léa Seydoux et Mathieu Amalric partagent la une du _French Dispatch_ dans une célébration nostalgique du journalisme et un hommage au cinéma français."
+                }
+              ]
+            },
             {
-              "idSeance": 186699,
-              "dateHeure": "2025-04-27T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 32398,
+              "content": [
+                {
+                  "idConf": 32398,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Matthieu Orléan",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 186699,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-04-27T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -386,46 +427,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32398,
-          "content": [
-            {
-              "idConf": 32398,
-              "titre": "Dialogue avec Matthieu Orléan",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187969,
-              "dateHeure": "2025-04-27T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idConf": 32399,
-          "content": [
-            {
-              "idConf": 32399,
-              "titre": "Dialogue avec Nicolas Saada",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187974,
-              "dateHeure": "2025-05-10T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -436,12 +437,14 @@
         "dateHeure": "2025-03-22T14:30:00"
       },
       {
+        "titreFilms": "The French Dispatch",
         "mention": "avec Matthieu Orléan",
-        "dateHeure": "2025-04-27T16:30:00"
+        "dateHeure": "2025-04-27T14:30:00"
       },
       {
+        "titreFilms": "À bord du Darjeeling Limited",
         "mention": "avec Nicolas Saada",
-        "dateHeure": "2025-05-10T16:30:00"
+        "dateHeure": "2025-05-10T14:30:00"
       }
     ]
   }

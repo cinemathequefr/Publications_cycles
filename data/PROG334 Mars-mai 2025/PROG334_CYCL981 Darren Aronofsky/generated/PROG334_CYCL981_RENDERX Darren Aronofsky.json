@@ -10,32 +10,48 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 112692,
-          "content": [
+          "groupe": [
             {
               "idFilm": 112692,
-              "ordre": 1,
-              "titre": "Black Swan",
-              "realisateurs": "Darren Aronofsky",
-              "pays": "États-Unis",
-              "annee": 2009,
-              "duree": 108,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Natalie Portman",
-                "Mila Kunis",
-                "Vincent Cassel"
-              ],
-              "isFocus": true,
-              "miniTexte": "Grand ballet des névroses influencé par _Les Chaussons rouges_ et _La Mouche_, _Black Swan_ questionne le don de soi, celui dont font preuve les artistes en brûlant leur vie pour exister sur scène. Le style tapageur d'Aronofsky, tout en caméra portée, exulte dans une mutation des corps, meurtris par la frustration, où la naissance de la folie aide à approcher la danse ultime. Sans édulcorer la cruauté d'un milieu fermé, le cinéaste fait la part belle au mouvement, à un jeu de métamorphoses ébouriffant, mené par la performance de Natalie Portman, Oscar de la meilleure actrice en 2011."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 112692,
+                  "ordre": 1,
+                  "titre": "Black Swan",
+                  "realisateurs": "Darren Aronofsky",
+                  "pays": "États-Unis",
+                  "annee": 2009,
+                  "duree": 108,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Natalie Portman",
+                    "Mila Kunis",
+                    "Vincent Cassel"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Grand ballet des névroses influencé par _Les Chaussons rouges_ et _La Mouche_, _Black Swan_ questionne le don de soi, celui dont font preuve les artistes en brûlant leur vie pour exister sur scène. Le style tapageur d'Aronofsky, tout en caméra portée, exulte dans une mutation des corps, meurtris par la frustration, où la naissance de la folie aide à approcher la danse ultime. Sans édulcorer la cruauté d'un milieu fermé, le cinéaste fait la part belle au mouvement, à un jeu de métamorphoses ébouriffant, mené par la performance de Natalie Portman, Oscar de la meilleure actrice en 2011."
+                }
+              ]
+            },
             {
-              "idSeance": 187883,
-              "dateHeure": "2025-04-05T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 32396,
+              "content": [
+                {
+                  "idConf": 32396,
+                  "ordre": 2,
+                  "titre": "Darren Aronofsky par Darren Aronofsky",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 187883,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-04-05T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -254,36 +270,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32396,
-          "content": [
-            {
-              "idConf": 32396,
-              "titre": "Darren Aronofsky par Darren Aronofsky",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187968,
-              "dateHeure": "2025-04-05T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Black Swan",
         "mention": "Darren Aronofsky par Darren Aronofsky",
-        "dateHeure": "2025-04-05T16:30:00"
+        "dateHeure": "2025-04-05T14:30:00"
       }
     ]
   }

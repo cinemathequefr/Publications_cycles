@@ -838,33 +838,49 @@
           ]
         },
         {
-          "idFilm": 89637,
-          "content": [
+          "groupe": [
             {
               "idFilm": 89637,
-              "ordre": 1,
-              "titre": "Tue et fais ta prière",
-              "titreVo": "Requiescant",
-              "realisateurs": "Carlo Lizzani",
-              "pays": "Italie-RFA",
-              "annee": 1966,
-              "duree": 106,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Lou Castel",
-                "Mark Damon",
-                "Pier Paolo Pasolini"
-              ],
-              "isFocus": true,
-              "miniTexte": "Le second western de Lizzani, sombre histoire de vengeance aux frontières du Mexique, quelques années après la fin de la Guerre de Sécession. Sobre dans ses effets, le film réunit autour de Lou Castel, impeccable en ange exterminateur, quelques membres de la troupe Pasolini, dont Franco Citti et Ninetto Davoli. L'histoire veut que le réalisateur de _Mamma Roma_, coscénariste officieux du film, et qui campe ici un prêtre mexicain révolutionnaire, accepta de faire le film en échange d'une Ferrari. Au vu du résultat, un deal gagnant-gagnant."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 89637,
+                  "ordre": 1,
+                  "titre": "Tue et fais ta prière",
+                  "titreVo": "Requiescant",
+                  "realisateurs": "Carlo Lizzani",
+                  "pays": "Italie-RFA",
+                  "annee": 1966,
+                  "duree": 106,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Lou Castel",
+                    "Mark Damon",
+                    "Pier Paolo Pasolini"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Le second western de Lizzani, sombre histoire de vengeance aux frontières du Mexique, quelques années après la fin de la Guerre de Sécession. Sobre dans ses effets, le film réunit autour de Lou Castel, impeccable en ange exterminateur, quelques membres de la troupe Pasolini, dont Franco Citti et Ninetto Davoli. L'histoire veut que le réalisateur de _Mamma Roma_, coscénariste officieux du film, et qui campe ici un prêtre mexicain révolutionnaire, accepta de faire le film en échange d'une Ferrari. Au vu du résultat, un deal gagnant-gagnant."
+                }
+              ]
+            },
             {
-              "idSeance": 186874,
-              "dateHeure": "2025-05-03T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 32395,
+              "content": [
+                {
+                  "idConf": 32395,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-François Rauger",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 186874,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-05-03T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -970,36 +986,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32395,
-          "content": [
-            {
-              "idConf": 32395,
-              "titre": "Dialogue avec Jean-François Rauger",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187971,
-              "dateHeure": "2025-05-03T16:45:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Tue et fais ta prière",
         "mention": "avec Jean-François Rauger",
-        "dateHeure": "2025-05-03T16:45:00"
+        "dateHeure": "2025-05-03T15:00:00"
       }
     ]
   }

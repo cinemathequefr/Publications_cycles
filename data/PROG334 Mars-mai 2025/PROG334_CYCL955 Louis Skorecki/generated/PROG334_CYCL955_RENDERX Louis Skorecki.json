@@ -109,26 +109,43 @@
           ]
         },
         {
-          "idFilm": 155086,
-          "content": [
+          "groupe": [
             {
               "idFilm": 155086,
-              "ordre": 1,
-              "titre": "CNC – Contre la Nouvelle Cinéphilie",
-              "realisateurs": "Louis Skorecki",
-              "pays": "France",
-              "annee": 1984,
-              "duree": 70,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "« Quand on parle de cinéphilie, je crois qu'il faut expliquer, préciser, mettre les choses à plat : mettre soi-même les pieds dans le plat et y aller de sa personne, faute de quoi l'autre, le lecteur, risque de n'y rien comprendre. » Lecture à deux voix du célèbre article de Skorecki écrit en 1978 pour les _Cahiers du cinéma_."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 155086,
+                  "ordre": 1,
+                  "titre": "CNC – Contre la Nouvelle Cinéphilie",
+                  "realisateurs": "Louis Skorecki",
+                  "pays": "France",
+                  "annee": 1984,
+                  "duree": 70,
+                  "version": "",
+                  "format": "DCP",
+                  "miniTexte": "« Quand on parle de cinéphilie, je crois qu'il faut expliquer, préciser, mettre les choses à plat : mettre soi-même les pieds dans le plat et y aller de sa personne, faute de quoi l'autre, le lecteur, risque de n'y rien comprendre. » Lecture à deux voix du célèbre article de Skorecki écrit en 1978 pour les _Cahiers du cinéma_."
+                }
+              ]
+            },
             {
-              "idSeance": 187992,
-              "dateHeure": "2025-04-20T17:30:00",
-              "idSalle": "GF"
+              "idEvenement": 32431,
+              "content": [
+                {
+                  "idConf": 32431,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Louis Skorecki",
+                  "sousTitre": "Conférence ",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 187992,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-04-20T17:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -163,27 +180,43 @@
           ]
         },
         {
-          "idFilm": 155092,
-          "content": [
+          "groupe": [
             {
               "idFilm": 155092,
-              "ordre": 1,
-              "titre": "Juif de Lascaux",
-              "art": "Le",
-              "realisateurs": "Louis Skorecki",
-              "pays": "France",
-              "annee": 2015,
-              "duree": 52,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "Une série de vignettes, décalées, incongrues, de conseils culinaires, de masques d'animaux et d'expressions yiddish pour raconter – ou ne surtout pas le faire, ou alors par la bande – ses origines juives. Longtemps resté invisible, le film est présenté dans une toute nouvelle restauration mise en œuvre par la Cinémathèque française."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 155092,
+                  "ordre": 1,
+                  "titre": "Juif de Lascaux",
+                  "art": "Le",
+                  "realisateurs": "Louis Skorecki",
+                  "pays": "France",
+                  "annee": 2015,
+                  "duree": 52,
+                  "version": "",
+                  "format": "DCP",
+                  "miniTexte": "Une série de vignettes, décalées, incongrues, de conseils culinaires, de masques d'animaux et d'expressions yiddish pour raconter – ou ne surtout pas le faire, ou alors par la bande – ses origines juives. Longtemps resté invisible, le film est présenté dans une toute nouvelle restauration mise en œuvre par la Cinémathèque française."
+                }
+              ]
+            },
             {
-              "idSeance": 186496,
-              "dateHeure": "2025-04-19T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 32430,
+              "content": [
+                {
+                  "idConf": 32430,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Louis Skorecki",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 186496,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-04-19T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -435,47 +468,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32430,
-          "content": [
-            {
-              "idConf": 32430,
-              "titre": "Dialogue avec Louis Skorecki",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187997,
-              "dateHeure": "2025-04-19T16:15:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idConf": 32431,
-          "content": [
-            {
-              "idConf": 32431,
-              "titre": "Dialogue avec Louis Skorecki",
-              "sousTitre": "Conférence ",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188078,
-              "dateHeure": "2025-04-20T18:45:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -483,13 +475,14 @@
       {
         "titre": "Dialogue avec Louis Skorecki",
         "mention": "Conférence ",
-        "dateHeure": "2025-04-20T18:45:00"
+        "dateHeure": "2025-04-20T17:30:00"
       }
     ],
     "Dialogue": [
       {
+        "titreFilms": "Le Juif de Lascaux",
         "mention": "avec Louis Skorecki",
-        "dateHeure": "2025-04-19T16:15:00"
+        "dateHeure": "2025-04-19T15:00:00"
       }
     ]
   }

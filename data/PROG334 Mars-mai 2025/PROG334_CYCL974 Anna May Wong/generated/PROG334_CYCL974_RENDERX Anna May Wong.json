@@ -438,30 +438,47 @@
           ]
         },
         {
-          "idFilm": 37061,
-          "content": [
+          "groupe": [
             {
               "idFilm": 37061,
-              "ordre": 1,
-              "titre": "Shanghai Express",
-              "realisateurs": "Josef von Sternberg",
-              "pays": "États-Unis",
-              "annee": 1932,
-              "duree": 82,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Marlene Dietrich",
-                "Clive Brook",
-                "Anna May Wong"
+              "content": [
+                {
+                  "idFilm": 37061,
+                  "ordre": 1,
+                  "titre": "Shanghai Express",
+                  "realisateurs": "Josef von Sternberg",
+                  "pays": "États-Unis",
+                  "annee": 1932,
+                  "duree": 82,
+                  "version": "",
+                  "format": "",
+                  "generique": [
+                    "Marlene Dietrich",
+                    "Clive Brook",
+                    "Anna May Wong"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 188076,
-              "dateHeure": "2025-04-26T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 32394,
+              "content": [
+                {
+                  "idConf": 32394,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Marion Polirsztok",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Emilie Cauquy"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 188076,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-04-26T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -520,37 +537,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32394,
-          "content": [
-            {
-              "idConf": 32394,
-              "titre": "Dialogue avec Marion Polirsztok",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Emilie Cauquy"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187985,
-              "dateHeure": "2025-04-26T16:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Shanghai Express",
         "mention": "avec Marion Polirsztok",
-        "dateHeure": "2025-04-26T16:30:00"
+        "dateHeure": "2025-04-26T15:00:00"
       }
     ]
   }

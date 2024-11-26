@@ -328,56 +328,59 @@
           ]
         },
         {
-          "idFilm": 43193,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 32380,
+              "content": [
+                {
+                  "idConf": 32380,
+                  "titre": "Qui êtes-vous... Glauber Rocha ?",
+                  "sousTitre": "Conférence de Gabriela Trujillo",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 187911,
+                  "idSeanceAssoc": 188079,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-03-20T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 43193,
-              "ordre": 1,
-              "titre": "Têtes coupées",
-              "titreVo": "Cabezas cortadas",
-              "realisateurs": "Glauber Rocha",
-              "pays": "Espagne-Brésil",
-              "annee": 1970,
-              "duree": 95,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Francisco Rabal",
-                "Pierre Clémenti",
-                "Marta May"
+              "content": [
+                {
+                  "idFilm": 43193,
+                  "ordre": 1,
+                  "titre": "Têtes coupées",
+                  "titreVo": "Cabezas cortadas",
+                  "realisateurs": "Glauber Rocha",
+                  "pays": "Espagne-Brésil",
+                  "annee": 1970,
+                  "duree": 95,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Francisco Rabal",
+                    "Pierre Clémenti",
+                    "Marta May"
+                  ],
+                  "miniTexte": "Tourné en Espagne, période franquiste, _Les Têtes coupées_ suit la figure délirante d'un dictateur sud-américain en exil, hanté par ses souvenirs de répression et ses actes de violence. Une fable aux images évocatrices, qui mêle réalité, symboles et critique sociale dans une œuvre anticonformiste et radicale."
+                }
               ],
-              "miniTexte": "Tourné en Espagne, période franquiste, _Les Têtes coupées_ suit la figure délirante d'un dictateur sud-américain en exil, hanté par ses souvenirs de répression et ses actes de violence. Une fable aux images évocatrices, qui mêle réalité, symboles et critique sociale dans une œuvre anticonformiste et radicale."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188079,
-              "dateHeure": "2025-03-20T21:15:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32380,
-          "content": [
-            {
-              "idConf": 32380,
-              "titre": "Qui êtes-vous... Glauber Rocha ?",
-              "sousTitre": "Conférence de Gabriela Trujillo",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187911,
-              "dateHeure": "2025-03-20T19:00:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 188079,
+                  "idSeanceAssoc": 188079,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-03-20T21:15:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         }
