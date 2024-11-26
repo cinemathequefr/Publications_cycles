@@ -21,6 +21,10 @@
   * Sherlock Holmes: Une étude en rouge  
   * When Were You Born
 
+## Archi Vives (1)
+
+  * Cinégraphies, les femmes de la tempête
+
 ## Carlo Lizzani (31)
 
   * Achtung! Banditi!  
@@ -202,10 +206,18 @@
   * Une femme douce  
   * Vol au-dessus d'un nid de coucou
 
-## Le flou au cinéma (2)
+## Le flou au cinéma (10)
 
+  * Anticipation of the Night  
+  * Dizziness  
+  * Fire of Waters  
   * Harry dans tous ses états  
-  * In Water
+  * Il n'y aura plus de nuit  
+  * In Water  
+  * Shockingly Hot  
+  * Text of Light (The)  
+  * Thunder  
+  * Wold Shadow (The)
 
 ## Le western, 25 indispensables (22)
 
