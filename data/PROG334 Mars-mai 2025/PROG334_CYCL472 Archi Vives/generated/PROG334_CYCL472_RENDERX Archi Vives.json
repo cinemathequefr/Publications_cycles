@@ -6,49 +6,52 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 155039,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 32483,
+              "content": [
+                {
+                  "idConf": 32483,
+                  "titre": "Cinégraphies, les femmes de la tempête : l'archive opoponax",
+                  "sousTitre": "Conférence de Céline Ruivo",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 188068,
+                  "idSeanceAssoc": 188075,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-03-20T17:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            },
             {
               "idFilm": 155039,
-              "ordre": 1,
-              "titre": "Cinégraphies, les femmes de la tempête",
-              "realisateurs": "Céline Ruivo",
-              "pays": "France",
-              "annee": 2023,
-              "duree": 60,
-              "version": "VOSTF",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188075,
-              "dateHeure": "2025-03-20T19:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32483,
-          "content": [
-            {
-              "idConf": 32483,
-              "titre": "Cinégraphies, les femmes de la tempête : l'archive opoponax",
-              "sousTitre": "Conférence de Céline Ruivo",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188068,
-              "dateHeure": "2025-03-20T17:30:00",
-              "idSalle": "JE"
+              "content": [
+                {
+                  "idFilm": 155039,
+                  "ordre": 1,
+                  "titre": "Cinégraphies, les femmes de la tempête",
+                  "realisateurs": "Céline Ruivo",
+                  "pays": "France",
+                  "annee": 2023,
+                  "duree": 60,
+                  "version": "VOSTF",
+                  "format": "DCP"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 188075,
+                  "idSeanceAssoc": 188075,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-03-20T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         }
