@@ -25,6 +25,15 @@
 
   * Cinégraphies, les femmes de la tempête
 
+## Aujourd'hui le cinéma (6)
+
+  * Camille sans contact  
+  * Cidade; Campo  
+  * Malo fait du vélo  
+  * Méduses de Gouville (Les)  
+  * Salut les zins!  
+  * Voyage au bord de la guerre
+
 ## Carlo Lizzani (31)
 
   * Achtung! Banditi!  
@@ -219,15 +228,17 @@
   * Thunder  
   * Wold Shadow (The)
 
-## Le western, 25 indispensables (22)
+## Le western, 25 indispensables (24)
 
   * 3h10 pour Yuma  
   * Ange des maudits (L')  
   * Appât (L')  
   * Cavalier du désert (Le)  
   * Chevauchée de la vengeance (La)  
+  * Chevauchée fantastique (La)  
   * Deux hommes dans l'Ouest  
   * Django Unchained  
+  * Étrange incident (L')  
   * Fille du désert (La)  
   * Fureur apache  
   * Homme des vallées perdues (L')  
@@ -260,9 +271,28 @@
   * Skorecki déménage  
   * Skorecki devient producteur
 
-## Ma petite Cinémathèque (1)
+## Ma petite Cinémathèque (20)
 
-  * Fantastic Mr. Fox
+  * Azur et Asmar  
+  * Cent un dalmatiens (Les)  
+  * Chantons sous la pluie  
+  * Charlie et la chocolaterie  
+  * Charlot au music-hall  
+  * Charlot et le comte  
+  * Charlot fait une cure  
+  * Demoiselles de Rochefort (Les)  
+  * Fantastic Mr. Fox  
+  * Fievel et le nouveau monde  
+  * Grande vadrouille (La)  
+  * James et la pêche géante  
+  * Matilda  
+  * Mécano de la General (Le)  
+  * Monstres et Cie  
+  * Panda, petit panda  
+  * Quatre cents coups (Les)  
+  * Robin des Bois  
+  * Souvenirs de Marnie  
+  * Un conte peut en cacher un autre
 
 ## Mike Leigh (15)
 
