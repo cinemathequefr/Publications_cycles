@@ -2263,24 +2263,6 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 187966,
-          "dateHeure": "2025-03-14T19:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 90,
-          "idCategorie": 3707,
-          "idEvenement": 32381,
-          "typeEvenement": 14,
-          "idTypeConference": 55,
-          "typeConference": "Conférence",
-          "titre": "Conférence Lubitsch",
-          "sousTitre": "Conférence ",
-          "duree": 90,
-          "textes": []
-        },
-        {
           "idSeance": 187984,
           "dateHeure": "2025-04-12T16:30:00",
           "idSalle": [
@@ -2293,9 +2275,35 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Film + Dialogue Lubitsch",
+          "titre": "Film + Dialogue avec Charlotte Garson",
           "duree": 60,
           "textes": []
+        },
+        {
+          "idSeance": 187966,
+          "dateHeure": "2025-03-14T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3707,
+          "idEvenement": 32381,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Lubitsch au travail (à Hollywood)",
+          "sousTitre": "Conférence de Katalin Por",
+          "duree": 90,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Katalin Por",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []

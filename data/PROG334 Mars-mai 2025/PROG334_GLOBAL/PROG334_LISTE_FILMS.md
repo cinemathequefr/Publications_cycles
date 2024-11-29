@@ -34,7 +34,7 @@
   * Malo fait du vélo  
   * Méduses de Gouville (Les)  
   * Par-delà les montagnes  
-  * Salut les zins!  
+  * Salut les zins !  
   * Tremblements (Les)  
   * Voyage au bord de la guerre
 
