@@ -27,6 +27,29 @@
   {
     "idCategorie": 3673,
     "typeEvenement": 13,
+    "idEvenement": 32027,
+    "idSeance": 188133,
+    "dateHeure": "2025-04-25T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 104030,
+        "ordre": 1,
+        "idSeance": 188133,
+        "idCopie": 28995,
+        "duree": 97,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3673,
+    "typeEvenement": 13,
     "idEvenement": 32017,
     "idSeance": 188076,
     "dateHeure": "2025-04-26T15:00:00",
@@ -213,29 +236,6 @@
   {
     "idCategorie": 3673,
     "typeEvenement": 13,
-    "idEvenement": 32027,
-    "idSeance": 188077,
-    "dateHeure": "2025-04-30T16:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 104030,
-        "ordre": 1,
-        "idSeance": 188077,
-        "idCopie": 28995,
-        "duree": 97,
-        "version": "VO",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3673,
-    "typeEvenement": 13,
     "idEvenement": 32124,
     "idSeance": 186753,
     "dateHeure": "2025-04-30T18:30:00",
@@ -406,6 +406,24 @@
     "items": [
       {
         "idFilm": 59132,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3673,
+    "typeEvenement": 13,
+    "idEvenement": 32451,
+    "idSeance": 188132,
+    "dateHeure": "2025-05-04T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 33085,
         "ordre": 1
       }
     ]

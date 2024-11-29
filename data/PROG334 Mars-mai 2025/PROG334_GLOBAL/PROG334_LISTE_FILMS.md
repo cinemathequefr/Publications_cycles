@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Anna May Wong (18)
+## Anna May Wong (19)
 
   * Ange maudit  
   * Bombs Over Burma  
@@ -13,6 +13,7 @@
   * Île des hommes perdus (L')  
   * Marchande de rêves (La)  
   * Monsieur Wu  
+  * Mystères de Londres  
   * Papillon de la rue  
   * Peter Pan  
   * Piccadilly  
@@ -170,7 +171,7 @@
   * Terre en transe  
   * Têtes coupées
 
-## Histoire permanente du cinéma (42)
+## Histoire permanente du cinéma (39)
 
   * À cause d'un assassinat  
   * Absence de malice  
@@ -184,13 +185,11 @@
   * Butch Cassidy et le Kid  
   * Cadavres exquis  
   * Casanova de Fellini (Le)  
-  * Cicatrice intérieure (La)  
   * Conte de la folie ordinaire  
   * De la vie des marionnettes  
   * Dodes'kaden  
   * Droit du plus fort (Le)  
   * Easy Rider  
-  * Fantôme de la liberté (Le)  
   * Femme flambée (La)  
   * Femmes, femmes  
   * Ferdinand le radical  
@@ -207,7 +206,6 @@
   * Mado  
   * Maîtresse  
   * Monsieur Klein  
-  * Nuit américaine (La)  
   * Parfum de femme  
   * Possession  
   * Tout va bien  
