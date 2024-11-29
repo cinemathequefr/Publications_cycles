@@ -16,22 +16,31 @@
               "content": [
                 {
                   "idFilm": 103939,
-                  "ordre": 1,
+                  "ordre": 2,
                   "titre": "À bord du Darjeeling Limited",
                   "titreVo": "Darjeeling Limited",
                   "artVo": "The",
                   "realisateurs": "Wes Anderson",
                   "pays": "États-Unis",
                   "annee": 2007,
-                  "duree": 0,
+                  "duree": 91,
                   "version": "VOSTF",
-                  "format": "35 mm",
+                  "format": "DCP",
                   "generique": [
                     "Owen Wilson",
                     "Adrien Brody",
                     "Jason Schwartzman"
                   ],
-                  "miniTexte": "Le voyage en train, à travers l'Inde, d'une fratrie en quête de recomposition. Équipés d'une dizaine de valises, d'antidépresseurs et d'une bombe lacrymogène, les voici en route pour résoudre une foule de conflits familiaux, prêts à se délester d'un passé trop lourd et accepter de rentrer dans l'âge adulte."
+                  "miniTexte": "Le voyage en train, à travers l'Inde, d'une fratrie en quête de recomposition. Équipés d'une dizaine de valises, d'antidépresseurs et d'une bombe lacrymogène, les voici en route pour résoudre une foule de conflits familiaux, prêts à se délester d'un passé trop lourd et accepter de rentrer dans l'âge adulte.",
+                  "precedeSuivi": [
+                    [
+                      [
+                        "Hotel Chevalier",
+                        null
+                      ]
+                    ],
+                    []
+                  ]
                 }
               ]
             },
@@ -40,7 +49,7 @@
               "content": [
                 {
                   "idConf": 32399,
-                  "ordre": 2,
+                  "ordre": 3,
                   "titre": "Dialogue avec Nicolas Saada",
                   "typeConference": "Dialogue"
                 }
@@ -127,8 +136,8 @@
               "pays": "États-Unis",
               "annee": 1996,
               "duree": 91,
-              "version": "",
-              "format": "",
+              "version": "VOSTF",
+              "format": "DCP",
               "generique": [
                 "Luke Wilson",
                 "Owen Wilson",
@@ -195,7 +204,7 @@
               "annee": 2007,
               "duree": 88,
               "version": "VOSTF",
-              "format": "35 mm",
+              "format": "DCP",
               "ageMinimal": 6,
               "adaptation": "D'après le roman _Fantastique Maître Renard_ de Roald Dahl.",
               "generique": [
@@ -288,6 +297,54 @@
             {
               "idSeance": 187954,
               "dateHeure": "2025-04-26T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 155117,
+          "content": [
+            {
+              "idFilm": 155117,
+              "ordre": 1,
+              "titre": "Hotel Chevalier",
+              "realisateurs": "Wes Anderson",
+              "pays": "États-Unis-France",
+              "annee": 2007,
+              "duree": 13,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Natalie Portman",
+                "Jason Schwartzman",
+                "Waris Ahluwalia"
+              ],
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "À bord du Darjeeling Limited",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 187988,
+              "dateHeure": "2025-04-19T14:30:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 187059,
+              "typeAssoc": 118,
+              "dateHeure": "2025-05-10T14:30:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 187455,
+              "dateHeure": "2025-05-25T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -442,7 +499,7 @@
         "dateHeure": "2025-04-27T14:30:00"
       },
       {
-        "titreFilms": "À bord du Darjeeling Limited",
+        "titreFilms": "Hotel Chevalier / À bord du Darjeeling Limited",
         "mention": "avec Nicolas Saada",
         "dateHeure": "2025-05-10T14:30:00"
       }

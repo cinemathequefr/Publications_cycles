@@ -145,13 +145,127 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "David Depesseville",
+      "items": [
+        {
+          "idFilm": 155115,
+          "content": [
+            {
+              "idFilm": 155115,
+              "ordre": 1,
+              "titre": "Tremblements",
+              "art": "Les",
+              "realisateurs": "David Depesseville",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 37,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Bastien Bouillon",
+                "Marc Barbé"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186717,
+              "dateHeure": "2025-04-28T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec David Depesseville"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Avant-première Jean-Baptiste Alazard",
+      "items": [
+        {
+          "idFilm": 155116,
+          "content": [
+            {
+              "idFilm": 155116,
+              "ordre": 1,
+              "titre": "Festa major",
+              "realisateurs": "Jean-Baptiste Alazard",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 98,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186339,
+              "dateHeure": "2025-04-14T19:30:00",
+              "idSalle": "JE",
+              "mention": " Séance suivie d'une discussion avec Jean-Baptiste Alazard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Hefse Guiro",
+      "items": [
+        {
+          "idFilm": 155118,
+          "content": [
+            {
+              "idFilm": 155118,
+              "ordre": 1,
+              "titre": "Par-delà les montagnes",
+              "realisateurs": "Hefse Guiro",
+              "pays": "France",
+              "annee": 2024
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186906,
+              "dateHeure": "2025-05-05T20:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Hefse Guiro"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
       {
         "dateHeure": "2025-03-17T19:00:00",
         "titreFilms": "Cidade; Campo"
+      },
+      {
+        "dateHeure": "2025-04-14T19:30:00",
+        "titreFilms": "Festa major",
+        "mention": " Séance suivie d'une discussion avec Jean-Baptiste Alazard"
+      }
+    ],
+    "Discussions": [
+      {
+        "titreFilms": "Festa major",
+        "mention": "avec Jean-Baptiste Alazard",
+        "dateHeure": "2025-04-14T19:30:00"
+      },
+      {
+        "titreFilms": "Les Tremblements",
+        "mention": "avec David Depesseville",
+        "dateHeure": "2025-04-28T19:00:00"
+      },
+      {
+        "titreFilms": "Par-delà les montagnes",
+        "mention": "avec Hefse Guiro",
+        "dateHeure": "2025-05-05T20:30:00"
       }
     ]
   }

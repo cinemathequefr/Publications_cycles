@@ -26,13 +26,16 @@
 
   * Cinégraphies, les femmes de la tempête
 
-## Aujourd'hui le cinéma (6)
+## Aujourd'hui le cinéma (9)
 
   * Camille sans contact  
   * Cidade; Campo  
+  * Festa major  
   * Malo fait du vélo  
   * Méduses de Gouville (Les)  
+  * Par-delà les montagnes  
   * Salut les zins!  
+  * Tremblements (Les)  
   * Voyage au bord de la guerre
 
 ## Carlo Lizzani (31)
@@ -372,7 +375,7 @@
   * Un jeu de mort  
   * Ville captive (La)
 
-## Wes Anderson (10)
+## Wes Anderson (11)
 
   * À bord du Darjeeling Limited  
   * Asteroid City  
@@ -380,6 +383,7 @@
   * Famille Tenenbaum (La)  
   * French Dispatch (The)  
   * Grand Budapest Hotel (The)  
+  * Hotel Chevalier  
   * Île aux chiens (L')  
   * Moonrise Kingdom  
   * Rushmore  
