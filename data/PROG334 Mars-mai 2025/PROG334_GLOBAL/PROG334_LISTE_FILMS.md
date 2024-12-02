@@ -131,14 +131,14 @@
   * Monte Carlo  
   * Montmartre  
   * Ninotchka  
-  * orgueil de la firme (L')  
+  * Orgueil de la firme (L')  
   * Parade d'amour  
   * Paradis defendu  
   * Paramount on Parade  
   * Patriot (The)  
   * Poupée (La)  
   * Prince étudiant (Le)  
-  * Princesse aux huitres (La)  
+  * Princesse aux huîtres (La)  
   * Quand j'étais mort  
   * Robert et Bertram ou les joyeux vagabonds  
   * Roi du corsage (Le)  
