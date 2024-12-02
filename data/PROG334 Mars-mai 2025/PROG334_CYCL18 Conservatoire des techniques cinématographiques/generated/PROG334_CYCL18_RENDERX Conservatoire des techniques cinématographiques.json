@@ -11,7 +11,7 @@
             {
               "idConf": 32342,
               "titre": "Conférence de Simon Weisse",
-              "sousTitre": "",
+              "sousTitre": "Avec la participation de Matthieu Orléan et Julien Dumont",
               "typeConference": "Conférence"
             }
           ],
@@ -28,9 +28,8 @@
           "content": [
             {
               "idConf": 32343,
-              "titre": "Rencontre avec Robert Yeoman",
-              "sousTitre": "",
-              "typeConference": "Dialogue"
+              "titre": "Robert Yeoman par Robert Yeoman, une leçon de cinéma",
+              "typeConference": "Leçon de cinéma"
             }
           ],
           "seances": [
@@ -45,16 +44,17 @@
     }
   ],
   "syntheseAction": {
+    "Leçon de cinéma": [
+      {
+        "titre": "Robert Yeoman par Robert Yeoman, une leçon de cinéma",
+        "dateHeure": "2025-05-16T18:00:00"
+      }
+    ],
     "Conférence": [
       {
         "titre": "Conférence de Simon Weisse",
+        "mention": "Avec la participation de Matthieu Orléan et Julien Dumont",
         "dateHeure": "2025-04-18T17:00:00"
-      }
-    ],
-    "Dialogue": [
-      {
-        "mention": "Rencontre avec Robert Yeoman",
-        "dateHeure": "2025-05-16T18:00:00"
       }
     ]
   }
