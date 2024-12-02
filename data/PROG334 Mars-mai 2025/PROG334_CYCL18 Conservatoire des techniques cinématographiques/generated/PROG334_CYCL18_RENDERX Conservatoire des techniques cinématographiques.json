@@ -10,8 +10,8 @@
           "content": [
             {
               "idConf": 32342,
-              "titre": "Rencontre avec Simon Weisse",
-              "sousTitre": "Conférence ",
+              "titre": "Conférence de Simon Weisse",
+              "sousTitre": "",
               "typeConference": "Conférence"
             }
           ],
@@ -29,8 +29,8 @@
             {
               "idConf": 32343,
               "titre": "Rencontre avec Robert Yeoman",
-              "sousTitre": "Conférence ",
-              "typeConference": "Conférence"
+              "sousTitre": "",
+              "typeConference": "Dialogue"
             }
           ],
           "seances": [
@@ -45,15 +45,15 @@
     }
   ],
   "syntheseAction": {
-    "Conférences": [
+    "Conférence": [
       {
-        "titre": "Rencontre avec Simon Weisse",
-        "mention": "Conférence ",
+        "titre": "Conférence de Simon Weisse",
         "dateHeure": "2025-04-18T17:00:00"
-      },
+      }
+    ],
+    "Dialogue": [
       {
-        "titre": "Rencontre avec Robert Yeoman",
-        "mention": "Conférence ",
+        "mention": "Rencontre avec Robert Yeoman",
         "dateHeure": "2025-05-16T18:00:00"
       }
     ]
