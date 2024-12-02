@@ -232,8 +232,8 @@
           "annee": 1921,
           "pays": "Allemagne",
           "duree": 80,
-          "version": "INT. FR.",
-          "format": "35 mm",
+          "version": "",
+          "format": "",
           "generique": [
             "Pola Negri",
             "Victor Janson",
@@ -1338,9 +1338,9 @@
           "realisateurs": "Ernst Lubitsch",
           "annee": 1919,
           "pays": "Allemagne",
-          "duree": 63,
-          "version": "INT. FR.",
-          "format": "35 mm",
+          "duree": 70,
+          "version": "",
+          "format": "",
           "textes": [
             {
               "typeTexte": 1000,
@@ -1367,8 +1367,8 @@
           "annee": 1915,
           "pays": "Allemagne",
           "duree": 37,
-          "version": "INT. FR.",
-          "format": "35 mm",
+          "version": "",
+          "format": "",
           "generique": [
             "Ernst Lubitsch"
           ],
@@ -1848,6 +1848,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3675,
           "idEvenement": 32068,
           "typeEvenement": 13,
@@ -2298,13 +2299,15 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 187984,
-          "dateHeure": "2025-04-12T16:30:00",
+          "idSeance": 186303,
+          "ordre": 2,
+          "dateHeure": "2025-04-12T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 3707,
           "idEvenement": 32397,
           "typeEvenement": 14,
@@ -2312,7 +2315,22 @@
           "typeConference": "Dialogue",
           "titre": "Dialogue avec Charlotte Garson",
           "duree": 60,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Charlotte Garson",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Bernard Benoliel"
         },
         {
           "idSeance": 187966,

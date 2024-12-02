@@ -159,8 +159,8 @@
               "pays": "Allemagne",
               "annee": 1921,
               "duree": 80,
-              "version": "INT. FR.",
-              "format": "35 mm",
+              "version": "",
+              "format": "",
               "generique": [
                 "Pola Negri",
                 "Victor Janson",
@@ -1039,9 +1039,9 @@
               "realisateurs": "Ernst Lubitsch",
               "pays": "Allemagne",
               "annee": 1919,
-              "duree": 63,
-              "version": "INT. FR.",
-              "format": "35 mm",
+              "duree": 70,
+              "version": "",
+              "format": "",
               "isFocus": true,
               "miniTexte": "Visuellement époustouflant, inventif, grotesque jusqu'au scabreux, _La Princesse aux huîtres_ représente le meilleur des comédies déjantées du cinéaste, qui utilise pour la première fois le burlesque comme satire. La fille capricieuse du magnat de l'huître américain veut épouser un prince, mais évidemment rien ne se passe comme prévu. Dans un décor opulent, les ballets incessants de serviteurs combinés aux fracas des objets donnent au film une énergie bourdonnante, à l'image d'une scène de foxtrot d'anthologie. Une agitation sur mesure, qui reflète toute la vanité et la luxure d'une bourgeoisie débridée, dans l'une des plus éclatantes démonstrations de l'art du rythme selon Lubitsch."
             }
@@ -1067,8 +1067,8 @@
               "pays": "Allemagne",
               "annee": 1915,
               "duree": 37,
-              "version": "INT. FR.",
-              "format": "35 mm",
+              "version": "",
+              "format": "",
               "generique": [
                 "Ernst Lubitsch"
               ],
@@ -1417,38 +1417,58 @@
           ]
         },
         {
-          "idFilm": 34625,
-          "content": [
+          "groupe": [
             {
               "idFilm": 34625,
-              "ordre": 1,
-              "titre": "To Be or Not To Be",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "États-Unis",
-              "annee": 1942,
-              "duree": 99,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Carole Lombard",
-                "Jack Benny",
-                "Robert Stack"
-              ],
-              "isFocus": true,
-              "miniTexte": "Pendant l'invasion de la Pologne par l'Allemagne, une troupe d'acteurs se retrouve engagée dans de périlleuses actions de résistance, où les talents de comédiens de chacun permettent de déjouer les plans nazis. Persuadé que l'on peut rire de tout, Lubitsch utilise le théâtre comme une arme burlesque pour composer une satire au suspense haletant, qui associe dialogues incisifs et caricature implacable. Dans la lignée du _Dictateur_, une joyeuse charge antinazie, aux multiples jeux de dupes et autres quiproquos irrésistibles."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187794,
-              "dateHeure": "2025-03-12T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "content": [
+                {
+                  "idFilm": 34625,
+                  "ordre": 1,
+                  "titre": "To Be or Not To Be",
+                  "realisateurs": "Ernst Lubitsch",
+                  "pays": "États-Unis",
+                  "annee": 1942,
+                  "duree": 99,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Carole Lombard",
+                    "Jack Benny",
+                    "Robert Stack"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Pendant l'invasion de la Pologne par l'Allemagne, une troupe d'acteurs se retrouve engagée dans de périlleuses actions de résistance, où les talents de comédiens de chacun permettent de déjouer les plans nazis. Persuadé que l'on peut rire de tout, Lubitsch utilise le théâtre comme une arme burlesque pour composer une satire au suspense haletant, qui associe dialogues incisifs et caricature implacable. Dans la lignée du _Dictateur_, une joyeuse charge antinazie, aux multiples jeux de dupes et autres quiproquos irrésistibles."
+                }
+              ]
             },
             {
-              "idSeance": 186303,
-              "dateHeure": "2025-04-12T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 32397,
+              "content": [
+                {
+                  "idConf": 32397,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Charlotte Garson",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 187794,
+                  "dateHeure": "2025-03-12T20:00:00",
+                  "idSalle": "HL",
+                  "mention": "Ouverture de la rétrospective",
+                  "idSeanceAssoc": 186303,
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 186303,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-04-12T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         },
@@ -1825,23 +1845,6 @@
               "idSalle": "GF"
             }
           ]
-        },
-        {
-          "idConf": 32397,
-          "content": [
-            {
-              "idConf": 32397,
-              "titre": "Dialogue avec Charlotte Garson",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187984,
-              "dateHeure": "2025-04-12T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
         }
       ]
     }
@@ -1856,8 +1859,9 @@
     ],
     "Dialogue": [
       {
+        "titreFilms": "To Be or Not To Be",
         "mention": "avec Charlotte Garson",
-        "dateHeure": "2025-04-12T16:30:00"
+        "dateHeure": "2025-04-12T14:30:00"
       }
     ]
   }

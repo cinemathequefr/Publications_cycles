@@ -408,7 +408,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 32517,
+          "content": [
+            {
+              "idConf": 32517,
+              "titre": "Mike Leigh par Mike Leigh, une leçon de cinéma",
+              "typeConference": "Leçon de cinéma"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188149,
+              "dateHeure": "2025-03-29T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Leçon de cinéma": [
+      {
+        "titre": "Mike Leigh par Mike Leigh, une leçon de cinéma",
+        "dateHeure": "2025-03-29T16:30:00"
+      }
+    ]
+  }
 }
