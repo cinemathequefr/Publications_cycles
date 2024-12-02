@@ -102,7 +102,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (53)
+## Ernst Lubitsch (52)
 
   * Abîme (L')  
   * Ange  
@@ -148,7 +148,6 @@
   * Schuhpalast Pinkus  
   * Sérénade à trois  
   * Shop Around the Corner (The)  
-  * Si j'avais un million  
   * So This Is Paris  
   * Sumurun  
   * To Be or Not To Be  
@@ -187,7 +186,7 @@
   * Terre en transe  
   * Têtes coupées
 
-## Histoire permanente du cinéma (39)
+## Histoire permanente du cinéma (37)
 
   * À cause d'un assassinat  
   * Absence de malice  
@@ -203,18 +202,16 @@
   * Casanova de Fellini (Le)  
   * Conte de la folie ordinaire  
   * De la vie des marionnettes  
-  * Dodes'kaden  
-  * Droit du plus fort (Le)  
   * Easy Rider  
   * Femme flambée (La)  
   * Femmes, femmes  
   * Ferdinand le radical  
+  * Fitzcarraldo  
   * Furyo  
   * Gloria  
   * Homme qui voulut être roi (L')  
   * Incompris (L')  
   * Innocent (L')  
-  * Jardin des Finzi-Contini (Le)  
   * Joueurs d'échecs (Les)  
   * Kagemusha, l'ombre du guerrier (Director's Cut)  
   * Longue marche (La)  
@@ -222,7 +219,7 @@
   * Mado  
   * Maîtresse  
   * Monsieur Klein  
-  * Parfum de femme  
+  * Nuit américaine (La)  
   * Possession  
   * Tout va bien  
   * Travail au noir  
@@ -242,7 +239,7 @@
   * Thunder  
   * Wold Shadow (The)
 
-## Le western, 25 indispensables (24)
+## Le western, 25 indispensables (23)
 
   * 3h10 pour Yuma  
   * Ange des maudits (L')  
@@ -266,8 +263,7 @@
   * Sept mercenaires (Les)  
   * Train sifflera trois fois (Le)  
   * Trésor du pendu (Le)  
-  * Vera Cruz  
-  * Ville abandonnée (La)
+  * Vera Cruz
 
 ## Louis Skorecki (13)
 
@@ -308,8 +304,10 @@
   * Souvenirs de Marnie  
   * Un conte peut en cacher un autre
 
-## Mike Leigh (15)
+## Mike Leigh (19)
 
+  * A Running Jump  
+  * A Sense of History  
   * All or Nothing  
   * Another Year  
   * Be Happy  
@@ -321,8 +319,10 @@
   * Meantime  
   * Mr. Turner  
   * Naked  
+  * Nuts in May  
   * Peterloo  
   * Secrets et mensonges  
+  * Short and Curlies (The)  
   * Topsy-Turvy  
   * Vera Drake
 
