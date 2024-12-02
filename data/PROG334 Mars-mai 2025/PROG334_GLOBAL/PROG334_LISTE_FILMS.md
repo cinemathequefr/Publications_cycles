@@ -78,15 +78,13 @@
   * Homme qui tua Liberty Valance (L')  
   * West Side Story
 
-## Cinéma bis (12)
+## Cinéma bis (10)
 
   * 2019, après la chute de New York  
   * Atomic Cyborg  
   * Fin du monde – Nostradamus an 2000  
-  * Future cop  
   * Gladiateur du futur (Le)  
   * Malevil  
-  * Metalstorm  
   * New York ne répond plus  
   * Planète hurlante  
   * Runaway, l'évadé du futur  
@@ -159,6 +157,21 @@
   * Veuve joyeuse (La)  
   * Wenn vier dasselbe tun  
   * Yeux de la momie (Les)
+
+## Fenêtre sur les collections (12)
+
+  * Croisières sidérales  
+  * Mandrin, épisode 1 : Le Révolté  
+  * Mandrin, épisode 2 : L'Exempt Pistolet  
+  * Mandrin, épisode 3 : L'Étrange escamoteur  
+  * Mandrin, épisode 4 : Les Noces de Mandrin  
+  * Mandrin, épisode 5 : Le Château de M. de Voltaire  
+  * Mandrin, épisode 6 : La Grâce du Roy  
+  * Mandrin, épisode 7 : La Trahison  
+  * Mandrin, épisode 8 : Justice  
+  * Monde tremblera (Le)  
+  * Voyage à travers l'impossible  
+  * Voyage original
 
 ## Glauber Rocha (11)
 
