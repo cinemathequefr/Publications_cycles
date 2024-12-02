@@ -9,6 +9,10 @@
 
   * Art de la Chasteté (L')
 
+## Jacques Bral (1)
+
+  * Polar
+
 ## John McTiernan (4)
 
   * Last Action Hero  
@@ -24,14 +28,16 @@
 
   * Ossos
 
-## Restaurations et incunables (6)
+## Restaurations et incunables (8)
 
   * Faust  
   * Nuit (La)  
   * Prisonnière du désert (La)  
   * Sur mes lèvres  
   * Trois sublimes canailles  
-  * Vent (Le)
+  * Tueurs de flics  
+  * Vent (Le)  
+  * Viol en première page
 
 ## Susan Seidelman (3)
 
