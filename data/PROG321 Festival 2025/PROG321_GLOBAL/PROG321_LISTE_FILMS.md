@@ -9,11 +9,12 @@
   * Henry Fonda for President  
   * Vers sa destinée
 
-## Hommage au KOFA (3)
+## Hommage au KOFA (4)
 
   * Art de la Chasteté (L')  
   * Jour où le cochon est tombé dans le puits (Le)  
-  * Une balle perdue
+  * Une balle perdue  
+  * Une ville natale
 
 ## Jacques Bral (1)
 
@@ -39,7 +40,6 @@
 
 ## Restaurations et incunables (16)
 
-  * Amants du Pont-Neuf (Les)  
   * Chair pour Frankenstein  
   * Chatte à deux têtes (La)  
   * En rade  
@@ -50,6 +50,7 @@
   * Prisonnière du désert (La)  
   * Règlement de comptes  
   * Sur mes lèvres  
+  * Tamango  
   * Trois sublimes canailles  
   * Tueurs de flics  
   * Vent (Le)  
@@ -66,4 +67,14 @@
 ## Une certaine histoire du cinéma flamand (2)
 
   * Malpertuis  
-  * Mouettes meurent au port (Les)  
+  * Mouettes meurent au port (Les)
+
+## Werner Schroeter (7)
+
+  * Carla Salome  
+  * Flocons d'or  
+  * Himmel Hoch  
+  * Ica Vilander  
+  * Magdalena  
+  * Morte d'Isotta (La)  
+  * Paula -« Je reviens »  
