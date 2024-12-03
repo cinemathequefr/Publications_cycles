@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-04-23T20:00:00",
-    "2025-05-04T19:00:00"
+    "2025-05-04T19:15:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -40,11 +40,43 @@
           ]
         },
         {
+          "idFilm": 155097,
+          "content": [
+            {
+              "idFilm": 155097,
+              "ordre": 1,
+              "titre": "Anna May Wong in Australia",
+              "realisateurs": "National Film & Sound Archive of Australia",
+              "pays": "Australie",
+              "annee": 1939,
+              "duree": 1,
+              "version": "",
+              "format": "Numérique",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Bombs Over Burma",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186892,
+              "dateHeure": "2025-05-04T15:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 82319,
           "content": [
             {
               "idFilm": 82319,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Bombs Over Burma",
               "realisateurs": "Joseph H. Lewis",
               "pays": "États-Unis",
@@ -56,6 +88,15 @@
                 "Anna May Wong",
                 "Noel Madison",
                 "Leslie Denison"
+              ],
+              "precedeSuivi": [
+                [
+                  [
+                    "Anna May Wong in Australia",
+                    null
+                  ]
+                ],
+                []
               ]
             }
           ],
@@ -89,7 +130,7 @@
           "seances": [
             {
               "idSeance": 187996,
-              "dateHeure": "2025-05-04T17:15:00",
+              "dateHeure": "2025-05-04T17:30:00",
               "idSalle": "JE"
             }
           ]
@@ -350,7 +391,7 @@
           "seances": [
             {
               "idSeance": 188132,
-              "dateHeure": "2025-05-04T19:00:00",
+              "dateHeure": "2025-05-04T19:15:00",
               "idSalle": "JE"
             }
           ]

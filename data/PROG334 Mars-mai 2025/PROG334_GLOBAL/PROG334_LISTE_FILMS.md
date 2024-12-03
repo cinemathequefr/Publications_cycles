@@ -1,8 +1,9 @@
 # Liste des films par cycle
 
-## Anna May Wong (19)
+## Anna May Wong (20)
 
   * Ange maudit  
+  * Anna May Wong in Australia  
   * Bombs Over Burma  
   * Dame de Tchoung-King (La)  
   * Dangereux à connaître  
@@ -102,7 +103,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (52)
+## Ernst Lubitsch (53)
 
   * Abîme (L')  
   * Ange  
@@ -148,6 +149,7 @@
   * Schuhpalast Pinkus  
   * Sérénade à trois  
   * Shop Around the Corner (The)  
+  * Si j'avais un million  
   * So This Is Paris  
   * Sumurun  
   * To Be or Not To Be  
@@ -172,7 +174,7 @@
   * Voyage à travers l'impossible  
   * Voyage original
 
-## Glauber Rocha (11)
+## Glauber Rocha (12)
 
   * Âge de la terre (L')  
   * Amazonas, Amazonas  
@@ -182,6 +184,7 @@
   * Claro  
   * Dieu noir et le diable blond (Le)  
   * História do Brasil  
+  * Homme aux cheveux bleus (L')  
   * Lion à sept têtes (Le)  
   * Terre en transe  
   * Têtes coupées
@@ -191,7 +194,6 @@
   * À cause d'un assassinat  
   * Absence de malice  
   * Alice dans les villes  
-  * Allemagne, mère blafarde  
   * Apportez-moi la tête d'Alfredo Garcia  
   * Ballade de Narayama (La)  
   * Bête (La)  
@@ -202,6 +204,7 @@
   * Casanova de Fellini (Le)  
   * Conte de la folie ordinaire  
   * De la vie des marionnettes  
+  * Droit du plus fort (Le)  
   * Easy Rider  
   * Femme flambée (La)  
   * Femmes, femmes  
@@ -239,7 +242,7 @@
   * Thunder  
   * Wold Shadow (The)
 
-## Le western, 25 indispensables (23)
+## Le western, 25 indispensables (24)
 
   * 3h10 pour Yuma  
   * Ange des maudits (L')  
@@ -263,7 +266,8 @@
   * Sept mercenaires (Les)  
   * Train sifflera trois fois (Le)  
   * Trésor du pendu (Le)  
-  * Vera Cruz
+  * Vera Cruz  
+  * Ville abandonnée (La)
 
 ## Louis Skorecki (13)
 
@@ -281,7 +285,7 @@
   * Skorecki déménage  
   * Skorecki devient producteur
 
-## Ma petite Cinémathèque (20)
+## Ma petite Cinémathèque (21)
 
   * Azur et Asmar  
   * Cent un dalmatiens (Les)  
@@ -294,6 +298,7 @@
   * Fantastic Mr. Fox  
   * Fievel et le nouveau monde  
   * Grande vadrouille (La)  
+  * Guerre des boutons (La)  
   * James et la pêche géante  
   * Matilda  
   * Mécano de la General (Le)  
@@ -347,7 +352,7 @@
   * Saisons du cœur (Les)  
   * Un homme presque parfait
 
-## Robert Wise (38)
+## Robert Wise (37)
 
   * Audrey Rose  
   * Brève rencontre à Paris  
@@ -375,7 +380,6 @@
   * Mystère au Mexique  
   * Né pour tuer  
   * Nous avons gagné ce soir  
-  * Odyssée du Hindenburg (L')  
   * Odyssée du sous-marin Nerka (L')  
   * Rats du désert (Les)  
   * Rebelles de Fort Thorn (Les)  
