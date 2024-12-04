@@ -6,74 +6,9 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 1,
+      "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
-        {
-          "groupe": [
-            {
-              "idFilm": 103939,
-              "content": [
-                {
-                  "idFilm": 103939,
-                  "ordre": 2,
-                  "titre": "À bord du Darjeeling Limited",
-                  "titreVo": "Darjeeling Limited",
-                  "artVo": "The",
-                  "realisateurs": "Wes Anderson",
-                  "pays": "États-Unis",
-                  "annee": 2007,
-                  "duree": 91,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "generique": [
-                    "Owen Wilson",
-                    "Adrien Brody",
-                    "Jason Schwartzman"
-                  ],
-                  "miniTexte": "Le voyage en train, à travers l'Inde, d'une fratrie en quête de recomposition. Équipés d'une dizaine de valises, d'antidépresseurs et d'une bombe lacrymogène, les voici en route pour résoudre une foule de conflits familiaux, prêts à se délester d'un passé trop lourd et accepter de rentrer dans l'âge adulte.",
-                  "precedeSuivi": [
-                    [
-                      [
-                        "Hotel Chevalier",
-                        null
-                      ]
-                    ],
-                    []
-                  ]
-                }
-              ]
-            },
-            {
-              "idEvenement": 32399,
-              "content": [
-                {
-                  "idConf": 32399,
-                  "ordre": 3,
-                  "titre": "Dialogue avec Nicolas Saada",
-                  "typeConference": "Dialogue",
-                  "miniTexte": "Chaque film de Wes Anderson est toujours une manière de fondre des éléments autobiographiques dans un univers où respire l'amour des films. Mais chez lui, l'amour des films, c'est l'amour des autres et le plaisir de la découverte. Qui n'a pas eu envie de filmer l'Inde après avoir vu un film de Satyajit Ray ? Wes Anderson suit son instinct et part à l'aventure à travers villes et villages, avec sa troupe de comédiens et de techniciens. Il prend à son compte la phrase de Truffaut expliquant qu'un film est un train qui avance dans la nuit. La morale, si on peut l'appeler comme ça, est magnifique : il n'y a pas de dépaysement sans abandon. Seule disposition possible quand on veut explorer aussi bien les chemins du cœur que ceux de l'esprit. — Nicolas Saada"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 187059,
-                  "typeAssoc": 118,
-                  "dateHeure": "2025-05-10T14:30:00",
-                  "idSalle": "HL",
-                  "idSeanceAssoc": 187059,
-                  "mentionAssoc": "Film + dialogue"
-                },
-                {
-                  "idSeance": 187455,
-                  "dateHeure": "2025-05-25T14:30:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film seul"
-                }
-              ]
-            }
-          ]
-        },
         {
           "groupe": [
             {
@@ -300,45 +235,74 @@
           ]
         },
         {
-          "idFilm": 155117,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 155117,
-              "ordre": 1,
-              "titre": "Hotel Chevalier",
-              "realisateurs": "Wes Anderson",
-              "pays": "États-Unis-France",
-              "annee": 2007,
-              "duree": 13,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Natalie Portman",
-                "Jason Schwartzman",
-                "Waris Ahluwalia"
-              ],
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "À bord du Darjeeling Limited",
-                    null
+              "idEvenement": 31961,
+              "content": [
+                {
+                  "idFilm": 155117,
+                  "ordre": 1,
+                  "titre": "Hotel Chevalier",
+                  "realisateurs": "Wes Anderson",
+                  "pays": "États-Unis-France",
+                  "annee": 2007,
+                  "duree": 13,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Natalie Portman",
+                    "Jason Schwartzman",
+                    "Waris Ahluwalia"
                   ]
-                ]
+                },
+                {
+                  "idFilm": 103939,
+                  "ordre": 2,
+                  "titre": "À bord du Darjeeling Limited",
+                  "titreVo": "Darjeeling Limited",
+                  "artVo": "The",
+                  "realisateurs": "Wes Anderson",
+                  "pays": "États-Unis",
+                  "annee": 2007,
+                  "duree": 91,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Owen Wilson",
+                    "Adrien Brody",
+                    "Jason Schwartzman"
+                  ],
+                  "miniTexte": "Le voyage en train, à travers l'Inde, d'une fratrie en quête de recomposition. Équipés d'une dizaine de valises, d'antidépresseurs et d'une bombe lacrymogène, les voici en route pour résoudre une foule de conflits familiaux, prêts à se délester d'un passé trop lourd et accepter de rentrer dans l'âge adulte."
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187059,
-              "typeAssoc": 118,
-              "dateHeure": "2025-05-10T14:30:00",
-              "idSalle": "HL"
             },
             {
-              "idSeance": 187455,
-              "dateHeure": "2025-05-25T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 32399,
+              "content": [
+                {
+                  "idConf": 32399,
+                  "ordre": 3,
+                  "titre": "Dialogue avec Nicolas Saada",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Chaque film de Wes Anderson est toujours une manière de fondre des éléments autobiographiques dans un univers où respire l'amour des films. Mais chez lui, l'amour des films, c'est l'amour des autres et le plaisir de la découverte. Qui n'a pas eu envie de filmer l'Inde après avoir vu un film de Satyajit Ray ? Wes Anderson suit son instinct et part à l'aventure à travers villes et villages, avec sa troupe de comédiens et de techniciens. Il prend à son compte la phrase de Truffaut expliquant qu'un film est un train qui avance dans la nuit. La morale, si on peut l'appeler comme ça, est magnifique : il n'y a pas de dépaysement sans abandon. Seule disposition possible quand on veut explorer aussi bien les chemins du cœur que ceux de l'esprit. — Nicolas Saada"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 187059,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-05-10T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 187059,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 187455,
+                  "dateHeure": "2025-05-25T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
