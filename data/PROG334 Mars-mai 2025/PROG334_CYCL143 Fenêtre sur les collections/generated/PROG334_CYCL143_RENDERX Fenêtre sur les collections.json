@@ -37,7 +37,8 @@
             {
               "idSeance": 188151,
               "dateHeure": "2025-04-04T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Béatrice de Pastre"
             }
           ]
         },
@@ -72,7 +73,8 @@
             {
               "idSeance": 188152,
               "dateHeure": "2025-04-04T21:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Dominique Moustacchi"
             }
           ]
         }
@@ -81,6 +83,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Mandrin",
+      "texteSousCycle": "« _Mandrin_ (...) par son lyrisme généreux, son souffle épique et le dynamisme de ses images, s'affirme comme un véritable western français. » (Francis Lacassin) _Fenêtre sur les collections_ vous propose un défi de taille : visionner _Mandrin_ (Henri Fescourt, 1924), en 2 soirées, 4 séances, 8 épisodes ! _Mandrin_ s'inscrit dans la pure veine des feuilletons qui paraissaient dans les journaux, puis des serials ou films à épisodes, qui aujourd'hui perdurent sous l'appellation de « série ». Bâti autour du contrebandier justicier combattant les cupides fermiers généraux, le scénario d'Arthur Bernède, cofondateur des Cinéromans avec Gaston Leroux et René Navarre, propose au scénario une fresque historique et romanesque rythmée par de nombreux rebondissements, où chaque impasse mène à des issues inattendues. Déjà rompu au serial avec les dix chapitres de _Rouletabille chez les Bohémiens_ sortis en 1922, Henri Fescourt met en scène, en accordant une large place aux décors naturels historiques, à ces grands espaces dont les perspectives font écho à l'air de liberté qui gagnait les esprits. Entrainée par l'élan d'une écriture dédiée à une représentation spectaculaire, l'évocation de Mandrin s'autorise des écarts donnant libre cours à un imaginaire : une rencontre avec Voltaire, des amours avec une cousine de la marquise de Pompadour... Même s'il s'agit toujours de faire revenir le public la semaine suivante, la licence poétique est aussi une liberté à préserver.",
       "items": [
         {
           "idEvenement": 32278,
@@ -112,7 +115,8 @@
             {
               "idSeance": 188228,
               "dateHeure": "2025-04-25T18:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Hervé Pichard"
             }
           ]
         },
@@ -146,7 +150,8 @@
             {
               "idSeance": 188229,
               "dateHeure": "2025-04-25T20:45:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Hervé Pichard"
             }
           ]
         },
@@ -180,7 +185,8 @@
             {
               "idSeance": 188230,
               "dateHeure": "2025-05-02T18:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Emmanuelle Berthault"
             }
           ]
         },
@@ -214,12 +220,46 @@
             {
               "idSeance": 188231,
               "dateHeure": "2025-05-02T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Emmanuelle Berthault"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Voyage original / Le Monde tremblera",
+        "mention": "par Béatrice de Pastre",
+        "dateHeure": "2025-04-04T18:30:00"
+      },
+      {
+        "titreFilms": "Voyage à travers l'impossible / Croisières sidérales",
+        "mention": "par Dominique Moustacchi",
+        "dateHeure": "2025-04-04T21:00:00"
+      },
+      {
+        "titreFilms": "Mandrin, épisode 1 : Le Révolté / Mandrin, épisode 2 : L'Exempt Pistolet",
+        "mention": "par Hervé Pichard",
+        "dateHeure": "2025-04-25T18:00:00"
+      },
+      {
+        "titreFilms": "Mandrin, épisode 3 : L'Étrange escamoteur / Mandrin, épisode 4 : Les Noces de Mandrin",
+        "mention": "par Hervé Pichard",
+        "dateHeure": "2025-04-25T20:45:00"
+      },
+      {
+        "titreFilms": "Mandrin, épisode 5 : Le Château de M. de Voltaire / Mandrin, épisode 6 : La Grâce du Roy",
+        "mention": "par Emmanuelle Berthault",
+        "dateHeure": "2025-05-02T18:00:00"
+      },
+      {
+        "titreFilms": "Mandrin, épisode 7 : La Trahison / Mandrin, épisode 8 : Justice",
+        "mention": "par Emmanuelle Berthault",
+        "dateHeure": "2025-05-02T20:30:00"
+      }
+    ]
+  }
 }

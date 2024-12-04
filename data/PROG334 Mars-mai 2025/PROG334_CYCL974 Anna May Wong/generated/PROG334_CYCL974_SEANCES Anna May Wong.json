@@ -27,25 +27,26 @@
   {
     "idCategorie": 3673,
     "typeEvenement": 13,
-    "idEvenement": 32027,
-    "idSeance": 188133,
+    "idEvenement": 32126,
+    "idSeance": 186705,
     "dateHeure": "2025-04-25T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 104030,
+        "idFilm": 95256,
         "ordre": 1,
-        "idSeance": 188133,
-        "idCopie": 28995,
-        "duree": 97,
-        "version": "VO",
+        "idSeance": 186705,
+        "idCopie": 13191,
+        "duree": 70,
+        "version": "INT. ANG.",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
   },
   {
     "idCategorie": 3673,
@@ -140,33 +141,32 @@
   {
     "idCategorie": 3673,
     "typeEvenement": 13,
-    "idEvenement": 32126,
-    "idSeance": 186705,
+    "idEvenement": 32027,
+    "idSeance": 188133,
     "dateHeure": "2025-04-27T17:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 105,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 95256,
+        "idFilm": 104030,
         "ordre": 1,
-        "idSeance": 186705,
-        "idCopie": 13191,
-        "duree": 70,
-        "version": "INT. ANG.",
+        "idSeance": 188133,
+        "idCopie": 28995,
+        "duree": 97,
+        "version": "VO",
         "format": "DCP"
       }
-    ],
-    "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
+    ]
   },
   {
     "idCategorie": 3673,
     "typeEvenement": 13,
     "idEvenement": 32025,
     "idSeance": 186706,
-    "dateHeure": "2025-04-27T19:30:00",
+    "dateHeure": "2025-04-27T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -439,6 +439,47 @@
       {
         "idFilm": 33085,
         "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3722,
+    "typeEvenement": 13,
+    "idEvenement": 32444,
+    "idSeance": 186944,
+    "dateHeure": "2025-05-07T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 155099,
+        "ordre": 1,
+        "idSeance": 186944,
+        "idCopie": 29239,
+        "duree": 49,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 155105,
+        "ordre": 2,
+        "idSeance": 186944,
+        "idCopie": 29240,
+        "duree": 30,
+        "version": "VO",
+        "format": "16 mm"
+      },
+      {
+        "idFilm": 155100,
+        "ordre": 3,
+        "idSeance": 186944,
+        "idCopie": 29241,
+        "duree": 51,
+        "version": "VO",
+        "format": "DCP"
       }
     ]
   }

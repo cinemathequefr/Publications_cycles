@@ -1,16 +1,19 @@
 # Liste des films par cycle
 
-## Anna May Wong (20)
+## Anna May Wong (23)
 
   * Ange maudit  
+  * Anna May Wong, Frosted Yellow Willows: Her Life, Times and Legend  
   * Anna May Wong in Australia  
+  * Bold Journey: Native Land  
   * Bombs Over Burma  
   * Dame de Tchoung-King (La)  
   * Dangereux à connaître  
   * Driven from Home  
   * Fille de Shanghai (La)  
-  * Fleur de Lotus  
+  * Fleur de lotus  
   * Grain de son  
+  * Hollywood – Episode 7: A Hollywood ending  
   * Île des hommes perdus (L')  
   * Marchande de rêves (La)  
   * Monsieur Wu  
@@ -65,11 +68,11 @@
   * Mamma Ebe  
   * Procès de Vérone (Le)  
   * Remake, Rome ville ouverte  
+  * San Babila : Un crime inutile  
   * Scandale à Rome  
   * Storie di vita e malavita  
   * Traqués par la Gestapo  
   * Tue et fais ta prière  
-  * Tuer pour tuer  
   * Vengeance du Sicilien (La)  
   * Vie aigre (La)
 
@@ -224,10 +227,10 @@
   * Monsieur Klein  
   * Nuit américaine (La)  
   * Possession  
+  * Ragtime  
   * Tout va bien  
   * Travail au noir  
-  * Une femme douce  
-  * Vol au-dessus d'un nid de coucou
+  * Une femme douce
 
 ## Le flou au cinéma (10)
 
@@ -352,7 +355,7 @@
   * Saisons du cœur (Les)  
   * Un homme presque parfait
 
-## Robert Wise (37)
+## Robert Wise (38)
 
   * Audrey Rose  
   * Brève rencontre à Paris  
@@ -380,6 +383,7 @@
   * Mystère au Mexique  
   * Né pour tuer  
   * Nous avons gagné ce soir  
+  * Odyssée du Hindenburg (L')  
   * Odyssée du sous-marin Nerka (L')  
   * Rats du désert (Les)  
   * Rebelles de Fort Thorn (Les)  
