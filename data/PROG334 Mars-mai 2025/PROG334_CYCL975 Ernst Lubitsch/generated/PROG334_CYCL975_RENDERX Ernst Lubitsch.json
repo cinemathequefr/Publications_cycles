@@ -47,39 +47,67 @@
           ]
         },
         {
-          "idFilm": 33887,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 33887,
-              "ordre": 1,
-              "titre": "Ange",
-              "titreVo": "Angel",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "États-Unis",
-              "annee": 1937,
-              "duree": 98,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après la pièce _Angyal_ de Melchior Lengyel.",
-              "generique": [
-                "Marlene Dietrich",
-                "Herbert Marshall",
-                "Melvyn Douglas",
-                "Edward Everett Horton"
+              "idEvenement": 32381,
+              "content": [
+                {
+                  "idConf": 32381,
+                  "titre": "Lubitsch au travail (à Hollywood)",
+                  "sousTitre": "Conférence de Katalin Pór",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Lorsqu'il arrive à Hollywood au début des années 20, Ernst Lubitsch est déjà paré d'une aura de réalisateur de prestige. Après des débuts tumultueux chez Warner, son parcours hollywoodien s'impose comme une incontestable réussite. Loin de se faire contre les studios, des films comme _Le Lieutenant souriant_, _Ange_, _Haute Pègre_ ou _To Be Or Not To Be_ sont le produit de sa compréhension fine du fonctionnement du système, de sa capacité à s'entourer de collaborateurs et collaboratrices avec qui il entretient des connivences aussi bien personnelles qu'artistiques, ou encore de son aptitude à construire des rapports de force. — Katalin Pór"
+                }
               ],
-              "miniTexte": "La classe de Marlène Dietrich au centre d'un triangle amoureux, suave et sournois. À grand renfort d'ellipses et de subtils hors-champs, les passions s'affrontent dans le charme feutré des salons parisiens, où les domestiques évaluent la vie sexuelle de leurs maîtres en fonction des restes du dîner."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188191,
-              "dateHeure": "2025-03-14T21:00:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 187966,
+                  "idSeanceAssoc": 188191,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-03-14T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             },
             {
-              "idSeance": 187935,
-              "dateHeure": "2025-04-09T16:00:00",
-              "idSalle": "HL"
+              "idFilm": 33887,
+              "content": [
+                {
+                  "idFilm": 33887,
+                  "ordre": 1,
+                  "titre": "Ange",
+                  "titreVo": "Angel",
+                  "realisateurs": "Ernst Lubitsch",
+                  "pays": "États-Unis",
+                  "annee": 1937,
+                  "duree": 98,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après la pièce _Angyal_ de Melchior Lengyel.",
+                  "generique": [
+                    "Marlene Dietrich",
+                    "Herbert Marshall",
+                    "Melvyn Douglas",
+                    "Edward Everett Horton"
+                  ],
+                  "miniTexte": "La classe de Marlène Dietrich au centre d'un triangle amoureux, suave et sournois. À grand renfort d'ellipses et de subtils hors-champs, les passions s'affrontent dans le charme feutré des salons parisiens, où les domestiques évaluent la vie sexuelle de leurs maîtres en fonction des restes du dîner."
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 188191,
+                  "idSeanceAssoc": 188191,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-03-14T21:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                },
+                {
+                  "idSeance": 187935,
+                  "dateHeure": "2025-04-09T16:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -1812,31 +1840,6 @@
               "idSeance": 185743,
               "dateHeure": "2025-03-22T15:00:00",
               "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32381,
-          "content": [
-            {
-              "idConf": 32381,
-              "titre": "Lubitsch au travail (à Hollywood)",
-              "sousTitre": "Conférence de Katalin Pór",
-              "typeConference": "Conférence",
-              "miniTexte": "Lorsqu'il arrive à Hollywood au début des années 20, Ernst Lubitsch est déjà paré d'une aura de réalisateur de prestige. Après des débuts tumultueux chez Warner, son parcours hollywoodien s'impose comme une incontestable réussite. Loin de se faire contre les studios, des films comme _Le Lieutenant souriant_, _Ange_, _Haute Pègre_ ou _To Be Or Not To Be_ sont le produit de sa compréhension fine du fonctionnement du système, de sa capacité à s'entourer de collaborateurs et collaboratrices avec qui il entretient des connivences aussi bien personnelles qu'artistiques, ou encore de son aptitude à construire des rapports de force. — Katalin Pór"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187966,
-              "dateHeure": "2025-03-14T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }

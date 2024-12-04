@@ -38,15 +38,17 @@
   * Ossos  
   * Sang (Le)
 
-## Restaurations et incunables (16)
+## Restaurations et incunables (18)
 
   * Chair pour Frankenstein  
   * Chatte à deux têtes (La)  
+  * Cousin, cousine  
   * En rade  
   * Faust  
   * Happy Day  
   * Natsu no niwa  
   * Nuit (La)  
+  * Pékin central  
   * Prisonnière du désert (La)  
   * Règlement de comptes  
   * Sur mes lèvres  

@@ -1,5 +1,28 @@
 [
   {
+    "idSeance": 188233,
+    "idEvenement": 32433,
+    "dateHeure": "2025-03-05T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51356,
+        "titre": "Cousin, cousine",
+        "realisateurs": "Jean-Charles Tacchella",
+        "annee": 1975,
+        "duree": 95,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f51356"
+  },
+  {
     "idSeance": 188147,
     "idEvenement": 32384,
     "dateHeure": "2025-03-05T15:00:00",
@@ -48,7 +71,7 @@
   {
     "idSeance": 185188,
     "idEvenement": 32321,
-    "dateHeure": "2025-03-05T19:00:00",
+    "dateHeure": "2025-03-05T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -382,6 +405,29 @@
     "hashEvenement": "f33665"
   },
   {
+    "idSeance": 188234,
+    "idEvenement": 32308,
+    "dateHeure": "2025-03-07T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47353,
+        "titre": "Pékin central",
+        "realisateurs": "Camille de Casabianca",
+        "annee": 1986,
+        "duree": 95,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f47353"
+  },
+  {
     "idSeance": 188138,
     "idEvenement": 32232,
     "dateHeure": "2025-03-07T18:00:00",
@@ -666,7 +712,6 @@
         "realisateurs": "Werner Schroeter",
         "annee": 1968,
         "duree": 5,
-        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -684,7 +729,6 @@
         "realisateurs": "Werner Schroeter",
         "annee": 1968,
         "duree": 2,
-        "version": "VOSTF",
         "format": "DCP"
       },
       {
@@ -703,7 +747,7 @@
         "realisateurs": "Werner Schroeter",
         "annee": 1968,
         "duree": 10,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "DCP"
       },
       {
@@ -711,7 +755,7 @@
         "titre": "Paula -« Je reviens »",
         "realisateurs": "Werner Schroeter",
         "annee": 1968,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "DCP"
       }
     ],
@@ -864,31 +908,6 @@
     "hashEvenement": "f66165"
   },
   {
-    "idSeance": 185157,
-    "idEvenement": 32387,
-    "dateHeure": "2025-03-09T15:00:00",
-    "salle": "LE",
-    "cycle": [
-      [
-        "Susan Seidelman",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36706,
-        "titre": "Diable",
-        "art": "La",
-        "realisateurs": "Susan Seidelman",
-        "annee": 1989,
-        "duree": 104,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f36706"
-  },
-  {
     "idSeance": 188217,
     "idEvenement": 31890,
     "dateHeure": "2025-03-09T16:30:00",
@@ -911,6 +930,31 @@
       }
     ],
     "hashEvenement": "f59370"
+  },
+  {
+    "idSeance": 185157,
+    "idEvenement": 32387,
+    "dateHeure": "2025-03-09T16:30:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "Susan Seidelman",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36706,
+        "titre": "Diable",
+        "art": "La",
+        "realisateurs": "Susan Seidelman",
+        "annee": 1989,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f36706"
   },
   {
     "idSeance": 185298,
