@@ -83,7 +83,7 @@
 
   * 2019, après la chute de New York  
   * Atomic Cyborg  
-  * Fin du monde – Nostradamus an 2000  
+  * Fin du monde, Nostradamus an 2000  
   * Gladiateur du futur (Le)  
   * Malevil  
   * New York ne répond plus  
@@ -119,7 +119,7 @@
   * Éventail de Lady Windermere (L')  
   * Femme du pharaon (La)  
   * Filles de Kohlhiesel (Les)  
-  * Folle ingénue (La)  
+  * Folle Ingénue (La)  
   * Haute Pègre  
   * Homme que j'ai tué (L')  
   * Huitième Femme de Barbe-Bleue (La)  
