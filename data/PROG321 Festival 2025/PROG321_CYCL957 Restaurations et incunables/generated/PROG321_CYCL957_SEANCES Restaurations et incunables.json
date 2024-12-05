@@ -96,7 +96,7 @@
     "typeEvenement": 13,
     "idEvenement": 32315,
     "idSeance": 185191,
-    "dateHeure": "2025-03-06T20:15:00",
+    "dateHeure": "2025-03-06T19:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -301,22 +301,45 @@
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
-    "idEvenement": 31800,
-    "idSeance": 188213,
+    "idEvenement": 32432,
+    "idSeance": 188245,
     "dateHeure": "2025-03-09T14:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 42451,
+        "idFilm": 44903,
         "ordre": 1,
-        "idSeance": 188213,
-        "idCopie": 28878,
-        "duree": 122,
-        "version": "VO",
+        "idSeance": 188245,
+        "idCopie": 29222,
+        "duree": 107,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3654,
+    "typeEvenement": 13,
+    "idEvenement": 32520,
+    "idSeance": 185192,
+    "dateHeure": "2025-03-09T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 58692,
+        "ordre": 1,
+        "idSeance": 185192,
+        "idCopie": 29348,
+        "duree": 95,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ]
@@ -339,29 +362,6 @@
         "idSeance": 188217,
         "idCopie": 28929,
         "duree": 88,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3654,
-    "typeEvenement": 13,
-    "idEvenement": 32520,
-    "idSeance": 185192,
-    "dateHeure": "2025-03-09T17:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 58692,
-        "ordre": 1,
-        "idSeance": 185192,
-        "idCopie": 29348,
-        "duree": 95,
         "version": "VOSTF",
         "format": "DCP"
       }

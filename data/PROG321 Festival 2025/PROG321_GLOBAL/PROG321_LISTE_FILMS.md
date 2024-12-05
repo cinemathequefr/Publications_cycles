@@ -38,7 +38,13 @@
   * Ossos  
   * Sang (Le)
 
-## Restaurations et incunables (18)
+## Raretés des collections (3)
+
+  * Notre-Dame, cathédrale de Paris  
+  * Paris la belle  
+  * Paris la nuit
+
+## Restaurations et incunables (17)
 
   * Chair pour Frankenstein  
   * Chatte à deux têtes (La)  
@@ -47,7 +53,6 @@
   * Faust  
   * Happy Day  
   * Natsu no niwa  
-  * Nuit (La)  
   * Pékin central  
   * Prisonnière du désert (La)  
   * Règlement de comptes  

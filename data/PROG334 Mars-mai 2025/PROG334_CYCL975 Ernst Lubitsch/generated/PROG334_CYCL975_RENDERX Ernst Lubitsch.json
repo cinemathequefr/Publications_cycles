@@ -6,7 +6,7 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 1,
+      "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
         {
@@ -22,7 +22,7 @@
               "pays": "États-Unis",
               "annee": 1929,
               "duree": 73,
-              "version": "STF",
+              "version": "INT. FR.",
               "format": "35 mm",
               "generique": [
                 "John Barrymore",
@@ -341,49 +341,6 @@
           ]
         },
         {
-          "idFilm": 70811,
-          "content": [
-            {
-              "idFilm": 70811,
-              "ordre": 2,
-              "titre": "Ein fideles Gefängnis",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "Allemagne",
-              "annee": 1917,
-              "duree": 54,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "generique": [
-                "Emil Jannings",
-                "Hanns Kräly"
-              ],
-              "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Je ne voudrais pas être un homme",
-                    null
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185758,
-              "dateHeure": "2025-03-23T14:30:00",
-              "idSalle": "JE"
-            },
-            {
-              "idSeance": 187839,
-              "dateHeure": "2025-03-28T17:30:00",
-              "idSalle": "GF",
-              "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
-            }
-          ]
-        },
-        {
           "idFilm": 33905,
           "content": [
             {
@@ -413,6 +370,49 @@
               "idSeance": 187828,
               "dateHeure": "2025-03-15T14:30:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idEvenement": 32562,
+          "content": [
+            {
+              "idFilm": 40776,
+              "ordre": 1,
+              "titre": "Fall Rosentopf",
+              "art": "Der",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "Allemagne",
+              "annee": 1918,
+              "duree": 20,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "generique": [
+                "Ernst Lubitsch"
+              ]
+            },
+            {
+              "idFilm": 40718,
+              "ordre": 2,
+              "titre": "Yeux de la momie",
+              "art": "Les",
+              "titreVo": "Augen der Mumie Ma",
+              "artVo": "Die",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "Allemagne",
+              "annee": 1918,
+              "duree": 58,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "miniTexte": "Les péripéties exotiques d'une jeune danseuse retenue prisonnière dans un tombeau égyptien. Le premier long métrage réalisé par Lubitsch révèle son sens du récit dramatique, tandis que Pola Negri et Emil Jannings accèdent à la célébrité."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186186,
+              "dateHeure": "2025-04-09T18:30:00",
+              "idSalle": "GF",
+              "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
             }
           ]
         },
@@ -652,7 +652,7 @@
           ]
         },
         {
-          "idFilm": 92582,
+          "idEvenement": 32480,
           "content": [
             {
               "idFilm": 92582,
@@ -665,16 +665,23 @@
               "duree": 44,
               "version": "",
               "format": "DCP",
-              "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-gardiste et subversif qui explore les normes de genres avec malice.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Ein fideles Gefängnis",
-                    null
-                  ]
-                ]
-              ]
+              "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-gardiste et subversif qui explore les normes de genres avec malice."
+            },
+            {
+              "idFilm": 70811,
+              "ordre": 2,
+              "titre": "Ein fideles Gefängnis",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "Allemagne",
+              "annee": 1917,
+              "duree": 54,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "generique": [
+                "Emil Jannings",
+                "Hanns Kräly"
+              ],
+              "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître."
             }
           ],
           "seances": [
@@ -719,7 +726,7 @@
           ]
         },
         {
-          "idFilm": 40800,
+          "idEvenement": 32085,
           "content": [
             {
               "idFilm": 40800,
@@ -731,20 +738,40 @@
               "duree": 51,
               "version": "INT. FR.",
               "format": "35 mm",
-              "miniTexte": "Les facéties d'un citadin berlinois qui part prendre l'air à la montagne. Avec le personnage de Meyer, archétype du comique juif allemand qu'il interprète lui-même, Lubitsch devient une figure très populaire du cinéma germanique.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Poupée",
-                    "La"
-                  ],
-                  [
-                    "Patriot",
-                    "The"
-                  ]
-                ]
-              ]
+              "miniTexte": "Les facéties d'un citadin berlinois qui part prendre l'air à la montagne. Avec le personnage de Meyer, archétype du comique juif allemand qu'il interprète lui-même, Lubitsch devient une figure très populaire du cinéma germanique."
+            },
+            {
+              "idFilm": 40802,
+              "ordre": 2,
+              "titre": "Poupée",
+              "art": "La",
+              "titreVo": "Puppe",
+              "artVo": "Die",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "Allemagne",
+              "annee": 1919,
+              "duree": 51,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "generique": [
+                "Ernst Lubitsch",
+                "Ossi Oswalda"
+              ],
+              "isFocus": true,
+              "miniTexte": "Dans un décor de papier installé par ses soins, Lubitsch lance lui-même le film : pour échapper au mariage, un jeune héritier se cache dans un monastère, où des moines paillards le poussent à épouser une poupée mécanique. Sur un motif cher au cinéaste – une femme éveille le désir d'un homme qu'elle détourne de son chemin –, _La Poupée_ exploite brillamment les effets visuels comiques, dans un monde féerique aux accents expressionnistes. Ici, les pantins dansent et deviennent des sosies de chair, capables de faire fondre le cœur des plus misogynes."
+            },
+            {
+              "idFilm": 34540,
+              "ordre": 3,
+              "titre": "Patriot",
+              "art": "The",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "États-Unis",
+              "annee": 1928,
+              "duree": 8,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "miniTexte": "Les derniers jours du tsar Paul (Emil Jannings), tyran dégénéré et à moitié fou. Fragments d'un film perdu, qui reçut le premier Oscar du meilleur scénario adapté, en 1929."
             }
           ],
           "seances": [
@@ -776,42 +803,6 @@
               "idSeance": 185769,
               "dateHeure": "2025-03-24T16:00:00",
               "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 44984,
-          "content": [
-            {
-              "idFilm": 44984,
-              "ordre": 2,
-              "titre": "Montmartre",
-              "titreVo": "Flamme",
-              "artVo": "Die",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "Allemagne",
-              "annee": 1922,
-              "duree": 41,
-              "version": "INT. FR.",
-              "format": "Numérique",
-              "miniTexte": "Une modiste parisienne se perd dans une vie dissolue, au grand dam de son cousin. Illuminés par le jeu subtil de Pola Negri, les fragments qui subsistent de ce drame naturaliste offrent un aperçu fascinant du dernier film allemand de Lubitsch.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Roméo et Juliette dans la neige",
-                    null
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188188,
-              "dateHeure": "2025-04-14T18:30:00",
-              "idSalle": "GF",
-              "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
             }
           ]
         },
@@ -938,90 +929,6 @@
           ]
         },
         {
-          "idFilm": 34540,
-          "content": [
-            {
-              "idFilm": 34540,
-              "ordre": 3,
-              "titre": "Patriot",
-              "art": "The",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "États-Unis",
-              "annee": 1928,
-              "duree": 8,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "miniTexte": "Les derniers jours du tsar Paul (Emil Jannings), tyran dégénéré et à moitié fou. Fragments d'un film perdu, qui reçut le premier Oscar du meilleur scénario adapté, en 1929.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Meyer aus Berlin",
-                    null
-                  ],
-                  [
-                    "Poupée",
-                    "La"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188085,
-              "dateHeure": "2025-03-19T20:15:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 40802,
-          "content": [
-            {
-              "idFilm": 40802,
-              "ordre": 2,
-              "titre": "Poupée",
-              "art": "La",
-              "titreVo": "Puppe",
-              "artVo": "Die",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "Allemagne",
-              "annee": 1919,
-              "duree": 51,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "generique": [
-                "Ernst Lubitsch",
-                "Ossi Oswalda"
-              ],
-              "isFocus": true,
-              "miniTexte": "Dans un décor de papier installé par ses soins, Lubitsch lance lui-même le film : pour échapper au mariage, un jeune héritier se cache dans un monastère, où des moines paillards le poussent à épouser une poupée mécanique. Sur un motif cher au cinéaste – une femme éveille le désir d'un homme qu'elle détourne de son chemin –, _La Poupée_ exploite brillamment les effets visuels comiques, dans un monde féerique aux accents expressionnistes. Ici, les pantins dansent et deviennent des sosies de chair, capables de faire fondre le cœur des plus misogynes.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Meyer aus Berlin",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Patriot",
-                    "The"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188085,
-              "dateHeure": "2025-03-19T20:15:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 34622,
           "content": [
             {
@@ -1078,7 +985,7 @@
           ]
         },
         {
-          "idFilm": 128868,
+          "idEvenement": 32100,
           "content": [
             {
               "idFilm": 128868,
@@ -1094,34 +1001,20 @@
               "generique": [
                 "Ernst Lubitsch"
               ],
-              "miniTexte": "Un dandy se fait passer pour mort et revient chez lui déguisé en domestique. Les débuts de Lubitsch et la plus ancienne de ses réalisations encore visibles, une comédie conjugale mordante, qui révèle tout son génie burlesque.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Wenn vier dasselbe tun",
-                    null
-                  ],
-                  [
-                    "Roi du corsage",
-                    "Le"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
+              "miniTexte": "Un dandy se fait passer pour mort et revient chez lui déguisé en domestique. Les débuts de Lubitsch et la plus ancienne de ses réalisations encore visibles, une comédie conjugale mordante, qui révèle tout son génie burlesque."
+            },
             {
-              "idSeance": 188189,
-              "dateHeure": "2025-04-14T20:30:00",
-              "idSalle": "GF",
-              "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
-            }
-          ]
-        },
-        {
-          "idFilm": 40754,
-          "content": [
+              "idFilm": 40745,
+              "ordre": 2,
+              "titre": "Wenn vier dasselbe tun",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "Allemagne",
+              "annee": 1917,
+              "duree": 42,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "miniTexte": "Sur le thème du sentiment amoureux, Lubitsch réalise et interprète un ballet pour quatre personnages, dont la cadence annonce ses futurs _musicals_."
+            },
             {
               "idFilm": 40754,
               "ordre": 3,
@@ -1140,20 +1033,7 @@
                 "Käthe Dorsch",
                 "Guido Herzfeld"
               ],
-              "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Quand j'étais mort",
-                    null
-                  ],
-                  [
-                    "Wenn vier dasselbe tun",
-                    null
-                  ]
-                ],
-                []
-              ]
+              "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement."
             }
           ],
           "seances": [
@@ -1166,7 +1046,7 @@
           ]
         },
         {
-          "idFilm": 73877,
+          "idEvenement": 32105,
           "content": [
             {
               "idFilm": 73877,
@@ -1179,16 +1059,21 @@
               "duree": 48,
               "version": "INT. FR.",
               "format": "35 mm",
-              "miniTexte": "Pastiche de la pièce de Shakespeare, _Roméo et Juliette dans la neige_ fait partie de la série « montagnarde » de Lubitsch. Transformés en rustres bavarois, les Capulethofer et les Montekugerl s'affrontent à coup de batailles de boules de neige et de procès farfelus.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Montmartre",
-                    null
-                  ]
-                ]
-              ]
+              "miniTexte": "Pastiche de la pièce de Shakespeare, _Roméo et Juliette dans la neige_ fait partie de la série « montagnarde » de Lubitsch. Transformés en rustres bavarois, les Capulethofer et les Montekugerl s'affrontent à coup de batailles de boules de neige et de procès farfelus."
+            },
+            {
+              "idFilm": 44984,
+              "ordre": 2,
+              "titre": "Montmartre",
+              "titreVo": "Flamme",
+              "artVo": "Die",
+              "realisateurs": "Ernst Lubitsch",
+              "pays": "Allemagne",
+              "annee": 1922,
+              "duree": 41,
+              "version": "INT. FR.",
+              "format": "Numérique",
+              "miniTexte": "Une modiste parisienne se perd dans une vie dissolue, au grand dam de son cousin. Illuminés par le jeu subtil de Pola Negri, les fragments qui subsistent de ce drame naturaliste offrent un aperçu fascinant du dernier film allemand de Lubitsch."
             }
           ],
           "seances": [
@@ -1591,163 +1476,35 @@
               "idSalle": "GF"
             }
           ]
-        },
-        {
-          "idFilm": 40745,
-          "content": [
-            {
-              "idFilm": 40745,
-              "ordre": 2,
-              "titre": "Wenn vier dasselbe tun",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "Allemagne",
-              "annee": 1917,
-              "duree": 42,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "miniTexte": "Sur le thème du sentiment amoureux, Lubitsch réalise et interprète un ballet pour quatre personnages, dont la cadence annonce ses futurs _musicals_.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Quand j'étais mort",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Roi du corsage",
-                    "Le"
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188189,
-              "dateHeure": "2025-04-14T20:30:00",
-              "idSalle": "GF",
-              "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
-            }
-          ]
-        },
-        {
-          "idFilm": 40718,
-          "content": [
-            {
-              "idFilm": 40718,
-              "ordre": 1,
-              "titre": "Yeux de la momie",
-              "art": "Les",
-              "titreVo": "Augen der Mumie Ma",
-              "artVo": "Die",
-              "realisateurs": "Ernst Lubitsch",
-              "pays": "Allemagne",
-              "annee": 1918,
-              "duree": 58,
-              "version": "INT. FR.",
-              "format": "35 mm",
-              "miniTexte": "Les péripéties exotiques d'une jeune danseuse retenue prisonnière dans un tombeau égyptien. Le premier long métrage réalisé par Lubitsch révèle son sens du récit dramatique, tandis que Pola Negri et Emil Jannings accèdent à la célébrité."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 186186,
-              "dateHeure": "2025-04-09T18:30:00",
-              "idSalle": "GF",
-              "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
-            }
-          ]
         }
       ]
     },
     {
-      "tri": 1,
+      "tri": 2,
       "titreSousCycle": "Lubitsch acteur",
       "items": [
         {
-          "idFilm": 155052,
+          "idEvenement": 32265,
           "content": [
             {
-              "idFilm": 155052,
-              "ordre": 2,
-              "titre": "Doktor Satansohn",
-              "realisateurs": "Edmund Edel",
+              "idFilm": 92576,
+              "ordre": 1,
+              "titre": "Hans Trutz au pays de Cocagne",
+              "titreVo": "Hans Trutz im Schlaraffenland",
+              "realisateurs": "Paul Wegener",
               "pays": "Allemagne",
-              "annee": 1916,
-              "duree": 44,
+              "annee": 1917,
+              "duree": 20,
               "version": "INT. FR.",
-              "format": "Numérique",
+              "format": "35 mm",
               "generique": [
-                "Hans Felix",
-                "Yo Larte",
-                "Marga Köhler"
-              ],
-              "miniTexte": "Fantasmagorie aux accents faustiens, qui voit le propriétaire d'un institut de beauté, un certain Dr. Satansohn, réaliser le rêve d'une femme qui aspire à la jeunesse éternelle. Sous condition qu'elle n'embrasse plus aucun homme.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Robert et Bertram ou les joyeux vagabonds",
-                    null
-                  ]
-                ],
-                []
+                "Paul Wegener",
+                "Ernst Lubitsch"
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185743,
-              "dateHeure": "2025-03-22T15:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 92562,
-          "content": [
-            {
-              "idFilm": 92562,
-              "ordre": 2,
-              "titre": "Mademoiselle Piccolo",
-              "titreVo": "Fraülein Piccolo",
-              "realisateurs": "Franz Hofer",
-              "pays": "Allemagne",
-              "annee": 1914,
-              "duree": 36,
-              "version": "INT. FR.",
-              "format": "16 mm",
-              "generique": [
-                "Ernst Lubitsch",
-                "Dorrit Weixler"
-              ],
-              "miniTexte": "Lubitsch tient le rôle d'un commis voyageur dans cette pétillante comédie de travestissement, où une jeune fille se retrouve à travailler comme femme de chambre en même temps que groom dans l'hôtel de ses parents.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Orgueil de la firme",
-                    "L'"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 187810,
-              "dateHeure": "2025-04-05T19:30:00",
-              "idSalle": "GF",
-              "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
-            }
-          ]
-        },
-        {
-          "idFilm": 128863,
-          "content": [
+            },
             {
               "idFilm": 128863,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Mirakel",
               "art": "Das",
               "realisateurs": "Max Reinhardt",
@@ -1772,7 +1529,7 @@
           ]
         },
         {
-          "idFilm": 92550,
+          "idEvenement": 32263,
           "content": [
             {
               "idFilm": 92550,
@@ -1792,16 +1549,24 @@
                 "Martha Kriwitz",
                 "Victor Arnold"
               ],
-              "miniTexte": "Licencié d'un grand magasin de province, Siegmund Lachmann tente sa chance à Berlin après un suicide raté. Une des nombreuses farces des années 1910, qui font de Lubitsch un grand acteur populaire.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Mademoiselle Piccolo",
-                    null
-                  ]
-                ]
-              ]
+              "miniTexte": "Licencié d'un grand magasin de province, Siegmund Lachmann tente sa chance à Berlin après un suicide raté. Une des nombreuses farces des années 1910, qui font de Lubitsch un grand acteur populaire."
+            },
+            {
+              "idFilm": 92562,
+              "ordre": 2,
+              "titre": "Mademoiselle Piccolo",
+              "titreVo": "Fraülein Piccolo",
+              "realisateurs": "Franz Hofer",
+              "pays": "Allemagne",
+              "annee": 1914,
+              "duree": 36,
+              "version": "INT. FR.",
+              "format": "16 mm",
+              "generique": [
+                "Ernst Lubitsch",
+                "Dorrit Weixler"
+              ],
+              "miniTexte": "Lubitsch tient le rôle d'un commis voyageur dans cette pétillante comédie de travestissement, où une jeune fille se retrouve à travailler comme femme de chambre en même temps que groom dans l'hôtel de ses parents."
             }
           ],
           "seances": [
@@ -1814,7 +1579,7 @@
           ]
         },
         {
-          "idFilm": 155054,
+          "idEvenement": 32266,
           "content": [
             {
               "idFilm": 155054,
@@ -1830,16 +1595,24 @@
               "generique": [
                 "Ferdinand Bonn"
               ],
-              "miniTexte": "Les débuts de l'acteur Lubitsch dans une joyeuse farce provinciale.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Doktor Satansohn",
-                    null
-                  ]
-                ]
-              ]
+              "miniTexte": "Les débuts de l'acteur Lubitsch dans une joyeuse farce provinciale."
+            },
+            {
+              "idFilm": 155052,
+              "ordre": 2,
+              "titre": "Doktor Satansohn",
+              "realisateurs": "Edmund Edel",
+              "pays": "Allemagne",
+              "annee": 1916,
+              "duree": 44,
+              "version": "INT. FR.",
+              "format": "Numérique",
+              "generique": [
+                "Hans Felix",
+                "Yo Larte",
+                "Marga Köhler"
+              ],
+              "miniTexte": "Fantasmagorie aux accents faustiens, qui voit le propriétaire d'un institut de beauté, un certain Dr. Satansohn, réaliser le rêve d'une femme qui aspire à la jeunesse éternelle. Sous condition qu'elle n'embrasse plus aucun homme."
             }
           ],
           "seances": [

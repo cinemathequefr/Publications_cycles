@@ -106,7 +106,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (53)
+## Ernst Lubitsch (55)
 
   * Abîme (L')  
   * Ange  
@@ -120,9 +120,11 @@
   * Du Barry (La)  
   * Ein fideles Gefängnis  
   * Éventail de Lady Windermere (L')  
+  * Fall Rosentopf (Der)  
   * Femme du pharaon (La)  
   * Filles de Kohlhiesel (Les)  
   * Folle Ingénue (La)  
+  * Hans Trutz au pays de Cocagne  
   * Haute Pègre  
   * Homme que j'ai tué (L')  
   * Huitième Femme de Barbe-Bleue (La)  
