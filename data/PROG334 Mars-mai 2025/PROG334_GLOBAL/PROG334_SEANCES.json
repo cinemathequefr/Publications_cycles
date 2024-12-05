@@ -722,9 +722,33 @@
     "hashEvenement": "f92576f128863"
   },
   {
+    "idSeance": 187800,
+    "idEvenement": 32149,
+    "dateHeure": "2025-03-19T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Glauber Rocha",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43204,
+        "titre": "Claro",
+        "realisateurs": "Glauber Rocha",
+        "annee": 1975,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f43204"
+  },
+  {
     "idSeance": 188085,
-    "idEvenement": 32085,
-    "dateHeure": "2025-03-19T20:15:00",
+    "idEvenement": 32577,
+    "dateHeure": "2025-03-19T20:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -751,43 +775,9 @@
         "duree": 51,
         "version": "INT. FR.",
         "format": "35 mm"
-      },
-      {
-        "idFilm": 34540,
-        "titre": "Patriot",
-        "art": "The",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1928,
-        "duree": 8,
-        "version": "INT. FR.",
-        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f40800f40802f34540"
-  },
-  {
-    "idSeance": 187800,
-    "idEvenement": 32149,
-    "dateHeure": "2025-03-19T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Glauber Rocha",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 43204,
-        "titre": "Claro",
-        "realisateurs": "Glauber Rocha",
-        "annee": 1975,
-        "duree": 107,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f43204"
+    "hashEvenement": "f40800f40802"
   },
   {
     "idSeance": 188091,
@@ -1345,15 +1335,6 @@
         "format": "Numérique"
       },
       {
-        "idFilm": 70811,
-        "titre": "Ein fideles Gefängnis",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1917,
-        "duree": 54,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      },
-      {
         "idFilm": 40745,
         "titre": "Wenn vier dasselbe tun",
         "realisateurs": "Ernst Lubitsch",
@@ -1361,9 +1342,18 @@
         "duree": 42,
         "version": "INT. FR.",
         "format": "35 mm"
+      },
+      {
+        "idFilm": 70811,
+        "titre": "Ein fideles Gefängnis",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1917,
+        "duree": 54,
+        "version": "INT. FR.",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f40754f70811f40745"
+    "hashEvenement": "f40754f40745f70811"
   },
   {
     "idSeance": 188106,
@@ -1828,8 +1818,8 @@
     "hashEvenement": "f33920"
   },
   {
-    "idSeance": 187839,
-    "idEvenement": 32570,
+    "idSeance": 188253,
+    "idEvenement": 32042,
     "dateHeure": "2025-03-28T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -1838,38 +1828,18 @@
         "Les films"
       ]
     ],
-    "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
     "items": [
       {
-        "idFilm": 40754,
-        "titre": "Roi du corsage",
-        "art": "Le",
+        "idFilm": 40727,
+        "titre": "Chatte des montagnes",
+        "art": "La",
         "realisateurs": "Ernst Lubitsch",
-        "annee": 1917,
-        "duree": 12,
-        "version": "INT. FR.",
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 70811,
-        "titre": "Ein fideles Gefängnis",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1917,
-        "duree": 54,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 40745,
-        "titre": "Wenn vier dasselbe tun",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1917,
-        "duree": 42,
-        "version": "INT. FR.",
-        "format": "35 mm"
+        "annee": 1921,
+        "duree": 85,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f40754f70811f40745"
+    "hashEvenement": "f40727"
   },
   {
     "idSeance": 187924,
@@ -1953,7 +1923,6 @@
         "Les films"
       ]
     ],
-    "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
     "items": [
       {
         "idFilm": 40285,
@@ -2001,6 +1970,16 @@
     ],
     "items": [
       {
+        "idFilm": 34540,
+        "titre": "Patriot",
+        "art": "The",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1928,
+        "duree": 8,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      },
+      {
         "idFilm": 33858,
         "titre": "Abîme",
         "art": "L'",
@@ -2011,7 +1990,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f33858"
+    "hashEvenement": "f34540f33858"
   },
   {
     "idSeance": 188168,
@@ -2048,7 +2027,6 @@
         "Les films"
       ]
     ],
-    "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
     "items": [
       {
         "idFilm": 40733,
@@ -2136,8 +2114,8 @@
     "hashEvenement": "f54203"
   },
   {
-    "idSeance": 187809,
-    "idEvenement": 32042,
+    "idSeance": 188252,
+    "idEvenement": 32572,
     "dateHeure": "2025-03-30T20:00:00",
     "salle": "GF",
     "cycle": [
@@ -2146,19 +2124,25 @@
         "Les films"
       ]
     ],
-    "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
     "items": [
       {
-        "idFilm": 40727,
-        "titre": "Chatte des montagnes",
-        "art": "La",
+        "idFilm": 128868,
+        "titre": "Quand j'étais mort",
         "realisateurs": "Ernst Lubitsch",
-        "annee": 1921,
-        "duree": 85,
+        "annee": 1915,
+        "duree": 38,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 92582,
+        "titre": "Je ne voudrais pas être un homme",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1918,
+        "duree": 44,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f40727"
+    "hashEvenement": "f128868f92582"
   },
   {
     "idSeance": 185945,
@@ -2211,7 +2195,7 @@
   {
     "idSeance": 188130,
     "idEvenement": 32040,
-    "dateHeure": "2025-03-31T18:30:00",
+    "dateHeure": "2025-03-31T18:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2305,32 +2289,6 @@
     "hashEvenement": "f33899"
   },
   {
-    "idSeance": 185997,
-    "idEvenement": 32053,
-    "dateHeure": "2025-04-02T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Ernst Lubitsch",
-        "Les films"
-      ]
-    ],
-    "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
-    "items": [
-      {
-        "idFilm": 40788,
-        "titre": "Filles de Kohlhiesel",
-        "art": "Les",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1920,
-        "duree": 65,
-        "version": "INT. FR.",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f40788"
-  },
-  {
     "idSeance": 188086,
     "idEvenement": 32351,
     "dateHeure": "2025-04-02T18:30:00",
@@ -2353,6 +2311,31 @@
       }
     ],
     "hashEvenement": "f152044"
+  },
+  {
+    "idSeance": 185997,
+    "idEvenement": 32053,
+    "dateHeure": "2025-04-02T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ernst Lubitsch",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40788,
+        "titre": "Filles de Kohlhiesel",
+        "art": "Les",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1920,
+        "duree": 65,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f40788"
   },
   {
     "idSeance": 187840,
@@ -2378,31 +2361,6 @@
       }
     ],
     "hashEvenement": "f69742"
-  },
-  {
-    "idSeance": 188090,
-    "idEvenement": 32089,
-    "dateHeure": "2025-04-02T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Ernst Lubitsch",
-        "Les films"
-      ]
-    ],
-    "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
-    "items": [
-      {
-        "idFilm": 92587,
-        "titre": "Trois femmes",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1923,
-        "duree": 89,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f92587"
   },
   {
     "idSeance": 187916,
@@ -2900,8 +2858,8 @@
     "hashEvenement": "f92568"
   },
   {
-    "idSeance": 186120,
-    "idEvenement": 32049,
+    "idSeance": 188254,
+    "idEvenement": 32089,
     "dateHeure": "2025-04-05T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -2910,19 +2868,19 @@
         "Les films"
       ]
     ],
+    "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
     "items": [
       {
-        "idFilm": 33858,
-        "titre": "Abîme",
-        "art": "L'",
+        "idFilm": 92587,
+        "titre": "Trois femmes",
         "realisateurs": "Ernst Lubitsch",
-        "annee": 1929,
-        "duree": 73,
+        "annee": 1923,
+        "duree": 89,
         "version": "INT. FR.",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f33858"
+    "hashEvenement": "f92587"
   },
   {
     "idSeance": 188048,
@@ -3386,7 +3344,7 @@
   {
     "idSeance": 187935,
     "idEvenement": 32079,
-    "dateHeure": "2025-04-09T16:00:00",
+    "dateHeure": "2025-04-09T17:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3406,42 +3364,6 @@
       }
     ],
     "hashEvenement": "f33887"
-  },
-  {
-    "idSeance": 186186,
-    "idEvenement": 32562,
-    "dateHeure": "2025-04-09T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Ernst Lubitsch",
-        "Les films"
-      ]
-    ],
-    "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
-    "items": [
-      {
-        "idFilm": 40776,
-        "titre": "Fall Rosentopf",
-        "art": "Der",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1918,
-        "duree": 20,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 40718,
-        "titre": "Yeux de la momie",
-        "art": "Les",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1918,
-        "duree": 58,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f40776f40718"
   },
   {
     "idSeance": 186184,
@@ -3800,7 +3722,7 @@
   {
     "idSeance": 187952,
     "idEvenement": 32077,
-    "dateHeure": "2025-04-12T19:45:00",
+    "dateHeure": "2025-04-12T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4057,15 +3979,6 @@
     "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
     "items": [
       {
-        "idFilm": 73877,
-        "titre": "Roméo et Juliette dans la neige",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1920,
-        "duree": 48,
-        "version": "INT. FR.",
-        "format": "35 mm"
-      },
-      {
         "idFilm": 44984,
         "titre": "Montmartre",
         "realisateurs": "Ernst Lubitsch",
@@ -4073,9 +3986,18 @@
         "duree": 41,
         "version": "INT. FR.",
         "format": "Numérique"
+      },
+      {
+        "idFilm": 73877,
+        "titre": "Roméo et Juliette dans la neige",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1920,
+        "duree": 48,
+        "version": "INT. FR.",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f73877f44984"
+    "hashEvenement": "f44984f73877"
   },
   {
     "idSeance": 186339,
@@ -4102,8 +4024,8 @@
     "hashEvenement": "f155116"
   },
   {
-    "idSeance": 188189,
-    "idEvenement": 32570,
+    "idSeance": 188256,
+    "idEvenement": 32562,
     "dateHeure": "2025-04-14T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -4115,35 +4037,27 @@
     "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
     "items": [
       {
-        "idFilm": 40754,
-        "titre": "Roi du corsage",
-        "art": "Le",
+        "idFilm": 40776,
+        "titre": "Fall Rosentopf",
+        "art": "Der",
         "realisateurs": "Ernst Lubitsch",
-        "annee": 1917,
-        "duree": 12,
-        "version": "INT. FR.",
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 70811,
-        "titre": "Ein fideles Gefängnis",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1917,
-        "duree": 54,
+        "annee": 1918,
+        "duree": 20,
         "version": "INT. FR.",
         "format": "35 mm"
       },
       {
-        "idFilm": 40745,
-        "titre": "Wenn vier dasselbe tun",
+        "idFilm": 40718,
+        "titre": "Yeux de la momie",
+        "art": "Les",
         "realisateurs": "Ernst Lubitsch",
-        "annee": 1917,
-        "duree": 42,
+        "annee": 1918,
+        "duree": 58,
         "version": "INT. FR.",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f40754f70811f40745"
+    "hashEvenement": "f40776f40718"
   },
   {
     "idSeance": 186370,
@@ -7089,7 +7003,7 @@
     "items": [
       {
         "idFilm": 51579,
-        "titre": "Quatre cents coups",
+        "titre": "Quatre Cents Coups",
         "art": "Les",
         "realisateurs": "François Truffaut",
         "annee": 1959,
@@ -7503,7 +7417,7 @@
     "items": [
       {
         "idFilm": 50401,
-        "titre": "Grande vadrouille",
+        "titre": "Grande Vadrouille",
         "art": "La",
         "realisateurs": "Gérard Oury",
         "annee": 1966,

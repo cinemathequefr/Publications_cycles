@@ -106,7 +106,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (53)
+## Ernst Lubitsch (55)
 
   * Abîme (L')  
   * Ange  
@@ -129,6 +129,7 @@
   * Homme que j'ai tué (L')  
   * Huitième Femme de Barbe-Bleue (La)  
   * Illusions perdues  
+  * Je ne voudrais pas être un homme  
   * Lieutenant souriant (Le)  
   * Mademoiselle Piccolo  
   * Meyer aus Berlin  
@@ -144,6 +145,7 @@
   * Poupée (La)  
   * Prince étudiant (Le)  
   * Princesse aux huîtres (La)  
+  * Quand j'étais mort  
   * Robert et Bertram ou les joyeux vagabonds  
   * Roi du corsage (Le)  
   * Roméo et Juliette dans la neige  
@@ -300,14 +302,14 @@
   * Demoiselles de Rochefort (Les)  
   * Fantastic Mr. Fox  
   * Fievel et le nouveau monde  
-  * Grande vadrouille (La)  
+  * Grande Vadrouille (La)  
   * Guerre des boutons (La)  
   * James et la pêche géante  
   * Matilda  
   * Mécano de la General (Le)  
   * Monstres et Cie  
   * Panda, petit panda  
-  * Quatre cents coups (Les)  
+  * Quatre Cents Coups (Les)  
   * Robin des Bois  
   * Souvenirs de Marnie  
   * Un conte peut en cacher un autre
