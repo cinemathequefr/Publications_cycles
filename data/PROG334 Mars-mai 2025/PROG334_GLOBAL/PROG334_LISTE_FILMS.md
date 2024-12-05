@@ -106,7 +106,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (55)
+## Ernst Lubitsch (53)
 
   * Abîme (L')  
   * Ange  
@@ -129,7 +129,6 @@
   * Homme que j'ai tué (L')  
   * Huitième Femme de Barbe-Bleue (La)  
   * Illusions perdues  
-  * Je ne voudrais pas être un homme  
   * Lieutenant souriant (Le)  
   * Mademoiselle Piccolo  
   * Meyer aus Berlin  
@@ -145,7 +144,6 @@
   * Poupée (La)  
   * Prince étudiant (Le)  
   * Princesse aux huîtres (La)  
-  * Quand j'étais mort  
   * Robert et Bertram ou les joyeux vagabonds  
   * Roi du corsage (Le)  
   * Roméo et Juliette dans la neige  
@@ -398,16 +396,20 @@
   * Un jeu de mort  
   * Ville captive (La)
 
-## Wes Anderson (11)
+## Wes Anderson (15)
 
   * À bord du Darjeeling Limited  
   * Asteroid City  
   * Bottle Rocket  
+  * Cygne (Le)  
   * Famille Tenenbaum (La)  
   * French Dispatch (The)  
   * Grand Budapest Hotel (The)  
   * Hotel Chevalier  
   * Île aux chiens (L')  
+  * Merveilleuse histoire d'Henry Sugar (La)  
   * Moonrise Kingdom  
+  * Preneur de rats (Le)  
   * Rushmore  
+  * Venin  
   * Vie aquatique (La)  
