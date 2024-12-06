@@ -1160,14 +1160,6 @@
     ],
     "items": [
       {
-        "idFilm": 155054,
-        "titre": "Robert et Bertram ou les joyeux vagabonds",
-        "realisateurs": "Max Mack",
-        "annee": 1915,
-        "duree": 60,
-        "version": "INT. FR."
-      },
-      {
         "idFilm": 155052,
         "titre": "Doktor Satansohn",
         "realisateurs": "Edmund Edel",
@@ -1175,9 +1167,17 @@
         "duree": 44,
         "version": "INT. FR.",
         "format": "Numérique"
+      },
+      {
+        "idFilm": 155054,
+        "titre": "Robert et Bertram ou les joyeux vagabonds",
+        "realisateurs": "Max Mack",
+        "annee": 1915,
+        "duree": 60,
+        "version": "INT. FR."
       }
     ],
-    "hashEvenement": "f155054f155052"
+    "hashEvenement": "f155052f155054"
   },
   {
     "idSeance": 187892,
@@ -2944,6 +2944,15 @@
     "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel",
     "items": [
       {
+        "idFilm": 92562,
+        "titre": "Mademoiselle Piccolo",
+        "realisateurs": "Franz Hofer",
+        "annee": 1914,
+        "duree": 36,
+        "version": "INT. FR.",
+        "format": "16 mm"
+      },
+      {
         "idFilm": 92550,
         "titre": "Orgueil de la firme",
         "art": "L'",
@@ -2952,18 +2961,9 @@
         "duree": 59,
         "version": "INT. FR.",
         "format": "35 mm"
-      },
-      {
-        "idFilm": 92562,
-        "titre": "Mademoiselle Piccolo",
-        "realisateurs": "Franz Hofer",
-        "annee": 1914,
-        "duree": 36,
-        "version": "INT. FR.",
-        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f92550f92562"
+    "hashEvenement": "f92562f92550"
   },
   {
     "idSeance": 186121,
@@ -5508,7 +5508,7 @@
     "items": [
       {
         "idFilm": 57639,
-        "titre": "Ange maudit",
+        "titre": "Ange maudit / Song",
         "realisateurs": "Richard Eichberg",
         "annee": 1928,
         "duree": 97,

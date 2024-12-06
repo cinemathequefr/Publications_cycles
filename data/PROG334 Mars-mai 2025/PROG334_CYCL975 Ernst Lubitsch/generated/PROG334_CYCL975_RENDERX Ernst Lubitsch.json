@@ -1468,6 +1468,51 @@
       "titreSousCycle": "Lubitsch acteur",
       "items": [
         {
+          "idEvenement": 32266,
+          "content": [
+            {
+              "idFilm": 155052,
+              "ordre": 1,
+              "titre": "Doktor Satansohn",
+              "realisateurs": "Edmund Edel",
+              "pays": "Allemagne",
+              "annee": 1916,
+              "duree": 44,
+              "version": "INT. FR.",
+              "format": "Numérique",
+              "generique": [
+                "Hans Felix",
+                "Yo Larte",
+                "Marga Köhler"
+              ],
+              "miniTexte": "Fantasmagorie aux accents faustiens, qui voit le propriétaire d'un institut de beauté, un certain Dr. Satansohn, réaliser le rêve d'une femme qui aspire à la jeunesse éternelle. Sous condition qu'elle n'embrasse plus aucun homme."
+            },
+            {
+              "idFilm": 155054,
+              "ordre": 2,
+              "titre": "Robert et Bertram ou les joyeux vagabonds",
+              "titreVo": "Robert und Bertram oder die lustigen vagabunden",
+              "realisateurs": "Max Mack",
+              "pays": "Allemagne",
+              "annee": 1915,
+              "duree": 60,
+              "version": "INT. FR.",
+              "format": "",
+              "generique": [
+                "Ferdinand Bonn"
+              ],
+              "miniTexte": "Les débuts de l'acteur Lubitsch dans une joyeuse farce provinciale."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185743,
+              "dateHeure": "2025-03-22T15:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idEvenement": 32265,
           "content": [
             {
@@ -1516,8 +1561,25 @@
           "idEvenement": 32263,
           "content": [
             {
-              "idFilm": 92550,
+              "idFilm": 92562,
               "ordre": 1,
+              "titre": "Mademoiselle Piccolo",
+              "titreVo": "Fraülein Piccolo",
+              "realisateurs": "Franz Hofer",
+              "pays": "Allemagne",
+              "annee": 1914,
+              "duree": 36,
+              "version": "INT. FR.",
+              "format": "16 mm",
+              "generique": [
+                "Ernst Lubitsch",
+                "Dorrit Weixler"
+              ],
+              "miniTexte": "Lubitsch tient le rôle d'un commis voyageur dans cette pétillante comédie de travestissement, où une jeune fille se retrouve à travailler comme femme de chambre en même temps que groom dans l'hôtel de ses parents."
+            },
+            {
+              "idFilm": 92550,
+              "ordre": 2,
               "titre": "Orgueil de la firme",
               "art": "L'",
               "titreVo": "Stolz der Firma",
@@ -1534,23 +1596,6 @@
                 "Victor Arnold"
               ],
               "miniTexte": "Licencié d'un grand magasin de province, Siegmund Lachmann tente sa chance à Berlin après un suicide raté. Une des nombreuses farces des années 1910, qui font de Lubitsch un grand acteur populaire."
-            },
-            {
-              "idFilm": 92562,
-              "ordre": 2,
-              "titre": "Mademoiselle Piccolo",
-              "titreVo": "Fraülein Piccolo",
-              "realisateurs": "Franz Hofer",
-              "pays": "Allemagne",
-              "annee": 1914,
-              "duree": 36,
-              "version": "INT. FR.",
-              "format": "16 mm",
-              "generique": [
-                "Ernst Lubitsch",
-                "Dorrit Weixler"
-              ],
-              "miniTexte": "Lubitsch tient le rôle d'un commis voyageur dans cette pétillante comédie de travestissement, où une jeune fille se retrouve à travailler comme femme de chambre en même temps que groom dans l'hôtel de ses parents."
             }
           ],
           "seances": [
@@ -1559,51 +1604,6 @@
               "dateHeure": "2025-04-05T19:30:00",
               "idSalle": "GF",
               "mention": "Accompagnement musical par un élève de la classe d'improvisation de Jean-François Zygel"
-            }
-          ]
-        },
-        {
-          "idEvenement": 32266,
-          "content": [
-            {
-              "idFilm": 155054,
-              "ordre": 1,
-              "titre": "Robert et Bertram ou les joyeux vagabonds",
-              "titreVo": "Robert und Bertram oder die lustigen vagabunden",
-              "realisateurs": "Max Mack",
-              "pays": "Allemagne",
-              "annee": 1915,
-              "duree": 60,
-              "version": "INT. FR.",
-              "format": "",
-              "generique": [
-                "Ferdinand Bonn"
-              ],
-              "miniTexte": "Les débuts de l'acteur Lubitsch dans une joyeuse farce provinciale."
-            },
-            {
-              "idFilm": 155052,
-              "ordre": 2,
-              "titre": "Doktor Satansohn",
-              "realisateurs": "Edmund Edel",
-              "pays": "Allemagne",
-              "annee": 1916,
-              "duree": 44,
-              "version": "INT. FR.",
-              "format": "Numérique",
-              "generique": [
-                "Hans Felix",
-                "Yo Larte",
-                "Marga Köhler"
-              ],
-              "miniTexte": "Fantasmagorie aux accents faustiens, qui voit le propriétaire d'un institut de beauté, un certain Dr. Satansohn, réaliser le rêve d'une femme qui aspire à la jeunesse éternelle. Sous condition qu'elle n'embrasse plus aucun homme."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185743,
-              "dateHeure": "2025-03-22T15:00:00",
-              "idSalle": "JE"
             }
           ]
         }

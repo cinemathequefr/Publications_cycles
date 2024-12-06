@@ -2,7 +2,7 @@
 
 ## Anna May Wong (23)
 
-  * Ange maudit  
+  * Ange maudit / Song  
   * Anna May Wong, Frosted Yellow Willows: Her Life, Times and Legend  
   * Anna May Wong in Australia  
   * Bold Journey: Native Land  
