@@ -118,6 +118,39 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Jeune cinéma brésilien",
+      "items": [
+        {
+          "idFilm": 155148,
+          "content": [
+            {
+              "idFilm": 155148,
+              "ordre": 1,
+              "titre": "Batguano",
+              "realisateurs": "Tavinho Teixeira",
+              "pays": "Brésil",
+              "annee": 2014,
+              "duree": 74,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Tavinho Teixeira",
+                "Everaldo Pontes"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186150,
+              "dateHeure": "2025-04-07T19:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Avant-première Jean-Baptiste Alazard",
       "items": [
         {
@@ -151,7 +184,7 @@
       "titreSousCycle": "David Depesseville",
       "items": [
         {
-          "idFilm": 155115,
+          "idEvenement": 32580,
           "content": [
             {
               "idFilm": 155115,
@@ -168,14 +201,29 @@
                 "Bastien Bouillon",
                 "Marc Barbé"
               ]
+            },
+            {
+              "idFilm": 46918,
+              "ordre": 2,
+              "titre": "Pierre et Djemila",
+              "realisateurs": "Gérard Blain",
+              "pays": "France-Suisse",
+              "annee": 1986,
+              "duree": 86,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Jean-Pierre André",
+                "Nadja Reski",
+                "Abdelkader"
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 186717,
+              "idSeance": 188258,
               "dateHeure": "2025-04-28T19:00:00",
-              "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec David Depesseville"
+              "idSalle": "JE"
             }
           ]
         }
@@ -200,7 +248,7 @@
           "seances": [
             {
               "idSeance": 186906,
-              "dateHeure": "2025-05-05T20:30:00",
+              "dateHeure": "2025-05-05T19:00:00",
               "idSalle": "JE",
               "mention": "Séance suivie d'une discussion avec Hefse Guiro"
             }
@@ -253,14 +301,9 @@
         "dateHeure": "2025-04-14T19:30:00"
       },
       {
-        "titreFilms": "Les Tremblements",
-        "mention": "avec David Depesseville",
-        "dateHeure": "2025-04-28T19:00:00"
-      },
-      {
         "titreFilms": "Par-delà les montagnes",
         "mention": "avec Hefse Guiro",
-        "dateHeure": "2025-05-05T20:30:00"
+        "dateHeure": "2025-05-05T19:00:00"
       }
     ]
   }

@@ -46,6 +46,29 @@
     ]
   },
   {
+    "idCategorie": 3735,
+    "typeEvenement": 13,
+    "idEvenement": 32506,
+    "idSeance": 186150,
+    "dateHeure": "2025-04-07T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155148,
+        "ordre": 1,
+        "idSeance": 186150,
+        "idCopie": 29416,
+        "duree": 74,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
     "idCategorie": 3732,
     "typeEvenement": 13,
     "idEvenement": 32509,
@@ -73,33 +96,41 @@
   {
     "idCategorie": 3730,
     "typeEvenement": 13,
-    "idEvenement": 32507,
-    "idSeance": 186717,
+    "idEvenement": 32580,
+    "idSeance": 188258,
     "dateHeure": "2025-04-28T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 75,
+    "dureeSeance": 150,
     "items": [
       {
         "idFilm": 155115,
         "ordre": 1,
-        "idSeance": 186717,
+        "idSeance": 188258,
         "idCopie": 29310,
         "duree": 37,
         "version": "",
         "format": "DCP"
+      },
+      {
+        "idFilm": 46918,
+        "ordre": 2,
+        "idSeance": 188258,
+        "idCopie": 29409,
+        "duree": 86,
+        "version": "",
+        "format": "35 mm"
       }
-    ],
-    "mention": "Séance suivie d'une discussion avec David Depesseville"
+    ]
   },
   {
     "idCategorie": 3733,
     "typeEvenement": 13,
     "idEvenement": 32512,
     "idSeance": 186906,
-    "dateHeure": "2025-05-05T20:30:00",
+    "dateHeure": "2025-05-05T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"

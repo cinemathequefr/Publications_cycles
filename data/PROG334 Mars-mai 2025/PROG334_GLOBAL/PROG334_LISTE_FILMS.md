@@ -30,14 +30,16 @@
 
   * Cinégraphies, les femmes de la tempête
 
-## Aujourd'hui le cinéma (9)
+## Aujourd'hui le cinéma (11)
 
+  * Batguano  
   * Camille sans contact  
   * Cidade; Campo  
   * Festa major  
   * Malo fait du vélo  
   * Méduses de Gouville (Les)  
   * Par-delà les montagnes  
+  * Pierre et Djemila  
   * Salut les zins !  
   * Tremblements (Les)  
   * Voyage au bord de la guerre
