@@ -11,7 +11,7 @@
 
 ## Hommage au KOFA (4)
 
-  * Art de la Chasteté (L')  
+  * Art de la chasteté (L')  
   * Jour où le cochon est tombé dans le puits (Le)  
   * Une balle perdue  
   * Une ville natale
