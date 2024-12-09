@@ -65,7 +65,7 @@
               "idFilm": 155082,
               "ordre": 5,
               "titre": "Dizziness",
-              "realisateurs": "Takashi Itô",
+              "realisateurs": "Takashi Itō",
               "pays": "Japon",
               "annee": 2001,
               "miniTexte": "Deux jeunes filles voient leurs vies bousculées après avoir assisté à une tentative de suicide. Sur une bande-son troublante, images bicolores et saturées captent un ensemble de présences fantomatiques.",
@@ -222,12 +222,16 @@
               "ordre": 1,
               "titre": "In Water",
               "titreVo": "Mul-an-e-seo",
-              "realisateurs": "Sang-soo Hong",
+              "realisateurs": "Hong Sang-soo",
               "pays": "Corée",
               "annee": 2023,
               "duree": 0,
               "version": "",
               "format": "",
+              "generique": [
+                "Shin Seok-ho",
+                "Ha Seong-guk"
+              ],
               "miniTexte": "Sur l'île de Jeju, trois jeunes cinéastes se mettent en quête d'une histoire à raconter. Hong Sang-soo transforme le flou en personnage à part entière, érigé comme métaphore de l'incertitude et de la mémoire, pour faire naître un nouveau langage de cinéma. Une œuvre radicale, véritable déambulation onirique."
             }
           ],
@@ -236,7 +240,7 @@
               "idSeance": 188050,
               "dateHeure": "2025-05-09T20:30:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Claire Bernardi et Émilia Philippot"
             }
           ]
         },
@@ -321,7 +325,7 @@
               "idFilm": 132670,
               "ordre": 3,
               "titre": "Thunder",
-              "realisateurs": "Takashi Ito",
+              "realisateurs": "Takashi Itō",
               "pays": "Japon",
               "annee": 1982,
               "duree": 5,
@@ -418,5 +422,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séance présentée": [
+      {
+        "titreFilms": "In Water",
+        "mention": "par Claire Bernardi et Émilia Philippot",
+        "dateHeure": "2025-05-09T20:30:00"
+      }
+    ]
+  }
 }

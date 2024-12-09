@@ -57,8 +57,8 @@
           ],
           "seances": [
             {
-              "idSeance": 188169,
-              "dateHeure": "2025-03-30T17:00:00",
+              "idSeance": 188260,
+              "dateHeure": "2025-03-29T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -165,7 +165,8 @@
             {
               "idSeance": 188058,
               "dateHeure": "2025-03-26T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance suivie d'une discussion avec Mike Leigh"
             }
           ]
         },
@@ -247,37 +248,57 @@
           ]
         },
         {
-          "idFilm": 41617,
-          "content": [
+          "groupe": [
             {
               "idFilm": 41617,
-              "ordre": 1,
-              "titre": "Naked",
-              "realisateurs": "Mike Leigh",
-              "pays": "Grande-Bretagne",
-              "annee": 1993,
-              "duree": 0,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "David Thewlis",
-                "Lesley Sharp",
-                "Katrin Cartlidge"
-              ],
-              "isFocus": true,
-              "miniTexte": "Après les comédies de ses débuts (_High Hopes_, _Life is Sweet_), Mike Leigh opère un tournant sombre et signe un film grinçant, violent, à l'atmosphère blafarde. Avec les errances nocturnes d'un Ulysse, affreux, sale et méchant, _Naked_ plonge le spectateur dans la vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne. Une époque où les rapports humains, aux deux extrémités du spectre social, ne sont plus que brutalité et indifférence. Son interprète, David Thewlis, reçoit le Prix d'interprétation à Cannes, et le cinéaste le Prix de la mise en scène."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185925,
-              "dateHeure": "2025-03-29T14:30:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 41617,
+                  "ordre": 1,
+                  "titre": "Naked",
+                  "realisateurs": "Mike Leigh",
+                  "pays": "Grande-Bretagne",
+                  "annee": 1993,
+                  "duree": 0,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "David Thewlis",
+                    "Lesley Sharp",
+                    "Katrin Cartlidge"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Après les comédies de ses débuts (_High Hopes_, _Life is Sweet_), Mike Leigh opère un tournant sombre et signe un film grinçant, violent, à l'atmosphère blafarde. Avec les errances nocturnes d'un Ulysse, affreux, sale et méchant, _Naked_ plonge le spectateur dans la vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne. Une époque où les rapports humains, aux deux extrémités du spectre social, ne sont plus que brutalité et indifférence. Son interprète, David Thewlis, reçoit le Prix d'interprétation à Cannes, et le cinéaste le Prix de la mise en scène."
+                }
+              ]
             },
             {
-              "idSeance": 188165,
-              "dateHeure": "2025-04-03T20:00:00",
-              "idSalle": "JE"
+              "idEvenement": 32517,
+              "content": [
+                {
+                  "idConf": 32517,
+                  "ordre": 2,
+                  "titre": "Mike Leigh par Mike Leigh, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma",
+                  "miniTexte": "« Je ne fais pas de films prescriptifs, ni de films à thèse. Vous ne sortez pas de la salle avec une idée claire de ce qui est bien ou mal. Mes films sont ambivalents. Vous repartez avec du travail à faire. Mes films sont des sortes d'enquêtes. Ils posent des questions... Parfois, j'entends dire qu'un studio hollywoodien s'intéresse à moi. Puis ils découvrent que je suis le type qui travaille sans scénario, sans discussions sur le casting, sans ingérence, et que j'ai le dernier mot sur le montage. Et là, c'est fini. » (Mike Leigh)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 185925,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-03-29T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 185925,
+                  "mentionAssoc": "Film + leçon de cinéma"
+                },
+                {
+                  "idSeance": 188165,
+                  "dateHeure": "2025-04-03T20:00:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -329,7 +350,8 @@
             {
               "idSeance": 187924,
               "dateHeure": "2025-03-28T18:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance suivie d'une discussion avec Mike Leigh"
             },
             {
               "idSeance": 186121,
@@ -385,9 +407,10 @@
           ],
           "seances": [
             {
-              "idSeance": 188168,
-              "dateHeure": "2025-03-29T19:00:00",
-              "idSalle": "HL"
+              "idSeance": 188259,
+              "dateHeure": "2025-03-30T17:00:00",
+              "idSalle": "HL",
+              "mention": "Séance suivie d'une discussion avec Mike Leigh"
             }
           ]
         }
@@ -492,37 +515,30 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32517,
-          "content": [
-            {
-              "idConf": 32517,
-              "titre": "Mike Leigh par Mike Leigh, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma",
-              "miniTexte": "« Je ne fais pas de films prescriptifs, ni de films à thèse. Vous ne sortez pas de la salle avec une idée claire de ce qui est bien ou mal. Mes films sont ambivalents. Vous repartez avec du travail à faire. Mes films sont des sortes d'enquêtes. Ils posent des questions... Parfois, j'entends dire qu'un studio hollywoodien s'intéresse à moi. Puis ils découvrent que je suis le type qui travaille sans scénario, sans discussions sur le casting, sans ingérence, et que j'ai le dernier mot sur le montage. Et là, c'est fini. » (Mike Leigh)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188149,
-              "dateHeure": "2025-03-29T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Leçon de cinéma": [
       {
         "titre": "Mike Leigh par Mike Leigh, une leçon de cinéma",
-        "dateHeure": "2025-03-29T16:30:00"
+        "dateHeure": "2025-03-29T14:30:00"
+      }
+    ],
+    "Discussions": [
+      {
+        "titreFilms": "Hard Truths",
+        "mention": "avec Mike Leigh",
+        "dateHeure": "2025-03-26T20:00:00"
+      },
+      {
+        "titreFilms": "Secrets et Mensonges",
+        "mention": "avec Mike Leigh",
+        "dateHeure": "2025-03-28T18:00:00"
+      },
+      {
+        "titreFilms": "Vera Drake",
+        "mention": "avec Mike Leigh",
+        "dateHeure": "2025-03-30T17:00:00"
       }
     ]
   }

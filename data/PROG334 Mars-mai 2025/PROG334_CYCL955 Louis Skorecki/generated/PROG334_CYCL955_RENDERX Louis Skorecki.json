@@ -6,45 +6,11 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 1,
+      "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 103111,
-          "content": [
-            {
-              "idFilm": 103111,
-              "ordre": 2,
-              "titre": "Cinéphiles 3 : Les Ruses de Frédéric",
-              "art": "Les",
-              "realisateurs": "Louis Skorecki",
-              "pays": "France",
-              "annee": 2006,
-              "duree": 32,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "« De l'eau est passée sous les ponts. Le cinéma d'aujourd'hui, c'est la téléréalité. Vous n'êtes pas d'accord ? Je m'en fous... » Troisième round, plus resserré, des Cinéphiles. La cinéphilie comme discours, mais qui tournerait plus que jamais à vide : Frédéric Beigbeder fait rentrer dans le crâne d'un enfant de 5 ans quelques théories sur _Rio Bravo_, quand Axelle Ropert et son acolyte se balancent des noms de cinéastes sans plus d'arguments. Féroce, et vivifiant.",
-              "precedeSuivi": [
-                [
-                  [
-                    "Cinéphiles : Éric a disparu",
-                    "Les"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 186498,
-              "dateHeure": "2025-04-19T20:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 125577,
+          "idEvenement": 31785,
           "content": [
             {
               "idFilm": 125577,
@@ -57,22 +23,36 @@
               "duree": 56,
               "version": "",
               "format": "DCP",
-              "miniTexte": "Deux ados devant la Cinémathèque de Chaillot. « Ça ressemble à rien cet endroit. Enfin si, on dirait un décor de _Brazil_, bien sinistre... J'aimerais pas voir un film là-dedans, moi, tout le monde y a une gueule d'enterrement. » Le second épisode des _Cinéphiles_, dans lequel de jeunes gens échangent sur les films qu'ils aiment, ou qu'ils détestent, sous l'œil toujours délicieusement cruel du cinéaste, vent debout contre la muséification du cinéma.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Cinéphiles 3 : Les Ruses de Frédéric",
-                    "Les"
-                  ]
-                ]
-              ]
+              "generique": [
+                "Harold Manning",
+                "Sébastien Clerger",
+                "Marie Nester"
+              ],
+              "miniTexte": "Deux ados devant la Cinémathèque de Chaillot. « Ça ressemble à rien cet endroit. Enfin si, on dirait un décor de _Brazil_, bien sinistre... J'aimerais pas voir un film là-dedans, moi, tout le monde y a une gueule d'enterrement. » Le second épisode des _Cinéphiles_, dans lequel de jeunes gens échangent sur les films qu'ils aiment, ou qu'ils détestent, sous l'œil toujours délicieusement cruel du cinéaste, vent debout contre la muséification du cinéma."
+            },
+            {
+              "idFilm": 103111,
+              "ordre": 2,
+              "titre": "Cinéphiles 3 : Les Ruses de Frédéric",
+              "art": "Les",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 2006,
+              "duree": 32,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Frédéric Beigbeder",
+                "Axelle Ropert",
+                "Julien Naveau"
+              ],
+              "miniTexte": "« De l'eau est passée sous les ponts. Le cinéma d'aujourd'hui, c'est la téléréalité. Vous n'êtes pas d'accord ? Je m'en fous... » Troisième round, plus resserré, des Cinéphiles. La cinéphilie comme discours, mais qui tournerait plus que jamais à vide : Frédéric Beigbeder fait rentrer dans le crâne d'un enfant de 5 ans quelques théories sur _Rio Bravo_, quand Axelle Ropert et son acolyte se balancent des noms de cinéastes sans plus d'arguments. Féroce, et vivifiant."
             }
           ],
           "seances": [
             {
               "idSeance": 186498,
-              "dateHeure": "2025-04-19T20:00:00",
+              "dateHeure": "2025-04-19T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -83,7 +63,7 @@
             {
               "idFilm": 51176,
               "ordre": 1,
-              "titre": "Cinéphiles : Le retour de Jean",
+              "titre": "Cinéphiles : Le Retour de Jean",
               "art": "Les",
               "realisateurs": "Louis Skorecki",
               "pays": "France",
@@ -104,7 +84,8 @@
             {
               "idSeance": 187947,
               "dateHeure": "2025-04-19T18:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Louis Skorecki"
             }
           ]
         },
@@ -123,6 +104,10 @@
                   "duree": 70,
                   "version": "",
                   "format": "Numérique",
+                  "generique": [
+                    "Xavier Villetard",
+                    "Edouard Waintrop"
+                  ],
                   "miniTexte": "« Quand on parle de cinéphilie, je crois qu'il faut expliquer, préciser, mettre les choses à plat : mettre soi-même les pieds dans le plat et y aller de sa personne, faute de quoi l'autre, le lecteur, risque de n'y rien comprendre. » Lecture à deux voix du célèbre article de Skorecki écrit en 1978 pour les _Cahiers du cinéma_."
                 }
               ]
@@ -163,6 +148,7 @@
               "duree": 105,
               "version": "",
               "format": "DCP",
+              "adaptation": "D'après la nouvelle _Eugénie de Franval_ du Marquis de Sade.",
               "generique": [
                 "Élisabeth Boland",
                 "Françoise Grimaldi",
@@ -196,6 +182,11 @@
                   "duree": 52,
                   "version": "",
                   "format": "DCP",
+                  "generique": [
+                    "Rebecca Marder",
+                    "Pascal Cervo",
+                    "Françoise Widhoff"
+                  ],
                   "miniTexte": "Une série de vignettes, décalées, incongrues, de conseils culinaires, de masques d'animaux et d'expressions yiddish pour raconter – ou ne surtout pas le faire, ou alors par la bande – ses origines juives. Longtemps resté invisible, le film est présenté dans une toute nouvelle restauration mise en œuvre par la Cinémathèque française."
                 }
               ]
@@ -234,7 +225,11 @@
               "annee": 2007,
               "duree": 52,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Frédéric Beigbeder",
+                "Axelle Ropert"
+              ]
             }
           ],
           "seances": [
@@ -282,6 +277,11 @@
               "duree": 94,
               "version": "",
               "format": "DCP",
+              "generique": [
+                "Louis Skorecki",
+                "Marie Anne Guerin",
+                "Vladimir Léon"
+              ],
               "miniTexte": "Entouré de Marie Anne Guerin et Vladimir Léon, Skorecki lance sa boîte de production, un paradoxe pour « quelqu'un qui ne veut plus aller voir de films et qui part en courant dès qu'il est question d'argent »."
             }
           ],
@@ -296,138 +296,11 @@
       ]
     },
     {
-      "tri": 1,
+      "tri": 2,
       "titreSousCycle": "Courts métrages",
       "items": [
         {
-          "idFilm": 71649,
-          "content": [
-            {
-              "idFilm": 71649,
-              "ordre": 2,
-              "titre": "Escalier de la haine",
-              "art": "L'",
-              "realisateurs": "Louis Skorecki",
-              "pays": "France",
-              "annee": 1982,
-              "duree": 41,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "De drôles de « personnages » s'agitent dans un squatt irréaliste et coloré, sans jamais s'écouter, à croire qu'ils vivent chacun dans un espace différent. Adoré par Serge Daney, le film le plus personnel de Skorecki, et le premier dans lequel il apparaît, dans le rôle d'un rat/conteur.",
-              "precedeSuivi": [
-                [
-                  [
-                    "pieds dans les nuages (et la tête dans la lune)",
-                    "Les"
-                  ]
-                ],
-                [
-                  [
-                    "Histoire sentimentale",
-                    "Une"
-                  ],
-                  [
-                    "LN 2/3",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 186526,
-              "dateHeure": "2025-04-21T18:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 155087,
-          "content": [
-            {
-              "idFilm": 155087,
-              "ordre": 3,
-              "titre": "Histoire sentimentale",
-              "art": "Une",
-              "realisateurs": "Louis Skorecki",
-              "pays": "France",
-              "annee": 1984,
-              "duree": 25,
-              "version": "",
-              "format": "Numérique",
-              "miniTexte": "« Un film trop lent, trop complaisant, garrelo-straubien, dont le seul intérêt est d'avoir mis en scène quelques polaroïds de l'adolescent qui joue un petit rôle dans le très beau film de Stavros Tornes, _Danilo Treles_ (1986), un film dédié à l'Escalier de la haine parce que le héros y porte lui aussi un masque de rat. » Louis Skorecki",
-              "precedeSuivi": [
-                [
-                  [
-                    "pieds dans les nuages (et la tête dans la lune)",
-                    "Les"
-                  ],
-                  [
-                    "Escalier de la haine",
-                    "L'"
-                  ]
-                ],
-                [
-                  [
-                    "LN 2/3",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 186526,
-              "dateHeure": "2025-04-21T18:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 155088,
-          "content": [
-            {
-              "idFilm": 155088,
-              "ordre": 4,
-              "titre": "LN 2/3",
-              "realisateurs": "Louis Skorecki",
-              "pays": "France",
-              "annee": 1988,
-              "duree": 10,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "Court métrage poétique, fait avec un reste de bobine sur le tournage du _Retour de Jean_.",
-              "precedeSuivi": [
-                [
-                  [
-                    "pieds dans les nuages (et la tête dans la lune)",
-                    "Les"
-                  ],
-                  [
-                    "Escalier de la haine",
-                    "L'"
-                  ],
-                  [
-                    "Histoire sentimentale",
-                    "Une"
-                  ]
-                ],
-                []
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 186526,
-              "dateHeure": "2025-04-21T18:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 155083,
+          "idEvenement": 32415,
           "content": [
             {
               "idFilm": 155083,
@@ -440,24 +313,57 @@
               "duree": 20,
               "version": "",
               "format": "DCP",
-              "miniTexte": "Le premier film de Skorecki, un essai amoureux « sous influence Godard (surtout Bande à part) », et où l'on peut entendre un solo inédit d'Archie Shepp, enregistré à New York en 65.",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "Escalier de la haine",
-                    "L'"
-                  ],
-                  [
-                    "Histoire sentimentale",
-                    "Une"
-                  ],
-                  [
-                    "LN 2/3",
-                    null
-                  ]
-                ]
-              ]
+              "generique": [
+                "Emmanuel Crimail",
+                "Laura Mathews de Saint Phalle"
+              ],
+              "miniTexte": "Le premier film de Skorecki, un essai amoureux « sous influence Godard (surtout Bande à part) », et où l'on peut entendre un solo inédit d'Archie Shepp, enregistré à New York en 65."
+            },
+            {
+              "idFilm": 71649,
+              "ordre": 2,
+              "titre": "Escalier de la haine",
+              "art": "L'",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1982,
+              "duree": 41,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Joseph Morder",
+                "Françoise Grimaldi",
+                "Pierre Brody",
+                "Thérèse Giraud"
+              ],
+              "miniTexte": "De drôles de « personnages » s'agitent dans un squatt irréaliste et coloré, sans jamais s'écouter, à croire qu'ils vivent chacun dans un espace différent. Adoré par Serge Daney, le film le plus personnel de Skorecki, et le premier dans lequel il apparaît, dans le rôle d'un rat/conteur."
+            },
+            {
+              "idFilm": 155087,
+              "ordre": 3,
+              "titre": "Une histoire sentimentale",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1984,
+              "duree": 25,
+              "version": "",
+              "format": "Numérique",
+              "miniTexte": "« Un film trop lent, trop complaisant, garrelo-straubien, dont le seul intérêt est d'avoir mis en scène quelques polaroïds de l'adolescent qui joue un petit rôle dans le très beau film de Stavros Tornes, _Danilo Treles_ (1986), un film dédié à l'Escalier de la haine parce que le héros y porte lui aussi un masque de rat. » Louis Skorecki"
+            },
+            {
+              "idFilm": 155088,
+              "ordre": 4,
+              "titre": "LN 2/3",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1988,
+              "duree": 10,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Hélène Louvart"
+              ],
+              "miniTexte": "Court métrage poétique, fait avec un reste de bobine sur le tournage du _Retour de Jean_."
             }
           ],
           "seances": [
@@ -482,6 +388,13 @@
         "titreFilms": "CNC – Contre la Nouvelle Cinéphilie",
         "mention": "avec Louis Skorecki",
         "dateHeure": "2025-04-20T17:30:00"
+      }
+    ],
+    "Discussion": [
+      {
+        "titreFilms": "Les Cinéphiles : Le Retour de Jean",
+        "mention": "avec Louis Skorecki",
+        "dateHeure": "2025-04-19T18:00:00"
       }
     ]
   }

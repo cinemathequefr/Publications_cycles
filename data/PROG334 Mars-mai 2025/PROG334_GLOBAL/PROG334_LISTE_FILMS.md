@@ -120,7 +120,6 @@
   * Dame au manteau d'hermine (La)  
   * Doktor Satansohn  
   * Du Barry (La)  
-  * Ein fideles Gefängnis  
   * Éventail de Lady Windermere (L')  
   * Fall Rosentopf (Der)  
   * Femme du pharaon (La)  
@@ -132,28 +131,30 @@
   * Huitième Femme de Barbe-Bleue (La)  
   * Illusions perdues  
   * Je ne voudrais pas être un homme  
+  * Joyeuse prison (La)  
   * Lieutenant souriant (Le)  
   * Mademoiselle Piccolo  
-  * Meyer aus Berlin  
+  * Meyer de Berlin  
   * Mirakel (Das)  
   * Monte Carlo  
   * Montmartre  
   * Ninotchka  
   * Orgueil de la firme (L')  
+  * Palais de la chaussure Pinkus (Le)  
   * Parade d'amour  
-  * Paradis defendu  
+  * Paradis défendu  
   * Paramount on Parade  
-  * Patriot (The)  
+  * Patriote (Le)  
   * Poupée (La)  
   * Prince étudiant (Le)  
   * Princesse aux huîtres (La)  
   * Quand j'étais mort  
-  * Robert et Bertram ou les joyeux vagabonds  
+  * Quand quatre font la même chose  
+  * Robert et Bertram ou Les Joyeux vagabonds  
   * Roi du corsage (Le)  
   * Roméo et Juliette dans la neige  
   * Rosita, chanteuse des rues  
   * Scandale à la cour  
-  * Schuhpalast Pinkus  
   * Sérénade à trois  
   * Shop Around the Corner (The)  
   * Si j'avais un million  
@@ -163,7 +164,6 @@
   * Trois femmes  
   * Une heure près de toi  
   * Veuve joyeuse (La)  
-  * Wenn vier dasselbe tun  
   * Yeux de la momie (Les)
 
 ## Fenêtre sur les collections (12)
@@ -280,17 +280,17 @@
 
   * Cinéphiles 3 : Les Ruses de Frédéric (Les)  
   * Cinéphiles : Éric a disparu (Les)  
-  * Cinéphiles : Le retour de Jean (Les)  
+  * Cinéphiles : Le Retour de Jean (Les)  
   * CNC – Contre la Nouvelle Cinéphilie  
   * Escalier de la haine (L')  
   * Eugénie de Franval  
-  * Histoire sentimentale (Une)  
   * Juif de Lascaux (Le)  
   * LN 2/3  
   * pieds dans les nuages (et la tête dans la lune) (Les)  
   * Retour des cinéphiles (Le)  
   * Skorecki déménage  
-  * Skorecki devient producteur
+  * Skorecki devient producteur  
+  * Une histoire sentimentale
 
 ## Ma petite Cinémathèque (21)
 

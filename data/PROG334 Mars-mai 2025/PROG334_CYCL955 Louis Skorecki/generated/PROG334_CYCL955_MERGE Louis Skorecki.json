@@ -2,7 +2,7 @@
   "data": [
     {
       "titreSousCycle": "Les films",
-      "tri": 1,
+      "tri": 2,
       "items": [
         {
           "idSeance": 187992,
@@ -25,6 +25,10 @@
           "duree": 70,
           "version": "",
           "format": "Numérique",
+          "generique": [
+            "Xavier Villetard",
+            "Edouard Waintrop"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
@@ -35,7 +39,7 @@
         {
           "idSeance": 186498,
           "ordre": 2,
-          "dateHeure": "2025-04-19T20:00:00",
+          "dateHeure": "2025-04-19T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -53,6 +57,11 @@
           "duree": 32,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Frédéric Beigbeder",
+            "Axelle Ropert",
+            "Julien Naveau"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
@@ -69,12 +78,13 @@
             "Georges Franju"
           ],
           "dureeSeance": 105,
+          "mention": "Séance suivie d'une discussion avec Louis Skorecki",
           "idCategorie": 3652,
           "idEvenement": 31786,
           "typeEvenement": 13,
           "idFilm": 51176,
           "art": "Les",
-          "titre": "Cinéphiles : Le retour de Jean",
+          "titre": "Cinéphiles : Le Retour de Jean",
           "realisateurs": "Louis Skorecki",
           "annee": 1988,
           "pays": "France",
@@ -96,7 +106,7 @@
         {
           "idSeance": 186498,
           "ordre": 1,
-          "dateHeure": "2025-04-19T20:00:00",
+          "dateHeure": "2025-04-19T20:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -114,6 +124,11 @@
           "duree": 56,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Harold Manning",
+            "Sébastien Clerger",
+            "Marie Nester"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
@@ -147,6 +162,7 @@
             "Françoise Grimaldi",
             "Jean-René Huleu"
           ],
+          "adaptation": "D'après la nouvelle _Eugénie de Franval_ du Marquis de Sade.",
           "textes": [
             {
               "typeTexte": 1000,
@@ -180,6 +196,11 @@
           "duree": 52,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Rebecca Marder",
+            "Pascal Cervo",
+            "Françoise Widhoff"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
@@ -208,6 +229,10 @@
           "duree": 52,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Frédéric Beigbeder",
+            "Axelle Ropert"
+          ],
           "textes": []
         },
         {
@@ -230,6 +255,11 @@
           "duree": 94,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Louis Skorecki",
+            "Marie Anne Guerin",
+            "Vladimir Léon"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
@@ -269,7 +299,7 @@
     },
     {
       "titreSousCycle": "Courts métrages",
-      "tri": 1,
+      "tri": 2,
       "items": [
         {
           "idSeance": 186526,
@@ -292,38 +322,16 @@
           "duree": 41,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Joseph Morder",
+            "Françoise Grimaldi",
+            "Pierre Brody",
+            "Thérèse Giraud"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
               "texte": "De drôles de « personnages » s'agitent dans un squatt irréaliste et coloré, sans jamais s'écouter, à croire qu'ils vivent chacun dans un espace différent. Adoré par Serge Daney, le film le plus personnel de Skorecki, et le premier dans lequel il apparaît, dans le rôle d'un rat/conteur."
-            }
-          ]
-        },
-        {
-          "idSeance": 186526,
-          "ordre": 3,
-          "dateHeure": "2025-04-21T18:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3720,
-          "idEvenement": 32415,
-          "typeEvenement": 13,
-          "idFilm": 155087,
-          "art": "Une",
-          "titre": "Histoire sentimentale",
-          "realisateurs": "Louis Skorecki",
-          "annee": 1984,
-          "pays": "France",
-          "duree": 25,
-          "version": "",
-          "format": "Numérique",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "« Un film trop lent, trop complaisant, garrelo-straubien, dont le seul intérêt est d'avoir mis en scène quelques polaroïds de l'adolescent qui joue un petit rôle dans le très beau film de Stavros Tornes, _Danilo Treles_ (1986), un film dédié à l'Escalier de la haine parce que le héros y porte lui aussi un masque de rat. » Louis Skorecki"
             }
           ]
         },
@@ -347,10 +355,40 @@
           "duree": 10,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Hélène Louvart"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
               "texte": "Court métrage poétique, fait avec un reste de bobine sur le tournage du _Retour de Jean_."
+            }
+          ]
+        },
+        {
+          "idSeance": 186526,
+          "ordre": 3,
+          "dateHeure": "2025-04-21T18:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3720,
+          "idEvenement": 32415,
+          "typeEvenement": 13,
+          "idFilm": 155087,
+          "titre": "Une histoire sentimentale",
+          "realisateurs": "Louis Skorecki",
+          "annee": 1984,
+          "pays": "France",
+          "duree": 25,
+          "version": "",
+          "format": "Numérique",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "« Un film trop lent, trop complaisant, garrelo-straubien, dont le seul intérêt est d'avoir mis en scène quelques polaroïds de l'adolescent qui joue un petit rôle dans le très beau film de Stavros Tornes, _Danilo Treles_ (1986), un film dédié à l'Escalier de la haine parce que le héros y porte lui aussi un masque de rat. » Louis Skorecki"
             }
           ]
         },
@@ -375,6 +413,10 @@
           "duree": 20,
           "version": "",
           "format": "DCP",
+          "generique": [
+            "Emmanuel Crimail",
+            "Laura Mathews de Saint Phalle"
+          ],
           "textes": [
             {
               "typeTexte": 1000,
