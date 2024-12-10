@@ -30,12 +30,13 @@
 
   * Cinégraphies, les femmes de la tempête
 
-## Aujourd'hui le cinéma (11)
+## Aujourd'hui le cinéma (12)
 
   * Batguano  
   * Camille sans contact  
   * Cidade; Campo  
   * Festa major  
+  * Gilbert Grape  
   * Malo fait du vélo  
   * Méduses de Gouville (Les)  
   * Par-delà les montagnes  
@@ -185,7 +186,7 @@
 
   * Âge de la terre (L')  
   * Amazonas, Amazonas  
-  * Antônio das mortes  
+  * Antônio das Mortes  
   * Barravento  
   * Câncer  
   * Claro  
@@ -278,8 +279,8 @@
 
 ## Louis Skorecki (13)
 
+  * Cinéphiles 2 : Éric a disparu (Les)  
   * Cinéphiles 3 : Les Ruses de Frédéric (Les)  
-  * Cinéphiles : Éric a disparu (Les)  
   * Cinéphiles : Le Retour de Jean (Les)  
   * CNC – Contre la Nouvelle Cinéphilie  
   * Escalier de la haine (L')  
