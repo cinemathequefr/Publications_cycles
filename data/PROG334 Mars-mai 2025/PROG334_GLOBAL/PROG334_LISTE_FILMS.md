@@ -279,10 +279,10 @@
 
 ## Louis Skorecki (13)
 
+  * C.N.C., Contre la Nouvelle Cinéphilie  
   * Cinéphiles 2 : Éric a disparu (Les)  
   * Cinéphiles 3 : Les Ruses de Frédéric (Les)  
   * Cinéphiles : Le Retour de Jean (Les)  
-  * CNC – Contre la Nouvelle Cinéphilie  
   * Escalier de la haine (L')  
   * Eugénie de Franval  
   * Juif de Lascaux (Le)  

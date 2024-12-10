@@ -44,7 +44,7 @@
   * Paris la belle  
   * Paris la nuit
 
-## Restaurations et incunables (17)
+## Restaurations et incunables (18)
 
   * Chair pour Frankenstein  
   * Chatte à deux têtes (La)  
@@ -57,6 +57,7 @@
   * Prisonnière du désert (La)  
   * Règlement de comptes  
   * Sur mes lèvres  
+  * Tache de sang (La)  
   * Tamango  
   * Trois sublimes canailles  
   * Tueurs de flics  

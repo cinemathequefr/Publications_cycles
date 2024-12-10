@@ -48,6 +48,29 @@
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
+    "idEvenement": 32314,
+    "idSeance": 188215,
+    "dateHeure": "2025-03-06T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 51902,
+        "ordre": 1,
+        "idSeance": 188215,
+        "idCopie": 29138,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3654,
+    "typeEvenement": 13,
     "idEvenement": 32519,
     "idSeance": 185152,
     "dateHeure": "2025-03-06T18:00:00",
@@ -64,6 +87,29 @@
         "idCopie": 29347,
         "duree": 113,
         "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3654,
+    "typeEvenement": 13,
+    "idEvenement": 32315,
+    "idSeance": 185191,
+    "dateHeure": "2025-03-06T18:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 75413,
+        "ordre": 1,
+        "idSeance": 185191,
+        "idCopie": 29139,
+        "duree": 115,
+        "version": "",
         "format": "DCP"
       }
     ]
@@ -94,22 +140,22 @@
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
-    "idEvenement": 32315,
-    "idSeance": 185191,
-    "dateHeure": "2025-03-06T19:30:00",
+    "idEvenement": 32576,
+    "idSeance": 185190,
+    "dateHeure": "2025-03-06T20:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 75,
     "items": [
       {
-        "idFilm": 75413,
+        "idFilm": 68290,
         "ordre": 1,
-        "idSeance": 185191,
-        "idCopie": 29139,
-        "duree": 115,
-        "version": "",
+        "idSeance": 185190,
+        "idCopie": 29407,
+        "duree": 50,
+        "version": "INT. FR.",
         "format": "DCP"
       }
     ]
@@ -140,8 +186,8 @@
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
-    "idEvenement": 32314,
-    "idSeance": 188215,
+    "idEvenement": 32316,
+    "idSeance": 185280,
     "dateHeure": "2025-03-07T14:30:00",
     "idSalle": [
       "GF",
@@ -150,12 +196,12 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 51902,
+        "idFilm": 47374,
         "ordre": 1,
-        "idSeance": 188215,
-        "idCopie": 29138,
-        "duree": 98,
-        "version": "VOSTF",
+        "idSeance": 185280,
+        "idCopie": 29140,
+        "duree": 96,
+        "version": "INT. FR.",
         "format": "DCP"
       }
     ]
@@ -278,29 +324,6 @@
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
-    "idEvenement": 32316,
-    "idSeance": 185280,
-    "dateHeure": "2025-03-08T20:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 47374,
-        "ordre": 1,
-        "idSeance": 185280,
-        "idCopie": 29140,
-        "duree": 96,
-        "version": "INT. FR.",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3654,
-    "typeEvenement": 13,
     "idEvenement": 32432,
     "idSeance": 188245,
     "dateHeure": "2025-03-09T14:00:00",
@@ -411,6 +434,7 @@
         "version": "INT. FR.",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Accompagnement musical par Mocke, Emmanuelle Parrenin et Delphine Dora"
   }
 ]
