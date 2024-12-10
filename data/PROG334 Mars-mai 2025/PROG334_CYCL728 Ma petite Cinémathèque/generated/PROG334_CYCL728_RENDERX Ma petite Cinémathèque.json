@@ -6,37 +6,12 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 99842,
-          "content": [
-            {
-              "idFilm": 99842,
-              "ordre": 1,
-              "titre": "Azur et Asmar",
-              "realisateurs": "Michel Ocelot",
-              "pays": "France-Espagne",
-              "annee": 2006,
-              "duree": 90,
-              "version": "VF",
-              "format": "DCP",
-              "ageMinimal": 6
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 186937,
-              "dateHeure": "2025-05-07T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 6
-            }
-          ]
-        },
-        {
           "idFilm": 45203,
           "content": [
             {
               "idFilm": 45203,
               "ordre": 1,
-              "titre": "Cent un dalmatiens",
+              "titre": "101 dalmatiens",
               "art": "Les",
               "titreVo": "One Hundred and One Dalmatians",
               "artVo": "The",
@@ -45,7 +20,8 @@
               "annee": 1960,
               "duree": 80,
               "version": "VF",
-              "format": "DCP"
+              "format": "DCP",
+              "miniTexte": "Cruella d'Enfer, l'une des plus grandes méchantes de Disney, et ses rêves de fourrure, qui mettent en danger les nombreux chiots de Pongo et Perdita, deux somptueux dalmatiens. Kidnapping, ruses, poursuites rythment cette aventure sur la solidarité, vue à travers l'œil des animaux."
             }
           ],
           "seances": [
@@ -58,6 +34,32 @@
               "idSeance": 185570,
               "dateHeure": "2025-03-16T15:00:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 99842,
+          "content": [
+            {
+              "idFilm": 99842,
+              "ordre": 1,
+              "titre": "Azur et Asmar",
+              "realisateurs": "Michel Ocelot",
+              "pays": "France-Espagne",
+              "annee": 2006,
+              "duree": 90,
+              "version": "VF",
+              "format": "DCP",
+              "ageMinimal": 6,
+              "miniTexte": "Le blond Azur, héritier du châtelain, et le brun Asmar, fils de la nourrice, sont élevés comme des frères, jusqu'à ce que la vie les sépare. Ils se retrouvent bien plus tard, rêvant tous deux d'épouser la fée des Djinns. Un bijou d'animation imprégné de poésie, qui parle de tolérance et de fraternité."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 186937,
+              "dateHeure": "2025-05-07T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
             }
           ]
         },
@@ -114,7 +116,8 @@
                 "Johnny Depp",
                 "Freddie Highmore",
                 "David Kelly"
-              ]
+              ],
+              "miniTexte": "Grâce à un ticket d'or trouvé dans une tablette de chocolat, Charlie peut visiter l'usine de friandises de Willy Wonka (Johnny Depp, enchanteur). Une adaptation pétillante du grand classique de Roald Dahl, ou quand l'univers fantasque de l'écrivain rencontre l'esprit déjanté de Tim Burton."
             }
           ],
           "seances": [
@@ -143,7 +146,8 @@
                 "Edna Purviance",
                 "Leo White",
                 "John Rand"
-              ]
+              ],
+              "miniTexte": "Trois courts métrages avec Charlot : rendez-vous au cabaret (où Chaplin interprète deux spectateurs radicalement opposés), puis dans une soirée mondaine au cours de laquelle il se fait passer pour un noble, et enfin dans une station thermale, où il tente de se défaire de son alcoolisme."
             },
             {
               "idFilm": 31221,
@@ -153,7 +157,8 @@
               "artVo": "The",
               "realisateurs": "Charles Chaplin",
               "pays": "États-Unis",
-              "annee": 1916
+              "annee": 1916,
+              "ageMinimal": 6
             },
             {
               "idFilm": 36411,
@@ -234,7 +239,7 @@
                 "Meryl Streep",
                 "Bill Murray"
               ],
-              "miniTexte": "Un renard voleur de poules doit affronter trois redoutables fermiers. D'après Roald Dahl, un film d'aventures aux couleurs automnales, aux accents écologiques, en animation image par image de marionnettes, et qui aborde en douceur les thèmes de la famille et de la transmission chers à Wes Anderson."
+              "miniTexte": "Un renard voleur de poules doit affronter trois redoutables fermiers. D'après Roald Dahl, un film d'aventures aux nuances automnales, aux accents écologiques, en animation image par image de marionnettes, et qui aborde en douceur les thèmes de la famille et de la transmission chers à Wes Anderson."
             }
           ],
           "seances": [
@@ -261,7 +266,8 @@
               "duree": 80,
               "version": "",
               "format": "",
-              "ageMinimal": 6
+              "ageMinimal": 6,
+              "miniTexte": "Arrivant à New York après avoir été persécuté par des chats en Russie, un souriceau part courageusement à la recherche de ses parents à travers l'Amérique de la fin du XIX<sup>e</sup>. Quête initiatique, récit d'apprentissage, une parabole sur la condition d'immigré coproduite par Spielberg, qui donnera lieu à plusieurs suites."
             }
           ],
           "seances": [
@@ -292,7 +298,8 @@
                 "Bourvil",
                 "Marie Dubois",
                 "Terry-Thomas"
-              ]
+              ],
+              "miniTexte": "« Comment ça \"merde alors\" ! But alors you are french ?! » Paris, 1942. Un peintre en bâtiment et un chef d'orchestre recueillent des parachutistes anglais qu'ils doivent conduire à travers la France occupée. Le duo impayable Bourvil/De Funès, dans l'un des plus grands succès du cinéma français."
             }
           ],
           "seances": [
@@ -346,7 +353,8 @@
               "titreVo": "James and the Giant Peach",
               "realisateurs": "Henry Selick",
               "pays": "États-Unis",
-              "annee": 1995
+              "annee": 1995,
+              "miniTexte": "Plongée dans le merveilleux avec James, un orphelin maltraité par deux horribles tantes, qui reçoit un jour des langues de crocodile magiques. D'après le conte farfelu de Roald Dahl, un film sous influence burtonienne, mélange de prises de vues réelles et d'animation en volume."
             }
           ],
           "seances": [
@@ -366,7 +374,8 @@
               "titre": "Matilda",
               "realisateurs": "Danny DeVito",
               "pays": "États-Unis",
-              "annee": 1996
+              "annee": 1996,
+              "miniTexte": "Élevée par des parents bêtes et méchants, Matilda, brillante petite fille, entre enfin à l'école et découvre son pouvoir de télékinésie. Entre suspense et comédie caustique, une adaptation fidèle de l'œuvre de Roald Dahl, qui esquisse en contrepoint une vraie satire sociale."
             }
           ],
           "seances": [
@@ -400,7 +409,7 @@
                 "Marion Mack",
                 "Frank Barnes"
               ],
-              "miniTexte": "Amoureux de sa fiancée autant que de sa locomotive, le pacifique Johnnie Gray se retrouve, bien malgré lui, enrôlé dans la guerre de Sécession. Courses-poursuites sur les rails et batailles célèbres entre Sudistes et Nordistes, vues par le réalisateur burlesque et génial interprète au visage impassible, Buster Keaton."
+              "miniTexte": "Amoureux de sa fiancée autant que de sa locomotive, le pacifique Johnnie se retrouve enrôlé pendant la guerre de Sécession. Courses-poursuites sur les rails et batailles célèbres entre Sudistes et Nordistes, vues par le génie du burlesque au visage impassible. Chef-d'œuvre."
             }
           ],
           "seances": [
@@ -426,7 +435,8 @@
               "duree": 92,
               "version": "VF",
               "format": "DCP",
-              "ageMinimal": 4
+              "ageMinimal": 4,
+              "miniTexte": "À Monstropolis, où l'énergie est fournie par les cris d'enfants effrayés, deux monstres, Sulli et Bob, doivent raccompagner chez elle une petite fille égarée dans leur monde. Pour tordre le cou en riant aux peurs enfantines et apprendre à accepter les différences, une pépite signée Pixar, qui accumule prouesses techniques et répliques cultes."
             }
           ],
           "seances": [
@@ -449,7 +459,8 @@
               "realisateurs": "Isao Takahata",
               "pays": "Japon",
               "annee": 1973,
-              "ageMinimal": 3
+              "ageMinimal": 3,
+              "miniTexte": "Une merveille de poésie signée à quatre mains par les empereurs de l'animation japonaise, et l'un de leurs premiers travaux : la fusion de deux courts métrages, qui racontent les aventures d'une fillette et d'un bébé panda. Un incontournable."
             }
           ],
           "seances": [
@@ -480,7 +491,8 @@
                 "Jean-Pierre Léaud",
                 "Patrick Auffay",
                 "Claire Maurier"
-              ]
+              ],
+              "miniTexte": "Paris, place de Clichy, années 50. Le turbulent Antoine Doinel sèche l'école et traîne avec un camarade dans les rues et les cinémas du quartier. Premier long métrage de Truffaut, le film emblématique de la Nouvelle Vague brosse, derrière le visage de Jean-Pierre Léaud, un portrait sensible de l'enfance."
             }
           ],
           "seances": [
@@ -511,7 +523,8 @@
                 "Dominique Paturel",
                 "Claude Bertrand",
                 "Philippe Dumat"
-              ]
+              ],
+              "miniTexte": "Angleterre, forêt de Sherwood. Pour lutter contre le Prince Jean, souverain cupide et tyrannique, le malicieux Robin, aidé par sa bande d'amis, vole les riches pour nourrir les pauvres. L'adaptation par Disney de la légende médiévale, dans un univers drôle et enchanteur."
             }
           ],
           "seances": [
@@ -535,7 +548,8 @@
               "pays": "Japon",
               "annee": 2014,
               "ageMinimal": 7,
-              "adaptation": "D'après le roman _When Marnie was there_ de Joan G. Robinson."
+              "adaptation": "D'après le roman _When Marnie was there_ de Joan G. Robinson.",
+              "miniTexte": "Envoyée à la campagne pour soigner son asthme, une orpheline découvre une étrange demeure habitée par une autre fillette, Marnie. Une fable bouleversante sur l'enfance, la solitude, l'amour filial et les souvenirs de famille, qui explore l'imaginaire à travers une esthétique délicate."
             }
           ],
           "seances": [
@@ -559,7 +573,8 @@
               "annee": 2016,
               "duree": 61,
               "version": "",
-              "format": ""
+              "format": "",
+              "miniTexte": "Un réjouissant mélange de contes de fées, tout droit sorti de l'imaginaire extravagant de Roald Dahl, et qui fait se croiser Blanche-Neige, Cendrillon et le Petit Chaperon rouge, à la faveur de multiples histoires racontées par un loup."
             }
           ],
           "seances": [

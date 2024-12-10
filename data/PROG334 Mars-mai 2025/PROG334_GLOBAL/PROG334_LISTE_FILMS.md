@@ -287,7 +287,7 @@
   * Eugénie de Franval  
   * Juif de Lascaux (Le)  
   * LN 2/3  
-  * pieds dans les nuages (et la tête dans la lune) (Les)  
+  * Pieds dans les nuages (et la tête dans la lune) (Les)  
   * Retour des cinéphiles (Le)  
   * Skorecki déménage  
   * Skorecki devient producteur  
@@ -295,8 +295,8 @@
 
 ## Ma petite Cinémathèque (21)
 
+  * 101 dalmatiens (Les)  
   * Azur et Asmar  
-  * Cent un dalmatiens (Les)  
   * Chantons sous la pluie  
   * Charlie et la chocolaterie  
   * Charlot au music-hall  
