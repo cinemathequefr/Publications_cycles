@@ -4,26 +4,35 @@
 
   * AL
 
+## Films muets géorgiens (1)
+
+  * Chemi Bebia
+
 ## Henry Fonda (2)
 
   * Henry Fonda for President  
   * Vers sa destinée
 
-## Hommage au KOFA (4)
+## Hommage au KOFA (6)
 
   * Art de la chasteté (L')  
+  * Festival  
   * Jour où le cochon est tombé dans le puits (Le)  
   * Une balle perdue  
-  * Une ville natale
+  * Une ville natale  
+  * Widow (The)
 
 ## Jacques Bral (1)
 
   * Polar
 
-## John McTiernan (5)
+## John McTiernan (8)
 
   * À la poursuite d'Octobre rouge  
+  * Dernier Rivage (Le)  
+  * John McCabe  
   * Last Action Hero  
+  * Luna (La)  
   * Piège de cristal  
   * Predator  
   * Thomas Crown
@@ -44,7 +53,7 @@
   * Paris la belle  
   * Paris la nuit
 
-## Restaurations et incunables (18)
+## Restaurations et incunables (19)
 
   * Chair pour Frankenstein  
   * Chatte à deux têtes (La)  
@@ -53,6 +62,7 @@
   * Faust  
   * Happy Day  
   * Natsu no niwa  
+  * Nuit (La)  
   * Pékin central  
   * Prisonnière du désert (La)  
   * Règlement de comptes  

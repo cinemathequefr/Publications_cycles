@@ -307,15 +307,15 @@
   * Fievel et le nouveau monde  
   * Grande Vadrouille (La)  
   * Guerre des boutons (La)  
-  * James et la pêche géante  
-  * Matilda  
+  * King Kong  
   * Mécano de la General (Le)  
   * Monstres et Cie  
   * Panda, petit panda  
   * Quatre Cents Coups (Les)  
   * Robin des Bois  
   * Souvenirs de Marnie  
-  * Un conte peut en cacher un autre
+  * Un conte peut en cacher un autre  
+  * Zazie dans le métro
 
 ## Mike Leigh (19)
 
