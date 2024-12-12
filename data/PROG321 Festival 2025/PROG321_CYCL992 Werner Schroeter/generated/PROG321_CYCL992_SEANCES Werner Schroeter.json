@@ -4,10 +4,10 @@
     "typeEvenement": 13,
     "idEvenement": 32523,
     "idSeance": 188220,
-    "dateHeure": "2025-03-08T15:00:00",
+    "dateHeure": "2025-03-08T14:00:00",
     "idSalle": [
-      "LE",
-      "Lotte Eisner"
+      "HO",
+      "Hors les murs"
     ],
     "dureeSeance": 180,
     "items": [
@@ -23,11 +23,97 @@
     ]
   },
   {
+    "idCategorie": 3738,
+    "typeEvenement": 13,
+    "idEvenement": 32533,
+    "idSeance": 188302,
+    "dateHeure": "2025-03-08T17:00:00",
+    "idSalle": [
+      "LE",
+      "Lotte Eisner"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155123,
+        "ordre": 1,
+        "idSeance": 188302,
+        "idCopie": 29374,
+        "duree": 12,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155127,
+        "ordre": 2,
+        "idSeance": 188302,
+        "idCopie": 29375,
+        "duree": 5,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 155129,
+        "ordre": 3,
+        "idSeance": 188302,
+        "idCopie": 29376,
+        "duree": 4,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155128,
+        "ordre": 4,
+        "idSeance": 188302,
+        "idCopie": 29380,
+        "duree": 5,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155130,
+        "ordre": 5,
+        "idSeance": 188302,
+        "idCopie": 29378,
+        "duree": 3,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 153295,
+        "ordre": 6,
+        "idSeance": 188302,
+        "idCopie": 24128,
+        "duree": 13,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155131,
+        "ordre": 7,
+        "idSeance": 188302,
+        "idCopie": 29379,
+        "duree": 32,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155132,
+        "ordre": 8,
+        "idSeance": 188302,
+        "idCopie": 29377,
+        "duree": 11,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
     "idCategorie": 3739,
     "typeEvenement": 13,
     "idEvenement": 32526,
     "idSeance": 188232,
-    "dateHeure": "2025-03-08T19:00:00",
+    "dateHeure": "2025-03-09T14:00:00",
     "idSalle": [
       "LE",
       "Lotte Eisner"
@@ -86,6 +172,47 @@
         "idCopie": 29373,
         "duree": 0,
         "version": "VO",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3740,
+    "typeEvenement": 13,
+    "idEvenement": 32539,
+    "idSeance": 188303,
+    "dateHeure": "2025-03-09T16:00:00",
+    "idSalle": [
+      "LE",
+      "Lotte Eisner"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155136,
+        "ordre": 1,
+        "idSeance": 188303,
+        "idCopie": 29365,
+        "duree": 22,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 95434,
+        "ordre": 2,
+        "idSeance": 188303,
+        "idCopie": 29367,
+        "duree": 37,
+        "version": "VO",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155137,
+        "ordre": 3,
+        "idSeance": 188303,
+        "idCopie": 29366,
+        "duree": 33,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ]

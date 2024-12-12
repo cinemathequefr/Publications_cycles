@@ -10,6 +10,91 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 97416,
+          "content": [
+            {
+              "idFilm": 97416,
+              "ordre": 1,
+              "titre": "Barattage",
+              "art": "Le",
+              "titreVo": "Manthan",
+              "realisateurs": "Shyam Benegal",
+              "pays": "Inde",
+              "annee": 1976,
+              "duree": 134,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188300,
+              "dateHeure": "2025-03-07T20:30:00",
+              "idSalle": "LE"
+            }
+          ]
+        },
+        {
+          "idFilm": 30220,
+          "content": [
+            {
+              "idFilm": 30220,
+              "ordre": 1,
+              "titre": "Buffalo Bill et les Indiens",
+              "titreVo": "Buffalo Bill and the Indians or Sitting Bull's History Lesson",
+              "realisateurs": "Robert Altman",
+              "pays": "États-Unis",
+              "annee": 1975,
+              "duree": 123,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Paul Newman",
+                "Joel Grey",
+                "Kevin McCarthy"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188301,
+              "dateHeure": "2025-03-05T12:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 38035,
+          "content": [
+            {
+              "idFilm": 38035,
+              "ordre": 1,
+              "titre": "Chacal",
+              "titreVo": "Day of the Jackal",
+              "artVo": "The",
+              "realisateurs": "Fred Zinnemann",
+              "pays": "Grande-Bretagne-France",
+              "annee": 1972,
+              "duree": 143,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _The Day of the Jackal_ de Frederick Forsyth.",
+              "generique": [
+                "Edward Fox",
+                "Terence Alexander",
+                "Michel Auclair"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188296,
+              "dateHeure": "2025-03-05T12:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 58692,
           "content": [
             {
@@ -267,6 +352,29 @@
           ]
         },
         {
+          "idFilm": 41037,
+          "content": [
+            {
+              "idFilm": 41037,
+              "ordre": 1,
+              "titre": "Pirosmani",
+              "realisateurs": "Gueorgui Chenguelaia",
+              "pays": "URSS",
+              "annee": 1969,
+              "duree": 85,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188297,
+              "dateHeure": "2025-03-05T12:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 45920,
           "content": [
             {
@@ -419,6 +527,29 @@
           ]
         },
         {
+          "idFilm": 155138,
+          "content": [
+            {
+              "idFilm": 155138,
+              "ordre": 1,
+              "titre": "Tomorrow There Will Be Fine Weather",
+              "realisateurs": "Hiroshi Shimizu",
+              "pays": "Japon",
+              "annee": 1948,
+              "duree": 65,
+              "version": "VO",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188298,
+              "dateHeure": "2025-03-05T12:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 66215,
           "content": [
             {
@@ -564,6 +695,121 @@
               "idSeance": 188143,
               "dateHeure": "2025-03-08T14:30:00",
               "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 1,
+      "titreSousCycle": "Lorenza Mazzetti",
+      "items": [
+        {
+          "idFilm": 155139,
+          "content": [
+            {
+              "idFilm": 155139,
+              "ordre": 2,
+              "titre": "K",
+              "realisateurs": "Lorenza Mazzetti",
+              "pays": "Grande-Bretagne",
+              "annee": 1954,
+              "duree": 29,
+              "version": "VO",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "The Country Doctor",
+                    null
+                  ]
+                ],
+                [
+                  [
+                    "Together",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188299,
+              "dateHeure": "2025-03-05T12:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 155140,
+          "content": [
+            {
+              "idFilm": 155140,
+              "ordre": 1,
+              "titre": "The Country Doctor",
+              "realisateurs": "Lorenza Mazzetti",
+              "pays": "Grande-Bretagne",
+              "annee": 1953,
+              "duree": 11,
+              "version": "VO",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "K",
+                    null
+                  ],
+                  [
+                    "Together",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188299,
+              "dateHeure": "2025-03-05T12:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 42833,
+          "content": [
+            {
+              "idFilm": 42833,
+              "ordre": 3,
+              "titre": "Together",
+              "realisateurs": "Lorenza Mazzetti",
+              "pays": "Grande-Bretagne",
+              "annee": 1955,
+              "duree": 52,
+              "version": "VO",
+              "format": "DCP",
+              "precedeSuivi": [
+                [
+                  [
+                    "The Country Doctor",
+                    null
+                  ],
+                  [
+                    "K",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188299,
+              "dateHeure": "2025-03-05T12:00:00",
+              "idSalle": "HL"
             }
           ]
         }

@@ -30,8 +30,9 @@
 
   * Cinégraphies, les femmes de la tempête
 
-## Aujourd'hui le cinéma (12)
+## Aujourd'hui le cinéma (13)
 
+  * Baby-foot Boulevard  
   * Batguano  
   * Camille sans contact  
   * Cidade; Campo  
@@ -326,7 +327,7 @@
   * Be Happy  
   * Bleak Moments  
   * Deux filles d'aujourd'hui  
-  * Hard Truths  
+  * Deux sœurs  
   * High Hopes  
   * Life Is Sweet  
   * Meantime  
