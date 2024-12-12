@@ -30,9 +30,10 @@
 
   * Cinégraphies, les femmes de la tempête
 
-## Aujourd'hui le cinéma (13)
+## Aujourd'hui le cinéma (14)
 
   * Baby-foot Boulevard  
+  * Bataille d'Alger (La)  
   * Batguano  
   * Camille sans contact  
   * Cidade; Campo  
@@ -162,7 +163,7 @@
   * Si j'avais un million  
   * So This Is Paris  
   * Sumurun  
-  * To Be or Not To Be  
+  * To Be Or Not to Be  
   * Trois femmes  
   * Une heure près de toi  
   * Veuve joyeuse (La)  

@@ -37,66 +37,6 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Paul Nouhet",
-      "items": [
-        {
-          "idEvenement": 32501,
-          "content": [
-            {
-              "idFilm": 155151,
-              "ordre": 1,
-              "titre": "Baby-foot Boulevard",
-              "realisateurs": "Paul Nouhet",
-              "pays": "France",
-              "annee": 2017
-            },
-            {
-              "idFilm": 155112,
-              "ordre": 2,
-              "titre": "Méduses de Gouville",
-              "art": "Les",
-              "realisateurs": "Paul Nouhet",
-              "pays": "France",
-              "annee": 2018,
-              "duree": 21,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 155111,
-              "ordre": 3,
-              "titre": "Camille sans contact",
-              "realisateurs": "Paul Nouhet",
-              "pays": "France",
-              "annee": 2020,
-              "duree": 15,
-              "version": "",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 155110,
-              "ordre": 4,
-              "titre": "Salut les zins !",
-              "realisateurs": "Paul Nouhet",
-              "pays": "France",
-              "annee": 2023,
-              "duree": 46,
-              "version": "",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188167,
-              "dateHeure": "2025-05-12T19:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
       "titreSousCycle": "Antonin Peretjatko",
       "items": [
         {
@@ -242,9 +182,10 @@
     {
       "tri": 4,
       "titreSousCycle": "Hefse Guiro",
+      "texteSousCycle": "Durant la crise du Covid, 24h avant que la France ne ferme ses frontières, Mbaye tente de partir à Dakar retrouver sa compagne et sa famille. Un récit intime, simple et frontal, qui tire sa force de sa capacité à nous faire ressentir l'urgence et le déracinement avec délicatesse et à la bonne distance, dans un bel équilibre entre bienveillance et puissance. Pour sa carte blanche, Hefse Guiro présentera _La Bataille d'Alger_ de Gillo Pontecorvo.",
       "items": [
         {
-          "idFilm": 155118,
+          "idEvenement": 32649,
           "content": [
             {
               "idFilm": 155118,
@@ -252,7 +193,29 @@
               "titre": "Par-delà les montagnes",
               "realisateurs": "Hefse Guiro",
               "pays": "France",
-              "annee": 2024
+              "annee": 2024,
+              "duree": 23,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 42688,
+              "ordre": 2,
+              "titre": "Bataille d'Alger",
+              "art": "La",
+              "titreVo": "Battaglia di Algeri",
+              "artVo": "La",
+              "realisateurs": "Gillo Pontecorvo",
+              "pays": "Italie-Algérie",
+              "annee": 1965,
+              "duree": 121,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Brahim Hadjadj",
+                "Jean Martin",
+                "Yacef Saadi"
+              ]
             }
           ],
           "seances": [
@@ -261,6 +224,66 @@
               "dateHeure": "2025-05-05T19:00:00",
               "idSalle": "JE",
               "mention": "Séance suivie d'une discussion avec Hefse Guiro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Paul Nouhet",
+      "items": [
+        {
+          "idEvenement": 32501,
+          "content": [
+            {
+              "idFilm": 155151,
+              "ordre": 1,
+              "titre": "Baby-foot Boulevard",
+              "realisateurs": "Paul Nouhet",
+              "pays": "France",
+              "annee": 2017
+            },
+            {
+              "idFilm": 155112,
+              "ordre": 2,
+              "titre": "Méduses de Gouville",
+              "art": "Les",
+              "realisateurs": "Paul Nouhet",
+              "pays": "France",
+              "annee": 2018,
+              "duree": 21,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155111,
+              "ordre": 3,
+              "titre": "Camille sans contact",
+              "realisateurs": "Paul Nouhet",
+              "pays": "France",
+              "annee": 2020,
+              "duree": 15,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155110,
+              "ordre": 4,
+              "titre": "Salut les zins !",
+              "realisateurs": "Paul Nouhet",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 46,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188167,
+              "dateHeure": "2025-05-12T19:00:00",
+              "idSalle": "JE"
             }
           ]
         }
@@ -327,7 +350,7 @@
         "dateHeure": "2025-04-14T19:30:00"
       },
       {
-        "titreFilms": "Par-delà les montagnes",
+        "titreFilms": "Par-delà les montagnes / La Bataille d'Alger",
         "mention": "avec Hefse Guiro",
         "dateHeure": "2025-05-05T19:00:00"
       }

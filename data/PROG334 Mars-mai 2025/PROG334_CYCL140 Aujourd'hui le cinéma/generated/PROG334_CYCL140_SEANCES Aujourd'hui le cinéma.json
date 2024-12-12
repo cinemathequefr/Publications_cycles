@@ -128,7 +128,7 @@
   {
     "idCategorie": 3733,
     "typeEvenement": 13,
-    "idEvenement": 32512,
+    "idEvenement": 32649,
     "idSeance": 186906,
     "dateHeure": "2025-05-05T19:00:00",
     "idSalle": [
@@ -139,7 +139,21 @@
     "items": [
       {
         "idFilm": 155118,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 186906,
+        "idCopie": 29439,
+        "duree": 23,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 42688,
+        "ordre": 2,
+        "idSeance": 186906,
+        "idCopie": 15775,
+        "duree": 121,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "mention": "Séance suivie d'une discussion avec Hefse Guiro"

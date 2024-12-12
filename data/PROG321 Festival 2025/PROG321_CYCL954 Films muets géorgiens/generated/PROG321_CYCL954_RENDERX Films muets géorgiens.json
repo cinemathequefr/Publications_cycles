@@ -10,29 +10,6 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 155146,
-          "content": [
-            {
-              "idFilm": 155146,
-              "ordre": 1,
-              "titre": "Chemi Bebia",
-              "realisateurs": "Kote Mikaberidze",
-              "pays": "URSS-Géorgie",
-              "annee": 1929,
-              "duree": 61,
-              "version": "VOSTF",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188290,
-              "dateHeure": "2025-03-08T19:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 155145,
           "content": [
             {
@@ -44,7 +21,13 @@
               "annee": 1928,
               "duree": 80,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Kira Andronikashvili",
+                "Kokhta Karalashvili",
+                "Aleqsandre Imedashvili"
+              ],
+              "miniTexte": "À travers l'histoire d'une jeune musulmane des montagnes, amoureuse d'un chrétien, _Elisso_ raconte l'expropriation illégale d'un village tchétchène par le régime tsariste en 1864. Tourné dans les villages du Caucase et sur les hauts plateaux de Géorgie, le film offre, entre autres paysages grandioses et personnages hauts en couleurs, l'une des plus belle scène de lezginka (danse des peuples caucasiens), saluée par Eisenstein."
             }
           ],
           "seances": [
@@ -68,7 +51,13 @@
               "annee": 1931,
               "duree": 65,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Niko Gotsiridze",
+                "Sh. Asatiani",
+                "P. Chkonia"
+              ],
+              "miniTexte": "À Tbilissi dans les années 1920, lorsque le pouvoir décide de rénover la ville en rasant l'église, un groupe de notables tente de sauver l'édifice. Exemple rare de comédie satirique soviétique, _Hors du chemin !_ se moque des tensions entre les valeurs de la petite bourgeoisie et l'arrivée de l'idéologie communiste, que le cinéaste – également sculpteur et caricaturiste – décrit avec ingéniosité et esprit burlesque. Néanmoins propagandiste, son style annonce le réalisme socialiste."
             }
           ],
           "seances": [
@@ -80,18 +69,56 @@
           ]
         },
         {
+          "idFilm": 155146,
+          "content": [
+            {
+              "idFilm": 155146,
+              "ordre": 1,
+              "titre": "My Grandmother",
+              "titreVo": "Chemi Bebia",
+              "realisateurs": "Kote Mikaberidze",
+              "pays": "URSS-Géorgie",
+              "annee": 1929,
+              "duree": 61,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Aleqsandre Takaishvili",
+                "Bela Chernova",
+                "E. Ovanov"
+              ],
+              "isFocus": true,
+              "miniTexte": "Modèle d'excentricité du cinéma soviétique d'avant-garde, l'histoire est celle d'un employé licencié qui tente de récupérer son poste grâce à la recommandation d'une « grand-mère », un protecteur haut placé. Critique acerbe du système bureaucratique, le film est un déchaînement de techniques expérimentales (stop-motion, perspective, montage rapide), entre slapstick, constructivisme et futurisme. Interdit pendant près de 40 ans, il est depuis reconnu comme un chef-d'œuvre du cinéma muet géorgien."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188290,
+              "dateHeure": "2025-03-08T19:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 155143,
           "content": [
             {
               "idFilm": 155143,
               "ordre": 1,
-              "titre": "Janki Guirashi",
+              "titre": "Uprising in Guria",
+              "titreVo": "Janki Guirashi",
               "realisateurs": "Alexandre Tsutsunava",
               "pays": "URSS-Géorgie",
               "annee": 1928,
               "duree": 180,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Aleqsandr Mesniaev",
+                "Kotsia Eristavi",
+                "I. Korsunskaia"
+              ],
+              "miniTexte": "Sur les bords de la mer Noire au XIX<sup>e</sup> siècle, la révolte paysanne de la région de Gourie, contre les nouvelles taxes imposées par le gouvernement. Rejoints par plusieurs nobles locaux, les rebelles s'emparent d'une grande partie du pays, avant de capituler face à l'armée impériale russe. Une épopée nationale adaptée à l'écran par un pionnier du cinéma caucasien, d'après les écrits de Egnate Ninoshvili, écrivain prolétaire et père fondateur du mouvement marxiste géorgien."
             }
           ],
           "seances": [
@@ -108,13 +135,20 @@
             {
               "idFilm": 155144,
               "ordre": 1,
-              "titre": "Vin aris damnashave ?",
+              "titre": "Who is Guilty?",
+              "titreVo": "Vin aris damnashave ?",
               "realisateurs": "Alexandre Tsutsunava",
               "pays": "URSS-Géorgie",
               "annee": 1925,
               "duree": 105,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Kote Mikaberidze",
+                "Tsetsilia Tsutsunava",
+                "Nato Vachnadze"
+              ],
+              "miniTexte": "D'après la pièce de Nino Nakashidze, le destin d'un cavalier agricole, parti faire fortune en Amérique, alors que le malheur et le désespoir s'abattent sur son épouse. Scènes de la vie quotidienne, fêtes de village, spectacles de cirque et courses de chevaux acrobatiques s'enchaînent à un rythme effréné. Des images à couper le souffle, sur fond de tragédie domestique, emmenée par une foule de personnages pittoresques, d'une richesse extraordinaire."
             }
           ],
           "seances": [

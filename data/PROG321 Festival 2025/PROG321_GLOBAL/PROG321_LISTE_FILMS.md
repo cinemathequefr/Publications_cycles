@@ -6,28 +6,30 @@
 
 ## Films muets géorgiens (5)
 
-  * Chemi Bebia  
   * Elisso  
   * Hors du chemin !  
-  * Janki Guirashi  
-  * Vin aris damnashave ?
+  * My Grandmother  
+  * Uprising in Guria  
+  * Who is Guilty?
 
-## Henry Fonda (2)
+## Henry Fonda (3)
 
   * Henry Fonda for President  
+  * Point limite  
   * Vers sa destinée
 
 ## Hommage au KOFA (6)
 
-  * Art de la chasteté (L')  
+  * Arche de la chasteté (L')  
   * Festival  
   * Jour où le cochon est tombé dans le puits (Le)  
   * Une balle perdue  
   * Une ville natale  
   * Widow (The)
 
-## Jacques Bral (1)
+## Jacques Bral (2)
 
+  * Extérieur, nuit  
   * Polar
 
 ## John McTiernan (8)
@@ -41,8 +43,9 @@
   * Predator  
   * Thomas Crown
 
-## Marleen Gorris (2)
+## Marleen Gorris (3)
 
+  * Last Island (The)  
   * Miroirs brisés  
   * Silence autour de Christine M. (Le)
 
