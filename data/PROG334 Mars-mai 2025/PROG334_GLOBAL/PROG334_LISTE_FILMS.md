@@ -403,6 +403,10 @@
   * Un jeu de mort  
   * Ville captive (La)
 
+## Séances spéciales (1)
+
+  * Bulle Ogier, portrait d'une étoile cachée
+
 ## Wes Anderson (15)
 
   * À bord du Darjeeling Limited  

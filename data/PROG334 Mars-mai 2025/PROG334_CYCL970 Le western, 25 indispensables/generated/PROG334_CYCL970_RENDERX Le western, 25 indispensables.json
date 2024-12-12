@@ -226,7 +226,8 @@
             {
               "idSeance": 186599,
               "dateHeure": "2025-04-24T18:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -515,7 +516,8 @@
             {
               "idSeance": 187956,
               "dateHeure": "2025-04-26T19:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -639,7 +641,8 @@
             {
               "idSeance": 186221,
               "dateHeure": "2025-04-10T18:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -805,5 +808,23 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "La Rivière rouge",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2025-04-10T18:00:00"
+      },
+      {
+        "titreFilms": "Deux hommes dans l'Ouest",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2025-04-24T18:00:00"
+      },
+      {
+        "titreFilms": "Il était une fois dans l'Ouest",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2025-04-26T19:00:00"
+      }
+    ]
+  }
 }
