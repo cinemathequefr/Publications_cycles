@@ -55,7 +55,7 @@
   * Pétomane (Le)  
   * Plus beau que moi, tu meurs
 
-## David Cronenberg (36)
+## David Cronenberg (37)
 
   * A Dangerous Method  
   * A History of Violence  
@@ -68,6 +68,7 @@
   * Dead Zone  
   * Death of David Cronenberg (The)  
   * eXistenZ  
+  * Faith Healer (The)  
   * Fast Company  
   * Faux-semblants  
   * Festin nu (Le)  

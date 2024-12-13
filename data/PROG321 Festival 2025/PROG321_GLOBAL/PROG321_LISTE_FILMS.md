@@ -10,7 +10,7 @@
   * Hors du chemin !  
   * My Grandmother  
   * Uprising in Guria  
-  * Who is Guilty?
+  * Who Is the Guilty?
 
 ## Henry Fonda (3)
 
@@ -93,14 +93,14 @@
 
 ## Susan Seidelman (4)
 
-  * Diable (La)  
   * Et la femme créa l'homme parfait  
   * Recherche Susan désespérément  
+  * She-Devil, la diable (La)  
   * Smithereens
 
 ## Une certaine histoire du cinéma flamand (3)
 
-  * Deans  
+  * Daens  
   * Malpertuis  
   * Mouettes meurent au port (Les)
 
