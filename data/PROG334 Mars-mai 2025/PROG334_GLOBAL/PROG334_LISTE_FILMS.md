@@ -13,7 +13,7 @@
   * Fille de Shanghai (La)  
   * Fleur de lotus  
   * Grain de son  
-  * Hollywood – Episode 7: A Hollywood ending  
+  * Hollywood, épisode 7 : A Hollywood Ending  
   * Île des hommes perdus (L')  
   * Marchande de rêves (La)  
   * Monsieur Wu  
