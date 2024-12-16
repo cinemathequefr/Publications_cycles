@@ -37,7 +37,7 @@
   * Batguano  
   * Camille sans contact  
   * Cidade; Campo  
-  * Festa major  
+  * Festa Major  
   * Gilbert Grape  
   * Malo fait du vélo  
   * Méduses de Gouville (Les)  
