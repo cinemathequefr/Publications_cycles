@@ -1,0 +1,1 @@
+> Le retour d'un rendez-vous historique dans la longue histoire de la Cinémathèque : les séances d'Histoire permanente du cinéma, ou la possibilité de voir et revoir de grands classiques du cinéma en après-midi.

@@ -6,11 +6,11 @@
 
 ## Films muets géorgiens (5)
 
+  * À qui la faute ?  
   * Elisso  
   * Hors du chemin !  
-  * My Grandmother  
-  * Uprising in Guria  
-  * Who Is the Guilty?
+  * Ma grand-mère  
+  * Révolte en Gourie
 
 ## Henry Fonda (3)
 
@@ -55,14 +55,28 @@
   * Ossos  
   * Sang (Le)
 
-## Raretés des collections (3)
+## Raretés des collections (16)
 
+  * Amalfi  
+  * Aubervilliers  
+  * Autopolis  
+  * Bergamo  
+  * Cœur de bonne  
+  * D'une brousse à l'autre  
+  * Fortuna Ciabattino  
+  * Légende de Pierrette), (La)  
+  * Lys noir (Le)  
+  * Nanouk l'esquimau  
   * Notre-Dame, cathédrale de Paris  
   * Paris la belle  
-  * Paris la nuit
+  * Paris la nuit  
+  * Schneider et les lions  
+  * Sire di Vincigliata (Il)  
+  * Zone (La)
 
-## Restaurations et incunables (27)
+## Restaurations et incunables (31)
 
+  * Bande du Rex (La)  
   * Barattage (Le)  
   * Buffalo Bill et les Indiens  
   * Chacal  
@@ -71,14 +85,17 @@
   * Cousin, cousine  
   * En rade  
   * Faust  
+  * Fleuve de la mort (Le)  
   * Happy Day  
   * K  
+  * Narayana  
   * Natsu no niwa  
   * Nuit (La)  
   * Pékin central  
   * Pirosmani  
   * Prisonnière du désert (La)  
   * Règlement de comptes  
+  * Socrate (Le)  
   * Sur mes lèvres  
   * Tache de sang (La)  
   * Tamango  
@@ -98,11 +115,16 @@
   * She-Devil, la diable (La)  
   * Smithereens
 
-## Une certaine histoire du cinéma flamand (3)
+## Une certaine histoire du cinéma flamand (8)
 
+  * Any Way the Wind Blows  
   * Daens  
+  * Harpya  
+  * Homme au crâne rasé (L')  
   * Malpertuis  
-  * Mouettes meurent au port (Les)
+  * Meisje  
+  * Mouettes meurent au port (Les)  
+  * Une tragédie grecque
 
 ## Werner Schroeter (18)
 
@@ -111,7 +133,7 @@
   * Callas Walking Lucia  
   * Carla  
   * Carla Salome  
-  * Flocons d'or  
+  * Flocons d'or (Les)  
   * Himmel Hoch  
   * Home Movie  
   * Ica Vilander  
@@ -120,7 +142,7 @@
   * Mona Lisa  
   * Morte d'Isotta (La)  
   * Neurasia  
-  * Paula -« Je reviens »  
+  * Paula – « Je reviens »  
   * Portrait de Maria Callas  
   * Verner  
   * Verona  

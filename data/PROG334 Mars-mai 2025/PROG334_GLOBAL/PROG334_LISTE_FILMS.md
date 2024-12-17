@@ -397,7 +397,7 @@
   * Récupérateur de cadavres (Le)  
   * Secrets de femme  
   * Something for the Birds  
-  * Star !  
+  * Star!  
   * Star Trek, le film  
   * Tour des ambitieux (La)  
   * Un jeu de mort  
