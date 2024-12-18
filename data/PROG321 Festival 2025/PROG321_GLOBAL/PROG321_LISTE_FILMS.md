@@ -63,8 +63,8 @@
   * Bergamo  
   * Cœur de bonne  
   * D'une brousse à l'autre  
-  * Fortuna Ciabattino  
-  * Légende de Pierrette), (La)  
+  * Giovanni Vitrotti  
+  * Légende de Pierrette (La)  
   * Lys noir (Le)  
   * Nanouk l'esquimau  
   * Notre-Dame, cathédrale de Paris  
