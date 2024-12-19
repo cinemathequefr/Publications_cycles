@@ -132,17 +132,17 @@
   * Argila  
   * Callas Walking Lucia  
   * Carla  
-  * Carla Salome  
+  * Carla Salomé  
   * Flocons d'or (Les)  
   * Himmel Hoch  
   * Home Movie  
   * Ica Vilander  
   * Magdalena  
-  * Maria Callas singt 1957 rezitativ und arie der Elvira aus Ernani 1844 von Giuseppe Verdi  
+  * Maria Callas Singt 1957 Rezitativ und Arie der Elvira aus Ernani 1844 von Giuseppe Verdi  
   * Mona Lisa  
   * Morte d'Isotta (La)  
   * Neurasia  
-  * Paula – « Je reviens »  
+  * Paula – "Je reviens"  
   * Portrait de Maria Callas  
   * Verner  
   * Verona  
