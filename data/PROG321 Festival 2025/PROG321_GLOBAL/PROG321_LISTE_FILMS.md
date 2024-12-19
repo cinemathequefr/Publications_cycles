@@ -87,9 +87,9 @@
   * Faust  
   * Fleuve de la mort (Le)  
   * Happy Day  
+  * Jardin d'été  
   * K  
   * Narayana  
-  * Natsu no niwa  
   * Nuit (La)  
   * Pékin central  
   * Pirosmani  
@@ -112,7 +112,7 @@
 
   * Et la femme créa l'homme parfait  
   * Recherche Susan désespérément  
-  * She-Devil, la diable (La)  
+  * She-Devil, la diable  
   * Smithereens
 
 ## Une certaine histoire du cinéma flamand (8)
