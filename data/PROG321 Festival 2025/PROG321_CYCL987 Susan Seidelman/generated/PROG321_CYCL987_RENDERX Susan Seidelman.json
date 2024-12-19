@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-03-07T16:30:00",
-    "2025-03-09T15:30:00"
+    "2025-03-09T17:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -130,7 +130,39 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 32553,
+          "content": [
+            {
+              "idConf": 32553,
+              "titre": "Dialogue avec Susan Seidelman",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Pauline de Raymond",
+              "miniTexte": "« Madonna a avoué partager beaucoup de points communs avec le personnage de Susan. Toutes deux utilisent leurs talents de persuasion pour amener amis et amants à faire ce qu'elles veulent. Toutes deux sont de charmantes arnaqueuses, capables de vous manipuler sans que vous ne vous en rendiez compte. Il y a là un art de la séduction, et Madonna le maîtrise à la perfection. C'est une séductrice qui fait en sorte que toutes les personnes avec qui elle flirte se sentent un peu plus sexy. Hommes et femmes. C'est son don. » (Susan Seidelman)"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188340,
+              "dateHeure": "2025-03-09T17:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "avec Susan Seidelman",
+        "dateHeure": "2025-03-09T17:30:00"
+      }
+    ]
+  }
 }

@@ -10,7 +10,7 @@
   * Dame de Tchoung-King (La)  
   * Dangereux à connaître  
   * Driven from Home  
-  * Fille de Shanghai (La)  
+  * Fille de Shanghaï (La)  
   * Fleur de lotus  
   * Grain de son  
   * Hollywood, épisode 7 : A Hollywood Ending  
@@ -403,9 +403,11 @@
   * Un jeu de mort  
   * Ville captive (La)
 
-## Séances spéciales (1)
+## Séances spéciales (3)
 
-  * Bulle Ogier, portrait d'une étoile cachée
+  * Bulle Ogier, portrait d'une étoile cachée  
+  * Cinquième plan de La Jetée (Le)  
+  * Derniers Parisiens (Les)
 
 ## Wes Anderson (15)
 

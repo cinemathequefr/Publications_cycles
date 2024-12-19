@@ -3,6 +3,37 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Avant-première Dominique Cabrera",
+      "items": [
+        {
+          "idFilm": 155072,
+          "content": [
+            {
+              "idFilm": 155072,
+              "ordre": 1,
+              "titre": "Cinquième plan de La Jetée",
+              "art": "Le",
+              "realisateurs": "Dominique Cabrera",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 104,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185957,
+              "dateHeure": "2025-03-31T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Avant-première",
       "items": [
         {
@@ -24,12 +55,59 @@
             {
               "idSeance": 186524,
               "dateHeure": "2025-04-21T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "[Collimateur]",
+      "items": [
+        {
+          "idFilm": 134435,
+          "content": [
+            {
+              "idFilm": 134435,
+              "ordre": 1,
+              "titre": "Derniers Parisiens",
+              "art": "Les",
+              "realisateurs": "Hamé, Ekoué",
+              "pays": "France",
+              "annee": 2015,
+              "duree": 105,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Reda Kateb",
+                "Slimane Dazi",
+                "Mélanie Laurent"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188343,
+              "dateHeure": "2025-04-28T16:30:00",
+              "idSalle": "JE"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Avant-premières": [
+      {
+        "dateHeure": "2025-03-31T20:00:00",
+        "titreFilms": "Le Cinquième plan de La Jetée"
+      },
+      {
+        "dateHeure": "2025-04-21T20:00:00",
+        "titreFilms": "Bulle Ogier, portrait d'une étoile cachée"
+      }
+    ]
+  }
 }

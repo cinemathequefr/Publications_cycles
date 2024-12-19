@@ -287,29 +287,28 @@
     "hashEvenement": "f41219"
   },
   {
-    "idSeance": 188225,
-    "idEvenement": 32643,
-    "dateHeure": "2025-03-05T14:00:00",
+    "idSeance": 188215,
+    "idEvenement": 32314,
+    "dateHeure": "2025-03-05T14:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "John McTiernan",
-        "Carte blanche à John McTiernan"
+        "Restaurations et incunables",
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 43482,
-        "titre": "Luna",
-        "art": "La",
-        "realisateurs": "Bernardo Bertolucci",
-        "annee": 1978,
-        "duree": 140,
+        "idFilm": 51902,
+        "titre": "Tamango",
+        "realisateurs": "John Berry",
+        "annee": 1957,
+        "duree": 98,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f43482"
+    "hashEvenement": "f51902"
   },
   {
     "idSeance": 188159,
@@ -679,6 +678,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Wouter Hessels",
     "items": [
       {
         "idFilm": 111941,
@@ -694,34 +694,10 @@
     "hashEvenement": "f111941"
   },
   {
-    "idSeance": 188141,
-    "idEvenement": 32231,
-    "dateHeure": "2025-03-06T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Henry Fonda",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 32400,
-        "titre": "Vers sa destinée",
-        "realisateurs": "John Ford",
-        "annee": 1939,
-        "duree": 101,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f32400"
-  },
-  {
     "idSeance": 188144,
     "idEvenement": 32287,
     "dateHeure": "2025-03-06T17:00:00",
-    "salle": "HL",
+    "salle": "GF",
     "cycle": [
       [
         "John McTiernan",
@@ -740,6 +716,31 @@
       }
     ],
     "hashEvenement": "f33601"
+  },
+  {
+    "idSeance": 188141,
+    "idEvenement": 32231,
+    "dateHeure": "2025-03-06T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Henry Fonda",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Alexander Horwath",
+    "items": [
+      {
+        "idFilm": 32400,
+        "titre": "Vers sa destinée",
+        "realisateurs": "John Ford",
+        "annee": 1939,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f32400"
   },
   {
     "idSeance": 188161,
@@ -813,6 +814,10 @@
       [
         "Restaurations et incunables",
         "Les films"
+      ],
+      [
+        "Restaurations et incunables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -823,9 +828,15 @@
         "annee": 2001,
         "duree": 115,
         "format": "DCP"
+      },
+      {
+        "idConf": 32664,
+        "titre": "Dialogue avec Jacques Audiard",
+        "typeConference": "Dialogue",
+        "duree": 75
       }
     ],
-    "hashEvenement": "f75413"
+    "hashEvenement": "f75413c32664"
   },
   {
     "idSeance": 185152,
@@ -923,6 +934,31 @@
     "hashEvenement": "f50161"
   },
   {
+    "idSeance": 188225,
+    "idEvenement": 32643,
+    "dateHeure": "2025-03-07T14:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "John McTiernan",
+        "Carte blanche à John McTiernan"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43482,
+        "titre": "Luna",
+        "art": "La",
+        "realisateurs": "Bernardo Bertolucci",
+        "annee": 1978,
+        "duree": 140,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f43482"
+  },
+  {
     "idSeance": 188214,
     "idEvenement": 31797,
     "dateHeure": "2025-03-07T14:00:00",
@@ -1010,30 +1046,6 @@
       }
     ],
     "hashEvenement": "f114225f108229"
-  },
-  {
-    "idSeance": 188215,
-    "idEvenement": 32314,
-    "dateHeure": "2025-03-07T14:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51902,
-        "titre": "Tamango",
-        "realisateurs": "John Berry",
-        "annee": 1957,
-        "duree": 98,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f51902"
   },
   {
     "idSeance": 188318,
@@ -1132,28 +1144,26 @@
     "hashEvenement": "f155067"
   },
   {
-    "idSeance": 185234,
-    "idEvenement": 32432,
+    "idSeance": 188338,
+    "idEvenement": 32575,
     "dateHeure": "2025-03-07T18:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Restaurations et incunables",
-        "Les films"
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 44903,
-        "titre": "Faust",
-        "realisateurs": "Friedrich Wilhelm Murnau",
-        "annee": 1926,
-        "duree": 107,
-        "version": "INT. FR.",
-        "format": "DCP"
+        "idConf": 32575,
+        "titre": "La « Bible » du Faust de F. W. Murnau. Conférence de Laurent Mannoni",
+        "sousTitre": "Conférence de Laurent Mannoni",
+        "typeConference": "Conférence",
+        "duree": 90
       }
     ],
-    "hashEvenement": "f44903"
+    "hashEvenement": "c32575"
   },
   {
     "idSeance": 188221,
@@ -1253,6 +1263,30 @@
   },
   {
     "idSeance": 188336,
+    "idEvenement": 32432,
+    "dateHeure": "2025-03-07T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 44903,
+        "titre": "Faust",
+        "realisateurs": "Friedrich Wilhelm Murnau",
+        "annee": 1926,
+        "duree": 107,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f44903"
+  },
+  {
+    "idSeance": 188341,
     "idEvenement": 32432,
     "dateHeure": "2025-03-07T20:30:00",
     "salle": "HL",
@@ -1576,6 +1610,27 @@
     "hashEvenement": "f155123f155127f155129f155128f155130f153295f155131f155132"
   },
   {
+    "idSeance": 188339,
+    "idEvenement": 32550,
+    "dateHeure": "2025-03-08T16:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "John McTiernan",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 32550,
+        "titre": "Dialogue avec John McTiernan",
+        "typeConference": "Dialogue",
+        "duree": 75
+      }
+    ],
+    "hashEvenement": "c32550"
+  },
+  {
     "idSeance": 188143,
     "idEvenement": 32310,
     "dateHeure": "2025-03-08T16:45:00",
@@ -1651,7 +1706,7 @@
   {
     "idSeance": 185275,
     "idEvenement": 32290,
-    "dateHeure": "2025-03-08T17:30:00",
+    "dateHeure": "2025-03-08T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1745,31 +1800,6 @@
     "hashEvenement": "f155146"
   },
   {
-    "idSeance": 185292,
-    "idEvenement": 31799,
-    "dateHeure": "2025-03-08T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 45920,
-        "titre": "Prisonnière du désert",
-        "art": "La",
-        "realisateurs": "John Ford",
-        "annee": 1955,
-        "duree": 119,
-        "version": "VOSTF",
-        "format": "70 mm"
-      }
-    ],
-    "hashEvenement": "f45920"
-  },
-  {
     "idSeance": 185279,
     "idEvenement": 32386,
     "dateHeure": "2025-03-08T20:30:00",
@@ -1792,6 +1822,31 @@
       }
     ],
     "hashEvenement": "f36728"
+  },
+  {
+    "idSeance": 185292,
+    "idEvenement": 31799,
+    "dateHeure": "2025-03-08T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45920,
+        "titre": "Prisonnière du désert",
+        "art": "La",
+        "realisateurs": "John Ford",
+        "annee": 1955,
+        "duree": 119,
+        "version": "VOSTF",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f45920"
   },
   {
     "idSeance": 185232,
@@ -1820,7 +1875,7 @@
   {
     "idSeance": 185190,
     "idEvenement": 32576,
-    "dateHeure": "2025-03-09T14:00:00",
+    "dateHeure": "2025-03-09T13:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2071,6 +2126,27 @@
       }
     ],
     "hashEvenement": "f30582"
+  },
+  {
+    "idSeance": 188340,
+    "idEvenement": 32553,
+    "dateHeure": "2025-03-09T17:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Susan Seidelman",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 32553,
+        "titre": "Dialogue avec Susan Seidelman",
+        "typeConference": "Dialogue",
+        "duree": 75
+      }
+    ],
+    "hashEvenement": "c32553"
   },
   {
     "idSeance": 188324,

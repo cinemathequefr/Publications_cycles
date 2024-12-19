@@ -263,12 +263,14 @@
           ],
           "seances": [
             {
-              "idSeance": 185234,
-              "dateHeure": "2025-03-07T18:00:00",
-              "idSalle": "GF"
+              "idSeance": 188336,
+              "idSeanceAssoc": 188338,
+              "typeAssoc": 117,
+              "dateHeure": "2025-03-07T20:30:00",
+              "idSalle": "HL"
             },
             {
-              "idSeance": 188336,
+              "idSeance": 188341,
               "dateHeure": "2025-03-07T20:30:00",
               "idSalle": "HL"
             }
@@ -492,7 +494,7 @@
           "seances": [
             {
               "idSeance": 185292,
-              "dateHeure": "2025-03-08T20:00:00",
+              "dateHeure": "2025-03-08T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -559,30 +561,46 @@
           ]
         },
         {
-          "idFilm": 75413,
-          "content": [
+          "groupe": [
             {
               "idFilm": 75413,
-              "ordre": 1,
-              "titre": "Sur mes lèvres",
-              "realisateurs": "Jacques Audiard",
-              "pays": "France",
-              "annee": 2001,
-              "duree": 115,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Vincent Cassel",
-                "Emmanuelle Devos",
-                "Olivier Gourmet"
+              "content": [
+                {
+                  "idFilm": 75413,
+                  "ordre": 1,
+                  "titre": "Sur mes lèvres",
+                  "realisateurs": "Jacques Audiard",
+                  "pays": "France",
+                  "annee": 2001,
+                  "duree": 115,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Vincent Cassel",
+                    "Emmanuelle Devos",
+                    "Olivier Gourmet"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 185191,
-              "dateHeure": "2025-03-06T20:00:00",
-              "idSalle": "HL"
+              "idEvenement": 32664,
+              "content": [
+                {
+                  "idConf": 32664,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jacques Audiard",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 185191,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-03-06T20:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -612,7 +630,7 @@
           "seances": [
             {
               "idSeance": 185190,
-              "dateHeure": "2025-03-09T14:00:00",
+              "dateHeure": "2025-03-09T13:30:00",
               "idSalle": "HL"
             }
           ]
@@ -640,7 +658,7 @@
           "seances": [
             {
               "idSeance": 188215,
-              "dateHeure": "2025-03-07T14:30:00",
+              "dateHeure": "2025-03-05T14:30:00",
               "idSalle": "GF"
             }
           ]
@@ -935,5 +953,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Sur mes lèvres",
+        "mention": "avec Jacques Audiard",
+        "dateHeure": "2025-03-06T20:00:00"
+      }
+    ]
+  }
 }

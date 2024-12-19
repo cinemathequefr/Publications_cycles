@@ -74,7 +74,44 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Avant-première Arte",
+      "items": [
+        {
+          "idFilm": 155071,
+          "content": [
+            {
+              "idFilm": 155071,
+              "ordre": 1,
+              "titre": "Vincent Lindon, cœur sanglant",
+              "realisateurs": "Thierry Demaizière, Alban Teurlai",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 83,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188342,
+              "dateHeure": "2025-01-06T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2025-01-06T20:00:00",
+        "titreFilms": "Vincent Lindon, cœur sanglant"
+      }
+    ]
+  }
 }

@@ -416,10 +416,11 @@
   * Sergueï Paradjanov, le rebelle  
   * Une petite fleur sur la pierre
 
-## Séances spéciales (2)
+## Séances spéciales (3)
 
   * Porte du paradis (La)  
-  * Saltimbanque
+  * Saltimbanque  
+  * Vincent Lindon, cœur sanglant
 
 ## Éric Demarsan (10)
 

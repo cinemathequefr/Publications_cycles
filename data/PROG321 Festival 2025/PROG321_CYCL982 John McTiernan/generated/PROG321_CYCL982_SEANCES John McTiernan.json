@@ -23,29 +23,6 @@
     ]
   },
   {
-    "idCategorie": 3749,
-    "typeEvenement": 13,
-    "idEvenement": 32643,
-    "idSeance": 188225,
-    "dateHeure": "2025-03-05T14:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 165,
-    "items": [
-      {
-        "idFilm": 43482,
-        "ordre": 1,
-        "idSeance": 188225,
-        "idCopie": 27631,
-        "duree": 140,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
     "idCategorie": 3689,
     "typeEvenement": 13,
     "idEvenement": 32288,
@@ -125,8 +102,8 @@
     "idSeance": 188144,
     "dateHeure": "2025-03-06T17:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "dureeSeance": 165,
     "items": [
@@ -136,6 +113,29 @@
         "idSeance": 188144,
         "idCopie": 5044,
         "duree": 135,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3749,
+    "typeEvenement": 13,
+    "idEvenement": 32643,
+    "idSeance": 188225,
+    "dateHeure": "2025-03-07T14:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 43482,
+        "ordre": 1,
+        "idSeance": 188225,
+        "idCopie": 27631,
+        "duree": 140,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -188,11 +188,26 @@
     ]
   },
   {
+    "idCategorie": 3741,
+    "typeEvenement": 14,
+    "idEvenement": 32550,
+    "idSeance": 188339,
+    "dateHeure": "2025-03-08T16:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 3689,
     "typeEvenement": 13,
     "idEvenement": 32290,
     "idSeance": 185275,
-    "dateHeure": "2025-03-08T17:30:00",
+    "dateHeure": "2025-03-08T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
