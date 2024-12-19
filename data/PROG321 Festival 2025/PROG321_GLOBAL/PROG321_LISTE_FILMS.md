@@ -74,7 +74,7 @@
   * Sire di Vincigliata (Il)  
   * Zone (La)
 
-## Restaurations et incunables (31)
+## Restaurations et incunables (30)
 
   * Bande du Rex (La)  
   * Barattage (Le)  
@@ -84,7 +84,6 @@
   * Chatte à deux têtes (La)  
   * Cousin, cousine  
   * En rade  
-  * Faust  
   * Fleuve de la mort (Le)  
   * Happy Day  
   * Jardin d'été  
@@ -103,7 +102,7 @@
   * Together  
   * Tomorrow There Will Be Fine Weather  
   * Trois sublimes canailles  
-  * Tueurs de flics  
+  * Tueur de flics  
   * Vent (Le)  
   * Viol en première page  
   * Voyous (Les)
@@ -133,7 +132,7 @@
   * Callas Walking Lucia  
   * Carla  
   * Carla Salomé  
-  * Flocons d'or (Les)  
+  * Flocons d'or  
   * Himmel Hoch  
   * Home Movie  
   * Ica Vilander  
