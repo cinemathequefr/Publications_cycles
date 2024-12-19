@@ -843,48 +843,11 @@
       ]
     },
     {
-      "tri": 1,
+      "tri": 4,
       "titreSousCycle": "Lorenza Mazzetti",
       "items": [
         {
-          "idFilm": 155139,
-          "content": [
-            {
-              "idFilm": 155139,
-              "ordre": 2,
-              "titre": "K",
-              "realisateurs": "Lorenza Mazzetti",
-              "pays": "Grande-Bretagne",
-              "annee": 1954,
-              "duree": 29,
-              "version": "VO",
-              "format": "DCP",
-              "precedeSuivi": [
-                [
-                  [
-                    "The Country Doctor",
-                    null
-                  ]
-                ],
-                [
-                  [
-                    "Together",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188299,
-              "dateHeure": "2025-03-05T17:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 155140,
+          "idEvenement": 32555,
           "content": [
             {
               "idFilm": 155140,
@@ -895,33 +858,19 @@
               "annee": 1953,
               "duree": 11,
               "version": "VO",
-              "format": "DCP",
-              "precedeSuivi": [
-                [],
-                [
-                  [
-                    "K",
-                    null
-                  ],
-                  [
-                    "Together",
-                    null
-                  ]
-                ]
-              ]
-            }
-          ],
-          "seances": [
+              "format": "DCP"
+            },
             {
-              "idSeance": 188299,
-              "dateHeure": "2025-03-05T17:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 42833,
-          "content": [
+              "idFilm": 155139,
+              "ordre": 2,
+              "titre": "K",
+              "realisateurs": "Lorenza Mazzetti",
+              "pays": "Grande-Bretagne",
+              "annee": 1954,
+              "duree": 29,
+              "version": "VO",
+              "format": "DCP"
+            },
             {
               "idFilm": 42833,
               "ordre": 3,
@@ -931,20 +880,7 @@
               "annee": 1955,
               "duree": 52,
               "version": "VO",
-              "format": "DCP",
-              "precedeSuivi": [
-                [
-                  [
-                    "The Country Doctor",
-                    null
-                  ],
-                  [
-                    "K",
-                    null
-                  ]
-                ],
-                []
-              ]
+              "format": "DCP"
             }
           ],
           "seances": [
