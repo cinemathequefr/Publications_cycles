@@ -279,6 +279,22 @@
   * Vera Cruz  
   * Ville abandonnée (La)
 
+## Louis Skorecki (13)
+
+  * C.N.C., Contre la Nouvelle Cinéphilie  
+  * Cinéphiles 2 : Éric a disparu (Les)  
+  * Cinéphiles 3 : Les Ruses de Frédéric (Les)  
+  * Cinéphiles : Le Retour de Jean (Les)  
+  * Escalier de la haine (L')  
+  * Eugénie de Franval  
+  * Juif de Lascaux (Le)  
+  * LN 2/3  
+  * Pieds dans les nuages (et la tête dans la lune) (Les)  
+  * Retour des cinéphiles (Le)  
+  * Skorecki déménage  
+  * Skorecki devient producteur  
+  * Une histoire sentimentale
+
 ## Ma petite Cinémathèque (21)
 
   * 101 dalmatiens (Les)  
