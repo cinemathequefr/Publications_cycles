@@ -144,6 +144,18 @@
   * Pauvre Amour (Le)  
   * Pour l'indépendance
 
+## Gérardmer à Paris (9)
+
+  * Azrael  
+  * Else  
+  * Exhuma  
+  * Fièvre de l'argent (La)  
+  * Grafted  
+  * In a Violent Nature  
+  * Llanto (El)  
+  * Oddity  
+  * Rumours
+
 ## Jacques Prévert (15)
 
   * Affaire est dans le sac (L')  

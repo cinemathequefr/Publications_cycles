@@ -1,0 +1,1 @@
+> En parallèle de la grande exposition que la Cinémathèque française lui consacre, rétrospective intégrale des films de Wes Anderson sur écran géant. L'occasion de redécouvrir, chaque week-end, l'univers sans pareil, dandy et populaire, du réalisateur de _La Famille Tenenbaum_, de _Moonrise Kingdom_ et de _Grand Budapest Hotel_.

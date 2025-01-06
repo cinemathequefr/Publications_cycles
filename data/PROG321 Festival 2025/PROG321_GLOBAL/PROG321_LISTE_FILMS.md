@@ -78,7 +78,6 @@
 
   * Bande du Rex (La)  
   * Barattage (Le)  
-  * Buffalo Bill et les Indiens  
   * Chacal  
   * Chair pour Frankenstein  
   * Chatte à deux têtes (La)  
@@ -93,6 +92,7 @@
   * Pékin central  
   * Pirosmani  
   * Prisonnière du désert (La)  
+  * Prisonnière n° 7 (La)  
   * Règlement de comptes  
   * Socrate (Le)  
   * Sur mes lèvres  
