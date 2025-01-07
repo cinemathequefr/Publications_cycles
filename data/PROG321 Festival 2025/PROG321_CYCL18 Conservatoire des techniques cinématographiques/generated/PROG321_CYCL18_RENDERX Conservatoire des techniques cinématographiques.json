@@ -1,28 +1,62 @@
 {
   "datesCycle": [
     "2025-03-07T18:00:00",
-    "2025-03-07T18:00:00"
+    "2025-03-08T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 44903,
+          "content": [
+            {
+              "idFilm": 44903,
+              "ordre": 1,
+              "titre": "Faust",
+              "titreVo": "Faust – Eine deutsche Volkssage",
+              "realisateurs": "Friedrich Wilhelm Murnau",
+              "pays": "Allemagne",
+              "annee": 1926,
+              "adaptation": "D'après la pièce _Faust_ de Johann Wolfgang von Goethe.",
+              "generique": [
+                "Gösta Ekman",
+                "Emil Jannings",
+                "Camilla Horn"
+              ],
+              "miniTexte": "Murnau transforme le héros de Goethe en personnage moderne dans un condensé de tous les mythes faustiens. Du romantisme wagnérien aux surprenantes échappées vers la comédie, il compose une lutte du jour et de la nuit pleine d'outrance. Une symphonie gothique éblouissante de beauté, dont les visions puissantes constituent la quintessence de l'expressionnisme."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188446,
+              "dateHeure": "2025-03-08T20:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
-          "idConf": 32575,
+          "idConf": 32702,
           "content": [
             {
-              "idConf": 32575,
+              "idConf": 32702,
               "titre": "La « Bible » du Faust de F. W. Murnau. Conférence de Laurent Mannoni",
-              "sousTitre": "Conférence de Laurent Mannoni",
+              "sousTitre": "Conférence ",
               "typeConference": "Conférence",
               "miniTexte": "Un document unique permet aujourd'hui de mieux connaître le tournage du _Faust_ de Friedrich Wilhelm Murnau (Allemagne, UFA, 1926) : la « Bible », énorme volume, à la fois accessoire imposant du film et recueil de photos et de dessins rassemblés par Robert Herlth. Une Bible qui sera offerte au cinéaste à la fin du tournage. Cette pièce magistrale, redécouverte après un long sommeil et récemment restaurée, sera présentée pour la première fois et commentée, illustrations à l'appui. Pour son _Faust_, l'un des chefs-d'œuvre de l'art cinématographique, F. W. Murnau s'était entouré d'artistes extraordinaires : les décorateurs Walter Röhrig et Robert Herlth, le chef opérateur Carl Hoffmann. Le tournage s'est déroulé aux Studios Tempelhof à Berlin, avec les acteurs Emil Jannings, Camilla Horn, Gösta Ekman... Traversé de visions romantiques et expressionnistes, imprégné par Goethe et la peinture de Rembrandt, le film est riche en « effets spéciaux » d'une audace incroyable. – Laurent Mannoni"
             }
           ],
           "seances": [
             {
-              "idSeance": 188338,
+              "idSeance": 188447,
               "dateHeure": "2025-03-07T18:00:00",
               "idSalle": "GF"
             }
@@ -35,7 +69,7 @@
     "Conférence": [
       {
         "titre": "La « Bible » du Faust de F. W. Murnau. Conférence de Laurent Mannoni",
-        "mention": "par Laurent Mannoni",
+        "mention": "Conférence ",
         "dateHeure": "2025-03-07T18:00:00"
       }
     ]

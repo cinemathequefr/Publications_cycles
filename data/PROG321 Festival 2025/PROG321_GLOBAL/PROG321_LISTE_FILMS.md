@@ -1,8 +1,13 @@
 # Liste des films par cycle
 
-## Christian Lara (1)
+## Christian Lara (2)
 
-  * AL
+  * AL  
+  * Coco la Fleur, candidat
+
+## Conservatoire des techniques cinématographiques (1)
+
+  * Faust
 
 ## Films muets géorgiens (5)
 
@@ -79,10 +84,10 @@
   * Bande du Rex (La)  
   * Barattage (Le)  
   * Chacal  
-  * Chair pour Frankenstein  
   * Chatte à deux têtes (La)  
   * Cousin, cousine  
   * En rade  
+  * Esmeralda (La)  
   * Fleuve de la mort (Le)  
   * Happy Day  
   * Jardin d'été  

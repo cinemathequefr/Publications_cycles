@@ -326,7 +326,7 @@
       {
         "idFilm": 135133,
         "titre": "Happy Day",
-        "realisateurs": "Pantelis Voulgaris",
+        "realisateurs": "Pantelís Voúlgaris",
         "annee": 1976,
         "duree": 105,
         "version": "VOSTF",
@@ -598,6 +598,32 @@
     "hashEvenement": "f155068"
   },
   {
+    "idSeance": 188170,
+    "idEvenement": 31788,
+    "dateHeure": "2025-03-06T14:00:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "Une certaine histoire du cinéma flamand",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Wouter Hessels",
+    "items": [
+      {
+        "idFilm": 111941,
+        "titre": "Mouettes meurent au port",
+        "art": "Les",
+        "realisateurs": "Ivo Michiels, Rik Kuypers, Roland Verhavert",
+        "annee": 1955,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f111941"
+  },
+  {
     "idSeance": 185280,
     "idEvenement": 32316,
     "dateHeure": "2025-03-06T14:30:00",
@@ -622,32 +648,6 @@
     "hashEvenement": "f47374"
   },
   {
-    "idSeance": 188170,
-    "idEvenement": 31788,
-    "dateHeure": "2025-03-06T15:00:00",
-    "salle": "LE",
-    "cycle": [
-      [
-        "Une certaine histoire du cinéma flamand",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance suivie d'une discussion avec Wouter Hessels",
-    "items": [
-      {
-        "idFilm": 111941,
-        "titre": "Mouettes meurent au port",
-        "art": "Les",
-        "realisateurs": "Ivo Michiels, Rik Kuypers, Roland Verhavert",
-        "annee": 1955,
-        "duree": 94,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f111941"
-  },
-  {
     "idSeance": 185276,
     "idEvenement": 32650,
     "dateHeure": "2025-03-06T16:00:00",
@@ -670,6 +670,29 @@
       }
     ],
     "hashEvenement": "f70783"
+  },
+  {
+    "idSeance": 185273,
+    "idEvenement": 32383,
+    "dateHeure": "2025-03-06T16:45:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "Christian Lara",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 55342,
+        "titre": "Coco la Fleur, candidat",
+        "realisateurs": "Christian Lara",
+        "annee": 1978,
+        "duree": 90,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f55342"
   },
   {
     "idSeance": 188144,
@@ -791,10 +814,6 @@
       [
         "Restaurations et incunables",
         "Les films"
-      ],
-      [
-        "Restaurations et incunables",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -805,15 +824,9 @@
         "annee": 2001,
         "duree": 115,
         "format": "DCP"
-      },
-      {
-        "idConf": 32664,
-        "titre": "Dialogue avec Jacques Audiard",
-        "typeConference": "Dialogue",
-        "duree": 75
       }
     ],
-    "hashEvenement": "f75413c32664"
+    "hashEvenement": "f75413"
   },
   {
     "idSeance": 185152,
@@ -888,6 +901,27 @@
     "hashEvenement": "f37141"
   },
   {
+    "idSeance": 188337,
+    "idEvenement": 32664,
+    "dateHeure": "2025-03-06T22:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 32664,
+        "titre": "Dialogue avec Jacques Audiard",
+        "typeConference": "Dialogue",
+        "duree": 75
+      }
+    ],
+    "hashEvenement": "c32664"
+  },
+  {
     "idSeance": 188313,
     "idEvenement": 32651,
     "dateHeure": "2025-03-07T12:00:00",
@@ -910,31 +944,6 @@
       }
     ],
     "hashEvenement": "f50161"
-  },
-  {
-    "idSeance": 188225,
-    "idEvenement": 32643,
-    "dateHeure": "2025-03-07T14:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "John McTiernan",
-        "Carte blanche à John McTiernan"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 43482,
-        "titre": "Luna",
-        "art": "La",
-        "realisateurs": "Bernardo Bertolucci",
-        "annee": 1978,
-        "duree": 140,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f43482"
   },
   {
     "idSeance": 188214,
@@ -1026,27 +1035,53 @@
     "hashEvenement": "f114225f108229"
   },
   {
-    "idSeance": 188318,
-    "idEvenement": 32647,
+    "idSeance": 188225,
+    "idEvenement": 32643,
+    "dateHeure": "2025-03-07T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "John McTiernan",
+        "Carte blanche à John McTiernan"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43482,
+        "titre": "Luna",
+        "art": "La",
+        "realisateurs": "Bernardo Bertolucci",
+        "annee": 1978,
+        "duree": 140,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f43482"
+  },
+  {
+    "idSeance": 188290,
+    "idEvenement": 32584,
     "dateHeure": "2025-03-07T15:00:00",
     "salle": "JE",
     "cycle": [
       [
-        "Raretés des collections",
+        "Films muets géorgiens",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 29498,
-        "titre": "D'une brousse à l'autre",
-        "realisateurs": "Jacques Kebadian",
-        "annee": 1997,
-        "duree": 104,
+        "idFilm": 155146,
+        "titre": "Ma grand-mère",
+        "realisateurs": "Kote Mikaberidze",
+        "annee": 1929,
+        "duree": 61,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f29498"
+    "hashEvenement": "f155146"
   },
   {
     "idSeance": 185230,
@@ -1071,30 +1106,6 @@
       }
     ],
     "hashEvenement": "f33665"
-  },
-  {
-    "idSeance": 185295,
-    "idEvenement": 32388,
-    "dateHeure": "2025-03-07T16:30:00",
-    "salle": "LE",
-    "cycle": [
-      [
-        "Susan Seidelman",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36715,
-        "titre": "Et la femme créa l'homme parfait",
-        "realisateurs": "Susan Seidelman",
-        "annee": 1987,
-        "duree": 98,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f36715"
   },
   {
     "idSeance": 188292,
@@ -1122,8 +1133,31 @@
     "hashEvenement": "f155067"
   },
   {
-    "idSeance": 188338,
-    "idEvenement": 32575,
+    "idSeance": 188318,
+    "idEvenement": 32647,
+    "dateHeure": "2025-03-07T17:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Raretés des collections",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29498,
+        "titre": "D'une brousse à l'autre",
+        "realisateurs": "Jacques Kebadian",
+        "annee": 1997,
+        "duree": 104,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f29498"
+  },
+  {
+    "idSeance": 188447,
+    "idEvenement": 32702,
     "dateHeure": "2025-03-07T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -1134,14 +1168,14 @@
     ],
     "items": [
       {
-        "idConf": 32575,
+        "idConf": 32702,
         "titre": "La « Bible » du Faust de F. W. Murnau. Conférence de Laurent Mannoni",
-        "sousTitre": "Conférence de Laurent Mannoni",
+        "sousTitre": "Conférence ",
         "typeConference": "Conférence",
         "duree": 90
       }
     ],
-    "hashEvenement": "c32575"
+    "hashEvenement": "c32702"
   },
   {
     "idSeance": 188221,
@@ -1168,32 +1202,9 @@
     "hashEvenement": "f98233"
   },
   {
-    "idSeance": 188234,
-    "idEvenement": 32308,
+    "idSeance": 185295,
+    "idEvenement": 32388,
     "dateHeure": "2025-03-07T18:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 47353,
-        "titre": "Pékin central",
-        "realisateurs": "Camille de Casabianca",
-        "annee": 1986,
-        "duree": 95,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f47353"
-  },
-  {
-    "idSeance": 185157,
-    "idEvenement": 32387,
-    "dateHeure": "2025-03-07T19:00:00",
     "salle": "LE",
     "cycle": [
       [
@@ -1203,40 +1214,16 @@
     ],
     "items": [
       {
-        "idFilm": 36706,
-        "titre": "She-Devil, la diable",
+        "idFilm": 36715,
+        "titre": "Et la femme créa l'homme parfait",
         "realisateurs": "Susan Seidelman",
-        "annee": 1989,
-        "duree": 104,
+        "annee": 1987,
+        "duree": 98,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f36706"
-  },
-  {
-    "idSeance": 185192,
-    "idEvenement": 32520,
-    "dateHeure": "2025-03-07T20:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 58692,
-        "titre": "Chair pour Frankenstein",
-        "realisateurs": "Paul Morrissey",
-        "annee": 1973,
-        "duree": 95,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f58692"
+    "hashEvenement": "f36715"
   },
   {
     "idSeance": 185292,
@@ -1289,7 +1276,7 @@
   },
   {
     "idSeance": 185232,
-    "idEvenement": 32655,
+    "idEvenement": 32703,
     "dateHeure": "2025-03-07T20:30:00",
     "salle": "JE",
     "cycle": [
@@ -1300,6 +1287,16 @@
     ],
     "items": [
       {
+        "idFilm": 53076,
+        "titre": "Esmeralda",
+        "art": "La",
+        "realisateurs": "Alice Guy",
+        "annee": 1906,
+        "duree": 12,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
         "idFilm": 113147,
         "titre": "Narayana",
         "realisateurs": "Léon Poirier",
@@ -1309,31 +1306,31 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f113147"
+    "hashEvenement": "f53076f113147"
   },
   {
-    "idSeance": 188320,
-    "idEvenement": 31795,
-    "dateHeure": "2025-03-07T21:30:00",
+    "idSeance": 185157,
+    "idEvenement": 32387,
+    "dateHeure": "2025-03-07T20:30:00",
     "salle": "LE",
     "cycle": [
       [
-        "Une certaine histoire du cinéma flamand",
+        "Susan Seidelman",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 91967,
-        "titre": "Any Way the Wind Blows",
-        "realisateurs": "Tom Barman",
-        "annee": 2003,
-        "duree": 122,
+        "idFilm": 36706,
+        "titre": "She-Devil, la diable",
+        "realisateurs": "Susan Seidelman",
+        "annee": 1989,
+        "duree": 104,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f91967"
+    "hashEvenement": "f36706"
   },
   {
     "idSeance": 188140,
@@ -1753,28 +1750,27 @@
     "hashEvenement": "f59770"
   },
   {
-    "idSeance": 188290,
-    "idEvenement": 32584,
-    "dateHeure": "2025-03-08T19:30:00",
+    "idSeance": 188234,
+    "idEvenement": 32308,
+    "dateHeure": "2025-03-08T19:00:00",
     "salle": "JE",
     "cycle": [
       [
-        "Films muets géorgiens",
+        "Restaurations et incunables",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 155146,
-        "titre": "Ma grand-mère",
-        "realisateurs": "Kote Mikaberidze",
-        "annee": 1929,
-        "duree": 61,
-        "version": "VOSTF",
+        "idFilm": 47353,
+        "titre": "Pékin central",
+        "realisateurs": "Camille de Casabianca",
+        "annee": 1986,
+        "duree": 95,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f155146"
+    "hashEvenement": "f47353"
   },
   {
     "idSeance": 185279,
@@ -1801,9 +1797,30 @@
     "hashEvenement": "f36728"
   },
   {
+    "idSeance": 188446,
+    "idEvenement": 32701,
+    "dateHeure": "2025-03-08T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 44903,
+        "titre": "Faust",
+        "realisateurs": "Friedrich Wilhelm Murnau",
+        "annee": 1926
+      }
+    ],
+    "hashEvenement": "f44903"
+  },
+  {
     "idSeance": 188397,
     "idEvenement": 32392,
-    "dateHeure": "2025-03-08T20:45:00",
+    "dateHeure": "2025-03-08T20:30:00",
     "salle": "LE",
     "cycle": [
       [
@@ -1822,6 +1839,30 @@
       }
     ],
     "hashEvenement": "f47109"
+  },
+  {
+    "idSeance": 188320,
+    "idEvenement": 31795,
+    "dateHeure": "2025-03-08T21:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Une certaine histoire du cinéma flamand",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 91967,
+        "titre": "Any Way the Wind Blows",
+        "realisateurs": "Tom Barman",
+        "annee": 2003,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f91967"
   },
   {
     "idSeance": 185190,

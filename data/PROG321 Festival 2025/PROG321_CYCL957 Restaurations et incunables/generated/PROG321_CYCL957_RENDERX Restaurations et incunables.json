@@ -54,6 +54,11 @@
               "duree": 134,
               "version": "VOSTF",
               "format": "DCP",
+              "generique": [
+                "Girish Karnad",
+                "Smita Patil",
+                "Naseeruddin Shah"
+              ],
               "miniTexte": "Classique du cinéma indien, _Manthan_ raconte la lutte collective de villageois en faveur de leur émancipation économique, grâce à un vétérinaire idéaliste qui initie une coopérative laitière. Financé par 500 000 agriculteurs indiens, un exemple de cinéma engagé, largement célébré pour ses performances d'acteurs autant que pour son impact social sur le pays."
             }
           ],
@@ -94,36 +99,6 @@
               "idSeance": 188296,
               "dateHeure": "2025-03-05T12:00:00",
               "idSalle": "HO"
-            }
-          ]
-        },
-        {
-          "idFilm": 58692,
-          "content": [
-            {
-              "idFilm": 58692,
-              "ordre": 1,
-              "titre": "Chair pour Frankenstein",
-              "titreVo": "Carne per Frankenstein",
-              "realisateurs": "Paul Morrissey",
-              "pays": "Italie-France",
-              "annee": 1973,
-              "duree": 95,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Joe Dallesandro",
-                "Monique Van Vooren",
-                "Udo Kier"
-              ],
-              "miniTexte": "Produite par Andy Warhol, mais aussi par Carlo Ponti et Jean Yanne, une relecture trash du mythe de Frankenstein, qui voit le laboratoire du célèbre baron se remplir de cadavres, tandis que la baronne s'acoquine avec le nouveau valet. Sexy, sanglant, pervers : les actes les plus décalés s'enchaînent en 3D. Udo Kier aussi à l'aise avec une vésicule biliaire que Monique van Vooren avec l'aisselle de Joe Dallesandro."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 185192,
-              "dateHeure": "2025-03-07T20:00:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -218,6 +193,39 @@
           ]
         },
         {
+          "idFilm": 53076,
+          "content": [
+            {
+              "idFilm": 53076,
+              "ordre": 1,
+              "titre": "Esmeralda",
+              "art": "La",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1906,
+              "duree": 12,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Narayana",
+                    null
+                  ]
+                ]
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185232,
+              "dateHeure": "2025-03-07T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 43226,
           "content": [
             {
@@ -257,12 +265,18 @@
               "idFilm": 135133,
               "ordre": 1,
               "titre": "Happy Day",
-              "realisateurs": "Pantelis Voulgaris",
+              "realisateurs": "Pantelís Voúlgaris",
               "pays": "Grèce",
               "annee": 1976,
               "duree": 105,
               "version": "VOSTF",
               "format": "DCP",
+              "adaptation": "D'après le roman _La Peste_ d'Andréas Franghias.",
+              "generique": [
+                "Stathis Yalelis",
+                "Stavros Kalaroglou",
+                "Kostas Tzoumas"
+              ],
               "miniTexte": "Sur une île déserte, un camp de prisonniers subit interrogatoires, violences et châtiments. Multiprimé au Festival de Thessalonique en 1976, _Happy Day_ retrace le parcours chaotique des détenus politiques de la gauche durant la guerre civile grecque. À la fois surréaliste et innovant, il capte brillamment l'atmosphère pesante de ces geôles, qui évoquent l'univers allégorique d'Orwell."
             }
           ],
@@ -310,7 +324,7 @@
           "content": [
             {
               "idFilm": 113147,
-              "ordre": 1,
+              "ordre": 2,
               "titre": "Narayana",
               "realisateurs": "Léon Poirier",
               "pays": "France",
@@ -324,7 +338,16 @@
                 "Edmond Van Daële",
                 "Marcelle Souty"
               ],
-              "miniTexte": "Une statuette orientale permet à un étudiant sans-le-sou de faire cinq vœux avant de mourir. Poirier transpose _La Peau de chagrin_ de Balzac dans un envoûtant univers Art Déco, bercé par une imagerie onirique et une atmosphère mystérieuse. La modernisation fantastique d'un récit classique."
+              "miniTexte": "Une statuette orientale permet à un étudiant sans-le-sou de faire cinq vœux avant de mourir. Poirier transpose _La Peau de chagrin_ de Balzac dans un envoûtant univers Art Déco, bercé par une imagerie onirique et une atmosphère mystérieuse. La modernisation fantastique d'un récit classique.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Esmeralda",
+                    "La"
+                  ]
+                ],
+                []
+              ]
             }
           ],
           "seances": [
@@ -380,13 +403,18 @@
               "duree": 95,
               "version": "",
               "format": "DCP",
+              "generique": [
+                "Yves Rénier",
+                "Christine Citti",
+                "Marco Bisson"
+              ],
               "miniTexte": "Les déboires d'une jeune femme sentimentale abonnée aux hommes mariés. Sur des images de Raymond Depardon, Camille de Casabianca – coscénariste de _Thérèse_ avec son père, Alain Cavalier – signe un premier long métrage en forme de chronique aigre-douce, qui rivalise de spontanéité et de pudeur. Une tribulation cocasse et légère, habilement construite entre reportage et fiction."
             }
           ],
           "seances": [
             {
               "idSeance": 188234,
-              "dateHeure": "2025-03-07T18:00:00",
+              "dateHeure": "2025-03-08T19:00:00",
               "idSalle": "JE"
             }
           ]
@@ -404,6 +432,11 @@
               "duree": 85,
               "version": "VOSTF",
               "format": "DCP",
+              "generique": [
+                "Avtandil Varazi",
+                "Dodo Abashidze",
+                "Zurab Kapianidze"
+              ],
               "miniTexte": "En pleine errance dans les rues de Tbilissi, le peintre géorgien Niko Pirosmanachvili échange ses créations contre un repas. Inspiré par le style naïf, Chengelaia privilégie la poésie à la biographie pour sonder la marginalisation d'un artiste au talent méconnu, confronté à une critique qui le méprise et une poignée de connaisseurs enthousiastes."
             }
           ],
@@ -464,6 +497,11 @@
               "duree": 60,
               "version": "INT. FR.",
               "format": "DCP",
+              "generique": [
+                "Lissy Arna",
+                "Hans Adalbert Schlettow",
+                "Charlotte Susa"
+              ],
               "miniTexte": "Une jeune fille est envoyée en prison, après avoir accepté de voler pour son amant. Avec son cadre urbain, le film entrelace admirablement la manipulation, l'amour et le crime dans une succession de plans somptueux. Dramatique, rythmé, captivant, l'un des derniers muets hongrois, d'une étonnante modernité."
             }
           ],
@@ -526,7 +564,8 @@
                 "Pierre Luzan",
                 "René-Jean Chauffard",
                 "Martine Brochard"
-              ]
+              ],
+              "miniTexte": "Un policier se prend d'amitié pour un vagabond qu'il est chargé de surveiller. D'expérimentations plastiques en décalages visuels, Lapoujade signe une fable philosophique fourmillante d'inventions et de drôlerie, saluée par le Prix spécial du Jury à la Mostra de Venise 1968."
             }
           ],
           "seances": [
@@ -538,47 +577,31 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 75413,
+          "content": [
             {
               "idFilm": 75413,
-              "content": [
-                {
-                  "idFilm": 75413,
-                  "ordre": 1,
-                  "titre": "Sur mes lèvres",
-                  "realisateurs": "Jacques Audiard",
-                  "pays": "France",
-                  "annee": 2001,
-                  "duree": 115,
-                  "version": "",
-                  "format": "DCP",
-                  "generique": [
-                    "Vincent Cassel",
-                    "Emmanuelle Devos",
-                    "Olivier Gourmet"
-                  ],
-                  "miniTexte": "Une secrétaire malentendante voit sa vie bouleversée par un ancien délinquant. Scénario à l'os, cadrages serrés et étude de caractère forment un thriller hors normes, sans cesse troublant, qui met en valeur deux interprètes magnifiquement assortis. Avec trois Césars à la clé, dont celui de la meilleure actrice pour Emmanuelle Devos."
-                }
-              ]
-            },
-            {
-              "idEvenement": 32664,
-              "content": [
-                {
-                  "idConf": 32664,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Jacques Audiard",
-                  "typeConference": "Dialogue"
-                }
+              "ordre": 1,
+              "titre": "Sur mes lèvres",
+              "realisateurs": "Jacques Audiard",
+              "pays": "France",
+              "annee": 2001,
+              "duree": 115,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Vincent Cassel",
+                "Emmanuelle Devos",
+                "Olivier Gourmet"
               ],
-              "seances": [
-                {
-                  "idSeance": 185191,
-                  "typeAssoc": 118,
-                  "dateHeure": "2025-03-06T20:00:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "miniTexte": "Une secrétaire malentendante voit sa vie bouleversée par un ancien délinquant. Scénario à l'os, cadrages serrés et étude de caractère forment un thriller hors normes, sans cesse troublant, qui met en valeur deux interprètes magnifiquement assortis. Avec trois Césars à la clé, dont celui de la meilleure actrice pour Emmanuelle Devos."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 185191,
+              "dateHeure": "2025-03-06T20:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -602,7 +625,8 @@
                 "Harry Carey",
                 "Molly Malone",
                 "Vester Pegg"
-              ]
+              ],
+              "miniTexte": "Un western inédit de John Ford, perdu pendant 106 ans avant d'être retrouvé au Chili. Pour l'un de ses premiers essais, le cinéaste filme la guerre de Sécession et les tourments d'un maraudeur en quête de rédemption, avec un sens de l'image déjà brillant et la collaboration marquante d'Harry Carey."
             }
           ],
           "seances": [
@@ -656,6 +680,12 @@
               "duree": 65,
               "version": "VO",
               "format": "DCP",
+              "generique": [
+                "Michitaro Mizushima",
+                "Sachiko Mitani",
+                "Wakako Kunitomo",
+                "Shin'ichi Himori"
+              ],
               "miniTexte": "Sur une route de montagne, le trajet d'un groupe de passagers, dont le bus tombe en panne, devient le théâtre de retrouvailles inattendues, où s'entremêlent destins individuels et blessures collectives. Shimizu fait du traumatisme de la guerre une fable douce-amère, le tableau d'une société à reconstruire, dans un chef-d'œuvre retrouvé, perdu pendant 70 ans."
             }
           ],
@@ -811,6 +841,11 @@
               "duree": 84,
               "version": "VOSTF",
               "format": "DCP",
+              "generique": [
+                "Manuel Zarzo",
+                "Luis Marín",
+                "Juanjo Losada"
+              ],
               "miniTexte": "Portrait d'un groupe de délinquants de la banlieue madrilène; ou l'impossible conquête du centre-ville par les plus démunis. Inspiré de la Nouvelle Vague française et du néoréalisme italien, le premier long métrage de Saura subit les coupes de la censure franquiste. Sa restauration propose aujourd'hui une nouvelle version, fidèle à l'œuvre originelle qui révolutionna le cinéma espagnol d'après-guerre."
             }
           ],
@@ -841,6 +876,9 @@
               "duree": 11,
               "version": "VO",
               "format": "DCP",
+              "generique": [
+                "Victor Willing"
+              ],
               "miniTexte": "Un médecin appelé au chevet d'un patient au mal incurable. Adaptation d'une nouvelle de Kafka, une perle surréaliste et cauchemardesque, qui refait surface après 70 ans de disparition."
             },
             {
@@ -853,6 +891,12 @@
               "duree": 29,
               "version": "VO",
               "format": "DCP",
+              "adaptation": "D'après le roman _La Métamorphose_ de Franz Kafka.",
+              "generique": [
+                "Michael Andrews",
+                "Claude Rogers",
+                "Mary Rava"
+              ],
               "miniTexte": "La terreur animale d'un homme qui, un matin, se réveille sans pouvoir quitter son lit. Un essai d'avant-garde, que Mazzetti tourne clandestinement pendant ses études à la Slade School of Art, comme un récit d'aliénation, inspiré de _La Métamorphose_ de Kafka."
             },
             {
@@ -865,6 +909,10 @@
               "duree": 52,
               "version": "VO",
               "format": "DCP",
+              "generique": [
+                "Eduardo Paolozzi",
+                "Michael Andrews"
+              ],
               "miniTexte": "Déambulation dans l'East End londonien, sur les pas de deux dockers sourds-muets. Considéré comme l'un des tout premiers films du Free Cinema, _Together_ reçoit la Mention spéciale du Film de recherche au Festival de Cannes."
             }
           ],
@@ -877,14 +925,36 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 32664,
+          "content": [
+            {
+              "idConf": 32664,
+              "titre": "Dialogue avec Jacques Audiard",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188337,
+              "dateHeure": "2025-03-06T22:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
-        "titreFilms": "Sur mes lèvres",
         "mention": "avec Jacques Audiard",
-        "dateHeure": "2025-03-06T20:00:00"
+        "dateHeure": "2025-03-06T22:00:00"
       }
     ]
   }

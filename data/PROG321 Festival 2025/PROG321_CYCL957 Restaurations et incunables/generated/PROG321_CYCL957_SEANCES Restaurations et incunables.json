@@ -258,7 +258,6 @@
       "Henri Langlois"
     ],
     "dureeSeance": 150,
-    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 75413,
@@ -268,24 +267,6 @@
         "duree": 115,
         "version": "",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3750,
-    "typeEvenement": 14,
-    "idEvenement": 32664,
-    "idSeance": 185191,
-    "dateHeure": "2025-03-06T20:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 75,
-    "typeAssoc": 118,
-    "items": [
-      {
-        "ordre": 2
       }
     ]
   },
@@ -333,6 +314,21 @@
         "version": "",
         "format": "DCP"
       }
+    ]
+  },
+  {
+    "idCategorie": 3750,
+    "typeEvenement": 14,
+    "idEvenement": 32664,
+    "idSeance": 188337,
+    "dateHeure": "2025-03-06T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 75,
+    "items": [
+      {}
     ]
   },
   {
@@ -384,53 +380,7 @@
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
-    "idEvenement": 32308,
-    "idSeance": 188234,
-    "dateHeure": "2025-03-07T18:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 47353,
-        "ordre": 1,
-        "idSeance": 188234,
-        "idCopie": 29132,
-        "duree": 95,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3654,
-    "typeEvenement": 13,
-    "idEvenement": 32520,
-    "idSeance": 185192,
-    "dateHeure": "2025-03-07T20:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 58692,
-        "ordre": 1,
-        "idSeance": 185192,
-        "idCopie": 29348,
-        "duree": 95,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3654,
-    "typeEvenement": 13,
-    "idEvenement": 32655,
+    "idEvenement": 32703,
     "idSeance": 185232,
     "dateHeure": "2025-03-07T20:30:00",
     "idSalle": [
@@ -440,8 +390,17 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 113147,
+        "idFilm": 53076,
         "ordre": 1,
+        "idSeance": 185232,
+        "idCopie": 29515,
+        "duree": 12,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 113147,
+        "ordre": 2,
         "idSeance": 185232,
         "idCopie": 29434,
         "duree": 67,
@@ -516,6 +475,29 @@
         "idCopie": 29134,
         "duree": 84,
         "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3654,
+    "typeEvenement": 13,
+    "idEvenement": 32308,
+    "idSeance": 188234,
+    "dateHeure": "2025-03-08T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 47353,
+        "ordre": 1,
+        "idSeance": 188234,
+        "idCopie": 29132,
+        "duree": 95,
+        "version": "",
         "format": "DCP"
       }
     ]
