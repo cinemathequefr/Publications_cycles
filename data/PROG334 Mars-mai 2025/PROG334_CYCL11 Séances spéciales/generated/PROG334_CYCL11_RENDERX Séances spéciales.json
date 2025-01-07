@@ -4,6 +4,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Avant-première Dominique Cabrera",
+      "texteSousCycle": "Dominique Cabrera replace _La Jetée_ de Chris Marker dans le contexte de l'année de sa création, 1962, marquée par l'indépendance algérienne et l'exode des pieds-noirs. Le cousin de la cinéaste, présent à Orly lors des prises de vue, pense se reconnaître dans le film. Cette découverte est le point de départ d'une enquête qui mêle histoire personnelle et réflexion cinématographique.",
       "items": [
         {
           "idFilm": 155072,
@@ -34,7 +35,8 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Avant-première",
+      "titreSousCycle": "Avant-première Bulle Ogier par Eugénie Grandval",
+      "texteSousCycle": "Eugénie Grandval convie différentes personnalités du cinéma pour évoquer l'œuvre et la personnalité de Bulle Ogier. Enrichi de nombreux extraits de films et d'entretiens puisés dans les archives de l'INA, le portrait intime d'une figure majeure du cinéma français.",
       "items": [
         {
           "idFilm": 155073,
@@ -64,34 +66,63 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "[Collimateur]",
+      "titreSousCycle": "Séance du programme de recherche Collimateur",
+      "texteSousCycle": "Le programme de recherche Collimateur est centré sur l'histoire de l'analyse esthétique des films à partir de textes parus entre 1970 et 2020. Cette double conférence suivie d'une projection s'interroge ainsi sur les gestes d'analyse singuliers que ces écrits mettent en œuvre.",
       "items": [
         {
-          "idFilm": 134435,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 32486,
+              "content": [
+                {
+                  "idConf": 32486,
+                  "titre": "Analyses d'analyses",
+                  "sousTitre": "Conférence de Nacim Belhadj et Vincent Deville",
+                  "typeConference": "Conférence",
+                  "miniTexte": "À partir de deux textes, « Le travail du film, 2 » (1975) et « L'écriture figurale dans le cinéma muet des années 20 » (1999), qui emploient tous deux le concept de figural pour analyser _Les Chasses du comte Zaroff_ (1932) et _Le Cabinet du docteur Caligari_ (1920), Nacim Belhadj mettra en lumière les différences entre ces deux types d'usage du concept et dégagera leurs multiples enjeux théoriques.\nQuand, dans un article paru dans les _Cahiers du cinéma_ (2017), Nicole Brenez nous amène à voir dans _Les Derniers Parisiens_ de Hamé et Ékoué un récit modeste mais doté de l'ambition de « rendre compte d'une génération oubliée dans un repli de l'histoire néocoloniale », elle y parvient par les moyens de l'analyse figurative. Une méthode par laquelle elle hisse au même niveau d'exigence l'attention portée aux films et la considération pour les figures de la précarité historique, ce dont il sera question dans la conférence de Vincent Deville."
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 188420,
+                  "idSeanceAssoc": 188343,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-04-28T13:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            },
             {
               "idFilm": 134435,
-              "ordre": 1,
-              "titre": "Derniers Parisiens",
-              "art": "Les",
-              "realisateurs": "Hamé, Ekoué",
-              "pays": "France",
-              "annee": 2015,
-              "duree": 105,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Reda Kateb",
-                "Slimane Dazi",
-                "Mélanie Laurent"
+              "content": [
+                {
+                  "idFilm": 134435,
+                  "ordre": 1,
+                  "titre": "Derniers Parisiens",
+                  "art": "Les",
+                  "realisateurs": "Hamé et Ekoué",
+                  "pays": "France",
+                  "annee": 2015,
+                  "duree": 105,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Reda Kateb",
+                    "Slimane Dazi",
+                    "Mélanie Laurent"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 188343,
+                  "idSeanceAssoc": 188343,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-04-28T16:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188343,
-              "dateHeure": "2025-04-28T16:30:00",
-              "idSalle": "JE"
             }
           ]
         }
@@ -107,6 +138,13 @@
       {
         "dateHeure": "2025-04-21T20:00:00",
         "titreFilms": "Bulle Ogier, portrait d'une étoile cachée"
+      }
+    ],
+    "Conférence": [
+      {
+        "titre": "Analyses d'analyses",
+        "mention": "par Nacim Belhadj et Vincent Deville",
+        "dateHeure": "2025-04-28T13:30:00"
       }
     ]
   }

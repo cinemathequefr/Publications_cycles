@@ -362,7 +362,7 @@
   * Saisons du cœur (Les)  
   * Un homme presque parfait
 
-## Robert Wise (38)
+## Robert Wise (39)
 
   * Audrey Rose  
   * Brève rencontre à Paris  
@@ -401,7 +401,8 @@
   * Star Trek, le film  
   * Tour des ambitieux (La)  
   * Un jeu de mort  
-  * Ville captive (La)
+  * Ville captive (La)  
+  * West Side Story
 
 ## Séances spéciales (3)
 
