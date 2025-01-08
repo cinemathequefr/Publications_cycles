@@ -37,13 +37,14 @@
   * Extérieur, nuit  
   * Polar
 
-## John McTiernan (8)
+## John McTiernan (9)
 
+  * 13e guerrier (Le)  
+  * 8½  
   * À la poursuite d'Octobre rouge  
   * Dernier Rivage (Le)  
   * John McCabe  
   * Last Action Hero  
-  * Luna (La)  
   * Piège de cristal  
   * Predator  
   * Thomas Crown
