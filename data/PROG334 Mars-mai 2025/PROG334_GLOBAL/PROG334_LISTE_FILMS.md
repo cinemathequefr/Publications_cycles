@@ -134,7 +134,7 @@
   * Huitième Femme de Barbe-Bleue (La)  
   * Illusions perdues  
   * Je ne voudrais pas être un homme  
-  * Joyeuse prison (La)  
+  * Joyeuse Prison (La)  
   * Lieutenant souriant (Le)  
   * Mademoiselle Piccolo  
   * Meyer de Berlin  
@@ -153,7 +153,7 @@
   * Princesse aux huîtres (La)  
   * Quand j'étais mort  
   * Quand quatre font la même chose  
-  * Robert et Bertram ou Les Joyeux vagabonds  
+  * Robert et Bertram ou Les Joyeux Vagabonds  
   * Roi du corsage (Le)  
   * Roméo et Juliette dans la neige  
   * Rosita, chanteuse des rues  
