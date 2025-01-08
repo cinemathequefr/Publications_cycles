@@ -113,12 +113,14 @@
   * Viol en première page  
   * Voyous (Les)
 
-## Susan Seidelman (4)
+## Susan Seidelman (6)
 
+  * Céline et Julie vont en bateau  
   * Et la femme créa l'homme parfait  
   * Recherche Susan désespérément  
   * She-Devil, la diable  
-  * Smithereens
+  * Smithereens  
+  * Wanda
 
 ## Une certaine histoire du cinéma flamand (8)
 
