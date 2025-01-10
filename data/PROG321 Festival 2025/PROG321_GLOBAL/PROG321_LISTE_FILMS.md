@@ -80,7 +80,7 @@
   * Sire di Vincigliata (Il)  
   * Zone (La)
 
-## Restaurations et incunables (30)
+## Restaurations et incunables (31)
 
   * Bande du Rex (La)  
   * Barattage (Le)  
@@ -93,6 +93,7 @@
   * Happy Day  
   * Jardin d'été  
   * K  
+  * Lili Marleen  
   * Narayana  
   * Nuit (La)  
   * Pékin central  
