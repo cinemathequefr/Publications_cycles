@@ -23,7 +23,7 @@
   * Piccadilly  
   * Roi de Chinatown (Le)  
   * Shanghai Express  
-  * Sherlock Holmes: Une étude en rouge  
+  * Sherlock Holmes : Une étude en rouge  
   * When Were You Born
 
 ## Archi Vives (1)
