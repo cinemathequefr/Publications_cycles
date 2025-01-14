@@ -5,6 +5,7 @@
   * Ange maudit / Song  
   * Anna May Wong, Frosted Yellow Willows: Her Life, Times and Legend  
   * Anna May Wong in Australia  
+  * Babylon  
   * Bold Journey: Native Land  
   * Bombs Over Burma  
   * Dame de Tchoung-King (La)  
@@ -13,7 +14,6 @@
   * Fille de Shanghaï (La)  
   * Fleur de lotus  
   * Grain de son  
-  * Hollywood, épisode 7 : A Hollywood Ending  
   * Île des hommes perdus (L')  
   * Marchande de rêves (La)  
   * Monsieur Wu  
