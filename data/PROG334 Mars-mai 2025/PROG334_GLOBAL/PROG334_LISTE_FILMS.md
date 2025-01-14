@@ -5,12 +5,12 @@
   * Ange maudit / Song  
   * Anna May Wong, Frosted Yellow Willows: Her Life, Times and Legend  
   * Bombs Over Burma  
-  * Dame de Tchoung-King (La)  
   * Dangereux à connaître  
   * Driven from Home  
   * Fille de Shanghaï (La)  
   * Fleur de lotus  
   * Grain de son  
+  * Hai-Tang  
   * Île des hommes perdus (L')  
   * Marchande de rêves (La)  
   * Monsieur Wu  
