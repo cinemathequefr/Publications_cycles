@@ -183,7 +183,7 @@
     "typeEvenement": 13,
     "idEvenement": 32316,
     "idSeance": 185280,
-    "dateHeure": "2025-03-06T14:30:00",
+    "dateHeure": "2025-03-06T14:00:00",
     "idSalle": [
       "LE",
       "Lotte Eisner"
@@ -199,14 +199,15 @@
         "version": "INT. FR.",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Accompagnement musical par Benjamin Moussay"
   },
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
     "idEvenement": 32650,
     "idSeance": 185276,
-    "dateHeure": "2025-03-06T16:00:00",
+    "dateHeure": "2025-03-06T16:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -229,7 +230,7 @@
     "typeEvenement": 13,
     "idEvenement": 32712,
     "idSeance": 190348,
-    "dateHeure": "2025-03-06T17:15:00",
+    "dateHeure": "2025-03-06T17:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -242,6 +243,29 @@
         "idSeance": 190348,
         "idCopie": 29520,
         "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3654,
+    "typeEvenement": 13,
+    "idEvenement": 32519,
+    "idSeance": 185152,
+    "dateHeure": "2025-03-06T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 114149,
+        "ordre": 1,
+        "idSeance": 185152,
+        "idCopie": 29347,
+        "duree": 113,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -273,32 +297,9 @@
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
-    "idEvenement": 32519,
-    "idSeance": 185152,
-    "dateHeure": "2025-03-06T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 114149,
-        "ordre": 1,
-        "idSeance": 185152,
-        "idCopie": 29347,
-        "duree": 113,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3654,
-    "typeEvenement": 13,
     "idEvenement": 32307,
     "idSeance": 188161,
-    "dateHeure": "2025-03-06T20:45:00",
+    "dateHeure": "2025-03-06T20:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -548,7 +549,8 @@
         "version": "INT. FR.",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Accompagnement musical par Edouard Ferlet et Joël Grare"
   },
   {
     "idCategorie": 3654,
@@ -601,7 +603,7 @@
     "typeEvenement": 13,
     "idEvenement": 31890,
     "idSeance": 188217,
-    "dateHeure": "2025-03-09T16:30:00",
+    "dateHeure": "2025-03-09T17:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -645,6 +647,29 @@
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
+    "idEvenement": 31805,
+    "idSeance": 188297,
+    "dateHeure": "2025-03-09T20:00:00",
+    "idSalle": [
+      "LE",
+      "Lotte Eisner"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 41037,
+        "ordre": 1,
+        "idSeance": 188297,
+        "idCopie": 28883,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3654,
+    "typeEvenement": 13,
     "idEvenement": 31804,
     "idSeance": 185294,
     "dateHeure": "2025-03-09T20:30:00",
@@ -665,28 +690,5 @@
       }
     ],
     "mention": "Accompagnement musical par Mocke, Emmanuelle Parrenin et Delphine Dora"
-  },
-  {
-    "idCategorie": 3654,
-    "typeEvenement": 13,
-    "idEvenement": 31805,
-    "idSeance": 188297,
-    "dateHeure": "2025-03-09T20:30:00",
-    "idSalle": [
-      "LE",
-      "Lotte Eisner"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 41037,
-        "ordre": 1,
-        "idSeance": 188297,
-        "idCopie": 28883,
-        "duree": 85,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
   }
 ]

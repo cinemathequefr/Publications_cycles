@@ -1,12 +1,9 @@
 # Liste des films par cycle
 
-## Anna May Wong (23)
+## Anna May Wong (20)
 
   * Ange maudit / Song  
   * Anna May Wong, Frosted Yellow Willows: Her Life, Times and Legend  
-  * Anna May Wong in Australia  
-  * Babylon  
-  * Bold Journey: Native Land  
   * Bombs Over Burma  
   * Dame de Tchoung-King (La)  
   * Dangereux à connaître  
@@ -30,8 +27,9 @@
 
   * Cinégraphies, les femmes de la tempête
 
-## Aujourd'hui le cinéma (14)
+## Aujourd'hui le cinéma (16)
 
+  * Ata  
   * Baby-foot Boulevard  
   * Bataille d'Alger (La)  
   * Batguano  
@@ -41,6 +39,7 @@
   * Gilbert Grape  
   * Malo fait du vélo  
   * Méduses de Gouville (Les)  
+  * Nikkah  
   * Par-delà les montagnes  
   * Pierre et Djemila  
   * Salut les zins !  
@@ -111,7 +110,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (55)
+## Ernst Lubitsch (54)
 
   * Abîme (L')  
   * Ange  
@@ -153,7 +152,6 @@
   * Princesse aux huîtres (La)  
   * Quand j'étais mort  
   * Quand quatre font la même chose  
-  * Robert et Bertram ou Les Joyeux Vagabonds  
   * Roi du corsage (Le)  
   * Roméo et Juliette dans la neige  
   * Rosita, chanteuse des rues  
@@ -199,7 +197,7 @@
   * Terre en transe  
   * Têtes coupées
 
-## Histoire permanente du cinéma (37)
+## Histoire permanente du cinéma (36)
 
   * À cause d'un assassinat  
   * Absence de malice  
@@ -236,7 +234,6 @@
   * Possession  
   * Ragtime  
   * Tout va bien  
-  * Travail au noir  
   * Une femme douce
 
 ## Le flou au cinéma (10)
