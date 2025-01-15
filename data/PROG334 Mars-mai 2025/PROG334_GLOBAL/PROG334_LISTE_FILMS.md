@@ -3,7 +3,7 @@
 ## Anna May Wong (20)
 
   * Ange maudit / Song  
-  * Anna May Wong, Frosted Yellow Willows: Her Life, Times and Legend  
+  * Babylon  
   * Bombs Over Burma  
   * Dangereux à connaître  
   * Driven from Home  
@@ -110,7 +110,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (54)
+## Ernst Lubitsch (55)
 
   * Abîme (L')  
   * Ange  
@@ -120,7 +120,6 @@
   * Ciel peut attendre (Le)  
   * Comédiennes  
   * Dame au manteau d'hermine (La)  
-  * Doktor Satansohn  
   * Du Barry (La)  
   * Éventail de Lady Windermere (L')  
   * Fall Rosentopf (Der)  
@@ -134,6 +133,7 @@
   * Illusions perdues  
   * Je ne voudrais pas être un homme  
   * Joyeuse Prison (La)  
+  * Leutnant auf Befehl  
   * Lieutenant souriant (Le)  
   * Mademoiselle Piccolo  
   * Meyer de Berlin  
@@ -152,6 +152,7 @@
   * Princesse aux huîtres (La)  
   * Quand j'étais mort  
   * Quand quatre font la même chose  
+  * Robert et Bertram ou Les Joyeux Vagabonds  
   * Roi du corsage (Le)  
   * Roméo et Juliette dans la neige  
   * Rosita, chanteuse des rues  
