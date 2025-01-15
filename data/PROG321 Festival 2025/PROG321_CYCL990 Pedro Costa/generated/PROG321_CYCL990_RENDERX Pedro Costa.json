@@ -39,30 +39,47 @@
           ]
         },
         {
-          "idFilm": 29129,
-          "content": [
+          "groupe": [
             {
               "idFilm": 29129,
-              "ordre": 1,
-              "titre": "Ossos",
-              "realisateurs": "Pedro Costa",
-              "pays": "Portugal-France-Danemark",
-              "annee": 1997,
-              "duree": 94,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Vanda Duarte",
-                "Nuno Vaz"
-              ],
-              "miniTexte": "_Ossos_ est le premier des trois films tournés à Fontainhas, quartier pauvre de la banlieue de Lisbonne. Avec le parcours dramatique de deux jeunes parents et de leur bébé se dessine le portrait de Vanda, habitante du bidonville, témoin de la détresse d'une communauté dévastée, et figure centrale dans l'œuvre suivante, _Dans la Chambre de Vanda_."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 29129,
+                  "ordre": 1,
+                  "titre": "Ossos",
+                  "realisateurs": "Pedro Costa",
+                  "pays": "Portugal-France-Danemark",
+                  "annee": 1997,
+                  "duree": 94,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Vanda Duarte",
+                    "Nuno Vaz"
+                  ],
+                  "miniTexte": "_Ossos_ est le premier des trois films tournés à Fontainhas, quartier pauvre de la banlieue de Lisbonne. Avec le parcours dramatique de deux jeunes parents et de leur bébé se dessine le portrait de Vanda, habitante du bidonville, témoin de la détresse d'une communauté dévastée, et figure centrale dans l'œuvre suivante, _Dans la chambre de Vanda_."
+                }
+              ]
+            },
             {
-              "idSeance": 188142,
-              "dateHeure": "2025-03-08T19:30:00",
-              "idSalle": "GF"
+              "idEvenement": 32551,
+              "content": [
+                {
+                  "idConf": 32551,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Pedro Costa",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "« J'ai commencé à y passer des journées, à traîner, boire, parler. Ça m'a beaucoup plu, ces choses que je devinais chez ces capverdiens [à Fontainhas], quelque chose de très concret et en même temps de très mystérieux : une espèce de tristesse, qui n'était pas loin, sûrement, de la mienne... Je me suis dit : peut-être qu'il y a quelque chose à faire ici, puisque j'y trouve un accord avec ma sensibilité et qu'en plus plastiquement, ça me plaît beaucoup. Mais davantage que les couleurs, les espaces et les sons, il y avait la force un peu désespérée de ce groupe de gens très en marge, très perdus, très misérables et très invisibles. » (Pedro Costa)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 188142,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-03-08T19:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -100,37 +117,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32551,
-          "content": [
-            {
-              "idConf": 32551,
-              "titre": "Dialogue avec Pedro Costa",
-              "typeConference": "Dialogue",
-              "miniTexte": "« J'ai commencé à y passer des journées, à traîner, boire, parler. Ça m'a beaucoup plu, ces choses que je devinais chez ces capverdiens [à Fontainhas], quelque chose de très concret et en même temps de très mystérieux : une espèce de tristesse, qui n'était pas loin, sûrement, de la mienne... Je me suis dit : peut-être qu'il y a quelque chose à faire ici, puisque j'y trouve un accord avec ma sensibilité et qu'en plus plastiquement, ça me plaît beaucoup. Mais davantage que les couleurs, les espaces et les sons, il y avait la force un peu désespérée de ce groupe de gens très en marge, très perdus, très misérables et très invisibles. » (Pedro Costa)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 190352,
-              "dateHeure": "2025-03-08T21:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Ossos",
         "mention": "avec Pedro Costa",
-        "dateHeure": "2025-03-08T21:00:00"
+        "dateHeure": "2025-03-08T19:30:00"
       }
     ],
     "Séance présentée": [

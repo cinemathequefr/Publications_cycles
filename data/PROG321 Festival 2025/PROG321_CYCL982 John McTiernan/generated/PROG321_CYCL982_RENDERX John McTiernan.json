@@ -163,7 +163,7 @@
                 "Carl Weathers",
                 "Elpidia Carrillo"
               ],
-              "miniTexte": "Dans une jungle d'Amérique centrale, une mission de sauvetage tourne à la confrontation avec une terrifiante créature extraterrestre. Thriller, horreur et science-fiction dans un _survival_ haletant, dont l'atmosphère paranoïaque va crescendo jusqu'au final, saisissant de brutalité. « S'il peut saigner, on peut le tuer ! » : le premier volet de la franchise, porté par Arnold Schwarzenegger et ses punchlines d'anthologie."
+              "miniTexte": "Dans une jungle d'Amérique centrale, une mission de sauvetage tourne à la confrontation avec une terrifiante créature extraterrestre. Thriller, horreur et science-fiction dans un _survival_ haletant, dont l'atmosphère paranoïaque va _crescendo_ jusqu'au final, saisissant de brutalité. « S'il peut saigner, on peut le tuer ! » : le premier volet de la franchise, porté par Arnold Schwarzenegger et ses punchlines d'anthologie."
             }
           ],
           "seances": [
@@ -176,33 +176,51 @@
           ]
         },
         {
-          "idFilm": 64913,
-          "content": [
+          "groupe": [
             {
               "idFilm": 64913,
-              "ordre": 1,
-              "titre": "Thomas Crown",
-              "titreVo": "Thomas Crown Affair",
-              "artVo": "The",
-              "realisateurs": "John McTiernan",
-              "pays": "États-Unis",
-              "annee": 1999,
-              "duree": 105,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Pierce Brosnan",
-                "Rene Russo",
-                "Denis Leary"
-              ],
-              "miniTexte": "Le remake de la version avec Steve McQueen et Faye Dunaway. Le vol de tableau a remplacé le hold-up, Boston est devenue New York, Crown est sympathique et facétieux. Mais la substance est la même, qui célèbre le goût du risque, et cache un jeu de séduction vénéneux, pour l'amour de l'art et surtout l'art de l'amour."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 64913,
+                  "ordre": 1,
+                  "titre": "Thomas Crown",
+                  "titreVo": "Thomas Crown Affair",
+                  "artVo": "The",
+                  "realisateurs": "John McTiernan",
+                  "pays": "États-Unis",
+                  "annee": 1999,
+                  "duree": 105,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Pierce Brosnan",
+                    "Rene Russo",
+                    "Denis Leary"
+                  ],
+                  "miniTexte": "Le remake de la version avec Steve McQueen et Faye Dunaway. Le vol de tableau a remplacé le hold-up, Boston est devenue New York, Crown est sympathique et facétieux. Mais la substance est la même, qui célèbre le goût du risque, et cache un jeu de séduction vénéneux, pour l'amour de l'art et surtout l'art de l'amour."
+                }
+              ]
+            },
             {
-              "idSeance": 185231,
-              "dateHeure": "2025-03-08T14:00:00",
-              "idSalle": "HL"
+              "idEvenement": 32550,
+              "content": [
+                {
+                  "idConf": 32550,
+                  "ordre": 2,
+                  "titre": "Dialogue avec John McTiernan",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Jean-François Rauger",
+                  "miniTexte": "« Le film de Norman Jewison était un _caper movie_ (film de hold-up) et il est devenu le modèle d'un grand nombre d'affreuses copies qui ont fleuri par la suite. Ce film était vraiment en phase avec son époque. _Bonnie and Clyde_ est sorti à la même période, et c'était la même chose : dans les deux cas, on suivait des asociaux qui se transformaient en voleurs. C'était une notion très commune en 1968. Or, notre version de _Thomas Crown_ est une histoire d'amour. Sur certains points, elle est d'ailleurs un peu plus rétro que l'original. Mon film se rapproche plus d'un vieux Cary Grant, d'une _love story_ à l'ancienne, comme _La Main au collet_. Bref, parce que le premier _Thomas Crown_ avait une fonction précise à son époque et qu'il reflétait un état d'esprit alors courant, je n'ai pas essayé de l'imiter. J'ai plutôt tenté de modifier l'histoire pour être en accord avec mon époque. » (John McTiernan)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 185231,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-03-08T14:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -307,38 +325,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32550,
-          "content": [
-            {
-              "idConf": 32550,
-              "titre": "Dialogue avec John McTiernan",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Jean-François Rauger",
-              "miniTexte": "« Le film de Norman Jewison était un _caper movie_ (film de hold-up) et il est devenu le modèle d'un grand nombre d'affreuses copies qui ont fleuri par la suite. Ce film était vraiment en phase avec son époque. _Bonnie and Clyde_ est sorti à la même période, et c'était la même chose : dans les deux cas, on suivait des asociaux qui se transformaient en voleurs. C'était une notion très commune en 1968. Or, notre version de _Thomas Crown_ est une histoire d'amour. Sur certains points, elle est d'ailleurs un peu plus rétro que l'original. Mon film se rapproche plus d'un vieux Cary Grant, d'une _love story_ à l'ancienne, comme _La Main au collet_. Bref, parce que le premier _Thomas Crown_ avait une fonction précise à son époque et qu'il reflétait un état d'esprit alors courant, je n'ai pas essayé de l'imiter. J'ai plutôt tenté de modifier l'histoire pour être en accord avec mon époque. » (John McTiernan)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188339,
-              "dateHeure": "2025-03-08T16:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Thomas Crown",
         "mention": "avec John McTiernan",
-        "dateHeure": "2025-03-08T16:00:00"
+        "dateHeure": "2025-03-08T14:00:00"
       }
     ],
     "Séances présentées": [

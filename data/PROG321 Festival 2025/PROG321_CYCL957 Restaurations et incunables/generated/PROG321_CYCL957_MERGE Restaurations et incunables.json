@@ -733,6 +733,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 150,
+          "typeAssoc": 118,
           "idCategorie": 3654,
           "idEvenement": 32315,
           "typeEvenement": 13,
@@ -1191,13 +1192,15 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 188337,
-          "dateHeure": "2025-03-06T22:00:00",
+          "idSeance": 185191,
+          "ordre": 2,
+          "dateHeure": "2025-03-06T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 75,
+          "typeAssoc": 118,
           "idCategorie": 3750,
           "idEvenement": 32664,
           "typeEvenement": 14,
@@ -1212,8 +1215,15 @@
               "idFonction": 142,
               "fonction": "Interviewé",
               "ordre": 1
+            },
+            {
+              "nomComplet": "Frédéric Bonnaud",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
             }
-          ]
+          ],
+          "mentionAnimation": "Animé par Frédéric Bonnaud"
         }
       ],
       "textes": []

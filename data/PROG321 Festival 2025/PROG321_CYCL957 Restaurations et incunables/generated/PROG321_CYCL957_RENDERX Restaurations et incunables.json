@@ -616,31 +616,48 @@
           ]
         },
         {
-          "idFilm": 75413,
-          "content": [
+          "groupe": [
             {
               "idFilm": 75413,
-              "ordre": 1,
-              "titre": "Sur mes lèvres",
-              "realisateurs": "Jacques Audiard",
-              "pays": "France",
-              "annee": 2001,
-              "duree": 115,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Vincent Cassel",
-                "Emmanuelle Devos",
-                "Olivier Gourmet"
-              ],
-              "miniTexte": "Une secrétaire malentendante voit sa vie bouleversée par un ancien délinquant. Scénario à l'os, cadrages serrés et étude de caractère forment un thriller hors normes, sans cesse troublant, qui met en valeur deux interprètes magnifiquement assortis. Avec trois Césars à la clé, dont celui de la meilleure actrice pour Emmanuelle Devos."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 75413,
+                  "ordre": 1,
+                  "titre": "Sur mes lèvres",
+                  "realisateurs": "Jacques Audiard",
+                  "pays": "France",
+                  "annee": 2001,
+                  "duree": 115,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Vincent Cassel",
+                    "Emmanuelle Devos",
+                    "Olivier Gourmet"
+                  ],
+                  "miniTexte": "Une secrétaire malentendante voit sa vie bouleversée par un ancien délinquant. Scénario à l'os, cadrages serrés et étude de caractère forment un thriller hors normes, sans cesse troublant, qui met en valeur deux interprètes magnifiquement assortis. Avec trois Césars à la clé, dont celui de la meilleure actrice pour Emmanuelle Devos."
+                }
+              ]
+            },
             {
-              "idSeance": 185191,
-              "dateHeure": "2025-03-06T20:00:00",
-              "idSalle": "HL"
+              "idEvenement": 32664,
+              "content": [
+                {
+                  "idConf": 32664,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jacques Audiard",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 185191,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-03-06T20:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -965,36 +982,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 32664,
-          "content": [
-            {
-              "idConf": 32664,
-              "titre": "Dialogue avec Jacques Audiard",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188337,
-              "dateHeure": "2025-03-06T22:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Sur mes lèvres",
         "mention": "avec Jacques Audiard",
-        "dateHeure": "2025-03-06T22:00:00"
+        "dateHeure": "2025-03-06T20:00:00"
       }
     ],
     "Séance présentée": [
