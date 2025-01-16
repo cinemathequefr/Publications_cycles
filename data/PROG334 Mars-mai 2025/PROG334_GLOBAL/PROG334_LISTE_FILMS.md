@@ -198,7 +198,7 @@
   * Terre en transe  
   * Têtes coupées
 
-## Histoire permanente du cinéma (36)
+## Histoire permanente du cinéma (37)
 
   * À cause d'un assassinat  
   * Absence de malice  
@@ -235,6 +235,7 @@
   * Possession  
   * Ragtime  
   * Tout va bien  
+  * Travail au noir  
   * Une femme douce
 
 ## Le flou au cinéma (10)
