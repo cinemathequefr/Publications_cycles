@@ -1,56 +1,34 @@
 [
   {
-    "idCategorie": 3753,
+    "idCategorie": 3709,
     "typeEvenement": 13,
-    "idEvenement": 32654,
-    "idSeance": 190344,
-    "dateHeure": "2025-03-05T12:00:00",
+    "idEvenement": 32387,
+    "idSeance": 185157,
+    "dateHeure": "2025-03-07T18:00:00",
     "idSalle": [
-      "HO",
-      "Hors les murs"
-    ],
-    "dureeSeance": 225,
-    "items": [
-      {
-        "idFilm": 50952,
-        "ordre": 1,
-        "idSeance": 190344,
-        "idCopie": 8946,
-        "duree": 192,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3753,
-    "typeEvenement": 13,
-    "idEvenement": 32653,
-    "idSeance": 190345,
-    "dateHeure": "2025-03-05T12:00:00",
-    "idSalle": [
-      "HO",
-      "Hors les murs"
+      "LE",
+      "Lotte Eisner"
     ],
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 34795,
+        "idFilm": 36706,
         "ordre": 1,
-        "idSeance": 190345,
-        "idCopie": 13326,
-        "duree": 105,
+        "idSeance": 185157,
+        "idCopie": 29220,
+        "duree": 104,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Susan Seidelman"
   },
   {
     "idCategorie": 3709,
     "typeEvenement": 13,
     "idEvenement": 32388,
     "idSeance": 185295,
-    "dateHeure": "2025-03-07T18:00:00",
+    "dateHeure": "2025-03-07T21:00:00",
     "idSalle": [
       "LE",
       "Lotte Eisner"
@@ -70,28 +48,27 @@
     "mention": "Séance présentée par Susan Seidelman"
   },
   {
-    "idCategorie": 3709,
+    "idCategorie": 3753,
     "typeEvenement": 13,
-    "idEvenement": 32387,
-    "idSeance": 185157,
-    "dateHeure": "2025-03-07T21:00:00",
+    "idEvenement": 32654,
+    "idSeance": 190344,
+    "dateHeure": "2025-03-08T14:00:00",
     "idSalle": [
-      "LE",
-      "Lotte Eisner"
+      "HO",
+      "Hors les murs"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 225,
     "items": [
       {
-        "idFilm": 36706,
+        "idFilm": 50952,
         "ordre": 1,
-        "idSeance": 185157,
-        "idCopie": 29220,
-        "duree": 104,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idSeance": 190344,
+        "idCopie": 8946,
+        "duree": 192,
+        "version": "",
+        "format": "DCP"
       }
-    ],
-    "mention": "Séance présentée par Susan Seidelman"
+    ]
   },
   {
     "idCategorie": 3709,
@@ -156,6 +133,29 @@
     "items": [
       {
         "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 3753,
+    "typeEvenement": 13,
+    "idEvenement": 32653,
+    "idSeance": 190345,
+    "dateHeure": "2025-03-09T19:00:00",
+    "idSalle": [
+      "HO",
+      "Hors les murs"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 34795,
+        "ordre": 1,
+        "idSeance": 190345,
+        "idCopie": 13326,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   }
