@@ -9,7 +9,7 @@
   * Driven from Home  
   * Fille de Shanghaï (La)  
   * Fleur de lotus  
-  * Grain de son / Dinty  
+  * Grain de son  
   * Hai-Tang  
   * Île des hommes perdus (L')  
   * Marchande de rêves (La)  
