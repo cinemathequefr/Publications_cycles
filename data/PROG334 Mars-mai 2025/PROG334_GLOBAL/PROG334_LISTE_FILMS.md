@@ -9,7 +9,7 @@
   * Driven from Home  
   * Fille de Shanghaï (La)  
   * Fleur de lotus  
-  * Grain de son  
+  * Grain de son / Dinty  
   * Hai-Tang  
   * Île des hommes perdus (L')  
   * Marchande de rêves (La)  
@@ -27,9 +27,8 @@
 
   * Cinégraphies, les femmes de la tempête
 
-## Aujourd'hui le cinéma (16)
+## Aujourd'hui le cinéma (15)
 
-  * Ata  
   * Baby-foot Boulevard  
   * Bataille d'Alger (La)  
   * Batguano  
