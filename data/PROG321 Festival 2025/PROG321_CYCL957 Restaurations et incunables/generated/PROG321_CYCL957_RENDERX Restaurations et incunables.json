@@ -66,7 +66,8 @@
             {
               "idSeance": 188300,
               "dateHeure": "2025-03-05T19:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Shivendra Singh Dungarpur"
             }
           ]
         },
@@ -268,7 +269,8 @@
             {
               "idSeance": 188324,
               "dateHeure": "2025-03-09T18:00:00",
-              "idSalle": "LE"
+              "idSalle": "LE",
+              "mention": "Séance présentée par Frédéric Bonnaud"
             }
           ]
         },
@@ -329,7 +331,7 @@
           "seances": [
             {
               "idSeance": 185152,
-              "dateHeure": "2025-03-06T20:00:00",
+              "dateHeure": "2025-03-06T20:30:00",
               "idSalle": "GF",
               "mention": "Séance présentée par Pierre Eugène"
             }
@@ -361,7 +363,8 @@
             {
               "idSeance": 190348,
               "dateHeure": "2025-03-06T17:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Hanna Schygulla"
             }
           ]
         },
@@ -433,7 +436,8 @@
             {
               "idSeance": 188288,
               "dateHeure": "2025-03-05T16:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Frédéric Bonnaud"
             }
           ]
         },
@@ -666,7 +670,8 @@
                   "idSeance": 185191,
                   "typeAssoc": 118,
                   "dateHeure": "2025-03-06T20:00:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "mention": "Séance présentée par Frédéric Bonnaud"
                 }
               ]
             }
@@ -701,7 +706,7 @@
               "idSeance": 185190,
               "dateHeure": "2025-03-09T13:45:00",
               "idSalle": "HL",
-              "mention": "Accompagnement musical par Edouard Ferlet et Joël Grare"
+              "mention": "Accompagnement musical par Edouard Ferlet et Joël Grare. Séance présentée par Jean-François Rauger"
             }
           ]
         },
@@ -977,9 +982,24 @@
     ],
     "Séances présentées": [
       {
+        "titreFilms": "La Nuit",
+        "mention": "par Frédéric Bonnaud",
+        "dateHeure": "2025-03-05T16:30:00"
+      },
+      {
         "titreFilms": "The Country Doctor / K / Together",
         "mention": "par Henry Miller",
         "dateHeure": "2025-03-05T17:00:00"
+      },
+      {
+        "titreFilms": "Le Barattage",
+        "mention": "par Shivendra Singh Dungarpur",
+        "dateHeure": "2025-03-05T19:30:00"
+      },
+      {
+        "titreFilms": "Lili Marleen",
+        "mention": "par Hanna Schygulla",
+        "dateHeure": "2025-03-06T17:30:00"
       },
       {
         "titreFilms": "La Chatte à deux têtes",
@@ -987,9 +1007,14 @@
         "dateHeure": "2025-03-06T20:00:00"
       },
       {
+        "titreFilms": "Sur mes lèvres",
+        "mention": "par Frédéric Bonnaud",
+        "dateHeure": "2025-03-06T20:00:00"
+      },
+      {
         "titreFilms": "Jardin d'été",
         "mention": "par Pierre Eugène",
-        "dateHeure": "2025-03-06T20:00:00"
+        "dateHeure": "2025-03-06T20:30:00"
       },
       {
         "titreFilms": "Cousin, cousine",
@@ -1030,6 +1055,16 @@
         "titreFilms": "Happy Day",
         "mention": "par Maria Komninos",
         "dateHeure": "2025-03-09T12:00:00"
+      },
+      {
+        "titreFilms": "La Tache de sang",
+        "mention": "par Jean-François Rauger",
+        "dateHeure": "2025-03-09T13:45:00"
+      },
+      {
+        "titreFilms": "Le Fleuve de la mort",
+        "mention": "par Frédéric Bonnaud",
+        "dateHeure": "2025-03-09T18:00:00"
       }
     ]
   }

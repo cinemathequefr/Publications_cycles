@@ -10,8 +10,6 @@ Notre déambulation parisienne se prolongera avec des films tournés en banlieue
 
 Dans la continuité des programmations précédentes du festival, nous poursuivons nos restaurations de films muets transalpins inédits, en collaboration avec des chercheurs et des historiens du cinéma italiens, comme Silvio Alovisio et Luca Mazzei, qui travaillent sur le paysage de leur pays à travers le cinéma muet. Ils seront aux côtés de la Cinémathèque française et du CNC pour présenter cette invitation au voyage, l'occasion d'échanger sur les images documentaires _Bergamo_ ou _Almafi_ et des courts métrages de fiction comme _Le Lys noir_.
 
-Classique, mais dans une forme originale, nous projetterons la version française raccourcie de _Nanouk l'esquimau_ de Robert Flaherty, curiosité de la Cinémathèque française qu'Henri Langlois avait nommée « Bouton d'or », pour valoriser le teintage orange qui la caractérise.
-
 Enfin, œuvre plus contemporaine, le documentaire militant _D'une brousse à l'autre_, qui a été restauré avec le réalisateur Jacques Kebadian : le cinéaste s'était enfermé avec sa caméra vidéo auprès des sans-papiers dans l'église Saint-Bernard en 1995, pour un témoignage de ce triste épisode historique.
 
 <div class="author">Hervé Pichard</div>
