@@ -80,7 +80,7 @@
   * Sire di Vincigliata (Il)  
   * Zone (La)
 
-## Restaurations et incunables (31)
+## Restaurations et incunables (30)
 
   * Bande du Rex (La)  
   * Barattage (Le)  
@@ -107,7 +107,6 @@
   * Tamango  
   * The Country Doctor  
   * Together  
-  * Tomorrow There Will Be Fine Weather  
   * Trois sublimes canailles  
   * Tueur de flics  
   * Vent (Le)  

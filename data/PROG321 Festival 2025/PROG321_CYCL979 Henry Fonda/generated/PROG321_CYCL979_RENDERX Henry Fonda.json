@@ -29,7 +29,8 @@
             {
               "idSeance": 188138,
               "dateHeure": "2025-03-08T17:00:00",
-              "idSalle": "LE"
+              "idSalle": "LE",
+              "mention": "Séance présentée par Alexander Horwath"
             }
           ]
         },
@@ -61,7 +62,8 @@
             {
               "idSeance": 188312,
               "dateHeure": "2025-03-05T12:00:00",
-              "idSalle": "HO"
+              "idSalle": "HO",
+              "mention": "Séance suivie d'une discussion avec Alexander Horwath"
             }
           ]
         },
@@ -100,11 +102,23 @@
     }
   ],
   "syntheseAction": {
-    "Discussion": [
+    "Discussions": [
+      {
+        "titreFilms": "Point limite",
+        "mention": "avec Alexander Horwath",
+        "dateHeure": "2025-03-05T12:00:00"
+      },
       {
         "titreFilms": "Vers sa destinée",
         "mention": "avec Alexander Horwath",
         "dateHeure": "2025-03-06T17:00:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Henry Fonda for President",
+        "mention": "par Alexander Horwath",
+        "dateHeure": "2025-03-08T17:00:00"
       }
     ]
   }
