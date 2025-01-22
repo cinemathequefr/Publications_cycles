@@ -61,7 +61,7 @@
   * Ossos  
   * Sang (Le)
 
-## Raretés des collections (16)
+## Raretés des collections (15)
 
   * Amalfi  
   * Aubervilliers  
@@ -72,7 +72,6 @@
   * Giovanni Vitrotti  
   * Légende de Pierrette (La)  
   * Lys noir (Le)  
-  * Nanouk l'esquimau  
   * Notre-Dame, cathédrale de Paris  
   * Paris la belle  
   * Paris la nuit  
