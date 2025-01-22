@@ -55,10 +55,11 @@
   * Pétomane (Le)  
   * Plus beau que moi, tu meurs
 
-## David Cronenberg (37)
+## David Cronenberg (38)
 
   * A Dangerous Method  
   * A History of Violence  
+  * At the Suicide of the Last Jew in the World in the Last Cinema in the World  
   * Camera  
   * Chromosome 3  
   * Cosmopolis  
