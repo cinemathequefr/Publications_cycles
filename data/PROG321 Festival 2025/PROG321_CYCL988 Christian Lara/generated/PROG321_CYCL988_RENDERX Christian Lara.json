@@ -21,7 +21,7 @@
               "annee": 2023,
               "duree": 80,
               "version": "",
-              "format": "",
+              "format": "DCP",
               "generique": [
                 "Luc Saint-Éloy",
                 "Caroline Ducey"
@@ -33,7 +33,8 @@
             {
               "idSeance": 188147,
               "dateHeure": "2025-03-05T15:00:00",
-              "idSalle": "LE"
+              "idSalle": "LE",
+              "mention": "Séance présentée par Caroline Ducey"
             }
           ]
         },
@@ -63,12 +64,26 @@
             {
               "idSeance": 185273,
               "dateHeure": "2025-03-06T16:15:00",
-              "idSalle": "LE"
+              "idSalle": "LE",
+              "mention": "Séance présentée par Guillaume Robillard"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "AL",
+        "mention": "par Caroline Ducey",
+        "dateHeure": "2025-03-05T15:00:00"
+      },
+      {
+        "titreFilms": "Coco la Fleur, candidat",
+        "mention": "par Guillaume Robillard",
+        "dateHeure": "2025-03-06T16:15:00"
+      }
+    ]
+  }
 }

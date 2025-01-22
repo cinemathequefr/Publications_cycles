@@ -3,13 +3,13 @@
     "idCategorie": 1856,
     "typeEvenement": 14,
     "idEvenement": 32702,
-    "idSeance": 188447,
+    "idSeance": 190399,
     "dateHeure": "2025-03-07T18:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 90,
+    "dureeSeance": 120,
     "items": [
       {}
     ]
@@ -18,18 +18,24 @@
     "idCategorie": 3752,
     "typeEvenement": 13,
     "idEvenement": 32701,
-    "idSeance": 188446,
+    "idSeance": 190400,
     "dateHeure": "2025-03-08T20:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 30,
     "items": [
       {
         "idFilm": 44903,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 190400,
+        "idCopie": 29222,
+        "duree": 107,
+        "version": "INT. FR.",
+        "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Accompagnement musical par Jean-François Zygel. Séance présentée par Laurent Mannoni"
   }
 ]
