@@ -95,7 +95,7 @@
   * Lili Marleen  
   * Narayana  
   * Nuit (La)  
-  * Pékin central  
+  * Pékin Central  
   * Pirosmani  
   * Prisonnière du désert (La)  
   * Prisonnière n° 7 (La)  

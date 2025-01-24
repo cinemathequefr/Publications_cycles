@@ -282,6 +282,7 @@
 
   * 101 dalmatiens (Les)  
   * Azur et Asmar  
+  * Brisby et le secret de Nimh  
   * Chantons sous la pluie  
   * Charlie et la chocolaterie  
   * Charlot au music-hall  
@@ -289,7 +290,6 @@
   * Charlot fait une cure  
   * Demoiselles de Rochefort (Les)  
   * Fantastic Mr. Fox  
-  * Fievel et le nouveau monde  
   * Grande Vadrouille (La)  
   * Guerre des boutons (La)  
   * King Kong  
