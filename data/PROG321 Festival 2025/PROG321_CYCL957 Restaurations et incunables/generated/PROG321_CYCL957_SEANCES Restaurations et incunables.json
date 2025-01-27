@@ -165,7 +165,7 @@
     "typeEvenement": 13,
     "idEvenement": 32650,
     "idSeance": 185276,
-    "dateHeure": "2025-03-06T16:30:00",
+    "dateHeure": "2025-03-06T16:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -253,30 +253,6 @@
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
-    "idEvenement": 32307,
-    "idSeance": 188161,
-    "dateHeure": "2025-03-06T20:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 79113,
-        "ordre": 1,
-        "idSeance": 188161,
-        "idCopie": 29131,
-        "duree": 87,
-        "version": "",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance présentée par Jacques Nolot"
-  },
-  {
-    "idCategorie": 3654,
-    "typeEvenement": 13,
     "idEvenement": 32519,
     "idSeance": 185152,
     "dateHeure": "2025-03-06T20:30:00",
@@ -297,6 +273,30 @@
       }
     ],
     "mention": "Séance présentée par Pierre Eugène"
+  },
+  {
+    "idCategorie": 3654,
+    "typeEvenement": 13,
+    "idEvenement": 32307,
+    "idSeance": 188161,
+    "dateHeure": "2025-03-06T20:45:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 79113,
+        "ordre": 1,
+        "idSeance": 188161,
+        "idCopie": 29131,
+        "duree": 87,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Jacques Nolot"
   },
   {
     "idCategorie": 3654,
@@ -637,7 +637,8 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Jean-Baptiste Thoret"
   },
   {
     "idCategorie": 3654,
@@ -714,30 +715,6 @@
   {
     "idCategorie": 3654,
     "typeEvenement": 13,
-    "idEvenement": 31805,
-    "idSeance": 188297,
-    "dateHeure": "2025-03-09T20:00:00",
-    "idSalle": [
-      "LE",
-      "Lotte Eisner"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 41037,
-        "ordre": 1,
-        "idSeance": 188297,
-        "idCopie": 28883,
-        "duree": 85,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance présentée par Giorgi Kakabadze"
-  },
-  {
-    "idCategorie": 3654,
-    "typeEvenement": 13,
     "idEvenement": 31804,
     "idSeance": 185294,
     "dateHeure": "2025-03-09T20:30:00",
@@ -758,5 +735,29 @@
       }
     ],
     "mention": "Accompagnement musical par Mocke, Emmanuelle Parrenin et Delphine Dora"
+  },
+  {
+    "idCategorie": 3654,
+    "typeEvenement": 13,
+    "idEvenement": 31805,
+    "idSeance": 188297,
+    "dateHeure": "2025-03-09T21:00:00",
+    "idSalle": [
+      "LE",
+      "Lotte Eisner"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 41037,
+        "ordre": 1,
+        "idSeance": 188297,
+        "idCopie": 28883,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Giorgi Kakabadze"
   }
 ]
