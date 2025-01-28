@@ -42,7 +42,8 @@
             {
               "idSeance": 194490,
               "dateHeure": "2025-06-06T12:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Marién Gómez"
             }
           ]
         },
@@ -62,7 +63,8 @@
             {
               "idSeance": 194491,
               "dateHeure": "2025-06-06T12:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Marién Gomez"
             }
           ]
         }
@@ -113,10 +115,10 @@
               "idFilm": 83250,
               "ordre": 4,
               "titre": "Rites d'amour et de mort",
-              "titreVo": "Yukoku",
+              "titreVo": "Yūkoku",
               "realisateurs": "Yukio Mishima",
               "pays": "Japon",
-              "annee": 1965,
+              "annee": 1966,
               "duree": 28,
               "version": "",
               "format": "35 mm"
@@ -126,7 +128,8 @@
             {
               "idSeance": 189516,
               "dateHeure": "2025-07-04T19:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Keiko Courdy et Clément Rauger"
             }
           ]
         },
@@ -154,12 +157,36 @@
             {
               "idSeance": 189517,
               "dateHeure": "2025-07-04T20:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Clément Rauger"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Essais d'acteurs : Eve Francis / La Femme de nulle part",
+        "mention": "par Marién Gómez",
+        "dateHeure": "2025-06-06T12:00:00"
+      },
+      {
+        "titreFilms": "El Dorado",
+        "mention": "par Marién Gomez",
+        "dateHeure": "2025-06-06T12:00:00"
+      },
+      {
+        "titreFilms": "Soldats japonais / Le Printemps au Japon / Entretien avec Yukio Mishima / Rites d'amour et de mort",
+        "mention": "par Keiko Courdy et Clément Rauger",
+        "dateHeure": "2025-07-04T19:00:00"
+      },
+      {
+        "titreFilms": "Mishima",
+        "mention": "par Clément Rauger",
+        "dateHeure": "2025-07-04T20:30:00"
+      }
+    ]
+  }
 }
