@@ -55,7 +55,7 @@
   * Pétomane (Le)  
   * Plus beau que moi, tu meurs
 
-## David Cronenberg (38)
+## David Cronenberg (34)
 
   * A Dangerous Method  
   * A History of Violence  
@@ -76,10 +76,8 @@
   * Four Unloved Women, Adrift on a Purposeless Sea, Experience the Ecstasy of Dissection  
   * Frissons  
   * From the Drain  
-  * Italian Machine (The)  
   * Jim Ritchie Sculptor  
   * Letter from Michelangelo  
-  * Lie Chair (The)  
   * Linceuls (Les)  
   * M. Butterfly  
   * Maps to the Stars  
@@ -88,12 +86,10 @@
   * Promesses de l'ombre (Les)  
   * Rage  
   * Scanners  
-  * Secret Weapons  
   * Spider  
   * Stereo  
   * Tourettes  
   * Transfer  
-  * Victim (The)  
   * Videodrome
 
 ## Elio Petri (15)

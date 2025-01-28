@@ -651,39 +651,6 @@
     "hashEvenement": "f68862f154483f46538"
   },
   {
-    "idSeance": 185191,
-    "idEvenement": 32315,
-    "dateHeure": "2025-03-06T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ],
-      [
-        "Restaurations et incunables",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 75413,
-        "titre": "Sur mes lèvres",
-        "realisateurs": "Jacques Audiard",
-        "annee": 2001,
-        "duree": 115,
-        "format": "DCP"
-      },
-      {
-        "idConf": 32664,
-        "titre": "Dialogue avec Jacques Audiard",
-        "typeConference": "Dialogue",
-        "duree": 75
-      }
-    ],
-    "hashEvenement": "f75413c32664"
-  },
-  {
     "idSeance": 185152,
     "idEvenement": 32519,
     "dateHeure": "2025-03-06T20:30:00",
@@ -707,6 +674,29 @@
       }
     ],
     "hashEvenement": "f114149"
+  },
+  {
+    "idSeance": 185191,
+    "idEvenement": 32315,
+    "dateHeure": "2025-03-06T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 75413,
+        "titre": "Sur mes lèvres",
+        "realisateurs": "Jacques Audiard",
+        "annee": 2001,
+        "duree": 115,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f75413"
   },
   {
     "idSeance": 188161,
@@ -2386,6 +2376,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Justine Lévêque",
     "items": [
       {
         "idFilm": 114386,
