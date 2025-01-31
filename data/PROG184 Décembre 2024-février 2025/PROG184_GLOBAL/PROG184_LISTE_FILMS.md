@@ -149,7 +149,7 @@
   * Fièvre de l'argent (La)  
   * Grafted  
   * In a Violent Nature  
-  * Llanto (El)  
+  * Maudites (Les)  
   * Oddity  
   * Rumours
 
