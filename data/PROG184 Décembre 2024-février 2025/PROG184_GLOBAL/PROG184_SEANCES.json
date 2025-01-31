@@ -7284,7 +7284,6 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Mathieu Amalric",
     "items": [
       {
         "idFilm": 116210,
@@ -7801,6 +7800,53 @@
     "hashEvenement": "f64235"
   },
   {
+    "idSeance": 138735,
+    "idEvenement": 31571,
+    "dateHeure": "2025-02-05T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155182,
+        "titre": "Kayak",
+        "realisateurs": "Antoine Rossi,  Auguste Lefort, Flore Dechorgnat, [etc.]",
+        "annee": 2021,
+        "duree": 6,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155183,
+        "titre": "Aventures romantiques et extraordinaires de Mr Foudamour – La Lune promise",
+        "art": "Les",
+        "realisateurs": "Marc Boyer, Christian Pfohl",
+        "annee": 1993,
+        "duree": 5,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 57070,
+        "titre": "Alice au pays des merveilles",
+        "realisateurs": "Clyde Geronimi, Hamilton Luske, Wilfred Jackson",
+        "annee": 1951,
+        "duree": 5
+      },
+      {
+        "idFilm": 155184,
+        "titre": "Filante",
+        "realisateurs": "Marion Jamault",
+        "annee": 2024,
+        "duree": 9,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155182f155183f57070f155184"
+  },
+  {
     "idSeance": 185354,
     "idEvenement": 25732,
     "dateHeure": "2025-02-05T16:30:00",
@@ -8236,7 +8282,8 @@
         "realisateurs": "John Frankenheimer",
         "annee": 1973,
         "duree": 239,
-        "version": "STF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f80015"
@@ -8313,6 +8360,53 @@
       }
     ],
     "hashEvenement": "f32409"
+  },
+  {
+    "idSeance": 138878,
+    "idEvenement": 31571,
+    "dateHeure": "2025-02-09T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155182,
+        "titre": "Kayak",
+        "realisateurs": "Antoine Rossi,  Auguste Lefort, Flore Dechorgnat, [etc.]",
+        "annee": 2021,
+        "duree": 6,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155183,
+        "titre": "Aventures romantiques et extraordinaires de Mr Foudamour – La Lune promise",
+        "art": "Les",
+        "realisateurs": "Marc Boyer, Christian Pfohl",
+        "annee": 1993,
+        "duree": 5,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 57070,
+        "titre": "Alice au pays des merveilles",
+        "realisateurs": "Clyde Geronimi, Hamilton Luske, Wilfred Jackson",
+        "annee": 1951,
+        "duree": 5
+      },
+      {
+        "idFilm": 155184,
+        "titre": "Filante",
+        "realisateurs": "Marion Jamault",
+        "annee": 2024,
+        "duree": 9,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155182f155183f57070f155184"
   },
   {
     "idSeance": 188363,
@@ -8518,10 +8612,7 @@
         "titre": "Enfants loups, Ame et Yuki",
         "art": "Les",
         "realisateurs": "Mamoru Hosoda",
-        "annee": 2011,
-        "duree": 117,
-        "version": "VF",
-        "format": "DCP"
+        "annee": 2011
       }
     ],
     "hashEvenement": "f116906"

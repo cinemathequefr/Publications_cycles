@@ -275,8 +275,10 @@
   * Suspiria  
   * Vampyr
 
-## Ma petite Cinémathèque (20)
+## Ma petite Cinémathèque (24)
 
+  * Alice au pays des merveilles  
+  * Aventures romantiques et extraordinaires de Mr Foudamour – La Lune promise (Les)  
   * Aventuriers de l'Arche perdue (Les)  
   * Bons petits diables (Les)  
   * Bricoleurs (Les)  
@@ -285,11 +287,13 @@
   * Cerf-volant du bout du monde  
   * Contes de la nuit (Les)  
   * Enfants loups, Ame et Yuki (Les)  
+  * Filante  
   * Hugo Cabret  
   * Île de Black Mór (L')  
   * Indiana Jones et la dernière croisade  
   * Indiana Jones et le temple maudit  
   * Jason et les Argonautes  
+  * Kayak  
   * Kid (Le)  
   * Kiki la petite sorcière  
   * Laurel et Hardy menuisiers  
