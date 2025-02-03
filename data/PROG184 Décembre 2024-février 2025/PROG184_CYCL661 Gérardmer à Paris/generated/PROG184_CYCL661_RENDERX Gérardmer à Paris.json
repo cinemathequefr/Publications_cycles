@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2025-02-06T18:00:00",
+    "2025-02-05T20:00:00",
     "2025-02-09T19:15:00"
   ],
   "textePresentation": "",
@@ -9,6 +9,42 @@
       "tri": 4,
       "titreSousCycle": "Films de la compétition",
       "items": [
+        {
+          "idFilm": 155156,
+          "content": [
+            {
+              "idFilm": 155156,
+              "ordre": 1,
+              "titre": "In a Violent Nature",
+              "realisateurs": "Chris Nash",
+              "pays": "Canada",
+              "annee": 2024,
+              "duree": 94,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Ry Barrett",
+                "Andrea Pavlovic",
+                "Cameron Love",
+                "Reece Presley",
+                "Liam Leone"
+              ],
+              "miniTexte": "Après s'être fait dérober un précieux artefact, cadeau de sa mère, un tueur en série s'extirpe de sa tombe pour entamer une quête vengeresse. Il va traquer un groupe de jeunes qui se racontent son histoire."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194552,
+              "dateHeure": "2025-02-05T20:00:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 188362,
+              "dateHeure": "2025-02-08T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 155153,
           "content": [
@@ -161,37 +197,6 @@
               "idSeance": 188371,
               "dateHeure": "2025-02-08T15:00:00",
               "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 155156,
-          "content": [
-            {
-              "idFilm": 155156,
-              "ordre": 1,
-              "titre": "In a Violent Nature",
-              "realisateurs": "Chris Nash",
-              "pays": "Canada",
-              "annee": 2024,
-              "duree": 94,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Ry Barrett",
-                "Andrea Pavlovic",
-                "Cameron Love",
-                "Reece Presley",
-                "Liam Leone"
-              ],
-              "miniTexte": "Après s'être fait dérober un précieux artefact, cadeau de sa mère, un tueur en série s'extirpe de sa tombe pour entamer une quête vengeresse. Il va traquer un groupe de jeunes qui se racontent son histoire."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188362,
-              "dateHeure": "2025-02-08T18:00:00",
-              "idSalle": "HL"
             }
           ]
         },
