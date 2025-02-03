@@ -171,14 +171,13 @@
   * Visiteurs du soir (Les)  
   * Voyage surprise
 
-## John Frankenheimer (31)
+## John Frankenheimer (30)
 
   * À armes égales  
   * Ange de la violence (L')  
   * Black Sunday  
   * Cavaliers (Les)  
   * Dead Bang  
-  * Extraordinary Seaman (The)  
   * French Connection 2  
   * Grand Prix  
   * Hire: Ambush (The)  
