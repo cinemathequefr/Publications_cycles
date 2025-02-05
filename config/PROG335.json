@@ -3,6 +3,15 @@
   "titre": "Juin-juillet 2025",
   "cycles": [
     {
+      "idCycleProg": 14,
+      "titreCycle": "Cinéma bis",
+      "isReg": true,
+      "sousCycles": [
+        { "titre": "USA Eighties", "cats": [3647], "tri": 4 },
+        { "titre": "Les films", "cats": [3384], "tri": 4 }
+      ]
+    },
+    {
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
       "isReg": true,
@@ -34,6 +43,19 @@
       "titreCycle": "Histoire permanente du cinéma",
       "isReg": true,
       "sousCycles": [],
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
+      "idCycleProg": 993,
+      "titreCycle": "Antonio Margheriti",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [3747],
+          "tri": 4
+        }
+      ],
       "excludeSeances": [],
       "restaurations": []
     },
