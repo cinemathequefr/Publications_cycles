@@ -285,8 +285,8 @@
   * Cendrillon  
   * Cerf-volant du bout du monde  
   * Contes de la nuit (Les)  
-  * Enfants loups, Ame et Yuki (Les)  
   * Filante  
+  * Garçon et la bête (Le)  
   * Hugo Cabret  
   * Île de Black Mór (L')  
   * Indiana Jones et la dernière croisade  
