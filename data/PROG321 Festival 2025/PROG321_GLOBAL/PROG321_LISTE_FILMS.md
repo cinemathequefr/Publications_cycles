@@ -49,6 +49,10 @@
   * Predator  
   * Thomas Crown
 
+## Journée d'étude 130 ans de salles de cinéma (1)
+
+  * Entrée du cinématographe (Londres, Angleterre)
+
 ## Marleen Gorris (3)
 
   * Last Island (The)  
