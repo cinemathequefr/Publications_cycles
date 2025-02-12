@@ -2,8 +2,33 @@
   "data": [
     {
       "titreSousCycle": "Les films",
-      "tri": 4,
+      "tri": 2,
       "items": [
+        {
+          "idSeance": 189562,
+          "ordre": 1,
+          "dateHeure": "2025-07-05T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3747,
+          "idEvenement": 32600,
+          "typeEvenement": 13,
+          "idFilm": 58732,
+          "art": "La",
+          "titre": "Chevauchée terrible",
+          "artVo": "La",
+          "titreVo": "Parola di un fuorilegge è legge",
+          "realisateurs": "Anthony Dawson",
+          "annee": 1975,
+          "pays": "Italie-États-Unis",
+          "duree": 102,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "textes": []
+        },
         {
           "idSeance": 189437,
           "ordre": 1,
@@ -66,6 +91,63 @@
             "Peter Carsten",
             "Lee Burton"
           ],
+          "textes": []
+        },
+        {
+          "idSeance": 189475,
+          "ordre": 1,
+          "dateHeure": "2025-07-03T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3747,
+          "idEvenement": 32628,
+          "typeEvenement": 13,
+          "idFilm": 42318,
+          "art": "La",
+          "titre": "Sorcière sanglante",
+          "artVo": "I",
+          "titreVo": "Lunghi capelli della Morte",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1964,
+          "pays": "Italie",
+          "duree": 98,
+          "version": "VO",
+          "format": "DCP",
+          "textes": []
+        },
+        {
+          "idSeance": 189474,
+          "ordre": 1,
+          "dateHeure": "2025-07-03T18:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3747,
+          "idEvenement": 32630,
+          "typeEvenement": 13,
+          "idFilm": 79636,
+          "art": "La",
+          "titre": "Vierge de Nuremberg",
+          "artVo": "La",
+          "titreVo": "Vergine di Norimberga",
+          "realisateurs": "Anthony Dawson",
+          "annee": 1963,
+          "pays": "Italie",
+          "duree": 83,
+          "version": "VF",
+          "format": "35 mm",
+          "generique": [
+            "Rossana Podesta",
+            "Christopher Lee",
+            "Georges Rivière",
+            "Lucile Saint-Simon"
+          ],
+          "adaptation": "D'après le roman _La Vierge de Nuremberg_ de Frank Bogart.",
           "textes": []
         }
       ],
