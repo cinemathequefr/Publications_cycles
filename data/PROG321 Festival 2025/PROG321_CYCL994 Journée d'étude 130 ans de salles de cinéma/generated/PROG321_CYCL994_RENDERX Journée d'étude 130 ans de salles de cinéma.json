@@ -39,7 +39,10 @@
           "idConf": 33003,
           "content": [
             {
-              "idConf": 33003
+              "idConf": 33003,
+              "titre": "130 ans de salles de cinéma",
+              "sousTitre": "Journée d'étude, matinée",
+              "typeConference": "Conférence"
             }
           ],
           "seances": [
@@ -54,7 +57,10 @@
           "idConf": 33004,
           "content": [
             {
-              "idConf": 33004
+              "idConf": 33004,
+              "titre": "130 ans de salles de cinéma",
+              "sousTitre": "Journée d'étude, après-midi",
+              "typeConference": "Conférence"
             }
           ],
           "seances": [
@@ -69,9 +75,17 @@
     }
   ],
   "syntheseAction": {
-    "undefined": [
-      {},
-      {}
+    "Conférences": [
+      {
+        "titre": "130 ans de salles de cinéma",
+        "mention": "Journée d'étude, matinée",
+        "dateHeure": "2025-03-05T09:30:00"
+      },
+      {
+        "titre": "130 ans de salles de cinéma",
+        "mention": "Journée d'étude, après-midi",
+        "dateHeure": "2025-03-05T14:30:00"
+      }
     ]
   }
 }
