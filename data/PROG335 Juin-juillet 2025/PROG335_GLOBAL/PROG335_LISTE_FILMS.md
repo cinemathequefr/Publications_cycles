@@ -37,6 +37,33 @@
   * Rites d'amour et de mort  
   * Soldats japonais
 
+## Histoire permanente du cinéma (24)
+
+  * Affreux, sales et méchants  
+  * C'est la vie  
+  * Cicatrice intérieure (La)  
+  * Cité des femmes (La)  
+  * Court circuits  
+  * Dentellière (La)  
+  * Des gens comme les autres  
+  * Dodes'kaden  
+  * Épreuve de force (L')  
+  * Eugenio  
+  * Fame  
+  * Femmes au soleil  
+  * Grand soir (Le)  
+  * Hommes du président (Les)  
+  * Jamais plus toujours  
+  * Jardin des Finzi-Contini (Le)  
+  * Jonas qui aura 25 ans en l'an 2000  
+  * Julia  
+  * Ombre des anges (L')  
+  * Ombre des châteaux (L')  
+  * Parfum de femme  
+  * Roulette chinoise  
+  * Son nom de Venise dans Calcutta désert  
+  * Une chante, l'autre pas (L')
+
 ## Le cinéma d'animation japonais, 25 indispensables (3)
 
   * Ghost in the Shell  

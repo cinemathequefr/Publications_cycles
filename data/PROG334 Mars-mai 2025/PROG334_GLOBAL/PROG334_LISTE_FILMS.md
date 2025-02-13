@@ -46,7 +46,7 @@
   * Tremblements (Les)  
   * Voyage au bord de la guerre
 
-## Carlo Lizzani (31)
+## Carlo Lizzani (30)
 
   * Achtung! Banditi!  
   * Bandits à Milan  
@@ -66,7 +66,6 @@
   * Esterina  
   * Fontamara  
   * Hotel Meina  
-  * Jo le fou  
   * Lutring... réveille-toi et meurs  
   * Maîtresse de Gramigna (La)  
   * Mamma Ebe  
