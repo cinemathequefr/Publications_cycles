@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2025-03-05T09:45:00",
-    "2025-03-05T09:45:00"
+    "2025-03-05T09:30:00",
+    "2025-03-05T14:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -30,7 +30,48 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33003,
+          "content": [
+            {
+              "idConf": 33003
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194605,
+              "dateHeure": "2025-03-05T09:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 33004,
+          "content": [
+            {
+              "idConf": 33004
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194606,
+              "dateHeure": "2025-03-05T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "undefined": [
+      {},
+      {}
+    ]
+  }
 }

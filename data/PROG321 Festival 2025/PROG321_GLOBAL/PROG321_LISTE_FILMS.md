@@ -73,7 +73,7 @@
   * Bergamo  
   * Cœur de bonne  
   * D'une brousse à l'autre  
-  * Giovanni Vitrotti  
+  * Fortuna Ciabattino!  
   * Légende de Pierrette (La)  
   * Lys noir (Le)  
   * Notre-Dame, cathédrale de Paris  

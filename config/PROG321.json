@@ -1,6 +1,7 @@
 {
   "idProg": 321,
   "titre": "Festival 2025",
+  "ignoreSeances": [194581],
   "cycles": [
     {
       "idCycleProg": 18,
@@ -140,7 +141,10 @@
     {
       "idCycleProg": 994,
       "titreCycle": "Journée d'étude 130 ans de salles de cinéma",
-      "sousCycles": [{ "titre": "Les films", "cats": [3751], "tri": 4 }]
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3751], "tri": 4 },
+        { "titre": "Rencontres et conférences", "cats": [3779], "tri": 4 }
+      ]
     }
   ]
 }
