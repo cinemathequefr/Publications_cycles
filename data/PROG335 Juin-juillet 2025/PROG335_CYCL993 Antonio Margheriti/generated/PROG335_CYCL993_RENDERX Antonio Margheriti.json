@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-07-02T20:00:00",
-    "2025-07-06T20:45:00"
+    "2025-07-16T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -15,20 +15,56 @@
             {
               "idFilm": 111333,
               "ordre": 1,
-              "titre": "Avec Django la mort est là",
+              "titre": "Avec Django, la mort est là",
               "titreVo": "Joko invoca Dio... e muori",
               "realisateurs": "Antonio Margheriti",
               "pays": "Italie",
               "annee": 1968,
               "duree": 90,
               "version": "",
-              "format": ""
+              "format": "",
+              "generique": [
+                "Richard Harrison",
+                "Špela Rozin",
+                "Paolo Gozlino",
+                "Claudio Camaso"
+              ]
             }
           ],
           "seances": [
             {
               "idSeance": 194671,
               "dateHeure": "2025-07-05T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 43626,
+          "content": [
+            {
+              "idFilm": 43626,
+              "ordre": 1,
+              "titre": "Brute, le colt et le karaté",
+              "art": "La",
+              "titreVo": "Là dove non batte il sole",
+              "realisateurs": "Anthony Dawson",
+              "pays": "Italie-Espagne",
+              "annee": 1974,
+              "duree": 100,
+              "version": "VASTF",
+              "format": "35 mm",
+              "generique": [
+                "Lee Van Cleef",
+                "Lo Lieh",
+                "Patty Shepard"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189749,
+              "dateHeure": "2025-07-12T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -41,14 +77,20 @@
               "ordre": 1,
               "titre": "Chevauchée terrible",
               "art": "La",
-              "titreVo": "Parola di un fuorilegge è legge",
+              "titreVo": "Parola di un fuorilegge... è legge",
               "artVo": "La",
               "realisateurs": "Anthony Dawson",
               "pays": "Italie-États-Unis",
               "annee": 1975,
               "duree": 102,
               "version": "VOSTF",
-              "format": "35 mm"
+              "format": "35 mm",
+              "generique": [
+                "Jim Brown",
+                "Lee Van Cleef",
+                "Catherine Spaak",
+                "Fred Williamson"
+              ]
             }
           ],
           "seances": [
@@ -88,6 +130,11 @@
               "dateHeure": "2025-07-02T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 189818,
+              "dateHeure": "2025-07-16T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -106,13 +153,49 @@
               "annee": 1963,
               "duree": 88,
               "version": "VF",
-              "format": "35 mm"
+              "format": "35 mm",
+              "generique": [
+                "Carl Möhner",
+                "Loredana Nusciak",
+                "Ida Galli"
+              ]
             }
           ],
           "seances": [
             {
               "idSeance": 189581,
               "dateHeure": "2025-07-06T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 59399,
+          "content": [
+            {
+              "idFilm": 59399,
+              "ordre": 1,
+              "titre": "Diablesses",
+              "art": "Les",
+              "titreVo": "Morte negli occhi del gatto",
+              "artVo": "La",
+              "realisateurs": "Anthony Dawson",
+              "pays": "Italie-RFA-France",
+              "annee": 1972,
+              "duree": 90,
+              "version": "VF",
+              "format": "35 mm",
+              "generique": [
+                "Jane Birkin",
+                "Hiram Keller",
+                "Françoise Christophe"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189706,
+              "dateHeure": "2025-07-11T20:45:00",
               "idSalle": "GF"
             }
           ]
@@ -147,6 +230,244 @@
           ]
         },
         {
+          "idFilm": 55712,
+          "content": [
+            {
+              "idFilm": 55712,
+              "ordre": 1,
+              "titre": "Fantômes de Hurlevent",
+              "art": "Les",
+              "titreVo": "Nella stretta morsa del ragno",
+              "realisateurs": "Anthony Dawson",
+              "pays": "Italie-France-RFA",
+              "annee": 1971,
+              "duree": 105,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Anthony Franciosa",
+                "Michèle Mercier",
+                "Klaus Kinski",
+                "Peter Carsten"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189705,
+              "dateHeure": "2025-07-11T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 83460,
+          "content": [
+            {
+              "idFilm": 83460,
+              "ordre": 1,
+              "titre": "Flèche d'or",
+              "art": "La",
+              "titreVo": "Arciere delle mille e una notte",
+              "artVo": "L'",
+              "realisateurs": "Antonio Margheriti",
+              "pays": "Italie",
+              "annee": 1962,
+              "duree": 91,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Tab Hunter",
+                "Rossana Podestà",
+                "Umberto Melnati"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189817,
+              "dateHeure": "2025-07-16T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 128092,
+          "content": [
+            {
+              "idFilm": 128092,
+              "ordre": 1,
+              "titre": "Héros d'apocalypse",
+              "titreVo": "Ultimo cacciatore",
+              "artVo": "L'",
+              "realisateurs": "Anthony Dawson",
+              "pays": "Italie",
+              "annee": 1980,
+              "duree": 96,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "David Warbeck",
+                "Tisa Farrow",
+                "Tony King"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189751,
+              "dateHeure": "2025-07-12T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 90522,
+          "content": [
+            {
+              "idFilm": 90522,
+              "ordre": 1,
+              "titre": "Io ti amo",
+              "realisateurs": "Antonio Margheriti",
+              "pays": "Italie",
+              "annee": 1968,
+              "duree": 96,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Dalida",
+                "Alberto Lupo",
+                "Špela Rozin"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189629,
+              "dateHeure": "2025-07-09T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155160,
+          "content": [
+            {
+              "idFilm": 155160,
+              "ordre": 1,
+              "titre": "Joe l'implacable",
+              "titreVo": "Joe l'implacabile",
+              "realisateurs": "Antonio Margheriti",
+              "pays": "Italie",
+              "annee": 1967,
+              "duree": 98,
+              "version": "VF",
+              "format": "35 mm",
+              "generique": [
+                "Rik Van Nutter",
+                "Halina Zalewska",
+                "Renato Baldini"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189628,
+              "dateHeure": "2025-07-09T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 88134,
+          "content": [
+            {
+              "idFilm": 88134,
+              "ordre": 1,
+              "titre": "Kommando Leopard",
+              "realisateurs": "Anthony Dawson",
+              "pays": "RFA-Italie",
+              "annee": 1985,
+              "duree": 104,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Lewis Collins",
+                "Klaus Kinski",
+                "Cristina Donadio"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189770,
+              "dateHeure": "2025-07-13T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 40118,
+          "content": [
+            {
+              "idFilm": 40118,
+              "ordre": 1,
+              "titre": "Nom de code : Oies sauvages",
+              "titreVo": "Geheimcode : Wildgänse",
+              "realisateurs": "Anthony Dawson",
+              "pays": "RFA-Italie",
+              "annee": 1984,
+              "duree": 101,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Lewis Collins",
+                "Lee Van Cleef",
+                "Ernest Borgnine",
+                "Klaus Kinski"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189769,
+              "dateHeure": "2025-07-13T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 42320,
+          "content": [
+            {
+              "idFilm": 42320,
+              "ordre": 1,
+              "titre": "Ombre d'un tueur",
+              "art": "L'",
+              "titreVo": "Con la rabbia agli occhi",
+              "realisateurs": "Anthony Dawson",
+              "pays": "Italie",
+              "annee": 1975,
+              "duree": 98,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Yul Brynner",
+                "Massimo Ranieri",
+                "Barbara Bouchet",
+                "Martin Balsam"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189750,
+              "dateHeure": "2025-07-12T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 84781,
           "content": [
             {
@@ -161,13 +482,47 @@
               "annee": 1961,
               "duree": 102,
               "version": "VA",
-              "format": "16 mm"
+              "format": "16 mm",
+              "generique": [
+                "Claude Rains",
+                "Bill Carter",
+                "Umberto Orsini"
+              ]
             }
           ],
           "seances": [
             {
               "idSeance": 189580,
               "dateHeure": "2025-07-06T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 87325,
+          "content": [
+            {
+              "idFilm": 87325,
+              "ordre": 1,
+              "titre": "Pulsions cannibales",
+              "titreVo": "Apocalypse domani",
+              "realisateurs": "Anthony Dawson",
+              "pays": "Italie",
+              "annee": 1980,
+              "duree": 92,
+              "version": "VASTF",
+              "format": "DCP",
+              "generique": [
+                "John Saxon",
+                "Elizabeth Turner",
+                "Giovanni Lombardo Radice"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189780,
+              "dateHeure": "2025-07-14T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -187,7 +542,12 @@
               "annee": 1964,
               "duree": 98,
               "version": "VO",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Barbara Steele",
+                "George Ardisson",
+                "Halina Zalewska"
+              ]
             }
           ],
           "seances": [
@@ -195,6 +555,36 @@
               "idSeance": 189475,
               "dateHeure": "2025-07-03T20:00:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 155149,
+          "content": [
+            {
+              "idFilm": 155149,
+              "ordre": 1,
+              "titre": "Vainqueur de l'espace",
+              "art": "Le",
+              "titreVo": "Space Men",
+              "realisateurs": "Antonio Margheriti",
+              "pays": "Italie",
+              "annee": 1960,
+              "duree": 73,
+              "version": "VA",
+              "format": "16 mm",
+              "generique": [
+                "Rik Van Nutter",
+                "Gabriella Farinon",
+                "Archie Savage"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189779,
+              "dateHeure": "2025-07-14T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -216,9 +606,9 @@
               "format": "35 mm",
               "adaptation": "D'après le roman _La Vierge de Nuremberg_ de Frank Bogart.",
               "generique": [
-                "Rossana Podesta",
-                "Christopher Lee",
+                "Rossana Podestà",
                 "Georges Rivière",
+                "Christopher Lee",
                 "Lucile Saint-Simon"
               ]
             }
@@ -230,9 +620,71 @@
               "idSalle": "HL"
             }
           ]
+        },
+        {
+          "idFilm": 56630,
+          "content": [
+            {
+              "idFilm": 56630,
+              "ordre": 1,
+              "titre": "Yor, le chasseur du futur",
+              "titreVo": "Mondo di Yor",
+              "artVo": "Il",
+              "realisateurs": "Anthony Dawson",
+              "pays": "Italie",
+              "annee": 1982,
+              "duree": 88,
+              "version": "VF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman graphique _Henga el cazador_ de Juan Zanotto et Ray Collins.",
+              "generique": [
+                "Reb Brown",
+                "Corinne Cléry",
+                "John Steiner"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194684,
+              "dateHeure": "2025-07-13T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33001,
+          "content": [
+            {
+              "idConf": 33001,
+              "titre": "Dialogue avec Jean-François Rauger",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Jean-François Rauger"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194693,
+              "dateHeure": "2025-07-05T16:45:00",
+              "idSalle": "GF"
+            }
+          ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "avec Jean-François Rauger",
+        "dateHeure": "2025-07-05T16:45:00"
+      }
+    ]
+  }
 }
