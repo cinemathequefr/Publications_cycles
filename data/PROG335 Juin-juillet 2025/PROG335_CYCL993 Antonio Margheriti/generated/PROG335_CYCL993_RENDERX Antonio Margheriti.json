@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-07-02T20:00:00",
-    "2025-07-05T18:30:00"
+    "2025-07-06T20:45:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,30 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 111333,
+          "content": [
+            {
+              "idFilm": 111333,
+              "ordre": 1,
+              "titre": "Avec Django la mort est là",
+              "titreVo": "Joko invoca Dio... e muori",
+              "realisateurs": "Antonio Margheriti",
+              "pays": "Italie",
+              "annee": 1968,
+              "duree": 90,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194671,
+              "dateHeure": "2025-07-05T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 58732,
           "content": [
@@ -29,8 +53,8 @@
           ],
           "seances": [
             {
-              "idSeance": 189562,
-              "dateHeure": "2025-07-05T18:30:00",
+              "idSeance": 189561,
+              "dateHeure": "2025-07-05T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -68,6 +92,32 @@
           ]
         },
         {
+          "idFilm": 43630,
+          "content": [
+            {
+              "idFilm": 43630,
+              "ordre": 1,
+              "titre": "Derniers jours d'un empire",
+              "art": "Les",
+              "titreVo": "Crollo di Roma",
+              "artVo": "Il",
+              "realisateurs": "Anthony Dawson",
+              "pays": "Italie",
+              "annee": 1963,
+              "duree": 88,
+              "version": "VF",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189581,
+              "dateHeure": "2025-07-06T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 59031,
           "content": [
             {
@@ -92,6 +142,32 @@
             {
               "idSeance": 189560,
               "dateHeure": "2025-07-05T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 84781,
+          "content": [
+            {
+              "idFilm": 84781,
+              "ordre": 1,
+              "titre": "Planète des hommes perdus",
+              "art": "La",
+              "titreVo": "Pianeta degli uomini spenti",
+              "artVo": "Il",
+              "realisateurs": "Anthony Dawson",
+              "pays": "Italie",
+              "annee": 1961,
+              "duree": 102,
+              "version": "VA",
+              "format": "16 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189580,
+              "dateHeure": "2025-07-06T18:30:00",
               "idSalle": "GF"
             }
           ]

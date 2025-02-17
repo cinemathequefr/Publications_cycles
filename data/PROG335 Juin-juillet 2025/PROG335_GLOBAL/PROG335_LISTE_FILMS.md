@@ -1,10 +1,13 @@
 # Liste des films par cycle
 
-## Antonio Margheriti (5)
+## Antonio Margheriti (8)
 
+  * Avec Django la mort est là  
   * Chevauchée terrible (La)  
   * Danse macabre  
+  * Derniers jours d'un empire (Les)  
   * Et le vent apporta la violence  
+  * Planète des hommes perdus (La)  
   * Sorcière sanglante (La)  
   * Vierge de Nuremberg (La)
 
@@ -81,18 +84,20 @@
   * Une chante, l'autre pas (L')  
   * Vie est un roman (La)
 
-## John Stahl (21)
+## John Stahl (23)
 
   * A Lady Surrenders  
   * Back Street  
+  * Eve of St. Mark (The)  
   * Her Code of Honor  
   * Histoire d'un amour  
-  * Husbands and Lovers  
+  * Holy Matrimony  
   * Images de la vie  
   * Lettre d'introduction  
   * Lincoln Cycle (The)  
   * Memory Lane  
   * One Clear Call  
+  * Our Wife  
   * Péché mortel  
   * Secret magnifique (Le)  
   * Son enfant  
@@ -105,8 +110,17 @@
   * Why Men Leave Home  
   * Woman Under Oath (The)
 
-## Le cinéma d'animation japonais, 25 indispensables (3)
+## Le cinéma d'animation japonais, 25 indispensables (12)
 
+  * Akira  
+  * Cleopatra  
   * Ghost in the Shell  
   * Ghost in the Shell 2 : Innocence  
+  * Jin-Roh, la brigade des loups  
+  * Mille et Une Nuits (Les)  
+  * Millennium Actress  
+  * Œuf de l'ange (L')  
+  * Paprika  
   * Perfect blue  
+  * Serpent blanc (Le)  
+  * Voyage de Chihiro (Le)  
