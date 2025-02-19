@@ -5,14 +5,15 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 189745,
+          "idSeance": 194721,
           "ordre": 1,
-          "dateHeure": "2025-07-12T14:30:00",
+          "dateHeure": "2025-06-28T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3671,
           "idEvenement": 31959,
           "typeEvenement": 13,
@@ -211,6 +212,47 @@
               "texte": "Après _Fantastic Mr Fox_, le cinéaste revient à l'animation avec l'histoire d'une mystérieuse épidémie de grippe canine, située dans un Japon dystopique. À travers la quête du jeune Atari pour sauver son chien adoré, Anderson réalise une astucieuse fable cynophile, dont le style se fond à merveille dans la culture japonaise."
             }
           ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 194721,
+          "ordre": 2,
+          "dateHeure": "2025-06-28T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3708,
+          "idEvenement": 33043,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Marc Cerisuelo",
+          "duree": 75,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Marc Cerisuelo",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Bernard Benoliel"
         }
       ],
       "textes": []

@@ -10,6 +10,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 150,
+    "typeSeance": 44,
     "items": [
       {
         "idFilm": 71030,
@@ -20,37 +21,15 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
-  },
-  {
-    "idCategorie": 3767,
-    "typeEvenement": 13,
-    "idEvenement": 32917,
-    "idSeance": 189663,
-    "dateHeure": "2025-07-10T18:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
     ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 75632,
-        "ordre": 1,
-        "idSeance": 189663,
-        "idCopie": 13046,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 3767,
     "typeEvenement": 13,
     "idEvenement": 32921,
     "idSeance": 189664,
-    "dateHeure": "2025-07-10T20:30:00",
+    "dateHeure": "2025-07-10T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -69,11 +48,26 @@
     ]
   },
   {
+    "idCategorie": 3784,
+    "typeEvenement": 14,
+    "idEvenement": 33045,
+    "idSeance": 194712,
+    "dateHeure": "2025-07-10T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 75,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 3767,
     "typeEvenement": 13,
     "idEvenement": 32919,
     "idSeance": 189703,
-    "dateHeure": "2025-07-11T19:00:00",
+    "dateHeure": "2025-07-11T19:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -94,9 +88,51 @@
   {
     "idCategorie": 3767,
     "typeEvenement": 13,
+    "idEvenement": 32920,
+    "idSeance": 194714,
+    "dateHeure": "2025-07-12T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 68653,
+        "ordre": 1,
+        "idSeance": 194714,
+        "idCopie": 22717,
+        "duree": 0,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3784,
+    "typeEvenement": 14,
+    "idEvenement": 33046,
+    "idSeance": 194714,
+    "dateHeure": "2025-07-12T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 3767,
+    "typeEvenement": 13,
     "idEvenement": 32916,
     "idSeance": 194687,
-    "dateHeure": "2025-07-12T18:30:00",
+    "dateHeure": "2025-07-12T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -111,29 +147,6 @@
         "duree": 132,
         "version": "VOSTF",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3767,
-    "typeEvenement": 13,
-    "idEvenement": 32918,
-    "idSeance": 189763,
-    "dateHeure": "2025-07-13T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 195,
-    "items": [
-      {
-        "idFilm": 112476,
-        "ordre": 1,
-        "idSeance": 189763,
-        "idCopie": 29683,
-        "duree": 167,
-        "version": "VOSTF",
-        "format": "35 mm"
       }
     ]
   },
@@ -186,21 +199,44 @@
   {
     "idCategorie": 3767,
     "typeEvenement": 13,
-    "idEvenement": 32920,
-    "idSeance": 189853,
+    "idEvenement": 32917,
+    "idSeance": 194717,
+    "dateHeure": "2025-07-14T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 75632,
+        "ordre": 1,
+        "idSeance": 194717,
+        "idCopie": 13046,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3767,
+    "typeEvenement": 13,
+    "idEvenement": 32918,
+    "idSeance": 194716,
     "dateHeure": "2025-07-17T20:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 195,
     "items": [
       {
-        "idFilm": 68653,
+        "idFilm": 112476,
         "ordre": 1,
-        "idSeance": 189853,
-        "idCopie": 22717,
-        "duree": 0,
+        "idSeance": 194716,
+        "idCopie": 29683,
+        "duree": 167,
         "version": "VOSTF",
         "format": "35 mm"
       }

@@ -34,7 +34,7 @@
           "seances": [
             {
               "idSeance": 189703,
-              "dateHeure": "2025-07-11T19:00:00",
+              "dateHeure": "2025-07-11T19:30:00",
               "idSalle": "HL"
             }
           ]
@@ -63,8 +63,8 @@
           ],
           "seances": [
             {
-              "idSeance": 189763,
-              "dateHeure": "2025-07-13T14:30:00",
+              "idSeance": 194716,
+              "dateHeure": "2025-07-17T20:15:00",
               "idSalle": "HL"
             }
           ]
@@ -94,7 +94,7 @@
           "seances": [
             {
               "idSeance": 194687,
-              "dateHeure": "2025-07-12T18:30:00",
+              "dateHeure": "2025-07-12T20:00:00",
               "idSalle": "HL"
             }
           ]
@@ -114,7 +114,7 @@
               "version": "VOSTF",
               "format": "DCP",
               "generique": [
-                "Shi Anni",
+                "Shi An-ni",
                 "Zhang Yingzhen",
                 "Wang Qiguang"
               ],
@@ -154,7 +154,8 @@
             {
               "idSeance": 194686,
               "dateHeure": "2025-07-09T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
             }
           ]
         },
@@ -173,7 +174,7 @@
               "version": "VOSTF",
               "format": "DCP",
               "generique": [
-                "Hou Hsiao-Hsien",
+                "Hou Hsiao-hsien",
                 "Tsai Chin",
                 "Lai Teh-nan"
               ],
@@ -182,8 +183,8 @@
           ],
           "seances": [
             {
-              "idSeance": 189663,
-              "dateHeure": "2025-07-10T18:00:00",
+              "idSeance": 194717,
+              "dateHeure": "2025-07-14T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -195,6 +196,7 @@
               "idFilm": 112477,
               "ordre": 1,
               "titre": "Terrorizers",
+              "art": "The",
               "titreVo": "Kong bu fen zi",
               "realisateurs": "Edward Yang",
               "pays": "Taïwan",
@@ -205,7 +207,7 @@
               "generique": [
                 "Cora Miao",
                 "Wang An",
-                "Li-chun Li"
+                "Lee Li-chun"
               ],
               "miniTexte": "Une délinquante, une romancière en crise, un photographe désabusé... Sous l'influence du cinéma d'Antonioni, plusieurs récits s'entrecroisent sur fond de thriller métaphysique. Témoin d'une urbanisation déshumanisée, Yang capte la froideur et le vide existentiel de Taipei, dans une critique de la déconnexion sociale d'un monde émietté. Léopard d'argent à Locarno, la vision d'un cinéaste révolté, à l'inventivité sidérante."
             }
@@ -213,38 +215,54 @@
           "seances": [
             {
               "idSeance": 189664,
-              "dateHeure": "2025-07-10T20:30:00",
+              "dateHeure": "2025-07-10T19:00:00",
               "idSalle": "HL"
             }
           ]
         },
         {
-          "idFilm": 68653,
-          "content": [
+          "groupe": [
             {
               "idFilm": 68653,
-              "ordre": 1,
-              "titre": "Yi Yi",
-              "realisateurs": "Edward Yang",
-              "pays": "Taïwan-Japon",
-              "annee": 2000,
-              "duree": 0,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Wu Nianzhen",
-                "Issey Ogata",
-                "Elaine Jin"
-              ],
-              "isFocus": true,
-              "miniTexte": "Monument discret du siècle naissant, primé à Cannes pour sa mise en scène, _Yi Yi_ (littéralement « un par un » ou « l'un après l'autre ») suit une famille de la classe moyenne, prise dans la frénésie urbaine de Taipei. Observateur appliqué, Edward Yang, qui commence son récit par un mariage et le clôt par des funérailles, porte un regard sensible sur les regrets et les espoirs de trois générations, tandis que chacune, à sa manière, traverse une crise existentielle. D'une composition rigoureuse, géométrique, un tableau saisissant sur les relations humaines, une épopée familiale, ample et chaleureuse, aux résonances universelles."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 68653,
+                  "ordre": 1,
+                  "titre": "Yi Yi",
+                  "realisateurs": "Edward Yang",
+                  "pays": "Taïwan-Japon",
+                  "annee": 2000,
+                  "duree": 0,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Wu Nianzhen",
+                    "Issey Ogata",
+                    "Elaine Jin"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Monument discret du siècle naissant, primé à Cannes pour sa mise en scène, _Yi Yi_ (littéralement « un par un » ou « l'un après l'autre ») suit une famille de la classe moyenne, prise dans la frénésie urbaine de Taipei. Observateur appliqué, Edward Yang, qui commence son récit par un mariage et le clôt par des funérailles, porte un regard sensible sur les regrets et les espoirs de trois générations, tandis que chacune, à sa manière, traverse une crise existentielle. D'une composition rigoureuse, géométrique, un tableau saisissant sur les relations humaines, une épopée familiale, ample et chaleureuse, aux résonances universelles."
+                }
+              ]
+            },
             {
-              "idSeance": 189853,
-              "dateHeure": "2025-07-17T20:15:00",
-              "idSalle": "HL"
+              "idEvenement": 33046,
+              "content": [
+                {
+                  "idConf": 33046,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-Michel Frodon",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194714,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-07-12T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -269,8 +287,8 @@
               "version": "VOSTF",
               "format": "DCP",
               "generique": [
-                "Chi-Kuang Wang",
-                "Shu-tien Li",
+                "Wang Chi-kuang",
+                "Li Shu-tien",
                 "Chun Ku",
                 "Mei Fang"
               ]
@@ -285,7 +303,42 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33045,
+          "content": [
+            {
+              "idConf": 33045,
+              "titre": "Dialogue avec Wafa Ghermani",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194712,
+              "dateHeure": "2025-07-10T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "mention": "avec Wafa Ghermani",
+        "dateHeure": "2025-07-10T21:00:00"
+      },
+      {
+        "titreFilms": "Yi Yi",
+        "mention": "avec Jean-Michel Frodon",
+        "dateHeure": "2025-07-12T14:30:00"
+      }
+    ]
+  }
 }

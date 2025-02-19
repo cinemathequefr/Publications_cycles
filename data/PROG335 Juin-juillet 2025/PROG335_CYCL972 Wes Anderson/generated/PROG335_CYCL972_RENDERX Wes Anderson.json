@@ -68,6 +68,56 @@
           ]
         },
         {
+          "groupe": [
+            {
+              "idFilm": 77667,
+              "content": [
+                {
+                  "idFilm": 77667,
+                  "ordre": 1,
+                  "titre": "Famille Tenenbaum",
+                  "art": "La",
+                  "titreVo": "Royal Tenenbaums",
+                  "artVo": "The",
+                  "realisateurs": "Wes Anderson",
+                  "pays": "États-Unis",
+                  "annee": 2001,
+                  "duree": 110,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Gene Hackman",
+                    "Anjelica Huston",
+                    "Ben Stiller"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Modèle de la famille dysfonctionnelle dans l'œuvre d'Anderson, les Tenenbaum, lignée de génies notoires, portent le poids de deux décennies d'échecs, de névroses et de rancœurs personnelles. Le retour inattendu du paternel (Gene Hackman au centre d'une distribution de luxe) provoque une série de confrontations au sein de la tribu décomposée. Avec l'art d'emballer les émotions dans de petits gestes et détails, qui constituent depuis sa marque de fabrique, Anderson signe un film dense, jubilatoire, dont les multiples visionnages ne ternissent jamais l'incroyable mélancolie qui s'en dégage."
+                }
+              ]
+            },
+            {
+              "idEvenement": 33043,
+              "content": [
+                {
+                  "idConf": 33043,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Marc Cerisuelo",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194721,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-06-28T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "idFilm": 116174,
           "content": [
             {
@@ -130,39 +180,6 @@
           ]
         },
         {
-          "idFilm": 77667,
-          "content": [
-            {
-              "idFilm": 77667,
-              "ordre": 1,
-              "titre": "Famille Tenenbaum",
-              "art": "La",
-              "titreVo": "Royal Tenenbaums",
-              "artVo": "The",
-              "realisateurs": "Wes Anderson",
-              "pays": "États-Unis",
-              "annee": 2001,
-              "duree": 110,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Gene Hackman",
-                "Anjelica Huston",
-                "Ben Stiller"
-              ],
-              "isFocus": true,
-              "miniTexte": "Modèle de la famille dysfonctionnelle dans l'œuvre d'Anderson, les Tenenbaum, lignée de génies notoires, portent le poids de deux décennies d'échecs, de névroses et de rancœurs personnelles. Le retour inattendu du paternel (Gene Hackman au centre d'une distribution de luxe) provoque une série de confrontations au sein de la tribu décomposée. Avec l'art d'emballer les émotions dans de petits gestes et détails, qui constituent depuis sa marque de fabrique, Anderson signe un film dense, jubilatoire, dont les multiples visionnages ne ternissent jamais l'incroyable mélancolie qui s'en dégage."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 189745,
-              "dateHeure": "2025-07-12T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 150681,
           "content": [
             {
@@ -197,5 +214,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "La Famille Tenenbaum",
+        "mention": "avec Marc Cerisuelo",
+        "dateHeure": "2025-06-28T14:30:00"
+      }
+    ]
+  }
 }

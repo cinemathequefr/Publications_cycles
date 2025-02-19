@@ -335,7 +335,8 @@
             {
               "idSeance": 188529,
               "dateHeure": "2025-05-29T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
             },
             {
               "idSeance": 194705,
@@ -501,6 +502,11 @@
             }
           ],
           "seances": [
+            {
+              "idSeance": 194720,
+              "dateHeure": "2025-05-31T20:30:00",
+              "idSalle": "HL"
+            },
             {
               "idSeance": 188908,
               "dateHeure": "2025-06-12T20:15:00",
@@ -723,32 +729,52 @@
           ]
         },
         {
-          "idFilm": 36973,
-          "content": [
+          "groupe": [
             {
               "idFilm": 36973,
-              "ordre": 1,
-              "titre": "Veillée d'amour",
-              "titreVo": "When Tomorrow Comes",
-              "realisateurs": "John M. Stahl",
-              "pays": "États-Unis",
-              "annee": 1939,
-              "duree": 90,
-              "version": "VO",
-              "format": "35 mm",
-              "miniTexte": "À New York, un pianiste renommé tombe amoureux d'une serveuse engagée dans les luttes sociales de son restaurant. Vingt ans avant la version européenne de Sirk, Stahl dirige un couple d'interprètes au summum du romantisme (Irene Dunne et Charles Boyer tournent _Elle et Lui_ de Leo McCarey la même année). Leur face-à-face dans la séquence de l'ouragan offre des instants de grâce inoubliables, une parenthèse temporelle où les obstacles à leur amour semblent momentanément s'effacer."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 194659,
-              "dateHeure": "2025-05-31T20:30:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 36973,
+                  "ordre": 1,
+                  "titre": "Veillée d'amour",
+                  "titreVo": "When Tomorrow Comes",
+                  "realisateurs": "John M. Stahl",
+                  "pays": "États-Unis",
+                  "annee": 1939,
+                  "duree": 90,
+                  "version": "VO",
+                  "format": "35 mm",
+                  "miniTexte": "À New York, un pianiste renommé tombe amoureux d'une serveuse engagée dans les luttes sociales de son restaurant. Vingt ans avant la version européenne de Sirk, Stahl dirige un couple d'interprètes au summum du romantisme (Irene Dunne et Charles Boyer tournent _Elle et Lui_ de Leo McCarey la même année). Leur face-à-face dans la séquence de l'ouragan offre des instants de grâce inoubliables, une parenthèse temporelle où les obstacles à leur amour semblent momentanément s'effacer."
+                }
+              ]
             },
             {
-              "idSeance": 194704,
-              "dateHeure": "2025-06-21T20:00:00",
-              "idSalle": "GF"
+              "idEvenement": 33042,
+              "content": [
+                {
+                  "idConf": 33042,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Charlotte Garson",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194719,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-06-07T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 194719,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 194704,
+                  "dateHeure": "2025-06-21T20:00:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -865,7 +891,7 @@
     },
     {
       "tri": 2,
-      "titreSousCycle": "Remakes des films de John Stahl",
+      "titreSousCycle": "Remakes",
       "items": [
         {
           "idFilm": 35743,
@@ -1049,5 +1075,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Veillée d'amour",
+        "mention": "avec Charlotte Garson",
+        "dateHeure": "2025-06-07T14:30:00"
+      }
+    ]
+  }
 }

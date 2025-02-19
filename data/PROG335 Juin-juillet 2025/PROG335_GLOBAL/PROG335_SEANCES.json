@@ -83,6 +83,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 35871,
@@ -237,8 +238,8 @@
     "hashEvenement": "f35942"
   },
   {
-    "idSeance": 194659,
-    "idEvenement": 32970,
+    "idSeance": 194720,
+    "idEvenement": 32971,
     "dateHeure": "2025-05-31T20:30:00",
     "salle": "HL",
     "cycle": [
@@ -249,16 +250,13 @@
     ],
     "items": [
       {
-        "idFilm": 36973,
-        "titre": "Veillée d'amour",
+        "idFilm": 97155,
+        "titre": "Our Wife",
         "realisateurs": "John M. Stahl",
-        "annee": 1939,
-        "duree": 90,
-        "version": "VO",
-        "format": "35 mm"
+        "annee": 1941
       }
     ],
-    "hashEvenement": "f36973"
+    "hashEvenement": "f97155"
   },
   {
     "idSeance": 194660,
@@ -619,6 +617,40 @@
       }
     ],
     "hashEvenement": "f155172f48024"
+  },
+  {
+    "idSeance": 194719,
+    "idEvenement": 32970,
+    "dateHeure": "2025-06-07T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "John Stahl",
+        "Les films"
+      ],
+      [
+        "John Stahl",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36973,
+        "titre": "Veillée d'amour",
+        "realisateurs": "John M. Stahl",
+        "annee": 1939,
+        "duree": 90,
+        "version": "VO",
+        "format": "35 mm"
+      },
+      {
+        "idConf": 33042,
+        "titre": "Dialogue avec Charlotte Garson",
+        "typeConference": "Dialogue",
+        "duree": 75
+      }
+    ],
+    "hashEvenement": "f36973c33042"
   },
   {
     "idSeance": 194634,
@@ -1060,7 +1092,7 @@
     "cycle": [
       [
         "John Stahl",
-        "Remakes des films de John Stahl"
+        "Remakes"
       ]
     ],
     "items": [
@@ -1109,7 +1141,7 @@
     "cycle": [
       [
         "John Stahl",
-        "Remakes des films de John Stahl"
+        "Remakes"
       ]
     ],
     "items": [
@@ -1133,7 +1165,7 @@
     "cycle": [
       [
         "John Stahl",
-        "Remakes des films de John Stahl"
+        "Remakes"
       ]
     ],
     "items": [
@@ -1439,7 +1471,7 @@
     "cycle": [
       [
         "John Stahl",
-        "Remakes des films de John Stahl"
+        "Remakes"
       ]
     ],
     "items": [
@@ -1461,7 +1493,7 @@
     "cycle": [
       [
         "John Stahl",
-        "Remakes des films de John Stahl"
+        "Remakes"
       ]
     ],
     "items": [
@@ -1786,7 +1818,7 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
+    "mention": "Ouverture de la rétrospective. Séance présentée par Pascal-Alex Vincent",
     "items": [
       {
         "idFilm": 65008,
@@ -1959,28 +1991,39 @@
     "hashEvenement": "f65575"
   },
   {
-    "idSeance": 189367,
-    "idEvenement": 32778,
+    "idSeance": 194721,
+    "idEvenement": 31959,
     "dateHeure": "2025-06-28T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'animation japonais, 25 indispensables",
+        "Wes Anderson",
         "Les films"
+      ],
+      [
+        "Wes Anderson",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 88722,
-        "titre": "Millennium Actress",
-        "realisateurs": "Satoshi Kon",
+        "idFilm": 77667,
+        "titre": "Famille Tenenbaum",
+        "art": "La",
+        "realisateurs": "Wes Anderson",
         "annee": 2001,
-        "duree": 88,
+        "duree": 110,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 33043,
+        "titre": "Dialogue avec Marc Cerisuelo",
+        "typeConference": "Dialogue",
+        "duree": 75
       }
     ],
-    "hashEvenement": "f88722"
+    "hashEvenement": "f77667c33043"
   },
   {
     "idSeance": 189371,
@@ -2062,7 +2105,7 @@
     "cycle": [
       [
         "John Stahl",
-        "Remakes des films de John Stahl"
+        "Remakes"
       ]
     ],
     "items": [
@@ -2314,6 +2357,31 @@
     "hashEvenement": "f43314"
   },
   {
+    "idSeance": 189439,
+    "idEvenement": 32767,
+    "dateHeure": "2025-07-02T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le cinéma d'animation japonais, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 60011,
+        "titre": "Tombeau des lucioles",
+        "art": "Le",
+        "realisateurs": "Isao Takahata",
+        "annee": 1989,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f60011"
+  },
+  {
     "idSeance": 189437,
     "idEvenement": 32605,
     "dateHeure": "2025-07-02T20:00:00",
@@ -2337,6 +2405,30 @@
       }
     ],
     "hashEvenement": "f45643"
+  },
+  {
+    "idSeance": 189440,
+    "idEvenement": 32772,
+    "dateHeure": "2025-07-02T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le cinéma d'animation japonais, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 93133,
+        "titre": "Steamboy",
+        "realisateurs": "Katsuhiro Ōtomo",
+        "annee": 2003,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f93133"
   },
   {
     "idSeance": 194620,
@@ -2721,34 +2813,43 @@
     "hashEvenement": "f58732"
   },
   {
-    "idSeance": 189574,
-    "idEvenement": 32767,
+    "idSeance": 194722,
+    "idEvenement": 32778,
     "dateHeure": "2025-07-06T14:30:00",
     "salle": "HL",
     "cycle": [
       [
         "Le cinéma d'animation japonais, 25 indispensables",
         "Les films"
+      ],
+      [
+        "Le cinéma d'animation japonais, 25 indispensables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 60011,
-        "titre": "Tombeau des lucioles",
-        "art": "Le",
-        "realisateurs": "Isao Takahata",
-        "annee": 1989,
+        "idFilm": 88722,
+        "titre": "Millennium Actress",
+        "realisateurs": "Satoshi Kon",
+        "annee": 2001,
         "duree": 88,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
+      },
+      {
+        "idConf": 33044,
+        "titre": "Dialogue avec Pascal-Alex Vincent",
+        "typeConference": "Dialogue",
+        "duree": 75
       }
     ],
-    "hashEvenement": "f60011"
+    "hashEvenement": "f88722c33044"
   },
   {
     "idSeance": 189575,
     "idEvenement": 32774,
-    "dateHeure": "2025-07-06T17:00:00",
+    "dateHeure": "2025-07-06T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2797,7 +2898,7 @@
   {
     "idSeance": 189576,
     "idEvenement": 32784,
-    "dateHeure": "2025-07-06T19:15:00",
+    "dateHeure": "2025-07-06T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -2969,6 +3070,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 71030,
@@ -3027,33 +3129,9 @@
     "hashEvenement": "f51553"
   },
   {
-    "idSeance": 189663,
-    "idEvenement": 32917,
-    "dateHeure": "2025-07-10T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Edward Yang",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 75632,
-        "titre": "Taipei Story",
-        "realisateurs": "Edward Yang",
-        "annee": 1985,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f75632"
-  },
-  {
     "idSeance": 189664,
     "idEvenement": 32921,
-    "dateHeure": "2025-07-10T20:30:00",
+    "dateHeure": "2025-07-10T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3065,6 +3143,7 @@
       {
         "idFilm": 112477,
         "titre": "Terrorizers",
+        "art": "The",
         "realisateurs": "Edward Yang",
         "annee": 1986,
         "duree": 109,
@@ -3073,6 +3152,27 @@
       }
     ],
     "hashEvenement": "f112477"
+  },
+  {
+    "idSeance": 194712,
+    "idEvenement": 33045,
+    "dateHeure": "2025-07-10T21:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Edward Yang",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 33045,
+        "titre": "Dialogue avec Wafa Ghermani",
+        "typeConference": "Dialogue",
+        "duree": 75
+      }
+    ],
+    "hashEvenement": "c33045"
   },
   {
     "idSeance": 194623,
@@ -3099,7 +3199,7 @@
   {
     "idSeance": 189705,
     "idEvenement": 32692,
-    "dateHeure": "2025-07-11T18:30:00",
+    "dateHeure": "2025-07-11T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3122,9 +3222,33 @@
     "hashEvenement": "f55712"
   },
   {
+    "idSeance": 189707,
+    "idEvenement": 32925,
+    "dateHeure": "2025-07-11T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Le cinéma d'animation japonais, 25 indispensables",
+        "Autour de l'animation japonaise"
+      ]
+    ],
+    "mention": "Séance présentée par Pascal-Alex Vincent",
+    "items": [
+      {
+        "idFilm": 152345,
+        "titre": "Satoshi Kon, l'illusionniste",
+        "realisateurs": "Pascal-Alex Vincent",
+        "annee": 2021,
+        "duree": 82,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f152345"
+  },
+  {
     "idSeance": 189703,
     "idEvenement": 32919,
-    "dateHeure": "2025-07-11T19:00:00",
+    "dateHeure": "2025-07-11T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3148,7 +3272,7 @@
   {
     "idSeance": 189706,
     "idEvenement": 32607,
-    "dateHeure": "2025-07-11T20:45:00",
+    "dateHeure": "2025-07-11T21:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3171,29 +3295,37 @@
     "hashEvenement": "f59399"
   },
   {
-    "idSeance": 189745,
-    "idEvenement": 31959,
+    "idSeance": 194714,
+    "idEvenement": 32920,
     "dateHeure": "2025-07-12T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Wes Anderson",
+        "Edward Yang",
         "Les films"
+      ],
+      [
+        "Edward Yang",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 77667,
-        "titre": "Famille Tenenbaum",
-        "art": "La",
-        "realisateurs": "Wes Anderson",
-        "annee": 2001,
-        "duree": 110,
+        "idFilm": 68653,
+        "titre": "Yi Yi",
+        "realisateurs": "Edward Yang",
+        "annee": 2000,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
+      },
+      {
+        "idConf": 33046,
+        "titre": "Dialogue avec Jean-Michel Frodon",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f77667"
+    "hashEvenement": "f68653c33046"
   },
   {
     "idSeance": 189749,
@@ -3248,7 +3380,7 @@
   {
     "idSeance": 194687,
     "idEvenement": 32916,
-    "dateHeure": "2025-07-12T18:30:00",
+    "dateHeure": "2025-07-12T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3272,7 +3404,7 @@
   {
     "idSeance": 189751,
     "idEvenement": 32614,
-    "dateHeure": "2025-07-12T20:00:00",
+    "dateHeure": "2025-07-12T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3292,30 +3424,6 @@
       }
     ],
     "hashEvenement": "f128092"
-  },
-  {
-    "idSeance": 189763,
-    "idEvenement": 32918,
-    "dateHeure": "2025-07-13T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Edward Yang",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 112476,
-        "titre": "Ce jour-là sur la plage",
-        "realisateurs": "Edward Yang",
-        "annee": 1983,
-        "duree": 167,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f112476"
   },
   {
     "idSeance": 194684,
@@ -3532,28 +3640,28 @@
     "hashEvenement": "f155149"
   },
   {
-    "idSeance": 194691,
-    "idEvenement": 32772,
+    "idSeance": 194717,
+    "idEvenement": 32917,
     "dateHeure": "2025-07-14T19:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Le cinéma d'animation japonais, 25 indispensables",
+        "Edward Yang",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 93133,
-        "titre": "Steamboy",
-        "realisateurs": "Katsuhiro Ōtomo",
-        "annee": 2003,
-        "duree": 125,
+        "idFilm": 75632,
+        "titre": "Taipei Story",
+        "realisateurs": "Edward Yang",
+        "annee": 1985,
+        "duree": 115,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f93133"
+    "hashEvenement": "f75632"
   },
   {
     "idSeance": 189780,
@@ -3625,6 +3733,29 @@
       }
     ],
     "hashEvenement": "f83460"
+  },
+  {
+    "idSeance": 189815,
+    "idEvenement": 33055,
+    "dateHeure": "2025-07-16T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 34585,
+        "titre": "Bigamist",
+        "art": "The",
+        "realisateurs": "Ida Lupino",
+        "annee": 1953
+      }
+    ],
+    "hashEvenement": "f34585"
   },
   {
     "idSeance": 189818,
@@ -3720,8 +3851,8 @@
     "hashEvenement": "f83182"
   },
   {
-    "idSeance": 189853,
-    "idEvenement": 32920,
+    "idSeance": 194716,
+    "idEvenement": 32918,
     "dateHeure": "2025-07-17T20:15:00",
     "salle": "HL",
     "cycle": [
@@ -3732,15 +3863,16 @@
     ],
     "items": [
       {
-        "idFilm": 68653,
-        "titre": "Yi Yi",
+        "idFilm": 112476,
+        "titre": "Ce jour-là sur la plage",
         "realisateurs": "Edward Yang",
-        "annee": 2000,
+        "annee": 1983,
+        "duree": 167,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f68653"
+    "hashEvenement": "f112476"
   },
   {
     "idSeance": 194707,
@@ -3789,9 +3921,95 @@
     "hashEvenement": "f46876"
   },
   {
+    "idSeance": 189892,
+    "idEvenement": 33064,
+    "dateHeure": "2025-07-18T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34077,
+        "titre": "Cinquième victime",
+        "art": "La",
+        "realisateurs": "Fritz Lang",
+        "annee": 1956
+      }
+    ],
+    "hashEvenement": "f34077"
+  },
+  {
+    "idSeance": 189893,
+    "idEvenement": 33049,
+    "dateHeure": "2025-07-18T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31079,
+        "titre": "Avant de t'aimer",
+        "realisateurs": "Elmer Clifton, Ida Lupino",
+        "annee": 1949
+      }
+    ],
+    "hashEvenement": "f31079"
+  },
+  {
+    "idSeance": 189934,
+    "idEvenement": 33051,
+    "dateHeure": "2025-07-19T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 77543,
+        "titre": "Voyage de la peur",
+        "art": "Le",
+        "realisateurs": "Ida Lupino",
+        "annee": 1953
+      }
+    ],
+    "hashEvenement": "f77543"
+  },
+  {
+    "idSeance": 189939,
+    "idEvenement": 33062,
+    "dateHeure": "2025-07-19T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35913,
+        "titre": "Ici brigade criminelle",
+        "realisateurs": "Don Siegel",
+        "annee": 1953
+      }
+    ],
+    "hashEvenement": "f35913"
+  },
+  {
     "idSeance": 189936,
     "idEvenement": 33041,
-    "dateHeure": "2025-07-19T20:30:00",
+    "dateHeure": "2025-07-19T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3813,6 +4031,90 @@
     "hashEvenement": "f42786"
   },
   {
+    "idSeance": 189940,
+    "idEvenement": 33063,
+    "dateHeure": "2025-07-19T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36748,
+        "titre": "Femmes en prison",
+        "realisateurs": "Lewis Seiler",
+        "annee": 1954
+      }
+    ],
+    "hashEvenement": "f36748"
+  },
+  {
+    "idSeance": 189952,
+    "idEvenement": 33052,
+    "dateHeure": "2025-07-20T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 75644,
+        "titre": "Outrage",
+        "realisateurs": "Ida Lupino",
+        "annee": 1950
+      }
+    ],
+    "hashEvenement": "f75644"
+  },
+  {
+    "idSeance": 194724,
+    "idEvenement": 33050,
+    "dateHeure": "2025-07-20T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 80323,
+        "titre": "Never Fear",
+        "realisateurs": "Ida Lupino",
+        "annee": 1950
+      }
+    ],
+    "hashEvenement": "f80323"
+  },
+  {
+    "idSeance": 194725,
+    "idEvenement": 33054,
+    "dateHeure": "2025-07-20T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 80324,
+        "titre": "Hard, Fast and Beautiful",
+        "realisateurs": "Ida Lupino",
+        "annee": 1951
+      }
+    ],
+    "hashEvenement": "f80324"
+  },
+  {
     "idSeance": 189967,
     "idEvenement": 32811,
     "dateHeure": "2025-07-21T16:00:00",
@@ -3832,6 +4134,49 @@
       }
     ],
     "hashEvenement": "f36120"
+  },
+  {
+    "idSeance": 189968,
+    "idEvenement": 33057,
+    "dateHeure": "2025-07-21T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36877,
+        "titre": "Une femme dangereuse",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1940
+      }
+    ],
+    "hashEvenement": "f36877"
+  },
+  {
+    "idSeance": 189969,
+    "idEvenement": 33056,
+    "dateHeure": "2025-07-21T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36814,
+        "titre": "Grande Évasion",
+        "art": "La",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1940
+      }
+    ],
+    "hashEvenement": "f36814"
   },
   {
     "idSeance": 190002,
@@ -3856,8 +4201,52 @@
     "hashEvenement": "f50895"
   },
   {
-    "idSeance": 194626,
-    "idEvenement": 32820,
+    "idSeance": 190006,
+    "idEvenement": 33058,
+    "dateHeure": "2025-07-23T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31527,
+        "titre": "Vaisseau fantôme",
+        "art": "Le",
+        "realisateurs": "Michael Curtiz",
+        "annee": 1941
+      }
+    ],
+    "hashEvenement": "f31527"
+  },
+  {
+    "idSeance": 190007,
+    "idEvenement": 33059,
+    "dateHeure": "2025-07-23T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 80342,
+        "titre": "Man I Love",
+        "art": "The",
+        "realisateurs": "Raoul Walsh",
+        "annee": 1946
+      }
+    ],
+    "hashEvenement": "f80342"
+  },
+  {
+    "idSeance": 194728,
+    "idEvenement": 32799,
     "dateHeure": "2025-07-24T16:00:00",
     "salle": "GF",
     "cycle": [
@@ -3868,13 +4257,60 @@
     ],
     "items": [
       {
-        "idFilm": 48236,
-        "titre": "Effraction",
-        "realisateurs": "Daniel Duval",
-        "annee": 1982
+        "idFilm": 47472,
+        "titre": "Adieu Bonaparte",
+        "realisateurs": "Youssef Chahine",
+        "annee": 1984,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f48236"
+    "hashEvenement": "f47472"
+  },
+  {
+    "idSeance": 190038,
+    "idEvenement": 33060,
+    "dateHeure": "2025-07-24T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34892,
+        "titre": "Femme aux cigarettes",
+        "art": "La",
+        "realisateurs": "Jean Negulesco",
+        "annee": 1948
+      }
+    ],
+    "hashEvenement": "f34892"
+  },
+  {
+    "idSeance": 194726,
+    "idEvenement": 33061,
+    "dateHeure": "2025-07-24T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 73564,
+        "titre": "Maison dans l'ombre",
+        "art": "La",
+        "realisateurs": "Nicholas Ray",
+        "annee": 1952
+      }
+    ],
+    "hashEvenement": "f73564"
   },
   {
     "idSeance": 194627,
@@ -3901,6 +4337,49 @@
     "hashEvenement": "f50959"
   },
   {
+    "idSeance": 190083,
+    "idEvenement": 33067,
+    "dateHeure": "2025-07-25T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32229,
+        "titre": "Pluie du diable",
+        "art": "La",
+        "realisateurs": "Robert Fuest",
+        "annee": 1975
+      }
+    ],
+    "hashEvenement": "f32229"
+  },
+  {
+    "idSeance": 190084,
+    "idEvenement": 33068,
+    "dateHeure": "2025-07-25T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 55072,
+        "titre": "Soudain les monstres",
+        "realisateurs": "Bert I. Gordon",
+        "annee": 1976
+      }
+    ],
+    "hashEvenement": "f55072"
+  },
+  {
     "idSeance": 190127,
     "idEvenement": 31965,
     "dateHeure": "2025-07-26T15:00:00",
@@ -3924,5 +4403,70 @@
       }
     ],
     "hashEvenement": "f150681"
+  },
+  {
+    "idSeance": 190128,
+    "idEvenement": 33065,
+    "dateHeure": "2025-07-26T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29901,
+        "titre": "Grand couteau",
+        "art": "Le",
+        "realisateurs": "Robert Aldrich",
+        "annee": 1955
+      }
+    ],
+    "hashEvenement": "f29901"
+  },
+  {
+    "idSeance": 190129,
+    "idEvenement": 33053,
+    "dateHeure": "2025-07-26T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34821,
+        "titre": "Trouble with Angels",
+        "art": "The",
+        "realisateurs": "Ida Lupino",
+        "annee": 1965
+      }
+    ],
+    "hashEvenement": "f34821"
+  },
+  {
+    "idSeance": 194727,
+    "idEvenement": 33066,
+    "dateHeure": "2025-07-27T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Ida Lupino actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 44758,
+        "titre": "Junior Bonner, le dernier bagarreur",
+        "realisateurs": "Sam Peckinpah",
+        "annee": 1971
+      }
+    ],
+    "hashEvenement": "f44758"
   }
 ]

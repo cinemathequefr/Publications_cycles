@@ -316,14 +316,15 @@
           "textes": []
         },
         {
-          "idSeance": 189367,
+          "idSeance": 194722,
           "ordre": 1,
-          "dateHeure": "2025-06-28T14:30:00",
+          "dateHeure": "2025-07-06T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 3757,
           "idEvenement": 32778,
           "typeEvenement": 13,
@@ -341,7 +342,7 @@
         {
           "idSeance": 189576,
           "ordre": 1,
-          "dateHeure": "2025-07-06T19:15:00",
+          "dateHeure": "2025-07-06T20:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -395,7 +396,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
-          "mention": "Ouverture de la rétrospective",
+          "mention": "Ouverture de la rétrospective. Séance présentée par Pascal-Alex Vincent",
           "idCategorie": 3757,
           "idEvenement": 32768,
           "typeEvenement": 13,
@@ -472,12 +473,12 @@
           ]
         },
         {
-          "idSeance": 194691,
+          "idSeance": 189440,
           "ordre": 1,
-          "dateHeure": "2025-07-14T19:00:00",
+          "dateHeure": "2025-07-02T20:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 150,
           "idCategorie": 3757,
@@ -517,12 +518,12 @@
           "textes": []
         },
         {
-          "idSeance": 189574,
+          "idSeance": 189439,
           "ordre": 1,
-          "dateHeure": "2025-07-06T14:30:00",
+          "dateHeure": "2025-07-02T18:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 120,
           "idCategorie": 3757,
@@ -570,7 +571,7 @@
         {
           "idSeance": 189575,
           "ordre": 1,
-          "dateHeure": "2025-07-06T17:00:00",
+          "dateHeure": "2025-07-06T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -616,6 +617,77 @@
           "version": "",
           "format": "",
           "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Autour de l'animation japonaise",
+      "tri": 2,
+      "items": [
+        {
+          "idSeance": 189707,
+          "ordre": 1,
+          "dateHeure": "2025-07-11T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "mention": "Séance présentée par Pascal-Alex Vincent",
+          "idCategorie": 3770,
+          "idEvenement": 32925,
+          "typeEvenement": 13,
+          "idFilm": 152345,
+          "titre": "Satoshi Kon, l'illusionniste",
+          "realisateurs": "Pascal-Alex Vincent",
+          "annee": 2021,
+          "pays": "France-Japon",
+          "duree": 82,
+          "version": "",
+          "format": "DCP",
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 194722,
+          "ordre": 2,
+          "dateHeure": "2025-07-06T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 75,
+          "typeAssoc": 118,
+          "idCategorie": 3783,
+          "idEvenement": 33044,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Pascal-Alex Vincent",
+          "duree": 75,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Pascal-Alex Vincent",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Juliette Armantier",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Juliette Armantier"
         }
       ],
       "textes": []

@@ -397,6 +397,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "mention": "Ouverture de la rétrospective",
           "idCategorie": 3775,
           "idEvenement": 32966,
           "typeEvenement": 13,
@@ -612,6 +613,30 @@
             {
               "typeTexte": 1000,
               "texte": "Des cavaliers du Ku Klux Klan à la poursuite d'un paria qui trouve refuge auprès d'un ami médecin. Un drame de l'Alabama rural, auquel se mêlent un chagrin d'amour et une femme disparue. Un Stahl précoce, nimbé de mystère."
+            }
+          ]
+        },
+        {
+          "idSeance": 194720,
+          "ordre": 1,
+          "dateHeure": "2025-05-31T20:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 30,
+          "idCategorie": 3775,
+          "idEvenement": 32971,
+          "typeEvenement": 13,
+          "idFilm": 97155,
+          "titre": "Our Wife",
+          "realisateurs": "John M. Stahl",
+          "annee": 1941,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Le dilemme sentimental d'un compositeur divorcé : choisir entre une fiancée inspirante et une ex-femme manipulatrice, bien décidée à le reconquérir depuis son récent succès. Une romance triangulaire, où toutes les ruses sont permises, qui trouve le bon équilibre entre mélo et comédie satirique."
             }
           ]
         },
@@ -902,14 +927,15 @@
           ]
         },
         {
-          "idSeance": 194659,
+          "idSeance": 194719,
           "ordre": 1,
-          "dateHeure": "2025-05-31T20:30:00",
+          "dateHeure": "2025-06-07T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 3775,
           "idEvenement": 32970,
           "typeEvenement": 13,
@@ -1082,7 +1108,7 @@
       "textes": []
     },
     {
-      "titreSousCycle": "Remakes des films de John Stahl",
+      "titreSousCycle": "Remakes",
       "tri": 2,
       "items": [
         {
@@ -1285,6 +1311,47 @@
               "texte": "Copie 35 mm Technicolor originale issue des collections de la ConstellationCenter Collection à l'Academy Film Archive."
             }
           ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 194719,
+          "ordre": 2,
+          "dateHeure": "2025-06-07T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3782,
+          "idEvenement": 33042,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Charlotte Garson",
+          "duree": 75,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Charlotte Garson",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Bernard Benoliel"
         }
       ],
       "textes": []

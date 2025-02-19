@@ -332,26 +332,43 @@
           ]
         },
         {
-          "idFilm": 88722,
-          "content": [
+          "groupe": [
             {
               "idFilm": 88722,
-              "ordre": 1,
-              "titre": "Millennium Actress",
-              "titreVo": "Sennen joyū",
-              "realisateurs": "Satoshi Kon",
-              "pays": "Japon",
-              "annee": 2001,
-              "duree": 88,
-              "version": "VOSTF",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 88722,
+                  "ordre": 1,
+                  "titre": "Millennium Actress",
+                  "titreVo": "Sennen joyū",
+                  "realisateurs": "Satoshi Kon",
+                  "pays": "Japon",
+                  "annee": 2001,
+                  "duree": 88,
+                  "version": "VOSTF",
+                  "format": "DCP"
+                }
+              ]
+            },
             {
-              "idSeance": 189367,
-              "dateHeure": "2025-06-28T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 33044,
+              "content": [
+                {
+                  "idConf": 33044,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Pascal-Alex Vincent",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Juliette Armantier"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194722,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-07-06T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -376,7 +393,7 @@
           "seances": [
             {
               "idSeance": 189576,
-              "dateHeure": "2025-07-06T19:15:00",
+              "dateHeure": "2025-07-06T20:15:00",
               "idSalle": "HL"
             }
           ]
@@ -452,7 +469,7 @@
               "idSeance": 189248,
               "dateHeure": "2025-06-25T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Pascal-Alex Vincent"
             }
           ]
         },
@@ -524,9 +541,9 @@
           ],
           "seances": [
             {
-              "idSeance": 194691,
-              "dateHeure": "2025-07-14T19:00:00",
-              "idSalle": "HL"
+              "idSeance": 189440,
+              "dateHeure": "2025-07-02T20:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -575,9 +592,9 @@
           ],
           "seances": [
             {
-              "idSeance": 189574,
-              "dateHeure": "2025-07-06T14:30:00",
-              "idSalle": "HL"
+              "idSeance": 189439,
+              "dateHeure": "2025-07-02T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -627,8 +644,38 @@
           "seances": [
             {
               "idSeance": 189575,
-              "dateHeure": "2025-07-06T17:00:00",
+              "dateHeure": "2025-07-06T18:00:00",
               "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Autour de l'animation japonaise",
+      "items": [
+        {
+          "idFilm": 152345,
+          "content": [
+            {
+              "idFilm": 152345,
+              "ordre": 1,
+              "titre": "Satoshi Kon, l'illusionniste",
+              "realisateurs": "Pascal-Alex Vincent",
+              "pays": "France-Japon",
+              "annee": 2021,
+              "duree": 82,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189707,
+              "dateHeure": "2025-07-11T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Pascal-Alex Vincent"
             }
           ]
         }
@@ -636,11 +683,28 @@
     }
   ],
   "syntheseAction": {
-    "Séance présentée": [
+    "Dialogue": [
+      {
+        "titreFilms": "Millennium Actress",
+        "mention": "avec Pascal-Alex Vincent",
+        "dateHeure": "2025-07-06T14:30:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Perfect Blue",
+        "mention": "par Pascal-Alex Vincent",
+        "dateHeure": "2025-06-25T20:00:00"
+      },
       {
         "titreFilms": "L'Œuf de l'ange",
         "mention": "par Juliette Armantier",
         "dateHeure": "2025-06-28T20:30:00"
+      },
+      {
+        "titreFilms": "Satoshi Kon, l'illusionniste",
+        "mention": "par Pascal-Alex Vincent",
+        "dateHeure": "2025-07-11T19:00:00"
       }
     ]
   }

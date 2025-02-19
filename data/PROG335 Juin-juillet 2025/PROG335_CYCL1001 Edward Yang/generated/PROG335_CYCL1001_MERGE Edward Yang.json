@@ -7,7 +7,7 @@
         {
           "idSeance": 189703,
           "ordre": 1,
-          "dateHeure": "2025-07-11T19:00:00",
+          "dateHeure": "2025-07-11T19:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -39,9 +39,9 @@
           ]
         },
         {
-          "idSeance": 189763,
+          "idSeance": 194716,
           "ordre": 1,
-          "dateHeure": "2025-07-13T14:30:00",
+          "dateHeure": "2025-07-17T20:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -75,7 +75,7 @@
         {
           "idSeance": 194687,
           "ordre": 1,
-          "dateHeure": "2025-07-12T18:30:00",
+          "dateHeure": "2025-07-12T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -129,7 +129,7 @@
           "version": "VOSTF",
           "format": "DCP",
           "generique": [
-            "Shi Anni",
+            "Shi An-ni",
             "Zhang Yingzhen",
             "Wang Qiguang"
           ],
@@ -149,6 +149,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 150,
+          "mention": "Ouverture de la rétrospective",
           "idCategorie": 3767,
           "idEvenement": 32915,
           "typeEvenement": 13,
@@ -174,9 +175,9 @@
           ]
         },
         {
-          "idSeance": 189663,
+          "idSeance": 194717,
           "ordre": 1,
-          "dateHeure": "2025-07-10T18:00:00",
+          "dateHeure": "2025-07-14T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -196,7 +197,7 @@
           "version": "VOSTF",
           "format": "DCP",
           "generique": [
-            "Hou Hsiao-Hsien",
+            "Hou Hsiao-hsien",
             "Tsai Chin",
             "Lai Teh-nan"
           ],
@@ -210,7 +211,7 @@
         {
           "idSeance": 189664,
           "ordre": 1,
-          "dateHeure": "2025-07-10T20:30:00",
+          "dateHeure": "2025-07-10T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -220,6 +221,7 @@
           "idEvenement": 32921,
           "typeEvenement": 13,
           "idFilm": 112477,
+          "art": "The",
           "titre": "Terrorizers",
           "titreVo": "Kong bu fen zi",
           "titreNx": "恐怖分子",
@@ -232,7 +234,7 @@
           "generique": [
             "Cora Miao",
             "Wang An",
-            "Li-chun Li"
+            "Lee Li-chun"
           ],
           "textes": [
             {
@@ -242,14 +244,15 @@
           ]
         },
         {
-          "idSeance": 189853,
+          "idSeance": 194714,
           "ordre": 1,
-          "dateHeure": "2025-07-17T20:15:00",
+          "dateHeure": "2025-07-12T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 30,
+          "typeAssoc": 118,
           "idCategorie": 3767,
           "idEvenement": 32920,
           "typeEvenement": 13,
@@ -304,12 +307,71 @@
           "version": "VOSTF",
           "format": "DCP",
           "generique": [
-            "Chi-Kuang Wang",
-            "Shu-tien Li",
+            "Wang Chi-kuang",
+            "Li Shu-tien",
             "Chun Ku",
             "Mei Fang"
           ],
           "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 194714,
+          "ordre": 2,
+          "dateHeure": "2025-07-12T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 3784,
+          "idEvenement": 33046,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Jean-Michel Frodon",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Jean-Michel Frodon",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            }
+          ]
+        },
+        {
+          "idSeance": 194712,
+          "dateHeure": "2025-07-10T21:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 75,
+          "idCategorie": 3784,
+          "idEvenement": 33045,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Wafa Ghermani",
+          "duree": 75,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Wafa Ghermani",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []

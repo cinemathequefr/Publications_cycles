@@ -44,7 +44,7 @@
   * In Our Time  
   * Mahjong  
   * Taipei Story  
-  * Terrorizers  
+  * Terrorizers (The)  
   * Un été chez grand-père  
   * Yi Yi
 
@@ -60,6 +60,7 @@
 
 ## Histoire permanente du cinéma (36)
 
+  * Adieu Bonaparte  
   * Affreux, sales et méchants  
   * Agnès de Dieu  
   * Belle captive (La)  
@@ -73,7 +74,6 @@
   * Dernier métro (Le)  
   * Des gens comme les autres  
   * Dodes'kaden  
-  * Effraction  
   * Épreuve de force (L')  
   * Eugenio  
   * Fame  
@@ -96,6 +96,29 @@
   * Son nom de Venise dans Calcutta désert  
   * Une chante, l'autre pas (L')  
   * Vie est un roman (La)
+
+## Ida Lupino (20)
+
+  * Avant de t'aimer  
+  * Bigamist (The)  
+  * Cinquième victime (La)  
+  * Femme aux cigarettes (La)  
+  * Femmes en prison  
+  * Grand couteau (Le)  
+  * Grande Évasion (La)  
+  * Hard, Fast and Beautiful  
+  * Ici brigade criminelle  
+  * Junior Bonner, le dernier bagarreur  
+  * Maison dans l'ombre (La)  
+  * Man I Love (The)  
+  * Never Fear  
+  * Outrage  
+  * Pluie du diable (La)  
+  * Soudain les monstres  
+  * Trouble with Angels (The)  
+  * Une femme dangereuse  
+  * Vaisseau fantôme (Le)  
+  * Voyage de la peur (Le)
 
 ## John Stahl (36)
 
@@ -136,7 +159,7 @@
   * Why Men Leave Home  
   * Woman Under Oath (The)
 
-## Le cinéma d'animation japonais, 25 indispensables (25)
+## Le cinéma d'animation japonais, 25 indispensables (26)
 
   * 5 centimètres par seconde  
   * Akira  
@@ -157,6 +180,7 @@
   * Paprika  
   * Perfect Blue  
   * Porco Rosso  
+  * Satoshi Kon, l'illusionniste  
   * Serpent blanc (Le)  
   * Steamboy  
   * Tokyo Godfathers  
