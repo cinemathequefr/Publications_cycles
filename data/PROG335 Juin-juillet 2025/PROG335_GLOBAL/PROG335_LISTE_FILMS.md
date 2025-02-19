@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Antonio Margheriti (21)
+## Antonio Margheriti (24)
 
   * Avec Django, la mort est là  
   * Brute, le colt et le karaté (La)  
@@ -12,12 +12,15 @@
   * Fantômes de Hurlevent (Les)  
   * Flèche d'or (La)  
   * Héros d'apocalypse  
+  * Il était une fois la révolution  
   * Io ti amo  
   * Joe l'implacable  
   * Kommando Leopard  
   * Nom de code : Oies sauvages  
   * Ombre d'un tueur (L')  
+  * Opération Goldman  
   * Planète des hommes perdus (La)  
+  * Planète errante (La)  
   * Pulsions cannibales  
   * Sorcière sanglante (La)  
   * Vainqueur de l'espace (Le)  
@@ -38,9 +41,9 @@
   * A Brighter Summer Day  
   * Ce jour-là sur la plage  
   * Confusion chez Confucius  
-  * In our time  
+  * In Our Time  
   * Mahjong  
-  * Taipei story  
+  * Taipei Story  
   * Terrorizers  
   * Un été chez grand-père  
   * Yi Yi
@@ -55,9 +58,10 @@
   * Rites d'amour et de mort  
   * Soldats japonais
 
-## Histoire permanente du cinéma (40)
+## Histoire permanente du cinéma (36)
 
   * Affreux, sales et méchants  
+  * Agnès de Dieu  
   * Belle captive (La)  
   * Cap Canaille  
   * C'est la vie  
@@ -70,7 +74,6 @@
   * Des gens comme les autres  
   * Dodes'kaden  
   * Effraction  
-  * Element of Crime  
   * Épreuve de force (L')  
   * Eugenio  
   * Fame  
@@ -79,20 +82,16 @@
   * Homme blessé (L')  
   * Homme de fer (L')  
   * Hommes du président (Les)  
-  * Hôtel New Hampshire (L')  
   * Identification d'une femme  
   * Jamais plus toujours  
   * Jardin des Finzi-Contini (Le)  
   * Jonas qui aura 25 ans en l'an 2000  
   * Julia  
-  * Liberté la nuit  
   * Marjorie  
-  * Nostalghia  
   * Ombre des anges (L')  
   * Ombre des châteaux (L')  
   * Ombre rouge (L')  
   * Parfum de femme  
-  * Possession  
   * Roulette chinoise  
   * Son nom de Venise dans Calcutta désert  
   * Une chante, l'autre pas (L')  
@@ -156,7 +155,7 @@
   * Nausicaä de la vallée du vent  
   * Œuf de l'ange (L')  
   * Paprika  
-  * Perfect blue  
+  * Perfect Blue  
   * Porco Rosso  
   * Serpent blanc (Le)  
   * Steamboy  
@@ -169,12 +168,21 @@
 
   * Block Party  
   * Conversation animée avec Noam Chomsky  
-  * Ecume des jours (L')  
-  * Epine dans le cœur (L')  
+  * Écume des jours (L')  
+  * Épine dans le cœur (L')  
   * Eternal Sunshine of the Spotless Mind  
   * Green Hornet (The)  
   * Human Nature  
   * Microbe et Gasoil  
   * Science des rêves (La)  
   * Soyez sympas, rembobinez  
-  * We and the I (The)  
+  * We and the I (The)
+
+## Wes Anderson (6)
+
+  * Famille Tenenbaum (La)  
+  * Fantastic Mr. Fox  
+  * French Dispatch (The)  
+  * Île aux chiens (L')  
+  * Moonrise Kingdom  
+  * Rushmore  
