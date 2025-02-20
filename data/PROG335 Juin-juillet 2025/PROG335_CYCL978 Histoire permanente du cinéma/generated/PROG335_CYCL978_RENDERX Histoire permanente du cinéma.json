@@ -6,37 +6,6 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 38158,
-          "content": [
-            {
-              "idFilm": 38158,
-              "ordre": 1,
-              "titre": "Dodes'kaden",
-              "titreVo": "Dodesukaden",
-              "realisateurs": "Akira Kurosawa",
-              "pays": "Japon",
-              "annee": 1970,
-              "duree": 140,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après des nouvelles du recueil _Quartier sans soleil_ de Shūgorō Yamamoto.",
-              "generique": [
-                "Yoshitaka Zushi",
-                "Kin Sugai",
-                "Junzaburō Ban"
-              ],
-              "miniTexte": "Loin de ses fresques monumentales en noir et blanc, Kurosawa expérimente la couleur pour saisir le quotidien des habitants d'un bidonville de Tokyo. Dans une série de vignettes aussi vives que poétiques, il dévoile l'humanité d'un monde de misère, de rêves et de folie douce, à l'image de ce « dodes'kaden », onomatopée du jeune garçon conduisant chaque jour un tramway imaginaire."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 188490,
-              "dateHeure": "2025-05-28T17:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 41861,
           "content": [
             {
@@ -64,6 +33,37 @@
           "seances": [
             {
               "idSeance": 188494,
+              "dateHeure": "2025-05-28T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 38158,
+          "content": [
+            {
+              "idFilm": 38158,
+              "ordre": 1,
+              "titre": "Dodes'kaden",
+              "titreVo": "Dodesukaden",
+              "realisateurs": "Akira Kurosawa",
+              "pays": "Japon",
+              "annee": 1970,
+              "duree": 140,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après des nouvelles du recueil _Quartier sans soleil_ de Shūgorō Yamamoto.",
+              "generique": [
+                "Yoshitaka Zushi",
+                "Kin Sugai",
+                "Junzaburō Ban"
+              ],
+              "miniTexte": "Loin de ses fresques monumentales en noir et blanc, Kurosawa expérimente la couleur pour saisir le quotidien des habitants d'un bidonville de Tokyo. Dans une série de vignettes aussi vives que poétiques, il dévoile l'humanité d'un monde de misère, de rêves et de folie douce, à l'image de ce « dodes'kaden », onomatopée du jeune garçon conduisant chaque jour un tramway imaginaire."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188490,
               "dateHeure": "2025-05-28T20:30:00",
               "idSalle": "GF"
             }
@@ -109,7 +109,10 @@
               "titre": "Femmes au soleil",
               "realisateurs": "Liliane Dreyfus",
               "pays": "France",
-              "annee": 1973
+              "annee": 1973,
+              "duree": 94,
+              "version": "",
+              "format": "35 mm"
             }
           ],
           "seances": [
@@ -273,6 +276,9 @@
               "realisateurs": "Claude Goretta",
               "pays": "France-RFA-Suisse",
               "annee": 1976,
+              "duree": 108,
+              "version": "",
+              "format": "DCP",
               "adaptation": "D'après le roman _La Dentellière_ de Pascal Lainé."
             }
           ],
@@ -314,6 +320,9 @@
               "realisateurs": "Marguerite Duras",
               "pays": "France",
               "annee": 1976,
+              "duree": 120,
+              "version": "",
+              "format": "DCP",
               "generique": [
                 "Delphine Seyrig",
                 "Nicole Hiss",
@@ -493,6 +502,9 @@
               "realisateurs": "Luigi Comencini",
               "pays": "Italie-France",
               "annee": 1979,
+              "duree": 105,
+              "version": "VOSTF",
+              "format": "35 mm",
               "generique": [
                 "Francesco Bonelli",
                 "Saverio Marconi",

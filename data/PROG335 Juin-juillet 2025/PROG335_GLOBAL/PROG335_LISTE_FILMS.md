@@ -27,13 +27,17 @@
   * Vierge de Nuremberg (La)  
   * Yor, le chasseur du futur
 
-## Cinéma bis (6)
+## Cinéma bis (10)
 
   * Adieu blaireau  
   * Baiser macabre  
+  * Bison blanc (Le)  
+  * Chasse à mort  
   * Future Cop  
   * Mystère  
   * Passagers de l'angoisse (Les)  
+  * Tarzan et la cité perdue  
+  * Tarzan et la révolte de la jungle  
   * Un assassin qui passe
 
 ## Edward Yang (9)
