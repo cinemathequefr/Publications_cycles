@@ -3,6 +3,23 @@
   "titre": "Juin-juillet 2025",
   "cycles": [
     {
+      "idCycleProg": 11,
+      "titreCycle": "Séances spéciales",
+      "isReg": true,
+      "sousCycles": [
+        {
+          "titre": "Hôtel du Parc",
+          "cats": [3773],
+          "tri": 4
+        },
+        {
+          "titre": "Ciné-concert Alice Guy",
+          "cats": [3788],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 14,
       "titreCycle": "Cinéma bis",
       "isReg": true,
@@ -120,6 +137,21 @@
           "titre": "Les films",
           "cats": [3761],
           "tri": 2
+        },
+        {
+          "titre": "Courts métrages",
+          "cats": [3768],
+          "tri": 2
+        },
+        {
+          "titre": "Documentaires",
+          "cats": [3769],
+          "tri": 2
+        },
+        {
+          "titre": "Clips musicaux",
+          "cats": [3780],
+          "tri": 2
         }
       ],
       "excludeSeances": [],
@@ -209,6 +241,32 @@
         {
           "titre": "Les films",
           "cats": [3787],
+          "tri": 2
+        }
+      ],
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
+      "idCycleProg": 1008,
+      "titreCycle": "64e Semaine de la critique",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [3789],
+          "tri": 4
+        }
+      ],
+      "excludeSeances": [],
+      "restaurations": []
+    },
+    {
+      "idCycleProg": 1009,
+      "titreCycle": "12 cinéastes chinoises",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [3790],
           "tri": 2
         }
       ],

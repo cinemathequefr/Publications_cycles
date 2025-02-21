@@ -1,5 +1,15 @@
 # Liste des films par cycle
 
+## 12 cinéastes chinoises (7)
+
+  * All Ears  
+  * Chinatown Cha-Cha  
+  * Her Story  
+  * Qinchun ji  
+  * Send Me to the Clouds  
+  * Tin shui wai dik yat yu ye  
+  * Woman Demon Human
+
 ## Antonio Margheriti (24)
 
   * Avec Django, la mort est là  
@@ -62,7 +72,7 @@
   * Rites d'amour et de mort  
   * Soldats japonais
 
-## Histoire permanente du cinéma (36)
+## Histoire permanente du cinéma (34)
 
   * Adieu Bonaparte  
   * Affreux, sales et méchants  
@@ -93,9 +103,7 @@
   * Julia  
   * Marjorie  
   * Ombre des anges (L')  
-  * Ombre des châteaux (L')  
   * Ombre rouge (L')  
-  * Parfum de femme  
   * Roulette chinoise  
   * Son nom de Venise dans Calcutta désert  
   * Une chante, l'autre pas (L')  
@@ -192,7 +200,7 @@
   * Voyage de Chihiro (Le)  
   * Your Name
 
-## Michel Gondry (11)
+## Michel Gondry (12)
 
   * Block Party  
   * Conversation animée avec Noam Chomsky  
@@ -204,7 +212,13 @@
   * Microbe et Gasoil  
   * Science des rêves (La)  
   * Soyez sympas, rembobinez  
+  * Tokyo!  
   * We and the I (The)
+
+## Séances spéciales (2)
+
+  * Hôtel du Parc: La guerre civile  
+  * Hôtel du Parc : La révolution nationale 
 
 ## Wes Anderson (6)
 
