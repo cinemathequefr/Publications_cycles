@@ -5,9 +5,9 @@
   * All Ears  
   * Chinatown Cha-Cha  
   * Her Story  
-  * Qinchun ji  
+  * Ode à la jeunesse (L')  
   * Send Me to the Clouds  
-  * Tin shui wai dik yat yu ye  
+  * Way We Are (The)  
   * Woman Demon Human
 
 ## Antonio Margheriti (24)
@@ -37,15 +37,18 @@
   * Vierge de Nuremberg (La)  
   * Yor, le chasseur du futur
 
-## Cinéma bis (10)
+## Ciné-club de Frédéric Bonnaud (2)
+
+  * Bonjour  
+  * Sandra
+
+## Cinéma bis (8)
 
   * Adieu blaireau  
   * Baiser macabre  
   * Bison blanc (Le)  
   * Chasse à mort  
-  * Future Cop  
   * Mystère  
-  * Passagers de l'angoisse (Les)  
   * Tarzan et la cité perdue  
   * Tarzan et la révolte de la jungle  
   * Un assassin qui passe

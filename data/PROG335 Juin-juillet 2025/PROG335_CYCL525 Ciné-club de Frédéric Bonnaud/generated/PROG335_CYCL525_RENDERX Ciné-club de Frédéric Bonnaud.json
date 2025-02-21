@@ -1,0 +1,115 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 38069,
+          "content": [
+            {
+              "idFilm": 38069,
+              "ordre": 1,
+              "titre": "Bonjour",
+              "titreVo": "Ohayō",
+              "realisateurs": "Yasujirō Ozu",
+              "pays": "Japon",
+              "annee": 1959,
+              "ageMinimal": 10,
+              "generique": [
+                "Kōji Shidara",
+                "Masahiko Shimazu",
+                "Chishū Ryū",
+                "Kuniko Miyake"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194796,
+              "typeAssoc": 118,
+              "dateHeure": "2025-06-19T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "ordre": 2,
+              "titre": "Dialogue avec Frédéric Bonnaud",
+              "duree": 60
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194796,
+              "typeAssoc": 118,
+              "dateHeure": "2025-06-19T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 43947,
+          "content": [
+            {
+              "idFilm": 43947,
+              "ordre": 1,
+              "titre": "Sandra",
+              "titreVo": "Vaghe stelle dell'orsa",
+              "realisateurs": "Luchino Visconti",
+              "pays": "Italie",
+              "annee": 1964,
+              "generique": [
+                "Claudia Cardinale",
+                "Jean Sorel",
+                "Marie Bell"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194798,
+              "typeAssoc": 118,
+              "dateHeure": "2025-07-03T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "ordre": 2,
+              "titre": "Dialogue avec Frédéric Bonnaud",
+              "duree": 60
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194798,
+              "typeAssoc": 118,
+              "dateHeure": "2025-07-03T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "titreFilms": "Bonjour",
+        "mention": "avec Frédéric Bonnaud",
+        "dateHeure": "2025-06-19T19:00:00"
+      },
+      {
+        "titreFilms": "Sandra",
+        "mention": "avec Frédéric Bonnaud",
+        "dateHeure": "2025-07-03T19:00:00"
+      }
+    ]
+  }
+}
