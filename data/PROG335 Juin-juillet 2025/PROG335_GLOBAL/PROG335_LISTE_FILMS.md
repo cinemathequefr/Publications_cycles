@@ -1,9 +1,10 @@
 # Liste des films par cycle
 
-## 12 cinéastes chinoises (7)
+## 12 cinéastes chinoises (8)
 
   * All Ears  
   * Chinatown Cha-Cha  
+  * Guo Ran  
   * Her Story  
   * Ode à la jeunesse (L')  
   * Send Me to the Clouds  
