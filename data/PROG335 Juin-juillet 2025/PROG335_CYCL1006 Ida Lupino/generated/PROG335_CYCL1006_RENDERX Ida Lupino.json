@@ -82,30 +82,48 @@
           ]
         },
         {
-          "idFilm": 80323,
-          "content": [
+          "groupe": [
             {
               "idFilm": 80323,
-              "ordre": 1,
-              "titre": "Never Fear",
-              "realisateurs": "Ida Lupino",
-              "pays": "États-Unis",
-              "annee": 1950,
-              "duree": 81,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Sally Forrest",
-                "Keefe Brasselle",
-                "Hugh O'Brian"
+              "content": [
+                {
+                  "idFilm": 80323,
+                  "ordre": 1,
+                  "titre": "Never Fear",
+                  "realisateurs": "Ida Lupino",
+                  "pays": "États-Unis",
+                  "annee": 1950,
+                  "duree": 81,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Sally Forrest",
+                    "Keefe Brasselle",
+                    "Hugh O'Brian"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 194724,
-              "dateHeure": "2025-07-20T18:30:00",
-              "idSalle": "GF"
+              "idEvenement": 33163,
+              "content": [
+                {
+                  "idConf": 33163,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Yola Le Caînec",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Isaac Gaido-Daniel",
+                  "miniTexte": "_Faire face_ (_Never_ _Fear_), deuxième long-métrage de l'actrice Ida Lupino, est le film qui la confirme comme réalisatrice, la seule dans le Hollywood des années 1950. À l'écart du système des studios dominants, elle démontre sa capacité à faire œuvre : _Faire face_ est d'une certaine façon la suite d'_Avant de t'aimer_, et témoigne de l'aspect personnel de sa mise en scène puisqu'elle raconte, précisément et librement, un épisode de sa propre jeunesse lors de son arrivée aux États-Unis en 1934. – Yola Le Caïnec"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194824,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-07-20T14:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -131,8 +149,8 @@
           ],
           "seances": [
             {
-              "idSeance": 189952,
-              "dateHeure": "2025-07-20T14:30:00",
+              "idSeance": 194825,
+              "dateHeure": "2025-07-20T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -602,25 +620,6 @@
               "idSalle": "HL"
             }
           ]
-        },
-        {
-          "idConf": 33163,
-          "content": [
-            {
-              "idConf": 33163,
-              "titre": "Dialogue avec Yola Le Caînec",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Isaac Gaido-Daniel",
-              "miniTexte": "_Faire face_ (_Never_ _Fear_), deuxième long-métrage de l'actrice Ida Lupino, est le film qui la confirme comme réalisatrice, la seule dans le Hollywood des années 1950. À l'écart du système des studios dominants, elle démontre sa capacité à faire œuvre : _Faire face_ est d'une certaine façon la suite d'_Avant de t'aimer_, et témoigne de l'aspect personnel de sa mise en scène puisqu'elle raconte, précisément et librement, un épisode de sa propre jeunesse lors de son arrivée aux États-Unis en 1934. – Yola Le Caïnec"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 194822,
-              "dateHeure": "2025-07-20T16:00:00",
-              "idSalle": "GF"
-            }
-          ]
         }
       ]
     }
@@ -632,8 +631,9 @@
         "dateHeure": "2025-07-19T16:00:00"
       },
       {
+        "titreFilms": "Never Fear",
         "mention": "avec Yola Le Caînec",
-        "dateHeure": "2025-07-20T16:00:00"
+        "dateHeure": "2025-07-20T14:30:00"
       }
     ]
   }

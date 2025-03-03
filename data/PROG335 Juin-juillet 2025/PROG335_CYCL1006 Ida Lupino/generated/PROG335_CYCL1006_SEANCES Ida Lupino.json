@@ -157,21 +157,22 @@
   {
     "idCategorie": 3785,
     "typeEvenement": 13,
-    "idEvenement": 33052,
-    "idSeance": 189952,
+    "idEvenement": 33050,
+    "idSeance": 194824,
     "dateHeure": "2025-07-20T14:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 75644,
+        "idFilm": 80323,
         "ordre": 1,
-        "idSeance": 189952,
-        "idCopie": 20688,
-        "duree": 75,
+        "idSeance": 194824,
+        "idCopie": 29726,
+        "duree": 81,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -181,35 +182,38 @@
     "idCategorie": 3798,
     "typeEvenement": 14,
     "idEvenement": 33163,
-    "idSeance": 194822,
-    "dateHeure": "2025-07-20T16:00:00",
+    "idSeance": 194824,
+    "dateHeure": "2025-07-20T14:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
     "idCategorie": 3785,
     "typeEvenement": 13,
-    "idEvenement": 33050,
-    "idSeance": 194724,
+    "idEvenement": 33052,
+    "idSeance": 194825,
     "dateHeure": "2025-07-20T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 80323,
+        "idFilm": 75644,
         "ordre": 1,
-        "idSeance": 194724,
-        "idCopie": 29726,
-        "duree": 81,
+        "idSeance": 194825,
+        "idCopie": 20688,
+        "duree": 75,
         "version": "VOSTF",
         "format": "DCP"
       }
