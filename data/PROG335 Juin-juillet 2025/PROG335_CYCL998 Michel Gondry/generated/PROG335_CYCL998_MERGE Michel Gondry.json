@@ -118,12 +118,12 @@
           "textes": []
         },
         {
-          "idSeance": 194682,
+          "idSeance": 194818,
           "ordre": 1,
-          "dateHeure": "2025-06-19T18:00:00",
+          "dateHeure": "2025-06-27T18:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 135,
           "idCategorie": 3761,
@@ -145,14 +145,39 @@
           "textes": []
         },
         {
-          "idSeance": 194776,
+          "idSeance": 189059,
           "ordre": 1,
-          "dateHeure": "2025-06-19T20:15:00",
+          "dateHeure": "2025-06-18T20:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "mention": "Ouverture de la rétrospective. Séance présentée par Michel Gondry",
+          "idCategorie": 3761,
+          "idEvenement": 33151,
+          "typeEvenement": 13,
+          "idFilm": 155207,
+          "art": "Le",
+          "titre": "Livre des solutions",
+          "realisateurs": "Michel Gondry",
+          "annee": 2023,
+          "pays": "France",
+          "duree": 102,
+          "version": "",
+          "format": "DCP",
+          "textes": []
+        },
+        {
+          "idSeance": 194776,
+          "ordre": 1,
+          "dateHeure": "2025-06-19T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 135,
+          "mention": "Séance suivie d'une discussion avec Michel Gondry, Ange Dargent et Théophile Baquet",
           "idCategorie": 3761,
           "idEvenement": 32867,
           "typeEvenement": 13,
@@ -208,6 +233,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3761,
           "idEvenement": 32859,
           "typeEvenement": 13,
@@ -315,6 +341,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 120,
+          "mention": "Séance présentée par Michel Gondry",
           "idCategorie": 3761,
           "idEvenement": 32862,
           "typeEvenement": 13,
@@ -332,6 +359,40 @@
             "Jean-Yves Gondry"
           ],
           "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 194774,
+          "ordre": 2,
+          "dateHeure": "2025-06-22T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3796,
+          "idEvenement": 33147,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Michel Gondry",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Michel Gondry",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []

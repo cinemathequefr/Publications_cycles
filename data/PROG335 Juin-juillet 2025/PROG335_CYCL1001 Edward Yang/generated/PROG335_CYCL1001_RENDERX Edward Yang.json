@@ -34,7 +34,7 @@
           "seances": [
             {
               "idSeance": 189703,
-              "dateHeure": "2025-07-11T19:30:00",
+              "dateHeure": "2025-07-11T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -70,32 +70,49 @@
           ]
         },
         {
-          "idFilm": 59723,
-          "content": [
+          "groupe": [
             {
               "idFilm": 59723,
-              "ordre": 1,
-              "titre": "Confusion chez Confucius",
-              "titreVo": "Duli shidai",
-              "realisateurs": "Edward Yang",
-              "pays": "Taïwan",
-              "annee": 1994,
-              "duree": 132,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Chen Shiang-chyi",
-                "Ni Shujun",
-                "Wang Weiming"
-              ],
-              "miniTexte": "Critique mordante du miracle économique taïwanais, _Confusion chez Confucius_ brosse le portrait d'une jeune génération – entrepreneurs, artistes, intellectuels – qui se heurte aux valeurs morales dans une société obsédée par l'argent et le statut social."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 59723,
+                  "ordre": 1,
+                  "titre": "Confusion chez Confucius",
+                  "titreVo": "Duli shidai",
+                  "realisateurs": "Edward Yang",
+                  "pays": "Taïwan",
+                  "annee": 1994,
+                  "duree": 132,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Chen Shiang-chyi",
+                    "Ni Shujun",
+                    "Wang Weiming"
+                  ],
+                  "miniTexte": "Critique mordante du miracle économique taïwanais, _Confusion chez Confucius_ brosse le portrait d'une jeune génération – entrepreneurs, artistes, intellectuels – qui se heurte aux valeurs morales dans une société obsédée par l'argent et le statut social."
+                }
+              ]
+            },
             {
-              "idSeance": 194687,
-              "dateHeure": "2025-07-12T20:00:00",
-              "idSalle": "HL"
+              "idEvenement": 33045,
+              "content": [
+                {
+                  "idConf": 33045,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Wafa Ghermani",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Film mal connu d'Edward Yang, _Confusion chez Confucius_ marque une rupture. Filmé après _A Brighter Summer Day_, portrait au noir des années 1960, entre dictature et rock'n'roll, _Confusion..._, comédie grinçante dont le titre original signifie « l'ère de l'indépendance », s'interroge sur la société taïwanaise démocratisée. _Mahjong_ et _Yi Yi_ complèteront cette trilogie sur le Taipei contemporain. — Wafa Ghermani"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194816,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-07-10T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -214,8 +231,8 @@
           ],
           "seances": [
             {
-              "idSeance": 189664,
-              "dateHeure": "2025-07-10T19:00:00",
+              "idSeance": 194817,
+              "dateHeure": "2025-07-12T20:00:00",
               "idSalle": "HL"
             }
           ]
@@ -252,7 +269,9 @@
                   "idConf": 33046,
                   "ordre": 2,
                   "titre": "Dialogue avec Jean-Michel Frodon",
-                  "typeConference": "Dialogue"
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel",
+                  "miniTexte": "À Cannes en mai 2000, le prix de la mise en scène décerné à _Yi Yi_ consacre enfin un grand cinéaste resté jusqu'alors dans les marges de la reconnaissance internationale. Ceux qui suivent le travail de cette figure de proue du Nouveau Cinéma taïwanais savent que cette fresque aux multiples personnages représente alors le sommet de son œuvre. Nul n'imagine pourtant que cette exploration sensible des relations à l'échelle d'une famille, d'une ville et d'une époque à l'heure de la mondialisation serait le dernier film d'un cinéaste dont on n'a cessé, depuis sa mort en 2007, de réévaluer l'importance. — Jean-Michel Frodon"
                 }
               ],
               "seances": [
@@ -303,36 +322,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 33045,
-          "content": [
-            {
-              "idConf": 33045,
-              "titre": "Dialogue avec Wafa Ghermani",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 194712,
-              "dateHeure": "2025-07-10T21:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogues": [
       {
+        "titreFilms": "Confusion chez Confucius",
         "mention": "avec Wafa Ghermani",
-        "dateHeure": "2025-07-10T21:00:00"
+        "dateHeure": "2025-07-10T19:00:00"
       },
       {
         "titreFilms": "Yi Yi",

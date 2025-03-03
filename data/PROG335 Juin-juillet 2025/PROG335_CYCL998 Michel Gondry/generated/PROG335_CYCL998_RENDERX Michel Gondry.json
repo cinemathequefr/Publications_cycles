@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2025-06-19T18:00:00",
-    "2025-06-25T18:00:00"
+    "2025-06-18T20:00:00",
+    "2025-06-27T18:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -121,7 +121,8 @@
             {
               "idSeance": 194779,
               "dateHeure": "2025-06-23T20:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Michel Gondry"
             }
           ]
         },
@@ -206,9 +207,34 @@
           ],
           "seances": [
             {
-              "idSeance": 194682,
-              "dateHeure": "2025-06-19T18:00:00",
-              "idSalle": "HL"
+              "idSeance": 194818,
+              "dateHeure": "2025-06-27T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155207,
+          "content": [
+            {
+              "idFilm": 155207,
+              "ordre": 1,
+              "titre": "Livre des solutions",
+              "art": "Le",
+              "realisateurs": "Michel Gondry",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 102,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189059,
+              "dateHeure": "2025-06-18T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective. Séance présentée par Michel Gondry"
             }
           ]
         },
@@ -235,8 +261,9 @@
           "seances": [
             {
               "idSeance": 194776,
-              "dateHeure": "2025-06-19T20:15:00",
-              "idSalle": "HL"
+              "dateHeure": "2025-06-19T19:00:00",
+              "idSalle": "HL",
+              "mention": "Séance suivie d'une discussion avec Michel Gondry, Ange Dargent et Théophile Baquet"
             }
           ]
         },
@@ -270,31 +297,47 @@
           ]
         },
         {
-          "idFilm": 103844,
-          "content": [
+          "groupe": [
             {
               "idFilm": 103844,
-              "ordre": 1,
-              "titre": "Soyez sympas, rembobinez",
-              "titreVo": "Be Kind Rewind",
-              "realisateurs": "Michel Gondry",
-              "pays": "États-Unis",
-              "annee": 2008,
-              "duree": 0,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Jack Black",
-                "Mos Def",
-                "Danny Glover"
+              "content": [
+                {
+                  "idFilm": 103844,
+                  "ordre": 1,
+                  "titre": "Soyez sympas, rembobinez",
+                  "titreVo": "Be Kind Rewind",
+                  "realisateurs": "Michel Gondry",
+                  "pays": "États-Unis",
+                  "annee": 2008,
+                  "duree": 0,
+                  "version": "",
+                  "format": "",
+                  "generique": [
+                    "Jack Black",
+                    "Mos Def",
+                    "Danny Glover"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 194774,
-              "dateHeure": "2025-06-22T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 33147,
+              "content": [
+                {
+                  "idConf": 33147,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Michel Gondry",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194774,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-06-22T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -353,5 +396,32 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Soyez sympas, rembobinez",
+        "mention": "avec Michel Gondry",
+        "dateHeure": "2025-06-22T14:30:00"
+      }
+    ],
+    "Discussion": [
+      {
+        "titreFilms": "Microbe et Gasoil",
+        "mention": "avec Michel Gondry, Ange Dargent et Théophile Baquet",
+        "dateHeure": "2025-06-19T19:00:00"
+      }
+    ],
+    "Séances présentées": [
+      {
+        "titreFilms": "Le Livre des solutions",
+        "mention": "par Michel Gondry",
+        "dateHeure": "2025-06-18T20:00:00"
+      },
+      {
+        "titreFilms": "L'Épine dans le cœur",
+        "mention": "par Michel Gondry",
+        "dateHeure": "2025-06-23T20:00:00"
+      }
+    ]
+  }
 }

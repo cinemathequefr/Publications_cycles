@@ -2,32 +2,34 @@
   {
     "idCategorie": 3761,
     "typeEvenement": 13,
-    "idEvenement": 32855,
-    "idSeance": 194682,
-    "dateHeure": "2025-06-19T18:00:00",
+    "idEvenement": 33151,
+    "idSeance": 189059,
+    "dateHeure": "2025-06-18T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeSeance": 44,
     "items": [
       {
-        "idFilm": 75120,
+        "idFilm": 155207,
         "ordre": 1,
-        "idSeance": 194682,
-        "idCopie": 29607,
-        "duree": 96,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idSeance": 189059,
+        "idCopie": 29735,
+        "duree": 102,
+        "version": "",
+        "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective. Séance présentée par Michel Gondry"
   },
   {
     "idCategorie": 3761,
     "typeEvenement": 13,
     "idEvenement": 32867,
     "idSeance": 194776,
-    "dateHeure": "2025-06-19T20:15:00",
+    "dateHeure": "2025-06-19T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -43,7 +45,8 @@
         "version": "",
         "format": ""
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Michel Gondry, Ange Dargent et Théophile Baquet"
   },
   {
     "idCategorie": 3761,
@@ -148,6 +151,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 103844,
@@ -157,6 +161,24 @@
         "duree": 0,
         "version": "",
         "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3796,
+    "typeEvenement": 14,
+    "idEvenement": 33147,
+    "idSeance": 194774,
+    "dateHeure": "2025-06-22T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -250,7 +272,8 @@
         "version": "",
         "format": ""
       }
-    ]
+    ],
+    "mention": "Séance présentée par Michel Gondry"
   },
   {
     "idCategorie": 3761,
@@ -272,6 +295,29 @@
         "duree": 90,
         "version": "VOSTF",
         "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3761,
+    "typeEvenement": 13,
+    "idEvenement": 32855,
+    "idSeance": 194818,
+    "dateHeure": "2025-06-27T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 75120,
+        "ordre": 1,
+        "idSeance": 194818,
+        "idCopie": 29607,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   }

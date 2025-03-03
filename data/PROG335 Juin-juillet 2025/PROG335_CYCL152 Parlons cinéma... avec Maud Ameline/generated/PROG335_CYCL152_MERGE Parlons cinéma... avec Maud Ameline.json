@@ -1,13 +1,107 @@
 {
   "data": [
     {
+      "titreSousCycle": "Les films",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 194808,
+          "ordre": 1,
+          "dateHeure": "2025-06-12T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "typeAssoc": 118,
+          "idCategorie": 3793,
+          "idEvenement": 33143,
+          "typeEvenement": 13,
+          "idFilm": 39288,
+          "titre": "Alice dans les villes",
+          "titreVo": "Alice in den Städten",
+          "realisateurs": "Wim Wenders",
+          "annee": 1974,
+          "pays": "RFA",
+          "generique": [
+            "Rüdiger Vogler",
+            "Yella Rottländer",
+            "Lisa Kreuzer"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Un photographe en mal de vivre se voit confier la jeune Alice, le temps d'un voyage. Wenders filme la monotonie, mais aussi la complicité entre ses deux personnages, avec rigueur, grâce, et une mélancolie que renforce le somptueux noir et blanc. Il prend son temps, déploie un sens aigu de l'espace, entre les motels et la Ruhr, l'Europe et les États-Unis, dans des paysages vidés de leur sens. Un road movie pour une double quête, qui préfigure _Paris, Texas_. Bouleversant."
+            }
+          ]
+        },
+        {
+          "idSeance": 194809,
+          "ordre": 1,
+          "dateHeure": "2025-06-20T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3793,
+          "idEvenement": 33144,
+          "typeEvenement": 13,
+          "idFilm": 47135,
+          "titre": "Noce blanche",
+          "realisateurs": "Jean-Claude Brisseau",
+          "annee": 1989,
+          "pays": "France",
+          "generique": [
+            "Vanessa Paradis",
+            "Bruno Cremer",
+            "Ludmila Mikaël"
+          ],
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Numérisé par Les Films du Losange en 2015.\n\n---\n\nRestauré par les Films du Losange en 2015, avec le soutien du CNC, à partir du négatif original numérisé en 4K. Les travaux ont été menés au laboratoire Digimage et supervisés par J.-C. Brisseau."
+            }
+          ]
+        },
+        {
+          "idSeance": 194810,
+          "ordre": 1,
+          "dateHeure": "2025-06-26T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 105,
+          "typeAssoc": 118,
+          "idCategorie": 3793,
+          "idEvenement": 33145,
+          "typeEvenement": 13,
+          "idFilm": 50965,
+          "art": "Le",
+          "titre": "Rayon vert",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1985,
+          "pays": "France",
+          "generique": [
+            "Marie Rivière",
+            "Vincent Gauthier",
+            "Rosette"
+          ],
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
       "titreSousCycle": "Rencontres et conférences",
       "tri": 4,
       "items": [
         {
-          "idSeance": 194806,
-          "ordre": 1,
-          "dateHeure": "2025-06-26T20:30:00",
+          "idSeance": 194810,
+          "ordre": 2,
+          "dateHeure": "2025-06-26T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -39,14 +133,14 @@
           "mentionAnimation": "Animé par Bernard Benoliel"
         },
         {
-          "idSeance": 194802,
-          "ordre": 1,
-          "dateHeure": "2025-06-12T20:30:00",
+          "idSeance": 194808,
+          "ordre": 2,
+          "dateHeure": "2025-06-12T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
-          "dureeSeance": 90,
+          "dureeSeance": 60,
           "typeAssoc": 118,
           "idCategorie": 3111,
           "idEvenement": 33140,
@@ -73,9 +167,9 @@
           "mentionAnimation": "Animé par Bernard Benoliel"
         },
         {
-          "idSeance": 194804,
-          "ordre": 1,
-          "dateHeure": "2025-06-20T20:30:00",
+          "idSeance": 194809,
+          "ordre": 2,
+          "dateHeure": "2025-06-20T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"

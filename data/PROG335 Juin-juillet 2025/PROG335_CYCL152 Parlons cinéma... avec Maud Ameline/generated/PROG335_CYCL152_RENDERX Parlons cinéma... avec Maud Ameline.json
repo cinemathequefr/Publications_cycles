@@ -1,19 +1,158 @@
 {
   "textePresentation": "",
-  "sousCycles": [],
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "groupe": [
+            {
+              "idFilm": 39288,
+              "content": [
+                {
+                  "idFilm": 39288,
+                  "ordre": 1,
+                  "titre": "Alice dans les villes",
+                  "titreVo": "Alice in den Städten",
+                  "realisateurs": "Wim Wenders",
+                  "pays": "RFA",
+                  "annee": 1974,
+                  "generique": [
+                    "Rüdiger Vogler",
+                    "Yella Rottländer",
+                    "Lisa Kreuzer"
+                  ],
+                  "miniTexte": "Un photographe en mal de vivre se voit confier la jeune Alice, le temps d'un voyage. Wenders filme la monotonie, mais aussi la complicité entre ses deux personnages, avec rigueur, grâce, et une mélancolie que renforce le somptueux noir et blanc. Il prend son temps, déploie un sens aigu de l'espace, entre les motels et la Ruhr, l'Europe et les États-Unis, dans des paysages vidés de leur sens. Un road movie pour une double quête, qui préfigure _Paris, Texas_. Bouleversant."
+                }
+              ]
+            },
+            {
+              "idEvenement": 33140,
+              "content": [
+                {
+                  "idConf": 33140,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Maud Ameline",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194808,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-06-12T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 47135,
+              "content": [
+                {
+                  "idFilm": 47135,
+                  "ordre": 1,
+                  "titre": "Noce blanche",
+                  "realisateurs": "Jean-Claude Brisseau",
+                  "pays": "France",
+                  "annee": 1989,
+                  "generique": [
+                    "Vanessa Paradis",
+                    "Bruno Cremer",
+                    "Ludmila Mikaël"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 33141,
+              "content": [
+                {
+                  "idConf": 33141,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Maud Ameline",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194809,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-06-20T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 50965,
+              "content": [
+                {
+                  "idFilm": 50965,
+                  "ordre": 1,
+                  "titre": "Rayon vert",
+                  "art": "Le",
+                  "realisateurs": "Eric Rohmer",
+                  "pays": "France",
+                  "annee": 1985,
+                  "generique": [
+                    "Marie Rivière",
+                    "Vincent Gauthier",
+                    "Rosette"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 33139,
+              "content": [
+                {
+                  "idConf": 33139,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Maud Ameline",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194810,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-06-26T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "syntheseAction": {
     "Dialogues": [
       {
+        "titreFilms": "Alice dans les villes",
         "mention": "avec Maud Ameline",
-        "dateHeure": "2025-06-12T20:30:00"
+        "dateHeure": "2025-06-12T19:00:00"
       },
       {
+        "titreFilms": "Noce blanche",
         "mention": "avec Maud Ameline",
-        "dateHeure": "2025-06-20T20:30:00"
+        "dateHeure": "2025-06-20T19:00:00"
       },
       {
+        "titreFilms": "Le Rayon vert",
         "mention": "avec Maud Ameline",
-        "dateHeure": "2025-06-26T20:30:00"
+        "dateHeure": "2025-06-26T19:00:00"
       }
     ]
   }

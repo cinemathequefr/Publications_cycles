@@ -54,6 +54,10 @@
   * Tarzan et la révolte de la jungle  
   * Un assassin qui passe
 
+## Conservatoire des techniques cinématographiques (1)
+
+  * Grand Budapest Hotel (The)
+
 ## Edward Yang (9)
 
   * A Brighter Summer Day  
@@ -120,7 +124,7 @@
   * Cinquième victime (La)  
   * Femme aux cigarettes (La)  
   * Femmes en prison  
-  * Grand couteau (Le)  
+  * Grand Couteau (Le)  
   * Grande Évasion (La)  
   * Hard, Fast and Beautiful  
   * Ici brigade criminelle  
@@ -204,7 +208,7 @@
   * Voyage de Chihiro (Le)  
   * Your Name
 
-## Michel Gondry (12)
+## Michel Gondry (13)
 
   * Block Party  
   * Conversation animée avec Noam Chomsky  
@@ -213,11 +217,18 @@
   * Eternal Sunshine of the Spotless Mind  
   * Green Hornet (The)  
   * Human Nature  
+  * Livre des solutions (Le)  
   * Microbe et Gasoil  
   * Science des rêves (La)  
   * Soyez sympas, rembobinez  
   * Tokyo!  
   * We and the I (The)
+
+## Parlons cinéma... avec Maud Ameline (3)
+
+  * Alice dans les villes  
+  * Noce blanche  
+  * Rayon vert (Le)
 
 ## Séances spéciales (2)
 

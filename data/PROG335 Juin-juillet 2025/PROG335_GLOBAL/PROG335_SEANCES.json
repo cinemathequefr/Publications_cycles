@@ -466,6 +466,7 @@
         "realisateurs": "John M. Stahl",
         "annee": 1921,
         "duree": 92,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
@@ -608,7 +609,9 @@
         "art": "The",
         "realisateurs": "John M. Stahl",
         "annee": 1919,
-        "duree": 61
+        "duree": 61,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f155189"
@@ -630,7 +633,9 @@
         "titre": "Her Code of Honor",
         "realisateurs": "John M. Stahl",
         "annee": 1919,
-        "duree": 80
+        "duree": 80,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f66082"
@@ -655,6 +660,37 @@
       }
     ],
     "hashEvenement": "f46679"
+  },
+  {
+    "idSeance": 194796,
+    "idEvenement": 33132,
+    "dateHeure": "2025-06-05T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 38069,
+        "titre": "Bonjour",
+        "realisateurs": "Yasujirō Ozu",
+        "annee": 1959
+      },
+      {
+        "idConf": 33133,
+        "titre": "Dialogue avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f38069c33133"
   },
   {
     "idSeance": 188715,
@@ -709,7 +745,7 @@
     "cycle": [
       [
         "Fenêtre sur les collections",
-        "Louis Delluc, de la critique à la réalisation"
+        "Ève Francis"
       ]
     ],
     "mention": "Séance présentée par Marién Gómez",
@@ -743,7 +779,7 @@
     "cycle": [
       [
         "Fenêtre sur les collections",
-        "Louis Delluc, de la critique à la réalisation"
+        "Ève Francis"
       ]
     ],
     "items": [
@@ -1066,10 +1102,43 @@
         "titre": "Lettre d'introduction",
         "realisateurs": "John M. Stahl",
         "annee": 1938,
-        "duree": 104
+        "duree": 104,
+        "version": "VO",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f35915"
+  },
+  {
+    "idSeance": 194808,
+    "idEvenement": 33143,
+    "dateHeure": "2025-06-12T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Maud Ameline",
+        "Les films"
+      ],
+      [
+        "Parlons cinéma... avec Maud Ameline",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 39288,
+        "titre": "Alice dans les villes",
+        "realisateurs": "Wim Wenders",
+        "annee": 1974
+      },
+      {
+        "idConf": 33140,
+        "titre": "Dialogue avec Maud Ameline",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f39288c33140"
   },
   {
     "idSeance": 188908,
@@ -1093,25 +1162,26 @@
     "hashEvenement": "f97155"
   },
   {
-    "idSeance": 194802,
-    "idEvenement": 33140,
-    "dateHeure": "2025-06-12T20:30:00",
+    "idSeance": 194807,
+    "idEvenement": 33142,
+    "dateHeure": "2025-06-13T17:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Parlons cinéma... avec Maud Ameline",
+        "Conservatoire des techniques cinématographiques",
         "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idConf": 33140,
-        "titre": "Dialogue avec Maud Ameline",
-        "typeConference": "Dialogue",
-        "duree": 60
+        "idConf": 33142,
+        "titre": "Conférence de Walter Murch",
+        "sousTitre": "Conférence de Walter Murch",
+        "typeConference": "Conférence",
+        "duree": 90
       }
     ],
-    "hashEvenement": "c33140"
+    "hashEvenement": "c33142"
   },
   {
     "idSeance": 188947,
@@ -1279,7 +1349,7 @@
         "annee": 1954,
         "duree": 108,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f35924"
@@ -1501,6 +1571,31 @@
     "hashEvenement": "f54394"
   },
   {
+    "idSeance": 189059,
+    "idEvenement": 33151,
+    "dateHeure": "2025-06-18T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Michel Gondry",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective. Séance présentée par Michel Gondry",
+    "items": [
+      {
+        "idFilm": 155207,
+        "titre": "Livre des solutions",
+        "art": "Le",
+        "realisateurs": "Michel Gondry",
+        "annee": 2023,
+        "duree": 102,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155207"
+  },
+  {
     "idSeance": 194769,
     "idEvenement": 32845,
     "dateHeure": "2025-06-19T16:00:00",
@@ -1525,60 +1620,9 @@
     "hashEvenement": "f57059"
   },
   {
-    "idSeance": 194682,
-    "idEvenement": 32855,
-    "dateHeure": "2025-06-19T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Michel Gondry",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 75120,
-        "titre": "Human Nature",
-        "realisateurs": "Michel Gondry",
-        "annee": 2001,
-        "duree": 96,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f75120"
-  },
-  {
-    "idSeance": 194796,
-    "idEvenement": 33132,
-    "dateHeure": "2025-06-19T19:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Ciné-club de Frédéric Bonnaud",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 38069,
-        "titre": "Bonjour",
-        "realisateurs": "Yasujirō Ozu",
-        "annee": 1959
-      },
-      {
-        "idConf": 33133,
-        "titre": "Dialogue avec Frédéric Bonnaud",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "f38069c33133"
-  },
-  {
     "idSeance": 194776,
     "idEvenement": 32867,
-    "dateHeure": "2025-06-19T20:15:00",
+    "dateHeure": "2025-06-19T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1586,6 +1630,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Michel Gondry, Ange Dargent et Théophile Baquet",
     "items": [
       {
         "idFilm": 127330,
@@ -1645,6 +1690,37 @@
     "hashEvenement": "f99664"
   },
   {
+    "idSeance": 194809,
+    "idEvenement": 33144,
+    "dateHeure": "2025-06-20T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Maud Ameline",
+        "Les films"
+      ],
+      [
+        "Parlons cinéma... avec Maud Ameline",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47135,
+        "titre": "Noce blanche",
+        "realisateurs": "Jean-Claude Brisseau",
+        "annee": 1989
+      },
+      {
+        "idConf": 33141,
+        "titre": "Dialogue avec Maud Ameline",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f47135c33141"
+  },
+  {
     "idSeance": 194777,
     "idEvenement": 32856,
     "dateHeure": "2025-06-20T20:15:00",
@@ -1669,25 +1745,43 @@
     "hashEvenement": "f91738"
   },
   {
-    "idSeance": 194804,
-    "idEvenement": 33141,
-    "dateHeure": "2025-06-20T20:30:00",
-    "salle": "GF",
+    "idSeance": 189178,
+    "idEvenement": 31962,
+    "dateHeure": "2025-06-21T14:30:00",
+    "salle": "HL",
     "cycle": [
       [
-        "Parlons cinéma... avec Maud Ameline",
+        "Conservatoire des techniques cinématographiques",
+        "Les films"
+      ],
+      [
+        "Wes Anderson",
+        "Les films"
+      ],
+      [
+        "Wes Anderson",
         "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idConf": 33141,
-        "titre": "Dialogue avec Maud Ameline",
+        "idFilm": 122457,
+        "titre": "Grand Budapest Hotel",
+        "art": "The",
+        "realisateurs": "Wes Anderson",
+        "annee": 2014,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idConf": 33146,
+        "titre": "Dialogue avec Alexandre Desplat",
         "typeConference": "Dialogue",
         "duree": 60
       }
     ],
-    "hashEvenement": "c33141"
+    "hashEvenement": "f122457c33146"
   },
   {
     "idSeance": 194703,
@@ -1728,7 +1822,10 @@
         "titre": "Amants de Salzbourg",
         "art": "Les",
         "realisateurs": "Douglas Sirk",
-        "annee": 1957
+        "annee": 1957,
+        "duree": 90,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f35743"
@@ -1814,6 +1911,10 @@
       [
         "Michel Gondry",
         "Les films"
+      ],
+      [
+        "Michel Gondry",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1822,9 +1923,15 @@
         "titre": "Soyez sympas, rembobinez",
         "realisateurs": "Michel Gondry",
         "annee": 2008
+      },
+      {
+        "idConf": 33147,
+        "titre": "Dialogue avec Michel Gondry",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f103844"
+    "hashEvenement": "f103844c33147"
   },
   {
     "idSeance": 189202,
@@ -1977,6 +2084,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Michel Gondry",
     "items": [
       {
         "idFilm": 108315,
@@ -2055,7 +2163,7 @@
         "annee": 1943,
         "duree": 86,
         "version": "VO",
-        "format": "16 mm"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f35914"
@@ -2156,6 +2264,38 @@
     "hashEvenement": "f60168"
   },
   {
+    "idSeance": 194810,
+    "idEvenement": 33145,
+    "dateHeure": "2025-06-26T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Maud Ameline",
+        "Les films"
+      ],
+      [
+        "Parlons cinéma... avec Maud Ameline",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50965,
+        "titre": "Rayon vert",
+        "art": "Le",
+        "realisateurs": "Eric Rohmer",
+        "annee": 1985
+      },
+      {
+        "idConf": 33139,
+        "titre": "Dialogue avec Maud Ameline",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f50965c33139"
+  },
+  {
     "idSeance": 189286,
     "idEvenement": 32766,
     "dateHeure": "2025-06-26T20:00:00",
@@ -2178,27 +2318,6 @@
       }
     ],
     "hashEvenement": "f91457"
-  },
-  {
-    "idSeance": 194806,
-    "idEvenement": 33139,
-    "dateHeure": "2025-06-26T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Parlons cinéma... avec Maud Ameline",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33139,
-        "titre": "Dialogue avec Maud Ameline",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33139"
   },
   {
     "idSeance": 194619,
@@ -2247,10 +2366,34 @@
     "hashEvenement": "f155174"
   },
   {
+    "idSeance": 194818,
+    "idEvenement": 32855,
+    "dateHeure": "2025-06-27T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Michel Gondry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 75120,
+        "titre": "Human Nature",
+        "realisateurs": "Michel Gondry",
+        "annee": 2001,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f75120"
+  },
+  {
     "idSeance": 189327,
     "idEvenement": 33012,
     "dateHeure": "2025-06-27T19:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Cinéma bis",
@@ -2263,7 +2406,8 @@
         "titre": "Tarzan et la cité perdue",
         "realisateurs": "Carl Schenkel",
         "annee": 1997,
-        "duree": 83
+        "duree": 83,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f29319"
@@ -2296,7 +2440,7 @@
     "idSeance": 189328,
     "idEvenement": 33075,
     "dateHeure": "2025-06-27T21:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Cinéma bis",
@@ -2466,7 +2610,9 @@
         "art": "L'",
         "realisateurs": "Mamoru Oshii",
         "annee": 1985,
-        "duree": 71
+        "duree": 71,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155176"
@@ -2801,13 +2947,17 @@
   },
   {
     "idSeance": 194798,
-    "idEvenement": 33135,
+    "idEvenement": 33134,
     "dateHeure": "2025-07-03T19:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Ciné-club de Frédéric Bonnaud",
         "Les films"
+      ],
+      [
+        "Ciné-club de Frédéric Bonnaud",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2815,7 +2965,7 @@
         "idFilm": 43947,
         "titre": "Sandra",
         "realisateurs": "Luchino Visconti",
-        "annee": 1964
+        "annee": 1965
       },
       {
         "idConf": 33135,
@@ -3242,8 +3392,8 @@
         "realisateurs": "Antonio Margheriti",
         "annee": 1961,
         "duree": 102,
-        "version": "VA",
-        "format": "16 mm"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f84781"
@@ -3405,7 +3555,6 @@
         "titre": "Joe l'implacable",
         "realisateurs": "Antonio Margheriti",
         "annee": 1967,
-        "duree": 98,
         "version": "VF",
         "format": "35 mm"
       }
@@ -3454,7 +3603,9 @@
         "titre": "Io ti amo",
         "realisateurs": "Antonio Margheriti",
         "annee": 1968,
-        "duree": 96
+        "duree": 96,
+        "version": "VO",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f90522"
@@ -3485,29 +3636,38 @@
     "hashEvenement": "f43314"
   },
   {
-    "idSeance": 189664,
-    "idEvenement": 32921,
+    "idSeance": 194816,
+    "idEvenement": 32916,
     "dateHeure": "2025-07-10T19:00:00",
     "salle": "HL",
     "cycle": [
       [
         "Edward Yang",
         "Les films"
+      ],
+      [
+        "Edward Yang",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 112477,
-        "titre": "Terrorizers",
-        "art": "The",
+        "idFilm": 59723,
+        "titre": "Confusion chez Confucius",
         "realisateurs": "Edward Yang",
-        "annee": 1986,
-        "duree": 109,
+        "annee": 1994,
+        "duree": 132,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 33045,
+        "titre": "Dialogue avec Wafa Ghermani",
+        "typeConference": "Dialogue",
+        "duree": 75
       }
     ],
-    "hashEvenement": "f112477"
+    "hashEvenement": "f59723c33045"
   },
   {
     "idSeance": 189660,
@@ -3534,27 +3694,6 @@
     "hashEvenement": "f65008"
   },
   {
-    "idSeance": 194712,
-    "idEvenement": 33045,
-    "dateHeure": "2025-07-10T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Edward Yang",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33045,
-        "titre": "Dialogue avec Wafa Ghermani",
-        "typeConference": "Dialogue",
-        "duree": 75
-      }
-    ],
-    "hashEvenement": "c33045"
-  },
-  {
     "idSeance": 194623,
     "idEvenement": 32824,
     "dateHeure": "2025-07-11T16:00:00",
@@ -3579,7 +3718,7 @@
   {
     "idSeance": 189705,
     "idEvenement": 32692,
-    "dateHeure": "2025-07-11T19:00:00",
+    "dateHeure": "2025-07-11T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3595,11 +3734,35 @@
         "realisateurs": "Antonio Margheriti",
         "annee": 1971,
         "duree": 105,
-        "version": "VOSTF",
+        "version": "VF",
         "format": "35 mm"
       }
     ],
     "hashEvenement": "f55712"
+  },
+  {
+    "idSeance": 189703,
+    "idEvenement": 32919,
+    "dateHeure": "2025-07-11T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Edward Yang",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 44460,
+        "titre": "A Brighter Summer Day",
+        "realisateurs": "Edward Yang",
+        "annee": 1991,
+        "duree": 237,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f44460"
   },
   {
     "idSeance": 189707,
@@ -3626,33 +3789,9 @@
     "hashEvenement": "f152345"
   },
   {
-    "idSeance": 189703,
-    "idEvenement": 32919,
-    "dateHeure": "2025-07-11T19:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Edward Yang",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 44460,
-        "titre": "A Brighter Summer Day",
-        "realisateurs": "Edward Yang",
-        "annee": 1991,
-        "duree": 237,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f44460"
-  },
-  {
     "idSeance": 189706,
     "idEvenement": 32607,
-    "dateHeure": "2025-07-11T21:15:00",
+    "dateHeure": "2025-07-11T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3758,8 +3897,8 @@
     "hashEvenement": "f42320"
   },
   {
-    "idSeance": 194687,
-    "idEvenement": 32916,
+    "idSeance": 194817,
+    "idEvenement": 32921,
     "dateHeure": "2025-07-12T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -3770,16 +3909,17 @@
     ],
     "items": [
       {
-        "idFilm": 59723,
-        "titre": "Confusion chez Confucius",
+        "idFilm": 112477,
+        "titre": "Terrorizers",
+        "art": "The",
         "realisateurs": "Edward Yang",
-        "annee": 1994,
-        "duree": 132,
+        "annee": 1986,
+        "duree": 109,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f59723"
+    "hashEvenement": "f112477"
   },
   {
     "idSeance": 189751,
@@ -4013,8 +4153,8 @@
         "realisateurs": "Antonio Margheriti",
         "annee": 1960,
         "duree": 73,
-        "version": "VA",
-        "format": "16 mm"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155149"
@@ -4134,7 +4274,10 @@
         "titre": "Bigamist",
         "art": "The",
         "realisateurs": "Ida Lupino",
-        "annee": 1953
+        "annee": 1953,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f34585"
@@ -4323,7 +4466,10 @@
         "titre": "Cinquième victime",
         "art": "La",
         "realisateurs": "Fritz Lang",
-        "annee": 1956
+        "annee": 1956,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f34077"
@@ -4346,7 +4492,9 @@
         "art": "Le",
         "realisateurs": "J. Lee Thompson",
         "annee": 1976,
-        "duree": 97
+        "duree": 97,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f34053"
@@ -4367,7 +4515,10 @@
         "idFilm": 31079,
         "titre": "Avant de t'aimer",
         "realisateurs": "Elmer Clifton, Ida Lupino",
-        "annee": 1949
+        "annee": 1949,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31079"
@@ -4389,7 +4540,8 @@
         "titre": "Chasse à mort",
         "realisateurs": "Peter Hunt",
         "annee": 1980,
-        "duree": 97
+        "duree": 97,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f49678"
@@ -4411,10 +4563,34 @@
         "titre": "Voyage de la peur",
         "art": "Le",
         "realisateurs": "Ida Lupino",
-        "annee": 1953
+        "annee": 1953,
+        "duree": 71,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f77543"
+  },
+  {
+    "idSeance": 194821,
+    "idEvenement": 33162,
+    "dateHeure": "2025-07-19T16:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 33162,
+        "titre": "Dialogue avec Murielle Joudet",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c33162"
   },
   {
     "idSeance": 189939,
@@ -4432,7 +4608,10 @@
         "idFilm": 35913,
         "titre": "Ici brigade criminelle",
         "realisateurs": "Don Siegel",
-        "annee": 1953
+        "annee": 1953,
+        "duree": 81,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f35913"
@@ -4455,7 +4634,7 @@
         "realisateurs": "Sergio Leone",
         "annee": 1970,
         "duree": 153,
-        "version": "VOSTF",
+        "version": "VASTF",
         "format": "35 mm"
       }
     ],
@@ -4477,7 +4656,10 @@
         "idFilm": 36748,
         "titre": "Femmes en prison",
         "realisateurs": "Lewis Seiler",
-        "annee": 1954
+        "annee": 1954,
+        "duree": 73,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f36748"
@@ -4498,10 +4680,34 @@
         "idFilm": 75644,
         "titre": "Outrage",
         "realisateurs": "Ida Lupino",
-        "annee": 1950
+        "annee": 1950,
+        "duree": 75,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f75644"
+  },
+  {
+    "idSeance": 194822,
+    "idEvenement": 33163,
+    "dateHeure": "2025-07-20T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ida Lupino",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 33163,
+        "titre": "Dialogue avec Yola Le Caînec",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c33163"
   },
   {
     "idSeance": 194724,
@@ -4519,7 +4725,10 @@
         "idFilm": 80323,
         "titre": "Never Fear",
         "realisateurs": "Ida Lupino",
-        "annee": 1950
+        "annee": 1950,
+        "duree": 81,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f80323"
@@ -4540,7 +4749,10 @@
         "idFilm": 80324,
         "titre": "Hard, Fast and Beautiful",
         "realisateurs": "Ida Lupino",
-        "annee": 1951
+        "annee": 1951,
+        "duree": 78,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f80324"
@@ -4585,7 +4797,10 @@
         "idFilm": 36877,
         "titre": "Une femme dangereuse",
         "realisateurs": "Raoul Walsh",
-        "annee": 1940
+        "annee": 1940,
+        "duree": 93,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f36877"
@@ -4607,7 +4822,10 @@
         "titre": "Grande Évasion",
         "art": "La",
         "realisateurs": "Raoul Walsh",
-        "annee": 1940
+        "annee": 1940,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f36814"
@@ -4653,7 +4871,10 @@
         "titre": "Vaisseau fantôme",
         "art": "Le",
         "realisateurs": "Michael Curtiz",
-        "annee": 1941
+        "annee": 1941,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31527"
@@ -4675,7 +4896,10 @@
         "titre": "Man I Love",
         "art": "The",
         "realisateurs": "Raoul Walsh",
-        "annee": 1946
+        "annee": 1946,
+        "duree": 96,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f80342"
@@ -4721,7 +4945,10 @@
         "titre": "Femme aux cigarettes",
         "art": "La",
         "realisateurs": "Jean Negulesco",
-        "annee": 1948
+        "annee": 1948,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f34892"
@@ -4743,7 +4970,10 @@
         "titre": "Maison dans l'ombre",
         "art": "La",
         "realisateurs": "Nicholas Ray",
-        "annee": 1952
+        "annee": 1952,
+        "duree": 82,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f73564"
@@ -4789,7 +5019,10 @@
         "titre": "Pluie du diable",
         "art": "La",
         "realisateurs": "Robert Fuest",
-        "annee": 1975
+        "annee": 1975,
+        "duree": 86,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f32229"
@@ -4810,7 +5043,10 @@
         "idFilm": 55072,
         "titre": "Soudain les monstres",
         "realisateurs": "Bert I. Gordon",
-        "annee": 1976
+        "annee": 1976,
+        "duree": 88,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f55072"
@@ -4854,10 +5090,13 @@
     "items": [
       {
         "idFilm": 29901,
-        "titre": "Grand couteau",
+        "titre": "Grand Couteau",
         "art": "Le",
         "realisateurs": "Robert Aldrich",
-        "annee": 1955
+        "annee": 1955,
+        "duree": 111,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f29901"
@@ -4879,7 +5118,10 @@
         "titre": "Trouble with Angels",
         "art": "The",
         "realisateurs": "Ida Lupino",
-        "annee": 1965
+        "annee": 1965,
+        "duree": 111,
+        "version": "VO",
+        "format": "16 mm"
       }
     ],
     "hashEvenement": "f34821"
@@ -4900,7 +5142,10 @@
         "idFilm": 44758,
         "titre": "Junior Bonner, le dernier bagarreur",
         "realisateurs": "Sam Peckinpah",
-        "annee": 1971
+        "annee": 1971,
+        "duree": 103,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f44758"
