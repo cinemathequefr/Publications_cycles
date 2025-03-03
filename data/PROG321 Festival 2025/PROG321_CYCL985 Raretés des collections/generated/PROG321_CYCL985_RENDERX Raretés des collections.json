@@ -44,8 +44,21 @@
           "idEvenement": 32557,
           "content": [
             {
-              "idFilm": 49956,
+              "idFilm": 49391,
               "ordre": 1,
+              "titre": "Zone",
+              "art": "La",
+              "realisateurs": "Georges Lacombe",
+              "pays": "France",
+              "annee": 1929,
+              "duree": 30,
+              "version": "",
+              "format": "DCP",
+              "miniTexte": "Premier film de Lacombe, d'inspiration naturaliste, un témoignage précieux sur le quotidien des familles de chiffonniers, installées entre Paris et sa banlieue."
+            },
+            {
+              "idFilm": 49956,
+              "ordre": 2,
               "titre": "Aubervilliers",
               "realisateurs": "Éli Lotar",
               "pays": "France",
@@ -57,7 +70,7 @@
             },
             {
               "idFilm": 155074,
-              "ordre": 2,
+              "ordre": 3,
               "titre": "Autopolis",
               "realisateurs": "Léon Poirier",
               "pays": "France",
@@ -66,19 +79,6 @@
               "version": "",
               "format": "DCP",
               "miniTexte": "Des cadences d'assemblage aux gestes précis des ouvriers, une plongée dans l'immensité tumultueuse des usines Citroën, qui rappelle les défis de l'industrie moderne, en dépit de la condition humaine."
-            },
-            {
-              "idFilm": 49391,
-              "ordre": 3,
-              "titre": "Zone",
-              "art": "La",
-              "realisateurs": "Georges Lacombe",
-              "pays": "France",
-              "annee": 1929,
-              "duree": 30,
-              "version": "",
-              "format": "DCP",
-              "miniTexte": "Premier film de Lacombe, d'inspiration naturaliste, un témoignage précieux sur le quotidien des familles de chiffonniers, installées entre Paris et sa banlieue."
             }
           ],
           "seances": [
@@ -274,7 +274,7 @@
   "syntheseAction": {
     "Séances présentées": [
       {
-        "titreFilms": "Aubervilliers / Autopolis / La Zone",
+        "titreFilms": "La Zone / Aubervilliers / Autopolis",
         "mention": "par Elsa Charbit et Hervé Pichard",
         "dateHeure": "2025-03-05T18:00:00"
       },
