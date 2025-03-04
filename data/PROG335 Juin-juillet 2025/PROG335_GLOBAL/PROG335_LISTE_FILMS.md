@@ -80,6 +80,16 @@
   * Rites d'amour et de mort  
   * Soldats japonais
 
+## Films en 70 mm (7)
+
+  * 2001 : l'Odyssée de l'espace  
+  * Batman  
+  * Ben-Hur  
+  * Boogie Nights  
+  * Interstellar  
+  * Lawrence d'Arabie  
+  * Playtime
+
 ## Histoire permanente du cinéma (34)
 
   * Adieu Bonaparte  
