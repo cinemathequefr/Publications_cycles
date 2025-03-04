@@ -95,7 +95,7 @@
   * Adieu Bonaparte  
   * Affreux, sales et méchants  
   * Agnès de Dieu  
-  * Belle captive (La)  
+  * Belle Captive (La)  
   * Cap Canaille  
   * C'est la vie  
   * Cicatrice intérieure (La)  
@@ -131,13 +131,14 @@
 
   * Avant de t'aimer  
   * Bigamist (The)  
-  * Cinquième victime (La)  
+  * Cinquième Victime (La)  
+  * Dortoir des anges (Le)  
   * Femme aux cigarettes (La)  
   * Femmes en prison  
   * Grand Couteau (Le)  
   * Grande Évasion (La)  
-  * Hard, Fast and Beautiful  
   * Ici brigade criminelle  
+  * Jeu, set et match  
   * Junior Bonner, le dernier bagarreur  
   * Maison dans l'ombre (La)  
   * Man I Love (The)  
@@ -145,7 +146,6 @@
   * Outrage  
   * Pluie du diable (La)  
   * Soudain les monstres  
-  * Trouble with Angels (The)  
   * Une femme dangereuse  
   * Vaisseau fantôme (Le)  
   * Voyage de la peur (Le)
@@ -240,10 +240,17 @@
   * Noce blanche  
   * Rayon vert (Le)
 
-## Séances spéciales (2)
+## Séances spéciales (9)
 
+  * Falling Leaves  
+  * Glu (La)  
   * Hôtel du Parc: La guerre civile  
-  * Hôtel du Parc : La révolution nationale 
+  * Hôtel du Parc : La révolution nationale   
+  * Jeanne Dielman, 23, quai du Commerce 1080 Bruxelles  
+  * Matelas épileptique (Le)  
+  * Piano irrésistible (Le)  
+  * Starting Something  
+  * Une héroïne de quatre ans
 
 ## Wes Anderson (6)
 

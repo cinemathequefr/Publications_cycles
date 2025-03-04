@@ -52,6 +52,100 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Ciné-concert Alice Guy",
+      "items": [
+        {
+          "idEvenement": 33080,
+          "content": [
+            {
+              "idFilm": 106248,
+              "ordre": 1,
+              "titre": "Falling Leaves",
+              "realisateurs": "Alice Guy",
+              "pays": "États-Unis",
+              "annee": 1912
+            },
+            {
+              "idFilm": 106229,
+              "ordre": 2,
+              "titre": "Glu",
+              "art": "La",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1907
+            },
+            {
+              "idFilm": 106221,
+              "ordre": 3,
+              "titre": "Matelas épileptique",
+              "art": "Le",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1906
+            },
+            {
+              "idFilm": 106234,
+              "ordre": 4,
+              "titre": "Piano irrésistible",
+              "art": "Le",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1907
+            },
+            {
+              "idFilm": 155194,
+              "ordre": 5,
+              "titre": "Starting Something",
+              "realisateurs": "Alice Guy",
+              "pays": "États-Unis",
+              "annee": 1911
+            },
+            {
+              "idFilm": 106232,
+              "ordre": 6,
+              "titre": "Une héroïne de quatre ans",
+              "realisateurs": "Alice Guy",
+              "pays": "France",
+              "annee": 1907
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188567,
+              "dateHeure": "2025-05-30T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 56833,
+          "content": [
+            {
+              "idFilm": 56833,
+              "ordre": 1,
+              "titre": "Jeanne Dielman, 23, quai du Commerce 1080 Bruxelles",
+              "realisateurs": "Chantal Akerman",
+              "pays": "Belgique-France",
+              "annee": 1975,
+              "generique": [
+                "Delphine Seyrig",
+                "Henri Storck",
+                "Jacques Doniol-Valcroze"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189399,
+              "dateHeure": "2025-06-30T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {}

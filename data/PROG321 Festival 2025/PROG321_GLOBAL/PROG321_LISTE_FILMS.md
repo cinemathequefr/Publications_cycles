@@ -97,6 +97,7 @@
   * Jardin d'été  
   * K  
   * Lili Marleen  
+  * Marx peut attendre  
   * Narayana  
   * Nuit (La)  
   * Pékin Central  
@@ -113,7 +114,6 @@
   * Trois sublimes canailles  
   * Tueur de flics  
   * Vent (Le)  
-  * Viol en première page  
   * Voyous (Les)
 
 ## Susan Seidelman (6)

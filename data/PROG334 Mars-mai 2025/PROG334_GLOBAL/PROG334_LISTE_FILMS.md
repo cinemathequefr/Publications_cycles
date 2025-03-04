@@ -407,7 +407,7 @@
   * Grand Budapest Hotel (The)  
   * Hotel Chevalier  
   * Île aux chiens (L')  
-  * Merveilleuse histoire d'Henry Sugar (La)  
+  * Merveilleuse Histoire d'Henry Sugar (La)  
   * Moonrise Kingdom  
   * Preneur de rats (Le)  
   * Rushmore  
