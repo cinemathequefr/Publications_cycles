@@ -240,13 +240,14 @@
   * Noce blanche  
   * Rayon vert (Le)
 
-## Séances spéciales (9)
+## Séances spéciales (10)
 
   * Falling Leaves  
   * Glu (La)  
   * Hôtel du Parc: La guerre civile  
   * Hôtel du Parc : La révolution nationale   
   * Jeanne Dielman, 23, quai du Commerce 1080 Bruxelles  
+  * Lina Esbrard, danse serpentine  
   * Matelas épileptique (Le)  
   * Piano irrésistible (Le)  
   * Starting Something  

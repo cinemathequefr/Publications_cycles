@@ -250,6 +250,19 @@
     ],
     "items": [
       {
+        "idFilm": 106232,
+        "titre": "Une héroïne de quatre ans",
+        "realisateurs": "Alice Guy",
+        "annee": 1907
+      },
+      {
+        "idFilm": 106234,
+        "titre": "Piano irrésistible",
+        "art": "Le",
+        "realisateurs": "Alice Guy",
+        "annee": 1907
+      },
+      {
         "idFilm": 106248,
         "titre": "Falling Leaves",
         "realisateurs": "Alice Guy",
@@ -270,26 +283,19 @@
         "annee": 1906
       },
       {
-        "idFilm": 106234,
-        "titre": "Piano irrésistible",
-        "art": "Le",
-        "realisateurs": "Alice Guy",
-        "annee": 1907
-      },
-      {
         "idFilm": 155194,
         "titre": "Starting Something",
         "realisateurs": "Alice Guy",
         "annee": 1911
       },
       {
-        "idFilm": 106232,
-        "titre": "Une héroïne de quatre ans",
+        "idFilm": 105885,
+        "titre": "Lina Esbrard, danse serpentine",
         "realisateurs": "Alice Guy",
-        "annee": 1907
+        "annee": 1902
       }
     ],
-    "hashEvenement": "f106248f106229f106221f106234f155194f106232"
+    "hashEvenement": "f106232f106234f106248f106229f106221f155194f105885"
   },
   {
     "idSeance": 194763,
@@ -2366,7 +2372,7 @@
         "idFilm": 91457,
         "titre": "Ghost in the Shell 2 : Innocence",
         "realisateurs": "Mamoru Oshii",
-        "annee": 2003,
+        "annee": 2004,
         "duree": 99,
         "version": "VOSTF",
         "format": "35 mm"
@@ -3262,6 +3268,10 @@
       [
         "Antonio Margheriti",
         "Les films"
+      ],
+      [
+        "Antonio Margheriti",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3274,22 +3284,7 @@
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
-      }
-    ],
-    "hashEvenement": "f59031"
-  },
-  {
-    "idSeance": 194693,
-    "idEvenement": 33001,
-    "dateHeure": "2025-07-05T16:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Antonio Margheriti",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 33001,
         "titre": "Dialogue avec Nicolas Pariser",
@@ -3297,7 +3292,7 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c33001"
+    "hashEvenement": "f59031c33001"
   },
   {
     "idSeance": 189557,
@@ -3362,7 +3357,7 @@
       {
         "idFilm": 86978,
         "titre": "Cowboy Bebop, le film",
-        "realisateurs": "Shin'ichirō Watanabe, Yoshiyuki Takei",
+        "realisateurs": "Shinichirō Watanabe",
         "annee": 2001,
         "duree": 115,
         "version": "VOSTF",
@@ -3889,7 +3884,7 @@
         "titre": "Diablesses",
         "art": "Les",
         "realisateurs": "Antonio Margheriti",
-        "annee": 1972,
+        "annee": 1973,
         "duree": 90,
         "version": "VF",
         "format": "35 mm"
@@ -3972,7 +3967,7 @@
         "titre": "Ombre d'un tueur",
         "art": "L'",
         "realisateurs": "Antonio Margheriti",
-        "annee": 1975,
+        "annee": 1976,
         "duree": 98,
         "version": "VF",
         "format": "35 mm"
@@ -4046,7 +4041,7 @@
         "idFilm": 56630,
         "titre": "Yor, le chasseur du futur",
         "realisateurs": "Antonio Margheriti",
-        "annee": 1982,
+        "annee": 1983,
         "duree": 88,
         "version": "VF",
         "format": "35 mm"
@@ -4457,7 +4452,7 @@
         "idFilm": 83182,
         "titre": "Opération Goldman",
         "realisateurs": "Antonio Margheriti",
-        "annee": 1965,
+        "annee": 1966,
         "duree": 90,
         "version": "VOSTF",
         "format": "35 mm"
@@ -4720,7 +4715,7 @@
         "idFilm": 42786,
         "titre": "Il était une fois la révolution",
         "realisateurs": "Sergio Leone",
-        "annee": 1970,
+        "annee": 1971,
         "duree": 153,
         "version": "VASTF",
         "format": "35 mm"
