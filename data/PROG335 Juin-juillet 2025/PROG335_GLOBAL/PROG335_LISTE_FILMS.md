@@ -38,6 +38,17 @@
   * Vierge de Nuremberg (La)  
   * Yor, le chasseur du futur
 
+## Aujourd'hui le cinéma (8)
+
+  * Animaux vont mieux (Les)  
+  * Mémoires du Bois  
+  * My Mother's Story  
+  * No Hair  
+  * Où est passé Cécile  
+  * Petit Spartacus  
+  * Slaughter  
+  * Summer Vacation
+
 ## Ciné-club de Frédéric Bonnaud (2)
 
   * Bonjour  
