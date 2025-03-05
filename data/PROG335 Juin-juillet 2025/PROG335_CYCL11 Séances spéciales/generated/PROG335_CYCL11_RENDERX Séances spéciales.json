@@ -3,58 +3,6 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Hôtel du Parc",
-      "items": [
-        {
-          "idFilm": 155193,
-          "content": [
-            {
-              "idFilm": 155193,
-              "ordre": 1,
-              "titre": "Hôtel du Parc : La révolution nationale ",
-              "realisateurs": "Pierre Beuchot",
-              "pays": "France",
-              "annee": 1992,
-              "duree": 100,
-              "version": "",
-              "format": "35 mm"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 189021,
-              "dateHeure": "2025-06-16T19:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 155192,
-          "content": [
-            {
-              "idFilm": 155192,
-              "ordre": 1,
-              "titre": "Hôtel du Parc: La guerre civile",
-              "realisateurs": "Pierre Beuchot",
-              "pays": "France",
-              "annee": 1992,
-              "duree": 100,
-              "version": "",
-              "format": "35 mm"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 194723,
-              "dateHeure": "2025-06-16T21:15:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
       "titreSousCycle": "Ciné-concert Alice Guy",
       "items": [
         {
@@ -119,7 +67,65 @@
               "idSalle": "HL"
             }
           ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Hôtel du Parc",
+      "items": [
+        {
+          "idFilm": 155193,
+          "content": [
+            {
+              "idFilm": 155193,
+              "ordre": 1,
+              "titre": "Hôtel du Parc : La révolution nationale ",
+              "realisateurs": "Pierre Beuchot",
+              "pays": "France",
+              "annee": 1992,
+              "duree": 100,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189021,
+              "dateHeure": "2025-06-16T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
         },
+        {
+          "idFilm": 155192,
+          "content": [
+            {
+              "idFilm": 155192,
+              "ordre": 1,
+              "titre": "Hôtel du Parc: La guerre civile",
+              "realisateurs": "Pierre Beuchot",
+              "pays": "France",
+              "annee": 1992,
+              "duree": 100,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194723,
+              "dateHeure": "2025-06-16T21:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Chantal Akerman",
+      "items": [
         {
           "idFilm": 56833,
           "content": [
@@ -130,6 +136,9 @@
               "realisateurs": "Chantal Akerman",
               "pays": "Belgique-France",
               "annee": 1975,
+              "duree": 201,
+              "version": "",
+              "format": "DCP",
               "generique": [
                 "Delphine Seyrig",
                 "Henri Storck",
