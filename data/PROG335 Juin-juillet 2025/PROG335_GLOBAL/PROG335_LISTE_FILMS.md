@@ -91,7 +91,7 @@
   * Rites d'amour et de mort  
   * Soldats japonais
 
-## Films en 70 mm (7)
+## Films en 70 mm (10)
 
   * 2001 : l'Odyssée de l'espace  
   * Batman  
@@ -99,7 +99,10 @@
   * Boogie Nights  
   * Interstellar  
   * Lawrence d'Arabie  
-  * Playtime
+  * Playtime  
+  * Ran  
+  * S.O.S. fantômes  
+  * Spartacus
 
 ## Histoire permanente du cinéma (34)
 
