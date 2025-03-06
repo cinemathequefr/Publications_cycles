@@ -164,7 +164,7 @@
   * Vaisseau fantôme (Le)  
   * Voyage de la peur (Le)
 
-## John Stahl (36)
+## John Stahl (37)
 
   * A Lady Surrenders  
   * Amants de Salzbourg (Les)  
@@ -174,7 +174,7 @@
   * Dix petits pieds  
   * Eve of St. Mark (The)  
   * Father Was a Fullback  
-  * Fière créole (La)  
+  * Fière Créole (La)  
   * Her Code of Honor  
   * Histoire d'un amour  
   * Holy Matrimony  
@@ -183,6 +183,7 @@
   * In Old Kentucky  
   * Interlude  
   * Lettre d'introduction  
+  * Lettre d'une inconnue  
   * Lincoln Cycle (The)  
   * Memory Lane  
   * Mirage de la vie  
@@ -232,14 +233,15 @@
   * Voyage de Chihiro (Le)  
   * Your Name
 
-## Ma petite Cinémathèque (6)
+## Ma petite Cinémathèque (7)
 
   * Cendrillon  
+  * Jour de fête  
   * Main au collet (La)  
   * Maya, donne-moi un titre !  
   * Maya, donne moi un titre! (2)  
   * Princess Bride  
-  * Trois Mousquetaires (Les)
+  * Voyage de Chihiro (Le)
 
 ## Michel Gondry (13)
 
