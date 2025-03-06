@@ -232,6 +232,15 @@
   * Voyage de Chihiro (Le)  
   * Your Name
 
+## Ma petite Cinémathèque (6)
+
+  * Cendrillon  
+  * Main au collet (La)  
+  * Maya, donne-moi un titre !  
+  * Maya, donne moi un titre! (2)  
+  * Princess Bride  
+  * Trois Mousquetaires (Les)
+
 ## Michel Gondry (13)
 
   * Block Party  
