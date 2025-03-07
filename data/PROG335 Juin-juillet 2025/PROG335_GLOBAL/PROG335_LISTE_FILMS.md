@@ -97,7 +97,7 @@
   * Lawrence d'Arabie  
   * Playtime  
   * Ran  
-  * S.O.S. fantômes  
+  * SOS Fantômes  
   * Spartacus
 
 ## Histoire permanente du cinéma (34)
@@ -153,7 +153,7 @@
   * Lumière qui s'éteint (La)  
   * Maison dans l'ombre (La)  
   * Man I Love (The)  
-  * Manière forte = L'Engrenage (La)  
+  * Manière forte (La)  
   * Never Fear  
   * Outrage  
   * Pluie du diable (La)  
