@@ -141,7 +141,7 @@
   * Une chante, l'autre pas (L')  
   * Vie est un roman (La)
 
-## Ida Lupino (20)
+## Ida Lupino (22)
 
   * Avant de t'aimer  
   * Bigamist (The)  
@@ -154,8 +154,10 @@
   * Ici brigade criminelle  
   * Jeu, set et match  
   * Junior Bonner, le dernier bagarreur  
+  * Lumière qui s'éteint (La)  
   * Maison dans l'ombre (La)  
   * Man I Love (The)  
+  * Manière forte = L'Engrenage (La)  
   * Never Fear  
   * Outrage  
   * Pluie du diable (La)  
@@ -265,7 +267,7 @@
   * Noce blanche  
   * Rayon vert (Le)
 
-## Séances spéciales (10)
+## Séances spéciales (12)
 
   * Falling Leaves  
   * Glu (La)  
@@ -274,6 +276,8 @@
   * Jeanne Dielman, 23, quai du Commerce 1080 Bruxelles  
   * Lina Esbrard, danse serpentine  
   * Matelas épileptique (Le)  
+  * Napoléon vu par Abel Gance (partie 1)  
+  * Napoléon vu par Abel Gance (partie 2)  
   * Piano irrésistible (Le)  
   * Starting Something  
   * Une héroïne de quatre ans
