@@ -65,10 +65,6 @@
   * Tarzan et la révolte de la jungle  
   * Un assassin qui passe
 
-## Conservatoire des techniques cinématographiques (1)
-
-  * Grand Budapest Hotel (The)
-
 ## Edward Yang (9)
 
   * A Brighter Summer Day  
@@ -84,12 +80,12 @@
 ## Fenêtre sur les collections (7)
 
   * Entretien avec Yukio Mishima  
-  * Essais d'acteurs : Eve Francis  
+  * Essais d'acteurs : Ève Francis  
   * Femme de nulle part (La)  
   * Mishima  
   * Printemps au Japon (Le)  
-  * Rites d'amour et de mort  
-  * Soldats japonais
+  * Soldats japonais  
+  * Yūkoku ou Rites d'amour et de mort
 
 ## Films en 70 mm (10)
 
@@ -282,11 +278,12 @@
   * Starting Something  
   * Une héroïne de quatre ans
 
-## Wes Anderson (6)
+## Wes Anderson (7)
 
   * Famille Tenenbaum (La)  
   * Fantastic Mr. Fox  
   * French Dispatch (The)  
+  * Grand Budapest Hotel (The)  
   * Île aux chiens (L')  
   * Moonrise Kingdom  
   * Rushmore  

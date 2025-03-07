@@ -2,44 +2,6 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 2,
-      "titreSousCycle": "Les films",
-      "items": [
-        {
-          "idFilm": 122457,
-          "content": [
-            {
-              "idFilm": 122457,
-              "ordre": 1,
-              "titre": "Grand Budapest Hotel",
-              "art": "The",
-              "realisateurs": "Wes Anderson",
-              "pays": "États-Unis",
-              "annee": 2014,
-              "duree": 99,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Ralph Fiennes",
-                "F. Murray Abraham",
-                "Mathieu Amalric"
-              ],
-              "isFocus": true,
-              "miniTexte": "Derrière les murs de l'opulent hôtel, le plus beau de la Mitteleuropa, se trouve un concentré du cinéma de Wes Anderson. Cadres ciselés et ornements symétriques. Splendeur surannée et humour pince-sans-rire. Une histoire de famille éclatée et des liens indéfectibles entre le concierge du palace et son jeune groom. Entraînés dans une affaire d'héritage, ils se retrouvent mêlés à un vol de tableau, tandis qu'autour d'eux, les bouleversements politiques de l'entre-deux-guerres dévastent le continent. Fresque haletante en rose et noir, _The Grand Budapest Hotel_ est un hymne à l'amitié et à la beauté d'une époque révolue, au casting étourdissant."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 189178,
-              "typeAssoc": 118,
-              "dateHeure": "2025-06-21T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "tri": 4,
       "titreSousCycle": "Rencontres et conférences",
       "items": [
@@ -48,7 +10,7 @@
           "content": [
             {
               "idConf": 33142,
-              "titre": "Conférence de Walter Murch",
+              "titre": "[Titre conférence]",
               "sousTitre": "Conférence de Walter Murch",
               "typeConference": "Conférence"
             }
@@ -67,7 +29,7 @@
   "syntheseAction": {
     "Conférence": [
       {
-        "titre": "Conférence de Walter Murch",
+        "titre": "[Titre conférence]",
         "mention": "par Walter Murch",
         "dateHeure": "2025-06-13T17:00:00"
       }
