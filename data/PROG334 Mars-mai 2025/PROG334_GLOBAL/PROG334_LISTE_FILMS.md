@@ -39,7 +39,7 @@
   * Gilbert Grape  
   * Malo fait du vélo  
   * Méduses de Gouville (Les)  
-  * Nikkah  
+  * Nikah  
   * Par-delà les montagnes  
   * Pierre et Djemila  
   * Salut les zins !  
@@ -113,7 +113,7 @@
   * Whale (The)  
   * Wrestler (The)
 
-## Ernst Lubitsch (55)
+## Ernst Lubitsch (53)
 
   * Abîme (L')  
   * Ange  
@@ -154,8 +154,6 @@
   * Prince étudiant (Le)  
   * Princesse aux huîtres (La)  
   * Quand j'étais mort  
-  * Quand quatre font la même chose  
-  * Robert et Bertram ou Les Joyeux Vagabonds  
   * Roi du corsage (Le)  
   * Roméo et Juliette dans la neige  
   * Rosita, chanteuse des rues  
@@ -281,18 +279,22 @@
   * Vera Cruz  
   * Ville abandonnée (La)
 
-## Ma petite Cinémathèque (21)
+## Ma petite Cinémathèque (27)
 
   * 101 dalmatiens (Les)  
   * Azur et Asmar  
   * Brisby et le secret de Nimh  
+  * Chant de la fleur introuvable (Le)  
   * Chantons sous la pluie  
   * Charlie et la chocolaterie  
   * Charlot au music-hall  
   * Charlot et le comte  
   * Charlot fait une cure  
+  * Chrysalide et le papillon d'or (La)  
+  * Couchée de Robert Desnos  
   * Demoiselles de Rochefort (Les)  
   * Fantastic Mr. Fox  
+  * Génie de la boîte de raviolis (Le)  
   * Grande Vadrouille (La)  
   * Guerre des boutons (La)  
   * King Kong  
@@ -300,8 +302,10 @@
   * Monstres et Cie  
   * Panda, petit panda  
   * Quatre Cents Coups (Les)  
+  * Renard minuscule (Le)  
   * Robin des Bois  
   * Souvenirs de Marnie  
+  * To Spring  
   * Un conte peut en cacher un autre  
   * Zazie dans le métro
 
