@@ -65,6 +65,10 @@
   * Tarzan et la révolte de la jungle  
   * Un assassin qui passe
 
+## Conservatoire des techniques cinématographiques (1)
+
+  * Conversation secrète
+
 ## Edward Yang (9)
 
   * A Brighter Summer Day  
@@ -77,8 +81,9 @@
   * Un été chez grand-père  
   * Yi Yi
 
-## Fenêtre sur les collections (7)
+## Fenêtre sur les collections (8)
 
+  * El Dorado  
   * Entretien avec Yukio Mishima  
   * Essais d'acteurs : Ève Francis  
   * Femme de nulle part (La)  
@@ -120,7 +125,7 @@
   * Eugenio  
   * Fame  
   * Femmes au soleil  
-  * Grand soir (Le)  
+  * Grand Soir (Le)  
   * Homme blessé (L')  
   * Homme de fer (L')  
   * Hommes du président (Les)  
@@ -263,10 +268,17 @@
   * Noce blanche  
   * Rayon vert (Le)
 
-## Séances spéciales (12)
+## Séances spéciales (20)
 
+  * Alice Guy tourne une phonoscène  
+  * Anna Ladd dans son atelier parisien  
+  * Aussi loin que mon enfance  
+  * Contre l'oubli : Pour Febe Elisabeth Velásquez, El Salvador  
+  * Elles  
+  * Essais Eve Francis  
   * Falling Leaves  
   * Glu (La)  
+  * Henri Langlois vu par Agnès Varda  
   * Hôtel du Parc: La guerre civile  
   * Hôtel du Parc : La révolution nationale   
   * Jeanne Dielman, 23, quai du Commerce 1080 Bruxelles  
@@ -274,6 +286,7 @@
   * Matelas épileptique (Le)  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
+  * Notre mémoire  
   * Piano irrésistible (Le)  
   * Starting Something  
   * Une héroïne de quatre ans

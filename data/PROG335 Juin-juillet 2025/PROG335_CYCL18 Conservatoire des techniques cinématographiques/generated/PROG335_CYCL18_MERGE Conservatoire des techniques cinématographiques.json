@@ -1,17 +1,53 @@
 {
   "data": [
     {
-      "titreSousCycle": "Rencontres et conférences",
+      "titreSousCycle": "Les films",
       "tri": 4,
       "items": [
         {
           "idSeance": 194807,
+          "ordre": 2,
           "dateHeure": "2025-06-13T17:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 90,
+          "typeAssoc": 118,
+          "idCategorie": 3813,
+          "idEvenement": 33284,
+          "typeEvenement": 13,
+          "idFilm": 32008,
+          "titre": "Conversation secrète",
+          "artVo": "The",
+          "titreVo": "Conversation",
+          "realisateurs": "Francis Ford Coppola",
+          "annee": 1974,
+          "pays": "États-Unis",
+          "generique": [
+            "Gene Hackman",
+            "John Cazale",
+            "Allen Garfield"
+          ],
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 194807,
+          "ordre": 1,
+          "dateHeure": "2025-06-13T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "typeAssoc": 118,
           "idCategorie": 1856,
           "idEvenement": 33142,
           "typeEvenement": 14,

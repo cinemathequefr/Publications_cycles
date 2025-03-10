@@ -79,6 +79,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 105,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 80324,
@@ -95,15 +96,18 @@
     "idCategorie": 3798,
     "typeEvenement": 14,
     "idEvenement": 33162,
-    "idSeance": 194821,
-    "dateHeure": "2025-07-19T16:00:00",
+    "idSeance": 194905,
+    "dateHeure": "2025-07-19T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -474,17 +478,22 @@
     "idCategorie": 3786,
     "typeEvenement": 13,
     "idEvenement": 33227,
-    "idSeance": 190147,
+    "idSeance": 194910,
     "dateHeure": "2025-07-27T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 120,
     "items": [
       {
         "idFilm": 45149,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 194910,
+        "idCopie": 29786,
+        "duree": 87,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -492,17 +501,22 @@
     "idCategorie": 3786,
     "typeEvenement": 13,
     "idEvenement": 33228,
-    "idSeance": 190148,
+    "idSeance": 194911,
     "dateHeure": "2025-07-27T17:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
         "idFilm": 80340,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 194911,
+        "idCopie": 29785,
+        "duree": 109,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -511,7 +525,7 @@
     "typeEvenement": 13,
     "idEvenement": 33066,
     "idSeance": 194863,
-    "dateHeure": "2025-07-27T19:30:00",
+    "dateHeure": "2025-07-27T19:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"

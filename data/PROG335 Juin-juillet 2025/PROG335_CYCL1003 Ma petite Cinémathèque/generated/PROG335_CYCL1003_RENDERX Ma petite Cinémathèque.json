@@ -113,7 +113,8 @@
             {
               "idSeance": 194893,
               "dateHeure": "2025-06-15T11:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Elise Fievet"
             }
           ]
         },
@@ -136,7 +137,8 @@
             {
               "idSeance": 194889,
               "dateHeure": "2025-06-15T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Michel Gondry"
             }
           ]
         },
@@ -194,5 +196,18 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Discussions": [
+      {
+        "titreFilms": "Maya, donne-moi un titre !",
+        "mention": "avec Elise Fievet",
+        "dateHeure": "2025-06-15T11:30:00"
+      },
+      {
+        "titreFilms": "Maya, donne moi un titre! (2)",
+        "mention": "avec Michel Gondry",
+        "dateHeure": "2025-06-15T15:00:00"
+      }
+    ]
+  }
 }

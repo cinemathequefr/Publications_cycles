@@ -3,23 +3,49 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
+      "titreSousCycle": "Les films",
       "items": [
         {
-          "idConf": 33142,
-          "content": [
+          "groupe": [
             {
-              "idConf": 33142,
-              "titre": "[Titre conférence]",
-              "sousTitre": "Conférence de Walter Murch",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
+              "idEvenement": 33142,
+              "content": [
+                {
+                  "idConf": 33142,
+                  "ordre": 1,
+                  "titre": "[Titre conférence]",
+                  "sousTitre": "Conférence de Walter Murch",
+                  "typeConference": "Conférence"
+                }
+              ]
+            },
             {
-              "idSeance": 194807,
-              "dateHeure": "2025-06-13T17:00:00",
-              "idSalle": "HL"
+              "idFilm": 32008,
+              "content": [
+                {
+                  "idFilm": 32008,
+                  "ordre": 2,
+                  "titre": "Conversation secrète",
+                  "titreVo": "Conversation",
+                  "artVo": "The",
+                  "realisateurs": "Francis Ford Coppola",
+                  "pays": "États-Unis",
+                  "annee": 1974,
+                  "generique": [
+                    "Gene Hackman",
+                    "John Cazale",
+                    "Allen Garfield"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194807,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-06-13T17:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }

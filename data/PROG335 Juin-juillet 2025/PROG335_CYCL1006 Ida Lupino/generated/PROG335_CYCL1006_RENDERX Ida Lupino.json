@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-07-16T20:00:00",
-    "2025-07-27T19:30:00"
+    "2025-07-27T19:45:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -104,33 +104,50 @@
           ]
         },
         {
-          "idFilm": 80324,
-          "content": [
+          "groupe": [
             {
               "idFilm": 80324,
-              "ordre": 1,
-              "titre": "Jeu, set et match",
-              "titreVo": "Hard, Fast and Beautiful",
-              "realisateurs": "Ida Lupino",
-              "pays": "États-Unis",
-              "annee": 1951,
-              "duree": 78,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après le roman _American Girl_ de John R. Tunis.",
-              "generique": [
-                "Claire Trevor",
-                "Sally Forrest",
-                "Carleton G. Young"
-              ],
-              "miniTexte": "À travers l'itinéraire d'une prodige du tennis, déchirée entre la gloire sportive et le désir d'une relation conjugale, Ida Lupino décrit les rêves d'une mère manipulatrice, qui projette ses frustrations et son ambition sur sa fille. Un portrait aiguisé de l'Amérique suburbaine de l'après-guerre, interprété par Claire Trevor et Sally Forrest (alter ego de la cinéaste), duo mère-fille admirable."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 80324,
+                  "ordre": 1,
+                  "titre": "Jeu, set et match",
+                  "titreVo": "Hard, Fast and Beautiful",
+                  "realisateurs": "Ida Lupino",
+                  "pays": "États-Unis",
+                  "annee": 1951,
+                  "duree": 78,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _American Girl_ de John R. Tunis.",
+                  "generique": [
+                    "Claire Trevor",
+                    "Sally Forrest",
+                    "Carleton G. Young"
+                  ],
+                  "miniTexte": "À travers l'itinéraire d'une prodige du tennis, déchirée entre la gloire sportive et le désir d'une relation conjugale, Ida Lupino décrit les rêves d'une mère manipulatrice, qui projette ses frustrations et son ambition sur sa fille. Un portrait aiguisé de l'Amérique suburbaine de l'après-guerre, interprété par Claire Trevor et Sally Forrest (alter ego de la cinéaste), duo mère-fille admirable."
+                }
+              ]
+            },
             {
-              "idSeance": 194905,
-              "dateHeure": "2025-07-19T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 33162,
+              "content": [
+                {
+                  "idConf": 33162,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Isaac Gaido-Daniel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194905,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-07-19T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -466,7 +483,7 @@
           "seances": [
             {
               "idSeance": 194863,
-              "dateHeure": "2025-07-27T19:30:00",
+              "dateHeure": "2025-07-27T19:45:00",
               "idSalle": "GF"
             }
           ]
@@ -484,6 +501,9 @@
               "realisateurs": "William A. Wellman",
               "pays": "États-Unis",
               "annee": 1939,
+              "duree": 87,
+              "version": "",
+              "format": "",
               "generique": [
                 "Ida Lupino",
                 "Ronald Colman",
@@ -494,7 +514,7 @@
           ],
           "seances": [
             {
-              "idSeance": 190147,
+              "idSeance": 194910,
               "dateHeure": "2025-07-27T15:00:00",
               "idSalle": "GF"
             }
@@ -577,6 +597,9 @@
               "realisateurs": "Vincent Sherman",
               "pays": "États-Unis",
               "annee": 1943,
+              "duree": 109,
+              "version": "",
+              "format": "",
               "generique": [
                 "Ida Lupino",
                 "Dennis Morgan",
@@ -587,7 +610,7 @@
           ],
           "seances": [
             {
-              "idSeance": 190148,
+              "idSeance": 194911,
               "dateHeure": "2025-07-27T17:30:00",
               "idSalle": "GF"
             }
@@ -724,37 +747,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 33162,
-          "content": [
-            {
-              "idConf": 33162,
-              "titre": "Dialogue avec Murielle Joudet",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Isaac Gaido-Daniel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 194821,
-              "dateHeure": "2025-07-19T16:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogues": [
       {
+        "titreFilms": "Jeu, set et match",
         "mention": "avec Murielle Joudet",
-        "dateHeure": "2025-07-19T16:00:00"
+        "dateHeure": "2025-07-19T14:30:00"
       },
       {
         "titreFilms": "Never Fear",
