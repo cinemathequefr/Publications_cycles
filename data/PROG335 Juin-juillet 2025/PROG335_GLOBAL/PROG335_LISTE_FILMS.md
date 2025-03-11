@@ -65,7 +65,7 @@
   * Chasse à mort  
   * Mystère  
   * Pluie du diable (La)  
-  * Soudain les monstres  
+  * Soudain... les monstres  
   * Tarzan et la cité perdue  
   * Tarzan et la révolte de la jungle  
   * Un assassin qui passe

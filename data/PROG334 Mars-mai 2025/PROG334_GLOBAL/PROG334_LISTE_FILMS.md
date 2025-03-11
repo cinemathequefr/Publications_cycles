@@ -227,7 +227,7 @@
   * Innocent (L')  
   * Joueurs d'échecs (Les)  
   * Kagemusha, l'ombre du guerrier (Director's Cut)  
-  * Longue marche (La)  
+  * Longue Marche (La)  
   * Loulou  
   * Mado  
   * Maîtresse  
@@ -394,11 +394,16 @@
   * Ville captive (La)  
   * West Side Story
 
-## Séances spéciales (3)
+## Séances spéciales (8)
 
   * Bulle Ogier, portrait d'une étoile cachée  
+  * Chers parents  
   * Cinquième plan de La Jetée (Le)  
-  * Derniers Parisiens (Les)
+  * Derniers Parisiens (Les)  
+  * Emma  
+  * Lakeview Side  
+  * Orbes  
+  * Tapage
 
 ## Wes Anderson (15)
 

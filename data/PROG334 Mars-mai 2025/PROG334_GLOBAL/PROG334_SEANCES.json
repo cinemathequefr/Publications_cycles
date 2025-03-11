@@ -21,16 +21,16 @@
         "format": "35 mm"
       },
       {
-        "idFilm": 155225,
+        "idFilm": 155167,
         "titre": "Nikah",
-        "realisateurs": "Mukaddas Mijit, Bastien Ehouzan",
+        "realisateurs": "Mukkadas Mijit, Bastien Ehouzan",
         "annee": 2022,
         "duree": 55,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f155166f155225"
+    "hashEvenement": "f155166f155167"
   },
   {
     "idSeance": 188105,
@@ -71,7 +71,7 @@
     "items": [
       {
         "idFilm": 46469,
-        "titre": "Longue marche",
+        "titre": "Longue Marche",
         "art": "La",
         "realisateurs": "Alexandre Astruc",
         "annee": 1966,
@@ -291,7 +291,7 @@
   {
     "idSeance": 188191,
     "idEvenement": 32079,
-    "dateHeure": "2025-03-14T21:00:00",
+    "dateHeure": "2025-03-14T21:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -777,31 +777,6 @@
     "hashEvenement": "f60384"
   },
   {
-    "idSeance": 187800,
-    "idEvenement": 32149,
-    "dateHeure": "2025-03-19T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Glauber Rocha",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 43204,
-        "titre": "Claro",
-        "realisateurs": "Glauber Rocha",
-        "annee": 1975,
-        "duree": 107,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f43204"
-  },
-  {
     "idSeance": 188085,
     "idEvenement": 32577,
     "dateHeure": "2025-03-19T20:30:00",
@@ -835,6 +810,31 @@
       }
     ],
     "hashEvenement": "f40800f40802"
+  },
+  {
+    "idSeance": 187800,
+    "idEvenement": 32149,
+    "dateHeure": "2025-03-19T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Glauber Rocha",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43204,
+        "titre": "Claro",
+        "realisateurs": "Glauber Rocha",
+        "annee": 1975,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f43204"
   },
   {
     "idSeance": 188091,
@@ -1208,8 +1208,8 @@
     "hashEvenement": "f30561"
   },
   {
-    "idSeance": 194900,
-    "idEvenement": 33237,
+    "idSeance": 185758,
+    "idEvenement": 33239,
     "dateHeure": "2025-03-22T15:00:00",
     "salle": "JE",
     "cycle": [
@@ -1220,16 +1220,37 @@
     ],
     "items": [
       {
-        "idFilm": 96455,
-        "titre": "Veuve joyeuse",
+        "idFilm": 92591,
+        "titre": "Leutnant auf Befehl",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1916,
+        "duree": 26,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 40754,
+        "titre": "Roi du corsage",
+        "art": "Le",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1917,
+        "duree": 12,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 70811,
+        "titre": "Joyeuse Prison",
         "art": "La",
         "realisateurs": "Ernst Lubitsch",
-        "annee": 1934,
-        "duree": 99,
-        "format": "35 mm"
+        "annee": 1917,
+        "duree": 57,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f96455"
+    "hashEvenement": "f92591f40754f70811"
   },
   {
     "idSeance": 187892,
@@ -1367,8 +1388,8 @@
     "hashEvenement": "f30558c32379"
   },
   {
-    "idSeance": 185758,
-    "idEvenement": 33239,
+    "idSeance": 194900,
+    "idEvenement": 33237,
     "dateHeure": "2025-03-23T14:30:00",
     "salle": "LE",
     "cycle": [
@@ -1379,37 +1400,16 @@
     ],
     "items": [
       {
-        "idFilm": 92591,
-        "titre": "Leutnant auf Befehl",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1916,
-        "duree": 26,
-        "version": "INT. FR.",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 40754,
-        "titre": "Roi du corsage",
-        "art": "Le",
-        "realisateurs": "Ernst Lubitsch",
-        "annee": 1917,
-        "duree": 12,
-        "version": "INT. FR.",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 70811,
-        "titre": "Joyeuse Prison",
+        "idFilm": 96455,
+        "titre": "Veuve joyeuse",
         "art": "La",
         "realisateurs": "Ernst Lubitsch",
-        "annee": 1917,
-        "duree": 57,
-        "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
+        "annee": 1935,
+        "duree": 99,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f92591f40754f70811"
+    "hashEvenement": "f96455"
   },
   {
     "idSeance": 188106,
@@ -1441,8 +1441,8 @@
     "hashEvenement": "f110552"
   },
   {
-    "idSeance": 187815,
-    "idEvenement": 32103,
+    "idSeance": 194921,
+    "idEvenement": 33328,
     "dateHeure": "2025-03-23T17:15:00",
     "salle": "HL",
     "cycle": [
@@ -1453,7 +1453,7 @@
     ],
     "items": [
       {
-        "idFilm": 96455,
+        "idFilm": 33825,
         "titre": "Veuve joyeuse",
         "art": "La",
         "realisateurs": "Ernst Lubitsch",
@@ -1463,7 +1463,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f96455"
+    "hashEvenement": "f33825"
   },
   {
     "idSeance": 187894,
@@ -3723,6 +3723,61 @@
     "hashEvenement": "f33193"
   },
   {
+    "idSeance": 186223,
+    "idEvenement": 33330,
+    "dateHeure": "2025-04-10T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Prix Serge Daney"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155271,
+        "titre": "Tapage",
+        "realisateurs": "Joséphine Madinier",
+        "annee": 2025,
+        "duree": 29,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155272,
+        "titre": "Chers parents",
+        "realisateurs": "Adèle Shaykhulova",
+        "annee": 2025,
+        "duree": 20,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155273,
+        "titre": "Emma",
+        "realisateurs": "Eloïse Guimard",
+        "annee": 2025,
+        "duree": 15,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155274,
+        "titre": "Orbes",
+        "realisateurs": "Aurore Portales",
+        "annee": 2025,
+        "duree": 30,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155275,
+        "titre": "Lakeview Side",
+        "realisateurs": "Wangsiwen Zhang",
+        "annee": 2025,
+        "duree": 14,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155271f155272f155273f155274f155275"
+  },
+  {
     "idSeance": 187693,
     "idEvenement": 32331,
     "dateHeure": "2025-04-10T19:00:00",
@@ -4139,8 +4194,8 @@
     "hashEvenement": "f56740"
   },
   {
-    "idSeance": 186327,
-    "idEvenement": 32103,
+    "idSeance": 194922,
+    "idEvenement": 33328,
     "dateHeure": "2025-04-13T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -4151,7 +4206,7 @@
     ],
     "items": [
       {
-        "idFilm": 96455,
+        "idFilm": 33825,
         "titre": "Veuve joyeuse",
         "art": "La",
         "realisateurs": "Ernst Lubitsch",
@@ -4161,7 +4216,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f96455"
+    "hashEvenement": "f33825"
   },
   {
     "idSeance": 186323,
@@ -5767,7 +5822,7 @@
         "idFilm": 46918,
         "titre": "Pierre et Djemila",
         "realisateurs": "Gérard Blain",
-        "annee": 1986,
+        "annee": 1987,
         "duree": 86,
         "format": "35 mm"
       }
