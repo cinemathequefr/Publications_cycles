@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2025-06-18T20:00:00",
+    "2025-06-15T11:30:00",
     "2025-06-27T18:30:00"
   ],
   "textePresentation": "",
@@ -256,6 +256,54 @@
           ]
         },
         {
+          "idFilm": 155218,
+          "content": [
+            {
+              "idFilm": 155218,
+              "ordre": 1,
+              "titre": "Maya, donne moi un autre titre",
+              "realisateurs": "Michel Gondry",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 61,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194889,
+              "dateHeure": "2025-06-15T15:00:00",
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Michel Gondry"
+            }
+          ]
+        },
+        {
+          "idFilm": 155216,
+          "content": [
+            {
+              "idFilm": 155216,
+              "ordre": 1,
+              "titre": "Maya, donne-moi un titre",
+              "realisateurs": "Michel Gondry",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 61,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194893,
+              "dateHeure": "2025-06-15T11:30:00",
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Elise Fievet"
+            }
+          ]
+        },
+        {
           "idFilm": 127330,
           "content": [
             {
@@ -435,6 +483,16 @@
       }
     ],
     "Discussions": [
+      {
+        "titreFilms": "Maya, donne-moi un titre",
+        "mention": "avec Elise Fievet",
+        "dateHeure": "2025-06-15T11:30:00"
+      },
+      {
+        "titreFilms": "Maya, donne moi un autre titre",
+        "mention": "avec Michel Gondry",
+        "dateHeure": "2025-06-15T15:00:00"
+      },
       {
         "titreFilms": "Le Livre des solutions",
         "mention": "avec Michel Gondry. Séance présentée par Michel Gondry",

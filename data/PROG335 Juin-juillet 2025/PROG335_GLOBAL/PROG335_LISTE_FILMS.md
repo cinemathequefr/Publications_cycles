@@ -57,13 +57,15 @@
   * Bonjour  
   * Sandra
 
-## Cinéma bis (8)
+## Cinéma bis (10)
 
   * Adieu blaireau  
   * Baiser macabre  
   * Bison blanc (Le)  
   * Chasse à mort  
   * Mystère  
+  * Pluie du diable (La)  
+  * Soudain les monstres  
   * Tarzan et la cité perdue  
   * Tarzan et la révolte de la jungle  
   * Un assassin qui passe
@@ -145,7 +147,7 @@
   * Une chante, l'autre pas (L')  
   * Vie est un roman (La)
 
-## Ida Lupino (22)
+## Ida Lupino (20)
 
   * Avant de t'aimer  
   * Bigamist (The)  
@@ -164,8 +166,6 @@
   * Manière forte (La)  
   * Never Fear  
   * Outrage  
-  * Pluie du diable (La)  
-  * Soudain les monstres  
   * Une femme dangereuse  
   * Vaisseau fantôme (Le)  
   * Voyage de la peur (Le)
@@ -239,17 +239,15 @@
   * Voyage de Chihiro (Le)  
   * Your Name
 
-## Ma petite Cinémathèque (7)
+## Ma petite Cinémathèque (5)
 
   * Cendrillon  
   * Jour de fête  
   * Main au collet (La)  
-  * Maya, donne moi un autre titre  
-  * Maya, donne-moi un titre  
   * Princess Bride  
   * Voyage de Chihiro (Le)
 
-## Michel Gondry (13)
+## Michel Gondry (15)
 
   * Block Party  
   * Conversation animée avec Noam Chomsky  
@@ -259,6 +257,8 @@
   * Green Hornet (The)  
   * Human Nature  
   * Livre des solutions (Le)  
+  * Maya, donne moi un autre titre  
+  * Maya, donne-moi un titre  
   * Microbe et Gasoil  
   * Science des rêves (La)  
   * Soyez sympas, rembobinez  
@@ -268,8 +268,8 @@
 ## Parlons cinéma... avec Maud Ameline (3)
 
   * Alice dans les villes  
-  * Noce blanche  
-  * Rayon vert (Le)
+  * Rayon vert (Le)  
+  * Sans toit ni loi
 
 ## Séances spéciales (20)
 
