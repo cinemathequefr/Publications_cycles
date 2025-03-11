@@ -6,46 +6,54 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "groupe": [
-            {
-              "idEvenement": 33142,
-              "content": [
-                {
-                  "idConf": 33142,
-                  "ordre": 1,
-                  "titre": "[Titre conférence]",
-                  "sousTitre": "Conférence de Walter Murch",
-                  "typeConference": "Conférence"
-                }
-              ]
-            },
+          "idFilm": 32008,
+          "content": [
             {
               "idFilm": 32008,
-              "content": [
-                {
-                  "idFilm": 32008,
-                  "ordre": 2,
-                  "titre": "Conversation secrète",
-                  "titreVo": "Conversation",
-                  "artVo": "The",
-                  "realisateurs": "Francis Ford Coppola",
-                  "pays": "États-Unis",
-                  "annee": 1974,
-                  "generique": [
-                    "Gene Hackman",
-                    "John Cazale",
-                    "Allen Garfield"
-                  ]
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 194807,
-                  "typeAssoc": 118,
-                  "dateHeure": "2025-06-13T17:00:00",
-                  "idSalle": "HL"
-                }
+              "ordre": 1,
+              "titre": "Conversation secrète",
+              "titreVo": "Conversation",
+              "artVo": "The",
+              "realisateurs": "Francis Ford Coppola",
+              "pays": "États-Unis",
+              "annee": 1974,
+              "generique": [
+                "Gene Hackman",
+                "John Cazale",
+                "Allen Garfield"
               ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194907,
+              "dateHeure": "2025-06-13T20:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Walter Murch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33142,
+          "content": [
+            {
+              "idConf": 33142,
+              "titre": "[Titre conférence]",
+              "sousTitre": "Conférence de Walter Murch",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194807,
+              "dateHeure": "2025-06-13T17:00:00",
+              "idSalle": "HL"
             }
           ]
         }
@@ -58,6 +66,13 @@
         "titre": "[Titre conférence]",
         "mention": "par Walter Murch",
         "dateHeure": "2025-06-13T17:00:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Conversation secrète",
+        "mention": "par Walter Murch",
+        "dateHeure": "2025-06-13T20:30:00"
       }
     ]
   }
