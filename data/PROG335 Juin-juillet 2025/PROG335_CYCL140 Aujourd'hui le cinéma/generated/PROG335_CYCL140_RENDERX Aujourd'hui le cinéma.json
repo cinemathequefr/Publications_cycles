@@ -12,7 +12,7 @@
             {
               "idFilm": 155212,
               "ordre": 1,
-              "titre": "Où est passé Cécile",
+              "titre": "Où est passée Cécile ?",
               "realisateurs": "Esther Jouzeau",
               "pays": "France",
               "annee": 2024,
@@ -75,6 +75,34 @@
               "dateHeure": "2025-06-02T19:00:00",
               "idSalle": "JE",
               "mention": "Séance présentée par Anne Luthaud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Anaïs Tellenne",
+      "items": [
+        {
+          "idFilm": 155270,
+          "content": [
+            {
+              "idFilm": 155270,
+              "ordre": 1,
+              "titre": "Homme d'argile",
+              "art": "L'",
+              "realisateurs": "Anaïs Tellenne",
+              "pays": "France",
+              "annee": 2023
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 189025,
+              "dateHeure": "2025-06-16T19:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Anaïs Tellenne"
             }
           ]
         }
@@ -147,9 +175,16 @@
     }
   ],
   "syntheseAction": {
+    "Discussion": [
+      {
+        "titreFilms": "L'Homme d'argile",
+        "mention": "avec Anaïs Tellenne",
+        "dateHeure": "2025-06-16T19:30:00"
+      }
+    ],
     "Séances présentées": [
       {
-        "titreFilms": "Où est passé Cécile / Les Animaux vont mieux / Mémoires du Bois / Petit Spartacus",
+        "titreFilms": "Où est passée Cécile ? / Les Animaux vont mieux / Mémoires du Bois / Petit Spartacus",
         "mention": "par Anne Luthaud",
         "dateHeure": "2025-06-02T19:00:00"
       },

@@ -11,11 +11,12 @@
   * Way We Are (The)  
   * Woman Demon Human
 
-## Antonio Margheriti (24)
+## Antonio Margheriti (26)
 
   * Avec Django, la mort est là  
   * Brute, le colt et le karaté (La)  
   * Chevauchée terrible (La)  
+  * Contronatura  
   * Danse macabre  
   * Derniers jours d'un empire (Les)  
   * Diablesses (Les)  
@@ -27,6 +28,7 @@
   * Io ti amo  
   * Joe l'implacable  
   * Kommando Leopard  
+  * Marchands d'esclaves  
   * Nom de code : Oies sauvages  
   * Ombre d'un tueur (L')  
   * Opération Goldman  
@@ -38,13 +40,14 @@
   * Vierge de Nuremberg (La)  
   * Yor, le chasseur du futur
 
-## Aujourd'hui le cinéma (8)
+## Aujourd'hui le cinéma (9)
 
   * Animaux vont mieux (Les)  
+  * Homme d'argile (L')  
   * Mémoires du Bois  
   * My Mother's Story  
   * No Hair  
-  * Où est passé Cécile  
+  * Où est passée Cécile ?  
   * Petit Spartacus  
   * Slaughter  
   * Summer Vacation
@@ -241,8 +244,8 @@
   * Cendrillon  
   * Jour de fête  
   * Main au collet (La)  
-  * Maya, donne-moi un titre !  
-  * Maya, donne moi un titre! (2)  
+  * Maya, donne moi un autre titre  
+  * Maya, donne-moi un titre  
   * Princess Bride  
   * Voyage de Chihiro (Le)
 
@@ -275,7 +278,7 @@
   * Aussi loin que mon enfance  
   * Contre l'oubli : Pour Febe Elisabeth Velásquez, El Salvador  
   * Elles  
-  * Essais Eve Francis  
+  * Essais d'acteurs : Ève Francis  
   * Falling Leaves  
   * Glu (La)  
   * Henri Langlois vu par Agnès Varda  
