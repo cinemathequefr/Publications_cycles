@@ -293,7 +293,7 @@
   * Starting Something  
   * Une héroïne de quatre ans
 
-## Wes Anderson (7)
+## Wes Anderson (8)
 
   * Famille Tenenbaum (La)  
   * Fantastic Mr. Fox  
@@ -302,3 +302,4 @@
   * Île aux chiens (L')  
   * Moonrise Kingdom  
   * Rushmore  
+  * Vie aquatique (La)  

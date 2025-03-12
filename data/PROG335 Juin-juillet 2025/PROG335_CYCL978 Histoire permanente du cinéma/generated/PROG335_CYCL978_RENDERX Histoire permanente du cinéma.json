@@ -240,8 +240,8 @@
           ],
           "seances": [
             {
-              "idSeance": 194772,
-              "dateHeure": "2025-07-10T18:00:00",
+              "idSeance": 194925,
+              "dateHeure": "2025-07-14T16:00:00",
               "idSalle": "GF"
             }
           ]
@@ -359,7 +359,8 @@
             {
               "idSeance": 194773,
               "dateHeure": "2025-07-02T16:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Frédéric Bonnaud"
             }
           ]
         },
@@ -453,7 +454,8 @@
             {
               "idSeance": 189246,
               "dateHeure": "2025-06-25T16:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Bernard Benoliel"
             }
           ]
         },
@@ -684,9 +686,10 @@
           ],
           "seances": [
             {
-              "idSeance": 189778,
-              "dateHeure": "2025-07-14T16:00:00",
-              "idSalle": "GF"
+              "idSeance": 194924,
+              "dateHeure": "2025-07-10T18:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Frédéric Bonnaud"
             }
           ]
         },
@@ -746,7 +749,8 @@
             {
               "idSeance": 188494,
               "dateHeure": "2025-05-28T18:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Isaac Gaido-Daniel"
             }
           ]
         },
@@ -1020,5 +1024,28 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Le Jardin des Finzi-Contini",
+        "mention": "par Isaac Gaido-Daniel",
+        "dateHeure": "2025-05-28T18:30:00"
+      },
+      {
+        "titreFilms": "L'Épreuve de force",
+        "mention": "par Bernard Benoliel",
+        "dateHeure": "2025-06-25T16:00:00"
+      },
+      {
+        "titreFilms": "Le Dernier métro",
+        "mention": "par Frédéric Bonnaud",
+        "dateHeure": "2025-07-02T16:00:00"
+      },
+      {
+        "titreFilms": "Identification d'une femme",
+        "mention": "par Frédéric Bonnaud",
+        "dateHeure": "2025-07-10T18:00:00"
+      }
+    ]
+  }
 }
