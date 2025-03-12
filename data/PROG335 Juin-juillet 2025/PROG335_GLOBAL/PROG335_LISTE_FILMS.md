@@ -97,14 +97,13 @@
   * Soldats japonais  
   * Yūkoku ou Rites d'amour et de mort
 
-## Films en 70 mm (10)
+## Films en 70 mm (9)
 
   * 2001 : l'Odyssée de l'espace  
   * Batman  
-  * Ben-Hur  
-  * Boogie Nights  
   * Interstellar  
   * Lawrence d'Arabie  
+  * Petite Boutique des horreurs (La)  
   * Playtime  
   * Ran  
   * SOS Fantômes  
@@ -257,7 +256,7 @@
   * Green Hornet (The)  
   * Human Nature  
   * Livre des solutions (Le)  
-  * Maya, donne moi un autre titre  
+  * Maya, donne-moi un autre titre  
   * Maya, donne-moi un titre  
   * Microbe et Gasoil  
   * Science des rêves (La)  
@@ -282,8 +281,8 @@
   * Falling Leaves  
   * Glu (La)  
   * Henri Langlois vu par Agnès Varda  
-  * Hôtel du Parc: La guerre civile  
-  * Hôtel du Parc : La révolution nationale   
+  * Hôtel du Parc : La Guerre civile  
+  * Hôtel du Parc : La Révolution nationale  
   * Jeanne Dielman, 23, quai du Commerce 1080 Bruxelles  
   * Lina Esbrard, danse serpentine  
   * Matelas épileptique (Le)  
