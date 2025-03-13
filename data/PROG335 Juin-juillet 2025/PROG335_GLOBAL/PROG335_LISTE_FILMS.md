@@ -264,6 +264,92 @@
   * Tokyo!  
   * We and the I (The)
 
+## Nasty Women (83)
+
+  * A Bad (K)night  
+  * A Range Romance  
+  * A Terrible Discovery  
+  * Amour et musique  
+  * Amour et science  
+  * Boy Detective (The)  
+  * Breaking Plates  
+  * Cunégonde aime son maître  
+  * Cunégonde femme cochère  
+  * Cunégonde femme crampon  
+  * Cunégonde femme du monde  
+  * Cunégonde membre de la S.P.A.  
+  * Dairymaid's Revenge (The)  
+  * Daisy Doodad's Dial  
+  * Death Mask (The)  
+  * Dollars and Sense  
+  * Eugénie, redresse-toi  
+  * Fatty and Minnie He-Haw  
+  * Femmes cochères (Les)  
+  * Ficelles de Léontine (Les)  
+  * Fille de bain indiscrète  
+  * Finish of Bridget McKeen (The)  
+  * Finish of Mr. Fresh (The)  
+  * fureur de Mme Plumette (La)  
+  * Further Adventures of the Girl Spy (The)  
+  * Gavroche à Luna-Park  
+  * Girl Spy Before Vicksburg (The)  
+  * Gisèle a manqué le train  
+  * Grève des bonnes (La)  
+  * Grève des nourrices (La)  
+  * Her First Biscuits  
+  * How Bridget Made the Fire  
+  * Hypnotizing the Hypnotist  
+  * Laughing Gas  
+  * Le bateau de Léontine  
+  * Lea bambola  
+  * Lea Sui Pattini  
+  * Léontine devient trottin  
+  * Léontine en apprentissage  
+  * Léontine en vacances  
+  * Léontine enfant terrible  
+  * Léontine garde la maison  
+  * Léontine s'envole  
+  * Les malices de Léontine  
+  * Little Moritz enlève Rosalie  
+  * Lucky Jim  
+  * Madame fait du sport  
+  * Making a Man of Her  
+  * Mannekängen  
+  * Marie est trop obéissante  
+  * Mary Jane's Mishap = Don't Fool with the Pariffin  
+  * Ménage de Dranem = Le Ménage Dranem (Le)  
+  * Mr. Smith, Barber  
+  * Night rider (The)  
+  * Onésime et la toilette de Mlle Badinois  
+  * Patouillard a une femme jalouse  
+  * Pétronille gagne le grand steeple = Pétronille a gagné le grand steeple  
+  * peur des ombres (La)  
+  * Phil for Short  
+  * pile électrique de Léontine (La)  
+  * Pranks  
+  * Red Girl and the Child (The)  
+  * Rembrandt de la rue Lepic (Le)  
+  * Riposo Festivo  
+  * Rivales (Les)  
+  * Rosalie a la maladie du sommeil  
+  * Rosalie emménage  
+  * Rosalie et Léontine vont au théâtre = Rosalie et Léontine au théâtre  
+  * Rosalie et ses meubles fidèles  
+  * Rosalie et son phonographe  
+  * Rowdy Ann  
+  * Ruse de Miss Plumcake (La)  
+  * She's a Prince  
+  * Singe de Petronille (Le)  
+  * Snowbird (The)  
+  * Taming a Husband  
+  * Tilly's Party  
+  * Un ravalement précipité  
+  * Ventilateur breveté  
+  * Victoire a ses nerfs  
+  * What's the World Coming to ?  
+  * Zoé a la main malheureuse  
+  * Zoé et le parapluie miraculeux
+
 ## Parlons cinéma... avec Maud Ameline (3)
 
   * Alice dans les villes  
