@@ -786,7 +786,8 @@
         "annee": 1919,
         "duree": 61,
         "version": "VO",
-        "format": "35 mm"
+        "format": "35 mm",
+        "restauration": true
       }
     ],
     "hashEvenement": "f155189"
@@ -1870,9 +1871,9 @@
         "format": "DCP"
       },
       {
-        "idFilm": 155258,
+        "idFilm": 134648,
         "titre": "Léontine s'envole",
-        "realisateurs": "Anonyme",
+        "realisateurs": "Romeo Bosetti",
         "annee": 1911,
         "duree": 6,
         "version": "INT. ANG.",
@@ -1915,7 +1916,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f155245f155241f155232f42507f155257f47025f155258f155256f137466f44652f155227"
+    "hashEvenement": "f155245f155241f155232f42507f155257f47025f134648f155256f137466f44652f155227"
   },
   {
     "idSeance": 188949,
@@ -2169,7 +2170,7 @@
         "format": "Numérique"
       },
       {
-        "idFilm": 155265,
+        "idFilm": 130577,
         "titre": "Zoé a la main malheureuse",
         "realisateurs": "Anonyme",
         "annee": 1913,
@@ -2220,7 +2221,7 @@
       },
       {
         "idFilm": 155228,
-        "titre": "Femmes cochères",
+        "titre": "Femmes cochers",
         "art": "Les",
         "realisateurs": "André Heuzé",
         "annee": 1907,
@@ -2228,7 +2229,7 @@
         "format": "Numérique"
       }
     ],
-    "hashEvenement": "f155234f155235f155229f155233f137476f155237f155263f148430f155265f155246f125856f155264f155262f147737f155228"
+    "hashEvenement": "f155234f155235f155229f155233f137476f155237f155263f148430f130577f155246f125856f155264f155262f147737f155228"
   },
   {
     "idSeance": 194645,
@@ -2566,10 +2567,10 @@
     ],
     "items": [
       {
-        "idFilm": 155266,
+        "idFilm": 134653,
         "titre": "Pile électrique de Léontine",
         "art": "La",
-        "realisateurs": "Anonyme",
+        "realisateurs": "Louis Z. Rollini",
         "annee": 1910,
         "duree": 6,
         "format": "Numérique"
@@ -2584,7 +2585,8 @@
       },
       {
         "idFilm": 155242,
-        "titre": "Mannekängen",
+        "titre": "Mannequin",
+        "art": "Le",
         "realisateurs": "Mauritz Stiller",
         "annee": 1913,
         "duree": 3,
@@ -2656,7 +2658,7 @@
         "format": "Numérique"
       }
     ],
-    "hashEvenement": "f155266f137474f155242f155236f155247f135489f129863f135513f155267f61534f137515"
+    "hashEvenement": "f134653f137474f155242f155236f155247f135489f129863f135513f155267f61534f137515"
   },
   {
     "idSeance": 194639,
@@ -2721,7 +2723,7 @@
       {
         "idFilm": 133120,
         "titre": "Gavroche au Luna Park",
-        "realisateurs": "Paul Bertho",
+        "realisateurs": "Romeo Bosetti, Paul Bertho",
         "annee": 1912,
         "duree": 6,
         "format": "Numérique"
@@ -4297,6 +4299,30 @@
       }
     ],
     "hashEvenement": "f114131"
+  },
+  {
+    "idSeance": 194940,
+    "idEvenement": 33335,
+    "dateHeure": "2025-06-30T20:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Morgan Simon"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Morgan Simon et Félix Lefebvre",
+    "items": [
+      {
+        "idFilm": 155276,
+        "titre": "Une vie rêvée",
+        "realisateurs": "Morgan Simon",
+        "annee": 2024,
+        "duree": 97,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155276"
   },
   {
     "idSeance": 189401,
@@ -6277,7 +6303,8 @@
         "realisateurs": "Antonio Margheriti",
         "annee": 1969,
         "duree": 90,
-        "version": "VO"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f128467"

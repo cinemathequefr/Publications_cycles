@@ -113,6 +113,36 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Morgan Simon",
+      "items": [
+        {
+          "idFilm": 155276,
+          "content": [
+            {
+              "idFilm": 155276,
+              "ordre": 1,
+              "titre": "Une vie rêvée",
+              "realisateurs": "Morgan Simon",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 97,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 194940,
+              "dateHeure": "2025-06-30T20:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Morgan Simon et Félix Lefebvre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Festival du court métrage de Busan 2025",
       "texteSousCycle": "A l'occasion de sa 42e édition, nous accueillons le Festival International du Court Métrage de Busan (BISFF) pour la reprise des films coréens primés. Des œuvres singulières, éclectiques et inédites, à découvrir.",
       "items": [
@@ -178,11 +208,16 @@
     }
   ],
   "syntheseAction": {
-    "Discussion": [
+    "Discussions": [
       {
         "titreFilms": "L'Homme d'argile",
         "mention": "avec Anaïs Tellenne",
         "dateHeure": "2025-06-16T19:30:00"
+      },
+      {
+        "titreFilms": "Une vie rêvée",
+        "mention": "avec Morgan Simon et Félix Lefebvre",
+        "dateHeure": "2025-06-30T20:00:00"
       }
     ],
     "Séances présentées": [

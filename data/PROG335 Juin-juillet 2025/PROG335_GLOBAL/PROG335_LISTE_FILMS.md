@@ -40,7 +40,7 @@
   * Vierge de Nuremberg (La)  
   * Yor, le chasseur du futur
 
-## Aujourd'hui le cinéma (9)
+## Aujourd'hui le cinéma (10)
 
   * Animaux vont mieux (Les)  
   * Homme d'argile (L')  
@@ -50,7 +50,8 @@
   * Où est passée Cécile ?  
   * Petit Spartacus  
   * Slaughter  
-  * Summer Vacation
+  * Summer Vacation  
+  * Une vie rêvée
 
 ## Ciné-club de Frédéric Bonnaud (2)
 
@@ -284,7 +285,7 @@
   * Dollars and Sense  
   * Eugénie, redresse-toi  
   * Fatty and Minnie He-Haw  
-  * Femmes cochères (Les)  
+  * Femmes cochers (Les)  
   * Ficelles de Léontine (Les)  
   * Fille de bain indiscrète  
   * Finish of Bridget McKeen (The)  
@@ -314,7 +315,7 @@
   * Madame fait du sport  
   * Making a Man of Her  
   * Malices de Léontine (Les)  
-  * Mannekängen  
+  * Mannequin (Le)  
   * Marie est trop obéissante  
   * Mary Jane's Mishap  
   * Ménage Dranem (Le)  
