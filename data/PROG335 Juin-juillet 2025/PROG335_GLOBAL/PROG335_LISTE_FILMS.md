@@ -345,7 +345,7 @@
   * Un ravalement précipité  
   * Ventilateur breveté  
   * Victoire a ses nerfs  
-  * What's the World Coming to?  
+  * What's the World Coming To?  
   * Zoé a la main malheureuse  
   * Zoé et le parapluie miraculeux
 
