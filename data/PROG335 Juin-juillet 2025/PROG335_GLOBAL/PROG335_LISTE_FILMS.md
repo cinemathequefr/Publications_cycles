@@ -71,10 +71,6 @@
   * Tarzan et la révolte de la jungle  
   * Un assassin qui passe
 
-## Conservatoire des techniques cinématographiques (1)
-
-  * Conversation secrète
-
 ## Edward Yang (9)
 
   * A Brighter Summer Day  
@@ -98,10 +94,11 @@
   * Soldats japonais  
   * Yūkoku ou Rites d'amour et de mort
 
-## Films en 70 mm (9)
+## Films en 70 mm (10)
 
   * 2001 : l'Odyssée de l'espace  
   * Batman  
+  * Étoffe des héros (L')  
   * Interstellar  
   * Lawrence d'Arabie  
   * Petite Boutique des horreurs (La)  
@@ -357,12 +354,13 @@
   * Rayon vert (Le)  
   * Sans toit ni loi
 
-## Séances spéciales (20)
+## Séances spéciales (21)
 
   * Alice Guy tourne une phonoscène  
   * Anna Ladd dans son atelier parisien  
   * Aussi loin que mon enfance  
   * Contre l'oubli : Pour Febe Elisabeth Velásquez, El Salvador  
+  * Conversation secrète  
   * Elles  
   * Essais d'acteurs : Ève Francis  
   * Falling Leaves  
