@@ -4,10 +4,10 @@
     {
       "tri": 4,
       "titreSousCycle": "GREC",
-      "texteSousCycle": "Créé en 1969 par Jean Rouch, Pierre Braunberger et Anatole Dauman, le GREC (Groupe de Recherches et d'Essais Cinématographiques) produit des premiers court métrages en veillant à leur caractère singulier et innovant. La Cinémathèque présente une sélection de courts métrages produits par le GREC, qui propose une grande diversité de genre et de forme. Séance en présence des équipes des films et de Anne Luthaud (Déléguée Générale du Grec).",
+      "texteSousCycle": "Créé en 1969 par Jean Rouch, Pierre Braunberger et Anatole Dauman, le GREC (Groupe de recherches et d'essais cinématographiques) produit des premiers courts métrages en veillant à leur caractère singulier et innovant. La Cinémathèque présente une sélection qui propose une grande diversité de genres et de formes.",
       "items": [
         {
-          "idEvenement": 32508,
+          "idEvenement": 33339,
           "content": [
             {
               "idFilm": 155212,
@@ -54,8 +54,19 @@
               ]
             },
             {
-              "idFilm": 155215,
+              "idFilm": 155277,
               "ordre": 4,
+              "titre": "Apocalypse",
+              "realisateurs": "Benoît Méry",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 15,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 155215,
+              "ordre": 5,
               "titre": "Petit Spartacus",
               "realisateurs": "Sara Ganem",
               "pays": "France",
@@ -143,8 +154,8 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Festival du court métrage de Busan 2025",
-      "texteSousCycle": "A l'occasion de sa 42e édition, nous accueillons le Festival International du Court Métrage de Busan (BISFF) pour la reprise des films coréens primés. Des œuvres singulières, éclectiques et inédites, à découvrir.",
+      "titreSousCycle": "Festival international du court métrage de Busan",
+      "texteSousCycle": "À l'occasion de sa 42<sup>e</sup> édition, une soirée en compagnie du BISFF – Festival international du court métrage de Busan (Corée) pour la reprise des films coréens primés en 2024. Des œuvres singulières, éclectiques et inédites, à découvrir.",
       "items": [
         {
           "idEvenement": 33153,
@@ -153,34 +164,47 @@
               "idFilm": 155209,
               "ordre": 1,
               "titre": "Summer Vacation",
-              "realisateurs": "Minseong KIM",
+              "realisateurs": "Kim Minseong",
               "pays": "Corée",
               "annee": 2023,
               "duree": 27,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Yang Euijin",
+                "Kim Dain"
+              ]
             },
             {
               "idFilm": 155210,
               "ordre": 2,
               "titre": "Slaughter",
-              "realisateurs": "Doyeong YUN",
+              "realisateurs": "Yun Do-yeong",
               "pays": "Corée",
               "annee": 2023,
               "duree": 26,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Kim Hong-guk",
+                "Won Poong-yeon",
+                "Shibam Kumar"
+              ]
             },
             {
               "idFilm": 155211,
               "ordre": 3,
               "titre": "No Hair",
-              "realisateurs": "Hano LEE",
+              "realisateurs": "Lee Hano",
               "pays": "Corée",
-              "annee": 2023,
+              "annee": 2024,
               "duree": 29,
               "version": "VOSTF",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Kim Hyeonseop",
+                "Bae Yeongyeong"
+              ]
             },
             {
               "idFilm": 155208,
@@ -222,7 +246,7 @@
     ],
     "Séances présentées": [
       {
-        "titreFilms": "Où est passée Cécile ? / Les Animaux vont mieux / Mémoires du Bois / Petit Spartacus",
+        "titreFilms": "Où est passée Cécile ? / Les Animaux vont mieux / Mémoires du Bois / Apocalypse / Petit Spartacus",
         "mention": "par Anne Luthaud",
         "dateHeure": "2025-06-02T19:00:00"
       },

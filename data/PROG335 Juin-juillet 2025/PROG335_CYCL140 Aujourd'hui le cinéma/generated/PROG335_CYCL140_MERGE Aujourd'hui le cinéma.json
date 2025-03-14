@@ -15,7 +15,7 @@
           "dureeSeance": 120,
           "mention": "Séance présentée par Anne Luthaud",
           "idCategorie": 3731,
-          "idEvenement": 32508,
+          "idEvenement": 33339,
           "typeEvenement": 13,
           "idFilm": 155213,
           "art": "Les",
@@ -24,6 +24,29 @@
           "annee": 2024,
           "pays": "France",
           "duree": 25,
+          "version": "",
+          "format": "DCP",
+          "textes": []
+        },
+        {
+          "idSeance": 188647,
+          "ordre": 4,
+          "dateHeure": "2025-06-02T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "mention": "Séance présentée par Anne Luthaud",
+          "idCategorie": 3731,
+          "idEvenement": 33339,
+          "typeEvenement": 13,
+          "idFilm": 155277,
+          "titre": "Apocalypse",
+          "realisateurs": "Benoît Méry",
+          "annee": 2024,
+          "pays": "France",
+          "duree": 15,
           "version": "",
           "format": "DCP",
           "textes": []
@@ -39,7 +62,7 @@
           "dureeSeance": 120,
           "mention": "Séance présentée par Anne Luthaud",
           "idCategorie": 3731,
-          "idEvenement": 32508,
+          "idEvenement": 33339,
           "typeEvenement": 13,
           "idFilm": 155214,
           "titre": "Mémoires du Bois",
@@ -67,7 +90,7 @@
           "dureeSeance": 120,
           "mention": "Séance présentée par Anne Luthaud",
           "idCategorie": 3731,
-          "idEvenement": 32508,
+          "idEvenement": 33339,
           "typeEvenement": 13,
           "idFilm": 155212,
           "titre": "Où est passée Cécile ?",
@@ -86,7 +109,7 @@
         },
         {
           "idSeance": 188647,
-          "ordre": 4,
+          "ordre": 5,
           "dateHeure": "2025-06-02T19:00:00",
           "idSalle": [
             "JE",
@@ -95,7 +118,7 @@
           "dureeSeance": 120,
           "mention": "Séance présentée par Anne Luthaud",
           "idCategorie": 3731,
-          "idEvenement": 32508,
+          "idEvenement": 33339,
           "typeEvenement": 13,
           "idFilm": 155215,
           "titre": "Petit Spartacus",
@@ -115,7 +138,7 @@
       "textes": [
         {
           "typeTexte": 8,
-          "texte": "Créé en 1969 par Jean Rouch, Pierre Braunberger et Anatole Dauman, le GREC (Groupe de Recherches et d'Essais Cinématographiques) produit des premiers court métrages en veillant à leur caractère singulier et innovant. La Cinémathèque présente une sélection de courts métrages produits par le GREC, qui propose une grande diversité de genre et de forme. Séance en présence des équipes des films et de Anne Luthaud (Déléguée Générale du Grec)."
+          "texte": "Créé en 1969 par Jean Rouch, Pierre Braunberger et Anatole Dauman, le GREC (Groupe de recherches et d'essais cinématographiques) produit des premiers courts métrages en veillant à leur caractère singulier et innovant. La Cinémathèque présente une sélection qui propose une grande diversité de genres et de formes."
         }
       ]
     },
@@ -181,7 +204,7 @@
       "textes": []
     },
     {
-      "titreSousCycle": "Festival du court métrage de Busan 2025",
+      "titreSousCycle": "Festival international du court métrage de Busan",
       "tri": 4,
       "items": [
         {
@@ -224,12 +247,17 @@
           "typeEvenement": 13,
           "idFilm": 155211,
           "titre": "No Hair",
-          "realisateurs": "Hano LEE",
-          "annee": 2023,
+          "titreNx": "헤어 나올 수 없는",
+          "realisateurs": "Lee Hano",
+          "annee": 2024,
           "pays": "Corée",
           "duree": 29,
           "version": "VOSTF",
           "format": "DCP",
+          "generique": [
+            "Kim Hyeonseop",
+            "Bae Yeongyeong"
+          ],
           "textes": []
         },
         {
@@ -247,12 +275,18 @@
           "typeEvenement": 13,
           "idFilm": 155210,
           "titre": "Slaughter",
-          "realisateurs": "Doyeong YUN",
+          "titreNx": "도축",
+          "realisateurs": "Yun Do-yeong",
           "annee": 2023,
           "pays": "Corée",
           "duree": 26,
           "version": "VOSTF",
           "format": "DCP",
+          "generique": [
+            "Kim Hong-guk",
+            "Won Poong-yeon",
+            "Shibam Kumar"
+          ],
           "textes": []
         },
         {
@@ -270,19 +304,24 @@
           "typeEvenement": 13,
           "idFilm": 155209,
           "titre": "Summer Vacation",
-          "realisateurs": "Minseong KIM",
+          "titreNx": "여름방학 ",
+          "realisateurs": "Kim Minseong",
           "annee": 2023,
           "pays": "Corée",
           "duree": 27,
           "version": "VOSTF",
           "format": "DCP",
+          "generique": [
+            "Yang Euijin",
+            "Kim Dain"
+          ],
           "textes": []
         }
       ],
       "textes": [
         {
           "typeTexte": 8,
-          "texte": "A l'occasion de sa 42e édition, nous accueillons le Festival International du Court Métrage de Busan (BISFF) pour la reprise des films coréens primés. Des œuvres singulières, éclectiques et inédites, à découvrir."
+          "texte": "À l'occasion de sa 42<sup>e</sup> édition, une soirée en compagnie du BISFF – Festival international du court métrage de Busan (Corée) pour la reprise des films coréens primés en 2024. Des œuvres singulières, éclectiques et inédites, à découvrir."
         }
       ]
     }
