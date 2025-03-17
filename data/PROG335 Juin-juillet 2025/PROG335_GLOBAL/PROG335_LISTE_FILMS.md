@@ -1,12 +1,13 @@
 # Liste des films par cycle
 
-## 12 cinéastes chinoises (9)
+## 12 cinéastes chinoises (10)
 
   * All Ears  
   * Blue Summer (A Song Sung Blue)  
   * Boat People  
   * Chinatown Cha-Cha  
   * Crossing (The)  
+  * Guo Ran  
   * Her Story  
   * Send Me to the Clouds  
   * Un matin couleur de sang  
@@ -78,8 +79,9 @@
   * Tarzan et la révolte de la jungle  
   * Un assassin qui passe
 
-## Conservatoire des techniques cinématographiques (1)
+## Conservatoire des techniques cinématographiques (2)
 
+  * Conversation secrète  
   * Her Name Was Moviola
 
 ## Edward Yang (9)
@@ -368,13 +370,12 @@
   * Rayon vert (Le)  
   * Sans toit ni loi
 
-## Séances spéciales (21)
+## Séances spéciales (20)
 
   * Alice Guy tourne une phonoscène  
   * Anna Ladd dans son atelier parisien  
   * Aussi loin que mon enfance  
   * Contre l'oubli : Pour Febe Elisabeth Velásquez, El Salvador  
-  * Conversation secrète  
   * Elles  
   * Essais d'acteurs : Ève Francis  
   * Falling Leaves  
