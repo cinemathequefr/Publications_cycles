@@ -237,12 +237,15 @@
   * Voyage de Chihiro (Le)  
   * Your Name
 
-## Ma petite Cinémathèque (5)
+## Ma petite Cinémathèque (8)
 
   * Cendrillon  
+  * Frigo déménageur  
+  * Frigo Fregoli  
   * Jour de fête  
   * Main au collet (La)  
-  * Princess Bride  
+  * Malec champion de tir  
+  * Malec l'insaisissable  
   * Voyage de Chihiro (Le)
 
 ## Michel Gondry (15)

@@ -279,7 +279,7 @@
   * Vera Cruz  
   * Ville abandonnée (La)
 
-## Ma petite Cinémathèque (27)
+## Ma petite Cinémathèque (26)
 
   * 101 dalmatiens (Les)  
   * Azur et Asmar  
@@ -291,7 +291,6 @@
   * Charlot et le comte  
   * Charlot fait une cure  
   * Chrysalide et le papillon d'or (La)  
-  * Couchée de Robert Desnos  
   * Demoiselles de Rochefort (Les)  
   * Fantastic Mr. Fox  
   * Génie de la boîte de raviolis (Le)  
