@@ -317,7 +317,7 @@
         "realisateurs": "Alice Guy",
         "annee": 1906,
         "duree": 9,
-        "format": "DCP"
+        "format": "35 mm"
       },
       {
         "idFilm": 155194,
@@ -501,29 +501,6 @@
       }
     ],
     "hashEvenement": "f35744"
-  },
-  {
-    "idSeance": 194843,
-    "idEvenement": 33108,
-    "dateHeure": "2025-05-31T20:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "12 cinéastes chinoises",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155202,
-        "titre": "Guo Ran",
-        "realisateurs": "Li Dongmei",
-        "annee": 2025,
-        "duree": 90,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155202"
   },
   {
     "idSeance": 188611,
@@ -1843,10 +1820,14 @@
   },
   {
     "idSeance": 194807,
-    "idEvenement": 33142,
+    "idEvenement": 33345,
     "dateHeure": "2025-06-13T17:00:00",
     "salle": "HL",
     "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Les films"
+      ],
       [
         "Conservatoire des techniques cinématographiques",
         "Rencontres et conférences"
@@ -1859,9 +1840,15 @@
         "sousTitre": "Conférence de Walter Murch",
         "typeConference": "Conférence",
         "duree": 90
+      },
+      {
+        "idFilm": 155278,
+        "titre": "Her Name Was Moviola",
+        "realisateurs": "Howard Berry",
+        "annee": 2024
       }
     ],
-    "hashEvenement": "c33142"
+    "hashEvenement": "c33142f155278"
   },
   {
     "idSeance": 194930,
@@ -2332,14 +2319,6 @@
     "dateHeure": "2025-06-14T18:30:00",
     "salle": "GF",
     "cycle": [
-      [
-        "Nasty Women",
-        "Programme 3 : Doubles and Doppelgänger"
-      ],
-      [
-        "Nasty Women",
-        "Programme 4 : Queens of Destruction"
-      ],
       [
         "Nasty Women",
         "Programme 6 : Breaking Plates & Smashing the Patriarchy"

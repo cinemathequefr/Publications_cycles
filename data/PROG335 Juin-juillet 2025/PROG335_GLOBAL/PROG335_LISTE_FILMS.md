@@ -1,13 +1,12 @@
 # Liste des films par cycle
 
-## 12 cinéastes chinoises (10)
+## 12 cinéastes chinoises (9)
 
   * All Ears  
   * Blue Summer (A Song Sung Blue)  
   * Boat People  
   * Chinatown Cha-Cha  
   * Crossing (The)  
-  * Guo Ran  
   * Her Story  
   * Send Me to the Clouds  
   * Un matin couleur de sang  
@@ -78,6 +77,10 @@
   * Tarzan et la cité perdue  
   * Tarzan et la révolte de la jungle  
   * Un assassin qui passe
+
+## Conservatoire des techniques cinématographiques (1)
+
+  * Her Name Was Moviola
 
 ## Edward Yang (9)
 

@@ -3,24 +3,43 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
+      "titreSousCycle": "Les films",
       "items": [
         {
-          "idConf": 33142,
-          "content": [
+          "groupe": [
             {
-              "idConf": 33142,
-              "titre": "Cinéma sans montage : est-ce du cinéma ?",
-              "sousTitre": "Conférence de Walter Murch",
-              "typeConference": "Conférence",
-              "miniTexte": "Avec la technologie numérique, nous pouvons réaliser des films sans aucune coupe. Est-ce l'avenir du cinéma ? Le montage est-il une enzyme qui a rendu le cinéma possible ? Ou n'était-ce qu'une prothèse dont on pourra finalement se passer ? Ou est-il, au contraire, plus fondamental ? — Walter Murch\n\nMonteur et _sound designer_ multi-oscarisé, inventeur et théoricien, Walter Murch a collaboré à des nombreux films à succès dont _American Graffiti_ (1973), _Le Parrain 2_ (1974), _Conversation secrète_ (1974), _Julia_ (1977), _Apocalypse Now_ (1979) et _Le Patient anglais_ (1996)."
-            }
-          ],
-          "seances": [
+              "idEvenement": 33142,
+              "content": [
+                {
+                  "idConf": 33142,
+                  "ordre": 1,
+                  "titre": "Cinéma sans montage : est-ce du cinéma ?",
+                  "sousTitre": "Conférence de Walter Murch",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Avec la technologie numérique, nous pouvons réaliser des films sans aucune coupe. Est-ce l'avenir du cinéma ? Le montage est-il une enzyme qui a rendu le cinéma possible ? Ou n'était-ce qu'une prothèse dont on pourra finalement se passer ? Ou est-il, au contraire, plus fondamental ? — Walter Murch\n\nMonteur et _sound designer_ multi-oscarisé, inventeur et théoricien, Walter Murch a collaboré à des nombreux films à succès dont _American Graffiti_ (1973), _Le Parrain 2_ (1974), _Conversation secrète_ (1974), _Julia_ (1977), _Apocalypse Now_ (1979) et _Le Patient anglais_ (1996)."
+                }
+              ]
+            },
             {
-              "idSeance": 194807,
-              "dateHeure": "2025-06-13T17:00:00",
-              "idSalle": "HL"
+              "idFilm": 155278,
+              "content": [
+                {
+                  "idFilm": 155278,
+                  "ordre": 2,
+                  "titre": "Her Name Was Moviola",
+                  "realisateurs": "Howard Berry",
+                  "pays": "Grande-Bretagne",
+                  "annee": 2024
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 194807,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-06-13T17:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }

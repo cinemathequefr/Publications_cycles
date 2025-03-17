@@ -1,17 +1,46 @@
 {
   "data": [
     {
-      "titreSousCycle": "Rencontres et conférences",
+      "titreSousCycle": "Les films",
       "tri": 4,
       "items": [
         {
           "idSeance": 194807,
+          "ordre": 2,
           "dateHeure": "2025-06-13T17:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 150,
+          "dureeSeance": 105,
+          "typeAssoc": 118,
+          "idCategorie": 3813,
+          "idEvenement": 33345,
+          "typeEvenement": 13,
+          "idFilm": 155278,
+          "titre": "Her Name Was Moviola",
+          "realisateurs": "Howard Berry",
+          "annee": 2024,
+          "pays": "Grande-Bretagne",
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 194807,
+          "ordre": 1,
+          "dateHeure": "2025-06-13T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 90,
+          "typeAssoc": 118,
           "idCategorie": 1856,
           "idEvenement": 33142,
           "typeEvenement": 14,
