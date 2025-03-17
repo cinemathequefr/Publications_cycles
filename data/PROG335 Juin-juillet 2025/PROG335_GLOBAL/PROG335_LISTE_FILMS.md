@@ -1,14 +1,16 @@
 # Liste des films par cycle
 
-## 12 cinéastes chinoises (8)
+## 12 cinéastes chinoises (10)
 
   * All Ears  
+  * Blue Summer (A Song Sung Blue)  
+  * Boat People  
   * Chinatown Cha-Cha  
+  * Crossing (The)  
   * Guo Ran  
   * Her Story  
-  * Ode à la jeunesse (L')  
   * Send Me to the Clouds  
-  * Way We Are (The)  
+  * Un matin couleur de sang  
   * Woman Demon Human
 
 ## Antonio Margheriti (26)
@@ -40,16 +42,21 @@
   * Vierge de Nuremberg (La)  
   * Yor, le chasseur du futur
 
-## Aujourd'hui le cinéma (11)
+## Aujourd'hui le cinéma (16)
 
   * Animaux vont mieux (Les)  
   * Apocalypse  
+  * Comme si la terre les avait avalées  
+  * Fille de 3e B (La)  
+  * Généalogie de la violence  
   * Homme d'argile (L')  
   * Mémoires du Bois  
   * My Mother's Story  
   * No Hair  
   * Où est passée Cécile ?  
   * Petit Spartacus  
+  * Pirateland  
+  * Quai Sisowath  
   * Slaughter  
   * Summer Vacation  
   * Une vie rêvée
@@ -124,7 +131,6 @@
   * Dernier métro (Le)  
   * Des gens comme les autres  
   * Dodes'kaden  
-  * Épreuve de force (L')  
   * Eugenio  
   * Fame  
   * Femmes au soleil  
@@ -136,6 +142,7 @@
   * Jamais plus toujours  
   * Jardin des Finzi-Contini (Le)  
   * Jonas qui aura 25 ans en l'an 2000  
+  * Josey Wales hors-la-loi  
   * Julia  
   * Marjorie  
   * Ombre des anges (L')  
