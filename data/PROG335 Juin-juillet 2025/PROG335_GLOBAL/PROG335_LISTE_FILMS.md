@@ -42,7 +42,7 @@
   * Vierge de Nuremberg (La)  
   * Yor, le chasseur du futur
 
-## Aujourd'hui le cinéma (16)
+## Aujourd'hui le cinéma (17)
 
   * Animaux vont mieux (Les)  
   * Apocalypse  
@@ -53,6 +53,7 @@
   * Mémoires du Bois  
   * My Mother's Story  
   * No Hair  
+  * Nous nous reverrons  
   * Où est passée Cécile ?  
   * Petit Spartacus  
   * Pirateland  
