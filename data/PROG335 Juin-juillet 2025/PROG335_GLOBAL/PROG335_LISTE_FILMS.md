@@ -80,9 +80,8 @@
   * Tarzan et la révolte de la jungle  
   * Un assassin qui passe
 
-## Conservatoire des techniques cinématographiques (2)
+## Conservatoire des techniques cinématographiques (1)
 
-  * Conversation secrète  
   * Her Name Was Moviola
 
 ## Edward Yang (9)
