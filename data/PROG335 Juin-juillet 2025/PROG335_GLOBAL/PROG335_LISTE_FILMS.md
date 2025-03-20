@@ -157,8 +157,9 @@
   * Une chante, l'autre pas (L')  
   * Vie est un roman (La)
 
-## Ida Lupino (20)
+## Ida Lupino (23)
 
+  * A Crime for Mothers  
   * Avant de t'aimer  
   * Bigamist (The)  
   * Cinquième Victime (La)  
@@ -170,12 +171,14 @@
   * Ici brigade criminelle  
   * Jeu, set et match  
   * Junior Bonner, le dernier bagarreur  
+  * Little Hours (The)  
   * Lumière qui s'éteint (La)  
   * Maison dans l'ombre (La)  
   * Man I Love (The)  
   * Manière forte (La)  
   * Never Fear  
   * Outrage  
+  * Sybilla  
   * Une femme dangereuse  
   * Vaisseau fantôme (Le)  
   * Voyage de la peur (Le)
