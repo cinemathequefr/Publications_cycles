@@ -29,7 +29,10 @@
                   "titre": "Her Name Was Moviola",
                   "realisateurs": "Howard Berry",
                   "pays": "Grande-Bretagne",
-                  "annee": 2024
+                  "annee": 2024,
+                  "duree": 69,
+                  "version": "VOSTF",
+                  "format": "DCP"
                 }
               ],
               "seances": [
@@ -42,6 +45,34 @@
               ]
             }
           ]
+        },
+        {
+          "idFilm": 32008,
+          "content": [
+            {
+              "idFilm": 32008,
+              "ordre": 1,
+              "titre": "Conversation secrète",
+              "titreVo": "Conversation",
+              "artVo": "The",
+              "realisateurs": "Francis Ford Coppola",
+              "pays": "États-Unis",
+              "annee": 1974,
+              "generique": [
+                "Gene Hackman",
+                "John Cazale",
+                "Allen Garfield"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197601,
+              "dateHeure": "2025-06-13T20:30:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Walter Murch"
+            }
+          ]
         }
       ]
     }
@@ -52,6 +83,13 @@
         "titre": "Cinéma sans montage : est-ce du cinéma ?",
         "mention": "par Walter Murch",
         "dateHeure": "2025-06-13T17:00:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Conversation secrète",
+        "mention": "par Walter Murch",
+        "dateHeure": "2025-06-13T20:30:00"
       }
     ]
   }
