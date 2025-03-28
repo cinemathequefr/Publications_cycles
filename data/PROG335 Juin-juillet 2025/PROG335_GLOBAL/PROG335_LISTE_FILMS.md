@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## 12 cinéastes chinoises (10)
+## 12 cinéastes chinoises (11)
 
   * All Ears  
   * Blue Summer (A Song Sung Blue)  
@@ -8,6 +8,7 @@
   * Chinatown Cha-Cha  
   * Crossing (The)  
   * Her Story  
+  * Like a Rolling Stone  
   * Send Me to the Clouds  
   * Talks Overnight  
   * Un matin couleur de sang  
