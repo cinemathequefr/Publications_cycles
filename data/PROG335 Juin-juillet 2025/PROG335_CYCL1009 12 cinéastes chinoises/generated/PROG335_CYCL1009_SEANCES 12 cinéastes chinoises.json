@@ -27,9 +27,32 @@
   {
     "idCategorie": 3790,
     "typeEvenement": 13,
-    "idEvenement": 33099,
-    "idSeance": 194762,
+    "idEvenement": 33102,
+    "idSeance": 197618,
     "dateHeure": "2025-05-30T18:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 155198,
+        "ordre": 1,
+        "idSeance": 197618,
+        "idCopie": 29711,
+        "duree": 99,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3790,
+    "typeEvenement": 13,
+    "idEvenement": 33099,
+    "idSeance": 197619,
+    "dateHeure": "2025-05-30T21:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -39,33 +62,10 @@
       {
         "idFilm": 155195,
         "ordre": 1,
-        "idSeance": 194762,
+        "idSeance": 197619,
         "idCopie": 29713,
         "duree": 123,
         "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3790,
-    "typeEvenement": 13,
-    "idEvenement": 33107,
-    "idSeance": 194763,
-    "dateHeure": "2025-05-30T21:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 155201,
-        "ordre": 1,
-        "idSeance": 194763,
-        "idCopie": 29708,
-        "duree": 85,
-        "version": "",
         "format": "DCP"
       }
     ]
@@ -96,32 +96,9 @@
   {
     "idCategorie": 3790,
     "typeEvenement": 13,
-    "idEvenement": 33101,
-    "idSeance": 194761,
+    "idEvenement": 33396,
+    "idSeance": 197620,
     "dateHeure": "2025-05-31T17:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 155197,
-        "ordre": 1,
-        "idSeance": 194761,
-        "idCopie": 29709,
-        "duree": 120,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3790,
-    "typeEvenement": 13,
-    "idEvenement": 33102,
-    "idSeance": 194968,
-    "dateHeure": "2025-05-31T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -129,12 +106,12 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 155198,
+        "idFilm": 155286,
         "ordre": 1,
-        "idSeance": 194968,
-        "idCopie": 29711,
-        "duree": 99,
-        "version": "",
+        "idSeance": 197620,
+        "idCopie": 29935,
+        "duree": 106,
+        "version": "VO",
         "format": "DCP"
       }
     ]
@@ -142,19 +119,43 @@
   {
     "idCategorie": 3790,
     "typeEvenement": 13,
-    "idEvenement": 33110,
-    "idSeance": 197599,
-    "dateHeure": "2025-06-01T17:30:00",
+    "idEvenement": 33107,
+    "idSeance": 197621,
+    "dateHeure": "2025-05-31T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155201,
+        "ordre": 1,
+        "idSeance": 197621,
+        "idCopie": 29708,
+        "duree": 85,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Dai Jinhua"
+  },
+  {
+    "idCategorie": 3790,
+    "typeEvenement": 13,
+    "idEvenement": 33110,
+    "idSeance": 197622,
+    "dateHeure": "2025-06-01T15:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 135,
     "items": [
       {
         "idFilm": 125006,
         "ordre": 1,
-        "idSeance": 197599,
+        "idSeance": 197622,
         "idCopie": 29893,
         "duree": 103,
         "version": "",
@@ -165,9 +166,32 @@
   {
     "idCategorie": 3790,
     "typeEvenement": 13,
+    "idEvenement": 33101,
+    "idSeance": 197623,
+    "dateHeure": "2025-06-01T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 155197,
+        "ordre": 1,
+        "idSeance": 197623,
+        "idCopie": 29709,
+        "duree": 120,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3790,
+    "typeEvenement": 13,
     "idEvenement": 33109,
-    "idSeance": 197605,
-    "dateHeure": "2025-06-01T20:15:00",
+    "idSeance": 197624,
+    "dateHeure": "2025-06-01T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -177,7 +201,7 @@
       {
         "idFilm": 145348,
         "ordre": 1,
-        "idSeance": 197605,
+        "idSeance": 197624,
         "idCopie": 29896,
         "duree": 99,
         "version": "VOSTF",
@@ -189,18 +213,18 @@
     "idCategorie": 3790,
     "typeEvenement": 13,
     "idEvenement": 33347,
-    "idSeance": 194966,
-    "dateHeure": "2025-06-04T18:00:00",
+    "idSeance": 197625,
+    "dateHeure": "2025-06-02T19:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "LE",
+      "Lotte Eisner"
     ],
     "dureeSeance": 120,
     "items": [
       {
         "idFilm": 155279,
         "ordre": 1,
-        "idSeance": 194966,
+        "idSeance": 197625,
         "idCopie": 29895,
         "duree": 92,
         "version": "VOSTF",
@@ -212,44 +236,21 @@
     "idCategorie": 3790,
     "typeEvenement": 13,
     "idEvenement": 33349,
-    "idSeance": 197602,
-    "dateHeure": "2025-06-04T20:30:00",
+    "idSeance": 197626,
+    "dateHeure": "2025-06-02T21:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "LE",
+      "Lotte Eisner"
     ],
     "dureeSeance": 105,
     "items": [
       {
         "idFilm": 155285,
         "ordre": 1,
-        "idSeance": 197602,
+        "idSeance": 197626,
         "idCopie": 29933,
         "duree": 76,
         "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3790,
-    "typeEvenement": 13,
-    "idEvenement": 33396,
-    "idSeance": 197604,
-    "dateHeure": "2025-06-05T20:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 155286,
-        "ordre": 1,
-        "idSeance": 197604,
-        "idCopie": 29935,
-        "duree": 106,
-        "version": "VO",
         "format": "DCP"
       }
     ]
