@@ -728,6 +728,30 @@
     "hashEvenement": "f38302"
   },
   {
+    "idSeance": 197625,
+    "idEvenement": 33347,
+    "dateHeure": "2025-06-02T17:30:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "12 cinéastes chinoises",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155279,
+        "titre": "Blue Summer (A Song Sung Blue)",
+        "realisateurs": "Zihan Geng",
+        "annee": 2023,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155279"
+  },
+  {
     "idSeance": 188645,
     "idEvenement": 32992,
     "dateHeure": "2025-06-02T18:15:00",
@@ -812,8 +836,8 @@
     "hashEvenement": "f155212f155213f155214f155277f155215"
   },
   {
-    "idSeance": 197625,
-    "idEvenement": 33347,
+    "idSeance": 197626,
+    "idEvenement": 33349,
     "dateHeure": "2025-06-02T19:30:00",
     "salle": "LE",
     "cycle": [
@@ -824,16 +848,15 @@
     ],
     "items": [
       {
-        "idFilm": 155279,
-        "titre": "Blue Summer (A Song Sung Blue)",
-        "realisateurs": "Zihan Geng",
+        "idFilm": 155285,
+        "titre": "Talks Overnight",
+        "realisateurs": "Su Qiqi",
         "annee": 2023,
-        "duree": 92,
-        "version": "VOSTF",
+        "duree": 76,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f155279"
+    "hashEvenement": "f155285"
   },
   {
     "idSeance": 188646,
@@ -857,29 +880,6 @@
       }
     ],
     "hashEvenement": "f66086"
-  },
-  {
-    "idSeance": 197626,
-    "idEvenement": 33349,
-    "dateHeure": "2025-06-02T21:30:00",
-    "salle": "LE",
-    "cycle": [
-      [
-        "12 cinéastes chinoises",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155285,
-        "titre": "Talks Overnight",
-        "realisateurs": "Su Qiqi",
-        "annee": 2023,
-        "duree": 76,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155285"
   },
   {
     "idSeance": 194765,
@@ -3860,7 +3860,7 @@
   {
     "idSeance": 194782,
     "idEvenement": 32861,
-    "dateHeure": "2025-06-25T18:00:00",
+    "dateHeure": "2025-06-25T17:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5467,7 +5467,9 @@
         "titre": "Homme de fer",
         "art": "L'",
         "realisateurs": "Andrzej Wajda",
-        "annee": 1981
+        "annee": 1981,
+        "duree": 140,
+        "version": "VOSTF"
       }
     ],
     "hashEvenement": "f29804"
@@ -5587,7 +5589,10 @@
         "idFilm": 42483,
         "titre": "Identification d'une femme",
         "realisateurs": "Michelangelo Antonioni",
-        "annee": 1982
+        "annee": 1982,
+        "duree": 128,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f42483"
@@ -5668,7 +5673,9 @@
         "titre": "Ombre rouge",
         "art": "L'",
         "realisateurs": "Jean-Louis Comolli",
-        "annee": 1981
+        "annee": 1981,
+        "duree": 110,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f47801"
