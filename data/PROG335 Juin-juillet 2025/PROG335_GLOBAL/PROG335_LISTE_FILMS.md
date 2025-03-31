@@ -185,7 +185,7 @@
   * Vaisseau fantôme (Le)  
   * Voyage de la peur (Le)
 
-## John Stahl (37)
+## John Stahl (36)
 
   * A Lady Surrenders  
   * Amants de Salzbourg (Les)  
@@ -208,7 +208,6 @@
   * Lincoln Cycle (The)  
   * Memory Lane  
   * Mirage de la vie  
-  * Oh, You Beautiful Doll  
   * One Clear Call  
   * Our Wife  
   * Péché mortel  
