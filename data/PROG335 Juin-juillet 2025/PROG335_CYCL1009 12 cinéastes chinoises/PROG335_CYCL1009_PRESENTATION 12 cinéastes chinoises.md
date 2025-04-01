@@ -14,4 +14,4 @@ Cette sélection permettra au public français d'appréhender le long cheminemen
 
 <div class="author">Violet Wang</div>
 
-Commissaire du projet cinéma Réponse de femmes - Art Shanghai
+Commissaire du projet cinéma « Réponse de femmes » - Art Shanghai
