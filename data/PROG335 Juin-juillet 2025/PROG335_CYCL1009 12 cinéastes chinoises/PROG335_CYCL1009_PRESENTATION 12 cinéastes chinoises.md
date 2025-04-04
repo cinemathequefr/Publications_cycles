@@ -1,4 +1,4 @@
-> L'émergence d'une génération dorée de réalisateurs depuis le milieu des années 80 – Jia Zhangke, Wang Bing, Jiang Wen – a occulté le versant féminin de la production chinoise, tout aussi passionnant et varié. Huang Shuqin et Ann Hui dans les années 80, Li Shaohong dix ans plus tard, Teng Congcong, Liu Jiayin ou Shao Yihui aujourd'hui... Autant de noms que la Cinémathèque française célèbre pendant une semaine événement.
+> L'émergence d'une génération dorée de réalisateurs depuis le milieu des années 80 – Jia Zhangke, Wang Bing, Jiang Wen – a longtemps occulté le versant féminin de la production chinoise, tout aussi passionnant et varié. Huang Shuqin et Ann Hui dans les années 80, Li Shaohong dix ans plus tard, Teng Congcong, Liu Jiayin ou Shao Yihui aujourd'hui... Autant de noms que la Cinémathèque française célèbre pendant une semaine événement.
 
 # Elles se construisent en créant
 
