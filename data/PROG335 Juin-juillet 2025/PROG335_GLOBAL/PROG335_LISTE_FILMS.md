@@ -227,7 +227,7 @@
 
   * 5 centimètres par seconde  
   * Akira  
-  * Belladonna des tristesses  
+  * Belladonna  
   * Blue Giant  
   * Cleopatra  
   * Conte de la princesse Kaguya (Le)  
