@@ -31,7 +31,8 @@
             {
               "idSeance": 188571,
               "dateHeure": "2025-05-30T19:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Rod Glacial"
             }
           ]
         },
@@ -59,7 +60,8 @@
             {
               "idSeance": 188572,
               "dateHeure": "2025-05-30T21:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Rod Glacial"
             }
           ]
         }
@@ -335,5 +337,18 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Adieu blaireau",
+        "mention": "par Rod Glacial",
+        "dateHeure": "2025-05-30T19:00:00"
+      },
+      {
+        "titreFilms": "Un assassin qui passe",
+        "mention": "par Rod Glacial",
+        "dateHeure": "2025-05-30T21:00:00"
+      }
+    ]
+  }
 }
