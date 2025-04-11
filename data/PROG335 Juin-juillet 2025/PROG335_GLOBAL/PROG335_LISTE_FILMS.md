@@ -1,18 +1,17 @@
 # Liste des films par cycle
 
-## 12 cinéastes chinoises (11)
+## 70 mm (10)
 
-  * All Ears  
-  * Blue Summer (A Song Sung Blue)  
-  * Boat People  
-  * Chinatown Cha-Cha  
-  * Crossing (The)  
-  * Her Story  
-  * Like a Rolling Stone  
-  * Send Me to the Clouds  
-  * Talks Overnight  
-  * Un matin couleur de sang  
-  * Woman Demon Human
+  * 2001 : l'Odyssée de l'espace  
+  * Batman  
+  * Étoffe des héros (L')  
+  * Interstellar  
+  * Lawrence d'Arabie  
+  * Petite Boutique des horreurs (La)  
+  * Playtime  
+  * Ran  
+  * SOS Fantômes  
+  * Spartacus
 
 ## Antonio Margheriti (26)
 
@@ -108,19 +107,6 @@
   * Printemps au Japon (Le)  
   * Soldats japonais  
   * Yūkoku ou Rites d'amour et de mort
-
-## Films en 70 mm (10)
-
-  * 2001 : l'Odyssée de l'espace  
-  * Batman  
-  * Étoffe des héros (L')  
-  * Interstellar  
-  * Lawrence d'Arabie  
-  * Petite Boutique des horreurs (La)  
-  * Playtime  
-  * Ran  
-  * SOS Fantômes  
-  * Spartacus
 
 ## Histoire permanente du cinéma (34)
 
@@ -222,6 +208,20 @@
   * Ville empoisonnée (La)  
   * Why Men Leave Home  
   * Woman Under Oath (The)
+
+## Le cinéma chinois au féminin (11)
+
+  * All Ears  
+  * Blue Summer (A Song Sung Blue)  
+  * Boat People  
+  * Chinatown Cha-Cha  
+  * Crossing (The)  
+  * Her Story  
+  * Like a Rolling Stone  
+  * Send Me to the Clouds  
+  * Talks Overnight  
+  * Un matin couleur de sang  
+  * Woman Demon Human
 
 ## Le cinéma d'animation japonais, 25 indispensables (26)
 
