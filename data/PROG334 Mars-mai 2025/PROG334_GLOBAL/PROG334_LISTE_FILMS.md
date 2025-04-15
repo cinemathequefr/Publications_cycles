@@ -46,11 +46,10 @@
   * Tremblements (Les)  
   * Voyage au bord de la guerre
 
-## Carlo Lizzani (30)
+## Carlo Lizzani (28)
 
   * Achtung! Banditi!  
   * Bandits à Milan  
-  * Barbagia  
   * Bossu de Rome (Le)  
   * Carabinier à cheval (Le)  
   * Caro Gorbaciov  
@@ -67,7 +66,6 @@
   * Fontamara  
   * Hotel Meina  
   * Lutring... réveille-toi et meurs  
-  * Maîtresse de Gramigna (La)  
   * Mamma Ebe  
   * Procès de Vérone (Le)  
   * Remake, Rome ville ouverte  
