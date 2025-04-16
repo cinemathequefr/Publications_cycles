@@ -197,7 +197,7 @@
   * Terre en transe  
   * Têtes coupées
 
-## Histoire permanente du cinéma (37)
+## Histoire permanente du cinéma (36)
 
   * À cause d'un assassinat  
   * Absence de malice  
@@ -208,7 +208,6 @@
   * Blues Brothers (The)  
   * Bronco Billy  
   * Butch Cassidy et le Kid  
-  * Cadavres exquis  
   * Casanova de Fellini (Le)  
   * Conte de la folie ordinaire  
   * De la vie des marionnettes  
