@@ -1,5 +1,19 @@
 # Liste des films par cycle
 
+## 64e Semaine de la critique (11)
+
+  * Baise-en-ville  
+  * Ciudad sin sueño  
+  * Des preuves d'amour  
+  * Imago  
+  * Intérêt d'Adam (L')  
+  * Kika  
+  * Left-Handed Girl  
+  * Nino  
+  * Planètes  
+  * Rietland  
+  * Un fantôme utile
+
 ## 70 mm (10)
 
   * 2001 : l'Odyssée de l'espace  
