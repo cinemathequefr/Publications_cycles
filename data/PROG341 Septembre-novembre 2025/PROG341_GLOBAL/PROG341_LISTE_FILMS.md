@@ -1,10 +1,13 @@
 # Liste des films par cycle
 
-## Cinéma bis (3)
+## Cinéma bis (6)
 
+  * Alien, la créature des abysses  
+  * Bruce contre-attaque  
+  * Chaîne infernale du Ta Kang (La)  
   * Infirmière a le bistouri facile (L')  
   * Possédée du vice (La)  
-  * undefined
+  * Renard de Brooklyn (Le)
 
 ## Histoire permanente du cinéma (17)
 
