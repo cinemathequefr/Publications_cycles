@@ -16,6 +16,24 @@
       ]
     },
     {
+      "idCycleProg": 14,
+      "titreCycle": "Cinéma bis",
+      "isReg": true,
+      "sousCycles": [
+        { "titre": "Hommage à Nadia Cassini", "cats": [3856], "tri": 4 },
+        {
+          "titre": "Antonio Margheriti, séance de rattrapage",
+          "cats": [3857],
+          "tri": 4
+        },
+        {
+          "titre": "Kung-fu fou",
+          "cats": [3858],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
       "isReg": true,
@@ -58,7 +76,7 @@
       "sousCycles": [
         {
           "titre": "Les films",
-          "cats": [3853],
+          "cats": [3680, 3852, 3853],
           "tri": 2
         }
       ],
@@ -72,7 +90,7 @@
         { "titre": "Les films", "cats": [3829], "tri": 2 },
         { "titre": "Films pour la télévision", "cats": [3830], "tri": 2 },
         { "titre": "Courts métrages", "cats": [3831], "tri": 2 },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [3864], "tri": 4 }
       ],
       "excludeSeances": []
     },
@@ -117,7 +135,7 @@
       "titreCycle": "Orson Welles",
       "sousCycles": [
         { "titre": "Les films", "cats": [3840], "tri": 2 },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [3865], "tri": 4 }
       ],
       "excludeSeances": []
     },
