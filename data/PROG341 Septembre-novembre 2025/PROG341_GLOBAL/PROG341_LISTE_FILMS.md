@@ -46,11 +46,11 @@
 
   * Bouche de Jean-Pierre (La)  
   * Earwig  
-  * Evolution  
+  * Évolution  
   * Innocence  
   * Tour de glace (La)
 
-## Maurice Pialat (33)
+## Maurice Pialat (34)
 
   * À nos amours  
   * Agnès Varda tourne  
@@ -73,6 +73,7 @@
   * Lugdunum  
   * Maison des bois (La)  
   * Maître Galip  
+  * Maurice Pialat, l'amour existe  
   * Nous ne vieillirons pas ensemble  
   * Ombre familière (L')  
   * Parisienne et les grands magasins (La)  
@@ -107,17 +108,16 @@
 ## William A. Wellman (51)
 
   * Ailes (Les)  
-  * Allée sanglante (L')  
   * Ange blanc (L')  
   * Appel de la forêt (L')  
   * Au-delà du Missouri  
-  * Aventure dans le grand Nord  
+  * Aventure dans le Grand Nord  
   * Balourd (Le)  
   * Bastogne  
   * Beau Geste  
   * Bourreau (Le)  
   * Buffalo Bill  
-  * Central Airport  
+  * Cité magique (La)  
   * College Coach  
   * Conquérants (Les)  
   * Convoi de femmes  
@@ -127,12 +127,11 @@
   * Fille de l'enfer (La)  
   * Forçats de la gloire (Les)  
   * Frisco Jenny  
-  * Great Man's Lady (The)  
   * Héros à vendre  
   * Hommes volants (Les)  
+  * Inspiratrice (L')  
   * Joyeuse suicidée (La)  
   * Lilly Turner  
-  * Looking for Trouble  
   * Love Is a Racket  
   * Lumière qui s'éteint (La)  
   * Man I Love (The)  
@@ -141,14 +140,16 @@
   * Mendiants de la vie (Les)  
   * Mon grand  
   * Other Men's Women  
+  * Petite Provinciale (La)  
   * President Vanishes (The)  
   * Purchase Price (The)  
   * Quartier chinois  
   * Robin des Bois d'Eldorado  
   * Rose de minuit  
-  * Small Town Girl  
+  * Signal (Le)  
   * Star Witness (The)  
   * Stingaree  
+  * Tempête sur la ligne  
   * Thunder Birds  
   * Tombeur du Michigan (Le)  
   * Track of the Cat  
