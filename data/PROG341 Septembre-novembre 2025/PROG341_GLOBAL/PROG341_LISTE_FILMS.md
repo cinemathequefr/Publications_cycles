@@ -141,6 +141,7 @@
   * Mon grand  
   * Other Men's Women  
   * Petite Provinciale (La)  
+  * Pilotes de chasse  
   * President Vanishes (The)  
   * Purchase Price (The)  
   * Quartier chinois  
@@ -150,7 +151,6 @@
   * Star Witness (The)  
   * Stingaree  
   * Tempête sur la ligne  
-  * Thunder Birds  
   * Tombeur du Michigan (Le)  
   * Track of the Cat  
   * Une étoile est née  
