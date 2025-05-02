@@ -1,13 +1,35 @@
 # Liste des films par cycle
 
-## Cinéma bis (6)
+## Christian Petzold (11)
+
+  * Au sud  
+  * Barbara  
+  * Contrôle d'identité  
+  * Dreileben TV  
+  * Fantômes  
+  * Jerichow  
+  * Ondine  
+  * Phoenix  
+  * Transit  
+  * Wolfsburg  
+  * Yella
+
+## Cinéma bis (14)
 
   * Alien, la créature des abysses  
+  * Blessure  
   * Bruce contre-attaque  
   * Chaîne infernale du Ta Kang (La)  
+  * Crypte du vampire (La)  
+  * Empire des Ninjas (L')  
+  * Etoile du sud (L')  
+  * Flag  
   * Infirmière a le bistouri facile (L')  
+  * Malédiction du vampire (La)  
+  * Mission ninja  
   * Possédée du vice (La)  
-  * Renard de Brooklyn (Le)
+  * Renard de Brooklyn (Le)  
+  * Trois pour un massacre
 
 ## Histoire permanente du cinéma (17)
 

@@ -106,6 +106,34 @@
       ]
     },
     {
+      "tri": 2,
+      "titreSousCycle": "Avant-première Emilio Maillé",
+      "items": [
+        {
+          "idFilm": 155289,
+          "content": [
+            {
+              "idFilm": 155289,
+              "ordre": 1,
+              "titre": "Sueño de ayer",
+              "art": "El",
+              "realisateurs": "Emilio Maillé",
+              "pays": "Mexique",
+              "annee": 2022
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 188643,
+              "dateHeure": "2025-06-02T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "tri": 4,
       "titreSousCycle": "Les cinq ans d'HENRI",
       "texteSousCycle": "À toute épreuve, coriace, maquisarde, inébranlable, inusable, solide... Pour célébrer les 5 ans d'HENRI, sa plateforme VoD gratuite, la Cinémathèque propose une projection exceptionnelle (diffusée trois fois) avec quelques femmes : résistantes plutôt que puissantes, ces rebelles ont aussi forgé son succès, qu'elles soient cinéaste, sculptrice prothésiste, actrice, lycéenne, syndicaliste, artiste, ou simplement révolutionnaire.",
@@ -412,6 +440,12 @@
     }
   ],
   "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2025-06-02T20:00:00",
+        "titreFilms": "El Sueño de ayer"
+      }
+    ],
     "Séances présentées": [
       {
         "titreFilms": "Hôtel du Parc : La Révolution nationale",

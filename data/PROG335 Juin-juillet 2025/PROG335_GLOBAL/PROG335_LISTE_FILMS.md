@@ -388,7 +388,7 @@
   * Rayon vert (Le)  
   * Sans toit ni loi
 
-## Séances spéciales (20)
+## Séances spéciales (21)
 
   * Alice Guy tourne une phonoscène  
   * Anna Ladd dans son atelier parisien  
@@ -409,6 +409,7 @@
   * Notre mémoire  
   * Piano irrésistible (Le)  
   * Starting Something  
+  * Sueño de ayer (El)  
   * Une héroïne de quatre ans
 
 ## Wes Anderson (8)

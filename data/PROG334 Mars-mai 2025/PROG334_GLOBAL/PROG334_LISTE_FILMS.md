@@ -390,7 +390,7 @@
   * Ville captive (La)  
   * West Side Story
 
-## Séances spéciales (8)
+## Séances spéciales (9)
 
   * Bulle Ogier, portrait d'une étoile cachée  
   * Chers parents  
@@ -399,6 +399,7 @@
   * Emma  
   * Lakeview Side  
   * Orbes  
+  * Pourquoi la guerre  
   * Tapage
 
 ## Wes Anderson (15)
