@@ -109,14 +109,9 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (6)
+## Orson Welles (1)
 
-  * Citizen Kane  
-  * Don Quichotte  
-  * Falstaff  
-  * Othello  
-  * Procès (Le)  
-  * Splendeur des Amberson (La)
+  * Othello
 
 ## Shirley Clarke (6)
 
@@ -127,10 +122,12 @@
   * Ornette: Made in America  
   * Portrait of Jason
 
-## William A. Wellman (51)
+## William A. Wellman (64)
 
   * Ailes (Les)  
+  * Allée sanglante (L')  
   * Ange blanc (L')  
+  * Années de jeunesse  
   * Appel de la forêt (L')  
   * Au-delà du Missouri  
   * Aventure dans le Grand Nord  
@@ -139,16 +136,21 @@
   * Beau Geste  
   * Bourreau (Le)  
   * Buffalo Bill  
+  * C'est la guerre  
   * Cité magique (La)  
   * College Coach  
+  * Commandos passent à l'attaque (Les)  
   * Conquérants (Les)  
   * Convoi de femmes  
   * Dangerous Paradise  
   * Écrit dans le ciel  
   * Ennemi public (L')  
+  * Étrange incident (L')  
+  * Étrangleur (L')  
   * Fille de l'enfer (La)  
   * Forçats de la gloire (Les)  
   * Frisco Jenny  
+  * Good-bye, My Lady  
   * Héros à vendre  
   * Hommes volants (Les)  
   * Inspiratrice (L')  
@@ -161,22 +163,28 @@
   * Maybe It's Love  
   * Mendiants de la vie (Les)  
   * Mon grand  
+  * My Man and I  
   * Other Men's Women  
   * Petite Provinciale (La)  
   * Pilotes de chasse  
   * President Vanishes (The)  
   * Purchase Price (The)  
   * Quartier chinois  
+  * Rideau de fer (Le)  
   * Robin des Bois d'Eldorado  
   * Rose de minuit  
+  * Roxie Hart  
+  * Ses premières ailes  
   * Signal (Le)  
   * Star Witness (The)  
   * Stingaree  
   * Tempête sur la ligne  
+  * This Man's Navy  
   * Tombeur du Michigan (Le)  
   * Track of the Cat  
   * Une étoile est née  
   * Ville abandonnée (La)  
+  * Voix que vous allez entendre (La)  
   * Wild Boys of the Road  
   * Woman Trap  
   * Young Eagles  
