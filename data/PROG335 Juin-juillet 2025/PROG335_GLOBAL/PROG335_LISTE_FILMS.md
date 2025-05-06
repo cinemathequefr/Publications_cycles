@@ -1,18 +1,31 @@
 # Liste des films par cycle
 
-## 64e Semaine de la critique (11)
+## 64e Semaine de la critique (24)
 
+  * Alișveriș  
   * Baise-en-ville  
+  * Bleat!  
   * Ciudad sin sueño  
+  * Critical Condition  
   * Des preuves d'amour  
+  * Dieu est timide  
+  * Donne batterie  
+  * Eraserhead dans un filet à provisions  
+  * Erogenesis  
+  * Glasses  
   * Imago  
   * Intérêt d'Adam (L')  
   * Kika  
   * Left-Handed Girl  
+  * L'mina  
   * Nino  
+  * No skate!  
   * Planètes  
   * Rietland  
-  * Un fantôme utile
+  * Samba Infinito  
+  * Un fantôme utile  
+  * Une fugue  
+  * Wonderwall
 
 ## 70 mm (10)
 

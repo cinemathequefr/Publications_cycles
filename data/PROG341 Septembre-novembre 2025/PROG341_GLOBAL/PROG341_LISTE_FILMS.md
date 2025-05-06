@@ -31,6 +31,22 @@
   * Renard de Brooklyn (Le)  
   * Trois pour un massacre
 
+## Hafsia Herzi (13)
+
+  * Apollonide : Souvenirs de la maison close (L')  
+  * Bonne mère  
+  * Française  
+  * Graine et le mulet (La)  
+  * Ma compagne de nuit  
+  * Mektoub my Love : Canto uno  
+  * Ravissement (Le)  
+  * Rodba (Le)  
+  * Roi de l'évasion (Le)  
+  * Secrets (Les)  
+  * Sex doll  
+  * Source des femmes (La)  
+  * Tu mérites un amour
+
 ## Histoire permanente du cinéma (17)
 
   * Agnès de Dieu  
