@@ -7,7 +7,79 @@
   "sousCycles": [
     {
       "tri": 2,
-      "titreSousCycle": "Les films",
+      "titreSousCycle": "Hafsia Herzi cinéaste",
+      "items": [
+        {
+          "idFilm": 150483,
+          "content": [
+            {
+              "idFilm": 150483,
+              "ordre": 1,
+              "titre": "Bonne mère",
+              "realisateurs": "Hafsia Herzi",
+              "pays": "France",
+              "annee": 2020
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 196083,
+              "dateHeure": "2025-10-05T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 147094,
+          "content": [
+            {
+              "idFilm": 147094,
+              "ordre": 1,
+              "titre": "Rodba",
+              "art": "Le",
+              "realisateurs": "Hafsia Herzi",
+              "pays": "France",
+              "annee": 2010
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197872,
+              "dateHeure": "2025-10-05T14:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 141851,
+          "content": [
+            {
+              "idFilm": 141851,
+              "ordre": 1,
+              "titre": "Tu mérites un amour",
+              "realisateurs": "Hafsia Herzi",
+              "pays": "France",
+              "annee": 2018,
+              "generique": [
+                "Hafsia Herzi",
+                "Djanis Bouzyani",
+                "Jérémie Laheurte"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 196079,
+              "dateHeure": "2025-10-05T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Hafsia Herzi actrice",
       "items": [
         {
           "idFilm": 113247,
@@ -33,26 +105,6 @@
             {
               "idSeance": 197871,
               "dateHeure": "2025-10-04T14:15:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 150483,
-          "content": [
-            {
-              "idFilm": 150483,
-              "ordre": 1,
-              "titre": "Bonne mère",
-              "realisateurs": "Hafsia Herzi",
-              "pays": "France",
-              "annee": 2020
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 196083,
-              "dateHeure": "2025-10-05T20:30:00",
               "idSalle": "JE"
             }
           ]
@@ -170,27 +222,6 @@
           ]
         },
         {
-          "idFilm": 147094,
-          "content": [
-            {
-              "idFilm": 147094,
-              "ordre": 1,
-              "titre": "Rodba",
-              "art": "Le",
-              "realisateurs": "Hafsia Herzi",
-              "pays": "France",
-              "annee": 2010
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197872,
-              "dateHeure": "2025-10-05T14:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 108435,
           "content": [
             {
@@ -276,31 +307,6 @@
               "idSeance": 197873,
               "dateHeure": "2025-10-05T14:30:00",
               "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 141851,
-          "content": [
-            {
-              "idFilm": 141851,
-              "ordre": 1,
-              "titre": "Tu mérites un amour",
-              "realisateurs": "Hafsia Herzi",
-              "pays": "France",
-              "annee": 2018,
-              "generique": [
-                "Hafsia Herzi",
-                "Djanis Bouzyani",
-                "Jérémie Laheurte"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 196079,
-              "dateHeure": "2025-10-05T14:30:00",
-              "idSalle": "HL"
             }
           ]
         }
