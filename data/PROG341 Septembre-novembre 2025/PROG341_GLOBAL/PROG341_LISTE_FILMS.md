@@ -31,14 +31,16 @@
   * Renard de Brooklyn (Le)  
   * Trois pour un massacre
 
-## Hafsia Herzi (13)
+## Hafsia Herzi (15)
 
   * Apollonide : Souvenirs de la maison close (L')  
   * Bonne mère  
+  * Cour (La)  
   * Française  
   * Graine et le mulet (La)  
   * Ma compagne de nuit  
   * Mektoub my Love : Canto uno  
+  * Petite Dernière (La)  
   * Ravissement (Le)  
   * Rodba (Le)  
   * Roi de l'évasion (Le)  
@@ -125,7 +127,7 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (1)
+## Shakespeare au cinéma (1)
 
   * Othello
 

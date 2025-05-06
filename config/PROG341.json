@@ -54,19 +54,6 @@
       ]
     },
     {
-      "idCycleProg": 120,
-      "titreCycle": "Orson Welles",
-      "sousCycles": [
-        {
-          "titre": "Les films",
-          "cats": [511, 512, 513, 520, 521, 531, 534, 536, 538, 539, 557, 558],
-          "tri": 2
-        },
-        { "titre": "Rencontres et conférences", "cats": [527], "tri": 4 }
-      ],
-      "excludeSeances": []
-    },
-    {
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
       "isReg": true,
@@ -223,6 +210,22 @@
       "titreCycle": "Christian Petzold",
       "sousCycles": [
         { "titre": "Les films", "cats": [3869], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": []
+    },
+    {
+      "idCycleProg": 1028,
+      "titreCycle": "Orson Welles",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [
+            3870, 3871, 3872, 3873, 3874, 3875, 3876, 3877, 3878, 3879, 3880,
+            3881
+          ],
+          "tri": 2
+        },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
       "excludeSeances": []

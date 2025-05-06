@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2025-10-02T16:00:00",
-    "2025-10-06T20:00:00"
+    "2025-09-29T20:00:00",
+    "2025-10-11T15:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -23,9 +23,65 @@
           ],
           "seances": [
             {
-              "idSeance": 196083,
+              "idSeance": 197886,
               "dateHeure": "2025-10-05T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 155340,
+          "content": [
+            {
+              "idFilm": 155340,
+              "ordre": 1,
+              "titre": "Cour",
+              "art": "La",
+              "realisateurs": "Hafsia Herzi",
+              "pays": "France",
+              "annee": 2022,
+              "duree": 90,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Lucy Loste Berset"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197887,
+              "dateHeure": "2025-10-09T20:30:00",
               "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 155341,
+          "content": [
+            {
+              "idFilm": 155341,
+              "ordre": 1,
+              "titre": "Petite Dernière",
+              "art": "La",
+              "realisateurs": "Hafsia Herzi",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 106,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Nadia Melliti",
+                "Aloïse Sauvage"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 195906,
+              "dateHeure": "2025-09-29T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
             }
           ]
         },
@@ -44,8 +100,8 @@
           ],
           "seances": [
             {
-              "idSeance": 197872,
-              "dateHeure": "2025-10-05T14:30:00",
+              "idSeance": 196210,
+              "dateHeure": "2025-10-10T18:30:00",
               "idSalle": "JE"
             }
           ]
@@ -70,8 +126,8 @@
           "seances": [
             {
               "idSeance": 196079,
-              "dateHeure": "2025-10-05T14:30:00",
-              "idSalle": "HL"
+              "dateHeure": "2025-10-05T17:00:00",
+              "idSalle": "GF"
             }
           ]
         }
@@ -189,8 +245,8 @@
           ],
           "seances": [
             {
-              "idSeance": 197875,
-              "dateHeure": "2025-10-06T20:00:00",
+              "idSeance": 196252,
+              "dateHeure": "2025-10-11T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -283,9 +339,9 @@
           ],
           "seances": [
             {
-              "idSeance": 197874,
-              "dateHeure": "2025-10-06T18:00:00",
-              "idSalle": "GF"
+              "idSeance": 196133,
+              "dateHeure": "2025-10-08T20:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -304,8 +360,8 @@
           ],
           "seances": [
             {
-              "idSeance": 197873,
-              "dateHeure": "2025-10-05T14:30:00",
+              "idSeance": 196168,
+              "dateHeure": "2025-10-09T18:30:00",
               "idSalle": "JE"
             }
           ]
@@ -313,5 +369,12 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2025-09-29T20:00:00",
+        "titreFilms": "La Petite Dernière"
+      }
+    ]
+  }
 }
