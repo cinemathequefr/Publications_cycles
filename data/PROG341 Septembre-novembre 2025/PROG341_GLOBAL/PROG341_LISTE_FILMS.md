@@ -49,9 +49,8 @@
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (17)
+## Histoire permanente du cinéma (16)
 
-  * Agnès de Dieu  
   * Amerika, rapports de classe  
   * Brazil  
   * Element of Crime  
@@ -68,6 +67,11 @@
   * Peau (La)  
   * Pixote, la loi du plus faible  
   * Provinciale (La)
+
+## John Schlesinger (2)
+
+  * Macadam Cowboy  
+  * Marathon Man
 
 ## Kathryn Bigelow (10)
 
@@ -127,8 +131,9 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Shakespeare au cinéma (1)
+## Shakespeare au cinéma (2)
 
+  * Château de l'Araignée (Le)  
   * Othello
 
 ## Shirley Clarke (6)
@@ -139,6 +144,33 @@
   * Harlem Story  
   * Ornette: Made in America  
   * Portrait of Jason
+
+## Stephen Frears (24)
+
+  * Arnaqueurs (Les)  
+  * Chéri  
+  * Confident royal  
+  * Dirty Pretty Things  
+  * Florence Foster Jenkins  
+  * Héros malgré lui  
+  * Hi-Lo Country (The)  
+  * High Fidelity  
+  * Lady Vegas  
+  * Liaisons dangereuses (Les)  
+  * Liam  
+  * Madame Henderson présente  
+  * Mary Reilly  
+  * Muhammad Ali's Greatest Fight  
+  * My Beautiful Laundrette  
+  * Philomena  
+  * Prick Up  
+  * Program (The)  
+  * Queen (The)  
+  * Sammy et Rosie s'envoient en l'air  
+  * Snapper (The)  
+  * Tamara Drewe  
+  * Typically British : A Personal History of British Cinema by Stephen Frears  
+  * Van (The)
 
 ## William A. Wellman (64)
 
