@@ -134,7 +134,7 @@
 ## Shakespeare au cinéma (2)
 
   * Château de l'Araignée (Le)  
-  * Othello
+  * Falstaff
 
 ## Shirley Clarke (6)
 

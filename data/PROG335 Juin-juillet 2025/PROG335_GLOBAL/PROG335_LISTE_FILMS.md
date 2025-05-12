@@ -142,6 +142,7 @@
   * Agnès de Dieu  
   * Belle Captive (La)  
   * Cap Canaille  
+  * Cérémonie (La)  
   * C'est la vie  
   * Cicatrice intérieure (La)  
   * Cité des femmes (La)  
@@ -150,7 +151,6 @@
   * Dentellière (La)  
   * Dernier métro (Le)  
   * Des gens comme les autres  
-  * Dodes'kaden  
   * Eugenio  
   * Fame  
   * Femmes au soleil  
