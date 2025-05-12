@@ -22,7 +22,7 @@
   * No skate!  
   * Planètes  
   * Reedland  
-  * Samba Infinito  
+  * Samba infinito  
   * Un fantôme utile  
   * Une fugue  
   * Wonderwall
