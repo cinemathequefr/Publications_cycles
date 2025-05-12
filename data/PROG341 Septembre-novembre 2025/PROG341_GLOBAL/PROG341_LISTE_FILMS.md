@@ -102,7 +102,7 @@
   * Bosphore (Le)  
   * Byzance  
   * Camargue (La)  
-  * Champs-Elysées (Les)  
+  * Champs-Élysées (Les)  
   * Congrès eucharistique diocésain  
   * Corne d'or (La)  
   * De la mer jaillira la lumière  
