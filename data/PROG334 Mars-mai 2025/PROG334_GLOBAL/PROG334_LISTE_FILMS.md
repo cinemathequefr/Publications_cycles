@@ -389,7 +389,7 @@
   * Ville captive (La)  
   * West Side Story
 
-## Séances spéciales (9)
+## Séances spéciales (10)
 
   * Bulle Ogier, portrait d'une étoile cachée  
   * Chers parents  
@@ -398,6 +398,7 @@
   * Emma  
   * Lakeview Side  
   * Orbes  
+  * Phoenician Scheme (The)  
   * Pourquoi la guerre  
   * Tapage
 

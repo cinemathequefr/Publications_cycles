@@ -86,12 +86,14 @@
   * Strange Days  
   * Zero Dark Thirty
 
-## Lucile Hadzihalilovic (5)
+## Lucile Hadzihalilovic (7)
 
   * Bouche de Jean-Pierre (La)  
+  * De natura  
   * Earwig  
   * Évolution  
   * Innocence  
+  * Nectar  
   * Tour de glace (La)
 
 ## Maurice Pialat (34)
