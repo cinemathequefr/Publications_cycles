@@ -348,7 +348,7 @@
   * Saisons du cœur (Les)  
   * Un homme presque parfait
 
-## Robert Wise (39)
+## Robert Wise (38)
 
   * Audrey Rose  
   * Brève rencontre à Paris  
@@ -370,7 +370,6 @@
   * Maison sur la colline (La)  
   * Malédiction des hommes-chats (La)  
   * Marqué par la haine  
-  * Mélodie du bonheur (La)  
   * Mon grand  
   * Mystère Andromède (Le)  
   * Mystère au Mexique  
