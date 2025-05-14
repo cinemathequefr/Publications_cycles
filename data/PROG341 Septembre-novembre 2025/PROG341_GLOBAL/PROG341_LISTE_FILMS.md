@@ -57,8 +57,7 @@
   * Épreuve de force (L')  
   * Fantôme de la liberté (Le)  
   * Golden Eighties  
-  * Imposteur (L')  
-  * Liberté la nuit  
+  * Liberté, la nuit  
   * Love Streams  
   * Nostalghia  
   * Nuits de la pleine lune (Les)  
@@ -66,7 +65,8 @@
   * Parfum de femme  
   * Peau (La)  
   * Pixote, la loi du plus faible  
-  * Provinciale (La)
+  * Provinciale (La)  
+  * Un enfant de Calabre
 
 ## John Schlesinger (2)
 

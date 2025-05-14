@@ -186,40 +186,12 @@
           ]
         },
         {
-          "idFilm": 42579,
-          "content": [
-            {
-              "idFilm": 42579,
-              "ordre": 1,
-              "titre": "Imposteur",
-              "art": "L'",
-              "titreVo": "Cercasi Gesù",
-              "realisateurs": "Luigi Comencini",
-              "pays": "Italie-France",
-              "annee": 1982,
-              "generique": [
-                "Beppe Grillo",
-                "Maria Schneider",
-                "Fernando Rey",
-                "Alexandra Stewart"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197796,
-              "dateHeure": "2025-09-18T16:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 54585,
           "content": [
             {
               "idFilm": 54585,
               "ordre": 1,
-              "titre": "Liberté la nuit",
+              "titre": "Liberté, la nuit",
               "realisateurs": "Philippe Garrel",
               "pays": "France",
               "annee": 1984,
@@ -423,6 +395,7 @@
               "duree": 125,
               "version": "VOSTF",
               "format": "35 mm",
+              "adaptation": "D'après le roman _Infancia dos mortos_ de José Louzeiro.",
               "generique": [
                 "Fernando Ramos da Silva",
                 "Marília Pêra"
@@ -448,6 +421,11 @@
               "realisateurs": "Claude Goretta",
               "pays": "France-Suisse",
               "annee": 1981,
+              "generique": [
+                "Nathalie Baye",
+                "Angela Winkler",
+                "Bruno Ganz"
+              ],
               "miniTexte": "Christine quitte son Solex, la grisaille de la Lorraine et ses amis choristes pour Paris, attirée par la grande vie. Goretta déroule sous ses pieds un tapis de désillusions, chômage, liaison sans lendemain, mais livre aussi en filigrane une réflexion cuisante sur le métier de comédienne : « Je passe mon temps à attendre, à mendier du travail », jusqu'à l'épilogue d'une cruauté totale. Une tranche de vie simple et mélancolique, où la légèreté sourd par instants, dans le sourire de Nathalie Baye."
             }
           ],
@@ -455,6 +433,37 @@
             {
               "idSeance": 197791,
               "dateHeure": "2025-09-05T16:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 42652,
+          "content": [
+            {
+              "idFilm": 42652,
+              "ordre": 1,
+              "titre": "Un enfant de Calabre",
+              "titreVo": "Un ragazzo di Calabria",
+              "realisateurs": "Luigi Comencini",
+              "pays": "Italie-France",
+              "annee": 1987,
+              "duree": 106,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "ageMinimal": 9,
+              "generique": [
+                "Thérèse Liotard",
+                "Gian Maria Volonté",
+                "Diego Abatantuono",
+                "Elio Polimeno"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197937,
+              "dateHeure": "2025-09-18T16:00:00",
               "idSalle": "GF"
             }
           ]
