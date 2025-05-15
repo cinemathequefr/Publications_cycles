@@ -8,10 +8,10 @@
   * Dreileben  
   * Fantômes  
   * Jerichow  
+  * Ombre de l'enfant (L')  
   * Ondine  
   * Phoenix  
   * Transit  
-  * Wolfsburg  
   * Yella
 
 ## Cinéma bis (14)
