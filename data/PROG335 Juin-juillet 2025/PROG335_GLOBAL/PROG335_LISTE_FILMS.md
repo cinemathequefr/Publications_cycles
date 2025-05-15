@@ -198,9 +198,8 @@
   * Vaisseau fantôme (Le)  
   * Voyage de la peur (Le)
 
-## John Stahl (35)
+## John Stahl (33)
 
-  * A Lady Surrenders  
   * Amants de Salzbourg (Les)  
   * Aventure en Libye  
   * Back Street  
@@ -233,7 +232,6 @@
   * Veillée d'amour  
   * Vie privée d'un tribun (La)  
   * Ville empoisonnée (La)  
-  * Why Men Leave Home  
   * Woman Under Oath (The)
 
 ## Le cinéma chinois au féminin (11)
