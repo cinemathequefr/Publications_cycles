@@ -22,7 +22,7 @@
   * Chaîne infernale du Ta Kang (La)  
   * Crypte du vampire (La)  
   * Empire des Ninjas (L')  
-  * Etoile du sud (L')  
+  * Étoile du sud (L')  
   * Flag  
   * Infirmière a le bistouri facile (L')  
   * Malédiction du vampire (La)  
@@ -171,7 +171,7 @@
   * Sammy et Rosie s'envoient en l'air  
   * Snapper (The)  
   * Tamara Drewe  
-  * Typically British : A Personal History of British Cinema by Stephen Frears  
+  * Typically British: A Personal History of British Cinema by Stephen Frears  
   * Van (The)
 
 ## William A. Wellman (64)
