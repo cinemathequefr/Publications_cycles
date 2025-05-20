@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-10-08T20:00:00",
-    "2025-10-08T20:00:00"
+    "2025-11-15T16:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -44,7 +44,167 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33971,
+          "content": [
+            {
+              "idConf": 33971,
+              "titre": "Dialogue avec Frederic Bonnaud",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197947,
+              "dateHeure": "2025-10-11T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 33973,
+          "content": [
+            {
+              "idConf": 33973,
+              "titre": "Dialogue avec Simon Callow",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197948,
+              "dateHeure": "2025-10-16T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 33974,
+          "content": [
+            {
+              "idConf": 33974,
+              "titre": "Table Ronde Shakespeare et Welles",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197762,
+              "dateHeure": "2025-10-18T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 33972,
+          "content": [
+            {
+              "idConf": 33972,
+              "titre": "Dialogue avec Frederic Bonnaud",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197949,
+              "dateHeure": "2025-10-26T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 33975,
+          "content": [
+            {
+              "idConf": 33975,
+              "titre": "Conférence de François Thomas",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197765,
+              "dateHeure": "2025-10-31T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 33976,
+          "content": [
+            {
+              "idConf": 33976,
+              "titre": "Dialogue avec Etève Riambau",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197950,
+              "dateHeure": "2025-11-01T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 33964,
+          "content": [
+            {
+              "idConf": 33964,
+              "titre": "Film + Dialogue avec Jean-Philippe Trias",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197953,
+              "dateHeure": "2025-11-15T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Conférence de François Thomas",
+        "mention": "Conférence ",
+        "dateHeure": "2025-10-31T19:00:00"
+      }
+    ],
+    "Dialogues": [
+      {
+        "mention": "avec Frederic Bonnaud",
+        "dateHeure": "2025-10-11T17:00:00"
+      },
+      {
+        "mention": "avec Simon Callow",
+        "dateHeure": "2025-10-16T21:00:00"
+      },
+      {
+        "mention": "Table Ronde Shakespeare et Welles",
+        "dateHeure": "2025-10-18T16:30:00"
+      },
+      {
+        "mention": "avec Frederic Bonnaud",
+        "dateHeure": "2025-10-26T17:00:00"
+      },
+      {
+        "mention": "avec Etève Riambau",
+        "dateHeure": "2025-11-01T16:30:00"
+      },
+      {
+        "mention": "Film + Dialogue avec Jean-Philippe Trias",
+        "dateHeure": "2025-11-15T16:30:00"
+      }
+    ]
+  }
 }

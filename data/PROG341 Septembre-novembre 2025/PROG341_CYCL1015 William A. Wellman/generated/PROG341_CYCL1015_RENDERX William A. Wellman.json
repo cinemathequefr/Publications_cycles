@@ -464,7 +464,7 @@
               "pays": "États-Unis",
               "annee": 1933,
               "duree": 76,
-              "version": "VO",
+              "version": "VOSTF",
               "format": "16 mm",
               "generique": [
                 "Dick Powell",
@@ -2005,7 +2005,39 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33695,
+          "content": [
+            {
+              "idConf": 33695,
+              "titre": "Conférence Wellman par M. Macheret",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197732,
+              "dateHeure": "2025-09-04T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Conférence Wellman par M. Macheret",
+        "mention": "Conférence ",
+        "dateHeure": "2025-09-04T19:00:00"
+      }
+    ]
+  }
 }

@@ -1,0 +1,82 @@
+{
+  "datesCycle": [
+    "2025-11-02T17:00:00",
+    "2025-11-16T16:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33981,
+          "content": [
+            {
+              "idConf": 33981,
+              "titre": "Dialogue avec Noel Herpe",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197940,
+              "dateHeure": "2025-11-02T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 33982,
+          "content": [
+            {
+              "idConf": 33982,
+              "titre": "dialogue avec Nicolas Pariser",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197952,
+              "dateHeure": "2025-11-09T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 33983,
+          "content": [
+            {
+              "idConf": 33983,
+              "titre": "Dialogue avec Axelle Roppert",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197941,
+              "dateHeure": "2025-11-16T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "mention": "avec Noel Herpe",
+        "dateHeure": "2025-11-02T17:00:00"
+      },
+      {
+        "mention": "dialogue avec Nicolas Pariser",
+        "dateHeure": "2025-11-09T16:30:00"
+      },
+      {
+        "mention": "avec Axelle Roppert",
+        "dateHeure": "2025-11-16T16:30:00"
+      }
+    ]
+  }
+}

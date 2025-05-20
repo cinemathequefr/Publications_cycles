@@ -255,7 +255,8 @@
             {
               "idSeance": 195272,
               "dateHeure": "2025-09-05T21:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Dominique Besnehard"
             },
             {
               "idSeance": 195645,
@@ -838,6 +839,24 @@
           ]
         },
         {
+          "idConf": 33719,
+          "content": [
+            {
+              "idConf": 33719,
+              "titre": "conférence Jerome Momcilovic",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197756,
+              "dateHeure": "2025-09-11T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idConf": 33717,
           "content": [
             {
@@ -875,6 +894,13 @@
     }
   ],
   "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "conférence Jerome Momcilovic",
+        "mention": "Conférence ",
+        "dateHeure": "2025-09-11T19:00:00"
+      }
+    ],
     "Dialogues": [
       {
         "mention": "avec Arlette Langmann et Florence Quentin",
@@ -906,6 +932,11 @@
         "titreFilms": "La Gueule ouverte",
         "mention": "par Bernard Dubois",
         "dateHeure": "2025-09-05T19:00:00"
+      },
+      {
+        "titreFilms": "Passe ton bac d'abord",
+        "mention": "par Dominique Besnehard",
+        "dateHeure": "2025-09-05T21:00:00"
       },
       {
         "titreFilms": "La Maison des bois / La Maison des bois",

@@ -1,0 +1,61 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33936,
+          "content": [
+            {
+              "idConf": 33936,
+              "titre": "Conférence Imax",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197763,
+              "dateHeure": "2025-10-24T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 33937,
+          "content": [
+            {
+              "idConf": 33937,
+              "titre": "Conférence Greg Toland",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197766,
+              "dateHeure": "2025-11-14T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Conférences": [
+      {
+        "titre": "Conférence Imax",
+        "mention": "Conférence ",
+        "dateHeure": "2025-10-24T17:00:00"
+      },
+      {
+        "titre": "Conférence Greg Toland",
+        "mention": "Conférence ",
+        "dateHeure": "2025-11-14T17:00:00"
+      }
+    ]
+  }
+}

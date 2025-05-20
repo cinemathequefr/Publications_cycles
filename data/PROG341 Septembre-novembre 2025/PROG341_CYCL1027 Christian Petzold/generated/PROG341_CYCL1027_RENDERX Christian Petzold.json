@@ -349,7 +349,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33977,
+          "content": [
+            {
+              "idConf": 33977,
+              "titre": "Leçon de cinéma Christian Petzold",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197754,
+              "dateHeure": "2025-08-30T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Leçon de cinéma Christian Petzold",
+        "dateHeure": "2025-08-30T17:30:00"
+      }
+    ]
+  }
 }

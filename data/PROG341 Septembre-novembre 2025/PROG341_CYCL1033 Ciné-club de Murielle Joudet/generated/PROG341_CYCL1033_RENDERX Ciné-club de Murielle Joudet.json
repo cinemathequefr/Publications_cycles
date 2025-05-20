@@ -71,7 +71,79 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33965,
+          "content": [
+            {
+              "idConf": 33965,
+              "titre": "Dialogue avec Murielle Joudet",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197733,
+              "dateHeure": "2025-09-18T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 33966,
+          "content": [
+            {
+              "idConf": 33966,
+              "titre": "Dialogue avec Murielle Joudet",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197751,
+              "dateHeure": "2025-10-23T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 33967,
+          "content": [
+            {
+              "idConf": 33967,
+              "titre": "Dialogue avec Murielle Joudet",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197735,
+              "dateHeure": "2025-11-19T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "mention": "avec Murielle Joudet",
+        "dateHeure": "2025-09-18T21:00:00"
+      },
+      {
+        "mention": "avec Murielle Joudet",
+        "dateHeure": "2025-10-23T19:00:00"
+      },
+      {
+        "mention": "avec Murielle Joudet",
+        "dateHeure": "2025-11-19T21:00:00"
+      }
+    ]
+  }
 }
