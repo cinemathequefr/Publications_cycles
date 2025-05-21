@@ -96,6 +96,29 @@
   * Nectar  
   * Tour de glace (La)
 
+## Ma petite Cinémathèque (20)
+
+  * Arrietty : Le Petit Monde des chapardeurs  
+  * Aventures de Robin des Bois (Les)  
+  * Belle au bois dormant (La)  
+  * Blanche-Neige et Rose-Rouge  
+  * Château dans le ciel (Le)  
+  * Dounia et la princesse d'Alep  
+  * Fievel et le nouveau monde  
+  * Grand Méchant Renard (Le)  
+  * Hansel and Gretel  
+  * Marche de l'empereur (La)  
+  * Mars Attacks!  
+  * Mon voisin Totoro  
+  * Noces funèbres (Les)  
+  * Petite Boutique des horreurs (La)  
+  * Poucette  
+  * Retour vers le futur  
+  * Retour vers le futur 2  
+  * Retour vers le futur 3  
+  * Roi lion (Le)  
+  * Secret des mésanges (Le)
+
 ## Maurice Pialat (34)
 
   * À nos amours  
