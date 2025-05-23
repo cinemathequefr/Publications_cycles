@@ -348,10 +348,9 @@
   * Saisons du cœur (Les)  
   * Un homme presque parfait
 
-## Robert Wise (38)
+## Robert Wise (37)
 
   * Audrey Rose  
-  * Brève rencontre à Paris  
   * Canonnière du Yang-Tsé (La)  
   * Cette nuit ou jamais  
   * Ciel rouge  
