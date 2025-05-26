@@ -19,7 +19,7 @@
   * Alien, la créature des abysses  
   * Blessure  
   * Bruce contre-attaque  
-  * Chaîne infernale du Ta Kang (La)  
+  * Chaîne infernale du Ta-Kang (La)  
   * Crypte du vampire (La)  
   * Empire des Ninjas (L')  
   * Étoile du sud (L')  
@@ -39,13 +39,13 @@
   * Française  
   * Graine et le mulet (La)  
   * Ma compagne de nuit  
-  * Mektoub my Love : Canto uno  
+  * Mektoub, My Love : Canto uno  
   * Petite Dernière (La)  
   * Ravissement (Le)  
   * Rodba (Le)  
   * Roi de l'évasion (Le)  
   * Secrets (Les)  
-  * Sex doll  
+  * Sex Doll  
   * Source des femmes (La)  
   * Tu mérites un amour
 
@@ -106,7 +106,7 @@
   * Dounia et la princesse d'Alep  
   * Fievel et le nouveau monde  
   * Grand Méchant Renard (Le)  
-  * Hansel and Gretel  
+  * Hansel et Gretel  
   * Marche de l'empereur (La)  
   * Mars Attacks!  
   * Mon voisin Totoro  
@@ -158,7 +158,7 @@
 
 ## Shakespeare au cinéma (2)
 
-  * Château de l'Araignée (Le)  
+  * Château de l'araignée (Le)  
   * Falstaff
 
 ## Shirley Clarke (6)
@@ -170,7 +170,7 @@
   * Ornette: Made in America  
   * Portrait of Jason
 
-## Stephen Frears (24)
+## Stephen Frears (23)
 
   * Arnaqueurs (Les)  
   * Chéri  
@@ -186,7 +186,6 @@
   * Madame Henderson présente  
   * Mary Reilly  
   * Muhammad Ali's Greatest Fight  
-  * My Beautiful Laundrette  
   * Philomena  
   * Prick Up  
   * Program (The)  
