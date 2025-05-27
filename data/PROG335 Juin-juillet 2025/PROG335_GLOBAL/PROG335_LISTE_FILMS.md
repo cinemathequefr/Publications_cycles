@@ -414,13 +414,13 @@
   * Hôtel du Parc : La Révolution nationale  
   * Jeanne Dielman, 23, quai du Commerce 1080 Bruxelles  
   * Lina Esbrard, danse serpentine  
+  * Mambo Dreams  
   * Matelas épileptique (Le)  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
   * Notre mémoire  
   * Piano irrésistible (Le)  
   * Starting Something  
-  * Sueño de ayer (El)  
   * Une héroïne de quatre ans
 
 ## Wes Anderson (8)
