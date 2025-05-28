@@ -1,5 +1,30 @@
 [
   {
+    "idSeance": 198016,
+    "idEvenement": 33934,
+    "dateHeure": "2025-08-26T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Christian Petzold",
+        "Les films"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 155347,
+        "titre": "Miroirs No. 3",
+        "realisateurs": "Christian Petzold",
+        "annee": 2025,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155347"
+  },
+  {
     "idSeance": 195005,
     "idEvenement": 32805,
     "dateHeure": "2025-08-27T16:00:00",
@@ -22,28 +47,53 @@
     "hashEvenement": "f51836"
   },
   {
-    "idSeance": 195009,
-    "idEvenement": 33768,
+    "idSeance": 198018,
+    "idEvenement": 33775,
     "dateHeure": "2025-08-27T18:30:00",
     "salle": "GF",
     "cycle": [
       [
         "Christian Petzold",
-        "Courts métrages"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 151799,
-        "titre": "Au sud",
+        "idFilm": 125819,
+        "titre": "Phoenix",
         "realisateurs": "Christian Petzold",
-        "annee": 1990,
-        "duree": 9,
-        "version": "VO",
-        "format": "16 mm"
+        "annee": 2014,
+        "duree": 98,
+        "version": "VOSTF"
       }
     ],
-    "hashEvenement": "f151799"
+    "hashEvenement": "f125819"
+  },
+  {
+    "idSeance": 195007,
+    "idEvenement": 33532,
+    "dateHeure": "2025-08-27T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "William A. Wellman",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 36783,
+        "titre": "Ailes",
+        "art": "Les",
+        "realisateurs": "William A. Wellman",
+        "annee": 1927,
+        "duree": 144,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f36783"
   },
   {
     "idSeance": 197889,
@@ -163,32 +213,6 @@
     "hashEvenement": "f141659"
   },
   {
-    "idSeance": 195007,
-    "idEvenement": 33532,
-    "dateHeure": "2025-08-28T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "William A. Wellman",
-        "Les films"
-      ]
-    ],
-    "mention": "Ouverture de la rétrospective",
-    "items": [
-      {
-        "idFilm": 36783,
-        "titre": "Ailes",
-        "art": "Les",
-        "realisateurs": "William A. Wellman",
-        "annee": 1927,
-        "duree": 144,
-        "version": "INT. FR.",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f36783"
-  },
-  {
     "idSeance": 195041,
     "idEvenement": 33772,
     "dateHeure": "2025-08-28T20:30:00",
@@ -210,6 +234,30 @@
       }
     ],
     "hashEvenement": "f138096"
+  },
+  {
+    "idSeance": 195085,
+    "idEvenement": 33475,
+    "dateHeure": "2025-08-28T20:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "William A. Wellman",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36902,
+        "titre": "Convoi de femmes",
+        "realisateurs": "William A. Wellman",
+        "annee": 1951,
+        "duree": 118,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f36902"
   },
   {
     "idSeance": 197748,
@@ -329,30 +377,6 @@
     "hashEvenement": "f107762"
   },
   {
-    "idSeance": 195085,
-    "idEvenement": 33475,
-    "dateHeure": "2025-08-29T20:45:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "William A. Wellman",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36902,
-        "titre": "Convoi de femmes",
-        "realisateurs": "William A. Wellman",
-        "annee": 1951,
-        "duree": 118,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f36902"
-  },
-  {
     "idSeance": 195087,
     "idEvenement": 33701,
     "dateHeure": "2025-08-29T21:00:00",
@@ -402,26 +426,28 @@
     "hashEvenement": "f106790"
   },
   {
-    "idSeance": 197833,
-    "idEvenement": 33771,
+    "idSeance": 198017,
+    "idEvenement": 33769,
     "dateHeure": "2025-08-30T15:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Christian Petzold",
-        "Films pour la télévision"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 120559,
-        "titre": "Dreileben",
-        "realisateurs": "Christian Petzold, Dominik Graf, Christoph Hochhäusler",
-        "annee": 2011,
-        "version": "VO"
+        "idFilm": 116153,
+        "titre": "Barbara",
+        "realisateurs": "Christian Petzold",
+        "annee": 2012,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f120559"
+    "hashEvenement": "f116153"
   },
   {
     "idSeance": 195127,
@@ -492,28 +518,26 @@
     "hashEvenement": "f30389"
   },
   {
-    "idSeance": 197829,
-    "idEvenement": 33769,
+    "idSeance": 198019,
+    "idEvenement": 33771,
     "dateHeure": "2025-08-30T18:30:00",
     "salle": "JE",
     "cycle": [
       [
         "Christian Petzold",
-        "Les films"
+        "Films pour la télévision"
       ]
     ],
     "items": [
       {
-        "idFilm": 116153,
-        "titre": "Barbara",
-        "realisateurs": "Christian Petzold",
-        "annee": 2012,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 120559,
+        "titre": "Dreileben",
+        "realisateurs": "Christian Petzold, Dominik Graf, Christoph Hochhäusler",
+        "annee": 2011,
+        "version": "VO"
       }
     ],
-    "hashEvenement": "f116153"
+    "hashEvenement": "f120559"
   },
   {
     "idSeance": 195128,
@@ -540,27 +564,28 @@
     "hashEvenement": "f36835"
   },
   {
-    "idSeance": 197830,
-    "idEvenement": 33775,
+    "idSeance": 198020,
+    "idEvenement": 33768,
     "dateHeure": "2025-08-30T20:30:00",
     "salle": "JE",
     "cycle": [
       [
         "Christian Petzold",
-        "Les films"
+        "Courts métrages"
       ]
     ],
     "items": [
       {
-        "idFilm": 125819,
-        "titre": "Phoenix",
+        "idFilm": 151799,
+        "titre": "Au sud",
         "realisateurs": "Christian Petzold",
-        "annee": 2014,
-        "duree": 98,
-        "version": "VOSTF"
+        "annee": 1990,
+        "duree": 9,
+        "version": "VO",
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f125819"
+    "hashEvenement": "f151799"
   },
   {
     "idSeance": 197895,
@@ -682,7 +707,7 @@
   {
     "idSeance": 195148,
     "idEvenement": 33774,
-    "dateHeure": "2025-08-31T18:30:00",
+    "dateHeure": "2025-08-31T17:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -727,6 +752,31 @@
       }
     ],
     "hashEvenement": "f45149"
+  },
+  {
+    "idSeance": 198021,
+    "idEvenement": 33935,
+    "dateHeure": "2025-08-31T20:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Christian Petzold",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155348,
+        "titre": "Ciel rouge",
+        "art": "Le",
+        "realisateurs": "Christian Petzold",
+        "annee": 2023,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155348"
   },
   {
     "idSeance": 197897,

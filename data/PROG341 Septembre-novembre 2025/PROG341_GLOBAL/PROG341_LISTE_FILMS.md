@@ -1,13 +1,15 @@
 # Liste des films par cycle
 
-## Christian Petzold (11)
+## Christian Petzold (13)
 
   * Au sud  
   * Barbara  
+  * Ciel rouge (Le)  
   * Contrôle d'identité  
   * Dreileben  
   * Fantômes  
   * Jerichow  
+  * Miroirs No. 3  
   * Ombre de l'enfant (L')  
   * Ondine  
   * Phoenix  

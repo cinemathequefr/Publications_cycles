@@ -1,24 +1,49 @@
 [
   {
-    "idCategorie": 3892,
+    "idCategorie": 3869,
     "typeEvenement": 13,
-    "idEvenement": 33768,
-    "idSeance": 195009,
+    "idEvenement": 33934,
+    "idSeance": 198016,
+    "dateHeure": "2025-08-26T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "typeSeance": 43,
+    "items": [
+      {
+        "idFilm": 155347,
+        "ordre": 1,
+        "idSeance": 198016,
+        "idCopie": 30223,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Avant-première"
+  },
+  {
+    "idCategorie": 3869,
+    "typeEvenement": 13,
+    "idEvenement": 33775,
+    "idSeance": 198018,
     "dateHeure": "2025-08-27T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 151799,
+        "idFilm": 125819,
         "ordre": 1,
-        "idSeance": 195009,
-        "idCopie": 30234,
-        "duree": 9,
-        "version": "VO",
-        "format": "16 mm"
+        "idSeance": 198018,
+        "idCopie": 30227,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": ""
       }
     ]
   },
@@ -138,25 +163,25 @@
     ]
   },
   {
-    "idCategorie": 3891,
+    "idCategorie": 3869,
     "typeEvenement": 13,
-    "idEvenement": 33771,
-    "idSeance": 197833,
+    "idEvenement": 33769,
+    "idSeance": 198017,
     "dateHeure": "2025-08-30T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 120559,
+        "idFilm": 116153,
         "ordre": 1,
-        "idSeance": 197833,
-        "idCopie": 30228,
-        "duree": 0,
-        "version": "VO",
-        "format": ""
+        "idSeance": 198017,
+        "idCopie": 741,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -176,10 +201,10 @@
     ]
   },
   {
-    "idCategorie": 3869,
+    "idCategorie": 3891,
     "typeEvenement": 13,
-    "idEvenement": 33769,
-    "idSeance": 197829,
+    "idEvenement": 33771,
+    "idSeance": 198019,
     "dateHeure": "2025-08-30T18:30:00",
     "idSalle": [
       "JE",
@@ -188,36 +213,36 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 116153,
+        "idFilm": 120559,
         "ordre": 1,
-        "idSeance": 197829,
-        "idCopie": 741,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idSeance": 198019,
+        "idCopie": 30228,
+        "duree": 0,
+        "version": "VO",
+        "format": ""
       }
     ]
   },
   {
-    "idCategorie": 3869,
+    "idCategorie": 3892,
     "typeEvenement": 13,
-    "idEvenement": 33775,
-    "idSeance": 197830,
+    "idEvenement": 33768,
+    "idSeance": 198020,
     "dateHeure": "2025-08-30T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 45,
     "items": [
       {
-        "idFilm": 125819,
+        "idFilm": 151799,
         "ordre": 1,
-        "idSeance": 197830,
-        "idCopie": 30227,
-        "duree": 98,
-        "version": "VOSTF",
-        "format": ""
+        "idSeance": 198020,
+        "idCopie": 30234,
+        "duree": 9,
+        "version": "VO",
+        "format": "16 mm"
       }
     ]
   },
@@ -249,7 +274,7 @@
     "typeEvenement": 13,
     "idEvenement": 33774,
     "idSeance": 195148,
-    "dateHeure": "2025-08-31T18:30:00",
+    "dateHeure": "2025-08-31T17:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -262,6 +287,29 @@
         "idSeance": 195148,
         "idCopie": 30225,
         "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3869,
+    "typeEvenement": 13,
+    "idEvenement": 33935,
+    "idSeance": 198021,
+    "dateHeure": "2025-08-31T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 155348,
+        "ordre": 1,
+        "idSeance": 198021,
+        "idCopie": 30224,
+        "duree": 102,
         "version": "VOSTF",
         "format": "DCP"
       }
