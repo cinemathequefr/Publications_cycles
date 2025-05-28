@@ -66,10 +66,25 @@
   * Provinciale (La)  
   * Un enfant de Calabre
 
-## John Schlesinger (2)
+## John Schlesinger (17)
 
+  * Au-delà des lois  
+  * Autoroute en délire  
+  * Billy le menteur  
+  * Darling chérie  
+  * Envoûtés (Les)  
+  * Fenêtre sur Pacifique  
+  * Innocent (L')  
+  * Jeu du faucon (Le)  
+  * Jour du fléau (Le)  
+  * Loin de la foule déchaînée  
   * Macadam Cowboy  
-  * Marathon Man
+  * Madame Sousatzka  
+  * Marathon Man  
+  * Un amour pas comme les autres  
+  * Un couple presque parfait  
+  * Un dimanche comme les autres  
+  * Yanks
 
 ## Kathryn Bigelow (10)
 
@@ -172,31 +187,9 @@
   * Ornette: Made in America  
   * Portrait of Jason
 
-## Stephen Frears (23)
+## Stephen Frears (1)
 
-  * Arnaqueurs (Les)  
-  * Chéri  
-  * Confident royal  
-  * Dirty Pretty Things  
-  * Florence Foster Jenkins  
-  * Héros malgré lui  
-  * Hi-Lo Country (The)  
-  * High Fidelity  
-  * Lady Vegas  
-  * Liaisons dangereuses (Les)  
-  * Liam  
-  * Madame Henderson présente  
-  * Mary Reilly  
-  * Muhammad Ali's Greatest Fight  
-  * Philomena  
-  * Prick Up  
-  * Program (The)  
-  * Queen (The)  
-  * Sammy et Rosie s'envoient en l'air  
-  * Snapper (The)  
-  * Tamara Drewe  
-  * Typically British: A Personal History of British Cinema by Stephen Frears  
-  * Van (The)
+  * Lady Vegas
 
 ## William A. Wellman (64)
 
