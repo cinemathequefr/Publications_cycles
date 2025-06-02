@@ -189,7 +189,7 @@
     "hashEvenement": "f30405"
   },
   {
-    "idSeance": 197746,
+    "idSeance": 198043,
     "idEvenement": 33777,
     "dateHeure": "2025-08-28T18:30:00",
     "salle": "GF",
@@ -213,7 +213,7 @@
     "hashEvenement": "f141659"
   },
   {
-    "idSeance": 195041,
+    "idSeance": 198044,
     "idEvenement": 33772,
     "dateHeure": "2025-08-28T20:30:00",
     "salle": "GF",
@@ -306,7 +306,7 @@
     "hashEvenement": "f118362"
   },
   {
-    "idSeance": 195088,
+    "idSeance": 198046,
     "idEvenement": 33778,
     "dateHeure": "2025-08-29T18:00:00",
     "salle": "JE",
@@ -378,7 +378,7 @@
     "hashEvenement": "f55767"
   },
   {
-    "idSeance": 197828,
+    "idSeance": 198047,
     "idEvenement": 33773,
     "dateHeure": "2025-08-29T20:00:00",
     "salle": "JE",
@@ -498,7 +498,7 @@
     "hashEvenement": "f31685"
   },
   {
-    "idSeance": 198017,
+    "idSeance": 198045,
     "idEvenement": 33769,
     "dateHeure": "2025-08-30T15:00:00",
     "salle": "GF",
@@ -615,7 +615,7 @@
     "hashEvenement": "f31133"
   },
   {
-    "idSeance": 198019,
+    "idSeance": 198048,
     "idEvenement": 33771,
     "dateHeure": "2025-08-30T18:30:00",
     "salle": "JE",
@@ -755,9 +755,9 @@
     "hashEvenement": "f30408"
   },
   {
-    "idSeance": 197834,
+    "idSeance": 198049,
     "idEvenement": 33776,
-    "dateHeure": "2025-08-31T15:30:00",
+    "dateHeure": "2025-08-31T15:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -850,7 +850,7 @@
     "hashEvenement": "f29162"
   },
   {
-    "idSeance": 195148,
+    "idSeance": 198050,
     "idEvenement": 33774,
     "dateHeure": "2025-08-31T17:30:00",
     "salle": "JE",
@@ -872,6 +872,31 @@
       }
     ],
     "hashEvenement": "f144159"
+  },
+  {
+    "idSeance": 198051,
+    "idEvenement": 33935,
+    "dateHeure": "2025-08-31T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Christian Petzold",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155348,
+        "titre": "Ciel rouge",
+        "art": "Le",
+        "realisateurs": "Christian Petzold",
+        "annee": 2023,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155348"
   },
   {
     "idSeance": 197989,
@@ -897,31 +922,6 @@
       }
     ],
     "hashEvenement": "f45149"
-  },
-  {
-    "idSeance": 198021,
-    "idEvenement": 33935,
-    "dateHeure": "2025-08-31T20:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Christian Petzold",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155348,
-        "titre": "Ciel rouge",
-        "art": "Le",
-        "realisateurs": "Christian Petzold",
-        "annee": 2023,
-        "duree": 102,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155348"
   },
   {
     "idSeance": 197897,
@@ -3118,7 +3118,7 @@
   {
     "idSeance": 195692,
     "idEvenement": 33674,
-    "dateHeure": "2025-09-20T18:45:00",
+    "dateHeure": "2025-09-20T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3158,7 +3158,7 @@
   {
     "idSeance": 195693,
     "idEvenement": 33485,
-    "dateHeure": "2025-09-20T20:15:00",
+    "dateHeure": "2025-09-20T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3732,7 +3732,7 @@
   {
     "idSeance": 195898,
     "idEvenement": 33512,
-    "dateHeure": "2025-09-28T16:45:00",
+    "dateHeure": "2025-09-28T17:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3778,7 +3778,7 @@
   {
     "idSeance": 195894,
     "idEvenement": 33519,
-    "dateHeure": "2025-09-28T19:00:00",
+    "dateHeure": "2025-09-28T19:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3924,34 +3924,9 @@
     "hashEvenement": "f36926"
   },
   {
-    "idSeance": 197966,
-    "idEvenement": 33655,
-    "dateHeure": "2025-10-01T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "John Schlesinger",
-        "Les films"
-      ]
-    ],
-    "mention": "Ouverture de la rétrospective",
-    "items": [
-      {
-        "idFilm": 35364,
-        "titre": "Marathon Man",
-        "realisateurs": "John Schlesinger",
-        "annee": 1976,
-        "duree": 125,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f35364"
-  },
-  {
     "idSeance": 197826,
     "idEvenement": 33362,
-    "dateHeure": "2025-10-01T20:00:00",
+    "dateHeure": "2025-10-01T19:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -4020,6 +3995,31 @@
       }
     ],
     "hashEvenement": "f68757f77496f77497f77498f77501f77499f117240"
+  },
+  {
+    "idSeance": 197966,
+    "idEvenement": 33655,
+    "dateHeure": "2025-10-01T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "John Schlesinger",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 35364,
+        "titre": "Marathon Man",
+        "realisateurs": "John Schlesinger",
+        "annee": 1976,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35364"
   },
   {
     "idSeance": 195945,
@@ -4167,28 +4167,6 @@
     "hashEvenement": "c33966"
   },
   {
-    "idSeance": 197869,
-    "idEvenement": 33830,
-    "dateHeure": "2025-10-03T14:15:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Hafsia Herzi",
-        "Hafsia Herzi actrice"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 108435,
-        "titre": "Roi de l'évasion",
-        "art": "Le",
-        "realisateurs": "Alain Guiraudie",
-        "annee": 2008
-      }
-    ],
-    "hashEvenement": "f108435"
-  },
-  {
     "idSeance": 197996,
     "idEvenement": 33840,
     "dateHeure": "2025-10-03T15:30:00",
@@ -4236,9 +4214,52 @@
     "hashEvenement": "f45271"
   },
   {
+    "idSeance": 197869,
+    "idEvenement": 33830,
+    "dateHeure": "2025-10-03T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Hafsia Herzi",
+        "Hafsia Herzi actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 108435,
+        "titre": "Roi de l'évasion",
+        "art": "Le",
+        "realisateurs": "Alain Guiraudie",
+        "annee": 2008
+      }
+    ],
+    "hashEvenement": "f108435"
+  },
+  {
+    "idSeance": 196023,
+    "idEvenement": 33831,
+    "dateHeure": "2025-10-03T20:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Hafsia Herzi",
+        "Hafsia Herzi actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 104372,
+        "titre": "Française",
+        "realisateurs": "Souad El-Bouhati",
+        "annee": 2007
+      }
+    ],
+    "hashEvenement": "f104372"
+  },
+  {
     "idSeance": 198000,
     "idEvenement": 33649,
-    "dateHeure": "2025-10-03T20:30:00",
+    "dateHeure": "2025-10-03T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4258,27 +4279,6 @@
       }
     ],
     "hashEvenement": "f45122"
-  },
-  {
-    "idSeance": 196023,
-    "idEvenement": 33831,
-    "dateHeure": "2025-10-03T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Hafsia Herzi",
-        "Hafsia Herzi actrice"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 104372,
-        "titre": "Française",
-        "realisateurs": "Souad El-Bouhati",
-        "annee": 2007
-      }
-    ],
-    "hashEvenement": "f104372"
   },
   {
     "idSeance": 198001,
@@ -4305,27 +4305,6 @@
     "hashEvenement": "f42026"
   },
   {
-    "idSeance": 197870,
-    "idEvenement": 33828,
-    "dateHeure": "2025-10-04T14:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Hafsia Herzi",
-        "Hafsia Herzi actrice"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 112946,
-        "titre": "Ma compagne de nuit",
-        "realisateurs": "Isabelle Brocard",
-        "annee": 2009
-      }
-    ],
-    "hashEvenement": "f112946"
-  },
-  {
     "idSeance": 196065,
     "idEvenement": 33499,
     "dateHeure": "2025-10-04T15:00:00",
@@ -4349,6 +4328,27 @@
       }
     ],
     "hashEvenement": "f96766"
+  },
+  {
+    "idSeance": 197870,
+    "idEvenement": 33828,
+    "dateHeure": "2025-10-04T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Hafsia Herzi",
+        "Hafsia Herzi actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 112946,
+        "titre": "Ma compagne de nuit",
+        "realisateurs": "Isabelle Brocard",
+        "annee": 2009
+      }
+    ],
+    "hashEvenement": "f112946"
   },
   {
     "idSeance": 197764,
@@ -5993,7 +5993,7 @@
     "cycle": [
       [
         "Parlons cinéma... avec Yasmina Reza",
-        "Les films"
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6360,7 +6360,7 @@
     "cycle": [
       [
         "Parlons cinéma... avec Yasmina Reza",
-        "Les films"
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6613,7 +6613,7 @@
     "cycle": [
       [
         "Parlons cinéma... avec Yasmina Reza",
-        "Les films"
+        "Rencontres et conférences"
       ]
     ],
     "items": [
