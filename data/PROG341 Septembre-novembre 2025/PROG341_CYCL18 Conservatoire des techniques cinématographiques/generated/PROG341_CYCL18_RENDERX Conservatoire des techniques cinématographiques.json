@@ -9,10 +9,7 @@
           "idConf": 33936,
           "content": [
             {
-              "idConf": 33936,
-              "titre": "Conférence Imax",
-              "sousTitre": "Conférence ",
-              "typeConference": "Conférence"
+              "idConf": 33936
             }
           ],
           "seances": [
@@ -28,8 +25,8 @@
           "content": [
             {
               "idConf": 33937,
-              "titre": "Conférence Greg Toland",
-              "sousTitre": "Conférence ",
+              "titre": "[Conférence de Greg Toland]",
+              "sousTitre": "",
               "typeConference": "Conférence"
             }
           ],
@@ -45,17 +42,14 @@
     }
   ],
   "syntheseAction": {
-    "Conférences": [
+    "Conférence": [
       {
-        "titre": "Conférence Imax",
-        "mention": "Conférence ",
-        "dateHeure": "2025-10-24T17:00:00"
-      },
-      {
-        "titre": "Conférence Greg Toland",
-        "mention": "Conférence ",
+        "titre": "[Conférence de Greg Toland]",
         "dateHeure": "2025-11-14T17:00:00"
       }
+    ],
+    "undefined": [
+      {}
     ]
   }
 }

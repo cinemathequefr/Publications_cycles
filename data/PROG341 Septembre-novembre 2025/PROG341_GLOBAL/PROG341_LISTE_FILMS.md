@@ -202,6 +202,12 @@
   * Fish Tank  
   * In the Cut
 
+## Sacha Guitry (3)
+
+  * Comédien (Le)  
+  * Donne-moi tes yeux  
+  * Trois font la paire (Les)
+
 ## Shakespeare au cinéma (1)
 
   * Château de l'araignée (Le)
