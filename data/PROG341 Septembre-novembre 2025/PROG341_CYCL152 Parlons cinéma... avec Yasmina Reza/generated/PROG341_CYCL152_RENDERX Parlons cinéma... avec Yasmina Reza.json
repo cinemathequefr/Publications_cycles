@@ -3,6 +3,146 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 88450,
+          "content": [
+            {
+              "idFilm": 88450,
+              "ordre": 1,
+              "titre": "In the Cut",
+              "realisateurs": "Jane Campion",
+              "pays": "États-Unis",
+              "annee": 2003,
+              "adaptation": "D'après le roman _À vif_ de Susanna Moore."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197714,
+              "dateHeure": "2025-10-30T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "titre": "Dialogue avec Yasmina Reza",
+              "duree": 60
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198022,
+              "dateHeure": "2025-10-30T21:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 103462,
+          "content": [
+            {
+              "idFilm": 103462,
+              "ordre": 1,
+              "titre": "Fête du feu",
+              "art": "La",
+              "titreVo": "Tchahârchanbé-souri",
+              "realisateurs": "Asghar Farhadi",
+              "pays": "Iran",
+              "annee": 2006
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197715,
+              "dateHeure": "2025-11-13T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "titre": "Dialogue avec Yasmina Reza",
+              "duree": 60
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198023,
+              "dateHeure": "2025-11-13T21:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 43792,
+          "content": [
+            {
+              "idFilm": 43792,
+              "ordre": 1,
+              "titre": "Cría cuervos",
+              "realisateurs": "Carlos Saura",
+              "pays": "Espagne",
+              "annee": 1976,
+              "generique": [
+                "Ana Torrent",
+                "Geraldine Chaplin",
+                "Conchita Pérez"
+              ],
+              "miniTexte": "Madrid, 1975. Ana, 9 ans (extraordinaire Ana Torrent), à peine orpheline, est recueillie par une tante rigoriste et se réfugie dans l'imaginaire, faisant revivre sa mère de fantasmes en souvenirs. En un film d'amour poignant, succession de flashbacks et autant d'instants de grâce, Saura explore le lien filial, explique l'enfance confrontée au monde des adultes. Et bâtit une métaphore saisissante de l'Espagne franquiste, à jamais indissociable du tube de Jeanette, _Porque te vas_."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197716,
+              "dateHeure": "2025-11-20T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "titre": "Dialogue avec Yasmina Reza",
+              "duree": 60
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198024,
+              "dateHeure": "2025-11-20T21:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 108187,
+          "content": [
+            {
+              "idFilm": 108187,
+              "ordre": 1,
+              "titre": "Fish Tank",
+              "realisateurs": "Andrea Arnold",
+              "pays": "Grande-Bretagne",
+              "annee": 2009
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198025,
+              "dateHeure": "2025-11-27T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
@@ -26,7 +166,19 @@
     }
   ],
   "syntheseAction": {
-    "Dialogue": [
+    "Dialogues": [
+      {
+        "mention": "avec Yasmina Reza",
+        "dateHeure": "2025-10-30T21:00:00"
+      },
+      {
+        "mention": "avec Yasmina Reza",
+        "dateHeure": "2025-11-13T21:00:00"
+      },
+      {
+        "mention": "avec Yasmina Reza",
+        "dateHeure": "2025-11-20T21:00:00"
+      },
       {
         "mention": "avec Yasmina Reza",
         "dateHeure": "2025-11-27T21:00:00"

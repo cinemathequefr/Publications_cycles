@@ -101,6 +101,10 @@
   * Strange Days  
   * Zero Dark Thirty
 
+## Le burlesque muet hollywoodien, 25 indispensables (1)
+
+  * Ruée vers l'or (La)
+
 ## Lucile Hadzihalilovic (7)
 
   * Bouche de Jean-Pierre (La)  
@@ -171,14 +175,36 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (1)
+## Orson Welles (17)
 
-  * Troisième Homme (Le)
+  * Citizen Kane  
+  * Criminel (Le)  
+  * Dame de Shanghaï (La)  
+  * De l'autre côté du vent [version Netflix]  
+  * Dossier secret  
+  * Falstaff  
+  * Filming Othello  
+  * Macbeth  
+  * Othello  
+  * Procès (Le)  
+  * Soif du mal (La)  
+  * Splendeur des Amberson (La)  
+  * Too Much Johnson  
+  * Troisième Homme (Le)  
+  * Une histoire immortelle  
+  * Vérités et Mensonges  
+  * Voyage au pays de la peur
 
-## Shakespeare au cinéma (2)
+## Parlons cinéma... avec Yasmina Reza (4)
 
-  * Château de l'araignée (Le)  
-  * Falstaff
+  * Cría cuervos  
+  * Fête du feu (La)  
+  * Fish Tank  
+  * In the Cut
+
+## Shakespeare au cinéma (1)
+
+  * Château de l'araignée (Le)
 
 ## Shirley Clarke (6)
 
@@ -192,6 +218,16 @@
 ## Stephen Frears (1)
 
   * Lady Vegas
+
+## Week-end Clint Eastwood (7)
+
+  * Breezy  
+  * Honkytonk Man  
+  * Impitoyable  
+  * Minuit dans le jardin du bien et du mal  
+  * Retour de l'inspecteur Harry (Le)  
+  * Sully  
+  * Un monde parfait
 
 ## William A. Wellman (64)
 

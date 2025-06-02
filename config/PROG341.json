@@ -9,8 +9,8 @@
       "isReg": true,
       "sousCycles": [
         {
-          "titre": "",
-          "cats": [],
+          "titre": "Alejandro Jodorowsky",
+          "cats": [3911],
           "tri": 4
         }
       ]
@@ -109,8 +109,17 @@
       "isReg": true,
       "titreCycle": "Parlons cinéma... avec Yasmina Reza",
       "sousCycles": [
-        { "titre": "Les films", "cats": [], "tri": 4 },
+        { "titre": "Les films", "cats": [3909], "tri": 4 },
         { "titre": "Rencontres et conférences", "cats": [3111], "tri": 4 }
+      ]
+    },
+    {
+      "idCycleProg": 472,
+      "titreCycle": "Archi Vives",
+      "isReg": true,
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3886], "tri": 4 },
+        { "titre": "Rencontres et conférences", "cats": [2757], "tri": 4 }
       ]
     },
     {
@@ -299,6 +308,13 @@
         { "titre": "Les films", "cats": [3897], "tri": 2 },
         { "titre": "Rencontres et conférences", "cats": [3898], "tri": 4 }
       ],
+      "excludeSeances": []
+    },
+    {
+      "idCycleProg": 1038,
+      "titreCycle": "Week-end Clint Eastwood",
+      "isReg": true,
+      "sousCycles": [{ "titre": "Les films", "cats": [3912], "tri": 2 }],
       "excludeSeances": []
     }
   ]
