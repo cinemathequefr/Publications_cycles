@@ -16,36 +16,37 @@
   * Transit  
   * Yella
 
-## Cinéma bis (14)
+## Cinéma bis (12)
 
   * Alien, la créature des abysses  
   * Blessure  
   * Bruce contre-attaque  
   * Chaîne infernale du Ta-Kang (La)  
-  * Crypte du vampire (La)  
   * Empire des Ninjas (L')  
   * Étoile du sud (L')  
   * Flag  
   * Infirmière a le bistouri facile (L')  
-  * Malédiction du vampire (La)  
   * Mission ninja  
   * Possédée du vice (La)  
   * Renard de Brooklyn (Le)  
   * Trois pour un massacre
 
-## Hafsia Herzi (11)
+## Hafsia Herzi (14)
 
   * Apollonide : Souvenirs de la maison close (L')  
+  * Bonne mère  
   * Cour (La)  
   * Française  
+  * Graine et le mulet (La)  
   * Ma compagne de nuit  
   * Mektoub, My Love : Canto uno  
   * Petite Dernière (La)  
-  * Rodba (Le)  
+  * Ravissement (Le)  
   * Roi de l'évasion (Le)  
   * Secrets (Les)  
   * Sex Doll  
-  * Source des femmes (La)
+  * Source des femmes (La)  
+  * Tu mérites un amour
 
 ## Histoire permanente du cinéma (18)
 
@@ -175,23 +176,35 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (18)
+## Orson Welles (30)
 
+  * Cagliostro  
   * Citizen Kane  
   * Criminel (Le)  
   * Dame de Shanghaï (La)  
   * De l'autre côté du vent [version Netflix]  
+  * Deep (The)  
+  * Don Quichotte  
   * Dossier secret  
+  * Échec à Borgia  
   * Falstaff  
   * Filming Othello  
+  * Génie du mal (Le)  
+  * It's All True : Based on an Unfinished Film by Orson Welles  
+  * Jane Eyre  
+  * Lettre du Kremlin (La)  
   * Macbeth  
+  * Malpertuis  
   * Moby Dick  
   * Othello  
   * Procès (Le)  
+  * Rogopag  
+  * Salaire du diable (Le)  
   * Soif du mal (La)  
   * Splendeur des Amberson (La)  
   * Too Much Johnson  
   * Troisième Homme (Le)  
+  * Un cri dans l'ombre  
   * Une histoire immortelle  
   * Vérités et Mensonges  
   * Voyage au pays de la peur
@@ -236,7 +249,7 @@
   * Sully  
   * Un monde parfait
 
-## William A. Wellman (64)
+## William A. Wellman (62)
 
   * Ailes (Les)  
   * Allée sanglante (L')  
@@ -286,13 +299,11 @@
   * Quartier chinois  
   * Rideau de fer (Le)  
   * Robin des Bois d'Eldorado  
-  * Rose de minuit  
   * Roxie Hart  
   * Ses premières ailes  
   * Signal (Le)  
   * Star Witness (The)  
   * Stingaree  
-  * Tempête sur la ligne  
   * This Man's Navy  
   * Tombeur du Michigan (Le)  
   * Track of the Cat  
