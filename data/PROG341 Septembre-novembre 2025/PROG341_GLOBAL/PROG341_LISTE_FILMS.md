@@ -102,9 +102,25 @@
   * Strange Days  
   * Zero Dark Thirty
 
-## Le burlesque muet hollywoodien, 25 indispensables (1)
+## Le burlesque muet hollywoodien, 25 indispensables (17)
 
-  * Ruée vers l'or (La)
+  * Athlète incomplet (L')  
+  * Bataille du siècle (La)  
+  * Cadet d'eau douce  
+  * Cirque (Le)  
+  * Croisière du Navigator (La)  
+  * Fiancées en folie (Les)  
+  * Kid (Le)  
+  * Lumières de la ville (Les)  
+  * Ma vache et moi  
+  * Mécano de la General (Le)  
+  * Monte là-dessus  
+  * Œil pour œil  
+  * Plein les bottes  
+  * Ruée vers l'or (La)  
+  * Sherlock Jr.  
+  * Vive la liberté  
+  * Vive le sport !
 
 ## Lucile Hadzihalilovic (7)
 

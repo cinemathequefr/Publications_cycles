@@ -202,7 +202,7 @@
     "idSeance": 194842,
     "idEvenement": 32849,
     "dateHeure": "2025-05-30T17:00:00",
-    "salle": "GF",
+    "salle": "LE",
     "cycle": [
       [
         "Histoire permanente du cinéma",
@@ -225,7 +225,7 @@
     "idSeance": 197618,
     "idEvenement": 33102,
     "dateHeure": "2025-05-30T18:00:00",
-    "salle": "JE",
+    "salle": "GF",
     "cycle": [
       [
         "Le cinéma chinois au féminin",
@@ -250,7 +250,7 @@
     "idSeance": 188571,
     "idEvenement": 32945,
     "dateHeure": "2025-05-30T19:00:00",
-    "salle": "GF",
+    "salle": "LE",
     "cycle": [
       [
         "Cinéma bis",
@@ -345,34 +345,10 @@
     "hashEvenement": "f106232f106234f106248f106229f106221f155194f105885"
   },
   {
-    "idSeance": 188572,
-    "idEvenement": 32944,
-    "dateHeure": "2025-05-30T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Cinéma bis",
-        "Polars français des années 80"
-      ]
-    ],
-    "mention": "Séance présentée par Rod Glacial",
-    "items": [
-      {
-        "idFilm": 51666,
-        "titre": "Un assassin qui passe",
-        "realisateurs": "Michel Vianey",
-        "annee": 1980,
-        "duree": 105,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f51666"
-  },
-  {
     "idSeance": 197619,
     "idEvenement": 33099,
     "dateHeure": "2025-05-30T21:00:00",
-    "salle": "JE",
+    "salle": "GF",
     "cycle": [
       [
         "Le cinéma chinois au féminin",
@@ -391,6 +367,30 @@
       }
     ],
     "hashEvenement": "f155195"
+  },
+  {
+    "idSeance": 188572,
+    "idEvenement": 32944,
+    "dateHeure": "2025-05-30T21:00:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Polars français des années 80"
+      ]
+    ],
+    "mention": "Séance présentée par Rod Glacial",
+    "items": [
+      {
+        "idFilm": 51666,
+        "titre": "Un assassin qui passe",
+        "realisateurs": "Michel Vianey",
+        "annee": 1980,
+        "duree": 105,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f51666"
   },
   {
     "idSeance": 194632,
@@ -5240,7 +5240,7 @@
         "titre": "Steamboy",
         "realisateurs": "Katsuhiro Ōtomo",
         "annee": 2004,
-        "duree": 125,
+        "duree": 126,
         "version": "VOSTF",
         "format": "35 mm"
       }
