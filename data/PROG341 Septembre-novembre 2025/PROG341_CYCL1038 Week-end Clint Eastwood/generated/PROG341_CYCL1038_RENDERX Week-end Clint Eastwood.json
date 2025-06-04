@@ -100,7 +100,7 @@
             {
               "idFilm": 29162,
               "ordre": 1,
-              "titre": "Minuit dans le jardin du bien et du mal",
+              "titre": "Minuit dans le jardin du Bien et du Mal",
               "titreVo": "Midnight in the Garden of Good and Evil",
               "realisateurs": "Clint Eastwood",
               "pays": "États-Unis",
@@ -219,7 +219,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34071,
+          "content": [
+            {
+              "idConf": 34071,
+              "titre": "Dialogue avec Bernard Benoliel",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198069,
+              "dateHeure": "2025-08-31T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "avec Bernard Benoliel",
+        "dateHeure": "2025-08-31T16:30:00"
+      }
+    ]
+  }
 }

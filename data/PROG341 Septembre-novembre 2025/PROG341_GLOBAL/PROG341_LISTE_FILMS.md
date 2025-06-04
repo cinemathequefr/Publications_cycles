@@ -260,7 +260,7 @@
   * Breezy  
   * Honkytonk Man  
   * Impitoyable  
-  * Minuit dans le jardin du bien et du mal  
+  * Minuit dans le jardin du Bien et du Mal  
   * Retour de l'inspecteur Harry (Le)  
   * Sully  
   * Un monde parfait
