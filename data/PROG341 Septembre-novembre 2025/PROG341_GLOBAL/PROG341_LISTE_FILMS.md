@@ -155,7 +155,7 @@
   * Roi lion (Le)  
   * Secret des mésanges (Le)
 
-## Maurice Pialat (34)
+## Maurice Pialat (40)
 
   * À nos amours  
   * Agnès Varda tourne  
@@ -176,7 +176,13 @@
   * Janine  
   * Loulou  
   * Lugdunum  
-  * Maison des bois (La)  
+  * Maison des bois, épisode 1 (La)  
+  * Maison des bois, épisode 2 (La)  
+  * Maison des bois, épisode 3 (La)  
+  * Maison des bois, épisode 4 (La)  
+  * Maison des bois, épisode 5 (La)  
+  * Maison des bois, épisode 6 (La)  
+  * Maison des bois, épisode 7 (La)  
   * Maître Galip  
   * Maurice Pialat, l'amour existe  
   * Nous ne vieillirons pas ensemble  
@@ -192,20 +198,18 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (30)
+## Orson Welles (28)
 
   * Cagliostro  
   * Citizen Kane  
   * Criminel (Le)  
   * Dame de Shanghaï (La)  
   * De l'autre côté du vent [version Netflix]  
-  * Deep (The)  
   * Don Quichotte  
   * Dossier secret  
   * Échec à Borgia  
   * Falstaff  
   * Filming Othello  
-  * Génie du mal (Le)  
   * It's All True : Based on an Unfinished Film by Orson Welles  
   * Jane Eyre  
   * Lettre du Kremlin (La)  
@@ -232,11 +236,33 @@
   * Fish Tank  
   * In the Cut
 
-## Sacha Guitry (3)
+## Sacha Guitry (25)
 
+  * Assassins et voleurs  
+  * Aux deux colombes  
+  * Bonne chance  
   * Comédien (Le)  
+  * Deburau  
+  * Désiré  
+  * Destin fabuleux de Désirée Clary (Le)  
+  * Diable boiteux (Le)  
   * Donne-moi tes yeux  
-  * Trois font la paire (Les)
+  * Faisons un rêve  
+  * Ils étaient neuf célibataires  
+  * Malibran (La)  
+  * Mon père avait raison  
+  * Nouveau Testament (Le)  
+  * Pasteur  
+  * Perles de la couronne (Les)  
+  * Poison (La)  
+  * Quadrille  
+  * Remontons les Champs-Élysées  
+  * Roman d'un tricheur (Le)  
+  * Si Versailles m'était conté  
+  * Toâ  
+  * Trois font la paire (Les)  
+  * Tu m'as sauvé la vie  
+  * Vie d'un honnête homme (La)
 
 ## Shakespeare au cinéma (1)
 
