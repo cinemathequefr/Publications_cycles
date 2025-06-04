@@ -1,5 +1,9 @@
 # Liste des films par cycle
 
+## Archi Vives (1)
+
+  * Sous la terre
+
 ## Christian Petzold (13)
 
   * Au sud  
@@ -16,15 +20,13 @@
   * Transit  
   * Yella
 
-## Cinéma bis (12)
+## Cinéma bis (10)
 
   * Alien, la créature des abysses  
-  * Blessure  
   * Bruce contre-attaque  
   * Chaîne infernale du Ta-Kang (La)  
   * Empire des Ninjas (L')  
   * Étoile du sud (L')  
-  * Flag  
   * Infirmière a le bistouri facile (L')  
   * Mission ninja  
   * Possédée du vice (La)  
@@ -51,11 +53,12 @@
 ## Histoire permanente du cinéma (18)
 
   * Amerika, rapports de classe  
+  * Amour l'après-midi (L')  
   * Bienvenue Mister Chance  
   * Brazil  
+  * Cavalier électrique (Le)  
   * Cría cuervos  
   * Element of Crime  
-  * Épreuve de force (L')  
   * Fantôme de la liberté (Le)  
   * Golden Eighties  
   * Liberté, la nuit  
@@ -66,8 +69,7 @@
   * Parfum de femme  
   * Peau (La)  
   * Pixote, la loi du plus faible  
-  * Provinciale (La)  
-  * Un enfant de Calabre
+  * Provinciale (La)
 
 ## John Schlesinger (17)
 
@@ -236,7 +238,7 @@
   * Fish Tank  
   * In the Cut
 
-## Sacha Guitry (25)
+## Sacha Guitry (27)
 
   * Assassins et voleurs  
   * Aux deux colombes  
@@ -249,6 +251,7 @@
   * Donne-moi tes yeux  
   * Faisons un rêve  
   * Ils étaient neuf célibataires  
+  * Je l'ai été trois fois  
   * Malibran (La)  
   * Mon père avait raison  
   * Nouveau Testament (Le)  
@@ -258,6 +261,7 @@
   * Quadrille  
   * Remontons les Champs-Élysées  
   * Roman d'un tricheur (Le)  
+  * Si Paris nous était conté  
   * Si Versailles m'était conté  
   * Toâ  
   * Trois font la paire (Les)  
@@ -276,6 +280,16 @@
   * Harlem Story  
   * Ornette: Made in America  
   * Portrait of Jason
+
+## Sigourney Weaver (7)
+
+  * Alien  
+  * Année de tous les dangers (L')  
+  * Call Jane  
+  * Gorilles dans la brume  
+  * Ice Storm (The)  
+  * Master Gardener  
+  * SOS Fantômes
 
 ## Stephen Frears (1)
 
