@@ -137,12 +137,15 @@
   * Nectar  
   * Tour de glace (La)
 
-## Ma petite Cinémathèque (20)
+## Ma petite Cinémathèque (23)
 
   * Arrietty : Le Petit Monde des chapardeurs  
   * Aventures de Robin des Bois (Les)  
+  * Bataille du siècle (La)  
   * Belle au bois dormant (La)  
   * Blanche-Neige et Rose-Rouge  
+  * Charlot garçon de café  
+  * Charlot machiniste  
   * Château dans le ciel (Le)  
   * Dounia et la princesse d'Alep  
   * Fievel et le nouveau monde  
@@ -241,32 +244,38 @@
   * Fish Tank  
   * In the Cut
 
-## Sacha Guitry (27)
+## Sacha Guitry (33)
 
   * Assassins et voleurs  
   * Aux deux colombes  
   * Bonne chance  
+  * Ceux de chez nous  
   * Comédien (Le)  
   * Deburau  
   * Désiré  
   * Destin fabuleux de Désirée Clary (Le)  
   * Diable boiteux (Le)  
+  * Dîner de gala des Ambassadeurs  
   * Donne-moi tes yeux  
   * Faisons un rêve  
   * Ils étaient neuf célibataires  
   * Je l'ai été trois fois  
+  * Loi du 21 juin 1907 (La)  
   * Malibran (La)  
+  * MCDXXIX-MCMXLII (De Jeanne d'Arc à Philippe Pétain)  
   * Mon père avait raison  
+  * Mot de Cambronne (Le)  
+  * Napoléon  
   * Nouveau Testament (Le)  
   * Pasteur  
   * Perles de la couronne (Les)  
   * Poison (La)  
   * Quadrille  
-  * Remontons les Champs-Élysées  
   * Roman d'un tricheur (Le)  
   * Si Paris nous était conté  
   * Si Versailles m'était conté  
   * Toâ  
+  * Trésor de Cantenac (Le)  
   * Trois font la paire (Les)  
   * Tu m'as sauvé la vie  
   * Vie d'un honnête homme (La)

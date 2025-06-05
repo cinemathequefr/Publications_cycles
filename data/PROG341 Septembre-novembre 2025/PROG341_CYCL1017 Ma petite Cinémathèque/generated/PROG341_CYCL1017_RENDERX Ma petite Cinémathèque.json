@@ -136,6 +136,73 @@
           ]
         },
         {
+          "idEvenement": 33933,
+          "content": [
+            {
+              "idFilm": 31264,
+              "ordre": 1,
+              "titre": "Charlot machiniste",
+              "titreVo": "Behind the Screen",
+              "realisateurs": "Charles Chaplin",
+              "pays": "États-Unis",
+              "annee": 1916,
+              "duree": 24,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 6,
+              "generique": [
+                "Charles Chaplin",
+                "Eric Campbell",
+                "Edna Purviance"
+              ]
+            },
+            {
+              "idFilm": 66147,
+              "ordre": 2,
+              "titre": "Bataille du siècle",
+              "art": "La",
+              "titreVo": "Battle of the Century",
+              "artVo": "The",
+              "realisateurs": "Clyde Bruckman, Hal Roach",
+              "pays": "États-Unis",
+              "annee": 1927,
+              "duree": 18,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy",
+                "Eugene Pallette"
+              ]
+            },
+            {
+              "idFilm": 31099,
+              "ordre": 3,
+              "titre": "Charlot garçon de café",
+              "titreVo": "Caught in a Cabaret",
+              "realisateurs": "Charles Chaplin, Mabel Normand",
+              "pays": "États-Unis",
+              "annee": 1914,
+              "duree": 23,
+              "version": "VOSTF",
+              "format": "DCP",
+              "ageMinimal": 6,
+              "generique": [
+                "Charles Chaplin",
+                "Mabel Normand"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 196645,
+              "dateHeure": "2025-10-26T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 6
+            }
+          ]
+        },
+        {
           "idFilm": 82682,
           "content": [
             {
@@ -499,6 +566,7 @@
               "duree": 90,
               "version": "VF",
               "format": "DCP",
+              "ageMinimal": 6,
               "miniTexte": "C'est l'histoire de Simba, lionceau accusé de la mort du roi Mustafa, son père. C'est l'histoire de ses aventures avec un phacochère et un suricate extravagants, c'est l'histoire de sa reconquête du royaume. C'est « l'histoire de la vie ». L'un des plus grands succès de Disney, inspiré de Hamlet, et doublement oscarisé pour sa BO."
             }
           ],
@@ -506,7 +574,8 @@
             {
               "idSeance": 195939,
               "dateHeure": "2025-10-01T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "ageMinimal": 6
             }
           ]
         },
