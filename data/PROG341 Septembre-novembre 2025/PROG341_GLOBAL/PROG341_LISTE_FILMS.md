@@ -20,13 +20,15 @@
   * Transit  
   * Yella
 
-## Cinéma bis (10)
+## Cinéma bis (12)
 
   * Alien, la créature des abysses  
   * Bruce contre-attaque  
   * Chaîne infernale du Ta-Kang (La)  
+  * Daughter of Horror  
   * Empire des Ninjas (L')  
   * Étoile du sud (L')  
+  * Glen or Glenda  
   * Infirmière a le bistouri facile (L')  
   * Mission ninja  
   * Possédée du vice (La)  
@@ -50,14 +52,13 @@
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (18)
+## Histoire permanente du cinéma (17)
 
   * Amerika, rapports de classe  
   * Amour l'après-midi (L')  
   * Bienvenue Mister Chance  
   * Brazil  
   * Cavalier électrique (Le)  
-  * Cría cuervos  
   * Element of Crime  
   * Fantôme de la liberté (Le)  
   * Golden Eighties  
@@ -305,7 +306,7 @@
   * Sully  
   * Un monde parfait
 
-## William A. Wellman (62)
+## William A. Wellman (57)
 
   * Ailes (Les)  
   * Allée sanglante (L')  
@@ -321,15 +322,12 @@
   * Buffalo Bill  
   * C'est la guerre  
   * Cité magique (La)  
-  * College Coach  
   * Commandos passent à l'attaque (Les)  
   * Conquérants (Les)  
   * Convoi de femmes  
   * Dangerous Paradise  
   * Écrit dans le ciel  
   * Ennemi public (L')  
-  * Étrange incident (L')  
-  * Étrangleur (L')  
   * Fille de l'enfer (La)  
   * Forçats de la gloire (Les)  
   * Frisco Jenny  
@@ -338,7 +336,6 @@
   * Hommes volants (Les)  
   * Inspiratrice (L')  
   * Joyeuse suicidée (La)  
-  * Lilly Turner  
   * Love Is a Racket  
   * Lumière qui s'éteint (La)  
   * Man I Love (The)  
@@ -354,7 +351,6 @@
   * Purchase Price (The)  
   * Quartier chinois  
   * Rideau de fer (Le)  
-  * Robin des Bois d'Eldorado  
   * Roxie Hart  
   * Ses premières ailes  
   * Signal (Le)  
