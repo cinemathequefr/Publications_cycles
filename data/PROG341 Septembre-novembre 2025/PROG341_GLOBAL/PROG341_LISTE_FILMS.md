@@ -35,17 +35,19 @@
   * Renard de Brooklyn (Le)  
   * Trois pour un massacre
 
-## Hafsia Herzi (14)
+## Hafsia Herzi (16)
 
   * Apollonide : Souvenirs de la maison close (L')  
-  * Bonne mère  
+  * Bonne Mère  
+  * Borgo  
   * Cour (La)  
   * Française  
-  * Graine et le mulet (La)  
+  * Graine et le Mulet (La)  
   * Ma compagne de nuit  
   * Mektoub, My Love : Canto uno  
   * Petite Dernière (La)  
   * Ravissement (Le)  
+  * Rodba (Le)  
   * Roi de l'évasion (Le)  
   * Secrets (Les)  
   * Sex Doll  

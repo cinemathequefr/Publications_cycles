@@ -811,7 +811,7 @@
     "typeEvenement": 13,
     "idEvenement": 33376,
     "idSeance": 195645,
-    "dateHeure": "2025-09-19T19:00:00",
+    "dateHeure": "2025-09-19T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -834,7 +834,7 @@
     "typeEvenement": 13,
     "idEvenement": 33385,
     "idSeance": 195646,
-    "dateHeure": "2025-09-19T21:00:00",
+    "dateHeure": "2025-09-19T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1023,7 +1023,7 @@
     "typeEvenement": 13,
     "idEvenement": 34048,
     "idSeance": 198072,
-    "dateHeure": "2025-09-27T19:15:00",
+    "dateHeure": "2025-09-27T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1063,17 +1063,22 @@
     "idCategorie": 3829,
     "typeEvenement": 13,
     "idEvenement": 33388,
-    "idSeance": 197782,
+    "idSeance": 198108,
     "dateHeure": "2025-09-28T17:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 75,
     "items": [
       {
         "idFilm": 77502,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 198108,
+        "idCopie": 30323,
+        "duree": 40,
+        "version": "",
+        "format": ""
       }
     ]
   },
