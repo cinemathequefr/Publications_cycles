@@ -224,7 +224,7 @@
   * Macbeth  
   * Malpertuis  
   * Moby Dick  
-  * Orson Welles' Sketch Book – 2  
+  * Orson Welles' Sketch Book, episode 2: Critics  
   * Othello  
   * Procès (Le)  
   * Rogopag  
@@ -298,15 +298,11 @@
 
   * Alien  
   * Année de tous les dangers (L')  
-  * Call Jane  
   * Gorilles dans la brume  
   * Ice Storm (The)  
   * Master Gardener  
-  * SOS Fantômes
-
-## Stephen Frears (1)
-
-  * Lady Vegas
+  * SOS Fantômes  
+  * Une carte du monde
 
 ## Week-end Clint Eastwood (7)
 
