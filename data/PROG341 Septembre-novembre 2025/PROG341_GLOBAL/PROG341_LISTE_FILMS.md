@@ -91,10 +91,11 @@
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (35)
+## Histoire permanente du cinéma (41)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
+  * American Gigolo  
   * Amerika, rapports de classe  
   * Amour l'après-midi (L')  
   * Au-dessous du volcan  
@@ -106,6 +107,7 @@
   * Brazil  
   * Cavalier électrique (Le)  
   * Chambre avec vue  
+  * Daniel  
   * De l'influence des rayons gamma sur le comportement des marguerites  
   * Deep End  
   * Element of Crime  
@@ -114,14 +116,18 @@
   * Honneur perdu de Katharina Blum (L')  
   * I... comme Icare  
   * Incinérateur de cadavres (L')  
+  * Juge et l'Assassin (Le)  
   * Liberté, la nuit  
   * Love Streams  
+  * M*A*S*H  
   * Mariage de Maria Braun (Le)  
   * Nostalghia  
   * Nuits de la pleine lune (Les)  
   * Ombre des châteaux (L')  
   * Parfum de femme  
   * Peau (La)  
+  * Petites Fugues (Les)  
+  * Pipicacadodo  
   * Pixote, la loi du plus faible  
   * Provinciale (La)  
   * Rendez-vous d'Anna (Les)  
@@ -174,17 +180,22 @@
   * Repentie (La)  
   * Un hiver en été
 
-## Laurent Cantet (10)
+## Laurent Cantet (15)
 
   * 7 jours à La Havane : Diary of a Beginner  
   * Arthur Rambo  
   * Atelier (L')  
+  * Chercheurs d'or (Les)  
+  * Corps et ses atteintes (Le)  
   * Emploi du temps (L')  
   * Entre les murs  
   * Enzo  
   * Foxfire, confessions d'un gang de filles  
+  * Jeux de plage  
   * Ressources humaines  
   * Retour à Ithaque  
+  * Sanguinaires (Les)  
+  * Tous à la manif  
   * Vers le sud
 
 ## Le burlesque muet hollywoodien, 25 indispensables (22)
@@ -313,7 +324,7 @@
   * Fountain of Youth (The)  
   * Génie du mal (Le)  
   * Homme qui a vu l'homme qui a vu l'ours (L')  
-  * It's All True : Based on an Unfinished Film by Orson Welles  
+  * It's All True: Based on an Unfinished Film by Orson Welles  
   * Jane Eyre  
   * Labyrinthes de Mr Arkadin (Les)  
   * Lettre du Kremlin (La)  
