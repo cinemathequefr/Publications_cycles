@@ -3,31 +3,6 @@
     "idCategorie": 3869,
     "typeEvenement": 13,
     "idEvenement": 33934,
-    "idSeance": 194971,
-    "dateHeure": "2025-08-25T20:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 120,
-    "typeSeance": 43,
-    "items": [
-      {
-        "idFilm": 155347,
-        "ordre": 1,
-        "idSeance": 194971,
-        "idCopie": 30223,
-        "duree": 86,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Avant-première"
-  },
-  {
-    "idCategorie": 3869,
-    "typeEvenement": 13,
-    "idEvenement": 33934,
     "idSeance": 198016,
     "dateHeure": "2025-08-26T20:00:00",
     "idSalle": [
@@ -134,10 +109,10 @@
         "idFilm": 138096,
         "ordre": 1,
         "idSeance": 198044,
-        "idCopie": 30231,
+        "idCopie": 30341,
         "duree": 85,
         "version": "VO",
-        "format": ""
+        "format": "DCP"
       }
     ]
   },
@@ -229,20 +204,20 @@
     "idCategorie": 3891,
     "typeEvenement": 13,
     "idEvenement": 33771,
-    "idSeance": 198048,
+    "idSeance": 198195,
     "dateHeure": "2025-08-30T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 120,
     "items": [
       {
         "idFilm": 120559,
         "ordre": 1,
-        "idSeance": 198048,
+        "idSeance": 198195,
         "idCopie": 30228,
-        "duree": 0,
+        "duree": 88,
         "version": "VO",
         "format": ""
       }
@@ -252,20 +227,47 @@
     "idCategorie": 3892,
     "typeEvenement": 13,
     "idEvenement": 33768,
-    "idSeance": 198020,
+    "idSeance": 198196,
     "dateHeure": "2025-08-30T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 45,
+    "dureeSeance": 120,
     "items": [
       {
         "idFilm": 151799,
         "ordre": 1,
-        "idSeance": 198020,
+        "idSeance": 198196,
         "idCopie": 30234,
         "duree": 9,
+        "version": "VO",
+        "format": "16 mm"
+      },
+      {
+        "idFilm": 155385,
+        "ordre": 2,
+        "idSeance": 198196,
+        "idCopie": 30344,
+        "duree": 33,
+        "version": "VO",
+        "format": "16 mm"
+      },
+      {
+        "idFilm": 155384,
+        "ordre": 3,
+        "idSeance": 198196,
+        "idCopie": 30343,
+        "duree": 22,
+        "version": "VO",
+        "format": "16 mm"
+      },
+      {
+        "idFilm": 155383,
+        "ordre": 4,
+        "idSeance": 198196,
+        "idCopie": 30342,
+        "duree": 24,
         "version": "VO",
         "format": "16 mm"
       }
@@ -337,6 +339,98 @@
         "duree": 102,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3891,
+    "typeEvenement": 13,
+    "idEvenement": 34128,
+    "idSeance": 195198,
+    "dateHeure": "2025-09-03T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 155376,
+        "ordre": 1,
+        "idSeance": 195198,
+        "idCopie": 30333,
+        "duree": 72,
+        "version": "VO",
+        "format": "16 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3891,
+    "typeEvenement": 13,
+    "idEvenement": 34129,
+    "idSeance": 198142,
+    "dateHeure": "2025-09-03T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155377,
+        "ordre": 1,
+        "idSeance": 198142,
+        "idCopie": 30334,
+        "duree": 92,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3891,
+    "typeEvenement": 13,
+    "idEvenement": 34131,
+    "idSeance": 198144,
+    "dateHeure": "2025-09-04T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155379,
+        "ordre": 1,
+        "idSeance": 198144,
+        "idCopie": 30337,
+        "duree": 90,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3891,
+    "typeEvenement": 13,
+    "idEvenement": 34130,
+    "idSeance": 195233,
+    "dateHeure": "2025-09-04T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155378,
+        "ordre": 1,
+        "idSeance": 195233,
+        "idCopie": 30335,
+        "duree": 85,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   }

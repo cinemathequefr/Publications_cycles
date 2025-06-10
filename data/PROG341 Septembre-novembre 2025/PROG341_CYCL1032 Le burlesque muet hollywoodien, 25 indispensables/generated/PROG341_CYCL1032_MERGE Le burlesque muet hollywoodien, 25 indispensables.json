@@ -42,36 +42,6 @@
           ]
         },
         {
-          "idSeance": 198042,
-          "ordre": 2,
-          "dateHeure": "2025-10-18T16:45:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 90,
-          "idCategorie": 3894,
-          "idEvenement": 33939,
-          "typeEvenement": 13,
-          "idFilm": 66147,
-          "art": "La",
-          "titre": "Bataille du siècle",
-          "artVo": "The",
-          "titreVo": "Battle of the Century",
-          "realisateurs": "Clyde Bruckman, Hal Roach",
-          "annee": 1927,
-          "pays": "États-Unis",
-          "duree": 18,
-          "version": "INT. FR.",
-          "format": "DCP",
-          "generique": [
-            "Stan Laurel",
-            "Oliver Hardy",
-            "Eugene Pallette"
-          ],
-          "textes": []
-        },
-        {
           "idSeance": 196350,
           "ordre": 1,
           "dateHeure": "2025-10-16T14:30:00",
@@ -106,6 +76,43 @@
             {
               "typeTexte": 1000,
               "texte": "Le génial Buster Keaton dans le rôle d'un marinier confronté à un cyclone et aux machines récalcitrantes, à bord d'un bateau vapeur sur le Mississippi. De la poésie et de la folie, et une des plus célèbres scènes du burlesque, qui voit Buster recevoir la façade d'une maison sur la tête."
+            }
+          ]
+        },
+        {
+          "idSeance": 197000,
+          "ordre": 1,
+          "dateHeure": "2025-11-08T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 3893,
+          "idEvenement": 33946,
+          "typeEvenement": 13,
+          "idFilm": 36675,
+          "art": "Le",
+          "titre": "Caméraman",
+          "realisateurs": "Edward Sedgwick",
+          "annee": 1928,
+          "pays": "États-Unis",
+          "duree": 69,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Buster Keaton",
+            "Marceline Day",
+            "Harold Goodwin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "À New York, les débuts désastreux d'un jeune reporter d'une compagnie d'actualités cinématographiques. Buster Keaton, à son meilleur, enchaîne les gags et multiplie les expériences avec sa caméra, pour conquérir le cœur de sa bien-aimée."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Véritable attribut de Keaton dans le film, la caméra 35 mm dont il se sert est une caméra de 1910 et de fabrication française, la « Lucien Prévost », du nom des établissements où elle a été créée. Son rival dans le film dispose lui d'une caméra américaine, de la marque Akeley."
             }
           ]
         },
@@ -530,34 +537,6 @@
           ]
         },
         {
-          "idSeance": 198042,
-          "ordre": 3,
-          "dateHeure": "2025-10-18T16:45:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 90,
-          "idCategorie": 3894,
-          "idEvenement": 33939,
-          "typeEvenement": 13,
-          "idFilm": 66145,
-          "titre": "Vive la liberté",
-          "titreVo": "Liberty",
-          "realisateurs": "Leo McCarey",
-          "annee": 1929,
-          "pays": "États-Unis",
-          "duree": 20,
-          "version": "INT. FR.",
-          "format": "DCP",
-          "generique": [
-            "Stan Laurel",
-            "Oliver Hardy",
-            "Jean Harlow"
-          ],
-          "textes": []
-        },
-        {
           "idSeance": 196655,
           "ordre": 1,
           "dateHeure": "2025-10-27T16:30:00",
@@ -591,6 +570,71 @@
               "texte": "Un joyau du muet qui met en scène les déconvenues d'Harold, prêt à tout pour épater ses camarades d'université. Tout le génie burlesque et le charme discret de Lloyd dans la séquence sportive la plus célèbre des années 1920, au suspense désopilant."
             }
           ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Laurel et Hardy",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 198042,
+          "ordre": 2,
+          "dateHeure": "2025-10-18T16:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3894,
+          "idEvenement": 33939,
+          "typeEvenement": 13,
+          "idFilm": 66147,
+          "art": "La",
+          "titre": "Bataille du siècle",
+          "artVo": "The",
+          "titreVo": "Battle of the Century",
+          "realisateurs": "Clyde Bruckman, Hal Roach",
+          "annee": 1927,
+          "pays": "États-Unis",
+          "duree": 18,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Stan Laurel",
+            "Oliver Hardy",
+            "Eugene Pallette"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 198042,
+          "ordre": 3,
+          "dateHeure": "2025-10-18T16:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3894,
+          "idEvenement": 33939,
+          "typeEvenement": 13,
+          "idFilm": 66145,
+          "titre": "Vive la liberté",
+          "titreVo": "Liberty",
+          "realisateurs": "Leo McCarey",
+          "annee": 1929,
+          "pays": "États-Unis",
+          "duree": 20,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Stan Laurel",
+            "Oliver Hardy",
+            "Jean Harlow"
+          ],
+          "textes": []
         },
         {
           "idSeance": 198042,
@@ -617,6 +661,127 @@
             "Stan Laurel",
             "Oliver Hardy",
             "James Finlayson"
+          ],
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Buster Keaton et Fatty",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 196688,
+          "ordre": 1,
+          "dateHeure": "2025-10-29T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3929,
+          "idEvenement": 34125,
+          "typeEvenement": 13,
+          "idFilm": 77565,
+          "titre": "Fatty cuisinier",
+          "artVo": "The",
+          "titreVo": "Cook",
+          "realisateurs": "Roscoe  \" Fatty \" Arbuckle",
+          "annee": 1918,
+          "pays": "États-Unis",
+          "duree": 20,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Roscoe \" Fatty \" Arbuckle",
+            "Buster Keaton"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 196688,
+          "ordre": 2,
+          "dateHeure": "2025-10-29T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3929,
+          "idEvenement": 34125,
+          "typeEvenement": 13,
+          "idFilm": 30216,
+          "titre": "Fatty garçon boucher",
+          "artVo": "The",
+          "titreVo": "Butcher Boy",
+          "realisateurs": "Roscoe  \" Fatty \" Arbuckle",
+          "annee": 1917,
+          "pays": "États-Unis",
+          "duree": 24,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Roscoe \" Fatty \" Arbuckle",
+            "Al St. John",
+            "Buster Keaton"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 196688,
+          "ordre": 4,
+          "dateHeure": "2025-10-29T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3929,
+          "idEvenement": 34125,
+          "typeEvenement": 13,
+          "idFilm": 30201,
+          "titre": "Fatty groom",
+          "artVo": "The",
+          "titreVo": "Bell Boy",
+          "realisateurs": "Roscoe  \" Fatty \" Arbuckle",
+          "annee": 1917,
+          "pays": "États-Unis",
+          "duree": 25,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Roscoe \" Fatty \" Arbuckle",
+            "Al St. John",
+            "Buster Keaton"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 196688,
+          "ordre": 3,
+          "dateHeure": "2025-10-29T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3929,
+          "idEvenement": 34125,
+          "typeEvenement": 13,
+          "idFilm": 60714,
+          "titre": "Fatty à la fête foraine",
+          "titreVo": "Coney Island",
+          "realisateurs": "Roscoe  \" Fatty \" Arbuckle",
+          "annee": 1917,
+          "pays": "États-Unis",
+          "duree": 25,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "generique": [
+            "Roscoe \" Fatty \" Arbuckle",
+            "Al St. John",
+            "Buster Keaton"
           ],
           "textes": []
         }

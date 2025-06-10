@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-10-15T20:00:00",
-    "2025-11-02T17:00:00"
+    "2025-11-08T15:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -70,6 +70,36 @@
             {
               "idSeance": 196350,
               "dateHeure": "2025-10-16T14:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 36675,
+          "content": [
+            {
+              "idFilm": 36675,
+              "ordre": 1,
+              "titre": "Caméraman",
+              "art": "Le",
+              "realisateurs": "Edward Sedgwick",
+              "pays": "États-Unis",
+              "annee": 1928,
+              "duree": 69,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Buster Keaton",
+                "Marceline Day",
+                "Harold Goodwin"
+              ],
+              "miniTexte": "À New York, les débuts désastreux d'un jeune reporter d'une compagnie d'actualités cinématographiques. Buster Keaton, à son meilleur, enchaîne les gags et multiplie les expériences avec sa caméra, pour conquérir le cœur de sa bien-aimée."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197000,
+              "dateHeure": "2025-11-08T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -338,71 +368,6 @@
           ]
         },
         {
-          "idEvenement": 33939,
-          "content": [
-            {
-              "idFilm": 66149,
-              "ordre": 1,
-              "titre": "Œil pour œil",
-              "titreVo": "Big Business",
-              "realisateurs": "J. Wesley Horne",
-              "pays": "États-Unis",
-              "annee": 1929,
-              "duree": 23,
-              "version": "INT. FR.",
-              "format": "DCP",
-              "generique": [
-                "Stan Laurel",
-                "Oliver Hardy",
-                "James Finlayson"
-              ]
-            },
-            {
-              "idFilm": 66147,
-              "ordre": 2,
-              "titre": "Bataille du siècle",
-              "art": "La",
-              "titreVo": "Battle of the Century",
-              "artVo": "The",
-              "realisateurs": "Clyde Bruckman, Hal Roach",
-              "pays": "États-Unis",
-              "annee": 1927,
-              "duree": 18,
-              "version": "INT. FR.",
-              "format": "DCP",
-              "generique": [
-                "Stan Laurel",
-                "Oliver Hardy",
-                "Eugene Pallette"
-              ]
-            },
-            {
-              "idFilm": 66145,
-              "ordre": 3,
-              "titre": "Vive la liberté",
-              "titreVo": "Liberty",
-              "realisateurs": "Leo McCarey",
-              "pays": "États-Unis",
-              "annee": 1929,
-              "duree": 20,
-              "version": "INT. FR.",
-              "format": "DCP",
-              "generique": [
-                "Stan Laurel",
-                "Oliver Hardy",
-                "Jean Harlow"
-              ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198042,
-              "dateHeure": "2025-10-18T16:45:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 30999,
           "content": [
             {
@@ -526,6 +491,165 @@
             {
               "idSeance": 196655,
               "dateHeure": "2025-10-27T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Laurel et Hardy",
+      "items": [
+        {
+          "idEvenement": 33939,
+          "content": [
+            {
+              "idFilm": 66149,
+              "ordre": 1,
+              "titre": "Œil pour œil",
+              "titreVo": "Big Business",
+              "realisateurs": "J. Wesley Horne",
+              "pays": "États-Unis",
+              "annee": 1929,
+              "duree": 23,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy",
+                "James Finlayson"
+              ]
+            },
+            {
+              "idFilm": 66147,
+              "ordre": 2,
+              "titre": "Bataille du siècle",
+              "art": "La",
+              "titreVo": "Battle of the Century",
+              "artVo": "The",
+              "realisateurs": "Clyde Bruckman, Hal Roach",
+              "pays": "États-Unis",
+              "annee": 1927,
+              "duree": 18,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy",
+                "Eugene Pallette"
+              ]
+            },
+            {
+              "idFilm": 66145,
+              "ordre": 3,
+              "titre": "Vive la liberté",
+              "titreVo": "Liberty",
+              "realisateurs": "Leo McCarey",
+              "pays": "États-Unis",
+              "annee": 1929,
+              "duree": 20,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy",
+                "Jean Harlow"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198042,
+              "dateHeure": "2025-10-18T16:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Buster Keaton et Fatty",
+      "items": [
+        {
+          "idEvenement": 34125,
+          "content": [
+            {
+              "idFilm": 77565,
+              "ordre": 1,
+              "titre": "Fatty cuisinier",
+              "titreVo": "Cook",
+              "artVo": "The",
+              "realisateurs": "Roscoe  \" Fatty \" Arbuckle",
+              "pays": "États-Unis",
+              "annee": 1918,
+              "duree": 20,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Roscoe \" Fatty \" Arbuckle",
+                "Buster Keaton"
+              ]
+            },
+            {
+              "idFilm": 30216,
+              "ordre": 2,
+              "titre": "Fatty garçon boucher",
+              "titreVo": "Butcher Boy",
+              "artVo": "The",
+              "realisateurs": "Roscoe  \" Fatty \" Arbuckle",
+              "pays": "États-Unis",
+              "annee": 1917,
+              "duree": 24,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Roscoe \" Fatty \" Arbuckle",
+                "Al St. John",
+                "Buster Keaton"
+              ]
+            },
+            {
+              "idFilm": 60714,
+              "ordre": 3,
+              "titre": "Fatty à la fête foraine",
+              "titreVo": "Coney Island",
+              "realisateurs": "Roscoe  \" Fatty \" Arbuckle",
+              "pays": "États-Unis",
+              "annee": 1917,
+              "duree": 25,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Roscoe \" Fatty \" Arbuckle",
+                "Al St. John",
+                "Buster Keaton"
+              ]
+            },
+            {
+              "idFilm": 30201,
+              "ordre": 4,
+              "titre": "Fatty groom",
+              "titreVo": "Bell Boy",
+              "artVo": "The",
+              "realisateurs": "Roscoe  \" Fatty \" Arbuckle",
+              "pays": "États-Unis",
+              "annee": 1917,
+              "duree": 25,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "generique": [
+                "Roscoe \" Fatty \" Arbuckle",
+                "Al St. John",
+                "Buster Keaton"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 196688,
+              "dateHeure": "2025-10-29T17:15:00",
               "idSalle": "GF"
             }
           ]

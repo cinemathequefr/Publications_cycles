@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2025-08-25T20:00:00",
-    "2025-08-31T19:30:00"
+    "2025-08-26T20:00:00",
+    "2025-09-04T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -115,7 +115,7 @@
               "annee": 2005,
               "duree": 85,
               "version": "VO",
-              "format": "",
+              "format": "DCP",
               "generique": [
                 "Julia Hummer",
                 "Sabine Timoteo",
@@ -183,12 +183,6 @@
             }
           ],
           "seances": [
-            {
-              "idSeance": 194971,
-              "dateHeure": "2025-08-25T20:00:00",
-              "idSalle": "HL",
-              "mention": ""
-            },
             {
               "idSeance": 198016,
               "dateHeure": "2025-08-26T20:00:00",
@@ -356,6 +350,53 @@
       "titreSousCycle": "Films pour la télévision",
       "items": [
         {
+          "idFilm": 155377,
+          "content": [
+            {
+              "idFilm": 155377,
+              "ordre": 1,
+              "titre": "Cuba Libre",
+              "realisateurs": "Christian Petzold",
+              "pays": "Allemagne",
+              "annee": 1996,
+              "duree": 92,
+              "version": "VO",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198142,
+              "dateHeure": "2025-09-03T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 155379,
+          "content": [
+            {
+              "idFilm": 155379,
+              "ordre": 1,
+              "titre": "Dangereuses rencontres",
+              "titreVo": "Toter Mann",
+              "realisateurs": "Christian Petzold",
+              "pays": "Allemagne",
+              "annee": 2001,
+              "duree": 90,
+              "version": "VO",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198144,
+              "dateHeure": "2025-09-04T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 120559,
           "content": [
             {
@@ -365,7 +406,7 @@
               "realisateurs": "Christian Petzold, Dominik Graf, Christoph Hochhäusler",
               "pays": "Allemagne",
               "annee": 2011,
-              "duree": 0,
+              "duree": 88,
               "version": "VO",
               "format": "",
               "generique": [
@@ -378,8 +419,56 @@
           ],
           "seances": [
             {
-              "idSeance": 198048,
+              "idSeance": 198195,
               "dateHeure": "2025-08-30T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 155376,
+          "content": [
+            {
+              "idFilm": 155376,
+              "ordre": 1,
+              "titre": "Pilotes",
+              "titreVo": "Pilotinnen",
+              "realisateurs": "Christian Petzold",
+              "pays": "Allemagne",
+              "annee": 1995,
+              "duree": 72,
+              "version": "VO",
+              "format": "16 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 195198,
+              "dateHeure": "2025-09-03T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 155378,
+          "content": [
+            {
+              "idFilm": 155378,
+              "ordre": 1,
+              "titre": "Vol sur l'oreiller",
+              "titreVo": "Die Beischlafdiebin",
+              "realisateurs": "Christian Petzold",
+              "pays": "Allemagne",
+              "annee": 1998,
+              "duree": 85,
+              "version": "VO",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 195233,
+              "dateHeure": "2025-09-04T20:30:00",
               "idSalle": "JE"
             }
           ]
@@ -391,7 +480,7 @@
       "titreSousCycle": "Courts métrages",
       "items": [
         {
-          "idFilm": 151799,
+          "idEvenement": 33768,
           "content": [
             {
               "idFilm": 151799,
@@ -405,11 +494,44 @@
               "version": "VO",
               "format": "16 mm",
               "miniTexte": "Court métrage réalisé à l'Académie allemande du film et de la télévision de Berlin (Dffb). Sans intrigue, ni personnages, un exercice de montage, qui évoque la chute du mur de Berlin et porte déjà l'empreinte du style Petzold."
+            },
+            {
+              "idFilm": 155385,
+              "ordre": 2,
+              "titre": "Das warme Geld",
+              "realisateurs": "Christian Petzold",
+              "pays": "Allemagne",
+              "annee": 1992,
+              "duree": 33,
+              "version": "VO",
+              "format": "16 mm"
+            },
+            {
+              "idFilm": 155384,
+              "ordre": 3,
+              "titre": "Ich arbeite alles ab... Ehrenwort!",
+              "realisateurs": "Christian Petzold, Christian Frosch, Maureen Herzfeld-Bargas, [etc.]",
+              "pays": "RFA",
+              "annee": 1988,
+              "duree": 22,
+              "version": "VO",
+              "format": "16 mm"
+            },
+            {
+              "idFilm": 155383,
+              "ordre": 4,
+              "titre": "Ostwärts",
+              "realisateurs": "Christian Petzold",
+              "pays": "Allemagne",
+              "annee": 1991,
+              "duree": 24,
+              "version": "VO",
+              "format": "16 mm"
             }
           ],
           "seances": [
             {
-              "idSeance": 198020,
+              "idSeance": 198196,
               "dateHeure": "2025-08-30T20:30:00",
               "idSalle": "JE"
             }
@@ -442,11 +564,7 @@
     }
   ],
   "syntheseAction": {
-    "Avant-premières": [
-      {
-        "dateHeure": "2025-08-25T20:00:00",
-        "titreFilms": "Miroirs No. 3"
-      },
+    "Avant-première": [
       {
         "dateHeure": "2025-08-26T20:00:00",
         "titreFilms": "Miroirs No. 3"

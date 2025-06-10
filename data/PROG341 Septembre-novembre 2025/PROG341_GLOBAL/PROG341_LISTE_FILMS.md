@@ -4,36 +4,73 @@
 
   * Sous la terre
 
-## Christian Petzold (13)
+## Christian Petzold (20)
 
   * Au sud  
   * Barbara  
   * Ciel rouge (Le)  
   * Contrôle d'identité  
+  * Cuba Libre  
+  * Dangereuses rencontres  
+  * Das warme Geld  
   * Dreileben  
   * Fantômes  
+  * Ich arbeite alles ab... Ehrenwort!  
   * Jerichow  
   * Miroirs No. 3  
   * Ombre de l'enfant (L')  
   * Ondine  
+  * Ostwärts  
   * Phoenix  
+  * Pilotes  
   * Transit  
+  * Vol sur l'oreiller  
   * Yella
 
-## Cinéma bis (12)
+## Cinéma bis (14)
 
   * Alien, la créature des abysses  
   * Bruce contre-attaque  
   * Chaîne infernale du Ta-Kang (La)  
+  * Crypte du vampire (La)  
   * Daughter of Horror  
   * Empire des Ninjas (L')  
   * Étoile du sud (L')  
   * Glen or Glenda  
   * Infirmière a le bistouri facile (L')  
+  * Malédiction du vampire (La)  
   * Mission ninja  
   * Possédée du vice (La)  
   * Renard de Brooklyn (Le)  
   * Trois pour un massacre
+
+## Fenêtre sur les collections (25)
+
+  * Agent gelé (L')  
+  * Amor  
+  * Apaches du Far-West (Les)  
+  * Bulle (La)  
+  * Calino veut être cow-boy  
+  * Cendrillon ou la pantoufle merveilleuse  
+  * Cow-boy John cherche un engagement au music-hall (Le)  
+  * Cow-boys et peaux rouges  
+  * Danse du « Kickapoo »  
+  * Défense d'afficher  
+  * Fée Carabosse ou Le Poignard fatal (La)  
+  * Jeanne d'Arc  
+  * John le cow-boy se fait trottin  
+  * Juif errant (Le)  
+  * Justice du peau-rouge (La)  
+  * Lanterne magique (La)  
+  * Légende de Rip Van Winkle (La)  
+  * Mélomane (Le)  
+  * Onésime dresseur d'hommes et de chevaux  
+  * Onésime sur le sentier de la guerre  
+  * Pendaison à Jefferson City  
+  * Prairie en feu (La)  
+  * Sur les toits  
+  * Une partie de cartes  
+  * Voyage dans la Lune (Le)
 
 ## Hafsia Herzi (16)
 
@@ -46,19 +83,23 @@
   * Ma compagne de nuit  
   * Mektoub, My Love : Canto uno  
   * Petite Dernière (La)  
+  * Prisonnière de Bordeaux (La)  
   * Ravissement (Le)  
-  * Rodba (Le)  
   * Roi de l'évasion (Le)  
   * Secrets (Les)  
   * Sex Doll  
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (17)
+## Histoire permanente du cinéma (22)
 
+  * Adolescente (L')  
+  * Alexandrie pourquoi ?  
   * Amerika, rapports de classe  
   * Amour l'après-midi (L')  
+  * Au nom du pape roi  
   * Bienvenue Mister Chance  
+  * Bob et Carole et Ted et Alice  
   * Brazil  
   * Cavalier électrique (Le)  
   * Element of Crime  
@@ -66,13 +107,14 @@
   * Golden Eighties  
   * Liberté, la nuit  
   * Love Streams  
-  * Nostalghia  
   * Nuits de la pleine lune (Les)  
   * Ombre des châteaux (L')  
   * Parfum de femme  
   * Peau (La)  
+  * Pipicacadodo  
   * Pixote, la loi du plus faible  
-  * Provinciale (La)
+  * Provinciale (La)  
+  * Rita, Susie et Bob aussi !
 
 ## John Schlesinger (17)
 
@@ -107,13 +149,30 @@
   * Strange Days  
   * Zero Dark Thirty
 
-## Le burlesque muet hollywoodien, 25 indispensables (17)
+## Laurent Cantet (9)
+
+  * 7 jours à La Havane : Diary of a Beginner  
+  * Arthur Rambo  
+  * Atelier (L')  
+  * Emploi du temps (L')  
+  * Entre les murs  
+  * Foxfire, confessions d'un gang de filles  
+  * Ressources humaines  
+  * Retour à Ithaque  
+  * Vers le sud
+
+## Le burlesque muet hollywoodien, 25 indispensables (22)
 
   * Athlète incomplet (L')  
   * Bataille du siècle (La)  
   * Cadet d'eau douce  
+  * Caméraman (Le)  
   * Cirque (Le)  
   * Croisière du Navigator (La)  
+  * Fatty à la fête foraine  
+  * Fatty cuisinier  
+  * Fatty garçon boucher  
+  * Fatty groom  
   * Fiancées en folie (Les)  
   * Kid (Le)  
   * Lumières de la ville (Les)  
@@ -206,37 +265,67 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (29)
+## Orson Welles (59)
 
+  * Affaire Dominici par Orson Welles (L')  
   * Cagliostro  
   * Citizen Kane  
   * Criminel (Le)  
   * Dame de Shanghaï (La)  
   * De l'autre côté du vent [version Netflix]  
+  * Décade prodigieuse (La)  
+  * Deep (The)  
+  * Désordre  
+  * Désordre a vingt ans (Le)  
   * Don Quichotte  
   * Dossier secret  
+  * Dreamers (The)  
   * Échec à Borgia  
   * Falstaff  
   * Filming Othello  
+  * Filming The Trial  
+  * Fountain of Youth (The)  
+  * Génie du mal (Le)  
+  * Homme qui a vu l'homme qui a vu l'ours (L')  
   * It's All True : Based on an Unfinished Film by Orson Welles  
   * Jane Eyre  
+  * Labyrinthes de Mr Arkadin (Les)  
   * Lettre du Kremlin (La)  
   * Macbeth  
   * Malpertuis  
+  * Merchant of Venice (The)  
   * Moby Dick  
+  * Orson Welles  
+  * Orson Welles à la Cinémathèque française  
+  * Orson Welles at Large : Portrait of Gina  
+  * Orson Welles, autopsie d'une légende  
+  * Orson Welles, l'homme-orchestre  
+  * Orson Welles' London  
+  * Orson Welles' Moby Dick  
+  * Orson Welles on Stage in Dublin  
+  * Orson Welles' Sketch Book, episode 1: The Early Days  
   * Orson Welles' Sketch Book, episode 2: Critics  
+  * Orson Welles' Sketch Book, episode 3: The Police  
+  * Orson Welles' Sketch Book, episode 5: The War of the Worlds  
+  * Orson Welles Talks with Roger Hill  
+  * Orson Welles' « Voodoo » Macbeth  
   * Othello  
   * Procès (Le)  
   * Rogopag  
   * Salaire du diable (Le)  
+  * Shakespeare et Orson Welles  
   * Soif du mal (La)  
   * Splendeur des Amberson (La)  
+  * This Is Orson Welles  
   * Too Much Johnson  
   * Troisième Homme (Le)  
   * Un cri dans l'ombre  
   * Une histoire immortelle  
   * Vérités et Mensonges  
-  * Voyage au pays de la peur
+  * Versiones de Campanadas a medianoche (Las)  
+  * Vive le cinéma ! Jeanne Moreau  
+  * Voyage au pays de la peur  
+  * Welles Angels
 
 ## Parlons cinéma... avec Yasmina Reza (4)
 
@@ -281,10 +370,6 @@
   * Tu m'as sauvé la vie  
   * Vie d'un honnête homme (La)
 
-## Shakespeare au cinéma (1)
-
-  * Château de l'araignée (Le)
-
 ## Shirley Clarke (6)
 
   * Bullfight  
@@ -314,7 +399,7 @@
   * Sully  
   * Un monde parfait
 
-## William A. Wellman (57)
+## William A. Wellman (61)
 
   * Ailes (Les)  
   * Allée sanglante (L')  
@@ -330,12 +415,15 @@
   * Buffalo Bill  
   * C'est la guerre  
   * Cité magique (La)  
+  * College Coach  
   * Commandos passent à l'attaque (Les)  
   * Conquérants (Les)  
   * Convoi de femmes  
   * Dangerous Paradise  
   * Écrit dans le ciel  
   * Ennemi public (L')  
+  * Étrange incident (L')  
+  * Étrangleur (L')  
   * Fille de l'enfer (La)  
   * Forçats de la gloire (Les)  
   * Frisco Jenny  
@@ -344,6 +432,7 @@
   * Hommes volants (Les)  
   * Inspiratrice (L')  
   * Joyeuse suicidée (La)  
+  * Lilly Turner  
   * Love Is a Racket  
   * Lumière qui s'éteint (La)  
   * Man I Love (The)  
@@ -358,7 +447,7 @@
   * President Vanishes (The)  
   * Purchase Price (The)  
   * Quartier chinois  
-  * Rideau de fer (Le)  
+  * Robin des Bois d'Eldorado  
   * Roxie Hart  
   * Ses premières ailes  
   * Signal (Le)  
