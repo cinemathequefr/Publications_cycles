@@ -12,7 +12,6 @@
   * Contrôle d'identité  
   * Cuba Libre  
   * Dangereuses rencontres  
-  * Das warme Geld  
   * Dreileben  
   * Fantômes  
   * Ich arbeite alles ab... Ehrenwort!  
@@ -25,23 +24,24 @@
   * Pilotes  
   * Transit  
   * Vol sur l'oreiller  
+  * Warme Geld (Das)  
   * Yella
 
 ## Cinéma bis (14)
 
-  * Alien, la créature des abysses  
+  * Blessure  
   * Bruce contre-attaque  
   * Chaîne infernale du Ta-Kang (La)  
   * Crypte du vampire (La)  
   * Daughter of Horror  
   * Empire des Ninjas (L')  
   * Étoile du sud (L')  
+  * Flag  
   * Glen or Glenda  
   * Infirmière a le bistouri facile (L')  
   * Malédiction du vampire (La)  
   * Mission ninja  
   * Possédée du vice (La)  
-  * Renard de Brooklyn (Le)  
   * Trois pour un massacre
 
 ## Fenêtre sur les collections (25)
@@ -91,30 +91,43 @@
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (22)
+## Histoire permanente du cinéma (35)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
   * Amerika, rapports de classe  
   * Amour l'après-midi (L')  
+  * Au-dessous du volcan  
   * Au nom du pape roi  
+  * Aurélia Steiner (Melbourne)  
+  * Aurélia Steiner (Vancouver)  
   * Bienvenue Mister Chance  
   * Bob et Carole et Ted et Alice  
   * Brazil  
   * Cavalier électrique (Le)  
+  * Chambre avec vue  
+  * De l'influence des rayons gamma sur le comportement des marguerites  
+  * Deep End  
   * Element of Crime  
   * Fantôme de la liberté (Le)  
   * Golden Eighties  
+  * Honneur perdu de Katharina Blum (L')  
+  * I... comme Icare  
+  * Incinérateur de cadavres (L')  
   * Liberté, la nuit  
   * Love Streams  
+  * Mariage de Maria Braun (Le)  
+  * Nostalghia  
   * Nuits de la pleine lune (Les)  
   * Ombre des châteaux (L')  
   * Parfum de femme  
   * Peau (La)  
-  * Pipicacadodo  
   * Pixote, la loi du plus faible  
   * Provinciale (La)  
-  * Rita, Susie et Bob aussi !
+  * Rendez-vous d'Anna (Les)  
+  * Rita, Susie et Bob aussi !  
+  * Un enfant de Calabre  
+  * Vivre vite
 
 ## John Schlesinger (17)
 
@@ -149,13 +162,26 @@
   * Strange Days  
   * Zero Dark Thirty
 
-## Laurent Cantet (9)
+## Laetitia Masson (9)
+
+  * À vendre  
+  * Coupable  
+  * En avoir (ou pas)  
+  * GHB  
+  * Love Me  
+  * Petite fille  
+  * Pourquoi (pas) le Brésil  
+  * Repentie (La)  
+  * Un hiver en été
+
+## Laurent Cantet (10)
 
   * 7 jours à La Havane : Diary of a Beginner  
   * Arthur Rambo  
   * Atelier (L')  
   * Emploi du temps (L')  
   * Entre les murs  
+  * Enzo  
   * Foxfire, confessions d'un gang de filles  
   * Ressources humaines  
   * Retour à Ithaque  
@@ -334,7 +360,7 @@
   * Fish Tank  
   * In the Cut
 
-## Sacha Guitry (33)
+## Sacha Guitry (34)
 
   * Assassins et voleurs  
   * Aux deux colombes  
@@ -361,6 +387,7 @@
   * Perles de la couronne (Les)  
   * Poison (La)  
   * Quadrille  
+  * Remontons les Champs-Élysées  
   * Roman d'un tricheur (Le)  
   * Si Paris nous était conté  
   * Si Versailles m'était conté  

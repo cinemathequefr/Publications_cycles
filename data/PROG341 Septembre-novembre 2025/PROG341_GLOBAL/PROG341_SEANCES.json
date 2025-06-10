@@ -161,7 +161,8 @@
         "realisateurs": "Christian Petzold",
         "annee": 2003,
         "duree": 90,
-        "version": "VO"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f141659"
@@ -495,7 +496,8 @@
         "realisateurs": "Christian Petzold, Dominik Graf, Christoph Hochhäusler",
         "annee": 2011,
         "duree": 88,
-        "version": "VO"
+        "version": "VOSTA",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f120559"
@@ -547,7 +549,8 @@
       },
       {
         "idFilm": 155385,
-        "titre": "Das warme Geld",
+        "titre": "Warme Geld",
+        "art": "Das",
         "realisateurs": "Christian Petzold",
         "annee": 1992,
         "duree": 33,
@@ -557,7 +560,7 @@
       {
         "idFilm": 155384,
         "titre": "Ich arbeite alles ab... Ehrenwort!",
-        "realisateurs": "Christian Petzold, Christian Frosch, Maureen Herzfeld-Bargas, [etc.]",
+        "realisateurs": "Christian Petzold, Christian Frosch, Maureen Herzfeld-Bargas, Jan Ralske, Herbert Schwarze, Dino Simonett",
         "annee": 1988,
         "duree": 22,
         "version": "VO",
@@ -789,9 +792,33 @@
     "hashEvenement": "f155348"
   },
   {
+    "idSeance": 198203,
+    "idEvenement": 33919,
+    "dateHeure": "2025-09-01T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 42652,
+        "titre": "Un enfant de Calabre",
+        "realisateurs": "Luigi Comencini",
+        "annee": 1987,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f42652"
+  },
+  {
     "idSeance": 197744,
     "idEvenement": 33526,
-    "dateHeure": "2025-09-01T18:00:00",
+    "dateHeure": "2025-09-01T18:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -902,7 +929,7 @@
         "realisateurs": "Christian Petzold",
         "annee": 1995,
         "duree": 72,
-        "version": "VO",
+        "version": "VOSTA",
         "format": "16 mm"
       }
     ],
@@ -1065,7 +1092,8 @@
     "items": [
       {
         "idConf": 33695,
-        "titre": "[Conférence de Mathieu Macheret]",
+        "titre": "Qui êtes-vous... William Wellman ?",
+        "sousTitre": "Conférence de Mathieu Macheret",
         "typeConference": "Conférence",
         "duree": 90
       }
@@ -1951,7 +1979,8 @@
     "items": [
       {
         "idConf": 33719,
-        "titre": "[Conférence de Jérôme Momcilovic]",
+        "titre": "Maurice Pialat, le sixième sens",
+        "sousTitre": "Conférence de Jérôme Momcilovic",
         "typeConference": "Conférence",
         "duree": 90
       }
@@ -2081,29 +2110,27 @@
     "hashEvenement": "f50629"
   },
   {
-    "idSeance": 195460,
-    "idEvenement": 33703,
+    "idSeance": 198201,
+    "idEvenement": 33711,
     "dateHeure": "2025-09-12T19:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Cinéma bis",
-        "Antonio Margheriti, séance de rattrapage"
+        "Polar français des années 80"
       ]
     ],
     "items": [
       {
-        "idFilm": 55634,
-        "titre": "Renard de Brooklyn",
-        "art": "Le",
-        "realisateurs": "Anthony Dawson",
-        "annee": 1976,
-        "duree": 100,
-        "version": "VF",
+        "idFilm": 41050,
+        "titre": "Blessure",
+        "realisateurs": "Michel Gérard",
+        "annee": 1985,
+        "duree": 85,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f55634"
+    "hashEvenement": "f41050"
   },
   {
     "idSeance": 198159,
@@ -2153,28 +2180,27 @@
     "hashEvenement": "f59810"
   },
   {
-    "idSeance": 195461,
-    "idEvenement": 33702,
-    "dateHeure": "2025-09-12T21:15:00",
+    "idSeance": 198202,
+    "idEvenement": 33710,
+    "dateHeure": "2025-09-12T21:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Cinéma bis",
-        "Antonio Margheriti, séance de rattrapage"
+        "Polar français des années 80"
       ]
     ],
     "items": [
       {
-        "idFilm": 155323,
-        "titre": "Alien, la créature des abysses",
-        "realisateurs": "Antonio Margheriti",
-        "annee": 1989,
-        "duree": 90,
-        "version": "VF",
+        "idFilm": 51060,
+        "titre": "Flag",
+        "realisateurs": "Jacques Santi",
+        "annee": 1987,
+        "duree": 114,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f155323"
+    "hashEvenement": "f51060"
   },
   {
     "idSeance": 195500,
@@ -2692,6 +2718,30 @@
       }
     ],
     "hashEvenement": "f117230f110397f117232f117231f117227f117226f90531f117229f117228"
+  },
+  {
+    "idSeance": 198204,
+    "idEvenement": 32812,
+    "dateHeure": "2025-09-15T15:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 57266,
+        "titre": "Nostalghia",
+        "realisateurs": "Andreï Tarkovski",
+        "annee": 1983,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f57266"
   },
   {
     "idSeance": 195534,
@@ -3609,31 +3659,6 @@
     "hashEvenement": "f59810"
   },
   {
-    "idSeance": 198080,
-    "idEvenement": 33842,
-    "dateHeure": "2025-09-22T16:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Histoire permanente du cinéma",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35820,
-        "titre": "Cavalier électrique",
-        "art": "Le",
-        "realisateurs": "Sydney Pollack",
-        "annee": 1978,
-        "duree": 120,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f35820"
-  },
-  {
     "idSeance": 198155,
     "idEvenement": 33477,
     "dateHeure": "2025-09-22T17:00:00",
@@ -4491,6 +4516,27 @@
     "hashEvenement": "f68757f77496f77497f77498f77501f77499f117240"
   },
   {
+    "idSeance": 198206,
+    "idEvenement": 34060,
+    "dateHeure": "2025-10-01T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35748,
+        "titre": "De l'influence des rayons gamma sur le comportement des marguerites",
+        "realisateurs": "Paul Newman",
+        "annee": 1972
+      }
+    ],
+    "hashEvenement": "f35748"
+  },
+  {
     "idSeance": 198145,
     "idEvenement": 33653,
     "dateHeure": "2025-10-01T20:00:00",
@@ -4896,27 +4942,6 @@
     "hashEvenement": "f96766"
   },
   {
-    "idSeance": 197764,
-    "idEvenement": 33979,
-    "dateHeure": "2025-10-04T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Laetitia Masson",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33979,
-        "titre": "Laetitia Masson par Laetitia Masson, une leçon de cinéma",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33979"
-  },
-  {
     "idSeance": 198147,
     "idEvenement": 33658,
     "dateHeure": "2025-10-04T17:00:00",
@@ -5227,6 +5252,27 @@
     "hashEvenement": "f41078"
   },
   {
+    "idSeance": 198207,
+    "idEvenement": 34067,
+    "dateHeure": "2025-10-08T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43691,
+        "titre": "Vivre vite",
+        "realisateurs": "Carlos Saura",
+        "annee": 1980
+      }
+    ],
+    "hashEvenement": "f43691"
+  },
+  {
     "idSeance": 197917,
     "idEvenement": 7419,
     "dateHeure": "2025-10-08T20:00:00",
@@ -5349,6 +5395,31 @@
       }
     ],
     "hashEvenement": "f92301"
+  },
+  {
+    "idSeance": 198208,
+    "idEvenement": 33856,
+    "dateHeure": "2025-10-09T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40941,
+        "titre": "Incinérateur de cadavres",
+        "art": "L'",
+        "realisateurs": "Juraj Herz",
+        "annee": 1968,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f40941"
   },
   {
     "idSeance": 196166,
@@ -5968,6 +6039,28 @@
     "hashEvenement": "f69470"
   },
   {
+    "idSeance": 196320,
+    "idEvenement": 33847,
+    "dateHeure": "2025-10-15T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51696,
+        "titre": "I... comme Icare",
+        "realisateurs": "Henri Verneuil",
+        "annee": 1979,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f51696"
+  },
+  {
     "idSeance": 197904,
     "idEvenement": 33941,
     "dateHeure": "2025-10-15T20:00:00",
@@ -6041,6 +6134,31 @@
       }
     ],
     "hashEvenement": "f31156"
+  },
+  {
+    "idSeance": 196355,
+    "idEvenement": 33842,
+    "dateHeure": "2025-10-16T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35820,
+        "titre": "Cavalier électrique",
+        "art": "Le",
+        "realisateurs": "Sydney Pollack",
+        "annee": 1978,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35820"
   },
   {
     "idSeance": 198015,
@@ -6189,6 +6307,31 @@
     "hashEvenement": "f59103"
   },
   {
+    "idSeance": 196397,
+    "idEvenement": 33849,
+    "dateHeure": "2025-10-17T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40150,
+        "titre": "Mariage de Maria Braun",
+        "art": "Le",
+        "realisateurs": "Rainer Werner Fassbinder",
+        "annee": 1979,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f40150"
+  },
+  {
     "idSeance": 196394,
     "idEvenement": 7410,
     "dateHeure": "2025-10-17T20:30:00",
@@ -6300,7 +6443,7 @@
     "items": [
       {
         "idConf": 33974,
-        "titre": "Shakespeare et Welles",
+        "titre": "Shakespeare vu par Orson Welles : l'obsession magnifique",
         "sousTitre": "Table ronde",
         "typeConference": "Dialogue",
         "duree": 60
@@ -7456,30 +7599,6 @@
     "hashEvenement": "f30277"
   },
   {
-    "idSeance": 196658,
-    "idEvenement": 33851,
-    "dateHeure": "2025-10-27T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Histoire permanente du cinéma",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 41837,
-        "titre": "Pipicacadodo",
-        "realisateurs": "Marco Ferreri",
-        "annee": 1979,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f41837"
-  },
-  {
     "idSeance": 196657,
     "idEvenement": 7557,
     "dateHeure": "2025-10-27T20:15:00",
@@ -7650,6 +7769,27 @@
     "hashEvenement": "f104372"
   },
   {
+    "idSeance": 198210,
+    "idEvenement": 34051,
+    "dateHeure": "2025-10-30T13:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 39977,
+        "titre": "Deep End",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1970
+      }
+    ],
+    "hashEvenement": "f39977"
+  },
+  {
     "idSeance": 196727,
     "idEvenement": 33761,
     "dateHeure": "2025-10-30T18:00:00",
@@ -7783,6 +7923,37 @@
       }
     ],
     "hashEvenement": "c33968"
+  },
+  {
+    "idSeance": 198211,
+    "idEvenement": 33909,
+    "dateHeure": "2025-10-31T16:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 78933,
+        "titre": "Aurélia Steiner (Melbourne)",
+        "realisateurs": "Marguerite Duras",
+        "annee": 1979,
+        "duree": 35,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 37430,
+        "titre": "Aurélia Steiner (Vancouver)",
+        "realisateurs": "Marguerite Duras",
+        "annee": 1979,
+        "duree": 48,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f78933f37430"
   },
   {
     "idSeance": 198076,
@@ -8329,6 +8500,7 @@
         "Courts métrages"
       ]
     ],
+    "mention": "Séance présentée par Noël Herpe",
     "items": [
       {
         "idFilm": 53516,
@@ -8408,9 +8580,31 @@
     "hashEvenement": "f126516f125206"
   },
   {
+    "idSeance": 196842,
+    "idEvenement": 34059,
+    "dateHeure": "2025-11-03T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40292,
+        "titre": "Honneur perdu de Katharina Blum",
+        "art": "L'",
+        "realisateurs": "Volker Schlöndorff, Margarethe von Trotta",
+        "annee": 1975
+      }
+    ],
+    "hashEvenement": "f40292"
+  },
+  {
     "idSeance": 196843,
     "idEvenement": 33735,
-    "dateHeure": "2025-11-03T18:00:00",
+    "dateHeure": "2025-11-03T18:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8434,7 +8628,7 @@
   {
     "idSeance": 196844,
     "idEvenement": 33763,
-    "dateHeure": "2025-11-03T20:30:00",
+    "dateHeure": "2025-11-03T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8506,7 +8700,7 @@
   {
     "idSeance": 198082,
     "idEvenement": 33736,
-    "dateHeure": "2025-11-05T18:30:00",
+    "dateHeure": "2025-11-05T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8541,7 +8735,9 @@
         "idFilm": 66169,
         "titre": "Ressources humaines",
         "realisateurs": "Laurent Cantet",
-        "annee": 1999
+        "annee": 1999,
+        "duree": 104,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f66169"
@@ -8569,6 +8765,27 @@
       }
     ],
     "hashEvenement": "f125173"
+  },
+  {
+    "idSeance": 198212,
+    "idEvenement": 34055,
+    "dateHeure": "2025-11-06T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33488,
+        "titre": "Au-dessous du volcan",
+        "realisateurs": "John Huston",
+        "annee": 1983
+      }
+    ],
+    "hashEvenement": "f33488"
   },
   {
     "idSeance": 198183,
@@ -8622,7 +8839,7 @@
   {
     "idSeance": 198085,
     "idEvenement": 34081,
-    "dateHeure": "2025-11-06T19:00:00",
+    "dateHeure": "2025-11-06T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8636,7 +8853,8 @@
         "titre": "Emploi du temps",
         "art": "L'",
         "realisateurs": "Laurent Cantet",
-        "annee": 2001
+        "annee": 2001,
+        "duree": 132
       }
     ],
     "hashEvenement": "f75992"
@@ -8665,6 +8883,29 @@
     "hashEvenement": "f154833"
   },
   {
+    "idSeance": 196911,
+    "idEvenement": 34080,
+    "dateHeure": "2025-11-06T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laurent Cantet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 98369,
+        "titre": "Vers le sud",
+        "realisateurs": "Laurent Cantet",
+        "annee": 2005,
+        "duree": 115,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f98369"
+  },
+  {
     "idSeance": 196916,
     "idEvenement": 7428,
     "dateHeure": "2025-11-06T20:30:00",
@@ -8690,25 +8931,25 @@
     "hashEvenement": "f77148"
   },
   {
-    "idSeance": 196911,
-    "idEvenement": 34080,
-    "dateHeure": "2025-11-06T21:30:00",
+    "idSeance": 198213,
+    "idEvenement": 34056,
+    "dateHeure": "2025-11-07T13:45:00",
     "salle": "GF",
     "cycle": [
       [
-        "Laurent Cantet",
+        "Histoire permanente du cinéma",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 98369,
-        "titre": "Vers le sud",
-        "realisateurs": "Laurent Cantet",
-        "annee": 2005
+        "idFilm": 41093,
+        "titre": "Chambre avec vue",
+        "realisateurs": "James Ivory",
+        "annee": 1985
       }
     ],
-    "hashEvenement": "f98369"
+    "hashEvenement": "f41093"
   },
   {
     "idSeance": 198181,
@@ -8845,7 +9086,8 @@
         "idFilm": 104532,
         "titre": "Entre les murs",
         "realisateurs": "Laurent Cantet",
-        "annee": 2007
+        "annee": 2007,
+        "duree": 130
       }
     ],
     "hashEvenement": "f104532"
@@ -8949,7 +9191,10 @@
         "idFilm": 116220,
         "titre": "7 jours à La Havane : Diary of a Beginner",
         "realisateurs": "Benicio del Toro, Pablo Trapero, Julio Medem, Elia Suleiman, Gaspar Noé, Juan Carlos Tabío, Laurent Cantet",
-        "annee": 2011
+        "annee": 2011,
+        "duree": 17,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f116220"
@@ -9109,7 +9354,8 @@
         "idFilm": 118206,
         "titre": "Foxfire, confessions d'un gang de filles",
         "realisateurs": "Laurent Cantet",
-        "annee": 2012
+        "annee": 2012,
+        "duree": 143
       }
     ],
     "hashEvenement": "f118206"
@@ -9221,7 +9467,8 @@
         "idFilm": 125293,
         "titre": "Retour à Ithaque",
         "realisateurs": "Laurent Cantet",
-        "annee": 2013
+        "annee": 2013,
+        "duree": 95
       }
     ],
     "hashEvenement": "f125293"
@@ -9296,6 +9543,28 @@
       }
     ],
     "hashEvenement": "f30196"
+  },
+  {
+    "idSeance": 198214,
+    "idEvenement": 34068,
+    "dateHeure": "2025-11-10T13:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 54390,
+        "titre": "Rendez-vous d'Anna",
+        "art": "Les",
+        "realisateurs": "Chantal Akerman",
+        "annee": 1978
+      }
+    ],
+    "hashEvenement": "f54390"
   },
   {
     "idSeance": 197030,
@@ -9381,7 +9650,8 @@
         "titre": "Atelier",
         "art": "L'",
         "realisateurs": "Laurent Cantet",
-        "annee": 2016
+        "annee": 2016,
+        "duree": 113
       }
     ],
     "hashEvenement": "f137192"
@@ -9427,7 +9697,8 @@
         "idFilm": 151984,
         "titre": "Arthur Rambo",
         "realisateurs": "Laurent Cantet",
-        "annee": 2019
+        "annee": 2019,
+        "duree": 87
       }
     ],
     "hashEvenement": "f151984"
@@ -9723,6 +9994,29 @@
     "hashEvenement": "f126693f126178"
   },
   {
+    "idSeance": 197187,
+    "idEvenement": 34151,
+    "dateHeure": "2025-11-15T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laurent Cantet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155393,
+        "titre": "Enzo",
+        "realisateurs": "Robin Campillo",
+        "annee": 2025,
+        "duree": 102,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155393"
+  },
+  {
     "idSeance": 197953,
     "idEvenement": 33964,
     "dateHeure": "2025-11-15T16:30:00",
@@ -9847,7 +10141,7 @@
     "items": [
       {
         "idConf": 33982,
-        "titre": "dialogue avec Nicolas Pariser",
+        "titre": "Dialogue avec Nicolas Pariser",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -10339,6 +10633,54 @@
     "hashEvenement": "f94889"
   },
   {
+    "idSeance": 197438,
+    "idEvenement": 33666,
+    "dateHeure": "2025-11-26T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 59941,
+        "titre": "En avoir (ou pas)",
+        "realisateurs": "Laetitia Masson",
+        "annee": 1995,
+        "duree": 90,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f59941"
+  },
+  {
+    "idSeance": 197475,
+    "idEvenement": 33753,
+    "dateHeure": "2025-11-27T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49123,
+        "titre": "Roman d'un tricheur",
+        "art": "Le",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1936,
+        "duree": 81,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f49123"
+  },
+  {
     "idSeance": 198025,
     "idEvenement": 34028,
     "dateHeure": "2025-11-27T19:00:00",
@@ -10361,6 +10703,28 @@
       }
     ],
     "hashEvenement": "f108187"
+  },
+  {
+    "idSeance": 197476,
+    "idEvenement": 33759,
+    "dateHeure": "2025-11-27T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47500,
+        "titre": "Perles de la couronne",
+        "art": "Les",
+        "realisateurs": "Sacha Guitry, Christian-Jaque",
+        "annee": 1937
+      }
+    ],
+    "hashEvenement": "f47500"
   },
   {
     "idSeance": 198026,
@@ -10401,6 +10765,211 @@
       }
     ],
     "hashEvenement": "c34072"
+  },
+  {
+    "idSeance": 197515,
+    "idEvenement": 33727,
+    "dateHeure": "2025-11-28T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34576,
+        "titre": "Désiré",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1937
+      }
+    ],
+    "hashEvenement": "f34576"
+  },
+  {
+    "idSeance": 197517,
+    "idEvenement": 33667,
+    "dateHeure": "2025-11-28T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29445,
+        "titre": "À vendre",
+        "realisateurs": "Laetitia Masson",
+        "annee": 1997,
+        "duree": 100,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f29445"
+  },
+  {
+    "idSeance": 197516,
+    "idEvenement": 33752,
+    "dateHeure": "2025-11-28T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49122,
+        "titre": "Remontons les Champs-Élysées",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1938
+      }
+    ],
+    "hashEvenement": "f49122"
+  },
+  {
+    "idSeance": 197518,
+    "idEvenement": 33669,
+    "dateHeure": "2025-11-28T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 66170,
+        "titre": "Love Me",
+        "realisateurs": "Laetitia Masson",
+        "annee": 1999,
+        "duree": 105,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f66170"
+  },
+  {
+    "idSeance": 198216,
+    "idEvenement": 33671,
+    "dateHeure": "2025-11-29T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 77801,
+        "titre": "Repentie",
+        "art": "La",
+        "realisateurs": "Laetitia Masson",
+        "annee": 2001,
+        "duree": 125,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f77801"
+  },
+  {
+    "idSeance": 197558,
+    "idEvenement": 33763,
+    "dateHeure": "2025-11-29T18:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49091,
+        "titre": "Destin fabuleux de Désirée Clary",
+        "art": "Le",
+        "realisateurs": "Sacha Guitry, René Le Hénaff",
+        "annee": 1942
+      }
+    ],
+    "hashEvenement": "f49091"
+  },
+  {
+    "idSeance": 198217,
+    "idEvenement": 33670,
+    "dateHeure": "2025-11-29T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 92677,
+        "titre": "Pourquoi (pas) le Brésil",
+        "realisateurs": "Laetitia Masson",
+        "annee": 2003,
+        "duree": 92,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f92677"
+  },
+  {
+    "idSeance": 197559,
+    "idEvenement": 33731,
+    "dateHeure": "2025-11-29T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49092,
+        "titre": "Diable boiteux",
+        "art": "Le",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1948,
+        "duree": 130,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f49092"
+  },
+  {
+    "idSeance": 198218,
+    "idEvenement": 33672,
+    "dateHeure": "2025-11-29T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 103582,
+        "titre": "Coupable",
+        "realisateurs": "Laetitia Masson",
+        "annee": 2007,
+        "duree": 105,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f103582"
   },
   {
     "idSeance": 197575,
@@ -10448,5 +11017,120 @@
       }
     ],
     "hashEvenement": "f37988"
+  },
+  {
+    "idSeance": 197576,
+    "idEvenement": 33726,
+    "dateHeure": "2025-11-30T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49090,
+        "titre": "Deburau",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1951
+      }
+    ],
+    "hashEvenement": "f49090"
+  },
+  {
+    "idSeance": 197577,
+    "idEvenement": 33749,
+    "dateHeure": "2025-11-30T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49097,
+        "titre": "Poison",
+        "art": "La",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1951,
+        "duree": 85,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f49097"
+  },
+  {
+    "idSeance": 198219,
+    "idEvenement": 33904,
+    "dateHeure": "2025-11-30T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Films pour la télévision"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155344,
+        "titre": "Petite fille",
+        "realisateurs": "Laetitia Masson",
+        "annee": 2011,
+        "duree": 90,
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f155344"
+  },
+  {
+    "idSeance": 198220,
+    "idEvenement": 33668,
+    "dateHeure": "2025-11-30T21:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 128336,
+        "titre": "GHB",
+        "realisateurs": "Laetitia Masson",
+        "annee": 2012,
+        "duree": 96,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f128336"
+  },
+  {
+    "idSeance": 198221,
+    "idEvenement": 33905,
+    "dateHeure": "2025-12-01T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155345,
+        "titre": "Un hiver en été",
+        "realisateurs": "Laetitia Masson",
+        "annee": 2023,
+        "duree": 110,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155345"
   }
 ]

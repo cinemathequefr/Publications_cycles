@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-10-29T20:00:00",
-    "2025-11-23T20:30:00"
+    "2025-11-30T19:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -159,6 +159,11 @@
               "idSeance": 197102,
               "dateHeure": "2025-11-13T20:00:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 197576,
+              "dateHeure": "2025-11-30T17:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -187,6 +192,11 @@
               "idSeance": 197030,
               "dateHeure": "2025-11-10T18:30:00",
               "idSalle": "GF"
+            },
+            {
+              "idSeance": 197515,
+              "dateHeure": "2025-11-28T18:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -212,8 +222,13 @@
           "seances": [
             {
               "idSeance": 196844,
-              "dateHeure": "2025-11-03T20:30:00",
+              "dateHeure": "2025-11-03T20:45:00",
               "idSalle": "GF"
+            },
+            {
+              "idSeance": 197558,
+              "dateHeure": "2025-11-29T18:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -246,6 +261,11 @@
               "dateHeure": "2025-10-29T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 197559,
+              "dateHeure": "2025-11-29T20:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -348,7 +368,7 @@
           "seances": [
             {
               "idSeance": 196843,
-              "dateHeure": "2025-11-03T18:00:00",
+              "dateHeure": "2025-11-03T18:15:00",
               "idSalle": "GF"
             }
           ]
@@ -375,7 +395,7 @@
           "seances": [
             {
               "idSeance": 198082,
-              "dateHeure": "2025-11-05T18:30:00",
+              "dateHeure": "2025-11-05T19:30:00",
               "idSalle": "GF"
             }
           ]
@@ -555,6 +575,11 @@
               "idSeance": 196811,
               "dateHeure": "2025-11-01T18:30:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 197476,
+              "dateHeure": "2025-11-27T20:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -587,6 +612,11 @@
             {
               "idSeance": 196913,
               "dateHeure": "2025-11-06T18:00:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 197577,
+              "dateHeure": "2025-11-30T19:00:00",
               "idSalle": "HL"
             }
           ]
@@ -625,6 +655,32 @@
           ]
         },
         {
+          "idFilm": 49122,
+          "content": [
+            {
+              "idFilm": 49122,
+              "ordre": 1,
+              "titre": "Remontons les Champs-Élysées",
+              "realisateurs": "Sacha Guitry",
+              "pays": "France",
+              "annee": 1938,
+              "generique": [
+                "Sacha Guitry",
+                "Lucien Baroux",
+                "Jean Périer"
+              ],
+              "miniTexte": "Trois siècles d'histoire de France évoqués à travers l'axe de la célèbre avenue parisienne. Après _Les Perles de la couronne_, Guitry pousse encore plus loin la fantaisie historique et invente une descendance à Louis XV, à force d'anecdotes et de digressions inattendues, dans l'un des cours d'histoire les plus habiles du cinéma."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197516,
+              "dateHeure": "2025-11-28T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 49123,
           "content": [
             {
@@ -653,6 +709,11 @@
             {
               "idSeance": 198078,
               "dateHeure": "2025-11-01T16:30:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 197475,
+              "dateHeure": "2025-11-27T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -960,7 +1021,8 @@
             {
               "idSeance": 196833,
               "dateHeure": "2025-11-02T19:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Noël Herpe"
             }
           ]
         }
@@ -976,7 +1038,8 @@
             {
               "idConf": 33981,
               "titre": "Dialogue avec Noël Herpe",
-              "typeConference": "Dialogue"
+              "typeConference": "Dialogue",
+              "miniTexte": "Les années d'Occupation de la France par l'Allemagne sont pour Guitry l'heure des ténèbres : il s'en remet à l'art, à la continuité de l'art français, pour continuer d'éclairer son chemin. Dans son apolitisme, cette foi un peu naïve produit un film qui ne l'est pas du tout : _Donne-moi tes yeux_ (1943), où il se projette en sculpteur aveugle, pourtant supérieurement conscient de l'état du pays. On trouverait difficilement, dans tout le cinéma occupé, un film aussi réaliste et lucide sur les conditions de la survie. Même quand Guitry convoque les conventions du mélodrame, remises à la mode par nos malheurs d'alors, c'est comme pour déconstruire, de l'intérieur, sa propre statue. — Noël Herpe"
             }
           ],
           "seances": [
@@ -993,7 +1056,8 @@
             {
               "idConf": 33983,
               "titre": "Dialogue avec Axelle Roppert",
-              "typeConference": "Dialogue"
+              "typeConference": "Dialogue",
+              "miniTexte": "Il est temps de sortir Sacha Guitry de deux cases : la « guitrophilie » stricte, et le théâtre. Pour montrer combien il est un cinéaste « plus large » que ça. Ici, à travers le portrait vertigineux d'un père comédien par son fils, c'est la question du sentiment qui peut nous montrer l'ampleur de Guitry cinéaste : combien il fut certes un homme plein d'esprit, mais aussi un artiste sentimental profond. — Axelle Ropert"
             }
           ],
           "seances": [
@@ -1009,8 +1073,9 @@
           "content": [
             {
               "idConf": 33982,
-              "titre": "dialogue avec Nicolas Pariser",
-              "typeConference": "Dialogue"
+              "titre": "Dialogue avec Nicolas Pariser",
+              "typeConference": "Dialogue",
+              "miniTexte": "Osons poser une question loin d'être anecdotique : un réalisateur doit-il nécessairement assister au tournage de ses propres films ? En voyant _Les trois font la paire_, il est permis d'en douter puisque, perclus de douleur, assommé par la morphine, ne pouvant plus quitter son lit, en un mot mourant, Sacha Guitry ne mit pas les pieds sur le tournage de son dernier film dont la jeunesse, la fantaisie, le génie n'ont rien à envier à ceux de ses plus grands chefs-d'œuvre. — Nicolas Pariser"
             }
           ],
           "seances": [
@@ -1035,8 +1100,15 @@
         "dateHeure": "2025-11-09T16:30:00"
       },
       {
-        "mention": "dialogue avec Nicolas Pariser",
+        "mention": "avec Nicolas Pariser",
         "dateHeure": "2025-11-16T16:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Ceux de chez nous / MCDXXIX-MCMXLII (De Jeanne d'Arc à Philippe Pétain) / Dîner de gala des Ambassadeurs / La Loi du 21 juin 1907 / Le Mot de Cambronne",
+        "mention": "par Noël Herpe",
+        "dateHeure": "2025-11-02T19:30:00"
       }
     ]
   }

@@ -42,10 +42,10 @@
 
 ## Antonio Margheriti (26)
 
+  * Alien, la créature des abysses  
   * Avec Django, la mort est là  
   * Brute, le colt et le karaté (La)  
   * Chevauchée terrible (La)  
-  * Contronatura  
   * Danse macabre  
   * Derniers jours d'un empire (Les)  
   * Diablesses (Les)  
@@ -60,10 +60,10 @@
   * Marchands d'esclaves  
   * Nom de code : Oies sauvages  
   * Ombre d'un tueur (L')  
-  * Opération Goldman  
   * Planète des hommes perdus (La)  
   * Planète errante (La)  
   * Pulsions cannibales  
+  * Renard de Brooklyn (Le)  
   * Sorcière sanglante (La)  
   * Vainqueur de l'espace (Le)  
   * Vierge de Nuremberg (La)  
@@ -143,9 +143,9 @@
   * Belle Captive (La)  
   * Cap Canaille  
   * Cérémonie (La)  
-  * C'est la vie  
   * Cicatrice intérieure (La)  
   * Cité des femmes (La)  
+  * Corps à cœur  
   * Court circuits  
   * Danton  
   * Dentellière (La)  
