@@ -193,7 +193,7 @@
 
 ## Laurent Cantet (15)
 
-  * 7 jours à La Havane : Diary of a Beginner  
+  * 7 jours à La Havane  
   * Arthur Rambo  
   * Atelier (L')  
   * Chercheurs d'or (Les)  
