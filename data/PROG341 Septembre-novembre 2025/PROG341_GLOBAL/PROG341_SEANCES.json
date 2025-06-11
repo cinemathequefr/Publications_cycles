@@ -545,7 +545,8 @@
         "annee": 1990,
         "duree": 9,
         "version": "VO",
-        "format": "16 mm"
+        "format": "DCP",
+        "restauration": true
       },
       {
         "idFilm": 155385,
@@ -554,7 +555,7 @@
         "realisateurs": "Christian Petzold",
         "annee": 1992,
         "duree": 33,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "16 mm"
       },
       {
@@ -563,7 +564,7 @@
         "realisateurs": "Christian Petzold, Christian Frosch, Maureen Herzfeld-Bargas, Jan Ralske, Herbert Schwarze, Dino Simonett",
         "annee": 1988,
         "duree": 22,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "16 mm"
       },
       {
@@ -572,7 +573,7 @@
         "realisateurs": "Christian Petzold",
         "annee": 1991,
         "duree": 24,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "16 mm"
       }
     ],
@@ -1871,7 +1872,7 @@
     "hashEvenement": "f42345"
   },
   {
-    "idSeance": 195419,
+    "idSeance": 198241,
     "idEvenement": 33460,
     "dateHeure": "2025-09-10T20:00:00",
     "salle": "HL",
@@ -1881,7 +1882,6 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 31232,
@@ -2064,6 +2064,28 @@
     "hashEvenement": "f50625"
   },
   {
+    "idSeance": 198159,
+    "idEvenement": 34052,
+    "dateHeure": "2025-09-12T16:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 53259,
+        "titre": "Adolescente",
+        "art": "L'",
+        "realisateurs": "Jeanne Moreau",
+        "annee": 1978
+      }
+    ],
+    "hashEvenement": "f53259"
+  },
+  {
     "idSeance": 198150,
     "idEvenement": 33529,
     "dateHeure": "2025-09-12T16:30:00",
@@ -2134,28 +2156,6 @@
       }
     ],
     "hashEvenement": "f41050"
-  },
-  {
-    "idSeance": 198159,
-    "idEvenement": 34052,
-    "dateHeure": "2025-09-12T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Histoire permanente du cinéma",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 53259,
-        "titre": "Adolescente",
-        "art": "L'",
-        "realisateurs": "Jeanne Moreau",
-        "annee": 1978
-      }
-    ],
-    "hashEvenement": "f53259"
   },
   {
     "idSeance": 197772,
@@ -2296,7 +2296,7 @@
     "hashEvenement": "c33717"
   },
   {
-    "idSeance": 197784,
+    "idSeance": 198243,
     "idEvenement": 33463,
     "dateHeure": "2025-09-13T17:30:00",
     "salle": "JE",
@@ -2367,7 +2367,7 @@
     "hashEvenement": "f102016"
   },
   {
-    "idSeance": 197785,
+    "idSeance": 198242,
     "idEvenement": 33461,
     "dateHeure": "2025-09-13T20:00:00",
     "salle": "JE",
@@ -2502,7 +2502,7 @@
     "hashEvenement": "c33718"
   },
   {
-    "idSeance": 197786,
+    "idSeance": 198244,
     "idEvenement": 33462,
     "dateHeure": "2025-09-14T15:00:00",
     "salle": "JE",
@@ -2611,7 +2611,7 @@
     "items": [
       {
         "idFilm": 126715,
-        "titre": "Four Journeys into Mystic Time: Trans",
+        "titre": "Four Journeys Into Mystic Time: Trans",
         "realisateurs": "Shirley Clarke",
         "annee": 1978
       }
@@ -2778,6 +2778,30 @@
       }
     ],
     "hashEvenement": "f80201"
+  },
+  {
+    "idSeance": 198286,
+    "idEvenement": 34177,
+    "dateHeure": "2025-09-15T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Jeanne Frankel et Cosme Castro"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Jeanne Frenkel et Cosme Castro",
+    "items": [
+      {
+        "idFilm": 155396,
+        "titre": "Araucaria",
+        "realisateurs": "Jeanne Frenkel, Cosme Castro",
+        "annee": 2024,
+        "duree": 15,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155396"
   },
   {
     "idSeance": 195532,
@@ -3717,27 +3741,51 @@
     "hashEvenement": "f120878"
   },
   {
-    "idSeance": 195723,
-    "idEvenement": 34139,
+    "idSeance": 198287,
+    "idEvenement": 34175,
     "dateHeure": "2025-09-22T19:00:00",
     "salle": "JE",
     "cycle": [
       [
         "Aujourd'hui le cinéma",
-        "Le regard de Tom Harari"
+        "Louise Chevillotte"
+      ]
+    ],
+    "mention": "Avant-première. Séance suivie d'une discussion avec Louise Chevillotte",
+    "items": [
+      {
+        "idFilm": 155395,
+        "titre": "Si nous habitons un éclair",
+        "realisateurs": "Louise Chevillotte",
+        "annee": 2024,
+        "duree": 76,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155395"
+  },
+  {
+    "idSeance": 198105,
+    "idEvenement": 33630,
+    "dateHeure": "2025-09-22T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 51800,
-        "titre": "Moi Ivan, toi Abraham",
-        "realisateurs": "Yolande Zauberman",
-        "annee": 1993,
-        "duree": 103,
-        "format": "35 mm"
+        "idFilm": 155187,
+        "titre": "Lettre à l'enfant que tu nous as donné",
+        "realisateurs": "Charlotte Silvera",
+        "annee": 2022,
+        "duree": 84,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f51800"
+    "hashEvenement": "f155187"
   },
   {
     "idSeance": 195759,
@@ -4334,6 +4382,29 @@
     "hashEvenement": "f36897"
   },
   {
+    "idSeance": 195910,
+    "idEvenement": 34139,
+    "dateHeure": "2025-09-29T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Le regard de Tom Harari"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51800,
+        "titre": "Moi Ivan, toi Abraham",
+        "realisateurs": "Yolande Zauberman",
+        "annee": 1993,
+        "duree": 103,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f51800"
+  },
+  {
     "idSeance": 198094,
     "idEvenement": 33640,
     "dateHeure": "2025-09-29T20:00:00",
@@ -4408,6 +4479,27 @@
     "hashEvenement": "f59958"
   },
   {
+    "idSeance": 198206,
+    "idEvenement": 34060,
+    "dateHeure": "2025-10-01T16:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35748,
+        "titre": "De l'influence des rayons gamma sur le comportement des marguerites",
+        "realisateurs": "Paul Newman",
+        "annee": 1972
+      }
+    ],
+    "hashEvenement": "f35748"
+  },
+  {
     "idSeance": 198099,
     "idEvenement": 33637,
     "dateHeure": "2025-10-01T18:00:00",
@@ -4434,7 +4526,7 @@
   {
     "idSeance": 197826,
     "idEvenement": 33362,
-    "dateHeure": "2025-10-01T18:30:00",
+    "dateHeure": "2025-10-01T19:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -4503,27 +4595,6 @@
       }
     ],
     "hashEvenement": "f68757f77496f77497f77498f77501f77499f117240"
-  },
-  {
-    "idSeance": 198206,
-    "idEvenement": 34060,
-    "dateHeure": "2025-10-01T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Histoire permanente du cinéma",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35748,
-        "titre": "De l'influence des rayons gamma sur le comportement des marguerites",
-        "realisateurs": "Paul Newman",
-        "annee": 1972
-      }
-    ],
-    "hashEvenement": "f35748"
   },
   {
     "idSeance": 198145,
@@ -4836,7 +4907,7 @@
   {
     "idSeance": 197998,
     "idEvenement": 33481,
-    "dateHeure": "2025-10-03T21:00:00",
+    "dateHeure": "2025-10-03T21:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5076,7 +5147,7 @@
   {
     "idSeance": 198139,
     "idEvenement": 33528,
-    "dateHeure": "2025-10-05T17:30:00",
+    "dateHeure": "2025-10-05T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5123,7 +5194,7 @@
   {
     "idSeance": 196021,
     "idEvenement": 33469,
-    "dateHeure": "2025-10-05T19:00:00",
+    "dateHeure": "2025-10-05T19:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5262,8 +5333,8 @@
     "hashEvenement": "f43691"
   },
   {
-    "idSeance": 197917,
-    "idEvenement": 7419,
+    "idSeance": 198283,
+    "idEvenement": 6672,
     "dateHeure": "2025-10-08T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -5272,20 +5343,18 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
     "items": [
       {
-        "idFilm": 36804,
-        "titre": "Falstaff",
+        "idFilm": 45143,
+        "titre": "Citizen Kane",
         "realisateurs": "Orson Welles",
-        "annee": 1966,
-        "duree": 117,
+        "annee": 1941,
+        "duree": 119,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f36804"
+    "hashEvenement": "f45143"
   },
   {
     "idSeance": 196132,
@@ -5482,7 +5551,7 @@
     "hashEvenement": "f36935"
   },
   {
-    "idSeance": 196206,
+    "idSeance": 198292,
     "idEvenement": 33479,
     "dateHeure": "2025-10-10T18:00:00",
     "salle": "HL",
@@ -5553,8 +5622,8 @@
     "hashEvenement": "f38464"
   },
   {
-    "idSeance": 196207,
-    "idEvenement": 7643,
+    "idSeance": 198291,
+    "idEvenement": 6669,
     "dateHeure": "2025-10-10T20:30:00",
     "salle": "HL",
     "cycle": [
@@ -5565,17 +5634,17 @@
     ],
     "items": [
       {
-        "idFilm": 36826,
-        "titre": "Splendeur des Amberson",
-        "art": "La",
+        "idFilm": 36828,
+        "titre": "Othello",
         "realisateurs": "Orson Welles",
-        "annee": 1942,
-        "duree": 88,
+        "annee": 1951,
+        "duree": 93,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f36826"
+    "hashEvenement": "f36828"
   },
   {
     "idSeance": 198227,
@@ -5696,8 +5765,8 @@
     "hashEvenement": "c33971"
   },
   {
-    "idSeance": 198034,
-    "idEvenement": 6663,
+    "idSeance": 198288,
+    "idEvenement": 7410,
     "dateHeure": "2025-10-11T19:00:00",
     "salle": "HL",
     "cycle": [
@@ -5708,22 +5777,22 @@
     ],
     "items": [
       {
-        "idFilm": 36830,
-        "titre": "Criminel",
-        "art": "Le",
+        "idFilm": 52419,
+        "titre": "Une histoire immortelle",
         "realisateurs": "Orson Welles",
-        "annee": 1946,
-        "duree": 95,
-        "version": "VOSTF",
-        "format": "DCP"
+        "annee": 1966,
+        "duree": 50,
+        "version": "VF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f36830"
+    "hashEvenement": "f52419"
   },
   {
     "idSeance": 198009,
     "idEvenement": 33657,
-    "dateHeure": "2025-10-11T19:15:00",
+    "dateHeure": "2025-10-11T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5769,30 +5838,6 @@
       }
     ],
     "hashEvenement": "f45437"
-  },
-  {
-    "idSeance": 198011,
-    "idEvenement": 33661,
-    "dateHeure": "2025-10-11T21:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "John Schlesinger",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35388,
-        "titre": "Fenêtre sur Pacifique",
-        "realisateurs": "John Schlesinger",
-        "annee": 1990,
-        "duree": 104,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f35388"
   },
   {
     "idSeance": 198036,
@@ -6072,8 +6117,8 @@
     "hashEvenement": "f51696"
   },
   {
-    "idSeance": 197904,
-    "idEvenement": 33941,
+    "idSeance": 198239,
+    "idEvenement": 33947,
     "dateHeure": "2025-10-15T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -6082,20 +6127,20 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
     "items": [
       {
-        "idFilm": 31331,
-        "titre": "Ruée vers l'or",
+        "idFilm": 32952,
+        "titre": "Croisière du Navigator",
         "art": "La",
-        "realisateurs": "Charles Chaplin",
-        "annee": 1925,
-        "duree": 96,
+        "realisateurs": "Buster Keaton, Donald Crisp",
+        "annee": 1924,
+        "duree": 69,
         "version": "INT. FR.",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f31331"
+    "hashEvenement": "f32952"
   },
   {
     "idSeance": 198233,
@@ -6171,9 +6216,33 @@
     "hashEvenement": "f31156"
   },
   {
+    "idSeance": 198015,
+    "idEvenement": 33655,
+    "dateHeure": "2025-10-16T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "John Schlesinger",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35364,
+        "titre": "Marathon Man",
+        "realisateurs": "John Schlesinger",
+        "annee": 1976,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35364"
+  },
+  {
     "idSeance": 196355,
     "idEvenement": 33842,
-    "dateHeure": "2025-10-16T19:00:00",
+    "dateHeure": "2025-10-16T18:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -6196,28 +6265,29 @@
     "hashEvenement": "f35820"
   },
   {
-    "idSeance": 198015,
-    "idEvenement": 33655,
-    "dateHeure": "2025-10-16T19:30:00",
-    "salle": "GF",
+    "idSeance": 198285,
+    "idEvenement": 7419,
+    "dateHeure": "2025-10-16T19:00:00",
+    "salle": "HL",
     "cycle": [
       [
-        "John Schlesinger",
+        "Orson Welles",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 35364,
-        "titre": "Marathon Man",
-        "realisateurs": "John Schlesinger",
-        "annee": 1976,
-        "duree": 125,
+        "idFilm": 36804,
+        "titre": "Falstaff",
+        "realisateurs": "Orson Welles",
+        "annee": 1966,
+        "duree": 117,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f35364"
+    "hashEvenement": "f36804"
   },
   {
     "idSeance": 197948,
@@ -6241,8 +6311,8 @@
     "hashEvenement": "c33973"
   },
   {
-    "idSeance": 198041,
-    "idEvenement": 33947,
+    "idSeance": 198240,
+    "idEvenement": 33941,
     "dateHeure": "2025-10-17T14:30:00",
     "salle": "GF",
     "cycle": [
@@ -6253,18 +6323,17 @@
     ],
     "items": [
       {
-        "idFilm": 32952,
-        "titre": "Croisière du Navigator",
+        "idFilm": 31331,
+        "titre": "Ruée vers l'or",
         "art": "La",
-        "realisateurs": "Buster Keaton, Donald Crisp",
-        "annee": 1924,
-        "duree": 69,
+        "realisateurs": "Charles Chaplin",
+        "annee": 1925,
+        "duree": 96,
         "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f32952"
+    "hashEvenement": "f31331"
   },
   {
     "idSeance": 197905,
@@ -6292,9 +6361,9 @@
     "hashEvenement": "f31057"
   },
   {
-    "idSeance": 196391,
-    "idEvenement": 6669,
-    "dateHeure": "2025-10-17T18:30:00",
+    "idSeance": 196394,
+    "idEvenement": 7410,
+    "dateHeure": "2025-10-17T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6304,17 +6373,17 @@
     ],
     "items": [
       {
-        "idFilm": 36828,
-        "titre": "Othello",
+        "idFilm": 52419,
+        "titre": "Une histoire immortelle",
         "realisateurs": "Orson Welles",
-        "annee": 1951,
-        "duree": 93,
-        "version": "VOSTF",
+        "annee": 1966,
+        "duree": 50,
+        "version": "VF",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f36828"
+    "hashEvenement": "f52419"
   },
   {
     "idSeance": 198166,
@@ -6367,9 +6436,9 @@
     "hashEvenement": "f40150"
   },
   {
-    "idSeance": 196394,
-    "idEvenement": 7410,
-    "dateHeure": "2025-10-17T20:30:00",
+    "idSeance": 198289,
+    "idEvenement": 6663,
+    "dateHeure": "2025-10-17T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6379,17 +6448,17 @@
     ],
     "items": [
       {
-        "idFilm": 52419,
-        "titre": "Une histoire immortelle",
+        "idFilm": 36830,
+        "titre": "Criminel",
+        "art": "Le",
         "realisateurs": "Orson Welles",
-        "annee": 1966,
-        "duree": 50,
-        "version": "VF",
-        "format": "DCP",
-        "restauration": true
+        "annee": 1946,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f52419"
+    "hashEvenement": "f36830"
   },
   {
     "idSeance": 198167,
@@ -6604,6 +6673,32 @@
     "hashEvenement": "f52419"
   },
   {
+    "idSeance": 198038,
+    "idEvenement": 33948,
+    "dateHeure": "2025-10-19T14:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le burlesque muet hollywoodien, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32743,
+        "titre": "Fiancées en folie",
+        "art": "Les",
+        "realisateurs": "Buster Keaton",
+        "annee": 1925,
+        "duree": 58,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f32743"
+  },
+  {
     "idSeance": 196453,
     "idEvenement": 6674,
     "dateHeure": "2025-10-19T14:30:00",
@@ -6630,6 +6725,30 @@
     "hashEvenement": "f36834"
   },
   {
+    "idSeance": 196459,
+    "idEvenement": 33649,
+    "dateHeure": "2025-10-19T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "John Schlesinger",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45122,
+        "titre": "Loin de la foule déchaînée",
+        "realisateurs": "John Schlesinger",
+        "annee": 1967,
+        "duree": 169,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f45122"
+  },
+  {
     "idSeance": 196454,
     "idEvenement": 7552,
     "dateHeure": "2025-10-19T17:00:00",
@@ -6652,32 +6771,6 @@
       }
     ],
     "hashEvenement": "f32544"
-  },
-  {
-    "idSeance": 198038,
-    "idEvenement": 33948,
-    "dateHeure": "2025-10-19T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Le burlesque muet hollywoodien, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 32743,
-        "titre": "Fiancées en folie",
-        "art": "Les",
-        "realisateurs": "Buster Keaton",
-        "annee": 1925,
-        "duree": 58,
-        "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f32743"
   },
   {
     "idSeance": 196455,
@@ -6704,9 +6797,9 @@
     "hashEvenement": "f33445"
   },
   {
-    "idSeance": 196459,
-    "idEvenement": 33649,
-    "dateHeure": "2025-10-19T19:30:00",
+    "idSeance": 198245,
+    "idEvenement": 33661,
+    "dateHeure": "2025-10-19T19:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6716,16 +6809,16 @@
     ],
     "items": [
       {
-        "idFilm": 45122,
-        "titre": "Loin de la foule déchaînée",
+        "idFilm": 35388,
+        "titre": "Fenêtre sur Pacifique",
         "realisateurs": "John Schlesinger",
-        "annee": 1967,
-        "duree": 169,
+        "annee": 1990,
+        "duree": 104,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f45122"
+    "hashEvenement": "f35388"
   },
   {
     "idSeance": 197906,
@@ -6804,7 +6897,7 @@
   {
     "idSeance": 196467,
     "idEvenement": 33836,
-    "dateHeure": "2025-10-20T20:00:00",
+    "dateHeure": "2025-10-20T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6812,7 +6905,7 @@
         "Hafsia Herzi cinéaste"
       ]
     ],
-    "mention": "Avant-première",
+    "mention": "Avant-première. Séance présentée par Hafsia Herzi",
     "items": [
       {
         "idFilm": 155341,
@@ -6859,6 +6952,30 @@
     "hashEvenement": "f68684f59241"
   },
   {
+    "idSeance": 196507,
+    "idEvenement": 32167,
+    "dateHeure": "2025-10-22T16:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47186,
+        "titre": "Fantôme de la liberté",
+        "art": "Le",
+        "realisateurs": "Luis Buñuel",
+        "annee": 1974,
+        "duree": 104,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f47186"
+  },
+  {
     "idSeance": 198066,
     "idEvenement": 33954,
     "dateHeure": "2025-10-22T17:00:00",
@@ -6885,7 +7002,7 @@
   {
     "idSeance": 198104,
     "idEvenement": 34103,
-    "dateHeure": "2025-10-22T18:30:00",
+    "dateHeure": "2025-10-22T18:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6907,9 +7024,33 @@
     "hashEvenement": "f36816"
   },
   {
+    "idSeance": 198234,
+    "idEvenement": 33656,
+    "dateHeure": "2025-10-22T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "John Schlesinger",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 46990,
+        "titre": "Yanks",
+        "realisateurs": "John Schlesinger",
+        "annee": 1979,
+        "duree": 140,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f46990"
+  },
+  {
     "idSeance": 198109,
     "idEvenement": 33830,
-    "dateHeure": "2025-10-22T19:00:00",
+    "dateHeure": "2025-10-22T18:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6931,33 +7072,9 @@
     "hashEvenement": "f108435"
   },
   {
-    "idSeance": 196507,
-    "idEvenement": 32167,
-    "dateHeure": "2025-10-22T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Histoire permanente du cinéma",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 47186,
-        "titre": "Fantôme de la liberté",
-        "art": "Le",
-        "realisateurs": "Luis Buñuel",
-        "annee": 1974,
-        "duree": 104,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f47186"
-  },
-  {
     "idSeance": 198054,
     "idEvenement": 7421,
-    "dateHeure": "2025-10-22T20:30:00",
+    "dateHeure": "2025-10-22T20:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6981,7 +7098,7 @@
   {
     "idSeance": 198110,
     "idEvenement": 33825,
-    "dateHeure": "2025-10-22T21:15:00",
+    "dateHeure": "2025-10-22T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7052,29 +7169,6 @@
     "hashEvenement": "f32739"
   },
   {
-    "idSeance": 198111,
-    "idEvenement": 34088,
-    "dateHeure": "2025-10-23T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hafsia Herzi",
-        "Hafsia Herzi actrice"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155365,
-        "titre": "Borgo",
-        "realisateurs": "Stéphane Demoustier",
-        "annee": 2023,
-        "duree": 118,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155365"
-  },
-  {
     "idSeance": 196537,
     "idEvenement": 6654,
     "dateHeure": "2025-10-23T18:00:00",
@@ -7097,6 +7191,29 @@
       }
     ],
     "hashEvenement": "f58662"
+  },
+  {
+    "idSeance": 198111,
+    "idEvenement": 34088,
+    "dateHeure": "2025-10-23T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Hafsia Herzi",
+        "Hafsia Herzi actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155365,
+        "titre": "Borgo",
+        "realisateurs": "Stéphane Demoustier",
+        "annee": 2023,
+        "duree": 118,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155365"
   },
   {
     "idSeance": 196542,
@@ -7148,7 +7265,7 @@
   {
     "idSeance": 198062,
     "idEvenement": 33824,
-    "dateHeure": "2025-10-23T20:45:00",
+    "dateHeure": "2025-10-23T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7190,6 +7307,27 @@
     "hashEvenement": "f155338"
   },
   {
+    "idSeance": 198168,
+    "idEvenement": 34058,
+    "dateHeure": "2025-10-24T16:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41055,
+        "titre": "Rita, Susie et Bob aussi !",
+        "realisateurs": "Alan Clarke",
+        "annee": 1986
+      }
+    ],
+    "hashEvenement": "f41055"
+  },
+  {
     "idSeance": 197763,
     "idEvenement": 33936,
     "dateHeure": "2025-10-24T17:00:00",
@@ -7211,25 +7349,32 @@
     "hashEvenement": "c33936"
   },
   {
-    "idSeance": 198168,
-    "idEvenement": 34058,
-    "dateHeure": "2025-10-24T19:00:00",
+    "idSeance": 198236,
+    "idEvenement": 33651,
+    "dateHeure": "2025-10-24T18:30:00",
     "salle": "JE",
     "cycle": [
       [
-        "Histoire permanente du cinéma",
+        "John Schlesinger",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Murielle Joudet",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 41055,
-        "titre": "Rita, Susie et Bob aussi !",
-        "realisateurs": "Alan Clarke",
-        "annee": 1986
+        "idFilm": 34394,
+        "titre": "Macadam Cowboy",
+        "realisateurs": "John Schlesinger",
+        "annee": 1969,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f41055"
+    "hashEvenement": "f34394"
   },
   {
     "idSeance": 198112,
@@ -7336,6 +7481,27 @@
     "hashEvenement": "f147094f141851"
   },
   {
+    "idSeance": 198284,
+    "idEvenement": 34178,
+    "dateHeure": "2025-10-25T16:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Hafsia Herzi",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 34178,
+        "titre": "Hafsia Herzi par Hafsia Herzi, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c34178"
+  },
+  {
     "idSeance": 196627,
     "idEvenement": 6655,
     "dateHeure": "2025-10-25T17:30:00",
@@ -7407,6 +7573,31 @@
       }
     ],
     "hashEvenement": "f42442"
+  },
+  {
+    "idSeance": 198290,
+    "idEvenement": 7643,
+    "dateHeure": "2025-10-26T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36826,
+        "titre": "Splendeur des Amberson",
+        "art": "La",
+        "realisateurs": "Orson Welles",
+        "annee": 1942,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f36826"
   },
   {
     "idSeance": 196645,
@@ -7715,7 +7906,7 @@
   {
     "idSeance": 196688,
     "idEvenement": 34125,
-    "dateHeure": "2025-10-29T17:15:00",
+    "dateHeure": "2025-10-29T17:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7858,7 +8049,7 @@
     "hashEvenement": "f39977"
   },
   {
-    "idSeance": 196727,
+    "idSeance": 198246,
     "idEvenement": 33761,
     "dateHeure": "2025-10-30T18:00:00",
     "salle": "HL",
@@ -7929,7 +8120,7 @@
     "hashEvenement": "f88450"
   },
   {
-    "idSeance": 196728,
+    "idSeance": 198247,
     "idEvenement": 33762,
     "dateHeure": "2025-10-30T20:00:00",
     "salle": "HL",
@@ -8099,7 +8290,7 @@
     "hashEvenement": "f44432"
   },
   {
-    "idSeance": 198077,
+    "idSeance": 198248,
     "idEvenement": 33745,
     "dateHeure": "2025-10-31T20:15:00",
     "salle": "HL",
@@ -8171,6 +8362,29 @@
       }
     ],
     "hashEvenement": "f45437"
+  },
+  {
+    "idSeance": 196816,
+    "idEvenement": 33828,
+    "dateHeure": "2025-11-01T15:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Hafsia Herzi",
+        "Hafsia Herzi actrice"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 112946,
+        "titre": "Ma compagne de nuit",
+        "realisateurs": "Isabelle Brocard",
+        "annee": 2011,
+        "duree": 100,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f112946"
   },
   {
     "idSeance": 197950,
@@ -8271,7 +8485,7 @@
     "hashEvenement": "f126510f125280f125190f75066"
   },
   {
-    "idSeance": 196811,
+    "idSeance": 198249,
     "idEvenement": 33759,
     "dateHeure": "2025-11-01T18:30:00",
     "salle": "HL",
@@ -8338,7 +8552,7 @@
   {
     "idSeance": 198079,
     "idEvenement": 33732,
-    "dateHeure": "2025-11-01T20:30:00",
+    "dateHeure": "2025-11-01T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -8725,7 +8939,7 @@
     "hashEvenement": "f155386"
   },
   {
-    "idSeance": 196844,
+    "idSeance": 198250,
     "idEvenement": 33763,
     "dateHeure": "2025-11-03T20:45:00",
     "salle": "GF",
@@ -8799,7 +9013,7 @@
     "hashEvenement": "f74559"
   },
   {
-    "idSeance": 198082,
+    "idSeance": 198251,
     "idEvenement": 33736,
     "dateHeure": "2025-11-05T19:30:00",
     "salle": "GF",
@@ -8822,7 +9036,7 @@
     "hashEvenement": "f49096"
   },
   {
-    "idSeance": 196876,
+    "idSeance": 198252,
     "idEvenement": 34082,
     "dateHeure": "2025-11-05T20:00:00",
     "salle": "HL",
@@ -8832,7 +9046,6 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 66169,
@@ -8940,7 +9153,7 @@
     "hashEvenement": "f49097"
   },
   {
-    "idSeance": 198085,
+    "idSeance": 198253,
     "idEvenement": 34081,
     "dateHeure": "2025-11-06T18:30:00",
     "salle": "GF",
@@ -8986,29 +9199,6 @@
     "hashEvenement": "f154833"
   },
   {
-    "idSeance": 196911,
-    "idEvenement": 34080,
-    "dateHeure": "2025-11-06T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Laurent Cantet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 98369,
-        "titre": "Vers le sud",
-        "realisateurs": "Laurent Cantet",
-        "annee": 2005,
-        "duree": 115,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f98369"
-  },
-  {
     "idSeance": 196916,
     "idEvenement": 7428,
     "dateHeure": "2025-11-06T20:30:00",
@@ -9032,6 +9222,29 @@
       }
     ],
     "hashEvenement": "f77148"
+  },
+  {
+    "idSeance": 198254,
+    "idEvenement": 34080,
+    "dateHeure": "2025-11-06T21:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laurent Cantet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 98369,
+        "titre": "Vers le sud",
+        "realisateurs": "Laurent Cantet",
+        "annee": 2005,
+        "duree": 115,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f98369"
   },
   {
     "idSeance": 198213,
@@ -9103,6 +9316,28 @@
     "hashEvenement": "f36119"
   },
   {
+    "idSeance": 198256,
+    "idEvenement": 34079,
+    "dateHeure": "2025-11-07T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laurent Cantet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 104532,
+        "titre": "Entre les murs",
+        "realisateurs": "Laurent Cantet",
+        "annee": 2007,
+        "duree": 130
+      }
+    ],
+    "hashEvenement": "f104532"
+  },
+  {
     "idSeance": 196958,
     "idEvenement": 33626,
     "dateHeure": "2025-11-07T18:30:00",
@@ -9172,28 +9407,6 @@
       }
     ],
     "hashEvenement": "f149030f52783f155324f96604f155305f155325"
-  },
-  {
-    "idSeance": 198086,
-    "idEvenement": 34079,
-    "dateHeure": "2025-11-07T19:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Laurent Cantet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 104532,
-        "titre": "Entre les murs",
-        "realisateurs": "Laurent Cantet",
-        "annee": 2007,
-        "duree": 130
-      }
-    ],
-    "hashEvenement": "f104532"
   },
   {
     "idSeance": 197951,
@@ -9281,7 +9494,7 @@
   {
     "idSeance": 198088,
     "idEvenement": 34078,
-    "dateHeure": "2025-11-07T21:30:00",
+    "dateHeure": "2025-11-07T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9376,7 +9589,7 @@
     "hashEvenement": "f35077"
   },
   {
-    "idSeance": 196997,
+    "idSeance": 198257,
     "idEvenement": 33750,
     "dateHeure": "2025-11-08T17:00:00",
     "salle": "HL",
@@ -9422,7 +9635,7 @@
     "hashEvenement": "f126241"
   },
   {
-    "idSeance": 196998,
+    "idSeance": 198258,
     "idEvenement": 33744,
     "dateHeure": "2025-11-08T19:00:00",
     "salle": "HL",
@@ -9445,7 +9658,7 @@
     "hashEvenement": "f30555"
   },
   {
-    "idSeance": 197001,
+    "idSeance": 198259,
     "idEvenement": 34077,
     "dateHeure": "2025-11-08T20:00:00",
     "salle": "GF",
@@ -9558,7 +9771,7 @@
     "hashEvenement": "c33983"
   },
   {
-    "idSeance": 197021,
+    "idSeance": 198260,
     "idEvenement": 34076,
     "dateHeure": "2025-11-09T17:30:00",
     "salle": "GF",
@@ -9605,7 +9818,7 @@
     "hashEvenement": "f29161"
   },
   {
-    "idSeance": 197016,
+    "idSeance": 198261,
     "idEvenement": 33737,
     "dateHeure": "2025-11-09T19:00:00",
     "salle": "HL",
@@ -9675,7 +9888,7 @@
     "hashEvenement": "f54390"
   },
   {
-    "idSeance": 197030,
+    "idSeance": 198262,
     "idEvenement": 33727,
     "dateHeure": "2025-11-10T18:30:00",
     "salle": "GF",
@@ -9697,7 +9910,7 @@
     "hashEvenement": "f34576"
   },
   {
-    "idSeance": 197031,
+    "idSeance": 198263,
     "idEvenement": 33729,
     "dateHeure": "2025-11-10T20:30:00",
     "salle": "GF",
@@ -9744,9 +9957,9 @@
     "hashEvenement": "f82682"
   },
   {
-    "idSeance": 197066,
+    "idSeance": 198264,
     "idEvenement": 34075,
-    "dateHeure": "2025-11-12T18:30:00",
+    "dateHeure": "2025-11-12T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9792,7 +10005,7 @@
     "hashEvenement": "f126650"
   },
   {
-    "idSeance": 197067,
+    "idSeance": 198265,
     "idEvenement": 34074,
     "dateHeure": "2025-11-12T20:30:00",
     "salle": "GF",
@@ -9838,7 +10051,7 @@
     "hashEvenement": "f116476"
   },
   {
-    "idSeance": 197101,
+    "idSeance": 198266,
     "idEvenement": 33757,
     "dateHeure": "2025-11-13T18:00:00",
     "salle": "HL",
@@ -9909,7 +10122,7 @@
     "hashEvenement": "f103462"
   },
   {
-    "idSeance": 197102,
+    "idSeance": 198267,
     "idEvenement": 33726,
     "dateHeure": "2025-11-13T20:00:00",
     "salle": "HL",
@@ -9998,7 +10211,7 @@
     "hashEvenement": "c33937"
   },
   {
-    "idSeance": 197141,
+    "idSeance": 198268,
     "idEvenement": 33756,
     "dateHeure": "2025-11-14T18:00:00",
     "salle": "HL",
@@ -10022,10 +10235,10 @@
     "hashEvenement": "f49125"
   },
   {
-    "idSeance": 198193,
-    "idEvenement": 6687,
-    "dateHeure": "2025-11-14T18:30:00",
-    "salle": "JE",
+    "idSeance": 197143,
+    "idEvenement": 6672,
+    "dateHeure": "2025-11-14T19:30:00",
+    "salle": "GF",
     "cycle": [
       [
         "Orson Welles",
@@ -10034,27 +10247,19 @@
     ],
     "items": [
       {
-        "idFilm": 79280,
-        "titre": "Orson Welles",
-        "realisateurs": "François Reichenbach, Frédéric Rossif",
-        "annee": 1968,
-        "duree": 24,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 126170,
-        "titre": "Vive le cinéma ! Jeanne Moreau",
-        "realisateurs": "Jacques Rozier",
-        "annee": 1972,
-        "duree": 30,
+        "idFilm": 45143,
+        "titre": "Citizen Kane",
+        "realisateurs": "Orson Welles",
+        "annee": 1941,
+        "duree": 119,
         "version": "VOSTF",
-        "format": "Numérique"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f79280f126170"
+    "hashEvenement": "f45143"
   },
   {
-    "idSeance": 197142,
+    "idSeance": 198269,
     "idEvenement": 33758,
     "dateHeure": "2025-11-14T20:00:00",
     "salle": "HL",
@@ -10076,40 +10281,6 @@
       }
     ],
     "hashEvenement": "f49126"
-  },
-  {
-    "idSeance": 198194,
-    "idEvenement": 7807,
-    "dateHeure": "2025-11-14T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 126693,
-        "titre": "Versiones de Campanadas a medianoche",
-        "art": "Las",
-        "realisateurs": "Luciano Berriatúa",
-        "annee": 2012,
-        "duree": 18,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 126178,
-        "titre": "Shakespeare et Orson Welles",
-        "realisateurs": "Richard Marienstras, Isidro Romero",
-        "annee": 1973,
-        "duree": 53,
-        "version": "VOSTF",
-        "format": "Numérique"
-      }
-    ],
-    "hashEvenement": "f126693f126178"
   },
   {
     "idSeance": 197187,
@@ -10201,7 +10372,7 @@
     "hashEvenement": "f86654"
   },
   {
-    "idSeance": 197185,
+    "idSeance": 198270,
     "idEvenement": 33755,
     "dateHeure": "2025-11-15T18:30:00",
     "salle": "HL",
@@ -10224,7 +10395,7 @@
     "hashEvenement": "f48922"
   },
   {
-    "idSeance": 197201,
+    "idSeance": 198271,
     "idEvenement": 33760,
     "dateHeure": "2025-11-16T14:30:00",
     "salle": "HL",
@@ -10295,6 +10466,28 @@
     "hashEvenement": "f112714f112715f42934f112716"
   },
   {
+    "idSeance": 197207,
+    "idEvenement": 34085,
+    "dateHeure": "2025-11-16T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laurent Cantet",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 64487,
+        "titre": "Jeux de plage",
+        "realisateurs": "Laurent Cantet",
+        "annee": 1995,
+        "duree": 28
+      }
+    ],
+    "hashEvenement": "f64487"
+  },
+  {
     "idSeance": 197952,
     "idEvenement": 33982,
     "dateHeure": "2025-11-16T16:30:00",
@@ -10316,31 +10509,9 @@
     "hashEvenement": "c33982"
   },
   {
-    "idSeance": 197207,
-    "idEvenement": 34085,
-    "dateHeure": "2025-11-16T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Laurent Cantet",
-        "Courts métrages"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 64487,
-        "titre": "Jeux de plage",
-        "realisateurs": "Laurent Cantet",
-        "annee": 1995,
-        "duree": 28
-      }
-    ],
-    "hashEvenement": "f64487"
-  },
-  {
     "idSeance": 197208,
     "idEvenement": 34084,
-    "dateHeure": "2025-11-16T18:30:00",
+    "dateHeure": "2025-11-16T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -10380,6 +10551,38 @@
       }
     ],
     "hashEvenement": "f49087"
+  },
+  {
+    "idSeance": 198193,
+    "idEvenement": 6687,
+    "dateHeure": "2025-11-16T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79280,
+        "titre": "Orson Welles",
+        "realisateurs": "François Reichenbach, Frédéric Rossif",
+        "annee": 1968,
+        "duree": 24,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 126170,
+        "titre": "Vive le cinéma ! Jeanne Moreau",
+        "realisateurs": "Jacques Rozier",
+        "annee": 1972,
+        "duree": 30,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f79280f126170"
   },
   {
     "idSeance": 198222,
@@ -10426,6 +10629,40 @@
       }
     ],
     "hashEvenement": "f48985"
+  },
+  {
+    "idSeance": 198194,
+    "idEvenement": 7807,
+    "dateHeure": "2025-11-16T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 126693,
+        "titre": "Versiones de Campanadas a medianoche",
+        "art": "Las",
+        "realisateurs": "Luciano Berriatúa",
+        "annee": 2012,
+        "duree": 18,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 126178,
+        "titre": "Shakespeare et Orson Welles",
+        "realisateurs": "Richard Marienstras, Isidro Romero",
+        "annee": 1973,
+        "duree": 53,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f126693f126178"
   },
   {
     "idSeance": 198125,
@@ -10635,7 +10872,7 @@
     "hashEvenement": "f43792"
   },
   {
-    "idSeance": 197289,
+    "idSeance": 198275,
     "idEvenement": 33745,
     "dateHeure": "2025-11-20T20:00:00",
     "salle": "HL",
@@ -10801,7 +11038,7 @@
     "hashEvenement": "f51779"
   },
   {
-    "idSeance": 197372,
+    "idSeance": 198276,
     "idEvenement": 33750,
     "dateHeure": "2025-11-22T17:00:00",
     "salle": "HL",
@@ -10847,7 +11084,7 @@
     "hashEvenement": "f49093"
   },
   {
-    "idSeance": 197388,
+    "idSeance": 198274,
     "idEvenement": 33757,
     "dateHeure": "2025-11-23T14:30:00",
     "salle": "HL",
@@ -10893,7 +11130,7 @@
     "hashEvenement": "f34670"
   },
   {
-    "idSeance": 197389,
+    "idSeance": 198273,
     "idEvenement": 33729,
     "dateHeure": "2025-11-23T18:30:00",
     "salle": "HL",
@@ -10915,7 +11152,7 @@
     "hashEvenement": "f59434"
   },
   {
-    "idSeance": 197390,
+    "idSeance": 198272,
     "idEvenement": 33756,
     "dateHeure": "2025-11-23T20:30:00",
     "salle": "HL",
@@ -11102,7 +11339,7 @@
     "hashEvenement": "f108187"
   },
   {
-    "idSeance": 197476,
+    "idSeance": 198277,
     "idEvenement": 33759,
     "dateHeure": "2025-11-27T20:00:00",
     "salle": "HL",
@@ -11167,9 +11404,9 @@
     "hashEvenement": "c34072"
   },
   {
-    "idSeance": 197515,
+    "idSeance": 198278,
     "idEvenement": 33727,
-    "dateHeure": "2025-11-28T18:00:00",
+    "dateHeure": "2025-11-28T18:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -11212,9 +11449,9 @@
     "hashEvenement": "f29445"
   },
   {
-    "idSeance": 197516,
+    "idSeance": 198279,
     "idEvenement": 33752,
-    "dateHeure": "2025-11-28T20:00:00",
+    "dateHeure": "2025-11-28T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -11232,29 +11469,6 @@
       }
     ],
     "hashEvenement": "f49122"
-  },
-  {
-    "idSeance": 197518,
-    "idEvenement": 33669,
-    "dateHeure": "2025-11-28T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Laetitia Masson",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 66170,
-        "titre": "Love Me",
-        "realisateurs": "Laetitia Masson",
-        "annee": 1999,
-        "duree": 105,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f66170"
   },
   {
     "idSeance": 198216,
@@ -11281,7 +11495,30 @@
     "hashEvenement": "f77801"
   },
   {
-    "idSeance": 197558,
+    "idSeance": 198217,
+    "idEvenement": 33670,
+    "dateHeure": "2025-11-29T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 92677,
+        "titre": "Pourquoi (pas) le Brésil",
+        "realisateurs": "Laetitia Masson",
+        "annee": 2003,
+        "duree": 92,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f92677"
+  },
+  {
+    "idSeance": 198280,
     "idEvenement": 33763,
     "dateHeure": "2025-11-29T18:30:00",
     "salle": "HL",
@@ -11305,9 +11542,9 @@
     "hashEvenement": "f49091"
   },
   {
-    "idSeance": 198217,
-    "idEvenement": 33670,
-    "dateHeure": "2025-11-29T19:30:00",
+    "idSeance": 198218,
+    "idEvenement": 33672,
+    "dateHeure": "2025-11-29T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -11317,20 +11554,20 @@
     ],
     "items": [
       {
-        "idFilm": 92677,
-        "titre": "Pourquoi (pas) le Brésil",
+        "idFilm": 103582,
+        "titre": "Coupable",
         "realisateurs": "Laetitia Masson",
-        "annee": 2003,
-        "duree": 92,
+        "annee": 2007,
+        "duree": 105,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f92677"
+    "hashEvenement": "f103582"
   },
   {
     "idSeance": 197559,
     "idEvenement": 33731,
-    "dateHeure": "2025-11-29T20:30:00",
+    "dateHeure": "2025-11-29T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -11351,29 +11588,6 @@
       }
     ],
     "hashEvenement": "f49092"
-  },
-  {
-    "idSeance": 198218,
-    "idEvenement": 33672,
-    "dateHeure": "2025-11-29T21:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Laetitia Masson",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 103582,
-        "titre": "Coupable",
-        "realisateurs": "Laetitia Masson",
-        "annee": 2007,
-        "duree": 105,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f103582"
   },
   {
     "idSeance": 197575,
@@ -11423,7 +11637,30 @@
     "hashEvenement": "f37988"
   },
   {
-    "idSeance": 197576,
+    "idSeance": 197579,
+    "idEvenement": 33905,
+    "dateHeure": "2025-11-30T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155345,
+        "titre": "Un hiver en été",
+        "realisateurs": "Laetitia Masson",
+        "annee": 2023,
+        "duree": 110,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155345"
+  },
+  {
+    "idSeance": 198281,
     "idEvenement": 33726,
     "dateHeure": "2025-11-30T17:00:00",
     "salle": "HL",
@@ -11444,6 +11681,29 @@
       }
     ],
     "hashEvenement": "f49090"
+  },
+  {
+    "idSeance": 198219,
+    "idEvenement": 33904,
+    "dateHeure": "2025-11-30T17:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Films pour la télévision"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155344,
+        "titre": "Petite fille",
+        "realisateurs": "Laetitia Masson",
+        "annee": 2011,
+        "duree": 90,
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f155344"
   },
   {
     "idSeance": 197577,
@@ -11471,32 +11731,9 @@
     "hashEvenement": "f49097"
   },
   {
-    "idSeance": 198219,
-    "idEvenement": 33904,
-    "dateHeure": "2025-11-30T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Laetitia Masson",
-        "Films pour la télévision"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155344,
-        "titre": "Petite fille",
-        "realisateurs": "Laetitia Masson",
-        "annee": 2011,
-        "duree": 90,
-        "format": "Numérique"
-      }
-    ],
-    "hashEvenement": "f155344"
-  },
-  {
     "idSeance": 198220,
     "idEvenement": 33668,
-    "dateHeure": "2025-11-30T21:30:00",
+    "dateHeure": "2025-11-30T19:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -11515,99 +11752,5 @@
       }
     ],
     "hashEvenement": "f128336"
-  },
-  {
-    "idSeance": 198225,
-    "idEvenement": 33851,
-    "dateHeure": "2025-12-01T16:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Histoire permanente du cinéma",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 41837,
-        "titre": "Pipicacadodo",
-        "realisateurs": "Marco Ferreri",
-        "annee": 1979,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f41837"
-  },
-  {
-    "idSeance": 198221,
-    "idEvenement": 33905,
-    "dateHeure": "2025-12-01T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Laetitia Masson",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155345,
-        "titre": "Un hiver en été",
-        "realisateurs": "Laetitia Masson",
-        "annee": 2023,
-        "duree": 110,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155345"
-  },
-  {
-    "idSeance": 196771,
-    "idEvenement": 33828,
-    "dateHeure": "2025-12-01T18:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Hafsia Herzi",
-        "Hafsia Herzi actrice"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 112946,
-        "titre": "Ma compagne de nuit",
-        "realisateurs": "Isabelle Brocard",
-        "annee": 2011,
-        "duree": 100,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f112946"
-  },
-  {
-    "idSeance": 198198,
-    "idEvenement": 34147,
-    "dateHeure": "2025-12-01T20:45:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Hafsia Herzi",
-        "Hafsia Herzi actrice"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155391,
-        "titre": "Prisonnière de Bordeaux",
-        "art": "La",
-        "realisateurs": "Patricia Mazuy",
-        "annee": 2024,
-        "duree": 108,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155391"
   }
 ]

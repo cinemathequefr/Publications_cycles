@@ -4,14 +4,16 @@
 
   * Sous la terre
 
-## Aujourd'hui le cinéma (6)
+## Aujourd'hui le cinéma (8)
 
   * Alcools  
+  * Araucaria  
   * Fortune  
   * Hiver à Sokcho  
   * Mister Bridge  
   * Moi Ivan, toi Abraham  
-  * Pont du vaisseau (Le)
+  * Pont du vaisseau (Le)  
+  * Si nous habitons un éclair
 
 ## Christian Petzold (20)
 
@@ -101,7 +103,7 @@
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (42)
+## Histoire permanente du cinéma (41)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
@@ -138,7 +140,6 @@
   * Parfum de femme  
   * Peau (La)  
   * Petites Fugues (Les)  
-  * Pipicacadodo  
   * Pixote, la loi du plus faible  
   * Provinciale (La)  
   * Rendez-vous d'Anna (Les)  
@@ -179,13 +180,12 @@
   * Strange Days  
   * Zero Dark Thirty
 
-## Laetitia Masson (9)
+## Laetitia Masson (8)
 
   * À vendre  
   * Coupable  
   * En avoir (ou pas)  
   * GHB  
-  * Love Me  
   * Petite fille  
   * Pourquoi (pas) le Brésil  
   * Repentie (La)  
@@ -423,7 +423,7 @@
 
   * Bullfight  
   * Connection (The)  
-  * Four Journeys into Mystic Time: Trans  
+  * Four Journeys Into Mystic Time: Trans  
   * Harlem Story  
   * Ornette: Made in America  
   * Portrait of Jason
@@ -437,6 +437,10 @@
   * Master Gardener  
   * SOS Fantômes  
   * Une carte du monde
+
+## Séances spéciales (1)
+
+  * Lettre à l'enfant que tu nous as donné
 
 ## Week-end Clint Eastwood (7)
 

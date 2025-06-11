@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2025-10-20T20:00:00",
-    "2025-12-01T20:45:00"
+    "2025-10-20T20:30:00",
+    "2025-11-01T15:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -94,9 +94,9 @@
           "seances": [
             {
               "idSeance": 196467,
-              "dateHeure": "2025-10-20T20:00:00",
+              "dateHeure": "2025-10-20T20:30:00",
               "idSalle": "HL",
-              "mention": ""
+              "mention": " Séance présentée par Hafsia Herzi"
             }
           ]
         },
@@ -180,7 +180,7 @@
           "seances": [
             {
               "idSeance": 198110,
-              "dateHeure": "2025-10-22T21:15:00",
+              "dateHeure": "2025-10-22T21:00:00",
               "idSalle": "GF"
             }
           ]
@@ -209,7 +209,7 @@
           "seances": [
             {
               "idSeance": 198111,
-              "dateHeure": "2025-10-23T18:00:00",
+              "dateHeure": "2025-10-23T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -298,8 +298,8 @@
           ],
           "seances": [
             {
-              "idSeance": 196771,
-              "dateHeure": "2025-12-01T18:30:00",
+              "idSeance": 196816,
+              "dateHeure": "2025-11-01T15:30:00",
               "idSalle": "JE"
             }
           ]
@@ -362,11 +362,6 @@
               "idSeance": 196644,
               "dateHeure": "2025-10-26T15:00:00",
               "idSalle": "JE"
-            },
-            {
-              "idSeance": 198198,
-              "dateHeure": "2025-12-01T20:45:00",
-              "idSalle": "JE"
             }
           ]
         },
@@ -427,7 +422,7 @@
           "seances": [
             {
               "idSeance": 198109,
-              "dateHeure": "2025-10-22T19:00:00",
+              "dateHeure": "2025-10-22T18:45:00",
               "idSalle": "GF"
             }
           ]
@@ -483,7 +478,7 @@
           "seances": [
             {
               "idSeance": 198062,
-              "dateHeure": "2025-10-23T20:45:00",
+              "dateHeure": "2025-10-23T21:00:00",
               "idSalle": "GF"
             }
           ]
@@ -519,13 +514,50 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34178,
+          "content": [
+            {
+              "idConf": 34178,
+              "titre": "Hafsia Herzi par Hafsia Herzi, une leçon de cinéma",
+              "typeConference": "Leçon de cinéma"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198284,
+              "dateHeure": "2025-10-25T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Avant-première": [
       {
-        "dateHeure": "2025-10-20T20:00:00",
-        "titreFilms": "La Petite Dernière"
+        "dateHeure": "2025-10-20T20:30:00",
+        "titreFilms": "La Petite Dernière",
+        "mention": " Séance présentée par Hafsia Herzi"
+      }
+    ],
+    "Leçon de cinéma": [
+      {
+        "titre": "Hafsia Herzi par Hafsia Herzi, une leçon de cinéma",
+        "dateHeure": "2025-10-25T16:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "La Petite Dernière",
+        "mention": "par Hafsia Herzi",
+        "dateHeure": "2025-10-20T20:30:00"
       }
     ]
   }
