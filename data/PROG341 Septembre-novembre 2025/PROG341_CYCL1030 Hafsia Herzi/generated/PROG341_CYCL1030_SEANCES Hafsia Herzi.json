@@ -137,7 +137,7 @@
   {
     "idCategorie": 3884,
     "typeEvenement": 13,
-    "idEvenement": 33822,
+    "idEvenement": 33827,
     "idSeance": 198120,
     "dateHeure": "2025-10-25T14:30:00",
     "idSalle": [
@@ -147,8 +147,17 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 141851,
+        "idFilm": 147094,
         "ordre": 1,
+        "idSeance": 198120,
+        "idCopie": 30370,
+        "duree": 15,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 141851,
+        "ordre": 2,
         "idSeance": 198120,
         "idCopie": 18596,
         "duree": 102,
@@ -252,8 +261,8 @@
   {
     "idCategorie": 3883,
     "typeEvenement": 13,
-    "idEvenement": 33831,
-    "idSeance": 198116,
+    "idEvenement": 34171,
+    "idSeance": 198230,
     "dateHeure": "2025-10-29T20:45:00",
     "idSalle": [
       "JE",
@@ -262,11 +271,11 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 104372,
+        "idFilm": 138457,
         "ordre": 1,
-        "idSeance": 198116,
-        "idCopie": 30314,
-        "duree": 84,
+        "idSeance": 198230,
+        "idCopie": 30369,
+        "duree": 82,
         "version": "",
         "format": "DCP"
       }

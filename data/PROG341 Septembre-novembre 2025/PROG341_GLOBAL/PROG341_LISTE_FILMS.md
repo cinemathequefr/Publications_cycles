@@ -4,6 +4,15 @@
 
   * Sous la terre
 
+## Aujourd'hui le cinéma (6)
+
+  * Alcools  
+  * Fortune  
+  * Hiver à Sokcho  
+  * Mister Bridge  
+  * Moi Ivan, toi Abraham  
+  * Pont du vaisseau (Le)
+
 ## Christian Petzold (20)
 
   * Au sud  
@@ -72,26 +81,27 @@
   * Une partie de cartes  
   * Voyage dans la Lune (Le)
 
-## Hafsia Herzi (16)
+## Hafsia Herzi (17)
 
   * Apollonide : Souvenirs de la maison close (L')  
   * Bonne Mère  
   * Borgo  
   * Cour (La)  
-  * Française  
+  * Féminin plurielles  
   * Graine et le Mulet (La)  
   * Ma compagne de nuit  
   * Mektoub, My Love : Canto uno  
   * Petite Dernière (La)  
   * Prisonnière de Bordeaux (La)  
   * Ravissement (Le)  
+  * Rodba (Le)  
   * Roi de l'évasion (Le)  
   * Secrets (Les)  
   * Sex Doll  
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (41)
+## Histoire permanente du cinéma (42)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
@@ -113,6 +123,7 @@
   * Element of Crime  
   * Fantôme de la liberté (Le)  
   * Golden Eighties  
+  * Homme qui voulait savoir (L')  
   * Honneur perdu de Katharina Blum (L')  
   * I... comme Icare  
   * Incinérateur de cadavres (L')  
