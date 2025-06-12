@@ -4,7 +4,7 @@
 
   * Sous la terre
 
-## Aujourd'hui le cinéma (14)
+## Aujourd'hui le cinéma (15)
 
   * +10K  
   * Alcools  
@@ -14,6 +14,7 @@
   * Fille de l'eau  
   * Fortune  
   * Hiver à Sokcho  
+  * iNTELLIGENCE  
   * Mister Bridge  
   * Moi Ivan, toi Abraham  
   * Mort du poisson (La)  
@@ -107,10 +108,11 @@
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (39)
+## Histoire permanente du cinéma (43)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
+  * Âme sœur (L')  
   * American Gigolo  
   * Amerika, rapports de classe  
   * Amour l'après-midi (L')  
@@ -125,11 +127,12 @@
   * Chambre avec vue  
   * Daniel  
   * De l'influence des rayons gamma sur le comportement des marguerites  
-  * Deep End  
   * Element of Crime  
+  * Épreuve de force (L')  
   * Fantôme de la liberté (Le)  
   * Golden Eighties  
   * Homme qui voulait savoir (L')  
+  * Honneur perdu de Katharina Blum (L')  
   * I... comme Icare  
   * Incinérateur de cadavres (L')  
   * Juge et l'Assassin (Le)  
@@ -137,16 +140,18 @@
   * Love Streams  
   * M*A*S*H  
   * Mariage de Maria Braun (Le)  
-  * Nostalghia  
   * Nuits de la pleine lune (Les)  
   * Ombre des châteaux (L')  
   * Parfum de femme  
   * Peau (La)  
+  * Petites Fugues (Les)  
+  * Pipicacadodo  
   * Pixote, la loi du plus faible  
   * Provinciale (La)  
   * Rendez-vous d'Anna (Les)  
   * Rita, Susie et Bob aussi !  
   * Un enfant de Calabre  
+  * Un nouveau départ  
   * Vivre vite
 
 ## John Schlesinger (17)
@@ -210,11 +215,10 @@
   * Tous à la manif  
   * Vers le sud
 
-## Le burlesque muet hollywoodien, 25 indispensables (22)
+## Le burlesque muet hollywoodien, 20 indispensables (20)
 
   * Athlète incomplet (L')  
   * Bataille du siècle (La)  
-  * Cadet d'eau douce  
   * Caméraman (Le)  
   * Cirque (Le)  
   * Croisière du Navigator (La)  
@@ -227,7 +231,6 @@
   * Lumières de la ville (Les)  
   * Ma vache et moi  
   * Mécano de la General (Le)  
-  * Monte là-dessus  
   * Œil pour œil  
   * Plein les bottes  
   * Ruée vers l'or (La)  
@@ -314,7 +317,7 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (80)
+## Orson Welles (93)
 
   * Affaire Dominici par Orson Welles (L')  
   * Around the World with Orson Welles : London  
@@ -324,9 +327,11 @@
   * Around the World with Orson Welles : Vienna  
   * Cagliostro  
   * Citizen Kane  
+  * Citizen Kane (bande-annonce)  
   * Criminel (Le)  
   * Dame de Shanghaï (La)  
   * De l'autre côté du vent [version Netflix]  
+  * Dean Martin Show, saison 4, épisode 2 (The)  
   * Décade prodigieuse (La)  
   * Deep (The)  
   * Désordre  
@@ -343,22 +348,29 @@
   * Fountain of Youth (The)  
   * Génie du mal (Le)  
   * Hearts of Age (The)  
+  * Hollywood Parade  
   * Homme qui a vu l'homme qui a vu l'ours (L')  
+  * I Love Lucy : Lucy Meets Orson Welles  
   * In the Land of Don Quixote : Flamenco Lesson  
   * It's All True: Based on an Unfinished Film by Orson Welles  
   * Jane Eyre  
+  * King Lear in New York  
+  * King Lear Tape  
   * Labyrinthes de Mr Arkadin (Les)  
   * Lettre du Kremlin (La)  
-  * ls m'aimeront quand je serai mort  
+  * lls m'aimeront quand je serai mort  
   * Macbeth  
+  * Magic Trick  
   * Merchant of Venice (The)  
   * Moby Dick  
   * Nikka Whisky : Magic publicité japonaise  
+  * Nikka Whisky : publicité japonaise  
   * Orson Welles  
   * Orson Welles à la Cinémathèque française  
   * Orson Welles at Large : Portrait of Gina  
   * Orson Welles, autopsie d'une légende  
   * Orson Welles' Don Quixote  
+  * Orson Welles' Jeremiah  
   * Orson Welles, l'homme-orchestre  
   * Orson Welles' London  
   * Orson Welles' Magic Show  
@@ -366,6 +378,7 @@
   * Orson Welles on Stage in Dublin  
   * Orson Welles over Europe  
   * Orson Welles Show (The)  
+  * Orson Welles' Shylock  
   * Orson Welles' Sketch Book  
   * Orson Welles' Sketch Book, episode 1: The Early Days  
   * Orson Welles' Sketch Book, episode 2: Critics  
@@ -378,6 +391,7 @@
   * Othello  
   * Procès (Le)  
   * Racines du ciel (Les)  
+  * Return to Glennascaul  
   * Rogopag  
   * Salaire du diable (Le)  
   * Shakespeare et Orson Welles  
@@ -390,12 +404,14 @@
   * Troisième Homme (Le)  
   * Un cri dans l'ombre  
   * Une histoire immortelle  
+  * Unsung Heroes  
   * Vérités et Mensonges  
   * Vérités et Mensonges (bande-annonce)  
   * Versiones de Campanadas a medianoche (Las)  
   * Vive le cinéma ! Jeanne Moreau  
   * Voyage au pays de la peur  
-  * Welles Angels
+  * Welles Angels  
+  * Welles in Cannes 1983
 
 ## Parlons cinéma... avec Yasmina Reza (4)
 
