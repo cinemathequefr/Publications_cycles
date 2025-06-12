@@ -16,7 +16,7 @@
   * Hiver à Sokcho  
   * Mister Bridge  
   * Moi Ivan, toi Abraham  
-  * mort du poisson (La)  
+  * Mort du poisson (La)  
   * Pont du vaisseau (Le)  
   * Si nous habitons un éclair  
   * Un ciel si bas
@@ -194,13 +194,12 @@
   * Repentie (La)  
   * Un hiver en été
 
-## Laurent Cantet (15)
+## Laurent Cantet (14)
 
   * 7 jours à La Havane  
   * Arthur Rambo  
   * Atelier (L')  
   * Chercheurs d'or (Les)  
-  * Corps et ses atteintes (Le)  
   * Emploi du temps (L')  
   * Entre les murs  
   * Enzo  

@@ -179,7 +179,7 @@
           "seances": [
             {
               "idSeance": 197187,
-              "dateHeure": "2025-11-15T15:00:00",
+              "dateHeure": "2025-11-15T17:00:00",
               "idSalle": "GF"
             }
           ]
@@ -242,6 +242,11 @@
               "dateHeure": "2025-11-05T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 200944,
+              "dateHeure": "2025-11-16T19:15:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -298,8 +303,8 @@
           ],
           "seances": [
             {
-              "idSeance": 198222,
-              "dateHeure": "2025-11-16T19:00:00",
+              "idSeance": 200942,
+              "dateHeure": "2025-11-16T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -341,11 +346,42 @@
       "titreSousCycle": "Courts métrages",
       "items": [
         {
-          "idFilm": 66176,
+          "idEvenement": 34087,
           "content": [
             {
-              "idFilm": 66176,
+              "idFilm": 86654,
               "ordre": 1,
+              "titre": "Chercheurs d'or",
+              "art": "Les",
+              "realisateurs": "Laurent Cantet",
+              "pays": "France",
+              "annee": 1986,
+              "generique": [
+                "Marie Simon",
+                "Stéphane Eisenlohr",
+                "Vincent Gieulles"
+              ],
+              "miniTexte": "Film de fin d'études à l'IDHEC, l'histoire d'une bande de gamins, qui jouent les Robinson sur une île déserte, annonce l'expérience du groupe d'amis des _Sanguinaires_, son premier long métrage."
+            },
+            {
+              "idFilm": 64487,
+              "ordre": 2,
+              "titre": "Jeux de plage",
+              "realisateurs": "Laurent Cantet",
+              "pays": "France",
+              "annee": 1995,
+              "duree": 28,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Jalil Lespert",
+                "Jean Lespert"
+              ],
+              "miniTexte": "Avec son deuxième court métrage, Laurent Cantet transforme une simple journée estivale en une exploration profonde des tensions entre un père et son fils de 18 ans, lequel délaisse la vie de famille pour les plaisirs insouciants d'une bande de jeunes de son âge."
+            },
+            {
+              "idFilm": 66176,
+              "ordre": 3,
               "titre": "Tous à la manif",
               "realisateurs": "Laurent Cantet",
               "pays": "France",
@@ -364,83 +400,7 @@
           "seances": [
             {
               "idSeance": 197188,
-              "dateHeure": "2025-11-15T17:15:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 86654,
-          "content": [
-            {
-              "idFilm": 86654,
-              "ordre": 1,
-              "titre": "Chercheurs d'or",
-              "art": "Les",
-              "realisateurs": "Laurent Cantet",
-              "pays": "France",
-              "annee": 1986,
-              "generique": [
-                "Marie Simon",
-                "Stéphane Eisenlohr",
-                "Vincent Gieulles"
-              ],
-              "miniTexte": "Film de fin d'études à l'IDHEC, l'histoire d'une bande de gamins, qui jouent les Robinson sur une île déserte, annonce l'expérience du groupe d'amis des _Sanguinaires_, son premier long métrage."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197189,
-              "dateHeure": "2025-11-15T18:15:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 64487,
-          "content": [
-            {
-              "idFilm": 64487,
-              "ordre": 1,
-              "titre": "Jeux de plage",
-              "realisateurs": "Laurent Cantet",
-              "pays": "France",
-              "annee": 1995,
-              "duree": 28,
-              "version": "",
-              "format": "",
-              "generique": [
-                "Jalil Lespert",
-                "Jean Lespert"
-              ],
-              "miniTexte": "Avec son deuxième court métrage, Laurent Cantet transforme une simple journée estivale en une exploration profonde des tensions entre un père et son fils de 18 ans, lequel délaisse la vie de famille pour les plaisirs insouciants d'une bande de jeunes de son âge."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197207,
-              "dateHeure": "2025-11-16T16:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 86655,
-          "content": [
-            {
-              "idFilm": 86655,
-              "ordre": 1,
-              "titre": "Corps et ses atteintes",
-              "art": "Le",
-              "realisateurs": "Laurent Cantet",
-              "pays": "France",
-              "annee": 1996
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197208,
-              "dateHeure": "2025-11-16T18:00:00",
+              "dateHeure": "2025-11-15T19:30:00",
               "idSalle": "GF"
             }
           ]
