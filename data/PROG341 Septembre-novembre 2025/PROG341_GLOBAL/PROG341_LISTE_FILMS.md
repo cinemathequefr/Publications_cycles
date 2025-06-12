@@ -107,7 +107,7 @@
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (40)
+## Histoire permanente du cinéma (39)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
@@ -130,7 +130,6 @@
   * Fantôme de la liberté (Le)  
   * Golden Eighties  
   * Homme qui voulait savoir (L')  
-  * Honneur perdu de Katharina Blum (L')  
   * I... comme Icare  
   * Incinérateur de cadavres (L')  
   * Juge et l'Assassin (Le)  
@@ -315,13 +314,14 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (72)
+## Orson Welles (80)
 
   * Affaire Dominici par Orson Welles (L')  
   * Around the World with Orson Welles : London  
   * Around the World with Orson Welles : Madrid Bullfight  
   * Around the World with Orson Welles : Pays basque  
   * Around the World with Orson Welles : Saint-Germain-des-Prés  
+  * Around the World with Orson Welles : Vienna  
   * Cagliostro  
   * Citizen Kane  
   * Criminel (Le)  
@@ -344,10 +344,12 @@
   * Génie du mal (Le)  
   * Hearts of Age (The)  
   * Homme qui a vu l'homme qui a vu l'ours (L')  
+  * In the Land of Don Quixote : Flamenco Lesson  
   * It's All True: Based on an Unfinished Film by Orson Welles  
   * Jane Eyre  
   * Labyrinthes de Mr Arkadin (Les)  
   * Lettre du Kremlin (La)  
+  * ls m'aimeront quand je serai mort  
   * Macbeth  
   * Merchant of Venice (The)  
   * Moby Dick  
@@ -356,8 +358,10 @@
   * Orson Welles à la Cinémathèque française  
   * Orson Welles at Large : Portrait of Gina  
   * Orson Welles, autopsie d'une légende  
+  * Orson Welles' Don Quixote  
   * Orson Welles, l'homme-orchestre  
   * Orson Welles' London  
+  * Orson Welles' Magic Show  
   * Orson Welles' Moby Dick  
   * Orson Welles on Stage in Dublin  
   * Orson Welles over Europe  
@@ -366,8 +370,10 @@
   * Orson Welles' Sketch Book, episode 1: The Early Days  
   * Orson Welles' Sketch Book, episode 2: Critics  
   * Orson Welles' Sketch Book, episode 3: The Police  
+  * Orson Welles' Sketch Book, episode 4: People I Miss  
   * Orson Welles' Sketch Book, episode 5: The War of the Worlds  
   * Orson Welles Talks with Roger Hill  
+  * Orson Welles' The Golden Honeymoon  
   * Orson Welles' « Voodoo » Macbeth  
   * Othello  
   * Procès (Le)  
@@ -376,6 +382,7 @@
   * Salaire du diable (Le)  
   * Shakespeare et Orson Welles  
   * Soif du mal (La)  
+  * Spirit of Charles Lindbergh (The)  
   * Splendeur des Amberson (La)  
   * This Is Orson Welles  
   * Too Much Johnson  
@@ -470,7 +477,7 @@
   * Sully  
   * Un monde parfait
 
-## William A. Wellman (61)
+## William A. Wellman (62)
 
   * Ailes (Les)  
   * Allée sanglante (L')  
@@ -518,6 +525,7 @@
   * President Vanishes (The)  
   * Purchase Price (The)  
   * Quartier chinois  
+  * Rideau de fer (Le)  
   * Robin des Bois d'Eldorado  
   * Roxie Hart  
   * Ses premières ailes  

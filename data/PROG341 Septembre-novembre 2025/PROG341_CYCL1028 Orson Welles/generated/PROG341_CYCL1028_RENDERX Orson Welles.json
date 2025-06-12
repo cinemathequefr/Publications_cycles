@@ -562,18 +562,10 @@
               ],
               "seances": [
                 {
-                  "idSeance": 198104,
-                  "dateHeure": "2025-10-22T18:00:00",
-                  "idSalle": "HL",
-                  "idSeanceAssoc": 200933,
-                  "mentionAssoc": "Film seul"
-                },
-                {
                   "idSeance": 200933,
                   "typeAssoc": 118,
                   "dateHeure": "2025-11-01T15:00:00",
-                  "idSalle": "GF",
-                  "mentionAssoc": "Film + dialogue"
+                  "idSalle": "GF"
                 }
               ]
             }
@@ -991,6 +983,30 @@
           ]
         },
         {
+          "idFilm": 155402,
+          "content": [
+            {
+              "idFilm": 155402,
+              "ordre": 1,
+              "titre": "ls m'aimeront quand je serai mort",
+              "titreVo": "They'll Love Me When I'm DeadI",
+              "realisateurs": "Morgan Neville",
+              "pays": "États-Unis",
+              "annee": 2018,
+              "duree": 98,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200947,
+              "dateHeure": "2025-11-15T19:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 36823,
           "content": [
             {
@@ -1017,6 +1033,11 @@
             {
               "idSeance": 198310,
               "dateHeure": "2025-10-10T20:30:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 200952,
+              "dateHeure": "2025-10-18T18:30:00",
               "idSalle": "HL"
             }
           ]
@@ -1179,6 +1200,35 @@
               "idSeance": 198191,
               "dateHeure": "2025-11-13T18:30:00",
               "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 155403,
+          "content": [
+            {
+              "idFilm": 155403,
+              "ordre": 1,
+              "titre": "Orson Welles' Don Quixote",
+              "realisateurs": "Jess Franco",
+              "pays": "Espagne",
+              "annee": 1992,
+              "duree": 106,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Francisco Reiguera",
+                "Akim Tamiroff",
+                "Orson Welles"
+              ],
+              "miniTexte": "Un des films inachevés d'Orson Welles, exhumé et reconstitué par le producteur espagnol Patxi Irigoyen et le cinéaste Jess Franco (assistant de Welles sur _Falstaff_), dans une version projetée à l'Exposition universelle de Séville."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 196692,
+              "dateHeure": "2025-10-29T19:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1448,6 +1498,109 @@
           ]
         },
         {
+          "idEvenement": 34105,
+          "content": [
+            {
+              "idFilm": 126512,
+              "ordre": 1,
+              "titre": "Orson Welles' Sketch Book, episode 4: People I Miss",
+              "realisateurs": "Orson Welles",
+              "pays": "Grande-Bretagne",
+              "annee": 1955,
+              "duree": 15,
+              "version": "VOSTF",
+              "format": "DCP",
+              "miniTexte": "Welles raconte l'histoire d'Isaac Woodard, un vétéran noir décoré de la Seconde Guerre mondiale, rendu aveugle lors d'un brutal passage à tabac par la police de Caroline du Sud en 1946."
+            },
+            {
+              "idFilm": 155368,
+              "ordre": 2,
+              "titre": "In the Land of Don Quixote : Flamenco Lesson",
+              "realisateurs": "Orson Welles",
+              "pays": "Italie",
+              "annee": 1964,
+              "duree": 26,
+              "version": "VOSTF",
+              "format": "DCP",
+              "miniTexte": "Afin de financer son _Don Quichotte_, Welles réalise, pour la Rai, une série de neuf épisodes sur ses voyages en Espagne avec sa femme Paola Mori et leur fille Beatrice. Parmi les séquences les plus fameuses, la leçon de flamenco de Beatrice."
+            },
+            {
+              "idFilm": 155367,
+              "ordre": 3,
+              "titre": "Around the World with Orson Welles : Vienna",
+              "realisateurs": "Orson Welles",
+              "pays": "Grande-Bretagne",
+              "annee": 1955,
+              "duree": 9,
+              "version": "VOSTF",
+              "format": "DCP",
+              "miniTexte": "Épisode inachevé du projet _Orson's Bag_, dans lequel Welles traverse quelques villes européennes. À Vienne, il tombe sous le charme des pâtisseries autrichiennes."
+            },
+            {
+              "idFilm": 125201,
+              "ordre": 4,
+              "titre": "Vérités et Mensonges (bande-annonce)",
+              "realisateurs": "Orson Welles",
+              "pays": "États-Unis",
+              "annee": 1976,
+              "duree": 10,
+              "version": "VOSTF",
+              "format": "DCP",
+              "miniTexte": "Afin de provoquer l'attention du spectateur sur le potentiel de _Vérités et mensonges_, Welles use de subterfuges comme l'utilisation de scènes et de personnages qui n'apparaissent pas dans la version définitive."
+            },
+            {
+              "idFilm": 125194,
+              "ordre": 5,
+              "titre": "Orson Welles' The Golden Honeymoon",
+              "realisateurs": "Orson Welles",
+              "pays": "États-Unis",
+              "annee": 1970,
+              "duree": 17,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Orson Welles"
+              ],
+              "miniTexte": "En octobre 1970, Welles enregistre, dans sa maison de Hollywood, une nouvelle de Ring Lardner, utilisée comme fond sonore pour les écrans de la chaîne de magasins Sears."
+            },
+            {
+              "idFilm": 75064,
+              "ordre": 6,
+              "titre": "Orson Welles' Magic Show",
+              "realisateurs": "Orson Welles",
+              "pays": "États-Unis",
+              "annee": 1976,
+              "duree": 27,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Orson Welles"
+              ],
+              "miniTexte": "Fasciné par la magie, Welles exécute plusieurs tours devant la caméra, sans aucun effet spécial cinématographique."
+            },
+            {
+              "idFilm": 75062,
+              "ordre": 7,
+              "titre": "Spirit of Charles Lindbergh",
+              "art": "The",
+              "realisateurs": "Orson Welles",
+              "pays": "États-Unis",
+              "annee": 1984,
+              "duree": 3,
+              "version": "VOSTF",
+              "format": "DCP",
+              "miniTexte": "Lettre cinématographique destinée à son ami malade, Bill Cronshaw, à qui Welles, lui-même malade, veut redonner courage, en lisant un extrait du journal de Charles Lindbergh."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200954,
+              "dateHeure": "2025-11-03T16:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idEvenement": 34094,
           "content": [
             {
@@ -1542,10 +1695,37 @@
               "idSeance": 198163,
               "dateHeure": "2025-10-13T20:45:00",
               "idSalle": "GF"
-            },
+            }
+          ]
+        },
+        {
+          "idFilm": 36828,
+          "content": [
             {
-              "idSeance": 198308,
-              "dateHeure": "2025-10-18T18:30:00",
+              "idFilm": 36828,
+              "ordre": 1,
+              "titre": "Othello",
+              "realisateurs": "Orson Welles",
+              "pays": "Maroc",
+              "annee": 1951,
+              "duree": 93,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après la pièce _Othello_ de William Shakespeare.",
+              "generique": [
+                "Orson Welles",
+                "Micheál MacLiammóir",
+                "Suzanne Cloutier"
+              ],
+              "isFocus": true,
+              "miniTexte": "Dans l'Italie du XVI<sup>e</sup> siècle, la tragédie du valeureux Maure de Venise, poussé par le perfide Iago à tuer sa femme innocente, Desdémone. Infatigable adaptateur de Shakespeare, Welles réduit le texte du dramaturge à sa quintessence. Ses méthodes de réalisation masquent une production longue et fastidieuse : des gros plans, des angles inclinés, des clairs-obscurs et un montage scandé par une myriade de lieux de tournage (entre Maroc et Italie) confèrent au film une folle énergie. Du chaos d'un projet vertigineux, contre toute attente, jaillit la Palme d'or du festival de Cannes 1952."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200953,
+              "dateHeure": "2025-10-22T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -2092,7 +2272,7 @@
             },
             {
               "idSeance": 196438,
-              "dateHeure": "2025-10-18T20:30:00",
+              "dateHeure": "2025-10-18T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -2168,7 +2348,8 @@
             {
               "idSeance": 200931,
               "dateHeure": "2025-10-08T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
             }
           ]
         },

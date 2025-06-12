@@ -10,6 +10,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 165,
+    "typeSeance": 44,
     "items": [
       {
         "idFilm": 125201,
@@ -29,7 +30,8 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 3873,
@@ -477,32 +479,23 @@
   {
     "idCategorie": 3873,
     "typeEvenement": 13,
-    "idEvenement": 7415,
-    "idSeance": 198308,
+    "idEvenement": 6670,
+    "idSeance": 200952,
     "dateHeure": "2025-10-18T18:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 126240,
-        "ordre": 1,
-        "idSeance": 198308,
-        "idCopie": 7149,
-        "duree": 4,
-        "version": "VOSTF",
-        "format": "Numérique"
-      },
-      {
         "idFilm": 36823,
-        "ordre": 2,
-        "idSeance": 198308,
-        "idCopie": 6708,
-        "duree": 85,
+        "ordre": 1,
+        "idSeance": 200952,
+        "idCopie": 6846,
+        "duree": 108,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ]
   },
@@ -511,7 +504,7 @@
     "typeEvenement": 13,
     "idEvenement": 7849,
     "idSeance": 196438,
-    "dateHeure": "2025-10-18T20:30:00",
+    "dateHeure": "2025-10-18T20:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -657,25 +650,26 @@
     ]
   },
   {
-    "idCategorie": 3870,
+    "idCategorie": 3873,
     "typeEvenement": 13,
-    "idEvenement": 34103,
-    "idSeance": 198104,
+    "idEvenement": 6669,
+    "idSeance": 200953,
     "dateHeure": "2025-10-22T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 105,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 36816,
+        "idFilm": 36828,
         "ordre": 1,
-        "idSeance": 198104,
-        "idCopie": 7004,
-        "duree": 80,
-        "version": "VO",
-        "format": "35 mm"
+        "idSeance": 200953,
+        "idCopie": 6709,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -969,6 +963,29 @@
         "duree": 105,
         "version": "VOSTF",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3870,
+    "typeEvenement": 13,
+    "idEvenement": 34192,
+    "idSeance": 196692,
+    "dateHeure": "2025-10-29T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 155403,
+        "ordre": 1,
+        "idSeance": 196692,
+        "idCopie": 30395,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -1284,6 +1301,83 @@
         "idSeance": 198179,
         "idCopie": 6915,
         "duree": 84,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3920,
+    "typeEvenement": 13,
+    "idEvenement": 34105,
+    "idSeance": 200954,
+    "dateHeure": "2025-11-03T16:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 126512,
+        "ordre": 1,
+        "idSeance": 200954,
+        "idCopie": 6966,
+        "duree": 15,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155368,
+        "ordre": 2,
+        "idSeance": 200954,
+        "idCopie": 30324,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155367,
+        "ordre": 3,
+        "idSeance": 200954,
+        "idCopie": 30325,
+        "duree": 9,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 125201,
+        "ordre": 4,
+        "idSeance": 200954,
+        "idCopie": 6817,
+        "duree": 10,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 125194,
+        "ordre": 5,
+        "idSeance": 200954,
+        "idCopie": 6977,
+        "duree": 17,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 75064,
+        "ordre": 6,
+        "idSeance": 200954,
+        "idCopie": 6970,
+        "duree": 27,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 75062,
+        "ordre": 7,
+        "idSeance": 200954,
+        "idCopie": 6919,
+        "duree": 3,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -1678,6 +1772,29 @@
     "items": [
       {
         "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 3871,
+    "typeEvenement": 13,
+    "idEvenement": 34190,
+    "idSeance": 200947,
+    "dateHeure": "2025-11-15T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 155402,
+        "ordre": 1,
+        "idSeance": 200947,
+        "idCopie": 30394,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
