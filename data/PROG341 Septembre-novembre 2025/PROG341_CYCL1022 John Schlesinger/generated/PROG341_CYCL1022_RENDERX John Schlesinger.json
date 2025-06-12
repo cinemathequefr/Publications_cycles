@@ -364,6 +364,7 @@
           "seances": [
             {
               "idSeance": 197994,
+              "typeAssoc": 118,
               "dateHeure": "2025-10-02T19:00:00",
               "idSalle": "HL"
             },
@@ -405,39 +406,59 @@
           ]
         },
         {
-          "idFilm": 35364,
-          "content": [
+          "groupe": [
             {
               "idFilm": 35364,
-              "ordre": 1,
-              "titre": "Marathon Man",
-              "realisateurs": "John Schlesinger",
-              "pays": "États-Unis",
-              "annee": 1976,
-              "duree": 125,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _Marathon Man_ de William Goldman.",
-              "generique": [
-                "Dustin Hoffman",
-                "Laurence Olivier",
-                "Roy Scheider",
-                "William Devane"
-              ],
-              "isFocus": true,
-              "miniTexte": "_« Is it safe? »_ C'est le crissement de la roulette du « dentiste », c'est la course éperdue d'un homme qui veut oublier la mort de son père, victime du maccarthysme. Et qui se prend de face celle de son frère, assassiné sous ses yeux. C'est une bonne part de l'histoire du XX<sup>e</sup> siècle, les fantômes de l'Holocauste qui n'ont pas fini de hanter les générations suivantes. C'est Paris, c'est New York, sales, violentes, hostiles. Sept ans après _Macadam Cowboy_, Schlesinger retrouve Dustin Hoffman, incarnation de l'étudiant juvénile, humaniste et angoissé. Face à lui, le grand Laurence Olivier en ancien bourreau d'Auschwitz, Mengele de pacotille qui vient raviver les braises du nazisme (Golden Globe pour sa prestation), et des seconds rôles solides, merveilleux Roy Scheider et William Devane. Adapté du roman éponyme de William Goldman, un thriller paranoïaque trempé dans son époque, et un sommet du genre."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198146,
-              "dateHeure": "2025-10-05T14:30:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 35364,
+                  "ordre": 1,
+                  "titre": "Marathon Man",
+                  "realisateurs": "John Schlesinger",
+                  "pays": "États-Unis",
+                  "annee": 1976,
+                  "duree": 125,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "adaptation": "D'après le roman _Marathon Man_ de William Goldman.",
+                  "generique": [
+                    "Dustin Hoffman",
+                    "Laurence Olivier",
+                    "Roy Scheider",
+                    "William Devane"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "_« Is it safe? »_ C'est le crissement de la roulette du « dentiste », c'est la course éperdue d'un homme qui veut oublier la mort de son père, victime du maccarthysme. Et qui se prend de face celle de son frère, assassiné sous ses yeux. C'est une bonne part de l'histoire du XX<sup>e</sup> siècle, les fantômes de l'Holocauste qui n'ont pas fini de hanter les générations suivantes. C'est Paris, c'est New York, sales, violentes, hostiles. Sept ans après _Macadam Cowboy_, Schlesinger retrouve Dustin Hoffman, incarnation de l'étudiant juvénile, humaniste et angoissé. Face à lui, le grand Laurence Olivier en ancien bourreau d'Auschwitz, Mengele de pacotille qui vient raviver les braises du nazisme (Golden Globe pour sa prestation), et des seconds rôles solides, merveilleux Roy Scheider et William Devane. Adapté du roman éponyme de William Goldman, un thriller paranoïaque trempé dans son époque, et un sommet du genre."
+                }
+              ]
             },
             {
-              "idSeance": 198015,
-              "dateHeure": "2025-10-16T18:30:00",
-              "idSalle": "GF"
+              "idEvenement": 33978,
+              "content": [
+                {
+                  "idConf": 33978,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-Baptiste Thoret",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 198146,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-10-05T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 198146,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 198015,
+                  "dateHeure": "2025-10-16T18:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -571,5 +592,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Marathon Man",
+        "mention": "avec Jean-Baptiste Thoret",
+        "dateHeure": "2025-10-05T14:30:00"
+      }
+    ]
+  }
 }

@@ -4,16 +4,22 @@
 
   * Sous la terre
 
-## Aujourd'hui le cinéma (8)
+## Aujourd'hui le cinéma (14)
 
+  * +10K  
   * Alcools  
   * Araucaria  
+  * Charbon de terre  
+  * Dieu est timide  
+  * Fille de l'eau  
   * Fortune  
   * Hiver à Sokcho  
   * Mister Bridge  
   * Moi Ivan, toi Abraham  
+  * mort du poisson (La)  
   * Pont du vaisseau (Le)  
-  * Si nous habitons un éclair
+  * Si nous habitons un éclair  
+  * Un ciel si bas
 
 ## Christian Petzold (20)
 
@@ -38,7 +44,7 @@
   * Warme Geld (Das)  
   * Yella
 
-## Cinéma bis (14)
+## Cinéma bis (12)
 
   * Blessure  
   * Bruce contre-attaque  
@@ -46,14 +52,12 @@
   * Crypte du vampire (La)  
   * Daughter of Horror  
   * Empire des Ninjas (L')  
-  * Étoile du sud (L')  
   * Flag  
   * Glen or Glenda  
   * Infirmière a le bistouri facile (L')  
   * Malédiction du vampire (La)  
   * Mission ninja  
-  * Possédée du vice (La)  
-  * Trois pour un massacre
+  * Possédée du vice (La)
 
 ## Fenêtre sur les collections (25)
 
@@ -64,14 +68,14 @@
   * Calino veut être cow-boy  
   * Cendrillon ou la pantoufle merveilleuse  
   * Cow-boy John cherche un engagement au music-hall (Le)  
-  * Cow-boys et peaux rouges  
+  * Cow-boys et Peaux-Rouges  
   * Danse du « Kickapoo »  
   * Défense d'afficher  
   * Fée Carabosse ou Le Poignard fatal (La)  
   * Jeanne d'Arc  
   * John le cow-boy se fait trottin  
   * Juif errant (Le)  
-  * Justice du peau-rouge (La)  
+  * Justice du Peau-Rouge (La)  
   * Lanterne magique (La)  
   * Légende de Rip Van Winkle (La)  
   * Mélomane (Le)  
@@ -103,7 +107,7 @@
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (41)
+## Histoire permanente du cinéma (40)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
@@ -139,7 +143,6 @@
   * Ombre des châteaux (L')  
   * Parfum de femme  
   * Peau (La)  
-  * Petites Fugues (Les)  
   * Pixote, la loi du plus faible  
   * Provinciale (La)  
   * Rendez-vous d'Anna (Les)  
@@ -313,9 +316,13 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (59)
+## Orson Welles (70)
 
   * Affaire Dominici par Orson Welles (L')  
+  * Around the World with Orson Welles : London  
+  * Around the World with Orson Welles : Madrid Bullfight  
+  * Around the World with Orson Welles : Pays basque  
+  * Around the World with Orson Welles : Saint-Germain-des-Prés  
   * Cagliostro  
   * Citizen Kane  
   * Criminel (Le)  
@@ -327,20 +334,22 @@
   * Désordre a vingt ans (Le)  
   * Don Quichotte  
   * Dossier secret  
+  * Drame dans un miroir  
   * Dreamers (The)  
   * Échec à Borgia  
+  * Étoile du sud (L')  
   * Falstaff  
   * Filming Othello  
   * Filming The Trial  
   * Fountain of Youth (The)  
   * Génie du mal (Le)  
+  * Hearts of Age (The)  
   * Homme qui a vu l'homme qui a vu l'ours (L')  
   * It's All True: Based on an Unfinished Film by Orson Welles  
   * Jane Eyre  
   * Labyrinthes de Mr Arkadin (Les)  
   * Lettre du Kremlin (La)  
   * Macbeth  
-  * Malpertuis  
   * Merchant of Venice (The)  
   * Moby Dick  
   * Orson Welles  
@@ -351,6 +360,8 @@
   * Orson Welles' London  
   * Orson Welles' Moby Dick  
   * Orson Welles on Stage in Dublin  
+  * Orson Welles over Europe  
+  * Orson Welles Show (The)  
   * Orson Welles' Sketch Book, episode 1: The Early Days  
   * Orson Welles' Sketch Book, episode 2: Critics  
   * Orson Welles' Sketch Book, episode 3: The Police  
@@ -359,6 +370,7 @@
   * Orson Welles' « Voodoo » Macbeth  
   * Othello  
   * Procès (Le)  
+  * Racines du ciel (Les)  
   * Rogopag  
   * Salaire du diable (Le)  
   * Shakespeare et Orson Welles  
@@ -366,10 +378,12 @@
   * Splendeur des Amberson (La)  
   * This Is Orson Welles  
   * Too Much Johnson  
+  * Trois pour un massacre  
   * Troisième Homme (Le)  
   * Un cri dans l'ombre  
   * Une histoire immortelle  
   * Vérités et Mensonges  
+  * Vérités et Mensonges (bande-annonce)  
   * Versiones de Campanadas a medianoche (Las)  
   * Vive le cinéma ! Jeanne Moreau  
   * Voyage au pays de la peur  
@@ -428,15 +442,18 @@
   * Ornette: Made in America  
   * Portrait of Jason
 
-## Sigourney Weaver (7)
+## Sigourney Weaver (10)
 
   * Alien  
   * Année de tous les dangers (L')  
+  * Copycat  
   * Gorilles dans la brume  
   * Ice Storm (The)  
   * Master Gardener  
+  * Œil du témoin (L')  
   * SOS Fantômes  
-  * Une carte du monde
+  * Une carte du monde  
+  * Working Girl
 
 ## Séances spéciales (1)
 

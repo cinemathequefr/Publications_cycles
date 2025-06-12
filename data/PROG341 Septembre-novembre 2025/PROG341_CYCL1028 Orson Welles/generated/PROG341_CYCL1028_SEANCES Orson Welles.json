@@ -1,20 +1,29 @@
 [
   {
-    "idCategorie": 3873,
+    "idCategorie": 3941,
     "typeEvenement": 13,
-    "idEvenement": 6672,
-    "idSeance": 198283,
+    "idEvenement": 34189,
+    "idSeance": 200931,
     "dateHeure": "2025-10-08T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 45143,
+        "idFilm": 125201,
         "ordre": 1,
-        "idSeance": 198283,
+        "idSeance": 200931,
+        "idCopie": 6817,
+        "duree": 10,
+        "version": "VO",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 45143,
+        "ordre": 2,
+        "idSeance": 200931,
         "idCopie": 6704,
         "duree": 119,
         "version": "VOSTF",
@@ -72,24 +81,23 @@
   {
     "idCategorie": 3873,
     "typeEvenement": 13,
-    "idEvenement": 6669,
-    "idSeance": 198291,
+    "idEvenement": 6670,
+    "idSeance": 198310,
     "dateHeure": "2025-10-10T20:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 36828,
+        "idFilm": 36823,
         "ordre": 1,
-        "idSeance": 198291,
-        "idCopie": 6709,
-        "duree": 93,
+        "idSeance": 198310,
+        "idCopie": 6846,
+        "duree": 108,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ]
   },
@@ -104,6 +112,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 45143,
@@ -120,36 +129,39 @@
     "idCategorie": 3896,
     "typeEvenement": 14,
     "idEvenement": 33971,
-    "idSeance": 197947,
-    "dateHeure": "2025-10-11T17:00:00",
+    "idSeance": 198035,
+    "dateHeure": "2025-10-11T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
     "idCategorie": 3873,
     "typeEvenement": 13,
-    "idEvenement": 7410,
-    "idSeance": 198288,
+    "idEvenement": 7849,
+    "idSeance": 198306,
     "dateHeure": "2025-10-11T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 75,
+    "dureeSeance": 90,
     "items": [
       {
         "idFilm": 52419,
         "ordre": 1,
-        "idSeance": 198288,
-        "idCopie": 30131,
-        "duree": 50,
-        "version": "VF",
+        "idSeance": 198306,
+        "idCopie": 6847,
+        "duree": 58,
+        "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
@@ -160,7 +172,7 @@
     "typeEvenement": 13,
     "idEvenement": 6662,
     "idSeance": 196251,
-    "dateHeure": "2025-10-11T21:00:00",
+    "dateHeure": "2025-10-11T20:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -323,6 +335,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 36804,
@@ -340,15 +353,18 @@
     "idCategorie": 3896,
     "typeEvenement": 14,
     "idEvenement": 33973,
-    "idSeance": 197948,
-    "dateHeure": "2025-10-16T21:00:00",
+    "idSeance": 198285,
+    "dateHeure": "2025-10-16T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -401,23 +417,24 @@
   {
     "idCategorie": 3873,
     "typeEvenement": 13,
-    "idEvenement": 6670,
-    "idSeance": 196435,
+    "idEvenement": 7417,
+    "idSeance": 198307,
     "dateHeure": "2025-10-18T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 36823,
+        "idFilm": 36828,
         "ordre": 1,
-        "idSeance": 196435,
-        "idCopie": 6846,
-        "duree": 108,
+        "idSeance": 198307,
+        "idCopie": 6812,
+        "duree": 93,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ]
   },
@@ -425,22 +442,25 @@
     "idCategorie": 3896,
     "typeEvenement": 14,
     "idEvenement": 33974,
-    "idSeance": 197762,
-    "dateHeure": "2025-10-18T16:30:00",
+    "idSeance": 198307,
+    "dateHeure": "2025-10-18T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
     "idCategorie": 3873,
     "typeEvenement": 13,
-    "idEvenement": 7417,
-    "idSeance": 196437,
+    "idEvenement": 7415,
+    "idSeance": 198308,
     "dateHeure": "2025-10-18T18:30:00",
     "idSalle": [
       "HL",
@@ -449,11 +469,20 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 36828,
+        "idFilm": 126240,
         "ordre": 1,
-        "idSeance": 196437,
-        "idCopie": 6812,
-        "duree": 93,
+        "idSeance": 198308,
+        "idCopie": 7149,
+        "duree": 4,
+        "version": "VOSTF",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 36823,
+        "ordre": 2,
+        "idSeance": 198308,
+        "idCopie": 6708,
+        "duree": 85,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -574,7 +603,8 @@
         "version": "",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Jean-François Rauger"
   },
   {
     "idCategorie": 3874,
@@ -655,48 +685,45 @@
     ]
   },
   {
-    "idCategorie": 3874,
-    "typeEvenement": 13,
-    "idEvenement": 6654,
-    "idSeance": 196537,
-    "dateHeure": "2025-10-23T18:00:00",
+    "idCategorie": 3896,
+    "typeEvenement": 14,
+    "idEvenement": 33975,
+    "idSeance": 197765,
+    "dateHeure": "2025-10-23T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 120,
+    "idSeanceAssoc": 198303,
+    "typeAssoc": 117,
     "items": [
-      {
-        "idFilm": 58662,
-        "ordre": 1,
-        "idSeance": 196537,
-        "idCopie": 7176,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "16 mm"
-      }
+      {}
     ]
   },
   {
-    "idCategorie": 3874,
+    "idCategorie": 3873,
     "typeEvenement": 13,
-    "idEvenement": 6656,
-    "idSeance": 198055,
-    "dateHeure": "2025-10-23T20:15:00",
+    "idEvenement": 6662,
+    "idSeance": 198303,
+    "dateHeure": "2025-10-23T21:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 120,
+    "idSeanceAssoc": 197765,
+    "typeAssoc": 117,
     "items": [
       {
-        "idFilm": 32779,
+        "idFilm": 45437,
         "ordre": 1,
-        "idSeance": 198055,
-        "idCopie": 30188,
-        "duree": 114,
+        "idSeance": 198303,
+        "idCopie": 6810,
+        "duree": 87,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -725,10 +752,28 @@
     ]
   },
   {
+    "idCategorie": 3881,
+    "typeEvenement": 13,
+    "idEvenement": 34158,
+    "idSeance": 200934,
+    "dateHeure": "2025-10-24T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 88595,
+        "ordre": 1
+      }
+    ]
+  },
+  {
     "idCategorie": 3874,
     "typeEvenement": 13,
-    "idEvenement": 6655,
-    "idSeance": 196627,
+    "idEvenement": 6682,
+    "idSeance": 198311,
     "dateHeure": "2025-10-25T17:30:00",
     "idSalle": [
       "GF",
@@ -737,14 +782,13 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 37141,
+        "idFilm": 31683,
         "ordre": 1,
-        "idSeance": 196627,
-        "idCopie": 30247,
-        "duree": 110,
+        "idSeance": 198311,
+        "idCopie": 7075,
+        "duree": 96,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "35 mm"
       }
     ]
   },
@@ -782,6 +826,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 36826,
@@ -798,15 +843,18 @@
     "idCategorie": 3896,
     "typeEvenement": 14,
     "idEvenement": 33972,
-    "idSeance": 197949,
-    "dateHeure": "2025-10-26T17:00:00",
+    "idSeance": 198290,
+    "dateHeure": "2025-10-26T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -902,41 +950,72 @@
     ]
   },
   {
-    "idCategorie": 3896,
-    "typeEvenement": 14,
-    "idEvenement": 33975,
-    "idSeance": 197765,
+    "idCategorie": 3874,
+    "typeEvenement": 13,
+    "idEvenement": 6654,
+    "idSeance": 196770,
     "dateHeure": "2025-10-31T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 135,
     "items": [
-      {}
+      {
+        "idFilm": 58662,
+        "ordre": 1,
+        "idSeance": 196770,
+        "idCopie": 7176,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "16 mm"
+      }
     ]
   },
   {
-    "idCategorie": 3873,
+    "idCategorie": 3874,
     "typeEvenement": 13,
-    "idEvenement": 6662,
-    "idSeance": 198171,
-    "dateHeure": "2025-11-01T14:30:00",
+    "idEvenement": 6656,
+    "idSeance": 198304,
+    "dateHeure": "2025-10-31T21:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 45437,
+        "idFilm": 32779,
         "ordre": 1,
-        "idSeance": 198171,
-        "idCopie": 6810,
-        "duree": 87,
+        "idSeance": 198304,
+        "idCopie": 30188,
+        "duree": 114,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3870,
+    "typeEvenement": 13,
+    "idEvenement": 34103,
+    "idSeance": 200933,
+    "dateHeure": "2025-11-01T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 36816,
+        "ordre": 1,
+        "idSeance": 200933,
+        "idCopie": 7004,
+        "duree": 80,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },
@@ -944,15 +1023,18 @@
     "idCategorie": 3896,
     "typeEvenement": 14,
     "idEvenement": 33976,
-    "idSeance": 197950,
-    "dateHeure": "2025-11-01T16:30:00",
+    "idSeance": 200933,
+    "dateHeure": "2025-11-01T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -1185,24 +1267,97 @@
     ]
   },
   {
+    "idCategorie": 3870,
+    "typeEvenement": 13,
+    "idEvenement": 7840,
+    "idSeance": 198301,
+    "dateHeure": "2025-11-03T18:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 126241,
+        "ordre": 1,
+        "idSeance": 198301,
+        "idCopie": 7173,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "Vidéo"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3872,
+    "typeEvenement": 13,
+    "idEvenement": 7714,
+    "idSeance": 200935,
+    "dateHeure": "2025-11-03T20:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 126505,
+        "ordre": 1,
+        "idSeance": 200935,
+        "idCopie": 7103,
+        "duree": 28,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 126503,
+        "ordre": 2,
+        "idSeance": 200935,
+        "idCopie": 7101,
+        "duree": 28,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 125189,
+        "ordre": 3,
+        "idSeance": 200935,
+        "idCopie": 7417,
+        "duree": 28,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 126508,
+        "ordre": 4,
+        "idSeance": 200935,
+        "idCopie": 7418,
+        "duree": 27,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
     "idCategorie": 3871,
     "typeEvenement": 13,
-    "idEvenement": 6689,
-    "idSeance": 198182,
-    "dateHeure": "2025-11-05T17:30:00",
+    "idEvenement": 7774,
+    "idSeance": 198299,
+    "dateHeure": "2025-11-05T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 74559,
+        "idFilm": 126650,
         "ordre": 1,
-        "idSeance": 198182,
-        "idCopie": 23271,
-        "duree": 106,
-        "version": "VO",
+        "idSeance": 198299,
+        "idCopie": 7073,
+        "duree": 66,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ]
@@ -1301,47 +1456,47 @@
     ]
   },
   {
-    "idCategorie": 3870,
+    "idCategorie": 3871,
     "typeEvenement": 13,
-    "idEvenement": 7840,
-    "idSeance": 198174,
+    "idEvenement": 34150,
+    "idSeance": 198302,
     "dateHeure": "2025-11-08T17:30:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 126241,
+        "idFilm": 155392,
         "ordre": 1,
-        "idSeance": 198174,
-        "idCopie": 7173,
-        "duree": 120,
+        "idSeance": 198302,
+        "idCopie": 30359,
+        "duree": 58,
         "version": "VOSTF",
-        "format": "Vidéo"
+        "format": "DCP"
       }
     ]
   },
   {
     "idCategorie": 3871,
     "typeEvenement": 13,
-    "idEvenement": 7774,
-    "idSeance": 197068,
+    "idEvenement": 6689,
+    "idSeance": 198300,
     "dateHeure": "2025-11-12T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 105,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 126650,
+        "idFilm": 74559,
         "ordre": 1,
-        "idSeance": 197068,
-        "idCopie": 7073,
-        "duree": 66,
-        "version": "VOSTF",
+        "idSeance": 198300,
+        "idCopie": 23271,
+        "duree": 106,
+        "version": "VO",
         "format": "DCP"
       }
     ]
@@ -1439,18 +1594,45 @@
     ]
   },
   {
+    "idCategorie": 3873,
+    "typeEvenement": 13,
+    "idEvenement": 6671,
+    "idSeance": 200940,
+    "dateHeure": "2025-11-15T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 51779,
+        "ordre": 1,
+        "idSeance": 200940,
+        "idCopie": 6815,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
     "idCategorie": 3896,
     "typeEvenement": 14,
     "idEvenement": 33964,
-    "idSeance": 197953,
-    "dateHeure": "2025-11-15T16:30:00",
+    "idSeance": 200940,
+    "dateHeure": "2025-11-15T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -1528,6 +1710,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 42543,
@@ -1542,25 +1725,117 @@
     ]
   },
   {
+    "idCategorie": 3874,
+    "typeEvenement": 13,
+    "idEvenement": 7824,
+    "idSeance": 200939,
+    "dateHeure": "2025-11-21T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 73541,
+        "ordre": 1,
+        "idSeance": 200939,
+        "idCopie": 30129,
+        "duree": 132,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3874,
+    "typeEvenement": 13,
+    "idEvenement": 6684,
+    "idSeance": 200938,
+    "dateHeure": "2025-11-21T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 42223,
+        "ordre": 1,
+        "idSeance": 200938,
+        "idCopie": 7113,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
     "idCategorie": 3873,
     "typeEvenement": 13,
-    "idEvenement": 6671,
-    "idSeance": 198173,
+    "idEvenement": 6663,
+    "idSeance": 200937,
     "dateHeure": "2025-11-22T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 51779,
+        "idFilm": 36830,
         "ordre": 1,
-        "idSeance": 198173,
-        "idCopie": 6815,
-        "duree": 120,
+        "idSeance": 200937,
+        "idCopie": 6809,
+        "duree": 95,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3872,
+    "typeEvenement": 13,
+    "idEvenement": 6709,
+    "idSeance": 197375,
+    "dateHeure": "2025-11-22T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 125200,
+        "ordre": 1,
+        "idSeance": 197375,
+        "idCopie": 7153,
+        "duree": 74,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3874,
+    "typeEvenement": 13,
+    "idEvenement": 7827,
+    "idSeance": 197376,
+    "dateHeure": "2025-11-22T19:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 33465,
+        "ordre": 1,
+        "idSeance": 197376,
+        "idCopie": 7151,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },

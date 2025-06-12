@@ -13,6 +13,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3869,
           "idEvenement": 33769,
           "typeEvenement": 13,
@@ -669,13 +670,15 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 197754,
-          "dateHeure": "2025-08-30T17:30:00",
+          "idSeance": 198045,
+          "ordre": 2,
+          "dateHeure": "2025-08-30T15:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 3899,
           "idEvenement": 33977,
           "typeEvenement": 14,
@@ -683,7 +686,22 @@
           "typeConference": "Dialogue",
           "titre": "Christian Petzold par Christian Petzold, une leçon de cinéma",
           "duree": 60,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Christian Petzold",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Isaac Gaido-Daniel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Isaac Gaido-Daniel"
         }
       ],
       "textes": []

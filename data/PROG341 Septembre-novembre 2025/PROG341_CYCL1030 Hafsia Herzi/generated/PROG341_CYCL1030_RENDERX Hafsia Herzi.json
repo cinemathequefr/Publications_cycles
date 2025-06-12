@@ -101,50 +101,66 @@
           ]
         },
         {
-          "idEvenement": 33827,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 147094,
-              "ordre": 1,
-              "titre": "Rodba",
-              "art": "Le",
-              "realisateurs": "Hafsia Herzi",
-              "pays": "France",
-              "annee": 2010,
-              "duree": 15,
-              "version": "",
-              "format": "Numérique",
-              "generique": [
-                "Abdelhamid Aktouche",
-                "Morjana Alaoui",
-                "Guillaume Gouix"
-              ],
-              "miniTexte": "Les débuts de Hafsia Herzi derrière la caméra, une demande en mariage selon la tradition d'une famille maghrébine : le Rodba, perturbé par les velléités de la petite sœur de filmer le rituel à tout prix."
+              "idEvenement": 33827,
+              "content": [
+                {
+                  "idFilm": 147094,
+                  "ordre": 1,
+                  "titre": "Rodba",
+                  "art": "Le",
+                  "realisateurs": "Hafsia Herzi",
+                  "pays": "France",
+                  "annee": 2010,
+                  "duree": 15,
+                  "version": "",
+                  "format": "Numérique",
+                  "generique": [
+                    "Abdelhamid Aktouche",
+                    "Morjana Alaoui",
+                    "Guillaume Gouix"
+                  ],
+                  "miniTexte": "Les débuts de Hafsia Herzi derrière la caméra, une demande en mariage selon la tradition d'une famille maghrébine : le Rodba, perturbé par les velléités de la petite sœur de filmer le rituel à tout prix."
+                },
+                {
+                  "idFilm": 141851,
+                  "ordre": 2,
+                  "titre": "Tu mérites un amour",
+                  "realisateurs": "Hafsia Herzi",
+                  "pays": "France",
+                  "annee": 2019,
+                  "duree": 102,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Hafsia Herzi",
+                    "Djanis Bouzyani",
+                    "Jérémie Laheurte"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Interprète et réalisatrice de son premier long métrage autoproduit, Hafsia Herzi signe une chronique sentimentale, sur la trame d'un chagrin d'amour qui pousse l'héroïne vers de nouvelles rencontres. Construit autour de confidences et de conseils amicaux, de coups de sang et d'élans de tendresse, son film, d'une justesse absolue, se lit comme une carte de l'intime, où chaque silence devient une réflexion intérieure sur la quête et l'estime de soi, à l'image du titre emprunté au poème de Frida Kahlo, d'une douceur incandescente."
+                }
+              ]
             },
             {
-              "idFilm": 141851,
-              "ordre": 2,
-              "titre": "Tu mérites un amour",
-              "realisateurs": "Hafsia Herzi",
-              "pays": "France",
-              "annee": 2019,
-              "duree": 102,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Hafsia Herzi",
-                "Djanis Bouzyani",
-                "Jérémie Laheurte"
+              "idEvenement": 34178,
+              "content": [
+                {
+                  "idConf": 34178,
+                  "ordre": 3,
+                  "titre": "Hafsia Herzi par Hafsia Herzi, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma"
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Interprète et réalisatrice de son premier long métrage autoproduit, Hafsia Herzi signe une chronique sentimentale, sur la trame d'un chagrin d'amour qui pousse l'héroïne vers de nouvelles rencontres. Construit autour de confidences et de conseils amicaux, de coups de sang et d'élans de tendresse, son film, d'une justesse absolue, se lit comme une carte de l'intime, où chaque silence devient une réflexion intérieure sur la quête et l'estime de soi, à l'image du titre emprunté au poème de Frida Kahlo, d'une douceur incandescente."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198120,
-              "dateHeure": "2025-10-25T14:30:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 198120,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-10-25T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -209,7 +225,7 @@
           "seances": [
             {
               "idSeance": 198111,
-              "dateHeure": "2025-10-23T18:30:00",
+              "dateHeure": "2025-10-23T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -478,7 +494,7 @@
           "seances": [
             {
               "idSeance": 198062,
-              "dateHeure": "2025-10-23T21:00:00",
+              "dateHeure": "2025-10-23T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -514,29 +530,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34178,
-          "content": [
-            {
-              "idConf": 34178,
-              "titre": "Hafsia Herzi par Hafsia Herzi, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198284,
-              "dateHeure": "2025-10-25T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -550,7 +543,7 @@
     "Leçon de cinéma": [
       {
         "titre": "Hafsia Herzi par Hafsia Herzi, une leçon de cinéma",
-        "dateHeure": "2025-10-25T16:30:00"
+        "dateHeure": "2025-10-25T14:30:00"
       }
     ],
     "Séance présentée": [

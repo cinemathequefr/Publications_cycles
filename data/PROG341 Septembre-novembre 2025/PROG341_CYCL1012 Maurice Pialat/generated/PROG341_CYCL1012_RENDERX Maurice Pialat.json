@@ -10,37 +10,58 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 53382,
-          "content": [
+          "groupe": [
             {
               "idFilm": 53382,
-              "ordre": 1,
-              "titre": "À nos amours",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1983,
-              "duree": 102,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Sandrine Bonnaire",
-                "Maurice Pialat",
-                "Dominique Besnehard"
-              ],
-              "isFocus": true,
-              "miniTexte": "Le scénario autobiographique d'Arlette Langmann situait l'action du film dans les années 60, mais en voyant débouler Sandrine Bonnaire sur le plateau un matin, Pialat envoie promener l'idée initiale : il fera de son portrait d'adolescente celui d'une jeune fille des années 80, à mille lieues des clichés véhiculés alors par _La Boum_. Célébré pour son impétueuse et géniale scène de dîner, et l'improvisation qui présida à sa création, le film est traversé par une force sans équivalent dans le cinéma français d'alors, une furia faite de gifles, de coups de gueule, d'une violence familiale sourde mais aussi d'une humanité extraordinaire, portée haut par Sandrine Bonnaire. Sidérante, elle entre ici en cinéma dans un vertige de fracas et de tendresse. Chef-d'œuvre."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 195313,
-              "dateHeure": "2025-09-06T14:30:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 53382,
+                  "ordre": 1,
+                  "titre": "À nos amours",
+                  "realisateurs": "Maurice Pialat",
+                  "pays": "France",
+                  "annee": 1983,
+                  "duree": 102,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Sandrine Bonnaire",
+                    "Maurice Pialat",
+                    "Dominique Besnehard"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Le scénario autobiographique d'Arlette Langmann situait l'action du film dans les années 60, mais en voyant débouler Sandrine Bonnaire sur le plateau un matin, Pialat envoie promener l'idée initiale : il fera de son portrait d'adolescente celui d'une jeune fille des années 80, à mille lieues des clichés véhiculés alors par _La Boum_. Célébré pour son impétueuse et géniale scène de dîner, et l'improvisation qui présida à sa création, le film est traversé par une force sans équivalent dans le cinéma français d'alors, une furia faite de gifles, de coups de gueule, d'une violence familiale sourde mais aussi d'une humanité extraordinaire, portée haut par Sandrine Bonnaire. Sidérante, elle entre ici en cinéma dans un vertige de fracas et de tendresse. Chef-d'œuvre."
+                }
+              ]
             },
             {
-              "idSeance": 197845,
-              "dateHeure": "2025-09-20T18:30:00",
-              "idSalle": "HL"
+              "idEvenement": 33716,
+              "content": [
+                {
+                  "idConf": 33716,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Arlette Langmann et Florence Quentin",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel",
+                  "miniTexte": "« Quand on écrit une histoire, je ne pense pas qu'on puisse la réussir s'il s'agit d'un sujet à thèse, si l'on part d'une idée. Pour moi, il s'agit de partir de la vie, de l'expérience, il s'agit de ressentir les autres de l'intérieur, d'exprimer les choses sans les énoncer, sans qu'elles soient dites. Comme dans la vie : il se passe beaucoup plus de choses qu'on n'en dit. Je ne vais pas faire le partage de la communication, mais, quoi, est-ce qu'on dit un tiers de ce qu'on ressent ? (...) Je suis touchée soit par une histoire, soit par un personnage. Et j'écris, menée par quelque chose qui n'est pas une réflexion, une préméditation. Ce n'est pas une construction, mais un milieu, des personnages, qui s'écrivent comme de l'eau qui coule. » (Arlette Langmann, _Le Monde_, septembre 1980)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 195313,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-09-06T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 195313,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 197845,
+                  "dateHeure": "2025-09-20T18:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -118,43 +139,72 @@
           ]
         },
         {
-          "idFilm": 50625,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50625,
-              "ordre": 1,
-              "titre": "Gueule ouverte",
-              "art": "La",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1974,
-              "duree": 90,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Nathalie Baye",
-                "Hubert Deschamps",
-                "Philippe Léotard"
+              "content": [
+                {
+                  "idFilm": 50625,
+                  "ordre": 1,
+                  "titre": "Gueule ouverte",
+                  "art": "La",
+                  "realisateurs": "Maurice Pialat",
+                  "pays": "France",
+                  "annee": 1974,
+                  "duree": 90,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Nathalie Baye",
+                    "Hubert Deschamps",
+                    "Philippe Léotard"
+                  ],
+                  "miniTexte": "Deux ans après _Nous ne vieillirons pas ensemble_, Pialat creuse à nouveau le sillon de l'autobiographie, de manière plus rude encore, pour raconter la lente agonie d'une mère. Comme un contre-pied au _Cris et Chuchotements_ de Bergman, sorti quelques semaines plus tôt, le cinéaste filme la mort à l'œuvre sans affect ni éclats de voix, laissant le silence et l'attente lentement s'abattre sur un foyer ordinaire."
+                }
               ],
-              "miniTexte": "Deux ans après _Nous ne vieillirons pas ensemble_, Pialat creuse à nouveau le sillon de l'autobiographie, de manière plus rude encore, pour raconter la lente agonie d'une mère. Comme un contre-pied au _Cris et Chuchotements_ de Bergman, sorti quelques semaines plus tôt, le cinéaste filme la mort à l'œuvre sans affect ni éclats de voix, laissant le silence et l'attente lentement s'abattre sur un foyer ordinaire."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 195271,
-              "dateHeure": "2025-09-05T18:00:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par Bernard Dubois"
+              "seances": [
+                {
+                  "idSeance": 195271,
+                  "dateHeure": "2025-09-05T18:00:00",
+                  "idSalle": "HL",
+                  "mention": "Séance présentée par Bernard Dubois",
+                  "idSeanceAssoc": 195415,
+                  "mentionAssoc": "Film choisi par le conférencier"
+                },
+                {
+                  "idSeance": 195415,
+                  "idSeanceAssoc": 197756,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-09-11T21:00:00",
+                  "idSalle": "GF"
+                },
+                {
+                  "idSeance": 195568,
+                  "dateHeure": "2025-09-17T20:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             },
             {
-              "idSeance": 195415,
-              "dateHeure": "2025-09-11T21:00:00",
-              "idSalle": "GF"
-            },
-            {
-              "idSeance": 195568,
-              "dateHeure": "2025-09-17T20:00:00",
-              "idSalle": "HL"
+              "idEvenement": 33719,
+              "content": [
+                {
+                  "idConf": 33719,
+                  "titre": "Maurice Pialat, le sixième sens",
+                  "sousTitre": "Conférence de Jérôme Momcilovic",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Pialat était-il un réaliste ? Oui, le plus grand. Le réel, il savait où le chercher, loin de la réalité où celui-ci est introuvable. Comme la peinture de Cézanne, le cinéma de Maurice Pialat a creusé, pioché, fouillé le sol des choses, avec sa lucidité féroce pour bâton de sourcier. Il a même ouvert un cercueil. Car le réel, c'est quelque chose qui remonte. Ça remonte par la gueule ouverte. — Jérôme Momcilovic"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 197756,
+                  "idSeanceAssoc": 195415,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-09-11T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -305,39 +355,59 @@
           ]
         },
         {
-          "idFilm": 50630,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50630,
-              "ordre": 1,
-              "titre": "Sous le soleil de Satan",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1987,
-              "duree": 100,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Sous le soleil de Satan_ de Georges Bernanos.",
-              "generique": [
-                "Gérard Depardieu",
-                "Sandrine Bonnaire",
-                "Maurice Pialat",
-                "Alain Artur"
-              ],
-              "isFocus": true,
-              "miniTexte": "1987. Lauréat de la Palme d'or sous les huées, Pialat défie d'un poing rageur ses contempteurs. La tension du moment contraste avec le film élu, où un curé de campagne tiraillé par le doute hérite, par la foi d'un miracle, du don de lire les pensées de ses prochains. Le cinéaste tourne le dos au réalisme et se confronte à ce que seuls les plus grands avant lui, Dreyer, Tarkovski, Bresson, avaient cherché à atteindre : filmer l'indicible, l'invisible, le sacré. Un monolithe noir, pessimiste et saisissant."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 195500,
-              "dateHeure": "2025-09-13T14:30:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 50630,
+                  "ordre": 1,
+                  "titre": "Sous le soleil de Satan",
+                  "realisateurs": "Maurice Pialat",
+                  "pays": "France",
+                  "annee": 1987,
+                  "duree": 100,
+                  "version": "",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _Sous le soleil de Satan_ de Georges Bernanos.",
+                  "generique": [
+                    "Gérard Depardieu",
+                    "Sandrine Bonnaire",
+                    "Maurice Pialat",
+                    "Alain Artur"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "1987. Lauréat de la Palme d'or sous les huées, Pialat défie d'un poing rageur ses contempteurs. La tension du moment contraste avec le film élu, où un curé de campagne tiraillé par le doute hérite, par la foi d'un miracle, du don de lire les pensées de ses prochains. Le cinéaste tourne le dos au réalisme et se confronte à ce que seuls les plus grands avant lui, Dreyer, Tarkovski, Bresson, avaient cherché à atteindre : filmer l'indicible, l'invisible, le sacré. Un monolithe noir, pessimiste et saisissant."
+                }
+              ]
             },
             {
-              "idSeance": 197846,
-              "dateHeure": "2025-09-20T20:45:00",
-              "idSalle": "HL"
+              "idEvenement": 33717,
+              "content": [
+                {
+                  "idConf": 33717,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Sylvie Pialat",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 195500,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-09-13T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 195500,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 197846,
+                  "dateHeure": "2025-09-20T20:45:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -375,29 +445,6 @@
               "dateHeure": "2025-09-21T17:00:00",
               "idSalle": "HL",
               "mention": "Séance présentée par Jean-Pierre Duret"
-            }
-          ]
-        },
-        {
-          "idFilm": 77502,
-          "content": [
-            {
-              "idFilm": 77502,
-              "ordre": 1,
-              "titre": "Villages d'enfants",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1969,
-              "duree": 40,
-              "version": "",
-              "format": ""
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198108,
-              "dateHeure": "2025-09-28T17:30:00",
-              "idSalle": "JE"
             }
           ]
         }
@@ -691,6 +738,17 @@
               "version": "",
               "format": "Vidéo",
               "miniTexte": "Maurice Pialat filme le Quartier Latin au début des années 60."
+            },
+            {
+              "idFilm": 77502,
+              "ordre": 10,
+              "titre": "Villages d'enfants",
+              "realisateurs": "Maurice Pialat",
+              "pays": "France",
+              "annee": 1969,
+              "duree": 35,
+              "version": "",
+              "format": ""
             }
           ],
           "seances": [
@@ -945,60 +1003,6 @@
       "titreSousCycle": "Rencontres et conférences",
       "items": [
         {
-          "idConf": 33716,
-          "content": [
-            {
-              "idConf": 33716,
-              "titre": "Dialogue avec Arlette Langmann et Florence Quentin",
-              "typeConference": "Dialogue",
-              "miniTexte": "« Quand on écrit une histoire, je ne pense pas qu'on puisse la réussir s'il s'agit d'un sujet à thèse, si l'on part d'une idée. Pour moi, il s'agit de partir de la vie, de l'expérience, il s'agit de ressentir les autres de l'intérieur, d'exprimer les choses sans les énoncer, sans qu'elles soient dites. Comme dans la vie : il se passe beaucoup plus de choses qu'on n'en dit. Je ne vais pas faire le partage de la communication, mais, quoi, est-ce qu'on dit un tiers de ce qu'on ressent ? (...) Je suis touchée soit par une histoire, soit par un personnage. Et j'écris, menée par quelque chose qui n'est pas une réflexion, une préméditation. Ce n'est pas une construction, mais un milieu, des personnages, qui s'écrivent comme de l'eau qui coule. » (Arlette Langmann, _Le Monde_, septembre 1980)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197805,
-              "dateHeure": "2025-09-06T17:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idConf": 33719,
-          "content": [
-            {
-              "idConf": 33719,
-              "titre": "Maurice Pialat, le sixième sens",
-              "sousTitre": "Conférence de Jérôme Momcilovic",
-              "typeConference": "Conférence",
-              "miniTexte": "Pialat était-il un réaliste ? Oui, le plus grand. Le réel, il savait où le chercher, loin de la réalité où celui-ci est introuvable. Comme la peinture de Cézanne, le cinéma de Maurice Pialat a creusé, pioché, fouillé le sol des choses, avec sa lucidité féroce pour bâton de sourcier. Il a même ouvert un cercueil. Car le réel, c'est quelque chose qui remonte. Ça remonte par la gueule ouverte. — Jérôme Momcilovic"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197756,
-              "dateHeure": "2025-09-11T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idConf": 33717,
-          "content": [
-            {
-              "idConf": 33717,
-              "titre": "Dialogue avec Sylvie Pialat",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197806,
-              "dateHeure": "2025-09-13T17:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idConf": 33718,
           "content": [
             {
@@ -1029,12 +1033,14 @@
     ],
     "Dialogues": [
       {
+        "titreFilms": "À nos amours",
         "mention": "avec Arlette Langmann et Florence Quentin",
-        "dateHeure": "2025-09-06T17:00:00"
+        "dateHeure": "2025-09-06T14:30:00"
       },
       {
+        "titreFilms": "Sous le soleil de Satan",
         "mention": "avec Sylvie Pialat",
-        "dateHeure": "2025-09-13T17:00:00"
+        "dateHeure": "2025-09-13T14:30:00"
       }
     ],
     "Lecture": [

@@ -56,6 +56,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 36119,
@@ -72,15 +73,41 @@
     "idCategorie": 3904,
     "typeEvenement": 14,
     "idEvenement": 33986,
-    "idSeance": 197951,
-    "dateHeure": "2025-11-07T20:00:00",
+    "idSeance": 196954,
+    "dateHeure": "2025-11-07T17:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 60,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 3377,
+    "typeEvenement": 13,
+    "idEvenement": 30802,
+    "idSeance": 198295,
+    "dateHeure": "2025-11-08T15:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 35474,
+        "ordre": 1,
+        "idSeance": 198295,
+        "idCopie": 27524,
+        "duree": 113,
+        "version": "VO",
+        "format": "35 mm"
+      }
     ]
   },
   {
@@ -88,10 +115,10 @@
     "typeEvenement": 13,
     "idEvenement": 30801,
     "idSeance": 197002,
-    "dateHeure": "2025-11-08T16:00:00",
+    "dateHeure": "2025-11-08T17:00:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
     "dureeSeance": 135,
     "items": [
@@ -103,6 +130,29 @@
         "duree": 105,
         "version": "VOSTF",
         "format": "70 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3377,
+    "typeEvenement": 13,
+    "idEvenement": 30807,
+    "idSeance": 198296,
+    "dateHeure": "2025-11-08T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 60100,
+        "ordre": 1,
+        "idSeance": 198296,
+        "idCopie": 30326,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -172,6 +222,29 @@
         "duree": 128,
         "version": "VOSTF",
         "format": "70 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3377,
+    "typeEvenement": 13,
+    "idEvenement": 30799,
+    "idSeance": 197028,
+    "dateHeure": "2025-11-10T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 53509,
+        "ordre": 1,
+        "idSeance": 197028,
+        "idCopie": 30346,
+        "duree": 100,
+        "version": "",
+        "format": "35 mm"
       }
     ]
   }

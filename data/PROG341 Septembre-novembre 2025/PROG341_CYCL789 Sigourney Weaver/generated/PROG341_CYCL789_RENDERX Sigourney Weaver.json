@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-11-06T20:00:00",
-    "2025-11-09T19:30:00"
+    "2025-11-10T18:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -10,33 +10,49 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 36119,
-          "content": [
+          "groupe": [
             {
               "idFilm": 36119,
-              "ordre": 1,
-              "titre": "Alien",
-              "realisateurs": "Ridley Scott",
-              "pays": "États-Unis",
-              "annee": 1979,
-              "duree": 117,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Sigourney Weaver",
-                "John Hurt",
-                "Ian Holm",
-                "Tom Skerritt",
-                "Veronica Cartwright"
-              ],
-              "miniTexte": "Naissance d'un _space opera_ fondateur, monument d'angoisse, d'une créature mythique et d'une héroïne éblouissante, incarnée par la géniale Sigourney Weaver. Scott signe un terrifiant cauchemar éveillé, qui multiplie les séquences d'anthologie dans l'antre claustrophobe du Nostromo. Un inoubliable rendez-vous avec la peur, l'un des plus grands films de science-fiction."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 36119,
+                  "ordre": 1,
+                  "titre": "Alien",
+                  "realisateurs": "Ridley Scott",
+                  "pays": "États-Unis",
+                  "annee": 1979,
+                  "duree": 117,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Sigourney Weaver",
+                    "John Hurt",
+                    "Ian Holm",
+                    "Tom Skerritt",
+                    "Veronica Cartwright"
+                  ],
+                  "miniTexte": "Naissance d'un _space opera_ fondateur, monument d'angoisse, d'une créature mythique et d'une héroïne éblouissante, incarnée par la géniale Sigourney Weaver. Scott signe un terrifiant cauchemar éveillé, qui multiplie les séquences d'anthologie dans l'antre claustrophobe du Nostromo. Un inoubliable rendez-vous avec la peur, l'un des plus grands films de science-fiction."
+                }
+              ]
+            },
             {
-              "idSeance": 196954,
-              "dateHeure": "2025-11-07T17:30:00",
-              "idSalle": "HL"
+              "idEvenement": 33986,
+              "content": [
+                {
+                  "idConf": 33986,
+                  "ordre": 2,
+                  "titre": "Sigourney Weaver par Sigourney Weaver, une leçon de cinéma",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 196954,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-11-07T17:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -70,6 +86,35 @@
               "idSeance": 198181,
               "dateHeure": "2025-11-07T14:30:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 60100,
+          "content": [
+            {
+              "idFilm": 60100,
+              "ordre": 1,
+              "titre": "Copycat",
+              "realisateurs": "Jon Amiel",
+              "pays": "États-Unis",
+              "annee": 1995,
+              "duree": 123,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Sigourney Weaver",
+                "Holly Hunter",
+                "Dermot Mulroney"
+              ],
+              "miniTexte": "Une psychologue agoraphobe, experte des tueurs en série, enquête sur d'inquiétants meurtres de jeunes femmes. L'ombre du _Silence des agneaux_ plane sur ce thriller urbain macabre, qui mise sur une atmosphère angoissante et l'interprétation intense de Sigourney Weaver."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198296,
+              "dateHeure": "2025-11-08T19:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -166,6 +211,37 @@
           ]
         },
         {
+          "idFilm": 53509,
+          "content": [
+            {
+              "idFilm": 53509,
+              "ordre": 1,
+              "titre": "Œil du témoin",
+              "art": "L'",
+              "titreVo": "Eyewitness",
+              "realisateurs": "Peter Yates",
+              "pays": "États-Unis",
+              "annee": 1981,
+              "duree": 100,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "William Hurt",
+                "Sigourney Weaver",
+                "Christopher Plummer"
+              ],
+              "miniTexte": "Thriller insolite et sarcastique, par le metteur en scène de _Bullitt_. Sur un suspense hitchcockien, Yates imbrique intrigue policière, espionnage et love story pour une efficace chasse à l'homme, qui fait la part belle à un New York cosmopolite. Avec William Hurt et Sigourney Weaver, convaincants en couple vedette."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197028,
+              "dateHeure": "2025-11-10T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 35077,
           "content": [
             {
@@ -192,8 +268,8 @@
           "seances": [
             {
               "idSeance": 197002,
-              "dateHeure": "2025-11-08T16:00:00",
-              "idSalle": "JE"
+              "dateHeure": "2025-11-08T17:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -227,27 +303,33 @@
               "idSalle": "JE"
             }
           ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
+        },
         {
-          "idConf": 33986,
+          "idFilm": 35474,
           "content": [
             {
-              "idConf": 33986,
-              "titre": "Dialogue avec Sigourney Weaver",
-              "typeConference": "Dialogue"
+              "idFilm": 35474,
+              "ordre": 1,
+              "titre": "Working Girl",
+              "realisateurs": "Mike Nichols",
+              "pays": "États-Unis",
+              "annee": 1988,
+              "duree": 113,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "Melanie Griffith",
+                "Sigourney Weaver",
+                "Harrison Ford"
+              ],
+              "miniTexte": "Une secrétaire ambitieuse découvre les us et coutumes du monde impitoyable de Wall Street. Dans une illustration de l'_American yuppie_, Mike Nichols marie la pétulance de Melanie Griffith et l'humour d'Harrison Ford pour une comédie de mœurs intelligente et fantaisiste, qui interroge la place des femmes à travers leur carrière et leur évolution sociale."
             }
           ],
           "seances": [
             {
-              "idSeance": 197951,
-              "dateHeure": "2025-11-07T20:00:00",
-              "idSalle": "HL"
+              "idSeance": 198295,
+              "dateHeure": "2025-11-08T15:00:00",
+              "idSalle": "JE"
             }
           ]
         }
@@ -257,8 +339,9 @@
   "syntheseAction": {
     "Dialogue": [
       {
-        "mention": "avec Sigourney Weaver",
-        "dateHeure": "2025-11-07T20:00:00"
+        "titreFilms": "Alien",
+        "mention": "Sigourney Weaver par Sigourney Weaver, une leçon de cinéma",
+        "dateHeure": "2025-11-07T17:30:00"
       }
     ]
   }

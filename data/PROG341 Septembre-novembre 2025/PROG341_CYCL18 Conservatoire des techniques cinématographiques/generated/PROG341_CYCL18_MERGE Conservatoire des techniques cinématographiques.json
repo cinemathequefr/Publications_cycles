@@ -5,42 +5,6 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 197763,
-          "dateHeure": "2025-10-24T17:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 3890,
-          "idEvenement": 33936,
-          "typeEvenement": 14,
-          "idTypeConference": 55,
-          "typeConference": "Conférence",
-          "titre": "[Conférence IMAX]",
-          "sousTitre": "",
-          "duree": 90,
-          "textes": []
-        },
-        {
-          "idSeance": 198068,
-          "dateHeure": "2025-11-28T18:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 1856,
-          "idEvenement": 34072,
-          "typeEvenement": 14,
-          "idTypeConference": 55,
-          "typeConference": "Conférence",
-          "titre": "[Conférence Orson Welles magicien]",
-          "sousTitre": "",
-          "duree": 90,
-          "textes": []
-        },
-        {
           "idSeance": 197766,
           "dateHeure": "2025-11-14T17:00:00",
           "idSalle": [
@@ -53,7 +17,59 @@
           "typeEvenement": 14,
           "idTypeConference": 55,
           "typeConference": "Conférence",
-          "titre": "[Conférence de Greg Toland]",
+          "titre": "Gregg Toland, directeur de la photographie de Citizen Kane",
+          "sousTitre": "Conférence de Marc Salomon",
+          "duree": 90,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Marc Salomon",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        },
+        {
+          "idSeance": 197763,
+          "dateHeure": "2025-10-24T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3890,
+          "idEvenement": 33936,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "Le cinéma en IMAX 70 mm",
+          "sousTitre": "Conférence de Maximilien de Poitevin",
+          "duree": 90,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Maximilien de Poitevin",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
+        },
+        {
+          "idSeance": 198068,
+          "dateHeure": "2025-11-28T18:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3890,
+          "idEvenement": 34072,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "[Conférence Orson Welles magicien]",
           "sousTitre": "",
           "duree": 90,
           "textes": []

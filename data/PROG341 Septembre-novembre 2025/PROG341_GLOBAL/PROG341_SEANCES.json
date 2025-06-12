@@ -392,6 +392,10 @@
       [
         "Christian Petzold",
         "Les films"
+      ],
+      [
+        "Christian Petzold",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -403,9 +407,15 @@
         "duree": 105,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 33977,
+        "titre": "Christian Petzold par Christian Petzold, une leçon de cinéma",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f116153"
+    "hashEvenement": "f116153c33977"
   },
   {
     "idSeance": 195127,
@@ -431,27 +441,6 @@
       }
     ],
     "hashEvenement": "f60404"
-  },
-  {
-    "idSeance": 197754,
-    "idEvenement": 33977,
-    "dateHeure": "2025-08-30T17:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Christian Petzold",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33977,
-        "titre": "Christian Petzold par Christian Petzold, une leçon de cinéma",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33977"
   },
   {
     "idSeance": 198029,
@@ -612,6 +601,10 @@
       [
         "Week-end Clint Eastwood",
         "Les films"
+      ],
+      [
+        "Week-end Clint Eastwood",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -620,10 +613,18 @@
         "titre": "Sully",
         "realisateurs": "Clint Eastwood",
         "annee": 2016,
-        "duree": 95
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idConf": 34071,
+        "titre": "Dialogue avec Bernard Benoliel",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f133196"
+    "hashEvenement": "f133196c34071"
   },
   {
     "idSeance": 195145,
@@ -672,27 +673,6 @@
       }
     ],
     "hashEvenement": "f138871"
-  },
-  {
-    "idSeance": 198069,
-    "idEvenement": 34071,
-    "dateHeure": "2025-08-31T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Week-end Clint Eastwood",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 34071,
-        "titre": "Dialogue avec Bernard Benoliel",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c34071"
   },
   {
     "idSeance": 198050,
@@ -840,6 +820,30 @@
       }
     ],
     "hashEvenement": "f36931"
+  },
+  {
+    "idSeance": 198294,
+    "idEvenement": 34179,
+    "dateHeure": "2025-09-01T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Joachim Michaux"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Joachim Michaux",
+    "items": [
+      {
+        "idFilm": 155397,
+        "titre": "Un ciel si bas",
+        "realisateurs": "Joachim Michaux",
+        "annee": 2024,
+        "duree": 33,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155397"
   },
   {
     "idSeance": 198070,
@@ -1456,6 +1460,10 @@
       [
         "Maurice Pialat",
         "Les films"
+      ],
+      [
+        "Maurice Pialat",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -1466,9 +1474,15 @@
         "annee": 1983,
         "duree": 102,
         "format": "DCP"
+      },
+      {
+        "idConf": 33716,
+        "titre": "Dialogue avec Arlette Langmann et Florence Quentin",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f53382"
+    "hashEvenement": "f53382c33716"
   },
   {
     "idSeance": 195317,
@@ -1493,27 +1507,6 @@
       }
     ],
     "hashEvenement": "f36909"
-  },
-  {
-    "idSeance": 197805,
-    "idEvenement": 33716,
-    "dateHeure": "2025-09-06T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Maurice Pialat",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33716,
-        "titre": "Dialogue avec Arlette Langmann et Florence Quentin",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33716"
   },
   {
     "idSeance": 195315,
@@ -1772,6 +1765,54 @@
       }
     ],
     "hashEvenement": "f72050"
+  },
+  {
+    "idSeance": 195349,
+    "idEvenement": 34183,
+    "dateHeure": "2025-09-08T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Séance spéciale animation"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155399,
+        "titre": "mort du poisson",
+        "art": "La",
+        "realisateurs": "Eva Lusbaronian",
+        "annee": 2024,
+        "duree": 14,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155311,
+        "titre": "Dieu est timide",
+        "realisateurs": "Jocelyn Charles",
+        "annee": 2025,
+        "duree": 15,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155400,
+        "titre": "Fille de l'eau",
+        "realisateurs": "Sandra Desmazières",
+        "annee": 2024,
+        "duree": 15,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155398,
+        "titre": "Charbon de terre",
+        "realisateurs": "Bastien Dupriez",
+        "annee": 2024,
+        "duree": 13,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155399f155311f155400f155398"
   },
   {
     "idSeance": 195348,
@@ -2214,6 +2255,10 @@
       [
         "Maurice Pialat",
         "Les films"
+      ],
+      [
+        "Maurice Pialat",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2224,9 +2269,15 @@
         "annee": 1987,
         "duree": 100,
         "format": "DCP"
+      },
+      {
+        "idConf": 33717,
+        "titre": "Dialogue avec Sylvie Pialat",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f50630"
+    "hashEvenement": "f50630c33717"
   },
   {
     "idSeance": 195504,
@@ -2273,27 +2324,6 @@
       }
     ],
     "hashEvenement": "f126713"
-  },
-  {
-    "idSeance": 197806,
-    "idEvenement": 33717,
-    "dateHeure": "2025-09-13T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Maurice Pialat",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33717,
-        "titre": "Dialogue avec Sylvie Pialat",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33717"
   },
   {
     "idSeance": 198243,
@@ -2726,9 +2756,16 @@
         "annee": 1966,
         "duree": 7,
         "format": "Vidéo"
+      },
+      {
+        "idFilm": 77502,
+        "titre": "Villages d'enfants",
+        "realisateurs": "Maurice Pialat",
+        "annee": 1969,
+        "duree": 35
       }
     ],
-    "hashEvenement": "f117230f110397f117232f117231f117227f117226f90531f117229f117228"
+    "hashEvenement": "f117230f110397f117232f117231f117227f117226f90531f117229f117228f77502"
   },
   {
     "idSeance": 198204,
@@ -3121,6 +3158,10 @@
       [
         "Ciné-club de Murielle Joudet",
         "Les films"
+      ],
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3133,9 +3174,15 @@
         "duree": 83,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 33965,
+        "titre": "Dialogue avec Murielle Joudet",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f36936"
+    "hashEvenement": "f36936c33965"
   },
   {
     "idSeance": 197912,
@@ -3209,27 +3256,6 @@
       }
     ],
     "hashEvenement": "f68757f77496f77497f77498f77501f77499f117240"
-  },
-  {
-    "idSeance": 197733,
-    "idEvenement": 33965,
-    "dateHeure": "2025-09-18T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Ciné-club de Murielle Joudet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33965,
-        "titre": "Dialogue avec Murielle Joudet",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33965"
   },
   {
     "idSeance": 197797,
@@ -3358,6 +3384,10 @@
       [
         "Lucile Hadzihalilovic",
         "Les films"
+      ],
+      [
+        "Lucile Hadzihalilovic",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3368,9 +3398,15 @@
         "annee": 2003,
         "duree": 117,
         "format": "35 mm"
+      },
+      {
+        "idConf": 33980,
+        "titre": "Lucile Hadzihalilovic par Lucile Hadzihalilovic, une leçon de cinéma",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f94887"
+    "hashEvenement": "f94887c33980"
   },
   {
     "idSeance": 195691,
@@ -3395,27 +3431,6 @@
       }
     ],
     "hashEvenement": "f80232"
-  },
-  {
-    "idSeance": 197758,
-    "idEvenement": 33980,
-    "dateHeure": "2025-09-20T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Lucile Hadzihalilovic",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33980,
-        "titre": "Lucile Hadzihalilovic par Lucile Hadzihalilovic, une leçon de cinéma",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33980"
   },
   {
     "idSeance": 197789,
@@ -3772,7 +3787,7 @@
     "cycle": [
       [
         "Séances spéciales",
-        "Les films"
+        "Avant-première Charlotte Silvera"
       ]
     ],
     "items": [
@@ -4240,28 +4255,6 @@
     "hashEvenement": "f80808"
   },
   {
-    "idSeance": 198108,
-    "idEvenement": 33388,
-    "dateHeure": "2025-09-28T17:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Maurice Pialat",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 77502,
-        "titre": "Villages d'enfants",
-        "realisateurs": "Maurice Pialat",
-        "annee": 1969,
-        "duree": 40
-      }
-    ],
-    "hashEvenement": "f77502"
-  },
-  {
     "idSeance": 195894,
     "idEvenement": 33519,
     "dateHeure": "2025-09-28T19:45:00",
@@ -4703,6 +4696,10 @@
       [
         "Ciné-club de Murielle Joudet",
         "Les films"
+      ],
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -4714,9 +4711,15 @@
         "duree": 113,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 33966,
+        "titre": "Dialogue avec Murielle Joudet",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f34394"
+    "hashEvenement": "f34394c33966"
   },
   {
     "idSeance": 195981,
@@ -4762,27 +4765,6 @@
       }
     ],
     "hashEvenement": "f88438"
-  },
-  {
-    "idSeance": 197751,
-    "idEvenement": 33966,
-    "dateHeure": "2025-10-02T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Ciné-club de Murielle Joudet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33966,
-        "titre": "Dialogue avec Murielle Joudet",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33966"
   },
   {
     "idSeance": 197996,
@@ -5105,6 +5087,10 @@
       [
         "John Schlesinger",
         "Les films"
+      ],
+      [
+        "John Schlesinger",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -5116,9 +5102,15 @@
         "duree": 125,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 33978,
+        "titre": "Dialogue avec Jean-Baptiste Thoret",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f35364"
+    "hashEvenement": "f35364c33978"
   },
   {
     "idSeance": 196084,
@@ -5333,8 +5325,8 @@
     "hashEvenement": "f43691"
   },
   {
-    "idSeance": 198283,
-    "idEvenement": 6672,
+    "idSeance": 200931,
+    "idEvenement": 34189,
     "dateHeure": "2025-10-08T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -5345,6 +5337,15 @@
     ],
     "items": [
       {
+        "idFilm": 125201,
+        "titre": "Vérités et Mensonges (bande-annonce)",
+        "realisateurs": "Orson Welles",
+        "annee": 1976,
+        "duree": 10,
+        "version": "VO",
+        "format": "DCP"
+      },
+      {
         "idFilm": 45143,
         "titre": "Citizen Kane",
         "realisateurs": "Orson Welles",
@@ -5354,7 +5355,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f45143"
+    "hashEvenement": "f125201f45143"
   },
   {
     "idSeance": 196132,
@@ -5622,8 +5623,8 @@
     "hashEvenement": "f38464"
   },
   {
-    "idSeance": 198291,
-    "idEvenement": 6669,
+    "idSeance": 198310,
+    "idEvenement": 6670,
     "dateHeure": "2025-10-10T20:30:00",
     "salle": "HL",
     "cycle": [
@@ -5634,17 +5635,16 @@
     ],
     "items": [
       {
-        "idFilm": 36828,
-        "titre": "Othello",
+        "idFilm": 36823,
+        "titre": "Macbeth",
         "realisateurs": "Orson Welles",
-        "annee": 1951,
-        "duree": 93,
+        "annee": 1948,
+        "duree": 108,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f36828"
+    "hashEvenement": "f36823"
   },
   {
     "idSeance": 198227,
@@ -5680,6 +5680,10 @@
       [
         "Orson Welles",
         "Les films"
+      ],
+      [
+        "Orson Welles",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -5691,9 +5695,15 @@
         "duree": 119,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 33971,
+        "titre": "Dialogue avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f45143"
+    "hashEvenement": "f45143c33971"
   },
   {
     "idSeance": 198140,
@@ -5744,29 +5754,8 @@
     "hashEvenement": "f45150"
   },
   {
-    "idSeance": 197947,
-    "idEvenement": 33971,
-    "dateHeure": "2025-10-11T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33971,
-        "titre": "Dialogue avec Frédéric Bonnaud",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33971"
-  },
-  {
-    "idSeance": 198288,
-    "idEvenement": 7410,
+    "idSeance": 198306,
+    "idEvenement": 7849,
     "dateHeure": "2025-10-11T19:00:00",
     "salle": "HL",
     "cycle": [
@@ -5781,8 +5770,8 @@
         "titre": "Une histoire immortelle",
         "realisateurs": "Orson Welles",
         "annee": 1966,
-        "duree": 50,
-        "version": "VF",
+        "duree": 58,
+        "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
@@ -5816,7 +5805,7 @@
   {
     "idSeance": 196251,
     "idEvenement": 6662,
-    "dateHeure": "2025-10-11T21:00:00",
+    "dateHeure": "2025-10-11T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -6273,6 +6262,10 @@
       [
         "Orson Welles",
         "Les films"
+      ],
+      [
+        "Orson Welles",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6285,22 +6278,7 @@
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
-      }
-    ],
-    "hashEvenement": "f36804"
-  },
-  {
-    "idSeance": 197948,
-    "idEvenement": 33973,
-    "dateHeure": "2025-10-16T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 33973,
         "titre": "Dialogue avec Simon Callow",
@@ -6308,37 +6286,12 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c33973"
-  },
-  {
-    "idSeance": 198240,
-    "idEvenement": 33941,
-    "dateHeure": "2025-10-17T14:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Le burlesque muet hollywoodien, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 31331,
-        "titre": "Ruée vers l'or",
-        "art": "La",
-        "realisateurs": "Charles Chaplin",
-        "annee": 1925,
-        "duree": 96,
-        "version": "INT. FR.",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f31331"
+    "hashEvenement": "f36804c33973"
   },
   {
     "idSeance": 197905,
     "idEvenement": 33943,
-    "dateHeure": "2025-10-17T16:15:00",
+    "dateHeure": "2025-10-17T14:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6359,6 +6312,31 @@
       }
     ],
     "hashEvenement": "f31057"
+  },
+  {
+    "idSeance": 198240,
+    "idEvenement": 33941,
+    "dateHeure": "2025-10-17T16:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le burlesque muet hollywoodien, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31331,
+        "titre": "Ruée vers l'or",
+        "art": "La",
+        "realisateurs": "Charles Chaplin",
+        "annee": 1925,
+        "duree": 96,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f31331"
   },
   {
     "idSeance": 196394,
@@ -6486,28 +6464,39 @@
     "hashEvenement": "f143079"
   },
   {
-    "idSeance": 196435,
-    "idEvenement": 6670,
+    "idSeance": 198307,
+    "idEvenement": 7417,
     "dateHeure": "2025-10-18T14:30:00",
     "salle": "HL",
     "cycle": [
       [
         "Orson Welles",
         "Les films"
+      ],
+      [
+        "Orson Welles",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 36823,
-        "titre": "Macbeth",
+        "idFilm": 36828,
+        "titre": "Othello",
         "realisateurs": "Orson Welles",
-        "annee": 1948,
-        "duree": 108,
+        "annee": 1951,
+        "duree": 93,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
+      },
+      {
+        "idConf": 33974,
+        "titre": "Shakespeare vu par Orson Welles : l'obsession magnifique",
+        "sousTitre": "Table ronde",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f36823"
+    "hashEvenement": "f36828c33974"
   },
   {
     "idSeance": 196439,
@@ -6532,28 +6521,6 @@
       }
     ],
     "hashEvenement": "f35767"
-  },
-  {
-    "idSeance": 197762,
-    "idEvenement": 33974,
-    "dateHeure": "2025-10-18T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33974,
-        "titre": "Shakespeare vu par Orson Welles : l'obsession magnifique",
-        "sousTitre": "Table ronde",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33974"
   },
   {
     "idSeance": 198042,
@@ -6599,8 +6566,8 @@
     "hashEvenement": "f66149f66147f66145"
   },
   {
-    "idSeance": 196437,
-    "idEvenement": 7417,
+    "idSeance": 198308,
+    "idEvenement": 7415,
     "dateHeure": "2025-10-18T18:30:00",
     "salle": "HL",
     "cycle": [
@@ -6611,16 +6578,25 @@
     ],
     "items": [
       {
-        "idFilm": 36828,
-        "titre": "Othello",
+        "idFilm": 126240,
+        "titre": "Orson Welles' « Voodoo » Macbeth",
+        "realisateurs": "Anonyme",
+        "annee": 1936,
+        "duree": 4,
+        "version": "VOSTF",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 36823,
+        "titre": "Macbeth",
         "realisateurs": "Orson Welles",
-        "annee": 1951,
-        "duree": 93,
+        "annee": 1948,
+        "duree": 85,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f36828"
+    "hashEvenement": "f126240f36823"
   },
   {
     "idSeance": 196440,
@@ -6881,6 +6857,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Jean-François Rauger",
     "items": [
       {
         "idFilm": 47449,
@@ -7169,33 +7146,9 @@
     "hashEvenement": "f32739"
   },
   {
-    "idSeance": 196537,
-    "idEvenement": 6654,
-    "dateHeure": "2025-10-23T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 58662,
-        "titre": "Cagliostro",
-        "realisateurs": "Gregory Ratoff",
-        "annee": 1947,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "16 mm"
-      }
-    ],
-    "hashEvenement": "f58662"
-  },
-  {
     "idSeance": 198111,
     "idEvenement": 34088,
-    "dateHeure": "2025-10-23T18:30:00",
+    "dateHeure": "2025-10-23T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7214,6 +7167,28 @@
       }
     ],
     "hashEvenement": "f155365"
+  },
+  {
+    "idSeance": 197765,
+    "idEvenement": 33975,
+    "dateHeure": "2025-10-23T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 33975,
+        "titre": "Welles : montages et remontages",
+        "sousTitre": "Conférence de François Thomas",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c33975"
   },
   {
     "idSeance": 196542,
@@ -7239,33 +7214,9 @@
     "hashEvenement": "f155350"
   },
   {
-    "idSeance": 198055,
-    "idEvenement": 6656,
-    "dateHeure": "2025-10-23T20:15:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 32779,
-        "titre": "Échec à Borgia",
-        "realisateurs": "Henry King",
-        "annee": 1948,
-        "duree": 114,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f32779"
-  },
-  {
     "idSeance": 198062,
     "idEvenement": 33824,
-    "dateHeure": "2025-10-23T21:00:00",
+    "dateHeure": "2025-10-23T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7282,6 +7233,32 @@
       }
     ],
     "hashEvenement": "f133488"
+  },
+  {
+    "idSeance": 198303,
+    "idEvenement": 6662,
+    "dateHeure": "2025-10-23T21:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45437,
+        "titre": "Dame de Shanghaï",
+        "art": "La",
+        "realisateurs": "Orson Welles",
+        "annee": 1947,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f45437"
   },
   {
     "idSeance": 197880,
@@ -7341,7 +7318,8 @@
     "items": [
       {
         "idConf": 33936,
-        "titre": "[Conférence IMAX]",
+        "titre": "Le cinéma en IMAX 70 mm",
+        "sousTitre": "Conférence de Maximilien de Poitevin",
         "typeConference": "Conférence",
         "duree": 90
       }
@@ -7424,6 +7402,28 @@
     "hashEvenement": "f79950"
   },
   {
+    "idSeance": 200934,
+    "idEvenement": 34158,
+    "dateHeure": "2025-10-24T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 88595,
+        "titre": "Hearts of Age",
+        "art": "The",
+        "realisateurs": "Orson Welles, William Vance",
+        "annee": 1934
+      }
+    ],
+    "hashEvenement": "f88595"
+  },
+  {
     "idSeance": 197881,
     "idEvenement": 33785,
     "dateHeure": "2025-10-25T14:15:00",
@@ -7457,6 +7457,10 @@
       [
         "Hafsia Herzi",
         "Hafsia Herzi cinéaste"
+      ],
+      [
+        "Hafsia Herzi",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -7476,22 +7480,7 @@
         "annee": 2019,
         "duree": 102,
         "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f147094f141851"
-  },
-  {
-    "idSeance": 198284,
-    "idEvenement": 34178,
-    "dateHeure": "2025-10-25T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Hafsia Herzi",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 34178,
         "titre": "Hafsia Herzi par Hafsia Herzi, une leçon de cinéma",
@@ -7499,11 +7488,11 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c34178"
+    "hashEvenement": "f147094f141851c34178"
   },
   {
-    "idSeance": 196627,
-    "idEvenement": 6655,
+    "idSeance": 198311,
+    "idEvenement": 6682,
     "dateHeure": "2025-10-25T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -7514,17 +7503,16 @@
     ],
     "items": [
       {
-        "idFilm": 37141,
-        "titre": "Malpertuis",
-        "realisateurs": "Harry Kümel",
-        "annee": 1972,
-        "duree": 110,
+        "idFilm": 31683,
+        "titre": "Drame dans un miroir",
+        "realisateurs": "Richard Fleischer",
+        "annee": 1960,
+        "duree": 96,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f37141"
+    "hashEvenement": "f31683"
   },
   {
     "idSeance": 198114,
@@ -7583,6 +7571,10 @@
       [
         "Orson Welles",
         "Les films"
+      ],
+      [
+        "Orson Welles",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -7595,9 +7587,15 @@
         "duree": 88,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 33972,
+        "titre": "Dialogue avec Frédéric Bonnaud",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f36826"
+    "hashEvenement": "f36826c33972"
   },
   {
     "idSeance": 196645,
@@ -7664,27 +7662,6 @@
       }
     ],
     "hashEvenement": "f155391"
-  },
-  {
-    "idSeance": 197949,
-    "idEvenement": 33972,
-    "dateHeure": "2025-10-26T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33972,
-        "titre": "Dialogue avec Frédéric Bonnaud",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33972"
   },
   {
     "idSeance": 198064,
@@ -8104,6 +8081,10 @@
       [
         "Parlons cinéma... avec Yasmina Reza",
         "Les films"
+      ],
+      [
+        "Parlons cinéma... avec Yasmina Reza",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -8115,9 +8096,15 @@
         "duree": 118,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 33968,
+        "titre": "Dialogue avec Yasmina Reza",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f88450"
+    "hashEvenement": "f88450c33968"
   },
   {
     "idSeance": 198247,
@@ -8166,27 +8153,6 @@
       }
     ],
     "hashEvenement": "f110984"
-  },
-  {
-    "idSeance": 198022,
-    "idEvenement": 33968,
-    "dateHeure": "2025-10-30T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Parlons cinéma... avec Yasmina Reza",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33968,
-        "titre": "Dialogue avec Yasmina Reza",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33968"
   },
   {
     "idSeance": 198211,
@@ -8244,26 +8210,28 @@
     "hashEvenement": "f49106"
   },
   {
-    "idSeance": 197765,
-    "idEvenement": 33975,
+    "idSeance": 196770,
+    "idEvenement": 6654,
     "dateHeure": "2025-10-31T19:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Orson Welles",
-        "Rencontres et conférences"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idConf": 33975,
-        "titre": "Welles : montages et remontages",
-        "sousTitre": "Conférence de François Thomas",
-        "typeConference": "Conférence",
-        "duree": 90
+        "idFilm": 58662,
+        "titre": "Cagliostro",
+        "realisateurs": "Gregory Ratoff",
+        "annee": 1947,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "c33975"
+    "hashEvenement": "f58662"
   },
   {
     "idSeance": 198228,
@@ -8313,6 +8281,30 @@
     "hashEvenement": "f49115"
   },
   {
+    "idSeance": 198304,
+    "idEvenement": 6656,
+    "dateHeure": "2025-10-31T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 32779,
+        "titre": "Échec à Borgia",
+        "realisateurs": "Henry King",
+        "annee": 1948,
+        "duree": 114,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f32779"
+  },
+  {
     "idSeance": 198229,
     "idEvenement": 33708,
     "dateHeure": "2025-10-31T21:00:00",
@@ -8338,30 +8330,38 @@
     "hashEvenement": "f74129"
   },
   {
-    "idSeance": 198171,
-    "idEvenement": 6662,
-    "dateHeure": "2025-11-01T14:30:00",
-    "salle": "HL",
+    "idSeance": 200933,
+    "idEvenement": 34103,
+    "dateHeure": "2025-11-01T15:00:00",
+    "salle": "GF",
     "cycle": [
       [
         "Orson Welles",
         "Les films"
+      ],
+      [
+        "Orson Welles",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 45437,
-        "titre": "Dame de Shanghaï",
-        "art": "La",
+        "idFilm": 36816,
+        "titre": "Don Quichotte",
         "realisateurs": "Orson Welles",
-        "annee": 1947,
-        "duree": 87,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "annee": 1955,
+        "duree": 80,
+        "version": "VO",
+        "format": "35 mm"
+      },
+      {
+        "idConf": 33976,
+        "titre": "Dialogue avec Esteve Riambau",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f45437"
+    "hashEvenement": "f36816c33976"
   },
   {
     "idSeance": 196816,
@@ -8385,27 +8385,6 @@
       }
     ],
     "hashEvenement": "f112946"
-  },
-  {
-    "idSeance": 197950,
-    "idEvenement": 33976,
-    "dateHeure": "2025-11-01T16:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33976,
-        "titre": "Dialogue avec Esteve Riambau",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33976"
   },
   {
     "idSeance": 198078,
@@ -8582,6 +8561,10 @@
       [
         "Sacha Guitry",
         "Les films"
+      ],
+      [
+        "Sacha Guitry",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -8593,9 +8576,15 @@
         "duree": 90,
         "format": "DCP",
         "restauration": true
+      },
+      {
+        "idConf": 33981,
+        "titre": "Dialogue avec Noël Herpe",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f49093"
+    "hashEvenement": "f49093c33981"
   },
   {
     "idSeance": 196832,
@@ -8699,27 +8688,6 @@
       }
     ],
     "hashEvenement": "f32707"
-  },
-  {
-    "idSeance": 197940,
-    "idEvenement": 33981,
-    "dateHeure": "2025-11-02T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sacha Guitry",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33981,
-        "titre": "Dialogue avec Noël Herpe",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33981"
   },
   {
     "idSeance": 198178,
@@ -8893,28 +8861,28 @@
     "hashEvenement": "f40292"
   },
   {
-    "idSeance": 196843,
-    "idEvenement": 33735,
+    "idSeance": 198301,
+    "idEvenement": 7840,
     "dateHeure": "2025-11-03T18:15:00",
     "salle": "GF",
     "cycle": [
       [
-        "Sacha Guitry",
+        "Orson Welles",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 49095,
-        "titre": "Ils étaient neuf célibataires",
-        "realisateurs": "Sacha Guitry",
-        "annee": 1939,
-        "duree": 125,
-        "format": "DCP",
-        "restauration": true
+        "idFilm": 126241,
+        "titre": "Deep (The)",
+        "realisateurs": "Orson Welles",
+        "annee": 1967,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "Vidéo"
       }
     ],
-    "hashEvenement": "f49095"
+    "hashEvenement": "f126241"
   },
   {
     "idSeance": 196845,
@@ -8939,28 +8907,55 @@
     "hashEvenement": "f155386"
   },
   {
-    "idSeance": 198250,
-    "idEvenement": 33763,
+    "idSeance": 200935,
+    "idEvenement": 7714,
     "dateHeure": "2025-11-03T20:45:00",
     "salle": "GF",
     "cycle": [
       [
-        "Sacha Guitry",
+        "Orson Welles",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 49091,
-        "titre": "Destin fabuleux de Désirée Clary",
-        "art": "Le",
-        "realisateurs": "Sacha Guitry, René Le Hénaff",
-        "annee": 1942,
-        "duree": 108,
+        "idFilm": 126505,
+        "titre": "Around the World with Orson Welles : Pays basque",
+        "realisateurs": "Orson Welles",
+        "annee": 1955,
+        "duree": 28,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 126503,
+        "titre": "Around the World with Orson Welles : Madrid Bullfight",
+        "realisateurs": "Orson Welles",
+        "annee": 1955,
+        "duree": 28,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 125189,
+        "titre": "Around the World with Orson Welles : London",
+        "realisateurs": "Orson Welles",
+        "annee": 1955,
+        "duree": 28,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 126508,
+        "titre": "Around the World with Orson Welles : Saint-Germain-des-Prés",
+        "realisateurs": "Orson Welles",
+        "annee": 1955,
+        "duree": 27,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f49091"
+    "hashEvenement": "f126505f126503f125189f126508"
   },
   {
     "idSeance": 196874,
@@ -8988,9 +8983,9 @@
     "hashEvenement": "f31320"
   },
   {
-    "idSeance": 198182,
-    "idEvenement": 6689,
-    "dateHeure": "2025-11-05T17:30:00",
+    "idSeance": 198299,
+    "idEvenement": 7774,
+    "dateHeure": "2025-11-05T18:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -9000,17 +8995,17 @@
     ],
     "items": [
       {
-        "idFilm": 74559,
-        "titre": "Homme qui a vu l'homme qui a vu l'ours",
-        "art": "L'",
-        "realisateurs": "André S. Labarthe",
-        "annee": 1987,
-        "duree": 106,
-        "version": "VO",
+        "idFilm": 126650,
+        "titre": "Labyrinthes de Mr Arkadin",
+        "art": "Les",
+        "realisateurs": "Stefan Drössler",
+        "annee": 2000,
+        "duree": 66,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f74559"
+    "hashEvenement": "f126650"
   },
   {
     "idSeance": 198251,
@@ -9046,6 +9041,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 66169,
@@ -9300,6 +9296,10 @@
       [
         "Sigourney Weaver",
         "Les films"
+      ],
+      [
+        "Sigourney Weaver",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -9311,9 +9311,15 @@
         "duree": 117,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 33986,
+        "titre": "Sigourney Weaver par Sigourney Weaver, une leçon de cinéma",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f36119"
+    "hashEvenement": "f36119c33986"
   },
   {
     "idSeance": 198256,
@@ -9361,7 +9367,7 @@
       },
       {
         "idFilm": 52783,
-        "titre": "Cow-boys et peaux rouges",
+        "titre": "Cow-boys et Peaux-Rouges",
         "realisateurs": "Anonyme",
         "annee": 1907,
         "duree": 9,
@@ -9370,7 +9376,7 @@
       },
       {
         "idFilm": 155324,
-        "titre": "Justice du peau-rouge",
+        "titre": "Justice du Peau-Rouge",
         "art": "La",
         "realisateurs": "Anonyme",
         "annee": 1908,
@@ -9390,7 +9396,7 @@
       {
         "idFilm": 155305,
         "titre": "Pendaison à Jefferson City",
-        "realisateurs": "Durand Jean",
+        "realisateurs": "Jean Durand",
         "annee": 1911,
         "duree": 7,
         "version": "INT. FR.",
@@ -9407,27 +9413,6 @@
       }
     ],
     "hashEvenement": "f149030f52783f155324f96604f155305f155325"
-  },
-  {
-    "idSeance": 197951,
-    "idEvenement": 33986,
-    "dateHeure": "2025-11-07T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sigourney Weaver",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33986,
-        "titre": "Dialogue avec Sigourney Weaver",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33986"
   },
   {
     "idSeance": 198132,
@@ -9565,10 +9550,34 @@
     "hashEvenement": "f36675"
   },
   {
+    "idSeance": 198295,
+    "idEvenement": 30802,
+    "dateHeure": "2025-11-08T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Sigourney Weaver",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 35474,
+        "titre": "Working Girl",
+        "realisateurs": "Mike Nichols",
+        "annee": 1988,
+        "duree": 113,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f35474"
+  },
+  {
     "idSeance": 197002,
     "idEvenement": 30801,
-    "dateHeure": "2025-11-08T16:00:00",
-    "salle": "JE",
+    "dateHeure": "2025-11-08T17:00:00",
+    "salle": "GF",
     "cycle": [
       [
         "Sigourney Weaver",
@@ -9611,10 +9620,10 @@
     "hashEvenement": "f49121"
   },
   {
-    "idSeance": 198174,
-    "idEvenement": 7840,
+    "idSeance": 198302,
+    "idEvenement": 34150,
     "dateHeure": "2025-11-08T17:30:00",
-    "salle": "GF",
+    "salle": "JE",
     "cycle": [
       [
         "Orson Welles",
@@ -9623,16 +9632,16 @@
     ],
     "items": [
       {
-        "idFilm": 126241,
-        "titre": "Deep (The)",
-        "realisateurs": "Orson Welles",
-        "annee": 1967,
-        "duree": 120,
+        "idFilm": 155392,
+        "titre": "Orson Welles over Europe",
+        "realisateurs": "Hans Petch",
+        "annee": 2019,
+        "duree": 58,
         "version": "VOSTF",
-        "format": "Vidéo"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f126241"
+    "hashEvenement": "f155392"
   },
   {
     "idSeance": 198258,
@@ -9656,6 +9665,30 @@
       }
     ],
     "hashEvenement": "f30555"
+  },
+  {
+    "idSeance": 198296,
+    "idEvenement": 30807,
+    "dateHeure": "2025-11-08T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Sigourney Weaver",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 60100,
+        "titre": "Copycat",
+        "realisateurs": "Jon Amiel",
+        "annee": 1995,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f60100"
   },
   {
     "idSeance": 198259,
@@ -9688,6 +9721,10 @@
       [
         "Sacha Guitry",
         "Les films"
+      ],
+      [
+        "Sacha Guitry",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -9700,9 +9737,15 @@
         "duree": 95,
         "format": "DCP",
         "restauration": true
+      },
+      {
+        "idConf": 33983,
+        "titre": "Dialogue avec Axelle Ropert",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f49089"
+    "hashEvenement": "f49089c33983"
   },
   {
     "idSeance": 197019,
@@ -9748,27 +9791,6 @@
       }
     ],
     "hashEvenement": "f67893"
-  },
-  {
-    "idSeance": 197941,
-    "idEvenement": 33983,
-    "dateHeure": "2025-11-09T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sacha Guitry",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33983,
-        "titre": "Dialogue avec Axelle Ropert",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33983"
   },
   {
     "idSeance": 198260,
@@ -9888,6 +9910,30 @@
     "hashEvenement": "f54390"
   },
   {
+    "idSeance": 197028,
+    "idEvenement": 30799,
+    "dateHeure": "2025-11-10T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sigourney Weaver",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 53509,
+        "titre": "Œil du témoin",
+        "art": "L'",
+        "realisateurs": "Peter Yates",
+        "annee": 1981,
+        "duree": 100,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f53509"
+  },
+  {
     "idSeance": 198262,
     "idEvenement": 33727,
     "dateHeure": "2025-11-10T18:30:00",
@@ -9980,8 +10026,8 @@
     "hashEvenement": "f137192"
   },
   {
-    "idSeance": 197068,
-    "idEvenement": 7774,
+    "idSeance": 198300,
+    "idEvenement": 6689,
     "dateHeure": "2025-11-12T18:30:00",
     "salle": "JE",
     "cycle": [
@@ -9992,17 +10038,17 @@
     ],
     "items": [
       {
-        "idFilm": 126650,
-        "titre": "Labyrinthes de Mr Arkadin",
-        "art": "Les",
-        "realisateurs": "Stefan Drössler",
-        "annee": 2000,
-        "duree": 66,
-        "version": "VOSTF",
+        "idFilm": 74559,
+        "titre": "Homme qui a vu l'homme qui a vu l'ours",
+        "art": "L'",
+        "realisateurs": "André S. Labarthe",
+        "annee": 1987,
+        "duree": 106,
+        "version": "VO",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f126650"
+    "hashEvenement": "f74559"
   },
   {
     "idSeance": 198265,
@@ -10105,6 +10151,10 @@
       [
         "Parlons cinéma... avec Yasmina Reza",
         "Les films"
+      ],
+      [
+        "Parlons cinéma... avec Yasmina Reza",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -10117,9 +10167,15 @@
         "duree": 104,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 33969,
+        "titre": "Dialogue avec Yasmina Reza",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f103462"
+    "hashEvenement": "f103462c33969"
   },
   {
     "idSeance": 198267,
@@ -10169,27 +10225,6 @@
     "hashEvenement": "f155364"
   },
   {
-    "idSeance": 198023,
-    "idEvenement": 33969,
-    "dateHeure": "2025-11-13T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Parlons cinéma... avec Yasmina Reza",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33969,
-        "titre": "Dialogue avec Yasmina Reza",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33969"
-  },
-  {
     "idSeance": 197766,
     "idEvenement": 33937,
     "dateHeure": "2025-11-14T17:00:00",
@@ -10203,7 +10238,8 @@
     "items": [
       {
         "idConf": 33937,
-        "titre": "[Conférence de Greg Toland]",
+        "titre": "Gregg Toland, directeur de la photographie de Citizen Kane",
+        "sousTitre": "Conférence de Marc Salomon",
         "typeConference": "Conférence",
         "duree": 90
       }
@@ -10283,6 +10319,41 @@
     "hashEvenement": "f49126"
   },
   {
+    "idSeance": 200940,
+    "idEvenement": 6671,
+    "dateHeure": "2025-11-15T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Les films"
+      ],
+      [
+        "Orson Welles",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51779,
+        "titre": "Procès",
+        "art": "Le",
+        "realisateurs": "Orson Welles",
+        "annee": 1962,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idConf": 33964,
+        "titre": "Dialogue avec Jean-Philippe Trias",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f51779c33964"
+  },
+  {
     "idSeance": 197187,
     "idEvenement": 34151,
     "dateHeure": "2025-11-15T15:00:00",
@@ -10304,27 +10375,6 @@
       }
     ],
     "hashEvenement": "f155393"
-  },
-  {
-    "idSeance": 197953,
-    "idEvenement": 33964,
-    "dateHeure": "2025-11-15T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33964,
-        "titre": "Dialogue avec Jean-Philippe Trias",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33964"
   },
   {
     "idSeance": 197188,
@@ -10403,6 +10453,10 @@
       [
         "Sacha Guitry",
         "Les films"
+      ],
+      [
+        "Sacha Guitry",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -10414,9 +10468,15 @@
         "annee": 1957,
         "duree": 83,
         "format": "35 mm"
+      },
+      {
+        "idConf": 33982,
+        "titre": "Dialogue avec Nicolas Pariser",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f48118"
+    "hashEvenement": "f48118c33982"
   },
   {
     "idSeance": 197206,
@@ -10486,27 +10546,6 @@
       }
     ],
     "hashEvenement": "f64487"
-  },
-  {
-    "idSeance": 197952,
-    "idEvenement": 33982,
-    "dateHeure": "2025-11-16T16:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sacha Guitry",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33982,
-        "titre": "Dialogue avec Nicolas Pariser",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33982"
   },
   {
     "idSeance": 197208,
@@ -10731,26 +10770,51 @@
     "hashEvenement": "f155389f155390f155387f155388"
   },
   {
-    "idSeance": 197249,
-    "idEvenement": 33850,
-    "dateHeure": "2025-11-19T17:00:00",
+    "idSeance": 197218,
+    "idEvenement": 33728,
+    "dateHeure": "2025-11-17T20:15:00",
     "salle": "GF",
     "cycle": [
       [
-        "Histoire permanente du cinéma",
+        "Sacha Guitry",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 39669,
-        "titre": "Petites Fugues",
-        "art": "Les",
-        "realisateurs": "Yves Yersin",
-        "annee": 1979
+        "idFilm": 49089,
+        "titre": "Comédien",
+        "art": "Le",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1948,
+        "duree": 95,
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f39669"
+    "hashEvenement": "f49089"
+  },
+  {
+    "idSeance": 197253,
+    "idEvenement": 33740,
+    "dateHeure": "2025-11-19T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49087,
+        "titre": "Assassins et voleurs",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1957,
+        "duree": 85
+      }
+    ],
+    "hashEvenement": "f49087"
   },
   {
     "idSeance": 197987,
@@ -10765,6 +10829,10 @@
       [
         "Ciné-club de Murielle Joudet",
         "Les films"
+      ],
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -10778,22 +10846,7 @@
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
-      }
-    ],
-    "hashEvenement": "f42543"
-  },
-  {
-    "idSeance": 197735,
-    "idEvenement": 33967,
-    "dateHeure": "2025-11-19T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Ciné-club de Murielle Joudet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 33967,
         "titre": "Dialogue avec Murielle Joudet",
@@ -10801,7 +10854,31 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c33967"
+    "hashEvenement": "f42543c33967"
+  },
+  {
+    "idSeance": 197254,
+    "idEvenement": 33763,
+    "dateHeure": "2025-11-19T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49091,
+        "titre": "Destin fabuleux de Désirée Clary",
+        "art": "Le",
+        "realisateurs": "Sacha Guitry, René Le Hénaff",
+        "annee": 1942,
+        "duree": 108,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f49091"
   },
   {
     "idSeance": 198223,
@@ -10856,6 +10933,10 @@
       [
         "Parlons cinéma... avec Yasmina Reza",
         "Les films"
+      ],
+      [
+        "Parlons cinéma... avec Yasmina Reza",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -10867,9 +10948,15 @@
         "duree": 112,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 33970,
+        "titre": "Dialogue avec Yasmina Reza",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f43792"
+    "hashEvenement": "f43792c33970"
   },
   {
     "idSeance": 198275,
@@ -10893,27 +10980,6 @@
       }
     ],
     "hashEvenement": "f49115"
-  },
-  {
-    "idSeance": 198024,
-    "idEvenement": 33970,
-    "dateHeure": "2025-11-20T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Parlons cinéma... avec Yasmina Reza",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33970,
-        "titre": "Dialogue avec Yasmina Reza",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33970"
   },
   {
     "idSeance": 197328,
@@ -10940,14 +11006,14 @@
     "hashEvenement": "f49094"
   },
   {
-    "idSeance": 197330,
-    "idEvenement": 33712,
-    "dateHeure": "2025-11-21T19:00:00",
+    "idSeance": 200939,
+    "idEvenement": 7824,
+    "dateHeure": "2025-11-21T18:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Cinéma bis",
-        "Orson Welles bis"
+        "Orson Welles",
+        "Les films"
       ]
     ],
     "items": [
@@ -10988,14 +11054,14 @@
     "hashEvenement": "f49106"
   },
   {
-    "idSeance": 197331,
-    "idEvenement": 33713,
-    "dateHeure": "2025-11-21T21:45:00",
+    "idSeance": 200938,
+    "idEvenement": 6684,
+    "dateHeure": "2025-11-21T21:15:00",
     "salle": "GF",
     "cycle": [
       [
-        "Cinéma bis",
-        "Orson Welles bis"
+        "Orson Welles",
+        "Les films"
       ]
     ],
     "items": [
@@ -11013,8 +11079,8 @@
     "hashEvenement": "f42223"
   },
   {
-    "idSeance": 198173,
-    "idEvenement": 6671,
+    "idSeance": 200937,
+    "idEvenement": 6663,
     "dateHeure": "2025-11-22T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -11025,22 +11091,46 @@
     ],
     "items": [
       {
-        "idFilm": 51779,
-        "titre": "Procès",
+        "idFilm": 36830,
+        "titre": "Criminel",
         "art": "Le",
         "realisateurs": "Orson Welles",
-        "annee": 1962,
-        "duree": 120,
+        "annee": 1946,
+        "duree": 95,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f51779"
+    "hashEvenement": "f36830"
+  },
+  {
+    "idSeance": 197374,
+    "idEvenement": 33735,
+    "dateHeure": "2025-11-22T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49095,
+        "titre": "Ils étaient neuf célibataires",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1939,
+        "duree": 125,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f49095"
   },
   {
     "idSeance": 198276,
     "idEvenement": 33750,
-    "dateHeure": "2025-11-22T17:00:00",
+    "dateHeure": "2025-11-22T17:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -11060,9 +11150,34 @@
     "hashEvenement": "f49121"
   },
   {
+    "idSeance": 197375,
+    "idEvenement": 6709,
+    "dateHeure": "2025-11-22T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 125200,
+        "titre": "Orson Welles Show",
+        "art": "The",
+        "realisateurs": "Orson Welles",
+        "annee": 1978,
+        "duree": 74,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f125200"
+  },
+  {
     "idSeance": 197373,
     "idEvenement": 33730,
-    "dateHeure": "2025-11-22T19:00:00",
+    "dateHeure": "2025-11-22T19:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -11082,6 +11197,31 @@
       }
     ],
     "hashEvenement": "f49093"
+  },
+  {
+    "idSeance": 197376,
+    "idEvenement": 7827,
+    "dateHeure": "2025-11-22T19:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33465,
+        "titre": "Racines du ciel",
+        "art": "Les",
+        "realisateurs": "John Huston",
+        "annee": 1958,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f33465"
   },
   {
     "idSeance": 198274,
@@ -11196,6 +11336,30 @@
       }
     ],
     "hashEvenement": "f51393"
+  },
+  {
+    "idSeance": 197404,
+    "idEvenement": 34187,
+    "dateHeure": "2025-11-24T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Gala Hernández López"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Gala HERNÁNDEZ LÓPEZ",
+    "items": [
+      {
+        "idFilm": 155401,
+        "titre": "+10K",
+        "realisateurs": "Gala Hernández López",
+        "annee": 2024,
+        "duree": 33,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155401"
   },
   {
     "idSeance": 197435,
@@ -11323,6 +11487,10 @@
       [
         "Parlons cinéma... avec Yasmina Reza",
         "Les films"
+      ],
+      [
+        "Parlons cinéma... avec Yasmina Reza",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -11334,9 +11502,15 @@
         "duree": 124,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 34029,
+        "titre": "Dialogue avec Yasmina Reza",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f108187"
+    "hashEvenement": "f108187c34029"
   },
   {
     "idSeance": 198277,
@@ -11360,27 +11534,6 @@
       }
     ],
     "hashEvenement": "f47500"
-  },
-  {
-    "idSeance": 198026,
-    "idEvenement": 34029,
-    "dateHeure": "2025-11-27T21:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Parlons cinéma... avec Yasmina Reza",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 34029,
-        "titre": "Dialogue avec Yasmina Reza",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c34029"
   },
   {
     "idSeance": 198068,

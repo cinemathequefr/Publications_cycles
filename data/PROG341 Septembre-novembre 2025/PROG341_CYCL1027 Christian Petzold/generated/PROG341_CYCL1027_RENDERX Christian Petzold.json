@@ -10,32 +10,49 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 116153,
-          "content": [
+          "groupe": [
             {
               "idFilm": 116153,
-              "ordre": 1,
-              "titre": "Barbara",
-              "realisateurs": "Christian Petzold",
-              "pays": "Allemagne",
-              "annee": 2012,
-              "duree": 105,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Nina Hoss",
-                "Ronald Zehrfeld",
-                "Rainer Bock"
-              ],
-              "isFocus": true,
-              "miniTexte": "En Allemagne de l'Est, une pédiatre soupçonnée de vouloir passer à l'Ouest est mutée dans un hôpital de province. Auréolé de l'Ours d'argent du meilleur réalisateur à la Berlinale 2012, Petzold marche sur les pas d'une héroïne captivante (Nina Hoss, élégante et sensible), partagée entre son devoir, sa responsabilité et son désir d'hédonisme. Alors que la paranoïa rôde partout, il entrecroise amour et politique, suspicion et fascination, pour questionner la complexité et la solitude d'un univers oppressant."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 116153,
+                  "ordre": 1,
+                  "titre": "Barbara",
+                  "realisateurs": "Christian Petzold",
+                  "pays": "Allemagne",
+                  "annee": 2012,
+                  "duree": 105,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Nina Hoss",
+                    "Ronald Zehrfeld",
+                    "Rainer Bock"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "En Allemagne de l'Est, une pédiatre soupçonnée de vouloir passer à l'Ouest est mutée dans un hôpital de province. Auréolé de l'Ours d'argent du meilleur réalisateur à la Berlinale 2012, Petzold marche sur les pas d'une héroïne captivante (Nina Hoss, élégante et sensible), partagée entre son devoir, sa responsabilité et son désir d'hédonisme. Alors que la paranoïa rôde partout, il entrecroise amour et politique, suspicion et fascination, pour questionner la complexité et la solitude d'un univers oppressant."
+                }
+              ]
+            },
             {
-              "idSeance": 198045,
-              "dateHeure": "2025-08-30T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 33977,
+              "content": [
+                {
+                  "idConf": 33977,
+                  "ordre": 2,
+                  "titre": "Christian Petzold par Christian Petzold, une leçon de cinéma",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Isaac Gaido-Daniel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 198045,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-08-30T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -572,29 +589,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 33977,
-          "content": [
-            {
-              "idConf": 33977,
-              "titre": "Christian Petzold par Christian Petzold, une leçon de cinéma",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197754,
-              "dateHeure": "2025-08-30T17:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -606,8 +600,9 @@
     ],
     "Dialogue": [
       {
+        "titreFilms": "Barbara",
         "mention": "Christian Petzold par Christian Petzold, une leçon de cinéma",
-        "dateHeure": "2025-08-30T17:30:00"
+        "dateHeure": "2025-08-30T15:00:00"
       }
     ]
   }

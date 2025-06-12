@@ -132,33 +132,50 @@
           ]
         },
         {
-          "idFilm": 94887,
-          "content": [
+          "groupe": [
             {
               "idFilm": 94887,
-              "ordre": 1,
-              "titre": "Innocence",
-              "realisateurs": "Lucile Hadzihalilovic",
-              "pays": "France-Grande-Bretagne-Belgique",
-              "annee": 2003,
-              "duree": 117,
-              "version": "",
-              "format": "35 mm",
-              "adaptation": "D'après la nouvelle _Mine-Haha ou de l'éducation corporelle des jeunes filles_ de Frank Wedekind.",
-              "generique": [
-                "Zoé Auclair",
-                "Alisson Lalieux",
-                "Marion Cotillard",
-                "Hélène de Fougerolles"
-              ],
-              "miniTexte": "Dans une institution isolée du monde, des fillettes pensionnaires apprennent la danse et les sciences naturelles. Pour son premier long métrage, Lucile Hadzihalilovic déploie un onirisme à la Cocteau, une atmosphère d'érotisme mortifère et d'étrangeté fantastique pour raconter l'adolescence et le passage de petite fille à femme. Un voyage sensoriel et métaphorique troublant."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 94887,
+                  "ordre": 1,
+                  "titre": "Innocence",
+                  "realisateurs": "Lucile Hadzihalilovic",
+                  "pays": "France-Grande-Bretagne-Belgique",
+                  "annee": 2003,
+                  "duree": 117,
+                  "version": "",
+                  "format": "35 mm",
+                  "adaptation": "D'après la nouvelle _Mine-Haha ou de l'éducation corporelle des jeunes filles_ de Frank Wedekind.",
+                  "generique": [
+                    "Zoé Auclair",
+                    "Alisson Lalieux",
+                    "Marion Cotillard",
+                    "Hélène de Fougerolles"
+                  ],
+                  "miniTexte": "Dans une institution isolée du monde, des fillettes pensionnaires apprennent la danse et les sciences naturelles. Pour son premier long métrage, Lucile Hadzihalilovic déploie un onirisme à la Cocteau, une atmosphère d'érotisme mortifère et d'étrangeté fantastique pour raconter l'adolescence et le passage de petite fille à femme. Un voyage sensoriel et métaphorique troublant."
+                }
+              ]
+            },
             {
-              "idSeance": 195687,
-              "dateHeure": "2025-09-20T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 33980,
+              "content": [
+                {
+                  "idConf": 33980,
+                  "ordre": 2,
+                  "titre": "Lucile Hadzihalilovic par Lucile Hadzihalilovic, une leçon de cinéma",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Juliette Armantier"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 195687,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-09-20T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -194,30 +211,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 33980,
-          "content": [
-            {
-              "idConf": 33980,
-              "titre": "Lucile Hadzihalilovic par Lucile Hadzihalilovic, une leçon de cinéma",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Juliette Armantier"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197758,
-              "dateHeure": "2025-09-20T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -229,8 +222,9 @@
     ],
     "Dialogue": [
       {
+        "titreFilms": "Innocence",
         "mention": "Lucile Hadzihalilovic par Lucile Hadzihalilovic, une leçon de cinéma",
-        "dateHeure": "2025-09-20T16:30:00"
+        "dateHeure": "2025-09-20T14:30:00"
       }
     ]
   }

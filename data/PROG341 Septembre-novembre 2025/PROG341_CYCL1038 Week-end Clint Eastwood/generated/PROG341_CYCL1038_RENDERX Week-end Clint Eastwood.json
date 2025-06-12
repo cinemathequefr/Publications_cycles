@@ -158,32 +158,49 @@
           ]
         },
         {
-          "idFilm": 133196,
-          "content": [
+          "groupe": [
             {
               "idFilm": 133196,
-              "ordre": 1,
-              "titre": "Sully",
-              "realisateurs": "Clint Eastwood",
-              "pays": "États-Unis",
-              "annee": 2016,
-              "duree": 95,
-              "version": "",
-              "format": "",
-              "adaptation": "D'après le livre _Highest Duty: My Search for What Really Matters_ de Chesley « Sully » Sullenberger et Jeffrey Zaslow.",
-              "generique": [
-                "Tom Hanks",
-                "Aaron Eckhart",
-                "Laura Linney"
-              ],
-              "miniTexte": "Janvier 2009. Le capitaine Chesley « Sully » Sullenberger effectue un amerrissage d'urgence sur l'Hudson River, sauvant les 155 passagers et l'équipage de son A320. Entre flashbacks et reconstitution au cordeau de l'enquête qui s'ensuivit, Eastwood, dans une forme de résilience post-11 septembre, décortique le mécanisme d'une société où la technologie prime, où un homme peut passer de héros à coupable inconscient. Efficace, et remarquablement interprété par les deux pilotes Hanks/Eckhart."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 133196,
+                  "ordre": 1,
+                  "titre": "Sully",
+                  "realisateurs": "Clint Eastwood",
+                  "pays": "États-Unis",
+                  "annee": 2016,
+                  "duree": 95,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après le livre _Highest Duty: My Search for What Really Matters_ de Chesley « Sully » Sullenberger et Jeffrey Zaslow.",
+                  "generique": [
+                    "Tom Hanks",
+                    "Aaron Eckhart",
+                    "Laura Linney"
+                  ],
+                  "miniTexte": "Janvier 2009. Le capitaine Chesley « Sully » Sullenberger effectue un amerrissage d'urgence sur l'Hudson River, sauvant les 155 passagers et l'équipage de son A320. Entre flashbacks et reconstitution au cordeau de l'enquête qui s'ensuivit, Eastwood, dans une forme de résilience post-11 septembre, décortique le mécanisme d'une société où la technologie prime, où un homme peut passer de héros à coupable inconscient. Efficace, et remarquablement interprété par les deux pilotes Hanks/Eckhart."
+                }
+              ]
+            },
             {
-              "idSeance": 198033,
-              "dateHeure": "2025-08-31T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 34071,
+              "content": [
+                {
+                  "idConf": 34071,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Bernard Benoliel",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Et si un geste, un seul mais le bon, pouvait sauver des dizaines de vie, remettre toute une communauté à flot et consoler d'une tragédie nationale ? Et si le récit de l'amerrissage d'un avion de ligne sur le fleuve Hudson, le 15 janvier 2009, avait, en plus de s'inspirer d'une histoire vraie, la faculté imaginaire de réparer le trauma du 11 septembre 2001 ? _Sully_, ou comment la fiction sert à réécrire l'histoire. — Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 198033,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-08-31T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -219,37 +236,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34071,
-          "content": [
-            {
-              "idConf": 34071,
-              "titre": "Dialogue avec Bernard Benoliel",
-              "typeConference": "Dialogue",
-              "miniTexte": "Et si un geste, un seul mais le bon, pouvait sauver des dizaines de vie, remettre toute une communauté à flot et consoler d'une tragédie nationale ? Et si le récit de l'amerrissage d'un avion de ligne sur le fleuve Hudson, le 15 janvier 2009, avait, en plus de s'inspirer d'une histoire vraie, la faculté imaginaire de réparer le trauma du 11 septembre 2001 ? _Sully_, ou comment la fiction sert à réécrire l'histoire. — Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198069,
-              "dateHeure": "2025-08-31T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Sully",
         "mention": "avec Bernard Benoliel",
-        "dateHeure": "2025-08-31T16:30:00"
+        "dateHeure": "2025-08-31T14:30:00"
       }
     ]
   }

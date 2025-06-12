@@ -713,6 +713,7 @@
           "seances": [
             {
               "idSeance": 195606,
+              "typeAssoc": 118,
               "dateHeure": "2025-09-18T19:00:00",
               "idSalle": "HL"
             }
@@ -916,33 +917,61 @@
           ]
         },
         {
-          "idFilm": 36933,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 33695,
+              "content": [
+                {
+                  "idConf": 33695,
+                  "titre": "Qui êtes-vous... William Wellman ?",
+                  "sousTitre": "Conférence de Mathieu Macheret",
+                  "typeConference": "Conférence",
+                  "miniTexte": "William Wellman, né en même temps que le cinéma en 1896, est de cette trempe de cinéastes qui ont commencé pendant le muet et traversé ensuite toute l'ère des studios. Géant du système au même titre qu'un John Ford ou un Raoul Walsh, son style reste rétif à l'unité comme à la transparence classique. Du classicisme, Wellman représente avant tout l'énergie, ce dès son premier succès à grande échelle, _Les Ailes_ (1927) – mais aussi la faille. Peintre bouleversant de la Grande Dépression avec _L'Ennemi public_ (1931) ou _Les Enfants de la crise_ (1933), il en conservera toute sa carrière un profond scepticisme sur la nature humaine. En témoignent ses splendides westerns d'outre-tombe comme _L'Étrange Incident_ (1943) ou _Track of the Cat_ (1954), hantés par l'injustice et la malédiction historique. Un embryon de conscience critique au cœur du système, qui préfigure déjà le Nouvel Hollywood. — Mathieu Macheret"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 197732,
+                  "idSeanceAssoc": 195228,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-09-04T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 36933,
-              "ordre": 1,
-              "titre": "Héros à vendre",
-              "titreVo": "Heroes For Sale",
-              "realisateurs": "William A. Wellman",
-              "pays": "États-Unis",
-              "annee": 1933,
-              "duree": 71,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Richard Barthelmess",
-                "Loretta Young",
-                "Aline MacMahon"
+              "content": [
+                {
+                  "idFilm": 36933,
+                  "ordre": 1,
+                  "titre": "Héros à vendre",
+                  "titreVo": "Heroes For Sale",
+                  "realisateurs": "William A. Wellman",
+                  "pays": "États-Unis",
+                  "annee": 1933,
+                  "duree": 71,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Richard Barthelmess",
+                    "Loretta Young",
+                    "Aline MacMahon"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Des tranchées de 14-18 à la Grande Dépression, un héros de guerre, passé sous les honneurs, va devoir affronter l'injustice, le chômage et une dépendance à la morphine. Avec une liberté de ton propre à l'ère pré-code Hays, Wellman dresse, en 1h10, un portrait amère et lucide de son époque. Peu tendre avec ses concitoyens, il transforme son récit en une grande fresque impitoyable, centrée sur un homme ordinaire, broyé par le système, qui, dans un message patriotique et optimiste, décide de ne pas abandonner les victimes oubliées de la crise."
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Des tranchées de 14-18 à la Grande Dépression, un héros de guerre, passé sous les honneurs, va devoir affronter l'injustice, le chômage et une dépendance à la morphine. Avec une liberté de ton propre à l'ère pré-code Hays, Wellman dresse, en 1h10, un portrait amère et lucide de son époque. Peu tendre avec ses concitoyens, il transforme son récit en une grande fresque impitoyable, centrée sur un homme ordinaire, broyé par le système, qui, dans un message patriotique et optimiste, décide de ne pas abandonner les victimes oubliées de la crise."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 195228,
-              "dateHeure": "2025-09-04T21:30:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 195228,
+                  "idSeanceAssoc": 195228,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-09-04T21:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -1972,31 +2001,6 @@
             {
               "idSeance": 195338,
               "dateHeure": "2025-09-07T19:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 33695,
-          "content": [
-            {
-              "idConf": 33695,
-              "titre": "Qui êtes-vous... William Wellman ?",
-              "sousTitre": "Conférence de Mathieu Macheret",
-              "typeConference": "Conférence",
-              "miniTexte": "William Wellman, né en même temps que le cinéma en 1896, est de cette trempe de cinéastes qui ont commencé pendant le muet et traversé ensuite toute l'ère des studios. Géant du système au même titre qu'un John Ford ou un Raoul Walsh, son style reste rétif à l'unité comme à la transparence classique. Du classicisme, Wellman représente avant tout l'énergie, ce dès son premier succès à grande échelle, _Les Ailes_ (1927) – mais aussi la faille. Peintre bouleversant de la Grande Dépression avec _L'Ennemi public_ (1931) ou _Les Enfants de la crise_ (1933), il en conservera toute sa carrière un profond scepticisme sur la nature humaine. En témoignent ses splendides westerns d'outre-tombe comme _L'Étrange Incident_ (1943) ou _Track of the Cat_ (1954), hantés par l'injustice et la malédiction historique. Un embryon de conscience critique au cœur du système, qui préfigure déjà le Nouvel Hollywood. — Mathieu Macheret"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197732,
-              "dateHeure": "2025-09-04T19:00:00",
               "idSalle": "GF"
             }
           ]

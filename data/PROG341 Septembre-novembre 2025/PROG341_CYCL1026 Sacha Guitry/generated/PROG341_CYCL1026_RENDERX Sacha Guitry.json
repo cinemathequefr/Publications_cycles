@@ -36,6 +36,11 @@
               "idSeance": 197202,
               "dateHeure": "2025-11-16T18:30:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 197253,
+              "dateHeure": "2025-11-19T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -109,35 +114,60 @@
           ]
         },
         {
-          "idFilm": 49089,
-          "content": [
+          "groupe": [
             {
               "idFilm": 49089,
-              "ordre": 1,
-              "titre": "Comédien",
-              "art": "Le",
-              "realisateurs": "Sacha Guitry",
-              "pays": "France",
-              "annee": 1948,
-              "duree": 95,
-              "version": "",
-              "format": "DCP",
-              "restauration": true,
-              "adaptation": "D'après la pièce _Le Comédien_ de Sacha Guitry.",
-              "generique": [
-                "Sacha Guitry",
-                "Lana Marconi",
-                "Jacques Baumer",
-                "Pauline Carton"
-              ],
-              "miniTexte": "La vie et la carrière de Lucien Guitry, de l'enfance à la passion du théâtre. Sacha se glisse dans les rôles de son père pour lui rendre hommage, tout en déclarant son amour au métier de comédien."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 49089,
+                  "ordre": 1,
+                  "titre": "Comédien",
+                  "art": "Le",
+                  "realisateurs": "Sacha Guitry",
+                  "pays": "France",
+                  "annee": 1948,
+                  "duree": 95,
+                  "version": "",
+                  "format": "DCP",
+                  "restauration": true,
+                  "adaptation": "D'après la pièce _Le Comédien_ de Sacha Guitry.",
+                  "generique": [
+                    "Sacha Guitry",
+                    "Lana Marconi",
+                    "Jacques Baumer",
+                    "Pauline Carton"
+                  ],
+                  "miniTexte": "La vie et la carrière de Lucien Guitry, de l'enfance à la passion du théâtre. Sacha se glisse dans les rôles de son père pour lui rendre hommage, tout en déclarant son amour au métier de comédien."
+                }
+              ]
+            },
             {
-              "idSeance": 197014,
-              "dateHeure": "2025-11-09T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 33983,
+              "content": [
+                {
+                  "idConf": 33983,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Axelle Ropert",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Il est temps de sortir Sacha Guitry de deux cases : la « guitrophilie » stricte, et le théâtre. Pour montrer combien il est un cinéaste « plus large » que ça. Ici, à travers le portrait vertigineux d'un père comédien par son fils, c'est la question du sentiment qui peut nous montrer l'ampleur de Guitry cinéaste : combien il fut certes un homme plein d'esprit, mais aussi un artiste sentimental profond. — Axelle Ropert"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 197014,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-11-09T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 197014,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 197218,
+                  "dateHeure": "2025-11-17T20:15:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -236,8 +266,8 @@
           ],
           "seances": [
             {
-              "idSeance": 198250,
-              "dateHeure": "2025-11-03T20:45:00",
+              "idSeance": 197254,
+              "dateHeure": "2025-11-19T20:30:00",
               "idSalle": "GF"
             },
             {
@@ -285,39 +315,59 @@
           ]
         },
         {
-          "idFilm": 49093,
-          "content": [
+          "groupe": [
             {
               "idFilm": 49093,
-              "ordre": 1,
-              "titre": "Donne-moi tes yeux",
-              "realisateurs": "Sacha Guitry",
-              "pays": "France",
-              "annee": 1943,
-              "duree": 90,
-              "version": "",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Sacha Guitry",
-                "Geneviève Guitry",
-                "Aimé Clariond",
-                "Marguerite Moreno"
-              ],
-              "isFocus": true,
-              "miniTexte": "Le drame d'un sculpteur, amoureux de son modèle, qu'il éconduit lorsqu'il comprend qu'il perd la vue. Geneviève Guitry (alors mariée à Sacha) se voit offrir pour la première fois le premier rôle dans un film de son époux. Tournée en 1943, l'œuvre reproduit avec justesse la vie quotidienne à Paris sous l'Occupation, dans un témoignage précieux, qui révèle la façon dont l'auteur traverse ces années troubles. Guitry entraîne le spectateur de la lumière à l'obscurité, expression de son mal-être face à une réalité qu'il refuse de voir, qu'il s'agisse de la situation politique ou de la fin certaine de son propre couple."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 196827,
-              "dateHeure": "2025-11-02T14:30:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 49093,
+                  "ordre": 1,
+                  "titre": "Donne-moi tes yeux",
+                  "realisateurs": "Sacha Guitry",
+                  "pays": "France",
+                  "annee": 1943,
+                  "duree": 90,
+                  "version": "",
+                  "format": "DCP",
+                  "restauration": true,
+                  "generique": [
+                    "Sacha Guitry",
+                    "Geneviève Guitry",
+                    "Aimé Clariond",
+                    "Marguerite Moreno"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Le drame d'un sculpteur, amoureux de son modèle, qu'il éconduit lorsqu'il comprend qu'il perd la vue. Geneviève Guitry (alors mariée à Sacha) se voit offrir pour la première fois le premier rôle dans un film de son époux. Tournée en 1943, l'œuvre reproduit avec justesse la vie quotidienne à Paris sous l'Occupation, dans un témoignage précieux, qui révèle la façon dont l'auteur traverse ces années troubles. Guitry entraîne le spectateur de la lumière à l'obscurité, expression de son mal-être face à une réalité qu'il refuse de voir, qu'il s'agisse de la situation politique ou de la fin certaine de son propre couple."
+                }
+              ]
             },
             {
-              "idSeance": 197373,
-              "dateHeure": "2025-11-22T19:00:00",
-              "idSalle": "HL"
+              "idEvenement": 33981,
+              "content": [
+                {
+                  "idConf": 33981,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Noël Herpe",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Les années d'Occupation de la France par l'Allemagne sont pour Guitry l'heure des ténèbres : il s'en remet à l'art, à la continuité de l'art français, pour continuer d'éclairer son chemin. Dans son apolitisme, cette foi un peu naïve produit un film qui ne l'est pas du tout : _Donne-moi tes yeux_ (1943), où il se projette en sculpteur aveugle, pourtant supérieurement conscient de l'état du pays. On trouverait difficilement, dans tout le cinéma occupé, un film aussi réaliste et lucide sur les conditions de la survie. Même quand Guitry convoque les conventions du mélodrame, remises à la mode par nos malheurs d'alors, c'est comme pour déconstruire, de l'intérieur, sa propre statue. — Noël Herpe"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 196827,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-11-02T14:30:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 196827,
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 197373,
+                  "dateHeure": "2025-11-22T19:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -382,8 +432,8 @@
           ],
           "seances": [
             {
-              "idSeance": 196843,
-              "dateHeure": "2025-11-03T18:15:00",
+              "idSeance": 197374,
+              "dateHeure": "2025-11-22T15:00:00",
               "idSalle": "GF"
             }
           ]
@@ -685,7 +735,7 @@
             },
             {
               "idSeance": 198276,
-              "dateHeure": "2025-11-22T17:00:00",
+              "dateHeure": "2025-11-22T17:30:00",
               "idSalle": "HL"
             }
           ]
@@ -883,32 +933,49 @@
           ]
         },
         {
-          "idFilm": 48118,
-          "content": [
+          "groupe": [
             {
               "idFilm": 48118,
-              "ordre": 1,
-              "titre": "Trois font la paire",
-              "art": "Les",
-              "realisateurs": "Sacha Guitry, Clément Duhour",
-              "pays": "France",
-              "annee": 1957,
-              "duree": 83,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Michel Simon",
-                "Sophie Desmarets",
-                "Darry Cowl"
-              ],
-              "miniTexte": "Un assassin, deux jumeaux, trois sosies. Menée par un commissaire hirsute – que la gloire de Maigret empêche de dormir –, l'enquête sur un meurtre, commis sur le tournage d'un film, sert de prétexte à un enchaînement de méprises et de rebondissements à l'humour macabre. Dernier film de Guitry, sorti deux mois avant sa mort."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 48118,
+                  "ordre": 1,
+                  "titre": "Trois font la paire",
+                  "art": "Les",
+                  "realisateurs": "Sacha Guitry, Clément Duhour",
+                  "pays": "France",
+                  "annee": 1957,
+                  "duree": 83,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "Michel Simon",
+                    "Sophie Desmarets",
+                    "Darry Cowl"
+                  ],
+                  "miniTexte": "Un assassin, deux jumeaux, trois sosies. Menée par un commissaire hirsute – que la gloire de Maigret empêche de dormir –, l'enquête sur un meurtre, commis sur le tournage d'un film, sert de prétexte à un enchaînement de méprises et de rebondissements à l'humour macabre. Dernier film de Guitry, sorti deux mois avant sa mort."
+                }
+              ]
+            },
             {
-              "idSeance": 198271,
-              "dateHeure": "2025-11-16T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 33982,
+              "content": [
+                {
+                  "idConf": 33982,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Nicolas Pariser",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "Osons poser une question loin d'être anecdotique : un réalisateur doit-il nécessairement assister au tournage de ses propres films ? En voyant _Les trois font la paire_, il est permis d'en douter puisque, perclus de douleur, assommé par la morphine, ne pouvant plus quitter son lit, en un mot mourant, Sacha Guitry ne mit pas les pieds sur le tournage de son dernier film dont la jeunesse, la fantaisie, le génie n'ont rien à envier à ceux de ses plus grands chefs-d'œuvre. — Nicolas Pariser"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 198271,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-11-16T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -1084,81 +1151,24 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 33981,
-          "content": [
-            {
-              "idConf": 33981,
-              "titre": "Dialogue avec Noël Herpe",
-              "typeConference": "Dialogue",
-              "miniTexte": "Les années d'Occupation de la France par l'Allemagne sont pour Guitry l'heure des ténèbres : il s'en remet à l'art, à la continuité de l'art français, pour continuer d'éclairer son chemin. Dans son apolitisme, cette foi un peu naïve produit un film qui ne l'est pas du tout : _Donne-moi tes yeux_ (1943), où il se projette en sculpteur aveugle, pourtant supérieurement conscient de l'état du pays. On trouverait difficilement, dans tout le cinéma occupé, un film aussi réaliste et lucide sur les conditions de la survie. Même quand Guitry convoque les conventions du mélodrame, remises à la mode par nos malheurs d'alors, c'est comme pour déconstruire, de l'intérieur, sa propre statue. — Noël Herpe"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197940,
-              "dateHeure": "2025-11-02T17:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idConf": 33983,
-          "content": [
-            {
-              "idConf": 33983,
-              "titre": "Dialogue avec Axelle Ropert",
-              "typeConference": "Dialogue",
-              "miniTexte": "Il est temps de sortir Sacha Guitry de deux cases : la « guitrophilie » stricte, et le théâtre. Pour montrer combien il est un cinéaste « plus large » que ça. Ici, à travers le portrait vertigineux d'un père comédien par son fils, c'est la question du sentiment qui peut nous montrer l'ampleur de Guitry cinéaste : combien il fut certes un homme plein d'esprit, mais aussi un artiste sentimental profond. — Axelle Ropert"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197941,
-              "dateHeure": "2025-11-09T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idConf": 33982,
-          "content": [
-            {
-              "idConf": 33982,
-              "titre": "Dialogue avec Nicolas Pariser",
-              "typeConference": "Dialogue",
-              "miniTexte": "Osons poser une question loin d'être anecdotique : un réalisateur doit-il nécessairement assister au tournage de ses propres films ? En voyant _Les trois font la paire_, il est permis d'en douter puisque, perclus de douleur, assommé par la morphine, ne pouvant plus quitter son lit, en un mot mourant, Sacha Guitry ne mit pas les pieds sur le tournage de son dernier film dont la jeunesse, la fantaisie, le génie n'ont rien à envier à ceux de ses plus grands chefs-d'œuvre. — Nicolas Pariser"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197952,
-              "dateHeure": "2025-11-16T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogues": [
       {
+        "titreFilms": "Donne-moi tes yeux",
         "mention": "avec Noël Herpe",
-        "dateHeure": "2025-11-02T17:00:00"
+        "dateHeure": "2025-11-02T14:30:00"
       },
       {
+        "titreFilms": "Le Comédien",
         "mention": "avec Axelle Ropert",
-        "dateHeure": "2025-11-09T16:30:00"
+        "dateHeure": "2025-11-09T14:30:00"
       },
       {
+        "titreFilms": "Les Trois font la paire",
         "mention": "avec Nicolas Pariser",
-        "dateHeure": "2025-11-16T16:30:00"
+        "dateHeure": "2025-11-16T14:30:00"
       }
     ],
     "Séance présentée": [
