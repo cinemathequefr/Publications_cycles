@@ -108,12 +108,11 @@
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (43)
+## Histoire permanente du cinéma (41)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
   * Âme sœur (L')  
-  * American Gigolo  
   * Amerika, rapports de classe  
   * Amour l'après-midi (L')  
   * Au-dessous du volcan  
@@ -138,7 +137,6 @@
   * Juge et l'Assassin (Le)  
   * Liberté, la nuit  
   * Love Streams  
-  * M*A*S*H  
   * Mariage de Maria Braun (Le)  
   * Nuits de la pleine lune (Les)  
   * Ombre des châteaux (L')  
@@ -190,13 +188,13 @@
 ## Laetitia Masson (8)
 
   * À vendre  
+  * Chevrotine  
   * Coupable  
   * En avoir (ou pas)  
   * GHB  
   * Petite fille  
   * Pourquoi (pas) le Brésil  
-  * Repentie (La)  
-  * Un hiver en été
+  * Repentie (La)
 
 ## Laurent Cantet (14)
 
