@@ -4,7 +4,7 @@
 
   * Sous la terre
 
-## Aujourd'hui le cinéma (15)
+## Aujourd'hui le cinéma (16)
 
   * +10K  
   * Alcools  
@@ -20,6 +20,7 @@
   * Mort du poisson (La)  
   * Pont du vaisseau (Le)  
   * Si nous habitons un éclair  
+  * Stranger Than Paradise  
   * Un ciel si bas
 
 ## Christian Petzold (20)
@@ -477,9 +478,11 @@
   * Une carte du monde  
   * Working Girl
 
-## Séances spéciales (1)
+## Séances spéciales (3)
 
-  * Lettre à l'enfant que tu nous as donné
+  * À bout de souffle  
+  * Lettre à l'enfant que tu nous as donné  
+  * Nouvelle Vague
 
 ## Week-end Clint Eastwood (7)
 
