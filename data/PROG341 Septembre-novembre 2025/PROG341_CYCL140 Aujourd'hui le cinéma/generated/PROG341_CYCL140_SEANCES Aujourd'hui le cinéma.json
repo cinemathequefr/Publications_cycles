@@ -163,23 +163,27 @@
     ]
   },
   {
-    "idCategorie": 3924,
+    "idCategorie": 3940,
     "typeEvenement": 13,
-    "idEvenement": 34141,
-    "idSeance": 196845,
+    "idEvenement": 34187,
+    "idSeance": 201014,
     "dateHeure": "2025-11-03T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 60,
     "items": [
       {
-        "idFilm": 155386,
-        "ordre": 1
+        "idFilm": 155401,
+        "ordre": 1,
+        "idSeance": 201014,
+        "idCopie": 30393,
+        "duree": 33,
+        "version": "",
+        "format": "DCP"
       }
-    ],
-    "mention": "Séance suivie d'une discussion avec Koya Kamura"
+    ]
   },
   {
     "idCategorie": 3925,
@@ -195,46 +199,61 @@
     "items": [
       {
         "idFilm": 155389,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 197219,
+        "idCopie": 30409,
+        "duree": 20,
+        "version": "",
+        "format": "DCP"
       },
       {
         "idFilm": 155390,
-        "ordre": 2
+        "ordre": 2,
+        "idSeance": 197219,
+        "idCopie": 30410,
+        "duree": 19,
+        "version": "",
+        "format": "DCP"
       },
       {
         "idFilm": 155387,
-        "ordre": 3
+        "ordre": 3,
+        "idSeance": 197219,
+        "idCopie": 30411,
+        "duree": 20,
+        "version": "",
+        "format": "DCP"
       },
       {
         "idFilm": 155388,
-        "ordre": 4
+        "ordre": 4,
+        "idSeance": 197219,
+        "idCopie": 30412,
+        "duree": 17,
+        "version": "",
+        "format": "DCP"
       }
     ],
     "mention": "Séance suivie d'une discussion avec Robin Zimmer"
   },
   {
-    "idCategorie": 3940,
+    "idCategorie": 3924,
     "typeEvenement": 13,
-    "idEvenement": 34187,
-    "idSeance": 197404,
+    "idEvenement": 34141,
+    "idSeance": 201013,
     "dateHeure": "2025-11-24T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 60,
+    "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 155401,
-        "ordre": 1,
-        "idSeance": 197404,
-        "idCopie": 30393,
-        "duree": 33,
-        "version": "",
-        "format": "DCP"
+        "idFilm": 155386,
+        "ordre": 1
       }
     ],
-    "mention": "Séance suivie d'une discussion avec Gala HERNÁNDEZ LÓPEZ"
+    "mention": "Séance suivie d'une discussion avec Koya Kamura"
   },
   {
     "mention": "Séance présentée par Jean-Christophe Berjon"

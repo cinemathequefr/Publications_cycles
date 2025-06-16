@@ -96,7 +96,9 @@
   * Borgo  
   * Cour (La)  
   * Féminin plurielles  
+  * Gens d'à côté (Les)  
   * Graine et le Mulet (La)  
+  * Héritage  
   * Ma compagne de nuit  
   * Mektoub, My Love : Canto uno  
   * Petite Dernière (La)  
@@ -104,9 +106,7 @@
   * Ravissement (Le)  
   * Rodba (Le)  
   * Roi de l'évasion (Le)  
-  * Secrets (Les)  
   * Sex Doll  
-  * Source des femmes (La)  
   * Tu mérites un amour
 
 ## Histoire permanente du cinéma (40)

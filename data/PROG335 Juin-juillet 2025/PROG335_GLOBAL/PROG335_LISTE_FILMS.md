@@ -399,15 +399,18 @@
   * Rayon vert (Le)  
   * Sans toit ni loi
 
-## Séances spéciales (21)
+## Séances spéciales (27)
 
   * Alice Guy tourne une phonoscène  
   * Anna Ladd dans son atelier parisien  
   * Aussi loin que mon enfance  
+  * Chant magique du renard (Le)  
+  * Chiko-tan, ma promise  
   * Contre l'oubli : Pour Febe Elisabeth Velásquez, El Salvador  
   * Elles  
   * Essais d'acteurs : Ève Francis  
   * Falling Leaves  
+  * Fleurs et taupes  
   * Glu (La)  
   * Henri Langlois vu par Agnès Varda  
   * Hôtel du Parc : La Guerre civile  
@@ -420,8 +423,11 @@
   * Napoléon vu par Abel Gance (partie 2)  
   * Notre mémoire  
   * Piano irrésistible (Le)  
+  * Qui va, là-bas ?  
   * Starting Something  
-  * Une héroïne de quatre ans
+  * Une étrange potion  
+  * Une héroïne de quatre ans  
+  * Vers l'arc-en-ciel
 
 ## Wes Anderson (8)
 
