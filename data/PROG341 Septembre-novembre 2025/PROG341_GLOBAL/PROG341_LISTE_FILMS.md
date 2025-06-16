@@ -457,12 +457,21 @@
   * Tu m'as sauvé la vie  
   * Vie d'un honnête homme (La)
 
-## Shirley Clarke (6)
+## Shirley Clarke (15)
 
+  * A Moment in Love  
+  * A Scary Time  
+  * A Visual Diary  
+  * Bridges-Go-Round  
   * Bullfight  
   * Connection (The)  
-  * Four Journeys Into Mystic Time: Trans  
+  * Dance in the Sun  
+  * Four Journeys into Mystic Time – Initiation  
+  * Four Journeys into Mystic Time – Mysterium  
+  * Four Journeys into Mystic Time – One-Two-Three  
+  * Four Journeys into Mystic Time – Trans  
   * Harlem Story  
+  * In Paris Parks  
   * Ornette: Made in America  
   * Portrait of Jason
 
