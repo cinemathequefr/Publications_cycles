@@ -10,49 +10,33 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "groupe": [
+          "idFilm": 36119,
+          "content": [
             {
               "idFilm": 36119,
-              "content": [
-                {
-                  "idFilm": 36119,
-                  "ordre": 1,
-                  "titre": "Alien",
-                  "realisateurs": "Ridley Scott",
-                  "pays": "États-Unis",
-                  "annee": 1979,
-                  "duree": 117,
-                  "version": "VOSTF",
-                  "format": "35 mm",
-                  "generique": [
-                    "Sigourney Weaver",
-                    "John Hurt",
-                    "Ian Holm",
-                    "Tom Skerritt",
-                    "Veronica Cartwright"
-                  ],
-                  "miniTexte": "Naissance d'un _space opera_ fondateur, monument d'angoisse, d'une créature mythique et d'une héroïne éblouissante, incarnée par la géniale Sigourney Weaver. Scott signe un terrifiant cauchemar éveillé, qui multiplie les séquences d'anthologie dans l'antre claustrophobe du Nostromo. Un inoubliable rendez-vous avec la peur, l'un des plus grands films de science-fiction."
-                }
-              ]
-            },
-            {
-              "idEvenement": 33986,
-              "content": [
-                {
-                  "idConf": 33986,
-                  "ordre": 2,
-                  "titre": "Sigourney Weaver par Sigourney Weaver, une leçon de cinéma",
-                  "typeConference": "Dialogue"
-                }
+              "ordre": 1,
+              "titre": "Alien",
+              "realisateurs": "Ridley Scott",
+              "pays": "États-Unis",
+              "annee": 1979,
+              "duree": 117,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Sigourney Weaver",
+                "John Hurt",
+                "Ian Holm",
+                "Tom Skerritt",
+                "Veronica Cartwright"
               ],
-              "seances": [
-                {
-                  "idSeance": 196954,
-                  "typeAssoc": 118,
-                  "dateHeure": "2025-11-07T17:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "miniTexte": "Naissance d'un _space opera_ fondateur, monument d'angoisse, d'une créature mythique et d'une héroïne éblouissante, incarnée par la géniale Sigourney Weaver. Scott signe un terrifiant cauchemar éveillé, qui multiplie les séquences d'anthologie dans l'antre claustrophobe du Nostromo. Un inoubliable rendez-vous avec la peur, l'un des plus grands films de science-fiction."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 196954,
+              "dateHeure": "2025-11-07T18:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -113,7 +97,7 @@
           "seances": [
             {
               "idSeance": 198296,
-              "dateHeure": "2025-11-08T19:00:00",
+              "dateHeure": "2025-11-08T20:30:00",
               "idSalle": "JE"
             }
           ]
@@ -206,7 +190,8 @@
             {
               "idSeance": 196914,
               "dateHeure": "2025-11-06T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Sigourney Weaver"
             }
           ]
         },
@@ -268,7 +253,7 @@
           "seances": [
             {
               "idSeance": 197002,
-              "dateHeure": "2025-11-08T19:00:00",
+              "dateHeure": "2025-11-08T17:45:00",
               "idSalle": "GF"
             }
           ]
@@ -334,14 +319,43 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33986,
+          "content": [
+            {
+              "idConf": 33986,
+              "titre": "Sigourney Weaver par Sigourney Weaver, une leçon de cinéma",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197951,
+              "dateHeure": "2025-11-07T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
-        "titreFilms": "Alien",
         "mention": "Sigourney Weaver par Sigourney Weaver, une leçon de cinéma",
-        "dateHeure": "2025-11-07T17:30:00"
+        "dateHeure": "2025-11-07T20:00:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Master Gardener",
+        "mention": "par Sigourney Weaver",
+        "dateHeure": "2025-11-06T20:00:00"
       }
     ]
   }

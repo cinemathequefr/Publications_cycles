@@ -30,7 +30,7 @@
   * Ciel rouge (Le)  
   * Contrôle d'identité  
   * Cuba Libre  
-  * Dangereuses rencontres  
+  * Dangereuses Rencontres  
   * Dreileben  
   * Fantômes  
   * Ich arbeite alles ab... Ehrenwort!  
@@ -189,10 +189,10 @@
 ## Laetitia Masson (8)
 
   * À vendre  
-  * Chevrotine  
   * Coupable  
   * En avoir (ou pas)  
   * GHB  
+  * Love Me  
   * Petite fille  
   * Pourquoi (pas) le Brésil  
   * Repentie (La)
@@ -233,7 +233,7 @@
   * Œil pour œil  
   * Plein les bottes  
   * Ruée vers l'or (La)  
-  * Sherlock Jr.  
+  * Sherlock Junior  
   * Vive la liberté  
   * Vive le sport !
 
@@ -391,7 +391,7 @@
   * Procès (Le)  
   * Racines du ciel (Les)  
   * Return to Glennascaul  
-  * Rogopag  
+  * RoGoPaG  
   * Salaire du diable (Le)  
   * Shakespeare et Orson Welles  
   * Soif du mal (La)  

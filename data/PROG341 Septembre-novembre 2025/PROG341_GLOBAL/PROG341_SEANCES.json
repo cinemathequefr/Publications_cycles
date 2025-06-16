@@ -1109,7 +1109,7 @@
     "items": [
       {
         "idFilm": 155379,
-        "titre": "Dangereuses rencontres",
+        "titre": "Dangereuses Rencontres",
         "realisateurs": "Christian Petzold",
         "annee": 2001,
         "duree": 90,
@@ -7324,7 +7324,7 @@
     "items": [
       {
         "idFilm": 32739,
-        "titre": "Sherlock Jr.",
+        "titre": "Sherlock Junior",
         "realisateurs": "Buster Keaton",
         "annee": 1924,
         "duree": 50,
@@ -7660,7 +7660,7 @@
         "idConf": 34178,
         "titre": "Dialogue avec Hafsia Herzi",
         "typeConference": "Dialogue",
-        "duree": 60
+        "duree": 45
       }
     ],
     "hashEvenement": "f147094f141851c34178"
@@ -7739,8 +7739,8 @@
     "hashEvenement": "f103433"
   },
   {
-    "idSeance": 196628,
-    "idEvenement": 6680,
+    "idSeance": 201003,
+    "idEvenement": 34237,
     "dateHeure": "2025-10-25T20:15:00",
     "salle": "GF",
     "cycle": [
@@ -7751,16 +7751,16 @@
     ],
     "items": [
       {
-        "idFilm": 42442,
-        "titre": "Rogopag",
-        "realisateurs": "Pier Paolo Pasolini",
-        "annee": 1962,
+        "idFilm": 65314,
+        "titre": "RoGoPaG",
+        "realisateurs": "Roberto Rossellini, Jean-Luc Godard, Pier Paolo Pasolini, Ugo Gregoretti",
+        "annee": 1963,
         "duree": 122,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f42442"
+    "hashEvenement": "f65314"
   },
   {
     "idSeance": 198290,
@@ -9490,6 +9490,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Sigourney Weaver",
     "items": [
       {
         "idFilm": 154833,
@@ -9598,16 +9599,12 @@
   {
     "idSeance": 196954,
     "idEvenement": 30798,
-    "dateHeure": "2025-11-07T17:30:00",
+    "dateHeure": "2025-11-07T18:30:00",
     "salle": "HL",
     "cycle": [
       [
         "Sigourney Weaver",
         "Les films"
-      ],
-      [
-        "Sigourney Weaver",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -9619,15 +9616,9 @@
         "duree": 117,
         "version": "VOSTF",
         "format": "35 mm"
-      },
-      {
-        "idConf": 33986,
-        "titre": "Sigourney Weaver par Sigourney Weaver, une leçon de cinéma",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f36119c33986"
+    "hashEvenement": "f36119"
   },
   {
     "idSeance": 196958,
@@ -9724,6 +9715,27 @@
       }
     ],
     "hashEvenement": "f36675"
+  },
+  {
+    "idSeance": 197951,
+    "idEvenement": 33986,
+    "dateHeure": "2025-11-07T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sigourney Weaver",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 33986,
+        "titre": "Sigourney Weaver par Sigourney Weaver, une leçon de cinéma",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c33986"
   },
   {
     "idSeance": 198132,
@@ -9930,7 +9942,7 @@
   {
     "idSeance": 197002,
     "idEvenement": 30801,
-    "dateHeure": "2025-11-08T19:00:00",
+    "dateHeure": "2025-11-08T17:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9975,9 +9987,31 @@
     "hashEvenement": "f30555"
   },
   {
+    "idSeance": 198259,
+    "idEvenement": 34077,
+    "dateHeure": "2025-11-08T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laurent Cantet",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 118206,
+        "titre": "Foxfire, confessions d'un gang de filles",
+        "realisateurs": "Laurent Cantet",
+        "annee": 2012,
+        "duree": 143
+      }
+    ],
+    "hashEvenement": "f118206"
+  },
+  {
     "idSeance": 198296,
     "idEvenement": 30807,
-    "dateHeure": "2025-11-08T19:00:00",
+    "dateHeure": "2025-11-08T20:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -9997,28 +10031,6 @@
       }
     ],
     "hashEvenement": "f60100"
-  },
-  {
-    "idSeance": 198259,
-    "idEvenement": 34077,
-    "dateHeure": "2025-11-08T21:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Laurent Cantet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 118206,
-        "titre": "Foxfire, confessions d'un gang de filles",
-        "realisateurs": "Laurent Cantet",
-        "annee": 2012,
-        "duree": 143
-      }
-    ],
-    "hashEvenement": "f118206"
   },
   {
     "idSeance": 197014,
@@ -11232,8 +11244,8 @@
     "hashEvenement": "f49091"
   },
   {
-    "idSeance": 197288,
-    "idEvenement": 33761,
+    "idSeance": 197328,
+    "idEvenement": 33732,
     "dateHeure": "2025-11-20T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -11244,15 +11256,16 @@
     ],
     "items": [
       {
-        "idFilm": 49088,
-        "titre": "Bonne chance",
-        "realisateurs": "Sacha Guitry, Fernand Rivers",
-        "annee": 1935,
-        "duree": 78,
-        "format": "35 mm"
+        "idFilm": 49094,
+        "titre": "Faisons un rêve",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1936,
+        "duree": 80,
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f49088"
+    "hashEvenement": "f49094"
   },
   {
     "idSeance": 197716,
@@ -11289,8 +11302,8 @@
     "hashEvenement": "f43792c33970"
   },
   {
-    "idSeance": 198275,
-    "idEvenement": 33745,
+    "idSeance": 200987,
+    "idEvenement": 33757,
     "dateHeure": "2025-11-20T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -11301,39 +11314,14 @@
     ],
     "items": [
       {
-        "idFilm": 49115,
-        "titre": "Nouveau Testament",
-        "art": "Le",
+        "idFilm": 41942,
+        "titre": "Toâ",
         "realisateurs": "Sacha Guitry",
-        "annee": 1936,
-        "duree": 100
+        "annee": 1949,
+        "duree": 85
       }
     ],
-    "hashEvenement": "f49115"
-  },
-  {
-    "idSeance": 197328,
-    "idEvenement": 33732,
-    "dateHeure": "2025-11-21T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sacha Guitry",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 49094,
-        "titre": "Faisons un rêve",
-        "realisateurs": "Sacha Guitry",
-        "annee": 1936,
-        "duree": 80,
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f49094"
+    "hashEvenement": "f41942"
   },
   {
     "idSeance": 200939,
@@ -11360,26 +11348,28 @@
     "hashEvenement": "f73541"
   },
   {
-    "idSeance": 200987,
-    "idEvenement": 33757,
+    "idSeance": 201004,
+    "idEvenement": 33666,
     "dateHeure": "2025-11-21T20:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Sacha Guitry",
+        "Laetitia Masson",
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
-        "idFilm": 41942,
-        "titre": "Toâ",
-        "realisateurs": "Sacha Guitry",
-        "annee": 1949,
-        "duree": 85
+        "idFilm": 59941,
+        "titre": "En avoir (ou pas)",
+        "realisateurs": "Laetitia Masson",
+        "annee": 1995,
+        "duree": 90,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f41942"
+    "hashEvenement": "f59941"
   },
   {
     "idSeance": 200938,
@@ -11584,54 +11574,6 @@
     "hashEvenement": "f33465"
   },
   {
-    "idSeance": 200983,
-    "idEvenement": 33742,
-    "dateHeure": "2025-11-23T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sacha Guitry",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 49106,
-        "titre": "Mon père avait raison",
-        "realisateurs": "Sacha Guitry",
-        "annee": 1936,
-        "duree": 99,
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f49106"
-  },
-  {
-    "idSeance": 200984,
-    "idEvenement": 33742,
-    "dateHeure": "2025-11-23T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sacha Guitry",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 49106,
-        "titre": "Mon père avait raison",
-        "realisateurs": "Sacha Guitry",
-        "annee": 1936,
-        "duree": 99,
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f49106"
-  },
-  {
     "idSeance": 200988,
     "idEvenement": 33742,
     "dateHeure": "2025-11-23T14:30:00",
@@ -11680,6 +11622,29 @@
     "hashEvenement": "f34670"
   },
   {
+    "idSeance": 197394,
+    "idEvenement": 33667,
+    "dateHeure": "2025-11-23T17:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 29445,
+        "titre": "À vendre",
+        "realisateurs": "Laetitia Masson",
+        "annee": 1997,
+        "duree": 100,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f29445"
+  },
+  {
     "idSeance": 198273,
     "idEvenement": 33729,
     "dateHeure": "2025-11-23T18:30:00",
@@ -11700,6 +11665,29 @@
       }
     ],
     "hashEvenement": "f59434"
+  },
+  {
+    "idSeance": 197395,
+    "idEvenement": 33669,
+    "dateHeure": "2025-11-23T19:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Laetitia Masson",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 66170,
+        "titre": "Love Me",
+        "realisateurs": "Laetitia Masson",
+        "annee": 1999,
+        "duree": 105,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f66170"
   },
   {
     "idSeance": 198272,
@@ -11817,28 +11805,51 @@
     "hashEvenement": "f34588"
   },
   {
-    "idSeance": 197438,
-    "idEvenement": 33666,
-    "dateHeure": "2025-11-26T20:00:00",
+    "idSeance": 201005,
+    "idEvenement": 33761,
+    "dateHeure": "2025-11-26T18:00:00",
     "salle": "HL",
     "cycle": [
       [
-        "Laetitia Masson",
+        "Sacha Guitry",
         "Les films"
       ]
     ],
     "mention": "Ouverture de la rétrospective",
     "items": [
       {
-        "idFilm": 59941,
-        "titre": "En avoir (ou pas)",
-        "realisateurs": "Laetitia Masson",
-        "annee": 1995,
-        "duree": 90,
-        "format": "DCP"
+        "idFilm": 49088,
+        "titre": "Bonne chance",
+        "realisateurs": "Sacha Guitry, Fernand Rivers",
+        "annee": 1935,
+        "duree": 78,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f59941"
+    "hashEvenement": "f49088"
+  },
+  {
+    "idSeance": 201006,
+    "idEvenement": 33745,
+    "dateHeure": "2025-11-26T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49115,
+        "titre": "Nouveau Testament",
+        "art": "Le",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1936,
+        "duree": 100
+      }
+    ],
+    "hashEvenement": "f49115"
   },
   {
     "idSeance": 197475,
@@ -11936,33 +11947,13 @@
     "items": [
       {
         "idConf": 34072,
-        "titre": "[Conférence Orson Welles magicien]",
+        "titre": "Orson Welles magicien",
+        "sousTitre": "Conférence de Stefan Drössler",
         "typeConference": "Conférence",
         "duree": 90
       }
     ],
     "hashEvenement": "c34072"
-  },
-  {
-    "idSeance": 200982,
-    "idEvenement": 33673,
-    "dateHeure": "2025-11-28T18:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Laetitia Masson",
-        "Films pour la télévision"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155306,
-        "titre": "Chevrotine",
-        "realisateurs": "Laetitia Masson",
-        "annee": 2022
-      }
-    ],
-    "hashEvenement": "f155306"
   },
   {
     "idSeance": 198278,
@@ -11987,29 +11978,6 @@
     "hashEvenement": "f34576"
   },
   {
-    "idSeance": 197517,
-    "idEvenement": 33667,
-    "dateHeure": "2025-11-28T20:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Laetitia Masson",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 29445,
-        "titre": "À vendre",
-        "realisateurs": "Laetitia Masson",
-        "annee": 1997,
-        "duree": 100,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f29445"
-  },
-  {
     "idSeance": 198279,
     "idEvenement": 33752,
     "dateHeure": "2025-11-28T20:30:00",
@@ -12030,6 +11998,30 @@
       }
     ],
     "hashEvenement": "f49122"
+  },
+  {
+    "idSeance": 197557,
+    "idEvenement": 33742,
+    "dateHeure": "2025-11-29T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49106,
+        "titre": "Mon père avait raison",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1936,
+        "duree": 99,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f49106"
   },
   {
     "idSeance": 198216,
