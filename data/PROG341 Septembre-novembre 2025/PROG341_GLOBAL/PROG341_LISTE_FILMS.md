@@ -109,14 +109,13 @@
   * Source des femmes (La)  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (41)
+## Histoire permanente du cinéma (40)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
   * Âme sœur (L')  
   * Amerika, rapports de classe  
   * Amour l'après-midi (L')  
-  * Au-dessous du volcan  
   * Au nom du pape roi  
   * Aurélia Steiner (Melbourne)  
   * Aurélia Steiner (Vancouver)  
@@ -214,10 +213,11 @@
   * Tous à la manif  
   * Vers le sud
 
-## Le burlesque muet hollywoodien, 20 indispensables (20)
+## Le burlesque muet hollywoodien, 20 indispensables (22)
 
   * Athlète incomplet (L')  
   * Bataille du siècle (La)  
+  * Cadet d'eau douce  
   * Caméraman (Le)  
   * Cirque (Le)  
   * Croisière du Navigator (La)  
@@ -230,6 +230,7 @@
   * Lumières de la ville (Les)  
   * Ma vache et moi  
   * Mécano de la General (Le)  
+  * Monte là-dessus  
   * Œil pour œil  
   * Plein les bottes  
   * Ruée vers l'or (La)  
