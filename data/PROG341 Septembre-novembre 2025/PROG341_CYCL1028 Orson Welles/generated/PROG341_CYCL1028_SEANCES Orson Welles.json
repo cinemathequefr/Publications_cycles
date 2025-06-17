@@ -1181,11 +1181,34 @@
     ]
   },
   {
+    "idCategorie": 3871,
+    "typeEvenement": 13,
+    "idEvenement": 34247,
+    "idSeance": 201030,
+    "dateHeure": "2025-11-01T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 125209,
+        "ordre": 1,
+        "idSeance": 201030,
+        "idCopie": 7152,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
     "idCategorie": 3916,
     "typeEvenement": 13,
     "idEvenement": 34089,
     "idSeance": 198175,
-    "dateHeure": "2025-11-01T17:30:00",
+    "dateHeure": "2025-11-01T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1225,47 +1248,6 @@
         "idSeance": 198175,
         "idCopie": 7041,
         "duree": 30,
-        "version": "VOSTF",
-        "format": "Numérique"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3917,
-    "typeEvenement": 13,
-    "idEvenement": 34094,
-    "idSeance": 198176,
-    "dateHeure": "2025-11-01T19:45:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 126513,
-        "ordre": 1,
-        "idSeance": 198176,
-        "idCopie": 6984,
-        "duree": 15,
-        "version": "VOSTF",
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 125203,
-        "ordre": 2,
-        "idSeance": 198176,
-        "idCopie": 7154,
-        "duree": 62,
-        "version": "VOSTF",
-        "format": "Numérique"
-      },
-      {
-        "idFilm": 125195,
-        "ordre": 3,
-        "idSeance": 198176,
-        "idCopie": 6931,
-        "duree": 18,
         "version": "VOSTF",
         "format": "Numérique"
       }
@@ -1583,25 +1565,43 @@
     ]
   },
   {
-    "idCategorie": 3871,
+    "idCategorie": 3917,
     "typeEvenement": 13,
-    "idEvenement": 6692,
-    "idSeance": 196881,
+    "idEvenement": 34094,
+    "idSeance": 201032,
     "dateHeure": "2025-11-05T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 125173,
+        "idFilm": 126513,
         "ordre": 1,
-        "idSeance": 196881,
-        "idCopie": 7001,
-        "duree": 97,
+        "idSeance": 201032,
+        "idCopie": 6984,
+        "duree": 15,
         "version": "VOSTF",
-        "format": "16 mm"
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125203,
+        "ordre": 2,
+        "idSeance": 201032,
+        "idCopie": 7154,
+        "duree": 62,
+        "version": "VOSTF",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125195,
+        "ordre": 3,
+        "idSeance": 201032,
+        "idCopie": 6931,
+        "duree": 18,
+        "version": "VOSTF",
+        "format": "Numérique"
       }
     ]
   },
@@ -2102,6 +2102,29 @@
         "duree": 126,
         "version": "VOSTF",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3871,
+    "typeEvenement": 13,
+    "idEvenement": 6692,
+    "idSeance": 197440,
+    "dateHeure": "2025-11-26T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 125173,
+        "ordre": 1,
+        "idSeance": 197440,
+        "idCopie": 7001,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "16 mm"
       }
     ]
   },

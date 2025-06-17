@@ -215,7 +215,7 @@
   * Tous à la manif  
   * Vers le sud
 
-## Le burlesque muet hollywoodien, 20 indispensables (19)
+## Le burlesque muet hollywoodien, 20 indispensables (18)
 
   * Athlète incomplet (L')  
   * Bataille du siècle (La)  
@@ -228,7 +228,6 @@
   * Kid (Le)  
   * Lumières de la ville (Les)  
   * Ma vache et moi  
-  * Mécano de la General (Le)  
   * Monte là-dessus  
   * Œil pour œil  
   * Plein les bottes  
@@ -247,7 +246,7 @@
   * Nectar  
   * Tour de glace (La)
 
-## Ma petite Cinémathèque (25)
+## Ma petite Cinémathèque (26)
 
   * Arrietty : Le Petit Monde des chapardeurs  
   * Aventures de Robin des Bois (Les)  
@@ -266,6 +265,7 @@
   * Hansel et Gretel  
   * Marche de l'empereur (La)  
   * Mars Attacks!  
+  * Mécano de la General (Le)  
   * Mon voisin Totoro  
   * Petite Boutique des horreurs (La)  
   * Poucette  
@@ -318,7 +318,7 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (93)
+## Orson Welles (94)
 
   * Affaire Dominici par Orson Welles (L')  
   * Around the World with Orson Welles : London  
@@ -371,6 +371,7 @@
   * Orson Welles at Large : Portrait of Gina  
   * Orson Welles, autopsie d'une légende  
   * Orson Welles' Don Quixote  
+  * Orson Welles en el país de Don Quijote  
   * Orson Welles' Jeremiah  
   * Orson Welles, l'homme-orchestre  
   * Orson Welles' London  
