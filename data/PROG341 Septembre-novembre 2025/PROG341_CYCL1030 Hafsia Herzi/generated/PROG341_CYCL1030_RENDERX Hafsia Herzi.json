@@ -121,7 +121,7 @@
                     "Morjana Alaoui",
                     "Guillaume Gouix"
                   ],
-                  "miniTexte": "Les débuts de Hafsia Herzi derrière la caméra, une demande en mariage selon la tradition d'une famille maghrébine : le Rodba, perturbé par les velléités de la petite sœur de filmer le rituel à tout prix."
+                  "miniTexte": "Les débuts de Hafsia Herzi derrière la caméra, une demande en mariage selon la tradition d'une famille maghrébine : le rodba, perturbé par les velléités de la petite sœur de filmer le rituel à tout prix."
                 },
                 {
                   "idFilm": 141851,
@@ -150,7 +150,8 @@
                   "idConf": 34178,
                   "ordre": 3,
                   "titre": "Dialogue avec Hafsia Herzi",
-                  "typeConference": "Dialogue"
+                  "typeConference": "Dialogue",
+                  "miniTexte": "« J'ai dit à tous les acteurs : “On s'en fout du scénario, on s'en fout complètement, c'est 15 ans de travail mais on s'en fout, à la fin c'est l'émotion qui compte.” Si quelque chose ne marche pas, c'est qu'il y a un problème de scénario, alors je préfère le changer plutôt que de me prendre la tête à essayer et réessayer. Il y a le scénario, la vie, et ce qu'on filme. » (Hafsia Herzi)"
                 }
               ],
               "seances": [
@@ -532,6 +533,29 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34248,
+          "content": [
+            {
+              "idConf": 34248,
+              "titre": "Dialogue avec Hafsia Herzi et Saïd Ben Saïd",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201033,
+              "dateHeure": "2025-10-24T20:45:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -542,7 +566,11 @@
         "mention": " Séance présentée par Hafsia Herzi"
       }
     ],
-    "Dialogue": [
+    "Dialogues": [
+      {
+        "mention": "avec Hafsia Herzi et Saïd Ben Saïd",
+        "dateHeure": "2025-10-24T20:45:00"
+      },
       {
         "titreFilms": "Le Rodba / Tu mérites un amour",
         "mention": "avec Hafsia Herzi",
