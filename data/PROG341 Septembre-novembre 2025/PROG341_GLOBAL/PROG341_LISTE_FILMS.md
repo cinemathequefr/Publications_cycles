@@ -6,7 +6,6 @@
 
 ## Aujourd'hui le cinéma (18)
 
-  * +10K  
   * Alcools  
   * Araucaria  
   * Charbon de terre  
@@ -15,6 +14,7 @@
   * Fortune  
   * Hiver à Sokcho  
   * iNTELLIGENCE  
+  * Incroyable femme des neiges (L')  
   * Main gauche (La)  
   * Mister Bridge  
   * Moi Ivan, toi Abraham  
@@ -250,7 +250,7 @@
   * Nectar  
   * Tour de glace (La)
 
-## Ma petite Cinémathèque (23)
+## Ma petite Cinémathèque (22)
 
   * Arrietty : Le Petit Monde des chapardeurs  
   * Aventures de Robin des Bois (Les)  
@@ -267,7 +267,6 @@
   * Marche de l'empereur (La)  
   * Mars Attacks!  
   * Mon voisin Totoro  
-  * Noces funèbres (Les)  
   * Petite Boutique des horreurs (La)  
   * Poucette  
   * Retour vers le futur  
@@ -332,7 +331,7 @@
   * Citizen Kane (bande-annonce)  
   * Criminel (Le)  
   * Dame de Shanghaï (La)  
-  * De l'autre côté du vent [version Netflix]  
+  * De l'autre côté du vent  
   * Dean Martin Show, saison 4, épisode 2 (The)  
   * Décade prodigieuse (La)  
   * Deep (The)  
@@ -358,7 +357,7 @@
   * Jane Eyre  
   * King Lear in New York  
   * King Lear Tape  
-  * Labyrinthes de Mr Arkadin (Les)  
+  * Labyrinthes de M. Arkadin (Les)  
   * Lettre du Kremlin (La)  
   * lls m'aimeront quand je serai mort  
   * Macbeth  

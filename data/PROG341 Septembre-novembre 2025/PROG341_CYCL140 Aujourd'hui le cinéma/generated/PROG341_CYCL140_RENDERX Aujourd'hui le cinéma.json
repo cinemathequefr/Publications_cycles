@@ -16,8 +16,13 @@
               "pays": "France",
               "annee": 2024,
               "duree": 33,
-              "version": "",
-              "format": "DCP"
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Maxime Thébault",
+                "Rosie Sommers",
+                "Damian McCall"
+              ]
             },
             {
               "idFilm": 52854,
@@ -258,7 +263,12 @@
               "art": "La",
               "realisateurs": "Maxime Roy",
               "pays": "France",
-              "annee": 2025
+              "annee": 2025,
+              "generique": [
+                "Edouard Morgat",
+                "Lou-Chrétien Février",
+                "Alexandre Manbon"
+              ]
             }
           ],
           "seances": [
@@ -273,29 +283,35 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Fondation Gan pour le cinéma : Koya Kamura",
+      "titreSousCycle": "Avant-première Sébastien Betbeder",
       "items": [
         {
-          "idFilm": 155386,
+          "idFilm": 155416,
           "content": [
             {
-              "idFilm": 155386,
+              "idFilm": 155416,
               "ordre": 1,
-              "titre": "Hiver à Sokcho",
-              "realisateurs": "Koya Kamura",
+              "titre": "Incroyable femme des neiges",
+              "art": "L'",
+              "realisateurs": "Sébastien Betbeder",
               "pays": "France",
-              "annee": 2024,
-              "duree": 0,
+              "annee": 2025,
+              "duree": 101,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Blanche Gardin",
+                "Philippe Katerine",
+                "Bastien Bouillon"
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 201013,
-              "dateHeure": "2025-11-24T19:00:00",
+              "idSeance": 201020,
+              "dateHeure": "2025-11-03T19:30:00",
               "idSalle": "GF",
-              "mention": "Séance suivie d'une discussion avec Koya Kamura"
+              "mention": " Séance suivie d'une discussion avec Sébastien Betbeder"
             }
           ]
         }
@@ -317,7 +333,12 @@
               "annee": 2023,
               "duree": 20,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Basile Bigot",
+                "Nino Castro",
+                "Abel Esposito"
+              ]
             },
             {
               "idFilm": 155390,
@@ -339,7 +360,12 @@
               "annee": 2024,
               "duree": 20,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Thomas Ducasse",
+                "Hugo Behar-Thinières",
+                "Marie Espinosa"
+              ]
             },
             {
               "idFilm": 155388,
@@ -351,7 +377,12 @@
               "annee": 2025,
               "duree": 17,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Suzanne de Baecque",
+                "Thomas Ducasse",
+                "Laetitia Spigarelli"
+              ]
             }
           ],
           "seances": [
@@ -367,28 +398,33 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Gala Hernández López",
+      "titreSousCycle": "Fondation Gan pour le cinéma : Koya Kamura",
       "items": [
         {
-          "idFilm": 155401,
+          "idFilm": 155386,
           "content": [
             {
-              "idFilm": 155401,
+              "idFilm": 155386,
               "ordre": 1,
-              "titre": "+10K",
-              "realisateurs": "Gala Hernández López",
-              "pays": "France-Espagne",
+              "titre": "Hiver à Sokcho",
+              "realisateurs": "Koya Kamura",
+              "pays": "France",
               "annee": 2024,
-              "duree": 33,
+              "duree": 0,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Bella Kim",
+                "Roschdy Zem"
+              ]
             }
           ],
           "seances": [
             {
-              "idSeance": 201014,
-              "dateHeure": "2025-11-03T19:00:00",
-              "idSalle": "JE"
+              "idSeance": 201013,
+              "dateHeure": "2025-11-24T19:00:00",
+              "idSalle": "GF",
+              "mention": "Séance suivie d'une discussion avec Koya Kamura"
             }
           ]
         }
@@ -396,6 +432,13 @@
     }
   ],
   "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2025-11-03T19:30:00",
+        "titreFilms": "L'Incroyable femme des neiges",
+        "mention": " Séance suivie d'une discussion avec Sébastien Betbeder"
+      }
+    ],
     "Discussions": [
       {
         "titreFilms": "Un ciel si bas / Stranger Than Paradise",
@@ -406,6 +449,11 @@
         "titreFilms": "Araucaria / iNTELLIGENCE",
         "mention": "avec Jeanne Frenkel et Cosme Castro",
         "dateHeure": "2025-09-15T19:00:00"
+      },
+      {
+        "titreFilms": "L'Incroyable femme des neiges",
+        "mention": "avec Sébastien Betbeder",
+        "dateHeure": "2025-11-03T19:30:00"
       },
       {
         "titreFilms": "Alcools / Mister Bridge / Fortune / Le Pont du vaisseau",

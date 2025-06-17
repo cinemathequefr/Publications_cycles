@@ -199,6 +199,7 @@
               "idSeance": 196645,
               "dateHeure": "2025-10-26T15:00:00",
               "idSalle": "GF",
+              "mention": "Accompagnement musical par Ignacio Plaza",
               "ageMinimal": 6
             }
           ]
@@ -349,7 +350,7 @@
               "pays": "États-Unis",
               "annee": 1996,
               "duree": 106,
-              "version": "",
+              "version": "VOSTF",
               "format": "",
               "ageMinimal": 10,
               "generique": [
@@ -394,34 +395,6 @@
               "dateHeure": "2025-10-08T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 4
-            }
-          ]
-        },
-        {
-          "idFilm": 97638,
-          "content": [
-            {
-              "idFilm": 97638,
-              "ordre": 1,
-              "titre": "Noces funèbres",
-              "art": "Les",
-              "titreVo": "Corpse Bride",
-              "realisateurs": "Tim Burton, Mike Johnson",
-              "pays": "États-Unis",
-              "annee": 2004,
-              "duree": 75,
-              "version": "VF",
-              "format": "DCP",
-              "ageMinimal": 8,
-              "miniTexte": "Tandis que sa fiancée l'attend chez les vivants, Victor se retrouve marié par erreur au cadavre de la mystérieuse Emily, qui l'entraîne dans le monde des morts. Un conte gothique et joyeux sur l'amour et la mort, avec la BO de Danny Elfman et une animation en volume signée du maître Ray Harryhausen."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 196832,
-              "dateHeure": "2025-11-02T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 8
             }
           ]
         },
@@ -603,6 +576,7 @@
               "idSeance": 195897,
               "dateHeure": "2025-09-28T15:00:00",
               "idSalle": "HL",
+              "mention": " Séance suivie d'une discussion avec Antoine Lanciaux",
               "ageMinimal": 6
             }
           ]
@@ -610,5 +584,20 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2025-09-28T15:00:00",
+        "titreFilms": "Le Secret des mésanges",
+        "mention": " Séance suivie d'une discussion avec Antoine Lanciaux"
+      }
+    ],
+    "Discussion": [
+      {
+        "titreFilms": "Le Secret des mésanges",
+        "mention": "avec Antoine Lanciaux",
+        "dateHeure": "2025-09-28T15:00:00"
+      }
+    ]
+  }
 }

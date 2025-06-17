@@ -7,37 +7,58 @@
   "sousCycles": [
     {
       "tri": 2,
-      "titreSousCycle": "Les films",
+      "titreSousCycle": "Soirée d'ouverture",
       "items": [
         {
-          "idFilm": 116974,
+          "idEvenement": 34189,
           "content": [
             {
-              "idFilm": 116974,
+              "idFilm": 125201,
               "ordre": 1,
-              "titre": "Affaire Dominici par Orson Welles",
-              "art": "L'",
-              "realisateurs": "Christophe Cognet",
-              "pays": "France",
-              "annee": 2000,
-              "duree": 52,
-              "version": "",
+              "titre": "Vérités et Mensonges (bande-annonce)",
+              "realisateurs": "Orson Welles",
+              "pays": "États-Unis",
+              "annee": 1976,
+              "duree": 10,
+              "version": "VO",
+              "format": "DCP",
+              "miniTexte": "Afin de provoquer l'attention du spectateur sur le potentiel de _Vérités et mensonges_, Welles use de subterfuges comme l'utilisation de scènes et de personnages qui n'apparaissent pas dans la version définitive."
+            },
+            {
+              "idFilm": 45143,
+              "ordre": 2,
+              "titre": "Citizen Kane",
+              "realisateurs": "Orson Welles",
+              "pays": "États-Unis",
+              "annee": 1941,
+              "duree": 119,
+              "version": "VOSTF",
               "format": "DCP",
               "generique": [
-                "Jacques Chapus",
-                "Alain Pol"
+                "Orson Welles",
+                "Joseph Cotten",
+                "Agnes Moorehead",
+                "Dorothy Comingore"
               ],
-              "miniTexte": "Reconstitution de l'émission inachevée, _La Tragédie de Lurs_, que Welles réalise pour la TV en 1955 sur l'affaire Dominici, peu après le procès."
+              "isFocus": true,
+              "miniTexte": "L'ascension et la chute d'un magnat de la presse, racontées par ceux qui l'ont connu. Construit autour d'une enquête sur le mystérieux dernier mot de Kane (« Rosebud »), le premier long métrage du scénariste, producteur, réalisateur Welles (âgé de 25 ans) offre une déferlante d'innovations stylistiques, qui lui assure son statut de parangon du cinéma moderne. De la narration fragmentée au travail sur la profondeur de champ de son chef-op Gregg Toland, une forme inédite qui fait corps avec la réflexion profonde sur le pouvoir et la perte d'innocence, dans un portrait définitif de la mégalomanie américaine."
             }
           ],
           "seances": [
             {
-              "idSeance": 198183,
-              "dateHeure": "2025-11-06T17:30:00",
-              "idSalle": "JE"
+              "idSeance": 200931,
+              "dateHeure": "2025-10-08T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
         {
           "idEvenement": 7714,
           "content": [
@@ -278,7 +299,8 @@
                   "idConf": 33975,
                   "titre": "Welles : montages et remontages",
                   "sousTitre": "Conférence de François Thomas",
-                  "typeConference": "Conférence"
+                  "typeConference": "Conférence",
+                  "miniTexte": "Aucun nom de réalisateur ne figure au générique de _La Dame de Shanghaï_, signe éloquent des conflits sur ce film dont Welles n'a pu maîtriser le montage. La postproduction d'autres longs métrages a échappé au cinéaste, et nombre de ses films ont circulé dans plusieurs montages très différents les uns des autres. Dans quelles conditions dire que Welles est l'auteur de ses films ? — François Thomas"
                 }
               ],
               "seances": [
@@ -299,12 +321,12 @@
             {
               "idFilm": 155351,
               "ordre": 1,
-              "titre": "De l'autre côté du vent [version Netflix]",
+              "titre": "De l'autre côté du vent",
               "titreVo": "Other Side of the Wind",
               "artVo": "The",
               "realisateurs": "Orson Welles",
               "pays": "États-Unis",
-              "annee": 2022,
+              "annee": 2018,
               "duree": 122,
               "version": "VOSTF",
               "format": "DCP",
@@ -313,7 +335,7 @@
                 "Oja Kodar",
                 "Peter Bogdanovich"
               ],
-              "miniTexte": "Le dernier projet d'un cinéaste vieillissant, J.J. Hannaford (mélange d'Ernest Hemingway et de John Ford), qui meurt dans un accident de voiture le soir de ses 70 ans. Le montage du film sera achevé par Peter Bogdanovich pour finalement sortir dans des festivals en 2018."
+              "miniTexte": "Le dernier projet d'un cinéaste vieillissant, J. J. Hannaford (mélange d'Ernest Hemingway et de John Ford), qui meurt dans un accident de voiture le soir de ses 70 ans. Le montage du film sera achevé par Peter Bogdanovich pour finalement sortir dans des festivals en 2018."
             }
           ],
           "seances": [
@@ -849,37 +871,6 @@
           ]
         },
         {
-          "idFilm": 74559,
-          "content": [
-            {
-              "idFilm": 74559,
-              "ordre": 1,
-              "titre": "Homme qui a vu l'homme qui a vu l'ours",
-              "art": "L'",
-              "realisateurs": "André S. Labarthe",
-              "pays": "France",
-              "annee": 1987,
-              "duree": 106,
-              "version": "VO",
-              "format": "DCP",
-              "generique": [
-                "László Szabó",
-                "Ágnes Bánfalvy",
-                "Peter Bogdanovich",
-                "Henry Jaglom"
-              ],
-              "miniTexte": "Un cinéaste hongrois enquête sur les traces que Welles a laissées à Hollywood, maintenant l'ambiguïté entre le vrai et le faux. Auteurs de _Cinéastes de notre temps_, Janine Bazin et André S. Labarthe ont longuement espéré pouvoir réaliser un numéro consacré à Orson Welles. Mais le maître meurt en 1985 et Labarthe doit relever le défi : faire un film sur Welles, sans Welles."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198300,
-              "dateHeure": "2025-11-12T18:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 91038,
           "content": [
             {
@@ -939,33 +930,6 @@
           ]
         },
         {
-          "idFilm": 126650,
-          "content": [
-            {
-              "idFilm": 126650,
-              "ordre": 1,
-              "titre": "Labyrinthes de Mr Arkadin",
-              "art": "Les",
-              "titreVo": "Labyrinths of mr Arkadin",
-              "artVo": "The",
-              "realisateurs": "Stefan Drössler",
-              "pays": "Allemagne",
-              "annee": 2000,
-              "duree": 66,
-              "version": "VOSTF",
-              "format": "DCP",
-              "miniTexte": "Montage effectué par le Filmmuseum de Munich, qui confronte les diverses versions et variantes du film de Welles."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198299,
-              "dateHeure": "2025-11-05T18:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 33427,
           "content": [
             {
@@ -999,37 +963,6 @@
               "idSeance": 196643,
               "dateHeure": "2025-10-26T20:45:00",
               "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 155402,
-          "content": [
-            {
-              "idFilm": 155402,
-              "ordre": 1,
-              "titre": "lls m'aimeront quand je serai mort",
-              "titreVo": "They'll Love Me When I'm Dead",
-              "realisateurs": "Morgan Neville",
-              "pays": "États-Unis",
-              "annee": 2018,
-              "duree": 98,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Alan Cumming",
-                "Orson Welles",
-                "Peter Bogdanovich",
-                "Oja Kodar"
-              ],
-              "miniTexte": "Acteurs, équipes de tournage et autres témoins reviennent sur la création mouvementée du dernier film inachevé d'Orson Welles, _De l'autre côté du vent_. Un documentaire produit par Netflix, qui retrace les dernières années du cinéaste dans un fantastique patchwork de témoignages, d'images d'archives et d'extraits de films."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 200947,
-              "dateHeure": "2025-11-16T17:30:00",
-              "idSalle": "JE"
             }
           ]
         },
@@ -1102,111 +1035,6 @@
           ]
         },
         {
-          "idEvenement": 6687,
-          "content": [
-            {
-              "idFilm": 79280,
-              "ordre": 1,
-              "titre": "Orson Welles",
-              "realisateurs": "François Reichenbach, Frédéric Rossif",
-              "pays": "France",
-              "annee": 1968,
-              "duree": 24,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Jeanne Moreau",
-                "Orson Welles",
-                "Henry Chapier",
-                "François Reichenbach"
-              ],
-              "miniTexte": "« La vie d'Orson Welles est l'histoire d'un échec. En 25 ans, il a dirigé difficilement 11 films. De _Citizen Kane_ à _Falstaff_, tous furent des films maudits. Un échec incomparable et splendide, paré d'angoisse et de perfection. » Portrait d'un monument du cinéma américain, au génie parfois incompris."
-            },
-            {
-              "idFilm": 126170,
-              "ordre": 2,
-              "titre": "Vive le cinéma ! Jeanne Moreau",
-              "realisateurs": "Jacques Rozier",
-              "pays": "France",
-              "annee": 1972,
-              "duree": 30,
-              "version": "VOSTF",
-              "format": "Numérique",
-              "generique": [
-                "Jeanne Moreau",
-                "Catherine Breillat",
-                "Jerry Lewis",
-                "Orson Welles"
-              ],
-              "miniTexte": "Actualité cinématographique présentée par Jeanne Moreau, suivie d'un dîner au Ritz avec Orson Welles qui s'exprime en français."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198193,
-              "dateHeure": "2025-11-16T16:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 125173,
-          "content": [
-            {
-              "idFilm": 125173,
-              "ordre": 1,
-              "titre": "Orson Welles à la Cinémathèque française",
-              "realisateurs": "Pierre-André Boutang, Guy Seligmann",
-              "pays": "France",
-              "annee": 1983,
-              "duree": 97,
-              "version": "VOSTF",
-              "format": "16 mm",
-              "generique": [
-                "Orson Welles"
-              ],
-              "miniTexte": "En 1982, invité à Paris pour être décoré de la Légion d'honneur et pour présider la cérémonie des Césars, Orson Welles dialogue avec le public de la Cinémathèque, composé essentiellement de jeunes auditeurs."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 196881,
-              "dateHeure": "2025-11-05T20:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 126688,
-          "content": [
-            {
-              "idFilm": 126688,
-              "ordre": 1,
-              "titre": "Orson Welles, autopsie d'une légende",
-              "titreVo": "Welles, autopsie d'une légende",
-              "realisateurs": "Elisabeth Kapnist",
-              "pays": "France",
-              "annee": 2014,
-              "duree": 55,
-              "version": "VOSTF",
-              "format": "Numérique",
-              "generique": [
-                "Henry Jaglom",
-                "Joseph McBride",
-                "David Thomson"
-              ],
-              "miniTexte": "Qui se cache derrière la figure impressionnante d'Orson Welles ? Portrait d'un monstre sacré, dessiné à travers une carrière de cinéaste, de metteur en scène, d'acteur, qui n'a eu de cesse de redéfinir son art et de surprendre son public."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198191,
-              "dateHeure": "2025-11-13T18:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
           "idFilm": 155403,
           "content": [
             {
@@ -1232,59 +1060,6 @@
               "idSeance": 196692,
               "dateHeure": "2025-10-29T19:30:00",
               "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 77148,
-          "content": [
-            {
-              "idFilm": 77148,
-              "ordre": 1,
-              "titre": "Orson Welles, l'homme-orchestre",
-              "titreVo": "Orson Welles: The One-Man Band",
-              "realisateurs": "Vassili Silovic",
-              "pays": "Allemagne-France-Suisse",
-              "annee": 1995,
-              "duree": 90,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Oja Kodar"
-              ],
-              "miniTexte": "Telle une malle aux trésors au contenu méconnu, le documentaire dévoile des extraits de films inachevés de Welles. Des fragments passionnants, qui n'étaient jusque-là que des notes de bas de page dans les essais d'histoire du cinéma."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 196916,
-              "dateHeure": "2025-11-06T20:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 155392,
-          "content": [
-            {
-              "idFilm": 155392,
-              "ordre": 1,
-              "titre": "Orson Welles over Europe",
-              "realisateurs": "Hans Petch",
-              "pays": "Grande-Bretagne",
-              "annee": 2019,
-              "duree": 58,
-              "version": "VOSTF",
-              "format": "DCP",
-              "miniTexte": "Une vision personnelle de l'acteur britannique Simon Callow sur les années d'exil européen d'Orson Welles."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198302,
-              "dateHeure": "2025-11-08T17:30:00",
-              "idSalle": "JE"
             }
           ]
         },
@@ -2105,7 +1880,8 @@
                 "Rosanna Schiaffino",
                 "Gianrico Tedeschi",
                 "Ugo Tognazzi"
-              ]
+              ],
+              "miniTexte": "_RoGoPaG_, acronyme formé par les initiales de quatre noms du cinéma, propose quatre visions de la société de consommation moderne : _La Pureté_, _Le Nouveau Monde_, _Le Poulet de grain_ et _La Ricotta_, épisode le plus fameux dans lequel Orson Welles campe un célèbre réalisateur américain en train de tourner une version de la Passion du Christ. Signée Pasolini, une parodie qui raille avec trivialité la figure du cinéaste engagé."
             }
           ],
           "seances": [
@@ -2265,35 +2041,6 @@
                   "idSalle": "HL"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "idFilm": 155364,
-          "content": [
-            {
-              "idFilm": 155364,
-              "ordre": 1,
-              "titre": "This Is Orson Welles",
-              "realisateurs": "Clara Kuperberg, Julia Kuperberg",
-              "pays": "France",
-              "annee": 2015,
-              "duree": 55,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Peter Bogdanovich",
-                "Martin Scorsese",
-                "Joseph McBride"
-              ],
-              "miniTexte": "Portrait intime d'Orson Welles à travers une interview rare et les témoignages de proches comme Martin Scorsese, sa fille Chris Welles ou Peter Bogdanovich. Du canular radiophonique de _La Guerre des mondes_ aux années RKO, retour sur le parcours d'un génie incompris."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198192,
-              "dateHeure": "2025-11-13T20:30:00",
-              "idSalle": "JE"
             }
           ]
         },
@@ -2494,46 +2241,345 @@
           ]
         },
         {
-          "idEvenement": 34189,
+          "idFilm": 32544,
           "content": [
             {
-              "idFilm": 125201,
+              "idFilm": 32544,
               "ordre": 1,
-              "titre": "Vérités et Mensonges (bande-annonce)",
-              "realisateurs": "Orson Welles",
+              "titre": "Voyage au pays de la peur",
+              "titreVo": "Journey Into Fear",
+              "realisateurs": "Norman Foster",
               "pays": "États-Unis",
-              "annee": 1976,
-              "duree": 10,
-              "version": "VO",
-              "format": "DCP",
-              "miniTexte": "Afin de provoquer l'attention du spectateur sur le potentiel de _Vérités et mensonges_, Welles use de subterfuges comme l'utilisation de scènes et de personnages qui n'apparaissent pas dans la version définitive."
-            },
-            {
-              "idFilm": 45143,
-              "ordre": 2,
-              "titre": "Citizen Kane",
-              "realisateurs": "Orson Welles",
-              "pays": "États-Unis",
-              "annee": 1941,
-              "duree": 119,
+              "annee": 1942,
+              "duree": 83,
               "version": "VOSTF",
               "format": "DCP",
+              "adaptation": "D'après le roman _Journey Into Fear_ d'Eric Ambler.",
               "generique": [
                 "Orson Welles",
                 "Joseph Cotten",
-                "Agnes Moorehead",
-                "Dorothy Comingore"
+                "Dolores del Río",
+                "Ruth Warrick"
               ],
-              "isFocus": true,
-              "miniTexte": "L'ascension et la chute d'un magnat de la presse, racontées par ceux qui l'ont connu. Construit autour d'une enquête sur le mystérieux dernier mot de Kane (« Rosebud »), le premier long métrage du scénariste, producteur, réalisateur Welles (âgé de 25 ans) offre une déferlante d'innovations stylistiques, qui lui assure son statut de parangon du cinéma moderne. De la narration fragmentée au travail sur la profondeur de champ de son chef-op Gregg Toland, une forme inédite qui fait corps avec la réflexion profonde sur le pouvoir et la perte d'innocence, dans un portrait définitif de la mégalomanie américaine."
+              "miniTexte": "L'aventure cauchemardesque d'un ingénieur américain, traqué par des espions nazis à Istanbul. Attribué à Norman Foster, _Voyage au pays de la peur_ ressemble à une réalisation de Welles, qui participe à la production et au scénario, en plus d'interpréter le colonel Haki, chef de la police turque. Un thriller serré, à la photographie soignée et aux personnages pittoresques."
             }
           ],
           "seances": [
             {
-              "idSeance": 200931,
-              "dateHeure": "2025-10-08T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "idSeance": 196454,
+              "dateHeure": "2025-10-19T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Autour d'Orson Welles",
+      "items": [
+        {
+          "idFilm": 116974,
+          "content": [
+            {
+              "idFilm": 116974,
+              "ordre": 1,
+              "titre": "Affaire Dominici par Orson Welles",
+              "art": "L'",
+              "realisateurs": "Christophe Cognet",
+              "pays": "France",
+              "annee": 2000,
+              "duree": 52,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Jacques Chapus",
+                "Alain Pol"
+              ],
+              "miniTexte": "Reconstitution de l'émission inachevée, _La Tragédie de Lurs_, que Welles réalise pour la TV en 1955 sur l'affaire Dominici, peu après le procès."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198183,
+              "dateHeure": "2025-11-06T17:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 74559,
+          "content": [
+            {
+              "idFilm": 74559,
+              "ordre": 1,
+              "titre": "Homme qui a vu l'homme qui a vu l'ours",
+              "art": "L'",
+              "realisateurs": "André S. Labarthe",
+              "pays": "France",
+              "annee": 1987,
+              "duree": 106,
+              "version": "VO",
+              "format": "DCP",
+              "generique": [
+                "László Szabó",
+                "Ágnes Bánfalvy",
+                "Peter Bogdanovich",
+                "Henry Jaglom"
+              ],
+              "miniTexte": "Un cinéaste hongrois enquête sur les traces que Welles a laissées à Hollywood, maintenant l'ambiguïté entre le vrai et le faux. Auteurs de _Cinéastes de notre temps_, Janine Bazin et André S. Labarthe ont longuement espéré pouvoir réaliser un numéro consacré à Orson Welles. Mais le maître meurt en 1985 et Labarthe doit relever le défi : faire un film sur Welles, sans Welles."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198300,
+              "dateHeure": "2025-11-12T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 126650,
+          "content": [
+            {
+              "idFilm": 126650,
+              "ordre": 1,
+              "titre": "Labyrinthes de M. Arkadin",
+              "art": "Les",
+              "titreVo": "Labyrinths of Mr. Arkadin",
+              "artVo": "The",
+              "realisateurs": "Stefan Drössler",
+              "pays": "Allemagne",
+              "annee": 2000,
+              "duree": 66,
+              "version": "VOSTF",
+              "format": "DCP",
+              "miniTexte": "Montage effectué par le Filmmuseum de Munich, qui confronte les diverses versions et variantes du film de Welles."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198299,
+              "dateHeure": "2025-11-05T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 155402,
+          "content": [
+            {
+              "idFilm": 155402,
+              "ordre": 1,
+              "titre": "lls m'aimeront quand je serai mort",
+              "titreVo": "They'll Love Me When I'm Dead",
+              "realisateurs": "Morgan Neville",
+              "pays": "États-Unis",
+              "annee": 2018,
+              "duree": 98,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Alan Cumming",
+                "Orson Welles",
+                "Peter Bogdanovich",
+                "Oja Kodar"
+              ],
+              "miniTexte": "Acteurs, équipes de tournage et autres témoins reviennent sur la création mouvementée du dernier film inachevé d'Orson Welles, _De l'autre côté du vent_. Un documentaire produit par Netflix, qui retrace les dernières années du cinéaste dans un fantastique patchwork de témoignages, d'images d'archives et d'extraits de films."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200947,
+              "dateHeure": "2025-11-16T17:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idEvenement": 6687,
+          "content": [
+            {
+              "idFilm": 79280,
+              "ordre": 1,
+              "titre": "Orson Welles",
+              "realisateurs": "François Reichenbach, Frédéric Rossif",
+              "pays": "France",
+              "annee": 1968,
+              "duree": 24,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Jeanne Moreau",
+                "Orson Welles",
+                "Henry Chapier",
+                "François Reichenbach"
+              ],
+              "miniTexte": "« La vie d'Orson Welles est l'histoire d'un échec. En 25 ans, il a dirigé difficilement 11 films. De _Citizen Kane_ à _Falstaff_, tous furent des films maudits. Un échec incomparable et splendide, paré d'angoisse et de perfection. » Portrait d'un monument du cinéma américain, au génie parfois incompris."
+            },
+            {
+              "idFilm": 126170,
+              "ordre": 2,
+              "titre": "Vive le cinéma ! Jeanne Moreau",
+              "realisateurs": "Jacques Rozier",
+              "pays": "France",
+              "annee": 1972,
+              "duree": 30,
+              "version": "VOSTF",
+              "format": "Numérique",
+              "generique": [
+                "Jeanne Moreau",
+                "Catherine Breillat",
+                "Jerry Lewis",
+                "Orson Welles"
+              ],
+              "miniTexte": "Actualité cinématographique présentée par Jeanne Moreau, suivie d'un dîner au Ritz avec Orson Welles qui s'exprime en français."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198193,
+              "dateHeure": "2025-11-16T16:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 125173,
+          "content": [
+            {
+              "idFilm": 125173,
+              "ordre": 1,
+              "titre": "Orson Welles à la Cinémathèque française",
+              "realisateurs": "Pierre-André Boutang, Guy Seligmann",
+              "pays": "France",
+              "annee": 1983,
+              "duree": 97,
+              "version": "VOSTF",
+              "format": "16 mm",
+              "generique": [
+                "Orson Welles"
+              ],
+              "miniTexte": "En 1982, invité à Paris pour être décoré de la Légion d'honneur et pour présider la cérémonie des Césars, Orson Welles dialogue avec le public de la Cinémathèque, composé essentiellement de jeunes auditeurs."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 196881,
+              "dateHeure": "2025-11-05T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 126688,
+          "content": [
+            {
+              "idFilm": 126688,
+              "ordre": 1,
+              "titre": "Orson Welles, autopsie d'une légende",
+              "titreVo": "Welles, autopsie d'une légende",
+              "realisateurs": "Elisabeth Kapnist",
+              "pays": "France",
+              "annee": 2014,
+              "duree": 55,
+              "version": "VOSTF",
+              "format": "Numérique",
+              "generique": [
+                "Henry Jaglom",
+                "Joseph McBride",
+                "David Thomson"
+              ],
+              "miniTexte": "Qui se cache derrière la figure impressionnante d'Orson Welles ? Portrait d'un monstre sacré, dessiné à travers une carrière de cinéaste, de metteur en scène, d'acteur, qui n'a eu de cesse de redéfinir son art et de surprendre son public."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198191,
+              "dateHeure": "2025-11-13T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 77148,
+          "content": [
+            {
+              "idFilm": 77148,
+              "ordre": 1,
+              "titre": "Orson Welles, l'homme-orchestre",
+              "titreVo": "Orson Welles: The One-Man Band",
+              "realisateurs": "Vassili Silovic",
+              "pays": "Allemagne-France-Suisse",
+              "annee": 1995,
+              "duree": 90,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Oja Kodar"
+              ],
+              "miniTexte": "Telle une malle aux trésors au contenu méconnu, le documentaire dévoile des extraits de films inachevés de Welles. Des fragments passionnants, qui n'étaient jusque-là que des notes de bas de page dans les essais d'histoire du cinéma."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 196916,
+              "dateHeure": "2025-11-06T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 155392,
+          "content": [
+            {
+              "idFilm": 155392,
+              "ordre": 1,
+              "titre": "Orson Welles over Europe",
+              "realisateurs": "Hans Petch",
+              "pays": "Grande-Bretagne",
+              "annee": 2019,
+              "duree": 58,
+              "version": "VOSTF",
+              "format": "DCP",
+              "miniTexte": "Une vision personnelle de l'acteur britannique Simon Callow sur les années d'exil européen d'Orson Welles."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198302,
+              "dateHeure": "2025-11-08T17:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 155364,
+          "content": [
+            {
+              "idFilm": 155364,
+              "ordre": 1,
+              "titre": "This Is Orson Welles",
+              "realisateurs": "Clara Kuperberg, Julia Kuperberg",
+              "pays": "France",
+              "annee": 2015,
+              "duree": 55,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Peter Bogdanovich",
+                "Martin Scorsese",
+                "Joseph McBride"
+              ],
+              "miniTexte": "Portrait intime d'Orson Welles à travers une interview rare et les témoignages de proches comme Martin Scorsese, sa fille Chris Welles ou Peter Bogdanovich. Du canular radiophonique de _La Guerre des mondes_ aux années RKO, retour sur le parcours d'un génie incompris."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198192,
+              "dateHeure": "2025-11-13T20:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -2574,38 +2620,6 @@
               "idSeance": 198194,
               "dateHeure": "2025-11-16T20:00:00",
               "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 32544,
-          "content": [
-            {
-              "idFilm": 32544,
-              "ordre": 1,
-              "titre": "Voyage au pays de la peur",
-              "titreVo": "Journey Into Fear",
-              "realisateurs": "Norman Foster",
-              "pays": "États-Unis",
-              "annee": 1942,
-              "duree": 83,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Journey Into Fear_ d'Eric Ambler.",
-              "generique": [
-                "Orson Welles",
-                "Joseph Cotten",
-                "Dolores del Río",
-                "Ruth Warrick"
-              ],
-              "miniTexte": "L'aventure cauchemardesque d'un ingénieur américain, traqué par des espions nazis à Istanbul. Attribué à Norman Foster, _Voyage au pays de la peur_ ressemble à une réalisation de Welles, qui participe à la production et au scénario, en plus d'interpréter le colonel Haki, chef de la police turque. Un thriller serré, à la photographie soignée et aux personnages pittoresques."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 196454,
-              "dateHeure": "2025-10-19T17:00:00",
-              "idSalle": "HL"
             }
           ]
         },

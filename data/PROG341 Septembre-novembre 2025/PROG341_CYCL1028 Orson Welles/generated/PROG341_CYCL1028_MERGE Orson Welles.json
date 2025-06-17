@@ -1,41 +1,78 @@
 {
   "data": [
     {
-      "titreSousCycle": "Les films",
+      "titreSousCycle": "Soirée d'ouverture",
       "tri": 2,
       "items": [
         {
-          "idSeance": 198183,
-          "ordre": 1,
-          "dateHeure": "2025-11-06T17:30:00",
+          "idSeance": 200931,
+          "ordre": 2,
+          "dateHeure": "2025-10-08T20:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "HL",
+            "Henri Langlois"
           ],
-          "dureeSeance": 90,
-          "idCategorie": 3871,
-          "idEvenement": 6691,
+          "dureeSeance": 165,
+          "mention": "Ouverture de la rétrospective",
+          "idCategorie": 3941,
+          "idEvenement": 34189,
           "typeEvenement": 13,
-          "idFilm": 116974,
-          "art": "L'",
-          "titre": "Affaire Dominici par Orson Welles",
-          "realisateurs": "Christophe Cognet",
-          "annee": 2000,
-          "pays": "France",
-          "duree": 52,
-          "version": "",
+          "idFilm": 45143,
+          "titre": "Citizen Kane",
+          "realisateurs": "Orson Welles",
+          "annee": 1941,
+          "pays": "États-Unis",
+          "duree": 119,
+          "version": "VOSTF",
           "format": "DCP",
           "generique": [
-            "Jacques Chapus",
-            "Alain Pol"
+            "Orson Welles",
+            "Joseph Cotten",
+            "Agnes Moorehead",
+            "Dorothy Comingore"
           ],
           "textes": [
             {
               "typeTexte": 1000,
-              "texte": "Reconstitution de l'émission inachevée, _La Tragédie de Lurs_, que Welles réalise pour la TV en 1955 sur l'affaire Dominici, peu après le procès."
+              "texte": "L'ascension et la chute d'un magnat de la presse, racontées par ceux qui l'ont connu. Construit autour d'une enquête sur le mystérieux dernier mot de Kane (« Rosebud »), le premier long métrage du scénariste, producteur, réalisateur Welles (âgé de 25 ans) offre une déferlante d'innovations stylistiques, qui lui assure son statut de parangon du cinéma moderne. De la narration fragmentée au travail sur la profondeur de champ de son chef-op Gregg Toland, une forme inédite qui fait corps avec la réflexion profonde sur le pouvoir et la perte d'innocence, dans un portrait définitif de la mégalomanie américaine."
             }
           ]
         },
+        {
+          "idSeance": 200931,
+          "ordre": 1,
+          "dateHeure": "2025-10-08T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 165,
+          "mention": "Ouverture de la rétrospective",
+          "idCategorie": 3941,
+          "idEvenement": 34189,
+          "typeEvenement": 13,
+          "idFilm": 125201,
+          "titre": "Vérités et Mensonges (bande-annonce)",
+          "realisateurs": "Orson Welles",
+          "annee": 1976,
+          "pays": "États-Unis",
+          "duree": 10,
+          "version": "VO",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Afin de provoquer l'attention du spectateur sur le potentiel de _Vérités et mensonges_, Welles use de subterfuges comme l'utilisation de scènes et de personnages qui n'apparaissent pas dans la version définitive."
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Les films",
+      "tri": 2,
+      "items": [
         {
           "idSeance": 200935,
           "ordre": 3,
@@ -277,40 +314,6 @@
           ]
         },
         {
-          "idSeance": 200931,
-          "ordre": 2,
-          "dateHeure": "2025-10-08T20:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 165,
-          "mention": "Ouverture de la rétrospective",
-          "idCategorie": 3941,
-          "idEvenement": 34189,
-          "typeEvenement": 13,
-          "idFilm": 45143,
-          "titre": "Citizen Kane",
-          "realisateurs": "Orson Welles",
-          "annee": 1941,
-          "pays": "États-Unis",
-          "duree": 119,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Orson Welles",
-            "Joseph Cotten",
-            "Agnes Moorehead",
-            "Dorothy Comingore"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "L'ascension et la chute d'un magnat de la presse, racontées par ceux qui l'ont connu. Construit autour d'une enquête sur le mystérieux dernier mot de Kane (« Rosebud »), le premier long métrage du scénariste, producteur, réalisateur Welles (âgé de 25 ans) offre une déferlante d'innovations stylistiques, qui lui assure son statut de parangon du cinéma moderne. De la narration fragmentée au travail sur la profondeur de champ de son chef-op Gregg Toland, une forme inédite qui fait corps avec la réflexion profonde sur le pouvoir et la perte d'innocence, dans un portrait définitif de la mégalomanie américaine."
-            }
-          ]
-        },
-        {
           "idSeance": 200945,
           "ordre": 2,
           "dateHeure": "2025-10-15T18:30:00",
@@ -491,11 +494,11 @@
           "idEvenement": 34024,
           "typeEvenement": 13,
           "idFilm": 155351,
-          "titre": "De l'autre côté du vent [version Netflix]",
+          "titre": "De l'autre côté du vent",
           "artVo": "The",
           "titreVo": "Other Side of the Wind",
           "realisateurs": "Orson Welles",
-          "annee": 2022,
+          "annee": 2018,
           "pays": "États-Unis",
           "duree": 122,
           "version": "VOSTF",
@@ -508,7 +511,7 @@
           "textes": [
             {
               "typeTexte": 1000,
-              "texte": "Le dernier projet d'un cinéaste vieillissant, J.J. Hannaford (mélange d'Ernest Hemingway et de John Ford), qui meurt dans un accident de voiture le soir de ses 70 ans. Le montage du film sera achevé par Peter Bogdanovich pour finalement sortir dans des festivals en 2018."
+              "texte": "Le dernier projet d'un cinéaste vieillissant, J. J. Hannaford (mélange d'Ernest Hemingway et de John Ford), qui meurt dans un accident de voiture le soir de ses 70 ans. Le montage du film sera achevé par Peter Bogdanovich pour finalement sortir dans des festivals en 2018."
             }
           ]
         },
@@ -1204,44 +1207,6 @@
           ]
         },
         {
-          "idSeance": 198300,
-          "ordre": 1,
-          "dateHeure": "2025-11-12T18:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3871,
-          "idEvenement": 6689,
-          "typeEvenement": 13,
-          "idFilm": 74559,
-          "art": "L'",
-          "titre": "Homme qui a vu l'homme qui a vu l'ours",
-          "realisateurs": "André S. Labarthe",
-          "annee": 1987,
-          "pays": "France",
-          "duree": 106,
-          "version": "VO",
-          "format": "DCP",
-          "generique": [
-            "László Szabó",
-            "Ágnes Bánfalvy",
-            "Peter Bogdanovich",
-            "Henry Jaglom"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Un cinéaste hongrois enquête sur les traces que Welles a laissées à Hollywood, maintenant l'ambiguïté entre le vrai et le faux. Auteurs de _Cinéastes de notre temps_, Janine Bazin et André S. Labarthe ont longuement espéré pouvoir réaliser un numéro consacré à Orson Welles. Mais le maître meurt en 1985 et Labarthe doit relever le défi : faire un film sur Welles, sans Welles."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Restauration par la Cinémathèque française, en collaboration avec Documentaire sur grand écran et Danielle Labarthe. Travaux de restauration image et son menés au laboratoire Lobster Films à partir du négatif original 16 mm et au Studio L. E. Diapason à partir de la bande magnétique 16 mm. Étalonnage réalisé par François Ede, avec la collaboration du chef opérateur du film, Jacques Audrain."
-            }
-          ]
-        },
-        {
           "idSeance": 200945,
           "ordre": 7,
           "dateHeure": "2025-10-15T18:30:00",
@@ -1425,36 +1390,6 @@
             {
               "typeTexte": 1000,
               "texte": "Orson Welles joue _Le Roi Lear_ pour la télévision américaine."
-            }
-          ]
-        },
-        {
-          "idSeance": 198299,
-          "ordre": 1,
-          "dateHeure": "2025-11-05T18:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 105,
-          "idCategorie": 3871,
-          "idEvenement": 7774,
-          "typeEvenement": 13,
-          "idFilm": 126650,
-          "art": "Les",
-          "titre": "Labyrinthes de Mr Arkadin",
-          "artVo": "The",
-          "titreVo": "Labyrinths of mr Arkadin",
-          "realisateurs": "Stefan Drössler",
-          "annee": 2000,
-          "pays": "Allemagne",
-          "duree": 66,
-          "version": "VOSTF",
-          "format": "DCP",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Montage effectué par le Filmmuseum de Munich, qui confronte les diverses versions et variantes du film de Welles."
             }
           ]
         },
@@ -1744,39 +1679,6 @@
           "textes": []
         },
         {
-          "idSeance": 198193,
-          "ordre": 1,
-          "dateHeure": "2025-11-16T16:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 90,
-          "idCategorie": 3871,
-          "idEvenement": 6687,
-          "typeEvenement": 13,
-          "idFilm": 79280,
-          "titre": "Orson Welles",
-          "realisateurs": "François Reichenbach, Frédéric Rossif",
-          "annee": 1968,
-          "pays": "France",
-          "duree": 24,
-          "version": "",
-          "format": "35 mm",
-          "generique": [
-            "Jeanne Moreau",
-            "Orson Welles",
-            "Henry Chapier",
-            "François Reichenbach"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "« La vie d'Orson Welles est l'histoire d'un échec. En 25 ans, il a dirigé difficilement 11 films. De _Citizen Kane_ à _Falstaff_, tous furent des films maudits. Un échec incomparable et splendide, paré d'angoisse et de perfection. » Portrait d'un monument du cinéma américain, au génie parfois incompris."
-            }
-          ]
-        },
-        {
           "idSeance": 197375,
           "ordre": 1,
           "dateHeure": "2025-11-22T18:00:00",
@@ -1896,63 +1798,6 @@
             {
               "typeTexte": 1000,
               "texte": "En 1960, Welles organise au Gaiety Theatre de Dublin une soirée au cours de laquelle il lit sa version de _Moby Dick_ et répond aux questions du public."
-            }
-          ]
-        },
-        {
-          "idSeance": 198302,
-          "ordre": 1,
-          "dateHeure": "2025-11-08T17:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 90,
-          "idCategorie": 3871,
-          "idEvenement": 34150,
-          "typeEvenement": 13,
-          "idFilm": 155392,
-          "titre": "Orson Welles over Europe",
-          "realisateurs": "Hans Petch",
-          "annee": 2019,
-          "pays": "Grande-Bretagne",
-          "duree": 58,
-          "version": "VOSTF",
-          "format": "DCP",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Une vision personnelle de l'acteur britannique Simon Callow sur les années d'exil européen d'Orson Welles."
-            }
-          ]
-        },
-        {
-          "idSeance": 196881,
-          "ordre": 1,
-          "dateHeure": "2025-11-05T20:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3871,
-          "idEvenement": 6692,
-          "typeEvenement": 13,
-          "idFilm": 125173,
-          "titre": "Orson Welles à la Cinémathèque française",
-          "realisateurs": "Pierre-André Boutang, Guy Seligmann",
-          "annee": 1983,
-          "pays": "France",
-          "duree": 97,
-          "version": "VOSTF",
-          "format": "16 mm",
-          "generique": [
-            "Orson Welles"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "En 1982, invité à Paris pour être décoré de la Légion d'honneur et pour présider la cérémonie des Césars, Orson Welles dialogue avec le public de la Cinémathèque, composé essentiellement de jeunes auditeurs."
             }
           ]
         },
@@ -2380,71 +2225,6 @@
           ]
         },
         {
-          "idSeance": 198191,
-          "ordre": 1,
-          "dateHeure": "2025-11-13T18:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 90,
-          "idCategorie": 3871,
-          "idEvenement": 7802,
-          "typeEvenement": 13,
-          "idFilm": 126688,
-          "titre": "Orson Welles, autopsie d'une légende",
-          "titreVo": "Welles, autopsie d'une légende",
-          "realisateurs": "Elisabeth Kapnist",
-          "annee": 2014,
-          "pays": "France",
-          "duree": 55,
-          "version": "VOSTF",
-          "format": "Numérique",
-          "generique": [
-            "Henry Jaglom",
-            "Joseph McBride",
-            "David Thomson"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Qui se cache derrière la figure impressionnante d'Orson Welles ? Portrait d'un monstre sacré, dessiné à travers une carrière de cinéaste, de metteur en scène, d'acteur, qui n'a eu de cesse de redéfinir son art et de surprendre son public."
-            }
-          ]
-        },
-        {
-          "idSeance": 196916,
-          "ordre": 1,
-          "dateHeure": "2025-11-06T20:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 3871,
-          "idEvenement": 7428,
-          "typeEvenement": 13,
-          "idFilm": 77148,
-          "titre": "Orson Welles, l'homme-orchestre",
-          "titreVo": "Orson Welles: The One-Man Band",
-          "realisateurs": "Vassili Silovic",
-          "annee": 1995,
-          "pays": "Allemagne-France-Suisse",
-          "duree": 90,
-          "version": "VOSTF",
-          "format": "DCP",
-          "restauration": true,
-          "generique": [
-            "Oja Kodar"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Telle une malle aux trésors au contenu méconnu, le documentaire dévoile des extraits de films inachevés de Welles. Des fragments passionnants, qui n'étaient jusque-là que des notes de bas de page dans les essais d'histoire du cinéma."
-            }
-          ]
-        },
-        {
           "idSeance": 198307,
           "ordre": 1,
           "dateHeure": "2025-10-18T14:30:00",
@@ -2679,7 +2459,12 @@
             "Gianrico Tedeschi",
             "Ugo Tognazzi"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "_RoGoPaG_, acronyme formé par les initiales de quatre noms du cinéma, propose quatre visions de la société de consommation moderne : _La Pureté_, _Le Nouveau Monde_, _Le Poulet de grain_ et _La Ricotta_, épisode le plus fameux dans lequel Orson Welles campe un célèbre réalisateur américain en train de tourner une version de la Passion du Christ. Signée Pasolini, une parodie qui raille avec trivialité la figure du cinéaste engagé."
+            }
+          ]
         },
         {
           "idSeance": 196656,
@@ -2713,36 +2498,6 @@
             {
               "typeTexte": 1000,
               "texte": "Une petite ville du Texas vit sous la coupe d'un riche propriétaire omnipotent. Lorsqu'un travailleur mexicain est tué, le shérif tente de prouver la culpabilité du despote et de rendre la justice. Aux confins du western, une série B au ton inusité, sur la terreur organisée et la lâcheté collective."
-            }
-          ]
-        },
-        {
-          "idSeance": 198194,
-          "ordre": 2,
-          "dateHeure": "2025-11-16T20:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 105,
-          "idCategorie": 3871,
-          "idEvenement": 7807,
-          "typeEvenement": 13,
-          "idFilm": 126178,
-          "titre": "Shakespeare et Orson Welles",
-          "realisateurs": "Richard Marienstras, Isidro Romero",
-          "annee": 1973,
-          "pays": "France",
-          "duree": 53,
-          "version": "VOSTF",
-          "format": "Numérique",
-          "generique": [
-            "Orson Welles"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Un entretien d'Orson Welles avec Richard Marienstras, sur William Shakespeare et ses adaptations théâtrales comme cinématographiques."
             }
           ]
         },
@@ -2882,38 +2637,6 @@
             {
               "typeTexte": 1000,
               "texte": "À l'orée du XX<sup>e</sup> siècle, le déclin inexorable d'une puissante famille du Midwest, face à un monde en pleine mutation. Objet d'une des plus grandes mutilations de l'histoire du cinéma (43 minutes coupées au montage par la RKO dans le dos du cinéaste), l'adaptation du roman de Booth Tarkington (Prix Pulitzer 1919) demeure une magistrale leçon de mise en scène, une fresque éclatante sur l'arrogance d'une élite en voie de déliquescence."
-            }
-          ]
-        },
-        {
-          "idSeance": 198192,
-          "ordre": 1,
-          "dateHeure": "2025-11-13T20:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 90,
-          "idCategorie": 3871,
-          "idEvenement": 34073,
-          "typeEvenement": 13,
-          "idFilm": 155364,
-          "titre": "This Is Orson Welles",
-          "realisateurs": "Clara Kuperberg, Julia Kuperberg",
-          "annee": 2015,
-          "pays": "France",
-          "duree": 55,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Peter Bogdanovich",
-            "Martin Scorsese",
-            "Joseph McBride"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Portrait intime d'Orson Welles à travers une interview rare et les témoignages de proches comme Martin Scorsese, sa fille Chris Welles ou Peter Bogdanovich. Du canular radiophonique de _La Guerre des mondes_ aux années RKO, retour sur le parcours d'un génie incompris."
             }
           ]
         },
@@ -3186,67 +2909,6 @@
           "textes": []
         },
         {
-          "idSeance": 198194,
-          "ordre": 1,
-          "dateHeure": "2025-11-16T20:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 105,
-          "idCategorie": 3871,
-          "idEvenement": 7807,
-          "typeEvenement": 13,
-          "idFilm": 126693,
-          "art": "Las",
-          "titre": "Versiones de Campanadas a medianoche",
-          "realisateurs": "Luciano Berriatúa",
-          "annee": 2012,
-          "pays": "Espagne",
-          "duree": 18,
-          "version": "VOSTF",
-          "format": "DCP",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Les difficultés de production de _Falstaff_ donnèrent lieu à différentes versions du film, distribuées à travers le monde."
-            }
-          ]
-        },
-        {
-          "idSeance": 198193,
-          "ordre": 2,
-          "dateHeure": "2025-11-16T16:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 90,
-          "idCategorie": 3871,
-          "idEvenement": 6687,
-          "typeEvenement": 13,
-          "idFilm": 126170,
-          "titre": "Vive le cinéma ! Jeanne Moreau",
-          "realisateurs": "Jacques Rozier",
-          "annee": 1972,
-          "pays": "France",
-          "duree": 30,
-          "version": "VOSTF",
-          "format": "Numérique",
-          "generique": [
-            "Jeanne Moreau",
-            "Catherine Breillat",
-            "Jerry Lewis",
-            "Orson Welles"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Actualité cinématographique présentée par Jeanne Moreau, suivie d'un dîner au Ritz avec Orson Welles qui s'exprime en français."
-            }
-          ]
-        },
-        {
           "idSeance": 196454,
           "ordre": 1,
           "dateHeure": "2025-10-19T17:00:00",
@@ -3344,67 +3006,6 @@
           ]
         },
         {
-          "idSeance": 200931,
-          "ordre": 1,
-          "dateHeure": "2025-10-08T20:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 165,
-          "mention": "Ouverture de la rétrospective",
-          "idCategorie": 3941,
-          "idEvenement": 34189,
-          "typeEvenement": 13,
-          "idFilm": 125201,
-          "titre": "Vérités et Mensonges (bande-annonce)",
-          "realisateurs": "Orson Welles",
-          "annee": 1976,
-          "pays": "États-Unis",
-          "duree": 10,
-          "version": "VO",
-          "format": "DCP",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Afin de provoquer l'attention du spectateur sur le potentiel de _Vérités et mensonges_, Welles use de subterfuges comme l'utilisation de scènes et de personnages qui n'apparaissent pas dans la version définitive."
-            }
-          ]
-        },
-        {
-          "idSeance": 198190,
-          "ordre": 1,
-          "dateHeure": "2025-11-12T20:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 75,
-          "idCategorie": 3871,
-          "idEvenement": 7424,
-          "typeEvenement": 13,
-          "idFilm": 116476,
-          "titre": "Welles Angels",
-          "realisateurs": "Jean-Jacques Bernard",
-          "annee": 2007,
-          "pays": "France",
-          "duree": 50,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Dominique Antoine",
-            "Gary Graver",
-            "Willy Kurant",
-            "Edmond Richard"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Entretiens avec les collaborateurs de Welles, lors de ses années en Europe où il espérait trouver de meilleures conditions de travail qu'à Hollywood."
-            }
-          ]
-        },
-        {
           "idSeance": 200945,
           "ordre": 14,
           "dateHeure": "2025-10-15T18:30:00",
@@ -3425,40 +3026,6 @@
           "version": "VO",
           "format": "Numérique",
           "textes": []
-        },
-        {
-          "idSeance": 200947,
-          "ordre": 1,
-          "dateHeure": "2025-11-16T17:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3871,
-          "idEvenement": 34190,
-          "typeEvenement": 13,
-          "idFilm": 155402,
-          "titre": "lls m'aimeront quand je serai mort",
-          "titreVo": "They'll Love Me When I'm Dead",
-          "realisateurs": "Morgan Neville",
-          "annee": 2018,
-          "pays": "États-Unis",
-          "duree": 98,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Alan Cumming",
-            "Orson Welles",
-            "Peter Bogdanovich",
-            "Oja Kodar"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Acteurs, équipes de tournage et autres témoins reviennent sur la création mouvementée du dernier film inachevé d'Orson Welles, _De l'autre côté du vent_. Un documentaire produit par Netflix, qui retrace les dernières années du cinéaste dans un fantastique patchwork de témoignages, d'images d'archives et d'extraits de films."
-            }
-          ]
         },
         {
           "idSeance": 198304,
@@ -3527,6 +3094,458 @@
             {
               "typeTexte": 1000,
               "texte": "Dans les contrées sauvages de l'Afrique en 1900, des aventuriers partent à la recherche du diamant le plus précieux du monde. Une comédie d'aventures basée sur un roman de Jules Verne, avec le couple George Segal-Ursula Andress, éblouissant, et Orson Welles en ancien chef de la sécurité alcoolique."
+            }
+          ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Autour d'Orson Welles",
+      "tri": 2,
+      "items": [
+        {
+          "idSeance": 198183,
+          "ordre": 1,
+          "dateHeure": "2025-11-06T17:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3871,
+          "idEvenement": 6691,
+          "typeEvenement": 13,
+          "idFilm": 116974,
+          "art": "L'",
+          "titre": "Affaire Dominici par Orson Welles",
+          "realisateurs": "Christophe Cognet",
+          "annee": 2000,
+          "pays": "France",
+          "duree": 52,
+          "version": "",
+          "format": "DCP",
+          "generique": [
+            "Jacques Chapus",
+            "Alain Pol"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Reconstitution de l'émission inachevée, _La Tragédie de Lurs_, que Welles réalise pour la TV en 1955 sur l'affaire Dominici, peu après le procès."
+            }
+          ]
+        },
+        {
+          "idSeance": 198300,
+          "ordre": 1,
+          "dateHeure": "2025-11-12T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3871,
+          "idEvenement": 6689,
+          "typeEvenement": 13,
+          "idFilm": 74559,
+          "art": "L'",
+          "titre": "Homme qui a vu l'homme qui a vu l'ours",
+          "realisateurs": "André S. Labarthe",
+          "annee": 1987,
+          "pays": "France",
+          "duree": 106,
+          "version": "VO",
+          "format": "DCP",
+          "generique": [
+            "László Szabó",
+            "Ágnes Bánfalvy",
+            "Peter Bogdanovich",
+            "Henry Jaglom"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Un cinéaste hongrois enquête sur les traces que Welles a laissées à Hollywood, maintenant l'ambiguïté entre le vrai et le faux. Auteurs de _Cinéastes de notre temps_, Janine Bazin et André S. Labarthe ont longuement espéré pouvoir réaliser un numéro consacré à Orson Welles. Mais le maître meurt en 1985 et Labarthe doit relever le défi : faire un film sur Welles, sans Welles."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration par la Cinémathèque française, en collaboration avec Documentaire sur grand écran et Danielle Labarthe. Travaux de restauration image et son menés au laboratoire Lobster Films à partir du négatif original 16 mm et au Studio L. E. Diapason à partir de la bande magnétique 16 mm. Étalonnage réalisé par François Ede, avec la collaboration du chef opérateur du film, Jacques Audrain."
+            }
+          ]
+        },
+        {
+          "idSeance": 198299,
+          "ordre": 1,
+          "dateHeure": "2025-11-05T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 3871,
+          "idEvenement": 7774,
+          "typeEvenement": 13,
+          "idFilm": 126650,
+          "art": "Les",
+          "titre": "Labyrinthes de M. Arkadin",
+          "artVo": "The",
+          "titreVo": "Labyrinths of Mr. Arkadin",
+          "realisateurs": "Stefan Drössler",
+          "annee": 2000,
+          "pays": "Allemagne",
+          "duree": 66,
+          "version": "VOSTF",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Montage effectué par le Filmmuseum de Munich, qui confronte les diverses versions et variantes du film de Welles."
+            }
+          ]
+        },
+        {
+          "idSeance": 198193,
+          "ordre": 1,
+          "dateHeure": "2025-11-16T16:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3871,
+          "idEvenement": 6687,
+          "typeEvenement": 13,
+          "idFilm": 79280,
+          "titre": "Orson Welles",
+          "realisateurs": "François Reichenbach, Frédéric Rossif",
+          "annee": 1968,
+          "pays": "France",
+          "duree": 24,
+          "version": "",
+          "format": "35 mm",
+          "generique": [
+            "Jeanne Moreau",
+            "Orson Welles",
+            "Henry Chapier",
+            "François Reichenbach"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "« La vie d'Orson Welles est l'histoire d'un échec. En 25 ans, il a dirigé difficilement 11 films. De _Citizen Kane_ à _Falstaff_, tous furent des films maudits. Un échec incomparable et splendide, paré d'angoisse et de perfection. » Portrait d'un monument du cinéma américain, au génie parfois incompris."
+            }
+          ]
+        },
+        {
+          "idSeance": 198302,
+          "ordre": 1,
+          "dateHeure": "2025-11-08T17:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3871,
+          "idEvenement": 34150,
+          "typeEvenement": 13,
+          "idFilm": 155392,
+          "titre": "Orson Welles over Europe",
+          "realisateurs": "Hans Petch",
+          "annee": 2019,
+          "pays": "Grande-Bretagne",
+          "duree": 58,
+          "version": "VOSTF",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Une vision personnelle de l'acteur britannique Simon Callow sur les années d'exil européen d'Orson Welles."
+            }
+          ]
+        },
+        {
+          "idSeance": 196881,
+          "ordre": 1,
+          "dateHeure": "2025-11-05T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3871,
+          "idEvenement": 6692,
+          "typeEvenement": 13,
+          "idFilm": 125173,
+          "titre": "Orson Welles à la Cinémathèque française",
+          "realisateurs": "Pierre-André Boutang, Guy Seligmann",
+          "annee": 1983,
+          "pays": "France",
+          "duree": 97,
+          "version": "VOSTF",
+          "format": "16 mm",
+          "generique": [
+            "Orson Welles"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "En 1982, invité à Paris pour être décoré de la Légion d'honneur et pour présider la cérémonie des Césars, Orson Welles dialogue avec le public de la Cinémathèque, composé essentiellement de jeunes auditeurs."
+            }
+          ]
+        },
+        {
+          "idSeance": 198191,
+          "ordre": 1,
+          "dateHeure": "2025-11-13T18:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3871,
+          "idEvenement": 7802,
+          "typeEvenement": 13,
+          "idFilm": 126688,
+          "titre": "Orson Welles, autopsie d'une légende",
+          "titreVo": "Welles, autopsie d'une légende",
+          "realisateurs": "Elisabeth Kapnist",
+          "annee": 2014,
+          "pays": "France",
+          "duree": 55,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "generique": [
+            "Henry Jaglom",
+            "Joseph McBride",
+            "David Thomson"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Qui se cache derrière la figure impressionnante d'Orson Welles ? Portrait d'un monstre sacré, dessiné à travers une carrière de cinéaste, de metteur en scène, d'acteur, qui n'a eu de cesse de redéfinir son art et de surprendre son public."
+            }
+          ]
+        },
+        {
+          "idSeance": 196916,
+          "ordre": 1,
+          "dateHeure": "2025-11-06T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3871,
+          "idEvenement": 7428,
+          "typeEvenement": 13,
+          "idFilm": 77148,
+          "titre": "Orson Welles, l'homme-orchestre",
+          "titreVo": "Orson Welles: The One-Man Band",
+          "realisateurs": "Vassili Silovic",
+          "annee": 1995,
+          "pays": "Allemagne-France-Suisse",
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "generique": [
+            "Oja Kodar"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Telle une malle aux trésors au contenu méconnu, le documentaire dévoile des extraits de films inachevés de Welles. Des fragments passionnants, qui n'étaient jusque-là que des notes de bas de page dans les essais d'histoire du cinéma."
+            }
+          ]
+        },
+        {
+          "idSeance": 198194,
+          "ordre": 2,
+          "dateHeure": "2025-11-16T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 3871,
+          "idEvenement": 7807,
+          "typeEvenement": 13,
+          "idFilm": 126178,
+          "titre": "Shakespeare et Orson Welles",
+          "realisateurs": "Richard Marienstras, Isidro Romero",
+          "annee": 1973,
+          "pays": "France",
+          "duree": 53,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "generique": [
+            "Orson Welles"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Un entretien d'Orson Welles avec Richard Marienstras, sur William Shakespeare et ses adaptations théâtrales comme cinématographiques."
+            }
+          ]
+        },
+        {
+          "idSeance": 198192,
+          "ordre": 1,
+          "dateHeure": "2025-11-13T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3871,
+          "idEvenement": 34073,
+          "typeEvenement": 13,
+          "idFilm": 155364,
+          "titre": "This Is Orson Welles",
+          "realisateurs": "Clara Kuperberg, Julia Kuperberg",
+          "annee": 2015,
+          "pays": "France",
+          "duree": 55,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Peter Bogdanovich",
+            "Martin Scorsese",
+            "Joseph McBride"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Portrait intime d'Orson Welles à travers une interview rare et les témoignages de proches comme Martin Scorsese, sa fille Chris Welles ou Peter Bogdanovich. Du canular radiophonique de _La Guerre des mondes_ aux années RKO, retour sur le parcours d'un génie incompris."
+            }
+          ]
+        },
+        {
+          "idSeance": 198194,
+          "ordre": 1,
+          "dateHeure": "2025-11-16T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 3871,
+          "idEvenement": 7807,
+          "typeEvenement": 13,
+          "idFilm": 126693,
+          "art": "Las",
+          "titre": "Versiones de Campanadas a medianoche",
+          "realisateurs": "Luciano Berriatúa",
+          "annee": 2012,
+          "pays": "Espagne",
+          "duree": 18,
+          "version": "VOSTF",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Les difficultés de production de _Falstaff_ donnèrent lieu à différentes versions du film, distribuées à travers le monde."
+            }
+          ]
+        },
+        {
+          "idSeance": 198193,
+          "ordre": 2,
+          "dateHeure": "2025-11-16T16:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 3871,
+          "idEvenement": 6687,
+          "typeEvenement": 13,
+          "idFilm": 126170,
+          "titre": "Vive le cinéma ! Jeanne Moreau",
+          "realisateurs": "Jacques Rozier",
+          "annee": 1972,
+          "pays": "France",
+          "duree": 30,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "generique": [
+            "Jeanne Moreau",
+            "Catherine Breillat",
+            "Jerry Lewis",
+            "Orson Welles"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Actualité cinématographique présentée par Jeanne Moreau, suivie d'un dîner au Ritz avec Orson Welles qui s'exprime en français."
+            }
+          ]
+        },
+        {
+          "idSeance": 198190,
+          "ordre": 1,
+          "dateHeure": "2025-11-12T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 75,
+          "idCategorie": 3871,
+          "idEvenement": 7424,
+          "typeEvenement": 13,
+          "idFilm": 116476,
+          "titre": "Welles Angels",
+          "realisateurs": "Jean-Jacques Bernard",
+          "annee": 2007,
+          "pays": "France",
+          "duree": 50,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Dominique Antoine",
+            "Gary Graver",
+            "Willy Kurant",
+            "Edmond Richard"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Entretiens avec les collaborateurs de Welles, lors de ses années en Europe où il espérait trouver de meilleures conditions de travail qu'à Hollywood."
+            }
+          ]
+        },
+        {
+          "idSeance": 200947,
+          "ordre": 1,
+          "dateHeure": "2025-11-16T17:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 3871,
+          "idEvenement": 34190,
+          "typeEvenement": 13,
+          "idFilm": 155402,
+          "titre": "lls m'aimeront quand je serai mort",
+          "titreVo": "They'll Love Me When I'm Dead",
+          "realisateurs": "Morgan Neville",
+          "annee": 2018,
+          "pays": "États-Unis",
+          "duree": 98,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Alan Cumming",
+            "Orson Welles",
+            "Peter Bogdanovich",
+            "Oja Kodar"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Acteurs, équipes de tournage et autres témoins reviennent sur la création mouvementée du dernier film inachevé d'Orson Welles, _De l'autre côté du vent_. Un documentaire produit par Netflix, qui retrace les dernières années du cinéaste dans un fantastique patchwork de témoignages, d'images d'archives et d'extraits de films."
             }
           ]
         }
@@ -3695,7 +3714,12 @@
           "titre": "Welles : montages et remontages",
           "sousTitre": "Conférence de François Thomas",
           "duree": 90,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Aucun nom de réalisateur ne figure au générique de _La Dame de Shanghaï_, signe éloquent des conflits sur ce film dont Welles n'a pu maîtriser le montage. La postproduction d'autres longs métrages a échappé au cinéaste, et nombre de ses films ont circulé dans plusieurs montages très différents les uns des autres. Dans quelles conditions dire que Welles est l'auteur de ses films ? — François Thomas"
+            }
+          ]
         }
       ],
       "textes": []
