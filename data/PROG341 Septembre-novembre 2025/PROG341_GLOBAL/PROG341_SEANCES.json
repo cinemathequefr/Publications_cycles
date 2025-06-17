@@ -7420,6 +7420,28 @@
     "hashEvenement": "f32739"
   },
   {
+    "idSeance": 201017,
+    "idEvenement": 34241,
+    "dateHeure": "2025-10-23T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 34241,
+        "titre": "Les vertus du temps long : Sous la terre",
+        "sousTitre": "Conférence d'Ania Szczepanska",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c34241"
+  },
+  {
     "idSeance": 198111,
     "idEvenement": 34088,
     "dateHeure": "2025-10-23T18:00:00",
@@ -8141,6 +8163,37 @@
       }
     ],
     "hashEvenement": "f30277"
+  },
+  {
+    "idSeance": 201019,
+    "idEvenement": 34244,
+    "dateHeure": "2025-10-27T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Maxime Roy"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155414,
+        "titre": "Rumeur",
+        "art": "La",
+        "realisateurs": "Maxime Roy",
+        "annee": 2025,
+        "duree": 52,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155415,
+        "titre": "Main gauche",
+        "art": "La",
+        "realisateurs": "Maxime Roy",
+        "annee": 2025
+      }
+    ],
+    "hashEvenement": "f155414f155415"
   },
   {
     "idSeance": 196657,
@@ -11092,7 +11145,8 @@
         "titre": "Assassins et voleurs",
         "realisateurs": "Sacha Guitry",
         "annee": 1957,
-        "duree": 85
+        "duree": 85,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f49087"
@@ -11293,7 +11347,8 @@
         "titre": "Assassins et voleurs",
         "realisateurs": "Sacha Guitry",
         "annee": 1957,
-        "duree": 85
+        "duree": 85,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f49087"
@@ -11871,7 +11926,8 @@
         "idFilm": 155386,
         "titre": "Hiver à Sokcho",
         "realisateurs": "Koya Kamura",
-        "annee": 2024
+        "annee": 2024,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155386"

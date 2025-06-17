@@ -163,6 +163,33 @@
     ]
   },
   {
+    "idCategorie": 3927,
+    "typeEvenement": 13,
+    "idEvenement": 34244,
+    "idSeance": 201019,
+    "dateHeure": "2025-10-27T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {
+        "idFilm": 155414,
+        "ordre": 1,
+        "idSeance": 201019,
+        "idCopie": 30415,
+        "duree": 52,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155415,
+        "ordre": 2
+      }
+    ]
+  },
+  {
     "idCategorie": 3940,
     "typeEvenement": 13,
     "idEvenement": 34187,
@@ -250,7 +277,12 @@
     "items": [
       {
         "idFilm": 155386,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 201013,
+        "idCopie": 30414,
+        "duree": 0,
+        "version": "",
+        "format": "DCP"
       }
     ],
     "mention": "Séance suivie d'une discussion avec Koya Kamura"

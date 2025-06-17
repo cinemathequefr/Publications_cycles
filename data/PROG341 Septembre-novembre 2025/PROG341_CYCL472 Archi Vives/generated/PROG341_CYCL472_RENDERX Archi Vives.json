@@ -6,30 +6,65 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 155350,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 34241,
+              "content": [
+                {
+                  "idConf": 34241,
+                  "titre": "Les vertus du temps long : Sous la terre",
+                  "sousTitre": "Conférence d'Ania Szczepanska",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 201017,
+                  "idSeanceAssoc": 196542,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-10-23T17:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            },
             {
               "idFilm": 155350,
-              "ordre": 1,
-              "titre": "Sous la terre",
-              "realisateurs": "Ania Szczepanska",
-              "pays": "France",
-              "annee": 2025,
-              "duree": 63,
-              "version": "",
-              "format": "DCP"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 196542,
-              "dateHeure": "2025-10-23T19:30:00",
-              "idSalle": "JE"
+              "content": [
+                {
+                  "idFilm": 155350,
+                  "ordre": 1,
+                  "titre": "Sous la terre",
+                  "realisateurs": "Ania Szczepanska",
+                  "pays": "France",
+                  "annee": 2025,
+                  "duree": 63,
+                  "version": "",
+                  "format": "DCP"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 196542,
+                  "idSeanceAssoc": 196542,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-10-23T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Les vertus du temps long : Sous la terre",
+        "mention": "par Ania Szczepanska",
+        "dateHeure": "2025-10-23T17:30:00"
+      }
+    ]
+  }
 }

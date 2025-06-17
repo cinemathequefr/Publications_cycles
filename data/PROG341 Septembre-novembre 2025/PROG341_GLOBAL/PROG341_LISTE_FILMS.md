@@ -4,7 +4,7 @@
 
   * Sous la terre
 
-## Aujourd'hui le cinéma (16)
+## Aujourd'hui le cinéma (18)
 
   * +10K  
   * Alcools  
@@ -15,10 +15,12 @@
   * Fortune  
   * Hiver à Sokcho  
   * iNTELLIGENCE  
+  * Main gauche (La)  
   * Mister Bridge  
   * Moi Ivan, toi Abraham  
   * Mort du poisson (La)  
   * Pont du vaisseau (Le)  
+  * Rumeur (La)  
   * Si nous habitons un éclair  
   * Stranger Than Paradise  
   * Un ciel si bas
