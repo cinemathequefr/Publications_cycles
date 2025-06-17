@@ -215,19 +215,16 @@
   * Tous à la manif  
   * Vers le sud
 
-## Le burlesque muet hollywoodien, 20 indispensables (22)
+## Le burlesque muet hollywoodien, 20 indispensables (19)
 
   * Athlète incomplet (L')  
   * Bataille du siècle (La)  
-  * Cadet d'eau douce  
   * Caméraman (Le)  
-  * Cirque (Le)  
   * Croisière du Navigator (La)  
   * Fatty à la fête foraine  
   * Fatty cuisinier  
   * Fatty garçon boucher  
   * Fatty groom  
-  * Fiancées en folie (Les)  
   * Kid (Le)  
   * Lumières de la ville (Les)  
   * Ma vache et moi  
@@ -250,17 +247,20 @@
   * Nectar  
   * Tour de glace (La)
 
-## Ma petite Cinémathèque (22)
+## Ma petite Cinémathèque (25)
 
   * Arrietty : Le Petit Monde des chapardeurs  
   * Aventures de Robin des Bois (Les)  
   * Bataille du siècle (La)  
   * Belle au bois dormant (La)  
   * Blanche-Neige et Rose-Rouge  
+  * Cadet d'eau douce  
   * Charlot garçon de café  
   * Charlot machiniste  
   * Château dans le ciel (Le)  
+  * Cirque (Le)  
   * Dounia et la princesse d'Alep  
+  * Fiancées en folie (Les)  
   * Fievel et le nouveau monde  
   * Grand Méchant Renard (Le)  
   * Hansel et Gretel  
