@@ -4,6 +4,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Georges Méliès",
+      "texteSousCycle": "L'œuvre de Georges Méliès est à redécouvrir perpétuellement : inventeur de génie, précurseur des films de science-fiction, il s'inspire autant des contes populaires que de la littérature fantastique, expérimente le cinéma avec des films discrets avant de réaliser ceux plus majestueux que l'on connaît. Deux séances pour un aperçu éclectique entre les premières expériences cinématographiques et les films plus aboutis qui ont marqué l'histoire du cinéma. Restaurations proposées avec des musiques enregistrées, composées par les pianistes Benjamin Moussay, Bruno Angelini, Lawrence Lehérissey et le flûtiste Jocelyn Mienniel.",
       "items": [
         {
           "idEvenement": 33628,
@@ -119,7 +120,8 @@
             {
               "idSeance": 195275,
               "dateHeure": "2025-09-05T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Hervé Pichard"
             }
           ]
         },
@@ -212,7 +214,8 @@
             {
               "idSeance": 198129,
               "dateHeure": "2025-09-05T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Hervé Pichard"
             }
           ]
         }
@@ -221,6 +224,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Raphaël Rebibo",
+      "texteSousCycle": "Peu connu du grand public, Raphaël Rebibo est un cinéaste, scénariste et distributeur qui suit sa voie à sa manière engagée et singulière. Seulement quatre longs métrages sont à son actif en tant que réalisateur, mais ils sont tous marquants, étalés sur 40 ans entre la Suisse et Israël. Il est temps de rendre hommage à ce déposant et membre de la Cinémathèque française à travers cette soirée, raccourci de sa carrière qui présente ses premier et dernier longs métrages. De l'univers kafkaïen de _La Bulle_ (également connu sous le titre _L'Arrestation_) au sujet de société sur la fin de vie d'_Amor_, l'amour demeure au centre des préoccupations de ce créateur passionné.",
       "items": [
         {
           "idFilm": 73755,
@@ -247,7 +251,8 @@
             {
               "idSeance": 198130,
               "dateHeure": "2025-10-03T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Emmanuelle Berthault, Raphaël Rebibo et Martine Fitoussi"
             }
           ]
         },
@@ -275,7 +280,8 @@
             {
               "idSeance": 198131,
               "dateHeure": "2025-10-03T21:15:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Raphaël Rebibo, Martine Fitoussi et Emmanuelle Berthault"
             }
           ]
         }
@@ -284,6 +290,7 @@
     {
       "tri": 4,
       "titreSousCycle": "Le western français avant 1914",
+      "texteSousCycle": "",
       "items": [
         {
           "idEvenement": 33626,
@@ -375,7 +382,8 @@
             {
               "idSeance": 196958,
               "dateHeure": "2025-11-07T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Emmanuelle Berthault et Roxanne Haessig"
             }
           ]
         },
@@ -455,12 +463,46 @@
             {
               "idSeance": 198132,
               "dateHeure": "2025-11-07T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Emmanuelle Berthault et Roxanne Haessig"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Défense d'afficher / Une partie de cartes / Jeanne d'Arc / Le Voyage dans la Lune / La Lanterne magique / La Fée Carabosse ou Le Poignard fatal / L'Agent gelé",
+        "mention": "par Hervé Pichard",
+        "dateHeure": "2025-09-05T18:30:00"
+      },
+      {
+        "titreFilms": "Sur les toits / Le Mélomane / Le Juif errant / La Légende de Rip Van Winkle / Cendrillon ou la pantoufle merveilleuse",
+        "mention": "par Hervé Pichard",
+        "dateHeure": "2025-09-05T20:30:00"
+      },
+      {
+        "titreFilms": "La Bulle",
+        "mention": "par Emmanuelle Berthault, Raphaël Rebibo et Martine Fitoussi",
+        "dateHeure": "2025-10-03T18:30:00"
+      },
+      {
+        "titreFilms": "Amor",
+        "mention": "par Raphaël Rebibo, Martine Fitoussi et Emmanuelle Berthault",
+        "dateHeure": "2025-10-03T21:15:00"
+      },
+      {
+        "titreFilms": "Les Apaches du Far-West / Cow-boys et Peaux-Rouges / La Justice du Peau-Rouge / Calino veut être cow-boy / Pendaison à Jefferson City / Onésime dresseur d'hommes et de chevaux",
+        "mention": "par Emmanuelle Berthault et Roxanne Haessig",
+        "dateHeure": "2025-11-07T18:30:00"
+      },
+      {
+        "titreFilms": "Danse du « Kickapoo » / La Prairie en feu / Onésime sur le sentier de la guerre / Le Cow-boy John cherche un engagement au music-hall / John le cow-boy se fait trottin",
+        "mention": "par Emmanuelle Berthault et Roxanne Haessig",
+        "dateHeure": "2025-11-07T20:30:00"
+      }
+    ]
+  }
 }
