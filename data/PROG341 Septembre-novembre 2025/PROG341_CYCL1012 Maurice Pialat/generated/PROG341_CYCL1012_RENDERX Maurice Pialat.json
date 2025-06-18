@@ -632,16 +632,18 @@
           "idEvenement": 33363,
           "content": [
             {
-              "idFilm": 58094,
+              "idFilm": 101929,
               "ordre": 1,
-              "titre": "Amour existe",
-              "art": "L'",
+              "titre": "Isabelle aux Dombes",
               "realisateurs": "Maurice Pialat",
               "pays": "France",
-              "annee": 1960,
-              "duree": 19,
+              "annee": 1951,
+              "duree": 9,
               "version": "",
-              "format": "35 mm"
+              "format": "35 mm",
+              "generique": [
+                "Paulette Malan"
+              ]
             },
             {
               "idFilm": 101931,
@@ -666,38 +668,8 @@
               "format": "Vidéo"
             },
             {
-              "idFilm": 101929,
-              "ordre": 4,
-              "titre": "Isabelle aux Dombes",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1951,
-              "duree": 9,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Paulette Malan"
-              ]
-            },
-            {
-              "idFilm": 73373,
-              "ordre": 5,
-              "titre": "Janine",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1962,
-              "duree": 16,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Claude Berri",
-                "Hubert Deschamps",
-                "Evelyne Ker"
-              ]
-            },
-            {
               "idFilm": 101933,
-              "ordre": 6,
+              "ordre": 4,
               "titre": "Ombre familière",
               "art": "L'",
               "realisateurs": "Maurice Pialat",
@@ -710,6 +682,34 @@
                 "Sophie Marin",
                 "Jacques Portet",
                 "Jean-Loup Reynold"
+              ]
+            },
+            {
+              "idFilm": 58094,
+              "ordre": 5,
+              "titre": "Amour existe",
+              "art": "L'",
+              "realisateurs": "Maurice Pialat",
+              "pays": "France",
+              "annee": 1960,
+              "duree": 22,
+              "version": "",
+              "format": "DCP"
+            },
+            {
+              "idFilm": 73373,
+              "ordre": 6,
+              "titre": "Janine",
+              "realisateurs": "Maurice Pialat",
+              "pays": "France",
+              "annee": 1962,
+              "duree": 16,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Claude Berri",
+                "Hubert Deschamps",
+                "Evelyne Ker"
               ]
             }
           ],
@@ -730,53 +730,8 @@
           "idEvenement": 33365,
           "content": [
             {
-              "idFilm": 117230,
-              "ordre": 1,
-              "titre": "Agnès Varda tourne",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1965,
-              "duree": 7,
-              "version": "",
-              "format": "Vidéo"
-            },
-            {
-              "idFilm": 110397,
-              "ordre": 2,
-              "titre": "Camargue",
-              "art": "La",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1966,
-              "duree": 7,
-              "version": "",
-              "format": "Vidéo"
-            },
-            {
-              "idFilm": 117232,
-              "ordre": 3,
-              "titre": "De la mer jaillira la lumière",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1966,
-              "duree": 7,
-              "version": "",
-              "format": "Vidéo"
-            },
-            {
-              "idFilm": 117231,
-              "ordre": 4,
-              "titre": "Lugdunum",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1966,
-              "duree": 7,
-              "version": "",
-              "format": "Vidéo"
-            },
-            {
               "idFilm": 117227,
-              "ordre": 5,
+              "ordre": 1,
               "titre": "Parisienne et les grands magasins",
               "art": "La",
               "realisateurs": "Maurice Pialat",
@@ -788,7 +743,7 @@
             },
             {
               "idFilm": 117226,
-              "ordre": 6,
+              "ordre": 2,
               "titre": "Pigalle",
               "realisateurs": "Maurice Pialat",
               "pays": "France",
@@ -798,9 +753,30 @@
               "format": "Vidéo"
             },
             {
-              "idFilm": 90531,
-              "ordre": 7,
-              "titre": "Van Gogh",
+              "idFilm": 117230,
+              "ordre": 3,
+              "titre": "Agnès Varda tourne",
+              "realisateurs": "Maurice Pialat",
+              "pays": "France",
+              "annee": 1965,
+              "duree": 7,
+              "version": "",
+              "format": "Vidéo"
+            },
+            {
+              "idFilm": 117229,
+              "ordre": 4,
+              "titre": "Champs-Élysées",
+              "art": "Les",
+              "realisateurs": "Maurice Pialat",
+              "pays": "France",
+              "annee": 1965
+            },
+            {
+              "idFilm": 110397,
+              "ordre": 5,
+              "titre": "Camargue",
+              "art": "La",
               "realisateurs": "Maurice Pialat",
               "pays": "France",
               "annee": 1966,
@@ -809,13 +785,37 @@
               "format": "Vidéo"
             },
             {
-              "idFilm": 117229,
-              "ordre": 8,
-              "titre": "Champs-Élysées",
-              "art": "Les",
+              "idFilm": 117232,
+              "ordre": 6,
+              "titre": "De la mer jaillira la lumière",
               "realisateurs": "Maurice Pialat",
               "pays": "France",
-              "annee": 1965
+              "annee": 1966,
+              "duree": 7,
+              "version": "",
+              "format": "Vidéo"
+            },
+            {
+              "idFilm": 117231,
+              "ordre": 7,
+              "titre": "Lugdunum",
+              "realisateurs": "Maurice Pialat",
+              "pays": "France",
+              "annee": 1966,
+              "duree": 7,
+              "version": "",
+              "format": "Vidéo"
+            },
+            {
+              "idFilm": 90531,
+              "ordre": 8,
+              "titre": "Van Gogh",
+              "realisateurs": "Maurice Pialat",
+              "pays": "France",
+              "annee": 1966,
+              "duree": 7,
+              "version": "",
+              "format": "Vidéo"
             },
             {
               "idFilm": 117228,
@@ -853,8 +853,19 @@
           "idEvenement": 33362,
           "content": [
             {
-              "idFilm": 68757,
+              "idFilm": 117240,
               "ordre": 1,
+              "titre": "Pierres éparses",
+              "realisateurs": "Maurice Pialat",
+              "pays": "France",
+              "annee": 1962,
+              "duree": 11,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 68757,
+              "ordre": 2,
               "titre": "Bosphore",
               "art": "Le",
               "realisateurs": "Maurice Pialat",
@@ -865,8 +876,19 @@
               "format": "35 mm"
             },
             {
+              "idFilm": 77499,
+              "ordre": 3,
+              "titre": "Pehlivan",
+              "realisateurs": "Maurice Pialat",
+              "pays": "France",
+              "annee": 1964,
+              "duree": 13,
+              "version": "",
+              "format": "35 mm"
+            },
+            {
               "idFilm": 77496,
-              "ordre": 2,
+              "ordre": 4,
               "titre": "Byzance",
               "realisateurs": "Maurice Pialat",
               "pays": "France",
@@ -880,7 +902,7 @@
             },
             {
               "idFilm": 77497,
-              "ordre": 3,
+              "ordre": 5,
               "titre": "Corne d'or",
               "art": "La",
               "realisateurs": "Maurice Pialat",
@@ -895,7 +917,7 @@
             },
             {
               "idFilm": 77498,
-              "ordre": 4,
+              "ordre": 6,
               "titre": "Istanbul",
               "realisateurs": "Maurice Pialat",
               "pays": "France",
@@ -906,7 +928,7 @@
             },
             {
               "idFilm": 77501,
-              "ordre": 5,
+              "ordre": 7,
               "titre": "Maître Galip",
               "realisateurs": "Maurice Pialat",
               "pays": "France",
@@ -917,28 +939,6 @@
               "generique": [
                 "André Reybaz"
               ]
-            },
-            {
-              "idFilm": 77499,
-              "ordre": 6,
-              "titre": "Pehlivan",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1964,
-              "duree": 13,
-              "version": "",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 117240,
-              "ordre": 7,
-              "titre": "Pierres éparses",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France",
-              "annee": 1962,
-              "duree": 11,
-              "version": "",
-              "format": "35 mm"
             }
           ],
           "seances": [

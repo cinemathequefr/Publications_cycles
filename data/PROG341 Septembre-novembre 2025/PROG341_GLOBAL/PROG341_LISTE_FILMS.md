@@ -246,13 +246,11 @@
   * Nectar  
   * Tour de glace (La)
 
-## Ma petite Cinémathèque (26)
+## Ma petite Cinémathèque (23)
 
   * Arrietty : Le Petit Monde des chapardeurs  
   * Aventures de Robin des Bois (Les)  
   * Bataille du siècle (La)  
-  * Belle au bois dormant (La)  
-  * Blanche-Neige et Rose-Rouge  
   * Cadet d'eau douce  
   * Charlot garçon de café  
   * Charlot machiniste  
@@ -262,13 +260,12 @@
   * Fiancées en folie (Les)  
   * Fievel et le nouveau monde  
   * Grand Méchant Renard (Le)  
-  * Hansel et Gretel  
   * Marche de l'empereur (La)  
   * Mars Attacks!  
   * Mécano de la General (Le)  
   * Mon voisin Totoro  
+  * Noces funèbres (Les)  
   * Petite Boutique des horreurs (La)  
-  * Poucette  
   * Retour vers le futur  
   * Retour vers le futur 2  
   * Retour vers le futur 3  
@@ -351,7 +348,7 @@
   * Hearts of Age (The)  
   * Hollywood Parade  
   * Homme qui a vu l'homme qui a vu l'ours (L')  
-  * I Love Lucy : Lucy Meets Orson Welles  
+  * I Love Lucy: Lucy Meets Orson Welles  
   * In the Land of Don Quixote : Flamenco Lesson  
   * It's All True: Based on an Unfinished Film by Orson Welles  
   * Jane Eyre  

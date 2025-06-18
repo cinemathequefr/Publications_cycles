@@ -261,7 +261,38 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33979,
+          "content": [
+            {
+              "idConf": 33979,
+              "titre": "Laetitia Masson par Laetitia Masson, une leçon de cinéma",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Bernard Payen"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201041,
+              "dateHeure": "2025-11-30T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Laetitia Masson par Laetitia Masson, une leçon de cinéma",
+        "dateHeure": "2025-11-30T14:30:00"
+      }
+    ]
+  }
 }
