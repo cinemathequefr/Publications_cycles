@@ -329,7 +329,7 @@
   * Criminel (Le)  
   * Dame de Shanghaï (La)  
   * De l'autre côté du vent  
-  * Dean Martin Show, saison 4, épisode 2 (The)  
+  * Dean Martin Show, saison 4, épisode 2 (extrait) (The)  
   * Décade prodigieuse (La)  
   * Deep (The)  
   * Désordre  
