@@ -4999,7 +4999,8 @@
         "realisateurs": "John Schlesinger",
         "annee": 1965,
         "duree": 127,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f45271"
@@ -5720,7 +5721,8 @@
         "realisateurs": "John Schlesinger",
         "annee": 1962,
         "duree": 112,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f41088"
@@ -6166,7 +6168,8 @@
         "idFilm": 59882,
         "titre": "Au-delà des lois",
         "realisateurs": "John Schlesinger",
-        "annee": 1996
+        "annee": 1996,
+        "duree": 101
       }
     ],
     "hashEvenement": "f59882"
@@ -6931,36 +6934,6 @@
     "hashEvenement": "f52419"
   },
   {
-    "idSeance": 198038,
-    "idEvenement": 33948,
-    "dateHeure": "2025-10-19T14:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Ma petite Cinémathèque",
-        "Burlesques"
-      ],
-      [
-        "Le burlesque muet hollywoodien, les indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 32743,
-        "titre": "Fiancées en folie",
-        "art": "Les",
-        "realisateurs": "Buster Keaton",
-        "annee": 1925,
-        "duree": 58,
-        "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f32743"
-  },
-  {
     "idSeance": 196453,
     "idEvenement": 6674,
     "dateHeure": "2025-10-19T14:30:00",
@@ -7213,6 +7186,31 @@
     "hashEvenement": "f47449"
   },
   {
+    "idSeance": 196467,
+    "idEvenement": 33836,
+    "dateHeure": "2025-10-20T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Hafsia Herzi",
+        "Hafsia Herzi cinéaste"
+      ]
+    ],
+    "mention": "Avant-première. Séance suivie d'une discussion avec Hafsia Herzi. Séance présentée par Hafsia Herzi",
+    "items": [
+      {
+        "idFilm": 155341,
+        "titre": "Petite Dernière",
+        "art": "La",
+        "realisateurs": "Hafsia Herzi",
+        "annee": 2025,
+        "duree": 106,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155341"
+  },
+  {
     "idSeance": 196471,
     "idEvenement": 34146,
     "dateHeure": "2025-10-20T20:00:00",
@@ -7277,31 +7275,6 @@
       }
     ],
     "hashEvenement": "f155420f155421f155422f155423f155424f155400"
-  },
-  {
-    "idSeance": 196467,
-    "idEvenement": 33836,
-    "dateHeure": "2025-10-20T20:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Hafsia Herzi",
-        "Hafsia Herzi cinéaste"
-      ]
-    ],
-    "mention": "Avant-première. Séance suivie d'une discussion avec Hafsia Herzi. Séance présentée par Hafsia Herzi",
-    "items": [
-      {
-        "idFilm": 155341,
-        "titre": "Petite Dernière",
-        "art": "La",
-        "realisateurs": "Hafsia Herzi",
-        "annee": 2025,
-        "duree": 106,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155341"
   },
   {
     "idSeance": 198165,
@@ -8556,35 +8529,6 @@
     "hashEvenement": "f138457"
   },
   {
-    "idSeance": 200967,
-    "idEvenement": 33942,
-    "dateHeure": "2025-10-30T14:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Ma petite Cinémathèque",
-        "Burlesques"
-      ],
-      [
-        "Le burlesque muet hollywoodien, les indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 31156,
-        "titre": "Cirque",
-        "art": "Le",
-        "realisateurs": "Charles Chaplin",
-        "annee": 1928,
-        "duree": 83,
-        "version": "INT. FR.",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f31156"
-  },
-  {
     "idSeance": 201027,
     "idEvenement": 33942,
     "dateHeure": "2025-10-30T15:00:00",
@@ -8763,34 +8707,6 @@
       }
     ],
     "hashEvenement": "f118068"
-  },
-  {
-    "idSeance": 201007,
-    "idEvenement": 33945,
-    "dateHeure": "2025-10-31T15:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Ma petite Cinémathèque",
-        "Burlesques"
-      ],
-      [
-        "Le burlesque muet hollywoodien, les indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 57769,
-        "titre": "Cadet d'eau douce",
-        "realisateurs": "Buster Keaton, Charles F. Riesner",
-        "annee": 1928,
-        "duree": 70,
-        "version": "INT. FR.",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f57769"
   },
   {
     "idSeance": 201028,
@@ -9296,33 +9212,75 @@
     "hashEvenement": "f126241f125205f126147f126243"
   },
   {
-    "idSeance": 198067,
-    "idEvenement": 33950,
+    "idSeance": 201057,
+    "idEvenement": 34253,
     "dateHeure": "2025-11-02T17:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Ma petite Cinémathèque",
-        "Burlesques"
-      ],
-      [
         "Le burlesque muet hollywoodien, les indispensables",
-        "Les films"
+        "Charley Chase"
       ]
     ],
     "items": [
       {
-        "idFilm": 32707,
-        "titre": "Mécano de la General",
+        "idFilm": 87532,
+        "titre": "What Price Goofy?",
+        "realisateurs": "Leo McCarey",
+        "annee": 1925,
+        "duree": 20,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 110197,
+        "titre": "April Fool",
+        "realisateurs": "Ralph Cedar",
+        "annee": 1924,
+        "duree": 12,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155418,
+        "titre": "Fraidy Cat",
+        "art": "The",
+        "realisateurs": "James Parrott, Hal Roach",
+        "annee": 1924,
+        "duree": 10,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 93425,
+        "titre": "Grand Chaperon rouge",
         "art": "Le",
-        "realisateurs": "Buster Keaton, Clyde Bruckman",
+        "realisateurs": "Leo McCarey",
+        "annee": 1925,
+        "duree": 10,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 93424,
+        "titre": "Is Marriage the Bunk?",
+        "realisateurs": "Leo McCarey",
+        "annee": 1925,
+        "duree": 9,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 93432,
+        "titre": "Crazy Like a Fox",
+        "realisateurs": "Leo McCarey",
         "annee": 1926,
-        "duree": 84,
+        "duree": 26,
         "version": "INT. FR.",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f32707"
+    "hashEvenement": "f87532f110197f155418f93425f93424f93432"
   },
   {
     "idSeance": 198178,
@@ -9598,6 +9556,29 @@
     "hashEvenement": "f31320"
   },
   {
+    "idSeance": 198251,
+    "idEvenement": 33736,
+    "dateHeure": "2025-11-05T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49096,
+        "titre": "Je l'ai été trois fois",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1952,
+        "duree": 81,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f49096"
+  },
+  {
     "idSeance": 198299,
     "idEvenement": 7774,
     "dateHeure": "2025-11-05T18:30:00",
@@ -9623,29 +9604,6 @@
     "hashEvenement": "f126650"
   },
   {
-    "idSeance": 198251,
-    "idEvenement": 33736,
-    "dateHeure": "2025-11-05T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Sacha Guitry",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 49096,
-        "titre": "Je l'ai été trois fois",
-        "realisateurs": "Sacha Guitry",
-        "annee": 1952,
-        "duree": 81,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f49096"
-  },
-  {
     "idSeance": 198252,
     "idEvenement": 34082,
     "dateHeure": "2025-11-05T20:00:00",
@@ -9668,6 +9626,30 @@
       }
     ],
     "hashEvenement": "f66169"
+  },
+  {
+    "idSeance": 201058,
+    "idEvenement": 33735,
+    "dateHeure": "2025-11-05T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49095,
+        "titre": "Ils étaient neuf célibataires",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1939,
+        "duree": 125,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f49095"
   },
   {
     "idSeance": 201032,
@@ -9913,6 +9895,10 @@
       [
         "Sigourney Weaver",
         "Les films"
+      ],
+      [
+        "Sigourney Weaver",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -9924,9 +9910,15 @@
         "duree": 117,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 33986,
+        "titre": "Sigourney Weaver par Sigourney Weaver, une leçon de cinéma",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f36119"
+    "hashEvenement": "f36119c33986"
   },
   {
     "idSeance": 196958,
@@ -10024,27 +10016,6 @@
       }
     ],
     "hashEvenement": "f36675"
-  },
-  {
-    "idSeance": 197951,
-    "idEvenement": 33986,
-    "dateHeure": "2025-11-07T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sigourney Weaver",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 33986,
-        "titre": "Sigourney Weaver par Sigourney Weaver, une leçon de cinéma",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c33986"
   },
   {
     "idSeance": 198132,

@@ -219,16 +219,21 @@
   * Tous à la manif  
   * Vers le sud
 
-## Le burlesque muet hollywoodien, les indispensables (18)
+## Le burlesque muet hollywoodien, les indispensables (24)
 
+  * April Fool  
   * Athlète incomplet (L')  
   * Bataille du siècle (La)  
   * Caméraman (Le)  
+  * Crazy Like a Fox  
   * Croisière du Navigator (La)  
   * Fatty à la fête foraine  
   * Fatty cuisinier  
   * Fatty garçon boucher  
   * Fatty groom  
+  * Fraidy Cat (The)  
+  * Grand Chaperon rouge (Le)  
+  * Is Marriage the Bunk?  
   * Kid (Le)  
   * Lumières de la ville (Les)  
   * Ma vache et moi  
@@ -238,7 +243,8 @@
   * Ruée vers l'or (La)  
   * Sherlock Junior  
   * Vive la liberté  
-  * Vive le sport !
+  * Vive le sport !  
+  * What Price Goofy?
 
 ## Lucile Hadzihalilovic (7)
 
