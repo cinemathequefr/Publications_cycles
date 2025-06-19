@@ -436,7 +436,7 @@
         "annee": 2012,
         "duree": 105,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       },
       {
         "idConf": 33977,
@@ -2412,7 +2412,8 @@
     "items": [
       {
         "idFilm": 45474,
-        "titre": "Harlem Story",
+        "titre": "Cool World",
+        "art": "The",
         "realisateurs": "Shirley Clarke",
         "annee": 1963,
         "duree": 105,
@@ -3796,7 +3797,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Lucile Hadzihalilovic et Julia Irribarria",
+    "mention": "Séance présentée par Lucile Hadzihalilovic, Julia Irribarria et Ken Yasumoto",
     "items": [
       {
         "idFilm": 155307,
@@ -7212,6 +7213,33 @@
     "hashEvenement": "f47449"
   },
   {
+    "idSeance": 196471,
+    "idEvenement": 34146,
+    "dateHeure": "2025-10-20T20:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Courts métrages Arte"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155420,
+        "titre": "Vautours",
+        "realisateurs": "Dian Weys",
+        "annee": 2025
+      },
+      {
+        "idFilm": 155421,
+        "titre": "Matin brun",
+        "realisateurs": "Carlo Vogele",
+        "annee": 2025
+      }
+    ],
+    "hashEvenement": "f155420f155421"
+  },
+  {
     "idSeance": 196467,
     "idEvenement": 33836,
     "dateHeure": "2025-10-20T20:30:00",
@@ -8213,8 +8241,8 @@
     "hashEvenement": "f35628"
   },
   {
-    "idSeance": 200980,
-    "idEvenement": 32840,
+    "idSeance": 201050,
+    "idEvenement": 33838,
     "dateHeure": "2025-10-27T17:00:00",
     "salle": "JE",
     "cycle": [
@@ -8225,16 +8253,16 @@
     ],
     "items": [
       {
-        "idFilm": 31676,
-        "titre": "Épreuve de force",
-        "art": "L'",
-        "realisateurs": "Clint Eastwood",
-        "annee": 1977,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 36465,
+        "titre": "American Gigolo",
+        "realisateurs": "Paul Schrader",
+        "annee": 1980,
+        "duree": 117,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f31676"
+    "hashEvenement": "f36465"
   },
   {
     "idSeance": 196656,
@@ -8651,8 +8679,8 @@
     "hashEvenement": "f88450c33968"
   },
   {
-    "idSeance": 198247,
-    "idEvenement": 33762,
+    "idSeance": 201045,
+    "idEvenement": 33750,
     "dateHeure": "2025-10-30T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -8663,16 +8691,14 @@
     ],
     "items": [
       {
-        "idFilm": 49116,
-        "titre": "Pasteur",
+        "idFilm": 49121,
+        "titre": "Quadrille",
         "realisateurs": "Sacha Guitry",
-        "annee": 1935,
-        "duree": 74,
-        "version": "VO",
-        "format": "35 mm"
+        "annee": 1938,
+        "duree": 91
       }
     ],
-    "hashEvenement": "f49116"
+    "hashEvenement": "f49121"
   },
   {
     "idSeance": 201016,
@@ -8857,8 +8883,8 @@
     "hashEvenement": "f44432"
   },
   {
-    "idSeance": 198248,
-    "idEvenement": 33745,
+    "idSeance": 201046,
+    "idEvenement": 33726,
     "dateHeure": "2025-10-31T20:15:00",
     "salle": "HL",
     "cycle": [
@@ -8869,16 +8895,15 @@
     ],
     "items": [
       {
-        "idFilm": 49115,
-        "titre": "Nouveau Testament",
-        "art": "Le",
+        "idFilm": 49090,
+        "titre": "Deburau",
         "realisateurs": "Sacha Guitry",
-        "annee": 1936,
-        "duree": 100,
+        "annee": 1951,
+        "duree": 93,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f49115"
+    "hashEvenement": "f49090"
   },
   {
     "idSeance": 198304,
@@ -10240,8 +10265,8 @@
     "hashEvenement": "f35474"
   },
   {
-    "idSeance": 198257,
-    "idEvenement": 33750,
+    "idSeance": 201047,
+    "idEvenement": 33762,
     "dateHeure": "2025-11-08T17:00:00",
     "salle": "HL",
     "cycle": [
@@ -10252,14 +10277,16 @@
     ],
     "items": [
       {
-        "idFilm": 49121,
-        "titre": "Quadrille",
+        "idFilm": 49116,
+        "titre": "Pasteur",
         "realisateurs": "Sacha Guitry",
-        "annee": 1938,
-        "duree": 91
+        "annee": 1935,
+        "duree": 74,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f49121"
+    "hashEvenement": "f49116"
   },
   {
     "idSeance": 198302,
@@ -10874,8 +10901,8 @@
     "hashEvenement": "f103462c33969"
   },
   {
-    "idSeance": 198267,
-    "idEvenement": 33726,
+    "idSeance": 201048,
+    "idEvenement": 33745,
     "dateHeure": "2025-11-13T20:00:00",
     "salle": "HL",
     "cycle": [
@@ -10886,15 +10913,16 @@
     ],
     "items": [
       {
-        "idFilm": 49090,
-        "titre": "Deburau",
+        "idFilm": 49115,
+        "titre": "Nouveau Testament",
+        "art": "Le",
         "realisateurs": "Sacha Guitry",
-        "annee": 1951,
-        "duree": 93,
+        "annee": 1936,
+        "duree": 100,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f49090"
+    "hashEvenement": "f49115"
   },
   {
     "idSeance": 198192,
@@ -12153,7 +12181,6 @@
         "Les films"
       ]
     ],
-    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 49088,

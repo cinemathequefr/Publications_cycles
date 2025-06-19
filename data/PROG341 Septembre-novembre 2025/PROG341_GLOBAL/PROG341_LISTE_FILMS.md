@@ -4,7 +4,7 @@
 
   * Sous la terre
 
-## Aujourd'hui le cinéma (18)
+## Aujourd'hui le cinéma (20)
 
   * Alcools  
   * Araucaria  
@@ -16,6 +16,7 @@
   * iNTELLIGENCE  
   * Incroyable femme des neiges (L')  
   * Main gauche (La)  
+  * Matin brun  
   * Mister Bridge  
   * Moi Ivan, toi Abraham  
   * Mort du poisson (La)  
@@ -23,7 +24,8 @@
   * Rumeur (La)  
   * Si nous habitons un éclair  
   * Stranger Than Paradise  
-  * Un ciel si bas
+  * Un ciel si bas  
+  * Vautours
 
 ## Christian Petzold (20)
 
@@ -116,6 +118,7 @@
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
   * Âme sœur (L')  
+  * American Gigolo  
   * Amerika, rapports de classe  
   * Amour l'après-midi (L')  
   * Au nom du pape roi  
@@ -129,7 +132,6 @@
   * Daniel  
   * De l'influence des rayons gamma sur le comportement des marguerites  
   * Element of Crime  
-  * Épreuve de force (L')  
   * Fantôme de la liberté (Le)  
   * Golden Eighties  
   * Homme qui voulait savoir (L')  
@@ -464,12 +466,12 @@
   * Bridges-Go-Round  
   * Bullfight  
   * Connection (The)  
+  * Cool World (The)  
   * Dance in the Sun  
   * Four Journeys Into Mystic Time: Initiation  
   * Four Journeys Into Mystic Time: Mysterium  
   * Four Journeys Into Mystic Time: One-2-3  
   * Four Journeys Into Mystic Time: Trans  
-  * Harlem Story  
   * In Paris Parks  
   * Ornette: Made in America  
   * Portrait of Jason
