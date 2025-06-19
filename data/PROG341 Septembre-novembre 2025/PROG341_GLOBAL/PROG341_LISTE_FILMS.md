@@ -4,7 +4,7 @@
 
   * Sous la terre
 
-## Aujourd'hui le cinéma (20)
+## Aujourd'hui le cinéma (23)
 
   * Alcools  
   * Araucaria  
@@ -20,11 +20,14 @@
   * Mister Bridge  
   * Moi Ivan, toi Abraham  
   * Mort du poisson (La)  
+  * Overnight  
   * Pont du vaisseau (Le)  
   * Rumeur (La)  
   * Si nous habitons un éclair  
   * Stranger Than Paradise  
   * Un ciel si bas  
+  * Une fenêtre plein sud  
+  * Une fugue  
   * Vautours
 
 ## Christian Petzold (20)
@@ -113,7 +116,7 @@
   * Sex Doll  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (40)
+## Histoire permanente du cinéma (39)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
@@ -129,7 +132,6 @@
   * Brazil  
   * Cavalier électrique (Le)  
   * Chambre avec vue  
-  * Daniel  
   * De l'influence des rayons gamma sur le comportement des marguerites  
   * Element of Crime  
   * Fantôme de la liberté (Le)  
@@ -317,14 +319,13 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (94)
+## Orson Welles (87)
 
   * Affaire Dominici par Orson Welles (L')  
   * Around the World with Orson Welles : London  
   * Around the World with Orson Welles : Madrid Bullfight  
   * Around the World with Orson Welles : Pays basque  
   * Around the World with Orson Welles : Saint-Germain-des-Prés  
-  * Around the World with Orson Welles : Vienna  
   * Cagliostro  
   * Citizen Kane  
   * Citizen Kane (bande-annonce)  
@@ -351,7 +352,6 @@
   * Hollywood Parade  
   * Homme qui a vu l'homme qui a vu l'ours (L')  
   * I Love Lucy: Lucy Meets Orson Welles  
-  * In the Land of Don Quixote : Flamenco Lesson  
   * It's All True: Based on an Unfinished Film by Orson Welles  
   * Jane Eyre  
   * King Lear in New York  
@@ -366,7 +366,6 @@
   * Nikka Whisky : Magic publicité japonaise  
   * Nikka Whisky : publicité japonaise  
   * Orson Welles  
-  * Orson Welles à la Cinémathèque française  
   * Orson Welles at Large : Portrait of Gina  
   * Orson Welles, autopsie d'une légende  
   * Orson Welles' Don Quixote  
@@ -374,7 +373,6 @@
   * Orson Welles' Jeremiah  
   * Orson Welles, l'homme-orchestre  
   * Orson Welles' London  
-  * Orson Welles' Magic Show  
   * Orson Welles' Moby Dick  
   * Orson Welles on Stage in Dublin  
   * Orson Welles over Europe  
@@ -384,10 +382,8 @@
   * Orson Welles' Sketch Book, episode 1: The Early Days  
   * Orson Welles' Sketch Book, episode 2: Critics  
   * Orson Welles' Sketch Book, episode 3: The Police  
-  * Orson Welles' Sketch Book, episode 4: People I Miss  
   * Orson Welles' Sketch Book, episode 5: The War of the Worlds  
   * Orson Welles Talks with Roger Hill  
-  * Orson Welles' The Golden Honeymoon  
   * Orson Welles' « Voodoo » Macbeth  
   * Othello  
   * Procès (Le)  
@@ -397,7 +393,6 @@
   * Salaire du diable (Le)  
   * Shakespeare et Orson Welles  
   * Soif du mal (La)  
-  * Spirit of Charles Lindbergh (The)  
   * Splendeur des Amberson (La)  
   * This Is Orson Welles  
   * Too Much Johnson  
