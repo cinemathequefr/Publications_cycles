@@ -217,7 +217,7 @@
   * Tous à la manif  
   * Vers le sud
 
-## Le burlesque muet hollywoodien, 20 indispensables (18)
+## Le burlesque muet hollywoodien, les indispensables (18)
 
   * Athlète incomplet (L')  
   * Bataille du siècle (La)  
