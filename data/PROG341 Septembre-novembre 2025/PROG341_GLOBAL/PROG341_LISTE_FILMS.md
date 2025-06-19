@@ -465,10 +465,10 @@
   * Bullfight  
   * Connection (The)  
   * Dance in the Sun  
-  * Four Journeys into Mystic Time – Initiation  
-  * Four Journeys into Mystic Time – Mysterium  
-  * Four Journeys into Mystic Time – One-Two-Three  
-  * Four Journeys into Mystic Time – Trans  
+  * Four Journeys Into Mystic Time: Initiation  
+  * Four Journeys Into Mystic Time: Mysterium  
+  * Four Journeys Into Mystic Time: One-2-3  
+  * Four Journeys Into Mystic Time: Trans  
   * Harlem Story  
   * In Paris Parks  
   * Ornette: Made in America  
