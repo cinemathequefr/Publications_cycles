@@ -122,7 +122,6 @@
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
   * Âme sœur (L')  
-  * American Gigolo  
   * Amerika, rapports de classe  
   * Amour l'après-midi (L')  
   * Au nom du pape roi  
@@ -134,6 +133,7 @@
   * Cavalier électrique (Le)  
   * Chambre avec vue  
   * De l'influence des rayons gamma sur le comportement des marguerites  
+  * Deep End  
   * Element of Crime  
   * Fantôme de la liberté (Le)  
   * Golden Eighties  

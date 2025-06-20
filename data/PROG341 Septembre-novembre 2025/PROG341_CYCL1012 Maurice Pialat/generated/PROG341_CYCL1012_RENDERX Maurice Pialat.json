@@ -52,7 +52,6 @@
                   "typeAssoc": 118,
                   "dateHeure": "2025-09-06T14:30:00",
                   "idSalle": "HL",
-                  "idSeanceAssoc": 195313,
                   "mentionAssoc": "Film + dialogue"
                 },
                 {
@@ -127,19 +126,40 @@
           "seances": [
             {
               "idSeance": 197772,
-              "dateHeure": "2025-09-12T20:30:00",
+              "dateHeure": "2025-09-12T20:45:00",
               "idSalle": "HL",
               "mention": "Séance présentée par Géraldine Pailhas"
             },
             {
               "idSeance": 195707,
-              "dateHeure": "2025-09-21T20:15:00",
+              "dateHeure": "2025-09-21T20:30:00",
               "idSalle": "HL"
             }
           ]
         },
         {
           "groupe": [
+            {
+              "idEvenement": 33719,
+              "content": [
+                {
+                  "idConf": 33719,
+                  "titre": "Maurice Pialat, le sixième sens",
+                  "sousTitre": "Conférence de Jérôme Momcilovic",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Pialat était-il un réaliste ? Oui, le plus grand. Le réel, il savait où le chercher, loin de la réalité où celui-ci est introuvable. Comme la peinture de Cézanne, le cinéma de Maurice Pialat a creusé, pioché, fouillé le sol des choses, avec sa lucidité féroce pour bâton de sourcier. Il a même ouvert un cercueil. Car le réel, c'est quelque chose qui remonte. Ça remonte par la gueule ouverte. — Jérôme Momcilovic"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 197756,
+                  "idSeanceAssoc": 195415,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-09-11T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 50625,
               "content": [
@@ -167,42 +187,20 @@
                   "idSeance": 195271,
                   "dateHeure": "2025-09-05T18:00:00",
                   "idSalle": "HL",
-                  "mention": "Séance présentée par Bernard Dubois",
-                  "idSeanceAssoc": 195415,
-                  "mentionAssoc": "Film choisi par le conférencier"
+                  "mention": "Séance présentée par Bernard Dubois"
                 },
                 {
                   "idSeance": 195415,
                   "idSeanceAssoc": 197756,
                   "typeAssoc": 117,
                   "dateHeure": "2025-09-11T21:00:00",
-                  "idSalle": "GF"
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
                 },
                 {
                   "idSeance": 195568,
                   "dateHeure": "2025-09-17T20:00:00",
                   "idSalle": "HL"
-                }
-              ]
-            },
-            {
-              "idEvenement": 33719,
-              "content": [
-                {
-                  "idConf": 33719,
-                  "titre": "Maurice Pialat, le sixième sens",
-                  "sousTitre": "Conférence de Jérôme Momcilovic",
-                  "typeConference": "Conférence",
-                  "miniTexte": "Pialat était-il un réaliste ? Oui, le plus grand. Le réel, il savait où le chercher, loin de la réalité où celui-ci est introuvable. Comme la peinture de Cézanne, le cinéma de Maurice Pialat a creusé, pioché, fouillé le sol des choses, avec sa lucidité féroce pour bâton de sourcier. Il a même ouvert un cercueil. Car le réel, c'est quelque chose qui remonte. Ça remonte par la gueule ouverte. — Jérôme Momcilovic"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 197756,
-                  "idSeanceAssoc": 195415,
-                  "typeAssoc": 117,
-                  "dateHeure": "2025-09-11T19:00:00",
-                  "idSalle": "GF"
                 }
               ]
             }
@@ -245,6 +243,27 @@
         {
           "groupe": [
             {
+              "idEvenement": 33718,
+              "content": [
+                {
+                  "idConf": 33718,
+                  "titre": "« Nous ne vieillirons pas ensemble »",
+                  "sousTitre": "Lecture",
+                  "typeConference": "Lecture",
+                  "miniTexte": "« Puisqu'il faut fixer une date, un point de départ... c'est ce matin de mai 66, un samedi matin exactement, où j'ai accompagné Françoise à l'aéroport du Bourget. Elle partait pour Sotchi, en URSS, pour améliorer son russe et prendre des vacances. Françoise s'est mise au russe depuis que je la trompe. Elle a 41 ans depuis deux mois, j'en aurai autant au mois d'août. Nous sommes mariés depuis quinze ans, je la trompe depuis huit, et ça fait six ans que je couche avec Colette, que j'ai rencontrée un soir au Lido des Champs-Élysées. Colette va avoir vingt-cinq ans. » Lecture d'extraits du roman de Maurice Pialat, paru en 1972 et réédité aux Éditions de l'Olivier. « L'art de Pialat, celui de ses films, se retrouve dans l'écriture. C'est un art d'une puissante humanité parce que sans précaution, sans scrupule, sans effort pour rendre les personnages sympathiques. On est dans la peau, le gros grain, “l'homme nu” disait Simenon. » (Jacques Fieschi)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 197757,
+                  "idSeanceAssoc": 195519,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-09-14T15:00:00",
+                  "idSalle": "HL"
+                }
+              ]
+            },
+            {
               "idFilm": 50627,
               "content": [
                 {
@@ -272,10 +291,9 @@
               "seances": [
                 {
                   "idSeance": 195232,
-                  "dateHeure": "2025-09-04T20:00:00",
+                  "dateHeure": "2025-09-04T20:15:00",
                   "idSalle": "HL",
-                  "idSeanceAssoc": 195519,
-                  "mentionAssoc": "Film choisi par le conférencier"
+                  "mention": "Séance présentée par Valérie Donzelli"
                 },
                 {
                   "idSeance": 195519,
@@ -283,28 +301,8 @@
                   "typeAssoc": 117,
                   "dateHeure": "2025-09-14T17:00:00",
                   "idSalle": "HL",
-                  "mention": "Séance présentée par Marlène Jobert"
-                }
-              ]
-            },
-            {
-              "idEvenement": 33718,
-              "content": [
-                {
-                  "idConf": 33718,
-                  "titre": "« Nous ne vieillirons pas ensemble »",
-                  "sousTitre": "Lecture",
-                  "typeConference": "Lecture",
-                  "miniTexte": "« Puisqu'il faut fixer une date, un point de départ... c'est ce matin de mai 66, un samedi matin exactement, où j'ai accompagné Françoise à l'aéroport du Bourget. Elle partait pour Sotchi, en URSS, pour améliorer son russe et prendre des vacances. Françoise s'est mise au russe depuis que je la trompe. Elle a 41 ans depuis deux mois, j'en aurai autant au mois d'août. Nous sommes mariés depuis quinze ans, je la trompe depuis huit, et ça fait six ans que je couche avec Colette, que j'ai rencontrée un soir au Lido des Champs-Élysées. Colette va avoir vingt-cinq ans. » Lecture d'extraits du roman de Maurice Pialat, paru en 1972 et réédité aux Éditions de l'Olivier. « L'art de Pialat, celui de ses films, se retrouve dans l'écriture. C'est un art d'une puissante humanité parce que sans précaution, sans scrupule, sans effort pour rendre les personnages sympathiques. On est dans la peau, le gros grain, “l'homme nu” disait Simenon. » (Jacques Fieschi)"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 197757,
-                  "idSeanceAssoc": 195519,
-                  "typeAssoc": 117,
-                  "dateHeure": "2025-09-14T15:00:00",
-                  "idSalle": "HL"
+                  "mention": "Séance présentée par Marlène Jobert",
+                  "mentionAssoc": "Film choisi par le conférencier"
                 }
               ]
             }
@@ -334,7 +332,7 @@
           "seances": [
             {
               "idSeance": 195272,
-              "dateHeure": "2025-09-05T20:00:00",
+              "dateHeure": "2025-09-05T20:15:00",
               "idSalle": "HL",
               "mention": "Séance présentée par Dominique Besnehard"
             },
@@ -427,7 +425,6 @@
                   "typeAssoc": 118,
                   "dateHeure": "2025-09-13T14:30:00",
                   "idSalle": "HL",
-                  "idSeanceAssoc": 195500,
                   "mentionAssoc": "Film + dialogue"
                 },
                 {
@@ -1055,6 +1052,11 @@
         "dateHeure": "2025-09-04T18:00:00"
       },
       {
+        "titreFilms": "Nous ne vieillirons pas ensemble / Nous ne vieillirons pas ensemble",
+        "mention": "par Valérie Donzelli",
+        "dateHeure": "2025-09-04T20:15:00"
+      },
+      {
         "titreFilms": "La Gueule ouverte",
         "mention": "par Bernard Dubois",
         "dateHeure": "2025-09-05T18:00:00"
@@ -1062,7 +1064,7 @@
       {
         "titreFilms": "Passe ton bac d'abord",
         "mention": "par Dominique Besnehard",
-        "dateHeure": "2025-09-05T20:00:00"
+        "dateHeure": "2025-09-05T20:15:00"
       },
       {
         "titreFilms": "Police",
@@ -1072,12 +1074,7 @@
       {
         "titreFilms": "Le Garçu",
         "mention": "par Géraldine Pailhas",
-        "dateHeure": "2025-09-12T20:30:00"
-      },
-      {
-        "titreFilms": "Nous ne vieillirons pas ensemble",
-        "mention": "par Marlène Jobert",
-        "dateHeure": "2025-09-14T17:00:00"
+        "dateHeure": "2025-09-12T20:45:00"
       }
     ]
   }

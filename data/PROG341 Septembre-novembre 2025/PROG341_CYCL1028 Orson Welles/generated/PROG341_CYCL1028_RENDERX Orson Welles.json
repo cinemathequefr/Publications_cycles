@@ -102,7 +102,6 @@
                   "typeAssoc": 118,
                   "dateHeure": "2025-10-11T14:30:00",
                   "idSalle": "HL",
-                  "idSeanceAssoc": 198035,
                   "mentionAssoc": "Film + dialogue"
                 },
                 {
@@ -155,6 +154,27 @@
         {
           "groupe": [
             {
+              "idEvenement": 33975,
+              "content": [
+                {
+                  "idConf": 33975,
+                  "titre": "Welles : montages et remontages",
+                  "sousTitre": "Conférence de François Thomas",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Aucun nom de réalisateur ne figure au générique de _La Dame de Shanghaï_, signe éloquent des conflits sur ce film dont Welles n'a pu maîtriser le montage. La postproduction d'autres longs métrages a échappé au cinéaste, et nombre de ses films ont circulé dans plusieurs montages très différents les uns des autres. Dans quelles conditions dire que Welles est l'auteur de ses films ? — François Thomas"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 197765,
+                  "idSeanceAssoc": 198303,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-10-23T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
+            },
+            {
               "idFilm": 45437,
               "content": [
                 {
@@ -184,37 +204,15 @@
                 {
                   "idSeance": 196251,
                   "dateHeure": "2025-10-11T20:30:00",
-                  "idSalle": "HL",
-                  "idSeanceAssoc": 198303,
-                  "mentionAssoc": "Film choisi par le conférencier"
+                  "idSalle": "HL"
                 },
                 {
                   "idSeance": 198303,
                   "idSeanceAssoc": 197765,
                   "typeAssoc": 117,
                   "dateHeure": "2025-10-23T21:00:00",
-                  "idSalle": "HL"
-                }
-              ]
-            },
-            {
-              "idEvenement": 33975,
-              "content": [
-                {
-                  "idConf": 33975,
-                  "titre": "Welles : montages et remontages",
-                  "sousTitre": "Conférence de François Thomas",
-                  "typeConference": "Conférence",
-                  "miniTexte": "Aucun nom de réalisateur ne figure au générique de _La Dame de Shanghaï_, signe éloquent des conflits sur ce film dont Welles n'a pu maîtriser le montage. La postproduction d'autres longs métrages a échappé au cinéaste, et nombre de ses films ont circulé dans plusieurs montages très différents les uns des autres. Dans quelles conditions dire que Welles est l'auteur de ses films ? — François Thomas"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 197765,
-                  "idSeanceAssoc": 198303,
-                  "typeAssoc": 117,
-                  "dateHeure": "2025-10-23T19:00:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film choisi par le conférencier"
                 }
               ]
             }
@@ -490,7 +488,6 @@
                   "typeAssoc": 118,
                   "dateHeure": "2025-10-16T19:00:00",
                   "idSalle": "HL",
-                  "idSeanceAssoc": 198285,
                   "mentionAssoc": "Film + dialogue"
                 },
                 {
@@ -1025,7 +1022,6 @@
                   "idSeance": 198036,
                   "dateHeure": "2025-10-12T14:30:00",
                   "idSalle": "HL",
-                  "idSeanceAssoc": 200940,
                   "mentionAssoc": "Film seul"
                 },
                 {
@@ -1704,7 +1700,7 @@
           "seances": [
             {
               "idSeance": 198164,
-              "dateHeure": "2025-10-20T18:30:00",
+              "dateHeure": "2025-10-20T18:15:00",
               "idSalle": "GF",
               "mention": "Séance présentée par Jean-François Rauger"
             }
@@ -1829,7 +1825,7 @@
           "seances": [
             {
               "idSeance": 198304,
-              "dateHeure": "2025-10-31T21:00:00",
+              "dateHeure": "2025-10-31T21:59:00",
               "idSalle": "GF"
             }
           ]
@@ -2574,7 +2570,7 @@
           "seances": [
             {
               "idSeance": 198190,
-              "dateHeure": "2025-11-12T20:30:00",
+              "dateHeure": "2025-11-12T20:45:00",
               "idSalle": "JE"
             }
           ]
@@ -2641,7 +2637,7 @@
       {
         "titreFilms": "La Décade prodigieuse",
         "mention": "par Jean-François Rauger",
-        "dateHeure": "2025-10-20T18:30:00"
+        "dateHeure": "2025-10-20T18:15:00"
       }
     ]
   }

@@ -66,8 +66,8 @@
           ],
           "seances": [
             {
-              "idSeance": 198243,
-              "dateHeure": "2025-09-13T17:30:00",
+              "idSeance": 201060,
+              "dateHeure": "2025-09-14T15:00:00",
               "idSalle": "JE"
             }
           ]
@@ -93,8 +93,8 @@
           ],
           "seances": [
             {
-              "idSeance": 198244,
-              "dateHeure": "2025-09-14T15:00:00",
+              "idSeance": 201059,
+              "dateHeure": "2025-09-13T17:30:00",
               "idSalle": "JE"
             }
           ]
@@ -224,7 +224,8 @@
             {
               "idSeance": 201010,
               "dateHeure": "2025-09-13T15:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Marie Losier"
             }
           ]
         },
@@ -314,5 +315,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séance présentée": [
+      {
+        "titreFilms": "A Moment in Love / Bridges-Go-Round / Bullfight / Dance in the Sun / In Paris Parks / A Scary Time",
+        "mention": "par Marie Losier",
+        "dateHeure": "2025-09-13T15:00:00"
+      }
+    ]
+  }
 }
