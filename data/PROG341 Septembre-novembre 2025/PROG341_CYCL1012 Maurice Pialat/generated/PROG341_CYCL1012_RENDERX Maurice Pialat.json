@@ -243,41 +243,70 @@
           ]
         },
         {
-          "idFilm": 50627,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50627,
-              "ordre": 1,
-              "titre": "Nous ne vieillirons pas ensemble",
-              "realisateurs": "Maurice Pialat",
-              "pays": "France-Italie",
-              "annee": 1972,
-              "duree": 110,
-              "version": "",
-              "format": "DCP",
-              "adaptation": "D'après le roman _Nous ne vieillirons pas ensemble_ de Maurice Pialat.",
-              "generique": [
-                "Marlène Jobert",
-                "Jean Yanne",
-                "Macha Méril",
-                "Christine Fabréga",
-                "Harry-Max"
+              "content": [
+                {
+                  "idFilm": 50627,
+                  "ordre": 1,
+                  "titre": "Nous ne vieillirons pas ensemble",
+                  "realisateurs": "Maurice Pialat",
+                  "pays": "France-Italie",
+                  "annee": 1972,
+                  "duree": 110,
+                  "version": "",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _Nous ne vieillirons pas ensemble_ de Maurice Pialat.",
+                  "generique": [
+                    "Marlène Jobert",
+                    "Jean Yanne",
+                    "Macha Méril",
+                    "Christine Fabréga",
+                    "Harry-Max"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "« Quand quelqu'un vous quitte, c'est comme une mort. – C'est pire, il existe toujours... » Le récit autobiographique d'une rupture, celle de Catherine et Jean tout autant que celle de Colette et Maurice (Pialat) qui avaient été en couple quelques années auparavant. Et le portrait d'un salaud ordinaire, violent et toxique, croqué sans détours ni ménagement par le cinéaste, qui trouve en Jean Yanne – Prix d'interprétation à Cannes – un alter ego troublant. Le trait est précis, le scalpel tranchant, aussi net que le montage d'Arlette Langmann, jusqu'à une fin solaire, libératrice, qui annonce les dernières minutes émancipatrices d'À nos amours. L'un des plus grands films français des années 70."
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "« Quand quelqu'un vous quitte, c'est comme une mort. – C'est pire, il existe toujours... » Le récit autobiographique d'une rupture, celle de Catherine et Jean tout autant que celle de Colette et Maurice (Pialat) qui avaient été en couple quelques années auparavant. Et le portrait d'un salaud ordinaire, violent et toxique, croqué sans détours ni ménagement par le cinéaste, qui trouve en Jean Yanne – Prix d'interprétation à Cannes – un alter ego troublant. Le trait est précis, le scalpel tranchant, aussi net que le montage d'Arlette Langmann, jusqu'à une fin solaire, libératrice, qui annonce les dernières minutes émancipatrices d'À nos amours. L'un des plus grands films français des années 70."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 195232,
-              "dateHeure": "2025-09-04T20:00:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 195232,
+                  "dateHeure": "2025-09-04T20:00:00",
+                  "idSalle": "HL",
+                  "idSeanceAssoc": 195519,
+                  "mentionAssoc": "Film choisi par le conférencier"
+                },
+                {
+                  "idSeance": 195519,
+                  "idSeanceAssoc": 197757,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-09-14T17:00:00",
+                  "idSalle": "HL",
+                  "mention": "Séance présentée par Marlène Jobert"
+                }
+              ]
             },
             {
-              "idSeance": 195519,
-              "dateHeure": "2025-09-14T17:00:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par Marlène Jobert"
+              "idEvenement": 33718,
+              "content": [
+                {
+                  "idConf": 33718,
+                  "titre": "« Nous ne vieillirons pas ensemble »",
+                  "sousTitre": "Lecture",
+                  "typeConference": "Lecture",
+                  "miniTexte": "« Puisqu'il faut fixer une date, un point de départ... c'est ce matin de mai 66, un samedi matin exactement, où j'ai accompagné Françoise à l'aéroport du Bourget. Elle partait pour Sotchi, en URSS, pour améliorer son russe et prendre des vacances. Françoise s'est mise au russe depuis que je la trompe. Elle a 41 ans depuis deux mois, j'en aurai autant au mois d'août. Nous sommes mariés depuis quinze ans, je la trompe depuis huit, et ça fait six ans que je couche avec Colette, que j'ai rencontrée un soir au Lido des Champs-Élysées. Colette va avoir vingt-cinq ans. » Lecture d'extraits du roman de Maurice Pialat, paru en 1972 et réédité aux Éditions de l'Olivier. « L'art de Pialat, celui de ses films, se retrouve dans l'écriture. C'est un art d'une puissante humanité parce que sans précaution, sans scrupule, sans effort pour rendre les personnages sympathiques. On est dans la peau, le gros grain, “l'homme nu” disait Simenon. » (Jacques Fieschi)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 197757,
+                  "idSeanceAssoc": 195519,
+                  "typeAssoc": 117,
+                  "dateHeure": "2025-09-14T15:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -452,7 +481,7 @@
     },
     {
       "tri": 2,
-      "titreSousCycle": "La Maison des bois",
+      "titreSousCycle": "« La Maison des bois »",
       "texteSousCycle": "De jeunes enfants ont trouvé refuge dans la famille d'un garde forestier pendant la Grande Guerre. Cette mini-série produite pour la deuxième chaîne de la télévision française d'alors, et qui suit le quotidien de gamins déracinés, est proprement miraculeuse. Tournée deux ans après _L'Enfance nue_, c'est encore une œuvre de jeunesse, mais qui éblouit par sa maturité, et dont la tendresse, la beauté champêtre, convoquent le souvenir d'un Renoir. Pialat aimait à dire que c'était son seul tournage heureux, et son meilleur film.",
       "items": [
         {
@@ -981,31 +1010,6 @@
               "idSeance": 197824,
               "dateHeure": "2025-09-13T18:30:00",
               "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 33718,
-          "content": [
-            {
-              "idConf": 33718,
-              "titre": "« Nous ne vieillirons pas ensemble »",
-              "sousTitre": "Lecture",
-              "typeConference": "Lecture",
-              "miniTexte": "« Puisqu'il faut fixer une date, un point de départ... c'est ce matin de mai 66, un samedi matin exactement, où j'ai accompagné Françoise à l'aéroport du Bourget. Elle partait pour Sotchi, en URSS, pour améliorer son russe et prendre des vacances. Françoise s'est mise au russe depuis que je la trompe. Elle a 41 ans depuis deux mois, j'en aurai autant au mois d'août. Nous sommes mariés depuis quinze ans, je la trompe depuis huit, et ça fait six ans que je couche avec Colette, que j'ai rencontrée un soir au Lido des Champs-Élysées. Colette va avoir vingt-cinq ans. » Lecture d'extraits du roman de Maurice Pialat, paru en 1972 et réédité aux Éditions de l'Olivier. « L'art de Pialat, celui de ses films, se retrouve dans l'écriture. C'est un art d'une puissante humanité parce que sans précaution, sans scrupule, sans effort pour rendre les personnages sympathiques. On est dans la peau, le gros grain, “l'homme nu” disait Simenon. » (Jacques Fieschi)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197757,
-              "dateHeure": "2025-09-14T15:00:00",
-              "idSalle": "HL"
             }
           ]
         }

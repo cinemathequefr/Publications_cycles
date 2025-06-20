@@ -1634,7 +1634,7 @@
     "cycle": [
       [
         "Maurice Pialat",
-        "La Maison des bois"
+        "« La Maison des bois »"
       ]
     ],
     "items": [
@@ -1734,7 +1734,7 @@
     "cycle": [
       [
         "Maurice Pialat",
-        "La Maison des bois"
+        "« La Maison des bois »"
       ]
     ],
     "items": [
@@ -2943,6 +2943,14 @@
     "mention": "Séance suivie d'une discussion avec Jeanne Frenkel et Cosme Castro",
     "items": [
       {
+        "idFilm": 155404,
+        "titre": "iNTELLIGENCE",
+        "realisateurs": "Jeanne Frenkel, Cosme Castro",
+        "annee": 2023,
+        "duree": 14,
+        "format": "DCP"
+      },
+      {
         "idFilm": 155396,
         "titre": "Araucaria",
         "realisateurs": "Jeanne Frenkel, Cosme Castro",
@@ -2951,15 +2959,16 @@
         "format": "DCP"
       },
       {
-        "idFilm": 155404,
-        "titre": "iNTELLIGENCE",
-        "realisateurs": "Jeanne Frenkel, Cosme Castro",
-        "annee": 2023,
-        "duree": 14,
+        "idFilm": 47215,
+        "titre": "Orfeu negro",
+        "realisateurs": "Marcel Camus",
+        "annee": 1959,
+        "duree": 105,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f155396f155404"
+    "hashEvenement": "f155404f155396f47215"
   },
   {
     "idSeance": 195532,
@@ -4169,7 +4178,7 @@
     "cycle": [
       [
         "Maurice Pialat",
-        "La Maison des bois"
+        "« La Maison des bois »"
       ]
     ],
     "items": [
@@ -4268,7 +4277,7 @@
     "cycle": [
       [
         "Maurice Pialat",
-        "La Maison des bois"
+        "« La Maison des bois »"
       ]
     ],
     "items": [
@@ -6266,6 +6275,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par François Thomas",
     "items": [
       {
         "idFilm": 126240,
@@ -6667,6 +6677,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par François Thomas",
     "items": [
       {
         "idFilm": 52419,
@@ -6944,6 +6955,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par François Thomas",
     "items": [
       {
         "idFilm": 36834,
@@ -7770,6 +7782,10 @@
       [
         "Hafsia Herzi",
         "Hafsia Herzi cinéaste"
+      ],
+      [
+        "Hafsia Herzi",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -7780,9 +7796,15 @@
         "annee": 2021,
         "duree": 99,
         "format": "DCP"
+      },
+      {
+        "idConf": 34248,
+        "titre": "Dialogue avec Hafsia Herzi et Saïd Ben Saïd",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f150483"
+    "hashEvenement": "f150483c34248"
   },
   {
     "idSeance": 198075,
@@ -7817,27 +7839,6 @@
       }
     ],
     "hashEvenement": "f88595f79950"
-  },
-  {
-    "idSeance": 201033,
-    "idEvenement": 34248,
-    "dateHeure": "2025-10-24T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Hafsia Herzi",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 34248,
-        "titre": "Dialogue avec Hafsia Herzi et Saïd Ben Saïd",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c34248"
   },
   {
     "idSeance": 197881,

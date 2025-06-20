@@ -4,7 +4,7 @@
 
   * Sous la terre
 
-## Aujourd'hui le cinéma (23)
+## Aujourd'hui le cinéma (24)
 
   * Alcools  
   * Araucaria  
@@ -20,6 +20,7 @@
   * Mister Bridge  
   * Moi Ivan, toi Abraham  
   * Mort du poisson (La)  
+  * Orfeu negro  
   * Overnight  
   * Pont du vaisseau (Le)  
   * Rumeur (La)  

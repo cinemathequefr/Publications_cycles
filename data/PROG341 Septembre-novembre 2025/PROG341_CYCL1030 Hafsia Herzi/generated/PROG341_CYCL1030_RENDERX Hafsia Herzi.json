@@ -10,31 +10,48 @@
       "titreSousCycle": "Hafsia Herzi cinéaste",
       "items": [
         {
-          "idFilm": 150483,
-          "content": [
+          "groupe": [
             {
               "idFilm": 150483,
-              "ordre": 1,
-              "titre": "Bonne Mère",
-              "realisateurs": "Hafsia Herzi",
-              "pays": "France",
-              "annee": 2021,
-              "duree": 99,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Halima Benhamed",
-                "Sabrina Benhamed",
-                "Jawed Hannachi Herzi"
-              ],
-              "miniTexte": "Deuxième long métrage de la cinéaste, _Bonne Mère_ plonge au cœur des quartiers nord de Marseille, à travers l'histoire d'une femme de ménage, veuve et mère dévouée, dont le fils est incarcéré. Hafsia Herzi réalise un portrait sensible, inspiré de sa propre mère, en même temps qu'un hommage à la cité phocéenne, son bouillonnement, son art de la tchatche et de la débrouille."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 150483,
+                  "ordre": 1,
+                  "titre": "Bonne Mère",
+                  "realisateurs": "Hafsia Herzi",
+                  "pays": "France",
+                  "annee": 2021,
+                  "duree": 99,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Halima Benhamed",
+                    "Sabrina Benhamed",
+                    "Jawed Hannachi Herzi"
+                  ],
+                  "miniTexte": "Deuxième long métrage de la cinéaste, _Bonne Mère_ plonge au cœur des quartiers nord de Marseille, à travers l'histoire d'une femme de ménage, veuve et mère dévouée, dont le fils est incarcéré. Hafsia Herzi réalise un portrait sensible, inspiré de sa propre mère, en même temps qu'un hommage à la cité phocéenne, son bouillonnement, son art de la tchatche et de la débrouille."
+                }
+              ]
+            },
             {
-              "idSeance": 198112,
-              "dateHeure": "2025-10-24T19:30:00",
-              "idSalle": "GF"
+              "idEvenement": 34248,
+              "content": [
+                {
+                  "idConf": 34248,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Hafsia Herzi et Saïd Ben Saïd",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "« J'ai dit à tous les acteurs : “On s'en fout du scénario, on s'en fout complètement, c'est 15 ans de travail mais on s'en fout, à la fin c'est l'émotion qui compte.” Si quelque chose ne marche pas, c'est qu'il y a un problème de scénario, alors je préfère le changer plutôt que de me prendre la tête à essayer et réessayer. Il y a le scénario, la vie, et ce qu'on filme. » (Hafsia Herzi)"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 198112,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-10-24T19:30:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -151,7 +168,7 @@
                   "ordre": 3,
                   "titre": "Dialogue avec Hafsia Herzi",
                   "typeConference": "Dialogue",
-                  "miniTexte": "« J'ai dit à tous les acteurs : “On s'en fout du scénario, on s'en fout complètement, c'est 15 ans de travail mais on s'en fout, à la fin c'est l'émotion qui compte.” Si quelque chose ne marche pas, c'est qu'il y a un problème de scénario, alors je préfère le changer plutôt que de me prendre la tête à essayer et réessayer. Il y a le scénario, la vie, et ce qu'on filme. » (Hafsia Herzi)"
+                  "miniTexte": "« J'avais écrit ce scénario en parallèle d'autres projets en cours de développement, il traînait dans mes archives. Je me suis levée un matin prise d'un genre de pulsion incontrôlable. J'avais envie de tourner, tout de suite, sans contrainte, sans budget. Je fonctionne à l'instinct. Je n'avais rien à perdre, tout à gagner. Alors j'ai foncé. Dès les premières minutes du tournage, je savais que ce film était né sous une bonne étoile, je n'avais plus de doutes. » (Hafsia Herzi)"
                 }
               ],
               "seances": [
@@ -541,29 +558,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34248,
-          "content": [
-            {
-              "idConf": 34248,
-              "titre": "Dialogue avec Hafsia Herzi et Saïd Ben Saïd",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 201033,
-              "dateHeure": "2025-10-24T20:45:00",
-              "idSalle": "GF"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -576,8 +570,9 @@
     ],
     "Dialogues": [
       {
+        "titreFilms": "Bonne Mère",
         "mention": "avec Hafsia Herzi et Saïd Ben Saïd",
-        "dateHeure": "2025-10-24T20:45:00"
+        "dateHeure": "2025-10-24T19:30:00"
       },
       {
         "titreFilms": "Le Rodba / Tu mérites un amour",
