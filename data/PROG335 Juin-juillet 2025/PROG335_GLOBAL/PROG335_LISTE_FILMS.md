@@ -155,7 +155,6 @@
   * Fame  
   * Femmes au soleil  
   * Grand Soir (Le)  
-  * Homme blessé (L')  
   * Homme de fer (L')  
   * Hommes du président (Les)  
   * Identification d'une femme  
@@ -167,6 +166,7 @@
   * Marjorie  
   * Ombre des anges (L')  
   * Ombre rouge (L')  
+  * Passe montagne  
   * Roulette chinoise  
   * Son nom de Venise dans Calcutta désert  
   * Une chante, l'autre pas (L')  
