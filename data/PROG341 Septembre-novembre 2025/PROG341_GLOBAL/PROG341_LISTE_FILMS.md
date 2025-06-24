@@ -54,7 +54,7 @@
   * Warme Geld (Das)  
   * Yella
 
-## Cinéma bis (12)
+## Cinéma bis (14)
 
   * Blessure  
   * Bruce contre-attaque  
@@ -62,12 +62,14 @@
   * Crypte du vampire (La)  
   * Daughter of Horror  
   * Empire des Ninjas (L')  
+  * Étoile du Sud (L')  
   * Flag  
   * Glen or Glenda  
   * Infirmière a le bistouri facile (L')  
   * Malédiction du vampire (La)  
   * Mission ninja  
-  * Possédée du vice (La)
+  * Possédée du vice (La)  
+  * Trois pour un massacre
 
 ## Fenêtre sur les collections (25)
 
@@ -117,7 +119,7 @@
   * Sex Doll  
   * Tu mérites un amour
 
-## Histoire permanente du cinéma (39)
+## Histoire permanente du cinéma (38)
 
   * Adolescente (L')  
   * Alexandrie pourquoi ?  
@@ -147,7 +149,6 @@
   * Mariage de Maria Braun (Le)  
   * Nuits de la pleine lune (Les)  
   * Ombre des châteaux (L')  
-  * Parfum de femme  
   * Peau (La)  
   * Petites Fugues (Les)  
   * Pipicacadodo  
@@ -326,7 +327,7 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (87)
+## Orson Welles (85)
 
   * Affaire Dominici par Orson Welles (L')  
   * Around the World with Orson Welles : London  
@@ -349,7 +350,6 @@
   * Drame dans un miroir  
   * Dreamers (The)  
   * Échec à Borgia  
-  * Étoile du sud (L')  
   * Falstaff  
   * Filming Othello  
   * Filming The Trial  
@@ -403,7 +403,6 @@
   * Splendeur des Amberson (La)  
   * This Is Orson Welles  
   * Too Much Johnson  
-  * Trois pour un massacre  
   * Troisième Homme (Le)  
   * Un cri dans l'ombre  
   * Une histoire immortelle  
