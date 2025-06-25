@@ -529,7 +529,7 @@
   * Dangerous Paradise  
   * Écrit dans le ciel  
   * Ennemi public (L')  
-  * Étrange incident (L')  
+  * Étrange Incident (L')  
   * Étrangleur (L')  
   * Fille de l'enfer (La)  
   * Forçats de la gloire (Les)  
@@ -538,7 +538,7 @@
   * Héros à vendre  
   * Hommes volants (Les)  
   * Inspiratrice (L')  
-  * Joyeuse suicidée (La)  
+  * Joyeuse Suicidée (La)  
   * Lilly Turner  
   * Love Is a Racket  
   * Lumière qui s'éteint (La)  
