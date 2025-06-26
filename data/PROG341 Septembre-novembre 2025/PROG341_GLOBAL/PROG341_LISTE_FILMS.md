@@ -193,16 +193,18 @@
   * Strange Days  
   * Zero Dark Thirty
 
-## Laetitia Masson (8)
+## Laetitia Masson (10)
 
   * À vendre  
+  * Chevrotine  
   * Coupable  
   * En avoir (ou pas)  
   * GHB  
   * Love Me  
   * Petite fille  
   * Pourquoi (pas) le Brésil  
-  * Repentie (La)
+  * Repentie (La)  
+  * Un hiver en été
 
 ## Laurent Cantet (14)
 
@@ -337,13 +339,14 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (85)
+## Orson Welles (87)
 
   * Affaire Dominici par Orson Welles (L')  
-  * Around the World with Orson Welles : London  
-  * Around the World with Orson Welles : Madrid Bullfight  
-  * Around the World with Orson Welles : Pays basque  
-  * Around the World with Orson Welles : Saint-Germain-des-Prés  
+  * Around the World With Orson Welles: London  
+  * Around the World With Orson Welles: Madrid Bullfight  
+  * Around the World With Orson Welles: Pays Basque  
+  * Around the World With Orson Welles: Saint-Germain-des-Prés  
+  * Around the World With Orson Welles: Vienna  
   * Cagliostro  
   * Citizen Kane  
   * Citizen Kane (bande-annonce)  
@@ -361,6 +364,7 @@
   * Dreamers (The)  
   * Échec à Borgia  
   * Falstaff  
+  * Feux de l'été (Les)  
   * Filming Othello  
   * Filming The Trial  
   * Fountain of Youth (The)  
@@ -369,13 +373,13 @@
   * Hollywood Parade  
   * Homme qui a vu l'homme qui a vu l'ours (L')  
   * I Love Lucy: Lucy Meets Orson Welles  
+  * Ils m'aimeront quand je serai mort  
   * It's All True: Based on an Unfinished Film by Orson Welles  
   * Jane Eyre  
   * King Lear in New York  
   * King Lear Tape  
   * Labyrinthes de M. Arkadin (Les)  
   * Lettre du Kremlin (La)  
-  * lls m'aimeront quand je serai mort  
   * Macbeth  
   * Magic Trick  
   * Merchant of Venice (The)  
@@ -392,7 +396,7 @@
   * Orson Welles' London  
   * Orson Welles' Moby Dick  
   * Orson Welles on Stage in Dublin  
-  * Orson Welles over Europe  
+  * Orson Welles Over Europe  
   * Orson Welles Show (The)  
   * Orson Welles' Shylock  
   * Orson Welles' Sketch Book  
