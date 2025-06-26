@@ -121,8 +121,8 @@
     "hashEvenement": "f125819"
   },
   {
-    "idSeance": 197749,
-    "idEvenement": 32810,
+    "idSeance": 201072,
+    "idEvenement": 34057,
     "dateHeure": "2025-08-28T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -133,16 +133,13 @@
     ],
     "items": [
       {
-        "idFilm": 31059,
-        "titre": "Love Streams",
-        "realisateurs": "John Cassavetes",
-        "annee": 1984,
-        "duree": 141,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 34588,
+        "titre": "Daniel",
+        "realisateurs": "Sidney Lumet",
+        "annee": 1983
       }
     ],
-    "hashEvenement": "f31059"
+    "hashEvenement": "f34588"
   },
   {
     "idSeance": 198044,
@@ -1239,7 +1236,8 @@
         "titre": "Provinciale",
         "art": "La",
         "realisateurs": "Claude Goretta",
-        "annee": 1981
+        "annee": 1981,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f48879"
@@ -4649,7 +4647,8 @@
         "realisateurs": "Jean-Luc Godard",
         "annee": 1959,
         "duree": 90,
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f48837"
@@ -6217,8 +6216,8 @@
     "hashEvenement": "f36942"
   },
   {
-    "idSeance": 200978,
-    "idEvenement": 33851,
+    "idSeance": 201073,
+    "idEvenement": 34284,
     "dateHeure": "2025-10-13T16:30:00",
     "salle": "JE",
     "cycle": [
@@ -6229,16 +6228,15 @@
     ],
     "items": [
       {
-        "idFilm": 41837,
-        "titre": "Pipicacadodo",
+        "idFilm": 41887,
+        "titre": "Dillinger est mort",
         "realisateurs": "Marco Ferreri",
-        "annee": 1979,
-        "duree": 110,
-        "version": "VOSTF",
+        "annee": 1968,
+        "duree": 95,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f41837"
+    "hashEvenement": "f41887"
   },
   {
     "idSeance": 198126,
@@ -6624,10 +6622,6 @@
       [
         "Orson Welles",
         "Les films"
-      ],
-      [
-        "Orson Welles",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6640,7 +6634,22 @@
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
-      },
+      }
+    ],
+    "hashEvenement": "f36804"
+  },
+  {
+    "idSeance": 197948,
+    "idEvenement": 33973,
+    "dateHeure": "2025-10-16T21:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
       {
         "idConf": 33973,
         "titre": "Dialogue avec Simon Callow",
@@ -6648,7 +6657,7 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "f36804c33973"
+    "hashEvenement": "c33973"
   },
   {
     "idSeance": 196397,

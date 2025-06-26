@@ -134,8 +134,10 @@
   * Brazil  
   * Cavalier électrique (Le)  
   * Chambre avec vue  
+  * Daniel  
   * De l'influence des rayons gamma sur le comportement des marguerites  
   * Deep End  
+  * Dillinger est mort  
   * Element of Crime  
   * Fantôme de la liberté (Le)  
   * Golden Eighties  
@@ -145,13 +147,11 @@
   * Incinérateur de cadavres (L')  
   * Juge et l'Assassin (Le)  
   * Liberté, la nuit  
-  * Love Streams  
   * Mariage de Maria Braun (Le)  
   * Nuits de la pleine lune (Les)  
   * Ombre des châteaux (L')  
   * Peau (La)  
   * Petites Fugues (Les)  
-  * Pipicacadodo  
   * Pixote, la loi du plus faible  
   * Provinciale (La)  
   * Rendez-vous d'Anna (Les)  

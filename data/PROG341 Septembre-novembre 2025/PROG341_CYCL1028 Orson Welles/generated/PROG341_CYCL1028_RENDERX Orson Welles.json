@@ -442,61 +442,42 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 36804,
+          "content": [
             {
               "idFilm": 36804,
-              "content": [
-                {
-                  "idFilm": 36804,
-                  "ordre": 1,
-                  "titre": "Falstaff",
-                  "titreVo": "Campanadas a medianoche",
-                  "realisateurs": "Orson Welles",
-                  "pays": "Espagne-Suisse",
-                  "annee": 1966,
-                  "duree": 117,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "restauration": true,
-                  "adaptation": "D'après les pièces _Richard II_, _Henri IV_, _Henry V_ et _Les Joyeuses commères de Windsor_ de William Shakespeare.",
-                  "generique": [
-                    "Orson Welles",
-                    "Jeanne Moreau",
-                    "Marina Vlady",
-                    "Keith Baxter",
-                    "John Gielgud"
-                  ],
-                  "isFocus": true,
-                  "miniTexte": "Bouquet final de l'extraordinaire filmographie d'Orson Welles, _Falstaff_ suit les mauvaises fréquentations du Prince de Galles – héritier d'Henry IV sur le trône d'Angleterre –, tiraillé entre son destin et son amitié avec un truculent chevalier. Rascal vieillissant, ivrogne et fanfaron, compagnon de débauche jovial et finalement tragique, le personnage de Shakespeare trouve toute sa démesure dans la mise en scène du cinéaste, proprement extraordinaire, à l'instar de l'incroyable scène de bataille qui divise le film en deux : 392 plans en 17 minutes."
-                }
-              ]
+              "ordre": 1,
+              "titre": "Falstaff",
+              "titreVo": "Campanadas a medianoche",
+              "realisateurs": "Orson Welles",
+              "pays": "Espagne-Suisse",
+              "annee": 1966,
+              "duree": 117,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après les pièces _Richard II_, _Henri IV_, _Henry V_ et _Les Joyeuses commères de Windsor_ de William Shakespeare.",
+              "generique": [
+                "Orson Welles",
+                "Jeanne Moreau",
+                "Marina Vlady",
+                "Keith Baxter",
+                "John Gielgud"
+              ],
+              "isFocus": true,
+              "miniTexte": "Bouquet final de l'extraordinaire filmographie d'Orson Welles, _Falstaff_ suit les mauvaises fréquentations du Prince de Galles – héritier d'Henry IV sur le trône d'Angleterre –, tiraillé entre son destin et son amitié avec un truculent chevalier. Rascal vieillissant, ivrogne et fanfaron, compagnon de débauche jovial et finalement tragique, le personnage de Shakespeare trouve toute sa démesure dans la mise en scène du cinéaste, proprement extraordinaire, à l'instar de l'incroyable scène de bataille qui divise le film en deux : 392 plans en 17 minutes."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198285,
+              "dateHeure": "2025-10-16T19:00:00",
+              "idSalle": "HL"
             },
             {
-              "idEvenement": 33973,
-              "content": [
-                {
-                  "idConf": 33973,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Simon Callow",
-                  "typeConference": "Dialogue",
-                  "miniTexte": "Il fut en mesure de réaliser des films en Europe, dont, en 1962, une version post-bombe H du _Procès_ de Kafka, à l'austérité radicale, accueillie respectueusement et suivie, en 1966, du film qu'il considérait comme son chef-d'œuvre, _Falstaff_. Lequel se fit sabrer par la plupart des critiques britanniques et américains à sa sortie – à la vibrante exception de l'influente Pauline Kael, qui décrivit Welles, dans _The New Republic_, comme « la grande force créatrice du cinéma américain de notre temps ». — Simon Callow"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 198285,
-                  "typeAssoc": 118,
-                  "dateHeure": "2025-10-16T19:00:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film + dialogue"
-                },
-                {
-                  "idSeance": 197575,
-                  "dateHeure": "2025-11-30T14:30:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film seul"
-                }
-              ]
+              "idSeance": 197575,
+              "dateHeure": "2025-11-30T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -2516,6 +2497,30 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 33973,
+          "content": [
+            {
+              "idConf": 33973,
+              "titre": "Dialogue avec Simon Callow",
+              "typeConference": "Dialogue",
+              "miniTexte": "Il fut en mesure de réaliser des films en Europe, dont, en 1962, une version post-bombe H du _Procès_ de Kafka, à l'austérité radicale, accueillie respectueusement et suivie, en 1966, du film qu'il considérait comme son chef-d'œuvre, _Falstaff_. Lequel se fit sabrer par la plupart des critiques britanniques et américains à sa sortie – à la vibrante exception de l'influente Pauline Kael, qui décrivit Welles, dans _The New Republic_, comme « la grande force créatrice du cinéma américain de notre temps ». — Simon Callow"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197948,
+              "dateHeure": "2025-10-16T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -2533,9 +2538,8 @@
         "dateHeure": "2025-10-11T14:30:00"
       },
       {
-        "titreFilms": "Falstaff",
         "mention": "avec Simon Callow",
-        "dateHeure": "2025-10-16T19:00:00"
+        "dateHeure": "2025-10-16T21:00:00"
       },
       {
         "titreFilms": "Othello",
