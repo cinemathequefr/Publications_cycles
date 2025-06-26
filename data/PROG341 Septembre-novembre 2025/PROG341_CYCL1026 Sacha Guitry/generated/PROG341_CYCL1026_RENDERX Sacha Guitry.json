@@ -80,36 +80,55 @@
           ]
         },
         {
-          "idFilm": 49088,
-          "content": [
+          "groupe": [
             {
               "idFilm": 49088,
-              "ordre": 1,
-              "titre": "Bonne chance",
-              "realisateurs": "Sacha Guitry, Fernand Rivers",
-              "pays": "France",
-              "annee": 1935,
-              "duree": 78,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Sacha Guitry",
-                "Jacqueline Delubac",
-                "Pauline Carton"
-              ],
-              "miniTexte": "Film joyeux, passé inaperçu entre _Pasteur_ et _Le Roman d'un tricheur_, _Bonne chance_ est l'encouragement que lance un peintre à sa voisine, lingère. Superstitieuse, elle achète un billet de loterie et gagne. Deux millions qu'elle partage avec son bienfaiteur. Commence alors un voyage, un _road movie_ extravagant, où tout est surprise, drôlerie et allégresse. Une invitation au bonheur."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198246,
-              "dateHeure": "2025-10-30T18:00:00",
-              "idSalle": "HL"
+              "content": [
+                {
+                  "idFilm": 49088,
+                  "ordre": 1,
+                  "titre": "Bonne chance",
+                  "realisateurs": "Sacha Guitry, Fernand Rivers",
+                  "pays": "France",
+                  "annee": 1935,
+                  "duree": 78,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "Sacha Guitry",
+                    "Jacqueline Delubac",
+                    "Pauline Carton"
+                  ],
+                  "miniTexte": "Film joyeux, passé inaperçu entre _Pasteur_ et _Le Roman d'un tricheur_, _Bonne chance_ est l'encouragement que lance un peintre à sa voisine, lingère. Superstitieuse, elle achète un billet de loterie et gagne. Deux millions qu'elle partage avec son bienfaiteur. Commence alors un voyage, un _road movie_ extravagant, où tout est surprise, drôlerie et allégresse. Une invitation au bonheur."
+                }
+              ]
             },
             {
-              "idSeance": 201005,
-              "dateHeure": "2025-11-26T18:00:00",
-              "idSalle": "HL"
+              "idEvenement": 33984,
+              "content": [
+                {
+                  "idConf": 33984,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Emmanuel Mouret",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "C'est de la vitamine à l'état pur. Quand ça ne va pas, je me mets un film de Guitry. Pour reprendre une expression de Jacques Rancière, Guitry réjouit la vie. Lui aussi, comme Lubitsch, il nous rend intelligents. — Emmanuel Mouret"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 198246,
+                  "dateHeure": "2025-10-30T18:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 201067,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-11-29T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         },
@@ -532,13 +551,8 @@
               "idSalle": "HL"
             },
             {
-              "idSeance": 200988,
-              "dateHeure": "2025-11-23T14:30:00",
-              "idSalle": "HL"
-            },
-            {
-              "idSeance": 197557,
-              "dateHeure": "2025-11-29T14:30:00",
+              "idSeance": 201068,
+              "dateHeure": "2025-11-26T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -1054,6 +1068,11 @@
               "idSeance": 201065,
               "dateHeure": "2025-11-12T20:00:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 201069,
+              "dateHeure": "2025-11-23T14:30:00",
+              "idSalle": "HL"
             }
           ]
         }
@@ -1131,7 +1150,8 @@
                 "Fernand Gravey",
                 "Fernand Ledoux",
                 "Marguerite Pierry"
-              ]
+              ],
+              "miniTexte": "Court métrage réalisé pour la Nuit du cinéma au Gaumont-Palace, le 28 mars 1942. La loi qui donne son titre au film abaissait l'âge auquel on pouvait se marier sans le consentement de ses parents."
             },
             {
               "idFilm": 52180,
@@ -1187,6 +1207,11 @@
         "titreFilms": "Les Trois font la paire",
         "mention": "avec Nicolas Pariser",
         "dateHeure": "2025-11-16T14:30:00"
+      },
+      {
+        "titreFilms": "Bonne chance",
+        "mention": "avec Emmanuel Mouret",
+        "dateHeure": "2025-11-29T14:30:00"
       }
     ]
   }

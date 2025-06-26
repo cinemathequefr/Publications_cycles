@@ -175,14 +175,15 @@
           ]
         },
         {
-          "idSeance": 201005,
+          "idSeance": 201067,
           "ordre": 1,
-          "dateHeure": "2025-11-26T18:00:00",
+          "dateHeure": "2025-11-29T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "dureeSeance": 105,
+          "typeAssoc": 118,
           "idCategorie": 3868,
           "idEvenement": 33761,
           "typeEvenement": 13,
@@ -859,43 +860,9 @@
           ]
         },
         {
-          "idSeance": 200988,
+          "idSeance": 201068,
           "ordre": 1,
-          "dateHeure": "2025-11-23T14:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 3868,
-          "idEvenement": 33742,
-          "typeEvenement": 13,
-          "idFilm": 49106,
-          "titre": "Mon père avait raison",
-          "realisateurs": "Sacha Guitry",
-          "annee": 1936,
-          "pays": "France",
-          "duree": 99,
-          "version": "",
-          "format": "DCP",
-          "restauration": true,
-          "generique": [
-            "Sacha Guitry",
-            "Gaston Dubosc",
-            "Serge Grave"
-          ],
-          "adaptation": "D'après la pièce _Mon père avait raison_ de Sacha Guitry.",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "À travers les vicissitudes de leur vie amoureuse, trois générations d'hommes s'interrogent sur le bonheur. Adaptation de la pièce de la réconciliation entre Lucien et Sacha Guitry, le portrait d'une dynastie bourgeoise, où il est question de dédoublement et d'égoïsme de père en fils."
-            }
-          ]
-        },
-        {
-          "idSeance": 197557,
-          "ordre": 1,
-          "dateHeure": "2025-11-29T14:30:00",
+          "dateHeure": "2025-11-26T18:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1691,6 +1658,39 @@
               "texte": "Un homme d'affaires, dont la vie familiale est un échec, prend l'identité de son frère jumeau, un misérable coquin. Pour la deuxième fois, après _La Poison_, Guitry laisse sa place à Michel Simon au centre d'un film aussi acerbe que désespéré. L'acteur est doublement admirable dans l'histoire d'un bourgeois qui découvre que la vie d'un honnête homme est plus effroyable que celle d'un bon à rien."
             }
           ]
+        },
+        {
+          "idSeance": 201069,
+          "ordre": 1,
+          "dateHeure": "2025-11-23T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3868,
+          "idEvenement": 33758,
+          "typeEvenement": 13,
+          "idFilm": 49126,
+          "art": "La",
+          "titre": "Vie d'un honnête homme",
+          "realisateurs": "Sacha Guitry",
+          "annee": 1953,
+          "pays": "France",
+          "duree": 85,
+          "version": "",
+          "format": "35 mm",
+          "generique": [
+            "Michel Simon",
+            "Marguerite Pierry",
+            "François Guérin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Un homme d'affaires, dont la vie familiale est un échec, prend l'identité de son frère jumeau, un misérable coquin. Pour la deuxième fois, après _La Poison_, Guitry laisse sa place à Michel Simon au centre d'un film aussi acerbe que désespéré. L'acteur est doublement admirable dans l'histoire d'un bourgeois qui découvre que la vie d'un honnête homme est plus effroyable que celle d'un bon à rien."
+            }
+          ]
         }
       ],
       "textes": []
@@ -1853,7 +1853,12 @@
             "Fernand Ledoux",
             "Marguerite Pierry"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Court métrage réalisé pour la Nuit du cinéma au Gaumont-Palace, le 28 mars 1942. La loi qui donne son titre au film abaissait l'âge auquel on pouvait se marier sans le consentement de ses parents."
+            }
+          ]
         },
         {
           "idSeance": 200950,
@@ -1879,7 +1884,12 @@
             "Fernand Ledoux",
             "Marguerite Pierry"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Court métrage réalisé pour la Nuit du cinéma au Gaumont-Palace, le 28 mars 1942. La loi qui donne son titre au film abaissait l'âge auquel on pouvait se marier sans le consentement de ses parents."
+            }
+          ]
         },
         {
           "idSeance": 200981,
@@ -2045,6 +2055,38 @@
             {
               "typeTexte": 9,
               "texte": "Il est temps de sortir Sacha Guitry de deux cases : la « guitrophilie » stricte, et le théâtre. Pour montrer combien il est un cinéaste « plus large » que ça. Ici, à travers le portrait vertigineux d'un père comédien par son fils, c'est la question du sentiment qui peut nous montrer l'ampleur de Guitry cinéaste : combien il fut certes un homme plein d'esprit, mais aussi un artiste sentimental profond. — Axelle Ropert"
+            }
+          ]
+        },
+        {
+          "idSeance": 201067,
+          "ordre": 2,
+          "dateHeure": "2025-11-29T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 3903,
+          "idEvenement": 33984,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Emmanuel Mouret",
+          "duree": 60,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "C'est de la vitamine à l'état pur. Quand ça ne va pas, je me mets un film de Guitry. Pour reprendre une expression de Jacques Rancière, Guitry réjouit la vie. Lui aussi, comme Lubitsch, il nous rend intelligents. — Emmanuel Mouret"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Emmanuel Mouret",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
             }
           ]
         },

@@ -221,14 +221,21 @@
   * Tous à la manif  
   * Vers le sud
 
-## Le burlesque muet hollywoodien, les indispensables (24)
+## Le burlesque muet hollywoodien, les indispensables (34)
 
+  * A Small Town Idol  
   * April Fool  
   * Athlète incomplet (L')  
   * Bataille du siècle (La)  
   * Caméraman (Le)  
+  * Charlot danseur  
+  * Charlot est content de lui  
+  * Charlot fait une cure  
+  * Charlot patine  
   * Crazy Like a Fox  
   * Croisière du Navigator (La)  
+  * Émigrant (L')  
+  * Envers du cinéma (L')  
   * Fatty à la fête foraine  
   * Fatty cuisinier  
   * Fatty garçon boucher  
@@ -239,11 +246,14 @@
   * Kid (Le)  
   * Lumières de la ville (Les)  
   * Ma vache et moi  
+  * Mabel's Dramatic Career  
   * Monte là-dessus  
   * Œil pour œil  
   * Plein les bottes  
   * Ruée vers l'or (La)  
   * Sherlock Junior  
+  * Teddy at the Throttle  
+  * Un vrai chien de pique  
   * Vive la liberté  
   * Vive le sport !  
   * What Price Goofy?

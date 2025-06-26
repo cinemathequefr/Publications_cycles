@@ -1011,24 +1011,23 @@
   {
     "idCategorie": 3868,
     "typeEvenement": 13,
-    "idEvenement": 33742,
-    "idSeance": 200988,
+    "idEvenement": 33758,
+    "idSeance": 201069,
     "dateHeure": "2025-11-23T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 49106,
+        "idFilm": 49126,
         "ordre": 1,
-        "idSeance": 200988,
-        "idCopie": 30141,
-        "duree": 99,
+        "idSeance": 201069,
+        "idCopie": 30381,
+        "duree": 85,
         "version": "",
-        "format": "DCP",
-        "restauration": true
+        "format": "35 mm"
       }
     ]
   },
@@ -1081,23 +1080,24 @@
   {
     "idCategorie": 3868,
     "typeEvenement": 13,
-    "idEvenement": 33761,
-    "idSeance": 201005,
+    "idEvenement": 33742,
+    "idSeance": 201068,
     "dateHeure": "2025-11-26T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 105,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 49088,
+        "idFilm": 49106,
         "ordre": 1,
-        "idSeance": 201005,
-        "idCopie": 8732,
-        "duree": 78,
+        "idSeance": 201068,
+        "idCopie": 30141,
+        "duree": 99,
         "version": "",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -1220,24 +1220,42 @@
   {
     "idCategorie": 3868,
     "typeEvenement": 13,
-    "idEvenement": 33742,
-    "idSeance": 197557,
+    "idEvenement": 33761,
+    "idSeance": 201067,
     "dateHeure": "2025-11-29T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 105,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 49106,
+        "idFilm": 49088,
         "ordre": 1,
-        "idSeance": 197557,
-        "idCopie": 30141,
-        "duree": 99,
+        "idSeance": 201067,
+        "idCopie": 8732,
+        "duree": 78,
         "version": "",
-        "format": "DCP",
-        "restauration": true
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3903,
+    "typeEvenement": 14,
+    "idEvenement": 33984,
+    "idSeance": 201067,
+    "dateHeure": "2025-11-29T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
