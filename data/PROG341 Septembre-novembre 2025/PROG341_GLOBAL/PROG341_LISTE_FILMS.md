@@ -339,7 +339,7 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (87)
+## Orson Welles (84)
 
   * Affaire Dominici par Orson Welles (L')  
   * Around the World With Orson Welles: London  
@@ -391,14 +391,12 @@
   * Orson Welles, autopsie d'une légende  
   * Orson Welles' Don Quixote  
   * Orson Welles en el país de Don Quijote  
-  * Orson Welles' Jeremiah  
   * Orson Welles, l'homme-orchestre  
   * Orson Welles' London  
   * Orson Welles' Moby Dick  
   * Orson Welles on Stage in Dublin  
   * Orson Welles Over Europe  
   * Orson Welles Show (The)  
-  * Orson Welles' Shylock  
   * Orson Welles' Sketch Book  
   * Orson Welles' Sketch Book, episode 1: The Early Days  
   * Orson Welles' Sketch Book, episode 2: Critics  
@@ -420,7 +418,6 @@
   * Troisième Homme (Le)  
   * Un cri dans l'ombre  
   * Une histoire immortelle  
-  * Unsung Heroes  
   * Vérités et Mensonges  
   * Vérités et Mensonges (bande-annonce)  
   * Versiones de Campanadas a medianoche (Las)  

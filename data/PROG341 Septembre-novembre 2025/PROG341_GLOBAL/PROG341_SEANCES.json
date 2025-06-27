@@ -2580,7 +2580,7 @@
       {
         "idConf": 33718,
         "titre": "« Nous ne vieillirons pas ensemble »",
-        "sousTitre": "Lecture",
+        "sousTitre": "Lecture par Mathieu Amalric",
         "typeConference": "Lecture",
         "duree": 60
       }
@@ -6375,8 +6375,8 @@
     "hashEvenement": "f69470"
   },
   {
-    "idSeance": 200945,
-    "idEvenement": 34224,
+    "idSeance": 201080,
+    "idEvenement": 34290,
     "dateHeure": "2025-10-15T18:30:00",
     "salle": "JE",
     "cycle": [
@@ -6386,15 +6386,6 @@
       ]
     ],
     "items": [
-      {
-        "idFilm": 126451,
-        "titre": "Orson Welles' Shylock",
-        "realisateurs": "Orson Welles",
-        "annee": 1938,
-        "duree": 30,
-        "version": "VO",
-        "format": "Numérique"
-      },
       {
         "idFilm": 125186,
         "titre": "Citizen Kane (bande-annonce)",
@@ -6460,30 +6451,6 @@
         "format": "Numérique"
       },
       {
-        "idFilm": 125202,
-        "titre": "Orson Welles' Jeremiah",
-        "realisateurs": "Orson Welles",
-        "annee": 1978,
-        "duree": 4,
-        "version": "VOSTF",
-        "format": "Vidéo"
-      },
-      {
-        "idFilm": 126555,
-        "titre": "Nikka Whisky : publicité japonaise",
-        "realisateurs": "Anonyme",
-        "annee": 1979
-      },
-      {
-        "idFilm": 125204,
-        "titre": "Unsung Heroes",
-        "realisateurs": "Orson Welles",
-        "annee": 1979,
-        "duree": 5,
-        "version": "STF",
-        "format": "35 mm"
-      },
-      {
         "idFilm": 126554,
         "titre": "Nikka Whisky : Magic publicité japonaise",
         "realisateurs": "Anonyme",
@@ -6491,6 +6458,12 @@
         "duree": 1,
         "version": "VO",
         "format": "Numérique"
+      },
+      {
+        "idFilm": 126555,
+        "titre": "Nikka Whisky : publicité japonaise",
+        "realisateurs": "Anonyme",
+        "annee": 1979
       },
       {
         "idFilm": 125207,
@@ -6511,7 +6484,7 @@
         "format": "Numérique"
       }
     ],
-    "hashEvenement": "f126451f125186f36794f40759f125171f126556f125187f126527f125202f126555f125204f126554f125207f126557"
+    "hashEvenement": "f125186f36794f40759f125171f126556f125187f126527f126554f126555f125207f126557"
   },
   {
     "idSeance": 198239,
@@ -7388,31 +7361,6 @@
     "hashEvenement": "f30999"
   },
   {
-    "idSeance": 200953,
-    "idEvenement": 6669,
-    "dateHeure": "2025-10-22T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36828,
-        "titre": "Othello",
-        "realisateurs": "Orson Welles",
-        "annee": 1951,
-        "duree": 93,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f36828"
-  },
-  {
     "idSeance": 198234,
     "idEvenement": 33656,
     "dateHeure": "2025-10-22T18:30:00",
@@ -7893,10 +7841,6 @@
       [
         "Hafsia Herzi",
         "Hafsia Herzi cinéaste"
-      ],
-      [
-        "Hafsia Herzi",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -7916,15 +7860,9 @@
         "annee": 2019,
         "duree": 102,
         "format": "DCP"
-      },
-      {
-        "idConf": 34178,
-        "titre": "Dialogue avec Hafsia Herzi et Jérémie Attard",
-        "typeConference": "Dialogue",
-        "duree": 45
       }
     ],
-    "hashEvenement": "f147094f141851c34178"
+    "hashEvenement": "f147094f141851"
   },
   {
     "idSeance": 200966,
@@ -7950,6 +7888,27 @@
       }
     ],
     "hashEvenement": "f31057"
+  },
+  {
+    "idSeance": 198284,
+    "idEvenement": 34178,
+    "dateHeure": "2025-10-25T16:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Hafsia Herzi",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 34178,
+        "titre": "Dialogue avec Hafsia Herzi et Jérémie Attard",
+        "typeConference": "Dialogue",
+        "duree": 45
+      }
+    ],
+    "hashEvenement": "c34178"
   },
   {
     "idSeance": 198311,
@@ -9525,9 +9484,15 @@
         "duree": 27,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idFilm": 155367,
+        "titre": "Around the World With Orson Welles: Vienna",
+        "realisateurs": "Orson Welles",
+        "annee": 1955
       }
     ],
-    "hashEvenement": "f126505f126503f125189f126508"
+    "hashEvenement": "f126505f126503f125189f126508f155367"
   },
   {
     "idSeance": 201020,
@@ -9914,7 +9879,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Sigourney Weaver",
+    "mention": "Séance suivie d'une discussion avec Sigourney Weaver et Catherine Leterrier. Séance présentée par Sigourney Weaver et Catherine Leterrier",
     "items": [
       {
         "idFilm": 154833,
@@ -12270,27 +12235,6 @@
     "hashEvenement": "f49106"
   },
   {
-    "idSeance": 201055,
-    "idEvenement": 34277,
-    "dateHeure": "2025-11-26T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Films pour la télévision"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155367,
-        "titre": "Around the World With Orson Welles: Vienna",
-        "realisateurs": "Orson Welles",
-        "annee": 1955
-      }
-    ],
-    "hashEvenement": "f155367"
-  },
-  {
     "idSeance": 201006,
     "idEvenement": 33745,
     "dateHeure": "2025-11-26T20:00:00",
@@ -12464,30 +12408,6 @@
       }
     ],
     "hashEvenement": "f34576"
-  },
-  {
-    "idSeance": 198301,
-    "idEvenement": 7840,
-    "dateHeure": "2025-11-28T20:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 126241,
-        "titre": "Deep (The)",
-        "realisateurs": "Orson Welles",
-        "annee": 1967,
-        "duree": 120,
-        "version": "VOSTF",
-        "format": "Vidéo"
-      }
-    ],
-    "hashEvenement": "f126241"
   },
   {
     "idSeance": 198279,
