@@ -399,7 +399,7 @@
   * Rayon vert (Le)  
   * Sans toit ni loi
 
-## Séances spéciales (27)
+## Séances spéciales (28)
 
   * Alice Guy tourne une phonoscène  
   * Anna Ladd dans son atelier parisien  
@@ -419,6 +419,7 @@
   * Lina Esbrard, danse serpentine  
   * Mambo Dreams  
   * Matelas épileptique (Le)  
+  * Merlusse  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
   * Notre mémoire  

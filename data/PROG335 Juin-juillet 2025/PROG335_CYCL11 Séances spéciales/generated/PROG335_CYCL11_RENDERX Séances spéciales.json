@@ -460,6 +460,43 @@
       ]
     },
     {
+      "tri": 4,
+      "titreSousCycle": "Avant-première Marcel Pagnol",
+      "items": [
+        {
+          "idFilm": 50514,
+          "content": [
+            {
+              "idFilm": 50514,
+              "ordre": 1,
+              "titre": "Merlusse",
+              "realisateurs": "Marcel Pagnol",
+              "pays": "France",
+              "annee": 1935,
+              "duree": 68,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Henri Poupon",
+                "Rellys",
+                "André Pollack"
+              ],
+              "miniTexte": "Vacances de Noël au lycée Thiers de Marseille. Quelques orphelins et élèves « oubliés » sont gardés par un surveillant borgne, qui, sous des dehors terrifiants, cache une immense tendresse. Derrière les murs lugubres de l'école à l'atmosphère parfaitement restituée, une fable sensible qui possède l'étoffe d'un _Zéro de conduite_."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201076,
+              "dateHeure": "2025-07-22T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "tri": 2,
       "titreSousCycle": "Napoléon vu par Abel Gance",
       "items": [
@@ -535,10 +572,14 @@
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
       {
         "dateHeure": "2025-06-02T20:00:00",
         "titreFilms": "Mambo Dreams"
+      },
+      {
+        "dateHeure": "2025-07-22T20:00:00",
+        "titreFilms": "Merlusse"
       }
     ],
     "Séances présentées": [
