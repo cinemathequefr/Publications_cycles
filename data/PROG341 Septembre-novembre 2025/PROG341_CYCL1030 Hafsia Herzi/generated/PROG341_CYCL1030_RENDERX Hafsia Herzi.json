@@ -120,50 +120,68 @@
           ]
         },
         {
-          "idEvenement": 33827,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 147094,
-              "ordre": 1,
-              "titre": "Rodba",
-              "art": "Le",
-              "realisateurs": "Hafsia Herzi",
-              "pays": "France",
-              "annee": 2010,
-              "duree": 15,
-              "version": "",
-              "format": "Numérique",
-              "generique": [
-                "Abdelhamid Aktouche",
-                "Morjana Alaoui",
-                "Guillaume Gouix"
-              ],
-              "miniTexte": "Les débuts d'Hafsia Herzi derrière la caméra, une demande en mariage selon la tradition d'une famille maghrébine : le _rodba_, perturbé par les velléités de la petite sœur de filmer le rituel à tout prix."
+              "idEvenement": 33827,
+              "content": [
+                {
+                  "idFilm": 147094,
+                  "ordre": 1,
+                  "titre": "Rodba",
+                  "art": "Le",
+                  "realisateurs": "Hafsia Herzi",
+                  "pays": "France",
+                  "annee": 2010,
+                  "duree": 15,
+                  "version": "",
+                  "format": "Numérique",
+                  "generique": [
+                    "Abdelhamid Aktouche",
+                    "Morjana Alaoui",
+                    "Guillaume Gouix"
+                  ],
+                  "miniTexte": "Les débuts d'Hafsia Herzi derrière la caméra, une demande en mariage selon la tradition d'une famille maghrébine : le _rodba_, perturbé par les velléités de la petite sœur de filmer le rituel à tout prix."
+                },
+                {
+                  "idFilm": 141851,
+                  "ordre": 2,
+                  "titre": "Tu mérites un amour",
+                  "realisateurs": "Hafsia Herzi",
+                  "pays": "France",
+                  "annee": 2019,
+                  "duree": 102,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Hafsia Herzi",
+                    "Djanis Bouzyani",
+                    "Jérémie Laheurte"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Interprète et réalisatrice de son premier long métrage autoproduit, Hafsia Herzi signe une chronique sentimentale, sur la trame d'un chagrin d'amour qui pousse l'héroïne vers de nouvelles rencontres. Construit autour de confidences et de conseils amicaux, de coups de sang et d'élans de tendresse, son film, d'une justesse absolue, se lit comme une carte de l'intime, où chaque silence devient une réflexion intérieure sur la quête et l'estime de soi, à l'image du titre emprunté au poème de Frida Kahlo, d'une douceur incandescente."
+                }
+              ]
             },
             {
-              "idFilm": 141851,
-              "ordre": 2,
-              "titre": "Tu mérites un amour",
-              "realisateurs": "Hafsia Herzi",
-              "pays": "France",
-              "annee": 2019,
-              "duree": 102,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Hafsia Herzi",
-                "Djanis Bouzyani",
-                "Jérémie Laheurte"
+              "idEvenement": 34178,
+              "content": [
+                {
+                  "idConf": 34178,
+                  "ordre": 3,
+                  "titre": "Dialogue avec Hafsia Herzi, Jérémie Attard et Djanis Bouzyani",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Isaac Gaido-Daniel",
+                  "miniTexte": "« J'avais écrit ce scénario en parallèle d'autres projets en cours de développement, il traînait dans mes archives. Je me suis levée un matin prise d'un genre de pulsion incontrôlable. J'avais envie de tourner, tout de suite, sans contrainte, sans budget. Je fonctionne à l'instinct. Je n'avais rien à perdre, tout à gagner. Alors j'ai foncé. Dès les premières minutes du tournage, je savais que ce film était né sous une bonne étoile, je n'avais plus de doutes. » (Hafsia Herzi)"
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Interprète et réalisatrice de son premier long métrage autoproduit, Hafsia Herzi signe une chronique sentimentale, sur la trame d'un chagrin d'amour qui pousse l'héroïne vers de nouvelles rencontres. Construit autour de confidences et de conseils amicaux, de coups de sang et d'élans de tendresse, son film, d'une justesse absolue, se lit comme une carte de l'intime, où chaque silence devient une réflexion intérieure sur la quête et l'estime de soi, à l'image du titre emprunté au poème de Frida Kahlo, d'une douceur incandescente."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198120,
-              "dateHeure": "2025-10-25T14:45:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 198120,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-10-25T15:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -542,31 +560,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34178,
-          "content": [
-            {
-              "idConf": 34178,
-              "titre": "Dialogue avec Hafsia Herzi, Jérémie Attard et Djanis Bouzyani",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Isaac Gaido-Daniel",
-              "miniTexte": "« J'avais écrit ce scénario en parallèle d'autres projets en cours de développement, il traînait dans mes archives. Je me suis levée un matin prise d'un genre de pulsion incontrôlable. J'avais envie de tourner, tout de suite, sans contrainte, sans budget. Je fonctionne à l'instinct. Je n'avais rien à perdre, tout à gagner. Alors j'ai foncé. Dès les premières minutes du tournage, je savais que ce film était né sous une bonne étoile, je n'avais plus de doutes. » (Hafsia Herzi)"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198284,
-              "dateHeure": "2025-10-25T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -584,8 +577,9 @@
         "dateHeure": "2025-10-24T19:30:00"
       },
       {
+        "titreFilms": "Le Rodba / Tu mérites un amour",
         "mention": "avec Hafsia Herzi, Jérémie Attard et Djanis Bouzyani",
-        "dateHeure": "2025-10-25T16:30:00"
+        "dateHeure": "2025-10-25T15:00:00"
       }
     ],
     "Discussion": [

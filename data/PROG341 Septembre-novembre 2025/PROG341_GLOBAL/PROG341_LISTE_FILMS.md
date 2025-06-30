@@ -193,7 +193,7 @@
   * Strange Days  
   * Zero Dark Thirty
 
-## Laetitia Masson (10)
+## Laetitia Masson (9)
 
   * À vendre  
   * Chevrotine  
@@ -203,7 +203,6 @@
   * Love Me  
   * Petite fille  
   * Pourquoi (pas) le Brésil  
-  * Repentie (La)  
   * Un hiver en été
 
 ## Laurent Cantet (14)
@@ -344,12 +343,12 @@
   * Affaire Dominici par Orson Welles (L')  
   * Around the World With Orson Welles: London  
   * Around the World With Orson Welles: Madrid Bullfight  
-  * Around the World With Orson Welles: Pays Basque  
+  * Around the World With Orson Welles: Pays Basque I (The Basque Country)  
+  * Around the World With Orson Welles: Pays Basque II (La Pelote basque)  
   * Around the World With Orson Welles: Saint-Germain-des-Prés  
   * Around the World With Orson Welles: Vienna  
   * Cagliostro  
   * Citizen Kane  
-  * Citizen Kane (bande-annonce)  
   * Criminel (Le)  
   * Dame de Shanghaï (La)  
   * De l'autre côté du vent  
@@ -370,9 +369,7 @@
   * Fountain of Youth (The)  
   * Génie du mal (Le)  
   * Hearts of Age (The)  
-  * Hollywood Parade  
   * Homme qui a vu l'homme qui a vu l'ours (L')  
-  * I Love Lucy: Lucy Meets Orson Welles  
   * Ils m'aimeront quand je serai mort  
   * In the Land of Don Quixote : Flamenco Lesson  
   * It's All True: Based on an Unfinished Film by Orson Welles  
@@ -382,12 +379,13 @@
   * Labyrinthes de M. Arkadin (Les)  
   * Lettre du Kremlin (La)  
   * Macbeth  
-  * Magic Trick  
+  * Macbeth (version courte)  
   * Merchant of Venice (The)  
   * Moby Dick  
   * Nikka Whisky : Magic publicité japonaise  
   * Nikka Whisky : publicité japonaise  
   * Orson Welles  
+  * Orson Welles à la Cinémathèque française  
   * Orson Welles at Large : Portrait of Gina  
   * Orson Welles, autopsie d'une légende  
   * Orson Welles' Don Quixote  
@@ -407,7 +405,7 @@
   * Orson Welles' Sketch Book, episode 5: The War of the Worlds  
   * Orson Welles Talks with Roger Hill  
   * Orson Welles' The Golden Honeymoon  
-  * Orson Welles' « Voodoo » Macbeth  
+  * Orson Welles' Vienna  
   * Othello  
   * Procès (Le)  
   * Racines du ciel (Les)  
@@ -416,6 +414,7 @@
   * Salaire du diable (Le)  
   * Shakespeare et Orson Welles  
   * Soif du mal (La)  
+  * Soif du mal (version Walter Murch) (La)  
   * Spirit of Charles Lindbergh (The)  
   * Splendeur des Amberson (La)  
   * This Is Orson Welles  

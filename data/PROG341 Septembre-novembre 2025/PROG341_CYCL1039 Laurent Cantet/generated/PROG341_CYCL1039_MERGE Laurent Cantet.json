@@ -77,6 +77,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 150,
+          "mention": "Séance présentée par Marina Foïs",
           "idCategorie": 3914,
           "idEvenement": 34075,
           "typeEvenement": 13,
@@ -141,6 +142,39 @@
           "idSalle": [
             "HL",
             "Henri Langlois"
+          ],
+          "dureeSeance": 165,
+          "idCategorie": 3914,
+          "idEvenement": 34079,
+          "typeEvenement": 13,
+          "idFilm": 104532,
+          "titre": "Entre les murs",
+          "realisateurs": "Laurent Cantet",
+          "annee": 2007,
+          "pays": "France",
+          "duree": 130,
+          "version": "",
+          "format": "",
+          "generique": [
+            "François Bégaudeau",
+            "Burak Ozyilmaz",
+            "Boubacar Toure"
+          ],
+          "adaptation": "D'après le roman _Entre les murs_ de François Bégaudeau.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Adapté du roman éponyme de François Bégaudeau – formidable dans le rôle principal –, _Entre les murs_ se base sur sa propre expérience lorsqu'il enseignait dans une zone d'éducation prioritaire. À la manière d'un documentaire, Laurent Cantet montre la solitude d'un professeur qui cherche à susciter le débat et la rudesse de joutes verbales interrompues avec ses élèves. Débit mitraillette et tchatche bien affûtée, ils le défient sans cesse dans une fascinante peinture de l'école d'aujourd'hui, où l'appropriation du langage se heurte à la beauté de la transmission. Palme d'or à l'unanimité en 2008."
+            }
+          ]
+        },
+        {
+          "idSeance": 201094,
+          "ordre": 1,
+          "dateHeure": "2025-11-16T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 165,
           "idCategorie": 3914,
@@ -241,38 +275,7 @@
             "Georges Franju"
           ],
           "dureeSeance": 135,
-          "idCategorie": 3914,
-          "idEvenement": 34082,
-          "typeEvenement": 13,
-          "idFilm": 66169,
-          "titre": "Ressources humaines",
-          "realisateurs": "Laurent Cantet",
-          "annee": 1999,
-          "pays": "France",
-          "duree": 104,
-          "version": "",
-          "format": "35 mm",
-          "generique": [
-            "Jalil Lespert",
-            "Jean-Claude Vallod",
-            "Chantal Barré"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Exploration sobre et implacable du monde du travail, des conflits sociaux et intergénérationnels, _Ressources humaines_ suit un jeune diplômé d'école de commerce qui revient dans sa région natale pour effectuer un stage dans l'usine de son père ouvrier. Chargé d'une étude sur les 35 heures, le jeune homme découvre que sa mission sert en réalité de paravent à un plan de licenciements. Pour son premier long métrage sorti en salle, Cantet signe un drame social engagé, une œuvre forte, portée par des acteurs non professionnels, issus de l'entreprise, et consacre Jalil Lespert, dans un nouvel affrontement père-fils, initié avec le court _Jeux de plage_."
-            }
-          ]
-        },
-        {
-          "idSeance": 200944,
-          "ordre": 1,
-          "dateHeure": "2025-11-16T21:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 3914,
           "idEvenement": 34082,
           "typeEvenement": 13,
@@ -357,7 +360,7 @@
           "textes": [
             {
               "typeTexte": 1000,
-              "texte": "Épisode français de la collection « 2000 vu par » produite par Arte, le portrait d'un groupe de citadins qui, pour fuir le compte à rebours du nouveau millénaire, choisit de séjourner sur une île, loin des agitations médiatiques. Mais la quête de tranquillité laisse bientôt place aux disputes et aux désillusions. Premier long métrage du cinéaste, un huis clos propice à la réflexion existentielle et sociale."
+              "texte": "Épisode français de la collection « 2000 vu par » produite par Arte, le portrait d'un groupe de citadins qui, pour fuir le compte à rebours du nouveau millénaire, choisit de séjourner sur une île, loin de l'agitation médiatique. Mais la quête de tranquillité laisse bientôt place aux disputes et aux désillusions. Premier long métrage du cinéaste, un huis clos propice à la réflexion existentielle et sociale."
             }
           ]
         },
@@ -496,6 +499,47 @@
               "texte": "Un groupe de lycéens prépare une manifestation dans un café parisien, tenu par un père et son fils. Observateur discret, le jeune serveur tente de se mêler à eux. Les débuts du cinéaste, récompensés du Prix Jean-Vigo, préfigurent son intérêt pour les trajectoires individuelles face au collectif."
             }
           ]
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 201081,
+          "ordre": 2,
+          "dateHeure": "2025-11-08T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 75,
+          "typeAssoc": 118,
+          "idCategorie": 3953,
+          "idEvenement": 34337,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Annie Ernaux",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Annie Ernaux",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Frédéric Bonnaud",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Frédéric Bonnaud"
         }
       ],
       "textes": []

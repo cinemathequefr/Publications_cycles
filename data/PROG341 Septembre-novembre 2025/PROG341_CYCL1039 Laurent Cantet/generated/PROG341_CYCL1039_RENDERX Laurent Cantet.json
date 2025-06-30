@@ -94,7 +94,8 @@
             {
               "idSeance": 201083,
               "dateHeure": "2025-11-06T18:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Marina Foïs"
             }
           ]
         },
@@ -156,6 +157,11 @@
               "idSeance": 201082,
               "dateHeure": "2025-11-05T20:00:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 201094,
+              "dateHeure": "2025-11-16T21:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -219,37 +225,49 @@
           ]
         },
         {
-          "idFilm": 66169,
-          "content": [
+          "groupe": [
             {
               "idFilm": 66169,
-              "ordre": 1,
-              "titre": "Ressources humaines",
-              "realisateurs": "Laurent Cantet",
-              "pays": "France",
-              "annee": 1999,
-              "duree": 104,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Jalil Lespert",
-                "Jean-Claude Vallod",
-                "Chantal Barré"
-              ],
-              "isFocus": true,
-              "miniTexte": "Exploration sobre et implacable du monde du travail, des conflits sociaux et intergénérationnels, _Ressources humaines_ suit un jeune diplômé d'école de commerce qui revient dans sa région natale pour effectuer un stage dans l'usine de son père ouvrier. Chargé d'une étude sur les 35 heures, le jeune homme découvre que sa mission sert en réalité de paravent à un plan de licenciements. Pour son premier long métrage sorti en salle, Cantet signe un drame social engagé, une œuvre forte, portée par des acteurs non professionnels, issus de l'entreprise, et consacre Jalil Lespert, dans un nouvel affrontement père-fils, initié avec le court _Jeux de plage_."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 201081,
-              "dateHeure": "2025-11-08T15:00:00",
-              "idSalle": "GF"
+              "content": [
+                {
+                  "idFilm": 66169,
+                  "ordre": 1,
+                  "titre": "Ressources humaines",
+                  "realisateurs": "Laurent Cantet",
+                  "pays": "France",
+                  "annee": 1999,
+                  "duree": 104,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "Jalil Lespert",
+                    "Jean-Claude Vallod",
+                    "Chantal Barré"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Exploration sobre et implacable du monde du travail, des conflits sociaux et intergénérationnels, _Ressources humaines_ suit un jeune diplômé d'école de commerce qui revient dans sa région natale pour effectuer un stage dans l'usine de son père ouvrier. Chargé d'une étude sur les 35 heures, le jeune homme découvre que sa mission sert en réalité de paravent à un plan de licenciements. Pour son premier long métrage sorti en salle, Cantet signe un drame social engagé, une œuvre forte, portée par des acteurs non professionnels, issus de l'entreprise, et consacre Jalil Lespert, dans un nouvel affrontement père-fils, initié avec le court _Jeux de plage_."
+                }
+              ]
             },
             {
-              "idSeance": 200944,
-              "dateHeure": "2025-11-16T21:00:00",
-              "idSalle": "GF"
+              "idEvenement": 34337,
+              "content": [
+                {
+                  "idConf": 34337,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Annie Ernaux",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 201081,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-11-08T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -301,7 +319,7 @@
                 "Frédéric Pierrot",
                 "Catherine Baugué"
               ],
-              "miniTexte": "Épisode français de la collection « 2000 vu par » produite par Arte, le portrait d'un groupe de citadins qui, pour fuir le compte à rebours du nouveau millénaire, choisit de séjourner sur une île, loin des agitations médiatiques. Mais la quête de tranquillité laisse bientôt place aux disputes et aux désillusions. Premier long métrage du cinéaste, un huis clos propice à la réflexion existentielle et sociale."
+              "miniTexte": "Épisode français de la collection « 2000 vu par » produite par Arte, le portrait d'un groupe de citadins qui, pour fuir le compte à rebours du nouveau millénaire, choisit de séjourner sur une île, loin de l'agitation médiatique. Mais la quête de tranquillité laisse bientôt place aux disputes et aux désillusions. Premier long métrage du cinéaste, un huis clos propice à la réflexion existentielle et sociale."
             }
           ],
           "seances": [
@@ -414,5 +432,20 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Ressources humaines",
+        "mention": "avec Annie Ernaux",
+        "dateHeure": "2025-11-08T15:00:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "L'Atelier",
+        "mention": "par Marina Foïs",
+        "dateHeure": "2025-11-06T18:30:00"
+      }
+    ]
+  }
 }

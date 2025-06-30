@@ -100,29 +100,6 @@
   {
     "idCategorie": 3846,
     "typeEvenement": 13,
-    "idEvenement": 33671,
-    "idSeance": 201079,
-    "dateHeure": "2025-11-26T19:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 77801,
-        "ordre": 1,
-        "idSeance": 201079,
-        "idCopie": 30447,
-        "duree": 125,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3846,
-    "typeEvenement": 13,
     "idEvenement": 33670,
     "idSeance": 198217,
     "dateHeure": "2025-11-29T18:00:00",
@@ -168,31 +145,17 @@
     ]
   },
   {
-    "idCategorie": 3901,
-    "typeEvenement": 14,
-    "idEvenement": 33979,
-    "idSeance": 201041,
-    "dateHeure": "2025-11-30T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 60,
-    "items": [
-      {}
-    ]
-  },
-  {
     "idCategorie": 3922,
     "typeEvenement": 13,
     "idEvenement": 33673,
     "idSeance": 201074,
     "dateHeure": "2025-11-30T14:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "dureeSeance": 30,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 155306,
@@ -202,6 +165,24 @@
         "duree": 0,
         "version": "",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3901,
+    "typeEvenement": 14,
+    "idEvenement": 33979,
+    "idSeance": 201074,
+    "dateHeure": "2025-11-30T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 60,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },

@@ -203,7 +203,7 @@
               "seances": [
                 {
                   "idSeance": 196251,
-                  "dateHeure": "2025-10-11T20:30:00",
+                  "dateHeure": "2025-10-11T21:00:00",
                   "idSalle": "HL"
                 },
                 {
@@ -303,7 +303,14 @@
                   "idSeance": 198285,
                   "typeAssoc": 118,
                   "dateHeure": "2025-10-16T19:30:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 201077,
+                  "dateHeure": "2025-10-22T18:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
                 }
               ]
             }
@@ -319,7 +326,7 @@
               "realisateurs": "Orson Welles",
               "pays": "États-Unis",
               "annee": 1948,
-              "duree": 108,
+              "duree": 92,
               "version": "VOSTF",
               "format": "DCP",
               "adaptation": "D'après la pièce _Macbeth_ de William Shakespeare.",
@@ -337,36 +344,19 @@
               "idSeance": 198310,
               "dateHeure": "2025-10-10T20:30:00",
               "idSalle": "HL"
-            },
-            {
-              "idSeance": 200952,
-              "dateHeure": "2025-10-18T18:30:00",
-              "idSalle": "HL"
             }
           ]
         },
         {
-          "idEvenement": 7415,
+          "idFilm": 155431,
           "content": [
             {
-              "idFilm": 126240,
+              "idFilm": 155431,
               "ordre": 1,
-              "titre": "Orson Welles' « Voodoo » Macbeth",
-              "realisateurs": "Anonyme",
-              "pays": "États-Unis",
-              "annee": 1936,
-              "duree": 4,
-              "version": "VOSTF",
-              "format": "Numérique",
-              "miniTexte": "Captation de la fin du _Voodoo Macbeth_, première pièce de théâtre que Welles met en scène, en 1936, avec une troupe afro-américaine. Son premier grand succès."
-            },
-            {
-              "idFilm": 36823,
-              "ordre": 2,
-              "titre": "Macbeth",
+              "titre": "Macbeth (version courte)",
               "realisateurs": "Orson Welles",
               "pays": "États-Unis",
-              "annee": 1948,
+              "annee": 1950,
               "duree": 85,
               "version": "VOSTF",
               "format": "35 mm",
@@ -377,15 +367,14 @@
                 "Dan O'Herlihy",
                 "Edgar Barrier"
               ],
-              "miniTexte": "Première aventure shakespearienne du cinéaste portée à l'écran, _Macbeth_ s'impose comme une sombre incantation visuelle, exacerbée par des contraintes budgétaires. Tourné en seulement 23 jours dans un studio de séries B, le film dévoile une esthétique expressionniste, où décors en carton pâte et fumigènes prennent une dimension tellurique, tandis que Welles, dans le rôle du seigneur écossais, imprime sa marque de démiurge tourmenté."
+              "miniTexte": "Face aux difficultés commerciales de son _Macbeth_, Orson Welles procède à un remontage du film (raccourci de 21 minutes), et réenregistre une partie des dialogues pour éliminer l'accent écossais, jugé gênant à la compréhension."
             }
           ],
           "seances": [
             {
-              "idSeance": 198163,
-              "dateHeure": "2025-10-13T20:45:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par François Thomas"
+              "idSeance": 201105,
+              "dateHeure": "2025-10-18T18:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -424,7 +413,7 @@
                   "titre": "Shakespeare vu par Orson Welles : l'obsession magnifique",
                   "sousTitre": "Table ronde avec Simon Callow, Julie Vatain-Corfdir, François Thomas et Arthur Nauzyciel",
                   "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Frédéric Bonnaud",
+                  "mentionAnimation": "Animée par Frédéric Bonnaud",
                   "miniTexte": "« J'aimerais dire ceci : tout metteur en scène qui dirige une pièce ou un film shakespearien, tout acteur qui joue dans une pièce ou un film shakespearien ne peut en réaliser qu'une petite partie. Shakespeare est le plus grand homme qui ait jamais vécu, et nous, nous sommes de pauvres taupes qui travaillons sous terre. Tout ce que nous pouvons faire, c'est de saisir, de mordre un petit quelque chose, mais ce que nous saisissons doit être vrai et non pas dénaturé. Je suis tout à fait opposé à ce qu'on dénature une mise en scène shakespearienne. » (Orson Welles)\nTable ronde suivie d'une signature, à partir de 17h30 à la librairie de la Cinémathèque française, du catalogue de l'exposition _My Name Is Orson Welles_ et de l'ouvrage de François Thomas et Jean-Pierre Berthomé, _Leur Orson Welles : grands entretiens_ (Les Impressions Nouvelles, 2025)."
                 }
               ],
@@ -433,7 +422,14 @@
                   "idSeance": 198307,
                   "typeAssoc": 118,
                   "dateHeure": "2025-10-18T14:30:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 201103,
+                  "dateHeure": "2025-10-22T20:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
                 }
               ]
             }
@@ -509,42 +505,6 @@
               "realisateurs": "Orson Welles",
               "pays": "États-Unis",
               "annee": 1958,
-              "duree": 111,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true,
-              "adaptation": "D'après le roman _Manque de pot_ de Whit Masterson.",
-              "generique": [
-                "Charlton Heston",
-                "Janet Leigh",
-                "Orson Welles",
-                "Akim Tamiroff"
-              ],
-              "isFocus": true,
-              "miniTexte": "Une explosion, en guise d'exposition, plante avec intelligence le décor et installe les personnages. Janet Leigh, Marlene Dietrich dans son dernier grand film, à contre-emploi en diseuse de bonne aventure, Charlton Heston auréolé du succès des _Dix commandements_, et Welles, qui interprète le capitaine Quinlan. Rythme précis, caméra fiévreuse et, en ouverture, le plan-séquence le plus célèbre de l'histoire du cinéma. Loin de n'être qu'une nouvelle démonstration de la virtuosité de Welles, _La Soif du mal_ parle politique, pouvoir et manipulation. Explore les frontières poreuses entre Mexique et États-Unis, entre le crime et la loi. C'est surtout un film à tiroirs, qui contient et résume toute la complexité de son réalisateur, ses contradictions, ses passions. Troublant et vénéneux."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 196453,
-              "dateHeure": "2025-10-19T14:30:00",
-              "idSalle": "HL",
-              "mention": "Séance présentée par François Thomas"
-            }
-          ]
-        },
-        {
-          "idFilm": 36834,
-          "content": [
-            {
-              "idFilm": 36834,
-              "ordre": 1,
-              "titre": "Soif du mal",
-              "art": "La",
-              "titreVo": "Touch of Evil",
-              "realisateurs": "Orson Welles",
-              "pays": "États-Unis",
-              "annee": 1958,
               "duree": 95,
               "version": "VOSTF",
               "format": "35 mm",
@@ -563,6 +523,40 @@
             {
               "idSeance": 196267,
               "dateHeure": "2025-10-12T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 155429,
+          "content": [
+            {
+              "idFilm": 155429,
+              "ordre": 1,
+              "titre": "Soif du mal (version Walter Murch)",
+              "art": "La",
+              "titreVo": "Touch of Evil",
+              "realisateurs": "Orson Welles",
+              "pays": "États-Unis",
+              "annee": 1998,
+              "duree": 111,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après le roman _Manque de pot_ de Whit Masterson.",
+              "generique": [
+                "Charlton Heston",
+                "Janet Leigh",
+                "Orson Welles",
+                "Akim Tamiroff"
+              ],
+              "miniTexte": "Pour le quarantième anniversaire de _La Soif du mal_, un remontage du film par Walter Murch, fondé sur les notes de travail de Welles."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201093,
+              "dateHeure": "2025-10-19T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -609,10 +603,17 @@
               ],
               "seances": [
                 {
+                  "idSeance": 201102,
+                  "dateHeure": "2025-10-11T19:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
+                },
+                {
                   "idSeance": 198290,
                   "typeAssoc": 118,
                   "dateHeure": "2025-10-26T14:30:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
                 }
               ]
             }
@@ -675,13 +676,8 @@
           ],
           "seances": [
             {
-              "idSeance": 198306,
-              "dateHeure": "2025-10-11T19:00:00",
-              "idSalle": "HL"
-            },
-            {
               "idSeance": 196438,
-              "dateHeure": "2025-10-18T20:45:00",
+              "dateHeure": "2025-10-18T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -747,6 +743,11 @@
               "idSeance": 196454,
               "dateHeure": "2025-10-19T17:15:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 201099,
+              "dateHeure": "2025-11-26T20:45:00",
+              "idSalle": "GF"
             }
           ]
         }
@@ -909,9 +910,9 @@
           ],
           "seances": [
             {
-              "idSeance": 198054,
-              "dateHeure": "2025-10-22T20:00:00",
-              "idSalle": "HL"
+              "idSeance": 201104,
+              "dateHeure": "2025-10-13T20:45:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -948,10 +949,11 @@
     },
     {
       "tri": 3,
-      "titreSousCycle": "[Programmes Drössler]",
+      "titreSousCycle": "Programmes du Filmmuseum München",
+      "texteSousCycle": "[Ces programmes ont été conçus par Stefan Drössler, directeur du Filmmuseum München (Allemagne)...]",
       "items": [
         {
-          "idEvenement": 34089,
+          "idEvenement": 34307,
           "titreEvenement": "Programme 1",
           "content": [
             {
@@ -967,17 +969,21 @@
               "miniTexte": "Un tremblement de terre, une première au Gate Theatre de Dublin et comment Welles est devenu acteur : premier épisode de la série _Sketch Book_, réalisée pour la BBC, dans laquelle le cinéaste évoque divers souvenirs et anecdotes, qu'il commente et illustre de sa main."
             },
             {
-              "idFilm": 125280,
+              "idFilm": 40759,
               "ordre": 2,
-              "titre": "Orson Welles at Large : Portrait of Gina",
-              "titreVo": "Viva Italia: Portrait of Gina",
-              "realisateurs": "Orson Welles",
-              "pays": "États-Unis",
-              "annee": 1956,
-              "duree": 27,
-              "version": "VOSTF",
+              "titre": "Return to Glennascaul",
+              "realisateurs": "Hilton Edwards",
+              "pays": "Grande-Bretagne",
+              "annee": 1951,
+              "duree": 23,
+              "version": "VO",
               "format": "Numérique",
-              "miniTexte": "Réalisé pour la télévision, _Viva Italia_ transporte le spectateur en Italie, à travers un montage d'images et d'effets sonores, à la recherche de Gina Lollobrigida."
+              "generique": [
+                "Michael Laurence",
+                "Shelah Richards",
+                "Helena Hughes"
+              ],
+              "miniTexte": "Welles quitte le tournage d'_Othello_ en voiture. Sur sa route, il prend un auto-stoppeur et lui raconte une mystérieuse histoire de fantômes dans un manoir irlandais."
             },
             {
               "idFilm": 125190,
@@ -999,19 +1005,17 @@
               "miniTexte": "Pilote pour une série télévisée jamais produite. Racontée par Welles lui-même, l'histoire d'un couple tenté par la jeunesse éternelle, promise par un amant jaloux. D'après la nouvelle de John Collier, _Youth from Vienna_."
             },
             {
-              "idFilm": 75066,
+              "idFilm": 125280,
               "ordre": 4,
-              "titre": "Orson Welles' London",
+              "titre": "Orson Welles at Large : Portrait of Gina",
+              "titreVo": "Viva Italia: Portrait of Gina",
               "realisateurs": "Orson Welles",
               "pays": "États-Unis",
-              "annee": 1968,
-              "duree": 30,
+              "annee": 1956,
+              "duree": 27,
               "version": "VOSTF",
               "format": "Numérique",
-              "generique": [
-                "Orson Welles"
-              ],
-              "miniTexte": "Orson Welles interprète plusieurs personnages dans un programme comique de cinq épisodes, réalisé pour la télévision : _Churchill_, _Swinging London_, _Four Clubmen_, _Stately Homes_ et _Tailors_."
+              "miniTexte": "Réalisé pour la télévision, _Viva Italia_ transporte le spectateur en Italie, à travers un montage d'images et d'effets sonores, à la recherche de Gina Lollobrigida."
             }
           ],
           "seances": [
@@ -1079,7 +1083,7 @@
           ]
         },
         {
-          "idEvenement": 34096,
+          "idEvenement": 34312,
           "titreEvenement": "Programme 3",
           "content": [
             {
@@ -1099,20 +1103,22 @@
                 "Jeanne Moreau",
                 "Laurence Harvey"
               ],
-              "miniTexte": "À la fin des années 60, Orson Welles tourne une adaptation du roman de Charles Williams, _Dead Calm_, sur un voilier au large de la côte dalmate, avec Jeanne Moreau, Laurence Harvey et Oja Kodar. Pour diverses raisons, le tournage est maintes fois suspendu, et définitivement abandonné à la mort de Laurence Harvey en 1973. Le même roman est adapté par Philip Noyce (_Calme blanc_) en 1989, avec Nicole Kidman et Sam Neill. L'élément projeté est une copie de travail."
+              "miniTexte": "Sur un voilier au large de la côte dalmate, une adaptation du roman de Charles Williams, _Dead Calm_. Pour diverses raisons, le tournage est maintes fois suspendu et définitivement abandonné à la mort de Laurence Harvey en 1973. L'élément projeté est une copie de travail."
             },
             {
-              "idFilm": 125205,
+              "idFilm": 75066,
               "ordre": 2,
-              "titre": "Merchant of Venice",
-              "art": "The",
+              "titre": "Orson Welles' London",
               "realisateurs": "Orson Welles",
-              "pays": "États-Unis-Italie-Espagne",
-              "annee": 1969,
-              "duree": 35,
-              "version": "VO",
-              "format": "DCP",
-              "miniTexte": "Une courte version de la pièce de Shakespeare, produite dans le cadre de l'émission télévisée de Welles, _Orson's Bag_, abandonnée."
+              "pays": "États-Unis",
+              "annee": 1968,
+              "duree": 30,
+              "version": "VOSTF",
+              "format": "Numérique",
+              "generique": [
+                "Orson Welles"
+              ],
+              "miniTexte": "Orson Welles interprète plusieurs personnages dans un programme comique de cinq épisodes, réalisé pour la télévision : _Churchill_, _Swinging London_, _Four Clubmen_, _Stately Homes_ et _Tailors_."
             },
             {
               "idFilm": 126147,
@@ -1147,9 +1153,9 @@
           ],
           "seances": [
             {
-              "idSeance": 198177,
-              "dateHeure": "2025-11-02T15:00:00",
-              "idSalle": "JE"
+              "idSeance": 201098,
+              "dateHeure": "2025-11-26T18:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1229,14 +1235,14 @@
           ],
           "seances": [
             {
-              "idSeance": 198179,
-              "dateHeure": "2025-11-02T19:30:00",
+              "idSeance": 201091,
+              "dateHeure": "2025-11-03T19:30:00",
               "idSalle": "JE"
             }
           ]
         },
         {
-          "idEvenement": 34105,
+          "idEvenement": 34329,
           "titreEvenement": "Programme 6",
           "content": [
             {
@@ -1264,15 +1270,16 @@
               "miniTexte": "Afin de financer son _Don Quichotte_, Welles réalise, pour la Rai, une série de neuf épisodes sur ses voyages en Espagne avec sa femme Paola Mori et leur fille Beatrice. Parmi les séquences les plus fameuses, la leçon de flamenco de Beatrice."
             },
             {
-              "idFilm": 155367,
+              "idFilm": 75063,
               "ordre": 3,
-              "titre": "Around the World With Orson Welles: Vienna",
+              "titre": "Orson Welles' Vienna",
               "realisateurs": "Orson Welles",
-              "pays": "Grande-Bretagne",
-              "annee": 1955,
-              "duree": 9,
-              "version": "VOSTF",
-              "format": "DCP"
+              "pays": "États-Unis",
+              "annee": 1968,
+              "generique": [
+                "Orson Welles"
+              ],
+              "miniTexte": "Épisode inachevé du projet _Orson's Bag_, dans lequel Welles traverse quelques villes européennes. À Vienne, il tombe sous le charme des pâtisseries autrichiennes."
             },
             {
               "idFilm": 125201,
@@ -1339,59 +1346,40 @@
           ]
         },
         {
-          "idEvenement": 34290,
-          "titreEvenement": "[Orson Welles' Shylock & King Lear]",
+          "idEvenement": 34318,
+          "titreEvenement": "Programme 7",
           "content": [
             {
-              "idFilm": 125186,
+              "idFilm": 125205,
               "ordre": 1,
-              "titre": "Citizen Kane (bande-annonce)",
+              "titre": "Merchant of Venice",
+              "art": "The",
               "realisateurs": "Orson Welles",
-              "pays": "États-Unis",
-              "annee": 1941,
-              "duree": 4,
+              "pays": "États-Unis-Italie-Espagne",
+              "annee": 1969,
+              "duree": 35,
               "version": "VO",
-              "format": "Numérique"
+              "format": "DCP",
+              "miniTexte": "Une courte version de la pièce de Shakespeare, produite dans le cadre de l'émission télévisée de Welles, _Orson's Bag_, abandonnée."
             },
             {
-              "idFilm": 36794,
+              "idFilm": 125207,
               "ordre": 2,
-              "titre": "Hollywood Parade",
-              "titreVo": "Follow the Boys",
-              "realisateurs": "A. Edward Sutherland",
-              "pays": "États-Unis",
-              "annee": 1943,
-              "duree": 9,
+              "titre": "King Lear Tape",
+              "realisateurs": "Orson Welles",
+              "pays": "France",
+              "annee": 1983,
+              "duree": 6,
               "version": "VO",
               "format": "Numérique",
               "generique": [
-                "George Raft",
-                "Vera Zorina",
-                "Grace McDonald",
                 "Orson Welles"
               ],
-              "miniTexte": "Durant la Seconde Guerre mondiale, le studio Universal Pictures réunit toutes ses stars devant la caméra pour une comédie musicale, afin de remonter le moral des troupes et des civils."
-            },
-            {
-              "idFilm": 40759,
-              "ordre": 3,
-              "titre": "Return to Glennascaul",
-              "realisateurs": "Hilton Edwards",
-              "pays": "Grande-Bretagne",
-              "annee": 1951,
-              "duree": 23,
-              "version": "VO",
-              "format": "Numérique",
-              "generique": [
-                "Michael Laurence",
-                "Shelah Richards",
-                "Helena Hughes"
-              ],
-              "miniTexte": "Welles quitte le tournage d'_Othello_ en voiture. Sur sa route, il prend un auto-stoppeur et lui raconte une mystérieuse histoire de fantômes dans un manoir irlandais."
+              "miniTexte": "Devant la caméra, Orson Welles expose à de futurs investisseurs son ambitieux projet de réaliser une version du _Roi Lear_ de Shakespeare, pour laquelle il possède déjà un budget et un scénario intégral. Le film ne pourra pas être réalisé."
             },
             {
               "idFilm": 125171,
-              "ordre": 4,
+              "ordre": 3,
               "titre": "King Lear in New York",
               "realisateurs": "Andrew McCullough",
               "pays": "États-Unis",
@@ -1408,41 +1396,8 @@
               "miniTexte": "Orson Welles joue _Le Roi Lear_ pour la télévision américaine."
             },
             {
-              "idFilm": 126556,
-              "ordre": 5,
-              "titre": "Magic Trick",
-              "realisateurs": "Orson Welles",
-              "pays": "États-Unis",
-              "annee": 1953,
-              "duree": 2,
-              "version": "VO",
-              "format": "Numérique",
-              "generique": [
-                "Richard Himber",
-                "Orson Welles"
-              ],
-              "miniTexte": "Court métrage réalisé pour un spectacle de Richard Himber, où le cinéaste et le magicien se livrent à un tour de cartes sur et hors écran."
-            },
-            {
-              "idFilm": 125187,
-              "ordre": 6,
-              "titre": "I Love Lucy: Lucy Meets Orson Welles",
-              "realisateurs": "James V. Kern",
-              "pays": "États-Unis",
-              "annee": 1956,
-              "duree": 29,
-              "version": "VO",
-              "format": "Numérique",
-              "generique": [
-                "Lucille Ball",
-                "Desi Arnaz",
-                "Orson Welles"
-              ],
-              "miniTexte": "Guest star dans la sitcom _I Love Lucy_, Welles se présente comme un magicien, expert de Shakespeare. Il demande l'assistance de Lucy pour un tour."
-            },
-            {
               "idFilm": 126527,
-              "ordre": 7,
+              "ordre": 4,
               "titre": "Dean Martin Show, saison 4, épisode 2 (extrait)",
               "art": "The",
               "realisateurs": "Greg Garrison",
@@ -1455,7 +1410,7 @@
             },
             {
               "idFilm": 126554,
-              "ordre": 8,
+              "ordre": 5,
               "titre": "Nikka Whisky : Magic publicité japonaise",
               "titreVo": "Nikka Whisky : Magic",
               "realisateurs": "Anonyme",
@@ -1470,7 +1425,7 @@
             },
             {
               "idFilm": 126555,
-              "ordre": 9,
+              "ordre": 6,
               "titre": "Nikka Whisky : publicité japonaise",
               "titreVo": "Nikka Whisky : Marlene Dietrich",
               "realisateurs": "Anonyme",
@@ -1481,23 +1436,8 @@
               ]
             },
             {
-              "idFilm": 125207,
-              "ordre": 10,
-              "titre": "King Lear Tape",
-              "realisateurs": "Orson Welles",
-              "pays": "France",
-              "annee": 1983,
-              "duree": 6,
-              "version": "VO",
-              "format": "Numérique",
-              "generique": [
-                "Orson Welles"
-              ],
-              "miniTexte": "Devant la caméra, Orson Welles expose à de futurs investisseurs son ambitieux projet de réaliser une version du _Roi Lear_ de Shakespeare, pour laquelle il possède déjà un budget et un scénario intégral. Le film ne pourra pas être réalisé."
-            },
-            {
               "idFilm": 126557,
-              "ordre": 11,
+              "ordre": 7,
               "titre": "Welles in Cannes 1983",
               "realisateurs": "Anonyme",
               "pays": "France",
@@ -1510,9 +1450,9 @@
           ],
           "seances": [
             {
-              "idSeance": 201080,
-              "dateHeure": "2025-10-15T18:30:00",
-              "idSalle": "JE"
+              "idSeance": 201078,
+              "dateHeure": "2025-11-28T20:30:00",
+              "idSalle": "GF"
             }
           ]
         }
@@ -1528,7 +1468,7 @@
             {
               "idFilm": 126505,
               "ordre": 1,
-              "titre": "Around the World With Orson Welles: Pays Basque",
+              "titre": "Around the World With Orson Welles: Pays Basque I (The Basque Country)",
               "realisateurs": "Orson Welles",
               "pays": "Grande-Bretagne",
               "annee": 1955,
@@ -1537,26 +1477,26 @@
               "format": "35 mm"
             },
             {
-              "idFilm": 126503,
+              "idFilm": 155433,
               "ordre": 2,
-              "titre": "Around the World With Orson Welles: Madrid Bullfight",
+              "titre": "Around the World With Orson Welles: Pays Basque II (La Pelote basque)",
               "realisateurs": "Orson Welles",
               "pays": "Grande-Bretagne",
               "annee": 1955,
-              "duree": 28,
+              "duree": 26,
               "version": "VOSTF",
-              "format": "35 mm"
+              "format": "DCP"
             },
             {
-              "idFilm": 125189,
+              "idFilm": 155367,
               "ordre": 3,
-              "titre": "Around the World With Orson Welles: London",
+              "titre": "Around the World With Orson Welles: Vienna",
               "realisateurs": "Orson Welles",
               "pays": "Grande-Bretagne",
               "annee": 1955,
-              "duree": 28,
+              "duree": 27,
               "version": "VOSTF",
-              "format": "35 mm"
+              "format": "DCP"
             },
             {
               "idFilm": 126508,
@@ -1570,12 +1510,26 @@
               "format": "35 mm"
             },
             {
-              "idFilm": 155367,
+              "idFilm": 125189,
               "ordre": 5,
-              "titre": "Around the World With Orson Welles: Vienna",
+              "titre": "Around the World With Orson Welles: London",
               "realisateurs": "Orson Welles",
               "pays": "Grande-Bretagne",
-              "annee": 1955
+              "annee": 1955,
+              "duree": 28,
+              "version": "VOSTF",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 126503,
+              "ordre": 6,
+              "titre": "Around the World With Orson Welles: Madrid Bullfight",
+              "realisateurs": "Orson Welles",
+              "pays": "Grande-Bretagne",
+              "annee": 1955,
+              "duree": 28,
+              "version": "VOSTF",
+              "format": "35 mm"
             }
           ],
           "seances": [
@@ -2343,6 +2297,33 @@
           ]
         },
         {
+          "idFilm": 125173,
+          "content": [
+            {
+              "idFilm": 125173,
+              "ordre": 1,
+              "titre": "Orson Welles à la Cinémathèque française",
+              "realisateurs": "Pierre-André Boutang, Guy Seligmann",
+              "pays": "France",
+              "annee": 1983,
+              "duree": 97,
+              "version": "VOSTF",
+              "format": "16 mm",
+              "generique": [
+                "Orson Welles"
+              ],
+              "miniTexte": "En 1982, invité à Paris pour être décoré de la Légion d'honneur et pour présider la cérémonie des Césars, Orson Welles dialogue avec le public de la Cinémathèque, composé essentiellement de jeunes auditeurs."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201100,
+              "dateHeure": "2025-10-15T19:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 126688,
           "content": [
             {
@@ -2600,19 +2581,9 @@
     ],
     "Séances présentées": [
       {
-        "titreFilms": "Orson Welles' « Voodoo » Macbeth / Macbeth",
-        "mention": "par François Thomas",
-        "dateHeure": "2025-10-13T20:45:00"
-      },
-      {
         "titreFilms": "Une histoire immortelle",
         "mention": "par François Thomas",
         "dateHeure": "2025-10-17T18:00:00"
-      },
-      {
-        "titreFilms": "La Soif du mal",
-        "mention": "par François Thomas",
-        "dateHeure": "2025-10-19T14:30:00"
       },
       {
         "titreFilms": "La Décade prodigieuse",
