@@ -339,7 +339,7 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (84)
+## Orson Welles (89)
 
   * Affaire Dominici par Orson Welles (L')  
   * Around the World With Orson Welles: London  
@@ -374,6 +374,7 @@
   * Homme qui a vu l'homme qui a vu l'ours (L')  
   * I Love Lucy: Lucy Meets Orson Welles  
   * Ils m'aimeront quand je serai mort  
+  * In the Land of Don Quixote : Flamenco Lesson  
   * It's All True: Based on an Unfinished Film by Orson Welles  
   * Jane Eyre  
   * King Lear in New York  
@@ -393,6 +394,7 @@
   * Orson Welles en el país de Don Quijote  
   * Orson Welles, l'homme-orchestre  
   * Orson Welles' London  
+  * Orson Welles' Magic Show  
   * Orson Welles' Moby Dick  
   * Orson Welles on Stage in Dublin  
   * Orson Welles Over Europe  
@@ -401,8 +403,10 @@
   * Orson Welles' Sketch Book, episode 1: The Early Days  
   * Orson Welles' Sketch Book, episode 2: Critics  
   * Orson Welles' Sketch Book, episode 3: The Police  
+  * Orson Welles' Sketch Book, episode 4: People I Miss  
   * Orson Welles' Sketch Book, episode 5: The War of the Worlds  
   * Orson Welles Talks with Roger Hill  
+  * Orson Welles' The Golden Honeymoon  
   * Orson Welles' « Voodoo » Macbeth  
   * Othello  
   * Procès (Le)  
@@ -412,6 +416,7 @@
   * Salaire du diable (Le)  
   * Shakespeare et Orson Welles  
   * Soif du mal (La)  
+  * Spirit of Charles Lindbergh (The)  
   * Splendeur des Amberson (La)  
   * This Is Orson Welles  
   * Too Much Johnson  
