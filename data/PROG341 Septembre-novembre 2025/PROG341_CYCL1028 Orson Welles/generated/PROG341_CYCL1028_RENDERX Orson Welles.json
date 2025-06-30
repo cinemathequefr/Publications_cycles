@@ -257,37 +257,55 @@
           ]
         },
         {
-          "idFilm": 36804,
-          "content": [
+          "groupe": [
             {
               "idFilm": 36804,
-              "ordre": 1,
-              "titre": "Falstaff",
-              "titreVo": "Campanadas a medianoche",
-              "realisateurs": "Orson Welles",
-              "pays": "Espagne-Suisse",
-              "annee": 1966,
-              "duree": 117,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true,
-              "adaptation": "D'après les pièces _Richard II_, _Henri IV_, _Henry V_ et _Les Joyeuses commères de Windsor_ de William Shakespeare.",
-              "generique": [
-                "Orson Welles",
-                "Jeanne Moreau",
-                "Marina Vlady",
-                "Keith Baxter",
-                "John Gielgud"
-              ],
-              "isFocus": true,
-              "miniTexte": "Bouquet final de l'extraordinaire filmographie d'Orson Welles, _Falstaff_ suit les mauvaises fréquentations du Prince de Galles – héritier d'Henry IV sur le trône d'Angleterre –, tiraillé entre son destin et son amitié avec un truculent chevalier. Rascal vieillissant, ivrogne et fanfaron, compagnon de débauche jovial et finalement tragique, le personnage de Shakespeare trouve toute sa démesure dans la mise en scène du cinéaste, proprement extraordinaire, à l'instar de l'incroyable scène de bataille qui divise le film en deux : 392 plans en 17 minutes."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 36804,
+                  "ordre": 1,
+                  "titre": "Falstaff",
+                  "titreVo": "Campanadas a medianoche",
+                  "realisateurs": "Orson Welles",
+                  "pays": "Espagne-Suisse",
+                  "annee": 1966,
+                  "duree": 117,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "restauration": true,
+                  "adaptation": "D'après les pièces _Richard II_, _Henri IV_, _Henry V_ et _Les Joyeuses commères de Windsor_ de William Shakespeare.",
+                  "generique": [
+                    "Orson Welles",
+                    "Jeanne Moreau",
+                    "Marina Vlady",
+                    "Keith Baxter",
+                    "John Gielgud"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Bouquet final de l'extraordinaire filmographie d'Orson Welles, _Falstaff_ suit les mauvaises fréquentations du Prince de Galles – héritier d'Henry IV sur le trône d'Angleterre –, tiraillé entre son destin et son amitié avec un truculent chevalier. Rascal vieillissant, ivrogne et fanfaron, compagnon de débauche jovial et finalement tragique, le personnage de Shakespeare trouve toute sa démesure dans la mise en scène du cinéaste, proprement extraordinaire, à l'instar de l'incroyable scène de bataille qui divise le film en deux : 392 plans en 17 minutes."
+                }
+              ]
+            },
             {
-              "idSeance": 198285,
-              "dateHeure": "2025-10-16T19:30:00",
-              "idSalle": "HL"
+              "idEvenement": 33973,
+              "content": [
+                {
+                  "idConf": 33973,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Simon Callow",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud",
+                  "miniTexte": "Il fut en mesure de réaliser des films en Europe, dont, en 1962, une version post-bombe H du _Procès_ de Kafka, à l'austérité radicale, accueillie respectueusement et suivie, en 1966, du film qu'il considérait comme son chef-d'œuvre, _Falstaff_. Lequel se fit sabrer par la plupart des critiques britanniques et américains à sa sortie – à la vibrante exception de l'influente Pauline Kael, qui décrivit Welles, dans _The New Republic_, comme « la grande force créatrice du cinéma américain de notre temps ». — Simon Callow"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 198285,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-10-16T19:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -929,132 +947,6 @@
       ]
     },
     {
-      "tri": 2,
-      "titreSousCycle": "Films pour la télévision",
-      "items": [
-        {
-          "idEvenement": 7714,
-          "content": [
-            {
-              "idFilm": 126505,
-              "ordre": 1,
-              "titre": "Around the World With Orson Welles: Pays Basque",
-              "realisateurs": "Orson Welles",
-              "pays": "Grande-Bretagne",
-              "annee": 1955,
-              "duree": 28,
-              "version": "VOSTF",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 126503,
-              "ordre": 2,
-              "titre": "Around the World With Orson Welles: Madrid Bullfight",
-              "realisateurs": "Orson Welles",
-              "pays": "Grande-Bretagne",
-              "annee": 1955,
-              "duree": 28,
-              "version": "VOSTF",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 125189,
-              "ordre": 3,
-              "titre": "Around the World With Orson Welles: London",
-              "realisateurs": "Orson Welles",
-              "pays": "Grande-Bretagne",
-              "annee": 1955,
-              "duree": 28,
-              "version": "VOSTF",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 126508,
-              "ordre": 4,
-              "titre": "Around the World With Orson Welles: Saint-Germain-des-Prés",
-              "realisateurs": "Orson Welles",
-              "pays": "Grande-Bretagne",
-              "annee": 1955,
-              "duree": 27,
-              "version": "VOSTF",
-              "format": "35 mm"
-            },
-            {
-              "idFilm": 155367,
-              "ordre": 5,
-              "titre": "Around the World With Orson Welles: Vienna",
-              "realisateurs": "Orson Welles",
-              "pays": "Grande-Bretagne",
-              "annee": 1955
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 200935,
-              "dateHeure": "2025-11-03T16:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 125200,
-          "content": [
-            {
-              "idFilm": 125200,
-              "ordre": 1,
-              "titre": "Orson Welles Show",
-              "art": "The",
-              "realisateurs": "Orson Welles",
-              "pays": "États-Unis",
-              "annee": 1978,
-              "duree": 74,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Burt Reynolds",
-                "Jim Henson",
-                "Frank Oz",
-                "Orson Welles"
-              ],
-              "miniTexte": "Pilote de talk-show animé par Orson Welles, avec des interviews de célébrités et des numéros de magie."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197375,
-              "dateHeure": "2025-11-22T18:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 125188,
-          "content": [
-            {
-              "idFilm": 125188,
-              "ordre": 1,
-              "titre": "Orson Welles' Sketch Book",
-              "titreVo": "Orson Welles' Sketch Book",
-              "realisateurs": "Orson Welles",
-              "pays": "Grande-Bretagne",
-              "annee": 1955,
-              "duree": 90,
-              "version": "VOSTF",
-              "format": "Vidéo",
-              "miniTexte": "Série de six courts télévisés pour la BBC en 1955. Écrits et réalisés par Welles, les épisodes de 15 minutes traitent de divers souvenirs et anecdotes, qu'il commente et illustre de sa main."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 200946,
-              "dateHeure": "2025-11-09T20:00:00",
-              "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "tri": 3,
       "titreSousCycle": "[Programmes Drössler]",
       "items": [
@@ -1620,6 +1512,132 @@
             {
               "idSeance": 201080,
               "dateHeure": "2025-10-15T18:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
+      "titreSousCycle": "Films pour la télévision",
+      "items": [
+        {
+          "idEvenement": 7714,
+          "content": [
+            {
+              "idFilm": 126505,
+              "ordre": 1,
+              "titre": "Around the World With Orson Welles: Pays Basque",
+              "realisateurs": "Orson Welles",
+              "pays": "Grande-Bretagne",
+              "annee": 1955,
+              "duree": 28,
+              "version": "VOSTF",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 126503,
+              "ordre": 2,
+              "titre": "Around the World With Orson Welles: Madrid Bullfight",
+              "realisateurs": "Orson Welles",
+              "pays": "Grande-Bretagne",
+              "annee": 1955,
+              "duree": 28,
+              "version": "VOSTF",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 125189,
+              "ordre": 3,
+              "titre": "Around the World With Orson Welles: London",
+              "realisateurs": "Orson Welles",
+              "pays": "Grande-Bretagne",
+              "annee": 1955,
+              "duree": 28,
+              "version": "VOSTF",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 126508,
+              "ordre": 4,
+              "titre": "Around the World With Orson Welles: Saint-Germain-des-Prés",
+              "realisateurs": "Orson Welles",
+              "pays": "Grande-Bretagne",
+              "annee": 1955,
+              "duree": 27,
+              "version": "VOSTF",
+              "format": "35 mm"
+            },
+            {
+              "idFilm": 155367,
+              "ordre": 5,
+              "titre": "Around the World With Orson Welles: Vienna",
+              "realisateurs": "Orson Welles",
+              "pays": "Grande-Bretagne",
+              "annee": 1955
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200935,
+              "dateHeure": "2025-11-03T16:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 125200,
+          "content": [
+            {
+              "idFilm": 125200,
+              "ordre": 1,
+              "titre": "Orson Welles Show",
+              "art": "The",
+              "realisateurs": "Orson Welles",
+              "pays": "États-Unis",
+              "annee": 1978,
+              "duree": 74,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Burt Reynolds",
+                "Jim Henson",
+                "Frank Oz",
+                "Orson Welles"
+              ],
+              "miniTexte": "Pilote de talk-show animé par Orson Welles, avec des interviews de célébrités et des numéros de magie."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197375,
+              "dateHeure": "2025-11-22T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 125188,
+          "content": [
+            {
+              "idFilm": 125188,
+              "ordre": 1,
+              "titre": "Orson Welles' Sketch Book",
+              "titreVo": "Orson Welles' Sketch Book",
+              "realisateurs": "Orson Welles",
+              "pays": "Grande-Bretagne",
+              "annee": 1955,
+              "duree": 90,
+              "version": "VOSTF",
+              "format": "Vidéo",
+              "miniTexte": "Série de six courts télévisés pour la BBC en 1955. Écrits et réalisés par Welles, les épisodes de 15 minutes traitent de divers souvenirs et anecdotes, qu'il commente et illustre de sa main."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200946,
+              "dateHeure": "2025-11-09T20:00:00",
               "idSalle": "JE"
             }
           ]
@@ -2538,31 +2556,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 33973,
-          "content": [
-            {
-              "idConf": 33973,
-              "titre": "Dialogue avec Simon Callow",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Frédéric Bonnaud",
-              "miniTexte": "Il fut en mesure de réaliser des films en Europe, dont, en 1962, une version post-bombe H du _Procès_ de Kafka, à l'austérité radicale, accueillie respectueusement et suivie, en 1966, du film qu'il considérait comme son chef-d'œuvre, _Falstaff_. Lequel se fit sabrer par la plupart des critiques britanniques et américains à sa sortie – à la vibrante exception de l'influente Pauline Kael, qui décrivit Welles, dans _The New Republic_, comme « la grande force créatrice du cinéma américain de notre temps ». — Simon Callow"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197948,
-              "dateHeure": "2025-10-16T21:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -2580,8 +2573,9 @@
         "dateHeure": "2025-10-11T14:30:00"
       },
       {
+        "titreFilms": "Falstaff",
         "mention": "avec Simon Callow",
-        "dateHeure": "2025-10-16T21:00:00"
+        "dateHeure": "2025-10-16T19:30:00"
       },
       {
         "titreFilms": "Othello",
