@@ -180,8 +180,9 @@
   * Un dimanche comme les autres  
   * Yanks
 
-## Kathryn Bigelow (10)
+## Kathryn Bigelow (11)
 
+  * A House of Dynamite  
   * Aux frontières de l'aube  
   * Blue Steel  
   * Démineurs  
@@ -339,7 +340,7 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (91)
+## Orson Welles (90)
 
   * Affaire Dominici par Orson Welles (L')  
   * Around the World With Orson Welles: London  
@@ -385,7 +386,6 @@
   * Merchant of Venice (The)  
   * Moby Dick  
   * Nikka Whisky : Magic publicité japonaise  
-  * Nikka Whisky : publicité japonaise  
   * Orson Welles  
   * Orson Welles à la Cinémathèque française  
   * Orson Welles at Large : Portrait of Gina  
@@ -416,7 +416,7 @@
   * RoGoPaG  
   * Salaire du diable (Le)  
   * Shakespeare et Orson Welles  
-  * Soif du mal (La)  
+  * Soif du mal (version 1958) (La)  
   * Soif du mal (version Walter Murch) (La)  
   * Spirit of Charles Lindbergh (The)  
   * Splendeur des Amberson (La)  

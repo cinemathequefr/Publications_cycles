@@ -399,15 +399,17 @@
   * Rayon vert (Le)  
   * Sans toit ni loi
 
-## Séances spéciales (28)
+## Séances spéciales (30)
 
   * Alice Guy tourne une phonoscène  
   * Anna Ladd dans son atelier parisien  
   * Aussi loin que mon enfance  
+  * Bel Companho  
   * Chant magique du renard (Le)  
   * Chiko-tan, ma promise  
   * Contre l'oubli : Pour Febe Elisabeth Velásquez, El Salvador  
   * Elles  
+  * Engloutie (L')  
   * Essais d'acteurs : Ève Francis  
   * Falling Leaves  
   * Fleurs et taupes  
