@@ -257,6 +257,38 @@
           ]
         },
         {
+          "idFilm": 42223,
+          "content": [
+            {
+              "idFilm": 42223,
+              "ordre": 1,
+              "titre": "Étoile du Sud",
+              "art": "L'",
+              "realisateurs": "Sidney Hayers",
+              "pays": "France-Grande-Bretagne",
+              "annee": 1968,
+              "duree": 104,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _L'Étoile du Sud_ de Jules Verne.",
+              "generique": [
+                "Ursula Andress",
+                "George Segal",
+                "Orson Welles",
+                "Michel Constantin"
+              ],
+              "miniTexte": "Dans les contrées sauvages de l'Afrique en 1900, des aventuriers partent à la recherche du diamant le plus précieux du monde. Une comédie d'aventures basée sur un roman de Jules Verne, avec le couple George Segal-Ursula Andress, éblouissant, et Orson Welles en ancien chef de la sécurité alcoolique."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201064,
+              "dateHeure": "2025-11-21T21:15:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "groupe": [
             {
               "idFilm": 36804,
@@ -348,7 +380,7 @@
           ]
         },
         {
-          "idFilm": 155431,
+          "idEvenement": 34304,
           "content": [
             {
               "idFilm": 155431,
@@ -368,6 +400,18 @@
                 "Edgar Barrier"
               ],
               "miniTexte": "Face aux difficultés commerciales de son _Macbeth_, Orson Welles procède à un remontage du film (raccourci de 21 minutes), et réenregistre une partie des dialogues pour éliminer l'accent écossais, jugé gênant à la compréhension."
+            },
+            {
+              "idFilm": 126240,
+              "ordre": 2,
+              "titre": "Orson Welles' « Voodoo » Macbeth",
+              "realisateurs": "Anonyme",
+              "pays": "États-Unis",
+              "annee": 1936,
+              "duree": 4,
+              "version": "VOSTF",
+              "format": "Numérique",
+              "miniTexte": "Captation de la fin du _Voodoo Macbeth_, première pièce de théâtre que Welles met en scène, en 1936, avec une troupe afro-américaine. Son premier grand succès."
             }
           ],
           "seances": [
@@ -616,6 +660,36 @@
                   "mentionAssoc": "Film + dialogue"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "idFilm": 73541,
+          "content": [
+            {
+              "idFilm": 73541,
+              "ordre": 1,
+              "titre": "Trois pour un massacre",
+              "titreVo": "Tepepa",
+              "realisateurs": "Giulio Petroni",
+              "pays": "Italie",
+              "annee": 1968,
+              "duree": 132,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Orson Welles",
+                "Tomas Milian",
+                "John Steiner"
+              ],
+              "miniTexte": "Sur le point d'être exécuté par les sbires du colonel Cascorro, le révolutionnaire mexicain Tepepa est sauvé par un étrange gentleman anglais. Rare incursion d'Orson Welles dans un « western zapata », signé de l'un des meilleurs scénaristes de cinéma politique, Franco Solinas. Vengeance et luttes de classes, sur une partition d'Ennio Morricone, et un western du genre à redécouvrir."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201063,
+              "dateHeure": "2025-11-21T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1274,7 +1348,7 @@
               "titre": "Orson Welles' Vienna",
               "realisateurs": "Orson Welles",
               "pays": "États-Unis",
-              "annee": 1968,
+              "annee": 1969,
               "generique": [
                 "Orson Welles"
               ],

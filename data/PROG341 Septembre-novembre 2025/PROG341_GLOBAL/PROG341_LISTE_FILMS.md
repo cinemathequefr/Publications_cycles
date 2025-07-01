@@ -193,7 +193,7 @@
   * Strange Days  
   * Zero Dark Thirty
 
-## Laetitia Masson (9)
+## Laetitia Masson (10)
 
   * À vendre  
   * Chevrotine  
@@ -203,6 +203,7 @@
   * Love Me  
   * Petite fille  
   * Pourquoi (pas) le Brésil  
+  * Repentie (La)  
   * Un hiver en été
 
 ## Laurent Cantet (14)
@@ -338,7 +339,7 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (89)
+## Orson Welles (90)
 
   * Affaire Dominici par Orson Welles (L')  
   * Around the World With Orson Welles: London  
@@ -406,6 +407,7 @@
   * Orson Welles Talks with Roger Hill  
   * Orson Welles' The Golden Honeymoon  
   * Orson Welles' Vienna  
+  * Orson Welles' « Voodoo » Macbeth  
   * Othello  
   * Procès (Le)  
   * Racines du ciel (Les)  
