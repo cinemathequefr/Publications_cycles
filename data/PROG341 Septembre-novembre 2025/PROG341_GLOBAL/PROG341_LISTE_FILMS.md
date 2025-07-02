@@ -4,11 +4,12 @@
 
   * Sous la terre
 
-## Aujourd'hui le cinéma (24)
+## Aujourd'hui le cinéma (25)
 
   * Alcools  
   * Araucaria  
   * Charbon de terre  
+  * Croisade d'Anne Buridan (La)  
   * Dieu est timide  
   * Fille de l'eau  
   * Fortune  
