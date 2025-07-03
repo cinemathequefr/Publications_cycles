@@ -510,9 +510,10 @@
   * Une carte du monde  
   * Working Girl
 
-## Séances spéciales (3)
+## Séances spéciales (4)
 
   * À bout de souffle  
+  * Fuori  
   * Lettre à l'enfant que tu nous as donné  
   * Nouvelle Vague
 

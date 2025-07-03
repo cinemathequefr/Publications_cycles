@@ -96,7 +96,50 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Avant-première Mario Martone",
+      "items": [
+        {
+          "idFilm": 155432,
+          "content": [
+            {
+              "idFilm": 155432,
+              "ordre": 1,
+              "titre": "Fuori",
+              "realisateurs": "Mario Martone",
+              "pays": "Italie-France",
+              "annee": 2025,
+              "duree": 115,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Valeria Golino",
+                "Matilda De Angelis",
+                "Corrado Fortuna"
+              ],
+              "miniTexte": "Condamnée à la prison pour un vol de bijoux, Goliarda Sapienza, autrice du magistral _L'Art de la joie_, fait de cette expérience l'occasion d'une profonde réflexion humaine et littéraire. Porté par le souffle de l'intellectuelle anarchiste, et de sa talentueuse interprète Valeria Golino, Martone signe, plus qu'un biopic, une histoire de vitalité, de sororité et de liberté."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201126,
+              "dateHeure": "2025-11-16T20:00:00",
+              "idSalle": "HL",
+              "mention": ""
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2025-11-16T20:00:00",
+        "titreFilms": "Fuori"
+      }
+    ]
+  }
 }
