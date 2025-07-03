@@ -341,7 +341,7 @@
   * Van Gogh  
   * Villages d'enfants
 
-## Orson Welles (90)
+## Orson Welles (89)
 
   * Affaire Dominici par Orson Welles (L')  
   * Around the World With Orson Welles: London  
@@ -391,7 +391,6 @@
   * Orson Welles à la Cinémathèque française  
   * Orson Welles at Large : Portrait of Gina  
   * Orson Welles, autopsie d'une légende  
-  * Orson Welles' Don Quixote  
   * Orson Welles en el país de Don Quijote  
   * Orson Welles, l'homme-orchestre  
   * Orson Welles' London  
