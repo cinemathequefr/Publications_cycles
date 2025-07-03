@@ -9878,6 +9878,38 @@
     "hashEvenement": "f137192"
   },
   {
+    "idSeance": 201130,
+    "idEvenement": 6687,
+    "dateHeure": "2025-11-06T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Orson Welles",
+        "Autour d'Orson Welles"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79280,
+        "titre": "Orson Welles",
+        "realisateurs": "François Reichenbach, Frédéric Rossif",
+        "annee": 1968,
+        "duree": 24,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 126170,
+        "titre": "Vive le cinéma ! Jeanne Moreau",
+        "realisateurs": "Jacques Rozier",
+        "annee": 1972,
+        "duree": 30,
+        "version": "VOSTF",
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f79280f126170"
+  },
+  {
     "idSeance": 196914,
     "idEvenement": 30813,
     "dateHeure": "2025-11-06T20:00:00",
@@ -11298,9 +11330,9 @@
     "hashEvenement": "f45589"
   },
   {
-    "idSeance": 198193,
-    "idEvenement": 6687,
-    "dateHeure": "2025-11-16T16:00:00",
+    "idSeance": 200947,
+    "idEvenement": 34190,
+    "dateHeure": "2025-11-16T15:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -11310,24 +11342,16 @@
     ],
     "items": [
       {
-        "idFilm": 79280,
-        "titre": "Orson Welles",
-        "realisateurs": "François Reichenbach, Frédéric Rossif",
-        "annee": 1968,
-        "duree": 24,
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 126170,
-        "titre": "Vive le cinéma ! Jeanne Moreau",
-        "realisateurs": "Jacques Rozier",
-        "annee": 1972,
-        "duree": 30,
+        "idFilm": 155402,
+        "titre": "Ils m'aimeront quand je serai mort",
+        "realisateurs": "Morgan Neville",
+        "annee": 2018,
+        "duree": 98,
         "version": "VOSTF",
-        "format": "Numérique"
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f79280f126170"
+    "hashEvenement": "f155402"
   },
   {
     "idSeance": 201086,
@@ -11352,58 +11376,9 @@
     "hashEvenement": "f118206"
   },
   {
-    "idSeance": 200947,
-    "idEvenement": 34190,
-    "dateHeure": "2025-11-16T17:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Orson Welles",
-        "Autour d'Orson Welles"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155402,
-        "titre": "Ils m'aimeront quand je serai mort",
-        "realisateurs": "Morgan Neville",
-        "annee": 2018,
-        "duree": 98,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155402"
-  },
-  {
-    "idSeance": 201126,
-    "idEvenement": 34334,
-    "dateHeure": "2025-11-16T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Séances spéciales",
-        "Avant-première Mario Martone"
-      ]
-    ],
-    "mention": "Avant-première",
-    "items": [
-      {
-        "idFilm": 155432,
-        "titre": "Fuori",
-        "realisateurs": "Mario Martone",
-        "annee": 2025,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155432"
-  },
-  {
     "idSeance": 198194,
     "idEvenement": 7807,
-    "dateHeure": "2025-11-16T20:00:00",
+    "dateHeure": "2025-11-16T18:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -11433,6 +11408,31 @@
       }
     ],
     "hashEvenement": "f126693f126178"
+  },
+  {
+    "idSeance": 201126,
+    "idEvenement": 34334,
+    "dateHeure": "2025-11-16T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Avant-première Mario Martone"
+      ]
+    ],
+    "mention": "Avant-première",
+    "items": [
+      {
+        "idFilm": 155432,
+        "titre": "Fuori",
+        "realisateurs": "Mario Martone",
+        "annee": 2025,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155432"
   },
   {
     "idSeance": 201094,
