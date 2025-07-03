@@ -635,7 +635,7 @@
   {
     "idCategorie": 3874,
     "typeEvenement": 13,
-    "idEvenement": 7555,
+    "idEvenement": 34360,
     "idSeance": 198165,
     "dateHeure": "2025-10-20T20:45:00",
     "idSalle": [
@@ -654,13 +654,13 @@
         "format": "16 mm"
       },
       {
-        "idFilm": 59241,
+        "idFilm": 30277,
         "ordre": 2,
         "idSeance": 198165,
-        "idCopie": 1991,
-        "duree": 70,
-        "version": "",
-        "format": "35 mm"
+        "idCopie": 302,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -934,7 +934,7 @@
   {
     "idCategorie": 3874,
     "typeEvenement": 13,
-    "idEvenement": 6658,
+    "idEvenement": 34360,
     "idSeance": 196656,
     "dateHeure": "2025-10-27T19:00:00",
     "idSalle": [
@@ -944,13 +944,22 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 30277,
+        "idFilm": 68684,
         "ordre": 1,
+        "idSeance": 196656,
+        "idCopie": 1990,
+        "duree": 18,
+        "version": "",
+        "format": "16 mm"
+      },
+      {
+        "idFilm": 30277,
+        "ordre": 2,
         "idSeance": 196656,
         "idCopie": 302,
         "duree": 80,
         "version": "VOSTF",
-        "format": "Vidéo"
+        "format": "DCP"
       }
     ]
   },
