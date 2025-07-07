@@ -181,8 +181,9 @@
   * Un dimanche comme les autres  
   * Yanks
 
-## Kathryn Bigelow (10)
+## Kathryn Bigelow (11)
 
+  * A House of Dynamite  
   * Aux frontières de l'aube  
   * Blue Steel  
   * Démineurs  
