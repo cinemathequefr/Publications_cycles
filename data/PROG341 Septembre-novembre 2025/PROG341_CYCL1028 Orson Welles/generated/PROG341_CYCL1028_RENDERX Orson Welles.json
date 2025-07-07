@@ -213,7 +213,7 @@
                 "Loretta Young",
                 "Orson Welles"
               ],
-              "miniTexte": "Un criminel de guerre nazi (Welles) coule des jours heureux dans une bourgade paisible du Connecticut, lorsqu'un agent du FBI (Robinson) retrouve sa trace. Si le film est longtemps passé pour une commande de Hollywood, impersonnelle, il porte bien la marque fiévreuse du cinéaste. Réalisé entre _La Splendeur des Amberson_ et _La Dame de Shanghaï_, le thriller se mue en mélodrame freudien, dans une exploration du mal fascinante du début jusqu'à la fin."
+              "miniTexte": "Un criminel de guerre nazi (Welles) coule des jours heureux dans une bourgade paisible du Connecticut, lorsqu'un agent du FBI (Robinson) retrouve sa trace. Si le film est longtemps passé pour une commande de Hollywood, impersonnelle, il porte bien la marque fiévreuse du cinéaste. Réalisé entre _La Splendeur des Amberson_ et _La Dame de Shanghaï_, le thriller se mue en mélodrame freudien. Une exploration du mal fascinante du début jusqu'à la fin."
             }
           ],
           "seances": [
@@ -251,7 +251,7 @@
                 "Akim Tamiroff",
                 "Suzanne Flon"
               ],
-              "miniTexte": "Pouvoir, corruption, mensonges et quête d'identité, l'enquête vertigineuse d'un contrebandier de pacotille, manipulé par un milliardaire insaisissable. Conte noir auréolé de mystères, _Dossier secret_ dresse le portrait d'un monstre de cinéma, à mi-chemin entre _Citizen Kane_ et _Le Troisième Homme_, dans une production wellesienne aussi intrigante que son personnage."
+              "miniTexte": "Pouvoir, corruption, mensonges et quête d'identité, l'enquête vertigineuse d'un contrebandier de pacotille, manipulé par un milliardaire insaisissable. Conte noir auréolé de mystères, _Dossier secret_ dresse le portrait d'un monstre de cinéma, à mi-chemin entre _Citizen Kane_ et _Le Troisième Homme_. Une production wellesienne aussi intrigante que son personnage."
             }
           ],
           "seances": [
@@ -1342,6 +1342,7 @@
         },
         {
           "idEvenement": 34346,
+          "titreEvenement": "Programme 7",
           "content": [
             {
               "idFilm": 125205,
@@ -1580,7 +1581,7 @@
       ]
     },
     {
-      "tri": 2,
+      "tri": 1,
       "titreSousCycle": "Orson Welles acteur",
       "items": [
         {
@@ -1649,7 +1650,7 @@
           ]
         },
         {
-          "idEvenement": 34360,
+          "idFilm": 68684,
           "content": [
             {
               "idFilm": 68684,
@@ -1668,27 +1669,16 @@
                 "Orson Welles",
                 "Simone de Beauvoir"
               ],
-              "miniTexte": "Tableau de la faune hétéroclite de Saint-Germain-des-Prés au lendemain de la guerre."
-            },
-            {
-              "idFilm": 30277,
-              "ordre": 2,
-              "titre": "Salaire du diable",
-              "art": "Le",
-              "titreVo": "Man in the Shadow",
-              "realisateurs": "Jack Arnold",
-              "pays": "États-Unis",
-              "annee": 1956,
-              "duree": 80,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Orson Welles",
-                "Jeff Chandler",
-                "Colleen Miller",
-                "Ben Alexander"
-              ],
-              "miniTexte": "Une petite ville du Texas vit sous la coupe d'un riche propriétaire omnipotent. Lorsqu'un travailleur mexicain est tué, le shérif tente de prouver la culpabilité du despote et de rendre la justice. Aux confins du western, une série B au ton inusité, sur la terreur organisée et la lâcheté collective."
+              "miniTexte": "Tableau de la faune hétéroclite de Saint-Germain-des-Prés au lendemain de la guerre.",
+              "precedeSuivi": [
+                [],
+                [
+                  [
+                    "Salaire du diable",
+                    "Le"
+                  ]
+                ]
+              ]
             }
           ],
           "seances": [
@@ -1998,6 +1988,52 @@
               "dateHeure": "2025-10-25T20:15:00",
               "idSalle": "GF",
               "mention": "Séance présentée par Élias Hérody"
+            }
+          ]
+        },
+        {
+          "idFilm": 30277,
+          "content": [
+            {
+              "idFilm": 30277,
+              "ordre": 2,
+              "titre": "Salaire du diable",
+              "art": "Le",
+              "titreVo": "Man in the Shadow",
+              "realisateurs": "Jack Arnold",
+              "pays": "États-Unis",
+              "annee": 1956,
+              "duree": 80,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Orson Welles",
+                "Jeff Chandler",
+                "Colleen Miller",
+                "Ben Alexander"
+              ],
+              "miniTexte": "Une petite ville du Texas vit sous la coupe d'un riche propriétaire omnipotent. Lorsqu'un travailleur mexicain est tué, le shérif tente de prouver la culpabilité du despote et de rendre la justice. Aux confins du western, une série B au ton inusité, sur la terreur organisée et la lâcheté collective.",
+              "precedeSuivi": [
+                [
+                  [
+                    "Désordre",
+                    null
+                  ]
+                ],
+                []
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198165,
+              "dateHeure": "2025-10-20T20:45:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 196656,
+              "dateHeure": "2025-10-27T19:00:00",
+              "idSalle": "JE"
             }
           ]
         },
