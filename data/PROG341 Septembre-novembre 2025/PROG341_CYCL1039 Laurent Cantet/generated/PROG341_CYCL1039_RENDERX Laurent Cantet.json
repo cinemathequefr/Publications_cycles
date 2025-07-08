@@ -19,7 +19,7 @@
               "realisateurs": "Benicio del Toro, Pablo Trapero, Julio Medem, Elia Suleiman, Gaspar Noé, Juan Carlos Tabío, Laurent Cantet",
               "pays": "France-Espagne",
               "annee": 2012,
-              "duree": 17,
+              "duree": 19,
               "version": "VOSTF",
               "format": "DCP",
               "generique": [
@@ -227,50 +227,32 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 66169,
+          "content": [
             {
               "idFilm": 66169,
-              "content": [
-                {
-                  "idFilm": 66169,
-                  "ordre": 1,
-                  "titre": "Ressources humaines",
-                  "realisateurs": "Laurent Cantet",
-                  "pays": "France",
-                  "annee": 1999,
-                  "duree": 100,
-                  "version": "",
-                  "format": "DCP",
-                  "generique": [
-                    "Jalil Lespert",
-                    "Jean-Claude Vallod",
-                    "Chantal Barré"
-                  ],
-                  "isFocus": true,
-                  "miniTexte": "Exploration sobre et implacable du monde du travail, des conflits sociaux et intergénérationnels, _Ressources humaines_ suit un jeune diplômé d'école de commerce qui revient dans sa région natale pour effectuer un stage dans l'usine de son père ouvrier. Chargé d'une étude sur les 35 heures, le jeune homme découvre que sa mission sert en réalité de paravent à un plan de licenciements. Pour son premier long métrage sorti en salle, Cantet signe un drame social engagé, une œuvre forte, portée par des acteurs non professionnels, issus de l'entreprise, et consacre Jalil Lespert, dans un nouvel affrontement père-fils, initié avec le court _Jeux de plage_."
-                }
-              ]
-            },
-            {
-              "idEvenement": 34337,
-              "content": [
-                {
-                  "idConf": 34337,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Annie Ernaux",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Frédéric Bonnaud",
-                  "miniTexte": "« La honte de sa propre honte condamne aussi au silence. Ce que j'ai aimé dans le film, c'est qu'il n'est jamais question de ce sentiment-là parce qu'il est trop honteux à dire, sauf quand il éclate comme une gerbe et que tout est dit, mais tout cela ne peut pas se dire, cette honte d'être, et cela se marque par des humiliations. » (Annie Ernaux, recontre avec Laurent Cantet sur le thème de « la honte »)"
-                }
+              "ordre": 1,
+              "titre": "Ressources humaines",
+              "realisateurs": "Laurent Cantet",
+              "pays": "France",
+              "annee": 1999,
+              "duree": 100,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Jalil Lespert",
+                "Jean-Claude Vallod",
+                "Chantal Barré"
               ],
-              "seances": [
-                {
-                  "idSeance": 201081,
-                  "typeAssoc": 118,
-                  "dateHeure": "2025-11-08T15:00:00",
-                  "idSalle": "GF"
-                }
-              ]
+              "isFocus": true,
+              "miniTexte": "Exploration sobre et implacable du monde du travail, des conflits sociaux et intergénérationnels, _Ressources humaines_ suit un jeune diplômé d'école de commerce qui revient dans sa région natale pour effectuer un stage dans l'usine de son père ouvrier. Chargé d'une étude sur les 35 heures, le jeune homme découvre que sa mission sert en réalité de paravent à un plan de licenciements. Pour son premier long métrage sorti en salle, Cantet signe un drame social engagé, une œuvre forte, portée par des acteurs non professionnels, issus de l'entreprise, et consacre Jalil Lespert, dans un nouvel affrontement père-fils, initié avec le court _Jeux de plage_."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201081,
+              "dateHeure": "2025-11-08T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -434,14 +416,38 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34337,
+          "content": [
+            {
+              "idConf": 34337,
+              "titre": "Dialogue avec Annie Ernaux",
+              "typeConference": "Dialogue",
+              "mentionAnimation": "Animé par Frédéric Bonnaud",
+              "miniTexte": "« La honte de sa propre honte condamne aussi au silence. Ce que j'ai aimé dans le film, c'est qu'il n'est jamais question de ce sentiment-là parce qu'il est trop honteux à dire, sauf quand il éclate comme une gerbe et que tout est dit, mais tout cela ne peut pas se dire, cette honte d'être, et cela se marque par des humiliations. » (Annie Ernaux, recontre avec Laurent Cantet sur le thème de « la honte »)"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201097,
+              "dateHeure": "2025-11-08T16:45:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
-        "titreFilms": "Ressources humaines",
         "mention": "avec Annie Ernaux",
-        "dateHeure": "2025-11-08T15:00:00"
+        "dateHeure": "2025-11-08T16:45:00"
       }
     ],
     "Discussion": [
