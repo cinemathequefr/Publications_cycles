@@ -9758,6 +9758,16 @@
         "format": "DCP"
       },
       {
+        "idFilm": 87377,
+        "titre": "Envers du cinéma",
+        "art": "L'",
+        "realisateurs": "Earle Rodney",
+        "annee": 1926,
+        "duree": 26,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
         "idFilm": 72190,
         "titre": "Mabel's Dramatic Career",
         "realisateurs": "Mack Sennett",
@@ -9780,19 +9790,9 @@
         "duree": 19,
         "version": "INT. FR.",
         "format": "DCP"
-      },
-      {
-        "idFilm": 87377,
-        "titre": "Envers du cinéma",
-        "art": "L'",
-        "realisateurs": "Earle Rodney",
-        "annee": 1926,
-        "duree": 26,
-        "version": "INT. FR.",
-        "format": "DCP"
       }
     ],
-    "hashEvenement": "f80983f72190f80467f155419f87377"
+    "hashEvenement": "f80983f87377f72190f80467f155419"
   },
   {
     "idSeance": 198183,
@@ -10050,7 +10050,7 @@
         "annee": 1928,
         "duree": 69,
         "version": "INT. FR.",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f36675"
@@ -10215,10 +10215,43 @@
     "hashEvenement": "f155326f63594f52922f155327f155328"
   },
   {
-    "idSeance": 198172,
-    "idEvenement": 6668,
+    "idSeance": 201081,
+    "idEvenement": 34082,
     "dateHeure": "2025-11-08T14:30:00",
     "salle": "HL",
+    "cycle": [
+      [
+        "Laurent Cantet",
+        "Les films"
+      ],
+      [
+        "Laurent Cantet",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 66169,
+        "titre": "Ressources humaines",
+        "realisateurs": "Laurent Cantet",
+        "annee": 1999,
+        "duree": 100,
+        "format": "DCP"
+      },
+      {
+        "idConf": 34337,
+        "titre": "Dialogue avec Annie Ernaux",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f66169c34337"
+  },
+  {
+    "idSeance": 198172,
+    "idEvenement": 6668,
+    "dateHeure": "2025-11-08T15:00:00",
+    "salle": "GF",
     "cycle": [
       [
         "Orson Welles",
@@ -10237,29 +10270,6 @@
       }
     ],
     "hashEvenement": "f45148"
-  },
-  {
-    "idSeance": 201081,
-    "idEvenement": 34082,
-    "dateHeure": "2025-11-08T15:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Laurent Cantet",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 66169,
-        "titre": "Ressources humaines",
-        "realisateurs": "Laurent Cantet",
-        "annee": 1999,
-        "duree": 100,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f66169"
   },
   {
     "idSeance": 198295,
@@ -10284,51 +10294,6 @@
       }
     ],
     "hashEvenement": "f35474"
-  },
-  {
-    "idSeance": 201097,
-    "idEvenement": 34337,
-    "dateHeure": "2025-11-08T16:45:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Laurent Cantet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 34337,
-        "titre": "Dialogue avec Annie Ernaux",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c34337"
-  },
-  {
-    "idSeance": 201047,
-    "idEvenement": 33762,
-    "dateHeure": "2025-11-08T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sacha Guitry",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 49116,
-        "titre": "Pasteur",
-        "realisateurs": "Sacha Guitry",
-        "annee": 1935,
-        "duree": 74,
-        "version": "VO",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f49116"
   },
   {
     "idSeance": 198302,
@@ -10357,7 +10322,7 @@
   {
     "idSeance": 201085,
     "idEvenement": 34083,
-    "dateHeure": "2025-11-08T18:30:00",
+    "dateHeure": "2025-11-08T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -10379,9 +10344,9 @@
     "hashEvenement": "f82960"
   },
   {
-    "idSeance": 201127,
-    "idEvenement": 33754,
-    "dateHeure": "2025-11-08T19:00:00",
+    "idSeance": 201047,
+    "idEvenement": 33762,
+    "dateHeure": "2025-11-08T18:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -10391,20 +10356,21 @@
     ],
     "items": [
       {
-        "idFilm": 48985,
-        "titre": "Si Paris nous était conté",
+        "idFilm": 49116,
+        "titre": "Pasteur",
         "realisateurs": "Sacha Guitry",
-        "annee": 1956,
-        "duree": 135,
+        "annee": 1935,
+        "duree": 74,
+        "version": "VO",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f48985"
+    "hashEvenement": "f49116"
   },
   {
     "idSeance": 197002,
     "idEvenement": 30801,
-    "dateHeure": "2025-11-08T20:30:00",
+    "dateHeure": "2025-11-08T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -10424,6 +10390,29 @@
       }
     ],
     "hashEvenement": "f35077"
+  },
+  {
+    "idSeance": 201127,
+    "idEvenement": 33754,
+    "dateHeure": "2025-11-08T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48985,
+        "titre": "Si Paris nous était conté",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1956,
+        "duree": 135,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f48985"
   },
   {
     "idSeance": 198296,
@@ -12285,9 +12274,33 @@
     "hashEvenement": "f94889"
   },
   {
+    "idSeance": 201068,
+    "idEvenement": 33742,
+    "dateHeure": "2025-11-26T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Sacha Guitry",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49106,
+        "titre": "Mon père avait raison",
+        "realisateurs": "Sacha Guitry",
+        "annee": 1936,
+        "duree": 99,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f49106"
+  },
+  {
     "idSeance": 201098,
     "idEvenement": 34312,
-    "dateHeure": "2025-11-26T18:00:00",
+    "dateHeure": "2025-11-26T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -12339,30 +12352,6 @@
     "hashEvenement": "f126241f75066f126147f126243"
   },
   {
-    "idSeance": 201068,
-    "idEvenement": 33742,
-    "dateHeure": "2025-11-26T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Sacha Guitry",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 49106,
-        "titre": "Mon père avait raison",
-        "realisateurs": "Sacha Guitry",
-        "annee": 1936,
-        "duree": 99,
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f49106"
-  },
-  {
     "idSeance": 201006,
     "idEvenement": 33745,
     "dateHeure": "2025-11-26T20:15:00",
@@ -12389,7 +12378,7 @@
   {
     "idSeance": 201099,
     "idEvenement": 7552,
-    "dateHeure": "2025-11-26T20:45:00",
+    "dateHeure": "2025-11-26T21:00:00",
     "salle": "GF",
     "cycle": [
       [
