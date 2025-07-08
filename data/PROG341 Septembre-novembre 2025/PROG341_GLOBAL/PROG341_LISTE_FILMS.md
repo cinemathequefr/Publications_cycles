@@ -439,7 +439,7 @@
   * Fish Tank  
   * In the Cut
 
-## Sacha Guitry (35)
+## Sacha Guitry (34)
 
   * Assassins et Voleurs  
   * Aux deux colombes  
@@ -456,7 +456,6 @@
   * Faisons un rêve (Essais d'acteurs)  
   * Ils étaient neuf célibataires  
   * Je l'ai été trois fois  
-  * Loi du 21 juin 1907 (La)  
   * Malibran (La)  
   * MCDXXIX-MCMXLII (De Jeanne d'Arc à Philippe Pétain)  
   * Mon père avait raison  
