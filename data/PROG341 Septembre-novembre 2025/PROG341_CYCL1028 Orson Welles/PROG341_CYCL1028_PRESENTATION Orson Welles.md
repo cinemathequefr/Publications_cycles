@@ -1,6 +1,6 @@
 > Le gigantisme de Welles ne pouvait s'accommoder d'une rétrospective ordinaire : pantagruélique, celle qui accompagne notre exposition est la plus exhaustive jamais organisée à ce jour, avec ses longs métrages, mais aussi tous les morceaux épars qui jalonnent sa carrière éclatée et proliférante. Essais, films inachevés ou mutilés, bandes annonces ou spectacles de magie, mais aussi une ample sélection de films où Orson Welles officie en tant qu'acteur. Toute la folle exhubérance du démiurge rassemblée sur écran géant, deux mois durant !
 
-# Orson Welles, vertiges et mensonges
+# Orson Welles, celui qui a tout changé
 
 _Citizen Kane_ (1941) n'est plus « le meilleur film de tous les temps », détrôné au classement de _Sight and Sound_ depuis 2012, d'abord par _Vertigo_ (Alfred Hitchcock, 1958), puis par une autre expérience cinématographique radicale qui révolutionna l'art de son temps et n'en finit plus de susciter la fascination : _Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles_ de Chantal Akerman (1975).
 
