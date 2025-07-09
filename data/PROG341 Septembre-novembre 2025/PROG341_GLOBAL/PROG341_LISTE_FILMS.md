@@ -283,6 +283,7 @@
   * Château dans le ciel (Le)  
   * Cirque (Le)  
   * Dounia et la princesse d'Alep  
+  * Étrange Noël de monsieur Jack (L')  
   * Fiancées en folie (Les)  
   * Fievel et le nouveau monde  
   * Grand Méchant Renard (Le)  
@@ -290,7 +291,6 @@
   * Mars Attacks!  
   * Mécano de la General (Le)  
   * Mon voisin Totoro  
-  * Noces funèbres (Les)  
   * Petite Boutique des horreurs (La)  
   * Retour vers le futur  
   * Retour vers le futur 2  
