@@ -99,6 +99,43 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Avant-première Guillermo del Toro",
+      "items": [
+        {
+          "idFilm": 155449,
+          "content": [
+            {
+              "idFilm": 155449,
+              "ordre": 1,
+              "titre": "Frankenstein",
+              "realisateurs": "Guillermo del Toro",
+              "pays": "États-Unis-Mexique",
+              "annee": 2025,
+              "duree": 0,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Oscar Isaac",
+                "Jacob Elordi",
+                "Mia Goth",
+                "Christoph Waltz"
+              ],
+              "miniTexte": "Le docteur Pretorius se lance à la recherche du monstre de Frankenstein (Jacob Elordi), déclaré mort dans un incendie quarante ans auparavant, et tente de poursuivre les travaux de Victor Frankenstein. L'aboutissement d'un long projet de Guillermo del Toro, qui livre une version toute personnelle du célèbre roman de Mary Shelley."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201153,
+              "dateHeure": "2025-10-11T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Avant-première Mario Martone",
       "items": [
         {
@@ -135,7 +172,11 @@
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
+      {
+        "dateHeure": "2025-10-11T20:00:00",
+        "titreFilms": "Frankenstein"
+      },
       {
         "dateHeure": "2025-11-16T20:00:00",
         "titreFilms": "Fuori"
