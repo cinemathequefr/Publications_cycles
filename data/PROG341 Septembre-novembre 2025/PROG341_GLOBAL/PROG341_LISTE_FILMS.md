@@ -507,13 +507,14 @@
   * Une carte du monde  
   * Working Girl
 
-## Séances spéciales (5)
+## Séances spéciales (6)
 
   * À bout de souffle  
-  * Frankenstein  
+  * Deux procureurs  
   * Fuori  
   * Lettre à l'enfant que tu nous as donné  
-  * Nouvelle Vague
+  * Nouvelle Vague  
+  * Sotto le nuvole
 
 ## Week-end Clint Eastwood (7)
 

@@ -100,34 +100,64 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Avant-première Guillermo del Toro",
+      "titreSousCycle": "Avant-première Sergei Loznitsa",
       "items": [
         {
-          "idFilm": 155449,
+          "idFilm": 155446,
           "content": [
             {
-              "idFilm": 155449,
+              "idFilm": 155446,
               "ordre": 1,
-              "titre": "Frankenstein",
-              "realisateurs": "Guillermo del Toro",
-              "pays": "États-Unis-Mexique",
+              "titre": "Deux procureurs",
+              "titreVo": "Dva prokourora",
+              "realisateurs": "Sergei Loznitsa",
+              "pays": "Ukraine-Allemagne",
               "annee": 2025,
-              "duree": 0,
+              "duree": 118,
               "version": "VOSTF",
               "format": "DCP",
               "generique": [
-                "Oscar Isaac",
-                "Jacob Elordi",
-                "Mia Goth",
-                "Christoph Waltz"
+                "Alexandre Kouznetsov",
+                "Alexandre Filippenko"
               ],
-              "miniTexte": "Le docteur Pretorius se lance à la recherche du monstre de Frankenstein (Jacob Elordi), déclaré mort dans un incendie quarante ans auparavant, et tente de poursuivre les travaux de Victor Frankenstein. L'aboutissement d'un long projet de Guillermo del Toro, qui livre une version toute personnelle du célèbre roman de Mary Shelley."
+              "miniTexte": "URSS 1937. La quête de justice d'un jeune procureur de province, face à la corruption du service de sécurité de l'État. D'après la nouvelle de Gueorgui Demidov, physicien arrêté en 1938, qui passa quatorze années au goulag."
             }
           ],
           "seances": [
             {
-              "idSeance": 201153,
-              "dateHeure": "2025-10-11T20:00:00",
+              "idSeance": 201159,
+              "dateHeure": "2025-10-28T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Avant-première Gianfranco Rosi",
+      "items": [
+        {
+          "idFilm": 155450,
+          "content": [
+            {
+              "idFilm": 155450,
+              "ordre": 1,
+              "titre": "Sotto le nuvole",
+              "realisateurs": "Gianfranco Rosi",
+              "pays": "Italie",
+              "annee": 2025,
+              "duree": 118,
+              "version": "VOSTF",
+              "format": "DCP",
+              "miniTexte": "Au pied du Vésuve, un monde suspendu entre histoire et modernité, où l'on vit depuis près de 3 000 ans sous la menace constante du volcan."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 201160,
+              "dateHeure": "2025-11-10T20:00:00",
               "idSalle": "HL",
               "mention": "Avant-première"
             }
@@ -175,8 +205,12 @@
   "syntheseAction": {
     "Avant-premières": [
       {
-        "dateHeure": "2025-10-11T20:00:00",
-        "titreFilms": "Frankenstein"
+        "dateHeure": "2025-10-28T20:00:00",
+        "titreFilms": "Deux procureurs"
+      },
+      {
+        "dateHeure": "2025-11-10T20:00:00",
+        "titreFilms": "Sotto le nuvole"
       },
       {
         "dateHeure": "2025-11-16T20:00:00",
