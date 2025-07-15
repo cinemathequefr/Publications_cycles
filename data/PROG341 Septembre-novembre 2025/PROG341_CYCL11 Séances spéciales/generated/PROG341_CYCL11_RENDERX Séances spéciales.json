@@ -61,7 +61,8 @@
             {
               "idSeance": 200991,
               "dateHeure": "2025-09-29T19:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Avant-première"
             }
           ]
         },
@@ -128,7 +129,7 @@
               "idSeance": 201159,
               "dateHeure": "2025-10-28T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première"
+              "mention": "Avant-première. Séance présentée par Sergei Loznitsa"
             }
           ]
         }
@@ -159,7 +160,7 @@
               "idSeance": 201160,
               "dateHeure": "2025-11-10T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première"
+              "mention": "Avant-première. Séance présentée par Gianfranco Rosi"
             }
           ]
         }
@@ -205,12 +206,18 @@
   "syntheseAction": {
     "Avant-premières": [
       {
+        "dateHeure": "2025-09-29T19:30:00",
+        "titreFilms": "Nouvelle Vague"
+      },
+      {
         "dateHeure": "2025-10-28T20:00:00",
-        "titreFilms": "Deux procureurs"
+        "titreFilms": "Deux procureurs",
+        "mention": "séance présentée par Sergei Loznitsa"
       },
       {
         "dateHeure": "2025-11-10T20:00:00",
-        "titreFilms": "Sotto le nuvole"
+        "titreFilms": "Sotto le nuvole",
+        "mention": "séance présentée par Gianfranco Rosi"
       },
       {
         "dateHeure": "2025-11-16T20:00:00",
@@ -223,6 +230,16 @@
         "titreFilms": "Lettre à l'enfant que tu nous as donné",
         "mention": "par Charlotte Silvera",
         "dateHeure": "2025-09-22T20:00:00"
+      },
+      {
+        "titreFilms": "Deux procureurs",
+        "mention": "par Sergei Loznitsa",
+        "dateHeure": "2025-10-28T20:00:00"
+      },
+      {
+        "titreFilms": "Sotto le nuvole",
+        "mention": "par Gianfranco Rosi",
+        "dateHeure": "2025-11-10T20:00:00"
       },
       {
         "titreFilms": "Fuori",

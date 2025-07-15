@@ -1,4 +1,4 @@
-> Du délicat _Breezy_ au résilient _Sully_, de _Sudden Impact_, quatrième opus des incontournables « Dirty Harry », au road movie tragique (_Un monde parfait_) ou initiatique (_Honkytonk Man_), sans oublier le vénéneux _Minuit dans le jardin du Bien et du Mal_ ou l'immense _Impitoyable_. Sept films où se dessinent l'âme et le parcours d'Eastwood, où se construisent et se déconstruisent à la fois un mythe et une histoire de l'Amérique. Le temps d'un week-end, un aperçu choisi et essentiel de l'art d'un acteur-cinéaste politique, incontournable.
+> À l'occasion de la sortie du livre de Bernard Benoliel, _Clint Eastwood : Je suis celui que je veux être_, projections de sept films du géant américain. Sept films où se dessinent l'âme et le parcours d'Eastwood, où se construisent et se déconstruisent à la fois un mythe et une histoire de l'Amérique. Le temps d'un week-end, un aperçu choisi et essentiel de l'art d'un acteur-cinéaste politique, incontournable.
 
 # À l'épreuve du temps
 
