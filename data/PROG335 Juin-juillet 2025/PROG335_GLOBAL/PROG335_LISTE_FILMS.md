@@ -404,7 +404,7 @@
   * Alice Guy tourne une phonoscène  
   * Anna Ladd dans son atelier parisien  
   * Aussi loin que mon enfance  
-  * Bel Companho  
+  * Bel companho  
   * Chant magique du renard (Le)  
   * Chiko-tan, ma promise  
   * Contre l'oubli : Pour Febe Elisabeth Velásquez, El Salvador  
@@ -417,7 +417,7 @@
   * Henri Langlois vu par Agnès Varda  
   * Hôtel du Parc : La Guerre civile  
   * Hôtel du Parc : La Révolution nationale  
-  * Jeanne Dielman, 23, quai du Commerce 1080 Bruxelles  
+  * Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles  
   * Lina Esbrard, danse serpentine  
   * Mambo Dreams  
   * Matelas épileptique (Le)  
