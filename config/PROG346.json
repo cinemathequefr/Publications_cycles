@@ -20,7 +20,7 @@
       "isReg": true,
       "titreCycle": "Conservatoire des techniques cinématographiques",
       "sousCycles": [
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [1856], "tri": 4 }
       ]
     },
     {
@@ -139,7 +139,10 @@
     {
       "idCycleProg": 1047,
       "titreCycle": "Maurice Tourneur",
-      "sousCycles": [{ "titre": "Les films", "cats": [3970], "tri": 2 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3970], "tri": 2 },
+        { "titre": "Courts métrages", "cats": [3990], "tri": 4 }
+      ],
       "excludeSeances": []
     },
     {

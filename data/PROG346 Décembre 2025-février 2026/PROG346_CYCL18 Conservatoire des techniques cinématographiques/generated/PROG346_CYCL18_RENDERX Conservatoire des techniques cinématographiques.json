@@ -1,0 +1,61 @@
+{
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34680,
+          "content": [
+            {
+              "idConf": 34680,
+              "titre": "Conservatoire DUFAYCOLOR",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205468,
+              "dateHeure": "2026-01-09T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 34681,
+          "content": [
+            {
+              "idConf": 34681,
+              "titre": "Conservatoire EMILE REYNAUD",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205469,
+              "dateHeure": "2026-02-13T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Conférences": [
+      {
+        "titre": "Conservatoire DUFAYCOLOR",
+        "mention": "Conférence ",
+        "dateHeure": "2026-01-09T17:00:00"
+      },
+      {
+        "titre": "Conservatoire EMILE REYNAUD",
+        "mention": "Conférence ",
+        "dateHeure": "2026-02-13T18:00:00"
+      }
+    ]
+  }
+}
