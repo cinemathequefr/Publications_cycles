@@ -7,7 +7,13 @@
       "idCycleProg": 11,
       "titreCycle": "Séances spéciales",
       "isReg": true,
-      "sousCycles": []
+      "sousCycles": [
+        {
+          "titre": "Napoléon vu par Abel Gance",
+          "cats": [3810],
+          "tri": 2
+        }
+      ]
     },
     {
       "idCycleProg": 14,
@@ -166,7 +172,10 @@
     {
       "idCycleProg": 1051,
       "titreCycle": "José Luis Guerín",
-      "sousCycles": [{ "titre": "Les films", "cats": [3976], "tri": 2 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3976], "tri": 2 },
+        { "titre": "Courts et moyens métrages", "cats": [3993], "tri": 4 }
+      ],
       "excludeSeances": []
     },
     {

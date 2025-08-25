@@ -1,0 +1,47 @@
+{
+  "datesCycle": [
+    "2026-02-16T20:00:00",
+    "2026-02-16T20:00:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 155457,
+          "content": [
+            {
+              "idFilm": 155457,
+              "ordre": 1,
+              "titre": "Maigret et le mort amoureux",
+              "realisateurs": "Pascal Bonitzer",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 120,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200369,
+              "dateHeure": "2026-02-16T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2026-02-16T20:00:00",
+        "titreFilms": "Maigret et le mort amoureux"
+      }
+    ]
+  }
+}
