@@ -60,31 +60,7 @@
           "seances": [
             {
               "idSeance": 198674,
-              "dateHeure": "2025-12-14T19:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 113193,
-          "content": [
-            {
-              "idFilm": 113193,
-              "ordre": 1,
-              "titre": "Frères d'Italie",
-              "titreVo": "Noi credevamo",
-              "realisateurs": "Mario Martone",
-              "pays": "Italie-France",
-              "annee": 2009,
-              "duree": 172,
-              "version": "VO",
-              "format": "35 mm"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198613,
-              "dateHeure": "2025-12-12T21:00:00",
+              "dateHeure": "2025-12-14T18:30:00",
               "idSalle": "HL"
             }
           ]
@@ -187,34 +163,8 @@
           ],
           "seances": [
             {
-              "idSeance": 198657,
-              "dateHeure": "2025-12-13T21:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 91560,
-          "content": [
-            {
-              "idFilm": 91560,
-              "ordre": 1,
-              "titre": "Odeur du sang",
-              "art": "L'",
-              "titreVo": "Odore del sangue",
-              "artVo": "L'",
-              "realisateurs": "Mario Martone",
-              "pays": "Italie-France",
-              "annee": 2003,
-              "duree": 100,
-              "version": "VO",
-              "format": "35 mm"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198612,
-              "dateHeure": "2025-12-12T19:00:00",
+              "idSeance": 205534,
+              "dateHeure": "2025-12-13T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -267,7 +217,37 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34721,
+          "content": [
+            {
+              "idConf": 34721,
+              "titre": "Film + Leçon de cinéma avec Mario Martone",
+              "typeConference": "Leçon de cinéma"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205504,
+              "dateHeure": "2025-12-13T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Leçon de cinéma": [
+      {
+        "titre": "Film + Leçon de cinéma avec Mario Martone",
+        "dateHeure": "2025-12-13T14:30:00"
+      }
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2025-12-03T20:00:00",
+    "2025-12-03T18:30:00",
     "2025-12-07T20:30:00"
   ],
   "textePresentation": "",
@@ -9,6 +9,38 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 47486,
+          "content": [
+            {
+              "idFilm": 47486,
+              "ordre": 1,
+              "titre": "Bête à l'affût",
+              "art": "La",
+              "realisateurs": "Pierre Chenal",
+              "pays": "France",
+              "annee": 1959,
+              "duree": 95,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après le roman _Forests of the Night_ de Day Keene.",
+              "generique": [
+                "Françoise Arnoul",
+                "Henri Vidal",
+                "Gaby Sylvia",
+                "Michel Piccoli"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205528,
+              "dateHeure": "2025-12-07T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 40289,
           "content": [
@@ -61,12 +93,12 @@
           "seances": [
             {
               "idSeance": 198382,
-              "dateHeure": "2025-12-04T17:00:00",
+              "dateHeure": "2025-12-04T18:00:00",
               "idSalle": "GF"
             },
             {
               "idSeance": 205499,
-              "dateHeure": "2025-12-05T21:30:00",
+              "dateHeure": "2025-12-05T20:15:00",
               "idSalle": "GF"
             }
           ]
@@ -90,7 +122,7 @@
           "seances": [
             {
               "idSeance": 198472,
-              "dateHeure": "2025-12-06T19:30:00",
+              "dateHeure": "2025-12-06T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -121,7 +153,7 @@
           "seances": [
             {
               "idSeance": 198425,
-              "dateHeure": "2025-12-05T19:00:00",
+              "dateHeure": "2025-12-05T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -147,8 +179,38 @@
           "seances": [
             {
               "idSeance": 205494,
-              "dateHeure": "2025-12-04T20:00:00",
+              "dateHeure": "2025-12-04T20:30:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 38161,
+          "content": [
+            {
+              "idFilm": 38161,
+              "ordre": 1,
+              "titre": "Kwaïdan",
+              "realisateurs": "Masaki Kobayashi",
+              "pays": "Japon",
+              "annee": 1964,
+              "duree": 183,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après le recueil de contes _Kwaidan ou Histoires et études de choses étranges_ de Lafcadio Hearn.",
+              "generique": [
+                "Michiyo Aratama",
+                "Tatsuya Nakadai",
+                "Takashi Shimura"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198385,
+              "dateHeure": "2025-12-04T20:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -203,8 +265,38 @@
           "seances": [
             {
               "idSeance": 198426,
-              "dateHeure": "2025-12-05T21:00:00",
+              "dateHeure": "2025-12-05T20:15:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 39901,
+          "content": [
+            {
+              "idFilm": 39901,
+              "ordre": 1,
+              "titre": "Malina",
+              "realisateurs": "Werner Schroeter",
+              "pays": "Allemagne-Autriche",
+              "annee": 1991,
+              "duree": 125,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Isabelle Huppert",
+                "Mathieu Carrière",
+                "Can Togay",
+                "Fritz Schediwy"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198473,
+              "dateHeure": "2025-12-06T20:45:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -252,15 +344,15 @@
               "artVo": "The",
               "realisateurs": "Blake Edwards",
               "pays": "États-Unis",
-              "annee": 1962,
+              "annee": 1963,
               "duree": 115,
               "version": "VOSTF",
               "format": "DCP",
               "restauration": true,
               "ageMinimal": 10,
               "generique": [
-                "David Niven",
                 "Peter Sellers",
+                "David Niven",
                 "Claudia Cardinale"
               ]
             }
@@ -270,6 +362,37 @@
               "idSeance": 198467,
               "dateHeure": "2025-12-06T14:30:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 42310,
+          "content": [
+            {
+              "idFilm": 42310,
+              "ordre": 1,
+              "titre": "Quand la colère éclate",
+              "titreVo": "Sgarro",
+              "artVo": "Lo",
+              "realisateurs": "Silvio Siano",
+              "pays": "Italie-France",
+              "annee": 1961,
+              "duree": 84,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Gérard Blain",
+                "Charles Vanel",
+                "Saro Urzì"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198351,
+              "dateHeure": "2025-12-03T20:45:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -324,7 +447,38 @@
           "seances": [
             {
               "idSeance": 205498,
-              "dateHeure": "2025-12-05T19:30:00",
+              "dateHeure": "2025-12-05T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 47976,
+          "content": [
+            {
+              "idFilm": 47976,
+              "ordre": 1,
+              "titre": "Vérité sur Bébé Donge",
+              "art": "La",
+              "realisateurs": "Henri Decoin",
+              "pays": "France",
+              "annee": 1951,
+              "duree": 104,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après le roman _La Vérité sur Bébé Donge_ de Georges Simenon.",
+              "generique": [
+                "Danielle Darrieux",
+                "Jean Gabin",
+                "Claude Génia"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205527,
+              "dateHeure": "2025-12-03T18:30:00",
               "idSalle": "GF"
             }
           ]

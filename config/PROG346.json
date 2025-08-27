@@ -19,7 +19,10 @@
       "idCycleProg": 14,
       "titreCycle": "Cinéma bis",
       "isReg": true,
-      "sousCycles": [{ "titre": "", "cats": [], "tri": 4 }]
+      "sousCycles": [
+        { "titre": "Polars US des années 80", "cats": [3979], "tri": 4 },
+        { "titre": "Doris Wishman, réalisatrice", "cats": [3991], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": 18,
@@ -48,7 +51,10 @@
       "idCycleProg": 152,
       "isReg": true,
       "titreCycle": "Parlons cinéma avec",
-      "sousCycles": [{ "titre": "", "cats": [], "tri": 4 }]
+      "sousCycles": [
+        { "titre": "Les films", "cats": [], "tri": 4 },
+        { "titre": "Rencontres et conférences", "cats": [3111], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": 472,
@@ -86,13 +92,32 @@
     {
       "idCycleProg": 1028,
       "titreCycle": "Orson Welles",
-      "sousCycles": [{ "titre": "", "cats": [], "tri": 4 }]
+      "sousCycles": [
+        {
+          "titre": "Orson Welles personnage de cinéma",
+          "cats": [3895],
+          "tri": 2
+        },
+        {
+          "titre": "Longs métrages inachevés",
+          "cats": [3870],
+          "tri": 2
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [3896],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 1033,
       "titreCycle": "Ciné-club de Murielle Joudet",
       "isReg": true,
-      "sousCycles": [{ "titre": "Les films", "cats": [], "tri": 4 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [3898], "tri": 4 }
+      ],
       "excludeSeances": []
     },
     {
@@ -106,7 +131,7 @@
       "titreCycle": "Rita Hayworth",
       "sousCycles": [
         { "titre": "Les films", "cats": [3962], "tri": 2 },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [3998], "tri": 4 }
       ],
       "excludeSeances": []
     },
@@ -115,7 +140,7 @@
       "titreCycle": "Alexandre Dovjenko",
       "sousCycles": [
         { "titre": "Les films", "cats": [3963], "tri": 2 },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [4001], "tri": 4 }
       ],
       "excludeSeances": []
     },
@@ -124,7 +149,7 @@
       "titreCycle": "André De Toth",
       "sousCycles": [
         { "titre": "Les films", "cats": [3964], "tri": 2 },
-        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+        { "titre": "Rencontres et conférences", "cats": [4000], "tri": 4 }
       ],
       "excludeSeances": []
     },
@@ -147,26 +172,36 @@
       "titreCycle": "Maurice Tourneur",
       "sousCycles": [
         { "titre": "Les films", "cats": [3970], "tri": 2 },
-        { "titre": "Courts métrages", "cats": [3990], "tri": 4 }
+        { "titre": "Courts métrages", "cats": [3990], "tri": 4 },
+        { "titre": "Rencontres et conférences", "cats": [4004], "tri": 4 }
       ],
       "excludeSeances": []
     },
     {
       "idCycleProg": 1048,
       "titreCycle": "Márta Mészáros",
-      "sousCycles": [{ "titre": "Les films", "cats": [3972], "tri": 2 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3972], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [4002], "tri": 4 }
+      ],
       "excludeSeances": []
     },
     {
       "idCycleProg": 1049,
       "titreCycle": "Le film policier asiatique, 25 indispensables",
-      "sousCycles": [{ "titre": "Les films", "cats": [3973], "tri": 2 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3973], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [4003], "tri": 4 }
+      ],
       "excludeSeances": []
     },
     {
       "idCycleProg": 1050,
       "titreCycle": "Mario Martone",
-      "sousCycles": [{ "titre": "Les films", "cats": [3975], "tri": 2 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3975], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [3996], "tri": 4 }
+      ],
       "excludeSeances": []
     },
     {
@@ -174,14 +209,18 @@
       "titreCycle": "José Luis Guerín",
       "sousCycles": [
         { "titre": "Les films", "cats": [3976], "tri": 2 },
-        { "titre": "Courts et moyens métrages", "cats": [3993], "tri": 4 }
+        { "titre": "Courts et moyens métrages", "cats": [3993], "tri": 4 },
+        { "titre": "Rencontres et conférences", "cats": [3997], "tri": 4 }
       ],
       "excludeSeances": []
     },
     {
       "idCycleProg": 1052,
       "titreCycle": "Pascal Bonitzer",
-      "sousCycles": [{ "titre": "Les films", "cats": [3977], "tri": 2 }],
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3977], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [4005], "tri": 4 }
+      ],
       "excludeSeances": []
     },
     {
@@ -195,7 +234,8 @@
       "titreCycle": "David Gordon Green",
       "sousCycles": [
         { "titre": "Les films", "cats": [3982], "tri": 2 },
-        { "titre": "Mini-séries et téléfilms", "cats": [3988], "tri": 2 }
+        { "titre": "Mini-séries et téléfilms", "cats": [3988], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [3999], "tri": 4 }
       ],
       "excludeSeances": []
     },

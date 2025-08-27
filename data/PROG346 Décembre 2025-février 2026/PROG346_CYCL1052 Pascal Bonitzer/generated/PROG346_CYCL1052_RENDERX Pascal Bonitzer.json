@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-02-16T20:00:00",
-    "2026-02-16T20:00:00"
+    "2026-02-21T14:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -29,7 +29,30 @@
               "idSeance": 200369,
               "dateHeure": "2026-02-16T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première"
+              "mention": "Avant-première. Séance présentée par Pascal Bonitzer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34734,
+          "content": [
+            {
+              "idConf": 34734,
+              "titre": "Film + Leçon de cinéma avec Pascal Bonitzer",
+              "typeConference": "Leçon de cinéma"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205526,
+              "dateHeure": "2026-02-21T14:30:00",
+              "idSalle": "HL"
             }
           ]
         }
@@ -40,7 +63,21 @@
     "Avant-première": [
       {
         "dateHeure": "2026-02-16T20:00:00",
-        "titreFilms": "Maigret et le mort amoureux"
+        "titreFilms": "Maigret et le mort amoureux",
+        "mention": "séance présentée par Pascal Bonitzer"
+      }
+    ],
+    "Leçon de cinéma": [
+      {
+        "titre": "Film + Leçon de cinéma avec Pascal Bonitzer",
+        "dateHeure": "2026-02-21T14:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Maigret et le mort amoureux",
+        "mention": "par Pascal Bonitzer",
+        "dateHeure": "2026-02-16T20:00:00"
       }
     ]
   }

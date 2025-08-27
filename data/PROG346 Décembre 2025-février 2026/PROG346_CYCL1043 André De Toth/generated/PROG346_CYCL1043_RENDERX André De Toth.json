@@ -1,0 +1,61 @@
+{
+  "datesCycle": [
+    "2026-01-11T14:30:00",
+    "2026-01-17T14:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34727,
+          "content": [
+            {
+              "idConf": 34727,
+              "titre": "Film + Dialogue avec Philippe Garnier",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205513,
+              "dateHeure": "2026-01-11T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idConf": 34728,
+          "content": [
+            {
+              "idConf": 34728,
+              "titre": "Film + Dialogue (André de Toth) ?",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205514,
+              "dateHeure": "2026-01-17T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "mention": "Film + Dialogue avec Philippe Garnier",
+        "dateHeure": "2026-01-11T14:30:00"
+      },
+      {
+        "mention": "Film + Dialogue (André de Toth) ?",
+        "dateHeure": "2026-01-17T14:30:00"
+      }
+    ]
+  }
+}

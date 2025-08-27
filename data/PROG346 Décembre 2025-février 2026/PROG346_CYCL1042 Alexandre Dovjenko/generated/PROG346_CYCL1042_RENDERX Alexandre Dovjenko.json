@@ -1,0 +1,65 @@
+{
+  "datesCycle": [
+    "2026-01-22T19:00:00",
+    "2026-01-24T14:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34729,
+          "content": [
+            {
+              "idConf": 34729,
+              "titre": "Conférence (Alexandre Dovjenko)",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205515,
+              "dateHeure": "2026-01-22T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 34730,
+          "content": [
+            {
+              "idConf": 34730,
+              "titre": "Film + Dialogue (Alexandre Dovjenko)",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205516,
+              "dateHeure": "2026-01-24T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Conférence (Alexandre Dovjenko)",
+        "mention": "Conférence ",
+        "dateHeure": "2026-01-22T19:00:00"
+      }
+    ],
+    "Dialogue": [
+      {
+        "mention": "Film + Dialogue (Alexandre Dovjenko)",
+        "dateHeure": "2026-01-24T14:30:00"
+      }
+    ]
+  }
+}
