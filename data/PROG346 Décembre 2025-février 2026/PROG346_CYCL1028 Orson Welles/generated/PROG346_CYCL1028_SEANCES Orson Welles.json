@@ -1,28 +1,29 @@
 [
   {
-    "idCategorie": 3895,
+    "idCategorie": 3960,
     "typeEvenement": 13,
-    "idEvenement": 33959,
-    "idSeance": 205536,
-    "dateHeure": "2025-12-12T20:00:00",
+    "idEvenement": 34365,
+    "idSeance": 198659,
+    "dateHeure": "2025-12-13T18:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
-    "dureeSeance": 165,
-    "typeSeance": 44,
+    "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 56663,
-        "ordre": 1,
-        "idSeance": 205536,
-        "idCopie": 4874,
-        "duree": 127,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 155438,
+        "ordre": 1
+      },
+      {
+        "idFilm": 155439,
+        "ordre": 2
+      },
+      {
+        "idFilm": 155440,
+        "ordre": 3
       }
-    ],
-    "mention": "Ouverture de la rétrospective"
+    ]
   },
   {
     "idCategorie": 3870,
@@ -60,6 +61,58 @@
     "dureeSeance": 210,
     "items": [
       {}
+    ]
+  },
+  {
+    "idCategorie": 3960,
+    "typeEvenement": 13,
+    "idEvenement": 34371,
+    "idSeance": 198678,
+    "dateHeure": "2025-12-14T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 155444,
+        "ordre": 1
+      },
+      {
+        "idFilm": 155447,
+        "ordre": 2
+      },
+      {
+        "idFilm": 155445,
+        "ordre": 3
+      }
+    ]
+  },
+  {
+    "idCategorie": 3960,
+    "typeEvenement": 13,
+    "idEvenement": 34369,
+    "idSeance": 198679,
+    "dateHeure": "2025-12-14T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 155441,
+        "ordre": 1
+      },
+      {
+        "idFilm": 155442,
+        "ordre": 2
+      },
+      {
+        "idFilm": 155443,
+        "ordre": 3
+      }
     ]
   }
 ]

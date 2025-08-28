@@ -1,10 +1,8 @@
 # Liste des films par cycle
 
-## Cinéma bis (4)
+## Cinéma bis (2)
 
-  * Bad girls go to hell  
   * Nuit des juges (La)  
-  * Supernichons contre mafia  
   * Un été pourri
 
 ## José Luis Guerín (11)
@@ -32,30 +30,56 @@
   * Qui rido io  
   * Théâtre de guerre
 
-## Orson Welles (2)
+## Orson Welles (10)
 
   * De l'autre côté du vent  
-  * Ed Wood
+  * In the Land of Don Quixote : Itinerario Andaluso  
+  * In the Land of Don Quixote : L'Encierro di Pamplona  
+  * In the Land of Don Quixote : La Feria di San Fermin  
+  * In the Land of Don Quixote : Le Cantine di Jerez  
+  * In the Land of Don Quixote : Spagna santa  
+  * Nella Terra di Don Chisciotte : Ferie de avril a Siviglia  
+  * Nella Terra di Don Chisciotte : Roma è Oriente in Spagna  
+  * Nella Terra di Don Chisciotte : Siviglia  
+  * Nella Terra di Don Chisciotte : Tempo di Flamenco
+
+## Panorama du cinéma indonésien (10)
+
+  * 3 Days to Eternity  
+  * Atheis  
+  * Berbagi suami  
+  * Darah dan doa  
+  * Feuille sur un oreiller  
+  * Ibunda  
+  * Marlina, la tueuse en quatre actes  
+  * Pengabdi Setan  
+  * Turang  
+  * Une femme indonésienne
 
 ## Pascal Bonitzer (1)
 
   * Maigret et le mort amoureux
 
-## Restaurations et raretés, best of 2025 (16)
+## Restaurations et raretés, best of 2025 (21)
 
+  * 'A santanotte  
+  * Au-delà de l'oubli  
   * Bête à l'affût (La)  
   * Buddenbrooks (Les)  
+  * Carmen de Kawachi  
   * Étoiles  
   * Fantozzi  
   * Feux dans la plaine (Les)  
-  * Filles (Les)  
   * Kwaïdan  
   * Let My Puppets Come  
   * Longue nuit de l'exorcisme (La)  
   * Malina  
+  * Mauvais coups (Les)  
   * Mort aux trousses (La)  
+  * Onze heures sonnaient  
   * Panthère Rose (La)  
   * Quand la colère éclate  
+  * Sholay  
   * Story of Joanna (The)  
   * Sur le territoire des Comanches  
   * Vérité sur Bébé Donge (La)
@@ -68,14 +92,14 @@
   * Arènes sanglantes  
   * Belle du Pacifique (La)  
   * Blonde framboise (La)  
-  * Blonde ou la rousse (La)  
+  * Blonde ou la Rousse (La)  
   * Cette nuit et toujours  
   * Ceux de Cordura  
   * Colère de Dieu (La)  
   * Convicted  
   * Dame de Shanghaï (La)  
   * Enfer des tropiques (L')  
-  * Etoile des étoiles (L')  
+  * Étoile des étoiles (L')  
   * Gilda  
   * Mon amie Sally  
   * Ô toi ma charmante  

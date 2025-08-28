@@ -73,30 +73,6 @@
   {
     "idCategorie": 3962,
     "typeEvenement": 13,
-    "idEvenement": 34395,
-    "idSeance": 198799,
-    "dateHeure": "2025-12-19T18:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 35868,
-        "ordre": 1,
-        "idSeance": 198799,
-        "idCopie": 30627,
-        "duree": 97,
-        "version": "VO",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 3962,
-    "typeEvenement": 13,
     "idEvenement": 34394,
     "idSeance": 198800,
     "dateHeure": "2025-12-19T20:15:00",
@@ -398,7 +374,12 @@
     "items": [
       {
         "idFilm": 31189,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 205519,
+        "idCopie": 30764,
+        "duree": 103,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },
@@ -441,7 +422,7 @@
         "idFilm": 36094,
         "ordre": 1,
         "idSeance": 199053,
-        "idCopie": 30656,
+        "idCopie": 30763,
         "duree": 123,
         "version": "VO",
         "format": "35 mm"
@@ -494,7 +475,7 @@
     "typeEvenement": 13,
     "idEvenement": 34379,
     "idSeance": 199098,
-    "dateHeure": "2025-12-31T19:30:00",
+    "dateHeure": "2025-12-31T17:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -512,7 +493,7 @@
     "typeEvenement": 13,
     "idEvenement": 34400,
     "idSeance": 199099,
-    "dateHeure": "2025-12-31T21:30:00",
+    "dateHeure": "2025-12-31T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -527,6 +508,30 @@
         "duree": 98,
         "version": "VO",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3962,
+    "typeEvenement": 13,
+    "idEvenement": 34395,
+    "idSeance": 199130,
+    "dateHeure": "2026-01-01T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 35868,
+        "ordre": 1,
+        "idSeance": 199130,
+        "idCopie": 30627,
+        "duree": 97,
+        "version": "VO",
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
