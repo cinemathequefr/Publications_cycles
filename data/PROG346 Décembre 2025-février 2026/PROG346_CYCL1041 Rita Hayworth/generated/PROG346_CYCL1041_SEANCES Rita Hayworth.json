@@ -111,27 +111,9 @@
   {
     "idCategorie": 3962,
     "typeEvenement": 13,
-    "idEvenement": 34391,
-    "idSeance": 205508,
+    "idEvenement": 34388,
+    "idSeance": 205552,
     "dateHeure": "2025-12-20T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 37106,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 3962,
-    "typeEvenement": 13,
-    "idEvenement": 34392,
-    "idSeance": 198842,
-    "dateHeure": "2025-12-20T18:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -139,12 +121,35 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 45437,
+        "idFilm": 30782,
         "ordre": 1,
-        "idSeance": 198842,
-        "idCopie": 6810,
-        "duree": 87,
-        "version": "VOSTF",
+        "idSeance": 205552,
+        "idCopie": 30655,
+        "duree": 91,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3962,
+    "typeEvenement": 13,
+    "idEvenement": 34395,
+    "idSeance": 205554,
+    "dateHeure": "2025-12-20T18:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 35868,
+        "ordre": 1,
+        "idSeance": 205554,
+        "idCopie": 30627,
+        "duree": 97,
+        "version": "VO",
         "format": "DCP",
         "restauration": true
       }
@@ -155,7 +160,7 @@
     "typeEvenement": 13,
     "idEvenement": 34386,
     "idSeance": 205520,
-    "dateHeure": "2025-12-20T20:30:00",
+    "dateHeure": "2025-12-20T20:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -199,9 +204,9 @@
   {
     "idCategorie": 3962,
     "typeEvenement": 13,
-    "idEvenement": 34388,
-    "idSeance": 198861,
-    "dateHeure": "2025-12-21T19:00:00",
+    "idEvenement": 34392,
+    "idSeance": 205555,
+    "dateHeure": "2025-12-21T19:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -209,13 +214,32 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 30782,
+        "idFilm": 45437,
         "ordre": 1,
-        "idSeance": 198861,
-        "idCopie": 30655,
-        "duree": 91,
-        "version": "VO",
-        "format": "DCP"
+        "idSeance": 205555,
+        "idCopie": 6810,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 3962,
+    "typeEvenement": 13,
+    "idEvenement": 34391,
+    "idSeance": 198875,
+    "dateHeure": "2025-12-22T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 37106,
+        "ordre": 1
       }
     ]
   },
@@ -508,30 +532,6 @@
         "duree": 98,
         "version": "VO",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3962,
-    "typeEvenement": 13,
-    "idEvenement": 34395,
-    "idSeance": 199130,
-    "dateHeure": "2026-01-01T18:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 35868,
-        "ordre": 1,
-        "idSeance": 199130,
-        "idCopie": 30627,
-        "duree": 97,
-        "version": "VO",
-        "format": "DCP",
-        "restauration": true
       }
     ]
   },

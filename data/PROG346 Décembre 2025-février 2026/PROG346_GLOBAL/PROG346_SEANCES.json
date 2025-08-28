@@ -1476,8 +1476,8 @@
     "hashEvenement": "c34725"
   },
   {
-    "idSeance": 205508,
-    "idEvenement": 34391,
+    "idSeance": 205552,
+    "idEvenement": 34388,
     "dateHeure": "2025-12-20T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -1488,14 +1488,17 @@
     ],
     "items": [
       {
-        "idFilm": 37106,
-        "titre": "Amours de Carmen",
-        "art": "Les",
-        "realisateurs": "Charles Vidor",
-        "annee": 1950
+        "idFilm": 30782,
+        "titre": "Belle du Pacifique",
+        "art": "La",
+        "realisateurs": "Curtis Bernhardt",
+        "annee": 1953,
+        "duree": 91,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f37106"
+    "hashEvenement": "f30782"
   },
   {
     "idSeance": 198845,
@@ -1522,8 +1525,8 @@
     "hashEvenement": "f105147"
   },
   {
-    "idSeance": 198842,
-    "idEvenement": 34392,
+    "idSeance": 205554,
+    "idEvenement": 34395,
     "dateHeure": "2025-12-20T18:30:00",
     "salle": "HL",
     "cycle": [
@@ -1534,18 +1537,17 @@
     ],
     "items": [
       {
-        "idFilm": 45437,
-        "titre": "Dame de Shanghaï",
-        "art": "La",
-        "realisateurs": "Orson Welles",
-        "annee": 1947,
-        "duree": 87,
-        "version": "VOSTF",
+        "idFilm": 35868,
+        "titre": "Ô toi ma charmante",
+        "realisateurs": "William A. Seiter",
+        "annee": 1942,
+        "duree": 97,
+        "version": "VO",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f45437"
+    "hashEvenement": "f35868"
   },
   {
     "idSeance": 198846,
@@ -1574,7 +1576,7 @@
   {
     "idSeance": 205520,
     "idEvenement": 34386,
-    "dateHeure": "2025-12-20T20:30:00",
+    "dateHeure": "2025-12-20T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1687,9 +1689,9 @@
     "hashEvenement": "f45165"
   },
   {
-    "idSeance": 198861,
-    "idEvenement": 34388,
-    "dateHeure": "2025-12-21T19:00:00",
+    "idSeance": 205555,
+    "idEvenement": 34392,
+    "dateHeure": "2025-12-21T19:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -1699,17 +1701,18 @@
     ],
     "items": [
       {
-        "idFilm": 30782,
-        "titre": "Belle du Pacifique",
+        "idFilm": 45437,
+        "titre": "Dame de Shanghaï",
         "art": "La",
-        "realisateurs": "Curtis Bernhardt",
-        "annee": 1953,
-        "duree": 91,
-        "version": "VO",
-        "format": "DCP"
+        "realisateurs": "Orson Welles",
+        "annee": 1947,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f30782"
+    "hashEvenement": "f45437"
   },
   {
     "idSeance": 198866,
@@ -1735,6 +1738,28 @@
       }
     ],
     "hashEvenement": "f131185"
+  },
+  {
+    "idSeance": 198875,
+    "idEvenement": 34391,
+    "dateHeure": "2025-12-22T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Rita Hayworth",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 37106,
+        "titre": "Amours de Carmen",
+        "art": "Les",
+        "realisateurs": "Charles Vidor",
+        "annee": 1950
+      }
+    ],
+    "hashEvenement": "f37106"
   },
   {
     "idSeance": 198908,
@@ -2056,31 +2081,6 @@
     "hashEvenement": "f36872"
   },
   {
-    "idSeance": 199130,
-    "idEvenement": 34395,
-    "dateHeure": "2026-01-01T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Rita Hayworth",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 35868,
-        "titre": "Ô toi ma charmante",
-        "realisateurs": "William A. Seiter",
-        "annee": 1942,
-        "duree": 97,
-        "version": "VO",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f35868"
-  },
-  {
     "idSeance": 199175,
     "idEvenement": 34397,
     "dateHeure": "2026-01-02T19:30:00",
@@ -2145,8 +2145,8 @@
     "items": [
       {
         "idConf": 34680,
-        "titre": "Louis Dufay (1874-1936) pionnier de la photographie et du cinéma en couleurs.",
-        "sousTitre": "Conférence ",
+        "titre": "Louis Dufay (1874-1936) pionnier de la photographie et du cinéma en couleurs",
+        "sousTitre": "Conférence de Jean-Luc Dufay, Patrick Fourneret et Édouard Hollande",
         "typeConference": "Conférence",
         "duree": 90
       }
