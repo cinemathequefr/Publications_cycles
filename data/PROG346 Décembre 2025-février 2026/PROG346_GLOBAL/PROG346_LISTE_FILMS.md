@@ -23,7 +23,7 @@
 
   * Amour meurtri (L')  
   * Capri-Revolution  
-  * Leopardi, il giovane favoloso  
+  * Leopardi : il giovane favoloso  
   * Maire du Rione Sanità (Le)  
   * Mort d'un mathématicien napolitain  
   * Nostalgia  
