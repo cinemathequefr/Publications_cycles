@@ -1,5 +1,14 @@
 # Liste des films par cycle
 
+## Alexandre Dovjenko (1)
+
+  * Terre (La)
+
+## André De Toth (2)
+
+  * Enfants de salauds  
+  * Piège (Le)
+
 ## Cinéma bis (2)
 
   * Nuit des juges (La)  
@@ -16,7 +25,7 @@
   * Innisfree  
   * Motivos de Berta (Los)  
   * Recuerdos de una mañana  
-  * Saphir de Saint Louis (Le)  
+  * Saphir de St. Louis (Le)  
   * Spectre du Thuit (Le)
 
 ## Mario Martone (8)
@@ -29,6 +38,10 @@
   * Nostalgia  
   * Qui rido io  
   * Théâtre de guerre
+
+## Maurice Tourneur (1)
+
+  * Avec le sourire
 
 ## Orson Welles (10)
 

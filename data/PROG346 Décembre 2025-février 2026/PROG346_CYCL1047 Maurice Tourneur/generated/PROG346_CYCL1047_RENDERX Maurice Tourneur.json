@@ -1,10 +1,45 @@
 {
   "datesCycle": [
-    "2026-02-19T19:00:00",
+    "2026-02-18T20:00:00",
     "2026-02-19T19:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 51502,
+          "content": [
+            {
+              "idFilm": 51502,
+              "ordre": 1,
+              "titre": "Avec le sourire",
+              "realisateurs": "Maurice Tourneur",
+              "pays": "France",
+              "annee": 1936,
+              "duree": 98,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Maurice Chevalier",
+                "Marie Glory",
+                "André Lefaur"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200405,
+              "dateHeure": "2026-02-18T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        }
+      ]
+    },
     {
       "tri": 4,
       "titreSousCycle": "Rencontres et conférences",
