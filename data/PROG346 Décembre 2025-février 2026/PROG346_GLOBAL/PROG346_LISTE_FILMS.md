@@ -82,29 +82,40 @@
 
   * Maigret et le mort amoureux
 
-## Restaurations et raretés, best of 2025 (21)
+## Restaurations et raretés, best of 2025 (32)
 
   * 'A santanotte  
   * Au-delà de l'oubli  
   * Bête à l'affût (La)  
+  * Boulevard du crépuscule  
   * Buddenbrooks (Les)  
   * Carmen de Kawachi  
+  * Contre la loi  
+  * Danger, Diabolik  
+  * Descent (The)  
+  * Duel au soleil  
+  * Écoutez les grondements de l'océan  
   * Étoiles  
   * Fantozzi  
   * Feux dans la plaine (Les)  
+  * Filles (Les)  
   * Kwaïdan  
   * Let My Puppets Come  
   * Longue nuit de l'exorcisme (La)  
+  * Macho Dancer  
   * Malina  
   * Mauvais coups (Les)  
   * Mort aux trousses (La)  
+  * Nuits fauves (Les)  
   * Onze heures sonnaient  
   * Panthère Rose (La)  
   * Quand la colère éclate  
+  * Rapt  
   * Sholay  
   * Story of Joanna (The)  
   * Sur le territoire des Comanches  
-  * Vérité sur Bébé Donge (La)
+  * Vérité sur Bébé Donge (La)  
+  * Ville à vendre
 
 ## Rita Hayworth (26)
 
