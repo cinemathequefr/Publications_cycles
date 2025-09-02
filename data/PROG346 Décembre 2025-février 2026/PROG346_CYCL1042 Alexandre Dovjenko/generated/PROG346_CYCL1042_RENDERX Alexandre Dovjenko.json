@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-01-21T20:00:00",
-    "2026-01-24T14:30:00"
+    "2026-01-24T18:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,63 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 40231,
+          "content": [
+            {
+              "idFilm": 40231,
+              "ordre": 1,
+              "titre": "Arsenal",
+              "realisateurs": "Alexandre Dovjenko",
+              "pays": "URSS",
+              "annee": 1928,
+              "duree": 88,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Semion Svachenko",
+                "Amvrossi Boutchma",
+                "Nikolai Nademsky"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 199776,
+              "dateHeure": "2026-01-24T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 53333,
+          "content": [
+            {
+              "idFilm": 53333,
+              "ordre": 1,
+              "titre": "Chtchors",
+              "titreVo": "Scors",
+              "realisateurs": "Alexandre Dovjenko, Youlia Solntseva",
+              "pays": "URSS",
+              "annee": 1939,
+              "duree": 115,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Evgueni Samoïlov",
+                "Ivan Skuratov",
+                "Lukas Liachenko"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 199777,
+              "dateHeure": "2026-01-24T18:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 53567,
           "content": [
@@ -37,6 +94,34 @@
               "dateHeure": "2026-01-21T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 41173,
+          "content": [
+            {
+              "idFilm": 41173,
+              "ordre": 1,
+              "titre": "Zvenigora",
+              "realisateurs": "Alexandre Dovjenko",
+              "pays": "URSS",
+              "annee": 1928,
+              "duree": 93,
+              "version": "Autres",
+              "format": "35 mm",
+              "generique": [
+                "Semion Svachenko",
+                "Gueorgui Astafiev",
+                "Nikolaï Nademski"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 199691,
+              "dateHeure": "2026-01-22T21:30:00",
+              "idSalle": "GF"
             }
           ]
         }

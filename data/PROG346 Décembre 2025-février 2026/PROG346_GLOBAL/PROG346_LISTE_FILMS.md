@@ -1,8 +1,11 @@
 # Liste des films par cycle
 
-## Alexandre Dovjenko (1)
+## Alexandre Dovjenko (4)
 
-  * Terre (La)
+  * Arsenal  
+  * Chtchors  
+  * Terre (La)  
+  * Zvenigora
 
 ## André De Toth (2)
 
@@ -13,6 +16,20 @@
 
   * Nuit des juges (La)  
   * Un été pourri
+
+## David Gordon Green (11)
+
+  * All the Real Girls  
+  * Autre rive (L')  
+  * Baby-sitter malgré lui  
+  * Délire express  
+  * George Washington  
+  * Joe  
+  * Manglehorn  
+  * Prince of Texas  
+  * Snow Angels  
+  * Stronger  
+  * Votre majesté
 
 ## Histoire permanente du cinéma (6)
 
@@ -36,6 +53,15 @@
   * Recuerdos de una mañana  
   * Saphir de St. Louis (Le)  
   * Spectre du Thuit (Le)
+
+## Les grands classiques du cinéma muet vus par Henri Langlois (6)
+
+  * Cabiria  
+  * Chute de la maison Usher (La)  
+  * Nana  
+  * Passion de Jeanne d'Arc (La)  
+  * Poings de fer, cœur d'or  
+  * Rapaces (Les)
 
 ## Mario Martone (8)
 
@@ -91,7 +117,7 @@
   * Buddenbrooks (Les)  
   * Carmen de Kawachi  
   * Contre la loi  
-  * Danger, Diabolik  
+  * Danger : Diabolik !  
   * Descent (The)  
   * Duel au soleil  
   * Écoutez les grondements de l'océan  
@@ -149,4 +175,32 @@
 ## Séances spéciales (2)
 
   * Napoléon vu par Abel Gance (partie 1)  
-  * Napoléon vu par Abel Gance (partie 2)  
+  * Napoléon vu par Abel Gance (partie 2)
+
+## Une fin d'année en 70 mm (14)
+
+  * Cheyennes (Les)  
+  * Conquête de l'Ouest (La)  
+  * Huit salopards (Les)  
+  * Inherent Vice  
+  * Khartoum  
+  * Lawrence d'Arabie  
+  * Lifeforce  
+  * Lord Jim  
+  * Master (The)  
+  * Mélodie du bonheur (La)  
+  * Patton  
+  * Poltergeist  
+  * Top Gun  
+  * Tron
+
+## Valérie Donzelli (8)
+
+  * A pied d'œuvre  
+  * Amour et les forêts (L')  
+  * Guerre est déclarée (La)  
+  * Main dans la main  
+  * Marguerite et Julien  
+  * Notre Dame  
+  * Que d'amour  
+  * Reine des pommes (La)  
