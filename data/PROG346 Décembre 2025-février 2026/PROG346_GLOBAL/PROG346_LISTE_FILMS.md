@@ -14,6 +14,15 @@
   * Nuit des juges (La)  
   * Un été pourri
 
+## Histoire permanente du cinéma (6)
+
+  * American Gigolo  
+  * Au-dessous du volcan  
+  * Cría cuervos  
+  * M*A*S*H  
+  * Nostalghia  
+  * Trois amigos
+
 ## José Luis Guerín (11)
 
   * Académie des muses (L')  
