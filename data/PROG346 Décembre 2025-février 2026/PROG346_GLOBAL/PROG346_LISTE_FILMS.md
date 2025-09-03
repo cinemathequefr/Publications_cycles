@@ -1,16 +1,41 @@
 # Liste des films par cycle
 
-## Alexandre Dovjenko (4)
+## Alexandre Dovjenko (6)
 
+  * Aerograd  
   * Arsenal  
   * Chtchors  
+  * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
   * Zvenigora
 
-## André De Toth (2)
+## André De Toth (25)
 
+  * 5 heures 40  
+  * Cavalier de la mort (Le)  
+  * Cavalier traqué (Le)  
+  * Chasse au gang  
+  * Chevauchée des bannis (La)  
+  * Conquérants de Carson City (Les)  
+  * Deux filles dans la rue  
+  * Eaux dormantes  
   * Enfants de salauds  
-  * Piège (Le)
+  * Femme de feu  
+  * Furie des tropiques  
+  * Hat het boldogsag  
+  * Homme au masque de cire (L')  
+  * Massacreurs du Kansas (Les)  
+  * Mission du commandant Lex (La)  
+  * Noces de Toprin (Les)  
+  * None Shall Escape  
+  * Orchidée blanche (L')  
+  * Passport to Suez  
+  * Piège (Le)  
+  * Rivière de nos amours (La)  
+  * Sabre et la Flèche (Le)  
+  * Semmelweis  
+  * Terreur à l'Ouest  
+  * Trahison du capitaine Porter (La)
 
 ## Cinéma bis (2)
 
@@ -143,7 +168,7 @@
   * Vérité sur Bébé Donge (La)  
   * Ville à vendre
 
-## Rita Hayworth (26)
+## Rita Hayworth (24)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
@@ -155,7 +180,6 @@
   * Cette nuit et toujours  
   * Ceux de Cordura  
   * Colère de Dieu (La)  
-  * Convicted  
   * Dame de Shanghaï (La)  
   * Enfer des tropiques (L')  
   * Étoile des étoiles (L')  
@@ -164,7 +188,6 @@
   * Ô toi ma charmante  
   * Piège au grisbi  
   * Plus grand cirque du monde (Le)  
-  * Police montée  
   * Reine de Broadway (La)  
   * Route de Salina (La)  
   * Salomé  
@@ -194,12 +217,11 @@
   * Top Gun  
   * Tron
 
-## Valérie Donzelli (8)
+## Valérie Donzelli (7)
 
   * A pied d'œuvre  
   * Amour et les forêts (L')  
   * Guerre est déclarée (La)  
-  * Main dans la main  
   * Marguerite et Julien  
   * Notre Dame  
   * Que d'amour  

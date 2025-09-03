@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-01-21T20:00:00",
-    "2026-01-24T18:30:00"
+    "2026-01-25T18:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,34 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 40488,
+          "content": [
+            {
+              "idFilm": 40488,
+              "ordre": 1,
+              "titre": "Aerograd",
+              "realisateurs": "Alexandre Dovjenko",
+              "pays": "URSS",
+              "annee": 1935,
+              "duree": 80,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Stepan Chagaida",
+                "Stepan Chkourat",
+                "Boris Dobronravov"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205602,
+              "dateHeure": "2026-01-24T18:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 40231,
           "content": [
@@ -31,8 +59,8 @@
           ],
           "seances": [
             {
-              "idSeance": 199776,
-              "dateHeure": "2026-01-24T14:30:00",
+              "idSeance": 199794,
+              "dateHeure": "2026-01-25T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -60,9 +88,37 @@
           ],
           "seances": [
             {
-              "idSeance": 199777,
-              "dateHeure": "2026-01-24T18:30:00",
+              "idSeance": 199795,
+              "dateHeure": "2026-01-25T18:30:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 65175,
+          "content": [
+            {
+              "idFilm": 65175,
+              "ordre": 1,
+              "titre": "Sacoche du courrier diplomatique",
+              "art": "La",
+              "titreVo": "Soumka dipkouriera",
+              "realisateurs": "Alexandre Dovjenko",
+              "pays": "URSS",
+              "annee": 1927,
+              "duree": 75,
+              "version": "",
+              "format": "",
+              "generique": [
+                "Alexandre Dovjenko"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205603,
+              "dateHeure": "2026-01-24T15:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -147,6 +203,23 @@
               "idSalle": "GF"
             }
           ]
+        },
+        {
+          "idConf": 34730,
+          "content": [
+            {
+              "idConf": 34730,
+              "titre": "Dialogue avec ???",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205599,
+              "dateHeure": "2026-01-25T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
         }
       ]
     }
@@ -156,6 +229,12 @@
       {
         "titre": "Conférence de ???",
         "dateHeure": "2026-01-22T19:00:00"
+      }
+    ],
+    "Dialogue": [
+      {
+        "mention": "avec ???",
+        "dateHeure": "2026-01-25T14:30:00"
       }
     ]
   }

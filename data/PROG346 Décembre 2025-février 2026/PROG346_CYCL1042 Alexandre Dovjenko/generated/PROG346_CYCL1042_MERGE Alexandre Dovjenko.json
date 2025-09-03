@@ -5,9 +5,37 @@
       "tri": 2,
       "items": [
         {
-          "idSeance": 199776,
+          "idSeance": 205602,
           "ordre": 1,
-          "dateHeure": "2026-01-24T14:30:00",
+          "dateHeure": "2026-01-24T18:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 3963,
+          "idEvenement": 34499,
+          "typeEvenement": 13,
+          "idFilm": 40488,
+          "titre": "Aerograd",
+          "titreNx": "Аэроград",
+          "realisateurs": "Alexandre Dovjenko",
+          "annee": 1935,
+          "pays": "URSS",
+          "duree": 80,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "generique": [
+            "Stepan Chagaida",
+            "Stepan Chkourat",
+            "Boris Dobronravov"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 199794,
+          "ordre": 1,
+          "dateHeure": "2026-01-25T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -32,9 +60,9 @@
           "textes": []
         },
         {
-          "idSeance": 199777,
+          "idSeance": 199795,
           "ordre": 1,
-          "dateHeure": "2026-01-24T18:30:00",
+          "dateHeure": "2026-01-25T18:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -56,6 +84,33 @@
             "Evgueni Samoïlov",
             "Ivan Skuratov",
             "Lukas Liachenko"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 205603,
+          "ordre": 1,
+          "dateHeure": "2026-01-24T15:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 105,
+          "idCategorie": 3963,
+          "idEvenement": 34513,
+          "typeEvenement": 13,
+          "idFilm": 65175,
+          "art": "La",
+          "titre": "Sacoche du courrier diplomatique",
+          "titreVo": "Soumka dipkouriera",
+          "realisateurs": "Alexandre Dovjenko",
+          "annee": 1927,
+          "pays": "URSS",
+          "duree": 75,
+          "version": "",
+          "format": "",
+          "generique": [
+            "Alexandre Dovjenko"
           ],
           "textes": []
         },
@@ -144,6 +199,23 @@
           "typeConference": "Conférence",
           "titre": "Conférence de ???",
           "duree": 90,
+          "textes": []
+        },
+        {
+          "idSeance": 205599,
+          "dateHeure": "2026-01-25T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 180,
+          "idCategorie": 4001,
+          "idEvenement": 34730,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec ???",
+          "duree": 60,
           "textes": []
         }
       ],
