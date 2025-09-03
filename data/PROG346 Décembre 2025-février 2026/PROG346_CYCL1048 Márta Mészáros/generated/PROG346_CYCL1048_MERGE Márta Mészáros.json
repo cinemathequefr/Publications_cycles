@@ -5,6 +5,31 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 205600,
+          "dateHeure": "2026-01-31T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 180,
+          "idCategorie": 4002,
+          "idEvenement": 34812,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Lili Monori",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Lili Monori",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 1
+            }
+          ]
+        },
+        {
           "idSeance": 205522,
           "dateHeure": "2026-01-29T19:00:00",
           "idSalle": [
@@ -29,19 +54,6 @@
               "ordre": 1
             }
           ]
-        },
-        {
-          "idSeance": 205600,
-          "dateHeure": "2026-01-31T14:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 180,
-          "idCategorie": 4002,
-          "idEvenement": 34812,
-          "typeEvenement": 14,
-          "textes": []
         }
       ],
       "textes": []

@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-02-18T20:00:00",
-    "2026-02-19T19:00:00"
+    "2026-02-22T14:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,29 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 79219,
+          "content": [
+            {
+              "idFilm": 79219,
+              "ordre": 1,
+              "titre": "A Girl's Folly",
+              "realisateurs": "Maurice Tourneur",
+              "pays": "États-Unis",
+              "annee": 1916,
+              "duree": 65,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205607,
+              "dateHeure": "2026-02-20T15:15:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
         {
           "idFilm": 51502,
           "content": [
@@ -35,6 +58,115 @@
               "dateHeure": "2026-02-18T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idFilm": 37358,
+          "content": [
+            {
+              "idFilm": 37358,
+              "ordre": 1,
+              "titre": "Dernier des Mohicans",
+              "art": "Le",
+              "titreVo": "Last of Mohicans",
+              "artVo": "The",
+              "realisateurs": "Maurice Tourneur, Clarence Brown",
+              "pays": "États-Unis",
+              "annee": 1920,
+              "duree": 93,
+              "version": "INT. FR.",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _The Last of Mohicans_ de James Fenimore Cooper."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200542,
+              "dateHeure": "2026-02-22T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 79205,
+          "content": [
+            {
+              "idFilm": 79205,
+              "ordre": 1,
+              "titre": "Trilby",
+              "realisateurs": "Maurice Tourneur",
+              "pays": "États-Unis",
+              "annee": 1915,
+              "duree": 0,
+              "version": "",
+              "format": "16 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200444,
+              "dateHeure": "2026-02-19T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Courts métrages",
+      "items": [
+        {
+          "idFilm": 79203,
+          "content": [
+            {
+              "idFilm": 79203,
+              "ordre": 1,
+              "titre": "Fille de pirates",
+              "titreVo": "Wishing Ring",
+              "artVo": "The",
+              "realisateurs": "Maurice Tourneur",
+              "pays": "États-Unis",
+              "annee": 1914,
+              "duree": 54,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Vivian Martin",
+                "Alec B. Francis"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205606,
+              "dateHeure": "2026-02-19T15:15:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 79206,
+          "content": [
+            {
+              "idFilm": 79206,
+              "ordre": 1,
+              "titre": "Jimmy le mystérieux",
+              "titreVo": "Alias Jimmy Valentine",
+              "realisateurs": "Maurice Tourneur",
+              "pays": "États-Unis",
+              "annee": 1915,
+              "duree": 88,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200486,
+              "dateHeure": "2026-02-20T20:30:00",
+              "idSalle": "JE"
             }
           ]
         }

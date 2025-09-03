@@ -1,12 +1,14 @@
 # Liste des films par cycle
 
-## Alexandre Dovjenko (6)
+## Alexandre Dovjenko (8)
 
   * Aerograd  
   * Arsenal  
   * Chtchors  
+  * Petit fruit de l'amour  
   * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
+  * Vassia reformator  
   * Zvenigora
 
 ## André De Toth (25)
@@ -42,27 +44,45 @@
   * Nuit des juges (La)  
   * Un été pourri
 
-## David Gordon Green (11)
+## David Gordon Green (16)
 
   * All the Real Girls  
   * Autre rive (L')  
   * Baby-sitter malgré lui  
   * Délire express  
+  * Exorciste : Dévotion (L')  
   * George Washington  
+  * Halloween  
+  * Halloween Ends  
+  * Halloween Kills  
   * Joe  
   * Manglehorn  
   * Prince of Texas  
+  * Righteous Gemstones (The)  
   * Snow Angels  
   * Stronger  
   * Votre majesté
 
-## Histoire permanente du cinéma (6)
+## Films noirs scandinaves (9)
+
+  * Femme sans visage (La)  
+  * Fille aux jacinthes (La)  
+  * Huitième Coup (Le)  
+  * John og Irene  
+  * Mordets melodi  
+  * Mort est une caresse (La)  
+  * Nuit de brume  
+  * Quand la chair est faible  
+  * To minutter for sent
+
+## Histoire permanente du cinéma (7)
 
   * American Gigolo  
   * Au-dessous du volcan  
   * Cría cuervos  
   * M*A*S*H  
   * Nostalghia  
+  * Parfum de femme  
   * Trois amigos
 
 ## José Luis Guerín (11)
@@ -72,7 +92,7 @@
   * De una isla  
   * En construcción  
   * Guest  
-  * Historias del buen valle  
+  * Histoires de la bonne vallée  
   * Innisfree  
   * Motivos de Berta (Los)  
   * Recuerdos de una mañana  
@@ -99,9 +119,14 @@
   * Qui rido io  
   * Théâtre de guerre
 
-## Maurice Tourneur (1)
+## Maurice Tourneur (6)
 
-  * Avec le sourire
+  * A Girl's Folly  
+  * Avec le sourire  
+  * Dernier des Mohicans (Le)  
+  * Fille de pirates  
+  * Jimmy le mystérieux  
+  * Trilby
 
 ## Orson Welles (10)
 
@@ -175,11 +200,11 @@
   * Amours de Carmen (Les)  
   * Arènes sanglantes  
   * Belle du Pacifique (La)  
-  * Blonde framboise (La)  
   * Blonde ou la Rousse (La)  
   * Cette nuit et toujours  
   * Ceux de Cordura  
   * Colère de Dieu (La)  
+  * Convicted  
   * Dame de Shanghaï (La)  
   * Enfer des tropiques (L')  
   * Étoile des étoiles (L')  
@@ -219,7 +244,7 @@
 
 ## Valérie Donzelli (7)
 
-  * A pied d'œuvre  
+  * À pied d'œuvre  
   * Amour et les forêts (L')  
   * Guerre est déclarée (La)  
   * Marguerite et Julien  
