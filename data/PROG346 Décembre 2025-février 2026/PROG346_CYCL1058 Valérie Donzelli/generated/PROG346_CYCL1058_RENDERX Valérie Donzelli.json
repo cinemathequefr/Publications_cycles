@@ -32,7 +32,7 @@
               "idSeance": 199621,
               "dateHeure": "2026-01-19T20:00:00",
               "idSalle": "HL",
-              "mention": "Avant-première"
+              "mention": "Avant-première. Séance présentée par Valérie Donzelli"
             }
           ]
         },
@@ -225,13 +225,51 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34811,
+          "content": [
+            {
+              "idConf": 34811,
+              "titre": "Leçon de cinéma avec Valérie Donzelli",
+              "typeConference": "Leçon de cinéma",
+              "mentionAnimation": "Animé par Caroline Maleville"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205598,
+              "dateHeure": "2026-01-24T12:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Avant-première": [
       {
         "dateHeure": "2026-01-19T20:00:00",
-        "titreFilms": "A pied d'œuvre"
+        "titreFilms": "A pied d'œuvre",
+        "mention": "séance présentée par Valérie Donzelli"
+      }
+    ],
+    "Leçon de cinéma": [
+      {
+        "titre": "Leçon de cinéma avec Valérie Donzelli",
+        "dateHeure": "2026-01-24T12:15:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "A pied d'œuvre",
+        "mention": "par Valérie Donzelli",
+        "dateHeure": "2026-01-19T20:00:00"
       }
     ]
   }

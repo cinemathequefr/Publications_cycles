@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2026-01-11T14:30:00",
+    "2026-01-14T20:00:00",
     "2026-01-17T14:30:00"
   ],
   "textePresentation": "",
@@ -35,67 +35,43 @@
           ]
         },
         {
-          "idFilm": 77468,
-          "content": [
+          "groupe": [
             {
               "idFilm": 77468,
-              "ordre": 1,
-              "titre": "Piège",
-              "art": "Le",
-              "titreVo": "Pitfall",
-              "realisateurs": "André De Toth",
-              "pays": "États-Unis",
-              "annee": 1948,
-              "duree": 84,
-              "version": "VOSTF",
-              "format": "35 mm"
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 77468,
+                  "ordre": 1,
+                  "titre": "Piège",
+                  "art": "Le",
+                  "titreVo": "Pitfall",
+                  "realisateurs": "André De Toth",
+                  "pays": "États-Unis",
+                  "annee": 1948,
+                  "duree": 84,
+                  "version": "VOSTF",
+                  "format": "35 mm"
+                }
+              ]
+            },
             {
-              "idSeance": 199589,
-              "dateHeure": "2026-01-17T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34727,
-          "content": [
-            {
-              "idConf": 34727,
-              "titre": "Dialogue avec Philippe Garnier",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205513,
-              "dateHeure": "2026-01-11T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idConf": 34728,
-          "content": [
-            {
-              "idConf": 34728,
-              "titre": "Dialogue avec ???",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205514,
-              "dateHeure": "2026-01-17T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 34728,
+              "content": [
+                {
+                  "idConf": 34728,
+                  "ordre": 2,
+                  "titre": "Dialogue avec ???",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 199589,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-01-17T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -103,12 +79,9 @@
     }
   ],
   "syntheseAction": {
-    "Dialogues": [
+    "Dialogue": [
       {
-        "mention": "avec Philippe Garnier",
-        "dateHeure": "2026-01-11T14:30:00"
-      },
-      {
+        "titreFilms": "Le Piège",
         "mention": "avec ???",
         "dateHeure": "2026-01-17T14:30:00"
       }

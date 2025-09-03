@@ -127,10 +127,10 @@
   * Filles (Les)  
   * Kwaïdan  
   * Let My Puppets Come  
-  * Longue nuit de l'exorcisme (La)  
+  * Longue Nuit de l'exorcisme (La)  
   * Macho Dancer  
   * Malina  
-  * Mauvais coups (Les)  
+  * Mauvais Coups (Les)  
   * Mort aux trousses (La)  
   * Nuits fauves (Les)  
   * Onze heures sonnaient  

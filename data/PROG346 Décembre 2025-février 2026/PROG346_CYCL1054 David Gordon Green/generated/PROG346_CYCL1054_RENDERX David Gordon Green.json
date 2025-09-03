@@ -28,7 +28,8 @@
             {
               "idSeance": 205589,
               "dateHeure": "2026-01-08T18:00:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Lisa Muskat"
             }
           ]
         },
@@ -265,49 +266,42 @@
           ]
         },
         {
-          "idFilm": 114071,
-          "content": [
+          "groupe": [
             {
               "idFilm": 114071,
-              "ordre": 1,
-              "titre": "Votre majesté",
-              "titreVo": "Your Highness",
-              "realisateurs": "David Gordon Green",
-              "pays": "États-Unis",
-              "annee": 2009,
-              "duree": 102,
-              "version": "",
-              "format": ""
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 114071,
+                  "ordre": 1,
+                  "titre": "Votre majesté",
+                  "titreVo": "Your Highness",
+                  "realisateurs": "David Gordon Green",
+                  "pays": "États-Unis",
+                  "annee": 2009,
+                  "duree": 102,
+                  "version": "",
+                  "format": ""
+                }
+              ]
+            },
             {
-              "idSeance": 199402,
-              "dateHeure": "2026-01-10T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34726,
-          "content": [
-            {
-              "idConf": 34726,
-              "titre": "David Gordon Green par David Gordon Green, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205512,
-              "dateHeure": "2026-01-10T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 34726,
+              "content": [
+                {
+                  "idConf": 34726,
+                  "ordre": 2,
+                  "titre": "David Gordon Green par David Gordon Green, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 199402,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-01-10T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -319,6 +313,13 @@
       {
         "titre": "David Gordon Green par David Gordon Green, une leçon de cinéma",
         "dateHeure": "2026-01-10T14:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "All the Real Girls",
+        "mention": "par Lisa Muskat",
+        "dateHeure": "2026-01-08T18:00:00"
       }
     ]
   }
