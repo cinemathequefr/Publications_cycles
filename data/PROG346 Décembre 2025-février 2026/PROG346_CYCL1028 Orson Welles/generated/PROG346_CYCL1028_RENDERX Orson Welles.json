@@ -10,33 +10,50 @@
       "titreSousCycle": "Longs métrages inachevés",
       "items": [
         {
-          "idFilm": 155351,
-          "content": [
+          "groupe": [
             {
               "idFilm": 155351,
-              "ordre": 1,
-              "titre": "De l'autre côté du vent",
-              "titreVo": "Other Side of the Wind",
-              "artVo": "The",
-              "realisateurs": "Orson Welles",
-              "pays": "États-Unis",
-              "annee": 2018,
-              "duree": 122,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "John Huston",
-                "Oja Kodar",
-                "Peter Bogdanovich"
-              ],
-              "miniTexte": "Le dernier projet d'un cinéaste vieillissant, J. J. Hannaford (mélange d'Ernest Hemingway et de John Ford), qui meurt dans un accident de voiture le soir de ses 70 ans. Le montage du film sera achevé par Peter Bogdanovich, avant une diffusion sur Netflix."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 155351,
+                  "ordre": 1,
+                  "titre": "De l'autre côté du vent",
+                  "titreVo": "Other Side of the Wind",
+                  "artVo": "The",
+                  "realisateurs": "Orson Welles",
+                  "pays": "États-Unis",
+                  "annee": 2018,
+                  "duree": 122,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "John Huston",
+                    "Oja Kodar",
+                    "Peter Bogdanovich"
+                  ],
+                  "miniTexte": "Le dernier projet d'un cinéaste vieillissant, J. J. Hannaford (mélange d'Ernest Hemingway et de John Ford), qui meurt dans un accident de voiture le soir de ses 70 ans. Le montage du film sera achevé par Peter Bogdanovich, avant une diffusion sur Netflix."
+                }
+              ]
+            },
             {
-              "idSeance": 198672,
-              "dateHeure": "2025-12-14T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 34722,
+              "content": [
+                {
+                  "idConf": 34722,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Damien Bertrand",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 198672,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-12-14T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -155,35 +172,12 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34722,
-          "content": [
-            {
-              "idConf": 34722,
-              "titre": "Dialogue avec Damien Bertrand",
-              "typeConference": "Dialogue",
-              "mentionAnimation": "Animé par Bernard Benoliel"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205505,
-              "dateHeure": "2025-12-14T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "De l'autre côté du vent",
         "mention": "avec Damien Bertrand",
         "dateHeure": "2025-12-14T14:30:00"
       }
