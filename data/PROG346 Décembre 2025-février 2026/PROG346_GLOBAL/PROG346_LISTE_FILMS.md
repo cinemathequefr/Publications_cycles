@@ -14,6 +14,7 @@
 ## André De Toth (29)
 
   * 5 heures 40  
+  * Aveu (L')  
   * Cavalier de la mort (Le)  
   * Cavalier traqué (Le)  
   * Chasse au gang  
@@ -26,20 +27,19 @@
   * Enfants de salauds  
   * Femme de feu  
   * Furie des tropiques  
-  * Hat het boldogsag  
-  * Hidden Fear  
   * Homme au masque de cire (L')  
   * Massacreurs du Kansas (Les)  
   * Mission du commandant Lex (La)  
   * Noces de Toprin (Les)  
-  * None Shall Escape  
   * Orchidée blanche (L')  
+  * Pas un n'échappera  
   * Passport to Suez  
   * Piège (Le)  
   * Quand la bête hurle  
   * Rivière de nos amours (La)  
   * Sabre et la Flèche (Le)  
   * Semmelweis  
+  * Six semaines de bonheur  
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)
 
@@ -133,7 +133,7 @@
   * Jimmy le mystérieux  
   * Trilby
 
-## Márta Mészáros (10)
+## Márta Mészáros (13)
 
   * Adoption  
   * Cati  
@@ -141,26 +141,29 @@
   * Eladás müvészete (Az)  
   * Elles deux  
   * Héritières (Les)  
+  * Journal intime  
   * Kisvilma – Az Utolso Naplo  
-  * Marie DOUBLON  
+  * Marie  
   * Neuf mois  
-  * Szép lányok, ne sírjatok !
+  * Szép lányok, ne sírjatok !  
+  * Une mère, une fille  
+  * Utközben
 
 ## Orson Welles (15)
 
+  * Au pays de Don Quichotte : Fêtes d'avril à Séville  
+  * Au pays de Don Quichotte : Itinéraire andalou  
+  * Au pays de Don Quichotte : L'Heure du flamenco  
+  * Au pays de Don Quichotte : La Feria de San Fermín  
+  * Au pays de Don Quichotte : La Semaine sainte en Espagne  
+  * Au pays de Don Quichotte : Lâcher de taureaux à Pampelune  
+  * Au pays de Don Quichotte : Les Caves de Jerez  
+  * Au pays de Don Quichotte : Rome et l'Orient en Espagne  
+  * Au pays de Don Quichotte : Séville  
   * Citizen Welles  
   * De l'autre côté du vent  
   * Ed Wood  
-  * In the Land of Don Quixote : Itinerario Andaluso  
-  * In the Land of Don Quixote : L'Encierro di Pamplona  
-  * In the Land of Don Quixote : La Feria di San Fermin  
-  * In the Land of Don Quixote : Le Cantine di Jerez  
-  * In the Land of Don Quixote : Spagna santa  
   * Mank  
-  * Nella Terra di Don Chisciotte : Ferie de avril a Siviglia  
-  * Nella Terra di Don Chisciotte : Roma è Oriente in Spagna  
-  * Nella Terra di Don Chisciotte : Siviglia  
-  * Nella Terra di Don Chisciotte : Tempo di Flamenco  
   * Nuit qui terrifia l'Amérique (La)  
   * Orson Welles et moi
 

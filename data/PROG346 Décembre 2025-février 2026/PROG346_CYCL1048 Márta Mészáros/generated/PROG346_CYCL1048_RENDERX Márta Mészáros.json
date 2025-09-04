@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-01-28T20:00:00",
-    "2026-02-02T21:00:00"
+    "2026-02-05T21:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -29,7 +29,7 @@
           "seances": [
             {
               "idSeance": 199998,
-              "dateHeure": "2026-02-02T21:00:00",
+              "dateHeure": "2026-02-02T19:45:00",
               "idSalle": "GF"
             }
           ]
@@ -54,7 +54,7 @@
           "seances": [
             {
               "idSeance": 199968,
-              "dateHeure": "2026-01-31T19:30:00",
+              "dateHeure": "2026-01-31T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -79,7 +79,7 @@
           "seances": [
             {
               "idSeance": 199997,
-              "dateHeure": "2026-02-02T19:00:00",
+              "dateHeure": "2026-02-02T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -100,7 +100,7 @@
           "seances": [
             {
               "idSeance": 199924,
-              "dateHeure": "2026-01-30T21:30:00",
+              "dateHeure": "2026-01-30T21:00:00",
               "idSalle": "GF"
             }
           ]
@@ -159,6 +159,31 @@
           ]
         },
         {
+          "idFilm": 39859,
+          "content": [
+            {
+              "idFilm": 39859,
+              "ordre": 1,
+              "titre": "Journal intime",
+              "titreVo": "Napló gyermekeimnek",
+              "realisateurs": "Márta Mészáros",
+              "pays": "Hongrie",
+              "annee": 1982,
+              "duree": 109,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200065,
+              "dateHeure": "2026-02-05T21:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 155460,
           "content": [
             {
@@ -188,15 +213,16 @@
             {
               "idFilm": 135297,
               "ordre": 1,
-              "titre": "Marie DOUBLON",
+              "titre": "Marie",
+              "titreVo": "Holdudvar",
               "realisateurs": "Márta Mészáros",
               "pays": "Hongrie",
-              "annee": 1968,
+              "annee": 1969,
               "duree": 82,
               "version": "VOSTF",
               "format": "DCP",
               "generique": [
-                "Mari Töröcsik",
+                "Mari Törőcsik",
                 "Kati Kovács"
               ]
             }
@@ -204,7 +230,7 @@
           "seances": [
             {
               "idSeance": 199987,
-              "dateHeure": "2026-02-01T19:30:00",
+              "dateHeure": "2026-02-01T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -258,7 +284,48 @@
           "seances": [
             {
               "idSeance": 199988,
-              "dateHeure": "2026-02-01T21:30:00",
+              "dateHeure": "2026-02-01T19:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 33834,
+          "content": [
+            {
+              "idFilm": 33834,
+              "ordre": 1,
+              "titre": "Une mère, une fille",
+              "titreVo": "Anna",
+              "realisateurs": "Márta Mészáros",
+              "pays": "Hongrie-France",
+              "annee": 1981
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200034,
+              "dateHeure": "2026-02-04T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 77596,
+          "content": [
+            {
+              "idFilm": 77596,
+              "ordre": 1,
+              "titre": "Utközben",
+              "realisateurs": "Márta Mészáros",
+              "pays": "Hongrie",
+              "annee": 1979
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200033,
+              "dateHeure": "2026-02-04T18:30:00",
               "idSalle": "GF"
             }
           ]
