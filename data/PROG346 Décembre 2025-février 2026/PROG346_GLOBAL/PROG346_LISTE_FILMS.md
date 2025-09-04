@@ -133,6 +133,19 @@
   * Jimmy le mystérieux  
   * Trilby
 
+## Márta Mészáros (10)
+
+  * Adoption  
+  * Cati  
+  * Débarras  
+  * Eladás müvészete (Az)  
+  * Elles deux  
+  * Héritières (Les)  
+  * Kisvilma – Az Utolso Naplo  
+  * Marie DOUBLON  
+  * Neuf mois  
+  * Szép lányok, ne sírjatok !
+
 ## Orson Welles (15)
 
   * Citizen Welles  
