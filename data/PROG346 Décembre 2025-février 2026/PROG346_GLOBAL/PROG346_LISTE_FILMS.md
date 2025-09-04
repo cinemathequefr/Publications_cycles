@@ -104,23 +104,40 @@
   * Saphir de St. Louis (Le)  
   * Spectre du Thuit (Le)
 
+## Le film policier asiatique, 25 indispensables (12)
+
+  * As Tears Go By  
+  * City on Fire  
+  * Ichi the Killer  
+  * Infernal affairs  
+  * Killer (The)  
+  * Longest Nite (The)  
+  * Mission (The)  
+  * Police Story  
+  * Sonatine, mélodie mortelle  
+  * Syndicat du crime (Le)  
+  * Time and Tide  
+  * Violent Cop
+
 ## Les grands classiques du cinéma muet vus par Henri Langlois (6)
 
   * Cabiria  
   * Chute de la maison Usher (La)  
   * Nana  
   * Passion de Jeanne d'Arc (La)  
-  * Poings de fer, cœur d'or  
-  * Rapaces (Les)
+  * Rapaces (Les)  
+  * Une fille dans chaque port
 
-## Mario Martone (8)
+## Mario Martone (10)
 
   * Amour meurtri (L')  
   * Capri-Revolution  
+  * Frères d'Italie  
   * Leopardi : il giovane favoloso  
   * Maire du Rione Sanità (Le)  
   * Mort d'un mathématicien napolitain  
   * Nostalgia  
+  * Odeur du sang (L')  
   * Qui rido io  
   * Théâtre de guerre
 
@@ -180,9 +197,17 @@
   * Turang  
   * Une femme indonésienne
 
-## Pascal Bonitzer (2)
+## Pascal Bonitzer (10)
 
+  * Cherchez Hortense  
+  * Encore  
+  * Envoûtés (Les)  
+  * Grand alibi (Le)  
+  * Je pense à vous  
   * Maigret et le mort amoureux  
+  * Petites coupures  
+  * Rien sur Robert  
+  * Tableau volé (Le)  
   * Tout de suite maintenant
 
 ## Restaurations et raretés, best of 2025 (32)

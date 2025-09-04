@@ -28,33 +28,31 @@
     "idCategorie": 3975,
     "typeEvenement": 13,
     "idEvenement": 34520,
-    "idSeance": 205543,
+    "idSeance": 205635,
     "dateHeure": "2025-12-12T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
     "dureeSeance": 135,
-    "typeSeance": 44,
     "items": [
       {
         "idFilm": 58822,
         "ordre": 1,
-        "idSeance": 205543,
+        "idSeance": 205635,
         "idCopie": 30744,
         "duree": 104,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
-    ],
-    "mention": "Ouverture de la rétrospective"
+    ]
   },
   {
     "idCategorie": 3975,
     "typeEvenement": 13,
     "idEvenement": 34528,
-    "idSeance": 205544,
+    "idSeance": 205636,
     "dateHeure": "2025-12-12T20:15:00",
     "idSalle": [
       "HL",
@@ -65,10 +63,10 @@
       {
         "idFilm": 29439,
         "ordre": 1,
-        "idSeance": 205544,
+        "idSeance": 205636,
         "idCopie": 30546,
         "duree": 113,
-        "version": "VOSTA",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ]
@@ -160,19 +158,42 @@
   {
     "idCategorie": 3975,
     "typeEvenement": 13,
-    "idEvenement": 34531,
-    "idSeance": 198688,
-    "dateHeure": "2025-12-15T18:00:00",
+    "idEvenement": 34525,
+    "idSeance": 205637,
+    "dateHeure": "2025-12-15T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
+    ],
+    "dureeSeance": 210,
+    "items": [
+      {
+        "idFilm": 113193,
+        "ordre": 1,
+        "idSeance": 205637,
+        "idCopie": 30548,
+        "duree": 172,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3975,
+    "typeEvenement": 13,
+    "idEvenement": 34531,
+    "idSeance": 198726,
+    "dateHeure": "2025-12-17T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 165,
     "items": [
       {
         "idFilm": 155454,
         "ordre": 1,
-        "idSeance": 198688,
+        "idSeance": 198726,
         "idCopie": 30553,
         "duree": 133,
         "version": "VOSTF",
@@ -184,22 +205,45 @@
     "idCategorie": 3975,
     "typeEvenement": 13,
     "idEvenement": 34530,
-    "idSeance": 198689,
-    "dateHeure": "2025-12-15T21:00:00",
+    "idSeance": 205545,
+    "dateHeure": "2025-12-17T21:15:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 150,
     "items": [
       {
         "idFilm": 155453,
         "ordre": 1,
-        "idSeance": 198689,
+        "idSeance": 205545,
         "idCopie": 30552,
         "duree": 115,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3975,
+    "typeEvenement": 13,
+    "idEvenement": 34527,
+    "idSeance": 198761,
+    "dateHeure": "2025-12-18T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 91560,
+        "ordre": 1,
+        "idSeance": 198761,
+        "idCopie": 30547,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   }
