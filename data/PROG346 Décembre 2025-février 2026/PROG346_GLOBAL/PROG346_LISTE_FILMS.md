@@ -43,9 +43,11 @@
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)
 
-## Cinéma bis (2)
+## Cinéma bis (4)
 
+  * Bad girls go to hell  
   * Nuit des juges (La)  
+  * Supernichons contre mafia  
   * Un été pourri
 
 ## David Gordon Green (17)
@@ -73,7 +75,7 @@
   * Femme sans visage (La)  
   * Fille aux jacinthes (La)  
   * Huitième Coup (Le)  
-  * John og Irene  
+  * John et Irene  
   * Mordets melodi  
   * Mort est une caresse (La)  
   * Nuit de brume  
