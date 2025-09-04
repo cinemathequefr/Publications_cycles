@@ -5,26 +5,29 @@
   * Aerograd  
   * Arsenal  
   * Chtchors  
-  * Petit fruit de l'amour  
+  * Petit Fruit de l'amour  
   * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
   * Vassia reformator  
   * Zvenigora
 
-## André De Toth (25)
+## André De Toth (29)
 
   * 5 heures 40  
   * Cavalier de la mort (Le)  
   * Cavalier traqué (Le)  
   * Chasse au gang  
+  * Chef de réseau  
   * Chevauchée des bannis (La)  
   * Conquérants de Carson City (Les)  
+  * Contre-espionnage  
   * Deux filles dans la rue  
   * Eaux dormantes  
   * Enfants de salauds  
   * Femme de feu  
   * Furie des tropiques  
   * Hat het boldogsag  
+  * Hidden Fear  
   * Homme au masque de cire (L')  
   * Massacreurs du Kansas (Les)  
   * Mission du commandant Lex (La)  
@@ -33,6 +36,7 @@
   * Orchidée blanche (L')  
   * Passport to Suez  
   * Piège (Le)  
+  * Quand la bête hurle  
   * Rivière de nos amours (La)  
   * Sabre et la Flèche (Le)  
   * Semmelweis  
@@ -44,7 +48,7 @@
   * Nuit des juges (La)  
   * Un été pourri
 
-## David Gordon Green (16)
+## David Gordon Green (17)
 
   * All the Real Girls  
   * Autre rive (L')  
@@ -57,6 +61,7 @@
   * Halloween Kills  
   * Joe  
   * Manglehorn  
+  * Nutcrackers  
   * Prince of Texas  
   * Righteous Gemstones (The)  
   * Snow Angels  
@@ -128,18 +133,23 @@
   * Jimmy le mystérieux  
   * Trilby
 
-## Orson Welles (10)
+## Orson Welles (15)
 
+  * Citizen Welles  
   * De l'autre côté du vent  
+  * Ed Wood  
   * In the Land of Don Quixote : Itinerario Andaluso  
   * In the Land of Don Quixote : L'Encierro di Pamplona  
   * In the Land of Don Quixote : La Feria di San Fermin  
   * In the Land of Don Quixote : Le Cantine di Jerez  
   * In the Land of Don Quixote : Spagna santa  
+  * Mank  
   * Nella Terra di Don Chisciotte : Ferie de avril a Siviglia  
   * Nella Terra di Don Chisciotte : Roma è Oriente in Spagna  
   * Nella Terra di Don Chisciotte : Siviglia  
-  * Nella Terra di Don Chisciotte : Tempo di Flamenco
+  * Nella Terra di Don Chisciotte : Tempo di Flamenco  
+  * Nuit qui terrifia l'Amérique (La)  
+  * Orson Welles et moi
 
 ## Panorama du cinéma indonésien (10)
 
@@ -194,13 +204,14 @@
   * Vérité sur Bébé Donge (La)  
   * Ville à vendre
 
-## Rita Hayworth (24)
+## Rita Hayworth (26)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
   * Amours de Carmen (Les)  
   * Arènes sanglantes  
   * Belle du Pacifique (La)  
+  * Blonde framboise (La)  
   * Blonde ou la Rousse (La)  
   * Cette nuit et toujours  
   * Ceux de Cordura  
@@ -214,6 +225,7 @@
   * Ô toi ma charmante  
   * Piège au grisbi  
   * Plus grand cirque du monde (Le)  
+  * Police montée  
   * Reine de Broadway (La)  
   * Route de Salina (La)  
   * Salomé  
