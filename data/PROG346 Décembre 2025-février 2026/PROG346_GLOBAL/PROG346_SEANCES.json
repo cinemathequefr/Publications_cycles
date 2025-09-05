@@ -164,7 +164,7 @@
         "idFilm": 42310,
         "titre": "Quand la colère éclate",
         "realisateurs": "Silvio Siano",
-        "annee": 1961,
+        "annee": 1962,
         "duree": 84,
         "version": "VOSTF",
         "format": "DCP",
@@ -290,7 +290,7 @@
         "titre": "Mauvais Coups",
         "art": "Les",
         "realisateurs": "François Leterrier",
-        "annee": 1960,
+        "annee": 1961,
         "duree": 104,
         "format": "DCP",
         "restauration": true
@@ -718,7 +718,7 @@
         "idFilm": 41848,
         "titre": "Onze heures sonnaient",
         "realisateurs": "Giuseppe De Santis",
-        "annee": 1951,
+        "annee": 1952,
         "duree": 105,
         "version": "VOSTF",
         "format": "DCP",
@@ -1015,8 +1015,8 @@
     "hashEvenement": "f34485"
   },
   {
-    "idSeance": 205635,
-    "idEvenement": 34520,
+    "idSeance": 205648,
+    "idEvenement": 34528,
     "dateHeure": "2025-12-12T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -1027,18 +1027,16 @@
     ],
     "items": [
       {
-        "idFilm": 58822,
-        "titre": "Amour meurtri",
-        "art": "L'",
+        "idFilm": 29439,
+        "titre": "Théâtre de guerre",
         "realisateurs": "Mario Martone",
-        "annee": 1994,
-        "duree": 104,
+        "annee": 1997,
+        "duree": 113,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f58822"
+    "hashEvenement": "f29439"
   },
   {
     "idSeance": 205548,
@@ -1063,8 +1061,8 @@
     "hashEvenement": "f155491"
   },
   {
-    "idSeance": 205636,
-    "idEvenement": 34528,
+    "idSeance": 205647,
+    "idEvenement": 34520,
     "dateHeure": "2025-12-12T20:15:00",
     "salle": "HL",
     "cycle": [
@@ -1075,16 +1073,18 @@
     ],
     "items": [
       {
-        "idFilm": 29439,
-        "titre": "Théâtre de guerre",
+        "idFilm": 58822,
+        "titre": "Amour meurtri",
+        "art": "L'",
         "realisateurs": "Mario Martone",
-        "annee": 1997,
-        "duree": 113,
+        "annee": 1994,
+        "duree": 104,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f29439"
+    "hashEvenement": "f58822"
   },
   {
     "idSeance": 205549,
@@ -1802,6 +1802,7 @@
         "realisateurs": "José Luis Guerín",
         "annee": 1997,
         "duree": 88,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -1881,8 +1882,8 @@
     "hashEvenement": "f127728"
   },
   {
-    "idSeance": 198800,
-    "idEvenement": 34394,
+    "idSeance": 205660,
+    "idEvenement": 34391,
     "dateHeure": "2025-12-19T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -1893,17 +1894,14 @@
     ],
     "items": [
       {
-        "idFilm": 36254,
-        "titre": "Reine de Broadway",
-        "art": "La",
+        "idFilm": 37106,
+        "titre": "Amours de Carmen",
+        "art": "Les",
         "realisateurs": "Charles Vidor",
-        "annee": 1944,
-        "duree": 107,
-        "version": "VO",
-        "format": "35 mm"
+        "annee": 1950
       }
     ],
-    "hashEvenement": "f36254"
+    "hashEvenement": "f37106"
   },
   {
     "idSeance": 198802,
@@ -2327,11 +2325,19 @@
     "hashEvenement": "f57266"
   },
   {
-    "idSeance": 198875,
-    "idEvenement": 34391,
-    "dateHeure": "2025-12-22T18:00:00",
-    "salle": "GF",
+    "idSeance": 198873,
+    "idEvenement": 34394,
+    "dateHeure": "2025-12-22T19:00:00",
+    "salle": "HL",
     "cycle": [
+      [
+        "Ciné-club de Murielle Joudet",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
+      ],
       [
         "Rita Hayworth",
         "Les films"
@@ -2339,27 +2345,15 @@
     ],
     "items": [
       {
-        "idFilm": 37106,
-        "titre": "Amours de Carmen",
-        "art": "Les",
+        "idFilm": 36254,
+        "titre": "Reine de Broadway",
+        "art": "La",
         "realisateurs": "Charles Vidor",
-        "annee": 1950
-      }
-    ],
-    "hashEvenement": "f37106"
-  },
-  {
-    "idSeance": 205529,
-    "idEvenement": 34739,
-    "dateHeure": "2025-12-22T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Ciné-club de Murielle Joudet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+        "annee": 1944,
+        "duree": 107,
+        "version": "VO",
+        "format": "35 mm"
+      },
       {
         "idConf": 34739,
         "titre": "Dialogue avec Murielle Joudet",
@@ -2367,28 +2361,7 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c34739"
-  },
-  {
-    "idSeance": 198876,
-    "idEvenement": 34632,
-    "dateHeure": "2025-12-22T20:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Rita Hayworth",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 72368,
-        "titre": "Convicted",
-        "realisateurs": "Leon Barsha",
-        "annee": 1937
-      }
-    ],
-    "hashEvenement": "f72368"
+    "hashEvenement": "f36254c34739"
   },
   {
     "idSeance": 198908,
@@ -3094,7 +3067,7 @@
     "items": [
       {
         "idFilm": 129726,
-        "titre": "Huit salopards",
+        "titre": "Huit Salopards",
         "art": "Les",
         "realisateurs": "Quentin Tarantino",
         "annee": 2015,
@@ -3975,7 +3948,7 @@
     "items": [
       {
         "idFilm": 95920,
-        "titre": "Bad girls go to hell",
+        "titre": "Bad Girls Go to Hell",
         "realisateurs": "Doris Wishman",
         "annee": 1965,
         "duree": 65,
@@ -5165,9 +5138,9 @@
     "items": [
       {
         "idFilm": 155460,
-        "titre": "Kisvilma – Az Utolso Naplo",
+        "titre": "Petite Vilma, le dernier journal",
         "realisateurs": "Márta Mészáros",
-        "annee": 115,
+        "annee": 1999,
         "duree": 115,
         "version": "VOSTF",
         "format": "DCP",
@@ -5355,7 +5328,8 @@
     "items": [
       {
         "idFilm": 121232,
-        "titre": "Débarras",
+        "titre": "Vent de la liberté",
+        "art": "Le",
         "realisateurs": "Márta Mészáros",
         "annee": 1973,
         "duree": 77,
@@ -5405,7 +5379,7 @@
     "items": [
       {
         "idFilm": 77596,
-        "titre": "Utközben",
+        "titre": "Útközben",
         "realisateurs": "Márta Mészáros",
         "annee": 1979
       }
@@ -5612,7 +5586,7 @@
     "items": [
       {
         "idFilm": 75414,
-        "titre": "Cory szczescia",
+        "titre": "Filles de la chance",
         "realisateurs": "Márta Mészáros",
         "annee": 1998
       }
@@ -6331,7 +6305,7 @@
     "items": [
       {
         "idFilm": 104129,
-        "titre": "Grand alibi",
+        "titre": "Grand Alibi",
         "art": "Le",
         "realisateurs": "Pascal Bonitzer",
         "annee": 2007,

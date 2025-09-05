@@ -27,9 +27,32 @@
   {
     "idCategorie": 3975,
     "typeEvenement": 13,
-    "idEvenement": 34520,
-    "idSeance": 205635,
+    "idEvenement": 34528,
+    "idSeance": 205648,
     "dateHeure": "2025-12-12T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 29439,
+        "ordre": 1,
+        "idSeance": 205648,
+        "idCopie": 30546,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3975,
+    "typeEvenement": 13,
+    "idEvenement": 34520,
+    "idSeance": 205647,
+    "dateHeure": "2025-12-12T20:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -39,35 +62,12 @@
       {
         "idFilm": 58822,
         "ordre": 1,
-        "idSeance": 205635,
+        "idSeance": 205647,
         "idCopie": 30744,
         "duree": 104,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 3975,
-    "typeEvenement": 13,
-    "idEvenement": 34528,
-    "idSeance": 205636,
-    "dateHeure": "2025-12-12T20:15:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 29439,
-        "ordre": 1,
-        "idSeance": 205636,
-        "idCopie": 30546,
-        "duree": 113,
-        "version": "VOSTF",
-        "format": "35 mm"
       }
     ]
   },

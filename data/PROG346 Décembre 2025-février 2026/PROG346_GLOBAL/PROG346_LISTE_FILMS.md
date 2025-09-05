@@ -43,9 +43,13 @@
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)
 
+## Ciné-club de Murielle Joudet (1)
+
+  * Reine de Broadway (La)
+
 ## Cinéma bis (6)
 
-  * Bad girls go to hell  
+  * Bad Girls Go to Hell  
   * Blackenstein, the Black Frankenstein  
   * Hanno cambiato faccia  
   * Nuit des juges (La)  
@@ -165,24 +169,24 @@
 
   * Adoption  
   * Cati  
-  * Cory szczescia  
-  * Débarras  
   * Eladás müvészete (Az)  
   * Elles deux  
+  * Filles de la chance  
   * Héritières (Les)  
   * Historia jednej znajomosci  
   * Journal à mes amours  
   * Journal intime  
   * Journal pour mon père et pour ma mère  
-  * Kisvilma – Az Utolso Naplo  
   * Magzat (A)  
   * Marie  
   * Neuf mois  
+  * Petite Vilma, le dernier journal  
   * Septième Demeure (La)  
   * Siodmy pokoj  
   * Szép lányok, ne sírjatok !  
   * Une mère, une fille  
-  * Utközben
+  * Útközben  
+  * Vent de la liberté (Le)
 
 ## Orson Welles (15)
 
@@ -220,7 +224,7 @@
   * Cherchez Hortense  
   * Encore  
   * Envoûtés (Les)  
-  * Grand alibi (Le)  
+  * Grand Alibi (Le)  
   * Je pense à vous  
   * Maigret et le mort amoureux  
   * Petites coupures  
@@ -263,7 +267,7 @@
   * Vérité sur Bébé Donge (La)  
   * Ville à vendre
 
-## Rita Hayworth (26)
+## Rita Hayworth (24)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
@@ -275,7 +279,6 @@
   * Cette nuit et toujours  
   * Ceux de Cordura  
   * Colère de Dieu (La)  
-  * Convicted  
   * Dame de Shanghaï (La)  
   * Enfer des tropiques (L')  
   * Étoile des étoiles (L')  
@@ -285,7 +288,6 @@
   * Piège au grisbi  
   * Plus grand cirque du monde (Le)  
   * Police montée  
-  * Reine de Broadway (La)  
   * Route de Salina (La)  
   * Salomé  
   * Seuls les anges ont des ailes  
@@ -301,7 +303,7 @@
 
   * Cheyennes (Les)  
   * Conquête de l'Ouest (La)  
-  * Huit salopards (Les)  
+  * Huit Salopards (Les)  
   * Inherent Vice  
   * Khartoum  
   * Lawrence d'Arabie  
