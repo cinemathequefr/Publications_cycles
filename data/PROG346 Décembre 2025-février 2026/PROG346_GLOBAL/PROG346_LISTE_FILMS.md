@@ -43,9 +43,11 @@
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)
 
-## Cinéma bis (4)
+## Cinéma bis (6)
 
   * Bad girls go to hell  
+  * Blackenstein, the Black Frankenstein  
+  * Hanno cambiato faccia  
   * Nuit des juges (La)  
   * Supernichons contre mafia  
   * Un été pourri
@@ -143,27 +145,41 @@
   * Qui rido io  
   * Théâtre de guerre
 
-## Maurice Tourneur (6)
+## Maurice Tourneur (13)
 
   * A Girl's Folly  
   * Avec le sourire  
+  * Broken Butterfly  
+  * Bruyère blanche (La)  
   * Dernier des Mohicans (Le)  
+  * Éternelle tentatrice (L')  
+  * Fille d'Écosse  
   * Fille de pirates  
   * Jimmy le mystérieux  
-  * Trilby
+  * Oiseau bleu (L')  
+  * Sporting Life  
+  * Trilby  
+  * Une victoire
 
-## Márta Mészáros (13)
+## Márta Mészáros (20)
 
   * Adoption  
   * Cati  
+  * Cory szczescia  
   * Débarras  
   * Eladás müvészete (Az)  
   * Elles deux  
   * Héritières (Les)  
+  * Historia jednej znajomosci  
+  * Journal à mes amours  
   * Journal intime  
+  * Journal pour mon père et pour ma mère  
   * Kisvilma – Az Utolso Naplo  
+  * Magzat (A)  
   * Marie  
   * Neuf mois  
+  * Septième Demeure (La)  
+  * Siodmy pokoj  
   * Szép lányok, ne sírjatok !  
   * Une mère, une fille  
   * Utközben
