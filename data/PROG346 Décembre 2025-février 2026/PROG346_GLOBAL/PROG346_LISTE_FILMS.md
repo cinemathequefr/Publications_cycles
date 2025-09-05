@@ -56,11 +56,12 @@
   * Supernichons contre mafia  
   * Un été pourri
 
-## David Gordon Green (17)
+## David Gordon Green (18)
 
   * All the Real Girls  
   * Autre rive (L')  
   * Baby-sitter malgré lui  
+  * Black Jack  
   * Délire express  
   * Exorciste : Dévotion (L')  
   * George Washington  
@@ -71,9 +72,9 @@
   * Manglehorn  
   * Nutcrackers  
   * Prince of Texas  
-  * Righteous Gemstones (The)  
   * Snow Angels  
   * Stronger  
+  * Unit Zero  
   * Votre majesté
 
 ## Films noirs scandinaves (9)
@@ -112,19 +113,33 @@
   * Saphir de St. Louis (Le)  
   * Spectre du Thuit (Le)
 
-## Le film policier asiatique, 25 indispensables (12)
+## Le film policier asiatique, 25 indispensables (26)
 
+  * A Bittersweet Life (Director's Cut)  
   * As Tears Go By  
+  * Black Coal  
+  * Breathless  
+  * Chaser (The)  
   * City on Fire  
+  * Decision to Leave  
+  * Éternels (Les)  
+  * Exilé  
   * Ichi the Killer  
   * Infernal affairs  
   * Killer (The)  
   * Longest Nite (The)  
+  * Memories of Murder  
   * Mission (The)  
+  * Old Boy  
   * Police Story  
+  * PTU (Police Tactical Unit)  
+  * Raid (The)  
+  * Shokuzai, celles qui voulaient oublier  
+  * Shokuzai, celles qui voulaient se souvenir  
   * Sonatine, mélodie mortelle  
   * Syndicat du crime (Le)  
   * Time and Tide  
+  * Une pluie sans fin  
   * Violent Cop
 
 ## Les grands classiques du cinéma muet vus par Henri Langlois (6)
@@ -168,24 +183,24 @@
 ## Márta Mészáros (20)
 
   * Adoption  
+  * Belle et le Vagabond (La)  
   * Cati  
   * Eladás müvészete (Az)  
   * Elles deux  
-  * Filles de la chance  
+  * En cours de route  
+  * Filles de la fortune (Les)  
+  * Fœtus (Le)  
   * Héritières (Les)  
-  * Historia jednej znajomosci  
+  * Historia jednej znajomości  
   * Journal à mes amours  
   * Journal intime  
   * Journal pour mon père et pour ma mère  
-  * Magzat (A)  
   * Marie  
   * Neuf mois  
   * Petite Vilma, le dernier journal  
   * Septième Demeure (La)  
   * Siodmy pokoj  
-  * Szép lányok, ne sírjatok !  
   * Une mère, une fille  
-  * Útközben  
   * Vent de la liberté (Le)
 
 ## Orson Welles (15)

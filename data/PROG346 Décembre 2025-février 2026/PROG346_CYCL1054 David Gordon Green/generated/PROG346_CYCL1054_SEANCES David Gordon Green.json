@@ -300,7 +300,7 @@
   {
     "idCategorie": 3988,
     "typeEvenement": 13,
-    "idEvenement": 34624,
+    "idEvenement": 34860,
     "idSeance": 199437,
     "dateHeure": "2026-01-12T20:30:00",
     "idSalle": [
@@ -310,8 +310,22 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 153402,
-        "ordre": 1
+        "idFilm": 155510,
+        "ordre": 1,
+        "idSeance": 199437,
+        "idCopie": 30819,
+        "duree": 0,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 155514,
+        "ordre": 2,
+        "idSeance": 199437,
+        "idCopie": 30820,
+        "duree": 42,
+        "version": "VO",
+        "format": "DCP"
       }
     ]
   },
