@@ -1,14 +1,21 @@
 # Liste des films par cycle
 
-## Alexandre Dovjenko (8)
+## Alexandre Dovjenko (15)
 
+  * Adieu Amérique !  
   * Aerograd  
   * Arsenal  
+  * Bataille pour notre Ukraine soviétique (La)  
   * Chtchors  
+  * Ivan  
+  * Libération (La)  
+  * Mitchourine  
+  * Pays natal  
   * Petit Fruit de l'amour  
   * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
   * Vassia reformator  
+  * Victoire en Ukraine (La)  
   * Zvenigora
 
 ## André De Toth (29)
@@ -56,7 +63,7 @@
   * Supernichons contre mafia  
   * Un été pourri
 
-## David Gordon Green (18)
+## David Gordon Green (21)
 
   * All the Real Girls  
   * Autre rive (L')  
@@ -71,7 +78,10 @@
   * Joe  
   * Manglehorn  
   * Nutcrackers  
+  * Physical Pinball  
+  * Pleasant Grove  
   * Prince of Texas  
+  * Que le meilleur gagne  
   * Snow Angels  
   * Stronger  
   * Unit Zero  
@@ -142,13 +152,20 @@
   * Une pluie sans fin  
   * Violent Cop
 
-## Les grands classiques du cinéma muet vus par Henri Langlois (6)
+## Les grands classiques du cinéma muet vus par Henri Langlois (13)
 
   * Cabiria  
   * Chute de la maison Usher (La)  
+  * Deux Orphelines (Les)  
+  * Dr Jekyll and Mr Hyde  
+  * Folies de femmes  
+  * Légende de Gösta Berling (La)  
   * Nana  
+  * Nouvelle Babylone (La)  
   * Passion de Jeanne d'Arc (La)  
+  * Proscrits (Les)  
   * Rapaces (Les)  
+  * Trésor d'Arne (Le)  
   * Une fille dans chaque port
 
 ## Mario Martone (10)
@@ -164,27 +181,49 @@
   * Qui rido io  
   * Théâtre de guerre
 
-## Maurice Tourneur (13)
+## Maurice Tourneur (34)
 
   * A Girl's Folly  
+  * Accusée, levez-vous !  
+  * Après l'amour  
+  * Au nom de la loi  
   * Avec le sourire  
   * Broken Butterfly  
   * Bruyère blanche (La)  
+  * Cécile est morte  
   * Dernier des Mohicans (Le)  
+  * Deux Orphelines (Les)  
+  * Équipage (L')  
   * Éternelle tentatrice (L')  
   * Fille d'Écosse  
-  * Fille de pirates  
+  * Gaîtés de l'escadron (Les)  
+  * Impasse des Deux-Anges  
   * Jimmy le mystérieux  
+  * Justin de Marseille  
+  * Katia  
+  * Koenigsmark  
+  * Lidoire  
+  * Main du Diable (La)  
+  * Maison de danses  
+  * Mam'zelle Bonaparte  
+  * Obsession  
   * Oiseau bleu (L')  
+  * Partir  
+  * Patriote (Le)  
+  * Péchés de jeunesse  
+  * Samson  
   * Sporting Life  
-  * Trilby  
-  * Une victoire
+  * Une victoire  
+  * Val d'Enfer (Le)  
+  * Voleur (Le)  
+  * Volpone
 
-## Márta Mészáros (20)
+## Márta Mészáros (22)
 
   * Adoption  
   * Belle et le Vagabond (La)  
   * Cati  
+  * Comme chez nous  
   * Eladás müvészete (Az)  
   * Elles deux  
   * En cours de route  
@@ -192,6 +231,7 @@
   * Fœtus (Le)  
   * Héritières (Les)  
   * Historia jednej znajomości  
+  * Homme sans sépulture (L')  
   * Journal à mes amours  
   * Journal intime  
   * Journal pour mon père et pour ma mère  
@@ -205,12 +245,12 @@
 
 ## Orson Welles (15)
 
-  * Au pays de Don Quichotte : Fêtes d'avril à Séville  
+  * Au pays de Don Quichotte : Ferias d'avril à Séville  
   * Au pays de Don Quichotte : Itinéraire andalou  
+  * Au pays de Don Quichotte : L'Encierro de Pampelune  
+  * Au pays de Don Quichotte : L'Espagne sainte  
   * Au pays de Don Quichotte : L'Heure du flamenco  
   * Au pays de Don Quichotte : La Feria de San Fermín  
-  * Au pays de Don Quichotte : La Semaine sainte en Espagne  
-  * Au pays de Don Quichotte : Lâcher de taureaux à Pampelune  
   * Au pays de Don Quichotte : Les Caves de Jerez  
   * Au pays de Don Quichotte : Rome et l'Orient en Espagne  
   * Au pays de Don Quichotte : Séville  
@@ -247,7 +287,7 @@
   * Tableau volé (Le)  
   * Tout de suite maintenant
 
-## Restaurations et raretés, best of 2025 (32)
+## Restaurations et raretés, best of 2025 (38)
 
   * 'A santanotte  
   * Au-delà de l'oubli  
@@ -264,8 +304,11 @@
   * Fantozzi  
   * Feux dans la plaine (Les)  
   * Filles (Les)  
+  * Histoire de fantômes chinois  
+  * Intrus magnifique (L')  
   * Kwaïdan  
   * Let My Puppets Come  
+  * Lolita  
   * Longue Nuit de l'exorcisme (La)  
   * Macho Dancer  
   * Malina  
@@ -276,13 +319,16 @@
   * Panthère Rose (La)  
   * Quand la colère éclate  
   * Rapt  
+  * Samba Traoré  
   * Sholay  
   * Story of Joanna (The)  
+  * Sur (El)  
   * Sur le territoire des Comanches  
+  * Tatami  
   * Vérité sur Bébé Donge (La)  
   * Ville à vendre
 
-## Rita Hayworth (24)
+## Rita Hayworth (25)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
@@ -294,6 +340,7 @@
   * Cette nuit et toujours  
   * Ceux de Cordura  
   * Colère de Dieu (La)  
+  * Convicted  
   * Dame de Shanghaï (La)  
   * Enfer des tropiques (L')  
   * Étoile des étoiles (L')  
@@ -309,10 +356,11 @@
   * Six destins  
   * Tables séparées
 
-## Séances spéciales (2)
+## Séances spéciales (3)
 
   * Napoléon vu par Abel Gance (partie 1)  
-  * Napoléon vu par Abel Gance (partie 2)
+  * Napoléon vu par Abel Gance (partie 2)  
+  * Shoah
 
 ## Une fin d'année en 70 mm (14)
 
