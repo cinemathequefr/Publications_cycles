@@ -451,8 +451,8 @@
     "hashEvenement": "f37913"
   },
   {
-    "idSeance": 198382,
-    "idEvenement": 34662,
+    "idSeance": 205715,
+    "idEvenement": 34682,
     "dateHeure": "2025-12-05T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -463,17 +463,17 @@
     ],
     "items": [
       {
-        "idFilm": 44719,
-        "titre": "Étoiles",
-        "realisateurs": "Konrad Wolf",
-        "annee": 1959,
-        "duree": 93,
+        "idFilm": 60794,
+        "titre": "Fantozzi",
+        "realisateurs": "Luciano Salce",
+        "annee": 1975,
+        "duree": 108,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f44719"
+    "hashEvenement": "f60794"
   },
   {
     "idSeance": 198429,
@@ -503,7 +503,7 @@
   {
     "idSeance": 198473,
     "idEvenement": 34708,
-    "dateHeure": "2025-12-05T20:30:00",
+    "dateHeure": "2025-12-05T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -676,8 +676,8 @@
     "hashEvenement": "f47763"
   },
   {
-    "idSeance": 198472,
-    "idEvenement": 34682,
+    "idSeance": 205716,
+    "idEvenement": 34662,
     "dateHeure": "2025-12-06T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -688,17 +688,17 @@
     ],
     "items": [
       {
-        "idFilm": 60794,
-        "titre": "Fantozzi",
-        "realisateurs": "Luciano Salce",
-        "annee": 1975,
-        "duree": 108,
+        "idFilm": 44719,
+        "titre": "Étoiles",
+        "realisateurs": "Konrad Wolf",
+        "annee": 1959,
+        "duree": 93,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f60794"
+    "hashEvenement": "f44719"
   },
   {
     "idSeance": 198474,
@@ -753,7 +753,7 @@
   {
     "idSeance": 205581,
     "idEvenement": 34771,
-    "dateHeure": "2025-12-06T20:45:00",
+    "dateHeure": "2025-12-06T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2574,14 +2574,6 @@
     "salle": "HL",
     "cycle": [
       [
-        "Ciné-club de Murielle Joudet",
-        "Les films"
-      ],
-      [
-        "Ciné-club de Murielle Joudet",
-        "Rencontres et conférences"
-      ],
-      [
         "Rita Hayworth",
         "Les films"
       ]
@@ -2596,15 +2588,9 @@
         "duree": 107,
         "version": "VO",
         "format": "35 mm"
-      },
-      {
-        "idConf": 34739,
-        "titre": "Dialogue avec Murielle Joudet",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f36254c34739"
+    "hashEvenement": "f36254"
   },
   {
     "idSeance": 198874,
@@ -2629,6 +2615,27 @@
       }
     ],
     "hashEvenement": "f57266"
+  },
+  {
+    "idSeance": 205529,
+    "idEvenement": 34739,
+    "dateHeure": "2025-12-22T20:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 34739,
+        "titre": "Dialogue avec Murielle Joudet",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c34739"
   },
   {
     "idSeance": 198908,
@@ -4938,6 +4945,28 @@
     "hashEvenement": "f55995"
   },
   {
+    "idSeance": 205701,
+    "idEvenement": 34839,
+    "dateHeure": "2026-01-22T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 38013,
+        "titre": "Bas-fonds",
+        "art": "Les",
+        "realisateurs": "Akira Kurosawa",
+        "annee": 1957
+      }
+    ],
+    "hashEvenement": "f38013"
+  },
+  {
     "idSeance": 199694,
     "idEvenement": 34431,
     "dateHeure": "2026-01-22T18:00:00",
@@ -5020,13 +5049,35 @@
         "idFilm": 41173,
         "titre": "Zvenigora",
         "realisateurs": "Alexandre Dovjenko",
-        "annee": 1928,
+        "annee": 1927,
         "duree": 93,
         "version": "Autres",
         "format": "35 mm"
       }
     ],
     "hashEvenement": "f41173"
+  },
+  {
+    "idSeance": 205702,
+    "idEvenement": 34843,
+    "dateHeure": "2026-01-23T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47441,
+        "titre": "Beau Serge",
+        "art": "Le",
+        "realisateurs": "Claude Chabrol",
+        "annee": 1957
+      }
+    ],
+    "hashEvenement": "f47441"
   },
   {
     "idSeance": 199736,
@@ -5091,7 +5142,7 @@
     "items": [
       {
         "idFilm": 101254,
-        "titre": "Vassia reformator",
+        "titre": "Vassia le réformateur",
         "realisateurs": "Alexandre Dovjenko",
         "annee": 1926
       }
@@ -5253,7 +5304,7 @@
         "idFilm": 65172,
         "titre": "Libération",
         "art": "La",
-        "realisateurs": "Alexandre Dovjenko, Youlia Solntseva",
+        "realisateurs": "Alexandre Dovjenko",
         "annee": 1940
       }
     ],
@@ -5367,7 +5418,7 @@
         "idFilm": 40231,
         "titre": "Arsenal",
         "realisateurs": "Alexandre Dovjenko",
-        "annee": 1928,
+        "annee": 1929,
         "duree": 88,
         "version": "VOSTF",
         "format": "DCP"
@@ -5434,7 +5485,7 @@
       {
         "idFilm": 53333,
         "titre": "Chtchors",
-        "realisateurs": "Alexandre Dovjenko, Youlia Solntseva",
+        "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
         "annee": 1939,
         "duree": 115
       }
@@ -5464,6 +5515,27 @@
       }
     ],
     "hashEvenement": "f155504"
+  },
+  {
+    "idSeance": 205703,
+    "idEvenement": 34828,
+    "dateHeure": "2026-01-26T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 30152,
+        "titre": "En quatrième vitesse",
+        "realisateurs": "Robert Aldrich",
+        "annee": 1954
+      }
+    ],
+    "hashEvenement": "f30152"
   },
   {
     "idSeance": 199810,
@@ -5555,7 +5627,7 @@
         "idFilm": 65173,
         "titre": "Pays natal",
         "realisateurs": "Alexandre Dovjenko",
-        "annee": 1932
+        "annee": 1945
       }
     ],
     "hashEvenement": "f65173"
@@ -5622,11 +5694,33 @@
         "idFilm": 65170,
         "titre": "Adieu Amérique !",
         "realisateurs": "Alexandre Dovjenko",
-        "annee": 1949,
+        "annee": 1951,
         "duree": 120
       }
     ],
     "hashEvenement": "f65170"
+  },
+  {
+    "idSeance": 205706,
+    "idEvenement": 34838,
+    "dateHeure": "2026-01-29T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43088,
+        "titre": "Onze Fioretti de François d'Assise",
+        "art": "Les",
+        "realisateurs": "Roberto Rossellini",
+        "annee": 1950
+      }
+    ],
+    "hashEvenement": "f43088"
   },
   {
     "idSeance": 199881,
@@ -5668,7 +5762,7 @@
         "idFilm": 65171,
         "titre": "Bataille pour notre Ukraine soviétique",
         "art": "La",
-        "realisateurs": "Youlia Solntseva, Alexandre Dovjenko",
+        "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
         "annee": 1943,
         "duree": 70
       }
@@ -5762,11 +5856,32 @@
         "realisateurs": "Márta Mészáros",
         "annee": 1980,
         "duree": 109,
-        "version": "VOSTF",
+        "version": "VF",
         "format": "DCP"
       }
     ],
     "hashEvenement": "f34510"
+  },
+  {
+    "idSeance": 205707,
+    "idEvenement": 34831,
+    "dateHeure": "2026-01-30T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31506,
+        "titre": "Indiscrétions",
+        "realisateurs": "George Cukor",
+        "annee": 1940
+      }
+    ],
+    "hashEvenement": "f31506"
   },
   {
     "idSeance": 199921,
@@ -5876,7 +5991,7 @@
       {
         "idFilm": 40233,
         "titre": "Mitchourine",
-        "realisateurs": "Alexandre Dovjenko, Youlia Solntseva",
+        "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
         "annee": 1948,
         "duree": 100
       }
@@ -6026,6 +6141,27 @@
     "hashEvenement": "f155458"
   },
   {
+    "idSeance": 205708,
+    "idEvenement": 34837,
+    "dateHeure": "2026-02-02T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48996,
+        "titre": "Remorques",
+        "realisateurs": "Jean Grémillon",
+        "annee": 1939
+      }
+    ],
+    "hashEvenement": "f48996"
+  },
+  {
     "idSeance": 199997,
     "idEvenement": 34496,
     "dateHeure": "2026-02-02T18:00:00",
@@ -6113,15 +6249,39 @@
         "idFilm": 33834,
         "titre": "Une mère, une fille",
         "realisateurs": "Márta Mészáros",
-        "annee": 1981
+        "annee": 1981,
+        "duree": 90,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f33834"
   },
   {
+    "idSeance": 205709,
+    "idEvenement": 34829,
+    "dateHeure": "2026-02-05T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33172,
+        "titre": "Dame du vendredi",
+        "art": "La",
+        "realisateurs": "Howard Hawks",
+        "annee": 1940
+      }
+    ],
+    "hashEvenement": "f33172"
+  },
+  {
     "idSeance": 205641,
     "idEvenement": 34488,
-    "dateHeure": "2026-02-05T17:30:00",
+    "dateHeure": "2026-02-05T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6146,7 +6306,7 @@
   {
     "idSeance": 200065,
     "idEvenement": 34489,
-    "dateHeure": "2026-02-05T21:30:00",
+    "dateHeure": "2026-02-05T21:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6167,6 +6327,28 @@
       }
     ],
     "hashEvenement": "f39859"
+  },
+  {
+    "idSeance": 205710,
+    "idEvenement": 34822,
+    "dateHeure": "2026-02-06T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50877,
+        "titre": "Règle du jeu",
+        "art": "La",
+        "realisateurs": "Jean Renoir",
+        "annee": 1939
+      }
+    ],
+    "hashEvenement": "f50877"
   },
   {
     "idSeance": 200110,
@@ -6222,7 +6404,7 @@
   {
     "idSeance": 200155,
     "idEvenement": 34495,
-    "dateHeure": "2026-02-07T17:30:00",
+    "dateHeure": "2026-02-07T19:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6239,28 +6421,6 @@
       }
     ],
     "hashEvenement": "f73752"
-  },
-  {
-    "idSeance": 200156,
-    "idEvenement": 34494,
-    "dateHeure": "2026-02-07T19:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Márta Mészáros",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 63151,
-        "titre": "Septième Demeure",
-        "art": "La",
-        "realisateurs": "Márta Mészáros",
-        "annee": 1995
-      }
-    ],
-    "hashEvenement": "f63151"
   },
   {
     "idSeance": 200174,
@@ -6304,6 +6464,28 @@
       }
     ],
     "hashEvenement": "f75414"
+  },
+  {
+    "idSeance": 205711,
+    "idEvenement": 34823,
+    "dateHeure": "2026-02-09T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51708,
+        "titre": "Atalante",
+        "art": "L'",
+        "realisateurs": "Jean Vigo",
+        "annee": 1933
+      }
+    ],
+    "hashEvenement": "f51708"
   },
   {
     "idSeance": 200184,
@@ -6696,8 +6878,8 @@
     "hashEvenement": "f155457"
   },
   {
-    "idSeance": 200407,
-    "idEvenement": 34546,
+    "idSeance": 205705,
+    "idEvenement": 34542,
     "dateHeure": "2026-02-18T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -6708,15 +6890,15 @@
     ],
     "items": [
       {
-        "idFilm": 59837,
-        "titre": "Encore",
+        "idFilm": 131901,
+        "titre": "Tout de suite maintenant",
         "realisateurs": "Pascal Bonitzer",
-        "annee": 1996,
-        "duree": 96,
-        "format": "35 mm"
+        "annee": 2015,
+        "duree": 98,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f59837"
+    "hashEvenement": "f131901"
   },
   {
     "idSeance": 200405,
@@ -6764,6 +6946,27 @@
       }
     ],
     "hashEvenement": "f64180"
+  },
+  {
+    "idSeance": 205712,
+    "idEvenement": 34845,
+    "dateHeure": "2026-02-19T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34651,
+        "titre": "Haute Pègre",
+        "realisateurs": "Ernst Lubitsch",
+        "annee": 1932
+      }
+    ],
+    "hashEvenement": "f34651"
   },
   {
     "idSeance": 200442,
@@ -6859,6 +7062,27 @@
     "hashEvenement": "f79219"
   },
   {
+    "idSeance": 205714,
+    "idEvenement": 34835,
+    "dateHeure": "2026-02-20T16:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47668,
+        "titre": "À nous la liberté",
+        "realisateurs": "René Clair",
+        "annee": 1931
+      }
+    ],
+    "hashEvenement": "f47668"
+  },
+  {
     "idSeance": 200482,
     "idEvenement": 34602,
     "dateHeure": "2026-02-20T18:00:00",
@@ -6951,29 +7175,6 @@
     "hashEvenement": "f102297"
   },
   {
-    "idSeance": 200524,
-    "idEvenement": 34542,
-    "dateHeure": "2026-02-21T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Pascal Bonitzer",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 131901,
-        "titre": "Tout de suite maintenant",
-        "realisateurs": "Pascal Bonitzer",
-        "annee": 2015,
-        "duree": 98,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f131901"
-  },
-  {
     "idSeance": 205526,
     "idEvenement": 34734,
     "dateHeure": "2026-02-21T14:30:00",
@@ -6993,6 +7194,29 @@
       }
     ],
     "hashEvenement": "c34734"
+  },
+  {
+    "idSeance": 205704,
+    "idEvenement": 34544,
+    "dateHeure": "2026-02-21T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Pascal Bonitzer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 64180,
+        "titre": "Rien sur Robert",
+        "realisateurs": "Pascal Bonitzer",
+        "annee": 1998,
+        "duree": 105,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f64180"
   },
   {
     "idSeance": 200528,
@@ -7389,9 +7613,31 @@
     "hashEvenement": "f79233"
   },
   {
+    "idSeance": 205713,
+    "idEvenement": 34833,
+    "dateHeure": "2026-02-23T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50469,
+        "titre": "Atlantide",
+        "art": "L'",
+        "realisateurs": "Georg Wilhelm Pabst",
+        "annee": 1932
+      }
+    ],
+    "hashEvenement": "f50469"
+  },
+  {
     "idSeance": 200558,
     "idEvenement": 34551,
-    "dateHeure": "2026-02-23T18:00:00",
+    "dateHeure": "2026-02-23T20:30:00",
     "salle": "GF",
     "cycle": [
       [

@@ -14,7 +14,7 @@
   * Petit Fruit de l'amour  
   * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
-  * Vassia reformator  
+  * Vassia le réformateur  
   * Victoire en Ukraine (La)  
   * Zvenigora
 
@@ -49,10 +49,6 @@
   * Six semaines de bonheur  
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)
-
-## Ciné-club de Murielle Joudet (1)
-
-  * Reine de Broadway (La)
 
 ## Cinéma bis (6)
 
@@ -109,12 +105,24 @@
   * Parfum de femme  
   * Trois amigos
 
-## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (7)
+## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (19)
 
+  * À nous la liberté  
+  * Atalante (L')  
+  * Atlantide (L')  
+  * Bas-fonds (Les)  
+  * Beau Serge (Le)  
   * Cicatrice intérieure (La)  
+  * Dame du vendredi (La)  
+  * En quatrième vitesse  
+  * Haute Pègre  
+  * Indiscrétions  
   * Muriel ou le temps d'un retour  
+  * Onze Fioretti de François d'Assise (Les)  
   * Pierrot le fou  
   * Psychose  
+  * Règle du jeu (La)  
+  * Remorques  
   * Salomè  
   * Tirez sur le pianiste  
   * Yeux sans visage (Les)
@@ -228,7 +236,7 @@
   * Voleur (Le)  
   * Volpone
 
-## Márta Mészáros (22)
+## Márta Mészáros (21)
 
   * Adoption  
   * Belle et le Vagabond (La)  
@@ -248,7 +256,6 @@
   * Marie  
   * Neuf mois  
   * Petite Vilma, le dernier journal  
-  * Septième Demeure (La)  
   * Siodmy pokoj  
   * Une mère, une fille  
   * Vent de la liberté (Le)
@@ -284,10 +291,9 @@
   * Turang  
   * Une femme indonésienne
 
-## Pascal Bonitzer (10)
+## Pascal Bonitzer (9)
 
   * Cherchez Hortense  
-  * Encore  
   * Envoûtés (Les)  
   * Grand Alibi (Le)  
   * Je pense à vous  
@@ -338,7 +344,7 @@
   * Vérité sur Bébé Donge (La)  
   * Ville à vendre
 
-## Rita Hayworth (25)
+## Rita Hayworth (26)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
@@ -360,6 +366,7 @@
   * Piège au grisbi  
   * Plus grand cirque du monde (Le)  
   * Police montée  
+  * Reine de Broadway (La)  
   * Route de Salina (La)  
   * Salomé  
   * Seuls les anges ont des ailes  
