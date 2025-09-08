@@ -109,6 +109,16 @@
   * Parfum de femme  
   * Trois amigos
 
+## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (7)
+
+  * Cicatrice intérieure (La)  
+  * Muriel ou le temps d'un retour  
+  * Pierrot le fou  
+  * Psychose  
+  * Salomè  
+  * Tirez sur le pianiste  
+  * Yeux sans visage (Les)
+
 ## José Luis Guerín (11)
 
   * Académie des muses (L')  
