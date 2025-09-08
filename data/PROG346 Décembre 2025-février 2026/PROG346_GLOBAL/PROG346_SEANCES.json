@@ -1004,6 +1004,34 @@
     "hashEvenement": "f123944"
   },
   {
+    "idSeance": 205720,
+    "idEvenement": 34858,
+    "dateHeure": "2025-12-08T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Johann Lurf"
+      ]
+    ],
+    "mention": "Séance présentée par Johann Lurf",
+    "items": [
+      {
+        "idFilm": 155520,
+        "titre": "Twelve Tales Told",
+        "realisateurs": "Johann Lurf",
+        "annee": 2014
+      },
+      {
+        "idFilm": 155519,
+        "titre": "Star",
+        "realisateurs": "Johann Lurf",
+        "annee": 2017
+      }
+    ],
+    "hashEvenement": "f155520f155519"
+  },
+  {
     "idSeance": 198533,
     "idEvenement": 33838,
     "dateHeure": "2025-12-10T17:00:00",
@@ -1741,6 +1769,56 @@
       }
     ],
     "hashEvenement": "f113193"
+  },
+  {
+    "idSeance": 198690,
+    "idEvenement": 34576,
+    "dateHeure": "2025-12-15T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Courts métrages Arte"
+      ]
+    ],
+    "mention": "Séance présentée par Jacques Kermabon et Xavier Kawa-Topor",
+    "items": [
+      {
+        "idFilm": 155469,
+        "titre": "Bottes de la nuit",
+        "art": "Les",
+        "realisateurs": "Pierre-Luc Granjon",
+        "annee": 2024,
+        "duree": 12,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155470,
+        "titre": "Jeune Fille qui pleurait des perles",
+        "art": "La",
+        "realisateurs": "Chris Lavis, Maciek Szczerbowski",
+        "annee": 2025,
+        "duree": 17,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155468,
+        "titre": "Luna Rossa",
+        "realisateurs": "Olga Pärn, Priit Pärn",
+        "annee": 2024,
+        "duree": 19,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155467,
+        "titre": "Sulaimani",
+        "realisateurs": "Vinnie Ann Bose",
+        "annee": 2025,
+        "duree": 20,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155469f155470f155468f155467"
   },
   {
     "idSeance": 198686,
@@ -4167,6 +4245,29 @@
     "hashEvenement": "f155510f155514"
   },
   {
+    "idSeance": 199438,
+    "idEvenement": 34856,
+    "dateHeure": "2026-01-12T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Hugo Becker"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Hugo Becker",
+    "items": [
+      {
+        "idFilm": 155513,
+        "titre": "Ligne de vie",
+        "art": "La",
+        "realisateurs": "Hugo Becker",
+        "annee": 2025
+      }
+    ],
+    "hashEvenement": "f155513"
+  },
+  {
     "idSeance": 199473,
     "idEvenement": 34815,
     "dateHeure": "2026-01-14T18:00:00",
@@ -4823,6 +4924,37 @@
       }
     ],
     "hashEvenement": "f80311"
+  },
+  {
+    "idSeance": 199625,
+    "idEvenement": 34581,
+    "dateHeure": "2026-01-19T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Courts métrages Arte"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155473,
+        "titre": "Hypernuit",
+        "realisateurs": "Julien Féret",
+        "annee": 2025,
+        "duree": 25,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155474,
+        "titre": "Père(s) et Fils",
+        "realisateurs": "Ferdinand Régent-Chappey",
+        "annee": 2025,
+        "duree": 27,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155473f155474"
   },
   {
     "idSeance": 199624,
@@ -6207,6 +6339,31 @@
     "hashEvenement": "f121232"
   },
   {
+    "idSeance": 199999,
+    "idEvenement": 34584,
+    "dateHeure": "2026-02-02T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Courts métrages Arte"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Frédéric Farrucci",
+    "items": [
+      {
+        "idFilm": 155476,
+        "titre": "Mohican",
+        "art": "Le",
+        "realisateurs": "Frédéric Farrucci",
+        "annee": 2025,
+        "duree": 87,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155476"
+  },
+  {
     "idSeance": 199998,
     "idEvenement": 34476,
     "dateHeure": "2026-02-02T19:45:00",
@@ -6558,7 +6715,7 @@
         "art": "Le",
         "realisateurs": "John Woo",
         "annee": 1986,
-        "duree": 92,
+        "duree": 95,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
@@ -6857,6 +7014,46 @@
       }
     ],
     "hashEvenement": "f92666"
+  },
+  {
+    "idSeance": 200373,
+    "idEvenement": 34579,
+    "dateHeure": "2026-02-16T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Courts métrages Arte"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec David Ingels",
+    "items": [
+      {
+        "idFilm": 155471,
+        "titre": "Les Fleurs blanches et la lune",
+        "realisateurs": "David Ingels",
+        "annee": 2022,
+        "duree": 21,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155472,
+        "titre": "Et quand l'aube viendra",
+        "realisateurs": "David Ingels",
+        "annee": 2023,
+        "duree": 19,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155435,
+        "titre": "Bel companho",
+        "realisateurs": "David Ingels",
+        "annee": 2025,
+        "duree": 29,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155471f155472f155435"
   },
   {
     "idSeance": 200369,
@@ -7639,6 +7836,28 @@
       }
     ],
     "hashEvenement": "f50469"
+  },
+  {
+    "idSeance": 200560,
+    "idEvenement": 34857,
+    "dateHeure": "2026-02-23T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "« Une mystérieuse alchimie » : Le Regard de Tom Harari"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 130783,
+        "titre": "Ogres",
+        "art": "Les",
+        "realisateurs": "Léa Fehner",
+        "annee": 2014
+      }
+    ],
+    "hashEvenement": "f130783"
   },
   {
     "idSeance": 200558,

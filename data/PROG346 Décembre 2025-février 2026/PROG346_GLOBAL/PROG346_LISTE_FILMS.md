@@ -50,6 +50,23 @@
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)
 
+## Aujourd'hui le cinéma (14)
+
+  * Bel companho  
+  * Bottes de la nuit (Les)  
+  * Et quand l'aube viendra  
+  * Hypernuit  
+  * Jeune Fille qui pleurait des perles (La)  
+  * Les Fleurs blanches et la lune  
+  * Ligne de vie (La)  
+  * Luna Rossa  
+  * Mohican (Le)  
+  * Ogres (Les)  
+  * Père(s) et Fils  
+  * Star  
+  * Sulaimani  
+  * Twelve Tales Told
+
 ## Cinéma bis (6)
 
   * Bad Girls Go to Hell  
