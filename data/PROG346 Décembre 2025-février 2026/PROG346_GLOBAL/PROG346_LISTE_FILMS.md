@@ -33,7 +33,7 @@
   * Eaux dormantes  
   * Enfants de salauds  
   * Femme de feu  
-  * Furie des tropiques  
+  * Furie des tropiques (La)  
   * Homme au masque de cire (L')  
   * Massacreurs du Kansas (Les)  
   * Mission du commandant Lex (La)  
@@ -153,7 +153,7 @@
   * Éternels (Les)  
   * Exilé  
   * Ichi the Killer  
-  * Infernal affairs  
+  * Infernal Affairs  
   * Killer (The)  
   * Longest Nite (The)  
   * Memories of Murder  
@@ -206,13 +206,12 @@
   * Après l'amour  
   * Au nom de la loi  
   * Avec le sourire  
-  * Broken Butterfly  
   * Bruyère blanche (La)  
   * Cécile est morte  
   * Dernier des Mohicans (Le)  
   * Deux Orphelines (Les)  
   * Équipage (L')  
-  * Éternelle tentatrice (L')  
+  * Éternelle Tentatrice (L')  
   * Fille d'Écosse  
   * Gaîtés de l'escadron (Les)  
   * Impasse des Deux-Anges  
@@ -226,6 +225,7 @@
   * Mam'zelle Bonaparte  
   * Obsession  
   * Oiseau bleu (L')  
+  * Papillon brisé (Le)  
   * Partir  
   * Patriote (Le)  
   * Péchés de jeunesse  
@@ -236,27 +236,29 @@
   * Voleur (Le)  
   * Volpone
 
-## Márta Mészáros (21)
+## Márta Mészáros (23)
 
   * Adoption  
+  * Aurora borealis  
   * Belle et le Vagabond (La)  
+  * Bóbita  
   * Cati  
   * Comme chez nous  
-  * Eladás müvészete (Az)  
   * Elles deux  
   * En cours de route  
   * Filles de la fortune (Les)  
   * Fœtus (Le)  
   * Héritières (Les)  
-  * Historia jednej znajomości  
   * Homme sans sépulture (L')  
   * Journal à mes amours  
   * Journal intime  
   * Journal pour mon père et pour ma mère  
+  * Lőrinci fonóban (A)  
   * Marie  
+  * Mészáros László emlékére  
   * Neuf mois  
   * Petite Vilma, le dernier journal  
-  * Siodmy pokoj  
+  * Septième Demeure (La)  
   * Une mère, une fille  
   * Vent de la liberté (Le)
 
