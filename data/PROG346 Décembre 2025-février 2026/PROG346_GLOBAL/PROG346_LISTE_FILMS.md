@@ -50,8 +50,9 @@
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)
 
-## Aujourd'hui le cinéma (14)
+## Aujourd'hui le cinéma (16)
 
+  * +10K  
   * Bel companho  
   * Bottes de la nuit (Les)  
   * Conte de la Jaguère (Le)  
@@ -59,6 +60,7 @@
   * Hypernuit  
   * Jeune Fille qui pleurait des perles (La)  
   * Les Fleurs blanches et la lune  
+  * Ligne de vie (La)  
   * Luna Rossa  
   * Mohican (Le)  
   * Ogres (Les)  

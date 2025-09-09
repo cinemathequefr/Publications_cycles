@@ -266,6 +266,36 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Gala Hernández López",
+      "items": [
+        {
+          "idFilm": 155401,
+          "content": [
+            {
+              "idFilm": 155401,
+              "ordre": 1,
+              "titre": "+10K",
+              "realisateurs": "Gala Hernández López",
+              "pays": "France-Espagne",
+              "annee": 2024,
+              "duree": 33,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200186,
+              "dateHeure": "2026-02-09T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Gala Hernandez Lopez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "« Une mystérieuse alchimie » : Le Regard de Tom Harari",
       "items": [
         {
@@ -297,10 +327,43 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Hugo Becker",
+      "items": [
+        {
+          "idFilm": 155513,
+          "content": [
+            {
+              "idFilm": 155513,
+              "ordre": 1,
+              "titre": "Ligne de vie",
+              "art": "La",
+              "realisateurs": "Hugo Becker",
+              "pays": "France",
+              "annee": 2025
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198877,
+              "dateHeure": "2025-12-22T20:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Hugo Becker"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Discussions": [
+      {
+        "titreFilms": "La Ligne de vie",
+        "mention": "avec Hugo Becker",
+        "dateHeure": "2025-12-22T20:00:00"
+      },
       {
         "titreFilms": "Le Conte de la Jaguère",
         "mention": "avec Olivier Guidoux",
@@ -310,6 +373,11 @@
         "titreFilms": "Le Mohican",
         "mention": "avec Frédéric Farrucci",
         "dateHeure": "2026-02-02T19:00:00"
+      },
+      {
+        "titreFilms": "+10K",
+        "mention": "avec Gala Hernandez Lopez",
+        "dateHeure": "2026-02-09T19:00:00"
       },
       {
         "titreFilms": "Les Fleurs blanches et la lune / Et quand l'aube viendra / Bel companho",
