@@ -153,36 +153,54 @@
           ]
         },
         {
-          "idFilm": 64180,
-          "content": [
+          "groupe": [
             {
               "idFilm": 64180,
-              "ordre": 1,
-              "titre": "Rien sur Robert",
-              "realisateurs": "Pascal Bonitzer",
-              "pays": "France",
-              "annee": 1998,
-              "duree": 105,
-              "version": "",
-              "format": "35 mm",
-              "generique": [
-                "Fabrice Luchini",
-                "Sandrine Kiberlain",
-                "Valentina Cervi",
-                "Michel Piccoli"
+              "content": [
+                {
+                  "idFilm": 64180,
+                  "ordre": 1,
+                  "titre": "Rien sur Robert",
+                  "realisateurs": "Pascal Bonitzer",
+                  "pays": "France",
+                  "annee": 1998,
+                  "duree": 105,
+                  "version": "",
+                  "format": "35 mm",
+                  "generique": [
+                    "Fabrice Luchini",
+                    "Sandrine Kiberlain",
+                    "Valentina Cervi",
+                    "Michel Piccoli"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 200408,
-              "dateHeure": "2026-02-18T20:30:00",
-              "idSalle": "GF"
             },
             {
-              "idSeance": 205704,
-              "dateHeure": "2026-02-21T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 34734,
+              "content": [
+                {
+                  "idConf": 34734,
+                  "ordre": 2,
+                  "titre": "Pascal Bonitzer par Pascal Bonitzer, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 200408,
+                  "dateHeure": "2026-02-18T20:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 205704,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-02-21T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + leçon de cinéma"
+                }
+              ]
             }
           ]
         },
@@ -230,29 +248,6 @@
               "idSeance": 205705,
               "dateHeure": "2026-02-18T18:00:00",
               "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34734,
-          "content": [
-            {
-              "idConf": 34734,
-              "titre": "Pascal Bonitzer par Pascal Bonitzer, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205526,
-              "dateHeure": "2026-02-21T14:30:00",
-              "idSalle": "HL"
             }
           ]
         }

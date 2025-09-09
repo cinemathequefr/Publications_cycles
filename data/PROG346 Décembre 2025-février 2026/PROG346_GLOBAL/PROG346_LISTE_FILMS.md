@@ -202,20 +202,29 @@
   * Trésor d'Arne (Le)  
   * Une fille dans chaque port
 
-## Ma petite Cinémathèque (16)
+## Ma petite Cinémathèque (25)
 
   * Âge de glace (L')  
+  * Aventures du prince Ahmed (Les)  
+  * Belle au bois dormant (La)  
   * Blanche-Neige et les sept nains  
+  * Blanche-Neige et Rose-Rouge  
+  * Carna vallée  
   * Chicken Run  
   * Contes de la nuit (Les)  
   * Enfant qui voulait être un ours (L')  
+  * Filante  
   * Grand Noël des animaux (Le)  
-  * Grande évasion (La)  
+  * Grande Évasion (La)  
   * Gremlins  
+  * Hansel et Gretel  
+  * Ivan Tsarévitch et la Princesse changeante  
   * Jason et les Argonautes  
   * Jeune et Innocent  
   * Mary Poppins  
   * Montagnards sont là (Les)  
+  * Ourse et l'Oiseau (L')  
+  * Poucette  
   * Princes et Princesses  
   * Reine des neiges (La)  
   * Roi et l'Oiseau (Le)  
@@ -271,10 +280,9 @@
   * Voleur (Le)  
   * Volpone
 
-## Márta Mészáros (23)
+## Márta Mészáros (21)
 
   * Adoption  
-  * Aurora borealis  
   * Belle et le Vagabond (La)  
   * Bóbita  
   * Cati  
@@ -286,7 +294,6 @@
   * Fœtus (Le)  
   * Héritières (Les)  
   * Homme sans sépulture (L')  
-  * In memoriam László Mészáros  
   * Journal à mes amours  
   * Journal à mes enfants  
   * Journal pour mon père et ma mère  
@@ -346,7 +353,6 @@
 
 ## Restaurations et raretés, best of 2025 (38)
 
-  * 'A santanotte  
   * Au-delà de l'oubli  
   * Bête à l'affût (La)  
   * Boulevard du crépuscule  
@@ -376,6 +382,7 @@
   * Panthère Rose (La)  
   * Quand la colère éclate  
   * Rapt  
+  * Sainte Nuit  
   * Samba Traoré  
   * Sholay  
   * Story of Joanna (The)  

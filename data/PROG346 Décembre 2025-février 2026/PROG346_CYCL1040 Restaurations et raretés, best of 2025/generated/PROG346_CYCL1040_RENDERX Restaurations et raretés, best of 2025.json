@@ -10,30 +10,6 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 155480,
-          "content": [
-            {
-              "idFilm": 155480,
-              "ordre": 1,
-              "titre": "'A santanotte",
-              "realisateurs": "Elvira Notari",
-              "pays": "Italie",
-              "annee": 1922,
-              "duree": 61,
-              "version": "INT. FR.",
-              "format": "DCP",
-              "restauration": true
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 198346,
-              "dateHeure": "2025-12-03T18:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 155483,
           "content": [
             {
@@ -209,7 +185,7 @@
               "pays": "Italie-France",
               "annee": 1968,
               "duree": 105,
-              "version": "VO",
+              "version": "VOSTF",
               "format": "DCP",
               "restauration": true,
               "generique": [
@@ -869,6 +845,32 @@
               "idSeance": 198387,
               "dateHeure": "2025-12-04T18:00:00",
               "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 155480,
+          "content": [
+            {
+              "idFilm": 155480,
+              "ordre": 1,
+              "titre": "Sainte Nuit",
+              "titreVo": "Santanotte",
+              "artVo": "'A",
+              "realisateurs": "Elvira Notari",
+              "pays": "Italie",
+              "annee": 1922,
+              "duree": 61,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198346,
+              "dateHeure": "2025-12-03T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },

@@ -162,7 +162,7 @@
               "pays": "Hongrie",
               "annee": 1979,
               "duree": 104,
-              "version": "",
+              "version": "STF",
               "format": ""
             }
           ],
@@ -170,6 +170,47 @@
             {
               "idSeance": 200033,
               "dateHeure": "2026-02-04T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idEvenement": 34918,
+          "content": [
+            {
+              "idFilm": 155465,
+              "ordre": 1,
+              "titre": "Filature de Lőrinc",
+              "art": "La",
+              "titreVo": "Lőrinci fonóban",
+              "artVo": "A",
+              "realisateurs": "Márta Mészáros",
+              "pays": "Hongrie",
+              "annee": 1972,
+              "duree": 16,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            },
+            {
+              "idFilm": 121232,
+              "ordre": 2,
+              "titre": "Vent de la liberté",
+              "art": "Le",
+              "titreVo": "Szabad lélegzet",
+              "realisateurs": "Márta Mészáros",
+              "pays": "Hongrie",
+              "annee": 1973,
+              "duree": 77,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 199997,
+              "dateHeure": "2026-02-02T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -187,7 +228,7 @@
               "pays": "Pologne",
               "annee": 1999,
               "duree": 114,
-              "version": "",
+              "version": "STF",
               "format": ""
             }
           ],
@@ -353,7 +394,7 @@
           ]
         },
         {
-          "idEvenement": 34491,
+          "idFilm": 135297,
           "content": [
             {
               "idFilm": 135297,
@@ -370,46 +411,6 @@
                 "Mari Törőcsik",
                 "Kati Kovács"
               ]
-            },
-            {
-              "idFilm": 155465,
-              "ordre": 2,
-              "titre": "Filature de Lőrinc",
-              "art": "La",
-              "titreVo": "Lőrinci fonóban",
-              "artVo": "A",
-              "realisateurs": "Márta Mészáros",
-              "pays": "Hongrie",
-              "annee": 1972,
-              "duree": 16,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true
-            },
-            {
-              "idFilm": 155515,
-              "ordre": 3,
-              "titre": "Aurora borealis",
-              "titreVo": "Aurora Borealis – Északi fény",
-              "realisateurs": "Márta Mészáros",
-              "pays": "Hongrie",
-              "annee": 2017,
-              "duree": 104,
-              "version": "VOSTA",
-              "format": "DCP"
-            },
-            {
-              "idFilm": 155463,
-              "ordre": 4,
-              "titre": "In memoriam László Mészáros",
-              "titreVo": "Mészáros László emlékére",
-              "realisateurs": "Márta Mészáros",
-              "pays": "Hongrie",
-              "annee": 1969,
-              "duree": 14,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true
             }
           ],
           "seances": [
@@ -489,7 +490,7 @@
               "pays": "Italie-Hongrie-France-Pologne",
               "annee": 1995,
               "duree": 108,
-              "version": "",
+              "version": "STF",
               "format": ""
             }
           ],
@@ -513,7 +514,7 @@
               "pays": "Hongrie-France",
               "annee": 1981,
               "duree": 90,
-              "version": "",
+              "version": "STF",
               "format": "DCP"
             }
           ],
@@ -521,32 +522,6 @@
             {
               "idSeance": 200034,
               "dateHeure": "2026-02-04T20:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 121232,
-          "content": [
-            {
-              "idFilm": 121232,
-              "ordre": 1,
-              "titre": "Vent de la liberté",
-              "art": "Le",
-              "titreVo": "Szabad lélegzet",
-              "realisateurs": "Márta Mészáros",
-              "pays": "Hongrie",
-              "annee": 1973,
-              "duree": 77,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 199997,
-              "dateHeure": "2026-02-02T18:00:00",
               "idSalle": "GF"
             }
           ]

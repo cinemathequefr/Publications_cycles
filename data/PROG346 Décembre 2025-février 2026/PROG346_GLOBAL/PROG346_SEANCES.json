@@ -61,7 +61,7 @@
     "items": [
       {
         "idFilm": 155480,
-        "titre": "'A santanotte",
+        "titre": "Sainte Nuit",
         "realisateurs": "Elvira Notari",
         "annee": 1922,
         "duree": 61,
@@ -542,7 +542,7 @@
         "realisateurs": "Mario Bava",
         "annee": 1968,
         "duree": 105,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
@@ -4718,6 +4718,27 @@
     "hashEvenement": "f80314"
   },
   {
+    "idSeance": 205726,
+    "idEvenement": 34740,
+    "dateHeure": "2026-01-15T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 34740,
+        "titre": "Dialogue avec Murielle Joudet",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c34740"
+  },
+  {
     "idSeance": 205682,
     "idEvenement": 34621,
     "dateHeure": "2026-01-15T20:30:00",
@@ -6600,7 +6621,7 @@
     "items": [
       {
         "idFilm": 37215,
-        "titre": "Grande évasion",
+        "titre": "Grande Évasion",
         "art": "La",
         "realisateurs": "John Sturges",
         "annee": 1962,
@@ -6613,7 +6634,7 @@
   },
   {
     "idSeance": 199987,
-    "idEvenement": 34491,
+    "idEvenement": 34916,
     "dateHeure": "2026-02-01T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -6631,39 +6652,9 @@
         "duree": 82,
         "version": "VOSTF",
         "format": "DCP"
-      },
-      {
-        "idFilm": 155465,
-        "titre": "Filature de Lőrinc",
-        "art": "La",
-        "realisateurs": "Márta Mészáros",
-        "annee": 1972,
-        "duree": 16,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      },
-      {
-        "idFilm": 155515,
-        "titre": "Aurora borealis",
-        "realisateurs": "Márta Mészáros",
-        "annee": 2017,
-        "duree": 104,
-        "version": "VOSTA",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155463,
-        "titre": "In memoriam László Mészáros",
-        "realisateurs": "Márta Mészáros",
-        "annee": 1969,
-        "duree": 14,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
       }
     ],
-    "hashEvenement": "f135297f155465f155515f155463"
+    "hashEvenement": "f135297"
   },
   {
     "idSeance": 199988,
@@ -6714,7 +6705,7 @@
   },
   {
     "idSeance": 199997,
-    "idEvenement": 34496,
+    "idEvenement": 34918,
     "dateHeure": "2026-02-02T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -6724,6 +6715,17 @@
       ]
     ],
     "items": [
+      {
+        "idFilm": 155465,
+        "titre": "Filature de Lőrinc",
+        "art": "La",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1972,
+        "duree": 16,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
       {
         "idFilm": 121232,
         "titre": "Vent de la liberté",
@@ -6736,7 +6738,7 @@
         "restauration": true
       }
     ],
-    "hashEvenement": "f121232"
+    "hashEvenement": "f155465f121232"
   },
   {
     "idSeance": 199999,
@@ -6805,7 +6807,8 @@
         "titre": "En cours de route",
         "realisateurs": "Márta Mészáros",
         "annee": 1979,
-        "duree": 104
+        "duree": 104,
+        "version": "STF"
       }
     ],
     "hashEvenement": "f77596"
@@ -6828,6 +6831,7 @@
         "realisateurs": "Márta Mészáros",
         "annee": 1981,
         "duree": 90,
+        "version": "STF",
         "format": "DCP"
       }
     ],
@@ -6996,7 +7000,8 @@
         "art": "La",
         "realisateurs": "Márta Mészáros",
         "annee": 1995,
-        "duree": 108
+        "duree": 108,
+        "version": "STF"
       }
     ],
     "hashEvenement": "f73752"
@@ -7019,7 +7024,8 @@
         "art": "Les",
         "realisateurs": "Márta Mészáros",
         "annee": 1999,
-        "duree": 114
+        "duree": 114,
+        "version": "STF"
       }
     ],
     "hashEvenement": "f75414"
@@ -7823,27 +7829,6 @@
     "hashEvenement": "f102297"
   },
   {
-    "idSeance": 205526,
-    "idEvenement": 34734,
-    "dateHeure": "2026-02-21T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Pascal Bonitzer",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 34734,
-        "titre": "Pascal Bonitzer par Pascal Bonitzer, une leçon de cinéma",
-        "typeConference": "Leçon de cinéma",
-        "duree": 75
-      }
-    ],
-    "hashEvenement": "c34734"
-  },
-  {
     "idSeance": 205704,
     "idEvenement": 34544,
     "dateHeure": "2026-02-21T14:30:00",
@@ -7852,6 +7837,10 @@
       [
         "Pascal Bonitzer",
         "Les films"
+      ],
+      [
+        "Pascal Bonitzer",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -7862,9 +7851,15 @@
         "annee": 1998,
         "duree": 105,
         "format": "35 mm"
+      },
+      {
+        "idConf": 34734,
+        "titre": "Pascal Bonitzer par Pascal Bonitzer, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 75
       }
     ],
-    "hashEvenement": "f64180"
+    "hashEvenement": "f64180c34734"
   },
   {
     "idSeance": 200528,
@@ -8354,6 +8349,47 @@
     "hashEvenement": "f155456"
   },
   {
+    "idSeance": 200589,
+    "idEvenement": 34912,
+    "dateHeure": "2026-02-25T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155184,
+        "titre": "Filante",
+        "realisateurs": "Marion Jamault",
+        "annee": 2024,
+        "duree": 9,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155523,
+        "titre": "Ourse et l'Oiseau",
+        "art": "L'",
+        "realisateurs": "Marie Caudry",
+        "annee": 2024,
+        "duree": 26,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 70185,
+        "titre": "Carna vallée",
+        "realisateurs": "Aline Ahond",
+        "annee": 1997,
+        "duree": 5,
+        "version": "VF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155184f155523f70185"
+  },
+  {
     "idSeance": 200594,
     "idEvenement": 34453,
     "dateHeure": "2026-02-25T18:30:00",
@@ -8725,6 +8761,31 @@
     "hashEvenement": "f44423"
   },
   {
+    "idSeance": 200734,
+    "idEvenement": 34877,
+    "dateHeure": "2026-03-01T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 38313,
+        "titre": "Aventures du prince Ahmed",
+        "art": "Les",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1926,
+        "duree": 65,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f38313"
+  },
+  {
     "idSeance": 200735,
     "idEvenement": 34460,
     "dateHeure": "2026-03-01T17:30:00",
@@ -8817,6 +8878,30 @@
       }
     ],
     "hashEvenement": "f51506"
+  },
+  {
+    "idSeance": 200776,
+    "idEvenement": 34895,
+    "dateHeure": "2026-03-04T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 132369,
+        "titre": "Ivan Tsarévitch et la Princesse changeante",
+        "realisateurs": "Michel Ocelot",
+        "annee": 2010,
+        "duree": 53,
+        "version": "VF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f132369"
   },
   {
     "idSeance": 205692,
@@ -9220,6 +9305,53 @@
       }
     ],
     "hashEvenement": "f32512"
+  },
+  {
+    "idSeance": 200921,
+    "idEvenement": 34908,
+    "dateHeure": "2026-03-08T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 112714,
+        "titre": "Belle au bois dormant",
+        "art": "La",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1954,
+        "duree": 10,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 112715,
+        "titre": "Blanche-Neige et Rose-Rouge",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1953,
+        "duree": 11,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 42934,
+        "titre": "Hansel et Gretel",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1955,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 112716,
+        "titre": "Poucette",
+        "realisateurs": "Lotte Reiniger",
+        "annee": 1954,
+        "duree": 10,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f112714f112715f42934f112716"
   },
   {
     "idSeance": 200922,

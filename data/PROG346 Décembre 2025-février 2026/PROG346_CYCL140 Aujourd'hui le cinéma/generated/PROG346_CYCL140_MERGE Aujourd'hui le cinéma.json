@@ -1,6 +1,53 @@
 {
   "data": [
     {
+      "titreSousCycle": "Johann Lurf",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 205720,
+          "ordre": 2,
+          "dateHeure": "2025-12-08T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 135,
+          "mention": "Séance présentée par Johann Lurf",
+          "idCategorie": 4020,
+          "idEvenement": 34858,
+          "typeEvenement": 13,
+          "idFilm": 155519,
+          "titre": "Star",
+          "realisateurs": "Johann Lurf",
+          "annee": 2017,
+          "pays": "Autriche",
+          "textes": []
+        },
+        {
+          "idSeance": 205720,
+          "ordre": 1,
+          "dateHeure": "2025-12-08T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 135,
+          "mention": "Séance présentée par Johann Lurf",
+          "idCategorie": 4020,
+          "idEvenement": 34858,
+          "typeEvenement": 13,
+          "idFilm": 155520,
+          "titre": "Twelve Tales Told",
+          "realisateurs": "Johann Lurf",
+          "annee": 2014,
+          "pays": "Autriche",
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
       "titreSousCycle": "Courts métrages Arte",
       "tri": 4,
       "items": [
@@ -265,87 +312,6 @@
       "textes": []
     },
     {
-      "titreSousCycle": "Johann Lurf",
-      "tri": 4,
-      "items": [
-        {
-          "idSeance": 205720,
-          "ordre": 2,
-          "dateHeure": "2025-12-08T19:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 135,
-          "mention": "Séance présentée par Johann Lurf",
-          "idCategorie": 4020,
-          "idEvenement": 34858,
-          "typeEvenement": 13,
-          "idFilm": 155519,
-          "titre": "Star",
-          "realisateurs": "Johann Lurf",
-          "annee": 2017,
-          "pays": "Autriche",
-          "textes": []
-        },
-        {
-          "idSeance": 205720,
-          "ordre": 1,
-          "dateHeure": "2025-12-08T19:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 135,
-          "mention": "Séance présentée par Johann Lurf",
-          "idCategorie": 4020,
-          "idEvenement": 34858,
-          "typeEvenement": 13,
-          "idFilm": 155520,
-          "titre": "Twelve Tales Told",
-          "realisateurs": "Johann Lurf",
-          "annee": 2014,
-          "pays": "Autriche",
-          "textes": []
-        }
-      ],
-      "textes": []
-    },
-    {
-      "titreSousCycle": "« Une mystérieuse alchimie » : Le Regard de Tom Harari",
-      "tri": 4,
-      "items": [
-        {
-          "idSeance": 200560,
-          "ordre": 1,
-          "dateHeure": "2026-02-23T19:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 135,
-          "idCategorie": 4021,
-          "idEvenement": 34857,
-          "typeEvenement": 13,
-          "idFilm": 130783,
-          "art": "Les",
-          "titre": "Ogres",
-          "realisateurs": "Léa Fehner",
-          "annee": 2014,
-          "pays": "France",
-          "generique": [
-            "Adèle Haenel",
-            "Marc Barbé",
-            "François Fehner",
-            "Marion Bouvarel",
-            "Inès Fehner"
-          ],
-          "textes": []
-        }
-      ],
-      "textes": []
-    },
-    {
       "titreSousCycle": "Olivier Guidoux",
       "tri": 4,
       "items": [
@@ -380,6 +346,40 @@
           "texte": "Ayant besoin de faire une pause dans sa vie, Paul se rend chez son vieux professeur, qui lui laisse sa maison pendant les vacances. Une fois arrivé, Paul trouve son ami soucieux : le professeur s'inquiète pour sa femme, qu'il trouve de plus en plus distante. Intrigué, Paul suit celle-ci au cours d'une de ses promenades et découvre alors un sentier caché qui longe un ruisseau. Au fil des jours, il est lui-même inexplicablement attiré par ce lieu. Note d\\\\'intention du cinéaste Le projet s'est cristallisé quand plusieurs envies se sont réunies : capter le mystère d'un lieu et ce qu'il suscite de cinéma ; raconter une histoire simple, intemporelle, un conte adulte ; filmer en pellicule Super 8, le support avec lequel j'ai commencé ; et enfin rester en contact direct avec le désir premier, c'est-à-dire ne pas dans une quête trop longue de financements. Le film cherche un retour à une simplicité « originelle » du cinéma, qui n'exclut pas l'ambition cinématographique, mais qui au contraire la renforce. Il parle du désir de vivre, de son amoindrissement ou de sa renaissance. Il parle d'espoir, qui s'en va, ou qui revient."
         }
       ]
+    },
+    {
+      "titreSousCycle": "« Une mystérieuse alchimie » : Le Regard de Tom Harari",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 200560,
+          "ordre": 1,
+          "dateHeure": "2026-02-23T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 135,
+          "idCategorie": 4021,
+          "idEvenement": 34857,
+          "typeEvenement": 13,
+          "idFilm": 130783,
+          "art": "Les",
+          "titre": "Ogres",
+          "realisateurs": "Léa Fehner",
+          "annee": 2014,
+          "pays": "France",
+          "generique": [
+            "Adèle Haenel",
+            "Marc Barbé",
+            "François Fehner",
+            "Marion Bouvarel",
+            "Inès Fehner"
+          ],
+          "textes": []
+        }
+      ],
+      "textes": []
     }
   ],
   "textes": [
