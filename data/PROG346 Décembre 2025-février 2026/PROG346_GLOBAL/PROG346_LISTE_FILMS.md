@@ -54,11 +54,11 @@
 
   * Bel companho  
   * Bottes de la nuit (Les)  
+  * Conte de la Jaguère (Le)  
   * Et quand l'aube viendra  
   * Hypernuit  
   * Jeune Fille qui pleurait des perles (La)  
   * Les Fleurs blanches et la lune  
-  * Ligne de vie (La)  
   * Luna Rossa  
   * Mohican (Le)  
   * Ogres (Les)  
