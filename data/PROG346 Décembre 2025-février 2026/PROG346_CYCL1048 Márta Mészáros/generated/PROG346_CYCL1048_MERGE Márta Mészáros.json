@@ -161,9 +161,9 @@
           "typeEvenement": 13,
           "idFilm": 41015,
           "titre": "Elles deux",
-          "titreVo": "Ok ketten",
+          "titreVo": "Ők ketten",
           "realisateurs": "Márta Mészáros",
-          "annee": 1978,
+          "annee": 1977,
           "pays": "Hongrie",
           "duree": 92,
           "version": "VOSTF",
@@ -172,12 +172,7 @@
             "Marina Vlady",
             "Lili Monori"
           ],
-          "textes": [
-            {
-              "typeTexte": 99,
-              "texte": "Restauré en 4K en 2018, à partir du négatif image d'origine et de la bande magnétique d'origine. Étalonnage dirigé par Janos Kende."
-            }
-          ]
+          "textes": []
         },
         {
           "idSeance": 200033,
@@ -203,6 +198,32 @@
           "textes": []
         },
         {
+          "idSeance": 199987,
+          "ordre": 2,
+          "dateHeure": "2026-02-01T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 3972,
+          "idEvenement": 34491,
+          "typeEvenement": 13,
+          "idFilm": 155465,
+          "art": "La",
+          "titre": "Filature de Lőrinc",
+          "artVo": "A",
+          "titreVo": "Lőrinci fonóban",
+          "realisateurs": "Márta Mészáros",
+          "annee": 1972,
+          "pays": "Hongrie",
+          "duree": 16,
+          "version": "VOSTF",
+          "format": "DCP",
+          "restauration": true,
+          "textes": []
+        },
+        {
           "idSeance": 200175,
           "ordre": 1,
           "dateHeure": "2026-02-08T19:30:00",
@@ -219,7 +240,7 @@
           "titre": "Filles de la fortune",
           "titreVo": "Córy szczęścia",
           "realisateurs": "Márta Mészáros",
-          "annee": 1998,
+          "annee": 1999,
           "pays": "Pologne",
           "duree": 114,
           "version": "",
@@ -302,24 +323,24 @@
           "textes": []
         },
         {
-          "idSeance": 200065,
-          "ordre": 1,
-          "dateHeure": "2026-02-05T21:15:00",
+          "idSeance": 199987,
+          "ordre": 4,
+          "dateHeure": "2026-02-01T17:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
-          "dureeSeance": 135,
+          "dureeSeance": 120,
           "idCategorie": 3972,
-          "idEvenement": 34489,
+          "idEvenement": 34491,
           "typeEvenement": 13,
-          "idFilm": 39859,
-          "titre": "Journal intime",
-          "titreVo": "Napló gyermekeimnek",
+          "idFilm": 155463,
+          "titre": "In memoriam László Mészáros",
+          "titreVo": "Mészáros László emlékére",
           "realisateurs": "Márta Mészáros",
-          "annee": 1982,
+          "annee": 1969,
           "pays": "Hongrie",
-          "duree": 109,
+          "duree": 14,
           "version": "VOSTF",
           "format": "DCP",
           "restauration": true,
@@ -338,8 +359,8 @@
           "idEvenement": 34492,
           "typeEvenement": 13,
           "idFilm": 148341,
-          "titre": "Journal pour mon père et pour ma mère",
-          "titreVo": "Naplo apamnak, anyamnak",
+          "titre": "Journal pour mon père et ma mère",
+          "titreVo": "Napló apámnak, anyámnak",
           "realisateurs": "Márta Mészáros",
           "annee": 1990,
           "pays": "Hongrie",
@@ -374,28 +395,33 @@
           "textes": []
         },
         {
-          "idSeance": 199987,
-          "ordre": 2,
-          "dateHeure": "2026-02-01T17:30:00",
+          "idSeance": 200065,
+          "ordre": 1,
+          "dateHeure": "2026-02-05T21:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
-          "dureeSeance": 120,
+          "dureeSeance": 135,
           "idCategorie": 3972,
-          "idEvenement": 34491,
+          "idEvenement": 34489,
           "typeEvenement": 13,
-          "idFilm": 155465,
-          "art": "A",
-          "titre": "Lőrinci fonóban",
+          "idFilm": 39859,
+          "titre": "Journal à mes enfants",
+          "titreVo": "Napló gyermekeimnek",
           "realisateurs": "Márta Mészáros",
-          "annee": 1972,
+          "annee": 1984,
           "pays": "Hongrie",
-          "duree": 16,
+          "duree": 109,
           "version": "VOSTF",
           "format": "DCP",
           "restauration": true,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 99,
+              "texte": "Film également connu en français sous le titre _Journal intime_."
+            }
+          ]
         },
         {
           "idSeance": 199987,
@@ -422,29 +448,6 @@
             "Mari Törőcsik",
             "Kati Kovács"
           ],
-          "textes": []
-        },
-        {
-          "idSeance": 199987,
-          "ordre": 4,
-          "dateHeure": "2026-02-01T17:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 3972,
-          "idEvenement": 34491,
-          "typeEvenement": 13,
-          "idFilm": 155463,
-          "titre": "Mészáros László emlékére",
-          "realisateurs": "Márta Mészáros",
-          "annee": 2023,
-          "pays": "Hongrie",
-          "duree": 14,
-          "version": "VOSTF",
-          "format": "DCP",
-          "restauration": true,
           "textes": []
         },
         {

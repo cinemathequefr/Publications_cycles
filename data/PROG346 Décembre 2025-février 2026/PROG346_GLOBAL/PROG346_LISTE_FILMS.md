@@ -158,7 +158,7 @@
   * Saphir de St. Louis (Le)  
   * Spectre du Thuit (Le)
 
-## Le film policier asiatique, 25 indispensables (26)
+## Le film policier asiatique, 25 indispensables (25)
 
   * A Bittersweet Life (Director's Cut)  
   * As Tears Go By  
@@ -182,7 +182,6 @@
   * Shokuzai, celles qui voulaient oublier  
   * Shokuzai, celles qui voulaient se souvenir  
   * Sonatine, mélodie mortelle  
-  * Syndicat du crime (Le)  
   * Time and Tide  
   * Une pluie sans fin  
   * Violent Cop
@@ -202,6 +201,11 @@
   * Rapaces (Les)  
   * Trésor d'Arne (Le)  
   * Une fille dans chaque port
+
+## Ma petite Cinémathèque (2)
+
+  * Âge de glace (L')  
+  * Reine des neiges (La)
 
 ## Mario Martone (10)
 
@@ -263,23 +267,23 @@
   * Comme chez nous  
   * Elles deux  
   * En cours de route  
+  * Filature de Lőrinc (La)  
   * Filles de la fortune (Les)  
   * Fœtus (Le)  
   * Héritières (Les)  
   * Homme sans sépulture (L')  
+  * In memoriam László Mészáros  
   * Journal à mes amours  
-  * Journal intime  
-  * Journal pour mon père et pour ma mère  
-  * Lőrinci fonóban (A)  
+  * Journal à mes enfants  
+  * Journal pour mon père et ma mère  
   * Marie  
-  * Mészáros László emlékére  
   * Neuf mois  
   * Petite Vilma, le dernier journal  
   * Septième Demeure (La)  
   * Une mère, une fille  
   * Vent de la liberté (Le)
 
-## Orson Welles (15)
+## Orson Welles (19)
 
   * Au pays de Don Quichotte : Ferias d'avril à Séville  
   * Au pays de Don Quichotte : Itinéraire andalou  
@@ -290,12 +294,16 @@
   * Au pays de Don Quichotte : Les Caves de Jerez  
   * Au pays de Don Quichotte : Rome et l'Orient en Espagne  
   * Au pays de Don Quichotte : Séville  
+  * Citizen Kane  
   * Citizen Welles  
   * De l'autre côté du vent  
+  * Dossier secret  
   * Ed Wood  
   * Mank  
   * Nuit qui terrifia l'Amérique (La)  
-  * Orson Welles et moi
+  * Orson Welles et moi  
+  * Soif du mal (version 1958) (La)  
+  * Splendeur des Amberson (La)
 
 ## Panorama du cinéma indonésien (10)
 
