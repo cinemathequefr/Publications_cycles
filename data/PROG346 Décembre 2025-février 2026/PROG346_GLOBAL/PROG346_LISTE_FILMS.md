@@ -202,10 +202,24 @@
   * Trésor d'Arne (Le)  
   * Une fille dans chaque port
 
-## Ma petite Cinémathèque (2)
+## Ma petite Cinémathèque (16)
 
   * Âge de glace (L')  
-  * Reine des neiges (La)
+  * Blanche-Neige et les sept nains  
+  * Chicken Run  
+  * Contes de la nuit (Les)  
+  * Enfant qui voulait être un ours (L')  
+  * Grand Noël des animaux (Le)  
+  * Grande évasion (La)  
+  * Gremlins  
+  * Jason et les Argonautes  
+  * Jeune et Innocent  
+  * Mary Poppins  
+  * Montagnards sont là (Les)  
+  * Princes et Princesses  
+  * Reine des neiges (La)  
+  * Roi et l'Oiseau (Le)  
+  * Ruée vers l'or (La)
 
 ## Mario Martone (10)
 
