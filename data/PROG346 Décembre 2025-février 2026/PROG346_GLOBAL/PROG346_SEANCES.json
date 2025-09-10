@@ -48,6 +48,31 @@
     "hashEvenement": "f154797"
   },
   {
+    "idSeance": 205527,
+    "idEvenement": 34661,
+    "dateHeure": "2025-12-03T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2025",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 47976,
+        "titre": "Vérité sur Bébé Donge",
+        "art": "La",
+        "realisateurs": "Henri Decoin",
+        "annee": 1952,
+        "duree": 104,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f47976"
+  },
+  {
     "idSeance": 198346,
     "idEvenement": 34675,
     "dateHeure": "2025-12-03T18:30:00",
@@ -71,31 +96,6 @@
       }
     ],
     "hashEvenement": "f155480"
-  },
-  {
-    "idSeance": 205527,
-    "idEvenement": 34661,
-    "dateHeure": "2025-12-03T18:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Restaurations et raretés, best of 2025",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 47976,
-        "titre": "Vérité sur Bébé Donge",
-        "art": "La",
-        "realisateurs": "Henri Decoin",
-        "annee": 1952,
-        "duree": 104,
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f47976"
   },
   {
     "idSeance": 198348,
@@ -879,7 +879,7 @@
   {
     "idSeance": 205666,
     "idEvenement": 34820,
-    "dateHeure": "2025-12-07T17:00:00",
+    "dateHeure": "2025-12-07T17:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -929,7 +929,7 @@
   {
     "idSeance": 205668,
     "idEvenement": 34819,
-    "dateHeure": "2025-12-07T19:00:00",
+    "dateHeure": "2025-12-07T19:45:00",
     "salle": "JE",
     "cycle": [
       [
@@ -953,34 +953,9 @@
     "hashEvenement": "f43768"
   },
   {
-    "idSeance": 198487,
-    "idEvenement": 34775,
-    "dateHeure": "2025-12-07T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Restaurations et raretés, best of 2025",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 36930,
-        "titre": "Boulevard du crépuscule",
-        "realisateurs": "Billy Wilder",
-        "annee": 1950,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f36930"
-  },
-  {
     "idSeance": 198492,
     "idEvenement": 34642,
-    "dateHeure": "2025-12-07T20:30:00",
+    "dateHeure": "2025-12-07T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1002,6 +977,31 @@
       }
     ],
     "hashEvenement": "f123944"
+  },
+  {
+    "idSeance": 198487,
+    "idEvenement": 34775,
+    "dateHeure": "2025-12-07T20:45:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2025",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36930,
+        "titre": "Boulevard du crépuscule",
+        "realisateurs": "Billy Wilder",
+        "annee": 1950,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f36930"
   },
   {
     "idSeance": 205720,
@@ -1081,7 +1081,7 @@
     "hashEvenement": "f36465"
   },
   {
-    "idSeance": 198537,
+    "idSeance": 205728,
     "idEvenement": 34055,
     "dateHeure": "2025-12-10T19:30:00",
     "salle": "GF",
@@ -7188,9 +7188,17 @@
         "annee": 2024,
         "duree": 33,
         "format": "DCP"
+      },
+      {
+        "idFilm": 56787,
+        "titre": "Je, tu, il, elle",
+        "realisateurs": "Chantal Akerman",
+        "annee": 1974,
+        "duree": 90,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f155401"
+    "hashEvenement": "f155401f56787"
   },
   {
     "idSeance": 200185,

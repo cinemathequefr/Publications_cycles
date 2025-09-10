@@ -2,6 +2,30 @@
   {
     "idCategorie": 3959,
     "typeEvenement": 13,
+    "idEvenement": 34661,
+    "idSeance": 205527,
+    "dateHeure": "2025-12-03T18:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 47976,
+        "ordre": 1,
+        "idSeance": 205527,
+        "idCopie": 5805,
+        "duree": 104,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 3959,
+    "typeEvenement": 13,
     "idEvenement": 34675,
     "idSeance": 198346,
     "dateHeure": "2025-12-03T18:30:00",
@@ -18,30 +42,6 @@
         "idCopie": 30691,
         "duree": 61,
         "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 3959,
-    "typeEvenement": 13,
-    "idEvenement": 34661,
-    "idSeance": 205527,
-    "dateHeure": "2025-12-03T18:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 47976,
-        "ordre": 1,
-        "idSeance": 205527,
-        "idCopie": 5805,
-        "duree": 104,
-        "version": "",
         "format": "DCP",
         "restauration": true
       }
@@ -797,7 +797,7 @@
     "typeEvenement": 13,
     "idEvenement": 34820,
     "idSeance": 205666,
-    "dateHeure": "2025-12-07T17:00:00",
+    "dateHeure": "2025-12-07T17:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -845,7 +845,7 @@
     "typeEvenement": 13,
     "idEvenement": 34819,
     "idSeance": 205668,
-    "dateHeure": "2025-12-07T19:00:00",
+    "dateHeure": "2025-12-07T19:45:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -867,33 +867,9 @@
   {
     "idCategorie": 3959,
     "typeEvenement": 13,
-    "idEvenement": 34775,
-    "idSeance": 198487,
-    "dateHeure": "2025-12-07T20:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 36930,
-        "ordre": 1,
-        "idSeance": 198487,
-        "idCopie": 16413,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 3959,
-    "typeEvenement": 13,
     "idEvenement": 34642,
     "idSeance": 198492,
-    "dateHeure": "2025-12-07T20:30:00",
+    "dateHeure": "2025-12-07T20:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -906,6 +882,30 @@
         "idSeance": 198492,
         "idCopie": 30677,
         "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 3959,
+    "typeEvenement": 13,
+    "idEvenement": 34775,
+    "idSeance": 198487,
+    "dateHeure": "2025-12-07T20:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 36930,
+        "ordre": 1,
+        "idSeance": 198487,
+        "idCopie": 16413,
+        "duree": 110,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
