@@ -84,11 +84,9 @@
   * Supernichons contre mafia  
   * Un été pourri
 
-## David Gordon Green (21)
+## David Gordon Green (17)
 
   * All the Real Girls  
-  * Autre rive (L')  
-  * Baby-sitter malgré lui  
   * Black Jack  
   * Délire express  
   * Exorciste : Dévotion (L')  
@@ -101,8 +99,6 @@
   * Nutcrackers  
   * Physical Pinball  
   * Pleasant Grove  
-  * Prince of Texas  
-  * Que le meilleur gagne  
   * Snow Angels  
   * Stronger  
   * Unit Zero  
@@ -287,9 +283,10 @@
   * Voleur (Le)  
   * Volpone
 
-## Márta Mészáros (21)
+## Márta Mészáros (22)
 
   * Adoption  
+  * Aurora borealis  
   * Belle et le Vagabond (La)  
   * Bóbita  
   * Cati  
