@@ -200,33 +200,50 @@
           ]
         },
         {
-          "idFilm": 83039,
-          "content": [
+          "groupe": [
             {
               "idFilm": 83039,
-              "ordre": 1,
-              "titre": "Spectre du Thuit",
-              "art": "Le",
-              "titreVo": "Tren de sombras",
-              "realisateurs": "José Luis Guerín",
-              "pays": "Espagne",
-              "annee": 1997,
-              "duree": 88,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Juliette Gaultier",
-                "Ivon Orvain",
-                "Anne Céline Auché"
-              ],
-              "miniTexte": "Comme une étude préliminaire pour _Dans la ville de Sylvia,_ Guerín revient aux bases du langage cinématographique, regarde, esquisse, et monte des séquences qui composent les motifs d'une quête intime, inspirée d'une expérience vécue jadis à Strasbourg."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 83039,
+                  "ordre": 1,
+                  "titre": "Spectre du Thuit",
+                  "art": "Le",
+                  "titreVo": "Tren de sombras",
+                  "realisateurs": "José Luis Guerín",
+                  "pays": "Espagne",
+                  "annee": 1997,
+                  "duree": 88,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Juliette Gaultier",
+                    "Ivon Orvain",
+                    "Anne Céline Auché"
+                  ],
+                  "miniTexte": "Comme une étude préliminaire pour _Dans la ville de Sylvia,_ Guerín revient aux bases du langage cinématographique, regarde, esquisse, et monte des séquences qui composent les motifs d'une quête intime, inspirée d'une expérience vécue jadis à Strasbourg."
+                }
+              ]
+            },
             {
-              "idSeance": 198756,
-              "dateHeure": "2025-12-18T19:00:00",
-              "idSalle": "GF"
+              "idEvenement": 34723,
+              "content": [
+                {
+                  "idConf": 34723,
+                  "ordre": 2,
+                  "titre": "José Luis Guerín par José Luis Guerín, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma",
+                  "mentionAnimation": "Animée par Marién Gómez"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 198756,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-12-18T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         }
@@ -282,30 +299,6 @@
               "idSeance": 205511,
               "dateHeure": "2025-12-21T16:00:00",
               "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34723,
-          "content": [
-            {
-              "idConf": 34723,
-              "titre": "José Luis Guerín par José Luis Guerín, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma",
-              "mentionAnimation": "Animé par Marién Gómez"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205506,
-              "dateHeure": "2025-12-18T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }

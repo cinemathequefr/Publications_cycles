@@ -446,31 +446,47 @@
           ]
         },
         {
-          "idFilm": 40931,
-          "content": [
+          "groupe": [
             {
               "idFilm": 40931,
-              "ordre": 1,
-              "titre": "Neuf mois",
-              "titreVo": "Kilenc hónap",
-              "realisateurs": "Márta Mészáros",
-              "pays": "Hongrie",
-              "annee": 1976,
-              "duree": 90,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Jan Nowicki",
-                "Lili Monori",
-                "Djoko Rosic"
+              "content": [
+                {
+                  "idFilm": 40931,
+                  "ordre": 1,
+                  "titre": "Neuf mois",
+                  "titreVo": "Kilenc hónap",
+                  "realisateurs": "Márta Mészáros",
+                  "pays": "Hongrie",
+                  "annee": 1976,
+                  "duree": 90,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Jan Nowicki",
+                    "Lili Monori",
+                    "Djoko Rosic"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 205750,
-              "dateHeure": "2026-01-31T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 34812,
+              "content": [
+                {
+                  "idConf": 34812,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Lili Monori",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 205750,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-01-31T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -572,23 +588,6 @@
               "idSalle": "GF"
             }
           ]
-        },
-        {
-          "idConf": 34812,
-          "content": [
-            {
-              "idConf": 34812,
-              "titre": "Dialogue avec Lili Monori",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205600,
-              "dateHeure": "2026-01-31T14:30:00",
-              "idSalle": "GF"
-            }
-          ]
         }
       ]
     }
@@ -603,8 +602,9 @@
     ],
     "Dialogue": [
       {
+        "titreFilms": "Neuf mois",
         "mention": "avec Lili Monori",
-        "dateHeure": "2026-01-31T14:30:00"
+        "dateHeure": "2026-01-31T15:00:00"
       }
     ]
   }

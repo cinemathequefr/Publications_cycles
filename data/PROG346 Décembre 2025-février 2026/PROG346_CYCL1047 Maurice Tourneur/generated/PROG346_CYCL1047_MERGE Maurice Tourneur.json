@@ -417,39 +417,8 @@
             "Georges Franju"
           ],
           "dureeSeance": 135,
-          "idCategorie": 3970,
-          "idEvenement": 34462,
-          "typeEvenement": 13,
-          "idFilm": 51506,
-          "titre": "Justin de Marseille",
-          "realisateurs": "Maurice Tourneur",
-          "annee": 1934,
-          "pays": "France",
-          "duree": 99,
-          "version": "",
-          "format": "DCP",
-          "restauration": true,
-          "generique": [
-            "Antonin Berval",
-            "Pierre Larquey",
-            "Alexandre Rignault"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Le portrait d'un parrain marseillais, plus gentleman que criminel, confirme toute la maestria du cinéaste dans un mélange des genres savoureux. Sur fond de trafic d'opium, le film change continuellement de ton, entre règlement de compte filmé à l'américaine, scènes exotiques, moments cocasses et de comédie irrésistible. Les personnages hauts en couleur à la verve généreuse, la mise en scène inventive et les images souvent poétiques font de _Justin de Marseille_, scénarisé par Carlo Rim, une ode à la cité phocéenne autant qu'un polar de premier plan, parmi les joyaux du cinéma français des années 30."
-            }
-          ]
-        },
-        {
-          "idSeance": 200746,
-          "ordre": 1,
-          "dateHeure": "2026-03-02T20:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 135,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 205525,
           "idCategorie": 3970,
           "idEvenement": 34462,
           "typeEvenement": 13,
@@ -990,7 +959,7 @@
         {
           "idSeance": 200745,
           "ordre": 1,
-          "dateHeure": "2026-03-02T18:30:00",
+          "dateHeure": "2026-03-02T20:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1200,6 +1169,32 @@
       "textes": []
     },
     {
+      "titreSousCycle": "Autour de Maurice Tourneur",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 200744,
+          "ordre": 1,
+          "dateHeure": "2026-03-02T18:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 30,
+          "idCategorie": 4014,
+          "idEvenement": 34807,
+          "typeEvenement": 13,
+          "idFilm": 155507,
+          "titre": "Maurice Tourneur, tisseur de rêves",
+          "realisateurs": "Pierre Filmon",
+          "annee": 2023,
+          "pays": "France",
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
       "titreSousCycle": "Rencontres et conférences",
       "tri": 4,
       "items": [
@@ -1211,6 +1206,8 @@
             "Georges Franju"
           ],
           "dureeSeance": 90,
+          "typeAssoc": 117,
+          "idSeanceAssoc": 200439,
           "idCategorie": 4004,
           "idEvenement": 34733,
           "typeEvenement": 14,

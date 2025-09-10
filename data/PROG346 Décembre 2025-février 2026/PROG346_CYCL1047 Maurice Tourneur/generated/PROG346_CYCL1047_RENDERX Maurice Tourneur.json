@@ -415,38 +415,61 @@
           ]
         },
         {
-          "idFilm": 51506,
-          "content": [
+          "groupe": [
             {
-              "idFilm": 51506,
-              "ordre": 1,
-              "titre": "Justin de Marseille",
-              "realisateurs": "Maurice Tourneur",
-              "pays": "France",
-              "annee": 1934,
-              "duree": 99,
-              "version": "",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Antonin Berval",
-                "Pierre Larquey",
-                "Alexandre Rignault"
+              "idEvenement": 34733,
+              "content": [
+                {
+                  "idConf": 34733,
+                  "titre": "Qui êtes-vous... Maurice Tourneur ?",
+                  "sousTitre": "Conférence de Christine Leteux",
+                  "typeConference": "Conférence",
+                  "miniTexte": "Peintre, acteur, régisseur, puis cinéaste du muet au parlant : Maurice Tourneur a mené une carrière protéiforme, sur plus de quatre décennies, et fut à la fois admiré aux États-Unis et sous-estimé par ses pairs en France. Revenir sur sa trajectoire artistique et personnelle est aussi l'occasion de redécouvrir les relations complexes entre les industries cinématographiques de ces deux pays. — Christine Leteux"
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Le portrait d'un parrain marseillais, plus gentleman que criminel, confirme toute la maestria du cinéaste dans un mélange des genres savoureux. Sur fond de trafic d'opium, le film change continuellement de ton, entre règlement de compte filmé à l'américaine, scènes exotiques, moments cocasses et de comédie irrésistible. Les personnages hauts en couleur à la verve généreuse, la mise en scène inventive et les images souvent poétiques font de _Justin de Marseille_, scénarisé par Carlo Rim, une ode à la cité phocéenne autant qu'un polar de premier plan, parmi les joyaux du cinéma français des années 30."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 200439,
-              "dateHeure": "2026-02-19T21:30:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 205525,
+                  "idSeanceAssoc": 200439,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-02-19T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             },
             {
-              "idSeance": 200746,
-              "dateHeure": "2026-03-02T20:30:00",
-              "idSalle": "GF"
+              "idFilm": 51506,
+              "content": [
+                {
+                  "idFilm": 51506,
+                  "ordre": 1,
+                  "titre": "Justin de Marseille",
+                  "realisateurs": "Maurice Tourneur",
+                  "pays": "France",
+                  "annee": 1934,
+                  "duree": 99,
+                  "version": "",
+                  "format": "DCP",
+                  "restauration": true,
+                  "generique": [
+                    "Antonin Berval",
+                    "Pierre Larquey",
+                    "Alexandre Rignault"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Le portrait d'un parrain marseillais, plus gentleman que criminel, confirme toute la maestria du cinéaste dans un mélange des genres savoureux. Sur fond de trafic d'opium, le film change continuellement de ton, entre règlement de compte filmé à l'américaine, scènes exotiques, moments cocasses et de comédie irrésistible. Les personnages hauts en couleur à la verve généreuse, la mise en scène inventive et les images souvent poétiques font de _Justin de Marseille_, scénarisé par Carlo Rim, une ode à la cité phocéenne autant qu'un polar de premier plan, parmi les joyaux du cinéma français des années 30."
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 200439,
+                  "idSeanceAssoc": 205525,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-02-19T21:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -945,7 +968,7 @@
           "seances": [
             {
               "idSeance": 200745,
-              "dateHeure": "2026-03-02T18:30:00",
+              "dateHeure": "2026-03-02T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -1081,23 +1104,24 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
+      "titreSousCycle": "Autour de Maurice Tourneur",
       "items": [
         {
-          "idConf": 34733,
+          "idFilm": 155507,
           "content": [
             {
-              "idConf": 34733,
-              "titre": "Qui êtes-vous... Maurice Tourneur ?",
-              "sousTitre": "Conférence de Christine Leteux",
-              "typeConference": "Conférence",
-              "miniTexte": "Peintre, acteur, régisseur, puis cinéaste du muet au parlant : Maurice Tourneur a mené une carrière protéiforme, sur plus de quatre décennies, et fut à la fois admiré aux États-Unis et sous-estimé par ses pairs en France. Revenir sur sa trajectoire artistique et personnelle est aussi l'occasion de redécouvrir les relations complexes entre les industries cinématographiques de ces deux pays. — Christine Leteux"
+              "idFilm": 155507,
+              "ordre": 1,
+              "titre": "Maurice Tourneur, tisseur de rêves",
+              "realisateurs": "Pierre Filmon",
+              "pays": "France",
+              "annee": 2023
             }
           ],
           "seances": [
             {
-              "idSeance": 205525,
-              "dateHeure": "2026-02-19T19:00:00",
+              "idSeance": 200744,
+              "dateHeure": "2026-03-02T18:00:00",
               "idSalle": "GF"
             }
           ]

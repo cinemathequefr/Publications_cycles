@@ -85,21 +85,6 @@
     ]
   },
   {
-    "idCategorie": 4002,
-    "typeEvenement": 14,
-    "idEvenement": 34812,
-    "idSeance": 205600,
-    "dateHeure": "2026-01-31T14:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 180,
-    "items": [
-      {}
-    ]
-  },
-  {
     "idCategorie": 3972,
     "typeEvenement": 13,
     "idEvenement": 34493,
@@ -110,6 +95,7 @@
       "Georges Franju"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 40931,
@@ -119,6 +105,24 @@
         "duree": 90,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4002,
+    "typeEvenement": 14,
+    "idEvenement": 34812,
+    "idSeance": 205750,
+    "dateHeure": "2026-01-31T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },

@@ -18,7 +18,7 @@
   * Victoire en Ukraine (La)  
   * Zvenigora
 
-## André De Toth (29)
+## André De Toth (30)
 
   * 5 heures 40  
   * Aveu (L')  
@@ -41,14 +41,23 @@
   * Orchidée blanche (L')  
   * Pas un n'échappera  
   * Passport to Suez  
-  * Piège (Le)  
+  * Pitfall  
   * Quand la bête hurle  
   * Rivière de nos amours (La)  
   * Sabre et la Flèche (Le)  
   * Semmelweis  
   * Six semaines de bonheur  
+  * Tanganyika  
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)
+
+## Archi Vives (5)
+
+  * Esmeralda (La)  
+  * Great Adventure (The)  
+  * Herbes folles (Les)  
+  * Impératrice (L')  
+  * Old Love and the New (The)
 
 ## Aujourd'hui le cinéma (18)
 
@@ -75,18 +84,18 @@
 
   * Reine de Broadway (La)
 
-## Cinéma bis (6)
+## Cinéma bis (4)
 
   * Bad Girls Go to Hell  
   * Blackenstein, the Black Frankenstein  
   * Hanno cambiato faccia  
-  * Nuit des juges (La)  
-  * Supernichons contre mafia  
-  * Un été pourri
+  * Supernichons contre mafia
 
-## David Gordon Green (17)
+## David Gordon Green (21)
 
   * All the Real Girls  
+  * Autre rive (L')  
+  * Baby-sitter malgré lui  
   * Black Jack  
   * Délire express  
   * Exorciste : Dévotion (L')  
@@ -99,6 +108,8 @@
   * Nutcrackers  
   * Physical Pinball  
   * Pleasant Grove  
+  * Prince of Texas  
+  * Que le meilleur gagne  
   * Snow Angels  
   * Stronger  
   * Unit Zero  
@@ -106,15 +117,15 @@
 
 ## Films noirs scandinaves (9)
 
+  * Deux minutes de retard  
   * Femme sans visage (La)  
   * Fille aux jacinthes (La)  
   * Huitième Coup (Le)  
   * John et Irene  
-  * Mordets melodi  
+  * Mélodie du meurtre (La)  
   * Mort est une caresse (La)  
   * Nuit de brume  
-  * Quand la chair est faible  
-  * To minutter for sent
+  * Quand la chair est faible
 
 ## Histoire permanente du cinéma (6)
 
@@ -125,7 +136,7 @@
   * Parfum de femme  
   * Trois amigos
 
-## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (19)
+## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (16)
 
   * À nous la liberté  
   * Atalante (L')  
@@ -135,17 +146,14 @@
   * Cicatrice intérieure (La)  
   * Dame du vendredi (La)  
   * En quatrième vitesse  
-  * Haute Pègre  
   * Indiscrétions  
   * Muriel ou le temps d'un retour  
   * Onze Fioretti de François d'Assise (Les)  
   * Pierrot le fou  
-  * Psychose  
   * Règle du jeu (La)  
   * Remorques  
   * Salomè  
-  * Tirez sur le pianiste  
-  * Yeux sans visage (Les)
+  * Tirez sur le pianiste
 
 ## José Luis Guerín (11)
 
@@ -246,7 +254,7 @@
   * Qui rido io  
   * Théâtre de guerre
 
-## Maurice Tourneur (34)
+## Maurice Tourneur (35)
 
   * A Girl's Folly  
   * Accusée, levez-vous !  
@@ -270,6 +278,7 @@
   * Main du Diable (La)  
   * Maison de danses  
   * Mam'zelle Bonaparte  
+  * Maurice Tourneur, tisseur de rêves  
   * Obsession  
   * Oiseau bleu (L')  
   * Papillon brisé (Le)  
@@ -310,17 +319,17 @@
 
 ## Orson Welles (19)
 
-  * Au pays de Don Quichotte : Ferias d'avril à Séville  
-  * Au pays de Don Quichotte : Itinéraire andalou  
-  * Au pays de Don Quichotte : L'Encierro de Pampelune  
-  * Au pays de Don Quichotte : L'Espagne sainte  
-  * Au pays de Don Quichotte : L'Heure du flamenco  
-  * Au pays de Don Quichotte : La Feria de San Fermín  
-  * Au pays de Don Quichotte : Les Caves de Jerez  
-  * Au pays de Don Quichotte : Rome et l'Orient en Espagne  
-  * Au pays de Don Quichotte : Séville  
   * Citizen Kane  
   * Citizen Welles  
+  * Dans la terre de Don Quichotte : Ferias d'avril à Séville  
+  * Dans la terre de Don Quichotte : Itinéraire andalou  
+  * Dans la terre de Don Quichotte : L'Encierro de Pampelune  
+  * Dans la terre de Don Quichotte : L'Espagne sainte  
+  * Dans la terre de Don Quichotte : L'Heure du flamenco  
+  * Dans la terre de Don Quichotte : La Feria de San Fermín  
+  * Dans la terre de Don Quichotte : Les Caves de Jerez  
+  * Dans la terre de Don Quichotte : Rome et l'Orient en Espagne  
+  * Dans la terre de Don Quichotte : Séville  
   * De l'autre côté du vent  
   * Dossier secret  
   * Ed Wood  
@@ -343,14 +352,13 @@
   * Turang  
   * Une femme indonésienne
 
-## Pascal Bonitzer (9)
+## Pascal Bonitzer (8)
 
   * Cherchez Hortense  
   * Envoûtés (Les)  
   * Grand Alibi (Le)  
   * Je pense à vous  
   * Maigret et le mort amoureux  
-  * Petites coupures  
   * Rien sur Robert  
   * Tableau volé (Le)  
   * Tout de suite maintenant

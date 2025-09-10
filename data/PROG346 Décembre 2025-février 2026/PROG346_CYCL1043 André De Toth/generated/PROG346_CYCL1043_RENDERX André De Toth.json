@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-01-14T20:00:00",
-    "2026-01-30T20:00:00"
+    "2026-02-01T19:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -161,6 +161,11 @@
               "idSeance": 199591,
               "dateHeure": "2026-01-17T20:30:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 199965,
+              "dateHeure": "2026-01-31T19:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -224,6 +229,11 @@
             {
               "idSeance": 199506,
               "dateHeure": "2026-01-15T20:30:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 199964,
+              "dateHeure": "2026-01-31T17:00:00",
               "idSalle": "HL"
             }
           ]
@@ -381,7 +391,12 @@
               "idSeance": 199470,
               "dateHeure": "2026-01-14T20:00:00",
               "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Philippe Garnier"
+            },
+            {
+              "idSeance": 199983,
+              "dateHeure": "2026-02-01T19:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -673,9 +688,7 @@
                 {
                   "idFilm": 77468,
                   "ordre": 1,
-                  "titre": "Piège",
-                  "art": "Le",
-                  "titreVo": "Pitfall",
+                  "titre": "Pitfall",
                   "realisateurs": "André De Toth",
                   "pays": "États-Unis",
                   "annee": 1948,
@@ -689,7 +702,7 @@
                     "Raymond Burr"
                   ],
                   "isFocus": true,
-                  "miniTexte": "Un courtier d'assurances usé par sa vie routinière voit une liaison amoureuse bouleverser sa vie. Moraliste et désabusé, _Le Piège_ sonde l'érosion intime des valeurs et des désirs dans une Amérique d'après-guerre en proie à la mélancolie. Sans complaisance, ni fausse morale, De Toth confectionne un récit tendu, dont la sécheresse s'associe parfaitement à l'efficacité d'une mise en scène, entrecoupée par des saillies de violence. Un film noir domestique, psychologique et réaliste, qui offre à Dick Powell un rôle émouvant face à Raymond Burr en _bad guy_ inquiétant."
+                  "miniTexte": "Un courtier d'assurances usé par sa vie routinière voit une liaison amoureuse bouleverser sa vie. Moraliste et désabusé, _Pitfall_ sonde l'érosion intime des valeurs et des désirs dans une Amérique d'après-guerre en proie à la mélancolie. Sans complaisance, ni fausse morale, De Toth confectionne un récit tendu, dont la sécheresse s'associe parfaitement à l'efficacité d'une mise en scène, entrecoupée par des saillies de violence. Un film noir domestique, psychologique et réaliste, qui offre à Dick Powell un rôle émouvant face à Raymond Burr en _bad guy_ inquiétant."
                 }
               ]
             },
@@ -867,6 +880,32 @@
           ]
         },
         {
+          "idFilm": 80317,
+          "content": [
+            {
+              "idFilm": 80317,
+              "ordre": 1,
+              "titre": "Tanganyika",
+              "realisateurs": "André De Toth",
+              "pays": "États-Unis",
+              "annee": 1954,
+              "generique": [
+                "Van Heflin",
+                "Ruth Roman",
+                "Howard Duff"
+              ],
+              "miniTexte": "Un colon américain mène un safari au Kenya pour retrouver un meurtrier évadé. Action, tension et exotisme hollywoodien dans la savane forment un film d'aventure efficace, riche en rebondissements et autres confrontations."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 199963,
+              "dateHeure": "2026-01-31T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 55995,
           "content": [
             {
@@ -930,9 +969,16 @@
   "syntheseAction": {
     "Dialogue": [
       {
-        "titreFilms": "Le Piège",
+        "titreFilms": "Pitfall",
         "mention": "avec ???",
         "dateHeure": "2026-01-17T14:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Enfants de salauds",
+        "mention": "par Philippe Garnier",
+        "dateHeure": "2026-01-14T20:00:00"
       }
     ]
   }
