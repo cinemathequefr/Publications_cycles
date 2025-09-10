@@ -50,11 +50,12 @@
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)
 
-## Aujourd'hui le cinéma (17)
+## Aujourd'hui le cinéma (18)
 
   * +10K  
   * Bel companho  
   * Bottes de la nuit (Les)  
+  * Cœur Bleu  
   * Conte de la Jaguère (Le)  
   * Et quand l'aube viendra  
   * Hypernuit  
@@ -69,6 +70,10 @@
   * Star  
   * Sulaimani  
   * Twelve Tales Told
+
+## Ciné-club de Murielle Joudet (1)
+
+  * Reine de Broadway (La)
 
 ## Cinéma bis (6)
 
@@ -115,12 +120,11 @@
   * Quand la chair est faible  
   * To minutter for sent
 
-## Histoire permanente du cinéma (7)
+## Histoire permanente du cinéma (6)
 
   * American Gigolo  
   * Au-dessous du volcan  
   * Cría cuervos  
-  * M*A*S*H  
   * Nostalghia  
   * Parfum de femme  
   * Trois amigos
@@ -395,7 +399,7 @@
   * Vérité sur Bébé Donge (La)  
   * Ville à vendre
 
-## Rita Hayworth (26)
+## Rita Hayworth (25)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
@@ -417,7 +421,6 @@
   * Piège au grisbi  
   * Plus grand cirque du monde (Le)  
   * Police montée  
-  * Reine de Broadway (La)  
   * Route de Salina (La)  
   * Salomé  
   * Seuls les anges ont des ailes  

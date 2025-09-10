@@ -39,7 +39,7 @@
           "seances": [
             {
               "idSeance": 205647,
-              "dateHeure": "2025-12-12T20:15:00",
+              "dateHeure": "2025-12-12T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -129,7 +129,7 @@
           "seances": [
             {
               "idSeance": 198656,
-              "dateHeure": "2025-12-13T19:30:00",
+              "dateHeure": "2025-12-13T19:45:00",
               "idSalle": "HL"
             }
           ]
@@ -200,32 +200,48 @@
           ]
         },
         {
-          "idFilm": 153613,
-          "content": [
+          "groupe": [
             {
               "idFilm": 153613,
-              "ordre": 1,
-              "titre": "Nostalgia",
-              "realisateurs": "Mario Martone",
-              "pays": "Italie",
-              "annee": 2021,
-              "duree": 117,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Pierfrancesco Favino",
-                "Francesco Di Leva",
-                "Tommaso Ragno"
-              ],
-              "isFocus": true,
-              "miniTexte": "Après quarante ans d'exil entre l'Égypte et le Liban, Felice revient sur les lieux de son enfance dans les entrailles napolitaines du Rione Sanità. Mario Martone capte une nouvelle fois l'atmosphère de sa ville natale, en filmant le retour aux sources d'un émigré, qui devra réapprendre les codes de son quartier et affronter les démons du passé. Inspiré du roman d'Ermanno Rea, le film, empreint à la fois de réalisme et de mysticisme, est une véritable déclaration d'amour-haine à Naples, que la bande sonore rend plus mystérieuse et menaçante."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 153613,
+                  "ordre": 1,
+                  "titre": "Nostalgia",
+                  "realisateurs": "Mario Martone",
+                  "pays": "Italie",
+                  "annee": 2021,
+                  "duree": 117,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Pierfrancesco Favino",
+                    "Francesco Di Leva",
+                    "Tommaso Ragno"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Après quarante ans d'exil entre l'Égypte et le Liban, Felice revient sur les lieux de son enfance dans les entrailles napolitaines du Rione Sanità. Mario Martone capte une nouvelle fois l'atmosphère de sa ville natale, en filmant le retour aux sources d'un émigré, qui devra réapprendre les codes de son quartier et affronter les démons du passé. Inspiré du roman d'Ermanno Rea, le film, empreint à la fois de réalisme et de mysticisme, est une véritable déclaration d'amour-haine à Naples, que la bande sonore rend plus mystérieuse et menaçante."
+                }
+              ]
+            },
             {
-              "idSeance": 205534,
-              "dateHeure": "2025-12-13T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 34721,
+              "content": [
+                {
+                  "idConf": 34721,
+                  "ordre": 2,
+                  "titre": "Mario Martone par Mario Martone, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 205534,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-12-13T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -317,29 +333,6 @@
             {
               "idSeance": 205648,
               "dateHeure": "2025-12-12T18:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34721,
-          "content": [
-            {
-              "idConf": 34721,
-              "titre": "Mario Martone par Mario Martone, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205504,
-              "dateHeure": "2025-12-13T14:30:00",
               "idSalle": "HL"
             }
           ]

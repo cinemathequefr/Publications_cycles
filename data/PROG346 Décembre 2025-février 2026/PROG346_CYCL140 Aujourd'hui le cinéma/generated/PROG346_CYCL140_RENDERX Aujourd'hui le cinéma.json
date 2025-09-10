@@ -371,6 +371,36 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Samuel Suffren",
+      "items": [
+        {
+          "idFilm": 155525,
+          "content": [
+            {
+              "idFilm": 155525,
+              "ordre": 1,
+              "titre": "Cœur Bleu",
+              "realisateurs": "Samuel Suffren",
+              "pays": "Haïti-France",
+              "annee": 2025,
+              "duree": 15,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 199251,
+              "dateHeure": "2026-01-05T19:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Samuel Suffren"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
@@ -379,6 +409,11 @@
         "titreFilms": "La Ligne de vie",
         "mention": "avec Hugo Becker",
         "dateHeure": "2025-12-22T20:00:00"
+      },
+      {
+        "titreFilms": "Cœur Bleu",
+        "mention": "avec Samuel Suffren",
+        "dateHeure": "2026-01-05T19:30:00"
       },
       {
         "titreFilms": "Le Conte de la Jaguère",
