@@ -59,7 +59,7 @@
   * Impératrice (L')  
   * Old Love and the New (The)
 
-## Aujourd'hui le cinéma (18)
+## Aujourd'hui le cinéma (20)
 
   * +10K  
   * Bel companho  
@@ -74,6 +74,8 @@
   * Ligne de vie (La)  
   * Luna Rossa  
   * Mohican (Le)  
+  * Mukbanger  
+  * Nico  
   * Ogres (Les)  
   * Père(s) et Fils  
   * Star  
@@ -143,10 +145,10 @@
   * Atlantide (L')  
   * Bas-fonds (Les)  
   * Beau Serge (Le)  
-  * Cicatrice intérieure (La)  
   * Dame du vendredi (La)  
   * En quatrième vitesse  
   * Indiscrétions  
+  * Marie pour mémoire  
   * Muriel ou le temps d'un retour  
   * Onze Fioretti de François d'Assise (Les)  
   * Pierrot le fou  
