@@ -38,8 +38,8 @@
   * Massacreurs du Kansas (Les)  
   * Mission du commandant Lex (La)  
   * Noces de Toprin (Les)  
+  * None Shall Escape  
   * Orchidée blanche (L')  
-  * Pas un n'échappera  
   * Passport to Suez  
   * Pitfall  
   * Quand la bête hurle  
@@ -321,15 +321,6 @@
 
   * Citizen Kane  
   * Citizen Welles  
-  * Dans la terre de Don Quichotte : Ferias d'avril à Séville  
-  * Dans la terre de Don Quichotte : Itinéraire andalou  
-  * Dans la terre de Don Quichotte : L'Encierro de Pampelune  
-  * Dans la terre de Don Quichotte : L'Espagne sainte  
-  * Dans la terre de Don Quichotte : L'Heure du flamenco  
-  * Dans la terre de Don Quichotte : La Feria de San Fermín  
-  * Dans la terre de Don Quichotte : Les Caves de Jerez  
-  * Dans la terre de Don Quichotte : Rome et l'Orient en Espagne  
-  * Dans la terre de Don Quichotte : Séville  
   * De l'autre côté du vent  
   * Dossier secret  
   * Ed Wood  
@@ -337,7 +328,16 @@
   * Nuit qui terrifia l'Amérique (La)  
   * Orson Welles et moi  
   * Soif du mal (version 1958) (La)  
-  * Splendeur des Amberson (La)
+  * Splendeur des Amberson (La)  
+  * Sur la terre de Don Quichotte : Ferias d'avril à Séville  
+  * Sur la terre de Don Quichotte : Itinéraire andalou  
+  * Sur la terre de Don Quichotte : L'Encierro de Pampelune  
+  * Sur la terre de Don Quichotte : L'Espagne sainte  
+  * Sur la terre de Don Quichotte : L'Heure du flamenco  
+  * Sur la terre de Don Quichotte : La Feria de San Fermín  
+  * Sur la terre de Don Quichotte : Les Caves de Jerez  
+  * Sur la terre de Don Quichotte : Rome et l'Orient en Espagne  
+  * Sur la terre de Don Quichotte : Séville
 
 ## Panorama du cinéma indonésien (10)
 
