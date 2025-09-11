@@ -108,7 +108,40 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 34766,
+          "content": [
+            {
+              "idConf": 34766,
+              "titre": "Une vie après ses films : survivances dans l'œuvre d'Alice Guy",
+              "sousTitre": "Conférence de Clara Auclair",
+              "typeConference": "Conférence",
+              "miniTexte": "Alice Guy conclut ses mémoires en même temps que sa carrière au cinéma, comme si sa vie créative s'arrêtait là. Pourtant, elle continue d'écrire : des histoires, des contes, des projets pour le cinéma. Cette conférence propose de redécouvrir cette part méconnue de son travail à travers l'analyse de 800 pages de tapuscrits conservés au MoMA, et invite à envisager l'engagement d'Alice Guy dans l'écriture comme un outil de réappropriation de sa mémoire et de son œuvre."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205805,
+              "dateHeure": "2025-12-11T10:45:00",
+              "idSalle": "JE"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Une vie après ses films : survivances dans l'œuvre d'Alice Guy",
+        "mention": "par Clara Auclair",
+        "dateHeure": "2025-12-11T10:45:00"
+      }
+    ]
+  }
 }
