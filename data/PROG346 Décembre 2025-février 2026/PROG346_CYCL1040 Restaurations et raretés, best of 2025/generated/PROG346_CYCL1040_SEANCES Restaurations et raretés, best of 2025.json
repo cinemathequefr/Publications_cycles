@@ -76,6 +76,30 @@
   {
     "idCategorie": 3959,
     "typeEvenement": 13,
+    "idEvenement": 34708,
+    "idSeance": 205810,
+    "dateHeure": "2025-12-03T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 39901,
+        "ordre": 1,
+        "idSeance": 205810,
+        "idCopie": 30746,
+        "duree": 125,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 3959,
+    "typeEvenement": 13,
     "idEvenement": 34772,
     "idSeance": 198352,
     "dateHeure": "2025-12-03T20:30:00",
@@ -92,30 +116,6 @@
         "idCopie": 30796,
         "duree": 100,
         "version": "",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 3959,
-    "typeEvenement": 13,
-    "idEvenement": 34706,
-    "idSeance": 198351,
-    "dateHeure": "2025-12-03T20:45:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 42310,
-        "ordre": 1,
-        "idSeance": 198351,
-        "idCopie": 30743,
-        "duree": 84,
-        "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
@@ -436,22 +436,22 @@
   {
     "idCategorie": 3959,
     "typeEvenement": 13,
-    "idEvenement": 34708,
-    "idSeance": 198473,
+    "idEvenement": 34819,
+    "idSeance": 205811,
     "dateHeure": "2025-12-05T20:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 150,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 39901,
+        "idFilm": 43768,
         "ordre": 1,
-        "idSeance": 198473,
-        "idCopie": 30746,
-        "duree": 125,
-        "version": "",
+        "idSeance": 205811,
+        "idCopie": 30812,
+        "duree": 94,
+        "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
@@ -843,8 +843,8 @@
   {
     "idCategorie": 3959,
     "typeEvenement": 13,
-    "idEvenement": 34819,
-    "idSeance": 205668,
+    "idEvenement": 34706,
+    "idSeance": 205812,
     "dateHeure": "2025-12-07T19:45:00",
     "idSalle": [
       "JE",
@@ -853,11 +853,11 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 43768,
+        "idFilm": 42310,
         "ordre": 1,
-        "idSeance": 205668,
-        "idCopie": 30812,
-        "duree": 94,
+        "idSeance": 205812,
+        "idCopie": 30743,
+        "duree": 84,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true

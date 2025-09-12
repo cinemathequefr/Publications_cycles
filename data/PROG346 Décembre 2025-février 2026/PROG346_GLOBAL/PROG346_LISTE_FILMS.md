@@ -434,11 +434,14 @@
   * Six destins  
   * Tables séparées
 
-## Séances spéciales (3)
+## Séances spéciales (6)
 
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
-  * Shoah
+  * Shoah  
+  * Shoah (première époque)  
+  * Sobibor, 14 octobre 1943, 16 heures  
+  * Un vivant qui passe
 
 ## Une fin d'année en 70 mm (14)
 
