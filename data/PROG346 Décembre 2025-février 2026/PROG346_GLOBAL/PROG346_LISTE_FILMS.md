@@ -59,13 +59,12 @@
   * Impératrice (L')  
   * Old Love and the New (The)
 
-## Aujourd'hui le cinéma (20)
+## Aujourd'hui le cinéma (19)
 
   * +10K  
   * Bel companho  
   * Bottes de la nuit (Les)  
   * Cœur Bleu  
-  * Conte de la Jaguère (Le)  
   * Et quand l'aube viendra  
   * Hypernuit  
   * Je, tu, il, elle  
@@ -157,7 +156,7 @@
   * Salomè  
   * Tirez sur le pianiste
 
-## José Luis Guerin (11)
+## José Luis Guerin (12)
 
   * Académie des muses (L')  
   * Dans la ville de Sylvia  
@@ -167,6 +166,7 @@
   * Histoires de la bonne vallée  
   * Innisfree  
   * Motivos de Berta (Los)  
+  * Quelques photos dans la ville de Sylvia  
   * Recuerdos de una mañana  
   * Saphir de St. Louis (Le)  
   * Spectre du Thuit (Le)
@@ -365,9 +365,10 @@
   * Tableau volé (Le)  
   * Tout de suite maintenant
 
-## Restaurations et raretés, best of 2025 (38)
+## Restaurations et raretés, best of 2025 (40)
 
   * Au-delà de l'oubli  
+  * Bashu, le petit étranger  
   * Bête à l'affût (La)  
   * Boulevard du crépuscule  
   * Buddenbrooks (Les)  
@@ -383,6 +384,7 @@
   * Filles (Les)  
   * Histoire de fantômes chinois  
   * Intrus magnifique (L')  
+  * Iracema  
   * Kwaïdan  
   * Let My Puppets Come  
   * Lolita  
@@ -434,8 +436,9 @@
   * Six destins  
   * Tables séparées
 
-## Séances spéciales (6)
+## Séances spéciales (7)
 
+  * Cercle rouge (Le)  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
   * Shoah  

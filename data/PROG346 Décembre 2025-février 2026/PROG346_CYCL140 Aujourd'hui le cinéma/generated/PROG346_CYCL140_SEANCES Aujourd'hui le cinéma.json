@@ -140,11 +140,52 @@
     "mention": "Séance suivie d'une discussion avec Samuel Suffren"
   },
   {
+    "idCategorie": 4019,
+    "typeEvenement": 13,
+    "idEvenement": 34856,
+    "idSeance": 205824,
+    "dateHeure": "2026-01-19T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {
+        "idFilm": 155532,
+        "ordre": 1,
+        "idSeance": 205824,
+        "idCopie": 30855,
+        "duree": 16,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155531,
+        "ordre": 2,
+        "idSeance": 205824,
+        "idCopie": 30856,
+        "duree": 17,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155513,
+        "ordre": 3,
+        "idSeance": 205824,
+        "idCopie": 30857,
+        "duree": 29,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
     "idCategorie": 3986,
     "typeEvenement": 13,
     "idEvenement": 34581,
-    "idSeance": 199625,
-    "dateHeure": "2026-01-19T19:00:00",
+    "idSeance": 205825,
+    "dateHeure": "2026-01-26T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -154,7 +195,7 @@
       {
         "idFilm": 155473,
         "ordre": 1,
-        "idSeance": 199625,
+        "idSeance": 205825,
         "idCopie": 30608,
         "duree": 25,
         "version": "",
@@ -163,37 +204,13 @@
       {
         "idFilm": 155474,
         "ordre": 2,
-        "idSeance": 199625,
+        "idSeance": 205825,
         "idCopie": 30609,
         "duree": 27,
         "version": "",
         "format": "DCP"
       }
     ]
-  },
-  {
-    "idCategorie": 4024,
-    "typeEvenement": 13,
-    "idEvenement": 34915,
-    "idSeance": 205725,
-    "dateHeure": "2026-01-26T19:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 60,
-    "items": [
-      {
-        "idFilm": 155524,
-        "ordre": 1,
-        "idSeance": 205725,
-        "idCopie": 30841,
-        "duree": 22,
-        "version": "",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance suivie d'une discussion avec Olivier Guidoux"
   },
   {
     "idCategorie": 3984,
@@ -223,18 +240,18 @@
     "idCategorie": 3940,
     "typeEvenement": 13,
     "idEvenement": 34187,
-    "idSeance": 200186,
+    "idSeance": 205819,
     "dateHeure": "2026-02-09T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 60,
+    "dureeSeance": 150,
     "items": [
       {
         "idFilm": 155401,
         "ordre": 1,
-        "idSeance": 200186,
+        "idSeance": 205819,
         "idCopie": 30393,
         "duree": 33,
         "version": "",
@@ -243,14 +260,13 @@
       {
         "idFilm": 56787,
         "ordre": 2,
-        "idSeance": 200186,
+        "idSeance": 205819,
         "idCopie": 13135,
         "duree": 90,
         "version": "",
         "format": "DCP"
       }
-    ],
-    "mention": "Séance suivie d'une discussion avec Gala Hernandez Lopez"
+    ]
   },
   {
     "idCategorie": 3985,
@@ -309,6 +325,47 @@
       {
         "idFilm": 130783,
         "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 3985,
+    "typeEvenement": 13,
+    "idEvenement": 34579,
+    "idSeance": 200747,
+    "dateHeure": "2026-03-02T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 155471,
+        "ordre": 1,
+        "idSeance": 200747,
+        "idCopie": 30605,
+        "duree": 21,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155472,
+        "ordre": 2,
+        "idSeance": 200747,
+        "idCopie": 30606,
+        "duree": 19,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155435,
+        "ordre": 3,
+        "idSeance": 200747,
+        "idCopie": 30482,
+        "duree": 29,
+        "version": "",
+        "format": "DCP"
       }
     ]
   },
