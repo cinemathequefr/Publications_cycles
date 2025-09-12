@@ -157,7 +157,7 @@
   * Salomè  
   * Tirez sur le pianiste
 
-## José Luis Guerín (11)
+## José Luis Guerin (11)
 
   * Académie des muses (L')  
   * Dans la ville de Sylvia  
