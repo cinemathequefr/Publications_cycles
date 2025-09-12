@@ -96,10 +96,10 @@
 ## David Gordon Green (21)
 
   * All the Real Girls  
-  * Autre rive (L')  
+  * Autre Rive (L')  
   * Baby-sitter malgré lui  
   * Black Jack  
-  * Délire express  
+  * Délire Express  
   * Exorciste : Dévotion (L')  
   * George Washington  
   * Halloween  
@@ -115,7 +115,7 @@
   * Snow Angels  
   * Stronger  
   * Unit Zero  
-  * Votre majesté
+  * Votre Majesté
 
 ## Films noirs scandinaves (9)
 
