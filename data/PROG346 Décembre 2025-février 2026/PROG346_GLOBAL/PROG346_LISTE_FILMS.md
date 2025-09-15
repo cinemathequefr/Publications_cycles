@@ -1,20 +1,19 @@
 # Liste des films par cycle
 
-## Alexandre Dovjenko (15)
+## Alexandre Dovjenko (14)
 
   * Adieu Amérique !  
   * Aerograd  
   * Arsenal  
   * Bataille pour notre Ukraine soviétique (La)  
+  * Bucovine, terre ukrainienne  
   * Chtchors  
   * Ivan  
   * Libération (La)  
   * Mitchourine  
-  * Pays natal  
   * Petit Fruit de l'amour  
   * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
-  * Vassia le réformateur  
   * Victoire en Ukraine (La)  
   * Zvenigora
 

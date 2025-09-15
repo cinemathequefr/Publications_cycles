@@ -4254,7 +4254,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Lisa Muskat",
+    "mention": "Séance présentée par Lisa Muskat et David Gordon Green",
     "items": [
       {
         "idFilm": 83742,
@@ -5550,7 +5550,7 @@
         "realisateurs": "Alexandre Dovjenko",
         "annee": 1930,
         "duree": 79,
-        "version": "Autres",
+        "version": "INT. FR.",
         "format": "DCP"
       }
     ],
@@ -5686,9 +5686,9 @@
         "titre": "Zvenigora",
         "realisateurs": "Alexandre Dovjenko",
         "annee": 1927,
-        "duree": 93,
-        "version": "Autres",
-        "format": "35 mm"
+        "duree": 66,
+        "version": "STF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f41173"
@@ -5767,27 +5767,6 @@
     "hashEvenement": "f110572"
   },
   {
-    "idSeance": 199738,
-    "idEvenement": 34508,
-    "dateHeure": "2026-01-23T18:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 101254,
-        "titre": "Vassia le réformateur",
-        "realisateurs": "Alexandre Dovjenko",
-        "annee": 1926
-      }
-    ],
-    "hashEvenement": "f101254"
-  },
-  {
     "idSeance": 199735,
     "idEvenement": 34426,
     "dateHeure": "2026-01-23T20:00:00",
@@ -5837,28 +5816,6 @@
     "hashEvenement": "f113638"
   },
   {
-    "idSeance": 205608,
-    "idEvenement": 34504,
-    "dateHeure": "2026-01-23T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65174,
-        "titre": "Petit Fruit de l'amour",
-        "realisateurs": "Alexandre Dovjenko",
-        "annee": 1926,
-        "duree": 25
-      }
-    ],
-    "hashEvenement": "f65174"
-  },
-  {
     "idSeance": 205598,
     "idEvenement": 34811,
     "dateHeure": "2026-01-24T14:30:00",
@@ -5905,7 +5862,7 @@
   },
   {
     "idSeance": 205603,
-    "idEvenement": 34513,
+    "idEvenement": 34504,
     "dateHeure": "2026-01-24T15:00:00",
     "salle": "JE",
     "cycle": [
@@ -5916,29 +5873,45 @@
     ],
     "items": [
       {
+        "idFilm": 65174,
+        "titre": "Petit Fruit de l'amour",
+        "realisateurs": "Alexandre Dovjenko",
+        "annee": 1926,
+        "duree": 25
+      },
+      {
         "idFilm": 65175,
         "titre": "Sacoche du courrier diplomatique",
         "art": "La",
         "realisateurs": "Alexandre Dovjenko",
         "annee": 1927,
-        "duree": 75,
-        "version": "INT. FR."
+        "duree": 71,
+        "version": "STF"
       }
     ],
-    "hashEvenement": "f65175"
+    "hashEvenement": "f65174f65175"
   },
   {
     "idSeance": 205684,
-    "idEvenement": 34509,
+    "idEvenement": 34952,
     "dateHeure": "2026-01-24T16:45:00",
     "salle": "JE",
     "cycle": [
       [
         "Alexandre Dovjenko",
-        "Les films"
+        "Documentaires"
       ]
     ],
     "items": [
+      {
+        "idFilm": 155534,
+        "titre": "Bucovine, terre ukrainienne",
+        "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
+        "annee": 1930,
+        "duree": 30,
+        "version": "VO",
+        "format": "Vidéo"
+      },
       {
         "idFilm": 65172,
         "titre": "Libération",
@@ -5949,7 +5922,7 @@
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f65172"
+    "hashEvenement": "f155534f65172"
   },
   {
     "idSeance": 199781,
@@ -5989,9 +5962,9 @@
         "titre": "Aerograd",
         "realisateurs": "Alexandre Dovjenko",
         "annee": 1935,
-        "duree": 80,
+        "duree": 82,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f40488"
@@ -6153,7 +6126,9 @@
         "titre": "Chtchors",
         "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
         "annee": 1939,
-        "duree": 115
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f53333"
@@ -6336,8 +6311,8 @@
     "hashEvenement": "f80309"
   },
   {
-    "idSeance": 199848,
-    "idEvenement": 34503,
+    "idSeance": 205685,
+    "idEvenement": 34507,
     "dateHeure": "2026-01-28T18:30:00",
     "salle": "JE",
     "cycle": [
@@ -6348,13 +6323,14 @@
     ],
     "items": [
       {
-        "idFilm": 65173,
-        "titre": "Pays natal",
+        "idFilm": 65170,
+        "titre": "Adieu Amérique !",
         "realisateurs": "Alexandre Dovjenko",
-        "annee": 1945
+        "annee": 1951,
+        "duree": 120
       }
     ],
-    "hashEvenement": "f65173"
+    "hashEvenement": "f65170"
   },
   {
     "idSeance": 205749,
@@ -6400,28 +6376,6 @@
       }
     ],
     "hashEvenement": "f80312"
-  },
-  {
-    "idSeance": 205685,
-    "idEvenement": 34507,
-    "dateHeure": "2026-01-28T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65170,
-        "titre": "Adieu Amérique !",
-        "realisateurs": "Alexandre Dovjenko",
-        "annee": 1951,
-        "duree": 120
-      }
-    ],
-    "hashEvenement": "f65170"
   },
   {
     "idSeance": 205741,
@@ -6480,7 +6434,7 @@
     "cycle": [
       [
         "Alexandre Dovjenko",
-        "Les films"
+        "Documentaires"
       ]
     ],
     "items": [
@@ -6490,7 +6444,8 @@
         "art": "La",
         "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
         "annee": 1943,
-        "format": "35 mm"
+        "duree": 140,
+        "version": "VO"
       }
     ],
     "hashEvenement": "f65171"
@@ -6558,7 +6513,8 @@
         "titre": "Ivan",
         "realisateurs": "Alexandre Dovjenko",
         "annee": 1932,
-        "duree": 125
+        "duree": 125,
+        "version": "STF"
       }
     ],
     "hashEvenement": "f40232"
@@ -6666,7 +6622,7 @@
     "cycle": [
       [
         "Alexandre Dovjenko",
-        "Les films"
+        "Documentaires"
       ]
     ],
     "items": [
@@ -6675,7 +6631,9 @@
         "titre": "Victoire en Ukraine",
         "art": "La",
         "realisateurs": "Alexandre Dovjenko",
-        "annee": 1945
+        "annee": 1945,
+        "duree": 65,
+        "format": "Vidéo"
       }
     ],
     "hashEvenement": "f65176"
@@ -8906,7 +8864,7 @@
       {
         "idFilm": 139524,
         "titre": "Une pluie sans fin",
-        "realisateurs": "Yue Dong",
+        "realisateurs": "Dong Yue",
         "annee": 2017,
         "duree": 120,
         "version": "VO",
@@ -9260,7 +9218,7 @@
         "Autour de Maurice Tourneur"
       ]
     ],
-    "mention": "Séance présentée par Pierre Filmon",
+    "mention": "Séance présentée par Christine Leteux, Pierre Filmon, Hugues Peysson, Stephen Horne et Benoît Verdier",
     "items": [
       {
         "idFilm": 155507,
