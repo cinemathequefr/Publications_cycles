@@ -56,6 +56,10 @@
       [
         "Restaurations et raretés, best of 2025",
         "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
       ]
     ],
     "items": [
@@ -4585,6 +4589,40 @@
     "hashEvenement": "f54415"
   },
   {
+    "idSeance": 205826,
+    "idEvenement": 34949,
+    "dateHeure": "2026-01-12T17:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Olivier Guidoux"
+      ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Olivier Guidoux",
+    "items": [
+      {
+        "idFilm": 155524,
+        "titre": "Conte de la Jaguère",
+        "art": "Le",
+        "realisateurs": "Olivier Guidoux",
+        "annee": 2025,
+        "duree": 22,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 36459,
+        "titre": "Candyman",
+        "realisateurs": "Bernard Rose",
+        "annee": 1991,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155524f36459"
+  },
+  {
     "idSeance": 199436,
     "idEvenement": 34627,
     "dateHeure": "2026-01-12T18:00:00",
@@ -5906,7 +5944,9 @@
         "titre": "Libération",
         "art": "La",
         "realisateurs": "Alexandre Dovjenko",
-        "annee": 1940
+        "annee": 1940,
+        "duree": 68,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f65172"

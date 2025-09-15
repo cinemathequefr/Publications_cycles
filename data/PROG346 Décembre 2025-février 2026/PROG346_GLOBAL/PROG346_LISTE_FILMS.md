@@ -59,12 +59,14 @@
   * Impératrice (L')  
   * Old Love and the New (The)
 
-## Aujourd'hui le cinéma (19)
+## Aujourd'hui le cinéma (21)
 
   * +10K  
   * Bel companho  
   * Bottes de la nuit (Les)  
+  * Candyman  
   * Cœur Bleu  
+  * Conte de la Jaguère (Le)  
   * Et quand l'aube viendra  
   * Hypernuit  
   * Je, tu, il, elle  
