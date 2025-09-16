@@ -2,9 +2,94 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 4,
+      "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "groupe": [
+            {
+              "idFilm": 69656,
+              "content": [
+                {
+                  "idFilm": 69656,
+                  "ordre": 1,
+                  "titre": "Aïe",
+                  "realisateurs": "Sophie Fillières",
+                  "pays": "France",
+                  "annee": 2000,
+                  "generique": [
+                    "André Dussollier",
+                    "Hélène Fillières",
+                    "Emmanuelle Devos"
+                  ],
+                  "miniTexte": "Sur une idée surréaliste – un quinquagénaire perdu rencontre une serveuse qui lui propose de tomber amoureuse de lui –, Sophie Fillières imagine une romance saugrenue aux dialogues piquants, et soigne la psychologie de ses personnages. Avec André Dussollier, irrésistiblement lunaire face à Hélène Fillières."
+                }
+              ]
+            },
+            {
+              "idEvenement": 34745,
+              "content": [
+                {
+                  "idConf": 34745,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Pascal Bonitzer",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 205834,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-03-05T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 51012,
+              "content": [
+                {
+                  "idFilm": 51012,
+                  "ordre": 1,
+                  "titre": "Conte de printemps",
+                  "realisateurs": "Éric Rohmer",
+                  "pays": "France",
+                  "annee": 1990,
+                  "generique": [
+                    "Anne Teyssèdre",
+                    "Hugues Quester",
+                    "Florence Darel"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 34744,
+              "content": [
+                {
+                  "idConf": 34744,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Pascal Bonitzer",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 205833,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-02-26T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            }
+          ]
+        },
         {
           "groupe": [
             {
@@ -17,7 +102,7 @@
                   "titreVo": "Kiss Me Deadly",
                   "realisateurs": "Robert Aldrich",
                   "pays": "États-Unis",
-                  "annee": 1954,
+                  "annee": 1955,
                   "generique": [
                     "Ralph Meeker",
                     "Paul Stewart",
@@ -88,91 +173,6 @@
                   "idSeance": 205832,
                   "typeAssoc": 118,
                   "dateHeure": "2026-02-20T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "groupe": [
-            {
-              "idFilm": 51012,
-              "content": [
-                {
-                  "idFilm": 51012,
-                  "ordre": 1,
-                  "titre": "Conte de printemps",
-                  "realisateurs": "Éric Rohmer",
-                  "pays": "France",
-                  "annee": 1990,
-                  "generique": [
-                    "Anne Teyssèdre",
-                    "Hugues Quester",
-                    "Florence Darel"
-                  ]
-                }
-              ]
-            },
-            {
-              "idEvenement": 34744,
-              "content": [
-                {
-                  "idConf": 34744,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Pascal Bonitzer",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Bernard Benoliel"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 205833,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-02-26T19:00:00",
-                  "idSalle": "GF"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "groupe": [
-            {
-              "idFilm": 69656,
-              "content": [
-                {
-                  "idFilm": 69656,
-                  "ordre": 1,
-                  "titre": "Aïe",
-                  "realisateurs": "Sophie Fillières",
-                  "pays": "France",
-                  "annee": 2000,
-                  "generique": [
-                    "André Dussollier",
-                    "Hélène Fillières",
-                    "Emmanuelle Devos"
-                  ],
-                  "miniTexte": "Sur une idée surréaliste – un quinquagénaire perdu rencontre une serveuse qui lui propose de tomber amoureuse de lui –, Sophie Fillières imagine une romance saugrenue aux dialogues piquants, et soigne la psychologie de ses personnages. Avec André Dussollier, irrésistiblement lunaire face à Hélène Fillières."
-                }
-              ]
-            },
-            {
-              "idEvenement": 34745,
-              "content": [
-                {
-                  "idConf": 34745,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Pascal Bonitzer",
-                  "typeConference": "Dialogue",
-                  "mentionAnimation": "Animé par Bernard Benoliel"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 205834,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-03-05T19:00:00",
                   "idSalle": "GF"
                 }
               ]
