@@ -193,8 +193,8 @@
   * Police Story  
   * PTU (Police Tactical Unit)  
   * Raid (The)  
-  * Shokuzai, celles qui voulaient oublier  
-  * Shokuzai, celles qui voulaient se souvenir  
+  * Shokuzai, partie 1 : Celles qui voulaient se souvenir  
+  * Shokuzai, partie 2 : Celles qui voulaient oublier  
   * Sonatine, mélodie mortelle  
   * Time and Tide  
   * Une pluie sans fin  
@@ -354,6 +354,13 @@
   * Pengabdi Setan  
   * Turang  
   * Une femme indonésienne
+
+## Parlons cinéma... avec Pascal Bonitzer (4)
+
+  * Aïe  
+  * Conte de printemps  
+  * En quatrième vitesse  
+  * Pendaison (La)
 
 ## Pascal Bonitzer (8)
 
