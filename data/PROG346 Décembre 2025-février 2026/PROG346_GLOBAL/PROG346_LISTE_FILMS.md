@@ -11,7 +11,7 @@
   * Ivan  
   * Libération (La)  
   * Mitchourine  
-  * Petit Fruit de l'amour  
+  * Petit Fruit de l'amour (Le)  
   * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
   * Victoire en Ukraine (La)  
