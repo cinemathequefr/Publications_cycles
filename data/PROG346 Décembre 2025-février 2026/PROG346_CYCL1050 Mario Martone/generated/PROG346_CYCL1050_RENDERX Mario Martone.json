@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2025-12-11T20:00:00",
-    "2025-12-18T19:00:00"
+    "2025-12-20T19:45:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -39,7 +39,7 @@
           "seances": [
             {
               "idSeance": 205647,
-              "dateHeure": "2025-12-12T20:30:00",
+              "dateHeure": "2025-12-12T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -68,7 +68,7 @@
           "seances": [
             {
               "idSeance": 205678,
-              "dateHeure": "2025-12-18T19:00:00",
+              "dateHeure": "2025-12-18T18:00:00",
               "idSalle": "JE"
             }
           ]
@@ -97,8 +97,32 @@
           ],
           "seances": [
             {
-              "idSeance": 205637,
-              "dateHeure": "2025-12-15T18:30:00",
+              "idSeance": 205839,
+              "dateHeure": "2025-12-14T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 155533,
+          "content": [
+            {
+              "idFilm": 155533,
+              "ordre": 1,
+              "titre": "Laggiù qualcuno mi ama",
+              "realisateurs": "Mario Martone",
+              "pays": "Italie",
+              "annee": 2023,
+              "duree": 128,
+              "version": "VOSTF",
+              "format": "DCP",
+              "miniTexte": "La vie et l'œuvre de Massimo Troisi, acteur, scénariste et réalisateur napolitain, célèbre pour son humour mélancolique."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205844,
+              "dateHeure": "2025-12-20T19:45:00",
               "idSalle": "GF"
             }
           ]
@@ -109,12 +133,12 @@
             {
               "idFilm": 125342,
               "ordre": 1,
-              "titre": "Leopardi : il giovane favoloso",
+              "titre": "Leopardi",
               "titreVo": "Giovane favoloso",
               "artVo": "Il",
               "realisateurs": "Mario Martone",
               "pays": "Italie",
-              "annee": 2013,
+              "annee": 2014,
               "duree": 135,
               "version": "VOSTF",
               "format": "DCP",
@@ -128,9 +152,9 @@
           ],
           "seances": [
             {
-              "idSeance": 198656,
-              "dateHeure": "2025-12-13T19:45:00",
-              "idSalle": "HL"
+              "idSeance": 205840,
+              "dateHeure": "2025-12-15T19:45:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -161,7 +185,7 @@
           "seances": [
             {
               "idSeance": 205545,
-              "dateHeure": "2025-12-17T21:15:00",
+              "dateHeure": "2025-12-17T21:00:00",
               "idSalle": "JE"
             }
           ]
@@ -271,8 +295,8 @@
           ],
           "seances": [
             {
-              "idSeance": 205677,
-              "dateHeure": "2025-12-14T19:00:00",
+              "idSeance": 205838,
+              "dateHeure": "2025-12-13T19:45:00",
               "idSalle": "HL"
             }
           ]
@@ -301,7 +325,7 @@
           "seances": [
             {
               "idSeance": 198726,
-              "dateHeure": "2025-12-17T18:30:00",
+              "dateHeure": "2025-12-17T18:00:00",
               "idSalle": "JE"
             }
           ]
@@ -319,7 +343,8 @@
               "annee": 1997,
               "duree": 113,
               "version": "VOSTF",
-              "format": "35 mm",
+              "format": "DCP",
+              "restauration": true,
               "generique": [
                 "Andrea Renzi",
                 "Iaia Forte",
@@ -334,6 +359,61 @@
               "idSeance": 205648,
               "dateHeure": "2025-12-12T18:00:00",
               "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Courts et moyens métrages",
+      "items": [
+        {
+          "idEvenement": 34942,
+          "content": [
+            {
+              "idFilm": 65296,
+              "ordre": 1,
+              "titre": "Vesuviani: La Salita",
+              "art": "I",
+              "realisateurs": "Mario Martone",
+              "pays": "Italie",
+              "annee": 1997,
+              "duree": 26,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Toni Servillo",
+                "Anna Bonaiuto",
+                "Maria Luisa Abbate"
+              ],
+              "miniTexte": "Dernier segment d'un film à épisodes, situé dans les environs du Vésuve, la conversation entre le corbeau échappé du film de Pasolini (_Des oiseaux petits et gros_) et le maire de Naples (joué par Toni Servillo), lequel s'interroge sur la crise de la gauche, tandis qu'il gravit péniblement la pente du volcan."
+            },
+            {
+              "idFilm": 65289,
+              "ordre": 2,
+              "titre": "Rasoi",
+              "realisateurs": "Mario Martone",
+              "pays": "Italie",
+              "annee": 1993,
+              "duree": 55,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après la pièce _Rasoi_ d'Enzo Moscato.",
+              "generique": [
+                "Toni Servillo",
+                "Enzo Moscato",
+                "Marco Manchisi"
+              ],
+              "miniTexte": "Une transposition à l'écran de la pièce à succès du poète Enzo Moscato. Auteur, narrateur, interprète, aux côtés du génial Toni Servillo, il clame la misère et les douleurs de Naples, dans un ensemble de monologues et de chants populaires, qui tissent la toile d'une ville aussi chaotique que magnétique."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205841,
+              "dateHeure": "2025-12-18T20:45:00",
+              "idSalle": "JE"
             }
           ]
         }

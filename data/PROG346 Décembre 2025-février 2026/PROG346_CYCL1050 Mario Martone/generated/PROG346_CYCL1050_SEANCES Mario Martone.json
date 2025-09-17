@@ -41,10 +41,11 @@
         "idFilm": 29439,
         "ordre": 1,
         "idSeance": 205648,
-        "idCopie": 30546,
+        "idCopie": 30852,
         "duree": 113,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
@@ -53,7 +54,7 @@
     "typeEvenement": 13,
     "idEvenement": 34520,
     "idSeance": 205647,
-    "dateHeure": "2025-12-12T20:30:00",
+    "dateHeure": "2025-12-12T20:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -117,32 +118,9 @@
   {
     "idCategorie": 3975,
     "typeEvenement": 13,
-    "idEvenement": 34523,
-    "idSeance": 198656,
-    "dateHeure": "2025-12-13T19:45:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 165,
-    "items": [
-      {
-        "idFilm": 125342,
-        "ordre": 1,
-        "idSeance": 198656,
-        "idCopie": 30549,
-        "duree": 135,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3975,
-    "typeEvenement": 13,
     "idEvenement": 34527,
-    "idSeance": 205677,
-    "dateHeure": "2025-12-14T19:00:00",
+    "idSeance": 205838,
+    "dateHeure": "2025-12-13T19:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -152,7 +130,7 @@
       {
         "idFilm": 91560,
         "ordre": 1,
-        "idSeance": 205677,
+        "idSeance": 205838,
         "idCopie": 30547,
         "duree": 100,
         "version": "VOSTF",
@@ -164,18 +142,18 @@
     "idCategorie": 3975,
     "typeEvenement": 13,
     "idEvenement": 34525,
-    "idSeance": 205637,
-    "dateHeure": "2025-12-15T18:30:00",
+    "idSeance": 205839,
+    "dateHeure": "2025-12-14T19:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
-    "dureeSeance": 210,
+    "dureeSeance": 240,
     "items": [
       {
         "idFilm": 113193,
         "ordre": 1,
-        "idSeance": 205637,
+        "idSeance": 205839,
         "idCopie": 30884,
         "duree": 205,
         "version": "VOSTF",
@@ -186,9 +164,32 @@
   {
     "idCategorie": 3975,
     "typeEvenement": 13,
+    "idEvenement": 34523,
+    "idSeance": 205840,
+    "dateHeure": "2025-12-15T19:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 125342,
+        "ordre": 1,
+        "idSeance": 205840,
+        "idCopie": 30549,
+        "duree": 135,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3975,
+    "typeEvenement": 13,
     "idEvenement": 34531,
     "idSeance": 198726,
-    "dateHeure": "2025-12-17T18:30:00",
+    "dateHeure": "2025-12-17T18:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -211,7 +212,7 @@
     "typeEvenement": 13,
     "idEvenement": 34530,
     "idSeance": 205545,
-    "dateHeure": "2025-12-17T21:15:00",
+    "dateHeure": "2025-12-17T21:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -234,7 +235,7 @@
     "typeEvenement": 13,
     "idEvenement": 34521,
     "idSeance": 205678,
-    "dateHeure": "2025-12-18T19:00:00",
+    "dateHeure": "2025-12-18T18:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -247,6 +248,62 @@
         "idSeance": 205678,
         "idCopie": 30551,
         "duree": 122,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4031,
+    "typeEvenement": 13,
+    "idEvenement": 34942,
+    "idSeance": 205841,
+    "dateHeure": "2025-12-18T20:45:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 65296,
+        "ordre": 1,
+        "idSeance": 205841,
+        "idCopie": 30867,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 65289,
+        "ordre": 2,
+        "idSeance": 205841,
+        "idCopie": 30868,
+        "duree": 55,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 3975,
+    "typeEvenement": 13,
+    "idEvenement": 34944,
+    "idSeance": 205844,
+    "dateHeure": "2025-12-20T19:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 155533,
+        "ordre": 1,
+        "idSeance": 205844,
+        "idCopie": 30869,
+        "duree": 128,
         "version": "VOSTF",
         "format": "DCP"
       }

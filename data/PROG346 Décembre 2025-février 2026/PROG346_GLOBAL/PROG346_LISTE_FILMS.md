@@ -117,6 +117,15 @@
   * Unit Zero  
   * Votre Majesté
 
+## Fenêtre sur les collections (6)
+
+  * En Indochine française : Dalat, station climatique  
+  * Harmonieux ombrages d'Indochine  
+  * Mines de Campha (Tonkin) (Les)  
+  * Moyens de transport en Cochinchine (Les)  
+  * Pêche au Cambodge (La)  
+  * Un circuit touristique dans le Haut Tonkin
+
 ## Films noirs scandinaves (9)
 
   * Deux minutes de retard  
@@ -244,18 +253,21 @@
   * Roi et l'Oiseau (Le)  
   * Ruée vers l'or (La)
 
-## Mario Martone (10)
+## Mario Martone (13)
 
   * Amour meurtri (L')  
   * Capri-Revolution  
   * Frères d'Italie  
-  * Leopardi : il giovane favoloso  
+  * Laggiù qualcuno mi ama  
+  * Leopardi  
   * Maire du Rione Sanità (Le)  
   * Mort d'un mathématicien napolitain  
   * Nostalgia  
   * Odeur du sang (L')  
   * Qui rido io  
-  * Théâtre de guerre
+  * Rasoi  
+  * Théâtre de guerre  
+  * Vesuviani: La Salita (I)
 
 ## Maurice Tourneur (35)
 
@@ -320,7 +332,7 @@
   * Une mère, une fille  
   * Vent de la liberté (Le)
 
-## Orson Welles (19)
+## Orson Welles (20)
 
   * Citizen Kane  
   * Citizen Welles  
@@ -330,6 +342,7 @@
   * Mank  
   * Nuit qui terrifia l'Amérique (La)  
   * Orson Welles et moi  
+  * Rosabella: La Storia italiana di Orson Welles  
   * Soif du mal (version 1958) (La)  
   * Splendeur des Amberson (La)  
   * Sur la terre de Don Quichotte : Ferias d'avril à Séville  
