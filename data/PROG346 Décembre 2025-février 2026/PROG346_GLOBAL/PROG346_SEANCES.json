@@ -1354,10 +1354,53 @@
     "hashEvenement": "f29439"
   },
   {
+    "idSeance": 205854,
+    "idEvenement": 34279,
+    "dateHeure": "2025-12-12T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Fenêtre sur les collections",
+        "Contrechamp d'Orient"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155426,
+        "titre": "Marché d'esclaves en Orient",
+        "realisateurs": "Anonyme",
+        "annee": 1897,
+        "duree": 1,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 155427,
+        "titre": "Temps qu'il reste (Bande-annonce)",
+        "art": "Le",
+        "realisateurs": "Elia Suleiman",
+        "annee": 2009,
+        "duree": 2,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 79536,
+        "titre": "Guerre du Golfe et après",
+        "art": "La",
+        "realisateurs": "Néjia Ben Mabrouk, Nouri Bouzid, Borhane Alaouie, [etc.]",
+        "annee": 1991,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f155426f155427f79536"
+  },
+  {
     "idSeance": 205790,
     "idEvenement": 34712,
     "dateHeure": "2025-12-12T18:30:00",
-    "salle": "JE",
+    "salle": "LE",
     "cycle": [
       [
         "Panorama du cinéma indonésien",
@@ -1427,10 +1470,54 @@
     "hashEvenement": "f58822"
   },
   {
+    "idSeance": 205855,
+    "idEvenement": 34281,
+    "dateHeure": "2025-12-12T20:45:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Fenêtre sur les collections",
+        "Contrechamp d'Orient"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 118266,
+        "titre": "Nouveaux croisés d'Orient : Portrait d'un mercenaire français",
+        "art": "Les",
+        "realisateurs": "Jocelyne Saab",
+        "annee": 1975,
+        "duree": 10,
+        "version": "VF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 122032,
+        "titre": "Frontière",
+        "art": "La",
+        "realisateurs": "Duraid Lahham",
+        "annee": 1984,
+        "duree": 4,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 29191,
+        "titre": "Chronique d'une disparition",
+        "realisateurs": "Elia Suleiman",
+        "annee": 1996,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f118266f122032f29191"
+  },
+  {
     "idSeance": 205791,
     "idEvenement": 34713,
     "dateHeure": "2025-12-12T21:00:00",
-    "salle": "JE",
+    "salle": "GF",
     "cycle": [
       [
         "Panorama du cinéma indonésien",
@@ -1905,7 +1992,7 @@
     "cycle": [
       [
         "Aujourd'hui le cinéma",
-        "Courts métrages Arte"
+        "Carte blanche à la revue Blink Blank"
       ]
     ],
     "mention": "Séance présentée par Jacques Kermabon et Xavier Kawa-Topor",
@@ -2979,47 +3066,6 @@
     "hashEvenement": "f57266"
   },
   {
-    "idSeance": 198877,
-    "idEvenement": 34856,
-    "dateHeure": "2025-12-22T20:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Aujourd'hui le cinéma",
-        "Hugo Becker"
-      ]
-    ],
-    "mention": "Séance suivie d'une discussion avec Hugo Becker",
-    "items": [
-      {
-        "idFilm": 155532,
-        "titre": "Nico",
-        "realisateurs": "Hugo Becker",
-        "annee": 2018,
-        "duree": 16,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155531,
-        "titre": "Mukbanger",
-        "realisateurs": "Hugo Becker",
-        "annee": 2023,
-        "duree": 17,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155513,
-        "titre": "Ligne de vie",
-        "art": "La",
-        "realisateurs": "Hugo Becker",
-        "annee": 2025,
-        "duree": 29,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155532f155531f155513"
-  },
-  {
     "idSeance": 198908,
     "idEvenement": 34382,
     "dateHeure": "2025-12-24T16:00:00",
@@ -3060,7 +3106,10 @@
         "idFilm": 54006,
         "titre": "Six destins",
         "realisateurs": "Julien Duvivier",
-        "annee": 1941
+        "annee": 1941,
+        "duree": 118,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f54006"
@@ -3155,7 +3204,9 @@
         "idFilm": 36655,
         "titre": "Cette nuit et toujours",
         "realisateurs": "Victor Saville",
-        "annee": 1944
+        "annee": 1944,
+        "version": "STF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f36655"
@@ -3438,7 +3489,9 @@
         "idFilm": 45823,
         "titre": "Piège au grisbi",
         "realisateurs": "Burt Kennedy",
-        "annee": 1964
+        "annee": 1964,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f45823"
@@ -4304,28 +4357,57 @@
     "hashEvenement": "f48248"
   },
   {
-    "idSeance": 199364,
-    "idEvenement": 34683,
-    "dateHeure": "2026-01-09T19:00:00",
+    "idSeance": 205856,
+    "idEvenement": 34749,
+    "dateHeure": "2026-01-09T18:00:00",
     "salle": "JE",
     "cycle": [
       [
-        "Cinéma bis",
-        "Relecture moderne des mythes"
+        "Fenêtre sur les collections",
+        "Robert et Raymon Hakim, producteurs"
       ]
     ],
     "items": [
       {
-        "idFilm": 155482,
-        "titre": "Blackenstein, the Black Frankenstein",
-        "realisateurs": "William A. Levey",
-        "annee": 1973,
-        "duree": 87,
-        "version": "VOSTF",
+        "idFilm": 155494,
+        "titre": "Notre-Dame de Paris (Bande-annonce)",
+        "realisateurs": "Jean Delannoy",
+        "annee": 1956,
+        "duree": 2,
+        "version": "VA",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 155495,
+        "titre": "Belle de jour (Bande-annonce)",
+        "realisateurs": "Luis Buñuel",
+        "annee": 1967,
+        "duree": 2,
+        "version": "VA",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 155496,
+        "titre": "Rempart des béguines (Bande-annonce)",
+        "art": "Le",
+        "realisateurs": "Guy Casaril",
+        "annee": 1972,
+        "duree": 4,
+        "version": "VA",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 155497,
+        "titre": "Temps des nababs, épisode 1 : Les Romanesques",
+        "art": "Le",
+        "realisateurs": "Florence Strauss",
+        "annee": 2019,
+        "duree": 52,
+        "version": "VF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f155482"
+    "hashEvenement": "f155494f155495f155496f155497"
   },
   {
     "idSeance": 205747,
@@ -4377,29 +4459,28 @@
     "hashEvenement": "f43134"
   },
   {
-    "idSeance": 205638,
-    "idEvenement": 34684,
-    "dateHeure": "2026-01-09T21:00:00",
+    "idSeance": 205857,
+    "idEvenement": 34752,
+    "dateHeure": "2026-01-09T20:30:00",
     "salle": "JE",
     "cycle": [
       [
-        "Cinéma bis",
-        "Relecture moderne des mythes"
+        "Fenêtre sur les collections",
+        "Robert et Raymon Hakim, producteurs"
       ]
     ],
     "items": [
       {
-        "idFilm": 42801,
-        "titre": "Hanno cambiato faccia",
-        "realisateurs": "Corrado Farina",
-        "annee": 1971,
-        "duree": 95,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "idFilm": 47174,
+        "titre": "Belle de jour",
+        "realisateurs": "Luis Buñuel",
+        "annee": 1967,
+        "duree": 100,
+        "version": "VF",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f42801"
+    "hashEvenement": "f47174"
   },
   {
     "idSeance": 199402,
@@ -5511,6 +5592,7 @@
         "Hugo Becker"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Hugo Becker",
     "items": [
       {
         "idFilm": 155532,
@@ -6246,30 +6328,6 @@
     "hashEvenement": "f155504"
   },
   {
-    "idSeance": 205740,
-    "idEvenement": 34828,
-    "dateHeure": "2026-01-26T16:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 30152,
-        "titre": "En quatrième vitesse",
-        "realisateurs": "Robert Aldrich",
-        "annee": 1955,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f30152"
-  },
-  {
     "idSeance": 199810,
     "idEvenement": 34414,
     "dateHeure": "2026-01-26T18:15:00",
@@ -6305,6 +6363,7 @@
         "Julien Féret / Ferdinand Régent-Chappey"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Juien Féret et Ferdinand Régent-Chappey",
     "items": [
       {
         "idFilm": 155473,
@@ -7989,46 +8048,6 @@
     "hashEvenement": "f92666"
   },
   {
-    "idSeance": 200373,
-    "idEvenement": 34579,
-    "dateHeure": "2026-02-16T19:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Aujourd'hui le cinéma",
-        "David Ingels"
-      ]
-    ],
-    "mention": "Séance suivie d'une discussion avec David Ingels",
-    "items": [
-      {
-        "idFilm": 155471,
-        "titre": "Les Fleurs blanches et la lune",
-        "realisateurs": "David Ingels",
-        "annee": 2022,
-        "duree": 21,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155472,
-        "titre": "Et quand l'aube viendra",
-        "realisateurs": "David Ingels",
-        "annee": 2023,
-        "duree": 19,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155435,
-        "titre": "Bel companho",
-        "realisateurs": "David Ingels",
-        "annee": 2025,
-        "duree": 29,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155471f155472f155435"
-  },
-  {
     "idSeance": 200369,
     "idEvenement": 34552,
     "dateHeure": "2026-02-16T20:00:00",
@@ -8078,8 +8097,8 @@
     "hashEvenement": "f113539"
   },
   {
-    "idSeance": 205705,
-    "idEvenement": 34542,
+    "idSeance": 205858,
+    "idEvenement": 34957,
     "dateHeure": "2026-02-18T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -8090,15 +8109,22 @@
     ],
     "items": [
       {
-        "idFilm": 131901,
-        "titre": "Tout de suite maintenant",
+        "idFilm": 155539,
+        "titre": "Sirènes",
+        "art": "Les",
         "realisateurs": "Pascal Bonitzer",
-        "annee": 2015,
-        "duree": 98,
-        "format": "DCP"
+        "annee": 1989
+      },
+      {
+        "idFilm": 59837,
+        "titre": "Encore",
+        "realisateurs": "Pascal Bonitzer",
+        "annee": 1996,
+        "duree": 96,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f131901"
+    "hashEvenement": "f155539f59837"
   },
   {
     "idSeance": 200405,
@@ -8543,7 +8569,7 @@
   {
     "idSeance": 200530,
     "idEvenement": 34547,
-    "dateHeure": "2026-02-21T19:30:00",
+    "dateHeure": "2026-02-21T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8862,13 +8888,16 @@
         "« Une mystérieuse alchimie » : Le Regard de Tom Harari"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Tom Harari, Léa Fehner et Julien Poupard",
     "items": [
       {
         "idFilm": 130783,
         "titre": "Ogres",
         "art": "Les",
         "realisateurs": "Léa Fehner",
-        "annee": 2014
+        "annee": 2014,
+        "duree": 144,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f130783"
@@ -8939,6 +8968,29 @@
     "hashEvenement": "f155184f155523f70185"
   },
   {
+    "idSeance": 205860,
+    "idEvenement": 34542,
+    "dateHeure": "2026-02-25T15:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pascal Bonitzer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 131901,
+        "titre": "Tout de suite maintenant",
+        "realisateurs": "Pascal Bonitzer",
+        "annee": 2015,
+        "duree": 98,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f131901"
+  },
+  {
     "idSeance": 200594,
     "idEvenement": 34453,
     "dateHeure": "2026-02-25T18:30:00",
@@ -9007,6 +9059,29 @@
     "hashEvenement": "f51504"
   },
   {
+    "idSeance": 205859,
+    "idEvenement": 34545,
+    "dateHeure": "2026-02-25T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pascal Bonitzer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 82672,
+        "titre": "Petites coupures",
+        "realisateurs": "Pascal Bonitzer",
+        "annee": 2001,
+        "duree": 95,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f82672"
+  },
+  {
     "idSeance": 200629,
     "idEvenement": 34607,
     "dateHeure": "2026-02-26T18:00:00",
@@ -9029,6 +9104,29 @@
       }
     ],
     "hashEvenement": "f123521"
+  },
+  {
+    "idSeance": 200631,
+    "idEvenement": 34958,
+    "dateHeure": "2026-02-26T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Pascal Bonitzer",
+        "Pascal Bonitzer scénariste"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51227,
+        "titre": "Tricheurs",
+        "realisateurs": "Barbet Schroeder",
+        "annee": 1984,
+        "duree": 94,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f51227"
   },
   {
     "idSeance": 205833,
@@ -9084,6 +9182,28 @@
       }
     ],
     "hashEvenement": "f139524"
+  },
+  {
+    "idSeance": 205861,
+    "idEvenement": 34966,
+    "dateHeure": "2026-02-26T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Pascal Bonitzer",
+        "Pascal Bonitzer scénariste"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51417,
+        "titre": "Innocents",
+        "art": "Les",
+        "realisateurs": "André Téchiné",
+        "annee": 1987
+      }
+    ],
+    "hashEvenement": "f51417"
   },
   {
     "idSeance": 200669,
@@ -9183,8 +9303,8 @@
     "hashEvenement": "f153306"
   },
   {
-    "idSeance": 205665,
-    "idEvenement": 34608,
+    "idSeance": 205865,
+    "idEvenement": 34609,
     "dateHeure": "2026-02-28T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -9195,16 +9315,16 @@
     ],
     "items": [
       {
-        "idFilm": 120018,
-        "titre": "Shokuzai, partie 2 : Celles qui voulaient oublier",
+        "idFilm": 117664,
+        "titre": "Shokuzai, partie 1 : Celles qui voulaient se souvenir",
         "realisateurs": "Kiyoshi Kurosawa",
         "annee": 2012,
-        "duree": 152,
+        "duree": 122,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f120018"
+    "hashEvenement": "f117664"
   },
   {
     "idSeance": 200715,
@@ -9229,6 +9349,27 @@
       }
     ],
     "hashEvenement": "f51493"
+  },
+  {
+    "idSeance": 205862,
+    "idEvenement": 34967,
+    "dateHeure": "2026-02-28T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Pascal Bonitzer",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 49426,
+        "titre": "Liberty Belle",
+        "realisateurs": "Pascal Kané",
+        "annee": 1983
+      }
+    ],
+    "hashEvenement": "f49426"
   },
   {
     "idSeance": 200716,
@@ -9256,8 +9397,31 @@
     "hashEvenement": "f51505"
   },
   {
-    "idSeance": 200712,
-    "idEvenement": 34609,
+    "idSeance": 205863,
+    "idEvenement": 34959,
+    "dateHeure": "2026-02-28T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Pascal Bonitzer",
+        "Pascal Bonitzer scénariste"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 56068,
+        "titre": "Généalogies d'un crime",
+        "realisateurs": "Raoul Ruiz",
+        "annee": 1997,
+        "duree": 114,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f56068"
+  },
+  {
+    "idSeance": 205866,
+    "idEvenement": 34608,
     "dateHeure": "2026-02-28T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -9268,16 +9432,16 @@
     ],
     "items": [
       {
-        "idFilm": 117664,
-        "titre": "Shokuzai, partie 1 : Celles qui voulaient se souvenir",
+        "idFilm": 120018,
+        "titre": "Shokuzai, partie 2 : Celles qui voulaient oublier",
         "realisateurs": "Kiyoshi Kurosawa",
         "annee": 2012,
-        "duree": 122,
+        "duree": 152,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f117664"
+    "hashEvenement": "f120018"
   },
   {
     "idSeance": 200717,
@@ -9302,6 +9466,29 @@
       }
     ],
     "hashEvenement": "f51492"
+  },
+  {
+    "idSeance": 205864,
+    "idEvenement": 34965,
+    "dateHeure": "2026-02-28T20:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Parlons cinéma... avec Pascal Bonitzer",
+        "Pascal Bonitzer scénariste"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 101170,
+        "titre": "Ne touchez pas la hache",
+        "realisateurs": "Jacques Rivette",
+        "annee": 2007,
+        "duree": 137,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f101170"
   },
   {
     "idSeance": 200729,
@@ -9453,6 +9640,7 @@
         "David Ingels"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec David Ingels",
     "items": [
       {
         "idFilm": 155471,
@@ -10056,5 +10244,28 @@
       }
     ],
     "hashEvenement": "f38990"
+  },
+  {
+    "idSeance": 205853,
+    "idEvenement": 34975,
+    "dateHeure": "2026-03-09T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Isabel Pagliai"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155540,
+        "titre": "Fantaisie",
+        "realisateurs": "Isabel Pagliai",
+        "annee": 2025,
+        "duree": 79,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155540"
   }
 ]

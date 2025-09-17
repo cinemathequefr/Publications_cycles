@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-02-16T20:00:00",
-    "2026-02-23T20:30:00"
+    "2026-02-28T15:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -92,7 +92,7 @@
           "seances": [
             {
               "idSeance": 200530,
-              "dateHeure": "2026-02-21T19:30:00",
+              "dateHeure": "2026-02-21T19:45:00",
               "idSalle": "GF"
             }
           ]
@@ -126,6 +126,26 @@
           ]
         },
         {
+          "idFilm": 49426,
+          "content": [
+            {
+              "idFilm": 49426,
+              "ordre": 1,
+              "titre": "Liberty Belle",
+              "realisateurs": "Pascal Kané",
+              "pays": "France",
+              "annee": 1983
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205862,
+              "dateHeure": "2026-02-28T15:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 155457,
           "content": [
             {
@@ -152,6 +172,34 @@
               "dateHeure": "2026-02-16T20:00:00",
               "idSalle": "HL",
               "mention": "Avant-première. Séance présentée par Pascal Bonitzer"
+            }
+          ]
+        },
+        {
+          "idFilm": 82672,
+          "content": [
+            {
+              "idFilm": 82672,
+              "ordre": 1,
+              "titre": "Petites coupures",
+              "realisateurs": "Pascal Bonitzer",
+              "pays": "France-Grande-Bretagne",
+              "annee": 2001,
+              "duree": 95,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Daniel Auteuil",
+                "Emmanuelle Devos",
+                "Ludivine Sagnier"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205859,
+              "dateHeure": "2026-02-25T20:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -208,6 +256,43 @@
           ]
         },
         {
+          "idEvenement": 34957,
+          "content": [
+            {
+              "idFilm": 155539,
+              "ordre": 1,
+              "titre": "Sirènes",
+              "art": "Les",
+              "realisateurs": "Pascal Bonitzer",
+              "pays": "France",
+              "annee": 1989
+            },
+            {
+              "idFilm": 59837,
+              "ordre": 2,
+              "titre": "Encore",
+              "realisateurs": "Pascal Bonitzer",
+              "pays": "France",
+              "annee": 1996,
+              "duree": 96,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Jackie Berroyer",
+                "Natacha Régnier",
+                "Hélène Fillières"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205858,
+              "dateHeure": "2026-02-18T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 155456,
           "content": [
             {
@@ -258,9 +343,9 @@
           ],
           "seances": [
             {
-              "idSeance": 205705,
-              "dateHeure": "2026-02-18T18:00:00",
-              "idSalle": "GF"
+              "idSeance": 205860,
+              "dateHeure": "2026-02-25T15:30:00",
+              "idSalle": "JE"
             }
           ]
         }

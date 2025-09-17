@@ -38,7 +38,7 @@
     },
     {
       "tri": 4,
-      "titreSousCycle": "Courts métrages Arte",
+      "titreSousCycle": "Carte blanche à la revue Blink Blank",
       "items": [
         {
           "idEvenement": 34576,
@@ -145,15 +145,10 @@
           ],
           "seances": [
             {
-              "idSeance": 198877,
-              "dateHeure": "2025-12-22T20:00:00",
-              "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Hugo Becker"
-            },
-            {
               "idSeance": 205824,
               "dateHeure": "2026-01-19T20:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Hugo Becker"
             }
           ]
         }
@@ -232,7 +227,8 @@
             {
               "idSeance": 205825,
               "dateHeure": "2026-01-26T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Juien Féret et Ferdinand Régent-Chappey"
             }
           ]
         }
@@ -424,15 +420,10 @@
           ],
           "seances": [
             {
-              "idSeance": 200373,
-              "dateHeure": "2026-02-16T19:00:00",
-              "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec David Ingels"
-            },
-            {
               "idSeance": 200747,
               "dateHeure": "2026-03-02T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec David Ingels"
             }
           ]
         }
@@ -453,6 +444,9 @@
               "realisateurs": "Léa Fehner",
               "pays": "France",
               "annee": 2014,
+              "duree": 144,
+              "version": "",
+              "format": "DCP",
               "generique": [
                 "Adèle Haenel",
                 "Marc Barbé",
@@ -466,6 +460,39 @@
             {
               "idSeance": 200560,
               "dateHeure": "2026-02-23T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Tom Harari, Léa Fehner et Julien Poupard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Isabel Pagliai",
+      "items": [
+        {
+          "idFilm": 155540,
+          "content": [
+            {
+              "idFilm": 155540,
+              "ordre": 1,
+              "titre": "Fantaisie",
+              "realisateurs": "Isabel Pagliai",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 79,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Thomas Ducasse"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205853,
+              "dateHeure": "2026-03-09T19:00:00",
               "idSalle": "JE"
             }
           ]
@@ -475,11 +502,6 @@
   ],
   "syntheseAction": {
     "Discussions": [
-      {
-        "titreFilms": "Nico / Mukbanger / La Ligne de vie",
-        "mention": "avec Hugo Becker",
-        "dateHeure": "2025-12-22T20:00:00"
-      },
       {
         "titreFilms": "Cœur Bleu",
         "mention": "avec Samuel Suffren",
@@ -491,14 +513,29 @@
         "dateHeure": "2026-01-12T17:15:00"
       },
       {
+        "titreFilms": "Nico / Mukbanger / La Ligne de vie",
+        "mention": "avec Hugo Becker",
+        "dateHeure": "2026-01-19T20:00:00"
+      },
+      {
+        "titreFilms": "Hypernuit / Père(s) et Fils",
+        "mention": "avec Juien Féret et Ferdinand Régent-Chappey",
+        "dateHeure": "2026-01-26T19:00:00"
+      },
+      {
         "titreFilms": "Le Mohican",
         "mention": "avec Frédéric Farrucci",
         "dateHeure": "2026-02-02T19:00:00"
       },
       {
+        "titreFilms": "Les Ogres",
+        "mention": "avec Tom Harari, Léa Fehner et Julien Poupard",
+        "dateHeure": "2026-02-23T19:00:00"
+      },
+      {
         "titreFilms": "Les Fleurs blanches et la lune / Et quand l'aube viendra / Bel companho",
         "mention": "avec David Ingels",
-        "dateHeure": "2026-02-16T19:00:00"
+        "dateHeure": "2026-03-02T19:00:00"
       }
     ],
     "Séances présentées": [

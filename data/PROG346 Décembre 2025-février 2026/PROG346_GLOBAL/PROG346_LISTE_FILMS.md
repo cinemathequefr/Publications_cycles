@@ -58,7 +58,7 @@
   * Impératrice (L')  
   * Old Love and the New (The)
 
-## Aujourd'hui le cinéma (21)
+## Aujourd'hui le cinéma (22)
 
   * +10K  
   * Bel companho  
@@ -67,6 +67,7 @@
   * Cœur Bleu  
   * Conte de la Jaguère (Le)  
   * Et quand l'aube viendra  
+  * Fantaisie  
   * Hypernuit  
   * Je, tu, il, elle  
   * Jeune Fille qui pleurait des perles (La)  
@@ -86,11 +87,9 @@
 
   * Reine de Broadway (La)
 
-## Cinéma bis (4)
+## Cinéma bis (2)
 
   * Bad Girls Go to Hell  
-  * Blackenstein, the Black Frankenstein  
-  * Hanno cambiato faccia  
   * Supernichons contre mafia
 
 ## David Gordon Green (21)
@@ -117,13 +116,24 @@
   * Unit Zero  
   * Votre Majesté
 
-## Fenêtre sur les collections (6)
+## Fenêtre sur les collections (17)
 
+  * Belle de jour  
+  * Belle de jour (Bande-annonce)  
+  * Chronique d'une disparition  
   * En Indochine française : Dalat, station climatique  
+  * Frontière (La)  
+  * Guerre du Golfe et après (La)  
   * Harmonieux ombrages d'Indochine  
+  * Marché d'esclaves en Orient  
   * Mines de Campha (Tonkin) (Les)  
   * Moyens de transport en Cochinchine (Les)  
+  * Notre-Dame de Paris (Bande-annonce)  
+  * Nouveaux croisés d'Orient : Portrait d'un mercenaire français (Les)  
   * Pêche au Cambodge (La)  
+  * Rempart des béguines (Bande-annonce) (Le)  
+  * Temps des nababs, épisode 1 : Les Romanesques (Le)  
+  * Temps qu'il reste (Bande-annonce) (Le)  
   * Un circuit touristique dans le Haut Tonkin
 
 ## Films noirs scandinaves (9)
@@ -147,7 +157,7 @@
   * Parfum de femme  
   * Trois amigos
 
-## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (16)
+## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (15)
 
   * À nous la liberté  
   * Atalante (L')  
@@ -155,7 +165,6 @@
   * Bas-fonds (Les)  
   * Beau Serge (Le)  
   * Dame du vendredi (La)  
-  * En quatrième vitesse  
   * Indiscrétions  
   * Marie pour mémoire  
   * Muriel ou le temps d'un retour  
@@ -368,21 +377,29 @@
   * Turang  
   * Une femme indonésienne
 
-## Parlons cinéma... avec Pascal Bonitzer (4)
+## Parlons cinéma... avec Pascal Bonitzer (8)
 
   * Aïe  
   * Conte de printemps  
   * En quatrième vitesse  
-  * Pendaison (La)
+  * Généalogies d'un crime  
+  * Innocents (Les)  
+  * Ne touchez pas la hache  
+  * Pendaison (La)  
+  * Tricheurs
 
-## Pascal Bonitzer (8)
+## Pascal Bonitzer (12)
 
   * Cherchez Hortense  
+  * Encore  
   * Envoûtés (Les)  
   * Grand Alibi (Le)  
   * Je pense à vous  
+  * Liberty Belle  
   * Maigret et le mort amoureux  
+  * Petites coupures  
   * Rien sur Robert  
+  * Sirènes (Les)  
   * Tableau volé (Le)  
   * Tout de suite maintenant
 

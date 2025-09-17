@@ -27,8 +27,8 @@
   {
     "idCategorie": 3977,
     "typeEvenement": 13,
-    "idEvenement": 34542,
-    "idSeance": 205705,
+    "idEvenement": 34957,
+    "idSeance": 205858,
     "dateHeure": "2026-02-18T18:00:00",
     "idSalle": [
       "GF",
@@ -37,13 +37,17 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 131901,
-        "ordre": 1,
-        "idSeance": 205705,
-        "idCopie": 30565,
-        "duree": 98,
+        "idFilm": 155539,
+        "ordre": 1
+      },
+      {
+        "idFilm": 59837,
+        "ordre": 2,
+        "idSeance": 205858,
+        "idCopie": 30584,
+        "duree": 96,
         "version": "",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ]
   },
@@ -140,7 +144,7 @@
     "typeEvenement": 13,
     "idEvenement": 34547,
     "idSeance": 200530,
-    "dateHeure": "2026-02-21T19:30:00",
+    "dateHeure": "2026-02-21T19:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -224,6 +228,70 @@
         "duree": 91,
         "version": "",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3977,
+    "typeEvenement": 13,
+    "idEvenement": 34542,
+    "idSeance": 205860,
+    "dateHeure": "2026-02-25T15:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 131901,
+        "ordre": 1,
+        "idSeance": 205860,
+        "idCopie": 30565,
+        "duree": 98,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3977,
+    "typeEvenement": 13,
+    "idEvenement": 34545,
+    "idSeance": 205859,
+    "dateHeure": "2026-02-25T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 82672,
+        "ordre": 1,
+        "idSeance": 205859,
+        "idCopie": 30577,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3977,
+    "typeEvenement": 13,
+    "idEvenement": 34967,
+    "idSeance": 205862,
+    "dateHeure": "2026-02-28T15:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 49426,
+        "ordre": 1
       }
     ]
   }

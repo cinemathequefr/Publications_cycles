@@ -23,7 +23,7 @@
     "mention": "Séance présentée par Johann Lurf"
   },
   {
-    "idCategorie": 3935,
+    "idCategorie": 3987,
     "typeEvenement": 13,
     "idEvenement": 34576,
     "idSeance": 198690,
@@ -72,48 +72,6 @@
       }
     ],
     "mention": "Séance présentée par Jacques Kermabon et Xavier Kawa-Topor"
-  },
-  {
-    "idCategorie": 4019,
-    "typeEvenement": 13,
-    "idEvenement": 34856,
-    "idSeance": 198877,
-    "dateHeure": "2025-12-22T20:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 155532,
-        "ordre": 1,
-        "idSeance": 198877,
-        "idCopie": 30855,
-        "duree": 16,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155531,
-        "ordre": 2,
-        "idSeance": 198877,
-        "idCopie": 30856,
-        "duree": 17,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155513,
-        "ordre": 3,
-        "idSeance": 198877,
-        "idCopie": 30857,
-        "duree": 29,
-        "version": "",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance suivie d'une discussion avec Hugo Becker"
   },
   {
     "idCategorie": 4025,
@@ -211,7 +169,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Hugo Becker"
   },
   {
     "idCategorie": 3986,
@@ -243,7 +202,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Juien Féret et Ferdinand Régent-Chappey"
   },
   {
     "idCategorie": 3984,
@@ -302,48 +262,6 @@
     ]
   },
   {
-    "idCategorie": 3985,
-    "typeEvenement": 13,
-    "idEvenement": 34579,
-    "idSeance": 200373,
-    "dateHeure": "2026-02-16T19:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 105,
-    "items": [
-      {
-        "idFilm": 155471,
-        "ordre": 1,
-        "idSeance": 200373,
-        "idCopie": 30605,
-        "duree": 21,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155472,
-        "ordre": 2,
-        "idSeance": 200373,
-        "idCopie": 30606,
-        "duree": 19,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155435,
-        "ordre": 3,
-        "idSeance": 200373,
-        "idCopie": 30482,
-        "duree": 29,
-        "version": "",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance suivie d'une discussion avec David Ingels"
-  },
-  {
     "idCategorie": 4021,
     "typeEvenement": 13,
     "idEvenement": 34857,
@@ -357,9 +275,15 @@
     "items": [
       {
         "idFilm": 130783,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 200560,
+        "idCopie": 10666,
+        "duree": 144,
+        "version": "",
+        "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Tom Harari, Léa Fehner et Julien Poupard"
   },
   {
     "idCategorie": 3985,
@@ -397,6 +321,30 @@
         "idSeance": 200747,
         "idCopie": 30482,
         "duree": 29,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec David Ingels"
+  },
+  {
+    "idCategorie": 4032,
+    "typeEvenement": 13,
+    "idEvenement": 34975,
+    "idSeance": 205853,
+    "dateHeure": "2026-03-09T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 155540,
+        "ordre": 1,
+        "idSeance": 205853,
+        "idCopie": 30902,
+        "duree": 79,
         "version": "",
         "format": "DCP"
       }
