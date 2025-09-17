@@ -297,9 +297,9 @@
   * Jimmy le mystérieux  
   * Justin de Marseille  
   * Katia  
-  * Koenigsmark  
+  * Kœnigsmark  
   * Lidoire  
-  * Main du Diable (La)  
+  * Main du diable (La)  
   * Maison de danses  
   * Mam'zelle Bonaparte  
   * Maurice Tourneur, tisseur de rêves  
@@ -312,7 +312,7 @@
   * Samson  
   * Sporting Life  
   * Une victoire  
-  * Val d'Enfer (Le)  
+  * Val d'enfer (Le)  
   * Voleur (Le)  
   * Volpone
 
