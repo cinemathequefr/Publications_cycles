@@ -18,7 +18,7 @@
   * Victoire en Ukraine (La)  
   * Zvenigora
 
-## André De Toth (33)
+## Andre De Toth (33)
 
   * 5 heures 40  
   * Aveu (L')  
