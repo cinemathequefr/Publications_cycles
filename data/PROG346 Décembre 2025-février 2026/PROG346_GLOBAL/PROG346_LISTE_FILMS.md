@@ -122,7 +122,7 @@
   * Unit Zero  
   * Votre Majesté
 
-## Fenêtre sur les collections (17)
+## Fenêtre sur les collections (16)
 
   * Belle de jour  
   * Belle de jour (Bande-annonce)  
@@ -135,7 +135,6 @@
   * Mines de Campha (Tonkin) (Les)  
   * Moyens de transport en Cochinchine (Les)  
   * Notre-Dame de Paris (Bande-annonce)  
-  * Nouveaux croisés d'Orient : Portrait d'un mercenaire français (Les)  
   * Pêche au Cambodge (La)  
   * Rempart des béguines (Bande-annonce) (Le)  
   * Temps des nababs, épisode 1 : Les Romanesques (Le)  
@@ -323,7 +322,7 @@
   * Voleur (Le)  
   * Volpone
 
-## Márta Mészáros (22)
+## Márta Mészáros (20)
 
   * Adoption  
   * Aurora borealis  
@@ -332,7 +331,6 @@
   * Cati  
   * Comme chez nous  
   * Elles deux  
-  * En cours de route  
   * Filature de Lőrinc (La)  
   * Filles de la fortune (Les)  
   * Fœtus (Le)  
@@ -345,7 +343,6 @@
   * Neuf mois  
   * Petite Vilma, le dernier journal  
   * Septième Demeure (La)  
-  * Une mère, une fille  
   * Vent de la liberté (Le)
 
 ## Orson Welles (20)
@@ -410,7 +407,7 @@
   * Tableau volé (Le)  
   * Tout de suite maintenant
 
-## Restaurations et raretés, best of 2025 (40)
+## Restaurations et raretés, best of 2025 (41)
 
   * Au-delà de l'oubli  
   * Bashu, le petit étranger  
@@ -442,6 +439,7 @@
   * Onze heures sonnaient  
   * Panthère Rose (La)  
   * Quand la colère éclate  
+  * Queen Kelly  
   * Rapt  
   * Sainte Nuit  
   * Samba Traoré  
@@ -508,12 +506,11 @@
   * Top Gun  
   * Tron
 
-## Valérie Donzelli (7)
+## Valérie Donzelli (6)
 
   * À pied d'œuvre  
-  * Amour et les forêts (L')  
   * Guerre est déclarée (La)  
+  * Main dans la main  
   * Marguerite et Julien  
-  * Notre Dame  
   * Que d'amour  
   * Reine des pommes (La)  

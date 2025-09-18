@@ -61,7 +61,7 @@
             {
               "idSeance": 205818,
               "dateHeure": "2025-12-03T15:00:00",
-              "idSalle": "GF"
+              "idSalle": "JE"
             }
           ]
         },
@@ -122,7 +122,7 @@
           "seances": [
             {
               "idSeance": 198487,
-              "dateHeure": "2025-12-07T20:45:00",
+              "dateHeure": "2025-12-07T17:15:00",
               "idSalle": "HL"
             }
           ]
@@ -186,8 +186,8 @@
           "seances": [
             {
               "idSeance": 198486,
-              "dateHeure": "2025-12-07T17:00:00",
-              "idSalle": "HL"
+              "dateHeure": "2025-12-07T14:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -281,7 +281,7 @@
           "seances": [
             {
               "idSeance": 205581,
-              "dateHeure": "2025-12-06T20:30:00",
+              "dateHeure": "2025-12-06T20:00:00",
               "idSalle": "GF"
             }
           ]
@@ -312,7 +312,7 @@
           "seances": [
             {
               "idSeance": 205588,
-              "dateHeure": "2025-12-06T20:00:00",
+              "dateHeure": "2025-12-06T20:45:00",
               "idSalle": "HL"
             }
           ]
@@ -373,7 +373,7 @@
           "seances": [
             {
               "idSeance": 205716,
-              "dateHeure": "2025-12-06T18:30:00",
+              "dateHeure": "2025-12-06T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -402,7 +402,7 @@
           "seances": [
             {
               "idSeance": 205715,
-              "dateHeure": "2025-12-05T18:30:00",
+              "dateHeure": "2025-12-05T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -434,7 +434,7 @@
           "seances": [
             {
               "idSeance": 198425,
-              "dateHeure": "2025-12-05T18:00:00",
+              "dateHeure": "2025-12-05T18:30:00",
               "idSalle": "HL"
             }
           ]
@@ -497,7 +497,7 @@
           "seances": [
             {
               "idSeance": 205669,
-              "dateHeure": "2025-12-05T16:00:00",
+              "dateHeure": "2025-12-05T15:30:00",
               "idSalle": "GF"
             }
           ]
@@ -587,7 +587,7 @@
           "seances": [
             {
               "idSeance": 198385,
-              "dateHeure": "2025-12-04T20:45:00",
+              "dateHeure": "2025-12-04T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -679,7 +679,7 @@
           "seances": [
             {
               "idSeance": 205594,
-              "dateHeure": "2025-12-04T18:30:00",
+              "dateHeure": "2025-12-04T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -808,33 +808,50 @@
           ]
         },
         {
-          "idFilm": 47763,
-          "content": [
+          "groupe": [
             {
               "idFilm": 47763,
-              "ordre": 1,
-              "titre": "Nuits fauves",
-              "art": "Les",
-              "realisateurs": "Cyril Collard",
-              "pays": "France-Italie",
-              "annee": 1992,
-              "duree": 126,
-              "version": "",
-              "format": "DCP",
-              "restauration": true,
-              "adaptation": "D’après le roman _Les Nuits fauves_ de Cyril Collard.",
-              "generique": [
-                "Cyril Collard",
-                "Romane Bohringer",
-                "Carlos López"
+              "content": [
+                {
+                  "idFilm": 47763,
+                  "ordre": 1,
+                  "titre": "Nuits fauves",
+                  "art": "Les",
+                  "realisateurs": "Cyril Collard",
+                  "pays": "France-Italie",
+                  "annee": 1992,
+                  "duree": 126,
+                  "version": "",
+                  "format": "DCP",
+                  "restauration": true,
+                  "adaptation": "D’après le roman _Les Nuits fauves_ de Cyril Collard.",
+                  "generique": [
+                    "Cyril Collard",
+                    "Romane Bohringer",
+                    "Carlos López"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 205584,
-              "dateHeure": "2025-12-06T17:00:00",
-              "idSalle": "HL"
+              "idEvenement": 34982,
+              "content": [
+                {
+                  "idConf": 34982,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Nella Banfi, Romane Bohringer, Carlos López, Jean-Stéphane Sauvaire, Manuel Teran",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Isaac Gaido-Daniel"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 205584,
+                  "typeAssoc": 118,
+                  "dateHeure": "2025-12-06T17:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -863,7 +880,7 @@
           "seances": [
             {
               "idSeance": 198485,
-              "dateHeure": "2025-12-07T14:30:00",
+              "dateHeure": "2025-12-06T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -897,7 +914,7 @@
           "seances": [
             {
               "idSeance": 198467,
-              "dateHeure": "2025-12-06T14:30:00",
+              "dateHeure": "2025-12-07T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -931,6 +948,35 @@
               "idSeance": 205812,
               "dateHeure": "2025-12-07T19:45:00",
               "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 37205,
+          "content": [
+            {
+              "idFilm": 37205,
+              "ordre": 1,
+              "titre": "Queen Kelly",
+              "realisateurs": "Erich von Stroheim",
+              "pays": "États-Unis",
+              "annee": 1928,
+              "duree": 108,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Gloria Swanson",
+                "Walter Byron",
+                "Seena Owen"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205879,
+              "dateHeure": "2025-12-07T20:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -1078,7 +1124,7 @@
           "seances": [
             {
               "idSeance": 198492,
-              "dateHeure": "2025-12-07T20:15:00",
+              "dateHeure": "2025-12-07T20:45:00",
               "idSalle": "GF"
             }
           ]
@@ -1110,7 +1156,7 @@
           "seances": [
             {
               "idSeance": 205811,
-              "dateHeure": "2025-12-05T20:45:00",
+              "dateHeure": "2025-12-05T20:30:00",
               "idSalle": "GF"
             }
           ]
@@ -1196,8 +1242,8 @@
           "seances": [
             {
               "idSeance": 205527,
-              "dateHeure": "2025-12-03T18:00:00",
-              "idSalle": "JE"
+              "dateHeure": "2025-12-03T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -1234,5 +1280,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Les Nuits fauves",
+        "mention": "avec Nella Banfi, Romane Bohringer, Carlos López, Jean-Stéphane Sauvaire, Manuel Teran",
+        "dateHeure": "2025-12-06T17:00:00"
+      }
+    ]
+  }
 }
