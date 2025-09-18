@@ -1,15 +1,66 @@
 [
   {
-    "idCategorie": 4020,
+    "idCategorie": 3987,
     "typeEvenement": 13,
-    "idEvenement": 34858,
-    "idSeance": 205720,
+    "idEvenement": 34576,
+    "idSeance": 205922,
     "dateHeure": "2025-12-08T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 155469,
+        "ordre": 1,
+        "idSeance": 205922,
+        "idCopie": 30603,
+        "duree": 12,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155470,
+        "ordre": 2,
+        "idSeance": 205922,
+        "idCopie": 30604,
+        "duree": 17,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155468,
+        "ordre": 3,
+        "idSeance": 205922,
+        "idCopie": 30601,
+        "duree": 19,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155467,
+        "ordre": 4,
+        "idSeance": 205922,
+        "idCopie": 30602,
+        "duree": 20,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Jacques Kermabon"
+  },
+  {
+    "idCategorie": 4020,
+    "typeEvenement": 13,
+    "idEvenement": 34858,
+    "idSeance": 205925,
+    "dateHeure": "2025-12-15T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
     "items": [
       {
         "idFilm": 155520,
@@ -20,58 +71,7 @@
         "ordre": 2
       }
     ],
-    "mention": "Séance présentée par Johann Lurf"
-  },
-  {
-    "idCategorie": 3987,
-    "typeEvenement": 13,
-    "idEvenement": 34576,
-    "idSeance": 198690,
-    "dateHeure": "2025-12-15T19:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 90,
-    "items": [
-      {
-        "idFilm": 155469,
-        "ordre": 1,
-        "idSeance": 198690,
-        "idCopie": 30603,
-        "duree": 12,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155470,
-        "ordre": 2,
-        "idSeance": 198690,
-        "idCopie": 30604,
-        "duree": 17,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155468,
-        "ordre": 3,
-        "idSeance": 198690,
-        "idCopie": 30601,
-        "duree": 19,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155467,
-        "ordre": 4,
-        "idSeance": 198690,
-        "idCopie": 30602,
-        "duree": 20,
-        "version": "",
-        "format": "DCP"
-      }
-    ],
-    "mention": "Séance présentée par Jacques Kermabon et Xavier Kawa-Topor"
+    "mention": "Séance suivie d'une discussion avec Johann Lurf"
   },
   {
     "idCategorie": 4025,
@@ -347,7 +347,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Isabel Pagliai"
   },
   {
     "mention": "Séance présentée par Cécile Cadoux"

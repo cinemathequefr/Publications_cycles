@@ -162,11 +162,44 @@
     ]
   },
   {
+    "idCategorie": 4031,
+    "typeEvenement": 13,
+    "idEvenement": 34942,
+    "idSeance": 205953,
+    "dateHeure": "2025-12-15T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 65296,
+        "ordre": 1,
+        "idSeance": 205953,
+        "idCopie": 30867,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 65289,
+        "ordre": 2,
+        "idSeance": 205953,
+        "idCopie": 30868,
+        "duree": 55,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
     "idCategorie": 3975,
     "typeEvenement": 13,
     "idEvenement": 34523,
     "idSeance": 205840,
-    "dateHeure": "2025-12-15T19:45:00",
+    "dateHeure": "2025-12-15T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -254,54 +287,21 @@
     ]
   },
   {
-    "idCategorie": 4031,
-    "typeEvenement": 13,
-    "idEvenement": 34942,
-    "idSeance": 205841,
-    "dateHeure": "2025-12-18T20:45:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 65296,
-        "ordre": 1,
-        "idSeance": 205841,
-        "idCopie": 30867,
-        "duree": 26,
-        "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 65289,
-        "ordre": 2,
-        "idSeance": 205841,
-        "idCopie": 30868,
-        "duree": 55,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
     "idCategorie": 3975,
     "typeEvenement": 13,
     "idEvenement": 34944,
-    "idSeance": 205844,
-    "dateHeure": "2025-12-20T19:45:00",
+    "idSeance": 205954,
+    "dateHeure": "2025-12-18T20:30:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "dureeSeance": 165,
     "items": [
       {
         "idFilm": 155533,
         "ordre": 1,
-        "idSeance": 205844,
+        "idSeance": 205954,
         "idCopie": 30869,
         "duree": 128,
         "version": "VOSTF",

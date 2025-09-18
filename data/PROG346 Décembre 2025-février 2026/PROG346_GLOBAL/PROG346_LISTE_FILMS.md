@@ -155,30 +155,27 @@
   * Nuit de brume  
   * Quand la chair est faible
 
-## Histoire permanente du cinéma (6)
+## Histoire permanente du cinéma (5)
 
   * American Gigolo  
   * Au-dessous du volcan  
   * Cría cuervos  
-  * Nostalghia  
   * Parfum de femme  
   * Trois amigos
 
-## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (16)
+## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (14)
 
   * À nous la liberté  
   * Atalante (L')  
   * Atlantide (L')  
   * Bas-fonds (Les)  
   * Beau Serge (Le)  
-  * Dame du vendredi (La)  
   * Haute Pègre  
   * Indiscrétions  
   * Marie pour mémoire  
   * Muriel ou le temps d'un retour  
   * Onze Fioretti de François d'Assise (Les)  
   * Pierrot le fou  
-  * Règle du jeu (La)  
   * Remorques  
   * Salomè  
   * Tirez sur le pianiste
@@ -286,36 +283,46 @@
   * Théâtre de guerre  
   * Vesuviani: La Salita (I)
 
-## Maurice Tourneur (34)
+## Maurice Tourneur (44)
 
   * A Girl's Folly  
   * Accusée, levez-vous !  
   * Après l'amour  
   * Au nom de la loi  
   * Avec le sourire  
+  * Bergère d'Ivry (La)  
   * Bruyère blanche (La)  
+  * Casaque verte (La)  
   * Cécile est morte  
   * Dernier des Mohicans (Le)  
   * Deux Orphelines (Les)  
   * Équipage (L')  
   * Éternelle Tentatrice (L')  
+  * Figures de cire  
   * Fille d'Écosse  
+  * Fille de pirates  
   * Foolish Matrons (The)  
+  * Friquet (Le)  
   * Gaîtés de l'escadron (Les)  
   * Impasse des Deux-Anges  
   * Jimmy le mystérieux  
   * Justin de Marseille  
   * Katia  
+  * Kœnigsmark  
+  * Lidoire  
   * Main du diable (La)  
   * Maison de danses  
   * Mam'zelle Bonaparte  
   * Maurice Tourneur, tisseur de rêves  
-  * Navire des hommes perdus (Le)  
+  * Obsession  
   * Oiseau bleu (L')  
   * Papillon brisé (Le)  
+  * Partir  
   * Patriote (Le)  
   * Péchés de jeunesse  
   * Phalène blanche (La)  
+  * Prunella  
+  * Samson  
   * Trilby  
   * Une pauvre petite fille riche  
   * Une victoire  
@@ -391,31 +398,31 @@
   * Turang  
   * Une femme indonésienne
 
-## Parlons cinéma... avec Pascal Bonitzer (8)
+## Parlons cinéma... avec Pascal Bonitzer (4)
 
   * Aïe  
   * Conte de printemps  
   * En quatrième vitesse  
-  * Généalogies d'un crime  
-  * Innocents (Les)  
-  * Ne touchez pas la hache  
-  * Pendaison (La)  
-  * Tricheurs
+  * Pendaison (La)
 
-## Pascal Bonitzer (12)
+## Pascal Bonitzer (16)
 
   * Cherchez Hortense  
   * Encore  
   * Envoûtés (Les)  
+  * Généalogies d'un crime  
   * Grand Alibi (Le)  
+  * Innocents (Les)  
   * Je pense à vous  
   * Liberty Belle  
   * Maigret et le mort amoureux  
+  * Ne touchez pas la hache  
   * Petites coupures  
   * Rien sur Robert  
   * Sirènes (Les)  
   * Tableau volé (Le)  
-  * Tout de suite maintenant
+  * Tout de suite maintenant  
+  * Tricheurs
 
 ## Restaurations et raretés, best of 2025 (41)
 

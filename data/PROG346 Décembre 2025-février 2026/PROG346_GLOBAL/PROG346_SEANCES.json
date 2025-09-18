@@ -1093,32 +1093,54 @@
     "hashEvenement": "f123944"
   },
   {
-    "idSeance": 205720,
-    "idEvenement": 34858,
+    "idSeance": 205922,
+    "idEvenement": 34576,
     "dateHeure": "2025-12-08T19:00:00",
     "salle": "JE",
     "cycle": [
       [
         "Aujourd'hui le cinéma",
-        "Johann Lurf"
+        "Carte blanche à la revue Blink Blank"
       ]
     ],
-    "mention": "Séance présentée par Johann Lurf",
+    "mention": "Séance présentée par Jacques Kermabon",
     "items": [
       {
-        "idFilm": 155520,
-        "titre": "Twelve Tales Told",
-        "realisateurs": "Johann Lurf",
-        "annee": 2014
+        "idFilm": 155469,
+        "titre": "Bottes de la nuit",
+        "art": "Les",
+        "realisateurs": "Pierre-Luc Granjon",
+        "annee": 2024,
+        "duree": 12,
+        "format": "DCP"
       },
       {
-        "idFilm": 155519,
-        "titre": "Star",
-        "realisateurs": "Johann Lurf",
-        "annee": 2017
+        "idFilm": 155470,
+        "titre": "Jeune Fille qui pleurait des perles",
+        "art": "La",
+        "realisateurs": "Chris Lavis, Maciek Szczerbowski",
+        "annee": 2025,
+        "duree": 17,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155468,
+        "titre": "Luna Rossa",
+        "realisateurs": "Olga Pärn, Priit Pärn",
+        "annee": 2024,
+        "duree": 19,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155467,
+        "titre": "Sulaimani",
+        "realisateurs": "Vinnie Ann Bose",
+        "annee": 2025,
+        "duree": 20,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f155520f155519"
+    "hashEvenement": "f155469f155470f155468f155467"
   },
   {
     "idSeance": 198532,
@@ -1163,7 +1185,7 @@
         "realisateurs": "Paul Schrader",
         "annee": 1980,
         "duree": 117,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -1358,6 +1380,7 @@
         "realisateurs": "John Landis",
         "annee": 1986,
         "duree": 104,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -1985,83 +2008,72 @@
     "hashEvenement": "f42345"
   },
   {
-    "idSeance": 205837,
-    "idEvenement": 34363,
+    "idSeance": 205953,
+    "idEvenement": 34942,
     "dateHeure": "2025-12-15T18:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Orson Welles",
-        "Sur la terre de Don Quichotte"
+        "Mario Martone",
+        "Courts et moyens métrages"
       ]
     ],
     "items": [
       {
-        "idFilm": 125281,
-        "titre": "Rosabella: La Storia italiana di Orson Welles",
-        "realisateurs": "Gianfranco Giagni, Ciro Giorgini",
+        "idFilm": 65296,
+        "titre": "Vesuviani: La Salita",
+        "art": "I",
+        "realisateurs": "Mario Martone",
+        "annee": 1997,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 65289,
+        "titre": "Rasoi",
+        "realisateurs": "Mario Martone",
         "annee": 1993,
-        "duree": 70,
-        "version": "VO",
-        "format": "Vidéo"
+        "duree": 55,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f125281"
+    "hashEvenement": "f65296f65289"
   },
   {
-    "idSeance": 198690,
-    "idEvenement": 34576,
+    "idSeance": 205925,
+    "idEvenement": 34858,
     "dateHeure": "2025-12-15T19:00:00",
     "salle": "JE",
     "cycle": [
       [
         "Aujourd'hui le cinéma",
-        "Carte blanche à la revue Blink Blank"
+        "Johann Lurf"
       ]
     ],
-    "mention": "Séance présentée par Jacques Kermabon et Xavier Kawa-Topor",
+    "mention": "Séance suivie d'une discussion avec Johann Lurf",
     "items": [
       {
-        "idFilm": 155469,
-        "titre": "Bottes de la nuit",
-        "art": "Les",
-        "realisateurs": "Pierre-Luc Granjon",
-        "annee": 2024,
-        "duree": 12,
-        "format": "DCP"
+        "idFilm": 155520,
+        "titre": "Twelve Tales Told",
+        "realisateurs": "Johann Lurf",
+        "annee": 2014
       },
       {
-        "idFilm": 155470,
-        "titre": "Jeune Fille qui pleurait des perles",
-        "art": "La",
-        "realisateurs": "Chris Lavis, Maciek Szczerbowski",
-        "annee": 2025,
-        "duree": 17,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155468,
-        "titre": "Luna Rossa",
-        "realisateurs": "Olga Pärn, Priit Pärn",
-        "annee": 2024,
-        "duree": 19,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155467,
-        "titre": "Sulaimani",
-        "realisateurs": "Vinnie Ann Bose",
-        "annee": 2025,
-        "duree": 20,
-        "format": "DCP"
+        "idFilm": 155519,
+        "titre": "Star",
+        "realisateurs": "Johann Lurf",
+        "annee": 2017
       }
     ],
-    "hashEvenement": "f155469f155470f155468f155467"
+    "hashEvenement": "f155520f155519"
   },
   {
     "idSeance": 205840,
     "idEvenement": 34523,
-    "dateHeure": "2025-12-15T19:45:00",
+    "dateHeure": "2025-12-15T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2363,39 +2375,28 @@
     "hashEvenement": "f83039c34723"
   },
   {
-    "idSeance": 205841,
-    "idEvenement": 34942,
-    "dateHeure": "2025-12-18T20:45:00",
+    "idSeance": 205954,
+    "idEvenement": 34944,
+    "dateHeure": "2025-12-18T20:30:00",
     "salle": "JE",
     "cycle": [
       [
         "Mario Martone",
-        "Courts et moyens métrages"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 65296,
-        "titre": "Vesuviani: La Salita",
-        "art": "I",
+        "idFilm": 155533,
+        "titre": "Laggiù qualcuno mi ama",
         "realisateurs": "Mario Martone",
-        "annee": 1997,
-        "duree": 26,
+        "annee": 2023,
+        "duree": 128,
         "version": "VOSTF",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 65289,
-        "titre": "Rasoi",
-        "realisateurs": "Mario Martone",
-        "annee": 1993,
-        "duree": 55,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f65296f65289"
+    "hashEvenement": "f155533"
   },
   {
     "idSeance": 198760,
@@ -2695,28 +2696,28 @@
     "hashEvenement": "f35868"
   },
   {
-    "idSeance": 205844,
-    "idEvenement": 34944,
+    "idSeance": 205955,
+    "idEvenement": 34363,
     "dateHeure": "2025-12-20T19:45:00",
     "salle": "GF",
     "cycle": [
       [
-        "Mario Martone",
-        "Les films"
+        "Orson Welles",
+        "Sur la terre de Don Quichotte"
       ]
     ],
     "items": [
       {
-        "idFilm": 155533,
-        "titre": "Laggiù qualcuno mi ama",
-        "realisateurs": "Mario Martone",
-        "annee": 2023,
-        "duree": 128,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 125281,
+        "titre": "Rosabella: La Storia italiana di Orson Welles",
+        "realisateurs": "Gianfranco Giagni, Ciro Giorgini",
+        "annee": 1993,
+        "duree": 70,
+        "version": "VO",
+        "format": "Vidéo"
       }
     ],
-    "hashEvenement": "f155533"
+    "hashEvenement": "f125281"
   },
   {
     "idSeance": 205842,
@@ -2817,48 +2818,6 @@
     "hashEvenement": "f36381"
   },
   {
-    "idSeance": 205511,
-    "idEvenement": 34689,
-    "dateHeure": "2025-12-21T16:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "José Luis Guerin",
-        "Courts et moyens métrages"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155484,
-        "titre": "De una isla",
-        "realisateurs": "José Luis Guerin",
-        "annee": 2019,
-        "duree": 26,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155485,
-        "titre": "Saphir de St. Louis",
-        "art": "Le",
-        "realisateurs": "José Luis Guerin",
-        "annee": 2015,
-        "duree": 35,
-        "format": "DCP"
-      },
-      {
-        "idFilm": 131487,
-        "titre": "Recuerdos de una mañana",
-        "realisateurs": "José Luis Guerin",
-        "annee": 2011,
-        "duree": 47,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f155484f155485f131487"
-  },
-  {
     "idSeance": 205523,
     "idEvenement": 34393,
     "dateHeure": "2025-12-21T17:00:00",
@@ -2905,31 +2864,6 @@
       }
     ],
     "hashEvenement": "f104205"
-  },
-  {
-    "idSeance": 198866,
-    "idEvenement": 34532,
-    "dateHeure": "2025-12-21T18:15:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "José Luis Guerin",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 131185,
-        "titre": "Académie des muses",
-        "art": "L'",
-        "realisateurs": "José Luis Guerin",
-        "annee": 2015,
-        "duree": 92,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f131185"
   },
   {
     "idSeance": 205823,
@@ -3027,6 +2961,48 @@
     "hashEvenement": "f72368"
   },
   {
+    "idSeance": 205956,
+    "idEvenement": 34689,
+    "dateHeure": "2025-12-22T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "José Luis Guerin",
+        "Courts et moyens métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155484,
+        "titre": "De una isla",
+        "realisateurs": "José Luis Guerin",
+        "annee": 2019,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155485,
+        "titre": "Saphir de St. Louis",
+        "art": "Le",
+        "realisateurs": "José Luis Guerin",
+        "annee": 2015,
+        "duree": 35,
+        "format": "DCP"
+      },
+      {
+        "idFilm": 131487,
+        "titre": "Recuerdos de una mañana",
+        "realisateurs": "José Luis Guerin",
+        "annee": 2011,
+        "duree": 47,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155484f155485f131487"
+  },
+  {
     "idSeance": 198873,
     "idEvenement": 34394,
     "dateHeure": "2025-12-22T19:30:00",
@@ -3066,28 +3042,29 @@
     "hashEvenement": "f36254c34739"
   },
   {
-    "idSeance": 198874,
-    "idEvenement": 32812,
-    "dateHeure": "2025-12-22T20:00:00",
+    "idSeance": 205957,
+    "idEvenement": 34532,
+    "dateHeure": "2025-12-22T20:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Histoire permanente du cinéma",
+        "José Luis Guerin",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 57266,
-        "titre": "Nostalghia",
-        "realisateurs": "Andreï Tarkovski",
-        "annee": 1983,
-        "duree": 130,
+        "idFilm": 131185,
+        "titre": "Académie des muses",
+        "art": "L'",
+        "realisateurs": "José Luis Guerin",
+        "annee": 2015,
+        "duree": 92,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f57266"
+    "hashEvenement": "f131185"
   },
   {
     "idSeance": 198908,
@@ -3188,8 +3165,8 @@
     "hashEvenement": "f31289"
   },
   {
-    "idSeance": 199028,
-    "idEvenement": 34654,
+    "idSeance": 205959,
+    "idEvenement": 34652,
     "dateHeure": "2025-12-27T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -3200,17 +3177,17 @@
     ],
     "items": [
       {
-        "idFilm": 37560,
-        "titre": "Mélodie du bonheur",
+        "idFilm": 32368,
+        "titre": "Conquête de l'Ouest",
         "art": "La",
-        "realisateurs": "Robert Wise",
-        "annee": 1965,
-        "duree": 174,
-        "version": "VF",
+        "realisateurs": "John Ford, George Marshall, Henry Hathaway",
+        "annee": 1962,
+        "duree": 155,
+        "version": "VO",
         "format": "70 mm"
       }
     ],
-    "hashEvenement": "f37560"
+    "hashEvenement": "f32368"
   },
   {
     "idSeance": 199032,
@@ -3546,7 +3523,7 @@
   {
     "idSeance": 205629,
     "idEvenement": 34379,
-    "dateHeure": "2025-12-31T14:00:00",
+    "dateHeure": "2025-12-31T14:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -3566,9 +3543,9 @@
     "hashEvenement": "f59102"
   },
   {
-    "idSeance": 199095,
-    "idEvenement": 34652,
-    "dateHeure": "2025-12-31T16:00:00",
+    "idSeance": 205958,
+    "idEvenement": 34654,
+    "dateHeure": "2025-12-31T15:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3578,22 +3555,22 @@
     ],
     "items": [
       {
-        "idFilm": 32368,
-        "titre": "Conquête de l'Ouest",
+        "idFilm": 37560,
+        "titre": "Mélodie du bonheur",
         "art": "La",
-        "realisateurs": "John Ford, George Marshall, Henry Hathaway",
-        "annee": 1962,
-        "duree": 155,
-        "version": "VO",
+        "realisateurs": "Robert Wise",
+        "annee": 1965,
+        "duree": 174,
+        "version": "VF",
         "format": "70 mm"
       }
     ],
-    "hashEvenement": "f32368"
+    "hashEvenement": "f37560"
   },
   {
     "idSeance": 205630,
     "idEvenement": 34400,
-    "dateHeure": "2025-12-31T16:30:00",
+    "dateHeure": "2025-12-31T17:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7269,29 +7246,29 @@
     "hashEvenement": "f127054"
   },
   {
-    "idSeance": 205751,
-    "idEvenement": 34829,
+    "idSeance": 205946,
+    "idEvenement": 34424,
     "dateHeure": "2026-02-05T16:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "André De Toth",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 33172,
-        "titre": "Dame du vendredi",
-        "art": "La",
-        "realisateurs": "Howard Hawks",
-        "annee": 1940,
-        "duree": 92,
+        "idFilm": 31658,
+        "titre": "Homme au masque de cire",
+        "art": "L'",
+        "realisateurs": "André De Toth",
+        "annee": 1953,
+        "duree": 88,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f33172"
+    "hashEvenement": "f31658"
   },
   {
     "idSeance": 205806,
@@ -7384,28 +7361,26 @@
     "hashEvenement": "f132733"
   },
   {
-    "idSeance": 205752,
-    "idEvenement": 34822,
+    "idSeance": 205947,
+    "idEvenement": 34418,
     "dateHeure": "2026-02-06T16:15:00",
     "salle": "GF",
     "cycle": [
       [
-        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "André De Toth",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 50877,
-        "titre": "Règle du jeu",
+        "idFilm": 31659,
+        "titre": "Rivière de nos amours",
         "art": "La",
-        "realisateurs": "Jean Renoir",
-        "annee": 1939,
-        "duree": 106,
-        "format": "DCP"
+        "realisateurs": "André De Toth",
+        "annee": 1955
       }
     ],
-    "hashEvenement": "f50877"
+    "hashEvenement": "f31659"
   },
   {
     "idSeance": 205889,
@@ -7851,28 +7826,28 @@
     "hashEvenement": "f155505"
   },
   {
-    "idSeance": 205755,
-    "idEvenement": 34823,
+    "idSeance": 205948,
+    "idEvenement": 34421,
     "dateHeure": "2026-02-09T16:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "André De Toth",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 51708,
-        "titre": "Atalante",
-        "art": "L'",
-        "realisateurs": "Jean Vigo",
-        "annee": 1933,
-        "duree": 89,
+        "idFilm": 31661,
+        "titre": "Quand la bête hurle",
+        "realisateurs": "André De Toth",
+        "annee": 1957,
+        "duree": 94,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51708"
+    "hashEvenement": "f31661"
   },
   {
     "idSeance": 200184,
@@ -8050,6 +8025,30 @@
     "hashEvenement": "f155517"
   },
   {
+    "idSeance": 205949,
+    "idEvenement": 34823,
+    "dateHeure": "2026-02-12T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Histoire permanente du cinéma les 90 ans de la Cinémathèque française",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51708,
+        "titre": "Atalante",
+        "art": "L'",
+        "realisateurs": "Jean Vigo",
+        "annee": 1933,
+        "duree": 89,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f51708"
+  },
+  {
     "idSeance": 205664,
     "idEvenement": 34590,
     "dateHeure": "2026-02-12T18:00:00",
@@ -8150,9 +8149,9 @@
     "hashEvenement": "f29182"
   },
   {
-    "idSeance": 200297,
+    "idSeance": 205950,
     "idEvenement": 34683,
-    "dateHeure": "2026-02-13T19:30:00",
+    "dateHeure": "2026-02-13T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8199,9 +8198,9 @@
     "hashEvenement": "f50602"
   },
   {
-    "idSeance": 200298,
+    "idSeance": 205951,
     "idEvenement": 34684,
-    "dateHeure": "2026-02-13T21:30:00",
+    "dateHeure": "2026-02-13T22:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8749,8 +8748,8 @@
     "hashEvenement": "f91407"
   },
   {
-    "idSeance": 205607,
-    "idEvenement": 34445,
+    "idSeance": 205917,
+    "idEvenement": 34452,
     "dateHeure": "2026-02-20T18:30:00",
     "salle": "JE",
     "cycle": [
@@ -8759,18 +8758,18 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Roxanne Haessig",
     "items": [
       {
-        "idFilm": 79219,
-        "titre": "A Girl's Folly",
+        "idFilm": 51491,
+        "titre": "Accusée, levez-vous !",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1917,
-        "duree": 65,
-        "format": "35 mm"
+        "annee": 1930,
+        "duree": 102,
+        "format": "35 mm",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f79219"
+    "hashEvenement": "f51491"
   },
   {
     "idSeance": 205832,
@@ -8805,27 +8804,27 @@
     "hashEvenement": "f37953c34743"
   },
   {
-    "idSeance": 200486,
-    "idEvenement": 34667,
+    "idSeance": 205918,
+    "idEvenement": 34453,
     "dateHeure": "2026-02-20T20:00:00",
     "salle": "JE",
     "cycle": [
       [
         "Maurice Tourneur",
-        "Courts métrages"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 79206,
-        "titre": "Jimmy le mystérieux",
+        "idFilm": 51511,
+        "titre": "Maison de danses",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1915,
-        "duree": 88,
-        "format": "35 mm"
+        "annee": 1931,
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f79206"
+    "hashEvenement": "f51511"
   },
   {
     "idSeance": 200483,
@@ -8885,8 +8884,8 @@
     "hashEvenement": "f64180c34734"
   },
   {
-    "idSeance": 200531,
-    "idEvenement": 34515,
+    "idSeance": 205919,
+    "idEvenement": 34455,
     "dateHeure": "2026-02-21T15:00:00",
     "salle": "JE",
     "cycle": [
@@ -8897,16 +8896,15 @@
     ],
     "items": [
       {
-        "idFilm": 37359,
-        "titre": "Fille d'Écosse",
+        "idFilm": 51410,
+        "titre": "Partir",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1917,
-        "duree": 84,
-        "version": "VO",
-        "format": "DCP"
+        "annee": 1931,
+        "duree": 100,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f37359"
+    "hashEvenement": "f51410"
   },
   {
     "idSeance": 205877,
@@ -8933,28 +8931,28 @@
     "hashEvenement": "f34651"
   },
   {
-    "idSeance": 205642,
-    "idEvenement": 34673,
-    "dateHeure": "2026-02-21T17:00:00",
+    "idSeance": 205920,
+    "idEvenement": 34454,
+    "dateHeure": "2026-02-21T17:15:00",
     "salle": "JE",
     "cycle": [
       [
         "Maurice Tourneur",
-        "Courts métrages"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 79229,
-        "titre": "Éternelle Tentatrice",
-        "art": "L'",
+        "idFilm": 51492,
+        "titre": "Au nom de la loi",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1918,
-        "duree": 70,
-        "format": "35 mm"
+        "annee": 1932,
+        "duree": 85,
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f79229"
+    "hashEvenement": "f51492"
   },
   {
     "idSeance": 200525,
@@ -9004,8 +9002,8 @@
     "hashEvenement": "f100321"
   },
   {
-    "idSeance": 205909,
-    "idEvenement": 34679,
+    "idSeance": 205921,
+    "idEvenement": 34456,
     "dateHeure": "2026-02-21T19:00:00",
     "salle": "JE",
     "cycle": [
@@ -9016,67 +9014,22 @@
     ],
     "items": [
       {
-        "idFilm": 79205,
-        "titre": "Trilby",
+        "idFilm": 51505,
+        "titre": "Gaîtés de l'escadron",
+        "art": "Les",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1915,
-        "duree": 59,
-        "format": "16 mm"
+        "annee": 1932,
+        "duree": 85,
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f79205"
-  },
-  {
-    "idSeance": 205910,
-    "idEvenement": 34978,
-    "dateHeure": "2026-02-21T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Maurice Tourneur",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 37350,
-        "titre": "Une pauvre petite fille riche",
-        "realisateurs": "Maurice Tourneur",
-        "annee": 1917,
-        "duree": 65,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f37350"
-  },
-  {
-    "idSeance": 205873,
-    "idEvenement": 34604,
-    "dateHeure": "2026-02-21T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le film policier asiatique, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 104597,
-        "titre": "Chaser",
-        "art": "The",
-        "realisateurs": "Na Hong-jin",
-        "annee": 2008,
-        "duree": 123,
-        "version": "VOSTF"
-      }
-    ],
-    "hashEvenement": "f104597"
+    "hashEvenement": "f51505"
   },
   {
     "idSeance": 200530,
     "idEvenement": 34547,
-    "dateHeure": "2026-02-21T21:30:00",
+    "dateHeure": "2026-02-21T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9096,6 +9049,54 @@
       }
     ],
     "hashEvenement": "f104129"
+  },
+  {
+    "idSeance": 205923,
+    "idEvenement": 34457,
+    "dateHeure": "2026-02-21T21:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Maurice Tourneur",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51493,
+        "titre": "Deux Orphelines",
+        "art": "Les",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1933,
+        "duree": 87,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f51493"
+  },
+  {
+    "idSeance": 205873,
+    "idEvenement": 34604,
+    "dateHeure": "2026-02-21T21:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le film policier asiatique, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 104597,
+        "titre": "Chaser",
+        "art": "The",
+        "realisateurs": "Na Hong-jin",
+        "annee": 2008,
+        "duree": 123,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f104597"
   },
   {
     "idSeance": 200542,
@@ -9147,8 +9148,8 @@
     "hashEvenement": "f66744"
   },
   {
-    "idSeance": 200546,
-    "idEvenement": 34446,
+    "idSeance": 205924,
+    "idEvenement": 34460,
     "dateHeure": "2026-02-22T15:00:00",
     "salle": "JE",
     "cycle": [
@@ -9159,16 +9160,16 @@
     ],
     "items": [
       {
-        "idFilm": 36069,
-        "titre": "Oiseau bleu",
-        "art": "L'",
+        "idFilm": 76759,
+        "titre": "Lidoire",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1918,
-        "duree": 74,
-        "format": "16 mm"
+        "annee": 1933,
+        "duree": 20,
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f36069"
+    "hashEvenement": "f76759"
   },
   {
     "idSeance": 200543,
@@ -9215,8 +9216,8 @@
     "hashEvenement": "f116760"
   },
   {
-    "idSeance": 205644,
-    "idEvenement": 34447,
+    "idSeance": 205926,
+    "idEvenement": 34461,
     "dateHeure": "2026-02-22T17:30:00",
     "salle": "JE",
     "cycle": [
@@ -9227,21 +9228,19 @@
     ],
     "items": [
       {
-        "idFilm": 35425,
-        "titre": "Papillon brisé",
+        "idFilm": 51459,
+        "titre": "Voleur",
         "art": "Le",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1919,
-        "duree": 60,
-        "format": "DCP",
-        "restauration": true
+        "annee": 1933,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35425"
+    "hashEvenement": "f51459"
   },
   {
-    "idSeance": 205645,
-    "idEvenement": 34448,
+    "idSeance": 205927,
+    "idEvenement": 34464,
     "dateHeure": "2026-02-22T19:00:00",
     "salle": "JE",
     "cycle": [
@@ -9252,15 +9251,15 @@
     ],
     "items": [
       {
-        "idFilm": 37363,
-        "titre": "Une victoire",
+        "idFilm": 51457,
+        "titre": "Samson",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1919,
-        "duree": 62,
-        "format": "35 mm"
+        "annee": 1936,
+        "duree": 88,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f37363"
+    "hashEvenement": "f51457"
   },
   {
     "idSeance": 205874,
@@ -9310,8 +9309,8 @@
     "hashEvenement": "f143490"
   },
   {
-    "idSeance": 205646,
-    "idEvenement": 34449,
+    "idSeance": 205928,
+    "idEvenement": 34463,
     "dateHeure": "2026-02-22T20:30:00",
     "salle": "JE",
     "cycle": [
@@ -9322,18 +9321,16 @@
     ],
     "items": [
       {
-        "idFilm": 79233,
-        "titre": "Bruyère blanche",
-        "art": "La",
+        "idFilm": 51509,
+        "titre": "Kœnigsmark",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1919,
-        "duree": 70,
-        "version": "VO",
-        "format": "DCP",
-        "restauration": true
+        "annee": 1935,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "Numérique"
       }
     ],
-    "hashEvenement": "f79233"
+    "hashEvenement": "f51509"
   },
   {
     "idSeance": 205762,
@@ -9472,28 +9469,27 @@
     "hashEvenement": "f131901"
   },
   {
-    "idSeance": 205911,
-    "idEvenement": 34979,
+    "idSeance": 205929,
+    "idEvenement": 34667,
     "dateHeure": "2026-02-25T18:30:00",
     "salle": "GF",
     "cycle": [
       [
         "Maurice Tourneur",
-        "Les films"
+        "Courts métrages"
       ]
     ],
     "items": [
       {
-        "idFilm": 79238,
-        "titre": "Foolish Matrons",
-        "art": "The",
-        "realisateurs": "Maurice Tourneur, Clarence Brown",
-        "annee": 1921,
-        "duree": 80,
+        "idFilm": 79206,
+        "titre": "Jimmy le mystérieux",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1915,
+        "duree": 88,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f79238"
+    "hashEvenement": "f79206"
   },
   {
     "idSeance": 205531,
@@ -9517,8 +9513,8 @@
     "hashEvenement": "c34741"
   },
   {
-    "idSeance": 205912,
-    "idEvenement": 34977,
+    "idSeance": 205930,
+    "idEvenement": 34679,
     "dateHeure": "2026-02-25T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -9529,15 +9525,15 @@
     ],
     "items": [
       {
-        "idFilm": 155541,
-        "titre": "Phalène blanche",
-        "art": "La",
+        "idFilm": 79205,
+        "titre": "Trilby",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1924,
-        "format": "DCP"
+        "annee": 1915,
+        "duree": 59,
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f155541"
+    "hashEvenement": "f79205"
   },
   {
     "idSeance": 205859,
@@ -9667,8 +9663,8 @@
     "hashEvenement": "f139245"
   },
   {
-    "idSeance": 205913,
-    "idEvenement": 34451,
+    "idSeance": 205931,
+    "idEvenement": 34445,
     "dateHeure": "2026-02-27T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -9679,15 +9675,15 @@
     ],
     "items": [
       {
-        "idFilm": 51504,
-        "titre": "Équipage",
-        "art": "L'",
+        "idFilm": 79219,
+        "titre": "A Girl's Folly",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1928,
+        "annee": 1917,
+        "duree": 65,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51504"
+    "hashEvenement": "f79219"
   },
   {
     "idSeance": 200631,
@@ -9695,10 +9691,6 @@
     "dateHeure": "2026-02-27T18:30:00",
     "salle": "JE",
     "cycle": [
-      [
-        "Parlons cinéma... avec Pascal Bonitzer",
-        "Pascal Bonitzer scénariste"
-      ],
       [
         "Pascal Bonitzer",
         "Pascal Bonitzer scénariste"
@@ -9717,8 +9709,8 @@
     "hashEvenement": "f51227"
   },
   {
-    "idSeance": 205914,
-    "idEvenement": 34960,
+    "idSeance": 205932,
+    "idEvenement": 34978,
     "dateHeure": "2026-02-27T20:45:00",
     "salle": "GF",
     "cycle": [
@@ -9729,15 +9721,15 @@
     ],
     "items": [
       {
-        "idFilm": 39286,
-        "titre": "Navire des hommes perdus",
-        "art": "Le",
+        "idFilm": 37350,
+        "titre": "Une pauvre petite fille riche",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1929,
+        "annee": 1917,
+        "duree": 65,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f39286"
+    "hashEvenement": "f37350"
   },
   {
     "idSeance": 205861,
@@ -9745,10 +9737,6 @@
     "dateHeure": "2026-02-27T20:45:00",
     "salle": "JE",
     "cycle": [
-      [
-        "Parlons cinéma... avec Pascal Bonitzer",
-        "Pascal Bonitzer scénariste"
-      ],
       [
         "Pascal Bonitzer",
         "Pascal Bonitzer scénariste"
@@ -9814,8 +9802,8 @@
     "hashEvenement": "f117664"
   },
   {
-    "idSeance": 200715,
-    "idEvenement": 34457,
+    "idSeance": 205933,
+    "idEvenement": 34515,
     "dateHeure": "2026-02-28T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -9826,16 +9814,16 @@
     ],
     "items": [
       {
-        "idFilm": 51493,
-        "titre": "Deux Orphelines",
-        "art": "Les",
+        "idFilm": 37359,
+        "titre": "Fille d'Écosse",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1933,
-        "duree": 87,
-        "format": "35 mm"
+        "annee": 1917,
+        "duree": 84,
+        "version": "VO",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f51493"
+    "hashEvenement": "f37359"
   },
   {
     "idSeance": 205862,
@@ -9859,29 +9847,28 @@
     "hashEvenement": "f49426"
   },
   {
-    "idSeance": 200716,
-    "idEvenement": 34456,
+    "idSeance": 205934,
+    "idEvenement": 34673,
     "dateHeure": "2026-02-28T17:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Maurice Tourneur",
-        "Les films"
+        "Courts métrages"
       ]
     ],
     "items": [
       {
-        "idFilm": 51505,
-        "titre": "Gaîtés de l'escadron",
-        "art": "Les",
+        "idFilm": 79229,
+        "titre": "Éternelle Tentatrice",
+        "art": "L'",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1932,
-        "duree": 85,
-        "format": "DCP",
-        "restauration": true
+        "annee": 1918,
+        "duree": 70,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51505"
+    "hashEvenement": "f79229"
   },
   {
     "idSeance": 205863,
@@ -9889,10 +9876,6 @@
     "dateHeure": "2026-02-28T17:30:00",
     "salle": "JE",
     "cycle": [
-      [
-        "Parlons cinéma... avec Pascal Bonitzer",
-        "Pascal Bonitzer scénariste"
-      ],
       [
         "Pascal Bonitzer",
         "Pascal Bonitzer scénariste"
@@ -9935,9 +9918,9 @@
     "hashEvenement": "f120018"
   },
   {
-    "idSeance": 200717,
-    "idEvenement": 34454,
-    "dateHeure": "2026-02-28T19:00:00",
+    "idSeance": 205935,
+    "idEvenement": 34446,
+    "dateHeure": "2026-02-28T18:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9947,16 +9930,16 @@
     ],
     "items": [
       {
-        "idFilm": 51492,
-        "titre": "Au nom de la loi",
+        "idFilm": 36069,
+        "titre": "Oiseau bleu",
+        "art": "L'",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1932,
-        "duree": 85,
-        "format": "DCP",
-        "restauration": true
+        "annee": 1918,
+        "duree": 74,
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f51492"
+    "hashEvenement": "f36069"
   },
   {
     "idSeance": 205864,
@@ -9964,10 +9947,6 @@
     "dateHeure": "2026-02-28T20:15:00",
     "salle": "JE",
     "cycle": [
-      [
-        "Parlons cinéma... avec Pascal Bonitzer",
-        "Pascal Bonitzer scénariste"
-      ],
       [
         "Pascal Bonitzer",
         "Pascal Bonitzer scénariste"
@@ -9984,6 +9963,32 @@
       }
     ],
     "hashEvenement": "f101170"
+  },
+  {
+    "idSeance": 205936,
+    "idEvenement": 34449,
+    "dateHeure": "2026-02-28T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Maurice Tourneur",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79233,
+        "titre": "Bruyère blanche",
+        "art": "La",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1919,
+        "duree": 70,
+        "version": "VO",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f79233"
   },
   {
     "idSeance": 200729,
@@ -10056,8 +10061,8 @@
     "hashEvenement": "f155477"
   },
   {
-    "idSeance": 205915,
-    "idEvenement": 34452,
+    "idSeance": 205937,
+    "idEvenement": 34447,
     "dateHeure": "2026-03-01T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -10068,21 +10073,22 @@
     ],
     "items": [
       {
-        "idFilm": 51491,
-        "titre": "Accusée, levez-vous !",
+        "idFilm": 35425,
+        "titre": "Papillon brisé",
+        "art": "Le",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1930,
-        "duree": 102,
-        "format": "35 mm",
+        "annee": 1919,
+        "duree": 60,
+        "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f51491"
+    "hashEvenement": "f35425"
   },
   {
-    "idSeance": 205916,
-    "idEvenement": 34453,
-    "dateHeure": "2026-03-01T19:30:00",
+    "idSeance": 205938,
+    "idEvenement": 34448,
+    "dateHeure": "2026-03-01T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -10092,37 +10098,62 @@
     ],
     "items": [
       {
-        "idFilm": 51511,
-        "titre": "Maison de danses",
+        "idFilm": 37363,
+        "titre": "Une victoire",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1931,
-        "format": "DCP",
-        "restauration": true
+        "annee": 1919,
+        "duree": 62,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51511"
+    "hashEvenement": "f37363"
   },
   {
-    "idSeance": 200744,
-    "idEvenement": 34807,
+    "idSeance": 205939,
+    "idEvenement": 34979,
+    "dateHeure": "2026-03-01T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Maurice Tourneur",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79238,
+        "titre": "Foolish Matrons",
+        "art": "The",
+        "realisateurs": "Maurice Tourneur, Clarence Brown",
+        "annee": 1921,
+        "duree": 80,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f79238"
+  },
+  {
+    "idSeance": 205940,
+    "idEvenement": 34977,
     "dateHeure": "2026-03-02T18:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Maurice Tourneur",
-        "Autour de Maurice Tourneur"
+        "Les films"
       ]
     ],
-    "mention": "Séance présentée par Christine Leteux, Pierre Filmon, Hugues Peysson, Stephen Horne et Benoît Verdier",
     "items": [
       {
-        "idFilm": 155507,
-        "titre": "Maurice Tourneur, tisseur de rêves",
-        "realisateurs": "Pierre Filmon",
-        "annee": 2023
+        "idFilm": 155541,
+        "titre": "Phalène blanche",
+        "art": "La",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1924,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f155507"
+    "hashEvenement": "f155541"
   },
   {
     "idSeance": 200747,
@@ -10165,8 +10196,8 @@
     "hashEvenement": "f155471f155472f155435"
   },
   {
-    "idSeance": 200745,
-    "idEvenement": 34461,
+    "idSeance": 205941,
+    "idEvenement": 34451,
     "dateHeure": "2026-03-02T20:00:00",
     "salle": "GF",
     "cycle": [
@@ -10177,15 +10208,15 @@
     ],
     "items": [
       {
-        "idFilm": 51459,
-        "titre": "Voleur",
-        "art": "Le",
+        "idFilm": 51504,
+        "titre": "Équipage",
+        "art": "L'",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1933,
+        "annee": 1928,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51459"
+    "hashEvenement": "f51504"
   },
   {
     "idSeance": 200776,
@@ -10284,6 +10315,56 @@
     "hashEvenement": "f51508"
   },
   {
+    "idSeance": 200818,
+    "idEvenement": 34441,
+    "dateHeure": "2026-03-05T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Maurice Tourneur",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51408,
+        "titre": "Figures de cire",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1914,
+        "duree": 10,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 37340,
+        "titre": "Prunella",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1918,
+        "duree": 30,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 79191,
+        "titre": "Bergère d'Ivry",
+        "art": "La",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1913,
+        "duree": 20,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 63352,
+        "titre": "Friquet",
+        "art": "Le",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1914,
+        "duree": 27,
+        "version": "Autres",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f51408f37340f79191f63352"
+  },
+  {
     "idSeance": 205834,
     "idEvenement": 34964,
     "dateHeure": "2026-03-05T19:00:00",
@@ -10338,6 +10419,38 @@
       }
     ],
     "hashEvenement": "f52519"
+  },
+  {
+    "idSeance": 205945,
+    "idEvenement": 34660,
+    "dateHeure": "2026-03-05T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Maurice Tourneur",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 79203,
+        "titre": "Fille de pirates",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1914,
+        "duree": 54,
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 79220,
+        "titre": "Casaque verte",
+        "art": "La",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1917,
+        "duree": 48,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f79203f79220"
   },
   {
     "idSeance": 200858,
@@ -10694,6 +10807,29 @@
     "hashEvenement": "f38990"
   },
   {
+    "idSeance": 205942,
+    "idEvenement": 34458,
+    "dateHeure": "2026-03-09T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Maurice Tourneur",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 75882,
+        "titre": "Obsession",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1934,
+        "duree": 35,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f75882"
+  },
+  {
     "idSeance": 205853,
     "idEvenement": 34975,
     "dateHeure": "2026-03-09T19:00:00",
@@ -10704,6 +10840,7 @@
         "Isabel Pagliai"
       ]
     ],
+    "mention": "Séance suivie d'une discussion avec Isabel Pagliai",
     "items": [
       {
         "idFilm": 155540,
@@ -10715,5 +10852,26 @@
       }
     ],
     "hashEvenement": "f155540"
+  },
+  {
+    "idSeance": 205943,
+    "idEvenement": 34807,
+    "dateHeure": "2026-03-09T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Maurice Tourneur",
+        "Autour de Maurice Tourneur"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155507,
+        "titre": "Maurice Tourneur, tisseur de rêves",
+        "realisateurs": "Pierre Filmon",
+        "annee": 2023
+      }
+    ],
+    "hashEvenement": "f155507"
   }
 ]

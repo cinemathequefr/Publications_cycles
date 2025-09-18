@@ -27,10 +27,10 @@
           ],
           "seances": [
             {
-              "idSeance": 205720,
-              "dateHeure": "2025-12-08T19:00:00",
+              "idSeance": 205925,
+              "dateHeure": "2025-12-15T19:00:00",
               "idSalle": "JE",
-              "mention": "Séance présentée par Johann Lurf"
+              "mention": "Séance suivie d'une discussion avec Johann Lurf"
             }
           ]
         }
@@ -92,10 +92,10 @@
           ],
           "seances": [
             {
-              "idSeance": 198690,
-              "dateHeure": "2025-12-15T19:00:00",
+              "idSeance": 205922,
+              "dateHeure": "2025-12-08T19:00:00",
               "idSalle": "JE",
-              "mention": "Séance présentée par Jacques Kermabon et Xavier Kawa-Topor"
+              "mention": "Séance présentée par Jacques Kermabon"
             }
           ]
         }
@@ -492,7 +492,8 @@
             {
               "idSeance": 205853,
               "dateHeure": "2026-03-09T19:00:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Isabel Pagliai"
             }
           ]
         }
@@ -501,6 +502,11 @@
   ],
   "syntheseAction": {
     "Discussions": [
+      {
+        "titreFilms": "Twelve Tales Told / Star",
+        "mention": "avec Johann Lurf",
+        "dateHeure": "2025-12-15T19:00:00"
+      },
       {
         "titreFilms": "Cœur Bleu",
         "mention": "avec Samuel Suffren",
@@ -530,18 +536,18 @@
         "titreFilms": "Les Fleurs blanches et la lune / Et quand l'aube viendra / Bel companho",
         "mention": "avec David Ingels",
         "dateHeure": "2026-03-02T19:00:00"
-      }
-    ],
-    "Séances présentées": [
-      {
-        "titreFilms": "Twelve Tales Told / Star",
-        "mention": "par Johann Lurf",
-        "dateHeure": "2025-12-08T19:00:00"
       },
       {
+        "titreFilms": "Fantaisie",
+        "mention": "avec Isabel Pagliai",
+        "dateHeure": "2026-03-09T19:00:00"
+      }
+    ],
+    "Séance présentée": [
+      {
         "titreFilms": "Les Bottes de la nuit / La Jeune Fille qui pleurait des perles / Luna Rossa / Sulaimani",
-        "mention": "par Jacques Kermabon et Xavier Kawa-Topor",
-        "dateHeure": "2025-12-15T19:00:00"
+        "mention": "par Jacques Kermabon",
+        "dateHeure": "2025-12-08T19:00:00"
       }
     ]
   }
