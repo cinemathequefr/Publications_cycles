@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Alexandre Dovjenko (14)
+## Alexandre Dovjenko (16)
 
   * Adieu Amérique !  
   * Aerograd  
@@ -8,10 +8,12 @@
   * Bataille pour notre Ukraine soviétique (La)  
   * Bucovine, terre ukrainienne  
   * Chtchors  
+  * Desna enchantée (La)  
   * Ivan  
   * Libération (La)  
   * Mitchourine  
   * Petit Fruit de l'amour (Le)  
+  * Poème de la mer (Le)  
   * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
   * Victoire en Ukraine (La)  
