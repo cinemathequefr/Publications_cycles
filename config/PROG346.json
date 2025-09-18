@@ -14,9 +14,9 @@
           "tri": 2
         },
         {
-          "titre": "Le 40e anniversaire de « Shoah »",
+          "titre": "40<sup>e</sup> anniversaire de « Shoah »",
           "cats": [4017],
-          "tri": 2
+          "tri": 4
         },
         {
           "titre": "[e/a titre sous-cycle]",
@@ -35,8 +35,13 @@
       "titreCycle": "Cinéma bis",
       "isReg": true,
       "sousCycles": [
-        { "titre": "Polars US des années 80", "cats": [3979], "tri": 4 },
         { "titre": "Doris Wishman, réalisatrice", "cats": [3991], "tri": 4 },
+        {
+          "titre": "Polars US des années 80",
+          "cats": [3979],
+          "tri": 4,
+          "printNoMT": true
+        },
         { "titre": "Relecture moderne des mythes", "cats": [3992], "tri": 4 }
       ]
     },

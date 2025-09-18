@@ -87,10 +87,14 @@
 
   * Reine de Broadway (La)
 
-## Cinéma bis (2)
+## Cinéma bis (6)
 
   * Bad Girls Go to Hell  
-  * Supernichons contre mafia
+  * Blackenstein, the Black Frankenstein  
+  * Hanno cambiato faccia  
+  * Nuit des juges (La)  
+  * Supernichons contre mafia  
+  * Un été pourri
 
 ## David Gordon Green (21)
 
@@ -157,7 +161,7 @@
   * Parfum de femme  
   * Trois amigos
 
-## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (15)
+## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (16)
 
   * À nous la liberté  
   * Atalante (L')  
@@ -165,6 +169,7 @@
   * Bas-fonds (Les)  
   * Beau Serge (Le)  
   * Dame du vendredi (La)  
+  * Haute Pègre  
   * Indiscrétions  
   * Marie pour mémoire  
   * Muriel ou le temps d'un retour  
@@ -479,7 +484,7 @@
   * Cercle rouge (Le)  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
-  * Shoah  
+  * Shoah (deuxième époque)  
   * Shoah (première époque)  
   * Sobibor, 14 octobre 1943, 16 heures  
   * Un vivant qui passe
