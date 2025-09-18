@@ -5863,7 +5863,7 @@
   {
     "idSeance": 205739,
     "idEvenement": 34843,
-    "dateHeure": "2026-01-23T16:00:00",
+    "dateHeure": "2026-01-23T16:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5913,7 +5913,7 @@
     "idSeance": 205867,
     "idEvenement": 34639,
     "dateHeure": "2026-01-23T19:00:00",
-    "salle": "JE",
+    "salle": "GF",
     "cycle": [
       [
         "Cinéma bis",
@@ -5962,7 +5962,7 @@
     "idSeance": 205868,
     "idEvenement": 34554,
     "dateHeure": "2026-01-23T21:15:00",
-    "salle": "JE",
+    "salle": "GF",
     "cycle": [
       [
         "Cinéma bis",
@@ -5984,49 +5984,50 @@
     "hashEvenement": "f32444"
   },
   {
-    "idSeance": 205598,
-    "idEvenement": 34811,
+    "idSeance": 205599,
+    "idEvenement": 34730,
     "dateHeure": "2026-01-24T14:30:00",
     "salle": "HL",
     "cycle": [
       [
-        "Valérie Donzelli",
+        "Alexandre Dovjenko",
         "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idConf": 34811,
-        "titre": "Valérie Donzelli par Valérie Donzelli, une leçon de cinéma",
-        "typeConference": "Leçon de cinéma",
-        "duree": 75
+        "idConf": 34730,
+        "titre": "Dialogue avec ???",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "c34811"
+    "hashEvenement": "c34730"
   },
   {
-    "idSeance": 205605,
-    "idEvenement": 34413,
-    "dateHeure": "2026-01-24T14:45:00",
+    "idSeance": 205897,
+    "idEvenement": 34948,
+    "dateHeure": "2026-01-24T15:00:00",
     "salle": "GF",
     "cycle": [
       [
-        "André De Toth",
-        "Les films"
+        "Alexandre Dovjenko",
+        "Dovjenko scénariste"
       ]
     ],
     "items": [
       {
-        "idFilm": 80313,
-        "titre": "Eaux dormantes",
-        "realisateurs": "André De Toth",
-        "annee": 1944,
-        "duree": 90,
+        "idFilm": 40234,
+        "titre": "Poème de la mer",
+        "art": "Le",
+        "realisateurs": "Ioulia Solntseva",
+        "annee": 1958,
+        "duree": 110,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f80313"
+    "hashEvenement": "f40234"
   },
   {
     "idSeance": 205603,
@@ -6097,6 +6098,30 @@
     "hashEvenement": "f155534f65172"
   },
   {
+    "idSeance": 205896,
+    "idEvenement": 34506,
+    "dateHeure": "2026-01-24T17:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Alexandre Dovjenko",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40232,
+        "titre": "Ivan",
+        "realisateurs": "Alexandre Dovjenko",
+        "annee": 1932,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f40232"
+  },
+  {
     "idSeance": 205602,
     "idEvenement": 34499,
     "dateHeure": "2026-01-24T19:00:00",
@@ -6121,10 +6146,10 @@
     "hashEvenement": "f40488"
   },
   {
-    "idSeance": 199783,
-    "idEvenement": 34422,
-    "dateHeure": "2026-01-24T20:00:00",
-    "salle": "JE",
+    "idSeance": 205605,
+    "idEvenement": 34413,
+    "dateHeure": "2026-01-24T19:30:00",
+    "salle": "GF",
     "cycle": [
       [
         "André De Toth",
@@ -6133,17 +6158,16 @@
     ],
     "items": [
       {
-        "idFilm": 80315,
-        "titre": "Furie des tropiques",
-        "art": "La",
+        "idFilm": 80313,
+        "titre": "Eaux dormantes",
         "realisateurs": "André De Toth",
-        "annee": 1949,
-        "duree": 83,
+        "annee": 1944,
+        "duree": 90,
         "version": "VOSTF",
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f80315"
+    "hashEvenement": "f80313"
   },
   {
     "idSeance": 199794,
@@ -6170,27 +6194,6 @@
     "hashEvenement": "f40231"
   },
   {
-    "idSeance": 205599,
-    "idEvenement": 34730,
-    "dateHeure": "2026-01-25T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 34730,
-        "titre": "Dialogue avec ???",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c34730"
-  },
-  {
     "idSeance": 199799,
     "idEvenement": 34870,
     "dateHeure": "2026-01-25T15:00:00",
@@ -6213,6 +6216,31 @@
       }
     ],
     "hashEvenement": "f49035"
+  },
+  {
+    "idSeance": 205902,
+    "idEvenement": 34432,
+    "dateHeure": "2026-01-25T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "André De Toth",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 80307,
+        "titre": "Noces de Toprin",
+        "art": "Les",
+        "realisateurs": "André De Toth",
+        "annee": 1939,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f80307"
   },
   {
     "idSeance": 199795,
@@ -6239,9 +6267,9 @@
     "hashEvenement": "f53333"
   },
   {
-    "idSeance": 199810,
+    "idSeance": 205903,
     "idEvenement": 34414,
-    "dateHeure": "2026-01-26T18:15:00",
+    "dateHeure": "2026-01-25T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6262,6 +6290,30 @@
       }
     ],
     "hashEvenement": "f80310"
+  },
+  {
+    "idSeance": 205898,
+    "idEvenement": 34640,
+    "dateHeure": "2026-01-26T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Alexandre Dovjenko",
+        "Documentaires"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 65171,
+        "titre": "Bataille pour notre Ukraine soviétique",
+        "art": "La",
+        "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
+        "annee": 1943,
+        "duree": 74,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f65171"
   },
   {
     "idSeance": 205825,
@@ -6296,29 +6348,29 @@
     "hashEvenement": "f155473f155474"
   },
   {
-    "idSeance": 199811,
-    "idEvenement": 34432,
+    "idSeance": 205899,
+    "idEvenement": 34512,
     "dateHeure": "2026-01-26T20:15:00",
     "salle": "GF",
     "cycle": [
       [
-        "André De Toth",
-        "Les films"
+        "Alexandre Dovjenko",
+        "Documentaires"
       ]
     ],
     "items": [
       {
-        "idFilm": 80307,
-        "titre": "Noces de Toprin",
-        "art": "Les",
-        "realisateurs": "André De Toth",
-        "annee": 1939,
-        "duree": 90,
+        "idFilm": 65176,
+        "titre": "Victoire en Ukraine",
+        "art": "La",
+        "realisateurs": "Alexandre Dovjenko",
+        "annee": 1945,
+        "duree": 65,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "Vidéo"
       }
     ],
-    "hashEvenement": "f80307"
+    "hashEvenement": "f65176"
   },
   {
     "idSeance": 199841,
@@ -6345,29 +6397,6 @@
     "hashEvenement": "f71812"
   },
   {
-    "idSeance": 205685,
-    "idEvenement": 34507,
-    "dateHeure": "2026-01-28T18:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65170,
-        "titre": "Adieu Amérique !",
-        "realisateurs": "Alexandre Dovjenko",
-        "annee": 1951,
-        "duree": 120,
-        "version": "VOSTF"
-      }
-    ],
-    "hashEvenement": "f65170"
-  },
-  {
     "idSeance": 199846,
     "idEvenement": 34415,
     "dateHeure": "2026-01-28T18:30:00",
@@ -6390,6 +6419,30 @@
       }
     ],
     "hashEvenement": "f80309"
+  },
+  {
+    "idSeance": 205900,
+    "idEvenement": 34510,
+    "dateHeure": "2026-01-28T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Alexandre Dovjenko",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40233,
+        "titre": "Mitchourine",
+        "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
+        "annee": 1948,
+        "duree": 100,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f40233"
   },
   {
     "idSeance": 205749,
@@ -6437,29 +6490,27 @@
     "hashEvenement": "f80312"
   },
   {
-    "idSeance": 205878,
-    "idEvenement": 34948,
-    "dateHeure": "2026-01-28T20:30:00",
+    "idSeance": 205901,
+    "idEvenement": 34507,
+    "dateHeure": "2026-01-28T20:45:00",
     "salle": "JE",
     "cycle": [
       [
         "Alexandre Dovjenko",
-        "Dovjenko scénariste"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 40234,
-        "titre": "Poème de la mer",
-        "art": "Le",
-        "realisateurs": "Ioulia Solntseva",
-        "annee": 1958,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "idFilm": 65170,
+        "titre": "Adieu Amérique !",
+        "realisateurs": "Alexandre Dovjenko",
+        "annee": 1951,
+        "duree": 120,
+        "version": "VOSTF"
       }
     ],
-    "hashEvenement": "f40234"
+    "hashEvenement": "f65170"
   },
   {
     "idSeance": 205741,
@@ -6511,30 +6562,6 @@
     "hashEvenement": "f56006"
   },
   {
-    "idSeance": 205686,
-    "idEvenement": 34640,
-    "dateHeure": "2026-01-29T18:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Documentaires"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65171,
-        "titre": "Bataille pour notre Ukraine soviétique",
-        "art": "La",
-        "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
-        "annee": 1943,
-        "duree": 74,
-        "version": "VOSTF"
-      }
-    ],
-    "hashEvenement": "f65171"
-  },
-  {
     "idSeance": 205522,
     "idEvenement": 34731,
     "dateHeure": "2026-01-29T19:00:00",
@@ -6579,30 +6606,6 @@
       }
     ],
     "hashEvenement": "f45433"
-  },
-  {
-    "idSeance": 199883,
-    "idEvenement": 34506,
-    "dateHeure": "2026-01-29T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 40232,
-        "titre": "Ivan",
-        "realisateurs": "Alexandre Dovjenko",
-        "annee": 1932,
-        "duree": 86,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f40232"
   },
   {
     "idSeance": 199878,
@@ -6700,31 +6703,6 @@
     "hashEvenement": "f155460"
   },
   {
-    "idSeance": 205872,
-    "idEvenement": 34512,
-    "dateHeure": "2026-01-30T18:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Documentaires"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 65176,
-        "titre": "Victoire en Ukraine",
-        "art": "La",
-        "realisateurs": "Alexandre Dovjenko",
-        "annee": 1945,
-        "duree": 65,
-        "version": "VOSTF",
-        "format": "Vidéo"
-      }
-    ],
-    "hashEvenement": "f65176"
-  },
-  {
     "idSeance": 199922,
     "idEvenement": 34421,
     "dateHeure": "2026-01-30T20:00:00",
@@ -6749,28 +6727,29 @@
     "hashEvenement": "f31661"
   },
   {
-    "idSeance": 205687,
-    "idEvenement": 34510,
-    "dateHeure": "2026-01-30T20:30:00",
-    "salle": "JE",
+    "idSeance": 205719,
+    "idEvenement": 34489,
+    "dateHeure": "2026-01-30T21:00:00",
+    "salle": "GF",
     "cycle": [
       [
-        "Alexandre Dovjenko",
+        "Márta Mészáros",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 40233,
-        "titre": "Mitchourine",
-        "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
-        "annee": 1948,
-        "duree": 100,
-        "version": "VO",
-        "format": "35 mm"
+        "idFilm": 39859,
+        "titre": "Journal à mes enfants",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1984,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f40233"
+    "hashEvenement": "f39859"
   },
   {
     "idSeance": 199963,
@@ -6826,30 +6805,6 @@
       }
     ],
     "hashEvenement": "f40931c34812"
-  },
-  {
-    "idSeance": 199970,
-    "idEvenement": 34951,
-    "dateHeure": "2026-01-31T16:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Dovjenko scénariste"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 59239,
-        "titre": "Desna enchantée",
-        "art": "La",
-        "realisateurs": "Ioulia Solntseva",
-        "annee": 1964,
-        "duree": 101,
-        "format": "70 mm"
-      }
-    ],
-    "hashEvenement": "f59239"
   },
   {
     "idSeance": 199964,
@@ -6935,6 +6890,31 @@
       }
     ],
     "hashEvenement": "f45428"
+  },
+  {
+    "idSeance": 205892,
+    "idEvenement": 34488,
+    "dateHeure": "2026-01-31T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 108066,
+        "titre": "Journal à mes amours",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1987,
+        "duree": 128,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f108066"
   },
   {
     "idSeance": 199981,
@@ -7218,6 +7198,29 @@
     "hashEvenement": "f110572"
   },
   {
+    "idSeance": 200035,
+    "idEvenement": 34498,
+    "dateHeure": "2026-02-04T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 77596,
+        "titre": "En cours de route",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1979,
+        "duree": 104,
+        "version": "STF"
+      }
+    ],
+    "hashEvenement": "f77596"
+  },
+  {
     "idSeance": 205886,
     "idEvenement": 34798,
     "dateHeure": "2026-02-04T20:45:00",
@@ -7240,6 +7243,30 @@
       }
     ],
     "hashEvenement": "f113638"
+  },
+  {
+    "idSeance": 205893,
+    "idEvenement": 34487,
+    "dateHeure": "2026-02-04T20:45:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 127054,
+        "titre": "Hongrie en 2011 : Bout d'essai",
+        "art": "La",
+        "realisateurs": "Miklós Jancsó, Benedek Fliegauf, Péter Forgács, [etc.]",
+        "annee": 2011,
+        "duree": 75,
+        "version": "STF"
+      }
+    ],
+    "hashEvenement": "f127054"
   },
   {
     "idSeance": 205751,
@@ -7289,27 +7316,6 @@
     "hashEvenement": "c34767"
   },
   {
-    "idSeance": 205641,
-    "idEvenement": 34488,
-    "dateHeure": "2026-02-05T18:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Márta Mészáros",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 108066,
-        "titre": "Journal à mes amours",
-        "realisateurs": "Márta Mészáros",
-        "annee": 1987
-      }
-    ],
-    "hashEvenement": "f108066"
-  },
-  {
     "idSeance": 205887,
     "idEvenement": 34801,
     "dateHeure": "2026-02-05T18:30:00",
@@ -7357,31 +7363,6 @@
     "hashEvenement": "f108190"
   },
   {
-    "idSeance": 200065,
-    "idEvenement": 34489,
-    "dateHeure": "2026-02-05T21:15:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Márta Mészáros",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 39859,
-        "titre": "Journal à mes enfants",
-        "realisateurs": "Márta Mészáros",
-        "annee": 1984,
-        "duree": 109,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f39859"
-  },
-  {
     "idSeance": 205888,
     "idEvenement": 34793,
     "dateHeure": "2026-02-05T21:15:00",
@@ -7403,32 +7384,9 @@
     "hashEvenement": "f132733"
   },
   {
-    "idSeance": 205889,
-    "idEvenement": 34794,
-    "dateHeure": "2026-02-06T14:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Valérie Donzelli",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 126862,
-        "titre": "Marguerite et Julien",
-        "realisateurs": "Valérie Donzelli",
-        "annee": 2014,
-        "duree": 110,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f126862"
-  },
-  {
     "idSeance": 205752,
     "idEvenement": 34822,
-    "dateHeure": "2026-02-06T16:30:00",
+    "dateHeure": "2026-02-06T16:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7448,6 +7406,29 @@
       }
     ],
     "hashEvenement": "f50877"
+  },
+  {
+    "idSeance": 205889,
+    "idEvenement": 34794,
+    "dateHeure": "2026-02-06T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Valérie Donzelli",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 126862,
+        "titre": "Marguerite et Julien",
+        "realisateurs": "Valérie Donzelli",
+        "annee": 2014,
+        "duree": 110,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f126862"
   },
   {
     "idSeance": 200157,
@@ -7492,31 +7473,6 @@
     "hashEvenement": "f155498f155499f155500"
   },
   {
-    "idSeance": 200110,
-    "idEvenement": 34492,
-    "dateHeure": "2026-02-06T18:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Márta Mészáros",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 148341,
-        "titre": "Journal pour mon père et ma mère",
-        "realisateurs": "Márta Mészáros",
-        "annee": 1990,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f148341"
-  },
-  {
     "idSeance": 200112,
     "idEvenement": 34759,
     "dateHeure": "2026-02-06T20:30:00",
@@ -7558,6 +7514,114 @@
     "hashEvenement": "f155501f155502f155503"
   },
   {
+    "idSeance": 200110,
+    "idEvenement": 34492,
+    "dateHeure": "2026-02-06T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 148341,
+        "titre": "Journal pour mon père et ma mère",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1990,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f148341"
+  },
+  {
+    "idSeance": 200151,
+    "idEvenement": 34795,
+    "dateHeure": "2026-02-07T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Valérie Donzelli",
+        "Les films"
+      ],
+      [
+        "Valérie Donzelli",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155504,
+        "titre": "Amour et les forêts",
+        "art": "L'",
+        "realisateurs": "Valérie Donzelli",
+        "annee": 2023,
+        "duree": 105,
+        "format": "DCP"
+      },
+      {
+        "idConf": 34811,
+        "titre": "Valérie Donzelli par Valérie Donzelli, une leçon de cinéma",
+        "typeConference": "Leçon de cinéma",
+        "duree": 75
+      }
+    ],
+    "hashEvenement": "f155504c34811"
+  },
+  {
+    "idSeance": 205895,
+    "idEvenement": 34905,
+    "dateHeure": "2026-02-07T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155521,
+        "titre": "Lettres de ma mère au camarade Staline",
+        "art": "Les",
+        "realisateurs": "Márta Mészáros",
+        "annee": 2015,
+        "duree": 52,
+        "version": "STF"
+      }
+    ],
+    "hashEvenement": "f155521"
+  },
+  {
+    "idSeance": 205904,
+    "idEvenement": 34422,
+    "dateHeure": "2026-02-07T16:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "André De Toth",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 80315,
+        "titre": "Furie des tropiques",
+        "art": "La",
+        "realisateurs": "André De Toth",
+        "annee": 1949,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f80315"
+  },
+  {
     "idSeance": 205717,
     "idEvenement": 34490,
     "dateHeure": "2026-02-07T17:30:00",
@@ -7584,6 +7648,55 @@
     "hashEvenement": "f150980"
   },
   {
+    "idSeance": 205906,
+    "idEvenement": 34420,
+    "dateHeure": "2026-02-07T18:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "André De Toth",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 127474,
+        "titre": "Westerner: School Day",
+        "art": "The",
+        "realisateurs": "André De Toth",
+        "annee": 1960,
+        "duree": 30,
+        "version": "VO",
+        "format": "Vidéo"
+      }
+    ],
+    "hashEvenement": "f127474"
+  },
+  {
+    "idSeance": 205908,
+    "idEvenement": 34696,
+    "dateHeure": "2026-02-07T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "André De Toth",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 58693,
+        "titre": "Capitaine Morgan",
+        "realisateurs": "Primo Zeglio",
+        "annee": 1960,
+        "duree": 105,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f58693"
+  },
+  {
     "idSeance": 205753,
     "idEvenement": 34495,
     "dateHeure": "2026-02-07T19:45:00",
@@ -7608,10 +7721,70 @@
     "hashEvenement": "f73752"
   },
   {
-    "idSeance": 205718,
+    "idSeance": 205894,
+    "idEvenement": 34898,
+    "dateHeure": "2026-02-08T14:45:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155516,
+        "titre": "Dernier Rapport sur Anna",
+        "art": "Le",
+        "realisateurs": "Márta Mészáros",
+        "annee": 2009,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 155463,
+        "titre": "In memoriam László Mészáros",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1969,
+        "duree": 14,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f155516f155463"
+  },
+  {
+    "idSeance": 205907,
+    "idEvenement": 34697,
+    "dateHeure": "2026-02-08T15:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "André De Toth",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45521,
+        "titre": "Mongols",
+        "art": "Les",
+        "realisateurs": "Leopoldo Savona, André De Toth",
+        "annee": 1961,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f45521"
+  },
+  {
+    "idSeance": 200172,
     "idEvenement": 34919,
-    "dateHeure": "2026-02-08T17:30:00",
-    "salle": "GF",
+    "dateHeure": "2026-02-08T17:15:00",
+    "salle": "JE",
     "cycle": [
       [
         "Márta Mészáros",
@@ -7632,28 +7805,50 @@
     "hashEvenement": "f155515"
   },
   {
-    "idSeance": 205754,
-    "idEvenement": 34479,
-    "dateHeure": "2026-02-08T19:45:00",
+    "idSeance": 205890,
+    "idEvenement": 34796,
+    "dateHeure": "2026-02-08T17:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Márta Mészáros",
+        "Valérie Donzelli",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 75414,
-        "titre": "Filles de la fortune",
-        "art": "Les",
-        "realisateurs": "Márta Mészáros",
-        "annee": 1999,
-        "duree": 114,
-        "version": "STF"
+        "idFilm": 143512,
+        "titre": "Notre Dame",
+        "realisateurs": "Valérie Donzelli",
+        "annee": 2018,
+        "duree": 98,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f75414"
+    "hashEvenement": "f143512"
+  },
+  {
+    "idSeance": 205891,
+    "idEvenement": 34800,
+    "dateHeure": "2026-02-08T19:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Valérie Donzelli",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155505,
+        "titre": "Rue du Conservatoire",
+        "realisateurs": "Valérie Donzelli",
+        "annee": 2024,
+        "duree": 80,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155505"
   },
   {
     "idSeance": 205755,
@@ -7785,6 +7980,30 @@
     "hashEvenement": "f45294"
   },
   {
+    "idSeance": 200220,
+    "idEvenement": 34479,
+    "dateHeure": "2026-02-11T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 75414,
+        "titre": "Filles de la fortune",
+        "art": "Les",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1999,
+        "duree": 114,
+        "version": "STF"
+      }
+    ],
+    "hashEvenement": "f75414"
+  },
+  {
     "idSeance": 205721,
     "idEvenement": 34589,
     "dateHeure": "2026-02-11T20:00:00",
@@ -7807,6 +8026,28 @@
       }
     ],
     "hashEvenement": "f155477"
+  },
+  {
+    "idSeance": 200221,
+    "idEvenement": 34900,
+    "dateHeure": "2026-02-11T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155517,
+        "titre": "Trois dates",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1998,
+        "version": "STF"
+      }
+    ],
+    "hashEvenement": "f155517"
   },
   {
     "idSeance": 205664,
@@ -8028,6 +8269,54 @@
     "hashEvenement": "f57559"
   },
   {
+    "idSeance": 200341,
+    "idEvenement": 34497,
+    "dateHeure": "2026-02-14T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33834,
+        "titre": "Une mère, une fille",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1981,
+        "duree": 90,
+        "version": "STF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f33834"
+  },
+  {
+    "idSeance": 200342,
+    "idEvenement": 34480,
+    "dateHeure": "2026-02-14T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 117870,
+        "titre": "Pays des mirages",
+        "art": "Le",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1983,
+        "duree": 88,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f117870"
+  },
+  {
     "idSeance": 200338,
     "idEvenement": 34593,
     "dateHeure": "2026-02-14T18:30:00",
@@ -8048,6 +8337,29 @@
       }
     ],
     "hashEvenement": "f148933"
+  },
+  {
+    "idSeance": 200343,
+    "idEvenement": 34902,
+    "dateHeure": "2026-02-14T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155518,
+        "titre": "Bye bye chaperon rouge",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1989,
+        "duree": 84,
+        "version": "VOSTF"
+      }
+    ],
+    "hashEvenement": "f155518"
   },
   {
     "idSeance": 200339,
@@ -8121,6 +8433,30 @@
     "hashEvenement": "f148455"
   },
   {
+    "idSeance": 200361,
+    "idEvenement": 34482,
+    "dateHeure": "2026-02-15T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41015,
+        "titre": "Elles deux",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1977,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f41015"
+  },
+  {
     "idSeance": 200357,
     "idEvenement": 34599,
     "dateHeure": "2026-02-15T19:45:00",
@@ -8143,6 +8479,30 @@
       }
     ],
     "hashEvenement": "f92666"
+  },
+  {
+    "idSeance": 200362,
+    "idEvenement": 34493,
+    "dateHeure": "2026-02-15T20:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40931,
+        "titre": "Neuf mois",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1976,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f40931"
   },
   {
     "idSeance": 200369,
@@ -8644,25 +9004,50 @@
     "hashEvenement": "f100321"
   },
   {
-    "idSeance": 205643,
-    "idEvenement": 34669,
+    "idSeance": 205909,
+    "idEvenement": 34679,
     "dateHeure": "2026-02-21T19:00:00",
     "salle": "JE",
     "cycle": [
       [
         "Maurice Tourneur",
-        "Courts métrages"
+        "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 79230,
-        "titre": "Sporting Life",
+        "idFilm": 79205,
+        "titre": "Trilby",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1918
+        "annee": 1915,
+        "duree": 59,
+        "format": "16 mm"
       }
     ],
-    "hashEvenement": "f79230"
+    "hashEvenement": "f79205"
+  },
+  {
+    "idSeance": 205910,
+    "idEvenement": 34978,
+    "dateHeure": "2026-02-21T20:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Maurice Tourneur",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 37350,
+        "titre": "Une pauvre petite fille riche",
+        "realisateurs": "Maurice Tourneur",
+        "annee": 1917,
+        "duree": 65,
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f37350"
   },
   {
     "idSeance": 205873,
@@ -9087,8 +9472,8 @@
     "hashEvenement": "f131901"
   },
   {
-    "idSeance": 200594,
-    "idEvenement": 34453,
+    "idSeance": 205911,
+    "idEvenement": 34979,
     "dateHeure": "2026-02-25T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -9097,18 +9482,18 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Marién Gómez",
     "items": [
       {
-        "idFilm": 51511,
-        "titre": "Maison de danses",
-        "realisateurs": "Maurice Tourneur",
-        "annee": 1931,
-        "format": "DCP",
-        "restauration": true
+        "idFilm": 79238,
+        "titre": "Foolish Matrons",
+        "art": "The",
+        "realisateurs": "Maurice Tourneur, Clarence Brown",
+        "annee": 1921,
+        "duree": 80,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51511"
+    "hashEvenement": "f79238"
   },
   {
     "idSeance": 205531,
@@ -9132,8 +9517,8 @@
     "hashEvenement": "c34741"
   },
   {
-    "idSeance": 200595,
-    "idEvenement": 34451,
+    "idSeance": 205912,
+    "idEvenement": 34977,
     "dateHeure": "2026-02-25T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -9144,15 +9529,15 @@
     ],
     "items": [
       {
-        "idFilm": 51504,
-        "titre": "Équipage",
-        "art": "L'",
+        "idFilm": 155541,
+        "titre": "Phalène blanche",
+        "art": "La",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1928,
-        "format": "35 mm"
+        "annee": 1924,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f51504"
+    "hashEvenement": "f155541"
   },
   {
     "idSeance": 205859,
@@ -9282,8 +9667,8 @@
     "hashEvenement": "f139245"
   },
   {
-    "idSeance": 200671,
-    "idEvenement": 34455,
+    "idSeance": 205913,
+    "idEvenement": 34451,
     "dateHeure": "2026-02-27T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -9294,15 +9679,15 @@
     ],
     "items": [
       {
-        "idFilm": 51410,
-        "titre": "Partir",
+        "idFilm": 51504,
+        "titre": "Équipage",
+        "art": "L'",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1931,
-        "duree": 100,
+        "annee": 1928,
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51410"
+    "hashEvenement": "f51504"
   },
   {
     "idSeance": 200631,
@@ -9332,8 +9717,8 @@
     "hashEvenement": "f51227"
   },
   {
-    "idSeance": 200672,
-    "idEvenement": 34452,
+    "idSeance": 205914,
+    "idEvenement": 34960,
     "dateHeure": "2026-02-27T20:45:00",
     "salle": "GF",
     "cycle": [
@@ -9342,19 +9727,17 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Marién Gómez",
     "items": [
       {
-        "idFilm": 51491,
-        "titre": "Accusée, levez-vous !",
+        "idFilm": 39286,
+        "titre": "Navire des hommes perdus",
+        "art": "Le",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1930,
-        "duree": 102,
-        "format": "35 mm",
-        "restauration": true
+        "annee": 1929,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f51491"
+    "hashEvenement": "f39286"
   },
   {
     "idSeance": 205861,
@@ -9673,8 +10056,8 @@
     "hashEvenement": "f155477"
   },
   {
-    "idSeance": 200735,
-    "idEvenement": 34460,
+    "idSeance": 205915,
+    "idEvenement": 34452,
     "dateHeure": "2026-03-01T17:30:00",
     "salle": "GF",
     "cycle": [
@@ -9685,20 +10068,20 @@
     ],
     "items": [
       {
-        "idFilm": 76759,
-        "titre": "Lidoire",
+        "idFilm": 51491,
+        "titre": "Accusée, levez-vous !",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1933,
-        "duree": 20,
-        "format": "DCP",
+        "annee": 1930,
+        "duree": 102,
+        "format": "35 mm",
         "restauration": true
       }
     ],
-    "hashEvenement": "f76759"
+    "hashEvenement": "f51491"
   },
   {
-    "idSeance": 200736,
-    "idEvenement": 34458,
+    "idSeance": 205916,
+    "idEvenement": 34453,
     "dateHeure": "2026-03-01T19:30:00",
     "salle": "GF",
     "cycle": [
@@ -9709,15 +10092,15 @@
     ],
     "items": [
       {
-        "idFilm": 75882,
-        "titre": "Obsession",
+        "idFilm": 51511,
+        "titre": "Maison de danses",
         "realisateurs": "Maurice Tourneur",
-        "annee": 1934,
-        "duree": 35,
-        "format": "DCP"
+        "annee": 1931,
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f75882"
+    "hashEvenement": "f51511"
   },
   {
     "idSeance": 200744,
@@ -9853,30 +10236,6 @@
     "hashEvenement": "f51514"
   },
   {
-    "idSeance": 205692,
-    "idEvenement": 34463,
-    "dateHeure": "2026-03-04T18:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Maurice Tourneur",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51509,
-        "titre": "Kœnigsmark",
-        "realisateurs": "Maurice Tourneur",
-        "annee": 1935,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "Numérique"
-      }
-    ],
-    "hashEvenement": "f51509"
-  },
-  {
     "idSeance": 200779,
     "idEvenement": 34882,
     "dateHeure": "2026-03-04T20:00:00",
@@ -9923,29 +10282,6 @@
       }
     ],
     "hashEvenement": "f51508"
-  },
-  {
-    "idSeance": 205691,
-    "idEvenement": 34464,
-    "dateHeure": "2026-03-04T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Maurice Tourneur",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51457,
-        "titre": "Samson",
-        "realisateurs": "Maurice Tourneur",
-        "annee": 1936,
-        "duree": 88,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f51457"
   },
   {
     "idSeance": 205834,

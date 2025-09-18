@@ -1,20 +1,5 @@
 [
   {
-    "idCategorie": 4016,
-    "typeEvenement": 14,
-    "idEvenement": 34811,
-    "idSeance": 205598,
-    "dateHeure": "2026-01-24T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 180,
-    "items": [
-      {}
-    ]
-  },
-  {
     "idCategorie": 4012,
     "typeEvenement": 13,
     "idEvenement": 34802,
@@ -131,7 +116,7 @@
     "typeEvenement": 13,
     "idEvenement": 34794,
     "idSeance": 205889,
-    "dateHeure": "2026-02-06T14:45:00",
+    "dateHeure": "2026-02-06T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -144,6 +129,94 @@
         "idSeance": 205889,
         "idCopie": 30801,
         "duree": 110,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4012,
+    "typeEvenement": 13,
+    "idEvenement": 34795,
+    "idSeance": 200151,
+    "dateHeure": "2026-02-07T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 155504,
+        "ordre": 1,
+        "idSeance": 200151,
+        "idCopie": 30803,
+        "duree": 105,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4016,
+    "typeEvenement": 14,
+    "idEvenement": 34811,
+    "idSeance": 200151,
+    "dateHeure": "2026-02-07T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 4012,
+    "typeEvenement": 13,
+    "idEvenement": 34796,
+    "idSeance": 205890,
+    "dateHeure": "2026-02-08T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 143512,
+        "ordre": 1,
+        "idSeance": 205890,
+        "idCopie": 30802,
+        "duree": 98,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4012,
+    "typeEvenement": 13,
+    "idEvenement": 34800,
+    "idSeance": 205891,
+    "dateHeure": "2026-02-08T19:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 155505,
+        "ordre": 1,
+        "idSeance": 205891,
+        "idCopie": 30804,
+        "duree": 80,
         "version": "",
         "format": "DCP"
       }

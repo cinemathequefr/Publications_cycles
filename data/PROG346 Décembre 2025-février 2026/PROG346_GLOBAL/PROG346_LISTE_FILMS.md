@@ -1,6 +1,6 @@
 # Liste des films par cycle
 
-## Alexandre Dovjenko (16)
+## Alexandre Dovjenko (15)
 
   * Adieu Amérique !  
   * Aerograd  
@@ -8,7 +8,6 @@
   * Bataille pour notre Ukraine soviétique (La)  
   * Bucovine, terre ukrainienne  
   * Chtchors  
-  * Desna enchantée (La)  
   * Ivan  
   * Libération (La)  
   * Mitchourine  
@@ -19,10 +18,11 @@
   * Victoire en Ukraine (La)  
   * Zvenigora
 
-## André De Toth (30)
+## André De Toth (33)
 
   * 5 heures 40  
   * Aveu (L')  
+  * Capitaine Morgan  
   * Cavalier de la mort (Le)  
   * Cavalier traqué (Le)  
   * Chasse au gang  
@@ -38,6 +38,7 @@
   * Homme au masque de cire (L')  
   * Massacreurs du Kansas (Les)  
   * Mission du commandant Lex (La)  
+  * Mongols (Les)  
   * Noces de Toprin (Les)  
   * None Shall Escape  
   * Orchidée blanche (L')  
@@ -50,7 +51,8 @@
   * Six semaines de bonheur  
   * Tanganyika  
   * Terreur à l'Ouest  
-  * Trahison du capitaine Porter (La)
+  * Trahison du capitaine Porter (La)  
+  * Westerner: School Day (The)
 
 ## Archi Vives (5)
 
@@ -284,7 +286,7 @@
   * Théâtre de guerre  
   * Vesuviani: La Salita (I)
 
-## Maurice Tourneur (35)
+## Maurice Tourneur (34)
 
   * A Girl's Folly  
   * Accusée, levez-vous !  
@@ -298,51 +300,59 @@
   * Équipage (L')  
   * Éternelle Tentatrice (L')  
   * Fille d'Écosse  
+  * Foolish Matrons (The)  
   * Gaîtés de l'escadron (Les)  
   * Impasse des Deux-Anges  
   * Jimmy le mystérieux  
   * Justin de Marseille  
   * Katia  
-  * Kœnigsmark  
-  * Lidoire  
   * Main du diable (La)  
   * Maison de danses  
   * Mam'zelle Bonaparte  
   * Maurice Tourneur, tisseur de rêves  
-  * Obsession  
+  * Navire des hommes perdus (Le)  
   * Oiseau bleu (L')  
   * Papillon brisé (Le)  
-  * Partir  
   * Patriote (Le)  
   * Péchés de jeunesse  
-  * Samson  
-  * Sporting Life  
+  * Phalène blanche (La)  
+  * Trilby  
+  * Une pauvre petite fille riche  
   * Une victoire  
   * Val d'enfer (Le)  
   * Voleur (Le)  
   * Volpone
 
-## Márta Mészáros (20)
+## Márta Mészáros (29)
 
   * Adoption  
   * Aurora borealis  
   * Belle et le Vagabond (La)  
   * Bóbita  
+  * Bye bye chaperon rouge  
   * Cati  
   * Comme chez nous  
+  * Dernier Rapport sur Anna (Le)  
   * Elles deux  
+  * En cours de route  
   * Filature de Lőrinc (La)  
   * Filles de la fortune (Les)  
   * Fœtus (Le)  
   * Héritières (Les)  
   * Homme sans sépulture (L')  
+  * Hongrie en 2011 : Bout d'essai (La)  
+  * In memoriam László Mészáros  
   * Journal à mes amours  
   * Journal à mes enfants  
   * Journal pour mon père et ma mère  
+  * Lettres de ma mère au camarade Staline (Les)  
   * Marie  
   * Neuf mois  
+  * Pays des mirages (Le)  
   * Petite Vilma, le dernier journal  
   * Septième Demeure (La)  
+  * Trois dates  
+  * Une mère, une fille  
   * Vent de la liberté (Le)
 
 ## Orson Welles (20)
@@ -506,11 +516,14 @@
   * Top Gun  
   * Tron
 
-## Valérie Donzelli (6)
+## Valérie Donzelli (9)
 
   * À pied d'œuvre  
+  * Amour et les forêts (L')  
   * Guerre est déclarée (La)  
   * Main dans la main  
   * Marguerite et Julien  
+  * Notre Dame  
   * Que d'amour  
   * Reine des pommes (La)  
+  * Rue du Conservatoire  

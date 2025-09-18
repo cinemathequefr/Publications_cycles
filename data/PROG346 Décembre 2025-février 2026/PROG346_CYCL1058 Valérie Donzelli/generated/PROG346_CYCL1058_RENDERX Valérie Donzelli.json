@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2026-01-24T14:30:00",
-    "2026-02-06T14:45:00"
+    "2026-02-02T14:30:00",
+    "2026-02-08T19:45:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -36,6 +36,53 @@
               "dateHeure": "2026-02-02T14:30:00",
               "idSalle": "HL",
               "mention": "Avant-première"
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 155504,
+              "content": [
+                {
+                  "idFilm": 155504,
+                  "ordre": 1,
+                  "titre": "Amour et les forêts",
+                  "art": "L'",
+                  "realisateurs": "Valérie Donzelli",
+                  "pays": "France",
+                  "annee": 2023,
+                  "duree": 105,
+                  "version": "",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _L'Amour et les forêts_ d'Éric Reinhardt.",
+                  "generique": [
+                    "Virginie Efira",
+                    "Melvil Poupaud",
+                    "Marie Rivière"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 34811,
+              "content": [
+                {
+                  "idConf": 34811,
+                  "ordre": 2,
+                  "titre": "Valérie Donzelli par Valérie Donzelli, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma",
+                  "mentionAnimation": "Animée par Caroline Maleville"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 200151,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-02-07T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -121,7 +168,35 @@
           "seances": [
             {
               "idSeance": 205889,
-              "dateHeure": "2026-02-06T14:45:00",
+              "dateHeure": "2026-02-06T18:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 143512,
+          "content": [
+            {
+              "idFilm": 143512,
+              "ordre": 1,
+              "titre": "Notre Dame",
+              "realisateurs": "Valérie Donzelli",
+              "pays": "France-Belgique",
+              "annee": 2018,
+              "duree": 98,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Valérie Donzelli",
+                "Pierre Deladonchamps",
+                "Thomas Scimeca"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205890,
+              "dateHeure": "2026-02-08T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -180,28 +255,27 @@
               "idSalle": "GF"
             }
           ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
+        },
         {
-          "idConf": 34811,
+          "idFilm": 155505,
           "content": [
             {
-              "idConf": 34811,
-              "titre": "Valérie Donzelli par Valérie Donzelli, une leçon de cinéma",
-              "typeConference": "Leçon de cinéma",
-              "mentionAnimation": "Animée par Caroline Maleville"
+              "idFilm": 155505,
+              "ordre": 1,
+              "titre": "Rue du Conservatoire",
+              "realisateurs": "Valérie Donzelli",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 80,
+              "version": "",
+              "format": "DCP"
             }
           ],
           "seances": [
             {
-              "idSeance": 205598,
-              "dateHeure": "2026-01-24T14:30:00",
-              "idSalle": "HL"
+              "idSeance": 205891,
+              "dateHeure": "2026-02-08T19:45:00",
+              "idSalle": "GF"
             }
           ]
         }
@@ -218,7 +292,7 @@
     "Leçon de cinéma": [
       {
         "titre": "Valérie Donzelli par Valérie Donzelli, une leçon de cinéma",
-        "dateHeure": "2026-01-24T14:30:00"
+        "dateHeure": "2026-02-07T14:30:00"
       }
     ]
   }
