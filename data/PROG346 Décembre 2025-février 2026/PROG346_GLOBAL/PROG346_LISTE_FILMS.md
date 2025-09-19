@@ -61,43 +61,49 @@
   * Impératrice (L')  
   * Old Love and the New (The)
 
-## Aujourd'hui le cinéma (22)
+## Aujourd'hui le cinéma (26)
 
   * +10K  
   * Bel companho  
   * Bottes de la nuit (Les)  
   * Candyman  
-  * Cœur Bleu  
   * Conte de la Jaguère (Le)  
   * Et quand l'aube viendra  
   * Fantaisie  
+  * Golfes se creusent (Les)  
   * Hypernuit  
+  * J'ai tué votre chat  
   * Je, tu, il, elle  
   * Jeune Fille qui pleurait des perles (La)  
   * Les Fleurs blanches et la lune  
   * Ligne de vie (La)  
+  * Loynes  
   * Luna Rossa  
   * Mohican (Le)  
   * Mukbanger  
   * Nico  
   * Ogres (Les)  
   * Père(s) et Fils  
+  * Qr-Code de Frankeasy (Le)  
   * Star  
   * Sulaimani  
-  * Twelve Tales Told
+  * Twelve Tales Told  
+  * Une question de vie ou de mort
 
 ## Ciné-club de Murielle Joudet (1)
 
   * Reine de Broadway (La)
 
-## Cinéma bis (6)
+## Cinéma bis (8)
 
   * Bad Girls Go to Hell  
   * Blackenstein, the Black Frankenstein  
   * Dernier face à face (Le)  
   * Hanno cambiato faccia  
+  * Nuit des juges (La)  
   * Poursuite implacable (La)  
-  * Supernichons contre mafia
+  * Supernichons contre mafia  
+  * Un été pourri
 
 ## David Gordon Green (21)
 

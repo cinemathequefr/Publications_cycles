@@ -74,35 +74,53 @@
     "mention": "Séance suivie d'une discussion avec Johann Lurf"
   },
   {
-    "idCategorie": 4025,
+    "idCategorie": 4036,
     "typeEvenement": 13,
-    "idEvenement": 34923,
-    "idSeance": 199251,
-    "dateHeure": "2026-01-05T19:30:00",
+    "idEvenement": 34991,
+    "idSeance": 205995,
+    "dateHeure": "2026-01-05T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 45,
+    "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 155525,
+        "idFilm": 155546,
         "ordre": 1,
-        "idSeance": 199251,
-        "idCopie": 30848,
-        "duree": 15,
+        "idSeance": 205995,
+        "idCopie": 30914,
+        "duree": 21,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155544,
+        "ordre": 2,
+        "idSeance": 205995,
+        "idCopie": 30916,
+        "duree": 25,
+        "version": "",
+        "format": ""
+      },
+      {
+        "idFilm": 155545,
+        "ordre": 3,
+        "idSeance": 205995,
+        "idCopie": 30915,
+        "duree": 19,
         "version": "",
         "format": "DCP"
       }
     ],
-    "mention": "Séance suivie d'une discussion avec Samuel Suffren"
+    "mention": "Séance suivie d'une discussion avec Inès Berdugo, Léna Mardi, Lou Rambert-Preiss et Max Wuchner"
   },
   {
     "idCategorie": 4024,
     "typeEvenement": 13,
     "idEvenement": 34949,
     "idSeance": 205826,
-    "dateHeure": "2026-01-12T17:15:00",
+    "dateHeure": "2026-01-12T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -260,6 +278,39 @@
         "format": "DCP"
       }
     ]
+  },
+  {
+    "idCategorie": 4034,
+    "typeEvenement": 13,
+    "idEvenement": 34986,
+    "idSeance": 205852,
+    "dateHeure": "2026-02-16T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 155543,
+        "ordre": 1,
+        "idSeance": 205852,
+        "idCopie": 30913,
+        "duree": 25,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 41083,
+        "ordre": 2,
+        "idSeance": 205852,
+        "idCopie": 20223,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Dorian Jespers"
   },
   {
     "idCategorie": 4021,
