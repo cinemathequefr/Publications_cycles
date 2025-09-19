@@ -1,15 +1,19 @@
 # Liste des films par cycle
 
-## Alexandre Dovjenko (11)
+## Alexandre Dovjenko (15)
 
   * Adieu Amérique !  
   * Aerograd  
   * Arsenal  
   * Bataille pour notre Ukraine soviétique (La)  
+  * Bucovine, terre ukrainienne  
   * Chtchors  
   * Ivan  
+  * Libération (La)  
   * Mitchourine  
+  * Petit Fruit de l'amour (Le)  
   * Poème de la mer (Le)  
+  * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
   * Victoire en Ukraine (La)  
   * Zvenigora
@@ -90,10 +94,10 @@
 
   * Bad Girls Go to Hell  
   * Blackenstein, the Black Frankenstein  
+  * Dernier face à face (Le)  
   * Hanno cambiato faccia  
-  * Nuit des juges (La)  
-  * Supernichons contre mafia  
-  * Un été pourri
+  * Poursuite implacable (La)  
+  * Supernichons contre mafia
 
 ## David Gordon Green (21)
 
@@ -178,8 +182,8 @@
 
   * Académie des muses (L')  
   * Dans la ville de Sylvia  
-  * De una isla  
   * En construcción  
+  * For Heddy  
   * Guest  
   * Histoires de la bonne vallée  
   * Innisfree  
