@@ -222,7 +222,7 @@
   * Cabiria  
   * Chute de la maison Usher (La)  
   * Deux Orphelines (Les)  
-  * Dr Jekyll and Mr Hyde  
+  * Dr. Jekyll and Mr. Hyde  
   * Folies de femmes  
   * Légende de Gösta Berling (La)  
   * Nana  
