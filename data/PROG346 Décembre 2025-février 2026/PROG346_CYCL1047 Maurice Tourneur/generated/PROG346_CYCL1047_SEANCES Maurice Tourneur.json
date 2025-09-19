@@ -72,7 +72,7 @@
     "typeEvenement": 13,
     "idEvenement": 34452,
     "idSeance": 205917,
-    "dateHeure": "2026-02-20T18:30:00",
+    "dateHeure": "2026-02-20T17:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -96,7 +96,7 @@
     "typeEvenement": 13,
     "idEvenement": 34453,
     "idSeance": 205918,
-    "dateHeure": "2026-02-20T20:00:00",
+    "dateHeure": "2026-02-20T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -167,7 +167,7 @@
     "typeEvenement": 13,
     "idEvenement": 34456,
     "idSeance": 205921,
-    "dateHeure": "2026-02-21T19:00:00",
+    "dateHeure": "2026-02-21T19:15:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -183,29 +183,6 @@
         "version": "",
         "format": "DCP",
         "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 3970,
-    "typeEvenement": 13,
-    "idEvenement": 34457,
-    "idSeance": 205923,
-    "dateHeure": "2026-02-21T21:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 51493,
-        "ordre": 1,
-        "idSeance": 205923,
-        "idCopie": 9031,
-        "duree": 87,
-        "version": "",
-        "format": "35 mm"
       }
     ]
   },
@@ -285,7 +262,7 @@
     "typeEvenement": 13,
     "idEvenement": 34464,
     "idSeance": 205927,
-    "dateHeure": "2026-02-22T19:00:00",
+    "dateHeure": "2026-02-22T18:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -308,7 +285,7 @@
     "typeEvenement": 13,
     "idEvenement": 34463,
     "idSeance": 205928,
-    "dateHeure": "2026-02-22T20:30:00",
+    "dateHeure": "2026-02-22T20:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -323,6 +300,29 @@
         "duree": 115,
         "version": "VOSTF",
         "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3970,
+    "typeEvenement": 13,
+    "idEvenement": 34471,
+    "idSeance": 205966,
+    "dateHeure": "2026-02-23T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 51458,
+        "ordre": 1,
+        "idSeance": 205966,
+        "idCopie": 30516,
+        "duree": 88,
+        "version": "",
+        "format": "35 mm"
       }
     ]
   },
@@ -822,13 +822,14 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Joël Daire"
   },
   {
     "idCategorie": 3970,
     "typeEvenement": 13,
-    "idEvenement": 34471,
-    "idSeance": 200903,
+    "idEvenement": 34457,
+    "idSeance": 205965,
     "dateHeure": "2026-03-07T16:00:00",
     "idSalle": [
       "GF",
@@ -837,15 +838,16 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 51458,
+        "idFilm": 51493,
         "ordre": 1,
-        "idSeance": 200903,
-        "idCopie": 30516,
-        "duree": 88,
+        "idSeance": 205965,
+        "idCopie": 9031,
+        "duree": 87,
         "version": "",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Joël Daire"
   },
   {
     "idCategorie": 3970,

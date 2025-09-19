@@ -35,7 +35,7 @@
           "seances": [
             {
               "idSeance": 199624,
-              "dateHeure": "2026-01-19T20:30:00",
+              "dateHeure": "2026-01-19T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -93,7 +93,7 @@
           "seances": [
             {
               "idSeance": 205908,
-              "dateHeure": "2026-02-07T19:30:00",
+              "dateHeure": "2026-02-07T20:00:00",
               "idSalle": "JE"
             }
           ]
@@ -126,7 +126,8 @@
             {
               "idSeance": 199547,
               "dateHeure": "2026-01-16T18:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Philippe Garnier"
             }
           ]
         },
@@ -190,7 +191,8 @@
             {
               "idSeance": 199591,
               "dateHeure": "2026-01-17T20:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Philippe Garnier"
             },
             {
               "idSeance": 199965,
@@ -259,7 +261,8 @@
             {
               "idSeance": 199506,
               "dateHeure": "2026-01-15T20:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Philippe Garnier"
             },
             {
               "idSeance": 199964,
@@ -457,7 +460,8 @@
             {
               "idSeance": 199590,
               "dateHeure": "2026-01-17T18:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Philippe Garnier"
             }
           ]
         },
@@ -486,6 +490,12 @@
             }
           ],
           "seances": [
+            {
+              "idSeance": 205964,
+              "dateHeure": "2026-01-19T20:00:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Philippe Garnier"
+            },
             {
               "idSeance": 205904,
               "dateHeure": "2026-02-07T16:30:00",
@@ -621,7 +631,7 @@
           "seances": [
             {
               "idSeance": 205907,
-              "dateHeure": "2026-02-08T15:15:00",
+              "dateHeure": "2026-02-08T19:45:00",
               "idSalle": "JE"
             }
           ]
@@ -653,7 +663,7 @@
           "seances": [
             {
               "idSeance": 205902,
-              "dateHeure": "2026-01-25T17:00:00",
+              "dateHeure": "2026-01-25T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -683,7 +693,8 @@
             {
               "idSeance": 199505,
               "dateHeure": "2026-01-15T18:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Philippe Garnier"
             }
           ]
         },
@@ -919,38 +930,7 @@
           "seances": [
             {
               "idSeance": 205903,
-              "dateHeure": "2026-01-25T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 80311,
-          "content": [
-            {
-              "idFilm": 80311,
-              "ordre": 1,
-              "titre": "Six semaines de bonheur",
-              "titreVo": "Hat hét boldogság",
-              "realisateurs": "Andre De Toth",
-              "pays": "Hongrie",
-              "annee": 1939,
-              "duree": 80,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Klári Tolnay",
-                "Ferenc Kiss",
-                "László Szilassy"
-              ],
-              "miniTexte": "Un cambrioleur, qui cache son activité à sa fille, se voit forcé de lui révéler la vérité. À l'aube de son exil, le cinéaste filme Budapest avec affection et subtilité pour illustrer les mésaventures d'un voleur en fin de carrière. Une délicieuse fable morale, brillante mise en abyme théâtrale."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 199623,
-              "dateHeure": "2026-01-19T18:00:00",
+              "dateHeure": "2026-01-25T19:30:00",
               "idSalle": "GF"
             }
           ]
@@ -1065,7 +1045,7 @@
           "seances": [
             {
               "idSeance": 205906,
-              "dateHeure": "2026-02-07T18:30:00",
+              "dateHeure": "2026-02-07T19:00:00",
               "idSalle": "JE"
             }
           ]
@@ -1081,11 +1061,41 @@
         "dateHeure": "2026-01-17T14:30:00"
       }
     ],
-    "Séance présentée": [
+    "Séances présentées": [
       {
         "titreFilms": "Enfants de salauds",
         "mention": "par Philippe Garnier",
         "dateHeure": "2026-01-14T20:00:00"
+      },
+      {
+        "titreFilms": "None Shall Escape",
+        "mention": "par Philippe Garnier",
+        "dateHeure": "2026-01-15T18:30:00"
+      },
+      {
+        "titreFilms": "La Chevauchée des bannis",
+        "mention": "par Philippe Garnier",
+        "dateHeure": "2026-01-15T20:30:00"
+      },
+      {
+        "titreFilms": "Le Cavalier de la mort",
+        "mention": "par Philippe Garnier",
+        "dateHeure": "2026-01-16T18:00:00"
+      },
+      {
+        "titreFilms": "Femme de feu",
+        "mention": "par Philippe Garnier",
+        "dateHeure": "2026-01-17T18:30:00"
+      },
+      {
+        "titreFilms": "Chasse au gang",
+        "mention": "par Philippe Garnier",
+        "dateHeure": "2026-01-17T20:30:00"
+      },
+      {
+        "titreFilms": "La Furie des tropiques",
+        "mention": "par Philippe Garnier",
+        "dateHeure": "2026-01-19T20:00:00"
       }
     ]
   }

@@ -1,24 +1,20 @@
 # Liste des films par cycle
 
-## Alexandre Dovjenko (15)
+## Alexandre Dovjenko (11)
 
   * Adieu Amérique !  
   * Aerograd  
   * Arsenal  
   * Bataille pour notre Ukraine soviétique (La)  
-  * Bucovine, terre ukrainienne  
   * Chtchors  
   * Ivan  
-  * Libération (La)  
   * Mitchourine  
-  * Petit Fruit de l'amour (Le)  
   * Poème de la mer (Le)  
-  * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
   * Victoire en Ukraine (La)  
   * Zvenigora
 
-## Andre De Toth (33)
+## Andre De Toth (32)
 
   * 5 heures 40  
   * Aveu (L')  
@@ -48,7 +44,6 @@
   * Rivière de nos amours (La)  
   * Sabre et la Flèche (Le)  
   * Semmelweis  
-  * Six semaines de bonheur  
   * Tanganyika  
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)  
@@ -163,11 +158,10 @@
   * Parfum de femme  
   * Trois amigos
 
-## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (14)
+## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (13)
 
   * À nous la liberté  
   * Atalante (L')  
-  * Atlantide (L')  
   * Bas-fonds (Les)  
   * Beau Serge (Le)  
   * Haute Pègre  
