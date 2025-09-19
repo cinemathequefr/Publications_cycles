@@ -136,7 +136,7 @@
   * Chronique d'une disparition  
   * En Indochine française : Dalat, station climatique  
   * Frontière (La)  
-  * Guerre du Golfe et après (La)  
+  * Guerre du Golfe... et après (La)  
   * Harmonieux ombrages d'Indochine  
   * Marché d'esclaves en Orient  
   * Mines de Campha (Tonkin) (Les)  
