@@ -186,9 +186,10 @@
   * Salomè  
   * Tirez sur le pianiste
 
-## José Luis Guerin (12)
+## José Luis Guerin (13)
 
   * Académie des muses (L')  
+  * Correspondencia Jonas Mekas – José Luis Guerin  
   * Dans la ville de Sylvia  
   * En construcción  
   * For Heddy  
