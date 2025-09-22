@@ -318,13 +318,13 @@
   * Maison de danses  
   * Mam'zelle Bonaparte  
   * Maurice Tourneur, tisseur de rêves  
+  * Navire des hommes perdus (Le)  
   * Obsession  
   * Oiseau bleu (L')  
   * Papillon brisé (Le)  
   * Partir  
   * Patriote (Le)  
   * Péchés de jeunesse  
-  * Phalène blanche (La)  
   * Prunella  
   * Samson  
   * Trilby  

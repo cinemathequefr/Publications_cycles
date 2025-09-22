@@ -4,7 +4,7 @@
 
 The term film noir was coined in 1946 by French film critic Nino Frank, who used it to describe a set of narrative and visual traits he observed in American films that had been barred in France during the war. Over time, the study of noir expanded beyond Hollywood, encompassing films from other countries that shared similar aesthetics and themes. In the Nordic context, this gave rise to what is now known as Nordic Noir – a concept that has gained traction both in academic circles and in international marketing.
 
-> On doit le terme de « film noir » au critique français Nino Frank, qui l'utilise dès 1946 pour décrire un ensemble de codes narratifs et visuels qu'il a pu observer dans les films américains bannis en France pendant la guerre. Au fil des ans, l'étude du film noir s'élargit au-delà de Hollywood pour désigner des œuvres d'autres pays qui en partagent les thèmes et l'esthétique. En Scandinavie, ce phénomène aboutit à ce qu'on appelle aujourd'hui le Nordic Noir, un concept à usage tant universitaire que commercial.
+> On doit le terme de « film noir » au critique français Nino Frank, qui l'utilise dès 1946 pour décrire un ensemble de codes narratifs et visuels qu'il a pu observer dans les films américains bannis en France pendant la guerre. Au fil des ans, l'étude du film noir s'élargit au-delà de Hollywood pour inclure des œuvres d'autres pays qui en partagent les thèmes et l'esthétique. En Scandinavie, ce phénomène aboutit à ce qu'on appelle aujourd'hui le Nordic Noir, un concept à usage tant universitaire que commercial.
 
 ---
 

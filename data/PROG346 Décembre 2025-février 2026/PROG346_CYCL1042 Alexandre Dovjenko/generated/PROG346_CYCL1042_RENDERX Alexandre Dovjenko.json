@@ -47,10 +47,18 @@
               "content": [
                 {
                   "idConf": 34729,
-                  "ordre": 1,
                   "titre": "Qui êtes-vous... Alexandre Dovjenko",
                   "sousTitre": "Conférence d'Irène Bonnaud",
                   "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 205515,
+                  "idSeanceAssoc": 205969,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-01-22T19:00:00",
+                  "idSalle": "GF"
                 }
               ]
             },
@@ -59,7 +67,7 @@
               "content": [
                 {
                   "idFilm": 40488,
-                  "ordre": 2,
+                  "ordre": 1,
                   "titre": "Aerograd",
                   "realisateurs": "Alexandre Dovjenko",
                   "pays": "URSS",
@@ -77,10 +85,12 @@
               ],
               "seances": [
                 {
-                  "idSeance": 205515,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-01-22T19:00:00",
-                  "idSalle": "GF"
+                  "idSeance": 205969,
+                  "idSeanceAssoc": 205515,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-01-22T21:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
                 }
               ]
             }
