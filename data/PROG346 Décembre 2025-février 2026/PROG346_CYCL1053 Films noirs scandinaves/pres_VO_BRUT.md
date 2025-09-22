@@ -1,15 +1,18 @@
-Nordic Noir: Shadows Over Scandinavia in the Postwar Era
+# Nordic Noir: Shadows Over Scandinavia in the Postwar Era
+
+# Nordic Noir : quand les ombres de l'après-guerre planent sur la Scandinavie
 
 The term film noir was coined in 1946 by French film critic Nino Frank, who used it to describe a set of narrative and visual traits he observed in American films that had been barred in France during the war. Over time, the study of noir expanded beyond Hollywood, encompassing films from other countries that shared similar aesthetics and themes. In the Nordic context, this gave rise to what is now known as Nordic Noir – a concept that has gained traction both in academic circles and in international marketing.
 
-> On doit le terme de « film noir » au critique français Nino Frank, qui l'utilise dès 1946 pour décrire un ensemble de codes narratifs et visuels qu'il a pu observer dans les films américains interdits en France pendant la guerre. Au fil du temps, l'étude du _noir_ s'est élargie au-delà de Hollywood pour englober des films d'autres provenances qui en partageaient les thèmes et l'esthétique. En Scandinavie, cette veine a pris le nom de « Nordic Noir » – un concept adopté à la fois par le milieu universitaire et les stratégies marketing.
+> On doit le terme de « film noir » au critique français Nino Frank, qui l'utilise dès 1946 pour décrire un ensemble de codes narratifs et visuels qu'il a pu observer dans les films américains bannis en France pendant la guerre. Au fil des ans, l'étude du film noir s'élargit au-delà de Hollywood pour désigner des œuvres d'autres pays qui en partagent les thèmes et l'esthétique. En Scandinavie, ce phénomène aboutit à ce qu'on appelle aujourd'hui le Nordic Noir, un concept à usage tant universitaire que commercial.
 
-While crime films had long been a staple of Scandinavian cinema, the genre underwent a profound
-transformation during the 1940s and 1950s. Prior to this period, Nordic crime films were often lighthearted,
-formulaic police stories or comedic mysteries. Film production in general was influenced by German
-cinema, which had long served as a cultural and aesthetic model. But the devastation of World War II
-shattered these ties, and the cinematic gaze shifted westward – toward the war's victors, primarily the United
-States.
+---
+
+While crime films had long been a staple of Scandinavian cinema, the genre underwent a profound transformation during the 1940s and 1950s. Prior to this period, Nordic crime films were often lighthearted, formulaic police stories or comedic mysteries. Film production in general was influenced by German cinema, which had long served as a cultural and aesthetic model. But the devastation of World War II shattered these ties, and the cinematic gaze shifted westward – toward the war's victors, primarily the United States.
+
+Si les films policiers ont longtemps été l'un des piliers du cinéma scandinave, le genre connaît une profonde mutation au cours des années 40 et 50. Auparavant, les polars nordiques se résumaient à des comédies policières ou d'aimables enquêtes stéréotypées. L'industrie cinématographique vivait sous l'influence. Les ravages de la Seconde Guerre mondiale ont brisé ces liens, et les regards se sont alors tournés vers l'Ouest — et principalement les États-Unis
+
+---
 
 In Denmark, the German occupation left a deep mark on national film culture. Danish films grew darker in
 tone, more introspective, and increasingly focused on questions of national identity. Across Scandinavia, film
