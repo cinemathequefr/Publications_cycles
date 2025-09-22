@@ -41,31 +41,48 @@
           ]
         },
         {
-          "idFilm": 40488,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 34729,
+              "content": [
+                {
+                  "idConf": 34729,
+                  "ordre": 1,
+                  "titre": "Qui êtes-vous... Alexandre Dovjenko",
+                  "sousTitre": "Conférence d'Irène Bonnaud",
+                  "typeConference": "Conférence"
+                }
+              ]
+            },
             {
               "idFilm": 40488,
-              "ordre": 1,
-              "titre": "Aerograd",
-              "realisateurs": "Alexandre Dovjenko",
-              "pays": "URSS",
-              "annee": 1935,
-              "duree": 82,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Stepan Chagaïda",
-                "Stepan Chkourat",
-                "Boris Dobronravov"
+              "content": [
+                {
+                  "idFilm": 40488,
+                  "ordre": 2,
+                  "titre": "Aerograd",
+                  "realisateurs": "Alexandre Dovjenko",
+                  "pays": "URSS",
+                  "annee": 1935,
+                  "duree": 82,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Stepan Chagaïda",
+                    "Stepan Chkourat",
+                    "Boris Dobronravov"
+                  ],
+                  "miniTexte": "Dans la taïga sibérienne, la création d'une cité, appelée à devenir le symbole de l'édification du socialisme, se déploie avec une poésie infinie, sublimée par la lumière du chef-opérateur Edouard Tissé. Dovjenko livre sa vision avant-gardiste d'une contrée suspendue entre mer et forêt, tradition et modernité, où s'affrontent Bolchéviks et leurs opposants, dans un hymne patriotique au souffle passionné."
+                }
               ],
-              "miniTexte": "Dans la taïga sibérienne, la création d'une cité, appelée à devenir le symbole de l'édification du socialisme, se déploie avec une poésie infinie, sublimée par la lumière du chef-opérateur Edouard Tissé. Dovjenko livre sa vision avant-gardiste d'une contrée suspendue entre mer et forêt, tradition et modernité, où s'affrontent Bolchéviks et leurs opposants, dans un hymne patriotique au souffle passionné."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205969,
-              "dateHeure": "2026-01-22T21:30:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 205515,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-01-22T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -437,24 +454,6 @@
       "tri": 4,
       "titreSousCycle": "Rencontres et conférences",
       "items": [
-        {
-          "idConf": 34729,
-          "content": [
-            {
-              "idConf": 34729,
-              "titre": "Qui êtes-vous... Alexandre Dovjenko",
-              "sousTitre": "Conférence d'Irène Bonnaud",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205515,
-              "dateHeure": "2026-01-22T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
         {
           "idConf": 34730,
           "content": [

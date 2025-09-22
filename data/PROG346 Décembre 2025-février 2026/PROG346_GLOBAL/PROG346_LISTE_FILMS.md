@@ -472,11 +472,10 @@
   * Vérité sur Bébé Donge (La)  
   * Ville à vendre
 
-## Rita Hayworth (25)
+## Rita Hayworth (23)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
-  * Amours de Carmen (Les)  
   * Arènes sanglantes  
   * Belle du Pacifique (La)  
   * Blonde framboise (La)  
@@ -493,7 +492,6 @@
   * Ô toi ma charmante  
   * Piège au grisbi  
   * Plus grand cirque du monde (Le)  
-  * Police montée  
   * Route de Salina (La)  
   * Salomé  
   * Seuls les anges ont des ailes  
