@@ -507,10 +507,11 @@
   * Une carte du monde  
   * Working Girl
 
-## Séances spéciales (6)
+## Séances spéciales (7)
 
   * À bout de souffle  
   * Deux procureurs  
+  * Frankenstein  
   * Fuori  
   * Lettre à l'enfant que tu nous as donné  
   * Nouvelle Vague  

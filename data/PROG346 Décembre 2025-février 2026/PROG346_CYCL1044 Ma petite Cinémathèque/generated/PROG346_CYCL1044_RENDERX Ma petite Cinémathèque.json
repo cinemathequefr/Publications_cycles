@@ -74,7 +74,12 @@
               "duree": 120,
               "version": "VOSTF",
               "format": "DCP",
-              "restauration": true
+              "restauration": true,
+              "generique": [
+                "Susan Taslimi",
+                "Parviz Pourhosseini",
+                "Adnan Afravian"
+              ]
             }
           ],
           "seances": [
@@ -554,6 +559,42 @@
           ]
         },
         {
+          "idFilm": 32370,
+          "content": [
+            {
+              "idFilm": 32370,
+              "ordre": 1,
+              "titre": "Panthère Rose",
+              "art": "La",
+              "titreVo": "Pink Panther",
+              "artVo": "The",
+              "realisateurs": "Blake Edwards",
+              "pays": "États-Unis",
+              "annee": 1963,
+              "duree": 115,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "ageMinimal": 10,
+              "generique": [
+                "Peter Sellers",
+                "David Niven",
+                "Claudia Cardinale",
+                "Capucine"
+              ],
+              "miniTexte": "Mais qui a volé la Panthère Rose, cet incroyable diamant ? L'inspecteur Clouseau espère arrêter le voleur, mais il se retrouve dans un bal masqué où l'extravagance des costumes est propice aux plus amusants malentendus."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198467,
+              "dateHeure": "2025-12-07T14:30:00",
+              "idSalle": "HL",
+              "ageMinimal": 10
+            }
+          ]
+        },
+        {
           "idFilm": 66744,
           "content": [
             {
@@ -594,7 +635,8 @@
               "duree": 64,
               "version": "VO",
               "format": "35 mm",
-              "ageMinimal": 6
+              "ageMinimal": 6,
+              "adaptation": "D'après le conte _La Reine des neiges_ de Hans Christian Andersen."
             }
           ],
           "seances": [

@@ -136,23 +136,41 @@
     ]
   },
   {
-    "idCategorie": 3976,
+    "idCategorie": 3993,
     "typeEvenement": 13,
-    "idEvenement": 34536,
-    "idSeance": 205962,
+    "idEvenement": 34689,
+    "idSeance": 207870,
     "dateHeure": "2025-12-20T15:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 105146,
+        "idFilm": 155542,
         "ordre": 1,
-        "idSeance": 205962,
-        "idCopie": 30716,
-        "duree": 110,
+        "idSeance": 207870,
+        "idCopie": 30912,
+        "duree": 5,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155485,
+        "ordre": 2,
+        "idSeance": 207870,
+        "idCopie": 30720,
+        "duree": 35,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 131487,
+        "ordre": 3,
+        "idSeance": 207870,
+        "idCopie": 30718,
+        "duree": 47,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -228,10 +246,10 @@
     ]
   },
   {
-    "idCategorie": 3993,
+    "idCategorie": 3976,
     "typeEvenement": 13,
-    "idEvenement": 34689,
-    "idSeance": 205956,
+    "idEvenement": 34536,
+    "idSeance": 207869,
     "dateHeure": "2025-12-22T18:00:00",
     "idSalle": [
       "GF",
@@ -240,29 +258,11 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 155542,
+        "idFilm": 105146,
         "ordre": 1,
-        "idSeance": 205956,
-        "idCopie": 30912,
-        "duree": 5,
-        "version": "VOSTF",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 155485,
-        "ordre": 2,
-        "idSeance": 205956,
-        "idCopie": 30720,
-        "duree": 35,
-        "version": "",
-        "format": "DCP"
-      },
-      {
-        "idFilm": 131487,
-        "ordre": 3,
-        "idSeance": 205956,
-        "idCopie": 30718,
-        "duree": 47,
+        "idSeance": 207869,
+        "idCopie": 30716,
+        "duree": 110,
         "version": "VOSTF",
         "format": "DCP"
       }

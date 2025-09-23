@@ -22,6 +22,11 @@
           "realisateurs": "Kenneth Lonergan",
           "annee": 2011,
           "pays": "États-Unis",
+          "generique": [
+            "Anna Paquin",
+            "Matt Damon",
+            "Mark Ruffalo"
+          ],
           "textes": []
         },
         {
@@ -94,33 +99,6 @@
           ]
         },
         {
-          "idSeance": 207866,
-          "ordre": 2,
-          "dateHeure": "2026-01-15T18:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "dureeSeance": 75,
-          "typeAssoc": 118,
-          "idCategorie": 3898,
-          "idEvenement": 34740,
-          "typeEvenement": 14,
-          "idTypeConference": 16,
-          "typeConference": "Dialogue",
-          "titre": "Dialogue avec Murielle Joudet",
-          "duree": 60,
-          "textes": [],
-          "intervenants": [
-            {
-              "nomComplet": "Murielle Joudet",
-              "idFonction": 39,
-              "fonction": "Intervenant",
-              "ordre": 1
-            }
-          ]
-        },
-        {
           "idSeance": 205531,
           "dateHeure": "2026-02-25T19:00:00",
           "idSalle": [
@@ -142,6 +120,39 @@
               "idFonction": 39,
               "fonction": "Intervenant",
               "ordre": 1
+            }
+          ]
+        },
+        {
+          "idSeance": 207866,
+          "ordre": 2,
+          "dateHeure": "2026-01-15T18:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 75,
+          "typeAssoc": 118,
+          "idCategorie": 3898,
+          "idEvenement": 34740,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Murielle Joudet et Arthur Harari",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Murielle Joudet",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Arthur Harari",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 2
             }
           ]
         }

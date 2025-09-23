@@ -163,11 +163,12 @@
   * Nuit de brume  
   * Quand la chair est faible
 
-## Histoire permanente du cinéma (5)
+## Histoire permanente du cinéma (6)
 
   * American Gigolo  
   * Au-dessous du volcan  
   * Cría cuervos  
+  * Nostalghia  
   * Parfum de femme  
   * Trois amigos
 
@@ -338,7 +339,7 @@
   * Voleur (Le)  
   * Volpone
 
-## Márta Mészáros (29)
+## Márta Mészáros (26)
 
   * Adoption  
   * Aurora borealis  
@@ -355,18 +356,15 @@
   * Fœtus (Le)  
   * Héritières (Les)  
   * Homme sans sépulture (L')  
-  * Hongrie en 2011 : Bout d'essai (La)  
   * In memoriam László Mészáros  
   * Journal à mes amours  
   * Journal à mes enfants  
   * Journal pour mon père et ma mère  
-  * Lettres de ma mère au camarade Staline (Les)  
   * Marie  
   * Neuf mois  
   * Pays des mirages (Le)  
   * Petite Vilma, le dernier journal  
   * Septième Demeure (La)  
-  * Trois dates  
   * Une mère, une fille  
   * Vent de la liberté (Le)
 
@@ -449,7 +447,7 @@
   * Fantozzi  
   * Feux dans la plaine (Les)  
   * Filles (Les)  
-  * Histoire de fantômes chinois  
+  * Histoires de fantômes chinois  
   * Intrus magnifique (L')  
   * Iracema  
   * Kwaïdan  
@@ -502,11 +500,14 @@
   * Six destins  
   * Tables séparées
 
-## Séances spéciales (7)
+## Séances spéciales (10)
 
   * Cercle rouge (Le)  
+  * Comtesse noire (La)  
+  * Graphyty  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
+  * Satan bouche un coin  
   * Shoah (deuxième époque)  
   * Shoah (première époque)  
   * Sobibor, 14 octobre 1943, 16 heures  
