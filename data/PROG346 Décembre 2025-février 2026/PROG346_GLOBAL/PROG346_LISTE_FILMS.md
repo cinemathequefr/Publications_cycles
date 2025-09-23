@@ -75,7 +75,7 @@
   * J'ai tué votre chat  
   * Je, tu, il, elle  
   * Jeune Fille qui pleurait des perles (La)  
-  * Les Fleurs blanches et la lune  
+  * Les Fleurs blanches et la Lune  
   * Ligne de vie (La)  
   * Loynes  
   * Luna Rossa  
@@ -209,7 +209,6 @@
   * A Bittersweet Life (Director's Cut)  
   * As Tears Go By  
   * Black Coal  
-  * Breathless  
   * Chaser (The)  
   * City on Fire  
   * Decision to Leave  
@@ -222,12 +221,13 @@
   * Memories of Murder  
   * Mission (The)  
   * Old Boy  
-  * Police Story  
   * PTU (Police Tactical Unit)  
   * Raid (The)  
   * Shokuzai, partie 1 : Celles qui voulaient se souvenir  
   * Shokuzai, partie 2 : Celles qui voulaient oublier  
   * Sonatine, mélodie mortelle  
+  * Syndicat du crime 2 (Le)  
+  * Syndicat du crime (Le)  
   * Time and Tide  
   * Une pluie sans fin  
   * Violent Cop
@@ -379,7 +379,7 @@
   * Nuit qui terrifia l'Amérique (La)  
   * Orson Welles et moi  
   * Rosabella: La Storia italiana di Orson Welles  
-  * Soif du mal (version 1958) (La)  
+  * Soif du mal (Preview version) (La)  
   * Splendeur des Amberson (La)  
   * Sur la terre de Don Quichotte : Ferias d'avril à Séville  
   * Sur la terre de Don Quichotte : Itinéraire andalou  

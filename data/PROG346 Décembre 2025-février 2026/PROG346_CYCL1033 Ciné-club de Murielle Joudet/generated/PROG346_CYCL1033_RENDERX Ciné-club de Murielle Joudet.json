@@ -2,50 +2,9 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 2,
+      "tri": 4,
       "titreSousCycle": "Les films",
       "items": [
-        {
-          "groupe": [
-            {
-              "idFilm": 116909,
-              "content": [
-                {
-                  "idFilm": 116909,
-                  "ordre": 1,
-                  "titre": "Margaret",
-                  "realisateurs": "Kenneth Lonergan",
-                  "pays": "États-Unis",
-                  "annee": 2011,
-                  "generique": [
-                    "Anna Paquin",
-                    "Matt Damon",
-                    "Mark Ruffalo"
-                  ]
-                }
-              ]
-            },
-            {
-              "idEvenement": 34740,
-              "content": [
-                {
-                  "idConf": 34740,
-                  "ordre": 2,
-                  "titre": "Dialogue avec Murielle Joudet et Arthur Harari",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 207866,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-01-15T18:30:00",
-                  "idSalle": "GF"
-                }
-              ]
-            }
-          ]
-        },
         {
           "groupe": [
             {
@@ -88,6 +47,47 @@
                   "typeAssoc": 118,
                   "dateHeure": "2025-12-22T19:30:00",
                   "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 116909,
+              "content": [
+                {
+                  "idFilm": 116909,
+                  "ordre": 1,
+                  "titre": "Margaret",
+                  "realisateurs": "Kenneth Lonergan",
+                  "pays": "États-Unis",
+                  "annee": 2011,
+                  "generique": [
+                    "Anna Paquin",
+                    "Matt Damon",
+                    "Mark Ruffalo"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 34740,
+              "content": [
+                {
+                  "idConf": 34740,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet et Arthur Harari",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 207866,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-01-15T18:30:00",
+                  "idSalle": "GF"
                 }
               ]
             }
