@@ -100,7 +100,7 @@
   * Bad Girls Go to Hell  
   * Bananes mécaniques  
   * Blackenstein, the Black Frankenstein  
-  * Dernier face à face (Le)  
+  * Dernier Face-à-face (Le)  
   * Hanno cambiato faccia  
   * Nuit des juges (La)  
   * Poursuite implacable (La)  
