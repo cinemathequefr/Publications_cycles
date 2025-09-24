@@ -84,7 +84,7 @@
   * Nico  
   * Ogres (Les)  
   * Père(s) et Fils  
-  * Qr-Code de Frankeasy (Le)  
+  * QR code de Frankeasy (Le)  
   * Star  
   * Sulaimani  
   * Twelve Tales Told  
@@ -172,13 +172,12 @@
   * Parfum de femme  
   * Trois amigos
 
-## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (13)
+## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (12)
 
   * À nous la liberté  
   * Atalante (L')  
   * Bas-fonds (Les)  
   * Beau Serge (Le)  
-  * Haute Pègre  
   * Indiscrétions  
   * Marie pour mémoire  
   * Muriel ou le temps d'un retour  
@@ -204,7 +203,7 @@
   * Saphir de St. Louis (Le)  
   * Spectre du Thuit (Le)
 
-## Le film policier asiatique, 25 indispensables (27)
+## Le film policier asiatique, 25 indispensables (28)
 
   * A Bittersweet Life (Director's Cut)  
   * As Tears Go By  
@@ -224,6 +223,7 @@
   * Old Boy  
   * Police Story  
   * PTU (Police Tactical Unit)  
+  * Raid 2 (The)  
   * Raid (The)  
   * Shokuzai, partie 1 : Celles qui voulaient se souvenir  
   * Shokuzai, partie 2 : Celles qui voulaient oublier  

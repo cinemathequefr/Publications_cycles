@@ -308,27 +308,9 @@
   {
     "idCategorie": 3973,
     "typeEvenement": 13,
-    "idEvenement": 34586,
-    "idSeance": 207886,
+    "idEvenement": 34606,
+    "idSeance": 207890,
     "dateHeure": "2026-02-20T18:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 30,
-    "items": [
-      {
-        "idFilm": 44423,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 3973,
-    "typeEvenement": 13,
-    "idEvenement": 34594,
-    "idSeance": 200483,
-    "dateHeure": "2026-02-20T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -336,13 +318,54 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 102297,
+        "idFilm": 116463,
         "ordre": 1,
-        "idSeance": 200483,
-        "idCopie": 30611,
-        "duree": 100,
+        "idSeance": 207890,
+        "idCopie": 30872,
+        "duree": 101,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 3973,
+    "typeEvenement": 13,
+    "idEvenement": 35002,
+    "idSeance": 207891,
+    "dateHeure": "2026-02-20T20:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 124006,
+        "ordre": 1,
+        "idSeance": 207891,
+        "idCopie": 30935,
+        "duree": 148,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3973,
+    "typeEvenement": 13,
+    "idEvenement": 34586,
+    "idSeance": 207888,
+    "dateHeure": "2026-02-21T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 44423,
+        "ordre": 1
       }
     ]
   },
@@ -413,8 +436,8 @@
   {
     "idCategorie": 3973,
     "typeEvenement": 13,
-    "idEvenement": 34606,
-    "idSeance": 205874,
+    "idEvenement": 34594,
+    "idSeance": 207889,
     "dateHeure": "2026-02-22T20:30:00",
     "idSalle": [
       "HL",
@@ -423,13 +446,13 @@
     "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 116463,
+        "idFilm": 102297,
         "ordre": 1,
-        "idSeance": 205874,
-        "idCopie": 30872,
-        "duree": 101,
-        "version": "",
-        "format": ""
+        "idSeance": 207889,
+        "idCopie": 30611,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
