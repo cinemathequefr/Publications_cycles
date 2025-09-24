@@ -70,12 +70,12 @@
   * Conte de la Jaguère (Le)  
   * Et quand l'aube viendra  
   * Fantaisie  
+  * Fleurs blanches et la Lune (Les)  
   * Golfes se creusent (Les)  
   * Hypernuit  
   * J'ai tué votre chat  
   * Je, tu, il, elle  
   * Jeune Fille qui pleurait des perles (La)  
-  * Les Fleurs blanches et la Lune  
   * Ligne de vie (La)  
   * Loynes  
   * Luna Rossa  
@@ -204,11 +204,12 @@
   * Saphir de St. Louis (Le)  
   * Spectre du Thuit (Le)
 
-## Le film policier asiatique, 25 indispensables (25)
+## Le film policier asiatique, 25 indispensables (27)
 
   * A Bittersweet Life (Director's Cut)  
   * As Tears Go By  
   * Black Coal  
+  * Breathless  
   * Chaser (The)  
   * City on Fire  
   * Decision to Leave  
@@ -221,6 +222,7 @@
   * Memories of Murder  
   * Mission (The)  
   * Old Boy  
+  * Police Story  
   * PTU (Police Tactical Unit)  
   * Raid (The)  
   * Shokuzai, partie 1 : Celles qui voulaient se souvenir  
@@ -500,8 +502,9 @@
   * Six destins  
   * Tables séparées
 
-## Séances spéciales (10)
+## Séances spéciales (11)
 
+  * Affaire Bojarski (L')  
   * Cercle rouge (Le)  
   * Comtesse noire (La)  
   * Graphyty  

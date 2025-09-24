@@ -169,6 +169,43 @@
     },
     {
       "tri": 2,
+      "titreSousCycle": "Avant-première Jean-Paul Salomé",
+      "items": [
+        {
+          "idFilm": 155547,
+          "content": [
+            {
+              "idFilm": 155547,
+              "ordre": 1,
+              "titre": "Affaire Bojarski",
+              "art": "L'",
+              "realisateurs": "Jean-Paul Salomé",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 0,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Reda Kateb",
+                "Sara Giraudeau",
+                "Bastien Bouillon",
+                "Pierre Lottin"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 199247,
+              "dateHeure": "2026-01-05T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
       "titreSousCycle": "Hommage à Jean-Pierre Bouyxou",
       "items": [
         {
@@ -270,6 +307,12 @@
     }
   ],
   "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2026-01-05T20:00:00",
+        "titreFilms": "L'Affaire Bojarski"
+      }
+    ],
     "Séances présentées": [
       {
         "titreFilms": "Shoah (première époque)",
