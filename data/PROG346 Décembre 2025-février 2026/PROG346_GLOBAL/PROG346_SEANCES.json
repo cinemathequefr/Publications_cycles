@@ -81,10 +81,6 @@
       [
         "Restaurations et raretés, best of 2025",
         "Les films"
-      ],
-      [
-        "Ma petite Cinémathèque",
-        "Les films"
       ]
     ],
     "items": [
@@ -2777,7 +2773,7 @@
   {
     "idSeance": 205520,
     "idEvenement": 34386,
-    "dateHeure": "2025-12-20T21:15:00",
+    "dateHeure": "2025-12-20T21:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3132,6 +3128,10 @@
       [
         "Rita Hayworth",
         "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
       ]
     ],
     "items": [
@@ -3332,10 +3332,7 @@
         "idFilm": 31189,
         "titre": "Salomé",
         "realisateurs": "William Dieterle",
-        "annee": 1953,
-        "duree": 103,
-        "version": "VOSTF",
-        "format": "35 mm"
+        "annee": 1953
       }
     ],
     "hashEvenement": "f31189"
@@ -3454,8 +3451,8 @@
         "titre": "Ceux de Cordura",
         "realisateurs": "Robert Rossen",
         "annee": 1958,
-        "duree": 123,
-        "version": "VO",
+        "duree": 107,
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ],
@@ -3610,6 +3607,10 @@
     "dateHeure": "2025-12-31T15:00:00",
     "salle": "HL",
     "cycle": [
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ],
       [
         "Une fin d'année en 70 mm",
         "Les films"
@@ -4124,7 +4125,7 @@
         "titre": "Affaire Bojarski",
         "art": "L'",
         "realisateurs": "Jean-Paul Salomé",
-        "annee": 2025,
+        "annee": 2026,
         "format": "DCP"
       }
     ],
@@ -4355,31 +4356,6 @@
     "hashEvenement": "f50871"
   },
   {
-    "idSeance": 205798,
-    "idEvenement": 34622,
-    "dateHeure": "2026-01-08T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "David Gordon Green",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par David Gordon Green",
-    "items": [
-      {
-        "idFilm": 138312,
-        "titre": "Stronger",
-        "realisateurs": "David Gordon Green",
-        "annee": 2017,
-        "duree": 115,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f138312"
-  },
-  {
     "idSeance": 205618,
     "idEvenement": 34568,
     "dateHeure": "2026-01-08T20:30:00",
@@ -4404,6 +4380,31 @@
       }
     ],
     "hashEvenement": "f155466"
+  },
+  {
+    "idSeance": 205798,
+    "idEvenement": 34622,
+    "dateHeure": "2026-01-08T20:45:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "David Gordon Green",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par David Gordon Green",
+    "items": [
+      {
+        "idFilm": 138312,
+        "titre": "Stronger",
+        "realisateurs": "David Gordon Green",
+        "annee": 2017,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f138312"
   },
   {
     "idSeance": 205468,
@@ -5195,7 +5196,7 @@
   {
     "idSeance": 199506,
     "idEvenement": 34408,
-    "dateHeure": "2026-01-15T20:00:00",
+    "dateHeure": "2026-01-15T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5319,7 +5320,7 @@
   {
     "idSeance": 199548,
     "idEvenement": 34418,
-    "dateHeure": "2026-01-16T20:00:00",
+    "dateHeure": "2026-01-16T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5523,7 +5524,7 @@
   {
     "idSeance": 199591,
     "idEvenement": 34406,
-    "dateHeure": "2026-01-17T20:30:00",
+    "dateHeure": "2026-01-17T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5882,7 +5883,7 @@
   {
     "idSeance": 199660,
     "idEvenement": 34430,
-    "dateHeure": "2026-01-21T20:15:00",
+    "dateHeure": "2026-01-21T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6020,7 +6021,7 @@
   {
     "idSeance": 205739,
     "idEvenement": 34843,
-    "dateHeure": "2026-01-23T16:30:00",
+    "dateHeure": "2026-01-23T16:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6658,7 +6659,8 @@
         "realisateurs": "Alexandre Dovjenko",
         "annee": 1951,
         "duree": 120,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "Vidéo"
       }
     ],
     "hashEvenement": "f65170"
@@ -6731,7 +6733,8 @@
         "realisateurs": "Alexandre Dovjenko, Ioulia Solntseva",
         "annee": 1943,
         "duree": 74,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f65171"
@@ -6908,7 +6911,7 @@
   {
     "idSeance": 205984,
     "idEvenement": 34952,
-    "dateHeure": "2026-01-30T19:00:00",
+    "dateHeure": "2026-01-30T18:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -6933,6 +6936,7 @@
         "realisateurs": "Alexandre Dovjenko",
         "annee": 1940,
         "duree": 68,
+        "version": "STF",
         "format": "DCP"
       }
     ],
@@ -6963,31 +6967,6 @@
     "hashEvenement": "f31661"
   },
   {
-    "idSeance": 205993,
-    "idEvenement": 34768,
-    "dateHeure": "2026-01-30T20:30:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 53567,
-        "titre": "Terre",
-        "art": "La",
-        "realisateurs": "Alexandre Dovjenko",
-        "annee": 1930,
-        "duree": 62,
-        "version": "INT. FR.",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f53567"
-  },
-  {
     "idSeance": 205719,
     "idEvenement": 34489,
     "dateHeure": "2026-01-30T21:00:00",
@@ -7011,6 +6990,31 @@
       }
     ],
     "hashEvenement": "f39859"
+  },
+  {
+    "idSeance": 205993,
+    "idEvenement": 34768,
+    "dateHeure": "2026-01-30T21:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Alexandre Dovjenko",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 53567,
+        "titre": "Terre",
+        "art": "La",
+        "realisateurs": "Alexandre Dovjenko",
+        "annee": 1930,
+        "duree": 62,
+        "version": "INT. FR.",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f53567"
   },
   {
     "idSeance": 199963,
@@ -8723,7 +8727,7 @@
   {
     "idSeance": 200362,
     "idEvenement": 34493,
-    "dateHeure": "2026-02-15T20:00:00",
+    "dateHeure": "2026-02-15T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -9838,30 +9842,6 @@
     "hashEvenement": "f82672"
   },
   {
-    "idSeance": 200629,
-    "idEvenement": 34607,
-    "dateHeure": "2026-02-26T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le film policier asiatique, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 123521,
-        "titre": "Black Coal",
-        "realisateurs": "Diao Yi'nan",
-        "annee": 2014,
-        "duree": 106,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f123521"
-  },
-  {
     "idSeance": 205833,
     "idEvenement": 34963,
     "dateHeure": "2026-02-26T19:00:00",
@@ -9917,8 +9897,8 @@
     "hashEvenement": "f139524"
   },
   {
-    "idSeance": 200669,
-    "idEvenement": 34611,
+    "idSeance": 207887,
+    "idEvenement": 34589,
     "dateHeure": "2026-02-27T18:00:00",
     "salle": "HL",
     "cycle": [
@@ -9929,17 +9909,17 @@
     ],
     "items": [
       {
-        "idFilm": 139245,
-        "titre": "Éternels",
-        "art": "Les",
-        "realisateurs": "Jia Zhangke",
-        "annee": 2018,
-        "duree": 141,
+        "idFilm": 155477,
+        "titre": "City on Fire",
+        "realisateurs": "Ringo Lam",
+        "annee": 1987,
+        "duree": 105,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f139245"
+    "hashEvenement": "f155477"
   },
   {
     "idSeance": 205931,
@@ -9988,6 +9968,30 @@
     "hashEvenement": "f51227"
   },
   {
+    "idSeance": 200670,
+    "idEvenement": 34600,
+    "dateHeure": "2026-02-27T20:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le film policier asiatique, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 153306,
+        "titre": "Decision to Leave",
+        "realisateurs": "Park Chan-wook",
+        "annee": 2022,
+        "duree": 138,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f153306"
+  },
+  {
     "idSeance": 205932,
     "idEvenement": 34978,
     "dateHeure": "2026-02-27T20:45:00",
@@ -10033,30 +10037,6 @@
       }
     ],
     "hashEvenement": "f51417"
-  },
-  {
-    "idSeance": 200670,
-    "idEvenement": 34600,
-    "dateHeure": "2026-02-27T21:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le film policier asiatique, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 153306,
-        "titre": "Decision to Leave",
-        "realisateurs": "Park Chan-wook",
-        "annee": 2022,
-        "duree": 138,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f153306"
   },
   {
     "idSeance": 205865,
@@ -10349,31 +10329,6 @@
     "hashEvenement": "f35425"
   },
   {
-    "idSeance": 200730,
-    "idEvenement": 34589,
-    "dateHeure": "2026-03-01T18:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le film policier asiatique, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 155477,
-        "titre": "City on Fire",
-        "realisateurs": "Ringo Lam",
-        "annee": 1987,
-        "duree": 105,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f155477"
-  },
-  {
     "idSeance": 205938,
     "idEvenement": 34448,
     "dateHeure": "2026-03-01T19:00:00",
@@ -10535,7 +10490,7 @@
   {
     "idSeance": 200743,
     "idEvenement": 35000,
-    "dateHeure": "2026-03-02T20:00:00",
+    "dateHeure": "2026-03-02T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -10963,7 +10918,7 @@
   {
     "idSeance": 205965,
     "idEvenement": 34457,
-    "dateHeure": "2026-03-07T16:00:00",
+    "dateHeure": "2026-03-07T16:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -10988,7 +10943,7 @@
   {
     "idSeance": 200904,
     "idEvenement": 34472,
-    "dateHeure": "2026-03-07T18:00:00",
+    "dateHeure": "2026-03-07T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -11036,7 +10991,7 @@
   {
     "idSeance": 205688,
     "idEvenement": 34469,
-    "dateHeure": "2026-03-07T20:00:00",
+    "dateHeure": "2026-03-07T20:30:00",
     "salle": "GF",
     "cycle": [
       [

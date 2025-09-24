@@ -250,7 +250,7 @@
   * Trésor d'Arne (Le)  
   * Une fille dans chaque port
 
-## Ma petite Cinémathèque (25)
+## Ma petite Cinémathèque (26)
 
   * Âge de glace (L')  
   * Aventures du prince Ahmed (Les)  
@@ -270,6 +270,7 @@
   * Jason et les Argonautes  
   * Jeune et Innocent  
   * Mary Poppins  
+  * Mélodie du bonheur (La)  
   * Montagnards sont là (Les)  
   * Ourse et l'Oiseau (L')  
   * Poucette  
@@ -516,7 +517,7 @@
   * Sobibor, 14 octobre 1943, 16 heures  
   * Un vivant qui passe
 
-## Une fin d'année en 70 mm (14)
+## Une fin d'année en 70 mm (13)
 
   * Cheyennes (Les)  
   * Conquête de l'Ouest (La)  
@@ -527,7 +528,6 @@
   * Lifeforce  
   * Lord Jim  
   * Master (The)  
-  * Mélodie du bonheur (La)  
   * Patton  
   * Poltergeist  
   * Top Gun  
