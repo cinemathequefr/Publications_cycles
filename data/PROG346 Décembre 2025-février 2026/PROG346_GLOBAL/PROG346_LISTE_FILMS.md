@@ -261,9 +261,9 @@
   * Blanche-Neige et Rose-Rouge  
   * Carnavallée  
   * Chicken Run  
-  * chuuut !  
+  * Chuuut !  
   * Contes de la nuit (Les)  
-  * ÉMERVEILLEMENT  
+  * Émerveillement  
   * Enfant qui voulait être un ours (L')  
   * Filante  
   * Grand Noël des animaux (Le)  
@@ -482,7 +482,7 @@
   * Vérité sur Bébé Donge (La)  
   * Ville à vendre
 
-## Rita Hayworth (23)
+## Rita Hayworth (22)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
@@ -493,15 +493,14 @@
   * Cette nuit et toujours  
   * Ceux de Cordura  
   * Colère de Dieu (La)  
-  * Convicted  
   * Dame de Shanghaï (La)  
   * Enfer des tropiques (L')  
-  * Étoile des étoiles (L')  
   * Gilda  
   * Mon amie Sally  
   * Ô toi ma charmante  
   * Piège au grisbi  
   * Plus grand cirque du monde (Le)  
+  * Police montée  
   * Route de Salina (La)  
   * Salomé  
   * Seuls les anges ont des ailes  
@@ -522,7 +521,7 @@
   * Sobibor, 14 octobre 1943, 16 heures  
   * Un vivant qui passe
 
-## Une fin d'année en 70 mm (7)
+## Une fin d'année en 70 mm (10)
 
   * Cheyennes (Les)  
   * Conquête de l'Ouest (La)  
@@ -530,7 +529,10 @@
   * Inherent Vice  
   * Lawrence d'Arabie  
   * Master (The)  
-  * Poltergeist
+  * Oppenheimer  
+  * Playtime  
+  * Poltergeist  
+  * Ran
 
 ## Valérie Donzelli (9)
 
