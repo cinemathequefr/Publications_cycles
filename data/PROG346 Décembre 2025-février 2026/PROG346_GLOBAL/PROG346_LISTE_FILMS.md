@@ -208,7 +208,6 @@
   * A Bittersweet Life (Director's Cut)  
   * As Tears Go By  
   * Black Coal  
-  * Breathless  
   * Chaser (The)  
   * City on Fire  
   * Decision to Leave  
@@ -228,6 +227,7 @@
   * Shokuzai, partie 1 : Celles qui voulaient se souvenir  
   * Shokuzai, partie 2 : Celles qui voulaient oublier  
   * Sonatine, mélodie mortelle  
+  * Sympathy for Mister Vengeance  
   * Syndicat du crime 2 (Le)  
   * Syndicat du crime (Le)  
   * Time and Tide  
@@ -517,21 +517,15 @@
   * Sobibor, 14 octobre 1943, 16 heures  
   * Un vivant qui passe
 
-## Une fin d'année en 70 mm (13)
+## Une fin d'année en 70 mm (7)
 
   * Cheyennes (Les)  
   * Conquête de l'Ouest (La)  
   * Huit Salopards (Les)  
   * Inherent Vice  
-  * Khartoum  
   * Lawrence d'Arabie  
-  * Lifeforce  
-  * Lord Jim  
   * Master (The)  
-  * Patton  
-  * Poltergeist  
-  * Top Gun  
-  * Tron
+  * Poltergeist
 
 ## Valérie Donzelli (9)
 
