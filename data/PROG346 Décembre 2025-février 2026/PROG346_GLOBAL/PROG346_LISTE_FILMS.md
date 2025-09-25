@@ -18,7 +18,7 @@
   * Victoire en Ukraine (La)  
   * Zvenigora
 
-## Andre De Toth (32)
+## Andre De Toth (33)
 
   * 5 heures 40  
   * Aveu (L')  
@@ -41,6 +41,7 @@
   * Mongols (Les)  
   * Noces de Toprin (Les)  
   * None Shall Escape  
+  * Or des Césars (L')  
   * Orchidée blanche (L')  
   * Passport to Suez  
   * Pitfall  
@@ -48,10 +49,10 @@
   * Rivière de nos amours (La)  
   * Sabre et la Flèche (Le)  
   * Semmelweis  
+  * Six semaines de bonheur  
   * Tanganyika  
   * Terreur à l'Ouest  
-  * Trahison du capitaine Porter (La)  
-  * Westerner: School Day (The)
+  * Trahison du capitaine Porter (La)
 
 ## Archi Vives (5)
 
@@ -250,16 +251,19 @@
   * Trésor d'Arne (Le)  
   * Une fille dans chaque port
 
-## Ma petite Cinémathèque (26)
+## Ma petite Cinémathèque (30)
 
   * Âge de glace (L')  
+  * Animal rit  
   * Aventures du prince Ahmed (Les)  
   * Belle au bois dormant (La)  
   * Blanche-Neige et les sept nains  
   * Blanche-Neige et Rose-Rouge  
   * Carnavallée  
   * Chicken Run  
+  * chuuut !  
   * Contes de la nuit (Les)  
+  * ÉMERVEILLEMENT  
   * Enfant qui voulait être un ours (L')  
   * Filante  
   * Grand Noël des animaux (Le)  
@@ -273,6 +277,7 @@
   * Mélodie du bonheur (La)  
   * Montagnards sont là (Les)  
   * Ourse et l'Oiseau (L')  
+  * Parade  
   * Poucette  
   * Princes et Princesses  
   * Reine des neiges (La)  

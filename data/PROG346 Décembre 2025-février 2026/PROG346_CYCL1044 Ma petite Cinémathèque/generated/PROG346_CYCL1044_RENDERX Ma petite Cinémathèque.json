@@ -33,6 +33,51 @@
           ]
         },
         {
+          "idEvenement": 34920,
+          "content": [
+            {
+              "idFilm": 155557,
+              "ordre": 1,
+              "titre": "Animal rit",
+              "realisateurs": "Aurore Peuffier",
+              "pays": "France",
+              "annee": 2017
+            },
+            {
+              "idFilm": 155558,
+              "ordre": 2,
+              "titre": "chuuut !",
+              "realisateurs": "Nina Bisyarina",
+              "pays": "Russie",
+              "annee": 2025
+            },
+            {
+              "idFilm": 155559,
+              "ordre": 3,
+              "titre": "ÉMERVEILLEMENT",
+              "realisateurs": "Martin Clerget",
+              "pays": "France",
+              "annee": 2022
+            },
+            {
+              "idFilm": 155523,
+              "ordre": 4,
+              "titre": "Ourse et l'Oiseau",
+              "art": "L'",
+              "realisateurs": "Marie Caudry",
+              "pays": "France",
+              "annee": 2024
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 205727,
+              "dateHeure": "2026-02-15T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 38313,
           "content": [
             {
@@ -56,6 +101,7 @@
               "idSeance": 200734,
               "dateHeure": "2026-03-01T15:00:00",
               "idSalle": "GF",
+              "mention": "Accompagnement musical par Arnaud van Vliet",
               "ageMinimal": 8
             }
           ]
@@ -248,20 +294,8 @@
               "format": "DCP"
             },
             {
-              "idFilm": 155523,
-              "ordre": 2,
-              "titre": "Ourse et l'Oiseau",
-              "art": "L'",
-              "realisateurs": "Marie Caudry",
-              "pays": "France",
-              "annee": 2024,
-              "duree": 26,
-              "version": "",
-              "format": "DCP"
-            },
-            {
               "idFilm": 70185,
-              "ordre": 3,
+              "ordre": 2,
               "titre": "Carnavallée",
               "realisateurs": "Aline Ahond",
               "pays": "France",
@@ -270,6 +304,15 @@
               "version": "VF",
               "format": "DCP",
               "ageMinimal": 6
+            },
+            {
+              "idFilm": 117607,
+              "ordre": 3,
+              "titre": "Parade",
+              "realisateurs": "Pierre-Emmanuel Lyet",
+              "pays": "France",
+              "annee": 2009,
+              "ageMinimal": 3
             }
           ],
           "seances": [

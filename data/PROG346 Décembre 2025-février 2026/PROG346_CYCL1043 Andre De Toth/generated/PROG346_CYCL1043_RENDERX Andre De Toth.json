@@ -96,7 +96,7 @@
           "seances": [
             {
               "idSeance": 205908,
-              "dateHeure": "2026-02-07T20:00:00",
+              "dateHeure": "2026-02-07T19:30:00",
               "idSalle": "JE"
             }
           ]
@@ -393,9 +393,9 @@
           ],
           "seances": [
             {
-              "idSeance": 205605,
-              "dateHeure": "2026-01-24T15:00:00",
-              "idSalle": "GF"
+              "idSeance": 207897,
+              "dateHeure": "2026-01-24T18:15:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -501,7 +501,7 @@
             },
             {
               "idSeance": 205904,
-              "dateHeure": "2026-02-07T16:30:00",
+              "dateHeure": "2026-02-07T15:30:00",
               "idSalle": "JE"
             }
           ]
@@ -573,11 +573,6 @@
               "idSeance": 199734,
               "dateHeure": "2026-01-23T18:00:00",
               "idSalle": "HL"
-            },
-            {
-              "idSeance": 205973,
-              "dateHeure": "2026-01-24T20:15:00",
-              "idSalle": "HL"
             }
           ]
         },
@@ -639,7 +634,7 @@
           "seances": [
             {
               "idSeance": 205907,
-              "dateHeure": "2026-02-08T19:45:00",
+              "dateHeure": "2026-02-08T15:00:00",
               "idSalle": "JE"
             }
           ]
@@ -708,6 +703,38 @@
               "idSeance": 205970,
               "dateHeure": "2026-01-25T14:30:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 65274,
+          "content": [
+            {
+              "idFilm": 65274,
+              "ordre": 1,
+              "titre": "Or des Césars",
+              "art": "L'",
+              "titreVo": "Oro per i Cesari",
+              "realisateurs": "Andre De Toth, Sabatino Ciuffini, Riccardo Freda",
+              "pays": "Italie-France",
+              "annee": 1963,
+              "duree": 66,
+              "version": "VF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _De l'or pour les Césars_ de Florence A. Seward.",
+              "generique": [
+                "Mylène Demongeot",
+                "Ettore Manni",
+                "Massimo Girotti"
+              ],
+              "miniTexte": "Un esclave-architecte est chargé de trouver de l'or pour Rome. De Toth et Ciuffini orchestrent un film historique aux scènes marquantes (la construction du pont, l'inondation finale), emmené par l'alchimie de son couple vedette, Jeffrey Hunter et Mylène Demongeot."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207899,
+              "dateHeure": "2026-02-07T17:30:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -802,8 +829,9 @@
                 {
                   "idConf": 34728,
                   "ordre": 2,
-                  "titre": "Dialogue avec ???",
-                  "typeConference": "Dialogue"
+                  "titre": "Dialogue avec Philippe Garnier",
+                  "typeConference": "Dialogue",
+                  "miniTexte": "On oublie souvent que De Toth a écrit et rafistolé des scénarios toute sa vie. À une époque, son ami William Bowers et lui partaient écrire dans le désert pour ensuite soumettre des synopsis ou des idées aux studios. Bowers sous le manteau bien sûr, parce qu'il était sous contrat chez Universal. La prolixité de Bowers était aussi prodigieuse que sa soif et le gin qu'il consommait ; on reconnaît toujours un dialogue de Bowers. En plus de _The Gunfighter_ (leur seule nomination aux Oscars), ensemble ils ont écrit/adapté _Pitfall_, qui est un grand film noir, et aussi un des films les plus tristes et réalistes sur le mariage et sur l'adultère. — Philippe Garnier"
                 }
               ],
               "seances": [
@@ -811,7 +839,14 @@
                   "idSeance": 199589,
                   "typeAssoc": 118,
                   "dateHeure": "2026-01-17T14:30:00",
-                  "idSalle": "HL"
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 207898,
+                  "dateHeure": "2026-01-24T20:15:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
                 }
               ]
             }
@@ -952,6 +987,37 @@
           ]
         },
         {
+          "idFilm": 80311,
+          "content": [
+            {
+              "idFilm": 80311,
+              "ordre": 1,
+              "titre": "Six semaines de bonheur",
+              "titreVo": "Hat hét boldogság",
+              "realisateurs": "Andre De Toth",
+              "pays": "Hongrie",
+              "annee": 1939,
+              "duree": 80,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Klári Tolnay",
+                "Ferenc Kiss",
+                "László Szilassy"
+              ],
+              "miniTexte": "Un cambrioleur, qui cache son activité à sa fille, se voit forcé de lui révéler la vérité. À l'aube de son exil, le cinéaste filme Budapest avec affection et subtilité pour illustrer les mésaventures d'un voleur en fin de carrière. Une délicieuse fable morale, brillante mise en abyme théâtrale."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207896,
+              "dateHeure": "2026-01-24T15:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 80317,
           "content": [
             {
@@ -1033,41 +1099,6 @@
               "idSeance": 199735,
               "dateHeure": "2026-01-23T20:00:00",
               "idSalle": "HL"
-            },
-            {
-              "idSeance": 205972,
-              "dateHeure": "2026-01-24T18:15:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 127474,
-          "content": [
-            {
-              "idFilm": 127474,
-              "ordre": 1,
-              "titre": "Westerner: School Day",
-              "art": "The",
-              "realisateurs": "Andre De Toth",
-              "pays": "États-Unis",
-              "annee": 1960,
-              "duree": 30,
-              "version": "VO",
-              "format": "Vidéo",
-              "generique": [
-                "Brian Keith",
-                "R.G. Armstrong",
-                "Margaret Field"
-              ],
-              "miniTexte": "Second épisode de la série _The Westerner_, créée par Sam Peckinpah. Faisant preuve d'une rare intelligence dramatique, De Toth filme un Ouest glauque et violent pour mieux illustrer la complexité morale de son héros face à la vindicte populaire."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205906,
-              "dateHeure": "2026-02-07T19:00:00",
-              "idSalle": "JE"
             }
           ]
         }
@@ -1078,7 +1109,7 @@
     "Dialogue": [
       {
         "titreFilms": "Pitfall",
-        "mention": "avec ???",
+        "mention": "avec Philippe Garnier",
         "dateHeure": "2026-01-17T14:30:00"
       }
     ],

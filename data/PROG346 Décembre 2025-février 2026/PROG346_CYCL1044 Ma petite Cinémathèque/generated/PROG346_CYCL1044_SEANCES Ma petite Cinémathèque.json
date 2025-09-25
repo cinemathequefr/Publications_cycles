@@ -418,6 +418,36 @@
   {
     "idCategorie": 3967,
     "typeEvenement": 13,
+    "idEvenement": 34920,
+    "idSeance": 205727,
+    "dateHeure": "2026-02-15T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 155557,
+        "ordre": 1
+      },
+      {
+        "idFilm": 155558,
+        "ordre": 2
+      },
+      {
+        "idFilm": 155559,
+        "ordre": 3
+      },
+      {
+        "idFilm": 155523,
+        "ordre": 4
+      }
+    ]
+  },
+  {
+    "idCategorie": 3967,
+    "typeEvenement": 13,
     "idEvenement": 34875,
     "idSeance": 200402,
     "dateHeure": "2026-02-18T15:00:00",
@@ -483,22 +513,17 @@
         "format": "DCP"
       },
       {
-        "idFilm": 155523,
-        "ordre": 2,
-        "idSeance": 200589,
-        "idCopie": 30839,
-        "duree": 26,
-        "version": "",
-        "format": "DCP"
-      },
-      {
         "idFilm": 70185,
-        "ordre": 3,
+        "ordre": 2,
         "idSeance": 200589,
         "idCopie": 15950,
         "duree": 5,
         "version": "VF",
         "format": "DCP"
+      },
+      {
+        "idFilm": 117607,
+        "ordre": 3
       }
     ]
   },
@@ -523,7 +548,8 @@
         "version": "INT. FR.",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Accompagnement musical par Arnaud van Vliet"
   },
   {
     "idCategorie": 3967,
