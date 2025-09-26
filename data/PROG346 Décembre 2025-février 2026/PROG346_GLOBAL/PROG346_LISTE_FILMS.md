@@ -62,7 +62,7 @@
   * Impératrice (L')  
   * Old Love and the New (The)
 
-## Aujourd'hui le cinéma (26)
+## Aujourd'hui le cinéma (25)
 
   * +10K  
   * Bel companho  
@@ -88,8 +88,7 @@
   * QR code de Frankeasy (Le)  
   * Star  
   * Sulaimani  
-  * Twelve Tales Told  
-  * Une question de vie ou de mort
+  * Twelve Tales Told
 
 ## Ciné-club de Murielle Joudet (2)
 
@@ -535,14 +534,17 @@
   * Poltergeist  
   * Ran
 
-## Valérie Donzelli (9)
+## Valérie Donzelli (12)
 
   * À pied d'œuvre  
   * Amour et les forêts (L')  
+  * Cinéma de maman (Le)  
+  * De Myrha à Babylone  
   * Guerre est déclarée (La)  
+  * Il fait beau dans la plus belle ville du monde  
+  * Madeleine et le facteur  
   * Main dans la main  
   * Marguerite et Julien  
   * Notre Dame  
-  * Que d'amour  
   * Reine des pommes (La)  
   * Rue du Conservatoire  
