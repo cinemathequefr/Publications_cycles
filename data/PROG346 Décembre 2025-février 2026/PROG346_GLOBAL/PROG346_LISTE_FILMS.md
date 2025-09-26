@@ -399,12 +399,12 @@
 
   * 3 Days to Eternity  
   * Atheis  
-  * Berbagi suami  
-  * Darah dan doa  
   * Feuille sur un oreiller  
-  * Ibunda  
+  * Long March (The)  
+  * Love for Share  
   * Marlina, la tueuse en quatre actes  
-  * Pengabdi Setan  
+  * Mother  
+  * Satan's Slaves  
   * Turang  
   * Une femme indonésienne
 
