@@ -93,27 +93,51 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
+        },
         {
-          "idConf": 34741,
-          "content": [
+          "groupe": [
             {
-              "idConf": 34741,
-              "titre": "Dialogue avec Murielle Joudet",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
+              "idFilm": 50602,
+              "content": [
+                {
+                  "idFilm": 50602,
+                  "ordre": 1,
+                  "titre": "Killer",
+                  "art": "The",
+                  "titreVo": "Dib hyut seung hung",
+                  "realisateurs": "John Woo",
+                  "pays": "Hong Kong",
+                  "annee": 1989,
+                  "duree": 111,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Chow Yun-fat",
+                    "Danny Lee",
+                    "Sally Yeh"
+                  ],
+                  "miniTexte": "Après avoir accidentellement rendu aveugle une jeune chanteuse, un tueur à gages accepte une dernière mission pour financer son opération. En guise d'hommage à Melville et Scorsese, John Woo livre une œuvre lyrique aux personnages tragiques, engagés dans un code d'honneur et une loyauté inébranlables. Un spectacle grandiloquent, qui a influencé Tarantino."
+                }
+              ]
+            },
             {
-              "idSeance": 205531,
-              "dateHeure": "2026-02-25T19:00:00",
-              "idSalle": "HL"
+              "idEvenement": 34741,
+              "content": [
+                {
+                  "idConf": 34741,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 200591,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-02-25T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -133,6 +157,7 @@
         "dateHeure": "2026-01-15T18:30:00"
       },
       {
+        "titreFilms": "The Killer",
         "mention": "avec Murielle Joudet",
         "dateHeure": "2026-02-25T19:00:00"
       }

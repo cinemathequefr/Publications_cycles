@@ -79,18 +79,45 @@
     ]
   },
   {
-    "idCategorie": 3898,
-    "typeEvenement": 14,
-    "idEvenement": 34741,
-    "idSeance": 205531,
+    "idCategorie": 3897,
+    "typeEvenement": 13,
+    "idEvenement": 34588,
+    "idSeance": 200591,
     "dateHeure": "2026-02-25T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 180,
+    "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "idFilm": 50602,
+        "ordre": 1,
+        "idSeance": 200591,
+        "idCopie": 11966,
+        "duree": 111,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3898,
+    "typeEvenement": 14,
+    "idEvenement": 34741,
+    "idSeance": 200591,
+    "dateHeure": "2026-02-25T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 75,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
     ]
   }
 ]

@@ -91,8 +91,9 @@
   * Sulaimani  
   * Twelve Tales Told
 
-## Ciné-club de Murielle Joudet (2)
+## Ciné-club de Murielle Joudet (3)
 
+  * Killer (The)  
   * Margaret  
   * Reine de Broadway (La)
 
@@ -204,19 +205,20 @@
   * Saphir de St. Louis (Le)  
   * Spectre du Thuit (Le)
 
-## Le film policier asiatique, 25 indispensables (28)
+## Le film policier asiatique, 25 indispensables (29)
 
   * A Bittersweet Life (Director's Cut)  
   * As Tears Go By  
   * Black Coal  
   * Chaser (The)  
+  * City of Darkness  
   * City on Fire  
+  * Cure  
   * Decision to Leave  
   * Éternels (Les)  
   * Exilé  
   * Ichi the Killer  
   * Infernal Affairs  
-  * Killer (The)  
   * Longest Nite (The)  
   * Memories of Murder  
   * Mission (The)  
@@ -347,28 +349,34 @@
   * Voleur (Le)  
   * Volpone
 
-## Márta Mészáros (22)
+## Márta Mészáros (28)
 
   * Adoption  
+  * Amour  
+  * Art de la vente (L')  
   * Aurora borealis  
+  * Battement de cœur  
   * Belle et le Vagabond (La)  
   * Bóbita  
-  * Borsos Miklós  
   * Bye bye chaperon rouge  
   * Cati  
   * Comme chez nous  
+  * Couleurs de Vasarely (Les)  
   * Elles deux  
-  * Festők városa, Szentendre  
   * Filature de Lőrinci (La)  
   * Héritières (Les)  
   * Homme sans sépulture (L')  
   * In memoriam László Mészáros  
+  * János Tornyai  
   * Journal à mes amours  
   * Journal à mes enfants  
   * Journal pour mon père et ma mère  
   * Marie  
+  * Miklós Borsos  
   * Neuf mois  
   * Pays des mirages (Le)  
+  * Szentendre, la ville des peintres  
+  * Une histoire ordinaire  
   * Une mère, une fille  
   * Vent de la liberté (Le)
 

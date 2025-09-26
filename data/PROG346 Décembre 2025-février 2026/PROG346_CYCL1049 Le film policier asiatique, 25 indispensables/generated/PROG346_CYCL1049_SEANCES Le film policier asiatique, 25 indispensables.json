@@ -10,6 +10,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 30,
+    "typeSeance": 44,
     "items": [
       {
         "idFilm": 155477,
@@ -21,7 +22,8 @@
         "format": "DCP",
         "restauration": true
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 3973,
@@ -116,21 +118,6 @@
     ]
   },
   {
-    "idCategorie": 4003,
-    "typeEvenement": 14,
-    "idEvenement": 34732,
-    "idSeance": 205524,
-    "dateHeure": "2026-02-14T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 180,
-    "items": [
-      {}
-    ]
-  },
-  {
     "idCategorie": 3973,
     "typeEvenement": 13,
     "idEvenement": 34602,
@@ -141,6 +128,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 165,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 91407,
@@ -150,6 +138,24 @@
         "duree": 131,
         "version": "VOSTF",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4003,
+    "typeEvenement": 14,
+    "idEvenement": 34732,
+    "idSeance": 207878,
+    "dateHeure": "2026-02-14T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 75,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -290,23 +296,18 @@
   {
     "idCategorie": 3973,
     "typeEvenement": 13,
-    "idEvenement": 34596,
-    "idSeance": 200443,
+    "idEvenement": 34595,
+    "idSeance": 207935,
     "dateHeure": "2026-02-19T20:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 97750,
-        "ordre": 1,
-        "idSeance": 200443,
-        "idCopie": 12501,
-        "duree": 88,
-        "version": "VO",
-        "format": "35 mm"
+        "idFilm": 75199,
+        "ordre": 1
       }
     ]
   },
@@ -423,18 +424,42 @@
   {
     "idCategorie": 3973,
     "typeEvenement": 13,
-    "idEvenement": 34595,
-    "idSeance": 207881,
+    "idEvenement": 34596,
+    "idSeance": 207934,
     "dateHeure": "2026-02-22T17:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
-        "idFilm": 75199,
-        "ordre": 1
+        "idFilm": 97750,
+        "ordre": 1,
+        "idSeance": 207934,
+        "idCopie": 12501,
+        "duree": 88,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4003,
+    "typeEvenement": 14,
+    "idEvenement": 35056,
+    "idSeance": 207934,
+    "dateHeure": "2026-02-22T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -472,6 +497,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 150,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 50602,
@@ -489,7 +515,7 @@
     "typeEvenement": 13,
     "idEvenement": 34610,
     "idSeance": 205876,
-    "dateHeure": "2026-02-26T20:15:00",
+    "dateHeure": "2026-02-26T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -503,6 +529,29 @@
         "idCopie": 30873,
         "duree": 120,
         "version": "VO",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3973,
+    "typeEvenement": 13,
+    "idEvenement": 34600,
+    "idSeance": 207931,
+    "dateHeure": "2026-02-26T20:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 153306,
+        "ordre": 1,
+        "idSeance": 207931,
+        "idCopie": 24130,
+        "duree": 138,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ]
@@ -534,8 +583,8 @@
   {
     "idCategorie": 3973,
     "typeEvenement": 13,
-    "idEvenement": 34600,
-    "idSeance": 200670,
+    "idEvenement": 35005,
+    "idSeance": 207930,
     "dateHeure": "2026-02-27T20:15:00",
     "idSalle": [
       "HL",
@@ -544,11 +593,11 @@
     "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 153306,
+        "idFilm": 155548,
         "ordre": 1,
-        "idSeance": 200670,
-        "idCopie": 24130,
-        "duree": 138,
+        "idSeance": 207930,
+        "idCopie": 30936,
+        "duree": 126,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -582,7 +631,7 @@
     "typeEvenement": 13,
     "idEvenement": 34608,
     "idSeance": 205866,
-    "dateHeure": "2026-02-28T18:00:00",
+    "dateHeure": "2026-02-28T17:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -603,6 +652,29 @@
   {
     "idCategorie": 3973,
     "typeEvenement": 13,
+    "idEvenement": 35004,
+    "idSeance": 207932,
+    "dateHeure": "2026-02-28T20:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 65545,
+        "ordre": 1,
+        "idSeance": 207932,
+        "idCopie": 11116,
+        "duree": 0,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3973,
+    "typeEvenement": 13,
     "idEvenement": 34592,
     "idSeance": 207880,
     "dateHeure": "2026-03-01T14:30:00",
@@ -611,6 +683,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 57559,
@@ -620,6 +693,24 @@
         "duree": 94,
         "version": "VO",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4003,
+    "typeEvenement": 14,
+    "idEvenement": 35057,
+    "idSeance": 207880,
+    "dateHeure": "2026-03-01T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 90,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },

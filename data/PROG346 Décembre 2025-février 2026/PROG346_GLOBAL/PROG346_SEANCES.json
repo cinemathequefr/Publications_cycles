@@ -6969,10 +6969,6 @@
       [
         "Márta Mészáros",
         "Les films"
-      ],
-      [
-        "Márta Mészáros",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -6984,15 +6980,30 @@
         "duree": 90,
         "version": "VOSTF",
         "format": "DCP"
-      },
+      }
+    ],
+    "hashEvenement": "f40931"
+  },
+  {
+    "idSeance": 205600,
+    "idEvenement": 34812,
+    "dateHeure": "2026-01-31T16:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
       {
         "idConf": 34812,
-        "titre": "Dialogue avec Lili Monori",
+        "titre": "Dialogue avec Damien Marguet",
         "typeConference": "Dialogue",
         "duree": 60
       }
     ],
-    "hashEvenement": "f40931c34812"
+    "hashEvenement": "c34812"
   },
   {
     "idSeance": 199964,
@@ -7761,7 +7772,7 @@
     "items": [
       {
         "idFilm": 155555,
-        "titre": "Festők városa, Szentendre",
+        "titre": "Szentendre, la ville des peintres",
         "realisateurs": "Márta Mészáros",
         "annee": 1964,
         "duree": 15,
@@ -7781,7 +7792,7 @@
       },
       {
         "idFilm": 155551,
-        "titre": "Borsos Miklós",
+        "titre": "Miklós Borsos",
         "realisateurs": "Márta Mészáros",
         "annee": 1966,
         "duree": 12,
@@ -7933,6 +7944,82 @@
       }
     ],
     "hashEvenement": "f143512"
+  },
+  {
+    "idSeance": 207933,
+    "idEvenement": 35047,
+    "dateHeure": "2026-02-08T18:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155552,
+        "titre": "Une histoire ordinaire",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1955,
+        "duree": 16,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155560,
+        "titre": "Art de la vente",
+        "art": "L'",
+        "realisateurs": "Márta Mészáros, Miklós Jancsó",
+        "annee": 1960,
+        "duree": 14,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155553,
+        "titre": "Couleurs de Vasarely",
+        "art": "Les",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1961,
+        "duree": 15,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155554,
+        "titre": "Battement de cœur",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1961,
+        "duree": 17,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155549,
+        "titre": "János Tornyai",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1962,
+        "duree": 18,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155550,
+        "titre": "Amour",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1963,
+        "duree": 13,
+        "version": "STF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f155552f155560f155553f155554f155549f155550"
   },
   {
     "idSeance": 205891,
@@ -8097,6 +8184,7 @@
         "Les films"
       ]
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 155477,
@@ -8335,27 +8423,6 @@
     "hashEvenement": "f42801"
   },
   {
-    "idSeance": 205524,
-    "idEvenement": 34732,
-    "dateHeure": "2026-02-14T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le film policier asiatique, 25 indispensables",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 34732,
-        "titre": "Dialogue avec Clément Rauger",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c34732"
-  },
-  {
     "idSeance": 207878,
     "idEvenement": 34602,
     "dateHeure": "2026-02-14T14:30:00",
@@ -8364,6 +8431,10 @@
       [
         "Le film policier asiatique, 25 indispensables",
         "Les films"
+      ],
+      [
+        "Le film policier asiatique, 25 indispensables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -8375,9 +8446,15 @@
         "duree": 131,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 34732,
+        "titre": "Dialogue avec Clément Rauger",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f91407"
+    "hashEvenement": "f91407c34732"
   },
   {
     "idSeance": 200341,
@@ -8851,8 +8928,8 @@
     "hashEvenement": "c34733"
   },
   {
-    "idSeance": 200443,
-    "idEvenement": 34596,
+    "idSeance": 207935,
+    "idEvenement": 34595,
     "dateHeure": "2026-02-19T20:30:00",
     "salle": "HL",
     "cycle": [
@@ -8863,16 +8940,14 @@
     ],
     "items": [
       {
-        "idFilm": 97750,
-        "titre": "PTU (Police Tactical Unit)",
+        "idFilm": 75199,
+        "titre": "Mission",
+        "art": "The",
         "realisateurs": "Johnnie To",
-        "annee": 2003,
-        "duree": 88,
-        "version": "VO",
-        "format": "35 mm"
+        "annee": 1999
       }
     ],
-    "hashEvenement": "f97750"
+    "hashEvenement": "f75199"
   },
   {
     "idSeance": 200439,
@@ -9367,26 +9442,36 @@
     "hashEvenement": "f51459"
   },
   {
-    "idSeance": 207881,
-    "idEvenement": 34595,
+    "idSeance": 207934,
+    "idEvenement": 34596,
     "dateHeure": "2026-02-22T17:00:00",
     "salle": "HL",
     "cycle": [
       [
         "Le film policier asiatique, 25 indispensables",
         "Les films"
+      ],
+      [
+        "Le film policier asiatique, 25 indispensables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 75199,
-        "titre": "Mission",
-        "art": "The",
+        "idFilm": 97750,
+        "titre": "PTU (Police Tactical Unit)",
         "realisateurs": "Johnnie To",
-        "annee": 1999
+        "annee": 2003,
+        "duree": 88,
+        "version": "VO",
+        "format": "35 mm"
+      },
+      {
+        "idConf": 35056,
+        "titre": "[Action culturelle sans titre]"
       }
     ],
-    "hashEvenement": "f75199"
+    "hashEvenement": "f97750c35056"
   },
   {
     "idSeance": 200548,
@@ -9669,6 +9754,14 @@
     "salle": "HL",
     "cycle": [
       [
+        "Ciné-club de Murielle Joudet",
+        "Les films"
+      ],
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
+      ],
+      [
         "Le film policier asiatique, 25 indispensables",
         "Les films"
       ]
@@ -9683,22 +9776,7 @@
         "duree": 111,
         "version": "VOSTF",
         "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f50602"
-  },
-  {
-    "idSeance": 205531,
-    "idEvenement": 34741,
-    "dateHeure": "2026-02-25T19:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Ciné-club de Murielle Joudet",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 34741,
         "titre": "Dialogue avec Murielle Joudet",
@@ -9706,7 +9784,7 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c34741"
+    "hashEvenement": "f50602c34741"
   },
   {
     "idSeance": 205930,
@@ -9755,6 +9833,30 @@
     "hashEvenement": "f82672"
   },
   {
+    "idSeance": 205876,
+    "idEvenement": 34610,
+    "dateHeure": "2026-02-26T18:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le film policier asiatique, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 139524,
+        "titre": "Une pluie sans fin",
+        "realisateurs": "Dong Yue",
+        "annee": 2017,
+        "duree": 120,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f139524"
+  },
+  {
     "idSeance": 205833,
     "idEvenement": 34963,
     "dateHeure": "2026-02-26T19:00:00",
@@ -9786,9 +9888,9 @@
     "hashEvenement": "f51012c34744"
   },
   {
-    "idSeance": 205876,
-    "idEvenement": 34610,
-    "dateHeure": "2026-02-26T20:15:00",
+    "idSeance": 207931,
+    "idEvenement": 34600,
+    "dateHeure": "2026-02-26T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -9798,16 +9900,16 @@
     ],
     "items": [
       {
-        "idFilm": 139524,
-        "titre": "Une pluie sans fin",
-        "realisateurs": "Dong Yue",
-        "annee": 2017,
-        "duree": 120,
-        "version": "VO",
+        "idFilm": 153306,
+        "titre": "Decision to Leave",
+        "realisateurs": "Park Chan-wook",
+        "annee": 2022,
+        "duree": 138,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f139524"
+    "hashEvenement": "f153306"
   },
   {
     "idSeance": 207887,
@@ -9882,8 +9984,8 @@
     "hashEvenement": "f51227"
   },
   {
-    "idSeance": 200670,
-    "idEvenement": 34600,
+    "idSeance": 207930,
+    "idEvenement": 35005,
     "dateHeure": "2026-02-27T20:15:00",
     "salle": "HL",
     "cycle": [
@@ -9894,16 +9996,16 @@
     ],
     "items": [
       {
-        "idFilm": 153306,
-        "titre": "Decision to Leave",
-        "realisateurs": "Park Chan-wook",
-        "annee": 2022,
-        "duree": 138,
+        "idFilm": 155548,
+        "titre": "City of Darkness",
+        "realisateurs": "Soi Cheang",
+        "annee": 2024,
+        "duree": 126,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f153306"
+    "hashEvenement": "f155548"
   },
   {
     "idSeance": 205932,
@@ -10048,6 +10150,30 @@
     "hashEvenement": "f79229"
   },
   {
+    "idSeance": 205866,
+    "idEvenement": 34608,
+    "dateHeure": "2026-02-28T17:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le film policier asiatique, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 120018,
+        "titre": "Shokuzai, partie 2 : Celles qui voulaient oublier",
+        "realisateurs": "Kiyoshi Kurosawa",
+        "annee": 2012,
+        "duree": 152,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f120018"
+  },
+  {
     "idSeance": 205863,
     "idEvenement": 34959,
     "dateHeure": "2026-02-28T17:30:00",
@@ -10069,30 +10195,6 @@
       }
     ],
     "hashEvenement": "f56068"
-  },
-  {
-    "idSeance": 205866,
-    "idEvenement": 34608,
-    "dateHeure": "2026-02-28T18:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le film policier asiatique, 25 indispensables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 120018,
-        "titre": "Shokuzai, partie 2 : Celles qui voulaient oublier",
-        "realisateurs": "Kiyoshi Kurosawa",
-        "annee": 2012,
-        "duree": 152,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f120018"
   },
   {
     "idSeance": 205935,
@@ -10169,6 +10271,29 @@
     "hashEvenement": "f79233"
   },
   {
+    "idSeance": 207932,
+    "idEvenement": 35004,
+    "dateHeure": "2026-02-28T20:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le film policier asiatique, 25 indispensables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 65545,
+        "titre": "Cure",
+        "realisateurs": "Kiyoshi Kurosawa",
+        "annee": 1997,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f65545"
+  },
+  {
     "idSeance": 207880,
     "idEvenement": 34592,
     "dateHeure": "2026-03-01T14:30:00",
@@ -10177,6 +10302,10 @@
       [
         "Le film policier asiatique, 25 indispensables",
         "Les films"
+      ],
+      [
+        "Le film policier asiatique, 25 indispensables",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -10188,9 +10317,13 @@
         "duree": 94,
         "version": "VO",
         "format": "DCP"
+      },
+      {
+        "idConf": 35057,
+        "titre": "[Action culturelle sans titre]"
       }
     ],
-    "hashEvenement": "f57559"
+    "hashEvenement": "f57559c35057"
   },
   {
     "idSeance": 200734,

@@ -80,7 +80,6 @@
       "Georges Franju"
     ],
     "dureeSeance": 120,
-    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 40931,
@@ -97,18 +96,15 @@
     "idCategorie": 4002,
     "typeEvenement": 14,
     "idEvenement": 34812,
-    "idSeance": 205750,
-    "dateHeure": "2026-01-31T15:00:00",
+    "idSeance": 205600,
+    "dateHeure": "2026-01-31T16:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
     "dureeSeance": 120,
-    "typeAssoc": 118,
     "items": [
-      {
-        "ordre": 2
-      }
+      {}
     ]
   },
   {
@@ -362,6 +358,79 @@
         "duree": 104,
         "version": "VOSTF",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4039,
+    "typeEvenement": 13,
+    "idEvenement": 35047,
+    "idSeance": 207933,
+    "dateHeure": "2026-02-08T18:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155552,
+        "ordre": 1,
+        "idSeance": 207933,
+        "idCopie": 30937,
+        "duree": 16,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155560,
+        "ordre": 2,
+        "idSeance": 207933,
+        "idCopie": 30946,
+        "duree": 14,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155553,
+        "ordre": 3,
+        "idSeance": 207933,
+        "idCopie": 30939,
+        "duree": 15,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155554,
+        "ordre": 4,
+        "idSeance": 207933,
+        "idCopie": 30938,
+        "duree": 17,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155549,
+        "ordre": 5,
+        "idSeance": 207933,
+        "idCopie": 30941,
+        "duree": 18,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155550,
+        "ordre": 6,
+        "idSeance": 207933,
+        "idCopie": 30940,
+        "duree": 13,
+        "version": "STF",
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },

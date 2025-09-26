@@ -131,6 +131,36 @@
           ]
         },
         {
+          "idFilm": 155548,
+          "content": [
+            {
+              "idFilm": 155548,
+              "ordre": 1,
+              "titre": "City of Darkness",
+              "realisateurs": "Soi Cheang",
+              "pays": "Hong-Kong-Chine",
+              "annee": 2024,
+              "duree": 126,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après la bande dessinée _City of Darkness_ d'Andy Seto.",
+              "generique": [
+                "Louis Koo",
+                "Sammo Kam-Bo Hung",
+                "Richie Jen"
+              ],
+              "miniTexte": "Un réfugié sans-papiers participe à des combats clandestins pour survivre à Hong Kong. Dans les ruelles étouffantes de Kowloon, Soi Cheang orchestre un adieu mélancolique à une cité disparue, sublimée par la fureur des corps, de guerre des gangs en bastons claustrophobes. Un puissant hommage au polar hongkongais, où la violence rencontre la poésie."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207930,
+              "dateHeure": "2026-02-27T20:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 155477,
           "content": [
             {
@@ -157,11 +187,43 @@
             {
               "idSeance": 205721,
               "dateHeure": "2026-02-11T20:00:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
             },
             {
               "idSeance": 207887,
               "dateHeure": "2026-02-27T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 65545,
+          "content": [
+            {
+              "idFilm": 65545,
+              "ordre": 1,
+              "titre": "Cure",
+              "titreVo": "Kyua",
+              "realisateurs": "Kiyoshi Kurosawa",
+              "pays": "Japon",
+              "annee": 1997,
+              "duree": 0,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Kōji Yakusho",
+                "Masato Hagiwara",
+                "Tsuyoshi Ujiki",
+                "Anna Nakagawa"
+              ],
+              "miniTexte": "Avec une science inouïe du cadrage et de la durée, le génie de son acteur Kōji Yakusho, Kurosawa redéfinit le thème du _serial killer_ et décrit l'humanité comme hantée par une pulsion de mort, un sourd désir d'annihilation avec lequel chacun construit sa propre identité. Un film déconcertant et terrifiant, la découverte d'un des plus importants et des plus expérimentaux cinéastes contemporains."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207932,
+              "dateHeure": "2026-02-28T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -190,8 +252,8 @@
           ],
           "seances": [
             {
-              "idSeance": 200670,
-              "dateHeure": "2026-02-27T20:15:00",
+              "idSeance": 207931,
+              "dateHeure": "2026-02-26T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -346,6 +408,7 @@
           "seances": [
             {
               "idSeance": 200591,
+              "typeAssoc": 118,
               "dateHeure": "2026-02-25T19:00:00",
               "idSalle": "HL"
             }
@@ -380,32 +443,50 @@
           ]
         },
         {
-          "idFilm": 91407,
-          "content": [
+          "groupe": [
             {
               "idFilm": 91407,
-              "ordre": 1,
-              "titre": "Memories of Murder",
-              "titreVo": "Salinui chueok",
-              "realisateurs": "Bong Joon-ho",
-              "pays": "Corée",
-              "annee": 2003,
-              "duree": 131,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Song Kang-ho",
-                "Kim Sang-kyung",
-                "Kim Roe-ha"
-              ],
-              "miniTexte": "Deuxième long métrage de Bong Joon-ho et coup de maître : un polar surprenant en perpétuel équilibre, qui confronte la comédie et la tragédie grâce à une mise en scène virtuose. Basé sur une série de crimes jamais élucidés en Corée, _Memories of Murder_ égratigne ouvertement une société déliquescente, où l'incompétence puis l'impuissance de la police suscitent le rire avant de glacer l'échine."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 91407,
+                  "ordre": 1,
+                  "titre": "Memories of Murder",
+                  "titreVo": "Salinui chueok",
+                  "realisateurs": "Bong Joon-ho",
+                  "pays": "Corée",
+                  "annee": 2003,
+                  "duree": 131,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Song Kang-ho",
+                    "Kim Sang-kyung",
+                    "Kim Roe-ha"
+                  ],
+                  "miniTexte": "Deuxième long métrage de Bong Joon-ho et coup de maître : un polar surprenant en perpétuel équilibre, qui confronte la comédie et la tragédie grâce à une mise en scène virtuose. Basé sur une série de crimes jamais élucidés en Corée, _Memories of Murder_ égratigne ouvertement une société déliquescente, où l'incompétence puis l'impuissance de la police suscitent le rire avant de glacer l'échine."
+                }
+              ]
+            },
             {
-              "idSeance": 207878,
-              "dateHeure": "2026-02-14T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 34732,
+              "content": [
+                {
+                  "idConf": 34732,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Jean-François Rauger",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel",
+                  "miniTexte": "Le film de Bong Joon-ho relate une enquête policière ouverte après la découverte d'une série de meurtres commis selon les mêmes modalités, vraisemblablement par le même assassin. Tout spectateur normalement constitué, à la lecture d'un tel résumé, se dira : encore un tueur en série ! Car _Memories of Murder_ semble, en effet, reprendre une figure aujourd'hui usée jusqu'à la corde, épuisée par tant de thrillers douteux et de suspenses mécaniques. Et puis, on soupire de soulagement. Car, dès les premières images, on est frappé par la précision du décor, le sens du détail, l'ironie de la peinture d'un univers à la fois familier (décor de commissariat de police et campagne verdoyante) et loin des clichés, et surtout par l'attention portée aux personnages. — Jean-François Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 207878,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-02-14T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -431,8 +512,8 @@
           ],
           "seances": [
             {
-              "idSeance": 207881,
-              "dateHeure": "2026-02-22T17:00:00",
+              "idSeance": 207935,
+              "dateHeure": "2026-02-19T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -495,32 +576,49 @@
           ]
         },
         {
-          "idFilm": 97750,
-          "content": [
+          "groupe": [
             {
               "idFilm": 97750,
-              "ordre": 1,
-              "titre": "PTU (Police Tactical Unit)",
-              "realisateurs": "Johnnie To",
-              "pays": "Hong Kong",
-              "annee": 2003,
-              "duree": 88,
-              "version": "VO",
-              "format": "35 mm",
-              "generique": [
-                "Simon Yam",
-                "Lam Suet",
-                "Ruby Wong",
-                "Maggie Siu"
-              ],
-              "miniTexte": "Après une altercation avec des voyous, un policier perd son arme de service : aidé par une unité de la PTU (une brigade de lutte contre la criminalité), il se lance à sa recherche. Dans un Hong Kong nocturne et spectral, Johnnie To impose un rythme hypnotique, de rues désertes en silences pesants, et filme la ville comme un labyrinthe infini, dont flics et criminels se disputent les faveurs."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 97750,
+                  "ordre": 1,
+                  "titre": "PTU (Police Tactical Unit)",
+                  "realisateurs": "Johnnie To",
+                  "pays": "Hong Kong",
+                  "annee": 2003,
+                  "duree": 88,
+                  "version": "VO",
+                  "format": "35 mm",
+                  "generique": [
+                    "Simon Yam",
+                    "Lam Suet",
+                    "Ruby Wong",
+                    "Maggie Siu"
+                  ],
+                  "miniTexte": "Après une altercation avec des voyous, un policier perd son arme de service : aidé par une unité de la PTU (une brigade de lutte contre la criminalité), il se lance à sa recherche. Dans un Hong Kong nocturne et spectral, Johnnie To impose un rythme hypnotique, de rues désertes en silences pesants, et filme la ville comme un labyrinthe infini, dont flics et criminels se disputent les faveurs."
+                }
+              ]
+            },
             {
-              "idSeance": 200443,
-              "dateHeure": "2026-02-19T20:30:00",
-              "idSalle": "HL"
+              "idEvenement": 35056,
+              "content": [
+                {
+                  "idConf": 35056,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Frédéric Ambroisine",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Jean-François Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 207934,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-02-22T17:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -644,38 +742,56 @@
           "seances": [
             {
               "idSeance": 205866,
-              "dateHeure": "2026-02-28T18:00:00",
+              "dateHeure": "2026-02-28T17:30:00",
               "idSalle": "HL"
             }
           ]
         },
         {
-          "idFilm": 57559,
-          "content": [
+          "groupe": [
             {
               "idFilm": 57559,
-              "ordre": 1,
-              "titre": "Sonatine, mélodie mortelle",
-              "titreVo": "Sonachine",
-              "realisateurs": "Takeshi Kitano",
-              "pays": "Japon",
-              "annee": 1993,
-              "duree": 94,
-              "version": "VO",
-              "format": "DCP",
-              "generique": [
-                "Takeshi Kitano",
-                "Aya Kokumai",
-                "Tetsu Watanabe"
-              ],
-              "miniTexte": "Avec une esthétique anti-spectaculaire, le cinéaste élabore un _yakuza eiga_ mélancolique, une déconstruction des codes du genre en forme de méditation sur la fatalité et la nostalgie de l'innocence perdue. Un geste créatif surprenant de fantaisie et de beauté."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 57559,
+                  "ordre": 1,
+                  "titre": "Sonatine, mélodie mortelle",
+                  "titreVo": "Sonachine",
+                  "realisateurs": "Takeshi Kitano",
+                  "pays": "Japon",
+                  "annee": 1993,
+                  "duree": 94,
+                  "version": "VO",
+                  "format": "DCP",
+                  "generique": [
+                    "Takeshi Kitano",
+                    "Aya Kokumai",
+                    "Tetsu Watanabe"
+                  ],
+                  "miniTexte": "Avec une esthétique anti-spectaculaire, le cinéaste élabore un _yakuza eiga_ mélancolique, une déconstruction des codes du genre en forme de méditation sur la fatalité et la nostalgie de l'innocence perdue. Un geste créatif surprenant de fantaisie et de beauté."
+                }
+              ]
+            },
             {
-              "idSeance": 207880,
-              "dateHeure": "2026-03-01T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 35057,
+              "content": [
+                {
+                  "idConf": 35057,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Clément Rauger",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Bernard Benoliel",
+                  "miniTexte": "Quatrième réalisation de Takeshi Kitano, _Sonatine, mélodie mortelle_ est un échec cuisant au box-office japonais. C'est pourtant le film qui le fera connaître du public français. Relecture ludique du film noir où un yakuza taciturne, envoyé avec ses lieutenants sur l'île d'Okinawa, s'abandonne à des jeux plus ou moins mortels dans l'attente d'un inévitable baroud d'honneur. Violence sèche, humour noir et musique minimaliste (composée par le génial Joe Hisaishi) conduisent cette singulière vision contemplative d'un monde d'enfants ayant grandi trop vite. — Clément Rauger"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 207880,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-03-01T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -828,7 +944,7 @@
           "seances": [
             {
               "idSeance": 205876,
-              "dateHeure": "2026-02-26T20:15:00",
+              "dateHeure": "2026-02-26T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -864,37 +980,24 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 34732,
-          "content": [
-            {
-              "idConf": 34732,
-              "titre": "Dialogue avec Clément Rauger",
-              "typeConference": "Dialogue",
-              "miniTexte": "Quatrième réalisation de Takeshi Kitano, _Sonatine, mélodie mortelle_ est un échec cuisant au box-office japonais. C'est pourtant le film qui le fera connaître du public français. Relecture ludique du film noir où un yakuza taciturne, envoyé avec ses lieutenants sur l'île d'Okinawa, s'abandonne à des jeux plus ou moins mortels dans l'attente d'un inévitable baroud d'honneur. Violence sèche, humour noir et musique minimaliste (composée par le génial Joe Hisaishi) conduisent cette singulière vision contemplative d'un monde d'enfants ayant grandi trop vite. — Clément Rauger"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205524,
-              "dateHeure": "2026-02-14T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
-    "Dialogue": [
+    "Dialogues": [
       {
-        "mention": "avec Clément Rauger",
+        "titreFilms": "Memories of Murder",
+        "mention": "avec Jean-François Rauger",
         "dateHeure": "2026-02-14T14:30:00"
+      },
+      {
+        "titreFilms": "PTU (Police Tactical Unit)",
+        "mention": "avec Frédéric Ambroisine",
+        "dateHeure": "2026-02-22T17:00:00"
+      },
+      {
+        "titreFilms": "Sonatine, mélodie mortelle",
+        "mention": "avec Clément Rauger",
+        "dateHeure": "2026-03-01T14:30:00"
       }
     ]
   }
