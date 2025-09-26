@@ -347,18 +347,19 @@
   * Voleur (Le)  
   * Volpone
 
-## Márta Mészáros (26)
+## Márta Mészáros (27)
 
   * Adoption  
   * Aurora borealis  
   * Belle et le Vagabond (La)  
   * Bóbita  
+  * Borsos Miklós  
   * Bye bye chaperon rouge  
   * Cati  
   * Comme chez nous  
-  * Dernier Rapport sur Anna (Le)  
   * Elles deux  
   * En cours de route  
+  * Festők városa, Szentendre  
   * Filature de Lőrinc (La)  
   * Filles de la fortune (Les)  
   * Fœtus (Le)  

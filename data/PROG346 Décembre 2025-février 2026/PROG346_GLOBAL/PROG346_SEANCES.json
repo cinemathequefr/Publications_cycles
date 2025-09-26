@@ -7001,7 +7001,7 @@
   },
   {
     "idSeance": 199968,
-    "idEvenement": 34566,
+    "idEvenement": 35033,
     "dateHeure": "2026-01-31T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -7011,16 +7011,6 @@
       ]
     ],
     "items": [
-      {
-        "idFilm": 155464,
-        "titre": "Bóbita",
-        "realisateurs": "Márta Mészáros",
-        "annee": 1965,
-        "duree": 21,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      },
       {
         "idFilm": 40986,
         "titre": "Cati",
@@ -7032,7 +7022,7 @@
         "restauration": true
       }
     ],
-    "hashEvenement": "f155464f40986"
+    "hashEvenement": "f40986"
   },
   {
     "idSeance": 199965,
@@ -7256,7 +7246,7 @@
   },
   {
     "idSeance": 199997,
-    "idEvenement": 34918,
+    "idEvenement": 35035,
     "dateHeure": "2026-02-02T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -7266,17 +7256,6 @@
       ]
     ],
     "items": [
-      {
-        "idFilm": 155465,
-        "titre": "Filature de Lőrinc",
-        "art": "La",
-        "realisateurs": "Márta Mészáros",
-        "annee": 1972,
-        "duree": 16,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      },
       {
         "idFilm": 121232,
         "titre": "Vent de la liberté",
@@ -7289,7 +7268,7 @@
         "restauration": true
       }
     ],
-    "hashEvenement": "f155465f121232"
+    "hashEvenement": "f121232"
   },
   {
     "idSeance": 199999,
@@ -7522,7 +7501,9 @@
         "idFilm": 132733,
         "titre": "Que d'amour",
         "realisateurs": "Valérie Donzelli",
-        "annee": 2012
+        "annee": 2012,
+        "duree": 90,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f132733"
@@ -7891,16 +7872,57 @@
   },
   {
     "idSeance": 205894,
-    "idEvenement": 34898,
+    "idEvenement": 35046,
     "dateHeure": "2026-02-08T17:30:00",
     "salle": "JE",
     "cycle": [
       [
         "Márta Mészáros",
-        "Les films"
+        "Courts métrages"
       ]
     ],
     "items": [
+      {
+        "idFilm": 155555,
+        "titre": "Festők városa, Szentendre",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1964,
+        "duree": 15,
+        "version": "STF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155464,
+        "titre": "Bóbita",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1965,
+        "duree": 21,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155551,
+        "titre": "Borsos Miklós",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1966,
+        "duree": 12,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155465,
+        "titre": "Filature de Lőrinc",
+        "art": "La",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1972,
+        "duree": 16,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
       {
         "idFilm": 155463,
         "titre": "In memoriam László Mészáros",
@@ -7910,19 +7932,9 @@
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
-      },
-      {
-        "idFilm": 155516,
-        "titre": "Dernier Rapport sur Anna",
-        "art": "Le",
-        "realisateurs": "Márta Mészáros",
-        "annee": 2009,
-        "duree": 103,
-        "version": "VOSTF",
-        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f155463f155516"
+    "hashEvenement": "f155555f155464f155551f155465f155463"
   },
   {
     "idSeance": 205891,
@@ -8460,7 +8472,8 @@
         "realisateurs": "Márta Mészáros",
         "annee": 1983,
         "duree": 88,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f117870"
@@ -8505,7 +8518,8 @@
         "realisateurs": "Márta Mészáros",
         "annee": 1989,
         "duree": 84,
-        "version": "VOSTF"
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155518"

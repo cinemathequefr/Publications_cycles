@@ -153,7 +153,7 @@
   {
     "idCategorie": 3972,
     "typeEvenement": 13,
-    "idEvenement": 34566,
+    "idEvenement": 35033,
     "idSeance": 199968,
     "dateHeure": "2026-01-31T18:30:00",
     "idSalle": [
@@ -163,18 +163,8 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 155464,
-        "ordre": 1,
-        "idSeance": 199968,
-        "idCopie": 30625,
-        "duree": 21,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      },
-      {
         "idFilm": 40986,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 199968,
         "idCopie": 30624,
         "duree": 80,
@@ -258,7 +248,7 @@
   {
     "idCategorie": 3972,
     "typeEvenement": 13,
-    "idEvenement": 34918,
+    "idEvenement": 35035,
     "idSeance": 199997,
     "dateHeure": "2026-02-02T18:00:00",
     "idSalle": [
@@ -268,18 +258,8 @@
     "dureeSeance": 105,
     "items": [
       {
-        "idFilm": 155465,
-        "ordre": 1,
-        "idSeance": 199997,
-        "idCopie": 30621,
-        "duree": 16,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      },
-      {
         "idFilm": 121232,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 199997,
         "idCopie": 30623,
         "duree": 77,
@@ -408,9 +388,9 @@
     ]
   },
   {
-    "idCategorie": 3972,
+    "idCategorie": 4040,
     "typeEvenement": 13,
-    "idEvenement": 34898,
+    "idEvenement": 35046,
     "idSeance": 205894,
     "dateHeure": "2026-02-08T17:30:00",
     "idSalle": [
@@ -420,23 +400,54 @@
     "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 155463,
+        "idFilm": 155555,
         "ordre": 1,
+        "idSeance": 205894,
+        "idCopie": 30942,
+        "duree": 15,
+        "version": "STF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155464,
+        "ordre": 2,
+        "idSeance": 205894,
+        "idCopie": 30625,
+        "duree": 21,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155551,
+        "ordre": 3,
+        "idSeance": 205894,
+        "idCopie": 30943,
+        "duree": 12,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155465,
+        "ordre": 4,
+        "idSeance": 205894,
+        "idCopie": 30621,
+        "duree": 16,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155463,
+        "ordre": 5,
         "idSeance": 205894,
         "idCopie": 30620,
         "duree": 14,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
-      },
-      {
-        "idFilm": 155516,
-        "ordre": 2,
-        "idSeance": 205894,
-        "idCopie": 30828,
-        "duree": 103,
-        "version": "VOSTF",
-        "format": "35 mm"
       }
     ]
   },
@@ -575,7 +586,7 @@
         "idCopie": 30831,
         "duree": 88,
         "version": "VOSTF",
-        "format": ""
+        "format": "35 mm"
       }
     ]
   },
@@ -598,7 +609,7 @@
         "idCopie": 30835,
         "duree": 84,
         "version": "VOSTF",
-        "format": ""
+        "format": "DCP"
       }
     ]
   },
