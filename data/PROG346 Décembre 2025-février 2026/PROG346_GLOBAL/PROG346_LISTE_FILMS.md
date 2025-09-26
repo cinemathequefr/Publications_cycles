@@ -62,7 +62,7 @@
   * Impératrice (L')  
   * Old Love and the New (The)
 
-## Aujourd'hui le cinéma (25)
+## Aujourd'hui le cinéma (26)
 
   * +10K  
   * Bel companho  
@@ -72,6 +72,7 @@
   * Et quand l'aube viendra  
   * Fantaisie  
   * Fleurs blanches et la Lune (Les)  
+  * Go Go Tales  
   * Golfes se creusent (Les)  
   * Hypernuit  
   * J'ai tué votre chat  
