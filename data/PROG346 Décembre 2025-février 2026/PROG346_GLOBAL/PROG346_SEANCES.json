@@ -6685,6 +6685,31 @@
     "hashEvenement": "f56006"
   },
   {
+    "idSeance": 199878,
+    "idEvenement": 34483,
+    "dateHeure": "2026-01-29T18:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Márta Mészáros",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34510,
+        "titre": "Héritières",
+        "art": "Les",
+        "realisateurs": "Márta Mészáros",
+        "annee": 1980,
+        "duree": 109,
+        "version": "VF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f34510"
+  },
+  {
     "idSeance": 205982,
     "idEvenement": 34640,
     "dateHeure": "2026-01-29T18:30:00",
@@ -6757,31 +6782,6 @@
       }
     ],
     "hashEvenement": "f65176"
-  },
-  {
-    "idSeance": 199878,
-    "idEvenement": 34483,
-    "dateHeure": "2026-01-29T21:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Márta Mészáros",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 34510,
-        "titre": "Héritières",
-        "art": "Les",
-        "realisateurs": "Márta Mészáros",
-        "annee": 1980,
-        "duree": 109,
-        "version": "VF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f34510"
   },
   {
     "idSeance": 205707,
@@ -6961,8 +6961,8 @@
     "hashEvenement": "f80317"
   },
   {
-    "idSeance": 205750,
-    "idEvenement": 34493,
+    "idSeance": 207938,
+    "idEvenement": 34476,
     "dateHeure": "2026-01-31T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -6973,16 +6973,17 @@
     ],
     "items": [
       {
-        "idFilm": 40931,
-        "titre": "Neuf mois",
+        "idFilm": 41013,
+        "titre": "Adoption",
         "realisateurs": "Márta Mészáros",
-        "annee": 1976,
-        "duree": 90,
+        "annee": 1975,
+        "duree": 87,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f40931"
+    "hashEvenement": "f41013"
   },
   {
     "idSeance": 205600,
@@ -7327,8 +7328,8 @@
     "hashEvenement": "f155476"
   },
   {
-    "idSeance": 199998,
-    "idEvenement": 34476,
+    "idSeance": 207939,
+    "idEvenement": 34493,
     "dateHeure": "2026-02-02T20:00:00",
     "salle": "GF",
     "cycle": [
@@ -7339,17 +7340,16 @@
     ],
     "items": [
       {
-        "idFilm": 41013,
-        "titre": "Adoption",
+        "idFilm": 40931,
+        "titre": "Neuf mois",
         "realisateurs": "Márta Mészáros",
-        "annee": 1975,
-        "duree": 87,
+        "annee": 1976,
+        "duree": 90,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f41013"
+    "hashEvenement": "f40931"
   },
   {
     "idSeance": 205885,
@@ -7567,8 +7567,8 @@
     "hashEvenement": "f31659"
   },
   {
-    "idSeance": 205889,
-    "idEvenement": 34794,
+    "idSeance": 207942,
+    "idEvenement": 34795,
     "dateHeure": "2026-02-06T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -7579,15 +7579,16 @@
     ],
     "items": [
       {
-        "idFilm": 126862,
-        "titre": "Marguerite et Julien",
+        "idFilm": 155504,
+        "titre": "Amour et les forêts",
+        "art": "L'",
         "realisateurs": "Valérie Donzelli",
-        "annee": 2014,
-        "duree": 110,
+        "annee": 2023,
+        "duree": 105,
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f126862"
+    "hashEvenement": "f155504"
   },
   {
     "idSeance": 200157,
@@ -7700,8 +7701,8 @@
     "hashEvenement": "f148341"
   },
   {
-    "idSeance": 200151,
-    "idEvenement": 34795,
+    "idSeance": 207941,
+    "idEvenement": 34794,
     "dateHeure": "2026-02-07T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -7716,12 +7717,11 @@
     ],
     "items": [
       {
-        "idFilm": 155504,
-        "titre": "Amour et les forêts",
-        "art": "L'",
+        "idFilm": 126862,
+        "titre": "Marguerite et Julien",
         "realisateurs": "Valérie Donzelli",
-        "annee": 2023,
-        "duree": 105,
+        "annee": 2014,
+        "duree": 110,
         "format": "DCP"
       },
       {
@@ -7731,7 +7731,7 @@
         "duree": 75
       }
     ],
-    "hashEvenement": "f155504c34811"
+    "hashEvenement": "f126862c34811"
   },
   {
     "idSeance": 205904,
@@ -8449,7 +8449,7 @@
       },
       {
         "idConf": 34732,
-        "titre": "Dialogue avec Clément Rauger",
+        "titre": "Dialogue avec Jean-François Rauger",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -9308,6 +9308,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Alexei Aigui",
     "items": [
       {
         "idFilm": 104129,
@@ -9468,7 +9469,9 @@
       },
       {
         "idConf": 35056,
-        "titre": "[Action culturelle sans titre]"
+        "titre": "Dialogue avec Frédéric Ambroisine",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
     "hashEvenement": "f97750c35056"
@@ -9484,6 +9487,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Agnès de Sacy",
     "items": [
       {
         "idFilm": 116760,
@@ -9554,6 +9558,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Agnès de Sacy",
     "items": [
       {
         "idFilm": 143490,
@@ -9712,6 +9717,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Agathe Bonitzer et Julia Faure",
     "items": [
       {
         "idFilm": 131901,
@@ -10320,7 +10326,9 @@
       },
       {
         "idConf": 35057,
-        "titre": "[Action culturelle sans titre]"
+        "titre": "Dialogue avec Clément Rauger",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
     "hashEvenement": "f57559c35057"

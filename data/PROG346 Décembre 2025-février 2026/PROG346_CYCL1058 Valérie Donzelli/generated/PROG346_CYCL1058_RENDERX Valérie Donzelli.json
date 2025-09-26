@@ -41,50 +41,33 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 155504,
+          "content": [
             {
               "idFilm": 155504,
-              "content": [
-                {
-                  "idFilm": 155504,
-                  "ordre": 1,
-                  "titre": "Amour et les forêts",
-                  "art": "L'",
-                  "realisateurs": "Valérie Donzelli",
-                  "pays": "France",
-                  "annee": 2023,
-                  "duree": 105,
-                  "version": "",
-                  "format": "DCP",
-                  "adaptation": "D'après le roman _L'Amour et les forêts_ d'Éric Reinhardt.",
-                  "generique": [
-                    "Virginie Efira",
-                    "Melvil Poupaud",
-                    "Marie Rivière"
-                  ],
-                  "miniTexte": "Valérie Donzelli porte à l'écran le roman éponyme d'Éric Reinhardt, implacable étude de l'emprise narcissique. Par des flashbacks à l'atmosphère anxiogène, elle saisit brillamment le caractère délétère d'une relation toxique et le basculement d'une femme indépendante (Virginie Efira, poignante) sous le joug d'un mari abusif (Melvil Poupaud, terrifiant). Un drame puissant à la tension psychologique haletante, récompensé par le César de la meilleure adaptation en 2024."
-                }
-              ]
-            },
-            {
-              "idEvenement": 34811,
-              "content": [
-                {
-                  "idConf": 34811,
-                  "ordre": 2,
-                  "titre": "Valérie Donzelli par Valérie Donzelli, une leçon de cinéma",
-                  "typeConference": "Leçon de cinéma",
-                  "mentionAnimation": "Animée par Caroline Maleville"
-                }
+              "ordre": 1,
+              "titre": "Amour et les forêts",
+              "art": "L'",
+              "realisateurs": "Valérie Donzelli",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 105,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le roman _L'Amour et les forêts_ d'Éric Reinhardt.",
+              "generique": [
+                "Virginie Efira",
+                "Melvil Poupaud",
+                "Marie Rivière"
               ],
-              "seances": [
-                {
-                  "idSeance": 200151,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-02-07T14:30:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "miniTexte": "Valérie Donzelli porte à l'écran le roman éponyme d'Éric Reinhardt, implacable étude de l'emprise narcissique. Par des flashbacks à l'atmosphère anxiogène, elle saisit brillamment le caractère délétère d'une relation toxique et le basculement d'une femme indépendante (Virginie Efira, poignante) sous le joug d'un mari abusif (Melvil Poupaud, terrifiant). Un drame puissant à la tension psychologique haletante, récompensé par le César de la meilleure adaptation en 2024."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207942,
+              "dateHeure": "2026-02-06T18:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -150,32 +133,49 @@
           ]
         },
         {
-          "idFilm": 126862,
-          "content": [
+          "groupe": [
             {
               "idFilm": 126862,
-              "ordre": 1,
-              "titre": "Marguerite et Julien",
-              "realisateurs": "Valérie Donzelli",
-              "pays": "France-Belgique",
-              "annee": 2014,
-              "duree": 110,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Anaïs Demoustier",
-                "Jérémie Elkaïm",
-                "Frédéric Pierrot",
-                "Aurélia Petit"
-              ],
-              "miniTexte": "Amoureux l'un de l'autre, un frère et une sœur décident de vivre leur passion. Sur un scénario signé Jean Gruault – initialement écrit pour Truffaut –, la cinéaste filme un conte incestueux d'une grande mélancolie, qui multiplie les anachronismes et les propositions visuelles percutantes. Avec Anaïs Demoustier et Jérémie Elkaïm, en parfaite alchimie."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 126862,
+                  "ordre": 1,
+                  "titre": "Marguerite et Julien",
+                  "realisateurs": "Valérie Donzelli",
+                  "pays": "France-Belgique",
+                  "annee": 2014,
+                  "duree": 110,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Anaïs Demoustier",
+                    "Jérémie Elkaïm",
+                    "Frédéric Pierrot",
+                    "Aurélia Petit"
+                  ],
+                  "miniTexte": "Amoureux l'un de l'autre, un frère et une sœur décident de vivre leur passion. Sur un scénario signé Jean Gruault – initialement écrit pour Truffaut –, la cinéaste filme un conte incestueux d'une grande mélancolie, qui multiplie les anachronismes et les propositions visuelles percutantes. Avec Anaïs Demoustier et Jérémie Elkaïm, en parfaite alchimie."
+                }
+              ]
+            },
             {
-              "idSeance": 205889,
-              "dateHeure": "2026-02-06T18:30:00",
-              "idSalle": "GF"
+              "idEvenement": 34811,
+              "content": [
+                {
+                  "idConf": 34811,
+                  "ordre": 2,
+                  "titre": "Valérie Donzelli par Valérie Donzelli, une leçon de cinéma",
+                  "typeConference": "Leçon de cinéma",
+                  "mentionAnimation": "Animée par Caroline Maleville"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 207941,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-02-07T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
