@@ -347,7 +347,7 @@
   * Voleur (Le)  
   * Volpone
 
-## Márta Mészáros (27)
+## Márta Mészáros (22)
 
   * Adoption  
   * Aurora borealis  
@@ -358,11 +358,8 @@
   * Cati  
   * Comme chez nous  
   * Elles deux  
-  * En cours de route  
   * Festők városa, Szentendre  
-  * Filature de Lőrinc (La)  
-  * Filles de la fortune (Les)  
-  * Fœtus (Le)  
+  * Filature de Lőrinci (La)  
   * Héritières (Les)  
   * Homme sans sépulture (L')  
   * In memoriam László Mészáros  
@@ -372,8 +369,6 @@
   * Marie  
   * Neuf mois  
   * Pays des mirages (Le)  
-  * Petite Vilma, le dernier journal  
-  * Septième Demeure (La)  
   * Une mère, une fille  
   * Vent de la liberté (Le)
 
@@ -483,10 +478,11 @@
   * Vérité sur Bébé Donge (La)  
   * Ville à vendre
 
-## Rita Hayworth (22)
+## Rita Hayworth (24)
 
   * Affaire de Trinidad (L')  
   * Amour vint en dansant (L')  
+  * Amours de Carmen (Les)  
   * Arènes sanglantes  
   * Belle du Pacifique (La)  
   * Blonde framboise (La)  
@@ -496,6 +492,7 @@
   * Colère de Dieu (La)  
   * Dame de Shanghaï (La)  
   * Enfer des tropiques (L')  
+  * Étoile des étoiles (L')  
   * Gilda  
   * Mon amie Sally  
   * Ô toi ma charmante  

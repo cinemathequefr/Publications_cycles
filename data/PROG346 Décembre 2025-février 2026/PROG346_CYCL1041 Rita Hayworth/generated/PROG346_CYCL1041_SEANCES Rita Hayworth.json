@@ -236,7 +236,7 @@
     "typeEvenement": 13,
     "idEvenement": 34382,
     "idSeance": 198908,
-    "dateHeure": "2025-12-24T16:00:00",
+    "dateHeure": "2025-12-24T15:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -360,7 +360,35 @@
     "items": [
       {
         "idFilm": 31189,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 205568,
+        "idCopie": 30953,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3962,
+    "typeEvenement": 13,
+    "idEvenement": 34635,
+    "idSeance": 207928,
+    "dateHeure": "2025-12-28T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 33071,
+        "ordre": 1,
+        "idSeance": 207928,
+        "idCopie": 30958,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -470,7 +498,12 @@
     "items": [
       {
         "idFilm": 59102,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 205629,
+        "idCopie": 30956,
+        "duree": 111,
+        "version": "STF",
+        "format": "35 mm"
       }
     ]
   },
@@ -610,6 +643,29 @@
         "duree": 117,
         "version": "VO",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3962,
+    "typeEvenement": 13,
+    "idEvenement": 34391,
+    "idSeance": 207927,
+    "dateHeure": "2026-01-10T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 37106,
+        "ordre": 1,
+        "idSeance": 207927,
+        "idCopie": 30952,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   }
