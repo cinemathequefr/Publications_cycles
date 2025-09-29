@@ -60,7 +60,7 @@
   * Great Adventure (The)  
   * Herbes folles (Les)  
   * Impératrice (L')  
-  * Old Love and the New (The)
+  * New Love and the Old (The)
 
 ## Aujourd'hui le cinéma (26)
 
