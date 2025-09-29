@@ -354,8 +354,8 @@
   {
     "idCategorie": 3970,
     "typeEvenement": 13,
-    "idEvenement": 34679,
-    "idSeance": 205930,
+    "idEvenement": 34977,
+    "idSeance": 207947,
     "dateHeure": "2026-02-25T20:30:00",
     "idSalle": [
       "GF",
@@ -364,13 +364,13 @@
     "dureeSeance": 90,
     "items": [
       {
-        "idFilm": 79205,
+        "idFilm": 155541,
         "ordre": 1,
-        "idSeance": 205930,
-        "idCopie": 30698,
-        "duree": 59,
+        "idSeance": 207947,
+        "idCopie": 30908,
+        "duree": 0,
         "version": "",
-        "format": "16 mm"
+        "format": "DCP"
       }
     ]
   },
@@ -608,23 +608,68 @@
     ]
   },
   {
-    "idCategorie": 4014,
+    "idCategorie": 3970,
     "typeEvenement": 13,
     "idEvenement": 34807,
-    "idSeance": 207875,
+    "idSeance": 207951,
     "dateHeure": "2026-03-02T20:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 180,
     "items": [
       {
         "idFilm": 155507,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 207951,
+        "idCopie": 30963,
+        "duree": 84,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 79205,
+        "ordre": 2,
+        "idSeance": 207951,
+        "idCopie": 30698,
+        "duree": 59,
+        "version": "",
+        "format": "16 mm"
       }
+    ]
+  },
+  {
+    "idCategorie": 3970,
+    "typeEvenement": 13,
+    "idEvenement": 34807,
+    "idSeance": 207953,
+    "dateHeure": "2026-03-02T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
     ],
-    "mention": "Séance présentée par Pierre Filmon, Christine Leteux, Hugues Peysson, Stephen Horne et Benoît Verdier"
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 155507,
+        "ordre": 1,
+        "idSeance": 207953,
+        "idCopie": 30963,
+        "duree": 84,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 79205,
+        "ordre": 2,
+        "idSeance": 207953,
+        "idCopie": 30698,
+        "duree": 59,
+        "version": "",
+        "format": "16 mm"
+      }
+    ]
   },
   {
     "idCategorie": 3970,

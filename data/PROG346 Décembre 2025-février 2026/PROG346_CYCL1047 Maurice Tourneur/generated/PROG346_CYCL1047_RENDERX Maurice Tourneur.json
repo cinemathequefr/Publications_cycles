@@ -698,6 +698,56 @@
           ]
         },
         {
+          "idEvenement": 34807,
+          "content": [
+            {
+              "idFilm": 155507,
+              "ordre": 1,
+              "titre": "Maurice Tourneur, tisseur de rêves",
+              "realisateurs": "Pierre Filmon",
+              "pays": "France",
+              "annee": 2023,
+              "duree": 84,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Maurice Tourneur"
+              ],
+              "miniTexte": "Portrait d'un cinéaste injustement oublié, qui vient éclairer la carrière d'un esprit novateur, du cinéma muet au parlant, de Paris à Hollywood."
+            },
+            {
+              "idFilm": 79205,
+              "ordre": 2,
+              "titre": "Trilby",
+              "realisateurs": "Maurice Tourneur",
+              "pays": "États-Unis",
+              "annee": 1915,
+              "duree": 59,
+              "version": "",
+              "format": "16 mm",
+              "adaptation": "D'après le roman _Trilby_ de George du Maurier et la pièce de Paul Potter.",
+              "generique": [
+                "Clara Kimball Young",
+                "Wilton Lackaye",
+                "Paul McAllister"
+              ],
+              "miniTexte": "Dans le Paris bohème du début du XX<sup>e</sup> siècle, l'affreux Svengali, musicien doté de pouvoirs magnétiques, enlève une jeune modèle, fraîchement fiancée, pour en faire une grande cantatrice. D'après le roman populaire de George du Maurier, une romance d'inspiration gothique qui précède la version parlante avec John Barrymore."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207951,
+              "dateHeure": "2026-03-02T20:00:00",
+              "idSalle": "GF"
+            },
+            {
+              "idSeance": 207953,
+              "dateHeure": "2026-03-02T20:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 39286,
           "content": [
             {
@@ -920,6 +970,38 @@
           ]
         },
         {
+          "idFilm": 155541,
+          "content": [
+            {
+              "idFilm": 155541,
+              "ordre": 1,
+              "titre": "Phalène blanche",
+              "art": "La",
+              "titreVo": "White Moth",
+              "artVo": "The",
+              "realisateurs": "Maurice Tourneur",
+              "pays": "États-Unis",
+              "annee": 1924,
+              "duree": 0,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Barbara La Marr",
+                "Conway Tearle",
+                "Charles de Rochefort"
+              ],
+              "miniTexte": "À Paris, une étudiante américaine s'apprête à se jeter dans la Seine, lorsqu'un impresario lui sauve la vie. Deux ans plus tard, la jeune femme triomphe sur scène sous le nom de la « Phalène blanche ». Parée de costumes tous plus somptueux les uns que les autres, Barbara La Marr fait des ravages en vamp sulfureuse, dans son bain, ou lors d'un bal extravagant."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207947,
+              "dateHeure": "2026-02-25T20:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 51457,
           "content": [
             {
@@ -947,36 +1029,6 @@
               "idSeance": 205927,
               "dateHeure": "2026-02-22T17:30:00",
               "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 79205,
-          "content": [
-            {
-              "idFilm": 79205,
-              "ordre": 1,
-              "titre": "Trilby",
-              "realisateurs": "Maurice Tourneur",
-              "pays": "États-Unis",
-              "annee": 1915,
-              "duree": 59,
-              "version": "",
-              "format": "16 mm",
-              "adaptation": "D'après le roman _Trilby_ de George du Maurier et la pièce de Paul Potter.",
-              "generique": [
-                "Clara Kimball Young",
-                "Wilton Lackaye",
-                "Paul McAllister"
-              ],
-              "miniTexte": "Dans le Paris bohème du début du XX<sup>e</sup> siècle, l'affreux Svengali, musicien doté de pouvoirs magnétiques, enlève une jeune modèle, fraîchement fiancée, pour en faire une grande cantatrice. D'après le roman populaire de George du Maurier, une romance d'inspiration gothique qui précède la version parlante avec John Barrymore."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 205930,
-              "dateHeure": "2026-02-25T20:30:00",
-              "idSalle": "GF"
             }
           ]
         },
@@ -1339,37 +1391,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Autour de Maurice Tourneur",
-      "items": [
-        {
-          "idFilm": 155507,
-          "content": [
-            {
-              "idFilm": 155507,
-              "ordre": 1,
-              "titre": "Maurice Tourneur, tisseur de rêves",
-              "realisateurs": "Pierre Filmon",
-              "pays": "France",
-              "annee": 2023,
-              "generique": [
-                "Maurice Tourneur"
-              ],
-              "miniTexte": "Portrait d'un cinéaste injustement oublié, qui vient éclairer la carrière d'un esprit novateur, du cinéma muet au parlant, de Paris à Hollywood."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 207875,
-              "dateHeure": "2026-03-02T20:00:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par Pierre Filmon, Christine Leteux, Hugues Peysson, Stephen Horne et Benoît Verdier"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -1400,11 +1421,6 @@
         "titreFilms": "A Girl's Folly",
         "mention": "par Roxanne Haessig",
         "dateHeure": "2026-02-27T18:30:00"
-      },
-      {
-        "titreFilms": "Maurice Tourneur, tisseur de rêves",
-        "mention": "par Pierre Filmon, Christine Leteux, Hugues Peysson, Stephen Horne et Benoît Verdier",
-        "dateHeure": "2026-03-02T20:00:00"
       },
       {
         "titreFilms": "La Main du diable",

@@ -301,7 +301,7 @@
   * Théâtre de guerre  
   * Vesuviani: La Salita (I)
 
-## Maurice Tourneur (44)
+## Maurice Tourneur (45)
 
   * A Girl's Folly  
   * Accusée, levez-vous !  
@@ -339,6 +339,7 @@
   * Partir  
   * Patriote (Le)  
   * Péchés de jeunesse  
+  * Phalène blanche (La)  
   * Prunella  
   * Samson  
   * Trilby  
@@ -361,6 +362,7 @@
   * Cati  
   * Comme chez nous  
   * Couleurs de Vasarely (Les)  
+  * Dernier Rapport sur Anna (Le)  
   * Elles deux  
   * Filature de Lőrinci (La)  
   * Héritières (Les)  
@@ -376,7 +378,6 @@
   * Pays des mirages (Le)  
   * Szentendre, la ville des peintres  
   * Une histoire ordinaire  
-  * Une mère, une fille  
   * Vent de la liberté (Le)
 
 ## Orson Welles (20)
@@ -405,12 +406,12 @@
 ## Panorama du cinéma indonésien (10)
 
   * 3 Days to Eternity  
-  * Atheis  
+  * Benyamin biang kerok  
   * Feuille sur un oreiller  
   * Long March (The)  
   * Love for Share  
   * Marlina, la tueuse en quatre actes  
-  * Mother  
+  * Narrow Bridge  
   * Satan's Slaves  
   * Turang  
   * Une femme indonésienne
