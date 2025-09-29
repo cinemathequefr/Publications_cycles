@@ -2,7 +2,7 @@
   "textePresentation": "",
   "sousCycles": [
     {
-      "tri": 2,
+      "tri": 3,
       "titreSousCycle": "Les films",
       "items": [
         {
@@ -118,73 +118,6 @@
           ]
         },
         {
-          "idEvenement": 34908,
-          "content": [
-            {
-              "idFilm": 112714,
-              "ordre": 1,
-              "titre": "Belle au bois dormant",
-              "art": "La",
-              "titreVo": "Sleeping Beauty",
-              "artVo": "The",
-              "realisateurs": "Lotte Reiniger",
-              "pays": "Grande-Bretagne",
-              "annee": 1954,
-              "duree": 10,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 4
-            },
-            {
-              "idFilm": 112715,
-              "ordre": 2,
-              "titre": "Blanche-Neige et Rose-Rouge",
-              "titreVo": "Snow White and Rose Red",
-              "realisateurs": "Lotte Reiniger",
-              "pays": "Grande-Bretagne",
-              "annee": 1953,
-              "duree": 11,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 4
-            },
-            {
-              "idFilm": 42934,
-              "ordre": 3,
-              "titre": "Hansel et Gretel",
-              "titreVo": "Hansel and Gretel",
-              "realisateurs": "Lotte Reiniger",
-              "pays": "Grande-Bretagne",
-              "annee": 1955,
-              "duree": 0,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 4
-            },
-            {
-              "idFilm": 112716,
-              "ordre": 4,
-              "titre": "Poucette",
-              "titreVo": "Thumbelina",
-              "realisateurs": "Lotte Reiniger",
-              "pays": "Grande-Bretagne",
-              "annee": 1954,
-              "duree": 10,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 4
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 200921,
-              "dateHeure": "2026-03-08T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 4
-            }
-          ]
-        },
-        {
           "idFilm": 56155,
           "content": [
             {
@@ -294,55 +227,6 @@
           ]
         },
         {
-          "idEvenement": 34912,
-          "content": [
-            {
-              "idFilm": 155184,
-              "ordre": 1,
-              "titre": "Filante",
-              "realisateurs": "Marion Jamault",
-              "pays": "France",
-              "annee": 2024,
-              "duree": 9,
-              "version": "",
-              "format": "DCP",
-              "ageMinimal": 3,
-              "miniTexte": "Chaque nuit, Paulette observe la même étoile filante dans le ciel et lui adresse son vœu le plus cher : retrouver son rat domestique mystérieusement disparu. Un court métrage en papier découpé, au graphisme enchanteur, par la réalisatrice et illustratrice Marion Jamault."
-            },
-            {
-              "idFilm": 70185,
-              "ordre": 2,
-              "titre": "Carnavallée",
-              "realisateurs": "Aline Ahond",
-              "pays": "France",
-              "annee": 1997,
-              "duree": 5,
-              "version": "VF",
-              "format": "DCP",
-              "ageMinimal": 3,
-              "miniTexte": "Une multitude de scènes insolites autour d'un char de carnaval : papiers déchirés, graffitis animés, tourbillon de couleurs composent un ballet visuel inventif et fantaisiste. Soit huit petites saynètes d'animation pour une ode à la joie, à l'enfance et à la liberté."
-            },
-            {
-              "idFilm": 117607,
-              "ordre": 3,
-              "titre": "Parade",
-              "realisateurs": "Pierre-Emmanuel Lyet",
-              "pays": "France",
-              "annee": 2009,
-              "ageMinimal": 3,
-              "miniTexte": "Un personnage veut se libérer de son imaginaire pour séduire une femme."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 200589,
-              "dateHeure": "2026-02-25T15:00:00",
-              "idSalle": "GF",
-              "ageMinimal": 3
-            }
-          ]
-        },
-        {
           "idFilm": 155522,
           "content": [
             {
@@ -432,6 +316,74 @@
               "dateHeure": "2025-12-21T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 10
+            }
+          ]
+        },
+        {
+          "idEvenement": 34908,
+          "titreEvenement": "Hansel, Gretel et les autres",
+          "content": [
+            {
+              "idFilm": 112714,
+              "ordre": 1,
+              "titre": "Belle au bois dormant",
+              "art": "La",
+              "titreVo": "Sleeping Beauty",
+              "artVo": "The",
+              "realisateurs": "Lotte Reiniger",
+              "pays": "Grande-Bretagne",
+              "annee": 1954,
+              "duree": 10,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 4
+            },
+            {
+              "idFilm": 112715,
+              "ordre": 2,
+              "titre": "Blanche-Neige et Rose-Rouge",
+              "titreVo": "Snow White and Rose Red",
+              "realisateurs": "Lotte Reiniger",
+              "pays": "Grande-Bretagne",
+              "annee": 1953,
+              "duree": 11,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 4
+            },
+            {
+              "idFilm": 42934,
+              "ordre": 3,
+              "titre": "Hansel et Gretel",
+              "titreVo": "Hansel and Gretel",
+              "realisateurs": "Lotte Reiniger",
+              "pays": "Grande-Bretagne",
+              "annee": 1955,
+              "duree": 0,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 4
+            },
+            {
+              "idFilm": 112716,
+              "ordre": 4,
+              "titre": "Poucette",
+              "titreVo": "Thumbelina",
+              "realisateurs": "Lotte Reiniger",
+              "pays": "Grande-Bretagne",
+              "annee": 1954,
+              "duree": 10,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 4
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200921,
+              "dateHeure": "2026-03-08T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 4
             }
           ]
         },
@@ -548,7 +500,7 @@
                 "Dick Van Dyke",
                 "David Tomlinson"
               ],
-              "miniTexte": "Londres, début du XX<sup>e</sup> siècle : Mary Poppins, épatante Julie Andrews, est la nouvelle gouvernante de deux jeunes enfants. Un sac magique, de l'humour et de l'émotion : une comédie musicale féerique, entrecoupée de scènes d'animation, et signée Walt Disney."
+              "miniTexte": "Londres, début du XX<sup>e</sup> siècle : Mary Poppins (épatante Julie Andrews) est la nouvelle gouvernante de deux jeunes enfants. Un sac magique, de l'humour et de l'émotion : une comédie musicale féerique, entrecoupée de scènes d'animation, et signée Walt Disney."
             }
           ],
           "seances": [
@@ -583,7 +535,7 @@
                 "Christopher Plummer",
                 "Eleanor Parker"
               ],
-              "miniTexte": "Autriche, peu avant la Seconde Guerre mondiale. Maria, la gouvernante des sept enfants du Capitaine Von Trapp, apporte sa joie de vivre à la famille. Un film musical à l'univers enchanteur, à l'énergie communicative, porté par Julie Andrews, tout juste sortie du grand succès de _Mary Poppins_."
+              "miniTexte": "Autriche, peu avant la Seconde Guerre mondiale. Maria, la gouvernante des sept enfants du capitaine Von Trapp, apporte sa joie de vivre à la famille. Un film musical à l'univers enchanteur, à l'énergie communicative, porté par Julie Andrews, tout juste sortie du grand succès de _Mary Poppins_."
             }
           ],
           "seances": [
@@ -847,6 +799,56 @@
               "dateHeure": "2026-01-07T15:00:00",
               "idSalle": "GF",
               "ageMinimal": 6
+            }
+          ]
+        },
+        {
+          "idEvenement": 34912,
+          "titreEvenement": "Tous au carnaval !",
+          "content": [
+            {
+              "idFilm": 155184,
+              "ordre": 1,
+              "titre": "Filante",
+              "realisateurs": "Marion Jamault",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 9,
+              "version": "",
+              "format": "DCP",
+              "ageMinimal": 3,
+              "miniTexte": "Chaque nuit, Paulette observe la même étoile filante dans le ciel et lui adresse son vœu le plus cher : retrouver son rat domestique mystérieusement disparu. Un court métrage en papier découpé, au graphisme enchanteur, par la réalisatrice et illustratrice Marion Jamault."
+            },
+            {
+              "idFilm": 70185,
+              "ordre": 2,
+              "titre": "Carnavallée",
+              "realisateurs": "Aline Ahond",
+              "pays": "France",
+              "annee": 1997,
+              "duree": 5,
+              "version": "VF",
+              "format": "DCP",
+              "ageMinimal": 3,
+              "miniTexte": "Une multitude de scènes insolites autour d'un char de carnaval : papiers déchirés, graffitis animés, tourbillon de couleurs composent un ballet visuel inventif et fantaisiste. Soit huit petites saynètes d'animation pour une ode à la joie, à l'enfance et à la liberté."
+            },
+            {
+              "idFilm": 117607,
+              "ordre": 3,
+              "titre": "Parade",
+              "realisateurs": "Pierre-Emmanuel Lyet",
+              "pays": "France",
+              "annee": 2009,
+              "ageMinimal": 3,
+              "miniTexte": "Un personnage veut se libérer de son imaginaire pour séduire une femme."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 200589,
+              "dateHeure": "2026-02-25T15:00:00",
+              "idSalle": "GF",
+              "ageMinimal": 3
             }
           ]
         }
