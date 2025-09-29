@@ -10,6 +10,25 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 94563,
+          "content": [
+            {
+              "idFilm": 94563,
+              "ordre": 1,
+              "duree": 104,
+              "version": "VOSTF",
+              "format": "Numérique"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207966,
+              "dateHeure": "2026-02-19T20:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 154544,
           "content": [
             {
@@ -463,34 +482,6 @@
           ]
         },
         {
-          "idFilm": 75199,
-          "content": [
-            {
-              "idFilm": 75199,
-              "ordre": 1,
-              "titre": "Mission",
-              "art": "The",
-              "titreVo": "Cheung fo",
-              "realisateurs": "Johnnie To",
-              "pays": "Hong Kong",
-              "annee": 1999,
-              "generique": [
-                "Francis Ng",
-                "Anthony Chow-sun Wong",
-                "Jackie Lui"
-              ],
-              "miniTexte": "Cinq malfrats retirés du milieu sont engagés pour défendre un gros bonnet de la pègre. Sur les traces de Leone et Kitano, Johnnie To construit un film de triades à contre-courant, qui fait le choix de la retenue et de la lenteur pour créer la tension. Dans une esthétique nocturne, il imagine les fusillades comme un ballet architectural, un ensemble fiévreux de compositions millimétrées (l'incroyable scène du centre commercial désert)."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 207935,
-              "dateHeure": "2026-02-19T20:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 91463,
           "content": [
             {
@@ -825,7 +816,8 @@
             {
               "idSeance": 207877,
               "dateHeure": "2026-03-01T18:30:00",
-              "idSalle": "HL"
+              "idSalle": "HL",
+              "mention": "Séance présentée par Nicolas Saada"
             }
           ]
         },
@@ -970,6 +962,13 @@
         "titreFilms": "Sonatine, mélodie mortelle",
         "mention": "avec Clément Rauger",
         "dateHeure": "2026-03-01T14:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Le Syndicat du crime",
+        "mention": "par Nicolas Saada",
+        "dateHeure": "2026-03-01T18:30:00"
       }
     ]
   }

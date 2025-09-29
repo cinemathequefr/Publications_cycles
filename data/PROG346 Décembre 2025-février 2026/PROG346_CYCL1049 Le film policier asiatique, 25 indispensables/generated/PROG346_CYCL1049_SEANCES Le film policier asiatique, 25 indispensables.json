@@ -301,18 +301,23 @@
   {
     "idCategorie": 3973,
     "typeEvenement": 13,
-    "idEvenement": 34595,
-    "idSeance": 207935,
+    "idEvenement": 35060,
+    "idSeance": 207966,
     "dateHeure": "2026-02-19T20:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 75199,
-        "ordre": 1
+        "idFilm": 94563,
+        "ordre": 1,
+        "idSeance": 207966,
+        "idCopie": 8269,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "Numérique"
       }
     ]
   },
@@ -718,7 +723,8 @@
         "format": "DCP",
         "restauration": true
       }
-    ]
+    ],
+    "mention": "Séance présentée par Nicolas Saada"
   },
   {
     "idCategorie": 3973,

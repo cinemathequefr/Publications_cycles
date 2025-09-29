@@ -220,7 +220,6 @@
   * Ichi the Killer  
   * Infernal Affairs  
   * Memories of Murder  
-  * Mission (The)  
   * Old Boy  
   * Police Story  
   * PTU (Police Tactical Unit)  
@@ -233,6 +232,7 @@
   * Syndicat du crime 2 (Le)  
   * Syndicat du crime (Le)  
   * Time and Tide  
+  * undefined  
   * Une pluie sans fin  
   * Violent Cop
 
