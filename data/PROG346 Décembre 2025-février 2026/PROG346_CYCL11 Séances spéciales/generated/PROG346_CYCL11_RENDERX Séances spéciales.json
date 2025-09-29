@@ -274,34 +274,50 @@
       "titreSousCycle": "Bernard Stora :  Dans le Cercle rouge",
       "items": [
         {
-          "idFilm": 50137,
-          "content": [
+          "groupe": [
             {
               "idFilm": 50137,
-              "ordre": 1,
-              "titre": "Cercle rouge",
-              "art": "Le",
-              "realisateurs": "Jean-Pierre Melville",
-              "pays": "France-Italie",
-              "annee": 1970,
-              "duree": 140,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Alain Delon",
-                "Bourvil",
-                "Gian Maria Volonté",
-                "Yves Montand"
-              ],
-              "miniTexte": "Le récit d'un casse spectaculaire, dans une bijouterie de la place Vendôme. Les truands Delon, Volonté et Montand affrontent Bourvil en commissaire mélancolique, leur jeu est minimaliste, la sobriété leur va bien. Un polar à l'os, magistral."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 50137,
+                  "ordre": 1,
+                  "titre": "Cercle rouge",
+                  "art": "Le",
+                  "realisateurs": "Jean-Pierre Melville",
+                  "pays": "France-Italie",
+                  "annee": 1970,
+                  "duree": 140,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Alain Delon",
+                    "Bourvil",
+                    "Gian Maria Volonté",
+                    "Yves Montand"
+                  ],
+                  "miniTexte": "Le récit d'un casse spectaculaire, dans une bijouterie de la place Vendôme. Les truands Delon, Volonté et Montand affrontent Bourvil en commissaire mélancolique, leur jeu est minimaliste, la sobriété leur va bien. Un polar à l'os, magistral."
+                }
+              ]
+            },
             {
-              "idSeance": 199981,
-              "typeAssoc": 118,
-              "dateHeure": "2026-02-01T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 34954,
+              "content": [
+                {
+                  "idConf": 34954,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Bernard Stora",
+                  "typeConference": "Dialogue",
+                  "mentionAnimation": "Animé par Frédéric Bonnaud"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 199981,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-02-01T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         }
@@ -313,6 +329,13 @@
       {
         "dateHeure": "2026-01-05T20:00:00",
         "titreFilms": "L'Affaire Bojarski"
+      }
+    ],
+    "Dialogue": [
+      {
+        "titreFilms": "Le Cercle rouge",
+        "mention": "avec Bernard Stora",
+        "dateHeure": "2026-02-01T14:30:00"
       }
     ],
     "Séances présentées": [
