@@ -205,7 +205,7 @@
   * Saphir de St. Louis (Le)  
   * Spectre du Thuit (Le)
 
-## Le film policier asiatique, 25 indispensables (29)
+## Le film policier asiatique, 25 indispensables (28)
 
   * A Bittersweet Life (Director's Cut)  
   * As Tears Go By  
@@ -219,7 +219,6 @@
   * Exilé  
   * Ichi the Killer  
   * Infernal Affairs  
-  * Longest Nite (The)  
   * Memories of Murder  
   * Mission (The)  
   * Old Boy  
