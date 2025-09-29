@@ -174,7 +174,7 @@
   * Parfum de femme  
   * Trois amigos
 
-## Histoire permanente du cinéma les 90 ans de la Cinémathèque française (12)
+## Histoire permanente du cinéma : les 90 ans de la Cinémathèque française (12)
 
   * À nous la liberté  
   * Atalante (L')  
