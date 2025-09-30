@@ -221,6 +221,7 @@
   * Infernal Affairs  
   * Memories of Murder  
   * Old Boy  
+  * Pègre (La)  
   * Police Story  
   * PTU (Police Tactical Unit)  
   * Raid 2 (The)  
@@ -232,7 +233,6 @@
   * Syndicat du crime 2 (Le)  
   * Syndicat du crime (Le)  
   * Time and Tide  
-  * undefined  
   * Une pluie sans fin  
   * Violent Cop
 
