@@ -36,7 +36,7 @@
               "idSeance": 199995,
               "dateHeure": "2026-02-02T14:30:00",
               "idSalle": "HL",
-              "mention": "Avant-première"
+              "mention": "Avant-première. Séance présentée par Valérie Donzelli"
             }
           ]
         },
@@ -65,8 +65,8 @@
           ],
           "seances": [
             {
-              "idSeance": 207942,
-              "dateHeure": "2026-02-06T18:30:00",
+              "idSeance": 207969,
+              "dateHeure": "2026-02-08T17:30:00",
               "idSalle": "GF"
             }
           ]
@@ -203,8 +203,8 @@
           ],
           "seances": [
             {
-              "idSeance": 205890,
-              "dateHeure": "2026-02-08T17:30:00",
+              "idSeance": 207970,
+              "dateHeure": "2026-02-06T18:30:00",
               "idSalle": "GF"
             }
           ]
@@ -345,13 +345,21 @@
     "Avant-première": [
       {
         "dateHeure": "2026-02-02T14:30:00",
-        "titreFilms": "À pied d'œuvre"
+        "titreFilms": "À pied d'œuvre",
+        "mention": "séance présentée par Valérie Donzelli"
       }
     ],
     "Leçon de cinéma": [
       {
         "titre": "Valérie Donzelli par Valérie Donzelli, une leçon de cinéma",
         "dateHeure": "2026-02-07T14:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "À pied d'œuvre",
+        "mention": "par Valérie Donzelli",
+        "dateHeure": "2026-02-02T14:30:00"
       }
     ]
   }
