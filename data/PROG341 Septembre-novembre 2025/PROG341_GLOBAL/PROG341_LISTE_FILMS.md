@@ -4,15 +4,17 @@
 
   * Sous la terre
 
-## Aujourd'hui le cinéma (25)
+## Aujourd'hui le cinéma (27)
 
   * Alcools  
   * Araucaria  
   * Charbon de terre  
   * Croisade d'Anne Buridan (La)  
   * Dieu est timide  
+  * Domingo familiar  
   * Fille de l'eau  
   * Fortune  
+  * Hija cóndor (La)  
   * Hiver à Sokcho  
   * iNTELLIGENCE  
   * Incroyable femme des neiges (L')  

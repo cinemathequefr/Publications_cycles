@@ -263,6 +263,60 @@
     },
     {
       "tri": 4,
+      "titreSousCycle": "Festival Biarritz Amérique latine 2025",
+      "texteSousCycle": "Festival de référence en Europe pour les cinémas latino-américains, le Festival Biarritz Amérique latine présente chaque année plus de 60 films, pour la plupart inédits en France. Les deux Grands Prix 2025, long et court métrages, primés lors de la 34<sup>e</sup> édition (20-26 septembre) seront présentés en avant-première et en présence des réalisateurs (sous réserve). Détail de la programmation à partir du 29 septembre sur www.cinematheque.fr",
+      "items": [
+        {
+          "idEvenement": 35062,
+          "content": [
+            {
+              "idFilm": 155567,
+              "ordre": 1,
+              "titre": "Domingo familiar",
+              "realisateurs": "Gerardo del Razo",
+              "pays": "Mexique",
+              "annee": 2025,
+              "duree": 18,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Omar Silva",
+                "Fermín Martínez",
+                "Elías Toscano",
+                "Emilio Galván"
+              ]
+            },
+            {
+              "idFilm": 155566,
+              "ordre": 2,
+              "titre": "Hija cóndor",
+              "art": "La",
+              "realisateurs": "Álvaro Olmos Torrico",
+              "pays": "Bolivie-Pérou-Uruguay",
+              "annee": 2025,
+              "duree": 109,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "María Magdalena Sanizo",
+                "Marisol Vallejos Montaño",
+                "Nelly Huayta"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 196284,
+              "dateHeure": "2025-10-13T19:00:00",
+              "idSalle": "JE",
+              "mention": "Avant-première. Séance présentée par Jean-Christophe Berjon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Courts métrages Arte",
       "texteSousCycle": "Rendez-vous régulier avec les courts métrages coproduits par Arte, en dialogue avec Hélène Vayssières, directrice adjointe de l'unité cinéma responsable des courts métrages. Au programme, un voyage dans la diversité de la jeune création cinématographique avec le film coup de poing _Vautours_ qui suit la trajectoire d'un conducteur de dépanneuse juste après un accident de voiture nocturne, la dénonciation d'un pouvoir autoritaire dans la fiction animée _Matin brun_ ; le portrait d'une jeune Syrienne alors que la révolution agite son pays (_Overnight_), un beau film d'animation intimiste consacré au deuil entre frères et sœurs (_Une fugue_); le récit d'un couple mongol en pleine dispute au milieu des embouteillages d'Oulan-Bator (_Une fenêtre plein sud_) et enfin le merveilleux _Fille de l'eau_ au fil du temps qui passe.",
       "items": [
@@ -603,7 +657,17 @@
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
+      {
+        "dateHeure": "2025-10-13T19:00:00",
+        "titreFilms": "Domingo familiar",
+        "mention": "séance présentée par Jean-Christophe Berjon"
+      },
+      {
+        "dateHeure": "2025-10-13T19:00:00",
+        "titreFilms": "La Hija cóndor",
+        "mention": "séance présentée par Jean-Christophe Berjon"
+      },
       {
         "dateHeure": "2025-11-03T19:30:00",
         "titreFilms": "L'Incroyable femme des neiges",
@@ -662,7 +726,12 @@
         "dateHeure": "2025-11-24T19:00:00"
       }
     ],
-    "Séance présentée": [
+    "Séances présentées": [
+      {
+        "titreFilms": "Domingo familiar / La Hija cóndor",
+        "mention": "par Jean-Christophe Berjon",
+        "dateHeure": "2025-10-13T19:00:00"
+      },
       {
         "titreFilms": "La Croisade d'Anne Buridan",
         "mention": "par Judith Cahen",
