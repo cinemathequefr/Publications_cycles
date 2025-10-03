@@ -62,7 +62,7 @@
   * Impératrice (L')  
   * New Love and the Old (The)
 
-## Aujourd'hui le cinéma (26)
+## Aujourd'hui le cinéma (25)
 
   * +10K  
   * Bel companho  
@@ -84,7 +84,6 @@
   * Mohican (Le)  
   * Mukbanger  
   * Nico  
-  * Ogres (Les)  
   * Père(s) et Fils  
   * QR code de Frankeasy (Le)  
   * Star  
