@@ -204,13 +204,14 @@
         {
           "idSeance": 205896,
           "ordre": 1,
-          "dateHeure": "2026-01-24T18:45:00",
+          "dateHeure": "2026-01-24T14:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "dureeSeance": 120,
           "mention": "Séance présentée par Olena Honcharuk",
+          "typeAssoc": 118,
           "idCategorie": 3963,
           "idEvenement": 34506,
           "typeEvenement": 13,
@@ -514,7 +515,7 @@
         {
           "idSeance": 205897,
           "ordre": 1,
-          "dateHeure": "2026-01-24T20:45:00",
+          "dateHeure": "2026-01-24T19:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -555,21 +556,49 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 205599,
+          "idSeance": 205896,
+          "ordre": 2,
           "dateHeure": "2026-01-24T14:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
-          "dureeSeance": 180,
+          "dureeSeance": 60,
+          "typeAssoc": 118,
           "idCategorie": 4001,
           "idEvenement": 34730,
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Dialogue avec ???",
+          "titre": "Dialogue avec Olena Honcharuk et Anthelme Vidaud",
           "duree": 60,
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "« Dovjenko a écouté la leçon des scythes et celles des vieux peintres d'icônes, il a parcouru l'Ukraine avec les yeux de Taras Chevtchenko, il a su faire siennes les traditions de l'art populaire des peuples soviétiques et c'est à tout cela qu'il doit ce merveilleux pouvoir d'équilibre statique, d'intensification de l'émotion par la durée. » (Henri Langlois)"
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Olena Honcharuk",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Anthelme Vidaud",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 2
+            },
+            {
+              "nomComplet": "Juliette Armantier",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 3
+            }
+          ],
+          "mentionAnimation": "Animé par Juliette Armantier"
         },
         {
           "idSeance": 205515,

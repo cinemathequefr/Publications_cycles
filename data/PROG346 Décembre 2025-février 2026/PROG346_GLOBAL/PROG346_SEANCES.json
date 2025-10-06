@@ -2087,7 +2087,7 @@
     "cycle": [
       [
         "Mario Martone",
-        "Courts et moyens métrages"
+        "Courts métrages"
       ]
     ],
     "items": [
@@ -3559,6 +3559,30 @@
       }
     ],
     "hashEvenement": "f45823"
+  },
+  {
+    "idSeance": 208066,
+    "idEvenement": 35140,
+    "dateHeure": "2025-12-29T19:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Une fin d'année en 70 mm",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155569,
+        "titre": "Une bataille après l'autre",
+        "realisateurs": "Paul Thomas Anderson",
+        "annee": 2025,
+        "duree": 161,
+        "version": "VO",
+        "format": "70 mm"
+      }
+    ],
+    "hashEvenement": "f155569"
   },
   {
     "idSeance": 199063,
@@ -6171,30 +6195,44 @@
     "hashEvenement": "f57697"
   },
   {
-    "idSeance": 205599,
-    "idEvenement": 34730,
+    "idSeance": 205896,
+    "idEvenement": 34506,
     "dateHeure": "2026-01-24T14:30:00",
     "salle": "HL",
     "cycle": [
       [
         "Alexandre Dovjenko",
+        "Les films"
+      ],
+      [
+        "Alexandre Dovjenko",
         "Rencontres et conférences"
       ]
     ],
+    "mention": "Séance présentée par Olena Honcharuk",
     "items": [
       {
+        "idFilm": 40232,
+        "titre": "Ivan",
+        "realisateurs": "Alexandre Dovjenko",
+        "annee": 1932,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
         "idConf": 34730,
-        "titre": "Dialogue avec ???",
+        "titre": "Dialogue avec Olena Honcharuk et Anthelme Vidaud",
         "typeConference": "Dialogue",
         "duree": 60
       }
     ],
-    "hashEvenement": "c34730"
+    "hashEvenement": "f40232c34730"
   },
   {
     "idSeance": 207896,
     "idEvenement": 34403,
-    "dateHeure": "2026-01-24T15:00:00",
+    "dateHeure": "2026-01-24T16:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -6242,29 +6280,30 @@
     "hashEvenement": "f56003"
   },
   {
-    "idSeance": 205896,
-    "idEvenement": 34506,
-    "dateHeure": "2026-01-24T18:45:00",
+    "idSeance": 205897,
+    "idEvenement": 34948,
+    "dateHeure": "2026-01-24T19:30:00",
     "salle": "GF",
     "cycle": [
       [
         "Alexandre Dovjenko",
-        "Les films"
+        "Dovjenko scénariste"
       ]
     ],
     "mention": "Séance présentée par Olena Honcharuk",
     "items": [
       {
-        "idFilm": 40232,
-        "titre": "Ivan",
-        "realisateurs": "Alexandre Dovjenko",
-        "annee": 1932,
-        "duree": 86,
+        "idFilm": 40234,
+        "titre": "Poème de la mer",
+        "art": "Le",
+        "realisateurs": "Ioulia Solntseva",
+        "annee": 1958,
+        "duree": 110,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f40232"
+    "hashEvenement": "f40234"
   },
   {
     "idSeance": 199735,
@@ -6290,32 +6329,6 @@
       }
     ],
     "hashEvenement": "f31664"
-  },
-  {
-    "idSeance": 205897,
-    "idEvenement": 34948,
-    "dateHeure": "2026-01-24T20:45:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Alexandre Dovjenko",
-        "Dovjenko scénariste"
-      ]
-    ],
-    "mention": "Séance présentée par Olena Honcharuk",
-    "items": [
-      {
-        "idFilm": 40234,
-        "titre": "Poème de la mer",
-        "art": "Le",
-        "realisateurs": "Ioulia Solntseva",
-        "annee": 1958,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f40234"
   },
   {
     "idSeance": 205970,
@@ -7127,6 +7140,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Damien Marguet",
     "items": [
       {
         "idFilm": 39859,

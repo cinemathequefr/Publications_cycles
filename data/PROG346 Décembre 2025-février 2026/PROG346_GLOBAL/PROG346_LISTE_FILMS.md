@@ -526,7 +526,7 @@
   * Sobibor, 14 octobre 1943, 16 heures  
   * Un vivant qui passe
 
-## Une fin d'année en 70 mm (10)
+## Une fin d'année en 70 mm (11)
 
   * Cheyennes (Les)  
   * Huit Salopards (Les)  
@@ -537,7 +537,8 @@
   * Playtime  
   * Poltergeist  
   * Ran  
-  * Starman
+  * Starman  
+  * Une bataille après l'autre
 
 ## Valérie Donzelli (12)
 
