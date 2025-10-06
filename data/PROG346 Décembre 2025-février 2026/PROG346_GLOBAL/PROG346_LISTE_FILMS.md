@@ -54,13 +54,11 @@
   * Terreur à l'Ouest  
   * Trahison du capitaine Porter (La)
 
-## Archi Vives (5)
+## Archi Vives (3)
 
   * Esmeralda (La)  
-  * Great Adventure (The)  
   * Herbes folles (Les)  
-  * Impératrice (L')  
-  * New Love and the Old (The)
+  * Impératrice (L')
 
 ## Aujourd'hui le cinéma (25)
 
