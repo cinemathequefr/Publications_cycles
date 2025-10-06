@@ -1,4 +1,4 @@
-> Le gigantisme de Welles ne pouvait s'accommoder d'une rétrospective ordinaire : pantagruélique, celle qui accompagne notre exposition est la plus exhaustive jamais organisée à ce jour, avec ses longs métrages, mais aussi tous les morceaux épars qui jalonnent sa carrière éclatée et proliférante. Essais, films inachevés ou mutilés, bandes annonces ou spectacles de magie, mais aussi une ample sélection de films où Orson Welles officie en tant qu'acteur. Toute la folle exhubérance du démiurge rassemblée sur écran géant, deux mois durant !
+> Le gigantisme de Welles ne pouvait s'accommoder d'une rétrospective ordinaire : pantagruélique, celle qui accompagne notre exposition est la plus exhaustive jamais organisée à ce jour, avec ses longs métrages, mais aussi tous les morceaux épars qui jalonnent sa carrière éclatée et proliférante. Essais, films inachevés ou mutilés, bandes annonces ou spectacles de magie, mais aussi une ample sélection de films où Orson Welles officie en tant qu'acteur. Toute la folle exubérance du démiurge rassemblée sur écran géant, deux mois durant !
 
 # Orson Welles, celui qui a tout changé
 

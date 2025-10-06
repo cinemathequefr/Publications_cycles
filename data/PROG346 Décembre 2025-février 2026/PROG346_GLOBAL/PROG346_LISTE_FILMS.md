@@ -529,15 +529,15 @@
 ## Une fin d'année en 70 mm (10)
 
   * Cheyennes (Les)  
-  * Conquête de l'Ouest (La)  
   * Huit Salopards (Les)  
-  * Inherent Vice  
+  * Khartoum  
   * Lawrence d'Arabie  
   * Master (The)  
   * Oppenheimer  
   * Playtime  
   * Poltergeist  
-  * Ran
+  * Ran  
+  * Starman
 
 ## Valérie Donzelli (12)
 

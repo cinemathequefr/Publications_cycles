@@ -47,31 +47,32 @@
         "format": "DCP",
         "restauration": true
       }
-    ]
+    ],
+    "mention": "Séance présentée par Mario Martone"
   },
   {
     "idCategorie": 3975,
     "typeEvenement": 13,
-    "idEvenement": 34520,
-    "idSeance": 205647,
+    "idEvenement": 34531,
+    "idSeance": 208059,
     "dateHeure": "2025-12-12T20:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 135,
+    "dureeSeance": 165,
     "items": [
       {
-        "idFilm": 58822,
+        "idFilm": 155454,
         "ordre": 1,
-        "idSeance": 205647,
-        "idCopie": 30744,
-        "duree": 105,
+        "idSeance": 208059,
+        "idCopie": 30553,
+        "duree": 133,
         "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Mario Martone"
   },
   {
     "idCategorie": 3975,
@@ -118,9 +119,34 @@
   {
     "idCategorie": 3975,
     "typeEvenement": 13,
+    "idEvenement": 34520,
+    "idSeance": 208060,
+    "dateHeure": "2025-12-13T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 58822,
+        "ordre": 1,
+        "idSeance": 208060,
+        "idCopie": 30744,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "mention": "Séance présentée par Mario Martone"
+  },
+  {
+    "idCategorie": 3975,
+    "typeEvenement": 13,
     "idEvenement": 34527,
-    "idSeance": 205838,
-    "dateHeure": "2025-12-13T19:45:00",
+    "idSeance": 208056,
+    "dateHeure": "2025-12-14T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -130,34 +156,11 @@
       {
         "idFilm": 91560,
         "ordre": 1,
-        "idSeance": 205838,
+        "idSeance": 208056,
         "idCopie": 30547,
         "duree": 100,
         "version": "VOSTF",
         "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3975,
-    "typeEvenement": 13,
-    "idEvenement": 34525,
-    "idSeance": 205839,
-    "dateHeure": "2025-12-14T19:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 240,
-    "items": [
-      {
-        "idFilm": 113193,
-        "ordre": 1,
-        "idSeance": 205839,
-        "idCopie": 30884,
-        "duree": 205,
-        "version": "VOSTF",
-        "format": "DCP"
       }
     ]
   },
@@ -220,44 +223,21 @@
   {
     "idCategorie": 3975,
     "typeEvenement": 13,
-    "idEvenement": 34531,
-    "idSeance": 198726,
-    "dateHeure": "2025-12-17T18:00:00",
+    "idEvenement": 34525,
+    "idSeance": 208057,
+    "dateHeure": "2025-12-17T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 165,
+    "dureeSeance": 240,
     "items": [
       {
-        "idFilm": 155454,
+        "idFilm": 113193,
         "ordre": 1,
-        "idSeance": 198726,
-        "idCopie": 30553,
-        "duree": 133,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 3975,
-    "typeEvenement": 13,
-    "idEvenement": 34530,
-    "idSeance": 205545,
-    "dateHeure": "2025-12-17T21:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 155453,
-        "ordre": 1,
-        "idSeance": 205545,
-        "idCopie": 30552,
-        "duree": 115,
+        "idSeance": 208057,
+        "idCopie": 30884,
+        "duree": 205,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -304,6 +284,29 @@
         "idSeance": 205954,
         "idCopie": 30869,
         "duree": 128,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 3975,
+    "typeEvenement": 13,
+    "idEvenement": 34530,
+    "idSeance": 208058,
+    "dateHeure": "2025-12-19T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 155453,
+        "ordre": 1,
+        "idSeance": 208058,
+        "idCopie": 30552,
+        "duree": 115,
         "version": "VOSTF",
         "format": "DCP"
       }

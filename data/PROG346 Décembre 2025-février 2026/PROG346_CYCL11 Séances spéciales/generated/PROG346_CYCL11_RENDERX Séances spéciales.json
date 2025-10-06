@@ -171,44 +171,6 @@
     },
     {
       "tri": 2,
-      "titreSousCycle": "Avant-première Jean-Paul Salomé",
-      "items": [
-        {
-          "idFilm": 155547,
-          "content": [
-            {
-              "idFilm": 155547,
-              "ordre": 1,
-              "titre": "Affaire Bojarski",
-              "art": "L'",
-              "realisateurs": "Jean-Paul Salomé",
-              "pays": "France",
-              "annee": 2026,
-              "duree": 0,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Reda Kateb",
-                "Sara Giraudeau",
-                "Bastien Bouillon",
-                "Pierre Lottin"
-              ],
-              "miniTexte": "Dans la France de l'après-guerre, le parcours et la double vie d'un faussaire hors pair, surnommé le « Cézanne de la fausse monnaie ». Ceslaw Bojarski (1912-2003) devient la bête noire de Mattei, inspecteur méticuleux de la brigade financière, dont la traque vire à l'obsession. Un biopic romanesque, servi par un casting des plus séduisants."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 199247,
-              "dateHeure": "2026-01-05T20:00:00",
-              "idSalle": "HL",
-              "mention": "Avant-première. Séance présentée par Jean-Paul Salomé"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 2,
       "titreSousCycle": "Hommage à Jean-Pierre Bouyxou",
       "texteSousCycle": "Hommage à Jean-Pierre Bouyxou, disparu le 2 septembre dernier. Journaliste hédoniste, cinéaste surréaliste, insaisissable trublion du cinéma des marges, il était aussi à l'occasion acteur pour Jean Rollin ou Jess Franco (_La Comtesse noire_).",
       "items": [
@@ -274,6 +236,44 @@
     },
     {
       "tri": 2,
+      "titreSousCycle": "Avant-première Jean-Paul Salomé",
+      "items": [
+        {
+          "idFilm": 155547,
+          "content": [
+            {
+              "idFilm": 155547,
+              "ordre": 1,
+              "titre": "Affaire Bojarski",
+              "art": "L'",
+              "realisateurs": "Jean-Paul Salomé",
+              "pays": "France",
+              "annee": 2026,
+              "duree": 0,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Reda Kateb",
+                "Sara Giraudeau",
+                "Bastien Bouillon",
+                "Pierre Lottin"
+              ],
+              "miniTexte": "Dans la France de l'après-guerre, le parcours et la double vie d'un faussaire hors pair, surnommé le « Cézanne de la fausse monnaie ». Ceslaw Bojarski (1912-2003) devient la bête noire de Mattei, inspecteur méticuleux de la brigade financière, dont la traque vire à l'obsession. Un biopic romanesque, servi par un casting des plus séduisants."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208065,
+              "dateHeure": "2026-01-12T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
       "titreSousCycle": "Bernard Stora : Dans le Cercle rouge",
       "items": [
         {
@@ -331,9 +331,8 @@
   "syntheseAction": {
     "Avant-première": [
       {
-        "dateHeure": "2026-01-05T20:00:00",
-        "titreFilms": "L'Affaire Bojarski",
-        "mention": "séance présentée par Jean-Paul Salomé"
+        "dateHeure": "2026-01-12T20:00:00",
+        "titreFilms": "L'Affaire Bojarski"
       }
     ],
     "Dialogue": [
@@ -353,11 +352,6 @@
         "titreFilms": "Sobibor, 14 octobre 1943, 16 heures",
         "mention": "par Caroline Champetier",
         "dateHeure": "2025-12-13T17:00:00"
-      },
-      {
-        "titreFilms": "L'Affaire Bojarski",
-        "mention": "par Jean-Paul Salomé",
-        "dateHeure": "2026-01-05T20:00:00"
       }
     ]
   }
