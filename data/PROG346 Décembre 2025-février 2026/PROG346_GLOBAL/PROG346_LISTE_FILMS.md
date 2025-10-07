@@ -404,12 +404,12 @@
 
   * 3 Days to Eternity  
   * Benyamin biang kerok  
+  * Esclaves de Satan  
   * Feuille sur un oreiller  
-  * Long March (The)  
+  * Longue Marche (La)  
   * Love for Share  
   * Marlina, la tueuse en quatre actes  
   * Narrow Bridge  
-  * Satan's Slaves  
   * Turang  
   * Une femme indonésienne
 
