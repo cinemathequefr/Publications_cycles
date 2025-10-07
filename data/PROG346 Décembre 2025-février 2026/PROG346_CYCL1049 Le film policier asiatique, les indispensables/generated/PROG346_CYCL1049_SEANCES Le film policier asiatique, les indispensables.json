@@ -176,7 +176,7 @@
         "idFilm": 29182,
         "ordre": 1,
         "idSeance": 207885,
-        "idCopie": 30861,
+        "idCopie": 30862,
         "duree": 98,
         "version": "VO",
         "format": ""
@@ -318,7 +318,7 @@
         "idCopie": 8269,
         "duree": 104,
         "version": "VOSTF",
-        "format": "Numérique"
+        "format": "DCP"
       }
     ]
   },
@@ -340,8 +340,8 @@
         "idSeance": 207890,
         "idCopie": 30872,
         "duree": 101,
-        "version": "",
-        "format": ""
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },
@@ -382,7 +382,12 @@
     "items": [
       {
         "idFilm": 44423,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 207888,
+        "idCopie": 23002,
+        "duree": 85,
+        "version": "VF",
+        "format": "35 mm"
       }
     ]
   },
@@ -514,10 +519,11 @@
         "idFilm": 50602,
         "ordre": 1,
         "idSeance": 200591,
-        "idCopie": 11966,
+        "idCopie": 30617,
         "duree": 111,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP",
+        "restauration": true
       }
     ]
   },
