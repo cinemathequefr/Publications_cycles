@@ -1,4 +1,4 @@
-> Alors que son nouveau film sort sur en France, retour sur l'œuvre de José Luis Guerin, kaléidoscope sophistiqué de souvenirs, rêveries et évocations spectrales qui réduisent les frontières entre fiction et documentaire au rang de vieux schémas archaïques. Ses périples songeurs, ses dialogues féconds avec des cinéastes cousins (Jonas Mekas, Víctor Erice, Raoul Ruiz, mais aussi John Ford ou les frères Lumière), et l'expérimentation joueuse présidant chacun de ses projets font du cinéaste catalan un poète spirite, lointain descendant de l'Orson Welles de _F for Fake_.
+> Alors que son nouveau film sort en France, retour sur l'œuvre de José Luis Guerin, kaléidoscope sophistiqué de souvenirs, rêveries et évocations spectrales qui réduisent les frontières entre fiction et documentaire au rang de schémas archaïques. Ses périples songeurs, ses dialogues féconds avec des cinéastes cousins (Jonas Mekas, Víctor Erice, Raoul Ruiz, mais aussi John Ford ou les frères Lumière), et l'expérimentation joueuse présidant chacun de ses projets font du cinéaste catalan un poète spirite, lointain descendant de l'Orson Welles de _F for Fake_.
 
 # Le guetteur mélancolique
 
