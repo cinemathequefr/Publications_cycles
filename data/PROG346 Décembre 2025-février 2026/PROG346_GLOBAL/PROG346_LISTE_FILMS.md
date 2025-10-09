@@ -420,7 +420,7 @@
   * En quatrième vitesse  
   * Pendaison (La)
 
-## Pascal Bonitzer (17)
+## Pascal Bonitzer (16)
 
   * Cherchez Hortense  
   * Encore  
@@ -437,8 +437,7 @@
   * Sirènes (Les)  
   * Tableau volé (Le)  
   * Tout de suite maintenant  
-  * Tricheurs  
-  * Victor comme tout le monde
+  * Tricheurs
 
 ## Restaurations et raretés, best of 2025 (41)
 
@@ -511,7 +510,7 @@
   * Six destins  
   * Tables séparées
 
-## Séances spéciales (12)
+## Séances spéciales (13)
 
   * Affaire Bojarski (L')  
   * Cercle rouge (Le)  
@@ -524,7 +523,8 @@
   * Shoah (première époque)  
   * Sobibor, 14 octobre 1943, 16 heures  
   * Un vivant qui passe  
-  * Veilleurs (Les)
+  * Veilleurs (Les)  
+  * Victor comme tout le monde
 
 ## Une fin d'année en 70 mm (11)
 

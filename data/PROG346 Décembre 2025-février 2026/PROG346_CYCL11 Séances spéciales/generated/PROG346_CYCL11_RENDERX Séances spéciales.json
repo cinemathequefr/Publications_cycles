@@ -173,6 +173,37 @@
     },
     {
       "tri": 2,
+      "titreSousCycle": "Festival 12 × 12",
+      "texteSousCycle": "La 16<sup>e</sup> édition du festival 12 × 12 invite les Parisiennes et les Parisiens à découvrir expositions, spectacles, concerts, performances et projections en accès gratuit, dans douze lieux du 12<sup>e</sup> arrondissement. Parmi lesquels la Cinémathèque française, où sera projeté _Les Veilleurs_, étonnant documentaire dans lequel des agents d'accueil du Musée Picasso et du Louvre partagent leur regard singulier sur les œuvres qu'ils côtoient et surveillent, de jour comme de nuit.",
+      "items": [
+        {
+          "idFilm": 155570,
+          "content": [
+            {
+              "idFilm": 155570,
+              "ordre": 1,
+              "titre": "Veilleurs",
+              "art": "Les",
+              "realisateurs": "Philippe Laine, Stéphanie Magnant",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 52,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208099,
+              "dateHeure": "2025-12-13T18:00:00",
+              "idSalle": "LE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 2,
       "titreSousCycle": "Hommage à Jean-Pierre Bouyxou",
       "texteSousCycle": "Hommage à Jean-Pierre Bouyxou, disparu le 2 septembre dernier. Journaliste hédoniste, cinéaste surréaliste, insaisissable trublion du cinéma des marges, il était aussi à l'occasion acteur pour Jean Rollin ou Jess Franco (_La Comtesse noire_).",
       "items": [
@@ -331,30 +362,35 @@
     },
     {
       "tri": 2,
-      "titreSousCycle": "Festival 12 × 12",
-      "texteSousCycle": "La 16<sup>e</sup> édition du festival 12 × 12 invite les Parisiennes et les Parisiens à découvrir expositions, spectacles, concerts, performances et projections en accès gratuit, dans douze lieux du 12<sup>e</sup> arrondissement. Parmi lesquels la Cinémathèque française, où sera projeté _Les Veilleurs_, étonnant documentaire dans lequel des agents d'accueil du Musée Picasso et du Louvre partagent leur regard singulier sur les œuvres qu'ils côtoient et surveillent, de jour comme de nuit.",
+      "titreSousCycle": "Avant-première Pascal Bonitzer",
       "items": [
         {
-          "idFilm": 155570,
+          "idFilm": 155571,
           "content": [
             {
-              "idFilm": 155570,
+              "idFilm": 155571,
               "ordre": 1,
-              "titre": "Veilleurs",
-              "art": "Les",
-              "realisateurs": "Philippe Laine, Stéphanie Magnant",
+              "titre": "Victor comme tout le monde",
+              "realisateurs": "Pascal Bonitzer",
               "pays": "France",
-              "annee": 2024,
-              "duree": 52,
+              "annee": 2026,
+              "duree": 88,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Fabrice Luchini",
+                "Chiara Mastroianni",
+                "Marie Narbonne"
+              ],
+              "miniTexte": "Un hommage à Victor Hugo à travers le quotidien de Robert Zuchini, comédien admirateur du poète et romancier, qui, à la mort de sa mère, reprend peu à peu contact avec sa fille. Une comédie douce-amère, écrite par Sophie Fillières, portée par Fabrice Luchini et Chiara Mastroianni."
             }
           ],
           "seances": [
             {
-              "idSeance": 208099,
-              "dateHeure": "2025-12-13T18:00:00",
-              "idSalle": "LE"
+              "idSeance": 208108,
+              "dateHeure": "2026-03-09T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
             }
           ]
         }
@@ -362,10 +398,14 @@
     }
   ],
   "syntheseAction": {
-    "Avant-première": [
+    "Avant-premières": [
       {
         "dateHeure": "2026-01-12T20:00:00",
         "titreFilms": "L'Affaire Bojarski"
+      },
+      {
+        "dateHeure": "2026-03-09T20:00:00",
+        "titreFilms": "Victor comme tout le monde"
       }
     ],
     "Dialogue": [
