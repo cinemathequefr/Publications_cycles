@@ -205,7 +205,7 @@
   {
     "idSeance": 205670,
     "idEvenement": 34685,
-    "dateHeure": "2025-12-04T15:30:00",
+    "dateHeure": "2025-12-04T15:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -256,7 +256,7 @@
   {
     "idSeance": 205585,
     "idEvenement": 34770,
-    "dateHeure": "2025-12-04T17:30:00",
+    "dateHeure": "2025-12-04T17:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -724,32 +724,6 @@
     "hashEvenement": "f44719"
   },
   {
-    "idSeance": 205583,
-    "idEvenement": 34663,
-    "dateHeure": "2025-12-06T16:45:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Restaurations et raretés, best of 2025",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Jean-François Rauger",
-    "items": [
-      {
-        "idFilm": 67174,
-        "titre": "Contre la loi",
-        "realisateurs": "Flavio Calzavara",
-        "annee": 1950,
-        "duree": 96,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f67174"
-  },
-  {
     "idSeance": 205584,
     "idEvenement": 34769,
     "dateHeure": "2025-12-06T17:00:00",
@@ -785,6 +759,32 @@
     "hashEvenement": "f47763c34982"
   },
   {
+    "idSeance": 205583,
+    "idEvenement": 34663,
+    "dateHeure": "2025-12-06T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2025",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Jean-François Rauger",
+    "items": [
+      {
+        "idFilm": 67174,
+        "titre": "Contre la loi",
+        "realisateurs": "Flavio Calzavara",
+        "annee": 1950,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f67174"
+  },
+  {
     "idSeance": 208093,
     "idEvenement": 34687,
     "dateHeure": "2025-12-06T18:45:00",
@@ -813,7 +813,7 @@
   {
     "idSeance": 198474,
     "idEvenement": 34691,
-    "dateHeure": "2025-12-06T19:15:00",
+    "dateHeure": "2025-12-06T20:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -890,32 +890,6 @@
     "hashEvenement": "f97335"
   },
   {
-    "idSeance": 208091,
-    "idEvenement": 34708,
-    "dateHeure": "2025-12-07T14:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et raretés, best of 2025",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Isabelle Huppert (sous réserve)",
-    "items": [
-      {
-        "idFilm": 39901,
-        "titre": "Malina",
-        "realisateurs": "Werner Schroeter",
-        "annee": 1991,
-        "duree": 125,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f39901"
-  },
-  {
     "idSeance": 198467,
     "idEvenement": 34710,
     "dateHeure": "2025-12-07T14:30:00",
@@ -944,6 +918,32 @@
       }
     ],
     "hashEvenement": "f32370"
+  },
+  {
+    "idSeance": 208091,
+    "idEvenement": 34708,
+    "dateHeure": "2025-12-07T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et raretés, best of 2025",
+        "Les films"
+      ]
+    ],
+    "mention": "Séance présentée par Isabelle Huppert (sous réserve)",
+    "items": [
+      {
+        "idFilm": 39901,
+        "titre": "Malina",
+        "realisateurs": "Werner Schroeter",
+        "annee": 1991,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f39901"
   },
   {
     "idSeance": 198489,
@@ -1658,6 +1658,7 @@
         "realisateurs": "Chaerul Umam",
         "annee": 1982,
         "duree": 94,
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -1704,10 +1705,36 @@
         "titre": "Love for Share",
         "realisateurs": "Nia Dinata",
         "annee": 2006,
-        "duree": 105
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155490"
+  },
+  {
+    "idSeance": 208099,
+    "idEvenement": 35146,
+    "dateHeure": "2025-12-13T18:00:00",
+    "salle": "LE",
+    "cycle": [
+      [
+        "Séances spéciales",
+        "Festival 12 × 12"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155570,
+        "titre": "Veilleurs",
+        "art": "Les",
+        "realisateurs": "Philippe Laine, Stéphanie Magnant",
+        "annee": 2024,
+        "duree": 52,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155570"
   },
   {
     "idSeance": 208060,
@@ -1905,7 +1932,9 @@
         "titre": "3 Days to Eternity",
         "realisateurs": "Riri Riza",
         "annee": 2007,
-        "duree": 104
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155489"
@@ -1994,7 +2023,9 @@
         "titre": "Une femme indonésienne",
         "realisateurs": "Kamila Andini",
         "annee": 2022,
-        "duree": 100
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155493"
@@ -2231,7 +2262,7 @@
   {
     "idSeance": 208057,
     "idEvenement": 34525,
-    "dateHeure": "2025-12-17T18:30:00",
+    "dateHeure": "2025-12-17T19:30:00",
     "salle": "JE",
     "cycle": [
       [
@@ -2895,7 +2926,9 @@
         "titre": "Esclaves de Satan",
         "realisateurs": "Joko Anwar",
         "annee": 2017,
-        "duree": 107
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155491"
@@ -2965,7 +2998,9 @@
         "titre": "Marlina, la tueuse en quatre actes",
         "realisateurs": "Mouly Surya",
         "annee": 2017,
-        "duree": 93
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155492"
@@ -4551,31 +4586,6 @@
     "hashEvenement": "f129607f113216f102906"
   },
   {
-    "idSeance": 205857,
-    "idEvenement": 34752,
-    "dateHeure": "2026-01-09T20:15:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Fenêtre sur les collections",
-        "Robert et Raymond Hakim, producteurs"
-      ]
-    ],
-    "mention": "Séance présentée par Joël Daire et Florence Strauss",
-    "items": [
-      {
-        "idFilm": 47174,
-        "titre": "Belle de jour",
-        "realisateurs": "Luis Buñuel",
-        "annee": 1967,
-        "duree": 100,
-        "version": "VF",
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f47174"
-  },
-  {
     "idSeance": 199361,
     "idEvenement": 34789,
     "dateHeure": "2026-01-09T20:30:00",
@@ -4599,6 +4609,31 @@
       }
     ],
     "hashEvenement": "f43134"
+  },
+  {
+    "idSeance": 205857,
+    "idEvenement": 34752,
+    "dateHeure": "2026-01-09T21:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Fenêtre sur les collections",
+        "Robert et Raymond Hakim, producteurs"
+      ]
+    ],
+    "mention": "Séance présentée par Joël Daire et Florence Strauss",
+    "items": [
+      {
+        "idFilm": 47174,
+        "titre": "Belle de jour",
+        "realisateurs": "Luis Buñuel",
+        "annee": 1967,
+        "duree": 100,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f47174"
   },
   {
     "idSeance": 199402,
@@ -5215,7 +5250,10 @@
         "idFilm": 116909,
         "titre": "Margaret",
         "realisateurs": "Kenneth Lonergan",
-        "annee": 2011
+        "annee": 2011,
+        "duree": 150,
+        "version": "VOSTF",
+        "format": "DCP"
       },
       {
         "idConf": 34740,
@@ -6686,7 +6724,7 @@
   {
     "idSeance": 205901,
     "idEvenement": 34507,
-    "dateHeure": "2026-01-28T20:45:00",
+    "dateHeure": "2026-01-28T21:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -7178,7 +7216,7 @@
   {
     "idSeance": 205892,
     "idEvenement": 34488,
-    "dateHeure": "2026-01-31T20:45:00",
+    "dateHeure": "2026-01-31T21:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8421,7 +8459,10 @@
         "idFilm": 30152,
         "titre": "En quatrième vitesse",
         "realisateurs": "Robert Aldrich",
-        "annee": 1955
+        "annee": 1955,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
       },
       {
         "idConf": 34742,
@@ -8435,7 +8476,7 @@
   {
     "idSeance": 207895,
     "idEvenement": 35003,
-    "dateHeure": "2026-02-12T20:15:00",
+    "dateHeure": "2026-02-12T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -9159,7 +9200,7 @@
   {
     "idSeance": 205917,
     "idEvenement": 34452,
-    "dateHeure": "2026-02-20T17:30:00",
+    "dateHeure": "2026-02-20T17:15:00",
     "salle": "JE",
     "cycle": [
       [
@@ -9227,7 +9268,10 @@
         "titre": "Pendaison",
         "art": "La",
         "realisateurs": "Nagisa Ōshima",
-        "annee": 1968
+        "annee": 1968,
+        "duree": 117,
+        "version": "VOSTF",
+        "format": "DCP"
       },
       {
         "idConf": 34743,
@@ -9241,7 +9285,7 @@
   {
     "idSeance": 205918,
     "idEvenement": 34453,
-    "dateHeure": "2026-02-20T19:45:00",
+    "dateHeure": "2026-02-20T20:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -9265,7 +9309,7 @@
   {
     "idSeance": 207891,
     "idEvenement": 35002,
-    "dateHeure": "2026-02-20T20:15:00",
+    "dateHeure": "2026-02-20T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -9606,7 +9650,7 @@
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Agnès de Sacy",
+    "mention": "Séance présentée par Agnès de Sacy et Isabelle Carré",
     "items": [
       {
         "idFilm": 116760,
@@ -9983,7 +10027,9 @@
         "idFilm": 51012,
         "titre": "Conte de printemps",
         "realisateurs": "Éric Rohmer",
-        "annee": 1990
+        "annee": 1990,
+        "duree": 110,
+        "format": "DCP"
       },
       {
         "idConf": 34744,
@@ -10118,7 +10164,7 @@
   {
     "idSeance": 207962,
     "idEvenement": 34960,
-    "dateHeure": "2026-02-27T20:00:00",
+    "dateHeure": "2026-02-27T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -10142,7 +10188,7 @@
   {
     "idSeance": 207930,
     "idEvenement": 35005,
-    "dateHeure": "2026-02-27T20:15:00",
+    "dateHeure": "2026-02-27T20:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -10166,7 +10212,7 @@
   {
     "idSeance": 205861,
     "idEvenement": 34966,
-    "dateHeure": "2026-02-27T20:45:00",
+    "dateHeure": "2026-02-27T21:00:00",
     "salle": "JE",
     "cycle": [
       [
@@ -10547,7 +10593,7 @@
   {
     "idSeance": 205938,
     "idEvenement": 34448,
-    "dateHeure": "2026-03-01T20:30:00",
+    "dateHeure": "2026-03-01T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -10570,7 +10616,7 @@
   {
     "idSeance": 207901,
     "idEvenement": 35000,
-    "dateHeure": "2026-03-01T20:30:00",
+    "dateHeure": "2026-03-01T21:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -10669,7 +10715,7 @@
         "Autour de Maurice Tourneur"
       ]
     ],
-    "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de J.-F. Zygel",
+    "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de J.-F. Zygel. Séance présentée par Pierre Filmon, Christine Leteux, Hugues Peysson, Stephen Horne et Benoît Verdier",
     "items": [
       {
         "idFilm": 79205,
@@ -10857,7 +10903,9 @@
         "idFilm": 69656,
         "titre": "Aïe",
         "realisateurs": "Sophie Fillières",
-        "annee": 2000
+        "annee": 2000,
+        "duree": 103,
+        "format": "35 mm"
       },
       {
         "idConf": 34745,

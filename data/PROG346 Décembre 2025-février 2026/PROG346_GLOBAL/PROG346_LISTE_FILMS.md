@@ -510,7 +510,7 @@
   * Six destins  
   * Tables séparées
 
-## Séances spéciales (11)
+## Séances spéciales (12)
 
   * Affaire Bojarski (L')  
   * Cercle rouge (Le)  
@@ -522,7 +522,8 @@
   * Shoah (deuxième époque)  
   * Shoah (première époque)  
   * Sobibor, 14 octobre 1943, 16 heures  
-  * Un vivant qui passe
+  * Un vivant qui passe  
+  * Veilleurs (Les)
 
 ## Une fin d'année en 70 mm (11)
 

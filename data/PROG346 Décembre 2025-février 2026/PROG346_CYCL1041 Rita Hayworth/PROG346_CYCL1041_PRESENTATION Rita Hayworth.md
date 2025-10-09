@@ -1,6 +1,6 @@
 > En parallèle de l'exposition Orson Welles, hommage à l'une des reines de Hollywood. _La Dame de Shanghaï_, son unique collaboration avec celui qui fut aussi son second mari, constitue l'un des sommets d'une carrière faite de hauts et de bas, succession de chefs-d'œuvre (_Seuls les anges ont des ailes_, _Gilda_, _La Blonde framboise_) et de films plus anodins, simples écrins pour sa sidérante beauté. Une carrière qui raconte aussi en creux une autre histoire de Hollywood, celle de l'emprise de certains hommes – ici son père, puis le producteur Harry Cohn, impitoyables pygmalions – sur les plus grandes stars de l'époque.
 
-# [Rita Hayworth]
+# Relever le gant
 
 Pure création de la Columbia qui l'avait savamment calibrée aux normes glamour de l'époque, Rita Hayworth fut la plus grande star des années 40, à un niveau mondial assez inimaginable aujourd'hui, depuis sa gloire de pin-up pour GIs à sa parenthèse princière sous le feu des médias, en passant par l'honneur douteux d'avoir son effigie peinte sur une bombe nucléaire – il faudrait remonter aux stars du muet pour trouver de telles dévotions.
 
