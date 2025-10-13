@@ -904,6 +904,7 @@
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Aure Lebreton",
     "items": [
       {
         "idFilm": 32370,
@@ -1198,7 +1199,7 @@
         "annee": 2002,
         "duree": 81,
         "version": "VF",
-        "format": "DCP"
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f79444"
@@ -3062,7 +3063,7 @@
   {
     "idSeance": 198873,
     "idEvenement": 34394,
-    "dateHeure": "2025-12-22T19:30:00",
+    "dateHeure": "2025-12-22T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7240,7 +7241,7 @@
         "realisateurs": "John Sturges",
         "annee": 1962,
         "duree": 169,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP"
       }
     ],
@@ -7762,7 +7763,9 @@
         "idFilm": 155503,
         "titre": "Harmonieux ombrages d'Indochine",
         "realisateurs": "Georges R. Manue",
-        "annee": 1936
+        "annee": 1936,
+        "duree": 19,
+        "restauration": true
       }
     ],
     "hashEvenement": "f155501f155502f155503"
@@ -8764,26 +8767,31 @@
         "idFilm": 155557,
         "titre": "Animal rit",
         "realisateurs": "Aurore Peuffier",
-        "annee": 2017
+        "annee": 2017,
+        "duree": 3
       },
       {
         "idFilm": 155558,
         "titre": "Chuuut !",
         "realisateurs": "Nina Bisyarina",
-        "annee": 2025
+        "annee": 2025,
+        "duree": 8
       },
       {
         "idFilm": 155559,
         "titre": "Émerveillement",
         "realisateurs": "Martin Clerget",
-        "annee": 2022
+        "annee": 2022,
+        "duree": 3
       },
       {
         "idFilm": 155523,
         "titre": "Ourse et l'Oiseau",
         "art": "L'",
         "realisateurs": "Marie Caudry",
-        "annee": 2024
+        "annee": 2024,
+        "duree": 27,
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f155557f155558f155559f155523"
@@ -11266,6 +11274,7 @@
         "titre": "Hansel et Gretel",
         "realisateurs": "Lotte Reiniger",
         "annee": 1955,
+        "duree": 10,
         "format": "DCP"
       },
       {
