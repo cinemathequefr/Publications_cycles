@@ -207,7 +207,7 @@
         "idCopie": 30532,
         "duree": 93,
         "version": "INT. FR.",
-        "format": ""
+        "format": "DCP"
       }
     ],
     "mention": "Accompagnement musical par Franck Dadure. Séance présentée par Roxanne Haessig"
@@ -345,13 +345,13 @@
         "idFilm": 37350,
         "ordre": 1,
         "idSeance": 205932,
-        "idCopie": 30909,
+        "idCopie": 31004,
         "duree": 65,
-        "version": "",
-        "format": "35 mm"
+        "version": "INT. FR.",
+        "format": "Numérique"
       }
     ],
-    "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de J.-F. Zygel"
+    "mention": "Accompagnement musical par Phillip Carli"
   },
   {
     "idCategorie": 3970,
@@ -427,34 +427,9 @@
   {
     "idCategorie": 3970,
     "typeEvenement": 13,
-    "idEvenement": 34449,
-    "idSeance": 205936,
-    "dateHeure": "2026-02-28T17:15:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 105,
-    "items": [
-      {
-        "idFilm": 79233,
-        "ordre": 1,
-        "idSeance": 205936,
-        "idCopie": 30699,
-        "duree": 70,
-        "version": "VO",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de J.-F. Zygel"
-  },
-  {
-    "idCategorie": 3970,
-    "typeEvenement": 13,
     "idEvenement": 34673,
-    "idSeance": 205934,
-    "dateHeure": "2026-02-28T19:00:00",
+    "idSeance": 208122,
+    "dateHeure": "2026-02-28T17:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -464,7 +439,7 @@
       {
         "idFilm": 79229,
         "ordre": 1,
-        "idSeance": 205934,
+        "idSeance": 208122,
         "idCopie": 30688,
         "duree": 70,
         "version": "",
@@ -472,6 +447,31 @@
       }
     ],
     "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de J.-F. Zygel"
+  },
+  {
+    "idCategorie": 3970,
+    "typeEvenement": 13,
+    "idEvenement": 34449,
+    "idSeance": 208123,
+    "dateHeure": "2026-02-28T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 105,
+    "items": [
+      {
+        "idFilm": 79233,
+        "ordre": 1,
+        "idSeance": 208123,
+        "idCopie": 30699,
+        "duree": 70,
+        "version": "VO",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "mention": "Accompagnement musical par Stephen Horne"
   },
   {
     "idCategorie": 3970,
@@ -587,7 +587,7 @@
         "idCopie": 11548,
         "duree": 0,
         "version": "",
-        "format": "35 mm"
+        "format": "Numérique"
       }
     ],
     "mention": "Accompagnement musical par un pianiste issu de la classe d'improvisation de J.-F. Zygel"
@@ -841,7 +841,7 @@
         "idFilm": 51493,
         "ordre": 1,
         "idSeance": 205965,
-        "idCopie": 9031,
+        "idCopie": 9165,
         "duree": 87,
         "version": "",
         "format": "35 mm"
@@ -909,7 +909,12 @@
     "items": [
       {
         "idFilm": 52370,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 200922,
+        "idCopie": 31000,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm"
       }
     ]
   },

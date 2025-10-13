@@ -1,23 +1,5 @@
 # Liste des films par cycle
 
-## Alexandre Dovjenko (15)
-
-  * Adieu Amérique !  
-  * Aerograd  
-  * Arsenal  
-  * Bataille pour notre Ukraine soviétique (La)  
-  * Bucovine, terre ukrainienne  
-  * Chtchors  
-  * Ivan  
-  * Libération (La)  
-  * Mitchourine  
-  * Petit Fruit de l'amour (Le)  
-  * Poème de la mer (Le)  
-  * Sacoche du courrier diplomatique (La)  
-  * Terre (La)  
-  * Victoire en Ukraine (La)  
-  * Zvenigora
-
 ## Andre De Toth (33)
 
   * 5 heures 40  
@@ -94,16 +76,14 @@
   * Margaret  
   * Reine de Broadway (La)
 
-## Cinéma bis (10)
+## Cinéma bis (8)
 
   * Bad Girls Go to Hell  
-  * Bananes mécaniques  
   * Blackenstein, the Black Frankenstein  
   * Dernier Face-à-face (Le)  
   * Hanno cambiato faccia  
   * Nuit des juges (La)  
   * Poursuite implacable (La)  
-  * Seuil du vide (Le)  
   * Supernichons contre mafia  
   * Un été pourri
 
@@ -376,6 +356,23 @@
   * Szentendre, la ville des peintres  
   * Une histoire ordinaire  
   * Vent de la liberté (Le)
+
+## Oleksandr Dovjenko (14)
+
+  * Aerograd  
+  * Arsenal  
+  * Bataille pour notre Ukraine soviétique (La)  
+  * Bucovine, terre ukrainienne  
+  * Chtchors  
+  * Ivan  
+  * Libération (La)  
+  * Mitchourine  
+  * Petit Fruit de l'amour (Le)  
+  * Poème de la mer (Le)  
+  * Sacoche du courrier diplomatique (La)  
+  * Terre (La)  
+  * Victoire en Ukraine (La)  
+  * Zvenigora
 
 ## Orson Welles (20)
 
