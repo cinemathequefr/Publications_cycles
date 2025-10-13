@@ -74,7 +74,7 @@
   * Possédée du vice (La)  
   * Trois pour un massacre
 
-## Fenêtre sur les collections (25)
+## Fenêtre sur les collections (26)
 
   * Agent gelé (L')  
   * Amor  
@@ -96,6 +96,7 @@
   * Mélomane (Le)  
   * Onésime dresseur d'hommes et de chevaux  
   * Onésime sur le sentier de la guerre  
+  * Otage (L')  
   * Pendaison à Jefferson City  
   * Prairie en feu (La)  
   * Sur les toits  
