@@ -179,7 +179,7 @@
   * Motivos de Berta (Los)  
   * Quelques photos dans la ville de Sylvia  
   * Recuerdos de una mañana  
-  * Saphir de St. Louis (Le)  
+  * Saphir de Saint-Louis (Le)  
   * Spectre du Thuit (Le)
 
 ## Le film policier asiatique, les indispensables (28)
@@ -472,7 +472,7 @@
   * Rapt  
   * Sainte Nuit  
   * Samba Traoré  
-  * Sholay  
+  * Sholay (Director's Cut)  
   * Story of Joanna (The)  
   * Sur (El)  
   * Sur le territoire des Comanches  
