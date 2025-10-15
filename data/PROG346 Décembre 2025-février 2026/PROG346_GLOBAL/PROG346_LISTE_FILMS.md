@@ -87,12 +87,11 @@
   * Supernichons contre mafia  
   * Un été pourri
 
-## David Gordon Green (21)
+## David Gordon Green (19)
 
   * All the Real Girls  
   * Autre Rive (L')  
   * Baby-sitter malgré lui  
-  * Black Jack  
   * Délire Express  
   * Exorciste : Dévotion (L')  
   * George Washington  
@@ -108,7 +107,6 @@
   * Que le meilleur gagne  
   * Snow Angels  
   * Stronger  
-  * Unit Zero  
   * Votre Majesté
 
 ## Fenêtre sur les collections (16)
@@ -401,12 +399,12 @@
 
   * 3 Days to Eternity  
   * Benyamin biang kerok  
-  * Esclaves de Satan  
+  * Esclaves de Satan (Les)  
   * Feuille sur un oreiller  
   * Longue Marche (La)  
   * Love for Share  
   * Marlina, la tueuse en quatre actes  
-  * Narrow Bridge  
+  * Narrow Bridge (The)  
   * Turang  
   * Une femme indonésienne
 
