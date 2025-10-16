@@ -370,7 +370,7 @@
   * Sacoche du courrier diplomatique (La)  
   * Terre (La)  
   * Victoire en Ukraine (La)  
-  * Zvenigora
+  * Zvenygora
 
 ## Orson Welles (20)
 
@@ -521,7 +521,7 @@
   * Veilleurs (Les)  
   * Victor comme tout le monde
 
-## Une fin d'année en 70 mm (11)
+## Un changement d'année en 70 mm (11)
 
   * Cheyennes (Les)  
   * Huit Salopards (Les)  
