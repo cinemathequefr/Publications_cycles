@@ -6,6 +6,7 @@
     {
       "idCycleProg": 11,
       "titreCycle": "Séances spéciales",
+      "_charge_prog": "Katia Méndez Best / Stefano Darchino",
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [{ "titre": "", "cats": [], "tri": 4, "printNoMT": true }],
@@ -17,6 +18,7 @@
     {
       "idCycleProg": 14,
       "titreCycle": "Cinéma bis",
+      "_charge_prog": "Stefano Darchino",
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [{ "titre": "", "cats": [], "tri": 4, "printNoMT": true }],
@@ -101,10 +103,14 @@
       "titreEvenements": {}
     },
     {
-      "idCycleProg": 525,
-      "titreCycle": "Ciné-club de Frédéric Bonnaud",
-      "isReg": true,
-      "sousCycles": [{ "titre": "", "cats": [], "tri": 4 }],
+      "idCycleProg": 751,
+      "titreCycle": "Robert Altman",
+      "_charge_prog": "Katia Méndez Best",
+      "isReg": false,
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3245], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
       "excludeSeances": [],
       "cancelledSeances": [],
       "restaurations": [],
@@ -120,6 +126,15 @@
       "cancelledSeances": [],
       "restaurations": [],
       "titreEvenements": {}
+    },
+    {
+      "idCycleProg": 1033,
+      "titreCycle": "Ciné-club de Murielle Joudet",
+      "isReg": true,
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3897], "tri": 4 },
+        { "titre": "Rencontres et conférences", "cats": [3898], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": 1063,
@@ -150,9 +165,24 @@
       "_charge_prog": "Stefano Darchino",
       "sousCycles": [
         { "titre": "Les films", "cats": [4049], "tri": 2 },
+        { "titre": "Courts métrages", "cats": [4051], "tri": 4 },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
       "restaurations": []
+    },
+    {
+      "idCycleProg": 1067,
+      "titreCycle": "Le cinéma italien des années de plomb",
+      "_charge_prog": "Stefano Darchino",
+      "isReg": false,
+      "sousCycles": [
+        { "titre": "Les films", "cats": [4052], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
+      ],
+      "excludeSeances": [],
+      "cancelledSeances": [],
+      "restaurations": [],
+      "titreEvenements": {}
     },
     {
       "idCycleProg": null,

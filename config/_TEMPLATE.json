@@ -6,6 +6,7 @@
     {
       "idCycleProg": 11,
       "titreCycle": "Séances spéciales",
+      "_charge_prog": "",
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [{ "titre": "", "cats": [], "tri": 4, "printNoMT": true }],
@@ -17,6 +18,7 @@
     {
       "idCycleProg": 14,
       "titreCycle": "Cinéma bis",
+      "_charge_prog": "",
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [{ "titre": "", "cats": [], "tri": 4, "printNoMT": true }],
@@ -27,9 +29,10 @@
     },
     {
       "idCycleProg": 18,
+      "titreCycle": "Conservatoire des techniques cinématographiques",
+      "_charge_prog": "",
       "isReg": true,
       "triSousCycles": true,
-      "titreCycle": "Conservatoire des techniques cinématographiques",
       "sousCycles": [
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
@@ -41,6 +44,7 @@
     {
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
+      "_charge_prog": "",
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [
@@ -56,6 +60,7 @@
     {
       "idCycleProg": 143,
       "titreCycle": "Fenêtre sur les collections",
+      "_charge_prog": "",
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [
@@ -73,6 +78,7 @@
       "isReg": true,
       "triSousCycles": true,
       "titreCycle": "Parlons cinéma... avec",
+      "_charge_prog": "",
       "sousCycles": [
         { "titre": "Les films", "cats": [], "tri": 4 },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
@@ -85,6 +91,7 @@
     {
       "idCycleProg": 472,
       "titreCycle": "Archi Vives",
+      "_charge_prog": "",
       "triSousCycles": true,
       "isReg": true,
       "sousCycles": [
@@ -101,20 +108,20 @@
       "titreEvenements": {}
     },
     {
-      "idCycleProg": 525,
-      "titreCycle": "Ciné-club de Frédéric Bonnaud",
+      "idCycleProg": 1033,
+      "titreCycle": "Ciné-club de Murielle Joudet",
       "isReg": true,
-      "sousCycles": [{ "titre": "", "cats": [], "tri": 4 }],
-      "excludeSeances": [],
-      "cancelledSeances": [],
-      "restaurations": [],
-      "titreEvenements": {}
+      "sousCycles": [
+        { "titre": "Les films", "cats": [3897], "tri": 4 },
+        { "titre": "Rencontres et conférences", "cats": [3898], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": null,
       "isReg": true,
       "type": "jp",
       "titreCycle": "Ma petite Cinémathèque",
+      "_charge_prog": "Élodie Imbeau",
       "sousCycles": [{ "titre": "Les films", "cats": [], "tri": 4 }],
       "excludeSeances": [],
       "cancelledSeances": [],
@@ -125,6 +132,7 @@
     {
       "idCycleProg": null,
       "titreCycle": "",
+      "_charge_prog": "",
       "isReg": false,
       "sousCycles": [
         { "titre": "Les films", "cats": [], "tri": 2 },
@@ -138,6 +146,7 @@
     {
       "idCycleProg": null,
       "titreCycle": "",
+      "_charge_prog": "",
       "isReg": true,
       "triSousCycles": true,
       "type": null,
