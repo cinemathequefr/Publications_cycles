@@ -1,0 +1,47 @@
+{
+  "datesCycle": [
+    "2026-03-30T20:00:00",
+    "2026-03-30T20:00:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 155572,
+          "content": [
+            {
+              "idFilm": 155572,
+              "ordre": 1,
+              "titre": "Silent Friend",
+              "realisateurs": "Ildikó Enyedi",
+              "pays": "Allemagne-Hongrie-France",
+              "annee": 2025,
+              "duree": 147,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 206561,
+              "dateHeure": "2026-03-30T20:00:00",
+              "idSalle": "HL",
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2026-03-30T20:00:00",
+        "titreFilms": "Silent Friend"
+      }
+    ]
+  }
+}
