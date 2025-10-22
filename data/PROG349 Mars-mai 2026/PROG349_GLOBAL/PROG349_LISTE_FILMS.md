@@ -55,6 +55,10 @@
   * Ville accuse (La)  
   * Violence et passion
 
+## Marilyn Monroe (1)
+
+  * Sept ans de réflexion
+
 ## Robert Altman (1)
 
   * Privé (Le)  
