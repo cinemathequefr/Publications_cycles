@@ -60,6 +60,10 @@
   * Ville accuse (La)  
   * Violence et passion
 
+## Le film de tueurs en série, 25 indispensables (1)
+
+  * M
+
 ## Marilyn Monroe (1)
 
   * Sept ans de réflexion
