@@ -37,17 +37,22 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (27)
+## Le cinéma italien des années de plomb (34)
 
   * Adorable corps de Deborah (L')  
+  * Autre côté de la violence (L')  
   * Bandits à Milan  
   * Big Guns  
+  * Brigade spéciale  
   * Cadavres exquis  
+  * Cher papa  
   * Chuncho (El)  
   * Compañeros  
   * Dillinger est mort  
   * Dossiers rouges de la Mondaine (Les)  
+  * Ecce bombo  
   * Enquête sur un citoyen au-dessus de tout soupçon  
+  * Homicide volontaire  
   * Italia: ultimo atto?  
   * Milan calibre 9  
   * Mort a pondu un œuf (La)  
@@ -61,7 +66,9 @@
   * Tarentule au ventre noir (La)  
   * Témoin à abattre (Le)  
   * Todo modo  
+  * Un bourgeois tout petit, petit  
   * Un citoyen se rebelle  
+  * Un juge en danger  
   * Une folle envie d'aimer  
   * Vent d'est  
   * Ville accuse (La)  
@@ -71,8 +78,9 @@
 
   * M
 
-## Marilyn Monroe (1)
+## Marilyn Monroe (2)
 
+  * Certains l'aiment chaud  
   * Sept ans de réflexion
 
 ## Robert Altman (1)
