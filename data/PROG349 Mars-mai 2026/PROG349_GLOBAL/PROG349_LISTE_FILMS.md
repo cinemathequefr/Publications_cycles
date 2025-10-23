@@ -1,5 +1,10 @@
 # Liste des films par cycle
 
+## Greta Garbo (2)
+
+  * Chair et le diable (La)  
+  * Reine Christine (La)
+
 ## Ildikó Enyedi (1)
 
   * Silent Friend
