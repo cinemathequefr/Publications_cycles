@@ -5,6 +5,10 @@
   * Chair et le diable (La)  
   * Reine Christine (La)
 
+## Harold Lloyd (1)
+
+  * Monte là-dessus
+
 ## Ildikó Enyedi (1)
 
   * Silent Friend
@@ -33,7 +37,7 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (24)
+## Le cinéma italien des années de plomb (27)
 
   * Adorable corps de Deborah (L')  
   * Bandits à Milan  
@@ -42,6 +46,7 @@
   * Chuncho (El)  
   * Compañeros  
   * Dillinger est mort  
+  * Dossiers rouges de la Mondaine (Les)  
   * Enquête sur un citoyen au-dessus de tout soupçon  
   * Italia: ultimo atto?  
   * Milan calibre 9  
@@ -50,11 +55,13 @@
   * Oiseau au plumage de cristal (L')  
   * Polices parallèles en action  
   * Rapt à l'italienne  
+  * Rendez-vous de Satan (Les)  
   * Romances et Confidences  
   * Salò ou les 120 journées de Sodome  
   * Tarentule au ventre noir (La)  
   * Témoin à abattre (Le)  
   * Todo modo  
+  * Un citoyen se rebelle  
   * Une folle envie d'aimer  
   * Vent d'est  
   * Ville accuse (La)  
