@@ -42,7 +42,7 @@
         "idSeance": 208347,
         "idCopie": 31051,
         "duree": 100,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
@@ -76,7 +76,7 @@
     "typeEvenement": 13,
     "idEvenement": 35295,
     "idSeance": 206370,
-    "dateHeure": "2026-03-21T18:30:00",
+    "dateHeure": "2026-03-21T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -91,30 +91,6 @@
         "duree": 115,
         "version": "VOSTF",
         "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4052,
-    "typeEvenement": 13,
-    "idEvenement": 35311,
-    "idSeance": 208332,
-    "dateHeure": "2026-03-21T21:15:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 60788,
-        "ordre": 1,
-        "idSeance": 208332,
-        "idCopie": 21585,
-        "duree": 102,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
       }
     ]
   },
@@ -391,8 +367,8 @@
         "idSeance": 208341,
         "idCopie": 31072,
         "duree": 94,
-        "version": "",
-        "format": ""
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -623,9 +599,9 @@
         "idFilm": 52563,
         "ordre": 1,
         "idSeance": 206659,
-        "idCopie": 23346,
+        "idCopie": 23054,
         "duree": 120,
-        "version": "VF",
+        "version": "VOSTF",
         "format": "35 mm"
       }
     ]
@@ -750,6 +726,30 @@
   {
     "idCategorie": 4052,
     "typeEvenement": 13,
+    "idEvenement": 35311,
+    "idSeance": 206713,
+    "dateHeure": "2026-04-05T19:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 60788,
+        "ordre": 1,
+        "idSeance": 206713,
+        "idCopie": 21585,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4052,
+    "typeEvenement": 13,
     "idEvenement": 35338,
     "idSeance": 206757,
     "dateHeure": "2026-04-08T19:30:00",
@@ -790,6 +790,75 @@
         "duree": 95,
         "version": "VO",
         "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 4052,
+    "typeEvenement": 13,
+    "idEvenement": 35305,
+    "idSeance": 206823,
+    "dateHeure": "2026-04-10T18:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 78580,
+        "ordre": 1,
+        "idSeance": 206823,
+        "idCopie": 31049,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4052,
+    "typeEvenement": 13,
+    "idEvenement": 35345,
+    "idSeance": 206824,
+    "dateHeure": "2026-04-10T20:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 56618,
+        "ordre": 1,
+        "idSeance": 206824,
+        "idCopie": 31082,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4052,
+    "typeEvenement": 13,
+    "idEvenement": 35314,
+    "idSeance": 206861,
+    "dateHeure": "2026-04-11T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 45957,
+        "ordre": 1,
+        "idSeance": 206861,
+        "idCopie": 2875,
+        "duree": 101,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   }

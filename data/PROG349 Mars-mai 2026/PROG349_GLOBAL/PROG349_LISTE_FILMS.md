@@ -9,9 +9,21 @@
 
   * Monte là-dessus
 
-## Ildikó Enyedi (1)
+## Ildikó Enyedi (13)
 
-  * Silent Friend
+  * Conversations of Donkey and Rabbit (The)  
+  * Corps et âme  
+  * De l'Europe à l'Europe  
+  * Első szerelem  
+  * Flirt: Hipnózis  
+  * Freischütz  
+  * Histoire de ma femme (L')  
+  * Invasion  
+  * Mon XXe siècle  
+  * Silent Friend  
+  * Simon le Mage  
+  * Tamás et Juli  
+  * Vakond
 
 ## L'Écran démoniaque (21)
 
@@ -37,7 +49,7 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (34)
+## Le cinéma italien des années de plomb (36)
 
   * Adorable corps de Deborah (L')  
   * Autre côté de la violence (L')  
@@ -47,6 +59,7 @@
   * Cadavres exquis  
   * Cher papa  
   * Chuncho (El)  
+  * Colpire al cuore  
   * Compañeros  
   * Dillinger est mort  
   * Dossiers rouges de la Mondaine (Les)  
@@ -71,6 +84,7 @@
   * Un juge en danger  
   * Une folle envie d'aimer  
   * Vent d'est  
+  * Victime désignée (La)  
   * Ville accuse (La)  
   * Violence et passion
 
@@ -78,10 +92,20 @@
 
   * M
 
-## Marilyn Monroe (2)
+## Marilyn Monroe (12)
 
+  * Bus Stop  
   * Certains l'aiment chaud  
-  * Sept ans de réflexion
+  * Chérie, je me sens rajeunir  
+  * Comment épouser un millionnaire  
+  * Démon s'éveille la nuit (Le)  
+  * Désaxés (Les)  
+  * Hommes préfèrent les blondes (Les)  
+  * Milliardaire (Le)  
+  * Niagara  
+  * Rivière sans retour  
+  * Sept ans de réflexion  
+  * Troublez-moi ce soir
 
 ## Robert Altman (1)
 
