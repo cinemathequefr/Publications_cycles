@@ -92,15 +92,13 @@
 
   * M
 
-## Marilyn Monroe (12)
+## Marilyn Monroe (10)
 
-  * Arrêt d'autobus  
+  * Bus Stop  
   * Certains l'aiment chaud  
-  * Chérie, je me sens rajeunir  
   * Comment épouser un millionnaire  
   * Démon s'éveille la nuit (Le)  
   * Désaxés (Les)  
-  * Hommes préfèrent les blondes (Les)  
   * Milliardaire (Le)  
   * Niagara  
   * Rivière sans retour  
