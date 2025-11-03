@@ -94,7 +94,7 @@
 
 ## Marilyn Monroe (12)
 
-  * Bus Stop  
+  * Arrêt d'autobus  
   * Certains l'aiment chaud  
   * Chérie, je me sens rajeunir  
   * Comment épouser un millionnaire  
