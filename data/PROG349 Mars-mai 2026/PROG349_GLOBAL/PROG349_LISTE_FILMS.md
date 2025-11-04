@@ -25,7 +25,7 @@
   * Tamás et Juli  
   * Vakond
 
-## L'Écran démoniaque (21)
+## L'Écran démoniaque (20)
 
   * Cabinet des figures de cire (Le)  
   * Cabinet du docteur Caligari (Le)  
@@ -35,7 +35,6 @@
   * Docteur Mabuse, le joueur, partie 2 : Inferno, un jeu de nos contemporains  
   * Espions (Les)  
   * Étudiant de Prague (L')  
-  * Femme sur la Lune (La)  
   * Golem (Le)  
   * Mains d'Orlac (Les)  
   * Metropolis  
@@ -49,7 +48,7 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (36)
+## Le cinéma italien des années de plomb (33)
 
   * Adorable corps de Deborah (L')  
   * Autre côté de la violence (L')  
@@ -61,7 +60,6 @@
   * Chuncho (El)  
   * Colpire al cuore  
   * Compañeros  
-  * Dillinger est mort  
   * Dossiers rouges de la Mondaine (Les)  
   * Ecce bombo  
   * Enquête sur un citoyen au-dessus de tout soupçon  
@@ -73,7 +71,6 @@
   * Oiseau au plumage de cristal (L')  
   * Polices parallèles en action  
   * Rapt à l'italienne  
-  * Rendez-vous de Satan (Les)  
   * Romances et Confidences  
   * Salò ou les 120 journées de Sodome  
   * Tarentule au ventre noir (La)  
@@ -85,7 +82,6 @@
   * Une folle envie d'aimer  
   * Vent d'est  
   * Victime désignée (La)  
-  * Ville accuse (La)  
   * Violence et passion
 
 ## Le film de tueurs en série, 25 indispensables (1)

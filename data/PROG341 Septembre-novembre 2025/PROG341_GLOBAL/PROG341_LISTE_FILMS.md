@@ -199,14 +199,16 @@
   * Strange Days  
   * Zero Dark Thirty
 
-## Laetitia Masson (10)
+## Laetitia Masson (12)
 
   * À vendre  
   * Chevrotine  
   * Coupable  
   * En avoir (ou pas)  
   * GHB  
+  * JFS Forever  
   * Love Me  
+  * Mon Aurore  
   * Petite fille  
   * Pourquoi (pas) le Brésil  
   * Repentie (La)  

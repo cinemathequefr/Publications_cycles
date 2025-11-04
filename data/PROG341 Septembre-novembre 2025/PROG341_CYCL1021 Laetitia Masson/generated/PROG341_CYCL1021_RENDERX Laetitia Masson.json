@@ -10,38 +10,6 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 29445,
-          "content": [
-            {
-              "idFilm": 29445,
-              "ordre": 1,
-              "titre": "À vendre",
-              "realisateurs": "Laetitia Masson",
-              "pays": "France",
-              "annee": 1997,
-              "duree": 100,
-              "version": "",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Sandrine Kiberlain",
-                "Sergio Castellitto",
-                "Jean-François Stévenin",
-                "Aurore Clément"
-              ],
-              "miniTexte": "Un détective privé se lance à la recherche d'une jeune femme ayant quitté son futur époux, quelques jours avant son mariage. Conçu comme un film de traque, _À vendre_ suit la trajectoire d'une héroïne intransigeante, insaisissable, qui tente d'échapper au poids sociétal et au pouvoir des hommes. Un polar âpre et cru, doublé d'un _road movie_ atypique, où brille Sandrine Kiberlain."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 197394,
-              "dateHeure": "2025-11-23T17:30:00",
-              "idSalle": "GF",
-              "mention": "Séance présentée par Anh Duong (sous réserve) et Sandrine Kiberlain"
-            }
-          ]
-        },
-        {
           "idFilm": 103582,
           "content": [
             {
@@ -136,11 +104,67 @@
           ]
         },
         {
-          "idFilm": 66170,
+          "idEvenement": 33667,
           "content": [
             {
-              "idFilm": 66170,
+              "idFilm": 155597,
               "ordre": 1,
+              "titre": "JFS Forever",
+              "realisateurs": "Laetitia Masson",
+              "pays": "France",
+              "annee": 2021,
+              "duree": 14,
+              "version": "",
+              "format": "Numérique",
+              "miniTexte": "Portrait de Jean-François Stévenin."
+            },
+            {
+              "idFilm": 29445,
+              "ordre": 2,
+              "titre": "À vendre",
+              "realisateurs": "Laetitia Masson",
+              "pays": "France",
+              "annee": 1997,
+              "duree": 100,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Sandrine Kiberlain",
+                "Sergio Castellitto",
+                "Jean-François Stévenin",
+                "Aurore Clément"
+              ],
+              "miniTexte": "Un détective privé se lance à la recherche d'une jeune femme ayant quitté son futur époux, quelques jours avant son mariage. Conçu comme un film de traque, _À vendre_ suit la trajectoire d'une héroïne intransigeante, insaisissable, qui tente d'échapper au poids sociétal et au pouvoir des hommes. Un polar âpre et cru, doublé d'un _road movie_ atypique, où brille Sandrine Kiberlain."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 197394,
+              "dateHeure": "2025-11-23T17:30:00",
+              "idSalle": "GF",
+              "mention": "Séance présentée par Anh Duong (sous réserve) et Sandrine Kiberlain"
+            }
+          ]
+        },
+        {
+          "idEvenement": 35562,
+          "content": [
+            {
+              "idFilm": 155598,
+              "ordre": 1,
+              "titre": "Mon Aurore",
+              "realisateurs": "Laetitia Masson",
+              "pays": "France",
+              "annee": 2017,
+              "duree": 15,
+              "version": "",
+              "format": "Numérique",
+              "miniTexte": "Portrait d'Aurore Clément."
+            },
+            {
+              "idFilm": 66170,
+              "ordre": 2,
               "titre": "Love Me",
               "realisateurs": "Laetitia Masson",
               "pays": "France",
@@ -367,12 +391,12 @@
         "dateHeure": "2025-11-21T20:00:00"
       },
       {
-        "titreFilms": "À vendre",
+        "titreFilms": "JFS Forever / À vendre",
         "mention": "par Anh Duong (sous réserve) et Sandrine Kiberlain",
         "dateHeure": "2025-11-23T17:30:00"
       },
       {
-        "titreFilms": "Love Me",
+        "titreFilms": "Mon Aurore / Love Me",
         "mention": "par Aurore Clément et Antoine Héberlé",
         "dateHeure": "2025-11-23T20:00:00"
       },
