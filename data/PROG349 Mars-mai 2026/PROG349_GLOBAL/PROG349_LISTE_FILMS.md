@@ -9,9 +9,18 @@
 
   * Reine Christine (La)
 
-## Harold Lloyd (1)
+## Harold Lloyd (10)
 
-  * Monte là-dessus
+  * À la hauteur  
+  * Ça te la coupe  
+  * En vitesse  
+  * Marathon (The)  
+  * Monte là-dessus  
+  * Nouvelles (més)aventures d'Harold Lloyd (Les)  
+  * Petit frère (Le)  
+  * Pour le cœur de Jenny  
+  * Trois (mes)aventures d'Harold Lloyd (Les)  
+  * Vive le sport !
 
 ## Ildikó Enyedi (11)
 
