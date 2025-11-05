@@ -1,18 +1,21 @@
 # Liste des films par cycle
 
-## Greta Garbo (2)
+## Cinéma bis (2)
 
-  * Chair et le diable (La)  
+  * Beast of the Yellow Night  
+  * Beyond Atlantis
+
+## Greta Garbo (1)
+
   * Reine Christine (La)
 
 ## Harold Lloyd (1)
 
   * Monte là-dessus
 
-## Ildikó Enyedi (13)
+## Ildikó Enyedi (11)
 
   * Conversations of Donkey and Rabbit (The)  
-  * Corps et âme  
   * De l'Europe à l'Europe  
   * Első szerelem  
   * Flirt: Hipnózis  
@@ -21,11 +24,16 @@
   * Invasion  
   * Mon XXe siècle  
   * Silent Friend  
-  * Simon le Mage  
   * Tamás et Juli  
   * Vakond
 
-## L'Écran démoniaque (20)
+## Jean-François Stévenin (3)
+
+  * Double messieurs  
+  * JFS Forever  
+  * Passe montagne
+
+## L'Écran démoniaque (21)
 
   * Cabinet des figures de cire (Le)  
   * Cabinet du docteur Caligari (Le)  
@@ -35,6 +43,7 @@
   * Docteur Mabuse, le joueur, partie 2 : Inferno, un jeu de nos contemporains  
   * Espions (Les)  
   * Étudiant de Prague (L')  
+  * Femme sur la Lune (La)  
   * Golem (Le)  
   * Mains d'Orlac (Les)  
   * Metropolis  
@@ -48,9 +57,10 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (33)
+## Le cinéma italien des années de plomb (39)
 
   * Adorable corps de Deborah (L')  
+  * Allonsanfàn  
   * Autre côté de la violence (L')  
   * Bandits à Milan  
   * Big Guns  
@@ -60,6 +70,7 @@
   * Chuncho (El)  
   * Colpire al cuore  
   * Compañeros  
+  * Dillinger est mort  
   * Dossiers rouges de la Mondaine (Les)  
   * Ecce bombo  
   * Enquête sur un citoyen au-dessus de tout soupçon  
@@ -70,28 +81,33 @@
   * Nous voulons les colonels  
   * Oiseau au plumage de cristal (L')  
   * Polices parallèles en action  
+  * Rançon de la peur (La)  
   * Rapt à l'italienne  
+  * Rendez-vous de Satan (Les)  
   * Romances et Confidences  
   * Salò ou les 120 journées de Sodome  
   * Tarentule au ventre noir (La)  
   * Témoin à abattre (Le)  
   * Todo modo  
+  * Trois pour un massacre  
   * Un bourgeois tout petit, petit  
   * Un citoyen se rebelle  
   * Un juge en danger  
   * Une folle envie d'aimer  
   * Vent d'est  
   * Victime désignée (La)  
+  * Ville accuse (La)  
   * Violence et passion
 
 ## Le film de tueurs en série, 25 indispensables (1)
 
   * M
 
-## Marilyn Monroe (10)
+## Marilyn Monroe (11)
 
   * Bus Stop  
   * Certains l'aiment chaud  
+  * Chérie, je me sens rajeunir  
   * Comment épouser un millionnaire  
   * Démon s'éveille la nuit (Le)  
   * Désaxés (Les)  
@@ -101,6 +117,7 @@
   * Sept ans de réflexion  
   * Troublez-moi ce soir
 
-## Robert Altman (1)
+## Robert Altman (2)
 
+  * John McCabe  
   * Privé (Le)  

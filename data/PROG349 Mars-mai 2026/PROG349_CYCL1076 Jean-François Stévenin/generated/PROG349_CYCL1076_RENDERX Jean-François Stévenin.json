@@ -1,0 +1,82 @@
+{
+  "datesCycle": [
+    "2026-04-29T20:00:00",
+    "2026-05-02T14:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 51337,
+          "content": [
+            {
+              "idFilm": 51337,
+              "ordre": 1,
+              "titre": "Double messieurs",
+              "realisateurs": "Jean-François Stévenin",
+              "pays": "France",
+              "annee": 1984,
+              "duree": 90,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Carole Bouquet",
+                "Yves Afonso",
+                "Jean-François Stévenin"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208424,
+              "dateHeure": "2026-05-02T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idEvenement": 35564,
+          "content": [
+            {
+              "idFilm": 155597,
+              "ordre": 1,
+              "titre": "JFS Forever",
+              "realisateurs": "Laetitia Masson",
+              "pays": "France",
+              "annee": 2021,
+              "miniTexte": "Portrait de Jean-François Stévenin."
+            },
+            {
+              "idFilm": 51338,
+              "ordre": 2,
+              "titre": "Passe montagne",
+              "realisateurs": "Jean-François Stévenin",
+              "pays": "France",
+              "annee": 1978,
+              "duree": 113,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Jean-François Stévenin",
+                "Jacques Villeret",
+                "Yves Lemoigne"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208423,
+              "dateHeure": "2026-04-29T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}
