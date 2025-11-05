@@ -16,10 +16,10 @@
   * En vitesse  
   * Marathon (The)  
   * Monte là-dessus  
-  * Nouvelles (més)aventures d'Harold Lloyd (Les)  
-  * Petit frère (Le)  
+  * Nouvelles (Més)aventures d'Harold Lloyd (Les)  
+  * Petit Frère (Le)  
   * Pour le cœur de Jenny  
-  * Trois (mes)aventures d'Harold Lloyd (Les)  
+  * Trois (Mes)aventures d'Harold Lloyd (Les)  
   * Vive le sport !
 
 ## Ildikó Enyedi (11)
@@ -68,7 +68,7 @@
 
 ## Le cinéma italien des années de plomb (39)
 
-  * Adorable corps de Deborah (L')  
+  * Adorable Corps de Deborah (L')  
   * Allonsanfàn  
   * Autre côté de la violence (L')  
   * Bandits à Milan  
@@ -112,17 +112,27 @@
 
   * M
 
-## Marilyn Monroe (11)
+## Marilyn Monroe (21)
 
   * Bus Stop  
   * Certains l'aiment chaud  
   * Chérie, je me sens rajeunir  
+  * Cinq mariages à l'essai  
   * Comment épouser un millionnaire  
   * Démon s'éveille la nuit (Le)  
   * Désaxés (Les)  
+  * Home Town Story  
+  * Hommes préfèrent les blondes (Les)  
+  * Joyeuse Parade (La)  
   * Milliardaire (Le)  
   * Niagara  
+  * Nid d'amour  
+  * Pêche au trésor (La)  
+  * Prince et la Danseuse (Le)  
+  * Quand la ville dort  
+  * Reines du music-hall (Les)  
   * Rivière sans retour  
+  * Roi de la piste (Le)  
   * Sept ans de réflexion  
   * Troublez-moi ce soir
 
