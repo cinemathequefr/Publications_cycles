@@ -1,13 +1,15 @@
 # Liste des films par cycle
 
+## Ciné-club de Murielle Joudet (3)
+
+  * Dillinger est mort  
+  * Reine Christine (La)  
+  * Sept ans de réflexion
+
 ## Cinéma bis (2)
 
   * Beast of the Yellow Night  
   * Beyond Atlantis
-
-## Greta Garbo (1)
-
-  * Reine Christine (La)
 
 ## Harold Lloyd (10)
 
@@ -66,7 +68,7 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (39)
+## Le cinéma italien des années de plomb (38)
 
   * Adorable Corps de Deborah (L')  
   * Allonsanfàn  
@@ -79,7 +81,6 @@
   * Chuncho (El)  
   * Colpire al cuore  
   * Compañeros  
-  * Dillinger est mort  
   * Dossiers rouges de la Mondaine (Les)  
   * Ecce bombo  
   * Enquête sur un citoyen au-dessus de tout soupçon  
@@ -112,7 +113,7 @@
 
   * M
 
-## Marilyn Monroe (21)
+## Marilyn Monroe (20)
 
   * Bus Stop  
   * Certains l'aiment chaud  
@@ -133,7 +134,6 @@
   * Reines du music-hall (Les)  
   * Rivière sans retour  
   * Roi de la piste (Le)  
-  * Sept ans de réflexion  
   * Troublez-moi ce soir
 
 ## Robert Altman (2)
