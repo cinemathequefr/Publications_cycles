@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2026-04-23T20:00:00",
-    "2026-04-26T14:30:00"
+    "2026-04-22T20:00:00",
+    "2026-04-26T17:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -67,14 +67,44 @@
           "seances": [
             {
               "idSeance": 206918,
-              "dateHeure": "2026-04-23T20:00:00",
+              "dateHeure": "2026-04-22T20:00:00",
               "idSalle": "HL",
               "mention": "Ouverture de la rétrospective"
             }
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 35588,
+          "content": [
+            {
+              "idConf": 35588,
+              "titre": "dialogue avec Jean-Baptiste Thoret",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208460,
+              "dateHeure": "2026-04-26T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "dialogue avec Jean-Baptiste Thoret",
+        "dateHeure": "2026-04-26T17:00:00"
+      }
+    ]
+  }
 }

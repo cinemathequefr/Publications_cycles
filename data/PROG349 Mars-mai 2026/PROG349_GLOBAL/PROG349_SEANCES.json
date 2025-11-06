@@ -1070,7 +1070,7 @@
   {
     "idSeance": 208431,
     "idEvenement": 35354,
-    "dateHeure": "2026-04-01T18:45:00",
+    "dateHeure": "2026-04-01T18:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1115,6 +1115,30 @@
       }
     ],
     "hashEvenement": "f42444"
+  },
+  {
+    "idSeance": 208463,
+    "idEvenement": 35358,
+    "dateHeure": "2026-04-01T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "L'Écran démoniaque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 40636,
+        "titre": "Cabinet des figures de cire",
+        "art": "Le",
+        "realisateurs": "Paul Leni",
+        "annee": 1924,
+        "version": "INT. FR.",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f40636"
   },
   {
     "idSeance": 206623,
@@ -1288,7 +1312,7 @@
   {
     "idSeance": 208448,
     "idEvenement": 35289,
-    "dateHeure": "2026-04-03T20:00:00",
+    "dateHeure": "2026-04-03T20:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2542,10 +2566,10 @@
     "hashEvenement": "f34120"
   },
   {
-    "idSeance": 207112,
-    "idEvenement": 35264,
-    "dateHeure": "2026-04-22T19:00:00",
-    "salle": "HL",
+    "idSeance": 208449,
+    "idEvenement": 35256,
+    "dateHeure": "2026-04-22T18:30:00",
+    "salle": "GF",
     "cycle": [
       [
         "Marilyn Monroe",
@@ -2554,16 +2578,60 @@
     ],
     "items": [
       {
-        "idFilm": 36906,
-        "titre": "Sept ans de réflexion",
-        "realisateurs": "Billy Wilder",
-        "annee": 1955,
-        "duree": 105,
+        "idFilm": 80908,
+        "titre": "Home Town Story",
+        "realisateurs": "Arthur Pierson",
+        "annee": 1951
+      }
+    ],
+    "hashEvenement": "f80908"
+  },
+  {
+    "idSeance": 206918,
+    "idEvenement": 29786,
+    "dateHeure": "2026-04-22T20:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Robert Altman",
+        "Les films"
+      ]
+    ],
+    "mention": "Ouverture de la rétrospective",
+    "items": [
+      {
+        "idFilm": 30235,
+        "titre": "Privé",
+        "art": "Le",
+        "realisateurs": "Robert Altman",
+        "annee": 1973,
+        "duree": 112,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f36906"
+    "hashEvenement": "f30235"
+  },
+  {
+    "idSeance": 208450,
+    "idEvenement": 35257,
+    "dateHeure": "2026-04-22T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marilyn Monroe",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 61849,
+        "titre": "Nid d'amour",
+        "realisateurs": "Joseph Newman",
+        "annee": 1951
+      }
+    ],
+    "hashEvenement": "f61849"
   },
   {
     "idSeance": 208444,
@@ -2591,10 +2659,10 @@
     "hashEvenement": "f38045"
   },
   {
-    "idSeance": 208449,
-    "idEvenement": 35256,
-    "dateHeure": "2026-04-23T18:30:00",
-    "salle": "GF",
+    "idSeance": 207112,
+    "idEvenement": 35264,
+    "dateHeure": "2026-04-23T19:00:00",
+    "salle": "HL",
     "cycle": [
       [
         "Marilyn Monroe",
@@ -2603,60 +2671,16 @@
     ],
     "items": [
       {
-        "idFilm": 80908,
-        "titre": "Home Town Story",
-        "realisateurs": "Arthur Pierson",
-        "annee": 1951
-      }
-    ],
-    "hashEvenement": "f80908"
-  },
-  {
-    "idSeance": 206918,
-    "idEvenement": 29786,
-    "dateHeure": "2026-04-23T20:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Robert Altman",
-        "Les films"
-      ]
-    ],
-    "mention": "Ouverture de la rétrospective",
-    "items": [
-      {
-        "idFilm": 30235,
-        "titre": "Privé",
-        "art": "Le",
-        "realisateurs": "Robert Altman",
-        "annee": 1973,
-        "duree": 112,
+        "idFilm": 36906,
+        "titre": "Sept ans de réflexion",
+        "realisateurs": "Billy Wilder",
+        "annee": 1955,
+        "duree": 105,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f30235"
-  },
-  {
-    "idSeance": 208450,
-    "idEvenement": 35257,
-    "dateHeure": "2026-04-23T20:30:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Marilyn Monroe",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 61849,
-        "titre": "Nid d'amour",
-        "realisateurs": "Joseph Newman",
-        "annee": 1951
-      }
-    ],
-    "hashEvenement": "f61849"
+    "hashEvenement": "f36906"
   },
   {
     "idSeance": 208445,
@@ -2729,6 +2753,27 @@
       }
     ],
     "hashEvenement": "f30210"
+  },
+  {
+    "idSeance": 208460,
+    "idEvenement": 35588,
+    "dateHeure": "2026-04-26T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Robert Altman",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35588,
+        "titre": "dialogue avec Jean-Baptiste Thoret",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c35588"
   },
   {
     "idSeance": 208423,
