@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-04-22T20:00:00",
-    "2026-04-26T17:00:00"
+    "2026-04-26T14:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -10,33 +10,49 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 30210,
-          "content": [
+          "groupe": [
             {
               "idFilm": 30210,
-              "ordre": 1,
-              "titre": "John McCabe",
-              "titreVo": "McCabe & Mrs. Miller",
-              "realisateurs": "Robert Altman",
-              "pays": "États-Unis",
-              "annee": 1971,
-              "duree": 120,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après le roman _McCabe_ d'Edmund Naughton.",
-              "generique": [
-                "Warren Beatty",
-                "Julie Christie",
-                "René Auberjonois"
-              ],
-              "miniTexte": "1902, dans l'Ouest américain. Un joueur de poker débarque dans une petite ville minière en plein essor, et s'associe avec une prostituée locale pour monter une maison close. Tout juste sorti du succès de _M*A*S*H_, Altman adapte le premier roman d'Edmund Naughton, un western dont il se plaît à déconstruire tous les mythes de l'héroïsme, puisant de la mélancolie dans les chansons de Leonard Cohen."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 30210,
+                  "ordre": 1,
+                  "titre": "John McCabe",
+                  "titreVo": "McCabe & Mrs. Miller",
+                  "realisateurs": "Robert Altman",
+                  "pays": "États-Unis",
+                  "annee": 1971,
+                  "duree": 120,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après le roman _McCabe_ d'Edmund Naughton.",
+                  "generique": [
+                    "Warren Beatty",
+                    "Julie Christie",
+                    "René Auberjonois"
+                  ],
+                  "miniTexte": "1902, dans l'Ouest américain. Un joueur de poker débarque dans une petite ville minière en plein essor, et s'associe avec une prostituée locale pour monter une maison close. Tout juste sorti du succès de _M*A*S*H_, Altman adapte le premier roman d'Edmund Naughton, un western dont il se plaît à déconstruire tous les mythes de l'héroïsme, puisant de la mélancolie dans les chansons de Leonard Cohen."
+                }
+              ]
+            },
             {
-              "idSeance": 208397,
-              "dateHeure": "2026-04-26T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 35588,
+              "content": [
+                {
+                  "idConf": 35588,
+                  "ordre": 2,
+                  "titre": "dialogue avec Jean-Baptiste Thoret",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208397,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-04-26T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -74,36 +90,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 35588,
-          "content": [
-            {
-              "idConf": 35588,
-              "titre": "dialogue avec Jean-Baptiste Thoret",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208460,
-              "dateHeure": "2026-04-26T17:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "John McCabe",
         "mention": "dialogue avec Jean-Baptiste Thoret",
-        "dateHeure": "2026-04-26T17:00:00"
+        "dateHeure": "2026-04-26T14:30:00"
       }
     ]
   }

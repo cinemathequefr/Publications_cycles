@@ -335,6 +335,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 120,
+          "typeAssoc": 118,
           "idCategorie": 4052,
           "idEvenement": 35292,
           "typeEvenement": 13,
@@ -363,10 +364,10 @@
         {
           "idSeance": 208479,
           "ordre": 1,
-          "dateHeure": "2026-04-09T18:30:00",
+          "dateHeure": "2026-04-09T21:00:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 135,
           "idCategorie": 4052,
@@ -627,10 +628,10 @@
         {
           "idSeance": 208434,
           "ordre": 1,
-          "dateHeure": "2026-04-09T21:00:00",
+          "dateHeure": "2026-04-09T18:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "dureeSeance": 135,
           "idCategorie": 4052,
@@ -1045,6 +1046,7 @@
             "Henri Langlois"
           ],
           "dureeSeance": 135,
+          "typeAssoc": 118,
           "idCategorie": 4052,
           "idEvenement": 35302,
           "typeEvenement": 13,
@@ -1151,6 +1153,67 @@
             "Silvana Mangano",
             "Dominique Sanda"
           ],
+          "textes": []
+        }
+      ],
+      "textes": []
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 4,
+      "items": [
+        {
+          "idSeance": 206535,
+          "ordre": 2,
+          "dateHeure": "2026-03-29T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 4077,
+          "idEvenement": 35584,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue après Vent d'est",
+          "duree": 60,
+          "textes": []
+        },
+        {
+          "idSeance": 208487,
+          "dateHeure": "2026-03-20T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "dureeSeance": 90,
+          "idCategorie": 4077,
+          "idEvenement": 35582,
+          "typeEvenement": 14,
+          "idTypeConference": 55,
+          "typeConference": "Conférence",
+          "titre": "conférence",
+          "sousTitre": "Conférence ",
+          "duree": 90,
+          "textes": []
+        },
+        {
+          "idSeance": 208488,
+          "dateHeure": "2026-03-21T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "idCategorie": 4077,
+          "idEvenement": 35583,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "film + dialogue",
+          "duree": 60,
           "textes": []
         }
       ],

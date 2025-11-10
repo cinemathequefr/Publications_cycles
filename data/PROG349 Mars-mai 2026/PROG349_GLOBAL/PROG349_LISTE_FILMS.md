@@ -11,9 +11,9 @@
   * Beast of the Yellow Night  
   * Beyond Atlantis
 
-## Harold Lloyd (10)
+## Harold Lloyd (9)
 
-  * À la hauteur  
+  * 3 (més)aventures d'Harold Lloyd  
   * Ça te la coupe  
   * En vitesse  
   * Marathon (The)  
@@ -21,7 +21,6 @@
   * Nouvelles (Més)aventures d'Harold Lloyd (Les)  
   * Petit Frère (Le)  
   * Pour le cœur de Jenny  
-  * Trois (Mes)aventures d'Harold Lloyd (Les)  
   * Vive le sport !
 
 ## Ildikó Enyedi (11)
@@ -44,7 +43,7 @@
   * JFS Forever  
   * Passe montagne
 
-## L'Écran démoniaque (21)
+## L'Écran démoniaque (25)
 
   * Cabinet des figures de cire (Le)  
   * Cabinet du docteur Caligari (Le)  
@@ -55,13 +54,17 @@
   * Espions (Les)  
   * Étudiant de Prague (L')  
   * Femme sur la Lune (La)  
+  * Genuine  
   * Golem (Le)  
   * Mains d'Orlac (Les)  
   * Metropolis  
   * Montreur d'ombres (Le)  
+  * Nerven  
   * Nibelungen, partie 1 : La Mort de Siegfried (Les)  
   * Nibelungen, partie 2 : La Vengeance de Kriemhild (Les)  
+  * Opium – Die Sensation der Nerven  
   * Phantom  
+  * Raskolnikov  
   * Rue (La)  
   * Tartuffe  
   * Tombeau hindou, partie 1 : La Mission du yogi (Le)  

@@ -39,7 +39,31 @@
             },
             {
               "idSeance": 208417,
+              "typeAssoc": 118,
               "dateHeure": "2026-05-13T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 35577,
+          "content": [
+            {
+              "idConf": 35577,
+              "titre": "Film + dialogue avec René de Ceccatty",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208502,
+              "dateHeure": "2026-05-09T16:00:00",
               "idSalle": "HL"
             }
           ]
@@ -47,5 +71,12 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "mention": "Film + dialogue avec René de Ceccatty",
+        "dateHeure": "2026-05-09T16:00:00"
+      }
+    ]
+  }
 }

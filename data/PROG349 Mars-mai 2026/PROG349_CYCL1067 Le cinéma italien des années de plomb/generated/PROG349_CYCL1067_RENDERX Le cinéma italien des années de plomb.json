@@ -357,6 +357,7 @@
           "seances": [
             {
               "idSeance": 208429,
+              "typeAssoc": 118,
               "dateHeure": "2026-03-27T19:00:00",
               "idSalle": "HL"
             }
@@ -386,8 +387,8 @@
           "seances": [
             {
               "idSeance": 208479,
-              "dateHeure": "2026-04-09T18:30:00",
-              "idSalle": "HL"
+              "dateHeure": "2026-04-09T21:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -644,8 +645,8 @@
           "seances": [
             {
               "idSeance": 208434,
-              "dateHeure": "2026-04-09T21:00:00",
-              "idSalle": "GF"
+              "dateHeure": "2026-04-09T18:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -1010,30 +1011,46 @@
           ]
         },
         {
-          "idFilm": 48872,
-          "content": [
+          "groupe": [
             {
               "idFilm": 48872,
-              "ordre": 1,
-              "titre": "Vent d'est",
-              "realisateurs": "Jean-Luc Godard, Jean-Pierre Gorin",
-              "pays": "France-RFA-Italie",
-              "annee": 1969,
-              "duree": 100,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Gian Maria Volonté",
-                "Anne Wiazemsky",
-                "Paolo Pozzesi"
+              "content": [
+                {
+                  "idFilm": 48872,
+                  "ordre": 1,
+                  "titre": "Vent d'est",
+                  "realisateurs": "Jean-Luc Godard, Jean-Pierre Gorin",
+                  "pays": "France-RFA-Italie",
+                  "annee": 1969,
+                  "duree": 100,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Gian Maria Volonté",
+                    "Anne Wiazemsky",
+                    "Paolo Pozzesi"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 206535,
-              "dateHeure": "2026-03-29T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 35584,
+              "content": [
+                {
+                  "idConf": 35584,
+                  "ordre": 2,
+                  "titre": "Dialogue après Vent d'est",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 206535,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-03-29T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -1131,7 +1148,67 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 35582,
+          "content": [
+            {
+              "idConf": 35582,
+              "titre": "conférence",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208487,
+              "dateHeure": "2026-03-20T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idConf": 35583,
+          "content": [
+            {
+              "idConf": 35583,
+              "titre": "film + dialogue",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208488,
+              "dateHeure": "2026-03-21T17:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "conférence",
+        "mention": "Conférence ",
+        "dateHeure": "2026-03-20T19:00:00"
+      }
+    ],
+    "Dialogues": [
+      {
+        "mention": "film + dialogue",
+        "dateHeure": "2026-03-21T17:00:00"
+      },
+      {
+        "titreFilms": "Vent d'est",
+        "mention": "après Vent d'est",
+        "dateHeure": "2026-03-29T14:30:00"
+      }
+    ]
+  }
 }

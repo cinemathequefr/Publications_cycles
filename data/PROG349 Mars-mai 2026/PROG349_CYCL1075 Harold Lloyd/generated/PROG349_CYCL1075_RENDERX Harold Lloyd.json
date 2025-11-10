@@ -10,29 +10,24 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 30962,
+          "idFilm": 139798,
           "content": [
             {
-              "idFilm": 30962,
+              "idFilm": 139798,
               "ordre": 1,
-              "titre": "À la hauteur",
-              "titreVo": "Feet First",
-              "realisateurs": "Clyde Bruckman",
-              "pays": "États-Unis",
-              "annee": 1930,
-              "duree": 93,
+              "titre": "3 (més)aventures d'Harold Lloyd",
+              "realisateurs": "Hal Roach, Fred C. Newmeyer, Sam Taylor",
+              "pays": "France",
+              "annee": 1920,
+              "duree": 48,
               "version": "VO",
-              "format": "35 mm",
-              "generique": [
-                "Harold Lloyd",
-                "Barbara Kent"
-              ]
+              "format": "35 mm"
             }
           ],
           "seances": [
             {
-              "idSeance": 207187,
-              "dateHeure": "2026-04-25T15:00:00",
+              "idSeance": 208442,
+              "dateHeure": "2026-04-17T15:30:00",
               "idSalle": "GF"
             }
           ]
@@ -210,63 +205,70 @@
           ]
         },
         {
-          "idFilm": 139798,
-          "content": [
-            {
-              "idFilm": 139798,
-              "ordre": 1,
-              "titre": "Trois (Mes)aventures d'Harold Lloyd",
-              "art": "Les",
-              "realisateurs": "Hal Roach, Fred C. Newmeyer, Sam Taylor",
-              "pays": "France",
-              "annee": 1920,
-              "duree": 48,
-              "version": "VO",
-              "format": "35 mm"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208442,
-              "dateHeure": "2026-04-17T15:30:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idFilm": 35628,
-          "content": [
+          "groupe": [
             {
               "idFilm": 35628,
-              "ordre": 1,
-              "titre": "Vive le sport !",
-              "titreVo": "Freshman",
-              "artVo": "The",
-              "realisateurs": "Sam Taylor, Fred Newmeyer",
-              "pays": "États-Unis",
-              "annee": 1925,
-              "duree": 76,
-              "version": "INT. FR.",
-              "format": "DCP",
-              "ageMinimal": 6,
-              "generique": [
-                "Harold Lloyd",
-                "Jobyna Ralston",
-                "Brooks Benedict"
-              ],
-              "miniTexte": "Un joyau du muet qui met en scène les déconvenues d'Harold, prêt à tout pour épater ses camarades d'université. Tout le génie burlesque et le charme discret de Lloyd dans la séquence sportive la plus célèbre des années 1920, au suspense désopilant."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 35628,
+                  "ordre": 1,
+                  "titre": "Vive le sport !",
+                  "titreVo": "Freshman",
+                  "artVo": "The",
+                  "realisateurs": "Sam Taylor, Fred Newmeyer",
+                  "pays": "États-Unis",
+                  "annee": 1925,
+                  "duree": 76,
+                  "version": "INT. FR.",
+                  "format": "DCP",
+                  "ageMinimal": 6,
+                  "generique": [
+                    "Harold Lloyd",
+                    "Jobyna Ralston",
+                    "Brooks Benedict"
+                  ],
+                  "miniTexte": "Un joyau du muet qui met en scène les déconvenues d'Harold, prêt à tout pour épater ses camarades d'université. Tout le génie burlesque et le charme discret de Lloyd dans la séquence sportive la plus célèbre des années 1920, au suspense désopilant."
+                }
+              ]
+            },
             {
-              "idSeance": 207051,
-              "dateHeure": "2026-04-20T17:00:00",
-              "idSalle": "GF"
+              "idEvenement": 35626,
+              "content": [
+                {
+                  "idConf": 35626,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Mathilde Grasset",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 207051,
+                  "dateHeure": "2026-04-20T17:00:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 208486,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-04-25T15:00:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Vive le sport !",
+        "mention": "avec Mathilde Grasset",
+        "dateHeure": "2026-04-25T15:00:00"
+      }
+    ]
+  }
 }

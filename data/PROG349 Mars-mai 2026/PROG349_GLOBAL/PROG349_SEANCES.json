@@ -90,7 +90,10 @@
         "titre": "De l'aube à minuit",
         "realisateurs": "Karl Heinz Martin",
         "annee": 1920,
-        "duree": 65
+        "duree": 65,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f40722"
@@ -120,6 +123,28 @@
       }
     ],
     "hashEvenement": "f41117"
+  },
+  {
+    "idSeance": 208487,
+    "idEvenement": 35582,
+    "dateHeure": "2026-03-20T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le cinéma italien des années de plomb",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35582,
+        "titre": "conférence",
+        "sousTitre": "Conférence ",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c35582"
   },
   {
     "idSeance": 208347,
@@ -222,6 +247,27 @@
     "hashEvenement": "f155583"
   },
   {
+    "idSeance": 208488,
+    "idEvenement": 35583,
+    "dateHeure": "2026-03-21T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le cinéma italien des années de plomb",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35583,
+        "titre": "Dialogue",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c35583"
+  },
+  {
     "idSeance": 208344,
     "idEvenement": 35377,
     "dateHeure": "2026-03-21T18:00:00",
@@ -290,8 +336,9 @@
         "realisateurs": "Karl Grune",
         "annee": 1923,
         "duree": 90,
-        "version": "INT. ALL.",
-        "format": "DCP"
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f39820"
@@ -413,8 +460,9 @@
         "realisateurs": "Henrik Galeen",
         "annee": 1927,
         "duree": 110,
-        "version": "INT. ALL.",
-        "format": "35 mm"
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f38624"
@@ -639,8 +687,8 @@
     "hashEvenement": "f44848"
   },
   {
-    "idSeance": 208437,
-    "idEvenement": 35358,
+    "idSeance": 208493,
+    "idEvenement": 35628,
     "dateHeure": "2026-03-27T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -651,16 +699,16 @@
     ],
     "items": [
       {
-        "idFilm": 40636,
-        "titre": "Cabinet des figures de cire",
-        "art": "Le",
-        "realisateurs": "Paul Leni",
-        "annee": 1924,
-        "version": "INT. FR.",
-        "format": "35 mm"
+        "idFilm": 67011,
+        "titre": "Opium – Die Sensation der Nerven",
+        "realisateurs": "Robert Reinert",
+        "annee": 1918,
+        "version": "STF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f40636"
+    "hashEvenement": "f67011"
   },
   {
     "idSeance": 208408,
@@ -697,6 +745,10 @@
         "Les films"
       ],
       [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
+      ],
+      [
         "Le cinéma italien des années de plomb",
         "Les films"
       ]
@@ -711,13 +763,19 @@
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
+      },
+      {
+        "idConf": 35594,
+        "titre": "Dialogue avec Murielle Joudet",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f41887"
+    "hashEvenement": "f41887c35594"
   },
   {
-    "idSeance": 208438,
-    "idEvenement": 35363,
+    "idSeance": 208494,
+    "idEvenement": 35629,
     "dateHeure": "2026-03-27T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -728,17 +786,17 @@
     ],
     "items": [
       {
-        "idFilm": 38624,
-        "titre": "Étudiant de Prague",
-        "art": "L'",
-        "realisateurs": "Henrik Galeen",
-        "annee": 1927,
+        "idFilm": 111776,
+        "titre": "Nerven",
+        "realisateurs": "Robert Reinert",
+        "annee": 1919,
         "duree": 110,
-        "version": "INT. ALL.",
-        "format": "35 mm"
+        "version": "STF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f38624"
+    "hashEvenement": "f111776"
   },
   {
     "idSeance": 206499,
@@ -782,7 +840,7 @@
         "realisateurs": "Fritz Lang",
         "annee": 1924,
         "duree": 130,
-        "version": "INT. ALL.",
+        "version": "INT. FR.",
         "format": "DCP"
       }
     ],
@@ -797,6 +855,10 @@
       [
         "Ildikó Enyedi",
         "Les films"
+      ],
+      [
+        "Ildikó Enyedi",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -809,9 +871,15 @@
         "version": "VO",
         "format": "DCP",
         "restauration": true
+      },
+      {
+        "idConf": 35578,
+        "titre": "Leçon de cinéma",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f58849"
+    "hashEvenement": "f58849c35578"
   },
   {
     "idSeance": 206532,
@@ -898,6 +966,10 @@
       [
         "Le cinéma italien des années de plomb",
         "Les films"
+      ],
+      [
+        "Le cinéma italien des années de plomb",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -908,9 +980,15 @@
         "annee": 1969,
         "duree": 100,
         "format": "DCP"
+      },
+      {
+        "idConf": 35584,
+        "titre": "Dialogue après Vent d'est",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f48872"
+    "hashEvenement": "f48872c35584"
   },
   {
     "idSeance": 206552,
@@ -1110,6 +1188,7 @@
         "art": "Le",
         "realisateurs": "Arthur Robison",
         "annee": 1923,
+        "duree": 89,
         "version": "INT. FR.",
         "format": "DCP",
         "restauration": true
@@ -1142,8 +1221,8 @@
     "hashEvenement": "f42444"
   },
   {
-    "idSeance": 208463,
-    "idEvenement": 35358,
+    "idSeance": 208491,
+    "idEvenement": 35631,
     "dateHeure": "2026-04-01T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -1154,16 +1233,16 @@
     ],
     "items": [
       {
-        "idFilm": 40636,
-        "titre": "Cabinet des figures de cire",
-        "art": "Le",
-        "realisateurs": "Paul Leni",
-        "annee": 1924,
-        "version": "INT. FR.",
-        "format": "35 mm"
+        "idFilm": 41144,
+        "titre": "Raskolnikov",
+        "realisateurs": "Robert Wiene",
+        "annee": 1922,
+        "version": "STF",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f40636"
+    "hashEvenement": "f41144"
   },
   {
     "idSeance": 208470,
@@ -1190,8 +1269,8 @@
     "hashEvenement": "f45957"
   },
   {
-    "idSeance": 208419,
-    "idEvenement": 35349,
+    "idSeance": 208492,
+    "idEvenement": 35627,
     "dateHeure": "2026-04-02T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -1202,14 +1281,16 @@
     ],
     "items": [
       {
-        "idFilm": 40722,
-        "titre": "De l'aube à minuit",
-        "realisateurs": "Karl Heinz Martin",
+        "idFilm": 54108,
+        "titre": "Genuine",
+        "realisateurs": "Robert Wiene",
         "annee": 1920,
-        "duree": 65
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f40722"
+    "hashEvenement": "f54108"
   },
   {
     "idSeance": 208420,
@@ -1229,7 +1310,10 @@
         "art": "Les",
         "realisateurs": "Robert Wiene",
         "annee": 1924,
-        "duree": 99
+        "duree": 99,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
       }
     ],
     "hashEvenement": "f41131"
@@ -1474,7 +1558,7 @@
         "realisateurs": "Fritz Lang",
         "annee": 1924,
         "duree": 130,
-        "version": "INT. ALL.",
+        "version": "INT. FR.",
         "format": "DCP"
       }
     ],
@@ -1704,35 +1788,10 @@
     "hashEvenement": "f55699"
   },
   {
-    "idSeance": 208479,
-    "idEvenement": 35331,
-    "dateHeure": "2026-04-09T18:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le cinéma italien des années de plomb",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 55496,
-        "titre": "Dossiers rouges de la Mondaine",
-        "art": "Les",
-        "realisateurs": "Luciano Ercoli",
-        "annee": 1975,
-        "duree": 97,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f55496"
-  },
-  {
     "idSeance": 208434,
     "idEvenement": 35532,
-    "dateHeure": "2026-04-09T21:00:00",
-    "salle": "GF",
+    "dateHeure": "2026-04-09T18:30:00",
+    "salle": "HL",
     "cycle": [
       [
         "Le cinéma italien des années de plomb",
@@ -1752,6 +1811,53 @@
       }
     ],
     "hashEvenement": "f55183"
+  },
+  {
+    "idSeance": 208495,
+    "idEvenement": 35587,
+    "dateHeure": "2026-04-09T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marilyn Monroe",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35587,
+        "titre": "conférence de Marguerite Chabrol",
+        "sousTitre": "Conférence ",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c35587"
+  },
+  {
+    "idSeance": 208479,
+    "idEvenement": 35331,
+    "dateHeure": "2026-04-09T21:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le cinéma italien des années de plomb",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 55496,
+        "titre": "Dossiers rouges de la Mondaine",
+        "art": "Les",
+        "realisateurs": "Luciano Ercoli",
+        "annee": 1975,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f55496"
   },
   {
     "idSeance": 208396,
@@ -1776,6 +1882,28 @@
       }
     ],
     "hashEvenement": "f45436"
+  },
+  {
+    "idSeance": 208497,
+    "idEvenement": 35632,
+    "dateHeure": "2026-04-10T17:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35632,
+        "titre": "Effets spéciaux",
+        "sousTitre": "Conférence ",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c35632"
   },
   {
     "idSeance": 208415,
@@ -1922,6 +2050,27 @@
       }
     ],
     "hashEvenement": "f42704"
+  },
+  {
+    "idSeance": 208496,
+    "idEvenement": 35586,
+    "dateHeure": "2026-04-11T17:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Marilyn Monroe",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35586,
+        "titre": "Table ronde",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c35586"
   },
   {
     "idSeance": 206862,
@@ -2289,8 +2438,7 @@
     "items": [
       {
         "idFilm": 139798,
-        "titre": "Trois (Mes)aventures d'Harold Lloyd",
-        "art": "Les",
+        "titre": "3 (més)aventures d'Harold Lloyd",
         "realisateurs": "Hal Roach, Fred C. Newmeyer, Sam Taylor",
         "annee": 1920,
         "duree": 48,
@@ -2405,6 +2553,10 @@
       [
         "Marilyn Monroe",
         "Les films"
+      ],
+      [
+        "Marilyn Monroe",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2417,9 +2569,15 @@
         "duree": 124,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 35585,
+        "titre": "Dialogue",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f33440"
+    "hashEvenement": "f33440c35585"
   },
   {
     "idSeance": 207039,
@@ -2647,6 +2805,10 @@
         "Les films"
       ],
       [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
+      ],
+      [
         "Marilyn Monroe",
         "Les films"
       ]
@@ -2660,9 +2822,15 @@
         "duree": 105,
         "version": "VOSTF",
         "format": "DCP"
+      },
+      {
+        "idConf": 35595,
+        "titre": "Dialogue avec Murielle Joudet",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f36906"
+    "hashEvenement": "f36906c35595"
   },
   {
     "idSeance": 208445,
@@ -2689,28 +2857,38 @@
     "hashEvenement": "f38047"
   },
   {
-    "idSeance": 207187,
-    "idEvenement": 35433,
+    "idSeance": 208486,
+    "idEvenement": 35436,
     "dateHeure": "2026-04-25T15:00:00",
     "salle": "GF",
     "cycle": [
       [
         "Harold Lloyd",
         "Les films"
+      ],
+      [
+        "Harold Lloyd",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
       {
-        "idFilm": 30962,
-        "titre": "À la hauteur",
-        "realisateurs": "Clyde Bruckman",
-        "annee": 1930,
-        "duree": 93,
-        "version": "VO",
-        "format": "35 mm"
+        "idFilm": 35628,
+        "titre": "Vive le sport !",
+        "realisateurs": "Sam Taylor, Fred Newmeyer",
+        "annee": 1925,
+        "duree": 76,
+        "version": "INT. FR.",
+        "format": "DCP"
+      },
+      {
+        "idConf": 35626,
+        "titre": "Dialogue avec Mathilde Grasset",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f30962"
+    "hashEvenement": "f35628c35626"
   },
   {
     "idSeance": 208397,
@@ -2721,6 +2899,10 @@
       [
         "Robert Altman",
         "Les films"
+      ],
+      [
+        "Robert Altman",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2732,22 +2914,7 @@
         "duree": 120,
         "version": "VOSTF",
         "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f30210"
-  },
-  {
-    "idSeance": 208460,
-    "idEvenement": 35588,
-    "dateHeure": "2026-04-26T17:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Robert Altman",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
+      },
       {
         "idConf": 35588,
         "titre": "dialogue avec Jean-Baptiste Thoret",
@@ -2755,7 +2922,7 @@
         "duree": 60
       }
     ],
-    "hashEvenement": "c35588"
+    "hashEvenement": "f30210c35588"
   },
   {
     "idSeance": 208423,
@@ -2797,6 +2964,10 @@
       [
         "Jean-François Stévenin",
         "Les films"
+      ],
+      [
+        "Jean-François Stévenin",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -2808,9 +2979,15 @@
         "duree": 90,
         "format": "DCP",
         "restauration": true
+      },
+      {
+        "idConf": 35579,
+        "titre": "Dialogue",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f51337"
+    "hashEvenement": "f51337c35579"
   },
   {
     "idSeance": 208425,
@@ -2864,6 +3041,27 @@
     "hashEvenement": "f58206"
   },
   {
+    "idSeance": 208502,
+    "idEvenement": 35577,
+    "dateHeure": "2026-05-09T16:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Greta Garbo",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35577,
+        "titre": "Dialogue avec René de Ceccatty",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c35577"
+  },
+  {
     "idSeance": 208417,
     "idEvenement": 35398,
     "dateHeure": "2026-05-13T19:00:00",
@@ -2872,6 +3070,10 @@
       [
         "Ciné-club de Murielle Joudet",
         "Les films"
+      ],
+      [
+        "Ciné-club de Murielle Joudet",
+        "Rencontres et conférences"
       ],
       [
         "Greta Garbo",
@@ -2888,8 +3090,36 @@
         "duree": 98,
         "version": "VOSTF",
         "format": "35 mm"
+      },
+      {
+        "idConf": 35593,
+        "titre": "Dialogue avec Murielle Joudet (avec la participation de Jean-François Rauger)",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f33704"
+    "hashEvenement": "f33704c35593"
+  },
+  {
+    "idSeance": 208505,
+    "idEvenement": 35633,
+    "dateHeure": "2026-05-22T09:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Conservatoire des techniques cinématographiques",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35633,
+        "titre": "JE – Photo",
+        "sousTitre": "Conférence ",
+        "typeConference": "Conférence",
+        "duree": 400
+      }
+    ],
+    "hashEvenement": "c35633"
   }
 ]

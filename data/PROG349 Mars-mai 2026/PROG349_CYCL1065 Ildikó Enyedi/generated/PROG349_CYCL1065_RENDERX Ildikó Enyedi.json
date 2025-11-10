@@ -61,33 +61,49 @@
           ]
         },
         {
-          "idFilm": 58849,
-          "content": [
+          "groupe": [
             {
               "idFilm": 58849,
-              "ordre": 1,
-              "titre": "Mon XXe siècle",
-              "titreVo": "Én XX. századom",
-              "artVo": "Az",
-              "realisateurs": "Ildikó Enyedi",
-              "pays": "Hongrie-Allemagne-Cuba",
-              "annee": 1990,
-              "duree": 99,
-              "version": "VO",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Oleg Yankovskiy",
-                "Dorota Segda",
-                "Paulus Manker"
+              "content": [
+                {
+                  "idFilm": 58849,
+                  "ordre": 1,
+                  "titre": "Mon XXe siècle",
+                  "titreVo": "Én XX. századom",
+                  "artVo": "Az",
+                  "realisateurs": "Ildikó Enyedi",
+                  "pays": "Hongrie-Allemagne-Cuba",
+                  "annee": 1990,
+                  "duree": 99,
+                  "version": "VO",
+                  "format": "DCP",
+                  "restauration": true,
+                  "generique": [
+                    "Oleg Yankovskiy",
+                    "Dorota Segda",
+                    "Paulus Manker"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 208411,
-              "dateHeure": "2026-03-28T15:00:00",
-              "idSalle": "GF"
+              "idEvenement": 35578,
+              "content": [
+                {
+                  "idConf": 35578,
+                  "ordre": 2,
+                  "titre": "Leçon de cinéma",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208411,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-03-28T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -257,6 +273,13 @@
       {
         "dateHeure": "2026-03-25T20:00:00",
         "titreFilms": "Silent Friend"
+      }
+    ],
+    "Dialogue": [
+      {
+        "titreFilms": "Mon XXe siècle",
+        "mention": "Leçon de cinéma",
+        "dateHeure": "2026-03-28T15:00:00"
       }
     ]
   }

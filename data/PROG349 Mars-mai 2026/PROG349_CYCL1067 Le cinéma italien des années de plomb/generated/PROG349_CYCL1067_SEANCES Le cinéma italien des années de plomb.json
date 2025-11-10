@@ -25,6 +25,21 @@
     "mention": "Ouverture de la rétrospective"
   },
   {
+    "idCategorie": 4077,
+    "typeEvenement": 14,
+    "idEvenement": 35582,
+    "idSeance": 208487,
+    "dateHeure": "2026-03-20T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 90,
+    "items": [
+      {}
+    ]
+  },
+  {
     "idCategorie": 4052,
     "typeEvenement": 13,
     "idEvenement": 35307,
@@ -69,6 +84,21 @@
         "version": "VO",
         "format": ""
       }
+    ]
+  },
+  {
+    "idCategorie": 4077,
+    "typeEvenement": 14,
+    "idEvenement": 35583,
+    "idSeance": 208488,
+    "dateHeure": "2026-03-21T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "items": [
+      {}
     ]
   },
   {
@@ -266,6 +296,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 41887,
@@ -290,6 +321,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 48872,
@@ -299,6 +331,24 @@
         "duree": 100,
         "version": "",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4077,
+    "typeEvenement": 14,
+    "idEvenement": 35584,
+    "idSeance": 206535,
+    "dateHeure": "2026-03-29T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 60,
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
       }
     ]
   },
@@ -703,35 +753,12 @@
   {
     "idCategorie": 4052,
     "typeEvenement": 13,
-    "idEvenement": 35331,
-    "idSeance": 208479,
+    "idEvenement": 35532,
+    "idSeance": 208434,
     "dateHeure": "2026-04-09T18:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 55496,
-        "ordre": 1,
-        "idSeance": 208479,
-        "idCopie": 31073,
-        "duree": 97,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4052,
-    "typeEvenement": 13,
-    "idEvenement": 35532,
-    "idSeance": 208434,
-    "dateHeure": "2026-04-09T21:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
     ],
     "dureeSeance": 135,
     "items": [
@@ -743,6 +770,29 @@
         "duree": 98,
         "version": "VOSTF",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4052,
+    "typeEvenement": 13,
+    "idEvenement": 35331,
+    "idSeance": 208479,
+    "dateHeure": "2026-04-09T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 55496,
+        "ordre": 1,
+        "idSeance": 208479,
+        "idCopie": 31073,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ]
   },

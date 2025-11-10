@@ -10,31 +10,47 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 51337,
-          "content": [
+          "groupe": [
             {
               "idFilm": 51337,
-              "ordre": 1,
-              "titre": "Double messieurs",
-              "realisateurs": "Jean-François Stévenin",
-              "pays": "France",
-              "annee": 1984,
-              "duree": 90,
-              "version": "",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Carole Bouquet",
-                "Yves Afonso",
-                "Jean-François Stévenin"
+              "content": [
+                {
+                  "idFilm": 51337,
+                  "ordre": 1,
+                  "titre": "Double messieurs",
+                  "realisateurs": "Jean-François Stévenin",
+                  "pays": "France",
+                  "annee": 1984,
+                  "duree": 90,
+                  "version": "",
+                  "format": "DCP",
+                  "restauration": true,
+                  "generique": [
+                    "Carole Bouquet",
+                    "Yves Afonso",
+                    "Jean-François Stévenin"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 208424,
-              "dateHeure": "2026-05-02T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 35579,
+              "content": [
+                {
+                  "idConf": 35579,
+                  "ordre": 2,
+                  "titre": "Film + dialogue",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208424,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-05-02T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -81,5 +97,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "Double messieurs",
+        "mention": "Film + dialogue",
+        "dateHeure": "2026-05-02T14:30:00"
+      }
+    ]
+  }
 }

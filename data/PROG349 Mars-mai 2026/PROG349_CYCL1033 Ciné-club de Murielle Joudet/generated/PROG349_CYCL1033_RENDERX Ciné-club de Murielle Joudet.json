@@ -6,106 +6,174 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 41887,
-          "content": [
+          "groupe": [
             {
               "idFilm": 41887,
-              "ordre": 1,
-              "titre": "Dillinger est mort",
-              "titreVo": "Dillinger è morto",
-              "realisateurs": "Marco Ferreri",
-              "pays": "Italie",
-              "annee": 1968,
-              "duree": 95,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Michel Piccoli",
-                "Anita Pallenberg",
-                "Annie Girardot"
-              ],
-              "miniTexte": "_Dillinger_ marque l'arrivée de Michel Piccoli dans le sérail de Ferreri. À travers l'histoire quasi muette d'un industriel qui semble imploser en une nuit blanche, l'auteur italien réinvente son époque aliénée par la consommation et dynamite le cinéma, hanté, électrifié, par le contexte de luttes en Italie. Et tout devient un symptôme de cette fin des années 60 : l'incommunicabilité entre les êtres, l'absurde de la vie moderne."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208429,
-              "dateHeure": "2026-03-27T19:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 36906,
-          "content": [
-            {
-              "idFilm": 36906,
-              "ordre": 1,
-              "titre": "Sept ans de réflexion",
-              "titreVo": "Seven Year Itch",
-              "artVo": "The",
-              "realisateurs": "Billy Wilder",
-              "pays": "États-Unis",
-              "annee": 1955,
-              "duree": 105,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après la pièce _The Seven Year Itch_ de George Axelrod.",
-              "generique": [
-                "Marilyn Monroe",
-                "Tom Ewell",
-                "Evelyn Keyes"
-              ],
-              "isFocus": true,
-              "miniTexte": "Adapté de la pièce de George Axelrod, _Sept ans de réflexion_ transforme l'adultère en pur fantasme et repose sur les obsessions d'un Richard Sherman dépassé par son imagination. Billy Wilder use du CinemaScope pour dynamiser dialogues et trucages, où le rêve chasse sans cesse la réalité. S'il reniera ce film amputé par la censure, le public en fit un triomphe. La scène de Marilyn Monroe, robe soulevée par le courant d'air d'une bouche de métro, est depuis entrée au panthéon des images les plus célèbres de Hollywood."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 207112,
-              "dateHeure": "2026-04-23T19:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idFilm": 33704,
-          "content": [
-            {
-              "idFilm": 33704,
-              "ordre": 1,
-              "titre": "Reine Christine",
-              "art": "La",
-              "titreVo": "Queen Christina",
-              "realisateurs": "Rouben Mamoulian",
-              "pays": "États-Unis",
-              "annee": 1933,
-              "duree": 98,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Greta Garbo",
-                "John Gilbert",
-                "Ian Keith"
+              "content": [
+                {
+                  "idFilm": 41887,
+                  "ordre": 1,
+                  "titre": "Dillinger est mort",
+                  "titreVo": "Dillinger è morto",
+                  "realisateurs": "Marco Ferreri",
+                  "pays": "Italie",
+                  "annee": 1968,
+                  "duree": 95,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "restauration": true,
+                  "generique": [
+                    "Michel Piccoli",
+                    "Anita Pallenberg",
+                    "Annie Girardot"
+                  ],
+                  "miniTexte": "_Dillinger_ marque l'arrivée de Michel Piccoli dans le sérail de Ferreri. À travers l'histoire quasi muette d'un industriel qui semble imploser en une nuit blanche, l'auteur italien réinvente son époque aliénée par la consommation et dynamite le cinéma, hanté, électrifié, par le contexte de luttes en Italie. Et tout devient un symptôme de cette fin des années 60 : l'incommunicabilité entre les êtres, l'absurde de la vie moderne."
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208425,
-              "dateHeure": "2026-05-06T20:00:00",
-              "idSalle": "HL"
             },
             {
-              "idSeance": 208417,
-              "dateHeure": "2026-05-13T19:00:00",
-              "idSalle": "HL"
+              "idEvenement": 35594,
+              "content": [
+                {
+                  "idConf": 35594,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208429,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-03-27T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 36906,
+              "content": [
+                {
+                  "idFilm": 36906,
+                  "ordre": 1,
+                  "titre": "Sept ans de réflexion",
+                  "titreVo": "Seven Year Itch",
+                  "artVo": "The",
+                  "realisateurs": "Billy Wilder",
+                  "pays": "États-Unis",
+                  "annee": 1955,
+                  "duree": 105,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après la pièce _The Seven Year Itch_ de George Axelrod.",
+                  "generique": [
+                    "Marilyn Monroe",
+                    "Tom Ewell",
+                    "Evelyn Keyes"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Adapté de la pièce de George Axelrod, _Sept ans de réflexion_ transforme l'adultère en pur fantasme et repose sur les obsessions d'un Richard Sherman dépassé par son imagination. Billy Wilder use du CinemaScope pour dynamiser dialogues et trucages, où le rêve chasse sans cesse la réalité. S'il reniera ce film amputé par la censure, le public en fit un triomphe. La scène de Marilyn Monroe, robe soulevée par le courant d'air d'une bouche de métro, est depuis entrée au panthéon des images les plus célèbres de Hollywood."
+                }
+              ]
+            },
+            {
+              "idEvenement": 35595,
+              "content": [
+                {
+                  "idConf": 35595,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 207112,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-04-23T19:00:00",
+                  "idSalle": "HL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupe": [
+            {
+              "idFilm": 33704,
+              "content": [
+                {
+                  "idFilm": 33704,
+                  "ordre": 1,
+                  "titre": "Reine Christine",
+                  "art": "La",
+                  "titreVo": "Queen Christina",
+                  "realisateurs": "Rouben Mamoulian",
+                  "pays": "États-Unis",
+                  "annee": 1933,
+                  "duree": 98,
+                  "version": "VOSTF",
+                  "format": "35 mm",
+                  "generique": [
+                    "Greta Garbo",
+                    "John Gilbert",
+                    "Ian Keith"
+                  ]
+                }
+              ]
+            },
+            {
+              "idEvenement": 35593,
+              "content": [
+                {
+                  "idConf": 35593,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Murielle Joudet (avec la participation de Jean-François Rauger)",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208425,
+                  "dateHeure": "2026-05-06T20:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 208417,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-05-13T19:00:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                }
+              ]
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogues": [
+      {
+        "titreFilms": "Dillinger est mort",
+        "mention": "avec Murielle Joudet",
+        "dateHeure": "2026-03-27T19:00:00"
+      },
+      {
+        "titreFilms": "Sept ans de réflexion",
+        "mention": "avec Murielle Joudet",
+        "dateHeure": "2026-04-23T19:00:00"
+      },
+      {
+        "titreFilms": "La Reine Christine",
+        "mention": "avec Murielle Joudet (avec la participation de Jean-François Rauger)",
+        "dateHeure": "2026-05-13T19:00:00"
+      }
+    ]
+  }
 }
