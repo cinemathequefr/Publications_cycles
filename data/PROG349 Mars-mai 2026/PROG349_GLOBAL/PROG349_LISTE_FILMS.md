@@ -11,9 +11,10 @@
   * Beast of the Yellow Night  
   * Beyond Atlantis
 
-## Harold Lloyd (9)
+## Harold Lloyd (10)
 
   * 3 (més)aventures d'Harold Lloyd  
+  * À la hauteur  
   * Ça te la coupe  
   * En vitesse  
   * Marathon (The)  
@@ -73,7 +74,6 @@
 
 ## Le cinéma italien des années de plomb (37)
 
-  * Adorable Corps de Deborah (L')  
   * Allonsanfàn  
   * Autre côté de la violence (L')  
   * Bandits à Milan  
@@ -92,6 +92,7 @@
   * Milan calibre 9  
   * Mort a pondu un œuf (La)  
   * Nous voulons les colonels  
+  * Oiseau au plumage de cristal (L')  
   * Polices parallèles en action  
   * Rançon de la peur (La)  
   * Rapt à l'italienne  
@@ -113,9 +114,9 @@
 
 ## Le film de tueurs en série, 25 indispensables (1)
 
-  * M
+  * undefined
 
-## Marilyn Monroe (20)
+## Marilyn Monroe (21)
 
   * Bus Stop  
   * Certains l'aiment chaud  
@@ -124,6 +125,7 @@
   * Comment épouser un millionnaire  
   * Démon s'éveille la nuit (Le)  
   * Désaxés (Les)  
+  * Ève  
   * Home Town Story  
   * Hommes préfèrent les blondes (Les)  
   * Joyeuse Parade (La)  

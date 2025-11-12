@@ -33,6 +33,34 @@
           ]
         },
         {
+          "idFilm": 30962,
+          "content": [
+            {
+              "idFilm": 30962,
+              "ordre": 1,
+              "titre": "À la hauteur",
+              "titreVo": "Feet First",
+              "realisateurs": "Clyde Bruckman",
+              "pays": "États-Unis",
+              "annee": 1930,
+              "duree": 93,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "Harold Lloyd",
+                "Barbara Kent"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208506,
+              "dateHeure": "2026-04-20T16:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 35794,
           "content": [
             {
@@ -117,7 +145,7 @@
           "seances": [
             {
               "idSeance": 208441,
-              "dateHeure": "2026-04-16T16:15:00",
+              "dateHeure": "2026-04-16T16:45:00",
               "idSalle": "GF"
             }
           ]
@@ -243,17 +271,10 @@
               ],
               "seances": [
                 {
-                  "idSeance": 207051,
-                  "dateHeure": "2026-04-20T17:00:00",
-                  "idSalle": "GF",
-                  "mentionAssoc": "Film seul"
-                },
-                {
                   "idSeance": 208486,
                   "typeAssoc": 118,
                   "dateHeure": "2026-04-25T15:00:00",
-                  "idSalle": "GF",
-                  "mentionAssoc": "Film + dialogue"
+                  "idSalle": "GF"
                 }
               ]
             }

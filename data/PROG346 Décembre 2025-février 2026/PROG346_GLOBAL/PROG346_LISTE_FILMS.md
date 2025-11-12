@@ -42,7 +42,7 @@
   * Herbes folles (Les)  
   * Impératrice (L')
 
-## Aujourd'hui le cinéma (25)
+## Aujourd'hui le cinéma (26)
 
   * +10K  
   * Bel companho  
@@ -56,6 +56,7 @@
   * Golfes se creusent (Les)  
   * Hypernuit  
   * J'ai tué votre chat  
+  * Je ne suis pas morte  
   * Je, tu, il, elle  
   * Jeune Fille qui pleurait des perles (La)  
   * Ligne de vie (La)  
@@ -276,7 +277,7 @@
   * Théâtre de guerre  
   * Vesuviani: La Salita (I)
 
-## Maurice Tourneur (45)
+## Maurice Tourneur (44)
 
   * A Girl's Folly  
   * Accusée, levez-vous !  
@@ -296,7 +297,6 @@
   * Fille de pirates  
   * Foolish Matrons (The)  
   * Friquet (Le)  
-  * Gaîtés de l'escadron (Les)  
   * Impasse des Deux-Anges  
   * Jimmy le mystérieux  
   * Justin de Marseille  

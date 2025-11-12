@@ -99,8 +99,8 @@
     "hashEvenement": "f40722"
   },
   {
-    "idSeance": 206332,
-    "idEvenement": 35348,
+    "idSeance": 208528,
+    "idEvenement": 35350,
     "dateHeure": "2026-03-20T18:30:00",
     "salle": "HL",
     "cycle": [
@@ -111,18 +111,18 @@
     ],
     "items": [
       {
-        "idFilm": 41117,
-        "titre": "Cabinet du docteur Caligari",
-        "art": "Le",
-        "realisateurs": "Robert Wiene",
-        "annee": 1920,
-        "duree": 78,
+        "idFilm": 44848,
+        "titre": "Trois lumières",
+        "art": "Les",
+        "realisateurs": "Fritz Lang",
+        "annee": 1921,
+        "duree": 98,
         "version": "INT. FR.",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f41117"
+    "hashEvenement": "f44848"
   },
   {
     "idSeance": 208487,
@@ -468,8 +468,8 @@
     "hashEvenement": "f38624"
   },
   {
-    "idSeance": 206401,
-    "idEvenement": 35294,
+    "idSeance": 208508,
+    "idEvenement": 35310,
     "dateHeure": "2026-03-23T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -480,16 +480,17 @@
     ],
     "items": [
       {
-        "idFilm": 43177,
-        "titre": "Enquête sur un citoyen au-dessus de tout soupçon",
-        "realisateurs": "Elio Petri",
-        "annee": 1970,
-        "duree": 115,
+        "idFilm": 58734,
+        "titre": "Big Guns",
+        "realisateurs": "Duccio Tessari",
+        "annee": 1973,
+        "duree": 113,
         "version": "VOSTF",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f43177"
+    "hashEvenement": "f58734"
   },
   {
     "idSeance": 208468,
@@ -591,9 +592,31 @@
     "hashEvenement": "f155577"
   },
   {
+    "idSeance": 208475,
+    "idEvenement": 35581,
+    "dateHeure": "2026-03-26T19:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "L'Écran démoniaque",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35581,
+        "titre": "Conférence de Tamara Eble",
+        "sousTitre": "Conférence ",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c35581"
+  },
+  {
     "idSeance": 208413,
     "idEvenement": 35531,
-    "dateHeure": "2026-03-26T18:00:00",
+    "dateHeure": "2026-03-26T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -613,28 +636,6 @@
       }
     ],
     "hashEvenement": "f42513"
-  },
-  {
-    "idSeance": 208475,
-    "idEvenement": 35581,
-    "dateHeure": "2026-03-26T19:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "L'Écran démoniaque",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 35581,
-        "titre": "conférence",
-        "sousTitre": "Conférence ",
-        "typeConference": "Conférence",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c35581"
   },
   {
     "idSeance": 208407,
@@ -661,8 +662,8 @@
     "hashEvenement": "f107900"
   },
   {
-    "idSeance": 208337,
-    "idEvenement": 35350,
+    "idSeance": 208525,
+    "idEvenement": 35348,
     "dateHeure": "2026-03-26T21:30:00",
     "salle": "HL",
     "cycle": [
@@ -673,18 +674,70 @@
     ],
     "items": [
       {
-        "idFilm": 44848,
-        "titre": "Trois lumières",
-        "art": "Les",
-        "realisateurs": "Fritz Lang",
-        "annee": 1921,
-        "duree": 98,
+        "idFilm": 41117,
+        "titre": "Cabinet du docteur Caligari",
+        "art": "Le",
+        "realisateurs": "Robert Wiene",
+        "annee": 1920,
+        "duree": 78,
         "version": "INT. FR.",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f44848"
+    "hashEvenement": "f41117"
+  },
+  {
+    "idSeance": 208526,
+    "idEvenement": 35348,
+    "dateHeure": "2026-03-26T21:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "L'Écran démoniaque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41117,
+        "titre": "Cabinet du docteur Caligari",
+        "art": "Le",
+        "realisateurs": "Robert Wiene",
+        "annee": 1920,
+        "duree": 78,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f41117"
+  },
+  {
+    "idSeance": 208527,
+    "idEvenement": 35348,
+    "dateHeure": "2026-03-26T21:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "L'Écran démoniaque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41117,
+        "titre": "Cabinet du docteur Caligari",
+        "art": "Le",
+        "realisateurs": "Robert Wiene",
+        "annee": 1920,
+        "duree": 78,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f41117"
   },
   {
     "idSeance": 208493,
@@ -766,7 +819,7 @@
       },
       {
         "idConf": 35594,
-        "titre": "Dialogue avec Murielle Joudet",
+        "titre": "Dialogue avec Murielle Joudet (avec la participation de Jean-François Rauger)",
         "typeConference": "Dialogue",
         "duree": 60
       }
@@ -1124,7 +1177,7 @@
   {
     "idSeance": 206564,
     "idEvenement": 35313,
-    "dateHeure": "2026-03-30T20:15:00",
+    "dateHeure": "2026-03-30T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1293,9 +1346,33 @@
     "hashEvenement": "f54108"
   },
   {
+    "idSeance": 208507,
+    "idEvenement": 35294,
+    "dateHeure": "2026-04-02T20:15:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Le cinéma italien des années de plomb",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 43177,
+        "titre": "Enquête sur un citoyen au-dessus de tout soupçon",
+        "realisateurs": "Elio Petri",
+        "annee": 1970,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f43177"
+  },
+  {
     "idSeance": 208420,
     "idEvenement": 35360,
-    "dateHeure": "2026-04-02T20:00:00",
+    "dateHeure": "2026-04-02T20:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1317,31 +1394,6 @@
       }
     ],
     "hashEvenement": "f41131"
-  },
-  {
-    "idSeance": 208471,
-    "idEvenement": 35310,
-    "dateHeure": "2026-04-02T20:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Le cinéma italien des années de plomb",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 58734,
-        "titre": "Big Guns",
-        "realisateurs": "Duccio Tessari",
-        "annee": 1973,
-        "duree": 113,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f58734"
   },
   {
     "idSeance": 208476,
@@ -1417,8 +1469,8 @@
     "hashEvenement": "f40667"
   },
   {
-    "idSeance": 208448,
-    "idEvenement": 35289,
+    "idSeance": 208529,
+    "idEvenement": 35521,
     "dateHeure": "2026-04-03T20:15:00",
     "salle": "GF",
     "cycle": [
@@ -1429,15 +1481,16 @@
     ],
     "items": [
       {
-        "idFilm": 57788,
-        "titre": "Adorable Corps de Deborah",
-        "art": "L'",
-        "realisateurs": "Romolo Guerrieri",
+        "idFilm": 73541,
+        "titre": "Trois pour un massacre",
+        "realisateurs": "Giulio Petroni",
         "annee": 1968,
-        "duree": 90
+        "duree": 136,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f57788"
+    "hashEvenement": "f73541"
   },
   {
     "idSeance": 208379,
@@ -1878,7 +1931,7 @@
         "annee": 1956,
         "duree": 94,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f45436"
@@ -1932,7 +1985,7 @@
   {
     "idSeance": 206823,
     "idEvenement": 35305,
-    "dateHeure": "2026-04-10T18:30:00",
+    "dateHeure": "2026-04-10T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1981,7 +2034,7 @@
   {
     "idSeance": 206824,
     "idEvenement": 35345,
-    "dateHeure": "2026-04-10T20:45:00",
+    "dateHeure": "2026-04-10T21:15:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2073,8 +2126,8 @@
     "hashEvenement": "c35586"
   },
   {
-    "idSeance": 206862,
-    "idEvenement": 35521,
+    "idSeance": 208510,
+    "idEvenement": 35303,
     "dateHeure": "2026-04-11T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -2085,16 +2138,17 @@
     ],
     "items": [
       {
-        "idFilm": 73541,
-        "titre": "Trois pour un massacre",
-        "realisateurs": "Giulio Petroni",
-        "annee": 1968,
-        "duree": 136,
+        "idFilm": 57306,
+        "titre": "Oiseau au plumage de cristal",
+        "art": "L'",
+        "realisateurs": "Dario Argento",
+        "annee": 1969,
+        "duree": 98,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f73541"
+    "hashEvenement": "f57306"
   },
   {
     "idSeance": 208416,
@@ -2123,7 +2177,7 @@
   {
     "idSeance": 206863,
     "idEvenement": 35306,
-    "dateHeure": "2026-04-11T21:00:00",
+    "dateHeure": "2026-04-11T20:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2146,8 +2200,8 @@
     "hashEvenement": "f105763"
   },
   {
-    "idSeance": 206860,
-    "idEvenement": 35268,
+    "idSeance": 208509,
+    "idEvenement": 35253,
     "dateHeure": "2026-04-11T21:00:00",
     "salle": "HL",
     "cycle": [
@@ -2158,16 +2212,16 @@
     ],
     "items": [
       {
-        "idFilm": 36908,
-        "titre": "Certains l'aiment chaud",
-        "realisateurs": "Billy Wilder",
-        "annee": 1959,
-        "duree": 120,
+        "idFilm": 33597,
+        "titre": "Ève",
+        "realisateurs": "Joseph L. Mankiewicz",
+        "annee": 1950,
+        "duree": 138,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f36908"
+    "hashEvenement": "f33597"
   },
   {
     "idSeance": 206874,
@@ -2346,7 +2400,7 @@
   {
     "idSeance": 208441,
     "idEvenement": 35535,
-    "dateHeure": "2026-04-16T16:15:00",
+    "dateHeure": "2026-04-16T16:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2623,15 +2677,15 @@
         "annee": 1950,
         "duree": 112,
         "version": "VOSTF",
-        "format": "35 mm"
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f33417"
   },
   {
-    "idSeance": 207051,
-    "idEvenement": 35436,
-    "dateHeure": "2026-04-20T17:00:00",
+    "idSeance": 208506,
+    "idEvenement": 35433,
+    "dateHeure": "2026-04-20T16:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2641,16 +2695,16 @@
     ],
     "items": [
       {
-        "idFilm": 35628,
-        "titre": "Vive le sport !",
-        "realisateurs": "Sam Taylor, Fred Newmeyer",
-        "annee": 1925,
-        "duree": 76,
-        "version": "INT. FR.",
-        "format": "DCP"
+        "idFilm": 30962,
+        "titre": "À la hauteur",
+        "realisateurs": "Clyde Bruckman",
+        "annee": 1930,
+        "duree": 93,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f35628"
+    "hashEvenement": "f30962"
   },
   {
     "idSeance": 207052,
@@ -3032,10 +3086,7 @@
     "mention": "Ouverture de la rétrospective",
     "items": [
       {
-        "idFilm": 58206,
-        "titre": "M",
-        "realisateurs": "Joseph Losey",
-        "annee": 1951
+        "idFilm": 58206
       }
     ],
     "hashEvenement": "f58206"
@@ -3093,7 +3144,7 @@
       },
       {
         "idConf": 35593,
-        "titre": "Dialogue avec Murielle Joudet (avec la participation de Jean-François Rauger)",
+        "titre": "Dialogue avec Murielle Joudet",
         "typeConference": "Dialogue",
         "duree": 60
       }
