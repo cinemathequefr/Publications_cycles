@@ -74,6 +74,7 @@
 
 ## Le cinéma italien des années de plomb (37)
 
+  * Adorable Corps de Deborah (L')  
   * Allonsanfàn  
   * Autre côté de la violence (L')  
   * Bandits à Milan  
@@ -102,7 +103,6 @@
   * Tarentule au ventre noir (La)  
   * Témoin à abattre (Le)  
   * Todo modo  
-  * Trois pour un massacre  
   * Un bourgeois tout petit, petit  
   * Un citoyen se rebelle  
   * Un juge en danger  
@@ -114,7 +114,7 @@
 
 ## Le film de tueurs en série, 25 indispensables (1)
 
-  * undefined
+  * M
 
 ## Marilyn Monroe (21)
 
