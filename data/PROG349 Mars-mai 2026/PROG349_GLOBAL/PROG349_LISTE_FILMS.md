@@ -6,10 +6,14 @@
   * Reine Christine (La)  
   * Sept ans de réflexion
 
-## Cinéma bis (2)
+## Cinéma bis (6)
 
   * Beast of the Yellow Night  
-  * Beyond Atlantis
+  * Beyond Atlantis  
+  * Juge (Le)  
+  * Liz et Helen  
+  * Maciste en enfer  
+  * Une robe noire pour un tueur
 
 ## Harold Lloyd (10)
 
@@ -140,7 +144,13 @@
   * Roi de la piste (Le)  
   * Troublez-moi ce soir
 
-## Robert Altman (2)
+## Robert Altman (8)
 
+  * Brewster McCloud  
+  * Buffalo Bill et les Indiens  
+  * Flambeurs (Les)  
+  * Images  
   * John McCabe  
+  * M*A*S*H  
+  * Nous sommes tous des voleurs  
   * Privé (Le)  

@@ -294,7 +294,6 @@
   * Éternelle Tentatrice (L')  
   * Figures de cire  
   * Fille d'Écosse  
-  * Fille de pirates  
   * Foolish Matrons (The)  
   * Friquet (Le)  
   * Impasse des Deux-Anges  
@@ -322,7 +321,8 @@
   * Une victoire  
   * Val d'enfer (Le)  
   * Voleur (Le)  
-  * Volpone
+  * Volpone  
+  * Wishing Ring: An Idyll of Old England (The)
 
 ## Márta Mészáros (28)
 

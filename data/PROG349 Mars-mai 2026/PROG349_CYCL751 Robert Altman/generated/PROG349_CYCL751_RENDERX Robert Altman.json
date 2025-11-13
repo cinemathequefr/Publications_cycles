@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-04-22T20:00:00",
-    "2026-04-26T14:30:00"
+    "2026-04-26T19:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,125 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 30187,
+          "content": [
+            {
+              "idFilm": 30187,
+              "ordre": 1,
+              "titre": "Brewster McCloud",
+              "realisateurs": "Robert Altman",
+              "pays": "États-Unis",
+              "annee": 1970,
+              "duree": 105,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Shelley Duvall",
+                "Bud Cort",
+                "Sally Kellerman"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207148,
+              "dateHeure": "2026-04-24T20:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 30220,
+          "content": [
+            {
+              "idFilm": 30220,
+              "ordre": 1,
+              "titre": "Buffalo Bill et les Indiens",
+              "titreVo": "Buffalo Bill and the Indians or Sitting Bull's History Lesson",
+              "realisateurs": "Robert Altman",
+              "pays": "États-Unis",
+              "annee": 1976,
+              "duree": 123,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après la pièce _Indians_ de Arthur Kopit.",
+              "generique": [
+                "Paul Newman",
+                "Joel Grey",
+                "Kevin McCarthy"
+              ],
+              "miniTexte": "Les aventures d'un grand spectacle emmené par Buffalo Bill,. À l'heure de la démystification d'un héros de légende, Altman entremêle réalité et fiction dans une description sarcastique de l'Amérique, où s'affrontent Paul Newman, hâbleur et sanguinaire, et Burt Lancaster. Ours d'or de la Berlinale 1976."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207202,
+              "dateHeure": "2026-04-26T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 30204,
+          "content": [
+            {
+              "idFilm": 30204,
+              "ordre": 1,
+              "titre": "Flambeurs",
+              "art": "Les",
+              "titreVo": "California Split",
+              "realisateurs": "Robert Altman",
+              "pays": "États-Unis",
+              "annee": 1974,
+              "duree": 108,
+              "version": "VO",
+              "format": "DCP",
+              "generique": [
+                "George Segal",
+                "Elliott Gould",
+                "Ann Prentiss"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207186,
+              "dateHeure": "2026-04-25T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 41275,
+          "content": [
+            {
+              "idFilm": 41275,
+              "ordre": 1,
+              "titre": "Images",
+              "realisateurs": "Robert Altman",
+              "pays": "Grande-Bretagne-Irlande-États-Unis",
+              "annee": 1972,
+              "duree": 101,
+              "version": "",
+              "format": "",
+              "adaptation": "D'après le roman _In Search of Unicorns_ de Susannah York.",
+              "generique": [
+                "Susannah York",
+                "René Auberjonois",
+                "Marcel Bozzuffi"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208533,
+              "dateHeure": "2026-04-25T14:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "groupe": [
             {
@@ -53,6 +172,65 @@
                   "idSalle": "HL"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "idFilm": 30206,
+          "content": [
+            {
+              "idFilm": 30206,
+              "ordre": 1,
+              "titre": "M*A*S*H",
+              "realisateurs": "Robert Altman",
+              "pays": "États-Unis",
+              "annee": 1970,
+              "duree": 116,
+              "version": "VOSTF",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Mash: A Novel About Three Army Doctors_ de Richard Hooker.",
+              "generique": [
+                "Donald Sutherland",
+                "Elliott Gould",
+                "Tom Skerritt"
+              ],
+              "miniTexte": "Durant la guerre de Corée, de nouveaux chirurgiens rejoignent un hôpital militaire mobile. Chef-d'œuvre d'insolence, M*A*S*H suit les tribulations amères et cocasses de trois trublions à l'impressionnante puissance comique. Gags ininterrompus, scènes d'opérations au réalisme terrifiant : l'une des rares comédies à avoir remporté la Palme d'or, un tour de force capable d'alterner drôlerie et cruauté."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207147,
+              "dateHeure": "2026-04-24T18:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 30252,
+          "content": [
+            {
+              "idFilm": 30252,
+              "ordre": 1,
+              "titre": "Nous sommes tous des voleurs",
+              "titreVo": "Thieves Like Us",
+              "realisateurs": "Robert Altman",
+              "pays": "États-Unis",
+              "annee": 1974,
+              "duree": 123,
+              "version": "VO",
+              "format": "35 mm",
+              "generique": [
+                "Keith Carradine",
+                "Shelley Duvall",
+                "John Schuck"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207185,
+              "dateHeure": "2026-04-25T17:00:00",
+              "idSalle": "HL"
             }
           ]
         },
