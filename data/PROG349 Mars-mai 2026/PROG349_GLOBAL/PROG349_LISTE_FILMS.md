@@ -67,9 +67,9 @@
   * Nerven  
   * Nibelungen, partie 1 : La Mort de Siegfried (Les)  
   * Nibelungen, partie 2 : La Vengeance de Kriemhild (Les)  
-  * Opium – Die Sensation der Nerven  
+  * Opium: Die Sensation der Nerven  
   * Phantom  
-  * Raskolnikov  
+  * Raskolnikow  
   * Rue (La)  
   * Tartuffe  
   * Tombeau hindou, partie 1 : La Mission du yogi (Le)  
