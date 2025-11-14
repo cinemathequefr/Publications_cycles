@@ -153,12 +153,12 @@
   * Juge et l'Assassin (Le)  
   * Liberté, la nuit  
   * Mariage de Maria Braun (Le)  
+  * Mort de Mario Ricci (La)  
   * Nuits de la pleine lune (Les)  
   * Ombre des châteaux (L')  
   * Peau (La)  
   * Petites Fugues (Les)  
   * Pixote, la loi du plus faible  
-  * Provinciale (La)  
   * Rendez-vous d'Anna (Les)  
   * Rita, Susie et Bob aussi !  
   * Un enfant de Calabre  

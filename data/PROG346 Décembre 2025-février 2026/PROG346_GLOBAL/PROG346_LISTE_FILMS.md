@@ -504,12 +504,13 @@
   * Six destins  
   * Tables séparées
 
-## Séances spéciales (13)
+## Séances spéciales (14)
 
   * Affaire Bojarski (L')  
   * Cercle rouge (Le)  
   * Comtesse noire (La)  
   * Graphyty  
+  * Magellan  
   * Napoléon vu par Abel Gance (partie 1)  
   * Napoléon vu par Abel Gance (partie 2)  
   * Satan bouche un coin  
