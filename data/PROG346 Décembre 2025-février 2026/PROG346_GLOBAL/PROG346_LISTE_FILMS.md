@@ -228,9 +228,8 @@
   * Trésor d'Arne (Le)  
   * Une fille dans chaque port
 
-## Ma petite Cinémathèque (30)
+## Ma petite Cinémathèque (29)
 
-  * Âge de glace (L')  
   * Animal rit  
   * Aventures du prince Ahmed (Les)  
   * Belle au bois dormant (La)  
@@ -490,11 +489,11 @@
   * Cette nuit et toujours  
   * Ceux de Cordura  
   * Colère de Dieu (La)  
+  * Convicted  
   * Dame de Shanghaï (La)  
   * Enfer des tropiques (L')  
   * Étoile des étoiles (L')  
   * Gilda  
-  * Mon amie Sally  
   * Ô toi ma charmante  
   * Piège au grisbi  
   * Plus grand cirque du monde (Le)  
