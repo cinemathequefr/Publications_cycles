@@ -1,8 +1,5 @@
 {
-  "datesCycle": [
-    "2026-04-29T20:00:00",
-    "2026-05-02T14:30:00"
-  ],
+  "datesCycle": ["2026-04-29T20:00:00", "2026-05-10T16:30:00"],
   "textePresentation": "",
   "sousCycles": [
     {
@@ -90,6 +87,31 @@
             {
               "idSeance": 208423,
               "dateHeure": "2026-04-29T20:00:00",
+              "idSalle": "HL",
+              "mention": "Séance présentée par Pierre Stévenin, Salomé Stévenin et Yann Dedet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 35652,
+          "content": [
+            {
+              "idConf": 35652,
+              "titre": "Mishka + Dialogue",
+              "sousTitre": "Conférence ",
+              "typeConference": "Conférence"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208543,
+              "dateHeure": "2026-05-10T16:30:00",
               "idSalle": "HL"
             }
           ]
@@ -98,11 +120,25 @@
     }
   ],
   "syntheseAction": {
+    "Conférence": [
+      {
+        "titre": "Mishka + Dialogue",
+        "mention": "Conférence ",
+        "dateHeure": "2026-05-10T16:30:00"
+      }
+    ],
     "Dialogue": [
       {
         "titreFilms": "Double messieurs",
         "mention": "Film + dialogue",
         "dateHeure": "2026-05-02T14:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "JFS Forever / Passe montagne",
+        "mention": "par Pierre Stévenin, Salomé Stévenin et Yann Dedet",
+        "dateHeure": "2026-04-29T20:00:00"
       }
     ]
   }
