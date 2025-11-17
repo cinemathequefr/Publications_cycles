@@ -15,6 +15,10 @@
   * Maciste en enfer  
   * Une robe noire pour un tueur
 
+## Greta Garbo (1)
+
+  * Reine Christine (La)
+
 ## Harold Lloyd (10)
 
   * 3 (més)aventures d'Harold Lloyd  
