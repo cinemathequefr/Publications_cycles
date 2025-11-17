@@ -198,59 +198,41 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 33440,
+          "content": [
             {
               "idFilm": 33440,
-              "content": [
-                {
-                  "idFilm": 33440,
-                  "ordre": 1,
-                  "titre": "Désaxés",
-                  "art": "Les",
-                  "titreVo": "Misfits",
-                  "artVo": "The",
-                  "realisateurs": "John Huston",
-                  "pays": "États-Unis",
-                  "annee": 1961,
-                  "duree": 124,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "generique": [
-                    "Clark Gable",
-                    "Marilyn Monroe",
-                    "Montgomery Clift",
-                    "Eli Wallach"
-                  ],
-                  "isFocus": true,
-                  "miniTexte": "Arthur Miller a écrit un chant d'amour d'une infinie tristesse à son épouse, John Huston l'a filmé avec intelligence et retenue, et Russell Metty (_La Soif du mal_, _Mirage de la vie_) l'a mis en images dans un noir et blanc magnifique. Dans le désert du Nevada, _Les Désaxés_ entrecroise les destins de quatre paumés, splendides et épuisés par la vie, filmés au plus près, comme les chevaux qu'ils capturent, au bord de l'agonie. C'est le dernier film de Clark Gable et de Marilyn, un somptueux et déchirant crépuscule des idoles."
-                }
-              ]
+              "ordre": 1,
+              "titre": "Désaxés",
+              "art": "Les",
+              "titreVo": "Misfits",
+              "artVo": "The",
+              "realisateurs": "John Huston",
+              "pays": "États-Unis",
+              "annee": 1961,
+              "duree": 124,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Clark Gable",
+                "Marilyn Monroe",
+                "Montgomery Clift",
+                "Eli Wallach"
+              ],
+              "isFocus": true,
+              "miniTexte": "Arthur Miller a écrit un chant d'amour d'une infinie tristesse à son épouse, John Huston l'a filmé avec intelligence et retenue, et Russell Metty (_La Soif du mal_, _Mirage de la vie_) l'a mis en images dans un noir et blanc magnifique. Dans le désert du Nevada, _Les Désaxés_ entrecroise les destins de quatre paumés, splendides et épuisés par la vie, filmés au plus près, comme les chevaux qu'ils capturent, au bord de l'agonie. C'est le dernier film de Clark Gable et de Marilyn, un somptueux et déchirant crépuscule des idoles."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 206876,
+              "dateHeure": "2026-04-12T17:00:00",
+              "idSalle": "HL"
             },
             {
-              "idEvenement": 35585,
-              "content": [
-                {
-                  "idConf": 35585,
-                  "ordre": 2,
-                  "titre": "film + dialogue",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 206876,
-                  "dateHeure": "2026-04-12T17:00:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film seul"
-                },
-                {
-                  "idSeance": 207037,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-04-19T14:30:00",
-                  "idSalle": "HL",
-                  "mentionAssoc": "Film + dialogue"
-                }
-              ]
+              "idSeance": 207037,
+              "dateHeure": "2026-04-19T14:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -761,6 +743,23 @@
               "idSalle": "HL"
             }
           ]
+        },
+        {
+          "idConf": 35585,
+          "content": [
+            {
+              "idConf": 35585,
+              "titre": "film + dialogue",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208498,
+              "dateHeure": "2026-04-18T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
         }
       ]
     }
@@ -779,9 +778,8 @@
         "dateHeure": "2026-04-11T17:00:00"
       },
       {
-        "titreFilms": "Les Désaxés",
         "mention": "film + dialogue",
-        "dateHeure": "2026-04-19T14:30:00"
+        "dateHeure": "2026-04-18T16:30:00"
       }
     ]
   }

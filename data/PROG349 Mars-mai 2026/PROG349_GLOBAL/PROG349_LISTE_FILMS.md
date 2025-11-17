@@ -19,10 +19,11 @@
 
   * Reine Christine (La)
 
-## Harold Lloyd (19)
+## Harold Lloyd (24)
 
   * 3 (més)aventures d'Harold Lloyd  
   * À la hauteur  
+  * Amour et poésie  
   * Ayez donc des gosses  
   * Ça te la coupe  
   * De la coupe aux lèvres  
@@ -32,13 +33,17 @@
   * Haunted Spooks  
   * La Chasse au renard  
   * Ma fille est somnambule  
+  * Mon ami le voisin  
   * Monte là-dessus  
   * Nouvelles (Més)aventures d'Harold Lloyd (Les)  
   * Passez muscade  
   * Petit Frère (Le)  
   * Pour le cœur de Jenny  
+  * Prince malgré lui  
   * Quel numéro demandez-vous ?  
+  * Swing Your Partners  
   * Toujours lui  
+  * Une excursion mouvementée  
   * Vive le sport !
 
 ## Ildikó Enyedi (11)
@@ -158,13 +163,17 @@
 
   * M
 
-## Ma petite Cinémathèque (6)
+## Ma petite Cinémathèque (10)
 
+  * Babe, le cochon devenu berger  
+  * Contes de la mère poule : Shangoul et Mangoul (Les)  
   * Magicien d'Oz (Le)  
+  * Petit chat curieux (Le)  
   * Pinocchio  
   * Ponyo sur la falaise  
   * Ratatouille  
   * Secret de la pyramide (Le)  
+  * Table tournante (La)  
   * Temps modernes (Les)
 
 ## Marilyn Monroe (21)
@@ -191,7 +200,7 @@
   * Roi de la piste (Le)  
   * Troublez-moi ce soir
 
-## Robert Altman (8)
+## Robert Altman (12)
 
   * Brewster McCloud  
   * Buffalo Bill et les Indiens  
@@ -199,5 +208,9 @@
   * Images  
   * John McCabe  
   * M*A*S*H  
+  * Nashville  
   * Nous sommes tous des voleurs  
   * Privé (Le)  
+  * Trois femmes  
+  * Un couple parfait  
+  * Un mariage  
