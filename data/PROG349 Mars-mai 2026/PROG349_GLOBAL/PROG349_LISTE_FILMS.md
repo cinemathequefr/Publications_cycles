@@ -80,7 +80,7 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (37)
+## Le cinéma italien des années de plomb (38)
 
   * Adorable Corps de Deborah (L')  
   * Allonsanfàn  
@@ -111,6 +111,7 @@
   * Tarentule au ventre noir (La)  
   * Témoin à abattre (Le)  
   * Todo modo  
+  * Touche pas à la femme blanche  
   * Un bourgeois tout petit, petit  
   * Un citoyen se rebelle  
   * Un juge en danger  
