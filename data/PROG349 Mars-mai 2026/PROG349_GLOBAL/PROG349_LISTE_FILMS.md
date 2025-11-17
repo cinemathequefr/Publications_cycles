@@ -19,17 +19,26 @@
 
   * Reine Christine (La)
 
-## Harold Lloyd (10)
+## Harold Lloyd (19)
 
   * 3 (més)aventures d'Harold Lloyd  
   * À la hauteur  
+  * Ayez donc des gosses  
   * Ça te la coupe  
+  * De la coupe aux lèvres  
   * En vitesse  
-  * Marathon (The)  
+  * Harold bonne d'enfant  
+  * Harold chez les pirates  
+  * Haunted Spooks  
+  * La Chasse au renard  
+  * Ma fille est somnambule  
   * Monte là-dessus  
   * Nouvelles (Més)aventures d'Harold Lloyd (Les)  
+  * Passez muscade  
   * Petit Frère (Le)  
   * Pour le cœur de Jenny  
+  * Quel numéro demandez-vous ?  
+  * Toujours lui  
   * Vive le sport !
 
 ## Ildikó Enyedi (11)
@@ -51,6 +60,30 @@
   * Double messieurs  
   * JFS Forever  
   * Passe montagne
+
+## Ken Loach (21)
+
+  * Black Jack  
+  * Bread and Roses  
+  * Carla's Song  
+  * Esprit de 45 (L')  
+  * Family Life  
+  * Fatherland  
+  * Gamekeeper (The)  
+  * Hidden Agenda – Secret défense  
+  * Ladybird  
+  * Land and Freedom  
+  * Moi, Daniel Blake  
+  * My Name Is Joe  
+  * Navigators (The)  
+  * Part des anges (La)  
+  * Pas de larmes pour Joy  
+  * Raining Stones  
+  * Regards et sourires  
+  * Riff-raff  
+  * Sweet Sixteen  
+  * Vent se lève (Le)  
+  * Which Side Are You on?
 
 ## L'Écran démoniaque (25)
 
@@ -124,6 +157,15 @@
 ## Le film de tueurs en série, 25 indispensables (1)
 
   * M
+
+## Ma petite Cinémathèque (6)
+
+  * Magicien d'Oz (Le)  
+  * Pinocchio  
+  * Ponyo sur la falaise  
+  * Ratatouille  
+  * Secret de la pyramide (Le)  
+  * Temps modernes (Les)
 
 ## Marilyn Monroe (21)
 
