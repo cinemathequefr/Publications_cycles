@@ -163,10 +163,11 @@
 
   * M
 
-## Ma petite Cinémathèque (10)
+## Ma petite Cinémathèque (11)
 
   * Babe, le cochon devenu berger  
   * Contes de la mère poule : Shangoul et Mangoul (Les)  
+  * Homme qui rétrécit (L')  
   * Magicien d'Oz (Le)  
   * Petit chat curieux (Le)  
   * Pinocchio  
