@@ -6,18 +6,30 @@
   * Reine Christine (La)  
   * Sept ans de réflexion
 
-## Cinéma bis (6)
+## Cinéma bis (4)
 
   * Beast of the Yellow Night  
   * Beyond Atlantis  
-  * Juge (Le)  
   * Liz et Helen  
-  * Maciste en enfer  
-  * Une robe noire pour un tueur
+  * Maciste en enfer
 
-## Greta Garbo (1)
+## Greta Garbo (15)
 
-  * Reine Christine (La)
+  * Anna Christie  
+  * Anna Karenine  
+  * Anna Karénine  
+  * Baiser (Le)  
+  * Belle Ténébreuse (La)  
+  * Chair et le Diable (La)  
+  * Courtisane (La)  
+  * Droit d'aimer (Le)  
+  * Grand Hotel  
+  * Inspiratrice (L')  
+  * Intrigues  
+  * Légende de Gösta Berling (La)  
+  * Tentatrice (La)  
+  * Torrent (Le)  
+  * Une femme divine
 
 ## Harold Lloyd (24)
 
@@ -60,13 +72,18 @@
   * Tamás et Juli  
   * Vakond
 
-## Jean-François Stévenin (3)
+## Jean-François Stévenin (8)
 
+  * À nous la victoire  
+  * Chiens de guerre (Les)  
+  * Deux lions au soleil  
   * Double messieurs  
   * JFS Forever  
-  * Passe montagne
+  * Neige  
+  * Passe montagne  
+  * Tortue sur le dos (La)
 
-## Ken Loach (21)
+## Ken Loach (22)
 
   * Black Jack  
   * Bread and Roses  
@@ -75,7 +92,7 @@
   * Family Life  
   * Fatherland  
   * Gamekeeper (The)  
-  * Hidden Agenda – Secret défense  
+  * Kes  
   * Ladybird  
   * Land and Freedom  
   * Moi, Daniel Blake  
@@ -85,7 +102,8 @@
   * Pas de larmes pour Joy  
   * Raining Stones  
   * Regards et sourires  
-  * Riff-raff  
+  * Riff-Raff  
+  * Secret défense  
   * Sweet Sixteen  
   * Vent se lève (Le)  
   * Which Side Are You on?
@@ -159,9 +177,23 @@
   * Ville accuse (La)  
   * Violence et passion
 
-## Le film de tueurs en série, 25 indispensables (1)
+## Le film de tueurs en série, 25 indispensables (15)
 
-  * M
+  * Cinquième Victime (La)  
+  * Étrangleur de Boston (L')  
+  * Landru  
+  * M  
+  * M le maudit  
+  * Maigret tend un piège  
+  * Monsieur Verdoux  
+  * Ombre d'un doute (L')  
+  * Pulsions  
+  * Seven  
+  * Silence des agneaux (Le)  
+  * Six femmes pour l'assassin  
+  * Sixième Sens (Le)  
+  * Tueurs de la lune de miel (Les)  
+  * Vengeance est à moi (La)
 
 ## Ma petite Cinémathèque (11)
 
@@ -201,17 +233,30 @@
   * Roi de la piste (Le)  
   * Troublez-moi ce soir
 
-## Robert Altman (12)
+## Robert Altman (25)
 
+  * Beyond Therapy  
   * Brewster McCloud  
   * Buffalo Bill et les Indiens  
   * Flambeurs (Les)  
+  * Fool for Love  
+  * Gingerbread Man (The)  
+  * Health  
   * Images  
   * John McCabe  
+  * Kansas City  
   * M*A*S*H  
   * Nashville  
   * Nous sommes tous des voleurs  
+  * O.C. and Stiggs  
+  * Player (The)  
+  * Popeye  
   * Privé (Le)  
+  * Quintet  
+  * Reviens Jimmy Dean, reviens  
+  * Secret Honor  
+  * Short Cuts  
+  * Streamers  
   * Trois femmes  
   * Un couple parfait  
   * Un mariage  
