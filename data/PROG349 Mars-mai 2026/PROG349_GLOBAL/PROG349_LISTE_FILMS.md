@@ -13,7 +13,7 @@
   * Liz et Helen  
   * Maciste en enfer
 
-## Greta Garbo (15)
+## Greta Garbo (22)
 
   * Anna Christie  
   * Anna Karenine  
@@ -21,15 +21,22 @@
   * Baiser (Le)  
   * Belle Ténébreuse (La)  
   * Chair et le Diable (La)  
+  * Comme tu me veux  
   * Courtisane (La)  
   * Droit d'aimer (Le)  
+  * Femme aux deux visages (La)  
   * Grand Hotel  
   * Inspiratrice (L')  
   * Intrigues  
   * Légende de Gösta Berling (La)  
+  * Marie Walewska  
+  * Mata-Hari  
+  * Ninotchka  
+  * Roman de Marguerite Gautier (Le)  
   * Tentatrice (La)  
   * Torrent (Le)  
-  * Une femme divine
+  * Une femme divine  
+  * Voile des illusions (Le)
 
 ## Harold Lloyd (24)
 
@@ -72,16 +79,36 @@
   * Tamás et Juli  
   * Vakond
 
-## Jean-François Stévenin (8)
+## Jean-François Stévenin (28)
 
   * À nous la victoire  
+  * Argent de poche (L')  
+  * Barocco  
+  * Capitaine Achab  
   * Chiens de guerre (Les)  
+  * Chute libre  
+  * De l'amour  
   * Deux lions au soleil  
   * Double messieurs  
+  * Guerre des polices (La)  
+  * Jean-François Stévenin : Simple messieurs  
   * JFS Forever  
+  * Lune froide  
+  * Maris, les femmes, les amants (Les)  
+  * Mischka  
+  * Mona et moi  
   * Neige  
+  * Noir comme le souvenir  
+  * Nuit américaine (La)  
+  * Part du lion (La)  
   * Passe montagne  
-  * Tortue sur le dos (La)
+  * Patriotes (Les)  
+  * Pays du chien qui chante (Le)  
+  * Peaux de vaches  
+  * Pont du Nord (Le)  
+  * Poussière d'empire  
+  * Tortue sur le dos (La)  
+  * Une chambre en ville
 
 ## Ken Loach (22)
 
@@ -92,6 +119,7 @@
   * Family Life  
   * Fatherland  
   * Gamekeeper (The)  
+  * Hidden Agenda  
   * Kes  
   * Ladybird  
   * Land and Freedom  
@@ -103,7 +131,6 @@
   * Raining Stones  
   * Regards et sourires  
   * Riff-Raff  
-  * Secret défense  
   * Sweet Sixteen  
   * Vent se lève (Le)  
   * Which Side Are You on?
@@ -177,23 +204,31 @@
   * Ville accuse (La)  
   * Violence et passion
 
-## Le film de tueurs en série, 25 indispensables (15)
+## Le film de tueurs en série, 25 indispensables (23)
 
+  * Boulevard de la mort  
   * Cinquième Victime (La)  
   * Étrangleur de Boston (L')  
+  * Étrangleur (L')  
+  * Éventreur de New York (L')  
+  * Frenzy  
+  * Ibis rouge (L')  
+  * Jack l'Éventreur  
   * Landru  
   * M  
   * M le maudit  
   * Maigret tend un piège  
   * Monsieur Verdoux  
   * Ombre d'un doute (L')  
+  * Pièges  
   * Pulsions  
   * Seven  
   * Silence des agneaux (Le)  
-  * Six femmes pour l'assassin  
   * Sixième Sens (Le)  
+  * Summer of Sam  
   * Tueurs de la lune de miel (Les)  
-  * Vengeance est à moi (La)
+  * Vengeance est à moi (La)  
+  * Zodiac
 
 ## Ma petite Cinémathèque (11)
 
@@ -233,7 +268,7 @@
   * Roi de la piste (Le)  
   * Troublez-moi ce soir
 
-## Robert Altman (25)
+## Robert Altman (23)
 
   * Beyond Therapy  
   * Brewster McCloud  
@@ -242,7 +277,6 @@
   * Fool for Love  
   * Gingerbread Man (The)  
   * Health  
-  * Images  
   * John McCabe  
   * Kansas City  
   * M*A*S*H  
@@ -257,6 +291,10 @@
   * Secret Honor  
   * Short Cuts  
   * Streamers  
-  * Trois femmes  
   * Un couple parfait  
-  * Un mariage  
+  * Un mariage
+
+## Séances spéciales (2)
+
+  * Derniers jours d'Emmanuel Kant (Les)  
+  * Fils puni (Le)  

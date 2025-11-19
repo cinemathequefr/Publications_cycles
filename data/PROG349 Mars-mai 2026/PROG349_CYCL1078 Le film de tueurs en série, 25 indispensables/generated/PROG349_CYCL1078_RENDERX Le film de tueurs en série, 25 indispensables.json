@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-05-07T20:00:00",
-    "2026-05-17T20:00:00"
+    "2026-05-24T19:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,36 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 101921,
+          "content": [
+            {
+              "idFilm": 101921,
+              "ordre": 1,
+              "titre": "Boulevard de la mort",
+              "titreVo": "Death Proof",
+              "realisateurs": "Quentin Tarantino",
+              "pays": "États-Unis",
+              "annee": 2006,
+              "duree": 105,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Kurt Russell",
+                "Rosario Dawson",
+                "Zoë Bell"
+              ],
+              "miniTexte": "Faux film d'exploitation sophistiqué, _Boulevard de la mort_ transforme un _slasher_ automobile en exercice de style brillant, qui entremêle dialogues mordants et déchaînement de cascades réelles. En inversant les rôles, les proies deviennent prédatrices et offrent un final féministe jubilatoire. Une lettre d'amour au cinéma bis, ludique et diablement maîtrisée."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207733,
+              "dateHeure": "2026-05-20T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 34077,
           "content": [
@@ -39,8 +69,35 @@
           "seances": [
             {
               "idSeance": 207601,
-              "dateHeure": "2026-05-14T19:00:00",
+              "dateHeure": "2026-05-14T18:00:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 51627,
+          "content": [
+            {
+              "idFilm": 51627,
+              "ordre": 1,
+              "titre": "Étrangleur",
+              "art": "L'",
+              "realisateurs": "Paul Vecchiali",
+              "pays": "France",
+              "annee": 1970,
+              "generique": [
+                "Jacques Perrin",
+                "Julien Guiomar",
+                "Paul Barge"
+              ],
+              "miniTexte": "Un homme solitaire tue des femmes désespérées pour mettre fin à leurs souffrances. Vecchiali crée une rêverie expressionniste à la troublante douceur, aux antipodes du portrait monstrueux, et qui érige l'assassin en figure tragique. Une curiosité inclassable et surprenante."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207840,
+              "dateHeure": "2026-05-23T19:30:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -72,7 +129,127 @@
           "seances": [
             {
               "idSeance": 207602,
-              "dateHeure": "2026-05-14T21:00:00",
+              "dateHeure": "2026-05-14T20:15:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 43308,
+          "content": [
+            {
+              "idFilm": 43308,
+              "ordre": 1,
+              "titre": "Éventreur de New York",
+              "art": "L'",
+              "titreVo": "Squartatore di New York",
+              "artVo": "Lo",
+              "realisateurs": "Lucio Fulci",
+              "pays": "Italie",
+              "annee": 1981,
+              "generique": [
+                "Jack Hedley",
+                "Almanta Keller",
+                "Howard Ross"
+              ],
+              "miniTexte": "L'un des Fulci les plus sombres, où Manhattan – terrorisée par un tueur sadique – devient une ville malade, saturée de violence, de sexe et de corruption morale. La mise en scène est crue, pessimiste, qui déploie des meurtres graphiques, visions d'horreur d'une société en décomposition. Un cauchemar érotique au grand-guignol morbide."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207853,
+              "dateHeure": "2026-05-24T17:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 53982,
+          "content": [
+            {
+              "idFilm": 53982,
+              "ordre": 1,
+              "titre": "Frenzy",
+              "realisateurs": "Alfred Hitchcock",
+              "pays": "Grande-Bretagne",
+              "annee": 1971,
+              "duree": 116,
+              "version": "VO",
+              "format": "DCP",
+              "adaptation": "D'après le roman _Goodbye Piccadilly, Farewell Leicester Square_ d'Arthur La Bern.",
+              "generique": [
+                "Jon Finch",
+                "Barry Foster",
+                "Barbara Leigh-Hunt"
+              ],
+              "miniTexte": "L'un des thèmes favoris de Hitchcock – l'isolement progressif d'un homme innocent contre lequel les charges s'accumulent – transposé dans le marché de Covent Garden à Londres. Aucun répit pour le spectateur, complice amusé, constamment désarçonné par de savoureuses trouvailles de mise en scène, à en donner le frisson. Quintessence du génie hitchcockien, l'avant-dernier film du maître est un régal d'angoisse, d'intelligence et d'humour noir."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207765,
+              "dateHeure": "2026-05-21T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 50224,
+          "content": [
+            {
+              "idFilm": 50224,
+              "ordre": 1,
+              "titre": "Ibis rouge",
+              "art": "L'",
+              "realisateurs": "Jean-Pierre Mocky",
+              "pays": "France",
+              "annee": 1975,
+              "duree": 87,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après le roman _ Knock Three One Two _ de Fredric Brown.",
+              "generique": [
+                "Michel Simon",
+                "Michel Serrault",
+                "Evelyne Buyle",
+                "Michel Galabru"
+              ],
+              "miniTexte": "Un thriller satirique qui tire à vue, et prend pour prétexte le destin d'un dandy _serial killer_ pour raconter une France misogyne et violente. Le trait est gros, le propos acerbe, ce qui n'empêche pas Mocky de filmer le quartier du canal Saint-Martin avec la poésie d'un Marcel Carné. Avec Galabru, Zardi, Serrault mais aussi Michel Simon dans son dernier rôle."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207841,
+              "dateHeure": "2026-05-23T21:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 30780,
+          "content": [
+            {
+              "idFilm": 30780,
+              "ordre": 1,
+              "titre": "Jack l'Éventreur",
+              "titreVo": "Lodger",
+              "artVo": "The",
+              "realisateurs": "John Brahm",
+              "pays": "États-Unis",
+              "annee": 1944,
+              "adaptation": "D'après le roman _The Lodger_ de Marie Belloc Lowndes.",
+              "generique": [
+                "Merle Oberon",
+                "George Sanders",
+                "Laird Cregar"
+              ],
+              "miniTexte": "Au cœur du Londres victorien, des chanteuses de cabaret sont assassinées par un mystérieux tueur en série. John Brahm revisite la légende de Jack l'Éventreur dans un thriller gothique élégant, qui mêle jeux d'ombres, ambiance expressionniste et suspense psychologique. Un récit atmosphérique, doublé d'une réflexion sur la fascination collective pour le mal."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208595,
+              "dateHeure": "2026-05-21T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -98,7 +275,7 @@
           "seances": [
             {
               "idSeance": 208578,
-              "dateHeure": "2026-05-08T20:30:00",
+              "dateHeure": "2026-05-08T19:30:00",
               "idSalle": "JE"
             }
           ]
@@ -152,7 +329,7 @@
           "seances": [
             {
               "idSeance": 207512,
-              "dateHeure": "2026-05-09T20:30:00",
+              "dateHeure": "2026-05-09T20:00:00",
               "idSalle": "HL"
             }
           ]
@@ -179,7 +356,7 @@
           "seances": [
             {
               "idSeance": 208577,
-              "dateHeure": "2026-05-08T18:30:00",
+              "dateHeure": "2026-05-08T17:30:00",
               "idSalle": "JE"
             }
           ]
@@ -209,7 +386,7 @@
           "seances": [
             {
               "idSeance": 207636,
-              "dateHeure": "2026-05-15T19:00:00",
+              "dateHeure": "2026-05-15T18:00:00",
               "idSalle": "HL"
             }
           ]
@@ -239,6 +416,32 @@
               "idSeance": 207528,
               "dateHeure": "2026-05-10T20:30:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 51266,
+          "content": [
+            {
+              "idFilm": 51266,
+              "ordre": 1,
+              "titre": "Pièges",
+              "realisateurs": "Robert Siodmak",
+              "pays": "France",
+              "annee": 1939,
+              "generique": [
+                "Maurice Chevalier",
+                "Marie Déa",
+                "Pierre Renoir"
+              ],
+              "miniTexte": "Une _taxi-girl_ est engagée pour enquêter sur la disparition suspecte de plusieurs jeunes femmes. Futur maître du film noir, Siodmak réunit un casting cinq étoiles (Maurice Chevalier pour une incursion remarquée dans le drame, Erich von Stroheim en couturier déchu) dans un mélange hybride entre romance, suspense et comédie, où l'élégance de la mise en scène sert une galerie de personnages retors."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207839,
+              "dateHeure": "2026-05-23T15:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -332,33 +535,6 @@
           ]
         },
         {
-          "idFilm": 83125,
-          "content": [
-            {
-              "idFilm": 83125,
-              "ordre": 1,
-              "titre": "Six femmes pour l'assassin",
-              "titreVo": "Sei donne per l'assassino",
-              "realisateurs": "Mario Bava",
-              "pays": "Italie-France-RFA",
-              "annee": 1964,
-              "generique": [
-                "Eva Bartok",
-                "Cameron Mitchell",
-                "Mary Arden"
-              ],
-              "miniTexte": "Avec l'histoire d'un tueur en série évoluant dans le milieu de la mode, Bava peaufine les mécanismes du thriller italien moderne et invente un univers mental baigné de couleurs irréalistes, un carnaval morbide à l'étrangeté fascinante. Sensuel et sanglant, l'acte fondateur du _giallo_."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 207672,
-              "dateHeure": "2026-05-16T14:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 45099,
           "content": [
             {
@@ -388,6 +564,32 @@
           ]
         },
         {
+          "idFilm": 66132,
+          "content": [
+            {
+              "idFilm": 66132,
+              "ordre": 1,
+              "titre": "Summer of Sam",
+              "realisateurs": "Spike Lee",
+              "pays": "États-Unis",
+              "annee": 1999,
+              "generique": [
+                "John Leguizamo",
+                "Adrien Brody",
+                "Mira Sorvino"
+              ],
+              "miniTexte": "Durant l'été 1977, la ville de New York est secouée par la canicule, les tensions sociales et la terreur répandue par un tueur en série. Sur une bande-son rock enragée et avec une mise en scène nerveuse, Spike Lee capte l'énergie fiévreuse d'un quartier en crise, rongé par la paranoïa et la rumeur. La radiographie brûlante d'une époque, qui oscille de l'hystérie médiatique à la violence de groupe."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207854,
+              "dateHeure": "2026-05-24T19:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 62104,
           "content": [
             {
@@ -410,7 +612,7 @@
           "seances": [
             {
               "idSeance": 207637,
-              "dateHeure": "2026-05-15T21:00:00",
+              "dateHeure": "2026-05-15T20:30:00",
               "idSalle": "HL"
             }
           ]
@@ -439,6 +641,33 @@
             {
               "idSeance": 207674,
               "dateHeure": "2026-05-16T19:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 101866,
+          "content": [
+            {
+              "idFilm": 101866,
+              "ordre": 1,
+              "titre": "Zodiac",
+              "realisateurs": "David Fincher",
+              "pays": "États-Unis",
+              "annee": 2007,
+              "adaptation": "D'après les récits _Zodiac_ et _Zodiac Unmasked_ de Robert Graysmith.",
+              "generique": [
+                "Jake Gyllenhaal",
+                "Robert Downey Jr.",
+                "Mark Ruffalo"
+              ],
+              "miniTexte": "Le film de la maturité, récit rigoureux et ample d'une enquête longue de trente ans, menée par deux journalistes et deux enquêteurs sur les traces d'un insaisissable serial killer. La minutie maniaque de la reconstitution, magnifiée par la photographie de Harry Savides, le suspense implacable de certaines scènes et le casting impeccable font de Zodiac l'un des grands films américains de son époque."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 207732,
+              "dateHeure": "2026-05-20T18:00:00",
               "idSalle": "HL"
             }
           ]
