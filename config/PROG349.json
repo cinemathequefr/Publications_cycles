@@ -6,7 +6,7 @@
     {
       "idCycleProg": 11,
       "titreCycle": "Séances spéciales",
-      "_charge_prog": "Katia Méndez Best / Stefano Darchino",
+      "_charge_prog": "Katia / Stefano",
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [
@@ -24,7 +24,7 @@
     {
       "idCycleProg": 14,
       "titreCycle": "Cinéma bis",
-      "_charge_prog": "Stefano Darchino",
+      "_charge_prog": "Stefano",
       "isReg": true,
       "triSousCycles": true,
       "sousCycles": [
@@ -102,7 +102,7 @@
       "triSousCycles": true,
       "titreCycle": "Parlons cinéma... avec",
       "sousCycles": [
-        { "titre": "Les films", "cats": [], "tri": 4 },
+        { "titre": "Les films", "cats": [3111, 4029], "tri": 4 },
         { "titre": "Rencontres et conférences", "cats": [], "tri": 4 }
       ],
       "excludeSeances": [],
@@ -131,7 +131,7 @@
     {
       "idCycleProg": 751,
       "titreCycle": "Robert Altman",
-      "_charge_prog": "Katia Méndez Best",
+      "_charge_prog": "Katia",
       "isReg": false,
       "sousCycles": [
         { "titre": "Les films", "cats": [3245], "tri": 2 },
@@ -143,15 +143,17 @@
       "titreEvenements": {}
     },
     {
-      "idCycleProg": null,
+      "idCycleProg": 978,
+      "titreCycle": "Histoire permanente du cinéma",
+      "_charge_prog": "Bernard",
       "isReg": true,
-      "type": "jp",
-      "titreCycle": "Ma petite Cinémathèque",
-      "sousCycles": [{ "titre": "Les films", "cats": [], "tri": 4 }],
-      "excludeSeances": [],
-      "cancelledSeances": [],
-      "restaurations": [],
-      "titreEvenements": {}
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [4094],
+          "tri": 2
+        }
+      ]
     },
     {
       "idCycleProg": 1033,
@@ -165,14 +167,14 @@
     {
       "idCycleProg": 1059,
       "titreCycle": "Histoire permanente du cinéma : les 90 ans de la Cinémathèque française",
-      "_charge_prog": "Bernard Payen",
+      "_charge_prog": "Bernard",
       "isReg": true,
-      "sousCycles": [{ "titre": "Les films", "cats": [4084], "tri": 2 }]
+      "sousCycles": [{ "titre": "Les films", "cats": [4084, 4018], "tri": 2 }]
     },
     {
       "idCycleProg": 1063,
       "titreCycle": "L'Écran démoniaque",
-      "_charge_prog": "Caroline Maleville",
+      "_charge_prog": "Caroline",
       "sousCycles": [
         { "titre": "Les films", "cats": [4047], "tri": 2 },
         { "titre": "Rencontres et conférences", "cats": [4076], "tri": 4 }
@@ -182,7 +184,7 @@
     {
       "idCycleProg": 1064,
       "titreCycle": "Marilyn Monroe",
-      "_charge_prog": "Caroline Maleville",
+      "_charge_prog": "Caroline",
       "sousCycles": [
         { "titre": "Les films", "cats": [4048], "tri": 2 },
         { "titre": "Rencontres et conférences", "cats": [4078], "tri": 4 }
@@ -195,7 +197,7 @@
     {
       "idCycleProg": 1065,
       "titreCycle": "Ildikó Enyedi",
-      "_charge_prog": "Stefano Darchino",
+      "_charge_prog": "Stefano",
       "sousCycles": [
         { "titre": "Les films", "cats": [4049], "tri": 2 },
         { "titre": "Courts métrages", "cats": [4051], "tri": 4 },
@@ -206,7 +208,7 @@
     {
       "idCycleProg": 1067,
       "titreCycle": "Le cinéma italien des années de plomb",
-      "_charge_prog": "Stefano Darchino",
+      "_charge_prog": "Stefano",
       "isReg": false,
       "sousCycles": [
         { "titre": "Les films", "cats": [4052], "tri": 2 },
@@ -220,7 +222,7 @@
     {
       "idCycleProg": 1074,
       "titreCycle": "Greta Garbo",
-      "_charge_prog": "Bernard Payen",
+      "_charge_prog": "Bernard",
       "isReg": false,
       "sousCycles": [
         { "titre": "Les films", "cats": [4059], "tri": 2 },
@@ -234,7 +236,7 @@
     {
       "idCycleProg": 1075,
       "titreCycle": "Harold Lloyd",
-      "_charge_prog": "Bernard Payen",
+      "_charge_prog": "Bernard",
       "isReg": false,
       "sousCycles": [
         { "titre": "Les films", "cats": [4060], "tri": 2 },
@@ -248,7 +250,7 @@
     {
       "idCycleProg": 1076,
       "titreCycle": "Jean-François Stévenin",
-      "_charge_prog": "Katia Méndez Best",
+      "_charge_prog": "Katia",
       "isReg": false,
       "sousCycles": [
         { "titre": "Les films", "cats": [4061], "tri": 2 },
@@ -262,7 +264,7 @@
     {
       "idCycleProg": 1077,
       "titreCycle": "Ken Loach",
-      "_charge_prog": "Bernard Payen",
+      "_charge_prog": "Bernard",
       "isReg": false,
       "sousCycles": [
         { "titre": "Les films", "cats": [4062], "tri": 2 },

@@ -78,33 +78,9 @@
   {
     "idCategorie": 4061,
     "typeEvenement": 13,
-    "idEvenement": 35543,
-    "idSeance": 208592,
-    "dateHeure": "2026-05-02T19:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 77121,
-        "ordre": 1,
-        "idSeance": 208592,
-        "idCopie": 31179,
-        "duree": 117,
-        "version": "",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 4061,
-    "typeEvenement": 13,
     "idEvenement": 35537,
     "idSeance": 207369,
-    "dateHeure": "2026-05-03T17:00:00",
+    "dateHeure": "2026-05-03T17:15:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -122,7 +98,7 @@
     "typeEvenement": 13,
     "idEvenement": 35549,
     "idSeance": 207370,
-    "dateHeure": "2026-05-03T19:00:00",
+    "dateHeure": "2026-05-03T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -348,6 +324,30 @@
     ]
   },
   {
+    "idCategorie": 4061,
+    "typeEvenement": 13,
+    "idEvenement": 35543,
+    "idSeance": 208592,
+    "dateHeure": "2026-05-10T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 77121,
+        "ordre": 1,
+        "idSeance": 208592,
+        "idCopie": 31179,
+        "duree": 117,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
     "idCategorie": 4074,
     "typeEvenement": 14,
     "idEvenement": 35652,
@@ -411,52 +411,6 @@
   {
     "idCategorie": 4061,
     "typeEvenement": 13,
-    "idEvenement": 35553,
-    "idSeance": 208588,
-    "dateHeure": "2026-05-13T18:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 47009,
-        "ordre": 1,
-        "idSeance": 208588,
-        "idCopie": 31181,
-        "duree": 92,
-        "version": "",
-        "format": ""
-      }
-    ]
-  },
-  {
-    "idCategorie": 4061,
-    "typeEvenement": 13,
-    "idEvenement": 35538,
-    "idSeance": 208587,
-    "dateHeure": "2026-05-13T20:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 180,
-    "items": [
-      {
-        "idFilm": 52356,
-        "ordre": 1,
-        "idSeance": 208587,
-        "idCopie": 24350,
-        "duree": 142,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4061,
-    "typeEvenement": 13,
     "idEvenement": 35539,
     "idSeance": 208590,
     "dateHeure": "2026-05-14T17:15:00",
@@ -482,7 +436,7 @@
     "typeEvenement": 13,
     "idEvenement": 35540,
     "idSeance": 208589,
-    "dateHeure": "2026-05-14T20:30:00",
+    "dateHeure": "2026-05-14T19:45:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -567,7 +521,8 @@
         "version": "VO",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Yann Dedet"
   },
   {
     "idCategorie": 4061,
@@ -608,7 +563,8 @@
         "version": "",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Séance présentée par Gaël Teicher"
   },
   {
     "idCategorie": 4061,
@@ -630,6 +586,52 @@
         "duree": 108,
         "version": "",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4061,
+    "typeEvenement": 13,
+    "idEvenement": 35553,
+    "idSeance": 208588,
+    "dateHeure": "2026-05-17T15:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 47009,
+        "ordre": 1,
+        "idSeance": 208588,
+        "idCopie": 31181,
+        "duree": 92,
+        "version": "",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 4061,
+    "typeEvenement": 13,
+    "idEvenement": 35538,
+    "idSeance": 208587,
+    "dateHeure": "2026-05-17T17:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 180,
+    "items": [
+      {
+        "idFilm": 52356,
+        "ordre": 1,
+        "idSeance": 208587,
+        "idCopie": 24350,
+        "duree": 142,
+        "version": "",
+        "format": "DCP"
       }
     ]
   }

@@ -65,6 +65,22 @@
   * Une excursion mouvementée  
   * Vive le sport !
 
+## Histoire permanente du cinéma (6)
+
+  * Aguirre, la colère de Dieu  
+  * Angoisse du gardien de but au moment du pénalty (L')  
+  * commissaire (La)  
+  * Œdipe roi  
+  * Trans-Europ-Express  
+  * Vallée (La)
+
+## Histoire permanente du cinéma : les 90 ans de la Cinémathèque française (4)
+
+  * Atlantide (L')  
+  * Dame du vendredi (La)  
+  * Haute Pègre  
+  * Règle du jeu (La)
+
 ## Ildikó Enyedi (11)
 
   * Conversations of Donkey and Rabbit (The)  
@@ -110,33 +126,45 @@
   * Tortue sur le dos (La)  
   * Une chambre en ville
 
-## Ken Loach (22)
+## Ken Loach (33)
 
   * Black Jack  
   * Bread and Roses  
   * Carla's Song  
+  * Chacun son cinéma  
   * Esprit de 45 (L')  
   * Family Life  
   * Fatherland  
+  * Flickering Flame (The)  
   * Gamekeeper (The)  
   * Hidden Agenda  
+  * It's a Free World  
+  * Jimmy's Hall  
+  * Just a Kiss  
   * Kes  
   * Ladybird  
   * Land and Freedom  
+  * Looking for Eric  
   * Moi, Daniel Blake  
   * My Name Is Joe  
   * Navigators (The)  
+  * Old Oak (The)  
   * Part des anges (La)  
   * Pas de larmes pour Joy  
   * Raining Stones  
   * Regards et sourires  
   * Riff-Raff  
+  * Route Irish  
+  * September 11  
+  * Sorry We Missed You  
   * Sweet Sixteen  
+  * Tickets  
   * Vent se lève (Le)  
   * Which Side Are You on?
 
-## L'Écran démoniaque (25)
+## L'Écran démoniaque (27)
 
+  * Algol  
   * Cabinet des figures de cire (Le)  
   * Cabinet du docteur Caligari (Le)  
   * De l'aube à minuit  
@@ -149,6 +177,7 @@
   * Genuine  
   * Golem (Le)  
   * Mains d'Orlac (Les)  
+  * Mandragore (La)  
   * Metropolis  
   * Montreur d'ombres (Le)  
   * Nerven  
@@ -268,7 +297,13 @@
   * Roi de la piste (Le)  
   * Troublez-moi ce soir
 
-## Robert Altman (23)
+## Parlons cinéma... avec (3)
+
+  * Faux mouvement  
+  * Homme de l'Ouest (L')  
+  * Nouvelle vague
+
+## Robert Altman (26)
 
   * Beyond Therapy  
   * Brewster McCloud  
@@ -277,8 +312,10 @@
   * Fool for Love  
   * Gingerbread Man (The)  
   * Health  
+  * Images  
   * John McCabe  
   * Kansas City  
+  * Last Show (The)  
   * M*A*S*H  
   * Nashville  
   * Nous sommes tous des voleurs  
@@ -291,6 +328,7 @@
   * Secret Honor  
   * Short Cuts  
   * Streamers  
+  * Trois femmes  
   * Un couple parfait  
   * Un mariage
 

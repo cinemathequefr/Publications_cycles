@@ -10,6 +10,35 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 73282,
+          "content": [
+            {
+              "idFilm": 73282,
+              "ordre": 1,
+              "titre": "Algol",
+              "realisateurs": "Hans Werckmeister",
+              "pays": "Allemagne",
+              "annee": 1920,
+              "duree": 104,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Emil Jannings",
+                "Hannah Ralph",
+                "Gertrud Welcker"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208620,
+              "dateHeure": "2026-03-19T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 40636,
           "content": [
             {
@@ -35,9 +64,10 @@
           ],
           "seances": [
             {
-              "idSeance": 206294,
-              "dateHeure": "2026-03-19T18:30:00",
-              "idSalle": "GF"
+              "idSeance": 208610,
+              "dateHeure": "2026-03-18T20:00:00",
+              "idSalle": "HL",
+              "mention": "Ouverture de la rétrospective"
             }
           ]
         },
@@ -230,7 +260,7 @@
           "seances": [
             {
               "idSeance": 206550,
-              "dateHeure": "2026-03-29T19:00:00",
+              "dateHeure": "2026-03-29T19:15:00",
               "idSalle": "HL"
             }
           ]
@@ -399,6 +429,36 @@
           ]
         },
         {
+          "idFilm": 45455,
+          "content": [
+            {
+              "idFilm": 45455,
+              "ordre": 1,
+              "titre": "Mandragore",
+              "art": "La",
+              "titreVo": "Alraune",
+              "realisateurs": "Henrik Galeen",
+              "pays": "Allemagne",
+              "annee": 1927,
+              "duree": 131,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Conrad Veidt",
+                "Brigitte Helm"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208617,
+              "dateHeure": "2026-04-04T17:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 40645,
           "content": [
             {
@@ -423,10 +483,14 @@
           ],
           "seances": [
             {
-              "idSeance": 206266,
-              "dateHeure": "2026-03-18T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "idSeance": 208612,
+              "dateHeure": "2026-03-28T20:45:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 208615,
+              "dateHeure": "2026-04-04T20:30:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -520,12 +584,7 @@
           "seances": [
             {
               "idSeance": 206532,
-              "dateHeure": "2026-03-28T17:45:00",
-              "idSalle": "HL"
-            },
-            {
-              "idSeance": 208421,
-              "dateHeure": "2026-04-04T15:00:00",
+              "dateHeure": "2026-03-28T17:30:00",
               "idSalle": "HL"
             }
           ]
@@ -559,11 +618,6 @@
               "idSeance": 206531,
               "dateHeure": "2026-03-28T14:30:00",
               "idSalle": "HL"
-            },
-            {
-              "idSeance": 208422,
-              "dateHeure": "2026-04-04T19:00:00",
-              "idSalle": "HL"
             }
           ]
         },
@@ -591,7 +645,7 @@
           ],
           "seances": [
             {
-              "idSeance": 208493,
+              "idSeance": 208667,
               "dateHeure": "2026-03-27T18:30:00",
               "idSalle": "GF"
             }
@@ -623,8 +677,8 @@
           ],
           "seances": [
             {
-              "idSeance": 206533,
-              "dateHeure": "2026-03-28T20:45:00",
+              "idSeance": 208616,
+              "dateHeure": "2026-04-04T15:00:00",
               "idSalle": "HL"
             }
           ]
