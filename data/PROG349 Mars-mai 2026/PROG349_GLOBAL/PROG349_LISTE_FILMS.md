@@ -68,8 +68,8 @@
 ## Histoire permanente du cinéma (6)
 
   * Aguirre, la colère de Dieu  
-  * Angoisse du gardien de but au moment du pénalty (L')  
-  * commissaire (La)  
+  * Angoisse du gardien de but au moment du penalty (L')  
+  * Commissaire (La)  
   * Œdipe roi  
   * Trans-Europ-Express  
   * Vallée (La)
