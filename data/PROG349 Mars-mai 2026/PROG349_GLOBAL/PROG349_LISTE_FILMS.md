@@ -65,10 +65,12 @@
   * Une excursion mouvementée  
   * Vive le sport !
 
-## Histoire permanente du cinéma (6)
+## Histoire permanente du cinéma (8)
 
   * Aguirre, la colère de Dieu  
   * Angoisse du gardien de but au moment du penalty (L')  
+  * Années de plomb (Les)  
+  * Belle  
   * Commissaire (La)  
   * Œdipe roi  
   * Trans-Europ-Express  
