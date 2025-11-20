@@ -448,31 +448,47 @@
           ]
         },
         {
-          "idFilm": 77121,
-          "content": [
+          "groupe": [
             {
               "idFilm": 77121,
-              "ordre": 1,
-              "titre": "Mischka",
-              "realisateurs": "Jean-François Stévenin",
-              "pays": "France",
-              "annee": 2000,
-              "duree": 117,
-              "version": "",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Jean-Paul Roussillon",
-                "Jean-François Stévenin",
-                "Rona Hartner"
+              "content": [
+                {
+                  "idFilm": 77121,
+                  "ordre": 1,
+                  "titre": "Mischka",
+                  "realisateurs": "Jean-François Stévenin",
+                  "pays": "France",
+                  "annee": 2000,
+                  "duree": 117,
+                  "version": "",
+                  "format": "DCP",
+                  "restauration": true,
+                  "generique": [
+                    "Jean-Paul Roussillon",
+                    "Jean-François Stévenin",
+                    "Rona Hartner"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 208592,
-              "dateHeure": "2026-05-10T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 35652,
+              "content": [
+                {
+                  "idConf": 35652,
+                  "ordre": 2,
+                  "titre": "Mishka + Dialogue",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208592,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-05-10T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -708,7 +724,7 @@
           "seances": [
             {
               "idSeance": 208585,
-              "dateHeure": "2026-05-10T17:00:00",
+              "dateHeure": "2026-05-10T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -795,31 +811,8 @@
           "seances": [
             {
               "idSeance": 208586,
-              "dateHeure": "2026-05-10T19:45:00",
+              "dateHeure": "2026-05-10T21:00:00",
               "idSalle": "GF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 35652,
-          "content": [
-            {
-              "idConf": 35652,
-              "titre": "Mishka + Dialogue",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208543,
-              "dateHeure": "2026-05-10T16:30:00",
-              "idSalle": "HL"
             }
           ]
         }
@@ -834,8 +827,9 @@
         "dateHeure": "2026-05-02T14:30:00"
       },
       {
+        "titreFilms": "Mischka",
         "mention": "Mishka + Dialogue",
-        "dateHeure": "2026-05-10T16:30:00"
+        "dateHeure": "2026-05-10T14:30:00"
       }
     ],
     "Séances présentées": [

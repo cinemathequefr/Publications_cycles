@@ -134,10 +134,10 @@
   * Bread and Roses  
   * Carla's Song  
   * Chacun son cinéma  
+  * Dockers de Liverpool (Les)  
   * Esprit de 45 (L')  
   * Family Life  
   * Fatherland  
-  * Flickering Flame (The)  
   * Gamekeeper (The)  
   * Hidden Agenda  
   * It's a Free World  
@@ -162,7 +162,7 @@
   * Sweet Sixteen  
   * Tickets  
   * Vent se lève (Le)  
-  * Which Side Are You on?
+  * Which Side Are You On?
 
 ## L'Écran démoniaque (27)
 

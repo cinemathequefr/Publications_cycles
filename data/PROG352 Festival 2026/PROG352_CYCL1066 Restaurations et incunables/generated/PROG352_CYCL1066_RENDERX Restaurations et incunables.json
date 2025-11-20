@@ -1,0 +1,98 @@
+{
+  "datesCycle": [
+    "2026-03-12T20:30:00",
+    "2026-03-15T20:00:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 45137,
+          "content": [
+            {
+              "idFilm": 45137,
+              "ordre": 1,
+              "titre": "Rencontres du troisième type",
+              "titreVo": "Close Encounters of the Third Kind",
+              "realisateurs": "Steven Spielberg",
+              "pays": "États-Unis",
+              "annee": 1977,
+              "duree": 137,
+              "version": "VOSTF",
+              "format": "70 mm",
+              "restauration": true,
+              "generique": [
+                "Richard Dreyfuss",
+                "François Truffaut",
+                "Teri Garr"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208195,
+              "dateHeure": "2026-03-12T20:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Clôture du festival",
+      "items": [
+        {
+          "idEvenement": 35763,
+          "content": [
+            {
+              "idFilm": 155613,
+              "ordre": 1,
+              "titre": "Soldier Man",
+              "realisateurs": "Harry Edwards",
+              "pays": "États-Unis",
+              "annee": 1926,
+              "duree": 31,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Harry Langdon"
+              ]
+            },
+            {
+              "idFilm": 30981,
+              "ordre": 2,
+              "titre": "Charlot soldat",
+              "titreVo": "Shoulder Arms",
+              "realisateurs": "Charles Chaplin",
+              "pays": "États-Unis",
+              "annee": 1918,
+              "duree": 43,
+              "version": "INT. FR.",
+              "format": "DCP",
+              "restauration": true,
+              "ageMinimal": 6,
+              "generique": [
+                "Charles Chaplin",
+                "Edna Purviance",
+                "Syd Chaplin"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208286,
+              "dateHeure": "2026-03-15T20:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}
