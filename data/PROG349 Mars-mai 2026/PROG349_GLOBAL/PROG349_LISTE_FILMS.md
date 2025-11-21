@@ -13,7 +13,18 @@
   * Liz et Helen  
   * Maciste en enfer
 
-## Greta Garbo (22)
+## Fenêtre sur les collections (8)
+
+  * Au carrefour des âges, le Liban  
+  * Baalbeck  
+  * Beyrouth, ô Beyrouth  
+  * Escamotage d'une dame chez Robert-Houdin  
+  * Illusionniste (L')  
+  * Je veux voir  
+  * Je veux voir (bande-annonce)  
+  * West Beyrouth (bande-annonce)
+
+## Greta Garbo (21)
 
   * Anna Christie  
   * Anna Karenine  
@@ -28,7 +39,6 @@
   * Grand Hotel  
   * Inspiratrice (L')  
   * Intrigues  
-  * Légende de Gösta Berling (La)  
   * Marie Walewska  
   * Mata-Hari  
   * Ninotchka  
@@ -230,12 +240,12 @@
   * Un citoyen se rebelle  
   * Un juge en danger  
   * Une folle envie d'aimer  
-  * Vent d'est  
+  * Vent d'est (Le)  
   * Victime désignée (La)  
   * Ville accuse (La)  
   * Violence et passion
 
-## Le film de tueurs en série, 25 indispensables (23)
+## Le film de tueurs en série, 25 indispensables (25)
 
   * Boulevard de la mort  
   * Cinquième Victime (La)  
@@ -255,8 +265,10 @@
   * Pulsions  
   * Seven  
   * Silence des agneaux (Le)  
+  * Six femmes pour l'assassin  
   * Sixième Sens (Le)  
   * Summer of Sam  
+  * Ténèbres  
   * Tueurs de la lune de miel (Les)  
   * Vengeance est à moi (La)  
   * Zodiac
