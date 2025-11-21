@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-03-11T21:00:00",
-    "2026-03-14T19:00:00"
+    "2026-03-14T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,35 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 30215,
+          "content": [
+            {
+              "idFilm": 30215,
+              "ordre": 1,
+              "titre": "Étroite surveillance",
+              "titreVo": "Stakeout",
+              "realisateurs": "John Badham",
+              "pays": "États-Unis",
+              "annee": 1987,
+              "duree": 117,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Richard Dreyfuss",
+                "Emilio Estevez",
+                "Madeleine Stowe"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208267,
+              "dateHeure": "2026-03-14T20:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
         {
           "idFilm": 30198,
           "content": [
@@ -36,7 +65,7 @@
           "seances": [
             {
               "idSeance": 208268,
-              "dateHeure": "2026-03-14T19:00:00",
+              "dateHeure": "2026-03-14T16:30:00",
               "idSalle": "HL"
             }
           ]
