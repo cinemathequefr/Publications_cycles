@@ -113,7 +113,7 @@
 ## Fenêtre sur les collections (16)
 
   * Belle de jour  
-  * Belle de jour (Bande-annonce)  
+  * Belle de jour (bande-annonce)  
   * Chronique d'une disparition  
   * En Indochine française : Dalat, station climatique  
   * Frontière (La)  
@@ -122,11 +122,11 @@
   * Marché d'esclaves en Orient  
   * Mines de Campha (Tonkin) (Les)  
   * Moyens de transport en Cochinchine (Les)  
-  * Notre-Dame de Paris (Bande-annonce)  
+  * Notre-Dame de Paris (bande-annonce)  
   * Pêche au Cambodge (La)  
-  * Rempart des béguines (Bande-annonce) (Le)  
+  * Rempart des béguines (bande-annonce) (Le)  
   * Temps des nababs, épisode 1 : Les Romanesques (Le)  
-  * Temps qu'il reste (Bande-annonce) (Le)  
+  * Temps qu'il reste (bande-annonce) (Le)  
   * Un circuit touristique dans le Haut Tonkin
 
 ## Films noirs scandinaves (9)
@@ -528,12 +528,12 @@
   * Khartoum  
   * Lawrence d'Arabie  
   * Master (The)  
+  * Nom de la rose (Le)  
   * Oppenheimer  
   * Playtime  
   * Poltergeist  
   * Ran  
-  * Starman  
-  * Une bataille après l'autre
+  * Starman
 
 ## Valérie Donzelli (12)
 
