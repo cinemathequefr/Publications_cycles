@@ -79,9 +79,9 @@
 
   * Aguirre, la colère de Dieu  
   * Angoisse du gardien de but au moment du penalty (L')  
-  * Années de plomb (Les)  
   * Belle  
   * Commissaire (La)  
+  * Européens (Les)  
   * Œdipe roi  
   * Trans-Europ-Express  
   * Vallée (La)
@@ -317,34 +317,65 @@
   * Homme de l'Ouest (L')  
   * Nouvelle vague
 
-## Robert Altman (26)
+## Robert Altman (57)
 
+  * Basements  
   * Beyond Therapy  
   * Brewster McCloud  
   * Buffalo Bill et les Indiens  
+  * Caine Mutiny Court-Martial (The)  
+  * Company  
+  * Cookie's Fortune  
+  * Countdown  
+  * Delinquents (The)  
+  * Docteur T et les femmes  
   * Flambeurs (Les)  
   * Fool for Love  
   * Gingerbread Man (The)  
+  * Gosford Park  
   * Health  
+  * Histoire de James Dean (L')  
+  * Honeymoon for Harriet  
   * Images  
+  * Jazz '34: Remembrances of Kansas City Swing  
   * John McCabe  
   * Kansas City  
   * Last Show (The)  
   * M*A*S*H  
+  * Model's Handbook (The)  
   * Nashville  
   * Nous sommes tous des voleurs  
   * O.C. and Stiggs  
+  * Perfect Crime (The)  
   * Player (The)  
   * Popeye  
+  * Prêt-à-porter  
   * Privé (Le)  
   * Quintet  
   * Reviens Jimmy Dean, reviens  
   * Secret Honor  
   * Short Cuts  
+  * Silent Thunder  
   * Streamers  
+  * Tanner '88, épisode 1 : The Dark Horse  
+  * Tanner '88, épisode 10 : The Boiler Room  
+  * Tanner '88, épisode 11 : The Reality Check  
+  * Tanner '88, épisode 2 : For Real  
+  * Tanner '88, épisode 3 : The Night of the Twinkies  
+  * Tanner '88, épisode 4 : Moonwalker and Bookbag  
+  * Tanner '88, épisode 5 : Bagels With Bruce  
+  * Tanner '88, épisode 6 : Child's Play  
+  * Tanner '88, épisode 7 : The Great Escape  
+  * Tanner '88, épisode 8 : The Girlfriend Factor  
+  * Tanner '88, épisode 9 : Something Borrowed, Something New  
+  * Tanner on Tanner  
+  * That Cold Day in the Park  
+  * The Young One  
+  * Together  
   * Trois femmes  
   * Un couple parfait  
-  * Un mariage
+  * Un mariage  
+  * Vincent et Théo
 
 ## Séances spéciales (2)
 
