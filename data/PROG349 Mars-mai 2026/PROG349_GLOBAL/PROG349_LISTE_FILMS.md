@@ -80,17 +80,18 @@
   * Angoisse du gardien de but au moment du penalty (L')  
   * Belle  
   * Commissaire (La)  
-  * Européens (Les)  
   * Œdipe roi  
   * Trans-Europ-Express  
-  * Vallée (La)
+  * Trois frères  
+  * Une belle fille comme moi
 
-## Histoire permanente du cinéma : les 90 ans de la Cinémathèque française (4)
+## Histoire permanente du cinéma : les 90 ans de la Cinémathèque française (5)
 
   * Atlantide (L')  
   * Dame du vendredi (La)  
   * Haute Pègre  
-  * Règle du jeu (La)
+  * Règle du jeu (La)  
+  * Yeux sans visage (Les)
 
 ## Ildikó Enyedi (11)
 
@@ -106,11 +107,10 @@
   * Tamás et Juli  
   * Vakond
 
-## Jean-François Stévenin (28)
+## Jean-François Stévenin (27)
 
   * À nous la victoire  
   * Argent de poche (L')  
-  * Barocco  
   * Capitaine Achab  
   * Chiens de guerre (Les)  
   * Chute libre  
@@ -316,7 +316,7 @@
   * Homme de l'Ouest (L')  
   * Nouvelle vague
 
-## Robert Altman (57)
+## Robert Altman (58)
 
   * Basements  
   * Beyond Therapy  
@@ -343,6 +343,7 @@
   * M*A*S*H  
   * Model's Handbook (The)  
   * Nashville  
+  * Nightmare in Chicago  
   * Nous sommes tous des voleurs  
   * O.C. and Stiggs  
   * Perfect Crime (The)  

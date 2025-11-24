@@ -2,22 +2,25 @@
   {
     "idCategorie": 4062,
     "typeEvenement": 13,
-    "idEvenement": 35478,
-    "idSeance": 206950,
+    "idEvenement": 35507,
+    "idSeance": 208718,
     "dateHeure": "2026-04-16T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "dureeSeance": 30,
-    "typeSeance": 44,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 41170,
-        "ordre": 1
+        "idFilm": 41208,
+        "ordre": 1,
+        "idSeance": 208718,
+        "idCopie": 31327,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "DCP"
       }
-    ],
-    "mention": "Ouverture de la rétrospective"
+    ]
   },
   {
     "idCategorie": 4062,
@@ -204,8 +207,8 @@
   {
     "idCategorie": 4062,
     "typeEvenement": 13,
-    "idEvenement": 35507,
-    "idSeance": 208571,
+    "idEvenement": 35478,
+    "idSeance": 208719,
     "dateHeure": "2026-04-23T18:30:00",
     "idSalle": [
       "GF",
@@ -214,13 +217,8 @@
     "dureeSeance": 30,
     "items": [
       {
-        "idFilm": 41208,
-        "ordre": 1,
-        "idSeance": 208571,
-        "idCopie": 31327,
-        "duree": 113,
-        "version": "VOSTF",
-        "format": "DCP"
+        "idFilm": 41170,
+        "ordre": 1
       }
     ]
   },
@@ -238,7 +236,12 @@
     "items": [
       {
         "idFilm": 41644,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 208558,
+        "idCopie": 31332,
+        "duree": 0,
+        "version": "",
+        "format": ""
       }
     ]
   },
@@ -328,7 +331,12 @@
     "items": [
       {
         "idFilm": 42910,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 207189,
+        "idCopie": 31335,
+        "duree": 102,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },
@@ -369,7 +377,12 @@
     "items": [
       {
         "idFilm": 29418,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 207207,
+        "idCopie": 31337,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -505,7 +518,12 @@
     "items": [
       {
         "idFilm": 91691,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 208635,
+        "idCopie": 31334,
+        "duree": 103,
+        "version": "VOSTA",
+        "format": "35 mm"
       }
     ]
   },
@@ -523,7 +541,12 @@
     "items": [
       {
         "idFilm": 103534,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 208636,
+        "idCopie": 31333,
+        "duree": 96,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },
@@ -541,7 +564,12 @@
     "items": [
       {
         "idFilm": 108057,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 207353,
+        "idCopie": 31336,
+        "duree": 119,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },
