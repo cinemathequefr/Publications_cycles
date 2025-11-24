@@ -29,31 +29,36 @@
     "idCategorie": 4091,
     "typeEvenement": 13,
     "idEvenement": 35736,
-    "idSeance": 208659,
+    "idSeance": 208731,
     "dateHeure": "2026-04-23T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "dureeSeance": 105,
+    "dureeSeance": 135,
     "items": [
       {
         "idFilm": 128525,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 208731,
+        "idCopie": 31348,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "Vidéo"
       },
       {
         "idFilm": 128527,
         "ordre": 2,
-        "idSeance": 208659,
-        "idCopie": 31307,
+        "idSeance": 208731,
+        "idCopie": 31349,
         "duree": 26,
-        "version": "VO",
-        "format": "16 mm"
+        "version": "VOSTF",
+        "format": "Vidéo"
       },
       {
         "idFilm": 128528,
         "ordre": 3,
-        "idSeance": 208659,
+        "idSeance": 208731,
         "idCopie": 31283,
         "duree": 50,
         "version": "VO",
@@ -66,7 +71,7 @@
     "typeEvenement": 13,
     "idEvenement": 35215,
     "idSeance": 207114,
-    "dateHeure": "2026-04-23T20:30:00",
+    "dateHeure": "2026-04-23T20:45:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -393,7 +398,7 @@
     "typeEvenement": 13,
     "idEvenement": 29792,
     "idSeance": 207364,
-    "dateHeure": "2026-05-03T17:00:00",
+    "dateHeure": "2026-05-03T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -416,7 +421,7 @@
     "typeEvenement": 13,
     "idEvenement": 29794,
     "idSeance": 207365,
-    "dateHeure": "2026-05-03T20:00:00",
+    "dateHeure": "2026-05-03T20:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -563,7 +568,12 @@
     "items": [
       {
         "idFilm": 30205,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 208575,
+        "idCopie": 21939,
+        "duree": 118,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -650,7 +660,12 @@
     "items": [
       {
         "idFilm": 30209,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 207514,
+        "idCopie": 26433,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -714,7 +729,12 @@
     "items": [
       {
         "idFilm": 45361,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 207533,
+        "idCopie": 31354,
+        "duree": 93,
+        "version": "VO",
+        "format": "35 mm"
       }
     ]
   },

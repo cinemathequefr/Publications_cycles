@@ -3,6 +3,55 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Festival Entrevues Belfort 2025",
+      "texteSousCycle": "Créé par Janine Bazin en 1986, Entrevues Belfort est un festival dédié à la jeune création contemporaine et à l'histoire du cinéma. La Compétition internationale est consacrée aux 1er, 2e et 3e films. Les deux Grands Prix 2025 – long et court métrage- de la 40e édition (17-23 novembre) seront présentés en avant-première et en présence des cinéastes (sous réserve). Détail de la programmation à partir du 24 novembre sur www.cinematheque.fr",
+      "items": [
+        {
+          "idEvenement": 35775,
+          "content": [
+            {
+              "idFilm": 155620,
+              "ordre": 1,
+              "titre": "Anoche conquisté Tebas",
+              "realisateurs": "Gabriel Azorín",
+              "pays": "Espagne-Portugal",
+              "annee": 2025,
+              "duree": 110,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Santiago Mateus",
+                "António Gouveia",
+                "Oussama Asfaraah"
+              ],
+              "miniTexte": "Un froid après-midi d'automne, Antonio et Jota reviennent du front avec leurs amis, à la recherche de thermes datant de la Rome antique. Alors que les thermes refont surface, les eaux semblent exercer une influence sur l'humeur des hommes, leur donnant le courage de dire ce qu'ils n'ont jamais révélé à quiconque."
+            },
+            {
+              "idFilm": 155619,
+              "ordre": 2,
+              "titre": "Sweetie",
+              "realisateurs": "Zoé Filloux",
+              "pays": "France",
+              "annee": 2025,
+              "duree": 0,
+              "version": "",
+              "format": "DCP",
+              "miniTexte": "« Dans les coulisses étroits d'un théâtre érotique parisien, des femmes se préparent pour leur strip-tease. Mon amie Dona débute dans ce métier entourée de ses nouvelles collègues. »"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 198316,
+              "dateHeure": "2025-12-01T19:00:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Cécile Cadoux"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Carte blanche à la revue Blink Blank",
       "texteSousCycle": "Contes fantastiques, récit d'un amour oublié, évocation de souvenirs sensoriels : la revue du cinéma d'animation _Blink Blank_ vient fêter son nouveau numéro avec la projection de quatre courts métrages très stimulants.",
       "items": [
@@ -684,7 +733,12 @@
         "dateHeure": "2026-03-09T19:00:00"
       }
     ],
-    "Séance présentée": [
+    "Séances présentées": [
+      {
+        "titreFilms": "Anoche conquisté Tebas / Sweetie",
+        "mention": "par Cécile Cadoux",
+        "dateHeure": "2025-12-01T19:00:00"
+      },
       {
         "titreFilms": "Les Bottes de la nuit / La Jeune Fille qui pleurait des perles / Luna Rossa / Sulaimani",
         "mention": "par Jacques Kermabon",

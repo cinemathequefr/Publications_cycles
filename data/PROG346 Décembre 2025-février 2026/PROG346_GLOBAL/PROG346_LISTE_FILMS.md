@@ -42,9 +42,10 @@
   * Herbes folles (Les)  
   * Impératrice (L')
 
-## Aujourd'hui le cinéma (26)
+## Aujourd'hui le cinéma (28)
 
   * +10K  
+  * Anoche conquisté Tebas  
   * Bel companho  
   * Bottes de la nuit (Les)  
   * Candyman  
@@ -69,6 +70,7 @@
   * QR code de Frankeasy (Le)  
   * Star  
   * Sulaimani  
+  * Sweetie  
   * Twelve Tales Told
 
 ## Ciné-club de Murielle Joudet (3)

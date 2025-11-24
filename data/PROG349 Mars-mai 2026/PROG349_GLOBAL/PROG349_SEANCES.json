@@ -1,6 +1,6 @@
 [
   {
-    "idSeance": 206263,
+    "idSeance": 208746,
     "idEvenement": 35671,
     "dateHeure": "2026-03-18T15:00:00",
     "salle": "GF",
@@ -442,7 +442,7 @@
     "hashEvenement": "f93060"
   },
   {
-    "idSeance": 206390,
+    "idSeance": 208747,
     "idEvenement": 35671,
     "dateHeure": "2026-03-22T15:00:00",
     "salle": "GF",
@@ -640,8 +640,8 @@
     "hashEvenement": "f66195"
   },
   {
-    "idSeance": 206426,
-    "idEvenement": 35686,
+    "idSeance": 208748,
+    "idEvenement": 35687,
     "dateHeure": "2026-03-25T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -652,14 +652,17 @@
     ],
     "items": [
       {
-        "idFilm": 34427,
-        "titre": "Secret de la pyramide",
+        "idFilm": 31135,
+        "titre": "Magicien d'Oz",
         "art": "Le",
-        "realisateurs": "Barry Levinson",
-        "annee": 1985
+        "realisateurs": "Victor Fleming",
+        "annee": 1939,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f34427"
+    "hashEvenement": "f31135"
   },
   {
     "idSeance": 208426,
@@ -1186,8 +1189,8 @@
     "hashEvenement": "f48872c35584"
   },
   {
-    "idSeance": 206553,
-    "idEvenement": 35687,
+    "idSeance": 208749,
+    "idEvenement": 35686,
     "dateHeure": "2026-03-29T15:00:00",
     "salle": "GF",
     "cycle": [
@@ -1198,17 +1201,14 @@
     ],
     "items": [
       {
-        "idFilm": 31135,
-        "titre": "Magicien d'Oz",
+        "idFilm": 34427,
+        "titre": "Secret de la pyramide",
         "art": "Le",
-        "realisateurs": "Victor Fleming",
-        "annee": 1939,
-        "duree": 100,
-        "version": "VOSTF",
-        "format": "DCP"
+        "realisateurs": "Barry Levinson",
+        "annee": 1985
       }
     ],
-    "hashEvenement": "f31135"
+    "hashEvenement": "f34427"
   },
   {
     "idSeance": 206552,
@@ -1387,7 +1387,7 @@
     "hashEvenement": "f43885"
   },
   {
-    "idSeance": 208564,
+    "idSeance": 208750,
     "idEvenement": 35673,
     "dateHeure": "2026-04-01T15:00:00",
     "salle": "GF",
@@ -1402,7 +1402,10 @@
         "idFilm": 106786,
         "titre": "Ponyo sur la falaise",
         "realisateurs": "Hayao Miyazaki",
-        "annee": 2008
+        "annee": 2008,
+        "duree": 100,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f106786"
@@ -1942,7 +1945,7 @@
     "hashEvenement": "f43624"
   },
   {
-    "idSeance": 206716,
+    "idSeance": 208751,
     "idEvenement": 35672,
     "dateHeure": "2026-04-05T15:00:00",
     "salle": "GF",
@@ -1958,35 +1961,13 @@
         "titre": "Temps modernes",
         "art": "Les",
         "realisateurs": "Charles Chaplin",
-        "annee": 1935
+        "annee": 1935,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f31066"
-  },
-  {
-    "idSeance": 206712,
-    "idEvenement": 35341,
-    "dateHeure": "2026-04-05T17:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Le cinéma italien des années de plomb",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 43730,
-        "titre": "Ecce bombo",
-        "realisateurs": "Nanni Moretti",
-        "annee": 1978,
-        "duree": 103,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f43730"
   },
   {
     "idSeance": 208430,
@@ -2014,9 +1995,9 @@
     "hashEvenement": "f39910"
   },
   {
-    "idSeance": 206713,
-    "idEvenement": 35311,
-    "dateHeure": "2026-04-05T19:15:00",
+    "idSeance": 206712,
+    "idEvenement": 35341,
+    "dateHeure": "2026-04-05T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -2026,17 +2007,17 @@
     ],
     "items": [
       {
-        "idFilm": 60788,
-        "titre": "Milan calibre 9",
-        "realisateurs": "Fernando Di Leo",
-        "annee": 1971,
-        "duree": 102,
+        "idFilm": 43730,
+        "titre": "Ecce bombo",
+        "realisateurs": "Nanni Moretti",
+        "annee": 1978,
+        "duree": 103,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f60788"
+    "hashEvenement": "f43730"
   },
   {
     "idSeance": 208432,
@@ -2062,6 +2043,31 @@
       }
     ],
     "hashEvenement": "f44812"
+  },
+  {
+    "idSeance": 206713,
+    "idEvenement": 35311,
+    "dateHeure": "2026-04-05T20:15:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le cinéma italien des années de plomb",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 60788,
+        "titre": "Milan calibre 9",
+        "realisateurs": "Fernando Di Leo",
+        "annee": 1971,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f60788"
   },
   {
     "idSeance": 206757,
@@ -2739,7 +2745,7 @@
     "hashEvenement": "f60013"
   },
   {
-    "idSeance": 206915,
+    "idSeance": 208752,
     "idEvenement": 35689,
     "dateHeure": "2026-04-15T15:00:00",
     "salle": "GF",
@@ -2754,7 +2760,10 @@
         "idFilm": 102426,
         "titre": "Ratatouille",
         "realisateurs": "Brad Bird",
-        "annee": 2007
+        "annee": 2007,
+        "duree": 110,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f102426"
@@ -2952,7 +2961,7 @@
     "hashEvenement": "f39292"
   },
   {
-    "idSeance": 208569,
+    "idSeance": 208726,
     "idEvenement": 35495,
     "dateHeure": "2026-04-17T18:00:00",
     "salle": "HL",
@@ -3165,7 +3174,7 @@
     "hashEvenement": "f44134"
   },
   {
-    "idSeance": 207023,
+    "idSeance": 208727,
     "idEvenement": 35483,
     "dateHeure": "2026-04-18T20:30:00",
     "salle": "HL",
@@ -3214,7 +3223,7 @@
     "hashEvenement": "f35698"
   },
   {
-    "idSeance": 208553,
+    "idSeance": 208728,
     "idEvenement": 35492,
     "dateHeure": "2026-04-19T14:30:00",
     "salle": "HL",
@@ -3238,7 +3247,7 @@
     "hashEvenement": "f131577"
   },
   {
-    "idSeance": 207042,
+    "idSeance": 208753,
     "idEvenement": 35670,
     "dateHeure": "2026-04-19T15:00:00",
     "salle": "GF",
@@ -3254,15 +3263,18 @@
         "titre": "Homme qui rétrécit",
         "art": "L'",
         "realisateurs": "Jack Arnold",
-        "annee": 1956
+        "annee": 1956,
+        "duree": 81,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f29869"
   },
   {
-    "idSeance": 207021,
+    "idSeance": 208729,
     "idEvenement": 35488,
-    "dateHeure": "2026-04-19T16:30:00",
+    "dateHeure": "2026-04-19T16:45:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3307,7 +3319,7 @@
   {
     "idSeance": 207039,
     "idEvenement": 35260,
-    "dateHeure": "2026-04-19T18:30:00",
+    "dateHeure": "2026-04-19T19:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3334,7 +3346,7 @@
     "hashEvenement": "f33168"
   },
   {
-    "idSeance": 208453,
+    "idSeance": 208730,
     "idEvenement": 35497,
     "dateHeure": "2026-04-19T20:00:00",
     "salle": "GF",
@@ -3360,7 +3372,7 @@
   {
     "idSeance": 208455,
     "idEvenement": 35251,
-    "dateHeure": "2026-04-19T20:30:00",
+    "dateHeure": "2026-04-19T21:00:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3612,7 +3624,7 @@
     "hashEvenement": "f41170"
   },
   {
-    "idSeance": 208659,
+    "idSeance": 208731,
     "idEvenement": 35736,
     "dateHeure": "2026-04-23T18:30:00",
     "salle": "JE",
@@ -3627,7 +3639,10 @@
         "idFilm": 128525,
         "titre": "The Young One",
         "realisateurs": "Robert Altman",
-        "annee": 1957
+        "annee": 1957,
+        "duree": 26,
+        "version": "VOSTF",
+        "format": "Vidéo"
       },
       {
         "idFilm": 128527,
@@ -3635,8 +3650,8 @@
         "realisateurs": "Robert Altman",
         "annee": 1958,
         "duree": 26,
-        "version": "VO",
-        "format": "16 mm"
+        "version": "VOSTF",
+        "format": "Vidéo"
       },
       {
         "idFilm": 128528,
@@ -3713,7 +3728,7 @@
   {
     "idSeance": 207114,
     "idEvenement": 35215,
-    "dateHeure": "2026-04-23T20:30:00",
+    "dateHeure": "2026-04-23T20:45:00",
     "salle": "JE",
     "cycle": [
       [
@@ -4042,7 +4057,7 @@
     "hashEvenement": "f30204"
   },
   {
-    "idSeance": 207189,
+    "idSeance": 208732,
     "idEvenement": 35489,
     "dateHeure": "2026-04-25T20:30:00",
     "salle": "GF",
@@ -4100,7 +4115,7 @@
     "hashEvenement": "f30210c35588"
   },
   {
-    "idSeance": 207205,
+    "idSeance": 208754,
     "idEvenement": 35445,
     "dateHeure": "2026-04-26T15:00:00",
     "salle": "GF",
@@ -4176,7 +4191,7 @@
     "hashEvenement": "f30213"
   },
   {
-    "idSeance": 207207,
+    "idSeance": 208733,
     "idEvenement": 35493,
     "dateHeure": "2026-04-26T20:15:00",
     "salle": "GF",
@@ -4273,7 +4288,7 @@
     "hashEvenement": "f68644"
   },
   {
-    "idSeance": 207216,
+    "idSeance": 208734,
     "idEvenement": 35494,
     "dateHeure": "2026-04-27T20:30:00",
     "salle": "GF",
@@ -4408,7 +4423,7 @@
     "hashEvenement": "f155597f51338"
   },
   {
-    "idSeance": 208560,
+    "idSeance": 208736,
     "idEvenement": 35503,
     "dateHeure": "2026-04-29T20:45:00",
     "salle": "GF",
@@ -4517,7 +4532,7 @@
     "hashEvenement": "f53484"
   },
   {
-    "idSeance": 207275,
+    "idSeance": 208735,
     "idEvenement": 35498,
     "dateHeure": "2026-04-30T18:30:00",
     "salle": "HL",
@@ -4698,7 +4713,7 @@
     "hashEvenement": "f99030f100478f100481f100477"
   },
   {
-    "idSeance": 208635,
+    "idSeance": 208739,
     "idEvenement": 35487,
     "dateHeure": "2026-05-02T15:00:00",
     "salle": "JE",
@@ -4782,7 +4797,7 @@
     "hashEvenement": "f99026f155599f99025f63325f99027"
   },
   {
-    "idSeance": 208636,
+    "idSeance": 208740,
     "idEvenement": 35484,
     "dateHeure": "2026-05-02T17:30:00",
     "salle": "JE",
@@ -4831,7 +4846,7 @@
     "hashEvenement": "f30220"
   },
   {
-    "idSeance": 207353,
+    "idSeance": 208741,
     "idEvenement": 35491,
     "dateHeure": "2026-05-02T20:00:00",
     "salle": "JE",
@@ -4907,7 +4922,7 @@
   {
     "idSeance": 207364,
     "idEvenement": 29792,
-    "dateHeure": "2026-05-03T17:00:00",
+    "dateHeure": "2026-05-03T16:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -4927,7 +4942,7 @@
     "hashEvenement": "f30258"
   },
   {
-    "idSeance": 208637,
+    "idSeance": 208738,
     "idEvenement": 35486,
     "dateHeure": "2026-05-03T17:30:00",
     "salle": "GF",
@@ -4972,9 +4987,9 @@
     "hashEvenement": "f48461"
   },
   {
-    "idSeance": 208638,
+    "idSeance": 208737,
     "idEvenement": 35502,
-    "dateHeure": "2026-05-03T19:30:00",
+    "dateHeure": "2026-05-03T19:45:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4998,7 +5013,7 @@
   {
     "idSeance": 207365,
     "idEvenement": 29794,
-    "dateHeure": "2026-05-03T20:00:00",
+    "dateHeure": "2026-05-03T20:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -5114,7 +5129,7 @@
     "hashEvenement": "f56151"
   },
   {
-    "idSeance": 207404,
+    "idSeance": 208755,
     "idEvenement": 35692,
     "dateHeure": "2026-05-06T15:00:00",
     "salle": "GF",
@@ -5130,7 +5145,8 @@
         "titre": "Contes de la mère poule : Shangoul et Mangoul",
         "art": "Les",
         "realisateurs": "Farkhondeh Torabi, Morteza Ahadi Sarkani",
-        "annee": 2000
+        "annee": 2000,
+        "duree": 46
       }
     ],
     "hashEvenement": "f75883"
@@ -5386,7 +5402,10 @@
         "idFilm": 30205,
         "titre": "Streamers",
         "realisateurs": "Robert Altman",
-        "annee": 1983
+        "annee": 1983,
+        "duree": 118,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f30205"
@@ -5681,7 +5700,10 @@
         "idFilm": 30209,
         "titre": "Secret Honor",
         "realisateurs": "Robert Altman",
-        "annee": 1984
+        "annee": 1984,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f30209"
@@ -5810,7 +5832,35 @@
     "hashEvenement": "f77121c35652"
   },
   {
-    "idSeance": 208639,
+    "idSeance": 207531,
+    "idEvenement": 35268,
+    "dateHeure": "2026-05-10T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marilyn Monroe",
+        "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 36908,
+        "titre": "Certains l'aiment chaud",
+        "realisateurs": "Billy Wilder",
+        "annee": 1959,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f36908"
+  },
+  {
+    "idSeance": 208742,
     "idEvenement": 35501,
     "dateHeure": "2026-05-10T15:00:00",
     "salle": "JE",
@@ -5921,7 +5971,10 @@
         "idFilm": 45361,
         "titre": "Beyond Therapy",
         "realisateurs": "Robert Altman",
-        "annee": 1987
+        "annee": 1987,
+        "duree": 93,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f45361"
@@ -6046,7 +6099,7 @@
     "hashEvenement": "f29279"
   },
   {
-    "idSeance": 207567,
+    "idSeance": 208756,
     "idEvenement": 35693,
     "dateHeure": "2026-05-13T15:00:00",
     "salle": "GF",
@@ -6061,7 +6114,10 @@
         "idFilm": 59988,
         "titre": "Babe, le cochon devenu berger",
         "realisateurs": "Chris Noonan",
-        "annee": 1994
+        "annee": 1994,
+        "duree": 89,
+        "version": "VF",
+        "format": "DCP"
       }
     ],
     "hashEvenement": "f59988"
@@ -6088,7 +6144,7 @@
     "hashEvenement": "f48011"
   },
   {
-    "idSeance": 208640,
+    "idSeance": 208743,
     "idEvenement": 35500,
     "dateHeure": "2026-05-13T18:30:00",
     "salle": "JE",
@@ -6172,9 +6228,9 @@
     "hashEvenement": "f47446"
   },
   {
-    "idSeance": 208641,
+    "idSeance": 208744,
     "idEvenement": 35700,
-    "dateHeure": "2026-05-13T20:30:00",
+    "dateHeure": "2026-05-13T20:45:00",
     "salle": "JE",
     "cycle": [
       [
@@ -6669,7 +6725,7 @@
     "hashEvenement": "f54853"
   },
   {
-    "idSeance": 207678,
+    "idSeance": 208745,
     "idEvenement": 35386,
     "dateHeure": "2026-05-16T19:30:00",
     "salle": "GF",
@@ -6737,6 +6793,35 @@
       }
     ],
     "hashEvenement": "f45099"
+  },
+  {
+    "idSeance": 207694,
+    "idEvenement": 35260,
+    "dateHeure": "2026-05-17T15:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Marilyn Monroe",
+        "Les films"
+      ],
+      [
+        "Ma petite Cinémathèque",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 33168,
+        "titre": "Hommes préfèrent les blondes",
+        "art": "Les",
+        "realisateurs": "Howard Hawks",
+        "annee": 1953,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f33168"
   },
   {
     "idSeance": 208588,
@@ -6976,7 +7061,7 @@
     "hashEvenement": "f30396"
   },
   {
-    "idSeance": 207730,
+    "idSeance": 208757,
     "idEvenement": 35695,
     "dateHeure": "2026-05-20T15:00:00",
     "salle": "GF",
@@ -6992,7 +7077,9 @@
         "titre": "Table tournante",
         "art": "La",
         "realisateurs": "Paul Grimault, Jacques Demy",
-        "annee": 1988
+        "annee": 1988,
+        "duree": 80,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f54743"
@@ -7545,7 +7632,7 @@
   {
     "idSeance": 208608,
     "idEvenement": 35403,
-    "dateHeure": "2026-05-23T17:00:00",
+    "dateHeure": "2026-05-23T17:15:00",
     "salle": "HL",
     "cycle": [
       [
@@ -7646,7 +7733,7 @@
     "hashEvenement": "f50224"
   },
   {
-    "idSeance": 207857,
+    "idSeance": 208758,
     "idEvenement": 35696,
     "dateHeure": "2026-05-24T15:00:00",
     "salle": "GF",
@@ -7662,7 +7749,9 @@
         "titre": "Petit chat curieux",
         "art": "Le",
         "realisateurs": "Tsuneo Goda",
-        "annee": 2006
+        "annee": 2006,
+        "duree": 60,
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f107481"

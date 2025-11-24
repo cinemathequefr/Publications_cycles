@@ -1,5 +1,38 @@
 [
   {
+    "idCategorie": 4022,
+    "typeEvenement": 13,
+    "idEvenement": 35775,
+    "idSeance": 198316,
+    "dateHeure": "2025-12-01T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 30,
+    "items": [
+      {
+        "idFilm": 155620,
+        "ordre": 1,
+        "idSeance": 198316,
+        "idCopie": 31350,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155619,
+        "ordre": 2,
+        "idSeance": 198316,
+        "idCopie": 31353,
+        "duree": 0,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Cécile Cadoux"
+  },
+  {
     "idCategorie": 3987,
     "typeEvenement": 13,
     "idEvenement": 34576,
@@ -412,8 +445,5 @@
       }
     ],
     "mention": "Séance suivie d'une discussion avec Isabel Pagliai"
-  },
-  {
-    "mention": "Séance présentée par Cécile Cadoux"
   }
 ]
