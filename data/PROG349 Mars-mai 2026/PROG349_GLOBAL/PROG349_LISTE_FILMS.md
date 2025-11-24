@@ -24,10 +24,9 @@
   * Je veux voir (bande-annonce)  
   * West Beyrouth (bande-annonce)
 
-## Greta Garbo (21)
+## Greta Garbo (20)
 
   * Anna Christie  
-  * Anna Karenine  
   * Anna Karénine  
   * Baiser (Le)  
   * Belle Ténébreuse (La)  
@@ -36,16 +35,16 @@
   * Courtisane (La)  
   * Droit d'aimer (Le)  
   * Femme aux deux visages (La)  
+  * Femme divine (La)  
   * Grand Hotel  
   * Inspiratrice (L')  
   * Intrigues  
   * Marie Walewska  
-  * Mata-Hari  
+  * Mata Hari  
   * Ninotchka  
   * Roman de Marguerite Gautier (Le)  
   * Tentatrice (La)  
   * Torrent (Le)  
-  * Une femme divine  
   * Voile des illusions (Le)
 
 ## Harold Lloyd (24)
