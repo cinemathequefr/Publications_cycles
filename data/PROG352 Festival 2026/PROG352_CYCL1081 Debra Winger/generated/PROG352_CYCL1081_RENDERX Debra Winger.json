@@ -1,6 +1,6 @@
 {
   "datesCycle": [
-    "2026-03-13T19:00:00",
+    "2026-03-11T14:00:00",
     "2026-03-15T14:30:00"
   ],
   "textePresentation": "",
@@ -9,6 +9,30 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 32999,
+          "content": [
+            {
+              "idFilm": 32999,
+              "ordre": 1,
+              "titre": "Officier et gentleman",
+              "titreVo": "An Officer and a Gentleman",
+              "realisateurs": "Taylor Hackford",
+              "pays": "États-Unis",
+              "annee": 1981,
+              "duree": 124,
+              "version": "",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208698,
+              "dateHeure": "2026-03-11T14:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
         {
           "idFilm": 31015,
           "content": [
@@ -48,7 +72,7 @@
               "annee": 1990,
               "duree": 138,
               "version": "VOSTF",
-              "format": "70 mm",
+              "format": "35 mm",
               "adaptation": "D'après le roman _Un thé au Sahara_ de Paul Bowles.",
               "generique": [
                 "Debra Winger",
@@ -62,6 +86,38 @@
               "idSeance": 208682,
               "dateHeure": "2026-03-15T14:30:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 35873,
+          "content": [
+            {
+              "idFilm": 35873,
+              "ordre": 1,
+              "titre": "Veuve noire",
+              "art": "La",
+              "titreVo": "Black Widow",
+              "realisateurs": "Bob Rafelson",
+              "pays": "États-Unis",
+              "annee": 1987,
+              "duree": 102,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Debra Winger",
+                "Theresa Russell",
+                "Sami Frey"
+              ],
+              "isFocus": true,
+              "miniTexte": "Une agente fédérale enquête sur la mort suspecte et rapprochée de trois riches industriels, qui ont légué leur fortune à la même femme. Sur fond d'investigation policière, Rafelson compose un jeu du chat et de la souris entre deux égéries des années 80, la blonde Theresa Russell et la brune Debra Winger. Fait d'esquives, d'érotisme soft et de stratagèmes inventifs, leur affrontement s'accorde avec la mise en scène élégante, où le cinéaste multiplie les rebondissements dans une Floride de carte postale."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208165,
+              "dateHeure": "2026-03-14T18:30:00",
+              "idSalle": "GF"
             }
           ]
         }

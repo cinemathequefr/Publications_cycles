@@ -1,25 +1,36 @@
 # Liste des films par cycle
 
-## Carte blanche à Naoum Kleiman (1)
+## Carte blanche à Naoum Kleiman (3)
 
+  * Alenka  
+  * Okraïna  
   * ¡Que viva México!
 
-## Debra Winger (2)
+## Debra Winger (4)
 
+  * Officier et gentleman  
   * Tendres passions  
-  * Un thé au Sahara
+  * Un thé au Sahara  
+  * Veuve noire (La)
 
-## John Badham (4)
+## John Badham (5)
 
   * Étroite surveillance  
   * Fièvre du samedi soir (La)  
+  * Meurtre en suspens  
   * Tonnerre de feu  
   * WarGames
 
-## Restaurations et incunables (15)
+## Les 50 ans de la Kadokawa (2)
+
+  * Famille Inugami (La)  
+  * Sailor Suit and Machine Gun
+
+## Restaurations et incunables (18)
 
   * Charade  
-  * Charlot soldat  
+  * Dune  
+  * Fard de Ginza (Le)  
   * Fresh Vegetable Mystery (The)  
   * Greedy Humpty Dumpty  
   * Koko's Tattoo  
@@ -27,9 +38,15 @@
   * Little Stranger (The)  
   * Peeping Penguins  
   * Performance  
-  * Produits de beauté de Ginza (Les)  
+  * Pierre ou les ambiguïtés  
+  * Prière aux étoiles (La)  
   * Rencontres du troisième type  
+  * Sans titre  
   * So Does an Automobile  
   * Soldier Man  
   * Till We Meet Again  
-  * Vol au-dessus d'un nid de coucou  
+  * Vol au-dessus d'un nid de coucou
+
+## Robert Bober (1)
+
+  * Récits d'Ellis Island  

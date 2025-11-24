@@ -448,7 +448,7 @@
   * Écoutez les grondements de l'océan  
   * Étoiles  
   * Fantozzi  
-  * Feux dans la plaine (Les)  
+  * Feux dans la plaine  
   * Filles (Les)  
   * Histoires de fantômes chinois  
   * Intrus magnifique (L')  

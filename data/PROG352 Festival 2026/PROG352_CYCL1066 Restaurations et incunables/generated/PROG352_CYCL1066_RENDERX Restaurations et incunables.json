@@ -18,7 +18,7 @@
               "titre": "Charade",
               "realisateurs": "Stanley Donen",
               "pays": "États-Unis",
-              "annee": 1962,
+              "annee": 1963,
               "duree": 113,
               "version": "VOSTF",
               "format": "DCP",
@@ -37,6 +37,67 @@
             {
               "idSeance": 208194,
               "dateHeure": "2026-03-12T14:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idFilm": 34861,
+          "content": [
+            {
+              "idFilm": 34861,
+              "ordre": 1,
+              "titre": "Dune",
+              "realisateurs": "David Lynch",
+              "pays": "États-Unis",
+              "annee": 1984,
+              "duree": 140,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "adaptation": "D'après la saga _Dune_ de Frank Herbert.",
+              "generique": [
+                "Kyle MacLachlan",
+                "Francesca Annis",
+                "Leonardo Cimino"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208232,
+              "dateHeure": "2026-03-13T18:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idFilm": 91069,
+          "content": [
+            {
+              "idFilm": 91069,
+              "ordre": 1,
+              "titre": "Fard de Ginza",
+              "art": "Le",
+              "titreVo": "Ginza keshō",
+              "realisateurs": "Mikio Naruse",
+              "pays": "Japon",
+              "annee": 1951,
+              "duree": 87,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Kinuyo Tanaka",
+                "Ranko Hanai",
+                "Kyōko Kagawa"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208266,
+              "dateHeure": "2026-03-14T14:30:00",
               "idSalle": "HL"
             }
           ]
@@ -71,33 +132,27 @@
           ]
         },
         {
-          "idFilm": 91069,
+          "idFilm": 50515,
           "content": [
             {
-              "idFilm": 91069,
+              "idFilm": 50515,
               "ordre": 1,
-              "titre": "Produits de beauté de Ginza",
-              "art": "Les",
-              "titreVo": "Ginza gesho",
-              "realisateurs": "Mikio Naruse",
-              "pays": "Japon",
-              "annee": 1951,
-              "duree": 87,
-              "version": "VOSTF",
+              "titre": "Prière aux étoiles",
+              "art": "La",
+              "realisateurs": "Marcel Pagnol",
+              "pays": "France",
+              "annee": 1941,
+              "duree": 85,
+              "version": "",
               "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Kinuyo Tanaka",
-                "Ranko Hanai",
-                "Yûji Hori"
-              ]
+              "restauration": true
             }
           ],
           "seances": [
             {
-              "idSeance": 208266,
-              "dateHeure": "2026-03-14T14:30:00",
-              "idSalle": "HL"
+              "idSeance": 208290,
+              "dateHeure": "2026-03-15T18:00:00",
+              "idSalle": "GF"
             }
           ]
         },
@@ -132,6 +187,47 @@
           ]
         },
         {
+          "idEvenement": 35617,
+          "content": [
+            {
+              "idFilm": 63219,
+              "ordre": 1,
+              "titre": "Sans titre",
+              "realisateurs": "Leos Carax",
+              "pays": "France",
+              "annee": 1997,
+              "duree": 9,
+              "version": "",
+              "format": "DCP",
+              "restauration": true
+            },
+            {
+              "idFilm": 132713,
+              "ordre": 2,
+              "titre": "Pierre ou les ambiguïtés",
+              "realisateurs": "Leos Carax",
+              "pays": "France",
+              "annee": 2001,
+              "duree": 180,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Guillaume Depardieu",
+                "Catherine Deneuve",
+                "Laurent Lucas"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208289,
+              "dateHeure": "2026-03-15T14:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 79920,
           "content": [
             {
@@ -153,7 +249,7 @@
           "seances": [
             {
               "idSeance": 208272,
-              "dateHeure": "2026-03-12T20:30:00",
+              "dateHeure": "2026-03-12T18:00:00",
               "idSalle": "GF"
             }
           ]
@@ -301,7 +397,7 @@
       "titreSousCycle": "Clôture du festival",
       "items": [
         {
-          "idEvenement": 35763,
+          "idFilm": 155613,
           "content": [
             {
               "idFilm": 155613,
@@ -316,21 +412,6 @@
               "restauration": true,
               "generique": [
                 "Harry Langdon"
-              ]
-            },
-            {
-              "idFilm": 30981,
-              "ordre": 2,
-              "titre": "Charlot soldat",
-              "titreVo": "Shoulder Arms",
-              "realisateurs": "Charles Chaplin",
-              "pays": "États-Unis",
-              "annee": 1918,
-              "ageMinimal": 6,
-              "generique": [
-                "Charles Chaplin",
-                "Edna Purviance",
-                "Syd Chaplin"
               ]
             }
           ],
