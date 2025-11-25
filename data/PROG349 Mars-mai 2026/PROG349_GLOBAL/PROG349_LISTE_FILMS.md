@@ -36,7 +36,7 @@
   * Droit d'aimer (Le)  
   * Femme aux deux visages (La)  
   * Femme divine (La)  
-  * Grand Hotel  
+  * Grand Hôtel  
   * Inspiratrice (L')  
   * Intrigues  
   * Marie Walewska  

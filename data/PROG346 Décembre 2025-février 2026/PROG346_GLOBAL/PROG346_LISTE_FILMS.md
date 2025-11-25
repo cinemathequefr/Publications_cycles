@@ -398,7 +398,7 @@
 
 ## Panorama du cinéma indonésien (10)
 
-  * 3 Days to Eternity  
+  * 3 Days to Forever  
   * Benyamin biang kerok  
   * Esclaves de Satan (Les)  
   * Feuille sur un oreiller  
