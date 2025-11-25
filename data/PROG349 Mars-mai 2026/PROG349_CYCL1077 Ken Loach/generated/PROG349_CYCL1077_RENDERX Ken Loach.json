@@ -586,33 +586,49 @@
           ]
         },
         {
-          "idFilm": 116303,
-          "content": [
+          "groupe": [
             {
               "idFilm": 116303,
-              "ordre": 1,
-              "titre": "Part des anges",
-              "art": "La",
-              "titreVo": "Angels' Share",
-              "artVo": "The",
-              "realisateurs": "Ken Loach",
-              "pays": "Grande-Bretagne-France-Belgique-Italie",
-              "annee": 2012,
-              "duree": 106,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Paul Brannigan",
-                "John Henshaw",
-                "Gary Maitland"
+              "content": [
+                {
+                  "idFilm": 116303,
+                  "ordre": 1,
+                  "titre": "Part des anges",
+                  "art": "La",
+                  "titreVo": "Angels' Share",
+                  "artVo": "The",
+                  "realisateurs": "Ken Loach",
+                  "pays": "Grande-Bretagne-France-Belgique-Italie",
+                  "annee": 2012,
+                  "duree": 106,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Paul Brannigan",
+                    "John Henshaw",
+                    "Gary Maitland"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 208726,
-              "dateHeure": "2026-04-17T18:00:00",
-              "idSalle": "HL"
+              "idEvenement": 35580,
+              "content": [
+                {
+                  "idConf": 35580,
+                  "ordre": 2,
+                  "titre": "Leçon de cinéma",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208726,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-04-17T18:00:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -911,5 +927,13 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Dialogue": [
+      {
+        "titreFilms": "La Part des anges",
+        "mention": "Leçon de cinéma",
+        "dateHeure": "2026-04-17T18:00:00"
+      }
+    ]
+  }
 }

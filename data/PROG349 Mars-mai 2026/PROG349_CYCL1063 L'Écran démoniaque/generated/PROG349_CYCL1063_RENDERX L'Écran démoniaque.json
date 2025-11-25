@@ -73,35 +73,62 @@
           ]
         },
         {
-          "idFilm": 41117,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 35581,
+              "content": [
+                {
+                  "idConf": 35581,
+                  "titre": "Conférence de Tamara Eble",
+                  "sousTitre": "Conférence ",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208475,
+                  "idSeanceAssoc": 208525,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-03-26T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 41117,
-              "ordre": 1,
-              "titre": "Cabinet du docteur Caligari",
-              "art": "Le",
-              "titreVo": "Kabinett des Dr. Caligari",
-              "artVo": "Das",
-              "realisateurs": "Robert Wiene",
-              "pays": "Allemagne",
-              "annee": 1920,
-              "duree": 78,
-              "version": "INT. FR.",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Werner Krauss",
-                "Conrad Veidt",
-                "Lil Dagover"
+              "content": [
+                {
+                  "idFilm": 41117,
+                  "ordre": 1,
+                  "titre": "Cabinet du docteur Caligari",
+                  "art": "Le",
+                  "titreVo": "Kabinett des Dr. Caligari",
+                  "artVo": "Das",
+                  "realisateurs": "Robert Wiene",
+                  "pays": "Allemagne",
+                  "annee": 1920,
+                  "duree": 78,
+                  "version": "INT. FR.",
+                  "format": "DCP",
+                  "restauration": true,
+                  "generique": [
+                    "Werner Krauss",
+                    "Conrad Veidt",
+                    "Lil Dagover"
+                  ],
+                  "miniTexte": "Un hypnotiseur fou emploie un somnambule pour commettre des meurtres. Quintessence de l'expressionnisme allemand, _Le Cabinet du docteur Caligari_ tient du rêve éveillé, de la plongée délirante dans un esprit malade. Décors funèbres, formes distordues et ombres oppressantes créent un voyage envoûtant et inoubliable aux confins de la folie."
+                }
               ],
-              "miniTexte": "Un hypnotiseur fou emploie un somnambule pour commettre des meurtres. Quintessence de l'expressionnisme allemand, _Le Cabinet du docteur Caligari_ tient du rêve éveillé, de la plongée délirante dans un esprit malade. Décors funèbres, formes distordues et ombres oppressantes créent un voyage envoûtant et inoubliable aux confins de la folie."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208525,
-              "dateHeure": "2026-03-26T21:30:00",
-              "idSalle": "HL"
+              "seances": [
+                {
+                  "idSeance": 208525,
+                  "idSeanceAssoc": 208475,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-03-26T21:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -881,30 +908,6 @@
               "idSeance": 208528,
               "dateHeure": "2026-03-20T18:00:00",
               "idSalle": "HL"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 35581,
-          "content": [
-            {
-              "idConf": 35581,
-              "titre": "Conférence de Tamara Eble",
-              "sousTitre": "Conférence ",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208475,
-              "dateHeure": "2026-03-26T19:00:00",
-              "idSalle": "GF"
             }
           ]
         }

@@ -10,32 +10,48 @@
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 45436,
-          "content": [
+          "groupe": [
             {
               "idFilm": 45436,
-              "ordre": 1,
-              "titre": "Bus Stop",
-              "realisateurs": "Joshua Logan",
-              "pays": "États-Unis",
-              "annee": 1956,
-              "duree": 94,
-              "version": "VOSTF",
-              "format": "DCP",
-              "adaptation": "D'après la pièce de théâtre _People in the Wind_ de William Inge.",
-              "generique": [
-                "Marilyn Monroe",
-                "Don Murray",
-                "Arthur O'Connell"
-              ],
-              "miniTexte": "La rencontre d'une petite chanteuse de cabaret et d'un cow-boy mal dégrossi : _Bus Stop_, comédie romantique adaptée d'un succès de Broadway, révèle le talent comique de Marilyn. Après des mois d'apprentissage auprès de Lee Strasberg, elle trouve une vraie place d'actrice, et décroche une nomination aux Golden Globes."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 45436,
+                  "ordre": 1,
+                  "titre": "Bus Stop",
+                  "realisateurs": "Joshua Logan",
+                  "pays": "États-Unis",
+                  "annee": 1956,
+                  "duree": 94,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "adaptation": "D'après la pièce de théâtre _People in the Wind_ de William Inge.",
+                  "generique": [
+                    "Marilyn Monroe",
+                    "Don Murray",
+                    "Arthur O'Connell"
+                  ],
+                  "miniTexte": "La rencontre d'une petite chanteuse de cabaret et d'un cow-boy mal dégrossi : _Bus Stop_, comédie romantique adaptée d'un succès de Broadway, révèle le talent comique de Marilyn. Après des mois d'apprentissage auprès de Lee Strasberg, elle trouve une vraie place d'actrice, et décroche une nomination aux Golden Globes."
+                }
+              ]
+            },
             {
-              "idSeance": 208760,
-              "dateHeure": "2026-04-11T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 35586,
+              "content": [
+                {
+                  "idConf": 35586,
+                  "ordre": 2,
+                  "titre": "Table ronde",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208760,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-04-11T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -296,46 +312,73 @@
           ]
         },
         {
-          "idFilm": 33168,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 35587,
+              "content": [
+                {
+                  "idConf": 35587,
+                  "titre": "conférence de Marguerite Chabrol",
+                  "sousTitre": "Conférence ",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208495,
+                  "idSeanceAssoc": 208759,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-04-09T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 33168,
-              "ordre": 1,
-              "titre": "Hommes préfèrent les blondes",
-              "art": "Les",
-              "titreVo": "Gentlemen Prefer Blondes",
-              "realisateurs": "Howard Hawks",
-              "pays": "États-Unis",
-              "annee": 1953,
-              "duree": 91,
-              "version": "VOSTF",
-              "format": "DCP",
-              "ageMinimal": 10,
-              "adaptation": "D'après le roman _Gentlemen Prefer Blondes_ d'Anita Loos.",
-              "generique": [
-                "Jane Russell",
-                "Marilyn Monroe",
-                "Charles Coburn"
+              "content": [
+                {
+                  "idFilm": 33168,
+                  "ordre": 1,
+                  "titre": "Hommes préfèrent les blondes",
+                  "art": "Les",
+                  "titreVo": "Gentlemen Prefer Blondes",
+                  "realisateurs": "Howard Hawks",
+                  "pays": "États-Unis",
+                  "annee": 1953,
+                  "duree": 91,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "ageMinimal": 10,
+                  "adaptation": "D'après le roman _Gentlemen Prefer Blondes_ d'Anita Loos.",
+                  "generique": [
+                    "Jane Russell",
+                    "Marilyn Monroe",
+                    "Charles Coburn"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Marilyn chante, minaude, éclipserait presque Jane Russell qui pourtant déploie tous ses atouts, et leur duo piquant illumine cette comédie musicale adaptée de Broadway. La blonde en rouge pétant, la brune en noir discret se complètent à merveille. Le musical se meut en étude de mœurs satirique aux tableaux ébouriffants, où le Technicolor éclabousse l'écran. Howard Hawks s'amuse encore une fois à travestir ses personnages, encore une fois les femmes sont fortes, et les diamants sont leurs meilleurs amis."
+                }
               ],
-              "isFocus": true,
-              "miniTexte": "Marilyn chante, minaude, éclipserait presque Jane Russell qui pourtant déploie tous ses atouts, et leur duo piquant illumine cette comédie musicale adaptée de Broadway. La blonde en rouge pétant, la brune en noir discret se complètent à merveille. Le musical se meut en étude de mœurs satirique aux tableaux ébouriffants, où le Technicolor éclabousse l'écran. Howard Hawks s'amuse encore une fois à travestir ses personnages, encore une fois les femmes sont fortes, et les diamants sont leurs meilleurs amis."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208759,
-              "dateHeure": "2026-04-09T21:30:00",
-              "idSalle": "HL"
-            },
-            {
-              "idSeance": 207039,
-              "dateHeure": "2026-04-19T19:00:00",
-              "idSalle": "HL"
-            },
-            {
-              "idSeance": 207694,
-              "dateHeure": "2026-05-17T15:00:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 208759,
+                  "idSeanceAssoc": 208495,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-04-09T21:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                },
+                {
+                  "idSeance": 207039,
+                  "dateHeure": "2026-04-19T19:00:00",
+                  "idSalle": "HL"
+                },
+                {
+                  "idSeance": 207694,
+                  "dateHeure": "2026-05-17T15:00:00",
+                  "idSalle": "GF"
+                }
+              ]
             }
           ]
         },
@@ -402,31 +445,47 @@
           ]
         },
         {
-          "idFilm": 32508,
-          "content": [
+          "groupe": [
             {
               "idFilm": 32508,
-              "ordre": 1,
-              "titre": "Niagara",
-              "realisateurs": "Henry Hathaway",
-              "pays": "États-Unis",
-              "annee": 1953,
-              "duree": 92,
-              "version": "VOSTF",
-              "format": "DCP",
-              "generique": [
-                "Marilyn Monroe",
-                "Joseph Cotten",
-                "Jean Peters"
-              ],
-              "miniTexte": "Henry Hathaway joue sur deux images d'Épinal, les embruns irisés des chutes du Niagara, écrin idéal et symbolique de cette histoire d'adultère, et Marilyn, séductrice faussement naïve. Le mélo conjugal se mue en drame meurtrier, l'Amérique de carte postale est mise à mal, et _Niagara_, avec son somptueux Technicolor, installe définitivement Marilyn au panthéon des stars."
-            }
-          ],
-          "seances": [
+              "content": [
+                {
+                  "idFilm": 32508,
+                  "ordre": 1,
+                  "titre": "Niagara",
+                  "realisateurs": "Henry Hathaway",
+                  "pays": "États-Unis",
+                  "annee": 1953,
+                  "duree": 92,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "generique": [
+                    "Marilyn Monroe",
+                    "Joseph Cotten",
+                    "Jean Peters"
+                  ],
+                  "miniTexte": "Henry Hathaway joue sur deux images d'Épinal, les embruns irisés des chutes du Niagara, écrin idéal et symbolique de cette histoire d'adultère, et Marilyn, séductrice faussement naïve. Le mélo conjugal se mue en drame meurtrier, l'Amérique de carte postale est mise à mal, et _Niagara_, avec son somptueux Technicolor, installe définitivement Marilyn au panthéon des stars."
+                }
+              ]
+            },
             {
-              "idSeance": 208761,
-              "dateHeure": "2026-04-18T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 35585,
+              "content": [
+                {
+                  "idConf": 35585,
+                  "ordre": 2,
+                  "titre": "film + dialogue MONROE",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208761,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-04-18T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -714,64 +773,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 35587,
-          "content": [
-            {
-              "idConf": 35587,
-              "titre": "conférence de Marguerite Chabrol",
-              "sousTitre": "Conférence ",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208495,
-              "dateHeure": "2026-04-09T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idConf": 35586,
-          "content": [
-            {
-              "idConf": 35586,
-              "titre": "Table ronde",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208496,
-              "dateHeure": "2026-04-11T17:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
-          "idConf": 35585,
-          "content": [
-            {
-              "idConf": 35585,
-              "titre": "film + dialogue MONROE",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208498,
-              "dateHeure": "2026-04-18T16:30:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -784,12 +785,14 @@
     ],
     "Dialogues": [
       {
+        "titreFilms": "Bus Stop",
         "mention": "Table ronde",
-        "dateHeure": "2026-04-11T17:00:00"
+        "dateHeure": "2026-04-11T14:30:00"
       },
       {
+        "titreFilms": "Niagara",
         "mention": "film + dialogue MONROE",
-        "dateHeure": "2026-04-18T16:30:00"
+        "dateHeure": "2026-04-18T14:30:00"
       }
     ]
   }

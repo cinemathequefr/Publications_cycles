@@ -499,30 +499,46 @@
           ]
         },
         {
-          "idFilm": 128412,
-          "content": [
+          "groupe": [
             {
               "idFilm": 128412,
-              "ordre": 1,
-              "titre": "Italia: ultimo atto?",
-              "realisateurs": "Massimo Pirri",
-              "pays": "Italie",
-              "annee": 1977,
-              "duree": 95,
-              "version": "VO",
-              "format": "DCP",
-              "generique": [
-                "Luc Merenda",
-                "Marcella Michelangeli",
-                "Luigi Casellato"
+              "content": [
+                {
+                  "idFilm": 128412,
+                  "ordre": 1,
+                  "titre": "Italia: ultimo atto?",
+                  "realisateurs": "Massimo Pirri",
+                  "pays": "Italie",
+                  "annee": 1977,
+                  "duree": 95,
+                  "version": "VO",
+                  "format": "DCP",
+                  "generique": [
+                    "Luc Merenda",
+                    "Marcella Michelangeli",
+                    "Luigi Casellato"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 206368,
-              "dateHeure": "2026-03-21T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 35583,
+              "content": [
+                {
+                  "idConf": 35583,
+                  "ordre": 2,
+                  "titre": "film + dialogue",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 206368,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-03-21T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -588,33 +604,60 @@
           ]
         },
         {
-          "idFilm": 43867,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 35582,
+              "content": [
+                {
+                  "idConf": 35582,
+                  "titre": "conférence",
+                  "sousTitre": "Conférence ",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208487,
+                  "idSeanceAssoc": 208347,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-03-20T19:00:00",
+                  "idSalle": "GF"
+                }
+              ]
+            },
             {
               "idFilm": 43867,
-              "ordre": 1,
-              "titre": "Nous voulons les colonels",
-              "titreVo": "Vogliamo i colonnelli",
-              "realisateurs": "Mario Monicelli",
-              "pays": "Italie",
-              "annee": 1973,
-              "duree": 100,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true,
-              "generique": [
-                "Ugo Tognazzi",
-                "Claude Dauphin",
-                "François Périer"
+              "content": [
+                {
+                  "idFilm": 43867,
+                  "ordre": 1,
+                  "titre": "Nous voulons les colonels",
+                  "titreVo": "Vogliamo i colonnelli",
+                  "realisateurs": "Mario Monicelli",
+                  "pays": "Italie",
+                  "annee": 1973,
+                  "duree": 100,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "restauration": true,
+                  "generique": [
+                    "Ugo Tognazzi",
+                    "Claude Dauphin",
+                    "François Périer"
+                  ],
+                  "miniTexte": "S'inspirant d'un fait réel survenu en Italie en 1970, Monicelli signe une farce politique hautement caustique, dénonçant, par le ridicule, le coup d'État raté de quelques fascistes à la retraite. Avec l'inégalable Ugo Tognazzi en député sinistre, d'une cruauté désopilante."
+                }
               ],
-              "miniTexte": "S'inspirant d'un fait réel survenu en Italie en 1970, Monicelli signe une farce politique hautement caustique, dénonçant, par le ridicule, le coup d'État raté de quelques fascistes à la retraite. Avec l'inégalable Ugo Tognazzi en député sinistre, d'une cruauté désopilante."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208347,
-              "dateHeure": "2026-03-20T21:00:00",
-              "idSalle": "GF"
+              "seances": [
+                {
+                  "idSeance": 208347,
+                  "idSeanceAssoc": 208487,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-03-20T21:00:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
+              ]
             }
           ]
         },
@@ -1214,47 +1257,6 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 35582,
-          "content": [
-            {
-              "idConf": 35582,
-              "titre": "conférence",
-              "sousTitre": "Conférence ",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208487,
-              "dateHeure": "2026-03-20T19:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
-          "idConf": 35583,
-          "content": [
-            {
-              "idConf": 35583,
-              "titre": "film + dialogue",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208488,
-              "dateHeure": "2026-03-21T17:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
@@ -1267,8 +1269,9 @@
     ],
     "Dialogues": [
       {
+        "titreFilms": "Italia: ultimo atto?",
         "mention": "film + dialogue",
-        "dateHeure": "2026-03-21T17:00:00"
+        "dateHeure": "2026-03-21T14:30:00"
       },
       {
         "titreFilms": "Le Vent d'est",
