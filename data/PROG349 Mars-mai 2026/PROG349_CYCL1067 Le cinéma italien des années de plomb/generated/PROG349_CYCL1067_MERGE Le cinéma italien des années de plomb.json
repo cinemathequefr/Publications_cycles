@@ -1246,9 +1246,17 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Dialogue après Vent d'est",
+          "titre": "Dialogue avec David Faroult",
           "duree": 60,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "David Faroult",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            }
+          ]
         },
         {
           "idSeance": 208487,
@@ -1266,9 +1274,17 @@
           "idTypeConference": 55,
           "typeConference": "Conférence",
           "titre": "conférence",
-          "sousTitre": "Conférence ",
+          "sousTitre": "Conférence de Jean-François Rauger",
           "duree": 90,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Jean-François Rauger",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
         },
         {
           "idSeance": 206368,
@@ -1285,9 +1301,24 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "film + dialogue",
+          "titre": "film + dialogue avec Jean-François Rauger et Steve Della Casa",
           "duree": 60,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Steve Della Casa",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Jean-François Rauger",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Jean-François Rauger"
         }
       ],
       "textes": []

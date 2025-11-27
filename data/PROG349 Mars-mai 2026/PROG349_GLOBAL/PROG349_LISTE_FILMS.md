@@ -53,7 +53,7 @@
   * À la hauteur  
   * Amour et poésie  
   * Ayez donc des gosses  
-  * Ça te la coupe  
+  * Ça t'la coupe  
   * De la coupe aux lèvres  
   * En vitesse  
   * Harold bonne d'enfant  

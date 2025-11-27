@@ -903,43 +903,67 @@
           ]
         },
         {
-          "idFilm": 30235,
-          "content": [
+          "groupe": [
             {
               "idFilm": 30235,
-              "ordre": 1,
-              "titre": "Privé",
-              "art": "Le",
-              "titreVo": "Long Goodbye",
-              "artVo": "The",
-              "realisateurs": "Robert Altman",
-              "pays": "États-Unis",
-              "annee": 1973,
-              "duree": 113,
-              "version": "VOSTF",
-              "format": "DCP",
-              "restauration": true,
-              "adaptation": "D'après le roman _The Long Goodbye_ de Raymond Chandler.",
-              "generique": [
-                "Elliott Gould",
-                "Nina Van Pallandt",
-                "Sterling Hayden"
-              ],
-              "isFocus": true,
-              "miniTexte": "Adaptation magistrale du roman de Raymond Chandler, une histoire de chat, de trahison et de meurtre, qui se déploie au rythme des déambulations du détective Philip Marlowe. En marge du film noir classique, Robert Altman délaisse les ombres familières du genre au profit d'une ville de Los Angeles baignée de soleil, en plein mouvement hippie. Nonchalant, décalé, Marlowe traîne sa silhouette dans un monde qu'il ne comprend plus. Son incarnation par Elliott Gould, trois ans après _M*A*S*H_, se révèle un coup de génie."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 206918,
-              "dateHeure": "2026-04-22T20:00:00",
-              "idSalle": "HL",
-              "mention": "Ouverture de la rétrospective"
+              "content": [
+                {
+                  "idFilm": 30235,
+                  "ordre": 1,
+                  "titre": "Privé",
+                  "art": "Le",
+                  "titreVo": "Long Goodbye",
+                  "artVo": "The",
+                  "realisateurs": "Robert Altman",
+                  "pays": "États-Unis",
+                  "annee": 1973,
+                  "duree": 113,
+                  "version": "VOSTF",
+                  "format": "DCP",
+                  "restauration": true,
+                  "adaptation": "D'après le roman _The Long Goodbye_ de Raymond Chandler.",
+                  "generique": [
+                    "Elliott Gould",
+                    "Nina Van Pallandt",
+                    "Sterling Hayden"
+                  ],
+                  "isFocus": true,
+                  "miniTexte": "Adaptation magistrale du roman de Raymond Chandler, une histoire de chat, de trahison et de meurtre, qui se déploie au rythme des déambulations du détective Philip Marlowe. En marge du film noir classique, Robert Altman délaisse les ombres familières du genre au profit d'une ville de Los Angeles baignée de soleil, en plein mouvement hippie. Nonchalant, décalé, Marlowe traîne sa silhouette dans un monde qu'il ne comprend plus. Son incarnation par Elliott Gould, trois ans après _M*A*S*H_, se révèle un coup de génie."
+                }
+              ]
             },
             {
-              "idSeance": 207540,
-              "dateHeure": "2026-05-11T15:30:00",
-              "idSalle": "GF"
+              "idEvenement": 35785,
+              "content": [
+                {
+                  "idConf": 35785,
+                  "ordre": 2,
+                  "titre": "Dialogue avec Vincent Amiel et Jean-Loup Bourget",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 206918,
+                  "dateHeure": "2026-04-22T20:00:00",
+                  "idSalle": "HL",
+                  "mention": "Ouverture de la rétrospective",
+                  "mentionAssoc": "Film seul"
+                },
+                {
+                  "idSeance": 208605,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-05-03T14:30:00",
+                  "idSalle": "HL",
+                  "mentionAssoc": "Film + dialogue"
+                },
+                {
+                  "idSeance": 207540,
+                  "dateHeure": "2026-05-11T15:30:00",
+                  "idSalle": "GF",
+                  "mentionAssoc": "Film seul"
+                }
+              ]
             }
           ]
         },
@@ -1605,11 +1629,16 @@
     }
   ],
   "syntheseAction": {
-    "Dialogue": [
+    "Dialogues": [
       {
         "titreFilms": "John McCabe",
         "mention": "dialogue avec Jean-Baptiste Thoret",
         "dateHeure": "2026-04-26T14:30:00"
+      },
+      {
+        "titreFilms": "Le Privé",
+        "mention": "avec Vincent Amiel et Jean-Loup Bourget",
+        "dateHeure": "2026-05-03T14:30:00"
       }
     ],
     "Séances présentées": [

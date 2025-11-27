@@ -31,7 +31,8 @@
             {
               "idSeance": 206890,
               "dateHeure": "2026-04-13T18:30:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Guillaume Louet"
             }
           ]
         },
@@ -60,12 +61,26 @@
             {
               "idSeance": 208603,
               "dateHeure": "2026-04-13T20:45:00",
-              "idSalle": "GF"
+              "idSalle": "GF",
+              "mention": "Séance présentée par Guillaume Louet"
             }
           ]
         }
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Le Fils puni",
+        "mention": "par Guillaume Louet",
+        "dateHeure": "2026-04-13T18:30:00"
+      },
+      {
+        "titreFilms": "Les Derniers jours d'Emmanuel Kant",
+        "mention": "par Guillaume Louet",
+        "dateHeure": "2026-04-13T20:45:00"
+      }
+    ]
+  }
 }

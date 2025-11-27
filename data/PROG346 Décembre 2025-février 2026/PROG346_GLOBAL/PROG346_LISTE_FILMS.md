@@ -278,7 +278,7 @@
   * Théâtre de guerre  
   * Vesuviani: La Salita (I)
 
-## Maurice Tourneur (44)
+## Maurice Tourneur (45)
 
   * A Girl's Folly  
   * Accusée, levez-vous !  
@@ -297,6 +297,7 @@
   * Fille d'Écosse  
   * Foolish Matrons (The)  
   * Friquet (Le)  
+  * Gaîtés de l'escadron (Les)  
   * Impasse des Deux-Anges  
   * Jimmy le mystérieux  
   * Justin de Marseille  
