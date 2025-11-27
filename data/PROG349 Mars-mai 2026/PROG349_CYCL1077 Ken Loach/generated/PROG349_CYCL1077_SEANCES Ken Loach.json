@@ -200,36 +200,46 @@
   {
     "idCategorie": 4062,
     "typeEvenement": 13,
-    "idEvenement": 35508,
-    "idSeance": 208633,
-    "dateHeure": "2026-04-22T18:30:00",
+    "idEvenement": 35481,
+    "idSeance": 207215,
+    "dateHeure": "2026-04-22T18:00:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 102149,
-        "ordre": 1
+        "idFilm": 68644,
+        "ordre": 1,
+        "idSeance": 207215,
+        "idCopie": 31146,
+        "duree": 112,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
   {
     "idCategorie": 4062,
     "typeEvenement": 13,
-    "idEvenement": 35496,
-    "idSeance": 208632,
+    "idEvenement": 35494,
+    "idSeance": 208734,
     "dateHeure": "2026-04-22T20:30:00",
     "idSalle": [
-      "JE",
-      "Jean Epstein"
+      "GF",
+      "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 135,
     "items": [
       {
-        "idFilm": 80596,
-        "ordre": 1
+        "idFilm": 76696,
+        "ordre": 1,
+        "idSeance": 208734,
+        "idCopie": 31339,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -338,7 +348,7 @@
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 30,
+    "dureeSeance": 105,
     "items": [
       {
         "idFilm": 41541,
@@ -410,52 +420,6 @@
         "idSeance": 208733,
         "idCopie": 31337,
         "duree": 105,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4062,
-    "typeEvenement": 13,
-    "idEvenement": 35481,
-    "idSeance": 207215,
-    "dateHeure": "2026-04-27T18:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 68644,
-        "ordre": 1,
-        "idSeance": 207215,
-        "idCopie": 31146,
-        "duree": 112,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4062,
-    "typeEvenement": 13,
-    "idEvenement": 35494,
-    "idSeance": 208734,
-    "dateHeure": "2026-04-27T20:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 76696,
-        "ordre": 1,
-        "idSeance": 208734,
-        "idCopie": 31339,
-        "duree": 96,
         "version": "VOSTF",
         "format": "35 mm"
       }

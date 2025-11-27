@@ -24,7 +24,7 @@
   * Je veux voir (bande-annonce)  
   * West Beyrouth (bande-annonce)
 
-## Greta Garbo (20)
+## Greta Garbo (21)
 
   * Anna Christie  
   * Anna Karénine  
@@ -43,6 +43,7 @@
   * Mata Hari  
   * Ninotchka  
   * Roman de Marguerite Gautier (Le)  
+  * Rue sans joie (La)  
   * Tentatrice (La)  
   * Torrent (Le)  
   * Voile des illusions (Le)
@@ -58,9 +59,9 @@
   * En vitesse  
   * Harold bonne d'enfant  
   * Harold chez les pirates  
-  * Haunted Spooks  
   * La Chasse au renard  
   * Ma fille est somnambule  
+  * Manoir hanté (Le)  
   * Mon ami le voisin  
   * Monte là-dessus  
   * Nouvelles (Més)aventures d'Harold Lloyd (Les)  
@@ -137,12 +138,11 @@
   * Tortue sur le dos (La)  
   * Une chambre en ville
 
-## Ken Loach (33)
+## Ken Loach (31)
 
   * Black Jack  
   * Bread and Roses  
   * Carla's Song  
-  * Chacun son cinéma  
   * Dockers de Liverpool (Les)  
   * Esprit de 45 (L')  
   * Family Life  
@@ -166,7 +166,6 @@
   * Regards et sourires  
   * Riff-Raff  
   * Route Irish  
-  * September 11  
   * Sorry We Missed You  
   * Sweet Sixteen  
   * Tickets  
