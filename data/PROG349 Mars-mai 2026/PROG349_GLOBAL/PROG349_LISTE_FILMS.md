@@ -93,19 +93,13 @@
   * Règle du jeu (La)  
   * Yeux sans visage (Les)
 
-## Ildikó Enyedi (11)
+## Ildikó Enyedi (5)
 
-  * Conversations of Donkey and Rabbit (The)  
-  * De l'Europe à l'Europe  
-  * Első szerelem  
-  * Flirt: Hipnózis  
   * Freischütz  
   * Histoire de ma femme (L')  
-  * Invasion  
   * Mon XXe siècle  
   * Silent Friend  
-  * Tamás et Juli  
-  * Vakond
+  * Tamás et Juli
 
 ## Jean-François Stévenin (27)
 

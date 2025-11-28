@@ -1,0 +1,67 @@
+{
+  "datesCycle": [
+    "2026-03-13T18:00:00",
+    "2026-03-13T20:30:00"
+  ],
+  "textePresentation": "",
+  "sousCycles": [
+    {
+      "tri": 2,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 51818,
+          "content": [
+            {
+              "idFilm": 51818,
+              "ordre": 1,
+              "titre": "Rouge-gorge",
+              "realisateurs": "Pierre Zucca",
+              "pays": "France-Belgique",
+              "annee": 1985,
+              "duree": 114,
+              "version": "",
+              "format": "35 mm"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208285,
+              "dateHeure": "2026-03-13T20:30:00",
+              "idSalle": "LE"
+            }
+          ]
+        },
+        {
+          "idFilm": 51819,
+          "content": [
+            {
+              "idFilm": 51819,
+              "ordre": 1,
+              "titre": "Vincent mit l'âne dans un pré (et s'en vint dans l'autre)",
+              "realisateurs": "Pierre Zucca",
+              "pays": "France",
+              "annee": 1976,
+              "duree": 107,
+              "version": "",
+              "format": "35 mm",
+              "generique": [
+                "Michel Bouquet",
+                "Bernadette Lafont",
+                "Fabrice Luchini"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208284,
+              "dateHeure": "2026-03-13T18:00:00",
+              "idSalle": "LE"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "syntheseAction": {}
+}

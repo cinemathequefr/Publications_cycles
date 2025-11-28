@@ -10,6 +10,36 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 35010,
+          "content": [
+            {
+              "idFilm": 35010,
+              "ordre": 1,
+              "titre": "Chacun sa chance",
+              "titreVo": "Everybody Wins",
+              "realisateurs": "Karel Reisz",
+              "pays": "Grande-Bretagne",
+              "annee": 1990,
+              "duree": 97,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Debra Winger",
+                "Nick Nolte",
+                "Will Patton"
+              ],
+              "miniTexte": "Une erreur judiciaire, une femme qui tente de faire la lumière sur le meurtre d'un notable, et un détective-justicier désabusé. À partir d'un scénario d'Arthur Miller (30 ans après _The Misfits_), Karel Reisz signe un polar provincial efficace, sur la corruption d'une petite ville américaine, à l'atmosphère trouble et vénéneuse. Son dernier film."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208699,
+              "dateHeure": "2026-03-12T18:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 32999,
           "content": [
             {
@@ -22,7 +52,12 @@
               "annee": 1981,
               "duree": 124,
               "version": "",
-              "format": "DCP"
+              "format": "DCP",
+              "generique": [
+                "Richard Gere",
+                "Debra Winger",
+                "David Keith"
+              ]
             }
           ],
           "seances": [
@@ -47,13 +82,18 @@
               "duree": 132,
               "version": "",
               "format": "DCP",
-              "adaptation": "D'après le roman _Terms of endearment_ de Larry McMurtry."
+              "adaptation": "D'après le roman _Terms of Endearment_ de Larry McMurtry.",
+              "generique": [
+                "Shirley MacLaine",
+                "Debra Winger",
+                "Jack Nicholson"
+              ]
             }
           ],
           "seances": [
             {
               "idSeance": 208683,
-              "dateHeure": "2026-03-13T19:00:00",
+              "dateHeure": "2026-03-13T19:30:00",
               "idSalle": "HL"
             }
           ]

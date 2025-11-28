@@ -1,23 +1,42 @@
 # Liste des films par cycle
 
+## Aleksandar Petrović (4)
+
+  * Elle et lui  
+  * Il pleut dans mon village  
+  * Migrations  
+  * Trois
+
+## Anja Breien (2)
+
+  * Persécution (La)  
+  * Wives III
+
+## Bruxelles, mon amour (2)
+
+  * Chantier des gosses (Le)  
+  * Sonate à Bruxelles
+
 ## Carte blanche à Naoum Kleiman (3)
 
   * Alenka  
   * Okraïna  
   * ¡Que viva México!
 
-## Debra Winger (4)
+## Debra Winger (5)
 
+  * Chacun sa chance  
   * Officier et gentleman  
   * Tendres passions  
   * Un thé au Sahara  
   * Veuve noire (La)
 
-## John Badham (5)
+## John Badham (6)
 
   * Étroite surveillance  
   * Fièvre du samedi soir (La)  
   * Meurtre en suspens  
+  * Once Upon a Time... in Hollywood  
   * Tonnerre de feu  
   * WarGames
 
@@ -26,9 +45,27 @@
   * Famille Inugami (La)  
   * Sailor Suit and Machine Gun
 
-## Restaurations et incunables (18)
+## Pierre Zucca (2)
 
+  * Rouge-gorge  
+  * Vincent mit l'âne dans un pré (et s'en vint dans l'autre)
+
+## Raretés des collections (4)
+
+  * Broadway by Light  
+  * Matisse  
+  * Paris Express  
+  * Symphonie mécanique
+
+## Restaurations et incunables (26)
+
+  * Arche (L')  
+  * Arrière-pays (L')  
+  * Caméra arabe  
+  * Chameleon Street  
   * Charade  
+  * Cinéphiles 2 : Éric a disparu (Les)  
+  * Cinéphiles : Le Retour de Jean (Les)  
   * Dune  
   * Fard de Ginza (Le)  
   * Fresh Vegetable Mystery (The)  
@@ -36,6 +73,8 @@
   * Koko's Tattoo  
   * Little Nobody  
   * Little Stranger (The)  
+  * Manège  
+  * Pas très catholique  
   * Peeping Penguins  
   * Performance  
   * Pierre ou les ambiguïtés  
@@ -49,4 +88,9 @@
 
 ## Robert Bober (1)
 
-  * Récits d'Ellis Island  
+  * Récits d'Ellis Island
+
+## Sohrab Shahid Saless (2)
+
+  * Dar ghorbat  
+  * Un simple événement  

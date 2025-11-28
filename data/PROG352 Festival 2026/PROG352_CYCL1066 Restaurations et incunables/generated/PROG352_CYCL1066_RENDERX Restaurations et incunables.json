@@ -1,7 +1,7 @@
 {
   "datesCycle": [
-    "2026-03-12T14:00:00",
-    "2026-03-15T20:00:00"
+    "2026-03-11T20:00:00",
+    "2026-03-15T20:30:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,80 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 155617,
+          "content": [
+            {
+              "idFilm": 155617,
+              "ordre": 1,
+              "titre": "Arche",
+              "art": "L'",
+              "titreVo": "Dong furen",
+              "realisateurs": "Tang Shu-shuen",
+              "pays": "Hong-Kong",
+              "annee": 1968,
+              "duree": 91,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208287,
+              "dateHeure": "2026-03-15T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 55539,
+          "content": [
+            {
+              "idFilm": 55539,
+              "ordre": 1,
+              "titre": "Caméra arabe",
+              "realisateurs": "Férid Boughedir",
+              "pays": "France",
+              "annee": 1987,
+              "duree": 64,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208691,
+              "dateHeure": "2026-03-13T12:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 155616,
+          "content": [
+            {
+              "idFilm": 155616,
+              "ordre": 1,
+              "titre": "Chameleon Street",
+              "realisateurs": "Wendell B. Harris Jr.",
+              "pays": "États-Unis",
+              "annee": 1989,
+              "duree": 94,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208197,
+              "dateHeure": "2026-03-12T20:30:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
         {
           "idFilm": 44803,
           "content": [
@@ -42,6 +116,69 @@
           ]
         },
         {
+          "idFilm": 125577,
+          "content": [
+            {
+              "idFilm": 125577,
+              "ordre": 1,
+              "titre": "Cinéphiles 2 : Éric a disparu",
+              "art": "Les",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1989,
+              "duree": 56,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Harold Manning",
+                "Sébastien Clerger",
+                "Marie Nester"
+              ],
+              "miniTexte": "Deux ados devant la Cinémathèque de Chaillot. « Ça ressemble à rien cet endroit. Enfin si, on dirait un décor de _Brazil_, bien sinistre... J'aimerais pas voir un film là-dedans, moi, tout le monde y a une gueule d'enterrement. » Le second épisode des _Cinéphiles_, dans lequel de jeunes gens échangent sur les films qu'ils aiment, ou qu'ils détestent, sous l'œil toujours délicieusement cruel du cinéaste, vent debout contre la muséification du cinéma."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208684,
+              "dateHeure": "2026-03-14T18:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 51176,
+          "content": [
+            {
+              "idFilm": 51176,
+              "ordre": 1,
+              "titre": "Cinéphiles : Le Retour de Jean",
+              "art": "Les",
+              "realisateurs": "Louis Skorecki",
+              "pays": "France",
+              "annee": 1988,
+              "duree": 73,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Nidam Abdi",
+                "Sébastien Clerger",
+                "Nathalie Coffre"
+              ],
+              "isFocus": true,
+              "miniTexte": "« Tu vas vraiment voir ce film ? C'est nul, c'est des garçons et des filles qui parlent pendant une heure, sur n'importe quoi. » Dans le cadre strict de longs plans-séquences, de jeunes cinévores soliloquent sur les films qu'ils ont vus, ou qu'ils veulent voir. Mais dans un monde où, d'après l'auteur, le cinéma serait déjà mort depuis longtemps, ce dialogue semble vide de sens, loin de la cinéphilie des années 60. Apparitions hilarantes de Michel Cressole en critique désabusé par le septième art, et qui finit par uriner sur les murs du cinéma dont il sort excédé."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208273,
+              "dateHeure": "2026-03-14T16:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
           "idFilm": 34861,
           "content": [
             {
@@ -51,7 +188,7 @@
               "realisateurs": "David Lynch",
               "pays": "États-Unis",
               "annee": 1984,
-              "duree": 140,
+              "duree": 137,
               "version": "VOSTF",
               "format": "DCP",
               "restauration": true,
@@ -96,9 +233,85 @@
           ],
           "seances": [
             {
-              "idSeance": 208266,
-              "dateHeure": "2026-03-14T14:30:00",
+              "idSeance": 208794,
+              "dateHeure": "2026-03-13T17:00:00",
               "idSalle": "HL"
+            }
+          ]
+        },
+        {
+          "idEvenement": 35614,
+          "content": [
+            {
+              "idFilm": 68985,
+              "ordre": 1,
+              "titre": "Manège",
+              "realisateurs": "Jacques Nolot",
+              "pays": "France",
+              "annee": 1986,
+              "duree": 12,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Jacques Nolot",
+                "Frédéric Pierrot",
+                "Héloïse Mignot"
+              ]
+            },
+            {
+              "idFilm": 29451,
+              "ordre": 2,
+              "titre": "Arrière-pays",
+              "art": "L'",
+              "realisateurs": "Jacques Nolot",
+              "pays": "France",
+              "annee": 1998,
+              "duree": 92,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Jacques Nolot",
+                "Henri Gardey",
+                "Henriette Sempé"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208689,
+              "dateHeure": "2026-03-14T20:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
+        {
+          "idFilm": 52277,
+          "content": [
+            {
+              "idFilm": 52277,
+              "ordre": 1,
+              "titre": "Pas très catholique",
+              "realisateurs": "Tonie Marshall",
+              "pays": "France",
+              "annee": 1994,
+              "duree": 97,
+              "version": "",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Anémone",
+                "Roland Bertin",
+                "Grégoire Colin"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208697,
+              "dateHeure": "2026-03-11T20:00:00",
+              "idSalle": "JE"
             }
           ]
         },
@@ -280,8 +493,8 @@
           ],
           "seances": [
             {
-              "idSeance": 208229,
-              "dateHeure": "2026-03-13T16:00:00",
+              "idSeance": 208795,
+              "dateHeure": "2026-03-14T14:00:00",
               "idSalle": "HL"
             }
           ]
@@ -409,7 +622,6 @@
               "duree": 31,
               "version": "INT. FR.",
               "format": "DCP",
-              "restauration": true,
               "generique": [
                 "Harry Langdon"
               ]
