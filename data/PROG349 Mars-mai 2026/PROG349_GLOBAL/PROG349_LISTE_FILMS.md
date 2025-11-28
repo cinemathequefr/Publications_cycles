@@ -75,11 +75,10 @@
   * Une excursion mouvementée  
   * Vive le sport !
 
-## Histoire permanente du cinéma (8)
+## Histoire permanente du cinéma (7)
 
   * Aguirre, la colère de Dieu  
   * Angoisse du gardien de but au moment du penalty (L')  
-  * Belle  
   * Commissaire (La)  
   * Œdipe roi  
   * Trans-Europ-Express  
@@ -202,7 +201,7 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (38)
+## Le cinéma italien des années de plomb (39)
 
   * Adorable Corps de Deborah (L')  
   * Allonsanfàn  
@@ -234,6 +233,7 @@
   * Témoin à abattre (Le)  
   * Todo modo  
   * Touche pas à la femme blanche  
+  * Tragédie d'un homme ridicule (La)  
   * Un bourgeois tout petit, petit  
   * Un citoyen se rebelle  
   * Un juge en danger  
