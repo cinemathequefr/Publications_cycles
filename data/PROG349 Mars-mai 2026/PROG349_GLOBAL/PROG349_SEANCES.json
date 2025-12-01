@@ -1177,29 +1177,73 @@
     "hashEvenement": "f34427"
   },
   {
-    "idSeance": 208469,
-    "idEvenement": 35335,
-    "dateHeure": "2026-03-29T18:30:00",
+    "idSeance": 208806,
+    "idEvenement": 35367,
+    "dateHeure": "2026-03-29T15:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Ildikó Enyedi",
+        "Courts métrages"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 155576,
+        "titre": "Vakond",
+        "realisateurs": "Ildikó Enyedi",
+        "annee": 1987,
+        "duree": 57,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idFilm": 155574,
+        "titre": "Első szerelem",
+        "realisateurs": "Ildikó Enyedi",
+        "annee": 2008,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 155582,
+        "titre": "Conversations of Donkey and Rabbit",
+        "art": "The",
+        "realisateurs": "Ildikó Enyedi",
+        "annee": 2020,
+        "duree": 4,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155576f155574f155582"
+  },
+  {
+    "idSeance": 208805,
+    "idEvenement": 35275,
+    "dateHeure": "2026-03-29T17:30:00",
     "salle": "GF",
     "cycle": [
       [
-        "Le cinéma italien des années de plomb",
+        "Ildikó Enyedi",
         "Les films"
       ]
     ],
     "items": [
       {
-        "idFilm": 45297,
-        "titre": "Cadavres exquis",
-        "realisateurs": "Francesco Rosi",
-        "annee": 1976,
-        "duree": 120,
+        "idFilm": 69464,
+        "titre": "Simon le Mage",
+        "realisateurs": "Ildikó Enyedi",
+        "annee": 1999,
+        "duree": 92,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f45297"
+    "hashEvenement": "f69464"
   },
   {
     "idSeance": 206550,
@@ -1226,6 +1270,31 @@
       }
     ],
     "hashEvenement": "f40661"
+  },
+  {
+    "idSeance": 208469,
+    "idEvenement": 35335,
+    "dateHeure": "2026-03-29T19:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Le cinéma italien des années de plomb",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 45297,
+        "titre": "Cadavres exquis",
+        "realisateurs": "Francesco Rosi",
+        "annee": 1976,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f45297"
   },
   {
     "idSeance": 208725,
@@ -1372,6 +1441,30 @@
     "hashEvenement": "f39967"
   },
   {
+    "idSeance": 206596,
+    "idEvenement": 35277,
+    "dateHeure": "2026-04-01T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Ildikó Enyedi",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 137327,
+        "titre": "Corps et âme",
+        "realisateurs": "Ildikó Enyedi",
+        "annee": 2017,
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f137327"
+  },
+  {
     "idSeance": 206592,
     "idEvenement": 35334,
     "dateHeure": "2026-04-01T20:15:00",
@@ -1423,8 +1516,8 @@
   {
     "idSeance": 208715,
     "idEvenement": 35713,
-    "dateHeure": "2026-04-02T16:30:00",
-    "salle": "JE",
+    "dateHeure": "2026-04-02T16:00:00",
+    "salle": "GF",
     "cycle": [
       [
         "Histoire permanente du cinéma",
@@ -1443,6 +1536,28 @@
       }
     ],
     "hashEvenement": "f40596"
+  },
+  {
+    "idSeance": 206625,
+    "idEvenement": 35808,
+    "dateHeure": "2026-04-02T17:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35808,
+        "titre": "Inventer l'archive",
+        "sousTitre": "Conférence de Dominique Païni",
+        "typeConference": "Conférence",
+        "duree": 90
+      }
+    ],
+    "hashEvenement": "c35808"
   },
   {
     "idSeance": 208547,
@@ -1491,6 +1606,29 @@
       }
     ],
     "hashEvenement": "f54108"
+  },
+  {
+    "idSeance": 208807,
+    "idEvenement": 35784,
+    "dateHeure": "2026-04-02T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Archi Vives",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 48871,
+        "titre": "Une femme mariée",
+        "realisateurs": "Jean-Luc Godard",
+        "annee": 1964,
+        "duree": 95,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f48871"
   },
   {
     "idSeance": 208507,
@@ -7657,6 +7795,31 @@
     "hashEvenement": "f30257"
   },
   {
+    "idSeance": 208811,
+    "idEvenement": 35705,
+    "dateHeure": "2026-05-22T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Science-fiction d'hier et d'avant-hier"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 34875,
+        "titre": "Odyssée sous la mer",
+        "art": "L'",
+        "realisateurs": "Daniel Petrie",
+        "annee": 1973,
+        "duree": 97,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f34875"
+  },
+  {
     "idSeance": 208676,
     "idEvenement": 35413,
     "dateHeure": "2026-05-22T19:30:00",
@@ -7727,6 +7890,30 @@
       }
     ],
     "hashEvenement": "f100205"
+  },
+  {
+    "idSeance": 208812,
+    "idEvenement": 35706,
+    "dateHeure": "2026-05-22T21:15:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Cinéma bis",
+        "Science-fiction d'hier et d'avant-hier"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 31267,
+        "titre": "Looker",
+        "realisateurs": "Michael Crichton",
+        "annee": 1981,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f31267"
   },
   {
     "idSeance": 208704,

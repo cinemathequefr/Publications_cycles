@@ -1,7 +1,7 @@
 {
   "datesCycle": [
     "2026-03-25T20:00:00",
-    "2026-03-28T19:00:00"
+    "2026-04-01T19:00:00"
   ],
   "textePresentation": "",
   "sousCycles": [
@@ -9,6 +9,35 @@
       "tri": 2,
       "titreSousCycle": "Les films",
       "items": [
+        {
+          "idFilm": 137327,
+          "content": [
+            {
+              "idFilm": 137327,
+              "ordre": 1,
+              "titre": "Corps et âme",
+              "titreVo": "Testről és lélekről",
+              "realisateurs": "Ildikó Enyedi",
+              "pays": "Hongrie",
+              "annee": 2017,
+              "duree": 116,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Alexandra Borbély",
+                "Géza Morcsányi",
+                "Réka Tenki"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 206596,
+              "dateHeure": "2026-04-01T19:00:00",
+              "idSalle": "JE"
+            }
+          ]
+        },
         {
           "idFilm": 60372,
           "content": [
@@ -150,6 +179,36 @@
           ]
         },
         {
+          "idFilm": 69464,
+          "content": [
+            {
+              "idFilm": 69464,
+              "ordre": 1,
+              "titre": "Simon le Mage",
+              "titreVo": "Simon Mágus",
+              "realisateurs": "Ildikó Enyedi",
+              "pays": "France-Hongrie",
+              "annee": 1999,
+              "duree": 92,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true,
+              "generique": [
+                "Péter Andorai",
+                "Julie Delarme",
+                "Péter Halász"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208805,
+              "dateHeure": "2026-03-29T17:30:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 107900,
           "content": [
             {
@@ -175,6 +234,64 @@
               "idSeance": 208407,
               "dateHeure": "2026-03-26T21:00:00",
               "idSalle": "GF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Courts métrages",
+      "items": [
+        {
+          "idEvenement": 35367,
+          "content": [
+            {
+              "idFilm": 155576,
+              "ordre": 1,
+              "titre": "Vakond",
+              "realisateurs": "Ildikó Enyedi",
+              "pays": "Hongrie",
+              "annee": 1987,
+              "duree": 57,
+              "version": "VOSTF",
+              "format": "DCP",
+              "restauration": true
+            },
+            {
+              "idFilm": 155574,
+              "ordre": 2,
+              "titre": "Első szerelem",
+              "realisateurs": "Ildikó Enyedi",
+              "pays": "Hongrie",
+              "annee": 2008,
+              "duree": 20,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Juli Droste",
+                "Pálma Pásztor",
+                "Marcel Rév"
+              ]
+            },
+            {
+              "idFilm": 155582,
+              "ordre": 3,
+              "titre": "Conversations of Donkey and Rabbit",
+              "art": "The",
+              "realisateurs": "Ildikó Enyedi",
+              "pays": "Hongrie-Grèce",
+              "annee": 2020,
+              "duree": 4,
+              "version": "VOSTF",
+              "format": "DCP"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208806,
+              "dateHeure": "2026-03-29T15:00:00",
+              "idSalle": "JE"
             }
           ]
         }

@@ -1,17 +1,23 @@
 # Liste des films par cycle
 
+## Archi Vives (1)
+
+  * Une femme mariée
+
 ## Ciné-club de Murielle Joudet (3)
 
   * Dillinger est mort  
   * Reine Christine (La)  
   * Sept ans de réflexion
 
-## Cinéma bis (4)
+## Cinéma bis (6)
 
   * Beast of the Yellow Night  
   * Beyond Atlantis  
   * Liz et Helen  
-  * Maciste en enfer
+  * Looker  
+  * Maciste en enfer  
+  * Odyssée sous la mer (L')
 
 ## Fenêtre sur les collections (32)
 
@@ -117,13 +123,18 @@
   * Règle du jeu (La)  
   * Yeux sans visage (Les)
 
-## Ildikó Enyedi (5)
+## Ildikó Enyedi (10)
 
+  * Conversations of Donkey and Rabbit (The)  
+  * Corps et âme  
+  * Első szerelem  
   * Freischütz  
   * Histoire de ma femme (L')  
   * Mon XXe siècle  
   * Silent Friend  
-  * Tamás et Juli
+  * Simon le Mage  
+  * Tamás et Juli  
+  * Vakond
 
 ## Jean-François Stévenin (27)
 
