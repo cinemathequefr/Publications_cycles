@@ -1118,6 +1118,40 @@
           "mentionAnimation": "Animé par Florence Tissot"
         },
         {
+          "idSeance": 208761,
+          "ordre": 2,
+          "dateHeure": "2026-04-18T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 4078,
+          "idEvenement": 35585,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec florence Tissot",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Florence Tissot",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Marién Gomez",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Marién Gomez"
+        },
+        {
           "idSeance": 208495,
           "dateHeure": "2026-04-09T19:00:00",
           "idSalle": [
@@ -1133,28 +1167,17 @@
           "idTypeConference": 55,
           "typeConference": "Conférence",
           "titre": "conférence de Marguerite Chabrol",
-          "sousTitre": "Conférence ",
+          "sousTitre": "Conférence de Marguerite Chabrol",
           "duree": 90,
-          "textes": []
-        },
-        {
-          "idSeance": 208761,
-          "ordre": 2,
-          "dateHeure": "2026-04-18T14:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 60,
-          "typeAssoc": 118,
-          "idCategorie": 4078,
-          "idEvenement": 35585,
-          "typeEvenement": 14,
-          "idTypeConference": 16,
-          "typeConference": "Dialogue",
-          "titre": "film + dialogue MONROE",
-          "duree": 60,
-          "textes": []
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Marguerite Chabrol",
+              "idFonction": 139,
+              "fonction": "Conférencier",
+              "ordre": 1
+            }
+          ]
         }
       ],
       "textes": []

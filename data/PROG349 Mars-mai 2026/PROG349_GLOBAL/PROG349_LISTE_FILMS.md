@@ -13,15 +13,39 @@
   * Liz et Helen  
   * Maciste en enfer
 
-## Fenêtre sur les collections (8)
+## Fenêtre sur les collections (32)
 
+  * Arc de triomphe  
+  * Assiettes tournantes  
   * Au carrefour des âges, le Liban  
   * Baalbeck  
   * Beyrouth, ô Beyrouth  
+  * Bouteilles (Les)  
+  * Chapeaux à transformation  
+  * Château hanté (Le)  
+  * Colleurs d'affiches  
+  * Danse serpentine, I  
+  * Écriture à l'envers  
   * Escamotage d'une dame chez Robert-Houdin  
   * Illusionniste (L')  
   * Je veux voir  
   * Je veux voir (bande-annonce)  
+  * Jongleur au ballon  
+  * Peinture à l'envers  
+  * Pierrot et la flûte enchantée  
+  * Pierrot et la mouche  
+  * Place Bellecour  
+  * Pont-Neuf (Le)  
+  * Poupées (Les)  
+  * Prestidigitateur au café (Le)  
+  * Prestidigitateur, I  
+  * Prestidigitateur, II  
+  * Repas fantastique (Le)  
+  * Serpent  
+  * Souverains et hommes illustres  
+  * Squelette joyeux (Le)  
+  * Substitutions  
+  * Un prêté pour un rendu  
   * West Beyrouth (bande-annonce)
 
 ## Greta Garbo (21)

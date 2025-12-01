@@ -2,10 +2,25 @@
   {
     "idCategorie": 4078,
     "idEvenement": 35585,
-    "titre": "film + dialogue MONROE",
+    "titre": "Dialogue avec florence Tissot",
     "duree": 60,
     "idTypeConference": 16,
-    "typeConference": "Dialogue"
+    "typeConference": "Dialogue",
+    "intervenants": [
+      {
+        "nomComplet": "Florence Tissot",
+        "idFonction": 39,
+        "fonction": "Intervenant",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Marién Gomez",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
+      }
+    ],
+    "mentionAnimation": "Animé par Marién Gomez"
   },
   {
     "idCategorie": 4078,
@@ -43,6 +58,14 @@
     "duree": 90,
     "idTypeConference": 55,
     "typeConference": "Conférence",
-    "sousTitre": "Conférence "
+    "intervenants": [
+      {
+        "nomComplet": "Marguerite Chabrol",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 1
+      }
+    ],
+    "sousTitre": "Conférence de Marguerite Chabrol"
   }
 ]
