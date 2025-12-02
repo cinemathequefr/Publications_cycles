@@ -6,7 +6,7 @@
 
 ## Aujourd'hui le cinéma (1)
 
-  * Vif-argent
+  * Un balcon à Limoges
 
 ## Ciné-club de Murielle Joudet (3)
 

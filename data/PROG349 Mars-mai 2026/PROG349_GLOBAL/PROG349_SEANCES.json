@@ -605,30 +605,6 @@
     "hashEvenement": "f58734"
   },
   {
-    "idSeance": 206402,
-    "idEvenement": 35474,
-    "dateHeure": "2026-03-23T20:00:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Aujourd'hui le cinéma",
-        "[TEMP]"
-      ]
-    ],
-    "mention": "Séance suivie d'une discussion avec Tom Harari et Stéphane Batut",
-    "items": [
-      {
-        "idFilm": 142497,
-        "titre": "Vif-argent",
-        "realisateurs": "Stéphane Batut",
-        "annee": 2018,
-        "duree": 106,
-        "format": "DCP"
-      }
-    ],
-    "hashEvenement": "f142497"
-  },
-  {
     "idSeance": 208468,
     "idEvenement": 35304,
     "dateHeure": "2026-03-23T20:45:00",
@@ -2041,7 +2017,7 @@
         "art": "L'",
         "realisateurs": "Romolo Guerrieri",
         "annee": 1968,
-        "duree": 90,
+        "duree": 96,
         "version": "VF",
         "format": "35 mm"
       }
@@ -3407,6 +3383,7 @@
         "titre": "Fatherland",
         "realisateurs": "Ken Loach",
         "annee": 1986,
+        "duree": 111,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -3703,6 +3680,30 @@
     "hashEvenement": "f33042"
   },
   {
+    "idSeance": 207054,
+    "idEvenement": 35821,
+    "dateHeure": "2026-04-20T19:30:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Aujourd'hui le cinéma",
+        "Avant-première Jérôme Reybaud"
+      ]
+    ],
+    "mention": "Avant-première. Séance suivie d'une discussion avec Jérôme Reybaud",
+    "items": [
+      {
+        "idFilm": 155658,
+        "titre": "Un balcon à Limoges",
+        "realisateurs": "Jérôme Reybaud",
+        "annee": 2025,
+        "duree": 70,
+        "format": "DCP"
+      }
+    ],
+    "hashEvenement": "f155658"
+  },
+  {
     "idSeance": 208454,
     "idEvenement": 35265,
     "dateHeure": "2026-04-20T20:00:00",
@@ -3946,7 +3947,10 @@
         "titre": "Gamekeeper",
         "art": "The",
         "realisateurs": "Ken Loach",
-        "annee": 1980
+        "annee": 1980,
+        "duree": 84,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
     "hashEvenement": "f41644"
@@ -4231,7 +4235,8 @@
         "titre": "Dockers de Liverpool",
         "art": "Les",
         "realisateurs": "Ken Loach",
-        "annee": 1997
+        "annee": 1997,
+        "duree": 50
       }
     ],
     "hashEvenement": "f62456"
@@ -4458,6 +4463,7 @@
         "titre": "My Name Is Joe",
         "realisateurs": "Ken Loach",
         "annee": 1998,
+        "duree": 105,
         "version": "VOSTF",
         "format": "35 mm"
       }
@@ -5881,8 +5887,8 @@
     "hashEvenement": "f155603f155604f104626"
   },
   {
-    "idSeance": 207509,
-    "idEvenement": 35388,
+    "idSeance": 208819,
+    "idEvenement": 35396,
     "dateHeure": "2026-05-09T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -5893,15 +5899,16 @@
     ],
     "items": [
       {
-        "idFilm": 31943,
-        "titre": "Baiser",
-        "art": "Le",
-        "realisateurs": "Jacques Feyder",
-        "annee": 1929,
-        "duree": 63
+        "idFilm": 32072,
+        "titre": "Comme tu me veux",
+        "realisateurs": "George Fitzmaurice",
+        "annee": 1932,
+        "duree": 70,
+        "version": "VO",
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f31943"
+    "hashEvenement": "f32072"
   },
   {
     "idSeance": 208574,
@@ -6526,7 +6533,7 @@
   {
     "idSeance": 208780,
     "idEvenement": 35414,
-    "dateHeure": "2026-05-13T19:30:00",
+    "dateHeure": "2026-05-13T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -7016,7 +7023,7 @@
   {
     "idSeance": 208593,
     "idEvenement": 35674,
-    "dateHeure": "2026-05-16T17:30:00",
+    "dateHeure": "2026-05-16T17:45:00",
     "salle": "JE",
     "cycle": [
       [
@@ -7106,7 +7113,7 @@
   {
     "idSeance": 208594,
     "idEvenement": 35567,
-    "dateHeure": "2026-05-16T20:00:00",
+    "dateHeure": "2026-05-16T20:15:00",
     "salle": "JE",
     "cycle": [
       [
@@ -7632,8 +7639,8 @@
     "hashEvenement": "f30780"
   },
   {
-    "idSeance": 208597,
-    "idEvenement": 35396,
+    "idSeance": 208820,
+    "idEvenement": 35388,
     "dateHeure": "2026-05-21T18:30:00",
     "salle": "GF",
     "cycle": [
@@ -7644,16 +7651,15 @@
     ],
     "items": [
       {
-        "idFilm": 32072,
-        "titre": "Comme tu me veux",
-        "realisateurs": "George Fitzmaurice",
-        "annee": 1932,
-        "duree": 70,
-        "version": "VO",
-        "format": "35 mm"
+        "idFilm": 31943,
+        "titre": "Baiser",
+        "art": "Le",
+        "realisateurs": "Jacques Feyder",
+        "annee": 1929,
+        "duree": 63
       }
     ],
-    "hashEvenement": "f32072"
+    "hashEvenement": "f31943"
   },
   {
     "idSeance": 207766,

@@ -3,34 +3,35 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "[TEMP]",
+      "titreSousCycle": "Avant-première Jérôme Reybaud",
       "items": [
         {
-          "idFilm": 142497,
+          "idFilm": 155658,
           "content": [
             {
-              "idFilm": 142497,
+              "idFilm": 155658,
               "ordre": 1,
-              "titre": "Vif-argent",
-              "realisateurs": "Stéphane Batut",
+              "titre": "Un balcon à Limoges",
+              "realisateurs": "Jérôme Reybaud",
               "pays": "France",
-              "annee": 2018,
-              "duree": 106,
+              "annee": 2025,
+              "duree": 70,
               "version": "",
               "format": "DCP",
               "generique": [
-                "Thimotée Robart",
-                "Judith Chemla",
-                "Djolof Mbengue"
+                "Fabienne Babe",
+                "Anne-Lise Heimburger",
+                "Patrice Gallet",
+                "Émilien Tessier"
               ]
             }
           ],
           "seances": [
             {
-              "idSeance": 206402,
-              "dateHeure": "2026-03-23T20:00:00",
+              "idSeance": 207054,
+              "dateHeure": "2026-04-20T19:30:00",
               "idSalle": "JE",
-              "mention": "Séance suivie d'une discussion avec Tom Harari et Stéphane Batut"
+              "mention": "Avant-première. Séance suivie d'une discussion avec Jérôme Reybaud"
             }
           ]
         }
@@ -38,11 +39,18 @@
     }
   ],
   "syntheseAction": {
+    "Avant-première": [
+      {
+        "dateHeure": "2026-04-20T19:30:00",
+        "titreFilms": "Un balcon à Limoges",
+        "mention": "séance suivie d'une discussion avec Jérôme Reybaud"
+      }
+    ],
     "Discussion": [
       {
-        "titreFilms": "Vif-argent",
-        "mention": "avec Tom Harari et Stéphane Batut",
-        "dateHeure": "2026-03-23T20:00:00"
+        "titreFilms": "Un balcon à Limoges",
+        "mention": "avec Jérôme Reybaud",
+        "dateHeure": "2026-04-20T19:30:00"
       }
     ]
   }
