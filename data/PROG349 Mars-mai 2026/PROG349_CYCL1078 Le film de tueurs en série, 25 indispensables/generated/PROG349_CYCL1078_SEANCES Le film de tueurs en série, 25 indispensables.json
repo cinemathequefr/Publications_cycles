@@ -10,6 +10,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 120,
+    "typeSeance": 44,
     "items": [
       {
         "idFilm": 58206,
@@ -20,7 +21,8 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 4063,
@@ -279,29 +281,6 @@
   {
     "idCategorie": 4063,
     "typeEvenement": 13,
-    "idEvenement": 35425,
-    "idSeance": 208834,
-    "dateHeure": "2026-05-17T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 45099,
-        "ordre": 1,
-        "idSeance": 208834,
-        "idCopie": 31386,
-        "duree": 120,
-        "version": "VO",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4063,
-    "typeEvenement": 13,
     "idEvenement": 35427,
     "idSeance": 208835,
     "dateHeure": "2026-05-17T17:00:00",
@@ -341,6 +320,29 @@
         "idCopie": 5042,
         "duree": 118,
         "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4063,
+    "typeEvenement": 13,
+    "idEvenement": 35425,
+    "idSeance": 207702,
+    "dateHeure": "2026-05-18T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 45099,
+        "ordre": 1,
+        "idSeance": 207702,
+        "idCopie": 31386,
+        "duree": 120,
+        "version": "VO",
         "format": "35 mm"
       }
     ]

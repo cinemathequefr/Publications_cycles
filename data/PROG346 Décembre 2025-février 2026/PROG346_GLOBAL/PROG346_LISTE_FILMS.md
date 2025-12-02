@@ -230,7 +230,7 @@
   * Trésor d'Arne (Le)  
   * Une fille dans chaque port
 
-## Ma petite Cinémathèque (29)
+## Ma petite Cinémathèque (28)
 
   * Animal rit  
   * Aventures du prince Ahmed (Les)  
@@ -252,7 +252,6 @@
   * Jason et les Argonautes  
   * Jeune et innocent  
   * Mary Poppins  
-  * Mélodie du bonheur (La)  
   * Montagnards sont là (Les)  
   * Ourse et l'Oiseau (L')  
   * Parade  
@@ -480,18 +479,14 @@
   * Vérité sur Bébé Donge (La)  
   * Ville à vendre
 
-## Rita Hayworth (24)
+## Rita Hayworth (20)
 
-  * Affaire de Trinidad (L')  
-  * Amour vint en dansant (L')  
   * Amours de Carmen (Les)  
   * Arènes sanglantes  
   * Belle du Pacifique (La)  
-  * Blonde framboise (La)  
   * Blonde ou la Rousse (La)  
   * Cette nuit et toujours  
   * Ceux de Cordura  
-  * Colère de Dieu (La)  
   * Convicted  
   * Dame de Shanghaï (La)  
   * Enfer des tropiques (L')  
@@ -524,19 +519,13 @@
   * Veilleurs (Les)  
   * Victor comme tout le monde
 
-## Un changement d'année en 70 mm (11)
+## Un changement d'année en 70 mm (5)
 
   * Cheyennes (Les)  
-  * Huit Salopards (Les)  
   * Khartoum  
   * Lawrence d'Arabie  
-  * Master (The)  
   * Nom de la rose (Le)  
-  * Oppenheimer  
-  * Playtime  
-  * Poltergeist  
-  * Ran  
-  * Starman
+  * Poltergeist
 
 ## Valérie Donzelli (12)
 

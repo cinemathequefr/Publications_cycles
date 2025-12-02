@@ -10,6 +10,7 @@
       "Henri Langlois"
     ],
     "dureeSeance": 135,
+    "typeSeance": 44,
     "items": [
       {
         "idFilm": 30779,
@@ -20,7 +21,8 @@
         "version": "INT. FR.",
         "format": "35 mm"
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCategorie": 4059,
@@ -179,23 +181,23 @@
   {
     "idCategorie": 4059,
     "typeEvenement": 13,
-    "idEvenement": 35383,
-    "idSeance": 207676,
+    "idEvenement": 35379,
+    "idSeance": 208843,
     "dateHeure": "2026-05-16T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "dureeSeance": 120,
+    "dureeSeance": 150,
     "items": [
       {
-        "idFilm": 33011,
+        "idFilm": 45672,
         "ordre": 1,
-        "idSeance": 207676,
-        "idCopie": 31099,
-        "duree": 82,
-        "version": "",
-        "format": "35 mm"
+        "idSeance": 208843,
+        "idCopie": 15667,
+        "duree": 113,
+        "version": "INT. FR.",
+        "format": "DCP"
       }
     ]
   },
@@ -241,6 +243,29 @@
         "idCopie": 31102,
         "duree": 98,
         "version": "INT. ANG.",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4059,
+    "typeEvenement": 13,
+    "idEvenement": 35383,
+    "idSeance": 208844,
+    "dateHeure": "2026-05-17T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 33011,
+        "ordre": 1,
+        "idSeance": 208844,
+        "idCopie": 31099,
+        "duree": 82,
+        "version": "",
         "format": "35 mm"
       }
     ]
@@ -489,29 +514,6 @@
         "idCopie": 13393,
         "duree": 110,
         "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4059,
-    "typeEvenement": 13,
-    "idEvenement": 35379,
-    "idSeance": 208772,
-    "dateHeure": "2026-05-23T19:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 45672,
-        "ordre": 1,
-        "idSeance": 208772,
-        "idCopie": 15667,
-        "duree": 113,
-        "version": "INT. FR.",
         "format": "DCP"
       }
     ]

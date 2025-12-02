@@ -110,11 +110,10 @@
   * Une excursion mouvementée  
   * Vive le sport !
 
-## Histoire permanente du cinéma (7)
+## Histoire permanente du cinéma (6)
 
   * Aguirre, la colère de Dieu  
   * Angoisse du gardien de but au moment du penalty (L')  
-  * Commissaire (La)  
   * Œdipe roi  
   * Trans-Europ-Express  
   * Trois frères  
@@ -171,7 +170,7 @@
   * Tortue sur le dos (La)  
   * Une chambre en ville
 
-## Ken Loach (33)
+## Ken Loach (32)
 
   * Black Jack  
   * Bread and Roses  
@@ -196,7 +195,6 @@
   * Old Oak (The)  
   * Part des anges (La)  
   * Pas de larmes pour Joy  
-  * Raining Stones  
   * Regards et sourires  
   * Riff-Raff  
   * Route Irish  
@@ -237,7 +235,7 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (39)
+## Le cinéma italien des années de plomb (38)
 
   * Adorable Corps de Deborah (L')  
   * Allonsanfàn  
@@ -260,7 +258,6 @@
   * Nous voulons les colonels  
   * Oiseau au plumage de cristal (L')  
   * Polices parallèles en action  
-  * Rançon de la peur (La)  
   * Rapt à l'italienne  
   * Rendez-vous de Satan (Les)  
   * Romances et Confidences  
