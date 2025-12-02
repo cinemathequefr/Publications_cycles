@@ -3,6 +3,41 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Les films",
+      "items": [
+        {
+          "idFilm": 142497,
+          "content": [
+            {
+              "idFilm": 142497,
+              "ordre": 1,
+              "titre": "Vif-argent",
+              "realisateurs": "Stéphane Batut",
+              "pays": "France",
+              "annee": 2018,
+              "duree": 106,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Thimotée Robart",
+                "Judith Chemla",
+                "Djolof Mbengue"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 206402,
+              "dateHeure": "2026-03-23T20:00:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Tom Harari et Stéphane Batut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Avant-première Jérôme Reybaud",
       "items": [
         {
@@ -46,7 +81,12 @@
         "mention": "séance suivie d'une discussion avec Jérôme Reybaud"
       }
     ],
-    "Discussion": [
+    "Discussions": [
+      {
+        "titreFilms": "Vif-argent",
+        "mention": "avec Tom Harari et Stéphane Batut",
+        "dateHeure": "2026-03-23T20:00:00"
+      },
       {
         "titreFilms": "Un balcon à Limoges",
         "mention": "avec Jérôme Reybaud",
