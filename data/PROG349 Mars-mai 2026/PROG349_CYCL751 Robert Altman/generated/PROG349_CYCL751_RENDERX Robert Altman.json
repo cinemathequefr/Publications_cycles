@@ -10,6 +10,54 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idEvenement": 35230,
+          "content": [
+            {
+              "idFilm": 88725,
+              "ordre": 1,
+              "titre": "Aria : Les Boréades",
+              "realisateurs": "Robert Altman",
+              "pays": "Grande-Bretagne",
+              "annee": 1987,
+              "duree": 7,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Julie Hagerty",
+                "Geneviève Page"
+              ],
+              "miniTexte": "Dix airs d'opéras vus par dix cinéastes dans un film à sketches sélectionné au Festival de Cannes. Avec le segment _Les Boréades_, Robert Altman offre sa vision d'un public d'aristocrates débridés, lors de la première de l'œuvre de Jean-Philippe Rameau, au théâtre du Ranelagh à Paris, en 1734."
+            },
+            {
+              "idFilm": 100205,
+              "ordre": 2,
+              "titre": "Last Show",
+              "art": "The",
+              "titreVo": "A Prairie Home Companion",
+              "realisateurs": "Robert Altman",
+              "pays": "États-Unis",
+              "annee": 2006,
+              "duree": 105,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "generique": [
+                "Meryl Streep",
+                "Lily Tomlin",
+                "Lindsay Lohan"
+              ],
+              "isFocus": true,
+              "miniTexte": "Chant du cygne du cinéaste, _The Last Show_ met en scène l'ultime enregistrement d'une célèbre émission radiophonique, _A Prairie Home Companion_, animée par Garrison Keillor. Dans son propre rôle, l'homme de radio s'entoure d'une pléiade de stars, dont John C. Reilly et Woody Harrelson dans un duo de cow-boys hilarants, Meryl Streep, Lily Tomlin, Kevin Kline ou Virginia Madsen en mystérieux ange de l'au-delà qui hante les coulisses du studio. Car la mort est bien le thème du dernier film d'Altman, à la fois gai et bouleversant, qui résonne comme une douce chanson d'adieu."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208648,
+              "dateHeure": "2026-05-22T21:00:00",
+              "idSalle": "GF"
+            }
+          ]
+        },
+        {
           "idFilm": 45361,
           "content": [
             {
@@ -155,36 +203,6 @@
             {
               "idSeance": 207737,
               "dateHeure": "2026-05-20T17:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        },
-        {
-          "idFilm": 70788,
-          "content": [
-            {
-              "idFilm": 70788,
-              "ordre": 1,
-              "titre": "Countdown",
-              "realisateurs": "Robert Altman",
-              "pays": "États-Unis",
-              "annee": 1967,
-              "duree": 101,
-              "version": "VO",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _The Pilgrim Project_ de Hank Searls.",
-              "generique": [
-                "James Caan",
-                "Joanna Cook Moore",
-                "Robert Duvall"
-              ],
-              "miniTexte": "Alors que les Russes s'apprêtent à gagner la course spatiale, la NASA lance un programme d'urgence à haut risque : envoyer un seul astronaute sur la Lune à bord d'une capsule Gemini, où il devra survivre jusqu'à la mission suivante. Deux ans avant l'alunissage d'Apollo 11, Altman réunit James Caan et Robert Duvall dans une odyssée lunaire inspirée de _The Pilgrim Project_ de Hank Searls, avant d'être renvoyé par la Warner qui n'apprécie guère son usage des dialogues superposés."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208713,
-              "dateHeure": "2026-05-18T20:45:00",
               "idSalle": "JE"
             }
           ]
@@ -609,38 +627,6 @@
           ]
         },
         {
-          "idFilm": 100205,
-          "content": [
-            {
-              "idFilm": 100205,
-              "ordre": 1,
-              "titre": "Last Show",
-              "art": "The",
-              "titreVo": "A Prairie Home Companion",
-              "realisateurs": "Robert Altman",
-              "pays": "États-Unis",
-              "annee": 2006,
-              "duree": 105,
-              "version": "VOSTF",
-              "format": "35 mm",
-              "generique": [
-                "Meryl Streep",
-                "Lily Tomlin",
-                "Lindsay Lohan"
-              ],
-              "isFocus": true,
-              "miniTexte": "Chant du cygne du cinéaste, _The Last Show_ met en scène l'ultime enregistrement d'une célèbre émission radiophonique, _A Prairie Home Companion_, animée par Garrison Keillor. Dans son propre rôle, l'homme de radio s'entoure d'une pléiade de stars, dont John C. Reilly et Woody Harrelson dans un duo de cow-boys hilarants, Meryl Streep, Lily Tomlin, Kevin Kline ou Virginia Madsen en mystérieux ange de l'au-delà qui hante les coulisses du studio. Car la mort est bien le thème du dernier film d'Altman, à la fois gai et bouleversant, qui résonne comme une douce chanson d'adieu."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208648,
-              "dateHeure": "2026-05-22T21:00:00",
-              "idSalle": "GF"
-            }
-          ]
-        },
-        {
           "idFilm": 30206,
           "content": [
             {
@@ -808,38 +794,6 @@
           ]
         },
         {
-          "idFilm": 54898,
-          "content": [
-            {
-              "idFilm": 54898,
-              "ordre": 1,
-              "titre": "Player",
-              "art": "The",
-              "realisateurs": "Robert Altman",
-              "pays": "États-Unis",
-              "annee": 1992,
-              "duree": 124,
-              "version": "VO",
-              "format": "35 mm",
-              "adaptation": "D'après le roman _The Player_ de Michael Tolkin.",
-              "generique": [
-                "Tim Robbins",
-                "Greta Scacchi",
-                "Fred Ward"
-              ],
-              "isFocus": true,
-              "miniTexte": "Avec l'histoire d'un responsable de studio arrogant, harcelé par un mystérieux scénariste recalé, Robert Altman signe un portrait au vitriol de l'industrie du cinéma. Du plan-séquence inaugural au final métacinématographique, le film dévoile une intrigue policière qui multiplie les trouvailles (clins d'œil cinéphiles, défilé de caméos prestigieux) dans une mise en abyme tentaculaire, cynique et savoureuse. Double consécration cannoise : Prix de la mise en scène et meilleure interprétation pour Tim Robbins."
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208679,
-              "dateHeure": "2026-05-08T18:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        },
-        {
           "idFilm": 30217,
           "content": [
             {
@@ -865,6 +819,57 @@
               "idSeance": 208574,
               "dateHeure": "2026-05-09T15:00:00",
               "idSalle": "GF"
+            }
+          ]
+        },
+        {
+          "idEvenement": 35822,
+          "content": [
+            {
+              "idFilm": 88647,
+              "ordre": 1,
+              "titre": "Pot au feu",
+              "realisateurs": "Robert Altman",
+              "pays": "États-Unis",
+              "annee": 1967,
+              "duree": 9,
+              "version": "VF",
+              "format": "16 mm",
+              "generique": [
+                "B. C. Altman",
+                "Helen Matthews Altman"
+              ],
+              "miniTexte": "À la façon d'une émission culinaire, un montage au rythme enlevé qui montre les plaisirs de fumer de la marijuana. Accompagné d'une chanson d'Édith Piaf, un court plein d'humour, connu pour avoir convaincu les producteurs de confier _M*A*S*H_ au cinéaste."
+            },
+            {
+              "idFilm": 70788,
+              "ordre": 2,
+              "titre": "Countdown",
+              "realisateurs": "Robert Altman",
+              "pays": "États-Unis",
+              "annee": 1967,
+              "duree": 101,
+              "version": "VO",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _The Pilgrim Project_ de Hank Searls.",
+              "generique": [
+                "James Caan",
+                "Joanna Cook Moore",
+                "Robert Duvall"
+              ],
+              "miniTexte": "Alors que les Russes s'apprêtent à gagner la course spatiale, la NASA lance un programme d'urgence à haut risque : envoyer un seul astronaute sur la Lune à bord d'une capsule Gemini, où il devra survivre jusqu'à la mission suivante. Deux ans avant l'alunissage d'Apollo 11, Altman réunit James Caan et Robert Duvall dans une odyssée lunaire inspirée de _The Pilgrim Project_ de Hank Searls, avant d'être renvoyé par la Warner qui n'apprécie guère son usage des dialogues superposés."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208679,
+              "dateHeure": "2026-05-08T18:00:00",
+              "idSalle": "HL"
+            },
+            {
+              "idSeance": 208713,
+              "dateHeure": "2026-05-18T20:45:00",
+              "idSalle": "JE"
             }
           ]
         },

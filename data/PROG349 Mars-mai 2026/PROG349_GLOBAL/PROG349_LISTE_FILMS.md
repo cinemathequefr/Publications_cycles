@@ -171,11 +171,12 @@
   * Tortue sur le dos (La)  
   * Une chambre en ville
 
-## Ken Loach (31)
+## Ken Loach (33)
 
   * Black Jack  
   * Bread and Roses  
   * Carla's Song  
+  * Chacun son cinéma  
   * Dockers de Liverpool (Les)  
   * Esprit de 45 (L')  
   * Family Life  
@@ -199,6 +200,7 @@
   * Regards et sourires  
   * Riff-Raff  
   * Route Irish  
+  * September 11  
   * Sorry We Missed You  
   * Sweet Sixteen  
   * Tickets  
@@ -343,14 +345,15 @@
   * Roi de la piste (Le)  
   * Troublez-moi ce soir
 
-## Parlons cinéma... avec (3)
+## Parlons cinéma... avec Fabrice Gabriel (3)
 
   * Faux mouvement  
   * Homme de l'Ouest (L')  
   * Nouvelle vague
 
-## Robert Altman (58)
+## Robert Altman (59)
 
+  * Aria : Les Boréades  
   * Basements  
   * Beyond Therapy  
   * Brewster McCloud  
@@ -380,8 +383,8 @@
   * Nous sommes tous des voleurs  
   * O.C. and Stiggs  
   * Perfect Crime (The)  
-  * Player (The)  
   * Popeye  
+  * Pot au feu  
   * Prêt-à-porter  
   * Privé (Le)  
   * Quintet  
