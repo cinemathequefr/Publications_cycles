@@ -3,57 +3,60 @@
   "sousCycles": [
     {
       "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 35808,
-          "content": [
-            {
-              "idConf": 35808,
-              "titre": "Inventer l'archive",
-              "sousTitre": "Conférence de Dominique Païni",
-              "typeConference": "Conférence"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 206625,
-              "dateHeure": "2026-04-02T17:30:00",
-              "idSalle": "JE"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "tri": 4,
       "titreSousCycle": "Les films",
       "items": [
         {
-          "idFilm": 48871,
-          "content": [
+          "groupe": [
+            {
+              "idEvenement": 35808,
+              "content": [
+                {
+                  "idConf": 35808,
+                  "titre": "Inventer l'archive",
+                  "sousTitre": "Conférence de Dominique Païni",
+                  "typeConference": "Conférence"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 206625,
+                  "idSeanceAssoc": 208807,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-04-02T17:30:00",
+                  "idSalle": "JE"
+                }
+              ]
+            },
             {
               "idFilm": 48871,
-              "ordre": 1,
-              "titre": "Une femme mariée",
-              "realisateurs": "Jean-Luc Godard",
-              "pays": "France",
-              "annee": 1964,
-              "duree": 95,
-              "version": "",
-              "format": "DCP",
-              "generique": [
-                "Macha Méril",
-                "Bernard Noël",
-                "Philippe Leroy"
+              "content": [
+                {
+                  "idFilm": 48871,
+                  "ordre": 1,
+                  "titre": "Une femme mariée",
+                  "realisateurs": "Jean-Luc Godard",
+                  "pays": "France",
+                  "annee": 1964,
+                  "duree": 95,
+                  "version": "",
+                  "format": "DCP",
+                  "generique": [
+                    "Macha Méril",
+                    "Bernard Noël",
+                    "Philippe Leroy"
+                  ]
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208807,
+                  "idSeanceAssoc": 206625,
+                  "typeAssoc": 117,
+                  "dateHeure": "2026-04-02T19:30:00",
+                  "idSalle": "JE",
+                  "mentionAssoc": "Film choisi par le conférencier"
+                }
               ]
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208807,
-              "dateHeure": "2026-04-02T19:30:00",
-              "idSalle": "JE"
             }
           ]
         }

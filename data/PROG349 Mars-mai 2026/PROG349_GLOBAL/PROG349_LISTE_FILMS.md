@@ -4,6 +4,10 @@
 
   * Une femme mariée
 
+## Aujourd'hui le cinéma (1)
+
+  * Vif-argent
+
 ## Ciné-club de Murielle Joudet (3)
 
   * Dillinger est mort  
