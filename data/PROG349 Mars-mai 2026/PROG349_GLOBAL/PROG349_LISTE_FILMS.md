@@ -7,7 +7,7 @@
 ## Aujourd'hui le cinéma (2)
 
   * Un balcon à Limoges  
-  * Vif-argent
+  * Vif-Argent
 
 ## Ciné-club de Murielle Joudet (3)
 
@@ -53,9 +53,9 @@
   * Prestidigitateur, II  
   * Repas fantastique (Le)  
   * Serpent  
-  * Souverains et hommes illustres  
   * Squelette joyeux (Le)  
-  * Substitutions  
+  * Tentation de Saint-Antoine  
+  * Thiers, Mac-Mahon, Grévy, Carnot, Félix Faure  
   * Un prêté pour un rendu  
   * West Beyrouth (bande-annonce)
 

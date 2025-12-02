@@ -112,13 +112,13 @@
               "format": "35 mm"
             },
             {
-              "idFilm": 155634,
+              "idFilm": 155659,
               "ordre": 10,
-              "titre": "Souverains et hommes illustres",
+              "titre": "Thiers, Mac-Mahon, Grévy, Carnot, Félix Faure",
               "realisateurs": "Anonyme",
               "pays": "France",
               "annee": 1898,
-              "duree": 3,
+              "duree": 1,
               "version": "",
               "format": "35 mm"
             },
@@ -204,15 +204,12 @@
               "format": "35 mm"
             },
             {
-              "idFilm": 155642,
+              "idFilm": 155660,
               "ordre": 18,
-              "titre": "Substitutions",
+              "titre": "Tentation de Saint-Antoine",
               "realisateurs": "Gaston Velle",
               "pays": "France",
-              "annee": 1903,
-              "duree": 1,
-              "version": "",
-              "format": "35 mm"
+              "annee": 1903
             },
             {
               "idFilm": 155643,
@@ -296,7 +293,8 @@
             {
               "idSeance": 208822,
               "dateHeure": "2026-04-03T18:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Accompagnement musical par Ignacio Plaza. Séance présentée par Frédéric Tabet"
             }
           ]
         },
@@ -322,7 +320,8 @@
             {
               "idSeance": 208673,
               "dateHeure": "2026-04-03T20:30:00",
-              "idSalle": "JE"
+              "idSalle": "JE",
+              "mention": "Séance présentée par Frédéric Tabet"
             }
           ]
         }
@@ -431,5 +430,18 @@
       ]
     }
   ],
-  "syntheseAction": {}
+  "syntheseAction": {
+    "Séances présentées": [
+      {
+        "titreFilms": "Le Pont-Neuf / Arc de triomphe / Place Bellecour / Colleurs d'affiches / Danse serpentine, I / Escamotage d'une dame chez Robert-Houdin / Les Bouteilles / Peinture à l'envers / Le Squelette joyeux / Thiers, Mac-Mahon, Grévy, Carnot, Félix Faure / Prestidigitateur, I / Prestidigitateur, II / Le Prestidigitateur au café / Le Château hanté / Pierrot et la flûte enchantée / Le Repas fantastique / Les Poupées / Tentation de Saint-Antoine / Un prêté pour un rendu / Pierrot et la mouche / Jongleur au ballon / Assiettes tournantes / Serpent / Chapeaux à transformation / Écriture à l'envers",
+        "mention": "par Frédéric Tabet",
+        "dateHeure": "2026-04-03T18:30:00"
+      },
+      {
+        "titreFilms": "L'Illusionniste",
+        "mention": "par Frédéric Tabet",
+        "dateHeure": "2026-04-03T20:30:00"
+      }
+    ]
+  }
 }

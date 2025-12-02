@@ -619,9 +619,9 @@
     "items": [
       {
         "idFilm": 142497,
-        "titre": "Vif-argent",
+        "titre": "Vif-Argent",
         "realisateurs": "Stéphane Batut",
-        "annee": 2018,
+        "annee": 2019,
         "duree": 106,
         "format": "DCP"
       }
@@ -825,7 +825,7 @@
   {
     "idSeance": 208407,
     "idEvenement": 35274,
-    "dateHeure": "2026-03-26T21:00:00",
+    "dateHeure": "2026-03-26T21:30:00",
     "salle": "GF",
     "cycle": [
       [
@@ -1012,8 +1012,8 @@
     "hashEvenement": "f111776"
   },
   {
-    "idSeance": 206531,
-    "idEvenement": 35356,
+    "idSeance": 208841,
+    "idEvenement": 35355,
     "dateHeure": "2026-03-28T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -1024,17 +1024,18 @@
     ],
     "items": [
       {
-        "idFilm": 40668,
-        "titre": "Nibelungen, partie 2 : La Vengeance de Kriemhild",
+        "idFilm": 40677,
+        "titre": "Nibelungen, partie 1 : La Mort de Siegfried",
         "art": "Les",
         "realisateurs": "Fritz Lang",
         "annee": 1924,
-        "duree": 130,
+        "duree": 149,
         "version": "INT. FR.",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f40668"
+    "hashEvenement": "f40677"
   },
   {
     "idSeance": 208411,
@@ -1072,8 +1073,8 @@
     "hashEvenement": "f58849c35578"
   },
   {
-    "idSeance": 206532,
-    "idEvenement": 35355,
+    "idSeance": 208842,
+    "idEvenement": 35356,
     "dateHeure": "2026-03-28T17:30:00",
     "salle": "HL",
     "cycle": [
@@ -1084,18 +1085,17 @@
     ],
     "items": [
       {
-        "idFilm": 40677,
-        "titre": "Nibelungen, partie 1 : La Mort de Siegfried",
+        "idFilm": 40668,
+        "titre": "Nibelungen, partie 2 : La Vengeance de Kriemhild",
         "art": "Les",
         "realisateurs": "Fritz Lang",
         "annee": 1924,
-        "duree": 149,
+        "duree": 130,
         "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f40677"
+    "hashEvenement": "f40668"
   },
   {
     "idSeance": 208412,
@@ -1763,6 +1763,7 @@
         "Magiciens pris sur le vif : Velle, Trewey, Méliès"
       ]
     ],
+    "mention": "Accompagnement musical par Ignacio Plaza. Séance présentée par Frédéric Tabet",
     "items": [
       {
         "idFilm": 155628,
@@ -1839,11 +1840,11 @@
         "format": "35 mm"
       },
       {
-        "idFilm": 155634,
-        "titre": "Souverains et hommes illustres",
+        "idFilm": 155659,
+        "titre": "Thiers, Mac-Mahon, Grévy, Carnot, Félix Faure",
         "realisateurs": "Anonyme",
         "annee": 1898,
-        "duree": 3,
+        "duree": 1,
         "format": "35 mm"
       },
       {
@@ -1907,12 +1908,10 @@
         "format": "35 mm"
       },
       {
-        "idFilm": 155642,
-        "titre": "Substitutions",
+        "idFilm": 155660,
+        "titre": "Tentation de Saint-Antoine",
         "realisateurs": "Gaston Velle",
-        "annee": 1903,
-        "duree": 1,
-        "format": "35 mm"
+        "annee": 1903
       },
       {
         "idFilm": 155643,
@@ -1971,7 +1970,7 @@
         "format": "35 mm"
       }
     ],
-    "hashEvenement": "f155628f155629f129691f155630f155631f52460f155632f155633f75130f155634f155635f155636f155637f155638f155639f155640f155641f155642f155643f155644f155645f155646f155647f129979f155648"
+    "hashEvenement": "f155628f155629f129691f155630f155631f52460f155632f155633f75130f155659f155635f155636f155637f155638f155639f155640f155641f155660f155643f155644f155645f155646f155647f129979f155648"
   },
   {
     "idSeance": 208418,
@@ -2009,6 +2008,7 @@
         "Magiciens pris sur le vif : Velle, Trewey, Méliès"
       ]
     ],
+    "mention": "Séance présentée par Frédéric Tabet",
     "items": [
       {
         "idFilm": 100932,
@@ -2978,7 +2978,7 @@
         "titre": "Fils puni",
         "art": "Le",
         "realisateurs": "Philippe Collin",
-        "annee": 1978,
+        "annee": 1980,
         "duree": 90,
         "format": "16 mm"
       }
