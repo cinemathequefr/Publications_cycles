@@ -602,49 +602,33 @@
           ]
         },
         {
-          "groupe": [
+          "idFilm": 116303,
+          "content": [
             {
               "idFilm": 116303,
-              "content": [
-                {
-                  "idFilm": 116303,
-                  "ordre": 1,
-                  "titre": "Part des anges",
-                  "art": "La",
-                  "titreVo": "Angels' Share",
-                  "artVo": "The",
-                  "realisateurs": "Ken Loach",
-                  "pays": "Grande-Bretagne-France-Belgique-Italie",
-                  "annee": 2012,
-                  "duree": 106,
-                  "version": "VOSTF",
-                  "format": "DCP",
-                  "generique": [
-                    "Paul Brannigan",
-                    "John Henshaw",
-                    "Gary Maitland"
-                  ]
-                }
+              "ordre": 1,
+              "titre": "Part des anges",
+              "art": "La",
+              "titreVo": "Angels' Share",
+              "artVo": "The",
+              "realisateurs": "Ken Loach",
+              "pays": "Grande-Bretagne-France-Belgique-Italie",
+              "annee": 2012,
+              "duree": 106,
+              "version": "VOSTF",
+              "format": "DCP",
+              "generique": [
+                "Paul Brannigan",
+                "John Henshaw",
+                "Gary Maitland"
               ]
-            },
+            }
+          ],
+          "seances": [
             {
-              "idEvenement": 35580,
-              "content": [
-                {
-                  "idConf": 35580,
-                  "ordre": 2,
-                  "titre": "Ken Loach par Ken Loach. Leçon de cinéma",
-                  "typeConference": "Dialogue"
-                }
-              ],
-              "seances": [
-                {
-                  "idSeance": 208726,
-                  "typeAssoc": 118,
-                  "dateHeure": "2026-04-17T18:00:00",
-                  "idSalle": "HL"
-                }
-              ]
+              "idSeance": 208726,
+              "dateHeure": "2026-04-17T18:00:00",
+              "idSalle": "HL"
             }
           ]
         },
@@ -925,14 +909,36 @@
           ]
         }
       ]
+    },
+    {
+      "tri": 4,
+      "titreSousCycle": "Rencontres et conférences",
+      "items": [
+        {
+          "idConf": 35580,
+          "content": [
+            {
+              "idConf": 35580,
+              "titre": "Ken Loach par Ken Loach. Leçon de cinéma",
+              "typeConference": "Dialogue"
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208565,
+              "dateHeure": "2026-04-17T21:00:00",
+              "idSalle": "HL"
+            }
+          ]
+        }
+      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
-        "titreFilms": "La Part des anges",
         "mention": "Ken Loach par Ken Loach. Leçon de cinéma",
-        "dateHeure": "2026-04-17T18:00:00"
+        "dateHeure": "2026-04-17T21:00:00"
       }
     ]
   }

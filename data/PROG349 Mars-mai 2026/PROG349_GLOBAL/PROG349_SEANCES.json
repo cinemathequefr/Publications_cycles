@@ -408,8 +408,8 @@
     "hashEvenement": "f39820"
   },
   {
-    "idSeance": 206385,
-    "idEvenement": 35375,
+    "idSeance": 208868,
+    "idEvenement": 35352,
     "dateHeure": "2026-03-22T14:30:00",
     "salle": "HL",
     "cycle": [
@@ -420,16 +420,17 @@
     ],
     "items": [
       {
-        "idFilm": 93060,
-        "titre": "Docteur Mabuse, le joueur, partie 2 : Inferno, un jeu de nos contemporains",
+        "idFilm": 40681,
+        "titre": "Docteur Mabuse, le joueur, partie 1 : Le Grand joueur, un tableau de notre époque",
         "realisateurs": "Fritz Lang",
         "annee": 1922,
-        "duree": 115,
+        "duree": 155,
         "version": "INT. FR.",
-        "format": "DCP"
+        "format": "DCP",
+        "restauration": true
       }
     ],
-    "hashEvenement": "f93060"
+    "hashEvenement": "f40681"
   },
   {
     "idSeance": 208747,
@@ -480,8 +481,8 @@
     "hashEvenement": "f43136"
   },
   {
-    "idSeance": 206386,
-    "idEvenement": 35352,
+    "idSeance": 208869,
+    "idEvenement": 35375,
     "dateHeure": "2026-03-22T17:45:00",
     "salle": "HL",
     "cycle": [
@@ -492,17 +493,16 @@
     ],
     "items": [
       {
-        "idFilm": 40681,
-        "titre": "Docteur Mabuse, le joueur, partie 1 : Le Grand joueur, un tableau de notre époque",
+        "idFilm": 93060,
+        "titre": "Docteur Mabuse, le joueur, partie 2 : Inferno, un jeu de nos contemporains",
         "realisateurs": "Fritz Lang",
         "annee": 1922,
-        "duree": 155,
+        "duree": 115,
         "version": "INT. FR.",
-        "format": "DCP",
-        "restauration": true
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f40681"
+    "hashEvenement": "f93060"
   },
   {
     "idSeance": 208350,
@@ -532,7 +532,7 @@
   {
     "idSeance": 208345,
     "idEvenement": 35363,
-    "dateHeure": "2026-03-22T20:45:00",
+    "dateHeure": "2026-03-22T20:30:00",
     "salle": "HL",
     "cycle": [
       [
@@ -3187,10 +3187,6 @@
       [
         "Ken Loach",
         "Les films"
-      ],
-      [
-        "Ken Loach",
-        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -3203,15 +3199,9 @@
         "duree": 106,
         "version": "VOSTF",
         "format": "DCP"
-      },
-      {
-        "idConf": 35580,
-        "titre": "Ken Loach par Ken Loach. Leçon de cinéma",
-        "typeConference": "Dialogue",
-        "duree": 60
       }
     ],
-    "hashEvenement": "f116303c35580"
+    "hashEvenement": "f116303"
   },
   {
     "idSeance": 208534,
@@ -3260,6 +3250,27 @@
       }
     ],
     "hashEvenement": "f155587"
+  },
+  {
+    "idSeance": 208565,
+    "idEvenement": 35580,
+    "dateHeure": "2026-04-17T21:00:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Ken Loach",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idConf": 35580,
+        "titre": "Ken Loach par Ken Loach. Leçon de cinéma",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "c35580"
   },
   {
     "idSeance": 208761,
@@ -4768,7 +4779,7 @@
   {
     "idSeance": 208626,
     "idEvenement": 35707,
-    "dateHeure": "2026-04-30T19:30:00",
+    "dateHeure": "2026-04-30T19:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5867,6 +5878,10 @@
       [
         "Greta Garbo",
         "Les films"
+      ],
+      [
+        "Greta Garbo",
+        "Rencontres et conférences"
       ]
     ],
     "items": [
@@ -5878,9 +5893,15 @@
         "duree": 70,
         "version": "VO",
         "format": "35 mm"
+      },
+      {
+        "idConf": 35577,
+        "titre": "Dialogue avec René de Ceccatty",
+        "typeConference": "Dialogue",
+        "duree": 60
       }
     ],
-    "hashEvenement": "f32072"
+    "hashEvenement": "f32072c35577"
   },
   {
     "idSeance": 208574,
@@ -5928,27 +5949,6 @@
       }
     ],
     "hashEvenement": "f47922"
-  },
-  {
-    "idSeance": 208502,
-    "idEvenement": 35577,
-    "dateHeure": "2026-05-09T16:00:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Greta Garbo",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idConf": 35577,
-        "titre": "Dialogue avec René de Ceccatty",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "c35577"
   },
   {
     "idSeance": 208583,

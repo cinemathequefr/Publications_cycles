@@ -373,12 +373,11 @@
   * Victoire en Ukraine (La)  
   * Zvenygora
 
-## Orson Welles (20)
+## Orson Welles (19)
 
   * Citizen Kane  
   * Citizen Welles  
   * De l'autre côté du vent  
-  * Dossier secret  
   * Ed Wood  
   * Mank  
   * Nuit qui terrifia l'Amérique (La)  
@@ -435,49 +434,29 @@
   * Tout de suite maintenant  
   * Tricheurs
 
-## Restaurations et raretés, best of 2025 (41)
+## Restaurations et raretés, best of 2025 (21)
 
   * Au-delà de l'oubli  
-  * Bashu, le petit étranger  
   * Bête à l'affût (La)  
   * Boulevard du crépuscule  
-  * Buddenbrooks (Les)  
   * Carmen de Kawachi  
   * Contre la loi  
   * Danger : Diabolik !  
-  * Descent (The)  
   * Duel au soleil  
   * Écoutez les grondements de l'océan  
-  * Étoiles  
   * Fantozzi  
-  * Feux dans la plaine  
   * Filles (Les)  
-  * Histoires de fantômes chinois  
-  * Intrus magnifique (L')  
-  * Iracema  
   * Kwaïdan  
-  * Let My Puppets Come  
-  * Lolita  
   * Longue Nuit de l'exorcisme (La)  
   * Macho Dancer  
-  * Malina  
-  * Mauvais Coups (Les)  
-  * Mort aux trousses (La)  
   * Nuits fauves (Les)  
   * Onze heures sonnaient  
-  * Panthère Rose (La)  
-  * Quand la colère éclate  
   * Queen Kelly  
   * Rapt  
-  * Sainte Nuit  
   * Samba Traoré  
-  * Sholay (Director's Cut)  
-  * Story of Joanna (The)  
   * Sur (El)  
-  * Sur le territoire des Comanches  
   * Tatami  
-  * Vérité sur Bébé Donge (La)  
-  * Ville à vendre
+  * Vérité sur Bébé Donge (La)
 
 ## Rita Hayworth (20)
 

@@ -195,32 +195,48 @@
           ]
         },
         {
-          "idFilm": 32072,
-          "content": [
+          "groupe": [
             {
               "idFilm": 32072,
-              "ordre": 1,
-              "titre": "Comme tu me veux",
-              "titreVo": "As You Desire Me",
-              "realisateurs": "George Fitzmaurice",
-              "pays": "États-Unis",
-              "annee": 1932,
-              "duree": 70,
-              "version": "VO",
-              "format": "35 mm",
-              "adaptation": "D'après la pièce _Come tu mi vuoi_ de Luigi Pirandello.",
-              "generique": [
-                "Greta Garbo",
-                "Erich von Stroheim",
-                "Melvyn Douglas"
+              "content": [
+                {
+                  "idFilm": 32072,
+                  "ordre": 1,
+                  "titre": "Comme tu me veux",
+                  "titreVo": "As You Desire Me",
+                  "realisateurs": "George Fitzmaurice",
+                  "pays": "États-Unis",
+                  "annee": 1932,
+                  "duree": 70,
+                  "version": "VO",
+                  "format": "35 mm",
+                  "adaptation": "D'après la pièce _Come tu mi vuoi_ de Luigi Pirandello.",
+                  "generique": [
+                    "Greta Garbo",
+                    "Erich von Stroheim",
+                    "Melvyn Douglas"
+                  ]
+                }
               ]
-            }
-          ],
-          "seances": [
+            },
             {
-              "idSeance": 208819,
-              "dateHeure": "2026-05-09T14:30:00",
-              "idSalle": "HL"
+              "idEvenement": 35577,
+              "content": [
+                {
+                  "idConf": 35577,
+                  "ordre": 2,
+                  "titre": "Film + dialogue avec René de Ceccatty",
+                  "typeConference": "Dialogue"
+                }
+              ],
+              "seances": [
+                {
+                  "idSeance": 208819,
+                  "typeAssoc": 118,
+                  "dateHeure": "2026-05-09T14:30:00",
+                  "idSalle": "HL"
+                }
+              ]
             }
           ]
         },
@@ -720,36 +736,14 @@
           ]
         }
       ]
-    },
-    {
-      "tri": 4,
-      "titreSousCycle": "Rencontres et conférences",
-      "items": [
-        {
-          "idConf": 35577,
-          "content": [
-            {
-              "idConf": 35577,
-              "titre": "Film + dialogue avec René de Ceccatty",
-              "typeConference": "Dialogue"
-            }
-          ],
-          "seances": [
-            {
-              "idSeance": 208502,
-              "dateHeure": "2026-05-09T16:00:00",
-              "idSalle": "HL"
-            }
-          ]
-        }
-      ]
     }
   ],
   "syntheseAction": {
     "Dialogue": [
       {
+        "titreFilms": "Comme tu me veux",
         "mention": "Film + dialogue avec René de Ceccatty",
-        "dateHeure": "2026-05-09T16:00:00"
+        "dateHeure": "2026-05-09T14:30:00"
       }
     ]
   }
