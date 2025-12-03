@@ -373,11 +373,12 @@
   * Victoire en Ukraine (La)  
   * Zvenygora
 
-## Orson Welles (19)
+## Orson Welles (20)
 
   * Citizen Kane  
   * Citizen Welles  
   * De l'autre côté du vent  
+  * Dossier secret  
   * Ed Wood  
   * Mank  
   * Nuit qui terrifia l'Amérique (La)  
