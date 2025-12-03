@@ -60,16 +60,18 @@
   * Paris Express  
   * Symphonie mécanique
 
-## Restaurations et incunables (28)
+## Restaurations et incunables (32)
 
   * Arche (L')  
   * Arrière-pays (L')  
   * Caméra arabe  
+  * Carol for Another Christmas  
   * Chameleon Street  
   * Charade  
   * Cinéphiles 2 : Éric a disparu (Les)  
   * Cinéphiles : Le Retour de Jean (Les)  
   * Dune  
+  * Évaporation de l'homme (L')  
   * Fard de Ginza (Le)  
   * Fresh Vegetable Mystery (The)  
   * Greedy Humpty Dumpty  
@@ -80,6 +82,7 @@
   * Main de Fer contre la bande aux gants blancs  
   * Main de fer et l'évasion du forçat de Croze  
   * Manège  
+  * Mephisto  
   * Pas très catholique  
   * Peeping Penguins  
   * Performance  
@@ -88,6 +91,7 @@
   * Sans titre  
   * So Does an Automobile  
   * Soldier Man  
+  * Spectre du professeur Hichcock (Le)  
   * Till We Meet Again  
   * Vol au-dessus d'un nid de coucou
 

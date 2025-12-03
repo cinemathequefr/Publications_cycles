@@ -201,39 +201,6 @@
           ]
         },
         {
-          "idSeance": 208679,
-          "ordre": 2,
-          "dateHeure": "2026-05-08T18:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 150,
-          "idCategorie": 3245,
-          "idEvenement": 35822,
-          "typeEvenement": 13,
-          "idFilm": 70788,
-          "titre": "Countdown",
-          "realisateurs": "Robert Altman",
-          "annee": 1967,
-          "pays": "États-Unis",
-          "duree": 101,
-          "version": "VO",
-          "format": "35 mm",
-          "generique": [
-            "James Caan",
-            "Joanna Cook Moore",
-            "Robert Duvall"
-          ],
-          "adaptation": "D'après le roman _The Pilgrim Project_ de Hank Searls.",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Alors que les Russes s'apprêtent à gagner la course spatiale, la NASA lance un programme d'urgence à haut risque : envoyer un seul astronaute sur la Lune à bord d'une capsule Gemini, où il devra survivre jusqu'à la mission suivante. Deux ans avant l'alunissage d'Apollo 11, Altman réunit James Caan et Robert Duvall dans une odyssée lunaire inspirée de _The Pilgrim Project_ de Hank Searls, avant d'être renvoyé par la Warner qui n'apprécie guère son usage des dialogues superposés."
-            }
-          ]
-        },
-        {
           "idSeance": 208713,
           "ordre": 2,
           "dateHeure": "2026-05-18T20:45:00",
@@ -1103,6 +1070,40 @@
           ]
         },
         {
+          "idSeance": 208892,
+          "ordre": 1,
+          "dateHeure": "2026-05-08T18:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 150,
+          "idCategorie": 3245,
+          "idEvenement": 35823,
+          "typeEvenement": 13,
+          "idFilm": 54898,
+          "art": "The",
+          "titre": "Player",
+          "realisateurs": "Robert Altman",
+          "annee": 1992,
+          "pays": "États-Unis",
+          "duree": 124,
+          "version": "VO",
+          "format": "35 mm",
+          "generique": [
+            "Tim Robbins",
+            "Greta Scacchi",
+            "Fred Ward"
+          ],
+          "adaptation": "D'après le roman _The Player_ de Michael Tolkin.",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Avec l'histoire d'un responsable de studio arrogant, harcelé par un mystérieux scénariste recalé, Robert Altman signe un portrait au vitriol de l'industrie du cinéma. Du plan-séquence inaugural au final métacinématographique, le film dévoile une intrigue policière qui multiplie les trouvailles (clins d'œil cinéphiles, défilé de caméos prestigieux) dans une mise en abyme tentaculaire, cynique et savoureuse. Double consécration cannoise : Prix de la mise en scène et meilleure interprétation pour Tim Robbins."
+            }
+          ]
+        },
+        {
           "idSeance": 208574,
           "ordre": 1,
           "dateHeure": "2026-05-09T15:00:00",
@@ -1131,37 +1132,6 @@
             {
               "typeTexte": 1000,
               "texte": "Altman adapte pour Walt Disney la célèbre bande-dessinée créée en 1929 par Segar, avec Shelley Duvall (qui de mieux pour incarner Olive) et un Robin Williams débutant en Popeye de chair et d'os. Mi-cartoon musical, mi-parodie satirique, les aventures du marin boosté aux épinards s'ajoutent à la liste des héros de la culture populaire que le cinéaste se plaît à déconstruire."
-            }
-          ]
-        },
-        {
-          "idSeance": 208679,
-          "ordre": 1,
-          "dateHeure": "2026-05-08T18:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 150,
-          "idCategorie": 3245,
-          "idEvenement": 35822,
-          "typeEvenement": 13,
-          "idFilm": 88647,
-          "titre": "Pot au feu",
-          "realisateurs": "Robert Altman",
-          "annee": 1967,
-          "pays": "États-Unis",
-          "duree": 9,
-          "version": "VF",
-          "format": "16 mm",
-          "generique": [
-            "B. C. Altman",
-            "Helen Matthews Altman"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "À la façon d'une émission culinaire, un montage au rythme enlevé qui montre les plaisirs de fumer de la marijuana. Accompagné d'une chanson d'Édith Piaf, un court plein d'humour, connu pour avoir convaincu les producteurs de confier _M*A*S*H_ au cinéaste."
             }
           ]
         },
@@ -2231,8 +2201,15 @@
               "idFonction": 39,
               "fonction": "Intervenant",
               "ordre": 1
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
             }
-          ]
+          ],
+          "mentionAnimation": "Animé par Bernard Benoliel"
         },
         {
           "idSeance": 208605,
@@ -2264,8 +2241,15 @@
               "idFonction": 39,
               "fonction": "Intervenant",
               "ordre": 2
+            },
+            {
+              "nomComplet": "Bernard Benoliel",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 3
             }
-          ]
+          ],
+          "mentionAnimation": "Animé par Bernard Benoliel"
         }
       ],
       "textes": []

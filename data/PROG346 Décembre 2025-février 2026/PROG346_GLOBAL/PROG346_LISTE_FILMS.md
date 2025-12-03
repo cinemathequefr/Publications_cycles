@@ -459,9 +459,8 @@
   * Tatami  
   * Vérité sur Bébé Donge (La)
 
-## Rita Hayworth (20)
+## Rita Hayworth (19)
 
-  * Amours de Carmen (Les)  
   * Arènes sanglantes  
   * Belle du Pacifique (La)  
   * Blonde ou la Rousse (La)  

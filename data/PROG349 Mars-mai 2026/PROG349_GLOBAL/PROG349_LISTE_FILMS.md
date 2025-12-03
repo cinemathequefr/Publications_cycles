@@ -98,7 +98,7 @@
   * Ma fille est somnambule  
   * Manoir hanté (Le)  
   * Mon ami le voisin  
-  * Monte là-dessus  
+  * Monte là-dessus !  
   * Nouvelles (Més)aventures d'Harold Lloyd (Les)  
   * Passez muscade  
   * Petit Frère (Le)  
@@ -348,7 +348,7 @@
   * Homme de l'Ouest (L')  
   * Nouvelle vague
 
-## Robert Altman (59)
+## Robert Altman (60)
 
   * Aria : Les Boréades  
   * Basements  
@@ -380,6 +380,7 @@
   * Nous sommes tous des voleurs  
   * O.C. and Stiggs  
   * Perfect Crime (The)  
+  * Player (The)  
   * Popeye  
   * Pot au feu  
   * Prêt-à-porter  
