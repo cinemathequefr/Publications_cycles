@@ -10,6 +10,36 @@
       "titreSousCycle": "Les films",
       "items": [
         {
+          "idFilm": 29919,
+          "content": [
+            {
+              "idFilm": 29919,
+              "ordre": 1,
+              "titre": "Dracula",
+              "realisateurs": "John Badham",
+              "pays": "États-Unis",
+              "annee": 1979,
+              "duree": 112,
+              "version": "VOSTF",
+              "format": "35 mm",
+              "adaptation": "D'après le roman _Dracula_ de Bram Stoker.",
+              "generique": [
+                "Frank Langella",
+                "Laurence Olivier",
+                "Donald Pleasence",
+                "Kate Nelligan"
+              ]
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208889,
+              "dateHeure": "2026-03-13T16:30:00",
+              "idSalle": "HL"
+            }
+          ]
+        },
+        {
           "idFilm": 30215,
           "content": [
             {
@@ -65,7 +95,7 @@
           "seances": [
             {
               "idSeance": 208268,
-              "dateHeure": "2026-03-14T17:30:00",
+              "dateHeure": "2026-03-14T16:15:00",
               "idSalle": "HL"
             }
           ]
@@ -153,6 +183,11 @@
               "idSeance": 208164,
               "dateHeure": "2026-03-11T20:00:00",
               "idSalle": "HL"
+            },
+            {
+              "idSeance": 208888,
+              "dateHeure": "2026-03-11T20:00:00",
+              "idSalle": "LE"
             }
           ]
         }

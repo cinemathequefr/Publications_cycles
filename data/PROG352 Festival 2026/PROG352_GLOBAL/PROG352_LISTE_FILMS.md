@@ -23,16 +23,18 @@
   * Okraïna  
   * ¡Que viva México!
 
-## Debra Winger (5)
+## Debra Winger (6)
 
   * Chacun sa chance  
   * Officier et gentleman  
+  * Searching for Debra Winger  
   * Tendres passions  
   * Un thé au Sahara  
   * Veuve noire (La)
 
-## John Badham (6)
+## John Badham (7)
 
+  * Dracula  
   * Étroite surveillance  
   * Fièvre du samedi soir (La)  
   * Meurtre en suspens  
@@ -40,9 +42,10 @@
   * Tonnerre de feu  
   * WarGames
 
-## Les 50 ans de la Kadokawa (2)
+## Les 50 ans de la Kadokawa (3)
 
   * Famille Inugami (La)  
+  * Ningen no shōmei  
   * Sailor Suit and Machine Gun
 
 ## Pierre Zucca (2)
@@ -57,7 +60,7 @@
   * Paris Express  
   * Symphonie mécanique
 
-## Restaurations et incunables (26)
+## Restaurations et incunables (28)
 
   * Arche (L')  
   * Arrière-pays (L')  
@@ -73,13 +76,15 @@
   * Koko's Tattoo  
   * Little Nobody  
   * Little Stranger (The)  
+  * Main de fer  
+  * Main de Fer contre la bande aux gants blancs  
+  * Main de fer et l'évasion du forçat de Croze  
   * Manège  
   * Pas très catholique  
   * Peeping Penguins  
   * Performance  
   * Pierre ou les ambiguïtés  
   * Prière aux étoiles (La)  
-  * Rencontres du troisième type  
   * Sans titre  
   * So Does an Automobile  
   * Soldier Man  
