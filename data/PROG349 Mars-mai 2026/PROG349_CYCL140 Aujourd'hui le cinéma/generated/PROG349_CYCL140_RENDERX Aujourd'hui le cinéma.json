@@ -3,6 +3,37 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Stépahe Batut",
+      "items": [
+        {
+          "idFilm": 126705,
+          "content": [
+            {
+              "idFilm": 126705,
+              "ordre": 1,
+              "titre": "Rappel des oiseaux",
+              "art": "Le",
+              "realisateurs": "Stéphane Batut",
+              "pays": "France",
+              "annee": 2014,
+              "duree": 40,
+              "version": "",
+              "format": ""
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 208896,
+              "dateHeure": "2026-03-23T18:30:00",
+              "idSalle": "JE",
+              "mention": "Séance présentée par Stéphane Batut et Dominique Païni"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Une mystérieuse alchimie, avec Tom Harari : Stéphane Batut",
       "items": [
         {
@@ -174,6 +205,13 @@
         "titreFilms": "Un balcon à Limoges",
         "mention": "avec Jérôme Reybaud",
         "dateHeure": "2026-04-20T19:30:00"
+      }
+    ],
+    "Séance présentée": [
+      {
+        "titreFilms": "Le Rappel des oiseaux",
+        "mention": "par Stéphane Batut et Dominique Païni",
+        "dateHeure": "2026-03-23T18:30:00"
       }
     ]
   }

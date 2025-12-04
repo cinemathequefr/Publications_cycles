@@ -4,12 +4,13 @@
 
   * Une femme mariée
 
-## Aujourd'hui le cinéma (7)
+## Aujourd'hui le cinéma (8)
 
   * Diego  
   * Don Quichotte contre les forces du mal  
   * Étrange humeur adolescente (L')  
   * Petit Pont  
+  * Rappel des oiseaux (Le)  
   * Robe peau (La)  
   * Un balcon à Limoges  
   * Vif-Argent
@@ -106,7 +107,7 @@
   * Monte là-dessus !  
   * Nouvelles (Més)aventures d'Harold Lloyd (Les)  
   * Passez muscade  
-  * Petit Frère (Le)  
+  * Petit frère (Le)  
   * Pour le cœur de Jenny  
   * Prince malgré lui  
   * Quel numéro demandez-vous ?  
@@ -254,7 +255,6 @@
   * Chuncho (El)  
   * Colpire al cuore  
   * Compañeros  
-  * Dossiers rouges de la Mondaine (Les)  
   * Ecce bombo  
   * Enquête sur un citoyen au-dessus de tout soupçon  
   * Homicide volontaire  
@@ -263,6 +263,7 @@
   * Mort a pondu un œuf (La)  
   * Nous voulons les colonels  
   * Oiseau au plumage de cristal (L')  
+  * Police a les mains liées (La)  
   * Polices parallèles en action  
   * Rapt à l'italienne  
   * Rendez-vous de Satan (Les)  
@@ -280,7 +281,7 @@
   * Vent d'est (Le)  
   * Victime désignée (La)  
   * Ville accuse (La)  
-  * Violence et passion
+  * Violence et Passion
 
 ## Le film de tueurs en série, 25 indispensables (24)
 
