@@ -571,6 +571,29 @@
   {
     "idCategorie": 4062,
     "typeEvenement": 13,
+    "idEvenement": 35497,
+    "idSeance": 208894,
+    "dateHeure": "2026-05-02T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 41540,
+        "ordre": 1,
+        "idSeance": 208894,
+        "idCopie": 31342,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4062,
+    "typeEvenement": 13,
     "idEvenement": 35491,
     "idSeance": 208741,
     "dateHeure": "2026-05-02T20:00:00",
@@ -640,32 +663,9 @@
   {
     "idCategorie": 4062,
     "typeEvenement": 13,
-    "idEvenement": 35501,
-    "idSeance": 208742,
-    "dateHeure": "2026-05-10T15:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "dureeSeance": 135,
-    "items": [
-      {
-        "idFilm": 103297,
-        "ordre": 1,
-        "idSeance": 208742,
-        "idCopie": 5490,
-        "duree": 109,
-        "version": "VOSTF",
-        "format": "Numérique"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4062,
-    "typeEvenement": 13,
     "idEvenement": 35508,
     "idSeance": 207543,
-    "dateHeure": "2026-05-11T19:00:00",
+    "dateHeure": "2026-05-06T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -688,7 +688,7 @@
     "typeEvenement": 13,
     "idEvenement": 35496,
     "idSeance": 208840,
-    "dateHeure": "2026-05-11T21:15:00",
+    "dateHeure": "2026-05-06T21:15:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -703,6 +703,29 @@
         "duree": 130,
         "version": "",
         "format": ""
+      }
+    ]
+  },
+  {
+    "idCategorie": 4062,
+    "typeEvenement": 13,
+    "idEvenement": 35501,
+    "idSeance": 208742,
+    "dateHeure": "2026-05-10T15:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 135,
+    "items": [
+      {
+        "idFilm": 103297,
+        "ordre": 1,
+        "idSeance": 208742,
+        "idCopie": 5490,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "Numérique"
       }
     ]
   },

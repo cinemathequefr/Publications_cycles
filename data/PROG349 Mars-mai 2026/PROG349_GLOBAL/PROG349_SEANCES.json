@@ -4854,43 +4854,9 @@
     "hashEvenement": "f60056"
   },
   {
-    "idSeance": 208424,
-    "idEvenement": 35545,
-    "dateHeure": "2026-05-02T14:30:00",
-    "salle": "HL",
-    "cycle": [
-      [
-        "Jean-François Stévenin",
-        "Les films"
-      ],
-      [
-        "Jean-François Stévenin",
-        "Rencontres et conférences"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 51337,
-        "titre": "Double messieurs",
-        "realisateurs": "Jean-François Stévenin",
-        "annee": 1986,
-        "duree": 90,
-        "format": "DCP",
-        "restauration": true
-      },
-      {
-        "idConf": 35579,
-        "titre": "Double Messieurs + dialogue",
-        "typeConference": "Dialogue",
-        "duree": 60
-      }
-    ],
-    "hashEvenement": "f51337c35579"
-  },
-  {
     "idSeance": 208563,
     "idEvenement": 35575,
-    "dateHeure": "2026-05-02T15:00:00",
+    "dateHeure": "2026-05-02T14:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -4937,6 +4903,40 @@
     "hashEvenement": "f99030f100478f100481f100477"
   },
   {
+    "idSeance": 208424,
+    "idEvenement": 35545,
+    "dateHeure": "2026-05-02T14:30:00",
+    "salle": "HL",
+    "cycle": [
+      [
+        "Jean-François Stévenin",
+        "Les films"
+      ],
+      [
+        "Jean-François Stévenin",
+        "Rencontres et conférences"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 51337,
+        "titre": "Double messieurs",
+        "realisateurs": "Jean-François Stévenin",
+        "annee": 1986,
+        "duree": 90,
+        "format": "DCP",
+        "restauration": true
+      },
+      {
+        "idConf": 35579,
+        "titre": "Double Messieurs + dialogue",
+        "typeConference": "Dialogue",
+        "duree": 60
+      }
+    ],
+    "hashEvenement": "f51337c35579"
+  },
+  {
     "idSeance": 208739,
     "idEvenement": 35487,
     "dateHeure": "2026-05-02T15:00:00",
@@ -4963,7 +4963,7 @@
   {
     "idSeance": 207351,
     "idEvenement": 35570,
-    "dateHeure": "2026-05-02T17:00:00",
+    "dateHeure": "2026-05-02T16:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5045,6 +5045,30 @@
     "hashEvenement": "f103534"
   },
   {
+    "idSeance": 208894,
+    "idEvenement": 35497,
+    "dateHeure": "2026-05-02T18:00:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Ken Loach",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 41540,
+        "titre": "Raining Stones",
+        "realisateurs": "Ken Loach",
+        "annee": 1993,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ],
+    "hashEvenement": "f41540"
+  },
+  {
     "idSeance": 208573,
     "idEvenement": 29790,
     "dateHeure": "2026-05-02T18:30:00",
@@ -5072,7 +5096,7 @@
   {
     "idSeance": 208771,
     "idEvenement": 35259,
-    "dateHeure": "2026-05-02T19:00:00",
+    "dateHeure": "2026-05-02T20:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5344,7 +5368,7 @@
   {
     "idSeance": 207377,
     "idEvenement": 29789,
-    "dateHeure": "2026-05-04T14:30:00",
+    "dateHeure": "2026-05-04T16:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -5493,30 +5517,6 @@
     "hashEvenement": "f75883"
   },
   {
-    "idSeance": 208581,
-    "idEvenement": 35552,
-    "dateHeure": "2026-05-06T17:15:00",
-    "salle": "JE",
-    "cycle": [
-      [
-        "Jean-François Stévenin",
-        "Les films"
-      ]
-    ],
-    "mention": "Séance présentée par Patricia Mazuy",
-    "items": [
-      {
-        "idFilm": 50124,
-        "titre": "Peaux de vaches",
-        "realisateurs": "Patricia Mazuy",
-        "annee": 1989,
-        "duree": 87,
-        "format": "35 mm"
-      }
-    ],
-    "hashEvenement": "f50124"
-  },
-  {
     "idSeance": 207409,
     "idEvenement": 29793,
     "dateHeure": "2026-05-06T18:00:00",
@@ -5538,6 +5538,29 @@
       }
     ],
     "hashEvenement": "f30151"
+  },
+  {
+    "idSeance": 207543,
+    "idEvenement": 35508,
+    "dateHeure": "2026-05-06T19:00:00",
+    "salle": "JE",
+    "cycle": [
+      [
+        "Ken Loach",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 102149,
+        "titre": "Chacun son cinéma",
+        "realisateurs": "Theo Angelopoulos, Bille August, Olivier Assayas, [etc.]",
+        "annee": 2006,
+        "duree": 110,
+        "format": "Numérique"
+      }
+    ],
+    "hashEvenement": "f102149"
   },
   {
     "idSeance": 208576,
@@ -5590,28 +5613,26 @@
     "hashEvenement": "f56413"
   },
   {
-    "idSeance": 207411,
-    "idEvenement": 35550,
-    "dateHeure": "2026-05-06T20:30:00",
+    "idSeance": 208840,
+    "idEvenement": 35496,
+    "dateHeure": "2026-05-06T21:15:00",
     "salle": "JE",
     "cycle": [
       [
-        "Jean-François Stévenin",
+        "Ken Loach",
         "Les films"
       ]
     ],
-    "mention": "Séance présentée par Lê Lâm",
     "items": [
       {
-        "idFilm": 49619,
-        "titre": "Poussière d'empire",
-        "realisateurs": "Lâm Lê",
-        "annee": 1983,
-        "duree": 105,
-        "format": "DCP"
+        "idFilm": 80596,
+        "titre": "September 11",
+        "realisateurs": "Samira Makhmalbaf, Claude Lelouch, Youssef Chahine, [etc.]",
+        "annee": 2002,
+        "duree": 130
       }
     ],
-    "hashEvenement": "f49619"
+    "hashEvenement": "f80596"
   },
   {
     "idSeance": 208666,
@@ -6419,27 +6440,28 @@
     "hashEvenement": "f56921"
   },
   {
-    "idSeance": 207543,
-    "idEvenement": 35508,
-    "dateHeure": "2026-05-11T19:00:00",
+    "idSeance": 208581,
+    "idEvenement": 35552,
+    "dateHeure": "2026-05-11T18:00:00",
     "salle": "JE",
     "cycle": [
       [
-        "Ken Loach",
+        "Jean-François Stévenin",
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Patricia Mazuy",
     "items": [
       {
-        "idFilm": 102149,
-        "titre": "Chacun son cinéma",
-        "realisateurs": "Theo Angelopoulos, Bille August, Olivier Assayas, [etc.]",
-        "annee": 2006,
-        "duree": 110,
-        "format": "Numérique"
+        "idFilm": 50124,
+        "titre": "Peaux de vaches",
+        "realisateurs": "Patricia Mazuy",
+        "annee": 1989,
+        "duree": 87,
+        "format": "35 mm"
       }
     ],
-    "hashEvenement": "f102149"
+    "hashEvenement": "f50124"
   },
   {
     "idSeance": 207542,
@@ -6466,26 +6488,28 @@
     "hashEvenement": "f29279"
   },
   {
-    "idSeance": 208840,
-    "idEvenement": 35496,
-    "dateHeure": "2026-05-11T21:15:00",
+    "idSeance": 207411,
+    "idEvenement": 35550,
+    "dateHeure": "2026-05-11T20:30:00",
     "salle": "JE",
     "cycle": [
       [
-        "Ken Loach",
+        "Jean-François Stévenin",
         "Les films"
       ]
     ],
+    "mention": "Séance présentée par Lê Lâm",
     "items": [
       {
-        "idFilm": 80596,
-        "titre": "September 11",
-        "realisateurs": "Samira Makhmalbaf, Claude Lelouch, Youssef Chahine, [etc.]",
-        "annee": 2002,
-        "duree": 130
+        "idFilm": 49619,
+        "titre": "Poussière d'empire",
+        "realisateurs": "Lâm Lê",
+        "annee": 1983,
+        "duree": 105,
+        "format": "DCP"
       }
     ],
-    "hashEvenement": "f80596"
+    "hashEvenement": "f49619"
   },
   {
     "idSeance": 208756,
@@ -6733,7 +6757,7 @@
     "items": [
       {
         "idFilm": 39240,
-        "titre": "Nouvelle vague",
+        "titre": "Nouvelle Vague",
         "realisateurs": "Jean-Luc Godard",
         "annee": 1989
       },
@@ -8527,7 +8551,7 @@
   {
     "idSeance": 208674,
     "idEvenement": 35415,
-    "dateHeure": "2026-05-25T18:30:00",
+    "dateHeure": "2026-05-25T18:00:00",
     "salle": "GF",
     "cycle": [
       [
@@ -8546,8 +8570,8 @@
     "hashEvenement": "f83125"
   },
   {
-    "idSeance": 208838,
-    "idEvenement": 35424,
+    "idSeance": 208895,
+    "idEvenement": 35410,
     "dateHeure": "2026-05-25T20:30:00",
     "salle": "GF",
     "cycle": [
@@ -8558,15 +8582,15 @@
     ],
     "items": [
       {
-        "idFilm": 33219,
-        "titre": "Ténèbres",
-        "realisateurs": "Dario Argento",
-        "annee": 1982,
-        "duree": 101,
+        "idFilm": 58206,
+        "titre": "M",
+        "realisateurs": "Joseph Losey",
+        "annee": 1951,
+        "duree": 88,
         "version": "VOSTF",
         "format": "DCP"
       }
     ],
-    "hashEvenement": "f33219"
+    "hashEvenement": "f58206"
   }
 ]

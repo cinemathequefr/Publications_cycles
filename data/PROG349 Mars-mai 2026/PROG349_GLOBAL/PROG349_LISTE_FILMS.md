@@ -175,7 +175,7 @@
   * Tortue sur le dos (La)  
   * Une chambre en ville
 
-## Ken Loach (32)
+## Ken Loach (33)
 
   * Black Jack  
   * Bread and Roses  
@@ -200,6 +200,7 @@
   * Old Oak (The)  
   * Part des anges (La)  
   * Pas de larmes pour Joy  
+  * Raining Stones  
   * Regards et sourires  
   * Riff-Raff  
   * Route Irish  
@@ -281,7 +282,7 @@
   * Ville accuse (La)  
   * Violence et passion
 
-## Le film de tueurs en série, 25 indispensables (25)
+## Le film de tueurs en série, 25 indispensables (24)
 
   * Boulevard de la mort  
   * Cinquième Victime (La)  
@@ -304,7 +305,6 @@
   * Six femmes pour l'assassin  
   * Sixième Sens (Le)  
   * Summer of Sam  
-  * Ténèbres  
   * Tueurs de la lune de miel (Les)  
   * Vengeance est à moi (La)  
   * Zodiac
@@ -351,7 +351,7 @@
 
   * Faux mouvement  
   * Homme de l'Ouest (L')  
-  * Nouvelle vague
+  * Nouvelle Vague
 
 ## Robert Altman (60)
 
