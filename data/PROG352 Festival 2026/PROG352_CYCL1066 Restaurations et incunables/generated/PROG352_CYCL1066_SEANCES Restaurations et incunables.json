@@ -2,6 +2,30 @@
   {
     "idCategorie": 4050,
     "typeEvenement": 13,
+    "idEvenement": 35825,
+    "idSeance": 208893,
+    "dateHeure": "2026-03-11T11:45:00",
+    "idSalle": [
+      "LE",
+      "Lotte Eisner"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 57412,
+        "ordre": 1,
+        "idSeance": 208893,
+        "idCopie": 6263,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4050,
+    "typeEvenement": 13,
     "idEvenement": 35612,
     "idSeance": 208691,
     "dateHeure": "2026-03-11T14:00:00",
@@ -190,22 +214,22 @@
   {
     "idCategorie": 4050,
     "typeEvenement": 13,
-    "idEvenement": 35771,
-    "idSeance": 208232,
-    "dateHeure": "2026-03-13T18:00:00",
+    "idEvenement": 35825,
+    "idSeance": 208881,
+    "dateHeure": "2026-03-13T16:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "LE",
+      "Lotte Eisner"
     ],
-    "dureeSeance": 165,
+    "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 34861,
+        "idFilm": 57412,
         "ordre": 1,
-        "idSeance": 208232,
-        "idCopie": 31317,
-        "duree": 137,
-        "version": "VOSTF",
+        "idSeance": 208881,
+        "idCopie": 6263,
+        "duree": 90,
+        "version": "",
         "format": "DCP",
         "restauration": true
       }
@@ -216,7 +240,7 @@
     "typeEvenement": 13,
     "idEvenement": 35761,
     "idSeance": 208233,
-    "dateHeure": "2026-03-13T20:30:00",
+    "dateHeure": "2026-03-13T18:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -229,6 +253,30 @@
         "idSeance": 208233,
         "idCopie": 31285,
         "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP",
+        "restauration": true
+      }
+    ]
+  },
+  {
+    "idCategorie": 4050,
+    "typeEvenement": 13,
+    "idEvenement": 35771,
+    "idSeance": 208232,
+    "dateHeure": "2026-03-13T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 165,
+    "items": [
+      {
+        "idFilm": 34861,
+        "ordre": 1,
+        "idSeance": 208232,
+        "idCopie": 31317,
+        "duree": 137,
         "version": "VOSTF",
         "format": "DCP",
         "restauration": true

@@ -60,7 +60,7 @@
   * Paris Express  
   * Symphonie mécanique
 
-## Restaurations et incunables (32)
+## Restaurations et incunables (33)
 
   * Arche (L')  
   * Arrière-pays (L')  
@@ -88,6 +88,7 @@
   * Performance  
   * Pierre ou les ambiguïtés  
   * Prière aux étoiles (La)  
+  * Raison du plus fou (La)  
   * Sans titre  
   * So Does an Automobile  
   * Soldier Man  

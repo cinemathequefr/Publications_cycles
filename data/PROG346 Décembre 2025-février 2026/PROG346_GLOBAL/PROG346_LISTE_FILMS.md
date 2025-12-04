@@ -435,7 +435,7 @@
   * Tout de suite maintenant  
   * Tricheurs
 
-## Restaurations et raretés, best of 2025 (21)
+## Restaurations et raretés, best of 2025 (20)
 
   * Au-delà de l'oubli  
   * Bête à l'affût (La)  
@@ -450,7 +450,6 @@
   * Kwaïdan  
   * Longue Nuit de l'exorcisme (La)  
   * Macho Dancer  
-  * Nuits fauves (Les)  
   * Onze heures sonnaient  
   * Queen Kelly  
   * Rapt  
