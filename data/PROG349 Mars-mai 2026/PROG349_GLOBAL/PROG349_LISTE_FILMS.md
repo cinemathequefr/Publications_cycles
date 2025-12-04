@@ -4,8 +4,13 @@
 
   * Une femme mariée
 
-## Aujourd'hui le cinéma (2)
+## Aujourd'hui le cinéma (7)
 
+  * Diego  
+  * Don Quichotte contre les forces du mal  
+  * Étrange humeur adolescente (L')  
+  * Petit Pont  
+  * Robe peau (La)  
   * Un balcon à Limoges  
   * Vif-Argent
 

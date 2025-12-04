@@ -1,3 +1,5 @@
+> Fêter les 90 ans de la Cinémathèque, c'est aussi honorer Lotte Eisner, conservatrice historique de l'institution, et autrice en 1952 de _L'Écran démoniaque_, ouvrage fondamental dans l'histoire du cinéma. Berlinoise réfugiée en France en 1933, elle signe avec ce livre un éloge fiévreux du cinéma expressionniste allemand. Elle en sonde les racines littéraires et théâtrales, pour mieux célébrer le génie de Murnau, Lang, Louise Brooks, et d'autres figures du cinéma d'outre-Rhin que le temps a peu à peu effacées, que cette rétrospective remettra sur le devant de la scène.
+
 # « Les films doivent être des dessins doués de vie »
 
 _L'Écran démoniaque_ : titre génial de l'un des livres les plus importants de l'histoire du cinéma, publié en 1952 à Paris par Lotte H. Eisner (1896-1983), première conservatrice de la Cinémathèque française, chassée de Berlin par les nazis en 1933, ex-journaliste au _Film-Kurier_, grande amie de Fritz Lang, Bertolt Brecht, Louise Brooks... Bien qu'Allemande, elle a rédigé à 56 ans son livre en langue française, avec une intelligence qui sera saluée par André Breton.
