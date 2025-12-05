@@ -242,7 +242,7 @@
   * Tombeau hindou, partie 2 : Le Tigre du Bengale (Le)  
   * Trois lumières (Les)
 
-## Le cinéma italien des années de plomb (38)
+## Le cinéma italien des années de plomb (39)
 
   * Adorable Corps de Deborah (L')  
   * Allonsanfàn  
@@ -265,6 +265,7 @@
   * Oiseau au plumage de cristal (L')  
   * Police a les mains liées (La)  
   * Polices parallèles en action  
+  * Rançon de la peur (La)  
   * Rapt à l'italienne  
   * Rendez-vous de Satan (Les)  
   * Romances et Confidences  
