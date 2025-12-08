@@ -360,6 +360,7 @@
             "Jean Epstein"
           ],
           "dureeSeance": 30,
+          "mention": "Séance présentée par Élias Hérody",
           "idCategorie": 4048,
           "idEvenement": 35256,
           "typeEvenement": 13,
@@ -525,12 +526,12 @@
           ]
         },
         {
-          "idSeance": 206874,
+          "idSeance": 208901,
           "ordre": 1,
-          "dateHeure": "2026-04-12T14:30:00",
+          "dateHeure": "2026-04-16T20:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "dureeSeance": 150,
           "idCategorie": 4048,
@@ -970,7 +971,7 @@
         {
           "idSeance": 208458,
           "ordre": 1,
-          "dateHeure": "2026-04-16T20:30:00",
+          "dateHeure": "2026-04-16T18:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1078,6 +1079,40 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 208761,
+          "ordre": 2,
+          "dateHeure": "2026-04-18T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "dureeSeance": 60,
+          "typeAssoc": 118,
+          "idCategorie": 4078,
+          "idEvenement": 35585,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Florence Tissot",
+          "duree": 60,
+          "textes": [],
+          "intervenants": [
+            {
+              "nomComplet": "Florence Tissot",
+              "idFonction": 39,
+              "fonction": "Intervenant",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Marién Gómez",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Animé par Marién Gómez"
+        },
+        {
           "idSeance": 208760,
           "ordre": 2,
           "dateHeure": "2026-04-11T14:30:00",
@@ -1118,40 +1153,6 @@
           "mentionAnimation": "Animé par Florence Tissot"
         },
         {
-          "idSeance": 208761,
-          "ordre": 2,
-          "dateHeure": "2026-04-18T14:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "dureeSeance": 60,
-          "typeAssoc": 118,
-          "idCategorie": 4078,
-          "idEvenement": 35585,
-          "typeEvenement": 14,
-          "idTypeConference": 16,
-          "typeConference": "Dialogue",
-          "titre": "Dialogue avec florence Tissot",
-          "duree": 60,
-          "textes": [],
-          "intervenants": [
-            {
-              "nomComplet": "Florence Tissot",
-              "idFonction": 39,
-              "fonction": "Intervenant",
-              "ordre": 1
-            },
-            {
-              "nomComplet": "Marién Gomez",
-              "idFonction": 40,
-              "fonction": "Animateur",
-              "ordre": 2
-            }
-          ],
-          "mentionAnimation": "Animé par Marién Gomez"
-        },
-        {
           "idSeance": 208495,
           "dateHeure": "2026-04-09T19:00:00",
           "idSalle": [
@@ -1169,7 +1170,12 @@
           "titre": "Marilyn Monroe, actrice : écoles de jeu",
           "sousTitre": "Conférence de Marguerite Chabrol",
           "duree": 90,
-          "textes": [],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La star Marilyn Monroe fait souvent oublier l'actrice. Pourtant, ses interprétations sont loin de se réduire à la simple présence d'une célébrité à l'écran ou à la construction d'une image. Monroe a en effet suivi de multiples formations au jeu tout au long de son parcours, des écoles de Los Angeles à son passage plus connu à l'Actors Studio à New York. Cette conférence éclairera certains films clés de l'actrice sous l'angle de ces formations, et surtout de la diversité des théories et modèles de jeu qu'elle a étudiés : du travail chorégraphique avec Jack Cole à ses formations de mouvance stanislavskienne, en passant par un style plus rhétorique lié notamment à la tradition anglaise. – Marguerite Chabrol"
+            }
+          ],
           "intervenants": [
             {
               "nomComplet": "Marguerite Chabrol",

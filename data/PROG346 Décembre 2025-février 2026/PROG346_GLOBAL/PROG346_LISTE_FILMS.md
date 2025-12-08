@@ -435,7 +435,7 @@
   * Tout de suite maintenant  
   * Tricheurs
 
-## Restaurations et raretés, best of 2025 (20)
+## Restaurations et raretés, best of 2025 (19)
 
   * Au-delà de l'oubli  
   * Bête à l'affût (La)  
@@ -455,7 +455,6 @@
   * Rapt  
   * Samba Traoré  
   * Sur (El)  
-  * Tatami  
   * Vérité sur Bébé Donge (La)
 
 ## Rita Hayworth (19)

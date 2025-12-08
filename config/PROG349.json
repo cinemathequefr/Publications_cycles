@@ -245,8 +245,7 @@
       "titreCycle": "Ildikó Enyedi",
       "_charge_prog": "Stefano",
       "sousCycles": [
-        { "titre": "Les films", "cats": [4049], "tri": 2 },
-        { "titre": "Courts métrages", "cats": [4051], "tri": 4 },
+        { "titre": "Les films", "cats": [4049, 4051], "tri": 2 },
         { "titre": "Rencontres et conférences", "cats": [4073], "tri": 4 }
       ],
       "restaurations": []
@@ -299,7 +298,12 @@
       "_charge_prog": "Katia",
       "isReg": false,
       "sousCycles": [
-        { "titre": "Les films", "cats": [4061], "tri": 2 },
+        {
+          "titre": "Jean-François Stévenin cinéaste",
+          "cats": [4117],
+          "tri": 2
+        },
+        { "titre": "Jean-François Stévenin acteur", "cats": [4118], "tri": 2 },
         { "titre": "Rencontres et conférences", "cats": [4074], "tri": 4 }
       ],
       "excludeSeances": [],

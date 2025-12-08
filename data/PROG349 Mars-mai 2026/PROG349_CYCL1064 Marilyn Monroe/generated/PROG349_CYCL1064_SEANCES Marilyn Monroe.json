@@ -203,29 +203,6 @@
   {
     "idCategorie": 4048,
     "typeEvenement": 13,
-    "idEvenement": 35270,
-    "idSeance": 206874,
-    "dateHeure": "2026-04-12T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "dureeSeance": 150,
-    "items": [
-      {
-        "idFilm": 31468,
-        "ordre": 1,
-        "idSeance": 206874,
-        "idCopie": 22735,
-        "duree": 119,
-        "version": "VOSTF",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCategorie": 4048,
-    "typeEvenement": 13,
     "idEvenement": 35269,
     "idSeance": 206876,
     "dateHeure": "2026-04-12T17:15:00",
@@ -274,7 +251,7 @@
     "typeEvenement": 13,
     "idEvenement": 35259,
     "idSeance": 208458,
-    "dateHeure": "2026-04-16T20:30:00",
+    "dateHeure": "2026-04-16T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -287,6 +264,29 @@
         "idSeance": 208458,
         "idCopie": 24748,
         "duree": 76,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4048,
+    "typeEvenement": 13,
+    "idEvenement": 35270,
+    "idSeance": 208901,
+    "dateHeure": "2026-04-16T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 150,
+    "items": [
+      {
+        "idFilm": 31468,
+        "ordre": 1,
+        "idSeance": 208901,
+        "idCopie": 22735,
+        "duree": 119,
         "version": "VOSTF",
         "format": "DCP"
       }
@@ -581,7 +581,8 @@
         "idFilm": 80908,
         "ordre": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Élias Hérody"
   },
   {
     "idCategorie": 4048,

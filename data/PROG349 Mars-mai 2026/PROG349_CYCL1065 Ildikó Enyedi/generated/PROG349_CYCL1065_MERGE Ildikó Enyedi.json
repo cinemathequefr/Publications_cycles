@@ -5,6 +5,34 @@
       "tri": 2,
       "items": [
         {
+          "idSeance": 208806,
+          "ordre": 3,
+          "dateHeure": "2026-03-29T15:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4051,
+          "idEvenement": 35367,
+          "typeEvenement": 13,
+          "idFilm": 155582,
+          "art": "The",
+          "titre": "Conversations of Donkey and Rabbit",
+          "realisateurs": "Ildikó Enyedi",
+          "annee": 2020,
+          "pays": "Hongrie-Grèce",
+          "duree": 4,
+          "version": "VOSTF",
+          "format": "DCP",
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Le confinement et ses conséquences, à travers l'allégorie de la caverne de Platon. Quatre minutes d'une poésie brute."
+            }
+          ]
+        },
+        {
           "idSeance": 206596,
           "ordre": 1,
           "dateHeure": "2026-04-01T19:00:00",
@@ -34,6 +62,38 @@
             {
               "typeTexte": 1000,
               "texte": "Un homme et un femme réalisent qu'ils font chaque nuit le même rêve, dans lequel ils se croisent réincarnés en un cerf et une biche. Ildikó Enyedi filme avec une infinie affection le rapprochement de deux solitudes, jouant du contraste entre une réalité sordide – les deux héros travaillent dans un abattoir – et des scènes oniriques d'une grande beauté. Une romance à combustion lente, sophistiquée et bienveillante, auréolée de l'Ours d'or en 2017."
+            }
+          ]
+        },
+        {
+          "idSeance": 208806,
+          "ordre": 2,
+          "dateHeure": "2026-03-29T15:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "dureeSeance": 120,
+          "idCategorie": 4051,
+          "idEvenement": 35367,
+          "typeEvenement": 13,
+          "idFilm": 155574,
+          "titre": "Első szerelem",
+          "realisateurs": "Ildikó Enyedi",
+          "annee": 2008,
+          "pays": "Hongrie",
+          "duree": 20,
+          "version": "VOSTF",
+          "format": "DCP",
+          "generique": [
+            "Juli Droste",
+            "Pálma Pásztor",
+            "Marcel Rév"
+          ],
+          "textes": [
+            {
+              "typeTexte": 1000,
+              "texte": "Une évocation tendre des amours adolescentes, baignée d'un soupçon de science-fiction."
             }
           ]
         },
@@ -243,73 +303,6 @@
               "texte": "Tourné dans le cadre de la collection d'Arte _2000 vu par..._, l'épisode d'Ildikó Enyedi se concentre sur les péripéties amoureuses d'un mineur charbonnier et d'une jeune éducatrice qui conviennent d'un rendez-vous le soir de la Saint-Sylvestre 1999. L'hiver hongrois, magnifié par la photographie de Tamás Sas, sert d'écrin à une réflexion sensible sur les amours hésitantes et la magie qui les gouverne."
             }
           ]
-        }
-      ],
-      "textes": []
-    },
-    {
-      "titreSousCycle": "Courts métrages",
-      "tri": 4,
-      "items": [
-        {
-          "idSeance": 208806,
-          "ordre": 3,
-          "dateHeure": "2026-03-29T15:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 4051,
-          "idEvenement": 35367,
-          "typeEvenement": 13,
-          "idFilm": 155582,
-          "art": "The",
-          "titre": "Conversations of Donkey and Rabbit",
-          "realisateurs": "Ildikó Enyedi",
-          "annee": 2020,
-          "pays": "Hongrie-Grèce",
-          "duree": 4,
-          "version": "VOSTF",
-          "format": "DCP",
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Le confinement et ses conséquences, à travers l'allégorie de la caverne de Platon. Quatre minutes d'une poésie brute."
-            }
-          ]
-        },
-        {
-          "idSeance": 208806,
-          "ordre": 2,
-          "dateHeure": "2026-03-29T15:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "dureeSeance": 120,
-          "idCategorie": 4051,
-          "idEvenement": 35367,
-          "typeEvenement": 13,
-          "idFilm": 155574,
-          "titre": "Első szerelem",
-          "realisateurs": "Ildikó Enyedi",
-          "annee": 2008,
-          "pays": "Hongrie",
-          "duree": 20,
-          "version": "VOSTF",
-          "format": "DCP",
-          "generique": [
-            "Juli Droste",
-            "Pálma Pásztor",
-            "Marcel Rév"
-          ],
-          "textes": [
-            {
-              "typeTexte": 1000,
-              "texte": "Une évocation tendre des amours adolescentes, baignée d'un soupçon de science-fiction."
-            }
-          ]
         },
         {
           "idSeance": 208806,
@@ -363,7 +356,12 @@
           "typeConference": "Dialogue",
           "titre": "Ildikó Enyedi par Ildikó Enyedi, une leçon de cinéma",
           "duree": 60,
-          "textes": [],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "« Avoir une sorte de style, avoir un langage cinématographique très défini, c'est à mon sens un moyen de défense, un peu comme porter une armure. Moi, je travaille sans armure. Il y a bien des fois où je sens que je ça me met face à un certain danger, et c'est sûr que ce n'est pas toujours très pratique, mais je souhaite que chaque film soit une découverte. Je veux entrer dans des territoires inconnus à chaque fois et je pense qu'en faisant ainsi je m'accorde le plus grand luxe possible. » (Ildikó Enyedi)"
+            }
+          ],
           "intervenants": [
             {
               "nomComplet": "Ildikó Enyedi",
