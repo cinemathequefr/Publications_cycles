@@ -98,30 +98,6 @@
   {
     "idCategorie": 4050,
     "typeEvenement": 13,
-    "idEvenement": 35458,
-    "idSeance": 208272,
-    "dateHeure": "2026-03-12T18:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "dureeSeance": 120,
-    "items": [
-      {
-        "idFilm": 79920,
-        "ordre": 1,
-        "idSeance": 208272,
-        "idCopie": 31136,
-        "duree": 88,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ]
-  },
-  {
-    "idCategorie": 4050,
-    "typeEvenement": 13,
     "idEvenement": 35767,
     "idSeance": 208197,
     "dateHeure": "2026-03-12T20:30:00",
@@ -582,8 +558,8 @@
   {
     "idCategorie": 4050,
     "typeEvenement": 13,
-    "idEvenement": 35773,
-    "idSeance": 208290,
+    "idEvenement": 35458,
+    "idSeance": 208272,
     "dateHeure": "2026-03-15T18:00:00",
     "idSalle": [
       "GF",
@@ -592,12 +568,12 @@
     "dureeSeance": 120,
     "items": [
       {
-        "idFilm": 50515,
+        "idFilm": 79920,
         "ordre": 1,
-        "idSeance": 208290,
-        "idCopie": 31319,
-        "duree": 85,
-        "version": "",
+        "idSeance": 208272,
+        "idCopie": 31136,
+        "duree": 88,
+        "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
@@ -671,6 +647,30 @@
         "duree": 31,
         "version": "INT. FR.",
         "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCategorie": 4050,
+    "typeEvenement": 13,
+    "idEvenement": 35773,
+    "idSeance": 208290,
+    "dateHeure": "2026-03-15T20:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 50515,
+        "ordre": 1,
+        "idSeance": 208290,
+        "idCopie": 31319,
+        "duree": 85,
+        "version": "",
+        "format": "DCP",
+        "restauration": true
       }
     ]
   }

@@ -344,31 +344,6 @@
     "hashEvenement": "f70850"
   },
   {
-    "idSeance": 208272,
-    "idEvenement": 35458,
-    "dateHeure": "2026-03-12T18:00:00",
-    "salle": "GF",
-    "cycle": [
-      [
-        "Restaurations et incunables",
-        "Les films"
-      ]
-    ],
-    "items": [
-      {
-        "idFilm": 79920,
-        "titre": "Till We Meet Again",
-        "realisateurs": "Frank Borzage",
-        "annee": 1944,
-        "duree": 88,
-        "version": "VOSTF",
-        "format": "DCP",
-        "restauration": true
-      }
-    ],
-    "hashEvenement": "f79920"
-  },
-  {
     "idSeance": 208196,
     "idEvenement": 35370,
     "dateHeure": "2026-03-12T18:00:00",
@@ -1115,7 +1090,7 @@
     "items": [
       {
         "idFilm": 155627,
-        "titre": "Once Upon a Time... in Hollywood",
+        "titre": "Once Upon a Time... in Hollywood [DOUBLON, REMPLACER]",
         "realisateurs": "Quentin Tarantino",
         "annee": 2019,
         "duree": 161,
@@ -1429,8 +1404,8 @@
     "hashEvenement": "f141025"
   },
   {
-    "idSeance": 208290,
-    "idEvenement": 35773,
+    "idSeance": 208272,
+    "idEvenement": 35458,
     "dateHeure": "2026-03-15T18:00:00",
     "salle": "GF",
     "cycle": [
@@ -1441,17 +1416,17 @@
     ],
     "items": [
       {
-        "idFilm": 50515,
-        "titre": "Prière aux étoiles",
-        "art": "La",
-        "realisateurs": "Marcel Pagnol",
-        "annee": 1941,
-        "duree": 85,
+        "idFilm": 79920,
+        "titre": "Till We Meet Again",
+        "realisateurs": "Frank Borzage",
+        "annee": 1944,
+        "duree": 88,
+        "version": "VOSTF",
         "format": "DCP",
         "restauration": true
       }
     ],
-    "hashEvenement": "f50515"
+    "hashEvenement": "f79920"
   },
   {
     "idSeance": 208287,
@@ -1528,5 +1503,30 @@
       }
     ],
     "hashEvenement": "f155613"
+  },
+  {
+    "idSeance": 208290,
+    "idEvenement": 35773,
+    "dateHeure": "2026-03-15T20:30:00",
+    "salle": "GF",
+    "cycle": [
+      [
+        "Restaurations et incunables",
+        "Les films"
+      ]
+    ],
+    "items": [
+      {
+        "idFilm": 50515,
+        "titre": "Prière aux étoiles",
+        "art": "La",
+        "realisateurs": "Marcel Pagnol",
+        "annee": 1941,
+        "duree": 85,
+        "format": "DCP",
+        "restauration": true
+      }
+    ],
+    "hashEvenement": "f50515"
   }
 ]
