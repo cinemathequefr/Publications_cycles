@@ -4,7 +4,7 @@
 
   * Une femme mariée
 
-## Aujourd'hui le cinéma (8)
+## Aujourd'hui le cinéma (10)
 
   * Diego  
   * Don Quichotte contre les forces du mal  
@@ -12,7 +12,9 @@
   * Petit Pont  
   * Rappel des oiseaux (Le)  
   * Robe peau (La)  
+  * Tracances (Les)  
   * Un balcon à Limoges  
+  * Une partie de campagne  
   * Vif-Argent
 
 ## Ciné-club de Murielle Joudet (3)

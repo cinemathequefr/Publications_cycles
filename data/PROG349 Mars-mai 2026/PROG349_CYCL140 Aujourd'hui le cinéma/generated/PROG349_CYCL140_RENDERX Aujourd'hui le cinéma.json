@@ -3,6 +3,63 @@
   "sousCycles": [
     {
       "tri": 4,
+      "titreSousCycle": "Victor Boyer",
+      "texteSousCycle": "Dans la lignée du cinéma buissonnier de Jacques Rozier, Victor Boyer réalise _Les Tracances_, film d'été à la fois nonchalant et rigoureux porté par Édouard Sulpice, qui étonne aussi bien dans la gravité que dans la légèreté. Le cinéaste raconte l'expérience inédite vécue par un jeune critique rock au seuil de la paternité. En écho avec son film, Victor Boyer présentera le sublime _Une partie de campagne_ de Jean Renoir.",
+      "items": [
+        {
+          "idEvenement": 35816,
+          "content": [
+            {
+              "idFilm": 155673,
+              "ordre": 1,
+              "titre": "Tracances",
+              "art": "Les",
+              "realisateurs": "Victor Boyer",
+              "pays": "France",
+              "annee": 2024,
+              "duree": 45,
+              "version": "",
+              "format": "DCP",
+              "generique": [
+                "Édouard Sulpice",
+                "Dorothée Levesque"
+              ]
+            },
+            {
+              "idFilm": 50874,
+              "ordre": 2,
+              "titre": "Une partie de campagne",
+              "realisateurs": "Jean Renoir",
+              "pays": "France",
+              "annee": 1936,
+              "duree": 40,
+              "version": "",
+              "format": "DCP",
+              "adaptation": "D'après la nouvelle _Une partie de campagne_ de Guy de Maupassant.",
+              "generique": [
+                "Sylvia Bataille",
+                "Jane Marken",
+                "Jacques Brunius",
+                "André Gabriello",
+                "Georges Darnoux"
+              ],
+              "isFocus": true,
+              "miniTexte": "Tourné en 1936, dans l'allégresse des congés payés naissants, _Une partie de campagne_ raconte la journée de loisirs d'une famille de citadins venue pique-niquer sur les bords du Loing, là où l'on découvre avec délice « une espèce de tendresse pour l'herbe, pour l'eau, pour les arbres ». Le canotier séduit la jeune bourgeoise. Dans un hymne aux forces de la nature, Renoir filme avec bonheur l'éveil des sens et le premier amour. Mais le bonheur est éphémère, bientôt rattrapé par le cloisonnement des classes sociales."
+            }
+          ],
+          "seances": [
+            {
+              "idSeance": 206239,
+              "dateHeure": "2026-03-16T19:30:00",
+              "idSalle": "JE",
+              "mention": "Séance suivie d'une discussion avec Victor Boyer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tri": 4,
       "titreSousCycle": "Stépahe Batut",
       "items": [
         {
@@ -196,6 +253,11 @@
       }
     ],
     "Discussions": [
+      {
+        "titreFilms": "Les Tracances / Une partie de campagne",
+        "mention": "avec Victor Boyer",
+        "dateHeure": "2026-03-16T19:30:00"
+      },
       {
         "titreFilms": "Vif-Argent",
         "mention": "avec Tom Harari et Stéphane Batut",

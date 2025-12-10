@@ -1,5 +1,38 @@
 [
   {
+    "idCategorie": 4107,
+    "typeEvenement": 13,
+    "idEvenement": 35816,
+    "idSeance": 206239,
+    "dateHeure": "2026-03-16T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "dureeSeance": 120,
+    "items": [
+      {
+        "idFilm": 155673,
+        "ordre": 1,
+        "idSeance": 206239,
+        "idCopie": 31455,
+        "duree": 45,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 50874,
+        "ordre": 2,
+        "idSeance": 206239,
+        "idCopie": 3011,
+        "duree": 40,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Victor Boyer"
+  },
+  {
     "idCategorie": 4115,
     "typeEvenement": 13,
     "idEvenement": 35826,
@@ -130,9 +163,6 @@
         "format": "DCP"
       }
     ]
-  },
-  {
-    "mention": "Séance suivie d'une discussion avec Victor Boyer"
   },
   {
     "mention": "Séance suivie d'une discussion avec Germain Lecarpentier"
