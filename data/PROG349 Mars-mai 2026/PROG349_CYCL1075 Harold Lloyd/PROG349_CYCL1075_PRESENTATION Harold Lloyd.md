@@ -16,7 +16,7 @@ Lloyd, un an après _Le Kid_, est l'un des premiers à passer des courts aux lon
 
 Le comique de Lloyd, qui conjugue toutes les dimensions de l'espace, est autant vertical qu'horizontal ; il est vertigineux lorsqu'au suspense de la chute repoussée s'ajoute la virtuosité avec laquelle il passe sans transition, athlétique et cheveux au vent, d'un tram au dos d'un cheval, puis saute dans sa voiture ou dans un train lancés à toute allure (hallucinante séquence finale de _Ça t'la coupe_). Il se pourrait que Tom Cruise, à la croisée de la prouesse physique et de l'autodérision, ait finalement plus à voir avec lui qu'avec Keaton.
 
-# Avec hauteur
+## Avec hauteur
 
 De la brutalité première, de l'égoïsme fondamental et mal dégrossi du burlesque originel (celui, par exemple, des premiers films de Mack Sennett), Lloyd tire une puissance d'inquiétude inégalée. Le mépris (de classe ou de touriste, dans _Faut pas s'en faire_) avec lequel Harold traite régulièrement son entourage est aussi terrifiant que la dérive autoritariste dont il est capable. Le poète et critique Petr Král a dit de lui qu'il regardait avec les dents. Il y a de la cruauté dans son sourire, dans sa façon d'observer par en bas, de se servir des autres, de leur marcher littéralement dessus, de ne pas remarquer une révolution en cours (_Faut pas s'en faire_) ou à l'inverse d'orchestrer de fausses décapitations pour mettre fin au banditisme (_Pattes de chat_). Ce serait le prix à payer pour accéder au rêve américain : à rebours de la naïveté qu'on leur présuppose, les films de Lloyd montrent à quel point celui-là a, aussi, quelque chose de monstrueux.
 
