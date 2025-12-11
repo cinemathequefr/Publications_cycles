@@ -38,7 +38,7 @@
   * Étroite surveillance  
   * Fièvre du samedi soir (La)  
   * Meurtre en suspens  
-  * Once Upon a Time... in Hollywood [DOUBLON, REMPLACER]  
+  * Once Upon a Time... in Hollywood  
   * Tonnerre de feu  
   * WarGames
 
@@ -60,7 +60,7 @@
   * Paris Express  
   * Symphonie mécanique
 
-## Restaurations et incunables (33)
+## Restaurations et incunables (38)
 
   * Arche (L')  
   * Arrière-pays (L')  
@@ -70,12 +70,14 @@
   * Charade  
   * Cinéphiles 2 : Éric a disparu (Les)  
   * Cinéphiles : Le Retour de Jean (Les)  
+  * Client de la morte saison (Le)  
   * Dune  
   * Évaporation de l'homme (L')  
   * Fard de Ginza (Le)  
   * Fresh Vegetable Mystery (The)  
   * Greedy Humpty Dumpty  
   * Koko's Tattoo  
+  * Leaving Las Vegas  
   * Little Nobody  
   * Little Stranger (The)  
   * Main de fer  
@@ -89,11 +91,14 @@
   * Pierre ou les ambiguïtés  
   * Prière aux étoiles (La)  
   * Raison du plus fou (La)  
+  * Regarde, elle a les yeux grand ouverts  
+  * Saga du Napoléon d'Abel Gance (La)  
   * Sans titre  
   * So Does an Automobile  
   * Soldier Man  
   * Spectre du professeur Hichcock (Le)  
   * Till We Meet Again  
+  * Ville à vendre  
   * Vol au-dessus d'un nid de coucou
 
 ## Robert Bober (1)
@@ -103,4 +108,8 @@
 ## Sohrab Shahid Saless (2)
 
   * Dar ghorbat  
-  * Un simple événement  
+  * Un simple événement
+
+## VistaVision (1)
+
+  * À l'ombre des potences  
